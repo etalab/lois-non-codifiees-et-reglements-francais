@@ -1,6 +1,6 @@
 # Article 4
 
-Le délai de six mois mentionné au paragraphe 3 de l'article 1er de la loi du 31 décembre 1913 court :
+Le délai de douze mois mentionné au paragraphe 3 de l'article 1er de la loi du 31 décembre 1913 court :
 
 1° De la date de la notification au ministre intéressé si l'immeuble appartient à l'Etat ;
 
@@ -10,4 +10,4 @@ Le délai de six mois mentionné au paragraphe 3 de l'article 1er de la loi du 3
 
 4° De la date de la notification au propriétaire ou à son représentant, si l'immeuble appartient à un particulier.
 
-Il est délivré récépissé de cette notification par le propriétaire de l'immeuble ou son représentant.
+*dernier alinéa abrogé par le décret 96-541 du 14 juin 1996 JORF du 19 juin 1996*

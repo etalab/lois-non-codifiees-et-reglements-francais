@@ -6,11 +6,11 @@ Dans un délai de trois mois, la liste des immeubles considérés comme classés
 
 La liste des immeubles classés sera tenue à jour et rééditée au moins tous les dix ans.
 
-Les immeubles ou parties d'immeubles publics ou privés qui, sans justifier une demande de classement immédiat, présentent un intérêt d'histoire ou d'art suffisant pour en rendre désirable la préservation pourront, à toute époque, être inscrits, par arrêté du commissaire de la République de région, sur un inventaire supplémentaire.
+Les immeubles ou parties d'immeubles publics ou privés qui, sans justifier une demande de classement immédiat, présentent un intérêt d'histoire ou d'art suffisant pour en rendre désirable la préservation pourront, à toute époque, être inscrits, par arrêté du préfet de région, ou, lorsque l'inscription est proposée par la Commission supérieure des monuments historiques, par arrêté du ministre chargé des affaires culturelles, sur un inventaire supplémentaire.
 
-Peut être également inscrit dans les mêmes conditions tout immeuble nu ou bâti situé dans le champ de visibilité d'un immeuble déjà classé ou inscrit.
+Peut être également inscrit dans les mêmes conditions tout immeuble nu ou bâti situé dans le champ de visibilité d'un immeuble déjà classé ou inscrit. Tout arrêté d'inscription sur l'inventaire supplémentaire des monuments historiques sera publié par les soins du préfet de région au bureau des hypothèques de la situation de l'immeuble inscrit. Cette publication, qui ne donnera lieu à aucune perception au profit du Trésor, sera faite dans les formes et de la manière prescrites par les lois et règlements concernant la publicité foncière.
 
-L'inscription sur cette liste sera notifiée aux propriétaires et entraînera pour eux l'obligation de ne procéder à aucune modification de l'immeuble ou partie de l'immeuble inscrit, sans avoir, deux mois auparavant, avisé le ministre d'Etat chargé des affaires culturelles de leur intention et indiqué les travaux qu'ils se proposent d'effectuer.
+L'inscription sur cette liste sera notifiée aux propriétaires et entraînera pour eux l'obligation de ne procéder à aucune modification de l'immeuble ou partie de l'immeuble inscrit, sans avoir, quatre mois auparavant, avisé le préfet de region de leur intention et indiqué les travaux qu'ils se proposent d'effectuer.
 
 Le ministre ne pourra s'opposer auxdits travaux qu'en engageant la procédure de classement telle qu'elle est prévue par la présente loi.
 
