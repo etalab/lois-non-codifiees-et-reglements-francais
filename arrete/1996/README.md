@@ -1098,7 +1098,6 @@
 - [Arrêté du 26 janvier 1996 (LOGC9600003A)](arrete-du-26-janvier-1996-logc9600003a)
 - [Arrêté du 26 janvier 1996 (LOGC9600004A)](arrete-du-26-janvier-1996-logc9600004a)
 - [Arrêté du 26 janvier 1996 (MENU9600145A)](arrete-du-26-janvier-1996-menu9600145a)
-- [Arrêté du 26 janvier 1996 (TASS9620349A)](arrete-du-26-janvier-1996-tass9620349a)
 - [Arrêté du 26 juillet 1996 (AGRP9601637A)](arrete-du-26-juillet-1996-agrp9601637a)
 - [Arrêté du 26 juillet 1996 (EQUH9501779A)](arrete-du-26-juillet-1996-equh9501779a)
 - [Arrêté du 26 juillet 1996 (TASP9623101A)](arrete-du-26-juillet-1996-tasp9623101a)
