@@ -1,3 +1,5 @@
 # Article 4
 
-Le directeur des relations du travail au ministère du travail, de l'emploi et de la formation professionnelle est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+Les articles 1er, 2 et 3 du présent arrêté sont applicables à compter du 1er décembre 1993.
+
+Jusqu'à l'entrée en vigueur de l'article 1er, les presses à mouvement alternatif de tous systèmes, mues mécaniquement et utilisées à des travaux automatiques, doivent continuer à faire l'objet de visites générales périodiques trimestrielles afin que soit décelée en temps utile, de façon qu'il puisse y être porté remède, toute défectuosité susceptible d'occasionner un accident.

@@ -112,6 +112,7 @@
 - [Décret n°93-787 du 8 avril 1993 (ENVX9300054D)](decret-n93-787-du-8-avril-1993-envx9300054d)
 - [Décret n°93-788 du 8 avril 1993 (LOGX9300059D)](decret-n93-788-du-8-avril-1993-logx9300059d)
 - [Décret n°93-789 du 8 avril 1993 (ACVX9300055D)](decret-n93-789-du-8-avril-1993-acvx9300055d)
+- [Décret n°93-846 du 8 juin 1993 (BUDF9200033D)](decret-n93-846-du-8-juin-1993-budf9200033d)
 - [Décret n°94-118 du 8 février 1994 (ECOP9300651D)](decret-n94-118-du-8-fevrier-1994-ecop9300651d)
 - [Décret n°89-158 du 9 mars 1989 (ECOT8926024D)](decret-n89-158-du-9-mars-1989-ecot8926024d)
 - [Décret n°93-1082 du 9 septembre 1993 (JUSF9350045D)](decret-n93-1082-du-9-septembre-1993-jusf9350045d)

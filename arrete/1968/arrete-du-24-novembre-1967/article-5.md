@@ -4,7 +4,7 @@ Les panneaux et bornes comportant une simple indication sont répartis comme sui
 
 1. Panneaux d'indication
 
-a) " Panneaux routiers et autoroutiers d'indication " :
+a) Panneaux routiers et autoroutiers d'indication :
 
 Type C donnant une indication utile pour la conduite des véhicules :
 
@@ -13,8 +13,6 @@ Panneau C 1 a. - Parc de stationnement.
 Panneau C 1 b. - Parc de stationnement à durée limitée avec contrôle par disque.
 
 Panneau C 1 c. - Parc de stationnement payant quel que soit le mode de perception de la taxe.
-
-article 1er.
 
 Panneau C 2. - Hôpital, éviter le bruit.
 
@@ -44,9 +42,9 @@ Les couleurs ont la signification suivante :
 
 - rouge : route fermée ;
 
-- blanc avec le symbole " chaînes à neige " : chaînes obligatoires sur au moins deux roues motrices ;
+- blanc avec le symbole " chaînes à neige : chaînes obligatoires sur au moins deux roues motrices ;
 
-- blanc avec le symbole " chaînes ou pneus à neige " :
+- blanc avec le symbole " chaînes ou pneus à neige :
 
 chaînes ou pneus à neige recommandés.
 
@@ -62,7 +60,7 @@ Panneau C 22. - Fin de section de route avec affectation de voies. Retour à la 
 
 Panneau C 23. - Stationnement réglementé pour les caravanes.
 
-" Panneau C 24. - Signalisation par voie. "
+Panneau C 24. - Signalisation par voie.
 
 Panneau C 25. - Indication aux frontières des limitations générales de vitesse en vigueur sur le territoire français.
 
@@ -70,11 +68,21 @@ Panneau C 25. - Indication aux frontières des limitations générales de vitess
 
 " Panneau C 26 b. - Annonce d'une voie de détresse à gauche.
 
-" Panneau C 26 c. - Diagramme de la voie de détresse. "
+" Panneau C 26 c. - Diagramme de la voie de détresse.
 
-" Panneau C 27. - Ralentisseur de type dos-d'âne. "
+" Panneau C 27. - Ralentisseur de type dos-d'âne.
 
-" Panneau C 28. - Annonce de la réduction du nombre de voies laissées libres à la circulation sur routes à chaussées séparées. "
+" Panneau C 28. - Annonce de la réduction du nombre de voies
+
+laissées libres à la circulation sur routes à chaussées séparées.
+
+Panneau C 29 a. Créneau de dépassement à deux fois deux voies.
+
+Panneau C 29 b. Créneau de dépassement à trois voies affectées " deux voies plus une voie.
+
+Panneau C 29 c. Raccordement d'un créneau de dépassement à une section à trois voies affectées " une voie plus deux voies.
+
+Panneau C 30. Réduction du nombre de voies en fin de créneau de dépassement.
 
 Panneau C 50. - Indications diverses.
 
@@ -90,21 +98,21 @@ Panneau C 108. - Fin de route pour automobiles. Ce signal indique aux usagers qu
 
 " Les panneaux de type C ont la forme carrée. Ils sont à fond bleu, avec listel, symboles ou inscriptions de couleur blanche.
 
-" Font exception :
+Font exception :
 
-" Le panneau C 3 qui est rectangulaire, avec listel blanc, bordure rouge, fond blanc et symbole polychrome ;
+Le panneau C 3 qui est rectangulaire, avec listel blanc, bordure rouge, fond blanc et symbole polychrome ;
 
-" Les panneaux C 4 b et C 108 et ceux de type C 22 qui sont traversés par une barre oblique de couleur rouge ;
+Les panneaux C 4 b et C 108 et ceux de type C 22 qui sont traversés par une barre oblique de couleur rouge ;
 
-" Les panneaux C 14 et C 25 qui sont rectangulaires ;
+Les panneaux C 14 et C 25 qui sont rectangulaires ;
 
-" Les panneaux de type C 13, C 21, C 21 a, C 22 et C 26 dont un élément du symbole est de couleur rouge ;
+Les panneaux de type C 13, C 21, C 21 a, C 22 et C 26 dont un élément du symbole est de couleur rouge ;
 
-" Le panneau C 18 dont la flèche orientée vers le bas est de couleur rouge ;
+Le panneau C 18 dont la flèche orientée vers le bas est de couleur rouge ;
 
-" Les panneaux C 20 et C 27 dans lesquels le symbole, porté par un triangle équilatéral blanc inscrit dans le carré bleu, est de couleur noire ;
+Les panneaux C 20 et C 27 dans lesquels le symbole, porté par un triangle équilatéral blanc inscrit dans le carré bleu, est de couleur noire ;
 
-" Les panneaux C 51, C 52 et C 53 qui sont rectangulaires et portent le symbole du signal C 207 entouré de son listel. "
+Les panneaux C 51, C 52 et C 53 qui sont rectangulaires et portent le symbole du signal C 207 entouré de son listel.
 
 Type CE indiquant la position des installations et établissements pouvant être utiles aux usagers ou les intéresser :
 
@@ -116,7 +124,7 @@ Panneau CE 2 b. - Cabines des postes et télécommunications.
 
 " Panneau CE 3 a. - Informations relatives aux services ou activités touristiques.
 
-" Panneau CE 3 b. - Relais d'information service. "
+" Panneau CE 3 b. - Relais d'information service.
 
 Panneau CE 3. - Information de tourisme. - Information service.
 
@@ -126,13 +134,13 @@ Panneau CE 4 b. - Terrain de camping pour caravanes.
 
 Panneau CE 4 c. - Terrain de camping pour tentes et caravanes.
 
-" Panneau CE 5a : Auberge de jeunesse ;
+Panneau CE 5a : Auberge de jeunesse ;
 
-" Panneau CE 5b : Chambre d'hôtes ou gîte ;
+Panneau CE 5b : Chambre d'hôtes ou gîte ;
 
-" Panneau CE 6a : Point de départ d'un itinéraire d'excursions à pied ;
+Panneau CE 6a : Point de départ d'un itinéraire d'excursions à pied ;
 
-" Panneau CE 6b : Point de départ d'un circuit de ski de fond ; "
+Panneau CE 6b : Point de départ d'un circuit de ski de fond ;
 
 Panneau CE 7. - Emplacement pour pique-nique.
 
@@ -144,57 +152,59 @@ Panneau CE 10. - Navire transbordeur - Bac.
 
 Panneau CE 12. - Toilettes ouvertes au public.
 
-" Panneau CE 14. - Installations accessibles aux handicapés physiques. "
+" Panneau CE 14. - Installations accessibles aux handicapés physiques.
 
 " Panneau CE 15 a. - Poste de distribution de carburant ;
 
-" Panneau CE 15 b. - Poste de distribution de carburant assurant le ravitaillement en essence sans plomb ;
+Panneau CE 15 b. - Poste de distribution de carburant assurant le ravitaillement en essence sans plomb ;
 
-" Panneau CE 15 c. - Poste de distribution de carburant assurant le ravitaillement en gaz pétrole liquéfié (G.P.L.) ;
+Panneau CE 15 c. - Poste de distribution de carburant assurant le ravitaillement en gaz pétrole liquéfié (G.P.L.) ;
 
-" Panneau CE 15 d. - Poste de distribution de carburant assurant le ravitaillement en essence sans plomb et en G.P.L. ;
+Panneau CE 15 d. - Poste de distribution de carburant assurant le ravitaillement en essence sans plomb et en G.P.L. ;
 
-" Panneau CE 16. - Restaurant ;
+Panneau CE 16. - Restaurant ;
 
-" Panneau CE 17. - Hôtel ou motel ;
+Panneau CE 17. - Hôtel ou motel ;
 
-" Panneau CE 18. - Débit de boissons ou cafétéria. "
+Panneau CE 18. - Débit de boissons ou cafétéria.
 
-" Panneau CE 19 : Point de mise à l'eau d'embarcations légères ;
+Panneau CE 19 : Point de mise à l'eau d'embarcations légères ;
 
-" Panneau CE 20a : Gare de téléphérique ;
+Panneau CE 20a : Gare de téléphérique ;
 
-" Panneau CE 20b : Point de départ d'un télésiège ou d'une télécabine ;
+Panneau CE 20b : Point de départ d'un télésiège ou d'une télécabine ;
 
-" Panneau CE 21 : Point de vue ; ".
+Panneau CE 21 : Point de vue ;.
 
 Panneau CE 50. - Installations diverses.
 
-" Les panneaux de type CE ont la forme carrée. Ils sont à fond et listels blancs, bordures bleues, symboles ou inscriptions de couleur noire. "
+" Les panneaux de type CE ont la forme carrée. Ils sont à fond et listels blancs, bordures bleues, symboles ou inscriptions de couleur noire.
 
 " Font exception :
 
-" Le panneau CE 1 dont le symbole est de couleur rouge ;
+Le panneau CE 1 dont le symbole est de couleur rouge ;
 
-" Le panneau CE 3 b qui est rectangulaire ;
+Le panneau CE 3 b qui est rectangulaire ;
 
-" Les panneaux CE 15 b et CE 15 d dont un élément du symbole est de couleur verte ;
+Les panneaux CE 15 b et CE 15 d dont un élément du symbole est de couleur verte ;
 
-" Les panneaux de type CE 15 peuvent, dans des conditions fixées par une instruction interministérielle prévue à l'article 1er du présent texte, être complétés par des indications relatives à la marque des carburants."
+Les panneaux de type CE 15 peuvent, dans des conditions fixées par une instruction interministérielle prévue à l'article 1er du présent texte, être complétés par des indications relatives à la marque des carburants."
 
 b) " Signaux autoroutiers d'indication :
 
-" Signal C 207. - Début de section à statut autoroutier ;
+Signal C 207. - Début de section à statut autoroutier ;
 
-" Signal C 208. - Fin de section à statut autoroutier ;
+Signal C 208. - Fin de section à statut autoroutier ;
 
-" Signal C 250. - Annonce d'un poste de péage ;
+Signal C 250. - Annonce d'un poste de péage ;
 
-" Signal C 251. - Annonce sur autoroute du début d'une section à péage ;
+Signal C 251. - Annonce sur autoroute du début d'une section à péage ;
 
-" Signal C 255. - Première annonce d'un croisement d'autoroute.
+Signal C 255. - Première annonce d'un croisement d'autoroute.
 
-" Les signaux C 207 et C 208 sont de forme carrée. Les signaux de type C 250 sont de forme rectangulaire. Les symboles et inscriptions se détachent en blanc sur le fond bleu. Sur le C 208, une bande oblique rouge barre le symbole. "
+Les signaux C 207 et C 208 sont de forme carrée. Les signaux de
+
+type C 250 sont de forme rectangulaire. Les symboles et inscriptions se détachent en blanc sur le fond bleu. Sur le C 208, une bande oblique rouge barre le symbole.
 
 2. Signalisation de direction (annexe D)
 
@@ -234,7 +244,9 @@ D 31 c   La bifurcation autoroutière est identifiée par le numéro de l'autoro
 
 Cette identification et une flèche oblique dirigée vers le haut sont inscrites dans le registre supérieur à fond bleu. Celui-ci est complété par un ou plusieurs registres à fond bleu comportant l'indication des mentions desservies.
 
-c) En cas d'affectation des voies, les panneaux de signalisation avancée sont de type Da 30, spécialement destinés à être implantés au-dessus d'une ou de plusieurs voies ne desservant que les mentions signalées. Ils sont situés au point de divergence des voies et comportent une flèche dirigée vers le bas au-dessus de l'axe longitudinal de chaque voie concernée.
+c) En cas d'affectation des voies, les panneaux de signalisation avancée sont de type Da 30, spécialement destinés à être implantés
+
+au-dessus d'une ou de plusieurs voies ne desservant que les mentions signalées. Ils sont situés au point de divergence des voies et comportent une flèche dirigée vers le bas au-dessus de l'axe longitudinal de chaque voie concernée.
 
 Da 31   Panneaux d'affectation de voies :
 
@@ -268,7 +280,9 @@ D 41 b    Le carrefour routier est identifié par le numéro de la route desserv
 
 D 41 c   La bifurcation autoroutière est identifiée par le numéro de l'autoroute desservie inscrit dans un encart à fond rouge. Cette identification et la distance à la bifurcation, exprimée en mètres, sont inscrites dans le registre supérieur à fond bleu, celui-ci est complété par un ou plusieurs registres à fond bleu, comportant l'indication des mentions desservies.
 
-Les panneaux D 42 de présignalisation des carrefours complexes :
+Les panneaux D 42 de présignalisation des carrefours
+
+complexes :
 
 D 42   Il comporte un schéma du carrefour avec une flèche à l'extrémité de chaque branche et l'indication des mentions atteintes dans la direction signalée. En bas à droite, la distance du carrefour est indiquée en mètres. Le mouvement principal est représenté par un trait plus large que les autres.
 
@@ -306,7 +320,7 @@ On distingue les panneaux :
 
 D 51   Panneaux d'avertissement de sortie :
 
-D 51 a   Panneau d'avertissement de sortie. Il comporte un fond blanc, un schéma de sortie, le mot " sortie " et le numéro de celle-ci inscrits dans le symbole échangeur. Il est complété par un panneau où est inscrite l'indication en mètres de la distance restant à parcourir avant la sortie concernée.
+D 51 a   Panneau d'avertissement de sortie. Il comporte un fond blanc, un schéma de sortie, le mot " sortie et le numéro de celle-ci inscrits dans le symbole échangeur. Il est complété par un panneau où est inscrite l'indication en mètres de la distance restant à parcourir avant la sortie concernée.
 
 D 51 b   En cas de sorties rapprochées, le schéma comporte deux branches et face à chacune d'elles une identification de sortie spécifique. La distance inscrite sur le panonceau est celle restant à parcourir avant la première sortie rencontrée.
 
@@ -324,7 +338,7 @@ g) En cas d'affectation des voies, les panneaux d'avertissement sont de type Da 
 
 On distingue les panneaux :
 
-Da 51   Panneau d'avertissement de sortie avec affectation de voies. Il comporte sur un fond blanc un schéma de sortie affectée, le mot " sortie " et le numéro de celle-ci inscrit dans le symbole échangeur. Il est complété par un panonceau où est inscrite l'indication en mètres de la distance restant à parcourir avant la sortie concernée.
+Da 51   Panneau d'avertissement de sortie avec affectation de voies. Il comporte sur un fond blanc un schéma de sortie affectée, le mot " sortie et le numéro de celle-ci inscrit dans le symbole échangeur. Il est complété par un panonceau où est inscrite l'indication en mètres de la distance restant à parcourir avant la sortie concernée.
 
 Da 52   Panneau d'avertissement de bifurcation avec affectation de voies. Il comporte le schéma de la bifurcation affectée et à l'extrémité de chaque branche l'identification des autoroutes concernées dans un encart à fond rouge, et les principales mentions desservies. Le panonceau associé comporte l'indication en mètres de la distance restant à parcourir avant la bifurcation. Le panneau est à fond bleu.
 
@@ -340,7 +354,9 @@ D 61 a   Panneau de confirmation sur route avec indication du nombre de kilomèt
 
 Il peut être à fond bleu, vert, blanc ou jaune.
 
-D 61 b   Panneau de confirmation sur autoroute avec indication du nombre de kilomètres restant à parcourir pour atteindre les mentions signalées. Il est à fond bleu.
+D 61 b   Panneau de confirmation sur autoroute avec indication du
+
+nombre de kilomètres restant à parcourir pour atteindre les mentions signalées. Il est à fond bleu.
 
 D 62   Panneaux de confirmation de filante :
 
@@ -352,7 +368,7 @@ D 62 b   Panneau de confirmation sur autoroute sans indication de kilométrage. 
 
 D 63   Panneaux d'annonce ou de confirmation de prochaine sortie ou bifurcation :
 
-D 63 a   Panneau de confirmation des mentions desservies par le prochain échangeur. Celui-ci est identifié par un numéro défini par le ministre des transports et inscrit dans le symbole échangeur précédé du mot " sortie ". Cette identification et la distance à l'échangeur exprimée en kilomètres sont inscrites dans un registre supérieur à fond blanc.
+D 63 a   Panneau de confirmation des mentions desservies par le prochain échangeur. Celui-ci est identifié par un numéro défini par le ministre des transports et inscrit dans le symbole échangeur précédé du mot " sortie. Cette identification et la distance à l'échangeur exprimée en kilomètres sont inscrites dans un registre supérieur à fond blanc.
 
 Celui-ci est complété par un ou plusieurs registres qui peuvent être, dans l'ordre et de haut en bas, à fond bleu, vert, blanc ou jaune.
 
@@ -370,7 +386,7 @@ i) Les panneaux de signalisation complémentaires sont de type D 70.
 
 On distingue les panneaux :
 
-D 71   Panneau de signalisation complémentaire de sortie. Il comporte sur fond blanc l'indication " prochaine sortie " : suivie de mentions complémentaires d'intérêt local desservies par la sortie.
+D 71   Panneau de signalisation complémentaire de sortie. Il comporte sur fond blanc l'indication " prochaine sortie : suivie de mentions complémentaires d'intérêt local desservies par la sortie.
 
 Il est implanté avant le panneau d'avertissement s'il existe. Dans le cas contraire, il est implanté avant le panneau de présignalisation.
 
@@ -378,9 +394,9 @@ D 72   Panneau complémentaire d'indication des sorties desservant une agglomér
 
 Il comporte sur fond blanc deux types d'inscriptions successives :
 
-" Accès à ...... " complété par le nom de l'agglomération desservie ;
+Accès à ...... complété par le nom de l'agglomération desservie ;
 
-La liste des sorties desservies avec pour chacune d'elles le mot " sortie " suivi du numéro de la sortie inscrit dans le symbole de forme ovale. Il est implanté avant le panneau d'avertissement de la première sortie concernée.
+La liste des sorties desservies avec pour chacune d'elles le mot " sortie suivi du numéro de la sortie inscrit dans le symbole de forme ovale. Il est implanté avant le panneau d'avertissement de la première sortie concernée.
 
 j) Définition des couleurs des panneaux :
 
@@ -394,7 +410,7 @@ Le BLEU est utilisé :
 
 - sur le domaine routier, pour les panneaux de rabattement vers l'autoroute.
 
-Le VERT est utilisé pour la signalisation des villes importantes sur les itinéraires qui ont été définis pour les relier entre elles. La liste des mentions et les itinéraires associés sont définis par décision du ministre des transports. En cas de contestation et sur demande motivée des autorités départementales, les modifications aux textes précédents peuvent être apportées par décisions conjointes du ministre de l'intérieur et de la décentralisation et du ministre des transports. (Arrêté du 17 octobre 1988.) " Le vert est également utilisé pour la signalisation des itinéraires bis ou de délestage. "
+Le VERT est utilisé pour la signalisation des villes importantes sur les itinéraires qui ont été définis pour les relier entre elles. La liste des mentions et les itinéraires associés sont définis par décision du ministre des transports. En cas de contestation et sur demande motivée des autorités départementales, les modifications aux textes précédents peuvent être apportées par décisions conjointes du ministre de l'intérieur et de la décentralisation et du ministre des transports. (Arrêté du 17 octobre 1988.) " Le vert est également utilisé pour la signalisation des itinéraires bis ou de délestage.
 
 Le JAUNE est utilisé pour des indications de direction à caractère temporaire ou d'exploitation.
 
@@ -404,35 +420,37 @@ Les panneaux à fond bleu ou vert comportent des inscriptions et des listels bla
 
 Les panneaux à fond blanc ou jaune comportent des inscriptions et des listels noirs.
 
-" Les panneaux à fond vert signalant les itinéraires bis ou de délestage comportent des inscriptions blanches et des listels jaunes. "
+" Les panneaux à fond vert signalant les itinéraires bis ou de délestage comportent des inscriptions blanches et des listels jaunes.
 
 k) Les règles techniques concernant l'établissement des schémas directeurs et des projets de signalisation sont définies par circulaire conjointe du ministre de l'intérieur et de la décentralisation et du ministre des transports.
 
 l) Signalisation du caractère payant de certaines autoroutes.
 
-Le mot " péage " est utilisé en complément des mentions signalées à partir du point de choix entre deux itinéraires concurrents et en direction de celui qui emprunte l'autoroute à péage.
+Le mot " péage est utilisé en complément des mentions signalées à partir du point de choix entre deux itinéraires concurrents et en direction de celui qui emprunte l'autoroute à péage.
 
 3. Panneaux de localisation (annexe E)
 
-" a) Panneaux de localisation de type E 30 permettant de porter à la connaissance de l'usager le nom d'un cours d'eau ou d'un lieu traversé par la route, à l'exclusion des agglomérations (dont la signalisation est décrite en 4) :
+a) Panneaux de localisation de type E 30 permettant de porter à la connaissance de l'usager le nom d'un cours d'eau ou d'un lieu traversé par la route, à l'exclusion des agglomérations (dont la signalisation est décrite en 4) :
 
-" Panneau E 31 : localisation de tous lieux traversés par la route pour lesquels il n'existe pas de panneau spécifique ; panneau à fond noir et inscription blanche ;
+Panneau E 31 : localisation de tous lieux traversés par la route pour lesquels il n'existe pas de panneau spécifique ; panneau à fond noir et inscription blanche ;
 
-" Panneau E 32 : localisation d'un cours d'eau ; panneau à fond noir, inscription et pictogramme blancs ;
+Panneau E 32 : localisation d'un cours d'eau ; panneau à fond noir, inscription et pictogramme blancs ;
 
-" Panneau E 33 : localisation d'un parc national, d'un parc naturel régional, d'une réserve naturelle ou d'un terrain du Conservatoire du littoral et des rivages lacustres ; panneau à fond marron, listel et inscription blancs ;
+Panneau E 33 : localisation d'un parc national, d'un parc naturel régional, d'une réserve naturelle ou d'un terrain du Conservatoire du littoral et des rivages lacustres ; panneau à fond
 
-" Panneau E 34a : localisation d'une aire routière ; panneau à fond noir et inscription blanche ;
+marron, listel et inscription blancs ;
 
-" Panneau E 34b : fin de localisation d'une aire routière ; panneau à fond noir, inscription blanche et barre transversale rouge ;
+Panneau E 34a : localisation d'une aire routière ; panneau à fond noir et inscription blanche ;
 
-" Panneau E 35a : localisation d'une aire autoroutière ; panneau à fond bleu et inscription blanche ;
+Panneau E 34b : fin de localisation d'une aire routière ; panneau à fond noir, inscription blanche et barre transversale rouge ;
 
-" Panneau E 35b : fin de localisation d'une aire autoroutière ; panneau à fond bleu, inscription blanche et barre transversale rouge ;
+Panneau E 35a : localisation d'une aire autoroutière ; panneau à fond bleu et inscription blanche ;
 
-" Panneau E 36 : localisation d'une région administrative ou d'un département ; panneau à fond bleu, listel et inscription jaunes ;
+Panneau E 35b : fin de localisation d'une aire autoroutière ; panneau à fond bleu, inscription blanche et barre transversale rouge ;
 
-" Panneau E 39 : localisation d'un Etat appartenant à la Communauté économique européenne ; panneau à fond bleu, inscription blanche et étoiles jaunes. "
+Panneau E 36 : localisation d'une région administrative ou d'un département ; panneau à fond bleu, listel et inscription jaunes ;
+
+Panneau E 39 : localisation d'un Etat appartenant à la Communauté économique européenne ; panneau à fond bleu, inscription blanche et étoiles jaunes.
 
 b) Les cartouches de type E 40 permettent de localiser la voie sur laquelle les panneaux sont implantés. Ils sont placés au-dessus des panneaux concernés. Ils comportent l'identification de la voie composée d'une lettre et d'un numéro. On distingue le cartouche :
 
@@ -454,15 +472,15 @@ EB 10   Panneau d'entrée d'agglomération. Il est à fond blanc et comporte une
 
 EB 20   Panneau de sortie d'agglomération. Il est à fond blanc et listel noir. La barre est de couleur rouge.
 
-" 5. Idéogrammes, emblèmes et logotypes.
+5. Idéogrammes, emblèmes et logotypes.
 
-" Un idéogramme caractérise l'indication de destination inscrite sur le panneau et lui est étroitement associé.
+Un idéogramme caractérise l'indication de destination inscrite sur le panneau et lui est étroitement associé.
 
-" Les idéogrammes font l'objet d'une liste arrêtée par le ministre chargé des transports.
+Les idéogrammes font l'objet d'une liste arrêtée par le ministre chargé des transports.
 
-" Un emblème accompagne une indication de localisation relative à un parc national, un parc naturel régional, une réserve naturelle ou un terrain du Conservatoire du littoral et des rivages lacustres.
+Un emblème accompagne une indication de localisation relative à un parc national, un parc naturel régional, une réserve naturelle ou un terrain du Conservatoire du littoral et des rivages lacustres.
 
-" Un logotype accompagne soit une indication de localisation relative à une région administrative ou un département, soit une indication utilisée pour un balisage d'itinéraire touristique. "
+Un logotype accompagne soit une indication de localisation relative à une région administrative ou un département, soit une indication utilisée pour un balisage d'itinéraire touristique.
 
 6. Symboles (annexe S)
 
@@ -470,7 +488,9 @@ Les symboles caractérisent :
 
 - soit la ou les catégories d'usagers pour lesquels l'accès aux mentions signalées est interdit par la voie concernée. On utilise alors les symboles d'interdiction SI définis en annexe. Ils sont de la même couleur que le panneau d'interdiction correspondant ;
 
-- soit la ou les catégories d'usagers pour lesquels l'accès aux mentions signalées est recommandé ou spécialement prévu par la voie concernée. On utilise alors les symboles d'indication SC définis en annexe. Ils sont blancs à fond bleu, à l'exception des symboles SC 10 dans lequel l'explosion est de couleur orange et rouge, SC 11 dans lequel la tonne est de couleur rouge, SC 12 dans lequel le carré intérieur est de couleur orange " SC 16 dans lequel le carré intérieur est de couleur jaune, le listel et l'inscription bis de couleur noire " ;
+- soit la ou les catégories d'usagers pour lesquels l'accès aux
+
+mentions signalées est recommandé ou spécialement prévu par la voie concernée. On utilise alors les symboles d'indication SC définis en annexe. Ils sont blancs à fond bleu, à l'exception des symboles SC 10 dans lequel l'explosion est de couleur orange et rouge, SC 11 dans lequel la tonne est de couleur rouge, SC 12 dans lequel le carré intérieur est de couleur orange " SC 16 dans lequel le carré intérieur est de couleur jaune, le listel et l'inscription bis de couleur noire ;
 
 - soit le caractère autoroutier d'une partie de l'itinéraire permettant de rejoindre les mentions signalées. On utilise alors le symbole SC 17 dans les cas suivants :
 
@@ -478,36 +498,38 @@ Les symboles caractérisent :
 
 - sur des panneaux à fond vert ou blanc en complément des mentions desservies par l'itinéraire lorsque celui-ci comporte une section d'autoroute. Le symbole SC 17 est blanc sur fond bleu ;
 
-- soit l'identification d'un échangeur permettant de sortir d'une voie rapide. On utilise alors le symbole SE 1 défini en annexe. Il comporte un numéro d'ordre qui permet de localiser l'échangeur de manière précise. Il peut être complété par le mot " sortie ", le symbole est inscrit en noir sur fond blanc.
+- soit l'identification d'un échangeur permettant de sortir d'une voie rapide. On utilise alors le symbole SE 1 défini en annexe. Il comporte un numéro d'ordre qui permet de localiser l'échangeur de manière précise. Il peut être complété par le mot " sortie, le symbole est inscrit en noir sur fond blanc.
 
-" 7. Panneaux d'information.
+7. Panneaux d'information.
 
-" a) Panneaux d'animation culturelle et touristique de type H 10 placés sur les autoroutes et les routes express pour donner des indications culturelles et touristiques d'intérêt général et permanent :
+a) Panneaux d'animation culturelle et touristique de type H 10 placés sur les autoroutes et les routes express pour donner des indications culturelles et touristiques d'intérêt général et permanent :
 
-" Panneau H 11 : indication par message littéral ;
+Panneau H 11 : indication par message littéral ;
 
-" Panneau H 12 : indication par message graphique ;
+Panneau H 12 : indication par message graphique ;
 
-" Panneau H 13 : indication par message littéral et graphique.
+Panneau H 13 : indication par message littéral et graphique.
 
-" Les panneaux de type H 10 sont de forme rectangulaire ou carrée. Ils sont à fond marron, listel et inscription blancs ; le graphisme est de couleurs blanche et marron.
+Les panneaux de type H 10 sont de forme rectangulaire ou carrée. Ils sont à fond marron, listel et inscription blancs ; le graphisme est de couleurs blanche et marron.
 
-" b) Panneaux de balisage d'itinéraires touristiques de type H 20 placés sur les réseaux routiers pour présignaler et localiser un itinéraire touristique :
+b) Panneaux de balisage d'itinéraires touristiques de type H 20 placés sur les réseaux routiers pour présignaler et localiser un itinéraire touristique :
 
-" Panneau H 21 : localisation d'un itinéraire touristique ;
+Panneau H 21 : localisation d'un itinéraire touristique ;
 
-" Panneau H 22 : présignalisation d'un itinéraire touristique ;
+Panneau H 22 : présignalisation d'un itinéraire touristique ;
 
-" Panneau H 23 : présignalisation d'un itinéraire touristique.
+Panneau H 23 : présignalisation d'un itinéraire touristique.
 
-" Les panneaux de type H 20 sont de forme rectangulaire. Ils sont à fond marron, listel et inscription blancs.
+Les panneaux de type H 20 sont de forme rectangulaire. Ils sont à fond marron, listel et inscription blancs.
 
-" c) Panneaux d'information culturelle et touristique de type H 30 placés sur les réseaux routiers pour donner des indications culturelles et touristiques d'intérêt général et permanent :
+c) Panneaux d'information culturelle et touristique de type H 30 placés sur les réseaux routiers pour donner des indications culturelles et touristiques d'intérêt général et permanent :
 
-" Panneau H 31 : indication d'une curiosité ou d'un lieu touristique, complétée par la direction à suivre ;
+Panneau H 31 : indication d'une curiosité ou d'un lieu touristique, complétée par la direction à suivre ;
 
-" Panneau H 32 : indication d'une curiosité ou d'un lieu touristique, complétée par la direction à suivre ainsi que par un message graphique ;
+Panneau H 32 : indication d'une curiosité ou d'un lieu touristique, complétée par la direction à suivre ainsi que par un message graphique ;
 
-" Panneau H 33 : indication d'une curiosité ou d'un lieu touristique complétée par un message graphique.
+Panneau H 33 : indication d'une curiosité ou d'un lieu touristique complétée par un message graphique.
 
-" Les panneaux de type H 30 sont de forme rectangulaire. Les registres comportant des inscriptions sont à fond blanc et listel marron ; les inscriptions sont de couleur noire. Le registre comportant un message graphique est à fond marron et listel blanc ; le graphisme est de couleurs blanche et marron. "
+Les panneaux de type H 30 sont de forme rectangulaire. Les registres comportant des inscriptions sont à fond blanc et listel marron ; les inscriptions sont de couleur noire. Le registre
+
+comportant un message graphique est à fond marron et listel blanc ; le graphisme est de couleurs blanche et marron.
