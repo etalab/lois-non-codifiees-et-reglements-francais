@@ -2,7 +2,7 @@
 
 Les services [*effectifs*] pris en compte dans la constitution du droit à pension sont [*définition*] :
 
-1° Les services accomplis à partir de l'âge de dix-huit ans en qualité d'agent investi d'un emploi permanent dans les administrations des départements, des communes et des établissements publics départementaux et communaux n'ayant pas le caractère industriel ou commercial.
+1° Les services accomplis à partir de dix-huit ans en qualité d'agent investi d'un emploi permanent dans les administrations des départements, des communes et des établissements publics départementaux et communaux n'ayant pas le caractère industriel ou commercial, la période pendant laquelle les intéressés ont été autorisés à accomplir un service à mi-temps dans les conditions prévues par le statut qui leur est applicable étant comptée pour la totalité de sa durée.
 
 Sont considérés comme investis d'un emploi permanent les agents titulaires rémunérés sur des crédits budgétaires de personnel et consacrant à cet emploi la plus grande part de leur activité ;
 

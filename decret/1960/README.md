@@ -14,6 +14,7 @@
 - [Décret n°59-1405 du 9 décembre 1959](decret-n59-1405-du-9-decembre-1959)
 - [Décret n°60-965 du 9 septembre 1960](decret-n60-965-du-9-septembre-1960)
 - [Décret n°60-1317 du 10 décembre 1960](decret-n60-1317-du-10-decembre-1960)
+- [Décret n°60-58 du 11 janvier 1960](decret-n60-58-du-11-janvier-1960)
 - [Décret n°60-61 du 12 janvier 1960](decret-n60-61-du-12-janvier-1960)
 - [Décret n°60-977 du 12 septembre 1960](decret-n60-977-du-12-septembre-1960)
 - [Décret n°60-993 du 12 septembre 1960](decret-n60-993-du-12-septembre-1960)

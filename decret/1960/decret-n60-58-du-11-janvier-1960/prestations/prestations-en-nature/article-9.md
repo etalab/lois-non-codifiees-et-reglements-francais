@@ -1,0 +1,5 @@
+# Article 9
+
+Les agents bénéficiaires de l'assurance invalidité temporaire prévue à l'article 6 ci-dessus, les agents retraités pour invalidité avant l'âge de soixante ans au titre du régime de la caisse nationale des retraites ou d'un régime spécial de retraites et les agents qui, bénéficiaires de l'assurance invalidité temporaire au moment de leur admission à la retraite, ont été mis d'office ou admis à faire valoir leurs droits à la retraite, ont droit et ouvrent droit aux mêmes prestations en nature que les assurés titulaires d'une pension d'invalidité du régime général des assurances sociales.
+
+Lorsque les retraités visés à l'alinéa précédent atteignent l'âge de soixante ans, ils ont droit et ouvrent droit aux mêmes prestations en nature que les assurés titulaires d'une pension d'invalidité du régime général des assurances sociales transformée en pension de vieillesse. Les mêmes avantages sont accordés aux agents retraités pour invalidité après l'âge de soixante ans au titre du régime de la caisse nationale de retraites ou d'un régime spécial de retraites.
