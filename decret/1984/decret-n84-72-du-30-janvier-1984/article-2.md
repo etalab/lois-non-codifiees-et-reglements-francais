@@ -45,3 +45,5 @@ f) Des représentants :
 - du ministre chargé de l'intégration.
 
 - du ministre chargé de la coopération.
+
+- du ministre chargé de la jeunesse et des sports.
