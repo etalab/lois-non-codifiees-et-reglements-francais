@@ -9,6 +9,8 @@
 - [Décret n°88-646 du 6 mai 1988 (RESM8800453D)](decret-n88-646-du-6-mai-1988-resm8800453d)
 - [Décret n°88-24 du 7 janvier 1988 (ASED8703901D)](decret-n88-24-du-7-janvier-1988-ased8703901d)
 - [Décret n°88-29 du 8 janvier 1988 (PRMG8870002D)](decret-n88-29-du-8-janvier-1988-prmg8870002d)
+- [Décret n°88-30 du 8 janvier 1988 (BUDF8720085D)](decret-n88-30-du-8-janvier-1988-budf8720085d)
+- [Décret n°88-31 du 8 janvier 1988 (INTB8800002D)](decret-n88-31-du-8-janvier-1988-intb8800002d)
 - [Décret n°88-38 du 13 janvier 1988 (JUSB8710496D)](decret-n88-38-du-13-janvier-1988-jusb8710496d)
 - [Décret n°88-157 du 16 février 1988 (FPPA8700092D)](decret-n88-157-du-16-fevrier-1988-fppa8700092d)
 - [Décret n°90-1022 du 16 novembre 1990 (PRMG8970365D)](decret-n90-1022-du-16-novembre-1990-prmg8970365d)
