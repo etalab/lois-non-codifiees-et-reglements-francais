@@ -2,7 +2,7 @@
 
 Chaque commission est composée :
 
-- du commissaire de la République de région, président ;
+- du préfet de région, président ;
 
 - d'un représentant de la direction régionale des affaires culturelles ;
 
