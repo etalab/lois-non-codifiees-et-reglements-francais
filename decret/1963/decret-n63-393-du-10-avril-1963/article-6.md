@@ -1,0 +1,7 @@
+# Article 6
+
+Lorsque l'emprise de l'autoroute a été définitivement délimitée, conformément aux dispositions du titre II du décret n. 59-701 du 6 juin 1959 [*repris aux articles R. 11-18 à R 11-31 du code l'expropriation*], les prélèvements opérés en vertu du dernier alinéa de l'article 5 ci-dessus sont reportés sur cette emprise ; les terrains inclus dans l'emprise deviennent, lors du transfert de propriété prévu à l'article 30 du code rural, la propriété de l'association foncière mentionnée à l'article 27 de ce code ; l'association [*obligation*] doit céder ces terrains au maître de l'ouvrage. Les indemnités d'expropriation, calculées selon les règles posées par l'ordonnance susvisée du 23 octobre 1958 portant réforme du régime de l'expropriation et afférentes aux différents droits exercés sur les terrains compris dans l'emprise de l'ouvrage public, et notamment aux droits d'exploitation, qu'ils soient au non exercés par des propriétaires, sont, dans le cas prévu au présent article, déterminées distinctement selon leur objet. Elles sont dues à l'association foncière.
+
+Le maître de l'ouvrage notifie le montant de ses offres à l'association. Celle-ci lui fait connaître par écrit son acceptation ou, en cas de refus, le montant détaillé de sa demande.
+
+A défaut d'accord amiable entre le maître de l'ouvrage et l'association, le montant des indemnités est fixé par la juridiction compétente en matière d'expropriation, saisie par la partie la plus diligente.
