@@ -6,6 +6,6 @@ Les dépenses de l'établissement comprennent :
 
 - les frais de fonctionnement, de restauration, d'équipement ;
 
-- le versement à la Réunion des musées nationaux de la part du produit des droits d'entrée mentionné à l'article 24 du présent décret,
+- les acquisitions de biens culturels mentionnées au 2° de l'article 2 ;
 
 et, de façon générale, toutes dépenses nécessaires à l'activité de l'établissement.

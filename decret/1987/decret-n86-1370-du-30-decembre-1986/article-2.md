@@ -1,5 +1,5 @@
 # Article 2
 
-Les nominations aux emplois mentionnés à l'article précédent sont prononcées par arrêté du ministre chargé de la culture [*compétence*].    Les chefs de département de l'Etablissement public du musée du Louvre sont nommés par arrêté du ministre chargé de la culture sur proposition du président de l'établissement public.
+Les chefs de département du musée du Louvre et le directeur du musée national Eugène Delacroix sont nommés pour une durée de trois ans renouvelable par arrêté du ministre chargé de la culture sur proposition du président de l'Etablissement public du musée du Louvre.
 
-Ces emplois peuvent être retirés dans l'intérêt du service.
+Les emplois mentionnés aux articles 1er et 2 peuvent être retirés dans l'intérêt du service.
