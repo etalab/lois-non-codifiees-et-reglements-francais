@@ -2,7 +2,7 @@
 
 I - Les services pris en compte dans la constitution du droit à pension sont :
 
-1° Les services accomplis en qualité d'affilié. La période pendant laquelle les intéressés ont été autorisés à accomplir un service à mi-temps dans les conditions prévues par le décret du 12 novembre 1976 est comptée pour la totalité de sa durée ;
+1° Les services accomplis en qualité d'affilié. La période pendant laquelle les intéressés ont été autorisés à accomplir un service à temps partiel dans les conditions prévues par le décret n° 84-105 du 13 février 1984 est comptée pour la totalité de sa durée;
 
 2° Les services dûment validés dans les conditions prévues au dernier alinéa de l'article L. 5 du Code des pensions civiles et militaires de retraite ;
 
