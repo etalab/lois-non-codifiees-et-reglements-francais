@@ -1,7 +1,7 @@
 # Article 14
 
-Toute association sportive répondant, à la date de la publication du décret prévu à l'article 11-1, aux conditions posées au premier alinéa de l'article 11 doit, dans un délai d'un an à compter de cette date, soit constituer une société anonyme conformément aux dispositions de l'article 11, soit mettre ses statuts en conformité avec les dispositions de l'article 11-1.
+Toute association sportive qui répond à l'un au moins des critères définis au premier alinéa de l'article 11 à la date de publication de la loi n° 99-1124 du 28 décembre 1999 précitée constitue, dans un délai d'un an à compter de cette date, une société commerciale dans les conditions fixées audit article.
 
-En outre, toute association sportive doit, dans un délai d'un an, à compter de la date à laquelle elle remplit les conditions posées au premier alinéa de l'article 11, soit constituer une société anonyme conformément aux dispositions de cet article, soit mettre ses statuts en conformité avec les dispositions de l'article 11-1.
+Toute association sportive qui répond à l'un au moins des critères posés au premier alinéa de l'article 11 postérieurement à la date visée à l'alinéa précédent constitue une société commerciale dans les conditions fixées audit article dans un délai d'un an à compter de la date à laquelle elle satisfait à cette condition.
 
-A défaut, cette association sportive est exclue, à compter de l'expiration des délais visés aux alinéas précédents, des compétitions organisées par les fédérations mentionnées à l'article 16 ci-après.
+Toute association sportive qui ne se conforme pas aux prescriptions des alinéas précédents est exclue, dès l'expiration des délais visés auxdits alinéas, des compétitions organisées par les fédérations mentionnées à l'article 16.

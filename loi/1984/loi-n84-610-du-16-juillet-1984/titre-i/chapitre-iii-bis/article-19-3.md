@@ -1,7 +1,5 @@
 # Article 19-3
 
-Les concours financiers que les collectivités territoriales peuvent accorder aux groupements sportifs mentionnés à l'article 11 de la présente loi prennent la forme exclusive de subventions dont le versement est lié à la conclusion de conventions avec les bénéficiaires.
+Pour des missions d'intérêt général, les associations sportives ou les sociétés qu'elles constituent, telles que définies à l'article 11, peuvent recevoir des subventions publiques. Ces subventions font l'objet de conventions passées, d'une part, entre les collectivités territoriales, leurs groupements ainsi que les établissements publics de coopération intercommunale et, d'autre part, les associations sportives ou les sociétés qu'elles constituent.
 
-Ces subventions sont accordées conformément aux termes de la convention conclue avec le bénéficiaire selon des modalités et dans la limite de pourcentages des recettes des groupements sportifs fixés par décret en Conseil d'Etat.
-
-Ces dispositions cessent d'être applicables au 31 décembre 1999.
+Un décret en Conseil d'Etat détermine les conditions dans lesquelles sont versées ces subventions et fixe leur montant maximum.
