@@ -124,6 +124,8 @@
 - [Décret n°89-224 du 14 avril 1989 (MCCK8900090D)](decret-n89-224-du-14-avril-1989-mcck8900090d)
 - [Décret n°89-247 du 14 avril 1989 (MERP8900020D)](decret-n89-247-du-14-avril-1989-merp8900020d)
 - [Décret n°89-392 du 14 juin 1989 (TEFE8903496D)](decret-n89-392-du-14-juin-1989-tefe8903496d)
+- [Décret n°89-397 du 14 juin 1989 (MAEJ8930053D)](decret-n89-397-du-14-juin-1989-maej8930053d)
+- [Décret n°89-398 du 14 juin 1989 (MAEJ8930055D)](decret-n89-398-du-14-juin-1989-maej8930055d)
 - [Décret n°90-487 du 14 juin 1990 (EQUP8901081D)](decret-n90-487-du-14-juin-1990-equp8901081d)
 - [Décret n°89-106 du 15 février 1989 (JUSB8910032D)](decret-n89-106-du-15-fevrier-1989-jusb8910032d)
 - [Décret n°89-391 du 15 juin 1989 (EQUT8900624D)](decret-n89-391-du-15-juin-1989-equt8900624d)

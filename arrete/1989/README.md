@@ -63,6 +63,8 @@
 - [Arrêté du 5 mai 1989 (AGRS8900807A)](arrete-du-5-mai-1989-agrs8900807a)
 - [Arrêté du 5 mai 1989 (MENU8901043A)](arrete-du-5-mai-1989-menu8901043a)
 - [Arrêté du 6 avril 1989 (RESB8900010A)](arrete-du-6-avril-1989-resb8900010a)
+- [Arrêté du 6 avril 1989 (TOUR8904509A)](arrete-du-6-avril-1989-tour8904509a)
+- [Arrêté du 6 avril 1989 (TOUR8904515A)](arrete-du-6-avril-1989-tour8904515a)
 - [Arrêté du 6 février 1989 (ECOC8800131A)](arrete-du-6-fevrier-1989-ecoc8800131a)
 - [Arrêté du 6 février 1989 (PRMG8905007A)](arrete-du-6-fevrier-1989-prmg8905007a)
 - [Arrêté du 6 février 1989 (TRSS8900072A)](arrete-du-6-fevrier-1989-trss8900072a)
