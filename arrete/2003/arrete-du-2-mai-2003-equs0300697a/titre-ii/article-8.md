@@ -1,6 +1,6 @@
 # Article 8
 
-Les réceptions des véhicules, systèmes et équipements et les communications relatives à ces réceptions sont effectuées conformément aux dispositions prévues par les articles 1er à 6, 9, 10, point 3, et 13 de la directive 2002/24/CE susvisée.
+Les réceptions des véhicules, systèmes et équipements et les communications relatives à ces réceptions sont effectuées conformément aux dispositions prévues par les articles 1er à 6, 9, 10, point 3, et 13 de la directive 2002/24/CE modifiée par la directive 2003/77/CE.
 
 Les informations à fournir par le demandeur de la réception doivent être établies conformément aux fiches de renseignements définies à l'article 3 et à l'annexe II de la directive 2002/24/CE susvisée, ou aux annexes correspondantes des directives particulières.
 

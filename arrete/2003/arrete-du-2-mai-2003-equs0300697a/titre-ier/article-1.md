@@ -12,7 +12,7 @@ Au sens du présent arrêté, on entend par :
 
 2° "Type de véhicule" : un véhicule ou un groupe de véhicules (variantes) qui :
 
-a) Font partie d'une seule catégorie (catégorie internationale telle que définie à l'article 1er de la directive 2002/24/CE) ;
+a) Font partie d'une seule catégorie (catégorie internationale telle que définie à l'article 1er de la directive 2002/24/CE modifiée par la directive 2003/77/CE ;
 
 b) Sont construits par le même constructeur ;
 
