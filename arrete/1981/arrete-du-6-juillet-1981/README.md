@@ -1,4 +1,4 @@
-# Arrêté du 6 juillet 1981 réglementant les tenues d'uniforme des pharmaciens des corps de sapeurs-pompiers
+# Arrêté du 6 juillet 1981 relatif aux modalités de vérification et d'essais des conditions de sécurité auxquelles doivent satisfaire les tracteurs agricoles et forestiers en cas de renversement
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -10,5 +10,3 @@
 - [Article 8](article-8.md)
 - [Article 9](article-9.md)
 - [Annexes](annexes)
-- [Article 6-1](article-6-1.md)
-- [Article Execution](article-execution.md)

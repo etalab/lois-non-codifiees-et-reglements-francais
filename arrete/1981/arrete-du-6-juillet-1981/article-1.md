@@ -1,11 +1,7 @@
 # Article 1
 
-Les tenues d'uniforme des pharmaciens des corps de sapeurs-pompiers sont réglementées par les arrêtés susvisés, à l'exception des insignes et articles dont les spécifications sont définies ci-après :
+En vue des vérifications et essais prévus à l'article 15 du décret n° 80-1091 susvisé, tout tracteur soumis aux dispositions de la section III doit être présenté aux essais avec un exemplaire du ou des dispositif (s) de protection en cas de renversement ci-après dénommé (s) "Structure (s) de protection", avec lequel ou lesquels l'homologation est demandée ;
 
-Képi : avec bandeau de velours vert et bride dorée ;
+Aucune structure de sécurité ne peut être testée sans être fixée à un tracteur du type qu'elle est destinée à équiper.
 
-Boutons d'uniforme : dorés et estampés en relief d'un caducée ;
-
-Insigne distinctif : un caducée en cannetille et paillette d'or posé sur un écusson en velours vert ;
-
-Insigne de grade : en trait or.
+L'ensemble tracteur-structure est rendu au demandeur dans l'état où il se trouve à la fin des essais.

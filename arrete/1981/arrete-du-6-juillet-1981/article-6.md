@@ -1,3 +1,7 @@
 # Article 6
 
-Tout type de tracteur à tester muni de sa structure de protection dont la voie réglable minimale est inférieure à 1 150 mm, la garde au sol inférieure à 600 mm et dont la masse calculée selon les dispositions de l'article 2 ci-dessus est supérieure à 600 kg est éprouvé si la structure de protection est du type arceau monté à l'arrière,  cadre ou cabine, selon la méthode décrite aux annexes I (point 1), II et V de la directive 86/298/CEE du Conseil du 26 mai 1986 relative aux dispositifs de protection en cas de renversement, montés à l'arrière des tracteurs agricoles ou forestiers, à voie étroite, telle que modifiée par la directive 2000/19/CE de la Commission du 13 avril 2000 lui portant adaptation au progrès technique.
+Tout type de tracteur à tester, muni de sa structure de protection, dont la voie réglable minimale est inférieure à 1.150 mm, la garde au sol inférieure à 600 mm, et dont la masse calculée selon les dispositions de l'article 2 ci-dessus est comprise entre 600 et 3.000 kg, est éprouvé à compter de la date de prise d'effet de l'article 9, deuxième alinéa, du décret n° 80-1091 du 24 décembre 1980 susvisé :
+
+Si la structure de protection est du type cadre ou cabine selon la méthode décrite par la norme NF U 02046 de juillet 1979 ;
+
+Si la structure de protection est du type arceau à deux montants en position avancée, rabattable ou non, selon la méthode décrite par la norme NF U 02047 de juillet 1979.
