@@ -107,6 +107,7 @@
 - [Arrêté du 23 janvier 1990 (BUDF9010000A)](arrete-du-23-janvier-1990-budf9010000a)
 - [Arrêté du 23 janvier 1990 (ECOC8900133A)](arrete-du-23-janvier-1990-ecoc8900133a)
 - [Arrêté du 23 novembre 1989 (SPSA8902504A)](arrete-du-23-novembre-1989-spsa8902504a)
+- [Arrêté du 24 janvier 1990 (AGRE9000238A)](arrete-du-24-janvier-1990-agre9000238a)
 - [Arrêté du 24 janvier 1990 (ECOC8900139A)](arrete-du-24-janvier-1990-ecoc8900139a)
 - [Arrêté du 24 janvier 1990 (LOGC9000015A)](arrete-du-24-janvier-1990-logc9000015a)
 - [Arrêté du 24 novembre 1989 (JUSD8930104A)](arrete-du-24-novembre-1989-jusd8930104a)
