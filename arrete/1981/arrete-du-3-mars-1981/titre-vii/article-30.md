@@ -1,5 +1,3 @@
 # Article 30
 
-Pour tous les établissements, les dispositions de l'article 17 seront applicables cinq ans après la publication du présent arrêté.
-
-Pour les établissements existants qui ne sont pas agréés pour les échanges intracommunautaires et pour l'exportation, les dispositions des articles 4, 5 et 10, 2ème alinéa, sont applicables dans un délai de cinq ans à compter de la date de publication du présent arrêté.
+Ces conditions d'installation, d'équipement et de fonctionnement fixées par l'arrêté ministériel du 3 mars 1981, modifié par le présent arrêté, sont applicables aux établissements fabriquant des produits alimentaires contenant un pourcentage minime de viande ou de produits à base de viande, tels que définis à l'article 2, a, de l'arrêté ministériel du 27 août 1986. Toutefois, elles ne concernent alors que les parties de l'établissement où les viandes fraîches et les produits à base de viande sont réceptionnés, entreposés, manipulés et incorporés dans les produits finis et où ces derniers sont transformés et entreposés.

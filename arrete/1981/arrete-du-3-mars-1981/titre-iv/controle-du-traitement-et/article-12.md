@@ -2,6 +2,8 @@
 
 Un produit a été soumis à un traitement au sens de l'article 2, sous d, lorsque la valeur aw est inférieure à 0,97 ou bien la surface de coupe à coeur permet de constater la disparition des caractéristiques de viandes fraîches.
 
+Un produit a été soumis à un traitement au sens de l'article 2, sous d, lorsque la valeur av est inférieure à 0,97 ou bien lorsque la surface de coupe à coeur permet de constater la disparition des caractéristiques des viandes fraîches, ou bien lorsque le taux de sel (NaC1) est supérieur à 15 g/kg dans le produit fini.
+
 Un produit a été soumis à un traitement complet :
 
 a) S'il s'agit d'un traitement par la chaleur en récipient hermétique lorsque la valeur Fo est supérieure ou égale à 3,000 ou lorsque le contrôle du traitement a été effectué par un test d'incubation de sept jours à 37 degrés C ou de dix jours à 35 degrés C qui s'est révélé favorable.

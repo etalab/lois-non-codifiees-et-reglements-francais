@@ -48,7 +48,7 @@ n) Un local pour le nettoyage du matériel.
 
 II. - Dans la mesure où l'établissement prépare le type des produits concernés, il doit comporter :
 
-a) Un local pour les opérations de découpage.
+a) Un local pour les opérations de découpage. Lorsqu'il est utilisé ce local doit être maintenu à une température ne dépassant pas 12 °C.
 
 b) Un local :
 
@@ -64,7 +64,7 @@ e) Un local pour le séchage et la maturation.
 
 f) Un local pour le dessalage, le trempage et autres traitements des boyaux naturels.
 
-g) Un local pour le salage comportant si nécessaire un dispositif de climatisation permettant de maintenir une température au plus égale à + 10 degrés C.
+g) Un local pour le salage ou la salaison comportant si nécessaire un dispositif de climatisation permettant de maintenir une température au plus égale à + 12 °C.
 
 h) Un local pour la mise en tranches ou le découpage et pour le conditionnement des produits à base de viande destinés à être mis dans le commerce sous forme préemballée, comportant si nécessaire un dispositif de climatisation.
 
@@ -97,3 +97,5 @@ D'un éclairage suffisant, naturel ou artificiel, ne modifiant pas les couleurs 
 Des dispositifs permettant le nettoyage et la désinfection des mains et du matériel de travail qui doivent se trouver le plus près possible des postes de travail. Les robinets ne doivent pas pouvoir être actionnés à la main. Pour le lavage des mains, les installations doivent être pourvues d'eau courante froide et chaude ou d'eau prémélangée à une température appropriée, de produits de nettoyage et de désinfection ainsi que d'essuie-mains ne pouvant être utilisés qu'une seule fois. Pour la désinfection des outils, l'eau doit avoir une température égale ou supérieure à + 82 degrés C ;
 
 Des dispositifs et d'outils du travail comme, par exemple, les tables de découpe, les plateaux de découpe amovibles, les récipients, les bandes transporteuses et les scies, en matériau résistant à la corrosion, non susceptible d'altérer les viandes et facile à nettoyer et à désinfecter ; en particulier l'usage du bois est interdit.
+
+Par dérogation au paragraphe précédent, l'utilisation de bois est autorisée dans les locaux de fumaison, de salaison, de maturation et de saumurage, de stockage des produits à base de viande et dans le local d'expédition, lorsque cela est indispensable pour des raisons technologiques et pour autant qu'il n'y ait aucun danger de contamination de ces produits. L'introduction des palettes en bois dans lesdits locaux n'est autorisée que pour le transport de produits à base de viande emballés et exclusivement à cet usage.

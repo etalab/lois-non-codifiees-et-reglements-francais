@@ -10,7 +10,7 @@ c) Il doit exister un dispositif permettant d'acheminer de manière hygiénique 
 
 d) Les locaux prévus à l'article 5, au point II, sous e et i, doivent répondre aux dispositions de l'article 5, point III ;
 
-e) Jusqu'au 30 juin 1984, le passage des conduites d'eau non potable à travers les locaux où se trouvent des viandes et des produits à base de viande peut être autorisé, à titre exceptionnel, dans les établissements exerçant leur activité avant le 1er décembre 1979, sous réserve que ces conduites soient dépourvues de robinets pour prises d'eau ;
+e) (alinéa supprimé).
 
 f) Un certificat médical doit être exigé de toute personne affectée au travail des viandes fraîches ou des produits à base de viande. Il atteste que rien ne s'oppose à cette affectation et doit être renouvelé tous les ans et chaque fois que le vétérinaire inspecteur en fait la demande ;
 

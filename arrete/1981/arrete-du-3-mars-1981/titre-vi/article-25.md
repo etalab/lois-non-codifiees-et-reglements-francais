@@ -8,4 +8,4 @@ Ces établissements sont agréés sous leur numéro d'immatriculation et sont in
 
 Le retrait de l'agrément est prononcé lorsqu'une ou plusieurs dispositions du présent arrêté ne sont plus respectées. Toute suspension ou retrait d'agrément entraîne le retrait immédiat par le directeur départemental des services vétérinaires des dispositifs d'estampillage concernés.
 
-Les produits à base de viande destinés aux échanges intracommunautaires ou à l'exportation doivent être accompagnés d'un certificat de salubrité délivré par le vétérinaire inspecteur de l'établissement au moment de l'embarquement.
+Les produits à base de viande destinés à un Etat membre de la Communauté économique européenne doivent être accompagnés d'un certificat de salubrité délivré par le vétérinaire inspecteur de l'établissement au moment de l'embarquement. Le modèle du certificat de salubrité figure en annexe.
