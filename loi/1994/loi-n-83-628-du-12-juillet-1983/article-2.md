@@ -6,7 +6,7 @@ Sont punies des mêmes peines la détention, la mise à la disposition de tiers,
 
 Les dispositions des deux alinéas précédents sont applicables aux appareils de jeux dont le fonctionnement repose sur l'adresse et dont les caractéristiques techniques font apparaître qu'il est possible de gagner plus de cinq parties gratuites par enjeu ou un gain en espèces ou en nature.
 
-Les dispositions du présent article ne sont pas applicables aux appareils de jeux proposés au public à l'occasion, pendant la durée et dans l'enceinte des fêtes foraines, ni aux appareils distributeurs de confiseries. Un décret en Conseil d'Etat précise les caractéristiques techniques de ces appareils, la nature des lots, le montant des enjeux, le rapport entre ce dernier et la valeur des lots et, le cas échéant, les personnes susceptibles d'en proposer l'utilisation au public.
+Les dispositions du présent article ne sont pas applicables aux appareils de jeux proposés au public à l'occasion, pendant la durée et dans l'enceinte des fêtes foraines. Un décret en Conseil d'Etat précise les caractéristiques techniques de ces appareils, la nature des lots, le montant des enjeux, le rapport entre ce dernier et la valeur des lots et, le cas échéant, les personnes susceptibles d'en proposer l'utilisation au public.
 
 Sont également exceptés des dispositions du présent article les appareils de jeux proposés au public dans les casinos autorisés où est pratiqué au moins un des jeux prévus par la loi. Ces appareils ne peuvent être acquis par les casinos qu'à l'état neuf. Toute cession de ces appareils entre exploitants de casinos est interdite et ceux qui ne sont plus utilisés doivent être exportés ou détruits.
 

@@ -7,4 +7,6 @@
 - [Loi n° 95-2 du 2 janvier 1995 (AGRX9400058L)](loi-n-95-2-du-2-janvier-1995-agrx9400058l)
 - [Loi n° 95-65 du 19 janvier 1995 (INTX9400550L)](loi-n-95-65-du-19-janvier-1995-intx9400550l)
 - [Loi n° 95-66 du 20 janvier 1995 (INTX9400061L)](loi-n-95-66-du-20-janvier-1995-intx9400061l)
+- [Loi n° 95-73 du 21 janvier 1995 (INTX9400063L)](loi-n-95-73-du-21-janvier-1995-intx9400063l)
+- [Loi n° 95-74 du 21 janvier 1995 (LOGX9412606L)](loi-n-95-74-du-21-janvier-1995-logx9412606l)
 - [Loi n°95-9 du 6 janvier 1995 (INTX9400060L)](loi-n95-9-du-6-janvier-1995-intx9400060l)
