@@ -27,4 +27,5 @@
 - [Décret n°71-323 du 28 avril 1971](decret-n71-323-du-28-avril-1971)
 - [Décret n°71-507 du 28 juin 1971](decret-n71-507-du-28-juin-1971)
 - [Décret n°71-328 du 29 avril 1971](decret-n71-328-du-29-avril-1971)
+- [Décret n°71-343 du 29 avril 1971](decret-n71-343-du-29-avril-1971)
 - [Décret n°70-1329 du 31 décembre 1970](decret-n70-1329-du-31-decembre-1970)

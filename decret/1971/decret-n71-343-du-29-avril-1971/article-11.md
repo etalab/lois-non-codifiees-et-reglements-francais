@@ -1,0 +1,5 @@
+# Article 11
+
+Les dispositions du présent décret prendront effet à compter des dates d'application du décret n° 71-342 du 29 avril 1971.
+
+Sont abrogés le décret n° 51-1310 du 14 novembre 1951 relatif à l'attribution d'une prime de rendement aux personnels mécanographes titulaires travaillant sur machines à cartes perforées, le décret n° 57-849 du 30 juillet 1957 modifié portant attribution d'une indemnité spéciale aux perforeurs-vérificateurs et moniteurs de perforation des services mécanographiques de l'Etat, le décret n° 62-226 du 27 février 1962 modifié relatif aux indemnités pour travaux supplémentaires allouées à certains personnels mécanogaphes titulaires travaillant sur machines à cartes perforées. Le décret n° 62-1085 du 14 septembre 1962 relatif aux programmeurs sur contrat des services mécanographes des diverses administrations de l'Etat demeure en vigueur en tant qu'il s'applique à des agents contractuels n'ayant pas demandé ou obtenu leur intégration dans des corps de fonctionnaires, conformément aux dispositions de l'article 13 du décret n° 71-342 du 29 avril 1971.
