@@ -1,3 +1,3 @@
 # Article 1
 
-Le montant de la partie fixe de l'allocation journalière mentionnée à l'article 3 du décret n° 80-898 du 18 novembre 1980 susvisé est égal à 36 F par jour.
+Par exception aux dispositions des articles 3 et 4 de l'arrêté n° 82-10/A du 29 avril 1982, la période d'application du mois de novembre débutera le 15 novembre 1983, à zéro heure, les informations nécessaires au calcul des prix plafonds relatifs à cette période seront tenues disponibles par la direction des hydrocarbures le 10 novembre 1983. Les autorisés spéciaux sont tenus de transmettre par télex, avant le 13 novembre 1983, à zéro heure, à la direction générale de la concurrence et de la consommation et à la direction des hydrocarbures, le barème de prix de reprise qu'ils se proposent d'appliquer.
