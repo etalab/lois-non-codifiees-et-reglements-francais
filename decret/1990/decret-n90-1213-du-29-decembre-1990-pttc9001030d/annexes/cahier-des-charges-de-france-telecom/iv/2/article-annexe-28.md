@@ -10,7 +10,7 @@ France Télécom établit chaque année un état prévisionnel des recettes et d
 
 - le plan de financement.
 
-Le programme d'investissement et son mode de financement sont soumis à l'examen du conseil de direction du Fonds de développement économique et social (F.D.E.S.), dans les conditions prévues par le décret n° 55-1368 du 18 octobre 1955.
+Le programme d'investissement et son mode de financement sont soumis à l'examen du comité des investissements à caractère économique et social, dans les conditions prévues par le décret n° 55-1368 du 18 octobre 1955.
 
 L'E.P.R.D., arrêté par le conseil d'administration de France Télécom, est soumis au ministre chargé des postes et télécommunications, au ministre chargé de l'économie et des finances et au ministre chargé du budget avant le 1er décembre de l'année précédant celle de l'exercice concerné. Sauf décision contraire de leur part, dans un délai d'un mois à compter de la transmission de la délibération du conseil d'administration, l'E.P.R.D. est considéré comme approuvé.
 

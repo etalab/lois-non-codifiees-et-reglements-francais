@@ -78,7 +78,9 @@ La Poste peut convenir, par contrat passé avec un usager, de modalités particu
 
 Art. 5
 
-Services ouverts à la concurrence, rendus obligatoires par arrêté interministériel
+Services ouverts à la concurrence,
+
+rendus obligatoires par arrêté interministériel
 
 Pour des raisons d'intérêt général, un arrêté conjoint du ministre chargé des postes et télécommunications et du ministre chargé du budget peut rendre obligatoire, après avis de la Commission supérieure du service public des postes et télécommunications, la fourniture par La Poste de prestations nouvelles pour lesquelles elle ne dispose pas de droits exclusifs. Cet arrêté fixe alors, après avis de la même commission, les conditions d'exécution de ces services y compris, le cas échéant, celles des obligations énumérées à l'article 3 ci-dessus dont le respect devra être assuré, ainsi que les compensations financières permettant d'atteindre l'équilibre économique de ces services.
 
@@ -561,8 +563,6 @@ La Poste établit chaque année un état prévisionnel des recettes et des dépe
 - le programme d'investissement ;
 
 - le plan de financement.
-
-Le programme d'investissement et son mode de financement sont soumis à l'examen du conseil de direction du Fonds de développement économique et social (F.D.E.S.), dans les conditions prévues par le décret n° 55-1368 du 18 octobre 1955.
 
 L'E.P.R.D., arrêté par le conseil d'administration de La Poste, est soumis au ministre chargé des postes et télécommunications, au ministre chargé de l'économie et des finances et au ministre chargé du budget avant le 1er décembre de l'année précédant celle de l'exercice concerné. Sauf décision contraire de leur part dans le délai d'un mois à compter de la transmission de la délibération du conseil d'administration, l'E.P.R.D. est considéré comme approuvé.
 

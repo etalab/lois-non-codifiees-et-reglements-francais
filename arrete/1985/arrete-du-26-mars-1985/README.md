@@ -1,3 +1,6 @@
-# Arrêté du 26 mars 1985 modifiant l'arrêté du 29 juillet 1977 modifié relatif aux caractéristiques techniques et au prix des logements neufs à usage locatif bénéficiant de prêts aidés par l'Etat.
+# Arrêté du 26 mars 1985 relatif à la délégation du pouvoir de décision pour les agréments fiscaux prévus aux articles 44 quater et 151 octies du code général des impôts
 
-- [Annexes](annexes)
+- [Article 1](article-1.md)
+- [Article 2](article-2.md)
+- [Article 3](article-3.md)
+- [Article 4](article-4.md)

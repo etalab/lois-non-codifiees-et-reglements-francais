@@ -1,9 +1,5 @@
 # Article 2
 
-Lorsque la décision d'attribution de la prime d'aménagement du territoire est de la compétence de la région, en application de l'article 8 du décret n° 82-379 du 6 mai 1982, le dépôt du dossier de demande s'effectue auprès du service d'accueil des entreprises qui dépend du   préfet du département où doit se réaliser l'opération. Ce service, après avoir vérifié que le dossier est complet, en accuse réception et le transmet sans délai :
+Les dispositions prévues au premier alinéa de l'article précédent s'appliquent à la subvention mentionnée au tableau I annexé au décret n° 72-197 du 10 mars 1972 (subvention à la coopération).
 
-A la région, qui fait procéder à son instruction ;
-
-Au   préfet de région.
-
-La région informe de sa décision l'entreprise intéressée ainsi que le   préfet de région.
+Le cumul de la prime d'aménagement du territoire, de la prime d'orientation agricole et de la subvention à la coopération dont peuvent bénéficier les entreprises coopératives ne peut excéder 50  % du montant visé au deuxième alinéa de l'article précédent.

@@ -1,0 +1,3 @@
+# Article 1
+
+L'exonération de taxe professionnelle, l'amortissement exceptionnel des constructions nouvelles, la réduction du droit de mutation ou de la taxe de publicité foncière prévus en faveur du développement régional et de l'amélioration des structures des entreprises peuvent être accordés sur agrément dans les conditions définies ci-après, sous réserve de l'appréciation des modalités techniques et financières des programmes présentés et dans la mesure où les entreprises intéressées n'ont commis aucune infraction fiscale grave et sont dans une situation régulière vis-à-vis des services de recouvrement.

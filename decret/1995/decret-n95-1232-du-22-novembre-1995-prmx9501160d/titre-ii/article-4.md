@@ -14,7 +14,7 @@ Il est associé à l'élaboration des politiques publiques concernant la mer et 
 
 En liaison avec les ministères intéressés, il assure la coordination des études sur l'évolution de la politique maritime ;
 
-Il est représenté par son secrétaire général au conseil de direction du Fonds de développement économique et social et participe aux travaux des instances et comités qui connaissent des problèmes maritimes.
+Il participe aux travaux des instances et comités qui connaissent des problèmes maritimes.
 
 III. - Sous l'autorité directe du Premier ministre, et en liaison avec les ministères et organismes compétents, le secrétariat général de la mer veille à l'échelon central à la coordination des actions de l'Etat en mer. Il étudie et propose les mesures qui tendent à améliorer l'efficacité de ces actions.
 
