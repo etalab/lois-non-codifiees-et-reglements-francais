@@ -16,6 +16,6 @@ Si le propriétaire du bien accepte l'offre d'achat, le paiement doit intervenir
 
 En cas de renouvellement du refus de délivrance du certificat, la procédure prévue aux alinéas précédents demeure applicable.
 
-L'autorité administrative peut également procéder à l'acquisition des biens visés au deuxième alinéa de l'article 9 pour le compte de toute personne publique.
+L'autorité administrative peut également présenter une offre d'achat dans les conditions prévues au premier alinéa pour le compte de toute personne publique.
 
 Un décret en Conseil d'Etat fixe les conditions d'application du présent article.

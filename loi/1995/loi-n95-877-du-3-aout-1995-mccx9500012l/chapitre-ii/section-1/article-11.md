@@ -10,8 +10,10 @@ Sont considérés comme des biens culturels pour l'application du présent chapi
 
 2° Les biens culturels qui appartiennent à une personne publique et qui :
 
-- soit figurent sur les inventaires des collections des musées, ou des organismes qui remplissent des missions patrimoniales analogues, des archives ou des fonds de conservation des bibliothèques ;
+- soit figurent sur les inventaires des collections des musées de France et des autres musées ou des organismes qui remplissent des missions patrimoniales analogues, des archives ou des fonds de conservation des bibliothèques ;
 
 - soit sont classés monuments historiques ou archives historiques en application de la loi du 31 décembre 1913 ou de la loi n° 79-18 du 3 janvier 1979 précitées ;
 
-3° Les biens culturels qui, conservés dans les édifices affectés à l'exercice public d'un culte, ou leurs dépendances, quel que soit leur propriétaire, ou dans les édifices utilisés par des communautés religieuses, sont classés monuments ou archives historiques ou sont considérés comme des trésors nationaux par l'Etat après avis de la commission mentionnée au 1° ci-dessus.
+3° Les biens culturels qui, conservés dans les édifices affectés à l'exercice public d'un culte, ou leurs dépendances, quel que soit leur propriétaire, ou dans les édifices utilisés par des communautés religieuses, sont classés monuments ou archives historiques ou sont considérés comme des trésors nationaux par l'Etat après avis de la commission mentionnée au 1° ci-dessus ;
+
+4° Les biens culturels figurant à l'inventaire des collections d'un musée de France relevant d'une personne morale de droit privé sans but lucratif.
