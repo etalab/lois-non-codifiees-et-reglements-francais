@@ -20,6 +20,6 @@ Usages industriels :
 
 Solvant : 40 F ;
 
-Réactionnel : 40 F ;
+Réactionnel : 20 F ;
 
 Alcool à brûler pour usages domestiques : 40 F.
