@@ -1,3 +1,3 @@
 # Article 2
 
-Le directeur des routes et de la circulation routière est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+La quantité totale d'acide benzoïque et de ses sels, en milligrammes par litre, devra être inscrite sur l'étiquetage des boissons prêtes à la vente à la suite des indications conventionnelles se rapportant à ces conservateurs.
