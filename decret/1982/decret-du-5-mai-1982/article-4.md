@@ -9,3 +9,11 @@ Toutefois, dans l'encépagement de l'exploitation, le pourcentage de carignan no
 A compter de la récolte 1985, ensemble ou séparément, mourvèdre et syrah devront représenter au moins 5 p. 100 de cet encépagement, et grenache noir et lledoner pelut noir au moins 10 p. 100.
 
 A compter de la récolte 1990, ces quatre cépages devront représenter ensemble au moins 35 p. 100 de l'encépagement, avec un minimum de 10 p. 100 pour le mourvèdre et la syrah ensemble et un minimum de 20 p. 100 pour le grenache noir et le lledoner pelut noir ensemble.
+
+A partir de la récolte 1997 :
+
+- les cépages carignan (N) et cinsaut devront représenter respectivement au maximum 40 p. 100 et 30 p. 100 de l'encépagement ;
+
+- l'ensemble des cépages mourvèdre (N) et syrah (N) devra représenter au minimum 15 p. 100 de l'encépagement, le cépage mourvèdre (N) représentant au minimum 5 p. 100 ;
+
+- l'ensemble des cépages mourvèdre (N), syrah (N), grenache (N) et lledoner pelut (N) devra représenter au minimum 40 p. 100 de l'encépagement.

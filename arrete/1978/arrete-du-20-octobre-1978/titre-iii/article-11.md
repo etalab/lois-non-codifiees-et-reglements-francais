@@ -18,221 +18,92 @@ Si le nombre cumulé de défectueux est inférieur ou égal au second critère d
 
 Si le nombre cumulé de défectueux est supérieur ou égal au second critère de rejet, le lot est rejeté.
 
-Effectif du lot : 100 à 500.
-
-Echantillons :
-
-- ordre : 1er.
-
-- effectif : 30.
-
-- effectif cumulé : 30.
-
-Nombre de défectueux
-
-- critère d'acceptation : 1.
-
-- critère de rejet : 3.
-
-Effectif du lot : 100 à 500.
-
-Echantillons :
-
-- ordre : 2ème.
-
-- effectif : 30.
-
-- effectif cumulé : 60.
-
-Nombre de défectueux
-
-- critère d'acceptation : 4.
-
-- critère de rejet : 5.
-
-Effectif du lot : 501 à 3.200.
-
-Echantillons :
-
-- ordre : 1er.
-
-- effectif : 50.
-
-- effectif cumulé : 50.
-
-Nombre de défectueux
-
-- critère d'acceptation : 2.
-
-- critère de rejet : 5.
-
-Effectif du lot : 501 à 3.200.
-
-Echantillons :
-
-- ordre : 2ème.
-
-- effectif : 50.
-
-- effectif cumulé : 100.
-
-Nombre de défectueux
-
-- critère d'acceptation : 6.
-
-- critère de rejet : 7.
-
-Effectif du lot : 3.201 et plus.
-
-Echantillons :
-
-- ordre : 1er.
-
-- effectif : 80.
-
-- effectif cumulé : 80.
-
-Nombre de défectueux
-
-- critère d'acceptation : 3.
-
-- critère de rejet : 7.
-
-Effectif du lot : 3.201 et plus.
-
-Echantillons :
-
-- ordre : 2ème
-
-- effectif : 80.
-
-- effectif cumulé : 160.
-
-Nombre de défectueux
-
-- critère d'acceptation : 8.
-
-- critère de rejet : 9.
-
-11.1.2. Plan d'échantillonnage progressif :
-
-Ce plan peut être utilisé pour les lots d'effectif supérieur à 3.200.
-
-Le contrôle consiste à effectuer des prélèvements successifs et à considérer après chaque prélèvement le total k de défectueux qu'on a dénombrés pour prendre l'une des décisions ci-après :
-
-a) Jusqu'au prélèvement ayant l'avant-dernier numéro d'ordre (159) indiqué dans le plan d'échantillonnage suivant :
-
-Accepter le lot pour ce contrôle si k est égal au critère d'acceptation correspondant, dans le plan, au numéro d'ordre du prélèvement ;
-
-Rejeter le lot pour ce contrôle si k est égal au critère de rejet correspondant, dans le plan, au numéro d'ordre du prélèvement ;
-
-Prélever un nouveau préemballage si aucune des décisions précédentes ne peut être prise ;
-
-b) Pour le prélèvement ayant le dernier numéro d'ordre (160) indiqué dans le plan ci-après :
-
-Accepter le lot pour ce contrôle si k est inférieur ou égal au critère d'acceptation correspondant donné par le plan ;
-
-Rejeter le lot pour ce contrôle si k est égal au critère de rejet correspondant donné par le plan.
-
-Numéro d'ordre du prélèvement : 1 et 2.
-
-Critère d'acceptation : pas d'acceptation.
-
-Critère de rejet : pas de rejet.
-
-Numéro d'ordre du prélèvement : 3.
-
-Critère d'acceptation : pas d'acceptation.
-
-Critère de rejet : 3.
-
-Numéro d'ordre du prélèvement : 4 à 21.
-
-Critère d'acceptation : pas d'acceptation.
-
-Critère de rejet : 4.
-
-Numéro d'ordre du prélèvement : 22 à 34.
-
-Critère d'acceptation : pas d'acceptation.
-
-Critère de rejet : 5.
-
-Numéro d'ordre du prélèvement : 35 à 39.
-
-Critère d'acceptation : 0.
-
-Critère de rejet : 5.
-
-Numéro d'ordre du prélèvement : 40 à 52.
-
-Critère d'acceptation : 0.
-
-Critère de rejet : 6.
-
-Numéro d'ordre du prélèvement : 53 à 57.
-
-Critère d'acceptation : 1.
-
-Critère de rejet : 6.
-
-Numéro d'ordre du prélèvement : 58 à 70.
-
-Critère d'acceptation : 1.
-
-Critère de rejet : 7.
-
-Numéro d'ordre du prélèvement : 71 à 76.
-
-Critère d'acceptation : 2.
-
-Critère de rejet : 7.
-
-Numéro d'ordre du prélèvement : 77 à 89.
-
-Critère d'acceptation : 2.
-
-Critère de rejet : 8.
-
-Numéro d'ordre du prélèvement : 90 à 94.
-
-Critère d'acceptation : 3.
-
-Critère de rejet : 8.
-
-Numéro d'ordre du prélèvement : 95 à 107.
-
-Critère d'acceptation : 3.
-
-Critère de rejet : 9.
-
-Numéro d'ordre du prélèvement : 108 à 125.
-
-Critère d'acceptation : 4.
-
-Critère de rejet : 9.
-
-Numéro d'ordre du prélèvement : 126 à 143.
-
-Critère d'acceptation : 5.
-
-Critère de rejet : 9.
-
-Numéro d'ordre du prélèvement : 144 à 159.
-
-Critère d'acceptation : 6.
-
-Critère de rejet : 9.
-
-Numéro d'ordre du prélèvement : 160.
-
-Critère d'acceptation : 8.
-
-Critère de rejet : 9.
-
-11.1.3. Contrôle à 100 p. 100 (lots d'effectif inférieur à 100). Les lots d'effectif inférieur à 100 et soumis à un contrôle non destructif doivent être contrôlés à 100 p. 100.
-
-Le lot est accepté s'il contient moins de 2 p. 100 de défectueux. 11.2. Contrôle destructif :
+<table>
+<tbody>
+<tr>
+<td align="center" rowspan="2">EFFECTIF DU LOT <br/>
+</td>
+<td align="center" colspan="3">ECHANTILLONS <br/>
+<br/>
+</td>
+<td align="center" colspan="2">NOMBRE DE DEFECTUEUX <br/>
+</td>
+</tr>
+<tr>
+<td align="center">Ordre <br/>
+</td>
+<td align="center">Effectif <br/>
+</td>
+<td align="center">Effectif cumulé <br/>
+</td>
+<td align="center">Critère d'acceptation <br/>
+</td>
+<td align="center">Critère de rejet <br/>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">100 à 500. <br/>
+</td>
+<td align="center">1er <br/>
+</td>
+<td align="center">30 <br/>
+</td>
+<td align="center"> 30</td>
+<td align="center">1 <br/>
+</td>
+<td align="center"> 3</td>
+</tr>
+<tr>
+<td align="center"> 2e</td>
+<td align="center">30 <br/>
+</td>
+<td align="center"> 60</td>
+<td align="center"> 4</td>
+<td align="center">5 <br/>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2"> 501 à 3.200</td>
+<td align="center"> 1er</td>
+<td align="center"> 50</td>
+<td align="center">50 <br/>
+</td>
+<td align="center">2 <br/>
+</td>
+<td align="center">5 <br/>
+</td>
+</tr>
+<tr>
+<td align="center"> 2e</td>
+<td align="center">50 <br/>
+</td>
+<td align="center">100 <br/>
+</td>
+<td align="center">6 <br/>
+</td>
+<td align="center">7 <br/>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2"> 3.201 et plus</td>
+<td align="center">1er <br/>
+</td>
+<td align="center"> 80</td>
+<td align="center"> 80</td>
+<td align="center"> 3</td>
+<td align="center"> 7</td>
+</tr>
+<tr>
+<td align="center"> 2e</td>
+<td align="center"> 80</td>
+<td align="center"> 160</td>
+<td align="center"> 8</td>
+<td align="center"> 9</td>
+</tr>
+</tbody>
+</table>
+
+11.2. Contrôle destructif :
 
 Le plan d'échantillonnage ci-dessous ne doit être utilisé que pour des lots d'effectif supérieur ou égal à 100.
 

@@ -1,3 +1,3 @@
 # Article 11
 
-Les vins pour lesquels, au terme du présent décret, est revendiquée l'appellation d'origine contrôlée "Corbières" et qui sont présentés sous ladite appellation, ne peuvent être déclarés après la récolte, offerts au public, expédiés, mis en vente ou vendus sans que dans la déclaration de récolte, dans les annonces, sur les prospectus, étiquettes, factures, récipients quelconques, l'appellation susvisée soit inscrite et accompagnée de la mention "appellation contrôlée", le tout en caractères très apparents.
+L'emploi de toute indication ou de tout signe susceptible de faire croire à l'acheteur qu'un vin a droit à l'appellation d'origine contrôlée "Coteaux du Languedoc" alors qu'il ne répond pas à toutes les conditions de production fixées par le présent décret est poursuivi, conformément à la législation générale sur les fraudes et sur la protection des appellations d'origine, sans préjudice des sanctions d'ordre fiscal, s'il y a lieu.

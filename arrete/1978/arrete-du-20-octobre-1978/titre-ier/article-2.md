@@ -16,15 +16,9 @@ Tout préemballage concerné par le décret n° 78-166 du 31 janvier 1978 doit p
 
 suivis du symbole de l'unité de mesure utilisée ou, éventuellement, de son nom.
 
-2.2. Une marque ou inscription permettant d'identifier l'auteur des préemballages ou l'importateur lorsqu'ils sont établis en France. L'identification sera donnée sous l'une des formes suivantes :
+2.2. Une marque ou inscription permettant au service compétent d'identifier l'emplisseur ou celui qui a fait faire l'emplissage ou l'importateur, établis dans la Communauté économique européenne.
 
-L'adresse de l'établissement où a été effectivement et définitivement réalisé le préemballage, de celui ou a été réalisé le contrôle propre à l'entreprise, ou de l'importateur ; cette adresse sera précédée de la mention EMB si une autre adresse figure sur l'emballage (siège social de l'entreprise, du distributeur, etc.). L'identification de la commune de l'établissement, sous la forme du code officiel géographique, précédée de la mention EMB et éventuellement suivie d'une lettre indiquée par le service des instruments de mesure localement compétent.
-
-En cas d'impossibilité technique d'utilisation d'un des deux procédés ci-dessus et après l'accord du service des instruments de mesure, l'adresse d'un responsable de la fabrication où peuvent être consultés les résultats des contrôles internes pratiqués.
-
-Pour les produits visés par le décret n° 72-937 du 12 octobre 1972, les autres formes d'identification de l'auteur des préemballages, prévues par l'arrêté du 4 décembre 1974, sont admises.
-
-Toutefois, lorsque des préemballages provenant d'un autre Etat membre de la Communauté économique européenne portent le signe "e" défini au paragraphe 2.3 ci-après, l'identification s'établit au moyen d'une marque ou inscription permettant aux services compétents de cet Etat d'identifier l'auteur des préemballages ou la personne qui a importé les préemballages dans cet Etat.
+Les modalités d'identification seront précisées par arrêté du ministre chargé de la consommation.
 
 2.3. Le cas échéant, la lettre minuscule "e" d'une hauteur minimale de 3 mm, placée dans le même champ visuel que l'indication de la masse ou du volume nominal et certifiant sous la responsabilité du préemballeur ou de l'importateur que le préemballage satisfait aux prescriptions du décret n° 78-166 du 31 janvier 1978, notamment de son article 8, et présent arrêté.
 

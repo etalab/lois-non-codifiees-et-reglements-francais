@@ -10,6 +10,8 @@ L'effectif du lot est le nombre N de préemballages contenus dans cet ensemble.
 
 L'effectif du lot est limité à 10.000 préemballages ; toutefois, lorsque le contrôle des préemballages se fait en fin de chaîne de remplissage, il est égal à la production horaire maximale de la chaîne de remplissage et cela sans limitation d'effectif.
 
+Pour des lots d'effectif inférieur à cent préemballages, le contrôle non destructif, lorsqu'il a lieu, s'effectue à 100%.
+
 8.2. Echantillon :
 
 L'échantillon est constitué par les préemballages prélevés au hasard dans le lot soumis au contrôle,
@@ -24,7 +26,7 @@ des contenus xi des n préemballages mesurés dans l'échantillon.
 
 8.4. Estimateur de l'écart type :
 
-On désigne sous ce nom le nombre "s" égal à la racine carrée du quotient par n - 1 de la somme des carrés des écarts entre les contenus mesurés dans l'échantillon et la moyenne /x desdits contenus, soit : [*formule non reproduite*]
+On désigne sous ce nom le nombre "s" égal à la racine carrée du quotient par n - 1 de la somme des carrés des écarts entre les contenus mesurés dans l'échantillon et la moyenne /x desdits contenus, soit : (formule non reproduite)
 
 8.5. Défectueux :
 
