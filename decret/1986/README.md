@@ -16,6 +16,8 @@
 - [Décret n°86-36 du 7 janvier 1986](decret-n86-36-du-7-janvier-1986)
 - [Décret n°86-38 du 7 janvier 1986](decret-n86-38-du-7-janvier-1986)
 - [Décret n°86-62 du 7 janvier 1986](decret-n86-62-du-7-janvier-1986)
+- [Décret n°86-65 du 7 janvier 1986](decret-n86-65-du-7-janvier-1986)
+- [Décret n°86-66 du 7 janvier 1986](decret-n86-66-du-7-janvier-1986)
 - [Décret n°85-1189 du 8 novembre 1985](decret-n85-1189-du-8-novembre-1985)
 - [Décret n°85-1306 du 9 décembre 1985](decret-n85-1306-du-9-decembre-1985)
 - [Décret n°85-1307 du 9 décembre 1985](decret-n85-1307-du-9-decembre-1985)
