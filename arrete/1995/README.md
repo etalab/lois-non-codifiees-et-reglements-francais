@@ -866,3 +866,4 @@
 - [Arrêté du 31 mars 1995 (SPSS9500625A)](arrete-du-31-mars-1995-spss9500625a)
 - [Arrêté du 31 mars 1995 (SPSS9500924A)](arrete-du-31-mars-1995-spss9500924a)
 - [Arrêté du 31 mars 1995 (SPSS9500945A)](arrete-du-31-mars-1995-spss9500945a)
+- [Arrêté du 31 mai 1995 (MENL9500885A)](arrete-du-31-mai-1995-menl9500885a)
