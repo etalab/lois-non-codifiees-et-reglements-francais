@@ -7,6 +7,7 @@
 - [Loi n° 72-964 du 25 octobre 1972](loi-n-72-964-du-25-octobre-1972)
 - [Loi n° 72-965 du 25 octobre 1972](loi-n-72-965-du-25-octobre-1972)
 - [Loi n° 73-10 du 4 janvier 1973](loi-n-73-10-du-4-janvier-1973)
+- [Loi n° 73-1128 du 21 décembre 1973](loi-n-73-1128-du-21-decembre-1973)
 - [Loi n° 73-4 du 2 janvier 1973](loi-n-73-4-du-2-janvier-1973)
 - [Loi n° 73-42 du 9 janvier 1973](loi-n-73-42-du-9-janvier-1973)
 - [Loi n° 73-5 du 2 janvier 1973](loi-n-73-5-du-2-janvier-1973)
