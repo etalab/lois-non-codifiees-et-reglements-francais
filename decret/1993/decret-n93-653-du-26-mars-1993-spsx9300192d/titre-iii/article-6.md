@@ -1,3 +1,3 @@
 # Article 6
 
-Pendant la durée du stage, les agents sont classés au 1er échelon de début du corps des conseillers en économie sociale et familiale ou à l'échelon comportant un indice égal ou, à défaut, immédiatement supérieur à celui dont ils bénéficiaient dans leur corps, cadre d'emplois ou emploi d'origine.
+Pendant la durée du stage, les agents sont classés au 1er échelon du grade de début du corps régi par le présent décret ou, le cas échéant, à un échelon déterminé dans les conditions prévues aux articles 7, 7-1 et 8 ci-après.

@@ -1,5 +1,9 @@
 # Article 7
 
-Lorsque ce mode de classement ne leur procure pas une augmentation de traitement égale ou supérieure à celle qu'ils auraient obtenue par un avancement d'échelon dans leur précédente situation, ils conservent l'ancienneté d'échelon acquise dans leur précédent grade dans la limite nécessaire à un avancement d'échelon dans leur nouveau corps.
+Les agents nommés dans le corps régi par le présent décret et qui ont eu auparavant la qualité d'agent non titulaire sont classés à un échelon déterminé en prenant en compte, sur la base des durées moyennes fixées pour chaque avancement d'échelon, une fraction de l'ancienneté totale acquise à la date de leur nomination, dans les conditions suivantes :
 
-Les fonctionnaires nommés alors qu'ils ont atteint l'échelon terminal de leur précédent grade conservent leur ancienneté d'échelon dans les mêmes conditions et limites, lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle résultant du dernier avancement d'échelon dans le grade d'origine.
+a) Les services accomplis dans un emploi de niveau au moins équivalent à celui de la catégorie B sont retenus à raison des trois quarts de leur durée ;
+
+b) Les services accomplis dans un emploi de niveau inférieur sont retenus à raison de la moitié de leur durée.
+
+Les dispositions de l'alinéa précédent ne peuvent avoir pour conséquence de placer les intéressés dans une situation plus favorable que celle qui résulterait d'un classement à un échelon comportant un traitement égal ou, à défaut, immédiatement supérieur à celui perçu dans l'ancien emploi avec conservation de l'ancienneté moyenne fixée au titre IV du présent décret pour le passage à l'échelon ou au grade supérieur.
