@@ -683,7 +683,6 @@
 - [Décret n°98-309 du 22 avril 1998 (ECOF9800001D)](decret-n98-309-du-22-avril-1998-ecof9800001d)
 - [Décret n°98-493 du 22 juin 1998 (MEST9810698D)](decret-n98-493-du-22-juin-1998-mest9810698d)
 - [Décret n°98-494 du 22 juin 1998 (MESF9810697D)](decret-n98-494-du-22-juin-1998-mesf9810697d)
-- [Décret n°98-495 du 22 juin 1998 (MESF9810700D)](decret-n98-495-du-22-juin-1998-mesf9810700d)
 - [Décret n°98-496 du 22 juin 1998 (MEST9810690D)](decret-n98-496-du-22-juin-1998-mest9810690d)
 - [Décret n°98-497 du 22 juin 1998 (MEST9810699D)](decret-n98-497-du-22-juin-1998-mest9810699d)
 - [Décret n°98-498 du 22 juin 1998 (MCCK9700618D)](decret-n98-498-du-22-juin-1998-mcck9700618d)
