@@ -25,7 +25,6 @@
 - [Décret n°68-884 du 10 octobre 1968](decret-n68-884-du-10-octobre-1968)
 - [Décret n°68-97 du 10 janvier 1968](decret-n68-97-du-10-janvier-1968)
 - [Décret n°68-960 du 11 octobre 1968](decret-n68-960-du-11-octobre-1968)
-- [Décret n°68-900 du 12 octobre 1968](decret-n68-900-du-12-octobre-1968)
 - [Décret n°68-47 du 13 janvier 1968](decret-n68-47-du-13-janvier-1968)
 - [Décret n°68-756 du 13 août 1968](decret-n68-756-du-13-aout-1968)
 - [Décret n°68-807 du 13 septembre 1968](decret-n68-807-du-13-septembre-1968)
