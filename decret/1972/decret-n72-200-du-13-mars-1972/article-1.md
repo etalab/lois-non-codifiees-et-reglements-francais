@@ -1,3 +1,0 @@
-# Article 1
-
-Les seringues et les aiguilles destinées aux injections parentérales peuvent être délivrées dans les officines de pharmacie, les pharmacies à usage intérieur des établissements de santé et les établissements qui se consacrent exclusivement au commerce du matériel médico-chirurgical et dentaire ou qui disposent d'un département spécialisé à cet effet, ainsi qu'à titre gratuit par toute association à but non lucratif ou personne physique menant une action de prévention du sida ou de réduction des risques chez les usagers de drogues dans des conditions définies par un arrêté du ministre chargé de la santé.
