@@ -1,5 +1,11 @@
 # Article 1
 
-Par application des dispositions de l'article 21 du décret n° 72-196 du 10 mars 1972, le montant de la subvention de l'Etat peut être révisé en cas de dépassement de la dépense ayant initialement servi d'assiette à la subvention lorsqu'il s'agit des investissements suivants :
+Au sens du présent arrêté, on entend par :
 
-Services judiciaires, bâtiments judiciaires, propriété des collectivités locales : sous-rubrique n° 3662 de la nomenclature des investissements pris en compte pour la régionalisation du VIe Plan. Cette révision de la subvention ne s'applique qu'aux dépenses relatives aux modernisations et aménagements in situ ainsi qu'aux surélévations et extensions, à l'exclusion des dépenses afférentes aux constructions nouvelles et aux reconstructions.
+"Véhicule" [*définition*] tout véhicule à moteur destiné à circuler sur route, avec ou sans carrosserie, ayant au moins quatre roues et une vitesse maximale par construction supérieure à 25 km/h, ainsi que ses remorques, à l'exception des véhicules qui se déplacent sur rails, ainsi que des tracteurs et machines agricoles.
+
+"Réception C.E.E." l'acte par lequel un Etat membre de la Communauté économique européenne constate qu'un type de véhicule satisfait aux prescriptions techniques de toutes les réglementations communautaires le concernant et aux vérifications prévues par la fiche de réception C.E.E. dont le modèle figure à l'annexe II du présent arrêté.
+
+"Réception C.E.E. partielle" l'acte par lequel un Etat membre de la Communauté économique européenne constate qu'un type de véhicule satisfait aux prescriptions techniques de certaines réglementations communautaires et aux vérifications correspondantes prévues par la fiche de réception.
+
+"Homologation C.E.E." l'acte par lequel un Etat membre de la Communauté économique européenne constate qu'un dispositif destiné à équiper les véhicules satisfait aux prescriptions de la réglementation communautaire le concernant.

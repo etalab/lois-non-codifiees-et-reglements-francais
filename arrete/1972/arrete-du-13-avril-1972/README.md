@@ -1,4 +1,4 @@
-# Arrêté du 10 mars 1972 relatif à la réception CEE (Communauté économique européenne) des véhicules et homologation CEE des dispositifs d'équipement pour véhicules
+# Arrêté du 13 avril 1972 relatif au bruit des véhicules automobiles.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -13,4 +13,9 @@
 - [Article 11](article-11.md)
 - [Article 12](article-12.md)
 - [Article 13](article-13.md)
+- [Article 14](article-14.md)
+- [Article 15](article-15.md)
+- [Article 16](article-16.md)
+- [Article 17](article-17.md)
+- [Article 18](article-18.md)
 - [Annexes](annexes)

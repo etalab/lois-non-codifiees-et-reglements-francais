@@ -1,35 +1,57 @@
 # Article ANNEXE
 
-I. - Pièces communes à toutes les demandes.
+A - Le maître d'ouvrage est une collectivité locale ou une autre personne de droit public.
 
-1. Justification de nationalité du créateur d'aérodrome prévue par l'article D. 221-1 du code de l'aviation civile.
+I - Travaux.
 
-2. Pour les collectivités publiques, établissements publics et personnes morales de droit privé ; délibération de l'organe qualifié de la collectivité ou de l'organisme adoptant l'opération et plan de financement prévisionnel précisant l'origine et le montant des moyens financiers.
+1° Délibération de l'organe qualifié de la collectivité ou de l'organisme concerné adoptant l'avant-projet et le plan de financement.
 
-3. Pour les personnes morales de droit privé, récépissé de déclaration d'association constituée conformément à la loi de 1901 ou récépissé d'inscription au registre du commerce.
+2° Note explicative et justificative de l'opération précisant, notamment, son objet, sa consistance, sa durée, et, s'il y a lieu, les conditions spéciales de réalisation : conditions d'exploitation, intérêt économique et rentabilité de l'investissement.
 
-4. Engagement de maintenir en exploitation l'aérodrome bénéficiaire de la subvention pendant vingt années au moins, conformément aux dispositions de l'article R. 225-3 du code de l'aviation civile.
+Lorsqu'il s'agit d'une tranche d'opération, la note doit justifier de son caractère fonctionnel par rapport au contenu de l'opération envisagée dans son ensemble.
 
-5. Bilan de l'emploi des équipements préexistants et bilan prévisionnel d'emploi et de gestion de l'équipement envisagé.
+3° Documents précisant la situation juridique des terrains ou immeubles ou, à défaut, note explicative sous réserve de la production ultérieure de ces documents.
 
-II. - Pièces supplémentaires.
+4° Plan de financement prévisionnel de l'opération précisant l'origine et le montant des moyens financiers et l'échéancier indicatif des dépenses prévues (cette pièce n'a pas à être produite si ces précisions figurent à la pièce n° 1).
 
-A - Acquisitions immobilières.
+5° Dossier technique comportant :
 
-1. Note indiquant la destination et l'utilité de l'acquisition, les modalités de l'opération et son coût accompagné de documents justificatifs (évaluation domaniale).
+Plan de situation ;
 
-2. Plan de situation.
+Plan de masse ou plan général des travaux ;
 
-3. Plan parcellaire.
+Devis descriptif et devis estimatif, et précisant, le cas échéant, les mesures envisagées pour la protection de l'environnement.
 
-B. - Travaux.
+Pour les travaux d'équipement et d'aménagement forestiers, joindre au dossier une copie conforme de la matrice cadastrale des terrains à reboiser ou à équiper lorsque les opérations sont financées par le fonds forestier national, et fournir comme plan de situation un extrait du plan directeur de l'I.G.N..
 
-1. Note explicative de l'opération précisant son objet et sa consistance.
+III - Equipement en matériel.
 
-2. Plans accompagnés des notes de calculs et de la description des procédés d'exécution.
+(Dans le cas d'une demande de subvention distincte).
 
-3. Devis descriptif et estimatif.
+1° Délibération de l'organe qualifié de la collectivité ou de l'organisme décidant l'acquisition et adoptant le plan de financement.
 
-4. Calendrier des travaux envisagés.
+2° Note explicative comportant notamment le programme d'utilisation du matériel.
 
-5. Documents justifiant la situation juridique du terrain d'assiette et en cas de location précisant que le droit de jouissance couvre une durée de vingt années minimum.
+3° Plan de financement prévisionnel de l'opération précisant l'origine et le montant des moyens financiers et l'échéancier indicatif des dépenses prévues (cette pièce n'a pas à être produite si ces précisions figurent à la pièce n° 11).
+
+4. Dossier technique comportant :
+
+Devis descriptif et devis estimatif ;
+
+Plan d'installation du matériel s'il s'agit d'un matériel fixe.
+
+Pour un matériel de faible importance ou normalisé, le devis descriptif et le devis estimatif peuvent être remplacés par une facture pro forma.
+
+IV - Etudes.
+
+1° Délibération de l'organe qualifié de la collectivité ou de l'organisme concerné décidant l'étude et adoptant le plan de financement.
+
+2° Note explicative et justificative.
+
+3° Devis estimatif faisant apparaître les dépenses de personnel (appointements, charges sociales et fiscales), les frais directs (déplacements), les frais de fonctionnement, les frais généraux et la marge bénéficiaire.
+
+Dans le cas d'une étude préalable à l'exécution de travaux, joindre au dossier : projet de contrat d'études et, s'il y a lieu, justification de l'agrément exigé du cocontractant.
+
+B - Le maître d'ouvrage est une personne morale de droit privé.
+
+Les pièces prévues au paragraphe A ci-dessus au titre des différentes rubriques I, II, III et IV sont dans tous les cas complétées par des documents précisant la qualité (statuts ou, le cas échéant, copie de la décision d'agrément ou de reconnaissance) et la situation financière du demandeur.
