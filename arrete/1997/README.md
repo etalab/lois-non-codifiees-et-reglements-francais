@@ -860,7 +860,6 @@
 - [Arrêté du 24 octobre 1997 (MESE9711509A)](arrete-du-24-octobre-1997-mese9711509a)
 - [Arrêté du 24 septembre 1990 (SPSP9001787A)](arrete-du-24-septembre-1990-spsp9001787a)
 - [Arrêté du 25 août 1997 (ECOD9740005A)](arrete-du-25-aout-1997-ecod9740005a)
-- [Arrêté du 25 août 1997 (EQUA9701378A)](arrete-du-25-aout-1997-equa9701378a)
 - [Arrêté du 25 avril 1997 (ECOR9705008A)](arrete-du-25-avril-1997-ecor9705008a)
 - [Arrêté du 25 avril 1997 (MENU9701024A)](arrete-du-25-avril-1997-menu9701024a)
 - [Arrêté du 25 avril 1997 (MSJK9770041A)](arrete-du-25-avril-1997-msjk9770041a)
