@@ -59,6 +59,7 @@
 - [Arrêté du 5 octobre 1999 (ECOD9970020A)](arrete-du-5-octobre-1999-ecod9970020a)
 - [Arrêté du 5 septembre 2001 (DEFP0101629A)](arrete-du-5-septembre-2001-defp0101629a)
 - [Arrêté du 5 septembre 2001 (INTC0100526A)](arrete-du-5-septembre-2001-intc0100526a)
+- [Arrêté du 6 août 2001 (DEFP0101962A)](arrete-du-6-aout-2001-defp0101962a)
 - [Arrêté du 6 août 2001 (EQUZ0101265A)](arrete-du-6-aout-2001-equz0101265a)
 - [Arrêté du 6 avril 2001 (EQUS0100519A)](arrete-du-6-avril-2001-equs0100519a)
 - [Arrêté du 6 décembre 2000 (ECOP0001044A)](arrete-du-6-decembre-2000-ecop0001044a)
