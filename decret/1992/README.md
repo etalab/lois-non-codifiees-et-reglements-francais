@@ -642,6 +642,7 @@
 - [Décret n°92-734 du 27 juillet 1992 (INTA9200273D)](decret-n92-734-du-27-juillet-1992-inta9200273d)
 - [Décret n°92-737 du 27 juillet 1992 (SPSG9201275D)](decret-n92-737-du-27-juillet-1992-spsg9201275d)
 - [Décret n°92-738 du 27 juillet 1992 (SPSG9201277D)](decret-n92-738-du-27-juillet-1992-spsg9201277d)
+- [Décret n°92-795 du 27 juillet 1992 (COPB9100069D)](decret-n92-795-du-27-juillet-1992-copb9100069d)
 - [Décret n°93-1028 du 27 août 1993 (JUSG9360046D)](decret-n93-1028-du-27-aout-1993-jusg9360046d)
 - [Décret n°93-712 du 27 mars 1993 (ACVE9250042D)](decret-n93-712-du-27-mars-1993-acve9250042d)
 - [Décret n°93-713 du 27 mars 1993 (ACVE9250041D)](decret-n93-713-du-27-mars-1993-acve9250041d)
