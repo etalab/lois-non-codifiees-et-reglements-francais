@@ -1,0 +1,3 @@
+# Article 2
+
+La titularisation dans les corps ou emplois des catégories C et D des agents ayant une ancienneté inférieure à sept ans pour la catégorie C et à cinq ans pour la catégorie D est subordonnée à l'inscription des candidats sur une liste d'aptitude établie par l'autorité territoriale en fonction de la valeur professionnelle, après avis de la commission administrative paritaire compétente. Pour les agents non titulaires comptant au moins sept ans de service pour la catégorie C et cinq ans pour la catégorie D, leur accès aux corps ou emplois de titulaires correspondants s'effectue par intégration directe.
