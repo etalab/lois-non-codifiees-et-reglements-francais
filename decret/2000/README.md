@@ -605,7 +605,6 @@
 - [Décret n°2000-717 du 28 juillet 2000 (MESG0020223D)](decret-n2000-717-du-28-juillet-2000-mesg0020223d)
 - [Décret n°2000-718 du 28 juillet 2000 (MESG0020224D)](decret-n2000-718-du-28-juillet-2000-mesg0020224d)
 - [Décret n°2000-723 du 28 juillet 2000 (MENG0000839D)](decret-n2000-723-du-28-juillet-2000-meng0000839d)
-- [Décret n°2000-74 du 28 janvier 2000 (MESC0010118D)](decret-n2000-74-du-28-janvier-2000-mesc0010118d)
 - [Décret n°2000-812 du 28 août 2000 (EQUU0001175D)](decret-n2000-812-du-28-aout-2000-equu0001175d)
 - [Décret n°2000-813 du 28 août 2000 (EQUU0001019D)](decret-n2000-813-du-28-aout-2000-equu0001019d)
 - [Décret n°2000-814 du 28 août 2000 (AGRS0001083D)](decret-n2000-814-du-28-aout-2000-agrs0001083d)

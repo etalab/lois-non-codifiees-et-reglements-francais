@@ -667,7 +667,6 @@
 - [Décret n°98-944 du 21 octobre 1998 (ECOX9800126D)](decret-n98-944-du-21-octobre-1998-ecox9800126d)
 - [Décret n°98-945 du 21 octobre 1998 (FPPX9800151D)](decret-n98-945-du-21-octobre-1998-fppx9800151d)
 - [Décret n°99-521 du 21 juin 1999 (EQUA9900464D)](decret-n99-521-du-21-juin-1999-equa9900464d)
-- [Décret n°93-868 du 22 juin 1993 (DEFP9301497D)](decret-n93-868-du-22-juin-1993-defp9301497d)
 - [Décret n°96-1004 du 22 novembre 1996 (INTE9600286D)](decret-n96-1004-du-22-novembre-1996-inte9600286d)
 - [Décret n°98-1172 du 22 décembre 1998 (MESS9823437D)](decret-n98-1172-du-22-decembre-1998-mess9823437d)
 - [Décret n°98-1173 du 22 décembre 1998 (MESH9823722D)](decret-n98-1173-du-22-decembre-1998-mesh9823722d)

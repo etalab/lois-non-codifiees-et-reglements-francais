@@ -395,7 +395,6 @@
 - [Décret n°99-802 du 14 septembre 1999 (ECOD9970002D)](decret-n99-802-du-14-septembre-1999-ecod9970002d)
 - [Décret n°99-812 du 14 septembre 1999 (AGRP9901283D)](decret-n99-812-du-14-septembre-1999-agrp9901283d)
 - [Décret n°99-813 du 14 septembre 1999 (AGRE9901669D)](decret-n99-813-du-14-septembre-1999-agre9901669d)
-- [Décret n°99-827 du 14 septembre 1999 (AGRA9901563D)](decret-n99-827-du-14-septembre-1999-agra9901563d)
 - [Décret n°99-371 du 14 mai 1999 (MESS9921304D)](decret-n99-371-du-14-mai-1999-mess9921304d)
 - [Décret n°99-372 du 14 mai 1999 (MESS9921317D)](decret-n99-372-du-14-mai-1999-mess9921317d)
 - [Décret du 15 novembre 1999 (ECOC9900097D)](decret-du-15-novembre-1999-ecoc9900097d)
