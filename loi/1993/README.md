@@ -25,6 +25,7 @@
 - [Loi n° 93-1352 du 30 décembre 1993 (BUDX9300137L)](loi-n-93-1352-du-30-decembre-1993-budx9300137l)
 - [Loi n° 93-1353 du 30 décembre 1993 (BUDX9300185L)](loi-n-93-1353-du-30-decembre-1993-budx9300185l)
 - [Loi n° 93-2 du 4 janvier 1993 (JUSX9200023L)](loi-n-93-2-du-4-janvier-1993-jusx9200023l)
+- [Loi n° 93-22 du 8 janvier 1993 (JUSX9100195L)](loi-n-93-22-du-8-janvier-1993-jusx9100195l)
 - [Loi n° 93-24 du 8 janvier 1993 (ENVX9200202L)](loi-n-93-24-du-8-janvier-1993-envx9200202l)
 - [Loi n° 93-3 du 4 janvier 1993 (HRUX9210596L)](loi-n-93-3-du-4-janvier-1993-hrux9210596l)
 - [Loi n° 93-5 du 4 janvier 1993 (SPSX9200032L)](loi-n-93-5-du-4-janvier-1993-spsx9200032l)
