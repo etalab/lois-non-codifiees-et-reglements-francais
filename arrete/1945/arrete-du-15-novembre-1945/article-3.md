@@ -1,0 +1,3 @@
+# Article 3
+
+A titre transitoire, et jusqu'à une date qui sera fixée par décision du ministre de la santé publique, sur la proposition du ministre de la production industrielle, l'emploi de l'aluminium dit pur (contenant au moins 98 % d'aluminium, le complément à 100 étant constitué de fer et de silicium) et des alliages d'aluminium dits aluminium manganèse (1,5 % de manganèse) et aluminium-silicium-magnésium ou almasilium (1,5 % de silicium et 0,70 % de magnésium) emboutis ou assemblés par soudure autogène ou soudure-brasure est toléré pour la fabrication des parties d'instruments de mesure et récipients-mesures en contact direct avec les produits alimentaires, lorsqu'ils répondent, par ailleurs, aux prescriptions des articles 3, 5 et 6 de l'arrêté du 28 juin 1912.
