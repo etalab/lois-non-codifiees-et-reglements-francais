@@ -1,0 +1,19 @@
+# Article 3
+
+Les agents commissionnés, confirmés et à l'essai, ont droit, pour leur conjoint, s'il n'est pas couvert par une caisse d'assurances sociales ou un régime spécial d'assurances, et si le montant de son salaire ou de son gain annuel ne dépasse pas le chiffre limite fixé à l'article 1er du décret-loi du 28 octobre 1935 sur les assurances sociales, et pour leurs enfants à charge, au sens fixé par l'article 14 du décret-loi précité, aux prestations en nature définis à l'article 6, paragraphe 1er du même décret-loi.
+
+Ces prestations sont assurées par une caisse de prévoyance à instituer à cet effet par la société nationale. Cette caisse possède une personnalité financière autonome dans le cadre de la société nationale et est gérée par un conseil d'administration de vingt membres titulaires et dix membres suppléants dont dix membres titulaires et cinq membres suppléants désignés par la société nationale et dix membres titulaires et cinq membres suppléants élus par le personnel bénéficiaire du présent décret ; le président est désigné par la société nationale parmi ses dix représentants titulaires et a voix prépondérante en cas de partage des voix.
+
+Le règlement de la caisse fixe les conditions et limites dans lesquelles ces prestations sont attribuées, sans qu'elles puissent être inférieures, dans leur ensemble, à celle des assurances sociales. Ce règlement est arrêté par la société nationale sur la proposition du conseil d'administration de la caisse ; il est soumis à l'homologation du ministre des travaux publics, du ministre du travail et du ministre des finances.
+
+La caisse reçoit les retenues sur les salaires et les contributions patronales de même quotité, nécessaires pour assurer aux bénéficiaires les prestations visées au premier alinéa du présent article. Elle peut, en outre, si ses ressources le lui permettent, accorder des prestations supplémentaires concernant en particulier la maternité ; les retenues sur les salaires peuvent être augmentées, à cet effet, à la demande des représentants du personnel, au conseil d'administration de la caisse de prévoyance.
+
+Le règlement de la caisse prévoit que les agents peuvent, pour les soins à donner à leur conjoint et à leurs enfants à charge, s'adresser à des praticiens ou des établissements autres que ceux désignés ou agréés en vertu de ses dispositions et fixe, pour ce cas, les conditions de remboursement des frais exposés.
+
+Lorsqu'un assuré social passe sous le régime particulier de la société nationale des chemins de fer, les membres de sa famille restent couverts, comme il l'est lui-même, par le régime général des assurances sociales pour les maladies, accidents et accouchements prévus à l'article 2, alinéa 2, ci-dessus.
+
+Lorsqu'un agent du cadre permanent de la société nationale passe sous le régime général des assurances sociales, les membres de sa famille sont couverts, comme il l'est lui-même, pour les maladies, accidents et accouchements prévus à l'article 5 ci-après, la charge correspondante incombant, en ce qui concerne le risque maladie, à la caisse de prévoyance et, en ce qui concerne la maternité, à la société nationale.
+
+Nonobstant la disposition de l'article 9, alinéa 2, du présent décret, le règlement particulier susvisé fixera les modalités suivant lesquelles le bénéfice du présent article sera accordé aux agents pour les maladies ou accidents de leur conjoint ou de leurs enfants, dont la première constatation médicale aura eu lieu entre le 31 mars 1937 et la date à laquelle la caisse commencera le service normal des prestations et qui n'ont pas été l'objet d'une indemnisation par une caisse d'assurances sociales ou un régime spécial.
+
+Il sera fait face à la charge exceptionnelle que la caisse aura eu à supporter du fait de l'octroi rétroactif des prestations au moyen de cotisations prévues à l'alinéa 4 du présent article.
