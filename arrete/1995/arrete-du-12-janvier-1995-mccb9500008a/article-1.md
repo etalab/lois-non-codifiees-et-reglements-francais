@@ -1,6 +1,6 @@
 # Article 1
 
-La déclaration accompagnant le dépôt légal des documents multimédias associant sur un même support deux ou plusieurs documents doit comporter les mentions suivantes :
+La déclaration accompagnant le dépôt légal des progiciels, bases de données et systèmes experts associant sur un même support deux ou plusieurs documents doit comporter les mentions suivantes :
 
 1° Le nom (ou raison sociale), l'adresse, les numéros de téléphone et de télécopie du déposant ; sa fonction (éditeur, producteur, importateur) ;
 

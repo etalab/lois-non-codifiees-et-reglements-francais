@@ -20,6 +20,8 @@ Le comité réunit, outre son président :
 
 - le directeur des routes ;
 
+- le directeur de la sécurité et de la circulation routières ;
+
 - le directeur des transports terrestres ;
 
 - le directeur de l'Observatoire économique et statistique des transports.

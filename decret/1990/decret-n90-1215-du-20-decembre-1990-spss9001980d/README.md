@@ -11,4 +11,5 @@
 - [CHAPITRE IX : Pension de réversion et pension d'orphelin.](chapitre-ix)
 - [CHAPITRE X : Dispositions applicables dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle.](chapitre-x)
 - [CHAPITRE XI : Dispositions diverses.](chapitre-xi)
+- [Article 20 bis](article-20-bis.md)
 - [Article 147](article-147.md)

@@ -2,7 +2,7 @@
 
 La formation compétente pour les enquêtes statistiques relatives aux collectivités territoriales et aux établissements publics locaux comprend, outre le président du comité du label :
 
-deux représentants des régions, des départements ou des communes ;
+trois représentants des régions, des départements ou des communes ;
 
 un représentant de l'assemblée des chambres françaises de commerce et d'industrie ;
 
