@@ -1,10 +1,10 @@
 # Article 12
 
-I., II., III., IV., V. - (Paragraphes modificateurs)
+I., II., III., IV., V.-(Paragraphes modificateurs)
 
-VI. - Les dispositions des II à V s'appliquent pour la première fois à la détermination des contributions dues au plus tard le 1er décembre 2004.
+VI.-Les dispositions des II à V s'appliquent pour la première fois à la détermination des contributions dues au plus tard le 1er décembre 2004.
 
-VII. - Les entreprises redevables en 2003 de la taxe prévue à l'article L. 5121-17 du code de la santé publique sont assujetties à une contribution exceptionnelle au profit de la Caisse nationale de l'assurance maladie des travailleurs salariés, assise sur leur chiffre d'affaires hors taxes réalisé en France métropolitaine et dans les départements d'outre-mer du 1er janvier 2004 au 31 décembre 2004 au titre des médicaments bénéficiant d'une autorisation de mise sur le marché et inscrits sur la liste mentionnée au premier alinéa de l'article L. 162-17 du code de la sécurité sociale ou sur la liste mentionnée à l'article L. 5123-2 du code de la santé publique, à l'exception des spécialités génériques définies à l'article L. 5121-1 du même code, hormis celles qui sont remboursées sur la base d'un tarif arrêté en application de l'article L. 162-16 du code de la sécurité sociale. Le chiffre d'affaires concerné ne prend pas en compte les remises accordées par les entreprises.
+VII.-Les entreprises redevables en 2003 de la taxe prévue à l'article L. 5121-17 du code de la santé publique sont assujetties à une contribution exceptionnelle au profit de la Caisse nationale de l'assurance maladie des travailleurs salariés, assise sur leur chiffre d'affaires hors taxes réalisé en France métropolitaine et dans les départements d'outre-mer du 1er janvier 2004 au 31 décembre 2004 au titre des médicaments bénéficiant d'une autorisation de mise sur le marché et inscrits sur la liste mentionnée au premier alinéa de l'article L. 162-17 du code de la sécurité sociale ou sur la liste mentionnée à l'article L. 5123-2 du code de la santé publique, à l'exception des spécialités génériques définies à l'article L. 5121-1 du même code, hormis celles qui sont remboursées sur la base d'un tarif décidé en application de l'article L. 162-16 du code de la sécurité sociale. Le chiffre d'affaires concerné ne prend pas en compte les remises accordées par les entreprises.
 
 Le taux de la contribution est fixé à 0,525 %. Le 3° de l'article L. 225-1-1 et les articles L. 138-20 à L. 138-23 du code de la sécurité sociale sont applicables à cette contribution exceptionnelle, qui est exclue des charges déductibles pour l'assiette de l'impôt sur le revenu ou de l'impôt sur les sociétés.
 

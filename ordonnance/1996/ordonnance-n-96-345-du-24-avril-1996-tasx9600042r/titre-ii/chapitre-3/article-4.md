@@ -16,6 +16,6 @@ II. - Le fonds a vocation :
 
 2° A participer au financement des actions mentionnées au deuxième alinéa du I de l'article 8 de la présente ordonnance, à destination des médecins libéraux ;
 
-3° A financer des aides en vue de faciliter l'installation des médecins libéraux dans des zones rurales ou urbaines où est constaté un déficit en matière d'offre de soins. Un décret détermine les conditions dans lesquelles ces zones sont définies par le représentant de l'Etat dans la région après l'avis du conseil régional de santé.
+3° A financer des aides en vue de faciliter l'installation des médecins libéraux dans des zones rurales ou urbaines où est constaté un déficit en matière d'offre de soins.
 
-Ces opérations sont retracées en trois sections distinctes. Les modalités de fonctionnement, de gestion du fonds et de participation des représentants des médecins à sa gestion sont déterminées par décret en Conseil d'Etat. Ce décret précise les obligations auxquelles sont soumis les médecins bénéficiant des aides mentionnées au 3°.
+Ces opérations sont retracées en trois sections distinctes. Les modalités de fonctionnement, de gestion du fonds et de participation des représentants des médecins à sa gestion sont déterminées par décret en Conseil d'Etat.
