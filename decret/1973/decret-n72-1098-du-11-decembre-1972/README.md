@@ -1,6 +1,0 @@
-# Décret n°72-1098 du 11 décembre 1972 PORTANT MODIFICATION DE L'AGE D'ATTRIBUTION DES PENSIONS DE REVERSION ET DES SECOURS VIAGERS DES CONJOINTS SURVIVANTS DU REGIME GENERAL DE SECURITE SOCIALE.
-
-- [Article 1](article-1.md)
-- [Article 2](article-2.md)
-- [Article 4](article-4.md)
-- [Article 5](article-5.md)
