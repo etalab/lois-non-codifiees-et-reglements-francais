@@ -1,0 +1,3 @@
+# Article 2
+
+L'époux intéressé doit former la demande prévue à l'article 1er dix jours au plus tard après que la dénonciation de la saisie a été faite à lui-même ou à un autre titulaire du compte [*formalités - délai*].    Sa demande est formée par lettre recommandée, avec demande d'avis de réception, ou par déclaration écrite contre récépissé  [*conditions de forme*] ; elle doit préciser le montant de la somme qu'il entend voir laisser à sa disposition et être accompagnée de documents justifiant de ses gains et salaires versés au compte. Elle doit être faite simultanément au créancier poursuivant et au tiers saisi.
