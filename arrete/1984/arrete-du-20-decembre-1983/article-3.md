@@ -123,3 +123,7 @@ Concentré de protéines humaines coagulables par la thrombine pour application 
 - dose de 2 ml : 720,60 F
 
 - dose de 5 ml : 1 676,85 F
+
+- Majoration forfaitaire pour transfusion autologue programmée :
+
+150 F.
