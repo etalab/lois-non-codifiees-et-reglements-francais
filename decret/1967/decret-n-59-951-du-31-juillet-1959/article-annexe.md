@@ -949,7 +949,7 @@ fleuves, rivières et canaux fréquentés par les bâtiments de mer
 </tr>
 <tr>
 <td colspan="2" valign="top" width="718">
-<p align="center">Département de la Gironde.</p>
+<p align="center">Département de la Gironde</p>
 </td>
 </tr>
 <tr>
@@ -1252,7 +1252,7 @@ fleuves, rivières et canaux fréquentés par les bâtiments de mer
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>1re Grande branche ou Grand Rhône.</p>
+<p>1° Grande branche ou Grand Rhône.</p>
 </td>
 <td valign="top" width="378">
 <p>Pont de Trinquetaille.</p>
@@ -1260,18 +1260,18 @@ fleuves, rivières et canaux fréquentés par les bâtiments de mer
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>2e Petite branche ou Petit Rhône.</p>
+<p>2° Petite branche ou Petit Rhône.</p>
 </td>
 <td valign="top" width="378">
-<p>Pont suspendu de la route nationale n° 572 à Saint-Gilles.</p>
+<p>Pont suspendu de la route nationale 572 à Saint-Gilles.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>Canal d'Arles à Bouc.</p>
+<p>Canal Martigues-Marseille.</p>
 </td>
 <td valign="top" width="378">
-<p>Compris dans les affaires maritimes sur tout son cours.</p>
+<p>Compris dans les eaux maritimes de Martigues au rocher des Trois Frères.</p>
 </td>
 </tr>
 <tr>
