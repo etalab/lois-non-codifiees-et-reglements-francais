@@ -612,7 +612,6 @@
 - [Arrêté du 18 mars 1993 (PTTA9300021A)](arrete-du-18-mars-1993-ptta9300021a)
 - [Arrêté du 18 mars 1993 (PTTR9300155A)](arrete-du-18-mars-1993-pttr9300155a)
 - [Arrêté du 18 mars 1993 (PTTR9300156A)](arrete-du-18-mars-1993-pttr9300156a)
-- [Arrêté du 18 mars 1993 (SANC9300875A)](arrete-du-18-mars-1993-sanc9300875a)
 - [Arrêté du 18 mars 1993 (TEFT9300364A)](arrete-du-18-mars-1993-teft9300364a)
 - [Arrêté du 18 novembre 1992 (ENVE9250361A)](arrete-du-18-novembre-1992-enve9250361a)
 - [Arrêté du 18 novembre 1993 (COMA9300024A)](arrete-du-18-novembre-1993-coma9300024a)
