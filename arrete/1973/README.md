@@ -29,6 +29,7 @@
 - [Arrêté du 20 mars 1973](arrete-du-20-mars-1973)
 - [Arrêté du 21 novembre 1972](arrete-du-21-novembre-1972)
 - [Arrêté du 23 mars 1973](arrete-du-23-mars-1973)
+- [Arrêté du 24 mai 1973](arrete-du-24-mai-1973)
 - [Arrêté du 26 avril 1973](arrete-du-26-avril-1973)
 - [Arrêté du 26 mars 1973](arrete-du-26-mars-1973)
 - [Arrêté du 27 avril 1973](arrete-du-27-avril-1973)
