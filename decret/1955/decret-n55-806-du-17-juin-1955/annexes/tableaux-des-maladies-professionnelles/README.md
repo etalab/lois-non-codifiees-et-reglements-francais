@@ -1,6 +1,7 @@
 # Tableaux des maladies professionnelles
 
 - [2° Ankylostomose professionnelle  Délai de responsabilité : trois mois.](2-ankylostomose-professionnelle-delai-de-responsabilite)
+- [19](19)
 - [13° bis Affections provoquées par des préparations associant pentachlorophénol (ou pentachlorophénates) avec du lindane](13-bis)
 - [1° Tétanos professionnel](1-tetanos-professionnel)
 - [30° Rage professionnelle](30-rage-professionnelle)
