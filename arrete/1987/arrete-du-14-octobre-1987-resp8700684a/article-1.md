@@ -10,9 +10,7 @@ Sous-section 01
 
 Pédodontie
 
-Un professeur élu parmi les membres de la 37e section du Conseil national des universités ;
-
-Un professeur élu parmi les membres de la 54e section du Conseil national des universités.
+Deux professeurs élus parmi les membres de la 54e section du Conseil national des universités.
 
 Sous-section 02
 
@@ -40,7 +38,7 @@ Sous-section 01
 
 Parodontologie
 
-Un professeur élu parmi les membres de la 41e section du Conseil national des universités ;
+Un professeur élu parmi les membres de la 50e section du Conseil national des universités.
 
 Un professeur élu parmi les membres de la 55e section du Conseil national des universités.
 
@@ -56,6 +54,4 @@ Sciences anatomiques et physiologiques,
 
 occlusodontiques, biomatériaux, biophysique, radiologie
 
-Un professeur élu parmi les membres de la 33e section du Conseil national des universités ;
-
-Un professeur élu parmi les membres de la 44e section du Conseil national des universités.
+Deux professeurs élus parmi les membres de la 43e section du Conseil national des universités.
