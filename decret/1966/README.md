@@ -13,7 +13,6 @@
 - [Décret n°66-911 du 9 décembre 1966](decret-n66-911-du-9-decembre-1966)
 - [Décret n°66-922 du 9 décembre 1966](decret-n66-922-du-9-decembre-1966)
 - [Décret n°66-614 du 10 août 1966](decret-n66-614-du-10-aout-1966)
-- [Décret n°66-619 du 10 août 1966](decret-n66-619-du-10-aout-1966)
 - [Décret n°67-54 du 12 janvier 1967](decret-n67-54-du-12-janvier-1967)
 - [Décret n°66-371 du 13 juin 1966](decret-n66-371-du-13-juin-1966)
 - [Décret n°66-388 du 13 juin 1966](decret-n66-388-du-13-juin-1966)
