@@ -1,24 +1,20 @@
 # Article 8
 
-A. - Véhicule conforme à un type réceptionné par le service des mines
+A.   Pour obtenir l'immatriculation d'un véhicule, son propriétaire doit fournir les pièces suivantes :
 
-Pour obtenir l'immatriculation d'un véhicule, son propriétaire doit fournir les pièces suivantes :
+" 1. Une demande de certificat d'immatriculation sur un imprimé réglementaire (2) ;
 
-1. Une " Demande de certificat d'immatriculation " sur l'imprimé réglementaire ;
+" 2. Un exemplaire de la notice descriptive (1) sauf pour les véhicules prêts à l'emploi (cf. arrêté du 9 juillet 1954 relatif à la réception des véhicules, modifié notamment par l'arrêté du 17 février 1988) ;
 
-2. Un exemplaire de la notice descriptive (1), sauf pour les véhicules des genres " voiture particulière " et " camionnette " ;
+" 3. Une copie du procès-verbal de réception du type (1) établi par le service des mines (2) ;
 
-3. Une copie du procès-verbal de réception du type (1) établi par le service des mines ;
+" 4. Un certificat de conformité (1) à ce type délivré par le constructeur ou son représentant accrédité en France (2) ;
 
-4. Un certificat de conformité (1) à ce type délivré par le constructeur du véhicule ou son représentant accrédité en France ;
+" 5. Un certificat du vendeur (2) ;
 
-5. Un certificat du vendeur ;
+" 6. Les pièces justificatives de son identité et de son domicile. La liste de ces pièces figure en annexe VI du présent arrêté ;
 
-6. Les pièces justificatives de son identité et de son domicile. La liste de ces pièces figure en annexe VI du présent arrêté ;
-
-7. Pour les véhicules de provenance étrangère, la copie du procès-verbal de réception visé à l'alinéa 3 ci-dessus doit être revêtue d'une mention signée par le représentant de la firme étrangère accrédité auprès du ministère de l'urbanisme, du logement et des transports, attestant que le véhicule est de fabrication étrangère.
-
-En outre, il devra être joint aux pièces énumérées ci-dessus un " Certificat pour servir à l'immatriculation en France d'un véhicule importé de l'étranger " (certificat de dédouanement 846 A) délivré par l'administration des douanes. Toutefois cette pièce ne sera pas exigée lorssque le certificat de conformité sera revêtu d'une attestation de dédouanement conforme au modèle défini par la direction générale des douanes et des droits indirects.
+" 7. Pour les véhicules de provenance étrangère, " un certificat pour servir à l'immatriculation en France d'un véhicule importé de l'étranger " (certificat de dédouanement 846 A) délivré par l'administration des douanes. Toutefois, cette pièce ne sera pas exigée lorsque le certificat de conformité sera revêtu d'une attestation de dédouanement conforme au modèle défini par la direction générale des douanes et des droits indirects.
 
 B. - Véhicule dont seul le châssis est conforme à un type réceptionné
 
@@ -65,3 +61,7 @@ En outre, s'il s'agit d'un véhicule d'origine étrangère ou d'un véhicule mon
 Nota :
 
 (1) Exemplaire non barré d'une diagonale rouge.
+
+(2) Les pièces visées aux alinéas 1, 3, 4 et 5 peuvent, dans le cadre d'une procédure simplifiée, être regroupées sur un seul document agréé par le Cerfa sous le numéro 47-0205 et dénommé " Demande de certificat d'immatriculation d'un véhicule neuf prêt à l'emploi n'excédant pas 3,5 tonnes. "
+
+" Ce document dont le modèle type figure en annexe III A du présent arrêté est délivré par le constructeur ou son représentant en France. Dans le cadre de cette procédure, il n'est plus accompagné d'un exemplaire barré rouge. "

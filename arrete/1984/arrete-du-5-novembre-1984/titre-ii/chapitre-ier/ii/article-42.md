@@ -26,6 +26,10 @@ Par exception à la règle générale énoncée au début du présent paragraphe
 
 " - lorsqu'il s'agit, dans le cadre d'un convoyage de véhicules utilitaires, de transporter (soit sur le [ou un des] véhicules[s] convoyé[s], soit sur une remorque attelée à celui-ci immatriculée au nom du titulaire de la carte W) un véhicule destiné à faciliter le retour du [ou des] chauffeur[s]. Ce véhicule (voiture particulière ou camionnette) doit être couvert par une carte grise en série normale établie au nom de la société titulaire de la carte W. "
 
+" Par exception également à cette règle générale, un véhicule peut circuler en charge sous couvert d'un numéro W :
+
+" - lorsqu'il s'agit de véhicules transportant un ou plusieurs véhicules automobiles ou remorqués neufs de la même marque que le véhicule porteur ou tracteur si ce véhicule porteur ou tracteur (pour les véhicules articulés) est lui-même destiné à la vente. "
+
 C. - Véhicule déjà immatriculé dont la mise en circulation a strictement pour objet :
 
 1. Les essais techniques avant ou après réparation ou modification ;

@@ -1,8 +1,8 @@
 # Article 1
 
-La direction de la Météorologie nationale, outre les chargés de mission auprès du directeur, le secrétariat de direction et la division des relations publiques et de la communication, comprend  [*composition*] :
+La direction de la Météorologie nationale comprend :
 
-La sous-direction technique constituée par  :
+La sous-direction technique constituée par :
 
 - le bureau de l'exploitation ;
 
@@ -19,7 +19,5 @@ La sous-direction administrative constituée par :
 - le bureau des finances et du budget ;
 
 - le bureau des personnels ;
-
-- le bureau des affaires commerciales ;
 
 - le bureau de l'informatique de gestion.

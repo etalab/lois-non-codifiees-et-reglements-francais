@@ -8,8 +8,6 @@ Des dérogations à cette règle ne sont admises que :
 
 Le bénéficiaire du prêt doit pouvoir présenter à toute réquisition des services de contrôle, avec sa carte professionnelle, une attestation datée établie par le constructeur ou l'importateur, désignant le bénéficiaire du prêt du véhicule qui devra lui-même conduire celui-ci. La durée de validité d'une telle attestation est limitée à dix jours au plus ;
 
-2. Lors du prêt d'un véhicule de plus de 3,5 tonnes de P.T.A.C. à un client éventuel pour essais dans les conditions d'utilisation normales dans le cas visé au paragraphe B (6°) de l'article 42 précité.
-
-" Le bénéficiaire du prêt doit pouvoir présenter à toute réquisition des services de contrôle une attestation de mise à disposition du véhicule à l'essai, établie par le constructeur, l'importateur ou son concessionnaire, désignant le bénéficiaire de ce prêt et sa qualité. La durée de validité d'une telle attestation est limitée à dix jours au plus. Elle ne peut être ni prorogée ni renouvelée. "
+2. Lors du prêt d'un véhicule de plus de 3,5 tonnes de P.T.A.C. à un client éventuel pour essais dans les conditions d'utilisation normale dans les cas visés au paragraphe B (6°) et au paragraphe C (6°) de l'article 42 précité. "
 
 3. Lors du prêt de véhicules industriels très spéciaux - camions destinés à recevoir une grue en particulier - qui comportent une cabine monoplace.
