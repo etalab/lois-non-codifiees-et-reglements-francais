@@ -20,3 +20,4 @@
 - [Décret n°88-790 du 22 juin 1988 (ASES8800856D)](decret-n88-790-du-22-juin-1988-ases8800856d)
 - [Décret n°88-791 du 22 juin 1988 (ASES8800857D)](decret-n88-791-du-22-juin-1988-ases8800857d)
 - [Décret n°88-792 du 22 juin 1988 (ASES8800859D)](decret-n88-792-du-22-juin-1988-ases8800859d)
+- [Décret n°87-1167 du 31 décembre 1987 (RESY8800001D)](decret-n87-1167-du-31-decembre-1987-resy8800001d)
