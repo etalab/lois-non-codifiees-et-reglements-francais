@@ -32,5 +32,7 @@
 - [Arrêté du 30 décembre 1986](arrete-du-30-decembre-1986)
 - [Arrêté du 30 décembre 1986 (AGRM8700392A)](arrete-du-30-decembre-1986-agrm8700392a)
 - [Arrêté du 30 décembre 1986 (AGRS8700002A)](arrete-du-30-decembre-1986-agrs8700002a)
+- [Arrêté du 30 décembre 1986 (ECOT8720002A)](arrete-du-30-decembre-1986-ecot8720002a)
 - [Arrêté du 31 décembre 1986](arrete-du-31-decembre-1986)
 - [Arrêté du 31 décembre 1986 (ASES8700027A)](arrete-du-31-decembre-1986-ases8700027a)
+- [Arrêté du 31 décembre 1986 (ASES8700042A)](arrete-du-31-decembre-1986-ases8700042a)
