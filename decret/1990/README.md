@@ -159,6 +159,8 @@
 - [Décret n°90-344 du 13 avril 1990 (DEFP9001342D)](decret-n90-344-du-13-avril-1990-defp9001342d)
 - [Décret n°90-347 du 13 avril 1990 (MENK9070026D)](decret-n90-347-du-13-avril-1990-menk9070026d)
 - [Décret n°90-485 du 13 juin 1990 (JUSD9030031D)](decret-n90-485-du-13-juin-1990-jusd9030031d)
+- [Décret n°90-491 du 13 juin 1990 (EQUP9000828D)](decret-n90-491-du-13-juin-1990-equp9000828d)
+- [Décret n°90-492 du 13 juin 1990 (MCCC9000092D)](decret-n90-492-du-13-juin-1990-mccc9000092d)
 - [Décret n°90-142 du 14 février 1990 (SPSX9010059D)](decret-n90-142-du-14-fevrier-1990-spsx9010059d)
 - [Décret n°90-143 du 14 février 1990 (SPSN9000193D)](decret-n90-143-du-14-fevrier-1990-spsn9000193d)
 - [Décret n°90-144 du 14 février 1990 (DEFF8901816D)](decret-n90-144-du-14-fevrier-1990-deff8901816d)

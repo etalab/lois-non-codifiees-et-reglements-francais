@@ -1,0 +1,3 @@
+# Article 19
+
+Le diplôme d'ingénieur de l'Ecole nationale des ponts et chaussées est délivré par le ministre chargé de l'équipement, dans les conditions prévues à l'article précédent, d'une part aux ingénieurs-élèves, d'autre part aux élèves ingénieurs auxquels la délivrance du diplôme confère le titre d'ingénieur civil des ponts et chaussées. Des arrêtés du ministre chargé de l'équipement pris sur proposition du directeur de l'école fixent les conditions dans lesquelles peuvent être délivrés aux élèves de formations spécialisées les diplômes, certificats ou titres correspondants. Il peut être délivré un certificat de scolarité aux auditeurs.
