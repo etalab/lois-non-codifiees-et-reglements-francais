@@ -28,5 +28,4 @@
 - [Décret n°49-1258 du 27 août 1949](decret-n49-1258-du-27-aout-1949)
 - [Décret n°49-1259 du 27 août 1949](decret-n49-1259-du-27-aout-1949)
 - [Décret n°50-1347 du 27 octobre 1950](decret-n50-1347-du-27-octobre-1950)
-- [Décret n°49-854 du 28 juin 1949](decret-n49-854-du-28-juin-1949)
 - [Décret n°49-438 du 29 mars 1949](decret-n49-438-du-29-mars-1949)
