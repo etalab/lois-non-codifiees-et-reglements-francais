@@ -1,0 +1,3 @@
+# ANNEXE À L'ARTICLE R. 422-14 DU CODE DE LA CONSTRUCTION ET DE L'HABITATION.
+
+- [Article ANNEXE](article-annexe.md)
