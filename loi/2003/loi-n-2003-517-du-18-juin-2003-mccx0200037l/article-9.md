@@ -1,0 +1,3 @@
+# Article 9
+
+A compter de la création de l'établissement public à caractère administratif dénommé "Ecole nationale supérieure de la photographie", les personnels employés à la date de promulgation de la présente loi pour une durée indéterminée par l'association "Ecole nationale de la photographie" pourront, à titre individuel, sur leur demande et dans la limite des emplois budgétaires inscrits sur le budget de l'établissement, bénéficier d'un contrat de droit public à durée indéterminée, en conservant leur régime de retraite complémentaire et de prévoyance. Ils continueront à recevoir une rémunération nette au moins égale à leur rémunération globale antérieure nette.
