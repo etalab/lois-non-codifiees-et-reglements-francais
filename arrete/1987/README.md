@@ -191,7 +191,6 @@
 - [Arrêté du 10 août 1989 (AGRA8901055A)](arrete-du-10-aout-1989-agra8901055a)
 - [Arrêté du 10 août 1989 (AGRA8901057A)](arrete-du-10-aout-1989-agra8901057a)
 - [Arrêté du 10 avril 1987 (AGRP8700785A)](arrete-du-10-avril-1987-agrp8700785a)
-- [Arrêté du 10 avril 1987 (BUDR8703054A)](arrete-du-10-avril-1987-budr8703054a)
 - [Arrêté du 10 décembre 1987 (ECOT8711009A)](arrete-du-10-decembre-1987-ecot8711009a)
 - [Arrêté du 10 décembre 1987 (ECOT8711010A)](arrete-du-10-decembre-1987-ecot8711010a)
 - [Arrêté du 10 février 1987](arrete-du-10-fevrier-1987)
