@@ -3,7 +3,5 @@
 - [TITRE II : Président-directeur général](titre-ii)
 - [Article 15](article-15.md)
 - [CONSEIL D'ADMINISTRATION](conseil-d-administration)
-- [DIRECTEUR GENERAL](directeur-general)
 - [DISPOSITIONS DIVERSES](dispositions-diverses)
 - [DISPOSITIONS FINANCIERES](dispositions-financieres)
-- [PRESIDENT DU CONSEIL D'ADMINISTRATION](president-du-conseil-d-administration)
