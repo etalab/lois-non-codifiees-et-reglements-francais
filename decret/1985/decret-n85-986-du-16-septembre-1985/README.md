@@ -6,7 +6,7 @@
 - [Titre IV : De la position hors cadres des fonctionnaires.](titre-iv)
 - [Titre V : De la disponibilité des fonctionnaires.](titre-v)
 - [Titre VI : Dispositions communes à la mise à disposition, au détachement, à la position hors cadres et à la disponibilité.](titre-vi)
-- [Titre VII : De la position de congé parental.](titre-vii)
+- [Titre VII : De la position de congé parental et de congé de présence parentale.](titre-vii)
 - [Titre VIII : De certaines modalités de cessation définitive de fonctions](titre-viii)
 - [Titre IX : Dispositions diverses.](titre-ix)
 - [Article 63](article-63.md)

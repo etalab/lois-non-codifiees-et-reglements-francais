@@ -1,3 +1,7 @@
 # Article 24
 
-Le fonctionnaire qui fait l'objet d'un détachement de longue durée pour participer à une mission de coopération, pour servir dans un territoire d'outre-mer, pour dispenser un enseignement ou remplir une mission d'intérêt public à l'étranger ou auprès d'une organisation internationale intergouvernementale ou d'un organisme d'intérêt général à caractère international ou qui fait l'objet d'un détachement pour effectuer une mission d'intérêt public de coopération internationale est réintégré immédiatement et au besoin en surnombre dans son corps d'origine s'il est mis fin à son détachement pour une cause autre qu'une faute commise dans l'exercice de ses fonctions.
+Il peut être mis fin au détachement avant le terme fixé par l'arrêté le prononçant soit à la demande de l'administration ou de l'organisme d'accueil, soit de l'administration d'origine.
+
+Lorsqu'il est mis fin au détachement à la demande de l'administration ou de l'organisme d'accueil, le fonctionnaire continue, si son administration d'origine ne peut le réintégrer immédiatement, à être rémunéré par l'administration ou l'organisme d'accueil jusqu'à ce qu'il soit réintégré, à la première vacance, dans son administration d'origine.
+
+Le fonctionnaire peut également demander qu'il soit mis fin à son détachement avant le terme fixé par l'arrêté le prononçant. Il cesse d'être rémunéré si son administration ne peut le réintégrer immédiatement : il est alors placé en position de disponibilité jusqu'à ce qu'intervienne sa réintégration à l'une des trois premières vacances dans son grade.

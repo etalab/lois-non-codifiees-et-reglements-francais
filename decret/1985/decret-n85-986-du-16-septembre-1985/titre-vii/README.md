@@ -1,4 +1,4 @@
-# Titre VII : De la position de congé parental.
+# Titre VII : De la position de congé parental et de congé de présence parentale.
 
 - [Article 52](article-52.md)
 - [Article 53](article-53.md)

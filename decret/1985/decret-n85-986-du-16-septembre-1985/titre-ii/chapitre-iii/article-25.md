@@ -1,5 +1,3 @@
 # Article 25
 
-Lorsque la réintégration est faite en surnombre, elle doit être prononcée par arrêté conjoint du Premier ministre, des ministres intéressés et du ministre chargé du budget.
-
-Le surnombre ainsi créé doit être résorbé à la première vacance à s'ouvrir dans le grade considéré.
+Le fonctionnaire qui fait l'objet d'un détachement de longue durée pour participer à une mission de coopération, pour servir dans un territoire d'outre-mer, pour dispenser un enseignement ou remplir une mission d'intérêt public à l'étranger ou auprès d'une organisation internationale intergouvernementale ou d'un organisme d'intérêt général à caractère international ou qui fait l'objet d'un détachement pour effectuer une mission d'intérêt public de coopération internationale est réintégré immédiatement et au besoin en surnombre dans son corps d'origine s'il est mis fin à son détachement pour une cause autre qu'une faute commise dans l'exercice de ses fonctions.
