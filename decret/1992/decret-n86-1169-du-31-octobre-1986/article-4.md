@@ -46,13 +46,7 @@ Les missions de la direction de l'agriculture et de la forêt ont trait à :
 
 - l'organisation et l'exercice de la chasse et de la pêche.
 
-6. L'alimentation, l'hygiène alimentaire, la santé et la protection animale avec en particulier ce qui concerne :
-
-- l'inspection sanitaire et qualitative des animaux et des denrées d'origine animale ;
-
-- la mise en oeuvre des mesures de lutte contre les maladies des animaux qui sont du ressort de l'Etat en application du code rural ;
-
-- la diffusion des connaissances en matière d'hygiène et de protection sanitaire des animaux et l'amélioration de la qualité de leurs produits.
+6. Dispositions supprimées
 
 7. La protection des végétaux avec en particulier ce qui concerne :
 
@@ -68,4 +62,4 @@ concerne la connaissance des problèmes liés à la protection sociale agricole 
 
 10. Les statistiques agricoles avec en particulier ce qui concerne l'établissement et la diffusion des statistiques à partir des enquêtes publiques approuvées par le Conseil national de l'information statistique ou répondant à la satisfaction de besoins locaux.
 
-[*Loi 92-125 art. 3 : la référence services extérieurs est remplaçée par celle à : services déconcentrés*]
+*Loi 92-125 art. 3 : la référence services extérieurs est remplaçée par celle à : services déconcentrés*
