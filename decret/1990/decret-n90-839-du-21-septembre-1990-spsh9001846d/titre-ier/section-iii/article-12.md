@@ -16,6 +16,6 @@ Les concours visés aux 1° et 2° ci-dessus comportent une branche générale e
 
 Un arrêté du ministre chargé de la santé fixe la composition du jury, le programme, la nature des épreuves et les modalités d'organisation de ces concours.
 
-3° En application du 2° de l'article 35 de la loi du 9 janvier 1986 susvisée, dans la limite du cinquième du nombre des titularisations prononcées au titre du présent article, par inscription sur une liste d'aptitude établie dans chaque établissement, après avis de la commission administrative paritaire compétente.
+3° En application du 2° de l'article 35 de la loi du 9 janvier 1986 susvisée, dans la limite du tiers du nombre des titularisations prononcées au titre du présent article, par inscription sur une liste d'aptitude établie dans chaque établissement, après avis de la commission administrative paritaire compétente.
 
 Peuvent être inscrits sur cette liste : les agents administratifs, les standardistes et les agents de bureau des établissements mentionnés à l'article 2 de la loi 9 janvier 1986 susvisée et justifiant de dix années au moins de services publics dans l'un ou plusieurs de ces emplois et corps.

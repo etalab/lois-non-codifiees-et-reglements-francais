@@ -22,6 +22,6 @@ Les concours visés aux 1° et 2° ci-dessus comportent une branche administrati
 
 Un arrêté du ministre chargé de la santé fixe la composition du jury, le programme, la nature des épreuves et les modalités d'organisation de ces concours.
 
-3° En application du 2° de l'article 35 de la loi du 9 janvier 1986 susvisée, dans la limite du cinquième du nombre de titularisations prononcées au titre du présent article, par inscription sur une liste d'aptitude établie dans chaque établissement après avis de la commission administrative paritaire compétente.
+3° En application du 2° de l'article 35 de la loi du 9 janvier 1986 susvisée, dans la limite du tiers du nombre de titularisations prononcées au titre du présent article, par inscription sur une liste d'aptitude établie dans chaque établissement après avis de la commission administrative paritaire compétente.
 
-Peuvent être inscrits sur cette liste les adjoints administratifs hospitaliers et les permanenciers auxiliaires de régulation médicale des établissements mentionnés à l'article 2 de la loi du 9 janvier 1986 susvisée justifiant de neuf années de services publics.
+Peuvent être inscrits sur cette liste les adjoints administratifs hospitaliers et les permanenciers auxiliaires de régulation médicale des établissements mentionnés à l'article 2 de la loi du 9 janvier 1986 susvisée justifiant de neuf années de services publics ainsi que les chefs de standard téléphonique et les chefs de standard téléphonique principaux justifiant de cinq années de services effectifs dans l'un de ces deux grades.
