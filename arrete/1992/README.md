@@ -258,7 +258,6 @@
 - [Arrêté du 8 juillet 1992 (INDB9200608A)](arrete-du-8-juillet-1992-indb9200608a)
 - [Arrêté du 8 juillet 1992 (INDB9200609A)](arrete-du-8-juillet-1992-indb9200609a)
 - [Arrêté du 8 juillet 1992 (INTE9200314A)](arrete-du-8-juillet-1992-inte9200314a)
-- [Arrêté du 8 juillet 1992 (INTE9200315A)](arrete-du-8-juillet-1992-inte9200315a)
 - [Arrêté du 8 juillet 1992 (PTTR9200347A)](arrete-du-8-juillet-1992-pttr9200347a)
 - [Arrêté du 8 mars 1993 (SPSG9300507A)](arrete-du-8-mars-1993-spsg9300507a)
 - [Arrêté du 8 octobre 1992 (INTB9200478A)](arrete-du-8-octobre-1992-intb9200478a)
