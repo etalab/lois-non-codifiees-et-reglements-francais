@@ -621,7 +621,6 @@
 - [Arrêté du 25 octobre 1999 (AGRG9902214A)](arrete-du-25-octobre-1999-agrg9902214a)
 - [Arrêté du 25 mai 1999 (ECOT9951815A)](arrete-du-25-mai-1999-ecot9951815a)
 - [Arrêté du 25 mai 1999 (PRMX9903566A)](arrete-du-25-mai-1999-prmx9903566a)
-- [Arrêté du 26 août 1999 (AGRG9901835A)](arrete-du-26-aout-1999-agrg9901835a)
 - [Arrêté du 26 août 1999 (ECOA9920092A)](arrete-du-26-aout-1999-ecoa9920092a)
 - [Arrêté du 26 avril 1999 (MESA9921084A)](arrete-du-26-avril-1999-mesa9921084a)
 - [Arrêté du 26 avril 1999 (MESA9921085A)](arrete-du-26-avril-1999-mesa9921085a)
