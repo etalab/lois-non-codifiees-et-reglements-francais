@@ -1,3 +1,5 @@
 # Article 2
 
-Des arrêtés ministériels pourront décider dans quelles conditions il sera fait usage d'une mention garantissant que des fruits français mis dans le commerce ne contiennent pas de vers. Les agents du service de la répression des fraudes auront le droit d'inscrire, en caractères indélébiles, les mots "fruits véreux" sur les colis de fruits qui contiendront un pourcentage de fruits véreux supérieur à celui qui aura été déterminé par les arrêtés ci-dessus visés et qui porteront néanmoins la mention de garantie.
+Les infractions à l'article 1er de la présente loi seront punies des peines [*sanctions*] prévues par l'article 13 de la loi du 1er août 1905, modifiée par la loi du 21 juillet 1929, sans préjudice des peines plus graves en cas de tromperie ou de tentative de tromperie résultant des dispositions générales de ladite loi.
+
+Le décret du 25 mars 1924 demeure en vigueur pour toutes les prescriptions qui ne sont pas contraires à la présente loi.
