@@ -16,7 +16,7 @@ Procellariiformes.
 
 - Procellaridés.
 
-Toutes les espèces de puffins (Puffinus sp) ;
+Toutes les espèces de puffins (Puffinus sp et Calonectris sp) ;
 
 Fulmar (Fulmarus glacialis).
 
@@ -126,11 +126,21 @@ Chevalier guignette (Tringa hypoleucos).
 
 Chevalier cul-blanc (Tringa ochropus) ;
 
-Chevalier sylvain (Tringa glareola).
+Chevalier sylvain (Tringa glareola) ;
+
+Chevalier stagnatile (Tringa stagnatilis).
 
 Bécassine double (Gallinago media).
 
+Phalarope à bec large (Phalaropus lobatus) ;
+
+Phalarope à bec étroit (Phalaropus fulicarius) ;
+
 Tous les bécasseaux (à l'exception du bécasseau maubèche) (Calidris sp (à l'exception de Calidris canutus)).
+
+Bécasseau falcinelle (Limicola falcinellus).
+
+Bécasseau rousset (Tryngites subruficollis).
 
 - Recurvirostridés.
 
@@ -382,11 +392,15 @@ Bruant des neiges (Plectrophenax nivalis) ;
 
 Bruant lapon (Calcarius lapponicus).
 
+Roselin cramoisi (Carpodacus erythrinus) ;
+
 - Plocéidés.
 
 Moineau friquet (Passer montanus).
 
 Moineau soulcie (Petronia petronia).
+
+Moineau espagnol (Passer hispaniolensis).
 
 Niverolle (Montifringilla nivalis).
 
