@@ -1,0 +1,5 @@
+# Article 112
+
+Pour la distribution d'une oeuvre cinématographique déterminée, l'entreprise de distribution dispose d'un délai d'un an à compter de la date de la notification de la décision d'octroi, pour exploiter cette oeuvre en salles de spectacles cinématographiques. A défaut d'exploitation dans ce délai, les sommes allouées doivent être reversées au Centre national de la cinématographie.
+
+Pour la distribution des oeuvres cinématographiques constituant un programme annuel, l'entreprise de distribution dispose d'un délai d'un an à compter de la date de la notification de la décision d'octroi, pour exploiter ces oeuvres en salles de spectacles cinématographiques. Toutefois, le directeur général du Centre national de la cinématographie peut, après avis de la commission du soutien financier sélectif à la distribution, décider de prolonger ce délai d'une durée d'un mois au plus si des circonstances exceptionnelles le justifient. A défaut d'exploitation dans le délai applicable, les sommes allouées doivent être reversées au Centre national de la cinématographie.

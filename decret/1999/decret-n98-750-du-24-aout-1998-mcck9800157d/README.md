@@ -4,3 +4,4 @@
 - [Section II : Du soutien financier à la diffusion de certaines oeuvres cinématographiques en salles de spectacles cinématographiques.](section-ii)
 - [Section III : Du soutien financier à la modernisation et à la création des établissements de spectacles cinématographiques](section-iii)
 - [Section IV : Dispositions transitoires et finales.](section-iv)
+- [Article 23](article-23.md)
