@@ -1,0 +1,3 @@
+# Article 9
+
+Sans préjudice des recrutements effectués en application de l'article 36 de la loi du 26 janvier 1984 susvisée pour l'accès à chacun des corps concernés, il pourra être procédé, dans les conditions fixées au présent chapitre, jusqu'à l'expiration d'une période de cinq ans à compter de la date de publication de la loi du 3 janvier 2001 susvisée, dans la limite de contingents annuels d'emplois fixés par l'assemblée délibérante de l'administration parisienne concernée, à l'organisation de concours réservés aux candidats remplissant les conditions fixées à l'article 1er de ladite loi.
