@@ -1,0 +1,3 @@
+# Article 3
+
+Les dispositions du présent décret [*champ d'application*] ne sont pas opposables aux personnes investies des fonctions de président ou de membre du conseil d'administration ou de l'organe délibérant en tenant lieu [*dirigeant*] soit en qualité de titulaire d'un mandat conféré directement ou indirectement par le suffrage universel, soit en vertu de dispositions de valeur législative donnant à des syndicats, des associations, des organismes ou des groupements, le droit de désigner en toute liberté des représentants pour exercer lesdites fonctions. Ces personnes ne sont pas prises en compte dans les termes de la proportion établie au premier alinéa de l'article 2 du présent décret.

@@ -18,6 +18,8 @@
 - [Loi n° 76-539 du 22 juin 1976](loi-n-76-539-du-22-juin-1976)
 - [Loi n° 76-599 du 7 juillet 1976](loi-n-76-599-du-7-juillet-1976)
 - [Loi n° 76-600 du 7 juillet 1976](loi-n-76-600-du-7-juillet-1976)
+- [Loi n° 76-616 du 9 juillet 1976](loi-n-76-616-du-9-juillet-1976)
+- [Loi n° 76-617 du 9 juillet 1976](loi-n-76-617-du-9-juillet-1976)
 - [Loi n° 76-657 du 16 juillet 1976](loi-n-76-657-du-16-juillet-1976)
 - [Loi n°75-1335 du 31 décembre 1975](loi-n75-1335-du-31-decembre-1975)
 - [Loi n°76-97 du 31 janvier 1976](loi-n76-97-du-31-janvier-1976)
