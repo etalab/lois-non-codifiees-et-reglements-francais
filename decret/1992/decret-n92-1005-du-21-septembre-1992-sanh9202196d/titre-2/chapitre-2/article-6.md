@@ -2,7 +2,7 @@
 
 Le nombre des représentants du personnel est ainsi fixé :
 
-Pour un groupe comprenant moins de 200 agents : deux titulaires, deux suppléants.
+Pour un groupe comprenant moins de 201 agents : 2 titulaires, 2 suppléants.
 
 Pour un groupe comprenant de 201 à 500 agents : quatre titulaires, quatre suppléants.
 
