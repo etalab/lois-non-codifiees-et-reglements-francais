@@ -1,3 +1,0 @@
-# Article 4
-
-La déclaration imposée par l'article 2 (alinéa 1) du décret du 18 avril 1939 comporte les mentions suivantes : nom et prénoms du déclarant ; date et lieu de naissance ; nationalité ; profession (fabricant, commerçant, etc.) ; lieu d'exercice de la profession ; mode d'exercice de la profession (entreprise individuelle, société ou groupement d'intérêt économique, et, dans ces deux derniers cas, indications du nom ou de la raison sociale, et noms et adresses des gérants, commandités, membres du conseil d'administration ou du directoire, administrateurs) ; numéro d'inscription au registre du commerce.

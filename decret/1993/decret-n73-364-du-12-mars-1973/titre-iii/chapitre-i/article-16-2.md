@@ -1,3 +1,0 @@
-# Article 16-2
-
-Les demandes d'autorisation d'acquisition et de détention concernant les matériels de la deuxième catégorie (§ 4, d) autres que ceux destinés ou appartenant aux services militaires ou aux services de l'Etat ou placés sous leur contrôle qui font l'objet de dispositions particulières prises par les ministres compétents dans le cadre des directives du Premier ministre, doivent être instruites par le ministre chargé des P.T.T. suivant les modalités fixées par l'arrêté prévu à l'article 9. La délivrance de ces autorisations peut être soumise à des restrictions portant sur l'utilisation des moyens en cause.

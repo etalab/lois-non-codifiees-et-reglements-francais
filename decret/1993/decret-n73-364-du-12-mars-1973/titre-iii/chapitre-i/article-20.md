@@ -1,3 +1,0 @@
-# Article 20
-
-Peuvent être autorisés à acquérir et à détenir des armes de la 4ème catégorie les exploitants de tir forains en possession du récépissé de la déclaration visé à l'article 6 du décret n° 70-708 du 31 juillet 1970 ou du livret spécial de circulation institué par l'article 2 de la loi n° 69-3 du 3 janvier 1969 et par l'article 10 du décret précité, dans la limite du tiers du total des armes mises en service par les bénéficiaires dans leur entreprise et sous réserve que les armes présentent les caractéristiques suivantes : être à percussion annulaire, d'un calibre égal ou inférieur à 6 mm et de longueur totale égale ou supérieure à 280 mm.
