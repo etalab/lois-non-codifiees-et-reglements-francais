@@ -36,11 +36,11 @@ III - Ravalement comprenant la remise en état des façades :
 
 - Façades enduites non entretenues : 0,10.
 
-- Façades en bon état mais matériaux non dépoussiérés depuis plus de 10 ans : 0,20.
+- Façades en bon état : mais matériaux non dépoussiérés depuis plus de vingt ans : 0,20.
 
-- Façades en bon état : matériaux dépoussiérés depuis moins de 10 ans : 0,35.
+- Façades en bon état : matériaux dépoussiérés depuis moins de vingt ans : 0,35.
 
-- Façades enduites entièrement refaites depuis moins de 10 ans :
+- Façades enduites entièrement refaites depuis moins de vingt ans :
 
 Immeuble collectif : 0,50.
 
