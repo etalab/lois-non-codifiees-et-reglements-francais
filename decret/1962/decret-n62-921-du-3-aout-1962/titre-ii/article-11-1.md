@@ -1,5 +1,3 @@
 # Article 11-1
 
-Lorsqu'en marge d'un acte de naissance figure la mention R.C., les copies et les extraits de l'acte indiqueront qu'une inscription a été prise au répertoire civil et reproduiront son numéro.
-
-Lorsque ces mentions auront été radiées, elles ne seront plus indiquées sur les copies et extraits, sauf autorisation du procureur de la République.
+Les copies et extraits d'actes de l'état civil régulièrement détenus par une administration, un service, un établissement public ou par une entreprise, un organisme ou une caisse contrôlés par l'Etat sont communicables sur leur demande à l'un quelconque de ces organismes dans les cas où celui-ci est fondé à les requérir des usagers en application des lois et règlements en vigueur.

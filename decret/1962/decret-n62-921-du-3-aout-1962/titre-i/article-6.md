@@ -6,4 +6,4 @@ Cette délégation est exercée sous la surveillance et la responsabilité du ma
 
 L'arrêté portant délégation est transmis tant au préfet ou au sous-préfet qu'au procureur de la République près le tribunal de grande instance dans le ressort duquel se trouve la commune intéressée.
 
-Le ou les agents communaux délégués pour la réception des déclarations, la rédaction, la transcription et la mention en marge des actes de l'état civil prévus par le présent article peuvent valablement, sous le contrôle et la responsabilité du maire, délivrer toutes copies, extraits et bulletins d'état civil, quelle que soit la nature des actes.
+Le ou les agents communaux délégués pour la réception des déclarations, la rédaction, la transcription et la mention en marge des actes de l'état civil prévus par le présent article peuvent valablement, sous le contrôle et la responsabilité du maire, délivrer toutes copies, et extraits, quelle que soit la nature des actes.
