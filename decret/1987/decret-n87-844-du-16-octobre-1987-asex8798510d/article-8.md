@@ -1,0 +1,3 @@
+# Article 8
+
+Les travailleurs étrangers, bénéficiaires à la date de publication du présent décret de l'allocation de solidarité spécifique prévue à l'article L. 351-10 du code du travail et répondant aux conditions prévues par l'article 3 du présent décret, peuvent demander, avant le 31 décembre 1988 [*date limite*], à percevoir l'aide publique visée à l'article 4. L'allocation mentionnée au 1° dudit article est prise en charge [*financière*] par l'Etat ; l'allocation mentionnée au 2° est prise en charge par le fonds d'action sociale [*FAS*] pour les travailleurs immigrés et leurs familles. S'ajoute à ces allocations une aide allouée par l'Etat dont le montant est égal à six mois de versement de l'allocation de solidarité spécifique.

@@ -345,6 +345,8 @@
 - [Arrêté du 17 octobre 1986](arrete-du-17-octobre-1986)
 - [Arrêté du 17 septembre 1987 (AGRG8701736A)](arrete-du-17-septembre-1987-agrg8701736a)
 - [Arrêté du 17 septembre 1987 (ASEH8701321A)](arrete-du-17-septembre-1987-aseh8701321a)
+- [Arrêté du 17 septembre 1987 (DEFP8701719A)](arrete-du-17-septembre-1987-defp8701719a)
+- [Arrêté du 17 septembre 1987 (DEFP8701720A)](arrete-du-17-septembre-1987-defp8701720a)
 - [Arrêté du 17 septembre 1987 (EQUS8700880A)](arrete-du-17-septembre-1987-equs8700880a)
 - [Arrêté du 17 septembre 1987 (JUSE8740050A)](arrete-du-17-septembre-1987-juse8740050a)
 - [Arrêté du 18 août 1987 (ASES8701188A)](arrete-du-18-aout-1987-ases8701188a)
