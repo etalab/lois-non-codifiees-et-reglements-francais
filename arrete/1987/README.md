@@ -496,6 +496,7 @@
 - [Arrêté du 27 mars 1987 (STFS8700486A)](arrete-du-27-mars-1987-stfs8700486a)
 - [Arrêté du 27 mars 1987 (TRST8700127A)](arrete-du-27-mars-1987-trst8700127a)
 - [Arrêté du 27 mai 1987 (DEFD8701375A)](arrete-du-27-mai-1987-defd8701375a)
+- [Arrêté du 28 août 1987 (DEFP8701532A)](arrete-du-28-aout-1987-defp8701532a)
 - [Arrêté du 28 août 1987 (ECOT8711002A)](arrete-du-28-aout-1987-ecot8711002a)
 - [Arrêté du 28 août 1987 (ENVN8700178A)](arrete-du-28-aout-1987-envn8700178a)
 - [Arrêté du 28 avril 1987](arrete-du-28-avril-1987)

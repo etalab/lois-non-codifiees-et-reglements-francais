@@ -1,0 +1,5 @@
+# Article 1
+
+a) A l'échelon régional, les infirmiers et infirmières en chef assistent et conseillent le directeur régional du service de santé des armées en matière d'emploi du personnel infirmier occupé à des tâches de médecine du travail. Sous l'autorité administrative du directeur régional et la responsabilité technique du médecin du travail, ils organisent et animent les actions de formation continue, et encadrent au moins trois infirmiers ou infirmières du travail dans leur action d'éducation sanitaire et d'hygiène générale ou professionnelle. Ils peuvent, en tant que de besoin, accomplir les tâches confiées aux infirmiers et infirmières ;
+
+b) Dans les centres médicaux d'établissement ou de groupes d'établissements, les infirmiers et infirmières en chef encadrent, sous l'autorité du médecin, chef de centre, une équipe médico-administrative d'au moins quatre personnes, dont deux infirmiers ou infirmières et sont chargés du suivi des traitements ou examens ordonnés par le médecin auprès des agents occupant des postes exposés à des nuisances particulières.
