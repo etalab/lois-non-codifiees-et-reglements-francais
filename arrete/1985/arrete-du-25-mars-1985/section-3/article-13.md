@@ -1,3 +1,0 @@
-# Article 13
-
-A la fin du stage d'application le directeur régional du travail et de l'emploi, sur proposition du directeur départemental, ou le chef du service régional de l'inspection du travail, de l'emploi et de la politique sociale agricoles, sur proposition du chef de service départemental, ou le directeur régional du travail et de la main-d'oeuvre dans les transports, après avoir recueilli l'avis du maître de stage, établit un rapport sur le déroulement du stage accompagné d'une proposition de note chiffrée. Cette note est arrêtée par le directeur de l'Institut national du travail, de l'emploi et de la formation professionnelle. Ces éléments sont communiqués à l'intéressé qui peut faire valoir ses observations.
