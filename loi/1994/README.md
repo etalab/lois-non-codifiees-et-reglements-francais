@@ -26,5 +26,8 @@
 - [Loi n° 94-429 du 28 mai 1994 (MAEX9300117L)](loi-n-94-429-du-28-mai-1994-maex9300117l)
 - [Loi n° 94-442 du 3 juin 1994 (ECOX9300172L)](loi-n-94-442-du-3-juin-1994-ecox9300172l)
 - [Loi n° 94-443 du 3 juin 1994 (DOMX9300181L)](loi-n-94-443-du-3-juin-1994-domx9300181l)
+- [Loi n° 94-477 du 10 juin 1994 (MAEX9400036L)](loi-n-94-477-du-10-juin-1994-maex9400036l)
+- [Loi n° 94-478 du 10 juin 1994 (MAEX9300184L)](loi-n-94-478-du-10-juin-1994-maex9300184l)
+- [Loi n° 94-480 du 10 juin 1994 (MAEX9300072L)](loi-n-94-480-du-10-juin-1994-maex9300072l)
 - [Loi n° 94-89 du 1 février 1994 (JUSX9300152L)](loi-n-94-89-du-1-fevrier-1994-jusx9300152l)
 - [Loi n°94-342 du 29 avril 1994 (JUSX9300203L)](loi-n94-342-du-29-avril-1994-jusx9300203l)
