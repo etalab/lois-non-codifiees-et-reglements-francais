@@ -2,6 +2,8 @@
 
 I - Le taux de la cotisation annuelle d'assurance vieillesse complémentaire est fixé à 4,40 p. 100 du revenu visé aux articles 3 et 4.
 
+A compter du 1er janvier 1985, est due en sus de la cotisation visée ci-dessus une cotisation additionnelle fixée à 0,10 p. 100 dudit revenu.
+
 II - La cotisation annuelle ainsi déterminée est arrondie au multiple de deux francs le plus voisin.
 
 Elle est répartie en deux fractions semestrielles [*périodicité*] d'égal montant exigibles des assurés et payables par eux, aux mêmes dates et conditions que celles visées aux articles 7 et 11 du décret du 22 janvier 1973 susvisé.
