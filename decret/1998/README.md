@@ -804,7 +804,6 @@
 - [Décret n°98-511 du 24 juin 1998 (INTD9800134D)](decret-n98-511-du-24-juin-1998-intd9800134d)
 - [Décret n°98-512 du 24 juin 1998 (INTD9800149D)](decret-n98-512-du-24-juin-1998-intd9800149d)
 - [Décret n°98-517 du 24 juin 1998 (ECOT9851698D)](decret-n98-517-du-24-juin-1998-ecot9851698d)
-- [Décret n°98-518 du 24 juin 1998 (MESX9800091D)](decret-n98-518-du-24-juin-1998-mesx9800091d)
 - [Décret n°98-527 du 24 juin 1998 (ECOS9850008D)](decret-n98-527-du-24-juin-1998-ecos9850008d)
 - [Décret n°98-533 du 24 juin 1998 (ATEN9860051D)](decret-n98-533-du-24-juin-1998-aten9860051d)
 - [Décret n°98-637 du 24 juillet 1998 (INTM9800018D)](decret-n98-637-du-24-juillet-1998-intm9800018d)

@@ -616,7 +616,6 @@
 - [Arrêté du 22 février 1990 (SPSM9000502A)](arrete-du-22-fevrier-1990-spsm9000502a)
 - [Arrêté du 22 février 1990 (SPSM9000503A)](arrete-du-22-fevrier-1990-spsm9000503a)
 - [Arrêté du 22 février 1990 (SPSM9000505A)](arrete-du-22-fevrier-1990-spsm9000505a)
-- [Arrêté du 22 février 1990 (SPSM9000506A)](arrete-du-22-fevrier-1990-spsm9000506a)
 - [Arrêté du 22 février 1990 (SPSM9000507A)](arrete-du-22-fevrier-1990-spsm9000507a)
 - [Arrêté du 22 février 1990 (SPSM9000508A)](arrete-du-22-fevrier-1990-spsm9000508a)
 - [Arrêté du 22 janvier 1990 (AGRS9000040A)](arrete-du-22-janvier-1990-agrs9000040a)
