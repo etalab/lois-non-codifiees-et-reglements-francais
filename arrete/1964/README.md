@@ -7,7 +7,6 @@
 - [Arrêté du 9 octobre 1964](arrete-du-9-octobre-1964)
 - [Arrêté du 10 août 1964](arrete-du-10-aout-1964)
 - [Arrêté du 10 janvier 1964](arrete-du-10-janvier-1964)
-- [Arrêté du 11 août 1964](arrete-du-11-aout-1964)
 - [Arrêté du 13 novembre 1964](arrete-du-13-novembre-1964)
 - [Arrêté du 14 août 1964](arrete-du-14-aout-1964)
 - [Arrêté du 14 mars 1964](arrete-du-14-mars-1964)
