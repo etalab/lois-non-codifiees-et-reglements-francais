@@ -6,6 +6,6 @@ Le taux annuel de l'allocation à domicile attribuée en application de l'articl
 
 56.400 F par an dans les communes de moins de 5.000 habitants.
 
-Cette allocation est cumulable avec les ressources personnelles dont peuvent disposer les requérants dans la limite de 104.000 francs par an [*plafond*].
+Cette allocation n'est cumulable avec les ressources personnelles dont peuvent disposer les requérants et avec l'allocation supplémentaire du fonds national de solidarité que dans la limite de 5.532 F par an [*plafond*], à compter du 1er janvier 1977.
 
 Le taux de la majoration spéciale pour aide constante d'une tierce personne prévue à l'article 170 du code de la famille et de l'aide sociale est fixé par la commission d'admission, compte tenu de l'état du grand infirme, dans la limite d'un maximum de 96.000 F [*montant*].
