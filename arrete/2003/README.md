@@ -341,7 +341,6 @@
 - [Arrêté du 11 septembre 2003 (SOCF0311449A)](arrete-du-11-septembre-2003-socf0311449a)
 - [Arrêté du 11 septembre 2003 (SOCF0311450A)](arrete-du-11-septembre-2003-socf0311450a)
 - [Arrêté du 11 septembre 2003 (SOCO0311180A)](arrete-du-11-septembre-2003-soco0311180a)
-- [Arrêté du 12 août 2003 (INDX0302125A)](arrete-du-12-aout-2003-indx0302125a)
 - [Arrêté du 12 août 2003 (LBLB0300012A)](arrete-du-12-aout-2003-lblb0300012a)
 - [Arrêté du 12 août 2003 (SANG0322073A)](arrete-du-12-aout-2003-sang0322073a)
 - [Arrêté du 12 août 2003 (SANG0322074A)](arrete-du-12-aout-2003-sang0322074a)
