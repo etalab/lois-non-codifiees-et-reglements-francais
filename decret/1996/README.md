@@ -179,6 +179,7 @@
 - [Décret n°96-535 du 12 juin 1996 (EQUP9600287D)](decret-n96-535-du-12-juin-1996-equp9600287d)
 - [Décret n°96-537 du 12 juin 1996 (BUDF9600019D)](decret-n96-537-du-12-juin-1996-budf9600019d)
 - [Décret n°96-540 du 12 juin 1996 (ENVE9640000D)](decret-n96-540-du-12-juin-1996-enve9640000d)
+- [Décret n°96-623 du 12 juillet 1996 (TASC9611082D)](decret-n96-623-du-12-juillet-1996-tasc9611082d)
 - [Décret n°96-113 du 13 février 1996 (TASH9523345D)](decret-n96-113-du-13-fevrier-1996-tash9523345d)
 - [Décret n°96-114 du 13 février 1996 (TASH9523346D)](decret-n96-114-du-13-fevrier-1996-tash9523346d)
 - [Décret n°96-115 du 13 février 1996 (TASH9523347D)](decret-n96-115-du-13-fevrier-1996-tash9523347d)
