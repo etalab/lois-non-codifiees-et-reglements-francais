@@ -1,5 +1,11 @@
 # Article 1
 
-Le service de l'eau est chargé d'exercer au sein de la direction de la prévention des pollutions les attributions dévolues au ministre de l'environnement en ce qui concerne la protection, la police et la gestion des eaux superficielles et souterraines, la protection des eaux marines et la prévention des inondations.
+Le taux de majoration ou de revalorisation prenant effet au 1er janvier 1985 est fixé à 3,4%.
 
-Il assure le secrétariat de la mission interministérielle de l'eau et du comité national de l'eau, et la tutelle des agences financières de bassin. Il prépare et met en oeuvre la législation et la réglementation relative à la gestion des ressources en eau et à la protection des eaux superficielles, souterraines et marines contre toutes les pollutions, quelle qu'en soit l'origine. Il assure la promotion des techniques d'assainissement, d'épuration, d'aménagement, des cours d'eau et d'annonce de crues. Il participe au développement et à la coordination des études et recherches dans le domaine de l'eau.
+Les pensions et rentes liquidées avec entrée en jouissance antérieure au 1er janvier 1985 sont donc revalorisées par application du coefficient 1,034.
+
+Ce coefficient majore également :
+
+Les coefficients de revalorisation des salaires ou cotisations servant de base au calcul des pensions de vieillesse et d'invalidité en vigueur antérieurement à cette date ;
+
+Le coefficient en vigueur applicable aux pensions et rentes visées à l'article L. 350 du code de la sécurité sociale.

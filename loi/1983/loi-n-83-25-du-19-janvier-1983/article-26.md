@@ -36,8 +36,6 @@ Pour les cigarettes, il s'y ajoute une part spécifique égale à cinq quatre-vi
 
 V - La cotisation est assise, contrôlée et recouvrée par l'agence centrale des organismes de sécurité sociale [*ACOSS*] assistée, en tant que de besoin, par les services de l'Etat désignés par arrêté, selon les mêmes règles, conditions garanties et sanctions qu'en matière de contributions indirectes. Les frais relatifs au recouvrement et à la gestion de la cotisation sont fixés par arrêté et s'imputent sur celle-ci.
 
-VI - Le montant de la cotisation n'est pas compris dans l'assiette de la taxe sur la valeur ajoutée, ni des prélèvements de nature fiscale ou parafiscale assis comme cette taxe. Il n'est pas pris en considération pour l'application des limites du forfait et du régime simplifié d'imposition.
-
-La cotisation n'est pas déductible pour l'établissement de l'impôt sur le revenu ou, le cas échéant, de l'impôt sur les sociétés du par le consommateur.
+VI - La cotisation n'est pas déductible pour l'établissement de l'impôt sur le revenu ou, le cas échéant, de l'impôt sur les sociétés du par le consommateur.
 
 VII - Un décret fixe les conditions d'application du présent article et notamment l'adaptation de ces dispositions au cas des tabacs manufacturés vendus dans les départements de Corse et les départements d'outre-mer.

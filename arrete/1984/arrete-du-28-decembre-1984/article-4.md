@@ -1,8 +1,8 @@
 # Article 4
 
-Les majorations et les plafonds de pensions visés aux articles précédents s'appliquent [*champ d'application*] :
+Les majorations et les plafonds de pensions visés aux articles précédents s'appliquent :
 
-Aux pensions et rentes accordées avant les dates précitées aux assurés ayant cotisé avant le 1er juillet 1946 [*date limite*] dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle ;
+Aux pensions et rentes accordées avant les dates précitées aux assurés ayant cotisé avant le 1er juillet 1946 dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle ;
 
 Aux coefficients de revalorisation des salaires ou des cotisations en vigueur aux dates précitées fixés pour le calcul des prestations dues à ces assurés.
 
