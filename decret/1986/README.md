@@ -1,5 +1,6 @@
 # 1986
 
+- [Décret n°86-1078 du 1 octobre 1986](decret-n86-1078-du-1-octobre-1986)
 - [Décret n°86-1008 du 2 septembre 1986](decret-n86-1008-du-2-septembre-1986)
 - [Décret n°86-1009 du 2 septembre 1986](decret-n86-1009-du-2-septembre-1986)
 - [Décret n°86-729 du 2 mai 1986](decret-n86-729-du-2-mai-1986)
