@@ -822,7 +822,6 @@
 - [Arrêté du 22 avril 1994 (INTE9400216A)](arrete-du-22-avril-1994-inte9400216a)
 - [Arrêté du 22 avril 1994 (MENF9400777A)](arrete-du-22-avril-1994-menf9400777a)
 - [Arrêté du 22 avril 1994 (SANP9401298A)](arrete-du-22-avril-1994-sanp9401298a)
-- [Arrêté du 22 avril 1994 (SPSH9401130A)](arrete-du-22-avril-1994-spsh9401130a)
 - [Arrêté du 22 décembre 1993 (ENVE9320495A)](arrete-du-22-decembre-1993-enve9320495a)
 - [Arrêté du 22 décembre 1993 (ENVR9320437A)](arrete-du-22-decembre-1993-envr9320437a)
 - [Arrêté du 22 décembre 1993 (INTD9300722A)](arrete-du-22-decembre-1993-intd9300722a)

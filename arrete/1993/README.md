@@ -388,7 +388,6 @@
 - [Arrêté du 13 décembre 1990 (TEFT9004075A)](arrete-du-13-decembre-1990-teft9004075a)
 - [Arrêté du 13 décembre 1993 (EQUS9301858A)](arrete-du-13-decembre-1993-equs9301858a)
 - [Arrêté du 13 décembre 1993 (EQUT9301846A)](arrete-du-13-decembre-1993-equt9301846a)
-- [Arrêté du 13 janvier 1978 (INDD8900990A)](arrete-du-13-janvier-1978-indd8900990a)
 - [Arrêté du 13 janvier 1993 (DEFT9301063A)](arrete-du-13-janvier-1993-deft9301063a)
 - [Arrêté du 13 janvier 1993 (RESY9300017A)](arrete-du-13-janvier-1993-resy9300017a)
 - [Arrêté du 13 janvier 1993 (SPSS9300311A)](arrete-du-13-janvier-1993-spss9300311a)

@@ -271,7 +271,6 @@
 - [Arrêté du 14 décembre 1988 (TEFT8804183A)](arrete-du-14-decembre-1988-teft8804183a)
 - [Arrêté du 14 décembre 1989 (INDD8900988A)](arrete-du-14-decembre-1989-indd8900988a)
 - [Arrêté du 14 décembre 1989 (INDD8900989A)](arrete-du-14-decembre-1989-indd8900989a)
-- [Arrêté du 14 décembre 1989 (INDD8900990A)](arrete-du-14-decembre-1989-indd8900990a)
 - [Arrêté du 14 février 1989 (MENU8802163A)](arrete-du-14-fevrier-1989-menu8802163a)
 - [Arrêté du 14 février 1989 (RESY8900055A)](arrete-du-14-fevrier-1989-resy8900055a)
 - [Arrêté du 14 février 1989 (TEFG8903218A)](arrete-du-14-fevrier-1989-tefg8903218a)
