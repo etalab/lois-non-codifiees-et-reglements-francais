@@ -6,4 +6,4 @@ Il en est de même lorsqu'ils sont susceptibles d'entraîner pour les budgets de
 
 Il en est de même lorsqu'ils sont susceptibles d'entraîner pour le budget de l'Etat des charges injustifiées ou excessives compte tenu des enveloppes de crédits définies à l'article 27-7.
 
-Il en est de même lorsqu'ils sont susceptibles d'entraîner pour les budgets des collectivités publiques ou des organismes de sécurité sociale des charges injustifiées ou excessives compte tenu, d'une part, des conditions de satisfaction des besoins de la population, d'autre part, du taux moyen d'évolution des dépenses compatible avec la politique sanitaire et sociale et les perspectives économiques et budgétaires de la collectivité concernée, telles qu'elles résultent notamment des prévisions d'évolution des prix et des salaires.
+Il en est de même lorsqu'ils sont susceptibles d'entraîner, pour les budgets des organismes de sécurité sociale, des charges injustifiées ou excessives, compte tenu des objectifs et dotations définis à l'article 27-5.
