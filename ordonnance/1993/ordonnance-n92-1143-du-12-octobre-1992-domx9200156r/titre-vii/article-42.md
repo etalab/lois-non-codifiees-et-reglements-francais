@@ -10,4 +10,6 @@ Un décret en Conseil d'Etat détermine les modalités d'application de la prés
 
 4° Les conditions d'agrément des personnes mentionnées dans l'article 15 ;
 
-5° Les modalités de recouvrement des sommes avancées par l'Etat.
+5° Les modalités de recouvrement des sommes avancées par l'Etat ;
+
+6° Les modalités d'application de l'article 40-1.
