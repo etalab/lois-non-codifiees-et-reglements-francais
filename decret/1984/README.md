@@ -253,7 +253,6 @@
 - [Décret n°84-960 du 25 octobre 1984](decret-n84-960-du-25-octobre-1984)
 - [Décret n°84-961 du 25 octobre 1984](decret-n84-961-du-25-octobre-1984)
 - [Décret n°84-396 du 25 mai 1984](decret-n84-396-du-25-mai-1984)
-- [Décret n°84-1174 du 26 décembre 1984](decret-n84-1174-du-26-decembre-1984)
 - [Décret n°84-207 du 26 mars 1984](decret-n84-207-du-26-mars-1984)
 - [Décret n°84-233 du 26 mars 1984](decret-n84-233-du-26-mars-1984)
 - [Décret n°84-308 du 26 avril 1984](decret-n84-308-du-26-avril-1984)
