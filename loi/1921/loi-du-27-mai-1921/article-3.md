@@ -1,11 +1,5 @@
 # Article 3
 
-Les dépenses totales pour la réalisation des travaux définis à l'article 2 ci-dessus seront couvertes au moyen d'actions et d'obligations, le montant du capital-obligations autorisé ne pouvant à aucun moment dépasser les neuf dixièmes des capitaux versés.
-
-Toutefois, pendant une période de deux ans, à compter de la date de publication de la présente ordonnance, il pourra être dérogé à la disposition ci-dessus par arrêtés conjoints des ministres des finances, de l'économie nationale, de la production industrielle, de l'agriculture et des travaux publics et des transports
-
-La société concessionnaire, dans un délai de deux ans à partir de la date de ces arrêtés, devra prendre toutes mesures pour se conformer aux dispositions du premier alinéa du présent article.
-
 Le capital-actions entièrement souscrit sera couvert par les collectivités ou établissements publics intéressés, les industries ou les particuliers. Le capital-obligations sera constitué par des obligations qui devront être amorties en cinquante années au maximum à partir du 1er janvier qui suivra la fin des travaux que le service d'obligations considérées aura payés.
 
 L'Etat garantit l'intérêt et l'amortissement du capital obligations dans les conditions suivantes :
@@ -19,6 +13,8 @@ Les superbénéfices seront constitués par les excédents d'exploitation qui su
 Les superbénéfices seront attribués, dans une attribution de 20 p. 100 au capital-actions et de 80 p. 100 au remboursement sans intérêts des sommes que l'Etat aura versées pour la garantie d'intérêts du capital-obligations, à quelque titre que ce soit.
 
 Après remboursement total, de la dette de garantie, les superbénéfices seront partagés par moitié entre l'Etat et la ou les sociétés concessionnaires.
+
+Toutefois, jusqu'à l'achèvement des travaux d'aménagement du Rhône visés ci-dessus, la part de super-bénéfices attribuée à l'Etat est laissée à la disposition de la société concessionnaire et utilisée pour le financement des travaux exécutés dans le cadre du plan de modernisation et d'équipement. Un arrêté du ministre des finances fixera, le moment venu, en tant que de besoin, les modalités de restitution des sommes revenant au Trésor.
 
 L'Etat accordera à la société unique ou aux sociétés qui auront été substituées aux concessionnaires des subventions en capital appliquées aux travaux de construction des canaux primaires d'irrigation ou des stations de pompage. Ces subventions seront de neuf dixièmes de la valeur des ouvrages.
 
