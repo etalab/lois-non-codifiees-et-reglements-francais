@@ -18,7 +18,7 @@ Le conseil d'administration règle, par ses délibérations, les affaires de l'a
 
 8. Acceptation ou refus des dons ou legs.
 
-9. Conditions générales de recrutement, d'emploi et de rémunération des personnels.
+9. Conditions générales de recrutement, d'emploi et de rémunération des personnels. Plan de formation dans la mesure où il n'aurait pas fait l'objet d'une approbation par le comité d'entreprise.
 
 10. Conditions générales des contrats, conventions et marchés passés par l'agence.
 
