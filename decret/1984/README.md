@@ -31,6 +31,7 @@
 - [Décret n°84-56 du 25 janvier 1984](decret-n84-56-du-25-janvier-1984)
 - [Décret n°84-57 du 25 janvier 1984](decret-n84-57-du-25-janvier-1984)
 - [Décret n°84-965 du 26 octobre 1984](decret-n84-965-du-26-octobre-1984)
+- [Décret n°84-62 du 27 janvier 1984](decret-n84-62-du-27-janvier-1984)
 - [Décret n°84-63 du 27 janvier 1984](decret-n84-63-du-27-janvier-1984)
 - [Décret n°83-1018 du 28 novembre 1983](decret-n83-1018-du-28-novembre-1983)
 - [Décret n°83-1208 du 29 décembre 1983](decret-n83-1208-du-29-decembre-1983)
