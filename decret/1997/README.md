@@ -128,6 +128,8 @@
 - [Décret n°97-326 du 10 avril 1997 (TASX9700052D)](decret-n97-326-du-10-avril-1997-tasx9700052d)
 - [Décret n°97-331 du 10 avril 1997 (TAST9710199D)](decret-n97-331-du-10-avril-1997-tast9710199d)
 - [Décret n°97-354 du 10 avril 1997 (MAEJ9730028D)](decret-n97-354-du-10-avril-1997-maej9730028d)
+- [Décret n°97-757 du 10 juillet 1997 (PRMX9700070D)](decret-n97-757-du-10-juillet-1997-prmx9700070d)
+- [Décret n°97-758 du 10 juillet 1997 (MENX9700065D)](decret-n97-758-du-10-juillet-1997-menx9700065d)
 - [Décret n°97-213 du 11 mars 1997 (TASX9700045D)](decret-n97-213-du-11-mars-1997-tasx9700045d)
 - [Décret n°97-219 du 11 mars 1997 (TASG9710201D)](decret-n97-219-du-11-mars-1997-tasg9710201d)
 - [Décret n°97-223 du 11 mars 1997 (INTX9700020D)](decret-n97-223-du-11-mars-1997-intx9700020d)
