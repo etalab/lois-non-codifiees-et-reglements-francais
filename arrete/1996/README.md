@@ -1066,7 +1066,6 @@
 - [Arrêté du 26 février 1996 (DEFB9601288A)](arrete-du-26-fevrier-1996-defb9601288a)
 - [Arrêté du 26 février 1996 (DEFD9601103A)](arrete-du-26-fevrier-1996-defd9601103a)
 - [Arrêté du 26 février 1996 (DEFD9601240A)](arrete-du-26-fevrier-1996-defd9601240a)
-- [Arrêté du 26 février 1996 (INDG9600006A)](arrete-du-26-fevrier-1996-indg9600006a)
 - [Arrêté du 26 février 1996 (MAEA9520485A)](arrete-du-26-fevrier-1996-maea9520485a)
 - [Arrêté du 26 février 1996 (MCCE9600142A)](arrete-du-26-fevrier-1996-mcce9600142a)
 - [Arrêté du 26 février 1996 (MCCK9600076A)](arrete-du-26-fevrier-1996-mcck9600076a)
