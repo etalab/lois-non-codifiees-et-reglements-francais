@@ -309,7 +309,6 @@
 - [Arrêté du 11 juin 1990 (SPSA9001167A)](arrete-du-11-juin-1990-spsa9001167a)
 - [Arrêté du 11 juin 1990 (SPSH9001446A)](arrete-du-11-juin-1990-spsh9001446a)
 - [Arrêté du 11 juin 1990 (SPSH9001447A)](arrete-du-11-juin-1990-spsh9001447a)
-- [Arrêté du 11 juin 1990 (SPSH9001448A)](arrete-du-11-juin-1990-spsh9001448a)
 - [Arrêté du 11 juin 1990 (SPSS9001195A)](arrete-du-11-juin-1990-spss9001195a)
 - [Arrêté du 11 septembre 1990 (ECOT9010082A)](arrete-du-11-septembre-1990-ecot9010082a)
 - [Arrêté du 11 septembre 1990 (EQUA9001305A)](arrete-du-11-septembre-1990-equa9001305a)
