@@ -1,7 +1,0 @@
-# Article 2
-
-En cas de maladie, les personnels visés à l'article précédent peuvent obtenir, par période de douze mois et sur production d'un certificat médical délivré par un médecin assermenté de l'administration, un congé de trois mois à plein salaire suivi d'un congé d'égale durée à demi-salaire [*maintien du salaire*].
-
-Ceux qui ont obtenu pendant une période de douze mois consécutifs des congés de maladie d'une durée totale de six mois et qui ne peuvent, à l'expiration de leur dernier congé reprendre leur travail, peuvent bénéficier d'une autorisation spéciale d'absence d'une durée maximum de six mois pendant laquelle ils perçoivent le demi-salaire et ne peuvent acquérir de droits à l'avancement et à la retraite. Les conditions dans lesquelles de telles autorisations sont accordées feront l'objet d'un arrêté conjoint du ministre de la santé publique et de la sécurité sociale et du ministre de l'économie et des finances.
-
-Le point de départ du congé rémunéré de maladie est fixé au quatrième jour qui suit l'arrêt de travail [*délai de carence*] ; en outre, les trois premiers jours d'incapacité de travail donnent lieu au paiement du demi-salaire, quelle que soit la durée d'arrêt du travail. Ces dernières dispositions sont applicables jusqu'au 1er janvier 1974, date à laquelle le point de départ du congé de maladie à plein salaire sera le premier jour de l'arrêt de travail, à condition que le taux d'absentéisme soit resté stable.

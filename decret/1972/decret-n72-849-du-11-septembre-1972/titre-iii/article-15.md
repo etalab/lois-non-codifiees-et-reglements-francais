@@ -1,0 +1,9 @@
+# Article 15
+
+Sous réserve des dispositions des articles L. 809 (6e et 7e alinéa) et L. 811 (2e alinéa) du code de la santé publique, des dispositions du décret n° 68-132 du 9 février 1968 (art. 4, 5 et 6) et des dispositions des articles 3 (4°) et 7 (4°) ci-dessus, les candidats visés aux articles 3, 7, 8, 9, 10, 11 et 14 ci-dessus doivent effectuer un stage de un an à l'issue duquel ils sont titularisés si leurs notes professionnelles sont jugées satisfaisantes. Pendant la durée du stage, les intéressés sont classés à l'échelon de début de l'emploi. Toutefois, en cas de nomination dans les emplois visés aux articles 2 et 3 ci-dessus, les agents qui avaient antérieurement la qualité de fonctionnaire de l'Etat ou d'agent titulaire des collectivités locales sont classés à l'échelon de leur nouvel emploi qui comporte un traitement égal ou à défaut immédiatement supérieur au traitement perçu en dernier lieu dans leur emploi d'origine.
+
+Dans la limite de la durée moyenne d'ancienneté exigée pour une promotion à l'échelon supérieur, ils conservent l'ancienneté qu'ils avaient acquise dans leur précédent emploi lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle que leur aurait procurée un avancement d'échelon dans leur ancienne situation.
+
+Les candidats nommés alors qu'ils avaient atteint l'échelon le plus élevé de leur précédent emploi conservent leur ancienneté d'échelon dans les mêmes conditions et dans les mêmes limites lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle que leur avait procurée leur nomination audit échelon.
+
+En cas de nomination dans l'un des emplois visés au titre II du présent décret, les agents qui avaient antérieurement la qualité de fonctionnaire de l'Etat ou d'agent titulaire des collectivités locales sont nommés dans les conditions prévues à l'article 1er du décret n° 70-1014 du 3 novembre 1970 susvisé.

@@ -1,3 +1,0 @@
-# Article 1
-
-Les chambres de commerce maritimes et les ports autonomes sont autorisés à verser directement aux officiers de port et officiers de port adjoints une allocation spéciale non soumise à retenue pour pension, dont le montant et les modalités d'attribution sont fixés par un arrêté conjoint du ministre de l'économie et des finances, du ministre de l'aménagement du territoire, de l'équipement, du logement et du tourisme, du ministre du développement industriel et scientifique, du ministre du commerce et de l'artisanat et du secrétaire d'Etat auprès du Premier ministre, chargé de la fonction publique et des services de l'information.
