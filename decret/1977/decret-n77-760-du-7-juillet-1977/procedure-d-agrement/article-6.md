@@ -16,6 +16,6 @@ e) Le rapport moral et le rapport financier approuvés lors de la dernière asse
 
 f) L'indication de la ou des législations énumérées à l'article 2 du présent décret, au titre de laquelle ou desquelles l'agrément est sollicité ;
 
-g) L'indication du cadre géographique, communal, intercommunal, départemental, interdépartemental ou national pour lequel l'agrément est sollicité.
+g) L'indication du cadre géographique, communal, intercommunal, départemental, interdépartemental, régional ou national pour lequel l'agrément est sollicité.
 
 Sans préjudice des dispositions de l'alinéa 2 de l'article 14, l'agrément des associations locales d'usagers prévu à l'article L. 121-8 du code de l'urbanisme ne peut être sollicité que pour la commune où l'association a son siège social.
