@@ -1,6 +1,6 @@
 # Article 1
 
-Il est institué à compter du 1er janvier 1989 [*date point de départ*] et jusqu'au 31 décembre 1990 une taxe parafiscale au profit [*organismes bénéficiaires*]  :
+Il est institué à compter du 1er janvier 1989 et jusqu'au 31 décembre 1991 une taxe parafiscale au profit :
 
 a) Du comité interprofessionnel de la conchyliculture pour lui permettre d'exercer les missions qui lui sont dévolues par le décret du 30 octobre 1981 susvisé et d'apporter sa contribution au Fonds d'intervention et d'organisation des marchés des produits de la pêche maritime et des cultures marines ;
 

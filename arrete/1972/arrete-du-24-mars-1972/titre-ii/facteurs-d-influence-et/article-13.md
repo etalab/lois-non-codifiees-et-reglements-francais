@@ -14,25 +14,27 @@ les instruments de la classe de précision spéciale ;
 
 les instruments librement suspendus ou installés de manière fixe.    13.2. Température :
 
-13.2.1. Les instruments doivent satisfaire aux dispositions des articles 7 à 12, dans les limites suivantes de température :
+13.2.1. Les instruments des classes de précision spéciale, fine ou moyenne doivent satisfaire aux dispositions des articles 7 à 12, dans les limites suivantes de température :
 
-Instruments des classes de précision spéciale et fine :
+- instruments des classes de précision spéciale et fine :
 
-de + 10 °C à + 30 °C ;
+De + 10 °C à + 30 °C ;
 
-Instruments des classes de précision moyenne et ordinaire :
+- instruments de la classe de précision moyenne :
 
-de - 10 °C à + 40 °C.
+De - 10 °C à + 40 °C.
 
-Pour des utilisations particulières, les instruments peuvent avoir des intervalles de température différant de ceux prévus ci-dessus. Dans ce cas, l'intervalle doit être mentionné dans les indications signalétiques et être au moins égal à :
+Pour des utilisations particulières, les instruments des classes de précision spéciale, fine ou moyenne peuvent avoir des intervalles de température différents de ceux prévus ci-dessus. Dans ce cas, l'intervalle doit être mentionné dans les indications signalétiques et être au moins égal à :
 
-1 °C pour les instruments de précision spéciale dont l'échelon de vérification est inférieur à 0,1 mg ;
+1 °C pour les instruments de la classe de précision spéciale dont l'échelon de vérification est inférieur à 0,1 mg ;
 
-5 °C pour les autres instruments de précision spéciale ;
+5 °C pour les instruments de la classe de précision spéciale ;
 
-15 °C pour les instruments de précision fine ;
+15 °C pour les instruments de la classe de précision fine ;
 
-30 °C pour les instruments de précision moyenne ou de précision ordinaire.
+30 °C pour les instruments de la classe de précision moyenne.
+
+Les instruments de la classe de précision ordinaire doivent satisfaire aux dispositions des articles 7 à 12 dans l'intervalle de température spécifié par le fabricant. Cet intervalle doit être mentionné dans les indications signalétiques et être au moins égal à 30 °C. En l'absence de spécification du fabricant, l'intervalle de température applicable est celui de - 10 °C à + 40 °C.
 
 13.2.2. Le contrôle d'un instrument doit s'effectuer à une température ambiante stable comprise entre les limites fixées pour son fonctionnement.
 

@@ -6,6 +6,8 @@
 
 " Les candidats ayant obtenu un résultat favorable à l'épreuve théorique conservent le bénéfice de leur admissibilité pour cinq épreuves pratiques à condition qu'un délai maximum de deux ans ne se soit pas écoulé depuis l'obtention de cette admissibilité.
 
+" Les candidats suivant une formation selon la formule de l'apprentissage anticipé de la conduite et ayant obtenu un résultat favorable à l'épreuve théorique qui constitue une des conditions de délivrance de l'attestation de fin de formation initiale conservent le bénéfice de leur admissibilité pour cinq épreuves pratiques à condition qu'un délai maximum de trois ans ne se soit pas écoulé depuis l'obtention de cette admissibilité. "
+
 " 11.1.2. Une épreuve pratique d'admission permettant d'apprécier leur comportement, leur aptitude à conduire et à manoeuvrer les véhicules de la catégorie pour laquelle le permis est sollicité.
 
 " Seuls peuvent subir cette épreuve pratique les candidats ayant obtenu un résultat favorable à l'épreuve théorique générale définie au paragraphe 11.1.1.
