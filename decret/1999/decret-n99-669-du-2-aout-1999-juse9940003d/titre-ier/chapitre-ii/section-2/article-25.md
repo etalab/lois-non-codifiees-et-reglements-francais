@@ -4,7 +4,7 @@ Les techniciens recrutés par la voie des concours externe et interne sont nomm�
 
 Les modalités d'organisation du stage sont fixées par arrêté du garde des sceaux, ministre de la justice.
 
-Pendant la durée du stage, les techniciens stagiaires qui n'avaient pas la qualité de fonctionnaire ou d'agent non titulaire perçoivent la rémunération afférente au premier échelon du grade de technicien. Ceux qui avaient auparavant la qualité de fonctionnaire ou d'agent non titulaire sont rémunérés dans les conditions fixées aux articles 26 à 29 ci-après.
+Pendant la durée du stage, les techniciens stagiaires qui n'avaient pas la qualité de fonctionnaire ou d'agent non titulaire perçoivent la rémunération afférente au premier échelon du grade de technicien. Ceux qui avaient auparavant la qualité de fonctionnaire ou d'agent non titulaire sont rémunérés dans les conditions fixées aux articles 26 à 31 ci-après.
 
 A l'issue du stage, les techniciens stagiaires dont les services ont donné satisfaction sont titularisés après avis de la commission administrative paritaire.
 
