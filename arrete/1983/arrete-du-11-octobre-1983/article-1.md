@@ -1,3 +1,3 @@
 # Article 1
 
-A compter du 1er janvier 1986, l'emploi des radioéléments sera interdit dans la fabrication des paratonnerres.
+Le ministère des transports gère un fichier national informatisé des véhicules immatriculés sur le territoire français intitulé fichier central des automobiles (F.C.A.).
