@@ -6,3 +6,4 @@
 - [Titre III : Dispositions communes.](titre-iii)
 - [Titre IV : Dispositions spéciales.](titre-iv)
 - [Titre V : Dispositions transitoires](titre-v)
+- [Titre VI : Dispositions concernant les retraites.](titre-vi)
