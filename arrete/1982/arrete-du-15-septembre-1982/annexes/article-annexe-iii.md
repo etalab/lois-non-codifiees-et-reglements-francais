@@ -12,4 +12,6 @@ b) Maïs
 
 c) Sorgho : 5, 10, 25, 50 et 100 kg
 
-25 000 grains ou multiple de 25 000 grains avec une tolérance de 5. p. 100 en plus ou en moins.
+25 000 grains ou multiple de 25 000 grains avec une tolérance de 5. p. 100 en plus ou en moins ;
+
+d) Sarrasin : 10, 25, 50 kg.

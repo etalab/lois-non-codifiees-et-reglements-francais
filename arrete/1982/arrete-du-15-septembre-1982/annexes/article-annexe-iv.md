@@ -12,6 +12,7 @@ POIDS DES ECHANTILLONS
 <p align="center">POIDS MINIMAL</p>
 <p align="center">à prélever sur un lot </p>
 <p align="center">(en grammes) </p>
+<br/>
 </td>
 <td>
 <p align="center">POIDS </p>
@@ -67,6 +68,17 @@ POIDS DES ECHANTILLONS
 <p align="center">1 000</p>
 <p align="center">900</p>
 <p align="center">900</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left"> Sarrasin</p>
+</td>
+<td>
+<p align="center"> 600</p>
+</td>
+<td>
+<p align="center"> 800</p>
 </td>
 </tr>
 </tbody>

@@ -16,6 +16,8 @@ telles qu'elles sont définies par les règlements techniques cités à l'articl
 
 - riz (Oryza Saliva L.) ;
 
+- Sarrasin (Fagopyrum Esculentum)
+
 - seigle (Secale Cereale L.) ;
 
 - sorgho (Sorghum Bicolor "L." , Moench) ;
