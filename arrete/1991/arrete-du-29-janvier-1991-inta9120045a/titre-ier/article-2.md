@@ -10,8 +10,8 @@ b) Représentants du personnel
 
 Personnels navigants:
 
-Deux membres titulaires et deux membres suppléants désignés conformément aux dispositions des articles 8 et 11, second alinéa, du décret du 28 mai 1982 susvisé.
+Trois membres titulaires et trois membres suppléants désignés conformément aux dispositions des articles 8 et 11, second alinéa, du décret du 28 mai 1982 susvisé.
 
 Personnels non navigants:
 
-Deux membres titulaires et deux membres suppléants désignés conformément aux dispositions des articles 8 et 11, second alinéa, du décret du 28 mai 1982 susvisé.
+Un membre titulaire et un membre suppléant désignés conformément aux dispositions des articles 8 et 11, second alinéa, du décret du 28 mai 1982 susvisé.

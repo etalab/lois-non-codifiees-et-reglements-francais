@@ -1,5 +1,14 @@
 # Article 2
 
-Les membres cités au second alinéa de l'article 1er sont nommés pour cinq ans par arrêté préfectoral. Leur mandat est gratuit et renouvelable.
+La composition du comité technique paritaire local de la base d'avions de la sécurité civile visé à l'article 1er est fixée ainsi qu'il suit :
 
-Tout membre dont le mandat est interrompu par le décès, ou la démission, ou la perte de la qualité au titre de laquelle la nomination a été prononcée, est remplacé dans les mêmes conditions pour la durée du mandat restant à courir.
+a) Représentants de l'administration
+
+<div align="left">Quatre membres titulaires, dont le commandant de la base d'avions de la sécurité civile, président du comité, et quatre membres suppléants nommés dans les conditions fixées à l'article 7 du décret du 28 mai 1982 susvisé. <br/>
+</div>
+
+b) Représentants du personnel
+
+<div align="left">Personnels navigants : <br/>Trois membres titulaires et trois membres suppléants désignés conformément aux dispositions des articles 8 et 11, second alinéa, du décret du 28 mai 1982 susvisé. </div>
+<div align="left">
+<br/>Personnels non navigants : <br/>Un membre titulaire et un membre suppléant désignés conformément aux dispositions des articles 8 et 11, second alinéa, du décret du 28 mai 1982 susvisé.</div>

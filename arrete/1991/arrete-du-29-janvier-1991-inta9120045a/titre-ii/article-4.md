@@ -4,14 +4,14 @@ La composition du comité technique paritaire spécial visé à l'article 1er es
 
 a) Représentants de l'administration
 
-Sept membres titulaires, dont le directeur général de l'administration du ministère de l'intérieur, président du comité, et sept membres suppléants nommés dans les conditions fixées à l'article 7 du décret du 28 mai 1982 susvisé.
+Six membres titulaires, dont le directeur général de l'administration du ministère de l'intérieur et de l'aménagement du territoire, président du comité, et six membres suppléants nommés dans les conditions fixées à l'article 7 du décret du 28 mai 1982 susvisé.
 
 b) Représentants du personnel
 
 Personnels navigants:
 
-Quatre membres titulaires et quatre membres suppléants désignés conformément aux dispositions des articles 8 et 11, second alinéa, du décret du 28 mai 1982 susvisé.
+Cinq membres titulaires et cinq membres suppléants désignés conformément aux dispositions des articles 8 et 11, second alinéa, du décret du 28 mai 1982 susvisé.
 
 Personnels non navigants:
 
-Trois membres titulaires et trois membres suppléants désignés conformément aux dispositions des articles 8 et 11, second alinéa, du décret du 28 mai 1982 susvisé.
+Un membre titulaire et un membre suppléant désignés conformément aux dispositions des articles 8 et 11, second alinéa, du décret du 28 mai 1982 susvisé.
