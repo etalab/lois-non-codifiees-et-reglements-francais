@@ -188,7 +188,6 @@
 - [Arrêté du 6 août 1993 (SPSS9302314A)](arrete-du-6-aout-1993-spss9302314a)
 - [Arrêté du 6 décembre 1993 (BUDD9370013A)](arrete-du-6-decembre-1993-budd9370013a)
 - [Arrêté du 6 décembre 1993 (BUDD9370028A)](arrete-du-6-decembre-1993-budd9370028a)
-- [Arrêté du 6 décembre 1993 (EQUA9301801A)](arrete-du-6-decembre-1993-equa9301801a)
 - [Arrêté du 6 décembre 1993 (EQUS9301800A)](arrete-du-6-decembre-1993-equs9301800a)
 - [Arrêté du 6 décembre 1993 (INDE9300460A)](arrete-du-6-decembre-1993-inde9300460a)
 - [Arrêté du 6 janvier 1993 (BUDR9305001A)](arrete-du-6-janvier-1993-budr9305001a)
