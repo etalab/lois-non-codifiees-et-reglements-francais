@@ -1,6 +1,6 @@
 # Article 10-1
 
-Les épreuves d'admission du troisième concours comprennent :
+Les épreuves d'admission du troisième concours pour la spécialité administration générale comprennent :
 
 1° Un entretien ayant pour point de départ un exposé du candidat sur son expérience, destiné à apprécier les qualités d'analyse et de réflexion du candidat ainsi que sa motivation à exercer les missions dévolues au cadre d'emplois (durée : vingt minutes dont cinq minutes au plus d'exposé ; coefficient 3) ;
 

@@ -1,7 +1,7 @@
 # Article 2
 
-Les concours pour l'accès au cadre d'emplois des rédacteurs territoriaux comprennent un concours externe et un concours interne. Chacun de ces concours comprend la ou les spécialités suivantes :
+Les concours pour l'accès au cadre d'emplois des rédacteurs territoriaux comprennent un concours externe, un concours interne et un troisième concours. Ces concours sont ouverts dans l'une ou plusieurs des spécialités suivantes :
 
-administration générale et secteur sanitaire et social.
+- administration générale ;
 
-Ces concours comprennent également un troisième concours ouvert dans la spécialité administration générale.
+- secteur sanitaire et social.
