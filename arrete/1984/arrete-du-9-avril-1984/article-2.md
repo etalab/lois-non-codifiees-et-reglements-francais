@@ -1,7 +1,3 @@
 # Article 2
 
-La composition de ce comité technique paritaire central est fixée comme suit :
-
-a) Représentants de l'administration : quatre membres titulaires, dont le directeur de l'établissement public, président du comité, et quatre membres suppléants désignés conformément aux dispositions de l'article 7 du décret du 28 mai 1982 susvisé ;
-
-b) Représentants du personnel : quatre membres titulaires et quatre membres suppléants désignés conformément aux dispositions des articles 8 ou 11, second alinéa, du décret du 28 mai 1982.
+Les deux concours visés à l'article 1er du présent arrêté comportent des épreuves écrites d'admissibilité, des épreuves orales d'admission et des épreuves orales facultatives. Le programme des épreuves est annexé au présent arrêté. Les épreuves d'admissibilité ont lieu dans les centres fixés par l'arrêté portant ouverture du concours ; les épreuves d'admission et les épreuves facultatives ont lieu à Paris.
