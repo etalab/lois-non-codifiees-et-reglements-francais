@@ -25,6 +25,8 @@
 - [Décret n°89-10 du 4 janvier 1989 (TRSA8800482D)](decret-n89-10-du-4-janvier-1989-trsa8800482d)
 - [Décret n°89-200 du 4 avril 1989 (EQUP8900081D)](decret-n89-200-du-4-avril-1989-equp8900081d)
 - [Décret n°89-202 du 4 avril 1989 (AGRP8900091D)](decret-n89-202-du-4-avril-1989-agrp8900091d)
+- [Décret n°89-204 du 4 avril 1989 (INDD8900129D)](decret-n89-204-du-4-avril-1989-indd8900129d)
+- [Décret n°89-206 du 4 avril 1989 (MERG8900015D)](decret-n89-206-du-4-avril-1989-merg8900015d)
 - [Décret n°89-4 du 4 janvier 1989 (ECOT8910036D)](decret-n89-4-du-4-janvier-1989-ecot8910036d)
 - [Décret n°89-69 du 4 février 1989 (PRMG8970046D)](decret-n89-69-du-4-fevrier-1989-prmg8970046d)
 - [Décret n°90-379 du 4 mai 1990 (MCCB9000209D)](decret-n90-379-du-4-mai-1990-mccb9000209d)
