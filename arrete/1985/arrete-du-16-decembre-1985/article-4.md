@@ -1,5 +1,7 @@
 # Article 4
 
-Le présent arrêté s'applique à compter de l'année scolaire ou universitaire 1985-1986 [*point de départ*].
+Les informations visées à l'article précédent sont transmises à l'administration fiscale :
 
-Jusqu'à ce que soient prises en compte les trois premières années d'application du présent arrêté, le taux de la cotisation est fixé à 0,0668 p. 100 pour les établissements relevant du a de l'article L. 416 (2°) du code de la sécurité sociale et à 0,0112 p. 100 pour les établissements relevant du b du même article.
+- selon des procédures informatiques, par le centre de transfert de données sociales, pour les déclarations souscrites dans le cadre de la procédure de transfert des données sociales instituée par le décret n° 85-1343 du 16 décembre 1985 ;
+
+- directement, sur support informatique ou formulaire normalisé, pour les déclarations souscrites par les organismes, administrations ou employeurs visés aux articles 1er et 2 du décret n° 85-1344 du 16 décembre 1985.    Le traitement T.D.S. fournit au traitement S.I.R. (Système de gestion informatisé des recoupements) les informations visées à l'article précédent.

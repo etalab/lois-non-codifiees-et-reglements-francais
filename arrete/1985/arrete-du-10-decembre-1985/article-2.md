@@ -1,3 +1,3 @@
 # Article 2
 
-En application de l'article précédent, l'intérêt à verser le 21 décembre 1986 pour les obligations de l'emprunt d'Etat à taux variable Décembre 1983 est de 220,20 F par obligation.
+L'arrêté du 22 avril 1981 relatif à la rémunération des rapporteurs auprès des organismes de la formation professionnelle et de la promotion sociale est abrogé.

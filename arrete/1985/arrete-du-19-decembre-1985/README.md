@@ -1,4 +1,4 @@
-# Arrêté du 19 décembre 1985 fixant le plafond de la participation des caisses primaires d'assurance maladie aux frais de séjour des assurés sociaux et de leurs ayants droit dans les stations de cure thermale.
+# Arrêté du 19 décembre 1985 du 19 décembre 1985 fixant le plafond de ressources de l'année 1984 applicable en 1986 pour l'octroi des majorations aux rentes viagères constituées à compter du 1er janvier 1979
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

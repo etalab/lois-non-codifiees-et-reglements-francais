@@ -1,4 +1,4 @@
-# Arrêté du 16 décembre 1985 relatif aux cotisations d'accident du travail dues pour les élèves et étudiants des établissements d'enseignement relevant de l'article L. 412-8 (2°) du code de la sécurité sociale.
+# Arrêté du 16 décembre 1985 relatif aux disciplines et spécialités pour lesquelles peuvent être organisés des concours de recrutement de praticiens hospitaliers à temps partiel
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

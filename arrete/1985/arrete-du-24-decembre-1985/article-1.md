@@ -1,5 +1,3 @@
 # Article 1
 
-A titre transitoire pour les années 1986 et 1987, il est dérogé dans les conditions suivantes aux dispositions de l'article 6 de l'arrêté du 28 décembre 1976 susvisé :
-
-L'augmentation annuelle du taux mixte notifié est limitée au quart du taux notifié l'année précédente.
+Le montant de l'imposition forfaitaire annuelle sur les pylônes est fixé pour 1986 à 2703 F en ce qui concerne les pylônes supportant des lignes électriques dont la tension est comprise entre 200 et 350 kilovolts et à 5409 F en ce qui concerne les pylônes supportant des lignes électriques dont la tension est supérieure à 350 kilovolts.
