@@ -14,7 +14,7 @@ Pour pouvoir être agréées les usines de transformation à haut ou faible risq
 
 6° Les eaux résiduaires venant du secteur souillé doivent être traitées de manière qu'il n'y subsiste pas d'agents pathogènes.
 
-7° Les déchets animaux doivent être transformés dans les conditions suivantes :
+7° Les matières à haut risque doivent être transformés dans les conditions suivantes :
 
 - soit par chauffage à une température à coeur d'au moins 133 °C pendant vingt minutes à une pression de 3 bars. La taille des particules de matières brutes avant traitement doit être réduite à 50 mm au moins à l'aide d'un appareil de préconcassage ou d'un broyeur ;
 

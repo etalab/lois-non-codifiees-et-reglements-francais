@@ -1,6 +1,6 @@
 # Article 1
 
-La Commission nationale des équivalences instituée par l'article 2 du décret du 21 septembre 1989 susvisé est présidée par le directeur des sports ou son représentant.
+La Commission nationale des équivalences instituée par l'article 2 du décret du 21 septembre 1989 susvisé est présidée par le délégué aux formations ou son représentant. (Le reste sans changement.)
 
 Elle comprend en outre :
 

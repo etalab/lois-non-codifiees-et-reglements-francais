@@ -60,11 +60,19 @@ Codes et libellés de la spécialité :
 
 46   Stomatologie.
 
+Discipline Radiologie et imagerie médicale
+
+Médecine nucléaire.
+
+Radiologie.
+
 Discipline Médecine
 
 Codes et libellé de la spécialité :
 
 71   Médecine polyvalente.
+
+Médecine polyvalente gériatrique.
 
 02   Anatomie pathologique et cytologie pathologique.
 

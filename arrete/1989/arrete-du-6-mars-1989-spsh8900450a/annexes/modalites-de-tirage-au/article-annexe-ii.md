@@ -22,6 +22,34 @@ A. - Médecine polyvalente
 
 a) L'urne des praticiens hospitaliers est constituée :
 
+- de deux tiers de praticiens hospitaliers en médecine interne tirés au sort parmi l'ensemble des praticiens hospitaliers de cette spécialité ;
+
+- d'un tiers de praticiens hospitaliers tirés au sort parmi l'ensemble des praticiens hospitaliers des autres spécialités de la discipline Médecine.
+
+b) L'urne des personnels enseignants et hospitaliers est constituée :
+
+- de deux tiers de personnels enseignants et hospitaliers en médecine interne tirés au sort parmi l'ensemble des personnels enseignants et hospitaliers de cette spécialité ;
+
+- d'un tiers de personnels enseignants et hospitaliers des autres spécialités tirés au sort parmi l'ensemble des personnels enseignants et hospitaliers.
+
+A 1. - Médecine polyvalente gériatrique
+
+a) L'urne des praticiens hospitaliers est constituée :
+
+- de deux tiers de praticiens hospitaliers en gériatrie tirés au sort parmi l'ensemble des praticiens hospitaliers de cette spécialité ;
+
+- d'un tiers de praticiens hospitaliers en médecine interne tirés au sort parmi l'ensemble des praticiens hospitaliers de cette spécialité.
+
+b) L'urne des personnels enseignants et hospitaliers est constituée :
+
+- de deux tiers de personnels enseignants et hospitaliers tirés au sort parmi l'ensemble des personnels enseignants et hospitaliers exerçant leurs fonctions hospitalières dans un service de gériatrie ;
+
+- d'un tiers de personnels enseignants et hospitaliers en médecine interne tirés au sort parmi l'ensemble des personnels enseignants et hospitaliers de cette spécialité.
+
+Dans l'éventualité où le quota de praticiens hospitaliers en gériatrie ou le quota de personnels enseignants et hospitaliers exerçant leurs fonctions hospitalières dans un service de gériatrie ne serait pas atteint, le nombre serait complété respectivement par des praticiens hospitaliers et des personnels enseignants et hospitaliers en médecine interne.
+
+a) L'urne des praticiens hospitaliers est constituée :
+
 D'un tiers de praticiens hospitaliers en médecine polyvalente tirés au sort parmi l'ensemble des praticiens hospitaliers de cette spécialité ;
 
 D'un tiers de praticiens hospitaliers en médecine interne tirés au sort parmi l'ensemble des praticiens hospitaliers de cette spécialité ;
@@ -33,6 +61,10 @@ b) L'urne des personnels enseignants et hospitaliers est constituée :
 De deux tiers de personnels enseignants et hospitaliers en médecine interne tirés au sort parmi l'ensemble des personnels enseignants et hospitaliers de cette spécialité ;
 
 D'un tiers de personnels enseignants et hospitaliers des autres spécialités tirés au sort parmi l'ensemble des personnels enseignants et hospitaliers.
+
+A 1. - Médecine polyvalente gériatrique
+
+Dans l'éventualité où le quota de praticiens hospitaliers en gériatrie ou le quota de personnels enseignants et hospitaliers exerçant leurs fonctions hospitalières dans un service de gériatrie ne serait pas atteint, le nombre serait complété respectivement par des praticiens hospitaliers et des personnels enseignants et hospitaliers en médecine interne.
 
 B. - Chirurgie polyvalente
 

@@ -16,10 +16,10 @@ Enterobacteriaceae : n = 5, c = 2, m = 10, M = 3 " 102/g.
 
 - c = nombre d'unités d'échantillon dans lequel le nombre de bactéries peut se situer entre m et M, l'échantillon étant toujours considéré comme acceptable si le nombre de bactéries dans les autres unités d'échantillon est égal ou inférieur à m.
 
-3. Ces conditions sont à vérifier par les méthodes Afnor suivantes :
+3. Ces conditions sont à vérifier par les méthodes suivantes :
 
-- pour Clostridium perfringens : norme NF V 08-019 ;
+- pour les salmonelles : normes NF V 08-013 (NF ISO 6579) ;
 
-- pour les salmonelles : norme NF V 08-013 (NF ISO 6579) ;
+- pour les Enterobacteriaceae : norme NF V 08-021 ;
 
-- pour les Enterobacteriaceae : norme NF V 08-021.
+- pour Clostridium perfringens : une méthode reconnue scientifiquement, définie par instruction du ministère de l'agriculture et du développement rural.

@@ -1,6 +1,6 @@
 # Article 21
 
-Dès la clôture des inscriptions, le nombre de candidats ayant déposé un dossier complet est indiqué par spécialité et par article de concours au bureau des concours et recrutements (7 D) de la direction des hôpitaux par le directeur régional des affaires sanitaires et sociales ou le directeur départemental des affaires sanitaires et sociales responsable des inscriptions. Il est procédé à la constitution du jury par voie de tirage au sort en fonction des éléments chiffrés susévoqués.
+Dès la clôture des inscriptions, le nombre de candidats ayant déposé un dossier complet est indiqué par spécialité et par article de concours au bureau des concours et recrutements (7 D) de la direction des hôpitaux par le directeur régional des affaires sanitaires et sociales ou le directeur départemental des affaires sanitaires et sociales responsable des inscriptions. Chaque année, il est procédé à la constitution des jurys par voie de tirage au sort en fonction des spécialités où étaient ouvertes des inscriptions et du nombre de candidats qui s'y étaient inscrits l'année précédente. Si des spécialités ne sont pas ouvertes faute d'inscriptions possibles ou si le nombre de candidats inscrits est différent de celui de l'année précédente, des modifications sont alors apportées à la composition des jurys en fonction des éléments sus-évoqués.
 
 Les modalités de tirage au sort des jurys sont définies à l'annexe II.
 
