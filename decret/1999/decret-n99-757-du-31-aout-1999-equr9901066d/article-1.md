@@ -1,0 +1,3 @@
+# Article 1
+
+En vue d'assurer progressivement l'accessibilité de ces ouvrages aux personnes handicapées, conformément aux dispositions de la loi du 30 juin 1975 susvisée, les prescriptions techniques fixées en application de la loi du 13 juillet 1991 susvisée sont applicables à l'ensemble des voies publiques et des voies privées ouvertes à la circulation publique en agglomération ainsi que, hors agglomération, aux zones de stationnement, aux emplacements d'arrêt des véhicules de transports en commun et aux postes d'appel d'urgence lors de la réalisation de voies nouvelles, de travaux ayant pour effet de modifier la structure de la voie ou d'en changer l'assiette et de travaux de réfection des trottoirs.
