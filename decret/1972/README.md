@@ -12,7 +12,6 @@
 - [Décret n°72-355 du 4 mai 1972](decret-n72-355-du-4-mai-1972)
 - [Décret n°72-1160 du 5 décembre 1972](decret-n72-1160-du-5-decembre-1972)
 - [Décret n°72-988 du 5 octobre 1972](decret-n72-988-du-5-octobre-1972)
-- [Décret n°72-1078 du 6 décembre 1972](decret-n72-1078-du-6-decembre-1972)
 - [Décret n°72-1079 du 6 décembre 1972](decret-n72-1079-du-6-decembre-1972)
 - [Décret n°72-1080 du 6 décembre 1972](decret-n72-1080-du-6-decembre-1972)
 - [Décret n°72-866 du 6 septembre 1972](decret-n72-866-du-6-septembre-1972)
