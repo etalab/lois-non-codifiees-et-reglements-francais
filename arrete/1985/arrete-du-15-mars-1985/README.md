@@ -1,4 +1,4 @@
-# Arrêté du 15 mars 1985 accordant la garantie de l'Etat à un emprunt du Crédit d'équipement des petites et moyennes entreprises
+# Arrêté du 15 mars 1985 portant ouverture, à titre expérimental, d'un service de mise en relation de terminaux Télétex.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

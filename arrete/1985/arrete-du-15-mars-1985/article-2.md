@@ -1,3 +1,3 @@
 # Article 2
 
-Le service de l'emprunt en intérêts, amortissement, impôts et frais et accessoires est garanti par l'Etat.
+Ces bons en compte courant sont payables à vue, non négociables et ne portent pas intérêt.

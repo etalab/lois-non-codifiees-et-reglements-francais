@@ -1,3 +1,3 @@
 # Article 3
 
-Le présent arrêté sera publié au Journal officiel de la République française.
+La taxation des communications donne lieu à des dispositions particulières énumérées dans les articles suivants lorsque les terminaux sont raccordées à des réseaux différents.

@@ -55,6 +55,7 @@
 - [Arrêté du 20 octobre 1980](arrete-du-20-octobre-1980)
 - [Arrêté du 20 mai 1980](arrete-du-20-mai-1980)
 - [Arrêté du 21 août 1980](arrete-du-21-aout-1980)
+- [Arrêté du 21 décembre 1979](arrete-du-21-decembre-1979)
 - [Arrêté du 21 novembre 1979](arrete-du-21-novembre-1979)
 - [Arrêté du 21 octobre 1980](arrete-du-21-octobre-1980)
 - [Arrêté du 21 mai 1980](arrete-du-21-mai-1980)
