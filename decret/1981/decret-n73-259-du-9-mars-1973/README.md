@@ -1,5 +1,6 @@
 # Décret n°73-259 du 9 mars 1973 relatif aux attributions du directeur général de la gendarmerie nationale.
 
+- [Article 1](article-1.md)
 - [Article 2](article-2.md)
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)
