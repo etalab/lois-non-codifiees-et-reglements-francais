@@ -42,6 +42,7 @@
 - [Arrêté du 8 juin 1982](arrete-du-8-juin-1982)
 - [Arrêté du 8 novembre 1982](arrete-du-8-novembre-1982)
 - [Arrêté du 8 octobre 1982](arrete-du-8-octobre-1982)
+- [Arrêté du 9 décembre 1982](arrete-du-9-decembre-1982)
 - [Arrêté du 9 février 1982](arrete-du-9-fevrier-1982)
 - [Arrêté du 9 juillet 1982](arrete-du-9-juillet-1982)
 - [Arrêté du 9 septembre 1982](arrete-du-9-septembre-1982)
