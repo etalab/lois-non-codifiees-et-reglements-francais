@@ -1,0 +1,3 @@
+# Article 12
+
+Dans chaque département il est institué une commission départementale d'identification des ovins et des caprins, dont la composition est précisée en annexe. Cette commission est consultée, au moins une fois par an, sur les modalités d'exécution et l'évaluation de l'identification des ovins et des caprins dans le département conformément au présent arrêté et au cahier des charges visé à l'article 13. Elle est réunie à la demande du préfet, du directeur départemental de l'agriculture et de la forêt, du directeur des services vétérinaires départementaux ou du président de l'établissement départemental ou interdépartemental de l'élevage.

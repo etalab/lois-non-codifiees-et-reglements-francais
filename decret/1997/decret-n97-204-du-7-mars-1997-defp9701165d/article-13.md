@@ -1,0 +1,3 @@
+# Article 13
+
+Le ministre de la défense, le ministre de l'économie et des finances, le ministre de la fonction publique, de la réforme de l'Etat et de la décentralisation et le ministre délégué au budget, porte-parole du Gouvernement, sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française et prend effet le 1er juin 1997, à l'exception des dispositions des articles 5 et 8 qui prennent effet le 1er janvier 1997, de celles de l'article 9 qui prennent effet le 1er août 1997 et de celles des articles 4, 6 et 7 qui prennent effet le 1er janvier 1998.

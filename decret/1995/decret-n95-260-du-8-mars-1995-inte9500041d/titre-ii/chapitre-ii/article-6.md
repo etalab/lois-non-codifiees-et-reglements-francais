@@ -24,7 +24,7 @@ a)Dix représentants des services de l'Etat :
 
 - le directeur régional de l'environnement ;
 
-- le directeur départemental de la jeunesse, des sports et des loisirs ;
+- le directeur départemental de la jeunesse, des sports ;
 
 b)Le directeur départemental des services d'incendie et de secours ;
 
@@ -32,9 +32,9 @@ c)Trois conseillers généraux et trois maires.
 
 2. En fonction des affaires traitées :
 
-- le maire de la commune concernée ou l'adjoint désigné par lui ;
+- le maire de la commune concernée ou l'adjoint désigné par lui. Le maire peut aussi,à défaut, être représenté par un conseiller municipal qu'il aura désigné. Ces conditions de représentation du maire sont également applicables dans le cas des autres commissions et des groupes de visite mentionnés dans le présent décret.
 
-- le président de l'établissement public de coopération intercommunale qui est compétent pour le dossier inscrit à l'ordre du jour.
+- le président de l'établissement public de coopération intercommunale qui est compétent pour le dossier inscrit à l'ordre du jour. Le président peut être représenté par un vice-président ou à défaut par un membre du comité ou du conseil de l'établissement public qu'il aura désigné. Ces conditions de représentation du président de l'établissement public de coopération intercommunale sont également applicables dans le cas des autres commissions mentionnées dans le présent décret.
 
 3. En ce qui concerne les établissements recevant du public et les immeubles de grande hauteur :
 

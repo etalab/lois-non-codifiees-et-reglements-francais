@@ -1,0 +1,3 @@
+# Article 6
+
+Les personnes redevables de la TVA qui réalisent les opérations visées à l'article 267 quater de l'annexe II au code général des impôts et portant sur les bovins vivants tiennent à jour un registre des entrées et des sorties précisant la date de chaque opération, les noms et adresses des fournisseurs et des clients et le numéro national d'identification de chacun des animaux concernés. Par dérogation à l'obligation d'enregistrement des numéros individuels des animaux, le registre peut faire référence aux factures ou documents en tenant lieu correspondant aux mouvements, annexés au registre et comportant le numéro national d'identification de chacun des animaux concernés.

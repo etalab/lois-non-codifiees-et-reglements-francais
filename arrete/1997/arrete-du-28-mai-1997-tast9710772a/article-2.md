@@ -1,0 +1,9 @@
+# Article 2
+
+1° Le service médical du travail qui souhaite demander l'habilitation prévue par le décret du 13 février 1996 doit déposer, à la direction régionale du travail, de l'emploi et de la formation professionnelle, un dossier comportant les éléments prévus au présent arrêté dès sa parution.
+
+Si le service médical qui demande l'habilitation assure déjà la surveillance de salariés concernés par le décret susvisé et si aucun médecin du travail du service ne dispose, au jour de la demande, de l'attestation de formation ou de l'attestation d'équivalence délivrée dans les conditions prévues au 3° de l'article 1er ci-dessus, le directeur régional du travail, de l'emploi et de la formation professionnelle peut autoriser la poursuite de la prise en charge des salariés concernés à la condition que le ou les médecin(s) concerné(s) s'engage(nt) à avoir suivi cette formation spécifique avant le 1er juillet 1998 et donc à fournir l'attestation demandée avant le 1er juillet 1998.
+
+2° La première habilitation est accordée à un service médical du travail jusqu'au terme de la période pour laquelle l'agrément en cours, visé par les articles R. 241-6, R. 241-7, R. 241-21 du code du travail et les articles 3, 4 et 9 du décret du 11 mai 1982 susvisé, a été accordée au service médical.
+
+3° Lorsque le renouvellement de la demande d'habilitation accompagne la demande de renouvellement d'agrément visé à l'article 1er du présent arrêté, l'habilitation est accordée pour la même période que l'agrément du service médical. Toute modification intervenant dans le cadre du fonctionnement du service et susceptible d'affecter les conditions d'exercice des activités soumises à habilitation doit être aussitôt notifiée par le service médical au directeur régional du travail, de l'emploi et de la formation professionnelle, qui s'assure que les conditions d'habilitation sont toujours remplies, compte tenu des modifications intervenues.

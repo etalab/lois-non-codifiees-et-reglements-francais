@@ -6,10 +6,6 @@ Carnivores.
 
 Mustélidés :
 
-Martre (Martes Martes).
-
-Belette (Mustella Nivalis).
-
 Hermine (Mustella Arminea).
 
 Putois (Putorius Putorius).

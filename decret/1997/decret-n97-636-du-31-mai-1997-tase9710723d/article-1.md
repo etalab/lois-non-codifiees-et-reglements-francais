@@ -1,0 +1,3 @@
+# Article 1
+
+En application de l'article L. 324-13-2 du code du travail, l'autorité administrative compétente peut refuser à un employeur les aides à l'emploi ou à la formation professionnelle attachées aux dispositifs visés aux articles L. 117-1, L. 322-2, L. 322-4, L. 322-4-1, L. 322-4-2, L. 322-4-7, L. 322-4-8-1, L. 322-11, L. 322-12, L. 322-13, L. 351-25, L. 951-5, L. 981-1, L. 981-7 et aux 1° et 7° de l'article R. 322-1 du code du travail, aux articles 39 et 39-1 de la loi du 20 décembre 1993 susvisée, aux articles 6 à 6-2 de la loi du 13 janvier 1989 susvisée, ainsi que les concours du Fonds social européen.

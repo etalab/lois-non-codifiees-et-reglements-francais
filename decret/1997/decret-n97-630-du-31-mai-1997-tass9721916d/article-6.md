@@ -1,0 +1,3 @@
+# Article 6
+
+Par dérogation à l'article R. 183-10, aux troisième et quatrième alinéas de l'article R. 183-11, au deuxième alinéa de l'article R. 183-12 et au troisième alinéa de l'article R. 181-13 du code de la sécurité sociale, et à titre transitoire, pour la première nomination aux postes de directeurs et d'agents comptables des unions régionales des caisses d'assurance maladie, les vacances de poste sont déclarées par le directeur de la Caisse nationale de l'assurance maladie des travailleurs salariés et les délais mentionnés aux articles précités sont adaptés par le ministre chargé de la sécurité sociale.

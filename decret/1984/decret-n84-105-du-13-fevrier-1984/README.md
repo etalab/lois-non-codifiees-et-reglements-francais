@@ -1,6 +1,7 @@
 # Décret n°84-105 du 13 février 1984 relatif au régime de travail à temps partiel des personnels ouvriers de l'Etat rémunérés sur une base mensuelle
 
 - [Article 1](article-1.md)
+- [Article 1 bis](article-1-bis.md)
 - [Article 2](article-2.md)
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)

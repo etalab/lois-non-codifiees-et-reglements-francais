@@ -1,0 +1,3 @@
+# Article 1
+
+Pour obtenir le bénéfice du régime de l'exportation préalable, les personnes qui expédient depuis la France métropolitaine à destination de l'étranger des rhums traditionnels des départements d'outre-mer pris sur les comptes spéciaux prévus à l'article 491 du code général des impôts doivent se faire délivrer par le bureau de la direction générale des douanes et droits indirects ayant constaté la sortie du territoire national un certificat énonçant la quantité, la qualité et l'origine du ou des rhums traditionnels des départements d'outre-mer ainsi que le volume d'alcool pur correspondant.

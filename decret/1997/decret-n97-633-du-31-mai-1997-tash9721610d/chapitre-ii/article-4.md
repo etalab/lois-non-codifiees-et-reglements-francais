@@ -1,0 +1,7 @@
+# Article 4
+
+I. - Le conseil d'administration des établissements mentionnés aux articles R. 716-3-2, R. 716-3-40, R. 716-3-41, R. 716-3-59 et R. 716-3-60 du code de la santé publique, ainsi que les commissions de surveillance mentionnées à l'article R. 716-3-22 du même code, en fonctions à la date de publication du présent décret le demeurent jusqu'à l'intervention des arrêtés portant composition nominative des nouveaux conseils d'administration et commissions de surveillance en vertu des dispositions des articles 1er à 3 dudit décret.
+
+II. - Dans les établissements mentionnés au I ci-dessus, les membres du conseil d'administration désignés par les organisations syndicales représentatives, dont le mandat est en cours lors de la publication du présent décret, sont reconduits de plein droit en la même qualité dans le nouveau conseil jusqu'au prochain renouvellement du comité technique d'établissement. Il en va de même, à l'Assistance publique - hôpitaux de Paris, pour les représentants des personnels titulaires au sein de chaque commission de surveillance jusqu'au renouvellement du comité technique local d'établissement.
+
+III. - Par dérogations aux dispositions du I de l'article R. 714-2-25 du code de la santé publique, la première désignation des communes, autres que celles de rattachement, ayant vocation à être représentées au sein du conseil d'administration des établissements mentionnés aux articles R. 716-3-40, R. 716-3-41 et R. 716-3-60 est faite en fonction des éléments d'activité de ces établissements au titre des années 1994 et 1995.

@@ -2,7 +2,13 @@
 
 Sur tout le territoire national sont interdites dans les conditions déterminées par le décret du 25 novembre 1977 susvisé la mutilation, la naturalisation des mammifères d'espèces non domestiques suivantes ou, qu'ils soient vivants ou morts, le transport, le colportage, l'utilisation, la mise en vente, la vente ou l'achat des spécimens détruits, capturés ou enlevés :
 
-Carnivores, mustélidés : Fouine (Martes foina).
+Carnivores, mustélidés :
+
+- Fouine (Martes foina);
+
+- Martre (Martes martes);
+
+- Belette (Mustella nivalis).
 
 Cependant les dépouilles peuvent être transportées et naturalisée pour le compte de l'auteur de la capture et à des fins strictement personnelles.
 

@@ -1,0 +1,3 @@
+# Article 2
+
+Les agents administratifs exerçant, à la date de publication du présent décret, des missions soit de surveillance, d'assistance et de sécurité sur les voies et dans les lieux publics, soit de contrôle de sécurité des personnes et des bagages lorsque ces personnes utilisent des moyens de transport ou lorsqu'elles sont appréhendées par les services de police, continuent à pouvoir être chargés de ces missions. Ces fonctions lorsqu'elles comportent un contact direct avec le public sont exercées en tenue d'uniforme ; les agents administratifs de la police nationale qui les exercent reçoivent l'appellation d'agent technique de surveillance de la police nationale.

@@ -16,4 +16,8 @@ Les dispositions de l'article 1er qui précède ne sont pas applicables, sous r�
 
 - corbeaux freux (Corvus frugilegus);
 
-- corneille noire (Corvus corone).
+- corneille noire (Corvus corone);
+
+- Geai des chênes (Garrulus glandarius);
+
+- Pie bavarde (Pica pica).

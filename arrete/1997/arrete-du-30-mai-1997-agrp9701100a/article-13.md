@@ -1,0 +1,3 @@
+# Article 13
+
+Les modalités des opérations de terrain, ainsi que les caractéristiques des repères agréés, du registre et du fichier départemental ou interdépartemental des cheptels tenu par l'établissement de l'élevage sont précisées par un cahier des charges de l'identification ovine et caprine élaboré par l'Institut de l'élevage sous l'autorité du ministère de l'agriculture. Ce cahier des charges est consultable auprès des établissements départementaux ou interdépartementaux de l'élevage, des directions départementales de l'agriculture et de la forêt, de l'Institut de l'élevage et du bureau de la sélection animale et du développement de l'élevage au ministère de l'agriculture.

@@ -18,11 +18,11 @@ Les renseignements à caractère métrologique demandés par l'administration, n
 
 Les anomalies rencontrées, en particulier les manquements des détenteurs à leurs obligations réglementaires doivent être signalés.    Cet état doit permettre de connaître le nom du dernier réparateur étant intervenu sur un instrument et la date de la réparation. La direction régionale de l'industrie, de la recherche et de l'environnement peut exiger que cet état soit communiqué sous forme informatisée compatible avec ses propres moyens informatiques.
 
-Lorsque la vérification périodique et la réparation ou l'ajustage sont effectués par un même organisme au cours d'un même déplacement, l'état doit permettre de connaître :
+Lorsque la vérification périodique et la réparation ou l'ajustage sont effectués, au cours d'un même déplacement, par un même organisme ou par le même opérateur intervenant au nom d'un organisme réparateur agréé et d'un organisme vérificateur agréé, l'état doit permettre de connaître :
 
-- les erreurs de l'instrument avant réparation ou ajustage et les erreurs lors des essais de vérification périodique ;
+- le ou les motifs qui auraient conduit à un refus si la réparation ou l'ajustage n'avaient pas été effectués ;
 
-- le nom du réparateur si l'intervention précédente n'a pas été effectuée par l'organisme de vérification.
+- le nom du réparateur ayant effectué l'intervention précédente.
 
 Les organismes agréés pour la vérification périodique doivent également faire figurer sur le carnet métrologique la date de la vérification, la sanction de la vérification et des éléments permettant leur identification et celle du personnel ayant procédé à l'intervention.
 
