@@ -2,4 +2,4 @@
 
 Les vacations sont destinées à indemniser les fonctions de commissaires enquêteurs telles qu'elles sont définies par le code de l'expropriation pour cause d'utilité publique.
 
-Le préfet fixe le nombre de vacations en fonction des difficultés de l'enquête. Ce nombre est compris entre huit et quarante vacations pour les opérations énumérées à l'article R. 11-2 du code de l'expropriation pour cause d'utilité publique et entre trois et vingt vacations pour les autres opérations. Il peut être modulé, dans le cas d'une commission d'enquête, entre les membres de la commission.
+Le préfet fixe le nombre de vacations sur la base du nombre d'heures que le commissaire enquêteur déclare avoir consacrées à l'enquête, en tenant compte des difficultés de l'enquête ainsi que de la nature et de la qualité du travail fourni par celui-ci. Le nombre de vacations peut être modulé, dans le cas d'une commission d'enquête, entre les membres de la commission.
