@@ -21,6 +21,7 @@
 - [Arrêté du 6 mai 1980](arrete-du-6-mai-1980)
 - [Arrêté du 8 décembre 1980](arrete-du-8-decembre-1980)
 - [Arrêté du 8 juillet 1980](arrete-du-8-juillet-1980)
+- [Arrêté du 9 janvier 1980](arrete-du-9-janvier-1980)
 - [Arrêté du 9 juin 1980](arrete-du-9-juin-1980)
 - [Arrêté du 9 octobre 1980](arrete-du-9-octobre-1980)
 - [Arrêté du 9 mai 1980](arrete-du-9-mai-1980)
