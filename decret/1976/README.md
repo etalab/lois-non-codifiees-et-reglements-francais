@@ -40,6 +40,8 @@
 - [Décret n°76-811 du 20 août 1976](decret-n76-811-du-20-aout-1976)
 - [Décret n°76-438 du 20 mai 1976](decret-n76-438-du-20-mai-1976)
 - [Décret n°76-87 du 21 janvier 1976](decret-n76-87-du-21-janvier-1976)
+- [Décret n°76-966 du 21 octobre 1976](decret-n76-966-du-21-octobre-1976)
+- [Décret n°76-968 du 21 octobre 1976](decret-n76-968-du-21-octobre-1976)
 - [Décret n°76-456 du 21 mai 1976](decret-n76-456-du-21-mai-1976)
 - [Décret n°76-717 du 22 juillet 1976](decret-n76-717-du-22-juillet-1976)
 - [Décret n°76-721 du 23 juillet 1976](decret-n76-721-du-23-juillet-1976)
