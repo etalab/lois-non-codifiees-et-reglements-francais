@@ -7,5 +7,6 @@
 - [Article 3](article-3.md)
 - [Section 3 : Le troisième cycle court.](section-3)
 - [Article 3 bis](article-3-bis.md)
+- [Section 3 bis : Initiation à la recherche](section-3-bis)
 - [Section 4 : Dispositions finales.](section-4)
 - [Article 32](article-32.md)

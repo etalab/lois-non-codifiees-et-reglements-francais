@@ -1,0 +1,5 @@
+# Article 30 ter
+
+A partir de la deuxième année d'études, les universités habilitées à dispenser des formations odontologiques prévoient des stages d'initiation à la recherche destinés aux étudiants qui en font la demande. Ces stages doivent être effectués dans des laboratoires des établissements publics de recherche ou dans des équipes de recherche reconnues dans le cadre des contrats passés par le ministère chargé de l'enseignement supérieur avec les universités.
+
+L'étudiant qui en bénéficie est placé sous la responsabilité d'un enseignant-chercheur ou d'un chercheur, docteur d'Etat ou titulaire du doctorat prévu par l'arrêté du 5 juillet 1984, qui dirige son travail et qui fournit une appréciation sur son activité au directeur de l'unité de formation et de recherche dispensant des formations odontologiques. La durée de ce stage d'initiation doit être au minimum de cent heures. En application des dispositions de l'article 6 de l'arrêté du 24 juin 1987 susvisé, la validation d'un stage d'initiation à la recherche peut remplacer un certificat de la maîtrise de sciences biologiques et médicales.

@@ -1,7 +1,5 @@
 # Article 10
 
-" L'emploi de toxiques, poisons ou drogues est interdit pour enivrer ou empoisonner le gibier, sauf dans les cas autorisés :
+Sont électeurs au titre de la commission paritaire tous les gardes-pêche en position d'activité, à l'exclusion des gardes stagiaires.
 
-" 1° En application du premier alinéa de l'article 393 du code rural ;
-
-" 2° En application des dispositions du titre X du livre II du code rural relatif à la protection des végétaux et du code de la santé publique. "
+Sont éligibles au titre de la commission paritaire les gardes-pêche remplissant les conditions requises pour être inscrits sur la liste électorale de la commission paritaire.

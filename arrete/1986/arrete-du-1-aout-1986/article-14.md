@@ -1,3 +1,3 @@
 # Article 14
 
-Le directeur de la protection de la nature est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+Les électeurs ne peuvent voter que pour une liste entière, sans radiation ni adjonction de noms et sans modification de l'ordre de présentation des candidats. Est nul tout bulletin établi en méconnaissance de l'une de ces conditions.
