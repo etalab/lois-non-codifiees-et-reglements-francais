@@ -698,7 +698,6 @@
 - [Arrêté du 31 juillet 1989 (ECOT8926027A)](arrete-du-31-juillet-1989-ecot8926027a)
 - [Arrêté du 31 juillet 1989 (ECOT8926028A)](arrete-du-31-juillet-1989-ecot8926028a)
 - [Arrêté du 31 juillet 1989 (PRME8961362A)](arrete-du-31-juillet-1989-prme8961362a)
-- [Arrêté du 31 juillet 1989 (SPSS8901651A)](arrete-du-31-juillet-1989-spss8901651a)
 - [Arrêté du 31 mars 1989 (ECOT8916068A)](arrete-du-31-mars-1989-ecot8916068a)
 - [Arrêté du 31 mars 1989 (EQUS8900310A)](arrete-du-31-mars-1989-equs8900310a)
 - [Arrêté du 31 mars 1989 (PTTT8900299A)](arrete-du-31-mars-1989-pttt8900299a)
