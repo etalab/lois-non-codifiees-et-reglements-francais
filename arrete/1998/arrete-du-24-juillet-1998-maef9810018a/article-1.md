@@ -16,4 +16,8 @@ En application de l'article 4, alinéa 2, du décret du 13 janvier 1947 susvisé
 
 - au Canada : le chef de la mission diplomatique, pourvu d'un e circonscription consulaire, et les chefs de poste consulaire à Montréal, Toronto et Vancouver, à compter du 1er mars 2003 ;
 
-- au Luxembourg : le chef du poste consulaire à Bruxelles, à compter du 1er juillet 2004.
+- au Luxembourg : le chef du poste consulaire à Bruxelles, à compter du 1er juillet 2004 ;
+
+Au Gabon : le chef du poste consulaire à Libreville, à compter du 1er juillet 2004 ;
+
+Au Brésil : le chef de la mission diplomatique, pourvu d'une circonscription consulaire, et les chefs de poste consulaire à Rio de Janeiro et Sao Paulo, à compter du 1er septembre 2004.
