@@ -4,3 +4,4 @@
 - [Chapitre Ier : Dispositions permanentes.](chapitre-ier)
 - [Chapitre II : Dispositions transitoires.](chapitre-ii)
 - [Chapitre III : Dispositions concernant les retraites.](chapitre-iii)
+- [Article 28](article-28.md)

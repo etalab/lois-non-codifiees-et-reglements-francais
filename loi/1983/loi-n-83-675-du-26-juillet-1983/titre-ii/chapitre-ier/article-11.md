@@ -1,6 +1,6 @@
 # Article 11
 
-La durée du mandat des membres des conseils d'administration ou de surveillance est de cinq ans. Ils ne peuvent exercer plus de trois mandats consécutifs.
+La durée du mandat des membres des conseils d'administration ou de surveillance est de cinq ans.
 
 En cas de vacance pour quelque cause que ce soit du siège d'un membre de conseil d'administration ou de surveillance, son remplaçant n'exerce ses fonctions que pour la durée restant à courir jusqu'au renouvellement de la totalité dudit conseil.
 
