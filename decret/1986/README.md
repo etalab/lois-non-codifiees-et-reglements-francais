@@ -289,6 +289,7 @@
 - [Décret n°86-660 du 19 mars 1986](decret-n86-660-du-19-mars-1986)
 - [Décret n°86-661 du 19 mars 1986](decret-n86-661-du-19-mars-1986)
 - [Décret n°86-970 du 19 août 1986](decret-n86-970-du-19-aout-1986)
+- [Décret n°86-996 du 19 août 1986](decret-n86-996-du-19-aout-1986)
 - [Décret n°85-1369 du 20 décembre 1985](decret-n85-1369-du-20-decembre-1985)
 - [Décret n°86-102 du 20 janvier 1986](decret-n86-102-du-20-janvier-1986)
 - [Décret n°86-247 du 20 février 1986](decret-n86-247-du-20-fevrier-1986)
