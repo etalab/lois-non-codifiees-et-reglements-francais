@@ -1,0 +1,3 @@
+# Article 17
+
+En matière de classement, sont applicables, en fonction du corps d'accueil et dans les mêmes conditions qu'aux candidats lauréats du concours interne correspondant, les dispositions des articles 26 et 29 du décret du 4 juillet 1972 susvisé pour l'accès au corps des professeurs certifiés, des articles 7-1, 8 et 8-2 du décret du 4 août 1980 susvisé pour l'accès au corps des professeurs d'éducation physique et sportive, des articles 10 et 22 du décret du 6 novembre 1992 susvisé pour l'accès au corps des professeurs de lycée professionnel et des articles 8 et 9 du décret du 12 août 1970 susvisé pour l'accès au corps des conseillers principaux d'éducation.

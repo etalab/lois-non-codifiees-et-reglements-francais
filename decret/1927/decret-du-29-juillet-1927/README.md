@@ -2,6 +2,7 @@
 
 - [Chapitre 1er : Autorisations pour les lignes établies exclusivement sur terrains privés](chapitre-1er)
 - [Chapitre II : Permissions de voirie](chapitre-ii)
+- [Chapitre II bis : Lignes directes.](chapitre-ii-bis)
 - [Chapitre III : Concessions simples conformes à un cahier des charges type](chapitre-iii)
 - [Chapitre IV : Dérogations aux cahiers des charges-type des concessions.](chapitre-iv)
 - [Chapitre V : Concessions avec déclaration d'utilité publique](chapitre-v)
