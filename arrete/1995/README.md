@@ -403,6 +403,7 @@
 - [Arrêté du 27 janvier 1995 (SPSA9500029A)](arrete-du-27-janvier-1995-spsa9500029a)
 - [Arrêté du 27 janvier 1995 (SPSS9500369A)](arrete-du-27-janvier-1995-spss9500369a)
 - [Arrêté du 27 juillet 1995 (INTF9500442A)](arrete-du-27-juillet-1995-intf9500442a)
+- [Arrêté du 27 mars 1995 (ECOT9426133A)](arrete-du-27-mars-1995-ecot9426133a)
 - [Arrêté du 28 avril 1995 (MENF9500700A)](arrete-du-28-avril-1995-menf9500700a)
 - [Arrêté du 28 décembre 1994 (DEFF9501006A)](arrete-du-28-decembre-1994-deff9501006a)
 - [Arrêté du 28 décembre 1994 (EQUA9401982A)](arrete-du-28-decembre-1994-equa9401982a)
