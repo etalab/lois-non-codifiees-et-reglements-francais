@@ -222,8 +222,6 @@
 - [Décret n°89-572 du 16 août 1989 (MENF8901897D)](decret-n89-572-du-16-aout-1989-menf8901897d)
 - [Décret n°89-575 du 16 août 1989 (MENF8901900D)](decret-n89-575-du-16-aout-1989-menf8901900d)
 - [Décret n°89-748 du 16 octobre 1989 (MAEJ8930091D)](decret-n89-748-du-16-octobre-1989-maej8930091d)
-- [Décret n°89-760 du 16 octobre 1989 (BUDL8900120D)](decret-n89-760-du-16-octobre-1989-budl8900120d)
-- [Décret n°89-761 du 16 octobre 1989 (BUDL8900121D)](decret-n89-761-du-16-octobre-1989-budl8900121d)
 - [Décret n°89-764 du 16 octobre 1989 (MAEJ8930090D)](decret-n89-764-du-16-octobre-1989-maej8930090d)
 - [Décret n°89-765 du 16 octobre 1989 (MAEJ8930092D)](decret-n89-765-du-16-octobre-1989-maej8930092d)
 - [Décret n°89-767 du 16 octobre 1989 (MAEJ8930094D)](decret-n89-767-du-16-octobre-1989-maej8930094d)
