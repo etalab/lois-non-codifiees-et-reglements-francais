@@ -1,4 +1,4 @@
-# Arrêté du 25 mai 1973 fixant les conditions de recrutement, de nomination et de promotion de certains personnels des établissements relevant des services départementaux de l'aide sociale à l'enfance
+# Arrêté du 25 mai 1973 relatif à l'exonération des cotisations patronales afférentes à l'emploi d'une tierce personne.
 
 - [TITRE Ier : CONCOURS SUR TITRES.](titre-ier)
 - [TITRE II : EXAMEN PROFESSIONNEL OUVRANT ACCÈS AU GRADE D'ÉDUCATEUR CHEF.](titre-ii)

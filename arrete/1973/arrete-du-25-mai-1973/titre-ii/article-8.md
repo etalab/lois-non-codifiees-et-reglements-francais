@@ -1,6 +1,6 @@
 # Article 8
 
-Le jury de l'examen professionnel comprend :
+Le jury de l'examen professionnel comprend [*composition*] :
 
 - le directeur régional des affaires sanitaires et sociales ou son représentant, président ;
 
@@ -12,4 +12,4 @@ Le jury de l'examen professionnel comprend :
 
 - un ou plusieurs fonctionnaires de catégorie A des services des départements, proposés par les présidents des conseils généraux des départements de la région.
 
-Pour les interrogations orales, le jury peut se constituer en plusieurs sections comprenant chacune au moins trois membres.
+Pour les interrogations orales, le jury peut se constituer en plusieurs sections comprenant chacune au moins trois membres [*nombre*].

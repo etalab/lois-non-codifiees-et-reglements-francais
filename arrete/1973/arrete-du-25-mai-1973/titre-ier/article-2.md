@@ -1,10 +1,10 @@
 # Article 2
 
-A l'appui de leur demande d'admission au concours, les candidats doivent produire les pièces suivantes :
+A l'appui de leur demande d'admission au concours, les candidats doivent produire les pièces [*obligatoires*] suivantes :
 
 1° Une fiche d'état civil datant de moins de trois mois et, le cas échéant, un certificat de nationalité ;
 
-2° Un extrait du casier judiciaire datant de moins de trois mois ;
+2° Un extrait du casier judiciaire datant de moins de trois mois [*délai*];
 
 3° Les diplômes ou certificats dont ils sont titulaires ou une copie certifiée conforme de ces documents ;
 

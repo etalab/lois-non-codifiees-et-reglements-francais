@@ -1,8 +1,8 @@
 # Article 7
 
-Les demandes d'admission à l'examen doivent être adressées au représentant de l'Etat dans la région, direction régionale des affaires sanitaires et sociales un mois au moins avant la date des épreuves.
+Les demandes d'admission à l'examen doivent être adressées au représentant de l'Etat dans la région, direction régionale des affaires sanitaires et sociales [*autorité compétente*] un mois au moins [*délai*] avant la date des épreuves.
 
-Les candidats doivent adresser à l'appui de leur demande :
+Les candidats doivent adresser à l'appui de leur demande [*documents obligatoires*] :
 
 1° Une attestation du directeur de l'établissement employeur justifiant de l'emploi qu'ils occupent et de l'échelon qu'ils ont atteint dans leur grade ;
 
