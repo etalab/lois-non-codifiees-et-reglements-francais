@@ -1,8 +1,8 @@
 # Article 11 quater
 
-A compter du 1er juillet 1991 :
+A compter du 1er juillet 1992 :
 
-- le montant prévu au premier alinéa de l'article R. 351-7-1 est fixé à 36 000 F ;
+- le montant prévu au premier alinéa de l'article R. 351-7-1 est fixé à 36 972 F ;
 
 - le coefficient prévu par le deuxième alinéa de l'article R. 351-7-1 est fixé à :
 

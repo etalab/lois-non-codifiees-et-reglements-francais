@@ -912,6 +912,8 @@
 - [Arrêté du 28 juillet 1992 (SPSS9201927A)](arrete-du-28-juillet-1992-spss9201927a)
 - [Arrêté du 28 juin 1990 (MENK9070017A)](arrete-du-28-juin-1990-menk9070017a)
 - [Arrêté du 28 novembre 1991 (AGRR9102451A)](arrete-du-28-novembre-1991-agrr9102451a)
+- [Arrêté du 28 septembre 1992 (LOGC9200039A)](arrete-du-28-septembre-1992-logc9200039a)
+- [Arrêté du 28 septembre 1992 (LOGC9200040A)](arrete-du-28-septembre-1992-logc9200040a)
 - [Arrêté du 29 août 1986](arrete-du-29-aout-1986)
 - [Arrêté du 29 avril 1992 (BUDR9205018A)](arrete-du-29-avril-1992-budr9205018a)
 - [Arrêté du 29 avril 1992 (INDI9200233A)](arrete-du-29-avril-1992-indi9200233a)
