@@ -40,6 +40,7 @@
 - [Décret n°75-177 du 12 mars 1975](decret-n75-177-du-12-mars-1975)
 - [Décret n°75-150 du 13 mars 1975](decret-n75-150-du-13-mars-1975)
 - [Décret n°75-473 du 13 juin 1975](decret-n75-473-du-13-juin-1975)
+- [Décret n°75-779 du 13 août 1975](decret-n75-779-du-13-aout-1975)
 - [Décret n°75-353 du 13 mai 1975](decret-n75-353-du-13-mai-1975)
 - [Décret n°75-354 du 13 mai 1975](decret-n75-354-du-13-mai-1975)
 - [Décret n° 55-1485 du 14 novembre 1955](decret-n-55-1485-du-14-novembre-1955)
