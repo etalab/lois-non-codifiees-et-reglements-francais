@@ -9,5 +9,3 @@ Ces extraits sont diffusés gratuitement au cours des émissions d'information.
 Leur diffusion s'accompagne dans tous les cas d'une identification suffisante du service de communication audiovisuelle cessionnaire du droit d'exploitation de la manifestation ou de la compétition.
 
 Un décret en Conseil d'Etat, pris après avis du Conseil supérieur de l'audiovisuel, fixe, en tant que de besoin, les conditions d'application du présent article.
-
-Les conventions portant cession exclusive du droit d'exploitation audiovisuelle des manifestations ou compétitions sportives ne peuvent être conclues pour une durée supérieure à cinq ans.

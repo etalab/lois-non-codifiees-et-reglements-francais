@@ -3,3 +3,4 @@
 - [Article 1](article-1.md)
 - [Titre I : L'organisation des activités physiques et sportives](titre-i)
 - [Titre II : Les formations et les professions.](titre-ii)
+- [Titre III : Les espaces, sites et itinéraires relatifs aux sports de nature](titre-iii)

@@ -1,9 +1,9 @@
 # Article 17-2
 
-Il est interdit à tout groupement qui ne bénéficie pas de la délégation du ministre chargé des sports instituée à l'article 17 d'utiliser dans son titre ou de faire figurer dans ses statuts, contrats, documents ou publicités l'appellation " Fédération française de " ou " Fédération nationale de " suivie du nom d'une ou plusieurs disciplines sportives.
+Dans les disciplines sportives relevant des arts martiaux, nul ne peut se prévaloir d'un dan ou d'un grade équivalent sanctionnant les qualités sportives et les connaissances techniques, et, le cas échéant, les performances en compétition s'il n'a pas été délivré par la commission spécialisée des dans et grades équivalents de la fédération délégataire ou, à défaut, de la fédération agréée consacrée exclusivement aux arts martiaux.
 
-Les groupements constitués avant la date de publication de la loi n° 92-652 du 13 juillet 1992 se mettent en conformité avec les dispositions du présent article dans le délai d'un an à compter de cette date.
+Un arrêté du ministre chargé des sports fixe la liste des fédérations mentionnées à l'alinéa précédent.
 
-Les dispositions de cet article ne s'appliquent pas aux fédérations sportives agréées par le ministre chargé des sports à la date de publication de la loi n° 92-652 du 13 juillet 1992.
+Les commissions spécialisées des dans et grades équivalents, dont la composition est fixée par arrêté du ministre chargé des sports après consultation des fédérations concernées, soumettent les conditions de délivrance de ces dans et grades au ministre chargé des sports qui les approuve par arrêté.
 
-Les présidents, administrateurs ou directeurs des groupements qui auront méconnu les dispositions du présent article seront punis de 25000 F d'amende [* taux *] et, en cas de récidive, de 50000 F d'amende [* taux *].
+Il est créé une commission consultative des arts martiaux comprenant des représentants des fédérations sportives concernées et de l'Etat, dont la composition est arrêtée par le ministre chargé des sports. Cette commission est compétente pour donner son avis au ministre de la jeunesse et des sports sur toutes les questions techniques, déontologiques, administratives et de sécurité se rapportant aux disciplines considérées et assimilées.

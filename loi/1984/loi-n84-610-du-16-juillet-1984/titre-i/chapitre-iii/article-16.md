@@ -1,15 +1,49 @@
 # Article 16
 
-Les fédérations sportives, constituées conformément à la loi du 1er juillet 1901, regroupent les associations sportives, les sociétés à objet sportif, les sociétés d'économie mixte sportives locales et les licenciés d'une ou plusieurs disciplines sportives. Ces fédérations sont les fédérations unisports ou multisports, les fédérations affinitaires et les fédérations sportives scolaires et universitaires.
+I. - Les fédérations sportives ont pour objet l'organisation de la pratique d'une ou plusieurs disciplines sportives. Elles sont constituées sous forme d'associations conformément à la loi du 1er juillet 1901 relative au contrat d'association regroupant des associations sportives et des licenciés à titre individuel. Ces fédérations sont les fédérations unisports ou multisports, les fédérations affinitaires et les fédérations sportives scolaires et universitaires. Elles peuvent faire participer à la vie de la fédération, dans des conditions fixées par ses statuts, des établissements qu'elles agréent ayant pour objet la pratique des activités physiques et sportives. Les modalités de participation de ces établissements sont fixées par décret en Conseil d'Etat pris après avis du Comité national olympique et sportif français.
 
 Elles exercent leur activité en toute indépendance.
 
-A condition d'avoir adopté des statuts conformes à des statuts types définis par décret en Conseil d'Etat, les fédérations sportives agréées par le ministre chargé des sports participent à l'exécution d'une mission de service public. A ce titre, elles sont chargées notamment de promouvoir l'éducation par les activités physiques et sportives, de développer et d'organiser la pratique des activités physiques et sportives. Elles assurent la formation et le perfectionnement de leurs cadres bénévoles. Elles délivrent les licences et les titres fédéraux. Un décret en Conseil d'Etat détermine les conditions d'attribution et de retrait de l'agrément.
+La délivrance d'une licence par une fédération sportive vaut droit à participer à son fonctionnement.
 
-Elles ont un pouvoir disciplinaire, dans le respect des principes généraux du droit, à l'égard des groupements sportifs qui sont affiliés et de leurs licenciés et font respecter les règles techniques et déontologiques de leurs disciplines. Elles peuvent déléguer à des organes internes une partie de leurs attributions dans la limite de la compétence territoriale de ces derniers.
+Les fédérations sportives sont placées sous la tutelle du ministre chargé des sports, à l'exception des fédérations et unions sportives scolaires et universitaires qui sont placées sous la tutelle du ministre chargé de l'éducation nationale ; le ministre chargé des sports participe toutefois à la définition et à la mise en oeuvre de leurs objectifs. Les ministres de tutelle veillent, chacun pour ce qui le concerne, au respect par les fédérations sportives des lois et règlements en vigueur.
 
-Les fédérations sportives qui participent à l'exécution d'une mission de service public adoptent des règlements disciplinaires conformes à un règlement type défini par décret en Conseil d'Etat après avis du Comité national olympique et sportif français.
+II. - Afin de favoriser l'accès aux activités sportives sous toutes leurs formes, les fédérations visées au présent article et les associations de jeunesse et d'éducation populaire agréées par le ministre chargé de la jeunesse peuvent mettre en place des règles de pratiques adaptées et ne mettant pas en danger la sécurité des pratiquants.
 
-Les fédérations sportives peuvent recevoir un concours financier et en personnel de l'Etat conformément à l'article 44 de la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat. Des conventions conclues entre l'Etat et les fédérations sportives mentionnées à l'article 17 fixent les objectifs permettant le développement des disciplines sportives ainsi que le perfectionnement et l'insertion professionnelle des athlètes et précisent les engagements souscrits à cet effet. De telles conventions peuvent être également conclues avec les autres fédérations mentionnées au présent article.
+III. - Un agrément peut être délivré par le ministre chargé des sports aux fédérations qui, en vue de participer à l'exécution d'une mission de service public, ont adopté des statuts et un règlement disciplinaire conformes à des statuts types et à un règlement type définis par décret en Conseil d'Etat, pris après avis du Comité national olympique et sportif français.
 
-Les fédérations sportives sont placées sous la tutelle du ministre chargé des sports, à l'exception de la confédération du sport scolaire et universitaire, des fédérations et unions sportives scolaires et universitaires qui sont placées sous la tutelle du ministre chargé de l'éducation nationale. Toutefois, le ministre chargé des sports participe à la définition et à la mise en oeuvre des objectifs de ces groupements. Les ministres de tutelle veillent, chacun en ce qui le concerne, au respect par les fédérations des lois et règlements en vigueur.
+Ces statuts types comportent des dispositions tendant à ce que les fédérations assurent notamment :
+
+- la promotion de l'éducation par les activités physiques et sportives ;
+
+- l'accès de toutes et de tous à la pratique des activités physiques et sportives ;
+
+- la formation et le perfectionnement des dirigeants, animateurs, formateurs et entraîneurs fédéraux ;
+
+- l'organisation et l'accession à la pratique des activités arbitrales au sein de la discipline, notamment pour les jeunes ;
+
+- le respect des règles techniques, de sécurité, d'encadrement et de déontologie de leur discipline ;
+
+- la délivrance, sous réserve des dispositions particulières de l'article 17, des titres fédéraux ;
+
+- l'organisation de la surveillance médicale de leurs licenciés, dans les conditions prévues par la loi n° 99-223 du 23 mars 1999 précitée ;
+
+- la promotion de la coopération sportive régionale conduite par l'intermédiaire de leurs organes déconcentrés dans les départements et territoires d'outre-mer ;
+
+- la représentation des sportifs dans leurs instances dirigeantes.
+
+IV. - A l'exception des fédérations sportives scolaires, les fédérations visées au présent article sont dirigées par un comité directeur élu par les associations affiliées à la fédération. Les instances délibérantes de leurs organes internes sont élues selon les mêmes procédures.
+
+Chaque association affiliée dispose d'un nombre de voix égal au nombre de licenciés adhérents.
+
+Le décret visé au III détermine les conditions d'application de ces dispositions.
+
+V. - Les fédérations agréées peuvent confier à leurs organes nationaux, régionaux ou départementaux une partie de leurs attributions, dans des conditions conformes aux statuts types mentionnés au premier alinéa du III. Elles contrôlent l'exécution de cette mission et ont notamment accès aux documents relatifs à la gestion et à la comptabilité de ces organes.
+
+Elles peuvent recevoir de l'Etat un concours financier et en personnel dans des conditions fixées par convention.
+
+Elles peuvent également conclure, au profit de leurs associations affiliées ou de certaines catégories d'entre elles et avec l'accord de celles-ci, tout contrat d'intérêt collectif relatif à des opérations d'achat ou de vente de produits ou de services.
+
+Les contrats visés à l'alinéa précédent ne peuvent être conclus sans appel préalable à la concurrence. Leur durée est limitée à quatre ans.
+
+VI. - A l'exception des ligues professionnelles mentionnées au II de l'article 17, les fédérations agréées ne peuvent déléguer tout ou partie des missions de service public visées au présent article. Toute convention contraire est réputée nulle et non écrite.
