@@ -7,3 +7,5 @@ Si la demande fait l'objet d'un avis favorable, un certificat est délivré pour
 En cas d'avis défavorable, aucun des allégements fiscaux et postaux précités ne peut être octroyé.
 
 Le certificat d'inscription cesse de produire effet lorsque la publication ne remplit plus les conditions prévues pour son obtention.
+
+Le certificat indique le nombre moyen d'exemplaires déclarés comme étant déposés à La Poste, par parution.
