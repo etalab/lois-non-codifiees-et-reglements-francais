@@ -20,7 +20,7 @@ Institut national des sciences appliquées de Rouen ;
 
 Institut national des sciences appliquées de Strasbourg ;
 
-Institut supérieur des matériaux et de la construction mécanique ;
+Institut supérieur de mécanique de Paris ;
 
 Université de technologie de Compiègne ;
 
