@@ -20,7 +20,6 @@
 - [Décret n°67-894 du 12 octobre 1967](decret-n67-894-du-12-octobre-1967)
 - [Décret n°67-918 du 12 octobre 1967](decret-n67-918-du-12-octobre-1967)
 - [Décret n°67-1094 du 15 décembre 1967](decret-n67-1094-du-15-decembre-1967)
-- [Décret n°67-228 du 15 mars 1967](decret-n67-228-du-15-mars-1967)
 - [Décret n°67-715 du 16 août 1967](decret-n67-715-du-16-aout-1967)
 - [Décret n°67-223 du 17 mars 1967](decret-n67-223-du-17-mars-1967)
 - [Décret n°67-251 du 17 mars 1967](decret-n67-251-du-17-mars-1967)

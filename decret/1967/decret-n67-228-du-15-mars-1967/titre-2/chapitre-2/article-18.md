@@ -1,3 +1,0 @@
-# Article 18
-
-Avant l'exécution de travaux exceptionnels sur les appareils générateurs électriques de rayonnements ionisants ou les appareils renfermant une source scellée et leurs dispositifs de protection tels que les travaux de réglage, de démontage ou de remontage, de réparation et d'entretien, le débit d'équivalent de dose auquel s'exposeront les travailleurs intéressés doit être calculé et vérifié. Pour chacun de ces travailleurs, le temps d'irradiation doit être déterminé compte tenu du caractère permanent ou occasionnel de son affectation et affiché sur les lieux de travail dans un endroit approprié.
