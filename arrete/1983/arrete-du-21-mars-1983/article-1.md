@@ -1,3 +1,3 @@
 # Article 1
 
-La direction générale des impôts et la direction générale des douanes et des droits indirects sont chargées des opérations d'assiette, de recouvrement, de contrôle, de poursuite des infractions et du traitement du contentieux relatifs à la cotisation perçue au profit de la Caisse nationale de l'assurance maladie des travailleurs salariés sur les boissons alcooliques d'une teneur en alcool supérieure à 25 p. 100 volumiques. Le produit de la cotisation est reversé à l'Agence centrale des organismes de sécurité sociale dans des conditions fixées par convention entre l'Etat et celle-ci.
+Le crédit d'équipement des petites et moyennes entreprises est autorisé à émettre un emprunt de 1.500.000.000 F représenté par 300.000 obligations d'une valeur nominale de 5.000 F.
