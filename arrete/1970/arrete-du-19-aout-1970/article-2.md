@@ -46,7 +46,7 @@ Le directeur des affaires sociales ou son représentant.
 
 5. Le commissaire au PLan ou son représentant.
 
-d) Seize membres représentant les organismes nationaux publics ou privés désignés ci-après, à raison d'un représentant par organisme :
+d) dix-huit membres représentant les organismes nationaux publics ou privés désignés ci-après, à raison d'un représentant par organisme :
 
 1. Caisses d'assurance maladie :
 
@@ -62,7 +62,11 @@ Confédération des syndicats médicaux français ;
 
 Fédération des médecins de France ;
 
+Fédération française des médecins généralistes ;
+
 Syndicat national des médecins, chirurgiens, spécialistes et biologistes des hôpitaux publics ;
+
+Intersyndicale nationale des médecins hospitaliers ;
 
 Fédération nationale des médecins salariés.
 

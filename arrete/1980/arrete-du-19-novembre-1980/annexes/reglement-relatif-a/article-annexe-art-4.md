@@ -10,7 +10,7 @@ Ces cinq odontologistes sont proposés à la désignation du ministre chargé de
 
 Un membre du conseil national de l'ordre des chirurgiens-dentistes.
 
-Un médecin inspecteur de la santé.
+Un représentant du ministre chargé de la santé.
 
 Des suppléants sont désignés suivant la même procédure et en même nombre ; ils siègent en l'absence des titulaires.
 

@@ -1,3 +1,0 @@
-# Article Annexe art. 5
-
-Les demandes de qualification sont adressées par les intéressés au conseil départemental de l'ordre, accompagnées de l'engagement de ne se livrer qu'à l'exercice de l'orthopédie dentofaciale. Le candidat doit faire figurer toutes pièces justificatives à l'appui de sa demande. Les demandes qui ne sont pas assorties du certificat d'études cliniques spéciales mention Orthodontie sont obligatoirement transmises à la commission nationale de première instance par le conseil départemental de l'ordre. Les conclusions de cette commission sont adressées au conseil départemental de l'ordre intéressé.
