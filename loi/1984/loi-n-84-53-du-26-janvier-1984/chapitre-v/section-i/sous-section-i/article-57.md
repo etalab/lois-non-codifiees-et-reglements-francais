@@ -18,7 +18,7 @@ La collectivité et subrogée dans les droits éventuels du fonctionnaire victim
 
 Le fonctionnaire qui a obtenu un congé de longue maladie ne peut bénéficier d'un autre congé de cette nature s'il n'a pas auparavant repris l'exercice de ses fonctions pendant un an.
 
-Les dispositions des deuxième, troisième et quatrième alinéas du 2° du présent article sont applicables aux congés de longue maladie  ;
+Les dispositions des deuxième, troisième et quatrième alinéas du 2° du présent article sont applicables aux congés de longue maladie ;
 
 4° A un congé de longue durée, en cas de tuberculose, maladie mentale, affection cancéreuse, poliomyélite ou déficit immunitaire grave et acquis, de trois ans à plein traitement et de deux ans à demi-traitement. Le fonctionnaire conserve ses droits à la totalité du supplément familial de traitement et de l'indemnité de résidence.
 
@@ -59,3 +59,5 @@ Bénéficient du même congé les fonctionnaires atteints d'infirmités ayant ou
 - de la loi n° 55-1074 du 6 août 1955 relative aux avantages accordés aux personnels militaires participant au maintien de l'ordre dans certaines circonstances, complétée par l'ordonnance n° 59-261 du 4 février 1959 modifiant certaines dispositions du code des pensions militaires d'invalidité et des victimes de la guerre ;
 
 - et de la loi n° 59-901 du 31 juillet 1959 relative à la réparation des dommages physiques subis en métropole par les personnes de nationalité française, par suite des événements qui se déroulent en Algérie.
+
+10° A un congé d'accompagnement d'une personne en fin de vie lorsqu'un ascendant ou un descendant ou une personne partageant son domicile fait l'objet de soins palliatifs. Ce congé non rémunéré est accordé pour une durée maximale de trois mois, sur demande écrite du fonctionnaire. Le congé d'accompagnement d'une personne en fin de vie prend fin soit à l'expiration de la période de trois mois, soit dans les trois jours qui suivent le décès de la personne accompagnée, soit à une date antérieure. La durée de ce congé est assimilée à une période de service effectif. Elle ne peut être imputée sur la durée du congé annuel.
