@@ -1,0 +1,5 @@
+# Article 21
+
+En cas de désaccord avec les propositions de l'établissement, l'autorité compétente pour l'assurance maladie fait connaître, dans un délai de soixante jours à compter de la réception des propositions budgétaires votées par le conseil d'administration, au représentant qualifié de l'établissement, les décisions qu'elle envisage de prendre concernant les tarifs journaliers soins.
+
+Dans les huit jours suivant cette notification, le représentant qualifié de l'établissement a la faculté d'adresser à l'autorité compétente pour l'assurance maladie un rapport exposant les raisons qui justifieraient, selon lui, l'adoption totale ou partielle de ses propositions initiales. Passé ce délai, et après publication de la loi de financement de la sécurité sociale, l'autorité compétente pour l'assurance maladie fixe le montant global des dépenses et des recettes et arrête le montant des tarifs journaliers afférents aux soins ainsi que la dotation globale de financement afférente aux soins qui est versée chaque mois à l'établissement.

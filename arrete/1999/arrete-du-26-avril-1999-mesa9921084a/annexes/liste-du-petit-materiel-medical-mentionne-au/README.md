@@ -1,0 +1,3 @@
+# LISTE DU PETIT MATÉRIEL MÉDICAL MENTIONNÉ AU 5° DE L'ARTICLE 1er DU PRÉSENT ARRÊTÉ.
+
+- [Article ANNEXE I](article-annexe-i.md)

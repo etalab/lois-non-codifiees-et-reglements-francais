@@ -1,0 +1,3 @@
+# Article 16
+
+Afin de comparer le niveau des prestations délivrées et de contribuer à une allocation optimale des ressources entre établissements, le président du conseil général calcule la valeur nette moyenne départementale du point relatif à la dépendance concernant les établissements du département relevant de l'article 1er du présent décret. Cette valeur est égale au quotient des charges nettes, constatées au dernier compte administratif, et qui entrent dans le calcul du tarif journalier afférent à la dépendance, par le nombre de points dans les groupes iso-ressources 1 à 6, issu de la valorisation prévue au premier alinéa de l'article 14 pour le même exercice.

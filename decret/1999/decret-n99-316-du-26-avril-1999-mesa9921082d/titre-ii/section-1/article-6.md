@@ -1,0 +1,11 @@
+# Article 6
+
+Les charges de personnel afférentes aux aides- soignants et aux aides médico-psychologiques ainsi que leurs charges sociales et fiscales figurent concurremment aux sections d'imputation tarifaire relatives respectivement à la dépendance et aux soins.
+
+Ces charges sont réparties entre les deux sections précitées à raison de :
+
+a) 30 % sur la section d'imputation tarifaire relative à la dépendance, au titre des activités de ces personnels qui correspondent aux prestations définies à l'article 3 ;
+
+b) 70 % sur la section d'imputation tarifaire relative aux soins, au titre des activités de ces personnels qui correspondent aux prestations définies à l'article 4.
+
+Cette répartition constitue la référence à atteindre au terme de la cinquième année d'exécution de la convention mentionnée à l'article 5-1 de la loi du 30 juin 1975, conformément aux dispositions de l'article 21 du présent décret.
