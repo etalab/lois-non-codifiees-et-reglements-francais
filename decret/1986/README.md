@@ -335,7 +335,6 @@
 - [Décret n°86-259 du 18 février 1986](decret-n86-259-du-18-fevrier-1986)
 - [Décret n°86-260 du 18 février 1986](decret-n86-260-du-18-fevrier-1986)
 - [Décret n°86-267 du 18 février 1986](decret-n86-267-du-18-fevrier-1986)
-- [Décret n°86-270 du 18 février 1986](decret-n86-270-du-18-fevrier-1986)
 - [Décret n°86-649 du 18 mars 1986](decret-n86-649-du-18-mars-1986)
 - [Décret n°86-651 du 18 mars 1986](decret-n86-651-du-18-mars-1986)
 - [Décret n°86-652 du 18 mars 1986](decret-n86-652-du-18-mars-1986)
