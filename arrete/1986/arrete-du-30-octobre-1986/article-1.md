@@ -1,5 +1,3 @@
 # Article 1
 
-Les salariés bénéficiant du congé pour la représentation d'associations familiales visés à l'article 16 du code de la famille et de l'aide sociale ont droit à une autorisation d'absence qui ne peut excéder quarante heures par an [*délai*].
-
-Cette disposition est applicable, à titre transitoire, pour une période de deux ans.
+Par dérogation aux dispositions de l'article 5 de l'arrêté du 24 décembre 1984 susvisé, les organismes agréés extra-hospitaliers et les laboratoires agréés de recherche qui accueillent des internes inscrits aux diplômes d'études spécialisées de médecine du travail, de santé communautaire et médecine sociale, de santé publique et médecine sociale, de pharmacie et santé publique, de pharmacie hospitalière et des collectivités, de pharmacie industrielle et bio-médicale et de pharmacie spécialisée, des internes de la filière de recherche et des internes qui, en application de l'arrêté du 27 septembre 1985 susvisé, effectuent une année-recherche n'assurent pas le remboursement aux centres hospitaliers régionaux de rattachement des dépenses de toute nature concernant ces internes. Ces dépenses sont prises en charge par le budget du ministère des affaires sociales dans la limite des crédits prévus à cet effet.

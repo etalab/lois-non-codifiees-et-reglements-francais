@@ -725,6 +725,7 @@
 - [Décret n°92-1029 du 23 septembre 1992 (AGRG9201288D)](decret-n92-1029-du-23-septembre-1992-agrg9201288d)
 - [Décret n°92-1046 du 23 septembre 1992 (SPSS9201813D)](decret-n92-1046-du-23-septembre-1992-spss9201813d)
 - [Décret n°92-1047 du 23 septembre 1992 (SANP9201783D)](decret-n92-1047-du-23-septembre-1992-sanp9201783d)
+- [Décret n°92-1174 du 23 octobre 1992 (MAEJ9230059D)](decret-n92-1174-du-23-octobre-1992-maej9230059d)
 - [Décret n°92-1343 du 23 décembre 1992 (INTC9200514D)](decret-n92-1343-du-23-decembre-1992-intc9200514d)
 - [Décret n°92-1344 du 23 décembre 1992 (INTC9200515D)](decret-n92-1344-du-23-decembre-1992-intc9200515d)
 - [Décret n°92-260 du 23 mars 1992 (MCCB9200084D)](decret-n92-260-du-23-mars-1992-mccb9200084d)
