@@ -613,7 +613,6 @@
 - [Arrêté du 28 janvier 1988 (MDSC8800042A)](arrete-du-28-janvier-1988-mdsc8800042a)
 - [Arrêté du 28 janvier 1988 (MERR8800017A)](arrete-du-28-janvier-1988-merr8800017a)
 - [Arrêté du 28 juillet 1988 (AGRS8801453A)](arrete-du-28-juillet-1988-agrs8801453a)
-- [Arrêté du 28 juillet 1988 (SPSP8801084A)](arrete-du-28-juillet-1988-spsp8801084a)
 - [Arrêté du 28 juillet 1988 (TRSS8800380A)](arrete-du-28-juillet-1988-trss8800380a)
 - [Arrêté du 28 mars 1988 (ECOT8820063A)](arrete-du-28-mars-1988-ecot8820063a)
 - [Arrêté du 28 mars 1988 (EQUC8800326A)](arrete-du-28-mars-1988-equc8800326a)
