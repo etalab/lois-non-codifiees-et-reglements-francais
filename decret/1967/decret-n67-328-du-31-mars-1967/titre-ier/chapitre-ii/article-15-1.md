@@ -1,0 +1,5 @@
+# Article 15-1
+
+Les fonctionnaires nommés au titre du b de l'article 6 ci-dessus qui percevaient dans leur ancienne situation une rémunération supérieure à celle afférente au 7e échelon de la 2e classe des administrateurs peuvent, après avis de la commission administrative paritaire compétente, être titularisés à l'échelon de la 1ere classe comportant un traitement égal ou, à défaut, immédiatement supérieur à celui dont ils bénéficiaient dans leur corps d'origine sous réserve qu'ils justifient dans ce corps et dans les emplois leur ayant ouvert droit à nomination en qualité de chargé de mission titulaire d'une ancienneté de service au moins équivalente à celle prévue pour parvenir normalement à la 1ere classe et dans cette classe à l'échelon considéré en application des dispositions des articles 16 et 17 ci-après.
+
+Sinon, ils sont titularisés à la classe et à l'échelon correspondant, en application des dispositions des articles 16 et 17 ci-après, à la durée des services dont ils justifient dans leur corps d'origine et dans les emplois leur ayant ouvert droit à nomination en qualité de chargé de mission titulaire.

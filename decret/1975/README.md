@@ -1,6 +1,7 @@
 # 1975
 
 - [Décret n°75-614 du 2 juillet 1975](decret-n75-614-du-2-juillet-1975)
+- [Décret n°75-820 du 2 septembre 1975](decret-n75-820-du-2-septembre-1975)
 - [Décret du 3 mars 1975](decret-du-3-mars-1975)
 - [Décret n°69-104 du 3 février 1969](decret-n69-104-du-3-fevrier-1969)
 - [Décret n°75-119 du 3 mars 1975](decret-n75-119-du-3-mars-1975)
