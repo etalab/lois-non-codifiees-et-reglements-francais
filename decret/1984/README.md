@@ -133,6 +133,7 @@
 - [Décret n°84-632 du 16 juillet 1984](decret-n84-632-du-16-juillet-1984)
 - [Décret n°84-681 du 16 juillet 1984](decret-n84-681-du-16-juillet-1984)
 - [Décret n°84-789 du 16 août 1984](decret-n84-789-du-16-aout-1984)
+- [Décret n°84-919 du 16 octobre 1984](decret-n84-919-du-16-octobre-1984)
 - [Décret n°84-371 du 16 mai 1984](decret-n84-371-du-16-mai-1984)
 - [Décret du 17 juillet 1984](decret-du-17-juillet-1984)
 - [Décret n°84-110 du 17 février 1984](decret-n84-110-du-17-fevrier-1984)
