@@ -1,5 +1,6 @@
 # 1978
 
+- [Arrêté du 2 février 1978](arrete-du-2-fevrier-1978)
 - [Arrêté du 3 janvier 1978](arrete-du-3-janvier-1978)
 - [Arrêté du 6 septembre 1978](arrete-du-6-septembre-1978)
 - [Arrêté du 9 février 1978](arrete-du-9-fevrier-1978)
