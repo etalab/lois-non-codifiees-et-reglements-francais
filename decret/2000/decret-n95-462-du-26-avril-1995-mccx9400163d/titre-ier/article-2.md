@@ -1,7 +1,15 @@
 # Article 2
 
-La Caisse nationale des monuments historiques et des sites est chargée de présenter au public les monuments historiques classés ou inscrits sur l'inventaire supplémentaire en application de la loi du 31 décembre 1913 susvisée et les sites classés en application de la loi du 2 mai 1930 susvisée, appartenant à l'Etat, qui figurent sur une liste établie par arrêté du ministre chargé de la culture, d'en développer la fréquentation et d'en favoriser la connaissance et de gérer les immeubles qui font partie du patrimoine propre de cet établissement public.
+Le Centre des monuments nationaux a pour mission de présenter au public les monuments nationaux ainsi que leurs collections, dont il a la garde, d'en développer la fréquentation et d'en favoriser la connaissance.
 
-Elle est placée sous la tutelle du ministre chargé de la culture.
+Les monuments nationaux sont :
+
+- les monuments historiques classés ou inscrits sur l'inventaire supplémentaire en application de la loi du 31 décembre 1913 susvisée qui, appartenant à l'Etat et affectés au ministère chargé de la culture, figurent sur une liste établie par arrêté du ministre chargé de la culture.
+
+- les monuments historiques classés ou inscrits sur l'inventaire supplémentaire en application de la même loi qui font partie du patrimoine propre de l'établissement.
+
+L'établissement assure également l'édition sur tous supports de publications relatives au patrimoine. Il peut participer à des actions de coopération internationale dans le domaine du patrimoine.
+
+L'établissement est placé sous la tutelle du ministre chargé de la culture.
 
 Son siège est à Paris.

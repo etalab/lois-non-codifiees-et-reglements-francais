@@ -1,6 +1,6 @@
 # Article 12
 
-Le président de la Caisse nationale des monuments historiques et des sites dirige l'établissement public. A ce titre :
+Le président du Centre des monuments nationaux dirige l'établissement public. A ce titre :
 
 1° Il prépare les délibérations du conseil d'administration et en assure l'exécution ;
 
@@ -12,8 +12,8 @@ Le président de la Caisse nationale des monuments historiques et des sites diri
 
 5° Il crée des régies d'avances et des régies de recettes sur avis conforme de l'agent comptable ;
 
-6° Sur propositions du directeur, il nomme à toutes les fonctions pour lesquelles le pouvoir de nomination n'appartient à aucune autre autorité et recrute les personnels contractuels ;
+6° Il a autorité sur les personnels et les affecte au sein de l'établissement sur proposition du directeur ; il gère et recrute les personnels contractuels ;
 
 7° Il préside le comité technique paritaire et le comité d'hygiène et de sécurité.
 
-Sauf dans les cas mentionnés aux 4° et 5° du présent article, le président peut déléguer sa signature au directeur et aux responsables des services de l'établissement, notamment aux administrateurs de monuments.
+Sauf dans les cas mentionnés aux 4° et 5° du présent article, le président peut déléguer sa signature au directeur et aux responsables des services de l'établissement, notamment aux administrateurs de monuments. Toutefois, il ne peut déléguer sa signature, pour la gestion et le recrutement des personnels contractuels, qu'au directeur et aux chefs de service.
