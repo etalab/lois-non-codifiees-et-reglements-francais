@@ -351,6 +351,7 @@
 - [Décret n°2001-865 du 21 septembre 2001 (MESC0111336D)](decret-n2001-865-du-21-septembre-2001-mesc0111336d)
 - [Décret n°2001-1099 du 22 novembre 2001 (JUSB0110484D)](decret-n2001-1099-du-22-novembre-2001-jusb0110484d)
 - [Décret n°2001-1104 du 22 novembre 2001 (AGRS0101964D)](decret-n2001-1104-du-22-novembre-2001-agrs0101964d)
+- [Décret n°2001-248 du 22 mars 2001 (MESG0120072D)](decret-n2001-248-du-22-mars-2001-mesg0120072d)
 - [Décret n°2001-251 du 22 mars 2001 (EQUS0100055D)](decret-n2001-251-du-22-mars-2001-equs0100055d)
 - [Décret n°2001-737 du 22 août 2001 (PRMX0105055D)](decret-n2001-737-du-22-aout-2001-prmx0105055d)
 - [Décret n°2001-961 du 22 octobre 2001 (AGRE0101496D)](decret-n2001-961-du-22-octobre-2001-agre0101496d)
