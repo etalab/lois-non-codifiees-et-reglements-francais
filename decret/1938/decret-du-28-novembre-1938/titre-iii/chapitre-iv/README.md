@@ -1,5 +1,6 @@
 # CHAPITRE IV : DISPOSITIONS SPECIALES RELATIVES AUX MOYENS DE TRANSPORT, AUX EVACUATIONS ET AU RAVITAILLEMENT DE LA POPULATION CIVILE.
 
 - [Article 51](article-51.md)
+- [Article 52](article-52.md)
+- [Article 53](article-53.md)
 - [Article 54](article-54.md)
-- [Article 54 bis](article-54-bis.md)
