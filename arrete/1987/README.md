@@ -170,7 +170,6 @@
 - [Arrêté du 9 juillet 1987 (MENL8700416A)](arrete-du-9-juillet-1987-menl8700416a)
 - [Arrêté du 9 juillet 1987 (PTTC8700363A)](arrete-du-9-juillet-1987-pttc8700363a)
 - [Arrêté du 9 juin 1987 (ASED8703436A)](arrete-du-9-juin-1987-ased8703436a)
-- [Arrêté du 9 juin 1987 (ASED8703437A)](arrete-du-9-juin-1987-ased8703437a)
 - [Arrêté du 9 mars 1987 (ASES8700410A)](arrete-du-9-mars-1987-ases8700410a)
 - [Arrêté du 9 mars 1987 (ASES8700444A)](arrete-du-9-mars-1987-ases8700444a)
 - [Arrêté du 9 mars 1987 (DEFP8701108A)](arrete-du-9-mars-1987-defp8701108a)
