@@ -70,6 +70,7 @@
 - [Arrêté du 14 juin 1982](arrete-du-14-juin-1982)
 - [Arrêté du 14 octobre 1982](arrete-du-14-octobre-1982)
 - [Arrêté du 14 mai 1982](arrete-du-14-mai-1982)
+- [Arrêté du 15 décembre 1982](arrete-du-15-decembre-1982)
 - [Arrêté du 15 février 1982](arrete-du-15-fevrier-1982)
 - [Arrêté du 15 janvier 1982](arrete-du-15-janvier-1982)
 - [Arrêté du 15 juillet 1982](arrete-du-15-juillet-1982)

@@ -1,0 +1,6 @@
+# Décret n°82-1075 du 15 décembre 1982 RELATIF A L'APPLICATION DE LA LOI 82-372 DU 6 MAI 1982 AUX AGENTS DES CONSEILS DE PRUD'HOMMES INDUSTRIELS ET COMMERCIAUX DES DEPARTEMENTS DU BAS-RHIN, DU HAUT-RHIN ET DE LA MOSELLE.
+
+- [Article 1](article-1.md)
+- [Article 2](article-2.md)
+- [Article 3](article-3.md)
+- [Article 4](article-4.md)
