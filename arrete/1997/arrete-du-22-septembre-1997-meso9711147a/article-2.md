@@ -6,6 +6,4 @@ Sont rattachées au directeur et à son adjoint :
 
 - la mission "analyse économique" ;
 
-- la mission " actions régionales" ;
-
-- la cellule " publications et diffusion".
+- la mission " actions régionales".
