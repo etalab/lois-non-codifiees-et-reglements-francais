@@ -14,10 +14,8 @@ trente minutes avec préparation de même durée ; coefficient 4) ;
 
 4° Une épreuve facultative choisie par le candidat au moment de son inscription parmi les épreuves suivantes :
 
-a) Une épreuve orale de langue vivante étrangère comportant la lecture et la traduction, sans dictionnaire, d'un texte suivies d'une conversation, dans l'une des langues étrangères suivantes : allemand, anglais, arabe moderne, chinois, danois, espagnol, grec moderne, hébreu, italien, japonais, néerlandais, polonais, portugais et russe (durée : trente minutes avec préparation de même durée ; coefficient 2) ;
+a) Une épreuve orale de langue vivante étrangère comportant la lecture et la traduction, sans dictionnaire, d'un texte suivies d'une conversation, dans l'une des langues étrangères suivantes : allemand, anglais, arabe moderne, espagnol, grec moderne, italien, néerlandais, portugais et russe (durée : trente minutes avec préparation de même durée ; coefficient 2) ;
 
 b) Une épreuve orale portant sur les éléments fondamentaux en matière d'organisation informatique, de logiciels de base et de nouvelles technologies de l'information (durée : vingt minutes avec préparation de même durée ; coefficient 2).
 
 Seuls sont pris en compte pour l'admission les points au-dessus de la moyenne.
-
-5° Une épreuve facultative d'exercices physiques (coefficient 1). Seuls sont pris en compte pour l'admission les points au-dessus de la moyenne.
