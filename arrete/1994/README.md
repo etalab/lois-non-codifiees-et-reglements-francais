@@ -1170,7 +1170,6 @@
 - [Arrêté du 30 décembre 1993 (SPSS9400537A)](arrete-du-30-decembre-1993-spss9400537a)
 - [Arrêté du 30 décembre 1994 (BUDB9430092A)](arrete-du-30-decembre-1994-budb9430092a)
 - [Arrêté du 30 décembre 1994 (INDD9401493A)](arrete-du-30-decembre-1994-indd9401493a)
-- [Arrêté du 30 décembre 1994 (INDH9401460A)](arrete-du-30-decembre-1994-indh9401460a)
 - [Arrêté du 30 décembre 1994 (JUSC9421078A)](arrete-du-30-decembre-1994-jusc9421078a)
 - [Arrêté du 30 décembre 1994 (MENF9500597A)](arrete-du-30-decembre-1994-menf9500597a)
 - [Arrêté du 30 janvier 1995 (COPC9500014A)](arrete-du-30-janvier-1995-copc9500014a)
