@@ -1,0 +1,5 @@
+# Article 15
+
+Les conservateurs de musées classés en fonctions à la date de la mise en vigueur du décret de classement de leur musée sont soumis an nouveau statut de leur emploi jusqu'à la limite d'âge de cet emploi fixée par application de la loi du 18 août 1936 s'ils possèdent les titres exigés par ledit statut. S'ils ne possèdent pas ces titres, leurs autres titres seront examinés dans les conditions qui seront fixées par le décret d'application de la présente ordonnance afin de déterminer s'ils doivent être, soit admis au statut nouveau, soit maintenus dans leur ancien statut, ce maintien ne pouvant toutefois, avoir pour effet de prolonger leurs fonctions au delà des limites d'âge résultant de l'application de la loi du 18 août 1936.
+
+Dans l'un et l'autre cas, l'admission éventuelle de ces conservateurs au nouveau au statut prend effet, pour l'ancienneté de classe, du 1er juillet 1941 s'ils étaient en fonctions à cette date, de la date de leur entrée en fonctions si elle est postérieure au 1er juillet 1941.
