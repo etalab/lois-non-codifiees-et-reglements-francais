@@ -1,0 +1,5 @@
+# Article 2
+
+Dans les ports désignés à l'article 1er, sont institués les bureaux centraux de la main-d'oeuvre suivants :
+
+Dunkerque, Calais, Boulogne, Le Tréport, Dieppe, Fécamp, Le Havre, Rouen, Honfleur, Caen, Cherbourg, Saint-Malo, Roscoff, Brest, Douarnenez, Concarneau, Lorient, Saint-Nazaire (installations portuaires du Port autonome de Nantes - Saint-Nazaire situées sur le territoire des communes de Saint-Nazaire, Montoir-de-Bretagne, Donges, Frossay et Saint-Viaud), Nantes (installations portuaires du Port autonome de Nantes - Saint-Nazaire situées sur le territoire des communes de Nantes, Rezé et Bourguenais), La Rochelle, Bordeaux - Le Verdon, Bayonne, Port-Vendres, Port-la-Nouvelle, Sète, Marseille-Ouest (installations portuaires du Port autonome de Marseille situées sur le territoire des communes de Chateauneuf-lès-Martigues, Martigues, Port-de-Bouc, Fos-sur-Mer, Port-Saint-Louis-du-Rhône et Arles), Marseille-Est (installations portuaires du Port autonome de Marseille situées sur le territoire de la commune de Marseille), Toulon, Nice, Bastia et Ajaccio.

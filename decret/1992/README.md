@@ -383,6 +383,8 @@
 - [Décret n°87-663 du 12 août 1987 (PTTP8700481D)](decret-n87-663-du-12-aout-1987-pttp8700481d)
 - [Décret n°88-48 du 12 janvier 1988 (DEFP8701758D)](decret-n88-48-du-12-janvier-1988-defp8701758d)
 - [Décret n°89-737 du 12 octobre 1989 (PTTC8900302D)](decret-n89-737-du-12-octobre-1989-pttc8900302d)
+- [Décret n°92-1130 du 12 octobre 1992 (MERR9200049D)](decret-n92-1130-du-12-octobre-1992-merr9200049d)
+- [Décret n°92-1131 du 12 octobre 1992 (MERR9200048D)](decret-n92-1131-du-12-octobre-1992-merr9200048d)
 - [Décret n°92-138 du 12 février 1992 (SPSS9102791D)](decret-n92-138-du-12-fevrier-1992-spss9102791d)
 - [Décret n°92-145 du 12 février 1992 (ECOC9100135D)](decret-n92-145-du-12-fevrier-1992-ecoc9100135d)
 - [Décret n°92-228 du 12 mars 1992 (JUSC9121055D)](decret-n92-228-du-12-mars-1992-jusc9121055d)
