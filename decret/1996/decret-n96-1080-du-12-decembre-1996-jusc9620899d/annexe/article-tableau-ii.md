@@ -74,6 +74,21 @@ FORMALITÉS, REQUÊTES ET DILIGENCES
 </td>
 </tr>
 <tr>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="center">3 bis</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Etablissement du certificat de<br/>non-contestation par l'huissier de<br/>justice qui a procédé à la saisie.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Article 61 du décret n° 92-755<br/>du 31 juillet 1992.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">10</p>
+</td>
+</tr>
+<tr>
 <td rowspan="4" valign="top" width="97">
 <p>Incidents et difficultés d'exécution.</p>
 </td>
@@ -257,7 +272,7 @@ FORMALITÉS, REQUÊTES ET DILIGENCES
 <p>Notification au tiers de l'acte de saisie-appréhension.</p>
 </td>
 <td valign="top" width="211">
-<p>Art. 148, alinéa 2, du décret n° 92-755 du 31 juillet 1992.</p>
+<p>Art. 148, alinéa 2, du décret<br/>n° 92-755 du 31 juillet 1992.</p>
 </td>
 <td valign="top" width="98">
 <p align="center">7</p>
@@ -322,7 +337,7 @@ FORMALITÉS, REQUÊTES ET DILIGENCES
 <p>Lettre au débiteur l'informant de l'immobilisafion de son véhicule.</p>
 </td>
 <td valign="top" width="211">
-<p>Art. 173 du décret n° 92-755 du 31 juillet 1992.</p>
+<p>Art. 173 du décret n° 92-755 du<br/>31 juillet 1992.</p>
 </td>
 <td valign="top" width="98">
 <p align="center">10</p>
@@ -336,7 +351,7 @@ FORMALITÉS, REQUÊTES ET DILIGENCES
 <p>Information au créancier gagiste des propositions de vente amiable ou de la mise en vente aux enchères du véhicule.</p>
 </td>
 <td valign="top" width="211">
-<p>Art. 175 du décret n° 92-755 du 31 juillet 1992.</p>
+<p>Art. 175 du décret n° 92-755 du<br/>31 juillet 1992.</p>
 </td>
 <td valign="top" width="98">
 <p align="center">10</p>
@@ -353,7 +368,7 @@ FORMALITÉS, REQUÊTES ET DILIGENCES
 <p>Requête au secrétariat-greffe du juge de l'exécution d'un certificat de non-contestation.</p>
 </td>
 <td valign="top" width="211">
-<p>Art. 185 du décret n° 92-755 du 31 juillet 1992.</p>
+<p>Art. 185 du décret n° 92-755 du<br/>31 juillet 1992.</p>
 </td>
 <td valign="top" width="98">
 <p align="center">10</p>
@@ -388,20 +403,34 @@ FORMALITÉS, REQUÊTES ET DILIGENCES
 </td>
 </tr>
 <tr>
-<td rowspan="4" valign="top" width="97">
+<td rowspan="5" valign="top" width="97">
 <p>Expulsion.</p>
 </td>
 <td valign="top" width="57">
 <p align="center">24</p>
 </td>
 <td valign="top" width="215">
-<p>Information au représentant de l'Etat du commandement d'avoir à quitter les lieux.</p>
+<p align="left">Information au représentant de l'Etat de l'assignation aux fins de constat de résiliation du bail.</p>
 </td>
 <td valign="top" width="211">
-<p>Art. 62 de la loi n° 91-650 du 9 juillet 1991.</p>
-<p>Art. 197 du décret n° 92-755 du 31 juillet 1992.</p>
+<p align="left">Article 24 de la loi n° 89-462 du 6 juillet 1989, modifiée par<br/>la loi n° 98-657 du 29 juillet 1998.</p>
 </td>
 <td valign="top" width="98">
+<p align="center">14</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="center">24 bis</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Information au représentant de<br/>l'Etat du commandement d'avoir<br/>à quitter les lieux.</p>
+</td>
+<td align="left" valign="top">
+<p>Art. 62 de la loi n° 91-650 du<br/>9 juillet 1991.</p>
+<p>Art. 197 du décret n° 92-755 du<br/>31 juillet 1992.</p>
+</td>
+<td align="left" valign="top">
 <p align="center">14</p>
 </td>
 </tr>
