@@ -12,8 +12,6 @@ L'office ne peut être saisi d'une demande de reconnaissance de la qualité de r
 
 Lorsqu'en application des articles 10 et 11 de la présente loi, l'autorisation provisoire de séjour est refusée, retirée ou son renouvellement refusé pour l'un des motifs mentionnés du 2° au 4° de l'article 10 de la présente loi, l'Office français de protection des réfugiés et apatrides statue par priorité sur la demande de reconnaissance de la qualité de réfugié.
 
-L'office n'est pas compétent pour connaître de la demande présentée par un demandeur d'asile à l'égard duquel le représentant de l'Etat dans le département ou, à Paris, le prefêt de police, fait application du 1° de l'article 31 bis de cette ordonnance.
-
-Article 31
+L'office n'est pas compétent pour connaître de la demande présentée par un demandeur d'asile à l'égard duquel le représentant de l'Etat dans le département ou, à Paris, le prefêt de police, fait application du 1° de l'article 10 de la présente loi.
 
 Sans préjudice des autres voies d'admission à l'asile territorial, le directeur de l'office ou le président de la commission des recours saisit le ministre de l'intérieur du cas de toute personne à laquelle la qualité de réfugié n'a pas été reconnue mais dont ils estiment qu'elle relève de l'asile territorial.
