@@ -766,6 +766,7 @@
 - [Décret n°95-1051 du 20 septembre 1995 (EQUE9500995D)](decret-n95-1051-du-20-septembre-1995-eque9500995d)
 - [Décret n°95-1054 du 20 septembre 1995 (AGRS9501380D)](decret-n95-1054-du-20-septembre-1995-agrs9501380d)
 - [Décret n°95-1061 du 20 septembre 1995 (REFB9500286D)](decret-n95-1061-du-20-septembre-1995-refb9500286d)
+- [Décret n°95-1241 du 20 novembre 1995 (MAEJ9530086D)](decret-n95-1241-du-20-novembre-1995-maej9530086d)
 - [Décret n°95-175 du 20 février 1995 (TEFF9500115D)](decret-n95-175-du-20-fevrier-1995-teff9500115d)
 - [Décret n°95-178 du 20 février 1995 (FPPA9500024D)](decret-n95-178-du-20-fevrier-1995-fppa9500024d)
 - [Décret n°95-179 du 20 février 1995 (FPPA9500025D)](decret-n95-179-du-20-fevrier-1995-fppa9500025d)
