@@ -6,4 +6,4 @@ Elle ne délivre la marchandise à l'acheteur que sur le vu du procès-verbal de
 
 1° La justification du paiement des droits et frais privilégiés, ainsi que le montant de la somme revenant au porteur du warrant dans la limite de la somme prêtée ;
 
-2° La consignation de l'excédent, s'il en existe, revenant au porteur du récépissé, dans le cas prévu dans le dernier paragraphe de l'article 28 de l'ordonnance susvisée.
+2° La consignation de l'excédent, s'il en existe, revenant au porteur du récépissé, dans le cas prévu dans le dernier paragraphe de l'article L. 522-32 du code de commerce.

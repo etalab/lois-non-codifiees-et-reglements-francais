@@ -8,4 +8,4 @@ Il a libre accès aux établissements placés sous son contrôle et peut procéd
 
 Lorsque l'exploitant est une société, le préfet reçoit communication de toutes modifications intervenues dans la présidence ou la gérance, dans le mois qui suit l'entrée en fonction du nouveau président ou gérant.
 
-L'inspecteur général de la production industrielle a délégation permanente pour exercer ce contrôle. Il peut proposer au préfet le retrait de l'agrément dans les cas et formes prévus à l'article 35 de l'ordonnance susvisée.
+L'inspecteur général de la production industrielle a délégation permanente pour exercer ce contrôle. Il peut proposer au préfet le retrait de l'agrément dans les cas et formes prévus à l'article L. 522-39 du code de commerce.

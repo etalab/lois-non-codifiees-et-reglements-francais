@@ -1,6 +1,6 @@
 # Article 1
 
-Les demandes d'agrément prévues à l'article 1er de l'ordonnance n° 45-1744 du 6 août 1945 sont déposées à la préfecture par l'exploitant de l'entrepôt intéressé.
+Les demandes d'agrément prévues à l'article L. 522-1 du code de commerce sont déposées à la préfecture par l'exploitant de l'entrepôt intéressé.
 
 Elles sont accompagnées des pièces suivantes :
 
@@ -22,6 +22,6 @@ Aux pièces prévues aux alinéas a et b du paragraphe précédent, il est subst
 
 S'il s'agit d'une société en formation, un projet des statuts et la liste des associés devant souscrire plus de 10 % du capital social ;
 
-S'il s'agit d'une société constituée, une déclaration de conformité avec les dispositions de l'article 8 de l'ordonnance susvisée.
+S'il s'agit d'une société constituée, une déclaration de conformité avec les dispositions de l'article L. 522-6 du code de commerce.
 
 Le préfet, en outre, peut exiger toutes pièces propres à établir l'identité, la moralité et la situation financière de l'exploitant.

@@ -1,6 +1,6 @@
 # Article 8
 
-Le ou les règlements-types prévus à l'article 11 de l'ordonnance susvisée seront élaborés par l'office professionnel des magasins généraux et entrepôts, et soumis, dans le délai de six mois qui suivra la publication de l'ordonnance susvisée, à l'homologation du ministre chargé de la production industrielle.
+Le ou les règlements-types prévus à l'article L. 522-13 du code de commerce seront élaborés par l'office professionnel des magasins généraux et entrepôts, et soumis, dans le délai de six mois qui suivra la publication de l'ordonnance susvisée, à l'homologation du ministre chargé de la production industrielle.
 
 Ces règlements comporteront pour l'exploitant l'obligation de mettre par priorité et sans préférence ni faveur, les emplacements de l'entrepôt disponibles à la présentation de la marchandise, à la disposition des personnes voulant opérer le magasinage dans les conditions fixées par l'ordonnance susvisée.
 
