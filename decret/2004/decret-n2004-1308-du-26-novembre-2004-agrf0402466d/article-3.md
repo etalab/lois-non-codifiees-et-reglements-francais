@@ -1,0 +1,5 @@
+# Article 3
+
+Pour les projets d'installation agréés par le préfet entre le 1er janvier 2004 et la date d'entrée en vigueur du présent décret, la première fraction de la dotation est versée dans le délai de trois mois à compter de la constatation de la date d'installation par le préfet. La seconde fraction est versée, sur décision du préfet, au cours de la première année qui suit l'installation effective du bénéficiaire.
+
+Les bénéficiaires de prêts à moyen terme spéciaux aux jeunes agriculteurs installés avant l'entrée en vigueur du présent décret demeurent régis par les dispositions de la section II du chapitre III du titre IV du livre III du code rural en vigueur à la date d'agrément de leur dossier d'installation, à l'exception des dispositions de celles des 3°, 5° à 8° de l'article R. 343-5, 3°, et de l'article R. 343-6 du code rural. Les dispositions des 4° à 7° de l'article R. 343-5 et celles de l'article R. 343-6 du code dans leur rédaction résultant du présent décret leur sont applicables dès l'entrée en vigueur du décret.

@@ -1,0 +1,3 @@
+# Article 9 bis
+
+Pour l'application du quatrième alinéa de l'article 10 de la loi du 10 février 2000 susvisée, les producteurs qui, à la date du 11 août 2004, avaient déposé une demande écrite de contrat d'achat auprès de l'acheteur concerné et qui disposaient, pour l'installation en cause, d'un certificat ouvrant droit à l'obligation d'achat d'électricité dans le cas où un tel certificat est requis peuvent bénéficier d'un contrat d'achat aux tarifs définis à l'annexe 2 de l'arrêté de la filière concernée ou des dispositions correspondantes. Ce contrat prend effet à la date d'échéance du contrat précédent.
