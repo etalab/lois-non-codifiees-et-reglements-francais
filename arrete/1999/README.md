@@ -400,6 +400,7 @@
 - [Arrêté du 18 mars 1999 (MENE9900514A)](arrete-du-18-mars-1999-mene9900514a)
 - [Arrêté du 18 mars 1999 (MENE9900515A)](arrete-du-18-mars-1999-mene9900515a)
 - [Arrêté du 18 mars 1999 (MESG9823297A)](arrete-du-18-mars-1999-mesg9823297a)
+- [Arrêté du 18 novembre 1999 (MESF9911568A)](arrete-du-18-novembre-1999-mesf9911568a)
 - [Arrêté du 18 octobre 1999 (MESX9903795A)](arrete-du-18-octobre-1999-mesx9903795a)
 - [Arrêté du 18 mai 1999 (ECOC9900176A)](arrete-du-18-mai-1999-ecoc9900176a)
 - [Arrêté du 18 mai 1999 (ECOF9900017A)](arrete-du-18-mai-1999-ecof9900017a)

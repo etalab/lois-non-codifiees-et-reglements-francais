@@ -1,0 +1,9 @@
+# Article 1
+
+L'appellation d'origine contrôlée "Reblochon" ou "Reblochon de Savoie", initialement reconnue par le décret du 7 août 1958, est réservée aux fromages répondant aux dispositions de la législation en vigueur et aux usages locaux, loyaux et constants, tant en ce qui concerne la production et la livraison du lait que la fabrication, l'affinage et le conditionnement des fromages, et respectant les dispositions du présent décret.
+
+Le fromage bénéficiant de l'appellation d'origine contrôlée "Reblochon" ou "Reblochon de Savoie" est un fromage à pâte pressée non cuite, en forme de cylindre plat d'un diamètre de 14 centimètres environ, d'une hauteur de 3,5 centimètres environ et d'un poids compris entre 450 et 550 grammes, fabriqué exclusivement suivant les usages locaux, loyaux et constants, avec du lait de vache mis en oeuvre à l'état cru et entier, ni normalisé ni standardisé depuis la traite, emprésuré, à pâte homogène, très peu ferme, légèrement salée, affinée avec lavage de la croûte qui présente une couleur allant du jaune au jaune orangé, recouverte en tout ou partie d'une mousse blanche, contenant au minimum 45 grammes de matière grasse pour 100 grammes après complète dessiccation et dont la teneur en matière sèche ne doit pas être inférieure à 45 grammes pour 100 grammes de fromage.
+
+Toutefois, bénéficie également de l'appellation d'origine contrôlée le fromage qui présente les mêmes caractéristiques mais de format réduit (diamètre de 9 centimètres environ, hauteur de 3 centimètres environ, poids compris entre 240 et 280 grammes) et dénommé dans ce cas "Petit Reblochon" ou "Petit Reblochon de Savoie".
+
+Un règlement intérieur approuvé par le comité national des produits laitiers de l'Institut national des appellations d'origine fixe en tant que de besoin les modalités d'application du présent décret.
