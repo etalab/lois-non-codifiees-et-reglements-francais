@@ -1,21 +1,15 @@
 # Article ANNEXE I
 
-- ECHELONS :
+(I) : durée maximale
 
-- 3e échelon
+(II) : durée minimale
 
-- 2e échelon :
+5e échelon : (I) : - ; (II) : -
 
-DUREE :
+4e échelon : (I) : 3 ans ; (II) : 3 ans
 
-- Maximale : 3 ans
+3e échelon : (I) : 3 ans ; (II) : 3 ans
 
-- Minimale : 3 ans
+2e échelon : (I) : 3 ans ; (II) : 2 ans 3 mois
 
-- 1er échelon :
-
-DUREE :
-
-- Maximale : 3 ans
-
-- Minimale : 3 ans.
+1er échelon : (I) : 3 ans ; (II) : 2 ans 3 mois
