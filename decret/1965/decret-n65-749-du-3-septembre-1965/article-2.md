@@ -36,38 +36,22 @@ Industries du pétrole ;
 
 Industries de la production d'électricité.
 
-La représentation des conseils généraux et des conseils municipaux est assurée dans les conditions suivantes :
+La représentation des collectivités territoriales est assurée dans les conditions suivantes :
 
-Trois présidents de conseils généraux et autant de suppléants ;
+Le collège des représentants des collectivités territoriales de chaque comité de bassin élit, parmi ses membre titulaires et suppléants, ses représentants au Comité national de l'eau, dont au moins un titulaire et un suppléant sont choisis parmi les représentants des communes.
 
-Un conseiller général d'un des départements de la région d'Ile-de-France, membre du conseil régional, et un suppléant ;
+Le nombre total de ces représentants est fixé ainsi qu'il suit :
 
-Trois conseillers généraux et autant de suppléants ;
+Trois représentants et trois suppléants pour chacun des bassins Adour-Garonne, Artois-Picardie, Rhin-Meuse ;
 
-Un conseiller municipal de Paris et un suppléant ;
+Quatre représentants et quatre suppléants pour chacun des bassins Loire-Bretagne et Rhône-Méditérannée-Corse ;
 
-Quatre maires de villes dont le chiffre de la population est de 50000 habitants et plus et autant de suppléants ;
-
-Quatre maires de villes dont le chiffre de la population est compris entre 2000 et 50000 habitants, dont un président de syndicat des eaux, et autant de suppléants ;
-
-Quatre maires de villes dont le chiffre de la population est inférieur à 2000 habitants, dont un président de syndicat des eaux, et autant de suppléants.
-
-Un arrêté du ministre de l'intérieur fixe les modalités de désignation des représentants de chacune des catégories déterminées ci-dessus.
+Cinq représentants et cinq suppléants pour le bassin Seine-Normandie, dont au moins un représentant de la région Ile-de-France et un conseiller municipal de Paris si la composition du comité de bassin le permet ;
 
 La représentation de l'Etat est assurée dans les conditions suivantes :
 
-Quatre fonctionnaires désignés par le ministre chargé de l'équipement, dont un au titre des transports et autant de suppléants ;
+Un représentant et un suppléant de chacun des ministres chargés de l'environnement, de l'équipement, des voies navigables, de l'économie et des finances , de la défense, de la mer, du tourisme, du plan, de l'aménagement du territoire ;
 
-Trois fonctionnaires désignés par le ministre d'Etat, ministre de l'intérieur, dont un au titre de la direction de la sécurité civile, et autant de suppléants ;
+Deux représentants et deux suppléants pour chacun des ministres chargés de l'intérieur, de l'industrie, de l'agriculture et de la santé ;
 
-Deux fonctionnaires désignés par chacun des ministres chargés de l'industrie et de la recherche, de l'agriculture, de la santé et autant de suppléants ;
-
-Un fonctionnaire désigné par le ministre délégué auprès du Premier ministre chargé de l'économie et des finances et un suppléant ;
-
-Un fonctionnaire désigné par le ministre de la qualité de la vie au titre du tourisme et un suppléant ;
-
-Un représentant désigné par le commissaire général au Plan d'équipement et de la productivité et un suppléant ;
-
-Un représentant désigné par le délégué à l'aménagement du territoire et à l'action régionale et un suppléant ;
-
-Un représentant désigné par le préfet de la région Ile-de-France et un suppléant [*nombre*].
+Le préfet de la région Ile-de-France et un suppléant de celui-ci.
