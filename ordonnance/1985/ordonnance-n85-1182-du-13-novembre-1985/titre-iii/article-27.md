@@ -1,3 +1,0 @@
-# Article 27
-
-Le Premier ministre, le ministre de l'économie, des finances et du budget, le ministre de la défense, le ministre de l'agriculture, le ministre de l'éducation nationale, le ministre du travail, de l'emploi et de la formation professionnelle, le ministre de la culture, le ministre délégué à la jeunesse et aux sports, le ministre chargé de la Nouvelle-Calédonie et le secrétaire d'Etat auprès du ministre de l'économie, des finances et du budget, chargé du budget et de la consommation, sont chargés, chacun en ce qui le concerne, de l'exécution de la présente ordonnance, qui sera publiée au Journal officiel de la République française.
