@@ -7,3 +7,5 @@ Directive (C.E.E.) n° 93-28 du 4 juin 1993 (Journal officiel des communautés e
 Onzième directive (C.E.E.) n° 93-70 du 28 juillet 1993 (Journal officiel des communautés européennes L. 234 du 17 septembre 1993) :
 
 Halofuginone.
+
+Directive 2002/70/CE de la Commission du 26 juillet 2002 (JOCE n° L 209 du 6 août 2002) établissant des prescriptions pour la détermination des teneurs en dioxines et en PCB de type dioxine des aliments des animaux (annexe I).

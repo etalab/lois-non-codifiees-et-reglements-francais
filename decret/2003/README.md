@@ -161,6 +161,7 @@
 - [Décret n°2003-353 du 15 avril 2003 (FPPX0300027D)](decret-n2003-353-du-15-avril-2003-fppx0300027d)
 - [Décret n°2003-358 du 15 avril 2003 (AGRP0300224D)](decret-n2003-358-du-15-avril-2003-agrp0300224d)
 - [Décret n°2003-371 du 15 avril 2003 (SPRK0370027D)](decret-n2003-371-du-15-avril-2003-sprk0370027d)
+- [Décret n°2003-374 du 15 avril 2003 (EQUT0300105D)](decret-n2003-374-du-15-avril-2003-equt0300105d)
 - [Décret n°2003-50 du 15 janvier 2003 (EQUA0201545D)](decret-n2003-50-du-15-janvier-2003-equa0201545d)
 - [Décret n°2003-56 du 15 janvier 2003 (MENS0203079D)](decret-n2003-56-du-15-janvier-2003-mens0203079d)
 - [Décret n°2000-522 du 16 juin 2000 (ECOP0000436D)](decret-n2000-522-du-16-juin-2000-ecop0000436d)

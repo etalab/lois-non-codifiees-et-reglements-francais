@@ -141,3 +141,5 @@ Directive 1999/76/CE du 23 juillet 1999 (Journal officiel des Communautés europ
 Directive 1999/79/CE du 23 juillet 1999 (Journal officiel des Communautés européennes n° L 209) modifiant la troisième directive 72/199/CE (annexe, partie 1) : dosage de l'amidon.
 
 Directive 2000/45/CE de la Commission du 6 juillet 2000 (Journal officiel des Communautés européennes n° L 174 du 13 juillet 2000) portant fixation des méthodes communautaires d'analyse pour la détermination de la vitamine A, de la vitamine E et du tryptophane dans les aliments des animaux.
+
+Directive 2002/70/CE de la Commission du 26 juillet 2002 (JOC E n° L 209 du 6 août 2002) établissant des prescriptions pour la détermination des teneurs en dioxines et en PCB de type dioxine des aliments des animaux (annexe II).
