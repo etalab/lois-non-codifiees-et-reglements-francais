@@ -206,6 +206,7 @@
 - [Décret n°94-48 du 12 janvier 1994 (DEFP9302117D)](decret-n94-48-du-12-janvier-1994-defp9302117d)
 - [Décret n°94-582 du 12 juillet 1994 (PRMX9400068D)](decret-n94-582-du-12-juillet-1994-prmx9400068d)
 - [Décret n°94-583 du 12 juillet 1994 (PRMX9400077D)](decret-n94-583-du-12-juillet-1994-prmx9400077d)
+- [Décret n°94-587 du 12 juillet 1994 (INDP9400732D)](decret-n94-587-du-12-juillet-1994-indp9400732d)
 - [Décret n°95-1105 du 12 octobre 1995 (AGRA9501669D)](decret-n95-1105-du-12-octobre-1995-agra9501669d)
 - [Décret n°78-768 du 13 juillet 1978](decret-n78-768-du-13-juillet-1978)
 - [Décret n°94-290 du 13 avril 1994 (TEFT9400249D)](decret-n94-290-du-13-avril-1994-teft9400249d)
