@@ -1,5 +1,7 @@
 # Article 1
 
-Les livrets d'épargne entreprise font l'objet d'un contrat passé entre une personne physique et un établissement de crédit et constaté par un acte écrit. Ce contrat engage le déposant et l'établissement qui reçoit les dépôts et précise leurs obligations et leurs droits.
+En application des dispositions du décret n° 82-389, article 15, susvisé, le préfet de département est ordonnateur secondaire du budget du ministère du commerce, de l'artisanat et du tourisme :
 
-Les opérations effectuées sont retracées dans un compte ouvert au nom du souscripteur dans les écritures de l'établissement qui reçoit les dépôts.
+-pour les dépenses relatives aux subventions d'intervention et aux subventions d'investissement, décidées par le ministre du commerce, de l'artisanat et du tourisme, ne correspondant pas à des actions relevant d'un contrat de plan ou de contrats particuliers ;
+
+-pour les dépenses relatives aux subventions d'investissement, individualisées par le préfet de région dans le cadre de l'exécution du contrat de plan ou de contrats particuliers conclus avec la région.

@@ -1,5 +1,3 @@
 # Article 3
 
-Les sommes déposées sur les livrets d'épargne entreprise, ainsi que les intérêts capitalisés annuellement au 31 décembre, sont indisponibles pendant la durée du contrat qui ne peut être inférieure à deux ans, à compter de la date d'ouverture du livret.
-
-Au-delà de la période minimale de deux ans, le contrat est prolongé par tacite reconduction pour une année au moins sans que la durée totale puisse dépasser cinq ans.
+En application des dispositions du décret n° 82-389, articles 15 et 17, susvisé, le   préfet de département peut donner délégation de signature, en ce qui concerne sa compétence d'ordonnateur secondaire du budget du ministère du commerce, de l'artisanat et du tourisme, au directeur départemental du travail et de l'emploi pour les dépenses relatives à la prime à la création d'emploi dans les entreprises artisanales reconduite par le décret n° 84-358 du 11 mai 1984.
