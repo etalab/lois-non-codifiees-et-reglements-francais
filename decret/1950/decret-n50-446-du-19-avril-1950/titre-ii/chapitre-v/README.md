@@ -1,3 +1,3 @@
 # Chapitre V : Dispositions transitoires.
 
-- [Article 42](article-42.md)
+- [Article 37](article-37.md)
