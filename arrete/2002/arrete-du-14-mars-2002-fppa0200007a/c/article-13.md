@@ -1,0 +1,3 @@
+# Article 13
+
+L'épreuve orale d'admission débute par un exposé du candidat sur son expérience professionnelle et les fonctions qu'il a exercées ; cet exposé est suivi d'un entretien avec le jury dont l'objectif est d'apprécier sa personnalité, sa capacité à se situer dans un environnement professionnel et son aptitude à s'adapter aux missions qui peuvent être confiées aux fonctionnaires du corps à partir de questions posées par le jury. Ces questions portent, notamment, sur les connaissances professionnelles ainsi que sur l'expérience et les fonctions exercées en qualité d'agent non titulaire (durée de l'épreuve : trente minutes ; durée de l'exposé : dix minutes maximum ; durée de l'entretien : vingt minutes minimum ; coefficient 3).
