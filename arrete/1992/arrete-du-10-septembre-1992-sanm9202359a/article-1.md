@@ -86,4 +86,6 @@ TMA ou dl-triméthoxy-3,4,5 alpha-méthyl phényléthylamine.
 
 Etryptamine ;
 
-Methcathinone.
+Methcathinone ;
+
+4-MTA (méthylthioamphétamine).

@@ -76,7 +76,7 @@ Ou bien l'ensemble des documents suivants :
 
 1. Une demande de certificat d'immatriculation sur l'imprimé réglementaire ;
 
-2. Le certificat de conformité au type communautaire délivré par le constructeur ou son représentant en France, conforme au modèle tel que figurant en annexe au présent arrêté, comportant une rubrique nationale spécifique reprenant les données strictement nécessaires pour l'établissement de la carte grise ;
+2. Le certificat de conformité au type communautaire délivré par le constructeur ou son représentant en France, conforme au modèle figurant en annexe XIX ou XIX bis au présent arrêté, comportant à la rubrique prévue à cet effet le code national d'identification du type ;
 
 3. Un certificat de cession ou une facture établis par le vendeur ;
 
@@ -98,7 +98,7 @@ Pour obtenir l'immatriculation, les pièces suivantes doivent être fournies :
 
 1. Une demande de certificat d'immatriculation sur l'imprimé réglementaire ;
 
-2. Le certificat de conformité au type communautaire original (non complété par la rubrique nationale) édité le cas échéant dans une autre langue que le français et comportant, ou permettant d'obtenir directement, l'ensemble des informations nécessaires à l'immatriculation.
+2. Le certificat de conformité au type communautaire original édité le cas échéant dans une autre langue que le français et comportant, ou permettant d'obtenir directement, l'ensemble des informations nécessaires à l'immatriculation.
 
 Dans le cas où le certificat de conformité au type communautaire ne comporte pas, ou ne permet pas d'obtenir directement, l'ensemble des informations nécessaires à l'immatriculation :
 

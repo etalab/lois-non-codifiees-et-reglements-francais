@@ -2,7 +2,7 @@
 
 2.1. Le modèle et le contenu des cartes grises sont définis par le ministre chargé des transports après avis du ministre de l'intérieur.
 
-2.1.1. En application de la directive 1999/37/CE du Conseil du 29 avril 1999 relative aux documents d'immatriculation des véhicules, la carte grise se compose d'une seule partie, conforme à l'annexe I de la directive précitée.
+2.1.1. En application de la directive 2003/127/CE de la Commission du 23 décembre 2003 modifiant la directive 1999/37/CE du Conseil relative aux documents d'immatriculation des véhicules, la carte grise se compose d'une seule partie, conforme à l'annexe I de la directive précitée, et est délivrée sous forme d'un document sur papier.
 
 Ses principales caractéristiques sont les suivantes :
 
