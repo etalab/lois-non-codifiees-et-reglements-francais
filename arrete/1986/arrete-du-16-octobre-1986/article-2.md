@@ -1,6 +1,6 @@
 # Article 2
 
-Tout candidat qui souhaite se présenter aux épreuves de l'examen d'aptitude, adresse sa demande par lettre recommandée avec demande d'avis de réception, au plus tard deux mois avant la date de la première épreuve, au secrétariat de la commission nationale d'inscription des administrateurs judiciaires.
+Tout candidat qui souhaite se présenter aux épreuves de l'examen d'aptitude, adresse sa demande par lettre recommandée avec demande d'avis de réception, au plus tard trois mois avant la date de la première épreuve, au secrétariat de la commission nationale d'inscription des administrateurs judiciaires.
 
 Le dossier de candidature comprend :
 

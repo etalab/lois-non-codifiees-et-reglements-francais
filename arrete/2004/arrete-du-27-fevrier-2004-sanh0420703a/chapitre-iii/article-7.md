@@ -1,0 +1,3 @@
+# Article 7
+
+Le concours comporte trois épreuves rédactionnelles d'une durée de trois heures chacune. Chaque épreuve est constituée de trois dossiers cliniques d'une durée d'une heure chacun. Chaque dossier comporte de quatre à dix questions, qui font l'objet d'une double correction indépendante, noté de 0 à 100 et affecté du coefficient 1 ; la note retenue est la moyenne arithmétique des deux notes. Lorsque, pour un même dossier, l'écart de notation constaté entre deux correcteurs est égal ou supérieur à 15 points, une troisième correction est assurée. Dans ce cas, la notation qui en résulte est retenue.
