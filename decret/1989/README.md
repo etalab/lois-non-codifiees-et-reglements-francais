@@ -260,7 +260,6 @@
 - [Décret n°89-907 du 19 décembre 1989 (PRMX8910383D)](decret-n89-907-du-19-decembre-1989-prmx8910383d)
 - [Décret n°89-912 du 19 décembre 1989 (PRMX8900171D)](decret-n89-912-du-19-decembre-1989-prmx8900171d)
 - [Décret n°89-926 du 19 décembre 1989 (DEFP8901704D)](decret-n89-926-du-19-decembre-1989-defp8901704d)
-- [Décret du 20 janvier 1989 (DOMX8910039D)](decret-du-20-janvier-1989-domx8910039d)
 - [Décret n°88-836 du 20 juillet 1988 (DOMX8800091D)](decret-n88-836-du-20-juillet-1988-domx8800091d)
 - [Décret n°89-108 du 20 février 1989 (MENU8802480D)](decret-n89-108-du-20-fevrier-1989-menu8802480d)
 - [Décret n°89-110 du 20 février 1989 (SPSS8801656D)](decret-n89-110-du-20-fevrier-1989-spss8801656d)

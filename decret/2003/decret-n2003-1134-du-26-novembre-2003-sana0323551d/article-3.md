@@ -1,5 +1,0 @@
-# Article 3
-
-Le mandat des membres titulaires et suppléants est de quatre ans. Il est renouvelable une fois. Il prend fin lorsque, avant l'expiration de cette période, lesdits membres cessent d'exercer le mandat ou les fonctions au titre desquels ils ont été élus ou désignés.
-
-Lorsqu'un membre cesse d'exercer ses fonctions avant l'expiration de son mandat, ledit mandat est prorogé jusqu'au jour de la désignation de son remplaçant par l'organisme qu'il représentait, dans la limite de trois mois. Dans ce cas, le mandat du nouveau membre prend fin à la date à laquelle aurait cessé celui du membre qu'il a remplacé.

@@ -1,3 +1,0 @@
-# Article 1
-
-Toute personne qui, en raison de son âge, de son état physique ou mental, de la situation de l'économie et de l'emploi, se trouve dans l'incapacité de travailler, a le droit d'obtenir de la collectivité des moyens convenables d'existence. L'insertion sociale et professionnelle des personnes en difficulté constitue un impératif national. Dans ce but, il est institué un revenu minimum d'insertion mis en oeuvre dans les conditions fixées par la présente loi. Ce revenu minimum d'insertion constitue l'un des éléments d'un dispositif global de lutte contre la pauvreté tendant à supprimer toute forme d'exclusion, notamment dans les domaines de l'éducation, de l'emploi, de la formation, de la santé et du logement.

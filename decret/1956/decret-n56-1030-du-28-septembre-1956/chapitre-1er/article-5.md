@@ -1,7 +1,0 @@
-# Article 5
-
-Les bureaux d'aide sociale exercent une action de prévoyance et d'entr'aide, notamment par la distribution de secours en bons, en nature et en espèces, la création de crèches, pouponnières, garderies d'enfants, foyers de vieillards, restaurants d'entr'aide, ateliers d'assistance par le travail et la création de services sociaux et permanences sociales.
-
-Ils coordonnent cette action avec celle des services publics ou institutions privées ayant un objet analogue. A cet effet, ils constituent et tiennent à jour un fichier des bénéficiaires de secours ou d'une aide sociale résidant sur le territoire de la commune ou du syndicat de communes. Devront figurer sur ce fichier les ressources des demandeurs ainsi que les prestations de toute nature dont ils bénéficient au titre de la législation d'aide sociale. La communication de ce fichier est exclusivement réservée, en dehors des membres de la commission administrative et des commissions d'admission à l'aide sociale, aux représentants des services et institutions visés ci-dessus et à leurs services sociaux sous réserve qu'ils justifient que l'intéressé a recours à leur aide.
-
-Sans préjudice des réglementations particulières s'appliquant à certains établissements cités au premier alinéa, aucune création ne pourra avoir lieu sans autorisation du préfet donnée après avis du directeur départemental de la population et de l'aide sociale et du directeur départemental de la santé.

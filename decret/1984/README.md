@@ -150,7 +150,6 @@
 - [Décret n°84-1141 du 19 décembre 1984](decret-n84-1141-du-19-decembre-1984)
 - [Décret n°84-849 du 19 septembre 1984](decret-n84-849-du-19-septembre-1984)
 - [Décret n°84-929 du 19 octobre 1984](decret-n84-929-du-19-octobre-1984)
-- [Décret n°84-931 du 19 octobre 1984](decret-n84-931-du-19-octobre-1984)
 - [Décret n°84-943 du 19 octobre 1984](decret-n84-943-du-19-octobre-1984)
 - [Décret n°83-523 du 20 juin 1983](decret-n83-523-du-20-juin-1983)
 - [Décret n°84-1032 du 20 novembre 1984](decret-n84-1032-du-20-novembre-1984)

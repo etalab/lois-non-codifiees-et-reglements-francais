@@ -1,3 +1,0 @@
-# Article 7
-
-Les conventions fixent la liste des missions supplémentaires que le département souhaite confier aux organismes payeurs au titre du service de l'allocation de revenu minimum d'insertion.

@@ -1,3 +1,0 @@
-# CONTROLE DE L'APPLICATION DES LOIS D'AIDE SOCIALE.
-
-- [Article 20](article-20.md)

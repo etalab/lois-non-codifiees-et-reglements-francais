@@ -1,3 +1,0 @@
-# Article 5
-
-Le préfet fait opposition dans les deux mois de la déclaration [*délai*] par une décision motivée, s'il apparaît au vu des renseignements fournis et des enquêtes effectuées, que les dispositions réglementaires ne sont pas respectées ou que les garanties minimales concernant les bonnes moeurs, la santé, la sécurité, l'hygiène, l'éducation ou le bien-être des mineurs ne sont pas remplies, notamment si la personne à qui sera confiée la direction de l'établissement n'est pas apte à assurer la garde et l'éducation des mineurs ainsi que le bon fonctionnement de l'établissement.

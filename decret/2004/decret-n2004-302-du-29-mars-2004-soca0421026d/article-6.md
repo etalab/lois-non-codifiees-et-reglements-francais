@@ -1,3 +1,0 @@
-# Article 6
-
-Dans les conditions prévues à l'article 7 bis de la loi du 7 juin 1951 susvisée, les départements, la Caisse nationale des allocations familiales, la Caisse centrale de mutualité sociale agricole et les autres organismes associés à la gestion du contrat insertion-revenu minimum d'activité transmettent au service statistique du ministère chargé de l'action sociale des informations individuelles relatives à la situation sociale, professionnelle et financière ainsi que des informations individuelles relatives à l'existence éventuelle de difficultés de santé des personnes physiques bénéficiaires du revenu minimum d'insertion en vue de l'étude de leur situation et de leur parcours d'insertion.

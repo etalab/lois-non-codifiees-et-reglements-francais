@@ -1,3 +1,0 @@
-# Article 36
-
-Le grand infirme, dont l'inaptitude au travail a été constatée dans les conditions prévues à l'article 38 ci-après et qui peut, à la suite d'un apprentissage ou d'une rééducation, se livrer à un travail constituant l'exercice normal d'une profession comportant une rémunération mensuelle au moins égale au quart du salaire de base servant pour le calcul des prestations familiales, ou celui qui, après apprentissage ou une rééducation, justifie ne pouvoir travailler effectivement pour une cause de force majeure, reçoit une allocation de compensation dont le taux, fixé par décret, varie selon l'état de l'infirme et selon qu'il a besoin ou non de l'aide constante d'une tierce personne.

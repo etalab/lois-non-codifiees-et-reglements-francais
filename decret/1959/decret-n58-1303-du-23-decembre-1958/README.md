@@ -3,5 +3,4 @@
 - [Chapitre Ier : Dispositions relatives au code pénal](chapitre-ier)
 - [Chapitre II : Dispositions relatives au code rural](chapitre-ii)
 - [Chapitre III : Dispositions relatives au code forestier.](chapitre-iii)
-- [Chapitre V : Dispositions relatives au code de la famille et de l'action sociale.](chapitre-v)
 - [Chapitre IX : Dispositions relatives à l'entrée et au séjour des étrangers en France.](chapitre-ix)
