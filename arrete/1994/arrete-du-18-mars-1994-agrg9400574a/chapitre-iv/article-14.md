@@ -6,8 +6,16 @@ Critères pour le lait de chèvre et de brebis :
 
 Teneur en germes à 30 °C (par ml) : 3 000 000 (a).
 
+A partir du 1er décembre 1999, teneur en germes à 30 °C (par ml) :
+
+inférieure à 1 500 000.
+
 2. Le lait cru de chèvre ou de brebis destiné à la fabrication de produits au lait cru, dont le processus de fabrication n'inclut aucun traitement thermique, doit satisfaire au critère suivant :
 
 Teneur en germes à 30 °C (par ml) : 1 000 000 (a).
+
+A partir du 1er décembre 1999, teneur en germes à 30 °C (par ml) :
+
+inférieure à 500 000.
 
 (a) Moyenne géométrique constatée sur une période de deux mois, avec au moins deux prélèvements par mois.

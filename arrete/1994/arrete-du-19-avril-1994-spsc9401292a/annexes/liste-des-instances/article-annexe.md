@@ -130,6 +130,8 @@ Commission consultative de la transplantation, arrêté du 6 juin 1989.
 
 Commission des maladies mentales, arrêté du 8 septembre 1987.
 
+Conseil départemental d'hygiène mentionné à l'article L. 776 du code de la santé publique.
+
 Délégation générale à l'innovation sociale
 
 et à l'économie sociale
