@@ -4,7 +4,7 @@
 
 Arts du feu (métal, céramique, émail et verre).
 
-Arts graphiques.
+Arts graphiques et livre.
 
 Arts textiles.
 
