@@ -24,49 +24,73 @@ D'appels exceptionnels. Les disciplines dans lesquelles, les appels sont excepti
 
 2° Indemnisation des participations au service de garde :
 
-A. - Ces participations sont indemnisées sur la base de taux forfaitaires communs à tous les praticiens concernés quelle que soit la catégorie à laquelle ils appartiennent et selon les textes réglementaires qui leur sont applicables.
+A. - Ces participations sont indemnisées sur la base de taux forfaitaires communs à tous les praticiens concernés, quelle que soit la catégorie à laquelle ils appartiennent et selon les textes réglementaires qui leur sont applicables.
 
-Ces taux ainsi que les limites des plafonds qui évoluent en fonction de l'évolution des traitements de la fonction publique sont fixés ainsi qu'il suit :
-
-Taux à compter du 1er-10-1997 :
+Ces taux, ainsi que les limites des plafonds qui évoluent en fonction de l'évolution des traitements de la fonction publique, sont fixés ainsi qu'il suit :
 
 1. Service de garde sur place :
 
-Garde : 1 475 F
+Garde
 
-Demi-garde : 738 F
+Taux à compter du 1er avril 1998 (en francs) : 1 487
 
-- de 18 h 30 à 1 heure du matin : 685 F
+Demi-garde
 
-- de 1 heure du matin à 8 h 30 : 790 F
+Taux à compter du 1er avril 1998 (en francs) : 744
+
+De 18 h 30 à 1 heure du matin
+
+Taux à compter du 1er avril 1998 (en francs) : 690
+
+De 1 heure du matin à 8 h 30
+
+Taux à compter du 1er avril 1998 (en francs) : 797
 
 2. Service de garde par astreinte :
 
-Astreinte opérationnelle :
+I. - Astreinte opérationnelle :
 
-a) Indemnité forfaitaire de base : 227 F
+a) Indemnité forfaitaire de base
 
-- par demi-astreinte : 114 F
+Taux à compter du 1er avril 1998 (en francs) : 229
 
-b) Indemnité due pour chaque déplacement : 316 F
+Par demi-astreinte
+
+Taux à compter du 1er avril 1998 (en francs) : 115
+
+b) Indemnité due pour chaque déplacement
+
+Taux à compter du 1er avril 1998 (en francs) : 319
 
 Le montant cumulé des indemnités perçues ne peut excéder :
 
-- au titre d'une demi-astreinte opérationnelle : 737 F
+Au titre d'une demi-astreinte opérationnelle
 
-- au titre d'une astreinte opérationnelle : 1 475 F
+Taux à compter du 1er avril 1998 (en francs) : 744
 
-Astreinte de sécurité :
+Au titre d'une astreinte opérationnelle
 
-a) Indemnité forfaitaire de base : 148 F
+Taux à compter du 1er avril 1998 (en francs) : 1 487
+
+II. - Astreinte de sécurité :
+
+a) Indemnité forfaitaire de base
+
+Taux à compter du 1er avril 1998 (en francs) : 149
 
 Le montant cumulé des indemnités forfaitaires de base ne peut excéder :
 
-- pour quatre semaines : 1 184 F
+Pour quatre semaines
 
-- pour cinq semaines : 1 480 F
+Taux à compter du 1er avril 1998 (en francs) : 1 192
 
-b) Indemnité due pour chaque déplacement : 316 F
+Pour cinq semaines
+
+Taux à compter du 1er avril 1998 (en francs) : 1 490
+
+b) Indemnité due pour chaque déplacement
+
+Taux à compter du 1er avril 1998 (en francs) : 319
 
 Les indemnités versées au titre d'une astreinte de sécurité ne peuvent excéder le taux fixé pour une garde.
 
@@ -74,13 +98,19 @@ Les indemnités versées au titre d'une astreinte de sécurité ne peuvent excé
 
 a) Ils ne donnent lieu à aucune indemnité forfaitaire.
 
-b) Indemnité due pour chaque déplacement : 316 F
+b) Indemnité due pour chaque déplacement
+
+Taux à compter du 1er avril 1998 (en francs) : 319
 
 4. Pour un même praticien, le montant cumulé des indemnités perçues pour ses participations au service de garde sous forme de permanence à l'hôpital ou d'astreinte à domicile ne peut excéder :
 
-- pour quatre semaines : 14 750 F
+Pour quatre semaines
 
-- pour cinq semaines : 18 438 F
+Taux à compter du 1er avril 1998 (en francs) : 14 870
+
+Pour cinq semaines
+
+Taux à compter du 1er avril 1998 (en francs) : 18 588
 
 Les indemnités perçues dans le cadre des interventions hors service normal prévues au deuxième alinéa de l'article 3 de l'arrêté du 15 février 1973 modifié ne sont pas comptées dans ce plafond.
 

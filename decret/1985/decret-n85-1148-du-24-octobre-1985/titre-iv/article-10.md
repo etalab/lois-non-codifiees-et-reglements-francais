@@ -1,6 +1,6 @@
 # Article 10
 
-Le supplément familial de traitement est alloué en sus des prestations familiales de droit commun aux magistrats, aux fonctionnaires civils, aux militaires à solde mensuelle, ainsi qu'aux agents de la fonction publique de l'Etat et de la fonction publique territoriale dont la rémunération est fixée par référence aux traitements des fonctionnaires ou évolue en fonction des variations de ces traitements, à l'exclusion des agents rétribués sur un taux horaire ou à la vacation.
+Le supplément familial de traitement est alloué en sus des prestations familiales de droit commun aux magistrats, aux fonctionnaires civils, aux militaires à solde mensuelle, ainsi qu'aux agents de la fonction publique de l'Etat, de la fonction publique territoriale et de la fonction publique hospitalière dont la rémunération est fixée par référence aux traitements des fonctionnaires ou évolue en fonction des variations de ces traitements, à l'exclusion des agents rétribués sur un taux horaire ou à la vacation.
 
 Le supplément familial de traitement comprend un élément fixe et un élément proportionnel.
 

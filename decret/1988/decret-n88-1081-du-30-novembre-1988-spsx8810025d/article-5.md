@@ -1,6 +1,6 @@
 # Article 5
 
-Les fonctionnaires de catégorie C ou D qui sont recrutés ou promus en application des règles statutaires normales à l'un des grades visés à l'article 1er ci-dessus sont maintenus dans leur nouveau grade à l'échelon auquel ils étaient parvenus dans leur précédent emploi ou grade.
+Les fonctionnaires de catégorie C, classés par application des règles statutaires normales à l'un des grades ou emplois dotés des échelles 2, 3, 4 ou 5 mentionnées à l'article 1er ci-dessus, sont maintenus dans leur nouveau grade à l'échelon auquel ils étaient parvenus dans leur précédent grade.
 
 Lorsque cette nomination à l'échelon déterminé par application des dispositions de l'alinéa précédent a pour résultat d'accorder aux intéressés un gain excédant 60 points indiciaires bruts, elle est prononcée à l'échelon inférieur le plus voisin tel que ce gain indiciaire n'excède pas le chiffre précité. Toutefois, en cas de nomination ou de promotion dans l'un des grades classés dans l'échelle 5, ce gain indiciaire maximum est porté à 75 points.
 

@@ -12,4 +12,4 @@ L'enseignement théorique du troisième cycle de médecine générale porte sur 
 
 - préparation du médecin généraliste au recueil des données en épidémiologie, à la documentation, à la formetion médicale continue et à la recherche en médecine générale.
 
-Cet enseignement a une durée de 150 à 200 heures réparties sur les deux années du cycle. Il est organisé par modules.
+Cet enseignement a une durée de 150 à 200 heures réparties sur les deux années et demie du cycle. Il est organisé par modules.

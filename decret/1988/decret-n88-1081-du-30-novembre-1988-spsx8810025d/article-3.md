@@ -2,54 +2,72 @@
 
 La durée moyenne et la durée minimale du temps passé dans chacun des échelons des échelles de rémunération des catégories C et D sont fixées ainsi qu'il suit :
 
-échelles et échelons - durée - moyenne - minimale
+!-------------------------------------!
 
-Echelles dotées de 10 échelons :
+! ECHELLES ET !        DUREE          !
 
-10e échelon -
+!  ECHELONS   !-----------------------!
 
-9e échelon - 4 ans - 3 ans
+!             ! Moyenne !  Minimale   !
 
-8e échelon - 4 ans - 3 ans
+!-------------!---------!-------------!
 
-7e échelon - 3 ans - 2 ans
+!    Echelle dotée de 8 échelons      !
 
-6e échelon - 3 ans - 2 ans
+!-------------!---------!-------------!
 
-5e échelon - 3 ans - 2 ans
+!  8e échelon !    -    !     -       !
 
-4e échelon - 2 ans - 1 ans 6 mois
+!  7e échelon !  4 ans  !   3 ans     !
 
-3e échelon - 2 ans - 1 ans 6 mois
+!  6e échelon !  4 ans  !   3 ans     !
 
-2e échelon - 2 ans - 1 ans 6 mois
+!  5e échelon !  4 ans  !   3 ans     !
 
-1er échelon - 1 ans - 1 an
+!  4e échelon !  3 ans  !   2 ans     !
 
-échelles et échelons - durée - moyenne - minimale
+!  3e échelon !  3 ans  !   2 ans     !
 
-Echelles dotées de 11 échelons :
+!  2e échelon !  3 ans  !   2 ans     !
 
-11e échelon -
+! 1er échelon !  2 ans  ! 1 an 6 mois !
 
-10e échelon - 4 ans - 3 ans
+!-------------!---------!-------------!
 
-9e échelon - 4 ans - 3 ans
+!-------------------------------------!
 
-8e échelon - 4 ans - 3 ans
+! ECHELLES ET !        DUREE          !
 
-7e échelon - 3 ans - 2 ans
+!  ECHELONS   !-----------------------!
 
-6e échelon - 3 ans - 2 ans
+!             ! Moyenne !  Minimale   !
 
-5e échelon - 3 ans - 2 ans
+!-------------!---------!-------------!
 
-4e échelon - 2 ans - 1 ans 6 mois
+!    Echelle dotée de 11 échelons     !
 
-3e échelon - 2 ans - 1 ans 6 mois
+!-------------!---------!-------------!
 
-2e échelon - 2 ans - 1 ans 6 mois
+! 11e échelon !    -    !     -       !
 
-1er échelon - 1 ans - 1 an
+! 10e échelon !  4 ans  !   3 ans     !
 
-Les durées moyennes d'ancienneté ne peuvent faire l'objet d'aucune majoration.
+!  9e échelon !  4 ans  !   3 ans     !
+
+!  8e échelon !  4 ans  !   3 ans     !
+
+!  7e échelon !  3 ans  !   2 ans     !
+
+!  6e échelon !  3 ans  !   2 ans     !
+
+!  5e échelon !  3 ans  !   2 ans     !
+
+!  4e échelon !  2 ans  ! 1 an 6 mois !
+
+!  3e échelon !  2 ans  ! 1 an 6 mois !
+
+!  2e échelon !  2 ans  ! 1 an 6 mois !
+
+! 1er échelon !   1 an  !    1 an     !
+
+!-------------!---------!-------------!

@@ -2,14 +2,22 @@
 
 Les grades des corps des fonctionnaires hospitaliers des catégories C et D classés dans les échelles de rémunération mentionnées à l'article 1er du présent décret comportent chacun le nombre d'échelons suivant :
 
-échelles - à compter du - 1er août 1990 - 1er août 1991 - 1er août 1992
+!---------------------------------!
 
-Echelle 1 - 11 échelons - 11 échelons - 11 échelons
+!   ECHELLES     !  A COMPTER DU  !
 
-Echelle 2 - 10 échelons - 11 échelons - 11 échelons
+!                ! 1er avril 1998 !
 
-Echelle 3 - 10 échelons - 11 échelons - 11 échelons
+!----------------!----------------!
 
-Echelle 4 - 10 échelons - 10 échelons - 11 échelons
+!   Echelle 1    !    8 échelons  !
 
-Echelle 5 - 10 échelons - 10 échelons - 11 échelons
+!   Echelle 2    !   11 échelons  !
+
+!   Echelle 3    !   11 échelons  !
+
+!   Echelle 4    !   11 échelons  !
+
+!   Echelle 5    !   11 échelons  !
+
+!----------------!----------------!

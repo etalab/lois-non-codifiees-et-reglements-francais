@@ -1,0 +1,18 @@
+# Annexes
+
+- [ACTIVITES INTERPROFESSIONNELLES](activites-interprofessionnelles)
+- [ALIMENTATION](alimentation)
+- [BOIS](bois)
+- [CAOUTCHOUC, PAPIER, CARTON](caoutchouc-papier-carton)
+- [CHIMIE](chimie)
+- [EAU, GAZ, ELECTRICITE](eau-gaz)
+- [BATIMENT ET TRAVAUX PUBLICS](batiment-et)
+- [CATEGORIES FORFAITAIRES ET HORS COMITES TECHNIQUES](categories-forfaitaires-et)
+- [CUIRS ET PEAUX](cuirs-et)
+- [METALLURGIE ET TRAVAIL DES METAUX](metallurgie-et)
+- [PIERRES ET TERRES A FEU](pierres-et)
+- [TRANSPORTS ET MANUTENTION](transports-et)
+- [INDUSTRIES TEXTILES](industries-textiles)
+- [LIVRE](livre)
+- [COMMERCES NON ALIMENTAIRES](commerces-non)
+- [VETEMENT](vetement)
