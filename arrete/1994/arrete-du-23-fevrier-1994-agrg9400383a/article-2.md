@@ -2,7 +2,7 @@
 
 Pour l'application du présent arrêté, il faut entendre par :
 
-a) Viandes séparées mécaniquement : viandes séparées des os charnus par broyage et tamisage ;
+a) Viandes séparées mécaniquement : viandes séparées mécaniquement des os charnus ;
 
 b) Viandes : toutes les parties reconnues propres à la consommation humaine des animaux de l'espèce porcine et des volailles domestiques ;
 
