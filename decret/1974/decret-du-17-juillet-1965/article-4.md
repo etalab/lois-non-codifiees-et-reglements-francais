@@ -1,0 +1,3 @@
+# Article 4
+
+La conduite, longue d'environ 250 km, suivra un axe général Nord-Ouest Sud-Est, à partir du Havre vers Tancarville où elle franchira la Seine en aval du pont de Tancarville, traversera le marais Vernier avant de franchir l'Iton et l'Eure. Elle passera au Nord-Est de Pont-Audemer et d'Evreux, au Sud-Ouest d'Elbeuf et de Louviers, empruntera la vallée de l'Eure puis contournera par l'Ouest et le Sud Versailles et la grande banlieue parisienne où elle franchira une deuxième fois la Seine sur le territoire des communes d'Evry-Petit-Bourg et d'Etiolles pour rejoindre, par le Nord de Melun, la raffinerie située à Grandpuits.
