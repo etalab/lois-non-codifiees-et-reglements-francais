@@ -1,6 +1,6 @@
 # Article 4
 
-I - L'établissement public a pour mission, dans le respect des attributions des départements et des communes et, le cas échéant, en collaboration avec ces collectivités et avec l'Etat, de contribuer au développement économique, social et culturel de la région par :
+I - La région a pour mission, dans le respect des attributions des départements et des communes et, le cas échéant, en collaboration avec ces collectivités et avec l'Etat, de contribuer au développement économique, social et culturel de la région par :
 
 1° toutes études intéressant le développement régional ;
 
@@ -23,11 +23,3 @@ Ces mesures doivent faire l'objet d'une consultation préalable des conseils mun
 II - Deux ou plusieurs régions peuvent pour l'exercice de leurs compétences conclure entre elles des conventions ou créer des institutions d'utilité commune.
 
 Le conseil régional peut décider, avec l'autorisation du gouvernement, d'organiser à des fins de concertation et dans le cadre de la coopération transfrontalière des contacts réguliers avec des collectivités décentralisées étrangères ayant une frontière commune avec la région.
-
-III - L'établissement public exerce en outre :
-
-1° les attributions intéressant le développement régional que l'Etat lui confie dans des conditions fixées par décret en Conseil d'Etat ;
-
-2° les attributions, autres que les tâches de gestion, que des collectivités locales ou des groupements de collectivités locales décident de lui confier avec son accord.
-
-L'Etat et les collectivités locales ou groupements de collectivités locales assurent à l'établissement public des ressources correspondant aux attributions qu'ils lui transfèrent en application des dispositions du présent paragraphe.
