@@ -20,4 +20,8 @@ f) Aux allocations familiales et à leurs majorations pour âge visées aux arti
 
 II. Il est procédé aux relèvements des limites d'âge d'ouverture du droit aux prestations familiales prévus au I ainsi qu'à des mesures améliorant les conditions d'accès au logement des familles, après constatation d'un excédent de ressources disponibles des régimes de prestations familiales pour l'exercice précédent jusqu'au 31 décembre 1998. Toutefois, le relèvement des limites d'âge prévu au I doit être effectué avant le 31 décembre 1999.
 
-III. Les conditions d'application du présent article sont fixées par décret.
+III. - Par dérogation aux dispositions des I et II ci-dessus, dans les départements [*d'outre-mer*] mentionnés à l'article L. 751-1 du code de la sécurité sociale, est relevé, à compter du 1er avril 1995, pour le droit à l'allocation de logement familiale mentionnée à l'article L. 755-21 dudit code, l'âge limite visé respectivement aux 2° et 3° de l'article L. 512-3 du même code.
+
+Le financement de cette mesure est imputé sur la quote-part mentionnée à l'article 6 de la présente loi jusqu'au relèvement pour la métropole des limites d'âge prévues au 1° et au a du 2° du I ci-dessus.
+
+IV. Les conditions d'application du présent article sont fixées par décret.
