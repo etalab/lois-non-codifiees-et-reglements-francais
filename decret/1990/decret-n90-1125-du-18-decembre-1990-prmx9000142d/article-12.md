@@ -1,3 +1,0 @@
-# Article 12
-
-Chaque ministre désigne par arrêté un responsable, ayant rang de directeur d'administration centrale, de chef de service ou de chef de corps d'inspection ou de contrôle, chargé de développer les actions de son département ministériel en matière de simplification des formalités administratives et d'amélioration des relations avec les usagers. Ce responsable est notamment chargé d'informer la commission pour la simplification des formalités de la politique menée en ce domaine dans son département ministériel. Il est également, au sein de celui-ci, le correspondant du Médiateur de la République.

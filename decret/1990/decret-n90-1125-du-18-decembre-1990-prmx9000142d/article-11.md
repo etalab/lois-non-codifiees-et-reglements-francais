@@ -1,3 +1,0 @@
-# Article 11
-
-Il est institué auprès du préfet de région une commission régionale de simplification des formalités chargée de formuler à l'intention des autorités déconcentrées et de la commission mentionnée à l'article 1er des avis et des propositions en matière de formalités administratives et d'échange d'informations avec les usagers. Cette commission comprend en nombre égal des représentants des administrations et organismes mentionnés au premier alinéa de l'article 5 et des personnalités qualifiées en matière de relations entre ces administrations et organismes et les usagers nommées par le préfet.

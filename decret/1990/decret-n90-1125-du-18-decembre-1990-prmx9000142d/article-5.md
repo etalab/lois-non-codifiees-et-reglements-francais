@@ -1,7 +1,0 @@
-# Article 5
-
-La commission a compétence pour étudier toute question relative aux formalités qui incombent aux usagers, qu'il s'agisse de personnes physiques ou morales, dans leurs relations avec les services de l'Etat et des organismes chargés d'une mission de service public placés sous la tutelle de l'Etat ainsi que toute question relative à la simplification des procédures et échanges d'informations instituées par ces mêmes services et organismes. Dans ce domaine elle peut adresser des recommandations et des propositions à ces administrations et organismes.
-
-La commission coordonne l'activité des instances de l'Etat compétentes en matière de formalités administratives ou d'échanges d'informations avec les usagers quel qu'en soit le support. A cet effet, elle est informée de leurs travaux. Elle peut recueillir leur avis sur toute question de leur compétence ou leur demander des travaux particuliers.
-
-La commission peut également examiner les problèmes liés à la juxtaposition de formalités instituées dans le cadre national et de formalités instituées soit par les autorités d'un Etat étranger, soit dans le cadre de la Communauté européenne ou d'une autre instance internationale. A ce titre, elle peut effectuer ses travaux en liaison avec les instances étrangères, communautaires ou internationales compétentes en ce domaine. En ce qui concerne les procédures du commerce international elle effectue ses travaux en liaison avec le Comité français pour la simplification des procédures du commerce international.
