@@ -1036,7 +1036,6 @@
 - [Décret n°92-1379 du 30 décembre 1992 (INTE9200522D)](decret-n92-1379-du-30-decembre-1992-inte9200522d)
 - [Décret n°92-1380 du 30 décembre 1992 (ECOT9210162D)](decret-n92-1380-du-30-decembre-1992-ecot9210162d)
 - [Décret n°92-1384 du 30 décembre 1992 (AGRS9202391D)](decret-n92-1384-du-30-decembre-1992-agrs9202391d)
-- [Décret n°92-1390 du 30 décembre 1992 (EQUX9200244D)](decret-n92-1390-du-30-decembre-1992-equx9200244d)
 - [Décret n°92-1391 du 30 décembre 1992 (INDE9200932D)](decret-n92-1391-du-30-decembre-1992-inde9200932d)
 - [Décret n°92-1392 du 30 décembre 1992 (ENEG9200857D)](decret-n92-1392-du-30-decembre-1992-eneg9200857d)
 - [Décret n°92-1429 du 30 décembre 1992 (BUDL9200228D)](decret-n92-1429-du-30-decembre-1992-budl9200228d)

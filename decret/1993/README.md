@@ -197,7 +197,6 @@
 - [Décret n°93-312 du 9 mars 1993 (SANC9300489D)](decret-n93-312-du-9-mars-1993-sanc9300489d)
 - [Décret n°93-340 du 9 mars 1993 (JUSF9350005D)](decret-n93-340-du-9-mars-1993-jusf9350005d)
 - [Décret n°93-342 du 9 mars 1993 (MERF9300015D)](decret-n93-342-du-9-mars-1993-merf9300015d)
-- [Décret n°93-847 du 9 juin 1993 (ECOZ9300007D)](decret-n93-847-du-9-juin-1993-ecoz9300007d)
 - [Décret n°93-848 du 9 juin 1993 (MCCB9300035D)](decret-n93-848-du-9-juin-1993-mccb9300035d)
 - [Décret n°93-849 du 9 juin 1993 (DEFP9301494D)](decret-n93-849-du-9-juin-1993-defp9301494d)
 - [Décret n°93-891 du 9 juillet 1993 (AGRP9301132D)](decret-n93-891-du-9-juillet-1993-agrp9301132d)
