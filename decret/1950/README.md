@@ -18,6 +18,7 @@
 - [Décret n°50-1080 du 17 août 1950](decret-n50-1080-du-17-aout-1950)
 - [Décret n°50-1299 du 18 octobre 1950](decret-n50-1299-du-18-octobre-1950)
 - [Décret n°50-342 du 18 mars 1950](decret-n50-342-du-18-mars-1950)
+- [Décret n°50-1555 du 19 décembre 1950](decret-n50-1555-du-19-decembre-1950)
 - [Décret n°50-446 du 19 avril 1950](decret-n50-446-du-19-avril-1950)
 - [Décret n° 50-93 du 20 janvier 1950](decret-n-50-93-du-20-janvier-1950)
 - [Décret n°50-132 du 20 janvier 1950](decret-n50-132-du-20-janvier-1950)
