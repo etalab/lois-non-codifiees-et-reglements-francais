@@ -4,6 +4,4 @@ Les attachés territoriaux constituent un cadre d'emplois administratif de caté
 
 Ce cadre d'emplois [*composition*] comprend les grades d'attaché, d'attaché principal, de directeur territorial.
 
-Le grade d'attaché comporte deux classes.
-
 Le grade de directeur territorial comporte une classe normale et une classe exceptionnelle.
