@@ -124,6 +124,7 @@
 - [Décret n°88-897 du 24 août 1988 (MAEJ8830052D)](decret-n88-897-du-24-aout-1988-maej8830052d)
 - [Décret n°88-900 du 24 août 1988 (ECOB8820009D)](decret-n88-900-du-24-aout-1988-ecob8820009d)
 - [Décret n°87-361 du 27 mai 1987 (AGRS8700949D)](decret-n87-361-du-27-mai-1987-agrs8700949d)
+- [Décret n°78-721 du 28 juin 1978](decret-n78-721-du-28-juin-1978)
 - [Décret n°88-849 du 28 juillet 1988 (MCCB8800452D)](decret-n88-849-du-28-juillet-1988-mccb8800452d)
 - [Décret n°88-854 du 28 juillet 1988 (ECOC8800072D)](decret-n88-854-du-28-juillet-1988-ecoc8800072d)
 - [Décret n°88-938 du 28 septembre 1988 (INTX8800089D)](decret-n88-938-du-28-septembre-1988-intx8800089d)
