@@ -8,4 +8,6 @@ Seront punis [*sanction - taux*]  d'une peine de deux mois à un an de prison et
 
 3° Accepté de recevoir ou reçu un avantage en violation des dispositions de l'article 8 ;
 
-4° Promis ou versé, accepté de recevoir ou reçu une somme d'argent ou un avantage en violation des dispositions de l'alinéa premier de l'article 10 .
+4° Promis ou versé, accepté de recevoir ou reçu une somme d'argent ou un avantage en violation des dispositions de l'alinéa premier de l'article 10 ;
+
+5° Enfreint l'interdiction édictée par l'article 11.
