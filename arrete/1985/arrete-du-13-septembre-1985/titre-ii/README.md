@@ -12,4 +12,5 @@
 - [Chapitre X : Pari trio urbain](chapitre-x)
 - [Chapitre XI : Pari quarté](chapitre-xi)
 - [Chapitre XII : Pari quartet](chapitre-xii)
+- [Chapitre XII bis : Pari "quarté plus"](chapitre-xii-bis)
 - [Chapitre XIII : Pari derby](chapitre-xiii)

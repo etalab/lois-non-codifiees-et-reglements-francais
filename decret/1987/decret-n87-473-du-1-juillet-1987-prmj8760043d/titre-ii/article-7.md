@@ -1,0 +1,3 @@
+# Article 7
+
+Une surveillance médicale particulière est organisée au bénéfice des élèves et des étudiants inscrits dans des unités pédagogiques scolaires et universitaires spécialement aménagées en vue de la pratique des sports. La surveillance médicale particulière de ces élèves et étudiants comprend au moins un examen médico-sportif par trimestre. Elle est assurée sous la responsabilité du médecin inspecteur régional du ministère chargé des sports. Le médecin de la fédération intéressée et le service de santé de l'établissement scolaire ou universitaire sont associés à cette surveillance médicale.
