@@ -1,3 +1,0 @@
-# DU TRANSPORT ROUTIER NON-URBAIN DE PERSONNES
-
-- [Article 29](article-29.md)
