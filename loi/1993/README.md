@@ -14,3 +14,4 @@
 - [Loi n° 93-937 du 22 juillet 1993 (MAEX9300139L)](loi-n-93-937-du-22-juillet-1993-maex9300139l)
 - [Loi n° 93-949 du 26 juillet 1993 (ECOX9300016L)](loi-n-93-949-du-26-juillet-1993-ecox9300016l)
 - [Loi n° 93-953 du 27 juillet 1993 (SPSX9300084L)](loi-n-93-953-du-27-juillet-1993-spsx9300084l)
+- [Loi n° 93-992 du 10 août 1993 (JUSX9300079L)](loi-n-93-992-du-10-aout-1993-jusx9300079l)
