@@ -418,6 +418,7 @@
 - [Arrêté du 17 janvier 1992 (SPSP9200193A)](arrete-du-17-janvier-1992-spsp9200193a)
 - [Arrêté du 17 janvier 1992 (SPSS9200194A)](arrete-du-17-janvier-1992-spss9200194a)
 - [Arrêté du 17 janvier 1992 (TEFT9204336A)](arrete-du-17-janvier-1992-teft9204336a)
+- [Arrêté du 17 juillet 1992 (MENH9203000A)](arrete-du-17-juillet-1992-menh9203000a)
 - [Arrêté du 17 juillet 1992 (TEFE9205044A)](arrete-du-17-juillet-1992-tefe9205044a)
 - [Arrêté du 17 juillet 1992 (TEFE9205045A)](arrete-du-17-juillet-1992-tefe9205045a)
 - [Arrêté du 17 juillet 1992 (TEFE9205046A)](arrete-du-17-juillet-1992-tefe9205046a)

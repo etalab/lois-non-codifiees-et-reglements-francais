@@ -5,6 +5,7 @@
 - [Article 2](article-2.md)
 - [Titre II : Dispositions relatives aux maîtres de conférences.](titre-ii)
 - [Titre III : Dispositions relatives aux professeurs des universités.](titre-iii)
+- [Titre III bis : Dispositions relatives aux nominations à l'issue des concours de recrutement.](titre-iii-bis)
 - [Titre IV : Dispositions diverses et transitoires.](titre-iv)
 - [Article 75](article-75.md)
 - [Article Annexe](article-annexe.md)
