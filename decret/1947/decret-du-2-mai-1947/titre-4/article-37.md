@@ -1,5 +1,3 @@
 # Article 37
 
-Pour les élections des représentants des exploitants aux conseils d'administration des différents organismes de sécurité sociale, l'électeur, lorsque l'exploitant est une personne morale, est un mandataire désigné à cet effet.
-
-Un même exploitant ne peut désigner qu'un seul mandataire pour l'ensemble des établissements qu'il possède dans la circonscription de l'organisme intéressé.
+Les élections des membres des conseils d'administration des sociétés de secours minières des unions régionales et de la caisse autonome nationale de la sécurité sociale dans les mines ont lieu à des dates fixées par arrêté du ministre chargé de la sécurité sociale [*autorité compétente*].
