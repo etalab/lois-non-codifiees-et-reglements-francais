@@ -6,7 +6,7 @@ Sous-lieutenant : trois échelons ;
 
 Lieutenant : cinq échelons ;
 
-Capitaine : quatre échelons et un échelon spécial ;
+Capitaine : cinq échelons et un échelon spécial ;
 
 Chef d'escadron : trois échelons ;
 

@@ -1,0 +1,5 @@
+# Article 25
+
+Les lieutenants ou officiers de 2e classe promus au grade de capitaine ou d'officier de 1re classe alors qu'ils étaient au 4e ou au 5e échelon du grade de lieutenant ou d'officier de 2e classe sont classés à l'échelon du grade de capitaine ou d'officier de 1re classe comportant un indice égal ou, à défaut, immédiatement supérieur à celui qu'ils avaient atteint. Ils y conservent éventuellement, dans la limite de deux ans, l'ancienneté acquise au dernier échelon atteint dans le grade de lieutenant ou d'officier de 2e classe.
+
+Les capitaines ou officiers de 1re classe promus au grade de commandant ou d'officier principal alors qu'ils étaient au 4e échelon ou au 5e échelon du grade de capitaine ou d'officier de 1re classe sont classés à l'échelon du grade de commandant ou d'officier principal comportant un indice égal ou, à défaut, immédiatement supérieur à celui qu'ils avaient atteint. Ils y conservent, dans la limite de deux ans, l'ancienneté acquise au dernier échelon atteint dans le grade de capitaine ou d'officier de 1re classe.
