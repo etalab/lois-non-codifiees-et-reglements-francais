@@ -30,6 +30,7 @@
 - [Décret n°82-242 du 15 mars 1982](decret-n82-242-du-15-mars-1982)
 - [Décret n°82-243 du 15 mars 1982](decret-n82-243-du-15-mars-1982)
 - [Décret n°82-245 du 15 mars 1982](decret-n82-245-du-15-mars-1982)
+- [Décret n°82-253 du 16 mars 1982](decret-n82-253-du-16-mars-1982)
 - [Décret n°82-43 du 16 janvier 1982](decret-n82-43-du-16-janvier-1982)
 - [Décret n°82-44 du 16 janvier 1982](decret-n82-44-du-16-janvier-1982)
 - [Décret n°82-172 du 17 février 1982](decret-n82-172-du-17-fevrier-1982)
