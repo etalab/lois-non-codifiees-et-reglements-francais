@@ -17,6 +17,7 @@
 - [Ordonnance n°45-320 du 3 mars 1945](ordonnance-n45-320-du-3-mars-1945)
 - [Ordonnance n° 45-2251 du 4 octobre 1945](ordonnance-n-45-2251-du-4-octobre-1945)
 - [Ordonnance n°45-918 du 5 mai 1945](ordonnance-n45-918-du-5-mai-1945)
+- [Ordonnance n°45-1744 du 6 août 1945](ordonnance-n45-1744-du-6-aout-1945)
 - [Ordonnance n° 45-2280 du 9 octobre 1945](ordonnance-n-45-2280-du-9-octobre-1945)
 - [Ordonnance n° 45-2283 du 9 octobre 1945](ordonnance-n-45-2283-du-9-octobre-1945)
 - [Ordonnance du 13 décembre 1944](ordonnance-du-13-decembre-1944)
