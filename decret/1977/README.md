@@ -177,7 +177,6 @@
 - [Décret n°77-1331 du 30 novembre 1977](decret-n77-1331-du-30-novembre-1977)
 - [Décret n°77-1478 du 30 décembre 1977](decret-n77-1478-du-30-decembre-1977)
 - [Décret n°77-742 du 30 juin 1977](decret-n77-742-du-30-juin-1977)
-- [Décret n°77-816 du 30 juin 1977](decret-n77-816-du-30-juin-1977)
 - [Décret n°77-990 du 30 août 1977](decret-n77-990-du-30-aout-1977)
 - [Décret n°76-1294 du 31 décembre 1976](decret-n76-1294-du-31-decembre-1976)
 - [Décret n°76-1330 du 31 décembre 1976](decret-n76-1330-du-31-decembre-1976)
