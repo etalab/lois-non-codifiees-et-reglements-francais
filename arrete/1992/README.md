@@ -384,6 +384,7 @@
 - [Arrêté du 27 janvier 1992 (SPSS9200274A)](arrete-du-27-janvier-1992-spss9200274a)
 - [Arrêté du 27 juin 1991 (AGRS9101283A)](arrete-du-27-juin-1991-agrs9101283a)
 - [Arrêté du 27 mars 1992 (AGRG9200600A)](arrete-du-27-mars-1992-agrg9200600a)
+- [Arrêté du 27 mars 1992 (COMG9100008A)](arrete-du-27-mars-1992-comg9100008a)
 - [Arrêté du 27 mars 1992 (EQUC9200360A)](arrete-du-27-mars-1992-equc9200360a)
 - [Arrêté du 27 mars 1992 (PTTR9200150A)](arrete-du-27-mars-1992-pttr9200150a)
 - [Arrêté du 27 novembre 1991 (SANH9102617A)](arrete-du-27-novembre-1991-sanh9102617a)
