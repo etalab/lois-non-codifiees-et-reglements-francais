@@ -66,7 +66,6 @@
 - [Arrêté du 3 mars 1993 (SANH9300754A)](arrete-du-3-mars-1993-sanh9300754a)
 - [Arrêté du 3 mars 1993 (SANH9300755A)](arrete-du-3-mars-1993-sanh9300755a)
 - [Arrêté du 3 novembre 1993 (AGRG9300235A)](arrete-du-3-novembre-1993-agrg9300235a)
-- [Arrêté du 3 novembre 1993 (ECOT9326083A)](arrete-du-3-novembre-1993-ecot9326083a)
 - [Arrêté du 3 novembre 1993 (INDD9300863A)](arrete-du-3-novembre-1993-indd9300863a)
 - [Arrêté du 3 novembre 1993 (MCCD9300356A)](arrete-du-3-novembre-1993-mccd9300356a)
 - [Arrêté du 3 septembre 1993 (ENVE9320348A)](arrete-du-3-septembre-1993-enve9320348a)
