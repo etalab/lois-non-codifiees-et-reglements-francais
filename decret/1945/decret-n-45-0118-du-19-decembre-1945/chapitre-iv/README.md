@@ -1,4 +1,4 @@
-# Chapitre IV : Chambres de discipline
+# Chapitre IV : Transferts, créations et suppressions d'offices d'avoué.
 
 - [Section I : Composition.](section-i)
 - [Section II : Désignation des membres de la chambre et durée de leurs fonctions.](section-ii)
@@ -9,3 +9,9 @@
 - [Section VII : Vérification de la comptabilité.](section-vii)
 - [Section VIII : Différends entre avoués et plaintes contre les avoués.](section-viii)
 - [Section IX : Avoués honoraires.](section-ix)
+- [Article 12-8](article-12-8.md)
+- [Article 12-9](article-12-9.md)
+- [Article 12-10](article-12-10.md)
+- [Article 12-11](article-12-11.md)
+- [Article 12-12](article-12-12.md)
+- [Article 12-13](article-12-13.md)
