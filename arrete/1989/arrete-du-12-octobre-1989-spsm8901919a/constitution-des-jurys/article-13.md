@@ -1,9 +1,5 @@
 # Article 13
 
-La présence du président et d'au moins huit membres du jury national d'admissibilité est nécessaire lors de l'ouverture des opérations de correction correspondantes, et du président et d'au moins six membres de chaque jury interrégional lors de l'ouverture des épreuves d'admission.
+Le classement du candidat dans chacune des zones géographiques où il a concouru lui est communiqué individuellement par le directeur de l'hospitalisation et de l'organisation des soins au ministère de l'emploi et de la solidarité, avec les indications lui permettant de participer à la procédure nationale de choix de la circonscription et de la discipline prévue par l'article 12 du décret du 19 octobre 1988 susvisé.
 
-Lorsqu'un membre du jury cesse de siéger alors que les épreuves ont commencé, il ne peut reprendre sa place au sein du jury ni être remplacé. Les membres restants siègent valablement sous réserve d'être au nombre de cinq minimum pour le jury de neuf membres et de sept pour celui de treize.
-
-En cas de défaillance du président, le rôle de ce dernier est assuré par le membre du jury restant à siéger le plus âgé.
-
-Lorsque les quorums prévus aux alinéas précédents ne sont pas atteints, les épreuves sont suspendues. Dans les quinze jours qui suivent, il est procédé à un nouveau tirage au sort dans les conditions susvisées. Les noms des praticiens appelés à siéger la première fois sont valablement remis dans les urnes.
+Les modalités d'affectation sont fixées par arrêté du ministre chargé de la santé et du ministre chargé des universités.

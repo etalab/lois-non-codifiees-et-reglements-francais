@@ -1,5 +1,7 @@
 # Article 7
 
-Le jury de chaque circonscription fixe la note en deçà de laquelle aucun candidat ne peut être retenu et établit une liste complémentaire. Il propose, dans la limite maximale de postes mis au concours, les candidats jugés aptes à remplir les fonctions d'interne en pharmacie.
+Toutes les mesures nécessaires sont prises par le directeur de l'hospitalisation et de l'organisation des soins ou son représentant pour assurer l'anonymat des épreuves.
 
-Si nécessaire, les ex aequo sont départagés en fonction de la meilleure note obtenue à l'épreuve d'admissibilité. Si cette méthode s'avère insuffisante, il est tenu compte de la meilleure note à l'épreuve rédactionnelle d'admission. Si des ex aequo subsistent encore, ils sont départagés au bénéfice du plus âgé.
+Chaque exercice d'application et chaque dossier thérapeutique et biologique fait l'objet d'une double correction indépendante. La note est déterminée par la moyenne des deux corrections.
+
+Une troisième correction est effectuée lorsque l'écart des points entre les deux corrections est supérieur ou égal au seuil fixé dans le cahier des charges mentionné à l'article 8 ci-dessous.

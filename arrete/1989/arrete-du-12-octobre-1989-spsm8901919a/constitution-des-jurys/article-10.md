@@ -1,7 +1,5 @@
 # Article 10
 
-Nul ne peut siéger à la fois dans le jury d'admissibilité et un des jurys d'admission au titre d'une même année, ni deux années consécutives.
+La présidence du jury est exercée par l'enseignant pharmacien le plus ancien en qualité de professeur des universités, exerçant des fonctions hospitalières dans un établissement habilité à former des internes en pharmacie. A ancienneté égale, la présidence échoit au plus âgé. Le président est assisté d'un vice-président désigné dans les mêmes conditions. En cas d'empêchement du président, le vice-président le remplace.
 
-La parenté ou l'alliance jusqu'au quatrième degré inclus ou le mariage soit avec un membre du jury, soit avec l'un des candidats inscrits entraîne la récusation. Ce membre est remplacé par un suppléant.
-
-Sauf récusation prévue ci-dessus, les fonctions de membre d'un jury sont obligatoires.
+Lorsqu'une décision du jury nécessite un vote, la voix du président est prépondérante en cas de partage égal des voix.

@@ -1,51 +1,23 @@
 # Article 3
 
-Le programme du concours de l'internat correspond à celui de la formation commune de base définie par l'arrêté du 17 juillet 1987 susvisé relatif au régime des études en vue du diplôme d'Etat de docteur en pharmacie. Toutefois, un arrêté conjoint des ministres chargés de la santé et de l'enseignement supérieur peut limiter le programme des épreuves du concours dans le cadre ainsi défini.
+Le programme du concours de l'internat en pharmacie figure en annexe I du présent arrêté. Ce programme entrera en vigueur à compter des concours organisés au titre de l'année universitaire 2002-2003.
 
-Les épreuves sont écrites et anonymes.
+Les épreuves sont écrites et anonymes. Leur nature, leur durée et leur cotation sont fixées comme suit :
 
-Leur nature, leur durée et leur cotation sont fixées comme suit :
+A. - Première épreuve (durée : 1 h 30).
 
-A - Admissibilité
+Questions de connaissances générales : 60 questions à choix multiple (QCM). Cotation sur 120 points.
 
-1. Questions de connaissances générales à choix multiple de réponses portant sur les sections I, II, III, IV et V du programme de la formation commune de base défini par l'arrêté du 17 juillet 1987 susvisé.
+B. - Deuxième épreuve (durée : 2 heures).
 
-Soixante questions ou groupes de questions : cotation sur 180 points.
+Quatre à six exercices d'application (numériques ou non numériques), notés chacun de 20 à 60 points. Cotation sur 200 points.
 
-Durée de l'épreuve : deux heures.
+C. - Troisième épreuve (durée : 3 heures).
 
-2. Exercices d'application (numériques ou non numériques) portant sur les statistiques, les sciences physiques ou chimiques, les sciences du médicament et les sciences biologiques.
+Quatre à six dossiers thérapeutiques et biologiques, notés chacun de 30 à 90 points, comportant des questions relatives aux éléments de ces dossiers et, le cas échéant :
 
-Le nombre des exercices est au moins de quatre et aucun de ceux-ci ne peut être coté sur plus de 40 points.
+- des questions rédactionnelles de connaissances générales ;
 
-Cotation sur 160 points.
+- des questions sur les doses maximales de médicaments (adultes et enfants) et/ou sur les valeurs biologiques usuelles notées sur 5 points maximum par dossier.
 
-Durée de l'épreuve : deux heures.
-
-3. Questions portant sur les doses maximales des médicaments usuels ainsi que les valeurs biologiques usuelles.
-
-Notées de 0 à 20 ; cotation sur 20 points.
-
-Durée de l'épreuve : dix minutes.
-
-Total maximal des points à l'épreuve d'admissibilité : 360 points.
-
-B - Admission
-
-Epreuves écrites :
-
-a) Epreuve rédactionnelle portant respectivement sur la pharmacie clinique et sur la biologie clinique :
-
-Deux questions ou groupes de questions notées de 0 à 50 :
-
-cotation sur 100 points ;
-
-Durée : une heure trente minutes.
-
-- b) Etude de dossiers thérapeutiques et biologiques :
-
-Deux dossiers notés de 0 à 50 : cotation sur 100 points ;
-
-Durée : une heure trente minutes.
-
-Total maximal des points à l'épreuve d'admission : 200 points.
+Cotation sur 300 points.
