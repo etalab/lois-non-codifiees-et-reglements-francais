@@ -1,3 +1,3 @@
 # Article 1
 
-Les sociétés d'aménagement foncier et d'établissement rural agréées qui exercent leur activité en métropole peuvent bénéficier, dans les conditions déterminées ci-après, de subventions de fonctionnement et d'équipement dans la limite du montant des crédits ouverts chaque année au budget du ministère de l'agriculture à cet effet.
+La taxe parafiscale instituée par l'article 1er du décret n° 83-207 du 17 mars 1983 est perçue au taux de 0,70 p. 1.000 pendant la période du 1er janvier 1983 au 31 décembre 1983.
