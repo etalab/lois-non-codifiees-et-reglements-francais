@@ -6,4 +6,4 @@ L'agrément est accordé par arrêté du ministre chargé de la santé, pris apr
 
 Ces méthodes doivent être soit les méthodes de référence fixées par un arrêté du ministre chargé de la santé, pris après avis du Conseil supérieur d'hygiène publique de France [*autorités compétentes*], soit des méthodes conduisant à des résultats équivalents.
 
-Les frais d'analyse sont supportés par l'exploitant, selon des tarifs et des modalités fixés par arrêté des ministres chargés de la santé, du budget et des collectivités territoriales.
+Les frais d'analyse sont supportés par l'exploitant, selon des tarifs et des modalités fixés par arrêté des ministres chargés de la santé, de l'économie, de la consommation et des collectivités territoriales.
