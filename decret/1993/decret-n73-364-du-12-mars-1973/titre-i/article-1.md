@@ -94,9 +94,7 @@ Armes d'épaule semi-automatiques dont le magasin et la chambre ne peuvent conte
 
 § 10. Armes semi-automatiques ayant l'apparence d'une arme automatique de guerre quel qu'en soit le calibre ;
 
-§ 11. Armes d'alarme à grenaille à percussion annulaire ;
-
-§ 12. Armes à feu camouflées sous la forme d'un autre objet ;
+§ 11. Armes de poing à grenaille, y compris celles à percussion annulaire à un coup dont la longueur totale est supérieure à 28 cm ;    § 12. Armes à feu camouflées sous la forme d'un autre objet ;
 
 § 13. Mécanismes de fermeture, canons, chargeurs ou barillets des armes de la présente catégorie, à l'exclusion de ceux d'entre eux qui sont aussi des éléments d'armes classées en cinquième ou septième catégorie ;
 
@@ -120,7 +118,7 @@ Septième catégorie - Armes de tir, de foire ou de salon :
 
 - armes à feu de tous calibres à percussion annulaire, autres que celles classées dans la quatrième catégorie ci-dessus, et leurs munitions ;
 
-- armes d'alarme, de signalisation et de starter, autres que celles classées dans la quatrième catégorie ci-dessus, à condition qu'elles ne permettent pas le tir de cartouches à balles.
+- armes d'alarme, de signalisation et de starter, autres que celles classées dans la quatrième catégorie ci-dessus, à condition qu'elles ne permettent pas le tir de cartouches à balles ou à grenaille.
 
 - mécanismes de fermeture, canons, magasins des armes ci-dessus.
 

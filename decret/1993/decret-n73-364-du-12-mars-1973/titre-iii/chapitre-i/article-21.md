@@ -10,4 +10,8 @@ Les détenteurs régulièrement autorisés, à la date de publication du décret
 
 Les détenteurs d'arme de 5e catégorie, dont l'emploi est autorisé pour la chasse, classées en 4e catégorie par le présent décret sont autorisés à continuer de les utiliser à cette fin et à acquérir les munitions de chasse correspondantes. Cette autorisation est subordonnée à la déclaration de ces armes au préfet du lieu de domicile dans le délai d'un an qui suit la publication du décret n° 93-998 du 9 août 1993. Il est délivré récépissé conforme au modèle annexe n° 4 de cette déclaration.
 
-Les détenteurs d'armes d'alarme à grenailles à percussion annulaire classées en quatrième catégorie par le présent décret sont tenus pour les conserver d'en faire la déclaration au préfet du département de domicile dans l'année qui suit la publication du décret n° 93-998 du 9 août 1993. Il leur est délivré récépissé de cette déclaration.
+Les détenteurs d'armes de poing à grenaille classées en 4e catégorie et acquises avant la date de publication du décret n° 94-144 du 18 février 1994 sont tenus pour pouvoir continuer de les détenir, d'en faire la déclaration au préfet de département du domicile dans le délai d'un an à compter de la publication dudit décret. Il leur est délivré récépissé de cette déclaration.
+
+Toutefois, à l'issue d'une période de trois ans, comptée à partir de la date de publication de ce même décret, ils doivent, pour pouvoir continuer de les détenir, demander une autorisation au préfet de département du domicile.
+
+L'autorisation est délivrée pour une durée et selon les modalités prévues à l'article 16-1.
