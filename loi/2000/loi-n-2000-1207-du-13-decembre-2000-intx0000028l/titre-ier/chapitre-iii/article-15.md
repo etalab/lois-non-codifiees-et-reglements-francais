@@ -46,7 +46,9 @@ VI. - Les services de l'Etat compétents en matière d'emploi assurent la gestio
 
 VII. - Les bénéficiaires de l'allocation de congé-solidarité bénéficient, pour eux-mêmes et leurs ayants droit, de prestations en nature en cas de maladie et de maternité du régime dont ils relevaient à la date de leur adhésion à la convention d'application.
 
-Les périodes de versement de l'allocation de congé-solidarité sont assimilées à des périodes d'assurance pour l'ouverture du droit à la pension de retraite du régime de sécurité sociale dont relevait le bénéficiaire. Le fonds de solidarité vieillesse mentionné à l'article L. 135-2 du code de la sécurité sociale verse au régime concerné une somme correspondant à cette validation et reçoit à ce titre le produit de cotisations à la charge des personnes mentionnées au premier alinéa du V établies sur une base forfaitaire fixée par décret.
+Les périodes de versement de l'allocation de congé-solidarité sont assimilées à des périodes d'assurance pour l'ouverture du droit à la pension de retraite du régime de sécurité sociale dont relevait le bénéficiaire.
+
+somme correspondant à cette validation et reçoit à ce titre le produit de cotisations à la charge des personnes mentionnées au premier alinéa du V établies sur une base forfaitaire fixée par décret.
 
 VIII. - Le non-respect par l'employeur des engagements souscrits dans la convention de congé-solidarité entraîne une majoration de sa contribution financière fixée par celle-ci. Aucune nouvelle adhésion à la convention d'application ne peut alors être acceptée.
 

@@ -1,0 +1,3 @@
+# Article 79
+
+Par dérogation aux dispositions de l'article 10 de la loi n° 69-3 du 3 janvier 1969 relative à l'exercice des activités ambulantes et au régime applicable aux personnes circulant en France sans domicile ni résidence fixe, les personnes qui sont sans domicile fixe peuvent, si elles le souhaitent, élire domicile soit auprès d'un organisme agréé à cet effet par décision de l'autorité administrative, soit auprès d'un centre communal ou intercommunal d'action sociale, pour l'application de la législation sur la sécurité sociale et de la législation sur l'aide aux travailleurs sans emploi.

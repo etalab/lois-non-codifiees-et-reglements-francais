@@ -4,6 +4,7 @@
 - [Article 6 bis](article-6-bis.md)
 - [Article 6 ter](article-6-ter.md)
 - [Article 6 quater](article-6-quater.md)
+- [Article 6 quinquiès](article-6-quinquies.md)
 - [Article 7](article-7.md)
 - [Article 8](article-8.md)
 - [Article 9](article-9.md)

@@ -7,6 +7,7 @@
 - [Article 25-3](article-25-3.md)
 - [Article 25-4](article-25-4.md)
 - [Article 26](article-26.md)
+- [Article 26-1](article-26-1.md)
 - [Article 27](article-27.md)
 - [Article 29](article-29.md)
 - [Article 30](article-30.md)
