@@ -5,6 +5,7 @@
 - [Décret n°56-284 du 9 mars 1956](decret-n56-284-du-9-mars-1956)
 - [Décret n°56-27 du 11 janvier 1956](decret-n56-27-du-11-janvier-1956)
 - [Décret n°56-371 du 11 avril 1956](decret-n56-371-du-11-avril-1956)
+- [Décret n°56-824 du 11 août 1956](decret-n56-824-du-11-aout-1956)
 - [Décret n°56-585 du 12 juin 1956](decret-n56-585-du-12-juin-1956)
 - [Décret n°56-493 du 14 mai 1956](decret-n56-493-du-14-mai-1956)
 - [Décret n°56-497 du 14 mai 1956](decret-n56-497-du-14-mai-1956)
