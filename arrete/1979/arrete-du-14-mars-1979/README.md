@@ -1,0 +1,6 @@
+# Arrêté du 14 mars 1979 RATIOS ET AUTRES ELEMENTS CARACTERISANT LA SITUATION FINANCIERE ET ECONOMIQUE DES ENTREPRISES AGRICOLES ADHERANT A UN CENTRE DE GESTION AGREE
+
+- [Article 1](article-1.md)
+- [Article 2](article-2.md)
+- [Article 3](article-3.md)
+- [Annexes](annexes)
