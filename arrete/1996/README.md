@@ -622,6 +622,7 @@
 - [Arrêté du 25 janvier 1996 (ENVG9650020A)](arrete-du-25-janvier-1996-envg9650020a)
 - [Arrêté du 25 janvier 1996 (LOGC9600005A)](arrete-du-25-janvier-1996-logc9600005a)
 - [Arrêté du 25 janvier 1996 (TASS9620390A)](arrete-du-25-janvier-1996-tass9620390a)
+- [Arrêté du 25 juillet 1996 (AGRM9601666A)](arrete-du-25-juillet-1996-agrm9601666a)
 - [Arrêté du 25 juillet 1996 (BUDF9600018A)](arrete-du-25-juillet-1996-budf9600018a)
 - [Arrêté du 25 juillet 1996 (BUDF9600025A)](arrete-du-25-juillet-1996-budf9600025a)
 - [Arrêté du 25 juillet 1996 (ECOC9500158A)](arrete-du-25-juillet-1996-ecoc9500158a)

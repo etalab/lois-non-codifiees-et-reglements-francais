@@ -1,11 +1,7 @@
 # Article 6
 
-Pour les salariés des chantiers temporaires de travaux publics se déplacant avec leur famille, le service des prestations familiales continue d'être assuré par la caisse d'allocations familiales dont relève le siège de l'entreprise.
+Le secrétariat du comité de direction du fonds est assuré par le directeur du FIOM ou son représentant. Il assure notamment la convocation aux réunions des membres du comité. Ce dernier se réunit aussi souvent que nécessaire, et au moins une fois par an pour arrêter le bilan du fonds relatif à l'exercice écoulé.
 
-Pour les personnes sans domicile ni résidence fixe exerçant des activités ambulantes, le service des prestations familiales est assuré :
+Un procès-verbal est rédigé à l'issue de chaque réunion ; il est approuvé par les membres du comité.
 
-- si leurs déplacements sont effectués à partir d'un point fixe, par la caisse d'allocations familiales dont dépend ce point ;
-
-- si leurs déplacements sont effectués habituellement dans une région, par la caisse d'allocations familiales dont dépend le centre de cette région ;
-
-- si leurs déplacements sont effectués à travers l'ensemble du territoire, par la caisse d'allocations familiales de Paris.
+La réunion du comité est de droit si elle est demandée par l'un des membres. Sauf circonstances exceptionnelles, elle se tient dans les quinze jours suivant la réception de la demande de réunion au secrétariat du comité.
