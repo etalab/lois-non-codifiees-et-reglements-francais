@@ -59,7 +59,6 @@
 - [Décret n°78-392 du 17 mars 1978](decret-n78-392-du-17-mars-1978)
 - [Décret n°78-397 du 17 mars 1978](decret-n78-397-du-17-mars-1978)
 - [Décret n°78-457 du 17 mars 1978](decret-n78-457-du-17-mars-1978)
-- [Décret n°78-774 du 17 juillet 1978](decret-n78-774-du-17-juillet-1978)
 - [Décret n°78-609 du 17 mai 1978](decret-n78-609-du-17-mai-1978)
 - [Décret n°78-1016 du 18 octobre 1978](decret-n78-1016-du-18-octobre-1978)
 - [Décret n°78-1038 du 18 octobre 1978](decret-n78-1038-du-18-octobre-1978)
