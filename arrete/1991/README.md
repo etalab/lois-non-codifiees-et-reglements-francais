@@ -1099,7 +1099,6 @@
 - [Arrêté du 31 décembre 1990 (SANH9100026A)](arrete-du-31-decembre-1990-sanh9100026a)
 - [Arrêté du 31 décembre 1990 (SPSS9100029A)](arrete-du-31-decembre-1990-spss9100029a)
 - [Arrêté du 31 décembre 1990 (SPSS9100071A)](arrete-du-31-decembre-1990-spss9100071a)
-- [Arrêté du 31 décembre 1990 (SPSS9100079A)](arrete-du-31-decembre-1990-spss9100079a)
 - [Arrêté du 31 janvier 1991 (ECOT9120167A)](arrete-du-31-janvier-1991-ecot9120167a)
 - [Arrêté du 31 janvier 1991 (EQUA9100183A)](arrete-du-31-janvier-1991-equa9100183a)
 - [Arrêté du 31 janvier 1991 (EQUC9100154A)](arrete-du-31-janvier-1991-equc9100154a)
