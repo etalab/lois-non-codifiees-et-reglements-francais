@@ -700,7 +700,6 @@
 - [Décret n°99-131 du 26 février 1999 (JUSC9920116D)](decret-n99-131-du-26-fevrier-1999-jusc9920116d)
 - [Décret n°99-132 du 26 février 1999 (DEFD9901029D)](decret-n99-132-du-26-fevrier-1999-defd9901029d)
 - [Décret n°99-133 du 26 février 1999 (DEFD9901030D)](decret-n99-133-du-26-fevrier-1999-defd9901030d)
-- [Décret n°99-134 du 26 février 1999 (MCCB9800912D)](decret-n99-134-du-26-fevrier-1999-mccb9800912d)
 - [Décret n°99-237 du 26 mars 1999 (MESS9920420D)](decret-n99-237-du-26-mars-1999-mess9920420d)
 - [Décret n°99-238 du 26 mars 1999 (MENS9900478D)](decret-n99-238-du-26-mars-1999-mens9900478d)
 - [Décret n°99-316 du 26 avril 1999 (MESA9921082D)](decret-n99-316-du-26-avril-1999-mesa9921082d)

@@ -629,8 +629,6 @@
 - [Décret n°98-737 du 21 août 1998 (MESF9810825D)](decret-n98-737-du-21-aout-1998-mesf9810825d)
 - [Décret n°98-754 du 21 août 1998 (MENF9801753D)](decret-n98-754-du-21-aout-1998-menf9801753d)
 - [Décret n°98-757 du 21 août 1998 (ATEN9860059D)](decret-n98-757-du-21-aout-1998-aten9860059d)
-- [Décret n°98-840 du 21 septembre 1998 (MCCB9800626D)](decret-n98-840-du-21-septembre-1998-mccb9800626d)
-- [Décret n°98-841 du 21 septembre 1998 (MCCB9800631D)](decret-n98-841-du-21-septembre-1998-mccb9800631d)
 - [Décret n°98-848 du 21 septembre 1998 (ECOA9820037D)](decret-n98-848-du-21-septembre-1998-ecoa9820037d)
 - [Décret n°98-944 du 21 octobre 1998 (ECOX9800126D)](decret-n98-944-du-21-octobre-1998-ecox9800126d)
 - [Décret n°98-945 du 21 octobre 1998 (FPPX9800151D)](decret-n98-945-du-21-octobre-1998-fppx9800151d)
