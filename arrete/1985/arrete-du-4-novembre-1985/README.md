@@ -1,4 +1,4 @@
-# Arrêté du 15 octobre 1985 relatif à l'examen d'attestation de capacité permettant l'exercice de la profession de transporteur public routier de personnes
+# Arrêté du 4 novembre 1985 du 4 novembre 1985 portant création d'un comité de gestion de la taxe parafiscale sur les granulats et fixant les modalités de gestion et d'utilisation du produit de cette taxe
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -10,4 +10,3 @@
 - [Article 8](article-8.md)
 - [Article 9](article-9.md)
 - [Article 10](article-10.md)
-- [Article 11](article-11.md)
