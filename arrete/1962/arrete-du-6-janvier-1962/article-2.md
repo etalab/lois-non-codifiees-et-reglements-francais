@@ -16,4 +16,4 @@ Ne peuvent être pratiqués que par les docteurs en médecine, conformément à 
 
 7° Le maniement des appareils servant à déterminer la réfraction oculaire.
 
-8° Le maniement des appareils servant à déterminer objectivement l'acuité auditive ainsi que l'audiométrie subjective tonale et vocale.
+8° Audiométrie tonale et vocale à l'exclusion des mesures pratiquées pour l'appareillage des déficients de l'ouïe, en application des dispositions de l'article L. 510-1 du code de la santé publique.
