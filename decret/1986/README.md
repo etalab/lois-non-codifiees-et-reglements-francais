@@ -292,6 +292,7 @@
 - [Décret n°86-118 du 23 janvier 1986](decret-n86-118-du-23-janvier-1986)
 - [Décret n°86-122 du 23 janvier 1986](decret-n86-122-du-23-janvier-1986)
 - [Décret n°86-138 du 23 janvier 1986](decret-n86-138-du-23-janvier-1986)
+- [Décret n°86-778 du 23 juin 1986](decret-n86-778-du-23-juin-1986)
 - [Décret n°85-1374 du 24 décembre 1985](decret-n85-1374-du-24-decembre-1985)
 - [Décret n°86-104 du 24 janvier 1986](decret-n86-104-du-24-janvier-1986)
 - [Décret n°86-110 du 24 janvier 1986](decret-n86-110-du-24-janvier-1986)

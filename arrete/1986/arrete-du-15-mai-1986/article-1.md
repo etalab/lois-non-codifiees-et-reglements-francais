@@ -1,13 +1,89 @@
 # Article 1
 
-Le versement que le régime complémentaire obligatoire d'assurance vieillesse des travailleurs non-salariés des professions artisanales doit effectuer annuellement au profit du régime vieillesse de base en contrepartie des avantages servis par celui-ci aux assurés et aux conjoints coexistants ou survivants, tels qu'ils sont définis à l'article 9 a du décret du 14 mars 1978 susvisé est fixé comme suit :
+Sont interdits en tout temps, sur tout le territoire national, la destruction ou l'enlèvement des oeufs, la destruction, la capture ou l'enlèvement, la mutilation, la naturalisation des reptiles d'espèces non domestiques suivantes ou, qu'ils soient vivants ou morts, leur transport, leur colportage, leur utilisation, leur mise en vente, leur vente ou leur achat :
 
-Francs
+TAXONOMIE :
 
-1982 51.868.800
+Crocodiliens
 
-1983 44.150.400
+- Alligatoridés
 
-1984 33.956.000
+NOM VERNACULAIRE :
 
-1985 20.981.212.
+Caïman noir.
+
+NOM SCIENTIFIQUE :
+
+Melanosuchus niger.
+
+NOM GUYANAIS :
+
+Caïman blanc.
+
+TAXONOMIE :
+
+Chéloniens
+
+- Chélidés
+
+NOM VERNACULAIRE :
+
+Matamata.
+
+NOM SCIENTIFIQUE :
+
+Chelus fimbriatus.
+
+NOM GUYANAIS :
+
+Matamata.
+
+TAXONOMIE :
+
+Chéloniens
+
+- Chélidés
+
+NOM VERNACULAIRE :
+
+Platemyde à tête orange.
+
+NOM SCIENTIFIQUE :
+
+Platemys platycephala.
+
+TAXONOMIE :
+
+Chéloniens
+
+- Pélomédusidés
+
+NOM VERNACULAIRE :
+
+Podocnemide de Cayenne.
+
+NOM SCIENTIFIQUE :
+
+Podocnemus cayennensis (syn. Podocnemus unifelis).
+
+NOM GUYANAIS :
+
+Tortue de rivière de Cayenne.
+
+TAXONOMIE :
+
+Ophidiens
+
+- Boïdés
+
+NOM VERNACULAIRE :
+
+Boa émeraude (syn. Boa canin).
+
+NOM SCIENTIFIQUE :
+
+Corallus caninus.
+
+NOM GUYANAIS :
+
+Couleuvre verte.
