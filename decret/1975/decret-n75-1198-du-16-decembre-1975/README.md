@@ -1,4 +1,5 @@
 # Décret n°75-1198 du 16 décembre 1975 FIXANT LE MONTANT DE L'ALLOCATION D'EDUCATION SPECIALE PREVUE AUX ARTICLES L. 543-1 A L. 543-3 DU CODE DE LA SECURITE SOCIALE
 
+- [Article 2](article-2.md)
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)
