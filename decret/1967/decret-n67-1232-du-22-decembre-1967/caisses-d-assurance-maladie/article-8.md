@@ -1,6 +1,6 @@
 # Article 8
 
-Le comité de gestion de chaque section d'une caisse primaire d'assurance maladie comprend au moins cinq membres désignés par le conseil d'administration de la caisse parmi les différentes catégories d'administrateurs [*nombre, composition*]. Au sein de ce comité, l'ensemble de la représentation des assurés et des employeurs comprend, pour trois cinquièmes, des représentants des assurés et, pour deux cinquièmes, des représentants des employeurs [*répartition, pourcentage*].
+Le comité de gestion de chaque section d'une caisse primaire comprend au moins cinq membres désignés par le conseil d'administration de la caisse parmi les différentes catégories d'administrateurs [*nombre, composition*]. Au sein de ce comité, le nombre des représentants des assurés est supérieur à celui des représentants des employeurs. Chaque organisation [*syndicales nationales représentatives*] visée à l'article 23 de la loi n° 82-1061 du 17 décembre 1982 susvisée est, sur sa demande, représentée au comité.
 
 Les représentants des salariés au comité de gestion de chaque section doivent être des assurés sociaux relevant de cette section [*condition*].
 

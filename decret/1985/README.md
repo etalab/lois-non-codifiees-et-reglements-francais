@@ -84,6 +84,8 @@
 - [Décret n°85-350 du 19 mars 1985](decret-n85-350-du-19-mars-1985)
 - [Décret n°85-623 du 19 juin 1985](decret-n85-623-du-19-juin-1985)
 - [Décret n°85-253 du 20 février 1985](decret-n85-253-du-20-fevrier-1985)
+- [Décret n°85-348 du 20 mars 1985](decret-n85-348-du-20-mars-1985)
+- [Décret n°85-349 du 20 mars 1985](decret-n85-349-du-20-mars-1985)
 - [Décret n°85-258 du 21 février 1985](decret-n85-258-du-21-fevrier-1985)
 - [Décret n°85-267 du 21 février 1985](decret-n85-267-du-21-fevrier-1985)
 - [Décret n°85-260 du 22 février 1985](decret-n85-260-du-22-fevrier-1985)
