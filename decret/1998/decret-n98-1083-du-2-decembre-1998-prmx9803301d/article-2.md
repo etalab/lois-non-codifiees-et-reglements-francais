@@ -6,6 +6,6 @@ Elle instruit les questions de simplification des formalités et des procédures
 
 Elle peut recourir, en tant que besoin, à l'expertise de la mission interministérielle de soutien technique pour le développement des technologies de l'information et de la communication dans l'administration (MTIC).
 
-Elle publie un rapport annuel faisant apparaître, pour chaque ministère, le bilan des simplifications réalisées.
+Elle publie un rapport annuel faisant apparaître, pour chaque ministère, le bilan des simplifications réalisées ainsi qu'une évaluation de leur impact.
 
 Elle s'assure de la prise en compte par les ministères de ses avis et recommandations. Elle peut recourir à l'arbitrage du Premier ministre.
