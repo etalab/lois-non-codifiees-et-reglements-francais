@@ -6,4 +6,6 @@ La limite d'âge supérieure prévue à l'article 4 ci-dessus est reculée :
 
 2. Dans la limite de cinq ans au plus de la durée des services accomplis en qualité de sapeur-pompier non professionnel.
 
-La combinaison des dispositions des 1 et 2 ne peut se faire que dans la limite de dix ans à la date du 1er janvier de l'année du concours.
+" Les conditions à remplir pour bénéficier d'un recul de limite d'âge sont appréciées au 1er janvier de l'année du concours. Une même durée ne peut permettre le recul de la limite d'âge qu'à un seul titre.
+
+" L'application du présent article ne peut pas avoir pour effet de permettre à un candidat de se présenter au concours prévu à l'article 4 s'il a plus de trente-cinq ans au 1er janvier de l'année de ce concours. "

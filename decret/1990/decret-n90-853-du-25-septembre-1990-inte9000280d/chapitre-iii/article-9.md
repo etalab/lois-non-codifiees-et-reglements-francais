@@ -6,4 +6,4 @@ La titularisation des stagiaires intervient par décision conjointe du préfet e
 
 Lorsque la titularisation n'est pas prononcée, le stagiaire est soit licencié, soit, s'il avait auparavant la qualité de fonctionnaire, réintégré dans son grade ou son emploi d'origine.
 
-Toutefois, le préfet et l'autorité territoriale peuvent, à titre exceptionnel, décider que la période de stage est prolongée d'une durée maximale d'un an.
+" Toutefois, le préfet et l'autorité territoriale peuvent, à titre exceptionnel et après avis du directeur de l'Ecole nationale supérieure de sapeurs-pompiers, décider que la période de stage est prolongée d'une durée maximale d'un an. "

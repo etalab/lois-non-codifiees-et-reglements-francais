@@ -4,6 +4,7 @@
 - [CHAPITRE Ier : Organisation des services départementaux d'incendie et de secours.](chapitre-ier)
 - [Article 2](article-2.md)
 - [CHAPITRE II : Organisation des corps de sapeurs-pompiers](chapitre-ii)
+- [Article 3](article-3.md)
 - [CHAPITRE III : Mise en oeuvre opérationnelle de contrôle des services d'incendie et de secours](chapitre-iii)
 - [CHAPITRE IV : Organisation du service de santé et de secours médical](chapitre-iv)
 - [CHAPITRE V : Dispositions diverses.](chapitre-v)
