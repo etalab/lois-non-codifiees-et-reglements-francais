@@ -1,3 +1,5 @@
 # Article 3
 
-Le fichier informatique S.A.G.A.C.E. est soumis aux dispositions de la loi du 3 janvier 1979 sur les archives.
+Les candidats reçoivent, sur demande, la liste des pièces à fournir, la documentation et les imprimés nécessaires à la constitution du dossier de candidature.
+
+Les dossiers doivent être adressés au ministre de la défense (direction des personnels et des affaires générales de l'armement) avant la date limite fixée par l'avis d'ouverture du concours, le cachet de la poste faisant foi.

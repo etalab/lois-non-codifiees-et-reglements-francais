@@ -1,3 +1,3 @@
 # Article 1
 
-Il est créé au Conseil d'Etat, sous le nom de S.A.G.A.C.E. (système automatisé de gestion des affaires du Conseil d'Etat), un système de collecte et de traitement automatisé des informations relatives aux pourvois dont il est saisi le Conseil d'Etat statuant au contentieux, et qui permettent de faciliter les opérations d'enregistrement et les procédures d'instruction des affaires, la notification des décisions ainsi que la gestion des dossiers.
+Le présent arrêté a pour objet de fixer, en application des dispositions de l'article 10 du décret susvisé, les conditions d'organisation et de déroulement du concours de recrutement sur titres au grade d'ingénieur de l'armement prévu par les articles 5 (4°) et 8 de ce décret.

@@ -1,4 +1,4 @@
-# Arrêté du 5 mars 1985 portant création du système informatique S.A.G.A.C.E.
+# Arrêté du 5 mars 1985 fixant les conditions d'organisation et de déroulement du concours pour le recrutement sur titres au grade d'ingénieur de l'armement
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

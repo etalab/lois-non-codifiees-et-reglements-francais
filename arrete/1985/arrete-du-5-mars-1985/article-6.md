@@ -1,3 +1,11 @@
 # Article 6
 
-Le président de la section du contentieux du Conseil d'Etat et le secrétaire général du Conseil d'Etat sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+A l'issue de ses travaux, la commission établit la liste de classement, par ordre de mérite, des candidats qu'elle juge aptes à l'emploi d'ingénieur de l'armement.
+
+Cette liste est transmise au ministre de la défense, qui arrête :
+
+la liste d'aptitude ;
+
+la liste complémentaire, par ordre de mérite, destinée à pourvoir aux vacances susceptibles de se produire dans la première liste.
+
+Ces listes sont publiées au Journal Officiel.
