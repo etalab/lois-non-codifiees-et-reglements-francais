@@ -6,4 +6,6 @@ Ecole des hautes études en sciences sociales (E.H.E.S.S.) ;
 
 Institut d'études politiques de Paris (I.E.P.) ;
 
-Institut national des langues et civilisations orientales.
+Institut national des langues et civilisations orientales ;
+
+Université de technologie de Compiègne.
