@@ -611,6 +611,7 @@
 - [Arrêté du 27 juin 1994 (MENF9401003A)](arrete-du-27-juin-1994-menf9401003a)
 - [Arrêté du 27 juin 1994 (RESM9400390A)](arrete-du-27-juin-1994-resm9400390a)
 - [Arrêté du 27 juin 1994 (SPSG9401396A)](arrete-du-27-juin-1994-spsg9401396a)
+- [Arrêté du 27 juin 1994 (TEFT9400674A)](arrete-du-27-juin-1994-teft9400674a)
 - [Arrêté du 27 juin 1994 (TEFT9400675A)](arrete-du-27-juin-1994-teft9400675a)
 - [Arrêté du 27 mai 1993 (EQUH9300867A)](arrete-du-27-mai-1993-equh9300867a)
 - [Arrêté du 27 mai 1994 (ECOT9410211A)](arrete-du-27-mai-1994-ecot9410211a)
