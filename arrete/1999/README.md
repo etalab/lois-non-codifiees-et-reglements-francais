@@ -234,7 +234,6 @@
 - [Arrêté du 22 mars 1999 (MCCK9900221A)](arrete-du-22-mars-1999-mcck9900221a)
 - [Arrêté du 22 mars 1999 (MCCK9900222A)](arrete-du-22-mars-1999-mcck9900222a)
 - [Arrêté du 22 mars 1999 (MCCT9900243A)](arrete-du-22-mars-1999-mcct9900243a)
-- [Arrêté du 23 avril 1999 (MESH9921368A)](arrete-du-23-avril-1999-mesh9921368a)
 - [Arrêté du 23 décembre 1998 (ATEP9980022A)](arrete-du-23-decembre-1998-atep9980022a)
 - [Arrêté du 23 décembre 1998 (ATEP9980023A)](arrete-du-23-decembre-1998-atep9980023a)
 - [Arrêté du 23 décembre 1998 (DEFP9802214A)](arrete-du-23-decembre-1998-defp9802214a)
