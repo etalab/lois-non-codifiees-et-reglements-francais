@@ -1,0 +1,3 @@
+# Article 8
+
+La réduction est applicable aux contributions à la charge de l'employeur dues à l'Etablissement national des invalides de la marine ainsi qu'à la Caisse nationale d'allocations familiales de la pêche maritime mentionnée à l'article L. 212-3 du code de la sécurité sociale, ou à la Caisse nationale d'allocations familiales des marins du commerce mentionnée à l'article L. 212-4 du code de la sécurité sociale. Le montant de la réduction ne peut excéder celui desdites contributions et cotisations dues pour l'emploi du marin après application, le cas échéant, des mesures d'exonération totale ou partielle mentionnées à l'article 15 du présent décret.
