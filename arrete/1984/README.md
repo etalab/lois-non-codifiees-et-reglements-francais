@@ -4,6 +4,7 @@
 - [Arrêté du 2 avril 1984](arrete-du-2-avril-1984)
 - [Arrêté du 2 mars 1983](arrete-du-2-mars-1983)
 - [Arrêté du 2 mars 1984](arrete-du-2-mars-1984)
+- [Arrêté du 3 août 1984](arrete-du-3-aout-1984)
 - [Arrêté du 3 février 1984](arrete-du-3-fevrier-1984)
 - [Arrêté du 3 janvier 1984](arrete-du-3-janvier-1984)
 - [Arrêté du 3 juillet 1984](arrete-du-3-juillet-1984)
