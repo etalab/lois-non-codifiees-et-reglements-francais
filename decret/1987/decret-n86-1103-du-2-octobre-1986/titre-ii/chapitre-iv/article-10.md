@@ -2,11 +2,9 @@
 
 Expositions exceptionnelles concertées
 
-Dans des situations inhabituelles de travail, lorsque d'autres techniques ne peuvent être utilisées, des expositions exceptionnelles concertées peuvent être tolérées sous réserve de l'application des dispositions suivantes :
+Dans des conditions inhabituelles de travail et lorsque d'autres techniques ne peuvent être utilisées, des expositions exceptionnelles concertées peuvent être mises en oeuvre, sur autorisation de l'inspecteur du travail, dans des conditions que celui-ci précise, après avis du service central de protection contre les rayonnements ionisants et sous réserve de l'application des dispositions suivantes :.
 
-1° Toute exposition exceptionnelle concertée doit, après l'avis du comité d'hygiène, de sécurité et des conditions de travail [*CHSCT*] ou, à défaut, des délégués du personnel, faire l'objet d'un avis préalable du médecin du travail, qui peut faire pratiquer, aux frais de l'employeur, des examens médicaux complémentaires ; toutefois, lorsque l'urgence le justifie, l'avis du comité d'hygiène, de sécurité et des conditions de travail peut ne pas être sollicité, sous réserve que son secrétaire en soit informé sans délai ;
-
-2° Seuls des travailleurs ayant donné leur accord et appartenant à la catégorie A définie à l'article 3 du présent décret peuvent être soumis à des expositions exceptionnelles concertées ;
+1° Toute exposition exceptionnelle concertée doit, après l'avis du comité d'hygiène, de sécurité et des conditions de travail [*CHSCT*] ou, à défaut, des délégués du personnel, faire l'objet d'un avis préalable du médecin du travail, qui peut faire pratiquer, aux frais de l'employeur, des examens médicaux complémentaires ;    2° Seuls des travailleurs appartenant à la catégorie A définie à l'article 3 du présent décret peuvent être soumis à des expositions exceptionnelles concertées ;
 
 3° Les expositions exceptionnelles concertées ne doivent pas être pratiquées [*interdiction*] :
 

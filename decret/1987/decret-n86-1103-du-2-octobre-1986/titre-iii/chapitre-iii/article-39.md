@@ -8,7 +8,7 @@ Ce dossier médical spécial doit contenir [*contenu*] :
 
 1° Une fiche relative aux conditions de travail du travailleur exposé dans laquelle doivent être notamment mentionnés la nature du travail effectué, les caractéristiques des sources émettrices, la nature des rayonnements, la durée des périodes d'exposition et les autres risques ou nuisances d'origine physique ou chimique au poste de travail ; cette fiche est rédigée par la personne compétente prévue à l'article 17 du présent décret et est visée par le travailleur intéressé ;
 
-2° Une fiche d'exposition mentionnant les dates et les résultats des contrôles des équivalents de dose reçus ou engagés ;
+2° Une fiche d'exposition mentionnant les dates et les résultats des contrôles de l'exposition individuelle et sa durée.
 
 3° Les dates et les résultats des examens médicaux pratiqués en application de l'article 36 ci-dessus.
 
