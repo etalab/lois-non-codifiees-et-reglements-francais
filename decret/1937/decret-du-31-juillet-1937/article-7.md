@@ -1,3 +1,3 @@
 # Article 7
 
-Les vins pour lesquels, aux termes du présent décret, seront revendiquées les appellations contrôlées "Saint-Nicolas-de-Bourgueil" et "Bourgueil" ne pourront être déclarés après la récolte, offerts au public, expédiés, mis en vente ou vendus, sans que dans la déclaration de récolte, dans les annonces, sur les prospectus, étiquettes, récipients quelconques, les appellations d'origine susvisées soient accompagnées de la mention "Appellation contrôlée" en caractères très apparents.
+L'appellation contrôlée "Bourgogne aligoté" ne pourra figurer sur les étiquettes, marques, estampes, bouchons, capsules, cachets ou tout autre appareil de fermeture, factures, papiers de commerce, emballages et récipients qu'à la condition que les mots "Bourgogne" et "Aligoté" y soient portés en caractères identiques, de même forme, de même dimension et même couleur.
