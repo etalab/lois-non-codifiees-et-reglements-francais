@@ -1,6 +1,6 @@
 # Article 36-2
 
-La commission départementale d'équipement cinématographique est présidée par le préfet, qui, sans prendre part au vote, informe la commission sur le contenu du programme national prévu à l'article 1er et sur le schéma de développement commercial mentionné à l'article 28.
+La commission départementale d'équipement cinématographique est présidée par le préfet, qui, sans prendre part au vote, informe la commission sur le contenu du programme national prévu à l'article 1er et sur le schéma de développement commercial mentionné à l'article L. 720-3 du code de commerce.
 
 I. - Dans les départements autres que Paris, elle est composée de sept membres :
 
@@ -10,7 +10,7 @@ I. - Dans les départements autres que Paris, elle est composée de sept membres
 
 - le maire de la commune la plus peuplée de l'arrondissement autre que la commune d'implantation ; en dehors des départements des Hauts-de-Seine, de la Seine-Saint-Denis, du Val-de-Marne et des communes de l'Essonne, du Val-d'Oise, des Yvelines et de Seine-et-Marne, appartenant à l'agglomération parisienne, dans le cas où la commune d'implantation appartient à une agglomération multicommunale comportant au moins cinq communes, le maire de la commune la plus peuplée est choisi parmi les communes de ladite agglomération ;
 
-- un membre du comité consultatif de la diffusion cinématographique désigné par son président ayant la qualité de magistrat ;
+- un membre du comité consultatif de la diffusion cinématographique désigné par son président ;
 
 - le président de la chambre de métiers dont la circonscription territoriale comprend la commune d'implantation, ou son représentant ;
 

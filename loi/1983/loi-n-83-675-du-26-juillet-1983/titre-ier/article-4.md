@@ -7,3 +7,5 @@ Toutefois, les conseils d'administration ou de surveillance de ces établissemen
 Le conseil d'administration ou de surveillance des sociétés visées à l'alinéa 1er ci-dessus compte de neuf à dix-huit membres.
 
 En outre, les établissements et entreprises publics énumérés à l'annexe III de la présente loi sont exclus du champ d'application de l'ensemble des dispositions du titre II.
+
+Les dispositions des articles 7, 8 et 9 sont applicables aux établissements publics et aux sociétés mentionnées au présent article

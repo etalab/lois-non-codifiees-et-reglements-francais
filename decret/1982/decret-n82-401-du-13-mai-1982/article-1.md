@@ -10,7 +10,7 @@ La Banque de France ;
 
 Les banques inscrites ;
 
-La caisse centrale des banques populaires et les banques populaires agréées par leur chambre syndicale ;
+La caisse centrale des banques populaires et la banque fédérale des banques populaires ;
 
 La caisse centrale de crédit coopératif ;
 

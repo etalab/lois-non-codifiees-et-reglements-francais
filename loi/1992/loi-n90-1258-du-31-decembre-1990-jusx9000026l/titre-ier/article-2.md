@@ -1,6 +1,6 @@
 # Article 2
 
-La dénomination sociale de la société doit être, immédiatement, précédée ou suivie, selon le cas, soit de la mention "société d'exercice libéral à responsabilité limitée" ou des initiales "S.E.L.A.R.L.", soit de la mention "société d'exercice libéral à forme anonyme" ou des initiales "S.E.L.A.F.A.", soit de la mention "société d'exercice libéral en commandite par actions" ou des initiales "S.E.L.C.A." et de l'énonciation de son capital social.
+La dénomination sociale de la société doit être, immédiatement, précédée ou suivie, selon le cas, soit de la mention "société d'exercice libéral à responsabilité limitée" ou des initiales "S.E.L.A.R.L.", soit de la mention "société d'exercice libéral à forme anonyme" ou des initiales "S.E.L.A.F.A.", soit de la mention "société d'exercice libéral par actions simplifiée" ou des initiales "S.E.L.A.S.", soit de la mention "société d'exercice libéral en commandite par actions" ou des initiales "S.E.L.C.A." et de l'énonciation de son capital social.
 
 Le nom d'un ou plusieurs associés exerçant leur profession au sein de la société peut être inclus dans sa dénomination sociale.
 
