@@ -10,7 +10,7 @@ Un membre meunier ;
 
 Le directeur des services agricoles ou son représentant ;
 
-Le directeur départemental des contributions indirectes ou son représentant.
+Le directeur régional des douanes et droits indirects ou son représentant.
 
 Le président de la caisse régionale de Crédit agricole mutuel ou son représentant et le représentant du directeur général de l'office des céréales assistent aux séances avec voix consultative.
 
