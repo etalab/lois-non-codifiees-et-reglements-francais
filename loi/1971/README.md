@@ -24,6 +24,7 @@
 - [Loi n° 71-583 du 16 juillet 1971](loi-n-71-583-du-16-juillet-1971)
 - [Loi n° 71-584 du 16 juillet 1971](loi-n-71-584-du-16-juillet-1971)
 - [Loi n° 71-586 du 16 juillet 1971](loi-n-71-586-du-16-juillet-1971)
+- [Loi n° 71-588 du 16 juillet 1971](loi-n-71-588-du-16-juillet-1971)
 - [Loi n°70-1301 du 31 décembre 1970](loi-n70-1301-du-31-decembre-1970)
 - [Loi n°70-1318 du 31 décembre 1970](loi-n70-1318-du-31-decembre-1970)
 - [Loi n°70-1324 du 31 décembre 1970](loi-n70-1324-du-31-decembre-1970)
