@@ -464,6 +464,7 @@
 - [Arrêté du 29 mai 1989 (MENB8901256A)](arrete-du-29-mai-1989-menb8901256a)
 - [Arrêté du 29 mai 1989 (SPSP8901134A)](arrete-du-29-mai-1989-spsp8901134a)
 - [Arrêté du 29 mai 1989 (TEFE8903561A)](arrete-du-29-mai-1989-tefe8903561a)
+- [Arrêté du 30 août 1989 (MENF8902029A)](arrete-du-30-aout-1989-menf8902029a)
 - [Arrêté du 30 décembre 1988 (AGRB8900031A)](arrete-du-30-decembre-1988-agrb8900031a)
 - [Arrêté du 30 décembre 1988 (AGRB8900032A)](arrete-du-30-decembre-1988-agrb8900032a)
 - [Arrêté du 30 décembre 1988 (AGRB8900033A)](arrete-du-30-decembre-1988-agrb8900033a)
