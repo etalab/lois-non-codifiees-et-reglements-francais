@@ -47,6 +47,7 @@
 - [Décret n°80-24 du 15 janvier 1980](decret-n80-24-du-15-janvier-1980)
 - [Décret n°80-274 du 15 avril 1980](decret-n80-274-du-15-avril-1980)
 - [Décret n°80-277 du 15 avril 1980](decret-n80-277-du-15-avril-1980)
+- [Décret n°80-533 du 15 juillet 1980](decret-n80-533-du-15-juillet-1980)
 - [Décret n°79-923 du 16 octobre 1979](decret-n79-923-du-16-octobre-1979)
 - [Décret n°80-280 du 16 avril 1980](decret-n80-280-du-16-avril-1980)
 - [Décret n°80-477 du 16 juin 1980](decret-n80-477-du-16-juin-1980)
