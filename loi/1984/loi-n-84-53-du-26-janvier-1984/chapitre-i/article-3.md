@@ -10,4 +10,4 @@ Un décret en Conseil d'Etat, pris après avis du Conseil supérieur de la fonct
 
 L'application du présent article fait l'objet d'un rapport annuel de l'autorité territoriale ou du président du centre départemental de gestion au comité technique paritaire compétent pour l'ensemble des services de la collectivité ou l'ensemble des collectivités affiliées, précisant notamment le nombre des emplois ainsi pourvus.
 
-Le décret visé au quatrième alinéa fait l'objet d'une révision tous les trois ans, notamment pour tenir compte des corps et emplois de titulaires qui peuvent être créés pour assumer les fonctions visées au troisième alinéa.
+Le décret visé au quatrième alinéa fait l'objet d'une révision tous les trois ans, notamment pour tenir compte des corps et emplois de titulaires qui peuvent être créés pour assumer les fonctions visées au troisième alinéa.    Les collectivités et établissements mentionnés à l'article 2 peuvent continuer à employer des agents non titulaires n'ayant pas la nationalité française, en fonction à la date d'application de la loi n° 85-10 du 3 janvier 1985 portant diverses dispositions d'ordre social.

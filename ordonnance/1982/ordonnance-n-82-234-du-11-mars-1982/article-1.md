@@ -1,0 +1,3 @@
+# Article 1
+
+La caisse nationale de garantie des ouvriers dockers instituée par l'article L. 521-4 du code des ports maritimes est habilitée à participer au financement d'allocations spéciales au bénéfice des ouvriers dockers professionnels qui remplissent les conditions prévues par les dispositions prises en application de la section I du chapitre II du titre II et du chapitre Ier du titre V du livre III du code du travail  et qui, sur leur demande présentée avant le 1er janvier 1987, auront été radiés du registre d'immatriculation mentionné dudit article L. 521-4 du code des ports maritimes.

@@ -12,6 +12,8 @@ Trois représentants des associations familiales ayant, au moment de leur désig
 
 Une personne qualifiée désignée par le ministre chargé de la sécurité sociale.
 
+Par dérogation aux dispositions du premier alinéa du présent article, le conseil d'administration de la caisse nationale d'allocations familiales des marins du commerce est composée de vingt-cinq membres [*nombre*] comprenant quinze représentants des assurés sociaux, six représentants des employeurs, trois représentants des associations familiales et une personne qualifiée.
+
 Par dérogation aux dispositions des quatre premiers alinéas du présent article, le conseil d'administration de la caisse d'allocations familiales nationale de la pêche maritime est composé pour la moitié de représentants des travailleurs indépendants, pour deux sixièmes de représentants des pêcheurs salariés et pour un sixième de représentants des employeurs.
 
 Dans les organismes mentionnés au présent article siègent également, avec voix consultative, trois représentants du personnel élus dans les conditions définies par décret.
