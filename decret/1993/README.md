@@ -114,7 +114,6 @@
 - [Décret n°93-885 du 6 juillet 1993 (TEFC9300732D)](decret-n93-885-du-6-juillet-1993-tefc9300732d)
 - [Décret n°93-892 du 6 juillet 1993 (JUSC9320379D)](decret-n93-892-du-6-juillet-1993-jusc9320379d)
 - [Décret n°93-897 du 6 juillet 1993 (PRMX9300486D)](decret-n93-897-du-6-juillet-1993-prmx9300486d)
-- [Décret n°93-985 du 6 août 1993 (PRMX9300321D)](decret-n93-985-du-6-aout-1993-prmx9300321d)
 - [Décret n°93-989 du 6 août 1993 (MICT9300025D)](decret-n93-989-du-6-aout-1993-mict9300025d)
 - [Décret n°94-295 du 6 avril 1994 (EQUH9400167D)](decret-n94-295-du-6-avril-1994-equh9400167d)
 - [Décret n°95-1198 du 6 novembre 1995 (INTA9500345D)](decret-n95-1198-du-6-novembre-1995-inta9500345d)
