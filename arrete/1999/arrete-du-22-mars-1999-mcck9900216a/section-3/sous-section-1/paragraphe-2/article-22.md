@@ -28,12 +28,14 @@ g) La date prévue pour le début des prises de vues ;
 
 6° Une copie des contrats du réalisateur et des autres coauteurs de l'oeuvre cinématographique ;
 
-7° Une fiche  artistes-interprètes  énonçant la liste des rôles principaux, des rôles secondaires et des petits rôles, le nom des artistes-interprètes pressentis, leur nationalité et leur durée d'emploi ;
+7° Une fiche artistes-interprètes énonçant la liste des rôles principaux, des rôles secondaires et des petits rôles, le nom des artistes-interprètes pressentis, leur nationalité et leur durée d'emploi ;
 
-8° Une fiche  techniciens collaborateurs de création  énonçant la liste des emplois, les noms des techniciens collaborateurs de création pressentis, leur nationalité et le numéro de leur carte d'identité professionnelle ;
+8° Une fiche techniciens collaborateurs de création énonçant la liste des emplois, les noms des techniciens collaborateurs de création pressentis, leur nationalité et le numéro de leur carte d'identité professionnelle ;
 
-9° Une fiche  ouvriers  énonçant la liste des emplois, les noms des ouvriers de l'équipe de tournage et de l'équipe de construction et leur nationalité ;
+9° Une fiche ouvriers énonçant la liste des emplois, les noms des ouvriers de l'équipe de tournage et de l'équipe de construction et leur nationalité ;
 
 10° Une fiche de qualification linguistique précisant la langue dans laquelle s'exprimera chacun des artistes-interprètes assurant les rôles principaux et les rôles secondaires ;
 
-11° Une fiche de qualification  oeuvre européenne  établie en regard des dispositions de l'arrêté du 21 mai 1992 susvisé.
+11° Une fiche de qualification oeuvre européenne établie en regard des dispositions de l'arrêté du 21 mai 1992 susvisé ;
+
+12° Une fiche prévisionnelle de qualification "oeuvre indépendante" établie en regard des dispositions du I de l'article 6 du décret du 9 juillet 2001 susvisé.
