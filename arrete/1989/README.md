@@ -655,8 +655,6 @@
 - [Arrêté du 29 décembre 1988 (ECOT8820092A)](arrete-du-29-decembre-1988-ecot8820092a)
 - [Arrêté du 29 décembre 1988 (INTD8800490A)](arrete-du-29-decembre-1988-intd8800490a)
 - [Arrêté du 29 décembre 1988 (INTD8800491A)](arrete-du-29-decembre-1988-intd8800491a)
-- [Arrêté du 29 décembre 1988 (SPSP8801952A)](arrete-du-29-decembre-1988-spsp8801952a)
-- [Arrêté du 29 décembre 1988 (SPSP8801953A)](arrete-du-29-decembre-1988-spsp8801953a)
 - [Arrêté du 29 décembre 1989 (AGRS8902665A)](arrete-du-29-decembre-1989-agrs8902665a)
 - [Arrêté du 29 décembre 1989 (AGRS8902666A)](arrete-du-29-decembre-1989-agrs8902666a)
 - [Arrêté du 29 décembre 1989 (ECOX8910406A)](arrete-du-29-decembre-1989-ecox8910406a)
