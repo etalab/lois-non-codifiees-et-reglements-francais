@@ -271,6 +271,7 @@
 - [Décret n°2001-65 du 19 janvier 2001 (MENE0002949D)](decret-n2001-65-du-19-janvier-2001-mene0002949d)
 - [Décret n°2001-960 du 19 octobre 2001 (PRMX0105135D)](decret-n2001-960-du-19-octobre-2001-prmx0105135d)
 - [Décret n°2002-552 du 19 avril 2002 (MESG0221045D)](decret-n2002-552-du-19-avril-2002-mesg0221045d)
+- [Décret n°87-848 du 19 octobre 1987 (AGRG8701834D)](decret-n87-848-du-19-octobre-1987-agrg8701834d)
 - [Décret du 20 avril 2001 (AGRP0100055D)](decret-du-20-avril-2001-agrp0100055d)
 - [Décret n°2001-160 du 20 février 2001 (INTM0100005D)](decret-n2001-160-du-20-fevrier-2001-intm0100005d)
 - [Décret n°2001-165 du 20 février 2001 (INTM0000049D)](decret-n2001-165-du-20-fevrier-2001-intm0000049d)
