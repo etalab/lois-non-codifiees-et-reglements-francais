@@ -10,6 +10,7 @@
 - [Arrêté du 16 mai 1966](arrete-du-16-mai-1966)
 - [Arrêté du 18 avril 1966](arrete-du-18-avril-1966)
 - [Arrêté du 19 janvier 1966](arrete-du-19-janvier-1966)
+- [Arrêté du 20 mai 1966](arrete-du-20-mai-1966)
 - [Arrêté du 22 mars 1966](arrete-du-22-mars-1966)
 - [Arrêté du 24 janvier 1966](arrete-du-24-janvier-1966)
 - [Arrêté du 25 mai 1966](arrete-du-25-mai-1966)
