@@ -1,15 +1,6 @@
-# Arrêté du 13 mai 1975 relatif aux conditions techniques auxquelles sont subordonnées les autorisations de déversements, écoulements, jets et dépôts accordées en application du décret N. 73-218 du 23 février 1973 portant application des articles 2 et 6 (1) de la loi 64-1245 du 16 décembre 1964 relative au régime et à la répartition des eaux et à la lutte contre leur pollution
+# Arrêté du 13 mai 1975 relatif au dossier-guide prévu par l'article L. 162-3 du code de la santé publique.
 
+- [Article 1](article-1.md)
 - [Article 2](article-2.md)
 - [Article 3](article-3.md)
-- [Article 11](article-11.md)
-- [Article 12](article-12.md)
 - [Annexes](annexes)
-- [Dépôts de déchets](depots-de-dechets)
-- [Enfouissement](enfouissement)
-- [Epandage](epandage)
-- [Rejets dans les canaux lacs et étangs](rejets-dans-les-canaux-lacs-et)
-- [Rejets en mer](rejets-en-mer)
-- [Rejet dans les cours d'eau](rejet-dans-les-cours-d-eau)
-- [Rejets d'eaux pluviales](rejets-d-eaux-pluviales)
-- [Rejets rapprochés](rejets-rapproches)

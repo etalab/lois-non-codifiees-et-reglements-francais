@@ -6,7 +6,6 @@
 - [Arrêté du 11 janvier 1956](arrete-du-11-janvier-1956)
 - [Arrêté du 16 juillet 1956](arrete-du-16-juillet-1956)
 - [Arrêté du 20 juillet 1956](arrete-du-20-juillet-1956)
-- [Arrêté du 20 novembre 1956](arrete-du-20-novembre-1956)
 - [Arrêté du 21 janvier 1956](arrete-du-21-janvier-1956)
 - [Arrêté du 23 janvier 1956](arrete-du-23-janvier-1956)
 - [Arrêté du 24 mai 1956](arrete-du-24-mai-1956)
