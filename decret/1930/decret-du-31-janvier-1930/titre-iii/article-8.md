@@ -1,3 +1,3 @@
 # Article 8
 
-Les dispositions du décret n° 84-1147 du 7 décembre 1984 portant application de la loi du 1er août 1905 sur les fraudes et falsifications en matière de produits ou de services, en ce qui concerne l'étiquetage et la présentation des denrées alimentaires, sont applicables aux produits qui font l'objet du présent décret.
+Les dispositions des articles R. 112-1 et suivants du code de la consommation sont applicables aux produits qui font l'objet du présent décret.
