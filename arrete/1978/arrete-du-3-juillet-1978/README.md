@@ -5,4 +5,3 @@
 - [III - Calcul de l'aide personnalisée au logement des propriétaires.](iii)
 - [IV - Dispositions communes aux locataires et aux propriétaires.](iv)
 - [V - Prime de déménagement.](v)
-- [Article 13](article-13.md)
