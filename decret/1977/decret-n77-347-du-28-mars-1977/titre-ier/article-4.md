@@ -6,7 +6,7 @@ Le président de la caisse nationale, suppléé, le cas échéant, par un membre
 
 Trois membres titulaires, désignés en même temps que trois suppléants, par le conseil d'administration de la caisse nationale parmi les présidents des conseils d'administration des caisses mutuelles régionales ;
 
-Quatre praticiens conseils, membres titulaires élus pour quatre ans, en même temps que quatre suppléants, par les praticiens conseils du régime.
+Quatre praticiens conseils, membres titulaires élus pour six ans, en même temps que quatre suppléants, par les praticiens conseils du régime.
 
 Les suppléants siègent en cas d'absence ou d'empêchement des titulaires.
 
