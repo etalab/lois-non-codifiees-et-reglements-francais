@@ -16,7 +16,7 @@ Les traitements et soldes annuels correspondant à chacun des groupes hors éche
 <td> : soumis à retenue pour pension  :</td>
 </tr>
 <tr>
-<td> : à compter du 1er février 1992  :</td>
+<td> : à compter du 1er octobre 1992  :</td>
 </tr>
 <tr>
 <td> :--------------------------------:</td>
@@ -37,28 +37,28 @@ Les traitements et soldes annuels correspondant à chacun des groupes hors éche
 <td> :--------:-----------------------:</td>
 </tr>
 <tr>
-<td> :  A     :       261 504         :</td>
+<td> :  A     :       265 068         :</td>
 </tr>
 <tr>
-<td> :  B     :       285 926         :</td>
+<td> :  B     :       289 824         :</td>
 </tr>
 <tr>
-<td> :  B bis :       314 221         :</td>
+<td> :  B bis :       318 505         :</td>
 </tr>
 <tr>
-<td> :  C     :       331 198         :</td>
+<td> :  C     :       335 713         :</td>
 </tr>
 <tr>
-<td> :  D     :       345 792         :</td>
+<td> :  D     :       350 506         :</td>
 </tr>
 <tr>
-<td> :  E     :       377 363         :</td>
+<td> :  E     :       382 507         :</td>
 </tr>
 <tr>
-<td> :  F     :       406 849         :</td>
+<td> :  F     :       412 395         :</td>
 </tr>
 <tr>
-<td> :  G     :       446 164         :</td>
+<td> :  G     :       452 246         :</td>
 </tr>
 <tr>
 <td> :--------------------------------:</td>
@@ -76,7 +76,7 @@ Les traitements et soldes annuels correspondant à chacun des groupes hors éche
 <td> : soumis à retenue pour pension  :</td>
 </tr>
 <tr>
-<td> : à compter du 1er février 1992  :</td>
+<td> : à compter du 1er octobre 1992  :</td>
 </tr>
 <tr>
 <td> :--------:-----------------------:</td>
@@ -97,22 +97,22 @@ Les traitements et soldes annuels correspondant à chacun des groupes hors éche
 <td> :--------------------------------:</td>
 </tr>
 <tr>
-<td> :  A     :       271 928         :</td>
+<td> :  A     :       275 635         :</td>
 </tr>
 <tr>
-<td> :  B     :       298 138         :</td>
+<td> :  B     :       302 202         :</td>
 </tr>
 <tr>
-<td> :  B bis :       322 561         :</td>
+<td> :  B bis :       326 958         :</td>
 </tr>
 <tr>
-<td> :  C     :       338 346         :</td>
+<td> :  C     :       342 958         :</td>
 </tr>
 <tr>
-<td> :  D     :       361 578         :</td>
+<td> :  D     :       366 507         :</td>
 </tr>
 <tr>
-<td> :  E     :       392 255         :</td>
+<td> :  E     :       397 602         :</td>
 </tr>
 <tr>
 <td> :--------------------------------:</td>
@@ -130,7 +130,7 @@ Les traitements et soldes annuels correspondant à chacun des groupes hors éche
 <td> : soumis à retenue pour pension  :</td>
 </tr>
 <tr>
-<td> : à compter du 1er février 1992  :</td>
+<td> : à compter du 1er octobre 1992  :</td>
 </tr>
 <tr>
 <td> :--------------------------------:</td>
@@ -151,22 +151,22 @@ Les traitements et soldes annuels correspondant à chacun des groupes hors éche
 <td> :--------------------------------:</td>
 </tr>
 <tr>
-<td> :  A     :       285 926         :</td>
+<td> :  A     :       289 824         :</td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td>:  B     :       314 221         :</td>
+<td>:  B     :       318 505         :</td>
 </tr>
 <tr>
-<td> :  B bis :       331 198         :</td>
+<td> :  B bis :       335 713         :</td>
 </tr>
 <tr>
-<td> :  C     :       345 792         :</td>
+<td> :  C     :       350 506         :</td>
 </tr>
 <tr>
-<td> :  D     :       377 363         :</td>
+<td> :  D     :       382 507         :</td>
 </tr>
 <tr>
 <td> :--------------------------------:</td>
