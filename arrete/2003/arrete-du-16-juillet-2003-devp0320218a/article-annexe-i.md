@@ -152,54 +152,6 @@ La présence dans les ateliers de matières dangereuses ou combustibles est limi
 
 Toutes les installations électriques sont entretenues en bon état et sont contrôlées, après leur installation ou leur modification par une personne compétente. La périodicité, l'objet et l'étendue des vérifications des installations électriques ainsi que le contenu des rapports relatifs aux dites vérifications sont fixés par l'arrêté du 10 octobre 2000 fixant la périodicité, l'objet et l'étendue des vérifications des installations électriques au titre de la protection des travailleurs ainsi que le contenu des rapports relatifs à ces vérifications.
 
-3.7. Prévention de la légionellose
-
-Lorsque une (ou des) tour(s) aéroréfrigérante(s) (cf. note 1) ou un humidificateur sont directement associées à l'installation, l'exploitant devra respecter les dispositions suivantes :
-
-I. - L'exploitant s'assurera de la présence et de l'efficacité d'un pare gouttelettes, ou "dévésiculeur", de manière à limiter l'émission de gouttelettes d'eau par la tour aéroréfrigérante.
-
-II.1. - L'exploitant mettra en place un entretien et une maintenance adaptés afin de limiter la prolifération des légionelles dans le système et leur émission. L'exploitant veillera à conserver en bon état de surface et propres le garnissage et les parties périphériques (pare-gouttelettes, caisson) pendant toute la durée de fonctionnement de la tour aéroréfrigérante.
-
-II.2. Avant la remise en service du système de refroidissement intervenant après un arrêt prolongé, et au moins une fois par an, l'exploitant procédera a minima à :
-
-- une vidange du bac de la tour aéroréfrigérante ;
-
-- une vidange des circuits d'eau de la tour aéroréfrigérante ainsi que des circuits d'eau d'appoint ;
-
-- un nettoyage mécanique et/ou chimique des circuits d'eau, des garnissages et des parties périphériques.
-
-Si l'exploitant justifie d'une impossibilité à réaliser la vidange des circuits, il devra mettre en oeuvre un traitement efficace contre la prolifération des légionelles.
-
-Dans tous les cas, une analyse d'eau pour recherche de légionelles devra être réalisée dans les quinze jours suivant le redémarrage de la tour aéroréfrigérante.
-
-II.3. - L'exploitant reportera dans un carnet de suivi l'ensemble des opérations réalisées et tiendra ce carnet à disposition de l'inspection des installations classées. Ce carnet contiendra notamment :
-
-- un schéma de l'installation comprenant une description de la tour et un repérage des bras morts ;
-
-- les volumes d'eau consommés mensuellement ;
-
-- les périodes d'arrêt et de fonctionnement ;
-
-- les opérations réalisées (vidanges, nettoyage, traitement de l'eau) ;
-
-- les prélèvements et analyses effectués.
-
-III. - Sans préjudice des dispositions du code du travail, l'exploitant mettra à disposition des personnels intervenant à proximité du système de refroidissement ou sur le système lui-même, des équipements individuels de protection adaptés (masques pour aérosols solides et liquides, gants) destinés à les protéger contre l'exposition aux produits chimiques et aux aérosols susceptibles de contenir des germes pathogènes.
-
-Un panneau devra signaler le port du masque obligatoire.
-
-IV. - L'inspection des installations classées pourra demander à tout moment à l'exploitant d'effectuer des prélèvements et analyses en vue d'apprécier l'efficacité de l'entretien et de la maintenance des circuits d'eau liés au fonctionnement du système de refroidissement. Ces prélèvements et analyses seront réalisés par un laboratoire qualifié dont le choix sera soumis à l'avis de l'inspection des installations classées. Les frais de prélèvements et d'analyses seront supportés par l'exploitant.
-
-V. - Des analyses d'eau pour recherche de légionelles seront réalisées pendant la période de fonctionnement de(s) la tour(s) aéroréfrigérante(s), au minimum une fois par an avant l'été.
-
-VI. - Si les analyses d'eau pour recherche de légionelles mettent en évidence une concentration supérieure à 105 unités formant colonies par litre d'eau (UFC/l), l'exploitant devra stopper immédiatement le fonctionnement du système de refroidissement, en informer immédiatement l'inspection des installations classées et lui proposer des actions correctives adaptées.
-
-Si les analyses d'eau pour recherche de légionelles mettent en évidence une concentration comprise entre 103 et 105UFC/l, l'exploitant devra mettre en oeuvre les mesures nécessaires pour abaisser la concentration en légionelles en dessous de 103 UFC/l. Il réalisera un nouveau contrôle deux semaines après le prélèvement ayant mis en évidence la concentration comprise entre 103 et 105 UFC/l. Le contrôle sera renouvelé toutes les deux semaines tant que cette concentration restera comprise entre ces deux valeurs.
-
-VII. - Tous les résultats des analyses d'eau (points II, VI et V) pour recherche de légionelles seront adressés dès leur réception à l'inspection des installations classées.
-
-VIII. - L'alimentation en eau d'appoint de chaque système de refroidissement répondra aux règles de l'art et sera doté d'un compteur. Le circuit d'alimentation en eau du système de refroidissement sera équipé d'un ensemble de protection par disconnection situé en amont de tout traitement de l'eau, dans le cas où le système est alimenté par le réseau de distribution public d'eau destinée à la consommation. Les rejets d'aérosols ne seront situés ni au droit d'une prise d'air, ni au droit d'ouvrants. Les points de rejets seront en outre disposés de façon à éviter le siphonnage de l'air chargé de gouttelettes dans les conduits de ventilation d'immeubles avoisinants ou les cours intérieures.
-
 4. Risques
 
 4.1. Protection individuelle
