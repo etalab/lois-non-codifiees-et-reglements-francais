@@ -87,6 +87,7 @@
 - [Décret n°81-21 du 13 janvier 1981](decret-n81-21-du-13-janvier-1981)
 - [Décret n°81-356 du 13 avril 1981](decret-n81-356-du-13-avril-1981)
 - [Décret n°81-778 du 13 août 1981](decret-n81-778-du-13-aout-1981)
+- [Décret n°81-921 du 13 octobre 1981](decret-n81-921-du-13-octobre-1981)
 - [Décret n°81-542 du 13 mai 1981](decret-n81-542-du-13-mai-1981)
 - [Décret n°81-593 du 13 mai 1981](decret-n81-593-du-13-mai-1981)
 - [Décret n°80-807 du 14 octobre 1980](decret-n80-807-du-14-octobre-1980)
