@@ -1,6 +1,5 @@
 # Annexes
 
-- [Laissez-passer n° ... : Instestins de bovins, débarrassés de la graisse mésentérique et vidés, destinés à un établissement de traitement industriel en vue de la fabrication de cordages.](laissez-passer)
 - [Chapitre Ier : Conditions générales d'autorisation des établissements de faible capacité](chapitre-ier)
 - [Chapitre II : Conditions spéciales d'autorisation des abattoirs de faible capacité.](chapitre-ii)
 - [Article Annexe VII](article-annexe-vii.md)
