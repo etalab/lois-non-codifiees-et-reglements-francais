@@ -1,4 +1,4 @@
-# Article 30
+# Article 24
 
 Le décret n° 73-855 modifié du 5 septembre 1973 relatif à la composition et au fonctionnement des comités économiques et sociaux est abrogé.
 
