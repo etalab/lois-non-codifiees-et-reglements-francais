@@ -38,7 +38,7 @@ L'Agence nationale pour la rénovation urbaine est administrée par un conseil d
 
 - un représentant de l'Agence nationale pour l'amélioration de l'habitat.
 
-4° Trois personnalités qualifiées en matière de politique de la ville :
+4° Trois personnalités qualifiées en matière de politique de la ville, qui peuvent être des parlementaires :
 
 Les membres du conseil d'administration ainsi qu'un nombre égal de suppléants sont nommés pour une durée de cinq ans, renouvelable une fois, par arrêté du ministre qu'ils représentent en ce qui concerne les représentants de l'Etat et par arrêté du ministre chargé de la politique de la ville pour les autres membres.
 
