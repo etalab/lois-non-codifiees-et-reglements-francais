@@ -19,3 +19,9 @@ Les dispositions de l'article 2 du présent arrêté sont applicables :
 " - au 1er juillet 1992 : aux véhicules réceptionnés par type et qui du point de vue des caractéristiques techniques qui ont une influence sur les émissions polluantes sont des nouveaux types ;
 
 " - au 31 décembre 1992 : aux véhicules mis pour la première fois en circulation. "
+
+" 5°En ce qui concerne les émissions de gaz polluants visés par la directive (C.E.E.) n° 93-59 du 28 juin 1993 et sous réserve des dispositions transitoires prévues par cette directive pour les véhicules équipés de moteurs Diesel à injection directe et pour les véhicules faiblement motorisés :
+
+" - au 1er octobre 1993 : aux véhicules des catégories M et N 1, réceptionnés par type et qui, du point de vue des caractéristiques techniques qui ont une influence sur les émissions polluantes, sont des nouveaux types ;
+
+" - au 1er octobre 1994 : aux véhicules des catégories M et N 1 mis pour la première fois en circulation. "
