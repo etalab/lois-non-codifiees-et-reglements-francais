@@ -67,6 +67,7 @@
 - [Arrêté du 6 octobre 1986 (DEFC8701012A)](arrete-du-6-octobre-1986-defc8701012a)
 - [Arrêté du 6 mai 1987 (ACVE8750011A)](arrete-du-6-mai-1987-acve8750011a)
 - [Arrêté du 6 mai 1987 (ACVE8750012A)](arrete-du-6-mai-1987-acve8750012a)
+- [Arrêté du 6 mai 1987 (ASES8700704A)](arrete-du-6-mai-1987-ases8700704a)
 - [Arrêté du 6 mai 1987 (DEFP8701262A)](arrete-du-6-mai-1987-defp8701262a)
 - [Arrêté du 6 mai 1987 (ECOT8733031A)](arrete-du-6-mai-1987-ecot8733031a)
 - [Arrêté du 6 mai 1987 (ECOT8733032A)](arrete-du-6-mai-1987-ecot8733032a)
