@@ -351,6 +351,7 @@
 - [Décret n°2004-714 du 16 juillet 2004 (FAMS0422150D)](decret-n2004-714-du-16-juillet-2004-fams0422150d)
 - [Décret n°2004-722 du 16 juillet 2004 (MENS0401793D)](decret-n2004-722-du-16-juillet-2004-mens0401793d)
 - [Décret n°2004-723 du 16 juillet 2004 (INTC0400185D)](decret-n2004-723-du-16-juillet-2004-intc0400185d)
+- [Décret n°71-618 du 16 juillet 1971](decret-n71-618-du-16-juillet-1971)
 - [Décret n°85-1115 du 16 octobre 1985](decret-n85-1115-du-16-octobre-1985)
 - [Décret du 17 mars 2004 (AGRP0400236D)](decret-du-17-mars-2004-agrp0400236d)
 - [Décret n°2003-906 du 17 septembre 2003 (MENE0301739D)](decret-n2003-906-du-17-septembre-2003-mene0301739d)
