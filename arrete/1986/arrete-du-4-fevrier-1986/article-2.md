@@ -1,3 +1,3 @@
 # Article 2
 
-L'arrêté du 18 février 1985 relatif au droit d'inscription à l'examen du permis de chasser est abrogé.
+Le produit de la taxe est versé à un compte courant ouvert au nom du comité et du centre technique de l'industrie horlogère à la paierie générale du Trésor, laquelle se répartit entre chacun des deux organismes en application de l'article 1er.

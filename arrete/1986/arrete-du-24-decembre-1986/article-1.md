@@ -1,3 +1,9 @@
 # Article 1
 
-Les dispositions de l'arrêté du 30 décembre 1981 pris en exécution de l'article 10 (premier alinéa) du décret n° 75-996 du 28 octobre 1975 susvisé sont reconduites pour une durée maximale de cinq ans à compter du 1er janvier 1987.
+Le taux de la taxe parafiscale instituée par le décret n° 84-866 du 27 septembre 1984 susvisé est fixé du 1er janvier 1987 au 31 décembre 1987 à :
+
+- 0,112 p. 100 de l'assiette taxable pour les opérations réalisées sur le marché intérieur et les exportations concernant les activités définies aux paragraphes a, b, c, d de l'article 4 du décret ;
+
+- 0,35 p. 100 de l'assiette taxable pour les opérations réalisées sur le marché intérieur concernant les activités définies aux paragraphes e et f de l'article 4 du décret ;
+
+- 0,15 p. 100 de l'assiette taxable pour les exportations concernant les activités définies aux paragraphes e et f de l'article 4 du décret.

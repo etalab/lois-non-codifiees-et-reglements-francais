@@ -1,3 +1,5 @@
 # Article 1
 
-L'arrêté du 1er octobre 1976 relatif à la tarification des risques d'accidents du travail et de maladies professionnelles est applicable au risque professionnel des sportifs professionnels compte tenu des dispositions particulières visées à l'article 2 ci-dessous.
+La gestion des titres et valeurs déposés à la Caisse des dépôts et consignations, en application de l'article 2 de la loi n° 77-4 du 3 janvier 1977 susvisée, donne lieu à perception d'un droit de 50 F par ligne d'enregistrement du portefeuille avec un minimum de 200 F par compte particulier. Ce droit est majoré de la taxe à la valeur ajoutée.
+
+Ce droit est versé par l'organisme dépositaire lors du dépôt à la Caisse des dépôts et consignations.

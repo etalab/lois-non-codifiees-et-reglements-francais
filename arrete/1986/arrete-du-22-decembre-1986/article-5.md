@@ -1,3 +1,3 @@
 # Article 5
 
-Les dispositions du présent arrêté s'appliquent aux élèves-assistants qui suivront les sessions de formation postérieurement au 31 décembre 1986.
+Les destinataires habilités à recevoir communication des informations mentionnées à l'article 4 sont les magistrats et les greffiers du tribunal d'instance.

@@ -1,4 +1,4 @@
-# Arrêté du 4 février 1986 relatif au droit d'inscription à l'examen du permis de chasser.
+# Arrêté du 4 février 1986 du 4 février 1986 relatif au taux et à l'affectation de la taxe parafiscale instituée au profit du comité professionnel de développement de l'horlogerie et du centre technique de l'industrie horlogère.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

@@ -1,3 +1,3 @@
 # Article 2
 
-Les taux notifiés conformément aux dispositions du présent arrêté ne peuvent dépasser le taux de 25 p. 100 pour le risque professionnel n° 8612.0 au titre de l'année 1987.
+Le directeur général de la Caisse des dépôts et consignations est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
