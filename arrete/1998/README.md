@@ -400,7 +400,6 @@
 - [Arrêté du 12 décembre 1997 (MESH9724044A)](arrete-du-12-decembre-1997-mesh9724044a)
 - [Arrêté du 12 décembre 1997 (MJSK9870001A)](arrete-du-12-decembre-1997-mjsk9870001a)
 - [Arrêté du 12 février 1998 (ATEP9870096A)](arrete-du-12-fevrier-1998-atep9870096a)
-- [Arrêté du 12 février 1998 (ECOD9870006A)](arrete-du-12-fevrier-1998-ecod9870006a)
 - [Arrêté du 12 février 1998 (JUSG9860012A)](arrete-du-12-fevrier-1998-jusg9860012a)
 - [Arrêté du 12 février 1998 (MAEC9800046A)](arrete-du-12-fevrier-1998-maec9800046a)
 - [Arrêté du 12 janvier 1998 (MESS9820098A)](arrete-du-12-janvier-1998-mess9820098a)
