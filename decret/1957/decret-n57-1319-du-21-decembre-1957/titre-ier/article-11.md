@@ -1,0 +1,7 @@
+# Article 11
+
+Sous réserve des droits des bénéficiaires de la législation sur les emplois réservés et compte tenu des sujétions particulières de l'emploi, les préposés sont recrutés par voie de concours ouvert aux candidats du sexe masculin âgés de dix-huit ans au moins et de trente ans au plus et remplissant les conditions fixées à l'article 23 de la loi du 19 octobre 1946 susvisée. Les candidats peuvent bénéficier des reculs de la limite d'âge supérieure pour services militaires et charges de famille prévus par la législation en vigueur ainsi que d'un recul d'une durée égale à celle des services accomplis dans l'administration des postes, télégraphes et téléphones et valables ou validables pour la retraite, sans que ces divers reculs puissent permettre de dépasser l'âge de quarante ans.
+
+Toutefois, peuvent être nommés préposés, sans concours, les jeunes facteurs âgés de dix-huit ans au moins au 1er janvier de l'année considérée, comptant, à cette même date, deux ans au moins de services et ayant subi avec succès l'examen clôturant les cours postscolaires organisés à leur intention.
+
+En outre, vingt emplois de préposé au maximum peuvent être attribués au choix, chaque année, aux fonctionnaires de sexe masculin des corps d'agents de service et d'huissiers en possession au moins du cinquième échelon de leur grade, âgés de quarante-cinq ans au plus, aptes physiquement à l'emploi recherché et remplissant, en outre, les conditions prévues au tableau des filières.
