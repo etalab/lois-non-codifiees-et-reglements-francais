@@ -35,3 +35,5 @@ Titre d'ancien élève de l'école militaire interarmes de Coëtquidan, admis au
 Diplôme d'Etat de laborantin d'analyses médicales.
 
 Diplôme d'Etat de manipulateur d'électroradiologie.
+
+Titre d'ancien élève de l'école militaire de la flotte admis aux examens de sortie.
