@@ -1,5 +1,6 @@
-# Des conseils d'arrondissement.
+# Décret n°83-664 du 21 juillet 1983 RELATIF AU FINANCEMENT DES REGIMES DE PROTECTION SOCIALE DES PERSONNES NON-SALARIEES DES PROFESSIONS AGRICOLES *EXPLOITANTS AGRICOLES* ET A LA FIXATION DES COTISATIONS POUR 1983.
 
+- [Article 1](article-1.md)
 - [Article 2](article-2.md)
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)
@@ -12,10 +13,4 @@
 - [Article 11](article-11.md)
 - [Article 12](article-12.md)
 - [Article 13](article-13.md)
-- [Article 14](article-14.md)
-- [Article 15](article-15.md)
-- [Article 16](article-16.md)
-- [Article 17](article-17.md)
-- [Article 17 bis](article-17-bis.md)
-- [Article 18](article-18.md)
-- [Article 19](article-19.md)
+- [Annexes](annexes)

@@ -1,0 +1,3 @@
+# Article 24
+
+Lorsqu'au moins 10 p. 100 [*pourcentage*] des élèves d'un collège viennent d'un autre département que celui dont relève cet établissement, une participation aux charges de fonctionnement peut être demandée au département dont les élèves sont originaires. Le montant de cette participation est fixé par une convention entre les départements concernés. En cas de désaccord sur celle-ci, le représentant de l'Etat dans la région [*commissaire de la République de région*] fixe les modalités de la participation ; si les départements appartiennent à des régions différentes, la décision relève des représentants de l'Etat concernés.
