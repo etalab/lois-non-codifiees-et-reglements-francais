@@ -1,3 +1,0 @@
-# Article 3
-
-Le présent arrêté n'est pas applicable aux médicaments à usage humain ou vétérinaire, aux produits cosmétiques, aux préparations dangereuses en transit soumises à un contrôle douanier pour autant qu'elles ne font pas l'objet d'un traitement ou d'une transformation, aux mélanges de substances sous forme de déchets, aux munitions et aux explosifs mis sur le marché en vue de produire un effet pratique par explosion ou par effet pyrotechnique, aux denrées alimentaires au stade de la consommation pour les hommes ou les animaux, aux préparations pesticides, au transport des préparations dangereuses.

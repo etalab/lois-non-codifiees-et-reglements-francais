@@ -1,5 +1,0 @@
-# Article 16
-
-Sont considérées comme toxiques pour la reproduction et affectées au moins du symbole T et des phrases R. 60 ou R. 61 les préparations qui contiennent au moins une substance toxique pour la reproduction de catégorie 1 ou 2 et affectée des phrases R. 60 ou R. 61 caractérisant de tels effets à une concentration supérieure ou égale à la limite éventuellement fixée à l'annexe I de l'arrêté du 20 avril 1994 ou, en l'absence de celle-ci, à la limite fixée dans le tableau VI de l'annexe I du présent arrêté.
-
-Sont considérées comme devant être assimilées aux préparations toxiques pour la reproduction et affectées au moins du symbole Xn et des phrases R. 62 ou R. 63 les préparations qui contiennent au moins une substance toxique pour la reproduction de catégorie 3 et affectée des phrases R. 62 ou R. 63 caractérisant de tels effets à une concentration supérieure ou égale à la limite éventuellement fixée à l'annexe I de l'arrêté du 20 avril 1994 ou, en l'absence de celle-ci, à la limite fixée dans le tableau VI de l'annexe I du présent arrêté.

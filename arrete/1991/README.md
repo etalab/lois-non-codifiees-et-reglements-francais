@@ -571,7 +571,6 @@
 - [Arrêté du 21 décembre 1990 (SPSS9002558A)](arrete-du-21-decembre-1990-spss9002558a)
 - [Arrêté du 21 décembre 1990 (SPSS9002571A)](arrete-du-21-decembre-1990-spss9002571a)
 - [Arrêté du 21 décembre 1990 (TEFT9004103A)](arrete-du-21-decembre-1990-teft9004103a)
-- [Arrêté du 21 février 1990 (TEFT9003189A)](arrete-du-21-fevrier-1990-teft9003189a)
 - [Arrêté du 21 février 1991 (ACVM9140001A)](arrete-du-21-fevrier-1991-acvm9140001a)
 - [Arrêté du 21 février 1991 (ECOC9100026A)](arrete-du-21-fevrier-1991-ecoc9100026a)
 - [Arrêté du 21 février 1991 (EQUA9100336A)](arrete-du-21-fevrier-1991-equa9100336a)

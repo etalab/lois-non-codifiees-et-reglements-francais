@@ -1,3 +1,0 @@
-# Modèle I : Certificat sanitaire (1), n° ...
-
-- [Pour les échanges d'ovins ou de caprins de boucherie entre les Etats membres de l'Union européenne.](pour-les-echanges-d-ovins-ou)

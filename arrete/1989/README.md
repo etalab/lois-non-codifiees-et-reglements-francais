@@ -497,7 +497,6 @@
 - [Arrêté du 28 juillet 1989 (SPSS8901609A)](arrete-du-28-juillet-1989-spss8901609a)
 - [Arrêté du 28 juin 1989 (MAEF8910013A)](arrete-du-28-juin-1989-maef8910013a)
 - [Arrêté du 28 mars 1989 (PRME8961333A)](arrete-du-28-mars-1989-prme8961333a)
-- [Arrêté du 28 mars 1989 (SPSD8900698A)](arrete-du-28-mars-1989-spsd8900698a)
 - [Arrêté du 28 mars 1989 (SPSP8900697A)](arrete-du-28-mars-1989-spsp8900697a)
 - [Arrêté du 28 mars 1989 (SPSS8900028A)](arrete-du-28-mars-1989-spss8900028a)
 - [Arrêté du 28 novembre 1988 (INDD8800892A)](arrete-du-28-novembre-1988-indd8800892a)
