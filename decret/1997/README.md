@@ -156,6 +156,8 @@
 - [Décret n°97-716 du 11 juin 1997 (PARX9700083D)](decret-n97-716-du-11-juin-1997-parx9700083d)
 - [Décret n°97-717 du 11 juin 1997 (FPPX9700084D)](decret-n97-717-du-11-juin-1997-fppx9700084d)
 - [Décret n°97-718 du 11 juin 1997 (MJSX9700085D)](decret-n97-718-du-11-juin-1997-mjsx9700085d)
+- [Décret n°97-760 du 11 juillet 1997 (MAEJ9730064D)](decret-n97-760-du-11-juillet-1997-maej9730064d)
+- [Décret n°97-761 du 11 juillet 1997 (MAEJ9730061D)](decret-n97-761-du-11-juillet-1997-maej9730061d)
 - [Décret n°91-553 du 12 juin 1991 (JUSG9160036D)](decret-n91-553-du-12-juin-1991-jusg9160036d)
 - [Décret n°97-125 du 12 février 1997 (TASS9720272D)](decret-n97-125-du-12-fevrier-1997-tass9720272d)
 - [Décret n°97-126 du 12 février 1997 (TASS9720306D)](decret-n97-126-du-12-fevrier-1997-tass9720306d)
