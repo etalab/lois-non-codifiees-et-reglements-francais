@@ -1,0 +1,3 @@
+# Article M 51
+
+Sans préjudice des autres autorisations et délais nécessaires, les expositions proprement dites, organisées dans les locaux de vente et non les locaux spéciaux visés à la section 10 du présent chapitre, ne peuvent avoir lieu qu'après accord du maire, sur avis de la commission locale de sécurité. La demande d'autorisation, déposée au moins un mois à l'avance, doit préciser la nature de l'exposition, sa durée, son emplacement, les décorations exceptionnelles prévues, le tracé des circulations et les mesures complémentaires de prévention et de lutte contre l'incendie envisagées. En l'absence de réponse de l'administration, l'exposition peut avoir lieu à l'expiration du délai d'un mois qui suit le dépôt du dossier.

@@ -1,0 +1,3 @@
+# Article U 6
+
+Les salles d'attente, de consultations, de soins, de traitement doivent faire l'objet d'un examen spécial de la commission locale de sécurité ; selon leur emplacement, leur destination, l'effectif déclaré par la direction des personnes susceptibles d'y être rassemblées, le maire ou le préfet doit arrêter les conditions de leur isolement entre elles et des autres parties de l'établissement, se prononcer sur la nécessité de créer des dégagements indépendants, fixer les modes d'éclairage et de chauffage pouvant être autorisés ainsi que les conditions que doivent remplir les installations et déterminer les moyens de secours contre l'incendie.

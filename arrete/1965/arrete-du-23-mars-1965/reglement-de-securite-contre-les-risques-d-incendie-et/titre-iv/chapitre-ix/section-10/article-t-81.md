@@ -1,0 +1,3 @@
+# Article T 81
+
+La présentation au public des objets ou matières particulièrement inflammables, tels qu'articles en celluloïd, artifices, etc., est interdite en sous-sol. Elle doit être faite, de préférence, aux étages et, dans tous les cas, sur des comptoirs incombustibles en des emplacements ne commandant ni sorties ni des dégagements et éloignés de toute lampe, foyer et canalisation électrique. Elle doit faire l'objet d'une demande spéciale dans les conditions prévues à l'article T 88, précisant la nature et la quantité des produits susceptibles d'être réunis et les mesures particulières (personnel et moyens de surveillance et d'extinction) prévues pour assurer la protection de cette présentation.

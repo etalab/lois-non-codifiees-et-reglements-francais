@@ -1,0 +1,3 @@
+# Article V 12
+
+Les chaises, bancs, banquettes et prie-Dieu doivent être solidairement fixés au sol ou, tout au moins, reliés entre eux par rangées au moyen d'un système d'attache rigide. Dans ce dernier cas, chaque rangée doit en outre être fixée solidement à ses deux extrémités au sol ou aux parois, soit rendue solidaire d'une ou plusieurs autres rangées, de manière à constituer un bloc difficile à renverser ou à déplacer. Les tringles de fixation perpendiculaires aux rangées doivent être appliquées au niveau du sol et ne pas avoir plus de 0,02 mètre d'épaisseur avec profil arrondi pour empêcher toute chute de personnes.
