@@ -10,6 +10,6 @@ Les dispositions du présent décret sont applicables :
 
 4° Aux centres de préorientation définis à l'article R. 323-33-1 du code du travail et aux centres d'éducation ou de rééducation professionnelle définis aux 1°, 2° et 3° de l'article R. 323-34 du code du travail ;
 
-5° Aux centres mentionnés au 9° de l'article 3 de la loi du 30 juin 1975 modifiée susvisée ;
+5° Aux centres spécialisés de soins aux toxicomanes et aux centres de cure ambulatoire en alcoologie relevant du 9° du I de l'article L. 312-1 du code de l'action sociale et des familles ;
 
 6° Aux appartements de coordination thérapeutique mentionnés au 9° du I de l'article L. 312-1 du code de l'action sociale et des familles.
