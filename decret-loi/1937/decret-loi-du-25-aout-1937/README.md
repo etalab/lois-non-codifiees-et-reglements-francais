@@ -1,4 +1,3 @@
-# Décret-loi du 25 août 1937 portant réglementation de la vente par camions-bazars
+# Décret-loi du 25 août 1937 réglementant les bons de caisse
 
-- [Article 1](article-1.md)
-- [Article 2](article-2.md)
+- [Article 6](article-6.md)
