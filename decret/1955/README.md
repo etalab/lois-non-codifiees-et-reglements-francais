@@ -4,6 +4,7 @@
 - [Décret n°55-216 du 3 février 1955](decret-n55-216-du-3-fevrier-1955)
 - [Décret n°55-15 du 4 janvier 1955](decret-n55-15-du-4-janvier-1955)
 - [Décret n°55-22 du 4 janvier 1955](decret-n55-22-du-4-janvier-1955)
+- [Décret n°55-241 du 10 février 1955](decret-n55-241-du-10-fevrier-1955)
 - [Décret n°55-76 du 14 janvier 1955](decret-n55-76-du-14-janvier-1955)
 - [Décret n°54-1139 du 17 novembre 1954](decret-n54-1139-du-17-novembre-1954)
 - [Décret n°55-1103 du 17 août 1955](decret-n55-1103-du-17-aout-1955)
