@@ -2,5 +2,4 @@
 
 - [TITRE Ier : Organisation administrative](titre-ier)
 - [TITRE II : Organisation financière](titre-ii)
-- [TITRE III : Du centre d'études et de recherches sur les qualifications](titre-iii)
 - [Article 31](article-31.md)
