@@ -2,7 +2,9 @@
 
 Par dérogation à l'article 4 ci-dessus [*relatif au montant minimum des cotisations*] :
 
-1. Les élèves de l'enseignement secondaire ainsi que les élèves de tout établissement d'enseignement agréé à cet effet par arrêté conjoint du ministre chargé de la sécurité sociale et du ministre de l'éducation ou du ministre dont relève l'établissement, sont redevables en cas d'affiliation à l'assurance personnelle d'une cotisation forfaitaire calculée sur une base annuelle [*assiette*] égale à 1,20 fois le plafond hebdomadaire des cotisations de sécurité sociale applicables au 1er janvier de l'année civile comprenant le début de la période mentionnée à l'article 2 ci-dessus à condition qu'ils soient âgés de moins de vingt-six ans [*âge maximum*].
+1. Les élèves de l'enseignement secondaire ainsi que les élèves ou étudiants de tout enseignement agréé à cet effet par arrêté conjoint du ministre chargé de la sécurité sociale et du ministre chargé de l'éducation nationale ou du ministre dont relève l'établissement sont redevables en cas d'affiliation à l'assurance personnelle d'une cotisation forfaitaire.
+
+Cette cotisation est égale pour chaque année scolaire au montant de la cotisation forfaitaire fixée en application de l'article L. 570 du code de la sécurité sociale.
 
 Cette limite d'âge est reculée d'un temps égal à celui passé sous les drapeaux [*report*].
 
