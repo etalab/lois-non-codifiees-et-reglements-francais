@@ -2,46 +2,50 @@
 
 La liste des diplômes et des titres reconnus équivalents, sanctionnant quatre années d'études supérieures après le baccalauréat, mentionnée au 3° de l'article 7 du décret du 22 décembre 1975 précité est la suivante :
 
-- mathématiques ;
+A.-Toutes les maîtrises sanctionnant une formation dans les domaines scientifiques suivants :
 
-- physique ;
+-mathématiques ;
 
-- mécanique ;
+-physique ;
 
-- informatique ;
+-chimie ;
 
-- électronique, électrotechnique et automatique ;
+-mécanique ;
 
-- télécommunications ;
+-informatique ;
 
-- sciences industrielles ;
+-électronique, électrotechnique et automatique ;
 
-- sciences de l'ingénieur ;
+-télécommunications ;
 
-B. - Toutes les maîtrises sanctionnant une formation dans les domaines suivants :
+-sciences industrielles ;
 
-- juridique ;
+-sciences de l'ingénieur ;
 
-- science politique ;
+B.-Toutes les maîtrises sanctionnant une formation dans les domaines suivants :
 
-- sciences économiques ;
+-juridique ;
 
-- gestion ;
+-science politique ;
 
-- administration économique et sociale ;
+-sciences économiques ;
 
-- sociologie ;
+-gestion ;
 
-C. - Uniquement pour les concours organisés jusqu'en 2005 inclus, toutes les maîtrises sanctionnant une formation dans les domaines suivants :
+-administration économique et sociale ;
 
-- langues et civilisations étrangères (1) ;
+-sociologie ;
 
-- langues étrangères appliquées (1) ;
+C.-Uniquement pour les concours organisés jusqu'en 2005 inclus, toutes les maîtrises sanctionnant une formation dans les domaines suivants :
 
-- histoire ;
+-langues et civilisations étrangères (1) ;
 
-- géographie ;
+-langues étrangères appliquées (1) ;
 
-D. - Les diplômes des instituts d'études politiques sanctionnant une formation de quatre années après le baccalauréat ;
+-histoire ;
 
-E. - Les titres reconnus équivalents par le ministre de l'éducation nationale aux diplômes mentionnés aux A, B, C (jusqu'en 2005 inclus) et D du présent article.
+-géographie ;
+
+D.-Les diplômes des instituts d'études politiques sanctionnant une formation de quatre années après le baccalauréat ;
+
+E.-Les titres reconnus équivalents par le ministre de l'éducation nationale aux diplômes mentionnés aux A, B, C (jusqu'en 2005 inclus) et D du présent article.
