@@ -17,7 +17,6 @@
 - [Décret n°74-1069 du 13 décembre 1974](decret-n74-1069-du-13-decembre-1974)
 - [Décret n°74-415 du 13 mai 1974](decret-n74-415-du-13-mai-1974)
 - [Décret n°74-1000 du 14 novembre 1974](decret-n74-1000-du-14-novembre-1974)
-- [Décret n°74-27 du 14 janvier 1974](decret-n74-27-du-14-janvier-1974)
 - [Décret n°74-28 du 14 janvier 1974](decret-n74-28-du-14-janvier-1974)
 - [Décret n°74-431 du 14 mai 1974](decret-n74-431-du-14-mai-1974)
 - [Décret n°74-434 du 15 mai 1974](decret-n74-434-du-15-mai-1974)

@@ -66,7 +66,6 @@
 - [Décret n°73-1191 du 21 décembre 1973](decret-n73-1191-du-21-decembre-1973)
 - [Décret n°73-1192 du 21 décembre 1973](decret-n73-1192-du-21-decembre-1973)
 - [Décret n°73-834 du 21 août 1973](decret-n73-834-du-21-aout-1973)
-- [Décret n°73-502 du 21 mai 1973](decret-n73-502-du-21-mai-1973)
 - [Décret n°73-1004 du 22 octobre 1973](decret-n73-1004-du-22-octobre-1973)
 - [Décret n°73-1008 du 22 octobre 1973](decret-n73-1008-du-22-octobre-1973)
 - [Décret n°73-176 du 22 février 1973](decret-n73-176-du-22-fevrier-1973)
