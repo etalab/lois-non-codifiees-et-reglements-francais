@@ -9,6 +9,7 @@
 - [Décret n°82-307 du 2 avril 1982](decret-n82-307-du-2-avril-1982)
 - [Décret n°82-317 du 2 avril 1982](decret-n82-317-du-2-avril-1982)
 - [Décret n°82-460 du 2 juin 1982](decret-n82-460-du-2-juin-1982)
+- [Décret n°82-464 du 2 juin 1982](decret-n82-464-du-2-juin-1982)
 - [Décret n°81-1068 du 3 décembre 1981](decret-n81-1068-du-3-decembre-1981)
 - [Décret n°82-136 du 4 février 1982](decret-n82-136-du-4-fevrier-1982)
 - [Décret n°82-225 du 4 mars 1982](decret-n82-225-du-4-mars-1982)

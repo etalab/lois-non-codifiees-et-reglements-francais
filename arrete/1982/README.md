@@ -56,6 +56,7 @@
 - [Arrêté du 23 novembre 1981](arrete-du-23-novembre-1981)
 - [Arrêté du 24 février 1982](arrete-du-24-fevrier-1982)
 - [Arrêté du 24 mars 1982](arrete-du-24-mars-1982)
+- [Arrêté du 24 mai 1982](arrete-du-24-mai-1982)
 - [Arrêté du 25 février 1982](arrete-du-25-fevrier-1982)
 - [Arrêté du 25 janvier 1982](arrete-du-25-janvier-1982)
 - [Arrêté du 26 avril 1982](arrete-du-26-avril-1982)
