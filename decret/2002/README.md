@@ -23,7 +23,6 @@
 - [Décret n°2002-1064 du 7 août 2002 (PRMX0205836D)](decret-n2002-1064-du-7-aout-2002-prmx0205836d)
 - [Décret n°2002-1244 du 7 octobre 2002 (SANH0222772D)](decret-n2002-1244-du-7-octobre-2002-sanh0222772d)
 - [Décret n°2002-1331 du 7 novembre 2002 (INTC0200254D)](decret-n2002-1331-du-7-novembre-2002-intc0200254d)
-- [Décret n°2002-1152 du 9 septembre 2002 (ECOP0200598D)](decret-n2002-1152-du-9-septembre-2002-ecop0200598d)
 - [Décret n°2002-39 du 9 janvier 2002 (MESP0123909D)](decret-n2002-39-du-9-janvier-2002-mesp0123909d)
 - [Décret n°2002-50 du 10 janvier 2002 (PRMG0270028D)](decret-n2002-50-du-10-janvier-2002-prmg0270028d)
 - [Décret n°2002-994 du 11 juillet 2002 (DEFD0201703D)](decret-n2002-994-du-11-juillet-2002-defd0201703d)
