@@ -10,6 +10,6 @@ Il peut être accompli pendant le reste de la durée exigée :
 
 - Soit dans un organisme professionnel notarial d'enseignement, de documentation, de recherche ou d'assistance technique ;
 
-- Soit dans un pays étranger, auprès d'une personne exerçant une profession juridique ou judiciaire réglementée.
+- Soit dans un pays étranger, auprès d'un membre d'une profession réglementée correspondant à celle de notaire.
 
 Pendant une période qui ne peut excéder un an, le stage peut être accompli à mi-temps ; la période durant laquelle le stage a été ainsi accompli ne compte que pour la moitié de sa durée.

@@ -4,7 +4,7 @@ L'école de notariat est gérée par un conseil d'administration composé ainsi 
 
 Un magistrat de l'ordre judiciaire en activité ou honoraire, président ;
 
-Un professeur ou un maître de conférences de droit des universités ;
+Un professeur de droit des universités ;
 
 Trois notaires ;
 

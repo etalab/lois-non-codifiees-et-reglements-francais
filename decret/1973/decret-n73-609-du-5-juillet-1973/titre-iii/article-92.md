@@ -4,8 +4,8 @@ La gestion de l'école nationale d'enseignement par correspondance est exercée 
 
 Le magistrat président du conseil d'administration ;
 
-L'un ou l'autre des deux professeurs ou maîtres de conférences de droit ;
+L'un ou l'autre des deux professeurs de droit ;
 
 Deux notaires que choisissent parmi eux les notaires membres du conseil d'administration ;
 
-Deux clercs que choisissent parmi eux les clercs membres du conseil d'administration dans sa deuxième formation.
+Deux clercs que choisissent parmi eux les clercs membres du conseil d'administration.

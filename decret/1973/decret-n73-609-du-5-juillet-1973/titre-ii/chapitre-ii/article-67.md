@@ -4,7 +4,7 @@ Les membres du conseil d'administration sont désignés ainsi qu'il suit :
 
 Le magistrat par le premier président et le procureur général de la cour d'appel dans le ressort de laquelle l'école a son siège ;
 
-Le professeur ou maître de conférences par le président de l'université avec laquelle l'école a passé convention ou, à défaut, par le président de l'université dans le ressort de laquelle l'école a son siège ;
+Le professeur par le président de l'université avec laquelle l'école a passé convention ou, à défaut, par le président de l'université dans le ressort de laquelle l'école a son siège ;
 
 Les notaires par le conseil régional ou les conseils régionaux du ressort de l'école ;
 
