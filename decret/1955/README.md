@@ -9,5 +9,6 @@
 - [Décret n°54-1139 du 17 novembre 1954](decret-n54-1139-du-17-novembre-1954)
 - [Décret n°55-1103 du 17 août 1955](decret-n55-1103-du-17-aout-1955)
 - [Décret n°54-1032 du 19 octobre 1954](decret-n54-1032-du-19-octobre-1954)
+- [Décret n°55-318 du 22 mars 1955](decret-n55-318-du-22-mars-1955)
 - [Décret n° 55-851 du 25 juin 1955](decret-n-55-851-du-25-juin-1955)
 - [Décret n°55-1002 du 26 juillet 1955](decret-n55-1002-du-26-juillet-1955)
