@@ -1,3 +1,0 @@
-# Article 7
-
-Pour la constitution initiale du corps des chargés de mission du secrétariat général du Gouvernement, il pourra, être fait appel aux chargés de mission régis par les dispositions de l'article 5 de la loi du 13 août 1936 en fonction à la date de publication du décret, à la condition qu'ils soient titulaires de l'un des diplômes prévus pour se présenter au premier concours d'entrée à l'école nationale d'administration et qu'ils justifient de trois ans de services en qualité de chargés de mission. Les intéressés seront intégrés à un échelon comportant un indice égal ou supérieur à l'indice servant de référence pour la détermination de leur rémunération à la date d'application du présent décret.
