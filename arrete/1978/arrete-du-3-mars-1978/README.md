@@ -1,4 +1,4 @@
-# Arrêté du 3 mars 1978 relatif à la commission des titres-restaurants
+# Arrêté du 3 mars 1978 relatif à l'échelonnement indiciaire applicable aux personnels du Conservatoire national des arts et métiers
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

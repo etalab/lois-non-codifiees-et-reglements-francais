@@ -1,45 +1,397 @@
 # Article 1
 
-Les organisations professionnelles et syndicales, syndicats de restaurateurs et les entreprises ayant pour activité principale l'émission de titres-restaurant désignés ci-dessus sont chargés, chacun en ce qui le concerne, de désigner leurs représentants à la commission prévue par l'article 15 du décret susvisé :
+L'échelonnement indiciaire applicable aux personnels du Conservatoire national des arts et métiers ci-après énumérés est fixé, en indices bruts, ainsi qu'il suit à compter du 1er août 1977 :
 
-a) Organisations professionnelles :
+Conservatoire national des arts et métiers
 
-Conseil national du patronat français : deux membres ;
+Indices bruts
 
-Confédération générale des petites et moyennes entreprises et du patronat réel : trois membres.
+Sous-directeur de laboratoire (1) :
 
-b) Organisations syndicales :
+(1) La carrière dans ce grade se poursuit hors échelle sous la forme d'une classe exceptionnelle.
 
-Confédération générale du travail (CGT) : un membre ;
+Sous-directeur de laboratoire d'essais (1) :
 
-Confédération générale du travail Force ouvrière (CGT-FO) ; un membre ;
+<table>
+<tbody>
+<tr>
+<td>
+<p>3e échelon</p>
+</td>
+<td>
+<p align="right">1015</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2e échelon</p>
+</td>
+<td>
+<p align="right">901</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>1er échelon</p>
+</td>
+<td rowspan="2">
+<p align="right">801</p>
+</td>
+</tr>
+</tbody>
+</table>
 
-Confédération française démocratique du travail (CFDT) : un membre ;
+(1) La carrière dans ce grade se poursuit hors échelle sous la forme d'une classe exceptionnelle.
 
-Confédération française des travailleurs chrétiens (CFTC) : un membre ;
+Chef de travaux :
 
-Confédération générale des cadres (CGC) : un membre.
+<table>
+<tbody>
+<tr>
+<td>
+<p>7e échelon</p>
+</td>
+<td>
+<p align="right">801</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6e échelon</p>
+</td>
+<td>
+<p align="right">721</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5e échelon</p>
+</td>
+<td>
+<p align="right">630</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4e échelon</p>
+</td>
+<td>
+<p align="right">561</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3e échelon</p>
+</td>
+<td>
+<p align="right">498</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2e échelon</p>
+</td>
+<td>
+<p align="right">440</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>1er échelon</p>
+</td>
+<td rowspan="2">
+<p align="right">379</p>
+</td>
+</tr>
+</tbody>
+</table>
 
-c) Syndicats de restaurateurs et de commerces susceptibles d'être assimilés à des restaurateurs :
+Assistant-chef :
 
-Union des chambres syndicales des cafetiers, limonadiers et restaurateurs : un membre ;
+<table>
+<tbody>
+<tr>
+<td>
+<p>5e échelon</p>
+</td>
+<td>
+<p align="right">701</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4e échelon</p>
+</td>
+<td>
+<p align="right">659</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3e échelon</p>
+</td>
+<td>
+<p align="right">612</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2e échelon</p>
+</td>
+<td>
+<p align="right">580</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>1er échelon</p>
+</td>
+<td rowspan="2">
+<p align="right">546</p>
+</td>
+</tr>
+</tbody>
+</table>
 
-Syndicat national des restaurateurs limonadiers : un membre ;
+Chef du service des essais :
 
-Syndicat général des cafés-restaurants : un membre ;
+<table>
+<tbody>
+<tr>
+<td>
+<p>6e échelon</p>
+</td>
+<td>
+<p align="right">901</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5e échelon</p>
+</td>
+<td>
+<p align="right">852</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4e échelon</p>
+</td>
+<td>
+<p align="right">801</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3e échelon</p>
+</td>
+<td>
+<p align="right">736</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2e échelon</p>
+</td>
+<td>
+<p align="right">671</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>1er échelon</p>
+</td>
+<td rowspan="2">
+<p align="right">616</p>
+</td>
+</tr>
+</tbody>
+</table>
 
-Syndicat national des chaînes d'hôtels et restaurants : un membre ;
+Physicien et chimiste principal :
 
-Confédération française des hôteliers, restaurateurs, cafetiers limonadiers : un membre ;
+<table>
+<tbody>
+<tr>
+<td>
+<p>3e échelon</p>
+</td>
+<td>
+<p align="right">701</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2e échelon</p>
+</td>
+<td>
+<p align="right">626</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>1 échelon</p>
+</td>
+<td rowspan="2">
+<p align="right">546</p>
+</td>
+</tr>
+</tbody>
+</table>
 
-Confédération nationale de la charcuterie de France : un membre ;
+Physicien et chimiste :
 
-Confédération nationale de la boulangerie et de la boulangerie-¬pâtisserie française : un membre.
+<table>
+<tbody>
+<tr>
+<td>
+<p>7e échelon</p>
+</td>
+<td>
+<p align="right">652</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6e échelon</p>
+</td>
+<td>
+<p align="right">612</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5e échelon</p>
+</td>
+<td>
+<p align="right">550</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4e échelon </p>
+</td>
+<td>
+<p align="right">482</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3e échelon</p>
+</td>
+<td>
+<p align="right">425</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2e échelon</p>
+</td>
+<td>
+<p align="right">358</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>1er échelon</p>
+</td>
+<td rowspan="2">
+<p align="right">306</p>
+</td>
+</tr>
+</tbody>
+</table>
 
-d) Entreprises émettrices de titres-restaurant :
+Chef du service de muséologie technique :
 
-Société anonyme le Chèque restaurant : un membre ;
+<table>
+<tbody>
+<tr>
+<td>
+<p>5e échelon</p>
+</td>
+<td>
+<p align="right">966</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4e échelon</p>
+</td>
+<td>
+<p align="right">901</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3e échelon</p>
+</td>
+<td>
+<p align="right">849</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2e échelon</p>
+</td>
+<td>
+<p align="right">795</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>1er échelon</p>
+</td>
+<td rowspan="2">
+<p align="right">741</p>
+</td>
+</tr>
+</tbody>
+</table>
 
-Société anonyme du Crédit repas, tickets-restaurant : un membre ;
+Conservateur adjoint des collections :
 
-Société coopérative le Chèque coopératif restaurant : un membre.
+<table>
+<tbody>
+<tr>
+<td>
+<p>5e échelon</p>
+</td>
+<td>
+<p align="right">772</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4e échelon</p>
+</td>
+<td>
+<p align="right">701</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3e échelon</p>
+</td>
+<td>
+<p align="right">567</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2e échelon</p>
+</td>
+<td>
+<p align="right">445</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1er échelon</p>
+</td>
+<td>
+<p align="right">340</p>
+</td>
+</tr>
+</tbody>
+</table>
