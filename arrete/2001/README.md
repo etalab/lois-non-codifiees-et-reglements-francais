@@ -7,7 +7,6 @@
 - [Arrêté du 1 février 2001 (MESP0120353A)](arrete-du-1-fevrier-2001-mesp0120353a)
 - [Arrêté du 1 février 2001 (MESP0120354A)](arrete-du-1-fevrier-2001-mesp0120354a)
 - [Arrêté du 1 mars 2001 (AGRG0100491A)](arrete-du-1-mars-2001-agrg0100491a)
-- [Arrêté du 1 mars 2001 (AGRG0100492A)](arrete-du-1-mars-2001-agrg0100492a)
 - [Arrêté du 2 février 2001 (ATEP0100059A)](arrete-du-2-fevrier-2001-atep0100059a)
 - [Arrêté du 2 février 2001 (ECOR0105002A)](arrete-du-2-fevrier-2001-ecor0105002a)
 - [Arrêté du 2 janvier 2001 (AGRG0100009A)](arrete-du-2-janvier-2001-agrg0100009a)
