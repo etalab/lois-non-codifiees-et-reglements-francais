@@ -2,25 +2,25 @@
 
 Agglomérations de plus de 250 000 habitants :
 
+Avignon ;
+
 Béthune ;
 
 Bordeaux ;
 
 Clermont-Ferrand ;
 
-Grasse-Cannes-Antibes ;
+Douai - Lens ;
 
 Grenoble ;
-
-Le Havre ;
-
-Lens ;
 
 Lille ;
 
 Lyon ;
 
 Marseille - Aix-en-Provence ;
+
+Metz ;
 
 Montpellier ;
 
@@ -29,6 +29,8 @@ Nancy ;
 Nantes ;
 
 Nice ;
+
+Orléans ;
 
 Paris ;
 
@@ -58,7 +60,7 @@ Angoulême ;
 
 Annecy ;
 
-Avignon ;
+Annemasse ;
 
 Bayonne ;
 
@@ -74,9 +76,9 @@ Chambéry ;
 
 Dijon ;
 
-Douai ;
-
 Dunkerque ;
+
+Le Havre ;
 
 Limoges ;
 
@@ -86,15 +88,11 @@ Le Mans ;
 
 Maubeuge ;
 
-Metz ;
-
 Montbéliard ;
 
 Mulhouse ;
 
 Nîmes ;
-
-Orléans ;
 
 Pau ;
 
@@ -116,6 +114,8 @@ Valence ;
 
 Fort-de-France (Martinique) ;
 
-Pointe-à-Pitre (Guadeloupe) ;
+Pointe-à-Pitre, Les Abymes (Guadeloupe) ;
 
-Saint-Denis (Réunion).
+Saint-Denis (Réunion) ;
+
+Saint-Pierre (Réunion).
