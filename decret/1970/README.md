@@ -5,7 +5,6 @@
 - [Décret n°70-777 du 2 septembre 1970](decret-n70-777-du-2-septembre-1970)
 - [Décret n°70-810 du 2 septembre 1970](decret-n70-810-du-2-septembre-1970)
 - [Décret n°70-1013 du 3 novembre 1970](decret-n70-1013-du-3-novembre-1970)
-- [Décret n°70-1014 du 3 novembre 1970](decret-n70-1014-du-3-novembre-1970)
 - [Décret n°70-1115 du 3 décembre 1970](decret-n70-1115-du-3-decembre-1970)
 - [Décret n°70-301 du 3 avril 1970](decret-n70-301-du-3-avril-1970)
 - [Décret n° 70-803 du 4 septembre 1970](decret-n-70-803-du-4-septembre-1970)
