@@ -638,7 +638,6 @@
 - [Décret n°90-95 du 25 janvier 1990 (MERP9000003D)](decret-n90-95-du-25-janvier-1990-merp9000003d)
 - [Décret n°90-957 du 25 octobre 1990 (RESY9000226D)](decret-n90-957-du-25-octobre-1990-resy9000226d)
 - [Décret n°90-958 du 25 octobre 1990 (RESY9000126D)](decret-n90-958-du-25-octobre-1990-resy9000126d)
-- [Décret n°90-96 du 25 janvier 1990 (SPSS8901839D)](decret-n90-96-du-25-janvier-1990-spss8901839d)
 - [Décret n°90-97 du 25 janvier 1990 (SPSP8901247D)](decret-n90-97-du-25-janvier-1990-spsp8901247d)
 - [Décret n°91-393 du 25 avril 1991 (EQUP9100373D)](decret-n91-393-du-25-avril-1991-equp9100373d)
 - [Décret n°91-984 du 25 septembre 1991 (MENF9101664D)](decret-n91-984-du-25-septembre-1991-menf9101664d)
