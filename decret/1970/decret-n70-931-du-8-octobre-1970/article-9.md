@@ -10,8 +10,6 @@ Les étudiants hospitaliers visés à l'article 1er du présent décret ont droi
 
 Dans tous les cas, ils conservent leurs droits à la totalité des suppléments pour charges de famille.
 
-- 3° Aux congés avec rémunération pour couches et allaitement d'une durée égale à celle qui donne lieu à attribution d'une allocation journalière au titre de la législation sur la sécurité sociale.
-
-Les prestations en espèces dues aux intéressés au titre de la sécurité sociale viennent en déduction de la rémunération ou de la demi-rémunération servie durant le congé de maladie ou de maternité.
+- 3° A un congé de maternité ou d'adoption ou de paternité d'une durée égale à celle prévue par la législation de la sécurité sociale pendant lequel les intéressés perçoivent l'intégralité de la rémunération prévue au premier alinéa du présent article.
 
 4° En outre, les étudiants de deuxième année du deuxième cycle d'études médicales peuvent, sur leur demande, bénéficier d'un congé supplémentaire d'un mois, non rémunéré.

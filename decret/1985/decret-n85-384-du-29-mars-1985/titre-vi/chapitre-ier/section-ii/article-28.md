@@ -6,7 +6,7 @@ Les praticiens régis par le présent décret ont droit :
 
 2° A des congés de maladie dans les conditions fixées à l'article 30 ;
 
-3° A un congé de maternité ou d'adoption d'une durée égale à celle prévue par la législation de la sécurité sociale pendant lequel l'intéressé perçoit l'intégralité des émoluments prévus au 1° de l'article 21.
+3° A un congé de maternité ou d'adoption ou de paternité d'une durée égale à celle prévue par la législation de la sécurité sociale pendant lequel l'intéressé perçoit l'intégralité des émoluments prévus au 1° de l'article 21 ;
 
 4° A un congé parental dans les conditions prévues à l'article 33 ;
 
