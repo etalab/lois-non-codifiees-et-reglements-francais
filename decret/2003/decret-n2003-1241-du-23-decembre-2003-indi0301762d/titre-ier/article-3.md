@@ -1,0 +1,3 @@
+# Article 3
+
+Le prix maximum hors taxes de sortie raffinerie, hors passage en dépôt, des produits pétroliers visés dans les tableaux figurant à l'article 1er du présent décret est modifié, une fois par an, dans chaque département, par arrêté préfectoral, pour tenir compte de l'évolution des coûts de transport maritime et de logistique, de l'évolution de la réglementation en matière de spécification des produits, de sécurité et de protection de l'environnement, ainsi que des efforts de productivité consentis par la société chargée du raffinage et des variations justifiées de sa masse salariale.
