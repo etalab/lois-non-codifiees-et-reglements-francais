@@ -1,19 +1,29 @@
 # Article 2
 
-Le service de l'information et des relations publiques est constitué :
+Les informations traitées sont les suivantes :
 
-- du bureau chargé de l'information et des relations publiques de la direction générale de l'administration et de la direction des libertés publiques et des affaires juridiques ;
+Nom et prénom usuel du demandeur ;
 
-- du bureau chargé de l'information et des relations publiques de la police nationale ;
+Nom de l'intermédiaire (agent général d'assurances ou courtier d'assurances), éventuellement ;
 
-- du service audiovisuel ;
+Lettre "N" indiquant qu'a été envoyée au demandeur la note de saisine, lui précisant les démarches à effectuer ;
 
-- du bureau de presse.
+Date de l'envoi de la note de saisine au demandeur ;
 
-Il a autorité pour emploi :
+Liste des documents non encore fournis :
 
-- sur le service des publications, de l'information et de la documentation placé auprès du directeur général des collectivités locales ;
+- double de la proposition d'assurance ;
 
-- sur l'antenne d'information placée auprès du directeur de la sécurité civile ;
+- avis postal de réception de la proposition ;
 
-Il dispose en tant que de besoin des moyens audiovisuels des services centraux et des organismes de formation relevant du ministère.
+- nom de l'assureur précédent ;
+
+- numéro du contrat d'assurance précédent ;
+
+- devis de l'assureur ;
+
+Date de la réception du dernier document complétant le dossier ;
+
+Nom de l'organisme d'assurance sollicité par le demandeur ;
+
+L'indication "S" ou "NS" indiquant que le demandeur a ou non donné suite à la décision du bureau en souscrivant le contrat qu'il avait demandé.

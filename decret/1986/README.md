@@ -19,6 +19,8 @@
 - [Décret n°86-1172 du 3 novembre 1986](decret-n86-1172-du-3-novembre-1986)
 - [Décret n°86-1177 du 3 novembre 1986](decret-n86-1177-du-3-novembre-1986)
 - [Décret n°86-1228 du 3 décembre 1986](decret-n86-1228-du-3-decembre-1986)
+- [Décret n°86-1240 du 3 décembre 1986](decret-n86-1240-du-3-decembre-1986)
+- [Décret n°86-1241 du 3 décembre 1986](decret-n86-1241-du-3-decembre-1986)
 - [Décret n°86-23 du 3 janvier 1986](decret-n86-23-du-3-janvier-1986)
 - [Décret n°86-27 du 3 janvier 1986](decret-n86-27-du-3-janvier-1986)
 - [Décret n°86-28 du 3 janvier 1986](decret-n86-28-du-3-janvier-1986)

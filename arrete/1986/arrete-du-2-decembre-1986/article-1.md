@@ -1,3 +1,3 @@
 # Article 1
 
-Les dispositions de l'arrêté interministériel du 13 février 1969 sur les centres de renseignements et de coordination et de l'arrêté interministériel du 9 août 1972 relatif aux centres de renseignements et de coordination dans les départements et territoires d'outre-mer sont abrogées.
+En application des dispositions de l'article 3, 4e alinéa, du décret n° 85-1308 du 6 décembre 1985 susvisé, la moyenne des taux de rendement des emprunts d'Etat dont le capital et les intérêts ne sont pas indexés, émis à taux fixe et d'échéance finale supérieure à sept ans, calculée par la Caisse des dépôts et consignations à partir des cinq derniers taux hebdomadaires publiés avant le 1er décembre  exclusivement de l'année précédant celle du paiement dudit intérêt est de 8,55 p. 100.
