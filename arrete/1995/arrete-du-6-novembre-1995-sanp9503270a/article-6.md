@@ -14,7 +14,7 @@ Sont membres de droit :
 
 - le chef du service des statistiques, des études et des systèmes d'information au ministère chargé de la santé ou son représentant ;
 
-- le directeur du Réseau national de santé publique ou son représentant ;
+- le directeur général de l'Institut de veille sanitaire ou son représentant ;
 
 - le directeur de l'Agence nationale pour le développement de l'évaluation médicale ou son représentant ;
 

@@ -5,4 +5,5 @@
 - [TITRE II : Des médecins des armées](titre-ii)
 - [TITRE III : Des pharmaciens chimistes des armées](titre-iii)
 - [TITRE III bis : Des vétérinaires biologistes des armées](titre-iii-bis)
+- [TITRE III TER : DES CHIRURGIENS-DENTISTES DES ARMEES](titre-iii-ter)
 - [TITRE IV : Dispositions diverses et dispositions transitoires.](titre-iv)

@@ -8,7 +8,7 @@ Le Comité national des registres a pour missions :
 
 - de donner un avis sur l'opportunité de créer de nouveaux registres ;
 
-- de donner un avis sur l'opportunité du maintien des registres existants au regard de la politique préalablement définie et de l'adéquation entre les moyens envisagés ou mis en oeuvre et les finalités exposées, en vue de la procédure définie par la loi n° 94-548 du 1er juillet 1994 susvisée. Cet avis s'appuiera sur les avis rendus préalablement par, notamment, les commissions scientifiques de l'Institut national de la santé et de la recherche médicale et la direction générale de la santé ;
+- de donner un avis sur l'opportunité du maintien des registres existants au regard de la politique préalablement définie et de l'adéquation entre les moyens envisagés ou mis en oeuvre et les finalités exposées, en vue de la procédure définie par la loi n° 94-548 du 1er juillet 1994 susvisée. Cet avis s'appuiera sur les avis rendus préalablement par, notamment, les commissions scientifiques de l'Institut national de la santé et de la recherche médicale et l'Institut de veille sanitaire ;
 
 - de donner un avis sur l'opportunité d'un financement national des registres qualifiés au sens du présent arrêté ;
 

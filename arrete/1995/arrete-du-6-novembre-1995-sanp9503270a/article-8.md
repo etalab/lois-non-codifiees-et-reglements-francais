@@ -10,4 +10,4 @@ Il adopte son règlement intérieur qui définit les modalités de son fonctionn
 
 Il rédige un rapport d'activité tous les trois ans.
 
-Le secrétariat du comité est assuré par la direction générale de la santé.
+Le secrétariat du comité est assuré par l'Institut de veille sanitaire.
