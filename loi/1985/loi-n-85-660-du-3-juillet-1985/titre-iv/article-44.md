@@ -1,0 +1,3 @@
+# Article 44
+
+Les personnes morales régies actuellement par la loi du 1er juillet 1901 relative au contrat d'association et ayant pour objet la perception et la répartition des droits d'auteur peuvent transférer à une société civile de perception et de répartition des droits tout ou partie de leur patrimoine et en particulier les mandats qui leur ont été conférés par leurs adhérents, par simple délibération de l'assemblée extraordinaire de l'association. Ce transfert doit avoir lieu dans un délai maximum d'un an à compter de la promulgation de la présente loi. Les associations mentionnées au présent article pourront être associées de la société civile pendant une période maxima de deux ans à compter du transfert.

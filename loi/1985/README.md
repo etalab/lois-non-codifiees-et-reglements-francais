@@ -6,6 +6,7 @@
 - [Loi n° 85-1268 du 29 novembre 1985](loi-n-85-1268-du-29-novembre-1985)
 - [Loi n° 85-1321 du 14 décembre 1985](loi-n-85-1321-du-14-decembre-1985)
 - [Loi n° 85-595 du 11 juin 1985](loi-n-85-595-du-11-juin-1985)
+- [Loi n° 85-660 du 3 juillet 1985](loi-n-85-660-du-3-juillet-1985)
 - [Loi n° 85-695 du 11 juillet 1985](loi-n-85-695-du-11-juillet-1985)
 - [Loi n° 85-699 du 11 juillet 1985](loi-n-85-699-du-11-juillet-1985)
 - [Loi n° 85-704 du 12 juillet 1985](loi-n-85-704-du-12-juillet-1985)
