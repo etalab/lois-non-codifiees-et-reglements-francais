@@ -2,6 +2,10 @@
 
 En fonction des spécialités pratiquées et des risques de contamination encourus, le médecin sapeur-pompier chargé du contrôle de l'aptitude doit proposer les vaccinations adaptées, notamment :
 
+- la vaccination BCG ;
+
+- la vaccination contre l'hépatite B ;
+
 - la vaccination contre la leptospirose ;
 
 - la vaccination contre l'hépatite A ;

@@ -8,7 +8,11 @@ Le candidat à un premier emploi de sapeur-pompier professionnel ou à un premie
 
 - une absence d'antécédents rachidiens pathologiques, cliniques ou radiologiques dont l'existence doit faire l'objet d'un bilan médical orienté ;
 
-- des antécédents de chirurgie oculaire réfractive par Laser Excimer de surface uniquement sont tolérés après une période de cicatrisation de deux ans. La vision ainsi corrigée doit avoir une acuité supérieure ou égale à quinze dixièmes pour la somme des deux yeux avec un minimum de cinq dixièmes pour un oeil, sans correction. La cotation est Y 3 quelle que soit l'acuité visuelle présentée au-dessus de ces normes.
+- des antécédents de photokératotomie réfractive sont tolérés après une période de cicatrisation de un an, toute autre technique de chirurgie réfractive après une période de deux ans, à l'exclusion de toute complication anatomique, en l'absence d'évolutivité de l'amétropie en cause, en l'absence de photophobie, avec un résultat satisfaisant du sens morphoscopique à contraste et luminance variable, une bonne résistance et sensibilité à l'éblouissement, une topographie cornéenne homogène.
+
+La vision ainsi corrigée doit avoir une acuité supérieure ou égale à quinze dixièmes pour la somme des deux yeux avec un minimum de cinq dixièmes pour un oeil, sans correction. La cotation est Y 3 quelle que soit l'acuité visuelle présentée au-dessus de ces normes.
+
+Le port de lentilles cornéennes est interdit pour l'exercice des missions prévues à l'article L. 1424-2 du code général des collectivités territoriales.
 
 Le port de lentilles cornéennes est interdit pour l'exercice des missions prévues à l'article L. 1424-2 du code général des collectivités territoriales, premier alinéa, 3° et 4° du deuxième alinéa ;
 
