@@ -1,6 +1,6 @@
 # Article 4
 
-La commission comprend, outre le président, représentant du ministre, et le vice-président, qui est le chargé de mission Innovation, les autorités désignées ci-après ou leurs représentants :
+La commission comprend, outre le président, représentant du ministre, et le vice-président, qui est chargé de la mission Innovation, les autorités désignées ci-après ou leurs représentants :
 
 - le délégué général pour l'armement ;
 
@@ -16,17 +16,19 @@ La commission comprend, outre le président, représentant du ministre, et le vi
 
 - le directeur du service de santé des armées ;
 
-- le directeur des recherches, études et techniques d'armement ;
+- le directeur des systèmes de forces et de la prospective ;
 
-- le directeur des armements terrestres ;
+- le directeur des systèmes d'armes ;
 
-- le directeur des constructions aéronautiques ;
+- le directeur des programmes, des méthodes d'acquisition et de la qualité ;
+
+- le directeur de la coopération et des affaires industrielles ;
+
+- le directeur des centres d'expertise et d'essais ;
 
 - le directeur des constructions navales ;
 
-- le directeur des missiles et de l'espace ;
-
-- le directeur de l'électronique et de l'informatique ;
+- le directeur du service de la maintenance aéronautique ;
 
 - le contrôleur financier près le ministre de la défense.
 
