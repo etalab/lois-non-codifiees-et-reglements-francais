@@ -9,6 +9,7 @@
 - [Arrêté du 10 avril 1970](arrete-du-10-avril-1970)
 - [Arrêté du 10 mars 1970](arrete-du-10-mars-1970)
 - [Arrêté du 11 mai 1970](arrete-du-11-mai-1970)
+- [Arrêté du 12 juin 1970](arrete-du-12-juin-1970)
 - [Arrêté du 12 mai 1970](arrete-du-12-mai-1970)
 - [Arrêté du 13 janvier 1970](arrete-du-13-janvier-1970)
 - [Arrêté du 14 mars 1970](arrete-du-14-mars-1970)
