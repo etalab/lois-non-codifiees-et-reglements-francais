@@ -47,7 +47,6 @@
 - [Arrêté du 2 juillet 1992 (MERP9200118A)](arrete-du-2-juillet-1992-merp9200118a)
 - [Arrêté du 2 juin 1992 (BUDL9200060A)](arrete-du-2-juin-1992-budl9200060a)
 - [Arrêté du 2 juin 1992 (BUDL9200061A)](arrete-du-2-juin-1992-budl9200061a)
-- [Arrêté du 2 juin 1992 (DEFD9201542A)](arrete-du-2-juin-1992-defd9201542a)
 - [Arrêté du 2 juin 1992 (ECOT9210151A)](arrete-du-2-juin-1992-ecot9210151a)
 - [Arrêté du 2 juin 1992 (JUSB9210177A)](arrete-du-2-juin-1992-jusb9210177a)
 - [Arrêté du 2 mars 1992 (SPSS9200657A)](arrete-du-2-mars-1992-spss9200657a)
