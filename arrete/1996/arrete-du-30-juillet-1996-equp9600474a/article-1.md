@@ -1,0 +1,3 @@
+# Article 1
+
+Pour l'application des articles 29 et 51 du décret du 28 octobre 1994 susvisé, les fonctions exercées par les chercheurs contractuels des établissements publics de recherche et des services de recherche et établissements publics énumérés par le décret du 18 avril 1991 modifié susvisé sont considérées comme équivalentes aux fonctions exercées par les chargés de recherche et les directeurs de recherche du laboratoire central des ponts et chaussées du ministère chargé de l'équipement et des laboratoires de recherche de l'Ecole nationale des ponts et chaussées et de l'Ecole nationale des travaux publics de l'Etat régis par le décret du 28 octobre 1994 susvisé dans les conditions fixées aux articles 2 et 3 ci-après.

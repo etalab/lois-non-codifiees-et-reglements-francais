@@ -4,7 +4,9 @@ Chaque élément ou produit du corps humain pour pouvoir être utilisé à des f
 
 1. L'ensemble des informations prévues sur l'étiquetage mentionné à l'article 2 ci-dessus ;
 
-2. Les résultats individuels des examens pratiqués chez le donneur, conformément au décret n° 92-174 du 25 février 1992 modifié susvisé, ainsi que la mention du laboratoire ayant pratiqué ces examens ; ces résultats sont fournis sous la forme du certificat original signé par le responsable de la recherche ou de la photocopie de ce certificat ;
+2. Les résultats individuels des examens pratiqués chez le donneur, conformément au décret du 25 février 1992 modifié susvisé, ainsi que la mention du laboratoire ayant pratiqué ces examens ; ces résultats sont fournis sous forme de l'original du compte rendu d'analyses signé par le responsable des analyses pratiquées ou de la photocopie de ce compte rendu ou d'un certificat établi par le responsable de l'organisme de conservation de tissus ou de cellules. Dans ce dernier cas, cet organisme de conservation est tenu de conserver les comptes rendus originaux des analyses biologiques pratiquées chez le donneur.
+
+Le certificat et les comptes rendus d'analyses mentionnent la technique et la dénomination commerciale des réactifs utilisés pour réaliser les analyses biologiques permettant la recherche des marqueurs biologiques d'infection précisés par arrêté du ministre chargé de la santé.
 
 3. Toute autre information utile à l'utilisateur, notamment les antécédents cliniques personnels et familiaux du donneur, en vue d'assurer la plus grande sécurité possible d'utilisation.
 
