@@ -46,7 +46,7 @@ Radio non officier ayant moins d'un an de services ;
 
 Matelot léger ;
 
-Matelot patron embarqué seul ou avec un ou plusieurs inscrits âgés de moins de 18 ans pratiquant la navigation côtière ;
+Matelot patron embarqué seul ou avec un ou plusieurs marins âgés de moins de 18 ans pratiquant la navigation côtière ;
 
 Patron ni breveté ni titulaire du certificat de capacité de navire de moins de 6 tonneaux armé à la navigation côtière.    MACHINE : Néant.
 
@@ -384,8 +384,6 @@ Assistant officier stagiaire ;
 
 Patron breveté de bateau de 6 à 20 tonneaux de jauge brute armé à la navigation côtière ;
 
-Sous-patron de bateau porte-pilote de 20 à 100 tonneaux ;
-
 Second et chef de quart sur remorqueur ou engin portuaire.
 
 MACHINE :
@@ -420,7 +418,7 @@ PONT :
 
 Assistant officier titulaire ;
 
-Lieutenant sur navire de charge de moins de 6.000 tonnes de port en lourd ;
+Lieutenant sur navire de charge de moins de 6.000 tonnes ;
 
 Lieutenant sur remorqueur de haute mer et d'assistance ;
 
@@ -430,7 +428,7 @@ MACHINE :
 
 Assistant officier titulaire ;
 
-Officier mécanicien sur navire de charge de moins de 6.000 tonnes de port en lourd ;
+Officier mécanicien sur navire de charge de moins de 6.000 tonnes ;
 
 Officier mécanicien sur remorqueur de haute mer et d'assistance.
 
@@ -470,7 +468,7 @@ Chef mécanicien de remorqueur ou d'engin portuaire d'au moins 20 tonneaux non c
 
 Officier mécanicien sur navire de charge de 6.000 à 100.000 tonnes ou de moins de 35.000 CV.
 
-Officier mécanicien sur paquebot de moins de 8.000 CV.
+Officier mécanicien sur paquebot de moins de 8.000 tonneaux.
 
 SERVICE GENERAL :
 
@@ -496,7 +494,7 @@ Capitaine de baliseur catégorie A armé à la navigation côtière ;
 
 Patron de bateau de navigation côtière de plus de 20 tonneaux ;
 
-Patron de bateau porte-pilote de 20 à 100 tonnes ;
+Patron de vedette de pilotage de plus de 20 tonneaux ;
 
 Patron de bateau de passage des îles armé à la navigation côtière.
 
@@ -562,7 +560,7 @@ Second capitaine de navire de charge de 6.000 à 14.000 tonnes.
 
 Chef de radio de navire de charge de 14.000 à 100.000 tonnes.
 
-Chef radio de paquebot de moins de 8.000 tonnes.
+Chef radio de paquebot de moins de 8.000 tonneaux.
 
 MACHINE :
 
@@ -578,11 +576,11 @@ Second capitaine de paquebot ;
 
 Capitaine de cargo de moins de 1.500 tonnes ;
 
-Capiaine de remorqueur de haute mer et d'assistance jaugeant plus de 300 tonneaux ou d'une puissance supérieure à 700 CV ;
+Capitaine de remorqueur de haute mer et d'assistance jaugeant plus de 300 tonneaux ou d'une puissance supérieure à 700 CV ;
 
 Capitaine de bateau-feu ;
 
-Capitaine de bateau porte-pilote jaugeant plus de 100 tonneaux ou d'une puissance supérieure 500 CV.
+Capitaine de bateau porte-pilotes jaugeant plus de 100 tonneaux ou d'une puissance supérieure 500 CV.
 
 Second capitaine de navire de charge de plus de 14.000 tonnes ou de puissance supérieure à 20.000 CV.
 
@@ -594,7 +592,7 @@ MACHINE :
 
 Second mécanicien de paquebot ;
 
-Chef mécanicien de cargo de moins de 3.000 tonnes ;
+Chef mécanicien de cargo de moins de 1.500 tonnes ;
 
 Chef mécanicien de remorqueur de haute mer et d'assistance jaugeant plus de 300 tonneaux ou d'une puissance supérieure à 700 CV ;
 
@@ -626,7 +624,9 @@ Capitaine de cargo de 1.500 à 3.000 tonnes.
 
 Capitaine de bateau baliseur, catégorie A, armé au cabotage.    MACHINE :
 
-Chef mécanicien de cargo de 3.000 à 6.000 tonnes.    Chef mécanicien de bateau baliseur, catégorie A, armé au cabotage ;
+Chef mécanicien de cargo de 1.500 à 3.000 tonnes.
+
+Chef mécanicien de bateau baliseur, catégorie A, armé au cabotage ;
 
 CATEGORIE : 17EME
 
@@ -638,7 +638,7 @@ Capitaine de cargo de 3.000 à 6.000 tonnes.
 
 MACHINE :
 
-Chef mécanicien de cargo de plus de 6.000 tonnes.
+Chef mécanicien de cargo de 3.000 à 6.000 tonnes.
 
 SERVICE GENERAL :
 
@@ -658,10 +658,6 @@ Capitaine de navire de charge de 6.000 à 14.000 tonnes.
 
 MACHINE :
 
-Chef mécanicien de paquebot de moins de 8.000 tonneaux ;
-
-Chef mécanicien de pétrolier de plus de 14.000 tonnes ;
-
 Chef mécanicien de navire de 6.000 à 14.000 tonnes.
 
 SERVICE GENERAL :
@@ -680,7 +676,7 @@ Capitaine de navire de charge de 14.000 à 100.000 tonnes ou de puissance compri
 
 MACHINE :
 
-Chef mécanicien de paquebot de plus de 8.000 tonnes.
+Chef mécanicien de paquebot de moins de 8.000 tonneaux.
 
 Chef mécanicien de navire de charge de 14.000 à 100.000 tonnes ou de puissance comprise entre 20.000 et 35.000 CV.
 
@@ -701,6 +697,8 @@ Capitaine de navire de charge de plus de 100.000 tonnes ou de puissance supérie
 MACHINE :
 
 Chef mécanicien de navire de charge de plus de 100.000 tonnes ou de puissance supérieure à 35.000 CV.
+
+Chef mécanicien de paquebot de plus de 8.000 tonneaux.
 
 Le montant des cotisations des marins et des contributions des armateurs est déterminé par application des taux prévus par l'article R. 24 modifié du code des pensions de retraite des marins et par l'article 6 modifié du décret-loi du 17 juin 1938 aux salaires forfaitaires correspondant aux catégories de classement.
 
