@@ -338,7 +338,6 @@
 - [Arrêté du 16 avril 1998 (ECOI9800357A)](arrete-du-16-avril-1998-ecoi9800357a)
 - [Arrêté du 16 décembre 1997 (EQUT9701865A)](arrete-du-16-decembre-1997-equt9701865a)
 - [Arrêté du 16 décembre 1997 (EQUT9701866A)](arrete-du-16-decembre-1997-equt9701866a)
-- [Arrêté du 16 février 1998 (AGRG9800299A)](arrete-du-16-fevrier-1998-agrg9800299a)
 - [Arrêté du 16 février 1998 (DEFP9801100A)](arrete-du-16-fevrier-1998-defp9801100a)
 - [Arrêté du 16 février 1998 (JUSC9820051A)](arrete-du-16-fevrier-1998-jusc9820051a)
 - [Arrêté du 16 février 1998 (MESP9820659A)](arrete-du-16-fevrier-1998-mesp9820659a)
