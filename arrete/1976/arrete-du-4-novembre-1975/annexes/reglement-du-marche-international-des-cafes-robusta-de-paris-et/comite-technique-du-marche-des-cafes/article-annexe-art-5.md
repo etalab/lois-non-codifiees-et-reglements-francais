@@ -1,0 +1,3 @@
+# Article Annexe art. 5
+
+Pour veiller au bon fonctionnement des opérations pendant les séances de bourse et, en particulier, pour la fixation des cours d'appels de marge, la surveillance des cotes, le règlement de toute contestation concernant les offres et les demandes pouvant survenir pendant les séances, le comité technique donne une délégation de pouvoirs à l'une des personnes figurant sur une liste établie par ses soins chaque année et révisable en cours d'année [*périodicité*]. Le président et le vice-président du comité technique désignent les délégués de semaine pour les places de Paris et du Havre et, le cas échéant, leurs remplaçants.
