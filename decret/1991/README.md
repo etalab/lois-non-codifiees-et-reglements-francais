@@ -600,6 +600,7 @@
 - [Décret n°91-1100 du 22 octobre 1991 (MENZ9102127D)](decret-n91-1100-du-22-octobre-1991-menz9102127d)
 - [Décret n°91-1106 du 22 octobre 1991 (AGRS9001252D)](decret-n91-1106-du-22-octobre-1991-agrs9001252d)
 - [Décret n°91-1110 du 22 octobre 1991 (MERR9100047D)](decret-n91-1110-du-22-octobre-1991-merr9100047d)
+- [Décret n°91-1189 du 22 novembre 1991 (MAEJ9130052D)](decret-n91-1189-du-22-novembre-1991-maej9130052d)
 - [Décret n°91-1190 du 22 novembre 1991 (DEFP9102180D)](decret-n91-1190-du-22-novembre-1991-defp9102180d)
 - [Décret n°91-208 du 22 février 1991 (JUSA9000294D)](decret-n91-208-du-22-fevrier-1991-jusa9000294d)
 - [Décret n°91-223 du 22 février 1991 (EQUT9100273D)](decret-n91-223-du-22-fevrier-1991-equt9100273d)
