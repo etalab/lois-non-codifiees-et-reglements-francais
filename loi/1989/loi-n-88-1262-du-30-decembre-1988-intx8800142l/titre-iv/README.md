@@ -1,4 +1,4 @@
-# Titre IV : Dispositions relatives aux territoires d'outre-mer et à la collectivité territoriale de Mayotte
+# Titre IV : Dispositions relatives aux territoires d'outre-mer et à Mayotte
 
 - [Article 39](article-39.md)
 - [Article 40](article-40.md)

@@ -1,5 +1,5 @@
 # Article 13
 
-Les listes électorales du territoire de Wallis et Futuna sont établies par village. Le tableau des villages, dressé pour Wallis et pour Futuna par le résident de France, avant la date de promulgation de la présente loi, est valable jusqu'au 31 décembre 1961 [*date*].    Le tableau des villages du territoire pourra être modifié par délibération de l'assemblée territoriale. L'administrateur supérieur du territoire dressera et publiera, avant le 1er décembre de chaque année, le tableau des villages tel qu'il résulte éventuellement des modifications apportées au tableau par délibérations rendues exécutoires de l'assemblée territoriale. Ce tableau vaudra pour toute l'année suivante.
+Les listes électorales du territoire de Wallis et Futuna sont établies par village.
 
-Les populations du territoire participeront aux consultations électorales organisées au suffrage universel direct dans le territoire au cours de l'année 1961 sur la base des listes établies à Wallis et Futuna en application des dispositions du premier alinéa du présent article et du décret n° 60-1252 du 28 novembre 1960.
+Le tableau des villages du territoire pourra être modifié par délibération de l'assemblée territoriale. L'administrateur supérieur du territoire dressera et publiera, avant le 1er décembre de chaque année, le tableau des villages tel qu'il résulte éventuellement des modifications apportées au tableau par délibérations rendues exécutoires de l'assemblée territoriale. Ce tableau vaudra pour toute l'année suivante.
