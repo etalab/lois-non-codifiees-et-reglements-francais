@@ -20,6 +20,5 @@
 - [Santé publique (25 heures).](sante-publique-25-heures)
 - [Sémiologie, pathologie (140 heures).](semiologie-pathologie-140-heures)
 - [Technique d'exploration en imagerie (400 heures).](technique-d-exploration-en-imagerie-400-heures)
-- [Techniques d'électrophysiologie (100 heures).](techniques-d-electrophysiologie-100-heures)
 - [Techniques d'électrophysiologie (35 heures).](techniques-d-electrophysiologie-35-heures)
 - [Techniques de soins (30 heures).](techniques-de-soins-30-heures)
