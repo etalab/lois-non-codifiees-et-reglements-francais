@@ -214,6 +214,7 @@
 - [Décret n°98-358 du 12 mai 1998 (DEFP9801444D)](decret-n98-358-du-12-mai-1998-defp9801444d)
 - [Décret n°98-359 du 12 mai 1998 (DEFP9801445D)](decret-n98-359-du-12-mai-1998-defp9801445d)
 - [Décret n°98-364 du 12 mai 1998 (FPPA9810006D)](decret-n98-364-du-12-mai-1998-fppa9810006d)
+- [Décret n°95-1007 du 13 septembre 1995 (PRMX9500117D)](decret-n95-1007-du-13-septembre-1995-prmx9500117d)
 - [Décret n°97-1034 du 13 novembre 1997 (MEST9711491D)](decret-n97-1034-du-13-novembre-1997-mest9711491d)
 - [Décret n°98-163 du 13 mars 1998 (ATEN9860016D)](decret-n98-163-du-13-mars-1998-aten9860016d)
 - [Décret n°98-164 du 13 mars 1998 (ATEN9860015D)](decret-n98-164-du-13-mars-1998-aten9860015d)
