@@ -22,8 +22,14 @@ h) De concourir à l'édition de vidéogrammes destinés à l'usage privé du pu
 
 II - A accorder un soutien à la production française de qualité ainsi qu'à la création et à la modernisation de théâtres cinématographiques implantés dans les zones géographiques dont les agglomérations sont insuffisamment équipées en salles de spectacles cinématographiques.
 
-En ce qui concerne les films de long métrage, ce soutien est accordé sous forme d'avances sur recettes sur les subventions prévues au paragraphe I a ci-dessus. Les avances sur recettes peuvent comporter une allocation destinée à contribuer à l'écriture du scénario et des autres textes destinés à la réalisation de l'oeuvre cinématographique.
+En ce qui concerne les oeuvres cinématographiques de longue durée, ce soutien est accordé sous forme :
 
-En ce qui concerne les films de court métrage, il est accordé au moyen des prix et des allocations prévus à l'article 8 du présent décret.
+a) De subventions en vue de contribuer à la réécriture des scénarios et à l'élaboration de tout document préparatoire à la réalisation ;
+
+b) D'avances remboursables soit sur les produits d'exploitation, soit sur les sommes calculées conformément à l'article 5 du présent décret.
+
+En ce qui concerne les oeuvres cinématographiques de courte durée, ce soutien est accordé au moyen des allocations et des prix prévus à l'article 8 du présent décret.
+
+II bis. - A accorder des avances et des subventions aux entreprises de distribution qui assument la distribution d'oeuvres cinématographiques de longue durée de qualité, d'origine française ou étrangère.
 
 III - A garantir des prêts consentis par des établissements de crédit tant aux producteurs de films qu'aux exploitants de théatres cinématographiques ainsi qu'aux entreprises ressortissant à la catégorie des industries techniques du cinéma.

@@ -1,3 +1,7 @@
 # Article 6
 
-Le montant des dotations destinées aux bénéficiaires de l'article 3 (par. II, alinéas b et d) du présent décret, au soutien de qualité pour les films de long et de court métrage et aux opérations de création de salles de spectacles cinématographiques prévus à l'article 3 (par. III) du présent décret, à la garantie des prêts visés à l'article 3 (par. IV) du présent décret ainsi qu'au soutien à la programmation des salles d'art et d'essai prévu à l'article 3 bis du décret du 21 avril 1967 est fixé annuellement par arrêté du ministre chargé du cinéma.
+I. - Les subventions prévues au a du II de l'article 3 du présent décret peuvent être accordées soit aux auteurs, soit aux entreprises de production.
+
+II. - Les décisions relatives à l'octroi de ces subventions sont prises par le directeur général du Centre national de la cinématographie après avis de la commission du soutien financier sélectif à la production prévue au II de l'article 7 du présent décret.
+
+III. - Les modalités d'application du présent article sont fixées par arrêté du ministre chargé de la culture.
