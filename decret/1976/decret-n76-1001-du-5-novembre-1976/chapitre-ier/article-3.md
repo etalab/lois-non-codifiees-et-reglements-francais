@@ -12,8 +12,8 @@ Commandant : trois échelons ;
 
 Lieutenant-colonel : trois échelons ;
 
-Colonel : Deux échelons et un échelon exceptionnel ;
+Colonel : Deux échelons et deux échelons exceptionnels ;
 
-Général de brigade : un échelon ;
+Général de brigade : un échelon et un échelon eceptionnel ;
 
 Général de division : deux échelons.

@@ -6,4 +6,4 @@ Chef de musique des armées : trois échelons ;
 
 Chef de musique des armées hors classe : trois échelons ;
 
-Chef de musique des armées de classe exceptionnelle : deux échelons et un échelon exceptionnel.
+Chef de musique des armées de classe exceptionnelle : deux échelons et deux échelons exceptionnels.

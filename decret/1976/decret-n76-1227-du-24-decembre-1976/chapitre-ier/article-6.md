@@ -12,8 +12,8 @@ Commandant ou officier principal : trois échelons :
 
 Lieutenant-colonel ou officier en chef de 2e classe : trois échelons ;
 
-Colonel ou officier en chef de 1re classe : deux échelons et un échelon exceptionnel ;
+Colonel ou officier en chef de 1re classe : deux échelons et deux échelons exceptionnels ;
 
-Général de brigade ou officier général de 2e classe : un échelon ;
+Général de brigade ou officier général de 2e classe : un échelon et un échelon exceptionnel ;
 
 Général de division ou officier général de 1re classe : deux échelons.

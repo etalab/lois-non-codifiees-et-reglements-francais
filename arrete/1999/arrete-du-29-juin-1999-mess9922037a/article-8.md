@@ -1,0 +1,3 @@
+# Article 8
+
+Le directeur de la sécurité sociale, le directeur général de la santé, le directeur de l'action sociale, la directrice de l'enseignement supérieur, le directeur du budget, le directeur de l'action régionale et de la petite et moyenne industrie, le directeur des transports terrestres, le directeur général de l'aviation civile, le directeur de la musique, de la danse, du théâtre et des spectacles, le directeur de l'architecture et du patrimoine, le délégué aux arts plastiques, le directeur général de l'enseignement et de la recherche et le délégué aux formations sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
