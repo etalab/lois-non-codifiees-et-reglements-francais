@@ -1,0 +1,3 @@
+# TITRE III : LES CENTRES DE COLLECTE DE RATTACHEMENT.
+
+- [Article 3](article-3.md)

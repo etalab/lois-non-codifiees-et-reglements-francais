@@ -1,0 +1,3 @@
+# Article 12
+
+Toute personne souhaitant transmettre par voie informatique des déclarations d'échange de biens, pour son compte ou pour le compte d'autres redevables de cette déclaration, par l'intermédiaire du SOFI doit, sans préjudice des obligations qui lui sont imposées par le présent arrêté, se conformer aux prescriptions de la charte SOFI publiée dans le Bulletin officiel des douanes n° 5642 du 5 mars 1992 et du protocole d'accord du 22 décembre 1992, signé entre la direction générale des douanes et droits indirects et la fédération française des organisateurs et commissionnaires de transport.
