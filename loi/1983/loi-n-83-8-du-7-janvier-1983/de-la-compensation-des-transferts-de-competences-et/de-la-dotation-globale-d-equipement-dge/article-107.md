@@ -2,9 +2,9 @@
 
 La dotation est inscrite à la section d'investissement du budget du département.
 
-Le département utilise librement le montant de l'attribution qu'il reçoit au titre du deuxième alinéa (1°) de l'article précédent.
+Le département utilise librement le montant des crédits qu'il reçoit au titre de la première part de la dotation globale d'équipement.
 
-Le département répartit entre les différents maîtres d'ouvrage qui réalisent des travaux d'équipement rural le montant de l'attribution qu'il reçoit au titre du troisième alinéa (2°) de l'article précédent.
+Les attributions reçues au titre de la seconde part sont utilisées par le département soit pour réaliser des travaux d'équipement rural et d'aménagement foncier, soit pour subventionner les différents maîtres d'ouvrage qui réalisent des opérations de même nature.
 
 Le département doit fonder ses décisions sur des règles générales, dans le cadre des lois et règlements, et tient compte des priorités définies par les différents maîtres d'ouvrage.
 

@@ -2,7 +2,7 @@
 
 La communauté d'agglomération nouvelle est un établissement public de coopération intercommunale à caractère administratif [*nature juridique*] administré par un conseil d'agglomération composé de délégués des communes élus au suffrage universel par les électeurs inscrits dans les communes membres de cette communauté.
 
-Le nombre de conseillers élus dans chaque commune est fixé en fonction de la population, déterminée par le dernier recensement général ou complémentaire, conformément au tableau suivant, sous réserve qu'aucune commune ne détienne la majorité absolue :
+Le nombre de conseillers élus dans chaque commune est fixé en fonction de la population, déterminée par le dernier recensement général ou complémentaire, conformément au tableau suivant, sous réserve qu'aucune commune ne détienne la majorité absolue sauf dans cas où la communauté n'est composée que de deux communes :
 
 ========================================
 
@@ -42,9 +42,7 @@ Le nombre de conseillers élus dans chaque commune est fixé en fonction de la p
 </tr>
 </table>
 
-========================================   Lorsque la répartition des sièges entre les communes effectuée suivant les règles définies ci-dessus donne à l'une d'entre elles la majorité absolue des sièges, le nombre de ses délégués est réduit pour être inférieur à la moitié du nombre total des membres du conseil d'agglomération.
-
-Le conseil d'agglomération est élu pour six ans [*durée du mandat*] ; son renouvellement intervient en même temps que celui des conseils municipaux.
+========================================   Lorsque la répartition des sièges entre les communes effectuée suivant les règles définies ci-dessus donne à l'une d'entre elles la majorité absolue des sièges, le nombre de ses délégués est réduit pour être inférieur à la moitié du nombre total des membres du conseil d'agglomération, à moins que la communauté ne soit composée que de deux communes.    Le conseil d'agglomération est élu pour six ans [*durée du mandat*] ; son renouvellement intervient en même temps que celui des conseils municipaux.
 
 Toutefois, la première élection du conseil d'agglomération a lieu à une date fixée par le représentant de l'Etat dans le département [*commissaire de la République*]. Il est procédé à son installation dans un délai d'un mois après son élection.
 
