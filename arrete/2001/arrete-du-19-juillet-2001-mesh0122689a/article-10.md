@@ -1,0 +1,5 @@
+# Article 10
+
+Pour les spécialités de la discipline des spécialités chirurgicales et la gynécologie obstétrique et gynécologie médicale, une des questions porte sur l'anatomie et l'autre sur la pathologie chirurgicale. Pour les spécialités de la discipline des spécialités médicales, pour la pédiatrie et l'anesthésiologie-réanimation chirurgicale, une des épreuves porte sur la physiologie et l'autre sur la pathologie médicale. Pour la psychiatrie, une des épreuves porte sur la physiologie et l'autre sur la pathologie mentale. Pour la médecine du travail, une des épreuves porte sur la pathologie médicale et l'autre sur la pathologie et les risques professionnels. Pour la santé publique, une des épreuves porte sur la pathologie médicale et l'autre sur les problèmes de santé et leur prévention dans les pays en développement. Pour la biologie médicale, une des questions porte sur la pathologie médicale et l'autre sur la stratégie des examens de laboratoire.
+
+Les questions d'anatomie, de pathologie chirurgicale, de pathologie médicale et de physiologie susmentionnées sont identiques, quelle que soit la discipline concernée.

@@ -1,0 +1,3 @@
+# Article 1
+
+En application des dispositions du troisième alinéa de l'article 31 de la loi du 6 janvier 1978 susvisée et aux seules fins d'instruction des demandes présentées au titre du décret du 13 juillet 2000 susvisé et de versement des indemnités en capital et des rentes viagères servies en application de ce même décret, le secrétariat général du Gouvernement, la direction des statuts, des pensions et de la réinsertion sociale du ministère de la défense et l'Office national des anciens combattants et victimes de guerre sont autorisés à collecter et à traiter, dans le cadre des traitements automatisés créés par le décret du 27 juillet 2001 susvisé, les informations nécessaires à l'accomplissement de ces finalités.
