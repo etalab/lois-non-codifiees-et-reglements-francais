@@ -1,0 +1,5 @@
+# Article 5
+
+Les armes transformées doivent être remises ou expédiées par l'armurier fabricant qui a fait la transformation dans un délai de trois mois au contrôle technique de l'établissement technique désigné par arrêté du ministre de la défense. Cet établissement vérifie que l'arme est bien présentée dans les délais prévus par le présent arrêté et que les transformations effectuées répondent aux dispositions de l'article 3 ci-dessus. Il renvoie l'arme aux frais du destinataire à l'armurier fabricant accompagnée d'un certificat de contrôle technique établi en deux exemplaires attestant que, compte tenu des modifications apportées, l'arme répond, au moment de sa livraison, aux conditions fixées par l'article 3 du présent arrêté. Toute modification ultérieure qui ne serait pas faite en application de la présente section engage la responsabilité du propriétaire ou du détenteur de l'arme.
+
+L'établissement technique visé à l'article 5 procède directement auprès de l'armurier fabricant au recouvrement des frais afférents au contrôle technique.
