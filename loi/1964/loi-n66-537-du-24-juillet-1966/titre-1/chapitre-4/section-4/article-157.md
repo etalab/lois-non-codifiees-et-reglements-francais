@@ -2,9 +2,9 @@
 
 L'assemblée générale ordinaire [*attributions*] est réunie au moins une fois par an, dans les six mois de la clôture de l'exercice, sous réserve de prolongation de ce délai par décision de justice.
 
-Après lecture de son rapport, le Conseil d'administration ou le directoire, selon le cas, présente à l'assemblée les comptes annuels. En outre, les commissaires aux comptes relatent, dans leur rapport, l'accomplissement de la mission qui leur est dévolue par l'article 228.
+Après lecture de son rapport, le Conseil d'administration ou le directoire, selon le cas, présente à l'assemblée les comptes annuels et le cas échéant, les comptes consolidés. En outre, les commissaires aux comptes relatent, dans leur rapport, l'accomplissement de la mission qui leur est dévolue par l'article 228.
 
-L'assemblée délibère et statue sur toutes les questions relatives aux comptes de l'exercice écoulé.
+L'assemblée délibère et statue sur toutes les questions relatives aux comptes annuels de l'exercice écoulé.
 
 Elle exerce les pouvoirs qui lui sont attribués notamment par les articles 90, 94 (alinéa 4), 103 (alinéa 3), 105 (alinéa 3), et 108 ou, le cas échéant, par les articles 134, 137, (alinéa 4), 140, 145 (alinéa 3) et 147 (alinéa 3).
 
