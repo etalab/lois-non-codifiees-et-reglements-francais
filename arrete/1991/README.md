@@ -935,7 +935,6 @@
 - [Arrêté du 30 septembre 1991 (ECOZ9100039A)](arrete-du-30-septembre-1991-ecoz9100039a)
 - [Arrêté du 30 septembre 1991 (EQUS9101504A)](arrete-du-30-septembre-1991-equs9101504a)
 - [Arrêté du 30 septembre 1991 (INDE9100637A)](arrete-du-30-septembre-1991-inde9100637a)
-- [Arrêté du 30 septembre 1991 (PTTR9100340A)](arrete-du-30-septembre-1991-pttr9100340a)
 - [Arrêté du 30 septembre 1991 (SPSH9102285A)](arrete-du-30-septembre-1991-spsh9102285a)
 - [Arrêté du 30 mai 1991 (ECOT9151172A)](arrete-du-30-mai-1991-ecot9151172a)
 - [Arrêté du 31 décembre 1990 (AGRG9002162A)](arrete-du-31-decembre-1990-agrg9002162a)
