@@ -1,6 +1,6 @@
 # Article 4
 
-Chaque épreuve écrite ou orale est notée de 0 à 20. Toute note inférieure à 5 est éliminatoire. L'épreuve d'exposé oral suivi d'une discussion est affectée du coefficient 3.
+Chaque épreuve écrite ou orale est notée de 0 à 20. Toute note inférieure à 5 est éliminatoire, sauf en ce qui concerne l'interrogation orale portant sur une langue vivante étrangère. L'épreuve d'exposé oral suivi d'une discussion est affectée du coefficient 3.
 
 Nul ne peut être déclaré admissible s'il n'a obtenu, pour les épreuves écrites, une moyenne générale au moins égale à dix. L'admissibilité n'est valable que pour la session au cours de laquelle elle a été acquise.
 
