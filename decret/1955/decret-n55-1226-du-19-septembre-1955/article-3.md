@@ -1,0 +1,15 @@
+# Article 3
+
+I Seuls peuvent bénéficier d'une nomination en qualité de chef de service, de directeur adjoint ou de sous-directeur les agents mentionnés à l'article 2 et aux articles 2 quater et 2 quinquies ci-dessus qui justifient :
+
+a) S'ils appartiennent à un des corps recrutés par la voie de l'Ecole nationale d'administration ou de l'Ecole polytechnique, à un autre corps ou à un cadre d'emplois classé dans la catégorie A ou assimilée dont l'indice terminal est supérieur à l'indice brut 1015, au corps judiciaire ou à un des corps des officiers de carrière ou assimilés, de huit années de services effectifs accomplis dans un ou plusieurs de ces corps ou cadre d'emplois, ou accomplis en position de détachement dans un ou plusieurs emplois fonctionnels ou dans l'emploi d'administrateur du Conseil économique et social ;
+
+b) S'ils n'appartiennent pas à l'un des corps ou cadre d'emplois mentionnés au a ci-dessus, de huit années de service et de quatre années d'occupation, au cours des six dernières années, d'un ou de plusieurs emplois dotés d'un indice terminal supérieur à 1015 relevant d'un statut d'emploi de chef de services déconcentrés de l'Etat ou de secrétaire général d'académie ou d'université ;
+
+II En outre, les agents mentionnés au a du I du présent article, autres que les membres des corps recrutés par la voie de l'Ecole nationale d'administration ou de l'Ecole polytechnique et que les membres du corps des administrateurs des postes et télécommunications, doivent justifier à la fois :
+
+a) De la détention ou de l'occupation, au moment de leur nomination, d'un grade ou d'un emploi comportant un échelon correspondant à l'indice brut 1015 ;
+
+b) De quatre années de fonctions durant les huit années mentionnées au a du I du présent article, leur ayant permis d'acquérir l'expérience administrative nécessaire à l'occupation des emplois de chef de service, directeur adjoint ou de sous-directeur. Le respect de cette condition est appréciée par une commission de validation dont la composition et les modalités de fonctionnement sont fixées par arrêté du Premier ministre. L'appréciation positive de cette commission reste valable pour toute nomination ultérieure dans un de ces emplois.
+
+III Les membres des corps recrutés par la voie de l'Ecole nationale d'administration et les administrateurs des postes et télécommunications ne peuvent être nommés aux emplois de chef de service, de directeur adjoint ou de sous-directeur que s'ils justifient, en outre, avoir satisfait à l'obligation mentionnée à l'article 1er du décret n° 97-274 du 21 mars 1997 relatif à la mobilité des fonctionnaires des corps recrutés par la voie de l'Ecole nationale d'administration et des administrateurs des postes et télécommunications. Toutefois, ces dispositions ne s'appliquent pas aux administrateurs des postes et télécommunications intégrés dans ce corps au titre de l'article 11 du décret n° 68-268 du 21 mars 1968 relatif au statut particulier des administrateurs des postes et télécommunications.
