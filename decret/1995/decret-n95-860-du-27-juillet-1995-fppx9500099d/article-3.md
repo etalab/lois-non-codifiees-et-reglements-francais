@@ -7,3 +7,7 @@ Peuvent être nommés en qualité d'inspecteur général en service extraordinai
 2° Les fonctionnaires, âgés de cinquante-cinq ans au moins, ayant occupé pendant deux ans au moins l'un des emplois supérieurs pour lesquels les nominations sont laissées à la décision du Gouvernement mentionnés dans le décret du 24 juillet 1985 susvisé ;
 
 3° Les officiers, âgés de cinquante-cinq ans au moins, nommés depuis deux ans au moins en qualité d'officier général.
+
+4° Les fonctionnaires âgés de cinquante-cinq ans au moins ayant assuré pendant au moins deux ans les fonctions de directeur général ou de secrétaire général de l'Assistance publique-hôpitaux de Paris, de directeur général de l'Assistance publique de Marseille ou de directeur général des hospices civils de Lyon ;
+
+5° Les fonctionnaires âgés de cinquante-cinq ans au moins ayant occupé pendant deux ans au moins l'emploi de directeur d'agence régionale de l'hospitalisation.
