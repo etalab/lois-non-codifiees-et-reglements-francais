@@ -411,6 +411,8 @@
 - [Décret n°92-204 du 28 février 1992 (MENF9200284D)](decret-n92-204-du-28-fevrier-1992-menf9200284d)
 - [Décret n°87-872 du 29 octobre 1987 (INTX8798554D)](decret-n87-872-du-29-octobre-1987-intx8798554d)
 - [Décret n°87-873 du 29 octobre 1987 (INTX8798555D)](decret-n87-873-du-29-octobre-1987-intx8798555d)
+- [Décret n°92-411 du 29 avril 1992 (PRMX9210122D)](decret-n92-411-du-29-avril-1992-prmx9210122d)
+- [Décret n°92-412 du 29 avril 1992 (COPX9210119D)](decret-n92-412-du-29-avril-1992-copx9210119d)
 - [Décret n°92-98 du 29 janvier 1992 (INDH9200047D)](decret-n92-98-du-29-janvier-1992-indh9200047d)
 - [Décret n°93-752 du 29 mars 1993 (MERG9300017D)](decret-n93-752-du-29-mars-1993-merg9300017d)
 - [Décret n°93-766 du 29 mars 1993 (SANH9300971D)](decret-n93-766-du-29-mars-1993-sanh9300971d)
