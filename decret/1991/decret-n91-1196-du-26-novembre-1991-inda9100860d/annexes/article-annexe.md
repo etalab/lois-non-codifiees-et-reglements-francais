@@ -16,7 +16,7 @@ Responsable local de formation.
 
 Chef de centre de contrôle de véhicules.
 
-Emploi d'ingénieur ou de spécialiste des appareils à pression ou métrologiques.
+Emploi de fonctionnel spécialisé dans les contrôles techniques.
 
 Responsable secteur Comptabilité (Ecole des mines de Paris).
 
@@ -76,8 +76,6 @@ Chef de salle de centre de gestion des radiocommunications.
 
 Chef de salle du centre de contrôle international des fréquences.
 
-Gestionnaire des personnels détachés sortants.
-
 Tranche 1991
 
 Bureauticien, assistant d'utilisateur de micro-informatique.
@@ -93,8 +91,6 @@ Opérateur du contrôle du spectre des fréquences radioélectriques.
 Chef de salle de centre de gestion des radiocommunications.
 
 Gestionnaire comptable et financier.
-
-Préliquidateur des rémunérations des personnels.
 
 Tranche 1992
 
@@ -138,7 +134,7 @@ Emploi d'assistant d'ingénieur de recherche (écoles des mines).
 
 Emploi comportant des fonctions de surveillance et/ou de sécurité (écoles des mines).
 
-Emploi de secrétaire de rédaction (publications internes).
+Emploi de secrétaire de rédaction.
 
 Emploi de chargé de communication des D.R.I.R.E.
 
