@@ -140,7 +140,6 @@
 - [Décret n°86-381 du 10 mars 1986](decret-n86-381-du-10-mars-1986)
 - [Décret n°86-42 du 10 janvier 1986](decret-n86-42-du-10-janvier-1986)
 - [Décret n°86-764 du 10 juin 1986](decret-n86-764-du-10-juin-1986)
-- [Décret n°86-770 du 10 juin 1986](decret-n86-770-du-10-juin-1986)
 - [Décret n°86-78 du 10 janvier 1986](decret-n86-78-du-10-janvier-1986)
 - [Décret n°86-1032 du 11 septembre 1986](decret-n86-1032-du-11-septembre-1986)
 - [Décret n°86-1268 du 11 décembre 1986](decret-n86-1268-du-11-decembre-1986)
