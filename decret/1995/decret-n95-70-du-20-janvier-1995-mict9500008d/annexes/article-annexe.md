@@ -10,7 +10,7 @@ Article 1er
 
 Les présents statuts régissent la société prévue par l'article 45 de la loi n° 86-1067 du 30 septembre 1986 modifiée relative à la liberté de communication.
 
-Cette société prend la forme d'une société anonyme et la dénomination de " Télévision du savoir, de la formation et de l'emploi ".
+Cette société prend la forme d'une société anonyme et la dénomination de Télévision du savoir, de la formation et de l'emploi.
 
 Article 2
 
@@ -46,13 +46,15 @@ CAPITAL SOCIAL
 
 Article 5
 
-Le capital social est fixé à 90 millions de francs ; il est divisé en quatre-vingt-dix mille actions de 1 000 francs chacune.
+Le capital social était à l'origine de 90 millions de francs.
 
-Les actions de la société sont nominatives.
+Il a été augmenté, pour être fixé à 100 millions de francs, à la suite de la fusion par absorption de la société de préfiguration de la société Télévision du savoir, de la formation et de l'emploi, approuvée en assemblée générale extraordinaire en date du 4 mai 1995.
 
-Les actions d'origine formant le capital initial sont représentatives d'apports en numéraires et sont libérées de l'intégralité de leur valeur nominale par les actionnaires fondateurs, par versements au compte ouvert au nom de la société auprès de la paierie générale du Trésor.
+Il est divisé en cent mille actions de mille francs chacune.
 
-Conformément aux dispositions de l'article 45 de la loi du 30 septembre 1986 précitée, la majorité du capital de la société est détenue directement ou indirectement par des personnes publiques.
+Les actions de la société sont nominatives et ont été entièrement libérées.
+
+Conformément aux dispositions de l'article 45 de la loi du 30 septembre 1986 précitée, la majorité du capital est détenue, directement ou indirectement, par des personnes publiques.
 
 Article 6
 
@@ -314,7 +316,7 @@ Article 28
 
 Les produits nets de chaque exercice, déduction faite des frais généraux et autres charges de la société, y compris tous amortissements et provisions, constituent les bénéfices nets ou les pertes de l'exercice.
 
-Sur les bénéfices nets de chaque exercice, diminués le cas échéant des pertes antérieures, il est fait un prélèvement d'un vingtième au moins, affecté à la formation d'un fonds de réserve dit " réserve légale ". Ce prélèvement cesse d'être obligatoire lorsque ledit fonds atteint une somme égale au dixième du capital social. Il reprend son cours lorsque, pour une cause quelconque, la réserve légale est descendue au-dessous de cette fraction.
+Sur les bénéfices nets de chaque exercice, diminués le cas échéant des pertes antérieures, il est fait un prélèvement d'un vingtième au moins, affecté à la formation d'un fonds de réserve dit réserve légale. Ce prélèvement cesse d'être obligatoire lorsque ledit fonds atteint une somme égale au dixième du capital social. Il reprend son cours lorsque, pour une cause quelconque, la réserve légale est descendue au-dessous de cette fraction.
 
 Le solde, s'il en existe un, est réparti par l'assemblée générale ordinaire sur proposition du conseil d'administration.
 

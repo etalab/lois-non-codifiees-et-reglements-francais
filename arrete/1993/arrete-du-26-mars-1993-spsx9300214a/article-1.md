@@ -4,7 +4,7 @@ L'échelle indiciaire applicable au corps des éducateurs de jeunes enfants des 
 
 Educateur de jeunes enfants de classe exceptionnelle
 
-(A) : Grades et échelons.
+(A) : Grades et échelons - Grades provisoires.
 
 (B) : Indices bruts.
 
@@ -32,7 +32,7 @@ Educateur de jeunes enfants de classe exceptionnelle
 
 Educateur de jeunes enfants de classe supérieure
 
-(A) : Grades et échelons.
+(A) : Grades et échelons - Grades provisoires.
 
 (B) : Indices bruts.
 
@@ -56,7 +56,7 @@ Educateur de jeunes enfants de classe supérieure
 
 Educateur de jeunes enfants de classe normale
 
-(A) : Grades et échelons.
+(A) : Grades et échelons - Grades provisoires.
 
 (B) : Indices bruts.
 
