@@ -1,0 +1,3 @@
+# Article 11 bis
+
+L'Etat participe au coût des génotypages nécessaires au repeuplement des cheptels ovins soumis aux mesures de restriction et d'éradication prévues à l'article 8 de l'arrêté du 27 janvier 2003 fixant les mesures de police sanitaire relatives à la tremblante ovine. Le montant maximal de la subvention allouée est plafonné à 10 euros par animal réintroduit, dans la limite du nombre d'animaux éliminés. Le mandatement de cette subvention est subordonné à la production au directeur départemental des services vétérinaires des factures d'achat des animaux acquittées par l'éleveur, mentionnant le génotype des animaux concernés. Ces factures devront être accompagnées des certificats génotypiques individuels des animaux délivrés par un laboratoire agréé.
