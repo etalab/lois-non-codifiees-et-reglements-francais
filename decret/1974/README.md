@@ -14,6 +14,7 @@
 - [Décret n°74-705 du 6 août 1974](decret-n74-705-du-6-aout-1974)
 - [Décret n°74-98 du 6 février 1974](decret-n74-98-du-6-fevrier-1974)
 - [Décret n°74-230 du 7 mars 1974](decret-n74-230-du-7-mars-1974)
+- [Décret n°74-851 du 8 octobre 1974](decret-n74-851-du-8-octobre-1974)
 - [Décret n°74-657 du 9 juillet 1974](decret-n74-657-du-9-juillet-1974)
 - [Décret n°74-401 du 9 mai 1974](decret-n74-401-du-9-mai-1974)
 - [Décret n°74-410 du 9 mai 1974](decret-n74-410-du-9-mai-1974)
