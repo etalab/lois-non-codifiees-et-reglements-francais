@@ -1,61 +1,91 @@
 # Article Annexe
 
-Département des Pyrénées-Atlantiques    Tous les cours d'eau.
+Département des Alpes-de-Haute-Provence
 
-Département de la Haute-Saône    Tous les cours d'eau.
+1° Lacs de retenue de Castillon, Chaudanne, Sainte-Croix, Quinson, Gréoux-les-Bains, Serre-Ponçon, Espinasse, Saulce, Salignac, l'Escale ;
 
-Département de Saône-et-Loire    Tous les cours d'eau.
+2° Tous les lacs de montagne situés à une altitude supérieure à 1.800 mètres.
 
-Département de la Sarthe    1° La Sarthe, en amont du Mans ;
+Département des Hautes-Alpes
 
-2° L'Huisne ;
+Lac de retenue de Serre-Ponçon, du barrage principal de Serre-Ponçon au pont de la Clapière sur la Durance, au pont de Pellegrin sur l'Ubaye et à la cote 781 N.G.F. pour tous les autres tributaires.
 
-3° Le Loir, en amont du lieudit La Pointe, commune de Marcon ;
+Département des Alpes-Maritimes
 
-4° La Braye, en aval de son confluent avec la Pinollière ;
+Tous les lacs de montagne situés à une altitude supérieure à 1.800 mètres.
 
-5° L'Orne Saosnoise ;
+Département de la Creuse.
 
-6° La Bienne, en aval du pont de la voie communale n° 4, de Thoiré-sous-Contensor à Coudroux ;
+Lac de retenue de Vassivière.    Département du Doubs.
 
-7° La Vègre, en aval de son confluent avec le Végronneau ;
+1° Lacs de Saint-Point, Bouverans, Rémorey ;
 
-8° La Mème.
+2° Etang de Frasne.    Département de la Haute-Garonne
 
-Département de la Savoie    Lac d'Aiguebelette.
+Tous les lacs de montagne situés à une altitude supérieure à 1. 400 mètres.
 
-Département des Deux-Sèvres    Tous les cours d'eau du bassin de la Sèvre-Niortaise, en aval de Niort, à l'exception de :
+Département de l'Isère
 
-1° La Rigole de la Garette ;
+Lac de Paladru.
 
-2° La dérivation des Bourdettes ;
+Département du Jura
 
-3° Le canal de Forges ;
+1° Lac de retenue de Vouglans ;
 
-4° La Conche de Monégrier ;
+2° Lacs de Chalain et des Rousses ;
 
-5° La Courance ;
+3° Grand lac de Clairvaux.
 
-6° La Conche de la Périne ;
+Département de la Loire-Atlantique
 
-7° La Conche du Châtelier.
+1° Lac de Grandlieu ;
 
-Département de la Vendée    Tous les cours d'eau et plans d'eau.
+2° Marais indivis de Grande Brière Mottière.
 
-Département de la Vienne    1° La Vienne, en aval du barrage de Chitre, commune de Vouneuil-sur-Vienne ;
+Département de la Marne
 
-2° Le Clain, en aval de son confluent avec le Payroux ;
+Lac du Der Chantecoq.
 
-3° La Charente ;
+Département de la Haute-Marne
 
-4° La Dive de Couhe ;
+Lac du Der Chantecoq.
 
-5° La Vonne ;
+Département de la Meurthe-et-Moselle
 
-6° La Gartempe ;
+Lacs de la Madine et de Pierre-Percée.
 
-7° L'Anglin ;
+Département de l'Orne
 
-8° La Benaize ;
+Lac de retenue de Rabodanges.
 
-8° La Clouère, en aval du pont Brion.
+Département des Pyrénées-Atlantiques
+
+1° Lacs de retenue de Fabrèges, Sainte-Engrace, Bious-Artigues, Anglus, Peilhou, Artouste, Castet ;
+
+2° Lac Alain Cami à Saint-Pée-sur-Nivelle ;
+
+3° Tous les lacs de montagne situés à une altitude supérieure à 1.000 mètres.
+
+Département du Haut-Rhin
+
+Lacs blanc, Noir, du Forlet, Vert, du Schiessrothried, de l'Altenweiher, du Fischboedle, de la Lauch, du Ballon, de Kruth-Wildenstein, d'Alfred, de Sewen, des Perches, des Petit et Grand Neuweiher.
+
+Département de la Savoie
+
+Lacs d'Aiguebelette et du Bourget.
+
+Département de la Haute-Savoie
+
+Lac d'Annecy.
+
+Département du Var
+
+Lacs de retenue de Sainte-Croix, Quinson, Saint-Cassien, Gréoux-les-Bains.
+
+Département de la Haute-Vienne
+
+Lacs de retenue de Vassivière et de Saint-Pardoux.
+
+Département des Vosges.
+
+Lacs de Gérardmer et Longemer.

@@ -1,3 +1,3 @@
-# Tableau par département des cours d'eau et plans d'eau non domaniaux classés en deuxième catégorie où la pêche aux engins et aux filets peut être pratiquée par les membres des associations agréées de pêche et de pisciculture.
+# Tableau par département des grands lacs intérieurs et lacs de montagne pour lesquels peut être établie une réglementation spéciale de la pêche
 
 - [Article Annexe](article-annexe.md)
