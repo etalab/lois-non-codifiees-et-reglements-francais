@@ -1,3 +1,0 @@
-# Article 1
-
-Il est institué à compter du 1er janvier 1998 jusqu'au 31 décembre 2002, une taxe parafiscale sur les produits non comestibles de l'horticulture florale, ornementale et des pépinières, perçue au profit de l'Association nationale pour le développement agricole pour être versée au Fonds national du développement agricole. Les oignons, bulbes, tubercules, rhizomes et griffes, les plantes ornementales vertes et fleuries, les feuillages et fleurs coupées, les plants d'arbres fruitiers ornementaux et forestiers sont soumis à cette taxe parafiscale. Sont exonérés les semences des espèces florales, ornementales et fruitières et les bois et plants de vigne.
