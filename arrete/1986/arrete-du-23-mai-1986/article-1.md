@@ -1,7 +1,3 @@
 # Article 1
 
-Le modèle de la demande d'aide au recouvrement des pensions alimentaires doit être établi conformément au modèle S. 7141 (1) enregistré par le Cerfa (2) sous le numéro 60-3744.
-
-(1) Un modèle de cet imprimé pourra être obtenu auprès des organismes d'allocations familiales.
-
-(2) Centre d'enregistrement et de révision des formulaires administratifs.
+Le seuil d'imposition fixé au premier alinéa de l'article 1414 A du code général des impôts est porté à 1 098 F pour les cotisations de taxe d'habitation établies au titre de 1986.
