@@ -16,15 +16,9 @@ Chili.
 
 Corée du Sud.
 
-Estonie.
-
 Hongkong.
 
 Islande.
-
-Lettonie.
-
-Lituanie.
 
 Malaisie.
 
@@ -38,11 +32,7 @@ Russie.
 
 Singapour.
 
-Slovaquie.
-
-Slovénie.
-
-Taiwan.
+Taïwan.
 
 Thaïlande.
 

@@ -12,13 +12,11 @@ Bulgarie.
 
 Chine.
 
-Chypre.
-
 Corée du Sud.
 
 Equateur.
 
-Hong Kong.
+Hongkong.
 
 Indonésie.
 
@@ -28,14 +26,12 @@ Maroc.
 
 Mexique.
 
-République slovaque.
-
 Roumanie.
 
 Singapour.
 
+Taïwan.
+
 Tunisie.
 
 Turquie.
-
-Taïwan.
