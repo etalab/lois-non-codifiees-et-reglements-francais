@@ -223,6 +223,7 @@
 - [Décret n°89-398 du 14 juin 1989 (MAEJ8930055D)](decret-n89-398-du-14-juin-1989-maej8930055d)
 - [Décret n°89-838 du 14 novembre 1989 (PRME8961499D)](decret-n89-838-du-14-novembre-1989-prme8961499d)
 - [Décret n°90-487 du 14 juin 1990 (EQUP8901081D)](decret-n90-487-du-14-juin-1990-equp8901081d)
+- [Décret du 15 novembre 1989 (SPSH8901841D)](decret-du-15-novembre-1989-spsh8901841d)
 - [Décret n°82-968 du 15 novembre 1982](decret-n82-968-du-15-novembre-1982)
 - [Décret n°89-106 du 15 février 1989 (JUSB8910032D)](decret-n89-106-du-15-fevrier-1989-jusb8910032d)
 - [Décret n°89-391 du 15 juin 1989 (EQUT8900624D)](decret-n89-391-du-15-juin-1989-equt8900624d)
