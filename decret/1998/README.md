@@ -156,6 +156,8 @@
 - [Décret n°98-43 du 14 janvier 1998 (ECOB9760045D)](decret-n98-43-du-14-janvier-1998-ecob9760045d)
 - [Décret n°97-46 du 15 janvier 1997 (INTD9700005D)](decret-n97-46-du-15-janvier-1997-intd9700005d)
 - [Décret n°97-47 du 15 janvier 1997 (INTD9700006D)](decret-n97-47-du-15-janvier-1997-intd9700006d)
+- [Décret n°98-283 du 15 avril 1998 (AGRP9800645D)](decret-n98-283-du-15-avril-1998-agrp9800645d)
+- [Décret n°98-284 du 15 avril 1998 (AGRA9800274D)](decret-n98-284-du-15-avril-1998-agra9800274d)
 - [Décret n°98-30 du 15 janvier 1998 (ECOT9740365D)](decret-n98-30-du-15-janvier-1998-ecot9740365d)
 - [Décret n°98-45 du 15 janvier 1998 (INTB9800007D)](decret-n98-45-du-15-janvier-1998-intb9800007d)
 - [Décret n°98-831 du 15 septembre 1998 (MCCB9800558D)](decret-n98-831-du-15-septembre-1998-mccb9800558d)

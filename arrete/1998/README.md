@@ -322,6 +322,7 @@
 - [Arrêté du 25 février 1998 (DEFB9801266A)](arrete-du-25-fevrier-1998-defb9801266a)
 - [Arrêté du 25 février 1998 (ECOF9820801A)](arrete-du-25-fevrier-1998-ecof9820801a)
 - [Arrêté du 25 février 1998 (ECOT9810331A)](arrete-du-25-fevrier-1998-ecot9810331a)
+- [Arrêté du 25 mars 1998 (MENE9800013A)](arrete-du-25-mars-1998-mene9800013a)
 - [Arrêté du 25 mars 1998 (MJSK9870033A)](arrete-du-25-mars-1998-mjsk9870033a)
 - [Arrêté du 26 décembre 1997 (AGRH9800023A)](arrete-du-26-decembre-1997-agrh9800023a)
 - [Arrêté du 26 décembre 1997 (EQUH9701987A)](arrete-du-26-decembre-1997-equh9701987a)
