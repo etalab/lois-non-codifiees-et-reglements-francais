@@ -14,8 +14,8 @@ Ces avis sont affichés tant que les décisions sont en vigueur dans les lieux c
 
 Bureau du chef du service de la navigation Rhône-Saône, 2, rue de la Quarantaine, Lyon (5e) ;
 
-Subdivisions de la navigation de : Port-sur-Saône, Gray, Chalon-sur-Saône, Mâcon, Lyon, Valence, Avignon, Arles ;
+Subdivisions de la navigation de : Port-sur-Saône, Gray, Chalon-sur-Saône, Mâcon, Lyon, Avignon, Arles ;
 
 Bureaux d'affrètements de : Saint-Jean-de-Losne, Montceau-les-Mines, Chalon-sur-Saône, Lyon, Arles, Port-Saint-Louis-du-Rhône, Sète ;
 
-Ecluses de : Corre et d'Auxonne (Saône), Saint-Symphorien, Exincourt et Mulhouse (canal du Rhône au Rhin), Maxilly (canal de la Marne à la Saône), Saint-Jean-de-Losne (canal de Bourgogne), Chalon-sur-Saône (canal du Centre), Couzon (Saône), Pierre-Bénite (Rhône), Saint-Gilles-du-Gard (canal Rhône, à Sète), Port-Saint-Louis-du-Rhône et Barcarin (jonctions Rhône-golfe de Fos).
+Ecluses de : Corre et d'Auxonne (Saône), Saint-Symphorien, Exincourt et Mulhouse (canal du Rhône au Rhin), Maxilly (canal de la Marne à la Saône), Saint-Jean-de-Losne (canal de Bourgogne), Chalon-sur-Saône (canal du Centre), Couzon (Saône), Pierre-Bénite (Rhône), Bourg-les-Valence (Drôme), Saint-Gilles-du-Gard (canal Rhône, à Sète), Port-Saint-Louis-du-Rhône et Barcarin (jonctions Rhône-golfe de Fos).

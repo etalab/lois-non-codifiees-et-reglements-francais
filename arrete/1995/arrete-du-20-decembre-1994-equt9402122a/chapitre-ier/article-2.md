@@ -6,19 +6,19 @@ Utilisation de la voie navigable
 
 2.1. Caractéristiques de la voie navigable et des ouvrages d'art
 
-(art. 1.06 [§ 1] du R.G.P.)
+(art. 1.06 (§ 1) du R.G.P.)
 
 Les caractéristiques minimales des voies navigables visées à l'article 1er ainsi que celles des ouvrages d'art situés sur ces voies sont les suivantes, exprimées en mètres :
 
-[*Tableau non reproduit*]
+(Tableau non reproduit)
 
-2.2. Dimension des bateaux, convois poussés et matériels flottants (art. 1.06 [§ 2] du R.G.P.)
+2.2. Dimension des bateaux, convois poussés et matériels flottants (art. 1.06 (§ 2) du R.G.P.)
 
-[*Tableau non reproduit*]
+(Tableau modifié non reproduit voir JORF du 29 novembre 1997)
 
 2.3. Vitesse de marche des bateaux par rapport à la rive
 
-(art. 1.06 [§ 3] du R.G.P.)
+(art. 1.06 (§ 3) du R.G.P.)
 
 Sans préjudice des prescriptions de l'article 6.20 du R.G.P., la vitesse de marche par rapport à la rive des bateaux motorisés, sauf celle des bateaux et engins de plaisance dans les zones précisées par avis à la batellerie ou en application de l'article 20 du présent règlement, ne doit pas excéder les valeurs ci-après :
 
@@ -50,7 +50,7 @@ Les vitesses maximales ci-dessus peuvent être modifiées :
 
 2.4. Restrictions à certains modes de navigation
 
-(art. 1.06 [§ 4] du R.G.P.)
+(art. 1.06 (§ 4) du R.G.P.)
 
 Dans les dérivations du Rhône, il est interdit de naviguer à moins de 20 mètres des berges.
 
