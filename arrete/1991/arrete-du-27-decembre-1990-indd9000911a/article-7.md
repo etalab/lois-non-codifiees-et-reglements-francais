@@ -20,7 +20,11 @@ Le directeur général des collectivités locales ;
 
 Le directeur de la sécurité civile.
 
-b) Sont nommés par arrêté :
+b) Est membre de droit, au titre de la préfecture de police de Paris :
+
+Le directeur du laboratoire central ou son représentant.
+
+c) Sont nommés par arrêté :
 
 - deux représentants des fabricants d'artifices ;
 
@@ -30,7 +34,7 @@ b) Sont nommés par arrêté :
 
 - un représentant des organismes de formation ;
 
-- un représentant d'un service départemental de secours ;
+- un représentant d'un service départemental d'incendie et de secours ;
 
 - un représentant de la brigade des sapeurs-pompiers de Paris.
 
