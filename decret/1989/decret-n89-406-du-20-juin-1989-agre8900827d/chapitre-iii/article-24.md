@@ -7,3 +7,5 @@ a) Dans les classes du cycle long et du cycle supérieur court :
 dix-huit heures pour les enseignements théoriques et vingt heures pour les enseignements pratiques ;
 
 b) Dans les classes de cycle court : dix-huit heures pour les enseignements théoriques et vingt-trois heures pour les enseignements pratiques. Cette disposition prendra effet au 1er septembre 1993.
+
+Les enseignants contractuels à temps complet chargés de fonctions de documentation sont tenus de fournir, sans rémunération supplémentaire, un service hebdomadaire de trente-six heures pendant l'année scolaire lorsqu'ils se consacrent exclusivement à cette activité.

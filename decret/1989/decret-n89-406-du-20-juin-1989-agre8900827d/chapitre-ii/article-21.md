@@ -7,3 +7,7 @@ a) La possession des titres, diplômes ou qualités prévus, selon le cas, par l
 b) Etre âgé de quarante ans au moins au 1er janvier de l'année au titre de laquelle la liste est établie ;
 
 c) Avoir accompli au moins dix ans de service d'enseignement à temps complet ou leur équivalent, dont cinq en qualité de contractuel dans l'enseignement agricole privé.
+
+Les intéressés sont nommés dans leur nouvelle catégorie à l'issue d'une période probatoire d'une durée d'un an sanctionnée par une inspection pédagogique favorable. Un arrêté du ministre chargé de l'agriculture fixe les modalités d'application de ces dispositions.
+
+Les enseignants dont la période probatoire n'a pas été jugée satisfaisante peuvent être autorisés par le ministre chargé de l'agriculture à accomplir une nouvelle période probatoire d'une durée égale, au terme de laquelle ils sont soit nommés dans leur nouvelle catégorie, soit maintenus dans leur catégorie d'origine.
