@@ -1,0 +1,3 @@
+# Article 4
+
+Le jury est composé d'au moins cinq fonctionnaires désignés, ainsi que leurs suppléants éventuels, par le ministre chargé de l'agriculture. Il est présidé par un inspecteur général de l'agriculture ou un membre de l'inspection de l'enseignement agricole. Les autres membres sont choisis parmi les administrateurs civils, les inspecteurs de l'enseignement agricole, les secrétaires généraux des établissements d'enseignement supérieur relevant du ministre chargé de l'agriculture, les chefs d'établissements d'enseignement agricole et les fonctionnaires de l'administration centrale ou régionale de l'enseignement agricole d'un grade au moins équivalent à celui d'administrateur civil.

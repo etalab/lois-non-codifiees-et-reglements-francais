@@ -18,7 +18,7 @@ En cas d'échec à l'épreuve théorique de navigation, le candidat au permis Me
 
 Pour être reçu, le candidat doit obtenir au moins 10 pour cette épreuve et la note de l'épreuve sur carte doit être au moins égale à 7.
 
-La durée de cette épreuve est de une heure trente minutes, et le candidat devra utiliser la carte n° 7033 du Service hydrographique et océanographique de la marine (S.H.O.M.).
+La durée de cette épreuve est de une heure trente minutes, et le candidat devra utiliser la carte spéciale d'exercice du service hydrographique et océanographique de la marine (SHOM) pour le permis mer hauturier.
 
 En cas d'échec à l'épreuve pratique, le candidat au permis Mer hauturier conserve le bénéfice de son succès aux épreuves théoriques pendant six mois.
 

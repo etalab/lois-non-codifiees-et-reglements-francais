@@ -112,7 +112,7 @@ Total général
 
 50
 
-Les candidats à l'examen pour l'obtention du diplôme d'élève officier de 1re classe de la marine marchande sont autorisés à se présenter aux épreuves orales sous réserve de ne pas avoir obtenu de note éliminatoire aux épreuves anticipées, écrites et d'application.
+Les candidats à l'examen pour l'obtention du diplôme d'élève officier de 1re classe de la marine marchande sont autorisés à se présenter aux épreuves orales d'un groupe sous réserve de ne pas avoir obtenu de note éliminatoire dans ce groupe.
 
 Sont éliminatoires :
 
@@ -121,6 +121,8 @@ Sont éliminatoires :
 - une note inférieure à 8 à l'épreuve orale anticipée d'anglais ;
 
 - une note inférieure à 10 aux épreuves anticipées de simulateurs de navigation et de machines et à l'épreuve orale de règles de barre, feux, balisage.
+
+La note pour chaque épreuve anticipée de simulateur de navigation et de simulateur de machines est attribuée à l'issue du stage correspondant ; une deuxième session est organisée au mois de juin pour les candidats qui ont obtenu une note inférieure à 10 à ces épreuves. La note prise en compte à l'issue de cette deuxième session ne pourra toutefois excéder 10.
 
 Les candidats ayant obtenu, pour l'ensemble des épreuves des trois groupes, une note moyenne au moins égale à 12 sur 20 sont déclarés admis sous réserve :
 
