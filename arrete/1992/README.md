@@ -638,7 +638,6 @@
 - [Arrêté du 16 juin 1992 (EQUS9200886A)](arrete-du-16-juin-1992-equs9200886a)
 - [Arrêté du 16 juin 1992 (SPSA9201425A)](arrete-du-16-juin-1992-spsa9201425a)
 - [Arrêté du 16 mars 1992 (AGRA9200524A)](arrete-du-16-mars-1992-agra9200524a)
-- [Arrêté du 16 mars 1992 (BUDF9200011A)](arrete-du-16-mars-1992-budf9200011a)
 - [Arrêté du 16 mars 1992 (DEFB9201330A)](arrete-du-16-mars-1992-defb9201330a)
 - [Arrêté du 16 mars 1992 (ECOC9200043A)](arrete-du-16-mars-1992-ecoc9200043a)
 - [Arrêté du 16 mars 1992 (EQUC9200377A)](arrete-du-16-mars-1992-equc9200377a)
