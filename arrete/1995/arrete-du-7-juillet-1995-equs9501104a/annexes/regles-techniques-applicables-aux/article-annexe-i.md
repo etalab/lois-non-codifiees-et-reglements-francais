@@ -1,0 +1,75 @@
+# Article ANNEXE I
+
+1° Tableau des règles applicables :
+
+Les règles techniques auxquelles sont soumis les véhicules visés au présent arrêté et leurs systèmes et équipements, en application des dispositions des titres IV et V du code de la route, sont énumérées dans le tableau ci-dessous.
+
+En particulier, les systèmes et équipements doivent, pour être réceptionnés par type CE, être conformes aux dispositions correspondantes contenues dans ce tableau et les véhicules doivent, pour être réceptionnés (par type CE, par type national ou à titre isolé), être conformes à l'ensemble des dispositions qui y sont contenues.
+
+*Tableau non reproduit cf JORF p. 11497 et 11498 du 2 août 1995. N O T E S
+
+(a) Compte tenu du champ d'application défini dans la directive. Dans la mesure où la directive le permet, les équipements homologués conformément aux dispositions de directives visant d'autres catégories de véhicules ou des règlements de l'ECE/O.N.U. correspondants peuvent aussi être montés.
+
+(1) En attente d'adoption de directive communautaire.
+
+(2) Facultatif pour les réceptions CE de petites séries, les réceptions à titre isolé et les réceptions nationales par type de véhicules produits à moins de 200 unités par an. Les dispositions générales du code de la route restent applicables.
+
+(3) Sans préjudice des dispositions de l'article R. 175 du code de la route et de l'arrêté du 30 octobre 1987 relatif aux dispositifs spéciaux de signalisation des véhicules d'intervention urgente, et des dispositions de l'arrêté du 3 juillet 1974 relatif aux avertisseurs sonores des véhicules équipés de feux spéciaux de catégorie B prévus à l'article R. 92 (5°) du code de la route.
+
+(4) Peut être remplacée par une évaluation qualitative dans le cadre des réceptions par type CE de petites séries et des réceptions à titre isolé.
+
+(5) Jusqu'à cette date, les dispositions nationales visées aux articles 30 à 33 sont d'application et la vitesse maximale et les masses et dimensions sont vérifiées selon les dispositions nationales en vigueur. Toutefois, ces dispositions nationales ne s'appliquent pas si les véhicules sont conformes par anticipation aux dispositions des directives ou règlements correspondants. Pour les tricycles visés à l'article 28, la date d'application à retenir est la date de parution du présent arrêté au Journal officiel de la République française.
+
+(6) En l'attente de directive et d'une modification correspondante du présent arrêté, et sans préjudice des dispositions de son article 28, les dispositions nationales sont d'application, à savoir :
+
+- mesures contre la manipulation : article 2, alinéa 1, de l'arrêté du 20 novembre 1969 modifié définissant les conditions d'application et de contrôle de l'article R. 188 du code de la route et fixant ses délais d'application, arrêté du 25 janvier 1980 fixant les conditions d'application et de contrôle de l'article R. 169 du code de la route, modifié par le décret n° 80-14 du 9 janvier 1980, et article 5 de l'arrêté du 3 décembre 1984 relatif aux conditions d'application de l'article R. 169 du code de la route ;
+
+- pneumatiques : vérification de la compatibilité des caractéristiques des pneumatiques et du véhicule ;
+
+- dispositifs d'éclairage et de signalisation lumineuse :
+
+dispositions relatives à l'homologation des titres III et IV de l'arrêté du 16 juillet 1954 modifié relatif à la signalisation des véhicules, arrêté du 17 juin 1982 relatif à l'éclairage des cyclomoteurs ;
+
+- compatibilité électromagnétique : arrêté du 28 avril 1969 fixant les conditions auxquelles doivent satisfaire les véhicules et machines mus par des moteurs thermiques à allumage électrique et produisant des perturbations radio-électriques ;
+
+- saillies extérieures : arrêté du 19 décembre 1958 relatif à l'aménagement des véhicules ;
+
+- vitrages : arrêté du 20 juin 1983 modifié relatif au vitrage des véhicules ;
+
+- ceintures et ancrages : arrêté du 29 mai 1986 définissant les conditions d'application des articles R. 169-1 et R. 171-1 du code de la route, articles 4 et 5 de l'arrêté du 29 mai 1986 définissant les conditions d'application des articles R. 188, R. 195 à R. 197 et R. 200 du code de la route à certains cyclomoteurs à plus de deux roues.
+
+(7) En l'attente d'une nouvelle directive, il y a lieu d'appliquer les dispositions de l'arrêté du 20 novembre 1969 modifié relatif aux rétroviseurs des véhicules et de l'arrêté du 13 avril 1972 modifié relatif au bruit des véhicules, pris pour l'application des directives concernées.
+
+(8) Pour mémoire : les dispositions des articles R. 182 et R. 199 du code de la route sont applicables.
+
+2° Pièces utilisables pour l'évaluation de la conformité d'un véhicule aux dispositions du 1° :
+
+1. Aux fins de la réception CE par type d'un véhicule :
+
+certificats de réception CE ou certificat d'homologation ECE des systèmes et équipements, ou, dans le cas d'une modification de réception ou dans le cas d'une réception complémentaire CE, documents relatifs à la réception du véhicule de base ;
+
+2. Aux fins de la réception nationale par type ou de l'agrément de prototype : mêmes pièces que pour la réception CE ou procès-verbaux d'essais du laboratoire d'essais visé à l'article 8 du présent arrêté ;
+
+3. Aux fins de la réception à titre isolé : mêmes pièces que pour la réception nationale par type, ou attestation du constructeur rapprochant le véhicule avec un type réceptionné, ou pièces nécessaires dans le cadre des réceptions d'un véhicule transformé pour le rendre conforme à un prototype agréé.
+
+3° Liste des équipements devant être homologués selon les dispositions du tableau du 1° ci-dessus, préalablement à leur mise sur le marché de deuxième monte (remplacement) en application des articles R. 184 et R. 200 du code de la route et de l'article 4 du présent arrêté :
+
+- avertisseur acoustique ;
+
+- dispositifs de retenue pour passagers de véhicules à deux roues ;
+
+- antivol ;
+
+- dispositifs d'éclairage et de signalisation (1) ;
+
+- dispositifs d'échappement (1) ;
+
+- rétroviseurs (1) ;
+
+- ceintures de sécurité (1) ;
+
+- pneumatiques (1) ;
+
+- dispositifs d'attelage (1).
+
+(1) En l'attente d'une directive particulière, les dispositions du second paragraphe de l'article 34 du présent arrêté sont d'application.

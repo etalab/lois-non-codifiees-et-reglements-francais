@@ -1,0 +1,3 @@
+# Article 35
+
+Conformément aux dispositions de l'article 33 du décret n° 95-398 du 12 avril 1995 susvisé, les réceptions nationales par type de véhicules délivrées jusqu'au 31 décembre 1995 au titre notamment des arrêtés visés aux articles 29 à 33 du présent arrêté, ou jusqu'au 30 juin 1996 au titre notamment de l'arrêté visé à son article 33, restent valables jusqu'au 1er mai 1999. Les homologations des équipements énumérés au 3° de l'annexe I du présent arrêté délivrées avant le 31 décembre 1995 au titre des arrêtés susvisés restent valables jusqu'au 1er mai 1999 pour la première monte, et sans limitation de durée pour le marché du remplacement.
