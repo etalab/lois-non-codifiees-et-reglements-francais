@@ -1,21 +1,21 @@
 # Article 14
 
-Le transporteur informe 48 heures à l'avance l'autorité départementale de la police ou de la gendarmerie nationales compétente du lieu de départ du transport de produits explosifs en lui adressant une fiche comprenant les informations suivantes :
+Coffre à détonateurs.
 
-- catégorie et quantité de substances ;
+Le coffre destiné à recevoir les détonateurs doit être métallique, à structure et parois résistantes, fixé solidement aux parois ou au plancher du véhicule. La porte du coffre doit être munie d'une serrure de sécurité et d'un système d'alarme contre les effractions. Le système d'alarme doit être un système sonore agréé par le service des transmissions du ministère de l'intérieur après vérification de sa conformité à un cahier des charges fixé par arrêté des ministres de l'intérieur et de l'industrie.
 
-- heure de départ ;
+Lorsque le coffre est placé dans un véhicule dont les parois offrent une protection suffisante, le système d'alarme peut être reporté sur la porte du véhicule.
 
-- heure approximative d'arrivée ;
+En un endroit bien visible, le numéro d'immatriculation ou à défaut, le numéro d'identification du véhicule sera frappé à froid, soit directement sur le coffre, soit sur une plaque fixée par rivets sur le coffre.
 
-- lieu précis de départ ;
+Le coffre doit être présenté à la direction interdépartementale de l'industrie monté sur le véhicule et accompagné d'un dossier constitué par les pièces suivantes :
 
-- destination ;
+- état descriptif du coffre, de ses fixations ;
 
-- itinéraire ;
+- plan et croquis cotés du coffre et des fixations.
 
-- noms des membres de l'équipage ;
+La direction interdépartementale de l'industrie :
 
-- type de moyen de transport et numéro d'immatriculation du véhicule ;
+- appose, s'il y a lieu, son poinçon de part et d'autre du numéro frappé sur le coffre et le cas échéant sur chacun des rivets ;
 
-- moyens de communication (numéro de téléphone mobile des personnels, indicatifs radio) et dans le cadre d'une procédure d'appels réguliers effectués par l'équipage à destination d'une personne physique ou morale, tel que précisé dans l'article 11 supra, ses coordonnées.
+- transmet le dossier au préfet en y joignant son avis.

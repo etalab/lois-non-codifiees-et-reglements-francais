@@ -1,3 +1,3 @@
 # Article 9
 
-Le transport des produits explosifs s'effectue conformément aux dispositions de la réglementation prise en application de la loi du 5 février 1942 et des accords internationaux réglementant le transport des marchandises dangereuses par route (ADR), chemin de fer (RID) et voies de navigation intérieure (ADNR) et conformément à l'application des mesures complémentaires de sûreté prévues au présent arrêté.
+Les véhicules destinés au transport des explosifs se définissent par référence au règlement pour le transport des matières dangereuses du 15 avril 1945. Ces véhicules sont aménagés conformément aux dispositions dudit règlement, sans préjudice de l'application de mesures complémentaires de sécurité prévues au présent arrêté.

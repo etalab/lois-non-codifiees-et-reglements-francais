@@ -2,4 +2,4 @@
 
 Aménagement des véhicules.
 
-Le responsable d'établissement où s'effectue le chargement ou le remplissage de produits explosifs s'assure que les dispositions susmentionnées sont respectées. En l'absence de l'un de ces équipements, le chargement ne peut être effectué.
+Les détonateurs et les autres explosifs doivent être transportés dans des coffres séparés. Le coffre, contenant les détonateurs, doit être fermé à clé et doit satisfaire aux spécifications de l'article 14 ci-après.

@@ -1,4 +1,4 @@
-# Titre II : Utilisation des explosifs des leur réception à leur lieu d'emploi.
+# Titre II : Régime d'autorisation des personnes assurant le transport des explosifs.
 
 - [Article 2](article-2.md)
 - [Article 3](article-3.md)

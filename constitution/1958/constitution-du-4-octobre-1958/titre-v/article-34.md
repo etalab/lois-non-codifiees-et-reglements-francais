@@ -26,7 +26,7 @@ La loi détermine les principes fondamentaux :
 
 - de l'organisation générale de la Défense nationale ;
 
-- de la libre administration des collectivités locales, de leurs compétences et de leurs ressources ;
+- de la libre administration des collectivités territoriales ,de leurs compétences et de leurs ressources ;
 
 - de l'enseignement ;
 
