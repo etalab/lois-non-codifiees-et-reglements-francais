@@ -439,7 +439,6 @@
 - [Arrêté du 12 mars 1993 (SANH9202989A)](arrete-du-12-mars-1993-sanh9202989a)
 - [Arrêté du 12 mars 1993 (SANH9202992A)](arrete-du-12-mars-1993-sanh9202992a)
 - [Arrêté du 12 mars 1993 (SANH9202995A)](arrete-du-12-mars-1993-sanh9202995a)
-- [Arrêté du 12 novembre 1986](arrete-du-12-novembre-1986)
 - [Arrêté du 12 novembre 1992 (SANH9202949A)](arrete-du-12-novembre-1992-sanh9202949a)
 - [Arrêté du 12 octobre 1992 (EQUS9201449A)](arrete-du-12-octobre-1992-equs9201449a)
 - [Arrêté du 12 octobre 1992 (JUSG9260065A)](arrete-du-12-octobre-1992-jusg9260065a)

@@ -904,7 +904,6 @@
 - [Décret n°92-825 du 26 août 1992 (LOGC9200035D)](decret-n92-825-du-26-aout-1992-logc9200035d)
 - [Décret n°92-829 du 26 août 1992 (SPSS9201753D)](decret-n92-829-du-26-aout-1992-spss9201753d)
 - [Décret n°92-830 du 26 août 1992 (SPSS9201774D)](decret-n92-830-du-26-aout-1992-spss9201774d)
-- [Décret n°92-880 du 26 août 1992 (SANP9201158D)](decret-n92-880-du-26-aout-1992-sanp9201158d)
 - [Décret n°93-264 du 26 février 1993 (BUDF9300057D)](decret-n93-264-du-26-fevrier-1993-budf9300057d)
 - [Décret n°93-265 du 26 février 1993 (BUDF9300065D)](decret-n93-265-du-26-fevrier-1993-budf9300065d)
 - [Décret n°93-266 du 26 février 1993 (BUDF9300043D)](decret-n93-266-du-26-fevrier-1993-budf9300043d)
