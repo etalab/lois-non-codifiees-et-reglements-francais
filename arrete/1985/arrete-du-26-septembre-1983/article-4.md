@@ -14,6 +14,8 @@ Directeur des caisses de 2e et 3e catégorie des régimes d'assurance vieillesse
 
 5. Sous-directeur des caisses mutuelles régionales de 1ère, 2è et 3e catégorie.
 
+6. Sous-directeur de 2ème classe da la Caisse nationale du régime d'assurance maladie et maternité des travailleurs non salariés des professions non agricoles.
+
 Classe B
 
 1. Directeur des caisses de 1ère catégorie des régimes d'assurance vieillesse des artisans, industriels et commerçants.
@@ -28,7 +30,9 @@ Classe B
 
 6. Sous-directeur des caisses mutuelles régionales et catégorie exceptionnelle.
 
-7. Sous-directeur et secrétaire général des caisses nationales.
+7. Sous-directeur et secrétaire général des caisses nationales des régimes d'assurance vieillesse des artisans, industriels et commerçants.
+
+8. Sous-directeur de 1re classe da la Caisse nationale du régime d'assurance maladie et maternité des travailleurs non salariés des professions non agricoles.
 
 Classe A
 

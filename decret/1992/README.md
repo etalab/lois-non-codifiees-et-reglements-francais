@@ -11,6 +11,7 @@
 - [Décret n°92-1250 du 1 décembre 1992 (DEFP9201986D)](decret-n92-1250-du-1-decembre-1992-defp9201986d)
 - [Décret n°92-1251 du 1 décembre 1992 (DEFP9201959D)](decret-n92-1251-du-1-decembre-1992-defp9201959d)
 - [Décret n°92-1259 du 1 décembre 1992 (INTB9200490D)](decret-n92-1259-du-1-decembre-1992-intb9200490d)
+- [Décret n°92-1265 du 1 décembre 1992 (DOMP9200023D)](decret-n92-1265-du-1-decembre-1992-domp9200023d)
 - [Décret n°92-340 du 1 avril 1992 (ECOC9200033D)](decret-n92-340-du-1-avril-1992-ecoc9200033d)
 - [Décret n°92-341 du 1 avril 1992 (ECOT9226058D)](decret-n92-341-du-1-avril-1992-ecot9226058d)
 - [Décret n°92-343 du 1 avril 1992 (VILM9100035D)](decret-n92-343-du-1-avril-1992-vilm9100035d)
