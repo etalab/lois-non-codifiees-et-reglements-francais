@@ -4,9 +4,9 @@ INDUSTRIES EXTRACTIVES ET MATERIAUX DE CONSTRUCTION :
 
 REFERENCE  NOMENCLATURE INSEE DES ACTIVITES  BAREME   04     Production de combustibles minéraux             solides et cokéfaction :
 
-0411     Production de combustibles minéraux       B.
+0411     Production de combustibles minéraux             solides                                  B.
 
-solides   0421     Cokéfaction                               B.
+0421     Cokéfaction                               B.
 
 05      Production de pétrole et de gaz             naturel :
 
@@ -62,7 +62,9 @@ asphalte, talc, etc...                   A.
 
 METALLURGIE ET PREMIERE TRANSFORMATION DES METAUX, MECANIQUE,         ELECTRICITE, ELECTROTECHNIQUE ET ELECTRONIQUE :
 
-REFERENCE  NOMENCLATURE INSEE DES ACTIVITES  BAREME   10       Sidérurgie                                A.
+REFERENCE  NOMENCLATURE INSEE DES ACTIVITES  BAREME
+
+10       Sidérurgie                                A.
 
 11       Première transformation de l'acier        A.
 
@@ -82,13 +84,15 @@ REFERENCE  NOMENCLATURE INSEE DES ACTIVITES  BAREME   10       Sidérurgie      
 
 25       Fabrication de matériel de             manutention, de matériel pour les             mines, la sidérurgie, le génie civil     A.
 
-27       Fabrication de machines de bureau et             de matériel de traitement de             l'information                            B.
+27       Fabrication de machines de bureau et             de matériel de traitement de             l'information (sauf 2701 :
+
+fabrication de matériel de             traitement de l'information).            C.
 
 28       Fabrication de matériel électrique        B.
 
 (Sauf 2814 : Fabrication             d'isolateurs et pièces isolantes)        A.
 
-29       Fabrication de matériel électronique             ménager et professionnel                 B.
+29       Fabrication de matériel électronique             ménager et professionnel                 C.
 
 30       Fabrication d'équipement ménager          A.
 
@@ -110,7 +114,9 @@ REFERENCE  NOMENCLATURE INSEE DES ACTIVITES  BAREME   10       Sidérurgie      
 
 VERRERIE ET CERAMIQUE :
 
-REFERENCE  NOMENCLATURE INSEE DES ACTIVITES  BAREME   2402     Fabrication et installation de             fours. Pour partie : fours et             céramique, d'émaillerie, de             verrerie                                 A.
+REFERENCE  NOMENCLATURE INSEE DES ACTIVITES  BAREME
+
+2402     Fabrication et installation de             fours. Pour partie : fours et             céramique, d'émaillerie, de             verrerie                                 A.
 
 1510     Tuiles et briques                         A.
 
@@ -136,7 +142,9 @@ REFERENCE  NOMENCLATURE INSEE DES ACTIVITES  BAREME   2402     Fabrication et in
 
 BATIMENT ET TRAVAUX PUBLICS :
 
-REFERENCE  NOMENCLATURE INSEE DES ACTIVITES  BAREME   0802     Chauffage urbain et distribution             d'énergies diverses                      A.
+REFERENCE  NOMENCLATURE INSEE DES ACTIVITES  BAREME
+
+0802     Chauffage urbain et distribution             d'énergies diverses                      A.
 
 1508     Fabrication de produits en béton          A.
 
@@ -190,7 +198,9 @@ REFERENCE  NOMENCLATURE INSEE DES ACTIVITES  BAREME   0802     Chauffage urbain 
 
 CHIMIE :
 
-REFERENCE  NOMENCLATURE INSEE DES ACTIVITES  BAREME   05     Production de pétrole et de gaz             naturel :
+REFERENCE  NOMENCLATURE INSEE DES ACTIVITES  BAREME
+
+05     Production de pétrole et de gaz             naturel :
 
 0531     Raffinage de pétrole                      C.
 
@@ -224,9 +234,7 @@ REFERENCE  NOMENCLATURE INSEE DES ACTIVITES  BAREME   05     Production de pétr
 
 1724     Fabrication de produits de base pour             la pharmacie                             B.
 
-1725     Fabrication de produits auxiliaires             pour les industries textiles, du             cuir et du caoutchouc ;
-
-transformation de matières animales             et végétales                             B.
+1725     Fabrication de produits auxiliaires             pour les industries textiles, du             cuir et du caoutchouc ;             transformation de matières animales             et végétales                             B.
 
 1726     Fabrication et distillation de             goudrons                                 B.
 
@@ -262,7 +270,9 @@ transformation de matières animales             et végétales                 
 
 CHIMIE :
 
-REFERENCE  NOMENCLATURE INSEE DES ACTIVITES  BAREME   19     Industrie pharmaceutique :
+REFERENCE  NOMENCLATURE INSEE DES ACTIVITES  BAREME
+
+19     Industrie pharmaceutique :
 
 1901     Fabrication de spécialités             pharmaceutiques                          B.
 
@@ -502,7 +512,9 @@ REFERENCE  NOMENCLATURE INSEE DES ACTIVITES  BAREME   68     Transports ferrovia
 
 TECHNIQUES AUDIOVISUELLES ET DE COMMUNICATION :
 
-REFERENCE  NOMENCLATURE INSEE DES ACTIVITES  BAREME   5101     Agences de presse                         C.
+REFERENCE  NOMENCLATURE INSEE DES ACTIVITES  BAREME
+
+5101     Agences de presse                         C.
 
 5110     Imprimerie de labeur                      A.
 
@@ -728,21 +740,11 @@ REFERENCE  NOMENCLATURE INSEE DES ACTIVITES  BAREME   76     Holdings           
 
 A l'exception de :
 
-7701     Cabinets d'études techniques.
-
-7705     Cabinets d'architecte.
-
-7706     Cabinets de métreur et de géomètre.
-
-7710     Créateurs et intermédiaires en             publicité.
-
-80     Location et crédit-bail mobiliers           A.
+7701     Cabinets d'études techniques.   7705     Cabinets d'architecte.   7706     Cabinets de métreur et de géomètre.   7710     Créateurs et intermédiaires en             publicité.   80     Location et crédit-bail mobiliers           A.
 
 A l'exception de :
 
-8007     Crédit-bail mobilier.
-
-83       Recherche (services marchands)            A.
+8007     Crédit-bail mobilier.   83       Recherche (services marchands)            A.
 
 TOURISME, HOTELLERIE, LOISIRS :
 
