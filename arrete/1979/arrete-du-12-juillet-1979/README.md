@@ -1,5 +1,9 @@
-# Arrêté du 12 juillet 1979 relatif aux remises à allouer par les caisses primaires d'assurance maladie, au titre des frais de gestion, aux sociétés mutualistes de fonctionnaires habilitées à organiser des sections locales ou à assurer le rôle de correspondant.
+# Arrêté du 12 juillet 1979 PORTANT CREATION D'UNE COMMISSION PARITAIRE AUPRES DE L'AGENCE NATIONALE POUR L'EMPLOI.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
 - [Article 3](article-3.md)
+- [Article 4](article-4.md)
+- [Article 5](article-5.md)
+- [Article 6](article-6.md)
+- [Article 7](article-7.md)

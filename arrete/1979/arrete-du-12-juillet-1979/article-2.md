@@ -1,5 +1,25 @@
 # Article 2
 
-La remise correspond à concurrence des quatre cinquième de son montant aux frais de personnel et pour le reste aux autres dépenses d'exploitation.
+Cette commission est composée de huit [*nombre*] membres, à savoir :
 
-Chacun de ces éléments est revalorisé, chaque année [*périodicité*], le premier en fonction du taux d'augmentation de la masse salariale théorique à effectif constant dont a bénéficié le personnel des organismes de sécurité sociale au cours de l'année écoulée, le second en fonction de l'évolution de l'indice des prix à la consommation au cours de l'année écoulée.
+Quatre représentants de l'administration désignés par le directeur général de l'ANPE :
+
+Le secrétaire général ou son délégué, président ;
+
+Un membre de la division de l'administration du personnel ;
+
+Un membre de la division de l'ordonnancement ;
+
+Un membre du comité d'hygiène et de sécurité de l'ANPE.    Quatre représentants du personnel désignés par les organisations syndicales les plus représentatives, à savoir :
+
+Un représentant pour la CFDT ;
+
+Un représentant pour la CGT ;
+
+Un représentant pour la CGT-FO ;
+
+Un représentant pour la SNAP.
+
+Il est désigné un suppléant pour chaque représentant de l'administration et chaque représentant du personnel.
+
+Les délégués du personnel sont nommés pour trois ans [*durée*] ; leur mandat peut être renouvelé.

@@ -1,7 +1,17 @@
 # Article 1
 
-Il est accordé aux sociétés, sections ou unions de sociétés mutualistes de fonctionnaires habilitées à organiser des sections locales ou à assurer le rôle de correspondants locaux, pour chaque décompte de prestations de fonctionnaires et d'ouvriers d'Etat, une remise correspondant aux frais de gestion administrative afférents au service des prestations légales.
+Il est constitué auprès de l'Agence nationale pour l'emploi une commission paritaire [*attribution*] chargée de donner, en matière d'accidents du travail et de maladies professionnelles, son avis :
 
-Le décompte au sens du premier alinéa du présent article est défini par une convention conclue entre la caisse nationale de l'assurance maladie des travailleurs salariés et les sociétés mutualistes nationales de fonctionnaires et agents de l'Etat.
+1. Sur les droits de la victime ou de ses ayants droit à rente d'accident du travail ;
 
-Lorsque les groupements visés ci-dessus n'accomplissent qu'une partie des opérations nécessitées par le décompte d'un dossier de prestations, la remise correspondant aux frais de gestion administrative est réduite conformément au barème figurant en annexe.
+2. Sur le montant de ladite rente ;
+
+3. Sur le rachat et la révision des rentes ;
+
+4. Sur l'allocation provisionnelle aux ayants droit en cas d'accident mortel ;
+
+5. Sur les avances sur rente en cas de contestation ne portant pas sur le caractère professionnel de l'accident ;
+
+6. Conformément aux dispositions du décret n. 60-116 du 8 février 1960 relatif au contentieux des régimes spéciaux de sécurité sociale, sur les recours gracieux préalables formulés contre les décisions de l'administration ;
+
+7. Sur toutes les questions concernant l'application de la législation relative aux accidents du travail que le directeur général estimerait devoir lui soumettre.
