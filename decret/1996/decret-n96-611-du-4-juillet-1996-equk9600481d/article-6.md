@@ -1,37 +1,13 @@
 # Article 6
 
-I. - Les procédures d'évaluation de la conformité aux exigences essentielles de sécurité des bateaux de plaisance et des éléments et pièces d'équipement mentionnés à l'annexe II peuvent être les suivantes :
+I. - Les procédures d'évaluation de la conformité des produits mentionnés à l'article 1er aux exigences essentielles de sécurité définies à l'annexe I se déroulent conformément aux dispositions du A de l'annexe IV du présent décret.
 
-- le contrôle interne de la fabrication ou "module A", défini à l'annexe IV du présent décret ;
+II. - Avant de mettre sur le marché ou de mettre en service les bateaux de plaisance, les bateaux de plaisance partiellement achevés, les véhicules nautiques à moteur ainsi que les éléments et pièces d'équipement mentionnés à l'annexe II, le fabricant ou son mandataire établi sur le territoire de l'un des Etats membres de la Communauté européenne ou d'un autre Etat partie à l'accord instituant l'Espace économique européen procède ou fait procéder à la vérification de la conformité de leur conception et de leur fabrication aux exigences essentielles de sécurité selon les modalités définies aux B et C de l'annexe IV du présent décret.
 
-- le contrôle interne de la fabrication complété par des essais ou "module A bis", défini à l'annexe V du présent décret ;
+III. - Avant de mettre sur le marché ou de mettre en service les moteurs de propulsion mentionnés au 2° du I de l'article 1er ci-dessus, le fabricant ou son mandataire établi sur le territoire de l'un des Etats membres de l'Union européenne ou d'un autre Etat partie à l'accord instituant l'Espace économique européen procède ou fait procéder à la vérification de leur conformité aux exigences essentielles concernant les émissions gazeuses des moteurs, selon les modalités définies au D de l'annexe IV du présent décret.
 
-- l'examen "CE de type" ou "module B", défini à l'annexe VI du présent décret ;
+IV. - Avant de mettre sur le marché ou de mettre en service les bateaux de plaisance mentionnés aux a et b du 3° du I de l'article 1er ainsi que les produits mentionnés aux c et d du 3° du même article, le fabricant ou son mandataire établi sur le territoire de l'un des Etats membres de la Communauté européenne ou d'un autre Etat partie à l'accord instituant l'Espace économique européen procède ou fait procéder à la vérification de leur conformité aux exigences essentielles en matière d'émissions sonores, conformément aux prescriptions respectivement du E et du F de l'annexe IV du présent décret.
 
-- la conformité au type ou "module C", définie à l'annexe VII du présent décret ;
+V. - En cas d'évaluation de bateaux de plaisance après construction, lorsque ni le fabricant ni un mandataire établi sur le territoire de l'un des Etats membres de la Communauté européenne ou d'un autre Etat partie à l'accord instituant l'Espace économique européen n'assument les responsabilités relatives à la conformité du produit aux dispositions du présent décret, celles-ci peuvent être assumées par toute personne physique ou morale établie sur le territoire de l'un de ces Etats qui met le produit sur le marché ou le met en service sous sa propre responsabilité. Cette personne doit adresser à un organisme notifié en application de l'article 7 ci-dessous une demande de compte rendu d'examen après construction, en lui fournissant tout document et dossier technique disponible se rapportant à la première mise sur le marché du produit dans le pays d'origine. L'organisme notifié s'assure que ce produit présente des caractéristiques en matière de sécurité et d'émissions sonores et gazeuses équivalentes à celles exigées par le présent décret.
 
-- l'assurance de la qualité de la production ou "module D", définie à l'annexe VIII du présent décret ;
-
-- la vérification sur produits ou "module F", définie à l'annexe IX du présent décret ;
-
-- la vérification à l'unité ou "module G", définie à l'annexe X du présent décret ;
-
-- l'assurance qualité complète ou "module H", définie à l'annexe XI du présent décret.
-
-II. - Avant de mettre sur le marché les bateaux de plaisance, le constructeur, son mandataire établi sur le territoire de l'un des Etats membres de l'Union européenne ou dans un autre Etat partie à l'accord instituant l'Espace économique européen ou la personne responsable de la première mise sur le marché, doit procéder ou faire procéder à la vérification de leur conformité aux exigences essentielles en faisant à cet effet application des prescriptions d'un des modules ou d'un groupe de modules mentionnés à l'alinéa ci-dessus. Le choix du module ou du groupe de modules est fonction de la catégorie du bateau et de sa longueur.
-
-1. Pour les catégories A et B :
-
-- si le bateau a une longueur de coque inférieure à 12 mètres, la procédure d'évaluation de la conformité est le module A bis ;
-
-- si le bateau a une longueur de coque égale ou supérieure à 12 mètres, la procédure d'évaluation de la conformité est soit le module B complété par le module C, ou par le module D, ou par le module F, soit le module G, soit le module H.
-
-2. Pour la catégorie C :
-
-- si le bateau a une longueur de coque inférieure à 12 mètres, la procédure d'évaluation de la conformité est le module A en cas de respect des normes harmonisées relatives aux points 3.2 (stabilité et franc-bord) et 3.3 (flottabilité) de l'annexe I du présent décret et le module A bis en cas de non-respect de ces normes ;
-
-- si le bateau a une longueur de coque égale ou supérieure à 12 mètres, la procédure d'évaluation de la conformité est soit le module B complété par le module C, ou par le module D, ou par le module F, soit le module G, soit le module H.
-
-3. Pour la catégorie D, la procédure d'évaluation de la conformité est le module A.
-
-III. - Avant de mettre sur le marché des éléments et pièces d'équipement mentionnés à l'annexe II, le fabricant, son mandataire établi sur le territoire de l'un des Etats membres de l'Union européenne ou dans un autre Etat partie à l'accord instituant l'Espace économique européen ou la personne responsable de la première mise sur le marché, applique, pour vérifier la conformité du produit aux exigences essentielles de sécurité, soit le module B complété par le module C, ou par le module D, ou par le module F, soit le module G, soit le module H.
+Dans ce cas, la plaque du constructeur mentionnée au 2.2 de l'annexe I, partie A, comporte l'inscription "Certificat après construction". L'organisme notifié établit un rapport de conformité et informe la personne qui met le produit sur le marché ou le met en service des obligations qui lui incombent. Cette dernière établit une déclaration de conformité comprenant les éléments mentionnés à l'annexe XIV et appose ou fait apposer sur le produit le marquage "CE" accompagné du numéro distinctif de l'organisme notifié compétent.

@@ -2,15 +2,15 @@
 
 Seront punis des peines d'amende prévues pour les contraventions de la 5e classe :
 
-1° Ceux qui auront détenu en vue de la vente, mis en vente, vendu, cédé à titre gratuit un bateau ou un élément ou pièce d'équipement neuf non revêtu du marquage "CE" ;
+1° Ceux qui auront détenu en vue de la vente, mis en vente, vendu ou cédé à titre gratuit un produit neuf mentionné à l'article 1er non revêtu du marquage "CE" ;
 
-2° Ceux qui auront importé au sens du second alinéa du I de l'article 2 un bateau de plaisance ou un élément ou une pièce d'équipement mentionné à l'annexe II du présent décret qui ne satisfont pas aux exigences de sécurité ;
+2° Ceux qui auront importé au sens du second alinéa du I de l'article 2 un produit mentionné à l'article 1er qui ne satisfait pas aux exigences essentielles de sécurité, de santé, de protection de l'environnement et de protection des consommateurs ;
 
 3° Ceux qui auront apposé des marques ou des inscriptions susceptibles d'induire des tiers en erreur quant à la signification ou au graphisme du marquage "CE" ;
 
-4° Ceux qui auront exposé, lors de foires ou salons, un bateau ou un élément ou pièce d'équipement sans respecter les dispositions de l'article 5-III ;
+4° Ceux qui auront exposé, lors de foires ou salons, un produit mentionné à l'article 1er sans respecter les dispositions du paragraphe III de l'article 5 ;
 
-5° Les personnes visées à l'article 6, qui ne sont pas en mesure de présenter les documents mentionnés à l'article 2-III, justifiant qu'elles ont rempli les obligations de contrôle définies en fonction de la catégories du bateau et de sa longueur.
+5° Les personnes visées à l'article 6, qui ne sont pas en mesure de présenter les documents mentionnés au paragraphe III de l'article 2, justifiant qu'elles ont rempli les obligations de contrôle définies en fonction du type de produit ;
 
 En cas de récidive, la peine d'amende prévue pour la récidive de la contravention de la 5e classe est applicable.
 
