@@ -1,0 +1,3 @@
+# Article 7
+
+Sous réserve que soit remplie, le cas échéant, la condition de durée de versement des cotisations du régime des avantages sociaux complémentaires de vieillesse prévue à l'article 6 ci-dessus, les praticiens et auxiliaires médicaux peuvent faire valider pour l'ouverture du droit et, moyennant rachat à la charge exclusive des intéressés, pour le calcul des avantages dudit régime, un nombre d'années d'exercice non-salarié au plus égal au double du nombre d'années accomplies par eux antérieurement au 1er janvier 1962 et prises en considération en application soit de l'article 6 ci-dessus, soit du quatrième alinéa de l'article L. 682 du Code de la sécurité sociale.
