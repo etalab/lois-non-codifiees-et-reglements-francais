@@ -1,13 +1,15 @@
 # Article 1
 
-La session de formation des assistants prévue à l'article 16 du décret du 13 juin 1969 susvisé et débutant à compter du 1er janvier 1985 se déroule comme suit :
+La session de formation des assistants de direction mentionnée à l'article 16 du décret du 13 juin 1969 susvisé se déroulera, à compter du 1er janvier 1986, comme suit :
 
-Période d'enseignement d'un mois à l'Ecole nationale de la santé publique ;
+- Période d'enseignement à l'Ecole nationale de la santé publique : du 6 au 31 janvier 1986 ;
 
-Stage dans un établissement hospitalier public du 1er février 1985 au 9 avril 1985 ;
+- stage dans un établissement hospitalier public : du 3 février au 28 mars 1986 ;
 
-Période d'enseignement à l'Ecole nationale de la santé publique du 9 avril au 30 juin 1985 ;
+- Période d'enseignement à l'Ecole nationale de la santé publique : du 7 avril au 27 juin 1986 ;
 
-Stage hospitalier du 1er juillet au 30 septembre 1985 (incluant la Période de congé) ;
+- stage dans un établissement hospitalier public : du 30 juin au 26 septembre 1986 (incluant la Période de congé) ;
 
-Période d'enseignement de trois mois à l'Ecole nationale de la santé publique.
+Période d'enseignement à l'Ecole nationale de la santé publique :
+
+du 29 septembre au 19 décembre 1986.

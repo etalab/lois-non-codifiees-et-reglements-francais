@@ -1,7 +1,3 @@
 # Article 5
 
-Le comité scientifique propose les orientations scientifiques, donne son avis sur les programmes de recherche soumis au comité de direction et procède à l'évaluation des résultats :
-
-- il est consulté sur la diffusion des informations concernant le programme ;
-
-- il établit un rapport annuel.
+Les dispositions du présent arrêté s'appliquant à la formation de la première promotion qui sera recrutée en application de l'article 10 du décret du 13 juin 1969 susvisé.

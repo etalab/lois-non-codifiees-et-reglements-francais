@@ -1,15 +1,17 @@
 # Article 2
 
-Le comité de direction du programme Deforpa comprend :
+I. L'examen de fin de session prévu à l'article 10 du décret du 13 juin 1969 susvisé comporte :
 
-- le chef du service de la recherche, des études et du traitement de l'information sur l'environnement au ministère de l'environnement, président ;
+a) Une épreuve écrite (durée : 4 heures) relative aux problèmes d'administration dans les établissements mentionnés à l'article L. 792 du code de la santé publique ou relative aux problèmes concernant l'organisation générale de la politique sanitaire ou en France ;
 
-- le directeur de la prévention des pollutions ou son représentant ;
+b) Un rapport de stage établi par le candidat faisant apparaître les enseignements qu'il en a retirés.
 
-- le directeur des forêts ou son représentant ;
+Les épreuves ci-dessous sont notées de 0 à 20 et chacune est affectée du coefficient 2 ; elles font l'objet d'une double correction.
 
-- le président de la mission scientifique et technique au ministère de la recherche et de la technologie ou son représentant ;
+II. - Aux notes attribuées aux épreuves prévues au I ci-dessus, s'ajoutent :
 
-- le directeur général de l'Office national des forêts ou son représentant.
+a) Une note de stage hospitalier exprimée de 0 à 20 et attribuée par le directeur de l'école sur proposition des directeurs des établissements d'accueil (coefficient 3) ;
 
-Il comprend également les représentants des grands organismes scientifiques concernés ainsi que le président du comité scientifique visé à l'article 4 du présent arrêté. Les membres du comité de direction sont nommés par le ministre de l'environnement.
+b) La moyenne des notes obtenues lors des contrôles de connaissances organisés en cours d'année à l'école (coefficient 3).
+
+Un total de 100 points au minimum est requis pour la titularisation en qualité de directeur de 4e classe.

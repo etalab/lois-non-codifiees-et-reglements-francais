@@ -4,4 +4,4 @@ Pour les personnes autres que celles visées aux articles précédents et qui, e
 
 Ce dernier supporte, dans tous les cas, la charge [*financière*] des cotisations, sans préjudice des dispositions de l'article 137 du présent décret.
 
-Le salaire à prendre en considération pour le calcul tant des cotisations que des indemnités est déterminé conformément aux dispositions du quatrième alinéa de l'article 2.
+Le salaire à prendre en considération pour le calcul tant des cotisations que des indemnités est déterminé conformément aux dispositions de l'article 7-1.
