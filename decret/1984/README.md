@@ -301,7 +301,6 @@
 - [Décret n°84-227 du 29 mars 1984](decret-n84-227-du-29-mars-1984)
 - [Décret n°84-228 du 29 mars 1984](decret-n84-228-du-29-mars-1984)
 - [Décret n°84-229 du 29 mars 1984](decret-n84-229-du-29-mars-1984)
-- [Décret n°84-235 du 29 mars 1984](decret-n84-235-du-29-mars-1984)
 - [Décret n°84-240 du 29 mars 1984](decret-n84-240-du-29-mars-1984)
 - [Décret n°84-403 du 29 mai 1984](decret-n84-403-du-29-mai-1984)
 - [Décret n°84-411 du 29 mai 1984](decret-n84-411-du-29-mai-1984)
