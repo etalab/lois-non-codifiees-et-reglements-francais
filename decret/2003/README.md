@@ -70,6 +70,7 @@
 - [Décret n°2002-1449 du 12 décembre 2002 (BUDD0204003D)](decret-n2002-1449-du-12-decembre-2002-budd0204003d)
 - [Décret n°2003-129 du 12 février 2003 (ECOT0291180D)](decret-n2003-129-du-12-fevrier-2003-ecot0291180d)
 - [Décret n°91-921 du 12 septembre 1991 (AGRA9101669D)](decret-n91-921-du-12-septembre-1991-agra9101669d)
+- [Décret n°2003-122 du 13 février 2003 (EQUB0201857D)](decret-n2003-122-du-13-fevrier-2003-equb0201857d)
 - [Décret n°2003-36 du 13 janvier 2003 (DEVX0306258D)](decret-n2003-36-du-13-janvier-2003-devx0306258d)
 - [Décret n°2003-52 du 13 janvier 2003 (FPPA0310000D)](decret-n2003-52-du-13-janvier-2003-fppa0310000d)
 - [Décret n°86-68 du 13 janvier 1986](decret-n86-68-du-13-janvier-1986)
