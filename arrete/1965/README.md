@@ -20,6 +20,7 @@
 - [Arrêté du 15 décembre 1966](arrete-du-15-decembre-1966)
 - [Arrêté du 17 février 1965](arrete-du-17-fevrier-1965)
 - [Arrêté du 19 mars 1965](arrete-du-19-mars-1965)
+- [Arrêté du 22 septembre 1965](arrete-du-22-septembre-1965)
 - [Arrêté du 23 juillet 1965](arrete-du-23-juillet-1965)
 - [Arrêté du 23 mars 1965](arrete-du-23-mars-1965)
 - [Arrêté du 24 février 1965](arrete-du-24-fevrier-1965)
