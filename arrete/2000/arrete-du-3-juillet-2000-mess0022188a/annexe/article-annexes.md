@@ -460,7 +460,7 @@ Ateliers Danno, rue Arthur-Enaud, 22600 Loudéac : de 1973 à 1993 ;
 
 Avel Industries, LD Kermeur, 22530 Mur-de-Bretagne : de 1986 à 1993 ;
 
-Chaffoteaux et Maury : Les Chatelets, 22440 Ploufragan, de 1958 à 1996 ;
+Chaffauteaux et Maury, Le Légué, 22000 Saint-Brieuc, de 1958 à 1969, puis Les Châtelets, 22440 Ploufragan, de 1969 à 1996 ;
 
 Deleage, avenue du Général-Ferrie, 35400 Saint-Malo : de 1989 à 1998 ;
 
