@@ -7,4 +7,3 @@
 - [Chapitre V : Exercice du droit d'accès.](chapitre-v)
 - [Chapitre VI : Dispositions pénales.](chapitre-vi)
 - [Chapitre VII : Dispositions diverses.](chapitre-vii)
-- [LA COMMISSION NATIONALE DE L'INFORMATIQUE ET DES LIBERTES](la-commission-nationale-de-l-informatique-et)

@@ -5,4 +5,3 @@
 - [Titre III : Des établissements professionnels.](titre-iii)
 - [Titre IV : Dispositions diverses.](titre-iv)
 - [Article 15](article-15.md)
-- [Article 18](article-18.md)

@@ -5,4 +5,3 @@
 - [Article 2](article-2.md)
 - [Titre II : Conseil supérieur des messageries de presse.](titre-ii)
 - [Titre III : Du sort des biens des messageries Hachette.](titre-iii)
-- [STATUT DES SOCIETES COOPERATIVES DE MESSAGERIES DE PRESSE](statut-des-societes-cooperatives-de-messageries-de-presse)

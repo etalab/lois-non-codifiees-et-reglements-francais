@@ -1,6 +1,5 @@
 # Loi n° 89-421 du 23 juin 1989 relative à l'information et à la protection des consommateurs ainsi qu'à diverses pratiques commerciales
 
-- [Article 5](article-5.md)
 - [Article 6](article-6.md)
 - [Article 7](article-7.md)
 - [Article 9](article-9.md)

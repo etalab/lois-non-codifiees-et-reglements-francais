@@ -54,7 +54,6 @@
 - [Décret n°87-364 du 4 juin 1987 (MCCT8700254D)](decret-n87-364-du-4-juin-1987-mcct8700254d)
 - [Décret n°87-372 du 4 juin 1987 (MERR8700017D)](decret-n87-372-du-4-juin-1987-merr8700017d)
 - [Décret n°87-433 du 4 juin 1987 (ECOT8759033D)](decret-n87-433-du-4-juin-1987-ecot8759033d)
-- [Décret n°87-618 du 4 août 1987 (INTE8700197D)](decret-n87-618-du-4-aout-1987-inte8700197d)
 - [Décret n°87-627 du 4 août 1987 (ASES8701006D)](decret-n87-627-du-4-aout-1987-ases8701006d)
 - [Décret n°87-1 du 5 janvier 1987](decret-n87-1-du-5-janvier-1987)
 - [Décret n°87-153 du 5 mars 1987](decret-n87-153-du-5-mars-1987)

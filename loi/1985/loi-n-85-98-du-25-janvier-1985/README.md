@@ -8,5 +8,4 @@
 - [Titre IV : Voies de recours.](titre-iv)
 - [Titre V : Dispositions particulières aux personnes morales et à leurs dirigeants.](titre-v)
 - [Titre VI : Faillite personnelle et autres mesures d'interdiction.](titre-vi)
-- [Titre VII : Banqueroute et autres infraction](titre-vii)
 - [Titre VIII : Dispositions diverses.](titre-viii)
