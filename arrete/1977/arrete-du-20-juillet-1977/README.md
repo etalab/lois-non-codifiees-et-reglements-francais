@@ -1,5 +1,16 @@
-# Arrêté du 20 juillet 1977 relatif à la répartition des frais de chauffage dans les immeubles neufs à usage autre que d'habitation
+# Arrêté du 20 juillet 1977 pris pour l'application du décret du 24 juillet 1975 sur les produits diététiques et de régime
 
 - [Article 1](article-1.md)
+- [Titre Ier : Produits de régime](titre-ier)
 - [Article 2](article-2.md)
+- [Titre II : Produits diététiques](titre-ii)
 - [Article 3](article-3.md)
+- [Titre III : Dispositions générales.](titre-iii)
+- [Article 18](article-18.md)
+- [Article 29](article-29.md)
+- [Article 40](article-40.md)
+- [Article 41](article-41.md)
+- [Article 46](article-46.md)
+- [Article 52](article-52.md)
+- [Article 59](article-59.md)
+- [Annexes](annexes)

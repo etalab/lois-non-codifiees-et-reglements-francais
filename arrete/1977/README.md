@@ -56,6 +56,7 @@
 - [Arrêté du 22 juillet 1976](arrete-du-22-juillet-1976)
 - [Arrêté du 23 juin 1977](arrete-du-23-juin-1977)
 - [Arrêté du 23 mars 1977](arrete-du-23-mars-1977)
+- [Arrêté du 25 août 1977](arrete-du-25-aout-1977)
 - [Arrêté du 25 avril 1977](arrete-du-25-avril-1977)
 - [Arrêté du 25 février 1977](arrete-du-25-fevrier-1977)
 - [Arrêté du 25 juillet 1977](arrete-du-25-juillet-1977)

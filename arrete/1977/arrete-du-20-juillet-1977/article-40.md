@@ -1,3 +1,3 @@
-# Article 3
+# Article 40
 
 Article abrogé
