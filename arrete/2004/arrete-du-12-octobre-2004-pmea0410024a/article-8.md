@@ -1,0 +1,3 @@
+# Article 8
+
+Une cellule composée d'un représentant du ministre de l'intérieur, de la sécurité intérieure et des libertés locales, un représentant du ministre chargé de la tutelle administrative des chambres de commerce et d'industrie, un représentant de l'assemblée des chambres françaises de commerce et d'industrie et un représentant de chaque préfet concerné est constituée. Elle se réunit au cours de la première quinzaine d'octobre pour une répétition des opérations de vote, permettant de tester le dispositif de vote électronique. Elle peut associer ou consulter toute personne indépendante disposant d'une expertise dans les domaines couverts par l'opération de vote.

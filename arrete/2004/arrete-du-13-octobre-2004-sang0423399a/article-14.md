@@ -1,0 +1,3 @@
+# Article 14
+
+Les inspecteurs de l'action sanitaire et sociale recrutés en application du 2° de l'article 5 du décret du 24 décembre 2002 susvisé suivent, dans l'année qui suit leur titularisation, une formation de six mois prévue à l'article 20 du même décret, organisée par l'Ecole nationale de la santé publique. Cette formation poursuit les objectifs définis à l'article 1er ci-dessus. Le contenu pédagogique détaillé et le déroulement de cette formation sont fixés par le directeur de l'Ecole nationale de la santé publique, après consultation du comité pédagogique compétent et du conseil scientifique de l'école qui émettent un avis sur les caractéristiques du projet pédagogique.
