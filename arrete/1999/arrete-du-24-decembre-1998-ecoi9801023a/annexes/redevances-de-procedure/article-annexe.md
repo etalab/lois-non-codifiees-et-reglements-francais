@@ -14,7 +14,7 @@ Dépôt d'une demande de certificat complémentaire (n'incluant pas la première
 
 Rapport de recherche
 
-4 200
+2 100
 
 Rapport de recherche concernant une demande sous priorité étrangère accompagnée d'un rapport de recherche reconnu équivalent au rapport de recherche national par décision du directeur général de l'Institut national de la propriété industrielle
 

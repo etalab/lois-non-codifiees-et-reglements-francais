@@ -9,3 +9,4 @@
 - [Article 4](article-4.md)
 - [SECTION 4 : Dispositions communes.](section-4)
 - [Article 5](article-5.md)
+- [Article 26](article-26.md)

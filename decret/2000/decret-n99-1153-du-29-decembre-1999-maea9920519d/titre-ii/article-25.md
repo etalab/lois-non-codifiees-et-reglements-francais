@@ -1,0 +1,3 @@
+# Article 25
+
+Les conseillers des affaires étrangères du cadre général et du cadre d'Orient issus du concours interne nommés dans le corps avant la publication du présent décret et classés, à ce jour, au plus au 6e échelon de la 2e classe peuvent demander, dans un délai de six mois, à bénéficier des conditions de classement dans le corps des conseillers des affaires étrangères prévues à l'article 10 du décret du 6 mars 1969 susvisé tel qu'il résulte de l'article 3 du présent décret. Il en est de même de ceux issus du troisième concours d'entrée à l'Ecole nationale d'administration classés au plus au 5e échelon de la 2e classe.

@@ -1,0 +1,3 @@
+# Article 1
+
+Dans la limite des crédits prévus à cet effet, une indemnité spécifique de séjours d'activités sportives et de loisirs peut être attribuée aux personnels des services déconcentrés de la protection judiciaire de la jeunesse participant à un séjour d'activités sportives et de loisirs de jeunes relevant d'une mesure éducative les confiant à un service ou établissement de la protection judiciaire de la jeunesse. L'indemnité spécifique de séjours d'activités sportives et de loisirs couvre l'hébergement et la restauration des personnels ainsi que toutes sujétions et responsabilités directement liées au séjour.

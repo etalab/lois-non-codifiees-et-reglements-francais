@@ -10,15 +10,15 @@ MONTANT DE LA PRIME de sujétions spéciales en pourcentage du traitement brut
 
 PERSONNEL DE DIRECTION
 
-Emploi de directeur régional : 15
+Emploi de directeur régional : 17%
 
-Emploi de directeur des services pénitentiaires d'insertion et de probation : 17
+Emploi de directeur des services pénitentiaires d'insertion et de probation : 17%
 
-Directeur hors classe : 15
+Directeur hors classe : 17%
 
-Directeur de 1re classe : 15
+Directeur de 1re classe : 17%
 
-Directeur de 2e classe : 17
+Directeur de 2e classe : 17%
 
 PERSONNEL D'INSERTION ET DE PROBATION
 
@@ -42,42 +42,42 @@ PERSONNEL DE SURVEILLANCE
 
 Chef de service pénitentiaire de 1re classe
 
-I : 20
+I : 22%
 
-II : 19
+II : 21%
 
 Chef de service pénitentiaire de 2e classe
 
-I : 22
+I : 22%
 
-II : 21
+II : 21%
 
 Premier surveillant
 
-I : 22
+I : 22%
 
-II : 21
+II : 21%
 
 Surveillant
 
-I : 22
+I : 22%
 
-II : 21
+II : 21%
 
 Surveillant auxiliaire
 
-I : 22
+I : 22%
 
-II : 21
+II : 21%
 
 Surveillant congréganiste
 
-I : 18
+I : 18%
 
-II : 17
+II : 17%
 
 Surveillant de petit effectif et intérimaire
 
-I : 18
+I : 18%
 
-II : 17
+II : 17%

@@ -1,0 +1,9 @@
+# Article 4
+
+I. - Une convention conclue entre la Caisse nationale de l'assurance maladie des travailleurs salariés et la Caisse centrale de mutualité sociale agricole, approuvée par arrêté des ministres chargés de la sécurité sociale et de l'agriculture, fixe les modalités selon lesquelles les organismes des régimes de protection sociale agricole assurent pour le compte du régime général la gestion administrative, financière et comptable du service des prestations et du recouvrement des cotisations des personnes mentionnées au II de l'article 19 de la loi du 27 juillet 1999 susvisée.
+
+II. - Pour l'application du II de l'article 19 de la loi du 27 juillet 1999 susvisée, les caisses de mutualité sociale agricole sont substituées aux caisses primaires d'assurance maladie et aux unions de recouvrement des cotisations de sécurité sociale et d'allocations familiales.
+
+La procédure de liquidation et les règles de recouvrement des cotisations sont celles qui s'appliquent dans le régime d'assurances sociales des salariés agricoles sous réserve des adaptations prévues aux articles R. 380-3 à R. 380-9 du code de la sécurité sociale. Pour l'application de l'article 15 de la loi du 31 décembre 1989 susvisée, le conseil d'administration ou la commission de recours amiable des caisses de mutualité sociale agricole peuvent accorder aux assurés, selon les modalités prévues à l'article R. 243-20-3, une remise partielle ou totale des majorations de retard afférentes aux cotisations échues non réglées.
+
+III. - Les caisses de mutualité sociale agricole suivent les recettes et les dépenses afférentes aux opérations de gestion visées aux I et II dans une comptabilité distincte qui est communiquée annuellement à la Caisse nationale de l'assurance maladie des travailleurs salariés avant la clôture des opérations de l'exercice.

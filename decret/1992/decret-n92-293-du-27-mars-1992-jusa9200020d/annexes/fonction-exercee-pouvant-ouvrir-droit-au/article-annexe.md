@@ -38,7 +38,7 @@ Responsable du service des notifications à la section du contentieux.
 
 Assistant de secrétariat des sections administratives.
 
-Assistant du régisseur (service Equipement, infrastructure et logistique).
+Régisseur (secrétariat général).
 
 Assistant de secrétariat et de greffe à la commission spéciale de cassation des pensions.
 
@@ -72,7 +72,7 @@ Secrétaire adjoint des sections administratives.
 
 Aide de bibliothèque.
 
-Assistant d'exploitation au service informatique.
+Technicien support au service informatique.
 
 Assistant de secrétariat auprès du responsable du suivi des travaux documentaires.
 
@@ -85,8 +85,6 @@ Assistant de secrétariat auprès du responsable des services de la bibliothèqu
 Assistant du responsable des ordonnancements concernant les greffes des juridictions administratives.
 
 Responsable du bureau du courrier.
-
-Deuxième adjoint au responsable du service de reprographie.
 
 Responsable du suivi financier des affaires immobilières.
 
@@ -108,11 +106,7 @@ Gestionnaire financier et comptable (chargé des frais et ordre de mission).
 
 Adjoint du responsable du bureau d'aide juridictionnelle.
 
-Deuxième adjoint au responsable du secrétariat particulier du vice-président.
-
-Adjoint du responsable du SDIC.
-
-Responsable du bureau des pensions des membres du Conseil d'Etat.
+Adjoint du responsable du service dactylographique informatisé du contentieux.
 
 Responsable du bureau des greffes du service des tribunaux
 
@@ -128,8 +122,34 @@ Responsable de l'archivage des dossiers de la section du contentieux.
 
 Adjoint au secrétaire de sous-section de la section du contentieux.
 
-Deuxième adjoint au responsable du secrétariat particulier des secrétaires généraux.
-
-Deuxième adjoint au responsable du service dactylographique informatisé du contentieux.
-
 Adjoint au secrétaire de la cellule des reconduites à la frontière.
+
+Coopération internationale.
+
+Responsable du suivi technique des affaires immobilières.
+
+Chef du bureau de la gestion financière et comptable (service des T.A et des C.A.A).
+
+Responsable de l'ordonnancement.
+
+Assistant du secrétaire de la section du contentieux.
+
+Administrateur principal de l'application Skipper.
+
+Responsable de la transcription des débats d'assemblée générale.
+
+Secrétariat de l'assemblée générale.
+
+Adjoint du responsable des effectifs, des concours et du comité médical.
+
+Adjoint du responsable du bureau des informations.
+
+Adjoint du responsable du bureau des analyses.
+
+Technicien support spécialisé.
+
+Secrétaire de la mission d'inspection des juridictions administratives.
+
+Adjoint de l'administrateur principal de l'application Skipper.
+
+Assistant de secrétariat (service informatique).

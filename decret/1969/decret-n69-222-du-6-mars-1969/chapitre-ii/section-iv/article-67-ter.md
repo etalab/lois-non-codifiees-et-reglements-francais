@@ -1,0 +1,3 @@
+# Article 67 ter
+
+Sont réputés avoir rempli l'obligation de mobilité prévue à l'article 1er du décret n° 97-274 du 21 mars 19997 relatif à la mobilité des fonctionnaires recrutés par la voie de l'Ecole nationale d'aministration et des administrateurs des postes et télécommunications les agents du corps des conseillers des affaires étrangères qui postérieurement à leur nomination et jusqu'au 31 décembre 2001, ont accompli deux ans au moins de services effectifs à l'administration centrale et quatre ans au moins de services effectifs dans un ou plusieurs postes et emplois diplomatiques et consulaires, alors même que les emplois correspondants n'ont pas fait l'objet d'une publication.
