@@ -1,6 +1,8 @@
 # Article 2
 
-Le Conseil national de la sécurité routière comprend quarante-cinq membres :
+Le président du Conseil national de la sécurité routière est nommé par décret.
+
+Le conseil est composé comme suit :
 
 1° Trois personnalités qualifiées, désignées par le ministre chargé de la sécurité routière ;
 
@@ -21,6 +23,8 @@ Un membre du Conseil national des transports, désigné par la section permanent
 Huit représentants des entreprises et institutions intéressées par la sécurité routière, désignés par le ministre chargé de la sécurité routière ;
 
 Douze représentants d'associations agissant dans le domaine de la sécurité routière, désignés par le ministre chargé de la sécurité routière ;
+
+Deux représentants des professions médicales et des associations et fondations oeuvrant dans le domaine de l'hospitalisation ou de la santé publique, désignés par le ministre chargé de la santé.
 
 2° Le ministre chargé des finances ou son représentant ;
 
@@ -46,6 +50,6 @@ Le délégué interministériel à la sécurité routière ;
 
 Le président de la mission interministérielle de lutte contre la drogue et la toxicomanie.
 
-Le président du Conseil national de la sécurité routière est nommé en son sein par arrêté du Premier ministre.
+Les membres mentionnés au 1° ci-dessus sont nommés par décret.
 
-Les membres cités au 1° ci-dessus sont nommés pour une durée de trois ans. Toutefois, leur mandat prend fin s'ils perdent la qualité au titre de laquelle ils ont été nommés. Ils sont alors remplacés, dans les mêmes conditions, pour la durée de leur mandat restant à courir.
+Le président du Conseil national de la sécurité routière et les membres mentionnés au 1° ci-dessus sont nommés pour une durée de trois ans. Le mandat des membres mentionnés au 1° prend fin, s'ils perdent la qualité au titre de laquelle ils ont été nommés. En cas de vacance survenant, pour quelque cause que ce soit, avant le terme normal du mandat, le président et les membres mentionnés au 1° sont remplacés, dans les mêmes conditions, pour la durée du mandat restant à courir.
