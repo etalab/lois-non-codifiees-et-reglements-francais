@@ -1,3 +1,3 @@
 # Article 1
 
-Le montant de la part forfaitaire de l'allocation de vétérance prévu à l'article 12 de la loi du 3 mai 1996 susvisée est fixé à 1 947,19 F.
+Le montant annuel de la part forfaitaire de l'allocation de vétérance prévu à l'article 12 de la loi n° 96-370 du 3 mai 1996 est fixé à 1 962,69 F.
