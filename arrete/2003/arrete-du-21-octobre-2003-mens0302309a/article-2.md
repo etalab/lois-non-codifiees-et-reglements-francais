@@ -1,0 +1,3 @@
+# Article 2
+
+Le comité consultatif pour l'enseignement supérieur privé a pour mission de formuler toute recommandation concernant les relations de partenariat entre les établissemenst d'enseignement supérieur privé et l'Etat. Il examine les formations dispensées et leur degré de participation à une mission de service public. Il formule des propositions quant à l'appui financier de l'Etat. Il peut être saisi, à la demande du ministre chargé de l'enseignement supérieur, de toute question concernant l'enseignement supérieur privé. Il peut, par ailleurs, émettre des recommandations et des propositions sur toute question relevant de ses missions.
