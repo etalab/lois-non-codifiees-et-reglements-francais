@@ -33,6 +33,7 @@
 - [Arrêté du 20 décembre 2004 (DEVN0540001A)](arrete-du-20-decembre-2004-devn0540001a)
 - [Arrêté du 20 décembre 2004 (EQUA0401760A)](arrete-du-20-decembre-2004-equa0401760a)
 - [Arrêté du 20 décembre 2004 (EQUI0401742A)](arrete-du-20-decembre-2004-equi0401742a)
+- [Arrêté du 20 décembre 2004 (MCCB0400888A)](arrete-du-20-decembre-2004-mccb0400888a)
 - [Arrêté du 20 juillet 2005 (MENF0501217A)](arrete-du-20-juillet-2005-menf0501217a)
 - [Arrêté du 20 juin 2005 (ECOP0500485A)](arrete-du-20-juin-2005-ecop0500485a)
 - [Arrêté du 21 décembre 2004 (JUSG0460116A)](arrete-du-21-decembre-2004-jusg0460116a)
