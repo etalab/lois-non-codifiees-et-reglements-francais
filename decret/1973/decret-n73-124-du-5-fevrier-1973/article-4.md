@@ -1,0 +1,7 @@
+# Article 4
+
+Les investissements dans des opérations d'innovation doivent être réalisés au moins par un tiers sous forme de souscription de capital en numéraire ou par des apports de droits de propriété industrielle ou sous forme de titres participants. Ils peuvent dans la limite maximum des deux tiers être réalisés sous la forme d'obligations convertibles ou échangeables en actions ou d'obligations à bon de souscription d'actions ou sous la forme d'apports en comptes d'actionnaires rémunérés bloqués pendant un délai minimum de trois ans ou encore sous forme de prêts participants à long terme ou d'obligations participantes dont le taux d'intérêt fixe n'est pas supérieur au quart du taux usuraire à la date de réalisation de l'opération. Ces conditions s'apprécient à la clôture de chaque exercice social.
+
+Au cas où une société financière d'innovation constitue ou augmente son capital en vue de réaliser des financements d'opération de recherche dans le cadre de l'article 5 de la loi n° 84-588 du 8 juillet 1984, la part du capital investi, dans un délai de six ans, dans de telles opérations ne peut être inférieure à 50 p. 100 du montant des souscriptions bénéficiant du régime d'amortissement à 75 p. 100. Le solde doit être placé dans les conditions et les proportions prévues à l'alinéa ci-dessus.
+
+Une société financière d'innovation ne peut investir plus de 25 p. 100 de son capital dans une même opération.
