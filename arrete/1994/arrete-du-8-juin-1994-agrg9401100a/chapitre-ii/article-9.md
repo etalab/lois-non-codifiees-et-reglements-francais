@@ -1,0 +1,3 @@
+# Article 9
+
+Dans le cas d'exploitations comprenant deux ou plusieurs unités de production distinctes, le ministre chargé de l'agriculture peut déroger aux exigences de l'article 7, paragraphes 1° et 2°, du présent arrêté en ce qui concerne les unités saines d'une exploitation infectée, afin de terminer l'engraissement des porcs qui y sont entretenus, pour autant que le directeur des services vétérinaires ait confirmé que la structure, l'importance de ces unités de production, ainsi que les opérations qui y sont effectuées soient telles que ces unités de production sont complètement distinctes sur le plan de l'hébergement, de l'entretien et de l'alimentation et que le virus ne puisse se propager d'une unité de production à l'autre.

@@ -328,6 +328,7 @@
 - [Décret n°94-329 du 22 avril 1994 (PRMX9400014D)](decret-n94-329-du-22-avril-1994-prmx9400014d)
 - [Décret n°94-330 du 22 avril 1994 (PRMX9400015D)](decret-n94-330-du-22-avril-1994-prmx9400015d)
 - [Décret n°94-331 du 22 avril 1994 (SPSH9400362D)](decret-n94-331-du-22-avril-1994-spsh9400362d)
+- [Décret n°94-509 du 22 juin 1994 (MENF9400678D)](decret-n94-509-du-22-juin-1994-menf9400678d)
 - [Décret n°94-174 du 23 février 1994 (PRMX9300200D)](decret-n94-174-du-23-fevrier-1994-prmx9300200d)
 - [Décret n°94-248 du 23 mars 1994 (MAEJ9430018D)](decret-n94-248-du-23-mars-1994-maej9430018d)
 - [Décret n°94-249 du 23 mars 1994 (MAEJ9430022D)](decret-n94-249-du-23-mars-1994-maej9430022d)
