@@ -361,6 +361,7 @@
 - [Arrêté du 30 janvier 1990 (AGRG9000212A)](arrete-du-30-janvier-1990-agrg9000212a)
 - [Arrêté du 30 janvier 1990 (TEFX9010038A)](arrete-du-30-janvier-1990-tefx9010038a)
 - [Arrêté du 30 mars 1990 (AGRS9000801A)](arrete-du-30-mars-1990-agrs9000801a)
+- [Arrêté du 30 mars 1990 (PRME9061196A)](arrete-du-30-mars-1990-prme9061196a)
 - [Arrêté du 30 mars 1990 (SPSS9000756A)](arrete-du-30-mars-1990-spss9000756a)
 - [Arrêté du 30 novembre 1989 (PTTR8901096A)](arrete-du-30-novembre-1989-pttr8901096a)
 - [Arrêté du 30 octobre 1985](arrete-du-30-octobre-1985)
