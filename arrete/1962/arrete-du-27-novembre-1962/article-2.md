@@ -1,7 +1,5 @@
 # Article 2
 
-Les médecins de la commission médicale d'examen doivent s'assurer :
+Les pharmaciens visés à l'article 1er ci-dessus doivent justifier de la possession d'un certificat de capacité délivré après un stage effectué dans un service hospitalier militaire ou maritime.
 
-1° Que ces conducteurs ne sont atteints d'aucune des affections incompatibles avec la délivrance ou le maintien du permis de conduire inscrites dans la colonne " Permis A, B, F " de la liste des incapacités physiques annexée à l'arrêté du 21 juillet 1954 précité ;
-
-2° Qu'en outre, les affections en raison desquelles le permis de conduire F a été délivré aux intéressés sont compatibles avec la conduite des voitures de place au regard de la liste annexée au présent arrêté.
+Pour les personnels placés sous son autorité, le directeur ou chef régional du service de santé des armées est chargé de l'organisation du stage.

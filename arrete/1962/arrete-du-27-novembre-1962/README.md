@@ -1,6 +1,9 @@
-# Arrêté du 27 novembre 1962 fixant les conditions dans lesquelles les conducteurs titulaires d'un permis de conduire F peuvent être autorisés à conduire les voitures de place
+# Arrêté du 27 novembre 1962 relatif aux conditions dans lesquelles les pharmaciens des armées peuvent pratiquer certains actes médicaux
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
 - [Article 3](article-3.md)
+- [Article 4](article-4.md)
+- [Article 5](article-5.md)
+- [Article 6](article-6.md)
 - [Annexes](annexes)
