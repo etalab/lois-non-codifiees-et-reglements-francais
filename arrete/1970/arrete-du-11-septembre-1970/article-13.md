@@ -1,3 +1,0 @@
-# Article 13
-
-Le préfet, directeur du service national de la protection civile au ministère de l'intérieur, le directeur du gaz et de l'électricité et du charbon au ministère du développement industriel et scientifique, le directeur des ponts maritimes et des voies navigables au ministère de l'équipement et du logement, le directeur de l'exploitation et des affaires commerciales des télécommunications au ministère des postes et télécommunications, le directeur de l'aménagement rural et des structures au ministère de l'agriculture, sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal Officiel de la République française.

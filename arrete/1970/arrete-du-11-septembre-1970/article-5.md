@@ -1,3 +1,0 @@
-# Article 5
-
-Dans le cas spécial prévu à l'article c de l'article 5 du décret du 16 mai 1968, la vigilance peut être renforcée sur prescription du ou des préfets à la personne responsable de l'exploitation de l'ouvrage, sous réserve, en ce qui concerne les aménagements hydro-électriques, de l'application de l'arrêté du 27 septembre 1968 modifié fixant notamment le rôle des chefs d'arrondissements minéralogiques et des chefs de circonscriptions électriques dans l'organisation territoriale de la défense. Les mesures de vigilance s'exercent alors selon des modalités élaborées en même temps que chaque consigne mais soumises aux règles de la protection du secret de la défense nationale.
