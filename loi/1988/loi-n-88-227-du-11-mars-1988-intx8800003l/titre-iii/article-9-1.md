@@ -1,7 +1,9 @@
 # Article 9-1
 
-Un parti ou groupement politique ne bénéficiant pas des dispositions des articles 8 et 9 reçoit une contribution forfaitaire de l'Etat de deux millions de francs s'il a perçu, au cours d'une année, par l'intermédiaire d'un ou plusieurs mandataires des dons, ayant chacun fait l'objet d'un reçu prévu par l'article 11-4, de la part d'au moins 10 000 personnes physiques, dûment identifiées, dont 500 élus, répartis entre au moins trente départements, territoires d'outre-mer ou collectivités territoriales d'outre-mer à statut particulier, pour un montant total d'au moins un million de francs.
+Lorsque, pour un parti ou un groupement politique, l'écart entre le nombre de candidats de chaque sexe ayant déclaré se rattacher à ce parti ou groupement, lors du dernier renouvellement général de l'Assemblée nationale, conformément au deuxième alinéa de l'article 9, dépasse 2 % du nombre total de ces candidats, le montant de la première fraction qui lui est attribué en application des articles 8 et 9 est diminué d'un pourcentage égal à la moitié de cet écart rapporté au nombre total de ces candidats.
 
-" La Commission nationale des comptes de campagne et des financements politiques constate, à l'occasion du dépôt des comptes du parti ou groupement prévu par l'article 11-7, que les conditions prévues au premier alinéa sont réunies.
+Cette diminution n'est pas applicable aux partis et groupements politiques ayant présenté des candidats exclusivement outre-mer lorsque l'écart entre le nombre de candidats de chaque sexe qui s'y sont rattachés n'est pas supérieur à un.
 
-" Le parti ou groupement bénéficiant des dispositions du présent article est, pour l'application du troisième alinéa de l'article 9, assimilé aux partis et groupements bénéficiaires de la première fraction des aides prévues à l'article 8. "
+[Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 2000-429 DC du 30 mai 2000.]
+
+Un rapport est présenté chaque année au Parlement [Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 2000-429 DC du 30 mai 2000] sur les actions entreprises en faveur de la parité politique, et plus particulièrement les campagnes institutionnelles visant à promouvoir la parité et le développement de la citoyenneté.
