@@ -1,6 +1,6 @@
 # Article 2
 
-" Le programme des épreuves d'admissibilité et d'admission du concours interne d'accès au cadre d'emplois des assistants territoriaux spécialisés d'enseignement artistique, spécialité Musique, est le suivant :
+" Le programme des épreuves d'admissibilité et d'admission du concours interne et du troisième concours d'accès au cadre d'emplois des assistants territoriaux spécialisés d'enseignement artistique, spécialité Musique, est le suivant :
 
 " 1. Disciplines Instruments et chant
 
@@ -14,13 +14,13 @@
 
 " En ce qui concerne le jazz, ce cours peut être un cours d'initiation au jazz.
 
-" Pour la seconde épreuve d'admission, l'entretien avec le jury est précédé d'un court exposé au cours duquel le candidat présente son projet pédagogique.
+" Pour la seconde épreuve d'admission du concours interne, l'entretien avec le jury est précédé d'un court exposé au cours duquel le candidat présente son projet pédagogique.
 
 " Les questions du jury doivent permettre d'évaluer les connaissances du candidat et sa culture musicale.
 
 " 2. Discipline Chef de choeur
 
-" Pour la seconde épreuve d'admission, l'entretien avec le jury est précédé d'un court exposé au cours duquel le candidat présente son projet pédagogique.
+" Pour la seconde épreuve d'admission du concours interne, l'entretien avec le jury est précédé d'un court exposé au cours duquel le candidat présente son projet pédagogique.
 
 " Les questions du jury doivent permettre d'évaluer les connaissances du candidat et sa culture musicale.
 
@@ -34,11 +34,9 @@
 
 " 4. Discipline Formation musicale, musique ou danse
 
-" En ce qui concerne l'épreuve d'admissibilité, l'analyse est guidée par un questionnaire.
-
 " Pour la première épreuve d'admission, le candidat construit un cours de formation musicale pour un groupe d'élèves en s'appuyant sur des extraits d'oeuvres. Le travail peut porter notamment sur un ou plusieurs des éléments suivants : écoute, lecture, intonation, rythme, analyse, travail vocal, séquence faisant appel à l'invention. Le candidat prévoit le matériel nécessaire à tout le groupe (partitions, enregistrements, instruments éventuels, etc.). Un piano, un matériel d'écoute et un tableau sont mis à sa disposition. Le travail vocal est obligatoirement accompagné au piano.
 
-" Pour la seconde épreuve d'admission, l'entretien avec le jury est précédé d'un court exposé au cours duquel le candidat présente son projet pédagogique.
+" Pour la seconde épreuve d'admission du concours interne, l'entretien avec le jury est précédé d'un court exposé au cours duquel le candidat présente son projet pédagogique.
 
 " Les questions du jury doivent permettre d'évaluer les connaissances du candidat et sa culture musicale et/ou chorégraphique.
 
@@ -50,6 +48,6 @@
 
 " Pour la première épreuve d'admission, le travail peut porter notamment sur un ou plusieurs éléments suivants : écoute, intonation, travail vocal, séquence faisant appel à l'invention. Le candidat peut utiliser son instrument principal. Un matériel d'écoute et un tableau sont mis à sa disposition.
 
-" Pour la seconde épreuve d'admission, l'entretien avec le jury est précédé d'un court exposé au cours duquel le candidat présente son projet pédagogique.
+" Pour la seconde épreuve d'admission du concours interne, l'entretien avec le jury est précédé d'un court exposé au cours duquel le candidat présente son projet pédagogique.
 
 " Les questions du jury doivent permettre d'évaluer les connaissances du candidat et sa culture musicale et/ou chorégraphique. "

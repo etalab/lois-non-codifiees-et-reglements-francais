@@ -1,6 +1,6 @@
 # Article 3
 
-Le programme des épreuves d'admission du concours visé à l'article 2 ci-dessus est le suivant :
+Le programme des épreuves d'admission des concours visés à l'article 2 ci-dessus est le suivant :
 
 Pour la première épreuve : l'homogénéité du groupe d'élèves s'entend de l'appartenance de tous les élèves à un même cycle d'études. Le cursus suivi par les élèves est porté à la connaissance du candidat.
 

@@ -1,6 +1,6 @@
 # Article 1
 
-Le programme de la première épreuve d'admissibilité et de la première épreuve d'admission du concours externe et du concours interne de recrutement pour l'accès au cadre d'emplois des assistants territoriaux spécialisés d'enseignement artistique, spécialité Arts plastiques, comprend :
+Le programme de la première épreuve d'admission du concours externe, du concours interne et du troisième concours de recrutement pour l'accès au cadre d'emplois des assistants territoriaux spécialisés d'enseignement artistique, spécialité Arts plastiques, comprend :
 
 L'histoire de l'art et des civilisations de l'antiquité grecque et romaine ;
 
