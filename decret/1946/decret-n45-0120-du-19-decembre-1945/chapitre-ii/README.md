@@ -7,4 +7,3 @@
 - [Section VI : De la bourse commune.](section-vi)
 - [Section VII : De la vérification de la comptabilité.](section-vii)
 - [Section VIII : Des différends entre commissaires-priseurs et des plaintes contre les commissaires-priseurs.](section-viii)
-- [Section X : Des aspirants aux fonctions de commissaires-priseurs.](section-x)
