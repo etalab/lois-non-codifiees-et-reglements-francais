@@ -56,6 +56,7 @@
 - [Décret n°85-1348 du 18 décembre 1985](decret-n85-1348-du-18-decembre-1985)
 - [Décret n°85-1003 du 19 septembre 1985](decret-n85-1003-du-19-septembre-1985)
 - [Décret n°85-1347 du 19 décembre 1985](decret-n85-1347-du-19-decembre-1985)
+- [Décret n°83-397 du 19 mai 1983](decret-n83-397-du-19-mai-1983)
 - [Décret n°85-1220 du 20 novembre 1985](decret-n85-1220-du-20-novembre-1985)
 - [Décret n°85-1229 du 20 novembre 1985](decret-n85-1229-du-20-novembre-1985)
 - [Décret n°85-923 du 21 août 1985](decret-n85-923-du-21-aout-1985)
