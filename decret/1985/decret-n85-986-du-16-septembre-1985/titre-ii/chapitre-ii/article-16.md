@@ -2,17 +2,13 @@
 
 Par dérogation aux dispositions de l'article précédent :
 
-1° Sont prononcés par arrêté conjoint du Premier ministre, du ministre chargé du budget et des ministres intéressés, et sous réserve des dispositions du décret n° 63-767 du 30 juillet 1963 modifié relatif au statut des membres du Conseil d'Etat :
+1° Sont prononcés par arrêté conjoint du Premier ministre, du ministre chargé du budget et des ministres intéressés, et sous réserve des dispositions de l'article R. 135-2 du code de justice administrative :
 
-a) Le détachement des fonctionnaires appartenant aux corps recrutés par la voie de l'Ecole nationale d'administration et au corps des administrateurs des postes et télécommunications.
+a) Le détachement des fonctionnaires appartenant au corps des administrateurs civils ;
 
-b) Les détachements prononcés au titre de l'article 14 (2°, 4° (à l'exception des détachements de personnels enseignants dans des emplois de l'enseignement supérieur ou dans des emplois relevant d'établissements publics de recherche), 5°, 8° (sous réserve des dispositions de l'article 17 du présent décret), 9° et 12°) ;
+b) Les détachements prononcés au titre de l'article 14 (4°, b et 5°).
 
-2° Sont prononcés par arrêté conjoint du Premier ministre et des ministres intéressés :
-
-a) Le détachement au titre de l'article 14 (7°) ;
-
-b) Le détachement des fonctionnaires dans des emplois d'attachés d'administration centrale.
+2° Est prononcé par arrêté conjoint du Premier ministre et des ministres intéressés le détachement au titre de l'article 14 (7°) ;
 
 3° Sont prononcés par arrêté du seul ministre dont ils relèvent dans leur corps d'origine, après accord du ou, le cas échéant, des ministres intéressés :
 
@@ -36,4 +32,6 @@ e) Le détachement des ingénieurs des ponts et chaussées, des ingénieurs des 
 
 - ports autonomes ;
 
-f) Le détachement des officiers de port, des officiers de port adjoints, des conducteurs des travaux publics de l'Etat, des agents et ouvriers professionnels des travaux publics de l'Etat pour servir auprès d'un port autonome.
+f) Le détachement des officiers de port, des officiers de port adjoints, des conducteurs des travaux publics de l'Etat, des agents et ouvriers professionnels des travaux publics de l'Etat pour servir auprès d'un port autonome ;
+
+g) Les détachements au titre des 8° et 9° de l'article 14, autres que ceux mentionnés à l'article 17 du présent décret.
