@@ -4,7 +4,7 @@ Pour l'application de l'article 13 de la loi du 14 novembre 1996 susvisée :
 
 1° Le nombre de salariés embauchés est décompté depuis la délimitation de la zone franche urbaine pour les entreprises ayant un établissement dans cette zone ou depuis l'implantation de l'entreprise dans la zone si elle est postérieure à sa délimitation ;
 
-2° Est pris en compte le nombre de salariés employés ou embauchés dans les conditions fixées au IV de l'article 12 de la loi du 14 novembre 1996 susvisée dans le ou les établissements de l'entreprise situés dans une même zone franche urbaine ;
+2° Est pris en compte le nombre de salariés employés ou embauchés dans les conditions fixées au IV de l'article 12 de la loi du 14 novembre 1996 susvisée dans le ou les établissements de l'entreprise situés dans une même zone franche urbaine et dont l'horaire de travail prévu au contrat est au moins égal à une durée minimale de seize heures par semaine, heures complémentaires non comprises, ou, lorsque le contrat de travail est établi sur une base mensuelle ou annuelle, à une durée du travail au moins égale à l'application sur le mois ou sur l'année de la durée hebdomadaire précitée ;
 
 3° Est considéré comme résidant dans la zone franche urbaine le salarié y résidant depuis une durée d'au moins trois mois consécutifs à la date de la délimitation de la zone franche s'il est employé dans l'entreprise à cette date, ou à la date d'effet de son embauche si elle est postérieure ;
 
