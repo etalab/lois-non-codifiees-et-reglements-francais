@@ -8,6 +8,7 @@
 - [Décret n°2002-796 du 3 mai 2002 (MESP0221693D)](decret-n2002-796-du-3-mai-2002-mesp0221693d)
 - [Décret n°2002-797 du 3 mai 2002 (MESP0221692D)](decret-n2002-797-du-3-mai-2002-mesp0221692d)
 - [Décret n°2002-819 du 3 mai 2002 (INTC0200081D)](decret-n2002-819-du-3-mai-2002-intc0200081d)
+- [Décret n°2002-865 du 3 mai 2002 (AGRS0200748D)](decret-n2002-865-du-3-mai-2002-agrs0200748d)
 - [Décret n°2002-870 du 3 mai 2002 (FPPA0210022D)](decret-n2002-870-du-3-mai-2002-fppa0210022d)
 - [Décret n°2002-140 du 4 février 2002 (MCCT0200048D)](decret-n2002-140-du-4-fevrier-2002-mcct0200048d)
 - [Décret n°2002-1434 du 4 décembre 2002 (INDI0200715D)](decret-n2002-1434-du-4-decembre-2002-indi0200715d)
