@@ -1,0 +1,5 @@
+# Article 2
+
+L'importation en provenance de pays tiers d'animaux vivants et de leurs produits, dont la liste est fixée en annexe du présent arrêté, ainsi que des denrées animales ou d'origine animale, à l'exception des produits visés par la directive n° 91/493, n'est autorisée que lorsqu'ils proviennent et sont originaires de pays tiers ou de partie de pays tiers figurant sur les listes correspondant aux catégories d'animaux, de produits ou de denrées concernés qui sont établies par décisions du conseil ou de la commission relatives aux listes des pays tiers autorisés, publiée au Journal officiel des communautés européennes et prises pour application des directives n°s 72/462, 88/407, 89/556, 90/426, 90/429, 90/539, 91/67, 91/494, 92/45, 92/46, 92/65 et 92/118.
+
+L'importation des produits visés par la directive n° 91/493 n'est autorisée que lorsqu'ils proviennent et sont originaires de pays tiers ou groupe de pays tiers pour lesquels des conditions sanitaires ont été établies conformément à l'article 5.
