@@ -8,4 +8,4 @@ L'intéressé a droit au versement par l'autorité territoriale de son plein tra
 
 2. Pendant deux mois après un an de services ;
 
-3. Pendant trois mois après quatre ans de services.
+3. Pendant trois mois après trois ans de services.

@@ -6,4 +6,4 @@ L'agent non titulaire en activité bénéficie, sur présentation d'un certifica
 
 2° Après deux ans de services, deux mois à plein traitement et deux mois à demi-traitements ;
 
-3° Après quatre ans de services, trois mois à plein traitement et trois mois à demi-traitement.
+3° Après trois ans de services, trois mois à plein traitement et trois mois à demi-traitement.
