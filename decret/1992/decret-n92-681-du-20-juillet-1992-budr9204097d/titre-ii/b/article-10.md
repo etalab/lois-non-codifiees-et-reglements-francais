@@ -11,3 +11,5 @@ Sauf dérogation accordée par le ministre du budget, peuvent être payés par l
 4. Les frais de mission et de stage, y compris les avances sur ces frais ;
 
 5. Pour les opérations à l'étranger, toute autre dépense nécessaire au bon fonctionnement du service situé à l'étranger dans des conditions qui seront prévues par voie d'arrêté interministériel.
+
+6. Les dépenses d'intervention et subventions dans la limite d'un montant fixé par arrêté du ministre chargé du budget. "
