@@ -1,3 +1,3 @@
 # Article 6
 
-Le droit d'accès prévu par l'article 34 de la loi du 6 janvier 1978 susvisée s'exerce auprès de la délégation aux vidéocommunications : Fibres optiques, plateau de l'Atalaye, 64200 Biarritz.
+Les accès aux boîtes aux lettres sont protégés par des mots de passe attribués par le système et modifiables par les abonnés.

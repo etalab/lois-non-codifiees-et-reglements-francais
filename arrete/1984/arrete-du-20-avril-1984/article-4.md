@@ -1,3 +1,3 @@
 # Article 4
 
-Les nomenclatures et les identifiants des organismes d'assurance maladie respectivement visés aux articles 1er et 2 du présent arrêté sont mis à jour annuellement après avis du comité des nomenclatures.
+Le versement de l'allocation spéciale n'est pas interrompu par le départ du bénéficiaire hors du territoire français et l'installation par ce dernier de sa résidence dans un Etat étranger appartenant ou non à la CEE [*à l'étranger*].

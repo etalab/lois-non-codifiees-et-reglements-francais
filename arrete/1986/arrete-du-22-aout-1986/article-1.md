@@ -1,3 +1,3 @@
 # Article 1
 
-L'arrêté du 13 juillet 1977 relatif à la fixation des justifications nécessaires à l'attribution de l'aide personnalisée au logement et à son renouvellement est abrogé.
+Les marchandises autres que celles visées à l'article 142 (2°) du code des douanes peuvent séjourner en entrepôt public pendant trois ans.

@@ -1,4 +1,4 @@
-# Arrêté du 19 août 1986 portant autorisation d'un traitement informatisé de statistiques sur la télédistribution, dans l'expérience du réseau câblé de Biarritz
+# Arrêté du 19 août 1986 portant création d'un traitement automatisé de messagerie électronique
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -7,3 +7,4 @@
 - [Article 5](article-5.md)
 - [Article 6](article-6.md)
 - [Article 7](article-7.md)
+- [Article 8](article-8.md)

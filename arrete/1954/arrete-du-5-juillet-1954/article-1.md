@@ -7,5 +7,3 @@ Sont notamment considérés comme impuretés au sens du présent arrêté, les b
 a) N'appartenant pas à l'espèce ou à la variété considérée ;
 
 b) Ayant subi des dommages ou altérations susceptibles de compromettre gravement la reprise, qui pourront être précisés par règlement technique.
-
-L'importation de boutures, greffons, plants, scions et arbres fruitiers devra être subordonnée à une autorisation préalable donnée après avis du comité technique permanent de la sélection, ainsi qu'à la délivrance, par le pays d'origine, d'un certificat de contrôle accompagnant la marchandise.

@@ -1,3 +1,3 @@
 # Article 7
 
-Ces instituts participent à l'animation et à l'information des milieux professionnels régionaux de l'action sociale. Ils peuvent développer des prestations d'assistance technique aux établissements et services concourant à l'action sociale.
+Le directeur général de la concurrence, de la consommation et de la répression des fraudes, et le directeur de la qualité (service de la protection des végétaux), sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.

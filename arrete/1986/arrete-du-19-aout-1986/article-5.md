@@ -1,5 +1,5 @@
 # Article 5
 
-Les destinataires de ces informations sont les services de la direction générale des télécommunications compétents pour leur traitement.
+Les abonnés à Mestel sont destinataires des nom, prénoms, adresse et numéro de téléphone figurant dans l'annuaire de la messagerie.
 
-Les médias et les organismes d'études et de recherche peuvent obtenir les résultats statistiques non nominatifs issus de ces traitements.
+Les services des télécommunications sont destinataires de toutes les informations mentionnées à l'article 4.
