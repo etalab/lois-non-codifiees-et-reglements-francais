@@ -2,11 +2,9 @@
 
 Un conseil de l'ordre, dont les membres sont commandeurs de droit, est institué auprès du ministère d'Etat chargé des affaires culturelles ; il est ainsi composé :
 
-I. - Membres de droit :
+I. - Membres de droit.
 
 Le ministre d'Etat chargé des affaires culturelles ou son représentant.
-
-Le directeur général des arts et des lettres.
 
 Le directeur général des Archives de France.
 
@@ -16,13 +14,11 @@ Le directeur de l'architecture.
 
 Le directeur des musées de France.
 
-Le directeur du théâtre, de la musique et de l'action culturelle.
+Le directeur des spectacles, de la musique et des lettres.
 
 Le directeur de l'administration générale.
 
-Le chargé de mission pour la création artistique.
-
-Le chargé de mission pour les enseignements artistiques.
+Le chef du service de la création artistique.
 
 II. - Membres désignés par le ministre d'Etat chargé des affaires culturelles :
 
