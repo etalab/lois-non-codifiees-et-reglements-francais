@@ -1,0 +1,3 @@
+# Article 34
+
+Toutes délibérations prises hors des réunions de conseils prévues ou autorisées par les textes en vigueur sont nulles et de nul effet...
