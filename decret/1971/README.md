@@ -34,6 +34,7 @@
 - [Décret n°71-612 du 15 juillet 1971](decret-n71-612-du-15-juillet-1971)
 - [Décret n°71-618 du 16 juillet 1971](decret-n71-618-du-16-juillet-1971)
 - [Décret n°71-766 du 16 septembre 1971](decret-n71-766-du-16-septembre-1971)
+- [Décret n°71-683 du 17 août 1971](decret-n71-683-du-17-aout-1971)
 - [Décret n°71-382 du 17 mai 1971](decret-n71-382-du-17-mai-1971)
 - [Décret n°71-208 du 18 mars 1971](decret-n71-208-du-18-mars-1971)
 - [Décret n°71-209 du 18 mars 1971](decret-n71-209-du-18-mars-1971)
