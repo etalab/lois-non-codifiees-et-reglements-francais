@@ -2,6 +2,7 @@
 
 - [Décret n°93-1272 du 1 décembre 1993 (INDA9300854D)](decret-n93-1272-du-1-decembre-1993-inda9300854d)
 - [Décret n°97-309 du 1 avril 1997 (MJSK9670143D)](decret-n97-309-du-1-avril-1997-mjsk9670143d)
+- [Décret n°97-6 du 2 janvier 1997 (MAEJ9630073D)](decret-n97-6-du-2-janvier-1997-maej9630073d)
 - [Décret n°88-211 du 3 mars 1988 (RESY8800194D)](decret-n88-211-du-3-mars-1988-resy8800194d)
 - [Décret n°97-1 du 3 janvier 1997 (BUDL9600168D)](decret-n97-1-du-3-janvier-1997-budl9600168d)
 - [Décret n°97-2 du 3 janvier 1997 (DEFD9602093D)](decret-n97-2-du-3-janvier-1997-defd9602093d)
@@ -14,6 +15,10 @@
 - [Décret n°97-1025 du 6 novembre 1997 (INTC9700296D)](decret-n97-1025-du-6-novembre-1997-intc9700296d)
 - [Décret n°95-607 du 6 mai 1995 (TEFT9500480D)](decret-n95-607-du-6-mai-1995-teft9500480d)
 - [Décret n°95-608 du 6 mai 1995 (TEFT9500481D)](decret-n95-608-du-6-mai-1995-teft9500481d)
+- [Décret n°97-3 du 7 janvier 1997 (JUSE9640094D)](decret-n97-3-du-7-janvier-1997-juse9640094d)
+- [Décret n°97-4 du 7 janvier 1997 (JUSB9610423D)](decret-n97-4-du-7-janvier-1997-jusb9610423d)
+- [Décret n°97-5 du 7 janvier 1997 (JUSB9610424D)](decret-n97-5-du-7-janvier-1997-jusb9610424d)
+- [Décret n°97-7 du 7 janvier 1997 (ECOP9600522D)](decret-n97-7-du-7-janvier-1997-ecop9600522d)
 - [Décret n°97-465 du 7 mai 1997 (TASS9721146D)](decret-n97-465-du-7-mai-1997-tass9721146d)
 - [Décret n°97-215 du 10 mars 1997 (FPPA9700019D)](decret-n97-215-du-10-mars-1997-fppa9700019d)
 - [Décret n°97-132 du 12 février 1997 (DEFP9701071D)](decret-n97-132-du-12-fevrier-1997-defp9701071d)
