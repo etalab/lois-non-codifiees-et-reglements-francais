@@ -4,7 +4,6 @@
 - [Décret n°82-1015 du 1 décembre 1982](decret-n82-1015-du-1-decembre-1982)
 - [Décret n°82-210 du 1 mars 1982](decret-n82-210-du-1-mars-1982)
 - [Décret n°82-457 du 1 juin 1982](decret-n82-457-du-1-juin-1982)
-- [Décret n°82-1018 du 2 décembre 1982](decret-n82-1018-du-2-decembre-1982)
 - [Décret n°82-1027 du 2 décembre 1982](decret-n82-1027-du-2-decembre-1982)
 - [Décret n°82-126 du 2 février 1982](decret-n82-126-du-2-fevrier-1982)
 - [Décret n°82-306 du 2 avril 1982](decret-n82-306-du-2-avril-1982)
