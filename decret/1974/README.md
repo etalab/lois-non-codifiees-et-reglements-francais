@@ -87,7 +87,6 @@
 - [Décret n°74-369 du 29 avril 1974](decret-n74-369-du-29-avril-1974)
 - [Décret n°76-118 du 29 janvier 1976](decret-n76-118-du-29-janvier-1976)
 - [Décret n°76-119 du 29 janvier 1976](decret-n76-119-du-29-janvier-1976)
-- [Décret n°74-76 du 30 janvier 1974](decret-n74-76-du-30-janvier-1974)
 - [Décret n°74-1204 du 31 décembre 1974](decret-n74-1204-du-31-decembre-1974)
 - [Décret n°74-1205 du 31 décembre 1974](decret-n74-1205-du-31-decembre-1974)
 - [Décret n°74-671 du 31 juillet 1974](decret-n74-671-du-31-juillet-1974)
