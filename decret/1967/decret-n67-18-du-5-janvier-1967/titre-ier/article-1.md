@@ -8,4 +8,4 @@ a) la rémunération de tous soins, consultations, examen de pièces, correspond
 
 b) le remboursement forfaitaire de tous frais accessoires, de correspondance, d'affranchissement et de papeterie.
 
-Toutefois, les huissiers de justice ont droit au remboursement des droits fiscaux, des frais de transport et des frais d'affranchissement des lettres prévues par la loi comme formalité obligatoire de procédure ainsi qu'au remboursement des frais de gardiennage, d'intervention nécessaire des commissaires de police, maires ou adjoints et des serruriers.
+Toutefois, les huissiers de justice ont droit au remboursement des droits fiscaux, des frais de transport et des frais d'affranchissement des lettres prévues par la loi comme formalité obligatoire de procédure ainsi qu'au remboursement des frais de gardiennage, d'intervention nécessaire des fonctionnaires de la police nationale, des maires ou adjoints et des serruriers.
