@@ -2,7 +2,7 @@
 
 1. Les personnes assujetties à l'octroi de mer qui livrent des marchandises à d'autres assujettis doivent délivrer une facture ou un document en tenant lieu.
 
-2. Les factures ou documents en tenant lieu doivent faire apparaître distinctement le montant de l'octroi de mer et le taux d'imposition applicable à chacune des marchandises faisant l'objet de la facturation.
+2. Les factures ou documents en tenant lieu doivent faire apparaître distinctement les montants de l'octroi de mer et du droit additionnel à l'octroi de mer et le taux d'imposition applicable à chacune des marchandises faisant l'objet de la facturation.
 
 3. Les personnes assujetties à l'octroi de mer doivent tenir une comptabilité faisant apparaître d'une manière distincte les opérations taxables et celles qui ne le sont pas.
 

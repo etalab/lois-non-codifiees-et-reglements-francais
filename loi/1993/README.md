@@ -1,6 +1,7 @@
 # 1993
 
 - [Loi n° 86-912 du 6 août 1986](loi-n-86-912-du-6-aout-1986)
+- [Loi n° 92-1376 du 30 décembre 1992 (BUDX9200273L)](loi-n-92-1376-du-30-decembre-1992-budx9200273l)
 - [Loi n° 93-1013 du 24 août 1993 (JUSX9300540L)](loi-n-93-1013-du-24-aout-1993-jusx9300540l)
 - [Loi n° 93-1027 du 24 août 1993 (INTX9300081L)](loi-n-93-1027-du-24-aout-1993-intx9300081l)
 - [Loi n° 93-1180 du 22 octobre 1993 (MAEX9300088L)](loi-n-93-1180-du-22-octobre-1993-maex9300088l)
@@ -12,6 +13,7 @@
 - [Loi n° 93-1304 du 15 décembre 1993 (MAEX9300108L)](loi-n-93-1304-du-15-decembre-1993-maex9300108l)
 - [Loi n° 93-1313 quinquennale du 20 décembre 1993 (TEFX9300125L)](loi-n-93-1313-quinquennale-du-20-decembre-1993-tefx9300125l)
 - [Loi n° 93-2 du 4 janvier 1993 (JUSX9200023L)](loi-n-93-2-du-4-janvier-1993-jusx9200023l)
+- [Loi n° 93-859 du 22 juin 1993 (BUDX9300070L)](loi-n-93-859-du-22-juin-1993-budx9300070l)
 - [Loi n° 93-893 du 6 juillet 1993 (JUSX9300071L)](loi-n-93-893-du-6-juillet-1993-jusx9300071l)
 - [Loi n° 93-914 du 19 juillet 1993 (INDX9300006L)](loi-n-93-914-du-19-juillet-1993-indx9300006l)
 - [Loi n° 93-915 du 19 juillet 1993 (ACVX9300078L)](loi-n-93-915-du-19-juillet-1993-acvx9300078l)

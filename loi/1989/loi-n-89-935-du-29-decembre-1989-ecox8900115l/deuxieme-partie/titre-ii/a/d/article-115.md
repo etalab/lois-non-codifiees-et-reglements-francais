@@ -11,3 +11,5 @@ Ce rapport indique notamment :
 - les orientations retenues par le Gouvernement pour l'élaboration et la mise en oeuvre des politiques locales concertées et des programmes nationaux de développement social urbain ;
 
 - le bilan d'exécution des actions en cours illustré d'exemples concrets.
+
+A compter du projet de loi de Finances pour 1995, ce rapport indique les contrats de ville en vigueur, en analyse le contenu et précise les financements que l'Etat y associe.

@@ -10,6 +10,8 @@ b) Lorsque l'opération n'est pas effectivement soumise à la taxe.
 
 3. L'octroi de mer ayant grevé les biens d'investissement affectés pour plus de 50 p. 100 à des opérations ouvrant droit à déduction est déductible en totalité.
 
+Lorsque ce pourcentage est inférieur à 50 p. 100, les biens n'ouvrent pas droit à déduction.
+
 4. Les véhicules ou engins, quelle que soit leur nature, qui sont conçus pour transporter des personnes ou à usage mixte et qui constituent une immobilisation n'ouvrent pas droit à déduction.
 
 Il en est de même des éléments constitutifs, des pièces détachées et accessoires de ces véhicules et engins.
@@ -42,7 +44,7 @@ Cette imputation est subordonnée à la rectification préalable de la facture i
 
 b) Cette disposition n'est pas applicable à la taxe qui a grevé l'acquisition de biens d'investissement qui ont supporté l'octroi de mer ou les éléments du prix de produits dont la livraison est exonérée en application des a, b, c et d du 1 de l'article 2.
 
-13. L'octroi de mer ayant grevé les produits en application de l'article premier et qui sont expédiés ou exportés hors de la région de la Réunion, ou qui sont expédiés ou exportés vers une destination autre que les régions de la Guadeloupe, de la Guyane et de la Martinique par une personne exerçant une activité économique au sens de l'article 256 A du code général des impôts, est remboursable à l'expéditeur ou à l'exportateur dès lors que la taxe a été facturée ou acquittée et qu'elle n'a pas fait l'objet d'une imputation.
+13. L'octroi de mer ayant grevé les produits en application de l'article 1er et qui sont expédiés ou exportés hors de la région de la Réunion, ou qui sont expédiés ou exportés vers une destination autre que les régions de la Guadeloupe, de la Guyane et de la Martinique par une personne exerçant une activité économique au sens de l'article 256 A du code général des impôts, est remboursable à l'expéditeur ou à l'exportateur dès lors que la taxe a été facturée ou acquittée et qu'elle n'a pas fait l'objet d'une imputation.
 
 Ces dispositions ne s'appliquent pas aux biens dont la livraison a été imposable en application du 2° de l'article 1er pour les expéditions vers les régions de Martinique ou de Guadeloupe.
 
