@@ -31,3 +31,29 @@ Son taux résulte de l'arrêté interministériel pris en application de l'artic
 8) Indemnités de chaussures et de vêtements de travail :
 
 Leurs taux maxima annuels résultent de l'arrêté interministériel pris en application de l'article 1er du décret n° 60-1302 du 5 décembre 1960, modifié par le décret n° 74-720 du 14 août 1974, relatif au taux de l'indemnité de chaussures et petit équipement, susceptible d'être allouée à certains fonctionnaires et agents de l'Etat, conformément au tableau de concordance suivant :
+
+<table>
+<tbody>
+<tr>
+<td width="340">
+<p align="center">DISPOSITIONS APPLICABLES AUX AGENTS HOSPITALIERS</p>
+</td>
+<td width="340">
+<p align="center">DISPOSITIONS APPLICABLES AUX AGENTS DE L'ÉTAT</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>Indemnité de chaussures</p>
+</td>
+<td rowspan="2" width="340">
+<p>Indemnité de chaussures et de petit équipement</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>Indemnité de vêtements de travail</p>
+</td>
+</tr>
+</tbody>
+</table>

@@ -1,8 +1,13 @@
-# Arrêté du 18 mars 1981 relatif aux épreuves pour l'accès au cycle préparatoire au deuxième concours d'admission aux sessions de formation des assistants de direction.
+# Arrêté du 18 mars 1981 relatif aux primes et indemnités du personnel relevant du livre IX du code de la santé publique dont les taux et les montants sont déterminés par des textes applicables aux agents de l'Etat.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
 - [Article 3](article-3.md)
+- [Article 3-1](article-3-1.md)
+- [Article 3-2](article-3-2.md)
+- [Article 3-3](article-3-3.md)
+- [Article 3-4](article-3-4.md)
+- [Article 3-5](article-3-5.md)
 - [Article 4](article-4.md)
 - [Article 5](article-5.md)
 - [Article 6](article-6.md)
@@ -12,11 +17,4 @@
 - [Article 10](article-10.md)
 - [Article 11](article-11.md)
 - [Article 12](article-12.md)
-- [Article 13](article-13.md)
-- [Article 14](article-14.md)
 - [Annexes](annexes)
-- [Article 3-1](article-3-1.md)
-- [Article 3-2](article-3-2.md)
-- [Article 3-3](article-3-3.md)
-- [Article 3-4](article-3-4.md)
-- [Article 3-5](article-3-5.md)

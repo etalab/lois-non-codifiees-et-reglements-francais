@@ -1,7 +1,11 @@
 # Article 4
 
-A l'issue de ces épreuves, le jury établit, par ordre alphabétique, dans la limite des places offertes par l'arrêté portant ouverture du concours, les listes des candidats admis respectivement au titre des deux catégories définies à l'article 18-II du décret du 13 juin 1969 susvisé.
+Prime de technicité à divers personnels travaillant régulièrement sur certaines machines comptables.
 
-Les places mises au concours qui ne seraient pas pourvues par la nomination de candidats de la catégorie correspondante peuvent être attribuées aux candidats de l'autre catégorie.
+La prime de technicité à divers personnels travaillant régulièrement sur certaines machines comptables ne peut être allouée qu'aux agents affectés de manière permanente au maniement de l'une des machines mentionnées à l'alinéa suivant. Son attribution est liée à l'exercice réel des fonctions y ouvrant droit.
 
-Le jury peut dresser une ou deux listes complémentaires (une par catégorie) comportant, par ordre de mérite, les noms des candidats susceptibles d'être admis au cycle préparatoire dans le cas où des vacances résultant de démissions viendraient à se produire.
+Les machines ouvrant droit au bénéfice de cette prime sont celles qui permettent d'effectuer les opérations d'une certaine complexité, tels la préparation des pièces de règlement de certaines dépenses, la centralisation et le contrôle des paiements, la ventilation de certains décomptes et la centralisation d'écritures comptables. Sont exclues toutes les machines sans chariot et les machines à calculer.
+
+La liste des machines visées à l'alinéa précédent et celle des personnels affectés à leur maniement dans les conditions définies par le présent article est soumise à l'avis du bureau d'organisation et méthode de la préfecture compétente.
+
+Cette indemnité n'est pas cumulable avec la prime de service instituée par l'arrêté du 24 mars 1967 modifié, susvisé.
