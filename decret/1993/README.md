@@ -25,7 +25,6 @@
 - [Décret n°93-135 du 2 février 1993 (INTE9300050D)](decret-n93-135-du-2-fevrier-1993-inte9300050d)
 - [Décret n°93-138 du 2 février 1993 (MENF9204427D)](decret-n93-138-du-2-fevrier-1993-menf9204427d)
 - [Décret n°93-143 du 2 février 1993 (SPSS9300003D)](decret-n93-143-du-2-fevrier-1993-spss9300003d)
-- [Décret n°93-144 du 2 février 1993 (SPSS9300004D)](decret-n93-144-du-2-fevrier-1993-spss9300004d)
 - [Décret n°93-162 du 2 février 1993 (FPPA9200079D)](decret-n93-162-du-2-fevrier-1993-fppa9200079d)
 - [Décret n°93-163 du 2 février 1993 (MENB9200456D)](decret-n93-163-du-2-fevrier-1993-menb9200456d)
 - [Décret n°93-164 du 2 février 1993 (MENL9202692D)](decret-n93-164-du-2-fevrier-1993-menl9202692d)
