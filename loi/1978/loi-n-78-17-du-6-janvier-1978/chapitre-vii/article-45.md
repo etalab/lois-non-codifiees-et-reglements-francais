@@ -1,6 +1,6 @@
 # Article 45
 
-Les dispositions des articles 25, 27, 29, 30, 31, 32 et 33 relatifs à la collecte, l'enregistrement et la conservation des informations nominatives sont applicables aux fichiers non automatisés ou mécanographiques autres que ceux dont l'usage relève du strict exercice du droit à la vie privée.
+Les dispositions des articles 25, 27, 28, 29, 29-1, 30, 31, 32 et 33 relatifs à la collecte, l'enregistrement et la conservation des informations nominatives sont applicables aux fichiers non automatisés ou mécanographiques autres que ceux dont l'usage relève du strict exercice du droit à la vie privée.
 
 Le premier alinéa de l'article 26 est applicable aux mêmes fichiers, à l'exception des fichiers publics désignés par un acte réglementaire.
 

@@ -1,0 +1,3 @@
+# Article 1
+
+Sont validées rétroactivement les promotions au grade de premier surveillant des services extérieurs de l'administration pénitentiaire prononcées par le directeur de l'administration pénitentiaire en application de l'arrêté du garde des sceaux, ministre de la justice, du 10 avril 1992 portant liste d'aptitude aux fonctions de premier surveillant des services extérieurs de l'administration pénitentiaire, établie à l'issue de la session 1991-1992 de l'examen professionnel organisé conformément au décret n° 77-1540 du 31 décembre 1977 relatif au statut particulier du personnel de surveillance des services extérieurs de l'administration pénitentiaire et à l'arrêté ministériel du 20 janvier 1978.

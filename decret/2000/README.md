@@ -47,6 +47,7 @@
 - [Décret n°2000-298 du 6 avril 2000 (MENX0000068D)](decret-n2000-298-du-6-avril-2000-menx0000068d)
 - [Décret n°2000-300 du 6 avril 2000 (FPPX0000067D)](decret-n2000-300-du-6-avril-2000-fppx0000067d)
 - [Décret n°2000-301 du 6 avril 2000 (RECX0000069D)](decret-n2000-301-du-6-avril-2000-recx0000069d)
+- [Décret n°2000-323 du 6 avril 2000 (AGRE9900300D)](decret-n2000-323-du-6-avril-2000-agre9900300d)
 - [Décret n°2000-501 du 6 juin 2000 (AGRS0000741D)](decret-n2000-501-du-6-juin-2000-agrs0000741d)
 - [Décret n°2000-7 du 6 janvier 2000 (MESH0020003D)](decret-n2000-7-du-6-janvier-2000-mesh0020003d)
 - [Décret n°2000-876 du 6 septembre 2000 (MENF0001892D)](decret-n2000-876-du-6-septembre-2000-menf0001892d)
