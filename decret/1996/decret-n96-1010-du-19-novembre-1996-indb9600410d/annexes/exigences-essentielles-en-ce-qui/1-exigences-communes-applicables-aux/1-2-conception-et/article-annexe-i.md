@@ -14,7 +14,7 @@ Les orifices d'emplissage et de vidange doivent être conçus et équipés afin 
 
 1.2.4. Dépôts de poussières.
 
-Les appareils et systèmes de protection qui sont utilisés dans des zones empoussiérées doivent être conçus de telle manière que les dépôts de poussières qui se forment à leur surface ne puissent pas conduire à leurs inflammations.
+Les appareils et systèmes de protection qui sont destinés à être utilisés dans des zones empoussiérées doivent être conçus de telle manière que les dépôts de poussières qui se forment à leur surface ne puissent pas conduire à leurs inflammations.
 
 En règle générale, les dépôts de poussières doivent être aussi limités que possible. Les appareils et les systèmes de protection doivent être faciles à nettoyer.
 
