@@ -100,6 +100,6 @@ Connaissance des problèmes des autres spécialités.
 
 Répartition des tâches entre les membres de l'équipage technique et avec le P.N.C. pour les questions de sécurité conformément au manuel d'exploitation.
 
-10. Documents de bord.
+Gestion des ressources humaines et techniques.    10. Documents de bord.
 
 11. Assistance des vols.

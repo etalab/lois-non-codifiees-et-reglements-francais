@@ -22,6 +22,6 @@ La température en surface non exposée des éléments d'essais est mesurée ave
 
 Chaque jonction de thermocouple est soudée au centre d'un disque de cuivre de 12 millimètres de diamètre et 0,2 millimètre d'épaisseur. Ce disque est fixé à la surface de l'élément d'essai. La lecture doit être effectuée avec une précision de + ou - 2 °C.
 
-Les disques sont recouverts par une plaquette d'amiante de 30 millimètres de côté et 2 millimètres d'épaisseur d'une densité de 1 000 kg par mètre cube et séchée au four, ou par un matériau de caractéristiques identiques. Cette plaquette est fixée à l'élément d'essai et assure le maintien en place du disque au contact de l'élément d'essai.
+Les disques sont recouverts par une plaquette en matériau incombustible de 30 millimètres de côté et 2 millimètres d'épaisseur, d'une densité de 1 000 kilogrammes par mètre cube et séchée au four, ou par un matériau de caractéristiques identiques. Cette plaquette est fixée à l'élément d'essai et assure le maintien en place du disque au contact de l'élément d'essai.
 
-Les revêtements décoratifs minces et souples susceptibles de se décoller localement doivent être enlevés à l'emplacement des plaquettes d'amiante.
+Les revêtements décoratifs minces et souples susceptibles de se décoller localement doivent être enlevés à l'emplacement des plaquettes en matériau incombustible.

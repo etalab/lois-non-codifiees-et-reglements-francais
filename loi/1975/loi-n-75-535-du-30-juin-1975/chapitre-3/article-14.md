@@ -4,7 +4,7 @@ Tout changement important dans l'activité, l'installation, l'organisation, la d
 
 Sans préjudice des sanctions prévues à l'article 15, un établissement ou un service ouvert sans autorisation peut être fermé par l'autorité compétente pour en autoriser la création, après avis, selon le cas, du comité national ou régional de l'organisation sanitaire et sociale. Dans le cas où la création relève d'une autorisation conjointe en vertu de l'article 46 de la loi n° 83-663 du 22 juillet 1983 précitée, la décision de fermeture est prise conjointement par le représentant de l'Etat dans le département et le président du conseil général.
 
-Le représentant de l'Etat peut prononcer la fermeture, totale ou partielle, provisoire ou définitive, d'un établissement ou d'un service, dans les conditions prévues aux articles 97 et 210 du code de la famille et de l'aide sociale :
+Le représentant de l'Etat prononce la fermeture, totale ou partielle, provisoire ou définitive, d'un établissement ou d'un service, dans les conditions prévues aux articles 97 et 210 du code de la famille et de l'aide sociale :
 
 1° Lorsque les normes définies par le décret prévu à l'article 4 ne sont pas respectées ;
 

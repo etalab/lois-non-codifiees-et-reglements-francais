@@ -10,7 +10,7 @@ Personnel employé au gardiennage des exploitations fermées
 
 Numéros du risque (sécurité sociale) : 74.7 ZZ
 
-Taux net de cotisation "a.t." : 1,7
+Taux net de cotisation "a.t." : 2,4
 
 Nature du risque :
 

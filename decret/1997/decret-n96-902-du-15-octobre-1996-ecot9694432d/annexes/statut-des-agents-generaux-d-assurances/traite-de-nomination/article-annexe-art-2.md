@@ -1,0 +1,3 @@
+# Article Annexe, art. 2
+
+L'activité de l'agent général et ses modalités de rémunération sont régies, sans préjudice des dispositions légales et réglementaires, par le ou les mandats dénommés traités de nomination. Les conventions entre les organisations professionnelles des entreprises d'assurances et des agents généraux, ainsi que les accords qui en découlent au sein de chaque entreprise concernée intervenus entre leurs adhérents, entreprises d'assurances et syndicats d'agents généraux des entreprises concernées, définissent pour ce qui les concerne les règles applicables aux traités de nomination conclus entre ces entreprises et les mandataires intéressés.

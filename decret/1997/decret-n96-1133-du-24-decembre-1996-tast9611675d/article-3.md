@@ -1,0 +1,9 @@
+# Article 3
+
+I. - La fabrication, la transformation, l'importation et la mise sur le marché national de l'un des matériaux, produits ou dispositifs relevant d'une des catégories mentionnées sur la liste prévue à l'article 2 donnent lieu à une déclaration, souscrite selon les cas par le chef d'établissement, l'importateur ou le responsable de la mise sur le marché national, qui est adressée au ministre chargé du travail. Cette déclaration est faite chaque année au mois de janvier ou, le cas échéant, trois mois avant le commencement d'une activité nouvelle, ou la modification d'une production existante, selon un formulaire défini par arrêté des ministres chargés du travail, de la consommation, de l'industrie et de l'agriculture.
+
+Elle est obligatoirement assortie de toutes les justifications en la possession du déclarant permettant d'établir, compte tenu des progrès scientifiques et technologiques, que l'activité faisant l'objet de la déclaration répond, à la date à laquelle celle-ci est souscrite, aux conditions énoncées au I de l'article 2.
+
+II. - Une activité qui n'a pas fait l'objet d'une déclaration complète dans le délai prescrit ne peut bénéficier de l'exception prévue à l'article 2.
+
+III. - A tout moment, le ministre chargé du travail peut transmettre à l'auteur de la déclaration les informations lui paraissant établir que le matériau, produit ou dispositif en cause, bien que relevant de l'une des catégories énumérées par la liste de l'article 2, ne satisfait pas aux conditions énoncées au I du même article. Après avoir sollicité les observations du déclarant, il peut le mettre en demeure de cesser cette fabrication, transformation, importation ou mise sur le marché national et de se conformer à l'interdiction énoncée à l'article 1er. Il peut rendre publique cette mise en demeure.

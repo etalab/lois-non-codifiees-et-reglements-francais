@@ -1,0 +1,3 @@
+# Article 2
+
+L'indemnité compensatrice est égale à 85 % de la différence entre la rémunération, calculée sur la base de l'indice de traitement détenu sur le dernier emploi occupé en qualité de non-titulaire, et le traitement brut afférent à l'emploi détenu en qualité de fonctionnaire, à l'exclusion de l'indemnité de résidence, du supplément familial de traitement et de toutes primes ou indemnités dont l'agent peut ou a pu bénéficier en qualité de fonctionnaire ou de non-titulaire. Elle est réduite au fur et à mesure des augmentations de traitement consécutives aux avancements dont les fonctionnaires intéressés bénéficient dans leur nouveau corps.

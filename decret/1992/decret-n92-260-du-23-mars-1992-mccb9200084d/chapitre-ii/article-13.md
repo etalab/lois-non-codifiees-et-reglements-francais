@@ -1,3 +1,145 @@
 # Article 13
 
-Peuvent être inscrits au tableau d'avancement en vue d'une promotion au grade de chef de travaux d'art de 1re classe les chefs de travaux d'art ayant atteint depuis deux ans au moins le 6e échelon de la 2e classe et comptant onze ans et six mois de services effectifs, dans cette classe ou dans un corps de catégorie A. La durée du service militaire obligatoire ou du service national actif effectivement accompli vient, le cas échéant, en déduction des onze ans et six mois de services effectifs ; il en est de même de la fraction qui excède la douzième année de l'ancienneté déterminée à l'article 8 ci-dessus. Ces déductions ne peuvent toutefois avoir pour effet de réduire à moins de deux ans la durée des services effectivement accomplis dans cette classe ou un corps de catégorie A.
+La durée moyenne et la durée minimale du temps passé dans chaque échelon sont fixées comme suit :
+
+<table>
+<tbody>
+<tr>
+<td rowspan="2" width="205">
+<p align="center">ÉCHELONS</p>
+</td>
+<td colspan="2" width="409">
+<p align="center">DURÉE</p>
+</td>
+</tr>
+<tr>
+<td width="205">
+<p align="center">Moyenne</p>
+</td>
+<td width="205">
+<p align="center">Minimale</p>
+</td>
+</tr>
+<tr>
+<td width="205">
+<p>11e échelon</p>
+</td>
+<td width="205">
+<p align="center">-</p>
+</td>
+<td width="205">
+<p align="center">-</p>
+</td>
+</tr>
+<tr>
+<td width="205">
+<p>10e échelon</p>
+</td>
+<td width="205">
+<p align="center">4 ans</p>
+</td>
+<td width="205">
+<p align="center">3 ans</p>
+</td>
+</tr>
+<tr>
+<td width="205">
+<p>9e échelon</p>
+</td>
+<td width="205">
+<p align="center">3 ans</p>
+</td>
+<td width="205">
+<p align="center">2 ans 3 mois</p>
+</td>
+</tr>
+<tr>
+<td width="205">
+<p>8e échelon</p>
+</td>
+<td width="205">
+<p align="center">3 ans</p>
+</td>
+<td width="205">
+<p align="center">2 ans 3 mois</p>
+</td>
+</tr>
+<tr>
+<td width="205">
+<p>7e échelon</p>
+</td>
+<td width="205">
+<p align="center">3 ans</p>
+</td>
+<td width="205">
+<p align="center">2 ans 3 mois</p>
+</td>
+</tr>
+<tr>
+<td width="205">
+<p>6e échelon</p>
+</td>
+<td width="205">
+<p align="center">3 ans</p>
+</td>
+<td width="205">
+<p align="center">2 ans 3 mois</p>
+</td>
+</tr>
+<tr>
+<td width="205">
+<p>5e échelon</p>
+</td>
+<td width="205">
+<p align="center">3 ans</p>
+</td>
+<td width="205">
+<p align="center">2 ans 3 mois</p>
+</td>
+</tr>
+<tr>
+<td width="205">
+<p>4e échelon</p>
+</td>
+<td width="205">
+<p align="center">3 ans</p>
+</td>
+<td width="205">
+<p align="center">2 ans 3 mois</p>
+</td>
+</tr>
+<tr>
+<td width="205">
+<p>3e échelon</p>
+</td>
+<td width="205">
+<p align="center">2 ans</p>
+</td>
+<td width="205">
+<p align="center">1 an 6 mois</p>
+</td>
+</tr>
+<tr>
+<td width="205">
+<p>2e échelon</p>
+</td>
+<td width="205">
+<p align="center">2 ans</p>
+</td>
+<td width="205">
+<p align="center">1 an 6 mois</p>
+</td>
+</tr>
+<tr>
+<td width="205">
+<p>1er échelon</p>
+</td>
+<td width="205">
+<p align="center">1 an</p>
+</td>
+<td width="205">
+<p align="center">1 an</p>
+</td>
+</tr>
+</tbody>
+</table>

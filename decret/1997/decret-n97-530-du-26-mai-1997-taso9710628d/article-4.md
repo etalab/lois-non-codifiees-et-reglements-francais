@@ -1,0 +1,3 @@
+# Article 4
+
+Sont abrogés le décret n° 87-749 du 8 septembre 1987 relatif aux indemnités forfaitaires pour travaux supplémentaires et sujétions spéciales allouées aux inspecteurs et contrôleurs de la formation professionnelle, en tant qu'il concerne les contrôleurs de la formation professionnelle, le décret n° 89-328 du 22 mai 1989 portant attribution d'une indemnité spéciale aux fonctionnaires du corps des chefs de centre des services extérieurs du travail et de la main-d'oeuvre et du corps des contrôleurs des services extérieurs du travail et de la main-d'oeuvre et le décret n° 89-724 du 6 octobre 1989 relatif à l'attribution d'une indemnité spéciale aux fonctionnaires du corps des contrôleurs des lois sociales en agriculture.

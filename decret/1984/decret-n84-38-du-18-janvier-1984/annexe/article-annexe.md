@@ -52,6 +52,14 @@ Emplois de catégorie A, B, C et D
 
 ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
 
+Agence nationale des fréquences
+
+EMPLOIS OU CATEGORIES D'EMPLOIS concernés
+
+Emplois des catégories A et B correspondant à l'exercice d'activités techniques dans le domaine de la planification et de la gestion du spectre, ainsi que dans le domaine de l'assignation, du contrôle et de la gestion des fréquences et des réseaux de radiocommunications
+
+ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
+
 Caisse nationale d'assurance maladie des travailleurs salariés
 
 EMPLOIS OU CATEGORIES D'EMPLOIS concernés

@@ -1,0 +1,11 @@
+# Article 3
+
+La demande de prestation spécifique dépendance est adressée au président du conseil général du département de résidence du demandeur qui informe du dépôt de celle-ci le maire de la commune de résidence. Elle est instruite par une équipe médico-sociale qui comprend au moins un médecin et un travailleur social et dont l'un au moins des membres se rend auprès de l'intéressé. Pour apprécier le besoin d'aide de celui-ci, le président du conseil général compétent en application des dispositions du dernier alinéa du présent article se fonde notamment sur les conclusions de l'équipe médico-sociale.
+
+La prestation spécifique dépendance est accordée par décision motivée du président du conseil général, après avis du maire de la commune de résidence du demandeur. Si cet avis n'a pas été rendu dans un délai de quinze jours après transmission de la demande par le président du conseil général, il est réputé être favorable. Si la décision du président du conseil général n'a pas été notifiée à l'intéressé dans un délai de deux mois à compter du dépôt de son dossier complet, la prestation spécifique dépendance est réputée lui être accordée à compter du terme de ce délai.
+
+En cas d'urgence, le président du conseil général peut attribuer, à titre provisoire, la prestation mentionnée à l'article 2 jusqu'à l'expiration du délai de deux mois mentionné à l'alinéa précédent, dans des conditions fixées par le règlement départemental d'aide sociale.
+
+La décision mentionnée au deuxième alinéa fait l'objet d'une révision périodique instruite selon les mêmes modalités.
+
+La prestation spécifique dépendance est servie et gérée par le département où le bénéficiaire possède son domicile de secours acquis conformément aux articles 193 et 194 du code de la famille et de l'aide sociale. En cas d'absence de domicile de secours, la prestation est servie et gérée par le département de résidence. Toutefois, les dispositions figurant au 9° de l'article 35 de la loi n° 83-663 du 22 juillet 1983 complétant la loi n° 83-8 du 7 janvier 1983 relative à la répartition de compétences entre les communes, les départements, les régions et l'Etat sont applicables à la prestation spécifique dépendance.

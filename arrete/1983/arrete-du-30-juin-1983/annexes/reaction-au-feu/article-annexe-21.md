@@ -16,8 +16,6 @@ Bétons et mortiers de ciments et de chaux.
 
 Vermiculite, perlite.
 
-Amiante-ciment.
-
 Silico-calcaire.
 
 Pierre, ardoise.

@@ -1,0 +1,19 @@
+# Article Annexes
+
+Annexe 1-1
+
+LOIS DE MAINTIEN EN INVALIDITÉ (DÉFINITION SÉCURITÉ SOCIALE)
+
+(Tableau non reproduit)
+
+Annexe 1-2
+
+LOIS DE MAINTIEN EN INCAPACITÉ TEMPORAIRE (DÉFINITION SÉCURITÉ SOCIALE)
+
+(Tableau non reproduit*]
+
+Annexe 1-3
+
+PROBABILITÉS DE PASSAGE D'INCAPACITÉ TEMPORAIRE EN INVALIDITÉ
+
+(Tableau non reproduit)

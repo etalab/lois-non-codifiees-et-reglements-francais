@@ -12,7 +12,7 @@ Extraction et agglomération de la houille (mines privées)
 
 Numéros du risque (sécurité sociale) : 10.1 ZZ
 
-Taux net de cotisation "a.t." : 9,9
+Taux net de cotisation "a.t." : 10,2
 
 Nature du risque :
 
@@ -24,7 +24,7 @@ Extraction de pétrole
 
 Numéros du risque (sécurité sociale) : 11.1 ZZ
 
-Taux net de cotisation "a.t." : 1,6
+Taux net de cotisation "a.t." : 1,5
 
 Numéros de la Nomenclature d'activités françaises : 11.1 Z*
 
@@ -34,7 +34,7 @@ Extraction de gaz naturel
 
 Numéros du risque (sécurité sociale) : 11.1 ZY
 
-Taux net de cotisation "a.t." : 1,6
+Taux net de cotisation "a.t." : 1,5
 
 Nature du risque :
 
@@ -46,7 +46,7 @@ Extraction de minerais d'uranium
 
 Numéros du risque (sécurité sociale) : 12.0 ZZ
 
-Taux net de cotisation "a.t." : 9,9
+Taux net de cotisation "a.t." : 10,2
 
 Nature du risque :
 
@@ -58,7 +58,7 @@ Mines de fer à ciel ouvert
 
 Numéros du risque (sécurité sociale) : 13.1 ZZ
 
-Taux net de cotisation "a.t." : 3,1
+Taux net de cotisation "a.t." : 3
 
 Numéros de la Nomenclature d'activités françaises : 13.1 Z*
 
@@ -68,7 +68,7 @@ Mines de fer souterraines autres que les mines sédimentaires de l'Est
 
 Numéros du risque (sécurité sociale) : 13.1 ZY
 
-Taux net de cotisation "a.t." : 9,9
+Taux net de cotisation "a.t." : 10,2
 
 Numéros de la Nomenclature d'activités françaises : 13.1 Z*
 
@@ -78,7 +78,7 @@ Mines de fer souterraines de l'Est
 
 Numéros du risque (sécurité sociale) : 13.1 ZX
 
-Taux net de cotisation "a.t." : 9,9
+Taux net de cotisation "a.t." : 10,2
 
 Numéros de la Nomenclature d'activités françaises : 13.2 Z*
 
@@ -88,7 +88,7 @@ Extraction de bauxite
 
 Numéros du risque (sécurité sociale) : 13.2 ZZ
 
-Taux net de cotisation "a.t." : 9,9
+Taux net de cotisation "a.t." : 10,2
 
 Numéros de la Nomenclature d'activités françaises : 13.2 Z*
 
@@ -98,7 +98,7 @@ Extraction de minerais de plomb, zinc et cuivre
 
 Numéros du risque (sécurité sociale) : 13.2 ZY
 
-Taux net de cotisation "a.t." : 9,9
+Taux net de cotisation "a.t." : 10,2
 
 Numéros de la Nomenclature d'activités françaises : 13.2 Z*
 
@@ -108,7 +108,7 @@ Extraction souterraine d'autres minerais métalliques
 
 Numéros du risque (sécurité sociale) : 13.2 ZX
 
-Taux net de cotisation "a.t." : 9,9
+Taux net de cotisation "a.t." : 10,2
 
 Numéros de la Nomenclature d'activités françaises : 13.2 Z*
 
@@ -118,7 +118,7 @@ Extraction de métaux précieux par retraitement de haldes
 
 Numéros du risque (sécurité sociale) : 13.2 ZW
 
-Taux net de cotisation "a.t." : 3,1
+Taux net de cotisation "a.t." : 3
 
 Nature du risque :
 
@@ -130,7 +130,7 @@ Ardoisières
 
 Numéros du risque (sécurité sociale) : 14.1 EZ
 
-Taux net de cotisation "a.t." : 9,9
+Taux net de cotisation "a.t." : 10,2
 
 Numéros de la Nomenclature d'activités françaises : 14.3 Z*
 
@@ -140,7 +140,7 @@ Extraction de potasse
 
 Numéros du risque (sécurité sociale) : 14.3 ZZ
 
-Taux net de cotisation "a.t." : 9,9
+Taux net de cotisation "a.t." : 10,2
 
 Numéros de la Nomenclature d'activités françaises : 14.3 Z*
 
@@ -150,7 +150,7 @@ Production de fluorine
 
 Numéros du risque (sécurité sociale) : 14.3 ZY
 
-Taux net de cotisation "a.t." : 9,9
+Taux net de cotisation "a.t." : 10,2
 
 Numéros de la Nomenclature d'activités françaises : 14.4 Z*
 
@@ -160,7 +160,7 @@ Extraction de sel (chlorure de sodium et sels divers)
 
 Numéros du risque (sécurité sociale) : 14.4 ZZ
 
-Taux net de cotisation "a.t." : 9,9
+Taux net de cotisation "a.t." : 10,2
 
 Numéros de la Nomenclature d'activités françaises : 14.5 Z*
 
@@ -170,7 +170,7 @@ Production d'asphalte
 
 Numéros du risque (sécurité sociale) : 14.5 ZZ
 
-Taux net de cotisation "a.t." : 9,9
+Taux net de cotisation "a.t." : 10,2
 
 Nature du risque :
 
@@ -182,4 +182,4 @@ Missions itinérantes de recherches minières du Commissariat à l'énergie atom
 
 Numéros du risque (sécurité sociale) : 73.1 ZZ
 
-Taux net de cotisation "a.t." : 1,6
+Taux net de cotisation "a.t." : 1,5

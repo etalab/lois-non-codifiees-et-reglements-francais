@@ -2,7 +2,7 @@
 
 Les matériaux comportant un support textile et un film synthétique étanche et apparent (enduction, contrecollage, etc.) sur une ou deux faces sont soumis aux épreuves de vieillissement accéléré prévues au chapitre II.
 
-liste des matériaux textiles non soumis a l'épreuve de vieillissement accéléré.
+Fibres minérales.
 
 Tissus libres ou tendus
 

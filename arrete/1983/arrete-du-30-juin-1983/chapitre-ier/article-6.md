@@ -8,7 +8,7 @@ De plus, pour les parements incombustibles minces, il faut tenir compte du risqu
 
 Une discontinuité de ce parement dans les joints peut provoquer une émission de gaz de pyrolyse combustibles.
 
-En conséquence, les matériaux multicouches à parement incombustible étanche doivent être soumis à l'essai par rayonnement après avoir simulé un joint par un trait de scie dans le parement exposé (épaisseur du trait : 2 mm, longueur : 180 mm depuis le bord inférieur dans l'axe longitudinal) et après avoir réalisé une étanchéité aux gaz de pyrolyse par collage d'un carton d'amiante sur les quatre chants des éprouvettes. Si les panneaux sont destinés à être peints, l'essai est réalisé après application de deux couches de peinture glycérophtalique de couleur grise. Les panneaux présentés peints par le demandeur sont essayés tels quels.
+En conséquence, les matériaux multicouches à parement incombustible étanche doivent être soumis à l'essai par rayonnement après avoir simulé un joint par un trait de scie dans le parement exposé (épaisseur du trait : 3 mm, longueur : 180 mm depuis le bord inférieur dans l'axe longitudinal) et après avoir réalisé une étanchéité aux gaz de pyrolyse par collage d'un film d'aluminium adhésif sur les quatre chants des éprouvettes. Si les panneaux sont destinés à être peints, l'essai est réalisé après application de deux couches de peinture glycérophtalique de couleur grise. Les panneaux présentés peints par le demandeur sont essayés tels quels.
 
 Le classement des matériaux multicouches à parement incombustible étanche fait l'objet de l'article 78.
 

@@ -8,7 +8,7 @@ La nouvelle bonification indiciaire, prise en compte et soumise à cotisation po
 
 - correspondants informatiques locaux responsables de la coordination dans les directions régionales et les directions départementales de la jeunesse et des sports ;
 
-- personnels responsables de la restauration dans les établissements nationaux de la jeunesse et des sports et leurs adjoints.
+- personnels responsables de la restauration dans les établissements nationaux de la jeunesse et des sports et leurs adjoints ;
 
 Personnels responsables de la maintenance des locaux dans les établissements nationaux de la jeunesse et des sports ;
 
@@ -30,4 +30,14 @@ Adjoints au coordonnateur administratif et financier à la direction régionale 
 
 - personnels responsables de la maintenance audio-visuelle ;
 
-- chef de bureau de gestion et de recrutement.
+- chef de bureau de gestion et de recrutement ;
+
+- agents responsables des espaces verts dans les établissements publics nationaux ;
+
+- agents chargés de la mise en oeuvre des règles d'hygiène et de sécurité ;
+
+- assistante sociale ;
+
+- personnels nommés dans l'emploi de directeur départemental de la jeunesse, des sports et des loisirs ;
+
+- personnels nommés dans l'emploi de directeur régional adjoint de la jeunesse, des sports et des loisirs.

@@ -56,4 +56,6 @@ Connaissance des procédures de dégagement.
 
 Connaissance de la réglementation.
 
+Gestion des ressources humaines et techniques.
+
 4. A la suite des épreuves en vol, le candidat est déclaré apte ou inapte par le jury d'examen, sur proposition de l'examinateur.

@@ -15,3 +15,5 @@ Jusqu'au 31 octobre 1994 :
 - brevet de technicien Transport ;
 
 - baccalauréat professionnel, section Logistique et transport, option Exploitation des transports.
+
+Certificat de compétence intitulé "responsable d'une unité de transports de marchandises et logistiques" délivré par le Conservatoire national des arts et métiers dans le cadre d'une convention passée entre cet organisme et l'Association pour le développement de la formation professionnelle dans les transports (A.F.T.-I.F.T.I.M.).

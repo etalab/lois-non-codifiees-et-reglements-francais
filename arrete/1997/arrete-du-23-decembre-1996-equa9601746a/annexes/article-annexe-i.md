@@ -1,0 +1,5 @@
+# Article ANNEXE I
+
+TAUX UNITAIRE GLOBAL DES ÉTATS PARTICIPANT AU SYSTÈME DE LA REDEVANCE DE ROUTE
+
+(Tableau non reproduit voir JORF du 29 décembre 1996 p. 19394).

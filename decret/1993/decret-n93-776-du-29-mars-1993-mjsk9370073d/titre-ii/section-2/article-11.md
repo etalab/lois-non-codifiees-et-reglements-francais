@@ -2,29 +2,41 @@
 
 La durée moyenne et la durée minimale du temps passé dans chacun des échelons de la hors-classe du corps des inspecteurs de la jeunesse, des sports et des loisirs sont fixées ainsi qu'il suit :
 
-GRADES ET ÉCHELONS
+I   = GRADES ET ÉCHELONS
 
-DURÉE
+II  = DUREE MOYENNE
 
-Moyenne
+III = DUREE MINIMALE
 
-Minimale
-
-Du 1er au 2e échelon
-
-2 ans 6 mois       2 ans
-
-Du 2e au 3e échelon
-
-2 ans 6 mois       2 ans
-
-Du 3e au 4e échelon
-
-2 ans 6 mois       2 ans
-
-Du 4e au 5e échelon
-
-4 ans       3 ans
+<table>
+<tr>
+<td> :---------:------------:-----:</td>
+</tr>
+<tr>
+<td> :    I    :     II     : III :</td>
+</tr>
+<tr>
+<td> :---------:------------:-----:</td>
+</tr>
+<tr>
+<td> :1er au 2e:2 ans 6 mois:2 ans:</td>
+</tr>
+<tr>
+<td> : 2e au 3e:2 ans 6 mois:2 ans:</td>
+</tr>
+<tr>
+<td> : 3e au 4e:2 ans 6 mois:2 ans:</td>
+</tr>
+<tr>
+<td> : 4e au 5e:3 ans:2 ans 6 mois:</td>
+</tr>
+<tr>
+<td> : 5e au 6e:3 ans:2 ans 6 mois:</td>
+</tr>
+<tr>
+<td> :---------:------------:-----:</td>
+</tr>
+</table>
 
 Les nominations à la hors-classe du corps des inspecteurs de la jeunesse, des sports et des loisirs sont prononcées dans l'ordre d'inscription au tableau annuel d'avancement établi après avis de la commission administrative paritaire.
 

@@ -1,0 +1,3 @@
+# Article 1
+
+Sont déclarés nécessaires à l'exécution des missions de service public d'enseignement supérieur des télécommunications et à ce titre propriété de l'Etat (ministère chargé des télécommunications) les biens immobiliers appartenant à France Télécom et les installations techniques dont ils sont équipés, dont la liste des emprises est donnée dans l'annexe I du présent arrêté, et tous immeubles par destination et incorporation, notamment ceux indiqués dans le fichier des immobilisations de la direction de l'enseignement supérieur des télécommunications (D.E.S.T.), fichier arrêté au 31 décembre 1996.

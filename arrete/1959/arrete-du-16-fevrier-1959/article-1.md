@@ -4,6 +4,6 @@ Les cotisations patronales d'assurance maladie, maternité, invalidité et déc�
 
 - aux taux du régime général fixés en application des articles L. 241-1, L. 241-3, L. 241-5 et L. 241-6 du code de la sécurité sociale pour celles qui sont assises sur le salaire brut après déduction des frais professionnels ;
 
-- au taux de 5,74 p. 100 du montant de la rémunération brute après déduction des frais professionnels pour celles qui sont dues, par trimestre et par employeur, dans la limite du plafond trimestriel.
+- au taux de 6,49 p. 100 du montant de la rémunération brute après déduction des frais professionnels pour celles qui sont dues, par trimestre et par employeur, dans la limite du plafond trimestriel.
 
 Les cotisations salariales de sécurité sociale sont calculées selon les règles et les taux du régime général fixés en application des articles L. 241-1, L. 241-3, L. 241-5 et L. 241-6 du code de la sécurité sociale.

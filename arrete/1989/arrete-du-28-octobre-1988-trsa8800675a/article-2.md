@@ -16,6 +16,8 @@ Technique du vol Avion ;
 
 Navigation 1.
 
+Facteurs humains.
+
 Les candidats titulaires d'une licence de membre d'équipage de conduite en cours de validité ou périmée depuis moins de deux ans ne sont tenus qu'à l'obtention des certificats qu'ils n'ont pas obtenus dans le cadre de la licence qu'ils détiennent.
 
 Les candidats titulaires d'une licence d'ingénieur navigant de l'aviation civile ou de mécanicien navigant option Transport public en cours de validité ou périmée depuis moins de deux ans sont dispensés de passer l'épreuve d'aérotechnique Avion et l'épreuve de technique du vol Avion.

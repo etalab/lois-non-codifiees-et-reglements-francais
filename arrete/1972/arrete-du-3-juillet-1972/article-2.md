@@ -12,7 +12,7 @@ La caisse nationale de compensation verse ou reverse à chaque caisse artisanale
 
 5° Pour être affectées au compte d'action sociale de la caisse, les dotations allouées :
 
-a) Sur les ressources tirées d'une part du prélèvement prévu à l'article L. 663-4 du code de la sécurité sociale portant sur les sommes encaissées au titre du 1° et du 2° de l'article L. 663-8 modifié du code de la sécurité sociale et, d'autre part, des majorations et pénalités visées en a du 2° de l'article 1er, ces ressources étant affectées à l'action sociale des caisses de base dans la limite des deux tiers de leur montant cumulé au plan national ;
+a) Sur les ressources fixées par arrêté interministériel conformément aux articles L. 636-1 et D. 636-1 du code de la sécurité sociale, ces ressources étant affectées à l'action sociale des caisses de base dans une proportion définie par décision du conseil d'administration de la caisse nationale ;
 
 b) Sur la totalité des ressources dégagées en application de l'article 46 du règlement du régime d'assurance invalidité-décès approuvé par les arrêtés susvisés du 17 décembre 1975, du 19 septembre 1977 et du 17 février 1978 ;
 

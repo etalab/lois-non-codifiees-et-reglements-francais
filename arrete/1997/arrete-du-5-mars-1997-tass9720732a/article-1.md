@@ -1,0 +1,3 @@
+# Article 1
+
+A l'annexe de l'arrêté du 27 décembre 1996 modifiant l'arrêté du 17 octobre 1995 relatif à la tarification des risques d'accidents du travail et de maladies professionnelles et fixant les tarifs des cotisations d'accidents du travail et maladies professionnelles des activités professionnelles relevant du régime général de la sécurité sociale, pour le taux net de cotisation concernant le risque 85.3 HA appartenant aux activités du groupe interprofessionnel et relatif aux stagiaires des centres de formation professionnelle, de réadaptation fonctionnelle, de rééducation professionnelle, au lieu de "19,20 %", lire "5,40 %".

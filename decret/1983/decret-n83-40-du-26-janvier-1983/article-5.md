@@ -2,13 +2,11 @@
 
 Paragraphe 1. La durée du travail effectif est égale à l'amplitude de la journée de travail, telle que définie à l'article 6, paragraphe 1, diminuée de la durée totale des interruptions dites "coupures" et du temps consacré aux repas, à l'habillage et au casse-croûte.
 
-Pour le personnel roulant effectuant des transports de marchandises, la durée journalière cumulée des temps de repas, de repos et de coupure compris dans l'amplitude de travail et non rémunérés ne peut excéder un seuil maximal qui sera défini par accord de branche.
+Pour les personnels de conduite affectés, dans les transports routiers de marchandises, à des services leur faisant obligation de prendre au moins six repos journaliers par mois hors du domicile, et, pour les personnels roulants affectés, dans les entreprises de déménagement, à des services leur faisant obligation de prendre au moins quarante repos journaliers par an hors du domicile, la durée journalière cumulée des temps de repas, de repos et de coupure compris dans l'amplitude de la journée de travail et non rémunérés ne peut excéder un seuil maximal.
 
-Pour les personnels de conduite affectés, dans les transports routiers de marchandises, à des services leur faisant obligation de prendre au moins six repos journaliers par mois hors du domicile, et pour les personnels de conduite affectés, dans les entreprises de déménagement, à des services leur faisant obligation de prendre au moins quarante repos journaliers par an hors du domicile, l'accord de branche visé au précédent alinéa devra avoir été conclu avant le 31 décembre 1996.
+Ce seuil maximal est déterminé par accord de branche ou, dans l'entreprise, par accord d'entreprise ou d'établissement. Dans les établissements non couverts par une disposition conventionnelle, il est fixé à un quart de l'amplitude de la journée de travail et ne saurait en tout état de cause être supérieur à trois heures.
 
-Pour les autres personnels roulant effectuant des transports de marchandises, l'accord de branche visé au premier alinéa du présent paragraphe devra avoir été conclu avant le 30 juin 1997.
-
-A défaut d'accord de branche dans les délais prévus aux deux précédents alinéas, il y sera suppléé par décret.
+Pour les autres personnels roulants effectuant des transports de marchandises, la durée journalière cumulée des temps de repas, de repos et de coupure compris dans l'amplitude de la journée de travail et non rémunérés ne peut excéder un seuil maximal défini par un accord de branche qui devra avoir été conclu avant le 30 juin 1997. A défaut d'accord de branche dans le délai prévu, il y sera suppléé par décret.
 
 Paragraphe 2. Pour tenir compte de l'intermittence du travail, et à titre transitoire, la durée hebdomadaire de travail effectif prévue à l'article L. 212-1 du code du travail peut être prolongée des temps de présence suivants :
 

@@ -1,0 +1,3 @@
+# Article 2
+
+Le ministre chargé de la sécurité civile pour les assujettis dont les missions s'opèrent au plan national ou le préfet du département de résidence du titulaire de l'autorisation délivrée pour les autres assujettis délivrent, sur la demande de tout titulaire visé à l'article 1er, une attestation de sa qualité de personne morale de droit public ou de droit privé assurant des missions de sécurité civile, telle que prévue aux articles 2 ou 3 du décret du 3 février 1993 modifié susvisé. Le titulaire saisit alors l'ordonnateur pour obtenir l'exonération susvisée en transmettant cette attestation à l'adresse suivante : Agence nationale des fréquences (centre de gestion des radiocommunications), B.P. 61, 94371 Sucy-en-Brie Cedex.
