@@ -1,0 +1,3 @@
+# Article 1
+
+Le service d'une pension de vieillesse prenant effet postérieurement à la date d'application de la présente ordonnance, liquidée au titre du régime général de la sécurité sociale, du régime des salariés agricoles ou d'un régime spécial de retraite au sens de l'article L. 3 du code de la sécurité sociale et dont l'entrée en jouissance intervient à compter du soixantième anniversaire de l'assuré ou ultérieurement, est subordonné à la rupture définitive de tout lien professionnel avec l'employeur ou, pour les assurés exerçant une activité non-salariée, à la cessation définitive de cette activité.
