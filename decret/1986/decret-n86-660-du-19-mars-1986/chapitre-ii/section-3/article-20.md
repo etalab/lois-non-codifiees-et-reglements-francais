@@ -8,4 +8,6 @@ Cet effectif est réparti comme suit :
 
 l'effectif restant est réparti entre les organisations syndicales, compte tenu du nombre moyen de voix obtenu par chacune d'entre elles aux résultats des élections aux commissions administratives paritaires départementales et aux élections aux commissions administratives paritaires propres aux fonctionnaires relevant de l'administration générale de l'assistance publique à Paris, totalisés au plan national, avec répartition des restes selon la règle de la plus forte moyenne.
 
+Le nombre des agents ainsi répartis s'apprécie en équivalent temps plein.
+
 Lors du renouvellement des commissions administratives paritaires départementales, le ministre chargé de la santé notifie à chaque organisation syndicale le nombre d'agents mis à disposition dont elle bénéficie.
