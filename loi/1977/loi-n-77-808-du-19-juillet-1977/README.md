@@ -3,4 +3,5 @@
 - [Section I : Dispositions générales.](section-i)
 - [Section II : Du contenu des sondages.](section-ii)
 - [Section III : De la commission des sondages.](section-iii)
+- [Section IV : Dispositions spéciales applicables en période électorale.](section-iv)
 - [Section V : Dispositions diverses.](section-v)

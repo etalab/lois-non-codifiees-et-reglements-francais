@@ -35,7 +35,6 @@
 - [Loi n° 83-967 du 9 novembre 1983](loi-n-83-967-du-9-novembre-1983)
 - [Loi n°82-1172 du 31 décembre 1982](loi-n82-1172-du-31-decembre-1982)
 - [Loi n°83-1097 du 20 décembre 1983](loi-n83-1097-du-20-decembre-1983)
-- [Loi n°83-549 du 30 juin 1983](loi-n83-549-du-30-juin-1983)
 - [Loi n°83-557 du 1 juillet 1983](loi-n83-557-du-1-juillet-1983)
 - [Loi n°83-629 du 12 juillet 1983](loi-n83-629-du-12-juillet-1983)
 - [Loi n°83-630 du 12 juillet 1983](loi-n83-630-du-12-juillet-1983)
