@@ -213,7 +213,6 @@
 - [Décret n°98-810 du 7 septembre 1998 (DEFD9801661D)](decret-n98-810-du-7-septembre-1998-defd9801661d)
 - [Décret n°98-811 du 7 septembre 1998 (DEFA9851039D)](decret-n98-811-du-7-septembre-1998-defa9851039d)
 - [Décret n°98-812 du 7 septembre 1998 (MCCB9800501D)](decret-n98-812-du-7-septembre-1998-mccb9800501d)
-- [Décret n°98-890 du 7 octobre 1998 (PRMX9800130D)](decret-n98-890-du-7-octobre-1998-prmx9800130d)
 - [Décret n°98-894 du 7 octobre 1998 (DEFX9800109D)](decret-n98-894-du-7-octobre-1998-defx9800109d)
 - [Décret n°98-895 du 7 octobre 1998 (EQUH9800573D)](decret-n98-895-du-7-octobre-1998-equh9800573d)
 - [Décret n°98-896 du 7 octobre 1998 (EQUH9800572D)](decret-n98-896-du-7-octobre-1998-equh9800572d)
