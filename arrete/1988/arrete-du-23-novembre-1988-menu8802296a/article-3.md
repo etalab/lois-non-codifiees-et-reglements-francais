@@ -4,7 +4,7 @@ Les candidats doivent être titulaires :
 
 - d'un diplôme de doctorat ou
 
-- d'un diplôme de docteur permettant l'exercice de la médecine, de l'odontologie, de la pharmacie et de la médecine vétérinaire et d'un diplôme d'études approfondies,
+- d'un diplôme de docteur permettant l'exercice de la médecine, de l'odontologie, de la pharmacie et de la médecine vétérinaire et d'un diplôme d'études approfondies ou d'un master recherche,
 
 ou justifier d'un diplôme, de travaux ou d'une expérience d'un niveau équivalent au doctorat.
 
