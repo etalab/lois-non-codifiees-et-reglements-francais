@@ -2,7 +2,7 @@
 
 Dans la limite des crédits ouverts à cet effet, il peut être attribué aux personnels, titulaires ou non titulaires :
 
-1° Qui sont membres du cabinet du Premier ministre ou des cabinets des ministres, ministres délégués et secrétaires d'Etat, ou qui concourent au fonctionnement ou aux activités de ces cabinets ;
+1° Qui sont membres du cabinet du Premier ministre ou des cabinets des ministres, ministres délégués et secrétaires d'Etat, qui concourent au fonctionnement ou aux activités de ces cabinets ou qui sont affectés auprès des anciens Présidents de la République ;
 
 2° Qui assurent la protection des personnalités mentionnées au 1°, ou les services de sécurité, d'intendance et de logistique liés à l'exercice de la fonction ministérielle ;
 
