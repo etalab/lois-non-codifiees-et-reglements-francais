@@ -344,7 +344,6 @@
 - [Arrêté du 17 avril 1987 (ECOT8733022A)](arrete-du-17-avril-1987-ecot8733022a)
 - [Arrêté du 17 avril 1987 (MENF8700322A)](arrete-du-17-avril-1987-menf8700322a)
 - [Arrêté du 17 décembre 1987 (ASEE8703861A)](arrete-du-17-decembre-1987-asee8703861a)
-- [Arrêté du 17 décembre 1987 (ASEE8703862A)](arrete-du-17-decembre-1987-asee8703862a)
 - [Arrêté du 17 décembre 1987 (ASES8701840A)](arrete-du-17-decembre-1987-ases8701840a)
 - [Arrêté du 17 février 1987 (ECOA8700012A)](arrete-du-17-fevrier-1987-ecoa8700012a)
 - [Arrêté du 17 février 1987 (ECOC8700013A)](arrete-du-17-fevrier-1987-ecoc8700013a)
