@@ -1,8 +1,8 @@
 # Article 16
 
-Les concours financiers de l'agence sont attribués soit par le directeur général, soit par les délégués régionaux de l'agence, dans les conditions fixées en application du 2 du dernier alinéa de l'article 9.
+Les concours financiers de l'agence sont attribués soit par le président, soit par les délégués régionaux de l'agence, dans les conditions fixées en application du 2 du dernier alinéa de l'article 9.
 
-La Commission nationale des aides comprend le directeur général de l'agence, le président de la commission, un représentant de chaque ministre de tutelle, un représentant de chacun des ministres chargés du budget, des finances, de l'industrie, de l'agriculture, des transports, de la construction et de la santé ainsi que sept personnalités désignées par le conseil d'administration. Le président de séance a voix prépondérante en cas de partage égal.
+La Commission nationale des aides a pour président le président du conseil d'administration et pour vice-président le directeur général ; elle comprend en outre un représentant de chaque ministre de tutelle, un représentant de chacun des ministres chargés du budget, des finances, de l'agriculture, des transports, de la construction et de la santé ainsi que sept personnalités désignées par le conseil d'administration. Le président de séance a voix prépondérante en cas de partage égal.
 
 Le contrôleur d'Etat et l'agent comptable assistent aux réunions de la Commission nationale des aides avec voix consultative ainsi que toute personne invitée par son président.
 
