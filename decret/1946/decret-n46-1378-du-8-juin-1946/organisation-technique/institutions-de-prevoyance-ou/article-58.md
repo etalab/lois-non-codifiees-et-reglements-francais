@@ -1,3 +1,0 @@
-# Article 58
-
-En cas de liquidation d'une des institutions de prévoyance ou de sécurité sociale visées à l'article 43 du présent décret, l'employeur et les adhérents demeurent tenus de continuer à effectuer les versements prévus par le contrat de travail pour la constitution d'une retraite, sauf à les diminuer dans les conditions indiquées à l'article 51 du présent décret. Ces versements seront obligatoirement opérés soit à la caisse nationale des retraites pour la vieillesse, soit à une caisse autonome mutualiste, soit à une entreprise privée régie par le décret du 14 juin 1948, soit à une autre institution de l'article 43.

@@ -1,3 +1,0 @@
-# DES DIFFERENTS TYPES DE CARTES DE SEJOUR.
-
-- [Article 7](article-7.md)
