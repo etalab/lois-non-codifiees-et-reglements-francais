@@ -1,0 +1,5 @@
+# Article 7
+
+Les personnels titulaires et non titulaires des collectivités territoriales et de leurs établissements publics administratifs qui réunissent au 31 décembre 1983 les conditions exigées par les articles 13 ou 14 de l'ordonnance n° 82-108 du 30 janvier 1982 relative aux contrats de solidarité des collectivités locales, modifiée par la loi n° 83-431 du 31 mai 1983, peuvent déposer jusqu'au 30 avril 1984 une demande de cessation anticipée d'activité. Les collectivités ou établissements qui les emploient peuvent, même s'ils n'ont pas souscrit avec l'Etat de contrat de solidarité, les autoriser à bénéficier de cet avantage, sous réserve de l'intérêt du service. Cette cessation anticipée d'activité doit prendre effet, au plus tard, au 1er juin 1984.
+
+Les bénéficiaires des dispositions du premier alinéa du présent article perçoivent le revenu de remplacement mentionné à l'article 15 de l'ordonnance précitée du 30 janvier 1982, dont la prise en charge est assurée conformément à l'article 16 de la même ordonnance. Les articles 18, 19, 20 et 21 de ladite ordonnance leur sont applicables.

@@ -1,6 +1,7 @@
 # 1984
 
 - [Décret n°84-254 du 5 avril 1984](decret-n84-254-du-5-avril-1984)
+- [Décret n°84-1127 du 7 décembre 1984](decret-n84-1127-du-7-decembre-1984)
 - [Décret n°84-92 du 8 février 1984](decret-n84-92-du-8-fevrier-1984)
 - [Décret n°84-93 du 8 février 1984](decret-n84-93-du-8-fevrier-1984)
 - [Décret n°84-29 du 11 janvier 1984](decret-n84-29-du-11-janvier-1984)
@@ -11,10 +12,12 @@
 - [Décret n°84-128 du 22 février 1984](decret-n84-128-du-22-fevrier-1984)
 - [Décret n°84-143 du 22 février 1984](decret-n84-143-du-22-fevrier-1984)
 - [Décret n°84-388 du 22 mai 1984](decret-n84-388-du-22-mai-1984)
+- [Décret n°83-1247 du 23 décembre 1983](decret-n83-1247-du-23-decembre-1983)
 - [Décret n°84-965 du 26 octobre 1984](decret-n84-965-du-26-octobre-1984)
 - [Décret n°84-63 du 27 janvier 1984](decret-n84-63-du-27-janvier-1984)
 - [Décret n°83-1018 du 28 novembre 1983](decret-n83-1018-du-28-novembre-1983)
 - [Décret n°83-1208 du 29 décembre 1983](decret-n83-1208-du-29-decembre-1983)
 - [Décret n°83-1197 du 30 décembre 1983](decret-n83-1197-du-30-decembre-1983)
 - [Décret n°83-1244 du 30 décembre 1983](decret-n83-1244-du-30-decembre-1983)
+- [Décret n°83-1249 du 30 décembre 1983](decret-n83-1249-du-30-decembre-1983)
 - [Décret n°83-1252 du 31 décembre 1983](decret-n83-1252-du-31-decembre-1983)
