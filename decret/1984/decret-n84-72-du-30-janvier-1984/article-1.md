@@ -2,9 +2,9 @@
 
 Il est institué une commission indépendante dénommée Commission nationale consultative des droits de l'homme.
 
-La commission assiste de ses avis le Premier ministre pour toutes les questions nationales et internationales qui concernent les droits de l'homme.
+La commission assiste de ses avis le Premier ministre et les ministres concernés sur toutes les questions de portée générale qui concernent les droits de l'homme ou l'action humanitaire.
 
-Elle facilite la coopération entre les pouvoirs publics et les représentants de différentes organisations et institutions non gouvernementales et personnalités compétentes en matière de droits de l'homme.
+La commission favorise la concertation entre les administrations concernées et les représentants des différentes organisations et institutions non gouvernementales agissant dans le domaine des droits de l'homme et de l'action humanitaire.
 
 Elle contribue, en tant que de besoin, à la préparation des rapports que la France présente devant les organisations internationales, en application de ses obligations conventionnelles dans le domaine des droits de l'homme.
 
@@ -19,6 +19,16 @@ La commission peut, de sa propre initiative, appeler l'attention des pouvoirs pu
 - le cas échéant, la mise en conformité de la loi nationale avec lesdits instruments ;
 
 - l'exécution de programmes d'action, notamment en ce qui concerne l'enseignement et la recherche sur les droits de l'homme, la participation à leur mise en oeuvre dans les milieux scolaires, universitaires et professionnels et, plus généralement, la lutte contre le racisme et la xénophobie.
+
+La commission peut également :
+
+- évoquer tout problème ayant trait à une situation humanitaire d'urgence ;
+
+- susciter des échanges d'informations sur les dispositifs permettant de faire face à ces situations ;
+
+- formuler des avis sur les différentes formes d'assistance humanitaire mises en oeuvre dans les situations de crise ;
+
+- étudier les mesures propres à assurer l'application du droit international humanitaire.
 
 La commission peut rendre publics ses avis.
 
