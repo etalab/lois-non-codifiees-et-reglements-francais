@@ -1,6 +1,6 @@
 # Article 4
 
-Les douze représentants [*nombre*] des organisations syndicales et professionnelles, ainsi que leurs suppléants, sont nommés pour trois ans [*durée de mandat*] à raison de :
+Les douze représentants [*nombre*] des organisations syndicales et professionnelles, ainsi que leurs suppléants, sont nommés pour six ans [*durée de mandat*] à raison de [*composition*] :
 
 a) Cinq représentants des salariés, sur proposition de chacune des organisations syndicales représentatives au plan national ;
 
