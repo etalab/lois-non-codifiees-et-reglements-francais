@@ -49,6 +49,7 @@
 - [Décret n°90-391 du 2 mai 1990 (FPPX9000055D)](decret-n90-391-du-2-mai-1990-fppx9000055d)
 - [Décret n°90-393 du 2 mai 1990 (SPSX9000010D)](decret-n90-393-du-2-mai-1990-spsx9000010d)
 - [Décret du 3 mars 1990 (INTX9010671D)](decret-du-3-mars-1990-intx9010671d)
+- [Décret n°87-495 du 3 juillet 1987 (MENF8700318D)](decret-n87-495-du-3-juillet-1987-menf8700318d)
 - [Décret n°90-12 du 3 janvier 1990 (TEFF8904001D)](decret-n90-12-du-3-janvier-1990-teff8904001d)
 - [Décret n°90-13 du 3 janvier 1990 (MCCB8900783D)](decret-n90-13-du-3-janvier-1990-mccb8900783d)
 - [Décret n°90-17 du 3 janvier 1990 (EQUU8901386D)](decret-n90-17-du-3-janvier-1990-equu8901386d)
