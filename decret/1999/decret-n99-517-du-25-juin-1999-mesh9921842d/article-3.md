@@ -16,7 +16,7 @@ Les épreuves de type I comportent une épreuve orale, un examen sur dossier, de
 
 7° Aux assistants spécialistes et anciens assistants spécialistes des établissements publics territoriaux d'hospitalisation des territoires d'outre-mer comptant au moins deux ans de services effectifs en cette qualité ;
 
-8° Aux attachés consultants ;
+8° Aux praticiens attachés consultants ;
 
 9° Aux chercheurs, titulaires d'un diplôme, certificat ou autre titre permettant l'exercice de la médecine, de la pharmacie ou de la chirurgie dentaire. Les intéressés doivent compter au moins six années de services effectifs en cette qualité dans un emploi permanent de l'un des organismes suivants : Institut national de la santé et de la recherche médicale, Centre national de la recherche scientifique, Laboratoire national de la santé, Institut Pasteur ;
 
