@@ -981,6 +981,7 @@
 - [Décret n°92-98 du 29 janvier 1992 (INDH9200047D)](decret-n92-98-du-29-janvier-1992-indh9200047d)
 - [Décret n°93-752 du 29 mars 1993 (MERG9300017D)](decret-n93-752-du-29-mars-1993-merg9300017d)
 - [Décret n°93-766 du 29 mars 1993 (SANH9300971D)](decret-n93-766-du-29-mars-1993-sanh9300971d)
+- [Décret n°92-478 du 29 mai 1992 (SANP9201055D)](decret-n92-478-du-29-mai-1992-sanp9201055d)
 - [Décret n°92-480 du 29 mai 1992 (PRMX9200093D)](decret-n92-480-du-29-mai-1992-prmx9200093d)
 - [Décret n°90-1072 du 30 novembre 1990 (BUDR9004023D)](decret-n90-1072-du-30-novembre-1990-budr9004023d)
 - [Décret n°90-665 du 30 juillet 1990 (TEFG9003693D)](decret-n90-665-du-30-juillet-1990-tefg9003693d)
