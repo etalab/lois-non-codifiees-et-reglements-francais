@@ -2,7 +2,7 @@
 
 Les corps de militaires régis par le présent décret sont énumérés dans le tableau ci-dessous.
 
-Pour chacun de ces corps, la hiérarchie des grades et échelons ainsi que l'échelonnement indiciaire sont ceux qui sont en vigueur au 19 mai 1994, dans le corps de la fonction publique hospitalière qui est désigné comme corps homologue dans le même tableau.
+Pour chacun de ces corps, la hiérarchie des grades et échelons ainsi que l'échelonnement indiciaire sont ceux qui sont en vigueur au 23 mai 1996, dans le corps de la fonction publique hospitalière qui est désigné comme corps homologue dans le même tableau.
 
 CORPS MILITAIRES
 
