@@ -79,5 +79,7 @@
 - [Décret n°88-850 du 29 juillet 1988 (ECOX8810673D)](decret-n88-850-du-29-juillet-1988-ecox8810673d)
 - [Décret n°88-855 du 29 juillet 1988 (TEFT8803635D)](decret-n88-855-du-29-juillet-1988-teft8803635d)
 - [Décret n°88-858 du 29 juillet 1988 (ECOC8800074D)](decret-n88-858-du-29-juillet-1988-ecoc8800074d)
+- [Décret n°88-862 du 29 juillet 1988 (MENU8801291D)](decret-n88-862-du-29-juillet-1988-menu8801291d)
+- [Décret n°88-863 du 29 juillet 1988 (ECOP8800239D)](decret-n88-863-du-29-juillet-1988-ecop8800239d)
 - [Décret n°88-901 du 30 août 1988 (SPSS8801058D)](decret-n88-901-du-30-aout-1988-spss8801058d)
 - [Décret n°87-1167 du 31 décembre 1987 (RESY8800001D)](decret-n87-1167-du-31-decembre-1987-resy8800001d)

@@ -1,6 +1,8 @@
 # 1988
 
 - [Arrêté du 1 août 1988 (AGRA8801074A)](arrete-du-1-aout-1988-agra8801074a)
+- [Arrêté du 1 août 1988 (SPSS8801097A)](arrete-du-1-aout-1988-spss8801097a)
+- [Arrêté du 1 août 1988 (SPSS8801098A)](arrete-du-1-aout-1988-spss8801098a)
 - [Arrêté du 1 avril 1988 (BUDF8800003A)](arrete-du-1-avril-1988-budf8800003a)
 - [Arrêté du 1 décembre 1987 (EQUC8701067A)](arrete-du-1-decembre-1987-equc8701067a)
 - [Arrêté du 1 juin 1987 (ASET8703409A)](arrete-du-1-juin-1987-aset8703409a)
@@ -491,6 +493,7 @@
 - [Arrêté du 29 janvier 1988 (TRSA8800096A)](arrete-du-29-janvier-1988-trsa8800096a)
 - [Arrêté du 29 juillet 1977](arrete-du-29-juillet-1977)
 - [Arrêté du 29 juillet 1988 (ECOT8811029A)](arrete-du-29-juillet-1988-ecot8811029a)
+- [Arrêté du 29 juillet 1988 (INDD8800526A)](arrete-du-29-juillet-1988-indd8800526a)
 - [Arrêté du 29 mars 1988 (ASEH8800493A)](arrete-du-29-mars-1988-aseh8800493a)
 - [Arrêté du 29 mars 1988 (DEFD8801263A)](arrete-du-29-mars-1988-defd8801263a)
 - [Arrêté du 29 mars 1988 (ENVN8800076A)](arrete-du-29-mars-1988-envn8800076a)
