@@ -2,4 +2,3 @@
 
 - [Chapitre Ier : Chicorée.](chapitre-ier)
 - [Chapitre II : Thé.](chapitre-ii-the)
-- [Chapitre III : Dispositions générales.](chapitre-iii)
