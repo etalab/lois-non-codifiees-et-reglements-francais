@@ -377,7 +377,6 @@
 - [Décret n°92-134 du 11 février 1992 (ECOX9210017D)](decret-n92-134-du-11-fevrier-1992-ecox9210017d)
 - [Décret n°92-135 du 11 février 1992 (SPSS9200001D)](decret-n92-135-du-11-fevrier-1992-spss9200001d)
 - [Décret n°92-221 du 11 mars 1992 (PRMX9200012D)](decret-n92-221-du-11-mars-1992-prmx9200012d)
-- [Décret n°92-222 du 11 mars 1992 (PRMX9200029D)](decret-n92-222-du-11-mars-1992-prmx9200029d)
 - [Décret n°92-234 du 11 mars 1992 (BUDF9200005D)](decret-n92-234-du-11-mars-1992-budf9200005d)
 - [Décret n°92-236 du 11 mars 1992 (BUDF9220487D)](decret-n92-236-du-11-mars-1992-budf9220487d)
 - [Décret n°92-237 du 11 mars 1992 (EQUE9200182D)](decret-n92-237-du-11-mars-1992-eque9200182d)
