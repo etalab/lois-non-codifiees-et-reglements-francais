@@ -87,3 +87,7 @@ Diplôme de conducteur des travaux publics et technicien de bureau d'études.
 Diplôme de conducteur technicien des travaux du bâtiment.
 
 Baccalauréat international préparé et obtenu en 1980-1981, 1981-1982, 1982-1983 et 1983-1984 dans les établissements situés en France, agréés par l'office du baccalauréat international de Genève et habilités par le ministère de l'éducation national : lycée international de Saint-Germain-en-Laye, lycée de Sèvres, école active bilingue J.M.
+
+Certificat général d'opérateur des radiocommunications.
+
+Diplôme de radio-électronicien de la marine marchande.
