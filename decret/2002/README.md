@@ -36,6 +36,7 @@
 - [Décret n°2002-61 du 14 janvier 2002 (FPPA0100148D)](decret-n2002-61-du-14-janvier-2002-fppa0100148d)
 - [Décret n°86-1037 du 15 septembre 1986](decret-n86-1037-du-15-septembre-1986)
 - [Décret n°74-449 du 15 mai 1974](decret-n74-449-du-15-mai-1974)
+- [Décret n°2002-895 du 15 mai 2002 (DEVX0200082D)](decret-n2002-895-du-15-mai-2002-devx0200082d)
 - [Décret n°2002-84 du 16 janvier 2002 (INTX0100164D)](decret-n2002-84-du-16-janvier-2002-intx0100164d)
 - [Décret n°2002-89 du 16 janvier 2002 (MCCX0100136D)](decret-n2002-89-du-16-janvier-2002-mccx0100136d)
 - [Décret n°2002-90 du 16 janvier 2002 (MCCB0200030D)](decret-n2002-90-du-16-janvier-2002-mccb0200030d)
