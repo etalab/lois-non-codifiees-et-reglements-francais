@@ -90,7 +90,7 @@ II. - Est abrogé à compter du 1er janvier 2003 le second alinéa de l'article 
 
 III. - Sont abrogés à compter de la date d'entrée en vigueur de la partie Réglementaire du code de commerce :
 
-1° Le deuxième alinéa de l'article 1er de la loi du 28 mai 1858 relative aux ventes publiques de marchandises en gros ;
+1° Alinéa abrogé.
 
 2° Le troisième alinéa de l'article 1er, les articles 2, 4, 8, 10, 16 et 17, le premier alinéa de l'article 18, l'article 19, le deuxième alinéa de l'article 21, les articles 22 à 25, le premier alinéa de l'article 26 de la loi du 9 avril 1898 relative aux chambres de commerce et d'industrie ;
 
