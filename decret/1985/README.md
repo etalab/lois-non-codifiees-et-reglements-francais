@@ -53,6 +53,7 @@
 - [Décret n°85-1319 du 12 décembre 1985](decret-n85-1319-du-12-decembre-1985)
 - [Décret n°85-233 du 12 février 1985](decret-n85-233-du-12-fevrier-1985)
 - [Décret n°85-427 du 12 avril 1985](decret-n85-427-du-12-avril-1985)
+- [Décret n°85-889 du 12 août 1985](decret-n85-889-du-12-aout-1985)
 - [Décret n°85-1179 du 13 novembre 1985](decret-n85-1179-du-13-novembre-1985)
 - [Décret n°85-1195 du 13 novembre 1985](decret-n85-1195-du-13-novembre-1985)
 - [Décret n°85-1200 du 13 novembre 1985](decret-n85-1200-du-13-novembre-1985)
