@@ -66,6 +66,7 @@
 - [Décret n°85-1355 du 18 décembre 1985](decret-n85-1355-du-18-decembre-1985)
 - [Décret n°85-1357 du 18 décembre 1985](decret-n85-1357-du-18-decembre-1985)
 - [Décret n°85-1003 du 19 septembre 1985](decret-n85-1003-du-19-septembre-1985)
+- [Décret n°85-1036 du 19 septembre 1985](decret-n85-1036-du-19-septembre-1985)
 - [Décret n°85-1347 du 19 décembre 1985](decret-n85-1347-du-19-decembre-1985)
 - [Décret n°83-397 du 19 mai 1983](decret-n83-397-du-19-mai-1983)
 - [Décret n°85-1000 du 20 septembre 1985](decret-n85-1000-du-20-septembre-1985)
