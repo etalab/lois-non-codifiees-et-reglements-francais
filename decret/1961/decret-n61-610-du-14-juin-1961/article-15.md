@@ -1,3 +1,3 @@
 # Article 15
 
-Les modalités financières des cessions de propriété et des installations d'exploitants sont définies pour chaque société par conventions conclues entre la société et les ministres de l'agriculture et des finances et des affaires économiques.
+Les subventions de fonctionnement liées aux sujétions résultant des missions de service public des Safer ou celles allouées au titre d'aides exceptionnelles sont réparties selon des modalités fixées par un arrêté conjoint du ministre de l'agriculture et du ministre chargé des finances.

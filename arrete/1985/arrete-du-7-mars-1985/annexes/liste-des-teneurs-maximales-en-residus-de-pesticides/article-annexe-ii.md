@@ -6,6 +6,12 @@ pentachloronitrobenzène.
 
 0,5 salades, endive.
 
+QUIZALOFOP-ETHYLE.
+
+[[(chloro-6 quinoxalinyl-2) oxy]-4 phénoxy]-2 propionate - (RS) d'éthyle.
+
+0,05 baies, petits fruits, pomme, pêche, carotte, choux, épinard, légumes-bulbes, légumes-tiges, lentille, salades, tomate.
+
 ROTENONE.
 
 isopropényl-2 diméthoxy-8,9 tétrahydro-1,2,12,12a 6a H-(1-benzopyrano) (3,4-b) furo(2,3-h) (benzopyranne) one-6-(2 R, 6a S, 12 a S).
@@ -45,6 +51,12 @@ TECNAZENE.
 tétrachloro-1,2,4,5 nitro-3 benzène.
 
 0,3 salades, endive.
+
+TEFLUBENZURON.
+
+(dichloro-3,5 difluoro-2,4 phényl)-1 (difluoro-2,6 benzoyl)-3 urée.
+
+0,5 pomme, poire.
 
 TEPP.
 
@@ -88,9 +100,15 @@ En liaison avec l'arrêté du 12 août 1985 : 6 agrumes, 3 banane, 0,05 endive.
 
 THIODICARBE.
 
-tétraméthyl-3,7,9,13 dioxa-5,11 trithia-2,8,14 tétracyo-4,7,9-12 pentadécadiène-3,12 dione-6,10.
+tétraméthyl-3,7,9,13 dioxa-5, 11 trithia-2,8,14 tétraza-4,7,9,12 pentadécadiène-3, 12 dione-6,10.
 
-1 raisin.
+1 raisin, 2 salades, 0,5 autres légumes.
+
+THIOPHANATE-METHYL (exprimé en carbendazime).
+
+o - phénylène - 4, 4' bis (thioallophanate de méthyle).
+
+Voir carbendazime.
 
 TOLYLFLUANIDE.
 
@@ -112,9 +130,9 @@ TRIADIMEFONE (n'est plus cumulé avec le TRIADIMENOL).
 
 TRIADIMENOL.
 
-(chloro-4 phénoxy)-1 diméthyl-3,3 (triazole-1,2,4 yl) -1 butanol-2.
+(chloro-4 phénoxy)-1 diméthyl-3,3 (triazole-1,2,4 yl)-1 butanol-2.
 
-2 ananas, 1 autres fruits, cucurbitacées, 0,1 raisin.
+2 ananas, 1 autres fruits, cucurbitacées, 0,1 raisin, 0,1 banane.
 
 TRIALLATE (y compris DIALLATE).
 
@@ -140,8 +158,18 @@ diméthyl-2,6 tridécyl-4 morpholine.
 
 0,1 banane.
 
+TRIFLURALINE.
+
+(dinitro-2,6 trifluorométhyl-4 phényl) dipropylamine.
+
+0,01 pois.
+
+TRIFLUMURON.
+
+(chloro-2 benzoyl)-1 [(trifluorométhoxy)-4 phényl]-3 urée.    1 pomme, poire.
+
 VINCHLOZOLINE.
 
 (dichloro-3,5 phényl)-3 méthyl-5 vinyl-5 oxazolidine-1,3 dione-2,4.
 
-1 haricots.
+10 fraise, kiwi, 5 raisin, salades, 2 fruits à noyau, 1 haricots, pois.
