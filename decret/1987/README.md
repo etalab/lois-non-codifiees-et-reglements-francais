@@ -12,7 +12,6 @@
 - [Décret n°87-807 du 1 octobre 1987 (AGRS8701725D)](decret-n87-807-du-1-octobre-1987-agrs8701725d)
 - [Décret n°87-809 du 1 octobre 1987 (ASET8703612D)](decret-n87-809-du-1-octobre-1987-aset8703612d)
 - [Décret n°86-1103 du 2 octobre 1986](decret-n86-1103-du-2-octobre-1986)
-- [Décret n°87-138 du 2 mars 1987](decret-n87-138-du-2-mars-1987)
 - [Décret n°87-146 du 2 mars 1987 (MAEJ8730010D)](decret-n87-146-du-2-mars-1987-maej8730010d)
 - [Décret n°87-362 du 2 juin 1987 (INTD8700132D)](decret-n87-362-du-2-juin-1987-intd8700132d)
 - [Décret n°87-371 du 2 juin 1987 (PTTA8700279D)](decret-n87-371-du-2-juin-1987-ptta8700279d)
