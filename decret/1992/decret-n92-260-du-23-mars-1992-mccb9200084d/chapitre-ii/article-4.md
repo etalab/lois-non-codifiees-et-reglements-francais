@@ -1,6 +1,6 @@
 # Article 4
 
-I. - Les chefs de travaux d'art sont recrutés par voie de concours externe, de concours interne et de liste d'aptitude.
+I. - Les concours de recrutement sont ouverts par branches professionnelles. La liste des branches professionnelles est fixée par arrêté conjoint du ministre chargé de la culture et du ministre chargé de la fonction publique après avis du comité technique paritaire ministériel du ministre chargé de la culture.
 
 II. - Le concours externe est ouvert aux candidats âgés de quarante ans au plus au 1er janvier de l'année du concours et qui soit sont titulaires d'un diplôme national sanctionnant un second cycle de l'enseignement supérieur, ou d'un diplôme de niveau équivalent figurant sur une liste établie par arrêté conjoint du ministre chargé de la fonction publique et du ministre chargé de la culture, soit justifient de titres et travaux dans un domaine professionnel correspondant aux missions du corps des chefs de travaux d'art pour lequel il n'existe pas de diplôme équivalent au deuxième cycle de l'enseignement supérieur et jugés suffisants par une commission d'équivalence dont la composition est fixée par arrêté conjoint du ministre chargé de la fonction publique et du ministre chargé de la culture.
 
