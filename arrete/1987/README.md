@@ -647,7 +647,6 @@
 - [Arrêté du 30 octobre 1987 (RESP8700832A)](arrete-du-30-octobre-1987-resp8700832a)
 - [Arrêté du 30 septembre 1987 (ASET8703688A)](arrete-du-30-septembre-1987-aset8703688a)
 - [Arrêté du 30 septembre 1987 (BUDR8703118A)](arrete-du-30-septembre-1987-budr8703118a)
-- [Arrêté du 30 septembre 1987 (STFG8701369A)](arrete-du-30-septembre-1987-stfg8701369a)
 - [Arrêté du 31 août 1987 (ASEH8701236A)](arrete-du-31-aout-1987-aseh8701236a)
 - [Arrêté du 31 août 1987 (RESB8700534A)](arrete-du-31-aout-1987-resb8700534a)
 - [Arrêté du 31 décembre 1986](arrete-du-31-decembre-1986)
