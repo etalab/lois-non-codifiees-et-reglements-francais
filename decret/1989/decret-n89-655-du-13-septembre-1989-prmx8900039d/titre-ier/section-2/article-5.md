@@ -10,7 +10,7 @@ Dans le territoire de la Polynésie française, lorsque les membres des corps et
 
 4° Les députés ;
 
-5° Les sénateurs ;
+5° Le sénateur ;
 
 6° Les représentants au Parlement européen ;
 
@@ -22,19 +22,19 @@ Dans le territoire de la Polynésie française, lorsque les membres des corps et
 
 10° Le commandant supérieur des forces armées de la Polynésie française ;
 
-11° Le président de la commission permanente de l'assemblée territoriale et les membres titulaires de cette commission ;
+11° Le président de la commission permanente à l'assemblée territoriale et les membres titulaires de cette commission ;
 
 12° Les membres de l'assemblée territoriale ;
 
 13° Le membre du Conseil économique et social, représentant des activités économiques et sociales du territoire ;
 
-14° Le président du comité économique et social de la Polynésie française ;
+14° Le président du Conseil économique, social et culturel de la Polynésie française ;
 
-15° Les dignitaires de la Légion d'honneur, les Compagnons de la Libération, les dignitaires de l'ordre national du Mérite ;
+15° Le premier président de la cour d'appel et le procureur général près cette cour ;
 
-16° Le procureur général près la cour d'appel et le premier président de ladite cour ;
+16° Les dignitaires de la Légion d'honneur, les Compagnons de la Libération, les dignitaires de l'ordre national du Mérite ;
 
-17° Le président du tribunal administratif ;
+17° Le président du tribunal administratif, le président du tribunal de première instance et le procureur de la République près ce tribunal, le président de la chambre territoriale des comptes ;
 
 18° Le trésorier-payeur général ;
 
@@ -48,20 +48,18 @@ Dans le territoire de la Polynésie française, lorsque les membres des corps et
 
 23° Le président de l'université du Pacifique-Sud ;
 
-24° Le président du tribunal de première instance et d'instance et le procureur près ce tribunal ;
+24° Les maires des communes du territoire ;
 
-25° Les maires des communes du territoire ;
+25° Les chefs des services de l'Etat, les chefs des services du territoire, les présidents et directeurs des établissements publics de l'Etat et du territoire ;
 
-26° Les chefs des services de l'Etat, les chefs des services du territoire, les présidents et directeurs des établissements publics de l'Etat ;
+26° Les membres du conseil municipal de la commune dans laquelle se déroule la cérémonie ;
 
-27° Les membres du conseil municipal de la commune dans laquelle se déroule la cérémonie ;
+27° Le président du tribunal mixte de commerce ;
 
-28° Le président du tribunal de commerce ;
+28° Le président du tribunal du travail ;
 
-29° Le président du tribunal du travail ;
+29° Les présidents des organismes consulaires ;
 
-30° Les présidents des organismes consulaires ;
+30° Le bâtonnier de l'ordre des avocats ;
 
-31° Le bâtonnier de l'ordre des avocats ;
-
-32° Les présidents des conseils des ordres professionnels.
+31° Les présidents des conseils des ordres professionnels.

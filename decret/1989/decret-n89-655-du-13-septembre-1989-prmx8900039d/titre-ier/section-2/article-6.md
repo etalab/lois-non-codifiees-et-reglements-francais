@@ -24,22 +24,20 @@ Dans le territoire des îles Wallis-et-Futuna, lorsque les membres des corps et 
 
 11° Le président de la commission permanente de l'assemblée territoriale ;
 
-12° Les dignitaires de la Légion d'honneur, les Compagnons de la Libération, les dignitaires de l'ordre national du Mérite ;
+12° Le président du conseil du contentieux administratif, le président du tribunal de première instance et le procureur de la République près ce tribunal ;
 
-13° Les représentants de la chefferie ;
+13° Les dignitaires de la Légion d'honneur, les Compagnons de la Libération, les dignitaires de l'ordre national du Mérite ;
 
-14° Le président du conseil du contentieux administratif ;
+14° Les représentants de la chefferie ;
 
-15° Le président du tribunal et le procureur de la République ;
+15° Les délégués de l'administrateur supérieur à Uvéa et à Futuna ;
 
-16° Les délégués de l'administrateur supérieur à Uvéa et à Futuna ;
+16° Les membres de l'assemblée territoriale ;
 
-17° Les membres de l'assemblée territoriale ;
+17° Le vice-recteur d'académie ;
 
-18° Le vice-recteur d'académie ;
+18° Le payeur des îles Wallis-et-Futuna ;
 
-19° Le payeur des îles Wallis-et-Futuna ;
+19° Les chefs des services placés sous l'autorité de l'administrateur supérieur du territoire ;
 
-20° Les chefs des services placés sous l'autorité de l'administrateur supérieur du territoire ;
-
-21° Les chefs coutumiers de villages.
+20° Les chefs coutumiers de village.
