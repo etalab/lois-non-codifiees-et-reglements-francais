@@ -4,67 +4,65 @@ I. - Les cadres de second niveau de La Poste et les cadres de second niveau de F
 
 ANCIENNE SITUATION
 
-NOUVELLE SITUATION
-
-Grade
-
-et échelon
-
-Ancienneté d'échelon
-
 Cadre de second niveau de La Poste ou cadre de second niveau de France Télécom
+
+NOUVELLE SITUATION
 
 Cadre supérieur de premier niveau de La Poste ou cadre supérieur de premier niveau de France Télécom
 
-15e échelon13e
+Grade et échelon
+
+Ancienneté d'échelon
+
+15e échelon : 13e
 
 Sans ancienneté.
 
-14e échelon12e
+14e échelon : 12e
 
 Ancienneté acquise.
 
-13e échelon11e
+13e échelon : 11e
 
 Trois demis de l'ancienneté acquise.
 
-12e échelon10e
+12e échelon : 10e
 
 Deux tiers de l'ancienneté acquise.
 
-11e échelon 9e
+11e échelon : 9e
 
 Deux tiers de l'ancienneté acquise.
 
-10e échelon 8e
+10e échelon : 8e
 
 Ancienneté acquise.
 
-9e échelon 7e
+9e échelon : 7e
 
 Ancienneté acquise.
 
-8e échelon 7e
+8e échelon : 7e
 
 Sans ancienneté.
 
-7e échelon 6e
+7e échelon : 6e
 
 Ancienneté acquise majorée de 1 an.
 
-6e échelon 6e
+6e échelon : 6e
 
 Ancienneté acquise.
 
-5e échelon 6e
+5e échelon : 6e
 
 Sans ancienneté.
 
-4e échelon 5e
+4e échelon : 5e
 
 Ancienneté acquise.
 
-II. - Les fonctionnaires de La Poste et de France Télécom autres que ceux mentionnés au I ci-dessus, nommés dans le grade de cadre supérieur de premier niveau de La Poste ou dans le grade de cadre supérieur de premier niveau de France Télécom au titre du concours prévu au 2° de l'article 5 ci-dessus sont classés dans leur nouveau grade conformément aux tableaux de conversion figurant en annexe au présent décret.
+II. - Les fonctionnaires de La Poste et de France Télécom autres que ceux mentionnés au I ci-dessus, nommés dans le grade de cadre supérieur de premier niveau de La Poste ou dans le grade de cadre supérieur de premier niveau de France Télécom au titre du concours et de la liste d'aptitude prévus au 2° et 4° de l'article 5 ci-dessus sont classés dans leur nouveau grade conformément aux tableaux de conversion figurant en annexe au présent décret.
 
 III. - Les autres fonctionnaires nommés dans le grade de cadre supérieur de premier niveau de La Poste ou dans le grade de cadre supérieur de premier niveau de France Télécom sont classés dans leur nouveau grade à l'échelon comportant un indice égal ou, à défaut, immédiatement supérieur à celui qu'ils détenaient dans leur grade d'origine.
 

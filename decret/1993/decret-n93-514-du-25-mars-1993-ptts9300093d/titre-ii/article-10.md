@@ -1,6 +1,6 @@
 # Article 10
 
-Les cadres supérieurs de La Poste et les cadres supérieurs de France Télécom recrutés au titre des concours prévus aux articles 5 et 6 ci-dessus sont nommés stagiaires et accomplissent un stage d'une durée de deux ans. Cette durée peut être réduite par décision du président du conseil d'administration de l'exploitant public concerné, sans pouvoir être inférieure à un an.
+Les cadres supérieurs de La Poste et les cadres supérieurs de France Télécom recrutés au titre des concours prévus aux articles 5 et 6 ci-dessus sont nommés stagiaires et accomplissent un stage d'une durée d'un an. Cette durée peut être réduite par décision du président du conseil d'administration de l'exploitant public concerné, sans pouvoir être inférieure à six mois.
 
 A la fin du stage, les stagiaires dont la manière de servir a donné satisfaction sont titularisés.
 
