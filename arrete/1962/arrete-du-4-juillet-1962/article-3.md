@@ -2,41 +2,25 @@
 
 Le montant minimum du cautionnement auquel sont astreints les agents comptables des unions de recouvrement est fixé en fonction des recettes annuelles de ces organismes conformément au barème suivant :
 
-Recettes annuelles : Moins de 5 millions de nouveaux francs
+Recettes annuelles (en francs) : Moins de 1 milliard
 
-Cautionnement minimum : Nouveaux francs : 10.000
+Cautionnement minimum (en francs) : 80.000
 
-Recettes annuelles : De 5 à 10 millions de nouveaux francs
+Recettes annuelles (en francs) : de 1 milliard à 2 milliards
 
-Cautionnement minimum : Nouveaux francs : 12.000
+Cautionnement minimum (en francs) : 100.000
 
-Recettes annuelles : de 10 à 50 millions de nouveaux francs
+Recettes annuelles (en francs) : De 2 milliards à 3,5 milliards
 
-Cautionnement minimum : Nouveaux francs : 15.000
+Cautionnement minimum (en francs) : 175.000
 
-Recettes annuelles : de 50 à 200 millions de nouveaux francs
+Recettes annuelles (en francs) : De 3,5 milliards à 7 milliards
 
-Cautionnement minimum : Nouveaux francs : 20.000
+Cautionnement minimum (en francs) : 250.000
 
-Recettes annuelles : de 200 à 500 millions de nouveaux francs
+Recettes annuelles (en francs) : Plus de 7 milliards
 
-Cautionnement minimum : Nouveaux francs : 25.000
-
-Recettes annuelles : de 500 millions à 1 milliard de nouveaux    francs
-
-Cautionnement minimum : Nouveaux francs : 30.000
-
-Recettes annuelles : de 1 milliard à 1.500.000.000 de nouveaux    francs
-
-Cautionnement minimum : Nouveaux francs : 35.000
-
-Recettes annuelles : de 1.500.000.000 à 2 milliards de nouveaux    francs
-
-Cautionnement minimum : Nouveaux francs : 40.000
-
-Recettes annuelles : Plus de 2 milliards de nouveaux francs
-
-Cautionnement minimum : Nouveaux francs : 50.000.
+Cautionnement minimum (en francs) : 350.000.
 
 Pour l'application du barème ci-dessus, il est fait état de la totalité des recettes de toute nature effectuées par l'organisme au cours de la dernière année écoulée.
 

@@ -84,6 +84,7 @@
 - [Décret n°85-231 du 14 février 1985](decret-n85-231-du-14-fevrier-1985)
 - [Décret n°85-249 du 14 février 1985](decret-n85-249-du-14-fevrier-1985)
 - [Décret n°85-46 du 14 janvier 1985](decret-n85-46-du-14-janvier-1985)
+- [Décret n°85-554 du 14 mai 1985](decret-n85-554-du-14-mai-1985)
 - [Décret n°85-219 du 15 février 1985](decret-n85-219-du-15-fevrier-1985)
 - [Décret n°85-220 du 15 février 1985](decret-n85-220-du-15-fevrier-1985)
 - [Décret n°85-222 du 15 février 1985](decret-n85-222-du-15-fevrier-1985)
@@ -181,3 +182,4 @@
 - [Décret n°85-155 du 31 janvier 1985](decret-n85-155-du-31-janvier-1985)
 - [Décret n°85-158 du 31 janvier 1985](decret-n85-158-du-31-janvier-1985)
 - [Décret n°85-418 du 31 mars 1985](decret-n85-418-du-31-mars-1985)
+- [Décret n°85-563 du 31 mai 1985](decret-n85-563-du-31-mai-1985)
