@@ -14,6 +14,8 @@ La déclaration prévue à l'article 10 du décret n° 91-823 du 28 août 1991 s
 
 - pour les établissements de toilettage, la description des installations permettant d'assurer les soins esthétiques et de propreté des animaux.
 
+Cette déclaration est imprimée selon le modèle Cerfa n° 50-4509 à compter du 1er mars 1994 et est disponible auprés des services vétérinaires de chaque département.
+
 Cette déclaration doit être renouvelée dans les conditions précitées à chaque changement d'exploitant ou lors de modification dans la nature de l'activité ou lors de toute modification affectant de façon substantielle les conditions d'hébergement des animaux.
 
 Il est délivré un récépissé de chaque déclaration adressée au préfet (services vétérinaires).

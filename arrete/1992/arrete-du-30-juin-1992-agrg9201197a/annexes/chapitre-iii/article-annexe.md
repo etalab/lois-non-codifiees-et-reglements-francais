@@ -40,6 +40,8 @@ En cas de constatation sur un animal hébergé dans les locaux de l'une de ces m
 
 16. Les responsables des locaux doivent tenir à jour un livre sur lequel seront consignés les renseignements relatifs à l'état de santé des animaux et aux interventions éventuelles du ou des vétérinaires attachés à l'établissement, les autopsies pratiquées et les causes de mortalité.
 
+Les livres ouverts aprés le 1er mars 1994 doivent être conformes au modèle Cerfa n° 50-4511.
+
 Le livre, qui doit être conservé pendant trois années à compter de la dernière inscription qui y a été portée, sera présenté à toutes les réquisitions des agents de contrôle.
 
 Les responsables des établissements pratiquant exclusivement le toilettage sont dispensés de la tenue de ce livre sanitaire.
