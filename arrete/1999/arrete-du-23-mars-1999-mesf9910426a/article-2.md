@@ -1,3 +1,3 @@
 # Article 2
 
-Les conventions et avenants annuels conclus en 1998 font l'objet d'un avenant portant l'aide au poste à 50 000 F à compter du 1er janvier 1999 pour leur durée restant à courir sur l'année 1999. Le montant de cette revalorisation est versé en même temps que le solde de ces conventions ou avenants.
+Les conventions et avenants annuels font l'objet d'un avenant portant l'aide au poste à 58 500 F à compter de la date à laquelle les entreprises d'insertion bénéficient de l'allégement prévu à l'article L. 241-13-1 du code de la sécurité sociale, pour la durée restant à courir. Le montant de cette revalorisation est versé en deux ou trois fois ; le premier versement est de 60 % dès la signature de l'avenant si celle-ci intervient dans les six premiers mois de la convention ; il est de 80 % au-delà de cette période. Le versement du solde se fait dans les conditions prévues à l'alinéa 3 de l'article 1er.

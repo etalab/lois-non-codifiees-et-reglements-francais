@@ -1,6 +1,6 @@
 # Article 1
 
-Le montant annuel de l'aide par poste de travail occupé à temps plein prévue par l'article 5 du décret du 18 février 1999 susvisé est fixé à 50 000 F. Elle ne peut se cumuler pour un même poste avec une autre aide à l'emploi financée par l'Etat.
+Le montant annuel de l'aide par poste de travail occupé à temps plein prévue par l'article 5 du décret du 18 février 1999 susvisé est fixé à 50 000 F. Il est porté à 58 500 F par poste de travail occupé par des salariés dont la rémunération ne bénéficie pas de l'exonération visée au II de l'article L. 322-4-16 du code du travail mais ouvre droit à l'allégement prévu à l'article L. 241-13-1 du code de la sécurité sociale.
 
 Cette aide est proratisée en fonction de la durée annuelle d'occupation du poste.
 
