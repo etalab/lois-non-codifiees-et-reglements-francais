@@ -1,0 +1,7 @@
+# Article 143
+
+L'ensemble des biens, droits et obligations des sociétés professionnelles ou interprofessionnelles intervenant dans le domaine agricole, à l'exception des contrats de travail, sont dévolus, par dérogation au deuxième alinéa de l'article 14 du décret n° 53-933 du 30 septembre 1953 relatif au statut, à l'organisation et au fonctionnement des organismes d'intérêt économique de caractère privé, aux organismes qui leur sont substitués pour l'exercice de leurs missions, à compter de la décision prise par ces sociétés de procéder à leur dissolution. Les actionnaires privés de ces sociétés sont indemnisés par les organismes bénéficiaires de la dévolution.
+
+En ce qui concerne la société interprofessionnelle des oléagineux, protéagineux et cultures textiles (SIDO), l'ensemble des biens, droits et obligations faisant l'objet des opérations de liquidation en cours, à l'exception des contrats de travail, sont dévolus à l'Office national interprofessionnel des oléagineux, protéagineux et cultures textiles, à compter de l'entrée en vigueur de la présente loi. Toute opposition, saisie ou cession qui aurait été signifiée à cet office antérieurement à sa date de substitution à la SIDO au titre d'obligations dues par cette dernière est réputée avoir été valablement faite.
+
+Le transfert des biens, droits et obligations visés au présent article est exonéré des droits et taxes normalement exigibles en vertu des textes en vigueur.

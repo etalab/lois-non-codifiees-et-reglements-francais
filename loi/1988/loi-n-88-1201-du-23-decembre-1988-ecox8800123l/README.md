@@ -6,6 +6,7 @@
 - [Chapitre III : Des fonds communs de placement d'entreprise.](chapitre-iii)
 - [Chapitre IV : Du fonds commun de placement à risques.](chapitre-iv)
 - [Chapitre IV bis : Du fonds commun de placement dans l'innovation](chapitre-iv-bis)
+- [Chapitre IV ter : Du fonds commun de placement à risques bénéficiant d'une procédure allégée](chapitre-iv-ter)
 - [Chapitre V : Du fonds commun d'intervention sur les marchés à terme.](chapitre-v)
 - [Chapitre V bis : Organismes de placement collectif en valeurs mobilières à compartiments.](chapitre-v-bis)
 - [Chapitre V ter : Organismes de placement collectif en valeurs mobilières bénéficiant d'une procédure allégée.](chapitre-v-ter)

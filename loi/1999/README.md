@@ -22,6 +22,7 @@
 - [Loi n° 99-533 du 25 juin 1999 (ATEX9800094L)](loi-n-99-533-du-25-juin-1999-atex9800094l)
 - [Loi n° 99-56 du 28 janvier 1999 (MAEX9800119L)](loi-n-99-56-du-28-janvier-1999-maex9800119l)
 - [Loi n° 99-570 du 8 juillet 1999 (MESX9803321L)](loi-n-99-570-du-8-juillet-1999-mesx9803321l)
+- [Loi n° 99-574 du 9 juillet 1999 (AGRX9800053L)](loi-n-99-574-du-9-juillet-1999-agrx9800053l)
 - [Loi n° 99-67 du 3 février 1999 (ECOX9800147L)](loi-n-99-67-du-3-fevrier-1999-ecox9800147l)
 - [Loi n°89-432 du 28 juin 1989 (SPOX8800141L)](loi-n89-432-du-28-juin-1989-spox8800141l)
 - [Loi n°99-243 du 29 mars 1999 (EQUX9800060L)](loi-n99-243-du-29-mars-1999-equx9800060l)

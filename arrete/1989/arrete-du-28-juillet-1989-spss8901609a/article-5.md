@@ -1,3 +1,3 @@
 # Article 5
 
-Avant l'expiration de la période probatoire prévue aux articles 2 et 4, les établissements concernés doivent présenter une demande pour bénéficier de plein droit du régime de sécurité sociale des étudiants. Cette demande sera soumise à l'examen des commissions régionales interministérielles visées à l'article 1er de l'arrêté relatif au régime d'assurances sociales des étudiants du 21 septembre 1992.
+La décision relative à la reconnaissance du niveau d'enseignement supérieur de la formation dispensée est prise par le préfet ou par une autre autorité déconcentrée de l'Etat, conformément aux dispositions du décret n° 97-34 du 15 janvier 1997 modifié relatif à la déconcentration des décisions administratives individuelles. Elle est notifiée simultanément au chef de l'établissement et au ministre dont relève le service déconcentré de tutelle.

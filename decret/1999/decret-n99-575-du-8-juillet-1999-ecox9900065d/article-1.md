@@ -1,0 +1,5 @@
+# Article 1
+
+Dans tous les cas où l'approbation préalable par l'Etat, expresse ou tacite, des décisions des instances compétentes des établissements publics de l'Etat portant sur le budget ou l'état prévisionnel de recettes et de dépenses, leurs modifications, ainsi que sur le compte financier, est prévue par les textes réglementaires applicables à ces établissements, ces décisions sont exécutoires, à défaut d'approbation expresse déjà notifiée, à l'expiration d'un délai partant de la date de réception, par la ou les autorités de l'Etat compétentes, de la délibération et des documents correspondants, à moins que l'une de ces autorités n'y fasse opposition pendant ce délai.
+
+Le délai mentionné à l'alinéa précédent est fixé à un mois, sauf durée inférieure prévue par les textes applicables à l'établissement public. Lorsque les autorités de l'Etat précitées demandent par écrit des informations ou documents complémentaires, ce délai est suspendu jusqu'à la production de ces informations ou documents.
