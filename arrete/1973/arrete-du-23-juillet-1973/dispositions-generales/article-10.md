@@ -1,123 +1,95 @@
 # Article 10
 
-Les personnels occupant les fonctions de dactylocodeur, de moniteur, d'opérateur, de chef opérateur et de chef d'atelier mécanographique, telles qu'elles sont définies à l'article 5 ci-dessus, reçoivent une prime de fonction dont la durée de perception et le montant fixés conformément à l'article 8 ci-dessus sont les suivants :
+1° Les personnels occupant les fonctions de dactylocodeur, de moniteur, d'opérateur, de chef opérateur et de chef d'atelier mécanographique, telles qu'elles sont définies à l'article 5 ci-dessus, peuvent recevoir une prime de fonction dont la durée de perception et le montant fixés conformément aux dispositions de l'article 8 ci-dessus sont les suivants :
 
--------------------------------------------------------------- :               :  NOMBRE  :       DUREE DE PERCEPTION       :
+------------------------------------------------------------------ :                                :               :     DUREE     :
 
 <table>
 <tr>
-<td> :   FONCTIONS   :    de    :     de la prime de fonction     :</td>
+<td> :          FONCTIONS             :   NOMBRE      : de perception :</td>
 </tr>
 <tr>
-<td> :               : 1/10.000 :                                 :</td>
+<td> :                                : de 1/10.000.  : de la prime   :</td>
 </tr>
 <tr>
-<td> :---------------:----------:---------------------------------:</td>
+<td> :                                :               : de fonction.  :</td>
 </tr>
 <tr>
-<td> : Dactylocodeur :    55    : 1re année.                      :</td>
+<td> :--------------------------------:---------------:---------------:</td>
 </tr>
 <tr>
-<td> :               :    58    : 2é et 3é années.                :</td>
+<td> : Dactylocodeur                  :       55      :    1 an.      :</td>
 </tr>
 <tr>
-<td> :               :    65    : De la 4é à la 7é année.         :</td>
+<td> :                                :       58      :    2 ans.     :</td>
 </tr>
 <tr>
-<td> :               :    55    : De la 8é à la 10é année.        :</td>
+<td> :                                :       65      :    4 ans.     :</td>
 </tr>
 <tr>
-<td> :               :    48    : De la 11é à la 13é année.       :</td>
+<td> :                                :               :               :</td>
 </tr>
 <tr>
-<td> :               :    40    : De la 14é à la 16é année.       :</td>
+<td> : Moniteur                       :       70      :    2 ans.     :</td>
 </tr>
 <tr>
-<td> :               :    32    : De la 17é à la 20é année.       :</td>
+<td> :                                :       80      :    3 ans.     :</td>
 </tr>
 <tr>
-<td> :               :          :                                 :</td>
+<td> :                                :       82      :    6 ans.     :</td>
 </tr>
 <tr>
-<td> : Moniteur      :    70    : 1re et 2é années.               :</td>
+<td> :                                :               :               :</td>
 </tr>
 <tr>
-<td> :               :    80    : De la 3é à la 5é année.         :</td>
+<td> : Opérateur                      :       32      :    1 an.      :</td>
 </tr>
 <tr>
-<td> :               :    82    : De la 6é à la 11é année.        :</td>
+<td> :                                :       36      :    2 ans.     :</td>
 </tr>
 <tr>
-<td> :               :    67    : De la 12é à la 15é année.       :</td>
+<td> :                                :       42      :    4 ans.     :</td>
 </tr>
 <tr>
-<td> :               :    50    : De la 16é à la 19é année.       :</td>
+<td> :                                :               :               :</td>
 </tr>
 <tr>
-<td> : Opérateur     :    32    : 1re année.                      :</td>
+<td> : Chef opérateur                 :       45      :    2 ans.     :</td>
 </tr>
 <tr>
-<td> :               :    36    : 2é et 3é années.                :</td>
+<td> :                                :       52      :    3 ans.     :</td>
 </tr>
 <tr>
-<td> :               :    42    : De la 4é à la 7é année.         :</td>
+<td> :                                :       54      :    6 ans.     :</td>
 </tr>
 <tr>
-<td> :               :    35    : De la 8é à la 10é année.        :</td>
+<td> :--------------------------------:---------------:---------------:</td>
 </tr>
 <tr>
-<td> :               :    30    : De la 11é à la 13é année.       :</td>
+<td> :--------------------------------:---------------:---------------:</td>
 </tr>
 <tr>
-<td> :               :    18    : De la 14é à la 16é année.       :</td>
+<td> : Chef d'atelier mécanographique :       60      :    3 ans.     :</td>
 </tr>
 <tr>
-<td> :               :    10    : De la 17é à la 20é année.       :</td>
-</tr>
-<tr>
-<td> :               :          :                                 :</td>
-</tr>
-<tr>
-<td> : Chef          :    45    : 1re et 2é années.               :</td>
-</tr>
-<tr>
-<td> : opérateur     :    52    : De la 3é à la 5é année.         :</td>
-</tr>
-<tr>
-<td> :               :    54    : De la 6é à la 11é année.        :</td>
-</tr>
-<tr>
-<td> :               :    45    : De la 12é à la 14é année.       :</td>
-</tr>
-<tr>
-<td> :               :    40    : De la 15é à la 18é année.       :</td>
-</tr>
-<tr>
-<td> :               :    20    : De la 19é à la 20é année.       :</td>
-</tr>
-<tr>
-<td> :               :          :                                 :</td>
-</tr>
-<tr>
-<td> : Chef          :    60    : De la 1re à la 3é année.        :</td>
-</tr>
-<tr>
-<td> : d'atelier     :    64    : De la 4é à la 8é année.         :</td>
-</tr>
-<tr>
-<td> : mécanographe  :    60    : De la 9é à la 10é année.        :</td>
-</tr>
-<tr>
-<td> :               :    50    : De la 11é à la 13é année.       :</td>
-</tr>
-<tr>
-<td> :               :    35    : De la 14é à la 16é année.       :</td>
-</tr>
-<tr>
-<td> :               :    20    : De la 17é à la 19é année.       :</td>
+<td> :                                :       64      :    5 ans.     :</td>
 </tr>
 </table>
 
---------------------------------------------------------------
+------------------------------------------------------------------
 
-Le prime cesse de plein droit d'être versée, quelle que soit la durée effective de l'exercice des fonctions, aux moniteurs et aux chefs d'atelier mécanographique à partir de vingtième année et aux autres catégories de personnels à partir de la vingt et unième année.
+2° A l'issue de la période de paiement de la prime de fonction, les agents occupant les fonctions désignées dans le tableau ci-dessus reçoivent une indemnité non soumise à retenue pour pension de retraite dont le montant est égal à celui de la prime de fonction au taux maximum et revalorisé dans les mêmes conditions, évoluant comme suit :
+
+a) Agents n'ayant pas atteint l'échelon maximum de leur grade : à chaque avancement, l'indemnité est diminuée d'une fraction du gain indiciaire correspondant. La part des gains indiciaires et de l'augmentation de l'indemnité de résidence qui s'impute sur l'indemnité est égale :
+
+Aux trois quarts [*proportion*] pour les dactylocodeurs et les moniteurs ;
+
+Au tiers pour les chefs opérateurs ;
+
+Au quart pour les opérateurs et les chefs d'atelier mécanographique.
+
+b) Agents ayant atteint ou atteignant l'échelon maximum de leur grade : l'indemnité définie au premier alinéa est bloquée en valeur absolue au niveau atteint après la dernière imputation indiciaire possible dans le grade.
+
+Cette indemnité est à nouveau réduite, dans les conditions définies au a, des gains indiciaires dus à une nomination à un grade supérieur dans la limite du niveau hiérarchique maximum prévu à l'article 7 ci-dessus.
+
+3° A partir de la vingtième année d'exercice des fonctions de moniteur et de chef d'atelier mécanographique et à partir de la vingt et unième année pour les autres fonctions, toutes les augmentations du traitement brut et de l'indemnité de résidence s'imputent sur l'indemnité dont le montant est bloqué en valeur absolue, jusqu'à sa disparition complète.

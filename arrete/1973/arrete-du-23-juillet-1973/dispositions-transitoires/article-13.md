@@ -1,17 +1,17 @@
 # Article 13
 
-Les agents des communes et des établissements publics communaux ou intercommunaux relevant du présent arrêté et qui auront été reclassés ou seront promus dans un emploi hiérarchiquement supérieur à celui qui correspond à la fonction qu'ils exercent soit par application des articles 16, 17, 18 et 19 du présent arrêté, soit par application des règles statutaires normales, ne perçoivent plus la prime de fonction et la prime provisoire.
+1° Les chefs d'exploitation et les programmeurs de système qui, à la date du 1er janvier 1981, ont perçu les primes afférentes à ces fonctions pendant respectivement plus de huit ans et plus de dix ans pourront recevoir ces primes aux taux maximaux à compter de cette même date tant que la durée totale de perception n'excédera pas respectivement douze ans et quatorze ans.
 
-Toutefois, au cas où après reclassement dans les conditions fixées à l'alinéa précédent ou promotion dans l'un des emplois suivants :
+A l'issue de cette période, ces agents seront soumis aux dispositions du 2° de l'article 11 modifié du présent arrêté.
 
-rédacteur, rédacteur principal, chef de bureau, adjoint technique, chef de section, chef de section principal, sous-archiviste, sous-archiviste principal, sous-bibliothécaire, sous-bibliothécaire principal, ou l'un des emplois des groupes IV, V, VI et VII de rémunération prévus par l'arrêté du 25 mai 1970 instituant diverses échelles de rémunération pour certains emplois communaux, le traitement afférent à l'indice détenu par l'agent est inférieur à la somme globale résultant du traitement de la prime de fonction au taux moyen et éventuellement de la prime provisoire qu'il percevait dans son emploi d'origine, une indemnité complémentaire non soumise à retenue pour pension est accordée à l'intéressé.
+2° La situation des dactylocodeurs, moniteurs, opérateurs, chefs opérateurs et chefs d'atelier mécanographique qui, à la date du 1er janvier 1981, ont perçu les primes afférentes à ces fonctions, dans les conditions prévues au 1° de l'article 10 modifié du présent arrêté pendant respectivement plus de sept ans, onze ans, sept ans, onze ans et huit ans, sera revisée sur la base des règles édictées au 2° de ce même article. Ces dispositions prendront effet à compter du 1er janvier 1981.
 
-Cette indemnité est égale à la différence entre le nouveau traitement et la somme globale définie à l'alinéa précédent.
+Les agents visés à l'alinéa précédent pourront conserver, à titre personnel, le bénéfice du régime indemnitaire antérieur si exceptionnellement il est plus favorable que celui mis en place par le présent arrêté.
 
-Lorsqu'elle bénéficie à un agent reclassé dans les conditions prévues au premier alinéa du présent article, elle est versée jusqu'au jour où, par suite de l'application des règles statutaires, l'intéressé retrouve un traitement égal à la somme globale qu'il percevait dans son emploi d'origine à la date où la nomination dans son nouvel emploi a pris effet. En cas de revision générale des traitements intervenant postérieurement à cette nomination, il est procédé à une nouvelle fixation de l'indemnité complémentaire en fonction de la nouvelle somme globale correspondant à l'échelon dans lequel se trouvait l'intéressé au moment de son reclassement.
+3° La situation des agents de traitement, programmeurs et pupitreurs, chefs programmeurs et analystes qui, à la date du 1er janvier 1981, ont perçu les primes afférentes à ces fonctions pendant respectivement plus de sept ans, dix ans, huit ans et neuf ans, dans les conditions prévues au 1° de l'article 11 modifié du présent arrêté, sera revisée sur la base des règles édictées au 2° de ce même article. Ces dispositions prendront effet à compter du 1er janvier 1981.
 
-Lorsqu'elle bénéficie à un agent ayant été promu dans un emploi mentionné à l'alinéa 2, l'indemnité est réduite à concurrence des augmentations de traitement intervenant postérieurement à cette promotion à quelque titre que ce soit.
+Les agents visés à l'alinéa précédent pourront conserver, à titre personnel, le bénéfice du régime indemnitaire antérieur si exceptionnellement il est plus favorable que celui mis en place par le présent arrêté.
 
-L'indemnité complémentaire est éventuellement réduite du montant de l'indemnité compensatrice dont pourrait bénéficier l'agent reclassé.
+4° La situation des chefs d'exploitation et des programmeurs de systèmes d'exploitation qui, à la date du 1er janvier 1981, ont perçu les primes afférentes à ces fonctions pendant respectivement plus de douze et quatorze ans, dans les conditions prévues au 1° de l'article 11 modifié du présent arrêté, sera revisée sur la base des règles édictées au 2° de ce même article. Ces dispositions prendront effet à compter du 1er janvier 1981.
 
-L'indemnité complémentaire n'est versée qu'aux agents qui continuent à être employés dans les fonctions définies à l'article 5.
+Les agents visés à l'alinéa précédent pourront conserver, à titre personnel, le bénéfice du régime indemnitaire antérieur si exceptionnellement il est plus favorable que celui mis en place par le présent arrêté.
