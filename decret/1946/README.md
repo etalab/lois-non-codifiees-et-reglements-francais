@@ -1,5 +1,6 @@
 # 1946
 
+- [Décret n°46-2125 du 2 octobre 1946](decret-n46-2125-du-2-octobre-1946)
 - [Décret n°46-1378 du 8 juin 1946](decret-n46-1378-du-8-juin-1946)
 - [Décret n°46-659 du 11 avril 1946](decret-n46-659-du-11-avril-1946)
 - [Décret n°46-1428 du 12 juin 1946](decret-n46-1428-du-12-juin-1946)
