@@ -43,4 +43,5 @@
 - [Décret n°82-1241 du 31 décembre 1982](decret-n82-1241-du-31-decembre-1982)
 - [Décret n°82-1242 du 31 décembre 1982](decret-n82-1242-du-31-decembre-1982)
 - [Décret n°82-1244 du 31 décembre 1982](decret-n82-1244-du-31-decembre-1982)
+- [Décret n°82-1247 du 31 décembre 1982](decret-n82-1247-du-31-decembre-1982)
 - [Décret n°82-1248 du 31 décembre 1982](decret-n82-1248-du-31-decembre-1982)
