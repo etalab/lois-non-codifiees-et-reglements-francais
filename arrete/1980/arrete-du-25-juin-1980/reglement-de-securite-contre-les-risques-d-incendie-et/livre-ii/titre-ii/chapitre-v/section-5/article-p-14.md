@@ -2,18 +2,14 @@
 
 Domaine d'application
 
-§ 1. En application de l'article DF 3, doivent être désenfumées :
+§ 1. Les établissements visés au présent chapitre sont de la classe 2 pour la détermination du coefficient au sens de l'annexe de l'IT 246.
 
-- les salles de danse situées en sous-sol ;
+§ 2. En aggravation de l'article DF 7, les salles de danse comportant des mezzanines ou des niveaux partiels ainsi que les salles situées en sous-sol doivent être désenfumées.
 
-- les salles de jeux, d'une superficie supérieure à 100 mètres carrés, situées en sous-sol ;
+§ 3. En aggravation de l'article DF 5, les escaliers encloisonnés desservant les sous-sols doivent être désenfumés ou mis à l'abri des fumées.
 
-- les salles de danse comportant des mezzanines ou des planchers partiels ;
+§ 4. En aggravation de l'article DF 6, les circulations horizontales encloisonnées de longueur supérieure ou égale à 5 m doivent être désenfumées.
 
-- les autres salles, d'une superficie supérieure à 300 mètres carrés, situées au rez-de-chaussée ou en étage.
+§ 5. Le désenfumage des locaux cités à l'article P 5 peut être imposé, après avis de la commission de sécurité, s'ils comportent des risques d'incendie associés à un potentiel calorifique (ou fumigène) important.
 
-§ 2. En application de l'article DF 3, et en aggravation du paragraphe 5.2 de l'instruction technique sur le désenfumage, les escaliers et les circulations encloisonnés (à l'exception des circulations horizontales d'une longueur inférieure à 5 mètres situées au rez-de-chaussée ou en étage) doivent être désenfumés ou mis à l'abri des fumées.
-
-§ 3. Le désenfumage des locaux cités à l'article p 5 peut être imposé, après avis de la commission de sécurité, s'ils comportent des risuqes d'incendie associés à un potentiel calorifique (ou fumigène) important.
-
-§ 4. Si l'établissement est équipé d'un système de sécurité incendie de catégorie A, le désenfumage doit être commandé automatiquement par la détection automatique d'incendie.
+§ 6. Si l'établissement est équipé d'un système de sécurité incendie de catégorie A, le désenfumage doit être commandé automatiquement par la détection automatique d'incendie.

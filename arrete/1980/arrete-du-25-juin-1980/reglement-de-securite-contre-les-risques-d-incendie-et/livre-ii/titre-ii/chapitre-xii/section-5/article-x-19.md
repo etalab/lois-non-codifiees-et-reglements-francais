@@ -2,16 +2,18 @@
 
 Domaine d'application
 
-En application de l'article DF 3 :
+§ 1. Les établissements visés au présent chapitre sont de la classe 1 pour la détermination du coefficient au sens de l'annexe de l'IT 246. Les salles polyvalentes sont de la classe 2 pour la détermination de ce coefficient , les autres salles de la classe 1.
 
-§ 1. Dans les bâtiments comportant un étage sur rez-de-chaussée au plus, les zones de déshabillage ou de stockage de vêtements, les locaux de matériel non ouverts sur une aire sportive, ainsi que les locaux aveugles d'une superficie supérieure à 300 mètre carrés doivent être désenfumés.
+§ 2. En complément des articles DF 6 et DF 7, seules doivent être désenfumées :
 
-§ 2. Le désenfumage des sous-sols accessibles au public d'une superficie supérieure à 100 mètres carrés, et celui des bâtiments de plus d'un étage sur rez-de-chaussée doit être réalisé :
+- les salles polyvalentes à dominante sportive visées à l'article X 1 (§ 1) ;
 
-- soit par le désenfumage de tous les locaux ;
+- les salles à usage sportif ;
 
-- soit par la mise à l'abri des fumées ou le désenfumage des circulations.
+- d'une superficie supérieure à 300 m², situées en sous-sol ;
 
-§ 3. Les salles polyvalentes à dominante sportive visées à l'article X 1 (§ 1) doivent être désenfumées. Ces salles sont rangées en " classe " 2 de l'annexe I de l'instruction technique relative au désenfumage.
+- d'une superficie supérieure à 300 m², situées au rez-de-chaussée ou en étage, et dont la hauteur sous plafond est inférieure à 4 m ;
 
-§ 4. Les commandes des systèmes de désenfumage ne sont pas obligatoirement automatiques.
+- les zones de déshabillage ou de stockage de vêtements ainsi que les locaux de matériels, d'une superficie supérieure à 100 m², non ouverts sur une aire sportive. Le désenfumage des locaux de superficie inférieure à 300 m² peut être réalisé à partir des fenêtres, dans les conditions prévues au § 3.9 de l'IT 246.
+
+§ 3. Les commandes des systèmes de désenfumage ne sont pas obligatoirement automatiques.

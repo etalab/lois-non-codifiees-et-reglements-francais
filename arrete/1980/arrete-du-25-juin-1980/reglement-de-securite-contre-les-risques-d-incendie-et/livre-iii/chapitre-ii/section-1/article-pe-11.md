@@ -68,7 +68,7 @@ c) Les baies intérieures éclairant des locaux ou des dégagements contigus à 
 
 d) Les portes des escaliers encloisonnés doivent être munies d'un ferme-porte. Toutefois, si pour des raisons d'exploitation les portes doivent être maintenues ouvertes, leur fermeture doit être asservie à un système de détection automatique, conforme aux normes en vigueur, sensible aux fumées et aux gaz de combustion.
 
-e) La cage d'escalier doit comporter, en partie haute, un châssis ou une fenêtre, d'une surface de 1 mètre carré, muni d'un dispositif permettant son ouverture facile depuis le niveau d'accès de l'établissement.
+e) La cage d'escalier doit être désenfumée conformément aux dispositions de l'article PE 14.
 
 f) Les escaliers desservant les étages doivent être dissociés, au niveau d'évacuation sur l'extérieur, de ceux desservant les sous-sols.
 

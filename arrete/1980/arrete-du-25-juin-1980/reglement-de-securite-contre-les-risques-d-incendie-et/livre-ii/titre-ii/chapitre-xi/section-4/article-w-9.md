@@ -2,10 +2,8 @@
 
 Domaine d'application
 
-§ 1. En application de l'article DF 3 :
+§ 1. Les établissements visés au présent chapitre sont de la classe 1 pour la détermination du coefficient au sens de l'annexe de l'IT 246.
 
-Les salles d'une superficie supérieure à 300 mètres carrés, ainsi que les locaux à risques particuliers visés à l'article W 4 d'un volume supérieur à 1 000 mètres cubes, doivent être désenfumés.
+§ 2. Les locaux à risques particuliers visés à l'article W 4 d'un volume supérieur à 1 000 mètres cubes doivent être désenfumés.
 
-Les escaliers et les circulations encloisonnés doivent être désenfumés ou mis à l'abri des fumées.
-
-§ 2. Les commandes des dispositifs de désenfumage ne sont pas obligatoirement automatiques.
+§ 3. Les commandes des dispositifs de désenfumage ne sont pas obligatoirement automatiques.
