@@ -1,0 +1,5 @@
+# Article 6
+
+Sans préjudice des dispositions de l'article 7 ci-après, sont dispensées du versement des cotisations [*exonération*], de la présente assurance les personnes mentionnées à l'article 1106-1 (1., 2. et 5.) du Code rural [*chefs d'exploitation ou d'entreprise agricoles, aides familiaux non-salariés, associés d'exploitation, membres non-salariés de société*] lorsqu'elles bénéficient à titre de pensionnés de vieillesse ou d'invalidité d'un régime de sécurité sociale des prestations en nature de l'assurance maladie pour elles-mêmes, leur conjoint et leurs enfants à charge ou lorsqu'elles exercent à titre principal une autre activité professionnelle.
+
+En application de l'article 1106-1 (5.), deuxième alinéa, du Code rural, sont exclus de la présente assurance [* hors champ d'application*], les parlementaires, les anciens parlementaires jouissant à ce titre de leurs droits à la retraite, ainsi que les invalides, veuves et orphelins de guerre visés aux articles L. 576 et suivants du Code de la sécurité sociale.
