@@ -1,0 +1,3 @@
+# Article 1
+
+Les personnels militaires de l'armée de mer embarqués à bord des bâtiments de l'Etat ou du commerce dans les conditions fixées aux articles 25 du décret du 8 avril 1923 et 19 du décret du 22 octobre 1929 et les fonctionnaires civils embarqués à bord de bâtiments de l'Etat ou du commerce dans les conditions fixées aux articles 29 et 30 du décret du 23 août 1927 ont droit à une majoration journalière pour service à la mer dont le taux est fixé par arrêté conjoint du ministre de la défense, du ministre de l'économie et des finances et du secrétaire d'Etat auprès du Premier ministre, chargé de la fonction publique.
