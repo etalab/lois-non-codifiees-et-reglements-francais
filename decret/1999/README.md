@@ -73,7 +73,6 @@
 - [Décret n°99-1032 du 3 décembre 1999 (EQUU9901044D)](decret-n99-1032-du-3-decembre-1999-equu9901044d)
 - [Décret n°99-1033 du 3 décembre 1999 (ATEE9970045D)](decret-n99-1033-du-3-decembre-1999-atee9970045d)
 - [Décret n°99-139 du 3 mars 1999 (ECOB9910001D)](decret-n99-139-du-3-mars-1999-ecob9910001d)
-- [Décret n°99-140 du 3 mars 1999 (ECOB9910002D)](decret-n99-140-du-3-mars-1999-ecob9910002d)
 - [Décret n°99-141 du 3 mars 1999 (AGRS9900230D)](decret-n99-141-du-3-mars-1999-agrs9900230d)
 - [Décret n°99-458 du 3 juin 1999 (PRMX9900025D)](decret-n99-458-du-3-juin-1999-prmx9900025d)
 - [Décret n°99-459 du 3 juin 1999 (INTA9900093D)](decret-n99-459-du-3-juin-1999-inta9900093d)
