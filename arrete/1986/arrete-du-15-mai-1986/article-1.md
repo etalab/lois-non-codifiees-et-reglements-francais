@@ -1,89 +1,317 @@
 # Article 1
 
-Sont interdits en tout temps, sur tout le territoire national, la destruction ou l'enlèvement des oeufs, la destruction, la capture ou l'enlèvement, la mutilation, la naturalisation des reptiles d'espèces non domestiques suivantes ou, qu'ils soient vivants ou morts, leur transport, leur colportage, leur utilisation, leur mise en vente, leur vente ou leur achat :
+Sont interdits en tout temps, sur tout le territoire national, la destruction, la capture ou l'enlèvement, la mutilation, la naturalisation des mammifères d'espèces non domestiques suivantes, ou qu'ils soient vivants ou morts, leur transport, leur colportage, leur utilisation, leur mise en vente, leur vente ou leur achat :
 
 TAXONOMIE :
 
-Crocodiliens
+Marsupiaux
 
-- Alligatoridés
+- Didelphidés
 
 NOM VERNACULAIRE :
 
-Caïman noir.
+Opossum aquatique (ou Sarrigue aquatique).
 
 NOM SCIENTIFIQUE :
 
-Melanosuchus niger.
+Chironectes minimus.
 
 NOM GUYANAIS :
 
-Caïman blanc.
+Yapock.
 
 TAXONOMIE :
 
-Chéloniens
+Edentés (ou Xenarthres)
 
-- Chélidés
+- Myrmécophagidés
 
 NOM VERNACULAIRE :
 
-Matamata.
+Myrmidon ou Petit fourmilier.
 
 NOM SCIENTIFIQUE :
 
-Chelus fimbriatus.
+Cyclopes didactylus.
 
 NOM GUYANAIS :
 
-Matamata.
+Lèche-main.
 
 TAXONOMIE :
 
-Chéloniens
+Edentés (ou Xenarthres)
 
-- Chélidés
-
-NOM VERNACULAIRE :
-
-Platemyde à tête orange.
-
-NOM SCIENTIFIQUE :
-
-Platemys platycephala.
-
-TAXONOMIE :
-
-Chéloniens
-
-- Pélomédusidés
+- Myrmécophagidés
 
 NOM VERNACULAIRE :
 
-Podocnemide de Cayenne.
+Fourmilier.
 
 NOM SCIENTIFIQUE :
 
-Podocnemus cayennensis (syn. Podocnemus unifelis).
+Tamandua tetradactyla.
 
 NOM GUYANAIS :
 
-Tortue de rivière de Cayenne.
+Tamandua.
 
 TAXONOMIE :
 
-Ophidiens
+Edentés (ou Xenarthres)
 
-- Boïdés
+- Myrmécophagidés
 
 NOM VERNACULAIRE :
 
-Boa émeraude (syn. Boa canin).
+Grand fourmilier.
 
 NOM SCIENTIFIQUE :
 
-Corallus caninus.
+Tamandua tridactyla (syn. Myrmecophaga tridactyla).
 
 NOM GUYANAIS :
 
-Couleuvre verte.
+Tamanoir.
+
+TAXONOMIE :
+
+Edentés (ou Xenarthres)
+
+- Dasypodidés
+
+NOM VERNACULAIRE :
+
+Tatou géant.
+
+NOM SCIENTIFIQUE :
+
+Priodontes giganteus.
+
+NOM GUYANAIS :
+
+Cabassou.
+
+TAXONOMIE :
+
+Carnivores
+
+- Mustélidés
+
+NOM VERNACULAIRE :
+
+Loutre de Guyane.
+
+NOM SCIENTIFIQUE :
+
+Lutra enudris.
+
+NOM GUYANAIS :
+
+Tig d'eau.
+
+TAXONOMIE :
+
+Carnivores
+
+- Mustélidés
+
+NOM VERNACULAIRE :
+
+Loutre géante.
+
+NOM SCIENTIFIQUE :
+
+Pteronura brasiliensis.
+
+NOM GUYANAIS :
+
+Tig d'eau.
+
+TAXONOMIE :
+
+Carnivores
+
+- Mustélidés
+
+NOM VERNACULAIRE :
+
+Martre à tête grise.
+
+NOM SCIENTIFIQUE :
+
+Eira barbara.
+
+NOM GUYANAIS :
+
+Tayra.
+
+TAXONOMIE :
+
+Carnivores
+
+- Mustélidés
+
+NOM VERNACULAIRE :
+
+Martre.
+
+NOM SCIENTIFIQUE :
+
+Galictis vittata.
+
+NOM GUYANAIS :
+
+Tayra.
+
+TAXONOMIE :
+
+Carnivores
+
+- Canidés
+
+NOM VERNACULAIRE :
+
+Chien des bois.
+
+NOM SCIENTIFIQUE :
+
+Speothos venaticus.
+
+NOM GUYANAIS :
+
+Chien bois.
+
+TAXONOMIE :
+
+Carnivores
+
+- Canidés
+
+NOM VERNACULAIRE :
+
+Renard des savanes.
+
+NOM SCIENTIFIQUE :
+
+Cerdocyon thous.
+
+TAXONOMIE :
+
+Carnivores
+
+- Procyonidés
+
+NOM VERNACULAIRE :
+
+Raton crabier.
+
+NOM SCIENTIFIQUE :
+
+Procyon cancrivorus.
+
+NOM GUYANAIS :
+
+Chien crabier.
+
+TAXONOMIE :
+
+Carnivores
+
+- Félidés
+
+NOM VERNACULAIRE :
+
+Juguarondi.
+
+NOM SCIENTIFIQUE :
+
+Herpailurus yagouaroundi (syn. Felis yagouaroundi).
+
+NOM GUYANAIS :
+
+Tig noir.
+
+TAXONOMIE :
+
+Siréniens
+
+- Trichénidés
+
+NOM VERNACULAIRE :
+
+Lamantin.
+
+NOM SCIENTIFIQUE :
+
+Trichechus manatus.
+
+NOM GUYANAIS :
+
+Lamantin.
+
+TAXONOMIE :
+
+Primates
+
+- Cébidés
+
+NOM VERNACULAIRE :
+
+Atele.
+
+NOM SCIENTIFIQUE :
+
+Ateles paniscus.
+
+NOM GUYANAIS :
+
+Kwata.
+
+Primates
+
+- Cébidés
+
+NOM VERNACULAIRE :
+
+Saki capucin.
+
+NOM SCIENTIFIQUE :
+
+Chiropotes satanas.
+
+TAXONOMIE :
+
+Primates
+
+- Cébidés
+
+NOM VERNACULAIRE :
+
+Saki à face pâle.
+
+NOM SCIENTIFIQUE :
+
+Pithecia pithecia.
+
+NOM GUYANAIS :
+
+Mamman guinan.
+
+TAXONOMIE :
+
+Primates
+
+- Cébidés
+
+NOM VERNACULAIRE :
+
+Douroucouli.
+
+NOM SCIENTIFIQUE :
+
+Aotes trivirgatus.
+
+NOM GUYANAIS :
+
+Singe de nuit.
