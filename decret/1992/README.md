@@ -471,7 +471,6 @@
 - [Décret n°92-51 du 14 janvier 1992 (RESY9100464D)](decret-n92-51-du-14-janvier-1992-resy9100464d)
 - [Décret n°92-54 du 14 janvier 1992 (EQUC9101220D)](decret-n92-54-du-14-janvier-1992-equc9101220d)
 - [Décret n°92-793 du 14 août 1992 (AGRS9201138D)](decret-n92-793-du-14-aout-1992-agrs9201138d)
-- [Décret n°92-794 du 14 août 1992 (SANH9201950D)](decret-n92-794-du-14-aout-1992-sanh9201950d)
 - [Décret n°92-799 du 14 août 1992 (DEFD9201717D)](decret-n92-799-du-14-aout-1992-defd9201717d)
 - [Décret n°92-92 du 14 janvier 1992 (MJSK9170149D)](decret-n92-92-du-14-janvier-1992-mjsk9170149d)
 - [Décret n°92-989 du 14 septembre 1992 (SPSS9201562D)](decret-n92-989-du-14-septembre-1992-spss9201562d)
