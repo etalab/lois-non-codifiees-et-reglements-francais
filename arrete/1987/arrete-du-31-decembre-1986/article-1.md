@@ -1,7 +1,7 @@
 # Article 1
 
-Le montant effectif de la taxe parafiscale au profit du centre technique interprofessionnel Etablissement national technique pour l'amélioration de la viticulture (Entav) est fixé, à compter du 1er janvier 1987, à :
+Sont habilités au titre de l'article 45 de l'ordonnance susvisée :
 
-1,30 F aux 100 plants racinés ;
+- les fonctionnaires de la direction générale de la concurrence, de la consommation et de la répression des fraudes ;
 
-4 F aux 100 plants greffés-soudés.
+- pour les enquêtes et visites relatives aux obligations prévues à l'article 31 de ce texte, les fonctionnaires de la direction générale des impôts.

@@ -11,6 +11,7 @@
 - [Arrêté du 14 février 1986](arrete-du-14-fevrier-1986)
 - [Arrêté du 15 juillet 1987 (ASEP8701072A)](arrete-du-15-juillet-1987-asep8701072a)
 - [Arrêté du 17 octobre 1986](arrete-du-17-octobre-1986)
+- [Arrêté du 18 décembre 1986 (ASES8700006A)](arrete-du-18-decembre-1986-ases8700006a)
 - [Arrêté du 18 février 1987](arrete-du-18-fevrier-1987)
 - [Arrêté du 18 mars 1988 (ECOP8800068A)](arrete-du-18-mars-1988-ecop8800068a)
 - [Arrêté du 19 décembre 1986](arrete-du-19-decembre-1986)
