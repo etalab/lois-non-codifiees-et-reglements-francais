@@ -1,5 +1,5 @@
 # Article 13
 
-Dans le cas où une convention a été conclue, l'Ecole nationale du patrimoine délivre aux stagiaires, à la fin de la scolarité ou du cycle de formation, en fonction de leurs résultats, le diplôme de conservateur du patrimoine.
+Dans le cas où le Centre national de la fonction publique territoriale a confié par convention à l'Ecole nationale du patrimoine l'organisation de la formation initiale d'application, cette école délivre aux élèves conservateurs territoriaux du patrimoine un diplôme d'ancien élève.
 
-Les conservateurs stagiaires qui n'ont pas obtenu le diplôme de conservateur du patrimoine ne peuvent se prévaloir de la qualité d'anciens élèves de l'Ecole nationale du patrimoine.
+" En l'absence de convention, le président du Centre national de la fonction publique territoriale délivre un certificat d'aptitude aux élèves conservateurs. "

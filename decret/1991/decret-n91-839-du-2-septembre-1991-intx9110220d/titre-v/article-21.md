@@ -217,7 +217,97 @@ La durée maximale et la durée minimale du temps passé dans chacun des échelo
 <td> :----------------------------:</td>
 </tr>
 <tr>
-<td> :       Echelons de stage    :</td>
+<td> : Echelons de stage pour les :</td>
+</tr>
+<tr>
+<td> :  stagiaires mentionnés à   :</td>
+</tr>
+<tr>
+<td> :       à l'article 10       :</td>
+</tr>
+<tr>
+<td> :----------------------------:</td>
+</tr>
+<tr>
+<td> :       Echelon unique       :</td>
+</tr>
+<tr>
+<td> :----------------------------:</td>
+</tr>
+<tr>
+<td> :       Durée maximale       :</td>
+</tr>
+<tr>
+<td> :----------------------------:</td>
+</tr>
+<tr>
+<td> :            1 an            :</td>
+</tr>
+<tr>
+<td> :----------------------------:</td>
+</tr>
+<tr>
+<td> :       Durée minimale       :</td>
+</tr>
+<tr>
+<td> :----------------------------:</td>
+</tr>
+<tr>
+<td> :           6 mois           :</td>
+</tr>
+<tr>
+<td> :----------------------------:</td>
+</tr>
+<tr>
+<td> :----------------------------:</td>
+</tr>
+<tr>
+<td> : Echelons de stage pour les :</td>
+</tr>
+<tr>
+<td> :  stagiaires mentionnés à   :</td>
+</tr>
+<tr>
+<td> :       à l'article 11       :</td>
+</tr>
+<tr>
+<td> :----------------------------:</td>
+</tr>
+<tr>
+<td> :       Echelon unique       :</td>
+</tr>
+<tr>
+<td> :----------------------------:</td>
+</tr>
+<tr>
+<td> :       Durée maximale       :</td>
+</tr>
+<tr>
+<td> :----------------------------:</td>
+</tr>
+<tr>
+<td> :           8 mois           :</td>
+</tr>
+<tr>
+<td> :----------------------------:</td>
+</tr>
+<tr>
+<td> :       Durée minimale       :</td>
+</tr>
+<tr>
+<td> :----------------------------:</td>
+</tr>
+<tr>
+<td> :           6 mois           :</td>
+</tr>
+<tr>
+<td> :----------------------------:</td>
+</tr>
+<tr>
+<td> :----------------------------:</td>
+</tr>
+<tr>
+<td> :      Echelons d'élève      :</td>
 </tr>
 <tr>
 <td> :----------------------------:</td>
@@ -229,7 +319,7 @@ La durée maximale et la durée minimale du temps passé dans chacun des échelo
 <td> :----------------------------:</td>
 </tr>
 <tr>
-<td> : 2e  échelon      -         :</td>
+<td> : 2e  échelon   2 ans        :</td>
 </tr>
 <tr>
 <td> : 1er échelon   1 an         :</td>
@@ -244,7 +334,7 @@ La durée maximale et la durée minimale du temps passé dans chacun des échelo
 <td> :----------------------------:</td>
 </tr>
 <tr>
-<td> : 2e  échelon     -          :</td>
+<td> : 2e  échelon  6 mois        :</td>
 </tr>
 <tr>
 <td> : 1er échelon  1 an          :</td>

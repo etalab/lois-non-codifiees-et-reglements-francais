@@ -2,9 +2,13 @@
 
 La durée maximale et la durée minimale du temps passé dans chacun des échelons des grades et classes sont fixées ainsi qu'il suit :
 
----------------------------------- :                :    DUREES      :
-
 <table>
+<tr>
+<td>:---------------------------------:</td>
+</tr>
+<tr>
+<td> :                :    DUREES      :</td>
+</tr>
 <tr>
 <td> : GRADES ET      :----------------:</td>
 </tr>
@@ -116,6 +120,42 @@ La durée maximale et la durée minimale du temps passé dans chacun des échelo
 <tr>
 <td> : 1er échelon    : 2 ans  : 2 ans :</td>
 </tr>
+<tr>
+<td> :---------------------------------:</td>
+</tr>
 </table>
 
------------------------------------
+A:----------------------------------:
+
+<table>
+<tr>
+<td> :            : DUREES DE SCOLARITE :</td>
+</tr>
+<tr>
+<td> : GRADES ET  :                     :</td>
+</tr>
+<tr>
+<td> : ECHELONS   :     EFFECTIVE       :</td>
+</tr>
+<tr>
+<td> :----------------:--------:--------:</td>
+</tr>
+<tr>
+<td> :                : Max.   : Min.   :</td>
+</tr>
+<tr>
+<td> :----------------:--------:--------:</td>
+</tr>
+<tr>
+<td> :     Elève      :        :        :</td>
+</tr>
+<tr>
+<td> : 2ème échelon   : 2 ans  : 6 mois :</td>
+</tr>
+<tr>
+<td> : 1er  échelon   : 1 an   : 1 an   :</td>
+</tr>
+<tr>
+<td> :----------------------------------:</td>
+</tr>
+</table>

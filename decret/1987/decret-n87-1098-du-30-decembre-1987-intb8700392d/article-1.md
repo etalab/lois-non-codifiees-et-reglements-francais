@@ -49,3 +49,9 @@ Administrateur 1re classe
 2er échelon  471
 
 1er échelon  427
+
+Elève :
+
+2e échelon          427
+
+1er échelon         395

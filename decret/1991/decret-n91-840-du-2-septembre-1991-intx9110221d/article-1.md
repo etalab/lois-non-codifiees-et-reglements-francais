@@ -97,10 +97,31 @@ L'échelonnement indiciaire applicable au cadre d'emplois des conservateurs terr
 <td> :---------------:            :</td>
 </tr>
 <tr>
-<td> : 2e  échelon   :     459    :</td>
+<td> :    échelon    :            :</td>
 </tr>
 <tr>
-<td> : 1er échelon   :     416    :</td>
+<td> :    unique     :     459    :</td>
+</tr>
+<tr>
+<td> :----------------------------:</td>
+</tr>
+<tr>
+<td> :----------------------------:</td>
+</tr>
+<tr>
+<td> :    Echelons   :            :</td>
+</tr>
+<tr>
+<td> :    d'élèves   :            :</td>
+</tr>
+<tr>
+<td> :---------------:            :</td>
+</tr>
+<tr>
+<td> : 2eme échelon  :     459    :</td>
+</tr>
+<tr>
+<td> : 1er  échelon  :     416    :</td>
 </tr>
 <tr>
 <td> :----------------------------:</td>

@@ -1,5 +1,5 @@
 # Article 11
 
-Dans le cas où une convention a été conclue, le stagiaire obtient, à la fin de la scolarité ou du cycle de formation, en fonction de ses résultats, un diplôme délivré par l'Ecole nationale supérieure de bibliothécaires.
+Dans le cas où le Centre national de la fonction publique territoriale a confié par convention à l'Ecole nationale supérieure des sciences de l'information et des bibliothèques l'organisation de la formation initiale d'application, cette école délivre aux élèves conservateurs territoriaux de bibliothèques le diplôme de conservateur de bibliothèques.
 
-Les conservateurs stagiaires qui n'ont pas obtenu l'un des diplômes de l'Ecole nationale supérieure de bibliothécaires ne peuvent se prévaloir de la qualité d'anciens élèves de cette école.
+" En l'absence de convention, le président du Centre national de la fonction publique territoriale délivre un certificat d'aptitude aux élèves conservateurs territoriaux de bibliothèques. "
