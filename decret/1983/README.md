@@ -167,6 +167,7 @@
 - [Décret n°83-917 du 18 octobre 1983](decret-n83-917-du-18-octobre-1983)
 - [Décret n°83-992 du 18 novembre 1983](decret-n83-992-du-18-novembre-1983)
 - [Décret n°83-394 du 18 mai 1983](decret-n83-394-du-18-mai-1983)
+- [Décret n°83-1098 du 19 décembre 1983](decret-n83-1098-du-19-decembre-1983)
 - [Décret n°83-29 du 19 janvier 1983](decret-n83-29-du-19-janvier-1983)
 - [Décret n°83-671 du 19 juillet 1983](decret-n83-671-du-19-juillet-1983)
 - [Décret n°83-845 du 19 septembre 1983](decret-n83-845-du-19-septembre-1983)
