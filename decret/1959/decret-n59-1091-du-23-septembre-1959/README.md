@@ -6,5 +6,4 @@
 - [DIRECTEUR GENERAL](directeur-general)
 - [DISPOSITIONS DIVERSES](dispositions-diverses)
 - [DISPOSITIONS FINANCIERES](dispositions-financieres)
-- [PRESIDENT DU CONSEIL D'ADMINISTRATION ET DIRECTEUR GENERAL](president-du-conseil-d-administration-et)
 - [PRESIDENT DU CONSEIL D'ADMINISTRATION](president-du-conseil-d-administration)
