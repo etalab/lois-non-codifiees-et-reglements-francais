@@ -1,0 +1,5 @@
+# Article 5
+
+Les candidats peuvent concourir au titre de deux années parmi les trois années qui suivent celle pendant laquelle ils ont subi avec succès les épreuves sanctionnant la quatrième année d'études pharmaceutiques, au maximum dans trois circonscriptions chaque année. Est réputé avoir concouru tout candidat présent à l'épreuve d'admissibilité.
+
+Pour les candidats et candidates empêchés de concourir pendant la période de trois ans précitée, soit en raison de l'accomplissement du service national, soit en raison d'une maternité, pour la période définie aux articles L. 331-3, 4 et 5 du code de la sécurité sociale, soit en cas de force majeure de caractère collectif ayant empêché la participation au déroulement des épreuves, cette période est prolongée de manière à garantir aux intéressés l'intégralité de leurs possibilités de concourir. Toutefois, aucun candidat ne peut être autorisé à se présenter plus de deux fois au concours d'une même circonscription ni à plus de six concours au total.

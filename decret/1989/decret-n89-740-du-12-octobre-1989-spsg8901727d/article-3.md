@@ -1,0 +1,3 @@
+# Article 3
+
+Les recettes correspondantes sont rattachées par voie de fonds de concours au budget des services communs du ministère du travail, de l'emploi et de la formation professionnelle et du ministère de la solidarité, de la santé et de la protection sociale et au budget du ministère du travail, de l'emploi et de la formation professionnelle dans les conditions fixées par arrêté conjoint du ministre du travail, de l'emploi et de la formation professionnelle, du ministre de la solidarité, de la santé et de la protection sociale et du ministre délégué auprès du ministre d'Etat, ministre de l'économie, des finances et du budget, chargé du budget.
