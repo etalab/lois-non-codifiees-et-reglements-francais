@@ -4,9 +4,9 @@ La cotisation due par les assurés sociaux maintenus à l'assurance volontaire g
 
 Le taux de cette cotisation est fixé à :
 
-35,95 p. 100 pour l'ensemble des risques, soit :
+34,65 p. 100 pour l'ensemble des risques, soit :
 
-19,15 p. 100 pour le risque maladie, les charges de la maternité et le risque décès ;
+17,85 p. 100 pour le risque maladie, les charges de la maternité et le risque décès ;
 
 0,90 p. 100 pour le risque invalidité ;
 
