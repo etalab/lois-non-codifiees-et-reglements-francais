@@ -14,4 +14,5 @@
 - [Loi n° 94-322 du 25 avril 1994 (MAEX9300145L)](loi-n-94-322-du-25-avril-1994-maex9300145l)
 - [Loi n° 94-323 du 25 avril 1994 (MAEX9300105L)](loi-n-94-323-du-25-avril-1994-maex9300105l)
 - [Loi n° 94-324 du 25 avril 1994 (MAEX9300147L)](loi-n-94-324-du-25-avril-1994-maex9300147l)
+- [Loi n° 94-337 du 29 avril 1994 (JUSX9300110L)](loi-n-94-337-du-29-avril-1994-jusx9300110l)
 - [Loi n° 94-89 du 1 février 1994 (JUSX9300152L)](loi-n-94-89-du-1-fevrier-1994-jusx9300152l)

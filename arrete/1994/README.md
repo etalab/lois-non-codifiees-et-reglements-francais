@@ -396,6 +396,7 @@
 - [Arrêté du 25 mars 1994 (EQUH9400592A)](arrete-du-25-mars-1994-equh9400592a)
 - [Arrêté du 25 octobre 1993 (EQUA9301949A)](arrete-du-25-octobre-1993-equa9301949a)
 - [Arrêté du 26 avril 1994 (ECOT9410209A)](arrete-du-26-avril-1994-ecot9410209a)
+- [Arrêté du 26 avril 1994 (INDA9400520A)](arrete-du-26-avril-1994-inda9400520a)
 - [Arrêté du 26 janvier 1994 (AGRS9302027A)](arrete-du-26-janvier-1994-agrs9302027a)
 - [Arrêté du 26 janvier 1994 (ECOT9410204A)](arrete-du-26-janvier-1994-ecot9410204a)
 - [Arrêté du 26 janvier 1994 (EQUH9400052A)](arrete-du-26-janvier-1994-equh9400052a)
