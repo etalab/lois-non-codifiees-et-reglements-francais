@@ -1,6 +1,6 @@
 # Article 5
 
-L'agent appelé à se déplacer pour les besoins du service hors de sa résidence administrative et hors de sa résidence familiale peut prétendre à la prise en charge de ses frais de transport dans les conditions prévues au titre IV du présent décret et, sur justification de la durée réelle du déplacement, au paiement d'indemnités journalières destinées à rembourser forfaitairement ses frais supplémentaires de nourriture et de logement.
+L'agent appelé à se déplacer pour les besoins du service hors de sa résidence administrative et hors de sa résidence familiale peut prétendre à la prise en charge de ses frais de transport dans les conditions prévues au titre IV du présent décret et, sur justification de la durée réelle du déplacement et de l'effectivité de la dépense, au paiement d'indemnités journalières destinées à rembourser forfaitairement ses frais supplémentaires de nourriture et de logement.
 
 Les agents assurant un intérim sont indemnisés de leurs frais de déplacement dans les conditions prévues à l'article 12 du présent décret.
 
