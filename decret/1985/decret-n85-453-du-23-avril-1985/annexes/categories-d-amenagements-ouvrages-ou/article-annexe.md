@@ -220,6 +220,10 @@ b) Tous autres travaux, ouvrages, aménagements visés au III de l'article L. 14
 
 Travaux d'un montant total supérieur à 160 000 euros.
 
+c) Les aires de stationnement mentionnées au b de l'article R. 146-2 du code de l'urbanisme.
+
+Tous travaux
+
 36° Les laboratoires souterrains destinés à étudier l'aptitude des formations géologiques profondes au stockage des déchets radioactifs.
 
 Tous travaux.
@@ -241,5 +245,3 @@ Premiers boisements d'un seul tenant portant sur une superficie d'au moins 25 he
 40° Projets d'affectation de terres incultes ou d'étendues semi-naturelles à l'exploitation agricole intensive.
 
 Projets portant sur une superficie d'au moins 50 hectares.
-
-1985.
