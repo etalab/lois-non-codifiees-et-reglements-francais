@@ -2,6 +2,7 @@
 
 - [Entrée en vigueur - Textes abrogés](entree-en-vigueur)
 - [Article 1](article-1.md)
+- [Commande des convoyeurs](commande-des-convoyeurs)
 - [Entretien du matériel](entretien-du-materiel)
 - [Formation du personnel](formation-du-personnel)
 - [Installations des convoyeurs](installations-des-convoyeurs)
