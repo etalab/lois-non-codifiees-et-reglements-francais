@@ -521,7 +521,6 @@
 - [Arrêté du 24 avril 1987 (ECOT8733026A)](arrete-du-24-avril-1987-ecot8733026a)
 - [Arrêté du 24 avril 1987 (ECOT8733027A)](arrete-du-24-avril-1987-ecot8733027a)
 - [Arrêté du 24 décembre 1986](arrete-du-24-decembre-1986)
-- [Arrêté du 24 décembre 1987 (AGRG8702226A)](arrete-du-24-decembre-1987-agrg8702226a)
 - [Arrêté du 24 décembre 1987 (ASES8701894A)](arrete-du-24-decembre-1987-ases8701894a)
 - [Arrêté du 24 décembre 1987 (ENVP8700276A)](arrete-du-24-decembre-1987-envp8700276a)
 - [Arrêté du 24 décembre 1987 (ENVP8700277A)](arrete-du-24-decembre-1987-envp8700277a)
