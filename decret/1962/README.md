@@ -2,7 +2,6 @@
 
 - [Décret n°62-235 du 1 mars 1962](decret-n62-235-du-1-mars-1962)
 - [Décret du 2 août 1877](decret-du-2-aout-1877)
-- [Décret n°62-132 du 2 février 1962](decret-n62-132-du-2-fevrier-1962)
 - [Décret n°62-1198 du 3 octobre 1962](decret-n62-1198-du-3-octobre-1962)
 - [Décret n°62-382 du 3 avril 1962](decret-n62-382-du-3-avril-1962)
 - [Décret n°62-915 du 3 août 1962](decret-n62-915-du-3-aout-1962)
@@ -35,7 +34,6 @@
 - [Décret n°62-479 du 14 avril 1962](decret-n62-479-du-14-avril-1962)
 - [Décret n°62-1218 du 15 octobre 1962](decret-n62-1218-du-15-octobre-1962)
 - [Décret n°65-1147 du 15 décembre 1965](decret-n65-1147-du-15-decembre-1965)
-- [Décret n°62-569 du 15 mai 1962](decret-n62-569-du-15-mai-1962)
 - [Décret n°62-813 du 16 juillet 1962](decret-n62-813-du-16-juillet-1962)
 - [Décret n°63-957 du 17 septembre 1963](decret-n63-957-du-17-septembre-1963)
 - [Décret n°62-808 du 18 juillet 1962](decret-n62-808-du-18-juillet-1962)
