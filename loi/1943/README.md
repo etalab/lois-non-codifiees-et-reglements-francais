@@ -9,3 +9,4 @@
 - [Loi n° 43-468 du 20 août 1943](loi-n-43-468-du-20-aout-1943)
 - [Loi n°1943-08-10 du 10 août 1943](loi-n1943-08-10-du-10-aout-1943)
 - [Loi n°43-341 du 21 juin 1943](loi-n43-341-du-21-juin-1943)
+- [Loi n° 571 du 28 octobre 1943](loi-n-571-du-28-octobre-1943)
