@@ -1,0 +1,9 @@
+# Article 2
+
+Pour les invalides du premier groupe mentionnés à l'article L. 310 du code de la sécurité sociale, la pension [*d'invalidité*] est égale à 30 p. 100 du salaire annuel moyen [*montant*] correspondant aux cotisations versées au cours des dix années civiles d'assurance dont la prise en considération est la plus avantageuse pour l'assuré ; ces années doivent être comprises entre le 31 décembre 1947 et la date soit de l'interruption de travail suivie d'invalidité, soit de la constatation médicale de l'invalidité résultant de l'usure prématurée de l'organisme [*modalités de calcul*].
+
+Toutefois, lorsque l'assuré ne compte pas dix années d'assurance, la pension est égale à 30 p. 100 du salaire annuel moyen correspondant aux cotisations versées au cours des années d' assurance accomplies depuis l'immatriculation [*nombre d'annuités*].
+
+En vue du calcul du salaire annuel moyen, il est tenu compte, pour les périodes d'assurance comprises entre le 30 septembre 1967 et le 1er janvier 1980, des salaires qui ont donné lieu à précompte de la fraction de cotisation d'assurances sociales à la charge du salarié afférente aux risques maladie, maternité, invalidité et décès et calculée dans la limite d'un plafond.
+
+A compter du 1er janvier 1980, les salaires pris en considération pour le calcul du salaire annuel moyen sont ceux qui ont donné lieu, lors de chaque paie, au versement de la fraction de cotisation d'assurances sociales afférente aux risques maladie, maternité, invalidité et décès, dans la limite du plafond mentionné à l'article 41 de l'ordonnance n° 67-706 du 21 août 1967. Toutefois, lorsque l'assiette des cotisations fait l'objet d'un abattement par application des dispositions du décret n° 81-540 du 12 mai 1981, il est tenu compte du salaire brut perçu par l'assuré, sans abattement, dans la limite du plafond correspondant.
