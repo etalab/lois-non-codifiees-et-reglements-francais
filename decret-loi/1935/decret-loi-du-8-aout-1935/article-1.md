@@ -1,5 +1,3 @@
 # Article 1
 
-La décision judiciaire définitive obtenue par l'un des porteurs d'obligations émises en France par toute collectivité privée ou publique, ou par toute société commerciale ou civile, française ou étrangère, et concernant les droits communs des obligataires, peut acquérir force exécutoire au profit de tout obligataire qui n'a pas figuré dans l'instance par une ordonnance du président du tribunal de grande instance dans la circonscription duquel l'affaire a été portée en première instance.
-
-Cette ordonnance n'est susceptible d'aucun recours.
+En raison de l'intérêt public qui s'attache à la conservation et à l'utilisation rationnelle des ressources en eaux souterraines, aucun puits ou sondage de plus de 80 mètres de profondeur ne pourra être entrepris, dans les départements de la Seine, de Seine-et-Oise et de Seine-et-Marne, sans autorisation préalable [*(Les dispositions qui précèdent ont été étendues aux départements du Nord, du Pas-de-Calais et de la Gironde par le décret du 3 octobre 1958 (J.O. du 10 octobre 1958) et par le décret du 21 avril 1959 (J.O. du 26 avril 1959).*]
