@@ -1,10 +1,10 @@
 # Article 2
 
-Pour l'application des dispositions de l'article 54 (1°) de la loi susvisée du 31 décembre 1971, sont considérées comme équivalents à la licence ou au doctorat en droit pour l'exercice des activités de conseil juridique les titres et diplômes suivants :
+Pour l'application des dispositions de l'article 54 (1°) de la loi susvisée du 31 décembre 1971, sont considérées comme équivalents à la maîtrise ou un doctorat en droit pour l'exercice des activités de conseil juridique les titres et diplômes suivants :
 
 Doctorat de troisième cycle juridique ou fiscal ;
 
-Licence ès sciences économiques ou tout diplôme national sanctionnant un second cycle d'études juridiques, économiques ou de gestion ;
+Maîtrise ès sciences économiques ou tout diplôme national sanctionnant un second cycle d'études juridiques, économiques ou de gestion ;
 
 Diplôme d'expertise comptable ;
 
