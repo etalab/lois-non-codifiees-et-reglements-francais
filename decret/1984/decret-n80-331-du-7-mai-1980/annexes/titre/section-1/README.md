@@ -1,4 +1,4 @@
-# Section 1 : Dispositions communes à tous les travaux souterrains
+# Section 1 : Dispositions communes à tous les travaux et installations
 
 - [Chapitre Ier : Dispositions générales](chapitre-ier)
 - [Chapitre II : Personnel](chapitre-ii)

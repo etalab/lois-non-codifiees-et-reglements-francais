@@ -1,15 +1,25 @@
 # Article 2
 
-Domaine d'application : 1. L'utilisation des moteurs dans les travaux souterrains est soumise aux dispositions de la section 1.
+Domaine d'application : 1. Sauf mention expresse :
 
-L'utilisation des moteurs dans les travaux souterrains à risque de grisou est en outre soumise aux dispositions de la section 2.
+La section 1 du présent titre s'applique à tous les travaux et installations. Les dispositions de l'article 41 ne sont toutefois pas applicables aux travaux et installations entrant dans le domaine d'application des sections 3 et 4.
 
-2. L'emploi des moteurs fonctionnant avec un gaz combustible est interdit.
+La section 2 s'applique à tous les travaux souterrains.
 
-L'emploi des moteurs fonctionnant avec un combustible liquide de point d'éclair inférieur à 55 °C :
+La section 3 s'applique aux travaux souterrains classés grisouteux.
 
-- est interdit dans les mines de charbon ainsi que dans les autres travaux dans lesquels la température sèche de l'atmosphère est supérieure à 20 °C ;
+La section 4 s'applique aux installations de surface et dépendances légales des travaux :
 
-- n'est autorisé dans les autres travaux que pour des appareils portables dont la capacité du réservoir est au plus égale à cinq litres.
+- d'exploitation d'hydrocarbures liquides ou gazeux ;
 
-3. Les entreprises extérieures qui n'effectuent pas de travaux d'exploitation proprement dits et dont les interventions sont occasionnelles et de courte durée ne sont pas soumises aux dispositions des articles 3 à 14 du présent titre. Les moteurs thermiques qu'elles utilisent ne peuvent l'être que dans le cadre d'instructions de l'exploitant visant à assurer une prévention efficace.
+- de forage traversant un niveau géologique susceptible de dégager des hydrocarbures liquides ou gazeux.
+
+2. Les dispositions du présent titre ne s'appliquent pas aux :
+
+- circuits électriques de tir ;
+
+- engins électriques de mise à feu ;
+
+- vérificateurs de circuits électriques de tir.
+
+Dans les travaux souterrains classés grisouteux, les engins électriques de mise à feu et les vérificateurs de circuits électriques de tir sont toutefois soumis aux dispositions de l'article 67.
