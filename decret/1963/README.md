@@ -14,6 +14,7 @@
 - [Décret n°63-667 du 10 juillet 1963](decret-n63-667-du-10-juillet-1963)
 - [Décret n°63-695 du 10 juillet 1963](decret-n63-695-du-10-juillet-1963)
 - [Décret n°63-575 du 11 juin 1963](decret-n63-575-du-11-juin-1963)
+- [Décret n°63-837 du 12 août 1963](decret-n63-837-du-12-aout-1963)
 - [Décret n°63-684 du 13 juillet 1963](decret-n63-684-du-13-juillet-1963)
 - [Décret n°63-698 du 13 juillet 1963](decret-n63-698-du-13-juillet-1963)
 - [Décret n°63-721 du 13 juillet 1963](decret-n63-721-du-13-juillet-1963)
