@@ -1,5 +1,6 @@
 # Loi n° 49-874 du 5 juillet 1949 relative à diverses dispositions d'ordre économique et financier
 
+- [Article 6](article-6.md)
 - [Article 12](article-12.md)
 - [Article 15](article-15.md)
 - [Article 17](article-17.md)
