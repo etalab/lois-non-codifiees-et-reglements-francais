@@ -6,7 +6,9 @@ La réglementation technique et de sécurité des remontées mécaniques est con
 
 2. Pour les téléphériques, par l'instruction du 17 mai 1989 concernant la construction et l'exploitation des téléphériques à voyageurs modifié par les arr^tés des 21 février 1992, 3 juillet 1992, 26 mai 1994, 5 juillet 1996, 15 juin 1999 et 1er octobre 1999 ;
 
-3. Pour la transformation, la modification ou la reconstruction à l'identique des téléphériques à voyageurs construits avant l'entrée en vigueur de l'instruction du 17 mai 1989, ainsi que pour le remplacement de leurs composants, par l'instruction du 26 mai 1994 (2).
+3. Pour la transformation, la modification ou la reconstruction à l'identique des téléphériques à voyageurs construits avant l'entrée en vigueur de l'instruction du 17 mai 1989, ainsi que pour le remplacement de leurs composants, par l'instruction du 26 mai 1994 (2) ;
+
+4. Pour les mesures à mettre en oeuvre lors de la conception et de la construction des téléphériques monocâbles en vue d'assurer la sécurité du personnel d'exploitation, par l'instruction du 4 août 2000.
 
 Nota :
 
