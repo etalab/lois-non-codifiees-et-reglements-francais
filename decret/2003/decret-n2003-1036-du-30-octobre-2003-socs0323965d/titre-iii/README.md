@@ -1,0 +1,3 @@
+# TITRE III : DISPOSITIONS COMMUNES  - ENTRÉE EN VIGUEUR.
+
+- [Article 7](article-7.md)
