@@ -446,6 +446,8 @@
 - [Arrêté du 27 décembre 1987 (ECOT8720053A)](arrete-du-27-decembre-1987-ecot8720053a)
 - [Arrêté du 27 janvier 1988 (ECOT8820042A)](arrete-du-27-janvier-1988-ecot8820042a)
 - [Arrêté du 27 janvier 1988 (INTD8800038A)](arrete-du-27-janvier-1988-intd8800038a)
+- [Arrêté du 27 juillet 1988 (ECOM8800241A)](arrete-du-27-juillet-1988-ecom8800241a)
+- [Arrêté du 27 juillet 1988 (ECOM8800242A)](arrete-du-27-juillet-1988-ecom8800242a)
 - [Arrêté du 27 juillet 1988 (SPSS8801070A)](arrete-du-27-juillet-1988-spss8801070a)
 - [Arrêté du 27 mai 1988 (JUSC8820357A)](arrete-du-27-mai-1988-jusc8820357a)
 - [Arrêté du 28 avril 1988 (ASES8800693A)](arrete-du-28-avril-1988-ases8800693a)
