@@ -26,4 +26,4 @@ Les représentants titulaires sont désignés selon l'ordre de présentation de 
 
 d) Dispositions spéciales :
 
-Dans le cas où deux listes ont la même moyenne, et où il ne reste qu'un siège à pourvoir, ce siège est attribué à la liste qui a recueilli le plus grand nombre de voix. Si les deux listes en cause ont recueilli le même nombre de voix, le siège est attribué au plus âgé des candidats en présence.
+Dans le cas où, pour l'attribution d'un siège, des listes ont la même moyenne, le siège est attribué à la liste qui a recueilli le plus grand nombre de voix. Si les listes en cause ont recueilli le même nombre de voix, le siège est attribué à celle qui a présenté, en application du premier alinéa de l'article 15 du présent décret, le plus grand nombre de candidats à élire au titre de la commission administrative paritaire. Si plusieurs de ces listes ont obtenu le même nombre de voix et ont présenté le même nombre de candidats, le siège est attribué à l'une d'entre elles par voie de tirage au sort.
