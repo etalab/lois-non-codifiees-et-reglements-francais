@@ -1,0 +1,3 @@
+# Article 10
+
+L'emploi d'inspecteur principal de l'enseignement agricole comporte sept échelons et un échelon fonctionnel. L'ancienneté exigée dans chaque échelon pour le passage à l'échelon immédiatement supérieur est de trois ans six mois. Peuvent accéder à l'échelon fonctionnel les inspecteurs principaux qui exercent des fonctions de coordination d'un groupe d'inspecteurs et justifient de trois ans et demi d'ancienneté au 7e échelon. La liste des emplois correspondant à l'échelon fonctionnel est fixée par un arrêté conjoint du ministre de l'agriculture, du ministre chargé du budget et du ministre chargé de la fonction publique ; ces emplois peuvent être retirés dans l'intérêt du service.

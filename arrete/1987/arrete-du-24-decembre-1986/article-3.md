@@ -1,3 +1,3 @@
 # Article 3
 
-Le directeur de la sécurité sociale est chargé de l'exécution du présent arrêté, qui prendra effet du premier jour du trimestre civil suivant sa publication au Journal officiel de la République française et s'appliquera aux rémunérations versées à compter de la date d'effet ainsi déterminée.
+La dérogation prévue à l'article 1er du décret du 27 octobre 1967 est rendue applicable, du 1er octobre 1986 au 30 septembre 1987 [*date d'entrée en vigueur*], aux anciens ouvriers, employés, techniciens, agents de maîtrise et cadres de la Société ardoisière de l'Anjou qui justifient d'au moins trente ans de services miniers.
