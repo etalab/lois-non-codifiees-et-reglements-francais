@@ -1,0 +1,3 @@
+# Article 3
+
+Le service de la pension de vieillesse attribuée par anticipation au profit des assurés visés à l'article 1er ci-dessus est assuré à compter du premier jour du mois qui suit la cessation définitive de l'activité professionnelle exercée par l'assuré dans l'entreprise où il travaillait antérieurement à la date de l'entrée en jouissance de sa pension, sous réserve de la production d'une attestation du dernier employeur qui occupait l'assuré antérieurement à la date d'entrée en jouissance de la pension, mentionnant la date de cessation définitive de l'activité professionnelle de celui-ci dans son entreprise.
