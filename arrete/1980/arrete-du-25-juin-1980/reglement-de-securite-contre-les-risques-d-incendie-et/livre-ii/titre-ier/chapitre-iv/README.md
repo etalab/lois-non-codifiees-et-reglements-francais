@@ -8,3 +8,5 @@
 - [Article DF 6](article-df-6.md)
 - [Article DF 7](article-df-7.md)
 - [Article DF 8](article-df-8.md)
+- [Article DF 9](article-df-9.md)
+- [Article DF 10](article-df-10.md)

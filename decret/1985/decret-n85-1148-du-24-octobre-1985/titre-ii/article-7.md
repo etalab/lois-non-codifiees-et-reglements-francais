@@ -1,3 +1,3 @@
 # Article 7
 
-Pour l'application des dispositions législatives et réglementaires se référant au traitement de l'indice 100 prévu par le décret du 10 juillet 1948 susvisé, ce traitement est constitué par le traitement afférent à l'indice majoré 172 (indice brut 100).
+Pour l'application des dispositions législatives et réglementaires se référant au traitement de l'indice 100 prévu par le décret du 10 juillet 1948 susvisé, ce traitement est constitué par le traitement afférent à l'indice majoré 174 (indice brut 100).

@@ -1,9 +1,9 @@
 # Article 1
 
-L'indication de la quantité nette est exprimée en unité de volume pour les produits liquides et en unité de masse pour les autres denrées.
+Les ingrédients sont désignés sous leur nom spécifique, le cas échéant conformément aux dispositions prévues par l'article R. 112-14 du code de la consommation susvisé.
 
-Toutefois des arrêtés interministériels peuvent en disposer autrement. Ils peuvent également prévoir l'expression de la quantité en nombre d'unités.
+Toutefois les ingrédients dont la liste des catégories est fixée en annexe I doivent être désignés sous le nom de leur catégorie, suivi soit de leur nom spécifique, soit de leur identification conventionnelle prescrite par la numérotation de la Communauté économique européenne.
 
-Pour les escargots préparés en coquille et les huîtres, la quantité peut s'exprimer également en nombre d'unités avec l'indication du calibre.
+Les ingrédients dont la liste des catégories est fixée en annexe II peuvent être désignés sous le nom de leur catégorie au lieu de leur nom spécifique.
 
-En ce qui concerne les moules en coquille la quantité peut également être indiquée en unité de volume.
+Les arômes sont désignés conformément à l'annexe III.

@@ -24,12 +24,12 @@ Chargé de mission auprès du directeur de projet chargé de préparer la mise e
 
 Chef du bureau du cabinet du garde des sceaux, ministre de la justice ;
 
-Chef de projet maîtrise d'ouvrage sur le système d'information en ressources humaines du ministère de la justice ;
-
 Chef du bureau de la logistique à la direction de l'administration générale et de l'équipement ;
 
 Chef du bureau des personnels à la direction de l'administration générale et de l'équipement ;
 
 Chargé de mission auprès du directeur de la protection judiciaire de la jeunesse ;
 
-Chef du bureau du budget, de la comptabilité et des finances à la direction de l'administration pénitentiaire.
+Chef du bureau du budget, de la comptabilité et des finances à la direction de l'administration pénitentiaire ;
+
+Chef du bureau de la gestion prévisionnelle des emplois, des effectifs et des compétences à la direction de l'administration pénitentiaire.
