@@ -2,7 +2,9 @@
 
 I. - Les titres de créances négociables sont des titres émis au gré de l'émetteur, négociables sur un marché réglementé, qui représentent chacun un droit de créance pour une durée déterminée.
 
-II. - Les titres de créances négociables sont stipulés au porteur.    Ils sont inscrits en comptes tenus par un intermédiaire habilité.
+II. - Les titres de créances négociables sont stipulés au porteur.
+
+Ils sont inscrits en comptes tenus par un intermédiaire habilité.
 
 La constitution en gage de titres de créances négociables inscrits en compte est réalisée, tant à l'égard de la personne morale émettrice qu'à l'égard des tiers, par une déclaration datée et signée par le titulaire ; cette déclaration contient le montant de la somme due ainsi que le montant et la nature des titres inscrits en gage. Les titres nantis sont virés à un compte spécial ouvert au nom du titulaire et tenu par l'intermédiaire habilité. Une attestation de constitution de gage est délivrée au créancier gagiste.
 
@@ -18,6 +20,8 @@ III. - Sont habilités à émettre des titres de créances négociables :
 
 4° Les institutions de la Communauté européenne et les organisations internationales dont la France est membre.
 
+5° La Caisse d'amortissement de la dette sociale instituée par l'article 1er de l'ordonnance n° 96-50 du 24 janvier 1996.
+
 Un décret précise les conditions que doivent remplir les émetteurs visés aux 2°, 3° et 4° et fixe les conditions d'émission des titres de créances négociables.
 
 IV. - Les émetteurs de titres de créances négociables sont tenus de remplir des obligations d'information relatives à leur situation économique et financière et à leur programme d'émission.
@@ -30,6 +34,6 @@ VI. - (paragraphe modificateur).
 
 VII. - Les articles 32, 33, 35 et 36 de la loi n° 85-1321 du 14 décembre 1985 modifiant diverses dispositions du droit des valeurs mobilières, des titres de créances négociables, des sociétés et des opérations de Bourse sont abrogés.
 
-VIII. - Les dispositions du deuxième alinéa du II entreront en vigueur dix-huit mois (27 janvier 1993) après la publication de la présente loi.
+VIII. - Les dispositions du deuxième alinéa du II entreront en vigueur dix-huit mois après la publication de la présente loi.
 
 Jusqu'à l'entrée en vigueur des dispositions visées à l'alinéa précédent, les titres de créances négociables font l'objet soit d'une inscription en comptes tenus par un intermédiaire habilité, soit d'une représentation physique.
