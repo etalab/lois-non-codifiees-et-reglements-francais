@@ -407,6 +407,7 @@
 - [Décret n°96-578 du 28 juin 1996 (TASF9610827D)](decret-n96-578-du-28-juin-1996-tasf9610827d)
 - [Décret n°96-579 du 28 juin 1996 (TASH9621637D)](decret-n96-579-du-28-juin-1996-tash9621637d)
 - [Décret n°96-582 du 28 juin 1996 (ECOT9613876D)](decret-n96-582-du-28-juin-1996-ecot9613876d)
+- [Décret n°96-584 du 28 juin 1996 (TASE9610159D)](decret-n96-584-du-28-juin-1996-tase9610159d)
 - [Décret n°96-941 du 28 octobre 1996 (INTC9600270D)](decret-n96-941-du-28-octobre-1996-intc9600270d)
 - [Décret n°98-670 du 28 juillet 1998 (PRMX9803059D)](decret-n98-670-du-28-juillet-1998-prmx9803059d)
 - [Décret n°96-454 du 28 mai 1996 (AVIC9601592D)](decret-n96-454-du-28-mai-1996-avic9601592d)
