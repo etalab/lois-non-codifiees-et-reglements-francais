@@ -20,6 +20,7 @@
 - [Décret n°69-50 du 10 janvier 1969](decret-n69-50-du-10-janvier-1969)
 - [Décret n°69-51 du 10 janvier 1969](decret-n69-51-du-10-janvier-1969)
 - [Décret n°69-52 du 10 janvier 1969](decret-n69-52-du-10-janvier-1969)
+- [Décret n°69-948 du 10 octobre 1969](decret-n69-948-du-10-octobre-1969)
 - [Décret n°69-344 du 11 avril 1969](decret-n69-344-du-11-avril-1969)
 - [Décret n°69-366 du 11 avril 1969](decret-n69-366-du-11-avril-1969)
 - [Décret n°69-564 du 12 juin 1969](decret-n69-564-du-12-juin-1969)
