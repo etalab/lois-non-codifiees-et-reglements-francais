@@ -1,3 +1,3 @@
 # Article 6
 
-La commission se réunit à l'initiative de son président et au moins une fois par an. Elle se réunit également sur demande du ministre chargé de la sécurité sociale ou du ministre chargé du budget ou du ministre chargé de l'agriculture.
+Les producteurs et importateurs des engrais visés par la présente norme doivent, tous les six mois et lors de toute modification dans l'origine ou la nature de leurs matières premières, faire procéder à l'analyse des teneurs en cadmium (Cd), en mercure (Hg), en plomb (Pb), en chrome (Cr), en cuivre (Cu), en nickel (Ni), en sélénium (Se), en zinc (Zn), en arsenic (As), en molybdène (Mo) et, s'il y a lieu, à une évaluation régulière des risques qui peuvent résulter de la présence éventuelle de germes pathogènes pour l'homme et les animaux, de substances phytotoxiques pour les cultures. Les résultats sont tenus à la disposition des services compétents.

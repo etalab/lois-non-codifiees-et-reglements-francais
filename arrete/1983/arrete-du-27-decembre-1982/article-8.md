@@ -1,3 +1,3 @@
 # Article 8
 
-Les décisions doivent, pour être considérées comme adoptées, être prises à la majorité des voix. Elles font l'objet d'un procès-verbal qui est transmis aux ministres chargés de la sécurité sociale, du budget et de l'agriculture.
+Au cas où des mesures d'harmonisation relatives à la présente norme seraient prises, conformément à l'article 100 du Traité de Rome, les dispositions correspondantes du présent arrêté seraient, à l'initiative du ministre principalement compétent, réexaminées en conséquence.

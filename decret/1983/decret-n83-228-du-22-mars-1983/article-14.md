@@ -1,0 +1,3 @@
+# Article 14
+
+En cas de décès du concessionnaire, le bénéfice de l'autorisation jusqu'à la fin de la concession peut être transféré au conjoint survivant auquel une période probatoire de trois ans peut être accordée pour prouver sa capacité professionnelle ; ce bénéfice peut être transféré aux héritiers en ligne directe ainsi qu'aux conjoints des uns et des autres qui remplissent les conditions prévues aux deuxième et troisième alinéas de l'article 5. Le conjoint survivant et les héritiers disposent d'un délai de six mois à compter du décès pour s'entendre entre eux sur le choix du bénéficiaire et demander le transfert de la concession à son nom.

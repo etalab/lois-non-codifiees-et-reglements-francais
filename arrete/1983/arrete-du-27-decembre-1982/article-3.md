@@ -1,3 +1,3 @@
 # Article 3
 
-Le ministre chargé de la sécurité sociale, le ministre chargé du budget et le ministre chargé de l'agriculture sont représentés à la commission par des commissaires du Gouvernement.
+Les indications facultatives prévues par le décret du 16 juin 1980 précité, et notamment au a de l'article 4, sont précisées et complétées par la colonne Teneur à déclarer et autres éléments de marquage, facultativement, du chapitre IV de la présente norme.

@@ -1,3 +1,3 @@
 # Article 4
 
-Le secrétariat de la commission est assuré par la caisse nationale de l'assurance maladie des travailleurs salariés.
+Conformément au décret susvisé, la mention de la forme physique sous laquelle se présente l'engrais est autorisée.

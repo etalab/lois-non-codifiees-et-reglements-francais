@@ -1,4 +1,4 @@
-# Arrêté du 27 décembre 1982 RELATIF A LA COMMISSION NATIONALE DE REPARTITION PREVUE A L'ARTICLE 3 DU DECRET N° 82-639 DU 22 JUILLET 1982.
+# Arrêté du 27 décembre 1982 relatif à la mise en application obligatoire de normes
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
