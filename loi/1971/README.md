@@ -12,6 +12,7 @@
 - [Loi n° 70-459 du 4 juin 1970](loi-n-70-459-du-4-juin-1970)
 - [Loi n° 71-385 du 22 mai 1971](loi-n-71-385-du-22-mai-1971)
 - [Loi n° 71-458 du 17 juin 1971](loi-n-71-458-du-17-juin-1971)
+- [Loi n° 71-498 du 29 juin 1971](loi-n-71-498-du-29-juin-1971)
 - [Loi n°70-1301 du 31 décembre 1970](loi-n70-1301-du-31-decembre-1970)
 - [Loi n°70-1318 du 31 décembre 1970](loi-n70-1318-du-31-decembre-1970)
 - [Loi n°70-1324 du 31 décembre 1970](loi-n70-1324-du-31-decembre-1970)
