@@ -4,4 +4,4 @@ La charge annuelle de la collectivité intéressée est évaluée à la valeur d
 
 Pour tenir compte des variations du loyer de l'argent, ces taux d'intérêt peuvent être revisés par le conseil du fonds d'amortissement prévu à l'article 11 ci-après. Celle revision s'applique aux participations déjà allouées par le fonds dans le cas où elles font apparaître un taux d'intérêt inférieur à celui ayant servi de base aux calculs desdites participations d'au moins un demi-point pour les sommes provenant d'emprunts effectués auprès des caisses publiques et d'au moins un point pour les sommes ayant une autre origine. Dans le cas contraire, il n'est pas fait de revision.
 
-Lorsque la durée d'un emprunt est supérieure à trente années, cette durée réelle est retenue pour le calcul de l'annuité.
+Lorsque la durée d'un emprunt est inférieure à trente années, la durée réelle de l'emprunt est retenue pour le calcul de l'annuité, sans toutefois que ce calcul puisse être établi sur une base inférieure à quinze ans.
