@@ -71,6 +71,7 @@
 - [Arrêté du 24 décembre 2004 (AGRA0402573A)](arrete-du-24-decembre-2004-agra0402573a)
 - [Arrêté du 24 janvier 2005 (AGRG0500231A)](arrete-du-24-janvier-2005-agrg0500231a)
 - [Arrêté du 24 janvier 2005 (FPPA0400150A)](arrete-du-24-janvier-2005-fppa0400150a)
+- [Arrêté du 25 février 2005 (INDI0404097A)](arrete-du-25-fevrier-2005-indi0404097a)
 - [Arrêté du 26 janvier 2005 (ECOP0400446A)](arrete-du-26-janvier-2005-ecop0400446a)
 - [Arrêté du 26 janvier 2005 (ECOP0400447A)](arrete-du-26-janvier-2005-ecop0400447a)
 - [Arrêté du 26 janvier 2005 (ECOP0400449A)](arrete-du-26-janvier-2005-ecop0400449a)
