@@ -1,0 +1,3 @@
+# Article 10
+
+Le directeur de l'administration générale et de la modernisation des services au ministère de l'emploi, du travail et de la cohésion sociale, l'inspecteur général du travail et de la main-d'oeuvre des transports au ministère de l'équipement, des transports, de l'aménagement du territoire, du tourisme et de la mer et le directeur général de la forêt et des affaires rurales au ministère de l'agriculture, de l'alimentation, de la pêche et de la ruralité sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
