@@ -1,7 +1,5 @@
 # Article 5
 
-Sur tout bateau à passagers dont l'effectif admis est supérieur à cinquante personnes doit se trouver, en sus du conducteur, une personne chargée de veiller à la sécurité des passagers qui s'y trouvent. Cette personne, qui peut être un membre de l'équipage, est désignée ci-après par le terme " agent de sécurité ".
+Sur tout bateau transportant des passagers, le conducteur ou un membre d'équipage doit être titulaire de l'attestation spéciale "passagers" prévue à l'article 11-6. Lorsque plus de cinquante personnes sont admises sur le bateau, la présence à bord d'une seconde personne titulaire de l'attestation spéciale "passagers" est obligatoire.
 
-Le président de la commission de surveillance territorialement compétente, instituée en application du décret du 17 avril 1934 susvisé, peut également exiger la présence d'un agent de sécurité à bord de tout bateau en stationnement ou de tout bateau stationnaire recevant du public et dont l'effectif admis est supérieur à douze personnes.
-
-L'agent de sécurité doit avoir l'aptitude nécessaire. Cette aptitude est réputée acquise lorsque la personne concernée a subi avec succès les épreuves prévues par un arrêté du ministre chargé des transports ; elle est constatée par un certificat spécial.
+Le président de la commission de surveillance territorialement compétente instituée par le décret du 17 avril 1934 susvisé peut exiger la présence d'une personne titulaire de l'attestation spéciale "passagers" à bord de tout bateau en stationnement ou de tout bateau stationnaire, recevant du public et dont l'effectif admis est supérieur à douze personnes.
