@@ -1,5 +1,5 @@
 # Article 6
 
-Le fabricant dont le système d'assurance de la qualité a fait l'objet d'une approbation par un organisme notifié appose sur chaque instrument le marquage C.E. décrit à l'annexe III au présent arrêté ainsi que toutes les inscriptions prévues à l'annexe II au décret susvisé.
+Le fabricant dont le système d'assurance de la qualité a fait l'objet d'une approbation par un organisme notifié ou son mandataire établi dans la Communauté appose sur chaque instrument le marquage "CE" décrit à l'annexe II au décret susvisé. Il établit une déclaration écrite de conformité.
 
-Le marquage C.E. est accompagné du symbole d'identification de l'organisme notifié responsable de l'approbation du système d'assurance de la qualité et de sa surveillance.
+Le marquage "CE" est suivi du numéro d'identification de l'organisme notifié responsable de la surveillance C.E. visée à l'article 8.

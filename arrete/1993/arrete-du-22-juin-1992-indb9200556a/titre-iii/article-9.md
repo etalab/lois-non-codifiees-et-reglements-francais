@@ -1,7 +1,15 @@
 # Article 9
 
-I. - L'organisme notifié pour la vérification C.E. examine et soumet les instruments à des essais appropriés définis par les normes mentionnées à l'article 3 du décret susvisé, ou à des essais équivalents, pour garantir leur conformité aux exigences essentielles prévues à l'article 2 du décret susvisé.
+I. - Le fabricant prend toutes les mesures nécessaires pour que le procédé de fabrication assure la conformité des instruments, le cas échéant, au type décrit dans le certificat d'approbation C.E. de type et aux exigences applicables du décret susvisé et du présent arrêté. Le fabricant ou son mandataire établi dans la Communauté appose le marquage " CE " sur chaque instrument et établit une déclaration écrite de conformité.
 
-II. - Il appose ou fait apposer sur chaque instrument le marquage C.E. décrit à l'annexe III au présent arrêté ainsi que son symbole d'identification.
+II. - L'organisme notifié effectue les examens et essais appropriés afin de vérifier la conformité du produit aux exigences du décret susvisé et du présent arrêté par contrôle et essai de chaque instrument comme spécifié au point IV.
 
-III. - Pour les instruments non soumis à l'examen C.E. de type, la documentation relative à la conception de l'instrument décrite à l'annexe I au présent arrêté doit être accessible à l'organisme notifié dans la mesure où celui-ci en fait la demande.
+III. - Pour les instruments non soumis à l'examen C.E. de type, la documentation relative à la conception de l'instrument visée à l'annexe I au présent arrêté doit être accessible à l'organisme notifié si celui-ci en fait la demande.
+
+IV. - Vérification par contrôle et essai de chaque instrument :
+
+1° Tous les instruments sont examinés individuellement, et des essais appropriés, définis dans la ou les normes applicables visées à l'article 3 du décret susvisé, ou des essais équivalents, sont effectués en vue de la vérification de leur conformité, le cas échéant, au type décrit dans le certificat d'approbation C.E. de type et aux exigences applicables du décret susvisé et du présent arrêté.
+
+2° L'organisme notifié appose ou fait apposer son numéro d'identification sur chaque instrument dont la conformité aux exigences a été constatée et établit une attestation écrite de conformité relative aux essais effectués.
+
+3° Le fabricant ou son mandataire doit être en mesure de présenter sur demande les attestations de conformité de l'organisme notifié.
