@@ -1,8 +1,8 @@
 # Article 185
 
-Lorsqu'une procédure de redressement judiciaire est ouverte, les dispositions du présent titre [*art. 185 à 195 : faillite personnelle et autres mesures d'interdiction*] sont applicables [*champ d'application*] :
+Lorsqu'une procédure de redressement judiciaire est ouverte, les dispositions du présent titre sont applicables [*champ d'application*] :
 
-1° Aux personnes physiques commerçantes ou aux artisans ;
+1° Aux personnes physiques exerçant la profession de commerçant, d'artisan ou d'agriculteur ;
 
 2° Aux personnes physiques, dirigeants de droit ou de fait de personnes morales ayant une activité économique ;
 
