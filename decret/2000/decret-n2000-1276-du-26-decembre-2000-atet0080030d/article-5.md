@@ -1,0 +1,3 @@
+# Article 5
+
+Les conditions particulières de rattachement des travaux topographiques ou cartographiques réalisés dans le cadre d'une délégation de service public sont décrites dans des documents contractuels conclus entre l'autorité délégante et l'entreprise chargée de l'exécution de la mission de service public. Dans le cas où les travaux sont relatifs à une demande d'autorisation d'occuper le domaine public, elles sont décrites par l'autorité délivrant l'autorisation, notamment lors de la délivrance d'une permission de voirie et lors de la conclusion d'une convention d'occupation du domaine public non routier.
