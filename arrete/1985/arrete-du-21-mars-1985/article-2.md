@@ -1,5 +1,3 @@
 # Article 2
 
-Lorsqu'un emballage collectif est constitué de deux ou plusieurs préemballages individuels, la gamme de valeurs citée à l'article 1er s'applique aux préemballages individuels.
-
-Lorsqu'un préemballage est constitué de deux ou plusieurs emballages individuels qui ne sont pas destinés à être vendus individuellement, la gamme de valeurs citée à l'article 1er s'applique au préemballage.
+Cette subvention sera imputée sur les crédits ouverts au chapitre 44-73, article 40, du budget du ministère du travail, de l'emploi et de la formation professionnelle, destiné aux actions de formation des conseillers prud'hommes.
