@@ -14,6 +14,7 @@
 - [Décret n°85-22 du 4 janvier 1985](decret-n85-22-du-4-janvier-1985)
 - [Décret n°85-300 du 5 mars 1985](decret-n85-300-du-5-mars-1985)
 - [Décret n°85-301 du 5 mars 1985](decret-n85-301-du-5-mars-1985)
+- [Décret n°85-302 du 5 mars 1985](decret-n85-302-du-5-mars-1985)
 - [Décret n°85-177 du 6 février 1985](decret-n85-177-du-6-fevrier-1985)
 - [Décret n°85-178 du 6 février 1985](decret-n85-178-du-6-fevrier-1985)
 - [Décret n°85-185 du 6 février 1985](decret-n85-185-du-6-fevrier-1985)
