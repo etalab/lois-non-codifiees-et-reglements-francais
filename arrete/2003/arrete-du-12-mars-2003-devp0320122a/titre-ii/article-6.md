@@ -1,0 +1,3 @@
+# Article 6
+
+L'exploitant dispose soit par lui-même, soit dans le cadre des relations avec ses fournisseurs, de réserves suffisantes de produits ou matières consommables utilisés de manière courante ou occasionnelle pour assurer la protection de l'environnement tels que manches de filtre, produits de neutralisation, liquides inhibiteurs, produits absorbants, pièces d'usure...

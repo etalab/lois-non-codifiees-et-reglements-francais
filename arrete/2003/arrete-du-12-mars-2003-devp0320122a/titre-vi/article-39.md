@@ -1,0 +1,5 @@
+# Article 39
+
+Le débit des effluents gazeux est exprimé en mètres cubes par heure rapportés à des conditions normalisées de température (273 kelvins) et de pression (101,3 kilopascals) après déduction de la vapeur d'eau (gaz secs), corrigé d'une concentration de référence en oxygène fixée par l'arrêté d'autorisation. Cette concentration de référence en oxygène est de 13 % pour les fours à pots et 8 % pour les autres fours, sauf pour les fours électriques ou à oxygène pour lesquels le débit n'est pas corrigé. Si des fours de technologies différentes sont raccordés à la même cheminée ou si le four fonctionne avec un appoint électrique, la concentration de référence en oxygène est fixée par l'arrêté préfectoral d'autorisation. Les valeurs limites en concentration sont exprimées en milligrammes par mètre cube rapportés aux mêmes conditions que les débits (mg/Nm3).
+
+Pour les activités hors fusion, les débits sont exprimés sur effluents bruts, sauf indication contraire dans le présent arrêté.

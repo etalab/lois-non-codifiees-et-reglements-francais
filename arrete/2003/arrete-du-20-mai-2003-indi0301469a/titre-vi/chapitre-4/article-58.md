@@ -1,0 +1,7 @@
+# Article 58
+
+Tout incident ou anomalie de fonctionnement des installations nucléaires susceptible de concerner directement ou indirectement les dispositions du présent arrêté tel que : fuite de réservoir ou de canalisation d'effluents gazeux et liquides, rejet non contrôlé, élévation anormale de la radioactivité ou de tout autre paramètre des effluents rejetés, indisponibilité des réservoirs réglementaires, détérioration de filtres, dépassement du seuil de déclenchement, réduction du débit à la cheminée principale, panne d'appareils de mesure de débits, d'activités ou de paramètres physico-chimiques, etc., fait l'objet d'une information immédiate à la DRIRE Centre, au service chargé de la police des eaux, aux préfets d'Indre-et-Loire et de Maine-et-Loire et à la DGSNR, selon leur domaine de compétence respectif. L'événement doit être signalé sur les documents mentionnés aux articles 54 et 60. L'exploitant prend les mesures nécessaires pour limiter la durée d'indisponibilité du matériel.
+
+La même procédure d'information s'applique pour tout accroissement significatif de la radioactivité dans l'environnement de l'installation.
+
+Les prescriptions du présent article ne font pas obstacle aux dispositions portant sur la déclaration des accidents et incidents significatifs relatifs à la sûreté des installations nucléaires, ni aux mesures d'alerte prévues dans les plans d'urgence interne (PUI) ou dans les plans particuliers d'interventions (PPI).

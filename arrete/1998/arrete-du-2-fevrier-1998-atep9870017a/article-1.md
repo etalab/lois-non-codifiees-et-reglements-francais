@@ -10,7 +10,7 @@ Le présent arrêté fixe les prescriptions applicables aux prélèvements et à
 
 - des papeteries ;
 
-- des verreries et cristalleries ;
+- des verreries, des cristalleries et des installations de fabrication de fibres minérales et produits manufacturés dérivés.
 
 - des installations de traitement (incinération, compostage ...), stockage ou transit de résidus urbains ou de déchets industriels ;
 
