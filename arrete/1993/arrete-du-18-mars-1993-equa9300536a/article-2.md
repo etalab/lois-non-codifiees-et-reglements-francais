@@ -1,5 +1,0 @@
-# Article 2
-
-Toutefois, en ce qui concerne les licences de pilote, et nonobstant l'article 1er, les licences délivrées conformément à l'annexe I de la convention relative à l'aviation civile internationale par un autre Etat membre de la CE aux ressortissants de l'un des Etats membres de la CE, sans qu'aucun élément constitutif de ces licences n'ait été délivré par un Etat tiers, sont validées, sauf dans le domaine des essais et réceptions, par le ministre chargé de l'aviation civile, à la demande de leurs titulaires, pour exercer les fonctions prévues à l'annexe du présent arrêté lorsqu'ils satisfont aux conditions spéciales de validation correspondantes précisées dans cette même annexe.
-
-Les épreuves pratiques prévues dans les conditions spéciales de validation figurant dans l'annexe à cet arrêté sont exécutées en présence d'un examinateur désigné par le président du jury des examens. Pour être admis à se présenter aux épreuves pratiques, le candidat doit être titulaire des certificats d'aptitude aux éprreuves théoriques exigées.
