@@ -6,7 +6,7 @@ Pour l'obtention de l'agrément prévu à l'article 4 du décret du 17 septembre
 
 - le titre de l'oeuvre audiovisuelle ;
 
-- l'indication du numéro d'immatriculation de l'oeuvre au registre public de la cinématographie ; toutefois, cette mention n'est pas nécessaire pour les contrats de coproduction relatifs aux oeuvres d'une durée inférieure à une heure et aux séries dont les épisodes sont d'une durée inférieure à quinze minutes ;
+- l'indication du numéro d'immatriculation de l'oeuvre au registre public de la cinématographie et de l'audiovisuel. Toutefois, cette mention n'est pas nécessaire pour les contrats de coproduction relatifs aux oeuvres d'une durée inférieure à une heure, aux séries dont les épisodes sont d'une durée inférieure à trente minutes, aux magazines et aux retransmissions de spectacles vivants ;
 
 - le nom du laboratoire pressenti ;
 
@@ -24,4 +24,4 @@ Pour l'obtention de l'agrément prévu à l'article 4 du décret du 17 septembre
 
 7. Un plan de financement accompagné de toutes justifications utiles ;
 
-8. La justification de l'inscription au registre public de la cinématographie du ou des contrats d'association à la production et du ou des contrats de coproduction relatifs aux oeuvres d'une durée supérieure ou égale à une heure et aux séries dont les épisodes sont d'une durée supérieure ou égale à quinze minutes.
+8. La justification de l'inscription au registre public de la cinématographie et de l'audiovisuel du ou des contrats d'association à la production et du ou des contrats de coproduction relatifs aux oeuvres d'une durée supérieure ou égale à une heure et aux séries dont les épisodes sont d'une durée supérieure ou égale à trente minutes.
