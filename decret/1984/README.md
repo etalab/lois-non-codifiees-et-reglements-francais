@@ -193,6 +193,7 @@
 - [Décret n°84-526 du 28 juin 1984](decret-n84-526-du-28-juin-1984)
 - [Décret n°84-529 du 28 juin 1984](decret-n84-529-du-28-juin-1984)
 - [Décret n°84-532 du 28 juin 1984](decret-n84-532-du-28-juin-1984)
+- [Décret n°82-450 du 28 mai 1982](decret-n82-450-du-28-mai-1982)
 - [Décret n°84-399 du 28 mai 1984](decret-n84-399-du-28-mai-1984)
 - [Décret n°83-1208 du 29 décembre 1983](decret-n83-1208-du-29-decembre-1983)
 - [Décret n°84-216 du 29 mars 1984](decret-n84-216-du-29-mars-1984)
