@@ -1,3 +1,3 @@
 # Article 3
 
-Le prix de vente maximum hors taxes du ciment facturé au départ de l'usine par la société anonyme Société des ciments antillais est fixé à 591 F la tonne.
+Le prix de vente maximum hors taxes de la farine facturé au départ de l'usine par la société anonyme Les Grands Moulins des Antilles est fixé à 331,93 F le quintal.
