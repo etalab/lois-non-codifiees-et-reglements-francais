@@ -261,8 +261,6 @@
 - [Arrêté du 13 octobre 1989 (MCCI8900617A)](arrete-du-13-octobre-1989-mcci8900617a)
 - [Arrêté du 13 octobre 1989 (PRME8961014A)](arrete-du-13-octobre-1989-prme8961014a)
 - [Arrêté du 13 septembre 1989 (MENL8901055A)](arrete-du-13-septembre-1989-menl8901055a)
-- [Arrêté du 13 septembre 1989 (SPSG8901922A)](arrete-du-13-septembre-1989-spsg8901922a)
-- [Arrêté du 13 septembre 1989 (SPSG8901923A)](arrete-du-13-septembre-1989-spsg8901923a)
 - [Arrêté du 13 septembre 1989 (TEFT8903723A)](arrete-du-13-septembre-1989-teft8903723a)
 - [Arrêté du 13 septembre 1990 (MENT9000007A)](arrete-du-13-septembre-1990-ment9000007a)
 - [Arrêté du 14 avril 1989 (PRMZ8905034A)](arrete-du-14-avril-1989-prmz8905034a)
