@@ -1,3 +1,3 @@
 # Article 9
 
-Des arrêtés du ministre chargé de la santé, pour le corps interministériel des infirmières et infirmiers de l'Etat, et des arrêtés conjoints du ministre chargé de la santé et, selon le cas, du ministre chargé de la défense ou du ministre chargé de l'éducation nationale fixent la composition des jurys, qui doivent comprendre notamment une infirmière ou un infirmier en activité.
+Les infirmières et infirmiers diplômés d'Etat bénéficient, à la date de leur nomination comme stagiaire, d'une bonification d'ancienneté de douze mois. Elle n'est pas accordée aux fonctionnaires qui auraient déjà bénéficié d'une bonification de même nature prévue par un statut de personnels infirmiers.

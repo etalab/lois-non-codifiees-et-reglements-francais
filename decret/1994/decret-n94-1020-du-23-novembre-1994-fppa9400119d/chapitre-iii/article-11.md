@@ -1,3 +1,5 @@
 # Article 11
 
-Les candidats reçus aux concours prévus à l'article 4 ci-dessus sont classés dans leur corps, lors de leur titularisation, au 1er échelon du grade d'infirmière ou d'infirmier ou, s'ils avaient déjà la qualité de fonctionnaire ou d'agent non titulaire, à l'échelon de ce grade de début déterminé dans les conditions fixées aux articles 12 à 18 ci-après.
+Les infirmières et infirmiers qui, avant leur nomination dans l'un des corps régis par le présent décret, ont exercé une activité professionnelle de même nature et ne peuvent se prévaloir de dispositions plus favorables, sont classés lors de leur titularisation à un échelon déterminé en prenant en compte, sur la base des durées moyennes d'avancement d'échelon, la durée des services d'infirmier accomplis antérieurement, sous réserve de justifier qu'ils possédaient les titres, diplômes ou autorisations exigés pour l'exercice desdites fonctions antérieures.
+
+Cette reprise d'ancienneté ne peut être attribuée qu'une fois au cours de la carrière des intéressés.

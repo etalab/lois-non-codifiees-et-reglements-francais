@@ -4,4 +4,4 @@ Les infirmières et infirmiers placés en position de détachement depuis deux a
 
 Les fonctionnaires intégrés sont nommés au grade et à l'échelon qu'ils occupaient en position de détachement avec conservation de l'ancienneté acquise dans l'échelon.
 
-Les services accomplis dans le corps, cadre d'emplois ou emploi d'origine sont assimilés à des services accomplis dans le corps d'intégration.
+Les services accomplis dans le corps, cadre d'emplois ou emploi d'origine sont assimilés à des services effectifs accomplis dans le corps d'intégration.

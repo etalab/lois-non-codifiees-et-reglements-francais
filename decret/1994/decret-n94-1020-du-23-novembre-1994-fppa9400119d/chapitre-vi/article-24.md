@@ -1,3 +1,7 @@
 # Article 24
 
-La nomination en qualité de stagiaire des candidats reçus aux concours de recrutement d'infirmières ou d'infirmiers ouverts avant la publication du présent décret sera effectuée dans les corps correspondant à ceux régis par le présent décret.
+Au sein des commissions administratives paritaires et jusqu'à la nomination des représentants des nouveaux grades créés par le présent décret :
+
+1° Les représentants du grade d'infirmière et infirmier exercent les compétences des représentants du nouveau grade d'infirmière et infirmier de classe normale ;
+
+2° Les représentants du grade d'infirmière principale et d'infirmier principal et du grade d'infirmière en chef et infirmier en chef siègent en formation commune et exercent les compétences des représentants du nouveau grade d'infirmière et infirmier de classe supérieure.

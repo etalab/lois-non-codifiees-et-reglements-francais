@@ -1,5 +1,9 @@
 # Article 10
 
-Les infirmières ou infirmiers stagiaires qui, antérieurement à leur recrutement, ont été employés et rémunérés en qualité de fonctionnaire, d'agent public ou de salarié dans un établissement public de soins, dans un établissement de soins privé ou dans un établissement social ou médico-social privé, dans des fonctions d'infirmière ou d'infirmier, bénéficient, lors de leur nomination dans un des corps régis par le présent décret, d'une bonification d'ancienneté égale à la moitié de la durée des services qu'ils ont ainsi effectués sous réserve qu'ils justifient qu'ils possédaient les titres, diplômes ou autorisations exigés pour l'exercice desdites fonctions antérieures. La demande de bonification d'ancienneté, accompagnée de toutes les pièces justificatives, doit être présentée dans un délai de six mois à compter de la nomination.
+Les stagiaires dont le stage a donné satisfaction sont titularisés dans leur corps.
 
-Cette bonification ne peut excéder quatre années et ne peut être attribuée qu'une fois au cours de la carrière des intéressés.
+Les autres stagiaires peuvent être autorisés, après avis de la commission administrative paritaire, à effectuer un stage complémentaire d'une durée maximale d'un an.
+
+Les stagiaires qui n'ont pas été autorisés à effectuer un stage complémentaire ou dont le stage complémentaire n'a pas été jugé satisfaisant sont, après avis de la commission administrative paritaire, soit licenciés s'ils n'avaient pas préalablement la qualité de fonctionnaire, soit réintégrés dans leur corps ou cadre d'emplois d'origine.
+
+Lorsque les stagiaires sont titularisés, ils sont classés dans le grade d'infirmière et infirmier de classe normale à l'échelon déterminé en application des articles 9 et 11 à 16 et selon l'ancienneté acquise depuis leur nomination dans ce grade, sans qu'il soit tenu compte de la prolongation éventuelle de la période de stage.
