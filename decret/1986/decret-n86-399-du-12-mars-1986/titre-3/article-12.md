@@ -4,7 +4,7 @@ Il est institué une commission chargée de procéder à l'évaluation des perso
 
 - le président du conseil scientifique ;
 
-- le chef du service des études et de la statistique au ministère chargé de l'emploi ;
+- le chef de la mission Animation de la recherche à la direction de l'animation de la recherche, des études et des statistiques du ministère du travail, de l'emploi et de la formation professionnelle ;
 
 - deux membres élus pour deux ans par et parmi les personnels chercheurs du centre, selon des modalités fixées par décision du directeur ;
 

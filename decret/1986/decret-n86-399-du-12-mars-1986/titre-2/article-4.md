@@ -8,11 +8,11 @@ Le conseil d'administration du centre d'études de l'emploi comprend :
 
 - le délégué à l'emploi ;
 
-- le directeur des relations du travail au ministère chargé du travail ;
+- le directeur de l'animation de la recherche, des études et des statistiques au ministère du travail, de l'emploi et de la formation professionnelle.
 
 - le directeur général de la recherche et de la technologie au ministère chargé de la recherche ;
 
-- le directeur de l'administration, du personnel et du budget au ministère chargé des affaires sociales.
+- le directeur général de l'Agence nationale pour l'emploi.
 
 Ces membres de droit peuvent se faire représenter par un suppléant nommément désigné.
 

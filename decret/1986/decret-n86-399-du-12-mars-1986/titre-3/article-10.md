@@ -14,7 +14,7 @@ Le conseil scientifique comprend :
 
 - le directeur général de l'Institut national de la statistique et des études économiques ;
 
-- le chef du service des études et de la statistique du ministère chargé de l'emploi ;
+- le directeur de l'animation de la recherche, des études et des statistiques au ministère du travail, de l'emploi et de la formation professionnelle ;
 
 - le directeur des études de l'Agence nationale pour l'emploi.
 
