@@ -1,6 +1,6 @@
 # Article 25-4
 
-Pour l'application des conditions de ressources définies aux articles 25-1 et 25-3 ci-dessus, le droit à l'allocation et à la majoration est examiné pour chaque période de douze mois débutant le 1er juillet, en fonction de la situation de famille à cette date. Toutefois, en cas de modification de la situation de famille au cours d'une période de paiement, le droit à l'allocation ou à la majoration est examiné à la date à laquelle est survenue la modification, compte tenu des nouvelles charges de famille du requérant.
+Pour l'application des conditions de ressources définies aux articles 25-1 et 25-3 ci-dessus, le droit à l'allocation et à la majoration est examiné pour chaque période de douze mois débutant le 1er juillet, en fonction de la situation de famille à cette date. Toutefois, en cas de modification de la situation de famille au cours d'une période de paiement, le droit à l'allocation ou à la majoration est examiné au premier jour du mois civil suivant celui au cours duquel la modification est survenue, compte tenu des nouvelles charges de famille du requérant [*date*].
 
 Le revenu dont il est tenu compte s'entend du revenu net global à raison duquel les intéressés sont passibles de l'impôt sur le revenu, à l'exclusion des revenus des enfants ayant fait l'objet d'une imposition commune. Il est fait abstraction des déductions opérées en vertu de l'article 156-1 du code général des impôts au titre des reports des déficits constatés au cours d'une année antérieure à celle qui est prise en considération.
 
