@@ -393,7 +393,6 @@
 - [Arrêté du 12 mai 1998 (MCCI9800381A)](arrete-du-12-mai-1998-mcci9800381a)
 - [Arrêté du 12 mai 1998 (MESP9821752A)](arrete-du-12-mai-1998-mesp9821752a)
 - [Arrêté du 12 mai 1998 (MEST9810554A)](arrete-du-12-mai-1998-mest9810554a)
-- [Arrêté du 13 août 1998 (MCCT9800145A)](arrete-du-13-aout-1998-mcct9800145a)
 - [Arrêté du 13 février 1998 (AGRA9800386A)](arrete-du-13-fevrier-1998-agra9800386a)
 - [Arrêté du 13 février 1998 (AGRE9800078A)](arrete-du-13-fevrier-1998-agre9800078a)
 - [Arrêté du 13 février 1998 (ECOI9800001A)](arrete-du-13-fevrier-1998-ecoi9800001a)
