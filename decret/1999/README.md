@@ -709,6 +709,7 @@
 - [Décret n°99-417 du 26 mai 1999 (ECOZ9900008D)](decret-n99-417-du-26-mai-1999-ecoz9900008d)
 - [Décret n°99-430 du 26 mai 1999 (DEFP9901402D)](decret-n99-430-du-26-mai-1999-defp9901402d)
 - [Décret n°99-446 du 26 mai 1999 (ATEP9970004D)](decret-n99-446-du-26-mai-1999-atep9970004d)
+- [Décret n°89-524 du 27 juillet 1989 (DOMP8900020D)](decret-n89-524-du-27-juillet-1989-domp8900020d)
 - [Décret n°99-323 du 27 avril 1999 (MESS9920722D)](decret-n99-323-du-27-avril-1999-mess9920722d)
 - [Décret n°99-64 du 27 janvier 1999 (ECOI9801037D)](decret-n99-64-du-27-janvier-1999-ecoi9801037d)
 - [Décret n°99-733 du 27 août 1999 (MESA9921725D)](decret-n99-733-du-27-aout-1999-mesa9921725d)
