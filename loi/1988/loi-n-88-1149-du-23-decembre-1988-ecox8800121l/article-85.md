@@ -22,6 +22,6 @@ IV. - Lorsque le montant de l'indemnité communale est supérieur au montant uni
 
 Aucune somme n'est reversée directement aux communes au titre des opérations visées au deuxième alinéa du paragraphe III du présent article.
 
-V. - Les dispositions ci-dessus sont applicables à compter du 1er janvier 1989.
+V. - Les dispositions ci-dessus sont applicables à compter du 1er janvier 1990.
 
 A titre transitoire, et jusqu'au 1er juillet 1989, les communes continuent à liquider et à verser l'indemnité communale représentative de logement conformément aux dispositions en vigueur. Le centre national de la fonction publique territoriale reversera aux communes la charge qu'elles auront supportée à ce titre.
