@@ -72,7 +72,9 @@ d) Contrôle de la valeur de la résistance de continuité des liaisons au condu
 
 - de toutes les prises de courant visibles au moment de la vérification.
 
-Nota : Les résultats de ces mesures de résistance sont à comparer aux valeurs limites figurant sur le tableau 62 GB de la norme NF C 15-100 homologuée par les arrêtés des 29 juillet 1977 et 20 janvier 1981 lors de la vérification initiale, ou sur le tableau 4.2 du guide UTE C 15-106 lors des vérifications périodiques. Dans le cas où les valeurs de résistance mesurées sont supérieures aux valeurs limites, il convient de s'assurer qu'elles répondent cependant aux dispositions de l'annexe IV, chapitre 53, de ladite norme NF C 15-100.
+Nota : Pour les installations ou parties d'installations électriques des domaines B.T.A. et B.T.B. réalisées à partir du 1er avril 1992, les résultats de ces mesures de résistance sont à comparer aux valeurs limites mentionnées dans le chapitre D. 6 du guide U.T.E. C 15-105 précisant les conditions pratiques d'application de certaines dispositions de la norme NF C 15-100 homologuée par décision du 13 mai 1991, dans le cadre des vérifications initiales, d'une part, et périodiques, d'autre part.
+
+Pour les installations ou parties d'installations électriques des domaines B.T.A. et B.T.B. existant au 1er avril 1992, les résultats de ces mesures de résistance sont à comparer, lors des vérifications périodiques, aux valeurs du tableau DE du guide U.T.E. C 15-105 susmentionné.
 
 e) Mesures d'isolement :
 
@@ -94,7 +96,9 @@ f) Examen des conditions de protection contre les risques de brûlures, d'incend
 
 Nota : Les dispositions prises dans un établissement pour satisfaire aux prescriptions réglementaires applicables doivent être appréciées par déférence aux règles de l'art correspondantes, c'est-à-dire aux dispositions relatives à la prévention des risques de choc électrique, de brûlure, d'incendie ou d'explosion d'origine électrique contenues dans les normes suivantes :
 
-- pour les installations des domaines T.B.T., B.T.A. et B.T.B., la norme NF C 15-100 homologuée par arrêtés des 29 juillet 1977 et 20 janvier 1981 ;
+- pour les installations des domaines T.B.T., B.T.A. et B.T.B. réalisées à partir du 1er avril 1992, la norme NF C 15-100 homologuée par décision du 13 mai 1991 ;
+
+- pour les installations des domaines T.B.T., B.T.A. et B.T.B. existant au 1er avril 1992, la norme NF C 15-100 homologuée par arrêtés des 29 juillet 1977 et 20 janvier 1981 ;
 
 - pour les installations du domaine H.T. des postes alimentés par un réseau de distribution publique, la norme NF C 13-100 homologuée par arrêté du 2 mai 1983 et par les normes NF C 13-101, 102 et 103 homologuées par décisions du 5 novembre 1985 ;
 
