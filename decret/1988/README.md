@@ -42,6 +42,7 @@
 - [Décret n°88-244 du 14 mars 1988 (INTB8800067D)](decret-n88-244-du-14-mars-1988-intb8800067d)
 - [Décret n°88-922 du 14 septembre 1988 (AGRE8801283D)](decret-n88-922-du-14-septembre-1988-agre8801283d)
 - [Décret n°88-924 du 15 septembre 1988 (EQUC8800688D)](decret-n88-924-du-15-septembre-1988-equc8800688d)
+- [Décret n°88-926 du 15 septembre 1988 (EQUU8800617D)](decret-n88-926-du-15-septembre-1988-equu8800617d)
 - [Décret n°88-770 du 17 juin 1988 (AGRS8800909D)](decret-n88-770-du-17-juin-1988-agrs8800909d)
 - [Décret n°88-879 du 17 août 1988 (MAEJ8830050D)](decret-n88-879-du-17-aout-1988-maej8830050d)
 - [Décret n°88-884 du 17 août 1988 (MAEJ8830049D)](decret-n88-884-du-17-aout-1988-maej8830049d)

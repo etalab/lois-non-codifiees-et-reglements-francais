@@ -34,6 +34,7 @@
 - [Arrêté du 3 août 1988 (AGRS8801428A)](arrete-du-3-aout-1988-agrs8801428a)
 - [Arrêté du 3 août 1988 (BUDB8860048A)](arrete-du-3-aout-1988-budb8860048a)
 - [Arrêté du 3 août 1988 (COMA8800029A)](arrete-du-3-aout-1988-coma8800029a)
+- [Arrêté du 3 août 1988 (EQUP8800030A)](arrete-du-3-aout-1988-equp8800030a)
 - [Arrêté du 3 février 1988 (BUDR8803022A)](arrete-du-3-fevrier-1988-budr8803022a)
 - [Arrêté du 3 février 1988 (BUDR8803023A)](arrete-du-3-fevrier-1988-budr8803023a)
 - [Arrêté du 3 février 1988 (TRSA8800084A)](arrete-du-3-fevrier-1988-trsa8800084a)
