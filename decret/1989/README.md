@@ -238,7 +238,6 @@
 - [Décret n°89-179 du 17 mars 1989 (ACVP8820036D)](decret-n89-179-du-17-mars-1989-acvp8820036d)
 - [Décret n°89-227 du 17 avril 1989 (INTB8900121D)](decret-n89-227-du-17-avril-1989-intb8900121d)
 - [Décret n°89-229 du 17 avril 1989 (INTB8900119D)](decret-n89-229-du-17-avril-1989-intb8900119d)
-- [Décret n°89-230 du 17 avril 1989 (INTB8900123D)](decret-n89-230-du-17-avril-1989-intb8900123d)
 - [Décret n°89-234 du 17 avril 1989 (PRMX8900042D)](decret-n89-234-du-17-avril-1989-prmx8900042d)
 - [Décret n°89-235 du 17 avril 1989 (PRME8961283D)](decret-n89-235-du-17-avril-1989-prme8961283d)
 - [Décret n°89-236 du 17 avril 1989 (ECOM8800320D)](decret-n89-236-du-17-avril-1989-ecom8800320d)
