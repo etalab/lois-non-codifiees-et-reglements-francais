@@ -1333,7 +1333,6 @@
 - [Arrêté du 30 mai 1996 (ENVP9650195A)](arrete-du-30-mai-1996-envp9650195a)
 - [Arrêté du 30 mai 1996 (EQUS9600714A)](arrete-du-30-mai-1996-equs9600714a)
 - [Arrêté du 30 mai 1996 (JUSG9660026A)](arrete-du-30-mai-1996-jusg9660026a)
-- [Arrêté du 31 décembre 1995 (BUDF9520897A)](arrete-du-31-decembre-1995-budf9520897a)
 - [Arrêté du 31 décembre 1995 (FCEM9500774A)](arrete-du-31-decembre-1995-fcem9500774a)
 - [Arrêté du 31 janvier 1996 (ECOB9610011A)](arrete-du-31-janvier-1996-ecob9610011a)
 - [Arrêté du 31 janvier 1996 (ECOR9605004A)](arrete-du-31-janvier-1996-ecor9605004a)
