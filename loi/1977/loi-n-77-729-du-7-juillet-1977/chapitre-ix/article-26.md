@@ -13,3 +13,5 @@ La présente loi est applicable :
 5° Dans les îles Wallis-et-Futuna, dans les conditions prévues aux articles L. 387 à L. 389 du même code.
 
 Par dérogation à l'article L. 55 du même code à Saint-Pierre-et-Miquelon, en Guadeloupe, en Martinique, en Guyane et en Polynésie française, le scrutin est organisé le samedi.
+
+Par dérogation aux dispositions du deuxième alinéa de l'article L. 52-12 du même code, le compte de campagne des candidats dans la circonscription outre-mer figurant au tableau annexé à la présente loi peut également être déposé auprès des services d'un représentant de l'Etat dans les collectivités territoriales comprises dans le ressort de ladite circonscription.
