@@ -1,16 +1,3 @@
 # 1954
 
-- [Décret n°54-122 du 1 février 1954](decret-n54-122-du-1-fevrier-1954)
-- [Décret n°54-213 du 1 mars 1954](decret-n54-213-du-1-mars-1954)
-- [Décret n°54-474 du 4 mai 1954](decret-n54-474-du-4-mai-1954)
-- [Décret n°54-135 du 6 février 1954](decret-n54-135-du-6-fevrier-1954)
-- [Décret n°54-409 du 6 avril 1954](decret-n54-409-du-6-avril-1954)
-- [Décret n°54-257 du 10 mars 1954](decret-n54-257-du-10-mars-1954)
-- [Décret n°54-611 du 11 juin 1954](decret-n54-611-du-11-juin-1954)
-- [Décret n°54-668 du 11 juin 1954](decret-n54-668-du-11-juin-1954)
-- [Décret n°54-429 du 12 avril 1954](decret-n54-429-du-12-avril-1954)
-- [Décret n°54-51 du 16 janvier 1954](decret-n54-51-du-16-janvier-1954)
-- [Décret n°54-65 du 16 janvier 1954](decret-n54-65-du-16-janvier-1954)
-- [Décret n°54-207 du 23 février 1954](decret-n54-207-du-23-fevrier-1954)
-- [Décret n°54-546 du 26 avril 1954](decret-n54-546-du-26-avril-1954)
-- [Décret n°53-1294 du 31 décembre 1953](decret-n53-1294-du-31-decembre-1953)
+- [Décret n°54-539 du 26 mai 1954](decret-n54-539-du-26-mai-1954)

@@ -1,9 +1,0 @@
-# Article 4
-
-Les bureaux d'aide sociale exercent une action de prévoyance et d'entraide, notamment par la distribution de secours en bons, en nature et en espèces, la création de crèches, pouponnières, garderies d'enfants, restaurant d'entraide, ateliers d'assistance par le travail et la création de services sociaux et permanences sociales. Leur action à l'égard des personnes âgées s'exerce en outre par la création et la gestion de services d'aides ménagères et de soins à domicile de centres d'activités culturelles et manuelles, la création et la gestion de logements, de logements-foyers ainsi que la contribution à la création de maisons de retraite.
-
-Un arrêté du ministre de la santé publique et de la population précise la mesure et les conditions dans lesquelles les bureaux d'aide sociale sont appelés à participer au service de l'hospitalisation à domicile.
-
-Un arrêté du ministre de la santé publique et de la population détermine le nombre maximum de lits autorisés dans les maisons de retraite prévues à l'alinéa 1er.
-
-Ils coordonnent cette action avec celle des services publics ou institutions privées ayant un objet analogue. A cet effet, ils constituent et tiennent à jour un fichier des bénéficiaires de secours ou d'une aide sociale résidant sur le territoire de la commune ou du syndicat de communes. Devront figurer sur ce fichier [*mentions obligatoires*] les ressources des demandeurs ainsi que les prestations de toute nature dont ils bénéficient au titre de la législation d'aide sociale. La communication de ce fichier est exclusivement réservée, en dehors des membres de la commission administrative et des commissions d'admission à l'aide sociale, aux représentants des services et institutions visés ci-dessus et à leurs services sociaux, sous réserve qu'ils justifient que l'intéressé a recours à leur aide.
