@@ -63,3 +63,7 @@ Personne ressource juridique pour la région Languedoc-Roussillon .
 A compter du 1er septembre 2004
 
 Chargé de mission interrégionale d'inspection de l'apprentissage agricole pour la région Provence-Alpes-Côte d'Azur et la région Corse .
+
+A compter du 1er octobre 2004
+
+Chef de service de l'économi agricole à la direction départementale de l'agriculture et de la forêt de la Marne.
