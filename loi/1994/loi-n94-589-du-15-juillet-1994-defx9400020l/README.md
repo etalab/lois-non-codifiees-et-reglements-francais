@@ -1,6 +1,7 @@
 # Loi n°94-589 du 15 juillet 1994 relative aux modalités de l'exercice par l'Etat de ses pouvoirs de police en mer.
 
 - [Article 1](article-1.md)
+- [Titre Ier : Dispositions générales](titre-ier)
 - [Article 2](article-2.md)
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)
@@ -10,4 +11,3 @@
 - [Article 8](article-8.md)
 - [Article 9](article-9.md)
 - [Article 10](article-10.md)
-- [Article 11](article-11.md)
