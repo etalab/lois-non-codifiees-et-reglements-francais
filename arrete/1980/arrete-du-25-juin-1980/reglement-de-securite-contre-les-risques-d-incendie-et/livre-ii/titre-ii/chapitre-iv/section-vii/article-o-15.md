@@ -1,7 +1,5 @@
 # Article O 15
 
-Domaine d'application
+Règles d'installation
 
-En atténuation des dispositions de l'article GZ 22 (§ 1), les appareils de cuisson à combustible gazeux peuvent être installés dans les locaux réservés au sommeil.
-
-Toutefois l'utilisation de gaz ou d'hydrocarbure liquéfié n'est autorisé dans les chambres que si la distribution est collective.
+Les cuisines et placards-cuisines associés aux chambres ainsi que les offices d'étage ne peuvent être alimentés en gaz que par une distribution collective.
