@@ -36,7 +36,7 @@ Le dossier d'agrément comprend les informations et pièces suivantes :
 
 - son engagement à informer, sans délai, le préfet de toute détection d'anomalies ou de non-conformité des résultats d'analyses aux limites ou références de qualité définies dans l'annexe 13-1 du code de la santé publique pour les eaux destinées à la consommation humaine, à l'exclusion des eaux minérales naturelles, ou de non-conformité des résultats d'analyses aux valeurs paramétriques définies dans l'annexe 13-5 et l'article D. 1332-2 du code de la santé publique pour les eaux de piscines et de baignades ;
 
-- la mise en place d'une liaison informatique pour l'alimentation de la base de données  SISE-Eaux  placée sous l'autorité des services du préfet, se conformant aux spécifications techniques normalisées de transmission définies par le préfet (sauf pour les résultats des analyses des eaux de piscines).
+- la mise en place d'une liaison informatique pour l'alimentation de la base de données SISE-Eaux placée sous l'autorité des services du préfet, se conformant aux spécifications techniques normalisées de transmission définies par le préfet (sauf pour les résultats des analyses des eaux de piscines).
 
 13. Les résultats des contrôles éventuels effectués par l'autorité sanitaire au cours des 12 mois précédant la date de dépôt de la demande d'agrément.
 
@@ -44,7 +44,7 @@ La demande d'agrément doit être adressée en remplissant un formulaire type di
 
 Le dossier de demande d'agrément complété (formulaire type et pièces à fournir) doit être envoyé, par courrier postal avec accusé de réception, en 3 exemplaires, à l'adresse suivante :
 
-Ministère des solidarités, de la santé et de la famille, direction générale de la santé (bureau des eaux), 8, avenue de Ségur, 75370 Paris 07 SP.
+Ministère des solidarités, de la santé et de la famille, direction générale de la santé (bureau des eaux), 14, avenue Duquesne, 75350 Paris 07 SP.
 
 Dans le cas où la demande d'agrément concerne les prélèvements et les analyses de radioactivité, 2 exemplaires supplémentaires sont à envoyer, par courrier postal avec accusé de réception, à l'adresse suivante :
 

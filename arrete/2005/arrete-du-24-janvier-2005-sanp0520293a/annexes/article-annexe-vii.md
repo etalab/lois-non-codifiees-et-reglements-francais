@@ -30,7 +30,7 @@ Laboratoire départemental d'analyses des Bouches-du-Rhône, 66 A, rue Saint-Sé
 
 Laboratoire départemental Frank Duncombe, 1, route de Rosel, 14280 Saint-Contest.
 
-Laboratoire départemental d'analyses et de recherche (LDAR), 1, rue du Rieu, 15000 Aurillac.
+Laboratoire d'analyses des eaux du Cantal, 1, rue du Rieu, 15000 Aurillac.
 
 Laboratoire départemental d'analyses de la Charente, 496, route de Bordeaux, 16021 Angoulême.
 
