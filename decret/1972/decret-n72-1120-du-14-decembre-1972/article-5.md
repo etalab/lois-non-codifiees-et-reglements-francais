@@ -6,7 +6,7 @@ Cette commission, qui se réunit à l'initiative de l'un des ministres, donne so
 
 L'agrément à accorder aux organismes prévus à l'article 4 et sur son retrait éventuel ;
 
-Les dispositions arrêtées par les conseils d'administration des organismes agréés pour l'exercice de leur mission, et singulièrement sur les conditions dans lesquelles il est procédé au contrôle prévu au dernier alinéa de l'article 2 ci-dessus ;
+Les dispositions arrêtées par les conseils d'administration des organismes agréés pour l'exercice de leur mission, et singulièrement sur les conditions dans lesquelles il est procédé au contrôle prévu à l'article 2 ci-dessus ;
 
 Les rapports d'activité et les comptes annuels des organismes agréés ;
 
