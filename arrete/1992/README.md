@@ -231,7 +231,6 @@
 - [Arrêté du 6 janvier 1992 (TEFX9110349A)](arrete-du-6-janvier-1992-tefx9110349a)
 - [Arrêté du 6 juillet 1992 (EQUA9200511A)](arrete-du-6-juillet-1992-equa9200511a)
 - [Arrêté du 6 juillet 1992 (MENK9200146A)](arrete-du-6-juillet-1992-menk9200146a)
-- [Arrêté du 6 juin 1992 (BUDD9240005A)](arrete-du-6-juin-1992-budd9240005a)
 - [Arrêté du 6 mars 1992 (ECOC9200029A)](arrete-du-6-mars-1992-ecoc9200029a)
 - [Arrêté du 6 novembre 1992 (AGRA9202187A)](arrete-du-6-novembre-1992-agra9202187a)
 - [Arrêté du 6 novembre 1992 (AGRA9202188A)](arrete-du-6-novembre-1992-agra9202188a)
