@@ -1,0 +1,3 @@
+# Article Annexe
+
+Dans le cas où l'entreprise serait conduite, pour des raisons techniques, économiques ou sanitaires, à modifier les caractéristiques techniques de la production, des produits, moyens et services à mettre en oeuvre et si ces modifications devaient avoir une incidence sur les éléments pris en compte pour le calcul de la rémunération et sur celle-ci, ces modifications feront l'objet d'une notification à l'éleveur, puis d'un avenant au contrat signé des parties et applicable, sauf accord contraire, à compter de la mise en place de la première bande qui suit cette date de signature.
