@@ -43,6 +43,7 @@
 - [Arrêté du 10 janvier 2001 (ECOA0020016A)](arrete-du-10-janvier-2001-ecoa0020016a)
 - [Arrêté du 11 décembre 2000 (EQUT0001915A)](arrete-du-11-decembre-2000-equt0001915a)
 - [Arrêté du 11 janvier 2001 (INTE0100026A)](arrete-du-11-janvier-2001-inte0100026a)
+- [Arrêté du 12 décembre 2000 (ATEN0090478A)](arrete-du-12-decembre-2000-aten0090478a)
 - [Arrêté du 12 janvier 2001 (FPPA0000147A)](arrete-du-12-janvier-2001-fppa0000147a)
 - [Arrêté du 12 janvier 2001 (INTE0100041A)](arrete-du-12-janvier-2001-inte0100041a)
 - [Arrêté du 13 décembre 2000 (ECOP0000937A)](arrete-du-13-decembre-2000-ecop0000937a)

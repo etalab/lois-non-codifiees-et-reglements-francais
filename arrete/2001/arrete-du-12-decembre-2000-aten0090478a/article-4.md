@@ -1,0 +1,3 @@
+# Article 4
+
+En dérogation aux dispositions du premier alinéa de l'article 1er, les personnes qui justifient d'une expérience d'au moins trois ans en matière d'élevage professionnel d'animaux d'espèces domestiques ou d'élevage d'agrément d'animaux d'espèces ou de groupes d'espèces non domestiques faisant l'objet de la demande peuvent présenter une demande de certificat de capacité pour l'activité d'élevage s'ils possèdent une expérience d'au moins deux mois acquise dans les conditions prévues aux deuxième et troisième alinéas de l'article 1er ou, si la demande est sollicitée pour l'élevage d'agrément uniquement, s'ils ont suivi une formation répondant aux conditions décrites à l'annexe II du présent arrêté.
