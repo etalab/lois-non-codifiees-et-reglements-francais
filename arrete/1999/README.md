@@ -85,7 +85,6 @@
 - [Arrêté du 4 août 1999 (EQUS9901154A)](arrete-du-4-aout-1999-equs9901154a)
 - [Arrêté du 4 août 1999 (INTM9900024A)](arrete-du-4-aout-1999-intm9900024a)
 - [Arrêté du 4 décembre 1998 (ECOI9801042A)](arrete-du-4-decembre-1998-ecoi9801042a)
-- [Arrêté du 4 février 1999 (ECOA9838004A)](arrete-du-4-fevrier-1999-ecoa9838004a)
 - [Arrêté du 4 février 1999 (INTE9900075A)](arrete-du-4-fevrier-1999-inte9900075a)
 - [Arrêté du 4 février 1999 (INTE9900076A)](arrete-du-4-fevrier-1999-inte9900076a)
 - [Arrêté du 4 février 1999 (INTE9900077A)](arrete-du-4-fevrier-1999-inte9900077a)
