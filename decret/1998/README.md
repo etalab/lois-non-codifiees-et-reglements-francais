@@ -883,7 +883,6 @@
 - [Décret n°98-420 du 27 mai 1998 (AGRD9800725D)](decret-n98-420-du-27-mai-1998-agrd9800725d)
 - [Décret n°98-428 du 27 mai 1998 (MENF9801003D)](decret-n98-428-du-27-mai-1998-menf9801003d)
 - [Décret n°92-872 du 28 août 1992 (INTB9200384D)](decret-n92-872-du-28-aout-1992-intb9200384d)
-- [Décret n°98-1200 du 28 décembre 1998 (MESS9823870D)](decret-n98-1200-du-28-decembre-1998-mess9823870d)
 - [Décret n°98-1201 du 28 décembre 1998 (MESF9811371D)](decret-n98-1201-du-28-decembre-1998-mesf9811371d)
 - [Décret n°98-1202 du 28 décembre 1998 (JUSA9800334D)](decret-n98-1202-du-28-decembre-1998-jusa9800334d)
 - [Décret n°98-1203 du 28 décembre 1998 (JUSD9830147D)](decret-n98-1203-du-28-decembre-1998-jusd9830147d)
