@@ -19,3 +19,5 @@ Lorsqu'un ou plusieurs stages supplémentaires sont effectués en application de
 3° Le cas échéant, des indemnités liées au service des gardes et d'astreintes selon des modalités fixées par arrêté des ministres chargés de l'intérieur, du budget, de la sécurité sociale et de la santé.
 
 4° Des indemnités pour participation, en dehors des obligations de service, à des enseignements et aux jurys de concours, à l'enseignement et à la formation des personnels des établissements hospitaliers. Le montant et les conditions d'attribution de ces indemnités sont fixés par arrêté des ministres chargés du budget, de l'éducation nationale et de la santé.
+
+5° Le remboursement de ses frais de déplacements temporaires, dans les conditions prévues par la réglementation applicable en la matière aux personnels relevant de la fonction publique hospitalière, dès lors qu'il est chargé d'accompagner des malades.
