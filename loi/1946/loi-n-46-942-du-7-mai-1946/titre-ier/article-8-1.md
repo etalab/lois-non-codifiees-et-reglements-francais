@@ -1,0 +1,21 @@
+# Article 8-1
+
+I. La qualité de membre de l'ordre n'est pas incompatible avec l'exercice, à titre accessoire ou occasionnel, d'une activité d'entremise immobilière. Toutefois, cette activité ne doit pas représenter plus du quart de la rémunération totale du géomètre-expert ou de la société de géomètres-experts. Elle ne peut, en aucun cas, s'exercer simultanément sur la même opération avec les missions mentionnées au 1° de l'article 1er par le géomètre-expert ou la société de géomètres-experts et elle ne doit pas être liée à l'une des opérations d'aménagement foncier mentionnées à l'article L. 121-1 du code rural et confiée au géomètre-expert ou à la société de géomètres-experts par une collectivité publique.
+
+Les géomètres-experts et les sociétés de géomètres-experts peuvent, en outre, se livrer à une activité accessoire de gestion immobilière qui, à elle seule ou cumulée à une activité d'entremise, ne doit pas représenter plus de la moitié de la rémunération totale du géomètre-expert ou de la société de géomètres-experts.
+
+Les géomètres-experts et les sociétés de géomètres-experts doivent être autorisés par l'ordre à exercer les activités d'entremise et de gestion immobilières ou l'une seulement de ces activités. Ils sont soumis, sous la surveillance et le contrôle disciplinaire de l'ordre, aux règles édictées par le code des devoirs professionnels et le règlement de la profession de géomètre-expert, notamment en matière de déontologie, de qualification, d'assurance professionnelle et de contenu des conventions de mandat.
+
+Toute infraction aux dispositions du présent article rend le géomètre-expert ou la société de géomètres-experts concerné passible des poursuites et des peines disciplinaires prévues aux articles 23 et suivants. En outre, le conseil régional de l'ordre peut retirer immédiatement l'autorisation d'exercer l'une ou l'autre des activités autorisées par le présent article.
+
+Les décisions de refus ainsi que les retraits d'autorisation d'exercer une activité immobilière sont, dans un délai de deux mois, susceptibles de recours devant le conseil supérieur qui statue dans les quatre mois. Ce recours n'a pas d'effet suspensif.
+
+II. Le géomètre-expert ou la société de géomètres-experts doit tenir, pour les opérations relevant de ces deux activités, une comptabilité distincte.
+
+Le règlement de la profession précise les conditions dans lesquelles les géomètres-experts et sociétés de géomètres-experts reçoivent des fonds, effets ou valeurs pour le compte de leurs clients, les déposent exclusivement dans une caisse créée à cette fin par le conseil supérieur de l'ordre et en effectuent le règlement. Cette caisse est placée sous la responsabilité du président du conseil supérieur de l'ordre des géomètres-experts qui peut à tout moment avoir communication de la comptabilité relative aux opérations immobilières.
+
+Toutefois, ces dispositions ne font pas obstacle à l'application de la loi n° 65-557 du 10 juillet 1965 fixant le statut de la copropriété des immeubles bâtis, notamment de son article 18. Dans cette hypothèse, les géomètres-experts et sociétés de géomètres-experts doivent en faire la déclaration à ladite caisse.    Le remboursement intégral de ces fonds, effets ou valeurs doit être garanti par une assurance au profit de qui il appartiendra, contractée par l'ordre qui fixe le barème de la cotisation destinée à couvrir tout ou partie du coût de cette assurance et en assure le recouvrement auprès des géomètres-experts et sociétés de géomètres-experts autorisés à exercer l'activité accessoire d'entremise immobilière ou l'activité accessoire de gestion immobilière.
+
+Le défaut de paiement de la cotisation destinée à couvrir tout ou partie du coût de l'assurance mentionnée à l'alinéa précédent est sanctionné comme en matière de défaut d'assurance de responsabilité civile professionnelle.
+
+Un décret en Conseil d'Etat fixe les conditions d'application du présent article, notamment les modalités de détermination de la rémunération mentionnée aux deux premiers alinéas du I ci-dessus, ainsi que le délai dans lequel les géomètres-experts exerçant actuellement une activité de gestion immobilière seront tenus de se mettre en conformité avec ces dispositions.

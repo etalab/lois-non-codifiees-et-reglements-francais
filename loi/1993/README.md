@@ -10,6 +10,7 @@
 - [Loi n° 93-1180 du 22 octobre 1993 (MAEX9300088L)](loi-n-93-1180-du-22-octobre-1993-maex9300088l)
 - [Loi n° 93-1181 du 22 octobre 1993 (MAEX9300089L)](loi-n-93-1181-du-22-octobre-1993-maex9300089l)
 - [Loi n° 93-121 du 27 janvier 1993 (SPSX9200178L)](loi-n-93-121-du-27-janvier-1993-spsx9200178l)
+- [Loi n° 93-122 du 29 janvier 1993 (PRMX9200148L)](loi-n-93-122-du-29-janvier-1993-prmx9200148l)
 - [Loi n° 93-1275 du 2 décembre 1993 (MAEX9300113L)](loi-n-93-1275-du-2-decembre-1993-maex9300113l)
 - [Loi n° 93-1282 du 6 décembre 1993 (MJSX9300141L)](loi-n-93-1282-du-6-decembre-1993-mjsx9300141l)
 - [Loi n° 93-1283 du 6 décembre 1993 (EQUX9300102L)](loi-n-93-1283-du-6-decembre-1993-equx9300102l)
