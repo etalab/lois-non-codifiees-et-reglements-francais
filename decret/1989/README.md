@@ -135,6 +135,7 @@
 - [Décret n°89-599 du 28 août 1989 (EQUL8900648D)](decret-n89-599-du-28-aout-1989-equl8900648d)
 - [Décret n°89-713 du 28 septembre 1989 (MCCB8900404D)](decret-n89-713-du-28-septembre-1989-mccb8900404d)
 - [Décret n°86-136 du 29 janvier 1986](decret-n86-136-du-29-janvier-1986)
+- [Décret n°89-187 du 29 mars 1989 (ECOS8950027D)](decret-n89-187-du-29-mars-1989-ecos8950027d)
 - [Décret n°90-538 du 29 juin 1990 (INTC9000140D)](decret-n90-538-du-29-juin-1990-intc9000140d)
 - [Décret n°88-1211 du 30 décembre 1988 (BUDB8860061D)](decret-n88-1211-du-30-decembre-1988-budb8860061d)
 - [Décret n°88-1225 du 30 décembre 1988 (MERE8800031D)](decret-n88-1225-du-30-decembre-1988-mere8800031d)
