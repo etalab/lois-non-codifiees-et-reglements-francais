@@ -1,6 +1,6 @@
 # Article 2
 
-L'administrateur général de l'Etablissement public du musée du Louvre est nommé par arrêté du ministre chargé de la culture après avis du président de l'établissement.
+L'administrateur général de l'Etablissement public du musée du Louvre est nommé par arrêté du ministre chargé de la culture sur proposition du président de l'établissement.
 
 Peuvent être nommés administrateur général de l'Etablissement public du musée du Louvre :
 

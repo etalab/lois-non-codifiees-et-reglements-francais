@@ -1,16 +1,18 @@
 # Article 13
 
-Le conseil d'administration comprend dix-huit membres :
+Le conseil d'administration comprend dix-neuf membres :
 
 1° Le président de l'établissement ;
 
-2° Trois représentants de l'Etat :
+2° Quatre représentants de l'Etat :
 
-- le directeur des musées de France ou son représentant ;
+a) Le directeur des musées de France ou son représentant ;
 
-- le directeur de l'administration générale du ministère chargé de la culture ou son représentant ;
+b) Le directeur de l'architecture et du patrimoine ou son représentant ;
 
-- le directeur du budget ou son représentant ;
+c) Le directeur de l'administration générale du ministère chargé de la culture ou son représentant ;
+
+d) Le directeur du budget au ministère chargé du budget ou son représentant ;
 
 3° L'administrateur général de la Réunion des musées nationaux ou son représentant ;
 

@@ -8,7 +8,7 @@ Le conseil d'administration règle par ses délibérations les affaires de l'ét
 
 3° Il approuve le rapport annuel d'activité ;
 
-4° Il délibère sur la politique tarifaire de l'établissement et fixe les droits d'entrée et les tarifs des prestations annexes ;
+4° Il délibère sur la politique tarifaire de l'établissement et fixe les droits d'entrée et les tarifs des prestations annexes et des redevances dues à raison des autorisations d'occupation temporaire des immeubles remis en dotation à l'établissement public ;
 
 5° Il vote le budget et ses modifications dans les conditions prévues à l'article 18 ci-après ;
 
@@ -26,10 +26,12 @@ Le conseil d'administration règle par ses délibérations les affaires de l'ét
 
 12° Il délibère sur les conditions dans lesquelles les espaces des musées sont occupés par des organismes extérieurs pour des manifestations exceptionnelles ;
 
-13° Il donne son avis sur le règlement intérieur de l'établissement et le règlement de visite des musées ;
+13° Il donne son avis sur le règlement intérieur de l'établissement et le règlement de visite des musées et du jardin des Tuileries ;
 
 14° Il autorise l'exercice des actions en justice et les transactions. Il peut, dans les conditions qu'il détermine, déléguer cette attribution au président ;
 
 15° Il détermine les conditions générales d'emploi et de rémunération des agents contractuels ;
 
-16° Il approuve les conventions passées par l'établissement avec la Réunion des musées nationaux en application des dispositions de l'article 3.
+16° Il approuve les conventions passées par l'établissement avec la Réunion des musées nationaux en application des dispositions de l'article 3 ;
+
+17° Il approuve le règlement d'utilisation du jardin des Tuileries pour des occupations temporaires.

@@ -18,7 +18,7 @@ Le président dirige l'établissement public. A ce titre :
 
 8° Il décide, au nom du ministre chargé de la culture, des acquisitions réalisées dans les conditions prévues à l'article 4-1 ; sous réserve des dispositions des articles L. 15 et L. 19 du code du domaine de l'Etat, il accepte les dons et legs faits pour les acquisitions ;
 
-9° Il signe les contrats et conventions engageant l'établissement ; il est la personne responsable des marchés ;
+9° Il signe les contrats et conventions engageant l'établissement ; il est la personne responsable des marchés il peut, dans les conditions qu'il détermine, déléguer ces attributions à l'administrateur général de l'établissement ainsi qu'à deux des responsables des services de cet établissement ;
 
 10° Il conclut les transactions et passe les actes d'acquisition, d'échanges et de vente concernant les immeubles, autorisés dans les conditions prévues à l'article 17 ;
 
