@@ -1,6 +1,6 @@
 # Article 9
 
-L'indemnité de résidence est allouée aux agents mentionnés à l'article 1er du présent décret sur la base de leur traitement soumis aux retenues pour pension, en fonction de l'un des taux fixés ci-après.
+L'indemnité de résidence est allouée aux agents mentionnés à l'article 1er du présent décret titulaires d'un grade ou occupant un emploi auquel est directement attaché un indice de la fonction publique appartenant à l'une des catégorie mentionnées à l'article 4 du présent décret. Cette indemnité est calculée sur la base de leur traitement soumis aux retenues pour pension, en fonction de l'un des taux fixés ci-après.
 
 Les agents dont le traitement est inférieur ou égal à celui correspondant à l'indice majoré 283 (indice brut 308) perçoivent l'indemnité de résidence afférente à cet indice.
 
