@@ -32,6 +32,7 @@
 - [Décret n°2004-657 du 2 juillet 2004 (MJSK0470061D)](decret-n2004-657-du-2-juillet-2004-mjsk0470061d)
 - [Décret n°2004-933 du 2 septembre 2004 (SOCU0411373D)](decret-n2004-933-du-2-septembre-2004-socu0411373d)
 - [Décret n°2004-934 du 2 septembre 2004 (JUSC0420659D)](decret-n2004-934-du-2-septembre-2004-jusc0420659d)
+- [Décret n°2004-943 du 2 septembre 2004 (SOCX0400102D)](decret-n2004-943-du-2-septembre-2004-socx0400102d)
 - [Décret n°2004-953 du 2 septembre 2004 (DEFP0400852D)](decret-n2004-953-du-2-septembre-2004-defp0400852d)
 - [Décret n°2005-919 du 2 août 2005 (SANH0520460D)](decret-n2005-919-du-2-aout-2005-sanh0520460d)
 - [Décret n°2005-924 du 2 août 2005 (SANH0520641D)](decret-n2005-924-du-2-aout-2005-sanh0520641d)

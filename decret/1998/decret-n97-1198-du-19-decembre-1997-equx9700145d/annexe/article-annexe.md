@@ -416,6 +416,22 @@ Retrait d'agrément, sanction envers les organismes HLM qui recueillent la parti
 
 Article R. 313-22.
 
+9
+
+Agrément d'une société anonyme de coordination d'organismes d'habitations à loyer modéré.
+
+Article R. 423-86
+
+10
+
+Agrément spécial d'une société anonyme de coordination d'organismes d'habitations à loyer modéré aux fins d'exercer certaines des compétences mentionnées aux alinéas troisième et suivants de l'article L. 422-2.
+
+Article R. 423-87
+
+11
+
+Décisions concernant une société anonyme de coordination d'organismes d'habitations à loyer modéré et relatives au retrait temporaire d'une ou plusieurs compétences, à la suspension ou à la révocation d'un membre du conseil d'administration, du conseil de surveillance ou du directoire, à l'interdiction de participer au conseil d'administration, au conseil de surveillance ou au directoire d'un organisme d'habitation à loyer modéré, à la suspension du conseil d'administration, du conseil de surveillance ou du directoire, à la nomination d'un administrateur provisoire ainsi qu'à la cessation de la mission confiée à ce dernier, à la dissolution et à la liquidation de la société, à la nomination d'un liquidateur. Autorisation de procéder à une attribution d'actifs selon les modalités prévues au premier alinéa de l'article L. 422-11.
+
 Mesures prises par le ministre chargé des transports
 
 Décret n° 2001-386 du 3 mai 2001 relatif aux équipements sous pression transportables et pris pour l'application du 1° de l'article 2 du décret n° 97-34 du 15 janvier 1997 relatif à la déconcentration des décisions administratives individuelles
@@ -842,6 +858,28 @@ Articles L. 424-1, L. 424-2, et D. 424-2.
 
 Autorisation d'un régime répartissant le temps de vol et d'arrêt du personnel navigant sur une autre période de temps que celles prévues au code de l'aviation civile.
 
+Article R. 423-88
+
+Article 8.
+
+C. - Autres décisions
+
+1
+
+Décisions relatives à l'exécution des décisions de justice.
+
+2
+
+Décisions relatives au règlement amiable des litiges résultant de l'activité des services du ministère.
+
+3
+
+Décisions relatives aux personnes morales placées sous la tutelle ou le contrôle de l'Etat autres que celles mentionnées au 3° de l'annexe au décret pris pour l'application à l'ensemble des ministères du 1° de l'article 2, du décret n° 97-34 du 15 janvier 1997 relatif à la déconcentration des décisions administratives individuelles.
+
+4
+
+Contributions financières à la recherche et au développement.
+
 Article R. 422-6.
 
 Décret n° 97-999 du 29 octobre 1997, article 23.
@@ -881,23 +919,3 @@ Décret n° 82-453 du 28 mai 1982 modifié relatif à l'hygiène et à la sécur
 1
 
 Agrément de certains organismes chargés de dispenser une formation en matière d'hygiène et de sécurité aux représentants des personnels siégeant aux comités d'hygiène et de sécurité.
-
-Article 8.
-
-C. - Autres décisions
-
-1
-
-Décisions relatives à l'exécution des décisions de justice.
-
-2
-
-Décisions relatives au règlement amiable des litiges résultant de l'activité des services du ministère.
-
-3
-
-Décisions relatives aux personnes morales placées sous la tutelle ou le contrôle de l'Etat autres que celles mentionnées au 3° de l'annexe au décret pris pour l'application à l'ensemble des ministères du 1° de l'article 2, du décret n° 97-34 du 15 janvier 1997 relatif à la déconcentration des décisions administratives individuelles.
-
-4
-
-Contributions financières à la recherche et au développement.
