@@ -576,6 +576,7 @@
 - [Décret n°2002-1163 du 13 septembre 2002 (SOCF0211253D)](decret-n2002-1163-du-13-septembre-2002-socf0211253d)
 - [Décret n°2002-1164 du 13 septembre 2002 (MENF0201969D)](decret-n2002-1164-du-13-septembre-2002-menf0201969d)
 - [Décret n°2002-1343 du 13 novembre 2002 (JUSB0210579D)](decret-n2002-1343-du-13-novembre-2002-jusb0210579d)
+- [Décret n°2002-1359 du 13 novembre 2002 (EQUT0201560D)](decret-n2002-1359-du-13-novembre-2002-equt0201560d)
 - [Décret n°2002-178 du 13 février 2002 (RECF0200039D)](decret-n2002-178-du-13-fevrier-2002-recf0200039d)
 - [Décret n°2002-179 du 13 février 2002 (ECOR0105009D)](decret-n2002-179-du-13-fevrier-2002-ecor0105009d)
 - [Décret n°2002-180 du 13 février 2002 (MESS0220379D)](decret-n2002-180-du-13-fevrier-2002-mess0220379d)
