@@ -253,6 +253,7 @@
 - [Arrêté du 27 décembre 1994 (MENL9402158A)](arrete-du-27-decembre-1994-menl9402158a)
 - [Arrêté du 27 décembre 1994 (RESK9400925A)](arrete-du-27-decembre-1994-resk9400925a)
 - [Arrêté du 27 décembre 1994 (RESR9401964A)](arrete-du-27-decembre-1994-resr9401964a)
+- [Arrêté du 27 décembre 1994 (SANP9500019A)](arrete-du-27-decembre-1994-sanp9500019a)
 - [Arrêté du 27 décembre 1994 (SANP9500260A)](arrete-du-27-decembre-1994-sanp9500260a)
 - [Arrêté du 27 décembre 1994 (SPSS9403979A)](arrete-du-27-decembre-1994-spss9403979a)
 - [Arrêté du 27 décembre 1994 (TEFS9401330A)](arrete-du-27-decembre-1994-tefs9401330a)

@@ -132,9 +132,11 @@ Il est licite pour le chirurgien de faire éventuellement état de deux de ces c
 
 - la chirurgie thoracique ;
 
-- l'endocrinologie et maladies métaboliques .
+- l'endocrinologie et maladies métaboliques ;
 
-- dermatologie - vénéréologie.
+- la dermatologie - vénéréologie ;
+
+- la rhumatologie ;
 
 L'exercice de cette compétence est limitée à la discipline dans laquelle le praticien a été qualifié spécialiste.
 

@@ -9,6 +9,7 @@
 - [Titre VII : Condition d'ouverture des droits à congé.](titre-vii)
 - [Titre VIII : Condition de réemploi](titre-viii)
 - [Titre IX : Travail à temps partiel](titre-ix)
+- [Titre IX bis : Cessation progressive d'activité.](titre-ix-bis)
 - [Titre X : Discipline.](titre-x)
 - [Titre XI : Fin du contrat - Licenciement](titre-xi-fin)
 - [Titre XII : Indemnité de licenciement](titre-xii)
