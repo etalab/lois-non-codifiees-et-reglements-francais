@@ -320,7 +320,6 @@
 - [Arrêté du 14 mai 2004 (SANY0421742A)](arrete-du-14-mai-2004-sany0421742a)
 - [Arrêté du 15 avril 2004 (MCCF0400369A)](arrete-du-15-avril-2004-mccf0400369a)
 - [Arrêté du 15 février 2005 (BUDF0426168A)](arrete-du-15-fevrier-2005-budf0426168a)
-- [Arrêté du 15 janvier 2004 (SANP0420224A)](arrete-du-15-janvier-2004-sanp0420224a)
 - [Arrêté du 15 juillet 2004 (JUSF0450090A)](arrete-du-15-juillet-2004-jusf0450090a)
 - [Arrêté du 15 juillet 2004 (JUSF0450091A)](arrete-du-15-juillet-2004-jusf0450091a)
 - [Arrêté du 15 juillet 2004 (SANG0422626A)](arrete-du-15-juillet-2004-sang0422626a)
