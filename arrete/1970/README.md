@@ -23,7 +23,6 @@
 - [Arrêté du 12 juin 1970](arrete-du-12-juin-1970)
 - [Arrêté du 12 mai 1970](arrete-du-12-mai-1970)
 - [Arrêté du 13 janvier 1970](arrete-du-13-janvier-1970)
-- [Arrêté du 14 mars 1970](arrete-du-14-mars-1970)
 - [Arrêté du 15 décembre 1969](arrete-du-15-decembre-1969)
 - [Arrêté du 15 juillet 1970](arrete-du-15-juillet-1970)
 - [Arrêté du 15 octobre 1970](arrete-du-15-octobre-1970)
