@@ -1,0 +1,5 @@
+# Article 3
+
+A l'exception des dispositions prévues à l'article 2 du présent décret, les dispositions du décret du 24 février 1986 susvisé sont applicables aux élèves et anciens élèves de l'Ecole nationale d'administration dont la date de début de scolarité dans cette école est antérieure au 1er janvier 1999.
+
+Toutefois, les anciens élèves de l'Ecole nationale d'administration recrutés par la voie du concours interne antérieurement à cette date et placés, lors de leur nomination ou postérieurement à celle-ci, à un échelon comportant un traitement égal ou immédiatement supérieur à celui dont ils bénéficiaient dans leur corps d'origine ne pourront percevoir une indemnité forfaitaire mensuelle dans les conditions prévues par ledit décret que si le montant de celle-ci est supérieur au montant de l'indemnité compensatrice qu'ils auraient perçue, en application du décret du 4 août 1947 susvisé, sur la base du traitement budgétaire afférent au 3e échelon du premier grade de leur nouveau corps.
