@@ -13,6 +13,7 @@
 - [Arrêté du 23 avril 1975](arrete-du-23-avril-1975)
 - [Arrêté du 24 décembre 1974](arrete-du-24-decembre-1974)
 - [Arrêté du 24 janvier 1975](arrete-du-24-janvier-1975)
+- [Arrêté du 25 février 1975](arrete-du-25-fevrier-1975)
 - [Arrêté du 27 juillet 1972](arrete-du-27-juillet-1972)
 - [Arrêté du 27 novembre 1974](arrete-du-27-novembre-1974)
 - [Arrêté du 29 juillet 1976](arrete-du-29-juillet-1976)

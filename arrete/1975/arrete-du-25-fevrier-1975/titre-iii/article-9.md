@@ -1,0 +1,3 @@
+# Article 9
+
+Après tout traitement, les emballages vides doivent être rendus non réutilisables puis détruits par incinération ou enterrés ; les reliquats de poudres doivent être enfouis et les reliquats de spécialités liquides et de bouillies ainsi que les eaux résiduelles doivent être versés dans des trous creusés à une profondeur d'environ 30 centimètres, puis recouverts de terre. Aucune de ces opérations ne doit être exécutée à moins de 50 mètres d'une source ou d'un puits ainsi que de tout cours d'eau ou amas d'eau quel qu'il soit. Tout déversement dans les lieux prévus à l'article 2 et dans les réseaux d'égouts est rigoureusement interdit.
