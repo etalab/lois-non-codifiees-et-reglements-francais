@@ -8,12 +8,8 @@ Le jury établit la liste des candidats ayant validé les quatre épreuves du ce
 
 L'ensemble du certificat d'aptitude doit être validé dans une période de cinq ans. Le candidat qui a validé au moins les épreuves correspondant aux UF 2 et 3 conserve cette validation pendant 10 ans s'il a exercé des fonctions d'encadrement dans un secteur qui reconnaît cette validation par accord collectif de branche.
 
-Pendant une période de trois ans à compter de la publication du présent arrêté, les candidats qui ont obtenu le certificat de formation de cadre de l'intervention sociale bénéficient de la validation automatique des domaines de compétences suivants :
+I. - Ouvrent droit à la validation automatique d'un ou plusieurs domaines de compétences du certificat d'aptitude aux fonctions d'encadrement et de responsable d'unité d'intervention sociale les certifications homologuées ou enregistrées au répertoire national des certifications professionnelles au moins au niveau II à la date de publication du présent arrêté ou les certificats délivrés à la suite d'une formation organisée dans un cadre national et listés en annexe IV du présent arrêté.
 
-- expertise technique ;
+La liste de ces certifications ou certificat de formation est fixée après avis de la commission professionnelle consultative du travail social et de l'intervention sociale. L'examen de la commission professionnelle consultative du travail social et de l'intervention sociale porte sur les conditions d'accès à la formation, les objectifs de la formation, et notamment son caractère intersectoriel, la durée, l'organisation et le contenu de la formation ainsi que sur les modes de validation.
 
-- management d'équipe ;
-
-- organisation du travail, gestion administrative et budgétaire d'une unité ou d'un service ;
-
-- communication, interface et gestion de partenariat.
+II. - Pendant une période de trois ans à compter de la date de publication du présent arrêté, les candidats qui ont obtenu une certification ou un certificat de formation inscrit à l'annexe susvisée peuvent demander à bénéficier de la disposition de validation automatique correspondante.
