@@ -4,7 +4,7 @@
 
 a) 1re liste : emplois de directeur :
 
-L'inscription en première section requiert, outre les conditions fixées à l'article 7 précité, une durée minimale d'activité de 10 ans dans un emploi de cadre dans un ou plusieurs des organismes visés à l'article R. 111-1 du code de la sécurité sociale et soumis aux dispositions de l'article R. 123-45 du même code.
+La nomination aux emplois de directeur de la Caisse centrale de la mutualité sociale agricole est prononcée dans les conditions prévues à l'article R. 123-47-3 du code de la sécurité sociale.
 
 b) 2e liste : emplois de directeur adjoint :
 
