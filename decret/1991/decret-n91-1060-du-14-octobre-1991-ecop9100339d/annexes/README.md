@@ -7,4 +7,5 @@
 - [Article ANNEXE TABLEAU VI](article-annexe-tableau-vi.md)
 - [Article ANNEXE TABLEAU VII](article-annexe-tableau-vii.md)
 - [Article ANNEXE TABLEAU VIII](article-annexe-tableau-viii.md)
+- [Article ANNEXE TABLEAU IX](article-annexe-tableau-ix.md)
 - [Article ANNEXE TABLEAU X](article-annexe-tableau-x.md)
