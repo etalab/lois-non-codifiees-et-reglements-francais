@@ -1,3 +1,3 @@
-# Article 264
+# Article 26
 
 (texte abrogé).

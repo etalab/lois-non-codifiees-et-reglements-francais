@@ -1,3 +1,3 @@
-# Article 239
+# Article 28
 
 (texte abrogé).
