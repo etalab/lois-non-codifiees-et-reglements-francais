@@ -728,7 +728,6 @@
 - [Arrêté du 19 juillet 1994 (PARX9400318A)](arrete-du-19-juillet-1994-parx9400318a)
 - [Arrêté du 19 juillet 1994 (SPSS9401756A)](arrete-du-19-juillet-1994-spss9401756a)
 - [Arrêté du 19 novembre 1993 (AGRG9302196A)](arrete-du-19-novembre-1993-agrg9302196a)
-- [Arrêté du 19 octobre 1994 (ACVP9420008A)](arrete-du-19-octobre-1994-acvp9420008a)
 - [Arrêté du 19 octobre 1994 (COPC9400103A)](arrete-du-19-octobre-1994-copc9400103a)
 - [Arrêté du 19 octobre 1994 (INTC9400413A)](arrete-du-19-octobre-1994-intc9400413a)
 - [Arrêté du 19 octobre 1994 (INTC9400414A)](arrete-du-19-octobre-1994-intc9400414a)
