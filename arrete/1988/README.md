@@ -3,6 +3,7 @@
 - [Arrêté du 1 juin 1987 (ASET8703409A)](arrete-du-1-juin-1987-aset8703409a)
 - [Arrêté du 2 février 1988 (BUDF8700009A)](arrete-du-2-fevrier-1988-budf8700009a)
 - [Arrêté du 2 février 1988 (PRMG8805007A)](arrete-du-2-fevrier-1988-prmg8805007a)
+- [Arrêté du 2 février 1988 (REFC8800005A)](arrete-du-2-fevrier-1988-refc8800005a)
 - [Arrêté du 3 février 1988 (BUDR8803022A)](arrete-du-3-fevrier-1988-budr8803022a)
 - [Arrêté du 3 février 1988 (BUDR8803023A)](arrete-du-3-fevrier-1988-budr8803023a)
 - [Arrêté du 3 février 1988 (TRST8700341A)](arrete-du-3-fevrier-1988-trst8700341a)
