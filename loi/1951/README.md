@@ -1,6 +1,7 @@
 # 1951
 
 - [Loi n° 47-1550 du 20 août 1947](loi-n-47-1550-du-20-aout-1947)
+- [Loi n° 51-1059 du 1 septembre 1951](loi-n-51-1059-du-1-septembre-1951)
 - [Loi n° 51-144 du 11 février 1951](loi-n-51-144-du-11-fevrier-1951)
 - [Loi n° 51-18 du 5 janvier 1951](loi-n-51-18-du-5-janvier-1951)
 - [Loi n° 51-214 du 27 février 1951](loi-n-51-214-du-27-fevrier-1951)
