@@ -1,3 +1,3 @@
 # Article 11
 
-Les dispositions du présent décret pourront être étendues aux autres départements français par des décrets rendus sur la proposition du ministre des travaux publics et du ministre de l'intérieur, qui fixeront dans chaque cas la profondeur au-delà de laquelle aucun sondage ni forage ne pourra être entrepris sans autorisation [*champ d'application*].
+Dès qu'il a eu connaissance de ces fautes, le syndic doit adresser un rapport au juge-commissaire qui dénonce les faits au président du tribunal de commerce ; celui-ci en informe le procureur de la République et saisit, s'il y a lieu, le tribunal qui, dans ce cas, convoque, par lettres recommandées [*conditions de forme*], envoyées par le greffier huit jours au moins à l'avance [*délai*], les intéressés et le syndic à comparaître devant lui.
