@@ -61,6 +61,7 @@
 - [Arrêté du 15 juin 1984](arrete-du-15-juin-1984)
 - [Arrêté du 15 mars 1978](arrete-du-15-mars-1978)
 - [Arrêté du 15 mars 1984](arrete-du-15-mars-1984)
+- [Arrêté du 16 août 1984](arrete-du-16-aout-1984)
 - [Arrêté du 16 février 1984](arrete-du-16-fevrier-1984)
 - [Arrêté du 16 juillet 1984](arrete-du-16-juillet-1984)
 - [Arrêté du 16 novembre 1983](arrete-du-16-novembre-1983)
