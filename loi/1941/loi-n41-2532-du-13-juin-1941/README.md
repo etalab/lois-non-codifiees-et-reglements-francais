@@ -2,4 +2,3 @@
 
 - [Titre Ier : De la réglementation de la profession bancaire](titre-ier)
 - [Titre II : Du comité permanent d'organisation professionnelle](titre-ii)
-- [Titre III : De la commission de contrôle des banques](titre-iii)

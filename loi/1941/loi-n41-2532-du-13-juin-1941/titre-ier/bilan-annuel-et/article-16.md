@@ -1,7 +1,0 @@
-# Article 16
-
-Toutes les banques doivent terminer leur exercice social au 31 décembre [*date de clôture*]. Elles doivent établir à cette date des comptes annuels comprenant un bilan et un compte de profits et pertes [*comptabilité*], selon des formules types dressées par la commission de contrôle des banques. Les bilans doivent être certifiés conformes par un ou plusieurs commissaires inscrits sur la liste prévue par le décret n° 69-810 du 12 août 1969. Lorsque les banques revêtent la forme de sociétés par actions, le nombre de ces commissaires est fixé conformément aux dispositions des articles 223 et 251 de la loi n° 66-537 du 24 juillet 1966.
-
-Les banques doivent, en outre, établir en cours d'année des situations périodiques de leur actif et de leur passif, aux dates fixées par la commission de contrôle des banques et selon des formules types, dressées par celle-ci. La commission de contrôle des banques désigne les banques qui, en raison de l'importance de leurs opérations, doivent établir ces situations chaque mois ; les situations sont établies tous les trois mois pour les autres banques.    Le bilan et les situations périodiques sont adressés à la commission de contrôle [*des banques - attributions*] dans les délais fixés par elle [*communication*].
-
-Dans les banques constituées sous la forme de sociétés par actions, l'assemblée des actionnaires doit être tenue avant le 31 mai [*date limite*] afin d'examiner les comptes de l'exercice écoulé. Toutefois, des délais supplémentaires peuvent être accordés par la commission de contrôle des banques.

@@ -1,7 +1,0 @@
-# Article 37
-
-Toutes les décisions [*de caractère général ou de caractère individuel*] du comité d'organisation sont notifiées à la commission de contrôle [*des banques - communication*]. En outre, celles qui ont un caractère général sont notifiées à l'association professionnelle intéressée et celles qui ont un caractère individuel le sont à l'entreprise ou à l'établissement qu'elles concernent et, le cas échéant, à l'association professionnelle dont cette entreprise ou cet établissement relève.
-
-Ces notifications ne peuvent être valablement faites qu'une fois expirés les délais dont dispose le commissaire du Gouvernement pour provoquer une seconde délibération ou, le cas échéant, pour opposer son veto, ou bien lorsque est intervenue l'approbation implicite ou explicite du ministre de l'économie et des finances si cette approbation est nécessaire.
-
-Dans les huit jours de la notification qui leur a été faite [*délai*], les intéressés peuvent exercer, devant leur commission de contrôle un recours en annulation contre les décisions [*de caractère individuel*] les concernant visées à l'article 34. Ce recours est notifié par lettre recommandée au président de la commission de contrôle [*conditions de forme*]. Il est suspensif. La commission de contrôle est tenue de statuer sur le recours dans le délai d'un mois à compter de la réception de la lettre recommandée. Sa décision, qui doit être motivée, est définitive.

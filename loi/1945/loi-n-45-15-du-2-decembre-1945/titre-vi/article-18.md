@@ -1,3 +1,0 @@
-# Article 18
-
-Nonobstant les dispositions des articles 7 et 8 qui précèdent, les actionnaires des banques de dépôts nationalisées seront réunis en assemblée générale, au cours de l'année 1946, sur la convocation du conseil en fonction jusqu'au 31 décembre 1945 [*date*], aux seules fins d'entendre les rapports du conseil et des commissaires, d'approuver les comptes de l'exercice 1945, de fixer le dividende de cet exercice, sans pouvoir toutefois distribuer aucune réserve, et de donner quitus de leur gestion aux administrateurs dont les pouvoirs prennent fin le 31 décembre 1945 [*dispositions transitoires - mesures d'application*].

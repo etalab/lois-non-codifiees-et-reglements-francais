@@ -3,6 +3,3 @@
 - [Titre Ier : Nationalisation de la banque de france.](titre-ier)
 - [Titre II : Des organismes de crédit.](titre-ii)
 - [Titre III : Nationalisation des grandes banques de dépôts.](titre-iii)
-- [Titre IV : Controle des banques d'affaires.](titre-iv)
-- [Titre V : Direction du crédit.](titre-v)
-- [Titre VI : Dispositions diverses.](titre-vi)
