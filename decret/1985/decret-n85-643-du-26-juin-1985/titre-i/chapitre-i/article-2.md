@@ -18,9 +18,7 @@ b) Les établissements publics communaux et intercommunaux qui ont leur siège d
 
 c) Le département et la région dont le chef-lieu se trouve dans le département ;
 
-d) Les établissements publics administratifs départementaux ou interdépartementaux et les syndicats mixtes groupant exclusivement des collectivités territoriales et leurs établissements publics administratifs qui ont leur siège dans le département ;
-
-e) Le centre départemental de gestion pour son propre personnel de catégories C et D ;
+d) Les établissements publics administratifs départementaux ou interdépartementaux, les syndicats mixtes groupant exclusivement des collectivités territoriales et leurs établissements publics administratifs qui ont leur siège dans le département, ainsi que le centre interdépartemental de formation ayant son siège dans le département.    e) Le centre départemental de gestion pour son propre personnel de catégories C et D ;
 
 f) Et, pour le centre départemental de gestion du département, chef-lieu de région, les établissements publics administratifs régionaux ou interrégionaux dont le siège se trouve dans la région, ainsi que le centre régional de formation.
 
