@@ -19,6 +19,7 @@
 - [Arrêté du 5 octobre 1987 (PRMJ8760074A)](arrete-du-5-octobre-1987-prmj8760074a)
 - [Arrêté du 6 janvier 1988 (ECOA8700117A)](arrete-du-6-janvier-1988-ecoa8700117a)
 - [Arrêté du 6 janvier 1988 (ECOC8700075A)](arrete-du-6-janvier-1988-ecoc8700075a)
+- [Arrêté du 6 janvier 1988 (INTB8800019A)](arrete-du-6-janvier-1988-intb8800019a)
 - [Arrêté du 7 décembre 1987 (CPTP8700007A)](arrete-du-7-decembre-1987-cptp8700007a)
 - [Arrêté du 7 janvier 1988 (ECOT8811014A)](arrete-du-7-janvier-1988-ecot8811014a)
 - [Arrêté du 8 décembre 1987 (ASES8701851A)](arrete-du-8-decembre-1987-ases8701851a)
