@@ -1,5 +1,5 @@
 # Article 89
 
-L'ordonnance n° 45-1483 du 30 juin 1945, relative aux prix, s'applique aux établissements de crédit pour ce qui est de leurs activités définies à l'article 7 de la présente loi.
+L'ordonnance n° 86-1243 du 1er décembre 1986 relative à la liberté des prix et de la concurrence s'applique aux établissements de crédit pour ce qui est de leurs activités définies aux articles 7 et 8.
 
-Les articles 50 et 51 de ladite ordonnance s'appliquent aux établissements de crédit pour leurs opérations de banque. Les infractions à ces dispositions sont constatées et sanctionnées par dérogation à l'article 45 de la présente loi dans les conditions fixées aux articles 37-3°, 52 à 54 et 56 à 59 de l'ordonnance.
+Les articles 7 à 10 de l'ordonnance n° 86-1243 du 1er décembre 1986 relative à la liberté des prix et de la concurrence s'appliquent aux établissements de crédit pour leurs opérations de banque. les infractions à ces dispositions sont constatées, poursuivies et sanctionnées, par dérogation à l'article 45 de la présente loi, dans les conditions fixées par les titres III et VI de ladite ordonnance.

@@ -48,4 +48,3 @@
 - [Loi n°77-683 du 30 juin 1977](loi-n77-683-du-30-juin-1977)
 - [Loi n°77-771 du 12 juillet 1977](loi-n77-771-du-12-juillet-1977)
 - [Loi n°77-804 du 19 juillet 1977](loi-n77-804-du-19-juillet-1977)
-- [Loi n°77-806 du 19 juillet 1977](loi-n77-806-du-19-juillet-1977)
