@@ -7,3 +7,5 @@ Les modalités de calcul de ces redevances sont précisées, après avis du mini
 Par dérogation aux dispositions de l'alinéa précédent, les redevances de mise à disposition et de gestion des fréquences radioélectriques dues en 1997 par France Télécom sont fixées avant le 31 décembre 1996 par arrêté du ministre chargé des télécommunications, après avis du ministre chargé du budget.
 
 Par dérogation aux dispositions du deuxième alinéa, les redevances de mise à disposition et de gestion des fréquences radioélectriques dues en 1998 par France Télécom sont fixées par arrêté du ministre chargé des télécommunications, après avis du ministre chargé du budget.
+
+Par dérogation aux dispositions du deuxième alinéa, les redevances de mise à disposition et de gestion des fréquences radioélectriques dues en 1999 par France Télécom sont fixées par arrêté du ministre chargé des télécommunications, après avis du ministre chargé du budget.
