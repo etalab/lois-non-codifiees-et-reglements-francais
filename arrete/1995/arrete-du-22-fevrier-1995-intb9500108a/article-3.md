@@ -8,6 +8,10 @@ Centre psychotechnique régional A.F.P.A., 2, boulevard du Président-Wilson, 67
 
 Groupement des associations de propriétaires d'appareils à pression et électriques (Apave alsacienne), 2, rue Thiers, B.P. 1347, 68056 Mulhouse Cedex.
 
+Axone, 5, avenue de la Forêt-Noire, 67000 Strasbourg ;
+
+Centre de bilans de la S.N.C.F., 3, boulevard du Président-Wilson, 67000 Strasbourg ; ".
+
 Aquitaine :
 
 Centre psychotechnique régional A.F.P.A., 57, rue Ulysse-Gayon, 33000 Bordeaux ;
@@ -17,6 +21,8 @@ Centre psychotechnique de la caisse régionale de sécurité sociale d'Aquitaine
 Centre psychotechnique de la C.G.F.T.E., 25, rue du Commandant-Marchand, 33000 Bordeaux ;
 
 Groupement des associations de propriétaires d'appareils à pression et électriques, association du Sud-Ouest (Apave du Sud-Ouest), avenue Gay-Lussac, Z.I. d'Artigues-près-Bordeaux, 33370 Tresses.
+
+" Centre de bilans de la S.N.C.F., 3, pont du Guit, 33000 Bordeaux ; ".
 
 Auvergne :
 
@@ -58,15 +64,23 @@ Laboratoire psychotechnique de la Régie autonome des transports parisiens, 118 
 
 Groupement des associations de propriétaires d'appareils à pression et électriques, association parisienne (Apave parisienne), 13 à 17, rue Salneuve, 75017 Paris ;
 
-Centre de recherches et d'application de la prévention routière, autodrome de Linas, 91310 Linas-Montlhéry.
+" Laboratoire d'applications et de recherches sur les capacités du conducteur automobile, 1, rue du Languedoc, Z.I. de la Moinerie, 91731 Brétigny-sur-Orge ;
+
+" Axone, 63, rue de Rivoli, 75001 Paris ;
+
+" Centres de bilans de la S.N.C.F. :
+
+" - centre de Paris-Europe, 3, rue Ambroise-Paré, 75010 Paris ;
+
+" - centre de Paris-La Chapelle, 61, rue de la Chapelle, 75876 Paris Cedex 08 ;
+
+" - centre de Levallois, 2, place du 8-Mai-1945, 92300 Levallois-Perret ; ".
 
 Languedoc-Roussillon :
 
 Centre psychotechnique régional A.F.P.A., clos de Passy, 710, rue d'Alco, 34100 Montpellier ;
 
-Cabinet Christiane Izac, 3, rue du Troubadour, 66000 Perpignan.
-
-Limousin :
+" Cabinet Christiane Izac, 123, rue Jean-Bullant, 66000 Perpignan ; ".
 
 Centre psychotechnique régional A.F.P.A., 11 bis, chemin de la Font-Pinot, 87000 Limoges ;
 
@@ -78,7 +92,7 @@ Lorraine :
 
 Centre psychotechnique régional A.F.P.A., 75, boulevard Foch, 54524 Nancy-Laxou Cedex ;
 
-Centre départemental d'orientation professionnelle, laboratoire de psychologie appliquée, 3, rue Gambetta, 57000 Metz.
+" Service de psychologie du travail, 94, avenue de l'Abbaye-Saint-Eloi, 57050 Metz-Nord ; ".
 
 Midi-Pyrénées :
 
@@ -88,13 +102,17 @@ Centre psychotechnique de la caisse régionale de sécurité sociale Midi-Pyrén
 
 Société d'économie mixte des transports publics de voyageurs de l'agglomération toulousaine (S.E.M.V.A.T.), 49, rue de Gironis, 31081 Toulouse Cedex.
 
+Association Sras-Adapt, service régional d'examens psychotechniques des transports, région Midi-Pyrénées, 11, boulevard des Récollets, 31078 Toulouse Cedex ; ".
+
 Nord - Pas-de-Calais :
 
 Centre psychotechnique régional A.F.P.A., 27, rue des Stations, 59000 Lille ;
 
-Axone, 20, place Salvador-Allende, 59650 Villeneuve-d'Ascq ;
+Axone, 7 bis, avenue de la Créativité, B.P. 333, 59666 Villeneuve-d'Ascq Cedex ; ".
 
 Groupement des associations de propriétaires d'appareils à pression et électriques, association Nord-Picardie (Apave Nord-Picardie), 51, avenue de l'Architecte-Cordonnier, 59019 Lille Cedex.
+
+" Centre de bilans de la S.N.C.F., 15 bis, rue Claudius-Collonges, 69000 Lyon ;
 
 Basse-Normandie :
 
@@ -118,6 +136,10 @@ Centre psychotechnique régional A.F.P.A., 26, rue du Docteur-Pouzin-Malègue, 4
 
 Groupement des associations de propriétaires d'appareils à pression et électriques, association de l'Ouest (Apave de l'Ouest), 5, rue de la Johardière, 44803 Saint-Herblain Cedex.
 
+" Axone, 10, rue Charles-Brunellière, 44100 Nantes ;
+
+" Capfor-Atlantique, 2, rue du Château-de-l'Eraudière, B.P. 1507, 44315 Nantes Cedex 03 ; ".
+
 Picardie :
 
 Centre psychotechnique régional A.F.P.A., 105, rue Vulfran-Warmé, 80000 Amiens.
@@ -132,7 +154,9 @@ Centre psychotechnique régional A.F.P.A., immeuble Rhône-Poulenc, 4, avenue Ro
 
 Groupement des associations de propriétaires d'appareils à pression et électriques, Association du Sud-Est (Apave du Sud-Est), 32, rue Edmond-Rostand, 13292 Marseille Cedex 6 ;
 
-Laboratoire psychotechnique de la régie autonome des transports de la ville de Marseille, 12, avenue Clos-Bey, 13008 Marseille.
+Axone, 440, rue de Paradis, 13008 Marseille ; ".
+
+Daquota, 11, traverse Pourrière, 13008 Marseille ; ".
 
 Rhône-Alpes :
 
@@ -149,6 +173,10 @@ Centre d'éducation et de sécurité routière (C.E.S.R.), groupe E.C.F., aérop
 Centre d'études psychosociologiques Homme, travail et société, 24, rue Jouanes-Masset, 69009 Lyon ;
 
 Centre d'études psychosociologiques Homme, travail et société, 37, rue Gambetta, 74000 Annecy.
+
+" Axone, 20, rue Jules-Brunard, 69007 Lyon ;
+
+" Daquota, Le Gamma 2000, 104, boulevard du 11-Novembre, 69100 Villeurbanne ; ".
 
 Guadeloupe :
 
