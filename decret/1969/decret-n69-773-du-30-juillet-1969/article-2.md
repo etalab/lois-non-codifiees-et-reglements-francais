@@ -1,3 +1,0 @@
-# Article 2
-
-Le montant de l'indemnité d'astreinte prévue à l'article 1er, variable en raison de l'importance des sujétions des bénéficiaires, est fixé, dans la limite des crédits budgétaires ouverts à cet effet, par arrêté du ministre de l'économie et des finances et du ministre de l'équipement et du logement. L'indemnité d'astreinte à domicile ne peut être attribuée en aucun cas aux agents logés par l'administration par nécessité absolue de service. Dans le cas de permanence en dortoir, l'indemnité peut être également attribuée aux agents logés. Par contre, quels que soient les bénéficiaires, le paiement de l'indemnité est exclusif de l'attribution d'indemnités de découcher.

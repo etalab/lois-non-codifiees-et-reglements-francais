@@ -478,7 +478,6 @@
 - [Décret n°2001-1362 du 28 décembre 2001 (EQUS0101783D)](decret-n2001-1362-du-28-decembre-2001-equs0101783d)
 - [Décret n°2001-1363 du 28 décembre 2001 (EQUT0101271D)](decret-n2001-1363-du-28-decembre-2001-equt0101271d)
 - [Décret n°2001-1364 du 28 décembre 2001 (MCCB0100684D)](decret-n2001-1364-du-28-decembre-2001-mccb0100684d)
-- [Décret n°2001-1365 du 28 décembre 2001 (AGRP0102178D)](decret-n2001-1365-du-28-decembre-2001-agrp0102178d)
 - [Décret n°2001-1366 du 28 décembre 2001 (AGRM0102459D)](decret-n2001-1366-du-28-decembre-2001-agrm0102459d)
 - [Décret n°2001-1367 du 28 décembre 2001 (FPPA0110015D)](decret-n2001-1367-du-28-decembre-2001-fppa0110015d)
 - [Décret n°2001-286 du 28 mars 2001 (MENE0100492D)](decret-n2001-286-du-28-mars-2001-mene0100492d)
