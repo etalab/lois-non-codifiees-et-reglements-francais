@@ -1,3 +1,0 @@
-# PRIX D'ACHAT DE L'ALCOOL DE BETTERAVE DU CONTINGENT
-
-- [Article 3](article-3.md)

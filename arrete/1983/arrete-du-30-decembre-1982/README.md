@@ -1,4 +1,4 @@
-# Arrêté du 30 décembre 1982 relatif au règlement de comptabilité pour la désignation des ordonnateurs secondaires et de leurs délégués.
+# Arrêté du 30 décembre 1982 FIXANT LE TAUX DE LA TAXE DE PROTECTION SANITAIRE ET D'ORGANISATION DES MARCHES DES VIANDES POUR 1983.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
