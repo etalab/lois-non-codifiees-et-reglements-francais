@@ -3,3 +3,4 @@
 - [Article 7 bis](article-7-bis.md)
 - [Article 8 bis](article-8-bis.md)
 - [Article 12](article-12.md)
+- [Article 13](article-13.md)

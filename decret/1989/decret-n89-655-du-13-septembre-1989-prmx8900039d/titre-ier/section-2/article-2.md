@@ -62,7 +62,7 @@ A Paris, lorsque les membres des corps et les autorités assistent aux cérémon
 
 30° Le président du Conseil de la concurrence ;
 
-31° Le président de la Commission des opérations de bourse ;
+31° Le président de l'Autorité des marchés financiers ;
 
 32° Le recteur de l'académie de Paris, chancelier des universités de Paris ;
 
@@ -94,7 +94,7 @@ A Paris, lorsque les membres des corps et les autorités assistent aux cérémon
 
 46° Les chefs des services déconcentrés de l'Etat dans la région d'Ile-de-France et dans le département de Paris dans l'ordre de préséance attribué au département ministériel dont ils relèvent et les directeurs généraux et directeurs de la préfecture de région, de la préfecture de Paris et de la préfecture de police ;
 
-47° Le président de l'assemblée permanente des chambres de commerce et d'industrie, le président de l'assemblée permanente des chambres d'agriculture, le président de l'assemblée permanente des chambres de métiers ;
+47° Le président de l'assemblée permanente des chambres de commerce et d'industrie, le président de l'assemblée permanente des chambres d'agriculture, le président de l'assemblée permanente des chambres de métiers et de l'artisanat ;
 
 48° Le président de la chambre de commerce et d'industrie de Paris, le président de la chambre régionale de commerce et d'industrie d'Ile-de-France ;
 
