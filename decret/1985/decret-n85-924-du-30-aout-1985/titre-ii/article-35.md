@@ -4,7 +4,7 @@ Le budget des collèges, des lycées et des établissements d'éducation spécia
 
 Ces ressources comprennent :
 
-- des subventions de la collectivité de rattachement et de l'Etat, versées en application des articles 14 et 15-9 de la loi du 22 juillet 1983 modifiée ;
+- des subventions de la collectivité de rattachement et de l'Etat, versées en application des articles 14 et 15-9 de la loi du 22 juillet 1983 modifiée; ou dans la collectivité territoriale de Corse, en application de l'article 51 de la loi n° 91-428 du 13 mai 1991 ".
 
 - toute autre contribution d'une collectivité publique ;
 
