@@ -6,7 +6,7 @@ La Commission nationale de la communication et des libertés autorise [*attribut
 
 - pour l'usage privé des demandeurs, en application des articles L. 34 et L. 89 du code des postes et télécommunications ;
 
-- pour la diffusion des services mentionnés aux articles 25 et [Dispositions déclarées inséparables des articles 39 et 41 de la présente loi par décision du Conseil constitutionnel n° 86-217 DC du 18 septembre 1986.] de la présente loi ;
+- pour la diffusion des services mentionnés aux articles 25 et 31 de la présente loi ;
 
 2° L'exploitation des installations mentionnées à l'article 34 de la présente loi.
 
