@@ -1,3 +1,3 @@
 # Article 6
 
-Les praticiens mentionnés à l'article 2 du présent décret et régis soit par le 4° de l'article 1er du décret du 24 septembre 1960 susvisé, soit par l'article 1er-A du décret du 27 janvier 1981 susvisé cotisent au régime complémentaire des assurances sociales institué par le décret du 23 septembre 1970 sur l'ensemble de leur traitement universitaire, ainsi que, par dérogation à l'article 10 (1er alinéa) du décret du 24 septembre 1960, de leurs émoluments hospitaliers.
+Les personnels enseignants et hospitaliers mentionnés aux 2° et 3° de l'article 1er du décret n° 84-135 du 24 février 1984, qui n'exercent pas d'activité libérale, cotisent au régime de retraites complémentaire des assurances sociales institué par le décret du 23 décembre 1970 susvisé sur la totalité de leur rémunération universitaire et de leurs émoluments hospitaliers, y compris les indemnités de garde, mais à l'exclusion des indemnités d'astreinte.
