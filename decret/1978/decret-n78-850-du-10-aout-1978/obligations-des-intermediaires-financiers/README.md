@@ -1,0 +1,3 @@
+# OBLIGATIONS DES INTERMEDIAIRES FINANCIERS.
+
+- [Article 8](article-8.md)
