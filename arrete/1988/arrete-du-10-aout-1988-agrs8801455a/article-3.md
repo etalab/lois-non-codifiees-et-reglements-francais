@@ -1,0 +1,3 @@
+# Article 3
+
+Dans le cadre de la réception CEE des tracteurs agricoles ou forestiers à roues, tout tracteur défini à l'article 9 de la directive n° 78-764 CEE susmentionnée fait l'objet d'une réception CEE partielle concernant l'installation du siège du conducteur. Cette réception CEE est accordée par le Centre national du machinisme agricole, du génie rural, des eaux et des forêts pour les tracteurs équipés d'un siège homologué CEE installé dans les conditions prévues à l'annexe IV de la directive n° 78-764 CEE susvisée et modifiée par la directive n° 83-190 CEE du 28 mars 1983 précédemment mentionnée.
