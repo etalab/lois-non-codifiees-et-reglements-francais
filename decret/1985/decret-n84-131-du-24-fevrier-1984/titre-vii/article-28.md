@@ -10,7 +10,15 @@ Ces émoluments sont fixés par arrêté des ministres respectivement chargés d
 
 3. Des indemnités pour participation aux jurys de concours, à l'enseignement et à la formation des personnels des établissements hospitaliers. Le montant en est fixé par arrêtés des ministres chargés du budget, de la sécurité sociale et de la santé.
 
-Sous réserve des dispositions des articles 25-1 à 25-6 de la loi du 31 décembre 1970 susvisée et des dispositions réglementaires prises pour leur application, les praticiens ne peuvent recevoir aucun autre émolument au titre d'activités exercées tant à l'intérieur qu'à l'extérieur du ou des établissements d'affectation. Cette disposition ne s'applique pas :
+4. Une allocation de prise de fonctions versée aux praticiens prenant leurs fonctions dans les établissements mentionnés à l'article 1er sur des postes présentant des spécificités particulières en raison de leur localisation géographique et de la spécialité concernée.
+
+Cette allocation, non soumise à cotisation au régime de retraite complémentaire, est accordée une seule fois au cours de la carrière ; elle est versée par fractions dans les quatre années qui suivent la prise de fonctions du praticien.
+
+Un arrêté des ministres chargés de la santé et du budget détermine les conditions d'attribution de l'allocation, et notamment les secteurs géographiques et les spécialités ouvrant droit au bénéfice de l'allocation ainsi que le montant et les modalités de versement de celle-ci.
+
+Sous réserve des dispositions des articles 25-1 à 25-6 de la loi du 31 décembre 1970 susvisée et des dispositions réglementaires prises pour leur application, les praticiens ne peuvent recevoir aucun autre émolument au titre d'activités exercées tant à l'intérieur qu'à l'extérieur du ou des établissements d'affectation.
+
+Cette disposition ne s'applique pas :
 
 a) A la production d'oeuvres scientifiques, littéraires ou artistiques ;
 
