@@ -69,3 +69,47 @@ Agents non titulaires :
 Ministère de l'industrie, de la poste et des télécommunications
 
 Corps des ingénieurs des mines régis par le décret n° 88-507 du 29 avril 1988, modifié par le décret n° 94-449 du 31 mai 1994.
+
+Ministère de l'équipement, des transports et du logement
+
+Corps de fonctionnaires :
+
+- ingénieurs des ponts et chaussées régis par le décret n° 59-358 du 20 février 1959 modifié ;
+
+- chargés de recherche et directeurs de recherche régis par le décret n° 94-943 du 28 octobre 1994 ;
+
+- ingénieurs des travaux publics de l'Etat régis par le décret n° 71-345 du 5 mai 1971 modifié ;
+
+- ingénieurs géographes régis par le décret n° 65-793 du 16 septembre 1965, modifié par le décret n° 90-160 du 16 février 1990 ;
+
+- ingénieurs des travaux géographiques et cartographiques de l'Etat régis par le décret n° 73-264 du 6 mars 1973 modifié ;
+
+- ingénieurs de l'aviation civile régis par le décret n° 71-234 du 30 mars 1971 modifié ;
+
+- ingénieurs des études et de l'exploitation de l'aviation civile régis par le décret n° 71-907 du 8 novembre 1971 modifié ;
+
+- ingénieurs du contrôle de la navigation aérienne régis par le décret n° 90-998 du 8 novembre 1990 modifié ;
+
+- ingénieurs électroniciens des systèmes de la sécurité aérienne régis par le décret n° 91-56 du 16 janvier 1991, modifié par le décret n° 94-278 du 11 avril 1994 ;
+
+- ingénieurs de la météorologie régis par le décret n° 63-1376 du 24 décembre 1963 modifié ;
+
+- ingénieurs des travaux de la météorologie régis par le décret n° 65-184 du 5 mars 1965 modifié.
+
+Agents non titulaires :
+
+- personnels non titulaires du niveau de la catégorie A régis par les dispositions suivantes :
+
+- décision du 18 mars 1992 du ministre d'Etat, ministre de la fonction publique et de la modernisation de l'administration, du ministre de l'équipement, du logement, des transports et de l'espace et du ministre délégué au budget ;
+
+- règlement du 14 mai 1973 régissant les personnels non titulaires du laboratoire central des ponts et chaussées et des centres d'études techniques de l'équipement ;
+
+- règlement intérieur du 30 octobre 1969 modifié relatif aux personnels non titulaires employés au service d'études techniques des routes et autoroutes ;
+
+- arrêté du 10 juillet 1968 relatif aux conditions de recrutement et de rémunération des personnels contractuels techniques et administratifs du ministère de l'équipement et du logement chargés d'études de haut niveau au service des affaires économiques et internationales et au service d'études techniques des routes et autoroutes, modifié par l'arrêté du 27 mars 1973 relatif au même objet ;
+
+- décret n° 46-1507 du 18 juin 1946 fixant le statut des auxiliaires recrutés sur contrat par le ministère des travaux publics et des transports pour le service des ponts et chaussées, modifié par les décrets n° 68-313 du 1er avril 1968 et n° 75-1355 du 18 décembre 1975 relatifs au même objet ;
+
+- décret n° 48-1018 du 16 juin 1948 modifié fixant le statut des agents sur contrat du ministère des travaux publics, des transports et du tourisme ;
+
+- règlement intérieur du 4 juin 1970 relatif aux personnels non titulaires employés par la direction régionale de l'équipement de l'Ile-de-France.
