@@ -428,6 +428,7 @@
 - [Décret n°93-739 du 29 mars 1993 (AGRE9300547D)](decret-n93-739-du-29-mars-1993-agre9300547d)
 - [Décret n°94-353 du 29 avril 1994 (MCCB9400121D)](decret-n94-353-du-29-avril-1994-mccb9400121d)
 - [Décret n°94-354 du 29 avril 1994 (ENVE9420022D)](decret-n94-354-du-29-avril-1994-enve9420022d)
+- [Décret n°94-545 du 29 juin 1994 (LOGC9400046D)](decret-n94-545-du-29-juin-1994-logc9400046d)
 - [Décret n°95-353 du 29 mars 1995 (DEFP9501140D)](decret-n95-353-du-29-mars-1995-defp9501140d)
 - [Décret n°96-158 du 29 février 1996 (JUSF9550043D)](decret-n96-158-du-29-fevrier-1996-jusf9550043d)
 - [Décret du 30 décembre 1993 (ECOT9313729D)](decret-du-30-decembre-1993-ecot9313729d)
