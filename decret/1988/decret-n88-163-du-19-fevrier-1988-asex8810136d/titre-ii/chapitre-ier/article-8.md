@@ -14,7 +14,7 @@ II. - Les candidats au concours d'accès au cycle préparatoire sont groupés en
 
 Un arrêté du ministre chargé de la santé fixe chaque année [*périodicité*] le nombre de places offertes au cycle préparatoire au titre de chacune des deux catégories ci-dessus. Le nombre total est au plus égal à trois fois celui des places offertes à la précédente session du concours interne d'admission aux cycles de formation.
 
-Les candidats admis au titre de la première catégorie suivent un cycle d'études d'une durée de trois mois ; les candidats admis au titre de la seconde catégorie suivent un cycle d'études d'une durée de neuf mois.
+Les candidats admis au titre de la première catégorie suivent un cycle d'études d'une durée de trois mois ; les candidats admis au titre de la seconde catégorie suivent un cycle d'études d'une durée de douze mois.
 
 Tous les candidats ayant suivi un cycle préparatoire sont tenus de se présenter, à l'expiration de leur période d'études, au concours interne d'admission aux cycles de formation, sauf à rembourser les frais de la scolarité qu'ils ont suivie.
 

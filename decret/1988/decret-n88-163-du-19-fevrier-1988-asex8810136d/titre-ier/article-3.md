@@ -58,12 +58,4 @@ c) Lorsque l'emploi de chef d'établissement est rangé en 3e classe :
 
 - directeur ;
 
-- attaché de direction ou adjoint au directeur.
-
-d) Lorsque l'emploi de chef d'établissement est rangé en 4e classe :
-
-- directeur ;
-
-- éventuellement, un adjoint au directeur lorsque l'établissement est dirigé par un médecin directeur.
-
-Toutefois, des emplois de 4e classe pourront être prévus dans les établissements énumérés aux 1°, 2°, 3° et 4° (a et b) ci-dessus.
+- attaché de direction.

@@ -1,23 +1,19 @@
 # Article 10
 
-I. - Peuvent accéder aux emplois de 1re classe dans la limite d'une nomination sur huit nominations prononcées en application de l'article 21-I ci-dessous :
+I. - Peuvent accéder aux emplois de 1re classe dans la limite d'une nomination sur huit nominations prononcées en application de l'article 21-I, les fonctionnaires de catégorie A ayant atteint dans leur corps d'origine un grade dont l'indice terminal est au moins égal à l'indice brut 966.
 
-- les fonctionnaires de l'Etat de catégorie A ;
+Ces fonctionnaires doivent appartenir à la fonction publique de l'Etat, ou à la fonction publique territoriale, ou à la fonction publique hospitalière.
 
-- les fonctionnaires territoriaux de catégorie A ;
+Ils doivent être inscrits sur une liste d'aptitude conformément aux dispositions de l'article 11 ci-après.
 
-- les personnels titulaires des établissements mentionnés à l'article 2 de la loi du 9 janvier 1986 susvisée ci-après :
+II. - Peuvent accéder aux emplois de la 2e classe dans la limite d'une nomination sur cinq nominations prononcées en application de l'article 21-II les fonctionnaires de catégorie A ayant atteint dans leur corps d'origine un grade dont l'indice terminal est au moins égal à l'indice brut 760 et justifiant, au 1er janvier de l'année en cours, de douze ans de services effectifs.
 
-pharmaciens, ingénieurs, psychologues, infirmiers et infirmières généraux, ainsi que les personnels de direction des établissements énumérés aux 4°, 5° et 6° dudit article, ayant atteint un indice de traitement au moins égal à l'indice de début de la 1re classe prévue au présent statut et qui ont été inscrits sur une liste d'aptitude conformément aux dispositions de l'article 11 ci-après.
+Ces fonctionnaires doivent appartenir à la fonction publique de l'Etat, ou à la fonction publique territoriale, ou à la fonction publique hospitalière.
 
-II. - Peuvent accéder aux emplois de la 2e classe dans la limite d'une nomination sur cinq nominations prononcées en application de l'article 21-II ci-dessous :
+Ils doivent être inscrits sur une liste d'aptitude conformément aux dispositions de l'article 11 ci-après.
 
-- les fonctionnaires de l'Etat de catégorie A ;
+III. - Peuvent accéder aux emplois de 3e classe dans la limite d'une nomination sur neuf nominations prononcées en application de l'article 7 les fonctionnaires de catégorie A ayant atteint dans leur corps d'origine un grade dont l'indice terminal est au moins égal à l'indice brut 704 et justifiant, au 1er janvier de l'année en cours, de huit ans de services effectifs.
 
-- les fonctionnaires territoriaux de catégorie A ;
+Ces fonctionnaires doivent appartenir à la fonction publique de l'Etat, ou à la fonction publique territoriale, ou à la fonction publique hospitalière.
 
-- les personnels titulaires des établissements mentionnés à l'article 2 de la loi du 9 janvier 1986 susvisée ci-après :
-
-pharmaciens, ingénieurs, psychologues, infirmiers et infirmières généraux, ainsi que les personnels de direction des établissements énumérés aux 4°, 5° et 6° dudit article,
-
-ayant atteint un indice de traitement au moins égal à l'indice de début de la 2e classe prévue au présent statut et qui ont été inscrits sur une liste d'aptitude conformément aux dispositions de l'article 11 ci-après.
+Ils doivent être inscrits sur une liste d'aptitude conformément aux dispositions de l'article 11 ci-après.

@@ -74,28 +74,6 @@ Echelon fonctionnel
 
 1er échelon : 2 ans
 
-4e classe ECHELONS ANCIENNETE MOYENNE
-
-Echelon fonctionnel
-
-9e  échelon : 3 ans
-
-8e  échelon : 3 ans
-
-7e  échelon : 2 ans
-
-6e  échelon : 2 ans
-
-5e  échelon : 2 ans
-
-4e  échelon : 2 ans
-
-3e  échelon : 2 ans
-
-2e  échelon : 2 ans
-
-1er échelon : 1 an
-
 III. - La durée maximum du temps passé dans chaque échelon est égale à la durée moyenne d'ancienneté majorée du quart.
 
 La durée minimum du temps passé dans chaque échelon est égale à la durée moyenne d'ancienneté réduite du quart. Elle peut bénéficier aux fonctionnaires auxquels a été attribuée une note égale ou supérieure à la note moyenne obtenue par les fonctionnaires de même grade, sans que plus d'une promotion sur trois puisse être prononcée à ce titre.

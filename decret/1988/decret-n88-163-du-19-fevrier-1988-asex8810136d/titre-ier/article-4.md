@@ -7,5 +7,3 @@ Les fonctionnaires appartenant au corps des personnels de direction ont vocation
 2e classe : emplois des chefs d'établissement figurant sur une liste établie par le ministre chargé de la santé, chefs de service adjoints et directeurs adjoints.
 
 3e classe : emplois des chefs d'établissement figurant sur une liste établie par le ministre chargé de la santé et attachés de direction.
-
-4e classe : emplois des chefs d'établissement figurant sur une liste établie par le ministre chargé de la santé et adjoints au directeur.

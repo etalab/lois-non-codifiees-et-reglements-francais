@@ -5,7 +5,6 @@
 - [TITRE III : NOMINATION.](titre-iii)
 - [TITRE IV : AVANCEMENT ET POSITIONS.](titre-iv)
 - [TITRE V : DESIGNATION DES SECRETAIRES GENERAUX DES SYNDICATS INTERHOSPITALIERS.](titre-v)
-- [TITRE VI : DISPOSITIONS DIVERSES.](titre-vi)
 - [Titre 7 : Dispositions transitoires](titre-7)
 - [TITRE VII : DISPOSITIONS TRANSITOIRES.](titre-vii)
 - [Article 37](article-37.md)
