@@ -1,0 +1,7 @@
+# Article 4
+
+Les administrateurs des postes et télécommunications qui, à la date de publication du présent décret, sont affectés à l'administration centrale du ministère de l'économie, des finances et de l'industrie, à l'Autorité de régulation des télécommunications ou à l'Agence nationale des fréquences, ou détachés dans le corps des administrateurs civils, peuvent demander, dans un délai de trois mois à compter de cette même date, leur intégration dans le corps des administrateurs civils.
+
+Il en est de même des administrateurs des postes et télécommunications qui remplissaient ces conditions à la date de leur départ en mobilité en application du décret du 21 mars 1997 susvisé et qui effectuent cette mobilité à la date de publication du présent décret.
+
+Pour les administrateurs des postes et télécommunications intégrés dans le corps des administrateurs civils en application des deux alinéas précédents, sont considérés comme services effectifs dans le corps des administrateurs civils les services qu'ils ont accomplis pendant, d'une part, leur affectation à l'administration centrale du ministère de l'économie, des finances et de l'industrie, à l'Autorité de régulation des télécommunications ou à l'Agence nationale des fréquences, d'autre part, leur détachement dans le corps des administrateurs civils ou leur mobilité effectuée en application du décret du 21 mars 1997 susvisé lorsque celle-ci est consécutive à cette affectation ou à ce détachement.
