@@ -12,7 +12,7 @@ Le présent arrêté fixe les prescriptions applicables aux prélèvements et à
 
 - des verreries, cristalleries et des installations de fabrication de fibres minérales et produits manufacturés dérivés ;
 
-- des installations de traitement (incinération, compostage...), stockage ou transit de résidus urbains ou de déchets industriels ;
+- des installations de traitement (incinération, compostage ...), stockage ou transit de résidus urbains ou de déchets industriels ;
 
 - des établissements d'élevage ;
 
@@ -24,7 +24,9 @@ Le présent arrêté fixe les prescriptions applicables aux prélèvements et à
 
 - des installations relevant de la rubrique 2730 de la nomenclature des installations classées (traitement des cadavres, des déchets ou des sous-produits d'origine animale, à l'exclusion des activités visées par d'autres rubriques de la nomenclature, la capacité de traitement étant supérieure à 200 kg/j) ;
 
-- des installations relevant de la rubrique 2731 de la nomenclature des installations classées (dépôt de chairs, cadavres, débris ou issues d'origine animale, à l'exclusion des dépôts de peaux, la quantité susceptible d'être présente dans l'installation étant supérieure à 300 kg), dès lors qu'elles ne sont pas l'annexe d'une installation classée soumise à autorisation au titre des rubriques 2730, 2221 et 2210 de la nomenclature.
+- des installations relevant de la rubrique 2731 de la nomenclature des installations classées (dépôt de chairs, cadavres, débris ou issues d'origine animale, à l'exclusion des dépôts de peaux, la quantité susceptible d'être présente dans l'installation étant supérieure à 300 kg), dès lors qu'elles ne sont pas l'annexe d'une installation classée soumise à autorisation au titre des rubriques 2730, 2221 et 2210 de la nomenclature ;
+
+- des installations relevant de la rubrique 2210 de la nomenclature des installations classées (abattage d'animaux).
 
 Les dispositions du présent arrêté s'appliquent aux arrêtés d'autorisation des installations classées nouvelles et existantes selon les modalités définies au chapitre X.
 

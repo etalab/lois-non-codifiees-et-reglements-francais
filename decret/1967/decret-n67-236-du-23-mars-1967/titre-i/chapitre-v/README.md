@@ -4,3 +4,4 @@
 - [Section II : Actions.](section-ii)
 - [Section III : Obligations.](section-iii)
 - [Section III bis : Titres participatifs.](section-iii-bis)
+- [Section IV : Valeurs mobilières donnant accès au capital.](section-iv)

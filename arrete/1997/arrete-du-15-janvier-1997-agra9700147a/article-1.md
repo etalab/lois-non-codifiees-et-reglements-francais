@@ -166,8 +166,12 @@ Chef de service de l'économie agricole à la direction départementale de l'agr
 
 A compter du 15 août 2004 :
 
-Chef de service forêt, chasse et faune sauvage à la direction départementale de l'agriculture et de la forêt des Bouches-du-Rh<CB>ne.
+Chef de service forêt, chasse et faune sauvage à la direction départementale de l'agriculture et de la forêt des Bouches-du-Rhône.
 
 A compter du 31 août 2004 :
 
-chargé d'une mission d'animateur-coordinateur "en appui technique, gestion des services publics" auprès des directions départementales de l'agriculture et de la forêt des régions : Pays de la Loire, Centre, Bretagne, Basse-Normandie, Haute-Normandie, affecté à la direction départementale de l'agriculture et de la forêt de la Mayenne.
+Chargé d'une mission d'animateur-coordinateur "en appui technique, gestion des services publics" auprès des directions départementales de l'agriculture et de la forêt des régions : Pays de la Loire, Centre, Bretagne, Basse-Normandie, Haute-Normandie, affecté à la direction départementale de l'agriculture et de la forêt de la Mayenne.
+
+A compter du 1er février 2005 :
+
+Chef de service de l'ingénierie de l'eau à la direction départementale de l'agriculture et de la forêt de Meurthe-et- Moselle.

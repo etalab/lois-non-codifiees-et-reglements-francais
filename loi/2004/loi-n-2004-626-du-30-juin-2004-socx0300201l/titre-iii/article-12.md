@@ -1,6 +1,6 @@
 # Article 12
 
-I. - Les charges de la Caisse nationale de solidarité pour l'autonomie sont constituées, pour l'année 2004, par :
+I.-Les charges de la Caisse nationale de solidarité pour l'autonomie sont constituées, pour l'année 2004, par :
 
 1° Le remboursement du capital et des intérêts de l'emprunt prévu par l'article 5 de la loi n° 2003-289 du 31 mars 2003 portant modification de la loi n° 2001-647 du 20 juillet 2001 relative à la prise en charge de la perte d'autonomie des personnes âgées et à l'allocation personnalisée d'autonomie.
 
@@ -38,22 +38,6 @@ La charge de ces frais est retracée dans une section spécifique, équilibrée 
 
 La caisse suit l'ensemble de ces opérations dans des comptes spécifiques ouverts au titre desdites sections.
 
-II. - A compter de l'année 2004, le montant du concours visé au premier alinéa du 3° du I est réparti annuellement entre les départements en fonction des critères suivants :
+II.-(Codifié par la loi 2005-102 2005-02-11 dans le code de l'action sociale et des familles L14-10-6)
 
-a) Le nombre de personnes âgées de plus de soixante-quinze ans ;
-
-b) Le montant des dépenses d'allocation personnalisée d'autonomie ;
-
-c) Le potentiel fiscal, déterminé selon les modalités définies à l'article L. 3334-6 du code général des collectivités territoriales ;
-
-d) Le nombre de bénéficiaires du revenu minimum d'insertion.
-
-En aucun cas, le rapport entre, d'une part, les dépenses réalisées au titre de l'allocation personnalisée d'autonomie de chaque département après déduction du montant ainsi réparti et, d'autre part, leur potentiel fiscal ne peut être supérieur à un taux fixé par voie réglementaire. Les dépenses correspondant à la fraction de ce rapport qui dépasse ce seuil sont prises en charge en totalité par la caisse.
-
-L'attribution résultant de l'opération définie au premier alinéa du présent II pour les départements autres que ceux ayant bénéficié d'un complément de dotation au titre de l'alinéa précédent est diminuée de la somme des montants ainsi calculés, au prorata de la répartition effectuée en application dudit alinéa entre ces seuls départements.
-
-Les opérations décrites aux deux alinéas précédents sont renouvelées jusqu'à ce que les dépenses laissées à la charge de chaque département n'excèdent pas le seuil défini au sixième alinéa du présent II.
-
-Le concours de la caisse aux départements fait l'objet d'acomptes correspondant au minimum à 90 % des produits disponibles de la section visée au 3° du I, après prise en compte des charges mentionnées au 6° dudit I.
-
-III. - Le II de l'article 5 de la loi n° 2003-289 du 31 mars 2003 précitée est abrogé.
+III.-Le II de l'article 5 de la loi n° 2003-289 du 31 mars 2003 précitée est abrogé.

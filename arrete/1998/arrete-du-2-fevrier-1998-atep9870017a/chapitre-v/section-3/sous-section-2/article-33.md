@@ -70,19 +70,160 @@ Catégorie 4 : catégorie 1, 2 ou 3 avec une conversion ou une désulfuration pr
 
 Pour les raffineries neuves, selon les catégories définies ci-dessus, les flux spécifiques rapportés à la tonne de produits entrants sont limités aux valeurs suivantes :
 
-(Tableau non reproduit)
+<table>
+<tbody>
+<tr>
+<td width="152">
+<p align="center">CATÉGORIE DE RAFFINERIES<br/>Flux spécifique maximal autorisé (*)</p>
+<br/>
+</td>
+<td width="45">
+<p align="center">1</p>
+<br/>
+</td>
+<td width="41">
+<p align="center">2</p>
+<br/>
+</td>
+<td width="45">
+<p align="center">3</p>
+<br/>
+</td>
+<td width="37">
+<p align="center">4</p>
+<br/>
+</td>
+</tr>
+<tr>
+<td width="152">
+<p align="left">Débit d'eau (en m³/t)</p>
+</td>
+<td width="45">
+<p align="center">0,1</p>
+</td>
+<td width="41">
+<p align="center">0,2</p>
+</td>
+<td width="45">
+<p align="center">0,4</p>
+</td>
+<td width="37">
+<p align="center">0,8</p>
+</td>
+</tr>
+<tr>
+<td width="152">
+<p>MEST (en g/t)</p>
+</td>
+<td width="45">
+<p align="center">2</p>
+</td>
+<td width="41">
+<p align="center">5</p>
+</td>
+<td width="45">
+<p align="center">10</p>
+</td>
+<td width="37">
+<p align="center">15</p>
+</td>
+</tr>
+<tr>
+<td width="152">
+<p>DCO (en g/t)</p>
+</td>
+<td width="45">
+<p align="center">10</p>
+</td>
+<td width="41">
+<p align="center">15</p>
+</td>
+<td width="45">
+<p align="center">30</p>
+</td>
+<td width="37">
+<p align="center">60</p>
+</td>
+</tr>
+<tr>
+<td width="152">
+<p>DBO5 (en g/t)</p>
+</td>
+<td width="45">
+<p align="center">5</p>
+</td>
+<td width="41">
+<p align="center">5</p>
+</td>
+<td width="45">
+<p align="center">10</p>
+</td>
+<td width="37">
+<p align="center">15</p>
+</td>
+</tr>
+<tr>
+<td width="152">
+<p>Azote total (en g/t)</p>
+</td>
+<td width="45">
+<p align="center">5</p>
+</td>
+<td width="41">
+<p align="center">5</p>
+</td>
+<td width="45">
+<p align="center">10</p>
+</td>
+<td width="37">
+<p align="center">15</p>
+</td>
+</tr>
+<tr>
+<td width="152">
+<p>Hydrocarbures (en g/t)</p>
+</td>
+<td width="45">
+<p align="center">0,1</p>
+</td>
+<td width="41">
+<p align="center">0,25</p>
+</td>
+<td width="45">
+<p align="center">0,5</p>
+</td>
+<td width="37">
+<p align="center">2</p>
+</td>
+</tr>
+<tr>
+<td width="152">
+<p>Phénols (en g/t)</p>
+</td>
+<td width="45">
+<p align="center">0,01</p>
+</td>
+<td width="41">
+<p align="center">0,05</p>
+</td>
+<td width="45">
+<p align="center">0,05</p>
+</td>
+<td width="37">
+<p align="center">0,1</p>
+</td>
+</tr>
+<tr>
+<td colspan="5" width="320">
+<p>(*) Moyenne mensuelle.</p>
+</td>
+</tr>
+</tbody>
+</table>
 
 Remarque : une raffinerie neuve est un établissement constitué entièrement d'unités neuves.
 
-4° Abattoirs d'animaux de boucherie : le volume des effluents rejetés ne dépasse pas 6 m3 par tonne de carcasse ou de viande traitées.
-
-Les flux spécifiques ne dépassent pas :
-
-DBO5 : 180 g/t de carcasse traitée ;
-
-DCO : 720 g/t de carcasse traitée ;
-
-MEST : 180 g/t de carcasse traitée.
+4° Alinéa supprimé
 
 5° Fonte de corps gras : les flux spécifiques ne dépassent pas :
 
@@ -92,13 +233,7 @@ DCO : 600 g/t de corps gras brut traité ;
 
 MEST : 100 g/t de corps gras brut traité.
 
-6° Traitement de sous-produits animaux dans les abattoirs d'animaux de boucherie : les flux spécifiques ne dépassent pas :
-
-DBO5 : 150 g/t de matière première traitée ;
-
-DCO : 600 g/t de matière première traitée ;
-
-MEST : 100 g/t de matière première traitée.
+6° Alinéa supprimé
 
 7° Alinéa supprimé
 
@@ -134,7 +269,7 @@ La valeur limite de concentration pour le chrome est 1,5 mg/l.
 
 - argent : 50 mg/m2 de surface traitée (pour le calcul de la surface traitée, la totalité des surfaces photosensibles est prise en compte) ;
 
-- métaux totaux (à l'exception du fer) :  15 mg/l ;
+- métaux totaux (à l'exception du fer) : 15 mg/l ;
 
 - consommation des eaux de lavage : 15 l/m2 pour tous les traitements, à l'exception du procédé inversible couleur (procédé E6) (pour le calcul de la surface traitée, la totalité des surfaces photosensibles est prise en compte).
 
@@ -144,7 +279,157 @@ a) Pour les stations d'épuration mixtes visées à la rubrique 2752 de la nomen
 
 b) Les eaux résiduaires rejetées au milieu naturel respectent soit les valeurs limites en concentration, soit les valeurs limites en rendement définies par le tableau ci-après :
 
-(Tableau non reproduit)
+<table>
+<tbody>
+<tr>
+<td width="108">
+<p align="center">PARAMÈTRE</p>
+<br/>
+</td>
+<td width="115">
+<p align="center">CONCENTRATION<br/>maximale (mg/l)</p>
+<br/>
+</td>
+<td width="97">
+<p align="center">RENDEMENT<br/>minimum (%)</p>
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="108">
+<p>MES</p>
+</td>
+<td width="115">
+<p align="center">35 (*)</p>
+<br/>
+</td>
+<td width="97">
+<p align="center">95</p>
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="108">
+<p>DBO<sub>5</sub>
+</p>
+</td>
+<td width="115">
+<p align="center">25</p>
+<br/>
+</td>
+<td width="97">
+<p align="center">90</p>
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="108">
+<p>DCO</p>
+</td>
+<td width="115">
+<p align="center">125</p>
+<br/>
+</td>
+<td width="97">
+<p align="center">85</p>
+<br/>
+</td>
+</tr>
+<tr>
+<td colspan="3" valign="top" width="320">
+<p>(*) Pour les rejets dans le milieu naturel de bassins de lagunage, cette valeur est fixée à<br/>150 mg/l.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+En outre, pour les stations situées dans les zones sensibles visées au b du 2° de l'article 32 du présent arrêté, les eaux résiduaires rejetées au milieu naturel respectent, en moyenne mensuelle, soit les valeurs limites en concentration, soit les valeurs limites en rendement définies par le tableau ci-après :
+
+<table>
+<tbody>
+<tr>
+<td width="98">
+<p align="center">PARAMÈTRE</p>
+<br/>
+</td>
+<td width="120">
+<p align="center">STATION<br/>d'épuration</p>
+<br/>
+</td>
+<td width="96">
+<p align="center">CONCENTRATION<br/>maximale (mg/l)</p>
+<br/>
+</td>
+<td width="120">
+<p align="center">RENDEMENT<br/>minimum (%)</p>
+<br/>
+</td>
+</tr>
+<tr>
+<td rowspan="2" width="98">
+<p>Azote global (Ngl) (*)</p>
+</td>
+<td valign="bottom" width="120">
+<p>De 10000 à 100000 EH</p>
+</td>
+<td width="96">
+<p align="center">15</p>
+<br/>
+</td>
+<td width="120">
+<p align="center">80</p>
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="120">
+<p>Au-delà de 100000 EH</p>
+</td>
+<td width="96">
+<p align="center">10</p>
+<br/>
+</td>
+<td width="120">
+<p align="center">80</p>
+<br/>
+</td>
+</tr>
+<tr>
+<td rowspan="2" width="98">
+<p>Phosphore total (Pt)</p>
+</td>
+<td valign="bottom" width="120">
+<p>De 10000 à 100000 EH</p>
+</td>
+<td width="96">
+<p align="center">2</p>
+<br/>
+</td>
+<td width="120">
+<p align="center">90</p>
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="120">
+<p>Au-delà de 100000 EH</p>
+</td>
+<td width="96">
+<p align="center">1</p>
+<br/>
+</td>
+<td width="120">
+<p align="center">90</p>
+<br/>
+</td>
+</tr>
+<tr>
+<td colspan="4" width="433">
+<p>(*) Ces exigences se réfèrent à une température de l'eau du réacteur biologique aérobie de la station d'épuration d'au moins 12 <sup>o</sup>C. Cette condition de température peut être remplacée par la fixation de périodes d'exigibilité déterminées en fonction des conditions climatiques régionales.</p>
+</td>
+</tr>
+</tbody>
+</table>
 
 Pour les paramètres MEST, DBO5, DCO, azote global et phosphore total, des rendements minimaux moins élevés peuvent, le cas échéant, être fixés, sous réserve que les objectifs de réduction des flux de substances polluantes de l'agglomération définis en application du décret n° 94-469 du 3 juin 1994 soient respectés.
 

@@ -1,0 +1,7 @@
+# Article 96
+
+I.-Les dispositions des I, II, III, IV et VI de l'article 27, les dispositions de l'article 37 et les dispositions des IV à VII de l'article 38 entreront en vigueur le 1er janvier 2006. Entre la date de publication de la présente loi et le 1er janvier 2006, la commission des droits et de l'autonomie des personnes handicapées prend les décisions visées à l'article L. 323-12 du code du travail, abrogé à compter du 1er janvier 2006.
+
+II.-Pendant une période de deux ans à compter du 1er janvier 2006, les travailleurs reconnus handicapés par la commission technique d'orientation et de reclassement professionnel mentionnée à l'article L. 323-11 du code du travail dans sa rédaction antérieure à la présente loi et classés en catégorie C en vertu de l'article L. 323-12 du même code abrogé par la présente loi sont considérés comme des travailleurs présentant un handicap lourd pour l'application des dispositions du III de l'article 27.
+
+Pendant une période de deux ans à compter du 1er janvier 2006, les entreprises continuent à bénéficier des droits acquis au titre de l'article L. 323-6 du code du travail dans sa rédaction antérieure à la présente loi, pour toute embauche, avant le 1er janvier 2006, de travailleurs reconnus handicapés par la commission technique d'orientation et de reclassement professionnel mentionnée à l'article L. 323-11 du même code dans sa rédaction antérieure à la présente loi, et classés en catégorie C en vertu de l'article L. 323-12 dudit code abrogé par la présente loi.

@@ -10,4 +10,8 @@ A compter de l'année 2005, la Caisse nationale de solidarité pour l'autonomie 
 
 4° Une fraction du produit de la contribution sociale généralisée mentionné au 3° de l'article 11 pour financer les charges prévues au 4° du I de l'article 12. Cette fraction, fixée par arrêté conjoint des ministres chargés de la sécurité sociale et du budget, ne peut être inférieure à 5 % ni supérieure à 12 % des sommes en cause ;
 
-5° Un prélèvement sur les ressources encaissées par la caisse, réparti entre les sections précédentes au prorata du montant des ressources qui leur sont affectées, pour financer les frais de gestion de la caisse.
+5° Un prélèvement sur les ressources encaissées par la caisse, réparti à égalité entre les sections mentionnées aux 1° et 2°, pour financer :
+
+a) Le remboursement au Fonds de solidarité vieillesse des charges qui lui incombent au titre de la gestion de la Caisse nationale de solidarité pour l'autonomie pendant la période transitoire ;
+
+b) Les frais d'installation et de démarrage de la Caisse nationale de solidarité pour l'autonomie et des systèmes d'information nationaux.
