@@ -6,4 +6,5 @@
 - [Titre 4 : Suspension ou réduction de l'allocation de revenu minimum d'insertion.](titre-4)
 - [Titre 5 : Récupération de indus et remises de dettes.](titre-5)
 - [Titre 6 : Dispositions diverses et transitoires.](titre-6)
+- [Titre 7 : Dispositions diverses et transitoires.](titre-7)
 - [Article 45](article-45.md)

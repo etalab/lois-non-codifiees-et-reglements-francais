@@ -27,3 +27,5 @@ Ne sont pas prises en compte dans les ressources les prestations suivantes :
 12° Les frais funéraires mentionnés à l'article L. 435-1 du code de la sécurité sociale ;
 
 13° Le capital décès servi par un régime de sécurité sociale.
+
+14° L'allocation du fonds de solidarité en faveur des anciens combattants d'Afrique du Nord créée à l'article 125 de la loi n° 91-1322 du 30 décembre 1991.
