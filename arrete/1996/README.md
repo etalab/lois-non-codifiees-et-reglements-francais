@@ -819,7 +819,6 @@
 - [Arrêté du 21 décembre 1995 (DEFM9601097A)](arrete-du-21-decembre-1995-defm9601097a)
 - [Arrêté du 21 décembre 1995 (ECOC9600156A)](arrete-du-21-decembre-1995-ecoc9600156a)
 - [Arrêté du 21 décembre 1995 (ENVP9540342A)](arrete-du-21-decembre-1995-envp9540342a)
-- [Arrêté du 21 février 1995 (INTE9500114A)](arrete-du-21-fevrier-1995-inte9500114a)
 - [Arrêté du 21 février 1996 (DEFD9502209A)](arrete-du-21-fevrier-1996-defd9502209a)
 - [Arrêté du 21 février 1996 (EQUA9600334A)](arrete-du-21-fevrier-1996-equa9600334a)
 - [Arrêté du 21 février 1996 (FCEC9600030A)](arrete-du-21-fevrier-1996-fcec9600030a)
