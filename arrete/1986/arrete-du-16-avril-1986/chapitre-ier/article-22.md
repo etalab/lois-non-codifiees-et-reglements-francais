@@ -4,7 +4,7 @@ Pathologie des membres et des ceintures.
 
 D'une manière générale, sont incompatibles avec la navigation à l'entrée dans la profession de marin :
 
-Aux membres supérieurs, les affections et lésions qui entraînent une altération notable de la fonction de préhension de l'une ou l'autre main, notamment en ce qui concerne la pince tripode et la pince pouce-index, ainsi que les raideurs ou les ankyloses du coude ou de l'épaule, en position défavorable ;
+Aux membres supérieurs, les affections et lésions qui entraînent la perte partielle ou totale de la fonction de préhension de l'une ou l'autre main, notamment la pince tripode ou la pince pouce-index, ainsi que les raideurs ou les ankyloses du coude ou de l'épaule, en position défavorable ;
 
 Toutefois, pour ces mêmes affections survenues en cours de carrière, il sera tenu compte des possibilités de compensation fonctionnelle, du retentissement socio-professionnel de l'infirmité, des fonctions à bord et du genre de la navigation pratiquée, chaque cas faisant l'objet d'une décision particulière ;
 
