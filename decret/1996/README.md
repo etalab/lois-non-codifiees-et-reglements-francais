@@ -309,6 +309,7 @@
 - [Décret n°96-552 du 19 juin 1996 (ACVX9600061D)](decret-n96-552-du-19-juin-1996-acvx9600061d)
 - [Décret n°96-565 du 19 juin 1996 (MENF9601496D)](decret-n96-565-du-19-juin-1996-menf9601496d)
 - [Décret n°96-566 du 19 juin 1996 (MENU9601663D)](decret-n96-566-du-19-juin-1996-menu9601663d)
+- [Décret n°96-645 du 19 juillet 1996 (MIPP9600126D)](decret-n96-645-du-19-juillet-1996-mipp9600126d)
 - [Décret n°96-125 du 20 février 1996 (ECOT9626158D)](decret-n96-125-du-20-fevrier-1996-ecot9626158d)
 - [Décret n°96-137 du 20 février 1996 (ECOT9651496D)](decret-n96-137-du-20-fevrier-1996-ecot9651496d)
 - [Décret n°96-553 du 20 juin 1996 (TASS9621386D)](decret-n96-553-du-20-juin-1996-tass9621386d)
