@@ -4,13 +4,13 @@ I.  Lorsque les résultats du contrôle phytosanitaire sont satisfaisants, un pa
 
 Le passeport phytosanitaire consiste :
 
-a) Soit en une étiquette simplifiée assortie d'un document d'accompagnement utilisés à des fins commerciales ou réglementaires si besoin est. L'étiquette et le document d'accompagnement, chacun en ce qui le concerne, portent mention des informations exigées en application de l'article 9 du décret du 10 novembre 1993 susvisé.
+a) Soit en une étiquette simplifiée assortie d'un document d'accompagnement utilisés à des fins commerciales ou réglementaires si besoin est. L'étiquette et le document d'accompagnement, chacun en ce qui le concerne, portent mention des informations exigées en application de l'article R251-17 du code rural.
 
 Cette étiquette est apposée sur le document d'accompagnement et sur un lot de végétaux, produits végétaux et autres objets, homogène ou non quant aux genres et aux espèces le constituant, sous réserve qu'il soit expédié vers un destinataire unique.
 
 La composition du lot de végétaux, produits végétaux et autres objets doit figurer sur le document d'accompagnement ;
 
-b) Soit en une étiquette comportant l'ensemble des informations exigées en application de l'article 9 du décret du 10 novembre 1993 précité.
+b) Soit en une étiquette comportant l'ensemble des informations exigées en application de l'article R251-17 du code rural.
 
 Cette étiquette accompagne soit un végétal, produit végétal et autre objet, soit un lot homogène de végétaux, produits végétaux et autres objets.
 

@@ -24,7 +24,7 @@ zone continentale ou littorale, remplissant, selon le cas, les conditions de l'a
 
 10. Poisson suspect d'être infecté : tout poisson présentant soit des signes cliniques, soit des lésions post mortem permettant de suspecter une maladie réputée contagieuse, soit encore des réactions à des épreuves de laboratoire ne permettant pas d'infirmer le diagnostic ;
 
-11. Poisson infecté : tout poisson sur lequel la présence d'une maladie réputée contagieuse a été confirmée, conformément aux dispositions du décret du 16 septembre 1999 susvisé ;
+11. Poisson infecté : tout poisson sur lequel la présence d'une maladie réputée contagieuse a été confirmée, conformément aux dispositions de l'article R. 223-22 du code rural ;
 
 12. Exploitation suspecte d'être infectée : exploitation qui détient des poissons suspects d'être infectés ;
 

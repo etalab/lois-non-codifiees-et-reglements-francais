@@ -1,6 +1,6 @@
 # Article 10
 
-Les agents habilités par le ministre de l'agriculture et de la pêche en vertu de l'article 61 du décret du 5 mai 1994 susvisé sont chargés de procéder à l'audit et d'effectuer des visites de contrôle.
+Les agents habilités par le ministre de l'agriculture et de la pêche en vertu de l'article R. 253-15 du code rural sont chargés de procéder à l'audit et d'effectuer des visites de contrôle.
 
 La liste des agents habilités visés ci-dessus est arrêtée par le ministre de l'agriculture et de la pêche.
 

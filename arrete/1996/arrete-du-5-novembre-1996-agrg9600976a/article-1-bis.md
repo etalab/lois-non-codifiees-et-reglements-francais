@@ -1,6 +1,6 @@
 # Article 1 bis
 
-a) Tout transporteur d'animaux vertébrés vivants, tel que défini à l'article 1er du décret du 13 décembre 1995 susvisé, est tenu d'adresser, par lettre recommandée avec demande d'avis de réception, une demande d'agrément aux services vétérinaires du département où se trouve son siège social, son principal établissement ou, à défaut, son domicile.
+a) Tout transporteur d'animaux vertébrés vivants, tel que défini à l'article R214-49 du code rural, est tenu d'adresser, par lettre recommandée avec demande d'avis de réception, une demande d'agrément aux services vétérinaires du département où se trouve son siège social, son principal établissement ou, à défaut, son domicile.
 
 Cette demande doit être accompagnée :
 
@@ -8,11 +8,11 @@ Cette demande doit être accompagnée :
 
 - de la liste des moyens de transport destinés à être utilisés pour le transport d'animaux vivants, ainsi que de leur immatriculation ;
 
-- de la liste des convoyeurs tels que définis à l'article 5 du décret du 13 décembre 1995 susvisé ;
+- de la liste des convoyeurs tels que définis à l'article R214-55 du code rural ;
 
 - des pièces justifiant de la qualification des personnes exerçant la fonction de convoyeur.
 
-b) Le contenu de la formation prévue à l'article 6-1 du décret n° 95-1285 du 13 décembre 1995 modifié doit être conforme à l'annexe V du présent arrêté.
+b) Le contenu de la formation prévue à l'article R214-57 du code rural doit être conforme à l'annexe V du présent arrêté.
 
 c) Afin de contrôler que les conditions de l'agrément des transporteurs d'animaux vivants sont remplies, les agents des services vétérinaires du département effectuent une visite sur place pour vérifier :
 

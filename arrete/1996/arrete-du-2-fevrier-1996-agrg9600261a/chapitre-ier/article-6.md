@@ -1,6 +1,6 @@
 # Article 6
 
-Dans le cadre de l'enquête épidémiologique visée à l'article 3, paragraphe 1°, point f, et à l'article 6, paragraphe 3°, du décret du 11 janvier 1996 susvisé, le directeur des services vétérinaires fait procéder à la recherche des informations suivantes :
+Dans le cadre de l'enquête épidémiologique visée à l'article R. 223-101, paragraphe 1°, point f, et à l'article R223-104, paragraphe 3°, du code rural, le directeur des services vétérinaires fait procéder à la recherche des informations suivantes :
 
 1° La période pendant laquelle la peste équine peut avoir existé dans l'exploitation concernée avant qu'elle ne soit déclarée ou confirmée ;
 

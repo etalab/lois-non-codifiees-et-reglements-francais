@@ -1,3 +1,0 @@
-# Article 29
-
-L'autorisation de dissémination volontaire dans l'environnement prévue par l'article 11 de la loi du 13 juillet 1992 susvisée est, s'agissant de produits phytopharmaceutiques composés en tout ou partie d'organismes génétiquement modifiés, délivrée par le ministre chargé de l'agriculture après accord du ministre chargé de l'environnement, après avis de la commission d'étude issue du génie biomoléculaire, après avis de la commission d'étude de la toxicité des produits antiparasitaires à usage agricole et des produits assimilés, et sur proposition du comité d'homologation des produits antiparasitaires à usage agricole et des produits assimilés.

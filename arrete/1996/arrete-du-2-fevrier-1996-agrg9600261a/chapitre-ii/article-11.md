@@ -1,6 +1,6 @@
 # Article 11
 
-Les dérogations prévues à l'article 10 du décret du 11 janvier 1996 susvisé peuvent être accordées par le préfet, après avis du directeur des services vétérinaires, pour :
+Les dérogations prévues à l'article R. 223-108 du code rural peuvent être accordées par le préfet, après avis du directeur des services vétérinaires, pour :
 
 1° Les équidés de la zone de protection destinés à être abattus dans un abattoir, désigné par le directeur des services vétérinaires, situé dans la zone de surveillance, si la zone de protection ne dispose pas d'abattoir ;
 

@@ -1,6 +1,6 @@
 # Article 1
 
-I. - Les végétaux, produits végétaux ou autres objets mentionnés à l'annexe V, partie A, chapitre II, de l'arrêté du 2 septembre 1993 susvisé ne peuvent être introduits et mis en circulation dans les zones protégées que s'ils sont accompagnés d'un passeport phytosanitaire portant les mentions exigées à l'article 9 du décret du 10 novembre 1993 susvisé et plus particulièrement la marque distinctive " ZP " et le nom ou le code des zones dans lesquelles ces végétaux sont autorisés.
+I. - Les végétaux, produits végétaux ou autres objets mentionnés à l'annexe V, partie A, chapitre II, de l'arrêté du 2 septembre 1993 susvisé ne peuvent être introduits et mis en circulation dans les zones protégées que s'ils sont accompagnés d'un passeport phytosanitaire portant les mentions exigées à l'article R251-17 du code rural et plus particulièrement la marque distinctive " ZP " et le nom ou le code des zones dans lesquelles ces végétaux sont autorisés.
 
 La liste des zones protégées est fixée en annexe VI de l'arrêté du 2 septembre 1993 précité.
 

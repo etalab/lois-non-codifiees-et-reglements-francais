@@ -1,6 +1,6 @@
 # Article 8
 
-En application de l'article 13 du décret n° 97-903 relatif à la protection des animaux au moment de leur abattage ou de leur mise à mort, il est procédé à la vérification de l'aptitude à l'emploi des matériels utilisés pour l'immobilisation dans le cadre de l'abattage rituel, de l'étourdissement et de la mise à mort des animaux au regard des règles relatives à la protection de l'animal.
+En application de l'article R. 214-75 du code rural, il est procédé à la vérification de l'aptitude à l'emploi des matériels utilisés pour l'immobilisation dans le cadre de l'abattage rituel, de l'étourdissement et de la mise à mort des animaux au regard des règles relatives à la protection de l'animal.
 
 Pour ce faire, il est procédé à :
 

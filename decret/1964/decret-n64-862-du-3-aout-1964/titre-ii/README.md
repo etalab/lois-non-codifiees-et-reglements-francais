@@ -8,4 +8,3 @@
 - [Chapitre VI : Conseil supérieur de la forêt et des produits forestiers.](chapitre-vi)
 - [Chapitre VII : Conseil supérieur de l'élevage.](chapitre-vii)
 - [Chapitre VIII : Commission nationale d'amélioration génétique.](chapitre-viii)
-- [Chapitre IX : Commission nationale vétérinaire.](chapitre-ix)

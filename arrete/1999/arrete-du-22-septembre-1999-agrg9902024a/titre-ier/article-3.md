@@ -1,6 +1,6 @@
 # Article 3
 
-Toutes les exploitations qui détiennent ou élèvent des poissons des espèces sensibles aux maladies réputées contagieuses telles que fixées par le décret du 16 septembre 1999 susvisé doivent être déclarées par leur exploitant au préfet.
+Toutes les exploitations qui détiennent ou élèvent des poissons des espèces sensibles aux maladies réputées contagieuses telles que fixées par l'article R. 223-22 du code rural doivent être déclarées par leur exploitant au préfet.
 
 Chaque exploitant tient un registre sur lequel figurent :
 

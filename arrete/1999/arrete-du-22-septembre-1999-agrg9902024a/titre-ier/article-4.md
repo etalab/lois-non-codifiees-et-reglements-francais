@@ -18,6 +18,6 @@ Le laboratoire national de référence est chargé :
 
 - de coopérer avec le laboratoire communautaire de référence désigné à l'annexe B de la directive 93/53/CEE susvisée.
 
-Un laboratoire de diagnostic agréé est un laboratoire figurant sur une liste établie par le ministre de l'agriculture et de la pêche, notamment après avis du laboratoire national de référence, et chargé à ce titre d'effectuer les tests de diagnostic et de confirmation de la présence d'une des maladies réputées contagieuses des poissons fixées par le décret du 16 septembre 1999 susvisé.
+Un laboratoire de diagnostic agréé est un laboratoire figurant sur une liste établie par le ministre de l'agriculture et de la pêche, notamment après avis du laboratoire national de référence, et chargé à ce titre d'effectuer les tests de diagnostic et de confirmation de la présence d'une des maladies réputées contagieuses des poissons fixées par l'article R. 223-22 du code rural.
 
 Pour la mise en oeuvre des mesures prévues au présent arrêté, les analyses de diagnostic des maladies réputées contagieuses des poissons sont effectuées par un laboratoire de diagnostic agréé ou par le laboratoire de référence.

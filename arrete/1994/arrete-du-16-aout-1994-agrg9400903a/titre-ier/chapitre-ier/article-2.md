@@ -8,4 +8,4 @@ b) Que ces végétaux, produits végétaux et autres objets mentionnés égaleme
 
 c) Que ces végétaux, produits végétaux et autres objets mentionnés également à l'annexe IV, partie A, chapitre II, répondent aux exigences particulières les concernant, figurant dans cette partie d'annexe.
 
-Sans préjudice des dispositions de l'article 7 du décret du 10 novembre 1993 susvisé, si au cours de ce contrôle il apparaît que les exigences mentionnées ci-dessus ne sont pas respectées, le passeport phytosanitaire n'est pas délivré et ne peut être apposé sur ces végétaux, produits végétaux ou autres objets.
+Sans préjudice des dispositions de l'article R251-6 du code rural, si au cours de ce contrôle il apparaît que les exigences mentionnées ci-dessus ne sont pas respectées, le passeport phytosanitaire n'est pas délivré et ne peut être apposé sur ces végétaux, produits végétaux ou autres objets.

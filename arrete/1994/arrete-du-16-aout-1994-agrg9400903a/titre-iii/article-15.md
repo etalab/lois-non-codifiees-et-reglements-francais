@@ -1,6 +1,6 @@
 # Article 15
 
-Les personnes visées à l'article 14 sont tenues de remplir les passeports phytosanitaires, conformément aux dispositions de l'article 9, alinéa 3, du décret du 10 novembre 1993 précité.
+Les personnes visées à l'article 14 sont tenues de remplir les passeports phytosanitaires, conformément aux dispositions de l'article R251-17 du code rural.
 
 Toute personne inscrite sur le registre officiel du contrôle phytosanitaire doit :
 
@@ -18,4 +18,4 @@ Toute personne inscrite sur le registre officiel du contrôle phytosanitaire doi
 
 - effectuer des observations visuelles durant la période de végétation et conformément aux règlements techniques établis par le ministre de l'agriculture et de la pêche.
 
-Les plans et documents mentionnés ci-dessus doivent être conservés pendant cinq ans, indépendamment de l'obligation pour les acheteurs considérés comme utilisateurs finals engagés professionnellement dans la production de végétaux, de conserver les passeports phytosanitaires pendant un an et d'en consigner les références dans leurs livres, en application de l'article 14-II b du décret du 10 novembre 1993 susvisé.
+Les plans et documents mentionnés ci-dessus doivent être conservés pendant cinq ans, indépendamment de l'obligation pour les acheteurs considérés comme utilisateurs finals engagés professionnellement dans la production de végétaux, de conserver les passeports phytosanitaires pendant un an et d'en consigner les références dans leurs livres, en application de l'article R251-21 du code rural.

@@ -2,7 +2,7 @@
 
 Le transporteur :
 
-- établit le plan de marche visé à l'article 3 du présent arrêté sur instructions du donneur d'ordre au sens de l'article 3 du décret n° 95-1285 du 13 décembre 1995 susvisé ;
+- établit le plan de marche visé à l'article 3 du présent arrêté sur instructions du donneur d'ordre au sens de l'article R214-52 du code rural ;
 
 - présente et fait viser le plan de marche aux services vétérinaires du lieu de départ des premiers animaux chargés lors de l'établissement du certificat sanitaire ;
 
