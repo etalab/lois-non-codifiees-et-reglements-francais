@@ -83,6 +83,7 @@
 - [Décret n°83-388 du 11 mai 1983](decret-n83-388-du-11-mai-1983)
 - [Décret n°83-393 du 11 mai 1983](decret-n83-393-du-11-mai-1983)
 - [Décret n°83-642 du 12 juillet 1983](decret-n83-642-du-12-juillet-1983)
+- [Décret n°83-818 du 12 septembre 1983](decret-n83-818-du-12-septembre-1983)
 - [Décret n° 83-16 du 13 janvier 1983](decret-n-83-16-du-13-janvier-1983)
 - [Décret n°83-17 du 13 janvier 1983](decret-n83-17-du-13-janvier-1983)
 - [Décret n°83-297 du 13 avril 1983](decret-n83-297-du-13-avril-1983)
