@@ -1,5 +1,7 @@
 # Article 5
 
-Les additifs ne peuvent être détenus en vue de la vente, mis en vente, vendus ou distribués à titre gratuit pour la nutrition animale qu'incorporés aux aliments destinés à la nutrition des animaux dans les conditions fixées par l'article 4 et par les arrêtés pris pour son application. De même, les additifs ne peuvent être détenus en vue de la nutrition des animaux lorsque ces animaux sont élevés en vue de leur vente ou de la vente de leurs produits.
+Les additifs ne peuvent être distribués aux animaux qu'incorporés aux aliments conformément aux conditions d'autorisation prévues aux articles 4, 4-1 et 4-5.
 
-Les dispositions de l'alinéa précédent ne sont pas applicables aux additifs destinés à la fabrication industrielle des aliments pour animaux.
+Par dérogation aux dispositions du premier alinéa, des additifs appartenant à des groupes autres que les "antibiotiques", les "coccidiostatiques et autres substances médicamenteuses" et les "facteurs de croissance" peuvent être utilisés selon un mode d'administration autre que l'incorporation aux aliments des animaux, à condition que celui-ci soit prévu dans le règlement d'autorisation.
+
+Les additifs peuvent être ajoutés aux matières premières pour aliments des animaux si cet emploi est expressément prévu dans le règlement d'autorisation.
