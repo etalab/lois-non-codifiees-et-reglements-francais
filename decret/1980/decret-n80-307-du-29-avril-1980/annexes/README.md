@@ -4,4 +4,5 @@
 - [Publicités diverses : numéro, nature des actes, émoluments.](publicites-diverses)
 - [Privilèges et suretés : numéro, nature des actes, émoluments.](privileges-et)
 - [Redressement et liquidation judiciaire des entreprises (1) : numéro, nature des actes, taux de base.](redressement-et)
+- [Registre du commerce et des sociétés (1), registre des agents commerciaux : numéro, nature des actes, émoluments.](registre-du-commerce-et)
 - [Numéro, nature des missions, émoluments.](numero-nature-des-missions-emoluments)
