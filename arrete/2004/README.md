@@ -29,6 +29,8 @@
 - [Arrêté du 1 mars 2004 (BUDB0410017A)](arrete-du-1-mars-2004-budb0410017a)
 - [Arrêté du 1 mars 2004 (ECOT0310489A)](arrete-du-1-mars-2004-ecot0310489a)
 - [Arrêté du 1 mars 2004 (SANS0420705A)](arrete-du-1-mars-2004-sans0420705a)
+- [Arrêté du 1 octobre 2004 (MCCB0400353A)](arrete-du-1-octobre-2004-mccb0400353a)
+- [Arrêté du 1 octobre 2004 (MCCB0400357A)](arrete-du-1-octobre-2004-mccb0400357a)
 - [Arrêté du 1 octobre 2004 (MJSK0470188A)](arrete-du-1-octobre-2004-mjsk0470188a)
 - [Arrêté du 1 octobre 2004 (MJSK0470190A)](arrete-du-1-octobre-2004-mjsk0470190a)
 - [Arrêté du 1 septembre 2004 (ECOD0470023A)](arrete-du-1-septembre-2004-ecod0470023a)
