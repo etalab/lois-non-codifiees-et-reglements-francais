@@ -10,9 +10,9 @@ L'évaluation est établie :
 
 4° Par le directeur ou le chef de service pour les magistrats de l'administration centrale du ministère de la justice en fonctions dans leur direction ou dans leur service ;
 
-5° Par le premier président ou le procureur général auprès duquel ils assurent le secrétariat général de la juridiction pour les substituts chargés de cette fonction ;
+5° Par le premier président ou le procureur général pour les magistrats chargés d'un secrétariat général à la Cour de cassation ou dans une cour d'appel ;
 
-6° Par le premier président de la cour d'appel de Paris ou par le procureur général près ladite cour pour les substituts chargés respectivement du secrétariat général du tribunal de grande instance de Paris et du secrétariat général du parquet de ce tribunal ;
+6° Par le premier président de la cour d'appel ou le procureur général près ladite cour pour les magistrats chargés d'un secrétariat général dans un tribunal de grande instance du ressort de la cour d'appel ;
 
 7° Par le garde des sceaux, ministre de la justice, pour les chefs des tribunaux supérieurs d'appel, ainsi que pour les magistrats maintenus par ordre en France après consultation des autorités auprès desquelles les intéressés ont effectivement servi en dernier lieu ;
 

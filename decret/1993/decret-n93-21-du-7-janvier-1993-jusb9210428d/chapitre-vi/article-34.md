@@ -14,6 +14,6 @@ Sont exclus du bénéfice des bourses, sous réserve d'un droit d'option au déb
 
 2° Les stagiaires bénéficiant d'une des allocations ou garanties de ressources prévues pour les travailleurs privés d'emploi, par le code du travail ;
 
-3° Les stagiaires bénéficiant d'un congé de formation tel que prévu par l'article L. 950-2 du code du travail.
+3° Les stagiaires bénéficiant d'un congé de formation tel que prévu par l'article L. 931-1 du code du travail.
 
 Les stagiaires n'ayant pas déclaré l'ensemble des revenus mentionnés à l'alinéa précédent sont redevables envers l'Etat des sommes qui leur ont été allouées au titre du présent article. Ils peuvent toutefois être dispensés, en tout ou en partie, de ce remboursement par arrêté du garde des sceaux, ministre de la justice, après avis du directeur de l'Ecole nationale de la magistrature. Les personnes au stage desquelles il est mis fin pour cause d'inaptitude physique sont, de plein droit, dispensées du remboursement.

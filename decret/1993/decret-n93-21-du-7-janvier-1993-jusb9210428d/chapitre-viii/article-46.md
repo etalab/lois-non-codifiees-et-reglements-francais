@@ -1,5 +1,17 @@
 # Article 46
 
-Les magistrats du second grade occupant à la date du 30 juin 1993 un emploi de président ou de procureur d'un tribunal de grande instance ou de première instance peuvent, au sein du même grade, être mutés dans l'une ou l'autre de ces fonctions sans être inscrits sur la liste d'aptitude spéciale prévue à l'article 3.
+Il est créé, à compter du 1er janvier 2002, un grade provisoire de magistrat du second grade.
 
-Les magistrats ayant été nommés directement au second groupe du second grade en application des articles 29 et 30 de l'ordonnance du 22 décembre 1958 susvisée et de l'article 21 de la loi organique du 29 octobre 1980 susvisée peuvent être nommés aux emplois de vice-président d'un tribunal de grande instance ou de première instance ou d'un tribunal supérieur d'appel nonobstant la condition d'ancienneté prévue à l'article 3.
+Ce grade provisoire comporte dix échelons.
+
+Le temps passé dans chaque échelon est fixé à :
+
+- un an pour les deux premiers échelons ;
+
+- deux ans pour les 3e, 4e, 5e, 6e et 7e échelons ;
+
+- trois ans pour les 8e et 9e échelons.
+
+Les magistrats appartenant au second grade à la date du 31 décembre 2001 sont classés dans ce grade provisoire à identité d'échelon. Ils conservent l'ancienneté acquise dans leur précédent échelon.
+
+Les dispositions dont relèvent les magistrats du second grade, à l'exception des dispositions de l'article 12, sont applicables aux magistrats du second grade provisoire.

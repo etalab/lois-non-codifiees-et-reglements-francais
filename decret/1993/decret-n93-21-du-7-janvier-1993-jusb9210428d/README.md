@@ -4,6 +4,5 @@
 - [CHAPITRE II : De la carrière des magistrats.](chapitre-ii)
 - [CHAPITRE III : De l'évaluation de l'activité professionnelle du magistrat.](chapitre-iii)
 - [CHAPITRE IV : Du tableau d'avancement.](chapitre-iv)
-- [CHAPITRE V : Des listes d'aptitude et de sélection.](chapitre-v)
 - [CHAPITRE VI : Des fonctions en service extraordinaire à la Cour de cassation, du détachement judiciaire, de l'intégration directe dans le corps judiciaire et des fonctions judiciaires exercées à titre temporaire.](chapitre-vi)
 - [CHAPITRE VIII : Dispositions transitoires.](chapitre-viii)

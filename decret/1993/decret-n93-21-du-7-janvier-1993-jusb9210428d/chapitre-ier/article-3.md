@@ -1,5 +1,15 @@
 # Article 3
 
-Nul ne peut être nommé aux fonctions mentionnées aux 5°, 9°, 10° et 11° de l'article 2 s'il ne justifie de sept ans d'ancienneté, dont cinq ans de services effectifs en qualité de magistrat accomplis dans le corps judiciaire ou en service détaché.
+Les magistrats du second grade de la hiérarchie judiciaire sont appelés à exercer les fonctions suivantes :
 
-En outre, l'accès aux fonctions de président et de procureur de la République du second grade ou à la fonction de conseiller de cour d'appel du second grade est subordonné à l'inscription sur une liste d'aptitude spéciale. Ces deux listes sont établies dans les conditions prévues à l'article 29.
+1° Juge, juge d'instruction, juge des affaires familiales, juge des enfants, juge de l'application des peines d'un tribunal de grande instance ou de première instance, juge d'un tribunal de grande instance chargé du service d'un tribunal d'instance, substitut du procureur de la République ;
+
+2° Juge placé auprès d'un premier président de cour d'appel et substitut placé auprès d'un procureur général de cour d'appel ;
+
+3° Juge du livre foncier ;
+
+4° Juge d'un tribunal supérieur d'appel et substitut du procureur de la République près cette juridiction ;
+
+5° Auditeur à la Cour de cassation ;
+
+6° Substitut à l'administration centrale du ministère de la justice.

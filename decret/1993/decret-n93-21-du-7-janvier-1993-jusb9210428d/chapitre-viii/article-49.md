@@ -1,47 +1,27 @@
 # Article 49
 
-Pour l'application des dispositions de l'article L. 16 du code des pensions civiles et militaires de retraite, les assimilations prévues pour fixer les nouveaux indices de traitement mentionnés à l'article L. 15 dudit code sont faites, en ce qui concerne le nouveau second grade, conformément au tableau suivant :
+Les magistrats exerçant, à la date du 31 décembre 2001 :
 
-ANCIENNE SITUATIONNOUVELLE SITUATION
+1° Au second grade, les fonctions de :
 
-Second groupe du second grade
+a) Vice-président d'un tribunal de grande instance, d'un tribunal de première instance ou d'un tribunal supérieur d'appel, et vice-président d'un tribunal de grande instance chargé du service d'un tribunal d'instance ;
 
-Second grade
+b) Président ou de procureur de la République d'un tribunal de grande instance ou de première instance ;
 
-6e  échelon.10e  échelon
+c) Conseiller de cour d'appel ;
 
-5e  échelon. 9e  échelon
+d) Conseiller référendaire à la Cour de cassation ;
 
-4e  échelon. 8e  échelon
+e) Substitut chargé d'un secrétariat général.
 
-3e  échelon. 7e  échelon
+2° Au premier groupe du premier grade, les fonctions de substitut chargé d'un secrétariat général ;
 
-2e  échelon. 6e  échelon
+3° Au second groupe du premier grade, les fonctions de :
 
-1er échelon. 5e  échelon
+a) Premier juge, premier juge d'instruction, premier juge des enfants, premier juge de l'application des peines des tribunaux de grande instance de Paris, Nanterre, Bobigny et Créteil, et premier substitut du procureur de la République près ces juridictions ;
 
-Premier groupe du second grade
+b) Président de chambre et avocat général de cour d'appel,
 
-Second grade
+conservent, tant qu'ils n'ont pas été nommés à une autre fonction, leur titre et leur rang dans la juridiction.
 
-9e  échelon à partir de 3 ans d'ancienneté. 10e  échelon
-
-9e  échelon avec moins de 3 ans d'ancienneté. 9e  échelon
-
-8e  échelon. 8e  échelon
-
-7e  échelon. 7e  échelon
-
-6e  échelon. 6e  échelon
-
-5e  échelon. 5e  échelon
-
-4e  échelon. 4e  échelon
-
-3e  échelon. 3e  échelon
-
-2e  échelon. 2e  échelon
-
-1er échelon. 1er échelon
-
-Les pensions des magistrats du second grade retraités avant l'intervention du présent décret et de celles de leurs ayants cause sont révisées à compter de la date de son application aux personnels en activité.
+Les magistrats exerçant, à la date du 31 décembre 2001, les fonctions de premier procureur de la République adjoint du second groupe du premier grade et de procureur de la République adjoint du premier groupe du premier grade prennent à compter du 1er janvier 2002 respectivement les titres de procureur de la République adjoint et de vice-procureur de la République. Ces magistrats conservent, tant qu'ils n'ont pas été nommés à une autre fonction, leur rang dans la juridiction.
