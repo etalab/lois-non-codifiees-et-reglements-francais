@@ -1,3 +1,3 @@
 # Article 1
 
-Sans préjudice des pouvoirs dévolus à l'inspection générale des finances, le contrôle sur place des organismes collecteurs de la participation des employeurs à l'effort de construction est exercé dans chaque département au nom du ministre de l'économie et des finances par les trésoriers-payeurs généraux et les fonctionnaires chargés de les assister dans leur mission de contrôle.
+A partir du 1er janvier 1967, les pièces de 5 anciens francs en alliage d'aluminium (type Lavrillier) cesseront d'avoir cours légal entre particuliers dans les départements de la Guadeloupe, de la Guyane et de la Martinique et ne seront plus acceptées en paiement par les caisses publiques de ces départements.

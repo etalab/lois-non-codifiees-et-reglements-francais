@@ -1,3 +1,7 @@
 # Article 2
 
-Sans préjudice des pouvoirs dévolus à l'inspection générale de la construction, le contrôle sur place des organismes collecteurs de la participation des employeurs à l'effort de construction est exercé dans chaque département au nom du ministre de l'équipement par les directeurs départementaux de la construction et les fonctionnaires chargés de les assister dans leur mission de contrôle.
+Toutefois, ces pièces pourront être reprises dans les départements de la Guadeloupe, de la Guyane et de la Martinique :
+
+Jusqu'au 31 janvier 1967 inclus, par l'Institut d'émission des départements d'outre-mer et par les banques ;
+
+Jusqu'au 31 mars 1967 inclus, par les comptables du Trésor et les comptables des postes et télécommunications.
