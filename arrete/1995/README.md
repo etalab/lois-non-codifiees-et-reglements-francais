@@ -864,6 +864,7 @@
 - [Arrêté du 27 janvier 1995 (SPSA9500029A)](arrete-du-27-janvier-1995-spsa9500029a)
 - [Arrêté du 27 janvier 1995 (SPSS9500369A)](arrete-du-27-janvier-1995-spss9500369a)
 - [Arrêté du 27 juillet 1995 (FPPA9500101A)](arrete-du-27-juillet-1995-fppa9500101a)
+- [Arrêté du 27 juillet 1995 (INTD9500402A)](arrete-du-27-juillet-1995-intd9500402a)
 - [Arrêté du 27 juillet 1995 (INTF9500442A)](arrete-du-27-juillet-1995-intf9500442a)
 - [Arrêté du 27 juin 1995 (MENU9501178A)](arrete-du-27-juin-1995-menu9501178a)
 - [Arrêté du 27 juin 1995 (MENU9501179A)](arrete-du-27-juin-1995-menu9501179a)

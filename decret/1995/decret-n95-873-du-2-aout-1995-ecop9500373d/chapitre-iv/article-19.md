@@ -1,0 +1,3 @@
+# Article 19
+
+Les fonctionnaires détachés dans le corps régi par le présent décret sont classés à l'échelon comportant un indice égal ou, à défaut, immédiatement supérieur à celui qu'ils détiennent dans le grade de leur corps d'origine. Dans la limite de la durée moyenne du temps requis pour bénéficier d'un avancement d'échelon dans leur nouveau grade, ils conservent leur ancienneté d'échelon lorsque l'augmentation de traitement résultant du détachement est inférieure à celle qui aurait résulté d'un avancement d'échelon dans leur grade d'origine ou qui a résulté de leur nomination audit échelon si cet échelon était le plus élevé de leur précédent grade.

@@ -6,3 +6,4 @@
 - [Loi n° 95-851 du 24 juillet 1995 (ECOX9400042L)](loi-n-95-851-du-24-juillet-1995-ecox9400042l)
 - [Loi n° 95-854 du 27 juillet 1995 (MAXE9500142L)](loi-n-95-854-du-27-juillet-1995-maxe9500142l)
 - [Loi n° 95-858 du 28 juillet 1995 (ECOX9500960L)](loi-n-95-858-du-28-juillet-1995-ecox9500960l)
+- [Loi n° 95-865 du 2 août 1995 (MAEX9500061L)](loi-n-95-865-du-2-aout-1995-maex9500061l)
