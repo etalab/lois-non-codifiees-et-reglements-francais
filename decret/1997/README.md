@@ -447,7 +447,6 @@
 - [Décret n°88-401 du 18 avril 1988 (RESY8800491D)](decret-n88-401-du-18-avril-1988-resy8800491d)
 - [Décret n°96-1112 du 18 décembre 1996 (JUSC9620870D)](decret-n96-1112-du-18-decembre-1996-jusc9620870d)
 - [Décret n°96-1136 du 18 décembre 1996 (FCEC9600201D)](decret-n96-1136-du-18-decembre-1996-fcec9600201d)
-- [Décret n°97-1052 du 18 novembre 1997 (PRMX9702372D)](decret-n97-1052-du-18-novembre-1997-prmx9702372d)
 - [Décret n°97-1064 du 18 novembre 1997 (EQUP9700613D)](decret-n97-1064-du-18-novembre-1997-equp9700613d)
 - [Décret n°97-1075 du 18 novembre 1997 (EQUM9702227D)](decret-n97-1075-du-18-novembre-1997-equm9702227d)
 - [Décret n°97-244 du 18 mars 1997 (TASO9710247D)](decret-n97-244-du-18-mars-1997-taso9710247d)
