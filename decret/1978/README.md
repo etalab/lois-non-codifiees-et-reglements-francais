@@ -9,6 +9,7 @@
 - [Décret n°71-187 du 9 mars 1971](decret-n71-187-du-9-mars-1971)
 - [Décret n°78-21 du 9 janvier 1978](decret-n78-21-du-9-janvier-1978)
 - [Décret n°78-27 du 10 janvier 1978](decret-n78-27-du-10-janvier-1978)
+- [Décret n°78-112 du 11 janvier 1978](decret-n78-112-du-11-janvier-1978)
 - [Décret n°77-1141 du 12 octobre 1977](decret-n77-1141-du-12-octobre-1977)
 - [Décret n°78-39 du 12 janvier 1978](decret-n78-39-du-12-janvier-1978)
 - [Décret n°78-955 du 12 septembre 1978](decret-n78-955-du-12-septembre-1978)
