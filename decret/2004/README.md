@@ -75,6 +75,7 @@
 - [Décret n°2004-67 du 16 janvier 2004 (MENS0302822D)](decret-n2004-67-du-16-janvier-2004-mens0302822d)
 - [Décret n°2004-68 du 16 janvier 2004 (BUDD0370018D)](decret-n2004-68-du-16-janvier-2004-budd0370018d)
 - [Décret n°2004-69 du 16 janvier 2004 (FPPD0320006D)](decret-n2004-69-du-16-janvier-2004-fppd0320006d)
+- [Décret n°2004-71 du 16 janvier 2004 (MCCB0300779D)](decret-n2004-71-du-16-janvier-2004-mccb0300779d)
 - [Décret n°2003-906 du 17 septembre 2003 (MENE0301739D)](decret-n2003-906-du-17-septembre-2003-mene0301739d)
 - [Décret n°2003-1207 du 18 décembre 2003 (SANS0324433D)](decret-n2003-1207-du-18-decembre-2003-sans0324433d)
 - [Décret n°2003-1246 du 18 décembre 2003 (JUSC0320741D)](decret-n2003-1246-du-18-decembre-2003-jusc0320741d)

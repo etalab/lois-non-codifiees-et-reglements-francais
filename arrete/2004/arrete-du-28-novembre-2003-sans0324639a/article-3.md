@@ -1,0 +1,5 @@
+# Article 3
+
+Les caisses de mutualité sociale agricole communiquent aux caisses mutuelles régionales d'assurance maladie et maternité, au plus tard pour le dixième jour suivant la publication du présent arrêté au Journal officiel de la République française, les données mentionnées à l'article 2. Elles leur communiquent également le montant des revenus retenus pour le calcul de la contribution visée à l'article L. 136-4 du code de la sécurité sociale et due au titre de l'année 2002.
+
+Les caisses mutuelles régionales d'assurance maladie et maternité des travailleurs non salariés des professions non agricoles communiquent aux caisses de mutualité sociale agricole, au plus tard pour le dixième jour suivant la publication du présent arrêté au Journal officiel de la République française, les montants des revenus retenus pour le calcul de la contribution visée à l'article L. 136-3 du code de la sécurité sociale et due au titre de l'année 2002. Elles leur précisent également, le cas échéant, si ces revenus et ceux déclarés par les intéressés au titre de leurs activités agricoles font l'objet d'une imposition unique dans la même catégorie fiscale et cette catégorie.
