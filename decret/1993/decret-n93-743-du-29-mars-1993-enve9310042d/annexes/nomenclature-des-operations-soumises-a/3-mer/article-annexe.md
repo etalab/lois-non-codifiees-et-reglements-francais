@@ -100,11 +100,11 @@ A
 
 3.3.1. Travaux d'aménagement portuaires et autres ouvrages réalisés en contact avec le milieu aquatique et ayant une incidence directe sur ce milieu :
 
-1° D'un montant supérieur ou égal à 12 000 000 F (1 900 000 Euro) ou ayant pour effet de modifier d'au moins 10 % la surface des plans d'eau abrités des ports
+1° D'un montant supérieur ou égal à 1 900 000 euros ou ayant pour effet de modifier d'au moins 10 % la surface des plans d'eau abrités des ports
 
 A
 
-2° D'un montant supérieur ou égal à 1 000 000 F (160 000 Euro) mais inférieur à 12 000 000 F (1 900 000 Euro) ou ayant pour effet de modifier de plus de 5 % et de moins de 10 % la surface des plans d'eau abrités des ports
+2° D'un montant supérieur ou égal à 160 000 euros mais inférieur à 1 900 000 euros ou ayant pour effet de modifier de plus de 5 % et de moins de 10 % la surface des plans d'eau abrités des ports
 
 D
 

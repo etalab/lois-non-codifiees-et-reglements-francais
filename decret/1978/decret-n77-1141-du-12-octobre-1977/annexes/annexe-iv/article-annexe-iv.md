@@ -1,8 +1,8 @@
 # Article Annexe IV
 
-1° Travaux ou aménagements d'un coût total inférieur à 12 millions de francs réalisés sur le domaine public fluvial ou maritime sous le régime de la concession prévu à l'article L.64 du code du domaine de l'Etat, ainsi que les travaux de création ou d'extension d'un port de plaisance ;
+1° Travaux ou aménagements d'un coût total inférieur à 1 900 000 euros réalisés sur le domaine public fluvial ou maritime sous le régime de la concession prévu à l'article L.64 du code du domaine de l'Etat, ainsi que les travaux de création ou d'extension d'un port de plaisance ;
 
-2° Travaux d'installations de remontées mécaniques et travaux d'aménagement de pistes pour la pratique de sports d'hiver, lorsque leur coût total est inférieur à six millions de francs ;
+2° Travaux d'installations de remontées mécaniques et travaux d'aménagement de pistes pour la pratique de sports d'hiver, lorsque leur coût total est inférieur à 950 000 euros ;
 
 3° Travaux d'installation des ouvrages de transport et de distribution d'électricité de tension inférieure à 63 kV, à l'exclusion des travaux souterrains ;
 
@@ -20,6 +20,6 @@
 
 10° Piscicultures soumises à autorisation ou concession en vertu de l'article L. 231-6 du code rural autres que celles définies à l'article R. 231-16 du code rural, premier alinéa, ou à renouvellement de l'autorisation ou de la concession quand la notice d'impact est exigée en vertu des articles R. 231-24 ou 34 du code rural, ou piscicultures régularisées en application de l'article R. 231-44 du code rural ;
 
-11° Travaux d'hydraulique agricole dont le coût total est compris entre 6 et 12 millions de francs ;
+11° Travaux d'hydraulique agricole dont le coût total est compris entre 950 000 et 1 900 000 euros ;
 
 12° Travaux et ouvrages de défense contre la mer d'une emprise totale inférieure à 2 000 mètres carrés.

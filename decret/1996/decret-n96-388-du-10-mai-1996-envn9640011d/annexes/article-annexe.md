@@ -2,13 +2,11 @@
 
 TYPE D'OPÉRATION
 
-STADE AU-DELÀ DUQUEL LE DÉBAT PUBLIC
-
-ne peut plus être organisé
+STADE AU-DELÀ DUQUEL LE DÉBAT PUBLIC ne peut plus être organisé
 
 Créations d'autoroutes ou de routes express, de lignes ferroviaires, de voies navigables ou mise à grand gabarit de canaux existants.
 
-Coût du projet supérieur à 4 milliards de francs ou longueur du projet supérieure à 80 km.
+Coût du projet supérieur à 600 millions d'euros ou longueur du projet supérieure à 80 km.
 
 Mention au Journal officiel de la décision du ministre compétent ou publicité régulière de la délibération de la collectivité compétente déterminant les principales caractéristiques du projet.
 
@@ -44,7 +42,7 @@ Mention au Journal officiel de la décision du ministre compétent de prendre ac
 
 Création d'une installation nucléaire de base.
 
-Nouveau site de production nucléaire. Nouveau site nucléaire hors production électronucléaire correspondant à un investissement d'un coût supérieur à 2 milliards de francs.
+Nouveau site de production nucléaire. Nouveau site nucléaire hors production électronucléaire correspondant à un investissement d'un coût supérieur à 300 millions d'euros.
 
 Mention au Journal officiel de la décision d'approbation par le ministre compétent des principales caractéristiques du projet.
 
@@ -62,6 +60,6 @@ Publication régulière de la délibération déterminant les principales caract
 
 Equipements culturels, sportifs, industriels, scientifiques.
 
-Coût des travaux supérieur à 2 milliards de francs.
+Coût des travaux supérieur à 300 millions d' euros.
 
 Mention au Journal officiel de la décision du ministre compétent d'approbation des principales caractéristiques du projet ou publicité régulière de la délibération de la collectivité territoriale compétente déterminant les principales caractéristiques du projet.
