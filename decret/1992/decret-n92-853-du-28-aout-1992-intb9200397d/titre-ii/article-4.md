@@ -10,4 +10,4 @@ Sont inscrits sur la liste d'aptitude prévue à l'article 3 ci-dessus les candi
 
 Le concours comporte une épreuve d'admission consistant en un entretien avec un jury chargé d'apprécier les aptitudes des candidats à exercer leur profession dans le cadre des missions remplies par les collectivités territoriales et les établissements publics locaux.
 
-Le Centre national de la fonction publique territoriale est chargé de la coordination générale de l'organisation de ce concours. Les règles de discipline, la date d'ouverture de l'épreuve et la liste des candidats admis à y prendre part sont fixées par le président du Centre national de la fonction publique territoriale. Celui-ci arrête également la liste d'aptitude.
+" Les concours sont organisés par le centre de gestion pour les collectivités et établissements publics affiliés et par les collectivités et établissements publics eux-mêmes lorsqu'ils ne sont pas affiliés. L'autorité organisatrice fixe les modalités d'organisation, les règles de discipline, le nombre de postes ouverts et la date des épreuves. Elle établit la liste des candidats autorisés à concourir. Elle arrête également la liste d'aptitude. "

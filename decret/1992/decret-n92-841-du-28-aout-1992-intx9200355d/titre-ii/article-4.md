@@ -4,4 +4,4 @@ Sont inscrits sur la liste d'aptitude prévue au 1° de l'article 3 ci-dessus le
 
 Les modalités d'organisation et la nature des épreuves sont fixées par décret et les programmes par arrêté du ministre chargé des collectivités territoriales.
 
-Le Centre national de la fonction publique territoriale est chargé de la coordination générale de l'organisation du concours. La date d'ouverture des épreuves et la liste des candidats admis à y prendre part sont fixées par le président du Centre national de la fonction publique territoriale. Celui-ci arrête également la liste d'aptitude.
+" Les centres de gestion organisent les concours dans leur ressort géographique ou, le cas échéant, dans le champ défini par une convention conclue en application du deuxième alinéa de l'article 26 de la loi du 26 janvier 1984 susvisée. Le président du centre de gestion fixe les modalités d'organisation, les règles de discipline, le nombre de postes ouverts et la date des épreuves. Il établit la liste des candidats autorisés à concourir. Il arrête également la liste d'aptitude. "

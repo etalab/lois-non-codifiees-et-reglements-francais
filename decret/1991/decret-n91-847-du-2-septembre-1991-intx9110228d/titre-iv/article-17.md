@@ -6,7 +6,7 @@ Le nombre d'assistants qualifiés de conservation de 1re classe ne peut être su
 
 Peuvent être nommés assistants qualifiés de conservation hors classe, après inscription sur un tableau d'avancement dans la limite fixée à l'alinéa suivant :
 
-1° Les assistants qualifiés de conservation de 2e classe comptant trois ans de service en cette qualité et un an d'ancienneté dans le 8e échelon de ce grade et ayant satisfait à un examen professionnel organisé par le Centre national de la fonction publique territoriale ;
+1° Les assistants qualifiés de conservation de 2e classe comptant trois ans de service en cette qualité et un an d'ancienneté dans le 8e échelon de ce grade et ayant satisfait à un examen professionnel organisé par les délégations régionales ou interdépartementales du Centre national de la fonction publique territoriale ;
 
 2° Les assistants qualifiés de conservation de 1re classe comptant trois ans de services en qualité d'assistant qualifié de conservation de 1re classe et ayant atteint le 3e échelon de leur grade.
 

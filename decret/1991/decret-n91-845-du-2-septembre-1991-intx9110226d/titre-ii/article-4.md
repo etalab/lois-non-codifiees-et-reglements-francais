@@ -10,4 +10,4 @@ Lorsque le nombre des candidats ayant subi avec succès les épreuves d'un conco
 
 Les concours comprennent des épreuves d'admissibilité et des épreuves d'admission dont les modalités sont fixées par décret et les programmes par arrêté du ministre chargé des collectivités territoriales. Ces concours peuvent comporter des épreuves communes.
 
-Le Centre national de la fonction publique territoriale est chargé de la coordination générale de l'organisation de ces concours. Les règles de discipline, la date d'ouverture des épreuves et la liste des candidats admis à y prendre part sont fixées par le président du Centre national de la fonction publique territoriale. Celui-ci arrête également la liste d'aptitude.
+" Les concours sont organisés par les délégations régionales ou interdépartementales du Centre national de la fonction publique territoriale. Le délégué régional ou interdépartemental fixe les modalités d'organisation, les règles de discipline, le nombre de postes ouverts. Il établit la liste des candidats autorisés à concourir. Il arrête également la liste d'aptitude. "

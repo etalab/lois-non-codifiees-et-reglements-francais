@@ -6,6 +6,6 @@
 
 " 2° A un concours sur titres ouvert aux candidats titulaires du diplôme d'Etat de manipulateur d'électroradiologie ou du brevet de technicien supérieur d'électroradiologie médicale. "
 
-Le Centre national de la fonction publique territoriale est chargé de la coordination générale de l'organisation de ce concours.
+" Le concours comporte un entretien avec le jury, dont les modalités sont fixées par décret.
 
-Les modalités d'organisation du concours, les règles de discipline et la date d'ouverture ainsi que la liste des candidats admis à y prendre part sont fixées par le président du Centre national de la fonction publique territoriale. Celui-ci arrête également la liste d'aptitude.
+" Les concours sont organisés par le centre de gestion pour les collectivités et établissements publics affiliés et par les collectivités et établissements publics eux-mêmes lorsqu'ils ne sont pas affiliés. L'autorité organisatrice fixe les modalités d'organisation, les règles de discipline, le nombre de postes ouverts et la date des épreuves. Elle établit la liste des candidats autorisés à concourir. Elle arrête également la liste d'aptitude. "

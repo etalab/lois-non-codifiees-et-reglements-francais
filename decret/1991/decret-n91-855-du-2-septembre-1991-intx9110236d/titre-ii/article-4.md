@@ -4,7 +4,7 @@ Sont inscrits sur la liste d'aptitude prévue au 1° du a de l'article 3 ci-dess
 
 a) Pour la spécialité Musique :
 
-1° A un concours externe sur titres ouvert aux candidats titulaires du certificat d'aptitude aux fonctions de directeur des écoles de musique contrôlées par l'Etat ;
+1° A un concours externe sur titres avec épreuve ouvert aux candidats titulaires du certificat d'aptitude aux fonctions de directeur des écoles de musique contrôlées par l'Etat ;
 
 2° A un concours interne sur épreuves ouvert aux candidats ayant exercé en qualité de professeur titulaire dans une école de musique contrôlée par l'Etat pendant cinq ans au moins ;
 

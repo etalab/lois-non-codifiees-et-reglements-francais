@@ -6,4 +6,4 @@ Nul ne peut participer plus de trois fois à ce concours.
 
 Le concours comporte une épreuve consistant en un entretien avec le jury. Les modalités en sont fixées par décret.
 
-Le Centre national de la fonction publique territoriale est chargé de la coordination générale de l'organisation du concours. La date d'ouverture des épreuves et la liste des candidats admis à y prendre part sont fixées par le président du Centre national de la fonction publique territoriale. Celui-ci arrête également la liste d'aptitude.
+" Les concours sont organisés par le centre de gestion pour les collectivités et établissements publics affiliés et par les collectivités et établissements publics eux-mêmes lorsqu'ils ne sont pas affiliés. L'autorité organisatrice fixe les modalités d'organisation, les règles de discipline, le nombre de postes ouverts et la date des épreuves. Elle établit la liste des candidats autorisés à concourir. Elle arrête également la liste d'aptitude. "

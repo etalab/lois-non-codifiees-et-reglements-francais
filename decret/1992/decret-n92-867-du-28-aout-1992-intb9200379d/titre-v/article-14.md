@@ -1,6 +1,6 @@
 # Article 14
 
-Les modalités d'organisation de l'examen professionnel prévu à l'article 13 sont fixées par le président du Centre national de la fonction publique territoriale.
+" Les examens professionnels prévus à l'article 13 ci-dessus sont organisés par le centre de gestion pour les collectivités et établissements publics affiliés et par les collectivités et établissements publics eux-mêmes lorsqu'ils ne sont pas affiliés. "
 
 Les candidats doivent justifier de la possession des titres ou diplômes suivants :
 
