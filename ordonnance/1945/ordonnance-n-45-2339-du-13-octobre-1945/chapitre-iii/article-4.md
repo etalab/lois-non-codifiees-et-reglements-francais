@@ -1,21 +1,23 @@
 # Article 4
 
-Tout directeur d'une entreprise de spectacles doit remplir les conditions suivantes :
+L'exercice de l'activité d'entrepreneur de spectacles vivants est soumis à la délivrance, par l'autorité administrative compétente, aux personnes physiques visées à l'article 5 d'une licence d'une ou plusieurs des catégories mentionnées à l'article 1er-1.
 
-1° Etre de nationalité française, sous réserve des dispositions de l'article 5 (g) de la présente ordonnance ;
+Les entrepreneurs de spectacles vivants ressortissants d'un Etat membre de l'Union européenne ou d'un Etat partie à l'accord sur l'Espace économique européen peuvent exercer, sans licence, leurs activités en France lorsqu'ils produisent un titre jugé équivalent par le ministre chargé de la culture.
 
-2° Etre majeur ;
+La licence d'entrepreneur de spectacles vivants est délivrée pour une durée de trois ans renouvelable lorsque l'entrepreneur de spectacles est établi en France.
 
-3° Ne pas avoir été l'objet d'une décision judiciaire entraînant l'exclusion des listes électorales ni avoir été condamné pour infraction aux articles 119 et suivants du chapitre 3, section 1, du code de la famille en date du 29 juillet 1939 ;
+Lorsque l'entrepreneur de spectacles n'est pas établi en France et n'est pas titulaire d'un titre jugé équivalent, il doit :
 
-4° Ne pas être failli non réhabilité, lorsque la faillite a été déclarée soit par des tribunaux français, soit par un jugement rendu à l'étranger mais exécutoire en France ;
+- soit solliciter une licence pour la durée des représentations publiques envisagées ;
 
-5° Etre muni d'un certificat de bonnes vie et moeurs ;
+- soit adresser une déclaration à l'autorité compétente un mois avant la date prévue pour les représentations publiques envisagées. Dans ce deuxième cas, le spectacle fait l'objet d'un contrat conclu avec un entrepreneur de spectacles détenteur d'une licence correspondant à l'une des trois catégories mentionnées à l'article 1er-1. Ce contrat est un contrat de prestation de services au sens de l'article L. 341-5 du code du travail.
 
-6° Offrir des garanties artistiques considérées comme suffisantes par la commission de la licence visée à l'alinéa 7° ci-dessous ;
+La délivrance de la licence est subordonnée à des conditions concernant la compétence ou l'expérience professionnelle du demandeur.
 
-7° Etre titulaire d'une licence temporaire et définitive délivrée par arrêté motivé après avis d'une commission dont la composition et le fonctionnement seront fixés par un décret.
+La licence ne peut être attribuée aux personnes ayant fait l'objet d'une décision judiciaire interdisant l'exercice d'une activité commerciale.
 
-L'entreprise de spectacles qui serait dirigée par une personne qui ne posséderait pas la licence définitive ou dont la licence temporaire serait arrivée à expiration sera fermée dans les conditions prévues à l'alinéa de l'article 5.
+La licence peut être retirée en cas d'infraction aux dispositions de la présente ordonnance et des lois relatives aux obligations de l'employeur en matière de droit du travail et de sécurité sociale ainsi qu'à la protection de la propriété littéraire et artistique.
 
-L'exercice indû de la direction d'une entreprise de spectacles est puni d'un emprisonnement de deux ans et d'une amende de 60.000 F ou de l'une de ces deux peines seulement [*sanctions pénales*].
+Les administrations et organismes concernés communiquent à l'autorité compétente pour délivrer la licence toute information relative à la situation des entrepreneurs de spectacles au regard des obligations mentionnées à l'alinéa précédent.
+
+Un décret en Conseil d'Etat définit les conditions d'application du présent article. Il fixe notamment le délai à l'expiration duquel la licence est réputée délivrée ou renouvelée.

@@ -1,3 +1,3 @@
-# Chapitre IV : Police des spectacles.
+# Chapitre IV : Dispositions transitoires et finales.
 
 - [Article 12](article-12.md)

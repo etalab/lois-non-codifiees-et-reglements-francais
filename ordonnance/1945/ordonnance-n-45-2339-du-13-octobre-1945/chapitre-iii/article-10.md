@@ -1,7 +1,9 @@
 # Article 10
 
-Les spectacles occasionnels ne comportant pas plus de deux [*nombre*] représentations organisés par des collectivités publiques, des particuliers, ou des associations en vue de subvenir aux besoins du culte, d'oeuvres de bienfaisance ainsi que d'établissements ou services publics dépendant de la direction générale des arts et des lettres, ne sont pas soumis aux dispositions qui précèdent.
+Peuvent exercer occasionnellement l'activité d'entrepreneur de spectacles, sans être titulaires d'une licence, dans la limite de six représentations par an et dans des conditions définies par décret en Conseil d'Etat :
 
-Ils doivent faire seulement l'objet d'une déclaration préalable à la préfecture. Le défaut de déclaration entraîne l'application de la sanction prévue à l'article 7 ci-dessus.
+- toute personne physique ou morale qui n'a pas pour activité principale ou pour objet l'exploitation de lieux de spectacles, la production ou la diffusion de spectacles ;
 
-Les théâtres d'essai qui ne donneraient pas plus de dix [*nombre*] représentations de la même oeuvre dramatique ou lyrique peuvent être également dispensés par le ministre de l'éducation nationale de l'application des dispositions précitées autres que les déclarations mentionnées à l'alinéa précédent [*formalités administratives*].
+- les groupements d'artistes amateurs bénévoles faisant occasionnellement appel à un ou plusieurs artistes du spectacle percevant une rémunération.
+
+Ces représentations doivent faire l'objet d'une déclaration préalable à l'autorité administrative compétente un mois au moins avant la date prévue.
