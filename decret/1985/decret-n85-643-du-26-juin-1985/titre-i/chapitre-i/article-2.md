@@ -4,7 +4,7 @@ Sont affiliés au centre départemental de gestion :
 
 " 1° A titre obligatoire :
 
-" a) Les communes qui emploient moins de 250 fonctionnaires titulaires ou stagiaires à temps complet ;
+" a) Les communes qui emploient moins de 350 fonctionnaires titulaires ou stagiaires à temps complet ;
 
 " b) Les communes qui, n'employant aucun fonctionnaire titulaire ou stagiaire à temps complet, emploient au moins un fonctionnaire à temps non complet ;
 
@@ -14,7 +14,7 @@ Sont affiliés au centre départemental de gestion :
 
 " 2° A titre volontaire :
 
-" a) Les communes employant au moins 250 fonctionnaires titulaires ou stagiaires à temps complet, quel que soit le nombre des fonctionnaires titulaires ou stagiaires à temps non complet ;
+" a) Les communes employant au moins 350 fonctionnaires titulaires ou stagiaires à temps complet, quel que soit le nombre des fonctionnaires titulaires ou stagiaires à temps non complet ;
 
 " b) Les établissements publics communaux et intercommunaux qui ont leur siège dans le département et qui répondent aux conditions définies au a du 2° ci-dessus ;
 

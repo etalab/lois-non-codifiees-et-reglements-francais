@@ -1,8 +1,8 @@
 # Article 40
 
-Le centre de gestion [*attributions*] constitue et tient à jour un dossier individuel par fonctionnaire, y compris les stagiaires, indépendamment du dossier prévu à l'article 18 de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires tenu par la collectivité ou l'établissement public administratif.
+Le centre de gestion constitue et tient à jour un dossier individuel par fonctionnaire, y compris les stagiaires, indépendamment du dossier prévu à l'article 18 de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires tenu par la collectivité ou l'établissement public administratif.
 
-Le dossier [*contenu*] comporte une copie de celles des pièces figurant dans le dossier principal de l'intéressé qui retracent sa carrière et notamment :
+Le dossier comporte une copie de celles des pièces figurant dans le dossier principal de l'intéressé qui retracent sa carrière et notamment :
 
 1° Les décisions de nomination ou de titularisation ;
 
@@ -15,5 +15,7 @@ Le dossier [*contenu*] comporte une copie de celles des pièces figurant dans le
 5° Les sanctions disciplinaires autres que celles du premier groupe, ainsi que les avis des organismes siégeant en conseil de discipline ;
 
 6° Les décisions individuelles intervenues en matière de formation ainsi que celles qui se rapportent aux périodes de formation suivies par l'intéressé.
+
+L'autorité territoriale transmet au centre de gestion la copie de chacune de ces décisions dans un délai de deux mois.
 
 Pour l'application des dispositions du présent article, le centre de gestion peut substituer aux documents précités des fichiers informatiques dans la mesure où ces derniers font apparaître de manière individualisée, pour chaque agent intéressé, le contenu, la date d'intervention et la date de prise d'effet des décisions énumérées ci-dessus.
