@@ -2,7 +2,6 @@
 
 - [Constitution du droit à pension](constitution-du-droit-a)
 - [Dispositions *applicables* aux pensions et rentes d'invalidité.](dispositions-applicables-aux)
-- [Dispositions aux pensions et rentes d'invalidité.](dispositions-aux)
 - [Dispositions générales](dispositions-generales)
 - [Dispositions spéciales.](dispositions-speciales)
 - [Dispositions d'ordre et de comptabilité.](dispositions-d-ordre-et)
