@@ -802,6 +802,7 @@
 - [Arrêté du 29 juin 1990 (TEFE9003599A)](arrete-du-29-juin-1990-tefe9003599a)
 - [Arrêté du 29 mars 1990 (MENF9000731A)](arrete-du-29-mars-1990-menf9000731a)
 - [Arrêté du 29 mars 1990 (TEFC9003307A)](arrete-du-29-mars-1990-tefc9003307a)
+- [Arrêté du 29 octobre 1990 (PTTC9000810A)](arrete-du-29-octobre-1990-pttc9000810a)
 - [Arrêté du 29 mai 1990 (MERG9000101A)](arrete-du-29-mai-1990-merg9000101a)
 - [Arrêté du 30 août 1990 (ECOP9000535A)](arrete-du-30-aout-1990-ecop9000535a)
 - [Arrêté du 30 août 1990 (TEFT9003792A)](arrete-du-30-aout-1990-teft9003792a)
