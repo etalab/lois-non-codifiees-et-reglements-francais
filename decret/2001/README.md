@@ -81,6 +81,7 @@
 - [Décret n°2001-677 du 27 juillet 2001 (AGRS0101142D)](decret-n2001-677-du-27-juillet-2001-agrs0101142d)
 - [Décret n°2001-711 du 27 juillet 2001 (MENG0101369D)](decret-n2001-711-du-27-juillet-2001-meng0101369d)
 - [Décret n°2001-715 du 27 juillet 2001 (AGRS0100996D)](decret-n2001-715-du-27-juillet-2001-agrs0100996d)
+- [Décret n°2001-751 du 27 août 2001 (EQUS0100214D)](decret-n2001-751-du-27-aout-2001-equs0100214d)
 - [Décret n°96-1028 du 27 novembre 1996 (DOMX9600104D)](decret-n96-1028-du-27-novembre-1996-domx9600104d)
 - [Décret n°91-116 du 28 janvier 1991 (MENG9002981D)](decret-n91-116-du-28-janvier-1991-meng9002981d)
 - [Décret n°97-544 du 28 mai 1997 (JUSD9730073D)](decret-n97-544-du-28-mai-1997-jusd9730073d)
