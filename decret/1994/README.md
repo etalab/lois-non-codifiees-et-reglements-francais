@@ -728,7 +728,6 @@
 - [Décret n°93-694 du 27 mars 1993 (SPSS9300881D)](decret-n93-694-du-27-mars-1993-spss9300881d)
 - [Décret n°94-334 du 27 avril 1994 (ECOM9300461D)](decret-n94-334-du-27-avril-1994-ecom9300461d)
 - [Décret n°94-525 du 27 juin 1994 (ECOP9400164D)](decret-n94-525-du-27-juin-1994-ecop9400164d)
-- [Décret n°94-536 du 27 juin 1994 (PARX9400259D)](decret-n94-536-du-27-juin-1994-parx9400259d)
 - [Décret n°94-647 du 27 juillet 1994 (ENVP9420042D)](decret-n94-647-du-27-juillet-1994-envp9420042d)
 - [Décret n°94-655 du 27 juillet 1994 (INTB9400303D)](decret-n94-655-du-27-juillet-1994-intb9400303d)
 - [Décret n°94-656 du 27 juillet 1994 (DEFX9400103D)](decret-n94-656-du-27-juillet-1994-defx9400103d)
