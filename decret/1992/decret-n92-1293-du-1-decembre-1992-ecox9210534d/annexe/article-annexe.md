@@ -52,8 +52,6 @@ Responsable de la réglementation paie.
 
 Chargé de gestion statutaire ou financière au niveau fédéral dans le domaine administratif ou informatique.
 
-Aide documentaliste spécialisé au niveau fédéral.
-
 Secrétaire du conseil d'administration de la Caisse nationale de retraite des agents des collectivités locales (C.N.R.A.C.L.) ;
 
 Analyste de presse ;
@@ -61,8 +59,6 @@ Analyste de presse ;
 Gestionnaire du service intérim interne au niveau fédéral ;
 
 Responsable de la gestion de l'encouragement à la prévoyance individuelle (E.P.I.) au niveau fédéral ;
-
-Chargé de clientèle exerçant des responsabilités particulières dans le domaine commercial de l'imprimerie de la Caisse des dépôts et consignations ;
 
 Responsable de groupe de gestion fonctionnel ;
 
@@ -82,8 +78,6 @@ Assistant de gestion de portefeuille des fonds d'épargne ;
 
 Chargé de production bancaire ;
 
-Gestionnaire d'application ;
-
 Responsable du budget et/ou du contrôle de gestion et/ou des moyens généraux et/ou du service du personnel et/ou du contentieux d'une direction ;
 
 Chargé du recrutement et/ou des carrières et/ou de la mobilité et/ou d'orientation professionnelle au niveau fédéral ou au niveau d'une direction ;
@@ -97,8 +91,6 @@ Documentaliste spécialisée au niveau fédéral ou au niveau d'une direction ;
 Responsable de la communication du département des marchés ;
 
 Responsable du guichet de la C.N.P. Assurances ;
-
-Chargé d'études à la direction de la stratégie de la C.N.P. Assurances ;
 
 Responsable comptable au sein du service de production bancaire ou au sein du service comptable de la Caisse nationale de retraite des agents des collectivités locales ;
 
@@ -136,8 +128,6 @@ chef d'unité opérationnelle ou fonctionnelle dans le domaine des assurances ou
 
 agent ayant un pouvoir de décision, d'animation et de coordination du niveau d'un responsable d'unité ou assistant d'un chef de service ;
 
-responsable de l'exploitation d'un restaurant de l'Association de gestion des restaurants (AGR) ;
-
 responsable de l'accueil téléphonique ou gestionnaire de l'autocommutateur à la branche Caisses de retraites de Bordeaux ;
 
 responsable du service aux assurés A ou responsable production A ou responsable activités transversales.
@@ -149,3 +139,7 @@ Directeur de centre de loisirs ;
 Assistant de gestion d'un secteur d'activité comportant une technicité et une responsabilité particulière dans le domaine bancaire ;
 
 Responsable audiovisuel.
+
+A COMPTER DU 1ER AOÛT 2000, SONT AJOUTES LES EMPLOIS SUIVANTS :
+
+Responsable de l'exploitation d'un restaurant de l'Association de gestion des restaurants (AGR) ou d'une société de vente et de diffusion.
