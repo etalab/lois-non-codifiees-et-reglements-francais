@@ -1,9 +1,7 @@
 # Article 3
 
-Les présentations sont rédigées sur des formulaires imprimés, dont le modèle est arrêté par le Conseil constitutionnel.
+Les présentations sont rédigées sur des formulaires imprimés par les soins de l'administration conformément au modèle arrêté par le Conseil constitutionnel.
 
-Elles sont revêtues de la signature de leur auteur.
+Lorsque l'élection a lieu dans les conditions prévues à l'alinéa 3 de l'article 7 de la Constitution, les formulaires sont adressés par l'autorité administrative aux citoyens habilités par la loi à présenter un candidat à compter d'une date qui est fixée par décret et qui doit précéder d'au moins quinze jours [*délai*] la publication du décret convoquant les électeurs.
 
-Lorsque les présentations émanent des membres des assemblées ou conseils énumérés au deuxième alinéa du I de l'article 3 de la loi n° 62-1292 du 6 novembre 1962 modifiée, la signature doit être certifiée par un membre du bureau de l'assemblée ou du conseil. Lorsqu'elles émanent de maires, elles doivent être revêtues du sceau de la mairie.
-
-Le Conseil constitutionnel fait procéder à toute vérification qu'il juge utile.
+En cas de vacance de la Présidence de la République ou d'empêchement déclaré définitif par le Conseil constitutionnel, les formulaires sont adressés par l'autorité administrative aux citoyens habilités par la loi à présenter un candidat dés la publication de la déclaration du Conseil constitutionnel constatant la vacance ou le caractère définitif de l'empêchement.
