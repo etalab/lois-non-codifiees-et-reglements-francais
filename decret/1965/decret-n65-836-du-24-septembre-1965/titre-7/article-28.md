@@ -1,6 +1,6 @@
 # Article 28
 
-I - Les personnels visés à l'article 1er supportent une retenue de 6 %, calculée sur les émoluments représentés [*montant de la cotisation d'assurance vieillesse - part salariale*] :
+I - Les personnels visés à l'article 1er supportent une retenue de 7 %, calculée sur les émoluments représentés [*montant de la cotisation d'assurance vieillesse - part salariale*] :
 
 a) Pour les intéressés rémunérés par un salaire national, par la somme brute correspondant à l'indice de la catégorie à laquelle ils appartiennent, à l'exclusion de tout autre avantage, quelle qu'en soit la nature ;
 
@@ -19,5 +19,3 @@ En cas d'insuffisance de ses ressources, ce fonds recevra de l'Etat une contribu
 VI - Aucune pension ne peut être concédée si le versement des retenues exigibles n'est pas effectué.
 
 Les retenues légalement perçues ne peuvent être répétées. Celles qui ont été irrégulièrement perçues n'ouvrent aucun droit à pension, mais peuvent être remboursées sans intérêt sur la demande des ayants droit.
-
-(1) Dispositions applicables aux rémunérations dues à compter du 1er avril 1982, D. n° 82-301, 31 mars 1982, art. 2.
