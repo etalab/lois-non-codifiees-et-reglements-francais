@@ -4,4 +4,4 @@ Les établissements autres que ceux mentionnés à l'article 4 doivent tenir une
 
 Les comptes non prévus au plan comptable hospitalier sont ouverts conformément au plan comptable général.
 
-Toutefois des dérogations peuvent être apportées aux deux alinéas ci-dessus pour tenir compte des dispositions particulières du plan comptable des organismes de sécurité sociale ou des collectivités territoriales.
+Toutefois des dérogations peuvent être apportées aux deux alinéas ci-dessus pour tenir compte des dispositions particulières du plan comptable des organismes de sécurité sociale, des collectivités territoriales ou des centres mentionnés par l'article D. 526 du code des pensions militaires d'invalidité et des victimes de guerre.
