@@ -1,11 +1,11 @@
 # Article 9
 
-Une chambre de compensation, ayant le statut d'établissement de crédit, enregistre chaque opération et en garantit la bonne fin. A cet effet, chaque opération doit lui être notifiée par la personne qui, conformément à l'article 8, en a désigné le négociateur. A défaut, l'opération est nulle de plein droit.
+Chaque opération sur contrat à terme est enregistrée par une chambre de compensation, ayant le statut d'établissement de crédit, qui en garantit la bonne fin. A cet effet, chaque opération doit lui être notifiée par les personnes mentionnées aux articles 8 et 8-1. A défaut, l'opération est nulle de plein droit.
 
 La chambre de compensation assure la surveillance des positions, l'appel des marges et, le cas échéant, la liquidation d'office des positions.
 
-Lorsqu'un événement perturbe le fonctionnement normal du marché d'un produit, la chambre de compensation peut prescrire, pour une durée n'excédant pas deux jours de bourse, la suspension des opérations sur ce produit : au-delà de deux jours, la suspension est prononcée par arrêté du ministre de l'économie, des finances et du budget.
+Quelle que soit leur nature, les dépôts effectués en couverture ou garantie des positions prises sur les contrats à terme auprès des personnes mentionnées à l'article 8 ou de la chambre de compensation, leur sont acquis dès leur constitution, aux fins de règlement du solde débiteur constaté lors de la liquidation d'office de ces positions.
 
-Si les opérations sur un produit ont été suspendues pendant plus de deux jours consécutifs, les contrats en cours à la date de la suspension peuvent être compensés et liquidés dans les conditions prévues par le règlement général.
+S'agissant des contrats à terme de marchandises, le conseil du marché à terme peut désigner un établissement de crédit chargé d'exercer pour le compte de la chambre de compensation tout ou partie des missions énumérées au présent article. A défaut, l'enregistrement des opérations produites par les personnes mentionnées aux 2° et 3° de l'article 8-1 est assuré par l'intermédiaire d'un établissement de crédit ayant qualité pour participer à la compensation des contrats négociés sur le marché à terme et désigné à cet effet par la chambre de compensation mentionnée au présent article.
 
-Un commissaire du Gouvernement est désigné auprès de la chambre de compensation.
+Un commissaire du Gouvernement est désigné auprès de la chambre de compensation et, le cas échéant, auprès de l'établissement de crédit compétent visé à l'alinéa précédent.

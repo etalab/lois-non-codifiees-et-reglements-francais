@@ -1,3 +1,7 @@
 # Article 10
 
-Un décret en Conseil d'Etat précise les conditions d'application des dispositions de la présente loi.
+Le démarchage en vue d'opérations sur le marché à terme n'est autorisé que dans les limites et sous les conditions prévues par la présente loi.
+
+Constitue une activité de démarchage au sens de la présente loi, le fait de se rendre habituellement, soit au domicile ou à la résidence des personnes, soit sur leurs lieux de travail, soit dans les lieux ouverts au public et non réservés à de telles fins, en vue de conseiller une participation à des opérations sur ce marché ou de recueillir des ordres à cet effet, quel que soit le lieu où les ordres d'opérations ou le contrat liant le donneur d'ordre à celui qui les a recueillis ou exécutés ont été passés ou conclus.
+
+Sont également considérés comme acte de démarchage, les offres de services faites ou les conseils donnés, de façon habituelle, en vue des mêmes fins, dans les lieux mentionnés à l'alinéa précédent, par l'envoi de tout document d'information ou de publicité, ou par tout moyen de communication.
