@@ -1,3 +1,3 @@
 # Article 24
 
-Les concours de pêche sont interdits dans les cours d'eau de la 1re catégorie.
+L'organisation de concours de pêche dans les cours d'eau de la première catégorie est soumise à l'autorisation préalable du commissaire de la République.
