@@ -1,0 +1,3 @@
+# Article 6
+
+Les arrêtés du 7 février 1997 fixant les modalités des épreuves du concours professionnel pour l'accès au grade de contrôleur des affaires maritimes de classe exceptionnelle et les modalités des épreuves du concours professionnel pour l'accès au grade de contrôleur de classe exceptionnelle du corps d'encadrement et de commandement des personnels embarqués d'assistance et de surveillance des affaires maritimes, ainsi que l'arrêté du 19 octobre 1998 fixant les modalités d'organisation du concours sur épreuves professionnelles pour l'accès au grade de technicien de classe supérieure des cultures marines, sont abrogés.
