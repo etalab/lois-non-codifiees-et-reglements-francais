@@ -106,6 +106,7 @@
 - [Décret n°2001-493 du 6 juin 2001 (FPPA0100059D)](decret-n2001-493-du-6-juin-2001-fppa0100059d)
 - [Décret n°2001-494 du 6 juin 2001 (FPPA0100060D)](decret-n2001-494-du-6-juin-2001-fppa0100060d)
 - [Décret n°2001-495 du 6 juin 2001 (FPPA0100057D)](decret-n2001-495-du-6-juin-2001-fppa0100057d)
+- [Décret n°2001-505 du 6 juin 2001 (ECOI0100122D)](decret-n2001-505-du-6-juin-2001-ecoi0100122d)
 - [Décret n°2002-1413 du 6 décembre 2002 (PRMX0200180D)](decret-n2002-1413-du-6-decembre-2002-prmx0200180d)
 - [Décret n°2001-112 du 7 février 2001 (ECOT0191141D)](decret-n2001-112-du-7-fevrier-2001-ecot0191141d)
 - [Décret n°2001-113 du 7 février 2001 (MESX0104674D)](decret-n2001-113-du-7-fevrier-2001-mesx0104674d)
