@@ -1,0 +1,3 @@
+# Article 62
+
+Les secrétaires et secrétaires adjoints de conseil de prud'hommes ou de section de conseil de prud'hommes intégrés dans le corps des greffiers en chef ou dans celui des secrétaires-greffiers et reclassés à un échelon doté d'un indice inférieur à celui dont ils bénéficiaient antérieurement pourront soit demander à titre personnel le maintien de cet indice jusqu'au jour où ils bénéficieront dans leur nouveau corps d'un indice au moins égal, soit demander le versement d'une indemnité compensatrice calculée selon les modalités prévues aux trois derniers alinéas de l'article 7 du décret n° 47-1457 du 7 août 1947.

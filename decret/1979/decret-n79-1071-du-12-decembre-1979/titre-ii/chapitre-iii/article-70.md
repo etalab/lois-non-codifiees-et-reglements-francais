@@ -1,0 +1,5 @@
+# Article 70
+
+Les secrétaires et secrétaires adjoints de conseil de prud'hommes ou de section de conseil de prud'hommes intégrés dans l'un des corps constitués par le présent décret perçoivent une indemnité dont le montant et les modalités de versement sont fixés par arrêté conjoint du garde des sceaux, ministre de la justice, du ministre chargé de la fonction publique et du ministre du budget lorsque la rémunération résultant de leur intégration est inférieure à leur rémunération antérieure.
+
+Pour l'application du premier alinéa ci-dessus, la rémunération résultant de l'intégration comprend, d'une part, le traitement afférent à l'indice déterminé, le cas échéant, dans les conditions de l'article 62, majoré éventuellement de l'indemnité compensatrice prévue à cet article, et, d'autre part, le total des indemnités attachées aux nouvelles fonctions. La rémunération antérieure comprend notamment l'indemnité compensatrice de la perte des émoluments versée en application de l'article 7 du décret n° 78-62 du 20 janvier 1978.

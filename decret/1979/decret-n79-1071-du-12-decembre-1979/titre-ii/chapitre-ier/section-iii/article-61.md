@@ -1,0 +1,3 @@
+# Article 61
+
+Les secrétaires et secrétaires adjoints de conseil de prud'hommes ou de section de conseil de prud'hommes qui ont vocation, en application des dispositions du présent chapitre, à être intégrés en qualité de secrétaire-greffier mais qui bénéficiaient d'une échelle de rémunération comparable à celle des greffiers en chef de conseil de prud'hommes sont reclassés dans le corps des greffiers en chef de conseil de prud'hommes, sous réserve de justifier au 1er janvier 1979 d'une durée de services effectifs en qualité de secrétaire ou secrétaire adjoint au moins égale à quatre ans ou d'être titulaire d'un des diplômes ou titres prévus pour l'accès aux épreuves du premier concours de greffier en chef de conseil de prud'hommes.

@@ -1,0 +1,3 @@
+# Article 69
+
+Par dérogation aux dispositions de l'article 14 ci-dessus et de l'article 5 du décret du 20 septembre 1973 susvisé, les secrétaires et secrétaires adjoints de conseil de prud'hommes et de section de conseil de prud'hommes qui auront été recrutés en qualité de greffier en chef ou de secrétaire-greffier contractuel et qui accéderont par concours au corps correspondant de fonctionnaires de conseil de prud'hommes seront reclassés dans leur nouveau corps à un grade et à un échelon équivalant à ceux détenus par eux en qualité de contractuels, avec conservation, le cas échéant, de l'ancienneté acquise dans l'échelon.
