@@ -16,4 +16,4 @@ Le certificat d'aptitude aux fonctions de directeur d'établissement social sera
 
 Les candidats doivent se présenter à l'ensemble des épreuves de la première session d'examen suivant la fin de leur cycle de formation. Ils pourront se présenter au maximum trois fois à chacune des épreuves précitées dans un délai de deux ans après la fin du cycle de formation. Une dérogation à ces règles, pour cas de force majeure, pourra être accordée une seule fois par le directeur de l'Ecole nationale de la santé publique. Toute absence de présentation à l'une de ces épreuves sera comptabilisée comme un échec.
 
-En cas d'échec, les candidats ayant obtenu une note égale ou supérieure à 10 à l'une ou l'autre des épreuves peuvent en garder le bénéfice s'ils se présentent à la session d'examen consécutive.
+En cas d'échec, les candidats ayant obtenu une note égale ou supérieure à la moyenne à l'une ou l'autre des épreuves peuvent en garder le bénéfice s'ils se présentent à la session suivante.

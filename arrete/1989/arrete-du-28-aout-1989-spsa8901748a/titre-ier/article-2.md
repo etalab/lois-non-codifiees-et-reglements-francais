@@ -2,15 +2,15 @@
 
 Pour accéder à la préparation au certificat d'aptitude aux fonctions de directeur d'établissement social, les candidats doivent répondre aux conditions ci-après :
 
-1° En ce qui concerne les salariés du secteur privé ou demandeurs d'emploi souhaitant accéder à la formation en voie directe à temps plein :
+1°  En ce qui concerne les salariés du secteur privé ou demandeurs d'emploi souhaitant accéder à la formation en voie directe à temps plein :
 
 - être âgé de trente ans au moins ;
 
-- justifier d'une fonction de cinq années d'encadrement dans le secteur social ;
+- posséder un titre ou un diplôme social, médical ou paramédical ;
 
-- posséder un titre ou un diplôme social, médical ou paramédical.
+- justifier d'une fonction de cinq années d'encadrement dans le secteur social ou de trois ans pour les postulants titulaires d'un diplôme universitaire sanctionnant au moins trois années d'enseignement supérieur accomplies dans une filière autre que celle préparant aux diplômes visés à l'alinéa précédent.
 
-Sont dispensés des deux dernières conditions les candidats justifiant de cinq années de responsabilité dans une entreprise industrielle, commerciale ou agricole.
+Sont dispensés des deux dernières conditions les candidats justifiant de cinq années de responsabilités dans une entreprise.
 
 Pour les candidats répondant à ces conditions, l'admission définitive est prononcée au terme d'une procédure de sélection dont les modalités sont fixées par décision du ministre.
 
