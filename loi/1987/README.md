@@ -33,7 +33,6 @@
 - [Loi n° 87-954 du 27 novembre 1987 (MERX8700127L)](loi-n-87-954-du-27-novembre-1987-merx8700127l)
 - [Loi n°87-10 du 3 janvier 1987](loi-n87-10-du-3-janvier-1987)
 - [Loi n°87-342 du 22 mai 1987 (DEFX8700026L)](loi-n87-342-du-22-mai-1987-defx8700026l)
-- [Loi n°87-369 du 5 juin 1987 (DOMX8700059L)](loi-n87-369-du-5-juin-1987-domx8700059l)
 - [Loi n°87-499 du 6 juillet 1987 (ECOX8700078L)](loi-n87-499-du-6-juillet-1987-ecox8700078l)
 - [Loi n°87-520 du 10 juillet 1987 (JUSX8700107L)](loi-n87-520-du-10-juillet-1987-jusx8700107l)
 - [Loi n°87-550 du 16 juillet 1987 (JUSX8700098L)](loi-n87-550-du-16-juillet-1987-jusx8700098l)
