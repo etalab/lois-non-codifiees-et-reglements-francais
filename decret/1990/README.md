@@ -732,7 +732,6 @@
 - [Décret n°90-880 du 28 septembre 1990 (LOGC9000078D)](decret-n90-880-du-28-septembre-1990-logc9000078d)
 - [Décret n°91-236 du 28 février 1991 (MENF9100143D)](decret-n91-236-du-28-fevrier-1991-menf9100143d)
 - [Décret n°91-622 du 28 juin 1991 (EQUX9100107D)](decret-n91-622-du-28-juin-1991-equx9100107d)
-- [Décret n°91-623 du 28 juin 1991 (EQUX9100108D)](decret-n91-623-du-28-juin-1991-equx9100108d)
 - [Décret n°91-826 du 28 août 1991 (EQUP9100860D)](decret-n91-826-du-28-aout-1991-equp9100860d)
 - [Décret n°90-435 du 28 mai 1990 (FPPA9000053D)](decret-n90-435-du-28-mai-1990-fppa9000053d)
 - [Décret n°90-437 du 28 mai 1990 (PRMG9070213D)](decret-n90-437-du-28-mai-1990-prmg9070213d)
