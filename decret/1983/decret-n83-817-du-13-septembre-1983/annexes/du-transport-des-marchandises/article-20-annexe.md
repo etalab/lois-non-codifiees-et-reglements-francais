@@ -1,0 +1,7 @@
+# Article 20, annexe
+
+La S.N.C.F. participe au système des transports de marchandises et contribue à développer son efficacité en acheminant dans la limite de ses possibilités techniques les envois de messagerie, de lots ou de charges complètes qui lui sont remis par les usagers à destination du territoire national ou de pays étrangers. Ces services peuvent, dans des cas particuliers, être réalisés par des moyens de transport routiers.
+
+Elle met à la disposition de ses clients en tenant compte de leur rentabilité des services diversifiés répondant à leurs besoins. Les wagons qu'elle met à leur disposition, ainsi que ceux appartenant à des tiers, sont acheminés par ses soins dans les meilleures conditions. Elle établit ou fait établir des embranchements particuliers, elle concourt à la réalisation dans les entreprises d'installations spécialisées pour le transport par voie ferrée ; elle met à la disposition de sa clientèle des emplacements sur le domaine ferroviaire ; elle met en place des bureaux pour la remise et la délivrance des colis dans les villes, elle équipe les gares des moyens de manutention appropriés et, plus généralement, institue tout service et développe tout équipement facilitant le recours au chemin de fer pour le transport des marchandises.
+
+La nécessité de ces prestations et les conditions, notamment financières, dans lesquelles la S.N.C.F. les fournit, sont appréciées par elle, dans le cadre de son autonomie de gestion, en fonction des besoins exprimés par les usagers, et des coûts correspondants.

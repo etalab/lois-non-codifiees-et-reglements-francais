@@ -1,0 +1,3 @@
+# Article 2, annexe
+
+La S.N.C.F. mène une politique active d'innovation, de recherche et de développement tant au plan technologique qu'au plan de la gestion. Elle participe et apporte son appui au développement de la technologie ferroviaire française en liaison avec les secteurs industriels concernés. Elle contribue, par ses études et ses recherches, à une meilleure connaissance des aspects sociaux et économiques du secteur des transports. Elle développe avec les réseaux étrangers une politique active de coopération tendant à promouvoir les relations ferroviaires internationales, notamment dans le cadre de la Communauté économique européenne.

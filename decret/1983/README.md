@@ -89,6 +89,8 @@
 - [Décret n°83-298 du 13 avril 1983](decret-n83-298-du-13-avril-1983)
 - [Décret n°83-306 du 13 avril 1983](decret-n83-306-du-13-avril-1983)
 - [Décret n°83-307 du 13 avril 1983](decret-n83-307-du-13-avril-1983)
+- [Décret n°83-816 du 13 septembre 1983](decret-n83-816-du-13-septembre-1983)
+- [Décret n°83-817 du 13 septembre 1983](decret-n83-817-du-13-septembre-1983)
 - [Décret n°83-195 du 14 mars 1983](decret-n83-195-du-14-mars-1983)
 - [Décret n°83-303 du 14 avril 1983](decret-n83-303-du-14-avril-1983)
 - [Décret n°83-304 du 14 avril 1983](decret-n83-304-du-14-avril-1983)
