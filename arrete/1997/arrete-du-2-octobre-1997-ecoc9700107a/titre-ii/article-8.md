@@ -6,4 +6,6 @@ L'étiquetage des édulcorants de table contenant des polyols et/ou de l'asparta
 
 - polyols : "une consommation excessive peut avoir des effets laxatifs" ;
 
-- aspartame : "contient une source de phénylalanine".
+- aspartame : "contient une source de phénylalanine" ;
+
+- sel d'aspartame-acésulfame : "contient une source de phénylalanine".

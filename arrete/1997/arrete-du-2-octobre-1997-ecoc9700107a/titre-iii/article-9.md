@@ -44,7 +44,7 @@ t) "Poudre à lever" les substances ou combinaisons de substances qui libèrent 
 
 u) "Séquestrants" les substances qui forment des complexes chimiques avec les ions métalliques ;
 
-v) "Stabilisants" les substances qui, ajoutées à une denrée alimentaire, permettent de maintenir son état physico-chimique. Les stabilisants comprennent les substances qui permettent de maintenir la dispersion homogène de deux ou plusieurs substances non miscibles, ainsi que les substances qui stabilisent, conservent ou intensifient la couleur d'une denrée alimentaire ;
+v) "Stabilisants, les substances qui, ajoutées à une denrée alimentaire, permettent de maintenir son état physico-chimique. Les stabilisants comprennent les substances qui permettent de maintenir la dispersion homogène de deux ou plusieurs substances non miscibles dans une denrée alimentaire, les substances qui stabilisent, conservent ou intensifient la couleur d'une denrée alimentaire ainsi que les substances qui augmentent la capacité de liaison des denrées alimentaires, y compris la réticulation entre protéines permettant la liaison de morceaux d'aliments dans les aliments reconstitués ;
 
 w) "Epaississants" les substances qui, ajoutées à une denrée alimentaire, en augmentent la viscosité ;
 
