@@ -11,3 +11,5 @@ Les candidats à ce concours doivent être âgés de quarante-cinq ans au plus a
 Les limites d'âge supérieures fixées aux paragraphes précédents sont reculées conformément aux dispositions législatives et réglementaires en vigueur en matière de report des âges limites au titre du service militaire, du service national et des charges de famille.
 
 Les candidats qui atteignent l'âge limite supérieur prévu pour se présenter à un concours durant une année au cours de laquelle aucun concours n'est ouvert peuvent faire acte de candidature au concours suivant.
+
+Pour la désignation des membres des jurys, il peut être dérogé jusqu'au 31 décembre 2007 à la proportion minimale d'un tiers de personnes de chaque sexe.
