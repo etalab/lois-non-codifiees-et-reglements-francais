@@ -8,4 +8,6 @@ Le diplôme est délivré, par le jury national, aux thanatopracteurs qui ont ex
 
 Le diplôme est délivré, par le jury national, aux thanatopracteurs qui ont exercé les soins de conservation depuis moins de six années dans la mesure où ils justifient avoir suivi, préalablement, une formation théorique et pratique équivalente à celle du présent décret.
 
-Les thanatopracteurs en exercice qui ne remplissent pas les conditions décrites aux deux alinéas précédents doivent satisfaire à l'examen pratique prévu au présent décret. En cas d'échec à cet examen pratique, ils ne peuvent obtenir le diplôme national de thanatopracteur que dans les conditions fixées aux articles 1er à 4 du présent décret.
+Les thanatopracteurs en exercice qui ne remplissent pas les conditions décrites aux deux alinéas précédents doivent satisfaire à l'examen pratique prévu au présent décret. En cas d'échec à cet examen pratique, les candidats pourront se présenter une seconde fois aux mêmes épreuves lors de la session suivante. En cas de nouvel échec ou d'absence injustifiée, ils ne peuvent s'inscrire à l'examen en vue de l'obtention du diplôme national de thanatopracteur que dans les conditions fixées aux articles 1er à 4 du présent décret.
+
+La date limite de dépôt des dossiers de demandes d'équivalence est fixée au 2 juin 1998.

@@ -2,6 +2,6 @@
 
 Les membres titulaires et suppléants du jury national chargé d'examiner les candidats au diplôme national de thanatopracteur sont nommés par arrêté conjoint du ministre chargé de l'intérieur et du ministre chargé de la santé pour une durée de deux ans.
 
-Ce jury se compose d'un représentant du ministre chargé de la santé, de quatre enseignants universitaires de médecine dispensant ou ayant dispensé un enseignement en matière de soins de conservation ou de personnes qualifiées et de trois thanatopracteurs.
+Ce jury se compose d'un représentant du ministre chargé de la santé, de quatre médecins légistes, anatomopathologistes ou enseignants universitaires de médecine dispensant ou ayant dispensé un enseignement en matière de soins de conservation ou de personnes qualifiées et de trois thanatopracteurs.
 
 Le même arrêté désigne pour deux ans le président du jury national parmi les membres du collège des enseignants universitaires de médecine ou de personnes qualifiées.
