@@ -308,7 +308,6 @@
 - [Décret n°93-44 du 12 janvier 1993 (PTTR9200315D)](decret-n93-44-du-12-janvier-1993-pttr9200315d)
 - [Décret n°93-53 du 12 janvier 1993 (MJSK9270158D)](decret-n93-53-du-12-janvier-1993-mjsk9270158d)
 - [Décret n°93-68 du 12 janvier 1993 (RESY9200288D)](decret-n93-68-du-12-janvier-1993-resy9200288d)
-- [Décret n°93-898 du 12 juillet 1993 (RESY9300812D)](decret-n93-898-du-12-juillet-1993-resy9300812d)
 - [Décret n°93-899 du 12 juillet 1993 (SPSS9301567D)](decret-n93-899-du-12-juillet-1993-spss9301567d)
 - [Décret n°93-901 du 12 juillet 1993 (MAEJ9330027D)](decret-n93-901-du-12-juillet-1993-maej9330027d)
 - [Décret n°93-902 du 12 juillet 1993 (MAEJ9330028D)](decret-n93-902-du-12-juillet-1993-maej9330028d)
