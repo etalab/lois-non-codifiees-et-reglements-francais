@@ -1,6 +1,6 @@
 # Article 4
 
-Les épreuves prévues au présent décret ne peuvent être subies par les candidats que lors de deux sessions.
+Les épreuves prévues au présent décret ne peuvent être subies par les candidats que lors de trois sessions.
 
 Lorsqu'un candidat est inscrit aux épreuves prévues au présent décret et ne participe pas à ces épreuves, il épuise un droit à participer aux épreuves.
 
