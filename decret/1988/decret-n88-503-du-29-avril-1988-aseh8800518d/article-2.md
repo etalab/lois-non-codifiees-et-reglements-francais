@@ -1,0 +1,3 @@
+# Article 2
+
+Lorsqu'un établissement issu d'un regroupement intervenu en application du présent décret présente une nouvelle demande d'autorisation de regroupement dans un délai inférieur à trois ans à compter de la date de l'autorisation du précédent regroupement, l'autorisation est accordée sous réserve d'une réduction de capacité calculée à nouveau en prenant en considération le nombre total des lits concernés par les opérations successives de regroupement, y compris celle faisant l'objet de la demande. Les règles fixées à l'article 1er ci-dessus s'appliquent en tenant compte des réductions antérieurement imposées.

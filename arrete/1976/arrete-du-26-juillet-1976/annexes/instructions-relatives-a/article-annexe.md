@@ -1,93 +1,59 @@
 # Article Annexe
 
-L'étalonnier remet au propriétaire de la poulinière deux volets détachés obligatoirement du registre à souches de l'étalon concerné :
+L'étalonnier remet au propriétaire de la poulinière deux volets détachés obligatoirement du carnet de saillie de l'étalon concerné :
 
-Le certificat de saillie au verso duquel se trouve la déclaration du résultat de saillie ;
+- le certificat de saillie au verso duquel se trouvent la déclaration du résultat de la saillie et la déclaration du naisseur ;    - l'attestation de saillie qui doit obligatoirement être présentée à la personne chargée de relever le signalement du produit sous la mère avant sevrage.
 
-L'attestion de saillie au verso de laquelle se trouve la déclaration complémentaire.
+1. Déclaration du résultat de la saillie - Déclaration du naisseur.
 
-I. - Déclaration du résultat de saillie (verso du certificat de saillie).
+Ce document doit être transmis dans les quinze jours qui suivent l'événement (naissance, mais aussi avortement, mort de la jument et/ou de son produit ou constat de vacuité de la jument) à l'Institut du cheval (S.I.R.E.).
 
-Ce document est essentiellement la déclaration de naissance du produit.
+1.1. Dans le cas de naissance d'un produit vivant, l'envoi doit être accompagné d'un chèque du montant indiqué au bas du certificat de saillie, qui correspond à une participation aux frais engagés pour établir le document d'accompagnement et la carte d'immatriculation du produit, augmenté le cas échéant du montant relatif au contrôle de filiation obligatoire et de celui du recul de baptême pour les pur-sang (arrêté du 29 janvier 1980 modifié).
 
-Cette déclaration peut être remplie par toute personne (éleveur, régisseur, gardien, etc.) chez qui se trouve la poulinière au moment de la mise bas.
+1.2. La partie "déclaration du naisseur" est une déclaration sur l'honneur en fonction de laquelle seront établis définitivement les documents du produit. Elle permet d'enregistrer jusqu'à quatre co-naisseurs avec leurs parts respectives.
 
-a) Naissance d'un produit vivant.
+Est considéré comme naisseur ou co-naisseur, le propriétaire ou les copropriétaires de la mère génétique du produit le jour du poulinage, ou les personnes désignées par le propriétaire ou les copropriétaires dans un contrat écrit en bonne et due forme et déposé au S.I.R.E. en même temps que la déclaration du résultat de saillie.    Il appartient au naisseur ou aux co-naisseurs éventuels de s'assurer que la "déclaration du naisseur" est correctement remplie.    1.3. Noms proposés :
 
-Ce document est la déclaration de naissance et doit être adressé impérativement dans les quinze jours, cachet de la poste faisant foi, au directement des haras de la circonscription de naissance. Elle remplace l'ancienne déclaration provisoire.
+Trois noms doivent être proposés, sauf pour les chevaux pur sang et les trotteurs français, dont le nom est attribué par l'organisme agréé selon la race (voir : 4. Autres formalités).
 
-L'envoi doit être accompagné d'un chèque du montant indiqué au bas de la déclaration, montant qui correspondant à une participation aux frais engagés pour établir le document d'accompagnement et la carte d'immatriculation du produit.
+L'Institut du cheval attribue l'un des trois noms proposés dans l'ordre en choisissant celui qui n'est pas encore attribué dans la mesure du possible. Si les trois noms proposés sont d'ores et déjà attribués à d'autres produits, l'Institut du cheval pourra refuser les noms proposés et en demander d'autres.
 
-La personne qui signe ce document n'est pas considérée comme le naisseur et cette pièce ne joue aucun rôle quant à la propriété du produit.
+2. Attestation de saillie.
 
-Cette déclaration doit préciser très clairement le lieu de stationnement de la poulinière suitée à partir du 1er août. C'est à partir de cette déclaration qui seront organisés les relevés de signalement des poulains.
+La présentation de ce document est obligatoire lors du relevé de signalement, faute de quoi le produit est déclaré d'origine inconnue. Il permet notamment à la personne chargée de relever le signalement d'identifier la saillie dont est issu le produit et de certifier son intervention.
 
-b) Jument vide, avortement, mort.
+Il permet le cas échéant de demander avant le 31 décembre de l'année de naissance le remboursement du chèque émis à la naissance du produit si celui-ci meurt avant cette date.
 
-La déclaration du résultat de saillie remplace également les feuilles de renseignement (stud-book) et doit être renvoyée au directeur des haras, même s'il n'y a pas naissance (jument vide, avortement, mort du poulain ou mort de la jument). Le retour de cette pièce est essentiel pour la bonne tenue du stud-book et pour les statistiques relatives à la fertilité des étalons.
+3. Cas particuliers des revues.
 
-II. - Déclaration complémentaire (verso de l'attestation de saillie).
-
-Cette déclaration doit être envoyée avant le 31 décembre de l'année de naissance, dernier délai, au directeur des haras de la circonscription de naissance du produit. Elle remplace la déclaration définitive de naissance.
-
-Elle permet de noter tous les produits morts entre leur naissance et le 31 décembre : il ne sera pas établi de document pour ces produits et le montant du chèque joint à la déclaration du résultat de la saillie sera remboursé à la personne figurant, avec son identité bancaire, sur la déclaration complémentaire mentionnant la mort de produit.
-
-1. Déclaration du naisseur.
-
-Cette déclaration complémentaire est esentiellement une déclaration de propriété. Il s'agit d'une déclaration sur l'honneur permettant d'établir la carte d'immatriculation et de laquelle découlent tous les droits attachés au naisseur, en particulier les primes.
-
-Elle permet également de déclarer les copropriétés (jusqu'à quatre avec les parts respectives).
-
-Les droits du naisseur ne peuvent être cédés et seul est considéré comme naisseur le propriétaire de la mère au moment de la mise bas.
-
-La déclaration complémentaire comprend deux autres parties.
-
-2. Noms proposés.
-
-Trois noms doivent être proposés, sauf pour les chevaux pursang et trotteurs français, dont le nom est attribué par l'organisme agréé selon la race (voir IV. - Autres formalités).
-
-L'institut du cheval, attribus l'un des trois noms proposés dans l'ordre en choisissant celui qui n'est pas encore attribué dans la mesure du possible. Si les trois noms proposés sont d'ores et déjà attribués à d'autres produits, l'institut, du cheval pourra refuser les noms proposés et en demander d'autres.
-
-3. Signalement.
-
-Cette partie est à remplir pour les produits qui n'ont pas eu leur signalement relevé sous la mère par l'administration ;
-
-Soit sous la responsabilité du propriétaire du produit ;
-
-Soit pour les poneyrs, lors du relevé du signalement du poulain sous la mère par un vétérinaire sous la responsabilité de ce dernier.
-
-III. - Cas particuliers des revues.
-
-Si la jument a été saillie la même année par plusieurs étalons, il y a délivrance de plusieurs documents de saillie. Ce sont les documents correspondant au dernier étalon qu'il convient d'utiliser pour établir la déclaration du résultat de la saillie et la déclaration complémentaire de naissance. Les documents non utilisés sont cependant à joindre à l'envoi de chacune des déclarations.
-
-IV. - Autres formalités.
+Si la jument a été saillie la même année par plusieurs étalons, il y a délivrance de plusieurs documents de saillie. C'est le document correspondant au dernier étalon qu'il convient d'utiliser pour établir la déclaration du résultat de la saillie. Les documents non utilisés sont cependant à joindre à l'envoi de cette déclaration.    4. Autres formalités.
 
 Deux autres formalités sont possibles suivant le cas :
 
-1. Demande de nom pour les pur-sang et les trotteurs français.
+a) Demande de nom pour les pur-sang et les trotteurs français :
 
-La demande de nom doit être effectués par le propriétaire auprès de l'organisme concerné, selon la race, en application de l'article 8 de l'arrêté.
+La demande de nom doit être effectuée par le propriétaire auprès de l'organisme concerné, selon la race, en application de l'article 8 de l'arrêté.
 
-Les formulaires peuvent être demandés directement aux sociétés.    Lorsqu'un nom est accepté, le propriétaire reçoit une fiche d'attribution du nom qu'il doit joindre obligatoirement à la déclaration complémentaire.
+Le nom attribué est transmis directement au S.I.R.E. par la Société d'encouragement (11, rue du Cirque, 75082 Paris) pour les pur-sang et par la Société d'encouragement à l'élevage du cheval français (7, rue d'Astorg, 75008 Paris) pour les trotteurs français.    b) Enquêtes par les groupes sanguins :
 
-2. Enquête par les groupes sanguins.
-
-En cas de doute sur l'origine et dans tous les cas prévus par la réglementation, le propriétaire du produit doit se soumettre à l'enquête ouverte par le servie des haras.
+Dans tous les cas prévus par la réglementation, le propriétaire du produit doit se soumettre à l'enquête ouverte par le service des haras.
 
 Un prélèvement sanguin est alors effectué sur la poulinière et son produit.
 
 Les modalités de l'enquête sont fixées par un arrêté du ministre de l'agriculture.
 
-V. - Procédure particulière pour les produits nés en France de poulinières saillies à l'étranger.
+Les frais sont à la charge du propriétaire.
 
-Des déclarations de naissance spéciales sont à la disposition des éleveurs dans les dépôts d'étalons pour les juments poulinant en France d'un produit conçu à l'étranger.
+5. Procédure particulière pour les produits nés en France de poulinières saillies à l'étranger.
 
-Ces déclarations comportent également deux volets :
+Des documents spéciaux sont à la disposition des éleveurs dans les dépôts d'étalons pour les juments poulinant en France d'un produit conçu à l'étranger.
 
-Déclaration du résultat de la saillie ;
+Le certificat de saillie doit être joint à la déclaration du résultat de la saillie à adresser dans les quinze jours qui suivent la naissance à l'Institut du cheval (S.I.R.E.). L'envoi doit être accompagné d'un chèque totalisant les tarifs de l'année pour :
 
-Déclaration complémentaire.
+- la participation aux frais engagés pour l'établissement du document d'accompagnement et de la carte d'immatriculation ;
 
-La photocopie du certificat de saillie étranger doit être joint à la déclaration du résultat de la saillie, qui devra être également accompagnée du chèque correspondant au montant de la participation aux frais d'établissement du document d'accompagnement.
+- pour les chevaux de sang, la participation aux frais d'analyses, le contrôle de filiation étant obligatoire ;
 
-L'original de ce certificat de saillie devra être présenté au moment du relevé de signalement sous la mère avec la déclaration complémentaire.
+- pour les chevaux de pur sang, et, s'il est demandé, le recul de baptême (arrêté du 29 janvier 1980 modifié).
+
+Une photocopie visée par le S.I.R.E. du certificat de saillie étranger est conservée avec l'attestation de saillie pour être présentée à l'agent des haras au moment du relevé de signalement du produit sous la mère (et remis entre-temps à un éventuel acquéreur).
