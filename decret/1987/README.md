@@ -514,7 +514,6 @@
 - [Décret n°87-964 du 30 novembre 1987 (ASEP8701204D)](decret-n87-964-du-30-novembre-1987-asep8701204d)
 - [Décret n°87-965 du 30 novembre 1987 (ASEP8701205D)](decret-n87-965-du-30-novembre-1987-asep8701205d)
 - [Décret n°87-969 du 30 novembre 1987 (FPPX8700169D)](decret-n87-969-du-30-novembre-1987-fppx8700169d)
-- [Décret n°87-357 du 30 mai 1987 (PTTP8700358D)](decret-n87-357-du-30-mai-1987-pttp8700358d)
 - [Décret n°86-1365 du 31 décembre 1986](decret-n86-1365-du-31-decembre-1986)
 - [Décret n°86-1373 du 31 décembre 1986](decret-n86-1373-du-31-decembre-1986)
 - [Décret n°86-1374 du 31 décembre 1986](decret-n86-1374-du-31-decembre-1986)
