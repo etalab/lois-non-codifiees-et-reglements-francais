@@ -1,57 +1,33 @@
 # Article 2
 
-Le programme de l'épreuve orale facultative d'admission pour le recrutement de conseillers territoriaux socio-éducatifs prévue à l'article 7 b du décret du 18 mars 1993 susvisé portant sur des questions ayant trait au traitement automatisé de l'information est le suivant :
+Le programme de l'épreuve orale facultative prévue au b de l'article 5 du décret du 2 septembre 1992 susvisé relatif à la gestion et au traitement automatisé de l'information est le suivant :
 
-I. - Systèmes informatiques
+1. Les aspects techniques : notions générales :
 
-1° Les équipements :
+- notions générales sur les différents types de réseaux, les principales fonctions des ordinateurs, les terminaux et les périphériques ;
 
-- les ordinateurs ;
+- les logiciels : notions générales sur les systèmes d'exploitation et les différents types de logiciels : logiciels propriétaires, logiciels libres ; les fichiers ;
 
-- les périphériques ;
+- l'internet : notions générales et principales fonctionnalités ;
 
-- les réseaux.
+2. L'informatique et les nouvelles technologies de la communication dans la fonction publique :
 
-2° Les logiciels :
+- informatique et relations du travail ;
 
-- les systèmes d'exploitation ;
+- informatique et organisations des services ;
 
-- les langages et les progiciels.
+- informatique et communication interne ;
 
-3° Les différents types d'information informatique :
+- informatique et relation avec les usagers et le public ;
 
-- l'informatique centralisée ;
+3. La société de l'information :
 
-- l'informatique répartie.
+- les politiques publiques de l'informatique et des nouvelles technologies ;
 
-4° Les fichiers.
+- l'économie des nouvelles technologies de l'information et de la communication ;
 
-5° Les banques et les bases de données.
+- la sociologie des nouvelles technologies de l'information et de la communication : impact sur les compétences et les emplois ;
 
-II. - Bureautique
+- le droit des nouvelles technologies de l'information et de la communication : maîtrise d'ouvrage et d'oeuvre. Propriété intellectuelle ;
 
-1° Le matériel.
-
-2° Les logiciels.
-
-3° Les applications.
-
-III. - Gestion de l'informatique
-
-1° Le schéma directeur et le cahier des charges.
-
-2° L'informatique et les conditions de travail.
-
-3° L'acquisition et l'implantation d'un système.
-
-4° La maintenance et le développement.
-
-5° Le personnel informaticien.
-
-IV. - Droit du traitement et de la communication de l'information
-
-1° Les principes généraux du droit du logiciel.
-
-2° L'informatique et les libertés.
-
-3° L'accès aux documents administratifs.
+- informatique et libertés.

@@ -1,6 +1,6 @@
 # Article 2
 
-Le programme de l'épreuve d'admission du concours externe et du concours interne pour le recrutement des assistants territoriaux qualifiés de conservation du patrimoine et des bibliothèques prévue à l'article 8-(2°) du décret du 2 septembre 1992 susvisé, est fixé comme suit :
+Le programme de la seconde épreuve d'admission du concours externe, du concours interne et du troisième concours prévue à l'article 8 du décret du 2 septembre 1992 susvisé est fixé comme suit :
 
 1. Spécialité Musée :
 

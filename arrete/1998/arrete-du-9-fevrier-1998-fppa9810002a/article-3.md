@@ -1,6 +1,6 @@
 # Article 3
 
-Les documents ou textes soumis aux candidats pour la deuxième épreuve d'admission du concours externe prévue à l'article 9 (2°) du décret du 2 septembre 1992 précité et pour l'épreuve d'admission du concours interne prévue à l'article 10 de ce même décret portent, selon la spécialité choisie par le candidat, sur :
+Les documents ou textes soumis aux candidats pour la deuxième épreuve d'admission du concours externe et du troisième concours prévue aux articles 9 et 10-1 du décret du 2 septembre 1992 précité et pour l'épreuve d'admission du concours interne prévue à l'article 10 de ce même décret portent, selon la spécialité choisie par le candidat, sur :
 
 Musées :
 

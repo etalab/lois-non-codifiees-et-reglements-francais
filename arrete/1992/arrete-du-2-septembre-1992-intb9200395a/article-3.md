@@ -1,6 +1,6 @@
 # Article 3
 
-Le programme de la deuxième épreuve d'admission du concours externe et du concours interne d'attaché territorial de conservation du patrimoine est fixé comme suit :
+Le programme de la deuxième épreuve d'admission du concours externe, du concours interne et du troisième concours d'attaché prévue aux articles 9 et 9-1 du décret du 2 septembre 1992 susvisé est fixé comme suit :
 
 Option Conservation :
 

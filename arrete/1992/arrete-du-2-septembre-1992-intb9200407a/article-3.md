@@ -1,35 +1,33 @@
 # Article 3
 
-Le programme de l'épreuve facultative d'admission du concours externe et du concours interne pour le recrutement des assistants territoriaux qualifiés de conservation du patrimoine et des bibliothèques prévue à l'article 9 (2°) du décret du 2 septembre 1992 susvisé est fixé comme suit :
+Le programme de l'épreuve orale facultative prévue au 2° de l'article 9 du décret du 2 septembre 1992 susvisé relatif au traitement automatisé de l'information est le suivant :
 
-L'information :
+1. Les aspects techniques : notions générales :
 
-1° Représentation de l'information ;
+- notions générales sur les différents types de réseaux, les principales fonctions des ordinateurs, les terminaux et les périphériques ;
 
-2° Les différents supports de l'information (caractéristiques, utilisations).
+- les logiciels : notions générales sur les systèmes d'exploitation et les différents types de logiciels : logiciels propriétaires, logiciels libres ; les fichiers ;
 
-Le matériel :
+- l'internet : notions générales et principales fonctionnalités ;
 
-1° Les mémoires ;
+2. L'informatique et les nouvelles technologies de la communication dans la fonction publique :
 
-2° Les organes de traitement ;
+- informatique et relations du travail ;
 
-3° Les unités périphériques ;
+- informatique et organisation des services ;
 
-4° Les différents types d'ordinateurs ;
+- informatique et communication interne ;
 
-5° Les éléments constitutifs d'un réseau de transmission de données.
+- informatique et relation avec les usagers et le public ;
 
-Les logiciels :
+3. La société de l'information :
 
-1° Système d'exploitation ;
+- les politiques publiques de l'informatique et des nouvelles technologies ;
 
-2° Traducteur de langage ;
+- l'économie des nouvelles technologies de l'information et de la communication ;
 
-3° Progiciel.
+- la sociologie des nouvelles technologies de l'information et de la communication : impact sur les compétences et les emplois ;
 
-Bureautique :
+- le droit des nouvelles technologies de l'information et de la communication : maîtrise d'ouvrage et d'oeuvre. Propriété intellectuelle ;
 
-1° Les fichiers ;
-
-2° Notions générales sur le droit de l'informatique.
+- informatique et libertés.

@@ -1,6 +1,6 @@
 # Article 2
 
-Le programme de la troisième épreuve d'admissibilité du concours externe d'attaché de conservation du patrimoine est fixé comme suit :
+Le programme de la troisième épreuve d'admissibilité du concours externe et du troisième concours prévue à l'article 6 du décret du 2 septembre 1992 susvisé est fixé comme suit :
 
 1. Spécialité Archéologie
 

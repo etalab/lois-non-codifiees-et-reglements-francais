@@ -1,6 +1,6 @@
 # Article 1
 
-Le programme de la deuxième épreuve d'admissibilité du concours externe et du concours interne pour le recrutement des assistants territoriaux qualifiés de conservation du patrimoine et des bibliothèques prévue aux articles 6 et 7 du décret du 2 septembre 1992 susvisé est fixé comme suit :
+Le programme de la deuxième épreuve d'admissibilité du concours externe, du concours interne et du troisième concours pour le recrutement des assistants territoriaux qualifiés de conservation du patrimoine et des bibliothèques prévue aux articles 6 et 7 du décret du 2 septembre 1992 susvisé est fixé comme suit :
 
 Option Conservation
 
