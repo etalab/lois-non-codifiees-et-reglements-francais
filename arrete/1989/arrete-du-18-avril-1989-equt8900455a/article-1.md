@@ -1,3 +1,3 @@
 # Article 1
 
-Le présent arrêté s'applique aux remontées mécaniques, à l'exclusion des téléskis.
+Les dispositions du présent arrêté sont applicables aux remontées mécaniques, à l'exclusion des téléskis, construites postérieurement à sa publication.

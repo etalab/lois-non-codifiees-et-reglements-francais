@@ -9,3 +9,5 @@ Il doit recevoir l'accord du maître d'oeuvre ou d'un organisme accepté par le 
 Il doit être communiqué par le ou les constructeurs au service du contrôle avant tout début de fabrication.
 
 Les fournisseurs de composants de haute sécurité utilisés dans l'installation sont soumis aux mêmes obligations.
+
+Au delà du 31 décembre 1992, l'installation de composants de haute sécurité ou de sécurité, conformes aux dispositions du présent article et produits antérieurement à cette date, dans un téléphérique mentionné au premier alinéa de l'article 2 ci-dessus, sera tolérée.

@@ -1,6 +1,6 @@
 # Article 2
 
-Les différents composants - pièces élémentaires ou ensembles de pièces ayant une fonction déterminée - des remontées mécaniques sont classés en trois catégories à l'égard des risques qu'entraîne leur défaillance pour les personnes transportées :
+Les différents composants - pièces élémentaires ou ensembles de pièces ayant une fonction déterminée - des remontées mécaniques sont classés en trois catégories à l'égard des risques qu'entraîne leur défaillance :
 
 Composants de haute sécurité, dont la défaillance entraîne un accident grave ;
 

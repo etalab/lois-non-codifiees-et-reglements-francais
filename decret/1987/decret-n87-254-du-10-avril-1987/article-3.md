@@ -1,7 +1,7 @@
 # Article 3
 
-L'agrément entraîne la nomination, par arrêté, d'un représentant du ministre chargé de la formation professionnelle auprès de l'association de gestion du compte unique.
+Le commissaire du Gouvernement placé auprès de l'association de gestion du compte unique est nommé par arrêté du ministre chargé de la formation professionnelle. Il assiste de droit aux séances de toutes les instances de délibération et d'administration de l'association.
 
-Ce représentant reçoit les convocations, ordres du jour, procès-verbaux et tous autres documents adressés aux membres des instances délibérantes de l'association.
+Il dispose d'un droit de veto suspensif de quinze jours, exprimé par écrit et motivé, sur les décisions. Pendant ce délai, l'instance qui a pris la décision procède à un nouvel examen.
 
-Il assiste de droit, avec voix consultative, à toutes les séances des instances délibérantes et commissions.
+Le commissaire du Gouvernement a communication de tous les documents relatifs à la gestion du compte unique et au fonctionnement de l'association.
