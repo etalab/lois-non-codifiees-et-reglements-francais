@@ -146,6 +146,7 @@
 - [Décret n°95-631 du 5 mai 1995 (ENVN9530044D)](decret-n95-631-du-5-mai-1995-envn9530044d)
 - [Décret n°95-637 du 5 mai 1995 (LOGC9500033D)](decret-n95-637-du-5-mai-1995-logc9500033d)
 - [Décret n°95-639 du 5 mai 1995 (DOMP9500019D)](decret-n95-639-du-5-mai-1995-domp9500019d)
+- [Décret n°50-1253 du 6 octobre 1950](decret-n50-1253-du-6-octobre-1950)
 - [Décret n°93-1294 du 6 décembre 1993 (MCCB9300317D)](decret-n93-1294-du-6-decembre-1993-mccb9300317d)
 - [Décret n°95-10 du 6 janvier 1995 (FPPA9400145D)](decret-n95-10-du-6-janvier-1995-fppa9400145d)
 - [Décret n°95-11 du 6 janvier 1995 (TEFO9401252D)](decret-n95-11-du-6-janvier-1995-tefo9401252d)
