@@ -10,4 +10,4 @@ Les membres du cadre d'emplois sont affectés, en fonction de leur formation, da
 
 4. Documentation.
 
-Les assistants de conservation assurent les travaux courants dans les établissements ou services où ils sont affectés. Ils sont également chargés du contrôle de la bonne exécution des travaux confiés aux fonctionnaires appartenant aux cadres d'emplois de catégorie C ainsi que de leur encadrement. Lorsqu'ils sont affectés dans les bibliothèques, ils sont chargés de la promotion de la lecture publique.
+Les assistants de conservation assurent les travaux courants dans les établissements ou services où ils sont affectés. Ils sont également chargés du contrôle de la bonne exécution des travaux confiés aux fonctionnaires appartenant aux cadres d'emplois de catégorie C ainsi que de leur encadrement. Lorsqu'ils sont affectés dans les bibliothèques, ils sont chargés de la promotion de la lecture publique. Dans chacune de leur spécialité, ils contribuent au développement d'actions culturelles et éducatives.

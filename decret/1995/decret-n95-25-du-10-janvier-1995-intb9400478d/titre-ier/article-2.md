@@ -4,7 +4,7 @@ Les rédacteurs sont chargés de l'instruction des affaires qui leur sont confi�
 
 Ils exercent leurs fonctions dans l'une des spécialités suivantes :
 
-1° Administration générale : dans cette spécialité, ils assurent en particulier des tâches de gestion administrative et financière, de suivi de la comptabilité et participent à la rédaction des actes juridiques. Ils contribuent à l'élaboration et à la réalisation des actions de communication, d'animation et de développement économique, social et culturel de la collectivité.
+1° Administration générale : dans cette spécialité, ils assurent en particulier des tâches de gestion administrative et financière, de suivi de la comptabilité et participent à la rédaction des actes juridiques. Ils contribuent à l'élaboration et à la réalisation des actions de communication, d'animation et de développement économique, social, culturel et sportif de la collectivité.
 
 2° Secteur sanitaire et social : dans cette spécialité, ils assurent les tâches administratives à caractère médico-social et spécialement la gestion des dossiers des patients ou des usagers d'établissements à caractère social. Ils contribuent à la délivrance de renseignements et d'informations d'ordre général. Ils secondent, dans leur domaine de compétence, les médecins territoriaux ou les personnels des services médico-sociaux.
 
