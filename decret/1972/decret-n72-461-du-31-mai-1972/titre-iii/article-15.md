@@ -1,5 +1,3 @@
 # Article 15
 
-Un arrêté conjoint du ministre de la culture et de la communication et du ministre du budget précisera les conditions d'application du présent décret en ce qui concerne les modalités de fixation du prix des places dans le théâtre.
-
-Les recettes de tous ordres afférentes aux représentations données en dehors des salles affectées au Théâtre national de Strasbourg ne pourront donner lieu à une comptabilité distincte de celle du Théâtre national de Strasbourg.
+Des régies d'avances et de recettes peuvent être créées par décision du directeur avec l'accord de l'agent comptable et du contrôleur d'Etat dans les conditions prévues par le décret n° 92-681 du 20 juillet 1992 modifié relatif aux régies de recettes et aux régies d'avances des organismes publics.

@@ -1,5 +1,5 @@
 # Article 18
 
-Le Théâtre national de Strasbourg est soumis au contrôle financier de l'Etat institué par l'article 1er du décret du 25 octobre 1935.
+Le Théâtre national de Strasbourg est soumis au contrôle économique et financier de l'Etat prévu par le décret n° 55-733 du 26 mai 1955 modifié relatif au contrôle économique et financier de l'Etat.
 
-Les modalités d'exercice de ce contrôle sont précisées par arrêté conjoint du ministre chargé de la culture et du ministre chargé du budget
+Les modalités d'exercice de ce contrôle sont précisées par arrêté conjoint du ministre chargé de la culture et du ministre chargé de l'économie et des finances.
