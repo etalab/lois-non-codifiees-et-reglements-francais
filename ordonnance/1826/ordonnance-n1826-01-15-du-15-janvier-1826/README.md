@@ -2,4 +2,3 @@
 
 - [CHAPITRE 5 : Des congés.](chapitre-5)
 - [Article 71](article-71.md)
-- [Article 72](article-72.md)
