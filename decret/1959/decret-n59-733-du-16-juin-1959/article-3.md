@@ -10,7 +10,7 @@ b) De concourir à l'équipement des salles de spectacles cinématographiques da
 
 II - A accorder des subventions en vue :
 
-a) De concourir à la production des films cinématographiques français par l'octroi de subventions allouées tant aux producteurs de films de long métrage qu'aux distributeurs de films ;
+a) De concourir à la production d'oeuvres cinématographiques d'une durée de projection inférieure ou supérieure à une heure, par l'octroi de subventions calculées au profit des producteurs d'oeuvres cinématographiques de longue durée, ainsi qu'à la distribution d'oeuvres cinématographiques.
 
 b) De concourir à l'équipement et à la modernisation des industries techniques du cinéma ;
 
