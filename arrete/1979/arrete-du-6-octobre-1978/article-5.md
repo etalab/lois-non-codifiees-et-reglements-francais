@@ -1,3 +1,3 @@
 # Article 5
 
-Les méthodes de mesures acoustiques in situ destinées à vérifier que le niveau de la qualité acoustique requis par le présent arrêté est atteint sont fixées par un arrêté du ministre de l'environnement et du cadre de vie.
+Les mesures destinées à vérifier que le niveau de qualité acoustique requis par le présent arrêté est atteint sont effectuées conformément à la norme NF S. 31-057 Vérification de la qualité acoustique des bâtiments.
