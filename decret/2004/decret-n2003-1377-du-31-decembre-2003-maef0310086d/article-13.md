@@ -8,4 +8,4 @@ Faute de réponse au jour de l'échéance de la validité de l'inscription, il e
 
 III. - La radiation d'un Français du registre des Français établis hors de France est effectuée soit à sa demande écrite, soit sur décision du chef de poste consulaire lorsqu'il constate que le Français ne réside plus dans la circonscription consulaire ou que la condition de nationalité française n'est plus remplie ou que l'inscription a été effectuée sur le fondement de fausses informations.
 
-IV. - Tout Français qui, déjà inscrit au registre des Français établis hors de France, change de pays de résidence est inscrit sans formalité particulière au registre des Français établis hors de France de la circonscription consulaire dans laquelle il s'établit.
+IV. - Tout Français qui, déjà inscrit au registre des Français établis hors de France, change de circonscription consulaire est inscrit sans formalité particulière au registre des Français établis hors de France de la circonscription consulaire dans laquelle il s'établit.
