@@ -7,6 +7,7 @@
 - [Décret n°94-4 du 3 janvier 1994 (FPPX9300210D)](decret-n94-4-du-3-janvier-1994-fppx9300210d)
 - [Décret n°94-866 du 3 octobre 1994 (MCCB9400108D)](decret-n94-866-du-3-octobre-1994-mccb9400108d)
 - [Décret n°94-867 du 3 octobre 1994 (MCCB9400109D)](decret-n94-867-du-3-octobre-1994-mccb9400109d)
+- [Décret n°94-7 du 4 janvier 1994 (BUDF9310074D)](decret-n94-7-du-4-janvier-1994-budf9310074d)
 - [Décret n°94-556 du 5 juillet 1994 (PRMX9400279D)](decret-n94-556-du-5-juillet-1994-prmx9400279d)
 - [Décret n°88-565 du 5 mai 1988 (RESK8800405D)](decret-n88-565-du-5-mai-1988-resk8800405d)
 - [Décret n°88-566 du 5 mai 1988 (RESK8800406D)](decret-n88-566-du-5-mai-1988-resk8800406d)
