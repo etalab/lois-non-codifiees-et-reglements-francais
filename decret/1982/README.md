@@ -85,6 +85,7 @@
 - [Décret n°82-405 du 11 mai 1982](decret-n82-405-du-11-mai-1982)
 - [Décret n°82-416 du 11 mai 1982](decret-n82-416-du-11-mai-1982)
 - [Décret n°82-248 du 12 mars 1982](decret-n82-248-du-12-mars-1982)
+- [Décret n°82-958 du 12 novembre 1982](decret-n82-958-du-12-novembre-1982)
 - [Décret n°82-400 du 12 mai 1982](decret-n82-400-du-12-mai-1982)
 - [Décret n°82-425 du 12 mai 1982](decret-n82-425-du-12-mai-1982)
 - [Décret n°81-938 du 13 octobre 1981](decret-n81-938-du-13-octobre-1981)
