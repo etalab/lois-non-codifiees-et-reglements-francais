@@ -4,6 +4,7 @@
 - [Décret n°48-350 du 1 mars 1948](decret-n48-350-du-1-mars-1948)
 - [Décret n°48-648 du 7 avril 1948](decret-n48-648-du-7-avril-1948)
 - [Décret n°48-800 du 10 mai 1948](decret-n48-800-du-10-mai-1948)
+- [Décret n°48-1018 du 16 juin 1948](decret-n48-1018-du-16-juin-1948)
 - [Décret n°48-448 du 16 mars 1948](decret-n48-448-du-16-mars-1948)
 - [Décret n°48-449 du 16 mars 1948](decret-n48-449-du-16-mars-1948)
 - [Décret n°51-1208 du 16 octobre 1951](decret-n51-1208-du-16-octobre-1951)
