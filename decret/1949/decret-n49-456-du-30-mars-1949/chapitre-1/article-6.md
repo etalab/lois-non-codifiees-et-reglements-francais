@@ -1,0 +1,5 @@
+# Article 6
+
+Lorsque la durée d'assurance au titre d'une ou plusieurs activités libérales est inférieure ou égale à quinze années [*nombre d'annuités*], le montant de l'allocation de vieillesse est égal à autant de soixantièmes du montant de l'allocation aux vieux travailleurs salariés régie par le titre Ier du livre VII du code de la sécurité sociale que l'assuré justifie de trimestres d'assurance à la date d'effet de l'allocation.
+
+Lorsque cette durée d'assurance est supérieure à quinze années, le montant de l'allocation est majoré d'une soixantième du montant de l'allocation aux vieux travailleurs salariés par trimestre d'assurance accompli au-delà du soixantième antérieurement à la date d'effet de l'allocation, dans la limite de quatre-vingt-dix soixantièmes. Cette majoration peut être modifiée, compte tenu de l'évolution du montant de l'allocation aux vieux travailleurs salariés et de l'évolution prévisible des charges du régime, par délibération du conseil d'administration de la Caisse nationale d'assurance vieillesse des professions libérales, approuvé par arrêté conjoint du ministre chargé de la sécurité sociale et du ministre chargé du budget.
