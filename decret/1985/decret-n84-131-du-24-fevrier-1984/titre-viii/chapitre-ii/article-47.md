@@ -18,4 +18,4 @@ Le détachement ne peut avoir lieu que dans l'un des cas suivants :
 
 7° Détachement auprès d'un établissement privé faisant fonction d'établissement public ou auprès d'un établissement ou d'un organisme privé à but non lucratif participant au service public hospitalier.
 
-8° Détachement auprès d'un groupement d'intérêt public entrant dans l'un des cas prévus aux articles L. 668-1 (4e alinéa, 2°) et L. 713-12 du code de la santé publique.
+8° Détachement auprès d'un groupement d'intérêt public entrant dans l'un des cas prévus aux articles L. 668-1 (4e alinéa, 2°), L. 710-17 et L. 713-12 du code de la santé publique.
