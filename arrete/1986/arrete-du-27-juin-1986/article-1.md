@@ -1,3 +1,3 @@
 # Article 1
 
-Le taux de la taxe [*montant*] destinée au financement des actions du centre technique interprofessionnel de la canne et du sucre de la Martinique est fixé à 1,81 F par tonne de cannes pour la campagne 1985-1986.
+Peuvent bénéficier des dispositions de l'article 48 du décret susvisé les entreprises qui, à la date de présentation de la demande, sont inscrites au registre des loueurs et remplissent les conditions réglementaires d'inscription au registre des transporteurs.

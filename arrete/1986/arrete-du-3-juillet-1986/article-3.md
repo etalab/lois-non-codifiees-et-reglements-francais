@@ -1,3 +1,3 @@
 # Article 3
 
-Le présent arrêté sera publié au Journal officiel de la République française.
+Ce prix plancher et le prix plafond sont maintenus sur la base du litre de rhum courant à 55° au stade FOB respectivement à 6,52 F et 8,36 F.
