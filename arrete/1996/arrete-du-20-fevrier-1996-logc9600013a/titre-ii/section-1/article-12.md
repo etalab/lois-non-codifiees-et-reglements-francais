@@ -1,3 +1,3 @@
 # Article 12
 
-La subvention est attribuée aux personnes dont les ressources mensuelles établies sur les douze mois précédents sont au plus égales à un montant fixé par arrêté du représentant de l'Etat dans le département. Ce plafond ne peut être supérieur à deux fois et demie le salaire minimum interprofessionnel garanti du département depuis au moins un an à la date de l'examen du dossier.
+La subvention est attribuée dans les conditions prévues aux articles 2, 3 et 6 de l'arrêté du 29 avril 1997 susvisé relatif aux aides de l'Etat pour l'accession très sociale dans les départements d'outre-mer.

@@ -1,9 +1,13 @@
 # Article 16
 
-I. - Toute fausse déclaration, inexactitude des renseignements, manoeuvre dolosive ou frauduleuse entraîne la répétition des subventions prévues par le présent arrêté.
+I. - Le contrôle des conditions d'application du dispositif du présent arrêté est exercé par le représentant de l'Etat dans le département, sans préjudice des pouvoirs dévolus au ministre chargé de l'économie et des finances, au ministre chargé de l'outre-mer et au ministre chargé du logement.
 
-II. - Au cas où les conditions mises à l'attribution de la subvention pour l'acquisition-amélioration ou l'amélioration de logement ne seraient pas respectées, la subvention est soumise à répétition.
+II. - Au cas où les conditions mises à l'attribution de la subvention pour l'acquisition-amélioration ou amélioration des logements ne seraient pas respectées, la subvention est soumise à répétition dans les conditions suivantes :
 
-III. - Les subventions mentionnées à l'article 2 ci-dessus sont soumises à répétition dans les conditions précisées à l'article 21 de l'arrêté du 13 mars 1986 susvisé.
+- avant la cinquième année : 100 % ;
 
-IV. - Les subventions mentionnées à l'article 9 ci-dessus sont également soumises à répétition lorsque, à la suite d'un transfert de propriété du logement survenant dans un délai de quinze ans à compter de la date à laquelle l'accédant est devenu propriétaire, le nouveau propriétaire ne remplit pas les conditions de ressources prévues à l'article 12.
+- entre la sixième et la dixième année : 75 % ;
+
+- entre la onzième et la quinzième année : 50 %.
+
+III. - En cas d'annulation de la décision de subvention, celle-ci est immédiatement répétée.

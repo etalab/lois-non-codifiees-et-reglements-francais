@@ -1,0 +1,3 @@
+# Article 6
+
+Les dispositions du présent arrêté sont applicables, au plus tard, le premier jour du septième mois suivant sa publication, aux bâtiments faisant l'objet d'une demande de permis de construire, ou d'une demande d'autorisation au sens de l'article R. 123-23 du code de la construction et de l'habitation ou, en dehors des cas indiqués précédemment, d'un début de travaux, à l'exception des bâtiments d'habitation collective dont la hauteur est inférieure ou égale à 28 mètres, pour lesquels l'application des dispositions du présent arrêté est reportée, au plus tard, au premier jour du treizième mois suivant la publication.

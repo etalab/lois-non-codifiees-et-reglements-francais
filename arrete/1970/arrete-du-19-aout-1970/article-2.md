@@ -6,11 +6,11 @@ a) Un président nommé par arrêté conjoint du ministre de l'économie et des 
 
 b) Un vice-président nommé par arrêté conjoint du ministre de la santé et de la sécurité sociale, du ministre de l'économie, du ministre du budget et du ministre de l'agriculture.
 
-c) Douze membres représentant l'administration, désignés  ci-après :
+c) Douze membres représentant l'administration, désignés ci-après :
 
-1. Au titre du ministère de la santé et de la sécurité  sociale :
+1. Au titre du ministère du travail et des affaires sociales :
 
-Le chef du service de l'inspection générale des affaires  sociales ;
+Le chef du service de l'inspection générale des affaires sociales ;
 
 Le directeur général de la santé ;
 
@@ -18,11 +18,9 @@ Le directeur de la sécurité sociale ;
 
 Le directeur des hôpitaux ;
 
-Le directeur de la pharmacie et du médicament ;
+Le directeur de l'Institut national de la santé et de la recherche médicale ;
 
-Le directeur de l'I.N.S.E.R.M.,
-
-ou leurs réprésentants respectifs.
+Le directeur de l'Agence du médicament.
 
 2. Au titre du ministère de l'économie :
 
@@ -46,7 +44,7 @@ Le directeur des affaires sociales ou son représentant.
 
 5. Le commissaire au PLan ou son représentant.
 
-d) dix-huit membres représentant les organismes nationaux publics ou privés désignés ci-après, à raison d'un représentant par organisme :
+d) Vingt-quatre membres représentant les organismes nationaux publics ou privés désignés ci-après, à raison d'un représentant par organisme :
 
 1. Caisses d'assurance maladie :
 
@@ -63,6 +61,8 @@ Confédération des syndicats médicaux français ;
 Fédération des médecins de France ;
 
 Fédération française des médecins généralistes ;
+
+Union collégiale des chirurgiens et spécialistes français ;
 
 Syndicat national des médecins, chirurgiens, spécialistes et biologistes des hôpitaux publics ;
 
@@ -88,8 +88,20 @@ Fédération intersyndicale des établissements d'hospitalisation privés.
 
 7. Centre de recherche d'étude et de documentation en économie de la santé.
 
+8. Fédérations des mutuelles :
+
+Fédération nationale de la mutualité française ;
+
+Fédération des mutuelles de France ;
+
+Fédération nationale interprofessionnelle des mutuelles.
+
+9. Centre technique des institutions de prévoyance.
+
+10. Fédération française des sociétés d'assurances.
+
 e) Le secrétaire général de la commission des comptes de la sécurité sociale.
 
-f) Quatorze personnalités, nommées pour trois ans, par arrêté conjoint du ministre de la santé et de la sécurité sociale, du ministre de l'économie, du ministre du budget et du ministre de l'agriculture.
+f) Le président du Comité économique du médicament.
 
-g) Un représentant du C.R.E.D.O.C..
+g) Quatorze personnalités, nommées pour trois ans, par arrêté conjoint du ministre de la santé et de la sécurité sociale, du ministre de l'économie, du ministre du budget et du ministre de l'agriculture.

@@ -4,9 +4,7 @@ Les insignes de catégories des gardes-pêche du Conseil supérieur de la pêche
 
 Sur les pattes d'épaule, des vestes ou chemises de la manière suivante :
 
-- garde-pêche de 2e catégorie, 2e classe : un chevron argent ;
-
-- garde-pêche de 2e catégorie, 1re classe : deux chevrons argent ;
+- garde-pêche de 2e catégorie : deux chevrons argent ;
 
 - garde-pêche de 1re catégorie : trois chevrons argent ;
 
