@@ -4,9 +4,11 @@ La direction générale de l'industrie propose au Gouvernement toutes mesures de
 
 Elle met en oeuvre les actions propres à créer un environnement favorable à l'entreprise et à l'entrepreneur.
 
-Elle propose toutes mesures concourant au développement de la recherche et de l'innovation dans l'industrie, aux transferts de technologie entre les entreprises et les organismes publics de recherche et à la création d'industries nouvelles, sous réserve des attributions du ministre délégué auprès du ministre de l'éducation nationale, chargé de la recherche et de l'enseignement supérieur.
+Elle propose toutes mesures concourant au développement de la recherche et de l'innovation dans l'industrie, aux transferts de technologie entre les entreprises et les organismes publics de recherche et à la création d'industries nouvelles, sous réserve des attributions du ministre chargé de la recherche.
 
-Elle suit les aspects sociaux du développement industriel et particulièrement les problèmes de formation.
+Elle veille au développement des petites et moyennes industries.
+
+Elle suit les aspects sociaux du développement industriel et les problèmes de formation.
 
 Elle dirige et anime l'action des services qui lui sont rattachés.
 

@@ -6,27 +6,21 @@ L'administration centrale du ministère de l'industrie, des P. et T. et du touri
 
 2° La direction générale de l'industrie qui comprend, outre la délégation à la petite et moyenne industrie et le service chargé de la propriété industrielle :
 
-a) Le service de l'environnement concurrentiel ;
+a) Le service des affaires économiques et internationales ;
 
-b) Le service de l'innovation et du développement industriel et technologique ;
+b) Le service de l'action régionale et de la technologie ;
 
-c) Le service d'action régionale pour la sécurité et la compétitivité industrielles ;
+c) Le service des industries de base et des biens d'équipement ;
 
-d) Le service des industries de base et des biens intermédiaires ;
+d) Le service des biens de consommation ;
 
-e) Le service des biens d'équipement industriel ;
+e) Le service des industries de communication et de service ;
 
-f) Le service des biens de consommation ;
+f) Le service central de sûreté des installations nucléaires ;
 
-g) Le service des industries de communication et de service ;
+g) Le service des statistiques industrielles ;
 
-h) Le service central de sûreté des installations nucléaires ;
-
-i) La sous-direction d'évaluation et de prospective des stratégies et des projets industriels ;
-
-j) La sous-direction des chambres de commerce et d'industrie ;
-
-k) La sous-direction de l'organisation et de la communication ;
+h) Le service de l'organisation et du financement ;
 
 3° La direction générale de l'énergie et des matières premières qui comprend :
 
