@@ -1,73 +1,129 @@
 # Article Annexe III
 
-I - Objectif et principes.
+1. Objet.
 
-L'application répétée de petites doses de produits sur une longue période fait apparaître des réactions qui souvent ne peuvent être décelées au cours des tests d'irritation primaire ou de sensibilisation. Cette méthode est utilisée pour déterminer l'action sur la peau d'une application quotidienne d'un produit pendant 90 jours. La plupart du temps, les réactions apparaissent entre le 50e et le 60e jour d'application et peuvent aller de l'érythème léger avec desquamation jusqu'à une hyperacanthose forte avec névrose des tissus.
+La présente méthode officielle est utilisée pour apprécier l'agressivité superficielle cutanée d'un produit cosmétique ou d'hygiène corporelle par applications itératives, en système ouvert, pendant vingt-huit jours consécutifs.
 
-II - Equipement et réactifs.
+En l'absence de toute réaction décelable à l'examen clinique au cours des deux premières semaines de traitement, l'expérimentateur a la faculté d'écourter la durée de l'essai.
 
-1. Lapins albinos, mâles, de 2,5 à 3,5 kg environ. Les animaux doivent avoir séjourné dans l'animalerie huit jours au minimum, afin d'être parfaitement acclimatés.
+2. Animaux de laboratoire et équipement
 
-2. Pèse-bébé, portée maximum 10 kg.
+2.1. Lapins albinos de souche définie, de même sexe et pesant 2,5 kilogrammes environ au début de l'essai. Les animaux doivent avoir séjourné dans l'animalerie en cage individuelle, une semaine au minimum afin d'être parfaitement acclimatés, et reçoivent, dès leur arrivée, une nourriture de composition constante et équilibrée.
 
-3. Tondeuse électrique pour animal.
+2.2. Balance d'animalerie.
 
-4. Spatule en matière plastique souple.
+2.3. Tondeuse électrique pour animal, munie d'un peigne fin.
 
-5. Collier de contention en cuir.
+2.4. Doigtier à usage unique de qualité chirurgicale.
 
-III - Mode opératoire.
+2.5. Matériel d'application approprié.
 
-1. Tondre avec la tondeuse électrique le dos et les flancs de trois lapins.
+2.6. Micromètre à pression constante, plateau de 30 millimètres environ.
 
-2. Peser chaque animal.
+2.7. Bistouri d'Arouette de 5 millimètres de diamètre environ.
 
-3. Appliquer chaque jour à la même heure la préparation à contrôler sur toute la surface tondue, à l'exception de la zone témoin, à l'aide de la spatule en plastique, de manière bien uniforme. Bien faire pénétrer le produit.
+3. Mode opératoire
 
-Dose : 2 grammes de produit par kilogramme de poids vif.
+Cet essai doit être effectué sur six lapins recevant le produit à expérimenter (lot 1) et sur six lapins témoins (lot 2).
 
-4. Immobiliser l'animal à l'aide du collier de contention de manière à ce qu'il ne puisse pas lécher la zone traitée.
+3.1. Peser chaque animal au début de chaque semaine et à la fin de l'expérimentation.
 
-5. Effectuer l'application quotidienne pendant quatre-vingt-dix jours.
+3.2. Tondre la région dorsale rétroscapulaire des lapins dans le sens caudocrânien de part et d'autre de la colonne vertébrale, sur 8 centimètres de largeur et 15 centimètres de longueur, en laissant intact le poil présent au niveau du rachis, afin de bien séparer les deux plages, la droite et la gauche.
 
-IV - Observations.
+Laisser les animaux au repos pendant au moins quatre heures.
 
-1. Chaque semaine, noter le poids de chaque animal et tondre les poils de la zone d'application ainsi que de la zone témoin (deux fois par semaine si nécessaire).
+3.3. Les six lapins du lot reçoivent l'application du produit à tester, de manière uniforme, sur le côté droit ; masser légèrement.
 
-2. Observer l'aspect et la vitesse de repousse des poils.
+Le côté gauche ne reçoit pas de produit mais subit un massage identique.
 
-3. Mesurer l'épaisseur de la peau et l'hyperacanthose éventuelle, en mesurant l'épaisseur d'un pli de peau à l'aide d'un palmer.
+Si nécessaire, éliminer le surplus de produit.
 
-4. Rechercher et noter la formation d'érythème et d'oedème comme pour une mesure d'irritation primaire.
+Doses à administrer tout au long de l'expérimentation : 2 grammes par animal et par jour (ou 2 millilitres par animal et par jour pour les produits de faible densité).
 
-a) Echelle numérique. Erythème et formation d'escarres :
+3.4. Les six lapins du lot 2 subissent chaque jour un massage sur le côté gauche comme les animaux du lot 1.
 
-Pas d'érythème : 0.
+3.5. Veiller à ce que les animaux du lot 1 ne se lèchent pas après l'application du produit. Les animaux des deux lots seront soumis aux mêmes contraintes.
 
-Léger érythème (à peine visible) : 1.
+3.6. Effectuer les applications sept jours sur sept, pendant vingt-huit jours consécutifs, aux mêmes moments de la journée.
 
-Erythème bien visible : 2.
+3.7. Tondre l'ensemble des animaux, à nouveau, au début de chaque semaine, côté témoin et côté traité, au minimum quatre heures avant l'application du produit. Si nécessaire, renouveler la tonte en cours de semaine, dans les mêmes conditions.
 
-Erythème modéré à important : 3.
+3.8. A l'issue des vingt-huit jours d'expérimentation, effectuer un prélèvement, à l'aide du bistouri d'Arouette, au milieu de la zone d'application et au milieu de la zone témoin, sur chacun des animaux.
 
-Erythème grave (rouge pourpre) avec formation de légères escarres (lésions profondes) : 4.
+Procéder à l'examen histologique de la peau des lapins du lot 1 ; si nécessaire, procéder également à l'examen histologique de la peau des lapins du lot 2.
 
-b) Echelle numérique. Formation d'oedème :
+3.9. Si nécessaire, garde les animaux en observation pendant une semaine supplémentaire et procéder à de nouvelles biopsies cutanées en vue d'un examen histologique complémentaire.
 
-Pas d'oedème : 0.
+4. Observations et notations
 
-Très léger oedème (à peine visible) : 1.
+4.1. Avant chaque application de produit, vingt-quatre heures après la dernière et pendant la semaine supplémentaire d'observation, effectuer un examen portant sur :
 
-Léger oedème (contours bien définis, gonflement apparent) : 2.
+- l'aspect général des animaux ;
 
-Oedème moyen (épaisseur environ 1 mm) : 3.
+- la repousse du poil ;
 
-Oedème grave (épaisseur supérieure à 1 mm et surface supérieure à celle du carré) : 4.
+- les réactions d'intolérance ;
 
-Note - L'évaluation des érythèmes est facilitée en effectuant une injection intraveineuse dans l'oreille du lapin, d'une solution à 1 p. 100 de trypan bleu dans le sérum physiologique stérile à raison de 1 millilitre de solution par kilogramme de lapin. Les zones vascularisées se colorent en bleu et l'intensité de la coloration est proportionnelle à l'intensité de l'irritation.
+- la souplesse et l'état de la peau.
 
-Nota - Il est souhaitable de procéder à un examen histologique de la peau et à une analyse de sang et d'urine.
+4.2. A chaque examen, rechercher et noter la formation d'érythème et d'oedème à l'aide de l'échelle numérique ci-dessous :
 
-Fréquence des observations : au début de l'expérience et chaque mois.
+a) Erythème et formation d'escarres :
 
-Ces essais ne peuvent être effectués que par des experts toxicologues, dermatologues ou vétérinaires qualifiés et spécialisés.
+- pas d'érythème : 0.
+
+- léger érythème (à peine visible) : 1.
+
+- érythème bien visible : 2.
+
+- érythème important : 3.
+
+- érythème grave (rouge pourpre) avec formation de légères escarres (lésions profondes) : 4.
+
+b) Formation d'oedème :
+
+- pas d'oedème : 0.
+
+- très léger oedème (à peine visible) : 1.
+
+- léger oedème (gonflement nettement visible) : 2.
+
+- oedème moyen (épaisseur d'environ 1 millimètre) : 3.
+
+- oedème grave (épaisseur supérieure à 1 millimètre) : 4.
+
+4.3. Mesurer l'épaisseur du pli cutané à l'aide du micromètre à pression constante chez tous les animaux du côté témoin et du côté traité, avant la première application puis chaque semaine.
+
+4.4. Compléter ces observations macroscopiques par les résultats des examens histologiques des zones cutanées traitées et non traitées.
+
+5. Calculs et expression des résultats
+
+5.1. Dresser la courbe de croissance pondérale moyenne de chacun des lots traité et témoin.
+
+5.2. Erythème et oedème : calculer, pour chaque lot, l'indice journalier moyen en additionnant les notes obtenues pour l'érythème et l'oedème et en divisant le total par le nombre d'animaux. Calculer pour chaque semaine l'indice hebdomadaire moyen (IH1 à IH4) en faisant la moyenne hebdomadaire des indices journaliers.
+
+Noter également :
+
+L'indice journalier maximal (IMax) observé lors de l'essai (en précisant le moment de son apparition) ;
+
+L'indice journalier final (IF1) observé vingt-quatre heures après la dernière application ;
+
+Le cas échéant, l'indice journalier final (IF2) observé à la fin de la semaine supplémentaire d'observation.
+
+5.3. Pli cutané : l'épaisseur du pli cutané (E), mesurée chaque semaine, est exprimée en pourcentage de variation selon la formule suivante, les mesures étant effectuées avec une précision du 1/10 de millimètre :
+
+E = <(T - t) : t> x 100.
+
+où
+
+T = mesure du côté traité,
+
+t = mesure du côté témoin.
+
+6. Rapport d'essai
+
+Le rapport d'essai doit comporter au moins les précisions méthodologiques prévues par les règles des bonnes pratiques de laboratoire.
+
+Dans ses conclusions, l'expérimentateur tient compte de toutes les observations et des résultats des examens histologiques, une attention particulière étant portée à la réversibilité des effets observés.
+
+En cas d'impossibilité absolue d'utiliser la méthode décrite, l'expérimentateur devra mentionner avec précision et justifier dans le rapport d'essai les modifications apportées.
