@@ -422,6 +422,7 @@
 - [Décret n°96-822 du 16 septembre 1996 (MENF9602207D)](decret-n96-822-du-16-septembre-1996-menf9602207d)
 - [Décret n°96-829 du 16 septembre 1996 (INDH9600578D)](decret-n96-829-du-16-septembre-1996-indh9600578d)
 - [Décret n°96-920 du 16 octobre 1996 (FPPA9610027D)](decret-n96-920-du-16-octobre-1996-fppa9610027d)
+- [Décret n°96-921 du 16 octobre 1996 (FPPA9610024D)](decret-n96-921-du-16-octobre-1996-fppa9610024d)
 - [Décret n°98-1158 du 16 décembre 1998 (MESG9811154D)](decret-n98-1158-du-16-decembre-1998-mesg9811154d)
 - [Décret n°2002-85 du 17 janvier 2002 (INTC0100335D)](decret-n2002-85-du-17-janvier-2002-intc0100335d)
 - [Décret n°96-336 du 17 avril 1996 (COPC9500015D)](decret-n96-336-du-17-avril-1996-copc9500015d)
