@@ -2,7 +2,7 @@
 
 A toute époque de la procédure, le tribunal peut prononcer la faillite personnelle de toute personne mentionnée à l'article 185 contre laquelle a été relevé l'un des faits ci-après :
 
-1. Avoir exercé une activité artisanale ou commerciale ou une fonction de direction ou d'administration d'une personne morale contrairement à une interdiction prévue par la loi :
+1. Avoir exercé une activité commerciale, artisanale ou agricole ou une fonction de direction ou d'administration d'une personne morale contrairement à une interdiction prévue par la loi :
 
 2. Avoir, dans l'intention d'éviter ou de retarder l'ouverture de la procédure de redressement judiciaire, fait des achats en vue d'une revente au-dessous du cours ou employé des moyens ruineux pour se procurer des fonds ;
 
