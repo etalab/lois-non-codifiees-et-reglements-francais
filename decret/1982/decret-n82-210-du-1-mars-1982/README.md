@@ -1,0 +1,7 @@
+# Décret n°82-210 du 1 mars 1982 RELATIF A L'INDEMNITE POUR DEPOSSESSION DES MEUBLES MEUBLANTS, PREVUE AU TITRE II DE LA LOI N° 82-4 DU 6 JANVIER 1982 PORTANT DIVERSES DISPOSITIONS RELATIVES A LA REINSTALLATION DES RAPATRIES.
+
+- [Article 1](article-1.md)
+- [Article 2](article-2.md)
+- [Article 3](article-3.md)
+- [Article 4](article-4.md)
+- [Article 5](article-5.md)

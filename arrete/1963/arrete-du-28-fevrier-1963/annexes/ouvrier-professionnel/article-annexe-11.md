@@ -1,10 +1,10 @@
 # Article Annexe 11
 
-Indépendamment des dispositions législatives sur les emplois réservés aux victimes de guerre et aux travailleurs handicapés applicables au recrutement des ouvriers professionnels, les ouvriers professionnels de 1re et de 2é catégorie sont recrutés :
+Indépendamment des dispositions législatives sur les emplois réservés aux victimes de guerre et aux travailleurs handicapés applicables au recrutement des ouvriers professionnels, les ouvriers professionnels de 1ère et de 2ème catégorie sont recrutés :
 
 1° Par voie de concours sur titres ou de concours sur épreuves dans les conditions fixées ci-après ;
 
-2° A compter du 1er janvier 1974 par voie d'inscription sur une liste d'aptitude à raison d'une inscription pour six candidats reçus aux concours effectués en application des dispositions du 1° ci-dessus et après avis de la commission paritaire compétente, parmi les aides-ouvriers professionnels pour l'accès à l'emploi d'ouvrier professionnel de 1re catégorie et parmi les ouvriers professionnels de 1re catégorie pour l'accès à l'emploi d'ouvrier professionnel de 2é catégorie, âgés de plus de quarante ans et comptant au moins neuf ans de services [*ancienneté*] dans leur emploi.
+2° A compter du 1er janvier 1974 par voie d'inscription sur une liste d'aptitude à raison d'une inscription pour six candidats reçus aux concours effectués en application des dispositions du 1° ci-dessus et après avis de la commission paritaire compétente, parmi les aides-ouvriers professionnels pour l'accès à l'emploi d'ouvrier professionnel de 1ère catégorie et parmi les ouvriers professionnels de 1ère catégorie pour l'accès à l'emploi d'ouvrier professionnel de 2ème catégorie, âgés de plus de quarante ans et comptant au moins neuf ans de services dans leur emploi.
 
 Les concours prévus au 1° ci-dessus sont ouverts :
 
@@ -16,27 +16,31 @@ Lorsque le nombre de candidats ayant satisfait aux concours est supérieur au no
 
 Les candidats portés sur la liste d'admission conservent pendant trois ans le bénéfice de leur inscription. Ils sont rayés de ladite liste s'ils refusent l'emploi qui leur est offert.
 
-I - Concours sur titres.    Les candidats à l'emploi d'ouvrier professionnel 1re catégorie doivent être titulaires de l'un des diplômes ou titres suivants :
+I - CONCOURS SUR TITRES    1. Ouvrier professionnel de 1ère catégorie.
 
-Certificat d'aptitude professionnelle correspondant à la qualification.
+Les candidats doivent être titulaires de l'un des diplômes ou titres suivants :
 
-Brevet professionnel correspondant à la qualification.
+Certificat d'aptitude professionnelle ;
 
-Brevet d'apprentissage agricole.
+Brevet d'études professionnelles ;
 
-Brevet professionnel agricole (option horticole).
+Brevet professionnel ;
 
-Brevet d'agent technique agricole.
+Titre ou diplôme homologué au moins au niveau V des titres et diplômes de l'enseignement technologique en application de la loi n° 71-577 du 16 juillet 1971 d'orientation sur l'enseignement technologique ;
 
-Brevet d'apprentissage et d'aptitude professionnelle aux travaux horticoles.
+Brevet militaire reconnu équivalent à un certificat d'aptitude professionnelle dans les conditions prévues par l'arrêté du 29 avril 1957 du ministre d'Etat, chargé de l'éducation nationale, de la jeunesse et des sports, portant fixation des principes d'une équivalence de diplômes civils et de brevets militaires (Journal officiel du 17 mai 1957) ;
 
-Brevet de spécialité militaire dont l'équivalence avec un certificat d'aptitude professionnelle a été reconnue par le ministère de l'éducation nationale dans les conditions prévues par l'arrêté du 29 avril 1957.
+Ouvrier professionnel communal de 1ère catégorie.
 
-Brevet d'études professionnelles correspondant à la qualification.    Titre ou diplôme figurant au niveau V de la liste d'homologation des titres et diplômes de l'enseignement technologique établie en vertu des dispositions de l'arrêté du Premier ministre en date du 17 décembre 1973.
+2. Ouvrier professionnel de 2ème catégorie.
 
-Ouvrier professionnel d'une commune.
+Les candidats doivent remplir l'une des conditions suivantes :
 
-Les ouvriers professionnels de 2é catégorie doivent justifier soit de deux certificats d'aptitude professionnelle, soit de deux brevets professionnels, soit d'un certificat d'aptitude professionnelle et d'un brevet professionnel de spécialité différente.
+Etre titulaire de deux diplômes permettant de concourir sur titres à l'emploi d'ouvrier professionnel de 1ère catégorie, délivrés dans des spécialités différentes ;
+
+Etre titulaire d'un diplôme permettant de concourir sur titres à l'emploi d'ouvrier professionnel de 1ère catégorie, délivré dans deux options différentes ;
+
+Etre ouvrier professionnel communal de 2ème catégorie.
 
 II - Concours sur épreuves.
 
@@ -54,9 +58,7 @@ Mesures de longueurs, surfaces, capacités et poids. Densité. Règles de trois.
 
 Les lignes droites, perpendiculaires, obliques, et parallèles. Mesure des angles. Surface : triangles, quadrilatères, polygones, cercle, secteurs, segments. Circonférence. Arc.
 
-Volumes courants : parallélépipède, prisme, cylindre, cône.
-
-Epreuves pratiques.
+Volumes courants : parallélépipède, prisme, cylindre, cône.               Epreuves pratiques.
 
 Epreuve théorique (coefficient 2) :
 
@@ -66,10 +68,4 @@ Epreuve manuelle (coefficient 3) :
 
 Exécution d'un ou plusieurs essais correspondant à la spécialité.
 
-Pour l'accès à l'emploi d'ouvrier professionnel de 2é catégorie, le candidat devra satisfaire à une seconde série d'épreuves pratiques portant sur une spécialisation différente de la première.
-
-/M/paragraphe supprimé à compter du 24 octobre 1977 par arrêté du 10 février 1978 :
-
-III - Examen d'aptitude.
-
-L'examen d'aptitude comporte les épreuves prévues au II ci-dessus pour le recrutement par voie de concours sur épreuves.//
+Pour l'accès à l'emploi d'ouvrier professionnel de 2ème catégorie, le candidat devra satisfaire à une seconde série d'épreuves pratiques portant sur une spécialisation différente de la première.

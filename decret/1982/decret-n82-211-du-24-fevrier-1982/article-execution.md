@@ -1,0 +1,3 @@
+# Article Execution
+
+art. 22.- Le ministre d'Etat, ministre de l'intérieur et de la décentralisation, le ministre d'Etat, ministre des transports, le garde des sceaux, ministre de la justice, le ministre de l'économie et des finances, le ministre délégué auprés du ministre de l'économie et des finances, chargé du budget, le ministre du commerce et de l'artisanat, le ministre de la culture, le ministre de l'urbanisme et du logement et le ministre de l'environnement sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.
