@@ -14,6 +14,8 @@ Le directeur des mines au ministère de l'industrie et de la recherche ou son re
 
 Le chef du service de l'environnement industriel à la direction de la prévention des pollutions et nuisances ou son représentant.
 
+Le directeur des relations du travail au ministère du travail ou son représentant.
+
 2° Membres nommés pour une durée de trois ans         par arrêté du ministre de la qualité de la vie.
 
 Sept personnalités choisies en raison de leur compétence en matière de nuisances ou d'hygiène publique ;
