@@ -1,6 +1,6 @@
 # Article 14
 
-L'étranger qui, n'étant pas déjà admis à résider en France, sollicite son admission au titre de l'asile en application de l'article 10 bis de la loi du 25 juillet 1952 relative au droit d'asile présente à l'appui de sa demande :
+L'étranger qui, n'étant pas déjà admis à résider en France, sollicite son admission au séjour au titre de l'asile en application de l'article 8 de la loi du 25 juillet 1952 relative au droit d'asile présente à l'appui de sa demande :
 
 1° Les indications relatives à son état civil et, le cas échéant, à celui de son conjoint et de ses enfants à charge ;
 
@@ -8,4 +8,6 @@ L'étranger qui, n'étant pas déjà admis à résider en France, sollicite son 
 
 3° Quatre photographies de face, tête nue, de format 3,5 cm  4,5 cm récentes et parfaitement ressemblantes ;
 
-4° L'indication de l'adresse où il est possible de lui faire parvenir toute correspondance.
+4° L'indication de l'adresse où il est possible de lui faire parvenir toute correspondance pendant la durée de validité de l'autorisation provisoire de séjour délivrée sur le fondement de l'article 15. Si le choix d'une adresse se porte sur celle d'une association, celle-ci doit être agréée par arrêté préfectoral. L'agrément est accordé pour une durée de trois ans renouvelable aux associations régulièrement déclarées depuis au moins trois années dont l'objet est en rapport avec l'aide ou l'assistance aux étrangers, et justifiant d'une expérience dans les domaines de l'accueil, de la prise en charge, de la domiciliation ou de l'hébergement des demandeurs d'asile, ainsi que de leur aptitude à assurer effectivement la mission de réception et de transmission des courriers adressés aux demandeurs d'asile.
+
+L'indication des pièces à fournir par l'étranger qui sollicite son admission au séjour au titre de l'asile en application du présent article est portée à sa connaissance par les services de la préfecture.
