@@ -18,8 +18,6 @@ Produits visés au décret n° 95-1172 du 6 novembre 1995 pris pour l'applicatio
 
 Eléments et produits du corps humain génétiquement modifiés après avoir été prélevés ou recueillis.
 
-Réactifs mentionnés à l'article L. 764-14-1 du code de la santé publique et composés en tout ou partie d'organismes génétiquement modifiés.
-
 Matières fertilisantes et supports de culture composés en tout ou partie d'organismes génétiquement modifiés.
 
 Produits destinés à l'alimentation animale constitués en tout ou partie d'organismes génétiquement modifiés, autres que les plantes, les semences, les plants et les animaux d'élevage.
