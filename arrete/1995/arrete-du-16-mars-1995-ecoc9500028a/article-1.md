@@ -1,0 +1,3 @@
+# Article 1
+
+Pour le cas où il n'est pas fait application, en vertu de l'article L. 665-2 du code de la santé publique, de la réglementation en vigueur au 31 décembre 1994, les préservatifs masculins fabriqués, importés, vendus, détenus en vue de la vente ou distribués à titre gratuit doivent avoir satisfait à un contrôle lot par lot. Ce contrôle doit être effectué par un organisme notifié au sens de la directive 93/42 CEE du 14 juin 1993 relative aux dispositifs médicaux, sur la base des dispositions de la norme française NF S 97-031, ou de toute autre norme ou règle technique étrangère offrant un niveau de sécurité équivalent, dont les références sont publiées au Journal officiel de la République française.

@@ -1,0 +1,3 @@
+# Article 5
+
+Les produits et appareils présents sur le marché à la date d'effet de l'arrêté qui a inclus la catégorie dont ils relèvent dans la liste prévue par l'article R. 5274 du code de la santé publique peuvent être commercialisés sans avoir fait l'objet ni de l'homologation prévue par l'article L. 665-1 de ce code ni de la certification de conformité prévue par l'article L. 665-4 du même code jusqu'à l'expiration d'un délai de six mois à compter de la publication du présent décret ou, si une demande d'homologation est présentée dans ce délai, jusqu'à ce qu'il ait été statué sur cette demande. Toutefois, cette possibilité n'est pas ouverte si le produit ou l'appareil a fait l'objet d'un refus d'homologation.
