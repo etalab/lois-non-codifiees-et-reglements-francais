@@ -318,6 +318,7 @@
 - [Décret n°90-199 du 28 février 1990 (DOMP9000004D)](decret-n90-199-du-28-fevrier-1990-domp9000004d)
 - [Décret n°90-278 du 28 mars 1990 (MENF9000468D)](decret-n90-278-du-28-mars-1990-menf9000468d)
 - [Décret n°90-282 du 28 mars 1990 (TEFG9003294D)](decret-n90-282-du-28-mars-1990-tefg9003294d)
+- [Décret n°90-435 du 28 mai 1990 (FPPA9000053D)](decret-n90-435-du-28-mai-1990-fppa9000053d)
 - [Décret n°89-1012 du 29 décembre 1989 (ECOT8910061D)](decret-n89-1012-du-29-decembre-1989-ecot8910061d)
 - [Décret n°89-876 du 29 novembre 1989 (SPSS8901528D)](decret-n89-876-du-29-novembre-1989-spss8901528d)
 - [Décret n°89-989 du 29 décembre 1989 (JUSD8930103D)](decret-n89-989-du-29-decembre-1989-jusd8930103d)
