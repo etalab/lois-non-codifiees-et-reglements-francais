@@ -366,6 +366,7 @@
 - [Décret n°92-1331 du 18 décembre 1992 (COPC9200016D)](decret-n92-1331-du-18-decembre-1992-copc9200016d)
 - [Décret n°92-1332 du 18 décembre 1992 (COPC9200017D)](decret-n92-1332-du-18-decembre-1992-copc9200017d)
 - [Décret n°93-1008 du 18 août 1993 (JUSB9310259D)](decret-n93-1008-du-18-aout-1993-jusb9310259d)
+- [Décret n°93-1009 du 18 août 1993 (AGRR9300859D)](decret-n93-1009-du-18-aout-1993-agrr9300859d)
 - [Décret n°93-1179 du 18 octobre 1993 (SPSA9302151D)](decret-n93-1179-du-18-octobre-1993-spsa9302151d)
 - [Décret n°93-226 du 18 février 1993 (AGRP9202512D)](decret-n93-226-du-18-fevrier-1993-agrp9202512d)
 - [Décret n°93-361 du 18 mars 1993 (MENK9200494D)](decret-n93-361-du-18-mars-1993-menk9200494d)
