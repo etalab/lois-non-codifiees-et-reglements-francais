@@ -1,0 +1,3 @@
+# Article 1
+
+Afin de tenir compte de la situation économique et en vue de favoriser le redressement industriel de la région Nord - Pas-de-Calais, l'Etat peut apporter, dans les conditions définies par le présent décret, une aide exceptionnelle dite "contribution exceptionnelle à la création d'emplois industriels dans le Nord - Pas-de-Calais" aux entreprises qui réalisent une création nette d'emplois dans les communes désignées en annexe I au présent décret, dont la population active est la plus directement touchée par la disparition d'emplois dans la construction navale, les houillères, la sidérurgie et le textile.

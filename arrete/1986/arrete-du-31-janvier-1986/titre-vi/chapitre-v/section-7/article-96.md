@@ -4,11 +4,11 @@ Des moyens de lutte contre l'incendie doivent être prévus et comprendre :
 
 1° Pour tous les parcs :
 
-- des extincteurs portatifs répartis à raison d'un appareil pour quinze véhicules, Ces extincteurs (1) doivent être soit alternativement des types 13 A ou 21 B, soit polyvalents du type 13 A - 21 B ;
+- des extincteurs portatifs répartis à raison d'un appareil pour quinze véhicules, Ces extincteurs ([*) doivent être soit alternativement des types 13 A ou 21 B, soit polyvalents du type 13 A - 21 B ;
 
 - à chaque niveau une caisse de cent litres de sable meuble munie d'un seau à fond rond et placée près de la rampe de circulation ;
 
-2° pour les parcs comportant plus de quatre niveaux au-dessus du niveau de référence ou plus de trois niveaux au-dessous, outre les moyens prévus au 3° ci-dessous : des colonnes sèches de 65 millimètres disposées dans les cages d'escalier ou dans les sas et comportant à chaque niveau une prise de 65 millimètres et deux prises de 40 millimètres. Ces colonnes sèches doivent être installées conformément aux dispositions de la norme en vigueur (2) et leurs prises placées à l'intérieur des sas lorsqu'il en existe.
+2° pour les parcs comportant plus de quatre niveaux au-dessus du niveau de référence ou plus de trois niveaux au-dessous, outre les moyens prévus au 3° ci-dessous : des colonnes sèches de 65 millimètres disposées dans les cages d'escalier ou dans les sas et comportant à chaque niveau une prise de 65 millimètres ou deux prises de 40 millimètres. Ces colonnes sèches doivent être installées conformément aux dispositions de la norme en vigueur (*][*) et leurs prises placées à l'intérieur des sas lorsqu'il en existe.
 
 Le raccord d'alimentation de la colonne sèche doit être situé à 100 mètres au plus d'une prise d'eau normalisée accessible par un cheminement praticable, située le long d'une voie accessible aux engins des sapeurs-pompiers et répondant aux spécifications de l'article 4 ci-avant.
 
@@ -22,6 +22,6 @@ l'installation, sur toutes les zones du parc affectées au stationnement, d'un r
 
 Ces dispositions s'ajoutent à celles prévues aux 1 et 2 ci-dessus.
 
-NOTA : (1) Conformes aux normes françaises les concernant.
+NOTA : (*]) Conformes aux normes françaises les concernant.
 
-(2) Norme NF S 61 750.
+([**]) Norme NF S 61 750.

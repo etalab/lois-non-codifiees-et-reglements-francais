@@ -10,7 +10,7 @@ b) Une circulation horizontale à l'abri des fuméees qui relie chaque logement 
 
 Elle doit être désenfumée par extraction mécanique et être conforme aux dispositions des articles 31 à 38 ci-avant. Toutefois, cette circulation ne doit pas comporter de conduits d'amenée d'air, cette dernière devant s'effectuer par l'intermédiaire d'une ouverture d'au moins 20 décimètres carrés de section dont le bord supérieur est situé au plus à un mètre du sol fini et qui est réalisée dans la paroi séparant la circulation horizontale du sas ventilé visé en c) ci-après ; cette section peut être augmentée pour respecter les dispositions de l'article 35, 4e alinéa, dans le cas où il y a plusieurs bouches d'évacuation.
 
-Cette ouverture doit être équipée d'un volet pare-flammes de degré une heure, ouvert en position normale et dont la fermeture est assurée par un déclencheur thermique fonctionnant à 70 °C. Ce déclencheur doit être situé à la partie supérieure du volet, côté circulation. De plus, le débit d'extraction dans la circulation doit être égal au moins à 1,3 fois le débit de soufflage venant du sas de l'escalier et dans l'escalier lorsque les deux portes du sas sont ouvertes.
+Cette ouverture doit être équipée d'un volet pare-flammes de degré une heure, ouvert en position normale et dont la fermeture est assurée par un déclencheur thermique fonctionnant à 70 °C. Ce déclencheur doit être situé à la partie supérieure du volet, côté circulation. De plus, le débit d'extraction dans la circulation doit être égal au moins à 1,3 fois le débit d'air soufflé dans la circulation et dans l'escalier lorsque les deux portes du sas sont ouvertes.
 
 c) Un sas ventilé d'une surface d'environ 3 mètres carrés séparant à chaque niveau la circulation horizontale protégée de l'escalier à l'abri des fumées. Les blocs-portes de ce sas doivent être pare-flammes de degré une demi-heure, leurs portes doivent être munies d'un ferme-porte et s'ouvrir toutes les deux dans le sens de la sortie en venant des logements.
 
@@ -18,7 +18,7 @@ Le sas doit comporter une amenée d'air frais réalisée dans les conditions dé
 
 La pression à l'intérieur du sas doit être intermédiaire entre celle existant dans l'escalier et celle existant dans la circulation horizontale.
 
-L'amenée d'air frais dans le sas doit être réalisée par soufflage mécanique et le réseau doit être constitué par un conduit collectif et, éventuellement, des raccordements horizontaux à chaque étage.
+L'amenée d'air frais dans le sas doit être réalisée par soufflage mécanique et le réseau doit être constitué par un conduit unitaire et, éventuellement, des raccordements horizontaux à chaque étage.
 
 Le conduit doit être réalisé en matériaux incombustibles, coupe-feu de degré une heure et satisfaire aux conditions d'étanchéité requises pour l'usage auquel il est destiné.
 

@@ -1,4 +1,5 @@
-# Arrêté du 4 février 1986 du 4 février 1986 relatif au taux de la taxe parafiscale instituée au profit du comité de développement des industries françaises de l'ameublement.
+# Arrêté du 4 février 1986 relatif au droit d'inscription à l'examen du permis de chasser.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
+- [Article 3](article-3.md)

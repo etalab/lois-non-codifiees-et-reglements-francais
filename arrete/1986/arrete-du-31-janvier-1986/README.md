@@ -1,10 +1,7 @@
-# Arrêté du 31 janvier 1986 autorisant la Banque française du commerce extérieur à contracter un emprunt
+# Arrêté du 31 janvier 1986 relatif à la protection contre l'incendie des bâtiments d'habitation
 
-- [Article 1](article-1.md)
 - [TITRE Ier : GENERALITES ET CLASSEMENT DES BATIMENTS D'HABITATION](titre-ier)
-- [Article 2](article-2.md)
 - [TITRE II : STRUCTURES ET ENVELOPPE DES BATIMENTS D'HABITATION](titre-ii)
-- [Article 3](article-3.md)
 - [TITRE III : DEGAGEMENTS.](titre-iii)
 - [TITRE IV : CONDUITS ET GAINES](titre-iv)
 - [TITRE V : DISPOSITIONS PARTICULIERES APPLICABLES AUX LOGEMENTS-FOYERS](titre-v)
@@ -13,5 +10,4 @@
 - [TITRE VIII : OBLIGATIONS DES PROPRIETAIRES.](titre-viii)
 - [TITRE IX : AGREMENT DES DISPOSITIFS OU DISPOSITIONS CONSTRUCTIVES NON PREVUS PAR LA REGLEMENTATION.](titre-ix)
 - [TITRE X : APPLICATION DANS LE TEMPS.](titre-x)
-- [TITRE XI](titre-xi)
 - [Annexes](annexes)
