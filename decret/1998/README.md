@@ -77,6 +77,8 @@
 - [Décret n°98-142 du 6 mars 1998 (AGRS9800167D)](decret-n98-142-du-6-mars-1998-agrs9800167d)
 - [Décret n°98-262 du 6 avril 1998 (PRMX9700126D)](decret-n98-262-du-6-avril-1998-prmx9700126d)
 - [Décret n°98-267 du 6 avril 1998 (MAEJ9830029D)](decret-n98-267-du-6-avril-1998-maej9830029d)
+- [Décret n°98-269 du 6 avril 1998 (ECOF9700039D)](decret-n98-269-du-6-avril-1998-ecof9700039d)
+- [Décret n°98-270 du 6 avril 1998 (EQUT9800440D)](decret-n98-270-du-6-avril-1998-equt9800440d)
 - [Décret n°98-341 du 6 mai 1998 (EQUP9800002D)](decret-n98-341-du-6-mai-1998-equp9800002d)
 - [Décret n°2001-1162 du 7 décembre 2001 (EQUP0101497D)](decret-n2001-1162-du-7-decembre-2001-equp0101497d)
 - [Décret n°98-12 du 7 janvier 1998 (MENF9703100D)](decret-n98-12-du-7-janvier-1998-menf9703100d)
