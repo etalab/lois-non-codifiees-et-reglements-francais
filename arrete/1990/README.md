@@ -430,7 +430,6 @@
 - [Arrêté du 15 janvier 1990 (SPSA9000194A)](arrete-du-15-janvier-1990-spsa9000194a)
 - [Arrêté du 15 janvier 1990 (SPSH9000174A)](arrete-du-15-janvier-1990-spsh9000174a)
 - [Arrêté du 15 juin 1990 (DEFD9001714A)](arrete-du-15-juin-1990-defd9001714a)
-- [Arrêté du 15 juin 1990 (MERR9000107A)](arrete-du-15-juin-1990-merr9000107a)
 - [Arrêté du 15 mars 1990 (MCCB9000182A)](arrete-du-15-mars-1990-mccb9000182a)
 - [Arrêté du 15 mars 1990 (MCCX9010126A)](arrete-du-15-mars-1990-mccx9010126a)
 - [Arrêté du 15 mars 1990 (MCCY9010127A)](arrete-du-15-mars-1990-mccy9010127a)
