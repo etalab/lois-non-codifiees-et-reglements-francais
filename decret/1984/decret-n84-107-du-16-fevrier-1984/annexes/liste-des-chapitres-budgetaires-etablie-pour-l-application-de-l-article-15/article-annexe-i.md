@@ -46,7 +46,7 @@ Article 40 : Architecture - Sites et espaces protégés.
 
 Article 70 : Patrimoine ethnologique.
 
-Chapitre n° 66-30 : Patrimoine muséographique et arts plastiques :
+Article 90 : Monuments historiques n'appartenant pas à l'Etat. Chapitre n° 66-30 : Patrimoine muséographique et arts plastiques :
 
 Article 21 : Musées classés et contrôlés.
 
@@ -72,108 +72,86 @@ Article 31 : Musée.
 
 Article 70 : Développement culturel.
 
+AFFAIRES SOCIALES ET SOLIDARITE NATIONALE. Chapitre n° 66-11 : Subventions d'équipement sanitaire :
+
+Article 10 : Modernisation et humanisation des centres      hospitaliers régionaux et établissements d'intérêt général.
+
+Article 20 : Modernisation et humanisation des établissements de      de soins et de cure.
+
+Article 30 : Etablissements et services de protection et de      prévention sanitaire : investissements réalisés dans le cadre      de la procédure des grands chantiers d'aménagement du      territoire.
+
+Article 40 : Etablissements de formation de personnels sanitaires.  Chapitre 66-20 : Subventions d'équipement social :
+
+Article 30 : Etablissements sociaux d'aide à l'enfance, à       l'adolescence et à la famille : investissements réalisés dans       le cadre de la procédure des grands chantiers d'aménagement       du territoire.
+
+Article 40: Etablissements sociaux pour personnes âgées :
+
+Médicalisation des maisons de retraite des hôpitaux publics ;
+
+Médicalisation des maisons de retraite des hôpitaux publics          autonomes ;
+
+Médicalisation des maisons de retraite des bureaux d'aide          sociale ;
+
+Création d'établissements médicalisés ;
+
+Centres de soins infirmiers à domicile.
+
+Article 70 : Aménagement social concerté (ne sont éligibles que      les investissements réalisés dans le cadre des contrats de plan      Etat-région et des contrats Famille).
+
+Article 80 : Mode de garde de la petite enfance : investissements      réalisés dans le cadre de la procédure des grands chantiers      d'aménagement du territoire.
+
+Article 90 : Transformation des hospices.
+
+COMMERCE ET ARTISANAT Chapitre 64-00 : Aides et primes à l'artisanat :
+
+Article 50 : Aide à l'artisanat notamment dans les zones      sensibles. Chapitre 64-01 : Aide au commerce :
+
+Article 20 : Aide au commerce dans les zones sensibles.
+
 ENVIRONNEMENT.
 
-Chapitre n° 67-10 : Interventions dans le domaine de l'eau :
+Chapitre n° 67-10 : Interventions dans le domaine de l'eau et de    lutte contre le bruit :
 
-Article 10 : Prévention et lutte contre les pollutions et le      bruit.
-
-Article 20 : Ecrêtement des redevances industrielles et      financement des contrats de branches et autres interventions.
-
-Article 70 : Grands barrages.
+Article 10 : Prévention et lutte contre les pollutions et le      bruit.  Article 20 : Amélioration de la qualité des eaux et écrêtement des redevances.    Article 70 : Grands barrages.
 
 Article 80 : Autres travaux de protection contre les eaux.
 
-Chapitre n° 67-11 : Protection de la nature :
+Article 90 : Bruits et vibrations. Chapitre n° 67-11 : Protection de la nature :
 
-Article 10 : Réserves naturelles.
-
-Article 40 : Parcs naturels régionaux.
-
-Article 50 : Faune et flore.
-
-Article 70 : Equipement piscicole.
+Article 10 : Réserves naturelles.    Article 40 : Parcs naturels régionaux.    Article 70 : Equipement piscicole.
 
 INTERIEUR ET DECENTRALISATION.
 
 Chapitre n° 63-52 : Fonds spécial d'investissement routier - Voirie locale - Réseau national déclassé :
 
-Article 50 : Reconstruction des ponts détruits par fait de guerre      - Voirie locale.
+Article 50 : Reconstruction des ponts détruits par fait de guerre      - Voirie locale. Chapitre n° 67-50 : Subventions d'équipement aux collectivités pour    les constructions publiques :
 
-Chapitre n° 67-50 : Subvention d'équipement aux collectivités pour les constructions publiques :
+Article 30 : Recherche scientifique et technique. Chapitre n° 67-57 :
 
-Article 40 : Développement des techniques nouvelles de gestion.
+Article 10 : Dotation départementale d'équipement des collèges.
 
-AFFAIRES SOCIALES ET SOLIDARITE NATIONALE.
+JEUNESSE ET SPORTS.
 
-Chapitre n° 66-11 : Subventions d'équipement sanitaire :
+Chapitre n° 66-50 : Subventions d'équipement aux collectivités :
 
-Article 10 : Modernisation et humanisation des centres      hospitaliers régionaux et établissements d'intérêt général.
+Article 10 : Equipements sportifs et socio-éducatifs d'intérêt      national.    Article 30 : Equipements sportifs et socio-éducatifs      expérimentaux.    Article 40 : Equipements sportifs et socio-éducatifs des bases de      plein air et de loisir (contrat de plan).
 
-Article 20 : Modernisation et humanisation des établissements de      soins et de cure.
+TRANSPORTS. Chapitre n° 63-20 : Subventions et participations financières pour études, travaux et investissements :
 
-Article 30 : Etablissements et services de protection et de      prévention sanitaire : investissements réalisés dans le cadre de      la procédure des grands chantiers d'aménagement du territoire.
-
-Article 40 : Etablissements de formation de personnels      sanitaires.
-
-Chapitre n° 66-20 : Subventions d'équipement social :
-
-Article 30 : Etablissements sociaux d'aide à l'enfance, à      l'adolescence et à la famille : investissements réalisés dans      le cadre de la procédure des grands chantiers d'aménagement du      territoire.
-
-Article 40 : Etablissements sociaux pour personnes âgées :
-
-- Médicalisation des maisons de retraite des hôpitaux publics ;
-
-- Médicalisation des maisons de retraite des hôpitaux publics          autonomes ;
-
-- Médicalisation des maisons de retraite des bureaux d'aide          sociale ;
-
-- Création d'établissements médicalisés ;
-
-- Centres de soins infirmiers à domicile ;
-
-- Investissements réalisés dans le cadre de la procédure des          grands chantiers d'aménagement du territoire.
-
-Article 80 : Aménagement social concerté (ne sont éligibles que      les investissements réalisés dans le cadre des contrats de plan      Etat-région et des contrats "famille".
-
-Article 70 : Mode de garde de la petite enfance : investissements      réalisés dans le cadre de la procédure des grands chantiers      d'aménagement du territoire.
-
-Article 90 : Transformation des hospices.
-
-TEMPS LIBRE - JEUNESSE ET SPORTS.
-
-Chapitre n° 66-50 : Jeunesse et sports - Subventions aux collectivités.
-
-Article 10 : Equipements sportifs et socio-éducatif d'intérêt      national.
-
-Article 20 : Equipements sportifs et socio-éducatif régionaux et      locaux (opérations expérimentales).
-
-TRANSPORTS.
-
-Chapitre n° 63-20 : Subventions et participations financières pour études, travaux et investissements :
-
-Article 32 : Bases aériennes.
-
-Chapitre n° 63-41 : Transports terrestres - Subventions d'investissement :
+Article 32 : Bases aériennes. Chapitre n° 63-41 : Transports terrestres - Subventions d'investissement :
 
 Article 14 : Aménagement d'infrastructures de voirie pour les      transports collectifs en région d'Ile-de-France.
 
-Article 21 : Aménagement d'infrastructures de voirie pour les      transports collectifs urbains en province - axes lourds -      tramways.
+Article 21 : Aménagement d'infrastructures de voirie pour les      transports collectifs urbains en province : tramways, métros.
 
 Article 23 : Contrats de développement et d'infrastructures      diverses.
 
-Article 24 : Métros de province.
+Article 30 : Etudes, recherche, développement et expérimentations      de transports collectifs.
 
-Article 30 : Etudes, recherche, développement et expérimentations      de transports collectifs urbains.
+Article 40 : Transports collectifs régionaux, départementaux et      locaux.
 
-Article 40 : Transports de voyageurs à courte distance.
+Article 60 : Aide au développement de la productivité des      transports de marchandises. Chapitre n° 63-42 : Routes - Participations :
 
-Article 60 : Aide au développement de la productivité des      transports de marchandises.
-
-Chapitre n° 63-42 : Routes - Participations :
-
-Article 30 : Voirie en milieu urbain (réalisation de voirie      urbaine destinée à être intégrée à la voirie nationale).
-
-Chapitre n° 63-45 : Voies navigables et ports fluviaux en métropole - Subventions d'équipement :
+Article 30 : Opérations de voirie des collectivités territoriales      intéressant la gestion du réseau routier national. Chapitre n° 63-45 : Voies navigables et ports fluviaux en métropole - Subventions d'équipement :
 
 Article 10 : Ports fluviaux - Ports et infrastructures fluviales      de plaisance.
