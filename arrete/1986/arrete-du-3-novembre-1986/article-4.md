@@ -19,3 +19,5 @@ d) La détection de l'antigène HBs ;
 e) La détection des anticorps anti-HIV (anti-LAV.) ;
 
 f) La détection des anticorps antipaludéens chez les donneurs ayant séjourné en pays d'endémie (référence carte OMS) et dont la date du retour se situe dans une période supérieure à quatre mois et inférieure à trois ans.
+
+g) Le dosage des alanine-amino-transférases (Alat).

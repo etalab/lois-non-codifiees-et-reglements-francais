@@ -77,6 +77,8 @@
 - [Décret n°88-243 du 14 mars 1988 (INTB8800073D)](decret-n88-243-du-14-mars-1988-intb8800073d)
 - [Décret n°88-244 du 14 mars 1988 (INTB8800067D)](decret-n88-244-du-14-mars-1988-intb8800067d)
 - [Décret n°88-246 du 14 mars 1988 (ECOT8823015D)](decret-n88-246-du-14-mars-1988-ecot8823015d)
+- [Décret n°88-353 du 14 avril 1988 (MCCK8800220D)](decret-n88-353-du-14-avril-1988-mcck8800220d)
+- [Décret n°88-354 du 14 avril 1988 (MCCK8800221D)](decret-n88-354-du-14-avril-1988-mcck8800221d)
 - [Décret n°88-41 du 14 janvier 1988 (MENL8700673D)](decret-n88-41-du-14-janvier-1988-menl8700673d)
 - [Décret n°86-1034 du 15 septembre 1986](decret-n86-1034-du-15-septembre-1986)
 - [Décret n°88-145 du 15 février 1988 (INTB8800027D)](decret-n88-145-du-15-fevrier-1988-intb8800027d)
