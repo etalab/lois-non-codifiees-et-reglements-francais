@@ -40,4 +40,4 @@ Des membres siégeant en fonction de l'objet du code examiné :
 
 Un rapporteur général.
 
-Un rapporteur général adjoint.
+Deux rapporteurs généraux adjoints.
