@@ -14,6 +14,8 @@ Le nombre et la qualification des personnels d'encadrement nécessaires à l'exe
 
 Les modalités selon lesquelles sont assurés, en fonction des catégories de personnes accueillies, les soutiens médicaux, éducatifs, sociaux et psychologiques ainsi que le nombre et la qualification des personnels qui y contribuent ;
 
+Le tableau des indicateurs d'activité et de financement devant être annexé au budget du centre ;
+
 Les bases de rémunération des travailleurs handicapés à la charge de l'établissement.
 
 Elle prévoit, le cas échéant, la création d'une section d'atelier protégé ou d'un centre de distribution de travail à domicile ainsi que l'organisation d'un service technico-commercial commun à plusieurs centres d'aide par le travail.
