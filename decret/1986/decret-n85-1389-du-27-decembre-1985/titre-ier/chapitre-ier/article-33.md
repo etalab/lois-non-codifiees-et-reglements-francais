@@ -1,5 +1,3 @@
 # Article 33
 
-Les listes des mandataires liquidateurs sont établies par les commissions régionales instituées par l'article 20 de la loi n° 85-99 du 25 janvier 1985.
-
-Nul ne peut être inscrit sur plusieurs listes de mandataires liquidateurs [*cumul - interdiction*].
+La liste des mandataires judiciaires au redressement et à la liquidation des entreprises est établie par la commission nationale instituée par l'article L. 812-2 du code de commerce.

@@ -1,3 +1,3 @@
 # Article 71
 
-La caisse de garantie instituée à l'article 34 de la loi n° 85-99 du 25 janvier 1985 a son siège à Paris.
+La caisse de garantie instituée à l'article L. 814-3 du code de commerce à son siège à Paris.
