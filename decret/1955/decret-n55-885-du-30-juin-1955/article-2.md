@@ -1,0 +1,3 @@
+# Article 2
+
+Provisoirement et jusqu'à l'entrée en vigueur des décrets prévus pour l'application de la loi n° 52-1265 du 29 novembre 1952, sont rendus applicables dans les départements de la Guadeloupe, de la Guyane française, de la Martinique et de la Réunion, en ce qui concerne la réserve domaniale définie à l'article 3, la loi du 7 avril 1851 relative à la délimitation de la zone frontière et à la compétence de la commission mixte des travaux publics, modifiée par la loi du 10 février 1890, le décret-loi du 16 août 1853 relatif au même objet, ensemble les textes qui ont modifié ou complété ce décret-loi.
