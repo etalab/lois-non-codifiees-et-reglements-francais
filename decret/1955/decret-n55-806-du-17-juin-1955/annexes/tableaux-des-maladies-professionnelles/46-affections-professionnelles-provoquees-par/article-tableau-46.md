@@ -2,7 +2,7 @@
 
 DÉSIGNATION DES MALADIES
 
-Déficit audiométrique bilatéral par lésion cochléaire irréversible. Ce déficit est évalué par une audiométrie effectuée de trois semaines à un an après cessation de l'exposition aux bruits lésionnels, en cabine insonorisée avec un audiomètre calibré.
+Déficit audiométrique bilatéral par lésion cochléaire irréversible. Ce déficit est évalué par une audiométrie effectuée de dix jours à un an après cessation de l'exposition aux bruits lésionnels, en cabine insonorisée avec un audiomètre calibré.
 
 DÉLAI de prise en charge
 

@@ -4,19 +4,17 @@ DESIGNATION DES MALADIES
 
 A. Rhinite, asthme ou dyspnée asthmatiforme, confirmés par tests ou par épreuves fonctionnelles, récidivant après nouvelle exposition
 
-DELAI de prise en charge : 7 jours
-
-LISTE INDICATIVE DES PRINCIPAUX TRAVAUX susceptibles de provoquer ces maladies
+DELAI de prise en charge : 7 jours    LISTE INDICATIVE DES PRINCIPAUX TRAVAUX susceptibles de provoquer ces maladies
 
 Manipulation ou emploi habituels, dans l'exercice de la profession, de tous produits.
 
-LISTE INDICATIVE DES PRINCIPAUX TRAVAUX susceptibles de provoquer ces maladies :
+DESIGNATION DES MALADIES
 
-B. Brocjo-alvéolite aiguë ou subaiguë avec syndrome respiratoire (dyspnée, toux, expectoration) et/ou signes généraux confirmés par l'exploration fonctionnelle respiratoire et la présence d'anticorps précipitants dans le sérum contre l'agent pathogène responsable.
+B. Brocjo-alvéolite aiguë ou subaiguë avec syndrome respiratoire (dyspnée, toux, expectoration) et/ou signes généraux confirmés par l'exploration fonctionnelle respiratoire et la présence de signes immunologiques significatifs (présence d'anticorps précipitants dans le sérum contre l'agent pathogène responsable ou, en l'absence de ces anticorps, signes d'alvéolite lymphocytaire au lavage broncho-alvéolaire).
 
 DELAI de prise en charge : 30 jours.
 
-LISTE INDICATIVE DES PRINCIPAUX TRAVAUX susceptibles de provoquer ces maladies :
+DESIGNATION DES MALADIES
 
 C. Pneumopathies chroniques :
 
@@ -24,11 +22,13 @@ Fibrose pulmonaire avec signes radiographiques et troubles respiratoires confirm
 
 DELAI de prise en charge : 3 ans.
 
-LISTE INDICATIVE DES PRINCIPAUX TRAVAUX susceptibles de provoquer ces maladies :
+DESIGNATION DES MALADIES
 
-D. Complications cardiaques :
+D. - Complications :
 
-Hyposystolie ou asystolie par insuffisance ventriculaire droite.
+- insuffisance respiratoire chronique obstructive ;
+
+- hyposystolie ou asystolie par insuffisance ventriculaire droite.
 
 DELAI de prise en charge : 10 ans.
 

@@ -26,6 +26,7 @@
 - [49. Affections dues aux rickettsies](49-affections-dues-aux)
 - [15° Mycoses cutanées, périonyxis et onyxis d'origine professionnelle](15-mycoses-cutanees-perionyxis-et)
 - [34° Ulcérations et dermites provoquées par l'acide chromique, les chromates et bichromates alcalins, le chromate de zinc et le sulfate de chrome.](34-ulcerations-et)
+- [44° Affections cutanées et muqueuses professionnelles de mécanisme allergique](44-affections-cutanees-et)
 - [10° Affections provoquées par l'arsenic et ses composés minéraux.](10-affections-provoquees-par)
 - [11° Affections provoquées par les phosphates, pyrophosphates et thiophosphates d'alcoyle, d'aryle ou d'alcoylaryle et autres organo-phosphores anticholinestérasiques, ainsi que par les phosphoramides anticholinestérasiques et les carbamates anticholinestérasiques](11-affections-provoquees-par)
 - [12° Maladies causées par le mercure et ses composés.](12-maladies-causees-par)
