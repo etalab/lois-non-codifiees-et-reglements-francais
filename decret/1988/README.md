@@ -9,6 +9,8 @@
 - [Décret n°74-930 du 6 novembre 1974](decret-n74-930-du-6-novembre-1974)
 - [Décret n°88-666 du 6 mai 1988 (ASES8800643D)](decret-n88-666-du-6-mai-1988-ases8800643d)
 - [Décret n°88-800 du 8 juillet 1988 (ECOX8800102D)](decret-n88-800-du-8-juillet-1988-ecox8800102d)
+- [Décret n°88-801 du 8 juillet 1988 (SEPX8800103D)](decret-n88-801-du-8-juillet-1988-sepx8800103d)
+- [Décret n°88-802 du 8 juillet 1988 (DOMX8810577D)](decret-n88-802-du-8-juillet-1988-domx8810577d)
 - [Décret n°88-697 du 9 mai 1988 (MCCK8800295D)](decret-n88-697-du-9-mai-1988-mcck8800295d)
 - [Décret n°88-770 du 17 juin 1988 (AGRS8800909D)](decret-n88-770-du-17-juin-1988-agrs8800909d)
 - [Décret n°88-768 du 21 juin 1988 (TRST8800299D)](decret-n88-768-du-21-juin-1988-trst8800299d)
