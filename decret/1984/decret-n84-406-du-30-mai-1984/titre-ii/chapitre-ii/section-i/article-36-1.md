@@ -1,6 +1,6 @@
 # Article 36-1
 
-Sont mentionnées d'office au registre [*mentions obligatoires*] les déclarations de cessation des paiements, d'inexécution des engagements financiers d'un règlement amiable ainsi que les décisions intervenues dans les procédures de redressement et de liquidation judiciaires des entreprises en application de la loi n° 85-98 du 25 janvier 1985 :
+Sont mentionnées d'office au registre les déclarations de cessation des paiements, d'inexécution des engagements financiers d'un règlement amiable ainsi que les décisions intervenues dans les procédures de redressement et de liquidation judiciaires des entreprises en application de la loi n° 85-98 du 25 janvier 1985 :
 
 1° Ouvrant la procédure de redressement judiciaire avec l'indication des pouvoirs conférés à l'administrateur ;
 
@@ -32,4 +32,4 @@ Sont mentionnées d'office au registre [*mentions obligatoires*] les déclaratio
 
 15° Décidant que les dettes de la personne morale seront supportées en tout ou en partie par ses dirigeants ou certains d'entre eux ;
 
-16° Prononçant la faillite personnelle ou l'interdiction prévue à l'article 192 de la loi du 25 janvier 1985 précitée.
+16° Prononçant la faillite personnelle ou l'interdiction prévue à l'article 192 de la loi du 25 janvier 1985 précitée avec l'indication de la durée pour laquelle ces mesures ont été prononcées.

@@ -1,4 +1,4 @@
-# Section 2 : Continuation de l'entreprise.
+# Section 2 : Cession de l'entreprise.
 
 - [Article 97](article-97.md)
 - [Article 98](article-98.md)

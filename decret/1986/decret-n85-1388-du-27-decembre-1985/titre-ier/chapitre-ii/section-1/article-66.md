@@ -1,6 +1,6 @@
 # Article 66
 
-Le représentant des créanciers, dans le délai de huit jours à compter du jugement d'ouverture, avertit les créanciers connus d'avoir à lui déclarer leurs créances dans un délai de quinze jours à compter de la publication du jugement d'ouverture au B.O.D.A.C.C.. Ce dernier délai est augmenté de quinze jours pour les créanciers domiciliés hors de la France métropolitaine.
+Le représentant des créanciers, dans le délai de huit jours à compter du jugement d'ouverture, avertit les créanciers connus d'avoir à lui déclarer leurs créances dans un délai de deux mois à compter de la publication du jugement d'ouverture au B.O.D.A.C.C.. Ce dernier délai est augmenté de deux mois pour les créanciers domiciliés hors de la France métropolitaine.
 
 L'avertissement du représentant des créanciers reproduit les dispositions légales et réglementaires relatives aux délais et formalités à observer pour la déclaration des créances et la demande en relevé de forclusion.
 
