@@ -592,6 +592,7 @@
 - [Décret n°94-71 du 19 janvier 1994 (EQUH9301796D)](decret-n94-71-du-19-janvier-1994-equh9301796d)
 - [Décret n°95-108 du 19 janvier 1995 (EQUH9401784D)](decret-n95-108-du-19-janvier-1995-equh9401784d)
 - [Décret n°99-622 du 19 juillet 1999 (MESG9920756D)](decret-n99-622-du-19-juillet-1999-mesg9920756d)
+- [Décret n°91-1187 du 20 novembre 1991 (MERG9100048D)](decret-n91-1187-du-20-novembre-1991-merg9100048d)
 - [Décret n°93-100 du 20 janvier 1993 (INDA9201031D)](decret-n93-100-du-20-janvier-1993-inda9201031d)
 - [Décret n°93-1102 du 20 septembre 1993 (DEFP9301698D)](decret-n93-1102-du-20-septembre-1993-defp9301698d)
 - [Décret n°93-1112 du 20 septembre 1993 (JUSC9320449D)](decret-n93-1112-du-20-septembre-1993-jusc9320449d)
