@@ -2,13 +2,17 @@
 
 Tant que les prestations dispensées avec hébergement ne sont pas incluses dans la classification mentionnée au 2° de l'article L. 162-22-1 ou au 2° du III de l'article L. 162-22-5 du code de la sécurité sociale, les dispositions suivantes sont applicables à titre transitoire :
 
-I. - Les tarifs des prestations mentionnées au premier alinéa du II de l'article 7 de la loi du 31 juillet 1991 susvisée comprennent :
+I. - Les tarifs des prestations dispensées avec hébergement dans les établissements mentionnés à l'article L. 162-22 du code de la sécurité sociale comprennent :
 
-1° Un forfait journalier pour les frais de séjour, les frais de soins infirmiers, ainsi que pour les frais pharmaceutiques qui ne sont pas pris en compte au titre du forfait prévu au 3° ci-dessous ;
+1° Un forfait journalier pour les frais de séjour, les frais de soins infirmiers, ainsi que pour les frais pharmaceutiques qui ne sont pas pris en compte au titre du forfait prévu au 2° ci-dessous ;    2° Un forfait journalier calculé pour chaque établissement suivant sa nature, pour les dépenses de produits pharmaceutiques inscrits sur la liste des spécialités pharmaceutiques agréées à l'usage des collectivités et divers services publics prévue par les articles L. 618 et suivants du code de la santé publique ;
 
-2° Un complément afférent aux frais de salle d'opération ou d'accouchement des services de chirurgie et de maternité, indépendant de la durée d'hospitalisation, et dont le montant sera fixé selon les modalités qui seront définies par un arrêté conjoint du ministre chargé de la santé, du ministre chargé de la sécurité sociale et du ministre chargé du budget ;
+3° Un complément afférent aux frais de salle d'accouchement ;
 
-3° Un forfait journalier calculé pour chaque établissement suivant sa nature, pour les dépenses de produits pharmaceutiques inscrits sur la liste des spécialités pharmaceutiques agréées à l'usage des collectivités et divers services publics prévue par les articles L. 618 et suivants du code de la santé publique.
+4° Un complément afférent aux frais de salle d'opération pour les actes professionnels qui relèvent de la salle d'opération et dont la liste est établie par arrêté conjoint des ministres chargés de la sécurité sociale, de la santé, de l'économie et du budget ;
+
+5° Un complément afférent aux frais de sécurité et d'environnement pour les actes professionnels qui relèvent du secteur opératoire hors salle d'opération et dont la liste est établie par l'arrêté mentionné au 4° ;
+
+Les modalités de détermination des compléments définis aux 4° et 5° sont fixés par l'arrêté mentionné au 4°. Cet arrêté comporte en outre une liste d'actes ne relevant ni de la salle d'opération ni du secteur opératoire hors salle d'opération qui donnent lieu, à titre exceptionnel, au versement d'une fraction du complément afférent aux frais de salle d'opération.
 
 II. - A chaque échéance périodique prévue par l'annexe à la convention nationale mentionnée à l'article L. 162-22-3 du code de la sécurité sociale ou, à défaut, par l'arrêté interministériel prévu au II de l'article L. 162-22-5 du même code, les tarifs définis au I du présent article sont affectés de coefficients d'ajustement déterminés de manière que soit respecté, dans chaque région, le montant des frais d'hospitalisation prévu par l'annexe à la convention ou, à défaut, par l'arrêté.
 
