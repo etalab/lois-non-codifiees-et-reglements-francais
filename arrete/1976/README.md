@@ -16,7 +16,6 @@
 - [Arrêté du 6 mars 1976](arrete-du-6-mars-1976)
 - [Arrêté du 8 octobre 1976](arrete-du-8-octobre-1976)
 - [Arrêté du 9 janvier 1976](arrete-du-9-janvier-1976)
-- [Arrêté du 10 août 1976](arrete-du-10-aout-1976)
 - [Arrêté du 10 décembre 1975](arrete-du-10-decembre-1975)
 - [Arrêté du 10 janvier 1976](arrete-du-10-janvier-1976)
 - [Arrêté du 10 mai 1976](arrete-du-10-mai-1976)
