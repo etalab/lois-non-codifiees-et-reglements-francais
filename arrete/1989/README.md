@@ -376,7 +376,6 @@
 - [Arrêté du 19 juin 1989 (INDG8900516A)](arrete-du-19-juin-1989-indg8900516a)
 - [Arrêté du 19 juin 1989 (INDG8900517A)](arrete-du-19-juin-1989-indg8900517a)
 - [Arrêté du 19 juin 1989 (SPSH8901285A)](arrete-du-19-juin-1989-spsh8901285a)
-- [Arrêté du 19 juin 1989 (SPSH8901286A)](arrete-du-19-juin-1989-spsh8901286a)
 - [Arrêté du 19 mai 1989 (PTTC8900466A)](arrete-du-19-mai-1989-pttc8900466a)
 - [Arrêté du 20 avril 1989 (BUDB890013A)](arrete-du-20-avril-1989-budb890013a)
 - [Arrêté du 20 avril 1989 (DEFP8901381A)](arrete-du-20-avril-1989-defp8901381a)
