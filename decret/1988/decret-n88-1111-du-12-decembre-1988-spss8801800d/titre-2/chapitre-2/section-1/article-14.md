@@ -15,3 +15,5 @@ Le montant du revenu cadastral défini au troisième alinéa est majoré de 50 p
 3° Un associé d'exploitation défini par la loi n° 73-650 du 13 juillet 1973 âgé de moins de vingt-cinq ans et non chargé de famille ;
 
 4° Une personne de dix-sept à vingt-cinq ans remplissant les conditions [*d'âge*] fixées à l'article 2.
+
+Toutefois, lorsque le foyer se compose de plus de deux personnes mentionnées aux 2°, 3° et 4° de l'alinéa précédent, le revenu cadastral défini au troisième alinéa est majoré de 40 p. 100 à partir de la troisième personne.

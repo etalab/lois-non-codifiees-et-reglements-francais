@@ -13,3 +13,5 @@ La superficie définie au premier alinéa est majorée de 50 p. 100 lorsque le f
 3° Un associé d'exploitation défini par la loi n° 73-650 du 13 juillet 1973 âgé de moins de vingt-cinq ans et non chargé de famille ;
 
 4° Une personne de dix-sept à vingt-cinq ans remplissant les conditions fixées à l'article 2 du décret n° 88-1111 du 12 décembre 1988.
+
+Toutefois, lorsque le foyer se compose de plus de deux personnes mentionnées aux 2°, 3° et 4° de l'alinéa précédent, la superficie définie au premier alinéa est majorée de 40 p. 100 à partir de la troisième personne.
