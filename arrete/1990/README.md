@@ -526,7 +526,6 @@
 - [Arrêté du 17 mai 1990 (SPSS9001040A)](arrete-du-17-mai-1990-spss9001040a)
 - [Arrêté du 18 avril 1990 (ECOT9010072A)](arrete-du-18-avril-1990-ecot9010072a)
 - [Arrêté du 18 avril 1990 (RESY9000069A)](arrete-du-18-avril-1990-resy9000069a)
-- [Arrêté du 18 avril 1990 (SPSN9000869A)](arrete-du-18-avril-1990-spsn9000869a)
 - [Arrêté du 18 décembre 1989 (SPSP8902755A)](arrete-du-18-decembre-1989-spsp8902755a)
 - [Arrêté du 18 décembre 1989 (SPSS8902724A)](arrete-du-18-decembre-1989-spss8902724a)
 - [Arrêté du 18 décembre 1990 (BUDD9050009A)](arrete-du-18-decembre-1990-budd9050009a)
