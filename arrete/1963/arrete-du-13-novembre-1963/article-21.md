@@ -1,7 +1,9 @@
 # Article 21
 
-Chaque enfant mineur d'un gérant qui avait accompli, lors de son décès, la durée de service minimum prévue soit à l'article 11, soit à l'article 19 reçoit au décès du dernier parent et jusqu'à sa majorité une allocation calculée sur le cinquième du nombre de points acquis par le de cujus.
+a) Chaque enfant mineur d'un gérant qui avait accompli, lors de son décès, la durée de service minimum prévue soit à l'article 11, soit à l'article 19, reçoit au décès du dernier parent et jusqu'à sa majorité une allocation calculée sur le quart du nombre de points tabac acquis par le de cujus.
 
-Si le gérant laisse plus de cinq mineurs, le nombre de points attribués à chacun d'eux est égal au nombre total de points inscrits au compte du gérant divisé par le nombre d'orphelins. A la majorité ou au décès d'un orphelin, le nombre de points des autres est révisé jusqu'à ce qu'il atteigne le maximum prévu au paragraphe ci-dessus.
+L'allocation d'orphelin est servie sur demande de son représentant légal ; elle est versée à partir du premier jour du trimestre civil suivant le décès du dernier des parents si la demande est produite dans le délai d'un an qui suit le décès. Lorsque la demande est déposée postérieurement à ce délai, l'allocation est servie à compter du premier jour du trimestre civil suivant la date de ce dépôt.
 
-L'allocation d'orphelin est servie sur demande de son représentant légal ; elle est versée à partir du premier jour du trimestre civil suivant le décès du dernier des parents.
+b) Les enfants majeurs d'un participant au régime ayant acquis l'ancienneté minimum ouvrant droit à allocation peuvent également être admis à bénéficier d'une allocation si, au décès du dernier parent, ils étaient à sa charge en raison de leur handicap physique permanent. L'admission à cette allocation est autorisée par la commission consultative statuant après examen du degré d'invalidité et du montant des ressources du postulant.
+
+L'allocation d'handicapé est calculée sur la moitié des points tabacs acquis par le participant. Le point de départ du paiement des arrérages est fixé dans les mêmes conditions que pour l'allocation d'orphelin mineur visée à l'alinéa a du présent article. Cette allocation est supprimée si son bénéficiaire perd partiellement son handicap physique, se marie ou vient à bénéficier d'une pension ou rente en raison de son invalidité.

@@ -101,5 +101,6 @@
 - [Décret n°72-251 du 30 mars 1972](decret-n72-251-du-30-mars-1972)
 - [Décret n°72-549 du 30 juin 1972](decret-n72-549-du-30-juin-1972)
 - [Décret n°72-556 du 30 juin 1972](decret-n72-556-du-30-juin-1972)
+- [Décret n°72-806 du 31 août 1972](decret-n72-806-du-31-aout-1972)
 - [Décret n°72-460 du 31 mai 1972](decret-n72-460-du-31-mai-1972)
 - [Décret n°72-461 du 31 mai 1972](decret-n72-461-du-31-mai-1972)
