@@ -1,4 +1,4 @@
-# Arrêté du 26 février 1979 portant réglementation des haltes-garderies
+# Arrêté du 26 février 1979 relatif au fonctionnement des caisses autonomes mutualistes
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -9,6 +9,10 @@
 - [Article 7](article-7.md)
 - [Article 8](article-8.md)
 - [Article 9](article-9.md)
+- [Article 10](article-10.md)
+- [Article 11](article-11.md)
+- [Article 12](article-12.md)
+- [Article 13](article-13.md)
 - [Article 14](article-14.md)
 - [Article 15](article-15.md)
 - [Article 16](article-16.md)
@@ -18,6 +22,3 @@
 - [Article 20](article-20.md)
 - [Article 21](article-21.md)
 - [Article 22](article-22.md)
-- [Article Execution](article-execution.md)
-- [2. Opérations non subventionnées sur le budget du ministère chargé de la santé ou effectuées au titre des équipements administratifs](2-operations-non)
-- [1. Opérations subventionnées sur le budget du ministère chargé de la santé](1-operations-subventionnees-sur)

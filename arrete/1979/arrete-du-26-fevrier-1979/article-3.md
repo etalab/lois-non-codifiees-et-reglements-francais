@@ -1,15 +1,11 @@
 # Article 3
 
-La direction d'une halte-garderie est assurée par une personne justifiant des diplômes ou qualifications suivants :
+Par. 1er. Les comptables sont astreints à fournir un cautionnement réalisé soit en numéraire, soit en rentes sur l'Etat, soit par affiliation à une société française de cautionnement mutuel agréée à cet effet par un arrêté des ministres chargés de la mutualité et du budget. Ces divers modes de réalisation ne peuvent être employés simultanément.
 
-1° Titulaire du diplôme d'Etat de puériculture ou du diplôme d'Etat d'éducateur de jeunes enfants ou d'un diplôme délivré par un centre de formation de jardinières d'enfants agréé par le ministère de la santé et de la famille, ou personnes qui, bien que non titulaires de ces diplômes, ont été intégrées dans le corps des monitrices de jardins d'enfants ;
+Par. 2. Les cautionnements en numéraire ou en rentes doivent être déposés à la caisse des dépôts et consignations dans les conditions déterminées pour les consignations judiciaires et administratives.
 
-2° Titulaire du diplôme de sage-femme ;
+Lorsque le cautionnement est constitué au moyen d'inscriptions nominatives directes des différents fonds de la dette publique, il doit faire l'objet d'une déclaration d'affectation souscrite sur papier timbré par le titulaire des rentes. Cette déclaration est transmise en même temps que les extraits d'inscription à la caisse des dépôts et consignations.
 
-3° Titulaire du diplôme d'Etat d'infirmière ;
+Le capital nominal des rentes est évalué au premier cours coté le jour de la nomination de l'intéressé.
 
-4° Titulaire du diplôme d'Etat d'assistant de service social.
-
-Si la halte-garderie est contiguë à un autre établissement ou service destiné aux jeunes enfants ou à un centre social, le directeur de cet établissement, service ou centre peut être chargé de la direction de la halte-garderie.
-
-Le préfet [*autorité compétente*] peut à titre exceptionnel accorder des dérogations aux dispositions de l'alinéa premier en considération des situations particulières tenant notamment à l'implantation ou à la fréquentation de la halte.
+Lorsqu'une rente consignée appartient à une série appelée au remboursement, le propriétaire de la rente fait connaître à la caisse des dépôts et consignations en quel fonds il désire que la portion du cautionnement remboursée soit reconstituée. S'il s'agit d'une rente nominative, la nouvelle rente achetée en remploi donne lieu à la souscription d'un acte d'affectation.

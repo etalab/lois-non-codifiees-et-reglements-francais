@@ -6,7 +6,9 @@ Par. 1er. La comptabilité technique des caisses autonomes mutualistes comprend 
 
 Ce répertoire doit permettre de suivre les droits des adhérents eu égard aux cotisations versées.
 
-2° a) Pour les caisses autonomes de retraites, un livre d'enregistrement des retraites ou allocations où sont portées, par ordre chronologique, toutes indications relatives aux droits liquidés ou éventuels des adhérents.
+Dans le cas prévu au paragraphe 2 de l'article 1er du décret du 3 août 1946 modifié, le répertoire des adhérents est remplacé par un répertoire des sociétés affiliées comportant l'indication du nombre de leurs membres.
+
+2° a) Pour les caisses autonomes de retraites, un livre d'enregistrement des retraites ou allocations où sont portées, par ordre chronologique toutes indications relatives aux droits liquidés ou éventuels des adhérents.
 
 b) Pour les caisses autonomes pratiquant l'assurance en cas de vie, de décès ou d'accidents, un livre d'enregistrement des sinistres ou règlements où sont inscrits, par ordre chronologique, toutes indications permettant de suivre les événements susceptibles d'entraîner des obligations pour la caisse, ainsi que les paiements effectués pour leur règlement.
 

@@ -1,7 +1,3 @@
 # Article 2
 
-Les locaux de la halte-garderie doivent être conformes aux règlements de sécurité et aménagés de telle sorte que la surveillance des enfants soit aisée.
-
-Ils doivent être correctement éclairés, aérés et chauffés et disposer d'installations correspondant aux besoins des enfants et du personnel.
-
-Ils doivent être adaptés au repos, à la toilette et aux jeux des enfants. En cas de besoin, il doit être possible de procéder à la conservation et au réchauffement des repas apportés par les parents.
+Le conseil d'administration de chaque caisse autonome peut déléguer une partie de ses pouvoirs à des agents placés sous son contrôle, et notamment charger un comptable de l'exécution des opérations financières, du maniement des fonds de la caisse autonome et de la tenue de la comptabilité. Lorsque le conseil d'administration a délégué une partie de ses pouvoirs à un directeur, le comptable est placé sous l'autorité administrative de ce dernier. Lorsque le conseil d'administration a chargé un caissier du maniement des espèces, ce dernier est placé sous l'autorité du comptable.
