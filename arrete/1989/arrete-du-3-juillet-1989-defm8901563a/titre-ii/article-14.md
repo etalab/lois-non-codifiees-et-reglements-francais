@@ -36,6 +36,6 @@ Le directeur des centres d'expérimentations nucléaires.
 
 Le directeur central du service de santé des armées.
 
-Le directeur des engins et le directeur des constructions navales de la délégation générale pour l'armement.
+Le directeur des missiles et de l'espace et le directeur des constructions navales de la délégation générale pour l'armement.
 
 Le secrétariat du comité directeur est assuré conjointement par le chargé de mission Atome de la délégation générale pour l'armement et le directeur délégué à la sûreté nucléaire du Commissariat à l'énergie atomique.

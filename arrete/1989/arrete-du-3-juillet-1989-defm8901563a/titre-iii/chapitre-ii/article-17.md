@@ -30,13 +30,13 @@ Il comprend des membres de droit et des membres ayant voix délibérative.
 
 -l'officier général adjoint au sous-chef d'état-major (études, planification, finances) de l'armée de terre ;
 
--l'officier général adjoint au sous-chef d'état-major matériel de la marine, chargé des affaires nucléaires ;
+-l'officier général placé auprès du major général de la marine, chargé de coordonner les affaires nucléaires pour la marine ;
 
--l'officier général sous-chef d'état-major plan de l'armée de l'air ;
+-l'officier général sous-chef d'état-major programmes-matériels de l'armée de l'air ;
 
--l'inspecteur des mesures de sécurité nucléaire de la direction des engins ;
+-le chef du bureau de la sûreté nucléaire de la direction des missiles et de l'espace ;
 
--l'inspecteur des mesures de sécurité nucléaire armes de la direction des constructions navales ;
+-l'adjoint chargé du contrôle de la sécurité nucléaire et pyrotechnique auprès du directeur des constructions navales ;
 
 -un représentant du ministère de l'intérieur pour les questions touchant aux transports logistiques hors des bases militaires.
 
@@ -46,10 +46,12 @@ Il comprend des membres de droit et des membres ayant voix délibérative.
 
 -le directeur délégué à la propulsion nucléaire du Commissariat à l'énergie atomique ;
 
--l'officier général adjoint au sous-chef d'état-major matériel de la marine, chargé des affaires nucléaires ;
+-l'officier général placé auprès du major général de la marine, chargé de coordonner les affaires nucléaires pour la marine ;
 
--l'inspecteur du matériel naval ;
+-l'inspecteur des forces maritimes ;
 
--l'inspecteur des mesures de sécurité nucléaire chaufferies de la direction des constructions navales ;
+-adjoint chargé du contrôle de la sécurité nucléaire et
+
+pyrotechnique auprès du directeur des constructions navales ;
 
 -un représentant du ministère de l'intérieur pour les questions de transports hors des bases militaires.
