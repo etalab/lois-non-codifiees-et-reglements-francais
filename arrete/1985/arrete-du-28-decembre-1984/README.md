@@ -1,4 +1,4 @@
-# Arrêté du 28 décembre 1984 relatif à la participation des régimes d'assurance maladie au versement des douzièmes de la dotation globale prévue par le décret n° 83-744 du 11 août 1983.
+# Arrêté du 28 décembre 1984 du 28 décembre 1984 fixant pour 1985 le taux de la taxe parafiscale commune au comité interprofessionnel de développement des industries du cuir et au centre technique du cuir
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

@@ -1,3 +1,9 @@
 # Article 3
 
-Le pourcentage visé à l'article 2-A (3°) du décret du 8 juin 1973 susvisé est fixé à 0 p. 100.
+Il est ouvert dans la comptabilité de l'Office national de la navigation un compte spécial où sont portés:
+
+En recettes :
+
+a. Le produit de la taxe ; b. Les produits divers de toute autre provenance ;
+
+En dépenses : les sommes consacrées au financement des actions prévues par le décret du 9 avril 1984 susvisé en faveur desquelles la taxe est instituée.
