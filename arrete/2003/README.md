@@ -330,7 +330,6 @@
 - [Arrêté du 9 mai 2003 (MENS0301008A)](arrete-du-9-mai-2003-mens0301008a)
 - [Arrêté du 9 mai 2003 (MENS0301025A)](arrete-du-9-mai-2003-mens0301025a)
 - [Arrêté du 10 avril 2003 (ECOC0300031A)](arrete-du-10-avril-2003-ecoc0300031a)
-- [Arrêté du 10 décembre 2003 (BUDB0360037A)](arrete-du-10-decembre-2003-budb0360037a)
 - [Arrêté du 10 février 2003 (EQUS0300231A)](arrete-du-10-fevrier-2003-equs0300231a)
 - [Arrêté du 10 février 2003 (SANH0320537A)](arrete-du-10-fevrier-2003-sanh0320537a)
 - [Arrêté du 10 juillet 2003 (AGRA0301517A)](arrete-du-10-juillet-2003-agra0301517a)
