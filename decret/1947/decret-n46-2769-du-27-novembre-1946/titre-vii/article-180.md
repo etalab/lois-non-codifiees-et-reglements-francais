@@ -1,7 +1,7 @@
 # Article 180
 
-L'application de la législation concernant la sécurité sociale dans les mines est assurée sous l'autorité du ministre du travail et de la sécurité sociale dans chaque région par l'ingénieur en chef des mines et ses services [*autorité compétente*].
+L'application de la législation et de la réglementation de sécurité sociale dans les mines est assurée dans chaque région, sous l'autorité du ministre chargé de la sécurité sociale, par le directeur régional des affaires sanitaires et sociales [*autorités compétentes*].
 
-Les ingénieurs en chef des mines sont notamment chargés de veiller à l'observation des obligations incombant tant aux employeurs qu'aux bénéficiaires, en ce qui concerne l'affiliation et le versement des cotisations [*contrôle*].
+Celui-ci est notamment chargé [*attributions*] de veiller à l'observation des obligations incombant tant aux employeurs qu'aux bénéficiaires en ce qui concerne l'affiliation et le versement des cotisations.
 
-Pour l'application du présent article, les ingénieurs en chef des mines peuvent demander aux directeurs régionaux de la sécurité sociale le concours d'inspecteurs de la sécurité sociale.
+Toutefois, la prévention des accidents du travail et des maladies professionnelles dans les mines est assurée dans chaque région, sous l'autorité du ministre chargé des mines, par le directeur régional de l'industrie et de la recherche.
