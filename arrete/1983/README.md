@@ -146,5 +146,4 @@
 - [Arrêté du 31 août 1983](arrete-du-31-aout-1983)
 - [Arrêté du 31 décembre 1982](arrete-du-31-decembre-1982)
 - [Arrêté du 31 janvier 1983](arrete-du-31-janvier-1983)
-- [Arrêté du 31 octobre 1983](arrete-du-31-octobre-1983)
 - [Arrêté du 31 mai 1983](arrete-du-31-mai-1983)
