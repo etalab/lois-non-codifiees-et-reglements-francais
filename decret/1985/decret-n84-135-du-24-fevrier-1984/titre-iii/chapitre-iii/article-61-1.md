@@ -1,3 +1,0 @@
-# Article 61-1
-
-Pour satisfaire à l'obligation de mobilité mentionnée à l'article 61, les candidats doivent avoir exercé pendant un an au moins des activités de soins, d'enseignement ou de recherche, en France ou à l'étranger, en dehors du centre hospitalier et universitaire dans lequel ils sont affectés ou, pour les anciens chefs de cliniques des universités-assistants des hôpitaux et les anciens praticiens hospitaliers universitaires, dans lequel ils ont été affectés en dernier lieu. Les activités de soins dans des établissements de santé privés ne participant pas au service public hospitalier ou en clientèle de ville ne sont pas prises en compte.

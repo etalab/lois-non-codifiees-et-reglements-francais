@@ -360,7 +360,6 @@
 - [Décret n°98-364 du 12 mai 1998 (FPPA9810006D)](decret-n98-364-du-12-mai-1998-fppa9810006d)
 - [Décret du 13 juillet 1998 (ECOC9800041D)](decret-du-13-juillet-1998-ecoc9800041d)
 - [Décret n°47-77 du 13 janvier 1947](decret-n47-77-du-13-janvier-1947)
-- [Décret n°95-1007 du 13 septembre 1995 (PRMX9500117D)](decret-n95-1007-du-13-septembre-1995-prmx9500117d)
 - [Décret n°97-1034 du 13 novembre 1997 (MEST9711491D)](decret-n97-1034-du-13-novembre-1997-mest9711491d)
 - [Décret n°97-932 du 13 octobre 1997 (EQUP9701017D)](decret-n97-932-du-13-octobre-1997-equp9701017d)
 - [Décret n°98-1027 du 13 novembre 1998 (JUSE9840057D)](decret-n98-1027-du-13-novembre-1998-juse9840057d)
