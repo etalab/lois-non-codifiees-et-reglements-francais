@@ -1,0 +1,3 @@
+# Article 152
+
+En cas de fusion d'une société anonyme  administrée par un conseil d'administration et d'une société anonyme comprenant un directoire et un conseil de surveillance, le nombre des membres du conseil d'administration ou du conseil de surveillance, selon le cas, pourra dépasser le nombre de douze jusqu'à concurrence du nombre total des membres du conseil d'administration et du conseil de surveillance en fonction depuis plus de six mois [*délai - durée*] dans les sociétés fusionnées, sans pouvoir dépasser le nombre de vingt-quatre. Les dispositions de l'article 89, alinéas 2 et 3, ou, selon le cas, telles de l'article 129, alinéa 2, sont applicables [*cooptation*].

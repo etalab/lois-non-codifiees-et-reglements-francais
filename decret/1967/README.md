@@ -19,6 +19,8 @@
 - [Décret n°67-91 du 20 janvier 1967](decret-n67-91-du-20-janvier-1967)
 - [Décret n°67-226 du 21 mars 1967](decret-n67-226-du-21-mars-1967)
 - [Décret n°67-241 du 22 mars 1967](decret-n67-241-du-22-mars-1967)
+- [Décret n°67-236 du 23 mars 1967](decret-n67-236-du-23-mars-1967)
+- [Décret n°67-237 du 23 mars 1967](decret-n67-237-du-23-mars-1967)
 - [Décret n°67-259 du 23 mars 1967](decret-n67-259-du-23-mars-1967)
 - [Décret n°67-265 du 23 mars 1967](decret-n67-265-du-23-mars-1967)
 - [Décret n°67-600 du 23 juillet 1967](decret-n67-600-du-23-juillet-1967)
