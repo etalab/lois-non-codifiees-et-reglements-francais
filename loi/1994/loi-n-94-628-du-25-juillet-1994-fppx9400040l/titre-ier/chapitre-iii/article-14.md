@@ -12,7 +12,7 @@ Les agents mentionnés ci-dessus sont les fonctionnaires régis par la loi n° 8
 
 Ce fonds, dont la gestion est assurée par la Caisse des dépôts et consignations, est alimenté par une contribution à la charge des établissements énumérés à l'article 2 de la loi n° 86-33 du 9 janvier 1986 précitée.
 
-Cette contribution est assise sur le montant des rémunérations soumises à retenues pour pension. Son taux, qui ne peut excéder 0,8 p. 100, est fixé par décret.
+Cette contribution est assise sur le montant des rémunérations soumises à retenues pour pension. Son taux, qui ne peut excéder 1,8 p. 100, est fixé par décret.
 
 Elle est recouvrée dans les mêmes conditions et selon les mêmes règles que les contributions versées par les établissements mentionnés à l'article 2 de la loi n° 86-33 du 9 janvier 1986 précitée à la Caisse nationale de retraite des agents des collectivités locales.
 

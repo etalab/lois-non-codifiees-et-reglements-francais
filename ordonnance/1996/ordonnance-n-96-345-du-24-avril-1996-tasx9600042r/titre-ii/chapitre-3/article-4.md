@@ -12,8 +12,10 @@ I. - Les ressources de ce fonds sont constituées :
 
 II. - Le fonds a vocation :
 
-1° D'une part à financer l'allocation de remplacement prévue par l'article 4 de la loi du 5 janvier 1988 susmentionnée ainsi que des aides de toute nature et des primes qui peuvent être modulées en fonction de critères d'âge, d'activité ou d'implantation géographique en vue de faciliter l'orientation, la réorientation, la reconversion ou la cessation anticipée d'activité des médecins exerçant à titre libéral ;
+1° A financer l'allocation de remplacement prévue par l'article 4 de la loi du 5 janvier 1988 susmentionnée ainsi que des aides de toute nature et des primes qui peuvent être modulées en fonction de critères d'âge, d'activité ou d'implantation géographique en vue de faciliter l'orientation, la réorientation, la reconversion ou la cessation anticipée d'activité des médecins exerçant à titre libéral ;
 
-2° D'autre part à participer au financement des actions mentionnées au deuxième alinéa du I de l'article 8 de la présente ordonnance, à destination des médecins libéraux.
+2° A participer au financement des actions mentionnées au deuxième alinéa du I de l'article 8 de la présente ordonnance, à destination des médecins libéraux ;
 
-Ces opérations sont retracées en deux sections distinctes. Les modalités de fonctionnement, de gestion du fonds et de participation des représentants des médecins à sa gestion sont déterminées par décret en Conseil d'Etat.
+3° A financer des aides en vue de faciliter l'installation des médecins libéraux dans des zones rurales ou urbaines où est constaté un déficit en matière d'offre de soins. Un décret détermine les conditions dans lesquelles ces zones sont définies par le représentant de l'Etat dans la région après l'avis du conseil régional de santé.
+
+Ces opérations sont retracées en trois sections distinctes. Les modalités de fonctionnement, de gestion du fonds et de participation des représentants des médecins à sa gestion sont déterminées par décret en Conseil d'Etat. Ce décret précise les obligations auxquelles sont soumis les médecins bénéficiant des aides mentionnées au 3°.
