@@ -1,13 +1,13 @@
 # Article 5
 
-La commission comporte une section Examen des référentiels, une section Agrément des organismes certificateurs et une section Agriculture biologique ainsi qu'une commission permanente, composée du président de la commission nationale et des présidents des trois sections.
+Chaque section est réunie à la demande de son président, du ministre de l'agriculture, du ministre chargé de la consommation ou de la majorité de ses membres.
 
-La section Examen des référentiels est compétente dans les domaines définis au a de l'article 3.
+Les membres des trois sections se réunissent en séance plénière, sur la convocation du président de la commission nationale, du ministre chargé de l'agriculture ou du ministre chargé de la consommation.
 
-La section Agriculture biologique est compétente dans les domaines définis au b de l'article 3.
+Le président de la commission nationale peut réunir deux sections avec l'accord de la commission permanente.
 
-La section Agrément des organismes certificateurs est compétente dans les domaines définis au c de l'article 3.
+La commission nationale siégeant en formation plénière et les sections ne peuvent valablement prononcer d'avis qu'en présence d'au moins la majorité de leurs membres. Les avis sont émis à la majorité des membres présents ou représentés.
 
-Dans leurs domaines de compétence, les sections peuvent émettre des avis au nom de la commission nationale et faire des propositions conformément aux deux derniers alinéas de l'article 3. Ces avis et propositions peuvent, s'il y a lieu, être émis par le commission nationale siégeant en formation plénière.
+Le président de la commission nationale transmet au ministre de l'agriculture et au ministre chargé de la consommation les avis émis par chacune des sections, par la commission permanente et, le cas échéant, par la commission nationale siégeant en formation plénière.
 
-Le président de la commission nationale transmet aux ministres chargés de l'agriculture, de l'alimentation et de la consommation les avis émis par chacune des sections et par la commission en formation plénière. La commission permanente veille à la cohérence des avis émis par les sections.
+Des règlements intérieurs, approuvés par le ministre de l'agriculture et le ministre chargé de la consommation, peuvent déterminer les règles de fonctionnement de chacune des trois sections.
