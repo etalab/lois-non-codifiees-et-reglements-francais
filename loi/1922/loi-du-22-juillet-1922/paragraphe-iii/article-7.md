@@ -1,10 +1,10 @@
 # Article 7
 
-Les versements de l'exploitant seront effectués jusqu'au maximum fixé de 24.000 F par agent et par an.
+Les versements de l'exploitant seront de 6 p. 100 des salaires jusqu'au maximum fixé de 12.000 F par agent et par an.
 
 Cette charge patronale sera portée au compte des dépenses d'exploitation de chaque entreprise.
 
-Des avenants aux conventions seront établis, dans le délai d'un an à dater de la mise en vigueur de la loi, en vue de la mise en vigueur de la loi, en vue de modifier temporairement les cahiers des charges et les conditions et formules figurant dans les actes de concession, pour les cas où la somme définie au paragraphe suivant ne permettrait pas de couvrir la charge patronale.
+Des avenants aux conventions seront établis, dans le délai d'un an à dater de la mise en vigueur de la loi, en vue de modifier temporairement les cahiers des charges et les conditions et formules figurant dans les actes de concession, pour les cas où la somme définie au paragraphe suivant ne permettrait pas de couvrir la charge patronale.
 
 Cette somme sera égale au produit net d'exploitation, majoré des subventions de l'Etat et des pouvoirs concédants, et diminué des charges du capital-obligations, de l'intérêt des actions non amorties à raison d'un maximum de 4 p. 100 et, éventuellement, des dépenses de grosses réparations des voies.
 

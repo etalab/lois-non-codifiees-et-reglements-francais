@@ -1,5 +1,5 @@
 # Article 14
 
-1° Tout agent qui, en période normale, aura atteint l'âge fixé pour la retraite avant d'avoir la durée d'affiliation prévue par la loi, aura droit, s'il a au moins quinze ans d'affiliation, à une retraite proportionnelle sur la base de "un soixantième" du salaire moyen des trois dernières années, et par année d'affiliation s'il n'a pas accompli quinze ans au moins dans la catégorie B et de "un cinquantième" dans le cas contraire ;
+Tout agent qui, en période normale, sera atteint par la limite d'âge, de cinquante-cinq ou soixante ans, avant d'avoir la durée de service prévue par la loi, aura droit, s'il a au moins quinze ans de service, à une retraite proportionnelle sur la base du un soixantième du salaire moyen des six dernières années, par année de versement.
 
-2° S'il a moins de quinze ans d'affiliation, il aura droit à la remise de tous les versements effectués à son compte, majorés de leurs intérêts au taux moyen des placements de la caisse autonome mutuelle, défalcation faite, le cas échéant, des sommes forfaitaires à verser aux assurances sociales pour le droit à pension.
+S'il a moins de quinze ans de service, il aura droit à la remise de tous les versements effectués à son compte, majorés de leurs intérêts à 3 p. 100.
