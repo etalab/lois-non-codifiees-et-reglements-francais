@@ -1,5 +1,5 @@
 # Article 40
 
-La procédure d'établissement de l'avis documentaire ne peut être différée, conformément aux dispositions de l'article 20 de la loi précitée, que si la requête en est présentée au moment du dépôt de la demande.
+La procédure d'établissement du rapport de recherche ne peut être différée, conformément aux dispositions de l'article L. 612-15 du code de la propriété intellectuelle, que si la requête en est présentée au moment du dépôt de la demande. Le paiement de la redevance de rapport de recherche vaut renonciation à cette requête.
 
-La renonciation à cette requête est acquise par le paiement de la taxe prévue à l'article 95.
+Lorsqu'une demande de brevet bénéficie de plusieurs dates conformément aux dispositions de l'article L. 612-3 du code de la propriété intellectuelle, le délai de dix-huit mois pendant lequel l'établissement du rapport de recherche peut être différé court à compter de la date la plus ancienne.

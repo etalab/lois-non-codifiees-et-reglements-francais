@@ -5,7 +5,7 @@
 - [Chapitre III : Division de la demande.](chapitre-iii)
 - [Chapitre IV : Rectification, retrait et publication de la demande.](chapitre-iv)
 - [Chapitre V : Rejet de la demande.](chapitre-v)
-- [Chapitre VI : De l'avis documentaire.](chapitre-vi)
+- [Chapitre VI : Du rapport de recherche.](chapitre-vi)
 - [Chapitre VII : Délivrance et publication du brevet.](chapitre-vii)
 - [Chapitre VIII : Désignation de l'inventeur et revendication de propriété.](chapitre-viii)
 - [Chapitre IX : De la licence de droit.](chapitre-ix)

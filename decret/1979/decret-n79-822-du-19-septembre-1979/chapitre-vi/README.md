@@ -1,4 +1,4 @@
-# Chapitre VI : De l'avis documentaire.
+# Chapitre VI : Du rapport de recherche.
 
 - [Article 40](article-40.md)
 - [Article 41](article-41.md)
