@@ -12,4 +12,4 @@ La carte sanitaire de la France [*définition*] détermine, compte tenu de l'imp
 
 Pour chaque installation, la carte précise les équipements immobiliers et les équipements matériels lourds à réaliser.
 
-La carte sanitaire peut être révisée à tout moment ; elle est révisée obligatoirement lors de l'élaboration de chaque plan de modernisation et d'équipement.
+La carte sanitaire peut être révisée à tout moment ; elle est révisée obligatoirement lors de l'élaboration de chaque plan de modernisation et d'équipement.     Chaque année, le ministre chargé de la santé informe le Parlement des modifications de la carte sanitaire intervenues dans l'année.

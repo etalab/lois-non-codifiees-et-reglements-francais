@@ -14,7 +14,7 @@ Le conseil d'administration délibère sur [*attributions*] :
 
 6° Les propositions d'affectation des résultats d'exploitation ;
 
-7° Les créations, suppressions et transformations des départements hospitaliers ainsi que, le cas échéant, leur structure interne ; les créations, suppressions et transformations des services non médicaux et des cliniques ouvertes ;
+7° Les créations, suppressions et transformations des services médicaux et pharmaceutiques ainsi que, le cas échéant, des pôles d'activités et des départements hospitaliers ; les créations, suppressions et transformations des services autres que médicaux et pharmaceutiques et des cliniques ouvertes ;
 
 8° Les acquisitions, aliénations, échanges d'immeubles et leur affectation ; les conditions des baux de plus de dix-huit ans ;
 
