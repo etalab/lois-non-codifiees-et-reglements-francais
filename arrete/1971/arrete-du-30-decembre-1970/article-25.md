@@ -10,4 +10,8 @@ Lorsque le nombre de points est inférieur à 100, il n'est pas versé d'allocat
 
 Toutefois, le versement ne peut pas dépasser, pour un orphelin, le produit de l'allocation annuelle, calculée au moment de la liquidation, par le nombre d'années restant à courir jusqu'à vingt et un ans.
 
-Le versement prévu ci-dessus, effectué au profit de l'agent, supprime tout droit pour le conjoint ou les orphelins. Effectué au profit du conjoint, il supprime tout droit pour les orphelins.
+Le versement prévu ci-dessus, effectué au profit de l'agent, supprime tout droit pour le conjoint ou les orphelins. Effectué au profit du conjoint, il supprime tout droit pour les orphelins.    Lorsque l'IRCANTEC procède à la répétition d'arrérages indûment versés à la suite de la suspension des droits à retraite, pour cause de reprise d'activité, l'allocataire est invité à opter entre un reversement unique dans les trois mois de la notification du trop-perçu et un remboursement par précompte sur les arrérages à valoir.
+
+Dans ce dernier cas, le montant à rembourser tiendra compte d'une indexation sur l'évolution de la valeur du point constatée entre la date d'exigibilité prévue pour un versement unique et celle de son précompte effectif.
+
+A défaut d'option dans ce délai précité, le remboursement par précompte sur les arrérages à valoir est effectué automatiquement.

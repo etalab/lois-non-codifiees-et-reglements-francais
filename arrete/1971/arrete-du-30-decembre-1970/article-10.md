@@ -7,3 +7,5 @@ Le nombre de points de retraite inscrits à ce compte au cours d'une année civi
 Si l'allocation de retraite prend effet en cours d'année le nombre de points acquis au cours de cette année est calculé sur la base du salaire de référence de l'année civile précédente.
 
 Le nombre de points de retraite visé au deuxième alinéa ci-dessus donne lieu à l'édition d'un bulletin de situation de compte qui est envoyé à l'employeur ; celui-ci doit le remettre à l'agent concerné.
+
+En cas d'erreur dûment constatée, le nombre de points inscrit au compte du participant est rétabli sans délai par l'IRCANTEC soit à son initiative, soit à la demande de la collectivité employeur ou de l'intéressé. Il est établi un nouveau bulletin de situation de compte.

@@ -17,3 +17,5 @@ Le nombre de points alloués est proportionnel à la moyenne annuelle des points
 Par. 4 - Les périodes visées aux paragraphes 1, 2 et 3 ci-dessus ne peuvent être prises en considération lorsqu'elles sont susceptibles par ailleurs d'être retenues dans le calcul d'une pension ou allocation de retraite servie au titre d'un régime de retraite autre que le régime général ou le régime agricole des assurances sociales.
 
 D'autre part, lesdites périodes ne peuvent, en aucun cas, faire l'objet de la validation prévue à l'article 12 du présent arrêté.
+
+Lorsque la situation du participant conduit à inscrire un nouveau nombre de points de retraite à son compte, le nombre de points gratuits acquis antérieurement n'est pas révisé à la baisse, sauf en cas d'abus de droit de la part du demandeur.
