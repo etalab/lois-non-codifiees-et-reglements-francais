@@ -2,7 +2,7 @@
 
 La dotation spécifique pour les collèges est assurée par le budget de l'Etat. Elle couvre les dépenses de construction, d'équipement, d'entretien et de fonctionnement des collèges.
 
-Pour la première année, la somme des dotations spécifiques des trois provinces est au moins égale au montant des crédits constatés en moyenne au cours des trois exercices budgétaires antérieurs au transfert des compétences correspondantes.
+Pour l'année 1995, la somme des dotations spécifiques des trois provinces est au moins égale au montant des crédits constatés en moyenne au cours des trois exercices budgétaires précédents. "
 
 Cette somme évolue en fonction de la population scolaire.
 

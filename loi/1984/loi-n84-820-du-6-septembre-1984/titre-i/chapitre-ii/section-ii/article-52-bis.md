@@ -6,4 +6,4 @@
 
 " Le président de l'assemblée territoriale nomme les agents des services de l'assemblée. Les agents sont recrutés dans le respect des règles applicables aux agents employés par les services du territoire. Tous les actes de gestion de ce personnel sont effectués par le président de l'assemblée.
 
-" Le président de l'assemblée territoriale décide d'intenter ou de soutenir les actions au nom de l'assemblée territoriale. "
+" Le président de l'assemblée territoriale décide d'intenter ou de soutenir les actions au nom de l'assemblée territoriale sans préjudice des dispositions du 12° de l'article 26 ".

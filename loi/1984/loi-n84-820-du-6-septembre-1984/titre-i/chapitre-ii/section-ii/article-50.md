@@ -1,11 +1,9 @@
 # Article 50
 
-L'assemblée territoriale tient chaque année deux sessions ordinaires sur convocation de son président. La première, dite session administrative, s'ouvre entre le 1er mars et le 30 avril. La seconde, dite session budgétaire, s'ouvre entre le 1er septembre et le 31 octobre.
+L'assemblée territoriale tient chaque année deux sessions ordinaires qui s'ouvrent de plein droit dans les conditions précisées ci-après :
 
-L'assemblée territoriale fixe, par délibération, la date d'ouverture et la durée de ses sessions ordinaires. cette durée ne peut être inférieure à deux mois ni excéder trois mois ".
+" La première, dite session administrative, s'ouvre le premier jeudi du mois d'avril et dure soixante jours. La deuxième, dite session budgétaire, s'ouvre le premier jeudi du mois d'octobre et dure quatre-vingts jours.
 
-Si elle se sépare sans avoir fixé la date d'ouverture de sa prochaine session ordinaire, cette date est déterminée par la commission permanente.
+" Les sessions sont ouvertes et closes dans les conditions prévues par le règlement intérieur de l'assemblée territoriale.
 
-Au cas où l'assemblée ne s'est pas réunie au cours de l'une des périodes prévues pour ses sessions, le haut-commissaire peut modifier par arrêté, pris après avis du président du gouvernement du territoire, la période normale de session et convoquer l'assemblée en session ordinaire.
-
-Les sessions sont ouvertes et closes par le président de l'assemblée.
+" Au cas où l'assemblée territoriale ne s'est pas réunie conformément aux dispositions ci-dessus, le haut-commissaire met en demeure le président de l'assemblée de procéder à la convocation de l'assemblée dans les quarante-huit heures. A défaut, le haut-commissaire convoque l'assemblée en session ordinaire. "

@@ -1,5 +1,7 @@
 # Article 64
 
-L'assemblée territoriale peut assortir les infractions aux règlements qu'elle édicte de peines d'emprisonnement et d'amendes [*sanctions*] n'excédant pas le maximum prévu par les articles 465 et 466 du code pénal ou de l'une de ces deux peines seulement et respectant la classification des contraventions prévue par la deuxième partie de ce code.
+L'assemblée territoriale peut assortir les infractions aux règlements qu'elle édicte de peines d'amende n'excédant pas celles prévues pour les infractions de même nature par les lois et règlements applicables en matière pénale ou fiscale. En matière pénale, ces peines doivent respecter la classification des contraventions et des délits prévus par le code pénal.
 
-Le produit de ces amendes est versé au budget du territoire.
+" Le produit des amendes est versé au budget du territoire.
+
+" L'assemblée territoriale peut assortir ces infractions des peines complémentaires prévues pour les infractions de même nature par les lois et règlements applicables en matière pénale. "

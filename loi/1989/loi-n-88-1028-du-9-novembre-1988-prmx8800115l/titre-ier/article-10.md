@@ -1,3 +1,9 @@
 # Article 10
 
-Les dispositions de la loi n° 82-213 du 2 mars 1982 modifiée relative aux droits et libertés des communes, des départements et des régions relatives à la suppression de la tutelle administrative et financière seront étendues et adaptées aux communes de la Nouvelle-Calédonie dans l'année des élections aux assemblées de province.
+Le congrès du territoire peut, à la demande d'une assemblée de province, donner compétence aux autorités de la province pour adapter et appliquer :
+
+" 1° La réglementation en matière de santé et d'hygiène publiques ainsi que de protection sociale ;
+
+" 2° La réglementation de la circulation et des transports routiers.
+
+" Il peut également déléguer, après accord de l'assemblée de province, aux autorités de la province la gestion des cours d'eau et du réseau routier d'intérêt territorial. "

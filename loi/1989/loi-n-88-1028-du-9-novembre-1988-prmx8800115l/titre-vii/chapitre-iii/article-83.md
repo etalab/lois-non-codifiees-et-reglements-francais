@@ -1,6 +1,6 @@
 # Article 83
 
-Jusqu'au 31 décembre 1998, nonobstant toute disposition contraire, les agents contractuels de l'Etat, du territoire, des provinces et des communes peuvent être intégrés dans la fonction publique territoriale dès lors qu'ils remplissent les conditions suivantes :
+Jusqu'au 31 décembre 1998, nonobstant toute disposition contraire, les agents contractuels de l'Etat, du territoire, des provinces et des communes et de leurs établissements publics peuvent être intégrés dans la fonction publique territoriale dès lors qu'ils remplissent les conditions suivantes :
 
 1. Avoir exercé des fonctions publiques non électives pendant deux années consécutives ;
 

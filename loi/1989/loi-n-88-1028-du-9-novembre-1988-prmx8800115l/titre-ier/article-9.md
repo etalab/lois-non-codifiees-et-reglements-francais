@@ -24,7 +24,7 @@ Le territoire est compétent dans les matières suivantes :
 
 11° Les principes directeurs du droit de l'urbanisme ;
 
-12° La réglementation et l'organisation des services vétérinaires, la réglementation de la police intéressant les animaux et les végétaux ;
+12° La réglementation et l'organisation des services vétérinaires, la police zoosanitaire et phytosanitaire ; ".
 
 13° La réglementation des services et établissements publics territoriaux et la réglementation des concessions de service public d'intérêt territorial ;
 

@@ -8,4 +8,4 @@ Des arrêtés du conseil des ministres du territoire pris après avis de l'assem
 
 3° Le nombre des sièges attribués à chacun d'eux ;
 
-4° Le nombre des membres du conseil économique, social et culturel.
+4° Le nombre des membres du conseil économique, social et culturel.    5° Le montant des indemnités de vacation payées aux membres du conseil économique, social et culturel en fonction de leur présence aux séances plénières et aux commissions. "
