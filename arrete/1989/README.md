@@ -353,7 +353,6 @@
 - [Arrêté du 16 août 1989 (SPSN8901699A)](arrete-du-16-aout-1989-spsn8901699a)
 - [Arrêté du 16 août 1989 (SPSN8901700A)](arrete-du-16-aout-1989-spsn8901700a)
 - [Arrêté du 16 décembre 1988 (MERG8800133A)](arrete-du-16-decembre-1988-merg8800133a)
-- [Arrêté du 16 décembre 1988 (SPSM8900110A)](arrete-du-16-decembre-1988-spsm8900110a)
 - [Arrêté du 16 décembre 1988 (TEFT8804185A)](arrete-du-16-decembre-1988-teft8804185a)
 - [Arrêté du 16 février 1989 (EQUU8900077A)](arrete-du-16-fevrier-1989-equu8900077a)
 - [Arrêté du 16 février 1989 (INDD8900140A)](arrete-du-16-fevrier-1989-indd8900140a)
