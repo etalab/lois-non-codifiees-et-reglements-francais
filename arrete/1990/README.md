@@ -535,6 +535,7 @@
 - [Arrêté du 24 août 1990 (DEFD9001878A)](arrete-du-24-aout-1990-defd9001878a)
 - [Arrêté du 24 août 1990 (DEFD9001879A)](arrete-du-24-aout-1990-defd9001879a)
 - [Arrêté du 24 août 1990 (ECOT9013371A)](arrete-du-24-aout-1990-ecot9013371a)
+- [Arrêté du 24 août 1990 (PTTP9000692A)](arrete-du-24-aout-1990-pttp9000692a)
 - [Arrêté du 24 avril 1990 (INDD9000304A)](arrete-du-24-avril-1990-indd9000304a)
 - [Arrêté du 24 janvier 1990 (AGRE9000238A)](arrete-du-24-janvier-1990-agre9000238a)
 - [Arrêté du 24 janvier 1990 (ECOC8900139A)](arrete-du-24-janvier-1990-ecoc8900139a)
