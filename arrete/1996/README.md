@@ -233,7 +233,6 @@
 - [Arrêté du 11 avril 1996 (INDZ9600303A)](arrete-du-11-avril-1996-indz9600303a)
 - [Arrêté du 11 avril 1996 (TASE9610563A)](arrete-du-11-avril-1996-tase9610563a)
 - [Arrêté du 11 avril 1996 (TASE9610564A)](arrete-du-11-avril-1996-tase9610564a)
-- [Arrêté du 11 décembre 1995 (FPPA9510017A)](arrete-du-11-decembre-1995-fppa9510017a)
 - [Arrêté du 11 janvier 1996 (DEFP9601048A)](arrete-du-11-janvier-1996-defp9601048a)
 - [Arrêté du 11 janvier 1996 (TASA9620257A)](arrete-du-11-janvier-1996-tasa9620257a)
 - [Arrêté du 11 juillet 1996 (ECOT9610280A)](arrete-du-11-juillet-1996-ecot9610280a)
