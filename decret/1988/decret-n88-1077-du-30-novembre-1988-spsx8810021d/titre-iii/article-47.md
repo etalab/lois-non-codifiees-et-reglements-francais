@@ -1,20 +1,24 @@
 # Article 47
 
-Les infirmiers actuellement en fonctions sont reclassés dans le corps des infirmiers au grade d'infirmier de classe normale selon le tableau de correspondance qui suit :
-
-INFIRMIER :
+Les infirmiers en fonctions sont reclassés dans le corps des infirmiers au grade d'infirmier de classe normale selon le tableau de correspondance qui suit :
 
 Situation actuelle : échelon exceptionnel
 
-Situation nouvelle (ancienneté conservée) 7e échelon : ancienneté acquise plus 1 an.
+Situation nouvelle : échelon exceptionnel.
 
-Situation actuelle : 11e échelon : Infirmiers diplômés de secteur psychiatrique
+Ancienneté conservée : ancienneté acquise + 1 an.
 
-Situation nouvelle (ancienneté conservée) 6e échelon : ancienneté acquise.
+Situation actuelle : 11ème échelon : infirmier diplômé de secteur psychiatrique
 
-Situation actuelle : 11e échelon : Infirmiers diplômés d'Etat ayant plus de 2 ans d'ancienneté dans l'échelon
+Situation nouvelle : 6ème échelon.
 
-Situation nouvelle (ancienneté conservée) 7e échelon : 1/2 ancienneté acquise au-delà de 2 ans.
+Ancienneté conservée : ancienneté acquise + 2 ans.
+
+Situation actuelle : 11ème échelon : infirmier diplômé d'Etat ayant plus de deux ans d'ancienneté dans l'échelon
+
+Situation nouvelle : échelon exceptionnel.
+
+Ancienneté conservée : moitié de l'ancienneté acquise au-delà de 2 ans.
 
 Situation actuelle : 11e échelon : Infirmiers diplômés d'Etat ayant moins de 2 ans d'ancienneté dans l'échelon
 
