@@ -1,61 +1,75 @@
 # Article 9
 
-Différentes commissions.
+Les différentes commissions :
 
-Les commissions d'examen de la marine marchande sont les suivantes :
+Les commissions d'examens de la marine marchande sont les suivantes :
 
 a) La commission générale chargée de faire passer les examens pour l'obtention des certificats, diplômes et brevets ci-après :
 
-1° Le certificat d'admissibilité en deuxième année du cycle de formation des capitaines de 1re classe de la navigation maritime ;
+1° Diplôme d'élève officier de la marine marchande ;
 
-2° Le certificat d'admissibilité en troisième année du cycle de formation des capitaines de 1re classe de la navigation maritime ;
+2° Diplôme d'élève officier de 2e classe de la marine marchande ;
 
-3° Le diplôme d'élève officier de la marine marchande ;
+3° Diplôme de capitaine de 2e classe de la navigation maritime ;
 
-4° Le diplôme d'études supérieures de la marine marchande ;
+4° Certificat d'admissibilité en deuxième année du cycle de formation des officiers de 1re classe de la marine marchande ;
 
-5° Le certificat d'admissibilité en deuxième année du cycle de formation des capitaines de 2e classe de la navigation maritime ;
+5° Certificat d'admissibilité en troisième année du cycle de formation des officiers de 1re classe de la marine marchande ;
 
-6° Le diplôme d'élève officier de 2e classe de la navigation maritime ;
+6° Diplôme d'élève officier de 1re classe de la marine marchande ;
 
-7° Le diplôme de capitaine de 2e classe de la navigation maritime ;
+7° Diplôme d'études supérieures de la marine marchande ;
 
-8° Le brevet de chef de quart ;
+8° Certificat d'admissibilité en deuxième année du cycle de formation des officiers de 2e classe de la marine marchande ;
 
-9° Le brevet de capitaine côtier ;
+9° Certificat d'admissibilité en troisième année du cycle de formation des officiers de 2e classe de la marine marchande ;
 
-10° Le brevet d'officier mécanicien de 3e classe ;
+10° Diplôme d'élève officier de 2e classe de la marine marchande ;
 
-11° Le diplôme de radioélectronicien de la marine marchande ;
+11° Diplôme d'études de la marine marchande, option pont ;
 
-12° Le brevet de commissaire de la marine marchande ;
+12° Diplôme d'études de la marine marchande, option machine ;
 
-13° Le brevet de capitaine de pêche ;
+13° Brevet de capitaine côtier ;
 
-14° Le certificat d'admissibilité en deuxième année du cycle de formation des officiers mécaniciens à la pêche ;
+14° Brevet de capitaine de pêche ;
 
-15° Le brevet d'officier mécanicien à la pêche.
+15° Certificat d'admissibilité en deuxième année du cycle de formation des officiers mécaniciens à la pêche ;
 
-b) Des commissions spéciales chargées de faire passer les examens pour l'obtention des brevets, certificats et permis ci-après :
+16° Diplôme d'élève officier mécanicien à la pêche ;
 
-1° Le brevet de lieutenant de pêche ;
+17° Brevet d'officier mécanicien de 3e classe ;
 
-2° Le brevet de patron de pêche ;
+b) Des commissions spéciales chargées de faire passer les examens pour l'obtention des diplômes, brevets, certificats et permis ci-après :
 
-3° Le certificat de motoriste à la pêche ;
+1° Brevet de lieutenant de pêche ;
 
-4° Le certificat de capacité ;
+2° Brevet de patron de pêche ;
 
-5° Le permis de conduire les moteurs ;
+3° Certificat de motoriste à la pêche ;
 
-6° Le certificat d'aptitude à la conduite des moteurs des navires conchylicoles ;
+4° Certificat de capacité ;
 
-7° Certificat restreint de radiotéléphoniste ;
+5° Permis de conduire les moteurs ;
 
-8° Certificat restreint d'opérateur ;
+6° Certificat d'aptitude à la conduite des moteurs des navires conchylicoles ;
 
-9° Certificat spécial d'opérateur ;
+7° Permis de conduire les moteurs marins (250 kW) ;
 
-10° Certificat général d'opérateur.
+8° Diplôme de mécanicien 750 kW ;
 
-c) Des commissions locales chargées de faire passer les examens pour l'obtention des titres de formation professionnelle maritime faisant l'objet des chapitres III et IV du décret n° 91-1187 du 20 novembre 1991 susvisé.
+9° Brevet de patron de petite navigation ;
+
+10° Brevet de chef de quart de navigation côtière ;
+
+11° Certificat restreint de radiotéléphonie ;
+
+12° Certificat restreint d'opérateur ;
+
+13° Certificat spécial d'opérateur ;
+
+14° Certificat général d'opérateur ;
+
+15° Mention capitaine de yacht ;
+
+c) Des commissions locales chargées de faire passer les examens pour l'obtention des titres de formation professionnelle maritime faisant l'objet des chapitres III et IV du décret n° 91-1187 du 20 novembre 1991 relatif à la délivrance des titres de formation professionnelle maritime ou prévus dans des arrêtés particuliers.

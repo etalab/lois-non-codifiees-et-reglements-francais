@@ -1,35 +1,31 @@
 # Article 10
 
-Composition de la commission générale
+Composition de la commission générale :
 
-Président
+Président :
 
-Un professeur de l'enseignement maritime.
+- un professeur de l'enseignement maritime.
 
-Membres
+Membres :
 
-Des professeurs de l'enseignement maritime ;
+- des professeurs de l'enseignement maritime ;
 
-Des professeurs techniques chefs de travaux ;
+- des professeurs techniques de l'enseignement maritime ;
 
-Des professeurs techniques des écoles nationales de la marine marchande ;
+- des professeurs chargés de cours dans les écoles nationales de la marine marchande ;
 
-Des professeurs techniques de l'enseignement maritime;
+- des officiers ou des cadres A des affaires maritimes ;
 
-Des professeurs chargés de cours dans les écoles nationales de la marine marchande ;
+- des officiers supérieurs de marine ;
 
-Des officiers supérieurs de marine ;
+- des ingénieurs de la Météorologie nationale ;
 
-Des ingénieurs de la météorologie nationale ;
+- des médecins des gens de mer ;
 
-Des administrateurs des affaires maritimes ;
-
-Des médecins des gens de mer ;
-
-Des officiers brevetés de la marine marchande.
+- des officiers brevetés de la marine marchande.
 
 Le président et les membres sont nommés :
 
-- par le ministre chargé de la marine marchande, sur proposition de l'inspecteur général de l'enseignement maritime en ce qui concerne les professeurs de l'enseignement maritime, les professeurs techniques, les professeurs chargés de cours dans les écoles nationales de la marine marchande, les officiers de marine et les ingénieurs de la météorologie nationale ;
+- par le ministre chargé de la mer sur proposition de l'inspecteur général de l'enseignement maritime en ce qui concerne les professeurs de l'enseignement maritime, les professeurs techniques de l'enseignement maritime, les professeurs chargés de cours dans les écoles nationales de la marine marchande, les officiers de marine et les ingénieurs de la Météorologie nationale ;
 
-- par les directeurs régionaux des affaires maritimes en ce qui concerne les administrateurs des affaires maritimes, les médecins des gens de mer et les officiers brevetés de la marine marchande.
+- par les directeurs régionaux des affaires maritimes ou le chef du service des affaires maritimes dans les territoires d'outre-mer et à Saint-Pierre-et-Miquelon en ce qui concerne les officiers ou les cadres A des affaires maritimes, les médecins des gens de mer et les officiers brevetés de la marine marchande.

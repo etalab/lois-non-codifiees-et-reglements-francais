@@ -1,101 +1,95 @@
 # Article 11
 
-Composition des commissions spéciales
+Composition des commissions spéciales :
 
-Le président et les membres de ces commissions, sauf dispositions contraires prévues ci-après, sont désignés par le directeur régional des affaires maritimes concerné.
+Le président et les membres de ces commissions, sauf dispositions contraires prévues ci-après, sont désignés par le directeur régional des affaires maritimes concerné ou le chef du service des affaires maritimes dans les territoires d'outre-mer et à Saint-Pierre-et-Miquelon ;
 
-a)  Commission pour l'obtention du brevet de lieutenant de pêche.
+Le directeur régional des affaires maritimes peut déléguer au directeur départemental des affaires maritimes la nomination du président et des membres des commissions pour l'obtention du certificat de capacité, du brevet de patron de petite navigation, du permis de conduire les moteurs, du permis de conduire les moteurs marins (250 kW), du certificat d'aptitude à la conduite des moteurs des navires conchylicoles.
 
-Président : un professeur de l'enseignement maritime.
+a) Commissions pour l'obtention du brevet de lieutenant de pêche et du brevet de patron de pêche :
+
+Président :
+
+- un professeur de l'enseignement maritime ou, pour les territoires d'outre-mer et à Saint-Pierre-et-Miquelon, un officier ou un cadre A des affaires maritimes.
 
 Membres :
 
-- un ou deux professeurs de l'enseignement maritime ;
+- des professeurs de l'enseignement maritime ou des professeurs techniques de l'enseignement maritime ou, pour les territoires d'outre-mer et à Saint-Pierre-et-Miquelon, des fonctionnaires qualifiés relevant du ministre chargé de la mer ;
 
-- un administrateur des affaires maritimes ou un officier du corps technique et administratif des affaires maritimes ou un inspecteur des affaires maritimes ;
+- un officier ou un cadre A des affaires maritimes ;
 
-- un professeur technique des écoles nationales de la marine marchande ou un professeur technique de l'enseignement maritime ;
+- un capitaine de pêche ou un patron de pêche.
 
-- un patron de pêche.
+Des examinateurs supplémentaires peuvent être adjoints à la commission en cas de besoin.
 
-Les professeurs de l'enseignement maritime et le professeur technique sont désignés par le ministre chargé de la marine marchande pour la durée de l'année scolaire sur proposition de l'inspecteur général de l'enseignement maritime.
+Les professeurs de l'enseignement maritime et les professeurs techniques de l'enseignement maritime sont désignés par le ministre chargé de la mer, sur proposition de l'inspecteur général de l'enseignement maritime.
 
-b) Commission pour l'obtention du brevet de patron de pêche.
+Les officiers de la marine marchande doivent être en activité de service ou avoir cessé leur activité depuis moins de cinq ans.
 
-Président
+b) Commissions pour l'obtention du certificat de motoriste à la pêche, du diplôme de mécanicien 750 kW et du brevet de chef de quart de navigation côtière :
 
-Un professeur de l'enseignement maritime.
+Président :
 
-Membres
+- un professeur de l'enseignement maritime ou, pour les territoires d'outre-mer et à Saint-Pierre-et-Miquelon, un officier ou un cadre A des affaires maritimes.
 
-Un ou plusieurs professeurs de l'enseignement maritime ;
+Membres :
 
-Un administrateur des affaires maritimes ;
+- un professeur de l'enseignement maritime ou un professeur technique de l'enseignement maritime ou, pour les territoires d'outre-mer et à Saint-Pierre-et-Miquelon, un fonctionnaire qualifié relevant du ministre chargé de la mer ;
 
-Un médecin des gens de mer ;
+- un officier ou un cadre A des affaires maritimes ;
 
-Un inspecteur des affaires maritimes ou un officier du corps technique et administratif des affaires maritimes ou un technicien expert des services de sécurité de la navigation maritime ;
+- un officier de la marine marchande titulaire d'un brevet de commandement pour des navires d'une jauge brute supérieure ou égale à 500 UMS ou un officier de la marine marchande titulaire d'un brevet de chef mécanicien pour des navires d'une puissance propulsive supérieure ou égale à 750 kW.
 
-Un patron de pêche.
+Des examinateurs supplémentaires peuvent être adjoints à la commission en cas de besoin.
 
-Des examinateurs supplémentaires sont adjoints à la commission en cas de besoin.
+Les professeurs de l'enseignement maritime et le professeur technique de l'enseignement maritime sont désignés par le ministre chargé de la mer, sur proposition de l'inspecteur général de l'enseignement maritime.
 
-Les professeurs de l'enseignement maritime sont désignés par le ministre chargé de la marine marchande, sur proposition de l'inspecteur général de l'enseignement maritime.
+L'officier de la marine marchande doit être en activité de service ou avoir cessé son activité depuis moins de cinq ans.
 
-c) Commission pour l'obtention du certificat de motoriste à la pêche.
+c) Commissions pour l'obtention du certificat de capacité, du brevet de patron de petite navigation, du permis de conduire les moteurs, du permis de conduire les moteurs marins (250 kW), du certificat d'aptitude à la conduite des moteurs des navires conchylicoles.
 
-Président
+Un président et deux membres au moins choisis parmi :
 
-Un professeur de l'enseignement maritime.
+- des professeurs de l'enseignement maritime ;
 
-Membres
+- des professeurs techniques de l'enseignement maritime ;
 
-Un administrateur des affaires maritimes ;
+- des officiers ou des cadres A des affaires maritimes ;
 
-Un inspecteur des affaires maritimes ou officiers du corps technique et administratif des affaires maritimes ou techniciens experts des services de sécurité de la navigation maritime.
+- des personnes qualifiées choisies parmi les officiers de la marine marchande (commerce ou pêche).
 
-Un professeur technique des écoles nationales de la marine marchande ou un professeur technique de l'enseignement maritimes;
+Le président de cette commission ne pourra être choisi parmi les personnes qualifiées.
 
-Le président de la commission et le professeur technique sont désignés chaque année par le ministre chargé de la marine marchande, sur proposition de l'inspecteur général de l'enseignement maritime.
+d) Commission pour l'obtention du certificat spécial d'opérateur et du certificat général d'opérateur :
 
-d) Commission pour l'obtention du certificat de capacité.
+Président :
 
-Président
+- un professeur de l'enseignement maritime, ou un professeur technique de l'enseignement maritime.
 
-Un administrateur des affaires maritimes.
+Membre :
 
-Membres
+- un professeur de l'enseignement maritime ou un professeur technique de l'enseignement maritime ou un officier ou un cadre A des affaires maritimes ou une personne qualifiée.
 
-Un inspecteur des affaires maritimes ou un officier du corps technique et administratif des affaires maritimes ou un technicien expert des services de sécurité de la navigation maritime ;
+e) Commission pour l'obtention du certificat restreint d'opérateur :
 
-Un officier de la marine marchande titulaire d'un brevet de commandement ;
-
-Un patron de pêche.
-
-L'officier de la marine marchande et le patron de pêche sont chargés de faire passer les épreuves d'application à la mer et doivent être en activité de service.
-
-e) Commission pour l'obtention du permis de conduire les moteurs et commission pour l'obtention du certificat d'aptitude à la conduite des moteurs des navires conchylicoles.
-
-Président un officier du corps technique et administratif des affaires maritimes ou un inspecteur des affaires maritimes.
-
-Membre : un technicien expert des services de sécurité de la navigation  maritime ou un officier breveté de la marine marchande.
-
-Le président et le membre sont désignés par le chef du quartier des affaires maritimes concerné.
+- un professeur de l'enseignement maritime ou un professeur technique de l'enseignement maritime ou, le cas échéant, un agent de l'Etat qualifié.
 
 f) Commission pour l'obtention du certificat restreint de radiotéléphoniste :
 
-Une personne qualifiée désignée par le ministre chargé des transports ou son délégataire.
+- une personne qualifiée désignée par le ministre chargé de la mer ou son délégataire.
 
-g) Commission pour l'obtention du certificat restreint d'opérateur :
+g) Commission pour l'obtention de la mention capitaine de yacht :
 
-Un professeur de l'enseignement maritime ou un professeur technique de l'enseignement maritime ou, à défaut, devant un agent de l'Etat qualifié désigné par le chef du service des affaires maritimes.
+Président :
 
-h) Commission pour l'obtention du certificat spécial d'opérateur et du certificat général d'opérateur :
+- le directeur de l'Ecole nationale de la marine marchande de Saint-Malo, ou un professeur de l'enseignement maritime le représentant.
 
-Président
+Membres :
 
-Un professeur de l'enseignement maritime ou un professeur technique de l'enseignement maritime.
+- trois personnes qualifiées ;
 
-Membre
+- un représentant du Conseil supérieur de la navigation de plaisance et des sports nautiques.
 
-Un professeur de l'enseignement maritime, ou un professeur technique de l'enseignement maritime, ou un administrateur des affaires maritimes, ou un inspecteur des affaires maritimes, ou un officier du corps technique et administratif des affaires maritimes, ou une personnalité qualifiée.
+Les personnes qualifiées sont désignées par le directeur régional des affaires maritimes, sur proposition de l'inspecteur général de l'enseignement maritime.
+
+Le représentant du Conseil supérieur de la navigation de plaisance et des sports nautiques et, le cas échéant, le professeur de l'enseignement maritime représentant le directeur de l'Ecole nationale de la marine marchande de Saint-Malo sont nommés par le ministre chargé de la mer, sur proposition de l'inspecteur général de l'enseignement maritime.
