@@ -1,0 +1,3 @@
+# Article 1
+
+Dans les divers décrets pris pour l'application de l'article L. 212-1 du code du travail sur la semaine de quarante heures, à l'exception du décret du 16 juin 1937 modifié concernant les débits de boissons, hôtels, cafés et restaurants, les temps de service effectués au titre de la prolongation permanente en raison du caractère intermittent du travail, ainsi que les durées de présence hebdomadaire considérées, pour certaines professions ou pour certains emplois comme correspondant à quarante heures de travail effectif, tels qu'ils résultent du décret n. 78-1355 du 12 décembre 1978, sont uniformément réduits d'une heure.

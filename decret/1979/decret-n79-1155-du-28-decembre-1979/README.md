@@ -1,0 +1,3 @@
+# Décret n°79-1155 du 28 décembre 1979 RELATIF A LA REDUCTION DES EQUIVALENCES EN MATIERE DE DUREE DU TRAVAIL.
+
+- [Article 1](article-1.md)

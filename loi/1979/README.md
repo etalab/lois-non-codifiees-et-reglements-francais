@@ -4,6 +4,8 @@
 - [Loi n° 79-1129 du 28 décembre 1979](loi-n-79-1129-du-28-decembre-1979)
 - [Loi n° 79-1130 du 28 décembre 1979](loi-n-79-1130-du-28-decembre-1979)
 - [Loi n° 79-1132 du 28 décembre 1979](loi-n-79-1132-du-28-decembre-1979)
+- [Loi n° 79-1140 du 29 décembre 1979](loi-n-79-1140-du-29-decembre-1979)
+- [Loi n° 79-1149 du 29 décembre 1979](loi-n-79-1149-du-29-decembre-1979)
 - [Loi n° 79-525 du 3 juillet 1979](loi-n-79-525-du-3-juillet-1979)
 - [Loi n° 79-575 du 10 juillet 1979](loi-n-79-575-du-10-juillet-1979)
 - [Loi n° 79-587 du 11 juillet 1979](loi-n-79-587-du-11-juillet-1979)
