@@ -1,10 +1,26 @@
 # Article 12
 
-I. - Concours externe sur titres et travaux.
+I. - Concours externe sur titres et travaux
 
-Le jury national désigne, en son sein, les personnalités qualifiées pour procéder à l'examen individuel des dossiers de candidature devant comprendre les études et travaux personnels, dans la spécialité choisie.
+A. - Phase d'admissibilité
 
-Sur la base des propositions formulées, le jury national attribue à chaque dossier une note de 0 à 20 (toute note inférieure à 8 sur 20 est éliminatoire) et établit la liste des candidats définitivement retenus, par ordre de mérite, ainsi qu'une liste complémentaire.
+Le jury national désigne, en son sein, les personnalités qualifiées pour procéder à l'examen des dossiers de candidature devant comprendre, outre les pièces demandées à l'article 5 (5°, I) dudit arrêté, les études et travaux personnels en rapport avec le profil de poste dans la spécialité choisie.
+
+Le jury attribue à chaque dossier une note de 0 à 20 (toute note inférieure à 8 sur 20 est éliminatoire) et établit une liste par ordre alphabétique des candidats déclarés admissibles.
+
+La note obtenue par les candidats admissibles n'est pas prise en compte au niveau de l'admission.
+
+B. - Phase d'admission
+
+Entretien avec le jury portant sur les études et travaux personnels dans la spécialité choisie, permettant d'évaluer les qualités de réflexion du candidat, ses connaissances ainsi que son aptitude à exercer les fonctions postulées.
+
+(Durée : quarante minutes.)
+
+Le candidat pourra recourir, s'il le souhaite, à l'utilisation de transparents, à l'exclusion de tout autre support.
+
+La présence du psychologue est obligatoire durant cette épreuve.
+
+Le jury attribue à chaque candidat une note de 0 à 20 et établit la liste des candidats définitivement retenus, par ordre de mérite, ainsi qu'une liste complémentaire le cas échéant.
 
 II. - Concours interne
 
@@ -42,9 +58,7 @@ Il permettra d'apprécier :
 
 (Préparation : trente minutes ; durée : trente minutes ; coefficient 3, note inférieure à 5 sur 20 éliminatoire.)
 
-III. - Concours réservé aux candidats
-
-ayant une expérience professionnelle
+III. - Concours réservé aux candidats ayant une expérience professionnelle
 
 A. - Epreuves d'admissibilité
 
