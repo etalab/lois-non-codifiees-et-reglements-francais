@@ -18,4 +18,4 @@ Si la consolidation de la blessure résultant de l'accident du travail ayant né
 
 Dans les cas prévus aux deux alinéas qui précèdent, la rémunération à prendre en considération pour le calcul de la rente est celle des douze mois antérieurs à l'arrêt de travail consécutif à l'accident du travail ayant nécessité la réadaptation ; elle est déterminée conformément aux dispositions des articles 103 et 108 du présent décret.
 
-Toutefois, si cette rémunération est inférieure au salaire minimum de la catégorie [*montant*] de l'échelon ou de l'emploi qualifié dans laquelle ou lequel la victime aurait, normalement, été classée à la suite du traitement spécial, c'est ce salaire qui est pris en considération.
+Toutefois, dans le cas où la rémunération ainsi calculée est inférieure au salaire mentionné à l'article 7-1 du présent décret, c'est ce salaire qui est pris en considération.

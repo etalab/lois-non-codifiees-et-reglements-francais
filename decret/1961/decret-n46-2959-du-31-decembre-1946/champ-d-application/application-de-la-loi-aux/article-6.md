@@ -14,4 +14,4 @@ La rémunération à prendre en considération pour le calcul tant des cotisatio
 
 Perçue par l'assuré au cours de la dernière période de travail normal antérieure à l'affection indemnisée au titre des assurances sociales pour les bénéficiaires de l'article 30 de l'ordonnance du 19 octobre 1945 modifiée ; qui a servi de base au calcul de la pension d'invalidité pour les titulaires d'une telle pension.
 
-Toutefois, dans le cas où la rémunération ainsi calculée est inférieure au salaire minimum de la catégorie, de l'échelon ou de l'emploi qualifié dans laquelle ou lequel la victime aurait normalement été classée à la suite de la réadaptation fonctionnelle ou de la rééducation professionnelle, c'est ce salaire qui est pris en considération.
+Toutefois, dans le cas où la rémunération ainsi calculée est inférieure au salaire mentionné à l'article 7-1 du présent décret, c'est ce salaire qui est pris en considération.
