@@ -319,7 +319,6 @@
 - [Arrêté du 10 juillet 2002 (EQUP0201209A)](arrete-du-10-juillet-2002-equp0201209a)
 - [Arrêté du 10 juillet 2002 (EQUP0201210A)](arrete-du-10-juillet-2002-equp0201210a)
 - [Arrêté du 10 octobre 2001 (MESG0123437A)](arrete-du-10-octobre-2001-mesg0123437a)
-- [Arrêté du 10 octobre 2002 (AGRB0202263A)](arrete-du-10-octobre-2002-agrb0202263a)
 - [Arrêté du 10 septembre 2001 (AGRG0101761A)](arrete-du-10-septembre-2001-agrg0101761a)
 - [Arrêté du 10 septembre 2002 (SANH0222753A)](arrete-du-10-septembre-2002-sanh0222753a)
 - [Arrêté du 11 avril 2001 (AGRX0100838A)](arrete-du-11-avril-2001-agrx0100838a)
