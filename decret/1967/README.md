@@ -68,6 +68,7 @@
 - [Décret n° 59-951 du 31 juillet 1959](decret-n-59-951-du-31-juillet-1959)
 - [Décret n°66-1067 du 31 décembre 1966](decret-n66-1067-du-31-decembre-1966)
 - [Décret n°66-1078 du 31 décembre 1966](decret-n66-1078-du-31-decembre-1966)
+- [Décret n°67-100 du 31 janvier 1967](decret-n67-100-du-31-janvier-1967)
 - [Décret n°67-295 du 31 mars 1967](decret-n67-295-du-31-mars-1967)
 - [Décret n°67-315 du 31 mars 1967](decret-n67-315-du-31-mars-1967)
 - [Décret n°67-328 du 31 mars 1967](decret-n67-328-du-31-mars-1967)
