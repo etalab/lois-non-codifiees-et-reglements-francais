@@ -8,7 +8,7 @@ Est puni de la peine d'amende prévue pour les contraventions de la 3e classe :
 
 3° Le fait d'avoir contrevenu aux dispositions de l'article 11 en procédant, sans autorisation du préfet, à la collecte de juvéniles en zone D.
 
-4° Le fait d'avoir contrevenu aux dispositions de l'article 12 en procédant au transport de coquillages sans établissement d'un bon de transport.
+4° Le fait de procéder au transfert ou au transport de coquillages sans établir ou détenir le bon de transport répondant aux conditions définies au premier alinéa de l'article 12 ou le fait de ne pas conserver ce bon de transport ou l'autorisation permanente de transport selon les modalités fixées aux deuxième et troisième alinéas du même article.
 
 5° Le fait d'avoir contrevenu aux dispositions de l'article 16 en procédant aux opérations de reparcage, sans y être autorisé par le préfet ou sans respecter les conditions fixées par le préfet.
 
