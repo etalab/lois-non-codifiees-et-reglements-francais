@@ -1043,7 +1043,6 @@
 - [Arrêté du 29 décembre 1998 (MESF9811339A)](arrete-du-29-decembre-1998-mesf9811339a)
 - [Arrêté du 29 décembre 1998 (MESH9823593A)](arrete-du-29-decembre-1998-mesh9823593a)
 - [Arrêté du 29 décembre 1998 (MESS9823864A)](arrete-du-29-decembre-1998-mess9823864a)
-- [Arrêté du 29 décembre 1998 (MESS9824020A)](arrete-du-29-decembre-1998-mess9824020a)
 - [Arrêté du 29 janvier 1998 (ECOI9800068A)](arrete-du-29-janvier-1998-ecoi9800068a)
 - [Arrêté du 29 janvier 1998 (ECOI9800107A)](arrete-du-29-janvier-1998-ecoi9800107a)
 - [Arrêté du 29 juillet 1998 (AGRA9800871A)](arrete-du-29-juillet-1998-agra9800871a)
