@@ -10,4 +10,4 @@ Elles procèdent à cette consultation pour :
 
 2° Communiquer le numéro d'inscription au répertoire des allocataires aux organismes de sécurité sociale pour garantir leurs droits sociaux et aux organismes de retraite complémentaire pour leur permettre de valider les périodes de chômage indemnisé ;
 
-3° Communiquer par le traitement automatisé dénommé Liaisons informatisées pour le contrôle de la recherche de l'emploi (L.I.C.R.E.) le numéro d'inscription au répertoire des demandeurs d'emplois indemnisés aux directeurs départementaux du travail et de l'emploi pour l'application des articles L. 351-16 et suivants et R. 351-27 et suivants du code du travail.
+3° Communiquer par traitement automatisé pour le contrôle de la recherche d'emploi, y compris la détection des situations de fraude, le numéro d'inscription au répertoire des demandeurs d'emploi indemnisés aux directeurs départementaux du travail, de l'emploi et de la formation professionnelle pour l'application des articles L. 351-16 et suivants et R. 351-27 et suivants du code du travail.
