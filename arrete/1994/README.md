@@ -200,7 +200,6 @@
 - [Arrêté du 6 mai 1994 (SPSP9401408A)](arrete-du-6-mai-1994-spsp9401408a)
 - [Arrêté du 7 août 1986](arrete-du-7-aout-1986)
 - [Arrêté du 7 août 1990 (SPSP9001698A)](arrete-du-7-aout-1990-spsp9001698a)
-- [Arrêté du 7 août 1990 (SPSP9001699A)](arrete-du-7-aout-1990-spsp9001699a)
 - [Arrêté du 7 avril 1994 (ECOC9400030A)](arrete-du-7-avril-1994-ecoc9400030a)
 - [Arrêté du 7 décembre 1994 (BUDR9405027A)](arrete-du-7-decembre-1994-budr9405027a)
 - [Arrêté du 7 décembre 1994 (RESK9401858A)](arrete-du-7-decembre-1994-resk9401858a)
