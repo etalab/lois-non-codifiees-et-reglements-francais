@@ -1,0 +1,3 @@
+# Article 2
+
+Il est attribué pour chacune des épreuves d'admissibilité une note variant de 0 à 20. Sont autorisés à se présenter aux épreuves d'admission les candidats ayant obtenu pour l'ensemble des épreuves d'admissibilité un nombre de points minimum déterminé par le jury et qui ne peut être inférieur à 60, après application des coefficients, et, pour ces épreuves, une note au moins égale à 8 sur 20 avant application des coefficients, exception faite pour l'épreuve de mathématiques du concours interne pour laquelle une note égale au moins à 6 sur 20 avant application des coefficients est requise.
