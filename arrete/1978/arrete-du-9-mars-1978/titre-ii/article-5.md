@@ -4,4 +4,4 @@ La formation en vue du diplôme d'Etat de docteur en chirurgie dentaire délivr�
 
 Toutefois les enseignements de première année sont donnés dans les conditions prévues pour la première année du premier cycle des études médicales.
 
-L'enseignement clinique et les stages hospitaliers sont assurés dans les services de consultation et de traitement dentaires. Des stages hospitaliers peuvent être également effectués dans les services du ou des centres hospitaliers régionaux faisant partie du centre hospitalier et universitaire ou dans les services d'autres établissements hospitaliers publics ou privés à but non lucratif ayant passé convention à cet effet avec le centre hospitalier régional et l'unité de formation et de recherche odontologique.
+L'enseignement clinique et les stages hospitaliers sont assurés dans les services de consultation et de traitement dentaires et éventuellement dans des services de médecine, de chirurgie et de spécialité habilités par le conseil de l'unité d'enseignement et de recherche.

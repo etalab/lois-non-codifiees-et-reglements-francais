@@ -1,18 +1,9 @@
-# Arrêté du 9 mars 1978 relatif aux rémunérations et différents avantages sociaux des praticiens conseils chargés du service de contrôle médical du régime d'assurance maladie et maternité des travailleurs non-salariés des professions non-agricoles
+# Arrêté du 9 mars 1978 relatif aux études en vue du diplôme d'Etat de docteur en chirurgie dentaire
 
-- [Article 1](article-1.md)
 - [Titre Ier : Dispositions générales](titre-ier)
-- [Article 2](article-2.md)
 - [Titre II : De la formation](titre-ii)
-- [Article 3](article-3.md)
 - [Titre III : Du contrôle des aptitudes et des connaissances](titre-iii)
-- [Article 4](article-4.md)
 - [Titre IV : De la thèse](titre-iv)
-- [Article 5](article-5.md)
 - [Titre V : Dispositions diverses](titre-v)
-- [Article 6](article-6.md)
-- [Article 7](article-7.md)
-- [Article 8](article-8.md)
-- [Article 9](article-9.md)
 - [Article 18](article-18.md)
 - [Annexes](annexes)

@@ -9,4 +9,8 @@
 - [Décret n°78-346 du 15 mars 1978](decret-n78-346-du-15-mars-1978)
 - [Décret n°75-1197 du 16 décembre 1975](decret-n75-1197-du-16-decembre-1975)
 - [Décret n°78-356 du 17 mars 1978](decret-n78-356-du-17-mars-1978)
+- [Décret n°78-372 du 17 mars 1978](decret-n78-372-du-17-mars-1978)
+- [Décret n°78-373 du 17 mars 1978](decret-n78-373-du-17-mars-1978)
+- [Décret n°78-376 du 17 mars 1978](decret-n78-376-du-17-mars-1978)
+- [Décret n°78-353 du 20 mars 1978](decret-n78-353-du-20-mars-1978)
 - [Décret n°77-1549 du 31 décembre 1977](decret-n77-1549-du-31-decembre-1977)
