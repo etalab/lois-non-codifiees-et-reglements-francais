@@ -1,5 +1,6 @@
-# Arrêté du 6 mars 1984 relatif au droit d'inscription à l'examen du permis de chasser
+# Arrêté du 6 mars 1984 du 6 mars 1984 relatif au droit d'inscription à l'examen du permis de chasser.
 
+- [Article 3](article-3.md)
 - [Article 4](article-4.md)
 - [Article 5](article-5.md)
 - [Article 6](article-6.md)
