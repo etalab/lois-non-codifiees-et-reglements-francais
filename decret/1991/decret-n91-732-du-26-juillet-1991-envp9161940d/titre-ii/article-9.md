@@ -2,7 +2,7 @@
 
 Le conseil d'administration règle par ses délibérations les affaires de l'agence. Ses délibérations portent notamment sur les objets suivants :
 
-a) L'organisation générale de l'agence et notamment la liste des emplois de direction ;
+a) L'organisation générale de l'agence;
 
 b) Le programme d'activité de l'agence ;
 
@@ -16,7 +16,7 @@ f) La détermination et l'affectation des résultats ;
 
 g) Les prises, extensions ou cessions de participations financières ;
 
-h) L'approbation des projets de construction, d'achat ou de vente d'immeubles, constitutions d'hypothèques ou de droits réels, projets de baux et locations d'immeubles ;
+" h) L'approbation des projets de construction, d'achat ou de vente d'immeubles, de constitution d'hypothèques ou de droits réels, des projets de baux et locations d'immeubles dont la durée est supérieure à trois ans ; "
 
 i) Le régime des contrats et conventions passés par l'agence ;
 

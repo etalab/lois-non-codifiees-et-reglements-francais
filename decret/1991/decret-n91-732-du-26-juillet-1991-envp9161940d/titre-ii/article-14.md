@@ -8,4 +8,4 @@ Le conseil scientifique est consulté sur les programmes d'études et de recherc
 
 Ses avis sont communiqués au conseil d'administration et aux ministres chargés de l'énergie, de l'environnement et de la recherche.
 
-Chaque année, un rapport, préparé par le directeur scientifique, sur l'état des connaissances scientifiques et techniques lui est soumis en même temps que le rapport d'activité prévu à l'article 11 ci-dessus.
+Chaque année, un rapport, préparé par le directeur scientifique, sur l'état des connaissances scientifiques et techniques lui est soumis en même temps que le rapport d'activité prévu au d de l'article 9 ci-dessus.
