@@ -13,3 +13,5 @@ Le premier grade est divisé en onze échelons ; le deuxième grade comporte deu
 2° La hors-classe divisée en sept échelons.
 
 Le nombre des emplois de professeurs de lycée professionnel agricole du deuxième grade hors classe ne peut excéder 15 p. 100 de l'effectif budgétaire de la classe normale.
+
+Les membres de ce corps ont vocation à servir, en position normale d'activité, dans les établissements d'enseignement agricole publics relevant du ministre chargé de l'agriculture ainsi que dans les établissements visés à l'article 1er du décret n° 85-1242 du 25 novembre 1985 relatif aux établissements publics locaux d'enseignement relevant du ministre chargé de la mer.
