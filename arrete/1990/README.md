@@ -109,6 +109,7 @@
 - [Arrêté du 20 décembre 1989 (SPSH8902800A)](arrete-du-20-decembre-1989-spsh8902800a)
 - [Arrêté du 20 décembre 1989 (SPSH8902801A)](arrete-du-20-decembre-1989-spsh8902801a)
 - [Arrêté du 20 décembre 1989 (SPSH8902802A)](arrete-du-20-decembre-1989-spsh8902802a)
+- [Arrêté du 20 février 1990 (SPSS9000406A)](arrete-du-20-fevrier-1990-spss9000406a)
 - [Arrêté du 21 décembre 1989 (DEFD8902215A)](arrete-du-21-decembre-1989-defd8902215a)
 - [Arrêté du 21 décembre 1989 (ECOT8920128A)](arrete-du-21-decembre-1989-ecot8920128a)
 - [Arrêté du 21 décembre 1989 (EQUS8901462A)](arrete-du-21-decembre-1989-equs8901462a)
