@@ -5,7 +5,6 @@
 - [Décret n°57-759 du 6 juillet 1957](decret-n57-759-du-6-juillet-1957)
 - [Décret n°57-559 du 7 mai 1957](decret-n57-559-du-7-mai-1957)
 - [Décret n°57-281 du 9 mars 1957](decret-n57-281-du-9-mars-1957)
-- [Décret n°57-288 du 9 mars 1957](decret-n57-288-du-9-mars-1957)
 - [Décret n°57-44 du 15 janvier 1957](decret-n57-44-du-15-janvier-1957)
 - [Décret n°57-788 du 15 juillet 1957](decret-n57-788-du-15-juillet-1957)
 - [Décret n°57-1019 du 19 septembre 1957](decret-n57-1019-du-19-septembre-1957)
