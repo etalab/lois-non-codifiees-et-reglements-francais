@@ -1,3 +1,3 @@
 # Article 4
 
-L'indemnité est versée trimestriellement aux intéressés.
+L'indemnité est versée mensuellement aux intéressés.

@@ -1,5 +1,5 @@
 # Article 3
 
-L'indemnité prévue à l'article 1er du présent décret est versée mensuellement à ses bénéficiaires.
+L'indemnité est versée mensuellement aux intéressés.
 
 Le versement de l'indemnité suit les mêmes règles que celles applicables pour le calcul du traitement principal.
