@@ -1,0 +1,3 @@
+# Article 40
+
+Les fonctionnaires des corps de fonctionnaires de l'Etat créés pour l'administration de Saint-Pierre-et-Miquelon, en application de la loi n° 74-640 du 12 juillet 1974 relative à la création de corps de fonctionnaires de l'Etat pour l'administration de Saint-Pierre-et-Miquelon, sont intégrés dans les corps métropolitains correspondants de l'Etat, dans les conditions fixées par des décrets en Conseil d'Etat. Sauf option contraire des intéressés dans un délai d'un an à compter de la publication des décrets précités, ces intégrations prennent effet à l'entrée en vigueur de la présente loi.    Sous réserve des dispositions de l'alinéa précédent, les fonctionnaires de l'Etat conservent leur statut.
