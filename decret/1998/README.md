@@ -600,7 +600,6 @@
 - [Décret n°98-718 du 19 août 1998 (MESS9822506D)](decret-n98-718-du-19-aout-1998-mess9822506d)
 - [Décret n°98-724 du 19 août 1998 (AGRA9801287D)](decret-n98-724-du-19-aout-1998-agra9801287d)
 - [Décret n°98-727 du 19 août 1998 (MESS9822315D)](decret-n98-727-du-19-aout-1998-mess9822315d)
-- [Décret n°98-940 du 19 octobre 1998 (ECOC9800038D)](decret-n98-940-du-19-octobre-1998-ecoc9800038d)
 - [Décret n°98-949 du 19 octobre 1998 (ATEN9860079D)](decret-n98-949-du-19-octobre-1998-aten9860079d)
 - [Décret n°98-387 du 19 mai 1998 (MCCB9800220D)](decret-n98-387-du-19-mai-1998-mccb9800220d)
 - [Décret n°98-390 du 19 mai 1998 (ECOC9700236D)](decret-n98-390-du-19-mai-1998-ecoc9700236d)
