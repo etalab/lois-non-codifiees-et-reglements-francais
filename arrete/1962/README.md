@@ -11,6 +11,7 @@
 - [Arrêté du 9 novembre 1962](arrete-du-9-novembre-1962)
 - [Arrêté du 10 janvier 1962](arrete-du-10-janvier-1962)
 - [Arrêté du 10 mars 1962](arrete-du-10-mars-1962)
+- [Arrêté du 11 décembre 1962](arrete-du-11-decembre-1962)
 - [Arrêté du 11 mai 1962](arrete-du-11-mai-1962)
 - [Arrêté du 12 juillet 1962](arrete-du-12-juillet-1962)
 - [Arrêté du 12 septembre 1963](arrete-du-12-septembre-1963)
