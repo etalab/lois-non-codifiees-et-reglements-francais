@@ -405,7 +405,6 @@
 - [Arrêté du 11 juin 1992 (JUSF9250025A)](arrete-du-11-juin-1992-jusf9250025a)
 - [Arrêté du 11 juin 1992 (LOGC9200020A)](arrete-du-11-juin-1992-logc9200020a)
 - [Arrêté du 11 juin 1992 (LOGC9200021A)](arrete-du-11-juin-1992-logc9200021a)
-- [Arrêté du 11 juin 1992 (PTTR9200272A)](arrete-du-11-juin-1992-pttr9200272a)
 - [Arrêté du 11 juin 1992 (PTTR9200274A)](arrete-du-11-juin-1992-pttr9200274a)
 - [Arrêté du 11 juin 1992 (PTTR9200275A)](arrete-du-11-juin-1992-pttr9200275a)
 - [Arrêté du 11 juin 1992 (SPSS9201422A)](arrete-du-11-juin-1992-spss9201422a)
