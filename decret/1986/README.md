@@ -400,7 +400,6 @@
 - [Décret n°85-1133 du 22 octobre 1985](decret-n85-1133-du-22-octobre-1985)
 - [Décret n°86-1301 du 22 décembre 1986](decret-n86-1301-du-22-decembre-1986)
 - [Décret n°85-1385 du 23 décembre 1985](decret-n85-1385-du-23-decembre-1985)
-- [Décret n°86-100 du 23 janvier 1986](decret-n86-100-du-23-janvier-1986)
 - [Décret n°86-1054 du 23 septembre 1986](decret-n86-1054-du-23-septembre-1986)
 - [Décret n°86-1055 du 23 septembre 1986](decret-n86-1055-du-23-septembre-1986)
 - [Décret n°86-109 du 23 janvier 1986](decret-n86-109-du-23-janvier-1986)
