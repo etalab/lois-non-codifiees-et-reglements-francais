@@ -33,3 +33,5 @@ En ce qui concerne les oeuvres cinématographiques de courte durée, ce soutien 
 II bis. - A accorder des avances et des subventions aux entreprises de distribution qui assument la distribution d'oeuvres cinématographiques de longue durée de qualité, d'origine française ou étrangère.
 
 III - A garantir des prêts consentis par des établissements de crédit tant aux producteurs de films qu'aux exploitants de théatres cinématographiques ainsi qu'aux entreprises ressortissant à la catégorie des industries techniques du cinéma.
+
+IV. - A accorder des avances en vue de contribuer au financement de la production d'oeuvres cinématographiques de longue durée.
