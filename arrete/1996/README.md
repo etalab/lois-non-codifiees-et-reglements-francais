@@ -354,7 +354,6 @@
 - [Arrêté du 10 octobre 1996 (EQUS9601372A)](arrete-du-10-octobre-1996-equs9601372a)
 - [Arrêté du 10 octobre 1996 (EQUS9601430A)](arrete-du-10-octobre-1996-equs9601430a)
 - [Arrêté du 10 septembre 1996 (AGRA9601946A)](arrete-du-10-septembre-1996-agra9601946a)
-- [Arrêté du 10 septembre 1996 (AGRG9601760A)](arrete-du-10-septembre-1996-agrg9601760a)
 - [Arrêté du 10 septembre 1996 (AGRG9601761A)](arrete-du-10-septembre-1996-agrg9601761a)
 - [Arrêté du 10 septembre 1996 (AGRG9601762A)](arrete-du-10-septembre-1996-agrg9601762a)
 - [Arrêté du 10 septembre 1996 (AGRG9601935A)](arrete-du-10-septembre-1996-agrg9601935a)
