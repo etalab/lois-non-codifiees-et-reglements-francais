@@ -1,0 +1,3 @@
+# Article 7
+
+Le comité national de gestion établit le dossier type de demande d'aide ainsi qu'un modèle type de convention à passer avec les bénéficiaires des aides. Cette convention précise les pièces justificatives à produire pour obtenir le versement de l'aide ainsi que les pièces nécessaires au suivi de la consommation des crédits ; ces dernières sont transmises au comité national de gestion du fonds par le bénéficiaire de l'aide à l'issue de chaque exercice budgétaire. La convention type prévoit également les conditions dans lesquelles le remboursement de l'aide consentie peut intervenir en cas de non-respect des engagements pris par le ou les professionnels signataires. L'aide consentie peut être fractionnée et donner lieu à des versements d'acomptes.
