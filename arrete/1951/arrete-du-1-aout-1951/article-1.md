@@ -1,0 +1,3 @@
+# Article 1
+
+Des indemnités horaires pour travaux supplémentaires pourront être accordées, à compter du 1er janvier 1950 et dans les conditions ci-après déterminées, aux fonctionnaires ou agents titulaires, auxiliaires et contractuels des collectivités locales ayant dépassé, dans l'accomplissement de leur tâche, la durée réglementaire du travail qui est égale à quarante-huit heures pour le personnel de service et quarante-cinq heures pour les autres catégories de personnel, étant entendu, toutefois, qu'il n'est en rien dérogé aux prescriptions du décret du 22 mars 1937 en ce qui concerne le personnel des établissements publics d'hospitalisation, de soins ou de cure.
