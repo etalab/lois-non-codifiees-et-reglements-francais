@@ -15,6 +15,7 @@
 - [Décret n°59-1293 du 13 novembre 1959](decret-n59-1293-du-13-novembre-1959)
 - [Décret du 14 octobre 1959](decret-du-14-octobre-1959)
 - [Décret n°59-998 du 14 août 1959](decret-n59-998-du-14-aout-1959)
+- [Décret n°59-733 du 16 juin 1959](decret-n59-733-du-16-juin-1959)
 - [Décret n°59-1313 du 18 novembre 1959](decret-n59-1313-du-18-novembre-1959)
 - [Décret n°59-1422 du 18 décembre 1959](decret-n59-1422-du-18-decembre-1959)
 - [Décret n°59-1423 du 18 décembre 1959](decret-n59-1423-du-18-decembre-1959)
