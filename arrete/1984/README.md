@@ -158,7 +158,6 @@
 - [Arrêté du 28 août 1984](arrete-du-28-aout-1984)
 - [Arrêté du 28 décembre 1983](arrete-du-28-decembre-1983)
 - [Arrêté du 28 décembre 1984](arrete-du-28-decembre-1984)
-- [Arrêté du 28 février 1984](arrete-du-28-fevrier-1984)
 - [Arrêté du 28 janvier 1984](arrete-du-28-janvier-1984)
 - [Arrêté du 28 juin 1984](arrete-du-28-juin-1984)
 - [Arrêté du 28 novembre 1984](arrete-du-28-novembre-1984)
