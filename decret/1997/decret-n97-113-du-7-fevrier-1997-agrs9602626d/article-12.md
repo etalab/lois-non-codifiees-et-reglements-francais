@@ -1,0 +1,3 @@
+# Article 12
+
+Les dispositions de l'article 7 du chapitre II du décret du 20 mars 1978 susvisé et de l'article 16 du décret du 14 mars 1986 susvisé demeurent applicables.
