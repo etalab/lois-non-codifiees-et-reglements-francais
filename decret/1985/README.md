@@ -121,6 +121,7 @@
 - [Décret n°85-965 du 12 septembre 1985](decret-n85-965-du-12-septembre-1985)
 - [Décret n° 85-218 du 13 février 1985](decret-n-85-218-du-13-fevrier-1985)
 - [Décret n° 85-338 du 13 mars 1985](decret-n-85-338-du-13-mars-1985)
+- [Décret n°61-603 du 13 juin 1961](decret-n61-603-du-13-juin-1961)
 - [Décret n°85-200 du 13 février 1985](decret-n85-200-du-13-fevrier-1985)
 - [Décret n°85-208 du 13 février 1985](decret-n85-208-du-13-fevrier-1985)
 - [Décret n°85-217 du 13 février 1985](decret-n85-217-du-13-fevrier-1985)
