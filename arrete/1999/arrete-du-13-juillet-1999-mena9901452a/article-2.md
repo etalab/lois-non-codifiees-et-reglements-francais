@@ -1,0 +1,7 @@
+# Article 2
+
+L'inspection générale de l'éducation nationale et l'inspection générale de l'administration de l'éducation nationale garantissent l'indépendance et l'objectivité des missions d'inspection des fonctionnaires et des agents mentionnés à l'article 1er du présent arrêté. A cette fin, les inspecteurs généraux correspondants académiques pour l'inspection générale de l'éducation nationale et pour l'inspection générale de l'administration de l'éducation nationale veillent, dans les académies, à ce que les conditions générales d'exercice de leurs missions soient satisfaisantes.
+
+Dans la limite du rattachement défini par le décret du 9 mai 1995 susvisé, le doyen de l'inspection générale de l'éducation nationale et le chef du service de l'inspection générale de l'administration de l'éducation nationale exercent à l'égard des fonctionnaires et des agents mentionnés à l'article 1er ci-dessus une mission d'impulsion et de coordination dans la mise en oeuvre de leur fonction de contrôle et de conseil.
+
+Ces fonctionnaires et ces agents présentent chaque année un rapport d'activité qui est soumis au comité d'hygiène et de sécurité académique ou au comité d'hygiène et de sécurité de l'établissement et transmis au doyen de l'inspection générale de l'éducation nationale et au chef du service de l'inspection générale de l'administration de l'éducation nationale, ainsi qu'aux inspecteurs généraux correspondants académiques pour l'inspection générale de l'éducation nationale et pour l'inspection générale de l'administration de l'éducation nationale.
