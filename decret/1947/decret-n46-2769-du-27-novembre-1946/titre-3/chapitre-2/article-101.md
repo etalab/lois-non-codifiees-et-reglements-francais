@@ -6,7 +6,7 @@ Le Fonds national des accidents du travail et des maladies professionnelles comp
 
 2° Les versements de compensation effectués par le régime général en application de l'article L. 134-15 du code de la sécurité sociale ;
 
-3° Le produit des recours contre tiers ;
+3° Le produit des recours contre tiers et des indemnités forfaitaires perçues en application du troisième alinéa de l'article 211-1 ;
 
 4° La fraction des intérêts créditeurs et des produits nets des placements prévus aux articles 122 et 124 ;
 
