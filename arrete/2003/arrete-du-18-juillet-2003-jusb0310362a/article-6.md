@@ -74,7 +74,7 @@ L'exécution des jugements.
 
 Les voies de recours.
 
-Epreuves écrites obligatoires
+Epreuves écrites facultatives
 
 Epreuve n° 5
 
@@ -88,7 +88,7 @@ Sources du droit commercial : nationales, communautaires, internationales.
 
 Organisation et structures administratives du commerce :
 
-Le Gouvernement, le Conseil économique et social, la Commission des opérations de bourse, le Conseil de la concurrence, les chambres de commerce et d'industrie, les collectivités locales.
+Le Gouvernement, le Conseil économique et social, l'Autorité des marchés financiers, le Conseil de la concurrence, les chambres de commerce et d'industrie, les collectivités locales.
 
 Organisation judiciaire du commerce :
 
