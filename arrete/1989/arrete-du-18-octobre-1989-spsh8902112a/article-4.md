@@ -6,12 +6,12 @@ L'indemnisation des astreintes financée sur le budget de l'établissement s'eff
 
 Si au cours d'une astreinte l'interne est appelé pour une intervention chirurgicale, l'indemnisation est fixée forfaitairement sur la base d'une demi-garde d'interne.
 
-2° Taux à compter du 1er août 1994
+2° Taux à compter du 1er décembre 1994
 
 Dans les services non chirurgicaux :
 
-Indemnité forfaitaire : 57 F ;
+Indemnité forfaitaire : 58 F ;
 
-Indemnité pour chaque appel donnant lieu à déplacement : 57 F.
+Indemnité pour chaque appel donnant lieu à déplacement : 58 F.
 
 Le montant cumulé des indemnités perçues ne peut excéder, par astreinte, le montant d'une demi-garde d'interne.
