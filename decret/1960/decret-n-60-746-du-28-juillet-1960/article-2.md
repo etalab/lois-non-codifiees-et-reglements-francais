@@ -1,0 +1,3 @@
+# Article 2
+
+les maîtres agréés pourvus des titres de capacité prévus à l'article 1er du décret n° 60-386 du 22 avril 1960 reçoivent les rémunérations afférentes aux échelles indiciaires applicables aux personnels de l'enseignement public titulaires des mêmes diplômes et exerçant les mêmes fonctions sous réserve qu'ils donnent dans les disciplines comprises dans les programmes de l'enseignement public un enseignement de même durée que les maîtres de cet enseignement.    Dans le cas contraire, la rémunération des intéressés est décomptée au prorata des heures ainsi assurées, sur la base d'un traitement complet fixé conformément aux dispositions de l'article précédent. Cette disposition est applicable également aux maîtres visés aux articles 3 et 4 ci-après.
