@@ -12,3 +12,4 @@
 - [Service d'inhumation.](service-d-inhumation)
 - [Service des sports.](service-des-sports)
 - [Services administratifs.](services-administratifs)
+- [Services techniques.](services-techniques)

@@ -60,51 +60,74 @@
 <tr>
 <td> : Dessinateur                          :           :           :</td>
 </tr>
-<tr>
-<td> : Chef de travaux et chef d'atelier    :           :           :</td>
-</tr>
-<tr>
-<td> : Surveillant de travaux principal     :           :           :</td>
-</tr>
-<tr>
-<td> : Contremaître principal               :           :           :</td>
-</tr>
-<tr>
-<td> : Surveillant de travaux               :           :           :</td>
-</tr>
-<tr>
-<td> : Contremaître                         :           :           :</td>
-</tr>
-<tr>
-<td> : Maître ouvrier                       :           :           :</td>
-</tr>
-<tr>
-<td> : Ouvrier professionnel de             :           :           :</td>
-</tr>
-<tr>
-<td> :   2e catégorie                       :           :     X     :</td>
-</tr>
-<tr>
-<td> : Ouvrier professionnel de             :           :           :</td>
-</tr>
-<tr>
-<td> :   1re catégorie                      :    X      :     X     :</td>
-</tr>
-<tr>
-<td> : Aide-ouvrier professionnel           :    X      :     X     :</td>
-</tr>
-<tr>
-<td> : Homme d'équipe de 1re catégorie      :    X      :     X     :</td>
-</tr>
-<tr>
-<td> : Homme d'équipe de 2e catégorie       :    X      :     X     :</td>
-</tr>
-<tr>
-<td> : Chef de garage                       :           :           :</td>
-</tr>
 </table>
 
 ---------------------------------------------------------------- (1) Emploi supprimé à compter du 1er janvier 1978.---------------------------------------------------------------- :                                     :    COMMUNES DE :       :
+
+<table>
+<tr>
+<td> :                                     :------------------------:</td>
+</tr>
+<tr>
+<td> :                                     :     1 à    :  1.000 à  :</td>
+</tr>
+<tr>
+<td> :                EMPLOIS              :    1.000   :  2.000    :</td>
+</tr>
+<tr>
+<td> :                                     :        habitants       :</td>
+</tr>
+<tr>
+<td> :-------------------------------------:------------------------:</td>
+</tr>
+<tr>
+<td> : Chef de travaux ou chef             :            :           :</td>
+</tr>
+<tr>
+<td> :   d'atelier communal                :            :           :</td>
+</tr>
+<tr>
+<td> : Surveillant de travaux principal    :            :           :</td>
+</tr>
+<tr>
+<td> :  ou contremaître principal communal :            :           :</td>
+</tr>
+<tr>
+<td> : Surveillant de travaux ou           :            :           :</td>
+</tr>
+<tr>
+<td> :  contremaître communal              :            :           :</td>
+</tr>
+<tr>
+<td> : Maître ouvrier                      :            :           :</td>
+</tr>
+<tr>
+<td> : Ouvrier professionnel de            :            :           :</td>
+</tr>
+<tr>
+<td> :  2e catégorie                       :            :    X      :</td>
+</tr>
+<tr>
+<td> : Ouvrier professionnel de            :            :           :</td>
+</tr>
+<tr>
+<td> :  1re catégorie                      :     X      :    X      :</td>
+</tr>
+<tr>
+<td> : Aide-ouvrier professionnel          :     X      :    X      :</td>
+</tr>
+<tr>
+<td> : Homme d'équipe de 1re catégorie     :     X      :    X      :</td>
+</tr>
+<tr>
+<td> : Homme d'équipe de 2e catégorie      :     X      :    X      :</td>
+</tr>
+<tr>
+<td> : Chef de garage                      :            :           :</td>
+</tr>
+</table>
+
+---------------------------------------------------------------- :                                     :    COMMUNES DE :       :
 
 <table>
 <tr>
@@ -179,7 +202,7 @@
 <td> :                EMPLOIS               :   5.000   : 10.000    :</td>
 </tr>
 <tr>
-<td> :                                      :        habitants      :</td>
+<td> :                                      :      habitants        :</td>
 </tr>
 <tr>
 <td> :--------------------------------------------------------------:</td>
@@ -226,61 +249,84 @@
 <tr>
 <td> : Dessinateur                          :           :     X     :</td>
 </tr>
-<tr>
-<td> : Chef de travaux et chef d'atelier    :           :           :</td>
-</tr>
-<tr>
-<td> : Surveillant de travaux principal     :           :     X     :</td>
-</tr>
-<tr>
-<td> : Contremaître principal               :           :     X     :</td>
-</tr>
-<tr>
-<td> : Surveillant de travaux               :           :     X     :</td>
-</tr>
-<tr>
-<td> : Contremaître                         :           :     X     :</td>
-</tr>
-<tr>
-<td> : Maître ouvrier                       :    X      :     X     :</td>
-</tr>
-<tr>
-<td> : Ouvrier professionnel de             :           :           :</td>
-</tr>
-<tr>
-<td> :   2e catégorie                       :    x      :     X     :</td>
-</tr>
-<tr>
-<td> : Ouvrier professionnel de             :           :           :</td>
-</tr>
-<tr>
-<td> :   1re catégorie                      :    X      :     X     :</td>
-</tr>
-<tr>
-<td> : Aide-ouvrier professionnel           :    X      :     X     :</td>
-</tr>
-<tr>
-<td> : Homme d'équipe de 1re catégorie      :    X      :     X     :</td>
-</tr>
-<tr>
-<td> : Homme d'équipe de 2e catégorie       :    X      :     X     :</td>
-</tr>
-<tr>
-<td> : Chef de garage                       :           :           :</td>
-</tr>
 </table>
 
-----------------------------------------------------------------  (1) Emploi supprimé à compter du 1er janvier 1978.---------------------------------------------------------------- :                                     :    COMMUNES DE :       :
+---------------------------------------------------------------- (1) Emploi supprimé à compter du 1er janvier 1978.---------------------------------------------------------------- :                                     :    COMMUNES DE :       :
 
 <table>
 <tr>
 <td> :                                     :------------------------:</td>
 </tr>
 <tr>
-<td> :                                     :    2.000   :  5.000 à  :</td>
+<td> :                                     :    2.000 à :  5.000 à  :</td>
 </tr>
 <tr>
-<td> :                EMPLOIS              :  à 5.000   : 10.000    :</td>
+<td> :                EMPLOIS              :    5.000   : 10.000    :</td>
+</tr>
+<tr>
+<td> :                                     :        habitants       :</td>
+</tr>
+<tr>
+<td> :--------------------------------------------------------------:</td>
+</tr>
+<tr>
+<td> : Chef de travaux ou chef             :            :           :</td>
+</tr>
+<tr>
+<td> :   d'atelier communal                :            :           :</td>
+</tr>
+<tr>
+<td> : Surveillant de travaux principal    :            :           :</td>
+</tr>
+<tr>
+<td> :  ou contremaître principal communal :            :    X      :</td>
+</tr>
+<tr>
+<td> : Surveillant de travaux ou           :            :           :</td>
+</tr>
+<tr>
+<td> :  contremaître communal              :            :    X      :</td>
+</tr>
+<tr>
+<td> : Maître ouvrier                      :     X      :    X      :</td>
+</tr>
+<tr>
+<td> : Ouvrier professionnel de            :            :           :</td>
+</tr>
+<tr>
+<td> :  2e catégorie                       :     X      :    X      :</td>
+</tr>
+<tr>
+<td> : Ouvrier professionnel de            :            :           :</td>
+</tr>
+<tr>
+<td> :  1re catégorie                      :     X      :    X      :</td>
+</tr>
+<tr>
+<td> : Aide-ouvrier professionnel          :     X      :    X      :</td>
+</tr>
+<tr>
+<td> : Homme d'équipe de 1re catégorie     :     X      :    X      :</td>
+</tr>
+<tr>
+<td> : Homme d'équipe de 2e catégorie      :     X      :    X      :</td>
+</tr>
+<tr>
+<td> : Chef de garage                      :            :           :</td>
+</tr>
+</table>
+
+---------------------------------------------------------------- :                                     :    COMMUNES DE :       :
+
+<table>
+<tr>
+<td> :                                     :------------------------:</td>
+</tr>
+<tr>
+<td> :                                     :    2.000 à :  5.000 à  :</td>
+</tr>
+<tr>
+<td> :                EMPLOIS              :    5.000   : 10.000    :</td>
 </tr>
 <tr>
 <td> :                                     :        habitants       :</td>
@@ -325,10 +371,10 @@
 <td> :   voirie communaux                  :            :    X      :</td>
 </tr>
 <tr>
-<td> : Ouvrier d'entretien de la           :            :           :</td>
+<td> : Ouvrier d'entretien de la           :     X      :    X      :</td>
 </tr>
 <tr>
-<td> :   voie publique                     :      X     :    X      :</td>
+<td> :   voie publique                     :            :           :</td>
 </tr>
 </table>
 
@@ -401,41 +447,64 @@
 <tr>
 <td> : Dessinateur                    :    X    :    X    :    X    :</td>
 </tr>
+</table>
+
+---------------------------------------------------------------- (1) Emploi supprimé à compter du 1er janvier 1978 ---------------------------------------------------------------- :                                :         COMMUNES DE :       :
+
+<table>
 <tr>
-<td> : Chef de travaux et             :         :         :         :</td>
+<td> :                                :-----------------------------:</td>
 </tr>
 <tr>
-<td> :   chef d'atelier               :         :    X    :    X    :</td>
+<td> :                                :  10.000 : 20.000  : 40.000  :</td>
+</tr>
+<tr>
+<td> :             EMPLOIS            :     à   :    à    :   à     :</td>
+</tr>
+<tr>
+<td> :                                :  20.000 : 40.000  : 80.000  :</td>
+</tr>
+<tr>
+<td> :                                :         habitants           :</td>
+</tr>
+<tr>
+<td> :--------------------------------------------------------------:</td>
+</tr>
+<tr>
+<td> : Chef de travaux ou             :         :         :         :</td>
+</tr>
+<tr>
+<td> :   chef d'atelier communal      :         :    X    :    X    :</td>
 </tr>
 <tr>
 <td> : Surveillant de travaux         :         :         :         :</td>
 </tr>
 <tr>
-<td> :   principal                    :    X    :    X    :    X    :</td>
+<td> : principal ou contremaître      :         :         :         :</td>
 </tr>
 <tr>
-<td> : Contremaître principal         :    X    :    X    :    X    :</td>
+<td> :   principal communal           :    X    :    X    :    X    :</td>
 </tr>
 <tr>
-<td> : Surveillant de travaux         :    X    :    X    :    X    :</td>
+<td> : Surveillant de travaux ou      :         :         :         :</td>
 </tr>
 <tr>
-<td> : Contremaître                   :    X    :    X    :    X    :</td>
+<td> :   contremaître communal        :    X    :    X    :    X    :</td>
 </tr>
 <tr>
 <td> : Maître ouvrier                 :    X    :    X    :    X    :</td>
 </tr>
 <tr>
-<td> : Ouvrier professionnel de       :         :         :         :</td>
+<td> : Ouvrier professionnel          :         :         :         :</td>
 </tr>
 <tr>
-<td> :   2e catégorie                 :    X    :    X    :    X    :</td>
+<td> :   de 2e catégorie              :    X    :    X    :    X    :</td>
 </tr>
 <tr>
-<td> : Ouvrier professionnel de       :         :         :         :</td>
+<td> : Ouvrier professionnel          :         :         :         :</td>
 </tr>
 <tr>
-<td> :   1re catégorie                :    X    :    X    :    X    :</td>
+<td> :   de 1re catégorie             :    X    :    X    :    X    :</td>
 </tr>
 <tr>
 <td> : Aide-ouvrier professionnel     :    X    :    X    :    X    :</td>
@@ -447,14 +516,20 @@
 <td> :   1re catégorie                :    X    :    X    :    X    :</td>
 </tr>
 <tr>
-<td> : Homme d'équipe de 2e catégorie :    X    :    X    :    X    :</td>
+<td> : Homme d'équipe de              :         :         :         :</td>
+</tr>
+<tr>
+<td> :   2e catégorie                 :    X    :    X    :    X    :</td>
 </tr>
 <tr>
 <td> : Chef de garage                 :    X    :    X    :    X    :</td>
 </tr>
+<tr>
+<td> :                                :         :         :         :</td>
+</tr>
 </table>
 
----------------------------------------------------------------- (1) Emploi supprimé à compter du 1er janvier 1978.---------------------------------------------------------------- :                                :         COMMUNES DE :       :
+---------------------------------------------------------------- :                                :         COMMUNES DE :       :
 
 <table>
 <tr>
@@ -571,7 +646,7 @@
 <td> : Ingénieur subdivisionnaire     :    X    :    X    :    X    :</td>
 </tr>
 <tr>
-<td> : Chef de section principal      :         :         :         :</td>
+<td> : Chef de section principal (1)  :         :         :         :</td>
 </tr>
 <tr>
 <td> : Chef de section (1)            :         :         :         :</td>
@@ -591,41 +666,64 @@
 <tr>
 <td> : Dessinateur                    :    X    :    X    :    X    :</td>
 </tr>
+</table>
+
+---------------------------------------------------------------- (1) Emploi supprimé à compter du 1er janvier 1978 ---------------------------------------------------------------- :                                :         COMMUNES DE :       :
+
+<table>
 <tr>
-<td> : Chef de travaux et             :         :         :         :</td>
+<td> :                                :-----------------------------:</td>
 </tr>
 <tr>
-<td> :   chef d'atelier               :    X    :    X    :    X    :</td>
+<td> :                                :  80.000 : 150.000 :  Plus   :</td>
+</tr>
+<tr>
+<td> :             EMPLOIS            :    à    :    à    :   de    :</td>
+</tr>
+<tr>
+<td> :                                : 150.000 : 400.000 : 400.000 :</td>
+</tr>
+<tr>
+<td> :                                :          habitants          :</td>
+</tr>
+<tr>
+<td> :--------------------------------------------------------------:</td>
+</tr>
+<tr>
+<td> : Chef de travaux ou             :         :         :         :</td>
+</tr>
+<tr>
+<td> :   chef d'atelier communal      :    X    :    X    :    X    :</td>
 </tr>
 <tr>
 <td> : Surveillant de travaux         :         :         :         :</td>
 </tr>
 <tr>
-<td> :   principal                    :    X    :    X    :    X    :</td>
+<td> : principal ou contremaître      :         :         :         :</td>
 </tr>
 <tr>
-<td> : Contremaître principal         :    X    :    X    :    X    :</td>
+<td> :   principal communal           :    X    :    X    :    X    :</td>
 </tr>
 <tr>
-<td> : Surveillant de travaux         :    X    :    X    :    X    :</td>
+<td> : Surveillant de travaux ou      :         :         :         :</td>
 </tr>
 <tr>
-<td> : Contremaître                   :    X    :    X    :    X    :</td>
+<td> :   contremaître communal        :    X    :    X    :    X    :</td>
 </tr>
 <tr>
 <td> : Maître ouvrier                 :    X    :    X    :    X    :</td>
 </tr>
 <tr>
-<td> : Ouvrier professionnel de       :         :         :         :</td>
+<td> : Ouvrier professionnel          :         :         :         :</td>
 </tr>
 <tr>
-<td> :   2e catégorie                 :    X    :    X    :    X    :</td>
+<td> :   de 2e catégorie              :    X    :    X    :    X    :</td>
 </tr>
 <tr>
-<td> : Ouvrier professionnel de       :         :         :         :</td>
+<td> : Ouvrier professionnel          :         :         :         :</td>
 </tr>
 <tr>
-<td> :   1re catégorie                :    X    :    X    :    X    :</td>
+<td> :   de 1re catégorie             :    X    :    X    :    X    :</td>
 </tr>
 <tr>
 <td> : Aide-ouvrier professionnel     :    X    :    X    :    X    :</td>
@@ -637,14 +735,20 @@
 <td> :   1re catégorie                :    X    :    X    :    X    :</td>
 </tr>
 <tr>
-<td> : Homme d'équipe de 2e catégorie :    X    :    X    :    X    :</td>
+<td> : Homme d'équipe de              :         :         :         :</td>
+</tr>
+<tr>
+<td> :   2e catégorie                 :    X    :    X    :    X    :</td>
 </tr>
 <tr>
 <td> : Chef de garage                 :    X    :    X    :    X    :</td>
 </tr>
+<tr>
+<td> :                                :         :         :         :</td>
+</tr>
 </table>
 
----------------------------------------------------------------- (1) Emploi supprimé à compter du 1er janvier 1978.---------------------------------------------------------------- :                                :         COMMUNES DE :       :
+---------------------------------------------------------------- :                                :         COMMUNES DE :       :
 
 <table>
 <tr>

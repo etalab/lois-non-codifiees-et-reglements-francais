@@ -5,10 +5,10 @@
 <td>:================================================================:</td>
 </tr>
 <tr>
-<td> :   EMPLOI OCCUPE   : ANCIENNETE MINIMUM   :        EMPLOI       :</td>
+<td> :   EMPLOI OCCUPE   : ANCIENNETE MINIMUN   :        EMPLOI       :</td>
 </tr>
 <tr>
-<td> :                   : exigée dans le grade :      D'AVANCEMENT   :</td>
+<td> :                   : exigé dans le grade  :      D'AVANCEMENT   :</td>
 </tr>
 <tr>
 <td> :===================:======================:=====================:</td>
@@ -38,7 +38,7 @@
 <td> :      emploi n'existe pas, d'ingénieur en chef et d'architecte  :</td>
 </tr>
 <tr>
-<td> :      en chef                                                   :</td>
+<td> :      en chef :                                                 :</td>
 </tr>
 <tr>
 <td> :-------------------:----------------------:---------------------:</td>
@@ -89,10 +89,10 @@
 <td> :      des services techniques ou, lorsque ce dernier emploi     :</td>
 </tr>
 <tr>
-<td> :      n'existe pas, d'ingénieur en chef et d'architecte         :</td>
+<td> :       n'existe pas, d'ingénieur en chef et d'architecte en     :</td>
 </tr>
 <tr>
-<td> :      en chef :                                                 :</td>
+<td> :       chef :                                                   :</td>
 </tr>
 <tr>
 <td> :-------------------:----------------------:---------------------:</td>
@@ -128,122 +128,6 @@
 
 <table>
 <tr>
-<td>:===================:=======================:======================:</td>
-</tr>
-<tr>
-<td> :  EMPLOI OCCUPE    : ANCIENNETE MINIMUM    :        EMPLOI        :</td>
-</tr>
-<tr>
-<td> :                   : exigée dans le grade  :      D'AVANCEMENT    :</td>
-</tr>
-<tr>
-<td> :===================:=======================:======================:</td>
-</tr>
-<tr>
-<td> :                                                                  :</td>
-</tr>
-<tr>
-<td> :               1/ PERSONNEL DES CADRES MOYEN ET SUPERIEUR         :</td>
-</tr>
-<tr>
-<td> :                                                                  :</td>
-</tr>
-<tr>
-<td> :      c) Dans les communes dont la hiérarchie des emplois         :</td>
-</tr>
-<tr>
-<td> :         comporte ceux d'adjoint technique, d'adjoint technique   :</td>
-</tr>
-<tr>
-<td> :         principal et d'adjoint technique chef :                  :</td>
-</tr>
-<tr>
-<td> :--------------------:----------------------:----------------------:</td>
-</tr>
-<tr>
-<td> :  Adjoint technique : Adjoint technique    : Adjoint technique    :</td>
-</tr>
-<tr>
-<td> :                    : ayant atteint au     :  principal.          :</td>
-</tr>
-<tr>
-<td> :                    : moins le 9ème        :                      :</td>
-</tr>
-<tr>
-<td> :                    : échelon de son grade :                      :</td>
-</tr>
-<tr>
-<td> :--------------------:----------------------:----------------------:</td>
-</tr>
-<tr>
-<td> :  Adjoint technique : 6 ans de services    : Adjoint technique    :</td>
-</tr>
-<tr>
-<td> :                    : effectifs et         :  chef.               :</td>
-</tr>
-<tr>
-<td> :                    : inscription sur une  :                      :</td>
-</tr>
-<tr>
-<td> :                    : liste d'aptitude     :                      :</td>
-</tr>
-<tr>
-<td> :                    : après concours sur   :                      :</td>
-</tr>
-<tr>
-<td> :                    : titres ou sur        :                      :</td>
-</tr>
-<tr>
-<td> :                    : épreuves             :                      :</td>
-</tr>
-<tr>
-<td> :                    : professionnelles     :                      :</td>
-</tr>
-<tr>
-<td> :====================:======================:======================:</td>
-</tr>
-</table>
-
-===============================================================
-
-<table>
-<tr>
-<td> :        Complété par l'arrêté du 25 février 1982             :</td>
-</tr>
-<tr>
-<td> :-------------------------------------------------------------:</td>
-</tr>
-<tr>
-<td> : Adjoint technique : Trois ans de services : Adjoint         :</td>
-</tr>
-<tr>
-<td> :   principal       :  effectifs ou sans    :   technique     :</td>
-</tr>
-<tr>
-<td> :                   :  condition            :   chef.         :</td>
-</tr>
-<tr>
-<td> :                   :  d'ancienneté mais    :                 :</td>
-</tr>
-<tr>
-<td> :                   :  inscription sur une  :                 :</td>
-</tr>
-<tr>
-<td> :                   :  liste d'aptitude     :                 :</td>
-</tr>
-<tr>
-<td> :                   :  sur titres ou après  :                 :</td>
-</tr>
-<tr>
-<td> :                   :  examen               :                 :</td>
-</tr>
-<tr>
-<td> :                   :  professionnel.       :                 :</td>
-</tr>
-</table>
-
-===============================================================<table>
-<tr>
 <td>:================================================================:</td>
 </tr>
 <tr>
@@ -259,144 +143,61 @@
 <td> :                                                                :</td>
 </tr>
 <tr>
-<td> :             2° PERSONNEL OUVRIER ET DE MAITRISE                :</td>
+<td> :             1° PERSONNEL DES CADRES MOYEN ET SUPERIEUR         :</td>
 </tr>
 <tr>
 <td> :                                                                :</td>
 </tr>
 <tr>
-<td> :-------------------:----------------------:---------------------:</td>
+<td> :   c) Dans les communes dont la hiérarchie des emplois          :</td>
 </tr>
 <tr>
-<td> : Ouvrier           : 8 ans de services    : Contremaître ou     :</td>
+<td> :      comporte ceux d'adjoint technique, d'adjoint technique    :</td>
 </tr>
 <tr>
-<td> :  professionnel    : effectifs et avoir   :  surveillant de     :</td>
-</tr>
-<tr>
-<td> :  (1re et 2ème     : atteint au moins le  :  travaux.           :</td>
-</tr>
-<tr>
-<td> :   catégorie)      : 6ème échelon         :                     :</td>
+<td> :      principal et d'adjoint technique chef :                   :</td>
 </tr>
 <tr>
 <td> :-------------------:----------------------:---------------------:</td>
 </tr>
 <tr>
-<td> : Ouvrier           : Avoir atteint au     : Maître-ouvrier.     :</td>
+<td> : Adjoint technique : Adjoint technique    : Adjoint technique   :</td>
 </tr>
 <tr>
-<td> :  professionnel    : moins le 6ème        :                     :</td>
+<td> :                   : ayant atteint au     :  principal.         :</td>
 </tr>
 <tr>
-<td> :  (2ème catégorie) : échelon              :                     :</td>
+<td> :                   : moins le 9ème        :                     :</td>
 </tr>
 <tr>
-<td> :-------------------:----------------------:---------------------:</td>
-</tr>
-<tr>
-<td> : Maître-ouvrier    : Sans condition       : Contremaître ou     :</td>
-</tr>
-<tr>
-<td> :                   : d'ancienneté         :  surveillant de     :</td>
-</tr>
-<tr>
-<td> :                   :                      :  travaux.           :</td>
+<td> :                   : échelon de son grade :                     :</td>
 </tr>
 <tr>
 <td> :-------------------:----------------------:---------------------:</td>
 </tr>
 <tr>
-<td> : Surveillant de    : 3 ans de services    : Surveillant de      :</td>
+<td> : Adjoint technique : 6 ans de services    : Adjoint technique   :</td>
 </tr>
 <tr>
-<td> :  travaux          : effectifs            :  travaux principal. :</td>
+<td> :                   : effectifs et         :  chef.              :</td>
 </tr>
 <tr>
-<td> :-------------------:----------------------:---------------------:</td>
+<td> :                   : inscription sur une  :                     :</td>
 </tr>
 <tr>
-<td> : Surveillant de    : 3 ans de services    : Chef de travaux.    :</td>
+<td> :                   : liste d'aptitude     :                     :</td>
 </tr>
 <tr>
-<td> : travaux principal :  effectifs           :                     :</td>
-</tr>
-</table>
-<table>
-<tr>
-<td> :-------------------:----------------------:---------------------:</td>
+<td> :                   : après concours sur   :                     :</td>
 </tr>
 <tr>
-<td> : Contremaître      : 3 ans de services    : Contremaître        :</td>
+<td> :                   : titres ou sur        :                     :</td>
 </tr>
 <tr>
-<td> :                   : effectifs            :  principal.         :</td>
+<td> :                   : épreuves             :                     :</td>
 </tr>
 <tr>
-<td> :-------------------:----------------------:---------------------:</td>
-</tr>
-<tr>
-<td> : Contremaître      : 3 ans de services    : Chef d'atelier.     :</td>
-</tr>
-<tr>
-<td> :  principal        : effectifs            :                     :</td>
-</tr>
-<tr>
-<td> :-------------------:----------------------:---------------------:</td>
-</tr>
-<tr>
-<td> : Dessinateur       : 6 ans de services    : Surveillant de      :</td>
-</tr>
-<tr>
-<td> :                   :                      :  travaux.           :</td>
-</tr>
-<tr>
-<td> :-------------------:----------------------:---------------------:</td>
-</tr>
-<tr>
-<td> : Dessinateur       : Avoir atteint le     : Dessinateur chef    :</td>
-</tr>
-<tr>
-<td> :                   : 6ème échelon         :  de groupe.         :</td>
-</tr>
-<tr>
-<td> :-------------------:----------------------:---------------------:</td>
-</tr>
-<tr>
-<td> : Egoutier,         : 6 ans de services    : Chef égoutier.      :</td>
-</tr>
-<tr>
-<td> :  égoutier         : depuis l'accès à     :                     :</td>
-</tr>
-<tr>
-<td> :   principal       : l'emploi d'égoutier  :                     :</td>
-</tr>
-<tr>
-<td> :-------------------:----------------------:---------------------:</td>
-</tr>
-<tr>
-<td> : Eboueur, éboueur  : 6 ans de services    : Chef éboueur.       :</td>
-</tr>
-<tr>
-<td> :  principal        : depuis l'accès à     :                     :</td>
-</tr>
-<tr>
-<td> :                   : l'emploi d'éboueur   :                     :</td>
-</tr>
-<tr>
-<td> :-------------------:----------------------:---------------------:</td>
-</tr>
-<tr>
-<td> : Fossoyeur,        : 6 ans de services    : Chef fossoyeur.     :</td>
-</tr>
-<tr>
-<td> :  fossoyeur        : depuis l'accès à     :                     :</td>
-</tr>
-<tr>
-<td> :   principal       : l'emploi de          :                     :</td>
-</tr>
-<tr>
-<td> :                   : fossoyeur            :                     :</td>
+<td> :                   : professionnelles     :                     :</td>
 </tr>
 <tr>
 <td> :================================================================:</td>
@@ -429,6 +230,174 @@
 <td> :-------------------:----------------------:---------------------:</td>
 </tr>
 <tr>
+<td> : Ouvrier           : 8 ans de services    : Surveillant de      :</td>
+</tr>
+<tr>
+<td> :  professionnel    : effectifs et avoir   :  travaux ou         :</td>
+</tr>
+<tr>
+<td> :  (de 1re et de    : atteint au moins le  :  contremaître       :</td>
+</tr>
+<tr>
+<td> :   2ème catégorie) : 6ème échelon         :  communal.          :</td>
+</tr>
+<tr>
+<td> :-------------------:----------------------:---------------------:</td>
+</tr>
+<tr>
+<td> : Ouvrier           : Avoir atteint au     : Maître-ouvrier.     :</td>
+</tr>
+<tr>
+<td> :  professionnel de : moins le 6ème        :                     :</td>
+</tr>
+<tr>
+<td> :  2ème catégorie   : échelon              :                     :</td>
+</tr>
+<tr>
+<td> :-------------------:----------------------:---------------------:</td>
+</tr>
+<tr>
+<td> : Maître-ouvrier    : Sans condition       : Surveillant de      :</td>
+</tr>
+<tr>
+<td> :                   : d'ancienneté         :  travaux ou         :</td>
+</tr>
+<tr>
+<td> :                   :                      :  contremaître       :</td>
+</tr>
+<tr>
+<td> :                   :                      :  communal.          :</td>
+</tr>
+<tr>
+<td> :-------------------:----------------------:---------------------:</td>
+</tr>
+<tr>
+<td> : Surveillant de    : 3 ans de services    : Surveillant de      :</td>
+</tr>
+<tr>
+<td> :  travaux ou       : effectifs            :  travaux principal  :</td>
+</tr>
+<tr>
+<td> :  contremaître     :                      :  ou contremaître    :</td>
+</tr>
+<tr>
+<td> :  communal         :                      :  principal communal.:</td>
+</tr>
+<tr>
+<td> :-------------------:----------------------:---------------------:</td>
+</tr>
+<tr>
+<td> : Surveillant de    : 3 ans de services    : Chef de travaux ou  :</td>
+</tr>
+<tr>
+<td> :  travaux          : effectifs            :  chef d'atelier     :</td>
+</tr>
+<tr>
+<td> :  principal ou     :                      :  communal.          :</td>
+</tr>
+<tr>
+<td> :  contremaître     :                      :                     :</td>
+</tr>
+<tr>
+<td> :  principal        :                      :                     :</td>
+</tr>
+<tr>
+<td> :  communal         :                      :                     :</td>
+</tr>
+<tr>
+<td> :-------------------:----------------------:---------------------:</td>
+</tr>
+<tr>
+<td> : Dessinateur       : 6 ans de services    : Surveillant de      :</td>
+</tr>
+<tr>
+<td> :                   :                      :  travaux ou         :</td>
+</tr>
+<tr>
+<td> :                   :                      :  contremaître       :</td>
+</tr>
+<tr>
+<td> :                   :                      :  communal.          :</td>
+</tr>
+<tr>
+<td> :-------------------:----------------------:---------------------:</td>
+</tr>
+<tr>
+<td> : Dessinateur       : Avoir atteint le     : Dessinateur chef    :</td>
+</tr>
+<tr>
+<td> :                   : 6ème échelon         :  de groupe.         :</td>
+</tr>
+<tr>
+<td> :-------------------:----------------------:---------------------:</td>
+</tr>
+<tr>
+<td> : Egoutier          : 6 ans de services    : Chef égoutier.      :</td>
+</tr>
+<tr>
+<td> :                   : depuis l'accès à     :                     :</td>
+</tr>
+<tr>
+<td> :                   : l'emploi d'égoutier  :                     :</td>
+</tr>
+<tr>
+<td> :-------------------:----------------------:---------------------:</td>
+</tr>
+<tr>
+<td> : Eboueur           : 6 ans de services    : Chef éboueur.       :</td>
+</tr>
+<tr>
+<td> :                   : depuis l'accès à     :                     :</td>
+</tr>
+<tr>
+<td> :                   : l'emploi d'éboueur   :                     :</td>
+</tr>
+<tr>
+<td> :================================================================:</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td>:================================================================:</td>
+</tr>
+<tr>
+<td> :   EMPLOI OCCUPE   : ANCIENNETE MINIMUM   :        EMPLOI       :</td>
+</tr>
+<tr>
+<td> :                   : exigée dans le grade :      D'AVANCEMENT   :</td>
+</tr>
+<tr>
+<td> :===================:======================:=====================:</td>
+</tr>
+<tr>
+<td> :                                                                :</td>
+</tr>
+<tr>
+<td> :             2° PERSONNEL OUVRIER ET DE MAITRISE                :</td>
+</tr>
+<tr>
+<td> :                                                                :</td>
+</tr>
+<tr>
+<td> :-------------------:----------------------:---------------------:</td>
+</tr>
+<tr>
+<td> : Fossoyeur         : 6 ans de services    : Chef fossoyeur.     :</td>
+</tr>
+<tr>
+<td> :                   : depuis l'accès à     :                     :</td>
+</tr>
+<tr>
+<td> :                   : l'emploi de          :                     :</td>
+</tr>
+<tr>
+<td> :                   : fossoyeur            :                     :</td>
+</tr>
+<tr>
+<td> :-------------------:----------------------:---------------------:</td>
+</tr>
+<tr>
 <td> : Ouvrier           : 8 ans et un brevet   : Chef d'équipe des   :</td>
 </tr>
 <tr>
@@ -444,43 +413,49 @@
 <td> : Conducteur        : 9 ans dans un emploi : Chef de garage.     :</td>
 </tr>
 <tr>
-<td> :  d'automobiles,   : de conducteur        :                     :</td>
+<td> :  d'auto, poids    : de conducteur        :                     :</td>
 </tr>
 <tr>
-<td> :  poids lourds et  : d'automobile dont    :                     :</td>
+<td> :  lourds ou        : d'auto, dont 4 ans   :                     :</td>
 </tr>
 <tr>
-<td> :  conducteur       : 4 ans de services    :                     :</td>
+<td> :  transport en     : de services          :                     :</td>
 </tr>
 <tr>
-<td> :  transport en     : effectifs en qualité :                     :</td>
+<td> :  commun           : effectifs en qualité :                     :</td>
 </tr>
 <tr>
-<td> :  commun           : de conducteur        :                     :</td>
+<td> :                   : de conducteur de     :                     :</td>
 </tr>
 <tr>
-<td> :                   : d'automobiles, poids :                     :</td>
+<td> :                   : transports en        :                     :</td>
 </tr>
 <tr>
-<td> :                   : lourds et transport  :                     :</td>
+<td> :                   : commun ou de         :                     :</td>
 </tr>
 <tr>
-<td> :                   : en commun et après   :                     :</td>
+<td> :                   : conducteur de poids  :                     :</td>
 </tr>
 <tr>
-<td> :                   : une sélection        :                     :</td>
+<td> :                   : lourds et après une  :                     :</td>
 </tr>
 <tr>
-<td> :                   : professionnelle dont :                     :</td>
+<td> :                   : sélection            :                     :</td>
 </tr>
 <tr>
-<td> :                   : les modalités sont   :                     :</td>
+<td> :                   : professionnelle,     :                     :</td>
 </tr>
 <tr>
-<td> :                   : fixées par l'arrêté  :                     :</td>
+<td> :                   : dont les modalités   :                     :</td>
 </tr>
 <tr>
-<td> :                   : du 14 décembre 1972  :                     :</td>
+<td> :                   : sont fixées par      :                     :</td>
+</tr>
+<tr>
+<td> :                   : l'arrêté du 14       :                     :</td>
+</tr>
+<tr>
+<td> :                   : novembre 1972        :                     :</td>
 </tr>
 <tr>
 <td> :================================================================:</td>
