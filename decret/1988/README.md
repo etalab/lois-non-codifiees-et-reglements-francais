@@ -68,6 +68,7 @@
 - [Décret n°88-895 du 24 août 1988 (DEFM8801668D)](decret-n88-895-du-24-aout-1988-defm8801668d)
 - [Décret n°87-361 du 27 mai 1987 (AGRS8700949D)](decret-n87-361-du-27-mai-1987-agrs8700949d)
 - [Décret n°88-849 du 28 juillet 1988 (MCCB8800452D)](decret-n88-849-du-28-juillet-1988-mccb8800452d)
+- [Décret n°88-854 du 28 juillet 1988 (ECOC8800072D)](decret-n88-854-du-28-juillet-1988-ecoc8800072d)
 - [Décret n°88-794 du 29 juin 1988 (ASEX8800086D)](decret-n88-794-du-29-juin-1988-asex8800086d)
 - [Décret n°88-850 du 29 juillet 1988 (ECOX8810673D)](decret-n88-850-du-29-juillet-1988-ecox8810673d)
 - [Décret n°88-901 du 30 août 1988 (SPSS8801058D)](decret-n88-901-du-30-aout-1988-spss8801058d)
