@@ -1,13 +1,9 @@
-# Arrêté du 20 novembre 1979 relatif aux conditions d'attribution des primes à l'amélioration de l'habitat pour réaliser des travaux de mise aux normes, d'amélioration du confort et d'adaptation des logements aux besoins des handicapés physiques et des travailleurs manuels appelés à travailler la nuit.
+# Arrêté du 20 novembre 1979 concernant la lutte contre la pollution des eaux (application du décret n° 73-218 du 23 février 1973)
 
 - [Article 1](article-1.md)
-- [TITRE 1 : CONDITIONS DE RESSOURCES.](titre-1)
 - [Article 2](article-2.md)
-- [TITRE 2 : TAUX ET MONTANTS DE LA PRIME.](titre-2)
 - [Article 3](article-3.md)
-- [TITRE 3 : PROCEDURE D'OCTROI.](titre-3)
 - [Article 4](article-4.md)
-- [Article 4 bis](article-4-bis.md)
 - [Article 5](article-5.md)
 - [Article 6](article-6.md)
 - [Article 7](article-7.md)

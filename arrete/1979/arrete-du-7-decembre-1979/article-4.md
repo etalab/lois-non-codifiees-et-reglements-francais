@@ -1,0 +1,3 @@
+# Article 4
+
+L'article 1er de l'arrêté du 24 juin 1965 fixant l'échelonnement indiciaire applicable au personnel de l'administration universitaire, modifié par l'arrêté du 20 octobre 1977, l'arrêté du 31 mars 1970 fixant l'échelonnement indiciaire applicable aux attachés d'administration universitaire, modifié par l'arrêté du 20 octobre 1977, l'arrêté du 31 mars 1970 fixant l'échelonnement indiciaire applicable aux personnels de l'intendance universitaire, modifié par l'arrêté du 20 octobre 1977, l'arrêté du 9 novembre 1973 fixant l'échelonnement indiciaire applicable aux secrétaires en chef d'administration universitaire et l'arrêté du 9 novembre 1973 fixant l'échelonnement indiciaire applicable aux secrétaires en chef d'intendance universitaire sont abrogés.
