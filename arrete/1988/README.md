@@ -359,7 +359,6 @@
 - [Arrêté du 19 avril 1988 (AGRG8800566A)](arrete-du-19-avril-1988-agrg8800566a)
 - [Arrêté du 19 avril 1988 (AGRG8800567A)](arrete-du-19-avril-1988-agrg8800567a)
 - [Arrêté du 19 avril 1988 (ENVN8800085A)](arrete-du-19-avril-1988-envn8800085a)
-- [Arrêté du 19 décembre 1988 (ECOC8800126A)](arrete-du-19-decembre-1988-ecoc8800126a)
 - [Arrêté du 19 février 1988 (ASEH8800094A)](arrete-du-19-fevrier-1988-aseh8800094a)
 - [Arrêté du 19 février 1988 (COMA8800006A)](arrete-du-19-fevrier-1988-coma8800006a)
 - [Arrêté du 19 février 1988 (ECOC8700142A)](arrete-du-19-fevrier-1988-ecoc8700142a)
