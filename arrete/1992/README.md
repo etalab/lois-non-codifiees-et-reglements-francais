@@ -154,6 +154,7 @@
 - [Arrêté du 29 novembre 1991 (SPSP9102750A)](arrete-du-29-novembre-1991-spsp9102750a)
 - [Arrêté du 30 décembre 1991 (AGRS9102430A)](arrete-du-30-decembre-1991-agrs9102430a)
 - [Arrêté du 30 décembre 1991 (AGRS9102723A)](arrete-du-30-decembre-1991-agrs9102723a)
+- [Arrêté du 30 décembre 1991 (INTA9200001A)](arrete-du-30-decembre-1991-inta9200001a)
 - [Arrêté du 30 décembre 1991 (MENP9102905A)](arrete-du-30-decembre-1991-menp9102905a)
 - [Arrêté du 30 décembre 1991 (SPSS9102841A)](arrete-du-30-decembre-1991-spss9102841a)
 - [Arrêté du 30 janvier 1992 (INDP9101041A)](arrete-du-30-janvier-1992-indp9101041a)
