@@ -151,6 +151,7 @@
 - [Arrêté du 13 janvier 1989 (INTE8900038A)](arrete-du-13-janvier-1989-inte8900038a)
 - [Arrêté du 13 janvier 1989 (INTE8900039A)](arrete-du-13-janvier-1989-inte8900039a)
 - [Arrêté du 13 janvier 1989 (SPSS8900076A)](arrete-du-13-janvier-1989-spss8900076a)
+- [Arrêté du 13 juin 1989 (ECOC8900068A)](arrete-du-13-juin-1989-ecoc8900068a)
 - [Arrêté du 13 juin 1989 (SPSG8901212A)](arrete-du-13-juin-1989-spsg8901212a)
 - [Arrêté du 13 mars 1989 (AGRB8900490A)](arrete-du-13-mars-1989-agrb8900490a)
 - [Arrêté du 13 mars 1989 (TRSA8900116A)](arrete-du-13-mars-1989-trsa8900116a)
