@@ -28,6 +28,10 @@ Agent de sécurité.
 
 Coordinateur de service social chargé de l'organisation de l'accueil au ministère ;
 
+Secrétaire du comité médical ministériel ;
+
+Régisseur de recettes et d'avances.
+
 Agent chargé de l'élaboration, de la conception et du suivi des marchés informatiques.
 
 Agent chargé du contrôle ou de l'exécution des marchés informatiques.
@@ -136,8 +140,6 @@ Animateur de formation.
 
 Correspondant informatique.
 
-Adjoint au directeur régional d'Ile-de-France.
-
 Responsable national de l'insertion économique.
 
 Responsable Informatique national.
@@ -190,7 +192,15 @@ Adjoint au chef du bureau chargé du service Proposition de la Légion d'honneur
 
 Adjoint au chef du bureau chargé du service Gestion de l'ordre national du Mérite ;
 
-Responsable de l'entretien du palais et des services techniques.
+Responsable de l'entretien du palais et des services techniques ;
+
+Secrétaire du grand chancelier de la Légion d'honneur ;
+
+Secrétaire en poste auprès du secrétaire général ;
+
+Secrétaire en poste auprès du secrétaire général adjoint ;
+
+Chargé des affaires générales et des interventions.
 
 MAISONS D'ÉDUCATION DE LA LÉGION D'HONNEUR
 
@@ -224,4 +234,12 @@ Responsable de l'entretien des jardins de la maison d'éducation des Loges ;
 
 Infirmière de la maison d'éducation de Saint-Denis ;
 
-Veilleur de nuit de la maison d'éducation des Loges.
+Veilleur de nuit de la maison d'éducation des Loges ;
+
+Responsable de la lingerie de la maison d'éducation des Loges ;
+
+Responsable de la lingerie de la maison d'éducation de Saint-Denis ;
+
+Secrétaire en poste auprès de la surintendante de la maison d'éducation de Saint-Denis ;
+
+Secrétaire en poste auprès de l'intendante générale de la maison d'éducation des Loges.
