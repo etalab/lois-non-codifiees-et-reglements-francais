@@ -60,6 +60,7 @@
 - [Décret n°78-1016 du 18 octobre 1978](decret-n78-1016-du-18-octobre-1978)
 - [Décret n°78-1038 du 18 octobre 1978](decret-n78-1038-du-18-octobre-1978)
 - [Décret n°78-1027 du 19 octobre 1978](decret-n78-1027-du-19-octobre-1978)
+- [Décret n°78-1204 du 19 décembre 1978](decret-n78-1204-du-19-decembre-1978)
 - [Décret n°78-831 du 19 juillet 1978](decret-n78-831-du-19-juillet-1978)
 - [Décret n°78-353 du 20 mars 1978](decret-n78-353-du-20-mars-1978)
 - [Décret n°78-394 du 20 mars 1978](decret-n78-394-du-20-mars-1978)
