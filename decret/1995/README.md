@@ -1037,7 +1037,6 @@
 - [Décret n°95-1320 du 27 décembre 1995 (JUSC9521094D)](decret-n95-1320-du-27-decembre-1995-jusc9521094d)
 - [Décret n°95-1321 du 27 décembre 1995 (TASP9523465D)](decret-n95-1321-du-27-decembre-1995-tasp9523465d)
 - [Décret n°95-1334 du 27 décembre 1995 (INDE9501055D)](decret-n95-1334-du-27-decembre-1995-inde9501055d)
-- [Décret n°95-1344 du 27 décembre 1995 (FPPA9510000D)](decret-n95-1344-du-27-decembre-1995-fppa9510000d)
 - [Décret n°95-1345 du 27 décembre 1995 (FPPA9510001D)](decret-n95-1345-du-27-decembre-1995-fppa9510001d)
 - [Décret n°95-206 du 27 février 1995 (SPSS9500626D)](decret-n95-206-du-27-fevrier-1995-spss9500626d)
 - [Décret n°95-213 du 27 février 1995 (AGRS9500101D)](decret-n95-213-du-27-fevrier-1995-agrs9500101d)

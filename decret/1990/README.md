@@ -187,8 +187,6 @@
 - [Décret n°90-479 du 8 juin 1990 (INTB9000117D)](decret-n90-479-du-8-juin-1990-intb9000117d)
 - [Décret n°90-700 du 8 août 1990 (ECOA9000223D)](decret-n90-700-du-8-aout-1990-ecoa9000223d)
 - [Décret n°90-722 du 8 août 1990 (INTB9000207D)](decret-n90-722-du-8-aout-1990-intb9000207d)
-- [Décret n°90-723 du 8 août 1990 (INTB9000209D)](decret-n90-723-du-8-aout-1990-intb9000209d)
-- [Décret n°90-724 du 8 août 1990 (INTB9000208D)](decret-n90-724-du-8-aout-1990-intb9000208d)
 - [Décret n°90-725 du 8 août 1990 (INTB9000210D)](decret-n90-725-du-8-aout-1990-intb9000210d)
 - [Décret n°90-914 du 8 octobre 1990 (MAEJ9030076D)](decret-n90-914-du-8-octobre-1990-maej9030076d)
 - [Décret n°90-915 du 8 octobre 1990 (MAEJ9030074D)](decret-n90-915-du-8-octobre-1990-maej9030074d)

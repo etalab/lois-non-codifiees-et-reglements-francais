@@ -117,7 +117,6 @@
 - [Décret n°88-1134 du 14 décembre 1988 (MAEJ8830080D)](decret-n88-1134-du-14-decembre-1988-maej8830080d)
 - [Décret n°88-236 du 14 mars 1988 (INTB8800066D)](decret-n88-236-du-14-mars-1988-intb8800066d)
 - [Décret n°88-238 du 14 mars 1988 (INTB8800070D)](decret-n88-238-du-14-mars-1988-intb8800070d)
-- [Décret n°88-239 du 14 mars 1988 (INTB8800074D)](decret-n88-239-du-14-mars-1988-intb8800074d)
 - [Décret n°88-240 du 14 mars 1988 (INTB8800068D)](decret-n88-240-du-14-mars-1988-intb8800068d)
 - [Décret n°88-242 du 14 mars 1988 (INTB8800069D)](decret-n88-242-du-14-mars-1988-intb8800069d)
 - [Décret n°88-922 du 14 septembre 1988 (AGRE8801283D)](decret-n88-922-du-14-septembre-1988-agre8801283d)
