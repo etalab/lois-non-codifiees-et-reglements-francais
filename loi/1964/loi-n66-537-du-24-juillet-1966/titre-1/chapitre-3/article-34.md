@@ -1,6 +1,8 @@
 # Article 34
 
-La société à responsabilité limitée [*définition*] est constituée entre des associés qui ne supportent les pertes qu'à concurrence de leurs apports.
+La société à responsabilité limitée [*définition*] est instituée par une ou plusieurs personnes  qui ne supportent les pertes qu'à concurrence de leurs apports.
+
+Lorsque la société ne comporte qu'une seule personne, celle-ci est dénommée "associé unique" [*entreprise unipersonnelle à responsabilité limitée*]. L'associé unique exerce les pouvoirs dévolus à l'assemblée des associés par les dispositions du présent chapitre.
 
 Elle est désignée par une dénomination sociale [*raison sociale :
 

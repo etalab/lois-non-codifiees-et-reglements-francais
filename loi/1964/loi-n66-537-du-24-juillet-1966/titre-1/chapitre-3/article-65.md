@@ -4,7 +4,7 @@ Les commissaires aux comptes, qui doivent être choisis sur la liste mentionnée
 
 Ne peuvent être choisis comme commissaires aux comptes [*incompatibilités - conflit d'interêts*] :
 
-1° Les gérants ainsi que leurs conjoints, ascendants ou descendants et collatéraux au 4ème degré inclusivement ;
+1° Les gérants, l'associé unique  ainsi que leurs conjoints, ascendants ou descendants et collatéraux au 4ème degré inclusivement ;
 
 2° Les apporteurs en nature et les bénéficiaires d'avantages particuliers ;
 
