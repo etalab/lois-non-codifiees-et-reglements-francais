@@ -2,13 +2,17 @@
 
 Les listes de candidats sont présentées par les organisations syndicales. Nul ne peut être candidat sur plusieurs listes.
 
-Chaque liste doit comporter autant de noms qu'il y a de sièges à pourvoir, titulaires et suppléants.
+" Chaque liste comprend autant de noms qu'il y a de sièges de représentant titulaire et de représentant suppléant à pourvoir. Toutefois, chaque liste peut comprendre, en outre, dans chaque groupe hiérarchique, un nombre de noms égal au plus à celui des sièges de représentant titulaire de ce groupe.
 
-Toutefois, sont admises les listes comportant un nombre de candidats titulaires et un nombre de candidats suppléants au moins égaux :
+" Sont également admises les listes comportant un nombre de noms inférieur à celui des sièges de représentant titulaire et de représentant suppléant à pourvoir et au moins égal à :
 
-a) A trois en catégories A et B lorsque la commission comporte quatre sièges et à deux lorsqu'elle comporte trois sièges ;
+" 4 lorsque l'effectif des fonctionnaires relevant de la commission administrative paritaire est inférieur à 40 ;
 
-b) A trois en catégorie C ;
+" 6 lorsque l'effectif est au moins égal à 40 et inférieur à 500 ;
+
+" 8 lorsque l'effectif est au moins égal à 500 et inférieur à 750 ;
+
+" 10 lorsque l'effectif est au moins égal à 750. "
 
 Dans ces cas, les candidats peuvent être présentés pour un groupe hiérarchique ou répartis entre les deux groupes existants.
 

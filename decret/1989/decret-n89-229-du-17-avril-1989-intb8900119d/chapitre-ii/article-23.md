@@ -6,15 +6,13 @@ Chaque liste a droit à autant de sièges de représentants titulaires que le no
 
 Les sièges de représentants titulaires restant éventuellement à pourvoir sont attribués suivant la règle de la plus forte moyenne.
 
-b) Désignation des représentants :
+b) Désignation des représentants titulaires :
 
 Les listes exercent leur choix successivement dans l'ordre décroissant du nombre de sièges qu'elles obtiennent. La liste ayant droit au plus grand nombre de sièges choisit chacun d'eux, le cas échéant, dans un groupe hiérarchique différent sous réserve de ne pas empêcher par son choix une autre liste d'obtenir le nombre de sièges auxquels elle a droit dans les groupes hiérarchiques pour lesquels elle avait présenté des candidats.
 
 Les autres listes exercent ensuite leur choix successivement dans l'ordre décroissant du nombre de sièges auxquels elles peuvent prétendre, dans les mêmes conditions et sous les mêmes réserves.
 
 Dans l'hypothèse où une liste incomplète obtiendrait un siège de plus que le nombre de candidats présentés par elle lui permet de pourvoir, ce siège est attribué à la liste qui, en application du a ci-dessus, l'obtient en second.
-
-Dans l'hypothèse où, en catégorie C, une liste incomplète obtiendrait deux sièges de plus que le nombre de candidats présentés par elle lui permet de pourvoir, chacun des deux sièges est attribué dans les conditions prévues à l'alinéa précédent.
 
 En cas d'égalité du nombre de sièges obtenus, l'ordre des choix est déterminé par le nombre respectif de suffrages obtenu par les listes en présence. En cas d'égalité du nombre des suffrages, l'ordre des choix est déterminé par voie de tirage au sort.
 
@@ -27,3 +25,9 @@ Le tirage au sort est effectué par l'autorité territoriale, ou son représenta
 c) Dispositions spéciales :
 
 Dans le cas où deux listes ont la même moyenne, le siège revient à la liste qui a obtenu le plus grand nombre de suffrages. Si les deux listes en cause ont recueilli le même nombre de voix, le siège est attribué au plus âgé des candidats en présence.
+
+d) Désignation des représentants suppléants :
+
+Il est attribué à chaque liste un nombre de sièges de représentants suppléants égal à celui des représentants titulaires.
+
+" Les suppléants sont désignés parmi les candidats venant immédiatement à la suite des candidats élus titulaires et dans l'ordre de présentation de la liste. "
