@@ -6,3 +6,6 @@
 - [Chapitre IV : Conseil supérieur de l'aménagement rural.](chapitre-iv)
 - [Chapitre V : Conseil supérieur de l'hydraulique.](chapitre-v)
 - [Chapitre VI : Conseil supérieur de la forêt et des produits forestiers.](chapitre-vi)
+- [Chapitre VII : Conseil supérieur de l'élevage.](chapitre-vii)
+- [Chapitre VIII : Commission nationale d'amélioration génétique.](chapitre-viii)
+- [Chapitre IX : Commission nationale vétérinaire.](chapitre-ix)
