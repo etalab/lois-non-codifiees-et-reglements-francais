@@ -1,0 +1,3 @@
+# Article 2
+
+Reçoivent délégation à l'effet d'accomplir tous les actes liés à l'organisation des recrutements sans concours des agents administratifs et des agents des services techniques des services judiciaires, à l'exception de la détermination du nombre d'emplois ainsi que de la nomination et titularisation des candidats déclarés aptes à l'issue de ces recrutements, pour l'établissement public de l'Ecole nationale de la magistrature, le directeur de l'Ecole nationale de la magistrature, pour le service à compétence nationale de l'Ecole nationale des greffes, le directeur de l'Ecole nationale des greffes.
