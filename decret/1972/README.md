@@ -29,6 +29,7 @@
 - [Décret n°72-154 du 24 février 1972](decret-n72-154-du-24-fevrier-1972)
 - [Décret n°72-798 du 25 août 1972](decret-n72-798-du-25-aout-1972)
 - [Décret n°72-871 du 25 septembre 1972](decret-n72-871-du-25-septembre-1972)
+- [Décret n°53-914 du 26 septembre 1953](decret-n53-914-du-26-septembre-1953)
 - [Décret n°73-417 du 27 mars 1973](decret-n73-417-du-27-mars-1973)
 - [Décret n°73-418 du 27 mars 1973](decret-n73-418-du-27-mars-1973)
 - [Décret n°63-901 du 28 août 1963](decret-n63-901-du-28-aout-1963)
