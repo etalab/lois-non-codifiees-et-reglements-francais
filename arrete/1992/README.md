@@ -115,7 +115,6 @@
 - [Arrêté du 3 juillet 1992 (EQUT9200952A)](arrete-du-3-juillet-1992-equt9200952a)
 - [Arrêté du 3 juillet 1992 (EQUT9200958A)](arrete-du-3-juillet-1992-equt9200958a)
 - [Arrêté du 3 juillet 1992 (SANH9201821A)](arrete-du-3-juillet-1992-sanh9201821a)
-- [Arrêté du 3 juillet 1992 (SANM9201578A)](arrete-du-3-juillet-1992-sanm9201578a)
 - [Arrêté du 3 juillet 1992 (SPSS9201620A)](arrete-du-3-juillet-1992-spss9201620a)
 - [Arrêté du 3 juillet 1992 (TEFE9204994A)](arrete-du-3-juillet-1992-tefe9204994a)
 - [Arrêté du 3 juin 1992 (AGRR9201055A)](arrete-du-3-juin-1992-agrr9201055a)
