@@ -20,7 +20,7 @@ Le directeur des routes ou son représentant.
 
 Le directeur de l'action régionale et de la petite et moyenne industrie ou son représentant.
 
-Le directeur général des stratégies industrielles ou son représentant.
+Le directeur général de l'industrie, des technologies de l'information et des postes ou son représentant.
 
 Le directeur de la sécurité civile ou son représentant.
 
@@ -36,9 +36,9 @@ Le directeur général de la santé ou son représentant.
 
 Le directeur des relations du travail ou son représentant.
 
-2. Membres nommés pour une durée de trois ans
+Le directeur des affaires criminelles et des grâces ou son représentant.
 
-par arrêté du ministre chargé des transports
+2. Membres nommés pour une durée de trois ans par arrêté du ministre chargé des transports
 
 Huit représentants des laboratoires, organismes chargés des contrôles et des organismes de formation.
 
@@ -48,7 +48,7 @@ Un représentant des Voies navigables de France.
 
 Un représentant d'Air France.
 
-Huit représentants des transporteurs (distributeurs) et des loueurs.
+Dix représentants des transporteurs (distributeurs) et des loueurs.
 
 Cinq représentants des industries productrices de matières dangereuses.
 
@@ -56,4 +56,4 @@ Deux représentants des constructeurs de véhicules à moteur et de véhicules r
 
 Deux agents chargés du contrôle du transport des matières dangereuses.
 
-Quatre personnalités qualifiées.
+Cinq personnalités qualifiées.
