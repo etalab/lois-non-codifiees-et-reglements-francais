@@ -18,22 +18,22 @@ Infirmier hors classe
 <td> :-----------------------------:</td>
 </tr>
 <tr>
-<td> :  7e échelon       :   579   :</td>
+<td> :  7e échelon       :   638   :</td>
 </tr>
 <tr>
-<td> :  6e échelon       :   547   :</td>
+<td> :  6e échelon       :   595   :</td>
 </tr>
 <tr>
-<td> :  5e échelon       :   510   :</td>
+<td> :  5e échelon       :   557   :</td>
 </tr>
 <tr>
-<td> :  4e échelon       :   479   :</td>
+<td> :  4e échelon       :   522   :</td>
 </tr>
 <tr>
-<td> :  3e échelon       :   448   :</td>
+<td> :  3e échelon       :   485   :</td>
 </tr>
 <tr>
-<td> :  2e échelon       :   423   :</td>
+<td> :  2e échelon       :   422   :</td>
 </tr>
 <tr>
 <td> : 1er échelon       :   384   :</td>

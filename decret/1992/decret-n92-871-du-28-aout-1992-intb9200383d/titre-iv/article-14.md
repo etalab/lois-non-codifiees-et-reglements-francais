@@ -34,55 +34,55 @@ La durée maximale et la durée minimale du temps passé dans chacun des échelo
 <td> :            :       :        :</td>
 </tr>
 <tr>
-<td> : 6e échelon : 2 ans : 2 ans  :</td>
+<td> : 6e échelon : 3 ans : 2 ans  :</td>
 </tr>
 <tr>
-<td> :            : 9 mois: 6 mois :</td>
-</tr>
-<tr>
-<td> :            :       :        :</td>
-</tr>
-<tr>
-<td> : 5e échelon : 2 ans : 2 ans  :</td>
-</tr>
-<tr>
-<td> :            : 9 mois: 6 mois :</td>
+<td> :            : 6 mois: 6 mois :</td>
 </tr>
 <tr>
 <td> :            :       :        :</td>
 </tr>
 <tr>
-<td> : 4e échelon : 2 ans : 2 ans  :</td>
+<td> : 5e échelon : 3 ans : 2 ans  :</td>
 </tr>
 <tr>
-<td> :            : 2 mois:        :</td>
-</tr>
-<tr>
-<td> :            :       :        :</td>
-</tr>
-<tr>
-<td> : 3e échelon : 2 ans : 2 ans  :</td>
-</tr>
-<tr>
-<td> :            : 2 mois:        :</td>
+<td> :            : 6 mois: 6 mois :</td>
 </tr>
 <tr>
 <td> :            :       :        :</td>
 </tr>
 <tr>
-<td> : 2e échelon : 2 ans : 2 ans  :</td>
+<td> : 4e échelon : 3 ans : 2 ans  :</td>
 </tr>
 <tr>
-<td> :            : 2 mois:        :</td>
+<td> :            : 6 mois: 6 mois :</td>
 </tr>
 <tr>
 <td> :            :       :        :</td>
 </tr>
 <tr>
-<td> :1er échelon : 2 ans : 2 ans  :</td>
+<td> : 3e échelon : 2 ans : 1 an   :</td>
 </tr>
 <tr>
-<td> :            : 2 mois:        :</td>
+<td> :            : 6 mois: 6 mois :</td>
+</tr>
+<tr>
+<td> :            :       :        :</td>
+</tr>
+<tr>
+<td> : 2e échelon : 2 ans : 1 an   :</td>
+</tr>
+<tr>
+<td> :            : 6 mois: 6 mois :</td>
+</tr>
+<tr>
+<td> :            :       :        :</td>
+</tr>
+<tr>
+<td> :1er échelon : 1 an  : 1 an   :</td>
+</tr>
+<tr>
+<td> :            :       :        :</td>
 </tr>
 <tr>
 <td> :-----------------------------:</td>
