@@ -1,3 +1,3 @@
 # Article 2
 
-Le directeur des transports terrestres et le directeur général de la concurrence et de la consommation sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+Les taux des redevances communale et départementale des mines visés à l'article 1er du présent arrêté ne comprennent pas les frais d'assiette et de recouvrements, de dégrèvements et de non-valeurs perçus au profit de l'Etat.

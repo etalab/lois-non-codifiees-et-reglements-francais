@@ -11,6 +11,7 @@
 - [Décret n°84-1127 du 7 décembre 1984](decret-n84-1127-du-7-decembre-1984)
 - [Décret n°84-92 du 8 février 1984](decret-n84-92-du-8-fevrier-1984)
 - [Décret n°84-93 du 8 février 1984](decret-n84-93-du-8-fevrier-1984)
+- [Décret n°84-98 du 8 février 1984](decret-n84-98-du-8-fevrier-1984)
 - [Décret n°84-14 du 10 janvier 1984](decret-n84-14-du-10-janvier-1984)
 - [Décret n°84-23 du 11 janvier 1984](decret-n84-23-du-11-janvier-1984)
 - [Décret n°84-26 du 11 janvier 1984](decret-n84-26-du-11-janvier-1984)
