@@ -6,7 +6,7 @@ Toute demande de dérogation effectuée au titre du second alinéa de l'article 
 
 - les nom, prénoms et qualité de la personne qui présente la demande ;
 
-- les raisons techniques justifiant l'emploi de dissolvants ou diluants renfermant en poids plus de 0,2 p. 100 de benzène ;
+- les raisons techniques justifiant l'emploi de dissolvants ou diluants renfermant en poids plus de 0,1 p. 100 de benzène ;
 
 - les circonstances précises de cette utilisation et le nombre de postes de travail concernés ;
 

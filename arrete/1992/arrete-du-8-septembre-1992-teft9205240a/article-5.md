@@ -1,3 +1,3 @@
 # Article 5
 
-Le directeur des relations du travail au ministère du travail, de l'emploi et de la formation professionnelle est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+L'Etat rembourse à l'entreprise les cotisations versées par cette dernière pour assurer la validation au titre des régimes de retraites complémentaires des périodes passées par les salariés en congé de conversion.
