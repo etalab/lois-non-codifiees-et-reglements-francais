@@ -1,4 +1,0 @@
-# Paragraphe 4 : Des reprises d'instance et constitution de nouvel avocat.
-
-- [Article 62](article-62.md)
-- [Article 63](article-63.md)

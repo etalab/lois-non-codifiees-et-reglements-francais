@@ -1,7 +1,0 @@
-# Article 10
-
-Chaque section administrative est composée d'un président, de conseillers d'Etat en service ordinaire au nombre de sept au minimum dont l'un choisi parmi les assesseurs des sous-sections de la section du contentieux, de conseillers d'Etat en service extraordinaire, de maîtres des requêtes et d'auditeurs. Un maître des requêtes nommé par le vice-président après avis des présidents de section, exerce les fonctions de rapporteur général de la section du rapport et des études. Il peut être maintenu dans ses fonctions pendant trois ans s'il est nommé conseiller d'Etat. Il est affecté uniquement à cette section et a voix délibérative dans toutes les affaires. Des maîtres des requêtes et auditeurs peuvent lui être adjoints ; ils peuvent alors être affectés uniquement à la section du rapport et des études.
-
-Dans le cas prévu au dernier alinéa de l'article 9 ci-dessus comme dans celui où une affaire attribuée à une section ressortit à plusieurs départements ministériels relevant de sections différentes, un ou plusieurs conseillers appartenant à chacune des sections intéressées peuvent être appelés à prendre part aux délibérations de la section compétente.
-
-Les conseillers d'Etat ont voix délibérative dans toutes les affaires. Les maîtres des requêtes et auditeurs ont voix délibérative dans les affaires dont ils sont rapporteurs et voix consultative dans les autres affaires.

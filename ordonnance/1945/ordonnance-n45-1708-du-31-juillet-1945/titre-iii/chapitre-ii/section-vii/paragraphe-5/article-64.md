@@ -1,3 +1,0 @@
-# Article 64
-
-Si une partie veut fournir un désaveu relativement à des actes ou procédures faits en son nom ailleurs qu'au Conseil d'Etat, et qui peuvent influer sur la décision de la cause qui y est portée, sa demande devra être communiquée aux autres parties. Si le président de la section ou le président de la sous-section saisie estime que le désaveu mérite d'être instruit, il renverra l'instruction et le jugement devant les juges compétents pour y être statué dans le délai qui sera réglé ; à l'expiration de ce délai, il sera passé outre au rapport de l'affaire principale sur le vu du jugement du désaveu, ou faute de le rapporter.
