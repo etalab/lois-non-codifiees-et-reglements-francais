@@ -332,7 +332,6 @@
 - [Décret n°99-192 du 12 mars 1999 (ECOT9951782D)](decret-n99-192-du-12-mars-1999-ecot9951782d)
 - [Décret n°99-193 du 12 mars 1999 (ECOX9800180D)](decret-n99-193-du-12-mars-1999-ecox9800180d)
 - [Décret n°99-23 du 12 janvier 1999 (DEFP9802152D)](decret-n99-23-du-12-janvier-1999-defp9802152d)
-- [Décret n°99-271 du 12 avril 1999 (MESS9920733D)](decret-n99-271-du-12-avril-1999-mess9920733d)
 - [Décret n°99-273 du 12 avril 1999 (MENS9802754D)](decret-n99-273-du-12-avril-1999-mens9802754d)
 - [Décret n°99-275 du 12 avril 1999 (MESF9910483D)](decret-n99-275-du-12-avril-1999-mesf9910483d)
 - [Décret n°99-278 du 12 avril 1999 (ECOI9900166D)](decret-n99-278-du-12-avril-1999-ecoi9900166d)
