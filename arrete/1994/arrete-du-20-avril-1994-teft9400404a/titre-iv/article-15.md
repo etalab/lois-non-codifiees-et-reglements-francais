@@ -2,7 +2,9 @@
 
 I. Les prescriptions en matière d'étiquetage et d'emballage fixées par le présent titre s'appliquent :
 
-1° Aux substances explosibles, comburantes, extrêmement inflammables, facilement inflammables, inflammables, très toxiques, toxiques, nocives, corrosives, irritantes, sensibilisantes, cancérogènes, mutagènes, toxiques pour la reproduction et dangereuses pour l'environnement, mentionnées à l'annexe I du présent arrêté ;
+1° Aux substances explosibles, comburantes, extrêmement inflammables, facilement inflammables, inflammables, très toxiques, toxiques, nocives, corrosives, irritantes, sensibilisantes, cancérogènes, mutagènes, toxiques pour la reproduction et dangereuses pour l'environnement, mentionnées à l'annexe I du présent arrêté ;(annexe non reproduite).
+
+L'étiquetage des substances présentes dans l'annexe I et qui comportent la note h doit être complété, en tant que de besoin, conformément aux critères généraux de classification et d'étiquetage figurant en annexe VI du présent arrêté pour les effets autres que ceux couverts par la classification ;
 
 2° Aux substances qui, bien que ne figurant pas à l'annexe I du présent arrêté, peuvent être classées comme dangereuses conformément aux critères généraux de classification et d'étiquetage figurant en annexe VI du présent arrêté.
 
