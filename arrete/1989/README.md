@@ -496,7 +496,6 @@
 - [Arrêté du 27 février 1989 (AGRB8900421A)](arrete-du-27-fevrier-1989-agrb8900421a)
 - [Arrêté du 27 février 1989 (BUDR8904015A)](arrete-du-27-fevrier-1989-budr8904015a)
 - [Arrêté du 27 janvier 1989 (COPX8910020A)](arrete-du-27-janvier-1989-copx8910020a)
-- [Arrêté du 27 janvier 1989 (SPSH8900193A)](arrete-du-27-janvier-1989-spsh8900193a)
 - [Arrêté du 27 juillet 1989 (SPSP8901640A)](arrete-du-27-juillet-1989-spsp8901640a)
 - [Arrêté du 27 juin 1989 (AGRS8901174A)](arrete-du-27-juin-1989-agrs8901174a)
 - [Arrêté du 27 juin 1989 (INDD8900398A)](arrete-du-27-juin-1989-indd8900398a)

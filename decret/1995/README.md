@@ -104,7 +104,6 @@
 - [Décret n°95-515 du 3 mai 1995 (ENVP9530008D)](decret-n95-515-du-3-mai-1995-envp9530008d)
 - [Décret n°95-523 du 3 mai 1995 (PRMX9400178D)](decret-n95-523-du-3-mai-1995-prmx9400178d)
 - [Décret n°95-694 du 3 mai 1995 (INDB9500491D)](decret-n95-694-du-3-mai-1995-indb9500491d)
-- [Décret du 4 janvier 1995 (ECOC9400083D)](decret-du-4-janvier-1995-ecoc9400083d)
 - [Décret n°95-1076 du 4 octobre 1995 (INTX9500123D)](decret-n95-1076-du-4-octobre-1995-intx9500123d)
 - [Décret n°95-1078 du 4 octobre 1995 (SANH9502452D)](decret-n95-1078-du-4-octobre-1995-sanh9502452d)
 - [Décret n°95-1080 du 4 octobre 1995 (TEFB9500921D)](decret-n95-1080-du-4-octobre-1995-tefb9500921d)
