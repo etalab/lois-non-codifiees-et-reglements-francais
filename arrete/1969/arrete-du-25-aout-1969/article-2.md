@@ -55,3 +55,5 @@ Certificat de fin d'études du premier cycle délivré par l'école nationale su
 Certificat d'initiation plastique délivré par une école nationale d'art.
 
 Certificat de la section technique délivré par l'institut de droit appliqué de Paris.
+
+Certificat d'aptitude à la promotion des activités soci-éducatives et à l'exercice des professions socio-éducatives (Capase).
