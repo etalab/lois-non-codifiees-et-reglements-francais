@@ -6,8 +6,10 @@ Placé auprès du Premier ministre, le Conseil national de l'insertion par l'act
 
 2° Dix personnes qualifiées du monde socio-économique choisies en raison de leur expérience dans le domaine de l'insertion sociale et professionnelle ou représentant des organismes qualifiés en matière d'insertion par l'activité économique ;
 
-3° Dix élus.
+3° Dix élus ;
 
-Les personnes mentionnées aux 2° et 3° ci-dessus sont désignées pour trois ans par le Premier ministre.
+4° Cinq représentants des organisations syndicales de salariés et cinq représentants des organisations professionnelles d'employeurs.
+
+Les personnes mentionnées aux 2° et 3° ci-dessus sont désignées pour trois ans par arrêté du Premier ministre. Les personnes mentionnées au 4° ci-dessus sont désignées pour trois ans par arrêté du Premier ministre, sur proposition des organisations syndicales nationales représentatives au sens de l'article L. 133-2 du code du travail.
 
 Toutefois, leur mandat prend fin si elles perdent la qualité au titre de laquelle elles ont été nommées. Les personnes qui, pour quelque que cause que ce soit, cessent d'appartenir au Conseil national de l'insertion par l'activité économique sont remplacées pour la durée du mandat restant à courir.
