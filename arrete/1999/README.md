@@ -22,6 +22,7 @@
 - [Arrêté du 2 décembre 1998 (INTD9800538A)](arrete-du-2-decembre-1998-intd9800538a)
 - [Arrêté du 2 février 1999 (DEFP9802209A)](arrete-du-2-fevrier-1999-defp9802209a)
 - [Arrêté du 2 février 1999 (MESS9920447A)](arrete-du-2-fevrier-1999-mess9920447a)
+- [Arrêté du 2 juillet 1999 (AGRA9900474A)](arrete-du-2-juillet-1999-agra9900474a)
 - [Arrêté du 2 juin 1999 (ECOS9950021A)](arrete-du-2-juin-1999-ecos9950021a)
 - [Arrêté du 2 juin 1999 (ECOS9950022A)](arrete-du-2-juin-1999-ecos9950022a)
 - [Arrêté du 2 mars 1999 (ECOL9900011A)](arrete-du-2-mars-1999-ecol9900011a)
