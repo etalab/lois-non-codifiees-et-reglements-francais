@@ -2,6 +2,7 @@
 
 - [Décret n°83-267 du 1 avril 1983](decret-n83-267-du-1-avril-1983)
 - [Décret n°83-272 du 1 avril 1983](decret-n83-272-du-1-avril-1983)
+- [Décret n°83-566 du 1 juillet 1983](decret-n83-566-du-1-juillet-1983)
 - [Décret n°83-588 du 1 juillet 1983](decret-n83-588-du-1-juillet-1983)
 - [Décret n°84-894 du 1 octobre 1984](decret-n84-894-du-1-octobre-1984)
 - [Décret n°84-895 du 1 octobre 1984](decret-n84-895-du-1-octobre-1984)
@@ -11,6 +12,7 @@
 - [Décret n°83-70 du 2 février 1983](decret-n83-70-du-2-fevrier-1983)
 - [Décret n°83-76 du 2 février 1983](decret-n83-76-du-2-fevrier-1983)
 - [Décret n°83-357 du 2 mai 1983](decret-n83-357-du-2-mai-1983)
+- [Décret n°83-358 du 2 mai 1983](decret-n83-358-du-2-mai-1983)
 - [Décret n°83-359 du 2 mai 1983](decret-n83-359-du-2-mai-1983)
 - [Décret n°83-367 du 2 mai 1983](decret-n83-367-du-2-mai-1983)
 - [Décret n°83-382 du 2 mai 1983](decret-n83-382-du-2-mai-1983)
@@ -176,6 +178,7 @@
 - [Décret n°83-552 du 30 juin 1983](decret-n83-552-du-30-juin-1983)
 - [Décret n°83-553 du 30 juin 1983](decret-n83-553-du-30-juin-1983)
 - [Décret n°83-554 du 30 juin 1983](decret-n83-554-du-30-juin-1983)
+- [Décret n°83-564 du 30 juin 1983](decret-n83-564-du-30-juin-1983)
 - [Décret n°83-565 du 30 juin 1983](decret-n83-565-du-30-juin-1983)
 - [Décret n°83-437 du 30 mai 1983](decret-n83-437-du-30-mai-1983)
 - [Décret n°82-1228 du 31 décembre 1982](decret-n82-1228-du-31-decembre-1982)

@@ -1,0 +1,3 @@
+# Article 1
+
+Les caisses d'épargne et de prévoyance sont des établissements de crédit à but non lucratif. Elles ont pour objet la promotion et la collecte de l'épargne ainsi que le développement de la prévoyance pour satisfaire notamment les besoins collectifs et familiaux. A cet effet, elles sont habilitées à recevoir des dépôts, à consentir des crédits et à faire des opérations de banque au profit des personnes physiques, ainsi que des organismes n'exerçant pas, à titre principal, une activité industrielle ou commerciale. Elles sont habilitées à consentir des prêts, notamment aux collectivités et établissements publics, ainsi qu'aux organismes bénéficiant de leur garantie.

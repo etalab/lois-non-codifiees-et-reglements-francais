@@ -1,4 +1,4 @@
-# Arrêté du 16 mai 1983Taxe due par les bénéficiaires du plan de chasse à titre de participation à la réparation des dégâts de grand gibier.
+# Arrêté du 16 mai 1983 RELATIF A L'EXTENSION DES DISPOSITIONS GENERALES RELATIVES AUX MESURES DE SECURITE A PRENDRE LORS DE LA PREPARATION ET DE L'EMPLOI DES PRODUITS ANTIPARASITAIRES DESTINES A L'AGRICULTURE
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
