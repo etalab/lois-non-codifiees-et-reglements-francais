@@ -1,5 +1,0 @@
-# Article 73
-
-Les sociétés de secours sont tenues de verser à chacune de leurs sections, outre le montant des prestations servies par celles-ci, une fraction des cotisations perçues en vue de couvrir les frais de gestion propres à la section et de tenir compte tant des services rendus aux affiliés que de la qualité de la gestion de la section. Le décret prévu à l'article 220 fixe les règles suivant lesquelles est déterminée cette fraction de cotisation.
-
-Les sociétés de secours ou leurs sections peuvent, sous réserve de l'approbation du conseil d'administration de l'union régionale, instituer des cotisations supplémentaires et facultatives à la charge des bénéficiaires en vue d'attribuer des prestations complémentaires et d'entreprendre des réalisations sociales en se conformant, pour la gestion de ces services ou oeuvres, à l'ordonnance du 19 octobre 1945 sur la mutualité [*assurance*]. Les opérations relatives à ces avantages complémentaires font l'objet d'une comptabilité particulière.

@@ -1,3 +1,0 @@
-# Article 49
-
-Le taux de la cotisation due au titre de l'article 48 est déterminé annuellement [*périodicité*] tant pour les accidents du travail que pour les maladies professionnelles, d'après la gravité du risque dans chaque catégorie. La fixation de ce taux est opérée par l'union régionale sur avis du comité technique et d'après les règles applicables dans le régime général de sécurité sociale, sous réserve, le cas échéant des adaptations fixées par arrêtés du ministre du travail, du ministre chargé de l'industrie et du ministre de l'économie et des finances, après avis du conseil d'administration de la caisse autonome nationale de la sécurité sociale dans les mines.
