@@ -16,7 +16,7 @@ Dans le cadre des règles définies par le conseil d'administration, il a notamm
 
 4° Approuver les marchés de travaux et de fournitures dans les limites fixées par le conseil d'administration et passer au nom de l'établissement tous actes, contrats et marchés ;
 
-5° Prendre toutes mesures conservatoires et exercer toutes actions en justice ;
+5° Prendre toutes mesures conservatoires, exercer toutes actions en justice et conclure toutes transactions ;
 
 6° Engager, gérer et licencier les agents de l'établissement.
 

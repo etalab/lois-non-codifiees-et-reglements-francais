@@ -28,7 +28,7 @@ l) Les emprunts ;
 
 m) Les conditions générales de recrutement, d'emploi et de rémunération du personnel ;
 
-n) Les actions en justice ;
+n) Les actions en justice et les transactions ;
 
 o) Toutes questions se rapportant à l'objet de l'agence qui lui sont soumises par l'un des ministres de tutelle.
 

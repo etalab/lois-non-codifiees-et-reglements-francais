@@ -12,7 +12,7 @@ Dans le cadre des règles définies par le conseil d'administration, il a qualit
 
 - procéder à toutes acquisitions, tout dépôt ou cession de brevets ou de licence ;
 
-- représenter l'agence en justice ;
+- représenter l'agence en justice et conclure toutes transactions ;
 
 - déterminer l'emploi des fonds disponibles et le placement des réserves, procéder à toutes acquisitions, aliénations et transferts de valeurs ;
 
