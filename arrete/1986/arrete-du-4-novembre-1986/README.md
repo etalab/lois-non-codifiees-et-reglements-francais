@@ -1,4 +1,4 @@
-# Arrêté du 4 novembre 1986 instituant la commission d'étude de l'utilisation de produits issus du génie biomoléculaire
+# Arrêté du 4 novembre 1986 relatif à l'organisation de la délégation aux enseignements et aux formations
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

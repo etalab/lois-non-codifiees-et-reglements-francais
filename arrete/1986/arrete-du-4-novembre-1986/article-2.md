@@ -1,17 +1,7 @@
 # Article 2
 
-Elle donne un avis sur toutes les questions relatives aux risques et aux conditions d'emploi des produits issus du génie biomoléculaire, notamment les risques de dissémination d'organismes vivants issus de ces techniques, que lui soumet le ministre de l'agriculture, lorsque, notamment, ces produits sont employés, ou entrent dans la composition de produits employés, comme :
+Le conseil ministériel des enseignements et des formations est chargé [*attributions*] d'assister le ministre dans la détermination des orientations de la politique des enseignements et des formations du ministère et des établissements et organismes qui en relèvent.
 
-- semences et plants ;
+Il peut être consulté sur toute question relative aux enseignements et aux formations.
 
-- produits antiparasitaires à usage agricole et produits assimilés ;
-
-- matières fertilisantes et supports de culture ;
-
-- médicaments vétérinaires ;
-
-- animaux d'élevage ;
-
-- denrées alimentaires et boissons destinées à l'homme ou aux animaux.
-
-L'avis formulé par la commission pourra en tant que de besoin être utilisé par toute commission compétente, notamment sur des sujets ayant trait à l'utilisation et à la mise sur le marché des produits énumérés ci-dessus.
+Le conseil est présidé par le ministre ou le directeur de cabinet. Il comprend [*composition*] les directeurs et délégués de l'administration centrale, ainsi que le directeur général du Centre national de la cinématographie, le président du Centre national d'art et de culture Georges-Pompidou [*centre Beaubourg*] et le président de l'Institut national de l'audiovisuel [*INA*] , ou leur représentant. Le ministre peut adjoindre au conseil ministériel des enseignements et des formations les personnalités qualifiées qu'il désigne.
