@@ -1,4 +1,3 @@
-# Arrêté du 11 janvier 1984 relatif à la redevance pour atténuation des nuisances phoniques
+# Arrêté du 11 janvier 1984 FIXANT LA REPARTITION DES SIEGES ENTRE LES REPRESENTANTS DES ASSURES SOCIAUX DANS LES CONSEILS D'ADMINISTRATION DES CAISSES NATIONALES DU REGIME GENERAL DE SECURITE SOCIALE.
 
 - [Article 1](article-1.md)
-- [Article 2](article-2.md)

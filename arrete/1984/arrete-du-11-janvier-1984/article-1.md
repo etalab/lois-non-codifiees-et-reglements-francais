@@ -1,7 +1,39 @@
 # Article 1
 
-La redevance complémentaire à la redevance d'atterrissage dite Redevance pour atténuation des nuisances phoniques qu'Aéroport de Paris est autorisé à percevoir sur les aérodromes de Paris-Orly et de Paris-Charles-de-Gaulle est calculée en pourcentage du tarif de base de la redevance d'atterrissage.
+Par arrêté du ministre des affaires sociales et de la solidarité nationale en date du 11 janvier 1984 :
 
-Les pourcentages sont les suivants :
+Les sièges attribués, au sein du conseil d'administration de la caisse nationale de l'assurance maladie des travailleurs salariés, aux organisations syndicales nationales de salariés représentatives se répartissent comme suit :
 
-- groupe 1 : 20 p. 100 ; - groupe 2 : 15 p. 100 ; - groupe 3 : 10 p. 100 ; - groupe 4 : 5 p. 100 ; - groupe 5 : 0 p. 100.
+C.G.T. : quatre titulaires et un suppléant.
+
+C.G.T - F.O. : quatre titulaires et un suppléant.
+
+C.F.D.T. : trois titulaires et un suppléant.
+
+C.F.T.C. : deux titulaires et un suppléant.
+
+C.G.C. : deux titulaires et un suppléant.
+
+Les sièges attribués, au sein du conseil d'administration de la caisse nationale d'assurance vieillesse des travailleurs salariés, aux organisations syndicales nationales de salariés représentatives se répartissent comme suit :
+
+C.G.T. : quatre titulaires et un suppléant.
+
+C.G.T. - F.O. : quatre titulaires et un suppléant.
+
+C.F.D.T. : trois titulaires et un suppléant.
+
+C.F.T.C. : deux titulaires et un suppléant.
+
+C.G.C. : deux titulaires et un suppléant.
+
+Les sièges attribués, au sein du conseil d'administration de la caisse nationale des allocations familiales, aux organisations syndicales nationales de salariés représentatives se répartissent comme suit :
+
+C.G.T. : quatre titulaires et un suppléant.
+
+C.G.T. - F.O. : quatre titulaires et un suppléant.
+
+C.F.D.T. : trois titulaires et un suppléant.
+
+C.F.T.C. : deux titulaires et un suppléant.
+
+C.G.C. : deux titulaires et un suppléant.
