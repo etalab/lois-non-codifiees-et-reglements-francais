@@ -1,12 +1,12 @@
 # Article 6
 
-Jusqu'au 31 décembre 1990 [*date limite*], peuvent être nommés dans le corps des tribunaux administratifs et des cours administratives d'appel, aux grades de conseiller de première classe et de conseiller hors classe, en vue d'une première affectation dans les cours administratives d'appel, des fonctionnaires civils ou militaires de l'Etat appartenant à un corps de catégorie A ou assimilé et des magistrats de l'ordre judiciaire. Peuvent également, et jusqu'à la même date, être intégrés aux mêmes grades, les agents de la fonction publique territoriale appartenant à un cadre d'emplois de catégorie A ainsi que les agents non titulaires de l'Etat.
+Jusqu'au 31 décembre 1990, peuvent être nommés dans le corps des tribunaux administratifs et des cours administratives d'appel, aux grades de conseiller de première classe et de conseiller hors classe, en vue d'une première affectation dans les cours administratives d'appel, des fonctionnaires civils ou militaires de l'Etat appartenant à un corps de catégorie A ou assimilé et des magistrats de l'ordre judiciaire. Peuvent également, jusqu'au 31 décembre 1995, être intégrés aux mêmes grades, les agents de la fonction publique territoriale appartenant à un cadre d'emplois de catégorie A ainsi que les agents non titulaires de l'Etat.
 
-Les personnes mentionnées au précédent alinéa doivent justifier, au 1er janvier de leur année d'intégration, de dix ans de services effectifs dans un corps de catégorie A ou assimilé, ou dans des fonctions de niveau équivalent, ou, si elles appartiennent à un corps recruté par l'Ecole nationale d'administration, de six ans de services effectifs dans ce corps [*durée, ancienneté*].
+Les personnes mentionnées au précédent alinéa doivent justifier, au 1er janvier de leur année d'intégration, de dix ans de services effectifs dans un corps de catégorie A ou assimilé, ou dans des fonctions de niveau équivalent, ou, si elles appartiennent à un corps recruté par l'Ecole nationale d'administration, de six ans de services effectifs dans ce corps.
 
 Le recrutement organisé par le présent article est également ouvert aux avocats et aux avocats au Conseil d'Etat et à la Cour de cassation ainsi qu'aux avoués près la cour d'appel ayant exercé leurs fonctions pendant dix ans au moins.
 
-Ces nominations sont prononcées par décret du Président de la République, sur proposition d'une commission de sélection présidée par le président de la section du contentieux du Conseil d'Etat et comprenant [*composition*] :
+Ces nominations sont prononcées par décret du Président de la République, sur proposition d'une commission de sélection présidée par le président de la section du contentieux du Conseil d'Etat et comprenant :
 
 a) Le conseiller d'Etat, chef de la mission permanente d'inspection des juridictions administratives ;
 

@@ -1,12 +1,12 @@
 # Article 60
 
-" Les fonctionnaires à temps complet, en activité ou en service détaché, qui occupent un emploi conduisant à pension du régime de la Caisse nationale de retraite des agents des collectivités locales ou du régime général de la sécurité sociale peuvent, sur leur demande, sous réserve des nécessités de la continuité et du fonctionnement du service et compte tenu des possibilités d'aménagement de l'organisation du travail, être autorisés à accomplir un service à temps partiel qui ne peut être inférieur au mi-temps. "
+Les fonctionnaires à temps complet, en activité ou en service détaché, qui occupent un emploi conduisant à pension du régime de la Caisse nationale de retraite des agents des collectivités locales ou du régime général de la sécurité sociale peuvent, sur leur demande, sous réserve des nécessités de la continuité et du fonctionnement du service et compte tenu des possibilités d'aménagement de l'organisation du travail, être autorisés à accomplir un service à temps partiel qui ne peut être inférieur au mi-temps.
 
 Les modalités d'exercice du travail à temps partiel sont fixées par l'organe délibérant de chaque collectivité ou établissement public, dans les conditions définies par le présent article.
 
-" Les refus opposés à une demande de travail à temps partiel doivent être précédés d'un entretien et motivés dans les conditions définies par la loi n° 79-587 du 11 juillet 1979 relative à la motivation des actes administratifs et à l'amélioration des relations entre l'administration et le public. "
+Les refus opposés à une demande de travail à temps partiel doivent être précédés d'un entretien et motivés dans les conditions définies par la loi n° 79-587 du 11 juillet 1979 relative à la motivation des actes administratifs et à l'amélioration des relations entre l'administration et le public.
 
-" En cas de refus de l'autorisation d'accomplir un service à temps partiel ou de litige relatif à l'exercice du travail à temps partiel, la commission administrative paritaire peut être saisie par les intéressés. "
+En cas de refus de l'autorisation d'accomplir un service à temps partiel ou de litige relatif à l'exercice du travail à temps partiel, la commission administrative paritaire peut être saisie par les intéressés.
 
 A l'issue de la période de travail à temps partiel, les fonctionnaires sont admis de plein droit à occuper à temps plein leur emploi ou, à défaut, un autre emploi correspondant à leur grade.
 
@@ -20,8 +20,6 @@ Toutefois, dans le cas de services représentant 80 ou 90 p. 100 du temps plein,
 
 Les fonctionnaires autorisés à travailler à temps partiel perçoivent, le cas échéant, des indemnités pour frais de déplacement. Le supplément familial de traitement ne peut être inférieur au montant minimum versé aux fonctionnaires travaillant à temps plein ayant le même nombre d'enfants à charge.
 
-" Un rapport est présenté chaque année au comité technique paritaire dressant le bilan de l'application des dispositions relatives au travail à temps partiel dans la fonction publique territoriale. La présentation de ce rapport doit donner lieu à un débat. "
-
 Le Gouvernement déposera tous les deux ans sur le bureau des assemblées parlementaires un rapport établi après avis du Conseil supérieur de la fonction publique territoriale dressant le bilan de l'application des dispositions relatives au temps partiel dans les emplois concernés par la présente loi.
 
-" Un décret en Conseil d'Etat fixe les conditions d'application du présent article. "
+Un décret en Conseil d'Etat fixe les conditions d'application du présent article.
