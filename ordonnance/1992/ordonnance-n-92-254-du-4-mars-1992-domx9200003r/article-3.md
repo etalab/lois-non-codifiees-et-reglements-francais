@@ -8,7 +8,7 @@ Ne peut obtenir de commandes de la part de l'Etat, de la collectivité territori
 
 - toute personne redevable de l'impôt fraudé lorsque la personne condamnée, qui a fait l'objet de l'interdiction, est un dirigeant de droit ou de fait de l'entreprise.
 
-Cette exclusion s'applique pendant toute la durée de l'interdiction et cesse si ce dirigeant en est relevé dans les conditions prévues à l'article 131-5 du code pénal.
+Cette exclusion s'applique pendant toute la durée de l'interdiction et cesse si ce dirigeant en est relevé dans les conditions prévues à l'article 712-2 du code pénal.
 
 L'exclusion prononcée en application du présent paragraphe cesse de plein droit lorsque l'entreprise n'emploie plus la personne condamnée.
 
