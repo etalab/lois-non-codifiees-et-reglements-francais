@@ -446,7 +446,6 @@
 - [Décret n°99-503 du 16 juin 1999 (ECOD9970010D)](decret-n99-503-du-16-juin-1999-ecod9970010d)
 - [Décret n°99-513 du 16 juin 1999 (ECOC9900025D)](decret-n99-513-du-16-juin-1999-ecoc9900025d)
 - [Décret n°99-815 du 16 septembre 1999 (EQUU9900636D)](decret-n99-815-du-16-septembre-1999-equu9900636d)
-- [Décret n°99-817 du 16 septembre 1999 (MESH9922280D)](decret-n99-817-du-16-septembre-1999-mesh9922280d)
 - [Décret n°99-818 du 16 septembre 1999 (JUSD9930123D)](decret-n99-818-du-16-septembre-1999-jusd9930123d)
 - [Décret n°99-819 du 16 septembre 1999 (MENS9900978D)](decret-n99-819-du-16-septembre-1999-mens9900978d)
 - [Décret n°99-820 du 16 septembre 1999 (MENS9900979D)](decret-n99-820-du-16-septembre-1999-mens9900979d)
