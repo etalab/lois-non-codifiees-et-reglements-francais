@@ -1,8 +1,6 @@
 # Article 43
 
-La composition du conseil de perfectionnement du centre est fixée conformément aux dispositions des articles R. 116-5 et R. 116-6 du code du travail.
-
-Les représentants des apprentis sont élus au [*mode*] scrutin uninominal à deux tours.
+Les centres de formation d'apprentis sont dotés d'un conseil de perfectionnement auquel s'appliquent les articles R. 116-5, R. 116-6 et R. 116-7 du code du travail.    Les représentants des apprentis sont élus au [*mode*] scrutin uninominal à deux tours.
 
 Les représentants des personnels d'enseignement et d'encadrement sont élus au scrutin de liste à la représentation proportionnelle et à la plus forte moyenne.
 
