@@ -17,5 +17,4 @@
 - [Professeur de chant](professeur-de-chant)
 - [Professeur de chant choral](professeur-de-chant-choral)
 - [Professeur de danse](professeur-de-danse)
-- [Professeur de formation musicale](professeur-de-formation-musicale)
 - [Professeur de piano](professeur-de-piano)
