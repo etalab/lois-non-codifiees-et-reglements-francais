@@ -1,6 +1,6 @@
 # Article 8
 
-Les élèves ingénieurs recrutés en application du I b de l'article 4 ci-dessus sont astreints à rester au service de l'Etat pendant [*durée*] huit ans à compter du jour de leur titularisation dans le grade d'ingénieur de l'industrie et des mines.
+Les élèves ingénieurs recrutés au titre du I b ou du I c de l'article 4 ci-dessus sont astreints à rester au service de l'Etat pendant [*durée*] huit ans à compter du jour de leur titularisation dans le grade d'ingénieur de l'industrie et des mines.
 
 En cas de manquement à cette obligation, ils doivent verser au Trésor public une somme fixée par référence aux frais d'études engagés par l'administration ainsi qu'au traitement et à l'indemnité de résidence perçus en qualité d'ingénieur élève.
 
