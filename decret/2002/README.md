@@ -3,6 +3,7 @@
 - [Décret du 1 février 1896](decret-du-1-fevrier-1896)
 - [Décret n°2001-200 du 1 mars 2001 (INTB0100040D)](decret-n2001-200-du-1-mars-2001-intb0100040d)
 - [Décret n°2002-1025 du 1 août 2002 (ECOC0200012D)](decret-n2002-1025-du-1-aout-2002-ecoc0200012d)
+- [Décret n°2002-1027 du 1 août 2002 (DEVE0200047D)](decret-n2002-1027-du-1-aout-2002-deve0200047d)
 - [Décret n°2002-133 du 1 février 2002 (MENF0102791D)](decret-n2002-133-du-1-fevrier-2002-menf0102791d)
 - [Décret n°2002-136 du 1 février 2002 (RECF0100357D)](decret-n2002-136-du-1-fevrier-2002-recf0100357d)
 - [Décret n°2002-297 du 1 mars 2002 (AGRS0200290D)](decret-n2002-297-du-1-mars-2002-agrs0200290d)
