@@ -1,3 +1,0 @@
-# Article 4
-
-Le contrôleur des dépenses engagées donne au préfet son avis sur les propositions budgétaires, les demandes de crédits additionnels de toute nature et tous les projets soumis aux délibérations du conseil municipal de Paris et du conseil général de la Seine ayant une incidence financière. Il donne également, au point de vue budgétaire, son avis motivé sur les projets d'arrêtés, contrats, mesures, décisions ou délibérations soumis à la signature ou à l'approbation du préfet de la Seine (de Paris) ou du préfet de police lorsqu'ils ont une incidence financière. Il reçoit, à cet effet, communication de tous documents ou renseignements utiles.
