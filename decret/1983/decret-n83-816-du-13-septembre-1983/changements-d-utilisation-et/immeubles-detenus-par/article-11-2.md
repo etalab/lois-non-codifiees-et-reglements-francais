@@ -1,0 +1,3 @@
+# Article 11-2
+
+Si aucun département ministériel n'a présenté une demande d'incorporation ou d'affectation dans le délai de deux mois indiqué au premier alinéa de l'article 11-1, ou si, une telle demande ayant été présentée, il n'y a pas été donné suite dans le délai de deux mois indiqué au deuxième alinéa de l'article 11-1, la Société nationale des chemins de fer français notifie au président du conseil régional, au président du conseil général ou au maire qui a fait connaître l'intention de la collectivité locale qu'il représente de se porter acquéreur le prix auquel elle envisage d'aliéner l'immeuble ou, si elle entend recourir à l'adjudication publique, la mise à prix.
