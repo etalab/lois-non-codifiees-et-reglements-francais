@@ -55,6 +55,7 @@
 - [Arrêté du 12 juin 1986](arrete-du-12-juin-1986)
 - [Arrêté du 12 mars 1986](arrete-du-12-mars-1986)
 - [Arrêté du 12 mai 1986](arrete-du-12-mai-1986)
+- [Arrêté du 13 août 1986](arrete-du-13-aout-1986)
 - [Arrêté du 13 décembre 1985](arrete-du-13-decembre-1985)
 - [Arrêté du 13 février 1986](arrete-du-13-fevrier-1986)
 - [Arrêté du 13 janvier 1986](arrete-du-13-janvier-1986)
