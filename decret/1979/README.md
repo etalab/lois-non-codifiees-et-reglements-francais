@@ -10,6 +10,7 @@
 - [Décret n°79-354 du 2 mai 1979](decret-n79-354-du-2-mai-1979)
 - [Décret n°79-293 du 3 avril 1979](decret-n79-293-du-3-avril-1979)
 - [Décret n°79-530 du 3 juillet 1979](decret-n79-530-du-3-juillet-1979)
+- [Décret n°79-541 du 3 juillet 1979](decret-n79-541-du-3-juillet-1979)
 - [Décret n°79-607 du 3 juillet 1979](decret-n79-607-du-3-juillet-1979)
 - [Décret n°78-993 du 4 octobre 1978](decret-n78-993-du-4-octobre-1978)
 - [Décret n°79-305 du 4 avril 1979](decret-n79-305-du-4-avril-1979)

@@ -1,0 +1,3 @@
+# Article 5
+
+La publicité concernant les spécialités contenant des substances inscrites sur la liste des produits dangereux pour l'homme ou son environnement doit faire mention dans les encarts de presse et les affiches de substances contenues et de leur inscription sur cette liste. En outre et pour l'ensemble des spécialités homologuées, la publicité sous forme de tout document volant, tract, notice ou catalogue, doit reproduire in extenso, en mentionnant leur origine, les indications prévues à l'article 7 de la loi du 2 novembre 1943 modifiée, telles qu'elles figurent sur les décisions d'homologation.
