@@ -2,9 +2,9 @@
 
 I - Peuvent seuls être promus ou nommés au grade supérieur :
 
-1° Les capitaines ayant au moins cinq ans et au plus neuf ans de grade qui ont exercé des fonctions de commandement pendant deux ans au moins dans les grades d'officiers subalternes ;
+1° Les capitaines ayant au moins cinq ans et au plus neuf ans de grade qui ont exercé des fonctions de commandement pendant deux ans au moins dans les grades d'officiers subalternes. La limite maximale d'ancienneté de grade s'apprécie, uniquement pour l'avancement de grade, au 1er janvier de l'année de promotion ;
 
-2° Les lieutenants-colonels ayant au moins trois ans et au plus sept ans de grade qui ont exercé des fonctions de commandement pendant deux ans au moins après leur promotion au grade de chef d'escadron ;
+2° Les lieutenants-colonels ayant au moins trois ans et au plus sept ans de grade qui ont exercé des fonctions de commandement pendant deux ans au moins après leur promotion au grade de chef d'escadron. La limite maximale d'ancienneté de grade s'apprécie, uniquement pour l'avancement de grade, au 1er janvier de l'année de promotion ;
 
 3° Les colonels ayant au moins quatre ans de grade ou trois ans de grade s'ils ont exercé dans ce grade des fonctions de commandement pendant deux ans au moins ;
 
@@ -12,7 +12,7 @@ I - Peuvent seuls être promus ou nommés au grade supérieur :
 
 Un arrêté du ministre chargé des armées détermine les postes comportant l'exercice de fonctions de commandement.
 
-II - Toutefois, les capitaines et les lieutenants-colonels ayant une ancienneté de grade supérieure aux limites maximum définies ci-dessus peuvent être promus au grade supérieur dans la limite respectivement de 5 p. 100 et de 2 p. 100 du nombre de promotions effectuées chaque année à chacun de ces grades, la limite du nombre de promotions au grade de colonel susceptibles d'intervenir à ce titre étant au moins égal à un.
+II - Toutefois, les capitaines et les lieutenants-colonels ayant une ancienneté de grade supérieure aux limites maximum définies ci-dessus peuvent être promus au grade supérieur dans la limite respectivement de 5 p. 100 et de 2 p. 100, arrondis chacun à l'unité supérieure, du nombre de promotions effectuées chaque année à chacun de ces grades, la limite du nombre de promotions au grade de colonel susceptibles d'intervenir à ce titre étant au moins égal à deux.
 
 III - Ne peuvent être promus ou nommés au grade supérieur que :
 
