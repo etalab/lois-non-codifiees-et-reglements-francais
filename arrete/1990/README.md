@@ -547,7 +547,6 @@
 - [Arrêté du 20 février 1990 (SPSS9000406A)](arrete-du-20-fevrier-1990-spss9000406a)
 - [Arrêté du 20 juillet 1990 (AGRS9001562A)](arrete-du-20-juillet-1990-agrs9001562a)
 - [Arrêté du 20 juillet 1990 (PTTE8901154A)](arrete-du-20-juillet-1990-ptte8901154a)
-- [Arrêté du 20 juillet 1990 (PTTE8901155A)](arrete-du-20-juillet-1990-ptte8901155a)
 - [Arrêté du 20 juillet 1990 (SPSM9001526A)](arrete-du-20-juillet-1990-spsm9001526a)
 - [Arrêté du 20 juin 1990 (MCCH9000415A)](arrete-du-20-juin-1990-mcch9000415a)
 - [Arrêté du 20 juin 1990 (PRME9061351A)](arrete-du-20-juin-1990-prme9061351a)
