@@ -85,6 +85,7 @@
 - [Décret n°54-538 du 26 mai 1954](decret-n54-538-du-26-mai-1954)
 - [Décret n°2001-1368 du 28 décembre 2001 (MJSK0170197D)](decret-n2001-1368-du-28-decembre-2001-mjsk0170197d)
 - [Décret n°2002-295 du 28 février 2002 (MENX0200016D)](decret-n2002-295-du-28-fevrier-2002-menx0200016d)
+- [Décret n°2002-423 du 29 mars 2002 (MESS0220838D)](decret-n2002-423-du-29-mars-2002-mess0220838d)
 - [Décret n°2002-649 du 29 avril 2002 (MJSK0270062D)](decret-n2002-649-du-29-avril-2002-mjsk0270062d)
 - [Décret n°2002-682 du 29 avril 2002 (FPPA0200037D)](decret-n2002-682-du-29-avril-2002-fppa0200037d)
 - [Décret n°2002-707 du 29 avril 2002 (MJSK0270082D)](decret-n2002-707-du-29-avril-2002-mjsk0270082d)
