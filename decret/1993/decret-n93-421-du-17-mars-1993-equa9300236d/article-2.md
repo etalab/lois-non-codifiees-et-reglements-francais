@@ -1,3 +1,0 @@
-# Article 2
-
-Les transporteurs aériens titulaires d'une licence d'exploitation délivrée en France et répondant aux conditions fixées par le règlement (C.E.E.) n° 2407-92 du 23 juillet 1992 susvisé ne peuvent exercer une activité de transport aérien public qu'au moyen d'aéronefs inscrits au registre d'immatriculation français. Toutefois, un arrêté du ministre chargé de l'aviation civile et du ministre chargé de l'économie et des finances précise, sans préjudice des dérogations prévues aux paragraphes 2 (b) et 3 de l'article 8 du règlement susmentionné, les conditions dans lesquelles des aéronefs immatriculés dans les Etats membres de la Communauté économique européenne autres que la France peuvent être utilisés.
