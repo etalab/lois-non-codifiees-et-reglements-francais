@@ -58,6 +58,8 @@
 - [Décret n°82-400 du 12 mai 1982](decret-n82-400-du-12-mai-1982)
 - [Décret n°82-425 du 12 mai 1982](decret-n82-425-du-12-mai-1982)
 - [Décret n°81-938 du 13 octobre 1981](decret-n81-938-du-13-octobre-1981)
+- [Décret n°82-602 du 13 juillet 1982](decret-n82-602-du-13-juillet-1982)
+- [Décret n°82-603 du 13 juillet 1982](decret-n82-603-du-13-juillet-1982)
 - [Décret n°82-780 du 13 septembre 1982](decret-n82-780-du-13-septembre-1982)
 - [Décret n°82-404 du 13 mai 1982](decret-n82-404-du-13-mai-1982)
 - [Décret n°82-407 du 13 mai 1982](decret-n82-407-du-13-mai-1982)
