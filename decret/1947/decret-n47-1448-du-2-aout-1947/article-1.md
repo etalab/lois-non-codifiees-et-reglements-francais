@@ -1,0 +1,3 @@
+# Article 1
+
+Sans préjudice de l'application du décret susvisé du 12 juin 1946 relatif à la marque nationale de qualité, le commerce d'exportation à l'étranger des fruits et légumes autres que ceux transformés en "conserves" ou "semi-conserves", au sens du décret susvisé du 10 février 1955, ainsi que des semences et plants de produits végétaux dont la liste sera établie par arrêtés concertés du ministre des finances, des affaires économiques et du plan, du secrétaire d'Etat à l'agriculture, du secrétaire d'Etat aux affaires économiques et du secrétaire d'Etat au budget, ne peut porter que sur des produits contenus dans des emballages revêtus d'un label dénommé label d'exportation.
