@@ -1,11 +1,15 @@
 # Article 97
 
-Paris "simple" et paris spécifiques au pari mutuel urbain :
+Etablissements habilités à enregistrer les paris.
 
-1. Les "agences du pari mutuel urbain". - Ces établissements sont habilités à enregistrer les paris "simple" et "par reports" et tous les paris spécifiques au pari mutuel urbain.
+Les paris peuvent être pris dans les postes d'enregistrement exploités par le Pari mutuel urbain (agences du Pari mutuel urbain).
 
-Les heures d'ouverture et de clôture des opérations sont affichées dans ces établissements.
+Lorsque le Pari mutuel urbain autorise des personnes privées à exploiter des postes d'enregistrement, ces établissements sont habilités à enregistrer les paris selon les modalités prévues par une licence générale délivrée par le Pari mutuel urbain. Cette licence peut prévoir l'enregistrement des paris :
 
-2. Les "points P.M.U."- Ces établissements sont habilités à enregistrer tous les paris spécifiques au pari mutuel urbain, ainsi que les paris simples et par reports, selon les modalités prévues par une licence générale délivrée par le pari mutuel urbain. Le jour de fermeture de l'établissement, les heures d'ouverture et de clôture des opérations, variables selon les saisons, sont affichés dans chaque établissement.
+- soit avant le début des opérations sur l'hippodrome (points PMU) ;
 
-Certains "points P.M.U. peuvent être habilités à n'enregistrer les paris que certains jours de la semaine ou qu'à certaines périodes de l'année; dans ce cas les parieurs en sont informés par des avis apposés dans les "points P.M.U. concernés.
+- soit au fur et à mesure du déroulement des opérations sur l'hippodrome (points courses) ;
+
+- soit dans les deux cas précités.
+
+Dans chaque établissement, les heures d'ouverture et de clôture des opérations, ainsi que les jours éventuels de fermeture sont affichés et les types de paris acceptés sont portés à la connaissance des parieurs.

@@ -1,6 +1,6 @@
 # Article 34
 
-Pour certaines épreuves désignées sur le programme officiel, des paris dénommés "jumelés" peuvent être organisés. Ces paris sont spécifiques à l'hippodrome. Toutefois, ils sont également acceptés dans certains postes d'enregistrement du pari mutuel urbain.
+Pour certaines épreuves désignées sur le programme officiel, des paris dénommés "jumelés" peuvent être organisés.
 
 Un pari "jumelé" consiste à désigner deux chevaux d'une même course.
 

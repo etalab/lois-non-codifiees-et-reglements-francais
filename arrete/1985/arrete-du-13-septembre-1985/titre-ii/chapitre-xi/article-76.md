@@ -1,6 +1,6 @@
 # Article 76
 
-Pour certaines épreuves désignées sur le programme officiel des paris dénommés "quarté" peuvent être organisés. Ces paris sont spécifiques au pari mutuel urbain et sont recueillis exclusivement dans les postes d'enregistrement du pari mutuel urbain.
+Pour certaines épreuves désignées sur le programme officiel des paris dénommés "quarté" peuvent être organisés.
 
 Un pari "quarté" consiste à désigner quatre chevaux d'une même course et à préciser leur ordre de classement à l'arrivée.
 

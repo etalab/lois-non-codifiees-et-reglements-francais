@@ -1,6 +1,6 @@
 # Article 86-1
 
-Pour certaines épreuves désignées sur le programme officiel, des paris dénommés "quarté plus" peuvent être organisés. Ces paris sont spécifiques au pari mutuel urbain et sont recueillis dans les postes d'enregistrement du pari mutuel urbain. Toutefois ils peuvent être enregistrés dans les points courses PMU et dans les clubs courses PMU visés à l'article 98, ainsi que dans l'enceinte des hippodromes. Les heures d'ouverture et de clôture des opérations d'enregistrement de ces paris dans les postes d'enregistrement précités sont portées à la connaissance du public par voie d'affichage dans chaque établissement concerné.
+Pour certaines épreuves désignées sur le programme officiel, des paris dénommés "quarté plus" peuvent être organisés.
 
 Un pari "quarté plus" consiste à désigner quatre chevaux d'une même course et à préciser leur ordre de classement à l'arrivée.
 
