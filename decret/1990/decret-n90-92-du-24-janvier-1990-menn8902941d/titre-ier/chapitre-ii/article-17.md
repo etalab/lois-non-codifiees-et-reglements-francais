@@ -4,6 +4,4 @@ Peuvent être promus à la première classe les maîtres de conférences des uni
 
 L'avancement à la première classe est prononcé par les ministres respectivement chargés de l'enseignement supérieur et de la santé, sur proposition de la section compétente du Conseil national des universités.
 
-Le conseil de l'unité de formation et de recherche d'odontologie établit, par discipline, une liste annuelle de classement de l'ensemble des membres du corps remplissant les conditions nécessaires pour être promus.
-
-Cette liste est transmise à la section compétente du Conseil national des universités qui établit ses propositions en respectant l'ordre de classement établi, par discipline, par les conseils des unités de formation et de recherche d'odontologie.
+Cette proposition est formulée après avis du conseil de l'unité de formation et de recherche d'odontologie sur l'ensemble des membres du corps remplissant, dans chaque section, les conditions nécessaires pour être promus.
