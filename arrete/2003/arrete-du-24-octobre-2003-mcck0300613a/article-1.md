@@ -10,6 +10,6 @@ Un représentant du ministre chargé de la culture ;
 
 Un représentant de l'Institut national de l'audiovisuel ;
 
-Douze membres, experts professionnels.
+Treize membres, experts professionnels.
 
 Le président et les membres de la commission sont nommés par décision du directeur général du Centre national de la cinématographie pour une durée de deux ans renouvelable.

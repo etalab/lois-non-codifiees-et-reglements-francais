@@ -1,0 +1,3 @@
+# Article 2
+
+Les opérations effectives de traitement des assemblages combustibles définis dans l'article 1er ci-dessus devront faire l'objet d'un accord opérationnel du directeur général de la sûreté nucléaire et de la radioprotection pour les assemblages combustibles significativement différents, au sens de l'article 5 du décret susvisé, des assemblages combustibles à base d'oxyde d'uranium enrichi avec un taux de combustion massique moyen de l'assemblage au plus égal à 45 000 mégawatts/jour par tonne et à une teneur moyenne de l'uranium en isotope 235 avant irradiation au plus égale à 3,70 % en masse, qui ont déjà fait l'objet d'un tel accord.

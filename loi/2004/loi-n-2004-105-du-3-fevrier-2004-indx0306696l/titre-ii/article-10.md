@@ -1,0 +1,3 @@
+# Article 10
+
+Les houillères de bassin créées par les décrets n° 46-1563 du 28 juin 1946 constituant les Houillères du bassin de Lorraine et n° 68-369 du 16 avril 1968 portant fusion des Houillères de bassin du Centre et du Midi et modification du décret du 4 septembre 1959 portant statut des Charbonnages de France et des houillères de bassin seront dissoutes dans un délai maximum de six mois à compter de la promulgation de la présente loi. Des arrêtés du ministre chargé des mines fixent les modalités de dissolution des houillères de bassin et prononcent le transfert de leurs activités, biens, droits et obligations à l'établissement public dénommé "Charbonnages de France". Ce transfert est exonéré de tous droits ou taxes.
