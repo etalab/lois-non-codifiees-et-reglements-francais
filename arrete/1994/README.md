@@ -975,7 +975,6 @@
 - [Arrêté du 24 janvier 1994 (MJSK9470016A)](arrete-du-24-janvier-1994-mjsk9470016a)
 - [Arrêté du 24 janvier 1994 (RESM9301749A)](arrete-du-24-janvier-1994-resm9301749a)
 - [Arrêté du 24 janvier 1994 (SPSH9400278A)](arrete-du-24-janvier-1994-spsh9400278a)
-- [Arrêté du 24 janvier 1994 (SPSS9400266A)](arrete-du-24-janvier-1994-spss9400266a)
 - [Arrêté du 24 juin 1994 (AGRG9302300A)](arrete-du-24-juin-1994-agrg9302300a)
 - [Arrêté du 24 juin 1994 (ECOS9450018A)](arrete-du-24-juin-1994-ecos9450018a)
 - [Arrêté du 24 juin 1994 (EQUS9401144A)](arrete-du-24-juin-1994-equs9401144a)
