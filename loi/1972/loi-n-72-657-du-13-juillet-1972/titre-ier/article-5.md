@@ -1,5 +1,3 @@
 # Article 5
 
-Le recouvrement des taxes prévues ci-dessus est assuré par et pour le compte d'un ou de plusieurs organismes de sécurité sociale désignés par le décret prévu à l'article 20.
-
-Les administrations compétentes sont tenues de communiquer aux caisses, sur la demande de celles-ci, les renseignements nécessaires au recouvrement.
+Le recouvrement de la taxe d'aide au commerce et à l'artisanat est assuré par la Caisse nationale de l'organisation autonome d'assurance vieillesse des professions industrielles et commerciales. Les administrations compétentes sont tenues de communiquer à la caisse, sur demande de celle-ci, les renseignements nécessaires au recouvrement.
