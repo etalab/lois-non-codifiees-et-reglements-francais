@@ -20,4 +20,4 @@ Cette option est ouverte de droit aux ressortissants des pays membres de la Comm
 
 4° Non-Résidents.
 
-Les personnes physiques ayant leur résidence habituelle à l'étranger et les personnes morales françaises ou étrangères pour leurs établissements à l'étranger. Il est précisé que les personnes physiques de nationalité française, à l'exception des fonctionnaires français en poste à l'étranger, acquièrent la qualité de non-résident lorsqu'elles sont établies à l'étranger depuis deux ans.
+Les personnes physiques ayant leur résidence habituelle à l'étranger et les personnes morales françaises ou étrangères pour leurs établissements à l'étranger. Il est précisé que les personnes physiques de nationalité française, à l'exception des fonctionnaires français en poste à l'étranger, acquièrent la qualité de non-résident lorsqu'elles sont établies à l'étranger depuis un an.
