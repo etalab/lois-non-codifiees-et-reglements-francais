@@ -4,8 +4,8 @@ Il est institué une procédure de règlement amiable destinée, par l'élaborat
 
 La procédure est engagée, à la demande du débiteur [*saisine*], devant une commission d'examen des situations de surendettement des particuliers instituée dans chaque département.
 
-La commission informe de l'ouverture de la procédure le juge d'instance du lieu du domicile du débiteur.
+La commission informe de l'ouverture de la procédure le juge de l'exécution du lieu du domicile du débiteur.
 
-Elle peut, en outre, saisir le juge d'instance aux fins de suspension des voies d'exécution qui seraient diligentées contre le débiteur.
+Elle peut, en outre, saisir le juge de l'exécution aux fins de suspension des voies d'exécution qui seraient diligentées contre le débiteur.
 
 La commission peut être également saisie par un juge dans les conditions prévues à l'article 11.
