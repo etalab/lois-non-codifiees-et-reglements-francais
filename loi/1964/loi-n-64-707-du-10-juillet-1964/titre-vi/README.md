@@ -1,6 +1,5 @@
 # Titre VI : Dispositions financières
 
-- [Chapitre Ier : Dispositions relatives aux communes](chapitre-ier)
 - [Chapitre II : Dispositions relatives aux départements](chapitre-ii)
 - [Chapitre III : Dispositions relatives aux travaux d'intérêt général.](chapitre-iii)
 - [Chapitre IV : Dispositions relatives à la préfecture de police.](chapitre-iv)
