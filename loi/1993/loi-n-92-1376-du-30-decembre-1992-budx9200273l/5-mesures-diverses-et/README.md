@@ -5,7 +5,6 @@
 - [Article 28](article-28.md)
 - [Article 29](article-29.md)
 - [Article 33](article-33.md)
-- [Article 34](article-34.md)
 - [Article 35](article-35.md)
 - [Article 43](article-43.md)
 - [Article 49](article-49.md)
