@@ -2,6 +2,7 @@
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
+- [Article 28 bis](article-28-bis.md)
 - [Annexes](annexes)
 - [Dispositions communes aux manifestations de 1ère et 2ème catégorie](dispositions-communes-aux)
 - [Catégories de manifestations](categories-de-manifestations)
