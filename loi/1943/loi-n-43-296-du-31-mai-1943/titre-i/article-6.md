@@ -1,0 +1,3 @@
+# Article 6
+
+Une fois approuvées par le commissaire du Gouvernement ou ratifiées par les secrétaires d'Etat dans les conditions prévues à l'article 5 ci-dessus, les propositions du groupement acquièrent la qualité de "décisions" et sont, à ce titre, homologuées par arrêté ministériel, qui, publié au Journal Officiel, les rend obligatoires pour tous les membres des professions intéressées. Toutefois, la fixation s'effectuera dans les conditions prévues par la loi du 21 octobre 1940 sur proposition du groupement national interprofessionnel. L'exécution des décisions du groupement interprofessionnel est assurée, le cas échéant, par les groupements professionnels intéressés.

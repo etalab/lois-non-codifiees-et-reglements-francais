@@ -2,7 +2,7 @@
 
 Les membres du Conseil supérieur ont l'obligation de s'acquitter des rapports qui leur sont demandés.
 
-Les membres du Conseil supérieur sont astreints au secret professionnel pour les faits et renseignements dont ils ont pu avoir connaissance en raison de leurs fonctions, dans les conditions et sous les peines prévues à l'article 378 du code pénal, ou de l'article 418 en cas de divulgation d'informations relevant du secret de fabrication.
+Les membres du Conseil supérieur sont astreints au secret professionnel pour les faits et renseignements dont ils ont pu avoir connaissance en raison de leurs fonctions, dans les conditions et sous les peines fixées par l'article 226-13 du code pénal, ou de l'article 418 en cas de divulgation d'informations relevant du secret de fabrication.
 
 Toutefois, les rapporteurs peuvent, avec l'autorisation du ministre chargé de la santé [*autorité compétente*] et l'accord du président de la formation à laquelle ils appartiennent, publier certains de leurs rapports ou certains informations contenues dans ceux-ci.
 

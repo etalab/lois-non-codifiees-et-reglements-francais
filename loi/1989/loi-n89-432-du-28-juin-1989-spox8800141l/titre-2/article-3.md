@@ -12,4 +12,4 @@ La commission est obligatoirement consultée par le ministre chargé des sports 
 
 Cette commission peut collaborer aux travaux du Comité national de la recherche et de la technologie institué par la loi n° 84-610 du 16 juillet 1984 précitée.
 
-Les membres et les agents de la commission sont astreints au secret professionnel pour les faits, actes et renseignements dont ils ont pu avoir connaissance en raison de leurs fonctions, dans les conditions et sous les peines prévues à l'article 378 du code pénal.
+Les membres et les agents de la commission sont astreints au secret professionnel pour les faits, actes et renseignements dont ils ont pu avoir connaissance en raison de leurs fonctions, dans les conditions et sous les peines fixées par l'article 226-13 du code pénal.

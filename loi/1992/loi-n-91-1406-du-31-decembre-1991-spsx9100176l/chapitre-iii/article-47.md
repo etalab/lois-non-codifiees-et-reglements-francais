@@ -24,13 +24,13 @@ L'offre indique l'évaluation retenue par le fonds pour chaque chef de préjudic
 
 VI. - La victime informe le fonds des procédures juridictionnelles éventuellement en cours. Si une action en justice est intentée, la victime informe le juge de la saisine du fonds.
 
-VII. - Les personnes qui ont à connaître des documents et informations fournis au fonds sont tenues au secret professionnel, dans les conditions et sous les peines prévues à l'article 378 du code pénal.
+VII. - Les personnes qui ont à connaître des documents et informations fournis au fonds sont tenues au secret professionnel, dans les conditions et sous les peines fixées par l'article 226-13 du code pénal.
 
 VIII. - La victime ne dispose du droit d'action en justice contre le fonds d'indemnisation que si sa demande d'indemnisation a été rejetée, si aucune offre ne lui a été présentée dans le délai mentionné au premier alinéa du V ou si elle n'a pas accepté l'offre qui lui a été faite. Cette action est intentée devant la cour d'appel de Paris.
 
 IX. - Le fonds est subrogé, à due concurrence des sommes versées dans les droits que possède la victime contre la personne responsable du dommage ainsi que contre les personnes tenues à un titre quelconque d'en assurer la réparation totale ou partielle dans la limite du montant des prestations à la charge desdites personnes. Toutefois, le fonds ne peut engager d'action au titre de cette subrogation que lorsque le dommage est imputable à une faute.
 
-Le fonds peut intervenir devant les juridictions de jugement en matière répressive même pour la première fois en cause d'appel en cas de constitution de partie civile de la victime ou de ses ayants droit contre le ou les responsables des préjudices définis au I. Il intervient alors à titre principal et peut user de toutes les voies de recours ouvertes par la loi.
+Le fonds peut intervenir devant les juridictions de jugement en matière répressive même pour la première fois en cause d'appel en cas de constitution de partie civile de la victime ou de ses ayants droit contre le ou les responsables des préjudices définis au I. Il interveient alors à titre principal et peut user de toutes les voies de recours ouvertes par la loi.
 
 Si les faits générateurs du dommage ont donné lieu à des poursuites pénales, le juge civil n'est pas tenu de surseoir à statuer jusqu'à décision définitive de la juridiction répressive.
 

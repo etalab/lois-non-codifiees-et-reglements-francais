@@ -8,4 +8,4 @@ L'agrément est donné par le responsable de l'aide sociale à l'enfance [*autor
 
 3° Un membre d'un conseil de famille des pupilles de l'Etat du département, nommé au titre du 2° ou du 3° de l'article 3 du décret du 23 août 1985 susvisé.
 
-Ces personnes sont tenues au secret professionnel selon l'article 378 du code pénal. Elles ne sont pas consultées sur les demandes d'agrément émanant de personnes à l'égard desquelles elles ont un lien personnel.
+Ces personnes sont tenues au secret professionnel selon les articles 226-13 et 226-14 du code pénal. Elles ne sont pas consultées sur les demandes d'agrément émanant de personnes à l'égard desquelles elles ont un lien personnel.

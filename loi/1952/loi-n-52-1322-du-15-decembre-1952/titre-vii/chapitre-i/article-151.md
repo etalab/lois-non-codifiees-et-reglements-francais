@@ -4,6 +4,6 @@ Les inspecteurs du travail et des lois sociales prêtent serment de bien et fid�
 
 Ce serment est prêté par écrit devant la cour d'appel ou le tribunal supérieur d'appel du ressort.
 
-Toute violation de ce serment est punie conformément à l'article 378 du code pénal.
+Toute violation de ce serment est punie conformément aux articles 226-13 et 226-14 du code pénal.
 
 Ils doivent tenir pour confidentielle toute plainte leur signalant un défaut dans l'installation ou une infraction aux dispositions légales ou réglementaires.

@@ -1,11 +1,19 @@
 # Article 7
 
-Le brevet des métiers d'art Ebéniste est délivré aux candidats ayant obtenu une moyenne égale ou supérieure à 10 sur 20 :
+La liste des électeurs, établie pour chacune des disciplines ou groupe de disciplines prévue à l'article 4 ci-dessus, est arrêtée par le ministre chargé de la santé.
 
-- d'une part, à l'unité constituée des épreuves pratiques
+Cette liste comprend les membres titulaires et suppléants représentants des praticiens des hôpitaux à temps partiel aux commissions paritaires régionales prévues à l'article 16 du décret du 29 mars 1985 susvisé.
 
-- d'autre part, à l'ensemble des unités constitutives de l'examen.
+Les électeurs sont inscrits sur la liste électorale correspondant à leur discipline d'exercice.
 
-Les points supérieurs à la moyenne obtenus à l'épreuve facultative sont pris en compte dans le total des points obtenus aux épreuves de l'ensemble des trois unités.
+Elle est affichée, deux mois au moins avant la date fixée pour le scrutin [*délai, lieu*] :
 
-L'obtention d'une moyenne égale ou supérieure à 10 sur 20 à l'ensemble des épreuves d'une même unité, sans note éliminatoire, permet d'en conserver le bénéfice durant cinq sessions.
+- dans les locaux de la direction des hôpitaux ;
+
+- dans les locaux des directions régionales des affaires sanitaires et sociales ;
+
+- dans les locaux des directions départementales des affaires sanitaires et sociales pour les départements d'outre-mer.
+
+Les praticiens disposent, pour formuler des observations sur les listes électorales, d'un délai de quatorze jours francs, à compter de l'affichage dans les locaux de la direction des hôpitaux. A l'issue de ce délai les listes sont affichées et considérées comme définitivement closes.
+
+Les réclamations doivent être adressées au ministère chargé de la santé (direction des hôpitaux).

@@ -1,3 +1,3 @@
 # Article 3
 
-L'examen comprend trois unités de contrôle obligatoires et une épreuve facultative au choix du candidat définies en annexe III, qui peuvent être subies soit au cours d'une même session, soit au cours de plusieurs sessions, sans ordre déterminé.
+Les représentants de l'administration membres titulaires ou suppléants venant, au cours de leur mandat, à cesser les fonctions à raison desquelles ils ont été nommés sont remplacés dans les conditions fixées à l'article précédent pour la durée du mandat restant à courir.
