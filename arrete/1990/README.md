@@ -25,7 +25,6 @@
 - [Arrêté du 1 mars 1991 (ACVA9110016A)](arrete-du-1-mars-1991-acva9110016a)
 - [Arrêté du 1 octobre 1990 (AGRG9002198A)](arrete-du-1-octobre-1990-agrg9002198a)
 - [Arrêté du 1 octobre 1990 (AGRS9000878A)](arrete-du-1-octobre-1990-agrs9000878a)
-- [Arrêté du 1 octobre 1990 (ECOC8800115A)](arrete-du-1-octobre-1990-ecoc8800115a)
 - [Arrêté du 1 octobre 1990 (ECOC9000099A)](arrete-du-1-octobre-1990-ecoc9000099a)
 - [Arrêté du 1 octobre 1990 (ECOZ9000064A)](arrete-du-1-octobre-1990-ecoz9000064a)
 - [Arrêté du 1 octobre 1990 (LOGC9000080A)](arrete-du-1-octobre-1990-logc9000080a)
