@@ -1,0 +1,5 @@
+# Article 3
+
+L'expérience professionnelle mentionnée au premier alinéa du a de l'article 1er du décret du 23 octobre 2000 susvisé est établie par le demandeur en produisant les justificatifs d'au moins trois années, continues ou discontinues, d'activité principale salariée ou indépendante, en rapport avec l'activité pour laquelle il sollicite l'octroi du certificat de capacité.
+
+S'agissant de l'expérience mentionnée au deuxième alinéa du a de l'article 1er du décret du 23 octobre 2000 susvisé, celle-ci est établie avec l'appui d'attestations soit de la présidente ou du président de la fondation ou de l'association de protection animale reconnue d'utilité publique au sein de laquelle le demandeur a exercé l'activité pour laquelle il sollicite l'octroi du certificat de capacité, soit, lorsque l'association au sein de laquelle le demandeur a exercé son activité est affiliée à une oeuvre reconnue d'utilité publique, de la présidente ou du président de cette oeuvre. Cette expérience peut avoir été acquise dans plusieurs établissements et au cours de plusieurs périodes.

@@ -10,6 +10,8 @@ La réglementation technique et de sécurité des remontées mécaniques est con
 
 4. Pour les mesures à mettre en oeuvre lors de la conception et de la construction des téléphériques monocâbles en vue d'assurer la sécurité du personnel d'exploitation, par l'instruction du 4 août 2000.
 
+5. Pour les mesures à mettre en oeuvre lors de la conception et de la construction des téléphériques bicâbles en vue d'assurer la sécurité du personnel d'exploitation, par l'instruction du 4 janvier 2001.
+
 Nota :
 
 (1) Cette instruction fera l'objet d'un texte officiel n° 89-7. L'ouvrage sera mis en vente à la Direction des Journaux officiels, 26, rue Desaix, 75727 PARIS CEDEX 15.

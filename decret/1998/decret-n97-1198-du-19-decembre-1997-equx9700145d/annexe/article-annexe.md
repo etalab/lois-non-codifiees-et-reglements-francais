@@ -290,6 +290,16 @@ Autorisation de créer un aérodrome en cas d'opposition des départements minis
 
 Article D. 221-2.
 
+Mesures prises par les ministres chargés des transports et de l'industrie
+
+Décret n° 2001-129 du 8 février 2001 portant transposition de la directive 96/48/CE du Conseil du 23 juillet 1996 relative à l'interopérabilité du système ferroviaire transeuropéen à grande vitesse.
+
+1
+
+Désignation des organismes habilités à mettre en oeuvre la procédure d'évaluation de la conformité ou de l'aptitude à l'emploi des constituants d'interopérabilité et la procédure de vérification CE des sous-systèmes.
+
+Art. 16
+
 B. - Décisions prises par un ministre
 
 Mesures prises par le ministre chargé de l'équipement
@@ -389,6 +399,56 @@ Retrait d'agrément, sanction envers les organismes HLM qui recueillent la parti
 Article R. 313-22.
 
 Mesures prises par le ministre chargé des transports
+
+I. - Décret n° 98-1190 du 23 décembre 1998 relatif à l'utilisation pour certains transports internationaux de l'infrastructure du réseau ferré national et portant transposition des directives du Conseil des Communautés européennes 91-440 du 29 juillet 1991, 95-18 et 95-19 du 19 juin 1995.
+
+1
+
+Délivrance, suspension temporaire et retrait des licences d'entreprises ferroviaires.
+
+Art. 4, 5 et 13
+
+2
+
+Délivrance, suspension temporaire et retrait des certificats de sécurité.
+
+Art. 4, 15 et 16
+
+Décret n° 2001-386 du 3 mai 2001 relatif aux équipements sous pression transportables et pris pour l'application du 1° de l'article 2 du décret n° 97-34 du 15 janvier 1997 relatif à la déconcentration des décisions administratives individuelles
+
+1
+
+Interdiction ou restriction de mise sur le marché, de transport ou d'utilisation d'équipements dangereux, ainsi que leur retrait.
+
+Prescription de conditions particulières de construction, de vérification, d'entretien ou d'utilisation d'équipement dangereux (citernes).
+
+Articles 19, 20 et 21
+
+2
+
+Habilitation ou agrément des organismes de contrôle ainsi que leur suspension ou retrait (citernes).
+
+Articles 14 et 24
+
+II. - Décret n° 2000-286 du 30 mars 2000 relatif à la sécurité du réseau ferré national.
+
+1
+
+Agrément des organismes ou services techniques indépendants.
+
+Art. 5
+
+2
+
+Approbation du dossier préliminaire de sécurité.
+
+Art. 7 et 8
+
+3
+
+Autorisation de mise en exploitation, suspension temporaire et retrait d'autorisations.
+
+Art. 12, 13 et 26
 
 Règlement (CEE) n° 684-92 du Conseil du 16 mars 1992 établissant des règles communes pour les transports internationaux de voyageurs effectués par autocars et autobus
 
@@ -722,7 +782,7 @@ Chapitre Ier du titre II, du livre IV (Personnel navigant).
 
 Décisions relatives à l'agrément des médecins et des centres médicaux pour l'examen médical des titulaires de licences des personnels navigants et des candidats à ces licences ; décisions en matière de reconnaissance d'incapacité temporaire ou permanente de travail et de décès consécutifs d'un accident aérien survenu en service ou une maladie imputable au service aérien.
 
-Articles L. 424-1, L.  424-2
+Articles L. 424-1, L. 424-2
 
 et D. 424-2.
 
