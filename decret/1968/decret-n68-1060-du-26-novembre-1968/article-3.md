@@ -1,5 +1,0 @@
-# Article 3
-
-Après avoir été arrêtés dans les conditions fixées par les règlements les comptes annuels des organismes de sécurité sociale, comprenant la balance générale des comptes à la clôture de l'exercice, les comptes d'exploitation et de pertes et profits et les autres comptes de résultats, ainsi que le bilan et tous états de développement nécessaires, sont adressés par ces organismes, avant le 1er avril qui suit la fin de l'exercice [*date limite*], au secrétariat du comité départemental d'examen compétent. Ces comptes doivent être accompagnés des rapports des commissions de contrôle interne des organismes intéressés. Doivent être en outre transmis au comité, avant le 1er juillet qui suit la fin de l'exercice, les rapports des agents du Trésor et des services de contrôle des ministères de tutelle concernant les comptes en cause.
-
-Les organismes de sécurité sociale sont, en outre, tenus de fournir au comité départemental d'examen, sur demande de ce dernier, tous documents, justifications et compléments d'informations nécessaires à l'accomplissement de sa mission.
