@@ -10,4 +10,4 @@ Seront punis d'un emprisonnement de six mois et d'une amende de 40.000 F [*sanct
 
 4° Dont la société aura procédé à l'amortissement de son capital alors que la totalité des actions à dividende prioritaire sans droit de vote n'ont pas été intégralement rachetées et annulées ;
 
-5° Dont la société, en cas de réduction du capital non motivée par des pertes, n'aura pas racheté, en vue de leur annulation, les actions à dividende prioritaire sans droit de vote avant les actions ordinaires.
+5° Dont la société, en cas de réduction du capital non motivée par des pertes et réalisée selon les modalités prévues à l'article 217-1 A, n'aura pas racheté, en vue de leur annulation, les actions à dividende prioritaire sans droit de vote avant les actions ordinaires.
