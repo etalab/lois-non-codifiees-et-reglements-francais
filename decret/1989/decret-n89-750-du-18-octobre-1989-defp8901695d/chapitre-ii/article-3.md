@@ -25,3 +25,5 @@ Le même nombre de places est offert au titre de chacun des deux concours.
 Les postes ouverts aux concours qui n'auraient pas été pourvus par la nomination des candidats à l'un des concours peuvent être attribués par le ministre de la défense à l'autre concours. Ce report ne peut avoir pour conséquence que le nombre des emplois offerts à l'un des concours soit supérieur aux deux tiers du nombre total de places offertes aux deux concours.
 
 Les concours sont ouverts par spécialités. La liste des spécialités ainsi que les modalités d'organisation et les programmes des concours sont fixés par arrêté conjoint du ministre chargé de la défense et du ministre chargé de la fonction publique.
+
+Pour la désignation des membres des jurys, il peut être dérogé jusqu'au 31 décembre 2007 à la proportion minimale d'un tiers de personnes de chaque sexe.

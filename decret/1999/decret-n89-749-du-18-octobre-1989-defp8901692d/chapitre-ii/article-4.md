@@ -15,3 +15,5 @@ La liste complémentaire établie pour chacun des concours ne peut comporter un 
 Les emplois qui n'ont pu être pourvus à l'issue de l'un des concours peuvent être attribués aux candidats de l'autre concours dans la limite du quart des emplois offerts.
 
 Les concours sont ouverts par spécialités. La liste des spécialités ainsi que les modalités d'organisation et les programmes de ces concours sont fixés par arrêté conjoint du ministre de la défense et du ministre chargé de la fonction publique.
+
+Pour la désignation des membres des jurys, il peut être dérogé jusqu'au 31 décembre 2007 à la proportion minimale d'un tiers de personnes de chaque sexe.
