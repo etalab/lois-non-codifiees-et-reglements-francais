@@ -1,0 +1,3 @@
+# Article 63
+
+Les marins bénéficiant d'une pension anticipée sur la caisse de retraites des marins, et qui avaient été reconnus atteints d'une maladie ayant son origine dans un risque professionnel maritime par le Conseil supérieur de santé avant le 1er juillet 1999, peuvent demander au titre de cette maladie, dans un délai de deux ans à compter du 1er juillet 2001, le bénéfice de la pension d'invalidité visée à l'article 16. Dans ce cas, le versement de la pension anticipée sur la caisse de retraites des marins sera supprimé pour compter de la date d'entrée en jouissance de la pension d'invalidité, en application de l'article 18.
