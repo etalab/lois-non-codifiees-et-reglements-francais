@@ -315,7 +315,6 @@
 - [Arrêté du 16 juillet 2001 (MENP0101562A)](arrete-du-16-juillet-2001-menp0101562a)
 - [Arrêté du 16 mars 2001 (AGRP0100213A)](arrete-du-16-mars-2001-agrp0100213a)
 - [Arrêté du 16 mars 2001 (ECOF0100002A)](arrete-du-16-mars-2001-ecof0100002a)
-- [Arrêté du 16 novembre 2001 (AGRP0102353A)](arrete-du-16-novembre-2001-agrp0102353a)
 - [Arrêté du 16 novembre 2001 (AGRS0102258A)](arrete-du-16-novembre-2001-agrs0102258a)
 - [Arrêté du 16 novembre 2001 (MJSK0170145A)](arrete-du-16-novembre-2001-mjsk0170145a)
 - [Arrêté du 16 novembre 2001 (PRMX0105173A)](arrete-du-16-novembre-2001-prmx0105173a)
