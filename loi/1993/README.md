@@ -12,3 +12,4 @@
 - [Loi n° 93-935 du 22 juillet 1993 (AGRX9300028L)](loi-n-93-935-du-22-juillet-1993-agrx9300028l)
 - [Loi n° 93-936 du 22 juillet 1993 (SPSX9300090L)](loi-n-93-936-du-22-juillet-1993-spsx9300090l)
 - [Loi n° 93-937 du 22 juillet 1993 (MAEX9300139L)](loi-n-93-937-du-22-juillet-1993-maex9300139l)
+- [Loi n° 93-949 du 26 juillet 1993 (ECOX9300016L)](loi-n-93-949-du-26-juillet-1993-ecox9300016l)

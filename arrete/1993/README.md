@@ -809,6 +809,7 @@
 - [Arrêté du 29 juin 1993 (ENVP9320241A)](arrete-du-29-juin-1993-envp9320241a)
 - [Arrêté du 29 juin 1993 (ENVP9320242A)](arrete-du-29-juin-1993-envp9320242a)
 - [Arrêté du 29 juin 1993 (INDA9300559A)](arrete-du-29-juin-1993-inda9300559a)
+- [Arrêté du 29 juin 1993 (INTC9300427A)](arrete-du-29-juin-1993-intc9300427a)
 - [Arrêté du 29 mars 1993 (AGRS9202303A)](arrete-du-29-mars-1993-agrs9202303a)
 - [Arrêté du 29 mars 1993 (AGRS9202304A)](arrete-du-29-mars-1993-agrs9202304a)
 - [Arrêté du 29 mars 1993 (INTA9300244A)](arrete-du-29-mars-1993-inta9300244a)

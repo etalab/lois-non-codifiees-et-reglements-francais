@@ -6,7 +6,7 @@ Le contrat de location-accession doit préciser :
 
 2° le prix de vente du bien, les modalités de paiement ainsi que, le cas échéant, la faculté pour l'accédant de payer par anticipation tout ou partie du prix et les modalités de révision de celui-ci, s'il est révisable. Cette révision ne porte que sur la fraction du prix restant due après chaque versement de la redevance ;
 
-3° l'intention de l'accédant de payer le prix, directement ou indirectement, même en partie, à l'exclusion du versement de la redevance, avec ou sans l'aide d'un ou plusieurs prêts régis par le chapitre premier de la loi n° 79-596 du 13 juillet 1979 relative à l'information et à la protection des emprunteurs dans le domaine immobilier ;
+3° l'intention de l'accédant de payer le prix, directement ou indirectement, même en partie, à l'exclusion du versement de la redevance, avec ou sans l'aide d'un ou plusieurs prêts régis par les articles L. 312-2 à L. 313-1 du code de la consommation ;
 
 4° la date d'entrée en jouissance et le délai dans lequel l'accédant devra exercer la faculté qui lui est reconnue d'acquérir la propriété ainsi que les conditions de résiliation anticipée du contrat ;
 
