@@ -1,29 +1,25 @@
 # Article 18
 
-La commission technique du laboratoire d'essais est nommée pour quatre ans par le ministre de l'instruction publique et des beaux-arts, elle comprend :
+Le laboratoire a pour objet de développer les moyens d'essais, de contrôle, de mesure et de référence, et d'effectuer des recherches et études appliquées.
 
-Un membre du conseil d'administration, président ;
+Il a pour missions :
 
-Le directeur du laboratoire ;
+1° A l'égard de l'Etat
 
-Trois professeurs du conservatoire titulaires de cours se rapportant aux opérations du laboratoire ;
+a) De mettre au point, puis d'appliquer le cas échéant, sur demande des divers départements ministériels ou organismes intéressés, des méthodes de contrôle ou d'essais nécessaires aux tests exigés par la réglementation officielle, ou utiles à l'information et à la protection des consommateurs ;
 
-Un membre du bureau national des poids et mesures ;
+b) D'effectuer certains tests, contrôles, expertises ou études indispensables à la préparation, l'exécution ou le contrôle technique de marchés et contrats publics ;
 
-Un représentant du ministère des travaux publics ;
+c) De participer, dans le cadre de la politique définie par le bureau national de métrologie, aux programmes de recherches, d'études ou de développement de métrologie appliquée et industrielle ;
 
-Sept membres choisis dans les corps savants, les services publics ou l'industrie ;
+d) De participer, notamment à la demande du service des instruments de mesure, à la définition et à l'exécution de certains contrôles d'instruments de mesures tels que, par exemple, les thermomètres médicaux et les alcoomètres ;
 
-Un membre choisi parmi les directeurs des laboratoires d'essais privés ;
+e) De façon générale, d'exécuter les études ou recherches techniques qui pourraient lui être confiées par l'Etat.
 
-Deux membres de la chambre de commerce de Paris ;
+2° A l'égard des collectivités publiques, des organismes publics ou privés et des particuliers :
 
-Un représentant de la société des ingénieurs civils de France ;
+a) De mettre à leur disposition des moyens d'essais, de contrôles de mesures ou de référence ;
 
-Un représentant de la société d'encouragement pour l'industrie nationale ;
+b) De leur apporter une assistance technique et d'effectuer toutes les études et recherches dans les domaines de sa compétence.
 
-Un membre du comité des forges de France ;
-
-Un membre de la société centrale des architectes français ;
-
-La commission dispose d'un secrétaire choisi dans le personnel du laboratoire.
+Les résultats des travaux définis aux paragraphes 1 et 2 ci-dessus peuvent être consignés dans des procès-verbaux officiels.
