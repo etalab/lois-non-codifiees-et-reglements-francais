@@ -24,7 +24,7 @@ Quatre par le Conseil national du patronat français (CNPF), dont un en accord a
 
 Un par la fédération nationale des syndicats d'exploitants agricoles (FNSEA).
 
-c) Un représentant de chacun des ministères chargés des affaires sociales, du travail, de l'emploi, de l'intérieur, de la justice, des relations extérieures, de l'agriculture, de l'éducation nationale, de l'urbanisme et du logement, de la formation professionnelle, de la culture, du temps libre, de la jeunesse et des sports et des droits de la femme ;
+c) Le secrétaire général à l'intégration et un représentant de chacun des ministères chargés des affaires sociales, du travail, de l'emploi, de l'intérieur, de la justice, des relations extérieures, de l'agriculture, de l'éducation nationale, de l'urbanisme et du logement, de la formation professionnelle, de la culture, du temps libre, de la jeunesse et des sports et des droits de la femme ;
 
 d) Le président du conseil d'administration du fonds d'action sociale pour les travailleurs immigrés et leur famille, le président du conseil d'administration de l'Office des migrations internationales ; le président de l'union nationale des associations familiales ;
 
