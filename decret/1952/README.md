@@ -9,7 +9,6 @@
 - [Décret n°52-1050 du 10 septembre 1952](decret-n52-1050-du-10-septembre-1952)
 - [Décret n°50-60 du 11 janvier 1950](decret-n50-60-du-11-janvier-1950)
 - [Décret n°52-672 du 11 juin 1952](decret-n52-672-du-11-juin-1952)
-- [Décret n°52-968 du 12 août 1952](decret-n52-968-du-12-aout-1952)
 - [Décret n° 52-77 du 15 janvier 1952](decret-n-52-77-du-15-janvier-1952)
 - [Décret n°52-1326 du 15 décembre 1952](decret-n52-1326-du-15-decembre-1952)
 - [Décret n°52-1327 du 15 décembre 1952](decret-n52-1327-du-15-decembre-1952)
