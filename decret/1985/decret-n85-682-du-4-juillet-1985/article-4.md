@@ -10,6 +10,8 @@ Le comité national élit, chaque année, en son sein un bureau composé d'un pr
 
 Le comité national se réunit sur la convocation de son président et sur l'ordre du jour fixé par lui. Il est également réuni à la demande de la majorité de ses membres ou du ministre chargé du travail. Il ne peut délibérer que si trois membres au moins appartenant à chaque catégorie sont présents. A défaut, convoqué une nouvelle fois dans les quinze jours et sur le même ordre du jour, il délibère sans condition de nombre.
 
+Sauf convocation du comité national en cas d'urgence dûment motivée, les dossiers relatifs à l'ordre du jour sont adressés aux membres, ainsi qu'aux représentants avec voix consultative, quinze jours au moins avant la date fixée sur la convocation.
+
 Le secrétaire général, un représentant de la Caisse nationale d'assurance maladie et le représentant du ministre chargé du travail assistent aux séances avec voix consultative. Ce dernier peut jouer le rôle d'arbitre en cas de nécessité.
 
 Le conseil peut faire appel, le cas échéant, à toute personne qualifiée.
