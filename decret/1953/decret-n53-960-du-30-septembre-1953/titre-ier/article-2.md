@@ -8,8 +8,10 @@ Les dispositions du présent décret s'appliquent également :
 
 3° Aux baux d'immeubles ou de locaux principaux ou accessoires, nécessaires à la poursuite de l'activité des entreprises publiques et établissements publics à caractère industriel ou commercial, dans les limites définies par les lois et règlements qui les régissent et à condition que ces baux ne comportent aucune emprise sur le domaine public ;
 
-4° Sous réserve des dispositions des articles 17 et 18 ci-après, aux baux des locaux ou immeubles appartenant à l'Etat, aux départements, aux communes [*collectivités locales*] et aux établissements publics, dans le cas où ces locaux ou immeubles satisfont aux dispositions de l'article 1er du présent décret ou aux alinéas 1° et 2° du présent article.
+4° Sous réserve des dispositions des articles 17 et 18 ci-après, aux baux des locaux ou immeubles appartenant à l'Etat, aux départements, aux communes et aux établissements publics, dans le cas où ces locaux ou immeubles satisfont aux dispositions de l'article 1er du présent décret ou aux alinéas 1° et 2° du présent article.
 
 5° Aux baux d'immeubles abritant soit des sociétés coopératives ayant la forme commerciale ou un objet commercial, soit des sociétés coopératives de crédit.
+
+6° Aux baux des locaux consentis à des artistes admis à cotise à la caisse de sécurité sociale de la maison des artistes et reconnus auteurs d'oeuvres graphiques et plastiques, tels que définis par l'article 71 de l'annexe III du code général des impôts.
 
 Toutefois, les dispositions du présent décret ne sont pas applicables aux autorisations d'occupation précaires accordées par l'Administration sur un immeuble acquis par elle à la suite d'une déclaration d'utilité publique.
