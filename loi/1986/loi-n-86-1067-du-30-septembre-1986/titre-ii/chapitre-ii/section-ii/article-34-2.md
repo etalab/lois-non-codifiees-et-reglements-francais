@@ -6,7 +6,7 @@ La déclaration est accompagnée d'un dossier comportant les éléments suivants
 
 Toute modification de ces éléments doit être préalablement notifiée au Conseil supérieur de l'audiovisuel.
 
-Pour l'application des articles 41-3 et 41-4, le titulaire d'un récépissé de déclaration est regardé comme le titulaire d'une autorisation de distributeur de services.
+Pour l'application des articles 41-1-1 et 41-2-1, le titulaire d'un récépissé de déclaration est regardé comme le titulaire d'une autorisation de distributeur de services.
 
 Un décret en Conseil d'Etat précise les conditions dans lesquelles chaque distributeur de services par satellite dont l'offre comporte des services ayant fait l'objet d'une convention en application de l'article 33-1 doit assurer, parmi ceux-ci, des proportions minimales de services en langue française, qui, d'une part, ne sont contrôlés directement ou indirectement ni par le distributeur, ni par l'un de ses actionnaires détenant au moins 5 % de son capital, ni par la personne physique ou morale qui contrôle directement ou indirectement au moins la moitié des services concernés et, d'autre part, ne sont pas contrôlés directement ou indirectement par un distributeur de services au sens de l'article 2-1.
 

@@ -1,6 +1,6 @@
 # Article 41-2-1
 
-Afin de prévenir les atteintes au pluralisme sur le plan régional et local en mode numérique, aucune autorisation ne peut être délivrée en application des articles 30-1 ou 30-2 pour une zone géographique déterminée à une personne qui se trouverait, de ce fait, dans plus de deux des situations suivantes :
+Afin de prévenir les atteintes au pluralisme sur le plan régional et local en mode numérique, aucune autorisation autre que nationale ne peut être délivrée en application des articles 30-1 ou 30-2 pour une zone géographique déterminée à une personne qui se trouverait, de ce fait, dans plus de deux des situations suivantes :
 
 1° Etre titulaire d'une ou de plusieurs autorisations relatives à des services de télévision en numérique, à caractère national ou non, diffusés par voie hertzienne terrestre dans la zone considérée ;
 

@@ -1,6 +1,10 @@
 # Article 39
 
-I. - Une même personne physique ou morale agissant seule ou de concert ne peut détenir, directement ou indirectement, plus de 49 p. 100 du capital ou des droits de vote d'une société titulaire d'une autorisation relative à un service national de télévision par voie hertzienne terrestre.
+I. - Une même personne physique ou morale agissant seule ou de concert ne peut détenir, directement ou indirectement, plus de 49 % du capital ou des droits de vote d'une société titulaire d'une autorisation relative à un service national de télévision diffusé par voie hertzienne terrestre dont l'audience moyenne annuelle par voie hertzienne terrestre, par câble et par satellite, tant en mode analogique qu'en mode numérique, dépasse 2,5 % de l'audience totale des services de télévision.
+
+Pour l'application de l'alinéa précédent, l'audience de chacun des programmes consistant, au sens du 14° de l'article 28, en la rediffusion, intégrale ou partielle, par voie hertzienne terrestre, par câble et par satellite, d'un service de télévision diffusé est comptabilisée conjointement avec celle du service rediffusé.
+
+Un décret en Conseil d'Etat précise les modalités d'application des deux alinéas précédents. Il fixe notamment les conditions dans lesquelles le Conseil supérieur de l'audiovisuel constate la part d'audience des services de télévision et, en cas de franchissement du niveau d'audience mentionné ci-dessus, impartit aux personnes concernées un délai qui ne peut être supérieur à un an, pour se mettre en conformité avec la règle précitée.
 
 Lorsqu'une personne physique ou morale détient, directement ou indirectement, plus de 15 p. 100 du capital ou des droits de vote d'une société titulaire d'une autorisation relative à un service national de télévision par voie hertzienne terrestre en mode analogique, elle ne peut détenir, directement ou indirectement, plus de 15 p. 100 du capital ou des droits de vote d'une autre société titulaire d'une telle autorisation.
 

@@ -34,4 +34,6 @@ Dans la mesure de leur viabilité économique et financière, notamment au regar
 
 Il veille en outre à favoriser les services à vocation locale, notamment ceux consistant en la reprise des services locaux conventionnés au titre de l'article 33-1.
 
+Lorsque le Conseil supérieur de l'audiovisuel autorise un ou plusieurs programmes consistant, dans les conditions prévues au 14° de l'article 28, en la rediffusion, intégrale ou partielle, d'un service de télévision diffusé par voie hertzienne terrestre, chacun de ces programmes est considéré, pour l'application du troisième alinéa de l'article 41, comme faisant l'objet d'une autorisation distincte.
+
 IV. - Dans la mesure de la ressource radioélectrique disponible et au vu des propositions de regroupement formulées par les candidats, le Conseil supérieur de l'audiovisuel précise sur quelle fréquence s'exerce le droit d'usage accordé à chaque service en veillant au mieux à la cohérence technique et commerciale des regroupements ainsi constitués.

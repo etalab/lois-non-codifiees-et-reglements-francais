@@ -1,3 +1,5 @@
 # Article 58
 
 Des décrets en Conseil d'Etat fixent les modalités des différents régimes de congé et déterminent leurs effets sur la situation administrative des fonctionnaires. Ils fixent également les modalités d'organisation et de fonctionnement des comités médicaux compétents en matière de congé de maladie, de longue maladie et de longue durée. Ils déterminent, en outre, les obligations auxquelles les fonctionnaires demandant le bénéfice ou bénéficiant des congés prévus aux 2°, 3° et 4° de l'article 57 sont tenus de se soumettre en vue, d'une part, de l'octroi ou du maintien de ces congés et, d'autre part, du rétablissement de leur santé, sous peine de voir réduire ou supprimer le traitement qui leur avait été conservé.
+
+En cas de congé de maladie, les modalités de contrôle applicables aux fonctionnaires territoriaux sont applicables également aux agents sous contrat de droit privé, avec toutes les conséquences qui en résultent. Le médecin contrôleur agréé transmet son rapport simultanément à l'autorité territoriale et, pour simple information, au médecin contrôleur de la sécurité sociale qui ne peut remettre en cause l'avis du médecin contrôleur agréé.
