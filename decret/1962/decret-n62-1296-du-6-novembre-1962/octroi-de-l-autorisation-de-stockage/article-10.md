@@ -1,5 +1,3 @@
 # Article 10
 
-Le ministre invite le demandeur à fournir autant de copies de la demande et des différentes pièces annexées qu'il apparaît nécessaire [*nombre*]. Il saisit de la demande le préfet et le chef d'arrondissement minéralogique intéressés [*destinataires*].
-
-Lorsque la demande concerne plusieurs arrondissements minéralogiques, il désigne parmi les chefs de ces arrondissements un ingénieur en chef des mines centralisateur.
+Dans les huit jours suivant la réception du dossier, le commissaire de la République transmet le dossier au directeur régional de l'industrie et de la recherche concerné qui vérifie la demande et la fait éventuellement compléter ou rectifier par le pétitionnaire. Si plusieurs directeurs régionaux de l'industrie et de la recherche sont intéressés, le commissaire de la République adresse le dossier à chacun d'eux. Il consulte les conseils généraux, les conseils municipaux, les chambres d'agriculture intéressés ainsi que les services et organismes qui figurent sur une liste arrêtée par le ministre chargé du gaz. Les conseils, organismes et services consultés sont invités à formuler leur avis sur le stockage projeté dans un délai de deux mois. Les avis sont réputés favorables faute de réponse dans ce délai.
