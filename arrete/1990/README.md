@@ -542,7 +542,6 @@
 - [Arrêté du 18 décembre 1990 (SPSS9002530A)](arrete-du-18-decembre-1990-spss9002530a)
 - [Arrêté du 18 décembre 1990 (SPSS9002531A)](arrete-du-18-decembre-1990-spss9002531a)
 - [Arrêté du 18 février 1986](arrete-du-18-fevrier-1986)
-- [Arrêté du 18 janvier 1990 (BUDF9020277A)](arrete-du-18-janvier-1990-budf9020277a)
 - [Arrêté du 18 janvier 1990 (MCCA9000059A)](arrete-du-18-janvier-1990-mcca9000059a)
 - [Arrêté du 18 janvier 1990 (SPSA9000208A)](arrete-du-18-janvier-1990-spsa9000208a)
 - [Arrêté du 18 juillet 1990 (AGRG9001603A)](arrete-du-18-juillet-1990-agrg9001603a)
