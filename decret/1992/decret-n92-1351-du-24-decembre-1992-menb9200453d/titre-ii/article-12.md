@@ -1,6 +1,6 @@
 # Article 12
 
-Les conventions qui lient l'établissement public et les organismes associés sont approuvées par le ministre chargé de la culture. Elles déterminent notamment :
+Les conventions qui lient l'établissement public et les organismes associés déterminent notamment :
 
 1° Les modalités de la participation des organismes associés aux activités du centre ;
 
