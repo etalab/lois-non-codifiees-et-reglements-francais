@@ -1,3 +1,0 @@
-# Article 25
-
-Tout cheptel bovin appelé à transhumer doit être accompagné d'une autorisation de transhumance délivrée conformément aux instructions du ministre de l'agriculture et de la forêt. La demande de transhumance, établie à la diligence du propriétaire ou du détenteur des animaux, est adressée au directeur des services vétérinaires du département d'origine, qui atteste la qualification sanitaire du cheptel et la transmet au directeur des services vétérinaires du département d'accueil. Ce dernier adresse au demandeur l'autorisation de transhumance après y avoir mentionné les pâturages autorisés et les conditions d'accès imposées ; le cas échéant, il lui notifie un refus motivé.

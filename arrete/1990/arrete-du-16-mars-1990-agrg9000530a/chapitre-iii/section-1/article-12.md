@@ -1,3 +1,0 @@
-# Article 12
-
-Sans préjudice des dispositions prévues à l'article 17 du présent arrêté, la circulation sur l'ensemble du territoire national de bovins non indemnes de tuberculose au sens de l'article 11 (2°) du présent arrêté est interdite, sauf à destination directe d'un abattoir habilité comme prévu à l'article 5 ci-dessus, sans rupture de charge et sous couvert d'un laissez-passer - titre d'élimination délivré selon les modalités définies à l'article 27 ci-après. Pour les cheptels nouvellement créés en cours de qualification, la circulation des animaux non encore reconnus indemnes est soumise à l'autorisation du directeur des services vétérinaires.
