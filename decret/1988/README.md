@@ -23,6 +23,7 @@
 - [Décret n°88-818 du 13 juillet 1988 (MAEJ8830045D)](decret-n88-818-du-13-juillet-1988-maej8830045d)
 - [Décret n°88-238 du 14 mars 1988 (INTB8800070D)](decret-n88-238-du-14-mars-1988-intb8800070d)
 - [Décret n°88-242 du 14 mars 1988 (INTB8800069D)](decret-n88-242-du-14-mars-1988-intb8800069d)
+- [Décret n°88-244 du 14 mars 1988 (INTB8800067D)](decret-n88-244-du-14-mars-1988-intb8800067d)
 - [Décret n°88-770 du 17 juin 1988 (AGRS8800909D)](decret-n88-770-du-17-juin-1988-agrs8800909d)
 - [Décret n°88-821 du 18 juillet 1988 (MENX8800104D)](decret-n88-821-du-18-juillet-1988-menx8800104d)
 - [Décret n°88-822 du 18 juillet 1988 (TEFX8800094D)](decret-n88-822-du-18-juillet-1988-tefx8800094d)
