@@ -1,7 +1,9 @@
 # Article 8
 
-La commission ne peut valablement se réunir que si au moins cinq de ses membres sont présents.
+La commission peut se réunir en formation plénière ou en formation restreinte.
 
-Les recommandations sont adoptées à la majorité des membres présents. En cas de partage, la voix du président est prépondérante.
+Les formations restreintes comprennent au moins trois membres de la commission, dont un des membres mentionnés au 1° de l'article 3 qui en assure la présidence.
 
-Les séances de la commission ne sont pas publiques.
+La formation plénière ne peut se réunir valablement que si au moins six des membres de la commission sont présents.
+
+Les séances de la formation plénière et des formations restreintes ne sont pas publiques.

@@ -10,7 +10,7 @@ La commission est composée de :
 
 4° Deux professeurs d'université ;
 
-5° Une personnalité qualifiée.
+5° Deux personnalités qualifiées.
 
 Le président de la commission est choisi parmi les membres mentionnés au 1°.
 
