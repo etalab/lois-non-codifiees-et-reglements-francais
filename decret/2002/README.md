@@ -591,6 +591,7 @@
 - [Décret n°2002-933 du 13 juin 2002 (ECOX0100189D)](decret-n2002-933-du-13-juin-2002-ecox0100189d)
 - [Décret n°73-278 du 13 mars 1973](decret-n73-278-du-13-mars-1973)
 - [Décret n°2002-1260 du 14 octobre 2002 (FPPA0210023D)](decret-n2002-1260-du-14-octobre-2002-fppa0210023d)
+- [Décret n°2002-1355 du 14 novembre 2002 (COPX0200161D)](decret-n2002-1355-du-14-novembre-2002-copx0200161d)
 - [Décret n°2002-181 du 14 février 2002 (INTB0200025D)](decret-n2002-181-du-14-fevrier-2002-intb0200025d)
 - [Décret n°2002-184 du 14 février 2002 (DEFP0102467D)](decret-n2002-184-du-14-fevrier-2002-defp0102467d)
 - [Décret n°2002-185 du 14 février 2002 (DEFP0201170D)](decret-n2002-185-du-14-fevrier-2002-defp0201170d)
