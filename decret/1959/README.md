@@ -28,6 +28,7 @@
 - [Décret n°59-310 du 14 février 1959](decret-n59-310-du-14-fevrier-1959)
 - [Décret n°59-729 du 15 juin 1959](decret-n59-729-du-15-juin-1959)
 - [Décret n°59-734 du 15 juin 1959](decret-n59-734-du-15-juin-1959)
+- [Décret n°59-736 du 15 juin 1959](decret-n59-736-du-15-juin-1959)
 - [Décret n°59-733 du 16 juin 1959](decret-n59-733-du-16-juin-1959)
 - [Décret n°59-645 du 16 mai 1959](decret-n59-645-du-16-mai-1959)
 - [Décret n°59-635 du 19 mai 1959](decret-n59-635-du-19-mai-1959)
