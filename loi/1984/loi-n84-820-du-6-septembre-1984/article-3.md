@@ -30,7 +30,7 @@ Les autorités de l'Etat sont compétentes dans les matières suivantes :
 
 17° Enseignement supérieur, sous réserve des dispositions des 3° et 4° de l'article 25 ; recherche scientifique sans préjudice de la faculté pour le territoire d'organiser ses propres services de recherche ;
 
-18° Communication audiovisuelle dans le respect de l'identité culturelle polynésienne et de la législation propre au territoire. Toutefois, le territoire, sous réserve des missions confiées à la Haute autorité par la loi n° 82-652 du 29 juillet 1982 sur la communication audiovisuelle, a la faculté de créer une société de production d'émissions à caractère social, culturel et éducatif pouvant passer pour leur diffusion des conventions avec les sociétés d'Etat.
+18° Communication audiovisuelle dans le respect de l'identité culturelle polynésienne et de la législation propre au territoire. Toutefois, le territoire, sous réserve des missions confiées à la Commission nationale de la communication et des libertés par la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication, a la faculté de créer une société de production d'émissions à caractère social, culturel et éducatif pouvant passer pour leur diffusion des conventions avec les sociétés d'Etat.
 
 L'Etat exerce ses droits de souveraineté et de propriété sur son domaine public et privé, terrestre, maritime et aérien. Sous réserve des engagements internationaux et des dispositions prises pour leur application, l'Etat peut concéder au territoire la compétence en matière d'exploration et d'exploitation des ressources naturelles, biologiques ou non biologiques, du fond de la mer, de son sous-sol et des eaux sur-jacentes.
 
