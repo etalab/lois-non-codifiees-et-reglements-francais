@@ -116,6 +116,7 @@
 - [Décret n°79-811 du 20 septembre 1979](decret-n79-811-du-20-septembre-1979)
 - [Décret n°79-998 du 20 novembre 1979](decret-n79-998-du-20-novembre-1979)
 - [Décret n°78-1298 du 21 décembre 1978](decret-n78-1298-du-21-decembre-1978)
+- [Décret n°79-1119 du 21 décembre 1979](decret-n79-1119-du-21-decembre-1979)
 - [Décret n°79-262 du 21 mars 1979](decret-n79-262-du-21-mars-1979)
 - [Décret n°79-263 du 21 mars 1979](decret-n79-263-du-21-mars-1979)
 - [Décret n°79-823 du 21 septembre 1979](decret-n79-823-du-21-septembre-1979)
