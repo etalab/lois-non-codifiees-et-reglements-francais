@@ -81,7 +81,6 @@
 - [Arrêté du 4 mars 1987 (ASES8700393A)](arrete-du-4-mars-1987-ases8700393a)
 - [Arrêté du 4 mars 1987 (ENVN8700057A)](arrete-du-4-mars-1987-envn8700057a)
 - [Arrêté du 4 mars 1987 (ENVN8700058A)](arrete-du-4-mars-1987-envn8700058a)
-- [Arrêté du 4 mars 1987 (ENVN8700068A)](arrete-du-4-mars-1987-envn8700068a)
 - [Arrêté du 4 novembre 1987 (BUDR8703127A)](arrete-du-4-novembre-1987-budr8703127a)
 - [Arrêté du 4 novembre 1987 (ECOT8723012A)](arrete-du-4-novembre-1987-ecot8723012a)
 - [Arrêté du 4 novembre 1987 (ECOX8798568A)](arrete-du-4-novembre-1987-ecox8798568a)
