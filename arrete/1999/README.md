@@ -453,8 +453,6 @@
 - [Arrêté du 19 octobre 1999 (EQUA9901215A)](arrete-du-19-octobre-1999-equa9901215a)
 - [Arrêté du 19 octobre 1999 (EQUA9901484A)](arrete-du-19-octobre-1999-equa9901484a)
 - [Arrêté du 19 octobre 1999 (MENF9901994A)](arrete-du-19-octobre-1999-menf9901994a)
-- [Arrêté du 19 mai 1999 (ATEN9980219A)](arrete-du-19-mai-1999-aten9980219a)
-- [Arrêté du 19 mai 1999 (ATEN9980220A)](arrete-du-19-mai-1999-aten9980220a)
 - [Arrêté du 19 mai 1999 (ATEN9980221A)](arrete-du-19-mai-1999-aten9980221a)
 - [Arrêté du 19 mai 1999 (ECOT9910371A)](arrete-du-19-mai-1999-ecot9910371a)
 - [Arrêté du 19 mai 1999 (ECOT9951810A)](arrete-du-19-mai-1999-ecot9951810a)
