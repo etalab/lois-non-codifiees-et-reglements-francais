@@ -311,8 +311,6 @@
 - [Décret n°95-274 du 9 mars 1995 (AGRB9500449D)](decret-n95-274-du-9-mars-1995-agrb9500449d)
 - [Décret n°95-276 du 9 mars 1995 (AGRP9401281D)](decret-n95-276-du-9-mars-1995-agrp9401281d)
 - [Décret n°95-288 du 9 mars 1995 (BUDB9530006D)](decret-n95-288-du-9-mars-1995-budb9530006d)
-- [Décret n°95-892 du 9 août 1995 (MAEF9510021D)](decret-n95-892-du-9-aout-1995-maef9510021d)
-- [Décret n°95-893 du 9 août 1995 (INTA9500225D)](decret-n95-893-du-9-aout-1995-inta9500225d)
 - [Décret n°95-894 du 9 août 1995 (INTA9500226D)](decret-n95-894-du-9-aout-1995-inta9500226d)
 - [Décret n°95-895 du 9 août 1995 (INTA9500227D)](decret-n95-895-du-9-aout-1995-inta9500227d)
 - [Décret n°95-896 du 9 août 1995 (INTA9500228D)](decret-n95-896-du-9-aout-1995-inta9500228d)
