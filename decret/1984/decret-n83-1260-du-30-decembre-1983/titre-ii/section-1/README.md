@@ -2,3 +2,4 @@
 
 - [Chapitre 1er : Recrutement.](chapitre-1er)
 - [Chapitre II : Avancement.](chapitre-ii)
+- [Article 12](article-12.md)
