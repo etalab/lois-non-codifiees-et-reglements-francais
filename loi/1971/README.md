@@ -27,7 +27,6 @@
 - [Loi n° 71-569 du 15 juillet 1971](loi-n-71-569-du-15-juillet-1971)
 - [Loi n° 71-575 du 16 juillet 1971](loi-n-71-575-du-16-juillet-1971)
 - [Loi n° 71-578 du 16 juillet 1971](loi-n-71-578-du-16-juillet-1971)
-- [Loi n° 71-579 du 16 juillet 1971](loi-n-71-579-du-16-juillet-1971)
 - [Loi n° 71-583 du 16 juillet 1971](loi-n-71-583-du-16-juillet-1971)
 - [Loi n° 71-584 du 16 juillet 1971](loi-n-71-584-du-16-juillet-1971)
 - [Loi n° 71-586 du 16 juillet 1971](loi-n-71-586-du-16-juillet-1971)
