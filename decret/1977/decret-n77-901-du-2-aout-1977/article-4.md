@@ -1,6 +1,6 @@
 # Article 4
 
-Les demandes de rachat [*de cotisations de retraite*], doivent être présentées soit dans le délai de six mois à compter de la date d'effet de l'immatriculation à l'assurance obligatoire, soit dans le délai de six mois à compter de la libération des intéressés. Toutefois, aucune forclusion ne sera opposée aux demandes de rachat présentées avant le 1er juillet 1982.
+Les demandes de rachat [*de cotisations de retraite*], doivent être présentées soit dans le délai de six mois à compter de la date d'effet de l'immatriculation à l'assurance obligatoire, soit dans le délai de six mois à compter de la libération des intéressés. Toutefois, aucune forclusion ne sera opposée aux demandes de rachat présentées avant le 1er juillet 1985.
 
 La demande de rachat ne peut concerner des périodes de détention postérieures à la date d'entrée en jouissance d'une pension ou rente de vieillesse.
 
