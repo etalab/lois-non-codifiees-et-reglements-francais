@@ -1,4 +1,4 @@
-# Arrêté du 16 mars 1982 relatif aux noms français officiels et dénominations de vente admises des poissons marins
+# Arrêté du 16 mars 1982 fixant le taux de la contribution instituée à l'article L. 613-4 III du code de la sécurité sociale.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

@@ -1,3 +1,3 @@
 # Personnel de service
 
-- [Article Annexe](article-annexe.md)
+- [Article ANNEXE](article-annexe.md)

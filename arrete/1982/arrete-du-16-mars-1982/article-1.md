@@ -1,3 +1,9 @@
 # Article 1
 
-Les poissons marins tels que définis à l'article 1er du décret du 30 décembre 1960 susvisé, dont la liste figure à l'annexe I du présent arrêté doivent être commercialisés, lorsqu'ils sont en conserve, semi-conserve ou à l'état surgelé sous les appellations mentionnées dans ladite annexe, suivant les règles fixées aux articles 2, 3 et 4.
+Le taux de la contribution due jusqu'au 15 avril 1981 inclus par les personnes physiques ou morales mentionnées à l'article L. 613-4-III susvisé du code de la sécurité sociale est fixé :
+
+A 1 p. 100 du montant brut des droits d'auteur des artistes auteurs d'oeuvres littéraires, dramatiques, musicales, chorégraphiques, audiovisuelles ou cinématographiques ;
+
+A 1 p. 100 de la rémunération brute des artistes auteurs d'oeuvres graphiques et plastiques, lorsque les oeuvres ne sont pas vendues au public ;
+
+A 1,5 p. 100 du montant du chiffre d'affaires réalisé à l'occasion de la diffusion ou de l'exploitation commerciale d'oeuvres graphiques ou plastiques.
