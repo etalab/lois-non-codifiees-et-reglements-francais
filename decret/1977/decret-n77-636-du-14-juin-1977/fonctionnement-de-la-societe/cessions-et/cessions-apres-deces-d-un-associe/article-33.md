@@ -1,0 +1,3 @@
+# Article 33
+
+Si pendant le délai prévu à l'article précédent, le ou les ayants droit décident de céder les parts sociales de leur auteur à un tiers [*acquéreur*] étranger à la société, il est procédé, conformément aux dispositions des articles 25 (alinéa 2), 26 et 27 ci-dessus. Pendant le même délai, si la société [*achat par la société de ses propres parts - rachat*], les associés survivants ou un ou plusieurs de ceux-ci acceptent, en accord avec le ou les ayants droit du médecin décédé, d'acquérir les parts sociales de celui-ci, il est procédé conformément aux dispositions de l'article 27 susvisé.

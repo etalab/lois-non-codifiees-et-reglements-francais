@@ -1,0 +1,3 @@
+# Article 53
+
+Lorsque la décision prévue au 2° du dernier alinéa de l'article L. 262 du code de la sécurité sociale intervient à l'égard d'un ou plusieurs associés personnellement [*associé placé hors convention*] et que ceux-ci ne se retirent pas de la société, et faute pour les autres associés d'exclure de la société le ou les médecins ayant fait l'objet de cette mesure, la société est, à l'expiration d'un délai de deux mois à compter de la notification prévue à l'article 54 ci-après, placée de plein droit hors convention.
