@@ -8,4 +8,4 @@ b) Lors de la constitution initiale d'un corps ;
 
 c) Pour le recrutement des fonctionnaires des catégories C et D lorsque le statut particulier le prévoit ;
 
-d) En application de la procédure de changement de corps définie à l'article 14 du titre Ier du statut général.
+d) [*paragraphe abrogé*].
