@@ -1,13 +1,13 @@
 # Article 27
 
-L'emploi de chef de groupement peut être tenu par les commandants, par les lieutenants-colonels et par les colonels conformément à l'article 7 du décret n° 2001-683 du 30 juillet 2001 après acquisition des UV suivantes :
+L'emploi de chef de groupement peut être tenu par les commandants, les lieutenants-colonels ou les colonels de sapeurs-pompiers professionnels, conformément à l'article 7 du décret n° 2001-683 du 30 juillet 2001 susvisé, après acquisition des modules de formation énumérés ci-après :
 
-- culture administrative de niveau 5 (CAD 5) ;
+1. Cadre réglementaire et obligations professionnelles ;
 
-- gestion administrative de niveau 2 (GAD 2) ;
+2. Management ;
 
-- gestion financière et comptabilité de niveau 2 (GFC 2) ;
+3. Gestion des risques et des crises.
 
-- gestion des ressources humaines de niveau 2 (GRH 2) ;
+Le contenu, la durée et l'évaluation de cette formation sont fixés dans le programme des scénarios pédagogiques de l'Ecole nationale supérieure des officiers de sapeurs-pompiers (ENSOSP).
 
-- management de niveau 3 (MNG 3).
+Cette évaluation comprend au moins un entretien avec le jury prévu à l'article 29 bis du présent arrêté.
