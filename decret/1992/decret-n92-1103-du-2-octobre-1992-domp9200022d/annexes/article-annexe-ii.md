@@ -12,4 +12,6 @@ Adjoint au chef de circonscription administrative ;
 
 Chef de circonscription administrative ;
 
-Chef de cabinet.
+Chef de cabinet ;
+
+Emplois de directeur des services administratifs.
