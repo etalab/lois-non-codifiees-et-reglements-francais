@@ -234,7 +234,6 @@
 - [Décret n°95-270 du 10 mars 1995 (DEFX9500025D)](decret-n95-270-du-10-mars-1995-defx9500025d)
 - [Décret n°95-271 du 10 mars 1995 (MAEX9500024D)](decret-n95-271-du-10-mars-1995-maex9500024d)
 - [Décret n°95-280 du 10 mars 1995 (ECOU9400001D)](decret-n95-280-du-10-mars-1995-ecou9400001d)
-- [Décret n°95-285 du 10 mars 1995 (INTX9500018D)](decret-n95-285-du-10-mars-1995-intx9500018d)
 - [Décret n°95-29 du 10 janvier 1995 (INTB9400476D)](decret-n95-29-du-10-janvier-1995-intb9400476d)
 - [Décret n°95-295 du 10 mars 1995 (BUDD9450012D)](decret-n95-295-du-10-mars-1995-budd9450012d)
 - [Décret n°95-32 du 10 janvier 1995 (INTB9400480D)](decret-n95-32-du-10-janvier-1995-intb9400480d)
