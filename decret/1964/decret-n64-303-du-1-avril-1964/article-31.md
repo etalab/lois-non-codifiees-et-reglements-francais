@@ -1,3 +1,0 @@
-# Article 31
-
-Tout transfert d'un établissement classé sur un autre emplacement, toute transformation dans l'état des lieux, dans la nature de l'outillage ou du travail, toute extension de l'exploitation, entraînant une modification notable des conditions imposées par l'arrêté d'autorisation ou des termes de la déclaration, nécessitent, suivant la classe de l'établissement, une demande d'autorisation complémentaire ou une déclaration nouvelle qui doit être faite préalablement aux changements projetés. Cette demande et cette déclaration sont soumises aux mêmes formalités que la demande et la déclaration primitives. Les dispositions des articles 15 (alinéa 2), 16, 22 et 24 sont également applicables aux cas prévus par le présent article.
