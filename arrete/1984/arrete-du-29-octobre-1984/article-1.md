@@ -1,13 +1,7 @@
 # Article 1
 
-A compter du 1er septembre 1984 [*date*], le taux de la taxe est fixé comme suit :
+Est autorisé en faveur des distilleries et sucreries-distilleries le report sur la campagne 1984-1985 :
 
-0,52 F par quintal de fruits à cidre et à poiré ;
+1° De leurs déficits de production de la campagne 1982-1983 par rapport à leurs contingents de base sur le solde disponible après exercice de ce droit au cours de la campagne 1983-1984, en application de l'arrêté du 5 janvier 1984.
 
-0,68 F par hectolitre de cidre et de poiré ou par hectolitre de moûts de pommes et de poires ;
-
-13,07 F par hectolitre d'alcool pur pour les calvados et les eaux-de-vie de cidre et de poiré ;
-
-13,07 F par hectolitre d'alcool pur pour les alcools de cidre et de poiré réservés à l'Etat.
-
-Elle est supportée par l'acheteur et le vendeur chacun pour moitié.
+2° De leurs déficits de production de la campagne 1983-1984 par rapport à leurs contingents de base.
