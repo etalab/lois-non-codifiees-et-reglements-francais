@@ -12,4 +12,4 @@ Cette épreuve se décompose en :
 
 - un exposé de 10 minutes sur un sujet d'actualité tiré au sort avant l'entretien. Le candidat dispose d'un temps de préparation de 20 minutes. Il peut être interrompu au cours de cet exposé ;
 
-- une discussion avec le jury d'une durée de l'ordre de 50 minutes.
+- une discussion avec le jury d'une durée de l'ordre de 30 minutes.

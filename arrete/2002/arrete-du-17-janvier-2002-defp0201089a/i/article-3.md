@@ -16,8 +16,8 @@ A l'issue de ses travaux, elle propose au ministre de la défense (directeur du 
 
 - inaptes médicaux temporaires ;
 
-- présumés médicalement aptes.
+- aptitude non déterminée.
 
 Le ministre de la défense (directeur du personnel militaire de la marine) notifie aux candidats leur classement dans l'une de ces trois catégories.
 
-Les candidats déclarés inaptes médicaux temporaires ou présumés médicalement aptes sont autorisés à concourir. Leur admission est subordonnée aux résultats de la visite médicale prévue lors de leur entrée dans la formation pour laquelle ils sont désignés.
+Les candidats déclarés inaptes médicaux temporaires ou dont l'aptitude n'est pas déterminée sont autorisés à concourir. Leur admission est subordonnée aux résultats de la visite médicale prévue lors de leur entrée dans la formation pour laquelle ils sont désignés.
