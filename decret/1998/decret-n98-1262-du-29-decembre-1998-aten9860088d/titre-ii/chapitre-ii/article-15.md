@@ -1,6 +1,6 @@
 # Article 15
 
-Lors de leur nomination à titre définitif, les agents de l'Office national de la chasse sont classés dans la classe de base de leur groupe, dans les conditions suivantes :
+Lors de leur nomination à titre définitif, les agents de l'Office national de la chasse et de la faune sauvage sont, sauf dispositions particulières prévues aux titres III et IV, classés dans la classe de base de leur groupe dans les conditions suivantes :.
 
 a) Les agents qui avaient déjà la qualité d'agent de l'Office national de la chasse sont classés à l'échelon comportant un indice égal ou, à défaut, immédiatement supérieur à celui qu'ils détenaient dans leur situation antérieure. Ils conservent l'ancienneté d'échelon acquise dans leur précédente situation, dans la limite de la durée moyenne exigée pour l'accès à l'échelon supérieur dans leur nouvelle classe, lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle que leur aurait procurée un avancement d'échelon dans leur ancienne situation. Les agents promus alors qu'ils avaient atteint l'échelon le plus élevé de leur classe d'origine conservent leur ancienneté d'échelon dans les mêmes limites lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle résultant d'un avancement à ce dernier échelon.
 
