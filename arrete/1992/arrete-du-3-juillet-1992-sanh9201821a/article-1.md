@@ -1,0 +1,3 @@
+# Article 1
+
+Une indemnité compensatrice leur assurant 90 p. 100 de leur rémunération antérieure est versée, le cas échéant, aux agents non titulaires intégrés dans le corps des psychologues de la fonction publique hospitalière au titre de la constitution initiale du corps. La comparaison des rémunérations s'effectue entre le traitement brut indiciaire augmenté des primes et indemnités auxquelles ils peuvent prétendre du fait de leur titularisation et la rémunération brute principale majorée des primes et indemnités accessoires qu'ils percevaient en qualité de psychologue non titulaire. N'entrent pas dans ce calcul les indemnités représentatives de frais et les éléments de rémunération liés à l'affectation en dehors de la métropole.
