@@ -3,7 +3,6 @@
 - [Article 1](article-1.md)
 - [TITRE Ier : DES CONVENTIONS.](titre-ier)
 - [TITRE II : DISPOSITIONS APPLICABLES AUX SERVICES ÉMIS DEPUIS LA FRANCE.](titre-ii)
-- [TITRE III : DISPOSITIONS APPLICABLES AUX SERVICES ÉMIS DEPUIS UN PAYS MEMBRE DE LA COMMUNAUTÉ ÉCONOMIQUE EUROPÉENNE.](titre-iii)
 - [TITRE IV : Dispositions applicables aux services émis depuis un Etat partie à la convention européenne sur la télévision transfrontière, non membre de l'Union européenne et non signataire de l'accord sur l'Espace économique européen](titre-iv)
 - [TITRE V : Dispositions applicables aux services émis depuis d'autres Etats.](titre-v)
 - [TITRE VI : Dispositions finales.](titre-vi)
