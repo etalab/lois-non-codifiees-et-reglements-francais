@@ -8,4 +8,4 @@ Après observations éventuelles du commissaire du Gouvernement et du représent
 
 Dans tous les cas, la personne poursuivie et, le cas échéant, son conseil doivent pouvoir prendre la parole en dernier.
 
-La décision est prise en la seule présence du président, des membres, du secrétaire du conseil et du commissaire du Gouvernement. Le procès-verbal est signé du président, du rapporteur et du secrétaire.
+La décision est prise en la seule présence du président, des membres, du secrétaire du conseil et du commissaire du Gouvernement. Le procès-verbal est signé du président, du rapporteur et du secrétaire. La décision est rendue publique.
