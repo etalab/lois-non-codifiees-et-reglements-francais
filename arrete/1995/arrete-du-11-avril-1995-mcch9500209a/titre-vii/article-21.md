@@ -4,19 +4,19 @@ La commission nationale créée par l'article 1er de la loi du 10 juillet 1989 s
 
 Quatre représentants du ministre chargé de la culture :
 
-- le directeur de la musique et de la danse, président;
+- le directeur de la musique, de la danse, du théâtre et des spectacles, président ;
 
-- le délégué à la danse;
+- le sous-directeur de la formation professionnelle et des entreprises culturelles ;
 
-- le délégué au développement et aux formations;
+- le délégué au développement et aux formations ;
 
-- un inspecteur de la danse,
+- un inspecteur de la création et des enseignements artistiques chargé de la danse,
 
 ou leur représentant.
 
 Deux représentants du ministre chargé de l'éducation nationale :
 
-- un inspecteur général de l'éducation nationale choisi dans l'une des deux disciplines: éducation musicale ou éducation physique et sportive;
+- un inspecteur général de l'éducation nationale choisi dans l'une des deux disciplines: éducation musicale ou éducation physique et sportive ;
 
 - un professeur ou un maître de conférences des universités, ou leur représentant.
 
