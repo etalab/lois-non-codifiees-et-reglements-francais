@@ -2,7 +2,7 @@
 
 Paragraphe 1er. - Sous réserve des dispositions prévues aux articles 83 et suivants de l'ordonnance du 19 octobre 1945, pour le cas où l'assuré bénéficie de l'assistance médicale gratuite, les soins sont dispensés aux assurés sociaux dans les conditions ci-après :
 
-Paragraphe 2. - Le tarif des honoraires médicaux est fixé à l'acte, d'après la nomenclature générale des actes professionnels et inscrit dans des conventions conclues entre la caisse régionale de Strasbourg agissant d'après les propositions des caisses primaires des départements du Haut-Rhin, du Bas-Rhin et de la Moselle et les syndicats de praticiens de chaque catégorie professionnelle intéressée. Lorsque les soins sont donnés dans un dispensaire, la convention est conclue entre ladite caisse régionale et le dispensaire.
+Paragraphe 2. - Le tarif des honoraires médicaux est fixé à l'acte, d'après la nomenclature générale des actes professionnels et inscrit dans des conventions conclues entre la caisse régionale de Strasbourg agissant d'après les propositions des caisses primaires des départements du Haut-Rhin, du Bas-Rhin et de la Moselle et les syndicats de praticiens de chaque catégorie professionnelle intéressée. Lorsque les soins sont donnés dans un dispensaire, la convention est conlue entre ladite caisse régionale et le dispensaire.
 
 En cas de désaccord entre les parties sur la fixation du tarif, celui-ci est fixé par la commission nationale prévue à l'article 10 de l'ordonnance du 19 octobre 1945.
 
@@ -29,3 +29,5 @@ Sous les réserves prévues au paragraphe 5 ci-dessus, les caisses de sécurité
 Paragraphe 7. - En cas d'hospitalisation dans un établissement privé, les frais d'hospitalisation, ainsi que le tarif de responsabilité de la caisse, sont fixés par convention entre celle-ci et l'établissement.
 
 La convention fixe également les modalités de règlement de ces frais. Sous les réserves prévues au paragraphe 5 du présent article, la participation de l'assuré est fixée à 10 % ; elle est versée directement par l'assuré à l'établissement.
+
+Paragraphe 8. - Pour les bénéficiaires du régime local d'assurance maladie du département du Bas-Rhin, du Haut-Rhin et de la Moselle, le forfait journalier institué à l'article 4 de la loi n° 83-25 du 19 janvier 1983 est pris en charge par ce régime.
