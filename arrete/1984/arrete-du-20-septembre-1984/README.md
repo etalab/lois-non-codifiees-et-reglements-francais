@@ -1,4 +1,4 @@
-# Arrêté du 20 septembre 1984 relatif à la publicité des prix à l'égard du consommateur
+# Arrêté du 20 septembre 1984 fixant les modèles de statuts des unions ou fédérations d'organismes de sécurité sociale.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
