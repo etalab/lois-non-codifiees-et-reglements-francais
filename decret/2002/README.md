@@ -47,7 +47,6 @@
 - [Décret n°2002-1564 du 23 décembre 2002 (SANS0223969D)](decret-n2002-1564-du-23-decembre-2002-sans0223969d)
 - [Décret n°2002-1565 du 23 décembre 2002 (SANS0223970D)](decret-n2002-1565-du-23-decembre-2002-sans0223970d)
 - [Décret n°2002-1566 du 23 décembre 2002 (SANS0224205D)](decret-n2002-1566-du-23-decembre-2002-sans0224205d)
-- [Décret n°2002-1567 du 23 décembre 2002 (SANS0223972D)](decret-n2002-1567-du-23-decembre-2002-sans0223972d)
 - [Décret n°2002-1572 du 23 décembre 2002 (AGRS0202024D)](decret-n2002-1572-du-23-decembre-2002-agrs0202024d)
 - [Décret n°2002-1574 du 23 décembre 2002 (MCCB0200802D)](decret-n2002-1574-du-23-decembre-2002-mccb0200802d)
 - [Décret n°2002-1548 du 24 décembre 2002 (INTB0200299D)](decret-n2002-1548-du-24-decembre-2002-intb0200299d)
