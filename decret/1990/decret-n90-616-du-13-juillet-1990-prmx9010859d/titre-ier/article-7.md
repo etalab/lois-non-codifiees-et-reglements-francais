@@ -12,4 +12,6 @@ En cas de partage des voix lors des délibérations du jury, la voix du préside
 
 Des examinateurs spéciaux peuvent être nommés par arrêté du ministre chargé de la fonction publique.
 
-Des correcteurs peuvent être désignés par arrêté du ministre chargé de la fonction publique pour participer, avec les membres du jury, à la correction des épreuves. Ils participent aux délibérations du jury avec voix consultative pour l'attribution des notes se rapportant aux épreuves qu'ils ont corrigées.
+Des correcteurs peuvent être désignés par arrêté du ministre chargé de la fonction publique pour participer, avec les membres du jury, à la correction des épreuves.
+
+Les examinateurs spéciaux et les correcteurs participent aux délibérations du jury avec voix consultative pour l'attribution des notes se rapportant aux épreuves qu'ils ont évaluées ou corrigées.

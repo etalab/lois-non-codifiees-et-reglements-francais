@@ -1,31 +1,27 @@
 # Article 9
 
-Les épreuves du concours interne comprennent des épreuves d'admissibilité et des épreuves d'admission :
+Les épreuves du concours interne comprennent des épreuves écrites d'admissibilité et des épreuves d'admission.
 
-Epreuves d'admissibilité.
+Epreuves d'admissibilité
 
-1° Une composition portant au choix du candidat sur le droit public ou l'économie (durée : quatre heures ; coefficient 3) ;
+1° Une épreuve de droit public consistant en la rédaction d'une note, à partir d'un dossier, ayant pour objet de vérifier l'aptitude à l'analyse et au raisonnement juridique (durée : cinq heures ; coefficient 4).
 
-2° Une épreuve orale de langue vivante comportant la lecture et la traduction d'un texte ainsi qu'une conversation. La liste des langues étrangères qui peuvent être choisies par les candidats est établie par arrêté du ministre chargé de la fonction publique (durée : trente minutes ; coefficient 3) ;
+2° Une épreuve d'économie consistant en la rédaction, à partir d'un dossier, d'une note de présentation et d'interprétation des données économiques (durée : cinq heures ; coefficient 4).
 
-3° Une composition portant sur celle des deux matières prévues pour la première épreuve d'admissibilité que le candidat n'a pas choisie lors de cette épreuve (durée : quatre heures ; coefficient 4) ;
+3° Une composition portant sur l'évolution générale politique, économique et sociale du monde ainsi que sur le mouvement des idées depuis le milieu du xviiie  siècle jusqu'à nos jours, devant permettre d'apprécier l'aptitude du candidat à exprimer, sur le sujet proposé, tant une analyse des faits et des événements qu'une interprétation personnelle et argumentée. Un dossier est mis à la disposition du candidat (durée : cinq heures ; coefficient 4).
 
-4° Une composition portant sur un sujet relatif aux problèmes politiques, économiques et sociaux du monde contemporain.
+4° La rédaction d'une note, à partir d'un dossier, permettant de vérifier l'aptitude du candidat à faire l'analyse et la synthèse d'un problème et d'apprécier les connaissances acquises ayant trait, au choix du candidat, soit à l'Union européenne, soit aux questions sociales (durée : cinq heures ; coefficient 4).
 
-Un dossier est mis à la disposition du candidat (durée : cinq heures ; coefficient 4) ;
+5° Une épreuve de valorisation de l'expérience professionnelle consistant en la résolution d'un cas exposé dans un dossier et portant, au choix du candidat, sur l'une des matières suivantes :
 
-5° Une composition portant au choix du candidat sur l'une des matières suivantes : finances publiques et économie financière, questions sociales, questions internationales (durée : quatre heures ; coefficient 4) ;
+gestion des administrations centrales et des services déconcentrés de l'Etat, gestion des collectivités territoriales, gestion des établissements publics, gestion du système éducatif. Cette épreuve doit permettre de tester la capacité du candidat à analyser un cas pratique et son aptitude à proposer des solutions cohérentes, simples et efficaces (durée : cinq heures ; coefficient 4).
 
-6° Une épreuve écrite facultative consistant en une composition portant au choix du candidat sur l'une des matières suivantes :
+Epreuves d'admission
 
-droit des affaires, droit civil, géographie économique et humaine, histoire contemporaine, science politique et administrative, sociologie, gestion comptable et financière des entreprises, démographie, mathématiques, statistique (durée : quatre heures ; coefficient 2 ; seuls sont pris en compte les points au-dessus de la moyenne).
+1° Trois interrogations orales portant sur les matières suivantes : questions internationales, finances publiques et la matière que n'a pas choisie le candidat à la quatrième épreuve d'admissibilité, à savoir soit questions relatives à l'Union européenne, soit questions sociales (durée : trente minutes, précédées de dix minutes de préparation ; coefficient 3 pour chacune des interrogations) permettant de vérifier la maîtrise des principales données et la compréhension des grands problèmes actuels dans chacun des trois domaines.
 
-Epreuves d'admission.
+2° Une épreuve orale de langue vivante étrangère comportant la lecture et la traduction d'un texte ainsi qu'une conversation ; la liste des langues qui peuvent être choisies par les candidats est établie par arrêté du ministre chargé de la fonction publique (durée : trente minutes ; coefficient 3).
 
-1° Deux interrogations orales portant chacune sur l'une des matières prévues pour la cinquième épreuve d'admissibilité que le candidat n'a pas choisies lors de cette épreuve (durée : trente minutes et coefficient 3 pour chacune des deux interrogations) ;
-
-2° Une épreuve écrite de langue vivante consistant en la traduction en français d'un texte en langue étrangère ; la liste des langues étrangères qui peuvent être choisies par les candidats est établie par arrêté du ministre chargé de la fonction publique (durée : deux heures ; coefficient 3) ;
-
-3° Un entretien permettant d'apprécier la personnalité et les motivations du candidat (durée : quarante-cinq minutes ; coefficient 5) ;
+3° Un entretien permettant d'apprécier la personnalité et les motivations du candidat (durée : quarante-cinq minutes ; coefficient 6).
 
 4° Une épreuve d'exercices physiques dont les modalités sont fixées par arrêté du ministre chargé de la fonction publique (coefficient 1).

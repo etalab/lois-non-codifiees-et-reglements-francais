@@ -12,4 +12,4 @@ Pour être admis à concourir, les candidats doivent remplir les conditions fix�
 
 Ne peuvent toutefois être admis à concourir les fonctionnaires appartenant à l'une des carrières auxquelles prépare l'Ecole nationale d'administration, ni les élèves déjà admis à cette école, ni les candidats qui n'ont pu antérieurement accéder dans les conditions fixées à l'article 38 du présent décret à aucune des carrières auxquelles prépare l'école.
 
-Nul ne peut concourir plus de trois fois au total à l'un ou plusieurs des concours d'accès à l'Ecole nationale d'administration.
+Nul ne peut concourir plus de trois fois à l'un des concours d'accès ni plus de cinq fois au total à l'ensemble des concours.
