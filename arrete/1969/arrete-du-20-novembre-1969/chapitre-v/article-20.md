@@ -6,4 +6,6 @@ Les rétroviseurs livrés sur les véhicules avant le 1er janvier 1971 par les c
 
 20.2. Les rétroviseurs disposés à l'intérieur du véhicule sur le tableau de bord ou au-dessus du pare-brise doivent être encadrés dans une monture de protection ne comportant ni aspérité dangereuse ni arête vive.
 
-20.3. Les rétroviseurs extérieurs peuvent, dans la limite maximale de 0,20 mètre, faire saillie par rapport à l'extrémité de la largeur hors tout du véhicule située du côté du miroir. Ils doivent dans ce cas être entièrement escamotables.
+20.3. La largeur hors-tout d'un véhicule équipé de ses rétroviseurs peut dépasser la largeur de 2,50 mètres à condition que la saillie soit limitée à 0,20 mètre de part et d'autre du véhicule et que ces rétroviseurs
+
+soient entièrement escamotables de façon à ne pas constituer un danger pour les autres usagers de la route.
