@@ -50,6 +50,8 @@
 - [Décret n°89-96 du 13 février 1989 (MICT8900057D)](decret-n89-96-du-13-fevrier-1989-mict8900057d)
 - [Décret n°89-97 du 13 février 1989 (MICT8900058D)](decret-n89-97-du-13-fevrier-1989-mict8900058d)
 - [Décret n°88-1056 du 14 novembre 1988 (TEFT8804060D)](decret-n88-1056-du-14-novembre-1988-teft8804060d)
+- [Décret n°89-102 du 14 février 1989 (PRME8961308D)](decret-n89-102-du-14-fevrier-1989-prme8961308d)
+- [Décret n°89-105 du 14 février 1989 (MAEJ8930002D)](decret-n89-105-du-14-fevrier-1989-maej8930002d)
 - [Décret n°90-487 du 14 juin 1990 (EQUP8901081D)](decret-n90-487-du-14-juin-1990-equp8901081d)
 - [Décret n°89-98 du 15 février 1989 (EQUC8900026D)](decret-n89-98-du-15-fevrier-1989-equc8900026d)
 - [Décret n°88-989 du 17 octobre 1988 (TEFT8804009D)](decret-n88-989-du-17-octobre-1988-teft8804009d)

@@ -2,11 +2,11 @@
 
 Le poids unitaire maximal des colis est fixé comme suit :
 
-Huîtres : 18 kg.
+Huîtres : 16 kg ;
 
-Moules : 25 kg.
+Moules : 25 kg ;
 
-Coquilles Saint-Jacques : 45 kg.
+Coquilles Saint-Jacques : 45 kg ;
 
 Autres coquillages : 10 kg.
 
