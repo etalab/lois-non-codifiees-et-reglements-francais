@@ -106,6 +106,7 @@
 - [Décret n°94-1244 du 30 décembre 1994 (INTA9400490D)](decret-n94-1244-du-30-decembre-1994-inta9400490d)
 - [Décret n°94-1245 du 30 décembre 1994 (INTA9400491D)](decret-n94-1245-du-30-decembre-1994-inta9400491d)
 - [Décret n°95-93 du 30 janvier 1995 (BUDX9500009D)](decret-n95-93-du-30-janvier-1995-budx9500009d)
+- [Décret n°95-94 du 30 janvier 1995 (COPB9400035D)](decret-n95-94-du-30-janvier-1995-copb9400035d)
 - [Décret n°96-79 du 30 janvier 1996 (MENF9502346D)](decret-n96-79-du-30-janvier-1996-menf9502346d)
 - [Décret n°96-965 du 30 octobre 1996 (ACVE9550017D)](decret-n96-965-du-30-octobre-1996-acve9550017d)
 - [Décret n°97-571 du 30 mai 1997 (EQUP9700030D)](decret-n97-571-du-30-mai-1997-equp9700030d)
