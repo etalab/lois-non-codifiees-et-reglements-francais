@@ -1,4 +1,4 @@
-# Arrêté du 9 décembre 1986 relatif au taux des prêts et avances consentis ou bonifiés par les régions
+# Arrêté du 9 décembre 1986 modifiant l'arrêté du 11 janvier 1978 portant fixation de l'assiette des cotisations de sécurité sociale dues au titre des travailleurs non rémunérés en espèces
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

@@ -1,3 +1,3 @@
 # Article 1
 
-Le taux des prêts et avances à long terme consentis ou bonifiés par les régions est au minimum égal au taux moyen des obligations à long terme pour les emprunts du secteur public de première catégorie.
+Pour l'année 1987 le montant annuel du maximum de pension mentionné à l'article D. 721-8 du code de la sécurité sociale est fixé à 17 650 F.

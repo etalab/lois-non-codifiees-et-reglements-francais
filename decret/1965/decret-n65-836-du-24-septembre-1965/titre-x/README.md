@@ -1,3 +1,4 @@
 # TITRE X : CUMULS DE PENSIONS AVEC DES REMUNERATIONS D'ACTIVITE OU D'AUTRES PENSIONS
 
 - [Article 31](article-31.md)
+- [Article 31-1](article-31-1.md)

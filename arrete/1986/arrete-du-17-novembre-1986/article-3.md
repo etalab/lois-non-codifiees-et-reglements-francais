@@ -1,3 +1,3 @@
 # Article 3
 
-Sur proposition de son président, la commission électorale définit les modalités de son fonctionnement.
+Le transfert des corps, mis en bière dans les conditions prévues à l'article 1er, dans un autre cercueil, n'est pas autorisé.
