@@ -1,17 +1,19 @@
 # Article 2
 
-La durée de l'enseignement est de deux ans.
+La durée de l'enseignement préparatoire au diplôme d'Etat de technicien en analyses biomédicales est fixée à trois ans à compter de la rentrée 1996-1997.
 
-Un arrêté du ministre des affaires sociales fixera notamment :
+Des arrêtés du ministre chargé de la santé fixent notamment :
 
-Les conditions d'agrément des formations;
+1. Les conditions d'agrément des écoles ;
 
-Les conditions d'admission des élèves;
+2. Les conditions d'admission des élèves ;
 
-Le programme et le déroulement des études;
+3. Les conditions dans lesquelles des dispenses de scolarité peuvent être accordées par dérogation aux dispositions du premier alinéa du présent article ;
 
-Les modalités des épreuves sanctionnant cet enseignement.
+4. Le programme des études applicable à compter de la rentrée 1996-1997 ;
 
-Un arrêté du ministre de la santé pris après avis de la commission des laborantins d'analyses médicales du Conseil supérieur des professions paramédicales fixe les modalités d'admission des candidats pour les études conduisant au dipl<CB>me d'Etat de laborantin d'analyses médicales ainsi que la nature des épreuves. Le ministre fixe en outre par arrêté les conditions dans lesquelles les handicapés sont dispensés des épreuves d'admission;
+5. Les modalités d'évaluation des élèves en cours de formation ;
 
-Les écoles sont chargées de la mise en oeuvre des modalités d'admission des candidats sous le contr<CB>le des représentants de l'Etat dans les régions et les départements. Ceux-ci fixent la composition des jurys et procèdent à la nomination des membres de ces derniers. L'organisation des épreuves et l'affichage des résultats sont confiés aux écoles.
+6. La nature des épreuves sanctionnant les études ;
+
+7. Les conditions d'attribution, par équivalence, du diplôme d'Etat de laborantin d'analyses médicales à des personnes munies d'un titre délivré à l'issue d'un enseignement organisé avant la publication du présent décret.
