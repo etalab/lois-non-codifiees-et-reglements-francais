@@ -4,7 +4,7 @@ I. - Le Gouvernement est autorisé, dans les conditions prévues à l'article 38
 
 II. - Les projets d'ordonnance sont, selon les cas, soumis pour avis :
 
-1° Aux institutions compétentes prévues respectivement par la loi organique n° 96-312 du 12 avril 1996 portant statut d'autonomie de la Polynésie française, par la loi organique n° 99-209 du 19 mars 1999 relative à la Nouvelle-Calédonie et par l'article L. 3551-12 du code général des collectivités territoriales ;
+1° Aux institutions compétentes prévues respectivement par la loi organique n° 2004-192 du 27 février 2004 portant statut d'autonomie de la Polynésie française, par la loi organique n° 99-209 du 19 mars 1999 relative à la Nouvelle-Calédonie et par l'article L. 3551-12 du code général des collectivités territoriales ;
 
 2° A l'assemblée territoriale des îles Wallis et Futuna. L'avis est alors émis dans le délai d'un mois ; ce délai expiré, l'avis est réputé avoir été donné.
 

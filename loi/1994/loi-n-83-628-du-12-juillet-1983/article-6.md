@@ -2,7 +2,9 @@
 
 L'article 1er, le premier et le deuxième alinéas de l'article 2, les articles 3 et 4 de la présente loi sont applicables dans le territoire de la Polynésie française.
 
-Par dérogation aux dispositions de l'article 1er de la présente loi et dans les conditions prévues aux articles 65 et 28 (22°) de la loi organique n° 96-312 du 12 avril 1996 portant statut d'autonomie de la Polynésie française, il pourra être accordé aux casinos l'autorisation d'ouvrir au public des locaux spéciaux où seront pratiqués certains jeux de hasard et aux cercles l'autorisation d'organiser d'autres jeux de hasard à l'exclusion de ceux pratiqués dans les casinos.
+Par dérogation aux dispositions de l'article 1er de la présente loi et dans les conditions prévues aux articles 24 et 91 de la loi organique n° 2004-192 du 27 février 2004 portant statut d'autonomie de la Polynésie française, il pourra être accordé aux casinos l'autorisation temporaire d'ouvrir au public des locaux spéciaux, distincts et séparés où seront pratiqués certains jeux de hasard et aux cercles l'autorisation d'organiser d'autres jeux de hasard à l'exclusion de ceux pratiqués dans les casinos.
+
+Dans les mêmes conditions, les navires de commerce transporteurs de passagers n'assurant pas de lignes régulières immatriculés au registre de la Polynésie française pourront être autorisés à ouvrir un casino ou une salle réservée aux jeux de hasard, sous réserve que l'accès en soit limité aux passagers titulaires d'un titre régulier.
 
 Un décret en Conseil d'Etat précisera les conditions dans lesquelles ces établissements peuvent être autorisés à ouvrir au public des locaux spéciaux où seront pratiqués certains jeux de hasard et les conditions de fonctionnement de ces établissements.
 

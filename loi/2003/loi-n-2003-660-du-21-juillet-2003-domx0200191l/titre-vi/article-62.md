@@ -94,7 +94,7 @@ pêche.
 
 II. - Les projets d'ordonnance sont soumis pour avis :
 
-1° Lorsque leurs dispositions sont relatives à la Polynésie française ou à la Nouvelle-Calédonie, aux institutions compétentes prévues respectivement par la loi organique n° 96-312 du 12 avril 1996 portant statut d'autonomie de la Polynésie française et par la loi organique n° 99-209 du 19 mars 1999 relative à la Nouvelle-Calédonie ;
+1° Lorsque leurs dispositions sont relatives à la Polynésie française ou à la Nouvelle-Calédonie, aux institutions compétentes prévues respectivement par la loi organique n° 2004-192 du 27 février 2004 portant statut d'autonomie de la Polynésie française et par la loi organique n° 99-209 du 19 mars 1999 relative à la Nouvelle-Calédonie ;
 
 2° Lorsque leurs dispositions sont relatives aux îles Wallis et Futuna, à l'assemblée territoriale des îles Wallis et Futuna ;
 
