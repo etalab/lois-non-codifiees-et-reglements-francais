@@ -1,3 +1,3 @@
 # Article 3
 
-Les dispositions prévues par les arrêtés susvisés restent applicables à ces personnels en ce qu'elles ne sont pas contraires aux dispositions du présent arrêté.
+Toutes les semences de céréales entrant dans le champ d'application de l'article 1er doivent répondre aux caractéristiques fixées à l'annexe II du présent arrêté.

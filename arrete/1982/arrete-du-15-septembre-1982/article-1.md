@@ -1,5 +1,3 @@
 # Article 1
 
-La tenue d'uniforme dite " opérationnelle " des personnels masculins et féminins du service de santé des corps de sapeurs-pompiers communaux non militaires des départements de la métropole et d'outre-mer comporte :
-
-Le képi et la combinaison.
+Les semences de céréales, citées à l'annexe I, détenues ou transportées en vue de la vente ou de l'échange, mises en vente, vendues ou échangées, doivent, quelles que soient leur provenance et la production à laquelle elles peuvent être destinées, répondre aux conditions fixées par le présent arrêté.

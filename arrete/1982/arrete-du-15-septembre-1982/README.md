@@ -1,4 +1,4 @@
-# Arrêté du 15 septembre 1982 relatif à la réglementation de la tenue d'uniforme dite <<opérationnelle>> des personnels masculins et féminins du service de santé des corps de sapeurs-pompiers communaux non militaires des départements de la métropole et d'outre-mer
+# Arrêté du 15 septembre 1982 relatif à la commercialisation des semences de céréales
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -10,6 +10,3 @@
 - [Article 8](article-8.md)
 - [Article 9](article-9.md)
 - [Annexes](annexes)
-- [Article 5-1](article-5-1.md)
-- [Article 5-2](article-5-2.md)
-- [Article Execution](article-execution.md)

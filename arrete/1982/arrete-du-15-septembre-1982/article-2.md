@@ -1,7 +1,15 @@
 # Article 2
 
-Le port de cette tenue d'uniforme ainsi que les attributs de fonction sont obligatoires lors des opérations de secours.
+Les semences de céréales ne peuvent être présentées, selon l'espèce, que dans l'une des catégories suivantes :
 
-Dans l'impossibilité de revêtir cette tenue, un écusson métallique sera porté sur les vêtements civils, identifiant la qualité de ces personnels. En outre, cet insigne distinctif de spécialité sera également porté sur la tenue dite de " sortie ".
+- semences de prébase ;
 
-Les spécifications techniques auxquelles doivent répondre ces articles sont précisées dans l'annexe au présent arrêté.
+- semences de base ;
+
+- semences certifiées ;
+
+- semences,
+
+conformément aux dispositions prévues à l'annexe I et, le cas échéant, telles qu'elles sont définies dans les règlements techniques mentionnés ci-dessous.
+
+Les semences de prébase, les semences de base et les semences certifiées, de production nationale, doivent, en outre, répondre aux conditions fixées par les règlements techniques arrêtés par le ministre de l'agriculture. Les semences susceptibles d'être utilisées pour la production de semences de base ou de générations antérieures doivent porter les dénominations, qualificatifs ou symboles prévus par ces règlements techniques
