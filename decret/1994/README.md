@@ -360,6 +360,7 @@
 - [Décret n°94-422 du 27 mai 1994 (MCCX9400009D)](decret-n94-422-du-27-mai-1994-mccx9400009d)
 - [Décret n°94-423 du 27 mai 1994 (MCCE9400188D)](decret-n94-423-du-27-mai-1994-mcce9400188d)
 - [Décret n°94-440 du 27 mai 1994 (BUDR9404194D)](decret-n94-440-du-27-mai-1994-budr9404194d)
+- [Décret n°94-447 du 27 mai 1994 (EQUS9400480D)](decret-n94-447-du-27-mai-1994-equs9400480d)
 - [Décret n°94-1021 du 28 novembre 1994 (INTX9400134D)](decret-n94-1021-du-28-novembre-1994-intx9400134d)
 - [Décret n°94-1022 du 28 novembre 1994 (INTA9400427D)](decret-n94-1022-du-28-novembre-1994-inta9400427d)
 - [Décret n°94-175 du 28 février 1994 (ECOT9420002D)](decret-n94-175-du-28-fevrier-1994-ecot9420002d)
@@ -415,3 +416,5 @@
 - [Décret n°94-434 du 31 mai 1994 (MAEA9420230D)](decret-n94-434-du-31-mai-1994-maea9420230d)
 - [Décret n°94-435 du 31 mai 1994 (BUDF9400001D)](decret-n94-435-du-31-mai-1994-budf9400001d)
 - [Décret n°94-437 du 31 mai 1994 (INDP9400588D)](decret-n94-437-du-31-mai-1994-indp9400588d)
+- [Décret n°94-445 du 31 mai 1994 (INTA9420112D)](decret-n94-445-du-31-mai-1994-inta9420112d)
+- [Décret n°94-446 du 31 mai 1994 (INTA9420113D)](decret-n94-446-du-31-mai-1994-inta9420113d)
