@@ -1,3 +1,3 @@
 # Article 3
 
-Le directeur du centre de formation est responsable de l'organisation de l'enseignement et de la tenue générale de l'établissement. Il procède, dans le cadre des dispositions générales prévues par la réglementation en vigueur, à l'admission des élèves.
+Le directeur général de la santé et le directeur des enseignements supérieurs et de la recherche sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
