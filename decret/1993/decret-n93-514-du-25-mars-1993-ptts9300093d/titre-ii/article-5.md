@@ -10,13 +10,13 @@ a) Pour l'accès au grade de cadre supérieur de premier niveau de La Poste :
 
 - aux cadres de second niveau de La Poste ;
 
-- aux fonctionnaires de La Poste titulaires des grades d'inspecteur, de réviseur, de chef d'établissement de classe supérieure ou de chef d'établissement hors classe de La Poste.
+- aux fonctionnaires de La Poste titulaires des grades d'inspecteur, de réviseur, de prote, de chef d'établissement de classe supérieure, de chef d'établissement hors classe ou de chef d'établissement 1re classe.
 
 b) Pour l'accès au grade de cadre supérieur de premier niveau de France Télécom :
 
 - aux cadres de second niveau de France Télécom ;
 
-- aux fonctionnaires de France Télécom titulaires des grades d'inspecteur, de réviseur, de chef d'établissement de classe supérieure ou de chef d'établissement hors classe de France Télécom.
+- aux fonctionnaires de France Télécom titulaires des grades d'inspecteur, de réviseur, de chef d'établissement de classe supérieure, de chef d'établissement hors classe ou de chef d'établissement 1re classe.
 
 Les candidats mentionnés aux a et b ci-dessus doivent justifier de trois années de services civils effectifs dans l'un ou l'autre de ces grades.
 
