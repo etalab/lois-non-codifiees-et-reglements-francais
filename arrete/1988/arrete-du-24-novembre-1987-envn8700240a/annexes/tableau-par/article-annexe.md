@@ -14,9 +14,7 @@ Tous les cours d'eau des deux catégories, à l'exception de :
 
 3° L'Ariège, en aval de son confluent avec la Lauze.
 
-Département de l'Aude [*abrogé*]
-
-Département de l'Aveyron
+Département de l'Aude (abrogé) Département de l'Aveyron
 
 1° Tous les affluents et sous-affluents du Lot, rive droite, en amont de son confluent avec la Truyère ;
 
@@ -24,9 +22,7 @@ Département de l'Aveyron
 
 Département du Cantal
 
-Les affluents rive gauche de la Truyère, à l'exception du bes.
-
-Département de la Corrèze
+Les affluents rive gauche de la Truyère, à l'exception du bes. Département de la Corrèze
 
 Tous les cours d'eau de 1re catégorie.
 
@@ -39,6 +35,26 @@ Département de la Corse-du-Sud
 Tous les cours d'eau des deux catégories.
 
 Département de la Creuse
+
+1. Le Thaurion et ses affluents en amont du pont de Chatain sur le chemin départemental 7 (sauf la retenue de Lavaud Gelade délimitée par la courbe de niveau de 675 mètres d'altitude) ;
+
+2. La Creuse et ses affluents en amont du pont de la Gratade sur le chemin départemental 35 ;
+
+3. La Rozeille et ses affluents en amont du pont supportant le chemin départemental 10 sur la commune de Pontcharraud (sauf la retenue de Beissat sur les communes de Magnat-l'Etrange et Beissat) ;
+
+4. Le Chavanon et ses affluents jusqu'à la limite du département du Puy-de-Dôme ;
+
+5. La Méouzette et ses affluents jusqu'à la limite du département de la Corrèze ;
+
+6. La Liège et ses affluents jusqu'à la limite du département de la Corrèze ;
+
+7. La Chandouille et ses affluents jusqu'à la limite du département de la Corrèze ;
+
+8. Le canal du Dorat et ses affluents en amont du pont du chemin départemental 85 ;
+
+9. Le ruisseau de la Feuillade et ses affluents jusqu'à la limite du département de la Haute-Vienne ;
+
+10. La Maulde et ses affluents en amont du lac de Vassivière délimité par la courbe de niveau de 650 mètres d'altitude.
 
 Tous les cours d'eau et plans d'eau des deux catégories.
 
@@ -64,15 +80,15 @@ Département de la Haute-Garonne
 
 5° Le Job, en amont de Cazaunous.
 
-" Département de l'Hérault
+Département de la Haute-Vienne (abrogé)Département de l'Hérault
 
-" 1. L'Agoût, la Cesse, le Jaur et leurs affluents et sous-affluents ;
+1. L'Agoût, la Cesse, le Jaur et leurs affluents et sous-affluents ;
 
-" 2. Le Vernazobres et l'Ilouvre ;
+2. Le Vernazobres et l'Ilouvre ;
 
-" 3. Les affluents de la rive droite de l'Orb entre la Mare et le Jaur :
+3. Les affluents de la rive droite de l'Orb entre la Mare et le Jaur :
 
-" L'Hérie et son affluent le Poustisse, l'Albine, l'Arle, le Madale, le Vernet, le Bitoulet et le Rieux Pourquier. "
+L'Hérie et son affluent le Poustisse, l'Albine, l'Arle, le Madale, le Vernet, le Bitoulet et le Rieux Pourquier.
 
 Département de la Loire
 
@@ -102,7 +118,7 @@ Département de la Loire
 
 13° Le Noyer, le Font-d'Aix, le Machabre, le Ban.
 
-Département de la Haute-Loire :[*abrogé*]
+Département de la Haute-Loire :(abrogé)
 
 Département de la Lozère
 
@@ -158,11 +174,11 @@ Département de la Moselle
 
 " Département du Puy-de-Dôme
 
-" Tous les cours d'eau et plans d'eau de 1re catégorie, à l'exception de :
+Tous les cours d'eau et plans d'eau de 1re catégorie, à l'exception de :
 
-" 1° La Sioule, à l'aval du barrage de Queuille ;
+1° La Sioule, à l'aval du barrage de Queuille ;
 
-" 2° La Dore, du barrage de Sauviat jusqu'au pont d'Ambert. "
+2° La Dore, du barrage de Sauviat jusqu'au pont d'Ambert.
 
 Département des Pyrénées-Atlantiques
 
@@ -249,10 +265,6 @@ Département du Bas-Rhin
 Département du Tarn
 
 Tous les cours d'eau de 1re catégorie.
-
-Département de la Haute-Vienne
-
-Tous les cours d'eau et plans d'eau des deux catégories.
 
 Département de la Nièvre
 
