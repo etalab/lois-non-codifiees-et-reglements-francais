@@ -2,7 +2,7 @@
 
 Le conseil permanent délibère sur toutes questions de sa compétence et notamment :
 
-a) L'établissement du budget ;
+a) Le budget de l'institut et ses modifications, ainsi que le compte financier ;
 
 b) La politique générale de l'institut ;
 

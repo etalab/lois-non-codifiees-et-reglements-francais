@@ -2,7 +2,7 @@
 
 Les comités nationaux sont composés, outre leur président désigné dans les conditions prévues à l'article 4 :
 
-1° De représentants professionnels des secteurs de la production, de la transformation ou du négoce des produits concernés choisis parmi les membres des comités régionaux si ces derniers ont été mis en place ou, à défaut, désignés après avis des syndicats de défense ;
+1° De représentants professionnels des secteurs de la production, de la transformation ou du négoce des produits concernés choisis parmi les membres des comités régionaux si ces derniers ont été mis en place ou, à défaut, désignés après avis des syndicats de défense et des groupements mentionnés à l'article 5 du règlement (CEE) n° 2081/92 du Conseil du 14 juillet 1992 modifié ;
 
 2° De représentants de l'administration ;
 
@@ -11,6 +11,8 @@ Les comités nationaux sont composés, outre leur président désigné dans les 
 Un arrêté conjoint du ministre de l'économie, des finances et du budget et du ministre chargé de l'agriculture fixe pour chacun des comités nationaux le nombre des membres appartenant à chacune des catégories ci-dessus énoncées. La moitié de ces membres au moins est désignée au titre de la catégorie mentionnée au 1° et le quart au plus au titre de la catégorie mentionnée au 2°.
 
 Les membres des comités nationaux autres que les représentants de l'administration sont nommés pour six ans par arrêté conjoint du ministre de l'économie, des finances et du budget et du ministre chargé de l'agriculture. Leur mandat peut être renouvelé.
+
+Les membres démissionnaires ou décédés ou qui n'exercent plus les fonctions au titre desquelles ils avaient été désignés doivent être remplacés. Dans ce cas, le mandat des nouveaux membres expire à la date à laquelle aurait normalement pris fin celui des membres qu'ils remplacent.
 
 La limite d'âge pour la nomination des membres mentionnés au 1° de l'alinéa 1er ci-dessus est fixée à soixante-cinq ans. Tout mandat commencé avant cet âge va à son terme.
 

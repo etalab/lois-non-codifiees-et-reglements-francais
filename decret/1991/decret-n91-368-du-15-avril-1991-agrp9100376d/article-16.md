@@ -4,9 +4,9 @@ Sont membres de chaque comité régional des produits laitiers, sur désignation
 
 - un directeur régional de l'agriculture et de la forêt ;
 
-- un directeur départemental de l'agriculture et de la forêt ;    - le directeur de l'Office national interprofessionnel du lait ou son représentant ;
+- un directeur départemental de l'agriculture et de la forêt ;
 
-- le chef de division de l'Institut national des appellations d'origine chargé de la région concernée.
+- le directeur de l'Office national interprofessionnel du lait ou son représentant.
 
 Sont également membres de chaque comité régional, sur désignation du ministre de l'économie, des finances et du budget :
 

@@ -5,3 +5,5 @@ La limite d'âge pour la nomination des membres professionnels des comités rég
 Les membres des comités régionaux doivent jouir de leurs droits civiques et ne pas avoir été déclarés en faillite personnelle ni avoir fait l'objet de condamnation pour fraudes fiscales ou commerciales.
 
 Tout membre qui, sans motif valable et justifié, aura été absent à plus de deux sessions consécutives sera considéré comme démissionnaire et son remplacement demandé au ministre par le président du comité régional concerné.
+
+Les membres des comités régionaux représentant l'Etat peuvent se faire représenter.
