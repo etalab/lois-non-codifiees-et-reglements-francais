@@ -1,3 +1,3 @@
 # Article 4
 
-Le directeur de la sécurité sociale, le directeur du budget et le directeur de la comptabilité publique sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+Les intermédiaires agréés ont délégation pour exécuter les opérations dispensées de déclaration préalable et, le cas échéant, d'autorisation préalable en vertu de l'article 4 bis du décret n° 68-1021 du 24 novembre 1968, modifié par le décret n° 74-721 du 26 juillet 1974.
