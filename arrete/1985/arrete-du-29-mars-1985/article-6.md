@@ -1,3 +1,5 @@
 # Article 6
 
-Pour l'application de l'article L. 141-3 du code du travail, l'indice de référence est l'indice du mois de février 1985, qui s'établit à 154,7.
+Les modalités de la procédure d'appel à candidature, les obligations des ramasseurs agréés et la forme des dossiers de candidature sont définies dans l'annexe au présent arrêté.
+
+Outre les obligations définies au titre III de l'annexe, le ramasseur agréé dépose auprès de la Caisse des dépôts et consignations une consignation d'un montant de 10000 F.

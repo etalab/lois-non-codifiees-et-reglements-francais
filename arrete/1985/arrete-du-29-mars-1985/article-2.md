@@ -1,15 +1,7 @@
 # Article 2
 
-En conséquence, pour les catégories de travailleurs intéressées par l'article L. 131-2 du code du travail, le salaire minimum de croissance applicable en métropole et dans les départements d'outre-mer s'établira, à compter de cette date, dans les conditions ci-après :
+Les zones de ramassage des huiles usagées sont les départements de la métropole, à l'exception de celui de Paris, divisé en deux zones.
 
-En métropole, son montant sera porté à 24,90 F de l'heure ;
+La zone Est comprend les arrondissements suivants : 3e, 4e, 5e, 10e, 11e, 12e, 13e, 18e, 19e, 20e ;
 
-Dans les départements d'outre-mer, les salaires individuels ne pourront être inférieurs à :
-
-24,90 F de l'heure dans le département de Saint-Pierre-et-Miquelon,
-
-et, sous réserve des dispositions du deuxième alinéa de l'article 24 de l'ordonnance n° 82-41 du 16 janvier 1982, à :
-
-809,62 F par semaine pour trente-neuf heures de travail effectif dans les départements de la Guadeloupe, de la Guyane et de la Martinique ;
-
-755,43 F par semaine pour trente-neuf heures de travail effectif dans les professions autres que les professions agricoles rémunérées à la tâche ; et, pour ce qui concerne ces dernières, un certain nombre de tâches, tels qu'elles sont définies par arrêté des ministres chargés respectivement de l'agriculture, du travail et des départements d'outre-mer, pris sur proposition du commissaire de la République après consultation des organisations professionnelles d'employeurs et de salariés intéressées, dans le département de la Réunion.
+La zone Ouest, les arrondissements suivants : 1er, 2e, 6e, 7e, 8e, 9e, 14e, 15e, 16e et 17e.

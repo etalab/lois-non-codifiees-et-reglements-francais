@@ -1,3 +1,3 @@
 # Article 1
 
-Conformément aux dispositions des articles L. 141-3 et L. 814-1 du code du travail et compte tenu du niveau de l'indice mensuel des prix à la consommation, qui atteint 154,7 pour le mois de février 1985, les taux du salaire minimum de croissance, tels qu'ils résultent de l'arrêté du 30 octobre 1984, sont majorés de 2,2 p. 100 pour prendre effet au 1er avril 1985.
+Toute personne physique ou morale exerçant l'activité de regroupement, de collecte ou de transport de lots d'huiles usagées issus de plus d'un détenteur [*obligation*] doit avoir reçu un agrément dans les formes prévues à l'article 5 du décret n° 79-981 du 21 novembre 1979, modifié par le décret n° 85-387 du 29 mars 1985, portant réglementation de la récupération des huiles usagées.

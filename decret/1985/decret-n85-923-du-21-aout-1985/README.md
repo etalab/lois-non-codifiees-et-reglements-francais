@@ -1,4 +1,4 @@
-# Arrêté du 29 mars 1985 relatif aux conditions de ramassage des huiles usagées en application du décret n° 79-981 du 21 novembre 1979, modifié par le décret n° 85-387 du 29 mars 1985 portant réglementation de la récupération des huiles usagées
+# Décret n°85-923 du 21 août 1985 relatif aux élections aux comités techniques paritaires des collectivités territoriales et de leurs établissements publics.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -11,4 +11,6 @@
 - [Article 9](article-9.md)
 - [Article 10](article-10.md)
 - [Article 11](article-11.md)
-- [Annexe](annexe)
+- [Article 12](article-12.md)
+- [Article 13](article-13.md)
+- [Article 14](article-14.md)

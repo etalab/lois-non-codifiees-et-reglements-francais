@@ -1,9 +1,17 @@
 # Article 4
 
-A compter du 1er avril 1985, le montant du minimum garanti prévu par l'article L. 141-8 du code du travail est fixé à :
+Il est créé une commission départementale d'agrément des activités de ramassage des huiles usagées. Cette commission est composée comme suit :
 
-- 13,46 F en métropole et dans le département de Saint-Pierre-et-Miquelon ;
+- le commissaire de la République, président de la commission ;
 
-- 11,45 F dans les départements de la Guadeloupe, de la Guyane et de la Martinique ;
+- le directeur départemental de la concurrence et de la consommation, ou son représentant ;
 
-- 9,43 F dans le département de la Réunion.
+- le directeur régional de l'industrie et de la recherche, ou son représentant ;
+
+- le délégué régional à l'architecture et à l'environnement, ou son représentant ;
+
+- le directeur de l'Agence nationale pour la récupération et l'élimination des déchets, ou son représentant ;
+
+- le directeur de l'agence financière de bassin, ou son représentant.
+
+Le secrétariat de la commission est assuré par la direction régionale de l'industrie et de la recherche.
