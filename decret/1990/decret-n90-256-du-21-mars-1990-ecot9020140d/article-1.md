@@ -2,9 +2,9 @@
 
 I. - Le conseil du marché à terme institué par l'article 5 de la loi du 28 mars 1885 susvisée comprend dix-sept membres nommés, pour une durée de trois ans, par arrêté du ministre chargé de l'économie et des finances, à raison de :
 
-1° Quatre dirigeants de sociétés de bourse, sur proposition du conseil des bourses de valeurs ;
+1° Quatre dirigeants de prestataires de services d'investissement, sur proposition du conseil des bourses de valeurs ;
 
-2° Quatre dirigeants d'établissements de crédit, sur proposition de l'Association française des établissements de crédit ;
+2° Quatre dirigeants d'établissements de crédit, sur proposition de l'Association française des établissements de crédit et des entreprises d'investissement ;
 
 3° Deux dirigeants de compagnies d'assurances, sur proposition de la Fédération française des sociétés d'assurances ;
 
