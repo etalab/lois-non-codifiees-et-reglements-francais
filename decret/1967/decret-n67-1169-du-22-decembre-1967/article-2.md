@@ -4,4 +4,4 @@ La cotisation est fixée à 6,30 % du montant des commissions et rémunérations
 
 Dans les sociétés mentionnées au 2° de l'article R. 511-2 du code des assurances, la totalité des commissions et rémunérations mentionnées à l'alinéa précédent perçues par la société sont retenues pour le calcul de la cotisation avec une répartition entre les différents affiliés au prorata, calculé sur la totalité de leurs parts, de la part de capital détenu par chacun d'eux.
 
-La cotisation définie au premier alinéa est appelée à hauteur de 129,5 %. La majoration de cotisation afférente à la fraction du taux d'appel excédant 100 % n'ouvre pas de droit supplémentaire.
+La cotisation définie au premier alinéa est appelée à hauteur de 129,5 %. A titre transitoire, elle est appelée à hauteur de 142,9 % au titre des années 2004 à 2011 inclus. La majoration de cotisation afférente à la fraction du taux d'appel excédant 100 % n'ouvre pas de droit supplémentaire.
