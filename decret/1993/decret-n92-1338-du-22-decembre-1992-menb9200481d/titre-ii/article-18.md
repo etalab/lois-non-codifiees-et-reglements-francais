@@ -1,6 +1,6 @@
 # Article 18
 
-Les délibérations du conseil d'administration relatives aux points 1, 2, 3, 7, 12 et 13 de l'article 17 deviennent exécutoires de plein droit quinze jours après leur réception par le ministre chargé de la culture s'il n'a pas fait connaître d'observations dans ce délai.
+Les délibérations du conseil d'administration relatives aux points 1, 2, 3, 7, 12, 13 et 14 de l'article 17 deviennent exécutoires de plein droit quinze jours après leur réception par le ministre chargé de la culture s'il n'a pas fait connaître d'observations dans ce délai.
 
 Les délibérations relatives aux points 4, 5, 8, 10 et 11 de l'article 17 deviennent exécutoires de plein droit quinze jours après leur réception par le ministre chargé de la culture et le ministre chargé du budget si ceux-ci n'ont pas fait connaître d'observations dans ce délai.
 

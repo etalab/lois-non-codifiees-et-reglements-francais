@@ -26,4 +26,6 @@ Le conseil d'administration règle par ses délibérations les affaires de l'ét
 
 12° Il délibère sur les conditions dans lesquelles les espaces du musée sont occupés par des organismes extérieurs pour des manifestations exceptionnelles ;
 
-13° Il donne son avis sur le règlement intérieur de l'établissement et le règlement de visite du musée.
+13° Il donne son avis sur le règlement intérieur de l'établissement et le règlement de visite du musée ;
+
+14° Il autorise l'exercice des actions en justice et les transactions. Il peut, dans les conditions qu'il détermine, déléguer cette attribution au président.
