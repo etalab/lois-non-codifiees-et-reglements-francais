@@ -75,6 +75,7 @@
 - [Décret n°67-519 du 30 juin 1967](decret-n67-519-du-30-juin-1967)
 - [Décret n°67-542 du 30 juin 1967](decret-n67-542-du-30-juin-1967)
 - [Décret n°67-743 du 30 août 1967](decret-n67-743-du-30-aout-1967)
+- [Décret n°67-851 du 30 septembre 1967](decret-n67-851-du-30-septembre-1967)
 - [Décret n° 59-951 du 31 juillet 1959](decret-n-59-951-du-31-juillet-1959)
 - [Décret n°66-1067 du 31 décembre 1966](decret-n66-1067-du-31-decembre-1966)
 - [Décret n°67-328 du 31 mars 1967](decret-n67-328-du-31-mars-1967)
