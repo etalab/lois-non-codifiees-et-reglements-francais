@@ -1,0 +1,3 @@
+# Article 26
+
+Jusqu'à l'achèvement de l'intégration au ministère des affaires étrangères des personnels de l'ancien ministère chargé de la coopération et au plus tard jusqu'au 31 décembre 2000, et par dérogation aux dispositions des articles 2 et 17 du présent arrêté, une sous-direction de l'administration des personnels de la coopération assure au sein de la direction des ressources humaines la gestion de ces personnels et le suivi de leur affectation en application du statut général des fonctionnaires de l'Etat ou des textes réglementaires applicables aux agents contractuels, en liaison avec les sous-directions de la direction des ressources humaines énumérées à l'article 2 (1o) du présent arrêté.

@@ -307,6 +307,7 @@
 - [Décret n°98-1114 du 10 décembre 1998 (PRMX9803318D)](decret-n98-1114-du-10-decembre-1998-prmx9803318d)
 - [Décret n°98-1122 du 10 décembre 1998 (ECOT9820073D)](decret-n98-1122-du-10-decembre-1998-ecot9820073d)
 - [Décret n°98-1123 du 10 décembre 1998 (ECOT9820081D)](decret-n98-1123-du-10-decembre-1998-ecot9820081d)
+- [Décret n°98-1124 du 10 décembre 1998 (MAEA9820422D)](decret-n98-1124-du-10-decembre-1998-maea9820422d)
 - [Décret n°98-151 du 10 mars 1998 (MESF9810271D)](decret-n98-151-du-10-mars-1998-mesf9810271d)
 - [Décret n°98-156 du 10 mars 1998 (MESS9820682D)](decret-n98-156-du-10-mars-1998-mess9820682d)
 - [Décret n°98-160 du 10 mars 1998 (JUSE9740116D)](decret-n98-160-du-10-mars-1998-juse9740116d)

@@ -1,0 +1,3 @@
+# Article 28
+
+Jusqu'au 1er janvier 1999, par dérogation aux dispositions du I de l'article 17 du présent arrêté, la sous-direction des personnels des services et établissements culturels et de coopération est chargée, avec l'appui de la direction générale des relations culturelles, scientifiques et techniques et de la direction du développement, du recrutement et de l'affectation des personnels des services culturels et de coopération des missions diplomatiques et des postes consulaires à l'étranger, des établissements culturels et de coopération, des alliances françaises et des coopérants du service national. Elle assure en outre la gestion de ces personnels.
