@@ -1,0 +1,9 @@
+# Article 14
+
+Le directeur est nommé par décret pour une durée de cinq ans renouvelable. Il est choisi parmi les ingénieurs du corps des mines.
+
+Les directeurs adjoints sont nommés par arrêté du ministre chargé de l'industrie, sur proposition du directeur.
+
+Un directeur adjoint est chargé de la recherche.
+
+Le secrétaire général qui assure, sous l'autorité du directeur, la direction administrative des services de l'établissement est nommé par arrêté du ministre chargé de l'industrie, sur proposition du directeur.
