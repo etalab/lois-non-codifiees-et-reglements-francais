@@ -2,7 +2,7 @@
 
 Lors de chaque concours et pour chaque catégorie de praticiens conseils, le ministre chargé de la sécurité sociale désigne un jury chargé de choisir les sujets, de juger les épreuves et de proposer les candidats à inscrire sur la liste nationale d'aptitude.
 
-Chaque jury est présidé par un membre délibérant du haut comité médical proposé par son président.
+Chaque jury est présidé par un membre délibérant du haut comité médical ou par son suppléant, lui-même membre délibérant, proposés par le président du haut comité médical.
 
 Il comprend en outre [*composition*] :
 
