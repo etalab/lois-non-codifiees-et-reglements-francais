@@ -5,4 +5,6 @@
 - [Ordonnance n° 2000-99 du 3 février 2000 (INTX9900041R)](ordonnance-n-2000-99-du-3-fevrier-2000-intx9900041r)
 - [Ordonnance n° 2000-218 du 8 mars 2000 (INTX9900149R)](ordonnance-n-2000-218-du-8-mars-2000-intx9900149r)
 - [Ordonnance n° 2000-219 du 8 mars 2000 (INTX9900151R)](ordonnance-n-2000-219-du-8-mars-2000-intx9900151r)
+- [Ordonnance n° 2000-350 du 19 avril 2000 (INTX0000040R)](ordonnance-n-2000-350-du-19-avril-2000-intx0000040r)
+- [Ordonnance n° 2000-351 du 19 avril 2000 (INTX0000029R)](ordonnance-n-2000-351-du-19-avril-2000-intx0000029r)
 - [Ordonnance n° 2000-285 du 30 mars 2000 (INTX0000025R)](ordonnance-n-2000-285-du-30-mars-2000-intx0000025r)
