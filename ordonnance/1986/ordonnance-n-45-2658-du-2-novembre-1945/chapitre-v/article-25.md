@@ -2,12 +2,20 @@
 
 Ne peuvent faire l'objet d'un arrêté d'expulsion, en application de l'article 23 [*interdiction*] :
 
-1° L'étranger mineur de dix-huit ans, sauf si les personnes qui subviennent effectivement à ses besoins font elles-mêmes l'objet d'une mesure d'expulsion ou de reconduite à la frontière et si aucune autre personne résidant régulièrement en France n'est susceptible de subvenir à ses besoins ; pour l'étranger mineur de seize ans, l'avis de la commission départementale d'expulsion doit être conforme ;
+1° L'étranger mineur de dix-huit ans ;
 
-2° L'étranger, marié depuis au moins un an [*durée*], dont le conjoint est de nationalité française, à la condition que la communauté de vie des deux époux soit effective ;
+2° L'étranger qui justifie, par tous moyens, résider en France habituellement depuis qu'il a atteint au plus l'âge de dix ans ;
 
-3° L'étranger qui est père ou mère d'un enfant français résidant en France, à la condition qu'il exerce, même partiellement, l'autorité parentale à l'égard de cet enfant ou qu'il subvienne effectivement à ses besoins ;
+3° L'étranger qui justifie par tous moyens résider en France habituellement depuis plus de quinze ans ainsi que l'étranger qui réside régulièrement en France depuis plus de dix ans.
 
-4° L'étranger qui justifie par tous moyens avoir sa résidence habituelle en France depuis qu'il a atteint au plus l'âge de dix ans ou depuis plus de dix ans et qui n'a pas été condamné définitivement pour crime ou délit à une peine au moins égale à six mois d'emprisonnement sans sursis ou un an avec sursis ou à plusieurs peines d'emprisonnement au moins égales, au total, à ces mêmes durées.
+4° L'étranger, marié depuis au moins six mois dont le conjoint est de nationalité française ;
 
-5° L'étranger titulaire d'une rente accident du travail servie par un organisme français et dont le taux d'incapacité permanente et partielle est égal ou supérieur à 20 p. 100 ;
+5° L'étranger qui est père ou mère d'un enfant français résidant en France, à la condition qu'il exerce, même partiellement, l'autorité parentale à l'égard de cet enfant ou qu'il subvienne effectivement à ses besoins.
+
+6° L'étranger titulaire d'une rente d'accident de travail ou de maladie professionnelle servie par un organisme français et dont le taux d'incapacité permanente est égal ou supérieur à 20 p. 100.
+
+7° L'étranger résidant régulièrement en France sous couvert de l'un des titres de séjour prévus par la présente ordonnance ou les conventions internationales qui n'a pas été condamné définitivement à une peine au moins égale à un an d'emprisonnement sans sursis.
+
+Toutefois, par dérogation au 7. ci-dessus, peut être expulsé tout étranger qui a été condamné définitivement à une peine d'emprisonnement sans sursis d'une durée quelconque pour une infraction prévue aux articles 4 et 8 de la loi n° 73-548 du 27 juin 1973 relative à l'hébergement collectif, à l'article L. 364-2-1 du code du travail [*relatif au travail clandestin*] ou aux articles 334, 334-1 et 335 du code pénal [*relatifs au proxénétisme*].
+
+Les étrangers mentionnés aux 1° à 6° ne peuvent faire l'objet d'une mesure de reconduite à la frontière en application de l'article 22 de la présente ordonnance ou d'une mesure judiciaire d'interdiction du territoire en application de l'article 19 de la même ordonnance.

@@ -14,4 +14,4 @@ Tout refus d'entrée doit faire l'objet d'une décision écrite [*condition de f
 
 L'étranger auquel est opposé un refus d'entrée est mis en mesure d'avertir ou de faire avertir la personne chez laquelle il a indiqué qu'il devait se rendre, son consulat ou le conseil de son choix.
 
-La décision de refus d'entrée est immédiatement exécutoire sauf si l'autorité consulaire demande un sursis à exécution d'un jour franc. L'étranger auquel est opposé un refus d'entrée peut être maintenu dans des locaux ne relevant pas de l'administration pénitentiaire pendant le temps strictement nécessaire à son départ, dans les conditions prévues à l'article 35 bis.
+En aucun cas, le refus d'entrée ne peut donner lieu à une mesure de rapatriement contre le gré de l'intéressé avant l'expiration du délai d'un jour franc. L'étranger auquel est opposé un refus d'entrée peut être maintenu dans des locaux ne relevant pas de l'administration pénitentiaire pendant le temps strictement nécessaire à son départ, dans les conditions prévues à l'article 35 bis.
