@@ -3,6 +3,7 @@
 - [Décret n°48-1382 du 1 septembre 1948](decret-n48-1382-du-1-septembre-1948)
 - [Décret n°48-350 du 1 mars 1948](decret-n48-350-du-1-mars-1948)
 - [Décret n°48-648 du 7 avril 1948](decret-n48-648-du-7-avril-1948)
+- [Décret n°48-1108 du 10 juillet 1948](decret-n48-1108-du-10-juillet-1948)
 - [Décret n°48-800 du 10 mai 1948](decret-n48-800-du-10-mai-1948)
 - [Décret n°48-1018 du 16 juin 1948](decret-n48-1018-du-16-juin-1948)
 - [Décret n°48-448 du 16 mars 1948](decret-n48-448-du-16-mars-1948)

@@ -1,0 +1,17 @@
+# ANNEXES
+
+- [AFFAIRES ETRANGERES](affaires-etrangeres)
+- [AFFAIRES SOCIALES](affaires-sociales)
+- [AGRICULTURE](agriculture)
+- [CULTURE](culture)
+- [DEFENSE NATIONALE](defense-nationale)
+- [ENVIRONNEMENT](environnement)
+- [ECONOMIE, FINANCES ET BUDGET](economie-finances-et)
+- [EDUCATION NATIONALE ET RECHERCHE](education-nationale-et)
+- [EQUIPEMENT, LOGEMENT ET TOURISME](equipement-logement-et)
+- [JEUNESSE ET SPORT](jeunesse-et)
+- [POSTES ET TELECOMMUNICATIONS](postes-et)
+- [INDUSTRIE (finances)](industrie-finances)
+- [INTERIEUR](interieur)
+- [JUSTICE](justice)
+- [TRANSPORT](transport)
