@@ -1,0 +1,3 @@
+# Article 130
+
+Le directeur de l'organisme contractant informe la commission des marchés prévue à l'article 40, la commission ou le jury prévus aux articles 54, 55, 62 et 63 de l'exécution de chaque marché, supérieur au seuil visé au 10° du I de l'article 104 du code des marchés publics, dans les trois mois qui suivent la date de mandatement du solde de ce marché. Cette information comporte au moins le montant initial du marché, le montant total des sommes effectivement versées et, le cas échéant, les raisons de l'écart constaté entre ces deux montants, ainsi que les modifications substantielles ayant affecté la consistance du marché.
