@@ -4,13 +4,11 @@ La commission permanente comprend les membres suivants :
 
 - le chef d'établissement, président ;
 
-- un des adjoints au chef d'établissement ;
+- les deux adjoints au chef d'établissement ;
 
 - le gestionnaire de l'établissement ;
 
 - le conseiller principal d'éducation ou le conseiller d'éducation le plus ancien ;
-
-- le responsable de la section d'enseignement général et professionnel adapté ;
 
 - un représentant des autorités andorranes ;
 
