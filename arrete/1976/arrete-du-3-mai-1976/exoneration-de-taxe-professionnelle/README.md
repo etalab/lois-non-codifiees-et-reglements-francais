@@ -1,0 +1,4 @@
+# EXONERATION DE TAXE PROFESSIONNELLE
+
+- [CONDITIONS D'APPLICATION.](conditions-d-application)
+- [CONDITIONS D'EFFECTIF.](conditions-d-effectif)
