@@ -509,6 +509,7 @@
 - [Décret n°97-297 du 26 mars 1997 (TASS9720561D)](decret-n97-297-du-26-mars-1997-tass9720561d)
 - [Décret n°97-299 du 26 mars 1997 (ENVN9750026D)](decret-n97-299-du-26-mars-1997-envn9750026d)
 - [Décret n°97-731 du 26 juin 1997 (MESX9700088D)](decret-n97-731-du-26-juin-1997-mesx9700088d)
+- [Décret n°97-811 du 26 août 1997 (AGRR9701738D)](decret-n97-811-du-26-aout-1997-agrr9701738d)
 - [Décret n°97-524 du 26 mai 1997 (JUSF9750004D)](decret-n97-524-du-26-mai-1997-jusf9750004d)
 - [Décret n°97-525 du 26 mai 1997 (JUSD9730072D)](decret-n97-525-du-26-mai-1997-jusd9730072d)
 - [Décret n°97-527 du 26 mai 1997 (MAEJ9730035D)](decret-n97-527-du-26-mai-1997-maej9730035d)

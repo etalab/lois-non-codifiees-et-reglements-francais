@@ -1,15 +1,15 @@
 # Article 3
 
-Les prestations ou équipements exceptionnels prévus par l'article 4 du décret n° 76-721 du 23 juillet 1976 susvisé sont les suivants :
+Les races de l'espèce asine reconnues en France sont :
 
-Equipements des cuisines et des postes de transformation ;
+Ane du Cotentin.
 
-Equipements des locaux professionnels de certaines spécialités de l'enseignement technique, ou de locaux spécialisés :
+Ane grand noir du Berry.
 
-Monte-charges et ascenseurs ;
+Ane normand.
 
-Dispositifs immobiliers de lutte contre l'incendie ;
+Baudet du Poitou.
 
-Système de détection d'incendie ;
+Ane de Provence.
 
-Paratonnerre.
+Ane des Pyrénées.

@@ -1,3 +1,5 @@
 # Article 6
 
-L'arrêté du 12 décembre 1967 pris pour l'application du décret n° 59-1238 du 26 octobre 1959 modifié est abrogé à compter du 1er septembre 1976.
+L'appellation des chevaux de trait est "Trait".
+
+Lorsque l'étalon, père du produit, appartient à une race de chevaux de trait, le produit est appelé "Trait", quelle que soit la race de la mère.
