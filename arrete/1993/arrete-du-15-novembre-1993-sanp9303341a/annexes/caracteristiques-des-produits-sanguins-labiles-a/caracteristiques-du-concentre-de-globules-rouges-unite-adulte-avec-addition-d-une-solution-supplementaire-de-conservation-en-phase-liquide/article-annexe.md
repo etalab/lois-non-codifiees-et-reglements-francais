@@ -12,7 +12,7 @@ Cette addition a lieu dans un délai maximal de trois jours après la fin du pr�
 
 Il se présente comme un liquide rouge sombre.
 
-Le volume minimal du concentré de globules rouges humains homologues avant addition de la solution supplémentaire de conservation est de 175 ml. Le volume de chaque unité est systématiquement enregistré.
+Le volume minimal du concentré de globules rouges humains homologues avant addition de la solution supplémentaire de conservation est de 140 ml. Le volume de chaque unité est systématiquement enregistré.
 
 Son hématocrite est compris entre 50 et 70 p. 100.
 
@@ -54,7 +54,7 @@ Le code du produit (1) (code national approuvé par l'A.F.S.).
 
 Le contenu en hémoglobine : hémoglobine supérieure ou égale à 45 g ou contenu en hémoglobine calculé en grammes.
 
-Le volume : volume supérieur ou égal à 175 ml ou volume calculé en millilitres plus X millilitres de solution supplémentaire de conservation.
+Le volume : volume supérieur ou égal à 140 ml ou volume calculé en millilitres plus X millilitres de solution supplémentaire de conservation.
 
 Le nom, la ville et le numéro de téléphone de l'E.T.S. agréé responsable de la préparation.
 

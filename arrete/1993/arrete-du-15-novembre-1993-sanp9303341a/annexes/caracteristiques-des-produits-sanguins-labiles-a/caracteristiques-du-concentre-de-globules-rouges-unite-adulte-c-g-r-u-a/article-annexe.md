@@ -12,13 +12,13 @@ La soustraction de plasma peut être effectuée soit après une centrifugation s
 
 Il se présente comme un liquide rouge sombre.
 
-Le volume minimal du concentré de globules rouges humains homologues unité adulte est de 175 ml. Ce volume tient compte du volume résiduel de la solution anticoagulante et de conservation. Le volume de chaque unité est systématiquement enregistré.
+Le volume minimal du concentré de globules rouges humains homologues unité adulte est de 160 ml. Ce volume tient compte du volume résiduel de la solution anticoagulante et de conservation. Le volume de chaque unité est systématiquement enregistré.
 
 Le contenu minimal en hémoglobine de l'unité adulte est de 45 g.
 
 Son hématocrite est compris entre 60 et 80 p. 100.
 
-Lorsque le produit est destiné à être transformé par addition d'une solution supplémentaire de conservation, l'hématocrite peut être supérieur à 80 p. 100.
+Lorsque le produit est destiné à être transformé par addition d'une solution supplémentaire de conservation, l'hématocrite peut être supérieur à 80 p. 100. Dans ce cas, le volume minimal est de 140 ml.
 
 Un seul concentré de globules rouges unité adulte peut être préparé à partir d'une unité adulte de sang total.
 
@@ -60,7 +60,7 @@ Le code du produit (1) (code national approuvé par l'A.F.S.).
 
 Le contenu en hémoglobine : hémoglobine supérieure ou égale à 45 g ou contenu en hémoglobine calculé en grammes.
 
-Le volume : volume supérieur ou égal à 175 ml ou volume calculé en millilitres.
+Le volume : volume supérieur ou égal à 160 ml ou volume calculé en millilitres.
 
 Le nom, la ville et le numéro de téléphone de l'E.T.S. agréé responsable de la préparation.
 

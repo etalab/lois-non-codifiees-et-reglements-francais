@@ -22,7 +22,7 @@ Bonneville Pont-de-Brogny (N. 201) : la R.N. 203.
 
 2. Le samedi 2 avril 1994, de 8 heures à 22 heures, sur l'ensemble du réseau routier et autoroutier.
 
-3. Les mercredis 11 mai 1994, et 13 juillet 1994, de 8 heures à 22 heures, sur les routes et autoroutes suivantes :
+3. Les mercredis 11 mai 1994, et 13 juillet 1994, de 16 heures à 22 heures, sur les routes et autoroutes suivantes :
 
 a) Paris Rouen :
 
@@ -62,9 +62,17 @@ la R.N. 7 entre Paris et Montargis.
 
 4. Les samedis 9 juillet et 23 juillet 1994, de 8 heures à 22 heures, en plus des réseaux mentionnés ci-dessus à l'alinéa 3 :
 
-a) Paris Rouen, b) Paris Orléans, c) Paris Le Mans, d) Paris-Montargis, sur les routes et autoroutes suivantes :
+a) Paris-Rouen,
 
-e) Dijon Lyon :
+b) Paris-Orléans,
+
+c) Paris-Le Mans,
+
+d) Paris-Montargis,
+
+sur les routes et autoroutes suivantes :
+
+e) Dijon-Lyon :
 
 l'autoroute A 6 entre Pouilly-en-Auxois et Lyon (A 7) ;
 
@@ -76,7 +84,7 @@ la R.N. 6 entre Arnay-le-Duc et Limonest (raccordement avec l'autoroute A 6) ;
 
 la R.N. 74 entre Dijon (R.D. 122 A) et Chagny ;
 
-f) Lyon Perpignan :
+f) Lyon-Perpignan :
 
 l'autoroute A 7 entre Lyon (A 6) et la bifurcation avec l'autoroute A 9 (Orange) ;
 
@@ -90,19 +98,19 @@ la R.N. 113 entre Nîmes et Narbonne ;
 
 la R.N. 9 entre Pézenas et la frontière espagnole ;
 
-g) Orange Menton :
+g) Orange-Menton :
 
 l'autoroute A 7 entre la bifurcation avec l'autoroute A 9 (Orange) et la bifurcation avec l'autoroute A 8 ;
 
 l'autoroute A 8 entre l'autoroute A 7 et la frontière italienne ;
 
-h) Poitiers Bordeaux :
+h) Poitiers-Bordeaux :
 
 l'autoroute A 10 entre Poitiers (sortie Poitiers-Sud) et Bordeaux (Saint-André-de-Cubzac) ;
 
 la R.N. 10 entre Poitiers (raccordement à l'autoroute A 10 Poitiers-Sud) et Bordeaux (Saint-André-de-Cubzac) ;
 
-i) Bordeaux Hendaye :
+i) Bordeaux-Hendaye :
 
 les deux tronçons de l'autoroute A 63 ;
 
@@ -112,7 +120,7 @@ l'autoroute A 66 entre l'autoroute A 63 et la R.N. 250 ;
 
 la R.N. 250 entre son raccordement à l'autoroute A 66 et Arcachon ;
 
-j) Itinéraire bis de la vallée du Rhône (Vienne Cavaillon) :
+j) Itinéraire bis de la vallée du Rhône (Vienne-Cavaillon) :
 
 la R.D. 538 entre Vienne et La Répara (R.D. 6), dans l'Isère et la Drôme ;
 
@@ -138,4 +146,24 @@ la R.D. 938 entre Carpentras et Cavaillon, dans le Vaucluse.
 
 6. Le samedi 30 juillet 1994, de 0 heure à 22 heures, sur l'ensemble du réseau routier et autoroutier.
 
-7. Le samedi 6 août 1994, de 0 heure à 22 heures, sur les sections de routes et autoroutes mentionnées aux alinéas 3 et 4 ci-dessus : a) Paris Rouen, b) Paris Orléans, c) Paris Le Mans, d) Paris Montargis, e) Dijon Lyon, f) Lyon Perpignan, g) Orange Menton, h) Poitiers Bordeaux, i) Bordeaux Hendaye, j) itinéraire bis de la vallée du Rhône Vienne Cavaillon.
+7. Le samedi 6 août 1994, de 0 heure à 22 heures, sur les sections de routes et autoroutes mentionnées aux alinéas 3 et 4 ci-dessus :
+
+a) Paris-Rouen,
+
+b) Paris-Orléans,
+
+c) Paris-Le Mans,
+
+d) Paris-Montargis,
+
+e) Dijon-Lyon,
+
+f) Lyon-Perpignan,
+
+g) Orange-Menton,
+
+h) Poitiers-Bordeaux,
+
+i) Bordeaux-Hendaye,
+
+j) itinéraire bis de la vallée du Rhône Vienne-Cavaillon.

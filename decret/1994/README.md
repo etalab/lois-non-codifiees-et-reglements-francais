@@ -77,6 +77,7 @@
 - [Décret n°94-296 du 6 avril 1994 (BUDR9405010D)](decret-n94-296-du-6-avril-1994-budr9405010d)
 - [Décret n°94-36 du 6 janvier 1994 (INTF9300605D)](decret-n94-36-du-6-janvier-1994-intf9300605d)
 - [Décret n°96-509 du 6 juin 1996 (EQUA9600618D)](decret-n96-509-du-6-juin-1996-equa9600618d)
+- [Décret n°94-360 du 6 mai 1994 (RESM9400598D)](decret-n94-360-du-6-mai-1994-resm9400598d)
 - [Décret n°94-121 du 7 février 1994 (SPSS9303624D)](decret-n94-121-du-7-fevrier-1994-spss9303624d)
 - [Décret n°94-122 du 7 février 1994 (MENF9400194D)](decret-n94-122-du-7-fevrier-1994-menf9400194d)
 - [Décret n°94-193 du 7 mars 1994 (SPSP9400453D)](decret-n94-193-du-7-mars-1994-spsp9400453d)
