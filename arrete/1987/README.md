@@ -562,7 +562,6 @@
 - [Arrêté du 24 décembre 1987 (ASES8701894A)](arrete-du-24-decembre-1987-ases8701894a)
 - [Arrêté du 24 décembre 1987 (ENVP8700276A)](arrete-du-24-decembre-1987-envp8700276a)
 - [Arrêté du 24 décembre 1987 (ENVP8700277A)](arrete-du-24-decembre-1987-envp8700277a)
-- [Arrêté du 24 décembre 1987 (ENVX8798692A)](arrete-du-24-decembre-1987-envx8798692a)
 - [Arrêté du 24 décembre 1987 (MENF8700797A)](arrete-du-24-decembre-1987-menf8700797a)
 - [Arrêté du 24 février 1987 (ASEP8700325A)](arrete-du-24-fevrier-1987-asep8700325a)
 - [Arrêté du 24 juillet 1987 (AGRS8701396A)](arrete-du-24-juillet-1987-agrs8701396a)
