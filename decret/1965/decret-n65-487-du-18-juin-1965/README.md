@@ -2,7 +2,6 @@
 
 - [Titre Ier : Dispositions générales.](titre-ier)
 - [Titre II : Instruments de pesage à fonctionnement non automatique.](titre-ii)
-- [Titre III : Doseuses et trieuses pondérales.](titre-iii)
 - [Titre IV : Instruments de pesage totalisateurs.](titre-iv)
 - [Titre V : Conditions particulières de contrôle](titre-v)
 - [Titre VI : Dispositions diverses.](titre-vi)
