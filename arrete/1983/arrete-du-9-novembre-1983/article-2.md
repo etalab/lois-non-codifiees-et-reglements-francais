@@ -1,3 +1,3 @@
 # Article 2
 
-La valeur limite de prise en compte du dollar prévue à l'arrêté n° 83-45/A du 30 août 1983 relatif aux prix de certains produits pétroliers est portée de 7,70 F à 7,90 F à partir de la période de référence d'octobre 1983.
+Dans la limite fixée à l'article 11 (1er alinéa) du décret n° 80-897 du 18 novembre 1980 susvisé, le montant de l'allocation journalière visée à l'article 1er ne peut être inférieur à 95,34 F.
