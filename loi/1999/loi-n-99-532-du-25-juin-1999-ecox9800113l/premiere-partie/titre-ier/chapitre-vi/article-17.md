@@ -1,3 +1,0 @@
-# Article 17
-
-Conformément aux I et III de l'article L. 132-7 du code du travail, dans un délai de quinze jours à compter de la signature par les représentants des employeurs et une ou plusieurs organisations syndicales représentatives d'un avenant portant révision d'un accord collectif national, les organisations syndicales dont les représentants à la commission paritaire nationale constituent plus de la moitié des quatorze membres représentant le personnel à la commission paritaire nationale peuvent s'opposer à l'entrée en vigueur de cet accord. L'opposition est formulée par écrit et motivée, conformément au IV dudit article. Elle est notifiée à la Caisse nationale des caisses d'épargne et de prévoyance et aux organisations syndicales signataires.
