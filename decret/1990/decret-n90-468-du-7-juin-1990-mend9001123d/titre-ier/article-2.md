@@ -2,7 +2,7 @@
 
 Le Conseil supérieur de l'éducation est présidé par le ministre chargé de l'éducation ou son représentant, nommé par arrêté du ministre.
 
-Il se compose de quatre-vingt-douze membres répartis de la manière suivante :
+Il se compose de quatre-vingt-quinze membres répartis de la manièr suivante :
 
 1° Quarante-huit membres représentant les enseignants, les enseignants-chercheurs et les autres personnels de l'enseignement public ainsi que les établissements d'enseignement privés et leurs personnels, à savoir :
 
@@ -30,15 +30,19 @@ Les membres mentionnés aux a, b, d, e, f, ga et gb sont désignés sur proposit
 
 La répartition des sièges entre ces organisations s'effectue à la représentation proportionnelle suivant la règle de la plus forte moyenne.
 
-2° Seize membres représentant les usagers, à savoir :
+2° Dix-neuf membres représentant les usagers, à savoir :
 
 a) Neuf membres représentant les parents d'élèves de l'enseignement public, proposés par les associations de parents d'élèves de l'enseignement public ; la répartition des sièges entre ces associations s'effectue à la représentation proportionnelle selon le système de la plus forte moyenne, proportionnellement aux résultats des élections aux conseils d'administration et aux conseils d'école ;
 
-b)   Trois membres représentant les parents d'élèves des établissements d'enseignement privés, proposés par les associations de parents d'élèves des établissements d'enseignement privés, choisies par le ministre chargé de l'éducation parmi les plus représentatives ;
+b)   Trois membres représentant les parents d'élèves des établissements d'enseignement privés, proposés par les associations de parents d'élèves des établissements d'enseignement privés,
+
+choisies par le ministre chargé de l'éducation parmi les plus représentatives ;
 
 c) Trois membres représentant les étudiants, proposés par les associations d'étudiants ; la répartition des sièges entre ces associations s'effectue à la représentation proportionnelle selon le système du plus fort reste, proportionnellement aux résultats des élections au Conseil national de l'enseignement supérieur et de la recherche ;
 
 d) Un membre représentant les associations familiales, proposé par lesdites associations choisies par le ministre chargé de l'éducation parmi les plus représentatives.
+
+e) Trois membres représentant les élèves des lycées et les élèves des établissements régionaux d'enseignement adapté fréquentant les classes des niveaux correspondant à ceux des lycées, élus en leur sein par les représentants des délégués des élèves des lycées et des établissements régionaux d'enseignement adapté siégeant dans les conseils académiques de la vie lycéenne. L'élection a lieu par correspondance ; la répartition des sièges s'effectue selon les systèmes du scrutin majoritaire plurinominal à un tour.
 
 3° Vingt-huit membres représentant les collectivités territoriales, les associations périscolaires et les grands intérêts culturels, éducatifs, sociaux et économiques, à savoir :
 
@@ -60,7 +64,9 @@ cb) Six membres représentant les organisations syndicales d'employeurs et les c
 
 cc) Un membre représentant les présidents d'université et les responsables d'établissement et d'école publics délivrant le diplôme d'ingénieur.
 
-Le représentant des présidents d'université est désigné par la conférence des présidents d'université ; le représentant des responsables d'établissement et d'école publics délivrant le diplôme d'ingénieur est désigné par l'assemblée générale des responsables d'établissement et d'école publics délivrant le diplôme d'ingénieur. Pour le premier mandat, le titulaire du siège est un président d'université. Pour le second mandat, le titulaire du siège est un responsable d'établissement ou d'école publics délivrant le diplôme d'ingénieur. Cette alternance se poursuit au cours des mandats suivants ;
+Le représentant des présidents d'université est désigné par la conférence des présidents d'université ; le représentant des responsables d'établissement et d'école publics délivrant le diplôme d'ingénieur est désigné par l'assemblée générale des responsables d'établissement et d'école publics délivrant le diplôme d'ingénieur. Pour le premier mandat, le titulaire du siège est un président d'université. Pour le second mandat, le titulaire du siège est un responsable d'établissement ou d'école publics délivrant le diplôme d'ingénieur. Cette alternance se poursuit au cours des mandats
+
+suivants ;
 
 cd) Un membre assurant la représentation de l'enseignement agricole désigné par le Conseil national de l'enseignement agricole.
 
