@@ -1,3 +1,3 @@
 # Article 7
 
-Un arrêté du ministre de l'éducation nationale et du ministe chargé de la fonction publique fixe les modalités d'organisation des concours mentionnées aux articles 5 et 6.
+Un arrêté du ministre chargé de l'éducation et du ministre chargé de la fonction publique fixe les modalités des concours mentionnés à l'article 5 ci-dessus.

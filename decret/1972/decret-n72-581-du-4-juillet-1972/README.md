@@ -7,4 +7,5 @@
 - [Chapitre III : Notation et avancement.](chapitre-iii)
 - [Chapitre IV : Discipline.](chapitre-iv)
 - [Chapitre V : Dispositions diverses.](chapitre-v)
+- [Chapitre VI : Dispositions transitoires.](chapitre-vi)
 - [Article 47](article-47.md)

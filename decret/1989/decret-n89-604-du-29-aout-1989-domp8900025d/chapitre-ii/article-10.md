@@ -1,0 +1,3 @@
+# Article 10
+
+Les créances des régions instituées par les lois n° 85-892 du 23 août 1985 et n° 88-82 du 22 janvier 1988 précitées ou du territoire figurant aux inventaires mentionnés aux 1°, 2° et 3° du premier alinéa de l'article 3 et qui concernent le remboursement d'aides ou avances accordées à des tiers pour la réalisation de projets de développement sont dévolues et affectées aux provinces dans les conditions suivantes : le recouvrement de ces aides ou avances est effectué par le comptable du territoire. Les montants correspondants abondent la dotation de fonctionnement prévue à l'article 33 de la loi du 9 novembre 1988 précitée avant la répartition de cette dotation entre les provinces selon les pourcentages fixés au dernier alinéa du même article.

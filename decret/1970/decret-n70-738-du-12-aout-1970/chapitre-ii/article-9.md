@@ -4,4 +4,4 @@ Les conseillers principaux d'éducation et les conseillers d'éducation sont cla
 
 Le classement des personnels exerçant leurs fonctions dans un service ou établissement non placé sous l'autorité d'un recteur est effectué par le ministre de l'éducation nationale.
 
-Les corps de conseillers principaux d'éducation et de conseillers d'éducation sont respectivement affectés des coefficients caractéristiques 135 et 105.
+Les corps de conseillers principaux d'éducation et de conseillers d'éducation sont respectivement affectés des coefficients caractéristiques 135 et 115.

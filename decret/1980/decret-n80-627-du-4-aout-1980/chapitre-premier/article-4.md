@@ -1,0 +1,3 @@
+# Article 4
+
+Les professeurs d'éducation physique et sportive participent aux actions d'éducation, principalement en assurant l'enseignement de leur discipline dans les établissements du second degré, dans les établissements d'enseignement supérieur et dans les établissements de formation du ministère de l'éducation nationale. Dans ce cadre, ils assurent le suivi individuel et l'évaluation des élèves et contribuent à les conseiller dans le choix de leur projet d'orientation. Les professeurs d'éducation physique et sportive peuvent exercer une mission de conseiller auprès des maîtres du premier degré. Ils participent à la formation, l'entraînement et l'animation sportifs.

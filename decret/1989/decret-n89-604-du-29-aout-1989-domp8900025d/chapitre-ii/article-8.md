@@ -1,0 +1,3 @@
+# Article 8
+
+Les garanties d'emprunt et cautions diverses figurant aux inventaires mentionnés aux 1°, 2° et 3° du premier alinéa de l'article 3 et qui ont été accordées par les régions instituées par les lois n° 85-892 du 23 août 1985 et n° 88-82 du 22 janvier 1988 précitées ou par le territoire à des tiers pour la réalisation d'investissements sont mises à la charge des provinces dans les conditions suivantes : les versements résultant de l'appel des garanties et cautions sont effectués par le territoire. Les montants correspondants sont imputés sur la dotation de fonctionnement prévue à l'article 33 de la loi du 9 novembre 1988 précitée avant la répartition de cette dotation entre les provinces selon les pourcentages fixés au dernier alinéa du même article.

@@ -4,4 +4,6 @@
 - [Chapitre Ier : Dispositions générales.](chapitre-ier)
 - [Chapitre II : Recrutement.](chapitre-ii)
 - [Chapitre III : Notation et avancement.](chapitre-iii)
+- [Chapitre V : Dispositions diverses.](chapitre-v)
+- [Chapitre VI : Dispositions transitoires.](chapitre-vi)
 - [Article 20](article-20.md)

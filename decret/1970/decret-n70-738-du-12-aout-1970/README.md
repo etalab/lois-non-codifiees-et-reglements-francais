@@ -4,3 +4,4 @@
 - [Chapitre II : Recrutement.](chapitre-ii)
 - [Chapitre III : Notation et avancement](chapitre-iii)
 - [Chapitre IV : Dispositions transitoires.](chapitre-iv)
+- [Chapitre V : Dispositions transitoires.](chapitre-v)

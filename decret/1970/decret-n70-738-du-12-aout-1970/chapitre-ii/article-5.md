@@ -12,6 +12,8 @@ Le nombre des places réservées aux candidats mentionnés au 2° du présent ar
 
 Pour une même session, les candidats ne peuvent s'inscrire qu'à l'un des deux concours externe ou interne.
 
+Pour chaque concours, le jury établit par ordre de mérite la liste des candidats admis. Il peut établir une liste complémentaire. Le nombre des nominations de candidats inscrits sur la liste complémentaire ne peut excéder 30 p. 100 du nombre total des emplois offerts.
+
 Les conditions requises des candidats aux concours visés au présent article s'apprécient à la date de clôture des registres d'inscription aux concours fixée par arrêté conjoint du ministre chargé de l'éducation et du ministre chargé de la fonction publique.
 
 En outre, peuvent accéder au corps des conseillers principaux d'éducation, dans la limite du sixième des titularisations prononcées la même année après concours, les conseillers d'éducation âgés de quarante-cinq ans au moins et justifiant de dix années de services effectifs dans ces fonctions. Ils sont choisis parmi les candidats inscrits sur une liste d'aptitude arrêtée par le ministre de l'éducation nationale après avis de la commission administrative paritaire nationale du corps des conseillers principaux d'éducation.

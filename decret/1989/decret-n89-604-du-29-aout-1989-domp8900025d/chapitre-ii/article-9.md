@@ -1,0 +1,3 @@
+# Article 9
+
+Les obligations des régions instituées par les lois n° 85-892 du 23 août 1985 et n° 88-82 du 22 janvier 1988 précitées ou du territoire figurant aux inventaires mentionnés aux 1°, 2° et 3° du premier alinéa de l'article 3 et qui concernent des primes ou des aides accordées mais non encore versées à des tiers pour la réalisation de projets de développement sont mises à la charge des provinces dans les conditions suivantes : le versement de ces primes et aides est effectué par le territoire. Les montants correspondants sont imputés sur la dotation de fonctionnement prévue à l'article 33 de la loi du 9 novembre 1988 précitée avant la répartition de cette dotation entre les provinces selon les pourcentages fixés au dernier alinéa du même article.
