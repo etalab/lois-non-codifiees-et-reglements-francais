@@ -1,6 +1,6 @@
 # Article 5
 
-1. L'inscription au registre est prononcée par le préfet de département, et donne lieu à la délivrance d'un certificat d'inscription.
+1. L'inscription au registre est prononcée par le préfet de département.
 
 2. L'inscription est subordonnée à des conditions d'honorabilité professionnelle, de capacité financière et de capacité professionnelle définies aux articles 6, 6-1 et 7 ci-dessous.
 
