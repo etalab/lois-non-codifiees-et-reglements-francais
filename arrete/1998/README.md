@@ -1032,7 +1032,6 @@
 - [Arrêté du 28 octobre 1998 (MESP9823448A)](arrete-du-28-octobre-1998-mesp9823448a)
 - [Arrêté du 28 septembre 1998 (ECOI9800825A)](arrete-du-28-septembre-1998-ecoi9800825a)
 - [Arrêté du 28 septembre 1998 (EQUP9801282A)](arrete-du-28-septembre-1998-equp9801282a)
-- [Arrêté du 28 septembre 1998 (MENF9802476A)](arrete-du-28-septembre-1998-menf9802476a)
 - [Arrêté du 28 septembre 1998 (MENP9802535A)](arrete-du-28-septembre-1998-menp9802535a)
 - [Arrêté du 28 mai 1998 (AGRA9800843A)](arrete-du-28-mai-1998-agra9800843a)
 - [Arrêté du 28 mai 1998 (ECOC9800054A)](arrete-du-28-mai-1998-ecoc9800054a)
