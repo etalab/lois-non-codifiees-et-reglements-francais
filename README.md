@@ -4,5 +4,6 @@
 - [CONSTITUTION](constitution)
 - [DECLARATION](declaration)
 - [DECRET](decret)
+- [DECRET_LOI](decret-loi)
 - [LOI](loi)
 - [ORDONNANCE](ordonnance)
