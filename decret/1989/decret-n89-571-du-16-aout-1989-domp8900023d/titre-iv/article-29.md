@@ -1,0 +1,3 @@
+# Article 29
+
+Les dossiers d'acquisitions ou d'attributions déjà soumis au conseil d'administration de l'office foncier créé par l'ordonnance n° 82-880 du 15 octobre 1982, ou au conseil d'administration de l'Agence de développement rural et d'aménagement foncier créée par la loi n° 86-844 du 17 juillet 1986, ou au conseil exécutif institué par la loi n° 88-82 du 22 janvier 1988, lors de la mise en application des présentes dispositions réglementaires, peuvent, selon la nature du dossier et l'état d'avancement de la procédure, après avis du conseil d'administration et sur décision du haut-commissaire de la République, être instruits selon la procédure instituée en application de la loi du 17 juillet 1986 précitée.

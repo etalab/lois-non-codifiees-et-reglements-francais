@@ -1,11 +1,5 @@
 # Article 3
 
-Les destinataires ou catégories de destinataires de ces informations sont :
+Les conditions d'homologation et d'utilisation d'un aérodrome pour l'exécution de procédures d'approche de précision portent essentiellement sur les points suivants : dégagements de l'aérodrome et franchissement des obstacles, caractéristiques physiques de la piste et de ses abords, alimentation électrique, équipement en aides radio-électriques à l'atterrissage, équipement en aides visuelles à l'atterrissage, portée visuelle de piste, procédures d'exploitation.
 
-- le directeur de l'établissement ;
-
-- l'adjoint du directeur de l'établissement ;
-
-- le service du personnel ;
-
-- le service d'affectation dans l'établissement.
+Elles sont explicitées dans une instruction ministérielle.

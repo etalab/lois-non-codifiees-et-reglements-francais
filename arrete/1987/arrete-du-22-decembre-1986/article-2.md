@@ -1,15 +1,11 @@
 # Article 2
 
-Les catégories d'informations nominatives enregistrées ont trait :
+Les procédures d'approche de précision sont des procédures d'approche directe aux instruments utilisant des informations en azimut, en site et en distances fournies par une installation électronique au sol (ILS, MLS, PAR...).
 
-- au numéro matricule ;
+" Elles sont classées en trois catégories, compte tenu notamment de la hauteur de décision associée :
 
-- à l'identité ;
+" - 60 mètres (200 pieds) minimum en catégorie I ;
 
-- au service d'affectation dans l'établissement ;
+" - 30 mètres (100 pieds) minimum et inférieure à 60 mètres (200 pieds) en catégorie II ;
 
-- aux heures d'arrivée à l'établissement ;
-
-- aux heures de départ de l'établissement.
-
-Les informations nominatives, enregistrées par lecture optique de badges individualisés, ne sont conservées que tant que les personnels sont employés par l'établissement.
+" - inférieure à 30 mètres (100 pieds) en catégorie III. "
