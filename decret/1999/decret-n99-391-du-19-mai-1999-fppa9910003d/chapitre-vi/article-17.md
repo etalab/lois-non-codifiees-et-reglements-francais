@@ -1,0 +1,5 @@
+# Article 17
+
+Sont intégrés en qualité de titulaires dans le cadre d'emplois des gardiens territoriaux d'immeuble et classés dans les conditions fixées aux articles 22 et 23 au grade de gardien d'immeuble, gardien d'immeuble qualifié, gardien d'immeuble principal les fonctionnaires territoriaux non intégrés dans un cadre d'emplois à la date d'entrée en vigueur du présent décret qui exercent les fonctions mentionnées à l'article 2 et qui ont été nommés dans des emplois dont les indices bruts de début sont au moins égaux respectivement aux indices bruts de début des échelles 3, 4 et 5 de rémunération.
+
+Sont intégrés en qualité de titulaires dans le cadre d'emplois des gardiens territoriaux d'immeuble et classés dans les conditions fixées aux articles 22 et 23 au grade de gardien d'immeuble en chef les fonctionnaires territoriaux non intégrés dans un cadre d'emplois à la date d'entrée en vigueur du présent décret qui exercent les fonctions mentionnées à l'article 2 et qui ont été nommés dans un emploi dont l'indice brut afférent au 1er échelon est au moins égal à l'indice brut 396.

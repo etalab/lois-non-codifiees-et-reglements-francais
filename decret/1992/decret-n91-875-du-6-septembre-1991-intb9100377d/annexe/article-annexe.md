@@ -148,7 +148,7 @@ B. - Fonctions techniques
 <p>Assistant technique.</p>
 </td>
 <td valign="top" width="227">
-<p>Prime de rendement et, pour les techniciens jusqu'au 7e échelon, indemnités horaires pour travaux supplémentaires (I.H.T.S.) (décret n° 50-1248 du 6 octobre 1950 modifié).</p>
+<p>Prime de rendement et, pour les techniciens jusqu'au 7e échelon, indemnités horaires pour travaux supplémentaires (I.H.T.S.) (décret<br/>n° 50-1248 du 6 octobre 1950 modifié).</p>
 </td>
 </tr>
 <tr>
@@ -271,14 +271,45 @@ B. - Fonctions techniques
 <td valign="top" width="227"/>
 </tr>
 <tr>
-<td valign="top" width="227">
-<p>Chef de garage.</p>
+<td>
+<p align="left">Chef de garage.</p>
 <p>Chef de garage principal.</p>
 </td>
-<td valign="top" width="227">
-<p>Chef de garage.</p>
+<td>
+<p align="left">Chef de garage.</p>
 <p>Chef de garage principal.</p>
 </td>
+<td/>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Garde territorial<br/>d'immeuble</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Dessinateur</p>
+</td>
+<td align="left" rowspan="2" valign="top">
+<p align="left">Prime de service et de rendement<br/>(décret n° 72-18 du 5 janvier 1972<br/>modifié)<br/>et indemnités horaires pour travaux<br/>supplémentaires (IHTS) (décret<br/>n° 50-1248<br/>du 6 octobre 1950 modifié).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Garde d'immeuble en chef.</p>
+<p>Gardien d'immeuble principal.</p>
+<p>Gardien d'immeuble qualité.</p>
+<p>Gardien d'immeuble.</p>
+</td>
+<td>
+<p>Dessinateur chef de groupe.</p>
+<p>Dessinateur chef de groupe.</p>
+<p>Dessinateur.</p>
+<p>Desssinateur.</p>
+</td>
+</tr>
+<tr>
+<td/>
+<td/>
+<td/>
 </tr>
 </tbody>
 </table>
