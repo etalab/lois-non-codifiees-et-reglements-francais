@@ -20,7 +20,6 @@
 - [Arrêté du 9 janvier 1976](arrete-du-9-janvier-1976)
 - [Arrêté du 10 août 1976](arrete-du-10-aout-1976)
 - [Arrêté du 10 décembre 1975](arrete-du-10-decembre-1975)
-- [Arrêté du 10 février 1976](arrete-du-10-fevrier-1976)
 - [Arrêté du 10 janvier 1976](arrete-du-10-janvier-1976)
 - [Arrêté du 10 mai 1976](arrete-du-10-mai-1976)
 - [Arrêté du 11 août 1976](arrete-du-11-aout-1976)
