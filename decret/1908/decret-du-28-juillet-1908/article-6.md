@@ -1,3 +1,5 @@
 # Article 6
 
-Dans les inscriptions et marques servant à désigner les produits visés au présent décret, la dénomination du produit et le qualificatif qui l'accompagne ou les termes "fantaisie", "coloré" ou "artificiel" doivent être imprimés en caractères identiques.
+Dans les établissements où s'exerce le commerce des vinaigres, il doit être apposé, d'une manière apparente, sur les récipients, emballages, casiers ou fûts, une inscription indiquant la dénomination sous laquelle les vinaigres sont mis en vente, ainsi que leur teneur en acide acétique [*mentions obligatoires*]. Cette inscription doit être rédigée sans abréviation et en caractères très apparents.
+
+L'indication de la teneur en acide acétique doit être donnée en degrés ou demi-degrés ; les dixièmes dépassant le degré ou le demi-degré ne devront pas être comptés.

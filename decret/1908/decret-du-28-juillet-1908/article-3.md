@@ -1,5 +1,5 @@
 # Article 3
 
-Doivent être désignés sous leur nom spécifique, suivi du terme "sacchariné", les sirops dans la préparation desquels la saccharine est substituée au saccharose ; cette substitution ne peut être que partielle, la teneur en saccharose devant être au minimum de 100 g par litre de sirop.
+Les mélanges de vinaigres provenant de boissons alcooliques avec des vinaigres d'alcool peuvent être désignés sous une dénomination faisant apparaître l'un des éléments du mélange, mais à la condition qu'une mention complémentaire fasse connaître exactement la proportion dans laquelle l'élément dénommé entre dans le mélange.
 
-Doivent être désignés sous leur nom spécifique, suivi des termes "fantaisie" et "sacchariné", les sirops dans la préparation desquels la saccharine est substituée au glucose ; cette substitution ne peut être que partielle, la teneur en glucose devant être au minimum de 100 g, par litre de sirop.
+Les dénominations et mentions ci-dessus prévues doivent être imprimées en caractères identiques.

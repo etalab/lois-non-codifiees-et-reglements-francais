@@ -1,9 +1,9 @@
 # Article 7
 
-Est interdit l'emploi, dans la fabrication des liqueurs et sirops :
+L'emploi de toute indication ou signe susceptible de créer dans l'esprit de l'acheteur une confusion sur la nature ou sur l'origine des produits visés au présent décret lorsque, d'après la convention ou les usages, la désignation de l'origine attribuée à ces produits devra être considérée comme la cause principale de la vente, est interdit en toutes circonstances et sous quelque forme que ce soit notamment [*opérations illicites - publicité mensongère*] :
 
-1° De matières colorantes autres que celles dont l'usage est déclaré licite par arrêtés pris de concert, par les ministres de l'intérieur et de l'agriculture, sur l'avis du conseil supérieur d'hygiène publique et de l'académie de médecine ;
+1° Sur les récipients et emballages ;
 
-2° De produits chimiques aromatiques et de substances amères autres que ceux autorisés dans les conditions ci-dessus et sans préjudice des interdictions spéciales édictées par l'article 17 de la loi susvisée du 30 janvier 1907 ;
+2° Sur les étiquettes, capsules, bouchons, cachets ou tout autre appareil de fermeture ;
 
-3° De produits antiseptiques dont l'emploi ne serait pas déclaré licite dans les formes fixées au paragraphe 1er du présent article ;    4° De résines, en ce qui concerne les absinthes et liqueurs similaires.
+3° Dans les papiers de commerce, factures, catalogues, prospectus, prix-courants, enseignes, affiches, tableaux-réclames, annonces ou tout autre moyen de publicité.
