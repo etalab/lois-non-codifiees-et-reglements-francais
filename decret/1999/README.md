@@ -32,6 +32,8 @@
 - [Décret n°99-681 du 3 août 1999 (JUSF9950058D)](decret-n99-681-du-3-aout-1999-jusf9950058d)
 - [Décret n°99-71 du 3 février 1999 (ECOT9914006D)](decret-n99-71-du-3-fevrier-1999-ecot9914006d)
 - [Décret n°99-72 du 3 février 1999 (ECOU9800009D)](decret-n99-72-du-3-fevrier-1999-ecou9800009d)
+- [Décret n°99-336 du 3 mai 1999 (ECOT9926237D)](decret-n99-336-du-3-mai-1999-ecot9926237d)
+- [Décret n°99-337 du 3 mai 1999 (ECOF9900013D)](decret-n99-337-du-3-mai-1999-ecof9900013d)
 - [Décret n°99-1 du 4 janvier 1999 (MAEF9810031D)](decret-n99-1-du-4-janvier-1999-maef9810031d)
 - [Décret n°99-142 du 4 mars 1999 (MESP9824089D)](decret-n99-142-du-4-mars-1999-mesp9824089d)
 - [Décret n°99-143 du 4 mars 1999 (MESP9824094D)](decret-n99-143-du-4-mars-1999-mesp9824094d)
