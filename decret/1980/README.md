@@ -68,6 +68,7 @@
 - [Décret n°80-203 du 12 mars 1980](decret-n80-203-du-12-mars-1980)
 - [Décret n°80-895 du 13 novembre 1980](decret-n80-895-du-13-novembre-1980)
 - [Décret n°80-896 du 13 novembre 1980](decret-n80-896-du-13-novembre-1980)
+- [Décret n°80-918 du 13 novembre 1980](decret-n80-918-du-13-novembre-1980)
 - [Décret n°80-347 du 13 mai 1980](decret-n80-347-du-13-mai-1980)
 - [Décret n°80-22 du 14 janvier 1980](decret-n80-22-du-14-janvier-1980)
 - [Décret n°80-269 du 14 avril 1980](decret-n80-269-du-14-avril-1980)
