@@ -12,7 +12,7 @@ La sous-commission pour l'homologation des enceintes sportives est présidée pa
 
 - le directeur départemental de l'équipement ;
 
-- le directeur départemental de la jeunesse et des sports et des loisirs ;
+- le directeur départemental de la jeunesse et des sports ;
 
 - le directeur départemental des services d'incendie et de secours.
 

@@ -1,6 +1,6 @@
 # Article 53
 
-Le préfet peut créer un groupe de visite de la sous-commission départementale pour l'accessibilité ou de la commission d'arrondissement. Il en fixe la composition.
+Le préfet peut créer un groupe de visite de la sous-commission départementale pour l'accessibilité ou de la commission d'arrondissement, communale ou intercommunale aprés avis de la commission consultative départementale de sécurité et d'accessibilité. Il en fixe la composition.
 
 Le groupe de visite établit un rapport à l'issue de chaque visite. Ce rapport est conclu par une proposition d'avis.
 

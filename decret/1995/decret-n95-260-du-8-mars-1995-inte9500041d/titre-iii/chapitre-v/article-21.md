@@ -16,7 +16,9 @@ La sous-commission départementale pour la sécurité contre les risques d'incen
 
 - le directeur de l'Office national des forêts ;
 
-- le directeur régional de l'environnement.
+- le directeur régional de l'environnement ;
+
+- un administrateur du centre régional de la propriété forestière désigné par le conseil d'administration de cet établissement.
 
 2. Sont membres avec voix délibérative en fonction des affaires traitées :
 

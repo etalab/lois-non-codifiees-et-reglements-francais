@@ -2,7 +2,7 @@
 
 Sont membres de la commission d'arrondissement pour la sécurité contre les risques d'incendie et de panique dans les établissements recevant du public avec voix délibérative les personnes désignées ci-après ou leurs suppléants :
 
-- le chef de la circonscription locale de police ou le commandant de compagnie de gendarmerie territorialement compétent ;
+- le chef de la circonscription de sécurité publique ou le commandant de compagnie de gendarmerie territorialement compétent ;
 
 - un agent de la direction départementale de l'équipement ;
 

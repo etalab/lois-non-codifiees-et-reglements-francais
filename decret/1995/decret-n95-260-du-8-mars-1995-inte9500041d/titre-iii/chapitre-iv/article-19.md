@@ -14,7 +14,7 @@ La sous-commission pour la sécurité des terrains de camping et de stationnemen
 
 - le directeur régional de l'environnement ;
 
-- le directeur départemental de la jeunesse, des sports et des loisirs ;
+- le directeur départemental de la jeunesse, des sports ;
 
 - le directeur départemental des services d'incendie et de secours.
 

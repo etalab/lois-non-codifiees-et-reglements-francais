@@ -4,11 +4,11 @@ La commission communale de sécurité est présidée par le maire ou l'adjoint d
 
 1. Sont membres de la commission communale pour la sécurité contre les risques d'incendie et de panique dans les établissements recevant du public avec voix délibérative les personnes désignées ci-après ou leurs suppléants :
 
-- le chef de la circonscription locale de police ou le commandant de la brigade de gendarmerie territorialement compétent ;
+- le chef de la circonscription de sécurité publique ou le commandant de la brigade de gendarmerie territorialement compétent ;
 
 - un sapeur-pompier titulaire du brevet de prévention ;
 
-- un agent de la direction départementale de l'équipement.
+- un agent de la direction départementale de l'équipement ou un agent de la commune considérée.
 
 2. Sont membres avec voix délibérative en fonction des affaires traitées :
 
