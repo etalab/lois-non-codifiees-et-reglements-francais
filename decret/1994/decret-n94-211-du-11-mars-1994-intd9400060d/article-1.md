@@ -1,6 +1,6 @@
 # Article 1
 
-Les dispositions du présent décret sont, selon le cas, applicables aux ressortissants des Etats membres de la Communauté européenne :
+Les dispositions du présent décret sont, selon le cas, applicables aux ressortissants des Etats membres de la Communauté européenne ou (d'un) (des) autre(s) Etat(s) membre(s) de l'Association européenne de libre-échange qui ont adhéré à l'accord sur l'Espace économique européen et pour lesquels cet accord est entré en vigueur :
 
 a) Bénéficiaires du droit de s'établir en France pour exercer une activité non salariée, en application du traité du 25 mars 1957 instituant la Communauté économique européenne ;
 
@@ -8,7 +8,7 @@ b) Non-salariés bénéficiaires du droit d'exécuter en France des prestations 
 
 c) Venant en France occuper un emploi salarié dans les conditions autres que celles qui sont prévues aux d et e ci-après ;
 
-d) Occupant un emploi salarié en France tout en ayant leur résidence habituelle sur le territoire d'un autre Etat membre, où ils retournent chaque jour ou au moins une fois par semaine ;
+d) Occupant un emploi salarié en France tout en ayant leur résidence habituelle sur le territoire d'un autre Etat membre ou (d'un) (des) autre(s) Etat(s) membre(s) de l'Association européenne de libre-échange qui ont adhéré à l'accord sur l'Espace économique européen et pour lesquels cet accord est entré en vigueur, où ils retournent chaque jour ou au moins une fois par semaine ;
 
 e) Venant en France exercer une activité salariée à titre temporaire ou en qualité de travailleur saisonnier ;
 
@@ -16,9 +16,9 @@ f) Ayant exercé sur le territoire français une activité salariée ou non sala
 
 g) Travailleurs salariés ou non salariés qui justifient d'une résidence continue en France pendant une période de deux ans, s'ils ont été contraints de cesser d'exercer leur activité du fait d'une incapacité permanente de travail. Si cette incapacité résulte d'un accident du travail ou d'une maladie professionnelle qui ouvre droit à une rente dont le paiement incombe même partiellement à une personne morale de droit français, aucune condition de résidence n'est requise ;
 
-h) Travailleurs salariés ou non salariés qui exercent leur activité sur le territoire d'un Etat membre des communautés européennes autre que la France, s'ils justifient d'une résidence et d'une activité continues sur le territoire français pendant une période de trois ans à la condition de conserver leur résidence en France et de retourner dans ce pays au moins une fois par semaine.
+h) Travailleurs salariés ou non salariés qui exercent leur activité sur le territoire d'un Etat membre des communautés européennes ou (d'un) (des) autre(s) Etat(s) membre(s) de l'Association européenne de libre-échange qui ont adhéré à l'accord sur l'Espace économique européen et pour lesquels cet accord est entré en vigueur, autre que la France, s'ils justifient d'une résidence et d'une activité continues sur le territoire français pendant une période de trois ans à la condition de conserver leur résidence en France et de retourner dans ce pays au moins une fois par semaine.
 
-Les périodes d'activité ainsi accomplies sur le territoire d'un autre Etat membre par les personnes mentionnées aux f et g ci-dessus sont regardées, pour l'acquisition des droits prévus auxdits alinéas, comme accomplies sur le territoire français ;
+Les périodes d'activité ainsi accomplies sur le territoire d'un autre Etat membre ou (d'un) (des) autre(s) Etat(s) membre(s) de l'Association européenne de libre-échange qui ont adhéré à l'accord sur l'Espace économique européen et pour lesquels cet accord est entré en vigueur, par les personnes mentionnées aux f et g ci-dessus sont regardées, pour l'acquisition des droits prévus auxdits alinéas, comme accomplies sur le territoire français ;
 
 i) Travailleurs salariés ou non salariés, sans qu'ils aient à justifier d'aucune condition concernant leur résidence ou la durée de leur activité lorsque leur conjoint possède la nationalité française ou a perdu cette nationalité par l'effet de son mariage ;
 
@@ -32,7 +32,7 @@ k) Qui ne bénéficient pas du droit au séjour en vertu d'autres dispositions d
 
 3° Pour les ascendants à charge du demandeur du droit au séjour ou de son conjoint, un revenu du même montant que celui qui est exigé du demandeur et, éventuellement, de son conjoint ;
 
-l) Qui ont cessé leur activité professionnelle dans un des Etats de la Communauté européenne à condition qu'ils bénéficient d'une pension d'invalidité, de préretraite ou de vieillesse ou d'une rente d'accident de travail ou de maladie professionnelle, qu'ils justifient, pour eux-mêmes et leur conjoint, leurs descendants et ascendants à charge, d'une assurance couvrant l'ensemble des risques maladie et maternité auxquels ils peuvent être exposés durant leur séjour en France et qu'ils disposent des ressources définies, selon les cas, aux 1°, 2° et 3° du k ;
+l) Qui ont cessé leur activité professionnelle dans un des Etats de la Communauté européenne ou (d'un) (des) autre(s) Etat(s) membre(s) de l'Association européenne de libre-échange qui ont adhéré à l'accord sur l'Espace économique européen et pour lesquels cet accord est entré en vigueur, à condition qu'ils bénéficient d'une pension d'invalidité, de préretraite ou de vieillesse ou d'une rente d'accident de travail ou de maladie professionnelle, qu'ils justifient, pour eux-mêmes et leur conjoint, leurs descendants et ascendants à charge, d'une assurance couvrant l'ensemble des risques maladie et maternité auxquels ils peuvent être exposés durant leur séjour en France et qu'ils disposent des ressources définies, selon les cas, aux 1°, 2° et 3° du k ;
 
 m) Etudiants qui ne bénéficient pas du droit au séjour sur la base d'une autre disposition du présent article, à condition qu'ils justifient pour eux-mêmes et leur conjoint, ainsi que pour leurs enfants à charge d'une assurance couvrant l'ensemble des risques maladie et maternité auxquels ils peuvent être exposés pendant leur séjour en France et qu'ils disposent des ressources suivantes :
 
@@ -42,7 +42,7 @@ m) Etudiants qui ne bénéficient pas du droit au séjour sur la base d'une autr
 
 Les étudiants doivent, en outre, justifier d'une inscription dans un établissement d'enseignement et suivre à titre principal leurs études ;
 
-n) Membres de la famille des ressortissants des Etats membres qui entrent dans les catégories mentionnées au présent article, tels qu'ils sont définis ci-dessous :
+n) Membres de la famille des ressortissants des Etats membres ou (d'un) (des) autre(s) Etat(s) membre(s) de l'Association européenne de libre-échange qui ont adhéré à l'accord sur l'Espace économique européen et pour lesquels cet accord est entré en vigueur, qui entrent dans les catégories mentionnées au présent article, tels qu'ils sont définis ci-dessous :
 
 1° Au titre des catégories définies aux a à j :
 
