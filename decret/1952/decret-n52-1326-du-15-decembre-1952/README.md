@@ -1,11 +1,5 @@
 # Décret n°52-1326 du 15 décembre 1952 pris pour l'application de la loi n° 52-332 du 24 mars 1952 et relatif aux contrats de crédit différé
 
-- [Article 31](article-31.md)
-- [Article 32](article-32.md)
-- [Article 33](article-33.md)
-- [Article 34](article-34.md)
-- [Article 35](article-35.md)
-- [Article 36](article-36.md)
 - [Article 44](article-44.md)
 - [Article 45](article-45.md)
 - [Article 46](article-46.md)

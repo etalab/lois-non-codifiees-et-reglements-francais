@@ -1,5 +1,0 @@
-# Article 3
-
-Les versements sont périodiques [*fréquence*]. Ils peuvent être soit de même montant pendant toute la durée du contrat, soit comporter des versements de même montant avant attribution du crédit et des versements plus élevés par mois mais égaux entre eux après attribution de ce crédit.
-
-Lorsqu'un crédit d'anticipation est consenti par un organisme autre que la société de crédit différé et pour les contrats émis par les sociétés de crédit différé ayant fait l'objet de l'agrément spécial, les versements effectués avant attribution par le bénéficiaire de ce crédit d'anticipation peuvent être aménagés, par accord relatif à ce crédit, de telle sorte que les charges cumulées de ces versements et des intérêts du crédit d'anticipation soient également réparties sur toute la période qui précède l'attribution du prêt. Dans ce cas, les dispositions du premier alinéa du présent article s'appliquent, compte tenu des versements périodiques faits par l'adhérent, tant à la société de crédit différé ayant bénéficié de l'agrément spécial, qu'à l'organisme qui a consenti le crédit d'anticipation.
