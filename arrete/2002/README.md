@@ -488,6 +488,7 @@
 - [Arrêté du 24 janvier 2002 (ECOP0100614A)](arrete-du-24-janvier-2002-ecop0100614a)
 - [Arrêté du 24 janvier 2002 (ECOP0100641A)](arrete-du-24-janvier-2002-ecop0100641a)
 - [Arrêté du 24 janvier 2002 (JUSA0200028A)](arrete-du-24-janvier-2002-jusa0200028a)
+- [Arrêté du 24 juin 2002 (DEVP0210261A)](arrete-du-24-juin-2002-devp0210261a)
 - [Arrêté du 24 mars 2003 (SOCG0310293A)](arrete-du-24-mars-2003-socg0310293a)
 - [Arrêté du 24 octobre 2002 (AGRA0201953A)](arrete-du-24-octobre-2002-agra0201953a)
 - [Arrêté du 25 avril 2002 (ATEN0210161A)](arrete-du-25-avril-2002-aten0210161a)
