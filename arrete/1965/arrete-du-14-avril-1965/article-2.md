@@ -2,11 +2,11 @@
 
 Peuvent être admis à participer aux concours visés par le présent arrêté :
 
-1) Les candidats des deux sexes justifiant des conditions d'âge et de diplôme prévues à l'article 9 du décret n° 64-748 du 17 juillet 1964 susvisé ;
+1) Les candidats des deux sexes justifiant des conditions d'âge et de diplôme prévues à l'article 13 du décret n° 68-97 du 10 janvier 1968 susvisé ;
 
-2) Les fonctionnaires et agents visés au 2 de l'article 9 précité.
+2) Les agents visés au 2° de l'article 13 précité.
 
-La limite d'âge supérieure prévue au 1 dudit article est reculée dans les conditions déterminées à l'article L. 810 du code de la santé publique.
+La limite d'âge supérieure prévue au 1° dudit article est reculée dans les conditions déterminées à l'article 2 du décret n° 68-132 du 9 février 1968 susvisé.
 
 Les candidats doivent, par ailleurs :
 
