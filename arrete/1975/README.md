@@ -1,6 +1,7 @@
 # 1975
 
 - [Arrêté du 3 novembre 1975](arrete-du-3-novembre-1975)
+- [Arrêté du 3 octobre 1975](arrete-du-3-octobre-1975)
 - [Arrêté du 4 décembre 1975](arrete-du-4-decembre-1975)
 - [Arrêté du 4 novembre 1975](arrete-du-4-novembre-1975)
 - [Arrêté du 5 décembre 1975](arrete-du-5-decembre-1975)
