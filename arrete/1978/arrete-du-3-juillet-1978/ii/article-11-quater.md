@@ -1,8 +1,8 @@
 # Article 11 quater
 
-A compter du 1er juillet 1988 :
+A compter du 1er juillet 1989 :
 
-- le montant prévu au premier alinéa de l'article R. 351-7-1 est fixé à 33 000 F ;
+- le montant prévu au premier alinéa de l'article R. 351-7-1 est fixé à 34 000 F ;
 
 - le coefficient prévu par le deuxième alinéa de l'article R. 351-7-1 est fixé à :
 

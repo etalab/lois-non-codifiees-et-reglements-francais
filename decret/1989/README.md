@@ -237,6 +237,7 @@
 - [Décret n°89-764 du 16 octobre 1989 (MAEJ8930090D)](decret-n89-764-du-16-octobre-1989-maej8930090d)
 - [Décret n°89-765 du 16 octobre 1989 (MAEJ8930092D)](decret-n89-765-du-16-octobre-1989-maej8930092d)
 - [Décret n°89-767 du 16 octobre 1989 (MAEJ8930094D)](decret-n89-767-du-16-octobre-1989-maej8930094d)
+- [Décret n°89-842 du 16 novembre 1989 (INTB8900344D)](decret-n89-842-du-16-novembre-1989-intb8900344d)
 - [Décret n°89-314 du 16 mai 1989 (PRMD8905033D)](decret-n89-314-du-16-mai-1989-prmd8905033d)
 - [Décret n°88-989 du 17 octobre 1988 (TEFT8804009D)](decret-n88-989-du-17-octobre-1988-teft8804009d)
 - [Décret n°89-179 du 17 mars 1989 (ACVP8820036D)](decret-n89-179-du-17-mars-1989-acvp8820036d)

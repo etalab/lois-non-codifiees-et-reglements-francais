@@ -1,67 +1,61 @@
 # Article 9
 
-A compter du 1er juillet 1988, le montant forfaitaire des charges est fixé comme suit :
+A compter du 1er juillet 1989, le montant forfaitaire des charges est fixé comme suit :
 
 <table>
 <tr>
-<td> :=============================================================:</td>
+<td> :===============================================</td>
 </tr>
 <tr>
-<td> :                             :   LOGEMENT     :  LOGEMENT    :</td>
+<td> :                             : TOUTES ZONES   :</td>
 </tr>
 <tr>
-<td> :                             :    disposant   : ne disposant :</td>
+<td> :       DESIGNATION           :  (en francs)   :</td>
 </tr>
 <tr>
-<td> :       DESIGNATION           : d'un ascenseur :   pas d'un   :</td>
+<td> :-----------------------------:----------------:</td>
 </tr>
 <tr>
-<td> :                             :                :  ascenseur   :</td>
+<td> :                             :     Francs     :</td>
 </tr>
 <tr>
-<td> :-----------------------------:----------------:--------------:</td>
+<td> : Bénéficiaire isolé          :      260       :</td>
 </tr>
 <tr>
-<td> :                             :     Francs     :    Francs    :</td>
+<td> :                             :                :</td>
 </tr>
 <tr>
-<td> : Bénéficiaire isolé          :      296       :     255      :</td>
+<td> : Ménage sans personne à      :                :</td>
 </tr>
 <tr>
-<td> :                             :                :              :</td>
+<td> :  charge ...                 :      260       :</td>
 </tr>
 <tr>
-<td> : Ménage sans personne à      :                :              :</td>
+<td> :                             :                :</td>
 </tr>
 <tr>
-<td> :  charge ...                 :      296       :     255      :</td>
+<td> : Bénéficiaire isolé ou       :                :</td>
 </tr>
 <tr>
-<td> :                             :                :              :</td>
+<td> :  ménage ayant une personne  :                :</td>
 </tr>
 <tr>
-<td> : Bénéficiaire isolé ou       :                :              :</td>
+<td> :  à charge ...               :      316       :</td>
 </tr>
 <tr>
-<td> :  ménage ayant une personne  :                :              :</td>
+<td> :                             :                :</td>
 </tr>
 <tr>
-<td> :  à charge ...               :      358       :     310      :</td>
+<td> : Par personne supplémentaire :                :</td>
 </tr>
 <tr>
-<td> :                             :                :              :</td>
+<td> :  à charge ...               :       56       :</td>
 </tr>
 <tr>
-<td> : Par personne supplémentaire :                :              :</td>
+<td> :                             :                :</td>
 </tr>
 <tr>
-<td> :  à charge ...               :       62       :      55      :</td>
-</tr>
-<tr>
-<td> :                             :                :              :</td>
-</tr>
-<tr>
-<td> :=============================================================:</td>
+<td> :===============================================</td>
 </tr>
 </table>
 
@@ -69,78 +63,72 @@ Toutefois, dans le cas prévu aux articles R. 351-17 (sixième alinéa) et R. 35
 
 <table>
 <tr>
-<td> :=============================================================:</td>
+<td> :===============================================</td>
 </tr>
 <tr>
-<td> :                             :   LOGEMENT     :  LOGEMENT    :</td>
+<td> :                             : TOUTES ZONES   :</td>
 </tr>
 <tr>
-<td> :                             :    disposant   : ne disposant :</td>
+<td> :       DESIGNATION           : (en francs)    :</td>
 </tr>
 <tr>
-<td> :       DESIGNATION           : d'un ascenseur :   pas d'un   :</td>
+<td> :-----------------------------:----------------:</td>
 </tr>
 <tr>
-<td> :                             :                :  ascenseur   :</td>
+<td> :                             :     Francs     :</td>
 </tr>
 <tr>
-<td> :-----------------------------:----------------:--------------:</td>
+<td> : Bénéficiaire isolé          :      130       :</td>
 </tr>
 <tr>
-<td> :                             :     Francs     :    Francs    :</td>
+<td> :                             :                :</td>
 </tr>
 <tr>
-<td> : Bénéficiaire isolé          :      148       :     128      :</td>
+<td> : Bénéficiaire isolé ayant une:      186       :</td>
 </tr>
 <tr>
-<td> :                             :                :              :</td>
+<td> : personne à charge           :                :</td>
 </tr>
 <tr>
-<td> : Bénéficiaire isolé ayant une:      210       :     183      :</td>
+<td> :                             :                :</td>
 </tr>
 <tr>
-<td> : personne à charge           :                :              :</td>
+<td> : Par personne supplémentaire :                :</td>
 </tr>
 <tr>
-<td> :                             :                :              :</td>
+<td> :  à charge                   :       56       :</td>
 </tr>
 <tr>
-<td> : Par personne supplémentaire :                :              :</td>
+<td> :                             :                :</td>
 </tr>
 <tr>
-<td> :  à charge                   :       69       :      55      :</td>
+<td> : Ménage sans personne à      :                :</td>
 </tr>
 <tr>
-<td> :                             :                :              :</td>
+<td> :  charge                     :      260       :</td>
 </tr>
 <tr>
-<td> : Ménage sans personne à      :                :              :</td>
+<td> :                             :                :</td>
 </tr>
 <tr>
-<td> :  charge                     :      296       :     255      :</td>
+<td> :  Ménage ayant une personne  :                :</td>
 </tr>
 <tr>
-<td> :                             :                :              :</td>
+<td> :  à charge                   :      316       :</td>
 </tr>
 <tr>
-<td> :  Ménage ayant une personne  :                :              :</td>
+<td> :                             :                :</td>
 </tr>
 <tr>
-<td> :  à charge                   :      358       :     310      :</td>
+<td> : Par personne supplémentaire :                :</td>
 </tr>
 <tr>
-<td> :                             :                :              :</td>
+<td> :  à charge                   :       56       :</td>
 </tr>
 <tr>
-<td> : Par personne supplémentaire :                :              :</td>
+<td> :                             :                :</td>
 </tr>
 <tr>
-<td> :  à charge                   :       62       :      55      :</td>
-</tr>
-<tr>
-<td> :                             :                :              :</td>
-</tr>
-<tr>
-<td> :=============================================================:</td>
+<td> :===============================================</td>
 </tr>
 </table>

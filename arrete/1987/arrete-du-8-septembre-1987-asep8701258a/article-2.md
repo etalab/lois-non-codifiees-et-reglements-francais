@@ -28,9 +28,7 @@ Un représentant de la caisse centrale de la mutualité sociale agricole ;
 
 Un représentant de la Fédération nationale de la mutualité française.
 
-B. - Vingt personnes ou leurs représentants désignés par le ministre
-
-sur proposition d'organisations professionnelles ou syndicales
+B. - Vingt personnes ou leurs représentants désignés par le ministre sur proposition d'organisations professionnelles ou syndicales
 
 Deux directeurs d'établissement hospitalier public dont l'un d'un centre hospitalier spécialisé en psychiatrie, sur proposition de l'Association des directeurs d'hôpitaux psychiatriques, et l'autre d'un centre hospitalier général comportant un service de psychiatrie, sur proposition de la fédération hospitalière de France ;
 
@@ -54,7 +52,7 @@ L'union syndicale de la psychiatrie ;
 
 Le syndicat national des psychiatres privés ;
 
-Le comité d'action national des psychiatres de service public ;
+Le syndicat des psychiatres de secteur (S.P.S.) ;
 
 Un représentant du Syndicat national des maisons de santé pour maladies mentales et nerveuses ;
 
@@ -62,7 +60,7 @@ Un représentant de l'Association nationale des médecins de santé mentale infa
 
 Cinq représentants des personnels des équipes soignantes et sociales de secteur à raison d'un agent sur proposition de chacun des syndicats ci-après :
 
-La fédération générale des personnels actifs et retraités des services publics et des services de santé (confédération générale du travail) [*CGT*] ;
+La fédération de la santé et de l'action sociale C.G.T. ;
 
 La fédération des personnels des services publics et des services de santé (confédération force ouvrière) [*FO*] ;
 
@@ -71,5 +69,7 @@ La fédération nationale des syndicats des services de santé et des services s
 La fédération nationale des syndicats chrétiens des services de santé et sociaux (confédération française des travailleurs chrétiens)  [*CFTC*] ;
 
 Le syndicat national des professions de santé (confédération générale des cadres) [*CGC*].
+
+L'Association nationale fédérale des infirmier(e)s en psychiatrie (A.N.F.I.P.).
 
 C. Vingt et une personnes particulièrement qualifiées en matière de lutte contre les maladies mentales
