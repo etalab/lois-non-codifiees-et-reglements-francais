@@ -19,6 +19,7 @@
 - [Arrêté du 16 juin 1975](arrete-du-16-juin-1975)
 - [Arrêté du 17 mars 1980](arrete-du-17-mars-1980)
 - [Arrêté du 19 décembre 1973](arrete-du-19-decembre-1973)
+- [Arrêté du 19 juin 1980](arrete-du-19-juin-1980)
 - [Arrêté du 20 mars 1980](arrete-du-20-mars-1980)
 - [Arrêté du 20 mai 1980](arrete-du-20-mai-1980)
 - [Arrêté du 21 mai 1980](arrete-du-21-mai-1980)

@@ -1,3 +1,3 @@
 # Article 2
 
-La réception CEE en ce qui concerne les émissions de polluants provenant des moteurs Diesel destinés à la propulsion des tracteurs agricoles ou forestiers à roues, est accordée par le chef du service de l'industrie et des mines d'Ile-de-France aux tracteurs agricoles ou forestiers à roues, répondant aux prescriptions de la directive du conseil n° 77-537 CEE du 28 juin 1977 et des directives lui portant modification.
+Le taux du remboursement forfaitaire à verser par les employeurs du commerce, de l'industrie et d'activités diverses bénéficiaires de main-d'oeuvre étrangère permanente introduite par l'office national d'immigration est fixé, à compter de la date de publication du présent arrêté, à 500 F par travailleur, à l'exception du travailleur ressortissant d'un Etat membre de la Communauté économique européenne pour lequel il reste fixé à 150 F.
