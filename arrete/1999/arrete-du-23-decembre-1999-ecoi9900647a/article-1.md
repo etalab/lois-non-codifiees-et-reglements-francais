@@ -1,3 +1,3 @@
 # Article 1
 
-Le supercarburant sans plomb ne peut être détenu en vue de la vente ou vendu, à compter du 1er janvier 2000, que s'il est conforme aux exigences minimales de la norme NF EN 228 ou de toute autre norme ou spécification en vigueur dans un autre Etat membre de l'Union européenne ou dans tout autre Etat membre de l'Espace économique européen garantissant un niveau de qualité équivalent pour les mêmes conditions climatiques.
+A compter du 1er janvier 2000, le supercarburant sans plomb ne peut être détenu  en vue de la vente ou vendu que s'il est conforme aux spécifications définies à  l'article 2 ci-après.
