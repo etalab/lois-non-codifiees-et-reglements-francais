@@ -4,8 +4,8 @@ Le prix final d'un logement réalisé par une personne physique accédant à la 
 
 " 10 670 F le mètre carré en zone I ;
 
-"  8 120 F le mètre carré en zone II ;
+"  8 800 F le mètre carré en zone II ;
 
-"  7 080 F le mètre carré en zone III.
+"  7 670 F le mètre carré en zone III.
 
 " Toutefois, cette valeur est portée à 13 540 F pour les logements situés dans la commune de Paris et les communes énumérées à l'article 2 ci-dessus. "
