@@ -192,16 +192,23 @@ Le siège et le ressort des bureaux des hypothèques sont fixés conformément a
 <tr>
 <td valign="top" width="132"/>
 <td valign="top" width="132">
-<p>Grasse (1er bureau) </p>
+<p>Antibes (1er bureau) </p>
 </td>
 <td valign="top" width="416">
 <p>Cantons d'Antibes-Biot, Antibes-Centre, Vallauris-Antibes-Ouest, Mougins.</p>
 </td>
 </tr>
 <tr>
+<td/>
+<td>Antibes (2e bureau)  <br/>
+</td>
+<td>Cantons de Cagnes-sur-Mer-Centre, Cagnes-sur-Mer-Ouest, Saint-Laurent-du-Var - Cagnes-sur-Mer-Est. <br/>
+</td>
+</tr>
+<tr>
 <td valign="top" width="132"/>
 <td valign="top" width="132">
-<p>Grasse (2e bureau) </p>
+<p>Grasse (1er bureau) </p>
 </td>
 <td valign="top" width="416">
 <p>Cantons de Cannes-Centre, Cannes-Est, Mandelieu-Cannes-Ouest, Grasse-Nord, Grasse-Sud.</p>
@@ -210,19 +217,10 @@ Le siège et le ressort des bureaux des hypothèques sont fixés conformément a
 <tr>
 <td valign="top" width="132"/>
 <td valign="top" width="132">
-<p>Grasse (3e bureau)</p>
+<p>Grasse (2e bureau)</p>
 </td>
 <td valign="top" width="416">
 <p>Cantons de Bar-sur-Loup, Carros, Coursegoules, Saint-Auban, Saint-Vallier-de-Thiey, Vence.</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="132"/>
-<td valign="top" width="132">
-<p>Grasse (4e bureau) </p>
-</td>
-<td valign="top" width="416">
-<p>Cantons de Cagnes-sur-Mer-Centre, Cagnes-sur-Mer-Ouest, Saint-Laurent-du-Var - Cagnes-sur-Mer-Est.</p>
 </td>
 </tr>
 <tr>

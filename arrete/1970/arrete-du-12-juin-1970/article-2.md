@@ -302,6 +302,44 @@ Les communes et les bureaux des hypothèques visés à l'article 85-4 du décret
 <td valign="top" width="189"/>
 </tr>
 <tr>
+<td/>
+<td align="center"> Département des Alpes-Maritimes<br/>
+</td>
+<td/>
+</tr>
+<tr>
+<td>Antibes (1er bureau) <br/>
+</td>
+<td>Toutes les communes des cantons d'Antibes-Biot, Antibes-Centre, Vallauris-Antibes-Ouest, Mougins. <br/>
+</td>
+<td>Antibes (1er bureau) <br/>
+</td>
+</tr>
+<tr>
+<td>Antibes (2e bureau)  <br/>
+</td>
+<td>Toutes les communes des cantons de Cagnes-sur-Mer-Centre, Cagnes-sur-Mer-Ouest, Saint-Laurent-du-Var, Cagnes-sur-Mer-Est. <br/>
+</td>
+<td>Antibes (1er bureau)  <br/>
+</td>
+</tr>
+<tr>
+<td>Grasse (1er bureau) <br/>
+</td>
+<td>Toutes les communes des cantons de Cannes Centre, Cannes-Est, Mandelieu-Cannes-Ouest, Grasse-Nord, Grasse-Sud. <br/>
+</td>
+<td>Antibes (1er bureau)  <br/>
+</td>
+</tr>
+<tr>
+<td>Grasse (2e bureau)  <br/>
+</td>
+<td>Toutes les communes des cantons de Bar-sur-Loup, Carros, Coursegoules, Saint-Auban, Saint-Vallier-de-Thiey, Vence. <br/>
+</td>
+<td>Antibes (1er bureau)  <br/>
+</td>
+</tr>
+<tr>
 <td valign="top" width="151">
 <p>Lyon (1er bureau)</p>
 </td>
