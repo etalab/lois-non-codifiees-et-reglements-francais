@@ -1,3 +1,5 @@
 # Article 5
 
-Les dispositions du présent arrêté ne s'appliquent pas aux entreprises faisant l'objet de mesures spécifiques prises par les   préfets en vertu de la délégation de compétence donnée par l'article 6 de l'arrêté n° 82-96 / A du 22 octobre 1982 qui est confirmée.
+La commission [*départementale d'agrément des activités de ramassage des huiles usagées, attributions*] est obligatoirement consultée par le commissaire de la République préalablement à la délivrance des agréments.
+
+Elle peut être appelée à donner son avis sur toute difficulté intervenant au cours de l'instruction.
