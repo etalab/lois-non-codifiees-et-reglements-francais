@@ -66,7 +66,6 @@
 - [Décret n°84-98 du 8 février 1984](decret-n84-98-du-8-fevrier-1984)
 - [Décret n°84-260 du 9 avril 1984](decret-n84-260-du-9-avril-1984)
 - [Décret n°84-263 du 9 avril 1984](decret-n84-263-du-9-avril-1984)
-- [Décret n°84-275 du 9 avril 1984](decret-n84-275-du-9-avril-1984)
 - [Décret n°84-281 du 9 avril 1984](decret-n84-281-du-9-avril-1984)
 - [Décret n°84-629 du 9 juillet 1984](decret-n84-629-du-9-juillet-1984)
 - [Décret n°84-96 du 9 février 1984](decret-n84-96-du-9-fevrier-1984)
