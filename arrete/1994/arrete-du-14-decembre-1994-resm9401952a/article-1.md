@@ -6,7 +6,7 @@ Commission no 1. - Directeurs de recherche.
 
 Commission no 2. - Chargés de recherche.
 
-Commission no 3. - Ingénieurs de recherche et chargés d'administration de la recherche.
+Commission no 3. - Ingénieurs de recherche.
 
 Commission no 4. - Ingénieurs d'études et attachés d'administration de la recherche.
 
