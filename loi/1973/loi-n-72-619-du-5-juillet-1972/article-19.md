@@ -1,10 +1,8 @@
 # Article 19
 
-Les autres ressources de l'établissement public [*région*] comprennent :
+Les autres ressources de la région comprennent :
 
-Celles provenant de l'Etat qui correspondent aux transferts d'attributions prévus à l'article 4, III, 1/ ci-dessus ; ces produits sont déterminés par les lois de finances ;
-
-Les subventions de l'Etat ; la part de l'Etat dans le financement des opérations réalisées par les collectivités locales ne peut être réduite du fait de la participation de l'établissement public ;
+Les subventions de l'Etat ; la part de l'Etat dans le financement des opérations réalisées par les collectivités locales ne peut être réduite du fait de la participation de la région ;
 
 Les participations des collectivités locales, de leurs groupements ou d'autres établissements publics, en application des dispositions de l'article 4 ;
 
