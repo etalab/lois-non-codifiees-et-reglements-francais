@@ -775,7 +775,6 @@
 - [Arrêté du 21 septembre 1992 (PTTR9200373A)](arrete-du-21-septembre-1992-pttr9200373a)
 - [Arrêté du 21 septembre 1992 (SANG9202487A)](arrete-du-21-septembre-1992-sang9202487a)
 - [Arrêté du 21 septembre 1992 (SANG9202488A)](arrete-du-21-septembre-1992-sang9202488a)
-- [Arrêté du 21 septembre 1992 (SPSS9202479A)](arrete-du-21-septembre-1992-spss9202479a)
 - [Arrêté du 21 septembre 1992 (SPSS9202501A)](arrete-du-21-septembre-1992-spss9202501a)
 - [Arrêté du 21 mai 1992 (INTE9200238A)](arrete-du-21-mai-1992-inte9200238a)
 - [Arrêté du 21 mai 1992 (MENK9200008A)](arrete-du-21-mai-1992-menk9200008a)

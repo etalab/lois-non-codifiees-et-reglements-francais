@@ -1,3 +1,0 @@
-# Article 14
-
-Le directeur de la sécurité sociale au ministère des affaires sociales et de l'intégration, le directeur des enseignements supérieurs au ministère de l'éducation nationale et de la culture, le sous-directeur des chambres de commerce et d'industrie au ministère de l'industrie et du commerce extérieur et au ministère du commerce et de l'artisanat et le directeur général de l'enseignement et de la recherche au ministère de l'agriculture et de la forêt sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui prend effet à compter de l'année universitaire 1993-1994 et sera publié au Journal officiel de la République française.
