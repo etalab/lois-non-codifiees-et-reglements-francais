@@ -987,7 +987,6 @@
 - [Arrêté du 31 août 2004 (MENP0401520A)](arrete-du-31-aout-2004-menp0401520a)
 - [Arrêté du 31 août 2004 (SANF0423015A)](arrete-du-31-aout-2004-sanf0423015a)
 - [Arrêté du 31 décembre 2003 (AGRF0302443A)](arrete-du-31-decembre-2003-agrf0302443a)
-- [Arrêté du 31 décembre 2003 (BUDF0300038A)](arrete-du-31-decembre-2003-budf0300038a)
 - [Arrêté du 31 décembre 2003 (BUDL0300039A)](arrete-du-31-decembre-2003-budl0300039a)
 - [Arrêté du 31 décembre 2003 (BUDL0300158A)](arrete-du-31-decembre-2003-budl0300158a)
 - [Arrêté du 31 décembre 2003 (DEFD0302303A)](arrete-du-31-decembre-2003-defd0302303a)
