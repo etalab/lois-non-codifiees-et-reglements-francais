@@ -1182,7 +1182,6 @@
 - [Arrêté du 30 septembre 1997 (MESP9723140A)](arrete-du-30-septembre-1997-mesp9723140a)
 - [Arrêté du 30 septembre 1997 (MESP9723184A)](arrete-du-30-septembre-1997-mesp9723184a)
 - [Arrêté du 30 septembre 1997 (MESP9723240A)](arrete-du-30-septembre-1997-mesp9723240a)
-- [Arrêté du 30 mai 1997 (AGRG9700939A)](arrete-du-30-mai-1997-agrg9700939a)
 - [Arrêté du 30 mai 1997 (AGRG9701032A)](arrete-du-30-mai-1997-agrg9701032a)
 - [Arrêté du 30 mai 1997 (AGRP9602452A)](arrete-du-30-mai-1997-agrp9602452a)
 - [Arrêté du 30 mai 1997 (AGRP9701100A)](arrete-du-30-mai-1997-agrp9701100a)
