@@ -7,6 +7,7 @@
 - [Loi n° 71-523 du 3 juillet 1971](loi-n-71-523-du-3-juillet-1971)
 - [Loi n° 71-582 du 16 juillet 1971](loi-n-71-582-du-16-juillet-1971)
 - [Loi n° 72-1 du 3 janvier 1972](loi-n-72-1-du-3-janvier-1972)
+- [Loi n° 72-1090 du 8 décembre 1972](loi-n-72-1090-du-8-decembre-1972)
 - [Loi n° 72-3 du 3 janvier 1972](loi-n-72-3-du-3-janvier-1972)
 - [Loi n° 72-439 du 30 mai 1972](loi-n-72-439-du-30-mai-1972)
 - [Loi n° 72-516 du 28 septembre 1972](loi-n-72-516-du-28-septembre-1972)
