@@ -919,7 +919,6 @@
 - [Arrêté du 24 août 1994 (ACVA9410076A)](arrete-du-24-aout-1994-acva9410076a)
 - [Arrêté du 24 août 1994 (DEFP9401852A)](arrete-du-24-aout-1994-defp9401852a)
 - [Arrêté du 24 août 1994 (ENVN9430325A)](arrete-du-24-aout-1994-envn9430325a)
-- [Arrêté du 24 décembre 1993 (COMA9300026A)](arrete-du-24-decembre-1993-coma9300026a)
 - [Arrêté du 24 décembre 1993 (DEFP9302262A)](arrete-du-24-decembre-1993-defp9302262a)
 - [Arrêté du 24 décembre 1993 (ENVP9430014A)](arrete-du-24-decembre-1993-envp9430014a)
 - [Arrêté du 24 décembre 1993 (INTE9300740A)](arrete-du-24-decembre-1993-inte9300740a)
