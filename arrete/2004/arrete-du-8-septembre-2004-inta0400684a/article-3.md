@@ -1,0 +1,5 @@
+# Article 3
+
+Lorsque les fonctionnaires cités à l'article 1er sont détachés ou mis à disposition auprès d'une autre administration de l'Etat ou d'un de ses établissements publics administratifs, la gestion de leur compte épargne-temps est transférée à leur administration d'accueil. Un certificat administratif atteste des droits à congés qu'ils ont acquis. A l'issue de leur période de détachement ou de mise à disposition, la gestion de ce compte revient au ministère de l'intérieur, de la sécurité intérieure et des libertés locales. Si leur administration d'accueil ne dispose pas d'un dispositif de compte épargne-temps relevant des dispositions du décret du 29 avril 2002 susvisé, leur compte épargne-temps reste géré par le secrétariat général.
+
+Lorsque ces fonctionnaires se trouvent en détachement, mis à disposition ou placés en position de hors-cadres hors de la fonction publique de l'Etat, ils conservent les droits à congés acquis au titre de leur compte épargne-temps. L'alimentation et l'utilisation du compte sont suspendues pendant la durée de ce changement de position.

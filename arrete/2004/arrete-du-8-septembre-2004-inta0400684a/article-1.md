@@ -1,0 +1,3 @@
+# Article 1
+
+Par dérogation aux dispositions du dernier alinéa de l'article 1er de l'arrêté du 8 avril 2003 susvisé, le présent arrêté est applicable aux membres du corps préfectoral bénéficiant d'une affectation territoriale en métropole et dans les départements d'outre-mer, aux fonctionnaires représentant l'Etat ou occupant les fonctions de secrétaire général, secrétaire général adjoint, directeur de cabinet ou chef de subdivision administrative dans les autres collectivités territoriales d'outre-mer, aux fonctionnaires occupant les fonctions de directeur des services du cabinet d'un préfet.
