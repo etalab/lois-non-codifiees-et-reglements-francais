@@ -4,4 +4,4 @@ Dans le cas d'une réduction du capital motivée par des pertes, le prix de sous
 
 Il est procédé à un ajustement du nombre des actions offertes de telle sorte que le total des prix de souscription ou d'achat reste constant. Toutefois, le nombre ajusté est arrondi à l'unité supérieure.
 
-Dans le cas d'une réduction du capital par diminution du nominal des actions, il n'y a pas lieu à ajustement.
+Dans le cas d'une réduction du capital sans modification du nombre d'actions, il n'y a pas lieu à ajustement.

@@ -20,7 +20,7 @@ Elle contient les indications suivantes :
 
 8° Le nombre des actions à souscrire contre numéraire et la somme immédiatement exigible comprenant, le cas échéant la prime d'émission ;
 
-9° La valeur nominale des actions à émettre, distinction étant faite, le cas échéant, entre chaque catégorie ;
+9° La valeur nominale des actions à émettre, que cette valeur figure ou non dans les statuts, distinction étant faite, le cas échéant, entre chaque catégorie ;
 
 10° La description sommaire des apports en nature, leur évaluation globale et leur mode de rémunération, avec indication du caractère provisoire de cette évaluation et de ce mode de rémunération ;
 

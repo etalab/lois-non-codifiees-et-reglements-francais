@@ -8,7 +8,7 @@ Les registres visés à l'article précédent contiennent les indications relati
 
 3° Les nom, prénoms et domicile du titulaire des titres, en cas de conversion de titres au porteur en titres nominatifs ;
 
-4° La valeur nominale et le nombre des titres transférés ou convertis ;
+4° La valeur nominale et le nombre de titres transférés ou convertis. Toutefois, lorsque ces titres sont des actions, le capital social et le nombre de titres représenté par l'ensemble des actions de la même catégorie peuvent être indiqués en lieu et place de leur valeur nominale ;
 
 5° Le cas échéant, si la société a émis des actions de différentes catégories et s'il n'est tenu qu'un seul registre des actions nominatives, la catégorie et les caractéristiques des actions transférées ou converties ;
 

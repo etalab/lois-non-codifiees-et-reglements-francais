@@ -18,7 +18,7 @@ Les actionnaires sont informés de l'émission d'actions nouvelles et de ses mod
 
 8. L'existence, au profit des actionnaires, du droit préférentiel de souscription aux actions nouvelles ainsi que les conditions d'exercice de ce droit ;
 
-9. La valeur nominale des actions à souscrire en numéraire et, le cas échéant, le montant de la prime d'émission ;
+9. La valeur nominale des actions à souscrire en numéraire, que cette valeur figure ou non dans les statuts, et, le cas échéant, le montant de la prime d'émission ;
 
 10. La somme immédiatement exigible par action souscrite ;
 
