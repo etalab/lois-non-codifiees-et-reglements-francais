@@ -11,3 +11,5 @@ Les conditions de candidature sont appréciées au 1er janvier de l'année au ti
 Le jury procède à une première sélection des candidats sur examen de leur dossier. Les candidats admis à poursuivre le concours subissent une ou plusieurs épreuves consistant en un entretien avec le jury, suivant les dispositions fixées dans l'arrêté prévu à l'alinéa ci-dessous. Le jury peut établir une liste complémentaire. Le nombre des postes qui peuvent être pourvus par la nomination de candidats inscrits sur cette liste ne peut excéder 50 p. 100 du nombre des postes offerts au concours.
 
 Les modalités selon lesquelles les candidats sont appelés à constituer et présenter leur dossier et les documents qui doivent y figurer ainsi que les autres conditions d'organisation et de fonctionnement du concours sont fixées par un arrêté conjoint des ministres chargés de l'éducation et de la fonction publique.
+
+Les emplois mis au concours dans une spécialité qui ne sont pas pourvus par la nomination de candidats au titre de cette spécialité peuvent être attribués aux candidats d'une autre spécialité.
