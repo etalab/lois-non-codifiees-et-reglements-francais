@@ -1,6 +1,7 @@
 # 1960
 
 - [Décret n°60-323 du 2 avril 1960](decret-n60-323-du-2-avril-1960)
+- [Décret n°60-516 du 2 juin 1960](decret-n60-516-du-2-juin-1960)
 - [Décret n°60-799 du 2 avril 1960](decret-n60-799-du-2-avril-1960)
 - [Décret n°60-425 du 4 mai 1960](decret-n60-425-du-4-mai-1960)
 - [Décret n°60-1302 du 5 octobre 1960](decret-n60-1302-du-5-octobre-1960)
@@ -25,6 +26,7 @@
 - [Décret n°60-181 du 24 février 1960](decret-n60-181-du-24-fevrier-1960)
 - [Décret n°60-419 du 25 avril 1960](decret-n60-419-du-25-avril-1960)
 - [Décret n°60-406 du 26 avril 1960](decret-n60-406-du-26-avril-1960)
+- [Décret n°60-514 du 27 mai 1960](decret-n60-514-du-27-mai-1960)
 - [Décret n°59-1559 du 28 décembre 1959](decret-n59-1559-du-28-decembre-1959)
 - [Décret n°60-296 du 28 mars 1960](decret-n60-296-du-28-mars-1960)
 - [Décret n°60-412 du 28 avril 1960](decret-n60-412-du-28-avril-1960)
