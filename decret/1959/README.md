@@ -9,6 +9,7 @@
 - [Décret n°59-1056 du 7 septembre 1959](decret-n59-1056-du-7-septembre-1959)
 - [Décret n°59-132 du 7 janvier 1959](decret-n59-132-du-7-janvier-1959)
 - [Décret n°59-157 du 7 janvier 1959](decret-n59-157-du-7-janvier-1959)
+- [Décret n°59-171 du 7 janvier 1959](decret-n59-171-du-7-janvier-1959)
 - [Décret n°59-707 du 8 juin 1959](decret-n59-707-du-8-juin-1959)
 - [Décret n°59-389 du 10 mars 1959](decret-n59-389-du-10-mars-1959)
 - [Décret n°59-984 du 12 août 1959](decret-n59-984-du-12-aout-1959)
