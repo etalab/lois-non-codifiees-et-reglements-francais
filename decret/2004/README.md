@@ -583,6 +583,8 @@
 - [Décret n°2004-1017 du 22 septembre 2004 (ECOF0400047D)](decret-n2004-1017-du-22-septembre-2004-ecof0400047d)
 - [Décret n°2004-1020 du 22 septembre 2004 (MENF0401725D)](decret-n2004-1020-du-22-septembre-2004-menf0401725d)
 - [Décret n°2004-1022 du 22 septembre 2004 (EQUT0401120D)](decret-n2004-1022-du-22-septembre-2004-equt0401120d)
+- [Décret n°2004-1134 du 22 octobre 2004 (PRMG0470676D)](decret-n2004-1134-du-22-octobre-2004-prmg0470676d)
+- [Décret n°2004-1135 du 22 octobre 2004 (SOCV0410698D)](decret-n2004-1135-du-22-octobre-2004-socv0410698d)
 - [Décret n°2004-255 du 22 mars 2004 (PRMX0407064D)](decret-n2004-255-du-22-mars-2004-prmx0407064d)
 - [Décret n°2004-256 du 22 mars 2004 (JUSE0440045D)](decret-n2004-256-du-22-mars-2004-juse0440045d)
 - [Décret n°2004-277 du 22 mars 2004 (MENF0400328D)](decret-n2004-277-du-22-mars-2004-menf0400328d)
