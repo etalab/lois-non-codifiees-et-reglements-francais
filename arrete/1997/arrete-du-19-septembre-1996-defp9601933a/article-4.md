@@ -4,7 +4,7 @@ La commission des rentes chargée d'examiner les dossiers des personnels relevan
 
 - le contrôleur général, chef de l'inspection du travail dans les armées, président, ou, en son absence, un contrôleur général ou contrôleur, membre de l'inspection du travail dans les armées ;
 
-- un représentant de chacun des services et directions énumérés ci-après : direction des systèmes terrestres et d'information, direction centrale du matériel de l'armée de terre, direction des constructions aéronautiques, direction des constructions navales, direction des missiles et de l'espace (pour les personnels en fonctions à la Société nationale des poudres et explosifs), direction centrale du commissariat de la marine. Ces représentants sont des officiers supérieurs, des fonctionnaires de catégorie A ou des agents contractuels de niveau correspondant ;
+- un représentant de chacun des services et directions énumérés ci-après : direction des centres d'expertise et d'essais, direction centrale du matériel de l'armée de terre, service de la maintenance aéronautique, direction des constructions navales, direction de la gestion et de l'organisation, direction centrale du commissariat de la marine. Ces représentants sont des officiers supérieurs, des fonctionnaires de catégorie A ou des agents contractuels de niveau correspondant ;
 
 - le médecin-conseil auprès du service des pensions des armées, bureau des pensions des ouvriers et des accidents du travail, représentant en outre, sur le plan technique, la direction centrale du service de santé des armées ;
 

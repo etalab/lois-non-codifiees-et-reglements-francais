@@ -6,11 +6,11 @@ Elle comprend :
 
 - le médecin-conseil auprès du bureau des pensions des ouvriers et des accidents du travail et un représentant de chacun des états-majors et directions suivants :
 
-- direction des systèmes terrestres et d'informations ;
+- direction des centres d'expertise et d'essais ;
 
 - direction des constructions navales ;
 
-- direction des constructions aéronautiques ;
+- service de la maintenance aéronautique ;
 
 - direction centrale du matériel de l'armée de terre ;
 
@@ -18,7 +18,7 @@ Elle comprend :
 
 - état-major de l'armée de l'air.
 
-Ces représentants sont des officiers supérieurs, des fonctionnaires de catégorie A ou des agents contractuels de niveau correspondant :
+Ces représentants sont des officiers supérieurs, des fonctionnaires de catégorie A ou des agents contractuels de niveau correspondant.
 
 - huit représentants du personnel et huit suppléants désignés dans les conditions prévues à l'article 4 ci-dessus ;
 
