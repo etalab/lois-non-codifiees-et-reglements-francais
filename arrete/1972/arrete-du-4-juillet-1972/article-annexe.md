@@ -40,4 +40,6 @@ IV. - Véhicules contraints par nécessité de service de circuler lentement ou 
 
 4.8 Véhicules procédant au marquage des chaussées ;
 
-4.9. Véhicules et engins d'intervention des services publics de l'eau et de l'assainissement
+4.9. Véhicules et engins d'intervention des services publics de l'eau et de l'assainissement.
+
+V. - Véhicule(s) accompagnant un groupe de plus de dix cyclistes.
