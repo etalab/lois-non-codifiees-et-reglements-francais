@@ -1,6 +1,6 @@
 # Article 17
 
-Le cahier des charges prévu à l'article 11 comporte dans tous les cas :
+Le cahier des charges prévu à l'article 11 comporte ceux des éléments suivants qui ne figurent pas dans l'arrêté d'autorisation délivré au titre de l'article L. 512-1 du code de l'environnement susvisé :
 
 1° La description de l'activité de traitement pour lequel l'agrément est délivré, en distinguant :
 
@@ -26,7 +26,7 @@ f) La régénération des fluides à base de PCB ;
 
 6° L'engagement d'afficher la tarification des services rendus ainsi que ses modifications ;
 
-7° L'engagement d'accepter, dans la limite des capacités de traitement et de stockage de l'entreprise, tout déchet conforme à la liste prévue au 2° ci-dessus produit sur le territoire national, remis conformément aux prescriptions fixées pour l'acceptation des déchets aux conditions financières annoncées et sans discrimination de provenance ni de qualité ;
+7° L'engagement d'accepter, dans la limite des capacités de traitement et de stockage de l'entreprise, tout déchet contaminé par des PCB produit sur le territoire national, remis conformément aux prescriptions fixées pour l'acceptation des déchets aux conditions financières annoncées et sans discrimination de provenance ni de qualité dans la mesure des capacités techniques de l'installation ;
 
 8° L'obligation d'accepter en cas d'urgence tout lot de déchets contenant des PCB désigné par le ministre chargé de l'environnement ;
 

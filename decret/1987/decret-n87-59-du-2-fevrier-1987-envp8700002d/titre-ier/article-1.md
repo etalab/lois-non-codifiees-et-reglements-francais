@@ -1,5 +1,5 @@
 # Article 1
 
-Sont considérés comme des polychlorobiphényles ou des polychloroterphényles au sens du présent décret [*définition*] les produits ou préparations dont la teneur en polychlorobiphényles et en polychloroterphényles, à l'exception des monochlorobiphényles et des dichlorobiphényles, est supérieure à 0,005 p. 100 en masse.
+Sont soumis aux dispositions du présent décret les polychlorobiphényles, les polychloroterphényles, le monométhyl-tétrachloro-diphényl méthane, le monométhyl-dichloro-diphényl méthane, le monométhyl-dibromo-diphényl méthane, ainsi que tout mélange dont la teneur cumulée en ces substances est supérieure à 50 ppm en masse.
 
-Par abréviation, ils sont appelés PCB dans le présent décret.
+Par abréviation, les substances précitées ainsi que tout mélange dont la teneur cumulée en ces substances est supérieure à 50 ppm en masse sont appelés PCB dans le présent décret.

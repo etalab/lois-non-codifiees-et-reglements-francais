@@ -102,6 +102,7 @@
 - [Décret n°2001-987 du 26 octobre 2001 (MENF0101926D)](decret-n2001-987-du-26-octobre-2001-menf0101926d)
 - [Décret n°2001-769 du 27 août 2001 (MESG0122391D)](decret-n2001-769-du-27-aout-2001-mesg0122391d)
 - [Décret n°92-356 du 27 mars 1992 (MENF9200726D)](decret-n92-356-du-27-mars-1992-menf9200726d)
+- [Décret n°94-647 du 27 juillet 1994 (ENVP9420042D)](decret-n94-647-du-27-juillet-1994-envp9420042d)
 - [Décret n°2002-683 du 29 avril 2002 (CESX0200200D)](decret-n2002-683-du-29-avril-2002-cesx0200200d)
 - [Décret n°2000-1067 du 30 octobre 2000 (FPPA0010020D)](decret-n2000-1067-du-30-octobre-2000-fppa0010020d)
 - [Décret n°2001-479 du 30 mai 2001 (MESO0110547D)](decret-n2001-479-du-30-mai-2001-meso0110547d)
