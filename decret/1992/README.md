@@ -259,6 +259,8 @@
 - [Décret n°92-269 du 18 mars 1992 (EQUA9200333D)](decret-n92-269-du-18-mars-1992-equa9200333d)
 - [Décret n°92-543 du 18 juin 1992 (ACVA9210022D)](decret-n92-543-du-18-juin-1992-acva9210022d)
 - [Décret n°89-324 du 18 mai 1989 (PTTP8900261D)](decret-n89-324-du-18-mai-1989-pttp8900261d)
+- [Décret n°92-435 du 18 mai 1992 (ECOZ9200017S)](decret-n92-435-du-18-mai-1992-ecoz9200017s)
+- [Décret n°92-436 du 18 mai 1992 (ECOT9236512D)](decret-n92-436-du-18-mai-1992-ecot9236512d)
 - [Décret n°82-979 du 19 novembre 1982](decret-n82-979-du-19-novembre-1982)
 - [Décret n°85-1030 du 19 septembre 1985](decret-n85-1030-du-19-septembre-1985)
 - [Décret n°89-773 du 19 octobre 1989 (FPPA8900065D)](decret-n89-773-du-19-octobre-1989-fppa8900065d)
