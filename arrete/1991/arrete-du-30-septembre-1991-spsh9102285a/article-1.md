@@ -6,4 +6,4 @@ Sont considérés comme équivalents au certificat d'aptitude professionnelle ou
 
 - attestation de réussite au concours sur épreuves donnant accès, avant la parution du décret du 14 janvier 1991 susvisé, à l'emploi d'ouvrier professionnel de 2e catégorie ;
 
-- titres et diplômes homologués niveau V par arrêté du ministre chargé de la formation professionnelle, en application de l'article 8 de la loi du 16 juillet 1971 susvisé.
+- titres et diplômes homologués niveau V ou de niveau au moins équivalent par arrêté du ministre chargé de la formation professionnelle, en application de l'article 8 de la loi du 16 juillet 1971 susvisé.

@@ -64,6 +64,8 @@
 - [Décret n°96-185 du 7 mars 1996 (DEFP9501705D)](decret-n96-185-du-7-mars-1996-defp9501705d)
 - [Décret n°96-191 du 7 mars 1996 (MCCB9500722D)](decret-n96-191-du-7-mars-1996-mccb9500722d)
 - [Décret n°96-494 du 7 juin 1996 (TASP9621471D)](decret-n96-494-du-7-juin-1996-tasp9621471d)
+- [Décret n°96-499 du 7 juin 1996 (FCEC9600102D)](decret-n96-499-du-7-juin-1996-fcec9600102d)
+- [Décret n°96-500 du 7 juin 1996 (FCEC9600103D)](decret-n96-500-du-7-juin-1996-fcec9600103d)
 - [Décret n°96-527 du 7 juin 1996 (AGRA9600841D)](decret-n96-527-du-7-juin-1996-agra9600841d)
 - [Décret n°96-97 du 7 février 1996 (TASP9620056D)](decret-n96-97-du-7-fevrier-1996-tasp9620056d)
 - [Décret n°96-976 du 7 novembre 1996 (INTC9600275D)](decret-n96-976-du-7-novembre-1996-intc9600275d)
