@@ -1,5 +1,0 @@
-# Article 8
-
-Lorsqu'il y a reprise de l'exploitation ou d'une partie de celle-ci par le bailleur dans les conditions définies à l'article L. 411-58 du code rural et lorsque le bailleur en est d'accord, la quantité de référence correspondant à l'exploitation ou à la partie de l'exploitation est mise à la disposition du producteur sortant si celui-ci entend continuer la production laitière, sous réserve que la somme de la quantité de référence ainsi mise à sa disposition et de la quantité correspondant à l'exploitation ou à la partie de l'exploitation qu'il reprend, ou sur laquelle il poursuit sa production, ne soit pas supérieure à la quantité de référence dont il disposait avant la résiliation du bail.
-
-Dans le cas contraire, la fraction excédant cette somme est ajoutée à la réserve nationale.
