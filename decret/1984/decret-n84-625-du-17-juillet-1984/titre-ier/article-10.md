@@ -1,3 +1,9 @@
 # Article 10
 
-Lorsque le siège d'un membre d'un conseil consultatif devient vacant, le remplacement est assuré jusqu'au renouvellement du conseil par le candidat qui a obtenu, lors des élections, le plus grand nombre de voix après le dernier candidat proclamé élu. Le cas échéant, il est fait application de la règle sur le bénéfice de l'âge prévue à l'article 9 ci-dessus.
+Le candidat venant sur une liste immédiatement après le dernier élu est appelé à remplacer le membre d'un conseil consultatif élu sur la même liste dont le siège devient vacant pour quelque cause que ce soit.
+
+Le mandat de la personne ayant remplacé un membre du conseil consultatif dont le siège était devenu vacant expire lors du renouvellement du conseil consultatif qui suit son entrée en fonctions.
+
+Lorsque les dispositions du premier alinéa du présent article ne peuvent s'appliquer, le siège demeure vacant jusqu'au prochain renouvellement du conseil consultatif. Toutefois, si le tiers des sièges du conseil consultatif est devenu vacant, il est procédé au renouvellement intégral des membres dans les deux mois qui suivent la dernière vacance.
+
+Toutefois, il ne peut être procédé à aucun renouvellement en application de l'alinéa précédent moins d'un an avant la date prévue pour le renouvellement général des conseils consultatifs.

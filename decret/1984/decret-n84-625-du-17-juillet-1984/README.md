@@ -3,5 +3,4 @@
 - [Titre Ier : Dispositions relatives aux conseils consultatifs.](titre-ier)
 - [Titre II : Dispositions relatives aux conseils d'orientation et de surveillance](titre-ii)
 - [Titre III : Dispositions communes](titre-iii)
-- [Titre IV : Dispositions transitoires.](titre-iv)
 - [Article 45](article-45.md)
