@@ -8,7 +8,7 @@ b) De représentants de collectivités territoriales proposés par les présiden
 
 c) D'un représentant de l'Agence de l'environnement et de la maîtrise de l'énergie ;
 
-d) D'un représentant de l'Agence française de la sécurité sanitaire des aliments ;
+d) D'un représentant de l'Agence française de la sécurité sanitaire des aliments et d'un représentant de l'Agence française de sécurité sanitaire environnementale ;
 
 e) De représentants d'entreprises concourant à l'exploitation et à l'élimination des appareils contenant des PCB ;
 

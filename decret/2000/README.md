@@ -337,6 +337,7 @@
 - [Décret n°2000-935 du 19 septembre 2000 (MESJ0010958D)](decret-n2000-935-du-19-septembre-2000-mesj0010958d)
 - [Décret n°2000-942 du 19 septembre 2000 (FPPA0000095D)](decret-n2000-942-du-19-septembre-2000-fppa0000095d)
 - [Décret n°99-886 du 19 octobre 1999 (MENF9901993D)](decret-n99-886-du-19-octobre-1999-menf9901993d)
+- [Décret n°2000-426 du 19 mai 2000 (ATEG0080020D)](decret-n2000-426-du-19-mai-2000-ateg0080020d)
 - [Décret n°2000-1025 du 20 octobre 2000 (INTM0000043D)](decret-n2000-1025-du-20-octobre-2000-intm0000043d)
 - [Décret n°2000-1028 du 20 octobre 2000 (ECOP0000925D)](decret-n2000-1028-du-20-octobre-2000-ecop0000925d)
 - [Décret n°2000-1029 du 20 octobre 2000 (ECOP0000926D)](decret-n2000-1029-du-20-octobre-2000-ecop0000926d)
