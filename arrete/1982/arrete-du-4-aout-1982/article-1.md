@@ -1,3 +1,5 @@
 # Article 1
 
-La répartition des sièges de représentant des salariés dans les conseils d'administration des banques mentionnées à l'article 12 (II, b) de la loi susvisée est assurée conformément au tableau annexé au présent arrêté.
+L'application de la norme NF X 08-003 (Couleurs et signaux de sécurité) est, pour ce qui est du chapitre 11 de ladite norme (Signalisation particulière de sécurité), obligatoire à partir du 1er janvier 1983.
+
+Toutefois, les signaux de sécurité relatifs à la protection contre les rayonnements ionisants et conformes à l'arrêté du 7 juillet 1977 susvisé ou à la norme NF M 60-101 restent autorisés.
