@@ -1,6 +1,6 @@
 # Article 11
 
-Le stockage des fumiers peut être effectué sur le sol, dans la mesure où l'aire de stockage est bâchée ou couverte.
+Le stockage des fumiers peut être effectué sur le sol.
 
 Le stockage des autres types de déjections solides doit être effectué sur des aires ou des fosses étanches qui sont soit couvertes de façon à éviter le ruissellement des eaux pluviales sur les déjections, soit munies au moins d'un point bas où sont collectés les liquides d'égouttage qui seront dirigés vers les installations de stockage ou de traitement des effluents.
 

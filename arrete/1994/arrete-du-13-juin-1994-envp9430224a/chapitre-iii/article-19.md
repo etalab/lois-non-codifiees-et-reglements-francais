@@ -2,7 +2,7 @@
 
 1° Les effluents et les déjections solides de l'exploitation incluant ceux de l'élevage avicole et ceux des autres activités d'élevage exercées au sein de cette exploitation sont soumis à une épuration naturelle par le sol et son couvert végétal, dans les conditions précisées ci-après.
 
-Les apports azotés, toutes origines confondues, organique et minérale, sur les terres faisant l'objet d'un épandage, tiennent compte de la nature particulière des terrains et de la rotation des cultures.
+Les apports azotés, toutes origines confondues, organique et minérale, sur les terres faisant l'objet d'un épandage tiennent compte de la nature particulière des terrains et de la rotation des cultures.
 
 Ils ne peuvent en aucun cas dépasser les valeurs maximales suivantes :
 
@@ -14,17 +14,25 @@ Ils ne peuvent en aucun cas dépasser les valeurs maximales suivantes :
 
 - sur les cultures de légumineuses : aucun apport azoté.
 
-En fonction de l'état initial du site et du bilan global de fertilisation azotée figurant à l'étude d'impact, le préfet fixe la quantité d'azote à ne pas dépasser figurant au plan d'épandage. Des valeurs inférieures sont fixées au cas par cas par le préfet s'il apparaît nécessaire de renforcer la protection des eaux superficielles et souterraines.
+Pour les cultures autres que prairies et légumineuses, une dose d'apport supérieure à 200 kg/ha/an peut être tolérée si l'azote minéral présent dans le déchet est inférieur à 20 % de l'azote global, sous réserve :
 
-En zone d'excédent structurel telle que définie dans l'arrêté du 2 novembre 1993, la quantité maximale d'azote, contenue dans les effluents d'élevage, épandu y compris par les animaux eux-mêmes, ne devra pas dépasser 170 kg/ha/an pour les nouvelles installations.
+- que la moyenne d'apport en azote global sur cinq ans, tous apports confondus, ne dépasse pas 200 kg/ha/an ;
 
-Dans les zones vulnérables définies au titre du décret n° 93-1038 du 27 août 1993, cette quantité maximale sera limitée à 210 kg/ha/an au 1er janvier 1999 et à 170 kg/ha/an au 1er janvier 2003.
+- que les fournitures d'azote par la minéralisation de l'azote organique apporté et les autres apports ne dépassent pas 200 kg/ha/an ;
+
+- de réaliser des mesures d'azote dans le sol exploitable par les racines aux périodes adaptées pour suivre le devenir de l'azote dans le sol et permettre un plan de fumure adapté pour les cultures suivantes ;
+
+- de l'avis de l'hydrogéologue agréé en ce qui concerne les risques pour les eaux souterraines.
+
+En fonction de l'état initial du site et du bilan global de fertilisation azotée figurant à l'étude d'impact, le préfet fixe la quantité d'azote à ne pas dépasser figurant au plan d'épandage.
+
+En zone d'excédent structurel telle que définie dans l'arrêté du 2 novembre 1993 et, pour les nouvelles installations, dans des zones vulnérables définies au titre du décret n° 93-1038 du 27 août 1993, la quantité maximale d'azote contenue dans les effluents d'élevage, épandu, y compris par les animaux eux-mêmes, ne doit pas dépasser 170 kg/ha/an.
 
 Au cas par cas, en fonction des risques d'érosion des terrains ou de ruissellement vers les eaux superficielles, le préfet peut fixer des limitations des apports phosphatés s'il apparaît nécessaire de renforcer la protection des eaux superficielles.
 
-L'exploitant déclare au préfet les modifications notables du plan d'épandage.
+L'exploitant déclare au préfet les modifications du plan d'épandage.
 
-En aucun cas la capacité d'absorption des sols ne doit être dépassée, de telle sorte que ni la stagnation prolongée sur les sols, ni le ruissellement en dehors du champ d'épandage, ni une percolation rapide vers les nappes souterraines ne puissent se produire.
+En aucun cas, la capacité d'absorption des sols ne doit être dépassée, de telle sorte que ni la stagnation prolongée sur les sols, ni le ruissellement en dehors du champ d'épandage, ni une percolation rapide vers les nappes souterraines ne puisse se produire.
 
 2° L'épandage est interdit :
 
@@ -54,7 +62,7 @@ Il comporte les informations suivantes :
 
 - les dates d'épandage ;
 
-- les volumes d'effluents et les quantités d'azote épandu, toutes origines confondues ;
+- les volumes d'effluents et les quantités d'azote répandu toutes origines confondues ;
 
 - les parcelles réceptrices ;
 
