@@ -1,0 +1,3 @@
+# Article 13
+
+Sans préjudice de l'application des mesures prévues au premier alinéa du point c de l'article 42 de l'arrêté du 23 juin 2003 susvisé et au premier alinéa du point c de l'article 46 de l'arrêté du 11 septembre 2003 susvisé, il sera alloué aux détenteurs de droits de chasse ou leurs ayants droit une indemnité forfaitaire de 60 euros par carcasse de sanglier sauvage abattu par arme de tir dans la zone infectée de peste porcine chez les sangliers sauvages et détruit sur ordre de l'administration sans mise en oeuvre de l'analyse libératoire prévue au troisième alinéa du point c de l'article 42 de l'arrêté du 23 juin 2003 susvisé et au troisième alinéa du point c de l'article 46 de l'arrêté du 11 septembre 2003 susvisé.

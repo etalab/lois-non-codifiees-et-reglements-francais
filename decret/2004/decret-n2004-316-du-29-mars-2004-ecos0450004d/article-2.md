@@ -1,0 +1,3 @@
+# Article 2
+
+Les chiffres de population des districts et des circonscriptions du territoire des îles Wallis et Futuna sont arrêtés dans le tableau I annexé (tableau non reproduit, voir JO du 31 mars 2004) au présent décret qui détermine la population totale (colonne 1) se décomposant en population municipale (colonne 2) et population comptée à part (colonne 3). La population des villages figure dans le tableau 2. Sauf disposition législative ou réglementaire contraire, la population totale (colonne 1) constitue la population à prendre en considération pour l'application des lois et règlements.

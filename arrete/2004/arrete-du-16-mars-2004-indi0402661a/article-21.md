@@ -1,0 +1,3 @@
+# Article 21
+
+Outre les opérations de contrôle effectuées par les agents habilités par lui au titre de l'article 5 de la loi du 25 juillet 1980 susvisée, le ministre chargé de l'industrie fait procéder en tant que de besoin à des missions d'études destinées à analyser l'organisation du suivi et contrôler son exécution et la qualité des mesures utilisées par le titulaire d'une autorisation pour la détermination des quantités et qualités des matières nucléaires détenues à l'intérieur d'un établissement ou d'une installation. Toutes données utiles sont communiquées à cet effet aux agents chargés de ces missions.

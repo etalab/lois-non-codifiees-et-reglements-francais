@@ -1,0 +1,5 @@
+# Article 16
+
+Les inventaires physiques consistent à recenser et vérifier les quantités et qualités de matières nucléaires présentes dans l'établissement ou l'installation afin de les comparer au stock comptable enregistré par le titulaire de l'autorisation et de déterminer les différences d'inventaire éventuelles, la concordance du stock précité avec le dernier stock comptable communiqué par la direction de l'expertise nucléaire de défense de l'Institut de radioprotection et de sûreté nucléaire ayant été préalablement vérifiée et les corrections éventuelles suite à cette vérification ayant été effectuées.
+
+Ce recensement et cette vérification sont faits au moyen des procédures et des méthodes de mesure ou d'estimation les mieux appropriées à la nature des produits mis en oeuvre et aux transformations effectuées. Toute différence d'inventaire donne immédiatement lieu à une écriture de régularisation ainsi qu'à un examen technique pour en déterminer la cause et y remédier en tant que de besoin, sans préjudice des dispositions de l'article 11 du décret du 12 mai 1981 susvisé.

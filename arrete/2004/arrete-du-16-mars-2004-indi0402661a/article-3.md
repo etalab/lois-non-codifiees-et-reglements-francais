@@ -1,0 +1,3 @@
+# Article 3
+
+Les dispositions techniques relatives au suivi et à la comptabilité des matières nucléaires, ainsi que les données s'y rapportant ne doivent être connues que des personnes régulièrement appelées à en connaître par le titulaire de l'autorisation dans l'exercice de leurs fonctions. La forme et les moyens de transmission des données comptables et des informations nécessaires aux opérations de contrôle prévues à l'article 13 du présent arrêté doivent être adaptés au niveau de confidentialité des informations transmises et satisfaire à la réglementation afférente à la sécurité des systèmes d'information, notamment informatiques.

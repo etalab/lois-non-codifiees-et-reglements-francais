@@ -2,6 +2,10 @@
 
 Les dossiers de candidature au concours interne et à l'examen professionnel devront comprendre les pièces suivantes :
 
+Le dossier de candidature au concours interne doit également comprendre la pièce suivante :
+
+Un rapport circonstancié du directeur départemental des services d'incendie et de secours sur les aptitudes du candidat à l'exercice d'un commandement opérationnel et sur son parcours professionnel.
+
 Une lettre manuscrite du candidat qui ne doit pas excéder trois pages recto, adressée au ministre de l'intérieur (direction de la défense et de la sécurité civiles), mettant en évidence, à travers son curriculum vitae, ses motivations pour l'exercice des fonctions de capitaine auxquelles il postule et faisant ressortir son parcours professionnel et les activités exercées ;
 
 Un état détaillé des services publics effectués par le candidat en qualité de titulaire ou de contractuel indiquant notamment leur durée, le statut et le grade de l'agent. Cet état est certifié par l'autorité investie du pouvoir de nomination ;
