@@ -482,7 +482,6 @@
 - [Arrêté du 26 avril 1988 (ECOZ8800008A)](arrete-du-26-avril-1988-ecoz8800008a)
 - [Arrêté du 26 avril 1988 (PTTT8800379A)](arrete-du-26-avril-1988-pttt8800379a)
 - [Arrêté du 26 décembre 1988 (SPSS8801932A)](arrete-du-26-decembre-1988-spss8801932a)
-- [Arrêté du 26 février 1988 (AGRG8800355A)](arrete-du-26-fevrier-1988-agrg8800355a)
 - [Arrêté du 26 février 1988 (ECOC8800027A)](arrete-du-26-fevrier-1988-ecoc8800027a)
 - [Arrêté du 26 février 1988 (EQUC8800073A)](arrete-du-26-fevrier-1988-equc8800073a)
 - [Arrêté du 26 février 1988 (EQUC8800074A)](arrete-du-26-fevrier-1988-equc8800074a)
