@@ -1,0 +1,3 @@
+# Article 64
+
+Au fur et à mesure de l'application du présent décret dans les conditions définies aux articles 61 et 62, cessent d'être applicables aux établissements visés par les dispositions du chapitre 1er du présent décret, dans les conditions prévues à l'article 61, le décret n° 53-271 du 28 mars 1953, les articles 32 à 37 et le 1er alinéa de l'article 39 du décret n° 58-1202 du 11 décembre 1958, les décrets n° 59-1510 du 29 décembre 1959 à l'exception des articles 22 et 23, n° 53-1185 du 27 novembre 1953, n° 56-1114 du 26 octobre 1956, les articles 13 à 16 du décret susvisé du 21 mai 1976.
