@@ -64,6 +64,7 @@
 - [Décret n°79-88 du 25 janvier 1979](decret-n79-88-du-25-janvier-1979)
 - [Décret n°79-89 du 25 janvier 1979](decret-n79-89-du-25-janvier-1979)
 - [Décret n°79-413 du 25 mai 1979](decret-n79-413-du-25-mai-1979)
+- [Décret n°79-432 du 25 mai 1979](decret-n79-432-du-25-mai-1979)
 - [Décret n°78-1295 du 26 décembre 1978](decret-n78-1295-du-26-decembre-1978)
 - [Décret n°78-1306 du 26 décembre 1978](decret-n78-1306-du-26-decembre-1978)
 - [Décret n°79-153 du 26 février 1979](decret-n79-153-du-26-fevrier-1979)
@@ -86,3 +87,4 @@
 - [Décret n°79-289 du 30 mars 1979](decret-n79-289-du-30-mars-1979)
 - [Décret n°79-423 du 30 mai 1979](decret-n79-423-du-30-mai-1979)
 - [Décret n°79-108 du 31 janvier 1979](decret-n79-108-du-31-janvier-1979)
+- [Décret n°79-431 du 31 mai 1979](decret-n79-431-du-31-mai-1979)
