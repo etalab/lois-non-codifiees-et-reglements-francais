@@ -48,6 +48,4 @@ VII. - La Caisse centrale et les caisses départementales ou pluridépartemental
 
 - jusqu'au 30 juin 1998, au versement des arrérages de rente dus aux adhérents jusqu'à leur transfert sur un contrat visé au I et à la gestion administrative et financière de la liquidation de ce régime.
 
-Les caisses de mutualité sociale agricole sont autorisées à conclure avec les entreprises d'assurance sur la vie visées au 1° de l'article L. 310-1 du code des assurances et les caisses autonomes mutualistes visées à l'article L. 321-1 du code de la mutualité des conventions pour l'encaissement des cotisations et le versement des prestations afférentes aux contrats d'assurance de groupe visés au I.
-
 VIII. - (paragraphe modificateur).

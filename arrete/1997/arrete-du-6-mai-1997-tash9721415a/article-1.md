@@ -2,7 +2,7 @@
 
 Il est créé un Conseil national de la formation médicale continue hospitalière, placé auprès du ministre chargé de la santé.
 
-Il a une mission générale de proposition et de conseil du ministre, en vue de l'élaboration des mesures nécessaires pour assurer l'obligation de formation médicale continue des médecins exerçant dans un établissement de santé public ou privé participant au service public, instituée par l'article L. 367-2 du code de la santé publique. Sa mission s'étend à la formation médicale continue des biologistes, pharmaciens et odontologistes exerçant dans ces mêmes établissements. Elle s'applique aux praticiens hospitalo-universitaires.
+Il a une mission générale de proposition et de conseil du ministre, en vue de l'élaboration des mesures nécessaires pour assurer l'obligation de formation médicale continue des médecins exerçant dans un établissement de santé public ou privé participant au service public, instituée par l'article L. 4133-1 du code de la santé publique. Sa mission s'étend à la formation médicale continue des biologistes, pharmaciens et odontologistes exerçant dans ces mêmes établissements. Elle s'applique aux praticiens hospitalo-universitaires.
 
 A ce titre, le Conseil national de la formation médicale continue hospitalière est notamment chargé :
 
@@ -20,4 +20,4 @@ Il peut saisir le ministre de toute question ou proposition relative à la forma
 
 Le conseil tient compte des besoins généraux de santé publique et des besoins spécifiques des établissements hospitaliers ainsi que des besoins individuels des praticiens.
 
-Le conseil peut échanger des informations avec le Conseil national de la formation médicale continue des médecins exerçant à titre libéral institué par l'article L. 367-3 du code de la santé publique.
+Le conseil peut échanger des informations avec le Conseil national de la formation médicale continue des médecins exerçant à titre libéral institué par l'article L. 4133-2 du code de la santé publique.

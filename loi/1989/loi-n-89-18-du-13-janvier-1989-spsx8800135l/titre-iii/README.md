@@ -8,4 +8,3 @@
 - [Article 10](article-10.md)
 - [Article 13](article-13.md)
 - [Article 19](article-19.md)
-- [Article 21](article-21.md)
