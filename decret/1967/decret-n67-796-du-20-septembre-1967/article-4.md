@@ -1,7 +1,0 @@
-# Article 4
-
-Les activités minières et chimiques exercées directement par les Mines domaniales de potasse d'Alsace et l'Office national industriel de l'azote sont assurées par l'Entreprise minière et chimique au moyen de deux sociétés filiales qui seront créées sous la forme de sociétés anonymes, conformément aux dispositions de la loi n° 66-537 du 24 juillet 1966 modifiée sur les sociétés commerciales ; les statuts de ces deux sociétés sont approuvés par décret en Conseil d'Etat ; des arrêtés conjoints du ministre de l'économie et des finances et du ministre de l'industrie fixent, en tant que de besoin, les modalités d'apport à ces sociétés de la partie de l'actif de l'Entreprise minière et chimique nécessaire à l'exercice de leur activité.
-
-A titre transitoire et jusqu'à la constitution définitive de ces deux sociétés filiales, l'Entreprise minière et chimique exerce directement les activités qui lui sont transférées par le présent décret. Durant cette période, les comptes continueront à être présentés dans les formes mêmes où ils sont tenus par les Mines domaniales de potasse d'Alsace et l'Office national industriel de l'azote. Ces comptes seront arrêtés au 31 décembre 1967 pour l'ensemble de l'exercice.
-
-Les comités d'entreprise des Mines domaniales de potasse d'Alsace et de l'Office national industriel de l'azote continueront à exercer leurs attributions jusqu'à la constitution des comités d'entreprise des sociétés filiales prévues à l'alinéa 1.
