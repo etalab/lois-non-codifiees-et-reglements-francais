@@ -6,8 +6,6 @@ I. - Pour l'aérogare Sud, limitation à quatre prestataires pour les services s
 
 - assistance bagages (catégorie 3) ;
 
-- assistance au stationnement (catégorie 5.2) ;
-
 - chargement et déchargement de l'avion (catégorie 5.4) ;
 
 - transport des bagages entre l'avion et l'aérogare (catégorie 5.4) ;
@@ -30,6 +28,6 @@ II. - Pour l'aérogare Ouest, limitation à trois prestataires pour chacun des s
 
 III. - Pour l'ensemble de l'aéroport, limitation à quatre prestataires pour le service du transfert du fret et de la poste sur les aires de trafic (catégorie 4).
 
-IV. - Pour l'ensemble de l'aéroport, limitation à six prestataires pour le service transport de l'équipage entre l'avion et l'aérogare (catégorie 5.4).
+IV. - Paragraphe supprimé.
 
 V. - Pour l'ensemble de l'aéroport, limitation à deux prestataires pour le service transport des passagers entre l'avion et l'aérogare (catégorie 5.4).

@@ -12,8 +12,6 @@ I. - Pour l'ensemble des aérogares CDG 1, CDG 2 et T 9, limitation à trois tra
 
 - transport des passagers entre l'avion et l'aérogare (catégorie 5.4) ;
 
-- transport de l'équipage entre l'avion et l'aérogare (catégorie 5.4) ;
-
 - transport des bagages entre l'avion et l'aérogare (catégorie 5.4) ;
 
 - assistance au démarrage de l'avion (catégorie 5.5) ;
@@ -29,8 +27,6 @@ IV. - Pour la zone fret, limitation à trois transporteurs aériens pour chacun 
 - assistance au stationnement (catégorie 5.2) ;
 
 - chargement et déchargement de l'avion (catégorie 5.4) ;
-
-- transport de l'équipage entre l'avion et l'aérogare (catégorie 5.4) ;
 
 - assistance au démarrage de l'avion (catégorie 5.5) ;
 
