@@ -1,7 +1,3 @@
 # Article 10
 
-Les stagiaires mentionnés à l'article 7 sont rémunérés par la collectivité ou l'établissement qui a procédé au recrutement sur la base de l'indice afférent au 1er échelon du grade d'animateur.
-
-Toutefois, ceux qui avaient auparavant la qualité de fonctionnaire perçoivent le traitement indiciaire correspondant à l'échelon du grade d'animateur déterminé en application des règles fixées par les articles 11 et 12 et le dernier alinéa de l'article 13 ci-dessous.
-
-Lorsque les fonctionnaires stagiaires sont titularisés, ils sont placés, sous réserve des règles définies aux articles 11, 12 et 13, à l'échelon du grade d'animateur correspondant à l'ancienneté acquise depuis leur nomination dans le cadre d'emplois sans qu'il soit tenu compte de la prolongation éventuelle de la période de stage prévue à l'article 9 ci-dessus.
+Les règles de rémunération des stagiaires ainsi que les règles applicables pour leur classement dans le grade initial sont déterminées par le décret n° 2002-870 du 3 mai 2002 fixant les dispositions statutaires communes applicables aux cadres d'emplois des fonctionnaires de la catégorie B de la fonction publique territoriale.
