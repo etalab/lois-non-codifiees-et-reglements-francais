@@ -4,9 +4,9 @@ Les dispositions des articles 2 à 6 ainsi que l'article 13 du présent décret 
 
 17.1. En ce qui concerne les ouvrages hydrauliques, le signal d'alerte aux populations comporte un cycle d'une durée minimum de 2 minutes d'un son dont les caractéristiques sont définies dans l'annexe III du présent décret.
 
-Il est diffusé par un réseau de sirènes spécifiques installé et entretenu par le maître de l'ouvrage en application de l'article 3 du décret n° 68-450 du 16 mai 1968, pour la mise en oeuvre des plans établis en application des décrets du 16 mai 1968 et du 6 mai 1988.
+" Il est diffusé par un réseau de sirènes spécifiques installé par le maître d'ouvrage en application de l'article 4 du décret n° 92-997 du 15 septembre 1992 et antérieurement en application du décret n° 68-450 du 16 mai 1968.
 
-Le signal d'alerte est déclenché par le maître de l'ouvrage en cas d'accident grave ou de danger imminent, selon les modalités prévues par les plans précités.
+" Ce réseau de sirènes est entretenu par l'exploitant qui déclenche le signal d'alerte selon les modalités prévues par les plans établis en application des deux décrets précités. "
 
 17.2. Le signal émis par les réseaux de sirènes définis à l'article 17.1 a pour objet d'avertir la population de la nécessité de rejoindre sans tarder un lieu protégé situé en dehors des limites d'invasion de l'onde de submersion provoquée par la rupture de l'ouvrage hydraulique. Une fois parvenue en lieu sûr, la population se porte à l'écoute d'un des programmes nationaux de radiodiffusion définis à l'article 6 ci-dessus.
 
