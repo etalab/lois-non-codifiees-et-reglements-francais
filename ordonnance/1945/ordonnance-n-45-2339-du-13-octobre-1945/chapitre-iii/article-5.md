@@ -12,7 +12,7 @@ d) La licence temporaire ou définitive ne peut, en aucun cas, être délivrée 
 
 Néanmoins, un arrêté du ministre de l'éducation nationale pourra, après avis de la commission, autoriser à titre précaire et révocable un directeur à diriger une seconde entreprise de spectacles ;
 
-e) La licence temporaire ou définitive ne peut être accordée à un candidat qui s'occupe du placement des artistes, directement ou par personne interposée, en agissant soit pour son compte personnel, soit pour un employeur ou une agence, ou enfin qui possède des intérêts dans une entreprise de placement d'artistes ;
+e) La licence temporaire ou définitive pour la catégorie "autres théâtres fixes" visée au 2° de l'article 1er ne peut être accordée à un candidat qui s'occupe du placement des artistes, directement ou par personne interposée, en agissant soit pour son compte personnel, soit pour un employeur ou une agence, ou enfin qui possède des intérêts dans une entreprise de placement d'artistes ;
 
 f) Pour la licence définitive, le candidat doit présenter des titres professionnels qui seront précisés dans le décret prévu ci-après et s'il désire diriger une entreprise de spectacles de la deuxième catégorie (théâtres fixes) il doit être titulaire du bail de la salle ou possesseur d'une promesse de bail ;
 
