@@ -30,15 +30,13 @@ c) Visite par le vétérinaire sanitaire coordonnateur départemental d'une expl
 
 d) Marquage des bovins présents dans une exploitation à risques ou originaires d'une exploitation à risques : par bovin marqué, un dixième du montant de l'acte médical défini par l'ordre des vétérinaires.
 
-Pour les déplacements afférents aux visites et actes mentionnés aux paragraphes 1 et 2 ci-dessus du présent article, les vétérinaires sanitaires sont rémunérés selon les modalités fixées à l'article 1er de l'arrêté du 30 septembre 2004 relatif à la rémunération des vétérinaires sanitaires pour les opérations de police sanitaire fixant les conditions et les modalités de règlement des frais occasionnés par les déplacements des personnels civils sur le territoire métropolitain de la France lorsqu'ils sont à la charge des budgets de l'Etat, des établissements publics nationaux à caractère administratif et de certains organismes subventionnés ;
+Pour les déplacements afférents aux visites et actes mentionnés aux paragraphes 1 et 2 ci-dessus du présent article, les vétérinaires sanitaires sont rémunérés selon les modalités fixées à l'article 1er de l'arrêté du 30 septembre 2004 relatif à la rémunération des vétérinaires sanitaires pour les opérations de police sanitaire ;
 
-3. Lors de la surveillance épidémiologique de l'ESB sur les bovins âgés de vingt-quatre mois et plus :
+3. Lors de la surveillance épidémiologique de l'ESB sur les bovins morts âgés de vingt-quatre mois et plus :
 
-a) Pour les opérations prévues à l'article 4 bis de l'arrêté du 3 décembre 1990 susvisé, par visite, trois fois le montant de l'acte médical défini par l'ordre des vétérinaires. Cependant, lorsque la visite implique un déplacement de plus de quinze kilomètres aller, les vétérinaires sanitaires perçoivent, pour leur déplacement au-delà de cette distance, des indemnités kilométriques calculées selon les mêmes modalités que celles applicables aux fonctionnaires et agents de l'Etat conformément aux dispositions du décret du 28 mai 1990 précité ;
+a) et b) (paragraphes supprimés) ;
 
-b) Pour les opérations prévues à l'article 4 ter du même arrêté, les honoraires de consultation restant à la charge de l'éleveur, cinq fois le montant de l'acte médical défini par l'ordre des vétérinaires. Ce tarif couvre la fourniture des produits et matériels nécessaires à l'euthanasie. Cependant, lorsque la visite implique un déplacement de plus de quinze kilomètres aller, les vétérinaires sanitaires perçoivent, pour leur déplacement au-delà de cette distance, des indemnités kilométriques calculées selon les mêmes modalités que celles applicables aux fonctionnaires et agents de l'Etat conformément aux dispositions du décret du 28 mai 1990 précité ;
-
-c) Pour le prélèvement de système nerveux central, une fois et demie le montant de l'acte médical défini par l'ordre des vétérinaires. Ce tarif s'entend hors matériel à usage unique spécifiquement nécessaire au prélèvement.
+c) Pour le prélèvement de système nerveux central, une fois le montant de l'acte médical défini par l'ordre des vétérinaires. Ce tarif s'entend hors matériel à usage unique spécifiquement nécessaire au prélèvement.
 
 Ces montants sont fixés hors taxe et comprennent les déplacements.
 

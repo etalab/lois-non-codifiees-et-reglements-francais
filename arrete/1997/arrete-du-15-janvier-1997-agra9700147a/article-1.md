@@ -155,3 +155,19 @@ Chef de service d'économie agricole à la direction départementale de l'agricu
 Chef de service d'appui aux collectivités locales à la direction départementale de l'agriculture et de la forêt de Vaucluse ;
 
 Délégué régional à la formation continue à la direction régionale de l'agriculture et de la forêt de l'Alsace.
+
+A compter du 25 octobre 2004 :
+
+Délégué régional du sud-Ouest du service des nouvelles des marchés.
+
+A compter du 1er juillet 2004 :
+
+Chef de service de l'économie agricole à la direction départementale de l'agriculture et de la forêt de l'Ardèche.
+
+A compter du 15 août 2004 :
+
+Chef de service forêt, chasse et faune sauvage à la direction départementale de l'agriculture et de la forêt des Bouches-du-Rh<CB>ne.
+
+A compter du 31 août 2004 :
+
+chargé d'une mission d'animateur-coordinateur "en appui technique, gestion des services publics" auprès des directions départementales de l'agriculture et de la forêt des régions : Pays de la Loire, Centre, Bretagne, Basse-Normandie, Haute-Normandie, affecté à la direction départementale de l'agriculture et de la forêt de la Mayenne.
