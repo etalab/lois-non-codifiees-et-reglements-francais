@@ -360,7 +360,6 @@
 - [Arrêté du 18 juillet 1989 (EQUQ8900803A)](arrete-du-18-juillet-1989-equq8900803a)
 - [Arrêté du 18 octobre 1989 (MCCT8900649A)](arrete-du-18-octobre-1989-mcct8900649a)
 - [Arrêté du 18 octobre 1989 (MENZ8902156A)](arrete-du-18-octobre-1989-menz8902156a)
-- [Arrêté du 18 octobre 1989 (SPSG8902107A)](arrete-du-18-octobre-1989-spsg8902107a)
 - [Arrêté du 18 octobre 1989 (SPSH8901939A)](arrete-du-18-octobre-1989-spsh8901939a)
 - [Arrêté du 18 octobre 1989 (SPSH8901943A)](arrete-du-18-octobre-1989-spsh8901943a)
 - [Arrêté du 18 octobre 1989 (SPSH8902112A)](arrete-du-18-octobre-1989-spsh8902112a)

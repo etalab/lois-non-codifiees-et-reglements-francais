@@ -1170,7 +1170,6 @@
 - [Décret n°92-1457 du 31 décembre 1992 (AGRB9202544D)](decret-n92-1457-du-31-decembre-1992-agrb9202544d)
 - [Décret n°92-1458 du 31 décembre 1992 (AGRB9202545D)](decret-n92-1458-du-31-decembre-1992-agrb9202545d)
 - [Décret n°92-1459 du 31 décembre 1992 (AGRB9202546D)](decret-n92-1459-du-31-decembre-1992-agrb9202546d)
-- [Décret n°92-1460 du 31 décembre 1992 (AGRB9202547D)](decret-n92-1460-du-31-decembre-1992-agrb9202547d)
 - [Décret n°92-1461 du 31 décembre 1992 (AGRB9202548D)](decret-n92-1461-du-31-decembre-1992-agrb9202548d)
 - [Décret n°92-1462 du 31 décembre 1992 (AGRB9202549D)](decret-n92-1462-du-31-decembre-1992-agrb9202549d)
 - [Décret n°92-1463 du 31 décembre 1992 (EQUT9201578D)](decret-n92-1463-du-31-decembre-1992-equt9201578d)
