@@ -1,0 +1,3 @@
+# Article 1
+
+La Caisse nationale de l'organisation autonome d'assurance vieillesse, invalidité, décès des travailleurs non salariés de l'industrie et du commerce (ORGANIC), la Caisse autonome nationale de compensation de l'assurance vieillesse des artisans (CANCAVA), la Caisse nationale d'assurance maladie et maternité des travailleurs non salariés des professions non agricoles (CANAM) et la Caisse autonome nationale de la sécurité sociale dans les mines (CANSSM) assurent, chacune pour le régime qui la concerne, l'organisation des élections des représentants élus des agents de direction à la commission chargée d'arrêter la liste d'aptitude, instituée par l'arrêté du 25 septembre 1998 susvisé.
