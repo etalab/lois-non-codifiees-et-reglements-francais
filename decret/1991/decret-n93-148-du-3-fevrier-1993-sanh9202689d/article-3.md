@@ -1,3 +1,3 @@
 # Article 3
 
-Le crédit global qui est affecté au paiement de l'indemnité forfaitaire technique est fixé pour un exercice donné à 25 p. 100 du montant des crédits effectivement utilisés au cours dudit exercice pour la liquidation des traitements budgétaires bruts des adjoints des cadres techniques en position d'activité.
+Le versement de l'indemnité forfaitaire technique est exclusif du versement de la prime de service existant antérieurement à la publication du présent décret et de l'indemnité de sujétion spéciale précitée.
