@@ -32,6 +32,8 @@ FM
 
 Modulation de Fréquence/Frequency Modulation
 
+GNSS Système mondial de navigation par satellite/Global Navigation Satellite System
+
 HF
 
 Haute Fréquence/High Frequency
@@ -150,7 +152,7 @@ Tout aéronef dispose de l'équipement de communication permettant une liaison b
 
 1.2.2.2. Emetteur-Récepteur VHF à 25 kHz :
 
-Lorsqu'il est obligatoire, tout équipement de communication VHF installé à bord d'un aéronef est capable d'utiliser toutes les fréquences radioélectriques, espacées de 25 kHz, dans la bande de fréquences du service mobile aéronautique (R) (5).
+Lorsqu'il est obligatoire, tout équipement de communication VHF installé à bord d'un aéronef est capable d'utiliser toutes les fréquences radioélectriques, espacées de 25 kHz, dans la bande de fréquences du service mobile aéronautique (R) (3).
 
 (- X OACI. - Annexe 10. - Volume III. - § 2.3.3. - Les aéronefs en vol VFR ont obligation depuis le 1er janvier 1998 de disposer d'équipements de communication conformes aux normes d'immunité FM.)
 
@@ -173,6 +175,8 @@ Volume I :
 § 3.5. Spécifications du dispositif UHF de mesure de distance (DME) ;
 
 § 3.6. Spécifications des radiobornes VHF de navigation en route (75 MHz) ;
+
+§ 3.7 Dispositions relatives au système mondial par satellite (GNSS) ;
 
 § 3.9. Caractéristiques de système des systèmes récepteurs ADF de bord ;
 
@@ -232,7 +236,7 @@ Certaines procédures RNAV de départ (SID), d'arrivée (STAR) ou d'approche aux
 
 Obligation :
 
-A compter du 24 janvier 2002, tout aéronef évoluant dans le volume d'espace aérien compris entre les niveaux de vol 290 et 410, inclusivement, est homologué RVSM (5).
+A compter du 24 janvier 2002, tout aéronef évoluant dans le volume d'espace aérien compris entre les niveaux de vol 290 et 410, inclusivement, à l'exception des zones de transition RVSM publiées par la voie de l'information aéronautique, est homologué RVSM.
 
 Exemption :
 
@@ -263,6 +267,14 @@ A compter du 1er janvier 2002, tout système récepteur d'alignement de piste IL
 (- X OACI. - Annexe 10. - Volume I. - § 3.1.4 - Cette obligation est en vigueur depuis le 1er janvier 1998.)
 
 e) Exemption :
+
+Mesure transitoire :
+
+Jusqu'au 30 avril 2002, certains aéronefs peuvent être exemptés des dispositions des paragraphes c et d ci-dessus, sous certaines conditions portées à la connaissance des usagers par la voie de l'information aéronautique.
+
+L'utilisation de certaines procédures de départ normalisé aux instruments (SID), d'arrivée normalisée aux instruments (STAR) et d'approche aux instruments (ILS, LLZ et VOR) peut alors être interdite à ces aéronefs. Ces restrictions sont portées à la connaissance des usagers par la voie de l'information aéronautique.
+
+Aéronefs d'Etat :
 
 A compter du 1er janvier 2002, les aéronefs d'Etat sont exemptés des dispositions des paragraphes c et d ci-dessus. Ils se conforment alors à des procédures particulières prévues à cet effet.
 
@@ -384,6 +396,8 @@ Des dérogations exceptionnelles au paragraphe 4.3.1, a, dont la validité ne pe
 
 Des dérogations spéciales au paragraphe 4.3.1, a, peuvent être accordées par l'autorité compétente, pour les vols non commerciaux suivants :
 
+- vol humanitaire ;
+
 - vol de convoyage, avant ou pour livraison de l'aéronef dans une région où l'équipement ACAS II n'est pas obligatoire ;
 
 - vol de convoyage, en provenance d'une région où l'équipement ACAS II n'est pas obligatoire ;
@@ -400,4 +414,4 @@ Les conditions de délivrance de ces dérogations et la procédure à suivre son
 
 (4) Route conventionnelle : route s'appuyant sur des moyens de navigation conventionnels (VOR, VOR/DME, NDB).
 
-(5)  Homologué RVSM  : cf. procédures complémentaires régionales de l'OACI (Doc 7030 EUR).
+(5) Homologué RVSM : cf. procédures complémentaires régionales de l'OACI (Doc 7030 EUR).
