@@ -1,0 +1,3 @@
+# Article 3
+
+Les zones dans lesquelles les entreprises qui bénéficient de l'exonération temporaire de taxe professionnelle peuvent pratiquer sans agrément l'amortissement exceptionnel des constructions neuves prévu à l'article 39 quinquies D du Code général des Impôts sont celles délimitées à l'annexe I du présent arrêté et les départements d'outre-mer. Toutefois, les entreprises relevant du secteur des industries agricoles et alimentaires qui procèdent, hors du bassin parisien et de la région lyonnaise définis à l'annexe IV, à la création ou à l'extension d'installations industrielles peuvent également bénéficier de l'amortissement exceptionnel.
