@@ -1,6 +1,6 @@
 # Article 20
 
-L'employeur ne peut affecter aux fonctions de chef de manoeuvre, de conducteur d'engin, d'accrocheur et de pilote que du personnel qu'il a désigné à cet effet et qui a satisfait à une formation principalement pratique, délivrée par un formateur ayant lui-même préalablement suivi un stage auprès d'un organisme agréé par arrêté des ministres du travail et de l'agriculture.
+L'employeur ne peut affecter aux fonctions de chef de manoeuvre, de conducteur d'engin, d'accrocheur et de pilote que du personnel qu'il a désigné à cet effet et qui a satisfait à une formation principalement pratique.
 
 La durée de formation des personnels prévue au premier alinéa est comprise entre deux et cinq jours. Cette formation donne lieu à un contrôle de capacité à l'issue du stage.
 
