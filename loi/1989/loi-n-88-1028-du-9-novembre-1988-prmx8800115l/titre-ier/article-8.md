@@ -6,7 +6,7 @@ L'Etat est compétent dans les matières suivantes :
 
 2° Le contrôle de l'immigration et des étrangers ;
 
-3° La francisation des navires ; les communications extérieures en matière de navigation, de desserte maritime et aérienne et de postes et télécommunications ; les règles de police et de sécurité en matière de circulation aérienne intérieure ;
+3° La francisation des navires ; les communications extérieures en matière de navigation, de desserte maritime et aérienne et de postes et télécommunications ; les règles de police et de sécurité en matière de circulation aérienne et maritime intérieures ;
 
 4° L'exploration, l'exploitation, la gestion et la conservation des ressources naturelles, biologiques et non biologiques de la zone économique ;
 
@@ -20,7 +20,7 @@ L'Etat est compétent dans les matières suivantes :
 
 9° La nationalité et les règles concernant l'état-civil ;
 
-10° Le droit civil et le droit commercial, à l'exclusion du droit coutumier ;
+10° Le droit civil et le droit commercial à l'exclusion de la réglementation du commerce intérieur et des professions commerciales ainsi que du droit coutumier ; " ;
 
 11° La règlementation minière concernant les matières mentionnées à l'article 19 du décret n° 54-1110 du 13 novembre 1954 modifié par la loi n° 69-4 du 3 janvier 1969 ;
 
@@ -38,6 +38,10 @@ L'Etat est compétent dans les matières suivantes :
 
 18° L'enseignement du second degré, sauf la réalisation et l'entretien des collèges du premier cycle du second degré ; l'enseignement supérieur, la recherche scientifique ; la liste annuelle des opérations de construction ou d'extension des collèges que l'Etat s'engage à pourvoir des postes nécessaires ;
 
+18° bis Les règles applicables aux personnels habilités des établissements d'enseignement privés liés par contrat à l'Etat pour l'accomplissement de missions d'enseignement en ce qu'elles procèdent à l'extension à ces personnels des dispositions concernant les enseignants titulaires de l'enseignement public, y compris celles relatives aux conditions de service et de cessation d'activité, aux mesures sociales, aux possibilités de formation et aux mesures de promotion et d'avancement ; ".
+
 19° La communication audiovisuelle.
 
 L'Etat exerce ses droits de souveraineté et de propriété sur son domaine public et privé, terrestre maritime et aérien.
+
+20° Les règles de collation des titres et diplômes dans les domaines sportifs et socio-éducatifs. " ;
