@@ -1,4 +1,4 @@
-# Arrêté du 2 juillet 1975 FIXANT LE CREDIT MAXIMUM POUVANT ETRE CONSACRE PAR LES ETABLISSEMENTS, COLLECTIVITES ET SYNDICATS INTERHOSPITALIERS AU FINANCEMENT DES ACTIONS DE FORMATION EN FAVEUR DES PERSONNELS RELEVANT DU LIVRE IX DU CODE DE LA SANTE PUBLIQUE.
+# Arrêté du 2 juillet 1975 modifiant les conditions d'accès aux emplois de commis et de rédacteur des communes et des établissements publics communaux.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
