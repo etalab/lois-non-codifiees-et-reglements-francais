@@ -1,0 +1,3 @@
+# Article 1
+
+Sous réserve des dispositions des articles 2 et 4, les rentes viagères ayant pour objet le paiement par des personnes physiques ou morales de sommes fixées en numéraire soit moyennant l'aliénation en pleine propriété ou en nue-propriété d'un ou de plusieurs biens corporels, meubles ou immeubles, ou d'un ou de plusieurs fonds de commerce, en vertu d'un contrat à titre onéreux ou à titre gratuit, soit comme charge d'un legs de ces mêmes biens, sont majorées de plein droit selon les modalités prévues par l'article 2 de la loi n° 51-695 du 24 mai 1951 portant majoration de certaines rentes viagères et pensions.
