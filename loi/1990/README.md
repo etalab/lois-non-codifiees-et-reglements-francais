@@ -53,4 +53,5 @@
 - [Loi n°90-488 du 16 juin 1990 (JUSX8900169L)](loi-n90-488-du-16-juin-1990-jusx8900169l)
 - [Loi n°90-568 du 2 juillet 1990 (PTTX9000053L)](loi-n90-568-du-2-juillet-1990-pttx9000053l)
 - [Loi n°90-588 du 6 juillet 1990 (MAEX90000047L)](loi-n90-588-du-6-juillet-1990-maex90000047l)
+- [Loi n°90-600 du 6 juillet 1990 (ECOX8900128L)](loi-n90-600-du-6-juillet-1990-ecox8900128l)
 - [Loi n°90-9 du 2 janvier 1990 (TEFX8900150L)](loi-n90-9-du-2-janvier-1990-tefx8900150l)
