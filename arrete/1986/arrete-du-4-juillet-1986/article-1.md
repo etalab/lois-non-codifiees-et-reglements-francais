@@ -1,17 +1,9 @@
 # Article 1
 
-Par dérogation à l'article 1er de l'arrêté du 21 février 1986 susvisé, la période d'ouverture de la pêche de la truite de mer est prolongée jusqu'au 19 octobre inclus dans les parties de cours d'eau désignées ci-après :
+La demande d'allocation de logement à caractère social concernant les chômeurs de longue durée doit être établie conformément au modèle n° S. 7142 annexé au présent arrêté.
 
-Département du Calvados
+Ce modèle a été enregistré par le Cerfa (1) sous le numéro 60-3747 (2).
 
-1° La Touques en aval du pont de Breuil-en-Auge.
+(1) Centre d'enregistrement et de révision des formulaires administratifs.
 
-2° La Dives en aval du pont de la R.N. 13.
-
-3° L'Orne en aval de son confluent avec la Maire, commune de Sérans.
-
-4° La Seulles en aval du pont de Saint-Gabriel.
-
-Département de la Manche
-
-La basse Vire en aval du pont de la D. 53 à Condé-sur-Vire.
+(2) Les modèles de ces imprimés sont disponibles auprès des organismes et des services de prestations familiales.
