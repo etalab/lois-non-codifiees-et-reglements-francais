@@ -20,7 +20,7 @@ b) Les fonctionnaires occupant ou ayant occupé, pendant la même durée, le pri
 
 intergouvernementales ayant exercé pendant deux ans au moins des fonctions équivalentes à celles mentionnées aux 1°, 2°, 3° et 4° du II du présent article, après avis de la commission interministérielle mentionnée à l'article 2 du décret du 25 novembre 1985 susvisé. Ces personnes doivent faire état de vingt années de services effectifs accomplis en totalité dans une organisation internationale ou en partie dans l'administration française et en partie dans une organisation internationale.
 
-III. - En outre, un emploi vacant sur cinq dans le grade d'inspecteur général peut être pourvu en application de l'article 8 de la loi du 13 septembre 1984 susvisée. Nul ne peut être nommé inspecteur général à ce titre s'il n'est âgé de cinquante ans accomplis.
+III. - En outre, un emploi vacant sur cinq dans le grade d'inspecteur général peut être pourvu en application de l'article 8 de la loi du 13 septembre 1984 susvisée. Nul ne peut être nommé inspecteur général à ce titre s'il n'est âgé de quarante cinq ans accomplis.
 
 IV. - A l'intérieur de chaque cycle de cinq nominations, les trois premières interviennent en application des dispositions du I du présent article, la quatrième en application du II et la cinquième peut intervenir en application du III.
 
