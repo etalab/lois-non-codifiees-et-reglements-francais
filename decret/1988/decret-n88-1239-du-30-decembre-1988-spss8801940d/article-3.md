@@ -1,0 +1,5 @@
+# Article 3
+
+Nonobstant les dispositions des deux premiers alinéas de l'article L. 815-10 du code de la sécurité sociale, les organismes et services sont autorisés à porter, à titre provisionnel, le montant total des avantages qu'ils servent à des bénéficiaires de l'allocation supplémentaire au montant annuel de 33 580 F pour une personne seule et de 60 260 F pour deux époux à compter du 1er janvier 1989, et à 33 990 F pour une personne seule et à 60 990 F pour deux époux à compter du 1er juillet 1989. Cette faculté prend fin lors de la révision des avantages de vieillesse dont les intéressés sont titulaires. Elle ne pourra en aucun cas être exercée au-delà du 1er janvier 1990 s'agissant de la revalorisation intervenue au 1er janvier 1989 et au-delà du 1er juillet 1990 s'agissant de la revalorisation intervenue au 1er juillet 1989.
+
+Les dispositions du présent article ne sont pas applicables aux titulaires de plusieurs avantages de vieillesse servis par des organismes ou services différents.

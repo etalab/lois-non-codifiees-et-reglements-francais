@@ -1,0 +1,3 @@
+# Article 11
+
+Les baux en cours sont, à la demande de l'une ou de l'autre des parties, mis en conformité avec les dispositions de l'article L. 411-11 du code rural par accord amiable ou, à défaut, par le tribunal paritaire des baux ruraux saisi par la partie la plus diligente. Sauf accord des parties, cette mise en conformité prend effet, soit trois ans après la publication de la décision fixant les maxima et les minima prévus à l'article L. 411-11 du code rural, soit dès le premier jour du mois suivant la publication de cette décision lorsque des améliorations ont été apportées par le bailleur aux bâtiments d'habitation depuis six ans au plus.

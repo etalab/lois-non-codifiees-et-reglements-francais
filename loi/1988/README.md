@@ -11,6 +11,8 @@
 - [Loi n° 88-1149 du 23 décembre 1988 (ECOX8800121L)](loi-n-88-1149-du-23-decembre-1988-ecox8800121l)
 - [Loi n° 88-1193 du 29 décembre 1988 (ECOX8800157L)](loi-n-88-1193-du-29-decembre-1988-ecox8800157l)
 - [Loi n° 88-12 du 5 janvier 1988 (CLRX8700126L)](loi-n-88-12-du-5-janvier-1988-clrx8700126l)
+- [Loi n° 88-1201 du 23 décembre 1988 (ECOX8800123L)](loi-n-88-1201-du-23-decembre-1988-ecox8800123l)
+- [Loi n° 88-1202 du 30 décembre 1988 (AGRX8800119L)](loi-n-88-1202-du-30-decembre-1988-agrx8800119l)
 - [Loi n° 88-13 du 5 janvier 1988 (INTX8700039L)](loi-n-88-13-du-5-janvier-1988-intx8700039l)
 - [Loi n° 88-14 du 5 janvier 1988 (ECOX8700025L)](loi-n-88-14-du-5-janvier-1988-ecox8700025l)
 - [Loi n° 88-15 du 5 janvier 1988 (COMX8700028L)](loi-n-88-15-du-5-janvier-1988-comx8700028l)

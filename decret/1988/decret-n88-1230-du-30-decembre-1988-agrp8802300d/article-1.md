@@ -1,0 +1,3 @@
+# Article 1
+
+En vue de permettre l'exécution par le Bureau national interprofessionnel de l'Armagnac des missions qui lui sont dévolues par le décret du 8 janvier 1962 susvisé, il est institué pour une durée d'un an à compter de la publication du présent décret dans la limite des taux fixés à l'article 4 ci-dessous, une taxe parafiscale sur les vins et eaux-de-vie produits dans la région délimitée Armagnac qui est assise, liquidée et recouvrée suivant les mêmes règles, sous les mêmes garanties et avec les mêmes sanctions qu'en matière de contributions indirectes sous réserve des dispositions ci-après.
