@@ -4,42 +4,10 @@ La cotisation annuelle des vétérinaires est calculée en fonction d'un certain
 
 La valeur moyenne de l'acte médical est constatée par le conseil supérieur de l'ordre des vétérinaires.
 
-Le nombre d'actes médicaux servant de base au calcul de la cotisation annuelle du régime d'assurance complémentaire des vétérinaires est fixé, conformément au tableau suivant, selon l'âge atteint par les intéressés au cours de l'année pour laquelle la cotisation est versée :
+Le nombre d'actes médicaux servant de base au calcul de la cotisation annuelle du régime d'assurance vieillesse complémentaire des vétérinaires est fixé à 144 pour les intéressés âgés de moins de trente-deux ans ou de plus de soixante-cinq ans et à 228 pour les assurés âgés de trente-deux ans à soixante-cinq ans. L'âge entrant en ligne de compte est l'âge du vétérinaire au premier jour du semestre pour lequel la cotisation est versée.
 
-Age : Moins de trente-cinq ans
+La cotisation définie au précédant alinéa constitue la cotisation de la classe obligatoire dite classe A.
 
-Nombre d'actes : 144
+Les vétérinaires dont les revenus professionnels libéraux sont inférieurs aux plafonds définis par les statuts visés à l'article 4 peuvent demander, dans les conditions prévues par lesdits statuts, à opter pour l'une des deux classes spéciales I et II. Les cotisations de la classe I sont fixées à 48 actes médicaux vétérinaires pour les intéressés âgés de moins de trente-deux ans ou de plus de soixante-cinq ans et à 76 actes médicaux vétérinaires pour les intéressés âgés de trente-deux ans à soixante-cinq ans. Les cotisations de la classe II sont fixées à 96 actes médicaux vétérinaires pour les intéressés âgés de moins de trente-deux ans ou de plus de soixante-cinq ans et à 152 actes médicaux vétérinaires pour les intéressés âgés de trente-deux ans à soixante-cinq ans.    Des exonérations pourront être accordées par le conseil d'administration de la section dans les conditions prévues par les statuts visés à l'article 4 en cas de maladie, invalidité, infortune notoire constatée.
 
-Age : Trente-cinq ans à soixante-cinq ans
-
-Nombre d'actes : 228
-
-Age : Plus de soixante-cinq ans :
-
-Nombre d'actes : 144
-
-La cotisation définie au précédent alinéa constitue la cotisation de la classe obligatoire dite classe A.
-
-Les vétérinaires dont les revenus professionnels libéraux sont inférieurs aux plafonds définis par les statuts visés à l'article 4 peuvent demander, dans les conditions prévues par lesdits statuts, à opter pour l'une des deux classes spéciales I et II. Les cotisations de ces classes spéciales sont fixées conformément au tableau ci-dessous :
-
-Classes : Classe spéciale I
-
-Nombres d'actes :
-
-Moins de 35 ans : 48
-
-De 35 ans à 65 ans : 76
-
-Plus de 65 ans : 48.
-
-Classes : Classe spéciale II
-
-Nombres d'actes :
-
-Moins de 35 ans : 96
-
-De 35 ans à 65 ans : 152
-
-Plus de 65 ans : 96.
-
-Des exonérations pourront être accordées par le conseil d'administration de la section dans les conditions prévues par les statues visés à l'article 4 en cas de maladie, invalidité, infortune notoire constatée.
+A titre transitoire, l'âge en deçà duquel les jeunes vétérinaires bénéficient des cotisations minorées fixées à 144, 48 et 96 actes médicaux vétérinaires par les troisième et cinquième alinéas du présent article est de trente-quatre ans pour les années 1993 et 1994 et de trente-trois ans pour les années 1995 et 1996.

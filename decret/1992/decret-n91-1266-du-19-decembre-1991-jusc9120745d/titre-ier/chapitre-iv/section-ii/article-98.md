@@ -14,7 +14,7 @@ La part contributive de l'Etat versée à l'avocat ou à l'officier public ou mi
 </tr>
 <tr>
 <td valign="top" width="307">
-<p>4 400 à 4 600</p>
+<p>4523 à 4729</p>
 </td>
 <td valign="top" width="307">
 <p align="center">85</p>
@@ -22,7 +22,7 @@ La part contributive de l'Etat versée à l'avocat ou à l'officier public ou mi
 </tr>
 <tr>
 <td valign="top" width="307">
-<p>4 601 à 4 850</p>
+<p>4730 à 4986</p>
 </td>
 <td valign="top" width="307">
 <p align="center">70</p>
@@ -30,7 +30,7 @@ La part contributive de l'Etat versée à l'avocat ou à l'officier public ou mi
 </tr>
 <tr>
 <td valign="top" width="307">
-<p>4 851 à 5 200</p>
+<p>4987 à 5346</p>
 </td>
 <td valign="top" width="307">
 <p align="center">55</p>
@@ -38,7 +38,7 @@ La part contributive de l'Etat versée à l'avocat ou à l'officier public ou mi
 </tr>
 <tr>
 <td valign="top" width="307">
-<p>5 201 à 5 600</p>
+<p>5347 à 5757</p>
 </td>
 <td valign="top" width="307">
 <p align="center">40</p>
@@ -46,7 +46,7 @@ La part contributive de l'Etat versée à l'avocat ou à l'officier public ou mi
 </tr>
 <tr>
 <td valign="top" width="307">
-<p>5 601 à 6 100</p>
+<p>5758 à 6271</p>
 </td>
 <td valign="top" width="307">
 <p align="center">25</p>
@@ -54,7 +54,7 @@ La part contributive de l'Etat versée à l'avocat ou à l'officier public ou mi
 </tr>
 <tr>
 <td valign="top" width="307">
-<p>6 101 à 6 599</p>
+<p>6272 à 6784</p>
 </td>
 <td valign="top" width="307">
 <p align="center">15</p>

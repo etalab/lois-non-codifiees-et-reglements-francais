@@ -65,23 +65,23 @@
 <td> :-----------------------------:</td>
 </tr>
 <tr>
-<td> : Francfort         : 1372,90 :</td>
+<td> : Francfort         : 1400,61 :</td>
 </tr>
 <tr>
-<td> : Londres           :  936,96 :</td>
+<td> : Londres           :  944,48 :</td>
 </tr>
 <tr>
-<td> : Paris             : 1212,04 :</td>
+<td> : Paris             : 1227,98 :</td>
 </tr>
 <tr>
-<td> : Prestwick         :  490,84 :</td>
+<td> : Prestwick         :  494,79 :</td>
 </tr>
 <tr>
 <td> :-----------------------------:</td>
 </tr>
-<tr>
-<td/>
-</tr>
+</table>
+
+<table>
 <tr>
 <td> :-----------------------------:</td>
 </tr>
@@ -125,245 +125,266 @@
 <td> :-------------------:---------:</td>
 </tr>
 <tr>
-<td> : Abidjan           :  187,65 :</td>
+<td> : Abidjan           :  143,62 :</td>
 </tr>
 <tr>
-<td> : Amman             : 1742,09 :</td>
+<td> : Amman             : 1658,94 :</td>
 </tr>
 <tr>
-<td> : Amsterdam         :  901,32 :</td>
+<td> : Amsterdam         :  916,02 :</td>
 </tr>
 <tr>
-<td> : Athènes           : 1198,74 :</td>
+<td> : Athènes           : 1247,79 :</td>
 </tr>
 <tr>
-<td> : Bâle-Mulhouse    :  905,74 :</td>
+<td> : Bâle-Mulhouse    :  936,75 :</td>
 </tr>
 <tr>
-<td> : Banjul            :  181,85 :</td>
+<td> : Banjul            :  139,18 :</td>
 </tr>
 <tr>
-<td> : Barcelone         :  717,86 :</td>
+<td> : Barcelone         :  763,78 :</td>
 </tr>
 <tr>
-<td> : Belfast           :  208,98 :</td>
+<td> : Belfast           :  210,15 :</td>
 </tr>
 <tr>
-<td> : Belgrade          : 1455,16 :</td>
+<td> : Belgrade          : 1510,53 :</td>
 </tr>
 <tr>
-<td> : Berlin            : 1159,19 :</td>
+<td> : Berlin            : 1019,96 :</td>
 </tr>
 <tr>
-<td> : Birmingham        :  513,24 :</td>
+<td> : Birmingham        :  516,55 :</td>
 </tr>
 <tr>
-<td> : Bordeaux          :  506,00 :</td>
+<td> : Bordeaux          :  522,96 :</td>
 </tr>
 <tr>
-<td> : Bruxelles         :  843,65 :</td>
+<td> : Bristol           :  511,89 :</td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td>: Budapest          : 1456,64 :</td>
+<td>: Bruxelles         :  871,22 :</td>
 </tr>
 <tr>
-<td> : Le Caire          : 1689,45 :</td>
+<td> : Budapest          : 1449,90 :</td>
 </tr>
 <tr>
-<td> : Cardiff           :  323,26 :</td>
+<td> : Le Caire          : 1462,61 :</td>
 </tr>
 <tr>
-<td> : Casablanca        :  434,30 :</td>
+<td> : Cardiff           :  323,56 :</td>
 </tr>
 <tr>
-<td> : Dakar             :  190,98 :</td>
+<td> : Casablanca        :  347,85 :</td>
 </tr>
 <tr>
-<td> : Dublin            :  139,22 :</td>
+<td> : Dakar             :  139,07 :</td>
 </tr>
 <tr>
-<td> : Dubrovnik         : 1397,91 :</td>
+<td> : Dublin            :  138,78 :</td>
 </tr>
 <tr>
-<td> : Düsseldorf       : 1012,85 :</td>
+<td> : Dubrovnik         : 1431,82 :</td>
 </tr>
 <tr>
-<td> : Francfort         : 1095,44 :</td>
+<td> : Düsseldorf       : 1043,85 :</td>
 </tr>
 <tr>
-<td> : Genève            :  856,81 :</td>
+<td> : East Midlands     :  527,25 :</td>
 </tr>
 <tr>
-<td> : Glasgow           :  316,36 :</td>
+<td> : Francfort         : 1130,62 :</td>
 </tr>
 <tr>
-<td> : Hambourg          : 1031,51 :</td>
+<td> : Genève            :  901,29 :</td>
 </tr>
 <tr>
-<td> : Helsinki          :  533,89 :</td>
+<td> : Glasgow           :  318,73 :</td>
 </tr>
 <tr>
-<td> : Jeddah            : 1098,48 :</td>
+<td> : Hambourg          : 1050,48 :</td>
 </tr>
 <tr>
-<td> : Copenhague        :  833,11 :</td>
+<td> : Helsinki          :  550,48 :</td>
 </tr>
 <tr>
-<td> : Cologne-Bonn      :  969,84 :</td>
+<td> : Istanbul-Ataturk  : 1532,05 :</td>
 </tr>
 <tr>
-<td> : Lagos             :  182,72 :</td>
+<td> : Jeddah            : 1599,76 :</td>
+</tr>
+<tr>
+<td> : Kiev              : 1071,99 :</td>
+</tr>
+<tr>
+<td> : Copenhague        :  829,70 :</td>
+</tr>
+<tr>
+<td> : Cologne-Bonn      : 1064,46 :</td>
+</tr>
+<tr>
+<td> : Lagos             :  139,84 :</td>
+</tr>
+<tr>
+<td> : Lamezia Terme     : 1171,86 :</td>
 </tr>
 <tr>
 <td> : Las Palmas,       :         :</td>
 </tr>
 <tr>
-<td> : Grande Canaries   :  584,64 :</td>
+<td> : Grande Canaries   :  485,93 :</td>
 </tr>
 <tr>
-<td> : Lille             :  747,68 :</td>
+<td> : Lille             :  757,70 :</td>
 </tr>
 <tr>
-<td> : Lisbonne          :  488,08 :</td>
+<td> : Lisbonne          :  397,16 :</td>
 </tr>
 <tr>
-<td> : Ljubljana         : 1333,50 :</td>
+<td> : Ljubljana         : 1367,13 :</td>
 </tr>
 <tr>
-<td> : Londres           :  596,46 :</td>
+<td> : Londres           :  599,20 :</td>
 </tr>
 <tr>
-<td> : Luxembourg        :  973,80 :</td>
+<td> : Luxembourg        : 1024,75 :</td>
 </tr>
 <tr>
-<td> : Lyon              :  792,41 :</td>
+<td> : Lyon              :  926,03 :</td>
 </tr>
 <tr>
-<td> : Maastricht        :  919,40 :</td>
+<td> : Maastricht        :  958,25 :</td>
 </tr>
 <tr>
-<td> : Madrid            :  523,48 :</td>
+<td> : Madrid            :  553,72 :</td>
 </tr>
 <tr>
-<td> : Malaga            :  726,49 :</td>
+<td> : Malaga            :  633,66 :</td>
 </tr>
 <tr>
-<td> : Manchester        :  463,53 :</td>
+<td> : Manchester        :  466,38 :</td>
 </tr>
 <tr>
-<td> : Manston           :  668,82 :</td>
+<td> : Manston           :  678,13 :</td>
 </tr>
 <tr>
-<td> : Milan             :  973,24 :</td>
+<td> : Marseille         :  931,10 :</td>
 </tr>
 <tr>
-<td> : Monrovia          :  181,85 :</td>
+<td> : Milan             : 1038,92 :</td>
 </tr>
 <tr>
-<td> : Moscou            :  555,27 :</td>
+<td> : Monrovia          :  139,18 :</td>
 </tr>
 <tr>
-<td> : Munich            : 1321,33 :</td>
+<td> : Moscou            :  594,09 :</td>
 </tr>
 <tr>
-<td> : Nantes            :  474,12 :</td>
+<td> : Munich            : 1309,43 :</td>
 </tr>
 <tr>
-<td> : Naples-Capodichino: 1017,81 :</td>
+<td> : Nantes            :  486,84 :</td>
 </tr>
 <tr>
-<td> : Newcastle         :  502,39 :</td>
+<td> : Naples-Capodichino: 1048,81 :</td>
 </tr>
 <tr>
-<td> : Nice              :  984,43 :</td>
+<td> : Newcastle         :  491,27 :</td>
 </tr>
 <tr>
-<td> : Ostende           :  756,06 :</td>
+<td> : Nice              :  938,23 :</td>
 </tr>
 <tr>
-<td> : Oslo              :  554,94 :</td>
+<td> : Ostende           :  766,75 :</td>
 </tr>
 <tr>
-<td> : Paris             :  729,72 :</td>
+<td> : Oslo              :  614,37 :</td>
 </tr>
 <tr>
-<td> : Pise              :  838,93 :</td>
+<td> : Paris             :  730,73 :</td>
 </tr>
 <tr>
 <td> : Ponta Delgada,    :         :</td>
 </tr>
 <tr>
-<td> : Açores            :  188,66 :</td>
+<td> : Açores            :  144,39 :</td>
 </tr>
 <tr>
-<td> : Porto             :  344,48 :</td>
+<td> : Porto             :  290,86 :</td>
 </tr>
 <tr>
-<td> : Prague            : 1199,22 :</td>
+<td> : Prague            : 1313,45 :</td>
 </tr>
 <tr>
-<td> : Prestwick         :  316,36 :</td>
+<td> : Prestwick         :  318,73 :</td>
 </tr>
 <tr>
-<td> : Riyadh            : 1577,89 :</td>
+<td> : Riyadh            : 1570,04 :</td>
 </tr>
 <tr>
-<td> : Rome              : 1014,99 :</td>
-</tr>
-<tr>
-<td> : Sal I., Cabo Verde:  212,28 :</td>
-</tr>
-<tr>
-<td> : Santa Maria, Açores  201,85 :</td>
-</tr>
-<tr>
-<td> : Santiago, Espagne :  244,20 :</td>
-</tr>
-<tr>
-<td> : Shannon           :   92,00 :</td>
-</tr>
-<tr>
-<td> : Stockholm         :  554,94 :</td>
+<td> : Rome              : 1075,36 :</td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td>: Stuttgart         : 1104,42 :</td>
+<td>: Sal I., Cabo Verde:  139,07 :</td>
 </tr>
 <tr>
-<td> : Tel-Aviv          : 1514,00 :</td>
+<td> : Santa Maria, Açores  154,48 :</td>
 </tr>
 <tr>
-<td> : Tenerife          :  506,72 :</td>
+<td> : Santiago, Espagne :  254,19 :</td>
 </tr>
 <tr>
-<td> : Turin             : 1069,34 :</td>
+<td> : Shannon           :   91,31 :</td>
 </tr>
 <tr>
-<td> : Toulouse-lagnac   :  664,05 :</td>
+<td> : Sofia             : 1586,39 :</td>
 </tr>
 <tr>
-<td> : Varsovie          :  763,01 :</td>
+<td> : Stockholm         :  614,37 :</td>
 </tr>
 <tr>
-<td> : Vienne            : 1424,91 :</td>
+<td> : Stuttgart         : 1148,35 :</td>
 </tr>
 <tr>
-<td> : Zagreb            : 1455,16 :</td>
+<td> : Tel-Aviv          : 1627,04 :</td>
 </tr>
 <tr>
-<td> : Zurich            : 1053,57 :</td>
+<td> : Tenerife          :  445,47 :</td>
+</tr>
+<tr>
+<td> : Turin             : 1094,79 :</td>
+</tr>
+<tr>
+<td> : Toulouse-lagnac   :  692,86 :</td>
+</tr>
+<tr>
+<td> : Varsovie          :  941,77 :</td>
+</tr>
+<tr>
+<td> : Venise            : 1236,32 :</td>
+</tr>
+<tr>
+<td> : Vienne            : 1430,59 :</td>
+</tr>
+<tr>
+<td> : Zagreb            : 1501,62 :</td>
+</tr>
+<tr>
+<td> : Zurich            : 1066,90 :</td>
 </tr>
 <tr>
 <td> :---------------------------- :</td>
 </tr>
-<tr>
-<td/>
-</tr>
+</table>
+
+<table>
 <tr>
 <td> :-----------------------------:</td>
 </tr>
@@ -401,53 +422,53 @@
 <td> :-----------------------------:</td>
 </tr>
 <tr>
-<td> : Amsterdam         : 1036,35 :</td>
+<td> : Amsterdam         : 1052,69 :</td>
 </tr>
 <tr>
-<td> : Düsseldorf       : 1117,76 :</td>
+<td> : Düsseldorf       : 1145,79 :</td>
 </tr>
 <tr>
-<td> : Francfort         : 1148,50 :</td>
+<td> : Francfort         : 1172,48 :</td>
 </tr>
 <tr>
-<td> : Genève            : 1340,14 :</td>
+<td> : Genève            : 1367,86 :</td>
 </tr>
 <tr>
-<td> : Copenhague        :  855,38 :</td>
+<td> : Copenhague        :  763,99 :</td>
 </tr>
 <tr>
-<td> : Londres           :  875,68 :</td>
+<td> : Londres           :  862,26 :</td>
 </tr>
 <tr>
-<td> : Luxembourg        : 1232,88 :</td>
+<td> : Luxembourg        : 1287,60 :</td>
 </tr>
 <tr>
-<td> : Madrid            :  395,02 :</td>
+<td> : Madrid            :  439,89 :</td>
 </tr>
 <tr>
-<td> : Manchester        :  694,93 :</td>
+<td> : Manchester        :  700,45 :</td>
 </tr>
 <tr>
-<td> : Milan             : 1046,37 :</td>
+<td> : Milan             : 1075,75 :</td>
 </tr>
 <tr>
-<td> : Paris             :  981,41 :</td>
+<td> : Paris             :  996,92 :</td>
 </tr>
 <tr>
-<td> : Prestwick         :  438,21 :</td>
+<td> : Prestwick         :  441,74 :</td>
 </tr>
 <tr>
-<td> : Shannon           :   87,64 :</td>
+<td> : Shannon           :   86,99 :</td>
 </tr>
 <tr>
-<td> : Zurich            : 1430,76 :</td>
+<td> : Zurich            : 1451,36 :</td>
 </tr>
 <tr>
 <td> :-----------------------------:</td>
 </tr>
-<tr>
-<td/>
-</tr>
+</table>
+
+<table>
 <tr>
 <td> :-----------------------------:</td>
 </tr>
@@ -472,8 +493,11 @@
 <tr>
 <td> :-----------------------------:</td>
 </tr>
+</table>
+
+<table>
 <tr>
-<td> :    AERODROMES     :         :</td>
+<td>:    AERODROMES     :         :</td>
 </tr>
 <tr>
 <td> :   (de première    :   (1)   :</td>
@@ -491,86 +515,95 @@
 <td> :-----------------------------:</td>
 </tr>
 <tr>
-<td> : Amsterdam         :  941,61 :</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td>: Berlin-Schonefeld : 1054,87 :</td>
+<td> : Amsterdam         :  880,12 :</td>
 </tr>
 <tr>
-<td> : Bruxelles         :  822,97 :</td>
+<td> : Barcelone         :  871,34 :</td>
 </tr>
 <tr>
-<td> : Düsseldorf       :  986,83 :</td>
+<td> : Berlin            : 1063,00 :</td>
 </tr>
 <tr>
-<td> : Francfort         :  996,84 :</td>
+<td> : Bruxelles         :  895,38 :</td>
 </tr>
 <tr>
-<td> : Helsinki          :  540,59 :</td>
+<td> : Düsseldorf       : 1001,655:</td>
 </tr>
 <tr>
-<td> : Copenhague        :  864,08 :</td>
+<td> : Francfort         : 1064,46 :</td>
 </tr>
 <tr>
-<td> : Cologne-Bonn      :  998,18 :</td>
+<td> : Goteborg          :  738,11 :</td>
 </tr>
 <tr>
-<td> : Londres           :  601,15 :</td>
+<td> : Hamburg           : 1040,12 :</td>
 </tr>
 <tr>
-<td> : Madrid            :  732,75 :</td>
+<td> : Helsinki          :  544,94 :</td>
 </tr>
 <tr>
-<td> : Manchester        :  424,26 :</td>
+<td> : Copenhague        :  870,60 :</td>
 </tr>
 <tr>
-<td> : Milan             :  912,67 :</td>
+<td> : Cologne-Bonn      : 1020,79 :</td>
 </tr>
 <tr>
-<td> : Munich            : 1137,43 :</td>
+<td> : Lisbonne          :  450,80 :</td>
 </tr>
 <tr>
-<td> : Oslo              :  547,29 :</td>
+<td> : Londres           :  587,16 :</td>
 </tr>
 <tr>
-<td> : Paris             :  588,65 :</td>
+<td> : Madrid            :  639,04 :</td>
 </tr>
 <tr>
-<td> : Prague            : 1202,24 :</td>
+<td> : Manchester        :  418,59 :</td>
 </tr>
 <tr>
-<td> : Rome              :  974,65 :</td>
+<td> : Milan             :  981,49 :</td>
 </tr>
 <tr>
-<td> : Sal I., Cabo Verde:  118,67 :</td>
+<td> : Munich            : 1191,92 :</td>
+</tr>
+<tr>
+<td> : Oslo              :  551,69 :</td>
+</tr>
+<tr>
+<td> : Paris             :  655,71 :</td>
+</tr>
+<tr>
+<td> : Prague            : 1245,53 :</td>
+</tr>
+<tr>
+<td> : Rome              : 1101,75 :</td>
+</tr>
+<tr>
+<td> : Sal I., Cabo Verde:   90,83 :</td>
 </tr>
 <tr>
 <td> : Santa Maria       :         :</td>
 </tr>
 <tr>
-<td> : Açores            :  203,00 :</td>
+<td> : Açores            :  155,37 :</td>
 </tr>
 <tr>
-<td> : Shannon           :  193,45 :</td>
+<td> : Shannon           :  171,11 :</td>
 </tr>
 <tr>
-<td> : Stockholm         :  603,36 :</td>
+<td> : Stockholm         :  608,09 :</td>
 </tr>
 <tr>
-<td> : Vienne            : 1369,10 :</td>
+<td> : Vienne            : 1373,50 :</td>
 </tr>
 <tr>
-<td> : Zurich            :  955,28 :</td>
+<td> : Zurich            :  990,12.:</td>
 </tr>
 <tr>
 <td> :-----------------------------:</td>
 </tr>
-<tr>
-<td/>
-</tr>
+</table>
+
+<table>
 <tr>
 <td> :-----------------------------:</td>
 </tr>
@@ -611,98 +644,102 @@
 <td> :-----------------------------:</td>
 </tr>
 <tr>
-<td> : Amsterdam         : 1106,46 :</td>
+<td> : Amsterdam         : 1042,38 :</td>
 </tr>
 <tr>
-<td> : Bâle-Mulhouse    : 1168,92 :</td>
+<td> : Bâle-Mulhouse    :  995,07 :</td>
 </tr>
 <tr>
-<td> : Bordeaux          :  898,52 :</td>
+<td> : Barcelone         :  905,80 :</td>
 </tr>
 <tr>
-<td> : Düsseldorf       : 1062,00 :</td>
+<td> : Bordeaux          :  712,07 :</td>
 </tr>
 <tr>
-<td> : Francfort         : 1117,77 :</td>
-</tr>
-<tr>
-<td> : Helsinki          :  779,71 :</td>
-</tr>
-<tr>
-<td> : Cologne-Bonn      : 1080,99 :</td>
-</tr>
-<tr>
-<td> : Las Palmas,       :         :</td>
-</tr>
-<tr>
-<td> :  Gran Canaria     :  659,04 :</td>
-</tr>
-<tr>
-<td> : Lisbonne          :  664,13 :</td>
-</tr>
-<tr>
-<td> : Londres           :  877,79 :</td>
-</tr>
-<tr>
-<td> : Lyon              : 1091,59 :</td>
-</tr>
-<tr>
-<td> : Madrid            :  837,23 :</td>
-</tr>
-<tr>
-<td> : Manchester        :  677,30 :</td>
-</tr>
-<tr>
-<td> : Marseille         : 1199,37 :</td>
-</tr>
-<tr>
-<td> : Milan             : 1249,59 :</td>
+<td> : Düsseldorf       : 1158,05 :</td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td>: Nantes            :  733,52 :</td>
+<td>: Francfort         : 1106,92 :</td>
 </tr>
 <tr>
-<td> : Paris             :  943,57 :</td>
+<td> : Helsinki          :  706,40 :</td>
 </tr>
 <tr>
-<td> : Porto             :  645,77 :</td>
+<td> : Cologne-Bonn      : 1084,10 :</td>
 </tr>
 <tr>
-<td> : Porto Santo, Madère  408,83 :</td>
+<td> : Las Palmas,       :         :</td>
 </tr>
 <tr>
-<td> : Prestwick         :  417,31 :</td>
+<td> :  Gran Canaria     :  620,81 :</td>
 </tr>
 <tr>
-<td> : Rome              : 1281,67 :</td>
+<td> : Lisbonne          :  534,39 :</td>
 </tr>
 <tr>
-<td> : Santa Maria, Açores  265,60 :</td>
+<td> : Londres           :  808,54 :</td>
 </tr>
 <tr>
-<td> : Santiago, Espagne :  618,04 :</td>
+<td> : Lyon              :  947,80 :</td>
 </tr>
 <tr>
-<td> : Shannon           :  316,42 :</td>
+<td> : Madrid            :  722,27 :</td>
 </tr>
 <tr>
-<td> : Stockholm         : 1253,95 :</td>
+<td> : Manchester        :  625,37 :</td>
 </tr>
 <tr>
-<td> : Tenerife          :  653,93 :</td>
+<td> : Marseille         : 1123,24 :</td>
 </tr>
 <tr>
-<td> : Toulouse-Blagnac  : 1027,81 :</td>
+<td> : Milan             : 1118,92 :</td>
 </tr>
 <tr>
-<td> : Zurich            : 1166,34 :</td>
+<td> : Munich            : 1183,48 :</td>
 </tr>
 <tr>
-<td> :-----------------------------:</td>
+<td> : Nantes            :  670,47 :</td>
+</tr>
+<tr>
+<td> : Paris             :  826,66 :</td>
+</tr>
+<tr>
+<td> : Porto             :  519,53 :</td>
+</tr>
+<tr>
+<td> : Porto Santo, Madère  320,25 :</td>
+</tr>
+<tr>
+<td> : Prestwick         :  393,95 :</td>
+</tr>
+<tr>
+<td> : Rome              : 1237,17 :</td>
+</tr>
+<tr>
+<td> : Santa Maria, Açores  203,28 :</td>
+</tr>
+<tr>
+<td> : Santiago, Espagne :  523,34 :</td>
+</tr>
+<tr>
+<td> : Shannon           :  264,78 :</td>
+</tr>
+<tr>
+<td> : Stockholm         : 1257,79 :</td>
+</tr>
+<tr>
+<td> : Tenerife          :  615,53 :</td>
+</tr>
+<tr>
+<td> : Toulouse-Blagnac  :  670,47 :</td>
+</tr>
+<tr>
+<td> : Zurich            : 1097,57 :</td>
+</tr>
+<tr>
+<td> :-----------------------------: (1) Montant de la redevance en ECU pour un aéronef dont le coefficient poids est égal à un (50 tonnes métriques)</td>
 </tr>
 </table>
-
-(1) Montant de la redevance en ECU pour un aéronef dont le coefficient poids est égal à un (50 tonnes métriques)

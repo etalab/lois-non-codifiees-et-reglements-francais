@@ -1,0 +1,3 @@
+# Article 4
+
+Le ministre chargé de l'énergie est habilité, en ce qui concerne les ressources et produits énumérés à l'article 1er, à prendre, si elles s'avèrent nécessaires, toutes décisions et mesures prévues au quatrième alinéa de l'article 1er de la loi du 29 octobre 1974 susvisée. Toutefois, ces mesures sont prises conjointement par le ministre chargé de l'énergie et les ministres chargés de l'économie, des finances et du budget, lorsqu'elles touchent à des dispositions dont l'élaboration ou l'application incombent à ces derniers en vertu de la législation douanière ou fiscale, ou aux relations financières avec l'étranger.

@@ -1,0 +1,3 @@
+# Article 1
+
+Les éléments constitutifs de la documentation technique de fabrication exigée par les articles R. 233-75 et R. 233-76 du code du travail, ralative aux machines, accessoires de levage, composants d'accessoires de levage, structures de protection en cas de retournement et structures de protection contre les chutes d'objets, neufs ou considérés comme neufs, respectivement visés aux 1°, 3° et 4° de l'article R. 233-83 et aux 1° et 2° de l'article R. 233-83-2, et aux équipements de protection individuelle neufs ou considérés comme neufs visés à l'article R. 233-83-3, sont précisés par les annexes I et II du présent arrêté.

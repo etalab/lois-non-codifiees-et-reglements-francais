@@ -8,4 +8,4 @@ Par dérogation à la règle de rattachement de l'allocation à la caisse d'allo
 
 - la caisse nationale d'allocations familiales des marins du commerce ;
 
-- les unions régionales de sociétés de secours minières dans les conditions prévues à l'article 84, dernier alinéa du décret n° 46-2769 du 27 novembre 1946.
+- les unions régionales de sociétés de secours minières dans les conditions prévues à l'article 207, dernier alinéa du décret du 27 novembre 1946 susvisé.

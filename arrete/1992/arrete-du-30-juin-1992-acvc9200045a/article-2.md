@@ -14,10 +14,6 @@ Pour le calcul des ressources visées à l'article 1er du présent arrêté, son
 
 - les pensions civiles et militaires de retraite ;
 
-- les revenus professionnels nets du conjoint ou du concubin, au-delà de la somme définie en application de l'article 1er.
-
-Lorsque le ménage a des enfants à charge, sont pris en compte les revenus professionnels nets du conjoint ou du concubin, au-delà de la somme définie en application de l'article 1er, divisés par le quotient familial minoré d'un part.
-
 Sont exclus :
 
 - les allocations familiales et plus généralement toutes prestations sociales servies en faveur d'un enfant ;

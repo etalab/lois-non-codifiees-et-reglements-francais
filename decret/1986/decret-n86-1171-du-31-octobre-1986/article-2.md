@@ -1,5 +1,7 @@
 # Article 2
 
-Les directeurs et les enseignants à titre permanent des établissements d'enseignement supérieur agricole privés sous contrat doivent [*obligation*] détenir l'un des titres ou diplômes énumérés à l'annexe II au présent décret.
+Les enseignants à titre permanent des établissements d'enseignement supérieur agricole privés sous contrat doivent détenir l'un des titres ou diplômes énumérés à l'annexe II du présent décret ou, s'ils détiennent des titres ou diplômes étrangers, ceux admis en équivalence par une commission dont la composition est fixée par arrêté du ministre chargé de l'agriculture.
 
-A titre exceptionnel, et pendant une durée de cinq ans à compter de la première rentrée scolaire suivant l'entrée en vigueur du présent décret, le ministre de l'agriculture peut accorder une dérogation aux personnels enseignants et de direction en fonctions qui ne remplissent pas les conditions posées à l'alinéa précédent, en prenant en considération, d'une part, les autres titres et diplômes détenus par les intéressés et, d'autre part, leur expérience professionnelle.
+Les titres ou diplômes étrangers ne peuvent être retenus que s'ils sont d'un niveau au moins équivalent à l'un de ceux mentionnés aux 2 et 7 de l'annexe II lorsqu'ils sont délivrés par un Etat membre de la Communauté économique européenne, au 2 lorsqu'ils sont délivrés dans un pays n'appartenant pas à ladite communauté.
+
+La commission prévue au premier alinéa du présent article apprécie les conditions d'expérience professionnelle éventuellement requises aux 7 et 8 de l'annexe II.

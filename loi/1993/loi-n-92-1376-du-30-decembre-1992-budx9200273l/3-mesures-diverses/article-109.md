@@ -1,0 +1,3 @@
+# Article 109
+
+Les vérifications de comptabilité engagées par la direction nationale des vérifications de situations fiscales avant l'entrée en vigueur de l'arrêté du 28 septembre 1992 modifiant l'arrêté du 17 mars 1983 portant réorganisation de certaines directions des services extérieurs de la direction générale des impôts sont réputées régulières en tant qu'elles sont contestées par le moyen tiré de l'absence d'engagement d'une vérification approfondie de la situation fiscale d'ensemble ou de l'examen contradictoire de la situation fiscale personnelle d'une personne physique ayant des liens avec la personne physique ou morale dont la comptabilité fait l'objet d'une vérification.

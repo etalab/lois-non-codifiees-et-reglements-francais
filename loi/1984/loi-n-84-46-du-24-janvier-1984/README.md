@@ -4,6 +4,7 @@
 - [Titre II : Elaboration et mise en oeuvre des règles applicables aux établissements de crédit](titre-ii)
 - [Titre III : Contrôle des établissements de crédit](titre-iii)
 - [Titre IV : Protection des déposants et des emprunteurs](titre-iv)
+- [Titre IV bis : Libre établissement et libre prestation de services sur le territoire des Etats membres des communautés européennes.](titre-iv-bis)
 - [Titre V : Compagnies financières.](titre-v)
 - [Titre VI : Sanctions pénales.](titre-vi)
 - [Titre VII : Dispositions diverses et transitoires](titre-vii)

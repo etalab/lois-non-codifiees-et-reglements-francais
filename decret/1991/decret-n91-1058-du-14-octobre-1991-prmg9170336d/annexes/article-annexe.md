@@ -18,11 +18,21 @@ Chef d'atelier chargé de la coordination du travail des ouvriers professionnels
 
 Secrétaire polyvalente chargée, au central dactylographique de la direction des services administratifs et financiers, d'assurer les remplacements temporaires dans les différents cabinets et services.
 
-Direction générale de l'administration
+Responsable de la section Rémunérations à la direction des services administratifs et financiers ;
 
-et de la fonction publique
+Agent polyvalent responsable d'encadrement dans les domaines du budget et de la gestion financière ;
 
-Responsable du central dactylographique de la direction générale chargé de l'encadrement et de la formation d'une équipe de dactylographes.
+Adjoint au chef du service intérieur, responsable de l'encadrement des huissiers et agents de service ;
+
+Chef de l'atelier central d'impression ;
+
+Chef de l'atelier de mécanique du parc automobile.
+
+Direction générale de l'administration et de la fonction publique
+
+Assistant bureautique chargé de la coordination des secrétariats des bureaux de la direction générale.
+
+Responsable de l'atelier de reprographie et de l'expédition du courrier de la direction générale.
 
 Direction de la Documentation française
 
@@ -36,16 +46,64 @@ Responsable d'unité de facturation chargé de la coordination du traitement des
 
 Secrétaire d'édition chargé des relations avec les administrations clientes sur toutes questions de nature éditoriale.
 
+Responsable de la formation continue des personnels aux applications de micro-informatique ;
+
+Responsable des affranchissements postaux ;
+
+Responsable de l'atelier d'expédition.
+
 Service d'information et de diffusion
 
 Responsable du service intérieur et du matériel chargé de tâches d'encadrement et de gestion.
 
 Responsable de la diffusion chargé de tâches d'encadrement, de gestion et de maintenance.
 
+Responsable de la gestion des fichiers informatiques.
+
 Centres interministériels de renseignements administratifs
 
 Agent d'orientation standardiste.
 
-Service des droits des femmes
+Service juridique et technique de l'information
 
-Chargée de mission départementale.
+Responsable de la gestion du fichier des publications soumises au dépôt administratif.
+
+Services centraux
+
+Responsable de l'encadrement des personnels du bureau du courrier du secrétariat général du Gouvernement.
+
+Responsable des questions réglementaires et statutaires relatives aux personnels des services du Premier ministre.
+
+Gestionnaire de personnel chargé d'une responsabilité fonctionnelle particulière.
+
+Assistant de gestion statutaire.
+
+Assistant de gestion administrative des rémunérations.
+
+Adjoint au chef du bureau de la gestion prévisionnelle et des affectations.
+
+Assistant de contrôle ou de gestion comptable et budgétaire.
+
+Responsable du magasin des fournitures au bureau de la gestion des immeubles et du matériel.
+
+Gestionnaire logistique polyvalent.
+
+Moniteur bureautique.
+
+Direction générale de l'administration et de la fonction publique
+
+Responsable de la cellule "Concours".
+
+Assistant documentaire.
+
+Service juridique et technique de l'information et de la communication
+
+Statisticien spécialisé.
+
+Direction de la Documentation française
+
+Responsable de magasin.
+
+Responsable de caisse.
+
+Secrétaire de rédaction.

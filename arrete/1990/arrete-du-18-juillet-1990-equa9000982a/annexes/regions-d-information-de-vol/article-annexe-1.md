@@ -113,3 +113,7 @@ Malte
 Région d'information de vol Malte.
 
 République de Chypre;    Région d'information de vol Nicosie.
+
+République de Hongrie,
+
+Région d'information de vol Budapest. "

@@ -8,9 +8,9 @@ Les membres de droit sont :
 
 - le directeur du gaz, de l'électricité et du charbon ;
 
-- le directeur des industries métallurgiques, mécaniques et électriques ;
+- le chef du service des industries de bases et biens d'équipement ;
 
-- le directeur de la qualité et de la sécurité industrielles ;
+- le directeur de l'action régionale et de la petite et moyenne industrie ;
 
 - le directeur de la construction ;
 
@@ -20,13 +20,11 @@ Les membres de droit sont :
 
 - le directeur général de la santé ;
 
-- le directeur de l'aménagement.
-
 Les membres nommés par arrêté comprennent :
 
 - un représentant du conseil général des mines désigné sur proposition du vice-président du conseil général des mines ;
 
-- trois représentants des services de l'industrie et des mines ;
+- trois représentants des directions régionales de l'industrie de la recherche et de l'environnement ;
 
 - trois représentants de Gaz de France ;
 
@@ -34,7 +32,7 @@ Les membres nommés par arrêté comprennent :
 
 - un représentant de l'association française de normalisation ;
 
-- deux représentants du comité professionnel du butane et du propane ;
+- deux représentants du comité français du butane et du propane ;
 
 - deux représentants des producteurs et distributeurs de gaz non nationalisés ;
 
@@ -42,4 +40,6 @@ Les membres nommés par arrêté comprennent :
 
 - un représentant du syndicat des fabricants d'appareils de production d'eau chaude par le gaz ;
 
-- un représentant de l'union nationale des chambres syndicales de couverture et de plomberie en France.
+- un représentant de l'union nationale des chambres syndicales de couverture et de plomberie en France ;
+
+- Cinq personnalité désignées en raison de leur compétence.

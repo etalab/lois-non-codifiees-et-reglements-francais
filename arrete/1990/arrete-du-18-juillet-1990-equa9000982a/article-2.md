@@ -6,7 +6,9 @@ I.1. - Une redevance est perçue pour chaque vol exécuté en conformité avec l
 
 2. La redevance constitue la rémunération des coûts encourus par les Etats contractants au titre des installations et services de navigation aérienne de route et de l'exploitation du système, ainsi que des coûts encourus par Eurocontrol pour l'exploitation du système.
 
-3. La redevance est due par la personne qui exploitait l'aéronef au moment où le vol a eu lieu. Au cas où l'identité de l'exploitant n'est pas connue, le propriétaire de l'aéronef est réputé être l'exploitant jusqu'à ce qu'il ait établi quelle autre personne avait cette qualité.
+3. Les redevances engendrées dans l'espace aérien des régions d'information de vol relevant de la compétence d'un Etat contractant donné peuvent être sujettes à l'application des dispositions en matière de taxe sur la valeur ajoutée et Eurocontrol pourra, dans ce cas, percevoir ladite taxe sur la valeur ajoutée dans les conditions et selon les modalités convenues avec ledit Etat.
+
+4. La redevance est due par la personne qui exploitait l'aéronef au moment où le vol a eu lieu. Au cas où l'identité de l'exploitant n'est pas connue, le propriétaire de l'aéronef est réputé être l'exploitant jusqu'à ce qu'il ait établi quelle autre personne avait cette qualité.
 
 II. - Pour un vol pénétrant dans l'espace aérien des régions d'information de vol relevant de la compétence de plusieurs Etats contractants, une redevance (R) unique est facturée qui est égale à la somme des redevances engendrées dans l'espace aérien des régions d'information de vol relevant de la compétence de chaque Etat contractant :
 
@@ -28,7 +30,9 @@ où di est le coefficient distance correspondant à l'espace aérien des région
 
 V.1. - Le coefficient distance (di) est égal au quotient par cent du nombre mesurant la distance orthodromique exprimée en kilomètres entre :
 
-- l'aérodrome de départ situé à l'intérieur de l'espace aérien des régions d'information de vol relevant de la compétence de l'Etat contractant (i), ou le point d'entrée dans cet espace, et
+- l'aérodrome de départ situé à l'intérieur de l'espace aérien des régions d'information de vol relevant de la compétence de l'Etat
+
+contractant (i), ou le point d'entrée dans cet espace, et
 
 - l'aérodrome de première destination situé à l'intérieur dudit espace aérien, ou le point de sortie de cet espace.
 
@@ -50,7 +54,9 @@ VII.1. Le taux unitaire est recalculé mensuellement en appliquant le taux de ch
 
 2. Le taux de change appliqué est celui publié dans le Journal officiel des Communautés européennes (Communications et informations). Lorsque le taux de change n'est pas indiqué dans cette publication, il est calculé à partir, d'une part, du taux de change entre l'ECU et le dollar des Etats-Unis d'Amérique, d'autre part, du taux de change entre la monnaie nationale concernée et le dollar des Etats-Unis d'Amérique tel que publié par le Fonds monétaire international dans les Statistiques financières internationales.
 
-VIII.1. Indépendamment des dispositions visées au paragraphe V, la redevance due pour les vols dont l'aérodrome de départ ou de première destination est situé dans l'une des zones énumérées dans l'annexe 2 (Vols transatlantiques) est calculée par référence à des tarifs fixés en fonction des distances moyennes pondérées et des taux unitaires en vigueur.
+VIII.1. Indépendamment des dispositions visées au paragraphe V, la redevance due pour les vols dont l'aérodrome de départ ou de première destination est situé dans l'une des zones énumérées dans l'annexe 2 (Vols transatlantiques) est calculée par référence à des tarifs fixés en fonction des distances moyennes pondérées et des taux unitaires en
+
+vigueur.
 
 2. Les distances moyennes pondérées sont calculées sur la base des statistiques de trafic établies par Eurocontrol à partir des données fournies par les centres compétents de contrôle du trafic.
 

@@ -14,7 +14,7 @@ Clause 1
 
 2. Eurocontrol considère toutefois comme libératoires les paiements effectués sur ses comptes auprès des établissements bancaires désignés par les instances internationales compétentes dans les Etats contractants ou les autres Etats.
 
-3. La date à laquelle le paiement doit être effectué est indiquée sur la facture ; cette date ne peut être antérieure au trentième jour suivant l'envoi de ladite facture.
+" 3. Le montant de la redevance est dû à la date de réalisation du vol. La date à laquelle le paiement doit être effectué est indiquée sur la facture. "
 
 Clause 2
 

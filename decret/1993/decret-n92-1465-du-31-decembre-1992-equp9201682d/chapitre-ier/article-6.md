@@ -1,0 +1,7 @@
+# Article 6
+
+En cas de décision du conseil général visant à cesser de recourir au parc de l'équipement, la convention spécifique prévue à l'article 4 de la loi n° 92-1255 du 2 décembre 1992 doit fixer le nombre d'années au terme desquelles la décision du conseil général produit son entier effet. Elle doit également déterminer pour chacune de ces années le montant des prestations à réaliser pour le compte du département. Chaque montant annuel de prestations doit être ajusté ultérieurement selon l'évolution du barème à l'année considérée.
+
+A défaut de conclusion de la convention visée au précédent alinéa, le président du conseil général adresse, avant le 1er janvier de chaque année, au préfet un projet de programme d'intervention du parc. Ce projet de programme doit être conforme au délai de dix ans au terme duquel le conseil général cesse de recourir au parc et respecter, indépendamment de l'évolution du barème et du coût des matériaux routiers, la diminution annuelle de 10 p. 100 du montant des prestations. Au regard des capacités techniques du parc, le préfet donne son accord pour la réalisation de ce programme et détermine par application du barème les montants dont est redevable en contrepartie le département.
+
+En cas d'application de l'un des deux alinéas précédents, il est mis fin, à compter de la date d'entrée en vigueur des dispositions correspondantes, à la convention relative au parc de l'équipement visée aux articles 1er à 5 ci-dessus.

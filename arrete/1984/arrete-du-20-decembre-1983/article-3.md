@@ -42,8 +42,6 @@ Majoration pour plaquettes humaines issues de plasmaphérèse :
 
 Concentré unitaire de plaquettes humaines (400 milliards de plaquettes viables pour un volume maximal de 500 ml) : 3 765,85 F
 
-Plasma humain frais congelé, UA (200 ml au minimum) : 86,80 F
-
 Plasma humain dépourvu de cryoprotéines, UA (200 ml au minimum) :
 
 86,80 F
@@ -134,14 +132,14 @@ Concentré de protéines humaines coagulables par la thrombine pour application 
 
 150 F.
 
-- Majoration du plasma humain frais congelé pour qualification "viro-inactivation par méthode solvant-détergent" par U.A. (200 ml au minimum) 161,10 F.
-
 - Concentré de facteur VII humain activé, l'unité 1,40 F.
 
 - Concentré de facteur VIII humain spécial Willebrand, l'unité internationale 4,60 F.
 
 - Concentré de facteur Willebrand humain, l'unité internationale 4,60 F.
 
-- Concentré de protéine C humaine, l'unité internationale 5,70 F
+- Concentré de protéine C humaine, l'unité internationale 5,70 F    Plasma humain frais congelé, viro-atténué par méthode solvant-détergent, par UA (200 ml au minimum) : 247,90 F.
 
-- Majoration du plasma humain frais congelé pour la qualification " sécurisé par quarantaine, avec deuxième dépistage chez le donneur " ou pour la qualification " solidarisé avec le concentré cellulaire issu du même don " par U.A (200 ml au minimum) 20 F
+Plasma humain frais congelé, sécurisé par quarantaine avec deuxième dépistage chez le donneur ou solidarisé avec le concentré cellulaire issu du même don, par UA (200 ml au minimum) :
+
+106,80 F.

@@ -42,6 +42,8 @@ Les fonds recueillis par les organismes collecteurs sont affectés :
 
 A défaut de pouvoir justifier une affectation des fonds conforme à celle définie aux trois alinéas précédents, les organismes collecteurs sont tenus de procéder au versement des sommes correspondantes au Trésor public, ou, dans le cas des branches pour lesquelles il existe des dispositions légales et règlementaires imposant par ailleurs des efforts spécifiques pour la formation des jeunes, déductibles du 1,1 p. 100 de la formation continue, d'affecter les fonds issus du 0,2 p. 100 à des actions destinées à la formation continue de jeunes salariés de moins de vingt-six ans, pour un montant et dans des conditions définies par un accord conclu annuellement, au niveau de la branche, entre les organisations professionnelles et syndicales et l'Etat.
 
+3° Pour tout ou partie des fonds qu'ils recueillent dans les conditions prévues au I ci-dessus, à la prise en charge de dépenses de fonctionnement des centres de formation d'apprentis conventionnés par l'Etat ou les régions, selon des modalités arrêtées dans le cadre de la négociation de branche prévue à l'article L. 933-2 du code du travail et sous réserve d'un accord, au niveau de la branche, entre les organisations professionnelles et syndicales, prévoyant la part et les conditions d'affectation de ces fonds.
+
 V - L'exonération mentionnée au paragraphe I porte sur les dépenses engagées entre le 1er janvier et le 31 décembre de l'année précédant celle au cours de laquelle la cotisation est exigible.
 
 Toutefois, en 1985, les dépenses engagées entre le 1er septembre 1984 et le 28 février 1985 donneront lieu à exonération ; en 1986, viendront en exonération celles exposées entre le 1er mars et le 31 décembre 1985.
