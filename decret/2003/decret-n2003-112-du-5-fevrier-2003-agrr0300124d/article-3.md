@@ -1,0 +1,3 @@
+# Article 3
+
+Tout fonctionnaire ou agent contractuel de l'établissement public "Les Haras nationaux" en fonction à la date de publication du présent décret peut obtenir la reconnaissance de son expérience professionnelle. Il doit en faire la demande, dans le délai de trois ans à compter de la publication du présent décret, auprès du ministre chargé de l'agriculture qui, en tenant compte de sa formation, de la nature et de la durée de son activité professionnelle, peut le dispenser de la formation spécifique et lui délivrer l'attestation de capacité visée au c de l'article 1er du présent décret.
