@@ -6,7 +6,7 @@ L'aide accordée au titre de la première part est fonction du nombre total d'ex
 
 L'aide accordée au titre de la deuxième part est fonction de la progression du nombre d'exemplaires portés au cours des deux années précédant celle de l'attribution de l'aide. Le montant de la deuxième part ne peut être inférieur à 75 % du total des crédits du fonds.
 
-Pour chaque part, le chef du service juridique et technique de l'information et de la communication détermine un taux unitaire de subvention. Ce taux ne peut excéder 2,50 F.
+Pour chaque part, le directeur du développement des médias détermine un taux unitaire de subvention. Ce taux ne peut excéder 2,50 F.
 
 Le montant effectivement versé à chaque publication est calculé comme suit :
 
