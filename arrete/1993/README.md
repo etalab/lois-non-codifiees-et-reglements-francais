@@ -668,7 +668,6 @@
 - [Arrêté du 20 avril 1993 (SPSG9301384A)](arrete-du-20-avril-1993-spsg9301384a)
 - [Arrêté du 20 décembre 1993 (BUDD9370029A)](arrete-du-20-decembre-1993-budd9370029a)
 - [Arrêté du 20 décembre 1993 (INDB9301003A)](arrete-du-20-decembre-1993-indb9301003a)
-- [Arrêté du 20 décembre 1993 (INDH9300899A)](arrete-du-20-decembre-1993-indh9300899a)
 - [Arrêté du 20 décembre 1993 (LOGC9300104A)](arrete-du-20-decembre-1993-logc9300104a)
 - [Arrêté du 20 décembre 1993 (LOGC9300105A)](arrete-du-20-decembre-1993-logc9300105a)
 - [Arrêté du 20 décembre 1993 (LOGC9300106A)](arrete-du-20-decembre-1993-logc9300106a)
