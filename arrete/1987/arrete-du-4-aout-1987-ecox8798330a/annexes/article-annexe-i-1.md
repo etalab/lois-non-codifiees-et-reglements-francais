@@ -14,7 +14,7 @@ BARÈME DE MARGE DE L'ÉTABLISSEMENT PHARMACEUTIQUE QUI VEND EN GROS
 </tr>
 <tr>
 <td valign="top" width="405">
-<p>0 et 150 F</p>
+<p>0 et 22,90 €</p>
 </td>
 <td valign="top" width="237">
 <p align="center">0,107 4</p>
@@ -22,7 +22,7 @@ BARÈME DE MARGE DE L'ÉTABLISSEMENT PHARMACEUTIQUE QUI VEND EN GROS
 </tr>
 <tr>
 <td valign="top" width="405">
-<p>Au-delà de 150 F </p>
+<p>Au-delà de 22,90 € </p>
 </td>
 <td valign="top" width="237">
 <p align="center">0,06</p>
