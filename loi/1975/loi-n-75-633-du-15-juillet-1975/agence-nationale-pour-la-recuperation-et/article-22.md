@@ -10,6 +10,8 @@ Cet établissement est administré par un conseil d'administration composé en n
 
 3° De représentants des différentes catégories de personnes et groupements intéressés.
 
+Il comprend, en outre, des représentants des salariés, conformément aux dispositions de l'article 4 de la loi n° 83-675 du 26 juillet 1983 relative à la démocratisation du secteur public.
+
 Il pourvoit ou contribue aux recherches, études et travaux concernant l'élimination et la récupération des déchets.
 
 Il peut attribuer des subventions et des prêts pour la réalisation d'opérations concernant l'élimination et la récupération des déchets.
