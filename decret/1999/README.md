@@ -61,6 +61,7 @@
 - [Décret n°2000-265 du 17 mars 2000 (MENF0000158D)](decret-n2000-265-du-17-mars-2000-menf0000158d)
 - [Décret n°99-103 du 17 février 1999 (EQUP9900034D)](decret-n99-103-du-17-fevrier-1999-equp9900034d)
 - [Décret n°99-499 du 17 juin 1999 (INTC9900118D)](decret-n99-499-du-17-juin-1999-intc9900118d)
+- [Décret n°89-749 du 18 octobre 1989 (DEFP8901692D)](decret-n89-749-du-18-octobre-1989-defp8901692d)
 - [Décret n°99-204 du 18 mars 1999 (MENF9900383D)](decret-n99-204-du-18-mars-1999-menf9900383d)
 - [Décret n°99-37 du 19 janvier 1999 (ECOT9894695D)](decret-n99-37-du-19-janvier-1999-ecot9894695d)
 - [Décret n°99-38 du 19 janvier 1999 (ATEN9860101D)](decret-n99-38-du-19-janvier-1999-aten9860101d)
