@@ -8,6 +8,8 @@ Les dispositions du premier alinéa ne font pas obstacle à l'exercice des activ
 
 2° Activités à caractère artistique, littéraire ou scientifique, exercées accessoirement avant la liquidation de la pension de retraite ;
 
-3° Participation aux activités juridictionnelles ou assimilées, consultations données occasionnellement, participation à des jurys de concours publics ou à des instances consultatives ou délibératives réunies en vertu d'un texte législatif ou réglementaire.
+3° Participation aux activités juridictionnelles ou assimilées, consultations données occasionnellement, participation à des jurys de concours publics ou à des instances consultatives ou délibératives réunies en vertu d'un texte législatif ou réglementaire ;
 
-Les dispositions du présent article sont applicables jusqu'au 31 décembre 1991.
+4° Activités exercées par des personnes bénéficiant de l'article L. 634-6-1.
+
+Les dispositions du présent article sont applicables jusqu'au 31 décembre 1992.
