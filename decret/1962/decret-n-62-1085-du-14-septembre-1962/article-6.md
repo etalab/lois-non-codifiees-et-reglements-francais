@@ -5,88 +5,43 @@ Les indices bruts de référence servant de base de calcul à la rémunération 
 <table>
 <tbody>
 <tr>
-<td valign="top" width="151">
+<td valign="top" width="454">
 <p align="center">CATÉGORIE</p>
 </td>
-<td width="132">
-<p align="center">A COMPTER<br/>du<br/>1er juillet 1973</p>
-</td>
-<td valign="top" width="132">
-<p align="center">A COMPTER<br/>du<br/>1er juillet 1974</p>
-</td>
-<td valign="top" width="132">
-<p align="center">A COMPTER<br/>du<br/>1er juillet 1975</p>
-</td>
-<td width="132">
-<p align="center">A COMPTER<br/>du<br/>1er juillet 1976</p>
+<td width="227">
+<p align="center">INDICES BRUTS</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<p align="left">Catégorie spéciale</p>
+<td valign="top" width="454">
+<p>Catégorie spéciale</p>
 </td>
-<td width="132">
-<p align="center">593</p>
-</td>
-<td valign="top" width="132">
-<p align="center">599</p>
-</td>
-<td valign="top" width="132">
-<p align="center">608</p>
-</td>
-<td width="132">
-<p align="center">619</p>
+<td width="227">
+<p align="center">654</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<p align="left">1re catégorie</p>
+<td valign="top" width="454">
+<p>1re catégorie</p>
 </td>
-<td width="132">
-<p align="center">554</p>
-</td>
-<td valign="top" width="132">
-<p align="center">559</p>
-</td>
-<td valign="top" width="132">
-<p align="center">569</p>
-</td>
-<td width="132">
-<p align="center">579</p>
+<td width="227">
+<p align="center">612</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<p align="left">2e catégorie</p>
+<td valign="top" width="454">
+<p>2e catégorie</p>
 </td>
-<td width="132">
-<p align="center">489</p>
-</td>
-<td valign="top" width="132">
-<p align="center">494</p>
-</td>
-<td valign="top" width="132">
-<p align="center">502</p>
-</td>
-<td width="132">
-<p align="center">513</p>
+<td width="227">
+<p align="center">544</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td valign="top" width="454">
 <p>3e catégorie</p>
 </td>
-<td width="132">
-<p align="center">422</p>
-</td>
-<td valign="top" width="132">
-<p align="center">427</p>
-</td>
-<td valign="top" width="132">
-<p align="center">437</p>
-</td>
-<td width="132">
-<p align="center">448</p>
+<td width="227">
+<p align="center">479</p>
 </td>
 </tr>
 </tbody>
