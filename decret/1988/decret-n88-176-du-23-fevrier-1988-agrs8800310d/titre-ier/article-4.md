@@ -15,3 +15,5 @@ Lorsque le nombre d'unités de travail agricole familial est inférieur ou égal
 Lorsque le nombre d'unités de travail agricole familial est supérieur à un, le revenu agricole disponible pris en compte est le revenu par unité de travail agricole familial ;
 
 c) S'engager à exercer l'activité agricole pendant dix ans dans les conditions prévues par le projet d'installation.
+
+Les prêts à moyen terme spéciaux prévus à l'article 1er peuvent également être accordés aux jeunes exploitants qui ne sont pas agriculteurs à titre principal et qui répondent aux conditions énumérées ci-dessus, à l'exception de celle mentionnée au 2° a.
