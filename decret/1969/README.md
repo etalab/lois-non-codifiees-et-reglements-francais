@@ -1,5 +1,6 @@
 # 1969
 
+- [Décret n°69-119 du 1 février 1969](decret-n69-119-du-1-fevrier-1969)
 - [Décret n°70-905 du 2 octobre 1970](decret-n70-905-du-2-octobre-1970)
 - [Décret n°70-1131 du 4 décembre 1970](decret-n70-1131-du-4-decembre-1970)
 - [Décret n°69-131 du 6 février 1969](decret-n69-131-du-6-fevrier-1969)
