@@ -13,6 +13,7 @@
 - [Arrêté du 9 mai 1980](arrete-du-9-mai-1980)
 - [Arrêté du 10 avril 1980](arrete-du-10-avril-1980)
 - [Arrêté du 10 juin 1980](arrete-du-10-juin-1980)
+- [Arrêté du 11 juillet 1980](arrete-du-11-juillet-1980)
 - [Arrêté du 12 mai 1980](arrete-du-12-mai-1980)
 - [Arrêté du 13 mars 1980](arrete-du-13-mars-1980)
 - [Arrêté du 13 mai 1980](arrete-du-13-mai-1980)

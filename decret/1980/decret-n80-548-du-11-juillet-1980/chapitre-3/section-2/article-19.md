@@ -1,0 +1,5 @@
+# Article 19
+
+Le régime des prestations familiales [*compétence*] dont relève l'assuré prend en charge tout ou partie de la cotisation d'assurance personnelle [*condition*] lorsque l'intéressé a droit à l'une au moins des prestations mentionnées à l'article L. 510 du code de la sécurité sociale et a disposé, durant l'année civile précédant le début de la période pour laquelle le droit à la prise en charge est ouvert ou maintenu, d'un revenu net de frais passible de l'impôt sur le revenu n'excédant pas le plafond prévu à l'article 30-1 du décret susvisé du 10 décembre 1946.
+
+Dans les départements [*d'outre-mer*] mentionnés à l'article L. 714 du code de la sécurité sociale, la cotisation est prise en charge lorsque l'assuré a droit à l'une au moins des prestations familiales servies dans ces départements en vertu du code de la sécurité sociale et des textes pris pour son application et a disposé, durant l'année de référence, d'un revenu net de frais passible de l'impôt sur le revenu n'excédant pas le plafond fixé à l'article L. 758-3 dudit code.
