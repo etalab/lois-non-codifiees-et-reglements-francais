@@ -193,7 +193,6 @@
 - [Arrêté du 6 septembre 1991 (INTB9100375A)](arrete-du-6-septembre-1991-intb9100375a)
 - [Arrêté du 6 mai 1991 (ECOP9100290A)](arrete-du-6-mai-1991-ecop9100290a)
 - [Arrêté du 6 mai 1991 (MCCH9100284A)](arrete-du-6-mai-1991-mcch9100284a)
-- [Arrêté du 6 mai 1991 (MEND9100790A)](arrete-du-6-mai-1991-mend9100790a)
 - [Arrêté du 7 août 1991 (FPPA9100034A)](arrete-du-7-aout-1991-fppa9100034a)
 - [Arrêté du 7 août 1991 (SPSG9101812A)](arrete-du-7-aout-1991-spsg9101812a)
 - [Arrêté du 7 décembre 1984](arrete-du-7-decembre-1984)
