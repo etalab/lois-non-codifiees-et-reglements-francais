@@ -45,6 +45,7 @@
 - [Arrêté du 6 février 2001 (MESP0120407A)](arrete-du-6-fevrier-2001-mesp0120407a)
 - [Arrêté du 6 février 2001 (MESP0120409A)](arrete-du-6-fevrier-2001-mesp0120409a)
 - [Arrêté du 6 février 2001 (MESP0120410A)](arrete-du-6-fevrier-2001-mesp0120410a)
+- [Arrêté du 6 juillet 2000 (MENF0001968A)](arrete-du-6-juillet-2000-menf0001968a)
 - [Arrêté du 6 mars 2001 (ATEE0090453A)](arrete-du-6-mars-2001-atee0090453a)
 - [Arrêté du 6 mars 2001 (EQUU0002021A)](arrete-du-6-mars-2001-equu0002021a)
 - [Arrêté du 6 mars 2001 (EQUU0002024A)](arrete-du-6-mars-2001-equu0002024a)
