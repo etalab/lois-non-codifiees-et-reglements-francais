@@ -4,4 +4,4 @@ En vue de la participation à la défense sur le territoire des forces armées, 
 
 Dans le cadre des objectifs fixés par le préfet de zone, il est responsable de la coordination des moyens des trois armées et des services interarmées contribuant à la défense civile ; il est commandant désigné de zone de défense en cas de mise en oeuvre des mesures prévues à l'article 3 du décret du 1er mars 1973 susvisé.
 
-Le général commandant la région de gendarmerie assiste le préfet de zone pour tout ce qui concerne la participation de la gendarmerie aux missions de défense civile.
+Le général commandant la région de gendarmerie implantée au siège de la zone de défense assiste le préfet de zone pour tout ce qui concerne la participation de la gendarmerie aux missions de défense civile.

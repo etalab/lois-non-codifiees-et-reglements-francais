@@ -2,7 +2,7 @@
 
 L'élément de base de l'administration au sein des armées, de la gendarmerie et des services de soutien interarmées est la formation administrative.
 
-Les formations administratives sont les corps de troupe de l'armée de terre, les formations autonomes de la marine, les bases aériennes de l'armée de l'air, les légions de gendarmerie et les organismes administrés comme tels. D'autres organismes ou formations peuvent leur être administrativement rattachés.
+Les formations administratives sont les corps de troupe de l'armée de terre, les formations autonomes de la marine, les bases aériennes de l'armée de l'air, les régions de gendarmerie et les organismes administrés comme tels. D'autres organismes ou formations peuvent leur être administrativement rattachés.
 
 Les commandants de formation administrative sont responsables de l'administration intérieure de leur formation.
 
