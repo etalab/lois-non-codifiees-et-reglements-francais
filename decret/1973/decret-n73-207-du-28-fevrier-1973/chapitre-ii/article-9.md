@@ -1,0 +1,5 @@
+# Article 9
+
+I - Par dérogation aux articles 4 à 6 du présent décret, peuvent donner lieu à la rémunération forfaitaire définie à l'article 10 ci-dessous, les missions complètes pour lesquelles aucun des prestataires consultés n'accepte de s'engager sur un coût d'objectif, même provisoire. Toutefois, pour une mission normalisée, l'abattement de 10 p. 100 mentionné à l'article 10 ci-dessous est porté à 20 p. 100.
+
+II - Pendant un délai de trois ans à compter des dates de mise en vigueur du décret, dans le cas de domaines fonctionnels posant des problèmes particuliers, un arrêté conjoint du ministre intéressé et du ministre de l'économie et des finances pourra laisser la possibilité de déroger à titre exceptionnel aux articles 4 à 6 ci-dessus lorsque le maître d'ouvrage a décidé de confier une mission complète à un concepteur. Dans le cas d'une mission normalisée, le marché doit alors fixer une rémunération forfaitaire dans les conditions prévues au premier alinéa de l'article 10 ci-après.
