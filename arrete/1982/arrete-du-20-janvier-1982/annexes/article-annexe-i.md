@@ -339,8 +339,16 @@
 <em>Astragalus massiliensis</em> (Miller) Lamarck.</p>
 </td>
 <td valign="top" width="302">
-<p>Astragale de Montpellier. </p>
+<p>Astragale de Marseille.</p>
 </td>
+</tr>
+<tr>
+<td>
+<p align="left">
+<em>Astragalus monspessulanus.</em>
+</p>
+</td>
+<td>Astragale de Montpellier. </td>
 </tr>
 <tr>
 <td valign="top" width="302">
@@ -426,7 +434,7 @@
 <tr>
 <td valign="top" width="302">
 <p>
-<em>Campanula ailliomi</em> Vill.</p>
+<em>Campanula ailliomi </em>Vill.</p>
 </td>
 <td valign="top" width="302">
 <p>Campanule des Alpes.</p>
@@ -588,7 +596,8 @@
 <tr>
 <td valign="top" width="302">
 <p>
-<em>Cytisus ardoinoi</em> E. Fourn.</p>
+<i>Cytisus ardoinoi E. Fourn.</i>
+</p>
 </td>
 <td valign="top" width="302">
 <p>Cytise d'Ardoino.</p>
@@ -615,7 +624,7 @@
 <tr>
 <td valign="top" width="302">
 <p>
-<em>Daucus gadeceaui </em>Rouy et Camus.</p>
+<em>Daucus gadeceaui</em> Rouy et Camus.</p>
 </td>
 <td valign="top" width="302">
 <p>Carotte de Gadeceau.</p>
@@ -660,7 +669,8 @@
 <tr>
 <td valign="top" width="302">
 <p>
-<em>Echinospartum horridum</em> (Vahl) Rothm.</p>
+<i>Echinospartum horridum (Vahl) Rothm.</i>
+</p>
 </td>
 <td valign="top" width="302">
 <p>Genêt très épineux.</p>
@@ -768,7 +778,7 @@
 <tr>
 <td valign="top" width="302">
 <p>
-<em>Euphorbia esula ssp. thommasiniana</em> (Bertol.) Nyman.</p>
+<em>Euphorbia esula</em> ssp. <em>thommasiniana</em> (Bertol.) Nyman.</p>
 </td>
 <td valign="top" width="302">
 <p>Euphorbe à feuilles fines.</p>
@@ -870,7 +880,7 @@
 <em>Geranium cinereum</em> Cav.</p>
 </td>
 <td valign="top" width="302">
-<p>Gérarium à feuilles cendrées.</p>
+<p>Gér. à feuilles cendrées.</p>
 </td>
 </tr>
 <tr>
@@ -993,7 +1003,7 @@
 <tr>
 <td valign="top" width="302">
 <p>
-<em>Iberis prutiii</em> Tineo ssp. <em>candolleana</em> Jordan.</p>
+<em>Iberis prutiii</em> Tineo ssp.<em> candolleana</em> Jordan.</p>
 </td>
 <td valign="top" width="302">
 <p>Corbeille d'Argent de De Candolle.</p>
@@ -1155,7 +1165,7 @@
 <tr>
 <td valign="top" width="302">
 <p>
-<em>Limonium ramosissimum</em> (Poiret) Mair. ssp.<em> provinciale Pignatti.</em>
+<em>Limonium ramosissimum</em> (Poiret) Mair. ssp. <em>provinciale Pignatti.</em>
 </p>
 </td>
 <td valign="top" width="302">
@@ -1183,7 +1193,7 @@
 <tr>
 <td valign="top" width="302">
 <p>
-<em>Linaria cirrhosa</em> (L) Cav.</p>
+<em>Linaria cirrhosa </em>(L) Cav.</p>
 </td>
 <td valign="top" width="302">
 <p>Linaire à vrilles.</p>
@@ -1264,7 +1274,8 @@
 <tr>
 <td valign="top" width="302">
 <p>
-<em>Lysimachia ephemerum</em> L.</p>
+<em>Lysimachia ephemerum L.</em>
+</p>
 </td>
 <td valign="top" width="302">
 <p>Lysimaque à feuilles de saule.</p>
@@ -1282,7 +1293,7 @@
 <tr>
 <td valign="top" width="302">
 <p>
-<em>Lythrum thesioides </em>Bieb.</p>
+<em>Lythrum thesioides</em> Bieb.</p>
 </td>
 <td valign="top" width="302">
 <p>Salicaire faux-thésion.</p>
@@ -1480,15 +1491,6 @@
 <tr>
 <td valign="top" width="302">
 <p>
-<em>Pinus mugho</em> Turra.</p>
-</td>
-<td valign="top" width="302">
-<p>Pin Mugho (spontané).</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="302">
-<p>
 <em>Polygonum rayi</em> Bab.</p>
 </td>
 <td valign="top" width="302">
@@ -1507,7 +1509,7 @@
 <tr>
 <td valign="top" width="302">
 <p>
-<em>Primula spp. (sauf P. élatior, P. officinalis, P. acaulis</em>).</p>
+<em>Primula</em> spp. (sauf <em>P. élatior, P. officinalis, P. acaulis</em>).</p>
 </td>
 <td valign="top" width="302">
 <p>(Toutes espèces vivaces de rocher) Primevères rupestres (sauf le coucou, Primevère officinale, Primevère acaulse à grandes fleurs).</p>
@@ -1552,7 +1554,8 @@
 <tr>
 <td valign="top" width="302">
 <p>
-<em>Pulicaria vulgaris</em> Gaertn.</p>
+<i>Pulicaria vulgaris Gaertn.</i>
+</p>
 </td>
 <td valign="top" width="302">
 <p>Herbe de Saint-Roch.</p>
@@ -1570,8 +1573,7 @@
 <tr>
 <td valign="top" width="302">
 <p>
-<i>Pyrola maritima Warburg.</i>
-</p>
+<em>Pyrola maritima</em> Warburg.</p>
 </td>
 <td valign="top" width="302">
 <p>Pyrole des dunes.</p>
@@ -1580,7 +1582,8 @@
 <tr>
 <td valign="top" width="302">
 <p>
-<em>Quercus crenata</em> Lamarck.</p>
+<i>Quercus crenata Lamarck.</i>
+</p>
 </td>
 <td valign="top" width="302">
 <p>Faux chêne-liège.</p>
@@ -1625,7 +1628,7 @@
 <tr>
 <td valign="top" width="302">
 <p>
-<em>Ranuncutus nodiflorus </em>L.</p>
+<em>Ranuncutus nodiflorus</em> L.</p>
 </td>
 <td valign="top" width="302">
 <p>Renoncule à fleurs en boules.</p>
@@ -1715,7 +1718,8 @@
 <tr>
 <td valign="top" width="302">
 <p>
-<em>Salix cratacgifolia</em> Bertol.</p>
+<i>Salix cratacgifolia Bertol.</i>
+</p>
 </td>
 <td valign="top" width="302">
 <p>Saule à feuilles d'aubépine.</p>
@@ -1850,8 +1854,7 @@
 <tr>
 <td valign="top" width="302">
 <p>
-<i>Scrophularia pyrenaica Bentham.</i>
-</p>
+<em>Scrophularia pyrenaica</em> Bentham.</p>
 </td>
 <td valign="top" width="302">
 <p>Scrofulaire des Pyrénées.</p>
@@ -1860,8 +1863,7 @@
 <tr>
 <td valign="top" width="302">
 <p>
-<i>Sedum andegavense Desv.</i>
-</p>
+<em>Sedum andegavense</em> Desv.</p>
 </td>
 <td valign="top" width="302">
 <p>Vermiculaire d'Angers.</p>
@@ -1870,8 +1872,7 @@
 <tr>
 <td valign="top" width="302">
 <p>
-<i>Senecio bayonnensis Boiss.</i>
-</p>
+<em>Senecio bayonnensis</em> Boiss.</p>
 </td>
 <td valign="top" width="302">
 <p>Séneçon de Bayonne.</p>
@@ -1889,8 +1890,7 @@
 <tr>
 <td valign="top" width="302">
 <p>
-<i>Senecio macrochaetus Wilk.</i>
-</p>
+<em>Senecio macrochaetus</em> Wilk.</p>
 </td>
 <td valign="top" width="302">
 <p>Séneçon à grosses soies.</p>
@@ -1998,7 +1998,8 @@
 <tr>
 <td valign="top" width="302">
 <p>
-<em>Teucrium asistatum</em> Perez Lara.</p>
+<i>Teucrium asistatum Perez Lara.</i>
+</p>
 </td>
 <td valign="top" width="302">
 <p>Germandrée de Crau.</p>
@@ -2007,8 +2008,7 @@
 <tr>
 <td valign="top" width="302">
 <p>
-<i>Teucrium fruticans L.</i>
-</p>
+<em>Teucrium fruticans</em> L.</p>
 </td>
 <td valign="top" width="302">
 <p>Germandrée arbustive.</p>
@@ -2080,7 +2080,7 @@
 <tr>
 <td valign="top" width="302">
 <p>
-<em>Thymelaea ruizii</em> Loscos ex Casav.</p>
+<em>Thymelaea ruizii </em>Loscos ex Casav.</p>
 </td>
 <td valign="top" width="302">
 <p>Passerine de Ruiz.</p>
@@ -2134,7 +2134,7 @@
 <tr>
 <td valign="top" width="302">
 <p>
-<em>Viola elatior </em>Fries.</p>
+<em>Viola elatior</em> Fries.</p>
 </td>
 <td valign="top" width="302">
 <p>Violette élevée.</p>
@@ -2143,7 +2143,7 @@
 <tr>
 <td valign="top" width="302">
 <p>
-<em>Viola pinnata </em>L.</p>
+<em>Viola pinnata</em> L.</p>
 </td>
 <td valign="top" width="302">
 <p>Violette à feuilles pennées.</p>
@@ -2229,8 +2229,7 @@
 <tr>
 <td valign="top" width="302">
 <p>
-<i>Ampelodesmos mauretanica (Poiret) T. Durand et Shinz.</i>
-</p>
+<em>Ampelodesmos mauretanica</em> (Poiret) T. Durand et Shinz.</p>
 </td>
 <td valign="top" width="302">
 <p>Diss.</p>
@@ -2257,7 +2256,7 @@
 <tr>
 <td valign="top" width="302">
 <p>
-<em>Borderea pyrenaica </em>Miegeville.</p>
+<em>Borderea pyrenaica</em> Miegeville.</p>
 </td>
 <td valign="top" width="302">
 <p>Dioscorée des Pyrénées.</p>
@@ -2338,7 +2337,7 @@
 <tr>
 <td valign="top" width="302">
 <p>
-<em>Carex costei</em> Rouy.</p>
+<em>Carex costei </em>Rouy.</p>
 </td>
 <td valign="top" width="302">
 <p>Laîche de Coste.</p>
@@ -2464,7 +2463,7 @@
 <tr>
 <td valign="top" width="302">
 <p>
-<em>Chamaerops humilis </em>L.</p>
+<em>Chamaerops humilis</em> L.</p>
 </td>
 <td valign="top" width="302">
 <p>Palmier nain, Doum.</p>
@@ -2725,7 +2724,7 @@
 <tr>
 <td valign="top" width="302">
 <p>
-<em>Narcissus triandrus</em> L. ssp <em>capax</em> (Salis b.) L. A. Webb.</p>
+<em>Narcissus triandrus</em> L. ssp<em> capax</em> (Salis b.) L. A. Webb.</p>
 </td>
 <td valign="top" width="302">
 <p>Narcisse des Glénan.</p>
@@ -2752,7 +2751,7 @@
 <tr>
 <td valign="top" width="302">
 <p>
-<em>Ophrys bornbiliflora </em>Link.</p>
+<em>Ophrys bornbiliflora</em> Link.</p>
 </td>
 <td valign="top" width="302">
 <p>Ophrys bombyx.</p>
@@ -2797,7 +2796,7 @@
 <tr>
 <td valign="top" width="302">
 <p>
-<em>Orchis fragrans </em>Pollini.</p>
+<em>Orchis fragrans</em> Pollini.</p>
 </td>
 <td valign="top" width="302">
 <p>Orchis odorant.</p>
@@ -2986,7 +2985,8 @@
 <tr>
 <td valign="top" width="302">
 <p>
-<em>Tulipa silvestris</em> L.</p>
+<em>Tulipa silvestris</em> L<em>.</em>
+</p>
 </td>
 <td valign="top" width="302">
 <p>Tulipe sauvage.</p>
@@ -3018,6 +3018,18 @@
 <td valign="top" width="302">
 <p>Vérâtre noir.</p>
 </td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center">Gymnospermes</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<em>Pinus mugho</em> Turra.</p>
+</td>
+<td>Pin Mugho (spontané).</td>
 </tr>
 <tr>
 <td colspan="2" valign="top" width="605">
