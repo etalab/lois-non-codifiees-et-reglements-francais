@@ -165,7 +165,6 @@
 - [Arrêté du 6 mai 1987 (MENU8700180A)](arrete-du-6-mai-1987-menu8700180a)
 - [Arrêté du 6 mai 1987 (RESP8700224A)](arrete-du-6-mai-1987-resp8700224a)
 - [Arrêté du 7 août 1987 (ASEF8703601A)](arrete-du-7-aout-1987-asef8703601a)
-- [Arrêté du 7 août 1987 (ASEH8701176A)](arrete-du-7-aout-1987-aseh8701176a)
 - [Arrêté du 7 avril 1987 (AGRD8700716A)](arrete-du-7-avril-1987-agrd8700716a)
 - [Arrêté du 7 avril 1987 (ENVP8700080A)](arrete-du-7-avril-1987-envp8700080a)
 - [Arrêté du 7 avril 1987 (ENVP8700081A)](arrete-du-7-avril-1987-envp8700081a)
