@@ -591,6 +591,7 @@
 - [Arrêté du 19 mars 1998 (MESS9820797A)](arrete-du-19-mars-1998-mess9820797a)
 - [Arrêté du 19 mars 1998 (PRMX9702139A)](arrete-du-19-mars-1998-prmx9702139a)
 - [Arrêté du 19 novembre 1997 (DEFE9801095A)](arrete-du-19-novembre-1997-defe9801095a)
+- [Arrêté du 19 octobre 1998 (ECOI9800834A)](arrete-du-19-octobre-1998-ecoi9800834a)
 - [Arrêté du 19 octobre 1998 (MESS9823360A)](arrete-du-19-octobre-1998-mess9823360a)
 - [Arrêté du 19 mai 1998 (DEFD9801510A)](arrete-du-19-mai-1998-defd9801510a)
 - [Arrêté du 19 mai 1998 (ECOB9810013A)](arrete-du-19-mai-1998-ecob9810013a)
