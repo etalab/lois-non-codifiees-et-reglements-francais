@@ -8,6 +8,8 @@ Un tel accord est présumé exister :
 
 - entre une société et les sociétés qu'elle contrôle au sens de l'article 355-1 ;
 
-- entre des sociétés contrôlées par la même ou les mêmes personnes.
+- entre des sociétés contrôlées par la même ou les mêmes personnes ;
+
+- entre les associés d'une société par actions simplifiée à l'égard des sociétés que celle-ci contrôle.
 
 Les personnes agissant de concert sont tenues solidairement aux obligations qui leur sont faites par la loi et les règlements.

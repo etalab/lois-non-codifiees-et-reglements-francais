@@ -13,3 +13,5 @@ Le liquidateur est nommé :
 4° Dans les sociétés anonymes, aux conditions de quorum et de majorité prévues pour les assemblées générales ordinaires ;
 
 5° Dans les sociétés en commandite par actions, aux conditions de quorum et de majorité prévues pour les assemblées générales ordinaires, cette majorité devant comprendre l'unanimité des commandités.
+
+6° Dans les sociétés par actions simplifiées, à l'unanimité des associés, sauf clause contraire.
