@@ -9,5 +9,3 @@ Ce carnet contient notamment :
 Les carnets de pension des orphelins portent la désignation, soit du tuteur, soit de la personne, de l'oeuvre ou de l'établissement qui a la charge de l'enfant.
 
 Sur les brevets de pension de chacun des carnets visés aux deux alinéas ci-dessus, il est mentionné, en chiffres, les montants annuel et trimestriel de la prestation, le point de départ des droits, et, s'il y a lieu, le montant des rappels payables à l'émission du carnet.
-
-2° Une carte-émargement comportant des cases destinées à recevoir à chaque payement le cachet du comptable-payeur, ainsi que la date de l'opération et le montant de la somme payée.
