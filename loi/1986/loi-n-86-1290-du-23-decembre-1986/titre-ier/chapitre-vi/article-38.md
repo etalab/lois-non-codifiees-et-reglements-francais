@@ -1,0 +1,5 @@
+# Article 38
+
+Jusqu'au 1er janvier 1987, les loyers, autres que ceux mentionnés à l'article L. 442-1-1 du code de la construction et de l'habitation, pratiqués par les organismes d'habitations à loyer modéré restent régis par les dispositions prises en application de la loi n° 82-526 du 22 juin 1982 précitée. A compter de cette date et pour une période transitoire de six mois, ces loyers peuvent évoluer dans la limite de la dernière variation annuelle de l'indice du coût de la construction connue le 30 novembre 1986.
+
+Toutefois, lorsque des travaux d'amélioration tels que définis par l'accord collectif de location conclu le 23 novembre 1983 et rendu obligatoire par le décret n° 84-364 du 11 mai 1984 ont été entrepris avant le 1er janvier 1987, une majoration supplémentaire de loyer peut être appliquée à compter du premier jour du mois qui suit l'achèvement de ces travaux, si cette date est antérieure au 1er juillet 1987. La majoration annuelle est au plus égale à 10 p. 100 du coût réel des travaux plafonné à 9 000 F par logement, augmenté de 2 000 F par pièce principale.

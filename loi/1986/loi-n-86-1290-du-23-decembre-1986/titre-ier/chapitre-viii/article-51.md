@@ -1,0 +1,3 @@
+# Article 51
+
+Les contrats de location en cours qui n'ont pas été mis en conformité avec les dispositions de la loi n° 82-526 du 22 juin 1982 précitée, contrairement aux dispositions du troisième alinéa de l'article 71 de cette loi, sont réputés avoir été renouvelés dans les conditions de cet article par périodes de trois années à compter de leur date d'expiration contractuelle lorsqu'il s'agit de contrats de location à durée déterminée et par périodes de trois années à compter du 24 juin 1983 lorsqu'il s'agit de contrats de location à durée indéterminée conclus avant cette date. Ces dispositions ne s'appliquent pas à ceux de ces contrats dont le renouvellement est contesté devant les tribunaux.
