@@ -243,7 +243,6 @@
 - [Décret n°96-1096 du 10 décembre 1996 (ECOT9690073D)](decret-n96-1096-du-10-decembre-1996-ecot9690073d)
 - [Décret n°96-1101 du 10 décembre 1996 (MCCB9600553D)](decret-n96-1101-du-10-decembre-1996-mccb9600553d)
 - [Décret n°96-1102 du 10 décembre 1996 (MCCB9600554D)](decret-n96-1102-du-10-decembre-1996-mccb9600554d)
-- [Décret n°96-16 du 10 janvier 1996 (MENA9502733D)](decret-n96-16-du-10-janvier-1996-mena9502733d)
 - [Décret n°96-17 du 10 janvier 1996 (EQUT9501847D)](decret-n96-17-du-10-janvier-1996-equt9501847d)
 - [Décret n°96-19 du 10 janvier 1996 (DOME9500051D)](decret-n96-19-du-10-janvier-1996-dome9500051d)
 - [Décret n°96-22 du 10 janvier 1996 (JUSC9521092D)](decret-n96-22-du-10-janvier-1996-jusc9521092d)
