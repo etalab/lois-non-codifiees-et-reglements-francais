@@ -419,7 +419,6 @@
 - [Décret n°95-671 du 9 mai 1995 (AGRA9500810D)](decret-n95-671-du-9-mai-1995-agra9500810d)
 - [Décret n°95-672 du 9 mai 1995 (RESM9500641D)](decret-n95-672-du-9-mai-1995-resm9500641d)
 - [Décret n°95-673 du 9 mai 1995 (RESK9500681D)](decret-n95-673-du-9-mai-1995-resk9500681d)
-- [Décret n°95-674 du 9 mai 1995 (RESR9500710D)](decret-n95-674-du-9-mai-1995-resr9500710d)
 - [Décret n°95-675 du 9 mai 1995 (RESK9401962D)](decret-n95-675-du-9-mai-1995-resk9401962d)
 - [Décret n°95-676 du 9 mai 1995 (LOGC9500035D)](decret-n95-676-du-9-mai-1995-logc9500035d)
 - [Décret n°95-677 du 9 mai 1995 (DOMP9500021D)](decret-n95-677-du-9-mai-1995-domp9500021d)
