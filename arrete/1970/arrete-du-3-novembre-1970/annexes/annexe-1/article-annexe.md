@@ -1,9 +1,17 @@
 # Article Annexe
 
-Agent de bureau
+Agent du service intérieur de 2e catégorie
 
-Manoeuvre spécialisé
+Agent du service intérieur de 1re catégorie
 
-CLASSEMENT AU 1-1-70 : Groupe II
+Manoeuvre de force
 
-CLASSEMENT AU 1-1-74 : Groupe II.
+Manoeuvre
+
+Garçon de laboratoire (cadre d'extinction)
+
+Agent des services hospitaliers
+
+CLASSEMENT AU 1-1-70 : Groupe I
+
+CLASSEMENT AU 1-1-74 : Groupe I.

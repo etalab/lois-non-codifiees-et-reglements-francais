@@ -12,9 +12,7 @@ SITUATION ANCIENNE : Agents ayant bénéficié du classement dans l'échelle sup
 
 SITUATION NOUVELLE : Groupe II.
 
-2) Grades et emplois classés dans l'échelle E2
-
-(à l'exclusion des agents des services hospitaliers) :
+2) Grades et emplois classés dans l'échelle E2 :
 
 SITUATION ANCIENNE : Agents classés dans l'échelle E2 normale
 
@@ -32,7 +30,7 @@ SITUATION NOUVELLE : Groupe II.
 
 SITUATION ANCIENNE : Agents ayant bénéficié du classement dans l'échelle supérieure ES1
 
-SITUATION NOUVELLE : Groupe III provisoire .
+SITUATION NOUVELLE : Groupe III provisoire.
 
 4) Grades et emplois classés dans l'échelle ES1 :
 
@@ -44,9 +42,7 @@ SITUATION ANCIENNE : Agents ayant bénéficié du classement dans l'échelle sup
 
 SITUATION NOUVELLE : Groupe IV provisoire.
 
-5) Grades et emplois classés dans l'échelle ES2
-
-(sous réserve du 6° ci-après) (à l'exclusion des aides-soignants) :
+5) Grades et emplois classés dans l'échelle ES2 sous réserve du 6° ci-après :
 
 SITUATION ANCIENNE : Agents classés dans l'échelle ES2 normale
 
@@ -60,19 +56,21 @@ SITUATION NOUVELLE : Groupe IV.
 
 SITUATION ANCIENNE : Agents classés dans l'échelle ES2 normale
 
-SITUATION NOUVELLE  Groupe IV provisoire.
+SITUATION NOUVELLE : Groupe IV provisoire.
 
 SITUATION ANCIENNE : Agents ayant bénéficié du classement dans l'échelle supérieure ES3
 
 SITUATION NOUVELLE : Groupe V provisoire.
 
-7) Grades et emplois classés dans l'échelle ES3 (sous réserve du 8° ci-après) :
+7) Grades et emplois classés dans l'échelle ES3
+
+(sous réserve du 8° ci-après) :
 
 SITUATION ANCIENNE : Agents classés dans l'échelle ES3 normale
 
 SITUATION NOUVELLE : Groupe IV.
 
-SITUATION ANCIENNE : Agents ayant bénéficié du classement dans l'échelle supérieure  ES4
+SITUATION ANCIENNE : Agents ayant bénéficié du classement dans l'échelle supérieure ES4
 
 SITUATION NOUVELLE : Groupe V.
 
@@ -100,7 +98,9 @@ SITUATION NOUVELLE : Groupe VI provisoire.
 
 SITUATION ANCIENNE : Agents classés dans l'échelle ME1 normale
 
-SITUATION NOUVELLE : Groupe VI provisoire.
+SITUATION NOUVELLE : Groupe VI
+
+provisoire.
 
 SITUATION ANCIENNE : Agents ayant bénéficié du classement dans l'échelle supérieure ME2
 
@@ -116,4 +116,4 @@ SITUATION ANCIENNE : Agents ayant bénéficié du classement dans l'échelle sup
 
 SITUATION NOUVELLE : Groupe VII.
 
-Sous réserve des dispositions de l'article 6 ci-après, les intéressés sont reclassés à l'échelon égal à celui auquel ils étaient parvenus au 31 décembre 1969 ou à la date de leur nomination lorsque celle-ci est postérieure à cette date; ils conservent l'ancienneté d'échelon qu'ils avaient acquise.
+Sous réserve des dispositions de l'article 6 ci-après, les intéressés sont reclassés à l'échelon égal à celui auquel ils étaient parvenus au 31 décembre 1969 ou à la date de leur nomination lorsque celle-ci est postérieure à cette date ; ils conservent l'ancienneté d'échelon qu'ils avaient acquise.

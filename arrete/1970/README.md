@@ -29,6 +29,7 @@
 - [Arrêté du 15 juillet 1970](arrete-du-15-juillet-1970)
 - [Arrêté du 15 octobre 1970](arrete-du-15-octobre-1970)
 - [Arrêté du 17 décembre 1969](arrete-du-17-decembre-1969)
+- [Arrêté du 17 décembre 1970](arrete-du-17-decembre-1970)
 - [Arrêté du 19 août 1970](arrete-du-19-aout-1970)
 - [Arrêté du 19 décembre 1969](arrete-du-19-decembre-1969)
 - [Arrêté du 19 janvier 1970](arrete-du-19-janvier-1970)
