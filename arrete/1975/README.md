@@ -9,6 +9,7 @@
 - [Arrêté du 14 octobre 1975](arrete-du-14-octobre-1975)
 - [Arrêté du 15 avril 1975](arrete-du-15-avril-1975)
 - [Arrêté du 16 janvier 1975](arrete-du-16-janvier-1975)
+- [Arrêté du 17 décembre 1974](arrete-du-17-decembre-1974)
 - [Arrêté du 23 avril 1975](arrete-du-23-avril-1975)
 - [Arrêté du 24 décembre 1974](arrete-du-24-decembre-1974)
 - [Arrêté du 24 janvier 1975](arrete-du-24-janvier-1975)
