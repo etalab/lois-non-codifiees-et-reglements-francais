@@ -1,3 +1,5 @@
 # Article 2
 
-Les obligations de cette émission qui sont assimilables aux obligations de la première tranche portent jouissance du 8 août 1985. L'intérêt payable le 27 mai 1986 est de 6,48 %, soit 129,60 F par obligation.
+Ce traitement est un modèle national de référence déclaré à la Commission nationale de l'informatique et des libertés. Il est à la disposition des responsables des missions locales.
+
+Les traitements automatisés mis en oeuvre par les missions locales, conformément au modèle national prévu par le présent arrêté, doivent faire l'objet d'une déclaration simplifiée complétée d'un acte réglementaire auprès de la commission.
