@@ -1,0 +1,3 @@
+# Article 9
+
+Des décrets pris en conseil des ministres sur le rapport du ministre des finances et des affaires économiques réduiront ou bloqueront partiellement les autorisations de dépenses de travaux neufs accordées aux établissements nationaux par l'article 3 et l'état C de la loi n° 52-14 du 5 janvier 1952 relative au développement des dépenses d'investissements économiques et sociaux pour l'exercice 1952 en conséquence tant des abattements de crédits et des mesures de blocage prévus aux articles 6 et 7 ci-dessus, que de la diminution des possibilités d'auto-financement de certains de ces établissements.

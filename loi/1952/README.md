@@ -5,3 +5,4 @@
 - [Loi n° 52-332 du 24 mars 1952](loi-n-52-332-du-24-mars-1952)
 - [Loi n° 52-336 du 25 mars 1952](loi-n-52-336-du-25-mars-1952)
 - [Loi n° 52-351 du 31 mars 1952](loi-n-52-351-du-31-mars-1952)
+- [Loi n° 52-401 du 14 avril 1952](loi-n-52-401-du-14-avril-1952)
