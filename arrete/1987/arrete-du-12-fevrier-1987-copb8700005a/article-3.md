@@ -1,37 +1,39 @@
 # Article 3
 
-Le comité est présidé par un président ou, en cas d'absence ou d'empêchement de celui-ci, par un vice-président, tous deux élus par l'ensemble des membres du comité parmi les onze membres énumérés au b du présent article.
+Le comité est présidé par un président ou, en cas d'absence ou d'empêchement de celui-ci, par un vice-président, tous deux élus par l'ensemble des membres du comité parmi les douze membres énumérés au b du présent article.
 
 Le comité comprend :
 
 a) Sept membres choisis pour leur compétence dans le domaine de la coopération scientifique et technique :
 
-- le sous-directeur des opérations et programmes internationaux au ministère de l'éducation nationale, de la jeunesse et des sports ;
+Le délégué aux relations européennes, internationales et francophones du ministère de l'éducation nationale, de l'enseignement supérieur et de la recherche, ou son représentant ;
 
-- le directeur de la recherche et des études doctorales au ministère de l'éducation nationale, de la jeunesse et des sports ;
+Le chef de la mission scientifique et technique du secrétariat d'Etat à la recherche, ou son représentant ;
 
-- le sous-directeur de l'enseignement et de la formation au ministère de la coopération et du développement :
+Le président de la commission des relations extérieures de la conférence des présidents d'universités, ou son représentant,
 
-- le sous-directeur de la recherche scientifique et technique au ministère de la coopération et du développement ;
+et, pour le ministère de la coopération :
 
-- le sous-directeur de la santé au ministère de la coopération et du développement ;
+Le sous-directeur du développement économique et de l'environnement, ou son représentant ;
 
-- le sous-directeur du développement rural au ministère de la coopération et du développement ;
+Le sous-directeur du développement institutionnel, ou son représentant ;
 
-- le sous-directeur des infrastructures et de l'industrie au ministère de la coopération et du développement.
+Le sous-directeur de l'éducation, de la recherche et de la culture ou son représentant ;
 
-b) Onze membres nommés par le ministre de la coopération et du développement pour une durée de deux ans renouvelable une fois :
+Le sous-directeur de la santé et du développement social, ou son représentant.
 
-- deux pour les sciences de l'ingénieur ;
+b) Douze membres nommés par le ministre délégué à la coopération pour une durée comprise entre un et trois ans, précisée par la décision de nomination :
 
-- deux pour les sciences de la vie ;
+Deux pour les sciences humaines ;
 
-- un pour les sciences de la terre ;
+Deux pour les sciences juridiques et économiques ;
 
-- un pour les sciences humaines ;
+Deux pour les sciences de la vie ;
 
-- un pour les sciences exactes ;
+Deux pour les sciences agronomiques, la médecine vétérinaire et la zootechnie ;
 
-- deux pour les sciences agronomiques, la médecine vétérinaire et la zootechnie ;
+Deux pour les sciences de l'ingénieur ;
 
-- deux pour les sciences juridiques et économiques.
+Un pour les sciences exactes ;
+
+Un pour les sciences de la terre.

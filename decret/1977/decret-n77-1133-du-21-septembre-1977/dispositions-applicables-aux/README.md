@@ -12,4 +12,6 @@
 - [Article 20](article-20.md)
 - [Article 20-1](article-20-1.md)
 - [Article 21](article-21.md)
+- [Article 23-3](article-23-3.md)
+- [Article 23-4](article-23-4.md)
 - [Article 29](article-29.md)
