@@ -6,7 +6,6 @@
 - [Région Provence-Alpes-Côte d'Azur Population totale : 3.675.730 habitants Nombre de parlementaires : 46.](region-provence-alpes-cote-d-azur-population-totale)
 - [Région REUNION Population totale : 476.675 habitants](region-reunion-population-totale)
 - [Région AQUITAINE    Population totale : 2 550 340 habitants - Nombre de parlementaires : 38](region-aquitaine-population-totale-2-550-340)
-- [Région Alsace](region-alsace)
 - [Région BOURGOGNE](region-bourgogne)
 - [Région BRETAGNE](region-bretagne)
 - [Région CENTRE](region-centre)
