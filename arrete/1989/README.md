@@ -79,6 +79,7 @@
 - [Arrêté du 18 septembre 1989 (AGRR8901774A)](arrete-du-18-septembre-1989-agrr8901774a)
 - [Arrêté du 19 avril 1989 (SPSH8900939A)](arrete-du-19-avril-1989-spsh8900939a)
 - [Arrêté du 19 décembre 1988 (TEFT8804186A)](arrete-du-19-decembre-1988-teft8804186a)
+- [Arrêté du 19 janvier 1989 (JUSD8930013A)](arrete-du-19-janvier-1989-jusd8930013a)
 - [Arrêté du 20 décembre 1988 (SPSS8801837A)](arrete-du-20-decembre-1988-spss8801837a)
 - [Arrêté du 20 décembre 1988 (SPSS8801838A)](arrete-du-20-decembre-1988-spss8801838a)
 - [Arrêté du 20 décembre 1988 (TEFT8804187A)](arrete-du-20-decembre-1988-teft8804187a)
@@ -136,4 +137,5 @@
 - [Arrêté du 30 décembre 1988 (SPSH8900102A)](arrete-du-30-decembre-1988-spsh8900102a)
 - [Arrêté du 30 mars 1989 (SPSS8900129A)](arrete-du-30-mars-1989-spss8900129a)
 - [Arrêté du 31 décembre 1988 (BUDB8840083A)](arrete-du-31-decembre-1988-budb8840083a)
+- [Arrêté du 31 janvier 1989 (SPSH8900211A)](arrete-du-31-janvier-1989-spsh8900211a)
 - [Arrêté du 31 janvier 1989 (TEFT8903125A)](arrete-du-31-janvier-1989-teft8903125a)
