@@ -1,6 +1,6 @@
 # Article 34-1
 
-La pension de réversion visée aux articles 1121-1, second alinéa, 1122, 1122-1, troisième alinéa, 1122-2 et 1122-2-2 du code rural est attribuée lorsque le conjoint de l'assuré décédé ou disparu [*bénéficiaires*] :
+Les pensions de réversion visées au paragraphe 2 de la section 1 du chapitre IV du titre II du livre VII du code rural sont attribuées lorsque le conjoint de l'assuré décédé ou disparu [*bénéficiaires*] :
 
 1° A atteint l'âge de cinquante-cinq ans ;
 

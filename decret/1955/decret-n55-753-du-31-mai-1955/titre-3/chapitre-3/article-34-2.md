@@ -1,6 +1,6 @@
 # Article 34-2
 
-La pension de réversion prévue aux articles 1121-1, deuxième alinéa, 1122, 1122-1, troisième alinéa, 1122-2 et 1122-2-2 du code rural est égale à un pourcentage de la pension principale, constituée selon le cas de la retraite forfaitaire et de la retraite proportionnelle, ou de l'une ou l'autre de ces retraites, dont bénéficiait ou eût bénéficié l'assuré. Ce pourcentage est celui qui est fixé au premier alinéa de l'article D. 353-1 du code de la sécurité sociale.
+Les pensions de réversion prévues au paragraphe 2 de la section 1 du chapitre IV du titre II du livre VII du code rural sont égales à un pourcentage de la pension principale, constituée selon le cas de la retraite forfaitaire et de la retraite proportionnelle, ou de l'une ou l'autre de ces retraites, dont bénéficiait ou eût bénéficié l'assuré. Ce pourcentage est celui qui est fixé au premier alinéa de l'article D. 353-1 du code de la sécurité sociale.
 
 Toutefois, en application du second alinéa du V de l'article 71 de la loi n° 95-95 du 1er février 1995 de modernisation de l'agriculture et sans préjudice des dispositions de l'article 34-4 du présent décret, la fraction réversible de la retraite forfaitaire de l'assuré, déterminée comme il est dit au premier alinéa ci-dessus, est servie :
 
