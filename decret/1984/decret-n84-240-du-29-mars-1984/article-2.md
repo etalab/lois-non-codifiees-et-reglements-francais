@@ -42,7 +42,7 @@ Un notaire ou son suppléant désigné par le conseil supérieur du notariat ;
 
 Deux maires ou leurs représentants nommés par le ministre de l'agriculture sur une liste présentée par l'association des maires de France ;
 
-Le président de l'assemblée permanente des chambres de commerce ou son représentant ;
+Le président de l'assemblée des chambres françaises de commerce ou son représentant ;
 
 Le président de l'assemblée permanente des chambres des métiers ou son représentant ;
 

@@ -20,7 +20,7 @@ Un représentant de la caisse de compensation de l'organisation autonome nationa
 
 Un représentant de la caisse autonome nationale de compensation de l'assurance vieillesse artisanale, désigné par le conseil d'administration de la caisse ;
 
-Deux représentants des chambres de commerce et d'industrie, désignés par l'assemblée permanente des chambres de commerce et d'industrie ;
+Deux représentants des chambres de commerce et d'industrie, désignés par l'assemblée des chambres françaises de commerce et d'industrie ;
 
 Deux représentants des chambres de métiers, désignés par l'assemblée permanente des chambres de métiers.
 

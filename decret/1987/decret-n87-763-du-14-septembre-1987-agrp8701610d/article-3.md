@@ -18,6 +18,6 @@ e) Deux représentants de la transformation agricole ou leurs suppléants désig
 
 a) Huit représentants des organisations spécialisées de producteurs ou leurs suppléants désignés ;
 
-b) Un représentant de l'assemblée permanente des chambres de commerce et d'industrie ou son suppléant désigné ;
+b) Un représentant de l'assemblée des chambres françaises de commerce et d'industrie ou son suppléant désigné ;
 
 c) Un représentant des comités économiques agricoles agréés ou son suppléant désigné.

@@ -38,7 +38,7 @@ Confédération française de la coopération agricole ;
 
 Conseil national du patronat français ;
 
-Assemblée permanente des chambres de commerce et d'industrie ;
+Assemblée des chambres françaises de commerce et d'industrie ;
 
 Association nationale des industries agricoles et alimentaires ;
 

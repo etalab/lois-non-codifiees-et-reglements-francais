@@ -1,5 +1,33 @@
 # Article 1
 
-Le collège des consommateurs et usagers du Conseil national de la consommation est composé de membres proposés par les organisations de consommateurs agréées au niveau national pour ester en justice au titre de l'article 46 de la loi n° 73-1193 du 27 décembre 1973 (1), complété par le décret n° 74-491 du 17 mai 1974, à raison d'un membre titulaire et d'un membre suppléant par organisation.
+Le collège des professionnels du Conseil national de la consommation est composé de [*composition - nombre*] :
 
-Les membres du collège des consommateurs et usagers sont nommés par arrêté du ministre chargé de la consommation.
+a) Trois représentants du secteur de l'agriculture dont :
+
+Deux représentants des producteurs agricoles proposés l'un par la Fédération nationale des syndicats d'exploitants agricoles et l'autre par la Confédération nationale de la mutualité, de la coopération et du crédit agricole ;
+
+Un représentant de l'assemblée permanente des chambres d'agriculture.
+
+b) Douze représentants du secteur de l'industrie, du commerce et des grandes entreprises de services soumises à la concurrence dont :
+
+Onze représentants des principales professions de l'industrie, du commerce et des services ouvrant les producteurs de biens de consommation, y compris industries agricoles et alimentaires, la distribution, le secteur des banques, le secteur de l'assurance, le secteur de la construction, les professions de la publicité, nommés pour neuf postes sur proposition du Conseil national du patronat français, et pour deux postes sur proposition de la confédération générale des petites et moyennes entreprises ;
+
+Un représentant de l'assemblée des chambres françaises de commerce et d'industrie.
+
+c) Deux représentants du secteur de l'artisanat dont :
+
+Un représentant du secteur de l'artisanat proposé par l'union professionnelle des artisans ;
+
+Un représentant de l'assemblée permanente des chambres de métiers.
+
+d) Quatre représentants du secteur des autres services dont :
+
+Un représentant du secteur du logement ;
+
+Deux représentants des services publics ;
+
+Un représentant des professions libérales proposé par l'organisation la plus représentative de l'ensemble des associations et syndicats de professions libérales, après consultation des organisations professionnelles concernées.
+
+Pour chaque siège sont désignés un membre titulaire et un membre suppléant.
+
+Les membres du collège des professionnels sont nommés par arrêté du ministre chargé de la consommation, après avis des ministres intéressés.
