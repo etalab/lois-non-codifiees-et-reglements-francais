@@ -426,7 +426,6 @@
 - [Arrêté du 30 décembre 1988 (INDD8800852A)](arrete-du-30-decembre-1988-indd8800852a)
 - [Arrêté du 30 décembre 1988 (INDD8800853A)](arrete-du-30-decembre-1988-indd8800853a)
 - [Arrêté du 30 décembre 1988 (MERP8800135A)](arrete-du-30-decembre-1988-merp8800135a)
-- [Arrêté du 30 décembre 1988 (MERR8800139A)](arrete-du-30-decembre-1988-merr8800139a)
 - [Arrêté du 30 décembre 1988 (SPSH8900015A)](arrete-du-30-decembre-1988-spsh8900015a)
 - [Arrêté du 30 décembre 1988 (SPSH8900101A)](arrete-du-30-decembre-1988-spsh8900101a)
 - [Arrêté du 30 décembre 1988 (SPSH8900102A)](arrete-du-30-decembre-1988-spsh8900102a)
