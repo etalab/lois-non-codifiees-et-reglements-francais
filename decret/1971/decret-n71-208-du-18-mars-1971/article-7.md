@@ -1,3 +1,0 @@
-# Article 7
-
-Le ministre d'Etat chargé de la défense nationale, le garde des sceaux, ministre de la justice, le ministre de l'économie et des finances, le ministre de l'éducation nationale, le ministre des affaires culturelles, le ministre du développement industriel et scientifique, le ministre de l'équipement et du logement, le ministre des postes et télécommunications, le ministre de l'agriculture, le ministre des transports et le ministre de la santé publique et de la sécurité sociale sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.

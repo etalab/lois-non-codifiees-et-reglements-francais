@@ -55,7 +55,6 @@
 - [Décret n°71-1007 du 17 décembre 1971](decret-n71-1007-du-17-decembre-1971)
 - [Décret n°71-683 du 17 août 1971](decret-n71-683-du-17-aout-1971)
 - [Décret n°71-382 du 17 mai 1971](decret-n71-382-du-17-mai-1971)
-- [Décret n°71-208 du 18 mars 1971](decret-n71-208-du-18-mars-1971)
 - [Décret n°71-209 du 18 mars 1971](decret-n71-209-du-18-mars-1971)
 - [Décret n°71-468 du 18 juin 1971](decret-n71-468-du-18-juin-1971)
 - [Décret n°71-690 du 19 août 1971](decret-n71-690-du-19-aout-1971)
