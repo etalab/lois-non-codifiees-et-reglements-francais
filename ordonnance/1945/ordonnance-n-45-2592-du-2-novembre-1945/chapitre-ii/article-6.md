@@ -10,7 +10,7 @@ La chambre départementale a pour attribution :
 
 4° D'examiner toutes réclamations de la part des tiers contre les huissiers à l'occasion de l'exercice de leur profession, et notamment en ce qui concerne la taxe des frais, et de réprimer par voie disciplinaire, les infractions, sans préjudice de l'action devant les tribunaux, s'il y a lieu ;
 
-5° De vérifier la tenue de la comptabilité dans les études d'huissiers ;
+5° [*alinéa abrogé*] ;
 
 6° De donner son avis, lorsqu'elle en est requise :
 
@@ -20,7 +20,7 @@ b) Sur les différends soumis au tribunal de grande instance en ce qui concerne 
 
 7° De délivrer ou de refuser, par une décision motivée, tous certificats de moralité à elles demandés par les aspirants aux fonctions d'huissiers ;
 
-8° De préparer le budget de la communauté et d'en proposer le vote à l'assemblée générale, de gérer la bourse commune et les biens de la communauté et de poursuivre le recouvrement des cotisations.
+8° De préparer le budget de la communauté et d'en proposer le vote à l'assemblée générale, de gérer les biens de la communauté et de poursuivre le recouvrement des cotisations.
 
 La chambre départementale, siégeant en comité mixte, a pour attributions les questions relatives :
 
