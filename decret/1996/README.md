@@ -1,5 +1,6 @@
 # 1996
 
+- [Décret n°96-160 du 1 mars 1996 (BUDF9620929D)](decret-n96-160-du-1-mars-1996-budf9620929d)
 - [Décret n°96-96 du 1 février 1996 (TASS9523378D)](decret-n96-96-du-1-fevrier-1996-tass9523378d)
 - [Décret n°96-102 du 2 février 1996 (ENVE9530063D)](decret-n96-102-du-2-fevrier-1996-enve9530063d)
 - [Décret n°96-103 du 2 février 1996 (MCCB9500661D)](decret-n96-103-du-2-fevrier-1996-mccb9500661d)
@@ -121,9 +122,11 @@
 - [Décret n°95-1408 du 28 décembre 1995 (AGRG9502410D)](decret-n95-1408-du-28-decembre-1995-agrg9502410d)
 - [Décret n°95-1409 du 28 décembre 1995 (AVIC9503474D)](decret-n95-1409-du-28-decembre-1995-avic9503474d)
 - [Décret n°96-155 du 28 février 1996 (TASS9620496D)](decret-n96-155-du-28-fevrier-1996-tass9620496d)
+- [Décret n°96-159 du 28 février 1996 (ECOB9560055D)](decret-n96-159-du-28-fevrier-1996-ecob9560055d)
 - [Décret n°96-941 du 28 octobre 1996 (INTC9600270D)](decret-n96-941-du-28-octobre-1996-intc9600270d)
 - [Décret n°98-670 du 28 juillet 1998 (PRMX9803059D)](decret-n98-670-du-28-juillet-1998-prmx9803059d)
 - [Décret n°95-1353 du 29 décembre 1995 (TASS9523289D)](decret-n95-1353-du-29-decembre-1995-tass9523289d)
+- [Décret n°96-161 du 29 février 1996 (ENVN9530082D)](decret-n96-161-du-29-fevrier-1996-envn9530082d)
 - [Décret n°96-67 du 29 janvier 1996 (PRMX9600002D)](decret-n96-67-du-29-janvier-1996-prmx9600002d)
 - [Décret n°96-70 du 29 janvier 1996 (AGRS9502477D)](decret-n96-70-du-29-janvier-1996-agrs9502477d)
 - [Décret n°96-72 du 29 janvier 1996 (TASS9523381D)](decret-n96-72-du-29-janvier-1996-tass9523381d)
