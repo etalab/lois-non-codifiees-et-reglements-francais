@@ -58,6 +58,7 @@
 - [Décret n°73-1045 du 19 novembre 1973](decret-n73-1045-du-19-novembre-1973)
 - [Décret n° 70-360 du 21 avril 1970](decret-n-70-360-du-21-avril-1970)
 - [Décret n°70-251 du 21 mars 1970](decret-n70-251-du-21-mars-1970)
+- [Décret du 23 décembre 1970](decret-du-23-decembre-1970)
 - [Décret n°70-1096 du 23 novembre 1970](decret-n70-1096-du-23-novembre-1970)
 - [Décret n°70-1097 du 23 novembre 1970](decret-n70-1097-du-23-novembre-1970)
 - [Décret n°70-1098 du 23 novembre 1970](decret-n70-1098-du-23-novembre-1970)
