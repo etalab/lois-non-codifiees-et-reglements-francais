@@ -8,11 +8,9 @@ A ce titre cette notice énonce notamment [*mentions obligatoires*] :
 
 2° Les mesures d'organisation générale du chantier arrêtées par le maître d'oeuvre ;
 
-3° Les sujétions découlant de l'environnement du chantier ;
+3° Les sujétions découlant de l'environnement du chantier ;    4° Les sujétions afférentes à l'utilisation des protections collectives, des appareils de levage, des accès provisoires et de l'installation électrique générale ;
 
-4° Les sujétions afférentes à l'utilisation des protections collectives, des appareils de levage, des accès provisoires et de l'installation électrique générale ;
-
-5° Pour les opérations de construction de bâtiment, les mesures arrêtées par le maître de l'ouvrage en application de l'article L. 235-2 du code du travail et de la section III du présent décret ;
+5° Pour les opérations de construction de bâtiment, les mesures arrêtées par le maître de l'ouvrage en application de l'article L. 235-16 du code du travail et de la section III du présent décret ;
 
 6° Pour les opérations de génie civil, les dispositions prises par le maître de l'ouvrage pour établir des conditions telles que les locaux destinés au personnel du chantier soient conformes aux prescriptions qui leur sont applicables en matière d'hygiène et de sécurité des travailleurs.
 
