@@ -382,6 +382,7 @@
 - [Arrêté du 17 mars 1987 (ECOS8750004A)](arrete-du-17-mars-1987-ecos8750004a)
 - [Arrêté du 17 mars 1987 (ECOU8700001A)](arrete-du-17-mars-1987-ecou8700001a)
 - [Arrêté du 17 mars 1987 (EQUP8700249A)](arrete-du-17-mars-1987-equp8700249a)
+- [Arrêté du 17 novembre 1987 (BUDR8703132A)](arrete-du-17-novembre-1987-budr8703132a)
 - [Arrêté du 17 novembre 1987 (EQUP8700885A)](arrete-du-17-novembre-1987-equp8700885a)
 - [Arrêté du 17 novembre 1987 (MAEG8710017A)](arrete-du-17-novembre-1987-maeg8710017a)
 - [Arrêté du 17 octobre 1986](arrete-du-17-octobre-1986)
