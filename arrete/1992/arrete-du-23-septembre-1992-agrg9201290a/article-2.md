@@ -67,3 +67,7 @@ Une seule visite est prise en charge par établissement.
 6° Prélèvements destinés au diagnostic de l'anémie infectieuse par l'épreuve d'immunodiffusion en gélose effectués en application de l'arrêté du 23 septembre 1992 susvisé.
 
 Pour chaque équidé prélevé : un quart d'A.M.O.
+
+7° Frais de déplacement des vétérinaires sanitaires occasionnés par l'exécution des opérations visées aux paragraphes 1° à 5° =
+
+indemnités kilométriques calculées selon les mêmes modalités que celles applicables aux fonctionnaires et agents de l'Etat, conformément aux dispositions du décret n° 90-437 du 28 mai 1990.

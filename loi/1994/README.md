@@ -52,6 +52,7 @@
 - [Loi n° 94-5 du 4 janvier 1994 (ECOX9300091L)](loi-n-94-5-du-4-janvier-1994-ecox9300091l)
 - [Loi n° 94-504 du 22 juin 1994 (BUDX9200177L)](loi-n-94-504-du-22-juin-1994-budx9200177l)
 - [Loi n° 94-507 du 23 juin 1994 (DEFX9400044L)](loi-n-94-507-du-23-juin-1994-defx9400044l)
+- [Loi n° 94-529 du 28 juin 1994 (EQUX9300096L)](loi-n-94-529-du-28-juin-1994-equx9300096l)
 - [Loi n° 94-530 du 28 juin 1994 (FPPX9300142L)](loi-n-94-530-du-28-juin-1994-fppx9300142l)
 - [Loi n° 94-531 du 28 juin 1994 (MAEX9300171L)](loi-n-94-531-du-28-juin-1994-maex9300171l)
 - [Loi n° 94-532 du 28 juin 1994 (MAEX9300173L)](loi-n-94-532-du-28-juin-1994-maex9300173l)

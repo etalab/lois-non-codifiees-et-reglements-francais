@@ -1,5 +1,5 @@
 # Article 4
 
-Sont inscrits sur la liste d'aptitude prévue à l'article 3 ci-dessus les candidats déclarés admis à un concours sur titres ouvert aux candidats titulaires du certificat d'auxiliaire de puériculture institué par le décret du 13 août 1947 susvisé et délivré par l'une des écoles énumérées par arrêté du ministre chargé de la santé.
+Sont inscrits sur la liste d'aptitude prévue à l'article 3 ci-dessus les candidats déclarés admis à un concours sur titres ouvert aux candidats titulaires du certificat d'auxiliaire de puériculture institué par le décret du 13 août 1947 susvisé.
 
 Ce concours est également ouvert aux personnes ayant satisfait, après 1971, à l'examen de passage de première en deuxième année du diplôme d'Etat d'infirmier ou, après 1979, du diplôme d'infirmier de secteur psychiatrique.
