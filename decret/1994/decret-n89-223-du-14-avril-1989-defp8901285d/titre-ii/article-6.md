@@ -1,6 +1,6 @@
 # Article 6
 
-Les assistants de recherche et les assistants des techniques médico-militaires sont recrutés parmi les médecins, pharmaciens-chimistes et vétérinaires-biologistes des armées qui :
+Les assistants de recherche et les assistants des techniques médico-militaires sont recrutés parmi les médecins, pharmaciens-chimistes, vétérinaires-biologistes et chirurgiens-dentistes des armées qui :
 
 -ont accompli trois années d'exercice professionnel ;
 
