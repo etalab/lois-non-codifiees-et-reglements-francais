@@ -78,6 +78,7 @@
 - [Décret n°80-1085 du 23 décembre 1980](decret-n80-1085-du-23-decembre-1980)
 - [Décret n°81-174 du 23 février 1981](decret-n81-174-du-23-fevrier-1981)
 - [Décret n°81-178 du 23 février 1981](decret-n81-178-du-23-fevrier-1981)
+- [Décret n°81-392 du 23 avril 1981](decret-n81-392-du-23-avril-1981)
 - [Décret n°81-58 du 23 janvier 1981](decret-n81-58-du-23-janvier-1981)
 - [Décret n°80-927 du 24 novembre 1980](decret-n80-927-du-24-novembre-1980)
 - [Décret n°80-928 du 24 novembre 1980](decret-n80-928-du-24-novembre-1980)

@@ -3,3 +3,4 @@
 - [Article 1](article-1.md)
 - [CHAPITRE 1 : FINANCEMENT](chapitre-1)
 - [CHAPITRE 2 : PRESTATIONS](chapitre-2)
+- [CHAPITRE 3 : DISPOSITIONS DIVERSES](chapitre-3)
