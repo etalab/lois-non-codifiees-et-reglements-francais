@@ -1,0 +1,3 @@
+# Article 4
+
+Le président de la commission prévue à l'article 53 du décret n° 58-1291 du 22 décembre 1958 modifié perçoit pour chaque séance qu'il a effectivement présidée une indemnité de 127,40 F sans que sa rémunération annuelle puisse excéder 5750 F. Le vice-président de ladite commission perçoit pour chaque séance qu'il a effectivement présidée une indemnité de 98,60 F sans que sa rémunération annuelle puisse excéder 5340 F. Les membres de ladite commission perçoivent pour chaque séance à laquelle ils ont effectivement participé une indemnité de 63,70 F. Ils peuvent, en outre, recevoir pour chaque affaire comportant un rapport écrit une ou plusieurs vacations dont le montant unitaire s'élève à 6,40 F. La rémunération annuelle des membres ne peut excéder 4930 F.

@@ -1,0 +1,3 @@
+# Article 64
+
+Les avis des instances d'évaluation du C.N.R.S. requis pour les recrutements et les promotions de chercheurs donnés conformément aux dispositions des décrets du 9 décembre 1959 mentionnés à l'article 58 ci-dessus et du décret du 17 janvier 1980 susvisé sont valables, si la décision du directeur général n'est pas intervenue à la date de publication du présent décret, pour l'accès à l'échelon ou au grade des corps des chargés de recherche ou des directeurs de recherche créés par le présent décret et correspondant, en application des tableaux de la section II du chapitre I du titre II et de l'article 58 de ce décret, aux catégories de chercheurs au titre desquelles ces avis ont été recueillis.

@@ -1,5 +1,5 @@
 # Article 1
 
-Au sens du présent arrêté, les produits de la mer et d'eau douce comprennent tous les animaux ou parties d'animaux marins ou d'eau douce ainsi que les grenouilles et les escargots destinés à être livrés au public en vue de la consommation humaine.
+Le président de la commission nationale technique prévue à l'article L. 195 du code de la sécurité sociale perçoit une indemnité annuelle de 14.046 F [*montant*].
 
-Les produits frais sont les produits qui ne sont pas présentés à l'état vivant et qui n'ont subi aucun traitement de nature à assurer leur conservation, à l'exception de l'action du froid au-dessus de leur point de congélation.
+Les présidents de section, autres que le président de la commission, perçoivent pour chaque audience qu'ils ont effectivement présidée une indemnité de 156 F sans que leur rémunération annuelle puisse excéder 14.046 F [*plafond*].

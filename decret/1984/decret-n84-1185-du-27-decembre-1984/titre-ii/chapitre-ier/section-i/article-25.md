@@ -1,0 +1,3 @@
+# Article 25
+
+Les agents non titulaires de nationalité étrangère non dispensés de la condition de nationalité en application du 3° de l'article précédent, mais qui remplissent, à la date de publication du présent décret, les autres conditions énumérées à cet article ont, s'ils acquièrent la nationalité française avant le 1er janvier 1990, un droit à être titularisés, dans les conditions fixées au présent titre, dans l'un des corps d'assistants ingénieurs, de techniciens de la recherche, d'adjoints techniques de la recherche, d'agents techniques de la recherche, d'aides techniques de la recherche et dans les corps d'administration de la recherche.
