@@ -129,7 +129,6 @@
 - [Décret n°92-901 du 2 septembre 1992 (INTB9200341D)](decret-n92-901-du-2-septembre-1992-intb9200341d)
 - [Décret n°92-902 du 2 septembre 1992 (INTB9200342D)](decret-n92-902-du-2-septembre-1992-intb9200342d)
 - [Décret n°92-904 du 2 septembre 1992 (INTB9200344D)](decret-n92-904-du-2-septembre-1992-intb9200344d)
-- [Décret n°92-905 du 2 septembre 1992 (INTB9200345D)](decret-n92-905-du-2-septembre-1992-intb9200345d)
 - [Décret n°92-906 du 2 septembre 1992 (INTB9200390D)](decret-n92-906-du-2-septembre-1992-intb9200390d)
 - [Décret n°92-907 du 2 septembre 1992 (INTB9200391D)](decret-n92-907-du-2-septembre-1992-intb9200391d)
 - [Décret n°92-911 du 2 septembre 1992 (MENF9203169D)](decret-n92-911-du-2-septembre-1992-menf9203169d)
