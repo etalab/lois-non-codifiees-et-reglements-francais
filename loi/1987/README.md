@@ -25,4 +25,5 @@
 - [Loi n°87-499 du 6 juillet 1987 (ECOX8700078L)](loi-n87-499-du-6-juillet-1987-ecox8700078l)
 - [Loi n°87-520 du 10 juillet 1987 (JUSX8700107L)](loi-n87-520-du-10-juillet-1987-jusx8700107l)
 - [Loi n°87-550 du 16 juillet 1987 (JUSX8700098L)](loi-n87-550-du-16-juillet-1987-jusx8700098l)
+- [Loi n°87-565 du 22 juillet 1987 (INTX8700095L)](loi-n87-565-du-22-juillet-1987-intx8700095l)
 - [Loi n°de du 31 décembre 1986](loi-nde-du-31-decembre-1986)
