@@ -1,3 +1,3 @@
 # Article 4
 
-Le montant de la prime est plafonné à 150.000 F.
+Le montant de la prime est plafonné à 150 000 F. Il peut néanmoins être porté à 200 000 F dans des zones prioritaires définies par une délibération du conseil régional. "
