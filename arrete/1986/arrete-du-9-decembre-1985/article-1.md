@@ -1,3 +1,5 @@
 # Article 1
 
-L'association qui désire obtenir l'agrément pour bénéficier du titre d'association départementale agréée de pêcheurs amateurs aux engins et aux filets sur les eaux du domaine public et des avantages qui lui sont accordés par les articles 414 et 415 du code rural doit remplir les conditions fixées aux articles ci-après.
+La fédération départementale des associations agréées de pêche et de pisciculture, constituée conformément à l'article 5 du décret n° 85-1284 du 28 novembre 1985 susvisé, a pour objet social la protection, la mise en valeur et la surveillance du domaine piscicole départemental, la définition et la coordination des actions des associations adhérentes, le développement de la pêche amateur et la collecte de la taxe piscicole centralisée par le Conseil supérieur de la pêche.
+
+Les statuts de la fédération départementale doivent être conformes aux statuts types annexés au présent arrêté.

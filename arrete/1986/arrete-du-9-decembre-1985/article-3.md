@@ -1,15 +1,5 @@
 # Article 3
 
-Le dossier de demande d'agrément, signé par les membres du bureau, doit comprendre [*contenu*] :
+Une seule fédération réunit les associations agréées des départements de Paris, des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne. De même, une seule fédération réunit les associations agréées des départements de la Corse-du-Sud et de la Haute-Corse. A l'égard de ces fédérations interdépartementales, les attributions dévolues au préfet du département sont exercées par le préfet de région, après consultation des préfets des départements intéressés.
 
-1° La copie du récépissé de la déclaration de l'association à la préfecture et la date de publication légale au Journal officiel ou, pour les associations des départements du Haut-Rhin, du Bas-Rhin et de la Moselle, la copie du récépissé d'inscription au registre des associations du tribunal d'instance ;
-
-2° La justification des droits de pêche détenus par ses membres sur le domaine public fluvial dans le département où la demande est déposée ;
-
-3° L'indication du nombre de ses membres, du montant de la cotisation annuelle, et la liste des membres du bureau ainsi que, le cas échéant, le nombre et la composition des sections de l'association ;
-
-4° Un exemplaire des statuts de l'association qui doivent être conformes aux statuts types figurant en annexe au présent arrêté ;
-
-5° L'attestation d'ouverture d'un compte courant postal destiné uniquement aux opérations d'encaissement et de virement de la taxe piscicole ;
-
-6° L'état descriptif et estimatif de l'actif social à la date de la demande d'agrément.
+Toutes les dispositions relatives aux fédérations départementales sont applicables à ces fédérations interdépartementales.

@@ -1,3 +1,3 @@
 # Article 4
 
-L'agrément ne peut être obtenu que pour le département dans lequel l'association a été déclarée.
+Les fédérations départementales des associations agréées de pêche et de pisciculture doivent mettre leurs statuts en conformité avec les dispositions sus-indiquées avant le 1er mars 1986 [*date limite*] suivant la procédure prévue à l'article 2. Toutefois, les dispositions relatives à l'élection et à la composition du conseil d'administration, aux restrictions aux fonctions de membres du bureau ne seront applicables que lors des prochaines élections. Jusqu'à celles-ci, le président de l'association départementale agréée de pêcheurs amateurs aux engins et aux filets sur les eaux du domaine public siège de droit au conseil d'administration de la fédération départementale.
