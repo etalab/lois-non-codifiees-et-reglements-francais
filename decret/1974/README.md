@@ -7,6 +7,7 @@
 - [Décret n°74-238 du 6 mars 1974](decret-n74-238-du-6-mars-1974)
 - [Décret n°74-98 du 6 février 1974](decret-n74-98-du-6-fevrier-1974)
 - [Décret n°74-230 du 7 mars 1974](decret-n74-230-du-7-mars-1974)
+- [Décret n°74-304 du 10 avril 1974](decret-n74-304-du-10-avril-1974)
 - [Décret n°74-27 du 14 janvier 1974](decret-n74-27-du-14-janvier-1974)
 - [Décret n°74-28 du 14 janvier 1974](decret-n74-28-du-14-janvier-1974)
 - [Décret n°74-58 du 15 janvier 1974](decret-n74-58-du-15-janvier-1974)
