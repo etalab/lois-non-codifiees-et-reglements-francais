@@ -18,6 +18,8 @@ III. - Le président ainsi que les vice-présidents et les membres des premier, 
 
 Le vice-président et les membres du troisième collège sont nommés pour une durée d'un an par décision du directeur général du Centre national de la cinématographie.
 
+Les membres, en cas d'empêchement temporaire, sont remplacés par des membres suppléants choisis dans une liste établie par décision du directeur général.
+
 En cas de cessation de fonction du président, d'un vice-président ou d'un membre, il est pourvu à son remplacement pour la durée restant à courir.
 
 IV. - Le directeur général du Centre national de la cinématographie ou son représentant assiste de droit aux séances de la commission.
