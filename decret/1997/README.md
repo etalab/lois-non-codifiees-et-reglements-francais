@@ -215,7 +215,6 @@
 - [Décret n°97-342 du 11 avril 1997 (TASS9720858D)](decret-n97-342-du-11-avril-1997-tass9720858d)
 - [Décret n°97-343 du 11 avril 1997 (BUDF9710008D)](decret-n97-343-du-11-avril-1997-budf9710008d)
 - [Décret n°97-344 du 11 avril 1997 (INDG9700227D)](decret-n97-344-du-11-avril-1997-indg9700227d)
-- [Décret n°97-345 du 11 avril 1997 (INDG9700228D)](decret-n97-345-du-11-avril-1997-indg9700228d)
 - [Décret n°97-706 du 11 juin 1997 (MESX9700072D)](decret-n97-706-du-11-juin-1997-mesx9700072d)
 - [Décret n°97-707 du 11 juin 1997 (MENX9700074D)](decret-n97-707-du-11-juin-1997-menx9700074d)
 - [Décret n°97-708 du 11 juin 1997 (INTX9700075D)](decret-n97-708-du-11-juin-1997-intx9700075d)
