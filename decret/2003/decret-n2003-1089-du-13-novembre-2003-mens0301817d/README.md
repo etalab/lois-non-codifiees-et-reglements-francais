@@ -1,17 +1,12 @@
-# Décret du 2 octobre 1992 relatif à l'appellation d'origine contrôlée "Monbazillac"
+# Décret n°2003-1089 du 13 novembre 2003 relatif à l'Ecole nationale supérieure des arts et industries textiles.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
 - [Article 3](article-3.md)
-- [Article 3 bis](article-3-bis.md)
 - [Article 4](article-4.md)
 - [Article 5](article-5.md)
 - [Article 6](article-6.md)
 - [Article 7](article-7.md)
 - [Article 8](article-8.md)
-- [Article 9](article-9.md)
 - [Article 10](article-10.md)
 - [Article 11](article-11.md)
-- [Article 12](article-12.md)
-- [Article 13](article-13.md)
-- [Article 14](article-14.md)
