@@ -5,6 +5,4 @@
 - [Titre III : Transports de passagers.](titre-iii)
 - [Titre IV : Entreprises de manutention.](titre-iv)
 - [Dispositions générales.](dispositions-generales)
-- [Entreprises de manutention.](entreprises-de-manutention)
-- [Transport de marchandises](transport-de-marchandises)
 - [Transports de passagers](transports-de-passagers)
