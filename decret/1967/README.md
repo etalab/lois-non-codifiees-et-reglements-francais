@@ -14,6 +14,7 @@
 - [Décret n°67-918 du 12 octobre 1967](decret-n67-918-du-12-octobre-1967)
 - [Décret n°67-58 du 13 janvier 1967](decret-n67-58-du-13-janvier-1967)
 - [Décret n°67-128 du 14 février 1967](decret-n67-128-du-14-fevrier-1967)
+- [Décret n°67-211 du 15 mars 1967](decret-n67-211-du-15-mars-1967)
 - [Décret n°67-91 du 20 janvier 1967](decret-n67-91-du-20-janvier-1967)
 - [Décret n°67-600 du 23 juillet 1967](decret-n67-600-du-23-juillet-1967)
 - [Décret n°67-161 du 24 février 1967](decret-n67-161-du-24-fevrier-1967)
