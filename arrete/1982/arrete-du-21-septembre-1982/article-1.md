@@ -1,9 +1,5 @@
 # Article 1
 
-Il est interdit de détenir en vue de la vente, de mettre en vente ou de vendre, lorsqu'elles sont destinées à être administrées aux animaux dont la chair ou les produits sont consommés par l'homme, les substances chimiques ou biologiques suivantes :
+Sans préjudice de l'application des dispositions en vigueur relatives à la classification et à l'étiquetage des substances dangereuses, la mention suivante doit être portée, de manière lisible et indélébile, sur l'emballage des peintures marines antisalissures de contenu nominal inférieur à 20 litres et renfermant des composés organostanniques :
 
-Stilbènes et dérivés de stilbènes, leurs sels et esters ;
-
-Thyréostatiques.
-
-Il est également interdit de détenir ces substances lorsque les animaux auxquels elles sont destinées sont eux-mêmes élevés en vue de la vente ou de la vente de leurs produits.
+"ATTENTION - Il est interdit d'utiliser ce produit pour le recouvrement des coques, autres que celles en alliage léger, des navires et embarcations de longueur inférieure à 25 mètres hors tout".

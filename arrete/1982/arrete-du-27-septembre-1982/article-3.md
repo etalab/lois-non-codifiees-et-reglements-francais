@@ -1,3 +1,5 @@
 # Article 3
 
-Les entreprises concernées devront tenir à la disposition des agents qualifiés de l'administration tous les éléments justificatifs des modifications de prix opérées.
+Les remises, ristournes et avantages commerciaux de toute nature consentis par les fabricants et leurs dépositaires, les comptoirs de vente et les grossistes répartiteurs, sont progressifs en fonction de l'importance et de la consistance des livraisons.
+
+Les fabricants et leurs dépositaires, les comptoirs de vente et les grossistes répartiteurs ne sont pas autorisés à pratiquer des remises ou des avantages de quelque nature que ce soit s'ils n'ont pas été expressément prévus dans leurs conditions générales de vente.    Pour chaque client, le montant des remises, ristournes et avantages commerciaux sur les médicaments, tels que définis à l'article L. 60 du code de la santé publique, ne peut excéder, par mois et par ligne de produit, 3 p. 100 du prix de ces médicaments.    Le fait pour un pharmacien d'officine de régler son fournisseur dans un délai supérieur à trente jours fin de mois constitue un avantage à prendre en compte dans ce plafonnement, pour un montant équivalent aux intérêts courus pendant la période excédentaire calculés par application du taux de base bancaire majoré de deux points.

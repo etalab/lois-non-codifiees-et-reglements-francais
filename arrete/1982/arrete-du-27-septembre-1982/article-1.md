@@ -1,3 +1,7 @@
 # Article 1
 
-Au stade de la production, sont licites les prix de vente hors T.V.A. résultant de l'application des dispositions de l'arrêté interministériel portant organisation de la campagne rhumière du 2 avril 1982 publié au Journal officiel du 11 mai 1982.
+Les taux limites de marque brute applicable aux ventes de spécialités pharmaceutiques inscrites sur la liste des médicaments remboursables sont fixés, taxe sur la valeur ajoutée comprise, comme suit :
+
+Grossistes répartiteurs : 9,70 p. 100 ;
+
+Pharmaciens d'officine ; 33,44 p. 100.
