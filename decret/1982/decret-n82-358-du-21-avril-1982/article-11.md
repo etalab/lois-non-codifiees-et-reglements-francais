@@ -1,11 +1,5 @@
 # Article 11
 
-Le modèle de la médaille de la Défense nationale est le suivant :
+Nul ne peut obtenir ou conserver la médaille de la Défense nationale s'il a fait l'objet soit d'une condamnation à une peine privative de liberté, avec ou sans sursis, supérieure à six mois, soit d'une sanction statutaire.
 
-Du module de 36 mm, elle présente à l'avers l'effigie de la Marseillaise de Rude avec la mention "République française", au revers un bonnet phrygien et l'inscription "Armée - Nation - Défense nationale".
-
-L'insigne est suspendu à un ruban de 36 mm.
-
-De couleur rouge foncé, il est partagé par une bande médiane de couleur bleu outremer, du tiers de la largeur pour la médaille de bronze.
-
-Le ruban de la médaille d'argent aux mêmes couleurs est agrémenté d'un liséré blanc de 3 mm et le ruban de la médaille d'or aux mêmes couleurs est agrémenté d'un liséré jaune de 3 mm. Les agrafes, en métal blanc, prennent place sur le ruban de la médaille.
+Les fautes sanctionnées d'une punition disciplinaire infligée par le ministre de la défense ou par une autorité militaire investie de pouvoirs disciplinaires identiques ainsi que les peines d'emprisonnement, avec ou sans sursis, inférieures ou égales à six mois, peuvent entraîner la suspension du droit au port de cette médaille.

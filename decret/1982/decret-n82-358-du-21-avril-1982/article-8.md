@@ -1,5 +1,3 @@
 # Article 8
 
-Nul ne peut obtenir la médaille de la Défense nationale s'il est déjà titulaire soit d'un grade ou d'une dignité dans l'un des ordres nationaux, soit de la médaille militaire.
-
-Les dispositions du présent article ne sont pas applicables aux cas visés à l'article 7.
+Elle peut être décernée par décision personnelle du ministre de la défense et dans les mêmes conditions qu'à l'article précédent aux civils n'appartenant pas à la réserve militaire ayant rendu des services particulièrement honorables à la défense de la France ou à ses armées.
