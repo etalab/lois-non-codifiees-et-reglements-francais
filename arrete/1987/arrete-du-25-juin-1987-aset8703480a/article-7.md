@@ -8,4 +8,6 @@ Le jury, constitué en application de l'article 3 du présent arrêté, peut acc
 
 - ou depuis moins de neuf ans si le candidat produit une attestation prouvant qu'il a exercé durant cette période une activité professionnelle de manipulateur d'appareils de radioscopie industrielle et de radiographie industrielle pendant au moins trois ans.
 
+Le jury peut également accorder l'équivalence visée ci-dessus aux titulaires du certificat d'aptitude à manipuler les appareils de radioscopie industrielle et de radiographie industrielle, obtenu dans les conditions fixées par l'arrêté du 2 mai 1977.
+
 Il appartient au jury de vérifier si les titres présentés par le candidat sont toujours en cours de validité et de définir, au vu des éléments qu'il détient, l'étendue et les modalités de la dispense d'épreuves de contrôle des connaissances.

@@ -143,6 +143,7 @@
 - [Décret n°88-839 du 20 juillet 1988 (PRTX8800111D)](decret-n88-839-du-20-juillet-1988-prtx8800111d)
 - [Décret n°88-930 du 20 septembre 1988 (TEFT8803948D)](decret-n88-930-du-20-septembre-1988-teft8803948d)
 - [Décret n°88-1142 du 21 décembre 1988 (AGRB8802034D)](decret-n88-1142-du-21-decembre-1988-agrb8802034d)
+- [Décret n°88-1144 du 21 décembre 1988 (AGRX8800148D)](decret-n88-1144-du-21-decembre-1988-agrx8800148d)
 - [Décret n°88-768 du 21 juin 1988 (TRST8800299D)](decret-n88-768-du-21-juin-1988-trst8800299d)
 - [Décret n°88-840 du 21 juillet 1988 (SPOX8800108D)](decret-n88-840-du-21-juillet-1988-spox8800108d)
 - [Décret n°88-841 du 21 juillet 1988 (ECOT8811031D)](decret-n88-841-du-21-juillet-1988-ecot8811031d)
