@@ -1,0 +1,3 @@
+# Article 13
+
+L'agrément est subordonné aux conditions conjointes définies à l'article 11 du présent arrêté. En outre ces installations, à l'exception de celles comportant un appareil fonctionnant sous une tension inférieure à 12 kV, doivent obligatoirement être pourvues, pour la détermination des doses thérapeutiques, d'un dosimètre intégrateur assorti d'un certificat d'étalonnage du laboratoire de métrologie des rayonnements ionisants ou du laboratoire central des industries électriques ; ce certificat doit être renouvelé tous les trois ans [*périodicité*] et copie en est transmise au service central de protection contre les rayonnements ionisants.

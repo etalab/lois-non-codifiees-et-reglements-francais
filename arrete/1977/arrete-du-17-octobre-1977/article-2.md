@@ -1,3 +1,3 @@
 # Article 2
 
-Le directeur des transports terrestres est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+La liste nominative des membres du comité est arrêtée pour chaque sélection annuelle par le préfet de la région d'Ile-de-France, préfet de Paris.
