@@ -1,6 +1,7 @@
 # Décret n°62-479 du 14 avril 1962 portant création d'un établissement public en application de l'article 78-1 du code de l'urbanisme et de l'habitation.
 
 - [Article 2](article-2.md)
+- [Article 3](article-3.md)
 - [Article 4](article-4.md)
 - [Article 6](article-6.md)
 - [Article 7](article-7.md)
