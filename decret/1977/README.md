@@ -11,7 +11,6 @@
 - [Décret n°78-527 du 3 avril 1978](decret-n78-527-du-3-avril-1978)
 - [Décret n°77-12 du 4 janvier 1977](decret-n77-12-du-4-janvier-1977)
 - [Décret n°77-203 du 4 mars 1977](decret-n77-203-du-4-mars-1977)
-- [Décret n°77-245 du 4 mars 1977](decret-n77-245-du-4-mars-1977)
 - [Décret n°77-892 du 4 août 1977](decret-n77-892-du-4-aout-1977)
 - [Décret n°77-930 du 4 août 1977](decret-n77-930-du-4-aout-1977)
 - [Décret n°78-832 du 4 août 1978](decret-n78-832-du-4-aout-1978)
