@@ -13,6 +13,7 @@
 - [Loi n° 86-18 du 6 janvier 1986](loi-n-86-18-du-6-janvier-1986)
 - [Loi n° 86-2 du 3 janvier 1986](loi-n-86-2-du-3-janvier-1986)
 - [Loi n° 86-33 du 9 janvier 1986](loi-n-86-33-du-9-janvier-1986)
+- [Loi n° 86-793 du 2 juillet 1986](loi-n-86-793-du-2-juillet-1986)
 - [Loi n° 86-824 du 11 juillet 1986](loi-n-86-824-du-11-juillet-1986)
 - [Loi n° 86-825 du 11 juillet 1986](loi-n-86-825-du-11-juillet-1986)
 - [Loi n° 86-845 du 17 juillet 1986](loi-n-86-845-du-17-juillet-1986)

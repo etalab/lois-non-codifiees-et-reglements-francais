@@ -1,6 +1,6 @@
 # Article 10
 
-I. - Postérieurement au décret visé au premier alinéa du paragraphe II de l'article 2 de la loi de privatisation n° 93-923 du 19 juillet 1993 et préalablement à la saisine de la commission de la privatisation, un décret détermine, pour chacune des entreprises mentionnées à l'article 2 de la loi de privatisation n° 93-923 du 19 juillet 1993, si la protection des intérêts nationaux exige qu'une action ordinaire de l'Etat soit transformée en une action spécifique [*golden share*] assortie de tout ou partie des droits définis ci-dessous. Dans l'affirmative, ledit décret prononce également cette transformation.
+I. - Postérieurement au décret visé au premier alinéa du paragraphe II de l'article 2 de la loi de privatisation n° 93-923 du 19 juillet 1993 et préalablement à la saisine de la commission de la privatisation, un décret détermine, pour chacune des entreprises mentionnées à l'article 2 de la loi de privatisation n° 93-923 du 19 juillet 1993, si la protection des intérêts nationaux exige qu'une action ordinaire de l'Etat soit transformée en une action spécifique assortie de tout ou partie des droits définis ci-dessous. Dans l'affirmative, ledit décret prononce également cette transformation.
 
 Les droits pouvant être attachés à une action spécifique sont les suivants :
 
@@ -8,7 +8,7 @@ Les droits pouvant être attachés à une action spécifique sont les suivants :
 
 2° La nomination au conseil d'administration ou de surveillance, selon le cas, d'un ou deux représentants de l'Etat désignés par décret et sans voix délibérative ;
 
-3° Le pouvoir de s'opposer, dans des conditions fixées par décret en Conseil d'Etat, aux décisions de cession d'actifs ou d'affectation de ceux-ci à titre de garantie, qui sont de nature à porter atteinte aux intérêts nationaux.
+3° Le pouvoir de s'opposer, dans des conditions fixées par décret en Conseil d'Etat, aux décisions de cession d'actifs ou de certains types d'actifs de la société ou de ses filiales ou d'affectation de ceux-ci à titre de garantie, qui sont de nature à porter atteinte aux intérêts nationaux.
 
 L'institution de cette action produit ses effets de plein droit.    Hormis les cas où l'indépendance nationale est en cause, l'action spécifique peut à tout moment être définitivement transformée en action ordinaire par décret.
 

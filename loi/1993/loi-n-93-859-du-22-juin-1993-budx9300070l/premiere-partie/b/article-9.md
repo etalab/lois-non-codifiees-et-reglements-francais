@@ -2,7 +2,7 @@
 
 Dans des conditions fixées par décret, le ministre de l'économie est autorisé à émettre, avant le 31 décembre 1993, un emprunt d'Etat assorti des caractéristiques visées aux alinéas suivants.
 
-Lors des offres effectuées dans le cadre du titre II de la loi n° 86-912 du 6 août 1986 relative aux modalités d'application des privatisations et destinées aux personnes physiques de nationalité française ou résidentes mentionnées à l'article 13 de la loi précitée, ces personnes peuvent régler les actions cédées par l'Etat en titres de l'emprunt visé au présent article.
+Lors des offres effectuées dans le cadre du titre II de la loi n° 86-912 du 6 août 1986 relative aux modalités d'application des privatisations et destinées aux personnes physiques de nationalité française ou résidentes mentionnées à l'article 13 de la loi précitée, ces personnes peuvent régler les titres cédés par l'Etat en titres de l'emprunt visé au présent article.
 
 Cette faculté est également ouverte aux personnes physiques ayant la qualité de ressortissant de l'un des Etats membres de la Communauté européenne.
 

@@ -18,7 +18,13 @@ a) Un élément égal au produit de la superficie de l'emprise au sol des ouvrag
 
 3. 200 F par mètre carré pour une emprise située dans une commune de plus de 100 000 habitants ;
 
-b) Un élément égal au produit du volume prélevable ou rejetable par l'ouvrage par un taux de base compris entre 1 et 3 centimes par mètre cube prélevable ou rejetable, et identique pour tous les usagers. A ce deuxième élément est appliqué un coefficient d'abattement compris entre 90 et 97 p. 100 pour les usages agricoles et entre 10 et 30 p. 100 pour les usages industriels.    Pour les ouvrages hydroélectriques autorisés en application de la loi du 16 octobre 1919 précitée, le second élément est égal au produit de la puissance maximale brute autorisée de la chute par un taux de base compris entre 40 F et 120 F par kilowatt.
+Toutefois, pour les ouvrages destinés à un usage agricole, le plafond est celui fixé au 1 quelle que soit la population de la commune où est situé l'ouvrage.
+
+En ce qui concerne les ouvrages hydroélectriques autorisés en application de la loi du 16 octobre 1919 relative à l'utilisation de l'énergie hydraulique, la superficie de l'emprise au sol est égale à la somme de l'emprise des canaux d'amenée et de rejet entre le premier élément mobile du canal d'amenée et le dernier élément mobile du canal de rejet et de la partie de l'emprise de l'usine d'exploitation qui n'est pas située sur les canaux.
+
+b) Un élément égal au produit du volume prélevable ou rejetable par l'ouvrage par un taux de base compris entre 1 et 3 centimes par mètre cube prélevable ou rejetable, et identique pour tous les usagers. A ce deuxième élément est appliqué un coefficient d'abattement compris entre 90 et 97 p. 100 pour les usages agricoles et entre 10 et 30 p. 100 pour les usages industriels.    Le montant total de la taxe afférente aux ouvrages hydroélectriques autorisés en application de la loi du 16 octobre 1919 précitée ne peut dépasser un montant égal à 3 p. 100 du chiffre d'affaires généré par ces ouvrages au cours de l'année précédant l'année d'imposition. La première année de mise en exploitation d'un ouvrage, ce plafond est assis sur le chiffre d'affaires de l'année en cours et affecté d'un abattement calculé au prorata temporis de la durée d'exploitation. En outre, le montant total de la taxe due est réduit de moitié pendant les dix années suivant la mise en exploitation initiale de l'ouvrage.
+
+Pour les ouvrages hydroélectriques autorisés en application de la loi du 16 octobre 1919 précitée, le second élément est égal au produit de la puissance maximale brute autorisée de la chute par un taux de base compris entre 40 F et 120 F par kilowatt.
 
 Les titulaires d'ouvrages mentionnés au premier alinéa du II du présent article doivent adresser chaque année au comptable de l'établissement public une déclaration accompagnée du paiement de la taxe due.
 

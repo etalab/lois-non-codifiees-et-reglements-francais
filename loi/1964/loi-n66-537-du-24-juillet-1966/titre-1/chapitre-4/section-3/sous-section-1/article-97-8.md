@@ -1,6 +1,6 @@
 # Article 97-8
 
-En cas de vacance, par décès, démission, révocation ou rupture du contrat de travail, d'un siège d'administrateur élu par les salariés, le siège vacant est pourvu de la manière suivante :
+En cas de vacance, par décès, démission, révocation, rupture du contrat de travail ou pour toute autre cause que ce soit, d'un siège d'administrateur élu par les salariés, le siège vacant est pourvu de la manière suivante :
 
 - lorsque l'élection a eu lieu au scrutin majoritaire à deux tours, par le remplaçant ;
 
