@@ -1,0 +1,15 @@
+# Partie A : Construction
+
+- [Article 213-1.18](article-213-1-18.md)
+- [Article 213-1.19](article-213-1-19.md)
+- [Article 213-1.20](article-213-1-20.md)
+- [Article 213-1.21](article-213-1-21.md)
+- [Article 213-1.22](article-213-1-22.md)
+- [Article 213-1.23](article-213-1-23.md)
+- [Article 213-1.24](article-213-1-24.md)
+- [Article 213-1.25](article-213-1-25.md)
+- [Article 213-1.26](article-213-1-26.md)
+- [Article 213-1.27](article-213-1-27.md)
+- [Article 213-1.28](article-213-1-28.md)
+- [Article 213-1.29](article-213-1-29.md)
+- [Article 213-1.30](article-213-1-30.md)

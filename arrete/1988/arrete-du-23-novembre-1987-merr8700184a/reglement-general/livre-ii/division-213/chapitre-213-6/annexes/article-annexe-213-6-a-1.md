@@ -1,0 +1,7 @@
+# Article Annexe 213-6.A.1
+
+MODELE DE CERTIFICAT INTERNATIONAL DE PREVENTION
+
+DE LA POLLUTION DE L'ATMOSPHERE (Certificat IAPP)
+
+Annexe non reproduite

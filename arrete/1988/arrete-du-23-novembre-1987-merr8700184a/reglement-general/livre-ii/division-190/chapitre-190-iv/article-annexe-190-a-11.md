@@ -1,0 +1,7 @@
+# Article Annexe 190-A.11
+
+MODÈLE DE CERTIFICAT D'ACCESSIBILITÉ POUR NAVIRE A PASSAGERS
+
+CERTIFICAT D'ACCESSIBILITÉ POUR NAVIRE A PASSAGERS
+
+(certificat non reproduit ; consultez le fac-similé)

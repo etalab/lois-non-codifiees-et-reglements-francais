@@ -1,0 +1,5 @@
+# Article Appendice 4
+
+MODELE NOMALISE DE MANUEL SUR LES METHODES ET DISPOSITIFS DE REJET
+
+Appendice non reproduit

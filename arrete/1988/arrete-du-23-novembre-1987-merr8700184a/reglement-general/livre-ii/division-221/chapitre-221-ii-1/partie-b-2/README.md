@@ -1,0 +1,15 @@
+# Partie B-2 : Compartimentage et étanchéité à l'eau et aux intempéries.
+
+- [Article 221-II-1/09](article-221-ii-1-09.md)
+- [Article 221-II-1/10](article-221-ii-1-10.md)
+- [Article 221-II-1/11](article-221-ii-1-11.md)
+- [Article 221-II-1/12](article-221-ii-1-12.md)
+- [Article 221-II-1/13](article-221-ii-1-13.md)
+- [Article 221-II-1/13-1](article-221-ii-1-13-1.md)
+- [Article 221-II-1/14](article-221-ii-1-14.md)
+- [Article 221-II-1/15](article-221-ii-1-15.md)
+- [Article 221-II-1/15-1](article-221-ii-1-15-1.md)
+- [Article 221-II-1/16](article-221-ii-1-16.md)
+- [Article 221-II-1/16-1](article-221-ii-1-16-1.md)
+- [Article 221-II-1/17](article-221-ii-1-17.md)
+- [Article 221-II-1/17-1](article-221-ii-1-17-1.md)

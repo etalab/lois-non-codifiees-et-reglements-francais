@@ -1,0 +1,17 @@
+# Article 213-2.06
+
+Classement en catégories et liste des substances liquides nocives et autres substances
+
+1 Aux fins des articles du présent chapitre, les substances liquides nocives sont réparties en quatre catégories, comme suit :
+
+1 Catégorie X - Substances liquides nocives qui, si elles sont rejetées à la mer lors d'opérations de nettoyage des citernes ou de déballastage, sont réputées présenter un risque grave pour les ressources marines ou pour la santé humaine et justifient donc l'interdiction des rejets dans le milieu marin ;
+
+2 Catégorie Y - Substances liquides nocives qui, si elles sont rejetées à la mer lors d'opérations de nettoyage des citernes ou de déballastage, sont réputées présenter un risque pour les ressources marines ou pour la santé humaine ou causer un préjudice aux valeurs d'agrément ou à d'autres utilisations légitimes de la mer et justifient donc une limitation de la qualité et de la quantité des rejets dans le milieu marin ;
+
+3 Catégorie Z - Substances liquides nocives qui, si elles sont rejetées à la mer lors d'opérations de nettoyage des citernes ou de déballastage, sont réputées présenter un risque faible pour les ressources marines ou pour la santé humaine et justifient donc des restrictions moins rigoureuses de la qualité et de la quantité des rejets dans le milieu marin.
+
+4 Autres substances : les substances identifiées par la mention OS (autres substances) dans la colonne des catégories de pollution du chapitre 18 du Recueil international de règles sur les transporteurs de produits chimiques, qui ont été évaluées et dont il a été constaté qu'elles ne relevaient pas des catégories X, Y ou Z telles que définies à l'article 213-2.6.1 du présent chapitre du fait qu'elles sont considérées, actuellement, comme ne présentant pas de danger pour les ressources marines, la santé humaine, les valeurs d'agrément ou d'autres utilisations légitimes de la mer lorsqu'elles sont rejetées à la mer au cours d'opérations de nettoyage des citernes ou de déballastage. Le rejet d'eaux de cale ou de ballast ou d'autres résidus ou mélanges contenant uniquement des substances désignées en tant que "Autres substances" n'est soumis à aucune des prescriptions du présent chapitre.
+
+2 Les directives à suivre pour le classement en catégories des substances liquides nocives figurent à l'appendice 1 du présent chapitre.
+
+3 Lorsqu'il est envisagé de transporter une substance liquide en vrac qui n'a pas été classée dans une catégorie définie au paragraphe 1 du présent article, les Gouvernements des Parties à la Convention concernés par le transport envisagé doivent établir d'un commun accord une évaluation provisoire aux fins de ce transport, en se fondant sur les directives mentionnées au paragraphe 2 du présent article. Le transport ne doit pas avoir lieu avant que les gouvernements concernés ne se soient mis pleinement d'accord sur cette évaluation. Le Gouvernement du pays de production ou d'expédition qui a demandé l'accord doit en informer l'Organisation dès que possible, et au plus tard 30 jours après la date à laquelle cet accord a été conclu, en lui communiquant des renseignements relatifs à la substance et à l'évaluation provisoire, aux fins de diffusion annuelle à toutes les Parties pour information. L'Organisation doit tenir un registre de toutes les substances de ce type et de leur évaluation provisoire jusqu'à ce qu'elles soient officiellement incorporées dans le Recueil IBC.
