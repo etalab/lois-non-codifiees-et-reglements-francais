@@ -1,0 +1,3 @@
+# Article 22
+
+Les taxes et droits de commission des services financiers applicables en France, dans les départements français d'outre-mer et à Saint-Pierre-et-Miquelon, dans les relations avec la République populaire du Bénin, du Burkina Faso, de la République unie du Cameroun, la République centrafricaine, la République fédérale et islamique des Comores, la République populaire du Congo, la République de Côte-d'Ivoire, la République gabonaise, la République du Mali, la République du Niger, la République du Sénégal, la République du Tchad et la République togolaise sont ceux en vigueur au départ du régime intérieur à destination de la collectivité territoriale de Mayotte et des territoires d'outre-mer prévus à l'article 6 du décret n° 88-873 du 10 août 1988 susvisé.
