@@ -14,7 +14,7 @@ Diplôme de psychopathologie de l'université Grenoble-II ;
 
 Certificat d'études supérieures de psychologie pathologique délivré par l'université Lille-III ;
 
-Diplôme de psychopathologie pratique (option Psychologie ou psychopédagogie médico-sociale) délivré par l'université Lyon-II ;
+Diplôme de psychologie pratique (option Psychopathologie ou psychopédagogie médico-sociale) délivré par l'université Lyon-II ;
 
 Diplôme de psychopathologie et de psychologie appliquée délivré par l'université Montpellier-III ;
 

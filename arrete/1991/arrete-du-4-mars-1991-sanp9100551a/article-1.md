@@ -48,7 +48,7 @@ Quatre membres appartenant à la profession, désignés par le ministre chargé 
 
 - un infirmier de secteur psychiatrique.
 
-Seize membres appartenant à l'administration, aux organismes intéressés et au corps médical :
+Dix-sept membres appartenant à l'administration, aux organismes intéressés et au corps médical :
 
 - le directeur général de la santé ou son représentant, président ;
 
@@ -58,17 +58,19 @@ Seize membres appartenant à l'administration, aux organismes intéressés et au
 
 - le directeur de la sécurité sociale ou son représentant ;
 
-- le ministre de l'éducation nationale ou son représentant ;
+- le ministre chargé de l'éducation nationale ou son représentant ;
+
+- le ministre chargé de l'enseignement supérieur ou son représentant ;
 
 - un médecin inspecteur régional de la santé ;
 
-- le directeur général de l'assistance publique à Paris ou son représentant ;
+- le directeur général de l'Assistance publique à Paris ou son représentant ;
 
 - une conseillère technique régionale en soins infirmiers ;
 
-- trois membres désignés par le ministre chargé de la santé, sur propositions respectives de la Croix-Rouge française, de la Fédération hospitalière de France et de la Fédération des établissements hospitaliers et d'assistances privées ;
+- trois membres désignés par le ministre chargé de la santé, sur proposition respective de la Croix-Rouge française, de la Fédération hospitalière de France et de la Fédération des établissements hospitaliers et d'assistance privées ;
 
-- trois médecins désignés par le ministre chargé de la santé, sur propositions respectives de la Confédération des syndicats médicaux français, de la Fédération des médecins de France et de la Fédération française des médecins généralistes ;
+- trois médecins désignés par le ministre chargé de la santé sur proposition respective de la Confédération des syndicats médicaux français, de la Fédération des médecins de France et de la Fédération française des médecins généralistes ;
 
 - deux médecins désignés par le ministre chargé de la santé en raison de leur compétence.
 
