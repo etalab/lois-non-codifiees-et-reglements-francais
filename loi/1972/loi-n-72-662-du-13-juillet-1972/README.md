@@ -6,6 +6,7 @@
 - [Titre II : Dispositions statutaires concernant les militaires de carrière officiers et sous-officiers](titre-ii)
 - [Article 3](article-3.md)
 - [Titre III : Dispositions concernant les militaires servant en vertu d'un contrat](titre-iii)
+- [Titre III bis : Dispositions concernant les volontaires dans les armées](titre-iii-bis)
 - [Article 4](article-4.md)
 - [Titre IV : Dispositions concernant les personnels accomplissant le service militaire dans les conditions prévues par le code du service national et les militaires des réserves.](titre-iv)
 - [Article 5](article-5.md)
