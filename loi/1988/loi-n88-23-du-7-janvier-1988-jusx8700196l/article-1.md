@@ -1,0 +1,3 @@
+# Article 1
+
+Jusqu'au 31 décembre 1995 [*date*] , les magistrats des cours d'appel et des tribunaux de grande instance, lorsqu'ils atteignent la limite d'âge fixée par le premier alinéa de l'article 76 de l'ordonnance n° 58-1270 du 22 décembre 1958 portant loi organique relative au statut de la magistrature, sont, sur leur demande, maintenus en activité en surnombre dans leur juridiction afin d'y exercer, pour une période non renouvelable de trois ans [*durée - délai*], respectivement et selon qu'ils appartiennent au siège ou au parquet, les fonctions de conseiller ou de substitut général et les fonctions de juge ou de substitut.

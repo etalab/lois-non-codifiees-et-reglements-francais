@@ -14,4 +14,5 @@
 - [Loi n° 88-18 du 5 janvier 1988 (COMX8700164L)](loi-n-88-18-du-5-janvier-1988-comx8700164l)
 - [Loi n°88-20 du 6 janvier 1988 (CLRX8700051L)](loi-n88-20-du-6-janvier-1988-clrx8700051l)
 - [Loi n°88-21 du 6 janvier 1988 (CCLX8700197L)](loi-n88-21-du-6-janvier-1988-cclx8700197l)
+- [Loi n°88-23 du 7 janvier 1988 (JUSX8700196L)](loi-n88-23-du-7-janvier-1988-jusx8700196l)
 - [Loi n°88-3 du 4 janvier 1988 (MAEX8700189L)](loi-n88-3-du-4-janvier-1988-maex8700189l)

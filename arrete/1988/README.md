@@ -19,6 +19,7 @@
 - [Arrêté du 13 octobre 1987 (BUDD8761200A)](arrete-du-13-octobre-1987-budd8761200a)
 - [Arrêté du 16 septembre 1987 (ASEH8701339A)](arrete-du-16-septembre-1987-aseh8701339a)
 - [Arrêté du 17 mars 1988 (DEFP8801150A)](arrete-du-17-mars-1988-defp8801150a)
+- [Arrêté du 19 novembre 1987 (ECOC8700128A)](arrete-du-19-novembre-1987-ecoc8700128a)
 - [Arrêté du 19 octobre 1987 (BUDD8761211A)](arrete-du-19-octobre-1987-budd8761211a)
 - [Arrêté du 22 décembre 1987 (ASES8701910A)](arrete-du-22-decembre-1987-ases8701910a)
 - [Arrêté du 22 janvier 1988 (INDA8800027A)](arrete-du-22-janvier-1988-inda8800027a)

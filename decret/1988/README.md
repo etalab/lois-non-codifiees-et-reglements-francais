@@ -2,10 +2,13 @@
 
 - [Décret n°88-490 du 2 mai 1988 (DEFP8801265D)](decret-n88-490-du-2-mai-1988-defp8801265d)
 - [Décret n°75-142 du 3 mars 1975](decret-n75-142-du-3-mars-1975)
+- [Décret n°88-25 du 4 janvier 1988 (AGRS8702223D)](decret-n88-25-du-4-janvier-1988-agrs8702223d)
 - [Décret n°87-312 du 5 mai 1987 (MCCB8700170D)](decret-n87-312-du-5-mai-1987-mccb8700170d)
 - [Décret n°88-590 du 6 mai 1988 (BUDB8850027D)](decret-n88-590-du-6-mai-1988-budb8850027d)
 - [Décret n°88-604 du 6 mai 1988 (DEFP8801286D)](decret-n88-604-du-6-mai-1988-defp8801286d)
 - [Décret n°88-646 du 6 mai 1988 (RESM8800453D)](decret-n88-646-du-6-mai-1988-resm8800453d)
+- [Décret n°88-24 du 7 janvier 1988 (ASED8703901D)](decret-n88-24-du-7-janvier-1988-ased8703901d)
+- [Décret n°88-29 du 8 janvier 1988 (PRMG8870002D)](decret-n88-29-du-8-janvier-1988-prmg8870002d)
 - [Décret n°88-38 du 13 janvier 1988 (JUSB8710496D)](decret-n88-38-du-13-janvier-1988-jusb8710496d)
 - [Décret n°88-157 du 16 février 1988 (FPPA8700092D)](decret-n88-157-du-16-fevrier-1988-fppa8700092d)
 - [Décret n°90-1022 du 16 novembre 1990 (PRMG8970365D)](decret-n90-1022-du-16-novembre-1990-prmg8970365d)
