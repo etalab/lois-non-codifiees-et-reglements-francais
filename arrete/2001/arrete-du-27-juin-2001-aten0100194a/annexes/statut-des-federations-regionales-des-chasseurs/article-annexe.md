@@ -188,16 +188,16 @@ Contrôle
 
 Article 11
 
-Le préfet du département du lieu du siège contrôle l'exécution des missions de service public auxquelles participe la fédération régionale des chasseurs.
+Le préfet de région contrôle l'exécution des missions de service public auxquelles participe la fédération régionale des chasseurs.
 
 La fédération régionale des chasseurs est soumise au contrôle économique et financier de l'Etat.
 
-Le budget de la fédération est, avant d'être exécuté, soumis à l'approbation du préfet du département du lieu du siège.
+Le budget de la fédération est, avant d'être exécuté, soumis à l'approbation du préfet de région.
 
 Le préfet veille à l'inscription des charges et des produits obligatoires relatifs aux missions de service public de la fédération. Il s'oppose à l'inscription de charges et de produits non prévus par la loi ou les règlements.
 
 Le préfet veille à ce que le fond de roulement net global prévu à la fin de l'exercice à venir soit compris entre 50 et 100 % de la moyenne des charges constatées au cours des deux derniers exercices clos et fait procéder à l'ajustement nécessaire des cotisations pour que cette règle soit respectée.
 
-En cas de défaillance de la fédération, la gestion d'office de son budget ou son administration est assurée par le préfet du département du lieu du siège.
+En cas de défaillance de la fédération, la gestion d'office de son budget ou son administration est assurée par le préfet de région.
 
 La fédération départementale des chasseurs est soumise au contrôle visé aux articles L. 111-7 et L. 211-6 du code des juridictions financières.
