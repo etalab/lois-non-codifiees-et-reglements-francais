@@ -1,7 +1,5 @@
 # Article 8
 
-Lorsqu'un membre titulaire des commissions spécialisées appartenant aux catégories mentionnées au 1° de l'article 5 n'est plus membre du conseil plénier ou lorsqu'il démissionne d'une commission spécialisée, il est remplacé jusqu'à l'expiration de son mandat par son suppléant qui devient titulaire. Le siège de suppléant vacant est alors pourvu par un membre du Conseil supérieur de l'éducation non élu à la commission spécialisée figurant sur la liste à laquelle appartenait le membre de la commission à remplacer, selon les modalités suivantes : est pris en premier lieu le candidat placé sur cette liste en première position de titulaire non élu, puis son suppléant, puis le second titulaire non élu puis le suppléant de ce dernier et ainsi de suite jusqu'à la fin de la liste. En cas d'épuisement de la liste, il est procédé à une élection, par l'ensemble de la catégorie concernée, au scrutin majoritaire uninominal à deux tours.
+Lorsqu'un membre de l'une des commissions spécialisées appartenant aux catégories mentionnées à l'article 5 cesse de faire partie de cette commission, pour quelque cause que ce soit, il est remplacé. Le siège est alors attribué sur proposition de l'organisation ayant présenté le membre ainsi remplacé.
 
-Lorsqu'un membre titulaire d'une commission spécialisée appartenant à la catégorie mentionnée au 2° de l'article 5 n'est plus membre du conseil plénier ou lorsqu'il démissionne d'une commission spécialisée, il est remplacé jusqu'à l'expiration de son mandat par son suppléant qui devient titulaire. Le siège de suppléant vacant est alors pourvu par élection, par l'ensemble des membres du conseil à l'exception de ceux qui sont mentionnés au 1° (a) et au 1° (gb) de l'article 2 au scrutin majoritaire uninominal à deux tours.
-
-Le mandat de ces nouveaux membres expire lors du renouvellement général du conseil.
+Le mandat du remplaçant expire lors du renouvellement général du conseil.

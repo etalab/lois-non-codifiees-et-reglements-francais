@@ -1,6 +1,6 @@
 # Article 4
 
-Le Conseil supérieur de l'éducation comprend une section permanente, composée de quarante-huit membres du conseil, ainsi répartis :
+Le Conseil supérieur de l'éducation comprend une section permanente, composée de quarante-neuf membres du conseil, ainsi répartis :
 
 1° Vingt-quatre membres représentant les enseignants, les enseignants-chercheurs et les autres personnels de l'enseignement public ainsi que les établissements d'enseignement privés et leurs personnels, à savoir :
 
@@ -10,11 +10,11 @@ b) Trois membres représentant les établissements d'enseignement privés et leu
 
 2° Dix membres représentant les usagers, élus par les membres mentionnés au 2° de l'article 2.
 
-3° Quatorze membres représentant les collectivités territoriales, les associations périscolaires et les grands intérêts culturels, éducatifs, sociaux et économiques, à savoir :
+3° Quinze membres représentant les collectivités territoriales, les associations périscolaires et les grands intérêts culturels, éducatifs, sociaux et économiques, à savoir :
 
 a) Six membres élus par les membres cités au 3° (a) de l'article 2 ;
 
-b) Huit membres représentant les associations périscolaires, les grands intérêts culturels, éducatifs, sociaux et économiques élus par les membres mentionnés au 3° (b et c) de l'article 2.
+b) Neuf membres représentant les associations périscolaires, les grands intérêts culturels, éducatifs, sociaux et économiques élus par les membres mentionnés au 3° (b et c) de l'article 2.
 
 Chaque siège est occupé par un membre titulaire et deux membres suppléants. Les membres titulaires de la section permanente sont élus parmi les membres titulaires ; les membres suppléants sont élus parmi les membres titulaires ou suppléants du conseil.
 

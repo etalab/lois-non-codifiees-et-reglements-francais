@@ -2,7 +2,7 @@
 
 Le Conseil supérieur de l'éducation est présidé par le ministre chargé de l'éducation ou son représentant, nommé par arrêté du ministre.
 
-Il se compose de quatre-vingt-quinze membres répartis de la manièr suivante :
+Il se compose de quatre-vingt-dix-sept membres répartis de la manière suivante :
 
 1° Quarante-huit membres représentant les enseignants, les enseignants-chercheurs et les autres personnels de l'enseignement public ainsi que les établissements d'enseignement privés et leurs personnels, à savoir :
 
@@ -44,7 +44,7 @@ d) Un membre représentant les associations familiales, proposé par lesdites as
 
 e) Trois membres représentant les élèves des lycées et les élèves des établissements régionaux d'enseignement adapté fréquentant les classes des niveaux correspondant à ceux des lycées, élus en leur sein par les représentants des délégués des élèves des lycées et des établissements régionaux d'enseignement adapté siégeant dans les conseils académiques de la vie lycéenne. L'élection a lieu par correspondance ; la répartition des sièges s'effectue selon les systèmes du scrutin majoritaire plurinominal à un tour.
 
-3° Vingt-huit membres représentant les collectivités territoriales, les associations périscolaires et les grands intérêts culturels, éducatifs, sociaux et économiques, à savoir :
+3° Trente membres représentant les collectivités territoriales, les associations périscolaires et les grands intérêts culturels, éducatifs, sociaux et économiques, à savoir :
 
 a) Douze membres représentant les élus des collectivités territoriales, à savoir :
 
@@ -56,17 +56,17 @@ ac) Quatre maires, désignés par l'association des maires de France.
 
 b) Deux membres représentant les associations périscolaires, proposés par lesdites associations choisies par le ministre chargé de l'éducation parmi les plus représentatives ;
 
-c) Quatorze membres représentant les grands intérêts culturels, éducatifs, sociaux et économiques, à savoir :
+c) Seize membres représentant les grands intérêts culturels, éducatifs, sociaux et économiques, à savoir :
 
-ca) Six membres représentant les organisations syndicales de salariés, proposés par lesdits groupements choisis par le ministre chargé de l'éducation parmi les plus représentatifs ;
+ca) Huit membres représentant les fédérations et confédérations syndicales de salariés ou de fonctionnaires, proposés par lesdits groupements choisis par le ministre chargé de l'éducation parmi les plus représentatifs ;
 
 cb) Six membres représentant les organisations syndicales d'employeurs et les chambres consulaires, proposés par lesdits groupements choisis par le ministre chargé de l'éducation parmi les plus représentatifs ;
 
 cc) Un membre représentant les présidents d'université et les responsables d'établissement et d'école publics délivrant le diplôme d'ingénieur.
 
-Le représentant des présidents d'université est désigné par la conférence des présidents d'université ; le représentant des responsables d'établissement et d'école publics délivrant le diplôme d'ingénieur est désigné par l'assemblée générale des responsables d'établissement et d'école publics délivrant le diplôme d'ingénieur. Pour le premier mandat, le titulaire du siège est un président d'université. Pour le second mandat, le titulaire du siège est un responsable d'établissement ou d'école publics délivrant le diplôme d'ingénieur. Cette alternance se poursuit au cours des mandats
+Le représentant des présidents d'université est désigné par la conférence des présidents d'université ; le représentant des responsables d'établissement et d'école publics délivrant le diplôme d'ingénieur est désigné par l'assemblée générale des responsables d'établissement et d'école publics délivrant le diplôme d'ingénieur. Pour le premier mandat, le titulaire du siège est un président d'université. Pour le second mandat, le titulaire du siège est un responsable d'établissement ou d'école publics délivrant le diplôme
 
-suivants ;
+d'ingénieur. Cette alternance se poursuit au cours des mandats suivants ;
 
 cd) Un membre assurant la représentation de l'enseignement agricole désigné par le Conseil national de l'enseignement agricole.
 
