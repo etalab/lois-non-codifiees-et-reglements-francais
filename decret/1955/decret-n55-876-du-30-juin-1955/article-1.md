@@ -1,12 +1,14 @@
 # Article 1
 
-Les sociétés françaises par actions ayant pour objet exclusif de concourir sous forme de participation en capital au financement des entreprises industrielles dans les régions qui souffrent de sous-emploi ou d'un développement économique insuffisant, dénommées sociétés de développement régional, peuvent bénéficier des dispositions prévues aux articles ci-dessous, lorsqu'elles remplissent les conditions suivantes :
+Les sociétés françaises par actions, dénommées sociétés de développement régional, concourent sous forme de participations en capital au financement des entreprises situées sur le territoire national. Elles bénéficient à ce titre des dispositions prévues à l'article 2 ci-dessous, lorsqu'elles remplissent les conditions suivantes :
 
-a) L'agrément en qualité d'établissement de crédit ;
+a) Disposer du capital minimum déterminé dans les conditions fixées par l'article 16 de la loi du 24 janvier 1984 susvisée ;
 
-b) La limitation des participations de la société de développement régional à 25 % de son capital pour une même entreprise, et à 35 % du capital de cette entreprise ;
+b) Avoir signé avec le ministre chargé de l'économie une convention comportant la nomination d'un commissaire du Gouvernement ;
 
-c) La signature d'une convention avec le ministre de l'économie et des finances comportant la nomination d'un commissaire du Gouvernement auprès de la société bénéficiaire.
+c) Ne pas détenir de participation dans le capital d'une même entreprise qui excède 25 p. 100 de leur propre capital et 35 p. 100 du capital de cette entreprise.
+
+Toutefois, le ministre chargé de l'économie peut autoriser des sociétés de développement régional à porter leur participation dans le capital d'une même entreprise à hauteur de 49 p. 100.
 
 Ces sociétés sont autorisées à consentir, dans les conditions fixées par le ministre de l'économie, des prêts à cinq ans et plus aux entreprises quelle qu'en soit la forme juridique ; elles peuvent en outre donner leur garantie aux emprunts à deux ans et plus que contractent ces entreprises. Elles sont également autorisées à consentir, dans les conditions fixées par le ministre de l'économie, des prêts aux collectivités locales, aux sociétés d'économie mixte et aux chambres de commerce et d'industrie pour contribuer soit au financement d'équipements touristiques collectifs, soit à celui de bâtiments à usage industriel ou commercial réalisés pour des entrepreneurs dénommés.
 
