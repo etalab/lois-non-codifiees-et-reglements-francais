@@ -6,4 +6,4 @@ A défaut, l'auteur, et à défaut de l'auteur, le producteur sera poursuivi com
 
 Lorsque le directeur ou le codirecteur de la publication sera mis en cause, l'auteur sera poursuivi comme complice.
 
-Pourra également être poursuivie comme complice toute personne à laquelle l'article 60 du code pénal sera applicable.
+Pourra également être poursuivie comme complice toute personne à laquelle l'article 121-7 du code pénal sera applicable.

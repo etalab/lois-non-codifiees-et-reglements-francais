@@ -18,4 +18,4 @@ Tout directeur d'une entreprise de spectacles doit remplir les conditions suivan
 
 L'entreprise de spectacles qui serait dirigée par une personne qui ne posséderait pas la licence définitive ou dont la licence temporaire serait arrivée à expiration sera fermée dans les conditions prévues à l'alinéa de l'article 5.
 
-L'exercice indû de la direction d'une entreprise de spectacles est puni d'un emprisonnement de six mois à deux ans et d'une amende de 300 à 60.000 F ou de l'une de ces deux peines seulement [*sanctions pénales*].
+L'exercice indû de la direction d'une entreprise de spectacles est puni d'un emprisonnement de deux ans et d'une amende de 60.000 F ou de l'une de ces deux peines seulement [*sanctions pénales*].

@@ -10,4 +10,4 @@ Les cessions portant sur des informations concernant des personnes morales sont 
 
 Sous réserve des dispositions des articles 40, 97 et 99 du code de procédure pénale, les informations transmises en application du présent article et permettant l'identification des personnes physiques ou morales auxquelles elles s'appliquent ne peuvent faire l'objet d'aucune communication de la part du service bénéficiaire.
 
-Les agents de l'Institut national de la statistique et des études économiques et ceux des services statistiques ministériels sont astreints, pour les données dont ils ont à connaître en application du présent article, au secret professionnel sous les sanctions prévues à l'article 378 du code pénal.
+Les agents de l'Institut national de la statistique et des études économiques et ceux des services statistiques ministériels sont astreints, pour les données dont ils ont à connaître en application du présent article, au secret professionnel sous les sanctions prévues aux articles 226-13 du code pénal.

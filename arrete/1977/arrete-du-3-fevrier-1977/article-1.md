@@ -1,7 +1,5 @@
 # Article 1
 
-Le présent arrêté fixe :
+Les établissements d'abattage de volailles agréés pour la mise sur le marché communautaire doivent satisfaire aux exigences prévues pour eux dans l'arrêté du 14 janvier 1994 fixant les conditions sanitaires auxquelles doivent satisfaire les établissements d'abattage de volailles.
 
-Les normes sanitaires auxquelles les abattoirs doivent satisfaire pour être agréés pour l'exportation de carcasses et abats de volaille n'ayant pas subi d'autre traitement que le froid et destinés à la consommation humaine ;
-
-Les conditions de l'inspection sanitaire dans ces établissements.
+Le présent arrêté fixe les conditions de l'inspection sanitaire dans ces établissements.
