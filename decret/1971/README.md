@@ -2,6 +2,7 @@
 
 - [Décret n°71-23 du 6 janvier 1971](decret-n71-23-du-6-janvier-1971)
 - [Décret n°71-34 du 6 janvier 1971](decret-n71-34-du-6-janvier-1971)
+- [Décret n°71-62 du 6 janvier 1971](decret-n71-62-du-6-janvier-1971)
 - [Décret n°71-278 du 7 avril 1971](decret-n71-278-du-7-avril-1971)
 - [Décret du 9 janvier 1852](decret-du-9-janvier-1852)
 - [Décret n°71-847 du 13 octobre 1971](decret-n71-847-du-13-octobre-1971)
