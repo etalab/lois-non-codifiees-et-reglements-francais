@@ -7,3 +7,5 @@ La mission a pour objet d'animer et coordonner les initiatives à caractère int
 2° D'harmoniser les actions entreprises par les différentes administrations en ce domaine ;
 
 3° De favoriser la création de réalisations permanentes susceptibles de renforcer la politique de mémoire de la nation, de prolonger ces manifestations et d'enrichir le patrimoine national.
+
+4° D'organiser, conformément à la loi du 21 mai 1947 susvisé, la commémoration du souvenir du débarquement allié en Normandie le 6 juin.
