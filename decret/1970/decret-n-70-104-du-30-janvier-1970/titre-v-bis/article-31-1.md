@@ -1,0 +1,3 @@
+# Article 31-1
+
+L'attribution des majorations applicables aux rentes viagères souscrites à compter du 1er janvier 1979, autres que celles qui sont visées par la loi n° 48-957 du 9 juin 1948, concernant les rentes mutualistes d'anciens combattants, et par l'article 1er de la loi n° 51-695 du 24 mai 1951, relatif aux rentes viagères et pensions allouées en réparation d'un préjudice, sera soumise à la condition que les ressources du rentier et, le cas échéant, de son conjoint et de ses enfants à charge au sens de la réglementation fiscale, ne dépassent pas globalement les chiffres limites prévus à l'article 31-4.

@@ -18,6 +18,7 @@
 - [Décret n°80-516 du 4 juillet 1980](decret-n80-516-du-4-juillet-1980)
 - [Décret n°80-541 du 4 juillet 1980](decret-n80-541-du-4-juillet-1980)
 - [Décret n°80-617 du 4 août 1980](decret-n80-617-du-4-aout-1980)
+- [Décret n°80-627 du 4 août 1980](decret-n80-627-du-4-aout-1980)
 - [Décret du 5 février 1980](decret-du-5-fevrier-1980)
 - [Décret n°80-402 du 5 juin 1980](decret-n80-402-du-5-juin-1980)
 - [Décret n°80-418 du 5 juin 1980](decret-n80-418-du-5-juin-1980)
