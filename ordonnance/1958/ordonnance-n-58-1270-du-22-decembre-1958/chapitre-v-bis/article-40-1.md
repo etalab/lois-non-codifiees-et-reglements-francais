@@ -6,4 +6,4 @@ Les conseillers en service extraordinaire exercent les attributions des conseill
 
 Les avocats généraux en service extraordinaire exercent les attributions confiées au ministère public près la Cour de cassation.
 
-Le nombre des conseillers et des avocats généraux en service extraordinaire ne peut respectivement excéder le vingtième de l'effectif des magistrats hors hiérarchie du siège de la Cour de cassation et le vingtième de l'effectif des magistrats hors hiérarchie du parquet de ladite cour.
+Le nombre des conseillers et des avocats généraux en service extraordinaire ne peut respectivement excéder le dixième de l'effectif des magistrats hors hiérarchie du siège de la Cour de cassation et le dixième de l'effectif des magistrats hors hiérarchie du parquet de ladite cour.
