@@ -1,13 +1,3 @@
 # Article 1
 
-Nonobstant toutes dispositions réglementaires ou contractuelles contraires, les prix des fournitures d'énergie électrique assurées par les producteurs autonomes hydrauliciens, qui sont déterminés dans les conditions définies à l'annexe III (paragraphe IV) du cahier des charges de la concession à Electricité de France du réseau d'alimentation générale, à partir des tarifs de vente que le concessionnaire appliquerait à ce client s'il avait une utilisation permanente de la puissance souscrite, sont modifiés dans les conditions suivantes :
-
-Les prix proportionnels de kilowattheures comportent une rémunération de base qui correspond :
-
-- aux économies de combustibles, égales aux prix d'énergie de la version Très longues utilisations du tarif de vente Vert A abattus de 5 p. 100 pour pertes et frais généraux ;
-
-- aux économies de capacités, égales à 40 p. 100 de la prime fixe, abattue de 5 p. 100 pour pertes et frais généraux, du même tarif T.L.U. A réparties de façon proportionnelle sur les seuls prix d'énergie d'hiver.
-
-La rémunération de base comporte en outre une majoration uniforme de 2 p. 100 des éléments précédents.
-
-Un système de majoration de qualité répartie de façon proportionnelle sur les seuls prix d'énergie d'hiver permet d'accroître la rémunération au titre des économies de capacité d'un montant représentant au maximum 40 p. 100 de la prime fixe, abattue de 5 p. 100, du tarif de vente T.L.U..
+Les dispositions du présent arrêté concernent tous les établissements servant des repas et denrées à consommer sur place. Elles s'appliquent à toutes les prestations offertes, y compris aux boissons servies à l'occasion des repas. Toutefois, elles ne concernent pas les prix des repas compris dans les prix de pension ou de demi-pension des hôtels, pensions de famille, maisons meublées, ni ceux des prestations annexes servies dans les débits de boissons (plats du jour, sandwiches, etc.) ni ceux de la restauration collective.
