@@ -32,4 +32,6 @@ Le détachement d'un fonctionnaire ne peut avoir lieu que dans l'un des cas suiv
 
 13° Détachement auprès de la Commission nationale de l'informatique et des libertés instituée par la loi n° 78-17 du 6 janvier 1978 ;
 
-14° Détachement auprès de la Commission nationale de la communication et des libertés instituée par la loi n° 86-1067 du 30 septembre 1986.
+14° Détachement auprès de la Commission nationale de la communication et des libertés instituée par la loi n° 86-1067 du 30 septembre 1986 ;
+
+15° Détachement auprès d'un député à l'Assemblée nationale, d'un sénateur ou d'un représentant de la France au Parlement européen.

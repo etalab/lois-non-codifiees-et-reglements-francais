@@ -7,3 +7,5 @@ Sous réserve des dispositions des troisième et quatrième alinéas ci-dessous,
 Le fonctionnaire qui ne peut être réintégré faute de poste vacant est maintenu en disponibilité jusqu'à sa réintégration et au plus tard jusqu'à ce que trois postes lui aient été proposés.
 
 Le fonctionnaire, qui ne peut être réintégré pour cause d'inaptitude physique, est soit reclassé dans les conditions prévues par la section 3 du chapitre V de la loi du 9 janvier 1986 susvisée, soit mis en disponibilité d'office dans les conditions prévues à l'article 29, soit radié des cadres s'il est reconnu définitivement inapte.
+
+Les dispositions ci-dessus ne sont pas applicables au fonctionnaire mis en disponibilité au titre du dernier alinéa de l'article 34 du présent décret. A l'issue de la période de mise en disponibilité, ou avant cette date s'il sollicite sa réintégration anticipée, ce fonctionnaire est réintégré et réaffecté dans son emploi antérieur.
