@@ -989,7 +989,6 @@
 - [Décret n°92-293 du 27 mars 1992 (JUSA9200020D)](decret-n92-293-du-27-mars-1992-jusa9200020d)
 - [Décret n°92-312 du 27 mars 1992 (INDA9101081D)](decret-n92-312-du-27-mars-1992-inda9101081d)
 - [Décret n°92-325 du 27 mars 1992 (SPSS9200318D)](decret-n92-325-du-27-mars-1992-spss9200318d)
-- [Décret n°92-326 du 27 mars 1992 (SPSS9200476D)](decret-n92-326-du-27-mars-1992-spss9200476d)
 - [Décret n°92-334 du 27 mars 1992 (EQUX9210083D)](decret-n92-334-du-27-mars-1992-equx9210083d)
 - [Décret n°92-338 du 27 mars 1992 (RESY9200027D)](decret-n92-338-du-27-mars-1992-resy9200027d)
 - [Décret n°92-344 du 27 mars 1992 (JUSF9150049D)](decret-n92-344-du-27-mars-1992-jusf9150049d)
