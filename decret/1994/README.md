@@ -36,6 +36,8 @@
 - [Décret n°94-464 du 3 juin 1994 (SPSG9400656D)](decret-n94-464-du-3-juin-1994-spsg9400656d)
 - [Décret n°94-465 du 3 juin 1994 (SPSG9400658D)](decret-n94-465-du-3-juin-1994-spsg9400658d)
 - [Décret n°94-469 du 3 juin 1994 (ENVE9420024D)](decret-n94-469-du-3-juin-1994-enve9420024d)
+- [Décret n°94-473 du 3 juin 1994 (INDP9400472D)](decret-n94-473-du-3-juin-1994-indp9400472d)
+- [Décret n°94-474 du 3 juin 1994 (BUDF9400006D)](decret-n94-474-du-3-juin-1994-budf9400006d)
 - [Décret n°94-866 du 3 octobre 1994 (MCCB9400108D)](decret-n94-866-du-3-octobre-1994-mccb9400108d)
 - [Décret n°94-867 du 3 octobre 1994 (MCCB9400109D)](decret-n94-867-du-3-octobre-1994-mccb9400109d)
 - [Décret n°94-116 du 4 février 1994 (JUSC9420054D)](decret-n94-116-du-4-fevrier-1994-jusc9420054d)

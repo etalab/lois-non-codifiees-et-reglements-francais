@@ -31,3 +31,23 @@ Espagne
 Portugal
 
 "Carta de curso de licenciatura em medicina" (diplôme sanctionnant les études de médecine), délivré par une université, accompagné du "Diploma comprovativo da conclusao do internato geral" (diplôme sanctionnant l'internat général), délivré par les autorités compétentes du ministère de la santé.
+
+Autriche :
+
+Doktor der gesamten Heilkunde (diplôme de docteur en médecine), délivré par la faculté de médecine d'une université, accompagné du Bescheinigung über die Absolvierung der Tätigkeit Arzt im Praktikum (certificat de stage), délivré par les autorités compétentes ;
+
+Finlande :
+
+Todistus lääkeetieteen lisensiaatin tutkinnosta/bevis om medicine licentiat examen (certificat de licencié en médecine), délivré par la faculté de médecine d'une université, accompagné d'un certificat de stage délivré par les autorités compétentes en matière de santé publique ;
+
+Islande :
+
+Projf i lknisfroi fraj lknadeild Hajskojla Ijslands (diplôme délivré par la faculté de médecine de l'Université d'Islande), accompagné d'un certificat de stage délivré à l'issue d'un stage d'au moins douze mois dans un hôpital par le médecin-chef de l'hôpital ;
+
+Norvège :
+
+Bevis for bestàtt medisinsk embetseksamen (diplôme du niveau cand. med.) délivré par la faculté de médecine d'une université, accompagné d'un certificat de stage délivré par les autorités compétentes en matière de santé publique ;
+
+Suède :
+
+Läkarexamen (diplôme universitaire de médecin), délivré par la faculté de médecine d'une université, accompagné d'un certificat de stage délivré par le Conseil national de la santé et du bien-être.

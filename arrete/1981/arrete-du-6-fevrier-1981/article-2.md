@@ -30,4 +30,18 @@ Portugal
 
 Carta de curso de licenciatura en medicina dentaria (diplôme sanctionnant les études en médecine dentaire), délivré par une école supérieure du ministère de l'éducation portugais.
 
-Italie : "odontoiatra".
+Italie : "odontoiatra".    En Finlande :
+
+Hammaslääkäri tandläkare ;
+
+En Islande :
+
+Tannlknir ;
+
+En Norvège :
+
+Tannlege ;
+
+En Suède :
+
+Tandläkare.
