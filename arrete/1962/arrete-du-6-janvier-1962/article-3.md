@@ -25,3 +25,7 @@ Du courant continu (faradique et galvanique).
 5° L'emploi des rayons X.
 
 6° L'anesthésie générale.
+
+7° Le contrôle de compatibilité préalablement aux transfusions sanguines.
+
+8° Les scarifications et les injections intradermiques ou hypodermiques destinées aux vaccinations obligatoires.
