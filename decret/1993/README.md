@@ -87,6 +87,7 @@
 - [Décret n°95-527 du 4 mai 1995 (DEFP9501031D)](decret-n95-527-du-4-mai-1995-defp9501031d)
 - [Décret n°93-1142 du 5 octobre 1993 (INDD9300659D)](decret-n93-1142-du-5-octobre-1993-indd9300659d)
 - [Décret n°93-1155 du 5 octobre 1993 (INTC9300519D)](decret-n93-1155-du-5-octobre-1993-intc9300519d)
+- [Décret n°93-1220 du 5 novembre 1993 (RESM9301305D)](decret-n93-1220-du-5-novembre-1993-resm9301305d)
 - [Décret n°93-1228 du 5 novembre 1993 (MENF9305940D)](decret-n93-1228-du-5-novembre-1993-menf9305940d)
 - [Décret n°93-15 du 5 janvier 1993 (MENB9200439D)](decret-n93-15-du-5-janvier-1993-menb9200439d)
 - [Décret n°93-169 du 5 février 1993 (ENVP9310008D)](decret-n93-169-du-5-fevrier-1993-envp9310008d)

@@ -1,0 +1,3 @@
+# Article 5
+
+Le commissaire aux transports terrestres, le commissaire aux transports aériens, le commissaire aux transports maritimes, le directeur de la Météorologie nationale et le président de la chambre de destination des navires, placés sous l'autorité du commissaire général aux transports, traitent les affaires de leur ressort, signent sous leur propre timbre les pièces qui s'y rapportent mais soumettent au commissaire général pour visa, accord, décision, signature ou transmission à l'autorité supérieure les questions d'une certaine importance ou celles qui ont des répercussions à l'extérieur de leur service.

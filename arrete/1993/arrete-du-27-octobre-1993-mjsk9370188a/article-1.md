@@ -1,0 +1,3 @@
+# Article 1
+
+Peuvent être placés en position de détachement dans le corps des inspecteurs de la jeunesse, des sports et des loisirs les fonctionnaires cités à l'article 12 du décret du 29 mars 1993 susvisé qui justifient d'un des titres ou qualifications figurant sur la liste fixée par l'arrêté du 11 février 1986 relatif aux conditions de validation des titres et qualification des candidats au concours externe de recrutement des professeurs de sport ou sur la liste fixée par l'arrêté du 11 février 1986 relatif aux conditions de validation des titres et qualifications des candidats au concours externe de recrutement des conseillers d'éducation populaire et de jeunesse.
