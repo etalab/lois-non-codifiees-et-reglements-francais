@@ -1,5 +1,15 @@
 # Article 2
 
-Le corps des assistants techniques de la Caisse des dépôts et consignations comprend les trois grades d'assistant technique de 3e classe, comprenant sept échelons, d'assistant technique de 2e classe, comprenant quatre échelons, et d'assistant technique de 1re classe, comprenant quatre échelons.
+Le corps des assistants techniques de la Caisse des dépôts et consignations comprend :
 
-La proportion des emplois de chaque grade, par rapport à l'effectif total du corps, est fixée à 50 p. 100 pour la 3e classe, 30 p. 100 pour la 2e classe et 20 p. 100 pour la 1re classe.
+1° Le grade d'assistant technique principal comportant une 1re classe divisée en trois échelons et une 2e classe divisée en sept échelons ;
+
+2° Le grade d'assistant technique comportant douze échelons.
+
+Le nombre des emplois du grade d'assistant technique principal ne peut excéder 35 % de l'effectif total du corps.
+
+Les assistants techniques principaux se répartissent de la manière suivante :
+
+1re classe : 35 % ;
+
+2e classe : 65 %.
