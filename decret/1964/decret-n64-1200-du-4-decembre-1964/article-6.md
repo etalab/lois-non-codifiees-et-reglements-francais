@@ -1,9 +1,11 @@
 # Article 6
 
-Le bureau est composé d'un président, de trois vice-présidents et de sept membres, choisis par l'assemblée générale au sein du comité directeur [*nombre*].
+Le comité directeur se compose :
 
-Sur ces onze membres, six sont choisis obligatoirement parmi les représentants des chambres régionales.
+Des présidents des chambres régionales de commerce et d'industrie ;
 
-La qualité de premier vice-président est conférée par un vote distinct à l'un des vice-présidents. Le premier vice-président assiste le président pour toutes les questions de sa compétence.
+Des membres du bureau non présidents de chambres régionales de commerce et d'industrie ;
 
-Deux secrétaires et un trésorier sont désignés par le bureau parmi ses membres.
+Du président de la chambre de commerce et d'industrie de Paris, de l'un des présidents des trois délégations départementales qui en dépendent ;
+
+Des présidents des commissions de l'assemblée permanente désignées par le règlement intérieur, lorsqu'ils ne sont pas déjà membres du comité directeur au titre de l'une des dispositions précédentes.
