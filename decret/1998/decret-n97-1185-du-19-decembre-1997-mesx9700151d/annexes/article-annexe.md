@@ -208,6 +208,20 @@ Habilitation des organismes émetteurs des titres emplois-services (conjointemen
 
 Art. D. 129-11.
 
+10
+
+Agrément des organismes de dosimétrie pour la mesure de l'exposition
+
+externe et interne (conjointement avec le ministre de l'agriculture).
+
+Art. R. 231-93, II
+
+11
+
+Agrément des services médicaux ou des laboratoires d'analyses médicales de dosimétrie pour la mesure de l'exposition interne (conjointement avec le ministre de l'agriculture et le ministre de la santé).
+
+Art. R. 231-93, II
+
 Décret n° 49-39 du 11 janvier 1949 relatif à la formation professionnelle accélérée et réduisant le nombre des centres subventionnés par l'Etat
 
 1
@@ -378,7 +392,9 @@ Art. R. 184-1-1.
 
 6
 
-Autorisation de tout déplacement de gamètes ou d'embryons si les conditions définies au 1er alinéa de l'article R. 184-1-13 ne sont pas réunies.
+Autorisation de tout déplacement de gamètes ou d'embryons si les conditions définies au 1er alinéa de l'article R. 184-1-13 ne sont
+
+pas réunies.
 
 Art. R. 184-1-13, alinéa 3.
 
@@ -572,7 +588,9 @@ Art. R. 731-12.
 
 10
 
-Fixation de la date des élections des administrateurs des caisses de base des régimes d'assurance vieillesse et invalidité-décès des professions artisanales, industrielles et commerciales, du régime d'assurance maladie et maternité des travailleurs non salariés des professions non agricoles et des organismes agréés prévus à l'article L. 382.
+Fixation de la date des élections des administrateurs des caisses de
+
+base des régimes d'assurance vieillesse et invalidité-décès des professions artisanales, industrielles et commerciales, du régime d'assurance maladie et maternité des travailleurs non salariés des professions non agricoles et des organismes agréés prévus à l'article L. 382.
 
 Art. R. 611-50.
 
@@ -734,7 +752,9 @@ Décret n° 87-965 du 30 novembre 1987 modifié relatif à l'agrément des trans
 
 1
 
-Autorisation d'exercer délivrée aux ressortissants communautaires ou d'un Etat partie à l'accord sur l'Espace économique européen qui peuvent exercer dans ces Etats en qualité d'ambulanciers.
+Autorisation d'exercer délivrée aux ressortissants communautaires ou
+
+d'un Etat partie à l'accord sur l'Espace économique européen qui peuvent exercer dans ces Etats en qualité d'ambulanciers.
 
 Art. 18-1, 1er alinéa.
 
@@ -840,7 +860,9 @@ Agrément des organismes de certification des crématoriums et des fours de cré
 
 Art. 11, alinéas 1 et 3.
 
-Décret n° 94-1118 du 20 décembre 1994 relatif aux prescriptions techniques applicables aux chambres funéraires
+Décret n° 94-1118 du 20 décembre 1994 relatif aux prescriptions
+
+techniques applicables aux chambres funéraires
 
 1
 
@@ -900,7 +922,9 @@ Art. R. 231-54-9.
 
 2
 
-Etablissement de la liste des organismes dont les stages ouvrent droit aux congés d'éducation ouvrière.
+Etablissement de la liste des organismes dont les stages ouvrent
+
+droit aux congés d'éducation ouvrière.
 
 Art. R. 451-1.
 
@@ -964,7 +988,9 @@ Décret n° 75-306 du 28 avril 1975 relatif à la protection des travailleurs co
 
 1
 
-Autorisation donnée au chef d'établissement pour effectuer la surveillance de l'exposition de ses salariés aux rayonnements ionisants.
+Autorisation donnée au chef d'établissement pour effectuer la surveillance de l'exposition de ses salariés aux rayonnements
+
+ionisants.
 
 Art. 25-2.
 
