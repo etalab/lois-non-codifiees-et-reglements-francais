@@ -7,60 +7,81 @@ Les indices de référence servant de base au décompte de la rémunération de 
 <tr>
 <td align="center" rowspan="2">ECHELONS <br/>
 </td>
-<td align="center" colspan="2">INDICES DE REFERENCE <br/>
+<td align="center" colspan="3">INDICES BRUTS DE REFERENCE <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Nets.</td>
-<td align="center">Bruts <br/>
-</td>
+<td align="center">A compter du 1er juillet 1975</td>
+<td align="center">A compter du 1er juillet 1976 </td>
+<td> A compter du 1er août 1977 </td>
 </tr>
 <tr>
 <td>7e échelon............. <br/>
 </td>
-<td align="center">525</td>
+<td align="center">735</td>
 <td align="center">
 <p align="center">735 <br/>
 </p>
+</td>
+<td>
+<p align="center"> 750</p>
 </td>
 </tr>
 <tr>
 <td>6e échelon............. <br/>
 </td>
-<td align="center">500</td>
 <td align="center">685</td>
+<td align="center">685</td>
+<td>
+<p align="center"> 701</p>
+</td>
 </tr>
 <tr>
 <td>5e échelon............. <br/>
 </td>
-<td align="center">475</td>
+<td align="center">635</td>
 <td align="center">635 <br/>
+</td>
+<td>
+<p align="center"> 659</p>
 </td>
 </tr>
 <tr>
 <td>4e échelon............. <br/>
 </td>
-<td align="center">450</td>
 <td align="center">585</td>
+<td align="center">585</td>
+<td>
+<p align="center"> 616</p>
+</td>
 </tr>
 <tr>
 <td>3e échelon............. <br/>
 </td>
-<td align="center">425</td>
-<td align="center">550</td>
+<td align="center">557</td>
+<td align="center">563</td>
+<td>
+<p align="center"> 582</p>
+</td>
 </tr>
 <tr>
 <td>2e échelon............. <br/>
 </td>
-<td align="center">400 <br/>
+<td align="center">525 <br/>
 </td>
-<td align="center">545</td>
+<td align="center">531</td>
+<td>
+<p align="center"> 546</p>
+</td>
 </tr>
 <tr>
 <td>1er échelon............. <br/>
 </td>
-<td align="center">375</td>
-<td align="center">480</td>
+<td align="center">490</td>
+<td align="center">497</td>
+<td>
+<p align="center"> 508</p>
+</td>
 </tr>
 </tbody>
 </table>
