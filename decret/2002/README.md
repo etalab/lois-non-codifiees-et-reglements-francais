@@ -1,5 +1,6 @@
 # 2002
 
+- [Décret du 1 février 1896](decret-du-1-fevrier-1896)
 - [Décret n°2001-200 du 1 mars 2001 (INTB0100040D)](decret-n2001-200-du-1-mars-2001-intb0100040d)
 - [Décret n°2002-133 du 1 février 2002 (MENF0102791D)](decret-n2002-133-du-1-fevrier-2002-menf0102791d)
 - [Décret n°2002-136 du 1 février 2002 (RECF0100357D)](decret-n2002-136-du-1-fevrier-2002-recf0100357d)
