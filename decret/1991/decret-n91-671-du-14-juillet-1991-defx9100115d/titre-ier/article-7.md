@@ -2,13 +2,15 @@
 
 Les services de la marine nationale sont :
 
-- le service de l'aéronautique navale ;
+1° Le service de l'aéronautique navale ;
 
-- le service du commissariat de la marine ;
+2° Le service du commissariat de la marine ;
 
-- le service des travaux immobiliers et maritimes ;
+3° Le service hydrographique et océanographique de la marine ;
 
-- le service hydrographique et océanographique de la marine.
+4° Le service de soutien de la flotte ;
+
+5° Le service des travaux immobiliers et maritimes.
 
 Leurs attributions sont fixées par décret.
 
