@@ -1,0 +1,3 @@
+# Article 2
+
+L'organe délibérant de la collectivité ou de l'établissement peut, après avis du comité technique paritaire compétent, réduire la durée annuelle de travail servant de base au décompte du temps de travail défini au deuxième alinéa de l'article 1er du décret du 25 août 2000 susvisé pour tenir compte de sujétions liées à la nature des missions et à la définition des cycles de travail qui en résultent, et notamment en cas de travail de nuit, de travail le dimanche, de travail en horaires décalés, de travail en équipes, de modulation importante du cycle de travail ou de travaux pénibles ou dangereux.
