@@ -1,3 +1,3 @@
 # Article 8
 
-A l'occasion d'une maternité les attachés mentionnés à l'article 6 ont droit à un congé de seize semaines. Après un an de fonctions ou immédiatement si les intéressées sont anciens chefs de clinique ou anciens assistants des universités-assistants des hôpitaux, elles perçoivent la rémunération correspondant à leurs obligations normales de service. Dans le cas contraire le congé n'est pas rémunéré.
+Les attachés mentionnés à l'article 6 ont droit à un congé de maternité ou d'adoption d'une durée égale à celle de la période définie par les articles L. 331-3 à L. 331-7 du code de la sécurité sociale. Après un an de fonctions ou immédiatement si les intéressés ont l'un des titres énumérés au premier alinéa de l'article 7, ils perçoivent la totalité de la rémunération correspondant à leurs obligations de service.
