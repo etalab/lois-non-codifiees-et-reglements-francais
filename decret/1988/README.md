@@ -35,6 +35,8 @@
 - [Décret n°88-222 du 9 mars 1988 (INTB8800061D)](decret-n88-222-du-9-mars-1988-intb8800061d)
 - [Décret n°88-223 du 9 mars 1988 (DEFF8801087D)](decret-n88-223-du-9-mars-1988-deff8801087d)
 - [Décret n°88-224 du 9 mars 1988 (INTX8800016D)](decret-n88-224-du-9-mars-1988-intx8800016d)
+- [Décret n°88-229 du 9 mars 1988 (FPPX8800030D)](decret-n88-229-du-9-mars-1988-fppx8800030d)
+- [Décret n°88-230 du 9 mars 1988 (ENVN8700287D)](decret-n88-230-du-9-mars-1988-envn8700287d)
 - [Décret n°88-139 du 10 février 1988 (INTB8800004D)](decret-n88-139-du-10-fevrier-1988-intb8800004d)
 - [Décret n°88-141 du 10 février 1988 (ECOT8811013D)](decret-n88-141-du-10-fevrier-1988-ecot8811013d)
 - [Décret n°88-144 du 10 février 1988 (BUDF8720096D)](decret-n88-144-du-10-fevrier-1988-budf8720096d)
