@@ -1,4 +1,4 @@
-# Chapitre VII : Dispositions diverses.
+# Chapitre VII : Sanctions prononcées par la Commission nationale de l'informatique et des libertés.
 
 - [Article 45](article-45.md)
 - [Article 46](article-46.md)

@@ -1,7 +1,11 @@
 # Article 16
 
-Les traitements automatisés d'informations nominatives effectués pour le compte de personnes autres que celles qui sont soumises aux dispositions de l'article 15 doivent, préalablement à leur mise en oeuvre, faire l'objet d'une déclaration, auprès de la Commission nationale de l'informatique et des libertés.
+Le bureau peut être chargé par la commission d'exercer les attributions de celle-ci mentionnées :
 
-Cette déclaration comporte l'engagement que le traitement satisfait aux exigences de la loi [*mention obligatoire*].
+- au dernier alinéa de l'article 19 ;
 
-Dès qu'il a reçu le récépissé délivré sans délai par la commission, le demandeur peut mettre en oeuvre le traitement. Il n'est exonéré d'aucune de ses responsabilités.
+- à l'article 25, en cas d'urgence ;
+
+- au second alinéa de l'article 70.
+
+Le bureau peut aussi être chargé de prendre, en cas d'urgence, les décisions mentionnées au premier alinéa du I de l'article 45.

@@ -1,7 +1,25 @@
 # Article 15
 
-Hormis les cas où ils doivent être autorisés par la loi, les traitements automatisés d'informations nominatives opérés pour le compte de l'Etat, d'un établissement public ou d'une collectivité territoriale, ou d'une personne morale de droit privé gérant un service public, sont décidés par un acte réglementaire pris après avis motivé de la Commission nationale de l'informatique et des libertés [*autorité compétente*].
+Sous réserve des compétences du bureau et de la formation restreinte, la commission se réunit en formation plénière.
 
-Si l'avis de la commission est défavorable, il ne peut être passé outre que par un décret pris sur avis conforme du Conseil d'Etat ou, s'agissant d'une collectivité territoriale, en vertu d'une décision de son organe délibérant approuvée par décret pris sur avis conforme du Conseil d'Etat.
+En cas de partage égal des voix, la voix du président est prépondérante.
 
-Si, au terme d'un délai de deux mois renouvelable une seule fois sur décision du président, l'avis de la commission n'est pas notifié, il est réputé favorable.
+La commission peut charger le président ou le vice-président délégué d'exercer celles de ses attributions mentionnées :
+
+- au troisième alinéa du I de l'article 23 ;
+
+- aux e et f du 2° de l'article 11 ;
+
+- au c du 2° de l'article 11 ;
+
+- au d du 4° de l'article 11 ;
+
+- aux articles 41 et 42 ;
+
+- à l'article 54 ;
+
+- aux articles 63, 64 et 65 ;
+
+- au dernier alinéa de l'article 69 ;
+
+- au premier alinéa de l'article 70.

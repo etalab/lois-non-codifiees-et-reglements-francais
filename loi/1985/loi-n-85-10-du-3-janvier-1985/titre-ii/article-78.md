@@ -12,4 +12,4 @@ Les dispositions de l'article L. 103 du livre des procédures fiscales s'appliqu
 
 L'administration fiscale participe financièrement à la couverture des charges engagées pour la fourniture de ces prestations.
 
-III - Un acte réglementaire, pris après avis de la Commission nationale de l'informatique et des libertés, fixe les conditions de la communication des informations autorisée par les paragraphes précédents, conformément aux dispositions de l'article 15 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
+III - Un acte réglementaire, pris après avis de la Commission nationale de l'informatique et des libertés, fixe les conditions de la communication des informations autorisée par les paragraphes précédents, conformément aux dispositions de l'article 27 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
