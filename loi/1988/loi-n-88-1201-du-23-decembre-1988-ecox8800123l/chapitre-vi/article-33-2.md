@@ -14,4 +14,4 @@ Des membres suppléants sont désignés dans les mêmes conditions.    En cas de
 
 Un commissaire du Gouvernement est nommé par le ministre chargé de l'économie.
 
-Les membres du conseil sont tenus au secret professionnel, dans les conditions et sous les peines prévues à l'article 378 du code pénal.
+Les membres du conseil sont tenus au secret professionnel, dans les conditions et sous les peines fixées par l'article 226-13 du code pénal.
