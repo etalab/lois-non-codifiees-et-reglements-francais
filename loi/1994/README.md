@@ -92,6 +92,7 @@
 - [Loi n° 94-665 du 4 août 1994 (MCCX9400007L)](loi-n-94-665-du-4-aout-1994-mccx9400007l)
 - [Loi n° 94-678 du 8 août 1994 (SPSX9300163L)](loi-n-94-678-du-8-aout-1994-spsx9300163l)
 - [Loi n° 94-679 du 8 août 1994 (ECOX9300054L)](loi-n-94-679-du-8-aout-1994-ecox9300054l)
+- [Loi n° 94-88 du 1 février 1994 (MICX9300166L)](loi-n-94-88-du-1-fevrier-1994-micx9300166l)
 - [Loi n° 94-880 du 14 octobre 1994 (MAEX9400032L)](loi-n-94-880-du-14-octobre-1994-maex9400032l)
 - [Loi n° 94-881 du 14 octobre 1994 (MAEX9400029L)](loi-n-94-881-du-14-octobre-1994-maex9400029l)
 - [Loi n° 94-882 du 14 octobre 1994 (MAEX9400031L)](loi-n-94-882-du-14-octobre-1994-maex9400031l)

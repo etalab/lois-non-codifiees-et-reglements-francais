@@ -1,0 +1,5 @@
+# Article 101
+
+Dans les territoires d'outre-mer, les références au code du travail sont remplacées par des références à la loi n° 52-1322 du 15 décembre 1952 instituant un code du travail dans les territoires et les territoires associés relevant du ministère de la France d'outre-mer pour le territoire des îles Wallis-et-Futuna et, sous réserve de la compétence des territoires en ce domaine, à l'ordonnance n° 85-1181 du 13 novembre 1985 relative aux principes directeurs du droit du travail et à l'organisation et au fonctionnement de l'inspection du travail et du tribunal du travail en Nouvelle-Calédonie pour la Nouvelle-Calédonie et à la loi n° 86-845 du 17 juillet 1986 relative aux principes généraux du droit du travail et à l'organisation et au fonctionnement de l'inspection du travail et des tribunaux du travail en Polynésie française pour la Polynésie française.
+
+Dans la collectivité territoriale de Mayotte, les références au code du travail sont remplacées par des références à l'ordonnance n° 91-246 du 25 février 1991 relative au code du travail applicable dans la collectivité territoriale de Mayotte.

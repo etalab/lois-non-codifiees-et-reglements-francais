@@ -5,3 +5,5 @@
 - [Article 233](article-233.md)
 - [Article 234](article-234.md)
 - [Article 235](article-235.md)
+- [Article 235-1](article-235-1.md)
+- [Article 235-2](article-235-2.md)

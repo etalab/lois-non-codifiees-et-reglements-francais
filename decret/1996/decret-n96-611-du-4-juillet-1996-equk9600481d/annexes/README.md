@@ -1,0 +1,16 @@
+# Annexes
+
+- [Exigences essentielles de sécurité applicables à la conception et à la construction des bateaux de plaisance.](exigences-essentielles-de-securite-applicables-a)
+- [Module A.](module-a)
+- [Vérification à l'unité.](verification-a)
+- [Module A bis.](module-a-bis)
+- [Assurance de la qualité de la production.](assurance-de-la-qualite-de-la-production)
+- [Assurance qualité complète.](assurance-qualite-complete)
+- [Conformité au type.](conformite-au)
+- [Examen "CE de type".](examen-ce)
+- [Marquage "CE".](marquage-ce)
+- [Déclaration écrite de conformité.](declaration-ecrite-de-conformite)
+- [Eléments et pièces d'équipement.](elements-et)
+- [Déclaration du constructeur ou de son mandataire établi dans la Communauté ou de la personne responsable de la mise sur le marché.](declaration-du-constructeur-ou)
+- [Documentation technique fournie par le constructeur.](documentation-technique-fournie-par)
+- [Vérification sur produits.](verification-sur)

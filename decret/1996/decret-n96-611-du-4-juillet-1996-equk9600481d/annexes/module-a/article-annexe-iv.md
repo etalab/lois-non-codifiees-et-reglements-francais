@@ -1,0 +1,7 @@
+# Article Annexe IV
+
+Le module A, ou contrôle interne de fabrication, comprend les procédures suivantes :
+
+1. Le constructeur ou son mandataire établi sur le territoire de l'un des Etats membres de l'Union européenne ou dans l'un des Etats partie à l'accord instituant l'Espace économique européen assure et déclare que ses produits satisfont aux exigences essentielles de sécurité qui leur sont applicables. Il appose le marquage "CE" sur chaque produit conformément à l'annexe III et établit la déclaration écrite de conformité mentionnée au paragraphe 3 de l'article 2 ;
+
+2. Le constructeur établit la documentation technique mentionnée à l'annexe XII. Cette documentation doit permettre d'évaluer la conformité du produit aux exigences essentielles de sécurité définies à l'annexe I ; elle doit, à cet effet, dans la mesure nécessaire à cette évaluation, comporter une description de la conception, de la fabrication et du fonctionnement du produit. Le constructeur ou son mandataire établi sur le territoire de l'un des Etats membres de l'Union européenne ou dans l'un des Etats partie à l'accord instituant l'Espace économique européen ou la personne responsable de la mise sur le marché tient cette documentation, accompagnée d'une copie des déclarations de conformité, à la disposition des agents chargés du contrôle pendant une durée d'au moins dix ans à compter de la dernière date de fabrication du produit.

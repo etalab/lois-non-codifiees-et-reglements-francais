@@ -41,6 +41,7 @@
 - [Décret n°96-492 du 4 juin 1996 (MCCX9600056D)](decret-n96-492-du-4-juin-1996-mccx9600056d)
 - [Décret n°96-600 du 4 juillet 1996 (EQUS9600673D)](decret-n96-600-du-4-juillet-1996-equs9600673d)
 - [Décret n°96-601 du 4 juillet 1996 (EQUS9600328D)](decret-n96-601-du-4-juillet-1996-equs9600328d)
+- [Décret n°96-611 du 4 juillet 1996 (EQUK9600481D)](decret-n96-611-du-4-juillet-1996-equk9600481d)
 - [Décret n°96-10 du 5 janvier 1996 (AGRS9502489D)](decret-n96-10-du-5-janvier-1996-agrs9502489d)
 - [Décret n°96-11 du 5 janvier 1996 (AGRS9502490D)](decret-n96-11-du-5-janvier-1996-agrs9502490d)
 - [Décret n°96-12 du 5 janvier 1996 (AGRS9502491D)](decret-n96-12-du-5-janvier-1996-agrs9502491d)

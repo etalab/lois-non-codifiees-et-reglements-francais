@@ -47,6 +47,8 @@
 - [Loi n° 96-599 du 3 juillet 1996 (MAEX9600052L)](loi-n-96-599-du-3-juillet-1996-maex9600052l)
 - [Loi n° 96-603 du 5 juillet 1996 (COMX9600031L)](loi-n-96-603-du-5-juillet-1996-comx9600031l)
 - [Loi n° 96-604 du 5 juillet 1996 (JUSX9601574L)](loi-n-96-604-du-5-juillet-1996-jusx9601574l)
+- [Loi n° 96-607 du 5 juillet 1996 (EQUX9600033L)](loi-n-96-607-du-5-juillet-1996-equx9600033l)
+- [Loi n° 96-609 du 5 juillet 1996 (DOMX9400139L)](loi-n-96-609-du-5-juillet-1996-domx9400139l)
 - [Loi n° 96-62 du 29 janvier 1996 (JUSX9500134L)](loi-n-96-62-du-29-janvier-1996-jusx9500134l)
 - [Loi n° 96-63 du 29 janvier 1996 (TASX9500159L)](loi-n-96-63-du-29-janvier-1996-tasx9500159l)
 - [Loi n° 96-64 du 29 janvier 1996 (MAEX9400017L)](loi-n-96-64-du-29-janvier-1996-maex9400017l)

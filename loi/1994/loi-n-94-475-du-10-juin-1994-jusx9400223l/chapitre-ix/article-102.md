@@ -1,0 +1,3 @@
+# Article 102
+
+Pour l'application de la présente loi aux territoires d'outre-mer et aux collectivités territoriales de Mayotte et de Saint-Pierre-et-Miquelon, les mots : "tribunal de grande instance" sont remplacés par les mots : "tribunal de première instance" ; les mots : "tribunal de commerce" sont remplacés par les mots : "tribunal de première instance statuant en matière commerciale", en ce qui concerne les collectivités territoriales de Mayotte et de Saint-Pierre-et-Miquelon, et par les mots : "tribunal mixte de commerce", en ce qui concerne les territoires de Nouvelle-Calédonie, de Polynésie française et des îles Wallis-et-Futuna.
