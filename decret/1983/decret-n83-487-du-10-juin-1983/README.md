@@ -2,5 +2,6 @@
 
 - [Titre Ier : Dispositions générales.](titre-ier)
 - [Titre II : Dispositions particulières aux départements de la Moselle, du Bas-Rhin et du Haut-Rhin *Alsace-Lorraine*.](titre-ii)
+- [Titre II bis : Dispositions particulières aux sociétés coopératives.](titre-ii-bis)
 - [Titre III : Dispositions diverses.](titre-iii)
 - [Article 23](article-23.md)

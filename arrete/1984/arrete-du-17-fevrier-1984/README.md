@@ -1,4 +1,4 @@
-# Arrêté du 17 février 1984 relatif à l'autorisation d'émission de deux emprunts de la Caisse nationale des télécommunications
+# Arrêté du 17 février 1984 relatif à la délivrance d'un certificat de capacité d'insertion professionnelle
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
