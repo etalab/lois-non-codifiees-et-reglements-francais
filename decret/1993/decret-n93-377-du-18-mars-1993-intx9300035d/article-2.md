@@ -2,9 +2,7 @@
 
 Le préfet délégué pour la sécurité et la défense assiste le préfet de zone dans la direction :
 
-- du secrétariat général de la zone de défense ;
-
-- de l'état-major de zone de la sécurité civile ;
+- état major de zone ;
 
 - du secrétariat général pour l'administration de la police ;
 
