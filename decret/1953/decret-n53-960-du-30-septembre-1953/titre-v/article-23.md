@@ -1,6 +1,6 @@
 # Article 23
 
-Le montant des loyers des baux à renouveler ou à réviser doit correspondre à la valeur locative.
+Alinéa abrogé.
 
 A défaut d'accord entre les parties, cette valeur est déterminée d'après :
 

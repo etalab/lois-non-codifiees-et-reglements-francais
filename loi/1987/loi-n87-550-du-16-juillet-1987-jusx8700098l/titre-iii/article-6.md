@@ -8,7 +8,7 @@ Sont électeurs aux élections des membres d'une chambre de commerce et d'indust
 
 a) Les commerçants immatriculés au registre du commerce et des sociétés dans la circonscription de la chambre de commerce et d'industrie ;
 
-b) Les chefs d'entreprise inscrits au répertoire des métiers et immatriculés au registre du commerce et des sociétés dans la circonscription ;
+b) Les chefs d'entreprise inscrits au répertoire des métiers et immatriculés au registre du commerce et des sociétés dans la circonscription s'ils ne se sont pas fait radier des listes électorales des chambres de commerce et d'industrie ;
 
 c) Les conjoints des personnes physiques énumérées au a ou au b ci-dessus ayant déclaré au registre du commerce et des sociétés qu'ils collaborent à l'activité de leur époux sans rémunération ni autre activité professionnelle ;
 

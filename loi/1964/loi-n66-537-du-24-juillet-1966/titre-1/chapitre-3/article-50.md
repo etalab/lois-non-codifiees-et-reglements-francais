@@ -4,6 +4,8 @@ Le gérant ou, s'il en existe un, le commissaire aux comptes, présente à l'ass
 
 Toutefois,s'il n'existe pas de commissaire aux comptes, les conventions conclues par un gérant non associé sont soumises à l'approbation préalable de l'assemblée.
 
+Par dérogation aux dispositions du premier alinéa, lorsque la société ne comprend qu'un seul associé et que la convention est conclue avec celui-ci, il en est seulement fait mention au registre des délibérations.
+
 Les conventions non approuvées produisent néanmoins leurs effets, à charge pour le gérant, et, s'il y a lieu, pour l'associé contractant, de supporter individuellement ou solidairement, selon les cas, les conséquences du contrat préjudiciables à la société.
 
 Les dispositions du présent article s'étendent aux conventions passées avec une société dont un associé indéfiniment responsable, gérant, administrateur, directeur général, membre du directoire ou membre du conseil de surveillance, est simultanément gérant ou associé de la société à responsabilité limitée.

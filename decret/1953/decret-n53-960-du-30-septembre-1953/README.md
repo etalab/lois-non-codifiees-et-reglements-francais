@@ -4,7 +4,7 @@
 - [Titre II : Du renouvellement du bail.](titre-ii)
 - [Titre III : Du refus de renouvellement.](titre-iii)
 - [Titre IV : Des sous-locations.](titre-iv)
-- [Titre V : Du loyer.](titre-v)
+- [Titre V : Du loyer et de la clause résolutoire.](titre-v)
 - [Titre VI : De la procédure.](titre-vi)
 - [Titre VII : De la despécialisation.](titre-vii)
 - [Titre VIII : Dispositions diverses.](titre-viii)

@@ -1,4 +1,4 @@
-# Titre V : Du loyer.
+# Titre V : Du loyer et de la clause résolutoire.
 
 - [Article 23](article-23.md)
 - [Article 23-1](article-23-1.md)

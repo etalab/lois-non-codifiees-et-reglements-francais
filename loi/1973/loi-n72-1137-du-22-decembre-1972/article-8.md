@@ -12,6 +12,8 @@ c) Le service après vente constitué par la fourniture d'articles, pièces dét
 
 d) Les ventes, locations ou locations-ventes de marchandises ou objets ou les prestations de services lorsqu'elles sont proposées pour les besoins d'une exploitation agricole, industrielle ou commerciale ou d'une activité professionnelle.
 
+e) Les ventes, locations ou locations-ventes de biens ou les prestations de services lorsqu'elles ont un rapport direct avec les activités exercées dans le cadre d'une exploitation agricole, industrielle, commerciale ou artisanale ou de toute autre profession.
+
 II. - Il est interdit de se rendre au domicile d'une personne physique, à sa résidence ou à son lieu de travail pour proposer la vente, la location ou la location-vente de documents ou matériels quelconques tendant à répondre aux mêmes besoins que des prestations de services pour lesquelles le démarchage est prohibé en raison de son objet par un texte particulier.
 
 Toute infraction aux dispositions de l'alinéa précédent entraîne, outre la nullité de la convention, l'application des sanctions prévues à l'article 5 de la présente loi.

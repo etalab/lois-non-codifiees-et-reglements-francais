@@ -1,6 +1,6 @@
 # Article 388
 
-Les dispositions des articles 377, 381, 385 et 386 sont applicables aux fusions ou aux scissions des sociétés à responsabilité limitée au profit de sociétés de même forme. Lorsque l'opération est réalisée par apports à des sociétés à responsabilité limitée existantes, les dispositions de l'article 378 sont également applicables.
+Les dispositions des articles 377, 378-1, 381, 385 et 386 sont applicables aux fusions ou aux scissions des sociétés à responsabilité limitée au profit de sociétés de même forme. Lorsque l'opération est réalisée par apports à des sociétés à responsabilité limitée existantes, les dispositions de l'article 378 sont également applicables.
 
 Lorsque la fusion est réalisée par apports à une société à responsabilité limitée nouvelle, celle-ci peut être constituée sans autres apports que ceux des sociétés qui fusionnent.
 

@@ -1,8 +1,10 @@
 # Article 1
 
-Des sociétés de caution mutuelle peuvent être constituées entre commerçants, industriels, fabricants, artisans, sociétés commerciales et membres des professions libérales. Elles ont pour objet exclusif de cautionner leurs membres à raison de leurs opérations professionnelles.
+Des sociétés de caution mutuelle peuvent être constituées entre commerçants, industriels, fabricants, artisans, sociétés commerciales et membres des professions libérales. Elles ont pour objet de cautionner leurs membres à raison de leurs opérations professionnelles.
 
-En outre, des sociétés de caution mutuelle peuvent être constituées entre propriétaires d'immeubles ou de droits immobiliers. Elles ont pour objet exclusif de cautionner leurs membres à raison de prêts contractés pour l'accession à la propriété ou l'aménagement et la réparation de leurs immeubles.
+En outre, des sociétés de caution mutuelle peuvent être constituées entre propriétaires d'immeubles ou de droits immobiliers. Elles ont pour objet de cautionner leurs membres à raison de prêts contractés pour l'accession à la propriété ou l'aménagement et la réparation de leurs immeubles.
+
+Les sociétés mentionnées aux premier et deuxième alinéas sont autorisées à effectuer au profit de leurs membres, à l'occasion d'une opération de cautionnement et en relation directe avec celle-ci, les opérations de conseil visées au 5° de l'article 5 de la loi n° 84-46 du 24 janvier 1984 relative à l'activité et au contrôle des établissements de crédit, sans toutefois qu'il puisse y avoir obligation pour le demandeur d'une caution d'accepter un service de conseil.
 
 La caution peut être donnée par l'aval ou l'endos des effets de commerce et billets créés, souscrits ou endossés par les membres des sociétés ou sous toute autre forme.
 
