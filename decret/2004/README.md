@@ -343,7 +343,6 @@
 - [Décret n°2004-407 du 12 mai 2004 (SANS0421387D)](decret-n2004-407-du-12-mai-2004-sans0421387d)
 - [Décret n°2004-422 du 12 mai 2004 (JUSB0410174D)](decret-n2004-422-du-12-mai-2004-jusb0410174d)
 - [Décret n°2004-423 du 12 mai 2004 (AGRA0400589D)](decret-n2004-423-du-12-mai-2004-agra0400589d)
-- [Décret du 13 février 2004 (ECOT0414374D)](decret-du-13-fevrier-2004-ecot0414374d)
 - [Décret n°2004-1081 du 13 octobre 2004 (PRMX0407695D)](decret-n2004-1081-du-13-octobre-2004-prmx0407695d)
 - [Décret n°2004-1082 du 13 octobre 2004 (PRMG0470640D)](decret-n2004-1082-du-13-octobre-2004-prmg0470640d)
 - [Décret n°2004-1084 du 13 octobre 2004 (MCCT0400826D)](decret-n2004-1084-du-13-octobre-2004-mcct0400826d)
