@@ -1,7 +1,3 @@
 # Article 1
 
-La liste des médicaments que les docteurs en médecine sont autorisés à délivrer aux personnes auxquelles ils donnent leurs soins en application de l'article L. 594 du code de la santé publique est fixée ainsi qu'il suit :
-
-1° Les médicaments simples ou composés inscrits à la Pharmacopée française ;
-
-2° Les médicaments figurant sur la liste des spécialités remboursables par les organismes de sécurité sociale.
+Sans préjudice des prescriptions de l'article 66 c susvisé du livre II du code de travail, les dispositions générales ci-annexées adoptées par la caisse régionale de sécurité sociale de Montpellier et modifiées sur la proposition des comités techniques nationaux intéressés sont, dans les conditions prévues à l'article 431 (alinéa 2) du code de la sécurité sociale, rendues obligatoires sur l'ensemble du territoire à toutes les professions dont l'exercice entraîne l'utilisation de meules et de machines à meuler.
