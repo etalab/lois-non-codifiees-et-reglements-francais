@@ -26,6 +26,8 @@
 - [Arrêté du 2 janvier 1995 (JUSG9560001A)](arrete-du-2-janvier-1995-jusg9560001a)
 - [Arrêté du 2 janvier 1995 (SPSS9500023A)](arrete-du-2-janvier-1995-spss9500023a)
 - [Arrêté du 2 janvier 1995 (TEFT9500006A)](arrete-du-2-janvier-1995-teft9500006a)
+- [Arrêté du 2 juin 1995 (SANP9501772A)](arrete-du-2-juin-1995-sanp9501772a)
+- [Arrêté du 2 juin 1995 (SANP9501773A)](arrete-du-2-juin-1995-sanp9501773a)
 - [Arrêté du 2 mars 1995 (AGRG9500458A)](arrete-du-2-mars-1995-agrg9500458a)
 - [Arrêté du 2 mars 1995 (BUDF9500006A)](arrete-du-2-mars-1995-budf9500006a)
 - [Arrêté du 2 mars 1995 (BUDF9520842A)](arrete-du-2-mars-1995-budf9520842a)
