@@ -15,6 +15,7 @@
 - [Décret n°73-865 du 4 septembre 1973](decret-n73-865-du-4-septembre-1973)
 - [Décret n°73-462 du 4 mai 1973](decret-n73-462-du-4-mai-1973)
 - [Décret n°73-1028 du 5 novembre 1973](decret-n73-1028-du-5-novembre-1973)
+- [Décret n°73-1084 du 5 décembre 1973](decret-n73-1084-du-5-decembre-1973)
 - [Décret n°73-124 du 5 février 1973](decret-n73-124-du-5-fevrier-1973)
 - [Décret n°73-132 du 5 février 1973](decret-n73-132-du-5-fevrier-1973)
 - [Décret n°73-609 du 5 juillet 1973](decret-n73-609-du-5-juillet-1973)
