@@ -343,7 +343,6 @@
 - [Décret n°96-992 du 12 novembre 1996 (TASS9623322D)](decret-n96-992-du-12-novembre-1996-tass9623322d)
 - [Décret n°96-993 du 12 novembre 1996 (TASP9623652D)](decret-n96-993-du-12-novembre-1996-tasp9623652d)
 - [Décret n°96-1091 du 13 décembre 1996 (JUSB9610416D)](decret-n96-1091-du-13-decembre-1996-jusb9610416d)
-- [Décret n°96-115 du 13 février 1996 (TASH9523347D)](decret-n96-115-du-13-fevrier-1996-tash9523347d)
 - [Décret n°96-199 du 13 mars 1996 (MIPP9600049D)](decret-n96-199-du-13-mars-1996-mipp9600049d)
 - [Décret n°96-211 du 13 mars 1996 (INTC9600040D)](decret-n96-211-du-13-mars-1996-intc9600040d)
 - [Décret n°96-523 du 13 juin 1996 (BUDR9600061D)](decret-n96-523-du-13-juin-1996-budr9600061d)
