@@ -1,0 +1,3 @@
+# Article Annexe art. 13
+
+Les crédits inscrits aux chapitres ... du budget du département, correspondant à des dépenses effectuées en faveur des services du représentant de l'Etat mais restant à la charge du département en application de l'article 30 de la loi relative aux droits et libertés des communes, des départements et des régions, sont notifiés au représentant de l'Etat par le président du conseil général dès le vote du budget. Le représentant de l'Etat utilise librement ces crédits conformément à leur affectation budgétaire et adresse au président du conseil général, aux fins d'engagement et d'ordonnancement des mémoires et factures correspondants.
