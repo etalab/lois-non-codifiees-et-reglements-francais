@@ -1,0 +1,3 @@
+# Article 7 ter
+
+Les maîtres des établissements d'enseignement privés sous contrat qui ont subi avec succès l'un des examens d'aptitude ou concours de recrutement de l'enseignement du second degré, qui ont opté pour leur maintien dans l'enseignement privé en application du deuxième alinéa de l'article 5 du décret susvisé du 10 mars 1964 et qui demandent ultérieurement leur nomination dans le corps enseignant relevant du ministère de l'éducation auquel cet examen d'aptitude ou concours donne accès peuvent y être, dans la limite des emplois vacants, nommés et titularisés. Ils sont classés au jour de leur titularisation dans les conditions prévues à l'article 7 bis ci-dessus.
