@@ -1,0 +1,3 @@
+# Article 3
+
+Le ministre chargé des départements et des territoires d'outre-mer et le ministre chargé du budget  fixent par arrêté conjoint le taux de ces bourses en fonction de la nature de la formation suivie. Ce taux tient compte des frais d'entretien, de trousseau, de fournitures, de congés et de vacances scolaires qu'entraîne un séjour d'un an en métropole. Le budget du ministère chargé des départements et des territoires d'outre-mer supporte également les frais de transport des étudiants qui résident dans un territoire d'outre-mer au moment de l'attribution de la bourse ainsi que les déplacements des étudiants boursiers en métropole lorsque ces déplacements sont justifiés par la poursuite des études.
