@@ -1,3 +1,0 @@
-# Article 14
-
-La Caisse nationale militaire de Sécurité Sociale est soumise au contrôle prévu par le décret n° 55-733 du 26 mai 1955 portant codification, en application de la loi n° 55-360 du 3 avril 1955, et aménagement des textes relatifs au contrôle économique et financier de l'Etat.

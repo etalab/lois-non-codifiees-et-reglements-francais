@@ -1,3 +1,0 @@
-# Article 31
-
-Les indemnités dues aux témoins, aux membres non fonctionnaires des tribunaux maritimes commerciaux et des conseils de discipline, aux assistants techniques participant aux enquêtes sur accident de mer et aux interprètes sont mandatées dans les mêmes conditions que les frais de déplacement payés sur le budget de la marine marchande, au vu d'états taxés apposés par le président du tribunal maritime commercial ou du conseil de discipline ou par l'administrateur de l'inscription maritime enquêteur, au pied des réquisitions, copies de convocations ou citations, étais ou mémoires des parties.

@@ -1,5 +1,0 @@
-# Article 1
-
-Toute convention passée entre les organismes et services de sécurité sociale visés à l'article 1er du décret n° 60-452 du 12 mai 1960 relatif à l'organisation et au fonctionnement de la sécurité sociale, d'une part, et les syndicats de praticiens et d'auxiliaires médicaux, ainsi que les dispensaires publics ou privés, d'autre part, et concernant le montant des honoraires, calculés à l'acte, servant de base au remboursement aux assurés sociaux ou payés par ces organismes ou services n'entrent en vigueur qu'après avoir reçu l'approbation de la commission interministérielle des tarifs prévue à l'article 2 du décret n° 60-451 du 12 mai 1960 relatif aux soins médicaux aux assurés sociaux. Il en est de même de toute décision ou délibération de ces organismes et services ayant le même objet.
-
-Les dispositions qui précèdent s'appliquent même au cas où les autorités ayant qualité, dans les organismes ou services mentionnés à l'alinéa précédent, pour fixer le montant des remboursements aux assurés sociaux ou des paiements aux praticiens ont décidé d'appliquer aux régimes qu'elles gèrent les conventions et tarifs du régime général de la sécurité sociale.

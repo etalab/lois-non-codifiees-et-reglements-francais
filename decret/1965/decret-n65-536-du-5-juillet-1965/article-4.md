@@ -1,0 +1,3 @@
+# Article 4
+
+Après la suppression du comité professionnel de la meunerie et de la caisse professionnelle de l'industrie meunière, les décisions, avis et propositions qu'il incombait à ce comité et à cette caisse de prendre ou de présenter, et dont l'intervention demeure légalement nécessaire, seront, en ce qui concerne les décisions, prises par le ministre de l'agriculture et, en ce qui concerne les avis et propositions, présentés par une commission consultative de la meunerie constituée auprès de l'office national interprofessionnel des céréales. Cette commission pourra être consultée par le ministre de l'agriculture sur toutes les questions intéressant la meunerie.
