@@ -1,7 +1,7 @@
 # Article 27-2
 
-Sans préjudice de l'application des sanctions prévues par le Code de l'urbanisme, quiconque réalise un des projets énumérés à l'article 29 de la loi susvisée du 27 décembre 1973 sans avoir obtenu l'autorisation requise doit, après mise en demeure qui lui est faite par le préfet, cesser les travaux ou l'exploitation de la surface litigieuse dans le délai imparti.
+" Sans préjudice de l'application des sanctions prévues par le code de l'urbanisme, sera puni de l'amende prévue pour les contraventions de la cinquième classe quiconque, sans être titulaire de l'autorisation requise ou en méconnaissance de ses prescriptions, soit entreprend ou fait entreprendre des travaux aux fins de réaliser un des projets prévus à l'article 29 de la loi du 27 décembre 1973 susvisée, soit exploite ou fait exploiter un magasin soumis aux obligations édictées par cet article. Dans ce dernier cas, chaque jour d'exploitation constitue une infraction.
 
-Le refus de se conformer à la mise en demeure prévue à l'alinéa précédent est puni d'une amende de 600 F à 1000 F. L'amende sera appliquée autant de fois qu'il y aura eu de journées pendant lesquelles l'intéressé n'aura pas observé la mise en demeure. En cas de récidive, l'amende pourra être portée à 2000 F.
+" S'il y a récidive, la peine d'amende prévue pour la récidive des contraventions de la cinquième classe est applicable. "
 
 Le tribunal pourra, en outre, ordonner la confiscation totale ou partielle des meubles meublants garnissant la surface litigieuse et des marchandises qui sont offertes à la vente sur cette surface.

@@ -2,6 +2,8 @@
 
 Lorsqu'une demande concerne une commune située à la limite du département, la commission départementale d'urbanisme commercial du département voisin est consultée sur le projet. Elle doit formuler son avis avant que la commission compétente ne statue.
 
+Elle se prononce dans les conditions prévues aux articles 12 et 15 du décret 83-1025 du 28 novembre 1983 susvisé.
+
 Les maires des communes limitrophes situées dans un département voisin qui, en vertu de l'article 3 ci-dessus, participent aux travaux de la commission, y sont convoqués par le préfet du département dont font partie les communes qu'ils représentent.
 
 Le délai prévu au premier alinéa de l'article 7 est réduit à huit jours pour la réunion de la commission départementale d'urbanisme commercial saisie pour avis.
