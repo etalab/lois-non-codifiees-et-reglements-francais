@@ -3,7 +3,6 @@
 - [Arrêté du 1 décembre 1989 (EQUT8901496A)](arrete-du-1-decembre-1989-equt8901496a)
 - [Arrêté du 1 décembre 1992 (ENEG9201044A)](arrete-du-1-decembre-1992-eneg9201044a)
 - [Arrêté du 1 décembre 1992 (ENEG9201045A)](arrete-du-1-decembre-1992-eneg9201045a)
-- [Arrêté du 1 décembre 1993 (MCCK9300359A)](arrete-du-1-decembre-1993-mcck9300359a)
 - [Arrêté du 1 décembre 1993 (RESZ9301597A)](arrete-du-1-decembre-1993-resz9301597a)
 - [Arrêté du 1 décembre 1993 (SANP9303517A)](arrete-du-1-decembre-1993-sanp9303517a)
 - [Arrêté du 1 décembre 1993 (SPSS9303450A)](arrete-du-1-decembre-1993-spss9303450a)
