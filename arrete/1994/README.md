@@ -656,7 +656,6 @@
 - [Arrêté du 17 octobre 1994 (SANH9403280A)](arrete-du-17-octobre-1994-sanh9403280a)
 - [Arrêté du 17 octobre 1994 (SANH9403281A)](arrete-du-17-octobre-1994-sanh9403281a)
 - [Arrêté du 17 mai 1994 (AGRG9400931A)](arrete-du-17-mai-1994-agrg9400931a)
-- [Arrêté du 17 mai 1994 (SPSS9401428A)](arrete-du-17-mai-1994-spss9401428a)
 - [Arrêté du 18 août 1994 (ECOC9400107A)](arrete-du-18-aout-1994-ecoc9400107a)
 - [Arrêté du 18 août 1994 (ECOC9400108A)](arrete-du-18-aout-1994-ecoc9400108a)
 - [Arrêté du 18 août 1994 (SPSH9402652A)](arrete-du-18-aout-1994-spsh9402652a)
