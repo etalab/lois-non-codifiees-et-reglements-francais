@@ -13,5 +13,3 @@ Cette dernière disposition est notamment applicable aux titulaires d'un doctora
 Les demandes d'inscription ne peuvent être déposées au cours d'une même année universitaire qu'auprès d'un seul établissement. Les candidats ayant déjà été inscrits en vue de ce diplôme dans un autre établissement sont tenus de le signaler.
 
 Les demandes d'inscription sont examinées par le président ou le directeur de l'établissement, qui statue sur proposition du conseil scientifique siégeant en formation restreinte aux personnes habilitées à diriger des recherches et après avis du directeur de recherche si le candidat en a un.
-
-Dans les disciplines juridiques, politiques, économiques et de gestion et par dérogation aux dispositions prévues à l'alinéa 1er ci-dessus, l'autorisation d'inscription peut être accordée à titre exceptionnel, par le président ou le directeur de l'établissement, sur proposition du directeur de thèse ou de travaux, aux candidats inscrits à la préparation du doctorat.
