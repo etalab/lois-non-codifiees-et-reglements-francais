@@ -59,3 +59,5 @@
 - [Décret n°98-679 du 30 juillet 1998 (ATEP9860005D)](decret-n98-679-du-30-juillet-1998-atep9860005d)
 - [Décret n°98-1310 du 31 décembre 1998 (MESF9811319D)](decret-n98-1310-du-31-decembre-1998-mesf9811319d)
 - [Décret n°98-1312 du 31 décembre 1998 (ECOI9800899D)](decret-n98-1312-du-31-decembre-1998-ecoi9800899d)
+- [Décret n°98-1314 du 31 décembre 1998 (JUSB9810454D)](decret-n98-1314-du-31-decembre-1998-jusb9810454d)
+- [Décret n°98-1315 du 31 décembre 1998 (ECOT9810358D)](decret-n98-1315-du-31-decembre-1998-ecot9810358d)
