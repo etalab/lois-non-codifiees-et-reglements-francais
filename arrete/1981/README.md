@@ -43,7 +43,6 @@
 - [Arrêté du 12 mai 1981](arrete-du-12-mai-1981)
 - [Arrêté du 13 avril 1961](arrete-du-13-avril-1961)
 - [Arrêté du 13 avril 1981](arrete-du-13-avril-1981)
-- [Arrêté du 13 mars 1981](arrete-du-13-mars-1981)
 - [Arrêté du 13 novembre 1980](arrete-du-13-novembre-1980)
 - [Arrêté du 13 mai 1975](arrete-du-13-mai-1975)
 - [Arrêté du 13 mai 1981](arrete-du-13-mai-1981)

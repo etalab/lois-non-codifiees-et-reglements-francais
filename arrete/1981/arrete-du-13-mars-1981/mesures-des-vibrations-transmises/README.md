@@ -1,3 +1,0 @@
-# MESURES DES VIBRATIONS TRANSMISES.
-
-- [Article 11](article-11.md)

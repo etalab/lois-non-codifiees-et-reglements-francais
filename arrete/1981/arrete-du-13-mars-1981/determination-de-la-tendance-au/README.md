@@ -1,3 +1,0 @@
-# DETERMINATION DE LA TENDANCE AU REBOND DES CHAINES.
-
-- [Article 12](article-12.md)

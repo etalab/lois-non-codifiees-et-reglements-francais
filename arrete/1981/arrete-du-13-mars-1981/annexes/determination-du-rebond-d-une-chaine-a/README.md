@@ -1,3 +1,0 @@
-# DETERMINATION DU REBOND D'UNE CHAINE A MAILLONS-GOUGES.
-
-- [Article ANNEXE 5](article-annexe-5.md)

@@ -1,3 +1,0 @@
-# Article 12
-
-Les membres du conseil de région, à l'exception du président et des vice-présidents [*rémunération*], ne peuvent percevoir des indemnités pour l'exercice de leur mandat ; ils sont toutefois remboursés des frais de transports et de séjour qu'ils engagent à l'occasion des sessions ou des missions qui leur sont confiées par le conseil de région. Le montant de ces frais est fixé par référence aux indemnités correspondantes prévues pour les agents de la catégorie A de la fonction publique territoriale. Le conseil de région détermine le montant des indemnités allouées au président et aux vice-présidents.
