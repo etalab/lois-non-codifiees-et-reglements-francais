@@ -1,6 +1,6 @@
 # Article 2
 
-Le montant de chaque subvention est calculé sur la base du coût hors taxe des travaux dans la limite du coût plafond de l'opération établi à la date de la demande.
+Le montant de chaque subvention est calculé sur la base du coût toutes taxes comprises des travaux dans la limite du coût plafond de l'opération établi à la date de la demande.
 
 Le coût plafond est déterminé, selon des modalités fixées par circulaire, par référence à la valeur forfaitaire de l'unité-logement servant de base au calcul du loyer.
 
