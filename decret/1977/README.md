@@ -40,6 +40,7 @@
 - [Décret n°77-759 du 7 juillet 1977](decret-n77-759-du-7-juillet-1977)
 - [Décret n°77-760 du 7 juillet 1977](decret-n77-760-du-7-juillet-1977)
 - [Décret du 8 septembre 1977](decret-du-8-septembre-1977)
+- [Décret n°73-523 du 8 juin 1973](decret-n73-523-du-8-juin-1973)
 - [Décret n°77-221 du 8 mars 1977](decret-n77-221-du-8-mars-1977)
 - [Décret n°77-222 du 8 mars 1977](decret-n77-222-du-8-mars-1977)
 - [Décret n°77-254 du 8 mars 1977](decret-n77-254-du-8-mars-1977)
