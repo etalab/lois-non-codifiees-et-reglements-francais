@@ -6,7 +6,11 @@ La majoration prévue au troisième alinéa du VI du même article est attribué
 
 Un barème annexé au présent décret fixe les montants de l'aide et de chacune des majorations. Les montants de l'aide et de la majoration prévue au troisième alinéa du VI de l'article 3 de la loi du 13 juin 1998 susvisée varient conformément à ce barème.
 
-Le barème de l'aide dont bénéficie l'entreprise est déterminé en prenant en compte la date de signature de l'accord d'entreprise servant de base à la convention ou, à défaut, dans le cas de l'application d'une convention ou d'un accord de branche étendus, la date de signature de la convention entre l'Etat et l'entreprise. Toutefois, si la réduction du temps de travail n'est pas effective dans les trois mois suivant la signature de la convention entre l'Etat et l'entreprise, la date prise en compte est alors la date d'entrée en vigueur de la réduction du temps de travail, sauf circonstances exceptionnelles appréciées par l'autorité administrative.
+Le barème de l'aide dont bénéficie l'entreprise est celui applicable à la date de la signature de l'accord d'entreprise servant de base à la convention signée ou, à défaut, dans le cas de l'application d'une convention ou d'un accord de branche étendus ou agréés, la date de dépôt de la demande de convention.
+
+Toutefois si la demande de convention est déposée en application d'une convention collective ou d'un accord de branche étendus ou agréés conclus antérieurement au 1er juillet 1999, le barème applicable est celui en vigueur à la date de la conclusion dudit accord sous réserve que la demande de convention soit déposée avant l'expiration d'un délai de trois mois courant à compter de la publication au Journal officiel de l'arrêté d'extension.
+
+En tout état de cause, si la réduction du temps de travail n'est pas effective dans les trois mois suivant la signature de la convention entre l'Etat et l'entreprise, le barème applicable est celui en vigueur à la date de la réduction du temps de travail, sauf circonstances exceptionnelles appréciées par l'autorité administrative.
 
 II. - Lorsque, en application du troisième alinéa du IV de l'article 3 de la loi du 13 juin 1998 susvisée, l'entreprise opère une nouvelle réduction du temps de travail, celle-ci doit être organisée par un avenant à l'accord d'entreprise. Celui-ci précise notamment l'ampleur de la nouvelle réduction du temps de travail ainsi que le nombre d'embauches auxquelles l'employeur s'engage à procéder et la durée pendant laquelle l'employeur s'engage à maintenir l'emploi.
 
