@@ -6,6 +6,7 @@
 - [Loi n° 64-1279 du 23 décembre 1964](loi-n-64-1279-du-23-decembre-1964)
 - [Loi n° 64-1326 du 26 décembre 1964](loi-n-64-1326-du-26-decembre-1964)
 - [Loi n° 64-1330 du 26 décembre 1964](loi-n-64-1330-du-26-decembre-1964)
+- [Loi n° 64-1339 du 26 décembre 1964](loi-n-64-1339-du-26-decembre-1964)
 - [Loi n° 64-707 du 10 juillet 1964](loi-n-64-707-du-10-juillet-1964)
 - [Loi n°64-1331 du 26 décembre 1964](loi-n64-1331-du-26-decembre-1964)
 - [Loi n°64-645 du 1 juillet 1964](loi-n64-645-du-1-juillet-1964)
