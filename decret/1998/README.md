@@ -592,6 +592,8 @@
 - [Décret n°98-860 du 23 septembre 1998 (MENF9802290D)](decret-n98-860-du-23-septembre-1998-menf9802290d)
 - [Décret n°98-862 du 23 septembre 1998 (AGRR9800272D)](decret-n98-862-du-23-septembre-1998-agrr9800272d)
 - [Décret n°98-863 du 23 septembre 1998 (MAEX9800122D)](decret-n98-863-du-23-septembre-1998-maex9800122d)
+- [Décret n°98-864 du 23 septembre 1998 (INTD9800247D)](decret-n98-864-du-23-septembre-1998-intd9800247d)
+- [Décret n°98-865 du 23 septembre 1998 (ATEX9800064D)](decret-n98-865-du-23-septembre-1998-atex9800064d)
 - [Décret n°98-873 du 23 septembre 1998 (EQUA9800854D)](decret-n98-873-du-23-septembre-1998-equa9800854d)
 - [Décret n°92-703 du 24 juillet 1992 (PRMX9210255D)](decret-n92-703-du-24-juillet-1992-prmx9210255d)
 - [Décret n°97-1177 du 24 décembre 1997 (JUSA9700342D)](decret-n97-1177-du-24-decembre-1997-jusa9700342d)
