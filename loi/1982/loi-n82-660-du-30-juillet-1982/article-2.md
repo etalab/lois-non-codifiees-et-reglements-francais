@@ -1,0 +1,11 @@
+# Article 2
+
+I. - Nonobstant toutes dispositions législatives et réglementaires ou stipulations contractuelles contraires, les montants des loyers, des redevances ou indemnités d'occupation toutes taxes comprises dus pendant la période du 11 juin 1982 au 31 octobre 1982 ne peuvent être supérieurs pour le même local ou immeuble au dernier loyer du contrat en cours à la date du 11 juin 1982. Pour les locaux ne faisant pas l'objet d'un contrat de location en cours à la date du 11 juin 1982 et qui sont loués pendant la période précitée, le nouveau loyer ne peut être supérieur au dernier loyer du précédent contrat. Le présent article n'est pas applicable aux locaux n'ayant pas fait l'objet d'un contrat de location depuis dix-huit mois ou plus à la date de la nouvelle location.
+
+Ces dispositions s'appliquent aux loyers, redevances et indemnités d'occupation afférentes aux locaux ou immeubles à usage d'habitation, aux locaux ou immeubles à usage professionnel ou à usage d'habitation et professionnel, ou à usage administratif, qu'il comportent ou non une partie affectée à l'habitation, aux garages, places de stationnement, jardins et locaux accessoires.
+
+II. - Les majorations de loyer devant intervenir entre le 11 juin et le 31 octobre 1982 au titre de la révision du loyer ou lors de la conclusion ou du renouvellement du contrat de location ne prennent effet qu'à compter du 1er novembre 1982, dans les limites par les lois et règlements en vigueur ou résultant d'accords ou d'engagements de modération. La période de référence prise en compte pour déterminer ces majorations est celle qui aurait été retenue en l'absence des dispositions du présent article.
+
+La révision ou la fixation du loyer intervenant au titre de la période postérieure au 31 octobre 1982 ne pourra être effectuée que sur la base du loyer résultant de l'alinéa précédent.
+
+Constitue une pratique de prix illicite qui est constatée, poursuivie et réprimée dans les conditions prévues par l'ordonnance n° 45-1484 du 30 juin 1945 modifiée, le fait pour un bailleur ou son mandataire de maintenir, d'exiger ou de percevoir, à compter de la promulgation de la présente loi, un loyer, une redevance, ou une indemnité d'occupation dont le montant excède celui qui résulte de l'application du présent article.

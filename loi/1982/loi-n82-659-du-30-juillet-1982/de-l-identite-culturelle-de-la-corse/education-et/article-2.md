@@ -1,0 +1,7 @@
+# Article 2
+
+Sur proposition du représentant de l'Etat dans la région, et après consultation des départements et des communes intéressées ainsi que du conseil de la culture, de l'éducation et du cadre de vie et du Conseil économique et social, l'assemblée arrête la carte scolaire des établissements d'enseignement visés à l'article 3.
+
+Sur proposition de son président, et après consultation des départements ainsi que du conseil de la culture, de l'éducation et du cadre de vie, l'assemblée détermine les activités éducatives complémentaires qu'elle organise et notamment celles relatives à l'enseignement de la langue corse et de la culture corse ; ces activités sont facultatives pour les élèves et ne peuvent se substituer à celles prévues par les programmes d'enseignement et de formation.
+
+Les propositions de l'université de Corse relatives aux formations supérieures et aux activités de recherche universitaire sont présentées à l'assemblée. Sur cette base, ou, à défaut de propositions de l'université, à l'initiative du président de l'assemblée, celle-ci établit, en fonction des priorités qu'elle détermine en matière de développement culturel, économique et social, et après consultation du conseil de la culture, de l'éducation et du cadre de vie, et du Conseil économique et social, des propositions de formations supérieures et d'activités de recherche universitaire. La carte de ces formations et de ces activités est arrêtée par l'Etat.
