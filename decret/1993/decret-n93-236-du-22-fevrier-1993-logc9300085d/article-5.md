@@ -1,5 +1,5 @@
 # Article 5
 
-Le chef de la mission d'inspection du logement social est nommé par arrêté du ministre chargé de la construction et de l'habitat après avis des ministres chargés de l'économie et du budget.
+Le chef de la mission interministérielle d'inspection du logement social est nommé par arrêté conjoint des ministres chargés de l'économie, du budget et du logement sur proposition du ministre chargé du logement.
 
-Il est assisté par un chef adjoint nommé par arrêté des ministres chargés de l'économie et du budget après avis du ministre chargé de la construction et de l'habitat.
+Il est assisté par un chef adjoint nommé par arrêté conjoint des mêmes ministres sur proposition des ministres chargés de l'économie et du budget.
