@@ -1,63 +1,81 @@
 # Article ANNEXE 14
 
-Grigny-Viry-Chatillon (département de l'Essonne) : La Grande Borne
+GRIGNY - VIRY-CHATILLON (DEPARTEMENT DE L'ESSONNE) :
+
+LA GRANDE-BORNE ET LE VILLAGE DE GRIGNY
 
 Grigny :
 
--	rue du Moulin n°s 31, 29 et 27 jusqu'aux limites des parcelles section AP n°s 32 et 64 ;
+- limite communale (Viry-Châtillon), de la rue du 8-Mai-1945 jusqu'au chemin des Rois ;
 
--	limite Nord de la parcelle section AP n° 64 jusqu'au chemin de la Norville ;
+- chemin des Rois, des deux côtés (parcelle AH 15 exclue), jusqu'au sentier du Saut-du-Loup ;
 
--	chemin de la Norville jusqu'à la rue des Mûriers ;
+- sentier du Saut-du-Loup jusqu'à la limite sud puis est de la parcelle AI 2 ;
 
--	rue des Mûriers jusqu'aux limites Ouest des parcelles section AO n°s 255, 271, 269, 122, 128 et 129 ;
+- chemin rural dit du Clotay jusqu'aux limites ouest puis nord des parcelles AE 17 et AE 18 ;
 
--	limite Ouest de la parcelle section AO n° 129 jusqu'à la route de Corbeil ;
+- rue du Port ;
 
-- route de Corbeil (du n° 34 au n° 90) jusqu'à la parcelle section C 1-552, parcelles section B n<sup>os</sup> 401 et 405 incluses ;
+- limite nord puis est de la parcelle AD 2 ;
 
-- parcelles section B n°s 450, 451, 447, 514 et 516 (gare SNCF de Grigny) ;
+- limite est puis sud de la parcelle AD 1 ;
 
--	chemin départemental n° 310 jusqu'à la limite Sud de la parcelle section C n° 552 ;
+- rue du Port jusqu'à la limite nord de la section AI ;
 
--	limite Sud de la parcelle section C n° 552 jusqu'aux limites Est des parcelles section AN n°s 35, 24, 25 et 26 ;
+- limite nord de la section AI jusqu'au chemin rural dit "chemin vert" ;
 
-- limite est des parcelles section AN n<sup>os</sup> 35, 24, 25 et 26 jusqu'aux limites nord des parcelles section AV n<sup>os</sup> 1, 2, 3, 47, 48, 49 et 50 ;
+- chemin rural dit "chemin vert" jusqu'à la limite nord des parcelles AK 148 et 149 ;
 
--	limite Est de la parcelle section AV n° 50 jusqu'au chemin de l'Orme-Pomponne ;
+- limites est et sud de la parcelle AK 149 ;
 
--	chemin de l'Orme-Pomponne (limite communale de Ris-Orangis) de la parcelle section AV n° 50 jusqu'à l'autoroute A 6 ;
+- limites est des parcelles AK n°s 147, 146 et 134 ;
 
--	limite autoroute A 6 jusqu'à l'avenue Emile-Aillaud ;
+- rue du Regard jusqu'à la rue Renoir ;
 
--	avenue Emile-Aillaud (C.D. 310) jusqu'aux limites Est des parcelles section AT n°s 8 et 6 ;
+- rue Renoir jusqu'à la limite nord puis est de la parcelle AK n° 43 ;
 
--	limites Sud des parcelles section AT n°s 8, 6 et 5 jusqu'à la limite Est de la parcelle section AT n° 31 ;
+- limite est de la parcelle AK n° 40 jusqu'aux limites nord puis est et nord de la parcelle AK n° 41 ;
 
--	limite Sud de la parcelle section AT n° 31 à la limite communale (Fleury-Mérogis) ;
+- limites est puis nord de la parcelle AK n° 2 ;
 
-- limite communale jusqu'aux limites ouest des parcelles section AT n<sup>os</sup> 20 et 42 jusqu'à l'avenue Emile-Aillaud ;
+- limite est de la parcelle AK n° 1 jusqu'à la route de Corbeil ;
 
--	avenue Emile-Aillaud jusqu'aux limites Est des parcelles section AS n°s 4 et 5 (parking exclu) ;
+- route de Corbeil (du numéro 72 au numéro 90) jusqu'à la limite nord de la parcelle AM n° 24 ;
 
--	parcelles section AS n°s 4 et 5 (parking exclu) jusqu'à la limite communale (Fleury-Mérogis) ;
+- parcelles AL n°s 46, 47, 41, 44 et 48 comprises (gare SNCF de Grigny) ;
 
--	limite communale (Fleury-Mérogis) jusqu'à la route nationale n° 445) ;
+- chemin départemental n° 310 jusqu'à la limite est de la parcelle section AM n° 21 ;
 
--	route nationale n° 445.
+- limites est et sud de la parcelle AM n° 21 jusqu'aux limites est des parcelles AN n°s 35, 24, 43, 45 et 26 ;
+
+- limites est des parcelles AN n°s 35, 24, 43, 45 et 26 jusqu'aux limites nord des parcelles AV n°s 1, 2, 3, 47, 48, 49 et 50 ;
+
+- limites nord des parcelles AV n°s 1, 2, 3, 47, 48, 49 et 50 jusqu'au chemin de l'Orme-Pomponne (limite communale avec Ris-Orangis) ;
+
+- chemin de l'Orme-Pomponne (limite communale avec Ris-Orangis) de la parcelle AV n° 50 jusqu'à l'autoroute A 6 ;
+
+- limite autoroute A 6 jusqu'à l'avenue Emile-Aillaud (CD 310) ;
+
+- avenue Emile-Aillaud (CD 310) jusqu'aux limites est des parcelles AT n°s 8 et 6 ;
+
+- limites sud des parcelles AT n°s 6, 63 et 64 jusqu'à la limite est de la parcelle AT n° 68 ;
+
+- limites est des parcelles AT n°s 68, 69, 70, 71, 90, 89 et 85 jusqu'à la limite communale (Fleury-Mérogis) ;
+
+- limite communale (Fleury-Mérogis) jusqu'à la route nationale n° 445 ;
+
+- route nationale n° 445.
 
 Viry-Châtillon :
 
--	route de Fleury, numéros impairs, du n° 143 au n° 221 ;
+- route de Fleury, numéros impairs, du n° 143 au n° 221 ;
 
--	parcelles section BE n°s 40 et 41 comprises ;
+- parcelles section BE, n°s 40 et 41 comprises ;
 
--	route nationale n° 445 jusqu'à l'autoroute A 6 ;
+- route nationale n° 445 jusqu'à l'autoroute A 6 ;
 
--	autoroute A 6 jusqu'à la limite communale (Grigny) ;
+- autoroute A 6 jusqu'à la limite sud de la parcelle BD 7 ;
 
--	limite communale (Grigny).
+- parcelle BD 7 comprise ;
 
-Grigny :
-
--	(rue du Moulin n°s 31, 29 et 27).
+- limite communale (Grigny).
