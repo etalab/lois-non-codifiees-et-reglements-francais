@@ -501,7 +501,6 @@
 - [Décret n°87-480 du 30 juin 1987 (AGRR8701077D)](decret-n87-480-du-30-juin-1987-agrr8701077d)
 - [Décret n°87-590 du 30 juin 1987 (FPPP8700100D)](decret-n87-590-du-30-juin-1987-fppp8700100d)
 - [Décret n°87-596 du 30 juillet 1987 (PTTP8700536D)](decret-n87-596-du-30-juillet-1987-pttp8700536d)
-- [Décret n°87-597 du 30 juillet 1987 (PTTP8700537D)](decret-n87-597-du-30-juillet-1987-pttp8700537d)
 - [Décret n°87-598 du 30 juillet 1987 (PTTP8700538D)](decret-n87-598-du-30-juillet-1987-pttp8700538d)
 - [Décret n°87-602 du 30 juillet 1987 (INTB8700199D)](decret-n87-602-du-30-juillet-1987-intb8700199d)
 - [Décret n°87-62 du 30 janvier 1987 (MAEJ8730000D)](decret-n87-62-du-30-janvier-1987-maej8730000d)
