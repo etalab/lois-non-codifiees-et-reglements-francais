@@ -478,7 +478,6 @@
 - [Décret n°96-40 du 17 janvier 1996 (DEFF9502263D)](decret-n96-40-du-17-janvier-1996-deff9502263d)
 - [Décret n°96-41 du 17 janvier 1996 (TASG9511275D)](decret-n96-41-du-17-janvier-1996-tasg9511275d)
 - [Décret n°96-43 du 17 janvier 1996 (AVIC9600003D)](decret-n96-43-du-17-janvier-1996-avic9600003d)
-- [Décret n°96-44 du 17 janvier 1996 (MENH9502682D)](decret-n96-44-du-17-janvier-1996-menh9502682d)
 - [Décret n°96-536 du 17 juin 1996 (TASS9621466D)](decret-n96-536-du-17-juin-1996-tass9621466d)
 - [Décret n°96-550 du 17 juin 1996 (PRMX9601427D)](decret-n96-550-du-17-juin-1996-prmx9601427d)
 - [Décret n°96-554 du 17 juin 1996 (ECOT9526152D)](decret-n96-554-du-17-juin-1996-ecot9526152d)

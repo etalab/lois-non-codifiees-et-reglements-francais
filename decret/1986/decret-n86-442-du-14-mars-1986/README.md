@@ -1,6 +1,5 @@
 # Décret n°86-442 du 14 mars 1986 relatif à la désignation des médecins agréés, à l'organisation des comités médicaux et des commissions de réforme, aux conditions d'aptitude physique pour l'admission aux emplois publics et au régime de congés de maladie des fonctionnaires.
 
-- [Titre 1er : Médecins agréés, comités médicaux et commission de réforme](titre-1er)
 - [Titre Ier : Médecins agréés, comités médicaux et commissions de réforme](titre-ier)
 - [Titre II : Des conditions d'aptitude physique pour l'admission aux emplois publics.](titre-ii)
 - [Titre III : Congés de maladie.](titre-iii)

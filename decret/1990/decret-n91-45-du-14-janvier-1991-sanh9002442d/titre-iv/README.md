@@ -4,4 +4,3 @@
 - [Section 2 : Les agents d'amphithéâtre.](section-2)
 - [Section 3 : Les agents de désinfection.](section-3)
 - [Section 4 : Les agents d'entretien.](section-4)
-- [Section 5 : Les agents du service intérieur.](section-5)
