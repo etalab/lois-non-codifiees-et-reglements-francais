@@ -6,3 +6,4 @@
 - [Chapitre IV : Réalisation des ouvrages.](chapitre-iv)
 - [Chapitre V : Réception et garanties.](chapitre-v)
 - [Chapitre VI : Résiliation du marché - Interruption des travaux.](chapitre-vi)
+- [Chapitre VII : Mesures coercitives - Règlement des différends et des litiges](chapitre-vii)
