@@ -3,7 +3,6 @@
 - [Arrêté du 1 avril 1987 (ASEE8703271A)](arrete-du-1-avril-1987-asee8703271a)
 - [Arrêté du 1 avril 1987 (BUDF8730031A)](arrete-du-1-avril-1987-budf8730031a)
 - [Arrêté du 1 décembre 1987 (BUDR8703138A)](arrete-du-1-decembre-1987-budr8703138a)
-- [Arrêté du 1 décembre 1987 (INTB8700385A)](arrete-du-1-decembre-1987-intb8700385a)
 - [Arrêté du 1 juillet 1987 (MCCB8700311A)](arrete-du-1-juillet-1987-mccb8700311a)
 - [Arrêté du 1 juin 1987 (AGRP8701097A)](arrete-du-1-juin-1987-agrp8701097a)
 - [Arrêté du 1 juin 1987 (AGRP8701098A)](arrete-du-1-juin-1987-agrp8701098a)
