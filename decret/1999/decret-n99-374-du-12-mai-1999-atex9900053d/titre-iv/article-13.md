@@ -1,6 +1,6 @@
 # Article 13
 
-Sont applicables à compter de la date d'entrée en vigueur du présent décret :
+Sont applicables à compter du 1er janvier 2000 :
 
 Les dispositions des titres Ier et III ;
 
@@ -8,13 +8,17 @@ Les dispositions du titre II pour :
 
 1° Tous les accumulateurs ;
 
-2° Pour les piles contenant :
+2° Les piles contenant :
+
+- soit plus de 5 ppm en masse de mercure, s'il s'agit de piles mises en circulation à partir du 1er janvier 1999 ;
 
 - soit plus de 25 milligrammes de mercure par élément ;
 
-- soit plus de 0,025 % en poids de mercure, s'il s'agit de piles alcalines au manganèse ;
+- soit plus de 0,025 % en masse de mercure, s'il s'agit de piles alcalines au manganèse ;
 
-- soit plus de 0,4 % en poids de plomb.
+- soit plus de 0,025 % en masse de cadmium ;
+
+- soit plus de 0,4 % en masse de plomb.
 
 Les dispositions du titre II seront applicables à l'ensemble des piles à compter du 1er janvier 2001.
 

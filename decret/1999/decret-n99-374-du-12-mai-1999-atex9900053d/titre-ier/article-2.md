@@ -1,18 +1,16 @@
 # Article 2
 
-Les piles ou accumulateurs répondant aux caractéristiques suivantes ne peuvent être incorporés à des appareils qu'à la condition de pouvoir être enlevés aisément par l'utilisateur après usage :
+Ne peuvent être incorporés à des appareils qu'à la condition de pouvoir être enlevés aisément par l'utilisateur après usage les piles ou accumulateurs contenant :
 
-Piles contenant :
+- soit plus de 5 ppm en masse de mercure, s'ils ont été mis en circulation à partir du 1er janvier 1999 ;
 
 - soit plus de 25 milligrammes de mercure par élément ;
 
-- soit plus de 0,025 % en poids de mercure, s'il s'agit de piles alcalines au manganèse.
+- soit plus de 0,025 % en masse de mercure, s'il s'agit de piles alcalines au manganèse ;
 
-Piles et accumulateurs contenant :
+- soit plus de 0,025 % en masse de cadmium ;
 
-- soit plus de 0,025 % en poids de cadmium ;
-
-- soit plus de 0,4 % en poids de plomb.
+- soit plus de 0,4 % en masse de plomb.
 
 Ne sont toutefois pas soumises à cette prescription les catégories ci-après d'appareils :
 
