@@ -27,6 +27,8 @@
 - [Décret n°95-657 du 9 mai 1995 (INTX9500789D)](decret-n95-657-du-9-mai-1995-intx9500789d)
 - [Décret n°2005-15 du 10 janvier 2005 (SOCA0424457D)](decret-n2005-15-du-10-janvier-2005-soca0424457d)
 - [Décret n°2005-20 du 11 janvier 2005 (SANH0420604D)](decret-n2005-20-du-11-janvier-2005-sanh0420604d)
+- [Décret n°2005-22 du 11 janvier 2005 (INDI0404352D)](decret-n2005-22-du-11-janvier-2005-indi0404352d)
+- [Décret n°2005-24 du 11 janvier 2005 (DOMB0400015D)](decret-n2005-24-du-11-janvier-2005-domb0400015d)
 - [Décret n°2004-1364 du 13 décembre 2004 (JUSD0430240D)](decret-n2004-1364-du-13-decembre-2004-jusd0430240d)
 - [Décret n°47-77 du 13 janvier 1947](decret-n47-77-du-13-janvier-1947)
 - [Décret n°2005-246 du 14 mars 2005 (SANH0520373D)](decret-n2005-246-du-14-mars-2005-sanh0520373d)
