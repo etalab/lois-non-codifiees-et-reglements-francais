@@ -1,3 +1,7 @@
 # Article 1
 
-Sauf dans la région d'Ile-de-France, le service visé à l'article 3 du décret susvisé du 8 mai 1981 est le service régional de l'aménagement des eaux, mis à cet effet à la disposition du ministre chargé de l'environnement par le ministre de l'agriculture.
+Sont assimilées à des activités industrielles pour l'application de l'article 79-III de la loi de finances pour 1980 instituant une déduction fiscale en faveur de certains investissements réalisés dans les départements d'outre-mer :
+
+1° L'extraction des substances suivantes : chromite, phosphorite, kaolin, columbo-tantalite, minerais aurifères non alluvionnaires ;
+
+2° L'exploitation de gîtes géothermiques au sens de l'article 3 du code minier.
