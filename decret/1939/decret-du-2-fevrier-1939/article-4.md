@@ -1,3 +1,0 @@
-# Article 4
-
-La carte de commerçant ne peut être accordée, sauf dérogations, aux étrangers qui ne possèdent pas les titres les habilitant à séjourner sur le territoire français ni aux étrangers qui, sans en avoir préalablement sollicité et obtenu la délivrance, ont entrepris l'exercice d'une profession commerciale, industrielle ou artisanale. Elle peut être refusée ou retirée dans le cas où l'étranger a donné de fausses indications en vue de son obtention, ou a été condamné pour crime ou délit de droit commun, ou a été condamné à l'une des sanctions prévues au titre II de la loi n° 67-563 du 13 juillet 1967 sur le règlement judiciaire, la liquidation des biens, la faillite personnelle et les banqueroutes.
