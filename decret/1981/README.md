@@ -7,6 +7,7 @@
 - [Décret n°81-6 du 6 janvier 1981](decret-n81-6-du-6-janvier-1981)
 - [Décret n°81-476 du 8 mai 1981](decret-n81-476-du-8-mai-1981)
 - [Décret n°81-17 du 10 janvier 1981](decret-n81-17-du-10-janvier-1981)
+- [Décret n°81-20 du 12 janvier 1981](decret-n81-20-du-12-janvier-1981)
 - [Décret n°80-807 du 14 octobre 1980](decret-n80-807-du-14-octobre-1980)
 - [Décret n°80-808 du 14 octobre 1980](decret-n80-808-du-14-octobre-1980)
 - [Décret n°80-1012 du 15 décembre 1980](decret-n80-1012-du-15-decembre-1980)
