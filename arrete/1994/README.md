@@ -1,6 +1,7 @@
 # 1994
 
 - [Arrêté du 1 août 1994 (AGRG9401575A)](arrete-du-1-aout-1994-agrg9401575a)
+- [Arrêté du 1 août 1994 (MCCK9400278A)](arrete-du-1-aout-1994-mcck9400278a)
 - [Arrêté du 1 avril 1994 (AGRG9400731A)](arrete-du-1-avril-1994-agrg9400731a)
 - [Arrêté du 1 avril 1994 (EQUT9400561A)](arrete-du-1-avril-1994-equt9400561a)
 - [Arrêté du 1 avril 1994 (EQUU9400663A)](arrete-du-1-avril-1994-equu9400663a)
