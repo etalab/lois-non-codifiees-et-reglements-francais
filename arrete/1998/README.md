@@ -728,7 +728,6 @@
 - [Arrêté du 21 octobre 1998 (ECOR9805011A)](arrete-du-21-octobre-1998-ecor9805011a)
 - [Arrêté du 21 septembre 1998 (EQUA9801298A)](arrete-du-21-septembre-1998-equa9801298a)
 - [Arrêté du 22 avril 1998 (AGRA9800570A)](arrete-du-22-avril-1998-agra9800570a)
-- [Arrêté du 22 avril 1998 (AGRG9800811A)](arrete-du-22-avril-1998-agrg9800811a)
 - [Arrêté du 22 avril 1998 (DEFA9851034A)](arrete-du-22-avril-1998-defa9851034a)
 - [Arrêté du 22 avril 1998 (ECOF9800013A)](arrete-du-22-avril-1998-ecof9800013a)
 - [Arrêté du 22 avril 1998 (ECOM9800030A)](arrete-du-22-avril-1998-ecom9800030a)
