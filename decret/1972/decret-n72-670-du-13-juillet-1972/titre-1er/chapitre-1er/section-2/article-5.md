@@ -12,10 +12,12 @@ Sont considérés comme remplissant les conditions d'aptitude requises par l'art
 
 5° Les anciens avocats à la Cour de cassation et au Conseil d'Etat, les anciens avoués et les anciens agréés ;
 
-6° Les anciens avocats et anciens avocats défenseurs précédemment inscrits au tableau d'un barreau de la métropole, d'un département d'outre-mer, d'un territoire d'outre-mer, d'un territoire d'outre-mer ou d'un Etat lié à la France par un accord de coopération ;
+6° Les anciens avocats et anciens avocats défenseurs précédemment inscrits au tableau d'un barreau de la métropole, d'un département d'outre-mer, d'un territoire d'outre-mer ou d'un Etat lié à la France par un accord de coopération ;
 
 7° Les anciens notaires ;
 
 8° Sous réserve que leur inscription sur la liste d'un tribunal de grande instance ne les constitue pas en infraction avec les dispositions législatives ou réglementaires mettant des limites à leurs activités en raison de leurs anciennes fonctions, les anciens fonctionnaires de catégorie A, licenciés ou docteurs en droit ou titulaires de catégorie A, licenciés ou docteurs en droit ou titulaires d'un des titres ou diplômes mentionnés à l'article 2 et ayant exercé, pendant cinq ans au moins, dans une administration ou un service public, des activités juridiques ou fiscales ;
 
 9° Les titulaires de la licence ou du doctorat en droit ou de l'un des titres ou diplômes mentionnés à l'article 2 ayant accompli huit années au moins d'exercice professionnel dans le service juridique ou fiscal d'une entreprise publique ou privée employant au moins trois juristes.
+
+10° Les anciens syndics et administrateurs judiciaires, les anciens administrateurs judiciaires et mandataires liquidateurs ayant exercé leurs fonctions pendant cinq ans au moins.
