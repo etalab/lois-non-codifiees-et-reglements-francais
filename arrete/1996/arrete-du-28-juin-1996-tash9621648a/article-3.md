@@ -1,0 +1,3 @@
+# Article 3
+
+Les médecins et les pharmaciens recrutés par les établissements publics de santé en application du décret du 6 mai 1995 susvisé cotisent au régime de retraites complémentaires des assurances sociales institué par le décret du 23 novembre 1970 susvisé, sur la totalité de leurs émoluments hospitaliers, y compris les indemnités de garde mais à l'exclusion des indemnités d'astreinte, pour ce qui concerne les personnels recrutés à temps plein, sur les deux tiers de leurs émoluments hospitaliers, y compris les indemnités de garde mais à l'exclusion des indemnités d'astreinte, pour ce qui concerne les personnels recrutés à temps partiel.

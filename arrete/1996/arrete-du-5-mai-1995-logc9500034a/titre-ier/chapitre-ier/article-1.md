@@ -20,6 +20,6 @@ CM : coefficient de majoration dont la valeur maximum ne peut dépasser 0,30 et 
 
 CFG : le coût forfaitaire des garages dont les montants unitaires sont fixés à l'article 5 du présent arrêté. Ces montants unitaires sont actualisés au 1er janvier de chaque année en fonction de la variation de l'indice du coût de la construction.
 
-N = nombre de garages.
+N = nombre de garages pris en compte dans la limite du nombre de logements de l'opération ou dans la limite de la moitié du nombre de logements ou de chambres dans le cas de la réalisation de logements-foyers.
 
 Cette assiette peut être minorée à l'achèvement des travaux si les logements de l'opération ne correspondent pas aux choix de qualité prévus à la date de la décision d'octroi, selon des modalités fixées par arrêté des ministres chargés de la construction et de l'habitation et des finances.

@@ -6,7 +6,7 @@ Les zones mentionnées aux tableaux précédents comprennent :
 
 - zone II. - Le reste de la région d'Ile-de-France ;
 
-- les agglomérations et communautés urbaines de plus de 100 000 habitants et les communes rattachées à un établissement public de coopération intercommunale compétent en matière de programme local de l'habitat regroupant plus de 100 000 habitants au dernier recensement partiel connu ;
+- les agglomérations et communautés urbaines de plus de 100 000 habitants ;
 
 - les zones d'urbanisation et les villes nouvelles hors de la région d'Ile-de-France ;
 
