@@ -38,4 +38,24 @@ Balise J 5   Signalisation des têtes d'îlots directionnels à contourner par l
 
 Balise J 6   Délinéateur. Balisage des limites de chaussées.
 
-Balise J 7   Manche à air. Balise indiquant l'endroit où souffle fréquemment un vent latéral violent ainsi que l'intensité et la direction de   celui-ci.
+Balise J 7   Manche à air. Balise indiquant l'endroit où souffle fréquemment un vent latéral violent ainsi que l'intensité et la direction de celui-ci.
+
+Balise J 10
+
+Balise pour passage à niveau.
+
+La balise J 10 est de couleur blanche et comporte une à trois bandes
+
+rouges obliques.
+
+Balise J 11
+
+Dispositif de renforcement d'un marquage continu permanent.
+
+La balise J 11 est de couleur blanche.
+
+Balise J 12
+
+Dispositif de renforcement d'un marquage permanent en divergent.
+
+La balise J 12 est de couleur verte.

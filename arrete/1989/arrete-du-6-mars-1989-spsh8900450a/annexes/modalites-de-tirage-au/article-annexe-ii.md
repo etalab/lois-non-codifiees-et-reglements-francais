@@ -122,6 +122,28 @@ Par tiers par tirage au sort dans l'urne maladies infectieuses, maladies tropica
 
 Par tiers par tirage au sort dans les urnes bactériologie, virologie, hygiène.
 
+Pour la médecine polyvalente d'urgence :
+
+a) L'urne des praticiens hospitaliers est constituée :
+
+- des praticiens hospitaliers, médecins et chirurgiens exerçant leurs fonctions dans un service d'accueil des urgences, un service d'aide médicale d'urgence ou une antenne d'accueil et d'orientation des urgences ;
+
+- de praticiens hospitaliers en anesthésie-réanimation tirés au sort parmi l'ensemble des praticiens hospitaliers de cette spécialité ;
+
+- de praticiens hospitaliers en médecine interne tirés au sort parmi l'ensemble des praticiens hospitaliers de cette spécialité ;
+
+- de praticiens hospitaliers en réanimation médicale tirés au sort parmi l'ensemble des praticiens hospitaliers de cette spécialité ;
+
+b) L'urne des personnels enseignants et hospitaliers est constituée :
+
+- de personnels enseignants et hospitaliers, médecins et chirurgiens exerçant leurs fonctions hospitalières dans un service d'accueil des urgences, un service d'aide médicale d'urgence ou une antenne d'accueil et d'orientation des urgences ;
+
+- de personnels enseignants et hospitaliers en anesthésie-réanimation tirés au sort parmi l'ensemble des personnels enseignants et hospitaliers de cette spécialité ;
+
+- de personnels enseignants et hospitaliers en médecine interne ou thérapeutique tirés au sort parmi l'ensemble des personnels enseignants et hospitaliers de ces spécialités ;
+
+- de personnels enseignants et hospitaliers en réanimation médicale tirés au sort parmi l'ensemble des personnels enseignants et hospitaliers de cette spécialité.
+
 Le tirage au sort du jury de chirurgie maxillo-faciale est effectué avant celui de stomatologie. Le tirage au sort du jury de biophysique est effectué avant celui du jury de médecine nucléaire.
 
 Le nombre de personnels enseignants et hospitaliers et de praticiens requis pour chaque urne de tirage au sort des membres du jury des spécialités différenciées est égal au minimum à quatre fois le nombre des membres du jury titulaires. Dans le cas où le nombre des personnels enseignants et hospitaliers et des praticiens relevant de la spécialité concernée s'avère insuffisant, l'urne de tirage est complétée en tant que de besoin :

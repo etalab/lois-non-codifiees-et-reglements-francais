@@ -24,13 +24,9 @@ Fanion K 1. - Signalisation d'un obstacle temporaire de faible importance.
 
 Barrage K 2. - Signalisation de position de travaux ou de tout autre obstacle de caractère temporaire.
 
-Dispositif conique K 5 a, piquet K 5 b, balise d'alignement K 5 c. - Signalisation de position des limites d'obstacles temporaires.
+Dispositif conique K 5 a, piquet K 5 b, balise d'alignement K 5 c - Signalisation de position des limites d'obstacles temporaires; balise de guidage K 5 d - Barrière K 8. - Signal de position d'une déviation ou d'un rétrécissement temporaire de chaussée.
 
-Barrière K 8. - Signal de position d'une déviation ou d'un rétrécissement temporaire de chaussée.
-
-Piquet mobile K 10 : " Signal servant                  à régler manuellement la circulation.
-
-Supprimer les lignes : " Feu fixe de signalisation K 13 a et " Feu clignotant de signalisation K 13 b.
+Piquet mobile K 10 : Signal servant à régler manuellement la circulation.
 
 Ruban K 14. - Signal de délimitation de chantier.
 
@@ -60,9 +56,9 @@ Panneau KD 73. Fin de déviation.
 
 Panonceaux KM. - : " Panonceaux associés aux panneaux temporaires de danger AK.
 
-Panonceaux utilisés en signalisation temporaire. Ils sont de même type que les panonceaux complétant les signaux permanents. Comme les
+Panonceaux utilisés en signalisation temporaire. Ils sont de même type que les panonceaux complétant les signaux permanents. Comme les panonceaux de la signalisation permanente, ils ont un fond de la même couleur que le fond du panneau auquel ils sont associés. Ils
 
-panonceaux de la signalisation permanente, ils ont un fond de la même couleur que le fond du panneau auquel ils sont associés. Ils sont désignés par les mêmes chiffres que les panonceaux correspondants de la signalisation permanente.
+sont désignés par les mêmes chiffres que les panonceaux correspondants de la signalisation permanente.
 
 Les panonceaux KM 9 indiquent la nature d'un obstacle temporaire ou d'un chantier.
 

@@ -12,7 +12,7 @@ Un membre du personnel enseignant de l'Ecole nationale de la santé publique, pr
 
 Deux membres du personnel de direction des établissements énumérés à l'article 2 (4°, 5° et 6°) de la loi n° 86-33 du 9 janvier 1986 modifiée désignés par le ministre chargé de l'action sociale ;
 
-Deux représentants des assemblées délibérantes proposés l'un par l'assemblée des présidents de conseils généraux et l'autre par l'Association des maires de France ;
+Un représentant d'assemblée délibérante proposé soit par l'assemblée des présidents de conseils généraux, soit par l'Association des maires de France (1) ;
 
 Un directeur d'un service départemental d'action sociale et de santé désigné par le chef de l'inspection générale des affaires sociales après accord du président du conseil général dont il relève.
 

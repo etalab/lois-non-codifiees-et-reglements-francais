@@ -6,4 +6,6 @@ Pour la pharmacie et pour la psychiatrie, le jury comprend six membres si le nom
 
 Au-delà de trois cents candidats, les tranches supplémentaires évoquées au présent article sont prises en considération par centaines.
 
+Pour la médecine polyvalente d'urgence, le jury comprend un membre de chaque composante des urnes des praticiens hospitaliers et des professeurs des universités - praticiens hospitaliers mentionnées à l'annexe II de l'arrêté du 6 mars 1989 précité.
+
 Le directeur des hôpitaux désigne pour chaque jury un responsable administratif qui peut assister aux délibérations.

@@ -22,65 +22,65 @@ D'une astreinte de sécurité de nuit, de dimanche ou jour férié dans les disc
 
 D'appels exceptionnels. Les disciplines dans lesquelles, les appels sont exceptionnels ne donnent pas lieu à une liste de garde.
 
-2° Indemnisation des participations au service de garde :
+2° Indemnisation des participations au service de garde
 
-A. - Ces participations sont indemnisées sur la base de taux forfaitaires communs à tous les praticiens concernés quelle que soit la catégorie à laquelle ils appartiennent.
+A. - Ces participations sont indemnisées sur la base de taux forfaitaires communs à tous les praticiens concernés, quelle que soit la catégorie à laquelle ils appartiennent.
 
-B. - Ces taux, ainsi que les limites des plafonds qui évoluent en fonction de l'évolution des traitements de la fonction publique, sont fixés ainsi qu'il suit :
+B. - Ces taux ainsi que les limites des plafonds qui évoluent en fonction de l'évolution des traitements de la fonction publique sont fixés ainsi qu'il suit :
 
-Taux à compter du 1er décembre 1994
+Taux à compter du 1er mars 1995
 
-1. Service de garde sur place
+1. Service de garde sur place :
 
-- garde : 1 422 F ;
+Garde : 1 440 F ;
 
-- demi-garde : 711 F ;
+Demi-garde : 720 F ;
 
-- de 18 h 30 à 1 heure du matin : 661 F ;
+- de 18 h 30 à 1 heure du matin : 670 F ;
 
-- de 1 heure du matin à 8 h 30 : 761 F.
+- de 1 heure du matin à 8 h 30 : 770 F.
 
-2. Service de garde par astreinte
+2. Service de garde par astreinte :
 
 Astreinte opérationnelle :
 
-a) Indemnité forfaitaire de base : 220 F ;
+a) Indemnité forfaitaire de base : 222 F ;
 
-a) Par demi-astreinte : 110 F.
+Par demi-astreinte : 111 F ;
 
-b) Indemnité due pour chaque déplacement : 305 F.
+b) Indemnité due pour chaque déplacement : 308 F.
 
 Le montant cumulé des indemnités perçues ne peut excéder :
 
-- au titre d'une demi-astreinte opérationnelle : 711 F ;
+- au titre d'une demi-astreinte opérationnelle : 720 F ;
 
-- au titre d'une astreinte opérationnelle : 1 422 F.
+- au titre d'une astreinte opérationnelle : 1 440 F.
 
 Astreinte de sécurité :
 
-a) Indemnité forfaitaire de base : 142 F.
+a) Indemnité forfaitaire de base : 144 F ;
 
 Le montant cumulé des indemnités forfaitaires de base ne peut excéder :
 
-- pour quatre semaines : 1 136 F ;
+- pour quatre semaines : 1 152 F ;
 
-- pour cinq semaines : 1 420 F.
+- pour cinq semaines : 1 440 F ;
 
-b) Indemnité due pour chaque déplacement : 305 F.
+b) Indemnité due pour chaque déplacement : 308 F.
 
 Les indemnités versées au titre d'une astreinte de sécurité ne peuvent excéder le taux fixé pour une garde.
 
-3. Déplacements exceptionnels
+3. Déplacements exceptionnels :
 
-a) Ils ne donnent lieu à aucune indemnité forfaitaire.
+a) Ils ne donnent lieu à aucune indemnité forfaitaire ;
 
-b) Indemnité due pour chaque déplacement : 305 F.
+b) Indemnité due pour chaque déplacement : 308 F.
 
 4. Pour un même praticien, le montant cumulé des indemnités perçues pour ses participations au service de garde sous forme de permanence à l'hôpital ou d'astreinte à domicile ne peut excéder :
 
-- pour quatre semaines : 14 220 F ;
+- pour quatre semaines : 14 440 F ;
 
-- pour cinq semaines : 17 775 F.
+- pour cinq semaines : 18 000 F.
 
 Les indemnités perçues dans le cadre des interventions hors service normal prévues au deuxième alinéa de l'article 3 de l'arrêté du 15 février 1973 modifié ne sont pas comptées dans ce plafond.
 

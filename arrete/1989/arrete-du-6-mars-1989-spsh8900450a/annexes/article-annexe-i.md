@@ -74,6 +74,8 @@ Codes et libellé de la spécialité :
 
 Médecine polyvalente gériatrique.
 
+Médecine polyvalente d'urgence.
+
 02   Anatomie pathologique et cytologie pathologique.
 
 03   Anesthésiologie-réanimation chirurgicale.
