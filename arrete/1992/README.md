@@ -732,7 +732,6 @@
 - [Arrêté du 21 février 1992 (ENVQ9161338A)](arrete-du-21-fevrier-1992-envq9161338a)
 - [Arrêté du 21 février 1992 (EQUT9200309A)](arrete-du-21-fevrier-1992-equt9200309a)
 - [Arrêté du 21 février 1992 (EQUU9100683A)](arrete-du-21-fevrier-1992-equu9100683a)
-- [Arrêté du 21 février 1992 (PTTR9200112A)](arrete-du-21-fevrier-1992-pttr9200112a)
 - [Arrêté du 21 février 1992 (PTTR9200113A)](arrete-du-21-fevrier-1992-pttr9200113a)
 - [Arrêté du 21 février 1992 (PTTR9200114A)](arrete-du-21-fevrier-1992-pttr9200114a)
 - [Arrêté du 21 février 1992 (SANH9200557A)](arrete-du-21-fevrier-1992-sanh9200557a)
