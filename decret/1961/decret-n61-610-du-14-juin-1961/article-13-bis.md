@@ -1,5 +1,0 @@
-# Article 13 bis
-
-Lorsqu'une société d'aménagement foncier et d'établissement rural prévoit soit la suppression, soit la réduction de superficie d'une exploitation au sens des dispositions de l'article 15 modifié de la loi du 5 août 1960 d'orientation agricole, le commissaire du Gouvernement nommé par le ministre de l'agriculture auprès de cette société saisit, par lettre recommandée avec demande d'avis de réception, le président de la commission départementale des structures, d'une demande d'avis sur les opérations prévues. L'absence d'avis dans un délai de deux mois à compter de la date de réception par son président de la lettre recommandée est réputée comme valant avis favorable.
-
-Les commissaires du Gouvernement auprès de la société d'aménagement foncier et d'établissement rural se prononcent alors sur l'opération prévue soit dans un délai de quinze jours à compter de la date de la notification de l'avis de la commission, soit à compter de l'expiration du délai de deux mois ci-dessus mentionnés.
