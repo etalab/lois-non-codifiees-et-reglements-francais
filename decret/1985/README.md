@@ -197,6 +197,7 @@
 - [Décret n°85-449 du 23 avril 1985](decret-n85-449-du-23-avril-1985)
 - [Décret n°85-454 du 23 avril 1985](decret-n85-454-du-23-avril-1985)
 - [Décret n°85-783 du 23 juillet 1985](decret-n85-783-du-23-juillet-1985)
+- [Décret n°85-906 du 23 août 1985](decret-n85-906-du-23-aout-1985)
 - [Décret n°84-131 du 24 février 1984](decret-n84-131-du-24-fevrier-1984)
 - [Décret n°84-135 du 24 février 1984](decret-n84-135-du-24-fevrier-1984)
 - [Décret n°85-464 du 24 avril 1985](decret-n85-464-du-24-avril-1985)
