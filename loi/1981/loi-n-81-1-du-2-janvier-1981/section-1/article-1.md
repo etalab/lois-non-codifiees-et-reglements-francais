@@ -1,6 +1,8 @@
 # Article 1
 
-Toute opération de crédit consenti par un établissement de crédit à l'un de ses clients pour l'exercice de sa profession peut donner lieu, au profit de cet établissement, à la cession ou au nantissement par ce client d'une ou plusieurs créances par la seule remise d'un bordereau, lorsque ces créances résultent d'actes conclus à titre professionnel avec un autre professionnel ou une personne morale de droit public.
+Tout crédit qu'un établissement de crédit consent à une personne morale de droit privé ou de droit public, ou à une personne physique dans l'exercice par celle-ci de son activité professionnelle, peut donner  lieu, au profit de cet établissement, par la seule remise d'un bordereau, à la cession ou au nantissement par le bénéficiaire du crédit, de toute créance que celui-ci peut détenir sur un tiers, personne morale de droit public ou de droit privé ou personne physique dans l'exercice par celle-ci de son activité professionnelle.
+
+Peuvent être cédées ou données en nantissement les créances liquides et exigibles, même à terme. Peuvent également être cédées ou données en nantissement les créances résultant d'un acte déjà intervenu ou à intervenir mais dont le montant et l'exigibilité ne sont pas encore déterminés.
 
 Le bordereau doit comporter les énonciations suivantes :
 
@@ -10,8 +12,6 @@ Le bordereau doit comporter les énonciations suivantes :
 
 3° Le nom ou la dénomination sociale de l'établissement de crédit bénéficiaire ;
 
-4° La désignation ou l'individualisation des créances cédées ou données en nantissement, notamment par l'indication du débiteur ou des éléments servant à le déterminer, du lieu de paiement, du montant des créances ou de leur évaluation et, s'il y a lieu, de leur échéance ;
+4° La désignation ou l'individualisation des créances cédées ou données en nantissement ou des éléments susceptibles d'effectuer cette désignation ou cette individualisation,  notamment par l'indication du débiteur, du lieu de paiement, du montant des créances ou de leur évaluation et, s'il y a lieu, de leur échéance ;    Toutefois, lorsque la transmission des créances cédées ou données en nantissement est effectuée par un procédé informatique permettant de les identifier, le bordereau peut se borner à indiquer, outre les mentions visées aux 1°,2°, et 3° ci-dessus, le moyen par lequel elles sont transmises, leur nombre, et leur montant global.
 
-5° Le cas échéant, l'indication de toutes les sûretés conventionnelles qui garantissent chaque créance.
-
-Le titre dans lequel une des mentions indiquées ci-dessus fait défaut ne vaut pas comme acte de cession de nantissement de créances professionnelles au sens de la présente loi.
+En cas de contestation portant sur l'existence ou sur la transmission d'une de ces créances, le cessionnaire pourra prouver par tous moyens, que la créance objet de la contestation est comprise dans le montant global porté sur le bordereau.
