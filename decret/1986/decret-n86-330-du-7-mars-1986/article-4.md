@@ -1,6 +1,6 @@
 # Article 4
 
-Les membres du conseil sont nommés par le commissaire de la République pour une période de six ans renouvelable [*durée du mandat*].
+Les membres du conseil sont nommés par le commissaire de la République pour une période de trois ans renouvelable [*durée du mandat*]. La première période prendra fin le 30 juin 1988.
 
 En cas de démission, de décès ou de perte de la qualité au titre de laquelle ils ont été désignés, les membres nommés doivent être remplacés dans les trois mois. Le mandat des nouveaux membres expire à la date à laquelle aurait normalement pris fin celui de leur prédécesseur.
 
