@@ -51,6 +51,7 @@
 - [Décret n°92-453 du 20 mai 1992 (ACVA9210046D)](decret-n92-453-du-20-mai-1992-acva9210046d)
 - [Décret n°89-112 du 21 février 1989 (MAEJ8930009D)](decret-n89-112-du-21-fevrier-1989-maej8930009d)
 - [Décret n°88-889 du 22 août 1988 (TEFT8803687D)](decret-n88-889-du-22-aout-1988-teft8803687d)
+- [Décret n°89-35 du 24 janvier 1989 (MICT8900059D)](decret-n89-35-du-24-janvier-1989-mict8900059d)
 - [Décret n°90-668 du 24 juillet 1990 (AGRA9001250D)](decret-n90-668-du-24-juillet-1990-agra9001250d)
 - [Décret n°89-792 du 26 octobre 1989 (MENK8970096D)](decret-n89-792-du-26-octobre-1989-menk8970096d)
 - [Décret n°90-949 du 26 octobre 1990 (SPSH9002061D)](decret-n90-949-du-26-octobre-1990-spsh9002061d)
