@@ -1,7 +1,11 @@
 # Article 2
 
-Les redevables peuvent commander ces imprimés :
+Les traitements de données nominatives mentionnés à l'article 1er ont pour finalités :
 
-- soit directement en utilisant le code d'accès 36-15 IRSERVICE ;
+- la commande par les particuliers d'imprimés fiscaux pour un envoi à domicile soit par les serveurs télématiques, soit par le serveur Internet ;
 
-- soit en communiquant leur adresse à leur centre des impôts, qui procède à la commande de l'imprimé en utilisant le code d'accès 36-14 UNIMPRIME.
+- l'accès, via le serveur Internet, à l'image de certains imprimés permettant de les remplir et de les éditer sur support papier en vue de leur dépôt auprès du service des impôts compétent ;
+
+- l'accès, via les serveurs télématiques et Internet, à un logiciel de calcul de l'impôt sur le revenu ;
+
+- l'accès, via le serveur Internet, à une messagerie électronique permettant aux utilisateurs de poser des questions de portée générale et à l'administration d'y répondre.

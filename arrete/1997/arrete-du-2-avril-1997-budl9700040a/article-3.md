@@ -7,3 +7,5 @@ Les informations stockées dans le fichier d'adresses permettant l'envoi des imp
 - dénomination pour les personnes morales ;
 
 - adresse d'envoi de la déclaration.
+
+L'adresse électronique (e-mail) des requérants est conservée afin de répondre aux questions posées par courrier électronique.

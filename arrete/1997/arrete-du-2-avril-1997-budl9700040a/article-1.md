@@ -1,3 +1,3 @@
 # Article 1
 
-La direction générale des impôts est autorisée à mettre en service, par l'intermédiaire du service Minitel de la société France Télécom, deux serveurs d'envoi d'imprimés fiscaux à domicile.
+La direction générale des impôts est autorisée à utiliser des serveurs télématiques et le site Internet du ministère de l'économie, des finances et de l'industrie pour faciliter l'accomplissement des formalités administratives des contribuables.

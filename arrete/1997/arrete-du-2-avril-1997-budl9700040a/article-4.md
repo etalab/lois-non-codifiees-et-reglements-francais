@@ -1,3 +1,3 @@
 # Article 4
 
-Les informations sont effacées à l'issue du traitement d'envoi des imprimés.
+Les informations sont effacées à l'issue de l'envoi des imprimés ou des réponses transmises par courrier électronique.
