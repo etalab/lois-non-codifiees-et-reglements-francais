@@ -333,7 +333,6 @@
 - [Arrêté du 17 avril 2001 (EQUS0100618A)](arrete-du-17-avril-2001-equs0100618a)
 - [Arrêté du 17 avril 2001 (EQUS0100619A)](arrete-du-17-avril-2001-equs0100619a)
 - [Arrêté du 17 avril 2001 (MCCH0100242A)](arrete-du-17-avril-2001-mcch0100242a)
-- [Arrêté du 17 décembre 2001 (ECOB0160062A)](arrete-du-17-decembre-2001-ecob0160062a)
 - [Arrêté du 17 décembre 2001 (ECOD0170020A)](arrete-du-17-decembre-2001-ecod0170020a)
 - [Arrêté du 17 décembre 2001 (RECT0100345A)](arrete-du-17-decembre-2001-rect0100345a)
 - [Arrêté du 17 janvier 2001 (ATEN0090479A)](arrete-du-17-janvier-2001-aten0090479a)
