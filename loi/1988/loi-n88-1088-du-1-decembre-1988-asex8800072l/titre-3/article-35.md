@@ -1,0 +1,3 @@
+# Article 35
+
+Il est institué un conseil départemental d'insertion, coprésidé par le représentant de l'Etat dans le département et le président du conseil général ou leur délégué. Les membres du conseil départemental d'insertion sont nommés conjointement par le président du conseil général et le représentant de l'Etat dans le département. Ils comprennent [*composition*] notamment des représentants de la région, du département et des communes, des représentants d'institutions, d'entreprises, d'organismes ou d'associations intervenant dans le domaine économique et social et des membres des commissions locales d'insertion.

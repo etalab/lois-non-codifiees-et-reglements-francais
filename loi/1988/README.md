@@ -26,6 +26,8 @@
 - [Loi n° 88-997 du 21 octobre 1988 (MAEX8700125L)](loi-n-88-997-du-21-octobre-1988-maex8700125l)
 - [Loi n° 88-998 du 21 octobre 1988 (MAEX8700149L)](loi-n-88-998-du-21-octobre-1988-maex8700149l)
 - [Loi n°87-962 du 30 novembre 1987 (JUSX8700168L)](loi-n87-962-du-30-novembre-1987-jusx8700168l)
+- [Loi n°88-1088 du 1 décembre 1988 (ASEX8800072L)](loi-n88-1088-du-1-decembre-1988-asex8800072l)
+- [Loi n°88-1089 du 1 décembre 1988 (DOMX8800018L)](loi-n88-1089-du-1-decembre-1988-domx8800018l)
 - [Loi n°88-20 du 6 janvier 1988 (CLRX8700051L)](loi-n88-20-du-6-janvier-1988-clrx8700051l)
 - [Loi n°88-21 du 6 janvier 1988 (CCLX8700197L)](loi-n88-21-du-6-janvier-1988-cclx8700197l)
 - [Loi n°88-23 du 7 janvier 1988 (JUSX8700196L)](loi-n88-23-du-7-janvier-1988-jusx8700196l)

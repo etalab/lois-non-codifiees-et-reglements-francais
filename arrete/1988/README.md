@@ -6,6 +6,8 @@
 - [Arrêté du 1 août 1988 (SPSS8801098A)](arrete-du-1-aout-1988-spss8801098a)
 - [Arrêté du 1 avril 1988 (BUDF8800003A)](arrete-du-1-avril-1988-budf8800003a)
 - [Arrêté du 1 décembre 1987 (EQUC8701067A)](arrete-du-1-decembre-1987-equc8701067a)
+- [Arrêté du 1 décembre 1988 (AGRB8801943A)](arrete-du-1-decembre-1988-agrb8801943a)
+- [Arrêté du 1 décembre 1988 (BUDB8860083A)](arrete-du-1-decembre-1988-budb8860083a)
 - [Arrêté du 1 juin 1987 (ASET8703409A)](arrete-du-1-juin-1987-aset8703409a)
 - [Arrêté du 1 juin 1988 (ECOT8870015A)](arrete-du-1-juin-1988-ecot8870015a)
 - [Arrêté du 1 mars 1988 (INDA8800137A)](arrete-du-1-mars-1988-inda8800137a)
