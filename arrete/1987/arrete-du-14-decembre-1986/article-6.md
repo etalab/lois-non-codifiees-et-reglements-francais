@@ -1,6 +1,6 @@
 # Article 6
 
-L'établissement hospitalier prend à sa charge [*financière*] :
+L'établissement de santé prend à sa charge :
 
 - les personnels médicaux, paramédicaux et sociaux de l'équipe pluridisciplinaire mentionnée à l'article 11 du décret du 14 mars 1986 susvisé ;
 
@@ -12,4 +12,4 @@ L'établissement hospitalier prend à sa charge [*financière*] :
 
 - les frais de courrier ;
 
-- la mise en place et le fonctionnement d'une ligne téléphonique directe.
+- le fonctionnement d'une ligne téléphonique extérieure directe.

@@ -6,6 +6,4 @@ Le service médico-psychologique régional fournit des prestations diversifiées
 
 - des prises en charge à temps partiel, de jour ou de nuit ;
 
-- des consultations et des interventions ambulatoires ;
-
-- des prises en charge en atelier thérapeutique.
+- des consultations et des interventions ambulatoires.

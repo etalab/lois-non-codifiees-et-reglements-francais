@@ -1,6 +1,6 @@
 # Article 5
 
-L'administration pénitentiaire prend à sa charge [*financière*] :
+L'administration pénitentiaire prend à sa charge :
 
 - la construction, l'aménagement et l'entretien de locaux individualisés et adaptés nécessaires au bon fonctionnement du service médico-psychologique régional ;
 
@@ -8,8 +8,6 @@ L'administration pénitentiaire prend à sa charge [*financière*] :
 
 - l'entretien et l'hygiène des détenus bénéficiant des prestations délivrées par le service ;
 
-- le petit matériel médico-chirurgical ;
+- les installations et le fonctionnement d'une ligne téléphonique interne à l'établissement pénitentiaire ;
 
-- les produits pharmaceutiques nécessaires au fonctionnement du service ;
-
-- la mise en place et le fonctionnement d'une ligne téléphonique interne à l'établissement pénitentiaire.
+- les installations nécessaires à une ligne téléphonique extérieure directe.

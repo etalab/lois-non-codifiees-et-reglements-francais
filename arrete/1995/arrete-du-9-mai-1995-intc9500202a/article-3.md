@@ -1,0 +1,3 @@
+# Article 3
+
+Le nombre de postes offerts pour chaque concours, la date de clôture des inscriptions et les dates et lieux de déroulement des épreuves feront l'objet, de la part des autorités responsables de l'organisation des concours (préfets sous l'autorité desquels sont placés, les secrétariats généraux pour l'administration de la police et dans les départements d'outre-mer, les services administratifs et techniques de la police, représentants de l'Etat en Nouvelle-Calédonie, en Polynésie française, et dans la collectivité départementale de Mayotte et la collectivité territoriale de Saint-Pierre-et-Miquelon), de décisions prises par la voie d'arrêtés .

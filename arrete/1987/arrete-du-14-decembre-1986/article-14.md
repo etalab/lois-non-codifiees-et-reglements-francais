@@ -1,13 +1,5 @@
 # Article 14
 
-Lorsqu'il s'agit d'un détenu déjà écroué dans l'établissement pénitentiaire où est implanté le service, la demande de soins ou la demande d'admission dans le service formulée auprès du psychiatre hospitalier responsable du service peut être faite :
+Lorsqu'il s'agit d'un détenu déjà écroué dans l'établissement pénitentiaire où est implanté le service médico-psychologique régional, la demande de soins est formulée auprès de ce service par l'intéressé lui-même.
 
-- par le détenu lui-même ;
-
-- par le directeur de l'établissement pénitentiaire ;
-
-- par le médecin généraliste de l'établissement ;
-
-- par l'autorité judiciaire compétente ;
-
-- sur le signalement de toute personne connaissant le détenu.
+En outre, une demande d'intervention de ce service peut être sollicitée par le personnel pénitentiaire ou tout autre personne agissant dans l'intérêt du détenu.
