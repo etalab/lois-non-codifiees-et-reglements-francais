@@ -1,0 +1,3 @@
+# Article 11
+
+Tout doit être mis en oeuvre pour assurer que le lieu de travail, les équipements de travail et tout dispositif de raccordement associé mis à la disposition des travailleurs, d'une part, ont été conçus, construits, montés et installés, et, d'autre part, sont entretenus et utilisés de manière à réduire au maximum les risques d'explosion ; si néanmoins une explosion se produit, tout doit être fait pour en maîtriser, ou réduire au maximum, la propagation sur le lieu de travail et dans les équipements de travail. Sur ces lieux de travail, des mesures appropriées sont prises pour réduire au maximum les effets physiques potentiels d'une explosion sur les travailleurs.
