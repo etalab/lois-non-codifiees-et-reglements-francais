@@ -1,0 +1,3 @@
+# Article 17
+
+Le secrétaire général est recruté sur contrat approuvé par le conseil d'administration du centre. Toutefois, sa désignation ne devient définitive qu'après agrément du ministre chargé de la santé. Il seconde le directeur du centre dans l'exercice de ses attributions administratives et peut recevoir, à cet effet, toutes délégations nécessaires, sauf en ce qui concerne l'ordonnancement des dépenses. Il remplit les fonctions d'économe. Si l'importance et les conditions de fonctionnement d'un centre empêchent le secrétaire général de cumuler ses propres fonctions et celles d'économe, un agent est recruté en cette qualité, sur contrat approuvé par le conseil d'administration.

@@ -1,0 +1,7 @@
+# Article 21
+
+Par dérogation aux dispositions des articles 5 et 6 du présent arrêté, le directeur de chaque C.L.C.C. procède à l'intégration, sur l'avis conforme du conseil d'administration après consultation du comité technique, dans la fonction de médecin spécialiste ou dans celle de biologiste de C.L.C.C., des assistants actuellement en fonctions dans les C.L.C.C., nommés dans les conditions de l'arrêté du 4 juillet 1955 et ayant au moins cinq ans d'activité dans les C.L.C.C.. Leur activité est décomptée du jour où, recrutés pour exercer les fonctions d'assistant, ils remplissaient les conditions prévues par les articles 10 et 11 de l'arrêté du 4 juillet 1955.
+
+Par dérogation aux dispositions des articles 7 et 8 du présent arrêté, le directeur de chaque centre procède à l'intégration sur l'avis conforme du conseil d'administration et après consultation du comité technique, dans la fonction de pharmacien de C.L.C.C., des pharmaciens actuellement en poste et ayant au moins cinq ans d'activité dans les C.L.C.C. à compter du jour de leur nomination.
+
+Les médecins actuellement dans les fonctions d'assistant à temps plein ne possédant pas, à la date de publication du présent arrêté, les titres ou diplômes exigés des candidats au concours de médecin spécialiste et de biologiste peuvent prétendre à la fonction de médecin spécialiste ou de biologiste de C.L.C.C. après avoir subi avec succès des épreuves analogues à celles prévues en annexe n° 1 du présent arrêté.

@@ -1,0 +1,3 @@
+# Article 1
+
+Lorsqu'un fonctionnaire n'est plus en mesure d'exercer ses fonctions, de façon temporaire ou permanente, et si les nécessités du service ne permettent pas un aménagement des conditions de travail, l'autorité investie du pouvoir de nomination, après avis du médecin du travail, dans l'hypothèse où l'état du fonctionnaire n'a pas nécessité l'octroi d'un congé de maladie, ou du comité médical, si un tel congé a été accordé, peut affecter ce fonctionnaire dans un poste de travail correspondant à son grade dans lequel les conditions de service sont de nature à permettre à l'intéressé d'assurer ses fonctions.
