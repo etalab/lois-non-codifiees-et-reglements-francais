@@ -1,0 +1,3 @@
+# Article 1
+
+Le producteur de déchets [*obligation*] visés à l'annexe I du présent arrêté, lorsque ces déchets sont produits en quantité supérieure à 0,1 tonne par mois ou lorsque le chargement excède 0,1 tonne, est tenu lors de la remise de ces déchets à un tiers, d'émettre un bordereau de suivi selon le modèle figurant en annexe 2 [*non reproduite*]. Ce bordereau [*contenu*] précise notamment la provenance, les caractéristiques, la destination, les modalités prévues pour les opérations intermédiaires de collecte, de transport et de stockage, et pour l'élimination de ces déchets ainsi que l'identité des entreprises concernées par ces opérations.

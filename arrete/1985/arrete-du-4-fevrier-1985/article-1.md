@@ -1,31 +1,29 @@
 # Article 1
 
-La taxe de stockage à la charge des utilisateurs est perçue à l'importation, pour le compte de l'Office national interprofessionnel des céréales, par la direction générale des impôts :
+Les ratios et autres éléments caractérisant la situation financière et économique des entreprises industrielles, commerciales ou artisanales qui doivent figurer dans les dossiers de gestion mentionnés à l'article 371 E de l'annexe II au code général des impôts sont notamment :
 
-1° Sur le blé tendre, y compris les blés dénaturés, le blé dur, l'orge et le maïs, lors de la levée du titre de mouvement à la recette locale ou auxiliaire des impôts du point d'importation au taux de 3 F par tonne ;
+La marge commerciale, ou pour les entreprises industrielles et artisanales, la production de l'exercice ;
 
-2° Sur les farines, gruaux et semoules de blé tendre et de blé dur, purs ou en mélange, sur déclarations faites à la recette locale ou auxiliaire des impôts du point d'importation au taux forfaitaire de 4,20 F par tonne de farine de blé tendre ou dur, de gruau ou de semoule de blé tendre et de 4,65 F par tonne de gruau ou de semoule de blé dur.
+La valeur ajoutée ;
 
-Le remboursement de la taxe de stockage sera effectué, le cas échéant, à l'exportation des blés tendres, y compris les blés dénaturés, des blés durs, des orges et des maïs et des produits dérivés visés au présent article par la direction générale des impôts sur justification et selon la procédure prévue par cette administration.
+L'excédent brut de l'exploitation ou l'insuffisance brute d'exploitation ;
 
-Le taux du remboursement sera pour le blé tendre, le blé dur, l'orge et le maïs de 3 F par tonne.
+Le résultat d'exploitation ;
 
-Pour les farines, gruaux et semoules de blé tendre et de blé dur, les taux forfaitaires de remboursement sont fixés comme suit :
+Le résultat courant avant impôts ;
 
-1° Farine de blé tendre ou de blé dur ayant une teneur en cendre par 100 grammes exprimée en milligrammes :
+Le résultat exceptionnel ;
 
-Francs par tonne
+Le délai moyen de réalisation des stocks ;
 
-Jusqu'à 520 inclus ------- 4,50
+La durée moyenne du crédit accordé aux clients ;
 
-De 521 à 600 inclus ------ 4,30
+La durée moyenne du crédit obtenu des fournisseurs ;
 
-De 601 à 900 inclus ------ 4,00
+Le ratio de solvabilité à court terme ;
 
-De 901 à 1100 inclus ----- 3,70
+Le tableau de financement de l'entreprise. Ce tableau de financement est établi conformément au modèle annexé au présent arrêté ou reprend l'ensemble des informations contenues dans cette annexe.
 
-De 1101 à 1650 inclus ---- 3,40
+La marge commerciale ou la production de l'exercice, la valeur ajoutée, l'excédant brut d'exploitation ou l'insuffisance brute d'exploitation, le résultat d'exploitation, le résultat courant avant impôts sont exprimés à la fois en valeur absolue et en valeur relative par rapport aux éléments de référence les plus significatifs de l'entreprise.
 
-De 1651 à 1900 inclus ---- 3,10
-
-2° Gruaux et semoules de blé tendre et de blé dur : 4,70 F par tonne.
+Le commentaire visé à l'article 371 E précité de l'annexe II au code général des impôts comporte une analyse des données ci-dessus.
