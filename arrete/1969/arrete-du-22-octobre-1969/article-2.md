@@ -1,3 +1,3 @@
 # Article 2
 
-Le directeur de la construction et le directeur de l'aménagement foncier et de l'urbanisme sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+La construction des conduits de fumée doit satisfaire aux conditions d'étanchéité, de résistance aux températures, de résistance à la corrosion et d'isolation thermique requises pour l'usage auquel ils sont destinés. Ces conditions concernent aussi bien les éléments constitutifs des conduits que la nature et la qualité des joints entre ces éléments.
