@@ -12,4 +12,4 @@ L'encours maximum de ces mêmes prêts ne peut excéder :
 
 - 1,4 million de francs pour les C.U.M.A. de vingt adhérents et plus.
 
-La quotité de ces prêts est de 70 p. 100 au maximum du montant des investissements.
+- La quotité de financement de ces prêts est de 80 p. 100 au maximum du montant des investissements, subventions éventuelles déduites. Dans le cas où l'investissement est destiné à remplacer un matériel de même nature déjà possédé par la C.U.M.A., la quotité de financement du prêt est limitée à 40 p. 100, subventions éventuelles déduites.
