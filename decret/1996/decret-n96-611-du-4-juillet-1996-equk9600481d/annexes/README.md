@@ -1,6 +1,5 @@
 # Annexes
 
-- [Exigences essentielles de sécurité applicables à la conception et à la construction des bateaux de plaisance.](exigences-essentielles-de-securite-applicables-a)
 - [Module A.](module-a)
 - [Vérification à l'unité.](verification-a)
 - [Module A bis.](module-a-bis)
