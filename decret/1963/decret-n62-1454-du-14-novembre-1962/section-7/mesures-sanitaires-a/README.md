@@ -1,0 +1,3 @@
+# MESURES SANITAIRES A PRENDRE EN CAS D'ACCIDENT.
+
+- [Article 56](article-56.md)
