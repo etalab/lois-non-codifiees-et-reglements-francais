@@ -1,6 +1,6 @@
 # Article 1
 
-Le fonds de solidarité créé par la loi du 4 novembre 1982 susvisée est administré par un conseil d'administration qui comprend [*composition*] :
+Le fonds de solidarité créé par la loi du 4 novembre 1982 susvisée est administré par un conseil d'administration qui comprend :
 
 Un conseiller maître à la Cour des comptes, président, désigné par décret ;
 
@@ -16,9 +16,9 @@ Un représentant du ministre délégué auprès du ministre de l'économie et de
 
 Un représentant du ministre de la santé ;
 
-Le directeur général de la Caisse des dépôts et consignations ou son représentant.
+Un représentant du ministre chargé de la fonction publique de l'Etat.
 
-Les membres du conseil d'administration sont nommés pour une durée qui ne peut excéder trois ans [*durée maximum du mandat*].
+Les membres du conseil d'administration sont nommés pour une durée qui ne peut excéder trois ans.
 
 Les représentants des ministres et leurs suppléants font l'objet d'une désignation nominative par arrêté de chacun des ministres intéressés.
 
