@@ -8,4 +8,3 @@
 - [Article 841](article-841.md)
 - [Article 842](article-842.md)
 - [Article 843](article-843.md)
-- [Article 844, 845](article-844-845.md)
