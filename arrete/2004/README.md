@@ -179,6 +179,7 @@
 - [Arrêté du 19 janvier 2004 (MCCB0300943A)](arrete-du-19-janvier-2004-mccb0300943a)
 - [Arrêté du 19 janvier 2004 (SANH0420256A)](arrete-du-19-janvier-2004-sanh0420256a)
 - [Arrêté du 19 novembre 2004 (ECOP0400959A)](arrete-du-19-novembre-2004-ecop0400959a)
+- [Arrêté du 20 février 2004 (ECOS0470002A)](arrete-du-20-fevrier-2004-ecos0470002a)
 - [Arrêté du 20 février 2004 (ECOT0410497A)](arrete-du-20-fevrier-2004-ecot0410497a)
 - [Arrêté du 20 février 2004 (SOCG0420644A)](arrete-du-20-fevrier-2004-socg0420644a)
 - [Arrêté du 20 janvier 2004 (MENF0302653A)](arrete-du-20-janvier-2004-menf0302653a)
