@@ -264,7 +264,6 @@
 - [Arrêté du 11 février 1999 (ECOI9920051A)](arrete-du-11-fevrier-1999-ecoi9920051a)
 - [Arrêté du 11 janvier 1999 (DEFA9901033A)](arrete-du-11-janvier-1999-defa9901033a)
 - [Arrêté du 11 janvier 1999 (ECOC9800191A)](arrete-du-11-janvier-1999-ecoc9800191a)
-- [Arrêté du 11 janvier 1999 (ECOF9900001A)](arrete-du-11-janvier-1999-ecof9900001a)
 - [Arrêté du 11 janvier 1999 (EQUS9801697A)](arrete-du-11-janvier-1999-equs9801697a)
 - [Arrêté du 11 juin 1999 (EQUH9900837A)](arrete-du-11-juin-1999-equh9900837a)
 - [Arrêté du 11 juin 1999 (JUSD9930085A)](arrete-du-11-juin-1999-jusd9930085a)
