@@ -1,3 +1,3 @@
 # Article 2
 
-Le ministre de l'intérieur, le ministre de l'économie, des finances et de l'industrie, le ministre de l'équipement, des transports et du logement, le secrétaire d'Etat à l'outre-mer et la secrétaire d'Etat aux petites et moyennes entreprises, au commerce et à l'artisanat sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.
+A titre transitoire, les mandats des membres du conseil d'administration du Port autonome de la Guadeloupe nommés par décret du 18 avril 1994 expireront à la date de la première réunion du conseil d'administration nouvellement constitué et au plus tard le 31 décembre 1999.
