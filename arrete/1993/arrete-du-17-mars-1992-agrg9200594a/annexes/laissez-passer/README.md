@@ -1,3 +1,4 @@
-# Laissez-passer n° ... : Viandes fraîches de boucherie comprenant des abats spécifiés destinées à un atelier de découpe ou de transformation agréé dans le cadre des dispositions du point c de l'article 32 de l'arrêté du 17 mars 1992.
+# Laissez-passer n° ... : Instestins de bovins, débarrassés de la graisse mésentérique et vidés, destinés à un établissement de traitement industriel en vue de la fabrication de cordages.
 
 - [Article Annexe VIII](article-annexe-viii.md)
+- [Article Annexe IX](article-annexe-ix.md)

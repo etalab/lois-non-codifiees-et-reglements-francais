@@ -1,6 +1,6 @@
 # Annexes
 
-- [Laissez-passer n° ... : Viandes fraîches de boucherie comprenant des abats spécifiés destinées à un atelier de découpe ou de transformation agréé dans le cadre des dispositions du point c de l'article 32 de l'arrêté du 17 mars 1992.](laissez-passer)
+- [Laissez-passer n° ... : Instestins de bovins, débarrassés de la graisse mésentérique et vidés, destinés à un établissement de traitement industriel en vue de la fabrication de cordages.](laissez-passer)
 - [Chapitre Ier : Conditions générales d'autorisation des établissements de faible capacité](chapitre-ier)
 - [Chapitre II : Conditions spéciales d'autorisation des abattoirs de faible capacité.](chapitre-ii)
 - [Article Annexe VII](article-annexe-vii.md)

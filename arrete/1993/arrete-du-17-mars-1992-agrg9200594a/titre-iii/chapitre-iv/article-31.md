@@ -4,7 +4,7 @@ Sont déclarées impropres à la consommation humaine :
 
 a) Les viandes provenant d'animaux :
 
-i) Chez lesquels, sans préjudice des maladies visées à l'annexe II du présent arrêté, l'une des maladies suivantes a été constatée :
+i) Pour lesquels, il est constaté, après leur introduction à l'abattoir, soit qu'ils sont malades au sens de l'arrêté du 9 juin 2000 précité, soit qu'ils sont atteints de l'une des affections suivantes :
 
 - actinobacillose ou actinomycose généralisées ;
 
@@ -30,9 +30,9 @@ i) Chez lesquels, sans préjudice des maladies visées à l'annexe II du présen
 
 - lymphadénite généralisée ;
 
-ii) Qui présentaient des lésions aiguës, avec répercussions générales, de bronchopneumonie, pleurésie, péritonite, métrite, mammite, arthrite, péricardite, entérite ou méningo-encéphalomyélite, confirmées par une inspection détaillée, complétée éventuellement par un examen bactériologique et la recherche de résidus de substances ayant une action pharmacologique ;
+ii) Qui présentaient des lésions aiguës, avec répercussions générales, de broncho-pneumonie, pleurésie, péritonite, métrite, mammite, arthrite, péricardite, entérite ou méningo-encéphalomyélite, confirmées par une inspection détaillée, complétée éventuellement par un examen bactériologique et la recherche de résidus de substances ayant une action pharmacologique.
 
-Toutefois, sans préjudice des conclusions tirées de l'inspection détaillée par le vétérinaire inspecteur, les carcasses peuvent être déclarées propres à la consommation humaine après enlèvement des parties impropres à la consommation, lorsque les résultats des examens complémentaires sont favorables.
+Toutefois, sans préjudice des conclusions tirées de l'inspection détaillée par le vétérinaire inspecteur, les carcasses peuvent être déclarées propres à la consommation humaine après enlèvement des parties impropres à la consommation, lorsque les résultats des examens complémentaires sont favorables ;
 
 iii) Qui étaient atteints des maladies parasitaires suivantes :
 
@@ -44,9 +44,11 @@ v) Qui ont été abattus trop jeunes et dont les viandes sont oedémateuses ;
 
 vi) Qui présentaient de multiples tumeurs, abcès ou blessures graves en différentes parties de la carcasse ou dans différents viscères ;
 
-vii) Qui présentaient de la cachexie ou une anémie prononcée.
+vii) Qui présentaient de la cachexie ou une anémie prononcée ou qui étaient en état de misère physiologique ;
 
-viii) Qui présentaient un syndrome neurologique qu'il n'est pas possible d'attribuer avec certitude à une autre cause qu'une encéphalopathie spongiforme subaiguë transmissible.
+viii) Qui présentaient un syndrome neurologique qu'il n'est pas possible d'attribuer avec certitude à une autre cause qu'une encéphalopathie subaiguë spongiforme transmissible ;
+
+ix) De l'espèce bovine originaires du Portugal.
 
 b) Les viandes des animaux :
 
@@ -102,20 +104,22 @@ o) Les viandes présentant une odeur sexuelle prononcée.
 
 p) i) Les abats spécifiés suivants :
 
-- le crâne, y compris la cervelle et les yeux, et la moelle épinière des bovins âgés de plus de six mois ;
+- le crâne, y compris l'encéphale et les yeux, et la moelle épinière des bovins âgés de plus de douze mois ;
 
-- les amygdales des bovins âgés de plus de douze mois ;
+- la rate des bovins quel que soit leur âge ;
 
-- le crâne, y compris la cervelle et les yeux, les amygdales et la moelle épinière des ovins et caprins âgés de plus de douze mois ou qui présentent une incisive permanente ayant percé la gencive ;
+- le crâne, y compris l'encéphale et les yeux, les amygdales et la moelle épinière des ovins et caprins âgés de plus de douze mois ou qui présentent une incisive permanente ayant percé la gencive ;
 
-- la rate des ovins et caprins quel que soit leur âge ;
+- la rate des ovins et caprins quel que soit leur âge.
 
 ii) Les tissus suivants provenant d'animaux ayant pu être exposés à un risque spécifique de contamination par un agent d'une encéphalopathie spongiforme subaiguë transmissible (ESST) :
 
-- le thymus, la rate et les intestins des bovins pour lesquels il n'est pas possible d'exclure qu'ils aient consommé des aliments du bétail contenant des farines de viande susceptibles de contenir l'agent d'une ESST, c'est-à-dire des bovins d'origine française nés avant le 31 juillet 1991, des bovins d'importation introduits en France avant cette date, ainsi que tous les bovins originaires de Suisse nés avant le 1er décembre 1991 ;
+- le crâne, y compris l'encéphale et les yeux, des ovins et caprins nés ou élevés au Royaume-Uni, quel que soit leur âge ;
 
-- le crâne, y compris la cervelle et les yeux, des ovins et caprins nés ou élevés au Royaume-Uni, quel que soit leur âge ;
+- la tête entière, la moelle épinière ainsi que les viscères thoraciques et abdominaux des ovins et caprins abattus dans le cadre des dispositions de l'arrêté du 28 mars 1997 fixant les mesures de police sanitaire relatives à la tremblante ovine et caprine.
 
-- la tête ainsi que les viscères thoraciques et abdominaux des ovins et caprins abattus dans le cadre des dispositions de l'arrêté du 28 mars 1997 fixant les mesures de police sanitaire relatives à la tremblante ovine et caprine.
+iii) Les abats spécifiés suivants :
 
-Les viandes et tous les sous-produits des animaux retirés de la consommation humaine pour le motif visé au point a, viii), les abats visés au point p du présent article ainsi que les viandes retirées de la consommation du fait de l'état sanitaire de l'animal dont elles proviennent ou du fait de la présence de résidus de substances susceptibles de mettre en danger la santé des personnes ou des animaux sont badigeonnés à l'aide d'une teinture avant leur enlèvement. Ils sont détruits par incinération ou, pour autant que la teinture soit détectable après traitement, traités puis incinérés ou utilisés comme combustible.
+Le thymus, les amygdales et les intestins, y compris la graisse mésentérique, des bovins, quel que soit leur âge.
+
+Les viandes et tous les sous-produits des animaux retirés de la consommation humaine pour le motif visé au point a, viii et ix, les abats visés au point p du présent article ainsi que les viandes retirées de la consommation du fait de l'état sanitaire de l'animal dont elles proviennent ou du fait de la présence de résidus de substances susceptibles de mettre en danger la santé des personnes ou des animaux sont badigeonnés à l'aide d'une teinture avant leur enlèvement. Ils sont détruits par incinération ou, pour autant que la teinture soit détectable après traitement, traités puis incinérés ou utilisés comme combustible.

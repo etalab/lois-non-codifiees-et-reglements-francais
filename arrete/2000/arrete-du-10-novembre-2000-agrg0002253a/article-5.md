@@ -1,0 +1,3 @@
+# Article 5
+
+L'arrêté du 10 juillet 2000 relatif à l'interdiction d'importation de certains tissus de bovins à risques au regard des encéphalopathies spongiformes subaiguës transmissibles, l'arrêté du 18 juin 1998 fixant une condition sanitaire complémentaire pour l'introduction en France de certains tissus de ruminants destinés à la consommation humaine, l'arrêté du 10 septembre 1996 portant dérogation particulière pour l'introduction en France et la mise sur le marché de divers produits originaires de Nouvelle-Zélande et l'arrêté du 10 septembre 1996 portant dérogation particulière pour l'introduction en France et la mise sur le marché de divers produits originaires d'Australie sont abrogés.
