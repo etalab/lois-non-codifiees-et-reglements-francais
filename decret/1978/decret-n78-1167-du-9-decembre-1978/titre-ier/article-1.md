@@ -1,0 +1,5 @@
+# Article 1
+
+Au sens du présent décret, est réputée accessible aux personnes handicapées à mobilité réduite toute installation offrant à ces personnes, notamment à celles qui circulent en fauteuil roulant, la possibilité de pénétrer dans l'installation, d'y circuler, d'en sortir dans les conditions normales de fonctionnement et de bénéficier de toutes les prestations offertes au public en vue desquelles cette installation a été conçue et qui ne sont pas manifestement incompatibles avec la nature même du handicap.
+
+Lorsque des travaux d'adaptation destinés à améliorer l'accessibilité aux personnes handicapées à mobilité réduite d'une installation ouverte au public sont prévus, ils doivent avoir pour effet de mettre cette installation ou une partie utilisable par le public de cette installation en conformité avec les règles techniques définies par le décret n° 78-109 du 1er février 1978 sous réserve des tolérances justifiées par la topographie ou la structure des constructions existantes. Ces tolérances sont déterminées par l'annexe I du présent décret.
