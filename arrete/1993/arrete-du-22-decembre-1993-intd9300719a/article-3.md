@@ -1,0 +1,3 @@
+# Article 3
+
+Le directeur des libertés publiques et des affaires juridiques au ministère de l'intérieur et de l'aménagement du territoire, le directeur de la sécurité et de la circulation routières au ministère de l'équipement, des transports et du tourisme, le préfet de police et les préfets des départements suivants : Aude, Charente-Maritime, Côte-d'Or, Drôme, Gard, Gironde, Hérault, Indre-et-Loire, Isère, Landes, Loir-et-Cher, Loiret, Pyrénées-Atlantiques, Pyrénées-Orientales, Rhône, Saône-et-Loire, Deux-Sèvres, Vaucluse, Vienne, Yonne, Seine-et-Marne, Essonne, Seine-Saint-Denis et Val-de-Marne sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
