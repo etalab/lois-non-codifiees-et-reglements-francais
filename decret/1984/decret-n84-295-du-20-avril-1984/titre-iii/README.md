@@ -1,3 +1,0 @@
-# TITRE III : ALLOCATION DECES VERSEE AU CONJOINT.
-
-- [Article 7](article-7.md)
