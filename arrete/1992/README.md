@@ -806,6 +806,7 @@
 - [Arrêté du 25 novembre 1987 (AGRB8702090A)](arrete-du-25-novembre-1987-agrb8702090a)
 - [Arrêté du 25 novembre 1988 (MENK8870066A)](arrete-du-25-novembre-1988-menk8870066a)
 - [Arrêté du 25 septembre 1992 (DEFP9201934A)](arrete-du-25-septembre-1992-defp9201934a)
+- [Arrêté du 25 septembre 1992 (TEFO9205252A)](arrete-du-25-septembre-1992-tefo9205252a)
 - [Arrêté du 25 mai 1992 (DEFE9201867A)](arrete-du-25-mai-1992-defe9201867a)
 - [Arrêté du 25 mai 1992 (MERG9200095A)](arrete-du-25-mai-1992-merg9200095a)
 - [Arrêté du 26 août 1992 (AGRR9200823A)](arrete-du-26-aout-1992-agrr9200823a)
