@@ -1,9 +1,3 @@
 # Article 1
 
-Les gains journaliers antérieurs au 1er janvier 1986 ayant servi de base au calcul des indemnités journalières prévues à l'article L. 321-1 (4°) du code de la sécurité sociale et correspondant à un arrêt de travail d'une durée supérieure à trois mois sont affectés des coefficients de majoration ci-après à compter du 1er octobre 1986 :
-
-1° Gains journaliers antérieurs au 1er juillet 1985, revalorisés dans les conditions fixées par l'arrêté du 30 décembre 1985 modifié : 1,005 ;
-
-2° Gains journaliers entre le 1er juillet 1985 et le 1er janvier 1986 : 1,005.
-
-Les indemnités journalières ne pourront excéder les maxima prévus à l'article R. 323-9 du code de la sécurité sociale.
+Lorsqu'un personnel militaire ou un personnel civil de nationalité française relevant du ministre chargé des armées perçoit, d'un gouvernement étranger ou d'un organisme situé à l'étranger, une rémunération au titre des activités qui lui ouvrent, par ailleurs, droit au bénéfice des décrets des 28 mars 1967 et 19 avril 1968 susvisés, ses émoluments sont calculés en application de ces décrets et diminués de la totalité de la rémunération ainsi versée par le gouvernement étranger ou l'organisme situé à l'étranger.

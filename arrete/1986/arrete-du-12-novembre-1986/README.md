@@ -1,4 +1,4 @@
-# Arrêté du 12 novembre 1986 portant agrément de l'avenant à l'annexe VIII du 23 juin 1986 au règlement annexé à la convention du 19 novembre 1985 relative à l'assurance chômage
+# Arrêté du 12 novembre 1986 relatif aux méthodes officielles de dosage des vitamines A, D et E dans les aliments pour animaux familiers
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -7,3 +7,4 @@
 - [Article 5](article-5.md)
 - [Article 6](article-6.md)
 - [Article 7](article-7.md)
+- [Annexes](annexes)

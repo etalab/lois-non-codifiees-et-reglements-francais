@@ -1,4 +1,4 @@
-# Arrêté du 25 novembre 1986 portant création au ministère de la coopération d'une commission de l'informatique et de la bureautique
+# Arrêté du 25 novembre 1986 portant suppression de la déclaration préalable prévue pour l'importation de certains engrais potassiques composés et complexes
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

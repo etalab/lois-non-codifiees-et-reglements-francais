@@ -1,3 +1,3 @@
 # Article 1
 
-Pour l'année 1987 le montant annuel du maximum de pension mentionné à l'article D. 721-8 du code de la sécurité sociale est fixé à 17 650 F.
+A titre expérimental, un service de "prélèvement accéléré" est créé permettant aux titulaires de comptes chèques postaux de remettre des prélèvements interbancaires accélérés à porter au débit des comptes bancaires ou comptes de caisse d'épargne ordinaire.

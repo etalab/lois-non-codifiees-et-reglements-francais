@@ -1,5 +1,3 @@
 # Article 1
 
-Les laboratoires chargés de concourir à l'application de la réglementation relative à la répression des fraudes sont tenus d'employer, pour déterminer le rapport :
-
-pourcentage d'acide linoléique / pourcentage de matière grasse libre retenu pour différencier les magrets, des filets de canard, la méthode décrite en annexe du présent arrêté.
+En application des dispositions de l'article 46 du décret du 23 décembre 1985 susvisé, la liste des grands lacs intérieurs et lacs de montagne pour lesquels il peut être établi une réglementation spéciale de la pêche, pouvant porter dérogation aux prescriptions de certains articles du même décret, s'établit conformément à l'annexe jointe au présent arrêté.
