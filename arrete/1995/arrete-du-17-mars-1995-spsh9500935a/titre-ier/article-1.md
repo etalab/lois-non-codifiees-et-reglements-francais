@@ -1,6 +1,6 @@
 # Article 1
 
-Les concours sur épreuves pour l'accès au corps des adjoints techniques hospitaliers prévus par l'article 12 (1°) du décret du 5 septembre 1991 susvisé sont ouverts :
+Les concours internes pour l'accès au corps des techniciens supérieurs hospitaliers prévus par l'article 12 (1°) du décret du 5 septembre 1991 susvisé sont ouverts :
 
 a) Pour le compte de plusieurs établissements d'un même département, par décision du directeur de l'établissement du département comptant le plus grand nombre de lits,
 
@@ -10,4 +10,22 @@ b) Pour le compte d'un seul établissement du département, par décision du dir
 
 c) Pour le compte de plusieurs établissements situés dans des départements différents, par décision du directeur de l'établissement comptant le plus grand nombre de lits.
 
-Dans tous les cas, la décision d'ouverture doit préciser la nature du concours et le nombre de postes mis au concours dans chacune des branches : services techniques généraux ou logistique, services techniques à caractère biomédical ou dessin, et indiquer les établissements où les postes sont à pourvoir ainsi que le centre où se dérouleront les épreuves du concours.
+Dans tous les cas, la décision d'ouverture doit indiquer les établissements où les postes sont à pourvoir et préciser la nature du concours, le nombre de postes ainsi que, le cas échéant, les options mis au(x) concours dans chacune des branches :
+
+- gestion technique, gestion logistique ;
+
+- techniques biomédicales ;
+
+- dessin ;
+
+- hygiène, sécurité et environnement, prévention et gestion des risques ;
+
+- qualité et accréditation ;
+
+- informatique, télécommunications et systèmes d'information ;
+
+- techniques d'organisation ;
+
+- techniques de la communication et des activités artistiques,
+
+et tout autre domaine à caractère technique et scientifique entrant dans les missions des établissements mentionnés à l'article 2 du titre IV du statut général des fonctionnaires.
