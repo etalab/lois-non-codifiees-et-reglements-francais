@@ -1,13 +1,13 @@
 # Article 2
 
-La dotation globale est fixée pour 1997 à 296,62 MF.
+La dotation globale est fixée pour 1998 à 300,47 MF.
 
 Cette dotation est répartie comme suit :
 
-Réunion : 153,15 MF ;
+Réunion : 158,22 MF ;
 
-Guadeloupe : 58,05 MF ;
+Guadeloupe : 55,02 MF ;
 
-Martinique : 69,41 MF ;
+Martinique : 72,89 MF ;
 
-Guyane : 16,01 MF.
+Guyane : 14,33 MF.
