@@ -5,4 +5,3 @@
 - [Article 5](article-5.md)
 - [Article 6](article-6.md)
 - [Article 7](article-7.md)
-- [Instruction technique relative aux règles d'aménagement et d'exploitation des ateliers de traitements de surfaces](instruction-technique-relative-aux)
