@@ -1,6 +1,7 @@
 # 1975
 
 - [Décret du 3 mars 1975](decret-du-3-mars-1975)
+- [Décret n°69-104 du 3 février 1969](decret-n69-104-du-3-fevrier-1969)
 - [Décret n°75-119 du 3 mars 1975](decret-n75-119-du-3-mars-1975)
 - [Décret n°75-142 du 3 mars 1975](decret-n75-142-du-3-mars-1975)
 - [Décret n°76-117 du 3 février 1976](decret-n76-117-du-3-fevrier-1976)
