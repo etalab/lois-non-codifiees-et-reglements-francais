@@ -170,7 +170,6 @@
 - [Décret n°88-77 du 22 janvier 1988 (ASEX8810072D)](decret-n88-77-du-22-janvier-1988-asex8810072d)
 - [Décret n°88-79 du 22 janvier 1988 (AGRG8800118D)](decret-n88-79-du-22-janvier-1988-agrg8800118d)
 - [Décret n°88-80 du 22 janvier 1988 (RESK8800028D)](decret-n88-80-du-22-janvier-1988-resk8800028d)
-- [Décret n°88-272 du 23 mars 1988 (DOMP8800007D)](decret-n88-272-du-23-mars-1988-domp8800007d)
 - [Décret n°87-1112 du 24 décembre 1987 (EQUC8701035D)](decret-n87-1112-du-24-decembre-1987-equc8701035d)
 - [Décret n°87-1113 du 24 décembre 1987 (EQUC8701034D)](decret-n87-1113-du-24-decembre-1987-equc8701034d)
 - [Décret n°87-1116 du 24 décembre 1987 (ASEG8703948D)](decret-n87-1116-du-24-decembre-1987-aseg8703948d)
