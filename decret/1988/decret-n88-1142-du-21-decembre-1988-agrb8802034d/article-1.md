@@ -1,0 +1,5 @@
+# Article 1
+
+Sur les graines oléagineuses et protéagineuses livrées aux intermédiaires agréés, il sera perçu pendant la campagne de commercialisation 1988-1989 les taxes ci-après à la charge des producteurs (en francs par tonne) :
+
+MONTANT DE LA TAXE : COLZA, NAVETTE  Au profit du BAPSA            49,25  Au profit de l'ANDA            7,80  Au profit du CETIOM            7,65 MONTANT TOTAL                  64,70 MONTANT DE LA TAXE : TOURNESOL  Au profit du BAPSA            59,10  Au profit de l'ANDA            9,40  Au profit du CETIOM           10,25 MONTANT TOTAL                  78,75 MONTANT DE LA TAXE : SOJA  Au profit de l'ANDA            4,55  Au profit du CETIOM            8,45 MONTANT TOTAL                  13,00 MONTANT DE LA TAXE : OEILLETTE, RICIN, CARTHAME  Au profit du CETIOM            7,65 MONTANT TOTAL                   7,65 MONTANT DE LA TAXE : POIS  Au profit de l'ANDA            2,50 MONTANT TOTAL                   2,50 MONTANT DE LA TAXE : FEVE, FEVEROLE  Au profit de l'ANDA            2,40 MONTANT TOTAL                   2,40 MONTANT DE LA TAXE : LUPIN DOUX  Au profit de l'ANDA            2,80 MONTANT TOTAL                   2,80
