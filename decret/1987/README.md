@@ -282,6 +282,8 @@
 - [Décret n°87-772 du 23 septembre 1987 (ASEN8700908D)](decret-n87-772-du-23-septembre-1987-asen8700908d)
 - [Décret n°87-773 du 23 septembre 1987 (ASEM8701271D)](decret-n87-773-du-23-septembre-1987-asem8701271d)
 - [Décret n°87-787 du 23 septembre 1987 (MENG8700459D)](decret-n87-787-du-23-septembre-1987-meng8700459d)
+- [Décret n°87-869 du 23 octobre 1987 (MAEJ8730049D)](decret-n87-869-du-23-octobre-1987-maej8730049d)
+- [Décret n°87-870 du 23 octobre 1987 (MAEJ8730050D)](decret-n87-870-du-23-octobre-1987-maej8730050d)
 - [Décret n°87-939 du 23 novembre 1987 (MENF8700703D)](decret-n87-939-du-23-novembre-1987-menf8700703d)
 - [Décret n°87-191 du 24 mars 1987 (EQUU8700226D)](decret-n87-191-du-24-mars-1987-equu8700226d)
 - [Décret n°87-192 du 24 mars 1987 (EQUU8700364D)](decret-n87-192-du-24-mars-1987-equu8700364d)
