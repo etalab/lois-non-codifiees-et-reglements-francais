@@ -114,3 +114,4 @@
 - [Décret n°85-1464 du 30 décembre 1985](decret-n85-1464-du-30-decembre-1985)
 - [Décret n°85-560 du 30 mai 1985](decret-n85-560-du-30-mai-1985)
 - [Décret n°85-565 du 30 mai 1985](decret-n85-565-du-30-mai-1985)
+- [Décret n°85-594 du 31 mai 1985](decret-n85-594-du-31-mai-1985)
