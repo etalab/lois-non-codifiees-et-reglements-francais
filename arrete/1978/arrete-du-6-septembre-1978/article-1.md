@@ -1,13 +1,3 @@
 # Article 1
 
-Les dispositions des articles 15 et 16 du décret susvisé du 31 octobre 1973 sont applicables aux établissements et équipements sportifs et socio-éducatifs ci-après énumérés, lorsque l'Etat en est propriétaire ou lorsque la collectivité locale propriétaire a confié à l'Etat la direction et la responsabilité des travaux de construction ou d'aménagement :
-
-- établissements nationaux de la jeunesse et des sports ;
-
-- centres régionaux d'éducation physique et sportive ;
-
-- instituts régionaux d'éducation physique et sportive ;
-
-- équipements sportifs et socio-éducatifs des collectivités locales ;
-
-- locaux administratifs destinés aux usagers des directions régionales et départementales de la jeunesse et des sports.
+Les fonctionnaires civils et agents des services de l'Etat appelés à suivre des stages de formation ou de perfectionnement reçoivent, lorsque le stage s'effectue hors de la commune de leur résidence administrative (s'il s'agit d'un stage en cours de carrière) ou hors de la commune de leur domicile (s'il s'agit d'un stage en début de carrière), des indemnités de stage dans les conditions précisées aux articles ci-après :

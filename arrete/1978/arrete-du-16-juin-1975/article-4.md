@@ -1,3 +1,11 @@
 # Article 4
 
-La superficie maximum des cumuls visée à l'article 188-1 du Code rural est fixée à trois fois la superficie minimum d'installation, soit 75 hectares, pour l'ensemble du département.
+Les équivalences pour 1 hectare sont fixées ainsi qu'il suit pour les productions particulières suivantes du département :
+
+Dindes de Noël : 150 têtes par an
+
+Oies (production de foies gras) : 60 têtes par an
+
+Canards (production de foies gras) : 120 têtes par an
+
+Les seuils d'application valant abattement à la base sont fixés à l'équivalence pour 1 hectare.

@@ -1,3 +1,7 @@
 # Article 1
 
-La superficie minimum d'installation en polyculture visée à l'article 188-3 du Code rural est fixée à 25 hectares pour l'ensemble du département du Bas-Rhin.
+Les superficies minima d'installation en polyculture visées à l'article 188-3 du Code rural sont fixées ainsi qu'il suit pour le département de la Dordogne (en hectares) :
+
+Nontronnais : 17
+
+Reste du département : 20

@@ -1,25 +1,95 @@
 # Article 3
 
-Pendant la période de construction, de transformation ou d'aménagement et jusqu'à la date définie au dernier alinéa du présent article, l'application des dispositions destinées à garantir la sécurité contre les risques d'incendie et de panique est assurée sous le contrôle soit :
+Les indemnités journalières de stage sont versées dans les conditions suivantes et en retenant la notion d'agents mariés prévue à l'article 5 modifié du décret n° 66-619 du 10 août 1966 susvisé :
 
-- du directeur départemental de l'équipement lorsqu'il fait application des dispositions du protocole du 26 juin 1959 modifié susvisé ;
+Premier cas.
 
-- du chef de service constructeur des académies de la région d'Ile-de-France dans le cadre de sa compétence territoriale ;
+Stagiaires logés gratuitement par l'Etat et ayant la possibilité de prendre leurs repas dans une cantine ou un restaurant placé sous le contrôle de l'Etat.
 
-- du recteur pour les instituts régionaux d'éducation physique et sportive et les locaux administratifs destinés aux usagers des directions régionales et départementales de la jeunesse et des sports implantés dans un rectorat.
+Qualité : Agents mariés
 
-Ce contrôle consiste à :
+Pendant les huit premiers jours : 2 taux de base
 
-- saisir la commission de sécurité compétente et lui soumettre le projet ainsi que toute modification décidée par le maître d'ouvrage ;
+Du neuvième jour à la fin du sixième mois : 1 taux de base
 
-- arrêter les prescriptions de sécurité après avis de la commission de sécurité ;
+A partir du septième mois jusqu'à la fin de la deuxième année de stage : 1 demi-taux de base
 
-- notifier ces prescriptions au maître d'œuvre et à tous services ou personnes concernés ;
+Qualité : Célibataires
 
-- en cours d'exécution des travaux, veiller à ce que le maître d'œuvre fasse procéder aux vérifications techniques nécessaires par les organismes agréés à cet effet ;
+Pendant les huit premiers jours : 1 taux de base
 
-- avant la réception des travaux, faire procéder par la commission de sécurité à une visite de contrôle, destinée à constater leur conformité avec les prescriptions préalablement arrêtées ;
+Du neuvième jour à la fin du sixième mois : Néant
 
-- après la visite de réception par la commission de sécurité et compte tenu de l'avis de celle-ci, prendre la décision d'ouverture ou faire toute proposition utile aux autorités chargées de décider de l'ouverture éventuelle de l'établissement.
+A partir du septième mois jusqu'à la fin de la deuxième année de stage : Néant
 
-La période de construction, de transformation ou d'aménagement prend fin, soit à l'ouverture de l'établissement, soit au plus tard trois mois après l'envoi par le fonctionnaire désigné ci-dessus de ses propositions à l'autorité chargée de prononcer l'ouverture, si la commission de sécurité a constaté la conformité des travaux avec les prescriptions de sécurité arrêtées.
+Les indemnités prévues ci-dessus ne sont pas susceptibles d'être allouées aux personnels nourris gratuitement par l'Etat à l'un des deux principaux repas.
+
+Deuxième cas.
+
+Stagiaires non logés gratuitement par l'Etat mais ayant la possibilité de prendre leurs repas dans une cantine ou un restaurant placé sous le contrôle de l'Etat.
+
+Qualité : Agents mariés
+
+Pendant le premier mois : 3 taux de base
+
+A partir du deuxième mois jusqu'à la fin du sixième mois : 2 taux de base
+
+A partir du septième mois jusqu'à la fin de la deuxième année de stage : 1 taux de base
+
+Qualité : Célibataires
+
+Pendant le premier mois : 2 taux de base
+
+A partir du deuxième mois jusqu'à la fin du sixième mois : 1 taux de base
+
+A partir du septième mois jusqu'à la fin de la deuxième année de stage : Néant
+
+Les indemnités prévues ci-dessus sont réduites de moitié pour les personnels nourris gratuitement par l'Etat au moins à l'un des deux principaux repas.
+
+Troisième cas.
+
+Stagiaires logés gratuitement par l'Etat mais n'ayant pas la possibilité de prendre leurs repas dans une cantine ou un restaurant placé sous le contrôle de l'Etat.
+
+Qualité : Agents mariés
+
+Pendant les huit premiers jours : 3 taux de base
+
+Du neuvième jour à la fin du troisième mois : 2 taux de base
+
+A partir du quatrième mois jusqu'à la fin du sixième mois : 1 taux de base
+
+A partir du septième mois et jusqu'à la fin de la deuxième année de stage : 1 demi-taux de base
+
+Qualité : Célibataires
+
+Pendant les huit premiers jours : 2 taux de base
+
+Du neuvième jour à la fin du troisième mois : 1 taux de base
+
+A partir du quatrième mois jusqu'à la fin du sixième mois : 1 demi-taux de base
+
+A partir du septième mois et jusqu'à la fin de la deuxième année de stage : Néant
+
+Quatrième cas.
+
+Stagiaires non logés gratuitement par l'Etat et n'ayant pas la possibilité de prendre leurs repas dans une cantine ou un restaurant placé sous le contrôle de l'Etat.
+
+Qualité : Agents mariés
+
+Pendant le premier mois : 4 taux de base
+
+Du neuvième jour à la fin du troisième mois : 3 taux de base
+
+A partir du quatrième mois jusqu'à la fin du sixième mois : 2 taux de base
+
+A partir du septième mois et jusqu'à la fin de la deuxième année de stage : 1 taux de base
+
+Qualité : Célibataires
+
+Pendant le premier mois : 3 taux de base
+
+Du neuvième jour à la fin du troisième mois : 2 taux de base
+
+A partir du quatrième mois jusqu'à la fin du sixième mois : 1 taux de base
+
+A partir du septième mois et jusqu'à la fin de la deuxième année de stage : Néant
