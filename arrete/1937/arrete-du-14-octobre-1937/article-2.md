@@ -1,30 +1,30 @@
 # Article 2
 
-Les analyses des eaux minérales naturelles sont effectuées par les laboratoires publics agréés auxquels les sources appartenant aux différents arrondissements minéralogiques sont rattachées par région, conformément au tableau ci-après :
+Les analyses des eaux minérales naturelles sont effectuées par les laboratoires publics agréés auxquels les sources appartenant aux différents départements sont rattachées, conformément au tableau ci-après :
 
-Arrondissement minéralogique de Douai (Nord), et arrondissement minéralogique de Béthune (Pas-de-Calais, Somme). - Institut Pasteur de Lille.
+Départements du Nord, du Pas-de-Calais, de la Somme : institut Pasteur de Lille.
 
-Arrondissements minéralogiques de Paris (Seine) et Paris-2e (Seine-Inférieure, Seine-et-Marne, Seine-et-Oise, Oise, Aube, Calvados, Eure, Eure-et-Loir, Loiret, Yonne, Manche, Orne, Loir-et-Cher) et arrondissement minéralogique de Nantes (Finistère, Côtes-du-Nord, Ille-et-Vilaine, Mayenne, Sarthe, Morbihan, Loire-inférieure, Maine-et-Loire, Vendée, Deux-Sèvres). - Laboratoire de contrôle des eaux d'alimentation de la ville de Paris ou laboratoire d'hydrologie à l'institut national agronomique.
+Départements de la Seine, de la Seine-Inférieure, de Seine-et-Marne, de Seine-et-Oise, de l'Oise, de l'Aisne, de l'Aube, du Calvados, de l'Eure, de l'Eure-et-Loir, du Loiret, de l'Yonne, de la Manche, de l'Orne, de Loir-et-Cher, du Finistère, des Côtes-du-Nord, d'Ille-et-Vilaine, de la Mayenne de la Sarthe, du Morbihan, de la Loire-Inférieure, de Maine-et-Loire, de la Vendée, des Deux-Sèvres : laboratoire de contrôle des eaux d'alimentation de la ville de Paris ou laboratoire d'hydrologie à l'institut national agronomique.
 
-Arrondissement minéralogique de Nancy (Ardennes, Meuse, Meurthe-et-Moselle, Vosges, Marne, Haute-Marne, Haute-Saône). - Institut d'hygiène et de bactériologie rattaché à la faculté de médecine de Nancy.
+Départements des Ardennes, de la Meuse, de Meurthe-et-Moselle, des Vosges, da la Marne, de la Haute-Marne, de la Haute-Saône : institut d'hygiène et de bactériologie rattaché à la faculté de médecine de Nancy.
 
-Arrondissement minéralogique de Strasbourg (Haut-Rhin, Bas-Rhin, Moselle). - Institut d'hygiène de Strasbourg.
+Départements du Haut-Rhin, du Bas-Rhin, de la Moselle : institut d'hygiène de Strasbourg.
 
-Arrondissement minéralogique de Lyon (Côte-d'Or, Jura, Saône-et-Loire, Ain, Doubs, Rhône, Haute-Savoie, Savoie, Isère). - Institut de bactériologie et d'hygiène de Bourgogne et de Franche-Comté à Dijon ou Institut bactériologique de Lyon.
+Départements de la Côte-d'Or, du Jura, de Saône-et-Loire, de l'Ain, du Doubs, du Rhône, de la Haute-Savoie, de la Savoie, de l'Isère : institut de bactériologie et d'hygiène de Bourgogne et de Franche-Comté, à Dijon, ou institut bactériologique de Lyon.
 
-Arrondissement minéralogique de Saint-Etienne (Loire). - Institut bactériologique de Lyon.
+Département de la Loire : institut bactériologique de Lyon.
 
-Arrondissement minéralogique de Clermont-Ferrand (Cher, Nièvre, Allier, Puy-de-Dôme, Cantal, Haute-Loire) et arrondissement minéralogique de Bordeaux (Indre, Indre-et-Loire, Vienne, Creuse, Haute-Vienne, Charente, Charente-Inférieure, Corrèze, Dordogne, Gironde, Lot-et-Garonne, Landes, Basses-Pyrénées). - Institut d'hydrologie de Clermont-Ferrand ou laboratoire de chimie et de bactériologie de la faculté de Bordeaux.
+Départements du Cher, de la Nièvre, de l'Allier, du Puy-de-Dôme, du Cantal, de la Haute-Loire, de l'Indre, d'Indre-et-Loire, de la Vienne, de la Creuse, de la Haute-Vienne, de la Charente, de la Charente-Maritime, de la Corrèze, de la Dordogne, de la Gironde, de Lot-et-Garonne, des Landes, des Basses-Pyrénées : institut d'hydrologie de Clermont-Ferrand ou laboratoire de chimie et de bactériologie de la faculté de Bordeaux.
 
-Arrondissement minéralogique de Toulouse (Lot, Aveyron, Tarn, Tarn-et-Garonne, Gers, Haute-Garonne, Ariège, Hautes-Pyrénées). - Institut d'hydrologie de Toulouse.
+Départements du Lot, de l'Aveyron, du Tarn, de Tarn-et-Garonne, de la Haute-Garonne, du Gers, de l'Ariège, des Hautes-Pyrénées : institut d'hydrologie de Toulouse.
 
-Arrondissement minéralogique d'Alès (Ardèche, Lozère, Gard, Hérault, Aude, Pyrénées-Orientales). - Institut Bouisson-Bertrand à Montpellier.
+Départements de l'Ardèche, de la Lozère, du Gard, de l'Hérault, de l'Aude, des Pyrénées-Orientales : institut Bouisson-Bertrand, à Montpellier.
 
-Arrondissement minéralogique de Marseille (Drôme, Hautes-Alpes, Basses-Alpes, Alpes-Maritimes, Vaucluse, Bouches-du-Rhône, Var). - Laboratoire départemental de bactériologie de Marseille.
+Départements de la Drôme, des Hautes-Alpes, des Basses-Alpes, des Alpes-Maritimes, de Vaucluse, des Bouches-du-Rhône, du Var : laboratoire départemental de bactériologie de Marseille.
 
-Corse. - Laboratoire départemental d'Ajaccio ou laboratoire départemental de bactériologie de Marseille.
+Département de la Corse : laboratoire départemental d'Ajaccio ou laboratoire départemental de bactériologie de Marseille.
 
-Les exploitants ne peuvent pas confier leurs analyses à un autre laboratoire que celui de leur région. Quand il en existe plusieurs dans la même région, l'exploitant a le choix entre ceux-ci, mais ce choix est définitif.
+Toutefois, pour la commodité du contrôle des sources, il est possible aux exploitants de confier leurs analyses au laboratoire public agréé de leur choix à condition que ce choix soit définitif.
 
 Le laboratoire agréé tient un registre spécial des analyses d'eaux minérales, coté et paraphé par un fonctionnaire désigné par le préfet du département où il se trouve.
 
