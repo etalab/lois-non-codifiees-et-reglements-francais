@@ -6,8 +6,6 @@ Peuvent se présenter à cette sélection les surveillants titulaires depuis au 
 
 Les fonctions de moniteur de sport sont ouvertes aux candidats répondant aux conditions suivantes :
 
-être âgé de moins de trente-deux ans au 31 décembre de l'année de la sélection ;
-
 être déclaré apte à la pratique des activités physiques et sportives par certificat médical ;
 
 être titulaire de l'attestation de formation aux premiers secours ou de tout diplôme admis en équivalence par le ministère de la jeunesse et des sports et de la ceinture jaune d'atémi jiu-jitsu ou de toute attestation admise en équivalence par le ministère de la justice.
