@@ -1,0 +1,5 @@
+# Article 7
+
+Peuvent également être nommés au choix dans le corps des attachés économiques, dans la limite du sixième des nominations effectuées par concours et par détachement, les fonctionnaires du ministère de l'économie et des finances appartenant à un corps classé dans la catégorie B, inscrits sur une liste d'aptitude et après avis de la commission administrative paritaire du corps d'accueil. Les intéressés doivent être âgés de quarante ans au moins au 1er janvier de l'année de la nomination et compter, à la même date, neuf années de services publics, dont six au moins de services effectifs au sein des services à l'étranger du ministère de l'économie, des finances et de l'industrie, dans deux affectations différentes.
+
+Lorsque l'application des dispositions du premier alinéa du présent article ne permet aucune nomination, des nominations peuvent cependant intervenir dans la limite d'un sixième de 3,5 % de l'effectif total du corps des attachés économiques apprécié au 1er janvier de l'année au titre de laquelle sont prononcés les nominations.

@@ -1,0 +1,5 @@
+# Article 2
+
+Les attachés économiques participent à la réalisation des missions dévolues au service à l'étranger du ministère de l'économie, des finances et de l'industrie, dans l'exercice de fonctions d'expertise et d'encadrement. Ils peuvent également, en tant que de besoin, se voir confier au sein de ce service des fonctions mentionnées aux articles 2 et 3 du décret n° 2002-772 du 3 mai 2002 relatif à l'organisation des services à l'étranger du ministère de l'économie, des finances et de l'industrie. Ils peuvent être affectés à l'administration centrale ou dans les services déconcentrés du ministère de l'économie, des finances et de l'industrie.
+
+Lorsqu'ils exercent leurs activités dans le cadre d'une mission économique ou d'une représentation permanente auprès d'une organisation internationale conduite par un ambassadeur, ils sont soumis aux dispositions du décret n° 79-433 du 1er juin 1979 relatif aux pouvoirs des ambassadeurs et à l'organisation des services de l'Etat à l'étranger.
