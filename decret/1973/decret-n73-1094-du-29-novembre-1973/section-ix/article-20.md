@@ -4,11 +4,11 @@ Sous réserve des dispositions des articles L. 809 (6e et 7e alinéas) et L. 811
 
 Pendant la durée du stage, les intéressés sont classés au 1er échelon de leur emploi.
 
-Toutefois les candidats aux emplois visés à l'article 1er du présent décret qui avaient antérieurement la qualité de fonctionnaire titulaire de l'Etat ou d'agent titulaire des collectivités locales sont classés à l'échelon de leur nouvel emploi qui comporte un traitement égal ou à défaut immédiatement supérieur au traitement perçu en dernier lieu dans leur emploi d'origine.
+Toutefois, les candidats aux emplois visés à l'article 1er du présent décret, qui avaient antérieurement la qualité de fonctionnaire titulaire de l'Etat ou d'agent titulaire des collectivités locales sont classés à l'échelon de leur nouvel emploi qui comporte un indice égal ou à défaut immédiatement supérieur à l'indice qu'ils détenaient en dernier lieu dans leur emploi d'origine.
 
-Dans la limite de l'ancienneté moyenne exigée pour une promotion à l'échelon supérieur, ils conservent l'ancienneté d'échelon qu'ils avaient acquise dans leur précédent emploi lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle que leur aurait procurée un avancement d'échelon dans leur ancienne situation.
+Lorsque ce mode de classement n'apporte pas aux intéressés un gain indiciaire au moins égal à celui qui aurait résulté d'un avancement d'échelon dans l'ancien emploi, l'ancienneté acquise dans l'échelon précédemment occupé est reprise en compte dans le nouvel emploi dans la limite de la durée moyenne d'ancienneté exigée pour l'accès à l'échelon supérieur de leur nouvel emploi.
 
-Les candidats nommés alors qu'ils avaient atteint l'échelon le plus élevé de leur précédent emploi conservent leur ancienneté d'échelon dans les mêmes conditions et dans les mêmes limites lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle que leur avait procurée leur nomination audit échelon.
+Les agents nommés alors qu'ils avaient atteint l'échelon le plus élevé de leur précédent emploi conservent leur ancienneté d'échelon dans les mêmes conditions et dans les mêmes limites lorsque le gain indiciaire consécutif à leur nomination est inférieur à celui que leur avait procuré leur nomination audit échelon.
 
 En cas d'interruption de carrière, les dispositions visées aux troisième, quatrième et cinquième alinéas ci-dessus sont applicables aux fonctionnaires et agents ayant cessé leurs précédentes fonctions pour un motif autre que la révocation ou le licenciement pour insuffisance professionnelle.
 
