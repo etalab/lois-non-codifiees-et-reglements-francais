@@ -21,7 +21,6 @@
 - [Décret n°99-268 du 1 avril 1999 (EQUT9900074D)](decret-n99-268-du-1-avril-1999-equt9900074d)
 - [Décret n°99-456 du 1 juin 1999 (EQUH9900630D)](decret-n99-456-du-1-juin-1999-equh9900630d)
 - [Décret n°99-457 du 1 juin 1999 (ATEP9970017D)](decret-n99-457-du-1-juin-1999-atep9970017d)
-- [Décret n°99-546 du 1 juillet 1999 (MESX9900074D)](decret-n99-546-du-1-juillet-1999-mesx9900074d)
 - [Décret n°99-547 du 1 juillet 1999 (DEFX9900067D)](decret-n99-547-du-1-juillet-1999-defx9900067d)
 - [Décret n°99-548 du 1 juillet 1999 (EQUU9900805D)](decret-n99-548-du-1-juillet-1999-equu9900805d)
 - [Décret n°99-550 du 1 juillet 1999 (MESS9921863D)](decret-n99-550-du-1-juillet-1999-mess9921863d)
