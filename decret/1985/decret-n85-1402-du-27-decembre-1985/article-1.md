@@ -1,7 +1,7 @@
 # Article 1
 
-Un centre d'éducation populaire et de sport est créé à Chalain (Jura). Il comprend :
+Un centre d'éducation populaire et de sport de Franche-Comté est créé à Chalain (Jura). Il comprend :
 
-- le Centre national des sports de plein air de Chalain ;
+- le Centre national des sports de plein air, installé à Chalain, commune de Doucier (Jura) ;
 
-- le centre de formation aux métiers des sports et de l'ani­mation de Besançon.
+- le Centre national de ski nordique, installé à Prémanon (Jura).
