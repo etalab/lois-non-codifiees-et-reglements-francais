@@ -964,7 +964,6 @@
 - [Arrêté du 25 octobre 1994 (SPSH9403343A)](arrete-du-25-octobre-1994-spsh9403343a)
 - [Arrêté du 25 mai 1994 (JUSC9420506A)](arrete-du-25-mai-1994-jusc9420506a)
 - [Arrêté du 25 mai 1994 (MAEF9410023A)](arrete-du-25-mai-1994-maef9410023a)
-- [Arrêté du 26 août 1994 (AGRG9401681A)](arrete-du-26-aout-1994-agrg9401681a)
 - [Arrêté du 26 août 1994 (BUDD9470007A)](arrete-du-26-aout-1994-budd9470007a)
 - [Arrêté du 26 août 1994 (ECOT9426124A)](arrete-du-26-aout-1994-ecot9426124a)
 - [Arrêté du 26 août 1994 (INDD9400856A)](arrete-du-26-aout-1994-indd9400856a)

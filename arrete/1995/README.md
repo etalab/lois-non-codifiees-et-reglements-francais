@@ -1004,7 +1004,6 @@
 - [Arrêté du 23 février 1995 (SPSG9500651A)](arrete-du-23-fevrier-1995-spsg9500651a)
 - [Arrêté du 23 janvier 1995 (DEFD9501082A)](arrete-du-23-janvier-1995-defd9501082a)
 - [Arrêté du 23 janvier 1995 (ECOC9400200A)](arrete-du-23-janvier-1995-ecoc9400200a)
-- [Arrêté du 23 janvier 1995 (INDG9500061A)](arrete-du-23-janvier-1995-indg9500061a)
 - [Arrêté du 23 janvier 1995 (MJSK9570011A)](arrete-du-23-janvier-1995-mjsk9570011a)
 - [Arrêté du 23 janvier 1995 (SPSA9500345A)](arrete-du-23-janvier-1995-spsa9500345a)
 - [Arrêté du 23 janvier 1996 (MENU9502048A)](arrete-du-23-janvier-1996-menu9502048a)
