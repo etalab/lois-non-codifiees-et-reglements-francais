@@ -1,0 +1,5 @@
+# Article Annexe article 21
+
+Pour le service des prestations ne faisant pas l'objet de facturations individuelles de la part d'établissements et services qui, par ailleurs, bénéficient, en application de la réglementation, d'un financement global de la part de la caisse, l'organisme a la responsabilité de contrôler que les conditions d'ouverture du droit aux prestations des bénéficiaires à la date des soins sont remplies et de valider les informations en provenance de ces établissements et services dans les conditions définies par la caisse nationale.
+
+Au cas où l'organisme constate que les conditions d'ouverture du droit aux prestations ne sont pas remplies ou des erreurs dans l'exploitation des informations qui lui sont transmises, il en avise immédiatement la caisse et la tient régulièrement informée de la suite réservée aux demandes de régularisation que l'organisme est tenu de faire auprès des établissements ou services concernés dans les conditions définies par la caisse nationale.

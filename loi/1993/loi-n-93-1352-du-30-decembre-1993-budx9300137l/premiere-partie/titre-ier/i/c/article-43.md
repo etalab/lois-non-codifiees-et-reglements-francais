@@ -1,0 +1,3 @@
+# Article 43
+
+Le produit des droits prévus aux articles 402  bis, 403, 406 A, 438 et 520 A du code général des impôts perçu à compter du 1er janvier 1994 est affecté au fonds de solidarité vieillesse visé à l'article L. 135-1 du code de la sécurité sociale, institué à l'article 1er de la loi n° 93-936 du 22 juillet 1993 relative aux pensions de retraite et à la sauvegarde de la protection sociale, à l'exception du produit du droit de consommation prévu par l'article 403 du même code perçu dans les départements de la Corse et du prélèvement effectué au profit du budget annexe des prestations sociales agricoles selon les dispositions de l'article 1615 bis du code général des impôts.

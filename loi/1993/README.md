@@ -12,6 +12,8 @@
 - [Loi n° 93-1283 du 6 décembre 1993 (EQUX9300102L)](loi-n-93-1283-du-6-decembre-1993-equx9300102l)
 - [Loi n° 93-1304 du 15 décembre 1993 (MAEX9300108L)](loi-n-93-1304-du-15-decembre-1993-maex9300108l)
 - [Loi n° 93-1313 quinquennale du 20 décembre 1993 (TEFX9300125L)](loi-n-93-1313-quinquennale-du-20-decembre-1993-tefx9300125l)
+- [Loi n° 93-1352 du 30 décembre 1993 (BUDX9300137L)](loi-n-93-1352-du-30-decembre-1993-budx9300137l)
+- [Loi n° 93-1353 du 30 décembre 1993 (BUDX9300185L)](loi-n-93-1353-du-30-decembre-1993-budx9300185l)
 - [Loi n° 93-2 du 4 janvier 1993 (JUSX9200023L)](loi-n-93-2-du-4-janvier-1993-jusx9200023l)
 - [Loi n° 93-859 du 22 juin 1993 (BUDX9300070L)](loi-n-93-859-du-22-juin-1993-budx9300070l)
 - [Loi n° 93-893 du 6 juillet 1993 (JUSX9300071L)](loi-n-93-893-du-6-juillet-1993-jusx9300071l)
