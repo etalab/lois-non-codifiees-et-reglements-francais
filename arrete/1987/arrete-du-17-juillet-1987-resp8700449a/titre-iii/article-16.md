@@ -2,6 +2,8 @@
 
 Pour être admis à poursuivre des études pharmaceutiques au-delà de la première année, les candidats doivent être inscrits en rang utile sur la liste de classement établie par l'université habilitée à dispenser des formations pharmaceutiques concernée, à l'issue des épreuves prévues par l'article 14 de la loi 84-52 du 26 janvier 1984 susvisée.
 
+Le classement des candidats est obtenu par l'addition des notes obtenues à chacun des six modules enseignés en première année. Le coefficient des épreuves portant sur le module comportant un enseignement de culture générale ne doit pas être inférieur au dixième de la somme des coefficients.
+
 Ces épreuves sont organisées uniquement sous forme d'épreuves terminales et anonymes.
 
 Un arrêté conjoint du ministre chargé de l'éducation nationale et du ministre chargé de la santé détermine, chaque année, le nombre de candidats à admettre en deuxième année d'études dans chaque université habilitée à dispenser des formations pharmaceutiques.

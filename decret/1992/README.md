@@ -347,6 +347,7 @@
 - [Décret n°93-355 du 9 mars 1993 (FPPA9200048D)](decret-n93-355-du-9-mars-1993-fppa9200048d)
 - [Décret n°88-699 du 9 mai 1988 (MCCB8800299D)](decret-n88-699-du-9-mai-1988-mccb8800299d)
 - [Décret du 10 janvier 1992 (ACVP9120015D)](decret-du-10-janvier-1992-acvp9120015d)
+- [Décret n°92-1199 du 10 novembre 1992 (ENEG9200832D)](decret-n92-1199-du-10-novembre-1992-eneg9200832d)
 - [Décret n°92-223 du 10 mars 1992 (MAEJ9230005D)](decret-n92-223-du-10-mars-1992-maej9230005d)
 - [Décret n°92-224 du 10 mars 1992 (JUSB9210067D)](decret-n92-224-du-10-mars-1992-jusb9210067d)
 - [Décret n°92-227 du 10 mars 1992 (PTTS9200036D)](decret-n92-227-du-10-mars-1992-ptts9200036d)
