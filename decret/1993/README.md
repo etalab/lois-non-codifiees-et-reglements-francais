@@ -11,6 +11,7 @@
 - [Décret n°93-13 du 4 janvier 1993 (BUDF9200036D)](decret-n93-13-du-4-janvier-1993-budf9200036d)
 - [Décret n°93-191 du 4 février 1993 (SPSS9203251D)](decret-n93-191-du-4-fevrier-1993-spss9203251d)
 - [Décret n°93-9 du 4 janvier 1993 (JUSC9220101D)](decret-n93-9-du-4-janvier-1993-jusc9220101d)
+- [Décret n°93-15 du 5 janvier 1993 (MENB9200439D)](decret-n93-15-du-5-janvier-1993-menb9200439d)
 - [Décret n°93-176 du 5 février 1993 (ECOT9294147D)](decret-n93-176-du-5-fevrier-1993-ecot9294147d)
 - [Décret n°92-634 du 6 juillet 1992 (TEFT9204940D)](decret-n92-634-du-6-juillet-1992-teft9204940d)
 - [Décret n°94-295 du 6 avril 1994 (EQUH9400167D)](decret-n94-295-du-6-avril-1994-equh9400167d)
@@ -112,4 +113,5 @@
 - [Décret n°92-1475 du 31 décembre 1992 (MENX9200224D)](decret-n92-1475-du-31-decembre-1992-menx9200224d)
 - [Décret n°92-1478 du 31 décembre 1992 (MAEA9220463D)](decret-n92-1478-du-31-decembre-1992-maea9220463d)
 - [Décret n°92-1482 du 31 décembre 1992 (RESY9200205D)](decret-n92-1482-du-31-decembre-1992-resy9200205d)
+- [Décret n°92-1483 du 31 décembre 1992 (DEFD9202291D)](decret-n92-1483-du-31-decembre-1992-defd9202291d)
 - [Décret n°92-332 du 31 mars 1992 (TEFT9204543D)](decret-n92-332-du-31-mars-1992-teft9204543d)
