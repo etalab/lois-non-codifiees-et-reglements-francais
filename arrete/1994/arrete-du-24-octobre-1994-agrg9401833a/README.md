@@ -1,4 +1,4 @@
-# Arrêté du 30 avril 1992 instituant un certificat d'aptitude aux fonctions d'aide médico-psychologique
+# Arrêté du 24 octobre 1994 relatif à la composition et au fonctionnement de la Commission nationale des labels et des certifications de produits agricoles et alimentaires et de la commission mixte
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -13,3 +13,6 @@
 - [Article 11](article-11.md)
 - [Article 12](article-12.md)
 - [Article 13](article-13.md)
+- [Article 14](article-14.md)
+- [Article 15](article-15.md)
+- [Article 16](article-16.md)

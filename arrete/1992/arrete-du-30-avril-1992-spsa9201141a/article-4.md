@@ -6,7 +6,7 @@ Ils doivent, en outre, avoir satisfait aux conditions d'admission destinées à 
 
 Ne sont pas soumis à cette sélection les candidats titulaires :
 
-- d'un certificat d'aptitude aux fonctions d'aide-soignant, d'auxiliaire de puériculture, d'assistante maternelle ;
+- d'un certificat d'aptitude aux fonctions d'aide-soignant, d'auxiliaire de puériculture ;
 
 - du certificat d'aptitude aux fonctions d'aide à domicile ;
 

@@ -1,0 +1,3 @@
+# Article 1
+
+Il est créé au ministère de la jeunesse et des sports un traitement informatisé d'informations nominatives dont l'objet est la constitution d'une application appelée " Sirhus ". Celle-ci concerne l'ensemble des personnels du ministère de la jeunesse et des sports et des agents du ministère de l'éducation nationale affectés ou détachés au ministère de la jeunesse et des sports. Elle inclut notamment un aspect " gestion des formations ", intitulé " Soif ", et un aspect " gestion des distinctions honorifiques ", intitulé " Sophia ", regroupant toutes les personnes concernées par l'attribution de ces distinctions.
