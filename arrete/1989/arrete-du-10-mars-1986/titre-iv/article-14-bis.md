@@ -12,7 +12,7 @@ c) Il demande au constructeur de rectifier dans les meilleurs délais sa fabrica
 
 Dans chaque cas, il tient informé de sa décision le ministre chargé de l'industrie.
 
-§ 3. Lorsqu'il constate que la marque C.E. a été apposée indûment sur des appareils :
+§ 3. Lorsqu'il constate que le marquage C.E. a été apposé indûment sur des appareils :
 
 - non conformes au modèle agréé ;
 
@@ -28,4 +28,4 @@ Il peut, en revanche, maintenir cet usage sous réserve des justifications qu'il
 
 A l'issue de l'examen des anomalies et, le cas échéant, au vu de l'avis du ministre chargé de l'industrie, le directeur régional de l'industrie, de la recherche et de l'environnement ou l'organisme agréé décide des suites à donner qui peuvent aller jusqu'au retrait de l'attestation.
 
-§ 4. La révocation d'un agrément C.E.E. et le retrait d'une attestation d'examen C.E. de type font l'objet de la procédure de publicité prévue à l'article 2 (§ 4) ci-dessus.
+La révocation d'un agrément C.E.E., le retrait d'une attestation d'examen C.E. de type et les mesures de restriction ou d'interdiction de mise sur le marché ou de retrait du marché d'appareils font l'objet de la procédure de publicité prévue à l'article 2 (§ 4) ci-dessus.

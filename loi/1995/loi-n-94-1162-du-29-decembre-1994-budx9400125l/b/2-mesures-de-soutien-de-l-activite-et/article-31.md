@@ -1,0 +1,3 @@
+# Article 31
+
+Par dérogation aux dispositions de l'article 71 de la loi de finances pour 1993 (n° 92-1376 du 30 décembre 1992), le produit des ventes par l'Etat de titres, de parts ou de droits de sociétés réalisées à l'occasion d'opérations comportant une cession au secteur privé d'une participation au capital social d'une entreprise du secteur public, ainsi que le reversement par l'Entreprise de recherches et d'activités pétrolières (E.R.A.P.), sous toutes ses formes, du produit de cessions de titres de la société nationale Elf-Aquitaine par l'E.R.A.P., sont versés en recettes du budget général en 1995 au-delà des 8 premiers milliards de francs.

@@ -1,0 +1,3 @@
+# Article 6
+
+Les dispositions du présent titre s'appliquent aux Français rapatriés d'Algérie, anciennement de statut civil de droit local ou dont les ascendants, anciennement de statut civil de droit local, ont été admis au statut civil de droit commun en application du sénatus-consulte du 14 juillet 1865, de la loi du 4 février 1919 ou de l'ordonnance du 7 mars 1944, ayant fixé leur résidence en France et ayant participé aux opérations en Algérie entre le 1er novembre 1954 et le 2 juillet 1962 dans des unités ou formations soumises à l'autorité civile ou militaire, à l'exclusion de ceux qui n'ont effectué que leurs seules obligations de service militaire au cours de la même période.

@@ -1,0 +1,7 @@
+# Article 5
+
+Les titulaires d'une pension de retraite ou d'un avantage de réversion servie par le Fonds spécial des pensions des ouvriers des établissements industriels de l'Etat visé à l'article 2 du décret du 24 septembre 1965 susvisé qui résident en Polynésie française sont affiliés à la caisse primaire d'assurance maladie de Paris.
+
+Ils bénéficient, ainsi que leurs ayants droit qui résident avec eux, lorsqu'ils n'exercent aucune activité professionnelle, des prestations en nature de l'assurance maladie-maternité prévues à l'article 2 du décret du 23 décembre 1982 susvisé qui leur sont servies dans les conditions définies à l'article 4 soit du décret du 28 juin 1947 susvisé, soit du décret n° 48-293 du 19 février 1948 susvisé, sous réserve des dispositions de l'article 21 du décret du 26 décembre 1994 susvisé.
+
+Les personnes visées au premier alinéa du présent article bénéficient, lorsqu'elles résident temporairement en métropole ou dans un département d'outre-mer, des prestations en nature de l'assurance maladie-maternité du régime général de sécurité sociale qui leur sont servies dans les conditions définies à l'article 4 soit du décret du 28 juin 1947 susvisé, soit du décret n° 48-293 du 19 février 1948 susvisé, sous réserve des dispositions de l'article 21 du décret du 26 décembre 1994 susvisé. Il en est de même pour les ayants droit des personnes visées à la phrase précédente et au premier alinéa du présent article lorsqu'ils résident ou séjournent en métropole ou dans un département d'outre-mer.

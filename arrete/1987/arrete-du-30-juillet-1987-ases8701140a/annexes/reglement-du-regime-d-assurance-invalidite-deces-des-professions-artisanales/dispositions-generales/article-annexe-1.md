@@ -4,7 +4,7 @@ Le régime d'assurance invalidité-décès des professions artisanales garantit 
 
 1° L'attribution d'une pension jusqu'à l'âge de soixante ans ou jusqu'à son décès si celui-ci survient antérieurement à tout assuré reconnu atteint d'une invalidité totale et définitive à l'égard de toute activité rémunératrice ;
 
-2° L'attribution d'une pension temporaire d'incapacité au métier, pendant une durée maximale de trois ans et au plus tard jusqu'à l'âge de soixante ans ou jusqu'à son décès si celui-ci survient antérieurement à tout assuré reconnu dans l'incapacité totale d'exercer son métier ;
+2° L'attribution d'une pension pour incapacité au métier à tout assuré reconnu dans l'incapacité totale d'exercer son métier pendant la durée de l'incapacité, et au maximum jusqu'à son soixantième anniversaire ou jusqu'à son décès si celui-ci lui est antérieur ;
 
 3° L'attribution d'une majoration de la pension visée aux 1° et 2° ci-dessus lorsque l'assuré bénéficiaire est dans l'obligation d'avoir recours à l'assistance constante d'une tierce personne pour effectuer les actes ordinaires de la vie ;
 

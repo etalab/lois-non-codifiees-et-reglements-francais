@@ -4,4 +4,4 @@ Le montant global des cotisations patronales à l'assurance maladie, maternité,
 
 5,74 % du montant de la rémunération nette allouée à l'intéressé après déduction des frais professionnels et jusqu'à concurrence, par trimestre et par employeur, d'un maximum égal au quart du plafond annuel des rémunérations soumises à cotisations de sécurité sociale [*plafond*] ;
 
-21,30 % du montant de la rémunération nette totale allouée à l'intéressé après déduction des frais professionnels.
+21,20 % du montant de la rémunération nette totale allouée à l'intéressé après déduction des frais professionnels.

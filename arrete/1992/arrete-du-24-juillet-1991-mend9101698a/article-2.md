@@ -34,7 +34,9 @@ En outre, pour les intendants universitaires n'exerçant pas les fonctions d'age
 
 - mise en disponibilité (dans les cas prévus aux articles 43, 44, 45, 46 et 47 du décret du 16 septembre 1985 susvisé) ;
 
-- reclassement des stagiaires.
+- reclassement des stagiaires ;
+
+- classement après nomination consécutive à une inscription sur liste d'aptitude ou tableau d'avancement.
 
 En outre, pour la gestion des personnels de direction n'occupant pas un emploi de chef d'établissement ou d'adjoint :
 

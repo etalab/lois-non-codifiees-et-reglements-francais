@@ -1,0 +1,5 @@
+# Article 12
+
+Les candidats mentionnés au 1° et 2° de l'article 4 ci-dessus justifiant d'au moins cinq années d'activité professionnelle en qualité de cadre sont classés dans le corps des professeurs techniques de la protection judiciaire de la jeunesse à un échelon déterminé en prenant en compte les années d'activité professionnelle qu'ils ont accomplies en cette qualité avant leur nomination comme stagiaire, dans les conditions prévues par le présent décret, conformément aux dispositions du premier alinéa de l'article 7 du décret du 5 décembre 1951 susvisé.
+
+Les candidats mentionnés au 3° de l'article 4 ci-dessus justifiant d'au moins cinq années de pratique professionnelle sont classés dans le corps des professeurs techniques de la protection judiciaire de la jeunesse à un échelon déterminé en prenant en compte les années de pratique professionnelle qu'ils ont accomplies avant leur nomination en qualité de stagiaire, dans les conditions prévues par le présent décret conformément aux dispositions du premier alinéa de l'article 7 du décret du 5 décembre 1951 susvisé.

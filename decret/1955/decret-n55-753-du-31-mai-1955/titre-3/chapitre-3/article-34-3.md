@@ -1,3 +1,5 @@
 # Article 34-3
 
-L'entrée en jouissance des retraites de réversion prévues aux articles 34-1, 34-2 et 35 est fixée, soit au lendemain du décès de l'assuré si la demande est présentée dans le délai d'un an, soit au premier jour du mois suivant la date de réception de la demande [*point de départ*] ; cette date ne peut, toutefois, être antérieure au cinquante-cinquième anniversaire du requérant.
+Dans le cas où l'assuré n'était pas titulaire d'une pension de vieillesse à la date de son décès, il est fait application, pour déterminer le montant de la pension principale servant de base au calcul de la pension de réversion, des dispositions en vigueur à la date d'effet de cette dernière pension.
+
+Lorsque le pensionné ou le titulaire de droits à une pension décède antérieurement à son soixante-cinquième anniversaire, la pension de réversion du conjoint survivant ou du conjoint divorcé est calculée en fonction du montant de la pension qui aurait été allouée au "de cujus" au titre de l'inaptitude au travail.

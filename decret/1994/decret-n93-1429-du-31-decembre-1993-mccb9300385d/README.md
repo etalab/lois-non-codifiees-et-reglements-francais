@@ -3,6 +3,7 @@
 - [Titre Ier : Dispositions générales.](titre-ier)
 - [Titre II : Du dépôt légal à la Bibliothèque nationale de France](titre-ii)
 - [Titre III : Du dépôt légal au Centre national de la cinématographie.](titre-iii)
+- [Titre IV : Du dépôt légal à l'Institut national de l'audiovisuel.](titre-iv)
 - [Titre V : Du dépôt légal au ministère de l'intérieur.](titre-v)
 - [Titre VI : Du conseil scientifique du dépôt légal.](titre-vi)
 - [Titre VII : Dispositions communes et diverses.](titre-vii)

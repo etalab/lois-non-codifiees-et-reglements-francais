@@ -1,7 +1,7 @@
 # Article 9
 
-A titre transitoire jusqu'au 31 décembre 1994, le taux notifié ne peut varier en plus ou en moins d'une année sur l'autre :
+Le taux notifié ne peut varier d'une année sur l'autre :
 
-De 33,33 p. 100 si le taux de l'année précédente est supérieur à 3 ;
+- soit de plus de 33,33 p. 100, si le taux de l'année précédente est supérieur à 3, ou de plus d'un point si le taux de l'année précédente est inférieur ou égal à 3 ;
 
-D'un point si le taux de l'année précédente est inférieur ou égal à 3.
+- soit de moins de 25 p. 100, si le taux de l'année précédente est supérieur à 3, ou de moins d'un point si le taux de l'année précédente est inférieur ou égal à 3.

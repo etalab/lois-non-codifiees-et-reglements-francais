@@ -10,4 +10,4 @@ c) 8 p. 100 du plafond journalier pour la presse nationale.
 
 Le plafond journalier, fixé conformément à l'article L. 241-3 du code de la sécurité sociale, est celui en vigueur à la date du paiement de la rémunération.
 
-Les assiettes forfaitaires sont arrondies au franc inférieur.
+Les assiettes forfaitaires sont arrondies au franc le plus proche.

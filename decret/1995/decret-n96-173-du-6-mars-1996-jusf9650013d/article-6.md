@@ -1,0 +1,3 @@
+# Article 6
+
+L'indemnité spécifique d'hébergement n'est pas cumulable avec l'indemnité de responsabilité administrative prévue par le décret n° 91-631 du 3 juillet 1991 portant attribution d'une indemnité de responsabilité administrative aux directeurs régionaux et aux directeurs départementaux des services extérieurs de la protection judiciaire de la jeunesse.

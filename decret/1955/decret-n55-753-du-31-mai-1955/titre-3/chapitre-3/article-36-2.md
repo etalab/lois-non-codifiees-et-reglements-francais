@@ -1,6 +1,6 @@
 # Article 36-2
 
-I - La date d'entrée en jouissance des retraites de réversion prévues aux articles 34-1, 34-2 et 35 est fixée [*point de départ*] :
+I - La date d'entrée en jouissance des retraites de réversion prévues aux articles 34-1 et 35 est fixée [*point de départ*] :
 
 Soit au lendemain du décès de l'assuré, si la demande est déposée dans le délai d'un an, ou au lendemain de la disparition, si la demande est déposée dans le délai d'un an suivant la période de douze mois écoulée depuis la disparition ;
 

@@ -1,6 +1,6 @@
 # Article ANNEXE, 6
 
-La pension visée à l'article 1er (1°) est attribuée à l'assuré qui satisfait à toutes les conditions [*d'attribution*] suivantes [*bénéficiaires*] :
+La pension visée à l'article 1er (1°) est attribuée à l'assuré qui satisfait à toutes les conditions suivantes au moment de sa première demande de pension d'invalidité :
 
 1° Etre immatriculé ou avoir été immatriculé en dernier lieu au régime d'assurance vieillesse et au régime d'assurance invalidité-décès des professions artisanales dans les conditions définies par la législation et la réglementation propres à ces régimes ;
 

@@ -1,0 +1,5 @@
+# Article 4
+
+Le réglage à la nouvelle vitesse de limitation et le contrôle des dispositions initialement prévues en matière d'inviolabilité des véhicules visés à l'article 3 précédent doivent être effectués conformément aux instructions du constructeur du véhicule dans les stations agréées par celui-ci. Une attestation de mise en conformité à la directive n° 92/6, contenant au moins les informations indiquées en annexe I au présent arrêté, sera alors délivrée à ces véhicules par le constructeur ou ses représentants autorisés. Une étiquette devra aussi être apposée, de manière visible, à l'intérieur de l'habitacle du véhicule, indiquant la vitesse de limitation : 85 km/h pour les véhicules de la catégorie N 3 ou 100 km/h pour les véhicules de la catégorie M 3.
+
+Le cas échéant, l'attestation de mise en conformité du véhicule aux dispositions de la directive n° 92/6 pourra être délivrée par la D.R.I.R.E. compétente lors de la visite technique du véhicule sur présentation d'un procès-verbal de contrôle de la vitesse de limitation et des dispositifs d'inviolabilité établi par une station spécialement agréée pour le contrôle du chronotachygraphe.

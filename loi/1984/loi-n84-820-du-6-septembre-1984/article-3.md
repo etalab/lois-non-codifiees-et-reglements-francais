@@ -20,7 +20,7 @@ Les autorités de l'Etat sont compétentes dans les matières suivantes :
 
 11° Droit civil, à l'exclusion de la procédure civile et sous réserve des dispositions du dernier alinéa de l'article 26 ; principes fondamentaux des obligations commerciales ;
 
-12° Principes généraux du droit du travail ;    13° Justice, organisation judiciaire, organisation de la profession d'avocat, à l'exclusion de toute autre profession juridique ou judiciaire, frais de justice criminelle, correctionnelle et de police, droit pénal sous réserve des dispositions des articles 25 (5°), 30, 64, 65 et 66, commissions d'office, procédure pénale à l'exclusion de la réglementation pénitentiaire et de la réglementation relative à la liberté surveillée des mineurs. "
+12° Principes généraux du droit du travail ;    13° Justice, organisation judiciaire et organisation de la profession d'avocat, à l'exclusion de toute autre profession juridique ou judiciaire, frais de justice criminelle, correctionnelle et de police, droit pénal, sous réserve des dispositions des articles 25 (5°), 30, 64, 65 et 66, commissions d'office, procédure pénale, à l'exclusion de la réglementation relative à la liberté surveillée des mineurs, service public pénitentiaire ; "
 
 14° Fonction publique d'Etat ;
 
@@ -34,4 +34,4 @@ Les autorités de l'Etat sont compétentes dans les matières suivantes :
 
 L'Etat exerce ses droits de souveraineté et de propriété sur son domaine public et privé, terrestre, maritime ou aérien. Sous réserve des engagements internationaux et des dispositions prises pour leur application, l'Etat concède au territoire, dans les conditions prévues par un cahier des charges approuvé par décret en Conseil d'Etat, pris après avis de l'assemblée territoriale, l'exercice de compétences en matière d'exploration et d'exploitation des ressources naturelles, biologiques ou non biologiques, du fond de la mer, de son sous-sol et des eaux surjacentes. "
 
-Les compétences de l'Etat définies au présent article s'exercent dans le cadre des procédures de concertation avec les autorités territoriales prévues au chapitre premier du titre premier [*articles 5 à 43*].
+Les compétences de l'Etat définies au présent article s'exercent dans le cadre des procédures de concertation avec les autorités territoriales prévues au chapitre premier du titre premier *articles 5 à 43*.

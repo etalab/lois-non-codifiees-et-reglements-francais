@@ -1,3 +1,3 @@
 # Article ANNEXE, 8
 
-L'entrée en jouissance des pensions visées à l'article 1er (1° ou 2°) ne peut être antérieure au quatre-vingt-onzième jour suivant la date à laquelle l'assuré a cessé d'exercer son métier, ni au premier jour du mois qui suit la demande ou au premier jour du mois qui suit celui au cours duquel l'intéressé remplit les autres conditions requises.
+L'entrée en jouissance des pensions mentionnées aux 1° ou 2° de l'article 1er est fixée au quatre-vingt-onzième jour qui suit la date de la cessation d'activité, sans être antérieure au premier jour du mois suivant celui où l'ensemble des conditions est rempli.
