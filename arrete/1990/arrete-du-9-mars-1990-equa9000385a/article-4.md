@@ -1,8 +1,10 @@
 # Article 4
 
-Le montant de la redevance est égal au produit du taux unitaire de redevance par le nombre d'unités de service.
+Le montant de la redevance est égal au produit du taux unitaire, affecté d'un coefficient K, par le nombre d'unités de service.
 
-Le nombre d'unités de service est égal au coefficient poids de l'aéronef ; celui-ci est égal au nombre mesurant en tonnes métriques la masse maximum au décollage de l'aéronef telle qu'elle est inscrite au manuel de vol de cet aéronef, affecté de l'exposant 0,95.
+Le nombre d'unités de service est égal au coefficient poids de l'aéronef ; celui-ci est égal au nombre mesurant en tonnes métriques la masse maximum au décollage de l'aéronef, telle qu'elle est inscrite au manuel de vol de cet aéronef, affecté de l'exposant 0,90.
+
+Le coefficient K est égal à 1,247.
 
 Lorsque la masse maximum certifiée au décollage de l'aéronef n'est pas connue des organismes responsables des opérations tendant au recouvrement de la redevance, le coefficient poids est établi sur la base de la masse de la version la plus lourde du type de cet aéronef censée exister.
 
