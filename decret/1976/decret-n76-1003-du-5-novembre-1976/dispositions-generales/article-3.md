@@ -10,7 +10,7 @@ Ingénieur de 1ère classe : cinq échelons ;
 
 Ingénieur principal : trois échelons ;
 
-Ingénieur en chef de 2e classe : trois échelons ;
+Ingénieur en chef de 2e classe : quatre échelons ;
 
 Ingénieur en chef de 1re classe : deux échelons et deux échelons exceptionnels ;
 
