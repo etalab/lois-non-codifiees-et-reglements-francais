@@ -1,3 +1,3 @@
 # Article 6
 
-Les préfets peuvent, par arrêté, déléguer partie de leur signature à leur directeur ou chef de cabinet ainsi qu'aux chefs des divisions et bureaux de préfecture.
+Les secrétaires généraux de préfecture peuvent, par arrêté, déléguer partie des attributions que leur confère l'article 7 de la loi du 28 pluviôse an VIII aux chefs des divisions et bureaux de préfecture.

@@ -3,6 +3,7 @@
 - [Décret n°72-350 du 2 mai 1972](decret-n72-350-du-2-mai-1972)
 - [Décret n°72-352 du 2 mai 1972](decret-n72-352-du-2-mai-1972)
 - [Décret n°72-353 du 2 mai 1972](decret-n72-353-du-2-mai-1972)
+- [Décret n°72-378 du 2 mai 1972](decret-n72-378-du-2-mai-1972)
 - [Décret n°71-1129 du 3 décembre 1971](decret-n71-1129-du-3-decembre-1971)
 - [Décret n°72-354 du 3 mai 1972](decret-n72-354-du-3-mai-1972)
 - [Décret n°72-355 du 4 mai 1972](decret-n72-355-du-4-mai-1972)
