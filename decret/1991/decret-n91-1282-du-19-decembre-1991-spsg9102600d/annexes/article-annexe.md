@@ -42,28 +42,58 @@ XIV. - Agents d'orientation standardistes.
 
 XV. - Personnels exerçant des fonctions de documentation.
 
-Ministère chargé du travail, de l'emploi et de la formation professionnelle
+FONCTIONS EXERCÉES POUVANT OUVRIR DROIT AU VERSEMENT D'UNE NOUVELLE BONIFICATION INDICIAIRE DANS LES SERVICES CENTRAUX DU TRAVAIL, DE L'EMPLOI ET DE LA FORMATION PROFESSIONNELLE
 
-XVI. - Assistant de service social.
+A compter du 1er août 1996
 
-XVII. - Agent chargé de la production et de la diffusion des statistiques sur le marché du travail à la direction de l'animation de la recherche, des études et des statistiques.
+1. Responsables des secrétariats particuliers des délégués et directeurs d'administration centrale.
 
-XVIII. - Agent chargé de la diffusion de publications.
+2. Régisseur d'avance et régisseur de recettes.
 
-XIX. - Responsables des secrétariats particuliers des chefs de service et des sous-directeurs.
+3. Responsables de la réalisation des tâches de photocomposition et de reprographie.
 
-XX. - Agent chargé de la gestion des crédits de frais de déplacement du ministère.
+4. Responsables de publication assistée par ordinateur.
 
-XXI. - Agent chargé de la liquidation des dossiers de déplacement du ministère.
+5. Documentalistes.
 
-XXII. - Responsable du secrétariat du contrôleur financier.
+6. Correspondants logistiques dans les bureaux des affaires générales.
 
-XXIII. - Agent chargé de travaux de réparations.
+7. Responsable de service social.
 
-XXIV. - Chef de standard téléphonique.
+7 bis. Chargé(e)s de l'accompagnement social du personnel.
 
-XXV. - Agent d'orientation standardiste.
+8. Agent chargé de la production et de la diffusion des statistiques sur le marché du travail à la direction de l'animation de la recherche, des études et des statistiques.
 
-XXVI. - Agent chargé de la gestion informatisée des procédures contentieuses.
+9. Agents chargés de la diffusion des publications.
 
-XXVII. - Agent chargé du traitement juridique et comptable du contentieux administratif et judiciaire.
+10. Responsable des secrétariats particuliers des chefs de service et des sous-directeurs.
+
+11. Agents chargés de la gestion des crédits de frais de déplacement.
+
+12. Agents chargés de la liquidation des dossiers de frais de déplacement.
+
+13. Responsable du secrétariat du contrôleur financier.
+
+14. Agents chargés de travaux de réparations.
+
+15. Chef de standard téléphonique.
+
+16. Agents d'orientation standardistes.
+
+17. Agent chargé de la gestion informatisée des procédures contentieuses.
+
+18. Agent chargé du traitement juridique et comptable du contentieux administratif et judiciaire.
+
+19. Chef de bureau d'administration centrale.
+
+20. Adjoint au chef d'un bureau d'administration centrale dont l'effectif est supérieur ou égal à dix agents.
+
+21. Responsables de la gestion des crédits de rémunérations principales et accessoires du secteur Travail, emploi et formation professionnelle.
+
+22. Chargé(e)s de l'administration des soins et du suivi médical.
+
+23. Responsable d'une équipe logistique d'un site.
+
+24. Responsable sectoriel des enquêtes statistiques sur l'activité et les conditions d'emploi de la main-d'oeuvre.
+
+25. Responsables des concours.
