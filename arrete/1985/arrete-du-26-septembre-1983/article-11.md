@@ -1,5 +1,21 @@
 # Article 11
 
-Les cadres dont les emplois sont affectés d'un coefficient au moins égal à celui de sous-chef de service dans les caisses relevant des organisations autonomes d'assurance vieillesse des travailleurs non salariés des professions artisanales, industrielles et commerciales, ou de chef de service adjoint dans les caisses du régime d'assurance maladie et maternité des travailleurs non salariés des professions non agricoles, peuvent demander leur inscription dans la classe C.
+Peuvent demander leur inscription en classe C les cadres dont les emplois sont affectés d'un coefficient minimum au moins égal au coefficient similaire de l'un des emplois énumérés ci-après :
 
-Les chefs de division des caisses de compensation et des caisses de catégorie exceptionnelle peuvent également demander leur inscription en classe B s'ils relèvent de la première section de la liste d'aptitude.
+- régime d'assurance vieillesse des artisans : agent administratif niveau 4 ;
+
+- régime d'assurance vieillesse des industriels et commerçants :
+
+cadre niveau III A, 1er échelon ;
+
+- régime d'assurance maladie et maternité des travailleurs non salariés des professions non agricoles : cadre niveau 2, 1er échelon.
+
+Peuvent également demander leur inscription en classe B les cadres relevant de la première section, en fonction dans une caisse nationale ou de catégorie exceptionnelle et occupant l'un des emplois suivants :
+
+- régime d'assurance vieillesse des artisans : cadre administratif niveau 2 de la caisse nationale ou responsable technique niveau 2 d'une caisse de catégorie exceptionnelle ;
+
+- régime d'assurance vieillesse des industriels et commerçants :
+
+cadre niveau III C ;
+
+- régime d'assurance maladie et maternité des travailleurs non salariés des professions non agricoles : cadre niveau 4.

@@ -19,3 +19,9 @@ Classification des caisses relevant du régime d'assurance maladie et maternité
 1re catégorie : caisses de 70.001 à 95.000 assurés ;
 
 Catégorie exceptionnelle : 95.001 assurés et plus, et Caisse nationale.
+
+L'effectif pris en compte pour le classement des caisses est apprécié au 1er janvier de chaque année.
+
+En cas de variation de l'effectif d'une caisse entraînant soit un dépassement de la limite supérieure, soit une diminution par rapport à la limite inférieure, la catégorie de la caisse ne change que si le franchissement de seuil s'est maintenu, dans le même sens, pendant deux années consécutives après la première constatation.
+
+Lorsqu'il s'agit de fusions ou de scissions de caisses, le nouveau classement en résultant est pris en compte, pour toute caisse concernée, à la date où celles-ci sont intervenues. Ce nouveau classement suit ensuite les règles définies à l'alinéa précédent.
