@@ -11,4 +11,3 @@
 - [Article EF 12](article-ef-12.md)
 - [Article EF 13](article-ef-13.md)
 - [Article EF 14](article-ef-14.md)
-- [Article EF14](article-ef14.md)
