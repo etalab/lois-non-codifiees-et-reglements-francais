@@ -2,8 +2,6 @@
 
 A compter du troisième semestre de la participation à l'activité hospitalière prévue à l'article 1er ci-dessus, les étudiants hospitaliers visés par le deuxième alinéa de l'article 1er du présent décret perçoivent une rémunération annuelle dont le taux est fixé par arrêté conjoint du ministre de la santé publique et de la sécurité sociale, du ministre de l'éducation nationale, du ministre de l'économie et des finances et du ministre de l'intérieur.
 
-Cette rémunération ne donne pas lieu à versement des cotisations au titre des régimes complémentaires de retraites des assurances sociales instituées par les décrets n° 51-1445 du 12 décembre 1951 et n° 59-1509 du 31 décembre 1959.
-
 Les étudiants hospitaliers visés par le deuxième alinéa de l'article 1er du présent décret ont droit :
 
 1° A un congé [*payé*] annuel d'un mois.
