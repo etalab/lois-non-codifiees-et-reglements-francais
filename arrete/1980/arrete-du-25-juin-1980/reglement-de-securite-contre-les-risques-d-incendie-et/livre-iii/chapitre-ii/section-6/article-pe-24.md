@@ -4,12 +4,10 @@ Eclairage, signalisation
 
 § 1. Les installations électriques doivent être conformes aux normes les concernant.
 
-Il ne doit pas être fait usage que des canalisations ne propageant pas la flamme.
+Les câbles ou conducteurs doivent être de la catégorie C2 selon la classification et les modalités d'attestation de conformité définies dans l'arrêté du 21 juillet 1994 portant classification et attestation de conformité du comportement au feu des conducteurs et câbles électriques et agrément des laboratoires d'essais.
 
-L'emploi de douilles voleuses ou de fiches multiples est interdit.
+L'emploi de fiches multiples est interdit. Le nombre de prises de courant doit être adapté à l'utilisation pour limiter l'emploi de socles mobiles. Les prises de courant doivent être disposées de manière que les canalisations mobiles aient une longueur aussi réduite que possible et ne soient pas susceptibles de faire obstacle à la circulation des personnes.
 
-Les installations ne doivent comporter que des canalisations fixes ; les canalisations mobiles alimentant les appareils ne doivent pas faire obstacle à la circulation du public.
+§ 2. Les escaliers et les circulations horizontales d'une longueur totale supérieure à 10 mètres ou présentant un cheminement compliqué, ainsi que les salles d'une superficie supérieure à 100 mètres carrés, doivent être équipés d'une installation d'éclairage de sécurité d'évacuation.
 
-§ 2. Les escaliers protégés et les circulations horizontales d'une longueur totale supérieure à 10 mètres ou présentant un cheminement compliqué, ainsi que les salles d'une superficie supérieure à 100 mètres carrés, doivent être équipés d'une installation fixe d'éclairage de sécurité de type non permant (blocs autonomes d'éclairage de sécurité, par exemple).
-
-Dans les autres cas, des moyens d'éclairage électriques portatifs (lampes électriques à piles ou à accumulateurs) doivent être mis à la disposition du personnel de l'établissement, ou bien il est fait emploi de dispositifs luminescents (autocollants ou peintures) pour les signalisations.
+S'il est fait usage de blocs autonomes, ceux-ci doivent être conformes aux normes de la série NF C 71-800 et admis à la marque NF AEAS ou faire l'objet de toute autre certification de qualité en vigueur dans un Etat membre de la Communauté économique européenne. Cette certification devra alors présenter des garanties équivalentes à celles de la marque NF AEAS, notamment en ce qui concerne l'intervention d'une tierce partie indépendante et les performances prévues dans les normes correspondantes.

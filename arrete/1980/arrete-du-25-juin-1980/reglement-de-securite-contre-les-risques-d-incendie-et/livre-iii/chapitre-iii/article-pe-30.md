@@ -14,6 +14,4 @@ b) Le désenfumage des circulations doit être asservi à la détection automati
 
 - les locaux réservés au sommeil sont situés dans des bâtiments à un étage sur rez-de-chaussée au plus ; ils sont pourvus d'un ouvrant en façade.
 
-§ 3. Les couloirs doivent être équipés d'une installation fixe d'éclairage de sécurité de type non permanent (blocs autonomes d'éclairage de sécurité, par exemple).
-
-§ 4. Le recoupement des couloirs doit être effectué tous les 35 mètres par une porte pare-flammes de degré 1/2 heure, à va-et-vient.
+§ 3. Le recoupement des couloirs doit être effectué tous les 35 mètres par une porte pare-flammes de degré 1/2 heure, à va-et-vient.

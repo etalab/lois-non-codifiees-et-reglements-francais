@@ -8,4 +8,4 @@ Les installations électriques comprennent :
 
 - les installations établies dans les stands destinés aux exposants et réalisées par eux-mêmes ou pour leur compte, sous leur responsabilité.
 
-La limite entre ces deux installations se situe au niveau du tableau ou du coffret de livraison de chaque stand.
+La limite entre ces deux installations se situe au niveau du tableau électrique de chaque stand.

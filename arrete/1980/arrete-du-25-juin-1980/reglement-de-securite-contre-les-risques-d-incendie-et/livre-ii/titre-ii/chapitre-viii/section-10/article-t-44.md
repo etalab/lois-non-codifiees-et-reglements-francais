@@ -10,8 +10,6 @@ L'emploi de lasers dans les salles est autorisé sous réserve du respect des di
 
 - l'environnement de l'appareil et de l'espace balayé par le faisceau ne doit pas comporter d'éléments réfléchissants aux longueurs d'ondes considérées ;
 
-- le boîtier contenant le laser et son dispositif de déviation optique éventuel doit être de la classe I ou II ;
-
 - les exposants doivent s'assurer, lors des essais effectués en dehors de la présence du public, de l'absence de réaction des matériaux d'aménagement, de décoration et des équipements de protection contre l'incendie à l'énergie calorifique cédée par les faisceaux lumineux ;
 
 - avant sa mise en oeuvre, toute installation doit faire l'objet de la part de l'exposant auprès de l'autorité administrative compétente :

@@ -2,12 +2,10 @@
 
 Eclairage de sécurité
 
-§ 1. Les établissements justifiant de la mise en place d'un service de sécurité tel que défini à l'article T 48 doivent comporter un éclairage de sécurité de type A.
+§ 1. les locaux et dégagements accessibles au public doivent être équipés d'un éclairage de sécurité répondant aux dispositions des articles EC 7 à EC 15.
 
-Les autres établissements de 1re catégorie et ceux de 2e catégorie doivent comporter un éclairage de sécurité du type B, alimenté par une source centrale.
+L'éclairage de sécurité des établissements de 1re et 2e catégorie doit être alimenté par une source centralisée constituée d'une batterie d'accumulateurs dans les conditions de l'article EC 11.
 
-Les établissements de 3e catégorie doivent comporter un éclairage de sécurité du type B.
+§ 2. Les stands ou locaux mentionnés à l'article T 23, § 2, doivent être équipés d'un éclairage de sécurité par blocs autonomes dans les conditions de l'article EC 12.
 
-Les établissements de 4e catégorie doivent comporter un éclairage de sécurité du type C.
-
-§ 2. Un éclairage de sécurité du type C, dans les conditions définies à l'article EC 7, doit être installé dans les stands ou locaux mentionnés à l'article T 23 (§ 2).
+Cet éclairage de sécurité doit être mis à l'état de repos lorsque l'installation d'éclairage normal est mise intentionnellement hors tension.

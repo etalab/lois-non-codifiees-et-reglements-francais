@@ -2,8 +2,6 @@
 
 Eclairage de sécurité
 
-§ 1. Les établissements de 1ère catégorie doivent comporter un éclairage de sécurité du type B, à l'exception des piscines.
+§ 1. Les établissements doivent être équipés d'un éclairage de sécurité répondant aux dispositions des articles EC 7 à EC 15.
 
-Les établissements des 2e, 3e et 4e catégories ainsi que les piscines doivent comporter un éclairage de sécurité deu type C.
-
-§ 2. En dérogation aux dispositions de l'article EC 7 (§ 3), et à lexception des salles polyvalentes à dominante sportive, l'éclairage d'ambiance peut n'être installé que dans les zones réservées aux spectateurs, dans les halls des bassins des piscines et dans les ciruclations périphériques des pistes de patinage.
+§ 2. L'éclairage d'ambiance des piscines doit être calculé sur la totalité de la surface de la salle ou du local et peut ne pas être installé au-dessus des bassins.

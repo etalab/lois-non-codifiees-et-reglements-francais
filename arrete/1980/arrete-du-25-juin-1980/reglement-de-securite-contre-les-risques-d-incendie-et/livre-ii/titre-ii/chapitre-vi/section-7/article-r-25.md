@@ -1,5 +1,5 @@
 # Article R 25
 
-Emplacement des tableaux de distribution
+Coupure d'urgence
 
-En dérogation à l'article EL 9 (§ 1), et quelle que soit la puissance installée, les tableaux de distribution basse tension, nécessaires au fonctionnement des équipements des locaux tels qu'ateliers, cuisines, etc, peuvent être installés à l'intérieur de ceux-ci.
+En dérogation aux dispositions de l'article EL 11, § 2, à l'exception des circuits d'éclairage, des dispositifs de coupure d'urgence peuvent être installés dans les ateliers, salles de travaux pratiques, laboratoires, cuisines pédagogiques...

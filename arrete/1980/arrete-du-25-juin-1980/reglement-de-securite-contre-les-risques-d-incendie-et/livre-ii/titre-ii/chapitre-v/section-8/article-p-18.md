@@ -2,8 +2,6 @@
 
 Eclairage de sécurité
 
-Les établissements de 1re et 2e catégories, ainsi que ceux de 3e catégorie installés en sous-sol, doivent être équipés d'un éclairage de sécurité  du type B, alimenté par une source centrale.
+Les établissements doivent être équipés d'un éclairage de sécurité répondant aux dispositions des articles EC 7 à EC 15.
 
-Les établissements de 4e catégorie, installés en sous-sol, doivent être équipés d'un éclairage de sécurité du type B.
-
-Les autres établissements doivent être équipés d'un éclairage de sécurité du type C.
+L'éclairage de sécurité des établissements de 1re et 2e catégorie doit être alimenté par une source centralisée constituée d'une batterie d'accumulateurs dans les conditions de l'article EC 11.

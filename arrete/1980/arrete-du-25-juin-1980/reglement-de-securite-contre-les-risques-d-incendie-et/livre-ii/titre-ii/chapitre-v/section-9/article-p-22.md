@@ -24,6 +24,6 @@ Ils sont tous installés dans tous les locaux et les dégagements accessibles au
 
 En outre, le fonctionnement de l'alarme générale doit être précédé automatiquement :
 
-De l'arrêt de la sonorisation ;
+- de l'arrêt du programme en cours ;
 
-De la mise en lumière normale (ou d'ambiance) de l'établissement.
+- de la mise en fonctionnement de l'éclairage normal des salles plongées dans l'obscurité pour des raisons d'exploitation.

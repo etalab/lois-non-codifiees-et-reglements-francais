@@ -2,4 +2,4 @@
 
 Conditions d'installation
 
-En aggravation des dispositions de l'article EL 2, toutes les installations électriques doivent être établies dans les conditions requises par la norme en vigueur pour les locaux présentant des risques d'incendie (condition d'influence externe BE 2).
+Les installations électriques des salles de danse doivent être réalisées dans les conditions requises par la norme NF C 15-100 pour les locaux présentant des risques d'incendie (condition d'influence externe BE 2).

@@ -2,4 +2,4 @@
 
 Eclairage de sécurité
 
-Tous les établissements doivent être équipés d'un éclairage de sécurité de type C.
+Les établissements doivent être équipés d'un éclairage de sécurité répondant aux dispositions des articles EC 7 à EC 15.

@@ -6,6 +6,5 @@ et de consultation d'archives
 - [Section 2 : Construction](section-2)
 - [Section 3 : Désenfumage](section-3)
 - [Section 4 : Chauffage](section-4)
-- [Section 5 : Installations électriques](section-5)
 - [Section 6 : Eclairage](section-6)
 - [Section 7 : Moyens de secours](section-7)

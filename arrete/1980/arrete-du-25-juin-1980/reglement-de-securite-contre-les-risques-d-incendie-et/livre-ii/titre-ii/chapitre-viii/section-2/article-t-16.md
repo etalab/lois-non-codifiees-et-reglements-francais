@@ -16,7 +16,7 @@ Les caractéristiques de ce volume libre sont les suivantes :
 
 - aucun exutoire, ni aucune baie ou bande d'éclairage naturel ;
 
-- les canalisations électriques éventuelles respectent les dispositions de l'article EL 3 (§ 2.a) ;
+- les matériels et les canalisations électriques doivent être limités à ceux nécessaires au fonctionnement de ce volume ;
 
 - il est limité en partie supérieure par deux retombées d'au moins un mètre formant écran de cantonnement de part et d'autre.
 

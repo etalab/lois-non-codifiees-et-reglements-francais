@@ -2,7 +2,7 @@
 
 Plafonds. - Isolation. - Décoration
 
-§ 1. En aggravation des dispositions des articles AM 4 et AM 5, les plafonds, les plafonds suspendus, les parties translucides (ou transparentes) qui y sont incorporées ainsi que les luminaires et les filets horizontaux doivent être réalisés en matériaux de catégorie M 1.
+§ 1. En aggravation des dispositions des articles AM 4 et AM 5, les plafonds, les plafonds suspendus, les parties translucides (ou transparentes) qui y sont incorporées doivent être réalisés en matériaux de catégorie M 1.
 
 § 2. Les dispositions de l'article AM 8 (§ 2) ne sont pas applicables dans les établissements du présent type.
 
