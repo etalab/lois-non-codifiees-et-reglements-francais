@@ -1,0 +1,3 @@
+# Article 14
+
+Des stages pratiques supplémentaires, validés dans des services agréés au titre d'un diplôme d'études spécialisées ou d'un diplôme d'études spécialisées complémentaires différent, peuvent être pris en compte pour la validation de la formation par la commission visée à l'article 12 ci-dessus, à condition qu'ils soient effectués en plus des obligations de formation théorique et pratique exigées par la maquette du diplôme d'études spécialisées complémentaires postulé et après accord de l'enseignant coordonnateur, selon les règles fixées par les conseils des unités de formation et de recherche et approuvées par les présidents d'université.

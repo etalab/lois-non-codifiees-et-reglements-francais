@@ -1,0 +1,3 @@
+# Article 9
+
+Pour la préparation de chaque diplôme d'études spécialisées, l'enseignant coordonnateur est assisté d'une commission interrégionale de coordination et d'évaluation. Pour le diplôme d'études spécialisées de médecine générale, l'enseignant coordonnateur est assisté, dans chaque unité de formation et de recherche médicale de la subdivision, soit par un département de médecine générale créé par l'université dans les conditions prévues à l'article L. 713-3 du code de l'éducation, soit par une commission de coordination et d'évaluation du diplôme d'études spécialisées de médecine générale.

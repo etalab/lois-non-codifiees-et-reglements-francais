@@ -1,0 +1,3 @@
+# Article 14
+
+Lors de la validation terminale de la formation des internes, la commission visée à l'article 10 ci-dessus peut prendre en considération des stages pratiques supplémentaires validés dans des services agréés au titre d'un autre diplôme d'études spécialisées et des enseignements différents de ceux des diplômes d'études spécialisées auxquels sont inscrits les intéressés, à condition qu'ils soient effectués en plus des obligations de formation théorique et pratique exigées par la maquette du diplôme d'études spécialisées concerné et selon les règles fixées par les conseils des unités de formation et de recherche et approuvées par les présidents d'université.

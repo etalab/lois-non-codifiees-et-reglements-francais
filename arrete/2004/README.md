@@ -592,6 +592,8 @@
 - [Arrêté du 22 mars 2004 (SOCF0410577A)](arrete-du-22-mars-2004-socf0410577a)
 - [Arrêté du 22 septembre 2003 (ECOC0200148A)](arrete-du-22-septembre-2003-ecoc0200148a)
 - [Arrêté du 22 septembre 2004 (EQUP0400875A)](arrete-du-22-septembre-2004-equp0400875a)
+- [Arrêté du 22 septembre 2004 (MENS0402086A)](arrete-du-22-septembre-2004-mens0402086a)
+- [Arrêté du 22 septembre 2004 (MENS0402087A)](arrete-du-22-septembre-2004-mens0402087a)
 - [Arrêté du 23 août 2004 (MDIB0400015A)](arrete-du-23-aout-2004-mdib0400015a)
 - [Arrêté du 23 avril 2004 (EQUA0400690A)](arrete-du-23-avril-2004-equa0400690a)
 - [Arrêté du 23 avril 2004 (SANP0421445A)](arrete-du-23-avril-2004-sanp0421445a)

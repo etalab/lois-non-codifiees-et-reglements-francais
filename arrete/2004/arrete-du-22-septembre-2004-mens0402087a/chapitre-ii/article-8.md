@@ -1,0 +1,3 @@
+# Article 8
+
+La préparation de chaque diplôme d'études spécialisées complémentaires est placée sous la responsabilité d'un enseignant chargé de coordonner l'organisation des enseignements théoriques et pratiques de chaque diplôme d'études spécialisées complémentaires dans l'interrégion ; il est désigné, pour une durée de trois ans renouvelable une fois consécutivement, sur présentation d'un projet pédagogique de formation, par les directeurs des unités de formation et de recherche de médecine de l'interrégion après avis des conseils des unités de formation et de recherche concernées ainsi que des enseignants de la spécialité.

@@ -1,0 +1,3 @@
+# Article 7
+
+La préparation de chaque diplôme d'études spécialisées ou de chacune des options d'un tel diplôme est placée sous la responsabilité d'un enseignant chargé de coordonner l'organisation des enseignements théoriques et pratiques de chaque diplôme d'études spécialisées dans l'interrégion. Il est désigné pour une durée de trois ans, renouvelable une fois consécutivement, sur présentation d'un projet pédagogique de formation, par les directeurs des unités de formation et de recherche de médecine de l'interrégion ou les présidents des comités de coordination des études médicales, après avis des conseils des unités de formation et de recherche concernées ainsi que des enseignants de la spécialité.
