@@ -57,6 +57,7 @@
 - [Arrêté du 15 janvier 1997 (EQUZ9700032A)](arrete-du-15-janvier-1997-equz9700032a)
 - [Arrêté du 15 janvier 1997 (EQUZ9700079A)](arrete-du-15-janvier-1997-equz9700079a)
 - [Arrêté du 15 janvier 1997 (JUSC9720002A)](arrete-du-15-janvier-1997-jusc9720002a)
+- [Arrêté du 15 janvier 1997 (JUSE9740008A)](arrete-du-15-janvier-1997-juse9740008a)
 - [Arrêté du 15 janvier 1997 (TAST9710097A)](arrete-du-15-janvier-1997-tast9710097a)
 - [Arrêté du 16 décembre 1996 (EQUA9601747A)](arrete-du-16-decembre-1996-equa9601747a)
 - [Arrêté du 16 décembre 1996 (INTA9600555A)](arrete-du-16-decembre-1996-inta9600555a)
