@@ -1,0 +1,5 @@
+# Article 30 bis
+
+Nonobstant les dispositions de l'article 30, pour être reconnues propres à la consommation humaine, les viandes fraîches, carcasses, demi-carcasses, demi-carcasses découpées en un maximum de trois morceaux ou les quartiers doivent également, à la suite d'une inspection post mortem, être reconnues ne présenter aucune altération, à l'exception de lésions traumatiques survenues peu avant l'abattage, de malformations ou d'altérations localisées, pour autant qu'il soit constaté, au besoin par des examens de laboratoire appropriés, que ces lésions, malformations ou altérations ne rendent pas la carcasse et les abats correspondants impropres à la consommation humaine ou dangereux pour la santé humaine.
+
+Elles sont alors revêtues de la marque communautaire de salubrité dans les conditions prescrites par l'arrêté du 15 mai 1974 relatif à l'estampillage sanitaire des viandes de boucherie et des produits à base de viande, sauf dans les cas prévus aux articles 32, 37 et 39 du présent arrêté.

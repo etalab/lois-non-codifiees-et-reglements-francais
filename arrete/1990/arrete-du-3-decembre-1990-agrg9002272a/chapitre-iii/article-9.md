@@ -1,6 +1,6 @@
 # Article 9
 
-A. - Lorsque l'existence de l'ESB est confirmée par le résultat de l'examen histopathologique de l'encéphale prévu à l'article 1er, paragraphe b, du présent arrêté, le préfet prend, sur proposition du directeur des services vétérinaires, un arrêté portant déclaration d'infection de(s) l'exploitation(s) identifiée(s) à risques au terme de l'enquête épidémiologique visée à l'article 2.
+A. - Lorsque l'existence de l'ESB est confirmée par le résultat d'un des examens prévus à l'article 1er, paragraphe b, du présent arrêté, le préfet prend, sur proposition du directeur des services vétérinaires, un arrêté portant déclaration d'infection des exploitations identifiées à risques au terme de l'enquête épidémiologique visée à l'article 8.
 
 La mise sous surveillance de(s) l'exploitation(s) non considérée(s) à risques au terme de cette même enquête est levée.
 

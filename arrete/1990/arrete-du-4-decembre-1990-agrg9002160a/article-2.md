@@ -27,3 +27,13 @@ b) Visite par le vétérinaire sanitaire d'une exploitation placée sous arrêt�
 c) Marquage des bovins présents dans une exploitation à risques ou originaires d'une exploitation à risques : par bovin marqué, un dixième du montant de l'acte médical défini par l'ordre des vétérinaires.
 
 Pour les déplacements afférents aux visites mentionnées aux paragraphes 1 et 2 ci-dessus du présent article, les vétérinaires sanitaires perçoivent des indemnités kilométriques calculées selon les mêmes modalités que celles applicables aux fonctionnaires et agents de l'Etat conformément aux dispositions du décret n° 90-437 du 28 mai 1990.
+
+3. Lors de surveillance épidémiologique de l'ESB sur les bovins âgés de vingt-quatre mois et plus :
+
+a) Pour les opérations prévues à l'article 4 bis de l'arrêté du 3 décembre 1990 susvisé, par visite, trois fois le montant de l'acte médical défini par l'ordre des vétérinaires ;
+
+b) Pour les opérations prévues à l'article 4 ter du même arrêté, les honoraires de consultation restant à la charge de l'éleveur, cinq fois le montant de l'acte médical défini par l'ordre des vétérinaires. Ce tarif couvre la fourniture des produits et matériels nécessaires à l'euthanasie ;
+
+c) Pour le prélèvement de système nerveux central, deux fois le montant de l'acte médical défini par l'ordre des vétérinaires. Ce tarif s'entend hors matériel à usage unique spécifiquement nécessaire au prélèvement.
+
+Ces montants sont fixés hors taxe et comprennent les frais de déplacement.

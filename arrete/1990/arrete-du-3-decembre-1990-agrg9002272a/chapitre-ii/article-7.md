@@ -15,3 +15,5 @@ L'(les) exploitation(s) ayant détenu l'animal suspect est (sont) placée(s) sou
 En cas d'euthanasie, le cadavre de l'animal suspect est détruit après exécution des prélèvements nécessaires conformément à la procédure décrite à l'article 4 (paragraphe 1) ci-dessus ;
 
 5. Il fait procéder à la destruction du lait de l'animal suspect.
+
+Le directeur des services vétérinaires met en oeuvre les mesures des points 2, 3 et 5, lorsque la suspicion fait suite au résultat non négatif à un test de dépistage autre que ceux mentionnés au point b de l'article 1er du présent arrêté. Dans ce cas, la carcasse, les abats et les viscères sont retirés de la consommation.

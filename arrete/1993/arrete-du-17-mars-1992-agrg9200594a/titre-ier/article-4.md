@@ -50,9 +50,9 @@ e) Des locaux frigorifiques suffisamment vastes comportant des dispositifs rési
 
 f) Des locaux fermant à clé réservés :
 
-- à l'hébergement des animaux malades ou suspects situés dans un emplacement adéquat et équipés d'un dispositif d'écoulement distinct ;
+- à l'hébergement des animaux découverts malades au sens de l'arrêté du 9 juin 2000 relatif à l'abattage des animaux de boucherie accidentés après leur introduction à l'abattoir ainsi que des animaux suspects, situés dans un emplacement adéquat et équipés d'un dispositif d'écoulement distinct ;
 
-- à l'abattage de ces animaux. Ce local doit être suffisamment aménagé ;
+- à l'abattage des animaux accidentés au sens de l'arrêté du 9 juin 2000 précité. Ce local doit être suffisamment aménagé ;
 
 - à l'entreposage des viandes consignées ;
 
