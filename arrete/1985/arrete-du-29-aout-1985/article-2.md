@@ -1,3 +1,5 @@
 # Article 2
 
-L'inspecteur général des finances, chargé du service des alcools est chargé de l'exécution du présent arrêté, qui prendra effet à compter du 1er septembre 1985 [*date point de départ*] et sera publié au Journal officiel de la République française.
+Les deux exemplaires sont respectivement placés dans chacun des deux compartiments d'une enveloppe double spéciale conforme au modèle annexé au présent arrêté.
+
+L'enveloppe remplie ne doit pas avoir une épaisseur de plus de 5 millimètres.  Elle ne doit contenir aucune partie dure ou métallique.

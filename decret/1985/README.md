@@ -316,6 +316,7 @@
 - [Décret n°85-799 du 29 juillet 1985](decret-n85-799-du-29-juillet-1985)
 - [Décret n°85-556 du 29 mai 1985](decret-n85-556-du-29-mai-1985)
 - [Décret n°85-569 du 29 mai 1985](decret-n85-569-du-29-mai-1985)
+- [Décret n°85-1054 du 30 septembre 1985](decret-n85-1054-du-30-septembre-1985)
 - [Décret n°85-1059 du 30 septembre 1985](decret-n85-1059-du-30-septembre-1985)
 - [Décret n°85-805 du 30 juillet 1985](decret-n85-805-du-30-juillet-1985)
 - [Décret n°85-819 du 30 juillet 1985](decret-n85-819-du-30-juillet-1985)
