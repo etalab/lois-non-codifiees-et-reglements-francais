@@ -11,6 +11,7 @@
 - [Décret n°55-543 du 14 mai 1955](decret-n55-543-du-14-mai-1955)
 - [Décret n°54-1139 du 17 novembre 1954](decret-n54-1139-du-17-novembre-1954)
 - [Décret n°55-1103 du 17 août 1955](decret-n55-1103-du-17-aout-1955)
+- [Décret n°55-806 du 17 juin 1955](decret-n55-806-du-17-juin-1955)
 - [Décret n°54-1032 du 19 octobre 1954](decret-n54-1032-du-19-octobre-1954)
 - [Décret n°55-603 du 20 mai 1955](decret-n55-603-du-20-mai-1955)
 - [Décret n°55-604 du 20 mai 1955](decret-n55-604-du-20-mai-1955)
