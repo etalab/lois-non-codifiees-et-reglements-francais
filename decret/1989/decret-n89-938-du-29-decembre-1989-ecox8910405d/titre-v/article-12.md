@@ -1,3 +1,3 @@
 # Article 12
 
-Les modalités d'application du présent décret sont précisées par arrêtés du ministre chargé de l'économie et, en tant que de besoin, du ministre chargé des départements et territoires d'outre-mer.
+Les investissements directs étrangers réalisés dans des entreprises existantes et ne relevant pas de l'article 11 ci-dessus sont soumis à l'autorisation préalable du ministre chargé de l'économie. Cette autorisation est réputée acquise un mois après la réception de la déclaration d'investissement présentée au ministre chargé de l'économie, sauf si celui-ci a, dans ce même délai, prononcé l'ajournement de l'opération concernée. Le ministre chargé de l'économie peut renoncer au droit d'ajournement avant l'expiration du délai fixé par le présent article.

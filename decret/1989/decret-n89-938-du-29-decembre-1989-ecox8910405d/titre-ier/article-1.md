@@ -17,3 +17,13 @@ Les personnes physiques ayant leur principal centre d'intérêt en France, les f
 4° Non-résidents.
 
 Les personnes physiques ayant leur principal centre d'intérêt à l'étranger, les fonctionnaires et autres agents publics étrangers en poste en France et les personnes morales françaises ou étrangères pour leurs établissements à l'étranger. Les personnes physiques de nationalité française, à l'exception des fonctionnaires et autres agents publics en poste à l'étranger, acquièrent la qualité de non-résident dès leur installation à l'étranger.
+
+5° Investissements directs :
+
+a) L'achat, la création ou l'extension de fonds de commerce, de succursales ou de toute entreprise à caractère personnel ;
+
+b) Toutes autres opérations lorsque, seules ou à plusieurs, concomitantes ou successives, elles ont pour effet de permettre à une ou plusieurs personnes de prendre ou d'accroître, en fait, le contrôle d'une société exerçant une activité industrielle, agricole, commerciale, financière ou immobilière, quelle qu'en soit la forme, ou d'assurer l'extension d'une telle société déjà sous leur contrôle.
+
+Sont considérées comme investissements directs étrangers en France les opérations relevant des alinéas a et b ci-dessus, réalisées par des non-résidents, par des sociétés sous contrôle étranger direct ou indirect, ou par des établissements en France de sociétés étrangères ainsi que par cession entre non-résidents d'une participation dans le capital d'une société résidente.
+
+Toutefois, pour l'application du titre V, n'est pas considérée comme investissement direct la seule participation, lorsqu'elle n'excède pas 20 p. 100, dans le capital d'une société dont les titres sont cotés en bourse.
