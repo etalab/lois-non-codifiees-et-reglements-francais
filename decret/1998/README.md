@@ -346,7 +346,6 @@
 - [Décret n°98-26 du 12 janvier 1998 (EQUA9701982D)](decret-n98-26-du-12-janvier-1998-equa9701982d)
 - [Décret n°98-32 du 12 janvier 1998 (MESA9723484D)](decret-n98-32-du-12-janvier-1998-mesa9723484d)
 - [Décret n°98-33 du 12 janvier 1998 (ECOT9751645D)](decret-n98-33-du-12-janvier-1998-ecot9751645d)
-- [Décret n°98-455 du 12 juin 1998 (MESF9810637D)](decret-n98-455-du-12-juin-1998-mesf9810637d)
 - [Décret n°98-456 du 12 juin 1998 (MESF9810638D)](decret-n98-456-du-12-juin-1998-mesf9810638d)
 - [Décret n°98-460 du 12 juin 1998 (EQUT9800728D)](decret-n98-460-du-12-juin-1998-equt9800728d)
 - [Décret n°98-478 du 12 juin 1998 (MESH9821565D)](decret-n98-478-du-12-juin-1998-mesh9821565d)

@@ -200,7 +200,6 @@
 - [Décret n°82-1009 du 26 novembre 1982](decret-n82-1009-du-26-novembre-1982)
 - [Décret n°82-1028 du 26 novembre 1982](decret-n82-1028-du-26-novembre-1982)
 - [Décret n°82-194 du 26 février 1982](decret-n82-194-du-26-fevrier-1982)
-- [Décret n°82-203 du 26 février 1982](decret-n82-203-du-26-fevrier-1982)
 - [Décret n°82-268 du 26 mars 1982](decret-n82-268-du-26-mars-1982)
 - [Décret n°82-277 du 26 mars 1982](decret-n82-277-du-26-mars-1982)
 - [Décret n°82-280 du 26 mars 1982](decret-n82-280-du-26-mars-1982)
