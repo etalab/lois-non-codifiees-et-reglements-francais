@@ -1,0 +1,3 @@
+# Article 9
+
+La dotation d'installation en agriculture peut être refusée par le représentant de l'Etat, après avis de la commission territoriale d'orientation de l'agriculture, si, compte tenu de la situation économique et financière du candidat, elle n'est manifestement pas nécessaire à l'installation du jeune agriculteur.    Si le revenu du bénéficiaire au moment de l'examen de son dossier pour l'octroi du deuxième versement dépasse le double du salaire minimum interprofessionnel garanti territorial, le représentant de l'Etat peut, après avis de la commission mixte, lui refuser le bénéfice du deuxième versement.
