@@ -348,6 +348,7 @@
 - [Arrêté du 24 mars 1988 (MCCK8800184A)](arrete-du-24-mars-1988-mcck8800184a)
 - [Arrêté du 24 novembre 1987 (ENVN8700240A)](arrete-du-24-novembre-1987-envn8700240a)
 - [Arrêté du 24 novembre 1987 (ENVN8700241A)](arrete-du-24-novembre-1987-envn8700241a)
+- [Arrêté du 24 mai 1988 (PRMG8805034A)](arrete-du-24-mai-1988-prmg8805034a)
 - [Arrêté du 25 avril 1988 (ASET8803358A)](arrete-du-25-avril-1988-aset8803358a)
 - [Arrêté du 25 avril 1988 (MCCK8800270A)](arrete-du-25-avril-1988-mcck8800270a)
 - [Arrêté du 25 février 1988 (ASEA8800348A)](arrete-du-25-fevrier-1988-asea8800348a)
