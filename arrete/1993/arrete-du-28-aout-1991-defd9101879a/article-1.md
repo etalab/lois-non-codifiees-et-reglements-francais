@@ -10,11 +10,13 @@ Ces fonctions sont les suivantes :
 
 - commandant de la force logistique terrestre ;
 
+- commandant de la doctrine et de l'enseignement militaire supérieur de l'armée de terre ;
+
 - commandant de circonscription militaire de défense ;
 
-- commandant des organismes de formation de l'armée de terre.
+- commandant des organismes de formation de l'armée de terre ;
 
-- commandant des forces françaises stationnées en Allemagne.
+- commandant des forces françaises stationnées en Allemagne ;
 
 - commandant supérieur dans les départements et territoires d'outre-mer ;
 
