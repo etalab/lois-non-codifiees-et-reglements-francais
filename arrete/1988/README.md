@@ -46,6 +46,7 @@
 - [Arrêté du 3 juin 1988 (MENL8800818A)](arrete-du-3-juin-1988-menl8800818a)
 - [Arrêté du 3 mars 1988 (COMA8800011A)](arrete-du-3-mars-1988-coma8800011a)
 - [Arrêté du 3 novembre 1987 (ECOC8700123A)](arrete-du-3-novembre-1987-ecoc8700123a)
+- [Arrêté du 3 novembre 1988 (PTTT8800946A)](arrete-du-3-novembre-1988-pttt8800946a)
 - [Arrêté du 3 octobre 1988 (SPSP8801520A)](arrete-du-3-octobre-1988-spsp8801520a)
 - [Arrêté du 3 mai 1988 (ECOC8800037A)](arrete-du-3-mai-1988-ecoc8800037a)
 - [Arrêté du 3 mai 1988 (PTTT8800412A)](arrete-du-3-mai-1988-pttt8800412a)
