@@ -56,6 +56,7 @@
 - [Décret n°99-70 du 2 février 1999 (ECOF9900002D)](decret-n99-70-du-2-fevrier-1999-ecof9900002d)
 - [Décret n°99-73 du 2 février 1999 (DEFP9802208D)](decret-n99-73-du-2-fevrier-1999-defp9802208d)
 - [Décret n°99-74 du 2 février 1999 (EQUA9900049D)](decret-n99-74-du-2-fevrier-1999-equa9900049d)
+- [Décret n°99-925 du 2 novembre 1999 (MESP9922283D)](decret-n99-925-du-2-novembre-1999-mesp9922283d)
 - [Décret du 3 août 1999 (ECOI9900310D)](decret-du-3-aout-1999-ecoi9900310d)
 - [Décret n°2000-984 du 3 octobre 2000 (RECF0072173D)](decret-n2000-984-du-3-octobre-2000-recf0072173d)
 - [Décret n°2001-810 du 3 septembre 2001 (AGRA0101198D)](decret-n2001-810-du-3-septembre-2001-agra0101198d)
