@@ -11,3 +11,5 @@ Des contrats particuliers fixent les moyens de mise en oeuvre des actions défin
 Les contrats conclus entre l'Etat, d'une part, et des collectivités territoriales, des entreprises ou d'autres personnes morales, d'autre part, doivent être communiqués aux régions concernées.
 
 L'Etat peut subordonner la conclusion du contrat de plan avec une entreprise à l'inclusion dans ce contrat de la définition des principales orientations stratégiques de l'entreprise et à la mise en évidence de leur comptabilité avec les objectifs du plan de la nation. Avant sa conclusion, le projet de contrat de plan est transmis pour information aux institutions représentatives du personnel qui sont également informées des conditions de l'exécution du contrat.
+
+Le contrat de plan avec une entreprise comporte obligatoirement des clauses tendant au développement de l'effort de recherche et d'innovation technologique, prévoyant un programme de recrutement de personnels de recherche et organisant, notamment par la sous-traitance, les transferts de technologie, au profit des petites et moyennes industries.
