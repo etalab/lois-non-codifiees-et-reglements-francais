@@ -2,6 +2,7 @@
 
 - [Modes de pêche - filets et engins prohibés](modes-de-peche)
 - [Taille réglementaire des poissons](taille-reglementaire)
+- [Article 23](article-23.md)
 - [Article 24](article-24.md)
 - [Article 25](article-25.md)
 - [Alevinage](alevinage)
