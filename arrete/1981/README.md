@@ -23,6 +23,7 @@
 - [Arrêté du 18 décembre 1980](arrete-du-18-decembre-1980)
 - [Arrêté du 18 février 1981](arrete-du-18-fevrier-1981)
 - [Arrêté du 19 février 1981](arrete-du-19-fevrier-1981)
+- [Arrêté du 19 janvier 1981](arrete-du-19-janvier-1981)
 - [Arrêté du 20 août 1980](arrete-du-20-aout-1980)
 - [Arrêté du 20 février 1981](arrete-du-20-fevrier-1981)
 - [Arrêté du 20 janvier 1981](arrete-du-20-janvier-1981)
