@@ -61,3 +61,5 @@ Des courants de moyenne et basse fréquence.
 24° Rééducation orthoptique.
 
 25° Rééducation de la parole et du langage.
+
+26° Le maniement des appareils servant à enregistrer le pouls.
