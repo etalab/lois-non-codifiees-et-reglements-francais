@@ -1,3 +1,0 @@
-# Article 1
-
-A compter du 1er février 1945 [*date*] la rémunération maxima susceptible d'être allouée aux fonctionnaires, agents et ouvriers des départements et communes et de leurs établissements publics à l'exclusion des hôpitaux et hospices publics et des caisses de crédit municipal, sera déterminée par un ou plusieurs barèmes types qui feront l'objet d'arrêtés concertés du ministre de l'intérieur et du ministre de l'économie et des finances et, éventuellement, du ministre de la santé publique, après avis de la section compétente du conseil national des services publics départementaux et communaux.

@@ -1,3 +1,0 @@
-# Article 7
-
-Dans les administrations, services ou entreprises dans lesquels, en vertu soit d'une disposition législative ou réglementaire, soit d'un statut particulier, soit d'une convention collective du travail, il existe des avantages fondés sur la durée du service, notamment en ce qui concerne l'avancement, l'augmentation des traitements ou des salaires, l'allocation des primes, les personnes visées à l'article 1er sont considérées comme ayant fait partie des administrations, services ou entreprises pendant tout le temps qui s'est écoulé entre leur départ et la date de leur réintégration.

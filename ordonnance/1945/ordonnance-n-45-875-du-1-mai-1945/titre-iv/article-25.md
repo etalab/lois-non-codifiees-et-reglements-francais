@@ -1,3 +1,0 @@
-# Article 25
-
-Lorsque l'intéressé a été pourvu, dans un établissement autre que son établissement d'origine, d'un emploi comportant un salaire horaire ou mensuel inférieur an salaire garanti, soit lorsqu'il a été admis dans un centre de réadaptation professionnelle, la rémunération garantie est versée en totalité par l'employeur ou par la centre de réadaptation professionnelle. La part de cette rémunération correspondant à l'emploi qu'il occupe ou, dans le cas de réadaptation professionnelle. La valeur des services rendus, ainsi que les charges sociales afférentes restent seules à la charge de l'employeur ou du centre de réadaptation professionnelle, l'autre part de cette rémunération et des charges sociales est remboursée par l'Etat.

@@ -1,5 +1,0 @@
-# Article 15
-
-Les agents [*chargés du contrôle - pouvoirs d'investigation*] visés à l'article 6 (Par. 1° et 2°) peuvent exiger la communication, en quelque main qu'ils se trouvent, et procéder à la saisie des documents de toute nature (comptabilité, copies de lettres, carnets de chèques, traites, comptes en banque, etc.), propres à faciliter l'accomplissement de leur mission. Ils ont le droit de prélever des échantillons.
-
-Les agents de la direction générale du commerce intérieur et des prix, de la direction générale des impôts, de la direction générale des douanes et droit indirects, du service de la répression des fraudes et du service des instruments de mesure peuvent également [*pouvoirs d'investigation*], sans se voir opposer le secret professionnel, consulter tous les documents dans les administrations ou offices de l'Etat, des départements et des communes, les établissements publics et assimilés, les établissements et organismes placés sous le contrôle de l'Etat, ainsi que les entreprises et services concédés par l'Etat, les départements et les communes [*collectivités locales*].
