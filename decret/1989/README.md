@@ -43,6 +43,7 @@
 - [Décret n°88-344 du 11 avril 1988 (MENF8800447D)](decret-n88-344-du-11-avril-1988-menf8800447d)
 - [Décret n°88-345 du 11 avril 1988 (MENF8800448D)](decret-n88-345-du-11-avril-1988-menf8800448d)
 - [Décret n°88-346 du 11 avril 1988 (MENF8800449D)](decret-n88-346-du-11-avril-1988-menf8800449d)
+- [Décret n°88-865 du 11 août 1988 (TRSX8810712D)](decret-n88-865-du-11-aout-1988-trsx8810712d)
 - [Décret n°90-809 du 11 septembre 1990 (ACVE9050015D)](decret-n90-809-du-11-septembre-1990-acve9050015d)
 - [Décret n°89-27 du 12 janvier 1989 (MAEJ8830083D)](decret-n89-27-du-12-janvier-1989-maej8830083d)
 - [Décret n°89-28 du 12 janvier 1989 (MAEJ8830084D)](decret-n89-28-du-12-janvier-1989-maej8830084d)
