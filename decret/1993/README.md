@@ -91,7 +91,6 @@
 - [Décret n°93-1220 du 5 novembre 1993 (RESM9301305D)](decret-n93-1220-du-5-novembre-1993-resm9301305d)
 - [Décret n°93-1224 du 5 novembre 1993 (INTF9300549D)](decret-n93-1224-du-5-novembre-1993-intf9300549d)
 - [Décret n°93-1228 du 5 novembre 1993 (MENF9305940D)](decret-n93-1228-du-5-novembre-1993-menf9305940d)
-- [Décret n°93-15 du 5 janvier 1993 (MENB9200439D)](decret-n93-15-du-5-janvier-1993-menb9200439d)
 - [Décret n°93-169 du 5 février 1993 (ENVP9310008D)](decret-n93-169-du-5-fevrier-1993-envp9310008d)
 - [Décret n°93-172 du 5 février 1993 (PRMX9300071D)](decret-n93-172-du-5-fevrier-1993-prmx9300071d)
 - [Décret n°93-173 du 5 février 1993 (INTB9300051D)](decret-n93-173-du-5-fevrier-1993-intb9300051d)
