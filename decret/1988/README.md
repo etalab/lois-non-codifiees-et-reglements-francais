@@ -14,6 +14,7 @@
 - [Décret n°88-944 du 5 octobre 1988 (INTX8800128D)](decret-n88-944-du-5-octobre-1988-intx8800128d)
 - [Décret n°88-945 du 5 octobre 1988 (INTX8800129D)](decret-n88-945-du-5-octobre-1988-intx8800129d)
 - [Décret n°88-946 du 5 octobre 1988 (DOMX8800130D)](decret-n88-946-du-5-octobre-1988-domx8800130d)
+- [Décret n°88-948 du 5 octobre 1988 (AGRS8801681D)](decret-n88-948-du-5-octobre-1988-agrs8801681d)
 - [Décret n°88-574 du 5 mai 1988 (ASES8800657D)](decret-n88-574-du-5-mai-1988-ases8800657d)
 - [Décret n°74-930 du 6 novembre 1974](decret-n74-930-du-6-novembre-1974)
 - [Décret n°88-600 du 6 mai 1988 (JUSD8830034D)](decret-n88-600-du-6-mai-1988-jusd8830034d)
