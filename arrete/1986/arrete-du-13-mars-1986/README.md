@@ -1,15 +1,11 @@
-# Arrêté du 13 mars 1986 relatif aux aides de l'Etat à la construction de logements évolutifs sociaux (L.E.S.) dans les départements d'outre-mer
+# Arrêté du 13 mars 1986 relatif aux plafonds de ressources des bénéficiaires de primes et prêts spéciaux accordés en vue de faciliter l'accession à la propriété dans les départements d'outre-mer
 
 - [Article 1](article-1.md)
-- [TITRE Ier : CARACTERISTIQUES TECHNIQUES ET DE PRIX DES LOGEMENTS EVOLUTIFS SOCIAUX.](titre-ier)
-- [TITRE II : FINANCEMENT DU LOGEMENT](titre-ii)
-- [TITRE III : MODALITES D'ACCESSION A LA PROPRIETE](titre-iii)
-- [TITRE IV : VERSEMENT DE LA SUBVENTION ET DISPOSITIONS DIVERSES.](titre-iv)
+- [Article 2](article-2.md)
+- [Article 3](article-3.md)
+- [Article 4](article-4.md)
 - [Article 5](article-5.md)
 - [Article 6](article-6.md)
 - [Article 7](article-7.md)
 - [Article 8](article-8.md)
-- [Article 9](article-9.md)
-- [Article 10](article-10.md)
-- [Article 11](article-11.md)
-- [Article 25](article-25.md)
+- [Annexes](annexes)

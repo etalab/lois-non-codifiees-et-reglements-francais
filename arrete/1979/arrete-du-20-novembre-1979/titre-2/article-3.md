@@ -1,7 +1,11 @@
 # Article 3
 
-Pour la réalisation des travaux d'accessibilité de l'immeuble et du logement et d'adaptation du logement aux personnes handicapées physiques mentionnés à l'annexe III A de l'article 1er de l'arrêté du 16 février 1990 susvisé, le taux de la prime ne peut excéder 50 p. 100 du coût réel des travaux, dans la limite d'un montant de 40 000 F, toutes taxes comprises, par logement.
+Pour la réalisation des travaux d'amélioration du confort mentionné à l'article 1er (b) de l'arrêté du 20 novembre 1979, la prime est accordée forfaitairement par type de travaux selon le barème indiqué ci-dessous :
 
-" Pour la réalisation des travaux d'adaptation du logement aux besoins des travailleurs manuels mentionnés à l'annexe III B de l'article 1er de l'arrêté du 16 février 1990 susvisé, le taux de la prime ne peut excéder 50 p. 100 du coût réel des travaux, dans la limite d'un montant de travaux de 28 000 F, toutes taxes comprises, par logement.
+Francs.
 
-" En cas de réalisation, dans un même logement, de travaux mentionnés aux annexes I et III de l'article 1er de l'arrêté du 16 février 1990 susvisé, les primes afférentes à ces travaux peuvent être cumulées, chacune devant respecter les limites fixées à l'article 2 ci-dessus et au premier ou au deuxième alinéa du présent article. "
+Production d'eau chaude pour cuisine et salle de bains.                                                   500    Installation d'un évier.                                 700    Installation d'un lavabo.                                500    Installation d'un W.-C. intérieur.                     1.500    Création d'une salle d'eau ou d'une salle de bains.                                                    4.000    Installation complète du chauffage central (sauf électrique) (par mètre cube chauffé)                  25    Chauffage central tout électrique (par mètre cube chauffé).                                             10    En cas de chauffage par point :
+
+Radiateur à gaz ou radiateur électrique à accumulation (par mètre cube chauffé)                 12    Isolation thermique des toitures ou combles (par mètre carré de surface isolée)                   20    Raccordement aux réseaux existants ou adduction d'eau privée (par mètre lunéaire dans la limite de 35 mètres)                                            50    Installation d'une fosse septique                 770    Création d'un vide sanitaire (par mètre carré)     55    Travaux de couverture rendus nécessaires par des défauts d'étanchéité compromettant l'usage du logement et réalisés au moyen de matériaux conformes aux caractéristiques architecturales locales (par mètre carré, dans la limite de 150 mètres carrés).    60
+
+Le montant total de la prime forfaitaire ne peut excéder 12.000 F par logement.

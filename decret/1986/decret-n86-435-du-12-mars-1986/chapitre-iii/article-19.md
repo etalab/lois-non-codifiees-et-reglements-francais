@@ -4,4 +4,4 @@ Le bureau du syndicat interhospitalier éventuellement constitué suivant les di
 
 Le conseil d'administration du syndicat élit au scrutin secret majoritaire à un tour, en son sein, les membres du bureau et désigne le président.
 
-Le commissaire de la République chargé de la tutelle établit par arrêté la liste nominative des membres du bureau.
+Le préfet chargé de la tutelle établit par arrêté la liste nominative des membres du bureau.

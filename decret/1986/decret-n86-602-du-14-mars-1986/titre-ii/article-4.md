@@ -2,15 +2,15 @@
 
 Le conseil départemental de santé mentale comprend :
 
-1° Le commissaire de la République du département ;
+1° Le préfet du département ;
 
-2° Trois fonctionnaires de l'Etat désignés par le commissaire de la République du département, dont le médecin inspecteur de la santé chargé des problèmes de santé mentale dans le département ;
+2° Trois fonctionnaires de l'Etat désignés par le préfet du département, dont le médecin inspecteur de la santé chargé des problèmes de santé mentale dans le département ;
 
 3° Le médecin conseil régional du régime général de sécurité sociale ou un médecin conseil désigné par lui et cinq représentants des régimes d'assurance maladie, dont trois désignés par la caisse régionale d'assurance maladie, un par la Caisse de mutualité sociale agricole et un par la caisse mutuelle régionale dans le ressort desquelles siège le conseil départemental de santé mentale ;
 
 4° Trois conseillers généraux désignés par le conseil général dont un membre du conseil d'administration d'un centre hospitalier spécialisé ;
 
-5° Un directeur de centre hospitalier spécialisé et un directeur d'établissement hospitalier public comportant une ou plusieurs unités de psychiatrie, désignés par le commissaire de la République du département ;
+5° Un directeur de centre hospitalier spécialisé et un directeur d'établissement hospitalier public comportant une ou plusieurs unités de psychiatrie, désignés par le préfet du département ;
 
 6° Deux maires du département ;
 

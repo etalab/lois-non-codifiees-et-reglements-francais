@@ -1,3 +1,3 @@
 # Article 4
 
-Lorsqu'un pêcheur professionnel en eau douce veut s'associer avec un cofermier pour exploiter un lot, le cofermier doit cosigner la demande de location et joindre à celle-ci les pièces indiquées à l'article 3 ci-dessus.
+Les membres de la commission technique départementale de la pêche désignés par le préfet sont nommés pour la durée des baux consentis par l'Etat pour l'exploitation de son droit de pêche.

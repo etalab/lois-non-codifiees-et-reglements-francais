@@ -1,3 +1,5 @@
 # Article 2
 
-L'arrêté du 11 octobre 1950 concernant les conditions d'étiquetage des récipients contenant du bromure de méthyle est abrogé.
+L'autorisation est délivrée, après avis du Conseil national de la protection de la nature, par le préfet du département où se situe l'établissement de production ou de prélèvement de grenouilles [*autorité compétente*].
+
+L'autorisation est délivrée pour une période de trois années [*durée*].

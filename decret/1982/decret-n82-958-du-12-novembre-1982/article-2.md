@@ -8,7 +8,7 @@ Un membre du conseil général élu par cette assemblée ;
 
 Les maires du département de Saint-Pierre-et-Miquelon, chacun d'eux désignant un suppléant parmi les membres de son conseil municipal ;
 
-Un fonctionnaire de l'Etat, désigné par le commissaire de la République ;
+Un fonctionnaire de l'Etat, désigné par le préfet ;
 
 Le chef du quartier des affaires maritimes représentant l'établissement national des invalides de la marine ;
 

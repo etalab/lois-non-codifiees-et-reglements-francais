@@ -1,0 +1,7 @@
+# Article 8
+
+Le comité de massif constitue en son sein une commission spécialisée chargée d'émettre un avis sur les projets d'unité touristique nouvelle. Cette commission est composée, outre le préfet de la région Lorraine qui la préside, de quinze membres au maximum [*nombre*].
+
+La commission spécialisée entend les auteurs de la demande de création d'unité touristique nouvelle ainsi que toute personne ou organisme dont elle estime nécessaire de recueillir les observations.
+
+Les avis de la commission spécialisée sont adoptés à la majorité des membres présents ; son président ne prend pas part au vote.

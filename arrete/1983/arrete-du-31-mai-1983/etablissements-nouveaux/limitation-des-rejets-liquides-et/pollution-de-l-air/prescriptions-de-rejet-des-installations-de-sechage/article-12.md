@@ -14,7 +14,7 @@ Pour les tours nouvelles, la concentration résiduelle de poussières ne devra p
 
 Toutefois, pour les tours nouvelles à installer à plus de 600 mètres d'agglomérations ou de limites de zone réservée à la construction dans un document d'urbanisme, les émissions de poussières ne devront pas dépasser 10 kilogrammes par heure de fonctionnement pour l'ensemble des installations nouvelles d'un même site.
 
-On entend par installations nouvelles [*définition*] celles dont l'autorisation sera postérieure à la publication de la présente instruction.
+On entend par installations nouvelles celles dont l'autorisation sera postérieure à la publication de la présente instruction.
 
 Contrôle des rejets :
 

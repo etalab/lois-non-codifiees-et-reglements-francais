@@ -1,0 +1,3 @@
+# Article 9
+
+L'association est gérée par un conseil d'administration composé de (6 à 15) membres élus, à bulletins secrets et sous le contrôle du préfet du département du siège social, lors du mois de février, deuxième mois suivant la date d'expiration des baux de pêche consentis par l'Etat sur le domaine public. Les administrateurs élus sont les candidats ayant réuni le plus de suffrages.    Il est procédé à une élection complémentaire lorsque le nombre de postes vacants d'administrateurs est devenu supérieur à trois avant les six derniers mois de l'expiration du mandat. Le mandat des administrateurs nouveaux ainsi élus expire également à l'échéance fixée à l'article 11.

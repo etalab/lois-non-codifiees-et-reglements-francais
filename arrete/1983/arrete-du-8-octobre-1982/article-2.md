@@ -1,6 +1,6 @@
 # Article 2
 
-L'autorisation prévue à l'article 1er ci-dessus est délivrée par le ministre chargé de la protection de la nature ou son délégué au vu d'une demande mentionnant :
+L'autorisation prévue à l'article 1er ci-dessus est délivrée par le préfet du département de situation de l'installation au vu d'une demande mentionnant :
 
 Les nom et qualité du demandeur ;
 
@@ -12,4 +12,4 @@ Les caractéristiques des installations destinées à recevoir les animaux, nota
 
 Ces indications sont reportées sur l'autorisation.
 
-La demande est accompagnée d'un spécimen de la marque que l'éleveur se propose d'utiliser pour répondre aux conditions de l'article 5 du présent arrêté et dont le modèle devra être agréé par le ministre.
+La demande est accompagnée d'un spécimen de la marque que l'éleveur se propose d'utiliser pour répondre aux conditions de l'article 5 du présent arrêté et dont le modèle devra être agréé par le ministre chargé de la protection de la nature.

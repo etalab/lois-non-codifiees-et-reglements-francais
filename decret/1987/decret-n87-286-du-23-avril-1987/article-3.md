@@ -2,7 +2,7 @@
 
 Un comité de coordination est placé auprès du délégué interministériel.
 
-Il comporte [*composition*] :
+Il comporte :
 
 - les deux représentants du ministre chargé de l'économie et des finances au conseil d'administration de l'établissement public d'aménagement du secteur IV de Marne-la-Vallée ;
 
@@ -28,6 +28,6 @@ Il comporte [*composition*] :
 
 - le président de l'établissement public d'aménagement du secteur IV de Marne-la-Vallée ou son représentant.
 
-Le commissaire de la République de la région d'Ile-de-France, le commissaire de la République du département de Seine-et-Marne et le directeur de l'établissement public d'aménagement du secteur IV de Marne-la-Vallée, ou leurs représentants, assistent de droit aux séances du comité.
+Le préfet de la région d'Ile-de-France, le préfet du département de Seine-et-Marne et le directeur de l'établissement public d'aménagement du secteur IV de Marne-la-Vallée, ou leurs représentants, assistent de droit aux séances du comité.
 
 Le comité peut en outre faire participer à ses travaux toute personne dont il estime la collaboration utile.

@@ -1,13 +1,5 @@
 # Article 2
 
-Le traitement mentionné dans le présent arrêté doit être porté à la connaissance des acheteurs de la manière suivante :
+Les organismes délégataires adressent immédiatement copie de chaque autorisation de transfert ou de maintien au préfet (direction départementale de l'équipement).
 
-Dans le commerce de gros par l'une des mentions suivantes inscrite sur les emballages et sur les fiches, bons de livraison ou documents commerciaux remis au destinataire de la marchandise :
-
-"agent d'enrobage : E 473, E 466, E 471"
-
-ou
-
-"agent d'enrobage : sucroesters, carboxyméthylcellulose et mono et diglycérides d'acides gras" ;
-
-Dans le commerce de détail par la même mention inscrite sur le préemballage ou sur une étiquette liée à celui-ci lorsque les produits sont préemballés et sur une affichette, pancarte ou tout autre moyen approprié lorsque les produits sont présentés non préemballés.
+Ils lui fournissent en outre, selon une périodicité qui ne peut être supérieure à un mois, un état des ventes des logements de chaque programme ayant fait l'objet d'une décision favorable.

@@ -10,4 +10,4 @@ Les sanctions disciplinaires applicables aux assistants des hôpitaux sont :
 
 4° Le licenciement.
 
-L'avertissement et le blâme sont prononcés par le directeur de l'établissement après avis de la commission médicale d'établissement. Les autres sanctions [*autorité compétente*] sont prononcées par le commissaire de la République du département, sur proposition du médecin inspecteur régional, après avis de la commission médicale d'établissement et du directeur de l'établissement.
+L'avertissement et le blâme sont prononcés par le directeur de l'établissement après avis de la commission médicale d'établissement. Les autres sanctions sont prononcées par le préfet du département, sur proposition du médecin inspecteur régional, après avis de la commission médicale d'établissement et du directeur de l'établissement.

@@ -1,3 +1,5 @@
 # Article 3
 
-Le présent arrêté est applicable aux opérations faisant l'objet d'une décision favorable postérieurement à la date de sa publication [*champ d'application*].
+Dans le cas d'une importation de déchets sous le régime d'un transport sous transit direct de frontière à frontière, le transporteur adresse la déclaration préalable prévue ci-dessus au ministre chargé de l'environnement en trois exemplaires (direction de la prévention des pollutions).
+
+Cette déclaration est signée conjointement par le transporteur et par le producteur.

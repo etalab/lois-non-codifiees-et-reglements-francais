@@ -6,4 +6,4 @@ La demande n'est recevable qu'après paiement de la totalité des cotisations ay
 
 Le conseil d'administration peut déléguer tout ou partie de ses pouvoirs de décision à la commission de recours amiable prévue à l'article R. 142-1 du code de la sécurité sociale.
 
-Les décisions doivent être motivées. En cas de remise totale ou partielle, elles doivent, lorsqu'elles portent sur une somme excédant un seuil fixé par arrêté du ministre de l'agriculture et du ministre chargé du budget, être approuvées par le préfet, commissaire de la République.
+Les décisions doivent être motivées. En cas de remise totale ou partielle, elles doivent, lorsqu'elles portent sur une somme excédant un seuil fixé par arrêté du ministre de l'agriculture et du ministre chargé du budget, être approuvées par le préfet.

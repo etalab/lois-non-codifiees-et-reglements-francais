@@ -1,4 +1,4 @@
-# Arrêté du 25 octobre 1984 relatif à l'emploi d'un produit d'enrobage de certains fruits
+# Arrêté du 25 octobre 1984 relatif aux autorisations de transfert ou de maintien du préfinancement concernant les logements faisant l'objet de prêts aidés par l'Etat en accession à la propriété.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

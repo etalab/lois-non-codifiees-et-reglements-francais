@@ -16,7 +16,7 @@ Ces prescriptions s'appliquent aux établissements visés par le régime d'autor
 
 Commentaire de l'article 1.
 
-Les documents mentionnés à l'article 3 du décret du 21 septembre 1977 pris pour l'application de la loi relative aux installations classées devront comporter les renseignements suivants [*contenu du dossier*] :
+Les documents mentionnés à l'article 3 du décret du 21 septembre 1977 pris pour l'application de la loi relative aux installations classées devront comporter les renseignements suivants :
 
 1. Sur la carte au 1/25000e ou au 1/50000e figurera le plan des terrains d'épandage des eaux résiduaires et, le cas échéant, des boues de la station d'épuration de l'établissement. L'inspecteur des installations classées pourra demander que le plan de ces terrains figure sur une carte disponible à une plus grande échelle si notamment des périmètres de protection des points de prélèvements d'eau destinés à l'alimentation des collectivités humaines existent au voisinage de l'épandage ;
 
@@ -30,7 +30,7 @@ Est considéré comme :
 
 - immeuble habituellement occupé, un local destiné à être utilisé temporairement par des personnes (établissement recevant du public, bureau, magasin, atelier, etc.).
 
-2.2. L'installation d'épuration des eaux résiduaires et le point de rejet de l'effluent traité dans le milieu récepteur.    3. Si l'épandage est prévu sur des terrains qui n'appartiennent pas à l'établissement, les accords écrits des propriétaires ou des exploitants agricoles des terrains sur lesquels sera réalisé l'épandage devront être joints au dossier de demande d'autorisation.
+2.2. L'installation d'épuration des eaux résiduaires et le point de rejet de l'effluent traité dans le milieu récepteur. 3. Si l'épandage est prévu sur des terrains qui n'appartiennent pas à l'établissement, les accords écrits des propriétaires ou des exploitants agricoles des terrains sur lesquels sera réalisé l'épandage devront être joints au dossier de demande d'autorisation.
 
 4. Dans le cas d'un traitement des eaux résiduaires dans une station d'épuration, il sera indiqué dans le dossier la destination des boues de la station ; épandage agricole, mise en décharge, etc..
 

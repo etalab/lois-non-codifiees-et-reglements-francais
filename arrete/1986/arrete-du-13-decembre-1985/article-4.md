@@ -1,3 +1,3 @@
 # Article 4
 
-Le directeur de la population et des migrations, le directeur du budget, le directeur de la comptabilité publique et le directeur de l'Office des migrations internationales sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+Le dossier de demande d'agrément est adressé au préfet du département du siège social, direction départementale de l'agriculture et de la forêt, qui le transmet au ministre chargé de la pêche en eau douce accompagné de son avis.

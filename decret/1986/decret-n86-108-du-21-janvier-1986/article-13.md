@@ -1,0 +1,3 @@
+# Article 13
+
+Les associations et organismes relevant des catégories définies à l'article R. 313-9 (2°, a, b et c) du code de la construction et de l'habitation et crées avant la publication du présent décret sont agréés de plein droit s'ils satisfont aux conditions édictées respectivement par les dispositions des articles R. 313-28, R. 313-34 et R. 313-35 dudit code. L'agrément est délivré au vu d'une déclaration assortie des justificatifs nécessaires, adressées au préfet dans les dix-huit mois de la publication du présent décret. Faute d'une telle déclaration, les dispositions de l'article R. 313-22 dudit code sont applicables.

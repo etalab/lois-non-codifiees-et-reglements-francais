@@ -1,0 +1,3 @@
+# Article 12
+
+En même temps qu'il est communiqué dans les conditions prévues à l'article 11 ci-dessus, le projet est mis, par décision du préfet, préfet, à la disposition du public pendant deux mois dans les mairies des communes intéressées. Cette décision [*contenu, publicité*] est affichée dans les mairies pendant la même durée et mentionnée huit jours [*délai*] au moins avant cette mise à la disposition dans deux journaux régionaux ou locaux diffusés dans les départements concernés. Elle précise la date à compter de laquelle le projet peut être consulté, les modalités de cette consultation et les conditions de recueil des observations.

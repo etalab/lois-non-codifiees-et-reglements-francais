@@ -10,6 +10,6 @@ Pour remédier aux prélèvements excessifs, tant pour l'économie de la ressour
 
 - les volumes d'eau utilisés à partir d'un réseau public d'alimentation en eau sont mesurés par le compteur dont est équipé le branchement de l'établissement ;
 
-- l'exploitant doit mettre en place au minimum un compteur horaire totalisateur sur chaque point de prélèvement dans le sol ou les cours d'eau [*obligation*].
+- l'exploitant doit mettre en place au minimum un compteur horaire totalisateur sur chaque point de prélèvement dans le sol ou les cours d'eau.
 
 Ces compteurs doivent être relevés régulièrement, toutes les semaines par exemple.

@@ -1,4 +1,4 @@
-# Arrêté du 5 mars 1986 relatif au fonds de soutien des rentes
+# Arrêté du 5 mars 1986 relatif à la pêche à la civelle
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

@@ -1,6 +1,6 @@
 # Article 4
 
-La commission est présidée par le commissaire de la République ou par le directeur régional du travail et de l'emploi ou, à défaut, par le médecin inspecteur régional du travail et de la main-d'oeuvre.
+La commission est présidée par le préfet ou par le directeur régional du travail et de l'emploi ou, à défaut, par le médecin inspecteur régional du travail et de la main-d'oeuvre.
 
 Elle se compose de quinze membres au moins et de trente membres au plus, répartis de la façon suivante :
 

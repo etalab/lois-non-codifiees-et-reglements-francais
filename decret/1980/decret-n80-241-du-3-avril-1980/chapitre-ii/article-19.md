@@ -4,4 +4,4 @@ Le fonds de la gestion administrative doit être équilibré. Les recettes du fo
 
 Le fonds de la gestion administrative supporte les charges de fonctionnement et des dépenses en capital des services de la caisse de prévoyance sociale y compris celles des services du contrôle médical.
 
-Les recettes et les dépenses du fonds de la gestion administrative donnent lieu à l'établissement d'un budget par la caisse de prévoyance sociale. Ce budget ne devient exécutoire qu'après approbation par le préfet, commissaire de la République [*condition préalable*].
+Les recettes et les dépenses du fonds de la gestion administrative donnent lieu à l'établissement d'un budget par la caisse de prévoyance sociale. Ce budget ne devient exécutoire qu'après approbation par le préfet.

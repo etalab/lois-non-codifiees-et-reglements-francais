@@ -1,3 +1,3 @@
 # Article 4
 
-Le mélange faisant l'objet du présent arrêté ne peut être mis en vente ou vendu que dans des récipients ou emballages portant les mentions prévues à l'article 4 de l'arrêté du 25 janvier 1982 susvisé.
+Sans préjudice des dispositions résultant de l'application de l'article R331-60 du code de la construction et de l'habitation, si le contrôle mentionné à l'article 3 fait apparaître qu'il n'est pas fait application des dispositions réglementaires relatives aux opérations de transfert ou de maintien, le ministre chargé de la construction et de l'habitation peut, sur proposition du préfet, rapporter, pour l'organisme en cause, les dispositions de l'article 1er du présent arrêté.

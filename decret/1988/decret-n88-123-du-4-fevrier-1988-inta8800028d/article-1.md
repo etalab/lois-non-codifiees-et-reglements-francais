@@ -1,6 +1,6 @@
 # Article 1
 
-Dans chaque département, est délégué au préfet, commissaire de la République, le pouvoir :
+Dans chaque département, est délégué au préfet, le pouvoir :
 
 1° De créer le comité d'hygiène et de sécurité local des services de la préfecture ;
 

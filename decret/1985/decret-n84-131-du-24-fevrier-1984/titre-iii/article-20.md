@@ -1,0 +1,5 @@
+# Article 20
+
+Les postes de praticien hospitalier demeurés vacants peuvent être pourvus à titre provisoire, jusqu'au recrutement suivant, par un praticien de la spécialité désigné par le commissaire de la République, sur proposition du médecin inspecteur régional de la santé, après avis de la commission médicale consultative et du directeur de l'établissement.
+
+Le praticien ainsi recruté perçoit la rémunération correspondant au premier échelon des praticiens hospitaliers. Toutefois, si le praticien recruté à titre provisoire relève du présent statut et se trouve en instance de réintégration ou d'affectation, il perçoit la rémunération correspondant à sa situation statutaire.

@@ -1,5 +1,9 @@
 # Article 1
 
-Des aides de l'Etat peuvent être accordées dans les départements d'outre-mer pour financer la construction de logements à faible coût, en accession à la propriété, dont notamment les aménagements intérieurs et la finition seront réalisés par l'accédant.
+Les plafonds de ressources des bénéficiaires de primes et prêts spéciaux prévus par l'arrêté du 13 mars 1986 susvisé sont fixés en fonction de :
 
-La construction de ces logements évolutifs sociaux pourra être assurée soit par des personnes physiques accédant directement à la propriété (secteur diffus), soit par des maîtres d'ouvrage qui les réalisent en vue de leur cession ultérieure (secteur groupé).
+- la catégorie de ménage ;
+
+- l'activité professionnelle du conjoint.
+
+Ces plafonds sont définis dans l'annexe I du présent arrêté.

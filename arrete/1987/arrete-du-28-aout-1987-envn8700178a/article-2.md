@@ -1,7 +1,11 @@
 # Article 2
 
-La demande de location du droit de pêche aux lignes présentées par une association agréée de pêche et de pisciculture doit être accompagnée d'une copie de l'agrément de l'association, d'une copie de l'agrément de son président et de celui de son trésorier.
+Lorsque la pêche professionnelle est pratiquée sur les eaux du domaine public du département, cette commission comprend en outre :
 
-Si l'association est déjà locataire d'un lot, elle doit joindre à sa demande un rapport indiquant les alevinages auxquels elle a procédé sur ce lot durant la période de location précédente. Ce rapport doit également préciser quelles ont été les mesures de surveillance mises en oeuvre par l'association.
+- soit deux membres de l'association départementale ou interdépartementale agréée des pêcheurs professionnels en eau douce dont le ressort territorial couvre le département, désignés par le préfet sur proposition du président de l'association ;
 
-Si l'association n'est pas locataire d'un lot, elle doit joindre à sa demande l'engagement signé par son président de mettre en oeuvre des mesures de surveillance et de repeuplement du lot.
+- soit, lorsque le territoire du département couvre la zone comprise entre la limite de salure des eaux et les limites de l'inscription maritime fixées le 17 juin 1938, un marin-pêcheur professionnel pratiquant la pêche dans cette zone et un pêcheur professionnel en eau douce affilié au régime de protection sociale des personnes non salariées des professions agricoles désignés par le préfet sur proposition du président de l'association mentionnée ci-dessus ;
+
+- le directeur de la caisse départementale de mutualité sociale agricole ou son représentant ;
+
+- le président de la chambre départementale d'agriculture ou son représentant.
