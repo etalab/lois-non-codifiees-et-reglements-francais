@@ -503,6 +503,7 @@
 - [Décret n°90-677 du 27 juillet 1990 (MAEJ9030056D)](decret-n90-677-du-27-juillet-1990-maej9030056d)
 - [Décret n°90-678 du 27 juillet 1990 (MAEJ9030057D)](decret-n90-678-du-27-juillet-1990-maej9030057d)
 - [Décret n°90-685 du 27 juillet 1990 (RESY9000101D)](decret-n90-685-du-27-juillet-1990-resy9000101d)
+- [Décret n°90-762 du 27 août 1990 (LOGC9000054D)](decret-n90-762-du-27-aout-1990-logc9000054d)
 - [Décret n°90-868 du 27 septembre 1990 (BUDB9010045D)](decret-n90-868-du-27-septembre-1990-budb9010045d)
 - [Décret n°91-229 du 27 février 1991 (MENF9003199D)](decret-n91-229-du-27-fevrier-1991-menf9003199d)
 - [Décret n°91-621 du 27 juin 1991 (EQUP9100372D)](decret-n91-621-du-27-juin-1991-equp9100372d)
