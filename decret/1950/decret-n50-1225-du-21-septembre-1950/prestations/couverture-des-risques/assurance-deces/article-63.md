@@ -1,0 +1,7 @@
+# Article 63
+
+L'assurance décès garantit aux ayants droit de l'assuré [*attributaires*] le payement, dès son décès, d'un capital égal à 90 fois le gain journalier de base de l'assuré déterminé à l'article 70 ci-après [*montant*]. Dans le cas où le décès de l'assuré intervient trois mois au moins après la date à laquelle il a cessé son activité [*délai*], le capital ainsi déterminé est majoré, le cas échéant, compte tenu de la variation du salaire servant d'assiette aux cotisations de l'assurance pour la catégorie professionnelle à laquelle appartient l'assuré.
+
+Le capital attribué au titre de l'assurance décès ne peut être inférieur à 1 p. 100 [*minimum*] du montant du plafond annuel retenu pour le calcul de la fraction de la cotisation des assurances sociales afférente au risque maladie, maternité, invalidité et décès qui n'est pas assise sur la totalité des rémunérations ou gains. Il ne peut être supérieur au quart du montant de ce plafond [*maximum*].
+
+Le capital décès est accordé même en cas de décès survenu soit à la suite d'un accident du travail, soit pendant le service militaire obligatoire, soit au cours d'une période d'appel sous les drapeaux ou de mobilisation, soit au cours d'une période de présence sous les drapeaux comme volontaire en temps de guerre. Il est versé aux ayants droit sous déduction du montant de l'indemnité pour frais funéraires à laquelle peuvent prétendre les intéressés, en application de la législation des accidents du travail [*non cumul*].
