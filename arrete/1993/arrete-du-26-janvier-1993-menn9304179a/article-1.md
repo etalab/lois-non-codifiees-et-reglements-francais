@@ -1,45 +1,47 @@
 # Article 1
 
-Art.1er. - La liste des disciplines, prévue à l’article 52 du décret du 24 février 1984 susvisé, dans lesquelles les candidats doivent satisfaire à une épreuve pédagogique pratique adaptée à la discipline du concours, est fixée ainsi qu’il suit :
+Art.1er. - La liste des disciplines, prévue à l’article 52 du décret du 24 février 1984 susvisé, dans lesquelles les candidats doivent satisfaire à une épreuve pédagogique pratique adaptée à la discipline du concours, est fixée ainsi qu’il suit :
 
-1° Concours de recrutement de maîtres de conférences des universités - praticiens hospitaliers :
+1° Concours de recrutement de maîtres de conférences des universités - praticiens hospitaliers :
 
-- anatomie ;
+- anatomie ;
 
-- histologie, embryologie, cytogénétique ;
+- histologie, embryologie, cytogénétique ;
 
-- anatomie et cytologie pathologiques ;
+- anatomie et cytologie pathologiques ;
 
-- radiologie et imagerie médicale ;
+- radiologie et imagerie médicale ;
 
-- médecine légale ;
+- médecine légale ;
 
-- pharmacologie fondamentale - pharmacologie clinique.
+- pharmacologie fondamentale - pharmacologie clinique.
 
 2° Concours de recrutement de professeurs des universités - praticiens hospitaliers
 
-- anatomie ;
+- anatomie ;
 
-- anatomie et cytologie pathologiques ;
+- anatomie et cytologie pathologiques ;
 
-- radiologie et imagerie médicale ;
+- radiologie et imagerie médicale ;
 
-- médecine légale ;
+- médecine légale ;
 
-- pharmacologie fondamentale-pharmacologie clinique ;
+- pharmacologie fondamentale-pharmacologie clinique ;
 
-- thérapeutique ;
+- thérapeutique ;
 
-- chirurgie orthopédique et traumatologique ;
+- chirurgie orthopédique et traumatologique ;
 
 - chirurgie vasculaire ;
 
-- urologie ;
+- urologie ;
 
-- chirurgie générale ;
+- chirurgie générale ;
 
-- chirurgie infantile ;
+- chirurgie infantile ;
 
-- gynécologie et obstétrique ;
+- gynécologie et obstétrique ;
 
-- endocrinologie et maladies métaboliques.
+- endocrinologie et maladies métaboliques ;
+
+- médecine physique et de réadaptation.
