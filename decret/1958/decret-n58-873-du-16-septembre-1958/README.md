@@ -58,6 +58,7 @@
 - [Département des *Basses-Pyrénées* Pyrénées Atlantiques](departement-des-basses-pyrenees-pyrenees-atlantiques)
 - [Département des Bouches-du-Rhône](departement-des-bouches-du-rhone)
 - [Département des Deux-Sèvres.](departement-des-deux-sevres)
+- [Département des Hautes-Alpes](departement-des-hautes-alpes)
 - [Département des Hautes-Pyrénées](departement-des-hautes-pyrenees)
 - [Département des Hauts-de-Seine](departement-des-hauts-de-seine)
 - [Département des Landes](departement-des-landes)
