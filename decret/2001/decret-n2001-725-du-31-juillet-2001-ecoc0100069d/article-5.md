@@ -16,4 +16,4 @@ f) Si nécessaire, les conditions particulières de conservation et d'utilisatio
 
 2. Les mentions prévues aux points d, e et f peuvent ne figurer que sur les documents commerciaux relatifs au lot à fournir avec la livraison (facture ou document de transport).
 
-3. Ces dispositions n'affectent pas les règles relatives à l'étiquetage des substances et préparations dangereuses.
+3. Ces dispositions n'affectent pas les règles relatives à l'étiquetage des substances et préparations dangereuses ni celles relatives à l'étiquetage des produits biocides.

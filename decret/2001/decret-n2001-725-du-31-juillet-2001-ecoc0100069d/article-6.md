@@ -2,9 +2,9 @@
 
 Il est interdit de détenir ou d'exposer en vue de la vente, de mettre en vente, de vendre ou de distribuer à titre gratuit :
 
-1° Des denrées destinées à l'alimentation de l'homme pour la préparation desquelles ont été utilisés des auxiliaires technologiques ne répondant pas aux dispositions de l'article 2 ;
+1° Des denrées destinées à l'alimentation de l'homme pour la préparation desquelles ont été utilisés des auxiliaires technologiques ne répondant pas aux dispositions de l'article 2 ou aux dispositions du décret n° 2004-187 du 26 février 2004 portant transposition de la directive 98/8/CE du Parlement européen et du Conseil du 16 février 1998 concernant la mise sur le marché des produits biocides ;
 
-2° Des auxiliaires technologiques qui ne répondent pas aux dispositions des articles 2 et 5.
+2° Des auxiliaires technologiques qui ne répondent pas aux dispositions des articles 2 et 5 ou aux dispositions du décret n° 2004-187 du 26 février 2004 portant transposition de la directive 98/8/CE du Parlement européen et du Conseil du 16 février 1998 concernant la mise sur le marché des produits biocides ;
 
 Toutefois, ces dispositions ne font pas obstacle au principe de libre circulation :
 

@@ -1,3 +1,7 @@
 # Article 11-1
 
 L'inscription sur la liste des constituants autorisés d'organismes génétiquement modifiés destinés à entrer dans la composition des produits utilisés pour le nettoyage des matériaux et objets destinés à entrer en contact avec des denrées, produits et boissons pour l'alimentation de l'homme et des animaux est soumise à une évaluation des risques pour la santé publique et l'environnement selon la procédure et dans les délais prévus au chapitre II du titre Ier du décret n° 94-46 du 5 janvier 1994 fixant les conditions de dissémination volontaire des organismes génétiquement modifiés destinés à l'alimentation humaine, autres que les plantes, les semences, les plants et les animaux, ou entrant dans la composition des produits de nettoyage des matériaux et objets destinés à entrer en contact avec des denrées, produits et boissons destinés à l'alimentation de l'homme ou des animaux.
+
+Les dispositions du présent article et celles qui sont prises pour son application sont abrogées en tant qu'elles portent sur l'inscription de constituants qui entrent dans le champ d'application du chapitre II du titre II du livre V du code de l'environnement.
+
+Toutefois, les dispositions mentionnées à l'alinéa précédent restent en vigueur dans les conditions définies au II de l'article L. 522-18 du code de l'environnement pour les substances actives et les produits biocides qui y sont mentionnés, jusqu'à l'intervention d'une décision relative à leur inscription sur les listes prévues à l'article L. 522-3 du même code.

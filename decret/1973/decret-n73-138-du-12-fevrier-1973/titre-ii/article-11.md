@@ -39,3 +39,7 @@ a) L'identification de l'organisme génétiquement modifié autorisé ;
 b) Les conditions d'emploi de l'organisme, complétées, le cas échéant, par des dispositions relatives à l'emballage, à l'étiquetage et au mode d'emploi du produit de nettoyage dans lequel il a été introduit, y compris des conditions concernant des écosystèmes ou environnements particuliers.
 
 Ce même arrêté détermine les conditions de concentration auxquelles doivent satisfaire tous les produits destinés au rinçage de la vaisselle.
+
+III. - Les dispositions du I et du II du présent article et celles qui sont prises pour leur application sont abrogées en tant qu'elles portent sur l'autorisation de mise sur le marché et d'emploi de constituants qui entrent dans le champ d'application du chapitre II du titre II du livre V du code de l'environnement et du décret pris pour son application.
+
+Toutefois, les dispositions mentionnées à l'alinéa précédent restent en vigueur dans les conditions définies au II de l'article L. 522-18 du code de l'environnement pour les substances actives et les produits biocides qui y sont mentionnés, jusqu'à l'intervention d'une décision relative à leur inscription sur les listes prévues à l'article L. 522-3 du même code.
