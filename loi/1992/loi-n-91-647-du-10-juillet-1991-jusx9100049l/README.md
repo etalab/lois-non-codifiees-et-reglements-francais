@@ -4,4 +4,5 @@
 - [Première partie : L'aide juridictionnelle](premiere-partie)
 - [Deuxième partie : L'aide à l'accès au droit.](deuxieme-partie)
 - [Troisième partie](troisieme-partie)
-- [Quatrième partie : Dispositions transitoires et diverses.](quatrieme-partie)
+- [Quatrième partie](quatrieme-partie)
+- [Cinquième partie : Dispositions transitoires et diverses.](cinquieme-partie)
