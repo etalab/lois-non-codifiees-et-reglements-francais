@@ -26,6 +26,7 @@
 - [Décret n°2005-964 du 9 août 2005 (EQUP0500685D)](decret-n2005-964-du-9-aout-2005-equp0500685d)
 - [Décret n°95-657 du 9 mai 1995 (INTX9500789D)](decret-n95-657-du-9-mai-1995-intx9500789d)
 - [Décret n°2005-15 du 10 janvier 2005 (SOCA0424457D)](decret-n2005-15-du-10-janvier-2005-soca0424457d)
+- [Décret n°78-280 du 10 mars 1978](decret-n78-280-du-10-mars-1978)
 - [Décret n°2005-20 du 11 janvier 2005 (SANH0420604D)](decret-n2005-20-du-11-janvier-2005-sanh0420604d)
 - [Décret n°2005-22 du 11 janvier 2005 (INDI0404352D)](decret-n2005-22-du-11-janvier-2005-indi0404352d)
 - [Décret n°2005-24 du 11 janvier 2005 (DOMB0400015D)](decret-n2005-24-du-11-janvier-2005-domb0400015d)
