@@ -4,6 +4,6 @@ Les fonctionnaires ayant servi en Tunisie ou au Maroc ainsi que les fonctionnair
 
 Les dispositions de l'alinéa précédent sont applicables aux personnels en activité et à la retraite ou à leurs ayants cause.
 
-Un décret fixe la composition des commissions administratives de reclassement prévues par les articles 17 et suivants de l'ordonnance n° 45-1283 du 15 juin 1945 précitée. Ces commissions sont composées paritairement de représentants de l'administration et de représentants des bénéficiaires nommés sur proposition de la commission consultative des rapatriés prévue par l'arrêté du 6 février 2001.
+Un décret fixe la composition des commissions administratives de reclassement prévues par les articles 17 et suivants de l'ordonnance n° 45-1283 du 15 juin 1945 précitée. Ces commissions sont composées paritairement de représentants de l'administration et de représentants des bénéficiaires.
 
 Ce décret précise les conditions et modalités de désignation des membres des commissions administratives de reclassement et de leur président, ainsi que leurs conditions de fonctionnement.
