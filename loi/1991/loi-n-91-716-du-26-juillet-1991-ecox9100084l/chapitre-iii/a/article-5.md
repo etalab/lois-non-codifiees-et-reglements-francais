@@ -2,9 +2,9 @@
 
 I. - Les 5° et 6° du 4 de l'article 261 du code général des impôts sont abrogés.
 
-II. - 1. Pour la livraison de leurs oeuvres désignées à l'article 3 de la loi n° 57-298 du 11 mars 1957 sur la propriété littéraire et artistique et la cession des droits patrimoniaux qui leur sont reconnus par la loi, les auteurs d'oeuvres de l'esprit, à l'exception des architectes et auteurs de logiciels, bénéficient d'une franchise qui les dispense du paiement de la taxe sur la valeur ajoutée lorsqu'ils ont réalisé au cours de l'année précédente un chiffre d'affaires n'excédant pas 245000 F.
+II. - 1. Pour la livraison de leurs oeuvres désignées à l'article L. 112-2 du code de la propriété intellectuelle et la cession des droits patrimoniaux qui leur sont reconnus par la loi, les auteurs d'oeuvres de l'esprit, à l'exception des architectes et auteurs de logiciels, bénéficient d'une franchise qui les dispense du paiement de la taxe sur la valeur ajoutée lorsqu'ils ont réalisé au cours de l'année précédente un chiffre d'affaires n'excédant pas 245000 F.
 
-Ces dispositions s'appliquent également aux artistes-interprètes visés à l'article 16 de la loi n° 85-660 du 3 juillet 1985 relative aux droits d'auteur et aux droits des artistes-interprètes, pour l'exploitation des droits patrimoniaux qui leur sont reconnus par la loi.
+Ces dispositions s'appliquent également aux artistes-interprètes visés à l'article L. 212-1 du code de la propriété intellectuelle pour l'exploitation des droits patrimoniaux qui leur sont reconnus par la loi.
 
 Les auteurs et artistes-interprètes peuvent se placer sous ce régime de franchise dès le début de leur activité soumise à la taxe sur la valeur ajoutée.
 
@@ -39,3 +39,21 @@ VII. - Les dispositions des I à V sont applicables à compter du 1er octobre 19
 VIII. - L'assujetti qui remplit les conditions définies au II ci-dessus et au II de l'article 32 de la loi de finances pour 1991 (n° 90-1168 du 29 décembre 1990) pour bénéficier de la franchise et qui n'a pas opté pour le paiement de la taxe sur la valeur ajoutée est exclu du bénéfice de la franchise quand le montant cumulé des opérations visées au 1 du II de chacun des textes précités et à l'article 293 B du code général des impôts excède 315000 F l'année de référence ou 400000 F l'année en cours.
 
 Les opérations visées à l'article 293 B ne sont prises en compte que lorsque la franchise prévue par ce texte est appliquée.
+
+IX. - 1. Les éditeurs, sociétés de perception et de répartition de droits et les producteurs qui versent des droits mentionnés au premier alinéa du II doivent, sauf lorsque l'auteur a renoncé à ce dispositif en application du 3, retenir sur le montant de ces droits la taxe sur la valeur ajoutée due par l'auteur et acquitter cette taxe au Trésor.
+
+2. A défaut d'indication contraire de l'auteur formulée dans les conditions prévues au 3, les sommes qui lui sont dues par les personnes mentionnées au 1 sont réputées passibles de la retenue de taxe sur la valeur ajoutée, y compris en ce qui concerne les auteurs qui bénéficient de la franchise mentionnée au II.
+
+3. La renonciation par l'auteur au dispositif de retenue vaut pour l'ensemble des droits qu'il perçoit.
+
+Cette renonciation doit être notifiée à toutes les personnes visées au 1 qui versent des droits à l'auteur ainsi qu'au centre des impôts dont celui-ci relève.
+
+Elle prend effet le premier jour du mois qui suit celui au cours duquel elle est déclarée.
+
+Elle couvre obligatoirement une période de cinq années, y compris celle au cours de laquelle elle est déclarée. Elle est renouvelable par tacite reconduction, sauf dénonciation à l'expiration de chaque période. Toutefois, elle est reconduite de plein droit pour la période de cinq années suivant celle au cours ou à l'issue de laquelle l'auteur ayant notifié cette renonciation a bénéficié d'un remboursement de taxe sur la valeur ajoutée prévu à l'article 271 du code général des impôts.
+
+4. Les auteurs qui n'ont pas renoncé au dispositif de la retenue et qui reçoivent des droits de personnes autres que celles visées au 1 doivent retenir les modalités de liquidation de la taxe définies au 5. Ils déposent au titre de ces droits une déclaration annuelle de chiffre d'affaires.
+
+5. Pour le calcul du montant de la taxe nette due par l'auteur, les personnes visées au 1 appliquent en France métropolitaine un taux forfaitaire de 0,8 p. 100 des droits d'auteur au titre des droits à déduction en France métropolitaine. Ce taux est de 0,4 p. 100 dans les départements de la Guadeloupe, de la Réunion et de la Martinique. Cette déduction est exclusive de toute autre déduction.
+
+6. Les personnes visées au 1 doivent déclarer et acquitter la retenue dans les mêmes conditions et sous les mêmes sanctions que leurs propres opérations. La taxe sur la valeur ajoutée acquittée pour le compte de l'auteur par ces personnes n'est pas prise en compte pour la détermination de leur pourcentage de déduction de taxe sur la valeur ajoutée.
