@@ -1,5 +1,7 @@
 # Article 18
 
-Si les infractions ont été commises en mer, elles seront portées devant le tribunal du port d'immatriculation du navire ou, s'il s'agit d'un navire étranger, devant le tribunal du premier port où ce navire sera conduit.
+Les délits et contraventions en matière de pêche maritime sont jugées :
 
-En matière de contraventions de police, la procédure de l'amende de composition ne s'appliquera pas et l'appel sera toujours possible de la part de toutes les parties.
+1° pour les navires français, par le tribunal du port où le navire a été conduit ou, s'il n'a pas été conduit au port, par le tribunal du port d'immatriculation ;
+
+2° pour les navires étrangers, par le tribunal du port où le navire a été conduit ou, s'il n'a pas été conduit au port, par le tribunal de la résidence administrative de l'agent qui a constaté l'infraction.

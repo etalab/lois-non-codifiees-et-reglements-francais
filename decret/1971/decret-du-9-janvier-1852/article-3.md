@@ -1,29 +1,29 @@
 # Article 3
 
-Des décrets détermineront, pour chaque arrondissement ou sous-arrondissement maritime :
+La pêche maritime s'exerce conformément aux règlements de la Communauté économique européenne et notamment ceux relatifs au régime de conservation et de gestion des ressources.
 
-1° L'étendue de côte devant laquelle chaque espèce de pêche est permise ;
+Toutefois, lorsque la mise en application effective de ces règlements l'exige ou le permet ou lorsque la pêche s'exerce dans des eaux ou par des activités ne relevant pas du champ d'application de ces règlements, des décrets en Conseil d'Etat fixent les conditions dans lesquelles peuvent être prises les mesures suivantes :
 
-2° La distance de la côte, ainsi que des graus, embouchures de rivières, étangs ou canaux, à laquelle des pêcheurs devront se tenir ;
+1° L'interdiction permanente ou temporaire ou la réglementation de l'exercice de la pêche de certaines espèces dans certaines zones ;
 
-3° Les époques d'ouverture et de clôture des diverses pêches, l'indication de celles qui seront libres pendant toute l'année, les heures pendant lesquelles les pêches pourront être pratiquées ;
+2° Pour certaines espèces ou certains groupes d'espèces, la limitation du volume des captures et leur répartition par navire ;
 
-4° Les mesures d'ordre et de police à observer dans l'exercice de la pêche en flotte ;
+3° Pour certaines espèces, la détermination d'une taille ou d'un poids minimal des captures au-dessous desquels celles-ci doivent être aussitot rejetées ;
 
-5° Les rets, filets, engins, instruments de pêche prohibés ; les procédés et modes de pêche prohibés ;
+4° La détermination des règles relatives à la dimension du maillage des filets et aux caractéristiques techniques des navires ainsi que la définition des engins et modes de pêche ;
 
-6° Les dispositions spéciales propres à prévenir la destruction du frai et à assurer la conservation du poisson et du coquillage, notamment celles relatives à la récolte des herbes marines ; la classification du poisson qui sera réputé frai, les dimensions au-dessous desquelles les diverses espèces de poissons et de coquillages ne pourront pas être pêchées, et devront être rejetées à la mer ou, pour les coquillages, déposées en des lieux déterminés ;
+5° L'autorisation de certains types ou procédés de pêche et la limitation du nombre de leurs bénéficiaires en vue d'une gestion rationnelle de la ressource de pêche ;
 
-7° Les prohibitions relatives à la pêche, à la mise en vente, à l'achat, au transport et colportage, ainsi qu'à l'emploi, pour quelque usage que ce soit, du frai ou du poisson assimilé au frai, et du coquillage qui n'atteint pas les dimensions prescrites ;
+6° La définition du pourcentage de prises accessoires de certaines espèces pour certains types de pêche ou avec certains engins ;
 
-8° Les appâts défendus ;
+7° La réglementation de l'emploi des appâts ;
 
-9° Les conditions d'établissement de pêcheries, de parcs à huîtres, à moules, et des dépôts de coquillages ; les conditions de leur exploitation ; les rets, filets, engins, bateaux et autres instruments, ainsi que les matériaux qui pourront y être employés ;
+8° L'énoncé des conditions d'exécution d'opérations accessoires de la pêche à bord des navires ;
 
-10° Les mesures de police touchant l'exercice de la pêche à pied ;
+9° La prohibition de la mise en vente, de l'achat, et du transport des produits dont la pêche est interdite ; 10° Le classement des gisements naturels coquilliers et de la définition de leurs conditions d'exploitation ; 11° La définition des conditions de récolte des végétaux marins ; 12° La délimitation de réserves ou de cantonnements interdits à toute pêche ou la définition des restrictions de pêche destinées à favoriser l'implantation des structures artificielles aux fins d'exploitation et de mise en valeur des ressources biologiques ;
 
-11° Enfin et généralement, les mesures d'ordre et de précautions propres à assurer la conservation de la pêche et à en régler l'exercice.
+13° La détermination des conditions générales d'installation et d'exploitation des établissements de cultures marines, des établissements permanents de capture et des structures artificielles ;
 
-Il est interdit de faire usage pour la pêche, soit de la dynamite ou de toute autre matière explosive, soit de substances ou d'appâts pouvant enivrer ou détruire les poissons, crustacés et coquillages.
+14° La détermination des conditions de reconstitution des ressources de pêche et d'enrichissement ou de repeuplement des fonds ;
 
-Sont prohibés la vente, le transport et le colportage du produit des pêches interdites au paragraphe précédent.
+Enfin, et généralement, toutes mesures d'ordre et de précaution propres à assurer la conservation des ressources et à régler l'exercice de la pêche.

@@ -1,5 +1,3 @@
 # Article 5
 
-Quiconque aura formé sans autorisation un établissement de pêcherie, de parc à huîtres ou à moules ou de dépôt de coquillages, de quelque nature qu'il soit, sera puni d'une amende de 1200 à 3000 F, et pourra, en outre, être puni, d'un emprisonnement de six jours à un mois.
-
-La destruction des établissements formés sans autorisation aura lieu aux frais des contrevenants.
+Les conditions d'exercice, professionnel ou non, de la pêche sous-marine, avec ou sans l'aide d'un appareil permettant de respirer sans revenir à la surface, sont fixées par décret en Conseil d'Etat. L'exercice à titre professionnel de la pêche à pied peut être réglementé dans les mêmes conditions.

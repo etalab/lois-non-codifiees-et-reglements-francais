@@ -1,19 +1,27 @@
 # Article 6
 
-Quiconque fera usage, pour la pêche, de la dynamite ou de toute autre matière explosive, sera puni d'un emprisonnement de six mois à dix-huit mois et d'une amende de 1800 à 30000 F.
+Sera puni d'une amende de 3000 à 150000 F quiconque aura, en infraction aux règlements de la communauté économique européenne, aux dispositions du présent texte et aux règlements pris pour son application :
 
-Quiconque fera usage pour la pêche de substances ou d'appâts dont l'emploi est interdit par l'avant-dernier paragraphe de l'article 3, sera puni d'un emprisonnement de deux mois à six mois et d'une amende de 720 à 20000 F.
+1° détenu à bord ou utilisé pour la pêche des explosifs, des armes à feu, des substances soporifiques ou toxiques de nature à détruire ou altérer les animaux, les végétaux marins et leur milieu ;
 
-Quiconque détiendra, à bord d'un bateau armé pour la pêche côtière ou s'y livrant en fait, soit de la dynamite ou des matières explosives autres que la poudre pour l'usage des armes à feu, soit des substances ou des appâts dont l'emploi est interdit par l'avant dernier paragraphe de l'article 3 sera puni d'un emprisonnement de six jours à trois mois et d'une amende de 720 à 20000 F.
+2° mis en vente, vendu ou colporté, stocké, transporté, exposé ou acheté en connaissance de cause les produits des pêches pratiquées dans les conditions visées au 1° ci-dessus ;
 
-Toutefois, lorsque ces matières ou substances seront réservées à un autre usage que celui de la pêche, leur embarquement pourra être autorisé par l'administrateur des affaires maritimes et en dehors des chefs-lieux de quartier par le syndic des gens de mer. L'acte d'autorisation fixera la quantité de matières ou de substances dont l'embarquement sera permis.
+3° pêché avec un engin dont l'usage est interdit ;
 
-Quiconque recueillera, mettra en vente, transportera ou colportera sciemment le produit de pêches interdites par l'avant-dernier paragraphe de l'article 3 sera puni d'une amende de 720 à 20000 F ou d'un emprisonnement de six jours à trois mois.
+4° fabriqué, détenu à bord ou mis en vente un engin dont l'usage est interdit ;
 
-Sera puni d'une amende de 1200 à 3000 F et pourra, en outre, être puni d'un emprisonnement de six jours à un mois :
+5° pratiqué la pêche avec un engin dans une zone ou à une période où son emploi est interdit ;
 
-1° quiconque se sera servi d'appâts prohibés autres que ceux visés ci-dessus ;
+6° pratiqué la pêche dans une zone où elle est interdite ;
 
-2° quiconque, dans l'établissement ou l'exploitation de pêcheries, parcs ou dépôts autorisés, aura contrevenu aux décrets rendus en exécution du paragraphe 9 de l'article 3.
+7° pêché certaines espèces dans une zone ou à une période où leur pêche est interdite ;
 
-Dans ce cas, l'autorisation pourra être révoquée et les établissements détruits aux frais des contrevenants.
+8° pêché, transbordé, débarqué, transporté, exposé, vendu, stocké, acheté en connaissance de cause des produits de la mer dont la pêche est interdite ou qui n'ont pas la taille ou le poids requis ;
+
+9° immergé des espèces marines dans des conditions irrégulières ;
+
+10° colporté, exposé à la vente, vendu sous quelque forme que ce soit ou acheté en connaissance de cause les produits de la pêche provenant des navires ou embarcations de plaisance ;
+
+11° colporté, exposé à la vente, vendu sous quelque forme que ce soit, acheté en connaissance de cause les produits de la pêche sous-marine ou à pied pratiquée à titre non professionnel ;
+
+12° formé ou immergé sans autorisation une exploitation de cultures marines, un établissement permanent de capture ou une structure artificielle ; ces exploitations, établissements ou structures formés ou immergés sans autorisation seront détruites aux frais du condamné.
