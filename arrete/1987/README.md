@@ -110,7 +110,6 @@
 - [Arrêté du 5 octobre 1987 (JUSB8710332A)](arrete-du-5-octobre-1987-jusb8710332a)
 - [Arrêté du 5 mai 1987 (BUDF8710032A)](arrete-du-5-mai-1987-budf8710032a)
 - [Arrêté du 6 août 1987 (BUDF8720068A)](arrete-du-6-aout-1987-budf8720068a)
-- [Arrêté du 6 août 1987 (DEFC8701498A)](arrete-du-6-aout-1987-defc8701498a)
 - [Arrêté du 6 août 1987 (ECOT8710028A)](arrete-du-6-aout-1987-ecot8710028a)
 - [Arrêté du 6 août 1987 (MENB8700532A)](arrete-du-6-aout-1987-menb8700532a)
 - [Arrêté du 6 août 1987 (PTTT8700566A)](arrete-du-6-aout-1987-pttt8700566a)
