@@ -1,7 +1,7 @@
 # Article 5
 
-Un concours national est organisé et une liste d'aptitude est établie pour chaque discipline ou spécialité et chaque type de concours dans lesquels des inscriptions sur cette liste ont été ouvertes.
+Sur proposition des directeurs d'agence régionale de l'hospitalisation, le ministre chargé de la santé établit une liste de postes à recrutement prioritaire qui, d'une part, sont conformes aux objectifs définis par les schémas régionaux d'organisation sanitaire, d'autre part, présentent des difficultés particulières de recrutement et d'exercice.
 
-Le nombre des inscriptions ouvertes pour chaque discipline ou spécialité et chaque type de concours est fixé par le ministre chargé de la santé en fonction des caractéristiques propres de la discipline ou spécialité.
+Le praticien hospitalier, nommé ou en fonction sur l'un des postes mentionnés à l'alinéa précédent, s'engage par convention conclue avec le directeur de l'établissement d'hospitalisation à exercer ses fonctions pendant cinq ans. Un praticien ne peut pas signer plus d'un engagement de servir au cours de sa carrière.
 
-Un arrêté conjoint des ministres chargés de la santé et des universités [*autorité compétente*] fixe la liste des spécialités et de leur regroupement éventuel en discipline.
+Un arrêté des ministres chargés de la santé et du budget précise les modalités d'application de ces dispositions.

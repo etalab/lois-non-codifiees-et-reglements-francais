@@ -2,15 +2,17 @@
 
 Les praticiens perçoivent après service fait :
 
-1. Des émoluments mensuels variant selon l'échelon des intéressés.
+1° Des émoluments mensuels variant selon l'échelon des intéressés.
 
 Ces émoluments sont fixés par arrêté des ministres respectivement chargés de la santé, de la sécurité sociale et du budget. Ils suivent l'évolution des traitements de la fonction publique, constatée par le ministre chargé de la santé.
 
-2. Des indemnités correspondant aux gardes et astreintes assurées en plus du service normal et qui n'ont pas donné lieu à récupération, dans des conditions fixées par arrêté des ministres chargés du budget, de la sécurité sociale et de la santé.
+2° Des indemnités correspondant aux gardes et astreintes assurées en plus du service normal et qui n'ont pas donné lieu à récupération, dans des conditions fixées par arrêté des ministres chargés du budget, de la sécurité sociale et de la santé.
 
-3. Des indemnités pour participation aux jurys de concours, à l'enseignement et à la formation des personnels des établissements hospitaliers. Le montant en est fixé par arrêtés des ministres chargés du budget, de la sécurité sociale et de la santé.
+3° Des indemnités pour participation aux jurys de concours, à l'enseignement et à la formation des personnels des établissements hospitaliers. Le montant en est fixé par arrêtés des ministres chargés du budget, de la sécurité sociale et de la santé.
 
-4. Une allocation de prise de fonctions versée aux praticiens prenant leurs fonctions dans les établissements mentionnés à l'article 1er sur des postes présentant des spécificités particulières en raison de leur localisation géographique et de la spécialité concernée.
+4° Une allocation spécifique versée aux praticiens hospitaliers ayant signé l'engagement prévu à l'article 5 du présent décret. Cette allocation, non soumise à cotisation de retraite complémentaire, est versée en une seule fois.
+
+Un arrêté des ministres chargés de la santé et du budget détermine les modalités d'attribution et le montant de cette allocation.
 
 5° Une indemnité pour activité dans plusieurs établissements, versée pour favoriser le développement de la mise en réseau des établissements visés à l'article 2 de la loi n° 86-33 du 9 janvier 1986 portant dispositions relatives à la fonction publique hospitalière et les actions de coopération mentionnées à l'article L. 713-12 du code de la santé publique. Un arrêté des ministres chargés de la santé et du budget détermine les conditions d'attribution et le montant de cette indemnité.
 
