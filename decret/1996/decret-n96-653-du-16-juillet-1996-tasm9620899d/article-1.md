@@ -28,8 +28,6 @@ c) Une spécialité pharmaceutique ou autre médicament mentionné à l'article 
 
 d) Une spécialité pharmaceutique ou autre médicament à base de plantes ;
 
-e) Une spécialité pharmaceutique ou autre médicament mentionné à l'article L. 601 du code de la santé publique consistant en médicament homéopathique ;
-
 f) Une spécialité pharmaceutique ou autre médicament mentionné à l'article L. 601 du code de la santé publique consistant en allergène, par famille de produits ;
 
 g) Des produits mentionnés à l'article L. 658-11 du code de la santé publique.
