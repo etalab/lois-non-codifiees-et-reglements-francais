@@ -1,0 +1,3 @@
+# Article 36-1
+
+Le conjoint survivant ou divorcé remarié, qui n'est susceptible de bénéficier d'aucun droit à avantage de réversion au titre d'un régime de base obligatoire d'assurance vieillesse du chef de son dernier conjoint, recouvre son droit à la retraite de réversion prévue aux articles 1122 et 1122-1 du code rural du chef d'un précédent conjoint, lorsqu'il remplit les conditions [*d'attribution*] fixées selon le cas par lesdits articles ainsi que par les articles 34-1 et 34-2 du présent décret et que le mariage a duré au moins deux ans sauf lorsqu'un enfant au moins en est issu, sous réserve que ce droit ne soit pas ouvert ou susceptible d'être ouvert au profit d'un autre conjoint survivant ou divorcé [*bénéficiaire*].
