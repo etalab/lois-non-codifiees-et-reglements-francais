@@ -526,6 +526,7 @@
 - [Décret n°93-862 du 23 juin 1993 (ECOT9310180D)](decret-n93-862-du-23-juin-1993-ecot9310180d)
 - [Décret n°93-947 du 23 juillet 1993 (MCCB9300176D)](decret-n93-947-du-23-juillet-1993-mccb9300176d)
 - [Décret n°95-325 du 23 mars 1995 (MAEA9520093D)](decret-n95-325-du-23-mars-1995-maea9520093d)
+- [Décret n°93-1017 du 24 août 1993 (LOGC9300079D)](decret-n93-1017-du-24-aout-1993-logc9300079d)
 - [Décret n°93-246 du 24 février 1993 (EQUP9201588D)](decret-n93-246-du-24-fevrier-1993-equp9201588d)
 - [Décret n°93-256 du 24 février 1993 (DEFP9301101D)](decret-n93-256-du-24-fevrier-1993-defp9301101d)
 - [Décret n°93-428 du 24 mars 1993 (FPPA9300025D)](decret-n93-428-du-24-mars-1993-fppa9300025d)
