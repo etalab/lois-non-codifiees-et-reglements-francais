@@ -580,6 +580,7 @@
 - [Décret n°96-683 du 31 juillet 1996 (LOGC9600033D)](decret-n96-683-du-31-juillet-1996-logc9600033d)
 - [Décret n°96-687 du 31 juillet 1996 (TASH9622736D)](decret-n96-687-du-31-juillet-1996-tash9622736d)
 - [Décret n°96-692 du 31 juillet 1996 (COMK9603001D)](decret-n96-692-du-31-juillet-1996-comk9603001d)
+- [Décret n°96-693 du 31 juillet 1996 (BUDF9600003D)](decret-n96-693-du-31-juillet-1996-budf9600003d)
 - [Décret n°96-76 du 31 janvier 1996 (EQUR9600027D)](decret-n96-76-du-31-janvier-1996-equr9600027d)
 - [Décret n°96-90 du 31 janvier 1996 (PRMP9560003D)](decret-n96-90-du-31-janvier-1996-prmp9560003d)
 - [Décret n°96-91 du 31 janvier 1996 (TASS9523449D)](decret-n96-91-du-31-janvier-1996-tass9523449d)
