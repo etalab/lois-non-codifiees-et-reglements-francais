@@ -1,3 +1,3 @@
 # Article 61
 
-Lorsque dans un établissement, il existe plus d'un emploi à pourvoir, soit par concours externe, soit par concours interne, la moitié au moins de ces emplois doit être pourvue par concours externe. Lorsqu'il n'existe qu'un emploi à pourvoir, cet emploi est indifféremment pourvu par un candidat reçu soit au concours externe, soit au concours interne.
+Les ouvriers professionnels de 3e catégorie sont constitués en cadre d'extinction auquel s'appliquent les dispositions du décret n° 88-1081 du 30 novembre 1988 susvisé. Ils relèvent de l'échelle 2 de rémunération prévue par ledit décret.

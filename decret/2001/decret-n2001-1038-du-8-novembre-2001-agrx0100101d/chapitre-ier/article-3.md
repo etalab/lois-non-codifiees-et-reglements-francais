@@ -1,0 +1,3 @@
+# Article 3
+
+Le corps de l'inspection générale de l'agriculture est dirigé par un chef du service, nommé par arrêté du ministre chargé de l'agriculture pour une durée de cinq années renouvelable parmi les inspecteurs généraux de l'agriculture. Il est responsable auprès du ministre des activités du service ; il veille à la répartition et à l'accomplissement dans les délais requis des missions confiées au service ; il assure la coordination et la complémentarité des activités de l'inspection générale avec celles des conseils généraux mentionnés à l'article 1er du décret du 2 juillet 1999 susvisé et des autres corps d'inspection et de contrôle.
