@@ -1,3 +1,17 @@
 # Article 1
 
-Pour bénéficier des locations amiables de lots de chasse sur le domaine public maritime et sur la partie des cours d'eau domaniaux situées à l'aval de la limite de salure des eaux prévues par le décret du 21 avril 1975 susvisé, les associations de chasse visées à l'article 5 dudit décret doivent adopter le statut figurant en annexe au présent arrêté (annexe non reproduite).
+Les dispositions des articles 15 et 16 du décret susvisé du 31 octobre 1973 sont applicables aux établissements suivants dont la collectivité locale propriétaire n'a pas délégué la direction et la responsabilité des travaux à l'Etat :
+
+- les écoles primaires publiques (maternelles et primaires) ;
+
+- les écoles nationales de perfectionnement pour débiles légers ;
+
+- les collèges de premier cycle (CEG, CES) ;
+
+- les collèges d'enseignement technique ;
+
+- les lycées ;
+
+- les écoles normales d'instituteurs et d'institutrices ;
+
+- les centres d'information et d'orientation.
