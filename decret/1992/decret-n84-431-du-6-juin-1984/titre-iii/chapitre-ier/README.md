@@ -1,6 +1,7 @@
 # Chapitre Ier : Recrutement.
 
 - [Article 42](article-42.md)
+- [Article 43](article-43.md)
 - [Article 49](article-49.md)
 - [Article 49-1](article-49-1.md)
 - [Article 49-2](article-49-2.md)
