@@ -18,6 +18,7 @@
 - [Loi n° 98-349 du 11 mai 1998 (INTX9700112L)](loi-n-98-349-du-11-mai-1998-intx9700112l)
 - [Loi n° 98-388 du 14 mai 1998 (JUSX9702320L)](loi-n-98-388-du-14-mai-1998-jusx9702320l)
 - [Loi n° 98-389 du 19 mai 1998 (JUSX9701964L)](loi-n-98-389-du-19-mai-1998-jusx9701964l)
+- [Loi n° 98-461 du 13 juin 1998 (MESX9700154L)](loi-n-98-461-du-13-juin-1998-mesx9700154l)
 - [Loi n° 98-75 du 11 février 1998 (MAEX9600077L)](loi-n-98-75-du-11-fevrier-1998-maex9600077l)
 - [Loi n° 98-76 du 11 février 1998 (MAEX9700002L)](loi-n-98-76-du-11-fevrier-1998-maex9700002l)
 - [Loi n° 98-77 du 11 février 1998 (MAEX9700003L)](loi-n-98-77-du-11-fevrier-1998-maex9700003l)

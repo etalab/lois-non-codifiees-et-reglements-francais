@@ -162,6 +162,7 @@
 - [Décret n°98-172 du 10 mars 1998 (MAEJ9830018D)](decret-n98-172-du-10-mars-1998-maej9830018d)
 - [Décret n°98-174 du 10 mars 1998 (MAEJ9830020D)](decret-n98-174-du-10-mars-1998-maej9830020d)
 - [Décret n°98-458 du 10 juin 1998 (MAEJ9830056D)](decret-n98-458-du-10-juin-1998-maej9830056d)
+- [Décret n°98-462 du 10 juin 1998 (FPPX9800088D)](decret-n98-462-du-10-juin-1998-fppx9800088d)
 - [Décret n°99-495 du 10 juin 1999 (ECOP9900216D)](decret-n99-495-du-10-juin-1999-ecop9900216d)
 - [Décret n°97-713 du 11 juin 1997 (MCCX9700080D)](decret-n97-713-du-11-juin-1997-mccx9700080d)
 - [Décret n°98-157 du 11 mars 1998 (ATEE9860018D)](decret-n98-157-du-11-mars-1998-atee9860018d)
