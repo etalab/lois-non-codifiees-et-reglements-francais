@@ -9,3 +9,5 @@ Il peut être appelé à présider les commissions et comités constitués pour 
 Un arrêté du ministre de la défense fixe la liste des organismes dont le secrétaire général pour l'administration assume la présidence ou assure la tutelle par délégation du ministre.
 
 Dans le domaine de ses attributions, le secrétaire général pour l'administration peut demander au ministre de faire exécuter des enquêtes par le contrôle général des armées.
+
+Il peut habiliter les commandants de région terre, de région et d'arrondissement maritimes, de région aérienne et de région de gendarmerie à représenter le ministre de la défense auprès des services déconcentrés de l'Etat.

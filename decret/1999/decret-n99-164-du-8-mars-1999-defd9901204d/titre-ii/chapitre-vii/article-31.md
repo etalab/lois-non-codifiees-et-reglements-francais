@@ -1,6 +1,6 @@
 # Article 31
 
-Le service des moyens généraux assure la rémunération du personnel civil de l'administration centrale et met en oeuvre les actions de formation professionnelle le concernant. Pour ce personnel, il est chargé du service de la médecine du travail et du service du contrôle médical.
+Le service des moyens généraux assure la rémunération du personnel civil de l'administration centrale et met en oeuvre les actions de formation professionnelle le concernant. Pour ce personnel, il est chargé du service de la médecine du travail et du service du contrôle médical et il est compétent pour accorder les congés pour raison de santé, de maternité ou d'adoption rémunérés.
 
 Il gère le personnel de l'administration centrale affilié au fonds spécial des pensions des ouvriers des établissements industriels de l'Etat, à l'exception de celui dont la gestion relève de la délégation générale pour l'armement.
 
