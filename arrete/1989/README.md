@@ -450,7 +450,6 @@
 - [Arrêté du 23 août 1989 (SPSS8901783A)](arrete-du-23-aout-1989-spss8901783a)
 - [Arrêté du 23 décembre 1988 (BUDZ8800019A)](arrete-du-23-decembre-1988-budz8800019a)
 - [Arrêté du 23 février 1984](arrete-du-23-fevrier-1984)
-- [Arrêté du 23 février 1989 (ECOA8900018A)](arrete-du-23-fevrier-1989-ecoa8900018a)
 - [Arrêté du 23 février 1989 (ECOA8900019A)](arrete-du-23-fevrier-1989-ecoa8900019a)
 - [Arrêté du 23 janvier 1989 (BUDF8900001A)](arrete-du-23-janvier-1989-budf8900001a)
 - [Arrêté du 23 janvier 1989 (MERP8900015A)](arrete-du-23-janvier-1989-merp8900015a)

@@ -119,7 +119,6 @@
 - [Arrêté du 23 novembre 1984](arrete-du-23-novembre-1984)
 - [Arrêté du 23 octobre 1984](arrete-du-23-octobre-1984)
 - [Arrêté du 23 mai 1984](arrete-du-23-mai-1984)
-- [Arrêté du 24 février 1984](arrete-du-24-fevrier-1984)
 - [Arrêté du 24 janvier 1984](arrete-du-24-janvier-1984)
 - [Arrêté du 24 octobre 1984](arrete-du-24-octobre-1984)
 - [Arrêté du 24 septembre 1984](arrete-du-24-septembre-1984)
