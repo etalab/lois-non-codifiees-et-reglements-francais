@@ -1,0 +1,5 @@
+# Article 2
+
+Le secrétaire d'Etat au commerce extérieur exerce, au nom du ministre de l'industrie, l'autorité confiée à celui-ci par le décret du 1er juin 1995 susvisé sur la direction des relations économiques extérieures du ministère de l'économie et des finances. Les autres services placés sous l'autorité du ministre de l'industrie sont, en tant que de besoin, mis à sa disposition.
+
+En outre, le secrétaire d'Etat au commerce extérieur fait appel, en tant que de besoin, aux services des autres départements ministériels, et notamment à la direction du Trésor du ministère de l'économie et des finances, à la direction des affaires économiques et financières du ministère des affaires étrangères, à la direction de la production et des échanges et à la direction générale de l'alimentation du ministère de l'agriculture, de la pêche et de l'alimentation et à la direction des affaires économiques et internationales du ministère de l'aménagement du territoire, de l'équipement et des transports.

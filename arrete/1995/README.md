@@ -241,6 +241,7 @@
 - [Arrêté du 9 janvier 1995 (MENE9402293A)](arrete-du-9-janvier-1995-mene9402293a)
 - [Arrêté du 9 janvier 1995 (MENE9402294A)](arrete-du-9-janvier-1995-mene9402294a)
 - [Arrêté du 9 janvier 1995 (SANP9500115A)](arrete-du-9-janvier-1995-sanp9500115a)
+- [Arrêté du 9 juin 1995 (ECOT9590066A)](arrete-du-9-juin-1995-ecot9590066a)
 - [Arrêté du 9 mars 1995 (AGRG9500527A)](arrete-du-9-mars-1995-agrg9500527a)
 - [Arrêté du 9 mars 1995 (ECOC9400122A)](arrete-du-9-mars-1995-ecoc9400122a)
 - [Arrêté du 9 mars 1995 (ECOC9400142A)](arrete-du-9-mars-1995-ecoc9400142a)
