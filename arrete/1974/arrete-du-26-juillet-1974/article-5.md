@@ -2,7 +2,7 @@
 
 Les demandes concernant les emprunts à l'étranger soumis à autorisation en vertu de l'article 6 du décret n° 67-78 du 27 janvier 1967, modifié par le décret n° 69-264 du 21 mars 1969, ainsi que celles relatives aux emprunts en monnaie étrangère contractés par des résidents auprès d'autres résidents lorsque ces emprunts sont soumis à autorisation sont adressées :
 
-1° En règle générale, au ministère de l'économie, direction générale du Trésor et de la politique économique.
+1° En règle générale, au ministère de l'économie, direction du Trésor.
 
 2° A la Banque de France (direction générale des services étrangers, service des autorisations financières), en ce qui concerne les emprunts contractés par les sociétés françaises exerçant principalement des activités immobilières ;
 
