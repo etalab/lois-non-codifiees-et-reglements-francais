@@ -302,43 +302,29 @@ E. 10. Communications téléphoniques sens terre-navire :
 
 . A destination de la zone de l'océan atlantique :
 
-1 UT toutes les 0,8 secondes ;
+1 UT toutes les 0,8 secondes ;       . A destination de la zone de l'océan indien :
 
-. A destination de la zone de l'océan indien :
+1 UT toutes les 0,7 secondes ;       . A destination de la zone de l'océan pacifique :
 
-1 UT toutes les 0,7 secondes ;
-
-. A destination de la zone de l'océan pacifique :
-
-1 UT toutes les 0,6 secondes ;
-
-- Manuel :
+1 UT toutes les 0,6 secondes ;    - Manuel :
 
 . A destination de la zone de l'océan atlantique :
 
-75 UT par minute indivisible (minimum de perception           225 UT, soit 3 minutes) ;
+75 UT par minute indivisible (minimum de perception           225 UT, soit 3 minutes) ;       . A destination de la zone de l'océan indien :
 
-. A destination de la zone de l'océan indien :
-
-85 UT par minute indivisible (minimum de perception           255 UT, soit 3 minutes) ;
-
-. A destination de la zone de l'océan pacifique :
+85 UT par minute indivisible (minimum de perception           255 UT, soit 3 minutes) ;       . A destination de la zone de l'océan pacifique :
 
 100 UT par minute indivisible (minimum de perception           300 UT, soit 3 minutes) ; Suppléments pour communications personnelles (équivalent à 2 minutes) :
 
 . A destination de la zone de l'océan atlantique :
 
-150 UT ;
-
-. A destination de la zone de l'océan indien :
+150 UT ;       . A destination de la zone de l'océan indien :
 
 170 UT ;
 
 . A destination de la zone de l'océan pacifique :
 
-200 UT.
-
-(*) U.T. = Unité Télécom (définie au paragraphe C 10 du décret de prix).
+200 UT.    (*) U.T. = Unité Télécom (définie au paragraphe C 10 du décret de prix).
 
 NATURE DES CORRESPONDANCES OU DES SERVICES
 
@@ -350,43 +336,165 @@ hors taxes
 
 Communications avec carte Télécom. Ces communications sont soumises à la surtaxe spéciale applicable aux communications téléphoniques entre abonnés terrestres utilisant cette facilité.
 
-E.11. COMMUNICATIONS TELEPHONIQUES SENS NAVIRE - TERRE :
+E. 11. Communications téléphoniques sens navire-terre
 
-Communications automatiques.
+Communications automatiques
 
 La tarification s'effectue par période indivisible d'une seconde avec un minimum de perception d'une seconde.
 
-Le tableau ci-après donne par zones tarifaires le montant de la redevance terrestre à percevoir pour chaque communication. Le montant de la redevance de ligne est compris dans la redevance terrestre :
+Le tableau ci-après donne par zones tarifaires le montant de la redevance terrestre à percevoir pour chaque communication. Le montant de la redevance de ligne est compris dans la redevance terrestre. Les communications écoulées entre 22 h 01 et 4 h 00 U.T.C. bénéficient d'un tarif réduit, comme indiqué dans le tableau.
 
-Zones tarifaires (détail des zones dans tableau annexe) :
+ZONES TARIFAIRES
 
-1, 2 : 5,88 D.T.S. par minute
+(détail des zones dans tableau annexe) :
 
-3 : 6,33 D.T.S. par minute
+1-2
 
-4 : 6,54 D.T.S. par minute
+REDEVANCES TERRESTRES
 
-5 : 6,72 D.T.S. par minute
+(y compris redevances de ligne) hors taxes
 
-6 : 7,41 D.T.S. par minute
+- Tarif normal
 
-7, 8, 9, 10 : 7,74 D.T.S. par minute
+04 h 01 à 22 h 00 U.T.C :
 
-Communications manuelles.
+5,88 D.T.S. par minute
 
-La tarification manuelle s'effectue par période indivisible d'une minute avec un minimum de perception de 3 minutes. Les zones tarifaires et le tarif par minute sont les mêmes que ceux exprimés pour les communications automatiques.
+- Tarif réduit
 
-Communications personnelles.
+22 h 01 à 04 h 00 U.T.C.
 
-Il est perçu une redevance spéciale équivalant à deux minutes de communication.
+4,25 D.T.S. par minute
 
-Communications avec carte Télécom.
+ZONE TARIFAIRE
+
+(détail des zones dans tableau annexe) :
+
+3
+
+REDEVANCES TERRESTRES
+
+(y compris redevances de ligne) hors taxes
+
+- Tarif normal
+
+04 h 01 à 22 h 00 U.T.C :
+
+6,33 D.T.S. par minute
+
+- Tarif réduit
+
+22 h 01 à 04 h 00 U.T.C.
+
+4,70 D.T.S. par minute
+
+ZONE TARIFAIRE
+
+(détail des zones dans tableau annexe) :
+
+4
+
+REDEVANCES TERRESTRES
+
+(y compris redevances de ligne) hors taxes
+
+- Tarif normal
+
+04 h 01 à 22 h 00 U.T.C :
+
+6,54 D.T.S. par minute
+
+- Tarif réduit
+
+22 h 01 à 04 h 00 U.T.C.
+
+4,91 D.T.S. par minute
+
+ZONE TARIFAIRE
+
+(détail des zones dans tableau annexe) :
+
+5
+
+REDEVANCES TERRESTRES
+
+(y compris redevances de ligne) hors taxes
+
+- Tarif normal
+
+04 h 01 à 22 h 00 U.T.C :
+
+6,72 D.T.S. par minute
+
+- Tarif réduit
+
+22 h 01 à 04 h 00 U.T.C.
+
+5,09 D.T.S. par minute
+
+ZONE TARIFAIRE
+
+(détail des zones dans tableau annexe) :
+
+6
+
+REDEVANCES TERRESTRES
+
+(y compris redevances de ligne) hors taxes
+
+- Tarif normal
+
+04 h 01 à 22 h 00 U.T.C :
+
+7,41 D.T.S. par minute
+
+- Tarif réduit
+
+22 h 01 à 04 h 00 U.T.C.
+
+5,78 D.T.S. par minute
+
+ZONES TARIFAIRES
+
+(détail des zones dans tableau annexe) :
+
+7, 8, 9, 10
+
+REDEVANCES TERRESTRES
+
+(y compris redevances de ligne) hors taxes
+
+- Tarif normal
+
+04 h 01 à 22 h 00 U.T.C :
+
+7,74 D.T.S. par minute
+
+- Tarif réduit
+
+22 h 01 à 04 h 00 U.T.C.
+
+6,11 D.T.S. par minute
+
+Avis de durée
+
+L'avis de durée pour appel téléphonique est soumis à une redevance fixe de 0,882 D.T.S.
+
+Communications manuelles
+
+La tarification manuelle s'effectue par période indivisible
+
+d'une minute avec un minimum de perception de trois minutes. Les zones tarifaires et le tarif par minute sont les mêmes que ceux exprimés pour les communications automatiques.
+
+Communications personnelles
+
+Il est perçu une redevance spéciale équivalent à deux minutes de communication.
+
+Communications avec carte Télécom
 
 Ces communications sont soumises à la surtaxe spéciale applicable aux communications téléphoniques entre abonnés terrestres utilisant cette facilité.
 
-Automatique (redevances H.T.) :
-
-Renseignements : tarification par période d'une seconde avec un minimum de perception d'une seconde : 5,88 D.T.S. par minute
+Renseignements : tarification par période d'une seconde avec un minimum de perception d'une seconde.
 
 Les appels de détresse, l'assistance médicale et l'assistance technique sont assurés gratuitement.
 
@@ -406,13 +514,9 @@ E.2. Communications télex.3,5 U.T. [*4,25 U.T. *]5 U.T. [*
 
 . A destination de la zone de l'océan atlantique :
 
-3,5 UT par période indivisible de six secondes (minimum           de perception 6 secondes) ;
+3,5 UT par période indivisible de six secondes (minimum           de perception 6 secondes) ;       . A destination de la zone de l'océan indien :
 
-. A destination de la zone de l'océan indien :
-
-4,25 UT par période indivisible de six secondes (minimum           de perception 6 secondes) ;
-
-. A destination de la zone de l'océan pacifique :
+4,25 UT par période indivisible de six secondes (minimum           de perception 6 secondes) ;       . A destination de la zone de l'océan pacifique :
 
 5 UT par période indivisible de six secondes (minimum           de perception 6 secondes) ; E.20. Sens terre-navire.
 
