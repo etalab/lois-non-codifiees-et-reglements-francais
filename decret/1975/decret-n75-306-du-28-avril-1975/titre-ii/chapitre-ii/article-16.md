@@ -1,9 +1,7 @@
 # Article 16
 
-Le chef d'établissement est tenu [*obligation*] de prendre toutes dispositions pour assurer la protection du personnel affecté dans chaque zone contrôlée contre l'irradiation externe ou la contamination radioactive.
+I. - A l'intérieur des zones contrôlées et surveillées, les risques d'exposition externe ou interne doivent faire l'objet d'une signalisation appropriée et les moyens mis en oeuvre pour assurer la protection des travailleurs doivent être tels que l'exposition ne puisse atteindre les limites fixées aux articles 6, 7 et 8 du décret du 2 octobre 1986 susvisé.
 
-Les moyens mis en oeuvre pour assurer la protection du personnel doivent être tels que les équivalents de dose reçus par les travailleurs intéressés ne puissent dépasser les équivalents de dose maximaux admissibles dans les conditions normales de travail fixés aux articles 7 et suivants du décret susvisé du 20 juin 1966 et à l'annexe III du décret susvisé du 15 mars 1967.
+Les travailleurs, quelle que soit la catégorie à laquelle ils appartiennent, font l'objet d'une évaluation individuelle de l'exposition dès qu'ils opèrent en zone contrôlée. Les résultats de cette évaluation, qui doit être effectuée selon les modalités prévues au I de l'article 25, doivent être accessibles aux travailleurs concernés ; le chef d'établissement est informé des cas de dépassement des limites.
 
-Le chef d'établissement doit, lorsqu'il n'est pas lui-même l'employeur, être tenu informé des cas de dépassement des équivalents de dose maximaux admissibles.
-
-En cas de contamination accidentelle du lieu de travail, la décontamination doit pouvoir être effectuée dans les plus brefs délais et dans des conditions assurant une sécurité satisfaisante.
+II. - Des moyens doivent être prévus afin que la décontamination des lieux de travail puisse être effectuée dans les meilleurs délais ; en outre, des mesures doivent être prises pour que la contamination résiduelle ne puisse être remise en suspension.

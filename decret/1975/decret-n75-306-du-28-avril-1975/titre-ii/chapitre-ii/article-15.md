@@ -1,9 +1,15 @@
 # Article 15
 
-Le chef d'établissement est tenu [*obligation*] de délimiter une ou plusieurs zones dites zones contrôlées englobant les parties de chantier ou d'établissement dans lesquelles les travailleurs sont susceptibles de recevoir des équivalents de dose supérieurs aux équivalents de dose maximaux admissibles fixés à l'annexe III du décret susvisé du 15 mars 1967 pour les personnes non directement affectées à des travaux sous rayonnements.
+I. - Le chef d'établissement est tenu [*obligation*], si cela est nécessaire, de définir :
 
-La délimitation de chaque zone est faite avant la mise en service des installations, lors du contrôle prescrit à l'article 24.
+a) Une ou plusieurs zones contrôlées dont l'accès est réglementé pour des raisons de protection contre les rayonnements ; ces zones englobent les parties d'établissement dans lesquelles l'exposition des travailleurs est susceptible, dans les conditions normales de travail, de dépasser les trois dixièmes de l'une des limites annuelles d'exposition fixées aux articles 6, 7 et 8 du décret du 2 octobre 1986 susvisé ;
 
-Le chef d'établissement doit s'assurer que la zone contrôlée est toujours convenablement délimitée et, le cas échéant, effectuer les adaptations nécessaires notamment à l'occasion de modification apportée aux installations, de changement de leurs modalités d'utilisation ou d'incident.
+b) Une ou plusieurs zones surveillées dans lesquelles l'exposition des travailleurs est susceptible, dans les conditions normales de travail, de dépasser un dixième de l'une des limites annuelles d'exposition fixées aux articles 6, 7 et 8 du décret du 2 octobre 1986 susvisé.
 
-Les accès de chaque zone contrôlée doivent faire l'objet d'une signalisation appropriée.
+A l'intérieur de ces zones, les sources individualisées de rayonnements ionisants doivent être signalées.
+
+La définition de la zone contrôlée, qui est soumise à l'avis du comité d'hygiène, de sécurité et des conditions de travail ou, à défaut, des délégués du personnel, doit être effectuée par le chef d'établissement [*autorité compétente*] avant la mise en service de l'installation.
+
+II. - La zone contrôlée doit faire l'objet d'une délimitation et d'une signalisation appropriée.
+
+Le chef d'établissement doit [*obligation*] s'assurer que la zone contrôlée est toujours convenablement délimitée, notamment après toute modification apportée à l'installation, tout changement de son mode d'utilisation et tout incident ou accident.

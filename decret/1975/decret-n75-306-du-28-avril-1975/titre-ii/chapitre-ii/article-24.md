@@ -1,13 +1,5 @@
 # Article 24
 
-Les contrôles mentionnés à l'article précédent doivent être effectués [*obligation*] :
+L'inspecteur du travail [*autorité compétente*] peut, à tout moment, mettre en demeure le chef d'établissement de faire procéder à un contrôle partiel ou complet de ses dispositifs de détection des rayonnements ionisants, de signalisation et d'alarme ou à un contrôle d'ambiance par le service central de protection contre les rayonnements ionisants ou par un organisme désigné par le service central de protection contre les rayonnements ionisants et figurant sur une liste d'organismes agréés par arrêté des ministres chargés du travail, de l'industrie et de l'agriculture ; les résultats de ces contrôles sont portés par le chef d'établissement sur le registre [*document*] prévu à l'article L. 620-4 du code du travail.
 
-a) Lors des essais mentionnés à l'article 7 paragraphe I a ;
-
-b) Avant la mise en service de l'installation ;
-
-c) Après toute modification apportée aux modalités d'utilisation de l'installation ou aux équipements de protection, de nature à modifier les risques d'irradiation ou de contamination ;
-
-d) De façon périodique avec une fréquence fixée par arrêté pris dans les conditions prévues à l'article 54 ci-après, compte tenu de la nature des installations et de leurs modalités d'utilisation ;
-
-e) Après toute anomalie constatée sur l'installation en ce qui concerne la protection des travailleurs.
+Les résultats des contrôles prévus aux articles 22 et 23 ci-dessus doivent être tenus, par le chef d'établissement, à la disposition de l'inspecteur du travail, du médecin inspecteur du travail, du service central de protection contre les rayonnements ionisants, et du comité d'hygiène, de sécurité et des conditions de travail ou, à défaut, des délégués du personnel.

@@ -1,7 +1,7 @@
 # Article 23
 
-Le chef d'établissement est tenu [*obligation*] de faire procéder dans les conditions précisées aux articles 24 et 25 ci-après aux contrôles des dispositifs de protection liés aux installations, des dispositifs de détection des rayonnements, de signalisation et d'alarme utilisés et aux contrôles d'ambiance.
+Les modalités d'exécution des contrôles d'ambiance prévus à l'article 21 dépendent de la nature du risque et de son éventuel accroissement.
 
-Ces contrôles sont effectués suivant les méthodes fixées par arrêté pris sur la proposition du service central de protection contre les rayonnements ionisants, après avis de la commission d'hygiène industrielle ou d'une sous-commission qu'elle aura mandatée à cet effet et de la commission interministérielle des installations nucléaires de base.
+Les techniques employées doivent permettre l'évaluation de l'exposition externe ou interne.
 
-Les appareils de mesure utilisés doivent être tenus en bon état de fonctionnement.
+En cas de risque d'exposition interne, des contrôles périodiques doivent, en outre, porter sur la contamination surfacique des lieux de travail. La périodicité de ces contrôles doit être fixée en fonction de la nature et de l'importance du risque.
