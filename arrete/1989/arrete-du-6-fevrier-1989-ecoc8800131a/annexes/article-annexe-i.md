@@ -60,13 +60,15 @@ Hydrate d'hydrazine (en solution aqueuse à 16 p. 100 au maximum d'hydrazine) ;
 
 Dose d'emploi : pas plus de 10 g par tonne de betteraves (exprimée en hydrazine).
 
-III. - Floculants :
+III. - Floculants et coagulants :
 
 Copolymères d'acrylamide et d'acrylate de sodium (constitués de 90 à 50 p. 100 de motif acrylamide et de 10 à 50 p. 100 de motif acrylate).
 
 Dose d'emploi : pas plus de 6 g par mètre cube de jus sucré.
 
-Teneur résiduelle : pas plus de 0,8 mg par kilogramme de sucre.
+Teneur résiduelle : pas plus de 0,8 mg par kilogramme de sucre.    Polycondensat d'épichlorhydrine et de diméthylamine.
+
+Dose d'emploi : pas plus de 3,75 g/m3 de jus sucré.
 
 IV. - Antitartres :
 

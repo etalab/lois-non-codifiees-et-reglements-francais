@@ -50,4 +50,8 @@ Acrylate d'éthyle monomère : pas plus de 30 mg/kg.
 
 Ethylène diamine libre : pas plus de 0,05 p. 100 de l'éthylène bis-stéaramide ou du condensat ;
 
-Nitrosamine : pas plus de 0,020 mg/kg.
+Nitrosamine : pas plus de 0,020 mg/kg.    2.9. Polycondensat d'épichlorhydrine et de méthylamine ;
+
+Epichlorhydrine monomère : pas plus de 10 mg/kg ;
+
+1,3 dichloro 2-propanol : pas plus de 1 000 mg/kg.
