@@ -614,7 +614,6 @@
 - [Arrêté du 28 août 1987 (ENVN8700178A)](arrete-du-28-aout-1987-envn8700178a)
 - [Arrêté du 28 août 1987 (JUSA8700099A)](arrete-du-28-aout-1987-jusa8700099a)
 - [Arrêté du 28 avril 1987](arrete-du-28-avril-1987)
-- [Arrêté du 28 avril 1987 (ASEG8700654A)](arrete-du-28-avril-1987-aseg8700654a)
 - [Arrêté du 28 avril 1987 (ASET8703295A)](arrete-du-28-avril-1987-aset8703295a)
 - [Arrêté du 28 avril 1987 (BUDL8700040A)](arrete-du-28-avril-1987-budl8700040a)
 - [Arrêté du 28 avril 1987 (INDA8700270A)](arrete-du-28-avril-1987-inda8700270a)
