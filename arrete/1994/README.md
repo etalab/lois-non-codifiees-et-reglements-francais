@@ -1173,8 +1173,6 @@
 - [Arrêté du 30 mai 1994 (EQUH9400996A)](arrete-du-30-mai-1994-equh9400996a)
 - [Arrêté du 30 mai 1994 (EQUK9401015A)](arrete-du-30-mai-1994-equk9401015a)
 - [Arrêté du 31 août 1994 (ECOT9440198A)](arrete-du-31-aout-1994-ecot9440198a)
-- [Arrêté du 31 août 1994 (ENVP9430308A)](arrete-du-31-aout-1994-envp9430308a)
-- [Arrêté du 31 août 1994 (ENVP9430309A)](arrete-du-31-aout-1994-envp9430309a)
 - [Arrêté du 31 août 1994 (EQUP9401505A)](arrete-du-31-aout-1994-equp9401505a)
 - [Arrêté du 31 août 1994 (INDE9400875A)](arrete-du-31-aout-1994-inde9400875a)
 - [Arrêté du 31 août 1994 (SANP9402795A)](arrete-du-31-aout-1994-sanp9402795a)
