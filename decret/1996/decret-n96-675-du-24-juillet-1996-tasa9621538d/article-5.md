@@ -1,3 +1,3 @@
 # Article 5
 
-Le taux de la contribution est fixé annuellement à 0,09 p. 100 de la masse salariale telle que définie à l'article 1er.
+Le taux de la participation est défini par arrêté de la ministre de l'emploi et de la solidarité et du ministre de l'économie et des finances.

@@ -1,7 +1,21 @@
 # Article 2
 
-La participation est affectée aux dépenses afférentes :
+La participation prévue à l'article 24 de la loi du 31 juillet 1968 susvisée est affectée :
 
-1° Aux traitements dus en application du décret du 28 octobre 1994 susvisé et aux charges sociales, fiscales et versements assimilés y afférents, ainsi, le cas échéant, qu'aux indemnités ou primes versées aux directeurs stagiaires ;
+1° Pour la formation théorique et pratique mentionnée à l'article 10 du décret du 28 octobre 1994 susvisé aux dépenses afférentes :
 
-2° Aux indemnités de déplacement versées en application du décret du 25 juin 1992 susvisé.
+a) Aux traitements dus en application du décret du 28 octobre 1994 susvisé et aux charges sociales, fiscales et versements assimilés y afférents, ainsi, le cas échéant, qu'aux indemnités ou primes versées aux directeurs stagiaires ;
+
+b) Aux indemnités de déplacements versées en application du décret du 25 juin 1992 susvisé.
+
+2° Pour les sessions de perfectionnement des directeurs, mentionnées à l'article 17 du décret du 28 octobre 1994, aux dépenses afférentes :
+
+a) Aux indemnités de déplacements versées en application du décret du 25 juin 1992 susvisé ;
+
+b) Aux indemnités de stage auxquelles les personnels de direction en formation à l'Ecole nationale de la santé publique peuvent prétendre ;
+
+3° Pour les agents détachés dans le corps des directeurs astreints à la formation mentionnée à l'article 24 du décret du 28 octobre 1994, aux dépenses afférentes :
+
+a) Aux indemnités de déplacements versées en application du décret du 25 juin 1992 susvisé ;
+
+b) Aux mêmes indemnités de stage que celles auxquelles les personnels de direction en formation à l'Ecole nationale de la santé publique peuvent prétendre.
