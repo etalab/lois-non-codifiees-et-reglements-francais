@@ -6,4 +6,6 @@ Les catégories d'installations radioélectriques d'émission pour la manoeuvre 
 
 - les installations du service mobile maritime et du service mobile maritime par satellite ;
 
-- les installations du service mobile aéronautique et du service mobile aéronautique par satellite.
+- les installations du service mobile aéronautique et du service mobile aéronautique par satellite ;
+
+- les installations du service mobile fluvial.
