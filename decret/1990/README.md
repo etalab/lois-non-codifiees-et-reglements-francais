@@ -6,6 +6,8 @@
 - [Décret n°90-193 du 1 mars 1990 (EQUT9000003D)](decret-n90-193-du-1-mars-1990-equt9000003d)
 - [Décret n°90-454 du 1 juin 1990 (AGRA9000710D)](decret-n90-454-du-1-juin-1990-agra9000710d)
 - [Décret n°90-467 du 1 juin 1990 (DOMP9000012D)](decret-n90-467-du-1-juin-1990-domp9000012d)
+- [Décret n°90-687 du 1 août 1990 (AGRS9001449D)](decret-n90-687-du-1-aout-1990-agrs9001449d)
+- [Décret n°90-688 du 1 août 1990 (AGRS9001107D)](decret-n90-688-du-1-aout-1990-agrs9001107d)
 - [Décret n°90-711 du 1 août 1990 (FPPA9000064D)](decret-n90-711-du-1-aout-1990-fppa9000064d)
 - [Décret n°90-712 du 1 août 1990 (FPPA9000065D)](decret-n90-712-du-1-aout-1990-fppa9000065d)
 - [Décret n°90-713 du 1 août 1990 (FPPA9000066D)](decret-n90-713-du-1-aout-1990-fppa9000066d)
