@@ -1,10 +1,10 @@
 # Article 46
 
-1. L'indemnité journalière prévue à l'article L. 298 du Code de la sécurité sociale est égale à 90 p. 100 du gain journalier de base [*montant*]. Elle est allouée même si l'enfant n'est pas né vivant.
+1. L'indemnité journalière prévue à l'article L. 298 du Code de la sécurité sociale est égale à 84 p. 100 du gain journalier de base [*montant*]. Elle est allouée même si l'enfant n'est pas né vivant.
 
 Le gain journalier de base est déterminé selon les modalités prévues aux articles 29, 32 et 33 ci-dessus.
 
-2. L'indemnité journalière de repos ne peut être supérieure à un quatre-centième du montant annuel du plafond des rémunérations ou gains retenu pour le calcul de la fraction de cotisation prévue à l'avant-dernier alinéa de l'article 29 ; elle ne peut être inférieure à un minimum fixé par arrêté du ministre de la santé publique et de la sécurité sociale et du ministre de l'économie et des finances.
+2. L'indemnité journalière de repos ne peut être supérieure à un quatre-centième du montant annuel du plafond des rémunérations ou gains retenu pour le calcul de la fraction de cotisation prévue à l'avant-dernier alinéa de l'article 29 ; elle ne peut être inférieure à un minimum fixé par arrêté du ministre chargé de la sécurité sociale et du ministre chargé du budget.
 
 3. En cas d'augmentation générale des salaires, l'indemnité journalière de repos peut faire l'objet d'une révision dans les mêmes conditions que celles qui sont prévues à l'article L. 290 du Code de la sécurité sociale pour l'indemnité journalière de maladie.
 
