@@ -1,0 +1,3 @@
+# Article 15
+
+Dans le cas où un étranger qui réside régulièrement en France dans les conditions prévues aux articles 1er et 2 du présent décret contracte mariage avec une personne de nationalité étrangère régulièrement autorisée à séjourner sur le territoire national sous couvert d'une carte de séjour temporaire d'une durée de validité d'un an, le bénéfice du droit au regroupement familial est accordé sans recours à la procédure d'introduction. Peuvent en bénéficier le conjoint et, le cas échéant, les enfants de moins de dix-huit ans de celui-ci résidant en France, sauf si l'un des motifs de refus ou d'exclusion mentionnés aux 1° et 2° du troisième alinéa du I de l'article 29 de l'ordonnance du 2 novembre 1945 susvisée leur est opposé.
