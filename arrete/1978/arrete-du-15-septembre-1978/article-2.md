@@ -125,9 +125,6 @@ La prime spéciale mentionnée à l'article 1er est payable mensuellement en app
 <td> :                                       :                  :</td>
 </tr>
 <tr>
-<td> : /C/arrêté du 21 janvier :             :                  :</td>
-</tr>
-<tr>
 <td> : Adjoint technique seul de son grade   :                  :</td>
 </tr>
 <tr>
@@ -146,19 +143,28 @@ La prime spéciale mentionnée à l'article 1er est payable mensuellement en app
 <td> :  communes où il n'existe pas          :                  :</td>
 </tr>
 <tr>
-<td> :  d'adjoint technique principal        :         5//      :</td>
+<td> :  d'adjoint technique principal        :         5        :</td>
 </tr>
 <tr>
 <td> :                                       :                  :</td>
 </tr>
 <tr>
-<td> : Chef de travaux                       :         4        :</td>
+<td> : Chef de travaux ou d'atelier          :                  :</td>
 </tr>
 <tr>
-<td> : Surveillant principal de travaux      :         4        :</td>
+<td> :  communal                             :         4        :</td>
 </tr>
 <tr>
-<td> : Surveillant de travaux                :         4        :</td>
+<td> : Surveillant de travaux principal      :                  :</td>
+</tr>
+<tr>
+<td> :  ou contremaître principal communal   :         4        :</td>
+</tr>
+<tr>
+<td> : Surveillant de travaux ou             :                  :</td>
+</tr>
+<tr>
+<td> :  contremaître communal                :         4        :</td>
 </tr>
 <tr>
 <td> : Dessinateur chef de groupe            :         3        :</td>
