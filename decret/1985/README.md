@@ -18,6 +18,8 @@
 - [Décret n°85-1302 du 6 décembre 1985](decret-n85-1302-du-6-decembre-1985)
 - [Décret n°84-1094 du 7 décembre 1984](decret-n84-1094-du-7-decembre-1984)
 - [Décret n°85-684 du 8 juillet 1985](decret-n85-684-du-8-juillet-1985)
+- [Décret n°85-1304 du 9 décembre 1985](decret-n85-1304-du-9-decembre-1985)
+- [Décret n°85-1305 du 9 décembre 1985](decret-n85-1305-du-9-decembre-1985)
 - [Décret n°85-603 du 10 juin 1985](decret-n85-603-du-10-juin-1985)
 - [Décret n°85-712 du 11 juillet 1985](decret-n85-712-du-11-juillet-1985)
 - [Décret n°85-1175 du 12 novembre 1985](decret-n85-1175-du-12-novembre-1985)
