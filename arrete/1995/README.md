@@ -400,7 +400,6 @@
 - [Arrêté du 9 février 1995 (BUDL9500016A)](arrete-du-9-fevrier-1995-budl9500016a)
 - [Arrêté du 9 février 1995 (BUDL9500017A)](arrete-du-9-fevrier-1995-budl9500017a)
 - [Arrêté du 9 février 1995 (EQUH9500381A)](arrete-du-9-fevrier-1995-equh9500381a)
-- [Arrêté du 9 février 1995 (EQUH9500430A)](arrete-du-9-fevrier-1995-equh9500430a)
 - [Arrêté du 9 février 1995 (TEFE9500031A)](arrete-du-9-fevrier-1995-tefe9500031a)
 - [Arrêté du 9 janvier 1995 (BUDR9505001A)](arrete-du-9-janvier-1995-budr9505001a)
 - [Arrêté du 9 janvier 1995 (BUDR9505002A)](arrete-du-9-janvier-1995-budr9505002a)
