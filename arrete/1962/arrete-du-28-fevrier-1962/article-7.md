@@ -1,0 +1,3 @@
+# Article 7
+
+Le ministre de l'agriculture, le ministre de la construction, le ministre d'Etat chargé des affaires culturelles, le garde des sceaux, le ministre de la justice, le ministre de l'intérieur, le ministre des armées, le ministre des finances et des affaires économiques, le ministre de l'éducation nationale, le ministre des travaux publics et des transports, le ministre de l'industrie, le ministre du travail et le ministre de la santé publique et de la population sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
