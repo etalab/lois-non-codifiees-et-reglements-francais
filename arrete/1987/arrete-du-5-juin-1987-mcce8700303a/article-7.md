@@ -1,0 +1,5 @@
+# Article 7
+
+En cas de retard dans la remise au préfet de région (direction régionale des affaires culturelles) des documents d'étude et de travaux faisant l'objet de délais de remise fixés par arrêté du ministre de la culture et de la communication, pour l'application de l'article 10, deuxième alinéa, du décret n° 87-312 du 5 mai 1987, la maîtrise d'oeuvre pourra subir sur ses créances des pénalités dont le montant par jour calendaire de retard est fixé à 1 / 1000 du montant de la rémunération prévue pour cet élément de mission.
+
+Le mandatement des honoraires afférents à chaque élément de mission doit avoir lieu dans les soixante jours comptés à partir de la réception de la demande de l'architecte en chef ou du vérificateur, accompagnée des justifications nécessaires. Au-delà de ce délai, les dispositions prévues à l'article 10, troisième alinéa, du décret n° 87-312 du 5 mai 1987 sont applicables, sur demande de l'architecte, adressée après les approbations et délais prévus à l'article 5.
