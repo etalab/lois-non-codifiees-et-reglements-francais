@@ -1,0 +1,3 @@
+# CHAPITRE 4. ALLOCATION DE SALAIRE UNIQUE.
+
+- [Article 25](article-25.md)
