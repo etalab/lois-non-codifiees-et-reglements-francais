@@ -2,6 +2,7 @@
 
 - [Décret n°80-956 du 1 décembre 1980](decret-n80-956-du-1-decembre-1980)
 - [Décret n° 81-97 du 2 février 1981](decret-n-81-97-du-2-fevrier-1981)
+- [Décret n°81-94 du 2 février 1981](decret-n81-94-du-2-fevrier-1981)
 - [Décret n°80-977 du 3 décembre 1980](decret-n80-977-du-3-decembre-1980)
 - [Décret n°80-978 du 3 décembre 1980](decret-n80-978-du-3-decembre-1980)
 - [Décret n°80-979 du 3 décembre 1980](decret-n80-979-du-3-decembre-1980)
@@ -33,6 +34,7 @@
 - [Décret n°81-61 du 27 janvier 1981](decret-n81-61-du-27-janvier-1981)
 - [Décret n°81-69 du 28 janvier 1981](decret-n81-69-du-28-janvier-1981)
 - [Décret du 29 décembre 1980](decret-du-29-decembre-1980)
+- [Décret n°81-89 du 29 janvier 1981](decret-n81-89-du-29-janvier-1981)
 - [Décret n°80-1143 du 30 décembre 1980](decret-n80-1143-du-30-decembre-1980)
 - [Décret n°80-1145 du 30 décembre 1980](decret-n80-1145-du-30-decembre-1980)
 - [Décret n°80-1150 du 30 décembre 1980](decret-n80-1150-du-30-decembre-1980)
