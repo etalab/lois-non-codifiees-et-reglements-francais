@@ -114,6 +114,7 @@
 - [Décret n°2000-247 du 15 mars 2000 (ECOP0000062D)](decret-n2000-247-du-15-mars-2000-ecop0000062d)
 - [Décret n°2000-249 du 15 mars 2000 (AGRM9902328D)](decret-n2000-249-du-15-mars-2000-agrm9902328d)
 - [Décret n°2000-250 du 15 mars 2000 (MENS0000215D)](decret-n2000-250-du-15-mars-2000-mens0000215d)
+- [Décret n°2000-252 du 15 mars 2000 (INTC0000075D)](decret-n2000-252-du-15-mars-2000-intc0000075d)
 - [Décret n°99-1049 du 15 décembre 1999 (MESS9923827D)](decret-n99-1049-du-15-decembre-1999-mess9923827d)
 - [Décret n°99-1054 du 15 décembre 1999 (MESS9923697D)](decret-n99-1054-du-15-decembre-1999-mess9923697d)
 - [Décret n°99-1070 du 15 décembre 1999 (MAEA9920475D)](decret-n99-1070-du-15-decembre-1999-maea9920475d)

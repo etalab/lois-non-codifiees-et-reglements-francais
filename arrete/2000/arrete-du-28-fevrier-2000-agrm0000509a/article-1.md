@@ -1,0 +1,7 @@
+# Article 1
+
+Les techniques et les moyens de récolte, de transport et de manipulation des coquillages vivants ne doivent pas causer de dommage excessif aux coquilles ou aux tissus ni entraîner de contamination, de baisse importante de la qualité ou de changement significatif de leur aptitude au traitement.
+
+Lorsqu'ils sont transportés à destination d'un centre d'expédition, d'un centre de purification, d'une zone de reparcage ou d'un établissement de manipulation des produits de la pêche, les coquillages sont protégés contre l'écrasement, l'abrasion, les vibrations, les chocs thermiques ; ils ne doivent pas être immergés ; les moyens de transport sont conçus de telle sorte que le drainage et le nettoyage s'effectuent dans des conditions satisfaisantes. Dans le cas d'un transport en vrac sur une longue distance, les coquillages doivent, en outre, être protégés de la poussière et des souillures et ne doivent pas être transportés avec d'autres produits susceptibles de les contaminer ; les moyens de transport doivent posséder des parois intérieures en matière résistant à la corrosion, lisses et faciles à nettoyer ; les mêmes caractéristiques s'appliquent à toute autre partie susceptible d'entrer en contact avec les coquillages.
+
+Lorsqu'ils sont transportés à destination d'une zone de production dans le cadre d'un transfert, les obligations ci-dessus ne s'appliquent pas sous réserve que les conditions de transport préservent la vitalité des coquillages et leur qualité hygiénique.
