@@ -8,6 +8,6 @@ La valeur vénale de ces biens est fixée comme en matière d'expropriation.
 
 Les opérations relatives à la gestion de ces biens sont retracées au compte spécial du Trésor "Opérations commerciales des domaines".
 
-III -  Une nouvelle répartition, entre l'Etat, le département de Saint-Pierre-et-Miquelon et les communes, des immeubles situés à Saint-Pierre-et-Miquelon et faisant partie du domaine de ces collectivités est opérée par décret en Conseil d'Etat après avis du conseil général du département.
+III -  Une nouvelle répartition, entre l'Etat, la collectivité territoriale de Saint-Pierre-et-Miquelon et les communes, des immeubles situés à Saint-Pierre-et-Miquelon et faisant partie du domaine de ces collectivités est opérée par décret en Conseil d'Etat après avis du conseil général de la collectivité territoriale.
 
 IV - Est autorisée, aux conditions fixées par la convention à passer à cet effet, la cession gratuite à l'établissement public départemental dénommé Centre de moyen séjour pour convalescence, cure et réadaptation du Vésinet de l'ensemble immobilier dit Etablissement national des convalescentes du Vésinet et des meubles qui le garnissent. Cette cession est exonérée de tous droits ou taxes.
