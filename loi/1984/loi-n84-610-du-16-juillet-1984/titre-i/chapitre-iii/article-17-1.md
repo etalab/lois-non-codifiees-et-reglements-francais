@@ -1,6 +1,6 @@
 # Article 17-1
 
-Lorsque le ministre chargé des sports défère aux juridictions administratives compétentes les actes pris en vertu de la délégation mentionnée à l'article 17 qu'il estime contraires à la légalité, il peut assortir son recours d'une demande de sursis à exécution. Il est fait droit à cette demande si l'un des moyens invoqués dans le recours paraît, en l'état de l'instruction, sérieux et de nature à justifier l'annulation de l'acte attaqué. Il est statué dans un délai d'un mois sur les demandes de sursis à exécution.
+Lorsque le ministre chargé des sports défère à la juridiction administrative les actes pris en vertu de la délégation mentionnée à l'article 17 qu'il estime contraires à la légalité, il peut assortir son recours d'une demande de suspension. Il est fait droit à cette demande si l'un des moyens invoqués paraît, en l'état de l'instruction, propre à créer un doute sérieux quant à la légalité de l'acte attaqué. Il est statué sur cette demande dans un délai d'un mois.
 
 Sans préjudice des recours directs dont elle dispose, toute personne physique ou morale qui s'estime lésée par une décision individuelle prise dans le cadre de la délégation mentionnée à l'article 17 ci-dessus peut, dans le délai de deux mois à compter de la notification de la décision, demander au ministre chargé des sports de mettre en oeuvre la procédure prévue à l'alinéa précédent.
 

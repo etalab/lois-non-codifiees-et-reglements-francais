@@ -8,8 +8,6 @@ Sur le vu de ce procès-verbal et des observations susmentionnées, le ministre 
 
 Le montant maximum de l'astreinte journalière est réévalué chaque année dans la même proportion que la limite inférieure de la septième tranche de l'impôt sur le revenu.
 
-La décision du ministre chargé des hydrocarbures est susceptible d'un recours de pleine juridiction. Lorsque ce recours est exercé, le président du tribunal administratif ou son délégué, statuant d'urgence, peut, si les moyens énoncés dans la requête paraissent sérieux et de nature à justifier l'annulation de la décision, ordonner la suspension de l'astreinte jusqu'à ce qu'intervienne un jugement au principal.
-
-Le président du tribunal administratif ou son délégué statue dans les quinze jours suivant la saisine.
+La décision du ministre chargé des hydrocarbures est susceptible d'un recours de pleine juridiction.
 
 Le ministre chargé des hydrocarbures peut consentir une remise ou un reversement partiel du produit des astreintes lorsque les obligations prescrites ont été exécutées et que le redevable établit qu'il n'a pas pu observer le délai imposé pour l'exécution totale de ses obligations en raison de circonstances indépendantes de sa volonté.
