@@ -1,0 +1,3 @@
+# Article 14
+
+L'autorisation d'entreprendre sur le plateau continental une activité tendant à la découverte ou à l'exploitation de ressources naturelles autres que les substances minérales ou fossiles est accordée par le ministre exerçant la tutelle du centre national pour l'exploitation des océans, après avis du ministre chargé de la marine marchande et des autres ministres intéressés. Toutefois, en ce qui concerne les établissements de pêche ou de culture marine mentionnés à l'article 2, deuxième alinéa, de la loi du 30 décembre 1968, l'autorisation est délivrée par le ministre chargé des pêches maritimes, après avis du centre national pour l'exploitation des océans.

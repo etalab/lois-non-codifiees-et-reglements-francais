@@ -1,0 +1,3 @@
+# Article 24
+
+La compétence des juridictions dans le ressort desquelles est situé le point de la côte le plus rapproché des installations et dispositifs visés à l'article 3 de la loi susvisée du 30 décembre 1968 ainsi que des zones de sécurité visées à l'article 4 de ladite loi est étendue auxdites installations, dispositifs et zones de sécurité. Demeurent applicables les règles de compétence territoriale autres que celles qui dérivent du lieu d'un fait survenu sur une installation ou un dispositif ou dans une zone de sécurité, et notamment la règle prévue aux alinéas 1 et 2 de l'article 358 du code des douanes.

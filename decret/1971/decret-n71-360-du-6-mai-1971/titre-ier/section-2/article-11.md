@@ -1,0 +1,3 @@
+# Article 11
+
+En cas de désaccord entre les membres de la commission et si les points sur lesquels porte le désaccord justifient par leur importance un recours à l'autorité supérieure, ou à la demande du préfet maritime, le préfet décide qu'il sera sursis à l'exécution de tout ou partie des travaux projetés. Cette décision est notifiée au titulaire avant l'expiration du délai mentionné au deuxième alinéa de l'article 9 ci-dessus. Le préfet adresse un rapport au ministre du développement industriel et scientifique, qui saisit le ou les ministres intéressés. Il est statué par décision conjointe desdits ministres.
