@@ -31,6 +31,7 @@
 - [Décret n°2002-84 du 16 janvier 2002 (INTX0100164D)](decret-n2002-84-du-16-janvier-2002-intx0100164d)
 - [Décret n°2002-1196 du 17 septembre 2002 (AGRS0201694D)](decret-n2002-1196-du-17-septembre-2002-agrs0201694d)
 - [Décret n°2002-78 du 17 janvier 2002 (INTC0100358D)](decret-n2002-78-du-17-janvier-2002-intc0100358d)
+- [Décret n°2002-1273 du 18 octobre 2002 (AGRP0202063D)](decret-n2002-1273-du-18-octobre-2002-agrp0202063d)
 - [Décret n°2002-1358 du 18 novembre 2002 (SANH0223509D)](decret-n2002-1358-du-18-novembre-2002-sanh0223509d)
 - [Décret n°2002-379 du 19 mars 2002 (AGRP0200017D)](decret-n2002-379-du-19-mars-2002-agrp0200017d)
 - [Décret n°2001-1084 du 20 novembre 2001 (MESA0124006D)](decret-n2001-1084-du-20-novembre-2001-mesa0124006d)
