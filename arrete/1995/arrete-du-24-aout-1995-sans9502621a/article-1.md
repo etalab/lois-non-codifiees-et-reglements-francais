@@ -1,0 +1,3 @@
+# Article 1
+
+Est approuvé l'avenant modifiant l'annexe I à la convention nationale des directeurs de laboratoires privés d'analyses médicales ci-annexé conclu entre, d'une part, la Caisse nationale de l'assurance maladie des travailleurs salariés, la Caisse centrale de la mutualité sociale agricole et la Caisse nationale d'assurance maladie et maternité des travailleurs non salariés des professions non agricoles et, d'autre part, l'Union des biologistes de France, le Centre national des biologistes, le Syndicat national professionnel des biologistes et le Syndicat des grands laboratoires de biologie clinique.
