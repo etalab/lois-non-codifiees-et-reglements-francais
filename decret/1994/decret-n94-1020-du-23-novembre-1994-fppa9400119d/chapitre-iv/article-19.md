@@ -2,7 +2,11 @@
 
 Peuvent être promus au grade d'infirmière en chef ou d'infirmier en chef après inscription à un tableau d'avancement établi après avis de la commission administrative paritaire :
 
-a) Après examen professionnel, les infirmières ou infirmiers ayant atteint le 4e échelon de leur grade et comptant neuf années de services publics effectifs ainsi que les infirmières principales ou infirmiers principaux comptant quatre ans de services effectifs dans un des corps des infirmières et infirmiers de l'Etat ;
+a) Après examen professionnel, parmi les agents comptant quatre ans de services effectifs dans un des corps des infirmières et infirmiers de l'Etat :
+
+- les infirmières ou infirmiers ayant atteint le 4e échelon de leur grade et comptant neuf années de services publics ;
+
+- les infirmières principales ou infirmiers principaux.
 
 b) Au choix, les infirmières principales ou infirmiers principaux ayant atteint le 3e échelon de leur grade et comptant quatre ans de services effectifs dans un des corps des infirmières et infirmiers de l'Etat.
 
