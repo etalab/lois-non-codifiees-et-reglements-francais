@@ -355,6 +355,7 @@
 - [Décret n°93-801 du 21 avril 1993 (MAEX9300061D)](decret-n93-801-du-21-avril-1993-maex9300061d)
 - [Décret n°93-802 du 21 avril 1993 (EURX9300291D)](decret-n93-802-du-21-avril-1993-eurx9300291d)
 - [Décret n°93-86 du 21 janvier 1993 (JUSC9221084D)](decret-n93-86-du-21-janvier-1993-jusc9221084d)
+- [Décret n°93-865 du 21 juin 1993 (AGRU9300868D)](decret-n93-865-du-21-juin-1993-agru9300868d)
 - [Décret n°93-954 du 21 juillet 1993 (SPSG9301799D)](decret-n93-954-du-21-juillet-1993-spsg9301799d)
 - [Décret n°93-822 du 21 mai 1993 (PRMX9300285D)](decret-n93-822-du-21-mai-1993-prmx9300285d)
 - [Décret n°93-823 du 21 mai 1993 (RESK9300320D)](decret-n93-823-du-21-mai-1993-resk9300320d)

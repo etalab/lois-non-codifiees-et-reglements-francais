@@ -7,4 +7,5 @@
 - [TITRE VI :  			 STAGE DE SKI DE MONTAGNE GUIDE DE HAUTE MONTAGNE](titre-vi)
 - [TITRE VII :  			 STAGE D’ALPINISME GUIDE DE HAUTE MONTAGNE](titre-vii)
 - [TITRE VIII :  			 DISPOSITIONS GÉNÉRALES](titre-viii)
+- [ANNEXES](annexes)
 - [TITRE Ier  			 ORGANISATION GÉNÉRALE DE LA FORMATION](titre-ier-organisation-generale-de-la-formation)
