@@ -1,6 +1,6 @@
 # Article 2
 
-Les demandes d'agrément doivent être adressées avant le 1er octobre de chaque année au préfet du département dans lequel la personne ou l'organisme demandeur a son domicile ou son siège social. Les dossiers des candidats devront parvenir au ministère de l'intérieur avec l'avis motivé du préfet.
+Les demandes d'agrément doivent être adressées avant le 1er octobre [*date*] de chaque année [*périodicité*] au préfet du département dans lequel la personne ou l'organisme demandeur a son domicile ou son siège social. Les dossiers des candidats devront parvenir au ministère de l'intérieur avec l'avis motivé du préfet.
 
 A chaque demande d'agrément doivent être jointes les pièces ci-après :
 
