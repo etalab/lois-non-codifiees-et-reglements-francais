@@ -104,6 +104,5 @@
 - [Décret n°73-1215 du 29 décembre 1973](decret-n73-1215-du-29-decembre-1973)
 - [Décret n°73-598 du 29 juin 1973](decret-n73-598-du-29-juin-1973)
 - [Décret n°73-600 du 29 juin 1973](decret-n73-600-du-29-juin-1973)
-- [Décret n°73-878 du 29 août 1973](decret-n73-878-du-29-aout-1973)
 - [Décret n°73-758 du 30 juillet 1973](decret-n73-758-du-30-juillet-1973)
 - [Décret n°73-752 du 31 juillet 1973](decret-n73-752-du-31-juillet-1973)
