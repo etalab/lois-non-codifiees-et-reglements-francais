@@ -26,7 +26,9 @@ S est égal au total de la surface totale habitable des logements (logements pou
 
 S étant calculée comme indiqué à l'article précédent.
 
-7.1. Prix de référence de base Bâtiment et honoraires (Bo), toutes taxes comprises, est fixé par les tableaux ci-après : 7.1.1. - Logements des résidents
+7.1. Prix de référence de base Bâtiment et honoraires (Bo), toutes taxes comprises, est fixé par les tableaux ci-après :
+
+7.1.1. - Logements des résidents
 
 Bo Immeubles collectifs et maisons individuelles.
 
@@ -38,7 +40,7 @@ Bo Immeubles collectifs et maisons individuelles.
 <td> :    TYPES      : A PARTIR DU :</td>
 </tr>
 <tr>
-<td> : DE LOGEMENTS  :  01/01/95   :</td>
+<td> : DE LOGEMENTS  :  01/09/95   :</td>
 </tr>
 <tr>
 <td> :               : (en francs) :</td>
@@ -47,39 +49,38 @@ Bo Immeubles collectifs et maisons individuelles.
 <td> :---------------:-------------:</td>
 </tr>
 <tr>
-<td> :  I et I'      :   200 430   :</td>
+<td> :  I et I'      :   203 835   :</td>
 </tr>
 <tr>
-<td> :  I bis        :   245 790   :</td>
+<td> :  I bis        :   249 970   :</td>
 </tr>
 <tr>
-<td> :  II           :   283 625   :</td>
+<td> :  II           :   288 445   :</td>
 </tr>
 <tr>
-<td> :  III          :   371 955   :</td>
+<td> :  III          :   378 280   :</td>
 </tr>
 <tr>
-<td> :  IV           :   465 180   :</td>
+<td> :  IV           :   473 090   :</td>
 </tr>
 <tr>
-<td> :  V            :   559 815   :</td>
+<td> :  V            :   569 330   :</td>
 </tr>
 <tr>
-<td> :  VI           :   654 500   :</td>
+<td> :  VI           :   665 625   :</td>
 </tr>
 <tr>
-<td> :  VII          :   749 225  :</td>
+<td> :  VII          :   761 960  :</td>
 </tr>
 <tr>
 <td> :-----------------------------:</td>
 </tr>
-</table>
-
-7.1.2. - Logements à usage familial (autres que logements destinés aux résidents)
-
-Bo Immeubles collectifs et maisons individuelles.
-
-<table>
+<tr>
+<td> 7.1.2. - Logements à usage familial (autres que logements destinés aux résidents) </td>
+</tr>
+<tr>
+<td> Bo Immeubles collectifs et maisons individuelles.</td>
+</tr>
 <tr>
 <td> :-----------------------------:</td>
 </tr>
@@ -87,7 +88,7 @@ Bo Immeubles collectifs et maisons individuelles.
 <td> :    TYPES      : A partir du :</td>
 </tr>
 <tr>
-<td> : DE LOGEMENTS  :  01/01/95   :</td>
+<td> : DE LOGEMENTS  :  01/09/95   :</td>
 </tr>
 <tr>
 <td> :               : (en francs) :</td>
@@ -96,28 +97,28 @@ Bo Immeubles collectifs et maisons individuelles.
 <td> :---------------:-------------:</td>
 </tr>
 <tr>
-<td> :  I            :   122 890   :</td>
+<td> :  I            :   124 980   :</td>
 </tr>
 <tr>
-<td> :  I bis        :   199 860   :</td>
+<td> :  I bis        :   203 260   :</td>
 </tr>
 <tr>
-<td> :  II           :   257 585   :</td>
+<td> :  II           :   261 965   :</td>
 </tr>
 <tr>
-<td> :  III          :   306 370   :</td>
+<td> :  III          :   311 580   :</td>
 </tr>
 <tr>
-<td> :  IV           :   352 425   :</td>
+<td> :  IV           :   358 415   :</td>
 </tr>
 <tr>
-<td> :  V            :   407 445   :</td>
+<td> :  V            :   414 370   :</td>
 </tr>
 <tr>
-<td> :  VI           :   448 035   :</td>
+<td> :  VI           :   455 650   :</td>
 </tr>
 <tr>
-<td> :  VII          :   503 070   :</td>
+<td> :  VII          :   511 620   :</td>
 </tr>
 <tr>
 <td> :-----------------------------:</td>
@@ -130,9 +131,9 @@ VALEURS DE bo
 
 A partir du 1er juillet 1995
 
-IMMEUBLES collectifs (en francs) : 3.705
+IMMEUBLES collectifs (en francs) : 3.770
 
-MAISONS individuelles (en francs) : 3.905.
+MAISONS individuelles (en francs) : 3.970.
 
 7.2. Coefficients de pondération du prix de référence de base Bâtiment et honoraires
 
@@ -144,7 +145,9 @@ Foyers en immeubles collectifs : 1,45 ;
 
 Foyers en maisons individuelles : 1,55.
 
-Pour les constructions réalisées en altitude et bénéficiant à ce titre de majorations du coefficient e 2 de difficultés de chantier, les limites fixées ci-dessus à la somme des coefficients sont augmentées de ces majorations. 7.3. Majoration du prix de référence Bâtiment et honoraires pour garages
+Pour les constructions réalisées en altitude et bénéficiant à ce titre de majorations du coefficient e 2 de difficultés de chantier, les limites fixées ci-dessus à la somme des coefficients sont augmentées de ces majorations.
+
+7.3. Majoration du prix de référence Bâtiment et honoraires pour garages
 
 Lorsque des logements foyers réalisés en immeubles collectifs comportent des garages couverts, le prix de référence Bâtiment et honoraires (B) est majoré :
 
@@ -169,22 +172,20 @@ VALEURS DES GARAGES
 <td> :---------:---------:</td>
 </tr>
 <tr>
-<td> : I       :  47.240 :</td>
+<td> : I       :  48.045 :</td>
 </tr>
 <tr>
-<td> : II      :  43.150 :</td>
+<td> : II      :  43.885 :</td>
 </tr>
 <tr>
-<td> : III     :  40.880 :</td>
+<td> : III     :  41.575 :</td>
 </tr>
 <tr>
 <td> :-------------------:</td>
 </tr>
-</table>
-
-(1) A partir du 1er janvier 1995 (en francs). Par emplacement individuel de stationnement dans un garage collectif construit en superstructure séparé ou accolé au bâtiment d'habitation.
-
-<table>
+<tr>
+<td> (1) A partir du 1er janvier 1995 (en francs). Par emplacement individuel de stationnement dans un garage collectif construit en superstructure séparé ou accolé au bâtiment d'habitation.</td>
+</tr>
 <tr>
 <td> :-------------------:</td>
 </tr>
@@ -201,20 +202,20 @@ VALEURS DES GARAGES
 <td> :---------:---------:</td>
 </tr>
 <tr>
-<td> : I       :  33.290 :</td>
+<td> : I       :  33.855 :</td>
 </tr>
 <tr>
-<td> : II      :  30.260 :</td>
+<td> : II      :  30.775 :</td>
 </tr>
 <tr>
-<td> : III     :  28.775 :</td>
+<td> : III     :  29.265 :</td>
 </tr>
 <tr>
 <td> :-------------------:</td>
 </tr>
 </table>
 
-(1) A partir du 1er janvier 1995 (en francs). Le nombre d'emplacements de stationnement à prendre en compte est au plus égalau nombre total pondéré des logements.
+(1) A partir du 1er septembre 1995 (en francs). Le nombred'emplacements de stationnement à prendre en compte est au plus égal au nombre total pondéré des logements.
 
 La pondération s'effectuera par application des coefficients suivants appliqués aux différents types des logements :
 

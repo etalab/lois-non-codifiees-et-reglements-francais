@@ -1,0 +1,3 @@
+# Article 26
+
+Les dispositions du présent arrêté sont applicables à compter du 1er septembre 1995, à l'exception du 2° de l'article 4 pour les professions dont la durée d'exercice requise pour l'entrée en formation était inférieure à cinq ans, du 3° de l'article 4 et des articles 5 à 8, qui ne prennent effet qu'à compter de l'organisation de la procédure d'admission en vue de la rentrée de septembre 1996. Par dérogation accordée par le ministre chargé de la santé, les instituts en ayant fait la demande peuvent être autorisés à n'appliquer l'ensemble des dispositions du présent arrêté qu'à compter de ladite procédure d'admission. Pour la rentrée de septembre 1995, l'admission est prononcée par le directeur de chaque institut après avis de son conseil technique.

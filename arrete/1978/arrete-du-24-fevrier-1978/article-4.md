@@ -10,7 +10,7 @@ Co et To représentent, pour l'ensemble de l'opération, la somme des prix co et
 
 VALEURS DE Co ET DE To
 
-A partir du 1er janvier 1995
+A partir du 1er septembre 1995
 
 <table>
 <tr>
@@ -35,41 +35,41 @@ A partir du 1er janvier 1995
 <td> :---------:-------------------:</td>
 </tr>
 <tr>
-<td> : I       :  67.600 :  33.090 :</td>
+<td> : I       :  68.750 :  33.390 :</td>
 </tr>
 <tr>
-<td> : I bis   : 116.470 :  57.510 :</td>
+<td> : I bis   : 118.450 :  57.510 :</td>
 </tr>
 <tr>
-<td> : II      : 153.440 :  75.735 :</td>
+<td> : II      : 156.050 :  75.735 :</td>
 </tr>
 <tr>
-<td> : III     : 192.905 :  95.235 :</td>
+<td> : III     : 196.185 :  95.235 :</td>
 </tr>
 <tr>
-<td> : IV      : 230.450 : 113.760 :</td>
+<td> : IV      : 234.370 : 113.760 :</td>
 </tr>
 <tr>
-<td> : V       : 271.405 : 133.970 :</td>
+<td> : V       : 276.020 : 133.970 :</td>
 </tr>
 <tr>
-<td> : VI      : 303.560 : 149.825 :</td>
+<td> : VI      : 308.720 : 149.825 :</td>
 </tr>
 <tr>
-<td> : VII     : 348.320 : 171.955 :</td>
+<td> : VII     : 354.240 : 171.955 :</td>
 </tr>
 <tr>
 <td> : Pièce   :         :         :</td>
 </tr>
 <tr>
-<td> : suppl.  :  37.075 :  18.295 :</td>
+<td> : suppl.  :  37.705 :  18.295 :</td>
 </tr>
 <tr>
 <td> :-----------------------------:</td>
 </tr>
-</table>
-
-<table>
+<tr>
+<td/>
+</tr>
 <tr>
 <td> :-----------------------------:</td>
 </tr>
@@ -95,31 +95,31 @@ A partir du 1er janvier 1995
 <td> : I       :       0 :       0 :</td>
 </tr>
 <tr>
-<td> : I bis   : 128.160 :  80.485 :</td>
+<td> : I bis   : 1303400 :  80.485 :</td>
 </tr>
 <tr>
-<td> : II      : 168.775 : 106.060 :</td>
+<td> : II      : 171.645 : 106.060 :</td>
 </tr>
 <tr>
-<td> : III     : 212.185 : 133.320 :</td>
+<td> : III     : 215.790 : 133.320 :</td>
 </tr>
 <tr>
 <td> : IV      : 253.500 : 159.320 :</td>
 </tr>
 <tr>
-<td> : V       : 298.575 : 187.580 :</td>
+<td> : V       : 257.810 : 187.580 :</td>
 </tr>
 <tr>
-<td> : VI      : 333.890 : 209.810 :</td>
+<td> : VI      : 303.650 : 209.810 :</td>
 </tr>
 <tr>
-<td> : VII     : 383.150 : 2240120 :</td>
+<td> : VII     : 339.565 : 224.720 :</td>
 </tr>
 <tr>
 <td> : Pièce   :         :         :</td>
 </tr>
 <tr>
-<td> : suppl.  :  40.785 :  25.670 :</td>
+<td> : suppl.  :  41.480 :  25.670 :</td>
 </tr>
 <tr>
 <td> :-----------------------------:</td>
@@ -185,22 +185,21 @@ Valeur des garages enterrés ou incorporés.
 <td> :---------:---------:</td>
 </tr>
 <tr>
-<td> : I       :  45.800 :</td>
+<td> : I       :  46.580 :</td>
 </tr>
 <tr>
-<td> : II      :  41.835 :</td>
+<td> : II      :  42.545 :</td>
 </tr>
 <tr>
-<td> : III     :  39.645 :</td>
+<td> : III     :  40.320 :</td>
 </tr>
 <tr>
 <td> :-------------------:</td>
 </tr>
-</table>
-
-Valeur des garages construits en superstructure.
-
-<table>
+<tr>
+<td>
+<br/>   Valeur des garages construits en superstructure.</td>
+</tr>
 <tr>
 <td> :-------------------:</td>
 </tr>
@@ -217,22 +216,21 @@ Valeur des garages construits en superstructure.
 <td> :---------:---------:</td>
 </tr>
 <tr>
-<td> : I       :  32.275 :</td>
+<td> : I       :  32.825 :</td>
 </tr>
 <tr>
-<td> : II      :  29.335 :</td>
+<td> : II      :  29.835 :</td>
 </tr>
 <tr>
-<td> : III     :  27.895 :</td>
+<td> : III     :  28.370 :</td>
 </tr>
 <tr>
 <td> :--------------------</td>
 </tr>
-</table>
-
-Majoration relative au coût du relogement.
-
-<table>
+<tr>
+<td>
+<br/>   Majoration relative au coût du relogement.</td>
+</tr>
 <tr>
 <td> :-------------------:</td>
 </tr>

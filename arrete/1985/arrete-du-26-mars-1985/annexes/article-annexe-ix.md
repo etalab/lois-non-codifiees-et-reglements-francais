@@ -1,6 +1,6 @@
 # Article Annexe IX
 
-Valeurs de Bo et de Co à compter du 1er janvier 1995.
+Valeurs de Bo et de Co à compter du 1er septembre 1995.
 
 <table>
 <tr>
@@ -25,28 +25,28 @@ Valeurs de Bo et de Co à compter du 1er janvier 1995.
 <td> :---------:-------------------:</td>
 </tr>
 <tr>
-<td> : 1       : 107.065 :  13.020 :</td>
+<td> : 1       : 108.885 :  13.020 :</td>
 </tr>
 <tr>
-<td> : 1 bis   : 176.045 :  18.910 :</td>
+<td> : 1 bis   : 179.040 :  18.910 :</td>
 </tr>
 <tr>
-<td> : 2       : 210.345 :  27.635 :</td>
+<td> : 2       : 213.920 :  27.635 :</td>
 </tr>
 <tr>
-<td> : 3       : 247.740 :  36.045 :</td>
+<td> : 3       : 251.950 :  36.045 :</td>
 </tr>
 <tr>
-<td> : 4       : 283.810 :  44.050 :</td>
+<td> : 4       : 288.635 :  44.050 :</td>
 </tr>
 <tr>
-<td> : 5       : 325.640 :  53.385 :</td>
+<td> : 5       : 331.175 :  53.385 :</td>
 </tr>
 <tr>
-<td> : 6       : 357.000 :  60.360 :</td>
+<td> : 6       : 363.070 :  60.360 :</td>
 </tr>
 <tr>
-<td> : 7       : 399.550 :  69.860 :</td>
+<td> : 7       : 406.040 :  69.860 :</td>
 </tr>
 <tr>
 <td> :-----------------------------:</td>
@@ -79,25 +79,25 @@ Valeurs de Bo et de Co à compter du 1er janvier 1995.
 <td> : 1       :       0 :       0 :</td>
 </tr>
 <tr>
-<td> : 1 bis   : 176.045 :  28.260 :</td>
+<td> : 1 bis   : 179.040 :  28.260 :</td>
 </tr>
 <tr>
-<td> : 2       : 210.345 :  41.295 :</td>
+<td> : 2       : 213.920 :  41.295 :</td>
 </tr>
 <tr>
-<td> : 3       : 247.740 :  53.900 :</td>
+<td> : 3       : 251.950 :  53.900 :</td>
 </tr>
 <tr>
-<td> : 4       : 283.810 :  65.885 :</td>
+<td> : 4       : 288.635 :  65.885 :</td>
 </tr>
 <tr>
-<td> : 5       : 325.640 :  79.825 :</td>
+<td> : 5       : 331.175 :  79.825 :</td>
 </tr>
 <tr>
-<td> : 6       : 357.000 :  90.245 :</td>
+<td> : 6       : 363.070 :  90.245 :</td>
 </tr>
 <tr>
-<td> : 7       : 399.550 : 104.430 :</td>
+<td> : 7       : 406.340 : 104.430 :</td>
 </tr>
 <tr>
 <td> :-----------------------------:</td>
@@ -125,20 +125,20 @@ Par emplacement individuel de stationnement dans un garage enterré ou incorpor�
 <td> :---------:---------:</td>
 </tr>
 <tr>
-<td> : I       :  46.160 :</td>
+<td> : I       :  46.945 :</td>
 </tr>
 <tr>
-<td> : II      :  42.180 :</td>
+<td> : II      :  42.895 :</td>
 </tr>
 <tr>
-<td> : III     :  39.940 :</td>
+<td> : III     :  40.620 :</td>
 </tr>
 <tr>
 <td> :--------------------</td>
 </tr>
 </table>
 
-(1) A partir du 1er janvier 1995 (en francs).   Par emplacement individuel de stationnement dans un garage collectif construit en superstructure séparé ou accolé au bâtiment d'habitation.
+(1) A partir du 1er septembre 1995 (en francs).   Par emplacement individuel de stationnement dans un garage collectif construit en superstructure séparé ou accolé au bâtiment d'habitation.
 
 <table>
 <tr>
@@ -157,17 +157,17 @@ Par emplacement individuel de stationnement dans un garage enterré ou incorpor�
 <td> :---------:---------:</td>
 </tr>
 <tr>
-<td> : I       :  32.530 :</td>
+<td> : I       :  33.085 :</td>
 </tr>
 <tr>
-<td> : II      :  29.585 :</td>
+<td> : II      :  20.090 :</td>
 </tr>
 <tr>
-<td> : III     :  28.100 :</td>
+<td> : III     :  28.580 :</td>
 </tr>
 <tr>
 <td> :--------------------</td>
 </tr>
 </table>
 
-(1) A partir du 1er janvier 1995 (en francs).
+(1) A partir du 1er septembre 1995 (en francs).
