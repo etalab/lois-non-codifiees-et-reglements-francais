@@ -13,3 +13,5 @@ Les spécialistes et adjoints des cadres hospitaliers temporaires prévus par le
 b) Dans les services hospitaliers des centres hospitaliers régionaux placés hors centres hospitaliers et universitaires et dans les centres hospitaliers et dans tous les hôpitaux publics, à l'exception des hôpitaux locaux :
 
 - les médecins, chirurgiens, spécialistes, y compris les anesthésistes-réanimateurs et biologistes chefs de service ou adjoints et les assistants, ainsi que les médecins des services antituberculeux et les médecins des hôpitaux psychiatriques, les assistants d'anesthésie-réanimation et les médecins adjoints ancien régime.
+
+Les praticiens qui sont autorisés à accomplir un service à mi-temps pour raison thérapeutique peuvent être dispensés, à leur demande, des services de gardes et astreintes.

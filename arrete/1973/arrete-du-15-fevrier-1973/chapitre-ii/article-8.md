@@ -4,4 +4,4 @@ Lorsque l'effectif des praticiens cités à l'article 6 ci-dessus est insuffisan
 
 Il peut être fait appel à des praticiens extérieurs à l'établissement, inscrits, sur leur demande, sur une liste arrêtée par le directeur de l'établissement ou le directeur responsable du secteur de garde, sur proposition des commissions médicales consultatives concernées.
 
-A défaut de candidats ou de propositions des commissions médicales consultatives, une liste de praticiens devant participer à la garde est arrêtée par le préfet, après avis du médecin inspecteur régional de la santé.
+A défaut de candidats ou de propositions des commissions médicales d'établissement, une liste de praticiens du département ou des départements limitrophes devant participer à la garde est arrêtée, après avis des médecins inspecteurs régionaux de la santé concernés, par le préfet du département dans lequel se situe l'établissement hospitalier, conjointement, le cas échéant, avec le (ou les) préfet(s) du (ou des) département(s) limitrophe(s).

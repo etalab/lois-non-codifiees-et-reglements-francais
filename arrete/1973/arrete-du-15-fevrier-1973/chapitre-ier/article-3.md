@@ -2,7 +2,7 @@
 
 Le service de garde a pour objet d'assurer pendant chaque nuit et pendant la journée du dimanche ou des jours fériés la sécurité des malades hospitalisés ou admis d'urgence et la permanence des soins excédant la compétence des auxiliaires médicaux ou des internes.
 
-Le service de garde à l'hôpital ou par astreinte à domicile ne peut être organisé dans l'après-midi d'un des six jours ouvrables, sauf dans les services ou sections de service dont les effectifs de personnel médical ne permettent pas d'assurer le service normal de jour pendant douze demi-journées par semaine.
+Le service de garde à l'hôpital ou par astreinte à domicile ne peut être organisé dans l'après-midi d'un des six jours ouvrables, sauf dans les services ou sections de service dont les effectifs de personnel médical ne permettent pas d'assurer le service normal de jour pendant douze demi-journées par semaine, et sauf le samedi après-midi pour tous les praticiens ayant par ailleurs rempli leurs obligations de service fixées par les différents statuts.
 
 Les praticiens exerçant à plein temps des fonctions hospitalières ou des fonctions enseignantes et hospitalières ne peuvent participer à la garde d'après-midi que lorsqu'ils remplissent, dans la semaine considérée, les obligations de service fixées par leurs statuts à onze demi-journées par semaine.
 
