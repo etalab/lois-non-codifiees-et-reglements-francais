@@ -4,7 +4,7 @@ La délégation de pouvoirs peut porter sur tout ou partie des décisions de ges
 
 1° Décision d'ouverture des concours ;
 
-2° Recrutement, à l'exception de l'organisation matérielle des concours ;
+2° Recrutement, à l'exception des décisions d'admission à concourir et de l'organisation matérielle des concours ;
 
 3° Affectation après concours ;
 
