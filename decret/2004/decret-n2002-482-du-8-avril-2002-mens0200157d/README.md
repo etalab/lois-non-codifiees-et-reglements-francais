@@ -2,3 +2,4 @@
 
 - [Titre II : Dispositions pédagogiques.](titre-ii)
 - [Titre III : Modalités d'application.](titre-iii)
+- [Article 11](article-11.md)
