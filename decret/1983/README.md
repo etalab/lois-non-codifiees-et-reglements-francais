@@ -20,6 +20,7 @@
 - [Décret n°83-29 du 19 janvier 1983](decret-n83-29-du-19-janvier-1983)
 - [Décret n°84-196 du 19 mars 1984](decret-n84-196-du-19-mars-1984)
 - [Décret n°84-197 du 19 mars 1984](decret-n84-197-du-19-mars-1984)
+- [Décret n°83-31 du 20 janvier 1983](decret-n83-31-du-20-janvier-1983)
 - [Décret n° 82-1120 du 23 décembre 1982](decret-n-82-1120-du-23-decembre-1982)
 - [Décret n°82-1102 du 23 décembre 1982](decret-n82-1102-du-23-decembre-1982)
 - [Décret n°82-1119 du 28 décembre 1982](decret-n82-1119-du-28-decembre-1982)
