@@ -4,4 +4,6 @@ Les teneurs en antibiotiques, facteurs de croissance et vitamine D dans les alim
 
 - pour les antibiotiques et facteurs de croissance : 1 000 milligrammes par kilogramme et, dans la mesure où l'utilisation de ces substances est admise pour les bovins à l'engrais, 2 000 milligrammes par kilogramme ;
 
+- pour les antioxygènes, ainsi que pour les coccidiostatiques et autres substances médicamenteuses, le quintuple de la teneur maximale fixée ;
+
 - pour les vitamines D : 200 000 U.I. par kilogramme.
