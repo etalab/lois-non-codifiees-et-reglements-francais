@@ -21,6 +21,7 @@
 - [Loi n° 93-22 du 8 janvier 1993 (JUSX9100195L)](loi-n-93-22-du-8-janvier-1993-jusx9100195l)
 - [Loi n° 93-23 du 8 janvier 1993 (INTX9200170C)](loi-n-93-23-du-8-janvier-1993-intx9200170c)
 - [Loi n° 93-24 du 8 janvier 1993 (ENVX9200202L)](loi-n-93-24-du-8-janvier-1993-envx9200202l)
+- [Loi n° 93-3 du 4 janvier 1993 (HRUX9210596L)](loi-n-93-3-du-4-janvier-1993-hrux9210596l)
 - [Loi n° 93-5 du 4 janvier 1993 (SPSX9200032L)](loi-n-93-5-du-4-janvier-1993-spsx9200032l)
 - [Loi n° 93-6 du 4 janvier 1993 (ECOX9100212L)](loi-n-93-6-du-4-janvier-1993-ecox9100212l)
 - [Loi n° 93-8 du 4 janvier 1993 (SPSX9200085L)](loi-n-93-8-du-4-janvier-1993-spsx9200085l)
