@@ -1,7 +1,5 @@
 # Article 4
 
-Les voyageurs résidents se rendant à l'étranger sont autorisés à se faire délivrer sur présentation d'un carnet de change des moyens de paiement libellés en devises dans la limite d'une allocation forfaitaire annuelle qui, sauf autorisation particulière accordée par la Banque de France ou la Caisse centrale de coopération économique agissant sur délégation du ministre de l'économie, des finances et du budget, ne doit pas dépasser un montant maximum fixé par circulaire du ministre de l'économie, des finances et du budget.
+Les voyageurs résidents peuvent exporter sans limitation de montant les moyens de paiement, libellés en francs et en devises, destinés au règlement de leur dépenses à l'étranger. Les moyens de paiement libellés en devises non utilisés doivent être cédés contre des francs dans un délai de trois mois lorsqu'ils excèdent la contre-valeur de 10 000 F.
 
-Les carnets de change sont acquis, par l'entremise des organismes habilités à délivrer des allocations touristiques auprès de la direction générale des douanes et droits indirects, pour une somme qui est précisée à ces organismes par le directeur général des douanes et droits indirects.
-
-En outre, les voyageurs, résidents ou non-résidents, se rendant à l'étranger, sont autorisés à emporter en billets de banque français une somme dont le montant est fixé par circulaire du ministre de l'économie, des finances et du budget.
+Les voyageurs résidents et non-résidents déclarent au bureau de douane à la frontière les espèces exportées ou importées, en francs et en devises, lorsqu'elles excèdent la contre-valeur de 50 000 F.

@@ -4,6 +4,6 @@ Les changeurs sont tenus d'afficher les taux qu'ils pratiquent à l'achat et à 
 
 La clientèle est informée par voie d'affichage des dispositions de la réglementation applicable à la délivrance et à la détention de devises.
 
-Les changeurs tiennent à la disposition de l'administration des douanes un registre des transactions retraçant les sommes changées, les cours pratiqués et l'identité des opérateurs.
+Les changeurs tiennent à la disposition de l'administration des douanes un registre des transactions retraçant les sommes changées et les cours pratiqués.
 
 Les changeurs adressent mensuellement à la Banque de France (direction de la balance des paiements) un relevé de leurs opérations.
