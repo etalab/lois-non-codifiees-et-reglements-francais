@@ -4,56 +4,56 @@ Avertissement.
 
 Contrairement à l'annexe A qui définit les biens exclus du bénéfice de la licence générale G. 001, la présente annexe donne la liste des biens admis au bénéfice de la licence générale G. 002.
 
-Catégorie 1 : Matériaux, produits chimiques, micro-organismes et toxines, néant.
+Catégorie 1 : matériaux, produits chimiques, micro-organismes et toxines, néant.
 
-Catégorie 2 : Traitement des matériaux.
+Catégorie 2 : traitement des matériaux, 2A001.a, 2A001.b.
 
-2A001.a, 2A001.b.
+Catégorie 3 : électronique, 3A001.a.3.a.
 
-Catégorie 3 : Electronique.
+Limité aux unités arithmétiques et logiques (UAL) dont la "performance théorique pondérée" ("PTP") ne dépasse pas 3 500 millions d'opérations théoriques par seconde (Motps), 3A001.a.4, 3A002.b.
 
-3A001.a.4.
+Limité aux "ensembles synthétiseurs de fréquence" autres que ceux ayant :
 
-3A002.b limité aux "ensembles" "synthétiseurs de fréquence" autres que ceux ayant une fréquence synthétisée de sortie supérieure à 2,6 GHz ou un "temps de commutation de fréquence" inférieur à 0,3 ms.
+- une fréquence synthétisée de sortie supérieure à 2,6 GHz ; ou
 
-3A002.d.2 limité aux générateurs de signaux de fréquence synthétisés autres que ceux ayant une fréquence synthétisée de sortie supérieure à 2,6 GHz ou un "temps de commutation de fréquence" inférieur à 0,3 ms.
+- un "temps de commutation de fréquence" inférieur à 0,3 ms, 3A002.d.2.
 
-3B001.a.
+Limité aux générateurs de signaux de fréquence synthétisés autres que ceux ayant :
 
-3D002 limité au "logiciel" d'"utilisation" qui se rapporte aux produits visés par l'alinéa 3B001.a.1.
+- une fréquence synthétisée de sortie supérieure à 2,6 GHz ; ou
 
-Catégorie 4 : Calculateurs.
+- un "temps de commutation de fréquence" inférieur à 0,3 ms, 3B001.a, 3D002.
 
-4A003.b limité aux "calculateurs numériques" ayant une "PTP" inférieure à 7 000 Motps.
+Limité au "logiciel d'utilisation" qui se rapporte aux produits visés par l'alinéa 3B001.a.1.
 
-4A003.c limité aux ensembles permettant de porter la "PTP" de l'agrégation à une valeur ne dépassant pas 7 000 Motps.
+Catégorie 4 : calculateurs, 4A003.b.
 
-4A003.f.
+Limité aux "calculateurs numériques" ayant une "PTP" inférieure à 7 000 Motps, 4A003.c.
 
-4D001 limité au "logiciel" d'"utilisation" qui se rapporte aux produits visés par les alinéas 4A003.b, c et f tels que définis ci-dessus.
+Limité aux ensembles permettant de porter la "PTP" de l'agrégation à une valeur ne dépassant pas 7 000 Motps, 4D001.
 
-4E001 limité à la "technologie" d'"utilisation" qui se rapporte aux produits visés par les alinéas 4A003.b, c et f tels que définis ci-dessus.
+Limité au "logiciel d'utilisation" qui se rapporte aux produits visés par les alinéas 4A003.b, c et f tels que définis ci-dessus, 4E001.
 
-Catégorie 5, partie 1 : Télécommunications.
+Limité à la "technologie d'utilisation" qui se rapporte aux produits visés par les alinéas 4A003.b, c et f tels que définis ci-dessus.
 
-5A001.b.1, 5A001.b.3 à b.7, 5A001.b.10, 5A001.c, 5A001.d
+Catégorie 5.
 
-5B001 limité à ce qui se rapporte à l'"utilisation" des équipements visés par les alinéas 5A001.b.1, 5A001.b.3 à b.7, 5A001.b.10, 5A001.c, 5A001.d, 5C001.
+Partie 1 : télécommunications, 5A001.b.2, 5A001.b.5, 5A001.c, 5B001.
 
-Pour ce qui concerne les matériels d'essais de taux d'erreur sur les bits, les analyseurs, testeurs, simulateurs de protocoles de communication des données, seuls sont admis à la licence générale G. 002 ceux limités aux seuls tests de bon fonctionnement des équipements de télécommunications pour lesquels ils sont conçus, et à la condition qu'ils ne puissent être ni modifiés ni adaptés.
+Limité à ce qui se rapporte à "l'utilisation" des équipements visés par les alinéas 5A001.b.2, 5A001.b.5 et 5A001.c.
 
-5C001.
+Pour ce qui concerne le matériel d'essais de taux d'erreurs sur les bits, les analyseurs, testeurs, simulateurs de protocoles de communication des données, seuls sont admis au bénéfice de la licence générale G.002 ceux limités aux seuls tests de bon fonctionnement des équipements de télécommunications pour lesquels ils sont conçus, et à la condition qu'ils ne puissent être ni modifiés, ni adaptés, 5D001.a.
 
-5D001.a limité au "logiciel" d'"utilisation" qui se rapporte aux produits visés par les alinéas 5A001.b.1, 5A001.b.3 à b.7, 5A001.b.10, 5A001.c, 5A001.d, 5C001.
+Limité au "logiciel d'utilisation" qui se rapporte aux produits visés par les alinéas 5A001.b.2, 5A001.b.5 et 5A001.c, 5E001.a.
 
-5E001.a limité à la "technologie" d'"utilisation" qui se rapporte aux produits visés par les alinéas 5A001.b.1, 5A001.b.3 à b.7, 5A001.b.10, 5A001.c, 5A001.d, 5C001.
+Limité à la "technologie d'utilisation" qui se rapporte aux produits visés par les alinéas 5A001.b.2, 5A001.b.5 et 5A001.c.
 
-Catégorie 5, partie 2 : Sécurité de l'information, néant.
+Partie 2 : sécurité de l'information, néant.
 
-Catégorie 6 : Capteurs et lasers, néant.
+Catégorie 6 : capteurs et lasers, néant.
 
-Catégorie 7 : Navigation et aéro-électronique, néant.
+Catégorie 7 : navigation et aéro-électronique, néant.
 
-Catégorie 8 : Génie maritime, néant.
+Catégorie 8 : génie maritime, néant.
 
-Catégorie 9 : Propulsion, néant.
+Catégorie 9 : propulsion, néant.
