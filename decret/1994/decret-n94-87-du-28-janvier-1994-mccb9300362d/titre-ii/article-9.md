@@ -24,7 +24,7 @@ b) Trente membres nommés par le ministre chargé de la culture :
 
 4. Trois architectes en chef des monuments historiques chargés d'une mission d'inspection générale des monuments historiques ;
 
-5. Six personnalités qualifiées pour leur compétence ou leurs travaux dans les domaines traités par la sous-section, notamment en matière universitaire et de recherche, dont deux membres du Conseil supérieur de la recherche archéologique ;
+5. Six personnalités qualifiées pour leur compétence ou leurs travaux dans les domaines traités par la sous-section, notamment en matière universitaire et de recherche, dont deux membres du Conseil national de la recherche archéologique ;
 
 6. Deux membres d'association ayant pour objet de favoriser la connaissance, la protection et la conservation du patrimoine ;
 
@@ -64,7 +64,7 @@ b) Huit membres nommés par le ministre chargé de la culture :
 
 2. Deux architectes en chef des monuments historiques chargés d'une mission d'inspection générale des monuments historiques ;
 
-3. Trois personnalités qualifiées, par leur compétence ou leurs travaux dans les domaines traités par la première sous-section, notamment en matière universitaire et de recherche, dont un membre du Conseil supérieur de la recherche archéologique.
+3. Trois personnalités qualifiées, par leur compétence ou leurs travaux dans les domaines traités par la première sous-section, notamment en matière universitaire et de recherche, dont un membre du Conseil national de la recherche archéologique.
 
 3° La deuxième sous-section comprend trente-trois membres :
 
@@ -88,7 +88,7 @@ b) Vingt-sept membres nommés par le ministre chargé de la culture :
 
 2. Cinq architectes en chef des monuments historiques chargés d'une mission d'inspection générale des monuments historiques ;
 
-3. Sept personnalités qualifiées, par leur compétence ou leurs travaux dans les domaines traités par la sous-section, notamment en matière universitaire ou de recherche, dont deux membres du Conseil supérieur de la recherche archéologique ;
+3. Sept personnalités qualifiées, par leur compétence ou leurs travaux dans les domaines traités par la sous-section, notamment en matière universitaire ou de recherche, dont deux membres du Conseil national de la recherche archéologique ;
 
 4. Deux membres d'association ayant pour objet de favoriser la connaissance, la protection et la conservation du patrimoine ;
 

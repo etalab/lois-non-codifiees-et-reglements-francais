@@ -30,7 +30,7 @@ b) Vingt-deux membres nommés par le ministre chargé de la culture :
 
 6. Un conservateur affecté au musée d'Orsay.
 
-7. Cinq personnalités qualifiées pour leur compétence ou leurs travaux dans les domaines traités par la section, notamment en matière universitaire et de recherche, dont un membre du Conseil supérieur de la recherche archéologique ;
+7. Cinq personnalités qualifiées pour leur compétence ou leurs travaux dans les domaines traités par la section, notamment en matière universitaire et de recherche, dont un membre du Conseil national de la recherche archéologique ;
 
 8. Un directeur régional des affaires culturelles ;
 

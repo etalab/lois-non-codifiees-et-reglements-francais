@@ -14,7 +14,7 @@ b) Dix-huit membres nommés par le ministre chargé de la culture :
 
 2. Un architecte en chef des monuments historiques chargé d'une mission d'inspection générale des monuments historiques ;
 
-3. Onze personnalités qualifiées, par leur compétence ou leurs travaux dans les domaines traités par la section, notamment en matière universitaire et de recherche, dont cinq membres du Conseil supérieur de la recherche archéologique ;
+3. Onze personnalités qualifiées, par leur compétence ou leurs travaux dans les domaines traités par la section, notamment en matière universitaire et de recherche, dont cinq membres du Conseil national de la recherche archéologique ;
 
 4. Un directeur régional de l'environnement ;
 
