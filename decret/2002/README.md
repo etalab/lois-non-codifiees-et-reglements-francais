@@ -1146,6 +1146,7 @@
 - [Décret n°2002-942 du 26 juin 2002 (ECOT0295006D)](decret-n2002-942-du-26-juin-2002-ecot0295006d)
 - [Décret n°2002-943 du 26 juin 2002 (ECOT0294989D)](decret-n2002-943-du-26-juin-2002-ecot0294989d)
 - [Décret n°54-538 du 26 mai 1954](decret-n54-538-du-26-mai-1954)
+- [Décret n°55-733 du 26 mai 1955](decret-n55-733-du-26-mai-1955)
 - [Décret n°2001-1136 du 27 novembre 2001 (ECOT0114200D)](decret-n2001-1136-du-27-novembre-2001-ecot0114200d)
 - [Décret n°2001-373 du 27 avril 2001 (JUSC0120168D)](decret-n2001-373-du-27-avril-2001-jusc0120168d)
 - [Décret n°2001-712 du 27 juillet 2001 (DEFD0101687D)](decret-n2001-712-du-27-juillet-2001-defd0101687d)
