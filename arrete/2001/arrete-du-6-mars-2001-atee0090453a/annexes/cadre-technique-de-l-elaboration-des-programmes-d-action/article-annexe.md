@@ -56,75 +56,51 @@ Le tableau ci-dessous fixe les périodes minimales pendant lesquelles l'épandag
 
 Le programme peut allonger ces périodes, en avançant les dates initiales ou en reculant les dates terminales, pour tenir compte des conditions locales, notamment climatiques. Il doit préciser les occupations du sol locales et indiquer les périodes d'interdiction correspondantes. Pour les cultures ne figurant pas dans le tableau, notamment les cultures spéciales (arboriculture, maraîchage,...), les périodes d'interdiction d'épandage sont à fixer localement de manière à réduire les fuites vers les eaux, particulièrement en hiver.
 
-OCCUPATION DU SOL AVANT ET SUR TYPES DE FERTILISANTS
+OCCUPATION DU SOL AVANT ET SUR : Sols non cultivés
 
-Type 1
+TYPES DE FERTILISANTS
 
-C/N > 8
+Type I ; C/N > 8 : Toute l'année
 
-Type II
+Type II ; C/N < = 8 : Toute l'année
 
-C/N > = 8
+Type III ; azote minéral : Toute l'année
 
-Type III
+OCCUPATION DU SOL AVANT ET SUR : Grandes cultures implantées à l'automne
 
-azote minéral
+TYPES DE FERTILISANTS
 
-Sols non cultivés
+Type II ; C/N < = 8 : Du 1er novembre au 15 janvier
 
-Toute l'année
+Type III ; azote minéral : Du 1er septembre au 15 janvier
 
-Toute l'année
+OCCUPATION DU SOL AVANT ET SUR : Grandes cultures implantées au printemps
 
-Toute l'année
+TYPES DE FERTILISANTS
 
-Grandes cultures implantées à l'automne
+Type I ; C/N > 8 : Du 1er juillet au 31 août
 
-Du 1er novembre
+Type II ; C/N < = 8 : Du 1er juillet au 15 janvier
 
-au 15 janvier
+Type III ; azote minéral : Du 1er juillet au 15 février
 
-Du 1er septembre
+OCCUPATION DU SOL AVANT ET SUR : Prairies implantées depuis plus de six mois
 
-au 15 janvier
+TYPES DE FERTILISANTS
 
-Grandes cultures implantées au printemps
+Type II ; C/N < = 8 : Du 15 novembre au 15 janvier
 
-Du 1er juillet
+Type III ; azote minéral : Du 1er octobre au 31 janvier
 
-au 31 août
+OCCUPATION DU SOL AVANT ET SUR : Autres cultures (à préciser dans le programme d'action)
 
-Du 1er juillet
+TYPES DE FERTILISANTS
 
-au 15 janvier
+Type I ; C/N > 8 : Période à fixer localement
 
-Du 1er juillet
+Type II ; C/N < = 8 : Période à fixer localement
 
-au 15 février
-
-Prairies implantées depuis plus de 6 mois
-
-Du 15 novembre
-
-au 15 janvier
-
-Du 1er octobre
-
-au 31 janvier
-
-Autres cultures (à préciser dans le programme d'action)
-
-Période à fixer
-
-ultérieurement
-
-Période à fixer
-
-ultérieurement
-
-Période à fixer
-
-ultérieurement
+Type III ; azote minéral : Période à fixer localement
 
 Les sols non cultivés sont des surfaces non utilisées en vue d'une production agricole.
 
@@ -156,49 +132,29 @@ Le tableau ci-dessous fixe les restrictions à l'épandage. En cas d'épandage r
 
 Sur les sols gelés uniquement en surface, alternant gel et dégel en vingt-quatre heures, l'épandage est possible pour tous les types de fertilisants.
 
-TYPES de fertilisants et occupation des sols
+TYPES de fertilisants et occupation des sols : Sol pris en masse par le gel
 
-Type 1
+Type I ; C/N > 8 : Interdit ou réglementé
 
-C/N > 8
+Type II ; C/N < = 8 : Interdit
 
-Type II
+Type III ; azote minéral : Interdit ou réglementé
 
-C/N > = 8
+TYPES de fertilisants et occupation des sols : Sol inondé ou détrempé
 
-Type III
+Type I ; C/N > 8 : Interdit
 
-azote minéral
+Type II ; C/N < = 8 : Interdit
 
-Sol pris en masse par le gel
+Type III ; azote minéral : Interdit
 
-Interdit
+TYPES de fertilisants et occupation des sols : Sol enneigé
 
-ou réglementé
+Type I ; C/N > 8 : Interdit ou réglementé
 
-Interdit
+Type II ; C/N < = 8 : Interdit
 
-Interdit
-
-ou réglementé
-
-Sol inondé ou détrempé
-
-Interdit
-
-Interdit
-
-Interdit
-
-Sol enneigé
-
-Interdit
-
-ou réglementé
-
-Interdit
-
-Interdit
+Type III ; azote minéral : Interdit
 
 2.6. Stockage des effluents d'élevage
 
