@@ -1149,8 +1149,6 @@
 - [Arrêté du 28 novembre 1996 (MENF9603435A)](arrete-du-28-novembre-1996-menf9603435a)
 - [Arrêté du 28 novembre 1996 (MENF9603436A)](arrete-du-28-novembre-1996-menf9603436a)
 - [Arrêté du 28 novembre 1996 (MIPP9600424A)](arrete-du-28-novembre-1996-mipp9600424a)
-- [Arrêté du 28 octobre 1994 (LOGC9400069A)](arrete-du-28-octobre-1994-logc9400069a)
-- [Arrêté du 28 octobre 1994 (LOGC9400070A)](arrete-du-28-octobre-1994-logc9400070a)
 - [Arrêté du 28 octobre 1996 (AGRP9602336A)](arrete-du-28-octobre-1996-agrp9602336a)
 - [Arrêté du 28 octobre 1996 (AGRP9602364A)](arrete-du-28-octobre-1996-agrp9602364a)
 - [Arrêté du 28 octobre 1996 (FCEC9600202A)](arrete-du-28-octobre-1996-fcec9600202a)

@@ -4,6 +4,5 @@
 - [TITRE II : Recrutement.](titre-ii)
 - [TITRE III : Avancement.](titre-iii)
 - [TITRE IV : Dispositions finales et transitoires.](titre-iv)
-- [Article 22-1](article-22-1.md)
 - [Article 34](article-34.md)
 - [Annexes](annexes)
