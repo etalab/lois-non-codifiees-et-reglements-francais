@@ -1,0 +1,7 @@
+# Article 4
+
+Les plans d'épargne retraite peuvent être souscrits par un ou plusieurs employeurs, ou par un groupement d'employeurs, au profit de leurs salariés.
+
+La souscription peut résulter d'un accord collectif d'entreprise ou d'un accord de branche, professionnel ou interprofessionnel, conclu à un échelon national, régional ou local. Ces accords sont régis par le titre III du livre Ier du code du travail, à l'exclusion de ses chapitres III et IV ; ils peuvent déroger au second alinéa de l'article L. 132-13 et au second alinéa de l'article L. 132-23 dudit code. Les plans d'épargne retraite sont proposés à l'adhésion de tous les salariés de l'entreprise et, en cas d'accord de branche, professionnel ou interprofessionnel, à tous les salariés compris dans son champ d'application professionnel et territorial. Les conditions d'adhésion sont alors définies de façon identique pour des catégories homogènes de salariés.
+
+En cas d'impossibilité de conclure un accord collectif ou, à défaut de conclusion d'un tel accord dans un délai de six mois à compter du début de la négociation, la souscription peut également résulter d'une décision unilatérale de l'employeur ou d'un groupement d'employeurs constatée dans un écrit remis par ceux-ci à chaque salarié. Les salariés d'une même entreprise adhèrent au plan d'épargne retraite qui leur est proposé dans les conditions prévues à l'alinéa précédent.

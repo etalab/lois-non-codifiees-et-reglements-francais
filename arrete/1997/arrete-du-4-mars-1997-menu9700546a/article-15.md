@@ -1,0 +1,3 @@
+# Article 15
+
+Les dispositions du présent arrêté s'appliquent aux étudiants s'inscrivant en deuxième année de deuxième cycle à compter de la rentrée universitaire 1997-1998, ou pour les universités ayant conclu les conventions prévues à l'article 11 du décret du 8 octobre 1970 susvisé, à compter de la rentrée universitaire 1996-1997. Conformément aux dispositions de l'article 10 du décret du 15 novembre 1996 modifiant le décret du 8 octobre 1970 susvisé, les dispositions relatives aux gardes que doivent effectuer les étudiants, et aux conditions de redoublement de la dernière année du deuxième cycle s'appliquent dès la rentrée universitaire 1996-1997.
