@@ -4,5 +4,6 @@
 - [TITRE II : Frais de transport des personnes.](titre-ii)
 - [TITRE III : Missions, tournées, intérim.](titre-iii)
 - [TITRE IV : Changement de résidence.](titre-iv)
+- [TITRE IV bis : Congés administratifs.](titre-iv-bis)
 - [TITRE V : Indemnités pour usage de véhicule personnel.](titre-v)
 - [TITRE VI : Modalités de paiement.](titre-vi)
