@@ -1,3 +1,3 @@
 # Article 2
 
-Les remboursements auxquels peut prétendre la Caisse autonome nationale de la sécurité sociale dans les mines, en application de l'article 6 du décret du 27 octobre 1967, sont assurés dans les conditions fixées par la convention du 5 mars 1968 susvisée.
+En cas d'emploi simultané d'esters citriques des mono et diglycérides d'acides gras (E 472 c), de mono et diglycérides d'acides gras (E 471) et/ou de lécithines (E 322), la quantité maximale d'émulsifiants ne doit pas dépasser 20 grammes par kilogramme (2 p. 100) de margarine.

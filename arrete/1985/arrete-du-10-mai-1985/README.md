@@ -1,4 +1,4 @@
-# Arrêté du 10 mai 1985 accordant la garantie de l'Etat à des emprunts de la caisse française de développement industriel
+# Arrêté du 10 mai 1985 portant classement indiciaire des emplois communaux et réaménagement des carrières des agents des collectivités locales classés à l'échelle I et au groupe III
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

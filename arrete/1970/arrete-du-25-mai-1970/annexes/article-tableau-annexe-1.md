@@ -2,243 +2,223 @@
 
 <table>
 <tr>
-<td> :=================================================================:</td>
+<td> :-----------------------------------------------------------------:</td>
 </tr>
 <tr>
-<td> : GRADES ET EMPLOIS ACTUELS :                                     :</td>
+<td> : GRADES ET EMPLOIS ACTUELS :    CLASSEMENT   :  INDICES BRUTS AU :</td>
 </tr>
 <tr>
-<td> :     (indices bruts)       :  Classement au 1er janvier 1983     :</td>
+<td> :                           :  dans l'échelle :-------------------:</td>
 </tr>
 <tr>
-<td> :                           :                                     :</td>
+<td> :                           :  ou les groupes : 1-01-85 : 1-07-85 :</td>
 </tr>
 <tr>
-<td> :=================================================================:</td>
+<td> :                           : de rémunération :         :         :</td>
 </tr>
 <tr>
-<td> : Echelle indiciaire (204 - :                                     :</td>
+<td> :---------------------------:-------------------------------------:</td>
 </tr>
 <tr>
-<td> : 282) :                    :             Echelle 1               :</td>
+<td> :                           :                 :         :         :</td>
 </tr>
 <tr>
-<td> :  Gardien ou garçon de     :                                     :</td>
+<td> :                           :     Echelle I   :  206-   :  209-   :</td>
 </tr>
 <tr>
-<td> :  bureau (1ère et 2ème     :                                     :</td>
+<td> :  Gardien ou garçon de     :                 :  282    :  282    :</td>
 </tr>
 <tr>
-<td> :  catégorie)               :                                     :</td>
+<td> :  bureau (1ère et 2ème     :                 :         :         :</td>
 </tr>
 <tr>
-<td> :  Agent de service         :                                     :</td>
+<td> :  catégorie)               :                 :         :         :</td>
 </tr>
 <tr>
-<td> :  Manutentionnaire         :                                     :</td>
+<td> :  Agent de service         :                 :         :         :</td>
 </tr>
 <tr>
-<td> :  Manoeuvre                :                                     :</td>
+<td> :  Manutentionnaire         :                 :         :         :</td>
 </tr>
 <tr>
-<td> :  Huissier du maire        :                                     :</td>
+<td> :  Manoeuvre                :                 :         :         :</td>
 </tr>
 <tr>
-<td> :  Agent de service des     :                                     :</td>
+<td> :  Huissier du maire        :                 :         :         :</td>
 </tr>
 <tr>
-<td> :   écoles                  :                                     :</td>
+<td> :  Agent de service des     :                 :         :         :</td>
 </tr>
 <tr>
-<td> :  Garçon de laboratoire    :                                     :</td>
+<td> :   écoles                  :                 :         :         :</td>
 </tr>
 <tr>
-<td> :   d'analyses chimiques    :                                     :</td>
+<td> :  Garçon de laboratoire    :                 :         :         :</td>
 </tr>
 <tr>
-<td> :  Gardien de musée         :                                     :</td>
+<td> :   d'analyses chimiques    :                 :         :         :</td>
 </tr>
 <tr>
-<td> :  Gardien ou garçon de     :                                     :</td>
+<td> :  Gardien de musée         :                 :         :         :</td>
 </tr>
 <tr>
-<td> :   bibliothèque            :                                     :</td>
+<td> :  Gardien ou garçon de     :                 :         :         :</td>
 </tr>
 <tr>
-<td> :  Gardien de cimetière     :                                     :</td>
+<td> :   bibliothèque            :                 :         :         :</td>
 </tr>
 <tr>
-<td> :  Manoeuvre de force       :                                     :</td>
+<td> :  Gardien de cimetière     :                 :         :         :</td>
 </tr>
 <tr>
-<td> :  Brigadier des gardiens   :                                     :</td>
+<td> :  Manoeuvre de force       :                 :         :         :</td>
 </tr>
 <tr>
-<td> :   ou garçons de bureau    :                                     :</td>
+<td> :  Brigadier des gardiens   :                 :         :         :</td>
 </tr>
 <tr>
-<td> :  Agent spécialisé des     :                                     :</td>
+<td> :   ou garçons de bureau    :                 :         :         :</td>
 </tr>
 <tr>
-<td> :   écoles maternelles et   :                                     :</td>
+<td> :  Agent spécialisé des     :                 :         :         :</td>
 </tr>
 <tr>
-<td> :   des classes enfantines  :                                     :</td>
+<td> :   écoles maternelles et   :                 :         :         :</td>
 </tr>
 <tr>
-<td> :  Appariteur-enquêteur    :                                     :</td>
+<td> :   des classes enfantines  :                 :         :         :</td>
 </tr>
 <tr>
-<td> :  Agent de bureau          :                                     :</td>
+<td> :  Appariteur-enquêteur    :                 :         :         :</td>
 </tr>
 <tr>
-<td> :  Manoeuvre spécialisé     :                                     :</td>
+<td> :  Agent de bureau          :                 :         :         :</td>
 </tr>
 <tr>
-<td> :   usines et ateliers      :                                     :</td>
+<td> :  Manoeuvre spécialisé     :                 :         :         :</td>
 </tr>
 <tr>
-<td> :   municipaux              :                                     :</td>
+<td> :   usines et ateliers      :                 :         :         :</td>
 </tr>
 <tr>
-<td> :  Garçon de laboratoire    :                                     :</td>
+<td> :   municipaux              :                 :         :         :</td>
 </tr>
 <tr>
-<td> :   d'analyses médicales    :                                     :</td>
+<td> :  Garçon de laboratoire    :                 :         :         :</td>
 </tr>
 <tr>
-<td> :  Aide ménagère            :                                     :</td>
+<td> :   d'analyses médicales    :                 :         :         :</td>
+</tr>
+<tr>
+<td> :  Aide ménagère            :                 :         :         :</td>
+</tr>
+<tr>
+<td> :-----------------------------------------------------------------:</td>
 </tr>
 </table>
 
-===================================================================
-
 <table>
 <tr>
-<td> :=================================================================:</td>
+<td> :-----------------------------------------------------------------:</td>
 </tr>
 <tr>
-<td> : GRADES ET EMPLOIS ACTUELS :  CLASSEMENT DU   :  CLASSEMENT A    :</td>
+<td> : GRADES ET EMPLOIS ACTUELS :   CLASSEMENT    : INDICES BRUTS AU  :</td>
 </tr>
 <tr>
-<td> :    (indices bruts)        : 1er janvier 1970 :  COMPTER DU      :</td>
+<td> :                           : dans l'échelle  :------------------ :</td>
 </tr>
 <tr>
-<td> :                           :                  : 1er janvier 1974 :</td>
+<td> :                           :  ou les groupes : 1-01-85 : 1-07-85 :</td>
 </tr>
 <tr>
-<td> :===========================:==================:==================:</td>
+<td> :                           : de rémunération :         :         :</td>
 </tr>
 <tr>
-<td> : Echelle indiciaire (158 - :                  :                  :</td>
+<td> :---------------------------:-------------------------------------:</td>
 </tr>
 <tr>
-<td> : 210) :                    :                  :                  :</td>
+<td> :                           :                  :        :         :</td>
 </tr>
 <tr>
-<td> : Agent de bureau           :    Groupe III    :     Groupe III   :</td>
+<td> : Agent d'enquêtes         :    Groupe III    : 220-   :  220    :</td>
 </tr>
 <tr>
-<td> : dactylographe (1)         :    provisoire    :                  :</td>
+<td> : Téléphoniste              :                  : 282    :  282    :</td>
 </tr>
 <tr>
-<td> :                           :                  :                  :</td>
+<td> : Agent de bureau           :                  :        :         :</td>
 </tr>
 <tr>
-<td> : Echelle indiciaire 170 -  :                  :                  :</td>
+<td> :  dactylographe            :                  :        :         :</td>
 </tr>
 <tr>
-<td> : 235) :                    :                  :                  :</td>
+<td> : Aide-ouvrier              :                  :        :         :</td>
 </tr>
 <tr>
-<td> :  Surveillant de           :                  :                  :</td>
+<td> :  professionnel            :                  :        :         :</td>
 </tr>
 <tr>
-<td> :   bibliothèque            :                  :                  :</td>
+<td> : Conducteur d'auto         :                  :        :         :</td>
 </tr>
 <tr>
-<td> :  Surveillant chef gardien :                  :                  :</td>
+<td> :  (tourisme et utilitaire) :                  :        :         :</td>
 </tr>
 <tr>
-<td> :   de musée                :    Groupe III    :   Groupe III     :</td>
+<td> : Chef d'équipe d'entretien :                  :        :         :</td>
 </tr>
 <tr>
-<td> :  Ouvrier d'entretien de   :    provisoire    :                  :</td>
+<td> :  de la voie publique      :                  :        :         :</td>
 </tr>
 <tr>
-<td> :   la voie publique        :                  :                  :</td>
+<td> : Aide de laboratoire       :                  :        :         :</td>
 </tr>
 <tr>
-<td> :  Aide-ouvrier             :                  :                  :</td>
+<td> :  et aide                  :                  :        :         :</td>
 </tr>
 <tr>
-<td> :   professionnel           :                  :                  :</td>
+<td> :  d'électro radiologie     :                  :        :         :</td>
 </tr>
 <tr>
-<td> :                           :                  :                  :</td>
+<td> : Auxiliaire de             :                  :        :         :</td>
 </tr>
 <tr>
-<td> : Echelle indiciaire (185 - :                  :                  :</td>
+<td> :  puériculture             :                  :        :         :</td>
 </tr>
 <tr>
-<td> : 255) :                    :                  :                  :</td>
+<td> : Receveur placier          :                  :        :         :</td>
 </tr>
 <tr>
-<td> :  Agent d'enquêtes         :                  :                  :</td>
+<td> :  Surveillant chef gardien :                  :        :         :</td>
 </tr>
 <tr>
-<td> :  Téléphoniste             :                  :                  :</td>
+<td> :   de musée                :                  :        :         :</td>
 </tr>
 <tr>
-<td> :  Employé de bibliothèque  :                  :                  :</td>
+<td> : Employé de bibliothèque   :                  :        :         :</td>
 </tr>
 <tr>
-<td> :                           :                  :                  :</td>
+<td> : Surveillant de            :                  :        :         :</td>
 </tr>
 <tr>
-<td> :  Receveur placier         :                  :                  :</td>
+<td> :  bibliothèque             :                  :        :         :</td>
 </tr>
 <tr>
-<td> :  Auxiliaire de            :                  :                  :</td>
+<td> : Porteur (service des      :                  :        :         :</td>
 </tr>
 <tr>
-<td> :   puériculture            :    Groupe III    :    Groupe III    :</td>
+<td> :  inhumations)             :                  :        :         :</td>
 </tr>
 <tr>
-<td> :  Conducteur d'auto        :                  :                  :</td>
+<td> : Garde champêtre          :                  :        :         :</td>
 </tr>
 <tr>
-<td> :   tourisme et utilitaire  :                  :                  :</td>
+<td> : Sapeur-pompier            :                  :        :         :</td>
 </tr>
 <tr>
-<td> :  Chef d'équipe            :                  :                  :</td>
+<td> :  professionnel de         :                  :        :         :</td>
 </tr>
 <tr>
-<td> :   d'entretien de la voie  :                  :                  :</td>
-</tr>
-<tr>
-<td> :   publique (2)            :                  :                  :</td>
-</tr>
-<tr>
-<td> :  Eboueur, égoutier,       :                  :                  :</td>
-</tr>
-<tr>
-<td> :   fossoyeur               :                  :                  :</td>
-</tr>
-<tr>
-<td> :  Gardien de police        :                  :                  :</td>
-</tr>
-<tr>
-<td> :   municipale et rurale,   :                  :                  :</td>
-</tr>
-<tr>
-<td> :   garde champêtre         :                  :                  :</td>
-</tr>
-<tr>
-<td> :  Aide de laboratoire      :                  :                  :</td>
-</tr>
-<tr>
-<td> :  Aide d'électroradiologie :                  :                  :</td>
+<td> :  2ème classe              :                  :        :         :</td>
 </tr>
 <tr>
 <td> :                           :                  :                  :</td>
@@ -252,9 +232,10 @@
 <tr>
 <td> :   1ère catégorie (1)      :                  :                  :</td>
 </tr>
+<tr>
+<td> :-----------------------------------------------------------------:</td>
+</tr>
 </table>
-
-===================================================================
 
 <table>
 <tr>

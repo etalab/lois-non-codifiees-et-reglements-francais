@@ -1,3 +1,3 @@
 # Article 1
 
-La dérogation prévue par l'article 1er du décret du 27 octobre 1967 susvisé est rendue applicable, du 1er juin 1985 au 31 mai 1986, aux ouvriers, employés, techniciens et agents de maîtrise affectés aux services de reclassement du personnel excédentaire du fond et du jour des Houillères du bassin du Nord et du Pas-de-Calais, des Houillères du bassin de Lorraine et des Houillères du bassin du Centre-Midi.
+L'addition, comme agents émulsifiants, d'esters citriques des mono et diglycérides d'acides gras (E 472 c) est autorisée dans les margarines à la dose maximale de 10 grammes par kilogramme (1 p. 100) de produit fini.
