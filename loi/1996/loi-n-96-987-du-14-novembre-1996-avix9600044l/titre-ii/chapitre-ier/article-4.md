@@ -2,9 +2,7 @@
 
 A. - modification du CGI
 
-B. - Dans les conditions prévues par la loi de finances, l'Etat compense,
-
-chaque année, à compter du 1er janvier 1997, la perte de recettes résultant pour les collectivités territoriales et leurs groupements dotés d'une fiscalité propre et les fonds départementaux de péréquation des exonérations liées aux créations d'établissements mentionnées aux I bis, I ter et I quater de l'article 1466 A du code général des impôts.
+B. - Dans les conditions prévues par la loi de finances, l'Etat compense, chaque année, à compter du 1er janvier 1997, la perte de recettes résultant pour les collectivités territoriales et leurs groupements dotés d'une fiscalité propre et les fonds départementaux de péréquation des exonérations liées aux créations d'établissements mentionnées aux I bis, I ter et I quater de l'article 1466 A du code général des impôts.
 
 Le Fonds national de péréquation de la taxe professionnelle compense, chaque année, à compter de 1997, la perte de recettes résultant pour les collectivités territoriales et leurs groupements dotés d'une fiscalité propre et les fonds départementaux de péréquation des exonérations accordées au titre :
 
@@ -18,9 +16,11 @@ Pour les communes qui appartenaient en 1996 à un groupement sans fiscalité pro
 
 Pour les groupements qui perçoivent pour la première fois à compter de 1997 la taxe professionnelle au lieu et place des communes en application des dispositions de l'article 1609 nonies C ou du II de l'article 1609 quinquies C du code général des impôts, cette compensation est égale au produit du montant des bases exonérées par le taux moyen pondéré des communes membres du groupement constaté pour 1996, éventuellement majoré dans les conditions fixées à l'alinéa précédent.
 
-Chaque année, la charge supportée par le Fonds national de péréquation de la taxe professionnelle à ce titre ne peut excéder le surcroît, par rapport à l'année précédente, de la différence du produit d'impositions définie au deuxième alinéa du 6o de l'article 21 de la loi no 90-568 du 2 juillet 1990 relative à l'organisation du service public de la poste et des télécommunications.
+Chaque année, la charge supportée par le Fonds national de péréquation de la taxe professionnelle à ce titre ne peut excéder le surcroît, par rapport à l'année précédente, de la différence du produit d'impositions définie au deuxième alinéa du 6° de l'article 21 de la loi n° 90-568 du 2 juillet 1990 relative à l'organisation du service public de la poste et des télécommunications.
 
 Lorsque la perte de recettes résultant pour les collectivités territoriales et leurs groupements dotés d'une fiscalité propre des exonérations mentionnées aux deuxième, troisième et quatrième alinéas est supérieure à la charge supportée, dans les conditions fixées à l'alinéa ci-dessus, par le Fonds national de péréquation de la taxe professionnelle, l'Etat compense la différence dans les conditions prévues par la loi de finances.
+
+A compter de 2004, l'Etat compense, chaque année, dans les conditions prévues par la loi de finances, la perte de recettes résultant, pour les collectivités territoriales et leurs groupements dotés d'une fiscalité propre et les fonds départementaux de péréquation de la taxe professionnelle, des exonérations mentionnées aux troisième et quatrième alinéas du présent B.
 
 C et D. - modification du CGI et de la loi n° 95-115 du 4 février 1995.
 
