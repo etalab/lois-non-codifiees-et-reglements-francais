@@ -16,7 +16,9 @@ C représente le montant forfaitaire des charges défini à l'article 11 ter de 
 
 PP représente la participation personnelle du ménage à la dépense de logement. Son montant est calculé selon les modalités définies aux articles 2 ter et 2 quater ci-dessous.
 
-II. - A compter du 1er juillet 2000, en application de l'article R. 351-22-1, les plafonds de loyers visés à l'article R. 351-17-3 son fixés comme suit :
+II. - En application de l'article R. 351-22-1, les plafonds de loyers visés à l'article R. 351-17-3 son fixés comme suit :
+
+Valeur en francs du 1er juillet 2001 au 31 décembre 2001.
 
 <table>
 <tbody>
@@ -42,16 +44,16 @@ II. - A compter du 1er juillet 2000, en application de l'article R. 351-22-1, le
 <p align="center">I</p>
 </td>
 <td width="119">
-<p align="center">1 577</p>
+<p align="center">1 596</p>
 </td>
 <td width="159">
-<p align="center">1 902</p>
+<p align="center">1 925</p>
 </td>
 <td width="172">
-<p align="center">2 139</p>
+<p align="center">2 165</p>
 </td>
 <td width="166">
-<p align="center">310</p>
+<p align="center">314</p>
 </td>
 </tr>
 <tr>
@@ -59,16 +61,16 @@ II. - A compter du 1er juillet 2000, en application de l'article R. 351-22-1, le
 <p align="center">II</p>
 </td>
 <td width="119">
-<p align="center">1 385</p>
+<p align="center">1 402</p>
 </td>
 <td width="159">
-<p align="center">1 696</p>
+<p align="center">1 716</p>
 </td>
 <td width="172">
-<p align="center">1 908</p>
+<p align="center">1 931</p>
 </td>
 <td width="166">
-<p align="center">278</p>
+<p align="center">281</p>
 </td>
 </tr>
 <tr>
@@ -76,16 +78,91 @@ II. - A compter du 1er juillet 2000, en application de l'article R. 351-22-1, le
 <p align="center">III</p>
 </td>
 <td width="119">
-<p align="center">1 298</p>
+<p align="center">1 314</p>
 </td>
 <td width="159">
-<p align="center">1 574</p>
+<p align="center">1 593</p>
 </td>
 <td width="172">
-<p align="center">1 765</p>
+<p align="center">1 786</p>
 </td>
 <td width="166">
-<p align="center">253</p>
+<p align="center">256</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Valeur en euros à compter du 1er janvier 2002.
+
+<table>
+<tbody>
+<tr>
+<td width="64">
+<p align="center">ZONE</p>
+</td>
+<td width="119">
+<p align="center">PERSONNE SEULE<br/>(en euros)</p>
+</td>
+<td width="159">
+<p align="center">COUPLE SANS PERSONNE<br/>à charge<br/>(en euros)</p>
+</td>
+<td width="172">
+<p align="center">PERSONNE SEULE <br/>ou couple ayant une personne à charge<br/>(en euros)</p>
+</td>
+<td width="166">
+<p align="center">PAR PERSONNE À CHARGE<br/>supplémentaire<br/>(en euros)</p>
+</td>
+</tr>
+<tr>
+<td width="64">
+<p align="center">I</p>
+</td>
+<td width="119">
+<p align="center">243,31</p>
+</td>
+<td width="159">
+<p align="center">293,46</p>
+</td>
+<td width="172">
+<p align="center">330,05</p>
+</td>
+<td width="166">
+<p align="center">47,87</p>
+</td>
+</tr>
+<tr>
+<td width="64">
+<p align="center">II</p>
+</td>
+<td width="119">
+<p align="center">213,73</p>
+</td>
+<td width="159">
+<p align="center">261,60</p>
+</td>
+<td width="172">
+<p align="center">294,38</p>
+</td>
+<td width="166">
+<p align="center">42,84</p>
+</td>
+</tr>
+<tr>
+<td width="64">
+<p align="center">III</p>
+</td>
+<td width="119">
+<p align="center">200,32</p>
+</td>
+<td width="159">
+<p align="center">242,85</p>
+</td>
+<td width="172">
+<p align="center">272,27</p>
+</td>
+<td width="166">
+<p align="center">39,03</p>
 </td>
 </tr>
 </tbody>

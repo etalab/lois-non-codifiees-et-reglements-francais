@@ -2,126 +2,115 @@
 
 Les mensualités de référence pour les logements financés par les prêts prévus par les articles R. 331-63 à R. 331-77 sont fixées comme suit lorsque la date de signature du contrat de prêts mentionnée sur le certificat prévu à l'article 1er (3°) de l'arrêté du 13 juillet 1977 susvisé est intervenue après le 30 juin 1985 :
 
-a) Logements construits ou acquis et améliorés par l'accédant à la propriété : <table>
-<tbody>
-<tr>
-<td width="227">
-<p align="center">DÉSIGNATION</p>
-</td>
-<td width="151">
-<p align="center">ZONE 1<br/>(en francs)</p>
-</td>
-<td width="151">
-<p align="center">ZONE 2<br/>(en francs)</p>
-</td>
-<td width="151">
-<p align="center">ZONE 3<br/>(en francs)</p>
-</td>
-</tr>
-<tr>
-<td width="227">
-<p>Bénéficiaire isolé</p>
-</td>
-<td width="151">
-<p align="center">1 875</p>
-</td>
-<td width="151">
-<p align="center">1 672</p>
-</td>
-<td width="151">
-<p align="center">1 561</p>
-</td>
-</tr>
-<tr>
-<td width="227">
-<p>Ménage sans personne à charge</p>
-</td>
-<td width="151">
-<p align="center">2 261</p>
-</td>
-<td width="151">
-<p align="center">2 013</p>
-</td>
-<td width="151">
-<p align="center">1 872</p>
-</td>
-</tr>
-<tr>
-<td width="227">
-<p>Bénéficiaire isolé ou ménage ayant une personne à charge</p>
-</td>
-<td width="151">
-<p align="center">2 647</p>
-</td>
-<td width="151">
-<p align="center">2 354</p>
-</td>
-<td width="151">
-<p align="center">2 183</p>
-</td>
-</tr>
-<tr>
-<td width="227">
-<p>Par personne supplémentaire à charge</p>
-</td>
-<td width="151">
-<p align="center">386</p>
-</td>
-<td width="151">
-<p align="center">341</p>
-</td>
-<td width="151">
-<p align="center">311</p>
-</td>
-</tr>
-</tbody>
-</table>
-
-b) Logements améliorés par leur propriétaire occupant :
+a) Logements construits ou acquis et améliorés par l'accédant à la propriété :
 
 <table>
-<tbody>
 <tr>
-<td width="362">
-<p align="center">DÉSIGNATION</p>
-</td>
-<td width="318">
-<p align="center">TOUTES ZONES<br/>(en francs)</p>
-</td>
+<td> :====================================================:</td>
 </tr>
 <tr>
-<td width="362">
-<p>Bénéficiaire isolé</p>
-</td>
-<td width="318">
-<p align="center">781</p>
-</td>
+<td> :   DESIGNATION       : Zone I  : Zone II : Zone III :</td>
 </tr>
 <tr>
-<td width="362">
-<p>Ménage sans personne à charge</p>
-</td>
-<td width="318">
-<p align="center">872</p>
-</td>
+<td> :---------------------:---------:---------:----------:</td>
 </tr>
 <tr>
-<td width="362">
-<p>Bénéficiaire isolé ou ménage ayant une personne à charge</p>
-</td>
-<td width="318">
-<p align="center">963</p>
-</td>
+<td> :                     :  Francs :  Francs :  Francs  :</td>
 </tr>
 <tr>
-<td width="362">
-<p>Par personne supplémentaire à charge</p>
-</td>
-<td width="318">
-<p align="center">91</p>
-</td>
+<td> :Bénéficiaire isolé   :  1.875  :  1.672  :  1.561   :</td>
 </tr>
-</tbody>
+<tr>
+<td> :                     :         :         :          :</td>
+</tr>
+<tr>
+<td> :Ménage sans personne :         :         :          :</td>
+</tr>
+<tr>
+<td> :à charge ...         :  2.261  :  2.013  :  1.872   :</td>
+</tr>
+<tr>
+<td> :                     :         :         :          :</td>
+</tr>
+<tr>
+<td> :Bénéficiaire isolé   :         :         :          :</td>
+</tr>
+<tr>
+<td> :ou ménage ayant une  :         :         :          :</td>
+</tr>
+<tr>
+<td> :personne à charge    :  2.647  :  2.354  :  2.183   :</td>
+</tr>
+<tr>
+<td> :                     :         :         :          :</td>
+</tr>
+<tr>
+<td> :Par personne         :         :         :          :</td>
+</tr>
+<tr>
+<td> :supplémentaire à     :    386  :    341  :    311   :</td>
+</tr>
+<tr>
+<td> :charge               :         :         :          :</td>
+</tr>
+<tr>
+<td> :====================================================:</td>
+</tr>
+<tr>
+<td>
+<br/>   b) Logements améliorés par leur propriétaire occupant :</td>
+</tr>
+<tr>
+<td> :==========================================:</td>
+</tr>
+<tr>
+<td> :    DESIGNATION            : TOUTES ZONES :</td>
+</tr>
+<tr>
+<td> :---------------------------:--------------:</td>
+</tr>
+<tr>
+<td> :                           :     Francs   :</td>
+</tr>
+<tr>
+<td> : Bénéficiaire isolé ...    :      781     :</td>
+</tr>
+<tr>
+<td> :                           :              :</td>
+</tr>
+<tr>
+<td> : Ménage sans personne à    :              :</td>
+</tr>
+<tr>
+<td> :  charge ...               :      872     :</td>
+</tr>
+<tr>
+<td> :                           :              :</td>
+</tr>
+<tr>
+<td> : Bénéficiaire isolé ou     :              :</td>
+</tr>
+<tr>
+<td> : ménage ayant une personne :              :</td>
+</tr>
+<tr>
+<td> :  à charge ...             :      963     :</td>
+</tr>
+<tr>
+<td> :                           :              :</td>
+</tr>
+<tr>
+<td> : Par personne              :              :</td>
+</tr>
+<tr>
+<td> :  supplémentaire à charge  :       91     :</td>
+</tr>
+<tr>
+<td> :                           :              :</td>
+</tr>
+<tr>
+<td> :==========================================:</td>
+</tr>
 </table>
 
 Les mensualités de référence pour les logements financés par les prêts prévus par les articles R. 331-63 et R. 331-77 sont fixées comme suit lorsque la date de signature du contrat de prêt mentionné sur le certificat prévu à l'article 2 (3°) de l'arrêté du 22 août 1986 susvisé est intervenue après le 30 juin 1987.
@@ -129,202 +118,168 @@ Les mensualités de référence pour les logements financés par les prêts pré
 a) Logements neufs construits ou acquis par l'accédant à la propriété :
 
 <table>
-<tbody>
 <tr>
-<td width="227">
-<p align="center">DÉSIGNATION</p>
-</td>
-<td width="151">
-<p align="center">ZONE 1<br/>(en francs)</p>
-</td>
-<td width="151">
-<p align="center">ZONE 2<br/>(en francs)</p>
-</td>
-<td width="151">
-<p align="center">ZONE 3<br/>(en francs)</p>
-</td>
+<td> :====================================================:</td>
 </tr>
 <tr>
-<td width="227">
-<p>Bénéficiaire isolé</p>
-</td>
-<td width="151">
-<p align="center">1 875</p>
-</td>
-<td width="151">
-<p align="center">1 672</p>
-</td>
-<td width="151">
-<p align="center">1 561</p>
-</td>
+<td> :   DESIGNATION        : Zone I : Zone II : Zone III :</td>
 </tr>
 <tr>
-<td width="227">
-<p>Ménage sans personne à charge</p>
-</td>
-<td width="151">
-<p align="center">2 261</p>
-</td>
-<td width="151">
-<p align="center">2 013</p>
-</td>
-<td width="151">
-<p align="center">1 872</p>
-</td>
+<td> :----------------------:--------:---------:----------:</td>
 </tr>
 <tr>
-<td width="227">
-<p>Bénéficiaire isolé ou ménage ayant une personne à charge</p>
-</td>
-<td width="151">
-<p align="center">2 647</p>
-</td>
-<td width="151">
-<p align="center">2 354</p>
-</td>
-<td width="151">
-<p align="center">2 183</p>
-</td>
+<td> :                      : Francs :  Francs :  Francs  :</td>
 </tr>
 <tr>
-<td width="227">
-<p>Par personne supplémentaire à charge</p>
-</td>
-<td width="151">
-<p align="center">386</p>
-</td>
-<td width="151">
-<p align="center">341</p>
-</td>
-<td width="151">
-<p align="center">311</p>
-</td>
-</tr>
-</tbody>
-</table>
-
-b) Logements agrandis ou aménagés à partir de locaux non destinés à l'habitation ou acquis et améliorés :
-
-<table>
-<tbody>
-<tr>
-<td width="227">
-<p align="center">DÉSIGNATION</p>
-</td>
-<td width="151">
-<p align="center">ZONE 1<br/>(en francs)</p>
-</td>
-<td width="151">
-<p align="center">ZONE 2<br/>(en francs)</p>
-</td>
-<td width="151">
-<p align="center">ZONE 3<br/>(en francs)</p>
-</td>
+<td> :Bénéficiaire isolé    :  1.875 :  1.672  :  1.561   :</td>
 </tr>
 <tr>
-<td width="227">
-<p>Bénéficiaire isolé</p>
-</td>
-<td width="151">
-<p align="center">1 406</p>
-</td>
-<td width="151">
-<p align="center">1 254</p>
-</td>
-<td width="151">
-<p align="center">1 171</p>
-</td>
+<td> :                      :        :         :          :</td>
 </tr>
 <tr>
-<td width="227">
-<p>Ménage sans personne à charge</p>
-</td>
-<td width="151">
-<p align="center">1 696</p>
-</td>
-<td width="151">
-<p align="center">1 510</p>
-</td>
-<td width="151">
-<p align="center">1 405</p>
-</td>
+<td> :Ménage sans personne  :        :         :          :</td>
 </tr>
 <tr>
-<td width="227">
-<p>Bénéficiaire isolé ou ménage ayant une personne à charge</p>
-</td>
-<td width="151">
-<p align="center">1 986</p>
-</td>
-<td width="151">
-<p align="center">1 766</p>
-</td>
-<td width="151">
-<p align="center">1 639</p>
-</td>
+<td> :à charge              :  2.261 :  2.013  :  1.872   :</td>
 </tr>
 <tr>
-<td width="227">
-<p>Par personne supplémentaire à charge</p>
-</td>
-<td width="151">
-<p align="center">290</p>
-</td>
-<td width="151">
-<p align="center">256</p>
-</td>
-<td width="151">
-<p align="center">234</p>
-</td>
+<td> :                      :        :         :          :</td>
 </tr>
-</tbody>
+<tr>
+<td> :Bénéficiaire isolé ou :        :         :          :</td>
+</tr>
+<tr>
+<td> :ménage ayant une      :        :         :          :</td>
+</tr>
+<tr>
+<td> :personne à charge     :  2.647 :  2.354  :  2.183   :</td>
+</tr>
+<tr>
+<td> :                      :        :         :          :</td>
+</tr>
+<tr>
+<td> :Par personne          :        :         :          :</td>
+</tr>
+<tr>
+<td> :supplémentaire        :    386 :    341  :    311   :</td>
+</tr>
+<tr>
+<td> :à charge              :        :         :          :</td>
+</tr>
+<tr>
+<td> :====================================================:</td>
+</tr>
+<tr>
+<td>
+<br/>    b) Logements agrandis ou aménagés à partir de locaux non destinés à l'habitation ou acquis et améliorés :</td>
+</tr>
+<tr>
+<td> :====================================================:</td>
+</tr>
+<tr>
+<td> :   DESIGNATION        : Zone I : Zone II : Zone III :</td>
+</tr>
+<tr>
+<td> :----------------------:--------:---------:----------:</td>
+</tr>
+<tr>
+<td> :                      : Francs :  Francs :  Francs  :</td>
+</tr>
+<tr>
+<td> :Bénéficiaire isolé    :  1.406 :  1.254  :  1.171   :</td>
+</tr>
+<tr>
+<td> :                      :        :         :          :</td>
+</tr>
+<tr>
+<td> :Ménage sans personne  :        :         :          :</td>
+</tr>
+<tr>
+<td> :à charge              :  1.696 :  1.510  :  1.405   :</td>
+</tr>
+<tr>
+<td> :                      :        :         :          :</td>
+</tr>
+<tr>
+<td> :Bénéficiaire isolé ou :        :         :          :</td>
+</tr>
+<tr>
+<td> :ménage ayant une      :        :         :          :</td>
+</tr>
+<tr>
+<td> :personne à charge     :  1.986 :  1.766  :  1.639   :</td>
+</tr>
+<tr>
+<td> :                      :        :         :          :</td>
+</tr>
+<tr>
+<td> :Par personne          :        :         :          :</td>
+</tr>
+<tr>
+<td> : supplémentaire à     :    290 :    256  :    234   :</td>
+</tr>
+<tr>
+<td> :charge                :        :         :          :</td>
+</tr>
+<tr>
+<td> :====================================================:</td>
+</tr>
 </table>
 
 c) Logements améliorés par leur propriétaire occupant :
 
 <table>
-<tbody>
 <tr>
-<td width="362">
-<p align="center">DÉSIGNATION</p>
-</td>
-<td width="318">
-<p align="center">TOUTES ZONES<br/>(en francs)</p>
-</td>
+<td> :==========================================:</td>
 </tr>
 <tr>
-<td width="362">
-<p>Bénéficiaire isolé</p>
-</td>
-<td width="318">
-<p align="center">781</p>
-</td>
+<td> :    DESIGNATION            : TOUTES ZONES :</td>
 </tr>
 <tr>
-<td width="362">
-<p>Ménage sans personne à charge</p>
-</td>
-<td width="318">
-<p align="center">872</p>
-</td>
+<td> :---------------------------:--------------:</td>
 </tr>
 <tr>
-<td width="362">
-<p>Bénéficiaire isolé ou ménage ayant une personne à charge</p>
-</td>
-<td width="318">
-<p align="center">963</p>
-</td>
+<td> :                           :    Francs    :</td>
 </tr>
 <tr>
-<td width="362">
-<p>Par personne supplémentaire à charge</p>
-</td>
-<td width="318">
-<p align="center">91</p>
-</td>
+<td> : Bénéficiaire isolé ...    :     781      :</td>
 </tr>
-</tbody>
+<tr>
+<td> :                           :              :</td>
+</tr>
+<tr>
+<td> : Ménage sans personne à    :              :</td>
+</tr>
+<tr>
+<td> :  charge ...               :     872      :</td>
+</tr>
+<tr>
+<td> :                           :              :</td>
+</tr>
+<tr>
+<td> : Bénéficiaire isolé ou     :              :</td>
+</tr>
+<tr>
+<td> : ménage ayant une personne :              :</td>
+</tr>
+<tr>
+<td> :  à charge ...             :     963      :</td>
+</tr>
+<tr>
+<td> :                           :              :</td>
+</tr>
+<tr>
+<td> : Par personne              :              :</td>
+</tr>
+<tr>
+<td> :  supplémentaire à charge  :     91       :</td>
+</tr>
+<tr>
+<td> :                           :              :</td>
+</tr>
+<tr>
+<td> :==========================================:</td>
+</tr>
 </table>
 
 Les mensualités de référence pour les logements financés par les prêts prévus par les articles R. 331-63 à R. 331-77 sont fixées comme suit lorsque la date de signature du contrat de prêt mentionné sur le certificat prévu à l'article 2 (3°) de l'arrêté du 22 août 1986 susvisé est intervenue après le 30 juin 1988.
@@ -332,1160 +287,939 @@ Les mensualités de référence pour les logements financés par les prêts pré
 a) Logements neufs construits ou acquis par l'accédant à la propriété :
 
 <table>
-<tbody>
 <tr>
-<td width="227">
-<p align="center">DÉSIGNATION</p>
-</td>
-<td width="151">
-<p align="center">ZONE 1<br/>(en francs)</p>
-</td>
-<td width="151">
-<p align="center">ZONE 2<br/>(en francs)</p>
-</td>
-<td width="151">
-<p align="center">ZONE 3<br/>(en francs)</p>
-</td>
+<td> :====================================================:</td>
 </tr>
 <tr>
-<td width="227">
-<p>Bénéficiaire isolé</p>
-</td>
-<td width="151">
-<p align="center">1 920</p>
-</td>
-<td width="151">
-<p align="center">1 712</p>
-</td>
-<td width="151">
-<p align="center">1 598</p>
-</td>
+<td> :   DESIGNATION        : Zone I : Zone II : Zone III :</td>
 </tr>
 <tr>
-<td width="227">
-<p>Ménage sans personne à charge</p>
-</td>
-<td width="151">
-<p align="center">2 315</p>
-</td>
-<td width="151">
-<p align="center">2 061</p>
-</td>
-<td width="151">
-<p align="center">1 916</p>
-</td>
+<td> :----------------------:--------:---------:----------:</td>
 </tr>
 <tr>
-<td width="227">
-<p>Bénéficiaire isolé ou ménage ayant une personne à charge</p>
-</td>
-<td width="151">
-<p align="center">2 710</p>
-</td>
-<td width="151">
-<p align="center">2 410</p>
-</td>
-<td width="151">
-<p align="center">2 234</p>
-</td>
+<td> :                      : Francs :  Francs :  Francs  :</td>
 </tr>
 <tr>
-<td width="227">
-<p>Par personne supplémentaire à charge</p>
-</td>
-<td width="151">
-<p align="center">395</p>
-</td>
-<td width="151">
-<p align="center">349</p>
-</td>
-<td width="151">
-<p align="center">318</p>
-</td>
+<td> :Bénéficiaire isolé    :  1.920 :  1.712  :  1.598   :</td>
 </tr>
-</tbody>
+<tr>
+<td> :                      :        :         :          :</td>
+</tr>
+<tr>
+<td> :Ménage sans personne  :        :         :          :</td>
+</tr>
+<tr>
+<td> :à charge              :  2.315 :  2.061  :  1.916   :</td>
+</tr>
+<tr>
+<td> :                      :        :         :          :</td>
+</tr>
+<tr>
+<td> :Bénéficiaire isolé ou :        :         :          :</td>
+</tr>
+<tr>
+<td> :ménage ayant une      :        :         :          :</td>
+</tr>
+<tr>
+<td> :personne à charge     :  2.710 :  2.410  :  2.234   :</td>
+</tr>
+<tr>
+<td> :                      :        :         :          :</td>
+</tr>
+<tr>
+<td> :Par personne          :        :         :          :</td>
+</tr>
+<tr>
+<td> :supplémentaire        :    395 :    349  :    318   :</td>
+</tr>
+<tr>
+<td> : à charge             :    395 :    349  :    318   :</td>
+</tr>
+<tr>
+<td> :====================================================:</td>
+</tr>
 </table>
 
 b) Logements agrandis ou aménagés à partir de locaux non destinés à l'habitation, ou acquis et améliorés :
 
 <table>
-<tbody>
 <tr>
-<td width="227">
-<p align="center">DÉSIGNATION</p>
-</td>
-<td width="151">
-<p align="center">ZONE 1<br/>(en francs)</p>
-</td>
-<td width="151">
-<p align="center">ZONE 2<br/>(en francs)</p>
-</td>
-<td width="151">
-<p align="center">ZONE 3<br/>(en francs)</p>
-</td>
+<td> :====================================================:</td>
 </tr>
 <tr>
-<td width="227">
-<p>Bénéficiaire isolé</p>
-</td>
-<td width="151">
-<p align="center">1 440</p>
-</td>
-<td width="151">
-<p align="center">1 284</p>
-</td>
-<td width="151">
-<p align="center">1 199</p>
-</td>
+<td> :   DESIGNATION        : Zone I : Zone II : Zone III :</td>
 </tr>
 <tr>
-<td width="227">
-<p>Ménage sans personne à charge</p>
-</td>
-<td width="151">
-<p align="center">1 737</p>
-</td>
-<td width="151">
-<p align="center">1 546</p>
-</td>
-<td width="151">
-<p align="center">1 439</p>
-</td>
+<td> :----------------------:--------:---------:----------:</td>
 </tr>
 <tr>
-<td width="227">
-<p>Bénéficiaire isolé ou ménage ayant une personne à charge</p>
-</td>
-<td width="151">
-<p align="center">2 034</p>
-</td>
-<td width="151">
-<p align="center">1 808</p>
-</td>
-<td width="151">
-<p align="center">1 679</p>
-</td>
+<td> :                      : Francs : Francs  :  Francs  :</td>
 </tr>
 <tr>
-<td width="227">
-<p>Par personne supplémentaire à charge</p>
-</td>
-<td width="151">
-<p align="center">297</p>
-</td>
-<td width="151">
-<p align="center">262</p>
-</td>
-<td width="151">
-<p align="center">240</p>
-</td>
+<td> :Bénéficiaire isolé    :  1.440 :  1.284  :  1.199   :</td>
 </tr>
-</tbody>
+<tr>
+<td> :                      :        :         :          :</td>
+</tr>
+<tr>
+<td> :Ménage sans personne  :        :         :          :</td>
+</tr>
+<tr>
+<td> :à charge              :  1.737 :  1.546  :  1.439   :</td>
+</tr>
+<tr>
+<td> :                      :        :         :          :</td>
+</tr>
+<tr>
+<td> :Bénéficiaire isolé ou :        :         :          :</td>
+</tr>
+<tr>
+<td> :ménage ayant une      :        :         :          :</td>
+</tr>
+<tr>
+<td> :personne à charge     :  2.034 :  1.808  :  1.679   :</td>
+</tr>
+<tr>
+<td> :                      :        :         :          :</td>
+</tr>
+<tr>
+<td> :Par personne          :        :         :          :</td>
+</tr>
+<tr>
+<td> :supplémentaire        :        :         :          :</td>
+</tr>
+<tr>
+<td> :à charge              :    297 :    262  :    240   :</td>
+</tr>
+<tr>
+<td> :====================================================:</td>
+</tr>
+<tr>
+<td>
+<br/>   c) Logements améliorés par leur propriétaire occupant :</td>
+</tr>
+<tr>
+<td> :==========================================:</td>
+</tr>
+<tr>
+<td> :    DESIGNATION            : TOUTES ZONES :</td>
+</tr>
+<tr>
+<td> :---------------------------:--------------:</td>
+</tr>
+<tr>
+<td> :                           :    Francs    :</td>
+</tr>
+<tr>
+<td> : Bénéficiaire isolé ...    :     800      :</td>
+</tr>
+<tr>
+<td> :                           :              :</td>
+</tr>
+<tr>
+<td> : Ménage sans personne à    :              :</td>
+</tr>
+<tr>
+<td> :  charge ...               :     893      :</td>
+</tr>
+<tr>
+<td> :                           :              :</td>
+</tr>
+<tr>
+<td> : Bénéficiaire isolé ou     :              :</td>
+</tr>
+<tr>
+<td> : ménage ayant une personne :              :</td>
+</tr>
+<tr>
+<td> :  à charge ...             :     986      :</td>
+</tr>
+<tr>
+<td> :                           :              :</td>
+</tr>
+<tr>
+<td> : Par personne              :              :</td>
+</tr>
+<tr>
+<td> :  supplémentaire à charge  :      93      :</td>
+</tr>
+</table>
+
+============================================
+
+Les mensualités de référence pour les logements financés par les prêts prévus par les articles R. 331-63 à R. 331-77 sont fixées comme suit lorsque la date de signature du contrat de prêt mentionné sur le certificat prévu à l'article 2 (3°) de l'arrêté du 22 août 1986 susvisé est intervenue après le 30 juin 1989.
+
+a) Logements neufs construits ou acquis par l'accédant à la propriété :
+
+<table>
+<tr>
+<td> :=====================================================:</td>
+</tr>
+<tr>
+<td> :   DESIGNATION        : Zone I  : Zone II : Zone III :</td>
+</tr>
+<tr>
+<td> :----------------------:---------:---------:----------:</td>
+</tr>
+<tr>
+<td> :                      :  Francs :  Francs :  Francs  :</td>
+</tr>
+<tr>
+<td> :Bénéficiaire isolé    :  1.962  :  1.750  :  1.633   :</td>
+</tr>
+<tr>
+<td> :                      :         :         :          :</td>
+</tr>
+<tr>
+<td> :Ménage sans personne  :         :         :          :</td>
+</tr>
+<tr>
+<td> :à charge              :  2.366  :  2.107  :  1.958   :</td>
+</tr>
+<tr>
+<td> :                      :         :         :          :</td>
+</tr>
+<tr>
+<td> :Bénéficiaire isolé ou :         :         :          :</td>
+</tr>
+<tr>
+<td> :ménage ayant une      :         :         :          :</td>
+</tr>
+<tr>
+<td> : personne à charge    :  2.770  :  2.464  :  2.283   :</td>
+</tr>
+<tr>
+<td> :                      :         :         :          :</td>
+</tr>
+<tr>
+<td> :Par personne          :         :         :          :</td>
+</tr>
+<tr>
+<td> : supplémentaire       :         :         :          :</td>
+</tr>
+<tr>
+<td> :  à charge            :    404  :    357  :    325   :</td>
+</tr>
+<tr>
+<td> :=====================================================:</td>
+</tr>
+<tr>
+<td/>
+</tr>
+<tr>
+<td>
+<br/>   b) Logements agrandis ou aménagés à partir de locaux non destinés à l'habitation, ou acquis et améliorés :</td>
+</tr>
+<tr>
+<td> :=========================================================:</td>
+</tr>
+<tr>
+<td> :   DESIGNATION            : Zone I  : Zone II : Zone III :</td>
+</tr>
+<tr>
+<td> :--------------------------:---------:---------:----------:</td>
+</tr>
+<tr>
+<td> :                          :  Francs :  Francs :  Francs  :</td>
+</tr>
+<tr>
+<td> :Bénéficiaire isolé ...    :  1.472  :  1.312  :  1.225   :</td>
+</tr>
+<tr>
+<td> :                          :         :         :          :</td>
+</tr>
+<tr>
+<td> :Ménage sans personne à    :         :         :          :</td>
+</tr>
+<tr>
+<td> : charge ...               :  1.776  :  1.580  :  1.470   :</td>
+</tr>
+<tr>
+<td> :                          :         :         :          :</td>
+</tr>
+<tr>
+<td> :Bénéficiaire isolé ou     :         :         :          :</td>
+</tr>
+<tr>
+<td> :ménage ayant une personne :         :         :          :</td>
+</tr>
+<tr>
+<td> : à charge ...             :  2.080  :  1.848  :  1.715   :</td>
+</tr>
+<tr>
+<td> :                          :         :         :          :</td>
+</tr>
+<tr>
+<td> :Par personne              :         :         :          :</td>
+</tr>
+<tr>
+<td> : supplémentaire à charge  :    304  :    268  :    245   :</td>
+</tr>
+<tr>
+<td> :                          :         :         :          :</td>
+</tr>
+<tr>
+<td> :=========================================================:</td>
+</tr>
 </table>
 
 c) Logements améliorés par leur propriétaire occupant :
 
 <table>
-<tbody>
 <tr>
-<td width="363">
-<p align="center">DÉSIGNATION</p>
-</td>
-<td width="318">
-<p align="center">TOUTES ZONES<br/>(en francs)</p>
-</td>
+<td> :==========================================:</td>
 </tr>
 <tr>
-<td width="363">
-<p>Bénéficiaire isolé</p>
-</td>
-<td width="318">
-<p align="center">800</p>
-</td>
+<td> :    DESIGNATION            : TOUTES ZONES :</td>
 </tr>
 <tr>
-<td width="363">
-<p>Ménage sans personne à charge</p>
-</td>
-<td width="318">
-<p align="center">893</p>
-</td>
+<td> :---------------------------:--------------:</td>
 </tr>
 <tr>
-<td width="363">
-<p>Bénéficiaire isolé ou ménage ayant une personne à charge</p>
-</td>
-<td width="318">
-<p align="center">986</p>
-</td>
+<td> :                           :   Francs     :</td>
 </tr>
 <tr>
-<td width="363">
-<p>Par personne supplémentaire à charge</p>
-</td>
-<td width="318">
-<p align="center">93</p>
-</td>
-</tr>
-</tbody>
-</table>
-
-Les mensualités de référence pour les logements financés par les prêts prévus par les articles R. 331-63 à R. 331-77 sont fixées comme suit lorsque la date de signature du contrat de prêt mentionné sur le certificat prévu à l'article 2 (3°) de l'arrêté du 22 août 1986 susvisé est intervenue après le 30 juin 1989.
-
-a) Logements neufs construits ou acquis par l'accédant à la propriété : <table>
-<tbody>
-<tr>
-<td width="227">
-<p align="center">DÉSIGNATION</p>
-</td>
-<td width="151">
-<p align="center">ZONE 1<br/>(en francs)</p>
-</td>
-<td width="151">
-<p align="center">ZONE 2<br/>(en francs)</p>
-</td>
-<td width="151">
-<p align="center">ZONE 3<br/>(en francs)</p>
-</td>
+<td> : Bénéficiaire isolé ...    :     818      :</td>
 </tr>
 <tr>
-<td width="227">
-<p>Bénéficiaire isolé</p>
-</td>
-<td width="151">
-<p align="center">1 962</p>
-</td>
-<td width="151">
-<p align="center">1 750</p>
-</td>
-<td width="151">
-<p align="center">1 633</p>
-</td>
+<td> :                           :              :</td>
 </tr>
 <tr>
-<td width="227">
-<p>Ménage sans personne à charge</p>
-</td>
-<td width="151">
-<p align="center">2 366</p>
-</td>
-<td width="151">
-<p align="center">2 107</p>
-</td>
-<td width="151">
-<p align="center">1 958</p>
-</td>
+<td> : Ménage sans personne à    :              :</td>
 </tr>
 <tr>
-<td width="227">
-<p>Bénéficiaire isolé ou ménage ayant une personne à charge</p>
-</td>
-<td width="151">
-<p align="center">2 770</p>
-</td>
-<td width="151">
-<p align="center">2 464</p>
-</td>
-<td width="151">
-<p align="center">2 283</p>
-</td>
+<td> :  charge ...               :     913      :</td>
 </tr>
 <tr>
-<td width="227">
-<p>Par personne supplémentaire à charge</p>
-</td>
-<td width="151">
-<p align="center">404</p>
-</td>
-<td width="151">
-<p align="center">357</p>
-</td>
-<td width="151">
-<p align="center">325</p>
-</td>
-</tr>
-</tbody>
-</table>
-
-b) Logements agrandis ou aménagés à partir de locaux non destinés à l'habitation, ou acquis et améliorés :
-
-<table>
-<tbody>
-<tr>
-<td width="227">
-<p align="center">DÉSIGNATION</p>
-</td>
-<td width="151">
-<p align="center">ZONE 1<br/>(en francs)</p>
-</td>
-<td width="151">
-<p align="center">ZONE 2<br/>(en francs)</p>
-</td>
-<td width="151">
-<p align="center">ZONE 3<br/>(en francs)</p>
-</td>
+<td> :                           :              :</td>
 </tr>
 <tr>
-<td width="227">
-<p>Bénéficiaire isolé</p>
-</td>
-<td width="151">
-<p align="center">1 472</p>
-</td>
-<td width="151">
-<p align="center">1 312</p>
-</td>
-<td width="151">
-<p align="center">1 225</p>
-</td>
+<td> : Bénéficiaire isolé ou     :              :</td>
 </tr>
 <tr>
-<td width="227">
-<p>Ménage sans personne à charge</p>
-</td>
-<td width="151">
-<p align="center">1 776</p>
-</td>
-<td width="151">
-<p align="center">1 580</p>
-</td>
-<td width="151">
-<p align="center">1 470</p>
-</td>
+<td> : ménage ayant une personne :              :</td>
 </tr>
 <tr>
-<td width="227">
-<p>Bénéficiaire isolé ou ménage ayant une personne à charge</p>
-</td>
-<td width="151">
-<p align="center">2 080</p>
-</td>
-<td width="151">
-<p align="center">1 848</p>
-</td>
-<td width="151">
-<p align="center">1 715</p>
-</td>
+<td> :  à charge ...             :    1 008     :</td>
 </tr>
 <tr>
-<td width="227">
-<p>Par personne supplémentaire à charge</p>
-</td>
-<td width="151">
-<p align="center">304</p>
-</td>
-<td width="151">
-<p align="center">268</p>
-</td>
-<td width="151">
-<p align="center">245</p>
-</td>
-</tr>
-</tbody>
-</table>c) Logements améliorés par leur propriétaire occupant :
-
-<table>
-<tbody>
-<tr>
-<td width="363">
-<p align="center">DÉSIGNATION</p>
-</td>
-<td width="318">
-<p align="center">TOUTES ZONES<br/>(en francs)</p>
-</td>
+<td> :                           :              :</td>
 </tr>
 <tr>
-<td width="363">
-<p>Bénéficiaire isolé</p>
-</td>
-<td width="318">
-<p align="center">818</p>
-</td>
+<td> : Par personne              :              :</td>
 </tr>
 <tr>
-<td width="363">
-<p>Ménage sans personne à charge</p>
-</td>
-<td width="318">
-<p align="center">913</p>
-</td>
+<td> :  supplémentaire à charge  :      95      :</td>
 </tr>
 <tr>
-<td width="363">
-<p>Bénéficiaire isolé ou ménage ayant une personne à charge</p>
-</td>
-<td width="318">
-<p align="center">1 008</p>
-</td>
+<td> ===========================================</td>
 </tr>
 <tr>
-<td width="363">
-<p>Par personne supplémentaire à charge</p>
-</td>
-<td width="318">
-<p align="center">95</p>
-</td>
-</tr>
-</tbody>
-</table>
-
-Les mensualités de référence pour les logements financés par les prêts prévus par les articles R. 331-63 à R. 331-77 sont fixées comme suit lorsque la date de signature du contrat de prêt mentionné sur le certificat prévu à l'article 2 (3°) de l'arrêté du 22 août 1986 modifié susvisé est intervenue après le 30 juin 1990 :
-
-a) Logements neufs construits ou acquis par l'accédant à la propriété :
-
-<table>
-<tbody>
-<tr>
-<td width="227">
-<p align="center">DÉSIGNATION</p>
-</td>
-<td width="151">
-<p align="center">ZONE 1<br/>(en francs)</p>
-</td>
-<td width="151">
-<p align="center">ZONE 2<br/>(en francs)</p>
-</td>
-<td width="151">
-<p align="center">ZONE 3<br/>(en francs)</p>
-</td>
+<td>
+<br/>   Les mensualités de référence pour les logements financés par les prêts prévus par les articles R. 331-63 à R. 331-77 sont fixées comme suit lorsque la date de signature du contrat de prêt mentionné sur le certificat prévu à l'article 2 (3°) de l'arrêté du 22 août 1986 modifié susvisé est intervenue après le 30 juin 1990 :</td>
 </tr>
 <tr>
-<td width="227">
-<p>Bénéficiaire isolé</p>
-</td>
-<td width="151">
-<p align="center">1 980</p>
-</td>
-<td width="151">
-<p align="center">1 766</p>
-</td>
-<td width="151">
-<p align="center">1 648</p>
-</td>
+<td>
+<br/>   a) Logements neufs construits ou acquis par l'accédant à la propriété :</td>
 </tr>
 <tr>
-<td width="227">
-<p>Ménage sans personne à charge</p>
-</td>
-<td width="151">
-<p align="center">2 388</p>
-</td>
-<td width="151">
-<p align="center">2 126</p>
-</td>
-<td width="151">
-<p align="center">1 976</p>
-</td>
+<td> :=========================================================:</td>
 </tr>
 <tr>
-<td width="227">
-<p>Bénéficiaire isolé ou ménage ayant une personne à charge</p>
-</td>
-<td width="151">
-<p align="center">2 796</p>
-</td>
-<td width="151">
-<p align="center">2 486</p>
-</td>
-<td width="151">
-<p align="center">2 304</p>
-</td>
+<td> :    DESIGNATION            : Zone I : Zone II : Zone III :</td>
 </tr>
 <tr>
-<td width="227">
-<p>Par personne supplémentaire à charge</p>
-</td>
-<td width="151">
-<p align="center">408</p>
-</td>
-<td width="151">
-<p align="center">360</p>
-</td>
-<td width="151">
-<p align="center">328</p>
-</td>
+<td> :---------------------------:--------:---------:----------:</td>
 </tr>
-</tbody>
+<tr>
+<td> :                           :  Francs: Francs  :  Francs  :</td>
+</tr>
+<tr>
+<td> : Bénéficiaire isolé ...    :  1.980 :  1.766  :  1.648   :</td>
+</tr>
+<tr>
+<td> :                           :        :         :          :</td>
+</tr>
+<tr>
+<td> : Ménage sans personne à    :        :         :          :</td>
+</tr>
+<tr>
+<td> :  charge ...               :  2.388 :  2.126  :  1.976   :</td>
+</tr>
+<tr>
+<td> :                           :        :         :          :</td>
+</tr>
+<tr>
+<td> : Bénéficiaire isolé ou     :        :         :          :</td>
+</tr>
+<tr>
+<td> : ménage ayant une personne :        :         :          :</td>
+</tr>
+<tr>
+<td> :  à charge ...             :  2.796 :  2.486  :  2.304   :</td>
+</tr>
+<tr>
+<td> :                           :        :         :          :</td>
+</tr>
+<tr>
+<td> : Par personne              :        :         :          :</td>
+</tr>
+<tr>
+<td> :  supplémentaire à charge  :    408 :    360  :    328   :</td>
+</tr>
+<tr>
+<td> :=========================================================:</td>
+</tr>
 </table>
 
 b) Logements agrandis ou aménagés à partir de locaux non destinés à l'habitation ou acquis et améliorés :
 
 <table>
-<tbody>
 <tr>
-<td width="227">
-<p align="center">DÉSIGNATION</p>
-</td>
-<td width="151">
-<p align="center">ZONE 1<br/>(en francs)</p>
-</td>
-<td width="151">
-<p align="center">ZONE 2<br/>(en francs)</p>
-</td>
-<td width="151">
-<p align="center">ZONE 3<br/>(en francs)</p>
-</td>
+<td> :=========================================================:</td>
 </tr>
 <tr>
-<td width="227">
-<p>Bénéficiaire isolé</p>
-</td>
-<td width="151">
-<p align="center">1 485</p>
-</td>
-<td width="151">
-<p align="center">1 324</p>
-</td>
-<td width="151">
-<p align="center">1 236</p>
-</td>
+<td> :    DESIGNATION            : Zone I : Zone II : Zone III :</td>
 </tr>
 <tr>
-<td width="227">
-<p>Ménage sans personne à charge</p>
-</td>
-<td width="151">
-<p align="center">1 792</p>
-</td>
-<td width="151">
-<p align="center">1 594</p>
-</td>
-<td width="151">
-<p align="center">1 483</p>
-</td>
+<td> :---------------------------:--------:---------:----------:</td>
 </tr>
 <tr>
-<td width="227">
-<p>Bénéficiaire isolé ou ménage ayant une personne à charge</p>
-</td>
-<td width="151">
-<p align="center">2 099</p>
-</td>
-<td width="151">
-<p align="center">1 864</p>
-</td>
-<td width="151">
-<p align="center">1 730</p>
-</td>
+<td> :                           :  Francs:  Francs :  Francs  :</td>
 </tr>
 <tr>
-<td width="227">
-<p>Par personne supplémentaire à charge</p>
-</td>
-<td width="151">
-<p align="center">307</p>
-</td>
-<td width="151">
-<p align="center">270</p>
-</td>
-<td width="151">
-<p align="center">247</p>
-</td>
-</tr>
-</tbody>
-</table>c) Logements améliorés par leur propriétaire-occupant :
-
-<table>
-<tbody>
-<tr>
-<td width="363">
-<p align="center">DÉSIGNATION</p>
-</td>
-<td width="318">
-<p align="center">TOUTES ZONES<br/>(en francs)</p>
-</td>
+<td> : Bénéficiaire isolé ...    :  1.485 :  1.324  :  1.236   :</td>
 </tr>
 <tr>
-<td width="363">
-<p>Bénéficiaire isolé</p>
-</td>
-<td width="318">
-<p align="center">825</p>
-</td>
+<td> :                           :        :         :          :</td>
 </tr>
 <tr>
-<td width="363">
-<p>Ménage sans personne à charge</p>
-</td>
-<td width="318">
-<p align="center">921</p>
-</td>
+<td> : Ménage sans personne à    :        :         :          :</td>
 </tr>
 <tr>
-<td width="363">
-<p>Bénéficiaire isolé ou ménage ayant une personne à charge</p>
-</td>
-<td width="318">
-<p align="center">1 017</p>
-</td>
+<td> :  charge ...               :  1.792 :  1.594  :  1.483   :</td>
 </tr>
 <tr>
-<td width="363">
-<p>Par personne supplémentaire à charge</p>
-</td>
-<td width="318">
-<p align="center">96</p>
-</td>
-</tr>
-</tbody>
-</table>
-
-Les mensualités de référence pour les logements financés par les prêts prévus par les articles R. 331-63 à R. 331-77 sont fixées comme suit lorsque la date de signature du contrat de prêt mentionné sur le certificat prévu à l'article 2 (3°) de l'arrêté du 22 août 1986 modifié susvisé est intervenue après le 30 juin 1991 :
-
-a) Logements neufs construits ou acquis par l'accédant à la propriété :
-
-<table>
-<tbody>
-<tr>
-<td width="227">
-<p align="center">DÉSIGNATION</p>
-</td>
-<td width="151">
-<p align="center">ZONE 1<br/>(en francs)</p>
-</td>
-<td width="151">
-<p align="center">ZONE 2<br/>(en francs)</p>
-</td>
-<td width="151">
-<p align="center">ZONE 3<br/>(en francs)</p>
-</td>
+<td> :                           :        :         :          :</td>
 </tr>
 <tr>
-<td width="227">
-<p>Bénéficiaire isolé</p>
-</td>
-<td width="151">
-<p align="center">2 030</p>
-</td>
-<td width="151">
-<p align="center">1 811</p>
-</td>
-<td width="151">
-<p align="center">1 690</p>
-</td>
+<td> : Bénéficiaire isolé ou     :        :         :          :</td>
 </tr>
 <tr>
-<td width="227">
-<p>Ménage sans personne à charge</p>
-</td>
-<td width="151">
-<p align="center">2 449</p>
-</td>
-<td width="151">
-<p align="center">2 180</p>
-</td>
-<td width="151">
-<p align="center">2 027</p>
-</td>
+<td> : ménage ayant une personne :        :         :          :</td>
 </tr>
 <tr>
-<td width="227">
-<p>Bénéficiaire isolé ou ménage ayant une personne à charge</p>
-</td>
-<td width="151">
-<p align="center">2 868</p>
-</td>
-<td width="151">
-<p align="center">2 549</p>
-</td>
-<td width="151">
-<p align="center">2 364</p>
-</td>
+<td> :  à charge ...             :  2.099 :  1.864  :  1.730   :</td>
 </tr>
 <tr>
-<td width="227">
-<p>Par personne supplémentaire à charge</p>
-</td>
-<td width="151">
-<p align="center">419</p>
-</td>
-<td width="151">
-<p align="center">369</p>
-</td>
-<td width="151">
-<p align="center">337</p>
-</td>
-</tr>
-</tbody>
-</table>
-
-b) Logements agrandis ou aménagés à partir de locaux non destinés à l'habitation ou acquis et améliorés :
-
-<table>
-<tbody>
-<tr>
-<td width="227">
-<p align="center">DÉSIGNATION</p>
-</td>
-<td width="151">
-<p align="center">ZONE 1<br/>(en francs)</p>
-</td>
-<td width="151">
-<p align="center">ZONE 2<br/>(en francs)</p>
-</td>
-<td width="151">
-<p align="center">ZONE 3<br/>(en francs)</p>
-</td>
+<td> :                           :        :         :          :</td>
 </tr>
 <tr>
-<td width="227">
-<p>Bénéficiaire isolé</p>
-</td>
-<td width="151">
-<p align="center">1 634</p>
-</td>
-<td width="151">
-<p align="center">1 457</p>
-</td>
-<td width="151">
-<p align="center">1 360</p>
-</td>
+<td> : Par personne              :        :         :          :</td>
 </tr>
 <tr>
-<td width="227">
-<p>Ménage sans personne à charge</p>
-</td>
-<td width="151">
-<p align="center">1 972</p>
-</td>
-<td width="151">
-<p align="center">1 754</p>
-</td>
-<td width="151">
-<p align="center">1 632</p>
-</td>
+<td> :  supplémentaire à charge  :    307 :    270  :    247   :</td>
 </tr>
 <tr>
-<td width="227">
-<p>Bénéficiaire isolé ou ménage ayant une personne à charge</p>
-</td>
-<td width="151">
-<p align="center">2 310</p>
-</td>
-<td width="151">
-<p align="center">2 051</p>
-</td>
-<td width="151">
-<p align="center">1 904</p>
-</td>
+<td> :                           :        :         :          :</td>
 </tr>
 <tr>
-<td width="227">
-<p>Par personne supplémentaire à charge</p>
-</td>
-<td width="151">
-<p align="center">338</p>
-</td>
-<td width="151">
-<p align="center">297</p>
-</td>
-<td width="151">
-<p align="center">272</p>
-</td>
+<td> :=========================================================:</td>
 </tr>
-</tbody>
-</table>c) Logements améliorés par leur propriétaire-occupant :
-
-<table>
-<tbody>
-<tr>
-<td width="363">
-<p align="center">DÉSIGNATION</p>
-</td>
-<td width="318">
-<p align="center">TOUTES ZONES<br/>(en francs)</p>
-</td>
-</tr>
-<tr>
-<td width="363">
-<p>Bénéficiaire isolé</p>
-</td>
-<td width="318">
-<p align="center">846</p>
-</td>
-</tr>
-<tr>
-<td width="363">
-<p>Ménage sans personne à charge</p>
-</td>
-<td width="318">
-<p align="center">945</p>
-</td>
-</tr>
-<tr>
-<td width="363">
-<p>Bénéficiaire isolé ou ménage ayant une personne à charge</p>
-</td>
-<td width="318">
-<p align="center">1 044</p>
-</td>
-</tr>
-<tr>
-<td width="363">
-<p>Par personne supplémentaire à charge</p>
-</td>
-<td width="318">
-<p align="center">99</p>
-</td>
-</tr>
-</tbody>
-</table>
-
-Les mensualités de référence pour les logements financés par les prêts prévus par les articles R. 331-63 à R. 331-77 sont fixées comme suit lorsque la date de signature du contrat de prêt mentionné sur le certificat prévu à l'article 2 (3°) de l'arrêté du 22 août 1986 modifié susvisé est intervenue après le 30 juin 1992 :
-
-a) Logements neufs construits ou acquis par l'accédant à la propriété :
-
-<table>
-<tbody>
-<tr>
-<td width="227">
-<p align="center">DÉSIGNATION</p>
-</td>
-<td width="151">
-<p align="center">ZONE 1<br/>(en francs)</p>
-</td>
-<td width="151">
-<p align="center">ZONE 2<br/>(en francs)</p>
-</td>
-<td width="151">
-<p align="center">ZONE 3<br/>(en francs)</p>
-</td>
-</tr>
-<tr>
-<td width="227">
-<p>Bénéficiaire isolé</p>
-</td>
-<td width="151">
-<p align="center">2 085</p>
-</td>
-<td width="151">
-<p align="center">1 860</p>
-</td>
-<td width="151">
-<p align="center">1 736</p>
-</td>
-</tr>
-<tr>
-<td width="227">
-<p>Ménage sans personne à charge</p>
-</td>
-<td width="151">
-<p align="center">2 515</p>
-</td>
-<td width="151">
-<p align="center">2 239</p>
-</td>
-<td width="151">
-<p align="center">2 082</p>
-</td>
-</tr>
-<tr>
-<td width="227">
-<p>Bénéficiaire isolé ou ménage ayant une personne à charge</p>
-</td>
-<td width="151">
-<p align="center">2 945</p>
-</td>
-<td width="151">
-<p align="center">2 618</p>
-</td>
-<td width="151">
-<p align="center">2 428</p>
-</td>
-</tr>
-<tr>
-<td width="227">
-<p>Par personne supplémentaire à charge</p>
-</td>
-<td width="151">
-<p align="center">430</p>
-</td>
-<td width="151">
-<p align="center">379</p>
-</td>
-<td width="151">
-<p align="center">346</p>
-</td>
-</tr>
-</tbody>
-</table>
-
-b) Logements agrandis ou aménagés à partir de locaux non destinés à l'habitation ou logements existants acquis et le cas échéant améliorés :
-
-<table>
-<tbody>
-<tr>
-<td width="227">
-<p align="center">DÉSIGNATION</p>
-</td>
-<td width="151">
-<p align="center">ZONE 1<br/>(en francs)</p>
-</td>
-<td width="151">
-<p align="center">ZONE 2<br/>(en francs)</p>
-</td>
-<td width="151">
-<p align="center">ZONE 3<br/>(en francs)</p>
-</td>
-</tr>
-<tr>
-<td width="227">
-<p>Bénéficiaire isolé</p>
-</td>
-<td width="151">
-<p align="center">1 678</p>
-</td>
-<td width="151">
-<p align="center">1 496</p>
-</td>
-<td width="151">
-<p align="center">1 397</p>
-</td>
-</tr>
-<tr>
-<td width="227">
-<p>Ménage sans personne à charge</p>
-</td>
-<td width="151">
-<p align="center">2 025</p>
-</td>
-<td width="151">
-<p align="center">1 801</p>
-</td>
-<td width="151">
-<p align="center">1 676</p>
-</td>
-</tr>
-<tr>
-<td width="227">
-<p>Bénéficiaire isolé ou ménage ayant une personne à charge</p>
-</td>
-<td width="151">
-<p align="center">2 372</p>
-</td>
-<td width="151">
-<p align="center">2 106</p>
-</td>
-<td width="151">
-<p align="center">1 955</p>
-</td>
-</tr>
-<tr>
-<td width="227">
-<p>Par personne supplémentaire à charge</p>
-</td>
-<td width="151">
-<p align="center">347</p>
-</td>
-<td width="151">
-<p align="center">305</p>
-</td>
-<td width="151">
-<p align="center">279</p>
-</td>
-</tr>
-</tbody>
 </table>
 
 c) Logements améliorés par leur propriétaire-occupant :
 
 <table>
-<tbody>
 <tr>
-<td width="363">
-<p align="center">DÉSIGNATION</p>
-</td>
-<td width="318">
-<p align="center">TOUTES ZONES<br/>(en francs)</p>
-</td>
+<td> :========================================:</td>
 </tr>
 <tr>
-<td width="363">
-<p>Bénéficiaire isolé</p>
-</td>
-<td width="318">
-<p align="center">869</p>
-</td>
+<td> :    DESIGNATION          : TOUTES ZONES :</td>
 </tr>
 <tr>
-<td width="363">
-<p>Ménage sans personne à charge</p>
-</td>
-<td width="318">
-<p align="center">971</p>
-</td>
+<td> :-------------------------:--------------:</td>
 </tr>
 <tr>
-<td width="363">
-<p>Bénéficiaire isolé ou ménage ayant une personne à charge</p>
-</td>
-<td width="318">
-<p align="center">1 073</p>
-</td>
+<td> :                         :      Francs  :</td>
 </tr>
 <tr>
-<td width="363">
-<p>Par personne supplémentaire à charge</p>
-</td>
-<td width="318">
-<p align="center">102</p>
-</td>
+<td> : Bénéficiaire isolé ...  :       825    :</td>
 </tr>
-</tbody>
+<tr>
+<td> :                         :              :</td>
+</tr>
+<tr>
+<td> : Ménage sans personne à  :              :</td>
+</tr>
+<tr>
+<td> :  charge ...             :       921    :</td>
+</tr>
+<tr>
+<td> :                         :              :</td>
+</tr>
+<tr>
+<td> : Bénéficiaire isolé ou   :              :</td>
+</tr>
+<tr>
+<td> : ménage ayant une        :              :</td>
+</tr>
+<tr>
+<td> : personne à charge ...   :     1 017    :</td>
+</tr>
+<tr>
+<td> :                         :              :</td>
+</tr>
+<tr>
+<td> : Par personne            :              :</td>
+</tr>
+<tr>
+<td> : supplémentaire à charge :        96    :</td>
+</tr>
+<tr>
+<td> ==========================================</td>
+</tr>
+<tr>
+<td>
+<br/>   Les mensualités de référence pour les logements financés par les prêts prévus par les articles R. 331-63 à R. 331-77 sont fixées comme suit lorsque la date de signature du contrat de prêt mentionné sur le certificat prévu à l'article 2 (3°) de l'arrêté du 22 août 1986 modifié susvisé est intervenue après le 30 juin 1991 :</td>
+</tr>
+<tr>
+<td>
+<br/>   a) Logements neufs construits ou acquis par l'accédant à la propriété :</td>
+</tr>
+<tr>
+<td> :=========================================================:</td>
+</tr>
+<tr>
+<td> :    DESIGNATION            : Zone I : Zone II : Zone III :</td>
+</tr>
+<tr>
+<td> :---------------------------:--------:---------:----------:</td>
+</tr>
+<tr>
+<td> :                           :  Francs:  Francs :  Francs  :</td>
+</tr>
+<tr>
+<td> : Bénéficiaire isolé ...    :  2.030 :  1.811  :  1.690   :</td>
+</tr>
+<tr>
+<td> :                           :        :         :          :</td>
+</tr>
+<tr>
+<td> : Ménage sans personne à    :        :         :          :</td>
+</tr>
+<tr>
+<td> :  charge ...               :  2.449 :  2.180  :  2.027   :</td>
+</tr>
+<tr>
+<td> :                           :        :         :          :</td>
+</tr>
+<tr>
+<td> : Bénéficiaire isolé ou     :        :         :          :</td>
+</tr>
+<tr>
+<td> : ménage ayant une personne :        :         :          :</td>
+</tr>
+<tr>
+<td> :  à charge ...             :  2.868 :  2.549  :  2.364   :</td>
+</tr>
+<tr>
+<td> :                           :        :         :          :</td>
+</tr>
+<tr>
+<td> : Par personne              :        :         :          :</td>
+</tr>
+<tr>
+<td> :  supplémentaire à charge  :    419 :    369  :    337   :</td>
+</tr>
+<tr>
+<td> :=========================================================:</td>
+</tr>
 </table>
 
-Les mensualités de référence pour les logements financés par les prêts prévus par les articles R. 331-63 à R. 331-77 sont fixées comme suit lorsque la date de signature du contrat de prêt mentionné sur le certificat prévu à l'article 2 (3°) de l'arrêté du 22 août 1986 précité est intervenue après la date de publication du présent arrêté [*27 novembre 1994*] :
+b) Logements agrandis ou aménagés à partir de locaux non destinés à l'habitation ou acquis et améliorés :
 
-a) Logements neufs construits ou acquis par l'accédant à la propriété : <table>
-<tbody>
+<table>
 <tr>
-<td width="227">
-<p align="center">DÉSIGNATION</p>
-</td>
-<td width="151">
-<p align="center">ZONE 1<br/>(en francs)</p>
-</td>
-<td width="151">
-<p align="center">ZONE 2<br/>(en francs)</p>
-</td>
-<td width="151">
-<p align="center">ZONE 3<br/>(en francs)</p>
-</td>
+<td> :=========================================================:</td>
 </tr>
 <tr>
-<td width="227">
-<p>Bénéficiaire isolé</p>
-</td>
-<td width="151">
-<p align="center">1 981</p>
-</td>
-<td width="151">
-<p align="center">1 768</p>
-</td>
-<td width="151">
-<p align="center">1 650</p>
-</td>
+<td> :    DESIGNATION            : Zone I : Zone II : Zone III :</td>
 </tr>
 <tr>
-<td width="227">
-<p>Ménage sans personne à charge</p>
-</td>
-<td width="151">
-<p align="center">2 390</p>
-</td>
-<td width="151">
-<p align="center">2 128</p>
-</td>
-<td width="151">
-<p align="center">1 979</p>
-</td>
+<td> :---------------------------:--------:---------:----------:</td>
 </tr>
 <tr>
-<td width="227">
-<p>Bénéficiaire isolé ou ménage ayant une personne à charge</p>
-</td>
-<td width="151">
-<p align="center">2 799</p>
-</td>
-<td width="151">
-<p align="center">2 488</p>
-</td>
-<td width="151">
-<p align="center">2 308</p>
-</td>
+<td> :                           :  Francs:  Francs :  Francs  :</td>
 </tr>
 <tr>
-<td width="227">
-<p>Par personne supplémentaire à charge</p>
-</td>
-<td width="151">
-<p align="center">409</p>
-</td>
-<td width="151">
-<p align="center">360</p>
-</td>
-<td width="151">
-<p align="center">329</p>
-</td>
+<td> : Bénéficiaire isolé ...    :  1.634 :  1.457  :  1.360   :</td>
 </tr>
-</tbody>
+<tr>
+<td> :                           :        :         :          :</td>
+</tr>
+<tr>
+<td> : Ménage sans personne à    :        :         :          :</td>
+</tr>
+<tr>
+<td> :  charge ...               :  1.972 :  1.754  :  1.632   :</td>
+</tr>
+<tr>
+<td> :                           :        :         :          :</td>
+</tr>
+<tr>
+<td> : Bénéficiaire isolé ou     :        :         :          :</td>
+</tr>
+<tr>
+<td> : ménage ayant une personne :        :         :          :</td>
+</tr>
+<tr>
+<td> :  à charge ...             :  2.310 :  2.051  :  1.904   :</td>
+</tr>
+<tr>
+<td> :                           :        :         :          :</td>
+</tr>
+<tr>
+<td> : Par personne              :        :         :          :</td>
+</tr>
+<tr>
+<td> :  supplémentaire à charge  :    338 :    297  :    272   :</td>
+</tr>
+<tr>
+<td> :                           :        :         :          :</td>
+</tr>
+<tr>
+<td> :=========================================================:</td>
+</tr>
+</table>
+
+c) Logements améliorés par leur propriétaire-occupant :
+
+<table>
+<tr>
+<td> :========================================:</td>
+</tr>
+<tr>
+<td> :    DESIGNATION          : TOUTES ZONES :</td>
+</tr>
+<tr>
+<td> :-------------------------:--------------:</td>
+</tr>
+<tr>
+<td> :                         :      Francs  :</td>
+</tr>
+<tr>
+<td> : Bénéficiaire isolé ...  :       846    :</td>
+</tr>
+<tr>
+<td> :                         :              :</td>
+</tr>
+<tr>
+<td> : Ménage sans personne à  :              :</td>
+</tr>
+<tr>
+<td> :  charge ...             :       945    :</td>
+</tr>
+<tr>
+<td> :                         :              :</td>
+</tr>
+<tr>
+<td> : Bénéficiaire isolé ou   :              :</td>
+</tr>
+<tr>
+<td> : ménage ayant une        :              :</td>
+</tr>
+<tr>
+<td> : personne à charge ...   :     1.044    :</td>
+</tr>
+<tr>
+<td> :                         :              :</td>
+</tr>
+<tr>
+<td> : Par personne            :              :</td>
+</tr>
+<tr>
+<td> : supplémentaire à charge :        99    :</td>
+</tr>
+<tr>
+<td> ==========================================</td>
+</tr>
+<tr>
+<td>
+<br/>   Les mensualités de référence pour les logements financés par les prêts prévus par les articles R. 331-63 à R. 331-77 sont fixées comme suit lorsque la date de signature du contrat de prêt mentionné sur le certificat prévu à l'article 2 (3°) de l'arrêté du 22 août 1986 modifié susvisé est intervenue après le 30 juin 1992 :</td>
+</tr>
+<tr>
+<td>
+<br/>   a) Logements neufs construits ou acquis par l'accédant à la propriété :</td>
+</tr>
+<tr>
+<td> :=========================================================:</td>
+</tr>
+<tr>
+<td> :    DESIGNATION            : Zone I : Zone II : Zone III :</td>
+</tr>
+<tr>
+<td> :---------------------------:--------:---------:----------:</td>
+</tr>
+<tr>
+<td> :                           :  Francs:  Francs :  Francs  :</td>
+</tr>
+<tr>
+<td> : Bénéficiaire isolé ...    :  2.085 :  1.860  :  1.736   :</td>
+</tr>
+<tr>
+<td> :                           :        :         :          :</td>
+</tr>
+<tr>
+<td> : Ménage sans personne à    :        :         :          :</td>
+</tr>
+<tr>
+<td> :  charge ...               :  2.515 :  2.239  :  2.082   :</td>
+</tr>
+<tr>
+<td> :                           :        :         :          :</td>
+</tr>
+<tr>
+<td> : Bénéficiaire isolé ou     :        :         :          :</td>
+</tr>
+<tr>
+<td> : ménage ayant une personne :        :         :          :</td>
+</tr>
+<tr>
+<td> :  à charge ...             :  2.945 :  2.618  :  2.428   :</td>
+</tr>
+<tr>
+<td> :                           :        :         :          :</td>
+</tr>
+<tr>
+<td> : Par personne              :        :         :          :</td>
+</tr>
+<tr>
+<td> :  supplémentaire à charge  :    430 :    379  :    346   :</td>
+</tr>
+<tr>
+<td> :=========================================================:</td>
+</tr>
 </table>
 
 b) Logements agrandis ou aménagés à partir de locaux non destinés à l'habitation ou logements existants acquis et le cas échéant améliorés :
 
 <table>
-<tbody>
 <tr>
-<td width="227">
-<p align="center">DÉSIGNATION</p>
-</td>
-<td width="151">
-<p align="center">ZONE 1<br/>(en francs)</p>
-</td>
-<td width="151">
-<p align="center">ZONE 2<br/>(en francs)</p>
-</td>
-<td width="151">
-<p align="center">ZONE 3<br/>(en francs)</p>
-</td>
+<td> :=============================================================:</td>
 </tr>
 <tr>
-<td width="227">
-<p>Bénéficiaire isolé</p>
-</td>
-<td width="151">
-<p align="center">1 595</p>
-</td>
-<td width="151">
-<p align="center">1 422</p>
-</td>
-<td width="151">
-<p align="center">1 328</p>
-</td>
+<td> :    DESIGNATION            :  Zone I   : Zone II  : Zone III :</td>
 </tr>
 <tr>
-<td width="227">
-<p>Ménage sans personne à charge</p>
-</td>
-<td width="151">
-<p align="center">1 925</p>
-</td>
-<td width="151">
-<p align="center">1 712</p>
-</td>
-<td width="151">
-<p align="center">1 593</p>
-</td>
+<td> :---------------------------:-----------:----------:----------:</td>
 </tr>
 <tr>
-<td width="227">
-<p>Bénéficiaire isolé ou ménage ayant une personne à charge</p>
-</td>
-<td width="151">
-<p align="center">2 255</p>
-</td>
-<td width="151">
-<p align="center">2 002</p>
-</td>
-<td width="151">
-<p align="center">1 858</p>
-</td>
+<td> :                           :   Francs  :  Francs  :  Francs  :</td>
 </tr>
 <tr>
-<td width="227">
-<p>Par personne supplémentaire à charge</p>
-</td>
-<td width="151">
-<p align="center">330</p>
-</td>
-<td width="151">
-<p align="center">290</p>
-</td>
-<td width="151">
-<p align="center">265</p>
-</td>
+<td> : Bénéficiaire isolé ...    :   1.678   :  1.496   :  1.397   :</td>
 </tr>
-</tbody>
+<tr>
+<td> :                           :           :          :          :</td>
+</tr>
+<tr>
+<td> : Ménage sans personne à    :           :          :          :</td>
+</tr>
+<tr>
+<td> :  charge ...               :   2.025   :  1.801   :  1.676   :</td>
+</tr>
+<tr>
+<td> :                           :           :          :          :</td>
+</tr>
+<tr>
+<td> : Bénéficiaire isolé ou     :           :          :          :</td>
+</tr>
+<tr>
+<td> : ménage ayant une personne :           :          :          :</td>
+</tr>
+<tr>
+<td> :  à charge ...             :   2.372   :  2.106   :  1.955   :</td>
+</tr>
+<tr>
+<td> :                           :           :          :          :</td>
+</tr>
+<tr>
+<td> : Par personne              :           :          :          :</td>
+</tr>
+<tr>
+<td> :  supplémentaire à charge  :     347   :    305   :    279   :</td>
+</tr>
+<tr>
+<td> :                           :           :          :          :</td>
+</tr>
+<tr>
+<td> :=============================================================:</td>
+</tr>
+<tr>
+<td>
+<br/>   c) Logements améliorés par leur propriétaire-occupant :</td>
+</tr>
+<tr>
+<td> :========================================:</td>
+</tr>
+<tr>
+<td> :    DESIGNATION          : TOUTES ZONES :</td>
+</tr>
+<tr>
+<td> :-------------------------:--------------:</td>
+</tr>
+<tr>
+<td> :                         :      Francs  :</td>
+</tr>
+<tr>
+<td> : Bénéficiaire isolé ...  :       869    :</td>
+</tr>
+<tr>
+<td> :                         :              :</td>
+</tr>
+<tr>
+<td> : Ménage sans personne à  :              :</td>
+</tr>
+<tr>
+<td> :  charge ...             :       971    :</td>
+</tr>
+<tr>
+<td> :                         :              :</td>
+</tr>
+<tr>
+<td> : Bénéficiaire isolé ou   :              :</td>
+</tr>
+<tr>
+<td> : ménage ayant une        :              :</td>
+</tr>
+<tr>
+<td> : personne à charge ...   :     1.073    :</td>
+</tr>
+<tr>
+<td> :                         :              :</td>
+</tr>
+<tr>
+<td> : Par personne            :              :</td>
+</tr>
+<tr>
+<td> : supplémentaire à charge :       102    :</td>
+</tr>
+</table>
+
+==========================================
+
+Les mensualités de référence pour les logements financés par les prêts prévus par les articles R. 331-63 à R. 331-77 sont fixées comme suit lorsque la date de signature du contrat de prêt mentionné sur le certificat prévu à l'article 2 (3°) de l'arrêté du 22 août 1986 précité est intervenue après la date de publication du présent arrêté [*27 novembre 1994*] :
+
+a) Logements neufs construits ou acquis par l'accédant à la propriété :
+
+<table>
+<tr>
+<td> :=============================================================:</td>
+</tr>
+<tr>
+<td> :    DESIGNATION            :  Zone I   : Zone II  : Zone III :</td>
+</tr>
+<tr>
+<td> :---------------------------:-----------:----------:----------:</td>
+</tr>
+<tr>
+<td> :                           :   Francs  :  Francs  :  Francs  :</td>
+</tr>
+<tr>
+<td> : Bénéficiaire isolé ...    :   1.981   :  1.768   :  1.650   :</td>
+</tr>
+<tr>
+<td> :                           :           :          :          :</td>
+</tr>
+<tr>
+<td> : Ménage sans personne à    :           :          :          :</td>
+</tr>
+<tr>
+<td> :  charge ...               :   2.390   :  2.128   :  1.979   :</td>
+</tr>
+<tr>
+<td> :                           :           :          :          :</td>
+</tr>
+<tr>
+<td> : Bénéficiaire isolé ou     :           :          :          :</td>
+</tr>
+<tr>
+<td> : ménage ayant une personne :           :          :          :</td>
+</tr>
+<tr>
+<td> :  à charge ...             :   2.799   :  2.488   :  2.308   :</td>
+</tr>
+<tr>
+<td> :                           :           :          :          :</td>
+</tr>
+<tr>
+<td> : Par personne              :           :          :          :</td>
+</tr>
+<tr>
+<td> :  supplémentaire à charge  :     409   :    360   :    329   :</td>
+</tr>
+<tr>
+<td> :                           :           :          :          :</td>
+</tr>
+<tr>
+<td> :=============================================================:</td>
+</tr>
+<tr>
+<td>
+<br/>   b) Logements agrandis ou aménagés à partir de locaux non destinés à l'habitation ou logements existants acquis et le cas échéant améliorés :</td>
+</tr>
+<tr>
+<td> :=============================================================:</td>
+</tr>
+<tr>
+<td> :    DESIGNATION            :  Zone I   : Zone II  : Zone III :</td>
+</tr>
+<tr>
+<td> :---------------------------:-----------:----------:----------:</td>
+</tr>
+<tr>
+<td> :                           :   Francs  :  Francs  :  Francs  :</td>
+</tr>
+<tr>
+<td> : Bénéficiaire isolé ...    :   1.595   :  1.422   :  1.328   :</td>
+</tr>
+<tr>
+<td> :                           :           :          :          :</td>
+</tr>
+<tr>
+<td> : Ménage sans personne à    :           :          :          :</td>
+</tr>
+<tr>
+<td> :  charge ...               :   1.925   :  1.712   :  1.593   :</td>
+</tr>
+<tr>
+<td> :                           :           :          :          :</td>
+</tr>
+<tr>
+<td> : Bénéficiaire isolé ou     :           :          :          :</td>
+</tr>
+<tr>
+<td> : ménage ayant une personne :           :          :          :</td>
+</tr>
+<tr>
+<td> :  à charge ...             :   2.255   :  2.002   :  1.858   :</td>
+</tr>
+<tr>
+<td> :                           :           :          :          :</td>
+</tr>
+<tr>
+<td> : Par personne              :           :          :          :</td>
+</tr>
+<tr>
+<td> :  supplémentaire à charge  :     330   :    290   :    265   :</td>
+</tr>
+<tr>
+<td> :                           :           :          :          :</td>
+</tr>
+<tr>
+<td> :=============================================================:</td>
+</tr>
 </table>
 
 17° Lorsque la date de signature du contrat de prêt est intervenue postérieurement au 30 juin 2000 :
@@ -1493,153 +1227,266 @@ b) Logements agrandis ou aménagés à partir de locaux non destinés à l'habit
 a) Logements neufs construits ou acquis par l'accédant à la propriété :
 
 <table>
-<tbody>
 <tr>
-<td width="227">
-<p align="center">DÉSIGNATION</p>
-</td>
-<td width="151">
-<p align="center">ZONE 1<br/>(en francs)</p>
-</td>
-<td width="151">
-<p align="center">ZONE 2<br/>(en francs)</p>
-</td>
-<td width="151">
-<p align="center">ZONE 3<br/>(en francs)</p>
-</td>
+<td> :==================================================:</td>
 </tr>
 <tr>
-<td width="227">
-<p>Bénéficiaire isolé</p>
-</td>
-<td width="151">
-<p align="center">2 001</p>
-</td>
-<td width="151">
-<p align="center">1 786</p>
-</td>
-<td width="151">
-<p align="center">1 667</p>
-</td>
+<td> :   DESIGNATION      : Zone I : Zone II : Zone III :</td>
 </tr>
 <tr>
-<td width="227">
-<p>Ménage sans personne à charge</p>
-</td>
-<td width="151">
-<p align="center">2 414</p>
-</td>
-<td width="151">
-<p align="center">2 150</p>
-</td>
-<td width="151">
-<p align="center">1 999</p>
-</td>
+<td> :--------------------:--------:---------:----------:</td>
 </tr>
 <tr>
-<td width="227">
-<p>Bénéficiaire isolé ou ménage ayant une personne à charge</p>
-</td>
-<td width="151">
-<p align="center">2 827</p>
-</td>
-<td width="151">
-<p align="center">2 514</p>
-</td>
-<td width="151">
-<p align="center">2 331</p>
-</td>
+<td> :                    : Francs :  Francs :  Francs  :</td>
 </tr>
 <tr>
-<td width="227">
-<p>Par personne supplémentaire à charge</p>
-</td>
-<td width="151">
-<p align="center">413</p>
-</td>
-<td width="151">
-<p align="center">364</p>
-</td>
-<td width="151">
-<p align="center">332</p>
-</td>
+<td> :Bénéficiaire isolé  :  2.001 :  1.786  :  1.667   :</td>
 </tr>
-</tbody>
+<tr>
+<td> :                    :        :         :          :</td>
+</tr>
+<tr>
+<td> :Ménage sans personne:        :         :          :</td>
+</tr>
+<tr>
+<td> :à charge            :  2.414 :  2.150  :  1.999   :</td>
+</tr>
+<tr>
+<td> :                    :        :         :          :</td>
+</tr>
+<tr>
+<td> :Bénéficiaire isolé  :        :         :          :</td>
+</tr>
+<tr>
+<td> :ou ménage ayant une :        :         :          :</td>
+</tr>
+<tr>
+<td> :personne à charge   :  2.827 :  2.514  :  2.331   :</td>
+</tr>
+<tr>
+<td> :                    :        :         :          :</td>
+</tr>
+<tr>
+<td> :Par personne        :        :         :          :</td>
+</tr>
+<tr>
+<td> :supplémentaire à    :  413   :   364   :   332    :</td>
+</tr>
+<tr>
+<td> :charge              :        :         :          :</td>
+</tr>
+<tr>
+<td> :==================================================:</td>
+</tr>
+<tr>
+<td/>
+</tr>
+<tr>
+<td>
+<br/>   b) Logements agrandis ou aménagés à partir de locaux non destinés à l'habitation ou logements existants acquis et, le cas échéant, améliorés :</td>
+</tr>
+<tr>
+<td/>
+</tr>
+<tr>
+<td> :==================================================:</td>
+</tr>
+<tr>
+<td> :   DESIGNATION      : Zone I : Zone II : Zone III :</td>
+</tr>
+<tr>
+<td> :--------------------:--------:---------:----------:</td>
+</tr>
+<tr>
+<td> :                    : Francs :  Francs :  Francs  :</td>
+</tr>
+<tr>
+<td> :Bénéficiaire isolé  :  1.611 :  1.436  :  1.341   :</td>
+</tr>
+<tr>
+<td> :                    :        :         :          :</td>
+</tr>
+<tr>
+<td> :Ménage sans personne:        :         :          :</td>
+</tr>
+<tr>
+<td> :à charge            :  1.944 :  1.729  :  1.609   :</td>
+</tr>
+<tr>
+<td> :                    :        :         :          :</td>
+</tr>
+<tr>
+<td> :Bénéficiaire isolé  :        :         :          :</td>
+</tr>
+<tr>
+<td> :ou ménage ayant une :        :         :          :</td>
+</tr>
+<tr>
+<td> :personne à charge   :  2.277 :  2.022  :  1.877   :</td>
+</tr>
+<tr>
+<td> :                    :        :         :          :</td>
+</tr>
+<tr>
+<td> :Par personne        :        :         :          :</td>
+</tr>
+<tr>
+<td> :supplémentaire à    :    333 :   293   :   268    :</td>
+</tr>
+<tr>
+<td> :charge              :        :         :          :</td>
+</tr>
+<tr>
+<td> :==================================================:</td>
+</tr>
 </table>
 
-b) Logements agrandis ou aménagés à partir de locaux non destinés à l'habitation ou logements existants acquis et, le cas échéant, améliorés :
+18° Lorsque la date de signature du contrat de prêt est intervenue postérieurement au 30 juin 2001 :
 
-<table>
-<tbody>
-<tr>
-<td width="227">
-<p align="center">DÉSIGNATION</p>
-</td>
-<td width="151">
-<p align="center">ZONE 1<br/>(en francs)</p>
-</td>
-<td width="151">
-<p align="center">ZONE 2<br/>(en francs)</p>
-</td>
-<td width="151">
-<p align="center">ZONE 3<br/>(en francs)</p>
-</td>
-</tr>
-<tr>
-<td width="227">
-<p>Bénéficiaire isolé</p>
-</td>
-<td width="151">
-<p align="center">1 611</p>
-</td>
-<td width="151">
-<p align="center">1 436</p>
-</td>
-<td width="151">
-<p align="center">1 341</p>
-</td>
-</tr>
-<tr>
-<td width="227">
-<p>Ménage sans personne à charge</p>
-</td>
-<td width="151">
-<p align="center">1 944</p>
-</td>
-<td width="151">
-<p align="center">1 729</p>
-</td>
-<td width="151">
-<p align="center">1 609</p>
-</td>
-</tr>
-<tr>
-<td width="227">
-<p>Bénéficiaire isolé ou ménage ayant une personne à charge</p>
-</td>
-<td width="151">
-<p align="center">2 277</p>
-</td>
-<td width="151">
-<p align="center">2 022</p>
-</td>
-<td width="151">
-<p align="center">1 877</p>
-</td>
-</tr>
-<tr>
-<td width="227">
-<p>Par personne supplémentaire à charge</p>
-</td>
-<td width="151">
-<p align="center">333</p>
-</td>
-<td width="151">
-<p align="center">293</p>
-</td>
-<td width="151">
-<p align="center">268</p>
-</td>
-</tr>
-</tbody>
-</table>
+a) Logements neufs construits ou acquis par l'accédant à la propriété :
+
+Valeurs en francs du 1er juillet 2001 au 31 décembre 2001
+
+DÉSIGNATION
+
+Bénéficiaire isolé
+
+ZONE I : 2 025
+
+ZONE II : 1 807
+
+ZONE III : 1 687
+
+Ménage sans personne à charge
+
+ZONE I : 2 443
+
+ZONE II : 2 175
+
+ZONE III : 2 023
+
+Bénéficiaire isolé ou ménage ayant une personne à charge
+
+ZONE I : 2 861
+
+ZONE II : 2 543
+
+ZONE III : 2 359
+
+Par personne supplémentaire à charge
+
+ZONE I : 418
+
+ZONE II : 368
+
+ZONE III : 336
+
+Valeurs en euros à compter du 1er janvier 2002
+
+DÉSIGNATION
+
+Bénéficiaire isolé
+
+ZONE I : 308,71
+
+ZONE II : 275,48
+
+ZONE III : 257,18
+
+Ménage sans personne à charge
+
+ZONE I : 372,43
+
+ZONE II : 331,58
+
+ZONE III : 308,40
+
+Bénéficiaire isolé ou ménage ayant une personne à charge
+
+ZONE I : 436,15
+
+ZONE II : 387,68
+
+ZONE III : 359,62
+
+Par personne supplémentaire à charge
+
+ZONE I : 63,72
+
+ZONE II : 56,10
+
+ZONE III : 51,22
+
+b) Logements agrandis ou aménagés à partir de locaux non destinés à l'habitation ou logements existants acquis et le cas échéant améliorés :
+
+Valeurs en francs du 1er juillet 2001 au 31 décembre 2001
+
+DÉSIGNATION
+
+Bénéficiaire isolé
+
+ZONE I : 1 630
+
+ZONE II : 1 453
+
+ZONE III : 1 357
+
+Ménage sans personne à charge
+
+ZONE I : 1 967
+
+ZONE II : 1 750
+
+ZONE III : 1 628
+
+Bénéficiaire isolé ou ménage ayant une personne à charge
+
+ZONE I : 2 304
+
+ZONE II : 2 047
+
+ZONE III : 1 899
+
+Par personne supplémentaire à charge
+
+ZONE I : 337
+
+ZONE II : 297
+
+ZONE III : 271
+
+Valeurs en euros à compter du 1er janvier 2002
+
+DÉSIGNATION
+
+Bénéficiaire isolé
+
+ZONE I : 248,49
+
+ZONE II : 221,51
+
+ZONE III : 206,87
+
+Ménage sans personne à charge
+
+ZONE I : 299,87
+
+ZONE II : 266,79
+
+ZONE III : 248,18
+
+Bénéficiaire isolé ou ménage ayant une personne à charge
+
+ZONE I : 351,25
+
+ZONE II : 312,07
+
+ZONE III : 289,49
+
+Par personne supplémentaire à charge
+
+ZONE I : 51,38
+
+ZONE II : 45,28
+
+ZONE III : 41,31

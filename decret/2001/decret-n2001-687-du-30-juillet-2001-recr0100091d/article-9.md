@@ -1,0 +1,3 @@
+# Article 9
+
+Pour l'exécution des délibérations du conseil d'administration des établissements visés par le présent décret, antérieures à la date de publication de celui-ci et qui, portant sur les créations de filiales ou les prises, cessions ou extensions de participations financières, n'ont pas fait l'objet à cette date d'une approbation par arrêté conjoint du ou des ministres chargés de la tutelle de l'établissement, du ministre chargé de l'économie et du ministre chargé du budget, le délai d'un mois résultant du II des articles 1er à 8 du présent décret court à compter de la publication de celui-ci lorsque le procès-verbal a été reçu par les ministres antérieurement à cette date. Dans le cas contraire, il court à compter de la réception du procès-verbal.

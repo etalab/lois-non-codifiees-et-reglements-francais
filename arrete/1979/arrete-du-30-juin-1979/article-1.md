@@ -1,6 +1,8 @@
 # Article 1
 
-A compter du 1er juillet 2000, les équivalences de loyer et de charges locatives de référence sont fixées comme suit :
+Les équivalences de loyer et de charges locatives de référence sont fixées comme suit :
+
+Valeurs en francs du 1er juillet 2001 au 31 décembre 2001
 
 !-------------!---------------!-------!
 
@@ -10,13 +12,13 @@ A compter du 1er juillet 2000, les équivalences de loyer et de charges locative
 
 !Bénéficiaire !       !       !       !
 
-!isolé........! 2392 F! 2189 F! 2078 F!
+!isolé........! 2421 F! 2215 F! 2103 F!
 
 !Ménage sans  !       !       !       !
 
 !personne à   !       !       !       !
 
-!charge.......! 2802 F! 2552 F! 2415 F!
+!charge.......! 2836 F! 2583 F! 2444 F!
 
 !Bénéficiaire !       !       !       !
 
@@ -26,7 +28,7 @@ A compter du 1er juillet 2000, les équivalences de loyer et de charges locative
 
 !une personne !       !       !       !
 
-!à charge.....! 2990 F! 2723 F! 2564 F!
+!à charge.....! 3026 F! 2756 F! 2595 F!
 
 !Bénéficiaire !       !       !       !
 
@@ -36,7 +38,7 @@ A compter du 1er juillet 2000, les équivalences de loyer et de charges locative
 
 !deux perso-  !       !       !       !
 
-!nnes à charge! 3202 F! 2917 F! 2735 F!
+!nnes à charge! 3240 F! 2952 F! 2768 F!
 
 !Bénéficiaire !       !       !       !
 
@@ -46,7 +48,7 @@ A compter du 1er juillet 2000, les équivalences de loyer et de charges locative
 
 !trois perso- !       !       !       !
 
-!nnes à charge! 3414 F! 3110 F! 2906 F!
+!nnes à charge! 3455 F! 3147 F! 2941 F!
 
 !Bénéficiaire !       !       !       !
 
@@ -56,12 +58,78 @@ A compter du 1er juillet 2000, les équivalences de loyer et de charges locative
 
 !quatre perso-!       !       !       !
 
-!nnes à charge! 3633 F! 3306 F! 3088 F!
+!nnes à charge! 3688 F! 3355 F! 3135 F!
 
 !Par personne !       !       !       !
 
 !à charge sup-!       !       !       !
 
-!plémentaire..!  376 F!  344 F!  319 F!
+!plémentaire..!  383 F!  350 F!  325 F!
+
+!-------------!-------!-------!-------!
+
+Valeurs en euros à compter du 1er janvier 2002
+
+!-------------!---------------!-------!
+
+! Désignation ! ZoneI !ZoneII !ZoneIII!
+
+!-------------!-------!------ !-------!
+
+!Bénéficiaire !       !       !       !
+
+!isolé........! 369,08! 337,67! 320,60!
+
+!Ménage sans  !       !       !       !
+
+!personne à   !       !       !       !
+
+!charge.......! 432,35! 393,78! 372,59!
+
+!Bénéficiaire !       !       !       !
+
+!isolé ou mé- !       !       !       !
+
+!nage ayant   !       !       !       !
+
+!une personne !       !       !       !
+
+!à charge.....! 461,31! 420,15! 395,61!
+
+!Bénéficiaire !       !       !       !
+
+!isolé ou mé- !       !       !       !
+
+!nage ayant   !       !       !       !
+
+!deux perso-  !       !       !       !
+
+!nnes à charge! 493,93! 450,03! 421,98!
+
+!Bénéficiaire !       !       !       !
+
+!isolé ou mé- !       !       !       !
+
+!nage ayant   !       !       !       !
+
+!trois perso- !       !       !       !
+
+!nnes à charge! 526,71! 479,76! 448,35!
+
+!Bénéficiaire !       !       !       !
+
+!isolé ou mé- !       !       !       !
+
+!nage ayant   !       !       !       !
+
+!quatre perso-!       !       !       !
+
+!nnes à charge! 562,24! 511,48! 477,94!
+
+!Par personne !       !       !       !
+
+!à charge sup-!       !       !       !
+
+!plémentaire..! 58,39 ! 53,36 ! 49,55 !
 
 !-------------!-------!-------!-------!
