@@ -8,7 +8,7 @@ Elle a une mission générale d'élaboration, d'animation, de coordination, de c
 
 Pour son secteur de responsabilité ou pour des questions communes à plusieurs directions ou services, elle assure la représentation unitaire du ministère des P.T.T. auprès des ministères chargés de la fonction publique et du budget, ainsi qu'auprès des organismes ou autorités à caractère national ou international.
 
-Elle conduit son action, compte tenu des besoins qu'elles expriment, en relation avec la direction générale de la poste, la direction générale des télécommunications et la mission à la réglementation générale.
+Elle conduit son action, compte tenu des besoins qu'elles expriment, en relation avec la direction générale de la poste, la direction générale des télécommunications et la direction de la réglementation générale.
 
 Dans ce cadre, dans le respect des dispositions statutaires applicables à la fonction publique d'Etat et dans le respect de l'unité des P.T.T., elle est responsable du statut du personnel et définit les règles générales applicables en matière de recrutement, d'avancement, de mutations, de rémunérations, de discipline et de pensions. Elle s'assure de leur bonne application.
 
