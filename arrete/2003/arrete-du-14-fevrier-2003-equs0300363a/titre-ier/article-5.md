@@ -1,0 +1,5 @@
+# Article 5
+
+Le respect des exigences essentielles de sécurité est attesté par la présence sur les produits ou leurs emballages d'une des marques d'attestation de conformité suivantes, applicables pour chaque type d'équipement concerné, en fonction de la procédure d'évaluation de la conformité dont ils relèvent : marque NF attestant la conformité aux normes, marque d'homologation attestant la conformité à un cahier des charges ministériel, marque de déclaration de conformité par le fabricant attestant la conformité aux normes ou à des cahiers des charges ministériels ou marque d'attestation d'équivalence pour les produits originaires d'autres Etats membres de l'Union européenne ou de l'Espace économique européen. Les marques sont apposées par le fabricant ou l'importateur.
+
+Ceux-ci tiennent également à disposition de tout acheteur les décisions d'admission à la marque NF, les décisions d'homologation, les déclarations de conformité avec le procès-verbal d'essais de type ou les décisions d'attestation d'équivalence.
