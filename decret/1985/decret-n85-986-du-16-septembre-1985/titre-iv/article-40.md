@@ -12,6 +12,6 @@ Elle est renouvelée par périodes n'excédant pas cinq années par arrêté du 
 
 Trois mois au moins avant l'expiration de chaque période de mise hors cadres, le fonctionnaire fait connaître à son administration d'origine sa décision de solliciter le renouvellement de la position hors cadres ou de réintégrer son corps d'origine.
 
-Trois mois au moins avant le terme de la même période, l'administration ou l'organisme d'accueil fait connaître au fonctionnaire concerné et à son administration d'origine sa décision de renouveler ou non la position hors cadres.
+Deux mois au moins avant le terme de la même période, l'administration ou l'organisme d'accueil fait connaître au fonctionnaire concerné et à son administration d'origine sa décision de renouveler ou non la position hors cadres.
 
 A l'expiration d'une période de mise hors cadres et lorsque celle-ci n'est pas renouvelée, la réintégration du fonctionnaire est obligatoirement prononcée, par arrêté du ministre intéressé, à la première vacance. Le fonctionnaire réintégré est affecté à un emploi correspondant à son grade dans les conditions fixées par l'article 60 de la loi du 11 janvier 1984 susvisée.
