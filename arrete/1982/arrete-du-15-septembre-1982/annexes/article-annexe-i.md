@@ -1,25 +1,29 @@
 # Article Annexe I
 
-A. - SEMENCES DE CÉRÉALES NE DEVANT ÉTRE COMMERCIALISÉES QUE DANS LES CATÉGORIES SEMENCES DE PRÉBASE, SEMENCES DE BASE ET SEMENCES CERTIFIÉES, TELLES QU'ELLES SONT DÉFINIES PAR LES RÈGLEMENTS TECHNIQUES CITÉS A L'ARTICLE 2
+Semences de céréales ne devant être commercialisées que dans les catégories de prébase, semences de base et semences certifiées,
 
-- Avoine (Avena sativa L.) ;
+telles qu'elles sont définies par les règlements techniques cités à l'article 2 :
 
-- Blé dur (Triticum durum Desf.) ;
+- avoine (Aven Sativa L.)
 
-- Blé tendre (froment), (Triticum aestivum L. enmend. Fiori et Paol) ;
+- blé dur (Triticum Durum, Desf.) ;
 
-- Maïs, à l'exception du popcorn et du maïs sucré (Zea maïs L., à l'exception de Zea maïs convar, microsperma [Koern] et Zea maïs couvar. saccharata [Koern] ;
+- blé tendre (froment) (Triticum aestivum L., emend, Fiori et Pasl) ;
 
-- Orge (Hordeum vulgare L.) ;
+- maïs, à l'exception du pop-corn et maïs sucré (Zea maïs L. partim ) ;
 
-- Riz (Oryza satina L.) ;
+- orge (Hordeum Vulgare L.) ;
 
-- Seigle (Secale cereale L.) ;
+- riz (Oryza Saliva L.) ;
 
-- Triticale (Secalotricum).
+- seigle (Secale Cereale L.) ;
 
-B. - SEMENCES DE CÉRÉALES POUVANT ETRE COMMERCIALISÉES DANS LES CATÉGORIES SEMENCES DE PRÉBASE, SEMENCES DE BASE ET SEMENCES CERTIFIÉES, TELLES QU'ELLES SONT DÉFINIES DANS LES RÈGLEMENTS TECHNIQUES
+- sorgho (Sorghum Bicolor "L." , Moench) ;
 
-- Sorgho (Sorghum bicolor L. Meench (partim) et S. sudanense (Piper) stapf [Partim]
+- sorgho du Soudan (Sorghum Sundanese "piper", Stapf) ;
 
-A défaut de classification dans ces catégories, les semences de sorgho ne peuvent être imparties d'aucun qualificatif.
+- hybride résultant du croisement entre le sorgho et le sorgho du Soudan (Sorghum Bicolor "L.". Moench X (Sorghum Sundanese
+
+"piper", Stapf)
+
+- triticale (X Triticosecale, Wittm).

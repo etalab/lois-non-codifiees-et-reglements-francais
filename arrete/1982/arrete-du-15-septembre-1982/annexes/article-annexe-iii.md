@@ -10,4 +10,6 @@ b) Maïs
 
 25 000 ou multiple de 25 000 grains, avec une tolérance de 5. p. 100 en plus ou en moins.
 
-c) Sorgho : 5, 10, 25, 50 et 100 kg.
+c) Sorgho : 5, 10, 25, 50 et 100 kg
+
+25 000 grains ou multiple de 25 000 grains avec une tolérance de 5. p. 100 en plus ou en moins.

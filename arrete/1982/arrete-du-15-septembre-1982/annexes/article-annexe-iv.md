@@ -9,9 +9,8 @@ POIDS DES ECHANTILLONS
 <p align="center">ESPECES</p>
 </td>
 <td>
-<p>POIDS MINIMAL</p>
-<p align="center">à prélever</p>
-<p align="center">sur un lot</p>
+<p align="center">POIDS MINIMAL</p>
+<p align="center">à prélever sur un lot </p>
 <p align="center">(en grammes) </p>
 </td>
 <td>
@@ -45,27 +44,29 @@ POIDS DES ECHANTILLONS
 <p>Semences de base autres que de lignées inbred et semences certifiées </p>
 </td>
 <td>
-<br/>
-<br/>
 <p align="center">250</p>
 <p align="center">1 000</p>
-<br/>
 </td>
 <td>
-<br/>
-<br/>
 <p align="center">250</p>
 <p align="center">1 000</p>
-<br/>
 </td>
 </tr>
 <tr>
-<td>Sorgho</td>
 <td>
+<p>Sorgho</p>
+<p>Sorgho du soudan </p>
+<p>Sorgho x sorgho du Soudan</p>
+</td>
+<td>
+<p align="center">1 000</p>
+<p align="center">1 000</p>
 <p align="center">1 000</p>
 </td>
 <td>
 <p align="center">1 000</p>
+<p align="center">900</p>
+<p align="center">900</p>
 </td>
 </tr>
 </tbody>

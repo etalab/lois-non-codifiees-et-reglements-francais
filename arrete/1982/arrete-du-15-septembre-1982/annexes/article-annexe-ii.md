@@ -1,6 +1,6 @@
 # Article Annexe II
 
-CONDITIONS AUXQUELLES DOIVENT SATISFAIRE LES SEMENCES
+Conditions auxquelles doivent satisfaire les semences
 
 A. - Les semences doivent répondre aux normes et autres conditions suivantes, en ce qui concerne la pureté variétale, la faculté germinative, la pureté spécifique, la teneur en humidité et la teneur en semences d'autres espèces de plantes (voir tableau).
 
@@ -8,11 +8,11 @@ B. - La présence d'organismes nuisibles affectant la valeur d'utilisation des s
 
 Les semences doivent répondre aux conditions suivantes :
 
-- Le nombre maximal de sclérotes ou fragments de sclérotes de Claviceps purpurea dans un échantillon du poids prévu à l'annexe n° IV ne doit pas excéder :
+Le nombre maximal de sclérotes ou fragments de sclérotes de Claviceps purpurea dans un échantillon de poids prévu à l'annexe n° IV ne doit pas excéder
 
-un pour les semences de base ;
+- un pour les semences de base ;
 
-trois pour les semences certifiées.
+- trois pour les semences certifiées.
 
 <table>
 <tbody>
@@ -24,19 +24,19 @@ trois pour les semences certifiées.
 <p align="center">CATÉGORIES</p>
 </td>
 <td rowspan="2" width="79">
-<p align="center">PURETÉ minimale variétale (pourcentage de graines),</p>
+<p align="center">PURETÉ minimale variétale (% de graines),</p>
 </td>
 <td rowspan="2" width="79">
 <p align="center">FACULTÉ<br/>germinative</p>
-<p align="center">minimale <br/>(pourcentage<br/>de graines).</p>
+<p align="center">minimale <br/>(% de graines).</p>
 </td>
 <td rowspan="2" width="79">
 <p align="center">PURETÉ<br/>spécifique</p>
-<p align="center">minimale (pourcentage en poids).</p>
+<p align="center">minimale (% en poids).</p>
 </td>
 <td rowspan="2" width="79">
-<p>HUMIDITE</p>
-<p align="center">Maximale (pourcentage en teneur d'eau)</p>
+<p align="center">HUMIDITE</p>
+<p align="center">Maximale (% en teneur d'eau)</p>
 </td>
 <td colspan="3" width="218">
 <p align="center">TENEUR MAXIMALE</p>
@@ -138,7 +138,7 @@ trois pour les semences certifiées.
 <p align="center">4</p>
 </td>
 <td valign="top" width="54">
-<p align="center">2 grains rouges.</p>
+<p align="center">1 grain rouge.</p>
 </td>
 <td valign="top" width="132">
 <p>Un panicum sp. p.</p>
@@ -164,7 +164,7 @@ trois pour les semences certifiées.
 <p align="center">10</p>
 </td>
 <td valign="top" width="54">
-<p align="center">5 grains rouges.</p>
+<p align="center">3 grains rouges.</p>
 </td>
 <td valign="top" width="132">
 <p>Trois Panicum sp. p.</p>
@@ -186,7 +186,7 @@ trois pour les semences certifiées.
 </td>
 <td valign="top" width="79">
 <p align="center">98</p>
-<p align="right">.</p>
+<br/>
 </td>
 <td valign="top" width="79">
 <p align="center">15</p>
@@ -195,7 +195,7 @@ trois pour les semences certifiées.
 <p align="center">4</p>
 </td>
 <td valign="top" width="54">
-<p align="center">3 (b)</p>
+<p align="center">1 (b)</p>
 </td>
 <td valign="top" width="132">
 <p>Trois, dont :</p>
@@ -290,7 +290,7 @@ trois pour les semences certifiées.
 <p>Semences de base...</p>
 </td>
 <td valign="top" width="79">
-<p align="center">-</p>
+<p align="center">99,7</p>
 </td>
 <td valign="top" width="79">
 <p align="center">85 (a)</p>
@@ -299,7 +299,7 @@ trois pour les semences certifiées.
 <p align="center">98</p>
 </td>
 <td valign="top" width="79">
-<p align="center">15</p>
+<p align="center">16,5</p>
 </td>
 <td valign="top" width="32">
 <p align="center">4</p>
@@ -318,7 +318,7 @@ trois pour les semences certifiées.
 <p>Semences certifiées</p>
 </td>
 <td valign="top" width="79">
-<p align="center">-</p>
+<p align="center">99</p>
 </td>
 <td valign="top" width="79">
 <p align="center">85</p>
@@ -327,7 +327,7 @@ trois pour les semences certifiées.
 <p align="center">98</p>
 </td>
 <td valign="top" width="79">
-<p align="center">15</p>
+<p align="center">16,5</p>
 </td>
 <td valign="top" width="32">
 <p align="center">10</p>
@@ -358,10 +358,10 @@ trois pour les semences certifiées.
 <p align="center">98</p>
 </td>
 <td valign="top" width="79">
-<p align="center">12</p>
+<p align="center">14</p>
 </td>
 <td valign="top" width="32">
-<p align="center">-</p>
+<p align="center">0</p>
 </td>
 <td valign="top" width="54">
 <p align="center">-</p>
@@ -382,10 +382,10 @@ trois pour les semences certifiées.
 <p align="center">98</p>
 </td>
 <td valign="top" width="79">
-<p align="center">12</p>
+<p align="center">14</p>
 </td>
 <td valign="top" width="32">
-<p align="center">-</p>
+<p align="center">0</p>
 </td>
 <td valign="top" width="54">
 <p align="center">-</p>
