@@ -32,6 +32,7 @@
 - [Décret n°2005-431 du 3 mai 2005 (EQUP0500290D)](decret-n2005-431-du-3-mai-2005-equp0500290d)
 - [Décret n° 2005-2 du 4 janvier 2005 (INTB0400372D)](decret-n-2005-2-du-4-janvier-2005-intb0400372d)
 - [Décret n°2005-1380 du 4 novembre 2005 (MAEA0520396D)](decret-n2005-1380-du-4-novembre-2005-maea0520396d)
+- [Décret n°2005-215 du 4 mars 2005 (SOCN0510296D)](decret-n2005-215-du-4-mars-2005-socn0510296d)
 - [Décret n°2005-3 du 4 janvier 2005 (DEVP0420061D)](decret-n2005-3-du-4-janvier-2005-devp0420061d)
 - [Décret n°2005-4 du 4 janvier 2005 (DEVP0420064D)](decret-n2005-4-du-4-janvier-2005-devp0420064d)
 - [Décret n°2005-85 du 4 février 2005 (INDI0504390D)](decret-n2005-85-du-4-fevrier-2005-indi0504390d)
