@@ -1,0 +1,3 @@
+# Article 36
+
+Le Premier ministre, le ministre d'Etat, ministre de l'économie, des finances et de la privatisation, le garde des sceaux, ministre de la justice, le ministre des affaires sociales et de l'emploi, le ministre de l'industrie, des P. et T. et du tourisme, le ministre délégué auprès du ministre de l'économie, des finances et de la privatisation, chargé du budget, le ministre délégué auprès du ministre de l'économie, des finances et de la privatisation, chargé du commerce, de l'artisanat et des services, et le secrétaire d'Etat auprès du ministre des affaires sociales et de l'emploi sont chargés, chacun en ce qui le concerne, de l'exécution de la présente ordonnance, qui sera publiée au Journal officiel de la République française.

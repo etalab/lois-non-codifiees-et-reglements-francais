@@ -296,6 +296,7 @@
 - [Décret n°86-1127 du 17 octobre 1986](decret-n86-1127-du-17-octobre-1986)
 - [Décret n°86-1128 du 17 octobre 1986](decret-n86-1128-du-17-octobre-1986)
 - [Décret n°86-1130 du 17 octobre 1986](decret-n86-1130-du-17-octobre-1986)
+- [Décret n°86-1136 du 17 octobre 1986](decret-n86-1136-du-17-octobre-1986)
 - [Décret n°86-215 du 17 février 1986](decret-n86-215-du-17-fevrier-1986)
 - [Décret n°86-216 du 17 février 1986](decret-n86-216-du-17-fevrier-1986)
 - [Décret n°86-221 du 17 février 1986](decret-n86-221-du-17-fevrier-1986)

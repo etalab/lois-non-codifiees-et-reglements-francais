@@ -6,4 +6,4 @@ Monsieur Hervé de Charette, ministre délégué auprès du Premier ministre, ch
 
 2° En ce qui concerne la planification, il exerce, par délégation, les attributions du Premier ministre conformément à la loi du 29 juillet 1982 susvisée.
 
-Il est chargé, pour l'application du décret du 21 janvier 1983 susvisé, de la planification décentralisée conjointement avec le ministre chargé de l'aménagement du territoire et en liaison avec le ministre de l'intérieur. Pour les départements et territoires d'outre-mer, il en est chargé conjointement avec le ministre des départements et territoires d'outre-mer.
+Il est chargé, pour l'application du décret du 21 janvier 1983 susvisé, de la planification décentralisée conjointement avec le ministre chargé de l'aménagement du territoire et en liaison avec le ministre de l'intérieur. Pour les départements et territoires d'outre-mer, il en est chargé conjointement avec le ministre des départements et territoires d'outre-mer.    Il exerce, par délégation, les attributions du Premier ministre pour les questions se rapportant à l'économie sociale.

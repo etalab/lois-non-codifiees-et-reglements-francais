@@ -1,3 +1,3 @@
 # Article 2
 
-Le directeur des affaires sociales au ministère de l'agriculture est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+Les dépôts sont effectués par les clients auprès des établissements postaux spécialisés habilités à les recevoir, d'abord, à l'ouverture du service, sous forme de bandes magnétiques uniquement, et par la suite également à partir d'une machine Télétex, d'autres moyens de télétransmission, ou d'autres supports d'information numérisée.
