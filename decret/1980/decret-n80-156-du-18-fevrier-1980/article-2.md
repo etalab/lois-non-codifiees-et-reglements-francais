@@ -1,0 +1,7 @@
+# Article 2
+
+Dans les territoires d'outre-mer, le droit de réquisition des biens et des services est exercé de plein droit par le délégué du Gouvernement et par le commandant supérieur des forces armées dans le territoire considéré.
+
+Ces autorités peuvent sous-déléguer en totalité ou en partie l'exercice du droit de réquisition aux chefs des circonscriptions administratives et aux commandants militaires subordonnés. La sous délégation est toujours écrite. Elle est révocable.
+
+En ce qui concerne les navires ou aéronefs, le droit de réquisition défini au premier alinéa du présent article ne peut porter que sur ceux d'entre eux qui appartiennent à des personnes physiques ou morales dont le domicile ou le siège social est situé dans le territoire. Les autres navires ou aéronefs en stationnement dans un port ou un aéroport du territoire ne peuvent être réquisitionnés que par le ministre chargé des transports qui les utilise après consultation préalable du ministre chargé des territoires d'outre-mer ; toutefois, en cas de rupture des communications prévu par l'article 23 de l'ordonnance n° 59-147 du 7 janvier 1959 susvisée, le haut fonctionnaire de zone de défense territorialement compétent peut, en liaison avec le représentant local du ministre chargé des transports, réquisitionner ces moyens, à charge d'en rendre compte, dès que possible, au ministre chargé des territoires d'outre-mer et au ministre chargé des transports.
