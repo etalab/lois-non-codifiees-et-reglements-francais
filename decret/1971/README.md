@@ -29,6 +29,7 @@
 - [Décret n°74-543 du 20 mai 1974](decret-n74-543-du-20-mai-1974)
 - [Décret n°72-310 du 21 avril 1972](decret-n72-310-du-21-avril-1972)
 - [Décret n°72-73 du 21 janvier 1972](decret-n72-73-du-21-janvier-1972)
+- [Décret n°71-388 du 21 mai 1971](decret-n71-388-du-21-mai-1971)
 - [Décret n°71-248 du 25 mars 1971](decret-n71-248-du-25-mars-1971)
 - [Décret n°71-318 du 26 juillet 1971](decret-n71-318-du-26-juillet-1971)
 - [Décret n°71-323 du 28 avril 1971](decret-n71-323-du-28-avril-1971)
