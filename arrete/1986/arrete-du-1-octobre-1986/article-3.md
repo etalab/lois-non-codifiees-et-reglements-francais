@@ -1,3 +1,11 @@
 # Article 3
 
-Le modèle de procès-verbal est annexé au présent arrêté. L'exploitant pourra en déterminer le format, y inscrire les rubriques dans un ordre et avec des caractères différents et y ajouter toutes autres mentions nécessaires pour en assurer le traitement et la gestion.
+Le succès aux examens spéciaux d'accès aux études universitaires permet de poursuivre des études supérieures avec dispense du baccalauréat dans les domaines suivants :
+
+E.S.E.U. A :
+
+- lettres, arts, sciences humaines et sociales, langues, communication, droit, sciences économiques, administration, gestion ;
+
+E.S.E.U. B :
+
+- sciences, technologie, activités physiques et sportives, médecine, odontologie, pharmacie, secteur paramédical.
