@@ -1,17 +1,19 @@
 # Article 5, annexe
 
-La S.N.C.F. contribue à la mise en oeuvre progressive du droit au transport. Elle assure à cette fin plusieurs catégories de services pour répondre à la diversité des besoins des usagers :
+La SNCF contribue à la mise en oeuvre progressive du droit au transport. Elle assure à cette fin plusieurs catégories de services pour répondre à la diversité des besoins des usagers :
 
-- des services nationaux, dans les conditions fixées à l'article 6 ;
+- des services nationaux ;
 
-- des services internationaux, définis par la S.N.C.F. en coopération avec les réseaux étrangers concernés ;
+- des services internationaux ;
 
-- des services d'intérêt régional comprenant eux-mêmes deux catégories :
+- des services d'intérêt régional définis dans les conditions prévues :
 
-- des services régionaux conventionnés effectués sur les liaisons inscrites aux plans régionaux de transport ;
+- soit à l'article 22 de la loi n° 82-1153 du 30 décembre 1982 d'orientation des transports intérieurs modifiée ;
 
-- les autres services ; ils comprennent notamment, à la date d'entrée en vigueur du présent cahier des charges, l'ensemble des services omnibus non urbains existant à cette date et qui n'ont pas fait l'objet de convention ;
+- soit à l'article 67 de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le développement du territoire modifiée ;
 
-- des dessertes de zones urbanisées dans des conditions définies en concertation avec les autorités territoriales compétentes et pouvant donner lieu à conventionnement.
+- des dessertes de zones urbanisées dans des conditions définies en concertation avec les autorités territoriales compétentes.
+
+Ces services et dessertes peuvent être conventionnés avec des autorités publiques conformément aux dispositions du règlement CE (Conseil) n° 1191-69 du 26 juin 1969 modifié.
 
 Les services visés au présent article peuvent, dans des cas particuliers, être assurés par des moyens de transport routiers.

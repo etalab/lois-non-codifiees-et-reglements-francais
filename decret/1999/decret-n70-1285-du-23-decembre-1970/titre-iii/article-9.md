@@ -1,0 +1,3 @@
+# Article 9
+
+Lorsque le redevable de la taxe déclare, en cours de trimestre, modifier les conditions d'exploitation d'un véhicule ou d'un ensemble de véhicules et que cette modification entraîne l'exigibilité d'un tarif supérieur, le complément de droits est perçu au prorata du temps, exprimé en mois, restant à courir jusqu'à la fin du trimestre, chaque fraction de mois étant comptée pour un mois entier. Si cette modification entraîne l'exigibilité d'un tarif inférieur, l'excédent des droits perçus calculé au prorata du temps, exprimé en mois, restant à courir jusqu'à la fin du trimestre, chaque fraction de mois étant comptée pour un mois entier, est précompté au titre du trimestre suivant et, le cas échéant, remboursé.

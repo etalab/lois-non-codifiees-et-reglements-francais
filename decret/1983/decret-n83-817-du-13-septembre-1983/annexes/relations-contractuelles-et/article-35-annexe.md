@@ -1,10 +1,8 @@
 # Article 35, annexe
 
-Les concours financiers de l'Etat à la S.N.C.F. prévus aux articles 30, 31, 32, 33 ainsi qu'à l'article 67 font l'objet d'une évaluation dans le compte prévisionnel de résultat de la S.N.C.F. de chaque exercice.
+Les contributions financières de l'Etat à la SNCF prévues aux articles 30, 32 et 33 font l'objet d'une évaluation dans le compte prévisionnel de résultat de la SNCF de chaque exercice.
 
-Le versement de la contribution prévue à l'article 67 est effectué annuellement conformément à l'évaluation faite par la S.N.C.F. en application du premier alinéa du présent article, et de valeur premier jour du deuxième semestre civil.
-
-Les versements des contributions prévues aux articles 30 et 31 sont effectués par acomptes trimestriels égaux au quart des évaluations faites par la S.N.C.F. en application du premier alinéa du présent article, et de valeur premier jour du trimestre civil.
+Le versement de la contribution prévue à l'article 30 est effectué par acomptes trimestriels égaux au quart des évaluations faites par la SNCF en application du premier alinéa du présent article, et de valeur premier jour du trimestre civil.
 
 Les versements des contributions prévues aux articles 32, 33 et 34 sont effectués par acomptes mensuels, égaux au douzième des évaluations faites par la S.N.C.F. en application du premier alinéa du présent article, et de valeur premier jour du mois.
 

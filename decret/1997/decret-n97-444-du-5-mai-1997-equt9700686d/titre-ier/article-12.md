@@ -6,4 +6,4 @@ En cohérence avec les programmes d'investissements mentionnés à l'article 4, 
 
 RFF tient la SNCF informée de tous les éléments susceptibles d'influer sur l'établissement du graphique de circulation, sur la gestion opérationnelle des circulations et sur l'entretien du réseau.
 
-Les dispositions du présent article ne font pas obstacle à l'application des conventions prévues à l'article 65 du cahier des charges de la SNCF.
+Les dispositions du présent article ne font pas obstacle à l'application des conventions prévues à l'article 4-1 du cahier des charges de la SNCF.

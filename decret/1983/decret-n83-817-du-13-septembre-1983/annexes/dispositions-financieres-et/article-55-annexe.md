@@ -1,17 +1,7 @@
 # Article 55, annexe
 
-La S.N.C.F. établit, en même temps que son budget, des prévisions analytiques :
+La SNCF établit, en même temps que son état prévisionnel des recettes et des dépenses, des prévisions :
 
-- par secteurs d'activité :
+- pour ses activités de transport et pour la gestion de l'infrastructure, en précisant les prévisions de trafic et d'offre ;
 
-- le trafic voyageurs des services nationaux ;
-
-- le trafic voyageurs des services régionaux (comprenant la banlieue parisienne) ;
-
-- les trafics de marchandises ;
-
-- le trafic de l'armement naval ;
-
-- les services annexes ;
-
-- par gérants budgétaires conformément à ses structures de gestion.
+- par service annexe pour les régimes sociaux (par branche) et le service annexe d'amortissement de la dette.
