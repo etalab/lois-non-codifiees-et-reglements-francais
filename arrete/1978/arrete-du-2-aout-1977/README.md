@@ -5,7 +5,6 @@
 - [Titre V : Prescriptions particulières aux gaz de pétrole liquéfiés livrés en récipients mobiles ou distribués à partir de récipients fixes et aux emplacements et locaux où ces récipients seront entreposés](titre-v)
 - [Titre VI : Contrôles, vérifications et entretien des installations](titre-vi)
 - [Titre VII : Dispositions diverses](titre-vii)
-- [Article 30](article-30.md)
 - [Article 33](article-33.md)
 - [Article 37](article-37.md)
 - [Prescriptions particulières aux gaz de pétrole liquéfiés livrés en récipients mobiles ou distribués à partir de récipients fixes et aux emplacements et locaux où ces récipients seront entreposés](prescriptions-particulieres-aux-gaz)
