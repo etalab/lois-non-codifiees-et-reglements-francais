@@ -1,6 +1,6 @@
 # Article 66
 
-A peine d'irrecevabilité, les contestations sont formées dans le délai d'un mois à compter de la dénonciation de la saisie au débiteur.
+A peine d'irrecevabilité, la contestation est formée dans le délai d'un mois à compter de la dénonciation de la saisie au débiteur. Sous la même sanction, elle est dénoncée le même jour, par lettre recommandée avec demande d'avis de réception, à l'huissier de justice qui a procédé à la saisie.
 
 L'auteur de la contestation en informe le tiers saisi par lettre simple.
 
