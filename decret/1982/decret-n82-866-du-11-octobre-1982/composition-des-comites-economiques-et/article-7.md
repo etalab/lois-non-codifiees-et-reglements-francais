@@ -1,3 +1,0 @@
-# Article 7
-
-Expire de droit le mandat du membre du comité économique et social qui perd la qualité en vertu de laquelle il a été désigné ou qui se trouve privé du droit électoral. La démission d'un membre du comité économique et social est reçue par le président, qui en avise immédiatement le président du conseil régional et le commissaire de la République de région.    " Tout membre du Conseil économique et social régional dont l'absence non motivée à la moitié des séances au moins aura été constatée au cours d'une période d'un an par le bureau du conseil pourra être déclaré, sur proposition du bureau, démissionnaire d'office par le préfet de région. "

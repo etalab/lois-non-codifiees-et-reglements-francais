@@ -1,3 +1,0 @@
-# DEPENSES BUDGETAIRES
-
-- [PAIEMENT DES DEPENSES.](paiement-des-depenses)
