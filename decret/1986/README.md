@@ -186,7 +186,6 @@
 - [Décret n°86-256 du 12 février 1986](decret-n86-256-du-12-fevrier-1986)
 - [Décret n°86-346 du 12 mars 1986](decret-n86-346-du-12-mars-1986)
 - [Décret n°86-350 du 12 mars 1986](decret-n86-350-du-12-mars-1986)
-- [Décret n°86-373 du 12 mars 1986](decret-n86-373-du-12-mars-1986)
 - [Décret n°86-382 du 12 mars 1986](decret-n86-382-du-12-mars-1986)
 - [Décret n°86-398 du 12 mars 1986](decret-n86-398-du-12-mars-1986)
 - [Décret n°86-399 du 12 mars 1986](decret-n86-399-du-12-mars-1986)
