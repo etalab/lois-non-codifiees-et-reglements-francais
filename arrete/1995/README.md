@@ -33,7 +33,6 @@
 - [Arrêté du 2 février 1995 (RESM9500143A)](arrete-du-2-fevrier-1995-resm9500143a)
 - [Arrêté du 2 février 1995 (SANP9500496A)](arrete-du-2-fevrier-1995-sanp9500496a)
 - [Arrêté du 2 janvier 1995 (AGRG9500003A)](arrete-du-2-janvier-1995-agrg9500003a)
-- [Arrêté du 2 janvier 1995 (AGRG9500104A)](arrete-du-2-janvier-1995-agrg9500104a)
 - [Arrêté du 2 janvier 1995 (EQUA9500029A)](arrete-du-2-janvier-1995-equa9500029a)
 - [Arrêté du 2 janvier 1995 (JUSE9540001A)](arrete-du-2-janvier-1995-juse9540001a)
 - [Arrêté du 2 janvier 1995 (JUSG9560001A)](arrete-du-2-janvier-1995-jusg9560001a)

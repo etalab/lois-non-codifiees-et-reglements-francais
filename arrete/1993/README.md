@@ -897,8 +897,6 @@
 - [Arrêté du 25 janvier 1994 (SPSH9303536A)](arrete-du-25-janvier-1994-spsh9303536a)
 - [Arrêté du 25 janvier 1994 (SPSH9303540A)](arrete-du-25-janvier-1994-spsh9303540a)
 - [Arrêté du 25 juin 1971](arrete-du-25-juin-1971)
-- [Arrêté du 25 juin 1993 (ENVE9320247A)](arrete-du-25-juin-1993-enve9320247a)
-- [Arrêté du 25 juin 1993 (ENVE9320248A)](arrete-du-25-juin-1993-enve9320248a)
 - [Arrêté du 25 juin 1993 (EQUS9301009A)](arrete-du-25-juin-1993-equs9301009a)
 - [Arrêté du 25 mars 1993 (ENEG9300196A)](arrete-du-25-mars-1993-eneg9300196a)
 - [Arrêté du 25 mars 1993 (MENZ9304937A)](arrete-du-25-mars-1993-menz9304937a)

@@ -395,7 +395,6 @@
 - [Décret n°94-1105 du 14 décembre 1994 (LOGC9400071D)](decret-n94-1105-du-14-decembre-1994-logc9400071d)
 - [Décret n°94-132 du 14 février 1994 (EQUB9400297D)](decret-n94-132-du-14-fevrier-1994-equb9400297d)
 - [Décret n°94-139 du 14 février 1994 (SPSH9303295D)](decret-n94-139-du-14-fevrier-1994-spsh9303295d)
-- [Décret n°94-216 du 14 mars 1994 (AGRG9302262D)](decret-n94-216-du-14-mars-1994-agrg9302262d)
 - [Décret n°94-293 du 14 avril 1994 (RESK9400534D)](decret-n94-293-du-14-avril-1994-resk9400534d)
 - [Décret n°94-305 du 14 avril 1994 (SPSS9400711D)](decret-n94-305-du-14-avril-1994-spss9400711d)
 - [Décret n°94-306 du 14 avril 1994 (SPSH9400261D)](decret-n94-306-du-14-avril-1994-spsh9400261d)

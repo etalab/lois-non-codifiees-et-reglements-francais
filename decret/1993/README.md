@@ -96,7 +96,6 @@
 - [Décret n°93-178 du 5 février 1993 (BUDF9310009D)](decret-n93-178-du-5-fevrier-1993-budf9310009d)
 - [Décret n°93-179 du 5 février 1993 (PTTR9200513D)](decret-n93-179-du-5-fevrier-1993-pttr9200513d)
 - [Décret n°93-181 du 5 février 1993 (SANP9300052D)](decret-n93-181-du-5-fevrier-1993-sanp9300052d)
-- [Décret n°93-287 du 5 mars 1993 (INDD9300129D)](decret-n93-287-du-5-mars-1993-indd9300129d)
 - [Décret n°93-288 du 5 mars 1993 (MENT9304423D)](decret-n93-288-du-5-mars-1993-ment9304423d)
 - [Décret n°93-290 du 5 mars 1993 (SPSN9300190D)](decret-n93-290-du-5-mars-1993-spsn9300190d)
 - [Décret n°93-30 du 5 janvier 1993 (SPSS9203029D)](decret-n93-30-du-5-janvier-1993-spss9203029d)

@@ -1,3 +1,0 @@
-# Article 17
-
-Le taux de la cotisation affectée à la couverture des frais de gestion afférents à la cotisation de solidarité prévue à l'article L. 622-1 du code de la sécurité sociale et assise sur les revenus professionnels ou l'assiette forfaitaire définis à l'article 1003-12 du code rural est fixé par arrêté préfectoral sur proposition du comité départemental des prestations sociales agricoles, dans la limite de plus ou moins 15 % d'un taux moyen de 2,53 % sur la partie plafonnée des revenus professionnels ou de l'assiette forfaitaire et d'un taux moyen de 0,25 % sur la totalité desdits revenus ou assiette forfaitaire.

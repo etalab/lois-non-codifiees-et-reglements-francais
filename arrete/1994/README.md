@@ -372,7 +372,6 @@
 - [Arrêté du 10 mars 1994 (RESR9400318A)](arrete-du-10-mars-1994-resr9400318a)
 - [Arrêté du 10 novembre 1994 (CPTP9400083A)](arrete-du-10-novembre-1994-cptp9400083a)
 - [Arrêté du 10 novembre 1994 (DEFD9402123A)](arrete-du-10-novembre-1994-defd9402123a)
-- [Arrêté du 10 novembre 1994 (INDD9401307A)](arrete-du-10-novembre-1994-indd9401307a)
 - [Arrêté du 10 novembre 1994 (TEFS9401196A)](arrete-du-10-novembre-1994-tefs9401196a)
 - [Arrêté du 10 octobre 1994 (AGRP9400928A)](arrete-du-10-octobre-1994-agrp9400928a)
 - [Arrêté du 10 octobre 1994 (COMK9408001A)](arrete-du-10-octobre-1994-comk9408001a)
