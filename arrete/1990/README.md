@@ -813,7 +813,6 @@
 - [Arrêté du 25 septembre 1990 (EQUT9000960A)](arrete-du-25-septembre-1990-equt9000960a)
 - [Arrêté du 25 septembre 1990 (EQUT9001316A)](arrete-du-25-septembre-1990-equt9001316a)
 - [Arrêté du 25 septembre 1990 (RESY9000268A)](arrete-du-25-septembre-1990-resy9000268a)
-- [Arrêté du 26 avril 1990 (SPSH9000912A)](arrete-du-26-avril-1990-spsh9000912a)
 - [Arrêté du 26 décembre 1989 (MENN9000142A)](arrete-du-26-decembre-1989-menn9000142a)
 - [Arrêté du 26 décembre 1989 (PTTT8901162A)](arrete-du-26-decembre-1989-pttt8901162a)
 - [Arrêté du 26 décembre 1989 (PTTT8901166A)](arrete-du-26-decembre-1989-pttt8901166a)
