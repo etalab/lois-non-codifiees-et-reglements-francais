@@ -47,6 +47,8 @@
 - [Décret n°80-1013 du 15 décembre 1980](decret-n80-1013-du-15-decembre-1980)
 - [Décret n°80-1014 du 15 décembre 1980](decret-n80-1014-du-15-decembre-1980)
 - [Décret n°81-364 du 15 avril 1981](decret-n81-364-du-15-avril-1981)
+- [Décret n°81-371 du 15 avril 1981](decret-n81-371-du-15-avril-1981)
+- [Décret n°81-373 du 15 avril 1981](decret-n81-373-du-15-avril-1981)
 - [Décret n°81-150 du 16 février 1981](decret-n81-150-du-16-fevrier-1981)
 - [Décret n°81-60 du 16 janvier 1981](decret-n81-60-du-16-janvier-1981)
 - [Décret n°81-254 du 18 mars 1981](decret-n81-254-du-18-mars-1981)
