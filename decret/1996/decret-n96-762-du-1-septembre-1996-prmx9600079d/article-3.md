@@ -1,3 +1,3 @@
 # Article 3
 
-Le présent décret est applicable dans les territoires d'outre-mer et dans la collectivité territoriale de Mayotte.
+Le présent décret est applicable en Nouvelle-Calédonie, en Polynésie française, dans les îles Wallis et Futuna et à Mayotte.

@@ -8,7 +8,7 @@ Les autorités compétentes mentionnées au premier alinéa du II de l'article 3
 
 3° Le ministre de l'intérieur pour les élus des collectivités territoriales de la métropole, pour les présidents de groupements de communes ainsi que pour les dirigeants des sociétés d'économie mixte locales dont les établissements ou sociétés ont leur siège en métropole ;
 
-4° Le ministre chargé de l'outre-mer pour les élus des collectivités d'outre-mer et pour les personnes mentionnées au premier alinéa de l'article 117 de la loi organique du 12 avril 1996 susvisée, ainsi que pour les présidents et dirigeants mentionnés au 3° dont les établissements ou sociétés ont leur siège dans ces collectivités ;
+4° Le ministre chargé de l'outre-mer pour les élus des collectivités d'outre-mer et pour le président et les membres du gouvernement de la Nouvelle-Calédonie et du gouvernement de la Polynésie française, ainsi que pour les présidents et dirigeants mentionnés au 3° dont les établissements ou sociétés ont leur siège dans ces collectivités ;
 
 5° Le ministre chargé du logement pour les dirigeants d'organismes publics d'habitations à loyer modéré ;
 
