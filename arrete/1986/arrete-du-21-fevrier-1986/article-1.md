@@ -1,3 +1,3 @@
 # Article 1
 
-Le taux de la taxe parafiscale sur les ventes en bouteilles destinée au financement du comité interprofessionnel du vin de Champagne pour la campagne 1985-1986 est fixé pour les négociants à 0,26 p. 100 du prix moyen de vente hors taxes des bouteilles commercialisées.
+En application de l'article 4 du décret du 23 décembre 1985 susvisé, la pêche de la truite de mer est interdite, pour l'année 1986, en dehors des temps d'ouverture afférents aux eaux de la première catégorie.

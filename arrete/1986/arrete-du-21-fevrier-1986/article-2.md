@@ -1,3 +1,3 @@
 # Article 2
 
-Pour les récoltants manipulants, ce taux appliqué au prix moyen de vente visé à l'article 1er s'établit à 0,084 F par bouteille.
+Le directeur de la protection de la nature et les   préfets sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.

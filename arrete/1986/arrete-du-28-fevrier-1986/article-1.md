@@ -1,5 +1,41 @@
 # Article 1
 
-La mission de recherche expérimentation élabore et propose, dans le champ des sciences de l'homme et de la société, en liaison avec les directions concernées et avec les crédits du budget civil de la recherche et du développement dont elle dispose, la politique de la recherche dans le domaine des compétences dévolues au ministre chargé des affaires sociales.
+Les taux de rendement actuariel brut des bons à intérêt progressif émis à compter du 1er mars 1986 sont de :
 
-Elle veille à son application et en analyse les résultats. La mission établit les liaisons nécessaires avec le ministre de la recherche et les organismes concernés.
+6 p. 100 pour un bon d'un an d'échéance ;
+
+7 p. 100 pour un bon de deux ans d'échéance ;
+
+8 p. 100 pour un bon de trois ans d'échéance ;
+
+8,5 p. 100 pour un bon de quatre ans d'échéance ;
+
+9 p. 100 pour un bon de cinq ans d'échéance.
+
+Les prix de remboursement sont les suivants :
+
+I - Option A (après prélèvement libératoire de 45 p. 100).
+
+Coupure de 1000 F : 1296,25 F.
+
+Coupure de 5000 F : 6481,25 F.
+
+Coupure de 10000 F : 12962,50 F.
+
+II - Option B (avant impôt).
+
+Coupure de 1000 F : 1538,60 F.
+
+Coupure de 5000 F : 7693 F.
+
+Coupure de 10000 F : 15386 F.
+
+III - Option C (après prélèvement libératoire de 50 p. 100).
+
+Coupure de 1000 F : 1269,30 F.
+
+Coupure de 5000 F : 6346,50 F.
+
+Coupure de 10000 F : 12693 F.
+
+Les bons du Trésor émis à compter du 1er mars 1986 peuvent être remboursés par anticipation conformément aux barèmes F 14 (après prélèvement libératoire de 45 p. 100), F 14 D (avant impôt) et F 14 A (après prélèvement libératoire de 50 p. 100) joints en annexe au présent arrêté.

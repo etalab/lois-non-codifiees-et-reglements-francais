@@ -1,6 +1,7 @@
-# Arrêté du 21 février 1986 concernant le financement du comité interprofessionnel du vin de Champagne.
+# Arrêté du 21 février 1986 relatif aux périodes d'ouverture de la pêche de la truite de mer durant l'année 1986.
 
 - [Article 1](article-1.md)
+- [Article unique](article-unique.md)
 - [Article 2](article-2.md)
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)
