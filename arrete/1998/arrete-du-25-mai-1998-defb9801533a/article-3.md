@@ -10,4 +10,6 @@ Les destinataires des informations enregistrées sont, en fonction de leurs attr
 
 - les personnels des centres d'information et de recrutement de l'armée de terre ;
 
+- les personnels des centres de sélection et d'orientation ;
+
 - les membres des corps d'inspection.
