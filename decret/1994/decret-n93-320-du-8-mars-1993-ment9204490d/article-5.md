@@ -1,9 +1,11 @@
 # Article 5
 
-Les statuts de l'établissement fixent, conformément aux dispositions de l'article 9 du décret du 18 janvier 1985 susvisé, les conditions dans lesquelles sont électeurs et éligibles :
+Pour les élections au conseil d'administration et au conseil des études, les personnels enseignants et assimilés des différentes catégories sont répartis en collèges électoraux sur les bases suivantes :
 
-1° Les personnels enseignants-chercheurs, enseignants et chercheurs affectés à l'Ecole nationale supérieure des arts et industries de Strasbourg ;
+1° Collège des professeurs des universités et personnels assimilés conformément à l'article 6 du décret du 16 janvier 1992 susvisé ;
 
-2° Les chargés d'enseignement ;
+2° Collège des autres enseignants-chercheurs et personnels assimilés dans les conditions prévues au 1° ci-dessus ;
 
-3° Les enseignants-chercheurs et les chercheurs d'autres établissements exerçant à l'école une activité de recherche dans le cadre d'une convention.
+3° Collège des autres personnels enseignants ;
+
+4° Collège des chargés d'enseignement et des autres personnels rattachés à l'établissement pour leurs activités de recherche ne relevant pas des collèges précédents ;.
