@@ -476,6 +476,7 @@
 - [Décret n°94-612 du 20 juillet 1994 (SPSS9401871D)](decret-n94-612-du-20-juillet-1994-spss9401871d)
 - [Décret n°94-641 du 20 juillet 1994 (ECOC9300173D)](decret-n94-641-du-20-juillet-1994-ecoc9300173d)
 - [Décret n°94-643 du 20 juillet 1994 (TEFE9400687D)](decret-n94-643-du-20-juillet-1994-tefe9400687d)
+- [Décret n°94-828 du 20 septembre 1994 (JUSC9420293D)](decret-n94-828-du-20-septembre-1994-jusc9420293d)
 - [Décret n°95-1129 du 20 octobre 1995 (EQUP9500153D)](decret-n95-1129-du-20-octobre-1995-equp9500153d)
 - [Décret n°95-416 du 20 avril 1995 (DEFP9501254D)](decret-n95-416-du-20-avril-1995-defp9501254d)
 - [Décret n°95-417 du 20 avril 1995 (DEFP9501255D)](decret-n95-417-du-20-avril-1995-defp9501255d)
