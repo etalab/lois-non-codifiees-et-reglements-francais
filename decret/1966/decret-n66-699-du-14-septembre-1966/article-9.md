@@ -1,11 +1,13 @@
 # Article 9
 
-Le comité se réunit sur convocation de son président et au moins deux fois par an [*périodicité*]. Il est obligatoirement convoqué dans le mois sur demande du Premier ministre. Le président du comité arrête l'ordre du jour des travaux après consultation des préfets de région. Il fixe la date des séances.
+Le comité se réunit sur convocation de son président et au moins une fois par an *périodicité*.
 
-Le secrétariat du comité est assuré par des fonctionnaires de la préfecture de la région où le comité a son siège et de la mission technique du bassin créée en application du décret susvisé du 21 octobre 1965.
+Il est obligatoirement convoqué dans le mois suivant la demande du ministre chargé de l'environnement. Le président arrête l'ordre du jour des travaux et fixe la date des séances.
 
-Des rapporteurs désignés par le président du comité sont chargés de l'étude et de la présentation des affaires écrites à l'ordre du jour. Ils sont choisis à l'intérieur du comité, soit dans son sein.
+Le secrétariat du comité est assuré par le préfet de la région où le comité a son siège, ou par une personne désignée par lui.
 
-Le directeur de l'agence financière de bassin assiste de droit aux séances du comité avec voix consultative.
+Des rapporteurs désignés par le président sont chargés de l'étude et de la présentation des affaires écrites à l'ordre du jour. Ils sont choisis à l'intérieur ou à l'extérieur du comité.
 
-Toute personne qualifiée peut être appelée à participer aux travaux du comité avec voix consultative [*fonctionnement*].
+Le président du conseil d'administration, le commissaire du Gouvernement et le directeur de l'agence financière de bassin assistent de droit aux séances du comité avec voix consultative.
+
+Toute personne qualifiée peut être appelée par le président à participer aux travaux du comité avec voix consultative.
