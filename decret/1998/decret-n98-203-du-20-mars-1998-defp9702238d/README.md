@@ -2,6 +2,6 @@
 
 - [Chapitre Ier : Dispositions générales.](chapitre-ier)
 - [Chapitre II : Avancement.](chapitre-ii)
-- [Chapitre III : Constitution initiale du corps.](chapitre-iii)
-- [Chapitre IV : Dispositions transitoires et finales.](chapitre-iv)
-- [Article 12](article-12.md)
+- [Chapitre III : Avancement.](chapitre-iii)
+- [Chapitre IV : Détachement.](chapitre-iv)
+- [Chapitre V : Dispositions diverses et finales.](chapitre-v)
