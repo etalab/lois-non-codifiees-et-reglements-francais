@@ -270,7 +270,6 @@
 - [Décret n°86-547 du 14 mars 1986](decret-n86-547-du-14-mars-1986)
 - [Décret n°86-548 du 14 mars 1986](decret-n86-548-du-14-mars-1986)
 - [Décret n°86-549 du 14 mars 1986](decret-n86-549-du-14-mars-1986)
-- [Décret n°86-552 du 14 mars 1986](decret-n86-552-du-14-mars-1986)
 - [Décret n°86-553 du 14 mars 1986](decret-n86-553-du-14-mars-1986)
 - [Décret n°86-555 du 14 mars 1986](decret-n86-555-du-14-mars-1986)
 - [Décret n°86-562 du 14 mars 1986](decret-n86-562-du-14-mars-1986)

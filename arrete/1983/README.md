@@ -13,7 +13,6 @@
 - [Arrêté du 2 juin 1983](arrete-du-2-juin-1983)
 - [Arrêté du 2 novembre 1982](arrete-du-2-novembre-1982)
 - [Arrêté du 2 septembre 1983](arrete-du-2-septembre-1983)
-- [Arrêté du 2 mai 1983](arrete-du-2-mai-1983)
 - [Arrêté du 3 février 1983](arrete-du-3-fevrier-1983)
 - [Arrêté du 3 janvier 1983](arrete-du-3-janvier-1983)
 - [Arrêté du 3 mars 1983](arrete-du-3-mars-1983)
