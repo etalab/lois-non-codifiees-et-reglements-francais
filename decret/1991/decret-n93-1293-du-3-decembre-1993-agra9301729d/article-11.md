@@ -1,43 +1,9 @@
 # Article 11
 
-Les ingénieurs en chef nommés aux emplois de directeur régional et de directeur départemental sont classés dans ces emplois conformément au tableau ci-après :
+I. - Les fonctionnaires nommés à un emploi de directeur régional ou de directeur départemental de l'Office national des forêts sont classés à l'échelon comportant un indice immédiatement supérieur à celui qu'ils détenaient dans leur grade ou emploi précédent ou, lorsque la majoration de traitement qui résulte de leur nomination est inférieure à celle qui correspond à un avancement dans leur grade ou emploi d'origine, à l'échelon au-dessus de celui qui comporte un indice immédiatement supérieur à celui qu'ils détenaient précédemment. Ils conservent, dans la limite du temps nécessaire pour le passage à l'échelon supérieur, l'ancienneté d'échelon qu'ils avaient acquise dans leur grade ou emploi précédent.
 
-SITUATION dans le grade d'ingénieur en chef du génie rural, des eaux et des forêts : 5e échelon
+Si le report de cette ancienneté peut avoir pour effet de classer à un même échelon des fonctionnaires se trouvant à des échelons différents d'un même grade ou emploi, seuls ceux qui sont au plus élevé de ces échelons conservent leur ancienneté d'échelon dans la limite nécessaire pour le passage à l'échelon supérieur.
 
-SITUATION DANS LES EMPLOIS de directeur régional et de directeur départemental de l'Office national des forêts :
+Nul ne peut être nommé directement à l'un des deux derniers échelons de l'emploi de directeur départemental de l'Office national des forêts s'il ne détient un indice brut au moins égal à 1015 depuis deux ans au moins ; les fonctionnaires qui ont moins de deux ans d'ancienneté dans un tel échelon sont nommés au 4e échelon en conservant leur ancienneté d'échelon.
 
-Echelons : 4e
-
-Ancienneté d'échelon : Ancienneté acquise dans la limite de 2 ans.
-
-SITUATION dans le grade d'ingénieur en chef du génie rural, des eaux et des forêts : 4e échelon
-
-SITUATION DANS LES EMPLOIS de directeur régional et de directeur départemental de l'Office national des forêts :
-
-Echelons : 4e
-
-Ancienneté d'échelon : Sans ancienneté.
-
-SITUATION dans le grade d'ingénieur en chef du génie rural, des eaux et des forêts : 3e échelon
-
-SITUATION DANS LES EMPLOIS de directeur régional et de directeur départemental de l'Office national des forêts :
-
-Echelons : 3e
-
-Ancienneté d'échelon : Ancienneté acquise dans la limite de 18 mois.
-
-SITUATION dans le grade d'ingénieur en chef du génie rural, des eaux et des forêts : 2e échelon
-
-SITUATION DANS LES EMPLOIS de directeur régional et de directeur départemental de l'Office national des forêts :
-
-Echelons : 2e
-
-Ancienneté d'échelon : Ancienneté acquise dans la limite de 18 mois.
-
-SITUATION dans le grade d'ingénieur en chef du génie rural, des eaux et des forêts : 1er échelon
-
-SITUATION DANS LES EMPLOIS de directeur régional et de directeur départemental de l'Office national des forêts :
-
-Echelons : 1er
-
-Ancienneté d'échelon : Ancienneté acquise dans la limite de 18 mois.
+II. - Les fonctionnaires qui occupent un emploi de directeur ou de chef de département à la direction générale de l'Office national des forêts ou qui ont atteint dans leur grade ou emploi un échelon classé hors échelle au moment de leur nomination à l'emploi de directeur régional ou de directeur départemental de l'Office national des forêts sont classés à l'échelon de leur nouvel emploi comportant un indice égal ou à défaut immédiatement supérieur à celui dont ils bénéficiaient précédemment. Dans la limite de l'ancienneté exigée pour une promotion à l'échelon supérieur, ils conservent l'ancienneté d'échelon si leur nomination leur procure un gain inférieur à celui que leur aurait procuré un avancement d'échelon dans leur dernier emploi ou, s'ils étaient déjà au dernier échelon, à celui qui résulte de leur dernière promotion.

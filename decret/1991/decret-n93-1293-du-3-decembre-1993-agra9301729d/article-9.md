@@ -1,3 +1,5 @@
 # Article 9
 
-Les emplois de directeur régional et de directeur départemental de l'Office national des forêts comprennent quatre échelons et un échelon exceptionnel.
+L'emploi de directeur régional de l'Office national des forêts comprend quatre échelons.
+
+La durée du temps de service exigé dans chaque échelon pour accéder à l'échelon supérieur est de dix-huit mois pour le 1er échelon et de deux ans pour les 2e et 3e échelons.

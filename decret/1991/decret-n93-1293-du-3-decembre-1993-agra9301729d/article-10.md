@@ -1,5 +1,5 @@
 # Article 10
 
-L'ancienneté requise dans chacun des trois premiers échelons pour accéder à l'échelon supérieur est fixée à dix-huit mois.
+L'emploi de directeur départemental de l'Office national des forêts comprend six échelons. Peuvent seuls accéder au 6e échelon les fonctionnaires nommés dans un emploi de directeur départemental de l'Office national des forêts comportant des responsabilités particulières et figurant sur une liste fixée par arrêté du ministre chargé de l'agriculture sur proposition du directeur général de l'établissement.
 
-Les directeurs régionaux et les directeurs départementaux de l'Office national des forêts comptant au moins deux ans de services au 4e échelon de leur emploi peuvent être promus au choix à l'échelon exceptionnel.
+L'ancienneté requise dans chaque échelon pour accéder à l'échelon supérieur est de dix-huit mois pour les 1er, 2e et 3e échelons et de deux ans pour les 4e et 5e échelons.
