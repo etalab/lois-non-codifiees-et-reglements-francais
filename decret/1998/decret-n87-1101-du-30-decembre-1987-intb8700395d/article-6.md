@@ -14,7 +14,7 @@ Parmi les fonctionnaires mentionnés à l'article 4 du présent décret, seuls l
 
 6. Directeur général adjoint des services des régions.
 
-Toutefois, les fonctionnaires appartenant au corps des ingénieurs hospitaliers ou au cadre d'emplois des ingénieurs territoriaux ne peuvent bénéficier de ces dispositions que s'ils sont titulaires au moins du grade d'ingénieur en chef de 1re catégorie.
+Toutefois, les fonctionnaires appartenant au corps des ingénieurs hospitaliers ou au cadre d'emplois des ingénieurs territoriaux ne peuvent bénéficier de ces dispositions que s'ils sont respectivement titulaires au moins du grade d'ingénieur hospitalier en chef de 1re catégorie ou du grade d'ingénieur en chef.
 
 En outre, les directeurs territoriaux et les fonctionnaires titulaires d'un grade dont l'indice terminal est au moins égal à l'indice brut 985 peuvent être détachés dans un emploi de :
 
