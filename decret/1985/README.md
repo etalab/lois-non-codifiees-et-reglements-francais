@@ -152,7 +152,6 @@
 - [Décret n°85-1251 du 29 novembre 1985](decret-n85-1251-du-29-novembre-1985)
 - [Décret n°85-1253 du 29 novembre 1985](decret-n85-1253-du-29-novembre-1985)
 - [Décret n°85-1265 du 29 novembre 1985](decret-n85-1265-du-29-novembre-1985)
-- [Décret n°85-154 du 29 janvier 1985](decret-n85-154-du-29-janvier-1985)
 - [Décret n°85-396 du 29 mars 1985](decret-n85-396-du-29-mars-1985)
 - [Décret n°85-1054 du 30 septembre 1985](decret-n85-1054-du-30-septembre-1985)
 - [Décret n°85-1455 du 30 décembre 1985](decret-n85-1455-du-30-decembre-1985)
