@@ -2,7 +2,7 @@
 
 Les candidats à une inscription sur la liste de qualification aux fonctions de maître de conférences doivent remplir l'une des conditions suivantes :
 
-1° Etre titulaire, au plus tard à la date d'examen des candidatures par le Conseil national des universités, du doctorat ou de l'habilitation à diriger des recherches.
+1° Etre titulaire, au plus tard à la date limite fixée, par arrêté du ministre chargé de l'enseignement supérieur, pour l'envoi du dossier aux rapporteurs prévus au deuxième alinéa de l'article 24, du doctorat ou de l'habilitation à diriger des recherches.
 
 Le doctorat d'Etat, le doctorat de troisième cycle et le diplôme de docteur ingénieur sont admis en équivalence du doctorat.
 

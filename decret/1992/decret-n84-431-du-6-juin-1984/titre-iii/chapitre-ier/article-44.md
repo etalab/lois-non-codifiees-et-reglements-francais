@@ -2,7 +2,7 @@
 
 Les candidats à une inscription sur la liste de qualification aux fonctions de professeur des universités doivent remplir l'une des conditions suivantes :
 
-1° Etre titulaire, au plus tard à la date d'examen des candidatures par le Conseil national des universités, d'une habilitation à diriger des recherches.
+1° Etre titulaire, au plus tard à la date limite fixée par arrêté du ministre chargé de l'enseignement supérieur, pour l'envoi du dossier aux rapporteurs prévus au deuxième alinéa du I de l'article 45, d'une habilitation à diriger des recherches.
 
 Les titulaires de diplômes universitaires, qualifications et titres de niveau équivalent peuvent être dispensés par le Conseil national des universités siégeant en application des dispositions de l'article 45 de la possession de l'habilitation à diriger des recherches.
 
