@@ -1,8 +1,8 @@
 # Article 7
 
-Les listes électorales sont établies et les électeurs classés en catégories et, le cas échéant, en sous-catégories correspondant à leur activité professionnelle au cours des trois mois précédant chaque renouvellement de la chambre professionnelle.
+Il est établi une liste électorale par section. Sur chaque liste, les électeurs sont, le cas échéant, classés en catégories correspondant à leur activité professionnelle au cours des trois mois précédant le renouvellement de la chambre professionnelle.
 
-Les anciens élus mentionnés au premier alinéa de l'article 6 ayant cessé d'exercer toute activité professionnelle sont électeurs dans la catégorie correspondant à leur dernière activité.
+Les anciens élus mentionnés au premier alinéa de l'article 6 ayant cessé d'exercer toute activité professionnelle sont électeurs dans la section ou, le cas échéant, dans la catégorie correspondant à leur dernière activité.
 
 Nul ne peut être inscrit sur plusieurs listes.
 
@@ -20,4 +20,4 @@ Le tribunal de première instance statue dans les dix jours.
 
 La décision du tribunal n'est susceptible ni d'opposition ni d'appel. Elle peut être déférée à la Cour de cassation dans les dix jours de son affichage et de sa notification. Le pourvoi n'est pas suspensif.
 
-Un arrêté du représentant du Gouvernement constitue un collège électoral pour chacune des catégories ou sous-catégories composant la chambre professionnelle.
+Un arrêté du représentant du Gouvernement constitue un collège électoral pour chacune des sections ou, le cas échéant, pour chacune des catégories créées à l'intérieur d'une section.

@@ -1,7 +1,11 @@
 # Article 4
 
-La chambre professionnelle se compose de vingt membres, répartis entre les quatre catégories suivantes : pêche-agriculture, industrie, commerce, artisanat-services.
+La chambre professionnelle se compose de membres élus, répartis entre trois sections distinctes représentant respectivement les intérêts :
 
-Chacune des catégories compte un nombre pair de représentants, fixé par le représentant du Gouvernement.
+- de l'agriculture et de la pêche ;
 
-Le représentant du Gouvernement peut créer à l'intérieur de ces catégories des sous-catégories et en arrête alors le nombre des membres.
+- de l'artisanat ;
+
+- du commerce, de l'industrie et des services.
+
+Le représentant du Gouvernement fixe par arrêté, d'une part, le nombre des membres de la chambre, qui ne peut être inférieur à 24 ni supérieur à 36, d'autre part, le nombre des membres de chacune des sections, qui doit être pair. Il peut créer, à l'intérieur de chaque section, des catégories dont il fixe le nombre de membres.
