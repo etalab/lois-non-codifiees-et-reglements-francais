@@ -7,3 +7,7 @@ Les épreuves d'admissibilité du concours interne pour le recrutement des attac
 2° Une composition sur un sujet portant sur les institutions politiques et administratives de la France ou sur les questions économiques, sociales et financières (durée : quatre heures ; coefficient 4) ;
 
 3° La rédaction, à l'aide des éléments d'un dossier, d'un rapport faisant appel à l'esprit d'analyse du candidat, à son aptitude à situer le sujet traité dans son contexte général et à ses capacités de composition (durée : quatre heures ; coefficient 4).
+
+" Pour les candidats ayant demandé à subir les épreuves de l'option Sanitaire et sociale, l'épreuve mentionnée au 3° de l'alinéa précédent est remplacée par l'épreuve suivante :
+
+" 3° La rédaction, à l'aide des éléments d'un dossier, d'un rapport faisant appel à l'esprit d'analyse et de synthèse du candidat, à son aptitude à situer un sujet relatif à un problème sanitaire et social dans son contexte général et à ses capacités rédactionnelles (durée : quatre heures ; coefficient 4). "

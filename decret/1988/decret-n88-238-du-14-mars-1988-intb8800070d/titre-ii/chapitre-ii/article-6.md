@@ -47,3 +47,17 @@ p) Institutions sociales et droit social ;
 q) Droit de l'urbanisme
 
 (durée : trois heures ; coefficient 3).
+
+" Pour les candidats ayant demandé à subir les épreuves de l'option Sanitaire et sociale, les épreuves mentionnées aux 3° et 4° de l'alinéa précédent sont remplacées par les épreuves suivantes :
+
+" 3° La rédaction d'une note ayant pour objet de vérifier l'aptitude des candidats à l'analyse d'un dossier soulevant un problème sanitaire et social rencontré par une collectivité territoriale (durée : trois heures ; coefficient 3) ;
+
+" 4° Une composition portant, au choix du candidat, sur l'une des matières suivantes :
+
+" a) Institutions sociales et droit social ;
+
+" b) Institutions sanitaires et droit sanitaire ;
+
+" c) Economie et politiques sanitaires et sociales,
+
+" (durée : trois heures ; coefficient 3). "

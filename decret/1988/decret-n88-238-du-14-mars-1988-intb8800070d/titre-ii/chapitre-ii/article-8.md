@@ -39,3 +39,23 @@ En outre, les candidats au titre du concours externe et du concours interne peuv
 2° Une épreuve facultative d'exercices physiques (coefficient 1).
 
 Les notes obtenues aux épreuves facultatives ne peuvent entrer en ligne de compte en vue de l'admission que pour leur part excédant la note 10 sur 20.
+
+" Pour les candidats ayant demandé à subir les épreuves de l'option Sanitaire et sociale, l'épreuve mentionnée au I (1°) du présent article est remplacée par l'épreuve suivante :
+
+" 1° Une explication orale et un commentaire suivis d'une conversation avec le jury à partir, au choix du candidat, soit d'un texte court, soit d'un sujet de réflexion relatif à des questions sanitaires et sociales (durée : vingt minutes avec préparation de même durée ; coefficient 4).
+
+" Pour les candidats visés à l'alinéa précédent, les épreuves mentionnées au II (1°) et (2°) du présent article sont remplacées par les épreuves suivantes :
+
+" 1° Une explication orale et un commentaire suivis d'une conversation avec le jury à partir, au choix du candidat, soit d'un texte court, soit d'un sujet de réflexion ou d'un document graphique ou visuel relatif à des questions sanitaires et sociales (durée :
+
+vingt minutes avec préparation de même durée ; coefficient 4) ;
+
+" 2° Une interrogation orale portant au choix du candidat sur l'une des matières suivantes :
+
+" a) Institutions sociales et droit social ;
+
+" b) Institutions sanitaires et droit de la santé ;
+
+" c) Economie et politiques sanitaires et sociales
+
+" (durée : quinze minutes avec préparation de même durée ; coefficient 3). "
