@@ -8,4 +8,4 @@ La hiérarchie des sapeurs-pompiers volontaires comprend :
 
 3° Les sous-officiers : sergents et adjudants ;
 
-4° Les officiers : lieutenants, capitaines, commandants, lieutenants-colonels et colonels.
+4° Les officiers : majors, lieutenants, capitaines, commandants, lieutenants-colonels et colonels.

@@ -4,4 +4,4 @@ Lors des périodes d'accroissement temporaire des risques, un engagement saisonn
 
 Les engagements saisonniers n'ouvrent pas droit à la participation aux élections des différentes instances dans lesquelles siègent des représentants des sapeurs-pompiers volontaires, ni à l'avancement de grade.
 
-Un arrêté du ministre de l'intérieur fixe, pour les différentes missions temporaires, les qualifications professionnelles nécessaires.
+Un arrêté du ministre chargé de la sécurité civile fixe, pour les différentes missions temporaires, les qualifications professionnelles nécessaires.

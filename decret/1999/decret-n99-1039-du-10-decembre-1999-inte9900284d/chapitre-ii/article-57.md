@@ -6,4 +6,4 @@ Le conseil de discipline départemental comporte un nombre égal de représentan
 
 Il ne peut comporter de sapeur-pompier volontaire d'un grade inférieur à celui de l'agent dont le cas est examiné.
 
-La composition et les modalités de désignation et de fonctionnement du conseil de discipline départemental sont fixées par arrêté du ministre de l'intérieur.
+La composition et les modalités de désignation et de fonctionnement du conseil de discipline départemental sont fixées par arrêté du ministre chargé de la sécurité civile.
