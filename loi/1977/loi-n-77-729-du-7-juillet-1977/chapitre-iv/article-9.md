@@ -1,14 +1,18 @@
 # Article 9
 
-La déclaration de candidature résulte du dépôt au ministère de l'intérieur d'une liste comprenant autant de candidats qu'il y a de sièges à pourvoir. Sur chacune des listes, l'écart entre le nombre des candidats de chaque sexe ne peut être supérieur à un. Chaque liste est composée alternativement d'un candidat de chaque sexe. ;
+La déclaration de candidature résulte du dépôt au ministère de l'intérieur d'une liste dont le nombre de candidats est fixé conformément au décret visé au III de l'article 4. Le nombre de candidats par circonscription est égal au double du nombre de sièges à pourvoir dans la circonscription. La liste est composée alternativement d'un candidat de chaque sexe.
 
 La déclaration de candidature est faite collectivement pour chaque liste par le candidat tête de liste ou par un mandataire désigné par lui.
 
-Elle comporte la signature de chaque candidat et indique expressément [*mentions obligatoires*].
+Elle comporte la signature de chaque candidat et indique expressément :
 
-1° Le titre de la liste présentée ;
+1° La circonscription dans laquelle la liste se présente ;
 
-2° Les nom, prénoms, sexe, date et lieu de naissance, nationalité, domicile et profession de chacun des candidats.
+2° Le titre de la liste ;
+
+3° Les nom, prénoms, sexe, date et lieu de naissance, nationalité, domicile et profession ;
+
+4° Les nom, prénoms, sexe, date et lieu de naissance, nationalité, domicile et profession de chacun des candidats.
 
 Tout candidat n'ayant pas la nationalité française joint à la déclaration collective de candidature :
 

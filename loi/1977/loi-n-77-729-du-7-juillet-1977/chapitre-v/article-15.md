@@ -1,3 +1,3 @@
 # Article 15
 
-La campagne électorale est ouverte à partir du quinzième jour qui précède celui du scrutin [*date*].
+La campagne électorale est ouverte à partir du deuxième lundi qui précède la date du scrutin.
