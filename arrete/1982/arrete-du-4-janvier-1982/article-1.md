@@ -1,3 +1,3 @@
 # Article 1
 
-Lorsqu'une réclamation contentieuse est admise en totalité ou en partie, la limite prévue par l'article R. 208 (4, 2°) dans laquelle est remboursée au réclamant la rémunération demandée par la caution est, en taux annuel, de 1 p. 100 de l'impôt garanti. Elle est calculée en fonction du temps effectivement écoulé de la constitution à la mainlevée de la caution.
+L'actualisation des taux de la taxe intérieure de consommation sur les produits pétroliers et assimilés, prévue à l'article 25 de la loi de finances susvisée, prend effet le 7 janvier 1982 à zéro heure.

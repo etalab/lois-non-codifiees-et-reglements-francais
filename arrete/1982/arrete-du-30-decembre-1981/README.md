@@ -1,4 +1,4 @@
-# Arrêté du 30 décembre 1981 relatif à l'autorisation de l'émission de bons à dix ans par la Société nationale des chemins de fer français
+# Arrêté du 30 décembre 1981 PORTANT SUR LE RELEVEMENT DES TAUX DE LA TAXE PARAFISCALE PERCUE AU PROFIT DE L'INSTITUT FRANCAIS DU PETROLE.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
