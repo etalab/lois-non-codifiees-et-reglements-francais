@@ -1,0 +1,3 @@
+# Article 4
+
+La rente garantie en cas de décès de l'agent antérieurement à la liquidation de sa retraite supplémentaire est déterminée à partir du nombre de points de retraite supplémentaire acquis par l'agent à la date de son décès. Elle bénéficie à son conjoint et, le cas échéant, à ses anciens conjoints survivants non remariés à la date du décès, ainsi que, s'il ne laisse pas de conjoint ou d'anciens conjoints survivants non remariés, à chacun des enfants à sa charge âgés de moins de vingt-cinq ans et jusqu'à leur vingt-sixième anniversaire et à chacun des enfants à sa charge atteints d'une infirmité permanente empêchant l'exercice d'une activité professionnelle sans limitation de durée.
