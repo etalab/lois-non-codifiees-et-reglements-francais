@@ -684,7 +684,6 @@
 - [Arrêté du 25 janvier 1990 (BUDF9000001A)](arrete-du-25-janvier-1990-budf9000001a)
 - [Arrêté du 25 janvier 1990 (EQUS9000144A)](arrete-du-25-janvier-1990-equs9000144a)
 - [Arrêté du 25 janvier 1990 (PTTP9000093A)](arrete-du-25-janvier-1990-pttp9000093a)
-- [Arrêté du 25 janvier 1990 (SPSP9000192A)](arrete-du-25-janvier-1990-spsp9000192a)
 - [Arrêté du 25 juillet 1990 (EQUA9000474A)](arrete-du-25-juillet-1990-equa9000474a)
 - [Arrêté du 25 juillet 1990 (SPSS9001538A)](arrete-du-25-juillet-1990-spss9001538a)
 - [Arrêté du 25 juillet 1990 (TEFC9003445A)](arrete-du-25-juillet-1990-tefc9003445a)
