@@ -19,6 +19,7 @@
 - [Décret n°67-30 du 9 janvier 1967](decret-n67-30-du-9-janvier-1967)
 - [Décret n°67-776 du 11 septembre 1967](decret-n67-776-du-11-septembre-1967)
 - [Décret n°67-777 du 11 septembre 1967](decret-n67-777-du-11-septembre-1967)
+- [Décret n°67-44 du 12 janvier 1967](decret-n67-44-du-12-janvier-1967)
 - [Décret n°67-568 du 12 juillet 1967](decret-n67-568-du-12-juillet-1967)
 - [Décret n°67-894 du 12 octobre 1967](decret-n67-894-du-12-octobre-1967)
 - [Décret n°67-918 du 12 octobre 1967](decret-n67-918-du-12-octobre-1967)
