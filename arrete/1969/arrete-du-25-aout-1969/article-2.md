@@ -69,3 +69,19 @@ Diplôme d'Etat d'éducateur de jeunes enfants.
 Diplôme d'Etat de psychorééducateur.
 
 Admission dans les centres de formation préparant au diplôme d'Etat d'assistant de service social à compter du 1er janvier 1981.
+
+Diplôme d'Etat relatif aux fonctions d'animation.
+
+Certificat d'aptitude à l'enseignement dans les collèges d'enseignement technique.
+
+Certificat d'aptitude aux fonctions d'éducateur technique spécialisé.
+
+Diplôme d'Etat de pédicure.
+
+Diplôme d'Etat d'ergothérapeute.
+
+Diplôme d'infirmier et d'infirmière du secteur psychiatrique.
+
+Diplôme de conducteur des travaux publics et technicien de bureau d'études.
+
+Diplôme de conducteur technicien des travaux du bâtiment.
