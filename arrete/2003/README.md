@@ -864,7 +864,6 @@
 - [Arrêté du 24 juillet 2003 (AGRA0301526A)](arrete-du-24-juillet-2003-agra0301526a)
 - [Arrêté du 24 juillet 2003 (AGRF0301696A)](arrete-du-24-juillet-2003-agrf0301696a)
 - [Arrêté du 24 juillet 2003 (DEFD0301910A)](arrete-du-24-juillet-2003-defd0301910a)
-- [Arrêté du 24 juillet 2003 (INDI0301765A)](arrete-du-24-juillet-2003-indi0301765a)
 - [Arrêté du 24 juillet 2003 (INTE0300436A)](arrete-du-24-juillet-2003-inte0300436a)
 - [Arrêté du 24 juillet 2003 (JUSE0340095A)](arrete-du-24-juillet-2003-juse0340095a)
 - [Arrêté du 24 juin 1998 (ECOI9800536A)](arrete-du-24-juin-1998-ecoi9800536a)
