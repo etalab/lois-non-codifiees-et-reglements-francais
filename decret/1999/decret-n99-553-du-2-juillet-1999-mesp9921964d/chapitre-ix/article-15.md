@@ -1,0 +1,3 @@
+# Article 15
+
+Pour les médicaments vétérinaires, mentionnés à l'article L. 617-1 du code de la santé publique et autorisés à la date de publication du présent décret, les projets de résumés des caractéristiques des produits, les projets de conditionnements extérieurs et primaires et, s'il y a lieu, les projets de notices, mentionnés à l'article R. 5146-27-1 du même code sont déposés, par le titulaire de l'autorisation de mise sur le marché, auprès de l'Agence française de sécurité sanitaire des aliments, selon des modalités fixées par décision du directeur général de l'agence et au plus tard trois ans après l'entrée en vigueur du présent décret.
