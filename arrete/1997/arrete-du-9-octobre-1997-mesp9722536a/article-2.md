@@ -1,0 +1,3 @@
+# Article 2
+
+Par dérogation à l'article 1er, en application du deuxième alinéa du I de l'article R. 665-80-8 du code de la santé publique, pour la transplantation de coeur, de foie ou de poumon, lorsque les éléments du corps humain utilisés sur le territoire français sont importés d'un Etat dans lequel les analyses de biologie médicale permettant le diagnostic de l'infection par le virus HTLV I ne sont pas exécutées, le médecin qui réalise la greffe peut, dans les conditions prévues audit alinéa, transplanter un coeur, un foie ou un poumon provenant d'un donneur pour lequel les analyses de biologie médicale permettant le diagnostic de l'infection par le virus HTLV I n'ont pu être exécutées.

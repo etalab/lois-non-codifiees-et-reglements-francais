@@ -152,6 +152,7 @@
 - [Décret n°97-327 du 9 avril 1997 (BUDF9700019D)](decret-n97-327-du-9-avril-1997-budf9700019d)
 - [Décret n°97-328 du 9 avril 1997 (MIPP9700054D)](decret-n97-328-du-9-avril-1997-mipp9700054d)
 - [Décret n°97-842 du 9 septembre 1997 (ATEN9750077D)](decret-n97-842-du-9-septembre-1997-aten9750077d)
+- [Décret n°97-928 du 9 octobre 1997 (MESP9722535D)](decret-n97-928-du-9-octobre-1997-mesp9722535d)
 - [Décret n°97-457 du 9 mai 1997 (JUSA9700086D)](decret-n97-457-du-9-mai-1997-jusa9700086d)
 - [Décret n°97-462 du 9 mai 1997 (AGRA9700873D)](decret-n97-462-du-9-mai-1997-agra9700873d)
 - [Décret n°97-463 du 9 mai 1997 (FPPX9700041D)](decret-n97-463-du-9-mai-1997-fppx9700041d)

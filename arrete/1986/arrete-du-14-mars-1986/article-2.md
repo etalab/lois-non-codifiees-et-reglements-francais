@@ -1,3 +1,13 @@
 # Article 2
 
-Le gluconate ferreux faisant l'objet du présent arrêté doit être conforme aux caractéristiques et aux critères de pureté fixés par la pharmacopée française.
+Les affections suivantes peuvent donner droit à un congé de longue maladie dans les conditions prévues aux articles 29 et 30 des décrets susvisés :
+
+- tuberculose ;
+
+- maladies mentales ;
+
+- affections cancéreuses ;
+
+- poliomyélite antérieure aiguë ;
+
+- déficit immunitaire grave et acquis.
