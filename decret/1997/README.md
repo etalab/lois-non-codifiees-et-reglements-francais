@@ -22,6 +22,7 @@
 - [Décret n°97-753 du 2 juillet 1997 (MAEJ9730063D)](decret-n97-753-du-2-juillet-1997-maej9730063d)
 - [Décret n°97-756 du 2 juillet 1997 (MAEJ9730054D)](decret-n97-756-du-2-juillet-1997-maej9730054d)
 - [Décret n°97-816 du 2 septembre 1997 (ATEN9750051D)](decret-n97-816-du-2-septembre-1997-aten9750051d)
+- [Décret n°97-821 du 2 septembre 1997 (MAEJ9730085D)](decret-n97-821-du-2-septembre-1997-maej9730085d)
 - [Décret n°97-458 du 2 mai 1997 (MENU9701148D)](decret-n97-458-du-2-mai-1997-menu9701148d)
 - [Décret n°97-459 du 2 mai 1997 (MENU9701012D)](decret-n97-459-du-2-mai-1997-menu9701012d)
 - [Décret n°97-461 du 2 mai 1997 (AGRB9601211D)](decret-n97-461-du-2-mai-1997-agrb9601211d)

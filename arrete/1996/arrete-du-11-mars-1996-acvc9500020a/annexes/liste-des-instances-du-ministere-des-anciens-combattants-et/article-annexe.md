@@ -62,9 +62,11 @@ Commission consultative pour l'attribution de la mention : "Mort en déportation
 
 Commission consultative pour l'attribution de subvention par le S.E.A.C.V.G., instituée par l'arrêté du 21 avril 1992 ;
 
-Commission chargée d'étudier la liste des personnes décédées en Indochine entre 1939 et 1957 à qui la mention "Mort pour la France" a été attribuée en vue de leur inscription sur le mur du Souvenir du Mémorial des guerres en Indochine, à Fréjus, instituée par l'arrêté du 29 décembre 1992, modifié par l'arrêté du 15 mars 1993.
+Commission chargée d'étudier la liste des personnes décédées en Indochine entre 1939 et 1957 à qui la mention "Mort pour la France" a été attribuée en vue de leur inscription sur le mur du Souvenir du Mémorial des guerres en Indochine, à Fréjus, instituée par l'arrêté du 29 décembre 1992, modifié par l'arrêté du 15 mars 1993 ;
 
-Comité national pour la défense de la mémoire des persécutions racistes et antisémites soumises sous l'autorité de fait "Gouvernement de l'Etat français", institué par l'arrêté du 5 mars 1993.
+Comité national pour la défense de la mémoire des persécutions racistes et antisémites soumises sous l'autorité de fait "Gouvernement de l'Etat français", institué par l'arrêté du 5 mars 1993 ;
+
+Le Haut Conseil de la mémoire combattante institué par le décret n° 97-11 du 9 janvier 1997.
 
 3° Institution nationale des invalides :
 
