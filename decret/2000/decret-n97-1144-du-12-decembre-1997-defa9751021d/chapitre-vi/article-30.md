@@ -1,0 +1,3 @@
+# Article 30
+
+Si l'application des dispositions de l'article 24 du présent décret a pour effet de classer les délégués qui ont été nommés dans la 2e classe du grade de délégué principal entre le 1er août 1995 et la date de publication du présent décret à un échelon doté d'un indice inférieur à celui de l'échelon de l'ancien grade de directeur de classe normale dans lequel ils avaient été classés initialement en application des articles 7 et 9 du décret n° 73-1237 du 28 décembre 1973 modifié, les intéressés conservent à titre personnel le bénéfice de leur indice antérieur jusqu'au jour où ils bénéficient dans leur nouveau grade d'un indice au moins égal.
