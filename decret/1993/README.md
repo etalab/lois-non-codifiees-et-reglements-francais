@@ -488,6 +488,8 @@
 - [Décret n°93-1177 du 18 octobre 1993 (AGRG9301596D)](decret-n93-1177-du-18-octobre-1993-agrg9301596d)
 - [Décret n°93-1179 du 18 octobre 1993 (SPSA9302151D)](decret-n93-1179-du-18-octobre-1993-spsa9302151d)
 - [Décret n°93-1183 du 18 octobre 1993 (MJSK9370172D)](decret-n93-1183-du-18-octobre-1993-mjsk9370172d)
+- [Décret n°93-1244 du 18 novembre 1993 (COMK9300004D)](decret-n93-1244-du-18-novembre-1993-comk9300004d)
+- [Décret n°93-1246 du 18 novembre 1993 (AGRP9301864D)](decret-n93-1246-du-18-novembre-1993-agrp9301864d)
 - [Décret n°93-226 du 18 février 1993 (AGRP9202512D)](decret-n93-226-du-18-fevrier-1993-agrp9202512d)
 - [Décret n°93-361 du 18 mars 1993 (MENK9200494D)](decret-n93-361-du-18-mars-1993-menk9200494d)
 - [Décret n°93-372 du 18 mars 1993 (SANC9300792D)](decret-n93-372-du-18-mars-1993-sanc9300792d)
