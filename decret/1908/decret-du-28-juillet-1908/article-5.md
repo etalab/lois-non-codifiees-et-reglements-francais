@@ -1,3 +1,3 @@
 # Article 5
 
-Il est interdit de détenir en vue de la vente, de mettre en vente ou de vendre des produits désignés sous une appellation ou dans des termes de nature à faire croire que les boissons préparées à l'aide de ces produits peuvent être légalement mélangées à la bière, ou même vendues séparément comme bière.
+Lorsque l'arôme des liqueurs ou sirops est obtenu, même partiellement, par addition de produits chimiques, dans les conditions fixées à l'article 7 ci-dessous, les liqueurs et sirops doivent être désignés sous leur nom spécifique accompagné du qualificatif "artificiel".

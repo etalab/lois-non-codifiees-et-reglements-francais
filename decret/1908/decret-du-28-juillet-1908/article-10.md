@@ -1,3 +1,3 @@
 # Article 10
 
-A titre transitoire, les arrêtés ministériels prévus à l'article 3 ci-dessus pourront être pris sans le double avis préalable de l'académie de médecine et du conseil supérieur d'hygiène publique, sauf revision desdits arrêtés, après avis de ces deux corps, dans l'année qui suivra la publication du présent décret.
+Un délai de six mois, à dater de la publication du présent règlement, est accordé aux intéressés pour se conformer aux prescriptions des articles 3, 4, 5, 6, 8 et 9 en ce qui concerne les inscriptions réglementaires.

@@ -1,9 +1,8 @@
-# Décret du 28 juillet 1908 pris pour l'application de la loi du 1er du 1er août 1905 sur la répression des fraudes en ce qui concerne les bières
+# Décret du 28 juillet 1908 pris pour l'application de la loi du 1er août 1905 sur la répression des fraudes dans la vente des marchandises en ce qui concerne les liqueurs et sirops
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
 - [Article 3](article-3.md)
-- [Article 4](article-4.md)
 - [Article 5](article-5.md)
 - [Article 6](article-6.md)
 - [Article 7](article-7.md)
