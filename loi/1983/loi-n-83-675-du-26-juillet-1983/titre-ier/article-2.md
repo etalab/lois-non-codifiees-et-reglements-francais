@@ -1,0 +1,5 @@
+# Article 2
+
+Pour la détermination de la majorité prévue au 4 de l'article 1er ci-dessus, il n'est pas tenu compte des participations prises par les compagnies financières mentionnées au titre III de la loi n° 82-155 du 11 février 1982 par des banques, des établissements financiers ou des établissements de crédit à statut légal spécial en contrepartie de l'abandon ou de la consolidation financière de créances, ou de l'abandon ou de la mise en jeu de garanties, ni des participations prises par les compagnies, banques et établissements visés ci-dessus dans des sociétés dont l'actif net comptable au dernier bilan précédant la prise de participation ou au premier bilan suivant est inférieur au capital social.
+
+En outre, il n'est pas tenu compte des actions détenues par des organismes ou sociétés, autres que des entreprises nationalisées, ayant pour objet principal de concourir au financement d'entreprises industrielles et commerciales sous forme d'apports en fonds propres, d'avances d'actionnaires ou d'obligations convertibles, ou de faciliter le recours de ces entreprises à l'épargne, l'élargissement de leur capital ou son reclassement.
