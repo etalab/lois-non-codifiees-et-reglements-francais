@@ -560,6 +560,7 @@
 - [Décret du 25 juin 1993 (INDP9330186D)](decret-du-25-juin-1993-indp9330186d)
 - [Décret du 25 mars 1993 (DEFD9301297D)](decret-du-25-mars-1993-defd9301297d)
 - [Décret n°88-425 du 25 avril 1988 (ECOP8800006D)](decret-n88-425-du-25-avril-1988-ecop8800006d)
+- [Décret n°93-1016 du 25 août 1993 (SPSS9302139D)](decret-n93-1016-du-25-aout-1993-spss9302139d)
 - [Décret n°93-113 du 25 janvier 1993 (MENZ9203811D)](decret-n93-113-du-25-janvier-1993-menz9203811d)
 - [Décret n°93-114 du 25 janvier 1993 (JUSD9230037D)](decret-n93-114-du-25-janvier-1993-jusd9230037d)
 - [Décret n°93-245 du 25 février 1993 (ENVN9310005D)](decret-n93-245-du-25-fevrier-1993-envn9310005d)
