@@ -1,6 +1,6 @@
 # Article 6
 
-Toute personne physique ou morale dispose d'un droit de réponse dans le cas où les imputations susceptibles de porter atteinte à son honneur ou à sa réputation auraient été diffusées dans le cadre d'une activité de communication audiovisuelle.
+- I. Toute personne physique ou morale dispose d'un droit de réponse dans le cas où les imputations susceptibles de porter atteinte à son honneur ou à sa réputation auraient été diffusées dans le cadre d'une activité de communication audiovisuelle.
 
 Le demandeur doit préciser les imputations sur lesquelles il souhaite répondre et la teneur de la réponse qu'il se propose d'y faire.
 
@@ -8,7 +8,7 @@ La réponse doit être diffusée dans des conditions techniques équivalentes à
 
 Elle doit également être diffusée de manière que lui soit assurée une audience équivalente à celle du message précité.
 
-La demande d'exercice du droit de réponse doit être présentée dans les huit jours suivant celui de la diffusion du message contenant l'imputation qui la fonde [*délai*]. Toutefois, lorsque, à l'occasion de l'exercice de poursuites pénales, ont été diffusées dans le cadre d'une activité de communication audiovisuelle des imputations susceptibles de porter atteinte à l'honneur ou à la réputation d'une personne physique ou morale, ce délai est réouvert à son profit pour la même durée à compter du jour où la décision de non-lieu dont elle fait l'objet est intervenue ou celle de relaxe ou d'acquittement la mettant expressément ou non hors de cause est devenue définitive.
+La demande d'exercice du droit de réponse doit être présentée dans le délai de trois mois suivant celui de la diffusion du message contenant l'imputation qui la fonde [*délai*]. Toutefois, lorsque, à l'occasion de l'exercice de poursuites pénales, ont été diffusées dans le cadre d'une activité de communication audiovisuelle des imputations susceptibles de porter atteinte à l'honneur ou à la réputation d'une personne physique ou morale, ce délai est réouvert à son profit pour la même durée à compter du jour où la décision de non-lieu dont elle fait l'objet est intervenue ou celle de relaxe ou d'acquittement la mettant expressément ou non hors de cause est devenue définitive.
 
 En cas de refus ou de silence gardé sur la demande par son destinataire dans les huit jours suivant celui de sa réception, le demandeur peut saisir le président du tribunal de grande instance, statuant en matière de référés, par la mise en cause de la personne visée au neuvième alinéa du présent article [*action en justice*].
 
