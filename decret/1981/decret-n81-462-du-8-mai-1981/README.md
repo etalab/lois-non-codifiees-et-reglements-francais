@@ -2,6 +2,6 @@
 
 - [CHAPITRE 1ER : RETRAITE FORFAITAIRE.](chapitre-1er)
 - [CHAPITRE 2 : RETRAITE PROPORTIONNELLE.](chapitre-2)
-- [CHAPITRE 3 : DISPOSITIONS DIVERSES ET TRANSITOIRES.](chapitre-3)
+- [Chapitre 3 : Dispositions communes, diverses et transitoires](chapitre-3)
 - [Article 17](article-17.md)
 - [Annexes](annexes)

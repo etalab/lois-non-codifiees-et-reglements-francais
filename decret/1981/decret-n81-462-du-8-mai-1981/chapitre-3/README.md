@@ -1,4 +1,4 @@
-# CHAPITRE 3 : DISPOSITIONS DIVERSES ET TRANSITOIRES.
+# Chapitre 3 : Dispositions communes, diverses et transitoires
 
 - [Article 8](article-8.md)
 - [Article 8-1](article-8-1.md)
