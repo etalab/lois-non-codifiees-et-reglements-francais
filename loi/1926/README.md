@@ -1,3 +1,3 @@
 # 1926
 
-- [Loi du 31 décembre 1925](loi-du-31-decembre-1925)
+- [Loi du 8 mai 1926](loi-du-8-mai-1926)
