@@ -1,0 +1,3 @@
+# Article 20
+
+En matière comptable et budgétaire, l'établissement Antoine-Koenigswarter est soumis aux dispositions des décrets susvisés du 29 décembre 1962, à l'exception de ses articles 180 à 188, du titre Ier et du chapitre Ier, du titre II du décret n° 2003-1010 du 22 octobre 2003 relatif à la gestion budgétaire, comptable et financière, et aux modalités de financement et de tarification des établissements et services sociaux et médico-sociaux mentionnés au I de l'article L. 312-1 du code de l'action sociale et des familles, et aux établissements mentionnés au 2° de l'article L. 6111-2 du code de la santé publique, à l'exception de l'article 9, du IV de l'article 50 et des articles 65 et 70.
