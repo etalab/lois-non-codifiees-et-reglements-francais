@@ -1,6 +1,6 @@
 # Article 32
 
-Les dispositions du chapitre Ier de l'ordonnance n° 86-1134 du 21 octobre 1986 relative à l'intéressement et à la participation des salariés aux résultats de l'entreprise et à l'actionnariat des salariés sont applicables à l'ensemble des personnels de La Poste et de France Télécom.
+Les dispositions des articles L441-1 à L441-8 du code du travail relatives à l'intéressement des salariés à l'entreprise sont applicables à l'ensemble des personnels de La Poste et de France Télécom.
 
 Les conditions dans lesquelles ces personnels bénéficient d'un intéressement lié au développement de produits ou services sont fixées par le conseil d'administration de chaque exploitant.
 
