@@ -138,6 +138,7 @@
 - [Arrêté du 8 janvier 1993 (INDX9300009A)](arrete-du-8-janvier-1993-indx9300009a)
 - [Arrêté du 8 janvier 1993 (MERE9300009A)](arrete-du-8-janvier-1993-mere9300009a)
 - [Arrêté du 8 janvier 1993 (SPSI9300037A)](arrete-du-8-janvier-1993-spsi9300037a)
+- [Arrêté du 8 juin 1993 (AGRH9301006A)](arrete-du-8-juin-1993-agrh9301006a)
 - [Arrêté du 8 juin 1993 (JUSC9320443A)](arrete-du-8-juin-1993-jusc9320443a)
 - [Arrêté du 8 mars 1993 (BUDF9300014A)](arrete-du-8-mars-1993-budf9300014a)
 - [Arrêté du 8 mars 1993 (BUDF9300016A)](arrete-du-8-mars-1993-budf9300016a)

@@ -4,6 +4,7 @@
 - [Chapitre II : Pari par reports](chapitre-ii)
 - [Chapitre III : Pari jumelé](chapitre-iii)
 - [Chapitre IV : Pari couplé](chapitre-iv)
+- [Chapitre V : Paris 2 sur 4](chapitre-v)
 - [Chapitre VII : Pari tiercé](chapitre-vii)
 - [Chapitre VIII : Pari triplet](chapitre-viii)
 - [Chapitre IX : Pari trio](chapitre-ix)
