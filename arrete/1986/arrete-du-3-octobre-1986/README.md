@@ -1,4 +1,4 @@
-# Arrêté du 3 octobre 1986 relatif à l'émission d'obligations assimilées aux obligations de la première tranche de l'emprunt d'Etat Juillet 1986, de la série Octobre 1986
+# Arrêté du 3 octobre 1986 relatif à la révision des pensions des agents retraités des réseaux de chemins de fer secondaires d'intérêt général, des chemins de fer d'intérêt local et des tramways
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
