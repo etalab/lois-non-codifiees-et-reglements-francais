@@ -109,8 +109,6 @@
 - [Arrêté du 4 octobre 1994 (BUDR9405023A)](arrete-du-4-octobre-1994-budr9405023a)
 - [Arrêté du 4 octobre 1994 (BUDR9405024A)](arrete-du-4-octobre-1994-budr9405024a)
 - [Arrêté du 4 mai 1994 (BUDF9400009A)](arrete-du-4-mai-1994-budf9400009a)
-- [Arrêté du 5 août 1994 (BUDR9405018A)](arrete-du-5-aout-1994-budr9405018a)
-- [Arrêté du 5 août 1994 (BUDR9405019A)](arrete-du-5-aout-1994-budr9405019a)
 - [Arrêté du 5 août 1994 (EQUO9401309A)](arrete-du-5-aout-1994-equo9401309a)
 - [Arrêté du 5 août 1994 (EQUT9400888A)](arrete-du-5-aout-1994-equt9400888a)
 - [Arrêté du 5 août 1994 (MCCK9400345A)](arrete-du-5-aout-1994-mcck9400345a)
