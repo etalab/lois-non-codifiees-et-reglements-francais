@@ -209,7 +209,6 @@
 - [Arrêté du 9 novembre 1987 (AGRG8702042A)](arrete-du-9-novembre-1987-agrg8702042a)
 - [Arrêté du 9 novembre 1987 (ASEM8701668A)](arrete-du-9-novembre-1987-asem8701668a)
 - [Arrêté du 9 novembre 1987 (ECOC8700117A)](arrete-du-9-novembre-1987-ecoc8700117a)
-- [Arrêté du 9 novembre 1987 (PTTC8700816A)](arrete-du-9-novembre-1987-pttc8700816a)
 - [Arrêté du 9 octobre 1986](arrete-du-9-octobre-1986)
 - [Arrêté du 9 octobre 1987 (ASEG8701443A)](arrete-du-9-octobre-1987-aseg8701443a)
 - [Arrêté du 9 octobre 1987 (ASET8703701A)](arrete-du-9-octobre-1987-aset8703701a)
