@@ -1,6 +1,6 @@
 # Article 6
 
-Sont abrogés sauf en tant qu'ils concernent les personnes mentionnées à l'article 1025 du code rural :
+Sont abrogés :
 
 1° Le décret n° 69-134 du 6 février 1969 relatif aux indemnités journalières de l'assurance maladie en cas de cure thermale ;
 
