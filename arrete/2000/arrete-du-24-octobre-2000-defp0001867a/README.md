@@ -7,3 +7,4 @@
 - [Article 4](article-4.md)
 - [Article 5](article-5.md)
 - [Article annexe I](article-annexe-i.md)
+- [Article annexe II](article-annexe-ii.md)

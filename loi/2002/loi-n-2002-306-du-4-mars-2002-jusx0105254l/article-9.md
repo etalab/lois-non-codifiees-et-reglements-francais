@@ -1,0 +1,3 @@
+# Article 9
+
+Sous réserve des décisions juridictionnelles passées en force de chose jugée, les documents d'urbanisme approuvés antérieurement à la publication de la présente loi, établis par les communautés urbaines dans le cadre du deuxième alinéa du I de l'article L. 5215-20-1 du code général des collectivités territoriales, ainsi que tous les actes administratifs pris sur le fondement de ces documents d'urbanisme sont validés, en tant que leur régularité serait contestée sur le fondement que les conseils municipaux consultés n'ont émis un avis que sur les parties de documents portant sur le territoire de leur commune.

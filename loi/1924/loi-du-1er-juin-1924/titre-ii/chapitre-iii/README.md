@@ -1,14 +1,18 @@
 # Chapitre III : Droits sur les immeubles ; livre foncier.
 
 - [Article 36](article-36.md)
+- [Article 36-1](article-36-1.md)
 - [Article 37](article-37.md)
 - [Article 38](article-38.md)
+- [Article 38-2](article-38-2.md)
+- [Article 38-4](article-38-4.md)
 - [Article 39](article-39.md)
 - [Article 40](article-40.md)
 - [Article 41](article-41.md)
 - [Article 42](article-42.md)
 - [Article 43](article-43.md)
 - [Article 44](article-44.md)
+- [Article 44-1](article-44-1.md)
 - [Article 45](article-45.md)
 - [Article 46](article-46.md)
 - [Article 47](article-47.md)

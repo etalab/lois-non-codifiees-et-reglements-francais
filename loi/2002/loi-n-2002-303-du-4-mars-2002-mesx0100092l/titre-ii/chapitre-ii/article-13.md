@@ -1,0 +1,3 @@
+# Article 13
+
+Les personnes qui, à la date de la publication de la présente loi, exercent l'activité d'hébergement de données de santé à caractère personnel déposées auprès d'elles par les personnes qu'elles concernent doivent formuler une demande d'agrément en application de l'article L. 1111-8 du code de la santé publique dans un délai de trois mois à compter de la publication du décret prévu par cet article. Elles peuvent poursuivre cette activité jusqu'à ce qu'il soit statué sur leur demande. Le ministre chargé de la santé peut, pendant cette période, suspendre à tout moment la poursuite de cette activité en cas de violation des dispositions législatives ou réglementaires en vigueur.
