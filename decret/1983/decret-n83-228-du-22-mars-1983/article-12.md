@@ -1,5 +1,3 @@
 # Article 12
 
-Lorsque le concessionnaire est une personne physique, la concession peut, à sa demande, être transférée à son conjoint, ainsi qu'à l'un ou plusieurs de ses descendants et leurs conjoints, s'ils remplissent les conditions prévues aux deuxième et troisième alinéas de l'article 5.
-
-Le commissaire de la République peut s'opposer à cette transmission après avis de la commission des cultures marines si elle est contraire à la politique des structures prévue à l'article 4.
+Sans préjudice des dispositions de l'article 15, le titulaire d'une concession peut demander que lui soit substitué dans ses droits, jusqu'à l'échéance de la concession, un tiers personne physique ou morale, sous réserve de satisfaire aux conditions prescrites par les articles 12-1 à 12-5.
