@@ -9,3 +9,5 @@ Les subventions versées au Centre national de la cinématographie en applicatio
 3° A la formation professionnelle ;
 
 4° A la promotion des programmes et des industries de l'audiovisuel.
+
+Ces subventions sont également destinées à doter les fonds d'aide à la création et à la production de programmes audiovisuels mis en place par les collectivités territoriales. Les conditions de dotation des fonds font l'objet de conventions entre le Centre national de la cinématographie et les collectivités territoriales.
