@@ -1,31 +1,27 @@
 # Article 6
 
-Le jury du brevet d'aptitude est constitué comme suit :
+Le jury de l'examen du brevet d'aptitude à l'emploi de directeur départemental des services d'incendie et de secours est constitué comme suit :
 
-Le directeur de la sécurité civile, président ;
+" Président : le directeur de la sécurité civile ;
 
-Le sous-directeur de l'administration générale de la sécurité civile ;
+" Membres :
 
-Le sous-directeur, adjoint au directeur, chargé des services opérationnels ;
+" - le sous-directeur des services de secours et des sapeurs-pompiers ou son représentant, choisi parmi les administrateurs civils ou sous-préfets en fonctions à la direction de la sécurité civile ;
 
-Le sous-directeur de la prévention et des études ou son représentant ;
+" - le sous-directeur des opérations de secours ou son représentant, choisi parmi les administrateurs civils ou sous-préfets en fonctions à la direction de la sécurité civile ;
 
-Le conseiller juridique de la direction de la sécurité civile ;
+" - le chef de l'inspection de la sécurité civile ou son représentant choisi parmi les inspecteurs de la sécurité civile ;
 
-Le chef de l'état-major de la direction de la sécurité civile ;
+" - le chef du bureau des statuts et des personnels ou son représentant choisi parmi les chefs de bureau de la direction de la sécurité civile ;
 
-Le chef de l'inspection générale de la direction de la sécurité civile ou son représentant ;
+" - le chef du bureau de la formation ou son représentant choisi parmi les chefs de bureau de la direction de la sécurité civile ;
 
-Le chef du bureau des personnels ou son représentant ;
+" - un administrateur civil ou un sous-préfet, désigné par le directeur de la sécurité civile ;
 
-Un sous-préfet ou un administrateur civil désigné par le directeur de la sécurité civile ;
+" - un président de conseil général désigné par l'assemblée des présidents de conseils généraux ;
 
-Un président du conseil général désigné par l'assemblée des présidents de conseils généraux ;
+" - le président de la Fédération nationale des sapeurs-pompiers français ou son représentant ;
 
-Le président de la Fédération nationale des sapeurs-pompiers français ou son représentant ;
+" - quatre officiers supérieurs de sapeurs-pompiers professionnels désignés par le directeur de la sécurité civile, dont deux au moins exerçant les fonctions de directeur départemental des services d'incendie et de secours.
 
-Deux directeurs des services départementaux d'incendie et de secours ;
-
-Deux officiers supérieurs de sapeurs-pompiers professionnels.
-
-En l'absence du directeur de la sécurité civile, la présidence du jury est assurée par le sous-directeur de l'administration générale.
+" En l'absence du directeur de la sécurité civile, la présidence du jury est assurée par le sous-directeur des services de secours et des sapeurs-pompiers. "

@@ -6,9 +6,9 @@ I. - Elections présidentielles, législatives, régionales,  cantonales, munici
 
 L'indemnité forfaitaire complémentaire sera allouée dans la double limite :
 
-1° D'un crédit global obtenu en multipliant la valeur maximum de l'indemnité forfaitaire mensuelle pour travaux supplémentaires des chefs de bureau par le nombre de bénéficiaires ;
+1° D'un crédit global obtenu en multipliant la valeur maximum de l'indemnité forfaitaire mensuelle pour travaux supplémentaires des attachés territoriaux de 2e classe par le nombre de bénéficiaires ;
 
-2° D'une somme individuelle au plus égale au quart de l'indemnité forfaitaire annuelle maximum des chefs de bureau.
+2° D'une somme individuelle au plus égale au quart de l'indemnité forfaitaire annuelle maximum des attachés territoriaux de 2e classe.
 
 Les taux résultant de cette évaluation pourront être doublés lorsque la consultation électorale aura donné lieu à deux tours de scrutin.
 
@@ -16,6 +16,6 @@ II. - Autres consultations électorales.
 
 L'indemnité forfaitaire complémentaire sera allouée dans la double limite :
 
-1° D'un crédit global obtenu en multipliant le trente-sixième de la valeur maximum annuelle de l'indemnité forfaitaire pour travaux supplémentaires des chefs de bureau par le nombre de bénéficiaires ;
+1° D'un crédit global obtenu en multipliant le trente-sixième de la valeur maximum annuelle de l'indemnité forfaitaire pour travaux supplémentaires des attachés territoriaux de 2e classe par le nombre de bénéficiaires ;
 
-2° D'une somme individuelle au plus égale au douzième de l'indemnité forfaitaire annuelle maximum des chefs de bureau.
+2° D'une somme individuelle au plus égale au douzième de l'indemnité forfaitaire annuelle maximum des attachés territoriaux de 2e classe.
