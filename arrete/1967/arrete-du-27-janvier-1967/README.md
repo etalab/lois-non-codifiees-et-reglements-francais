@@ -3,5 +3,6 @@
 - [Titre III : Emission, exposition, mise en vente, introduction sur le marché en France de valeurs mobilières étrangères.](titre-iii)
 - [Titre V : Importation et exportation de l'or.](titre-v)
 - [Titre VI : Comptes rendus.](titre-vi)
+- [Titre VII : Dispositions particulières aux départements et territoires d'outre-mer.](titre-vii)
 - [Titre VIII : Dispositions transitoires.](titre-viii)
 - [Article 17](article-17.md)
