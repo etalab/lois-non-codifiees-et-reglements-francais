@@ -1054,7 +1054,6 @@
 - [Arrêté du 25 septembre 1996 (EQUZ9600051A)](arrete-du-25-septembre-1996-equz9600051a)
 - [Arrêté du 25 septembre 1996 (FCEC9600135A)](arrete-du-25-septembre-1996-fcec9600135a)
 - [Arrêté du 25 septembre 1996 (JUSB9610371A)](arrete-du-25-septembre-1996-jusb9610371a)
-- [Arrêté du 25 mai 1994 (SPSH9401747A)](arrete-du-25-mai-1994-spsh9401747a)
 - [Arrêté du 26 avril 1996 (FCEC9600070A)](arrete-du-26-avril-1996-fcec9600070a)
 - [Arrêté du 26 avril 1996 (FPPA9610077A)](arrete-du-26-avril-1996-fppa9610077a)
 - [Arrêté du 26 avril 1996 (MCCK9600144A)](arrete-du-26-avril-1996-mcck9600144a)
