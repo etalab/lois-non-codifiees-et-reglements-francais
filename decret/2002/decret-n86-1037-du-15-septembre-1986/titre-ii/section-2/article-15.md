@@ -10,13 +10,17 @@ b) Les espèces ou catégories d'animaux auxquelles le produit est destiné ;
 
 c) Le mode d'emploi indiquant la destination précise du produit afin de permettre un usage approprié de celui-ci ;
 
-d) La liste des matières premières pour aliments des animaux ;
+d) La liste de toutes les matières premières entrant dans la composition des aliments composés pour animaux, énumérées sous leur nom spécifique.
 
-Dans le cas des produits et substances destinés à des animaux élevés pour la consommation ou pour leur fourrure, cette liste est constituée par l'énumération des matières premières pour aliments des animaux dans l'ordre décroissant de leur importance pondérale. Les matières premières pour aliments des animaux énumérées à l'annexe I ne peuvent être désignées que sous les dénominations qui y sont prévues et si elles répondent aux caractéristiques correspondantes définies dans cette annexe ;
+Les matières premières pour aliments des animaux, énumérées à l'annexe I, doivent être désignées sous les dénominations qui figurent dans cette annexe lorsqu'elles correspondent aux caractéristiques définies dans cette annexe. Dans le cas contraire, ces déterminations ne peuvent être utilisées.
 
-Dans le cas des produits destinés aux chiens et chats, cette liste est constituée par l'énumération des matières premières pour aliments des animaux, soit en indiquant leur teneur, soit en les mentionnant dans l'ordre décroissant de leur importance pondérale ;
+L'énumération des matières premières pour aliments des animaux est soumise aux règles suivantes :
 
-Dans la mesure où la liste des matières premières pour aliments des animaux est fournie, toutes les matières premières pour aliments des animaux, désignées sous leur nom spécifique, doivent être citées ;
+1. Pour les aliments composés destinés à des animaux autres que les animaux familiers : énumération des matières premières pour aliments des animaux, avec indication, dans leur ordre d'importance décroissant, des pourcentages en poids présents dans l'aliment composé avec une marge de tolérance de 15 % en plus ou en moins par rapport à la valeur déclarée ;
+
+2. Pour les aliments composés destinés aux animaux familiers :
+
+liste des matières premières pour aliments des animaux avec indication de la quantité contenue ou énumération des matières premières par ordre de poids décroissant.
 
 Toutefois, les matières premières pour aliments des animaux peuvent être groupées par catégories définies par arrêté conjoint du ministre chargé de l'agriculture et du ministre chargé de la consommation. Dans ce cas, le nom spécifique de l'ingrédient est remplacé par la mention de la catégorie à laquelle il appartient. Les catégories sont mentionnées dans l'ordre décroissant de leur importance pondérale ;
 
@@ -38,11 +42,11 @@ Cette date est annoncée par la mention : "A utiliser avant...", suivie de l'ind
 
 Dans la mesure où d'autres dispositions réglementaires relatives aux aliments composés requièrent l'indication d'une date de durabilité minimale ou d'une date limite de garantie, seule doit être indiquée la date qui vient à échéance la première ;
 
-j) Le numéro de référence du lot si la date de fabrication n'est pas indiquée ;
+j) Le numéro de référence du lot ;
 
 k) Le cas échéant, le numéro d'enregistrement ou d'agrément du fabricant, attribué en application des articles L. 235-1 et L. 236-1 du code rural ;
 
-La date de durabilité minimale, le poids net ou le volume net et le numéro de référence du lot peuvent être mentionnés en dehors du cadre prévu au présent article. Dans ce cas, les mentions ci-dessus sont remplacées par l'indication de l'endroit où elles figurent ;
+La date de durabilité minimale, le poids net ou le volume net et le numéro de référence du lot et le numéro d'agrément ou d'enregistrement du fabricant tel que défini à l'alinéa précédent peuvent être mentionnés en dehors du cadre prévu au présent article. Dans ce cas, les mentions ci-dessus sont remplacées par l'indication de l'endroit où elles figurent ;
 
 Si l'aliment composé ne comporte pas plus de trois matières premières pour aliments des animaux dont la présence apparaît clairement dans la dénomination, les indications prévues aux b et c ne sont pas requises ;
 

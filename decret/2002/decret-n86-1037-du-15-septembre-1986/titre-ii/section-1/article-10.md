@@ -14,6 +14,6 @@ e) La quantité nette, exprimée en unités de masse pour les produits solides e
 
 f) Le nom ou la raison sociale et l'adresse ou le siège social du responsable des indications d'étiquetage (producteur, conditionneur, importateur, vendeur ou distributeur) ;
 
-g) Pour les matières premières issues d'établissements agréés en application des articles L. 226-9, L. 235-1 et L. 236-1 du code rural, le nom ou la raison sociale et l'adresse ou le siège social du producteur s'il n'est pas responsable des indications d'étiquetage, le numéro de référence du lot ou toute autre indication assurant la traçabilité, et le numéro d'agrément de l'établissement.
+g) Pour les matières premières issues d'établissements agréés en application des articles L. 226-9 et L. 236-1 du code rural, le nom ou la raison sociale et l'adresse ou le siège social du producteur s'il n'est pas responsable des indications d'étiquetage, le numéro de référence du lot ou toute autre indication assurant la traçabilité, et le numéro d'agrément de l'établissement.
 
 Le document d'accompagnement de la marchandise peut être constitué par le bon de livraison ou la facture délivrée à l'acheteur lors de la livraison.
