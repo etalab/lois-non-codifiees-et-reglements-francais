@@ -1,0 +1,3 @@
+# Article 12 bis
+
+Les habilitations données par un notaire sur le fondement des articles 12 et 17 du présent décret demeurent en cas de suppléance, d'interdiction temporaire, de destitution, de suspension provisoire ou de remplacement. Le suppléant, l'administrateur provisoire ou le remplaçant, lorsque le remplacement excède quinze jours, peuvent révoquer ces habilitations à tout moment et peuvent par ailleurs en donner de nouvelles. Lorsque prend fin la suppléance, l'interdiction temporaire ou le remplacement, le notaire titulaire de l'office peut également révoquer les habilitations données par le suppléant, l'administrateur provisoire ou le remplaçant. Les formalités prévues aux troisième et cinquième alinéas du paragraphe III de l'article 12 sont applicables.

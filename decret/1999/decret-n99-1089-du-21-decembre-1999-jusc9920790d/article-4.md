@@ -1,0 +1,3 @@
+# Article 4
+
+Pendant toute la durée du pacte civil de solidarité, chacun des partenaires peut demander au greffier du tribunal d'instance de son lieu de naissance ou, en cas de naissance à l'étranger, au greffier du tribunal de grande instance de Paris de lui délivrer l'attestation d'inscription prévue à l'article 2. Lorsqu'une ou plusieurs déclarations conjointes de modification du pacte ont été enregistrées conformément aux dispositions de l'article 3, cette attestation porte, en outre, constatation de l'inscription de la ou des déclarations modificatives et mention de leur date d'enregistrement au greffe du tribunal d'instance les ayant reçues.

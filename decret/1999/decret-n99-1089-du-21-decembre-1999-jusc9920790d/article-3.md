@@ -1,0 +1,7 @@
+# Article 3
+
+Les partenaires d'un pacte civil de solidarité qui entendent modifier celui-ci en font en personne la déclaration conjointe au greffe du tribunal d'instance ayant reçu leur déclaration initiale, en indiquant la date d'enregistrement de cette dernière, ou adressent au même greffe, par lettre recommandée avec demande d'avis de réception, une déclaration écrite conjointe, datée et signée par eux et comportant la date d'enregistrement de la déclaration initiale. Ils joignent à cette déclaration écrite conjointe, en double original, l'acte portant modification de la convention.
+
+Le greffier qui reçoit la déclaration conjointe de modification du pacte procède à l'inscription de cette déclaration sur le registre où a été inscrite la déclaration initiale. Il vise et date les deux exemplaires originaux de l'acte modificatif et les restitue aux partenaires ou, en cas de déclaration écrite conjointe, les retourne à ces derniers par lettre recommandée avec demande d'avis de réception.
+
+Il avise, sans délai, de cette inscription le greffier du tribunal d'instance du lieu de naissance de chaque partenaire ou, en cas de naissance à l'étranger, le greffier du tribunal de grande instance de Paris, à charge pour le greffier destinataire de l'avis de porter, dans les trois jours de la réception de celui-ci, mention de la déclaration conjointe de modification du pacte sur le registre prévu au cinquième alinéa de l'article 515-3 du code civil.

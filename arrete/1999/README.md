@@ -481,6 +481,7 @@
 - [Arrêté du 20 avril 1999 (EQUV9900531A)](arrete-du-20-avril-1999-equv9900531a)
 - [Arrêté du 20 avril 1999 (MESF9811311A)](arrete-du-20-avril-1999-mesf9811311a)
 - [Arrêté du 20 avril 2001 (MESH0121646A)](arrete-du-20-avril-2001-mesh0121646a)
+- [Arrêté du 20 décembre 1999 (ECOI9900627A)](arrete-du-20-decembre-1999-ecoi9900627a)
 - [Arrêté du 20 février 1999 (ECOT9920008A)](arrete-du-20-fevrier-1999-ecot9920008a)
 - [Arrêté du 20 janvier 1999 (ECOI9920012A)](arrete-du-20-janvier-1999-ecoi9920012a)
 - [Arrêté du 20 janvier 1999 (ECOR9905003A)](arrete-du-20-janvier-1999-ecor9905003a)
