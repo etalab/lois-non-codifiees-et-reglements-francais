@@ -1,4 +1,4 @@
-# Arrêté du 6 septembre 1985 accordant la garantie de l'Etat à un emprunt de la Caisse centrale de crédit coopératif
+# Arrêté du 6 septembre 1985 fixant le modèle d'imprimé utilisé à l'occasion du premier examen médical prénatal "Vous attendez un enfant".
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

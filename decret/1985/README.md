@@ -127,6 +127,7 @@
 - [Décret n°85-238 du 13 février 1985](decret-n85-238-du-13-fevrier-1985)
 - [Décret n°85-337 du 13 mars 1985](decret-n85-337-du-13-mars-1985)
 - [Décret n°85-605 du 13 juin 1985](decret-n85-605-du-13-juin-1985)
+- [Décret n°85-975 du 13 septembre 1985](decret-n85-975-du-13-septembre-1985)
 - [Décret n°85-525 du 13 mai 1985](decret-n85-525-du-13-mai-1985)
 - [Décret n°85-526 du 13 mai 1985](decret-n85-526-du-13-mai-1985)
 - [Décret n°85-209 du 14 février 1985](decret-n85-209-du-14-fevrier-1985)
