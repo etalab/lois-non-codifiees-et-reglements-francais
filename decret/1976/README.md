@@ -21,6 +21,7 @@
 - [Décret n°76-184 du 19 février 1976](decret-n76-184-du-19-fevrier-1976)
 - [Décret n°76-801 du 19 août 1976](decret-n76-801-du-19-aout-1976)
 - [Décret n°76-802 du 19 août 1976](decret-n76-802-du-19-aout-1976)
+- [Décret du 20 juin 1937](decret-du-20-juin-1937)
 - [Décret n°76-562 du 21 juin 1976](decret-n76-562-du-21-juin-1976)
 - [Décret n° 75-1209 du 22 décembre 1975](decret-n-75-1209-du-22-decembre-1975)
 - [Décret n°75-1206 du 22 décembre 1975](decret-n75-1206-du-22-decembre-1975)
