@@ -77,7 +77,6 @@
 - [Arrêté du 4 décembre 1987 (ASEH8701788A)](arrete-du-4-decembre-1987-aseh8701788a)
 - [Arrêté du 4 décembre 1987 (ASET8703852A)](arrete-du-4-decembre-1987-aset8703852a)
 - [Arrêté du 4 décembre 1987 (BUDX8798643A)](arrete-du-4-decembre-1987-budx8798643a)
-- [Arrêté du 4 février 1987 (ECOM8700040A)](arrete-du-4-fevrier-1987-ecom8700040a)
 - [Arrêté du 4 juin 1987](arrete-du-4-juin-1987)
 - [Arrêté du 4 juin 1987 (EQUR8700580A)](arrete-du-4-juin-1987-equr8700580a)
 - [Arrêté du 4 juin 1987 (PTTA8700426A)](arrete-du-4-juin-1987-ptta8700426a)
