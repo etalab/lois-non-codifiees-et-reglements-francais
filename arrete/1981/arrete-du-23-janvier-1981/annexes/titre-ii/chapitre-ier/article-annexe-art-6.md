@@ -1,3 +1,3 @@
 # Article Annexe art. 6
 
-En cas de vacance d'un siège d'administrateur, le conseil d'administration désigne un nouvel administrateur en faisant appel au candidat placé en tête des candidats de sa liste et de sa catégorie non encore titulaires d'un siège. Il est procédé ainsi jusqu'à épuisement complet de la liste. Après épuisement de la liste, il n'est pas procédé au remplacement des administrateurs élus sur cette liste.
+Les fonctions des administrateurs sont gratuites. Toutefois, ceux-ci ont droit au paiement des indemnités et frais de déplacement et de séjour motivés par l'exercice de leur mandat, dans les conditions fixées par arrêté du ministre chargé de la sécurité sociale.

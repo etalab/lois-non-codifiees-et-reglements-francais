@@ -8,3 +8,6 @@
 - [Article Annexe art. 10](article-annexe-art-10.md)
 - [Article Annexe art. 11](article-annexe-art-11.md)
 - [Article Annexe art. 12](article-annexe-art-12.md)
+- [Rôle du bureau](role-du-bureau)
+- [Rôle du conseil d'administration](role-du-conseil-d-administration)
+- [Rôle du président](role-du-president)
