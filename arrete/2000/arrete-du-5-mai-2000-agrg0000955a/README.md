@@ -1,0 +1,18 @@
+# Arrêté du 5 mai 2000 fixant les modalités des contrôles vétérinaires à l'importation des produits en provenance des pays tiers
+
+- [Chapitre Ier : Champ d'application](chapitre-ier)
+- [Chapitre II : Définitions](chapitre-ii)
+- [Chapitre III : Dispositions générales](chapitre-iii)
+- [Chapitre IV : Dispositions particulières](chapitre-iv)
+- [Chapitre V : Transbordement](chapitre-v)
+- [Chapitre VI : Transit pays tiers-pays tiers](chapitre-vi)
+- [Chapitre VII : Entrepôts francs, entrepôts situés dans une zone franche, entrepôts douaniers, avitaillement des navires.](chapitre-vii)
+- [Chapitre VIII : Réimportation](chapitre-viii)
+- [Chapitre IX : Autres destinations douanières](chapitre-ix)
+- [Chapitre X : Suspicions, anomalies](chapitre-x)
+- [Chapitre XI : Dispositions finales](chapitre-xi)
+- [Article Annexe I](article-annexe-i.md)
+- [Article Annexe II](article-annexe-ii.md)
+- [Article Annexe III](article-annexe-iii.md)
+- [Article Annexe IV](article-annexe-iv.md)
+- [Article Annexes](article-annexes.md)

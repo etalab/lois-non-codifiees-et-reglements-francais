@@ -1,0 +1,13 @@
+# Article 10
+
+1. Les produits destinés à un autre Etat membre ou une région ayant obtenu des exigences spécifiques dans le cadre de la réglementation communautaire, ou dont l'importation a été autorisée à des fins particulières, notamment pour la fabrication d'aliments pour animaux, de produits pharmaceutiques ou techniques, sont expédiés du poste d'inspection frontalier vers l'établissement du lieu de destination dans les conditions suivantes :
+
+- les lots sont expédiés entre le poste d'inspection frontalier et l'établissement du lieu de destination sous la surveillance des services vétérinaires dans des véhicules ou conteneurs étanches scellés. Dans le cas particulier des lots importés à des fins particulières, notamment pour la fabrication d'aliments pour animaux, de produits pharmaceutiques ou techniques, les produits sont acheminés du poste d'inspection frontalier jusqu'à l'établissement de destination, sous sujétion douanière selon la procédure T 5 prévue par le règlement (CEE) no 2454/93 susvisé. Le certificat attestant de la réalisation des contrôles vétérinaires prévu à l'article 8 du présent arrêté accompagnant les produits porte référence des documents douaniers ;
+
+- le vétérinaire inspecteur du poste d'inspection frontalier informe l'autorité vétérinaire compétente responsable de l'établissement du lieu de destination de l'envoi, de l'origine et du lieu de destination du produit via le réseau informatisé de liaison ANIMO ;
+
+- les produits sont soumis dans l'établissement du lieu de destination au traitement défini dans la législation vétérinaire pertinente sous le contrôle des services vétérinaires ;
+
+- le vétérinaire inspecteur du lieu de destination, ou, le cas échéant, le vétérinaire inspecteur de l'entrepôt intermédiaire dans le cas de l'importation de produits destinés à des fins particulières, informé sans délai par le responsable de l'établissement de destination ou de l'entrepôt intermédiaire de l'arrivée des produits, notifie dans un délai de quinze jours au vétérinaire inspecteur ou au vétérinaire officiel du poste d'inspection frontalier d'introduction sur le territoire de l'Union européenne l'arrivée à destination du produit. Il procède à des contrôles réguliers pour vérifier, notamment par un contrôle des registres d'entrée, l'arrivée desdits produits dans l'établissement de destination.
+
+2. Dans la mesure où la preuve est apportée au vétérinaire inspecteur du poste d'inspection frontalier que les produits destinés à un établissement visé à l'alinéa 1 du présent article ne sont jamais parvenus à l'établissement de destination, l'intéressé au chargement est passible des peines prévues à l'article 337 du code rural susvisé.
