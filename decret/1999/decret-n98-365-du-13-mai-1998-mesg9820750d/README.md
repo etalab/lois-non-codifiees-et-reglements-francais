@@ -5,3 +5,4 @@
 - [TITRE III : RECRUTEMENT](titre-iii)
 - [TITRE IV : ÉVALUATION ET AVANCEMENT.](titre-iv)
 - [TITRE V : DISPOSITIONS TRANSITOIRES.](titre-v)
+- [Article 24](article-24.md)

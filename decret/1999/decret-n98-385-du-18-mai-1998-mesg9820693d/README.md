@@ -4,3 +4,4 @@
 - [Chapitre II](chapitre-ii)
 - [Chapitre III : Dispositions diverses.](chapitre-iii)
 - [Chapitre IV : Dispositions transitoires et finales.](chapitre-iv)
+- [Article 37](article-37.md)
