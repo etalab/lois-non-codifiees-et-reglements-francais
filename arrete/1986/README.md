@@ -1,5 +1,6 @@
 # 1986
 
+- [Arrêté du 1 février 1986](arrete-du-1-fevrier-1986)
 - [Arrêté du 2 janvier 1986](arrete-du-2-janvier-1986)
 - [Arrêté du 3 février 1986](arrete-du-3-fevrier-1986)
 - [Arrêté du 3 janvier 1986](arrete-du-3-janvier-1986)
