@@ -1,5 +1,3 @@
 # Article 8
 
-S'il estime que la situation du débiteur est de nature à motiver l'ouverture d'une procédure d'apurement collectif du passif, le tribunal peut, le débiteur entendu ou dûment appelé, procéder d'office suivant les dispositions ci-après :
-
-Le tribunal commet un juge pour lui faire rapport sur la situation économique et financière de l'entreprise et sur ses perspectives de redressement [*enquête préliminaire*]. Ce rapport est déposé dans un délai maximum de quinze jours et examiné par le tribunal sous huitaine.
+Lorsque le tribunal, d'office ou sur demande du procureur de la République, le débiteur entendu ou dûment appelé, estime que la situation de celui-ci est de nature à motiver l'ouverture d'une procédure d'apurement collectif du passif, il commet un juge pour lui faire rapport sur la situation économique et financière de l'entreprise et sur ses perspectives de redressement. Le rapport est déposé dans un délai de quinze jours maximum et examiné par le tribunal sous huitaine.

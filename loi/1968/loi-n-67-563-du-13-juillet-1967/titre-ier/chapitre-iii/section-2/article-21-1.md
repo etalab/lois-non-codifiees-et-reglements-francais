@@ -1,0 +1,3 @@
+# Article 21-1
+
+Lorsqu'il estime que la survie de l'entreprise le requiert, le tribunal, sur la demande du procureur de la République ou d'office, peut, par décision motivée signifiée aux parties, subordonner à l'avance l'homologation de tout concordat au remplacement d'un ou plusieurs dirigeants sociaux. Il peut, dans les mêmes conditions, décider que le droit de vote attaché aux parts ou actions détenues par ces dirigeants sera exercé, pour une durée qu'il fixe, par un mandataire de justice désigné à cet effet. Pour l'application des dispositions du présent article, les dirigeants sociaux sont entendus ou dûment appelés.
