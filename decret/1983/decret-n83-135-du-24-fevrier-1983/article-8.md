@@ -1,0 +1,3 @@
+# Article 8
+
+Le ministre d'Etat, ministre des transports, le ministre d'Etat, ministre de la recherche et de l'industrie, le ministre des affaires sociales et de la solidarité nationale, le ministre délégué auprès du Premier ministre, chargé de l'emploi, le garde des Sceaux, ministre de la justice, le ministre de l'agriculture, le ministre délégué aux affaires sociales, chargé du travail, le ministre de l'urbanisme et du logement et le ministre de la mer sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.
