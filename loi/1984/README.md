@@ -23,6 +23,7 @@
 - [Loi n° 84-605 du 13 juillet 1984](loi-n-84-605-du-13-juillet-1984)
 - [Loi n° 84-608 du 16 juillet 1984](loi-n-84-608-du-16-juillet-1984)
 - [Loi n° 84-609 du 16 juillet 1984](loi-n-84-609-du-16-juillet-1984)
+- [Loi n° 84-622 du 17 juillet 1984](loi-n-84-622-du-17-juillet-1984)
 - [Loi n° 84-7 du 3 janvier 1984](loi-n-84-7-du-3-janvier-1984)
 - [Loi n°83-660 du 21 juillet 1983](loi-n83-660-du-21-juillet-1983)
 - [Loi n°84-1 du 2 janvier 1984](loi-n84-1-du-2-janvier-1984)
