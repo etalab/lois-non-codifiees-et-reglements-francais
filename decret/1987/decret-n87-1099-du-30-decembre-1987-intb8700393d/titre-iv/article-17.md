@@ -110,73 +110,57 @@ Minimale : 1 an 6 mois
 
 GRADE ET ECHELON
 
-Attaché de 1re classe :
+Attaché
 
 DUREE :
 
-5e échelon
+12e échelon
 
-4e échelon :
+Maximale :
 
-DUREE :
+Minimale :
+
+11e échelon
 
 Maximale : 3 ans
 
 Minimale : 2 ans 6 mois
 
-3e échelon
+10e échelon
 
 Maximale : 3 ans
 
 Minimale : 2 ans 6 mois
-
-2e échelon
-
-Maximale : 3 ans
-
-Minimale : 2 ans 6 mois
-
-1er échelon
-
-Maximale : 2 ans
-
-Minimale : 1 an 6 mois
-
-GRADE ET ECHELON
-
-Attaché de 2e classe :
-
-DUREE :
 
 9e échelon
 
+Maximale : 3 ans
+
+Minimale : 2 ans 6 mois
+
 8e échelon :
 
-DUREE :
+Maximale : 3 ans
 
-Maximale : 2 ans
-
-Minimale : 1 an 6 mois
+Minimale : 2 an 6 mois
 
 7e échelon
 
-Maximale : 2 ans
+Maximale : 2 ans 6 mois
 
-Minimale : 1 an 6 mois
+Minimale : 2 ans
 
 6e échelon
 
-Maximale : 2 ans
+Maximale : 2 ans 6 mois
 
-Minimale : 1 an 6 mois
+Minimale : 2 ans
 
 5e échelon
 
-Maximale : 2 ans
+Maximale : 2 ans 6 mois
 
-Minimale : 1 an 6 mois
-
-4e échelon
+Minimale : 2 ans    4e échelon
 
 Maximale : 2 ans
 
@@ -190,12 +174,8 @@ Minimale : 1 an 6 mois
 
 2e échelon
 
-Maximale : 1 an 6 mois
-
-Minimale : 1 an
+Maximale : 2 ans Minimale : 1 an 6 mois
 
 1er échelon
 
-Maximale : 1 an 6 mois
-
-Minimale : 1 an 6 mois.
+Maximale : 1 an Minimale : 1 an
