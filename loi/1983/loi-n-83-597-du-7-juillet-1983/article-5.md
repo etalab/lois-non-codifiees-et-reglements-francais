@@ -18,6 +18,8 @@ a) Le bilan prévisionnel actualisé des activités, objet du contrat, faisant a
 
 b) Le plan de trésorerie actualisé faisant apparaître l'échéancier des recettes et dépenses.
 
+c) Un tableau des acquisitions et cessions immobilières réalisées pendant la durée de l'exercice. "
+
 L'ensemble de ces documents est soumis à l'examen de l'assemblée délibérante de la collectivité, du groupement ou de la personne publique contractant qui a le droit de contrôler les renseignements fournis, ses agents accrédités pouvant se faire présenter toutes pièces de comptabilité nécessaires à leur vérification.
 
 III - La résolution d'un contrat de concession résultant de la mise en règlement judiciaire ou en liquidation des biens de la société entraîne le retour gratuit au concédant des biens apportés par celui-ci et inclus dans le domaine de la concession.
