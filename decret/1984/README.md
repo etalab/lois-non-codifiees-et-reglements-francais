@@ -108,6 +108,7 @@
 - [Décret n°84-60 du 17 janvier 1984](decret-n84-60-du-17-janvier-1984)
 - [Décret n°84-38 du 18 janvier 1984](decret-n84-38-du-18-janvier-1984)
 - [Décret n°84-470 du 18 juin 1984](decret-n84-470-du-18-juin-1984)
+- [Décret n°84-473 du 18 juin 1984](decret-n84-473-du-18-juin-1984)
 - [Décret n°83-1111 du 19 décembre 1983](decret-n83-1111-du-19-decembre-1983)
 - [Décret n°83-1256 du 20 décembre 1983](decret-n83-1256-du-20-decembre-1983)
 - [Décret n°84-133 du 20 février 1984](decret-n84-133-du-20-fevrier-1984)

@@ -1,0 +1,3 @@
+# Article 2 quinquies
+
+Les emplois de chef de service, directeur adjoint et sous-directeur des services du Premier ministre sont normalement attribués aux administrateurs civils. Toutefois, ces emplois peuvent être attribués à des magistrats de l'ordre judiciaire, des fonctionnaires appartenant à des corps recrutés par l'Ecole nationale d'administration, autres que le corps des administrateurs civils, ainsi qu'à des fonctionnaires appartenant à des corps de niveau équivalent ou, lorsque le caractère particulier des emplois le justifie, à des fonctionnaires membres de corps techniques supérieurs. La proportion des emplois ainsi attribués ne peut excéder le tiers de l'effectif global des emplois considérés.
