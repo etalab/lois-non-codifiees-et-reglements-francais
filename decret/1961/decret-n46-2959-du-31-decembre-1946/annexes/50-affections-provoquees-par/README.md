@@ -1,0 +1,3 @@
+# 50. AFFECTIONS PROVOQUEES PAR LA PHENYLHYDRAZINE
+
+- [Article TABLEAU 50](article-tableau-50.md)
