@@ -1,3 +1,3 @@
 # Article 39
 
-Les dispositions de l'article 14 de la loi du 30 octobre 1946, fixant les modalités relatives à l'élection des membres des conseils d'administration des organismes de sécurité sociale, sont applicables aux élections des membres des conseils d'administration des organismes de sécurité sociale dans les mines.
+Les dispositions des articles L. 62 à L. 64, L. 66, L. 113, L. 114 et R. 54 du code électoral sont applicables aux élections des membres des conseils d'administration des organismes de sécurité sociale dans les mines.
