@@ -22,7 +22,7 @@ II. - Sont également des investisseurs qualifiés au sens du II de l'article 6 
 
 2° Les sociétés financières d'innovation mentionnées au III de l'article 4 de la loi du 11 juillet 1972 susvisée ;
 
-3° Les sociétés commerciales régies par la loi du 24 juillet 1966 susvisée dont le total du bilan consolidé, ou à défaut le total du bilan social, du dernier exercice, tel que publié et certifié par les commissaires aux comptes, est supérieur à un milliard de francs ;
+3° Les sociétés commerciales régies par la loi du 24 juillet 1966 susvisée dont le total du bilan consolidé, ou à défaut le total du bilan social, du dernier exercice, tel que publié et certifié par les commissaires aux comptes, est supérieur à 150 000 000 euros ;
 
 4° Les établissements publics nationaux à caractère industriel et commercial dont des titres sont négociés sur un marché réglementé d'un Etat partie à l'accord sur l'Espace économique européen ;
 

@@ -6,7 +6,7 @@ Lors de la construction d'un hôtel, et avant le classement définitif de l'éta
 
 - que les travaux soient exécutés, payés et pris en charge dans les conditions prévues à l'article 8 ci-dessus.
 
-Le bénéfice de cet abattement, dont le montant est limité à 4 % du produit brut des jeux et plafonné à 5,6 millions de francs par an et par investissement, et à 40 % de l'investissement, est subordonné :
+Le bénéfice de cet abattement, dont le montant est limité à 4 % du produit brut des jeux et plafonné à 850 000 euros par an et par investissement, et à 40 % de l'investissement, est subordonné :
 
 - au classement provisoire sur le plan de l'hôtel par le ministre chargé du tourisme ;
 
