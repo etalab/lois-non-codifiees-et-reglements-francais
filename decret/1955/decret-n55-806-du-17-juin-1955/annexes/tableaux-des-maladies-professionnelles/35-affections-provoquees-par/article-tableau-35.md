@@ -1,17 +1,29 @@
 # Article Tableau 35
 
-DESIGNATION DES MALADIES
+DÉSIGNATION DES MALADIES
 
-Lésions eczématiformes (cf. tableau 44)
+Lésions eczématiformes (cf. tableau 44°).
 
-DELAI de prise en charge : Cf. tableau 44
+DÉLAI de prise en charge
 
-Conjonctivites
-
-DELAI de prise en charge : 7 jours
-
-Epithéliomas primitifs de la peau: 20 ans.
+Cf. tableau 44°
 
 LISTE INDICATIVE DES PRINCIPAUX TRAVAUX susceptibles de provoquer ces maladies
 
-Emploi, manipulation des goudrons de houille, brais de houille et huiles anthracéniques, notamment dans les entreprises paysagistes et les entreprises de travaux agricoles.
+Emploi, manipulation des goudrons de houille, huiles de houille, brais de houille et suies de combustion du charbon, notamment dans les entreprises paysagistes et les entreprises de travaux agricoles.
+
+DÉSIGNATION DES MALADIES
+
+Dermites photo-toxiques.
+
+DÉLAI de prise en charge
+
+7 jours
+
+DÉSIGNATION DES MALADIES
+
+Conjonctivites photo-toxiques.
+
+DÉLAI de prise en charge
+
+7 jours

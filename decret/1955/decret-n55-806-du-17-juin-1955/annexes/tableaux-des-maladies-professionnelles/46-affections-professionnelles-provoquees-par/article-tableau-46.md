@@ -1,47 +1,55 @@
 # Article Tableau 46
 
-Délai de prise en charge : un an après la cessation de l'exposition au risque acoustique, sous réserve d'une durée d'exposition d'un an, réduite à trente jours en ce qui concerne la mise au point des propulseurs, réacteurs et moteurs à piston.
+DÉSIGNATION DES MALADIES
 
-DESIGNATION DES MALADIES
+Déficit audiométrique bilatéral par lésion cochléaire irréversible. Ce déficit est évalué par une audiométrie effectuée de trois semaines à un an après cessation de l'exposition aux bruits lésionnels, en cabine insonorisée avec un audiomètre calibré.
 
-Déficit audiométrique, bilatéral par lésion cochléaire, irréversible et ne s'aggravant plus après cessation de l'exposition au risque.
+DÉLAI de prise en charge
 
-TRAVAUX SUSCEPTIBLES DE PROVOQUER CES MALADIES
+Un an après la cessation de l'exposition au risque acoustique, sous réserve d'une durée d'exposition d'un an.
 
-Travaux exposant aux bruits provoqués par :
+LISTE LIMITATIVE DES TRAVAUX susceptibles de provoquer ces maladies
 
-Les travaux sur métaux par percussion, abrasion ou projection, tel que ; le fraisage, le martelage, le burinage, le rivetage, le laminage, l'étirage, le tréfilage, le découpage, le sciage, le cisaillage, le tronçonnage, l'ébarbage, le meulage, le polissage, le gougeage par procédé arc-air, la métallisation ;
+Travaux exposant aux bruits provoqués par : les travaux sur métaux par percussion, abrasion ou projection, tels que : le fraisage, le martelage, le burinage, le rivetage, le laminage, l'étirage, le tréfilage, le découpage, le sciage, le cisaillage, le tronçonnage, l'ébarbage, le meulage, le polissage, le gougeage par procédé arc-air, la métallisation.
 
-L'utilisation des marteaux et perforateurs pneumatiques ;
+DÉSIGNATION DES MALADIES
 
-La manutention mécanisée de récipients métalliques ;
+Cette audiométrie doit être tonale et vocale et faire apparaître au minimum sur la meilleure oreille un déficit moyen de 35 décibels, calculé en divisant par 10 la somme des déficits mesurés sur les fréquences 500, 1 000, 2 000 et 4 000 hertz, pondérés respectivement par les coefficients 2, 4, 3 et 1.
 
-Les travaux de verrerie à proximité des fours, machines de fabrication, broyeurs et concasseurs ; l'embouteillage ;
+LISTE LIMITATIVE DES TRAVAUX susceptibles de provoquer ces maladies
 
-Le tissage sur métiers à navette battante ;
+L'utilisation des marteaux et perforateurs pneumatiques.
 
-La mise au point, les essais et l'utilisation de propulseurs, réacteurs, moteurs thermiques ou électriques, groupes électrogènes, groupes hydrauliques, installations de compression ou de détente fonctionnant à des pressions manométriques différentes de la pression atmosphérique ;
+La manutention mécanisée de récipients métalliques.
 
-Les outils mus par les propulseurs ou moteurs ci-dessus mentionnés, et le matériel tracté ;
+Les travaux d'embouteillage.
 
-L'emploi et la destruction de munitions ou explosifs militaires ;
+DÉSIGNATION DES MALADIES
 
-L'emploi d'explosifs en galerie souterraine ;
+Aucune évolution de ce déficit ne peut être prise en compte après l'expiration du délai de prise en charge, sauf en cas de nouvelle exposition au risque.
 
-L'utilisation de pistolets de scellement ;
+LISTE LIMITATIVE DES TRAVAUX susceptibles de provoquer ces maladies
 
-Le broyage, le concassage, le criblage, le sciage et l'usinage de pierres et de produits minéraux ;
+La mise au point, les essais et l'utilisation de propulseurs, réacteurs, moteurs thermiques ou électriques, groupes électrogènes, groupes hydrauliques, installations de compression ou de détente fonctionnant à des pressions manométriques différentes de la pression atmosphérique.
 
-Le broyage, le concassage, le criblage, le compactage, le transport pneumatique, le conditionnement et le séchage par ventilation de matières organiques ;
+Les outils mus par les propulseurs ou moteurs ci-dessus mentionnés, et le matériel tracté.
 
-L'abattage et le tronçonnage des arbres ;
+L'emploi d'explosifs.
 
-L'emploi de machines à bois ;
+L'utilisation de pistolets de scellement.
 
-L'utilisation de bouteurs, décapeurs, chargeuses, moutons-pelles mécaniques ;
+Le broyage, le concassage, le criblage, le sciage et l'usinage de pierres et de produits minéraux.
 
-Le broyage, l'injection et l'usinage des matières plastiques et du caoutchouc ;
+Le broyage, le concassage, le criblage, le compactage, le transport pneumatique, le conditionnement et le séchage par ventilation de matières organiques.
 
-Le travail sur les rotatives pour des activités graphiques ;
+L'abattage et le tronçonnage des arbres, le débroussaillage.
+
+L'emploi de machines à bois.
+
+L'utilisation de bouteurs, décapeurs, chargeuses, moutons-pelles mécaniques.
+
+Le broyage, l'injection et l'usinage des matières plastiques et du caoutchouc.
+
+Le travail sur les rotatives pour des activités graphiques.
 
 L'emploi de matériel vibrant pour l'élaboration de produits en béton.

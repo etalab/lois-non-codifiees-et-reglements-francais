@@ -58,4 +58,4 @@ Travaux de plonge en restauration.
 
 Travaux en galeries souterraines (percement), chantiers du bâtiment, chantiers de terrassement.
 
-Travaux dans les abattoirs au contact des animaux vivants.
+Travaux dans les abattoirs au contact des animaux et de leurs viscères.
