@@ -1,5 +1,7 @@
 # Article 262-1
 
-Deux ou plusieurs sociétés ayant chacune un capital entièrement libéré au moins égal au montant fixé par l'article 71 pour les sociétés faisant publiquement appel à l'épargne ou à la contre-valeur en francs français de ce montant peuvent constituer entre elles une société par actions simplifiée. Les établissements publics de l'Etat qui ont une activité industrielle ou commerciale et ne sont pas soumis aux règles de la comptabilité publique ainsi que les établissements de crédit de droit privé non constitués sous forme de société peuvent être associés d'une société par actions simplifiée.
+Une société par actions simplifiée peut être instituée par une ou plusieurs personnes qui ne supportent les pertes qu'à concurrence de leur apport.
+
+Lorsque cette société ne comporte qu'une seule personne, celle-ci est dénommée "associé unique". L'associé unique exerce les pouvoirs dévolus aux associés lorsque la présente section prévoit une prise de décision collective.
 
 Dans la mesure où elles sont compatibles avec les dispositions particulières prévues par la présente section, les règles concernant les sociétés anonymes, à l'exception des articles 89 à 177-1, sont applicables à la société par actions simplifiée. Pour l'application de ces règles, les attributions du conseil d'administration ou de son président sont exercées par le président de la société par actions simplifiée ou celui ou ceux de ses dirigeants que les statuts désignent à cet effet.
