@@ -43,3 +43,5 @@ Société nationale Elf-Aquitaine.
 Thomson S.A.
 
 Usinor Sacilor.
+
+France Télécom.

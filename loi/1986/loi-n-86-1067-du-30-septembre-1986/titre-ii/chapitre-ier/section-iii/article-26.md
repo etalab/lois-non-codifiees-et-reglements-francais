@@ -1,6 +1,6 @@
 # Article 26
 
-I. - A compter de la date d'entrée en vigueur de la loi n° 2000-719 du 1er août 2000 modifiant la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication, les sociétés prévues à l'article 44 et la chaîne culturelle issue du traité du 2 octobre 1990 deviennent titulaires du droit d'usage des ressources radioélectriques précédemment assignées pour la diffusion de leurs programmes à la société mentionnée à l'article 51.
+I. - Nonobstant toute disposition contraire des autorisations de droits d'usage délivrées avant la date d'entrée en vigueur de la loi n° 2000-719 du 1er août 2000 modifiant la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication, les sociétés nationales de programme et le groupement européen d'intérêt économique dénommé Arte sont titulaires du droit d'usage des ressources radioélectriques assignées pour la diffusion de leurs programmes par voie hertzienne terrestre.
 
 Si les contraintes techniques l'exigent, le Conseil supérieur de l'audiovisuel peut cependant leur retirer tout ou partie de cette ressource à la condition de leur assigner, sans interruption du service, l'usage de la ressource radioélectrique attribuée à des usages de radiodiffusion permettant une réception de qualité équivalente.
 
