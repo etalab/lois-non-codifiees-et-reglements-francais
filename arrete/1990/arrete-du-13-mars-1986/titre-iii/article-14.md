@@ -6,28 +6,28 @@ Le montant maximum en francs des prêts spéciaux consentis pour l'accession à 
 
 " Départements de la Guadeloupe, de la Guyane et de la Martinique :
 
-" A compter du 1er juillet 1992 :
+" A compter du 15 février 1993 :
 
-" 100 441 N + 3 349 (S + Sa/2)
+" 104 258 N + 3 476 (S + Sa/2)
 
 " Département de la Réunion :
 
-" A compter du 1er juillet 1992 :
+" A compter du 15 février 1993 :
 
-" 106 553 N + 3 551 (S + Sa/2)
+" 110 602 N + 3 686 (S + Sa/2)
 
 " b) Secteur diffus :
 
 " Départements de la Guadeloupe, de la Guyane et de la Martinique :
 
-" A compter du 1er juillet 1992 :
+" A compter du 15 février 1993 :
 
-" 90 876 + 2 990 (S + Sa/2)
+" 94 329 + 3 104 (S + Sa/2)
 
 " Département de la Réunion :
 
-" A compter du 1er juillet 1992 :
+" A compter du 15 février 1993 :
 
-" 96 406 + 3 172 (S + Sa/) "
+"100 069 + 3 293 (S + Sa/) "
 
 Dans la limite des plafonds mentionnés ci-dessus, le montant du prêt est au plus égal à 90 p. 100 soit du prix de revient en secteur diffus, soit du prix de vente du logement, diminué du montant éventuel de la subvention complémentaire définie au titre IV du présent arrêté, en secteur groupé.
