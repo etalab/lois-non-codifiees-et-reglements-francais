@@ -12,6 +12,7 @@
 - [Arrêté du 2 juin 2000 (ECOF0000016A)](arrete-du-2-juin-2000-ecof0000016a)
 - [Arrêté du 2 juin 2000 (ECOF0000018A)](arrete-du-2-juin-2000-ecof0000018a)
 - [Arrêté du 2 juin 2000 (INTM0000018A)](arrete-du-2-juin-2000-intm0000018a)
+- [Arrêté du 2 juin 2000 (MESS0021753A)](arrete-du-2-juin-2000-mess0021753a)
 - [Arrêté du 3 avril 2000 (JUSA0000078A)](arrete-du-3-avril-2000-jusa0000078a)
 - [Arrêté du 3 février 2000 (EQUS0000211A)](arrete-du-3-fevrier-2000-equs0000211a)
 - [Arrêté du 3 février 2000 (MENF0000273A)](arrete-du-3-fevrier-2000-menf0000273a)
