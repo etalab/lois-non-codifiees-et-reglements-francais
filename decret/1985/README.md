@@ -88,7 +88,6 @@
 - [Décret n°85-1353 du 17 décembre 1985](decret-n85-1353-du-17-decembre-1985)
 - [Décret n°85-1354 du 17 décembre 1985](decret-n85-1354-du-17-decembre-1985)
 - [Décret n°85-1362 du 17 décembre 1985](decret-n85-1362-du-17-decembre-1985)
-- [Décret n°85-64 du 17 janvier 1985](decret-n85-64-du-17-janvier-1985)
 - [Décret n°85-1341 du 18 décembre 1985](decret-n85-1341-du-18-decembre-1985)
 - [Décret n°85-1348 du 18 décembre 1985](decret-n85-1348-du-18-decembre-1985)
 - [Décret n°85-1355 du 18 décembre 1985](decret-n85-1355-du-18-decembre-1985)
