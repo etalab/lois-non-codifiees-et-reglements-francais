@@ -10,4 +10,4 @@ Les personnes composant les équipages des véhicules spécialement adaptés au 
 
 4. Conducteurs d'ambulance.
 
-Les intéressés doivent être titulaires depuis plus d'un an [*durée*] du permis de conduire catégorie B et posséder une attestation délivrée par le commissaire de la République, après examen médical effectué dans les conditions définies à l'article R. 127 du code de la route [*conditions*].
+Les intéressés doivent être titulaires du permis de conduire de catégorie B et posséder une attestation délivrée par le préfet, après examen médical effectué dans les conditions définies à l'article R. 127 du code de la route. En outre, ils ne doivent pas être au nombre des conducteurs auxquels s'appliquent les dispositions de l'article R. 10-6 du même code.
