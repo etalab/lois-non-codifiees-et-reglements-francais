@@ -1,6 +1,6 @@
 # Article 3
 
-Les cinq membres choisis en raison de leur compétence sont nommés par décret du Président de la République pris sur le rapport du Premier ministre et du ministre chargé des transports.
+Les cinq membres choisis en raison de leur compétence sont nommés par décret pris sur le rapport du ministre chargé des transports.
 
 Parmi ces membres :
 
