@@ -269,6 +269,7 @@
 - [Décret n°89-768 du 19 octobre 1989 (MCCB8900244D)](decret-n89-768-du-19-octobre-1989-mccb8900244d)
 - [Décret n°89-770 du 19 octobre 1989 (MCCB8900246D)](decret-n89-770-du-19-octobre-1989-mccb8900246d)
 - [Décret n°89-771 du 19 octobre 1989 (ACVC8900015D)](decret-n89-771-du-19-octobre-1989-acvc8900015d)
+- [Décret n°89-774 du 19 octobre 1989 (MAEJ8930088D)](decret-n89-774-du-19-octobre-1989-maej8930088d)
 - [Décret n°90-248 du 19 mars 1990 (JUSA8900171D)](decret-n90-248-du-19-mars-1990-jusa8900171d)
 - [Décret du 20 janvier 1989 (DOMX8910039D)](decret-du-20-janvier-1989-domx8910039d)
 - [Décret n°88-836 du 20 juillet 1988 (DOMX8800091D)](decret-n88-836-du-20-juillet-1988-domx8800091d)
