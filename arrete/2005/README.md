@@ -22,6 +22,7 @@
 - [Arrêté du 5 janvier 2005 (ECOT0510517A)](arrete-du-5-janvier-2005-ecot0510517a)
 - [Arrêté du 5 janvier 2005 (EQUA0500093A)](arrete-du-5-janvier-2005-equa0500093a)
 - [Arrêté du 5 janvier 2005 (SANS0520114A)](arrete-du-5-janvier-2005-sans0520114a)
+- [Arrêté du 6 avril 2005 (BUDF0500009A)](arrete-du-6-avril-2005-budf0500009a)
 - [Arrêté du 6 décembre 2004 (JUSC0420929A)](arrete-du-6-decembre-2004-jusc0420929a)
 - [Arrêté du 6 décembre 2005 (EQUP0501982A)](arrete-du-6-decembre-2005-equp0501982a)
 - [Arrêté du 6 janvier 2005 (MENS0402905A)](arrete-du-6-janvier-2005-mens0402905a)
