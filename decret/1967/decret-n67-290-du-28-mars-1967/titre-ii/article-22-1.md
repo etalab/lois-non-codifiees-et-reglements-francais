@@ -1,16 +1,16 @@
 # Article 22-1
 
-L'appel spécial est la situation de l'agent qui, en raison de la situation politique ou des circonstances locales appréciées par le ministre des affaires étrangères, reçoit instruction de quitter le pays étranger où il est affecté ou de ne pas y retourner.
+L'appel spécial est la situation de l'agent qui, en raison de la situation politique ou des circonstances locales appréciées par le ministre ou par le directeur de l'établissement public dont relève l'intéressé, reçoit instruction soit de quitter le pays où il est affecté et de regagner la France métropolitaine, soit, s'il est en congé, de rentrer en France métropolitaine ou d'y demeurer.
 
 En ce cas, les émoluments varient en fonction de la durée d'absence du poste dans cette situation, sans qu'il soit fait application des réductions pour tenir compte de la durée de services continus dans une même localité d'affectation prévues aux articles 5 et 8 ci-dessus, selon les modalités suivantes :
 
-Jusqu'à 30 jours inclus, l'agent perçoit la totalité de ses émoluments à l'étranger, à l'exception de l'indemnité pour frais de représentation qui est réduite de moitié ;
+Jusqu'à 30 jours inclus, l'agent perçoit la totalité de ses émoluments à l'étranger ;
 
-Au-delà du trentième jour et jusqu'au soixantième jour inclus, l'agent perçoit, d'une part, le traitement et, d'autre part, le total formé par les autres éléments de la rémunération, hors indemnité pour frais de représentation, réduit de 40%. L'indemnité pour frais de représentation est réduite des deux tiers ;
+Au-delà du trentième jour et jusqu'au soixantième jour inclus, l'agent perçoit, d'une part, le traitement et, d'autre part, le total formé par les autres éléments de la rémunération, réduit de 40% ;
 
-Au-delà du soixantième jour et jusqu'au quatre-vingt-dixième jour inclus, l'agent perçoit, d'une part, le traitement et, d'autre part, le total formé par les autres éléments de la rémunération, hors indemnité pour frais de représentation, réduit de 65%. L'indemnité pour frais de représentation continue à être réduite des deux tiers ;
+Au-delà du soixantième jour et jusqu'au quatre-vingt-dixième jour inclus, l'agent perçoit, d'une part, le traitement et, d'autre part, le total formé par les autres éléments de la rémunération, réduit de 65% ;
 
-Au-delà du quatre-vingt-dixième jour, l'agent perçoit le traitement et l'indemnité de résidence d'un agent de même indice hiérarchique affecté en France (Paris). Il perçoit également des majorations familiales au coefficient le moins élevé figurant au tableau annexé à l'arrêté prévu à l'article 8. L'indemnité pour frais de représentation est supprimée.
+Au-delà du quatre-vingt-dixième jour, l'agent perçoit le traitement et l'indemnité de résidence d'un agent de même indice hiérarchique affecté en France (Paris). Il perçoit également des majorations familiales au coefficient le moins élevé figurant au tableau annexé à l'arrêté prévu à l'article 8.
 
 Dans cette situation, sont supprimés, dès le premier jour d'absence du poste : L'indemnité d'intérim prévue à l'article 13 ;
 
@@ -22,4 +22,4 @@ Le chef de mission diplomatique rappelé ou retenu en France par décision du Go
 
 Dans la situation d'appel spécial, l'agent est à la disposition de l'administration dont il dépend.
 
-Cette dernière peut mettre fin à cette situation à tout moment.
+L'agent placé en appel spécial est à la disposition de l'administration dont il dépend. Le ministre ou le directeur de l'établissement public dont dépend l'agent décide de mettre fin à l'appel spécial.
