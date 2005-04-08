@@ -46,13 +46,13 @@ Etablissements Piques/Exploitation des établissements Piques, 21440 Poncey-sur-
 
 Eternit, établissement de Vitry, BP 8, 71600 Paray-le-Monial : de 1941 à 1997 ;
 
-Isothelme, 89150 Saint-Valérien : de 1960 à 1996 ;
-
 Patouret Dubois, 89200 Avallon : de 1890 à 1997 ;
 
 Porteret Beaulieu Industries, BP 11, 21310 Mirebeau-sur-Bèze : de 1940 à 1996 ;
 
 SA UFAGA/Flertex, usine de Saint-Florentin, 9, avenue de Genève, 89600 Saint-Florentin : de 1960 à 1996 ;
+
+SERCI Isothelme, 89150 Saint-Valérien, de 1960 à 1996 ;
 
 Wanner/Wanner Isofi, 71100 Chalon-sur-Saône : de 1933 à 1977.
 
@@ -66,7 +66,7 @@ Le Mastic Breton, 35530 Noyal-sur-Vilaine : de 1960 à 1985.
 
 Centre
 
-Ets Preault, puis Regeltex, puis Ancienne Manufacture d'Antony, 14, boulevard d'Anvaux, 36000 Châteauroux : de 1976 à 1993 ;
+Ets Preault, puis Regelflex, puis Ancienne Manufacture d'Antony, 14, boulevard d'Anvaux, 36000 Châteauroux, de 1976 à 1996 ;
 
 Everitube/Everite SA, usine Le Grignon, 37160 Descartes : de 1920 à 1996 ;
 
@@ -326,7 +326,7 @@ Société Soprema étanchéité, 5, impasse Mourre, BP 786, 84036 Avignon Cedex 
 
 Technisol, route du Jaï, 13220 Châteauneuf-lès-Martigues : de 1959 à 1984 ;
 
-Travisol Fos/Sudisdec, 535, chemin du Chaland, BP 189, 13774 Fos-sur-Mer : de 1964 à 1972 ;
+Travisol/SUDISOLEC, 535, chemin du Chaland, BP 189, 13774 Fos-sur-Mer, de 1964 à 1996 ;
 
 Wanner/Wanner Isofi/Wanner Industrie, route de Roquevaire, 13400 Aubagne : de 1933 à 1977 ; - boulevard Henri-Wallon, BP 170, 13130 Berre-l'Etang : de 1933 à 1977 ; - 31, boulevard Magallon, 13015 Marseille, de 1967 à 1993 ; - 1207, avenue du Camp-de-Menthe, 13091 Aix-en-Provence, de 1994 à 1997 ; - 721, route d'Avignon, 84700 Sorgues : de 1987 à 1997.
 
@@ -458,7 +458,7 @@ Bretagne
 
 Ateliers Danno, rue Arthur-Enaud, 22600 Loudéac : de 1973 à 1993 ;
 
-Avel Industries, LD Kermeur, 22530 Mur-de-Bretagne : de 1986 à 1993 ;
+Avel Le Pommelec, Société nouvelle Avel/Avel Industries, Kermeur, 22530 Mur-de-Bretagne, de 1971 à 1993 ;
 
 Chaffauteaux et Maury, Le Légué, 22000 Saint-Brieuc, de 1958 à 1969, puis Les Châtelets, 22440 Ploufragan, de 1969 à 1996 ;
 
@@ -572,8 +572,6 @@ Carel Fouche Industries, 22, place de Seine, tour Neptune, 92086 Paris-La Défen
 
 CEM Alsthom, 55, avenue Jean-Jaurès, 93350 Le Bourget, de sa création à 1984 ;
 
-Chausson thermique, 92600 Asnières-sur-Seine : de 1960 à mai 1987 ;
-
 Comptoir des matériaux acoustiques (CMA), rue d'Aguesseau, 92100 Boulogne-sur-Seine : de 1958 à 1982.
 
 Copris isolation, rue du Val-de-Richebourg, 95360 Montmagny : de 1964 à 1977.
@@ -643,6 +641,8 @@ Trouvay Cauvin, 183 rue Ordener, 75882 Paris Cedex 18 : de 1929 à 1969 ;
 Tunzini SA/Tunzini Nessi entreprises équipement : 90, rue Cardinet, Paris 17e, de 1964 à 1980 ; puis Tunzini Nessi entreprises équipement : 1, place Honoré-de-Balzac, 95100 Argenteuil, de 1980 à 1986 ; puis Tunzini Nessi entreprises équipement/Tunzini SA/Tunzini SNC : 250, route de l'Empereur, 92800 Rueil-Malmaison, de 1986 à 1994 ; puis Tunzini SNC : 18, place de l'Europe, 92500 Rueil-Malmaison, de 1994 à 1996 ;
 
 Valeo, puis Chaussons service, rue des Oziers, ZA du Vert-Galant, 95310 Saint-Ouen-l'Aumône : de 1978 à 1996 ;
+
+Valéo Chausson thermique, 92600 Asnières-sur-Seine, de 1960 à 1989, puis Valéo thermique Moteur, 8, rue Louis-Lormand, 78321 La Verrière, de 1988 à 1996 ;
 
 Vaysse, 385, rue de Vaugirard, 75015 Paris : de 1974 à 1987.
 
@@ -748,13 +748,13 @@ SCREG, avenue de la Gironde, 59640 Petite-Synthe Dunkerque : de 1974 à 1993 ;
 
 Scora, rue de l'Usine, 62192 Caffiers : de 1960 à 1977 ;
 
+SI Energie, ex-Stein Industrie / GEC Alstom, 1 ter, rue Jules-Guesde, 59390 Lys-lez-Lannoy, de 1956 à 2001 ;
+
 société 3M France, Route de Sancourt, 59554 Tilloy-lès-Cambrai : de 1975 à 1987 ;
 
 Société dunkerquoise de matériaux et enrobés (SDME), avenue de la Gironde, 59640 Petite-Synthe Dunkerque : de 1974 à 1993 ;
 
 Société lilloise de matériaux enrobés (SLME), Port fluvial, 59211 Santes : de 1966 à 1988 ;
-
-Stein industrie puis GEC Alstom, 1 ter, rue Jules-Guesde, 59390 lys-lez-lannoy : de 1956 à 1997.
 
 Basse-Normandie
 
@@ -768,7 +768,9 @@ Moulinex, 25, rue du Commerce, 61200 Argentan : de 1962 à 1986 ;
 
 Moulinex, Falaise : de 1965 à 1993 ;
 
-SNIFI/EFI, BP 95, 50440 Beaumont, de 1970 à 1978, SNIFI/EFI, BP 726, ZI de Digueville, 50447 Beaumont, de 1984 à 1994.
+SNIFI/EFI, BP 95, 50440 Beaumont, de 1970 à 1978, SNIFI/EFI, BP 726, ZI de Digueville, 50447 Beaumont, de 1984 à 1994 ;
+
+La Soudure moderne, 17, avenue de l'Industrie, 61200 Argentan, de 1969 à 1996.
 
 Haute-Normandie
 
@@ -780,9 +782,9 @@ Aliand et Robert, 125, Grande-Rue, port Mort, 27940 Aubevoye : de 1955 à 1997 ;
 
 Bitumes spéciaux, zone industrielle, allée Paul-Sabatier, 27940 Aubevoye : de 1945 à 1999.
 
-Carel Fouche Industrie, 27940 Aubevoye, de 1936 à 1989.
+Carel Fouche Industrie, 27940 Aubevoye, de 1936 à 1989 ;
 
-Etablissement Julin, filiale SIM, rue d'Elbeuf, 76100 Rouen, depuis sa création à 1980.
+Etablissement Julin, filiale SIM, rue d'Elbeuf, 76100 Rouen, rue Méridienne, 76100 Rouen, avenue du Général-Leclerc, 76120 Le Grand-Quevilly, depuis sa création à 1980 ;
 
 Evers, rue Jules-Lecesne : de 1951 à 1996 ; rue Marceau, 76600 Le Havre : de 1958 à 1977.
 
@@ -968,13 +970,17 @@ Chassimetal SA, Item SA, Item Centre SA, Ceric Thermic, 2208, route de Grasse, 0
 
 Chaud et Froid, Les Pennes, Mirabeau, 13170 La Gavotte : de 1970 à 1986 ;
 
-CMPEI/CMA/CMF/CMP/Constructions métalliques de Provence/Constructions métalliques d'Arles/Constructions métalliques de France, 1 rue nicolas-Copernic/Chemin des Moines, 13200 Arles : de 1952 à 1987 ;
+CMPEI, CMA, CMF, CMP, Constructions métalliques de Provence, Constructions métalliques d'Arles, Constructions métalliques de France, 1, rue Nicolas-Copernic, chemin des Moines, 13200 Arles, de 1952 à 1994 ;
 
 ELF Atochem, BP 3, 13117 Lavera, de 1970 à 2001 ;
 
 Isotec, 13, quai de Tourette, 13002 Marseille : de 1984 à 1999 ;
 
+Pillard Frères/Pillard et compagnie/EGCI Pillard/entreprise Pillard, 15, rue des Frères-Cubbedu, 13014 Marseille, de 1961 à 1996 ;
+
 Regularc, 2, place Albert-Blanc, 13600 Ceyrette : de 1973 à 1996 ;
+
+SA Maison Faure/Faure SA, route de Marseille, 04100 Manosque, de 1965 à 1996 ;
 
 SARL Méditerranéenne d'isolation et d'ignifugeage : 25, rue Roger-Deschamps, 13730 Saint-Victoret : depuis sa création ;
 
