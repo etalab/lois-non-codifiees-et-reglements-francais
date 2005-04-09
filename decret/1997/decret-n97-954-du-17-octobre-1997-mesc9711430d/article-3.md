@@ -4,9 +4,9 @@ L'aide prévue par la convention est versée pendant une durée de soixante mois
 
 Le montant annuel de l'aide par poste de travail est fixé à 15 924,55 Euros. L'aide est versée mensuellement et par avance à l'organisme employeur.
 
-Lorsque le paiement de l'aide a été suspendu pour une durée supérieure à soixante jours à la suite d'une vacance du poste, les personnes morales qui en sollicitent la reprise en font la demande au préfet qui vérifie les conditions d'exécution de la convention à la date de la demande.
+Lorsque le paiement de l'aide a été suspendu à la suite d'une vacance de poste due à une rupture du contrat de travail, il n'y a pas de reprise du versement de l'aide de l'Etat. Le versement de l'aide de l'Etat peut cependant être repris pour les postes pour lesquels les conventions initiales ont fait l'objet d'un avenant portant la durée de l'aide de l'Etat à une période supérieure à soixante mois. Les personnes morales qui en sollicitent la reprise en font la demande au préfet qui vérifie les conditions d'exécution de la convention à la date de la demande.
 
-Pour chacun des postes, les conventions passées avec les organismes de droit privé à but non lucratif peuvent faire l'objet d'avenants prévoyant, au cours d'une durée additionnelle de trente-six mois, le versement d'une partie de l'aide initiale visée à l'alinéa précédent ainsi que l'octroi d'une prime de consolidation d'un montant maximum de 15 245 Euro.
+Pour chacun des postes, les conventions passées avec les organismes de droit privé à but non lucratif peuvent faire l'objet d'avenants prévoyant, au cours d'une durée additionnelle de trente-six mois, le versement d'une partie de l'aide initiale visée à l'alinéa précédent ainsi que l'octroi d'une prime de consolidation d'un montant maximum de 15 245 euros.
 
 En cas de résiliation des avenants mentionnés à l'alinéa ci-dessus, sont reversées à l'employeur les sommes que celui-ci aurait dû percevoir au titre de l'aide initiale s'il n'avait pas opté pour le versement différé de ladite aide.
 
