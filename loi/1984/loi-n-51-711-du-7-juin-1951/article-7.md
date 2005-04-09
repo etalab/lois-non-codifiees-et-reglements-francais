@@ -1,6 +1,6 @@
 # Article 7
 
-En cas de défaut de réponse après mise en demeure, dans le délai imparti par ladite mise en demeure, ou de réponse sciemment inexacte, les personnes physiques ou morales peuvent être l'objet d'une amende administrative prononcée par le ministre dont relève l'institut national de la statistique et des études économiques sur avis du conseil national de l'information statistique  réuni en comité du contentieux des enquêtes statistiques obligatoires dans les conditions prévues aux articles 13 à 20 du décret n° 84-628 du 17 juillet 1984 modifié relatif au Conseil national de l'information statistique et portant application de la présente loi.
+En cas de défaut de réponse après mise en demeure, dans le délai imparti par ladite mise en demeure, ou de réponse sciemment inexacte, les personnes physiques ou morales peuvent être l'objet d'une amende administrative prononcée par le ministre chargé de l'économie sur avis du conseil national de l'information statistique  réuni en comité du contentieux des enquêtes statistiques obligatoires dans les conditions prévues aux articles 13 à 20 du décret n° 84-628 du 17 juillet 1984 modifié relatif au Conseil national de l'information statistique et portant application de la présente loi.
 
 L'avis du comité est communiqué au ministre, accompagné, le cas échéant, des observations de l'intéressé.
 

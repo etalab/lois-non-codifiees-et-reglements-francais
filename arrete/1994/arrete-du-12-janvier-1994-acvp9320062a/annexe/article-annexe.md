@@ -6,7 +6,7 @@ Etat ou territoire concerné : Afghanistan Pays et eaux avoisinants
 
 Début de période : 3 octobre 2001
 
-Fin de période : 2 octobre 2003
+Fin de période : 2 octobre 2005
 
 Cambodge :
 
@@ -42,11 +42,11 @@ Fin de période : 18 mars 2000
 
 Côte d'ivoire :
 
-Etat ou Territoire concerné : Côte d'ivoire Et ses approches maritimes, opération LICORNE
+Etat ou Territoire concerné : Côte d'ivoire Et ses approches maritimes, opération LICORNE et opération ONUCI
 
 Début de période : 19 septembre 2002
 
-Fin de période : 18 septembre 2004
+Fin de période : 18 septembre 2006
 
 Gabon :
 
@@ -162,7 +162,7 @@ Etat ou territoire concerné : Tchad
 
 Début de période : 15 mars 1969
 
-Fin de période : 31 décembre 2003
+Fin de période : 31 décembre 2005
 
 Timor.
 
@@ -178,7 +178,7 @@ Etat ou Territoire concerné : Pays limitrophes et eaux avoisinantes
 
 Début de période : 1er janvier 1992
 
-Fin de période : 31 décembre 2003
+Fin de période : 31 décembre 2005
 
 Zaïre (ex-Congo belge).
 
