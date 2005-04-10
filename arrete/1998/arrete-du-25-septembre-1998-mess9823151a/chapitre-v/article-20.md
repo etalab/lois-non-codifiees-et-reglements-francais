@@ -1,6 +1,10 @@
 # Article 20
 
-La commission retient pour l'inscription les candidats qui remplissent les conditions fixées au présent arrêté et qui présentent les garanties de compétence suffisantes pour l'accès aux emplois des classes demandées.
+La commission :
+
+- statue sur la recevabilité des candidatures par application stricte des conditions fixées par le présent arrêté ;
+
+- retient pour l'inscription les candidats qui remplissent les conditions requises et qui présentent les garanties de compétence suffisantes pour l'accès aux emplois des classes demandées.
 
 Ces garanties de compétence sont appréciées par la commission au vu des divers éléments contenus dans les dossiers et en fonction des avis qu'elle juge opportun de recueillir, notamment auprès du président ou du directeur de l'organisme employeur du candidat, du directeur régional des affaires sanitaires et sociales compétent et, éventuellement, de l'inspection générale des affaires sociales.
 

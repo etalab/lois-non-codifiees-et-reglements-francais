@@ -14,7 +14,7 @@ Pour pouvoir être inscrit sur la liste d'aptitude, le candidat doit justifier a
 
 6° Pour la CAVIMAC : cadre de niveau III. catégorie B.
 
-Par dérogation aux dispositions du 5° de l'alinéa qui précède, peut également être inscrit sur la liste d'aptitude le cadre, comptable niveau 2, en fonction dans un organisme de sécurité sociale dans les mines, sous réserve qu'il ait obtenu le certificat d'études spécialisées de comptabilité et d'analyse financière délivré par le CNESSS et qu'il assure, depuis quatre ans au moins, l'intérim d'un emploi d'agent comptable ou d'agent comptable adjoint.
+Par dérogation aux dispositions du 5° de l'alinéa qui précède, peut également être inscrit sur la liste d'aptitude le cadre, comptable niveau 2, en fonction dans un organisme de sécurité sociale dans les mines, sous réserve qu'il ait obtenu le certificat d'études spécialisées de comptabilité et d'analyse financière délivré par l'EN3S et qu'il assure, depuis quatre ans au moins, l'intérim d'un emploi d'agent comptable ou d'agent comptable adjoint.
 
 La durée d'exercice prévue au premier alinéa ne peut être inférieure à celles fixées ci-après selon la classe de la liste à laquelle le candidat postule :
 
@@ -26,4 +26,4 @@ La durée d'exercice prévue au premier alinéa ne peut être inférieure à cel
 
 4° Classe IF 2 : neuf ans.
 
-La scolarité passée au Centre national d'études supérieures de sécurité sociale est prise en compte pour sa durée effective pour le calcul de l'ancienneté fixée ci-dessus. Pour les candidats visés à l'article 8, les durées fixées ci-dessus sont réduites de quatre ans.
+La scolarité passée à l'Ecole nationale supérieure de sécurité sociale est prise en compte pour sa durée effective pour le calcul de l'ancienneté fixée ci-dessus. Pour les candidats visés à l'article 8, les durées fixées ci-dessus sont réduites de quatre ans.

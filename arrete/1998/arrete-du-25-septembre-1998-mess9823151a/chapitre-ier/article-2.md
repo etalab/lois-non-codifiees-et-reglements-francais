@@ -20,7 +20,7 @@ e) Trois directeurs régionaux des affaires sanitaires et sociales ;
 
 3° Dix représentants des organismes de sécurité sociale :
 
-a) Le directeur du Centre national d'études supérieures de sécurité sociale (CNESSS) ;
+a) Le directeur de l'Ecole nationale supérieure de sécurité sociale (EN3S) ;
 
 b) Le directeur de l'Union des caisses nationales de sécurité sociale (UCANSS) ;
 
@@ -42,7 +42,7 @@ j) Le directeur de la Caisse autonome nationale de la sécurité sociale dans le
 
 4° Dix représentants des agents de direction :
 
-a) Un représentant des anciens élèves du Centre national d'études supérieures de sécurité sociale, désigné par l'association des anciens élèves et élèves du CNESSS ;
+a) Un représentant des anciens élèves de l'Ecole nationale supérieure de sécurité sociale, désigné par l'association des anciens élèves et élèves de l'EN3S ;
 
 b) Cinq représentants des agents de direction des organismes de sécurité sociale du régime général, désignés par les organisations syndicales de salariés interprofessionnelles représentatives au plan national ;
 
@@ -62,4 +62,4 @@ Les représentants des agents de direction et leurs suppléants, visés au 4°, 
 
 Les décisions de la commission sont prises à la majorité des membres présents. En cas de partage des voix, celle du président est prépondérante.
 
-Le secrétariat de la commission est assuré par un fonctionnaire de la direction de la sécurité sociale, désigné par le ministre chargé de la sécurité sociale, qui assiste aux séances de la commission avec voix consultative.
+Le secrétariat de la commission est assuré par le directeur de l'Union des caisses nationales de sécurité sociale (UCANSS).

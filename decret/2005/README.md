@@ -78,6 +78,8 @@
 - [Décret n°2005-96 du 7 février 2005 (FPPA0400160D)](decret-n2005-96-du-7-fevrier-2005-fppa0400160d)
 - [Décret n°2002-329 du 8 mars 2002 (INTD0200054D)](decret-n2002-329-du-8-mars-2002-intd0200054d)
 - [Décret n°2005-217 du 8 mars 2005 (MCCT0500120D)](decret-n2005-217-du-8-mars-2005-mcct0500120d)
+- [Décret n°2005-335 du 8 avril 2005 (SANS0521142D)](decret-n2005-335-du-8-avril-2005-sans0521142d)
+- [Décret n°2005-336 du 8 avril 2005 (SANH0520724D)](decret-n2005-336-du-8-avril-2005-sanh0520724d)
 - [Décret n°2005-99 du 8 février 2005 (INTE0500009D)](decret-n2005-99-du-8-fevrier-2005-inte0500009d)
 - [Décret du 9 février 2005 (AGRP0500009D)](decret-du-9-fevrier-2005-agrp0500009d)
 - [Décret n°2004-1350 du 9 décembre 2004 (MCCX0400194D)](decret-n2004-1350-du-9-decembre-2004-mccx0400194d)
