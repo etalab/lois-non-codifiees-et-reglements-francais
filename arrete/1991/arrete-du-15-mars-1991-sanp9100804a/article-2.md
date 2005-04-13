@@ -7,3 +7,5 @@ Sont assimilés aux établissements et organismes mentionnés à l'article préc
 - les entreprises de pompes funèbres;
 
 - les entreprises de transport de corps avant mise en bière.
+
+- services d'incendie et de secours.

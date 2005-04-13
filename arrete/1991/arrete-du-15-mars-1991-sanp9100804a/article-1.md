@@ -44,4 +44,6 @@ Toute personne exposée à des risques de contamination doit être immunisée co
 
 - services de médecine du travail;
 
-- centres et services de médecine préventive scolaire.
+- centres et services de médecine préventive scolaire ;
+
+- services d'incendie et de secours.
