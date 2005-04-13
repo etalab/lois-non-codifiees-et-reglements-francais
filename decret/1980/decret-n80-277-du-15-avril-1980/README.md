@@ -2,5 +2,4 @@
 
 - [TITRE IER : Attributions.](titre-ier)
 - [TITRE II : Composition.](titre-ii)
-- [TITRE III : Commission permanente.](titre-iii)
 - [Article 18](article-18.md)
