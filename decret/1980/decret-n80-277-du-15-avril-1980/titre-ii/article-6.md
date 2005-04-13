@@ -1,43 +1,45 @@
 # Article 6
 
-Le conseil est présidé par le ministre chargé de la culture ou en son absence par le vice-président désigné par lui parmi les membres du conseil.
+Le conseil est présidé par le ministre chargé de la culture ou, en son absence, par le directeur de l'architecture et du patrimoine au ministère chargé de la culture. Le président est assisté d'un vice-président désigné par les ministres parmi les membres du conseil.
 
-II comprend :
+Il comprend :
 
-1° Des membres de droit :
+1. Quatorze représentants de l'Etat :
 
-- le directeur du patrimoine au ministère chargé de la culture ou son représentant ;
+a) Cinq membres de droit :
 
-- le délégué au développement et aux formations ou son représentant ;
+- le directeur de l'architecture et du patrimoine ou son représentant ;
 
-- le directeur général des archives de France au ministère chargé de la culture ou son représentant ;
+- le département de l'action territoriale à la direction de l'administration générale ;
 
-- le directeur des musées de France au ministère chargé la culture ou son représentant ;
+- le chef de la mission à l'ethnologie de la direction de l'architecture et du patrimoine ;
 
-- le directeur de la musique et de la danse au ministère chargé de la culture ou son représentant ;
+- le chef de la mission de la recherche et de la technologie au ministère chargé de la culture ;
 
-- le directeur de la recherche au ministère chargé de l'éducation nationale ou son représentant ;
+- le chef de l'inspection générale de la direction de l'architecture et du patrimoine ;
 
-- le directeur général de la recherche au ministère chargé de la recherche ou son représentant ;
+b) Trois membres désignés par le ministère chargé de la culture :
 
-- le directeur général du Centre national de la recherche scientifique ou son représentant ;
+- un directeur régional des affaires culturelles ;
 
-- le chef de la mission du patrimoine ethnologique au ministère chargé de la culture ;
+- deux conservateurs généraux ou conservatoires du patrimoine (spécialité musées).
 
-- le chef de la mission de la recherche et de la technologie au ministère chargé de la culture.
+c) Six membres désignés respectivement par le ministre chargé de l'enseignement supérieur, le ministre chargé de la recherche, le ministre chargé de l'agriculture, le ministre chargé de l'équipement, le ministre chargé de l'environnement, le ministre chargé de la politique de la ville. Les membres, ainsi désignés, sont choisis au sein des services de recherche des ministères.
 
-2° Des membres nommés par le ministre chargé de la culture :
+2. Quatre personnalités désignées par le ministre chargé de la culture :
 
-- Quatre conservateurs des musées nationaux, classés ou contrôlés, et membres d'associations ou d'organismes culturels ayant une activité dans le domaine du patrimoine ethnologique ;
+a) Deux membres d'associations ou organismes culturels ayant une activité dans le domaine de l'architecture et du patrimoine ;
 
-- Cinq  personnalités désignées en raison de leur compétence par le ministre chargé de la culture, dont une sur proposition du ministre des affaires étrangères.
+b) Deux personnalités compétentes en sciences de l'homme et de la société, désignées par le ministre chargé de la culture, dont une désignée parmi les membres des structures de recherche associées au ministère chargé de la culture.
 
-3° Trois membres représentant respectivement le ministre chargé de l'éducation nationale, le ministre chargé de la recherche, le ministre chargé des affaires étrangères, nommés par ces ministres.
+3. Huit membres ainsi désignés :
 
-4° Des membres désignés :
+a) Deux membres du Centre national de la recherche scientifique désignés par les sections compétentes du Comité national de la recherche scientifique ;
 
-- quatre spécialistes, membres du Centre national de la recherche scientifique, désignés par le comité national du Centre national de la recherche scientifique ;
+b) Deux enseignants-chercheurs de l'enseignement supérieur, spécialistes de la discipline, désignés par les sections compétentes de l'instance nationale prévue au premier alinéa de l'article L. 952-6 du code de l'éducation ;
 
-- quatre spécialistes, membres de l'enseignement supérieur, désignés par les instances nationales compétentes en matière de recrutement de l'enseignement supérieur ;
+c) Deux représentants des personnels de recherche affectés à la mission à l'ethnologie, dans les directions régionales des affaires culturelles ou dans un établissement du ministère de la culture, désignés par leurs pairs ;
 
-- deux représentants des personnels de recherche techniques affectés la mission du patrimoine ethnologique ou dans les directions régionales des affaires culturelles, désignés par leur pairs.
+d) Un représentant désigné par l'association des présidents de conseils régionaux ;
+
+e) Un représentant désigné par la Fédération nationale des collectivités pour la culture.
