@@ -2,7 +2,7 @@
 
 Sont inscrits sur la liste d'aptitude prévue au 1° de l'article 3 ci-dessus les candidats déclarés admis :
 
-1° A un concours externe sur titres avec épreuve ouvert, pour 40 % au moins des postes à pourvoir, aux candidats titulaires du brevet d'Etat d'animateur technicien de l'éducation populaire et de la jeunesse ;
+1° A un concours externe sur titres avec épreuve ouvert, pour 40 % au moins des postes à pourvoir, aux candidats titulaires du brevet d'Etat d'animateur technicien de l'éducation populaire et de la jeunesse ou du brevet professionnel de la jeunesse, de l'éducation populaire et du sport dans les spécialités correspondant à la définition des missions confiées aux membres du cadre d'emplois et dont la liste est précisée par un arrêté du ministre chargé des collectivités territoriales, du ministre chargé de la fonction publique et du ministre chargé de la jeunesse ;
 
 2° A un concours interne sur épreuves ouvert, pour 40 % au plus des postes à pourvoir, aux fonctionnaires et agents publics ainsi qu'aux agents en fonction dans une organisation internationale intergouvernementale. Les candidats doivent justifier, au 1er janvier de l'année du concours, de quatre années au moins de services publics compte non tenu des périodes de stage ou de formation dans une école ou un établissement ouvrant accès à un grade de la fonction publique ;
 
