@@ -10,6 +10,8 @@ Les vins de pays sont produits sur des superficies uniquement complantées en c�
 
 Les décrets relatifs aux vins de pays de zone peuvent fixer des conditions plus restrictives.
 
+Un vin de pays de zone agréé peut être commercialisé en vin de pays de département sous réserve qu'il soit produit à partir de raisins exclusivement récoltés dans le département revendiqué.
+
 Pour les exploitations produisant à la fois des vins de pays et des vins de table, le rendement à l'hectare des superficies aptes à produire des vins de table est limité à 90 hectolitres. Toutefois, ce rendement peut être porté à 100 hectolitres sous réserve que les quantités produites au-delà de 90 hectolitres ne soient pas vinifiées.
 
 Pour les superficies complantées en cépages double fin, le rendement à l'hectare des superficies aptes à produire des vins de table est limité à 110 hectolitres.
