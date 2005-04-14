@@ -111,6 +111,7 @@
 - [Décret n°2005-342 du 11 avril 2005 (INTB0500081D)](decret-n2005-342-du-11-avril-2005-intb0500081d)
 - [Décret n°2005-28 du 12 janvier 2005 (DEVO0420062D)](decret-n2005-28-du-12-janvier-2005-devo0420062d)
 - [Décret n°2005-29 du 12 janvier 2005 (DEVP0420068D)](decret-n2005-29-du-12-janvier-2005-devp0420068d)
+- [Décret n°2005-344 du 12 avril 2005 (ECOC0500028D)](decret-n2005-344-du-12-avril-2005-ecoc0500028d)
 - [Décret n°2004-1364 du 13 décembre 2004 (JUSD0430240D)](decret-n2004-1364-du-13-decembre-2004-jusd0430240d)
 - [Décret n°2005-26 du 13 janvier 2005 (BUDF0400046D)](decret-n2005-26-du-13-janvier-2005-budf0400046d)
 - [Décret n°2005-27 du 13 janvier 2005 (BUDF0400059D)](decret-n2005-27-du-13-janvier-2005-budf0400059d)

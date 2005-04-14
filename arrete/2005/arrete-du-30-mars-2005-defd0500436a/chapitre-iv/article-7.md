@@ -1,0 +1,3 @@
+# Article 7
+
+Les autorités d'emploi du personnel civil du ministère de la défense mettent à la disposition du service de santé des armées les infrastructures des centres de médecine de prévention et en assurent l'ensemble des charges liées à l'occupation des locaux (eau, électricité, chauffage, nettoyage, gardiennage) et d'entretien courant. Le protocole de mise à disposition de ces infrastructures est élaboré au niveau régional ou local. Pour chaque centre de médecine de prévention est désigné, après concertation entre les autorités d'emploi et le service de santé des armées, un organisme dénommé " corps support " qui en assure le soutien. La totalité des dépenses afférentes à ce soutien est supportée par les états-majors, directions, services ou organismes concernés.

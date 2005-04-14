@@ -20,9 +20,9 @@ d) La quantité nette de produit indiquée en unité légale de mesure ;
 
 e) Le numéro du lot de la préparation ou une indication permettant de l'identifier ;
 
-f) L'indication de la nature des risques particuliers pour l'homme, les animaux ou l'environnement, sous forme de phrases types, choisies de manière appropriée ;
+f) L'indication de la nature des risques particuliers pour l'homme, les animaux ou l'environnement, sous forme de phrases types, choisies de manière appropriée conformément à l'annexe IV du présent arrêté ;
 
-g) Les précautions à prendre pour la protection de l'homme, des animaux ou de l'environnement, sous forme de phrases types, choisies de manière appropriée ;
+g) Les précautions à prendre pour la protection de l'homme, des animaux ou de l'environnement, sous forme de phrases types, choisies de manière appropriée conformément à l'annexe V du présent arrêté ;
 
 h) Les autres précautions d'emploi ou contre-indications figurant le cas échéant sur la décision d'autorisation ;
 

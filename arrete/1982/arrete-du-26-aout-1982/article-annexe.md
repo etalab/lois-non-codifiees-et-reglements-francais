@@ -114,27 +114,27 @@ Le comité technique doit être consulté avant toute création d'annexe du banc
 
 Le directeur du banc d'épreuve informe le comité des expertises qui lui ont été demandées et, en particulier, des expertises d'armes éclatées qu'il a pu être amené à effectuer.
 
-Art. 22. -Le comité technique comprend :
+Art. 22. - Le comité technique comprend :
 
 Deux membres titulaires et deux membres suppléants proposés par la chambre de commerce et d'industrie ;
 
 Trois membres titulaires et trois membres suppléants proposés par la chambre syndicale nationale des fabricants et distributeurs d'armes, munitions, équipements et accessoires pour la chasse et le tir sportif, un membre titulaire et un membre suppléant au titre des fabricants d'armes, un membre titulaire et un membre suppléant au titre de la distribution de gros et des importateurs et un membre titulaire et un membre suppléant au titre des fabricants de munitions ;
 
-Un membre titulaire et un membre suppléant proposés par le syndicat de l'outillage à main et des machines électroportatives ;
+Un membre titulaire et un membre suppléant proposés par syndicat des équipements pour la construction, les infrastructures, la sidérurgie et la manutention (CISMA) ;
 
-Un membre titulaire et un membre suppléant proposés par la chambre syndicale des armuriers et des commerçants détaillants en armes et munitions ;
+Un membre titulaire et un membre suppléant proposés par la  chambre syndicale nationale des armuriers et des commerçants détaillants en armes et munitions ;
 
-Un membre titulaire et un membre suppléant proposés par la direction de la protection de la nature du ministère de l'environnement ;
+Un membre titulaire et un membre suppléant proposés par la direction de la nature et des paysages du ministère de l'écologie et du développement durable ;
 
 Un membre titulaire et un membre suppléant proposés par la fédération française de tir ;
 
-Un membre titulaire et un membre suppléant proposé par l'union nationale des présidents des fédérations départementales des chasseurs ;
+Un membre titulaire et un membre suppléant proposé par la Fédération nationale des chasseurs ;
 
-Quatre personnalités qualifiées proposées par le directeur des industries métallurgiques, mécaniques et électriques au ministère de la recherche et de l'industrie ou son représentant.
+Quatre personnalités qualifiées proposées par le chef du service des industries manufacturières au ministère chargé de l'industrie ou son représentant.
 
-Le directeur des industries métallurgiques, mécaniques et électriques au ministère de la recherche et de l'industrie ou son représentant.
+Le chef du service des industries manufacturières au ministère chargé de l'industrie ou son représentant.
 
-Les membres du comité technique sont nommés pour trois ans par le ministre de la recherche et de l'industrie. Il peut être mis fin à tout moment à leurs fonctions selon la procédure prévue pour leur désignation.
+Les membres du comité technique sont nommés pour trois ans par le ministère chargé de l'industrie. Il peut être mis fin à tout moment à leurs fonctions selon la procédure prévue pour leur désignation.
 
 Les membres du comité technique qui cessent d'exercer leurs fonctions ou qui perdent la qualité en raison de laquelle ils ont été nommés sont immédiatement remplacés. Le mandat des nouveaux membres expire à la date à laquelle aurait normalement pris fin celui de leur prédécesseur.
 
