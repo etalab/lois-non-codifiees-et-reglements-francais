@@ -428,7 +428,6 @@
 - [Arrêté du 22 août 2001 (MAEF0110052A)](arrete-du-22-aout-2001-maef0110052a)
 - [Arrêté du 22 décembre 2000 (MEST0011735A)](arrete-du-22-decembre-2000-mest0011735a)
 - [Arrêté du 22 février 2001 (MENS0100428A)](arrete-du-22-fevrier-2001-mens0100428a)
-- [Arrêté du 22 janvier 2001 (AGRG0100146A)](arrete-du-22-janvier-2001-agrg0100146a)
 - [Arrêté du 22 janvier 2001 (ECOP0100044A)](arrete-du-22-janvier-2001-ecop0100044a)
 - [Arrêté du 22 juin 2001 (AGRA0101101A)](arrete-du-22-juin-2001-agra0101101a)
 - [Arrêté du 22 juin 2001 (MAEA0120300A)](arrete-du-22-juin-2001-maea0120300a)
