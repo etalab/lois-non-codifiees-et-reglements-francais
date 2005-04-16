@@ -4,8 +4,8 @@ Des dérogations au délai fixé à l'article précédent sont accordées par le
 
 La demande de dérogation est adressée au Centre national de la cinématographie.
 
-Aucune dérogation ne peut être accordée avant l'expiration d'un délai de six mois à compter de la date de sortie de l'oeuvre cinématographique en salles de spectacles cinématographiques. La date de sortie en salles de spectacles cinématographiques est celle figurant sur le matériel publicitaire.
+Aucune dérogation ne peut être accordée avant l'expiration d'un délai de six mois à compter de la date de sortie de l'oeuvre cinématographique en salles de spectacles cinématographiques. La date de sortie en salles de spectacles cinématographiques est la date de sortie nationale de l'oeuvre figurant sur le matériel publicitaire, à l'exclusion de toute avant-première ou sortie exceptionnelle anticipée même payante.
 
 La délivrance de ces dérogations est réputée acquise à l'issue du silence gardé par l'administration pendant une durée de deux mois courant à compter de la date de réception de la demande.
 
-La liste des oeuvres ayant obtenu une dérogation est publiée périodiquement par le Centre national de la cinématographie [*publication*].
+La liste des oeuvres ayant obtenu une dérogation est publiée périodiquement par le Centre national de la cinématographie.
