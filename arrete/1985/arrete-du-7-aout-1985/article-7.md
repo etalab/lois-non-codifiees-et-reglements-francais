@@ -20,4 +20,4 @@ Les traitements informatisés :
 
 "Les traitements ci-avant énumérés ainsi que le traitement TDS (transfert de données sociales) peuvent consulter le système SPI.
 
-"SPI peut être également interrogé par les services de la direction générale des impôts et de la direction de la comptabilité publique, habilités à avoir accès aux informations correspondantes.
+"SPI peut être également interrogé par les services de la direction générale des impôts et de la direction de la comptabilité publique, habilités à avoir accès aux informations correspondantes.    Le traitement SPI fournit à l'application SIRIUS-FP les informations relatives au changement de numéros SPI.

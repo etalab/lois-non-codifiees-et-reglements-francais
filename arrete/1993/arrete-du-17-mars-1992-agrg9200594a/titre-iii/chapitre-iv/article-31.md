@@ -48,8 +48,6 @@ vii) Qui présentaient de la cachexie ou une anémie prononcée ou qui étaient 
 
 viii) Qui présentaient un syndrome neurologique qu'il n'est pas possible d'attribuer avec certitude à une autre cause qu'une encéphalopathie subaiguë spongiforme transmissible ;
 
-ix) De l'espèce bovine originaires du Portugal.
-
 b) Les viandes des animaux :
 
 i) Dans lesquelles un examen effectué conformément à l'annexe I (point G) a permis de mettre en évidence des lésions tuberculeuses localisées en plusieurs organes ou plusieurs parties de la carcasse, que les animaux aient présenté ou non une réaction positive ou douteuse à la tuberculine ;
