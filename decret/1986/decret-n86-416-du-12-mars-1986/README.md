@@ -3,7 +3,5 @@
 - [TITRE Ier : Dispositions générales et définitions.](titre-ier)
 - [TITRE II : Missions temporaires et déplacements de service à l'étranger.](titre-ii)
 - [TITRE III : Changements de résidence.](titre-iii)
-- [TITRE IV : Congés administratifs.](titre-iv)
 - [TITRE V : Cas particuliers.](titre-v-cas)
-- [TITRE VI : Frais de voyage et de déplacement.](titre-vi)
 - [TITRE VII : Dispositions finales.](titre-vii)
