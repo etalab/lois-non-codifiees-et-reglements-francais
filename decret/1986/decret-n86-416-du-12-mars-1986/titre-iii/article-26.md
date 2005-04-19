@@ -1,9 +1,9 @@
 # Article 26
 
-Un abattement de 50 p. 100 est opéré sur le décompte visé à l'article précédent dans les trois cas suivants :
+Un abattement de 50 % est opéré sur le décompte mentionné à l'article 25 du présent décret en cas de :
 
-1° Mutation de France vers l'étranger pour occuper un logement entièrement meublé et équipé par l'administration ;
+1° Affectation de l'agent dans un poste situé à l'étranger comportant l'occupation d'un logement entièrement meublé et équipé par l'administration ;
 
-2° Mutation vers la France, au départ d'un logement à l'étranger entièrement meublé et équipé par l'administration ;
+2° Départ de l'agent d'un poste situé à l'étranger comportant l'occupation d'un logement entièrement meublé et équipé par l'administration ;
 
-3° Mutation au départ d'un logement à l'étranger pour occuper un autre logement à l'étranger, tous les deux entièrement meublés et équipés par l'administration.
+3° Mutation de l'agent d'un poste situé à l'étranger vers un autre poste situé à l'étranger comportant tous les deux l'occupation d'un logement entièrement meublé et équipé par l'administration.

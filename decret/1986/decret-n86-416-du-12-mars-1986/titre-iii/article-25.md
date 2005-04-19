@@ -6,15 +6,15 @@ Le décompte de l'indemnité visée à l'article précédent est établi par add
 
 Ce premier élément du décompte correspond au coût, à la date de la mutation, du transport par fret aérien d'un déménagement d'un poids brut conforme au tableau ci-après entre les aéroports les plus proches de l'ancienne et de la nouvelle résidence de l'agent. Ce coût est constaté par l'application des tarifs aériens en vigueur sur la voie la plus directe et la plus économique. Le décompte de ce premier élément peut toutefois être complété ou modifié en fonction des situations visées aux trois alinéas qui suivent.
 
-Lorsque l'agent est muté entre deux postes à l'étranger, soit entre un logement entièrement meublé et équipé et un logement vide ou partiellement meublé et équipé, soit entre un logement partiellement meublé et équipé et un logement vide, ce premier élément du décompte est calculé pour moitié des droits sur le trajet reliant son ancienne et sa nouvelle résidence, et pour l'autre moitié sur le trajet reliant sa résidence en France et sa nouvelle résidence.
+Lorsque l'agent est muté entre deux postes à l'étranger, soit entre un logement entièrement meublé et équipé et un logement vide ou partiellement meublé et équipé, soit entre un logement partiellement meublé et équipé et un logement vide, ce premier élément du décompte est calculé pour moitié des droits sur le trajet reliant son ancienne et sa nouvelle résidence, et pour l'autre moitié sur le trajet reliant sa résidence en France ou, à défaut, sa résidence habituelle ou familiale dans un autre Etat membre de la Communauté européenne ou de l'Espace économique européen et sa nouvelle résidence.
 
-Lorsque la résidence de départ et la résidence d'arrivée se situent toutes deux en Europe, le coût du transport est déterminé en fonction du poids à transporter et de la distance à parcourir par voie terrestre et maritime selon une formule définie par un arrêté conjoint du ministre des relations extérieures, du ministre de l'économie, des finances et du budget et du secrétaire d'Etat auprès du Premier ministre, chargé de la fonction publique et des simplifications administratives. Le même arrêté détermine les pays considérés au sens du présent décret comme se situant en Europe.
+Lorsque la résidence de départ et la résidence d'arrivée se situent toutes deux en Europe, le coût du transport est déterminé en fonction du poids à transporter et de la distance à parcourir par voie terrestre et maritime selon une formule définie par un arrêté conjoint du ministre des affaires étrangères, du ministre chargé du budget et du ministre chargé de la fonction publique. Le même arrêté détermine les pays considérés au sens du présent décret comme se situant en Europe.
 
 Lorsque la résidence de départ et/ou la résidence d'arrivée se situe à plus de cent kilomètres d'un aéroport susceptible d'accueillir du fret aérien, il est ajouté au coût du transport par fret aérien le coût supplémentaire provoqué par le camionnage entre ville et aéroport du déménagement correspondant aux droits de l'agent. Le coût de ce camionnage accessoire est déterminé en fonction du poids à transporter et de la distance à parcourir entre ville et aéroport selon la formule définie par l'arrêté visé à l'alinéa précédent.
 
 2° Coût de manutention, de conditionnement, de transport urbain, et autres coûts annexes.
 
-Ce deuxième élément du décompte est fixé forfaitairement à trois fois le coût à la date de la mutation, de la mise en caisse et du chargement sur le territoire européen de la France d'un ensemble de mobilier et d'effets personnels d'un poids brut, emballage compris, conforme au tableau ci-après ; le coût de cette prestation est établi par convention annuelle passée par le ministère des relations extérieures après appel à la concurrence auprès des entrepreneurs de déménagements internationaux et consultation de la commission des marchés d'approvisionnement généraux instituée par le décret n° 72-199 du 13 mars 1972 relatif aux commissions spécialisées des marchés, pris en application de l'article 207 du code des marchés publics.
+Ce deuxième élément du décompte est fixé forfaitairement à trois fois le coût à la date de la mutation, de la mise en caisse et du chargement sur le territoire européen de la France d'un ensemble de mobilier et d'effets personnels d'un poids brut, emballage compris, conforme au tableau ci-après ; le coût de cette prestation est établi par convention annuelle passée par le ministère des affaires étrangères après appel à la concurrence auprès des entrepreneurs de déménagements internationaux et consultation de la commission instituée par le décret n° 2004-1299 du 26 novembre 2004 relatif à la commission des marchés publics de l'Etat.
 
 3° Frais d'assurance.
 
@@ -26,7 +26,9 @@ I. - Chef de poste diplomatique ; ministre plénipotentiaire ; ministre conseill
 
 AGENT : 1500
 
-CONJOINT : 600
+CONJOINT OU PARTENAIRE LIE PAR UN PACTE CIVIL DE SOLIDARITE :
+
+600
 
 AUTRE MEMBRE DE LA FAMILLE : 200
 
@@ -34,7 +36,9 @@ II. - Chef de poste consulaire ; chef de service de l'expansion économique ; ch
 
 AGENT : 1300
 
-CONJOINT : 600
+CONJOINT OU PARTENAIRE LIE PAR UN PACTE CIVIL DE SOLIDARITE :
+
+600
 
 AUTRE MEMBRE DE LA FAMILLE : 200.
 
@@ -42,7 +46,7 @@ III. - Secrétaire d'ambassade ; conseiller de mission de coopération et d'acti
 
 AGENT : 1100
 
-CONJOINT : 400
+CONJOINT OU PARTENAIRE LIE PAR UN PACTE CIVIL DE SOLIDARITE : 400
 
 AUTRE MEMBRE DE LA FAMILLE : 200
 
@@ -50,7 +54,7 @@ IV. - Chiffreur contrôleur ; chiffreur ; vice-consul ; consul ; attaché d'amba
 
 AGENT : 800
 
-CONJOINT : 400
+CONJOINT OU PARTENAIRE LIE PAR UN PACTE CIVIL DE SOLIDARITE : 400
 
 AUTRE MEMBRE DE LA FAMILLE : 200
 
@@ -58,7 +62,7 @@ V. - Autres agents
 
 AGENT : 500
 
-CONJOINT : 300
+CONJOINT OU PARTENAIRE LIE PAR UN PACTE CIVIL DE SOLIDARITE : 300
 
 AUTRE MEMBRE DE LA FAMILLE : 200
 

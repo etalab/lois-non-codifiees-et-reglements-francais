@@ -4,10 +4,10 @@ Pour l'application des dispositions du présent décret, la famille de l'agent s
 
 - le conjoint ;
 
-- les enfants de l'agent ainsi que les enfants du conjoint et les enfants régulièrement adoptés au regard de la législation française, lorsqu'ils sont à la charge de l'agent au sens prévu par la législation sur les prestations familiales ;
+- le partenaire lié par un pacte civil de solidarité ;
 
-- les enfants visés au paragraphe précédent sans limitation d'âge, lorsqu'ils sont atteints d'une incapacité permanente au moins égale à 80 p. 100 ;
+- à condition qu'ils vivent habituellement sous le toit de l'agent, les enfants de l'agent, de son conjoint ou de son partenaire lié par un pacte civil de solidarité lorsqu'ils sont à la charge de l'agent au sens des articles L. 513-1 et L. 521-2 du code de la sécurité sociale, les enfants infirmes mentionnés à l'article 196 du code général des impôts. L'âge des enfants s'apprécie au jour prévu pour le voyage ;
 
-- les ascendants de l'agent ou de son conjoint non assujettis à l'impôt sur le revenu lorsque l'agent apporte la preuve qu'ils vivent habituellement sous son toit.
+- les ascendants de l'agent, de son conjoint ou de son partenaire lié par un pacte civil de solidarité qui vivent habituellement sous le toit de l'agent et qui, en application de la législation fiscale applicable en France métropolitaine, ne sont, ou ne seraient, pas assujettis à l'impôt sur le revenu des personnes physiques ;
 
-Toutefois, lorsque le conjoint d'un agent bénéficie de son propre chef de la prise en charge de voyages, de changement de résidence et/ou de congé, il ne peut prétendre aux mêmes droits en sa qualité de conjoint.
+Toutefois, lorsque le conjoint ou le partenaire lié par un pacte civil de solidarité d'un agent bénéficie de son propre chef de la prise en charge de voyages, de changement de résidence et/ou de congé, il ne peut prétendre aux mêmes droits en sa qualité de conjoint ou de partenaire lié par un pacte civil de solidarité.

@@ -8,7 +8,7 @@ Pour l'application des dispositions du présent décret :
 
 - pour l'agent en fonctions ou affecté en France, comme le lieu de son affectation ;
 
-- dans les autres cas, comme le lieu de sa résidence habituelle ou familiale ou, à défaut, comme le lieu de sa dernière résidence en France ;
+- dans les autres cas, comme le lieu de sa résidence habituelle ou familiale ou, à défaut, comme le lieu de sa dernière résidence en France ; Lorsque l'agent est ressortissant d'un des Etats mentionnés à l'article 5 bis de la loi du 13 juillet 1983 susvisée et n'a pas de résidence habituelle ou familiale en France, il y a lieu de prendre en compte son dernier lieu de résidence habituel dans la Communauté européenne ou dans l'Espace économique européen ;
 
 3° Le changement de résidence s'entend comme un mouvement lié :
 
