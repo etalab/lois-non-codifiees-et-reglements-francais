@@ -156,6 +156,7 @@
 - [Décret n°2005-134 du 15 février 2005 (DEVP0420070D)](decret-n2005-134-du-15-fevrier-2005-devp0420070d)
 - [Décret n°2005-135 du 15 février 2005 (PRMG0470859D)](decret-n2005-135-du-15-fevrier-2005-prmg0470859d)
 - [Décret n°2005-31 du 15 janvier 2005 (FPPX0500001D)](decret-n2005-31-du-15-janvier-2005-fppx0500001d)
+- [Décret n°2005-354 du 15 avril 2005 (MAEA0520059D)](decret-n2005-354-du-15-avril-2005-maea0520059d)
 - [Décret n°2005-133 du 16 février 2005 (ECOT0551003D)](decret-n2005-133-du-16-fevrier-2005-ecot0551003d)
 - [Décret n°2005-137 du 16 février 2005 (JUSC0420982D)](decret-n2005-137-du-16-fevrier-2005-jusc0420982d)
 - [Décret n°2005-142 du 16 février 2005 (DEFP0401210D)](decret-n2005-142-du-16-fevrier-2005-defp0401210d)
