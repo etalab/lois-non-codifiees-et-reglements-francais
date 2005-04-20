@@ -8,6 +8,6 @@ Le conseil d'administration approuve, dans les conditions fixées par le décret
 
 Il approuve les transactions conclues en application de l'article 21 du présent décret.
 
-Lorsqu'il exerce les attributions visées à l'article 49 du décret n° 2002-50 du 10 janvier 2002 relatif aux conditions d'accès et aux régimes de formation à l'Ecole nationale d'administration, le conseil d'administration siège en formation restreinte. Cette formation comprend les membres du conseil autres que ceux visés au 4° de l'article 4.
+Lorsqu'il exerce les attributions visées à l'article 49 du décret n° 2002-50 du 10 janvier 2002 relatif aux conditions d'accès et aux régimes de formation à l'Ecole nationale d'administration, le conseil d'administration siège en formation restreinte. Cette formation comprend les membres du conseil autres que ceux visés au 7° de l'article 4.
 
 Le conseil d'administration est tenu informé par le directeur de l'école de la nomination des jurys des concours d'entrée et des épreuves d'admission au cycle préparatoire au concours interne et au cycle de préparation au troisième concours ; il est appelé à formuler toutes observations et suggestions en vue de la constitution des jurys des plus prochains concours ou épreuves.

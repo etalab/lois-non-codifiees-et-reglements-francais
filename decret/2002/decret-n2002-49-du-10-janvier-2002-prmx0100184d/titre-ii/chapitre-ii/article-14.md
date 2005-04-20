@@ -10,7 +10,9 @@ Le directeur de l'école est assisté par :
 
 - un directeur de la formation permanente et de la recherche ;
 
-- un directeur des relations internationales.
+- un directeur des relations internationales ;
+
+- Un directeur du centre des études européennes de Strasbourg.
 
 Le secrétaire général et les directeurs sont nommés par arrêté du Premier ministre et du ministre chargé de la fonction publique sur proposition du directeur de l'école.
 
