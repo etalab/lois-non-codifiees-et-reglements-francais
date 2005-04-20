@@ -190,6 +190,8 @@
 - [Décret n°2005-156 du 18 février 2005 (SANP0423672D)](decret-n2005-156-du-18-fevrier-2005-sanp0423672d)
 - [Décret n°2005-254 du 18 mars 2005 (ECOM0520002D)](decret-n2005-254-du-18-mars-2005-ecom0520002d)
 - [Décret n°2005-33 du 18 janvier 2005 (PRMX0508043D)](decret-n2005-33-du-18-janvier-2005-prmx0508043d)
+- [Décret n°2005-355 du 18 avril 2005 (FPPA0500023D)](decret-n2005-355-du-18-avril-2005-fppa0500023d)
+- [Décret n°2005-356 du 18 avril 2005 (SOCO0510326D)](decret-n2005-356-du-18-avril-2005-soco0510326d)
 - [Décret n°2005-37 du 18 janvier 2005 (BUDB0460036D)](decret-n2005-37-du-18-janvier-2005-budb0460036d)
 - [Décret n°2005-38 du 18 janvier 2005 (FPPA0400151D)](decret-n2005-38-du-18-janvier-2005-fppa0400151d)
 - [Décret n°2005-39 du 18 janvier 2005 (PMEA0420040D)](decret-n2005-39-du-18-janvier-2005-pmea0420040d)
