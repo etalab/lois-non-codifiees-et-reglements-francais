@@ -1,0 +1,15 @@
+# Article 7
+
+I. - Les dispositions du présent article sont applicables aux aérodromes civils de l'Etat d'intérêt national ou international, dont la gestion est concédée à une chambre de commerce et d'industrie et qui sont énumérés par un décret en Conseil d'Etat.
+
+II. - A la demande de chaque chambre de commerce et d'industrie concernée, l'autorité administrative peut autoriser la cession ou l'apport de la concession aéroportuaire à une société dont le capital initial est détenu entièrement par des personnes publiques, dont la chambre de commerce et d'industrie titulaire de la concession cédée. Par dérogation aux articles L. 2253-1, L. 3231-6, L. 4211-1 et L. 5111-4 du code général des collectivités territoriales, les collectivités territoriales intéressées et leurs groupements peuvent prendre des participations dans cette société. Un avenant au contrat de concession fixe, le cas échéant, la nouvelle durée de la concession sans que la prolongation puisse excéder quarante ans, ainsi que les contreparties, au minimum en termes d'investissements et d'objectifs de qualité de service, sur lesquelles la société aéroportuaire s'engage. En outre, cet avenant met le contrat en conformité avec les dispositions d'un cahier des charges type approuvé par le décret prévu au I du présent article.
+
+Les deuxième à cinquième alinéas de l'article 38 et les deuxième à quatrième alinéas de l'article 40 de la loi n° 93-122 du 29 janvier 1993 relative à la prévention de la corruption et à la transparence de la vie économique et des procédures publiques ne sont pas applicables aux opérations réalisées selon les dispositions du présent II.
+
+III. - Les agents publics affectés à la concession transférée sont mis à la disposition de la société pour une durée de dix ans. Une convention conclue entre l'ancien et le nouvel exploitant détermine les conditions de cette mise à disposition et notamment celles de la prise en charge par ce dernier des coûts salariaux correspondants.
+
+Pendant la durée de cette mise à disposition, chaque agent peut à tout moment demander que lui soit proposé par le nouvel exploitant un contrat de travail. La conclusion de ce contrat emporte alors radiation des cadres. Au terme de la durée prévue au premier alinéa, le nouvel exploitant propose à chacun des agents publics un contrat de travail, dont la conclusion emporte radiation des cadres. Les agents publics qui refusent de signer ce contrat sont réintégrés de plein droit au sein de la chambre de commerce et d'industrie concernée.
+
+Les dispositions de l'article L. 122-12 du code du travail sont applicables aux contrats de travail des salariés de droit privé des chambres de commerce et d'industrie affectés à la concession transférée, en cours à la date du transfert de la concession, qui subsistent avec le nouvel employeur.
+
+IV. - Dans un délai de trois ans à compter de la promulgation de la présente loi, les partenaires sociaux négocient une convention collective nationale applicable aux personnels des exploitants d'aérodromes commerciaux ne relevant pas de l'article L. 251-2 du code de l'aviation civile.
