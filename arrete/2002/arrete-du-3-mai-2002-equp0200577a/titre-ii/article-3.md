@@ -8,4 +8,6 @@ En application de l'article 5 du décret du 25 août 2000 susvisé, des astreint
 
 3° Gardiennage ou maintenance non programmable des locaux et installations ou matériels administratifs et techniques effectués par les agents, y compris ceux logés sur place ;
 
-4° Inspection de sécurité des navires.
+4° Inspection de sécurité des navires ;
+
+5° Surveillance et contrôle de l'activité portuaire.
