@@ -585,7 +585,6 @@
 - [Décret n°95-162 du 15 février 1995 (JUSC9520098D)](decret-n95-162-du-15-fevrier-1995-jusc9520098d)
 - [Décret n°95-163 du 15 février 1995 (SPSS9403982D)](decret-n95-163-du-15-fevrier-1995-spss9403982d)
 - [Décret n°95-164 du 15 février 1995 (SPSS9403984D)](decret-n95-164-du-15-fevrier-1995-spss9403984d)
-- [Décret n°95-289 du 15 mars 1995 (AGRS9500506D)](decret-n95-289-du-15-mars-1995-agrs9500506d)
 - [Décret n°95-290 du 15 mars 1995 (AGRS9500507D)](decret-n95-290-du-15-mars-1995-agrs9500507d)
 - [Décret n°95-291 du 15 mars 1995 (PRMD9550002D)](decret-n95-291-du-15-mars-1995-prmd9550002d)
 - [Décret n°95-293 du 15 mars 1995 (TEFE9500227D)](decret-n95-293-du-15-mars-1995-tefe9500227d)

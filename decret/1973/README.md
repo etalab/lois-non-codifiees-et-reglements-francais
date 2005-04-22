@@ -31,7 +31,6 @@
 - [Décret n°73-254 du 9 mars 1973](decret-n73-254-du-9-mars-1973)
 - [Décret n°73-255 du 9 mars 1973](decret-n73-255-du-9-mars-1973)
 - [Décret n°73-53 du 9 janvier 1973](decret-n73-53-du-9-janvier-1973)
-- [Décret n°73-802 du 9 août 1973](decret-n73-802-du-9-aout-1973)
 - [Décret n°73-955 du 11 octobre 1973](decret-n73-955-du-11-octobre-1973)
 - [Décret n°73-964 du 11 octobre 1973](decret-n73-964-du-11-octobre-1973)
 - [Décret n°72-937 du 12 octobre 1972](decret-n72-937-du-12-octobre-1972)

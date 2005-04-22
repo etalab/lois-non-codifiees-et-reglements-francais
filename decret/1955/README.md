@@ -12,7 +12,6 @@
 - [Décret n°55-961 du 15 juillet 1955](decret-n55-961-du-15-juillet-1955)
 - [Décret n°55-1103 du 17 août 1955](decret-n55-1103-du-17-aout-1955)
 - [Décret n°55-1650 du 17 décembre 1955](decret-n55-1650-du-17-decembre-1955)
-- [Décret n°55-806 du 17 juin 1955](decret-n55-806-du-17-juin-1955)
 - [Décret n°55-1366 du 18 octobre 1955](decret-n55-1366-du-18-octobre-1955)
 - [Décret n°55-1390 du 18 octobre 1955](decret-n55-1390-du-18-octobre-1955)
 - [Décret n°54-1032 du 19 octobre 1954](decret-n54-1032-du-19-octobre-1954)

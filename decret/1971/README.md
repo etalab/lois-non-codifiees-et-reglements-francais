@@ -53,7 +53,6 @@
 - [Décret n°71-859 du 19 octobre 1971](decret-n71-859-du-19-octobre-1971)
 - [Décret n°71-792 du 20 septembre 1971](decret-n71-792-du-20-septembre-1971)
 - [Décret n°74-543 du 20 mai 1974](decret-n74-543-du-20-mai-1974)
-- [Décret n°71-550 du 21 juin 1971](decret-n71-550-du-21-juin-1971)
 - [Décret n°71-636 du 21 juillet 1971](decret-n71-636-du-21-juillet-1971)
 - [Décret n°71-867 du 21 octobre 1971](decret-n71-867-du-21-octobre-1971)
 - [Décret n°72-310 du 21 avril 1972](decret-n72-310-du-21-avril-1972)

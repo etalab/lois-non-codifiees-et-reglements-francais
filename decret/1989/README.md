@@ -34,7 +34,6 @@
 - [Décret n°89-537 du 3 août 1989 (INTB8900218D)](decret-n89-537-du-3-aout-1989-intb8900218d)
 - [Décret n°89-538 du 3 août 1989 (SPSH8901518D)](decret-n89-538-du-3-aout-1989-spsh8901518d)
 - [Décret n°89-539 du 3 août 1989 (SPSH8901517D)](decret-n89-539-du-3-aout-1989-spsh8901517d)
-- [Décret n°89-540 du 3 août 1989 (SPSS8901507D)](decret-n89-540-du-3-aout-1989-spss8901507d)
 - [Décret n°89-541 du 3 août 1989 (SPSS8901508D)](decret-n89-541-du-3-aout-1989-spss8901508d)
 - [Décret n°89-7 du 3 janvier 1989 (EQUP8800641D)](decret-n89-7-du-3-janvier-1989-equp8800641d)
 - [Décret n°88-209 du 4 mars 1988 (JUSC8820102D)](decret-n88-209-du-4-mars-1988-jusc8820102d)
