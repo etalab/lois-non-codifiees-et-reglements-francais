@@ -1,0 +1,5 @@
+# Article 21
+
+I. - Le décret n° 61-595 du 9 juin 1961 relatif aux conditions de nomination et d'avancement dans les emplois d'inspecteur général des transports et des travaux publics, le décret n° 61-1356 du 7 décembre 1961 relatif aux conditions de nomination dans les emplois d'inspecteur général de l'aviation civile (section administrative et économique), le décret n° 63-1313 du 24 décembre 1963 relatif au statut particulier du corps de l'inspection générale du ministère de la construction, le décret n° 65-115 du 15 février 1965 relatif aux règles applicables à l'emploi d'inspecteur général des établissements administratifs et scolaires de la marine marchande, le décret n° 70-899 du 16 septembre 1970 relatif au statut particulier du corps des inspecteurs généraux de l'équipement et modifiant les dispositions applicables aux inspecteurs généraux et inspecteurs de la construction sont abrogés.
+
+II. - 1° Le décret n° 86-229 du 14 février 1986 portant statut du corps de l'inspection générale du tourisme est abrogé, à l'exception du dernier alinéa de son article 1er et de son article 3.

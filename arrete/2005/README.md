@@ -47,6 +47,7 @@
 - [Arrêté du 9 février 2005 (MENE0500220A)](arrete-du-9-fevrier-2005-mene0500220a)
 - [Arrêté du 9 septembre 2003 (DEFC0302061A)](arrete-du-9-septembre-2003-defc0302061a)
 - [Arrêté du 9 septembre 2003 (DEFC0302062A)](arrete-du-9-septembre-2003-defc0302062a)
+- [Arrêté du 10 décembre 2004 (INTE0400920A)](arrete-du-10-decembre-2004-inte0400920a)
 - [Arrêté du 10 janvier 2005 (DEFD0500156A)](arrete-du-10-janvier-2005-defd0500156a)
 - [Arrêté du 10 janvier 2005 (ECOT0595134A)](arrete-du-10-janvier-2005-ecot0595134a)
 - [Arrêté du 10 janvier 2005 (EQUT0500082A)](arrete-du-10-janvier-2005-equt0500082a)

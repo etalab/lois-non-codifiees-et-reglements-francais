@@ -2,7 +2,7 @@
 
 1. Liste des services et des établissements de l'armée de terre dont le directeur est bénéficiaire d'une délégation de pouvoirs du ministre :
 
-- établissement du matériel ;
+- directeur d'établissement du matériel, commandant de régiment du matériel, commandant de base de soutien du matériel et commandant de bataillon du matériel ;
 
 - direction du matériel hors métropole ;
 
@@ -18,7 +18,7 @@
 
 - régiment ;
 
-- bataillon ;
+- bataillon autre que ceux du matériel ;
 
 - demi-brigade ;
 

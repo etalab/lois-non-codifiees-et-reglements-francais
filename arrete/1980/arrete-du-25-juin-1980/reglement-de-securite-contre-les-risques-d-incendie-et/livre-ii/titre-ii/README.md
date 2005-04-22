@@ -14,6 +14,7 @@ Bibliothèques, centres de documentation
 et de consultation d'archives](chapitre-vii)
 - [Chapitre VIII : Etablissements du type T  - 
 Salles d'expositions](chapitre-viii)
+- [Chapitre IX : Etablissements du type U - Etablissements de soins](chapitre-ix)
 - [Chapitre X : Etablissements du type  V  - 
 Etablissements de culte](chapitre-x)
 - [Chapitre XI : Etablissements du type W - Administrations, banques, bureaux](chapitre-xi)
