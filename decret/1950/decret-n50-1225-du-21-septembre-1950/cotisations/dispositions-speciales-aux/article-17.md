@@ -1,3 +1,0 @@
-# Article 17
-
-Il est statué sur les demandes de classement en capacité professionnelle réduite, sur le rapport du médecin conseil de la caisse intéressée, par le conseil d'administration de la caisse [*attributions*], ou par une commission habilitée par lui à cet effet, dans le délai de deux mois suivant la réception de la demande [*point de départ*]. Ce délai est augmenté de deux mois lorsque le conseil d'administration ou la commission décide de faire procéder à une expertise médicale ou à une enquête complémentaire. Les décisions du conseil d'administration ou de la commission doivent être notifiées aux intéressés par lettre recommandée avec accusé de réception [*forme*].
