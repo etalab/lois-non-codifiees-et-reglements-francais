@@ -1,6 +1,5 @@
 # Chapitre 4 : Titres pour l'exercice de fonctions particulières ou pour le service à bord de certains types de navires.
 
-- [Article 46](article-46.md)
 - [Article 47](article-47.md)
 - [Article 48](article-48.md)
 - [Article 49](article-49.md)

@@ -10,4 +10,4 @@ Pour obtenir la délivrance d'un titre de formation professionnelle maritime, le
 
 4° Avoir accompli la période de navigation effective obligatoire dans la ou les fonctions prescrites ;
 
-5° Avoir suivi la formation et atteint les normes de compétence requises pour le titre concerné.
+5° Avoir atteint les normes de compétence requises pour le titre sollicité, dans des conditions fixées par arrêté du ministre chargé de la mer.

@@ -2,4 +2,4 @@
 
 - [Section I : Titres pour l'exercice des fonctions principales au niveau d'appui.](section-i)
 - [Section II : Titres pour l'exercice des fonctions principales au niveau opérationnel.](section-ii)
-- [Section III : Titres pour l'exercice des fonctions principales au niveau de direction.](section-iii)
+- [Article 28](article-28.md)

@@ -1,13 +1,3 @@
 # Article 24
 
-Le brevet de chef de quart de navigation côtière est délivré aux candidats qui réunissent les conditions suivantes :
-
-1° Soit être titulaires du brevet de patron de petite navigation ou du brevet de patron à la plaisance (voile) et avoir suivi une formation dont les conditions sont fixées par arrêté du ministre chargé de la mer, soit être titulaires d'un brevet d'études professionnelles maritimes sanctionnant une formation Pont ou polyvalente ;
-
-2° Etre titulaires du certificat général d'opérateur (CGO) des stations radioélectriques dans le cadre du Système mondial de détresse et de sécurité en mer (SMDSM) ;
-
-3° Avoir accompli douze mois de navigation effective ;
-
-4° Avoir satisfait aux épreuves d'un examen dont les modalités sont fixées par arrêté du ministre chargé de la mer.
-
-Le brevet de chef de quart de navigation côtière est également délivré après examen aux titulaires du brevet de mécanicien 750 kW qui ont suivi la formation mentionnée au 1° du présent article et qui sont titulaires du certificat général d'opérateur (CGO) des stations radioélectriques dans le cadre du Système mondial de détresse et de sécurité en mer (SMDSM).
+Les brevets de chef de quart 500, chef de quart yacht 500, chef de quart passerelle, chef de quart machine 15 000 kW, chef de quart machine, chef de quart de navire de mer, capitaine 200, capitaine 200 voile, capitaine yacht 200, capitaine 500, capitaine yacht 500, mécanicien 750 kW, second capitaine 3 000, capitaine 3 000, capitaine yacht 3 000, second mécanicien 3 000 kW, chef mécanicien yacht 3 000 kW, chef mécanicien 3 000 kW, second capitaine, capitaine, second mécanicien 15 000 kW, chef mécanicien 15 000 kW, second mécanicien, chef mécanicien, second polyvalent, capitaine de 1re classe de la navigation maritime et le permis de conduire les moteurs marins sont délivrés aux candidats qui satisfont aux normes de compétence requises dans des conditions fixées par arrêté du ministre chargé de la mer.
