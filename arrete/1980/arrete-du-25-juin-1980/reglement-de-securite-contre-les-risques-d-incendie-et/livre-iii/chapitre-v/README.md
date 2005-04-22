@@ -1,4 +1,4 @@
-# Chapitre V : Règles spécifiques aux petits établissements de soins (PU)
+# Chapitre V : Règles spécifiques aux petits établissements de soins
 
 - [Article PU 1](article-pu-1.md)
 - [Article PU 2](article-pu-2.md)

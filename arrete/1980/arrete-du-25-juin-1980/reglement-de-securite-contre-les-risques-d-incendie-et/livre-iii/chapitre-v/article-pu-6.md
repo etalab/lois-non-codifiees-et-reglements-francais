@@ -2,6 +2,6 @@
 
 Détection automatique d'incendie et système d'alarme
 
-En complément des dispositions de l'article PE 32, un système de détection automatique d'incendie doit également être installé dans  les locauxprésentant des risques particuliers dans les établissements comportant des locaux réservés au sommeil.
+Dans les établissements comportant des locaux réservés au sommeil et en complément des dispositions de l'article PE 32, les détecteurs automatiques d'incendie doivent également être installés dans tous les locaux, à l'exception des salles de bains, cabinets de toilettes, w.-c. Les détecteurs situés dans les locaux à sommeil devront comporter un indicateur d'action situé de façon visible dans la circulation horizontale les desservant.
 
-Les alarmes du système de détection automatique d'incendie doivent être renvoyés de façon permanente au personnel soignant qui aura été préalablement formé à la mise en oeuvre des moyens de défense contre l'incendie et à l'alerte des sapeurs-pompiers.
+L'alarme qui peut être générale ou générale sélective, doit pouvoir être reçue de façon permanente par le personnel soignant qui aura été préalablement formé à la mise en œuvre des moyens de défense contre l'incendie et à l'alerte des sapeurs-pompiers.

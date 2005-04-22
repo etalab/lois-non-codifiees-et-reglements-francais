@@ -1,5 +1,5 @@
 # Article PU 5
 
-Gaz médicaux
+Conditions d'installation des gaz médicaux
 
-Les dispositions de la norme NF S 90-155 sont applicables.
+Les articles U 51 à U 64 du règlement de sécurité des établissements recevant du public sont applicables.
