@@ -1,7 +1,0 @@
-# Article 9
-
-Sous réserve qu'ils soient majeurs et qu'ils vivent sur l'exploitation, le conjoint du chef d'exploitation ou d'entreprise agricole et les membres de la famille, à savoir les ascendants, descendants, frères, soeurs et alliés au même degré du chef d'exploitation ou d'entreprise agricole ou de son conjoint, à l'exclusion de ceux qui, au cours de l'année écoulée, ont cotisé à un régime d'assurances sociales de salariés au moins pendant un trimestre valable pour l'ouverture du droit à pension, sont assujettis au régime de l'allocation de vieillesse agricole.
-
-Les personnes qui, en application des dispositions de l'article 3 de la loi du 17 janvier 1948 modifiée, sont affiliées simultanément à l'organisation autonome des professions agricoles et à une autre organisation autonome de travailleurs non salariés ne sont redevables, au titre du régime agricole, que de la moitié de la cotisation visée à l'article 20 de la loi du 10 juillet 1952.
-
-L'exploitant est tenu au payement des cotisations dues au titre des personnes visées à l'alinéa 1er ci-dessus.

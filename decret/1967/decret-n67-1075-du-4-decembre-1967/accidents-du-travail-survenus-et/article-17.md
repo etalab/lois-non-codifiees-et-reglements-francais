@@ -1,5 +1,0 @@
-# Article 17
-
-Dans chacun des départements [*d'outre-mer*] de la Guadeloupe, de la Guyane française, de la Martinique et de la Réunion, les prestations allouées [*allocation - appareillage - décès de la victime*], en application des articles 1er, 2 ou 4 de la loi du 18 juin 1966 susvisée, en raison d'accidents survenus ou de maladies professionnelles constatées dans les professions agricoles et non agricoles avant le 1er janvier 1952 sont supportées par la section locale du fonds commun visé à l'article L. 491 du Code de la sécurité sociale [*charge financière*].
-
-Il est fait application des dispositions du titre 1er, chapitre 1er du présent décret. Toutefois, l'administration de l'enregistrement est substituée à la caisse des dépôts et consignations pour ce qui concerne la réception et l'instruction de la demande et la liquidation de l'allocation et de la majoration [*organisme compétent*]. Le trésorier-payeur général est d'autre part, chargé du paiement desdites allocations et majoration ainsi que du règlement des frais d'appareillage et des frais de procédure.

@@ -1,5 +1,0 @@
-# Article 89
-
-1. L'assuré victime d'un accident du travail dont le droit à réparation est contesté par l'employeur ou l'assureur substitué reçoit, à titre provisionnel, les prestations de l'assurance maladie s'il justifie, à la date de l'accident, des conditions d'ouverture du droit aux prestations en application de l'article 7 du décret susvisé du 20 avril 1950, et s'il justifie, par la présentation soit de l'exploit introductif d'instance, soit d'une attestation délivrée par le greffier du tribunal d'instance, un avoué auprès du tribunal de grande instance ou le secrétaire du bureau de l'assistance judiciaire, avoir engagé à l'encontre de son employeur ou de l'assureur substitué une action judiciaire en vue de faire reconnaître son droit à réparation.
-
-2. Les majorations de retard prévues par l'article 13, paragraphe 2, du décret susvisé du 20 avril 1950 ne sont pas applicables aux cotisations forfaitaires dues par l'employeur ou l'assureur substitué pour la période comprise entre la date de la consolidation de la blessure et celle du jugement intervenu.

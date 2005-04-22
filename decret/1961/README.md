@@ -50,7 +50,6 @@
 - [Décret n°61-1302 du 29 novembre 1961](decret-n61-1302-du-29-novembre-1961)
 - [Décret n°60-1524 du 30 décembre 1960](decret-n60-1524-du-30-decembre-1960)
 - [Décret n°46-2959 du 31 décembre 1946](decret-n46-2959-du-31-decembre-1946)
-- [Décret n°61-294 du 31 mars 1961](decret-n61-294-du-31-mars-1961)
 - [Décret n°61-295 du 31 mars 1961](decret-n61-295-du-31-mars-1961)
 - [Décret n°61-303 du 31 mars 1961](decret-n61-303-du-31-mars-1961)
 - [Décret n°61-858 du 31 juillet 1961](decret-n61-858-du-31-juillet-1961)

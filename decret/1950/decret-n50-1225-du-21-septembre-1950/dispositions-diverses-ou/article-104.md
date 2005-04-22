@@ -1,5 +1,0 @@
-# Article 104
-
-Sous réserve de justifier d'au moins quatre cents heures de travail salarié effectif au cours des quatre trimestres civils précédents, l'assuré qui cesse momentanément d'effectuer des travaux salariés a la faculté de faire néanmoins des versements de cotisations dans le cadre de l'assurance obligatoire. Ces versements entrent en compte pour l'ouverture du droit aux prestations et pour le calcul des indemnités journalières de maladie ou de maternité, à condition d'avoir été effectués pour chaque trimestre civil jusqu'à concurrence de quatre cents heures et avant la fin du trimestre suivant celui auquel lesdits versements se rapportent.
-
-Le montant de la cotisation journalière est égal au montant de la double contribution patronale et ouvrière telle qu'elle ressort des articles 2 et 3 du décret susvisé du 20 avril 1950. Il est réduit de 25 p. 100 si l'assuré est âgé de plus de soixante-cinq ans. Il est réduit également de 50 p. 100 si l'assuré est classé comme ouvrier à capacité professionnelle réduite. Son versement équivaut à huit heures de travail pour l'ouverture du droit aux prestations.

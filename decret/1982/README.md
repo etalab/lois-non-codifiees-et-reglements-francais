@@ -206,8 +206,6 @@
 - [Décret du 28 avril 1982](decret-du-28-avril-1982)
 - [Décret n°82-107 du 28 janvier 1982](decret-n82-107-du-28-janvier-1982)
 - [Décret n°82-661 du 28 juillet 1982](decret-n82-661-du-28-juillet-1982)
-- [Décret n°82-444 du 28 mai 1982](decret-n82-444-du-28-mai-1982)
-- [Décret n°82-445 du 28 mai 1982](decret-n82-445-du-28-mai-1982)
 - [Décret n°82-446 du 28 mai 1982](decret-n82-446-du-28-mai-1982)
 - [Décret n°82-451 du 28 mai 1982](decret-n82-451-du-28-mai-1982)
 - [Décret n°82-452 du 28 mai 1982](decret-n82-452-du-28-mai-1982)

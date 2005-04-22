@@ -1,3 +1,0 @@
-# CHAPITRE 1 : PRESTATIONS EN NATURE SECTION 2 : APPAREILLAGE.
-
-- [Article 4](article-4.md)

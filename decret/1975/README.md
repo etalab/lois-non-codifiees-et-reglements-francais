@@ -25,7 +25,6 @@
 - [Décret n°75-969 du 16 octobre 1975](decret-n75-969-du-16-octobre-1975)
 - [Décret n°75-1091 du 17 novembre 1975](decret-n75-1091-du-17-novembre-1975)
 - [Décret n°75-173 du 17 mars 1975](decret-n75-173-du-17-mars-1975)
-- [Décret n°75-956 du 17 octobre 1975](decret-n75-956-du-17-octobre-1975)
 - [Décret n°75-958 du 17 octobre 1975](decret-n75-958-du-17-octobre-1975)
 - [Décret n°75-1102 du 18 novembre 1975](decret-n75-1102-du-18-novembre-1975)
 - [Décret n°76-280 du 18 mars 1976](decret-n76-280-du-18-mars-1976)

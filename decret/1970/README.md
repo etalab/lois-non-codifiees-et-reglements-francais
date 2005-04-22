@@ -61,7 +61,6 @@
 - [Décret n°72-812 du 23 août 1972](decret-n72-812-du-23-aout-1972)
 - [Décret n°72-430 du 24 mai 1972](decret-n72-430-du-24-mai-1972)
 - [Décret n°70-871 du 25 septembre 1970](decret-n70-871-du-25-septembre-1970)
-- [Décret n°70-562 du 26 juin 1970](decret-n70-562-du-26-juin-1970)
 - [Décret n°71-159 du 26 février 1971](decret-n71-159-du-26-fevrier-1971)
 - [Décret n°70-78 du 27 janvier 1970](decret-n70-78-du-27-janvier-1970)
 - [Décret n°70-79 du 27 janvier 1970](decret-n70-79-du-27-janvier-1970)

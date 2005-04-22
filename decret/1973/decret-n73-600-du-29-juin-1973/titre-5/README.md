@@ -1,3 +1,0 @@
-# TITRE 5 : DISPOSITIONS RELATIVES AUX RENTES.
-
-- [Article 35-I](article-35-i.md)

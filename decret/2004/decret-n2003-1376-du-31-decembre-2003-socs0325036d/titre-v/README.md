@@ -1,3 +1,0 @@
-# TITRE V : DISPOSITIONS DE COORDINATION DURÉE D'APPLICATION.
-
-- [Article 6](article-6.md)

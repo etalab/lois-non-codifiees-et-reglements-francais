@@ -1,7 +1,0 @@
-# Article 15
-
-Par. 1er - Les cotisations dues pour les membres de la famille de l'exploitant assurés obligatoires (ascendants, descendants, frères, soeurs, alliés au même degré) incombent à l'exploitant pour la totalité, sauf le cas où l'assuré perçoit la rémunération normale en espèces des travailleurs de sa catégorie [*charge financière*].
-
-Par. 2 - Les cotisations exigibles du chef du métayer et les contributions patronales dues au titre des ouvriers qu'il rémunère ou du chef des membres de sa famille incombent au métayer et au propriétaire du corps de biens donné en métayage proportionnellement à leur part dans les produits de l'exploitation. Le métayer est, à l'exclusion du propriétaire, seul responsable, à l'égard des caisses d'assurances sociales agricoles, du versement de la contribution ouvrière due par lui et du versement des cotisations afférentes aux membres de sa famille et aux salariés qu'il emploie.
-
-Lorsque le propriétaire avance les sommes nécessaires au paiement des contributions patronales dues pour le métayer lui-même et avise la caisse de mutualité sociale agricole de ces avances, le métayer est également seul responsable du versement de ces contributions. Le propriétaire doit indiquer dans l'avis adressé à la caisse la proportion retenue pour le partage des produits et la caisse doit, dans les quinze jours [*délai*] suivant la réception dudit avis informer de cette réception le métayer par lettre recommandée [*formalité obligatoire*].

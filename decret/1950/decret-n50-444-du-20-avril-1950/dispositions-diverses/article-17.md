@@ -1,3 +1,0 @@
-# Article 17
-
-La cotisation patronale due au titre du deuxième trimestre de l'année 1950 sera majorée d'une somme égale, quel que soit l'emploi de l'assuré, à la différence entre la cotisation totale (part patronale et part ouvrière) calculée, dans chaque département, conformément aux dispositions antérieurement appliquées, et la cotisation fixée à l'article 2 ci-dessus pour les emplois auxquels correspond un salaire annuel moyen inférieur à 120.000 francs (1.200 F) ; cette majoration ne saurait, toutefois, être inférieure à 500 francs (5 F) [*montant minimum*]. Elle devra avoir été acquittée avant le 31 décembre 1950 [*date limite*].

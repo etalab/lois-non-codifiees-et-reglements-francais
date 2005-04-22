@@ -1,3 +1,0 @@
-# Article 99
-
-Le bureau de vote procède à l'attribution des sièges d'administrateurs représentant le deuxième collège suivant les règles définies à l'article 53.

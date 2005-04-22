@@ -1,3 +1,0 @@
-# TITRE II - SUSPENSION DU REPOS HEBDOMADAIRE
-
-- [Article 7](article-7.md)

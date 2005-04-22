@@ -1,3 +1,0 @@
-# Article 25
-
-Les travaux du conseil supérieur des structures et en particulier ceux de la section des structures d'exploitations agricoles et de la section d'action sociale pour l'aménagement des structures agricoles doivent être poursuivis en étroite liaison avec les travaux du conseil supérieur de l'aménagement rural. Les présidents des sections qui pourraient être créées dans ce conseil avec des attributions connexes à celles de la section des structures des exploitations agricoles et de la section d'action sociale pour l'aménagement des structures agricoles peuvent assister avec voix consultative aux délibérations de ces deux sections.

@@ -1,7 +1,6 @@
 # 1952
 
 - [Décret n°52-1292 du 2 décembre 1952](decret-n52-1292-du-2-decembre-1952)
-- [Décret n°52-645 du 3 juin 1952](decret-n52-645-du-3-juin-1952)
 - [Décret n°52-268 du 4 mars 1952](decret-n52-268-du-4-mars-1952)
 - [Décret n°52-16 du 5 janvier 1952](decret-n52-16-du-5-janvier-1952)
 - [Décret n°52-1122 du 6 octobre 1952](decret-n52-1122-du-6-octobre-1952)

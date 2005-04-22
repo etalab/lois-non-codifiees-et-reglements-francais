@@ -508,6 +508,7 @@
 - [Décret n°2001-903 du 28 septembre 2001 (PRMG0170626D)](decret-n2001-903-du-28-septembre-2001-prmg0170626d)
 - [Décret n°81-111 du 28 janvier 1981](decret-n81-111-du-28-janvier-1981)
 - [Décret n°91-116 du 28 janvier 1991 (MENG9002981D)](decret-n91-116-du-28-janvier-1991-meng9002981d)
+- [Décret n°95-1073 du 28 septembre 1995 (AGRS9501229D)](decret-n95-1073-du-28-septembre-1995-agrs9501229d)
 - [Décret n°97-544 du 28 mai 1997 (JUSD9730073D)](decret-n97-544-du-28-mai-1997-jusd9730073d)
 - [Décret n°2001-1008 du 29 octobre 2001 (PRMG0170612D)](decret-n2001-1008-du-29-octobre-2001-prmg0170612d)
 - [Décret n°2001-1009 du 29 octobre 2001 (JUSB0110441D)](decret-n2001-1009-du-29-octobre-2001-jusb0110441d)
