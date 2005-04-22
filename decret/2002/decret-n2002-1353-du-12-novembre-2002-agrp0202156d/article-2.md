@@ -20,11 +20,11 @@ Cependant, pour la campagne 2004-2005, le montant de l'indemnité est calculé p
 
 0,012 euro par litre au-delà de 200000 litres.
 
-Les quantités supplémentaires de référence, accordées sur le fondement des articles R. 654-61 à R. 654-63 et R. 654-72 à R. 654-74 du code rural, sont exclues de l'assiette de calcul de l'indemnité.
+Les quantités supplémentaires de référence, accordées sur le fondement des articles R. 654-61 à R. 654-63 et D. 654-72 à D. 654-74 du code rural, sont exclues de l'assiette de calcul de l'indemnité.
 
 Cependant, cette disposition ne s'applique pas, pour la campagne 2004-2005, aux producteurs dont la somme des quantités de référence pour la livraison et la vente directe ne dépasse pas 100000 litres.
 
-Pour les producteurs dont la somme des quantités de référence pour la livraison et la vente directe, à l'exclusion des quantités supplémentaires de référence, accordées sur le fondement des articles R. 654-61 à R. 654-63 et R. 654-72 à R. 654-74 du code rural, est inférieure à 100000 litres, mais dont l'ensemble de la référence est supérieur à 100000 litres, cette disposition ne s'applique pas non plus, pour la campagne 2004-2005, aux quantités supplémentaires de référence en deçà de 100000 litres de l'ensemble de la référence.
+Pour les producteurs dont la somme des quantités de référence pour la livraison et la vente directe, à l'exclusion des quantités supplémentaires de référence, accordées sur le fondement des articles R. 654-61 à R. 654-63 et D. 654-72 à D. 654-74 du code rural, est inférieure à 100000 litres, mais dont l'ensemble de la référence est supérieur à 100000 litres, cette disposition ne s'applique pas non plus, pour la campagne 2004-2005, aux quantités supplémentaires de référence en deçà de 100000 litres de l'ensemble de la référence.
 
 En cas d'abandon partiel de la production, les quantités de référence supplémentaires exclues de l'assiette de l'indemnité sont évaluées au prorata desdites quantités supplémentaires, visées ci-dessus, dans l'ensemble de la référence.
 

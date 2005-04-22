@@ -1,12 +1,12 @@
 # Article 1
 
-Ont droit au remboursement de leurs frais de transport, dans les conditions définies aux articles ci-dessous et, le cas échéant, aux indemnités prévues auxdits articles [*bénéficiaires*] :
+Ont droit au remboursement de leurs frais de transport, dans les conditions définies aux articles ci-dessous et, le cas échéant, aux indemnités prévues auxdits articles :
 
 1° L'assuré ou l'ayant droit qui doit quitter la commune où il réside ou celle où il travaille ou se déplacer à l'intérieur de cette commune pour se rendre dans un établissement de cure ou de soins, en vue d'y être hospitalisé, lorsque l'hospitalisation, reconnue médicalement nécessaire, est prise en charge par les assurances sociales.
 
 Dans le cas où la prise en charge des frais d'hospitalisation ou de traitement est subordonnée à l'accord préalable de la caisse, les frais de transport ne sont remboursés que si cet accord préalable a été obtenu ;
 
-2° L'assuré ou l'ayant droit qui doit quitter la commune où il réside ou celle où il travaille pour se soumettre à un traitement prescrit dans les conditions prévues soit à l'article 30 de l'ordonnance du 19 octobre 1945, soit à l'article 24 bis du décret du 21 septembre 1950 modifié ;
+2° L'assuré ou l'ayant droit qui doit quitter la commune où il réside ou celle où il travaille pour se soumettre à un traitement prescrit dans les conditions prévues soit à l'article 30 de l'ordonnance du 19 octobre 1945, soit à l'article R. 723-126 du code rural ;
 
 3° L'assuré ou l'ayant droit qui doit quitter la commune où il réside ou celle où il travaille, soit pour répondre à la convocation du centre d'appareillage, soit pour se rendre chez un fournisseur d'appareils d'orthopédie ou de prothèse agréé par la caisse régionale de sécurité sociale ;
 

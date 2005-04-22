@@ -1,6 +1,6 @@
 # Article 7
 
-Durant la période du stage six mois effectuée en exploitation agricole, le jeune peut opter pour le statut de stagiaire agricole au sens du 6° de l'article 14 du décret du 21 septembre 1950 susvisé. Dans ce cas, pour tenir compte à la fois du temps qu'il lui consacre pour satisfaire aux exigences du stage et de la participation du stagiaire aux travaux de l'exploitation, le maître exploitant lui verse une indemnité qui ne peut être mensuellement inférieure à 58 heures de SMIC.
+Durant la période du stage six mois effectuée en exploitation agricole, le jeune peut opter pour le statut de stagiaire agricole au sens de l'article R. 741-65 du code rural. Dans ce cas, pour tenir compte à la fois du temps qu'il lui consacre pour satisfaire aux exigences du stage et de la participation du stagiaire aux travaux de l'exploitation, le maître exploitant lui verse une indemnité qui ne peut être mensuellement inférieure à 58 heures de SMIC.
 
 La bourse de stage est versée uniquement :
 

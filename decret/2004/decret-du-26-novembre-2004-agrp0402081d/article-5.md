@@ -4,7 +4,7 @@
 
 Les parcelles de vignes sont aménagées et cultivées dans le respect des caractéristiques naturelles des sols et de l'environnement, notamment à l'échelle des bassins versants.
 
-Les parcelles des vignes sont conduites conformément à un règlement technique approuvé par le comité national des vins et eaux-de-vie de l'Institut national des appellations d'origine lors de la séance des 27 et 28 mai 2004 et dont le respect est contrôlé dans les conditions prévues à l'article R. 641-83 du code rural. Ce règlement technique peut être consulté auprès des services de l'Institut national des appellations d'origine et du syndicat de défense de l'appellation.
+Les parcelles des vignes sont conduites conformément à un règlement technique approuvé par le comité national des vins et eaux-de-vie de l'Institut national des appellations d'origine lors de la séance des 27 et 28 mai 2004 et dont le respect est contrôlé dans les conditions prévues à l'article D. 641-83 du code rural. Ce règlement technique peut être consulté auprès des services de l'Institut national des appellations d'origine et du syndicat de défense de l'appellation.
 
 2° Les vins rouges et rosés proviennent de vignes plantées et taillées selon les dispositions suivantes :
 
@@ -12,7 +12,7 @@ a) Densité de plantation :
 
 Les vignes présentent une densité minimale de plantation de 6000 pieds à l'hectare.
 
-Toutefois, les vignes en place avant le 28 novembre 2004 peuvent présenter, après arrachage partiel, une densité de peuplement comprise entre 5000 et 6000 pieds à l'hectare jusqu'à leur arrachage complet et au plus tard jusqu'à la récolte 2034 incluse, sous réserve d'une déclaration précisant notamment la désignation et la superficie des nouvelles parcelles ou parties de parcelles transformées, transmise aux services de l'Institut national des appellations d'origine au plus tard le 31 juillet de la campagne de transformation. Ces vignes sont palissées de façon permanente conformément aux dispositions du paragraphe b du présent article. L'écartement moyen entre les rangs ne peut excéder 2,30 mètres. Pour ces vignes, le plafond limite de classement visé à l'article R. 641-76 du code rural est réduit de 17 % par rapport au plafond limite de classement applicable aux autres vignes produisant le vin de l'appellation. Les superficies concernées sont mentionnées à part dans la déclaration de récolte.
+Toutefois, les vignes en place avant le 28 novembre 2004 peuvent présenter, après arrachage partiel, une densité de peuplement comprise entre 5000 et 6000 pieds à l'hectare jusqu'à leur arrachage complet et au plus tard jusqu'à la récolte 2034 incluse, sous réserve d'une déclaration précisant notamment la désignation et la superficie des nouvelles parcelles ou parties de parcelles transformées, transmise aux services de l'Institut national des appellations d'origine au plus tard le 31 juillet de la campagne de transformation. Ces vignes sont palissées de façon permanente conformément aux dispositions du paragraphe b du présent article. L'écartement moyen entre les rangs ne peut excéder 2,30 mètres. Pour ces vignes, le plafond limite de classement visé à l'article D. 641-76 du code rural est réduit de 17 % par rapport au plafond limite de classement applicable aux autres vignes produisant le vin de l'appellation. Les superficies concernées sont mentionnées à part dans la déclaration de récolte.
 
 L'écartement entre pieds sur un même rang ne peut être inférieur à 0,8 mètre.
 

@@ -8,6 +8,6 @@ Par dérogation à l'alinéa ci-dessus :
 
 - pour les salariés non soumis aux dispositions légales ou conventionnelles relatives à la durée du travail, le nombre d'heures de travail est réputé égal à celui prévu par les articles R. 615-3 et R. 615-4 dès lors que le nombre de jours d'activité, y inclus les jours de congés payés, durant l'année de référence est d'au moins 170 ;
 
-- pour les métayers assurés sociaux agricoles obligatoires, le nombre annuel de journées de travail est celui qui est fixé dans les conditions précisées par l'article 4 du décret du 21 septembre 1950 susvisé ;
+- pour les métayers assurés sociaux agricoles obligatoires, le nombre annuel de journées de travail est celui qui est fixé dans les conditions précisées par l'article R. 741-66 du code rural ;
 
 - les fonctionnaires civils et militaires tributaires du code des pensions civiles et militaires et les agents des collectivités locales titulaires d'un emploi permanent à temps complet, affiliés à la Caisse nationale de retraite des agents des collectivités locales, sont réputés exercer une activité salariée d'une durée annuelle équivalente au nombre d'heures mentionné au deuxième alinéa de l'article R. 615-3 du code de la sécurité sociale ; les autres agents de l'Etat et des collectivités locales, s'ils ne disposent d'aucun document justifiant le nombre d'heures de travail, doivent produire une attestation de leur employeur.

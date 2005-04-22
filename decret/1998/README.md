@@ -630,6 +630,7 @@
 - [Décret n°98-1173 du 22 décembre 1998 (MESH9823722D)](decret-n98-1173-du-22-decembre-1998-mesh9823722d)
 - [Décret n°98-1176 du 22 décembre 1998 (AGRS9802314D)](decret-n98-1176-du-22-decembre-1998-agrs9802314d)
 - [Décret n°98-1177 du 22 décembre 1998 (AGRS9802315D)](decret-n98-1177-du-22-decembre-1998-agrs9802315d)
+- [Décret n°98-1178 du 22 décembre 1998 (AGRS9802316D)](decret-n98-1178-du-22-decembre-1998-agrs9802316d)
 - [Décret n°98-1179 du 22 décembre 1998 (AGRS9802317D)](decret-n98-1179-du-22-decembre-1998-agrs9802317d)
 - [Décret n°98-306 du 22 avril 1998 (ECOF9800016D)](decret-n98-306-du-22-avril-1998-ecof9800016d)
 - [Décret n°98-309 du 22 avril 1998 (ECOF9800001D)](decret-n98-309-du-22-avril-1998-ecof9800001d)

@@ -1,6 +1,6 @@
 # Article 5
 
-Les vins répondent aux conditions fixées aux articles R. 641-73 à R. 641-88 du code rural.
+Les vins répondent aux conditions fixées aux articles D. 641-73 à D. 641-88 du code rural.
 
 Le rendement de base est fixé à 45 hl/ha.
 

@@ -1,6 +1,6 @@
 # Article 1
 
-Les taux des cotisations des assurances sociales agricoles pour les stagiaires remplissant les conditions précisées à l'article 14 du décret du 21 septembre 1950 modifié susvisé sont fixés comme suit :
+Les taux des cotisations des assurances sociales agricoles pour les stagiaires remplissant les conditions précisées à l'article R. 741-65 du code rural sont fixés comme suit :
 
 1° Le taux de la cotisation affectée à la couverture des prestations légales de maladie, maternité, invalidité et décès du régime de l'assurance sociale agricole est fixé à :
 

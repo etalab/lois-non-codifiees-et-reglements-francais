@@ -6,7 +6,7 @@ I. - Lorsque la dernière activité professionnelle exercée avant son accident 
 
 1° La copie certifiée conforme des bulletins de salaire des douze mois civils précédant l'arrêt de travail ou le décès consécutif à cet accident ou cette maladie ; à défaut, une attestation de l'employeur mentionnant le détail des sommes versées à l'intéressé au cours de cette même période ;
 
-2° Si le sapeur-pompier volontaire a interrompu son travail au cours de la période précitée pour l'une des causes prévues à l'article R. 433-7 du code de la sécurité sociale ou à l'article 20 du décret du 29 juin 1973 susvisé, une attestation de l'employeur mentionnant les causes de cette interruption ainsi que le salaire moyen qui aurait correspondu à ces interruptions de travail ;
+2° Si le sapeur-pompier volontaire a interrompu son travail au cours de la période précitée pour l'une des causes prévues à l'article R. 433-7 du code de la sécurité sociale ou à l'article R. 751-52 du code rural, une attestation de l'employeur mentionnant les causes de cette interruption ainsi que le salaire moyen qui aurait correspondu à ces interruptions de travail ;
 
 3° Si le sapeur-pompier volontaire a effectué un nombre d'heures de travail inférieur à la durée légale du travail par suite d'un ralentissement accidentel de l'activité économique de l'entreprise, une attestation de l'employeur mentionnant la période au cours de laquelle est intervenu ce ralentissement ainsi que la durée légale du travail dans l'entreprise et le nombre d'heures travaillées au cours de cette période.
 

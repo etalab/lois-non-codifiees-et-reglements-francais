@@ -8,4 +8,4 @@ Les dispositions relatives à l'approbation, à la suspension et à l'annulation
 
 Toutefois, les décisions de remise totale ou partielle des majorations ou pénalités afférentes aux cotisations des non-salariés agricoles ainsi que les décisions de remise partielle afférentes aux cotisations assises sur les salaires ne sont pas soumises à approbation du préfet de région si le montant de la remise accordée n'excède pas cinquante fois le S.M.I.C. applicable au 1er janvier de l'année au cours de laquelle a été prise la décision de remise.
 
-La remise intégrale des majorations de retard de cotisations sur salaires est, dans les conditions de l'article 18 du décret n° 76-1282 du 29 décembre 1976, soumise à approbation conjointe du préfet de région et du trésorier-payeur général.
+La remise intégrale des majorations de retard de cotisations sur salaires est, dans les conditions de l'article R. 741-26 du code rural, soumise à approbation conjointe du préfet de région et du trésorier-payeur général.

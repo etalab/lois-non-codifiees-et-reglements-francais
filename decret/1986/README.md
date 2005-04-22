@@ -127,8 +127,6 @@
 - [Décret n°86-332 du 10 mars 1986](decret-n86-332-du-10-mars-1986)
 - [Décret n°86-35 du 10 janvier 1986](decret-n86-35-du-10-janvier-1986)
 - [Décret n°86-355 du 10 mars 1986](decret-n86-355-du-10-mars-1986)
-- [Décret n°86-369 du 10 mars 1986](decret-n86-369-du-10-mars-1986)
-- [Décret n°86-370 du 10 mars 1986](decret-n86-370-du-10-mars-1986)
 - [Décret n°86-371 du 10 mars 1986](decret-n86-371-du-10-mars-1986)
 - [Décret n°86-381 du 10 mars 1986](decret-n86-381-du-10-mars-1986)
 - [Décret n°86-764 du 10 juin 1986](decret-n86-764-du-10-juin-1986)

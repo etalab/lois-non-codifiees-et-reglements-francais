@@ -344,6 +344,7 @@
 - [Décret n°94-492 du 13 juin 1994 (AGRG9400646D)](decret-n94-492-du-13-juin-1994-agrg9400646d)
 - [Décret n°94-592 du 13 juillet 1994 (PRMG9470297D)](decret-n94-592-du-13-juillet-1994-prmg9470297d)
 - [Décret n°94-593 du 13 juillet 1994 (JUSC9420496D)](decret-n94-593-du-13-juillet-1994-jusc9420496d)
+- [Décret n°94-596 du 13 juillet 1994 (AGRS9400565D)](decret-n94-596-du-13-juillet-1994-agrs9400565d)
 - [Décret n°94-608 du 13 juillet 1994 (ENVE9420025D)](decret-n94-608-du-13-juillet-1994-enve9420025d)
 - [Décret n°94-609 du 13 juillet 1994 (ENVP9420026D)](decret-n94-609-du-13-juillet-1994-envp9420026d)
 - [Décret n°94-614 du 13 juillet 1994 (ENVP9420021D)](decret-n94-614-du-13-juillet-1994-envp9420021d)

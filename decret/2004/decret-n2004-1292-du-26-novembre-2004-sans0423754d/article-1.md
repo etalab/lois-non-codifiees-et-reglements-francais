@@ -1,6 +1,6 @@
 # Article 1
 
-Les cotisations dues dans la limite du plafond de la sécurité sociale sont, sous réserve de l'application des dispositions du 1° de l'article R. 243-6 du code de la sécurité sociale, du dernier alinéa de l'article 1er du décret du 29 décembre 1976 susvisé et de la régularisation annuelle, calculées lors de chaque échéance de paie jusqu'à concurrence des sommes suivantes :
+Les cotisations dues dans la limite du plafond de la sécurité sociale sont, sous réserve de l'application des dispositions du 1° de l'article R. 243-6 du code de la sécurité sociale, de l'article R. 741-2 du code rural et de la régularisation annuelle, calculées lors de chaque échéance de paie jusqu'à concurrence des sommes suivantes :
 
 7 548 Euros si les rémunérations ou gains sont versés par trimestre ;
 

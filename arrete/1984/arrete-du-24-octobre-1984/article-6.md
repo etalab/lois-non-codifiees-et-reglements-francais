@@ -1,5 +1,5 @@
 # Article 6
 
-Est considérée comme présomption de preuve de la conformité aux normes étrangères de l'annexe A la présentation d'un certificat de conformité délivré par un organisme français ou étranger agréé conformément aux dispositions du deuxième alinéa de l'article 5 du présent arrêté, par le ministre chargé de l'industrie.
+Les taux de cotisations applicables aux exploitations ou entreprises visées à l'article 1er ne peuvent varier de plus de 25 pour 100 par rapport à ceux de l'année précédente.
 
-Le certificat de conformité est délivré à la suite d'un contrôle technique dont les modalités définies dans la décision d'agrément de cet organisme comportent notamment un ou plusieurs essais de type et des visites sur les lieux de fabrication.
+Ces taux de cotisations ne peuvent pas être inférieurs ou supérieurs de plus de 50% au taux de la catégorie de risques dans laquelle ces exploitations ou entreprises sont classées.

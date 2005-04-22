@@ -1,7 +1,6 @@
 # 1981
 
 - [Décret n°81-898 du 2 octobre 1981](decret-n81-898-du-2-octobre-1981)
-- [Décret n°80-978 du 3 décembre 1980](decret-n80-978-du-3-decembre-1980)
 - [Décret n°80-979 du 3 décembre 1980](decret-n80-979-du-3-decembre-1980)
 - [Décret n°81-1067 du 3 décembre 1981](decret-n81-1067-du-3-decembre-1981)
 - [Décret n°81-240 du 3 mars 1981](decret-n81-240-du-3-mars-1981)
@@ -29,7 +28,6 @@
 - [Décret n°81-512 du 12 mai 1981](decret-n81-512-du-12-mai-1981)
 - [Décret n°81-535 du 12 mai 1981](decret-n81-535-du-12-mai-1981)
 - [Décret n°81-536 du 12 mai 1981](decret-n81-536-du-12-mai-1981)
-- [Décret n°81-540 du 12 mai 1981](decret-n81-540-du-12-mai-1981)
 - [Décret du 13 avril 1981](decret-du-13-avril-1981)
 - [Décret n°81-1017 du 13 novembre 1981](decret-n81-1017-du-13-novembre-1981)
 - [Décret n°81-542 du 13 mai 1981](decret-n81-542-du-13-mai-1981)
