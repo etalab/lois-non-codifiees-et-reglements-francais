@@ -1,6 +1,6 @@
 # Article 5
 
-Le dossier d'inscription se compose, outre l'attestation prévue à l'article 4 ci-dessus :
+Pour les examens FCL (ATPL, CPL, IR), le dossier d'inscription se compose :
 
 1. D'une fiche d'inscription à retirer auprès du bureau des examens ;
 
@@ -16,6 +16,8 @@ Les dossiers d'inscription sont :
 
 - soit remis au bureau des examens avant la clôture des inscriptions ;
 
-- soit adressés par courrier (le cachet de la poste faisant foi), à l'adresse suivante : direction générale de l'aviation civile (service de la formation aéronautique et du contrôle technique, bureau des examens), Orly Fret n° 723, 94399 Orly Aérogare Cedex.
+- soit adressés par courrier (le cachet de la poste faisant foi), à l'adresse suivante : direction générale de l'aviation civile (service de la formation aéronautique et du contrôle technique, bureau des examens), Orly Fret n° 723, 94399 Orly Aérogare Cedex ;
+
+4. D'un formulaire de candidature à l'examen théorique FCL concerné.
 
 Pour être admis à se présenter à l'épreuve, le candidat doit avoir déposé un dossier complet. Le choix de la ou des épreuve(s) est définitif à la fin de la période d'inscription.

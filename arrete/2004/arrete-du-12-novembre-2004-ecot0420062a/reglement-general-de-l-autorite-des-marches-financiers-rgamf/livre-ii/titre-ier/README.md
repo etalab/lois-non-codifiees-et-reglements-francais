@@ -5,6 +5,7 @@
 - [Chapitre IV : Information à diffuser en cas d'appel public à l'épargne sans admission aux négociations sur un marché réglementé d'instruments financiers](chapitre-iv)
 - [Chapitre V : Opérations effectuées en dehors du champ de l'appel public à l'épargne](chapitre-v)
 - [Article 210-1](article-210-1.md)
+- [Article 210-2](article-210-2.md)
 - [Article Annexe R 1](article-annexe-r-1.md)
 - [Article Annexe R 2](article-annexe-r-2.md)
 - [Article Annexe R 3](article-annexe-r-3.md)
