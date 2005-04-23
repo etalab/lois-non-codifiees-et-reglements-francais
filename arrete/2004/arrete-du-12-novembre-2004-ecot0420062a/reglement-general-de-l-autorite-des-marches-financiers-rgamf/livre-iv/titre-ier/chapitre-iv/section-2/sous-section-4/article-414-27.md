@@ -4,7 +4,7 @@ I. - La souscription et l'acquisition des parts ou actions des FCPR allégés so
 
 1° Aux investisseurs mentionnés au premier alinéa de l'article L. 214-37 du code monétaire et financier ;
 
-2° A un Etat, ou dans le cas d'un Etat fédéral, à l'un ou plusieurs des membres composant la fédération ;
+2° A l'Etat, ou dans le cas d'un Etat fédéral, à l'un ou plusieurs des membres composant la fédération ;
 
 3° A la Banque centrale européenne, aux banques centrales, à la Banque mondiale, au Fonds monétaire international, à la Banque européenne d'investissement ;
 

@@ -1,4 +1,4 @@
-# Chapitre Ier : Information à diffuser lors de l'admission aux négociations sur un marché réglementé d'instruments financiers et lors de l'émission d'instruments financiers dont l'admission aux négociations sur un marché réglementé est demandée (premier marché et second marché)
+# Chapitre Ier : Information à diffuser lors de l'admission aux négociations sur un marché réglementé d'instruments financiers et lors de l'émission d'instruments financiers dont l'admission aux négociations sur un marché réglementé est demandée
 
 - [Section 1 : Dépôt, visa et diffusion du prospectus](section-1)
 - [Section 2 : Cas de dispenses et cas particuliers](section-2-cas)

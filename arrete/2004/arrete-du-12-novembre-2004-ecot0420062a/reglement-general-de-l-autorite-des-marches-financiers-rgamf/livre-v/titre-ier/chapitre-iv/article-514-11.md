@@ -1,3 +1,3 @@
 # Article 514-11
 
-Les conditions dans lesquelles sont délivrées, conformément aux articles 321-14 à 321-16, des cartes professionnelles donnant accès à la négociation aux personnes physiques placées sous l'autorité ou agissant pour le compte des membres d'un marché réglementé, sont fixées par les règles du marché.
+L'entreprise de marché précise les conditions dans lesquelles elle met, directement ou indirectement, à la disposition des personnes physiques appelées à intervenir en qualité de négociateurs sur le marché la formation nécessaire à l'exercice de leur activité.

@@ -1,6 +1,6 @@
 # Article 251-5
 
-Toute publicité ou tout message diffusé par le marché étranger doit comporter l'indication qu'il a fait l'objet d'une reconnaissance par le ministre de l'économie, en application de l'article 1er du décret n° 90-984 du 25 octobre 1990, ou qu'il figure sur la liste des marchés réglementés de l'Espace économique européen publiée au Journal officiel de l'Union européenne.
+Toute publicité ou tout message diffusé par le marché étranger doit comporter l'indication qu'il a fait l'objet d'une reconnaissance par le ministre de l'économie, en application de l'article 1er du décret n° 90-948 du 25 octobre 1990, ou qu'il figure sur la liste des marchés réglementés de l'Espace économique européen publiée au Journal officiel de l'Union européenne.
 
 Toute publicité ou tout message diffusé par l'intermédiaire financier, en vue d'opérations sur un marché reconnu, doit comporter les indications suivantes :
 

@@ -2,7 +2,7 @@
 
 Les dispositions transitoires prévues au chapitre 7 du titre Ier du livre IV s'appliquent aux sociétés de gestion de portefeuille.
 
-Les règles définies aux articles 322-39 à 322-44 s'appliquent à compter du 1er janvier 2005. Toutefois, lorsque les rétrocessions de frais ou de commissions de souscription et de rachat sont reversées, en application d'une convention conclue avant la date de parution du présent règlement, à tout autre personne ou fonds mentionnés au premier alinéa de l'article 322-43, les règles définies à cet article ne s'appliquent qu'à compter du 1er juillet 2005.
+Lorsque les rétrocessions de frais ou de commissions de souscription et de rachat sont reversées, en application d'une convention conclue avant le 24 novembre 2004, à tout autre personne ou fonds mentionnés au premier alinéa de l'article 411-53-1, les règles définies à cet article ne s'appliquent qu'à compter du 1er juillet 2005.
 
 Les dispositions du premier alinéa de l'article 322-45 et des quatre derniers alinéas de l'article 322-66 s'appliquent à compter de la mise en conformité du contenu du prospectus de l'OPCVM avec le prospectus complet tel que fixé par l'instruction prévue à l'article 411-45.
 

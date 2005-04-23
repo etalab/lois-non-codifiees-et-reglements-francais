@@ -16,4 +16,4 @@ b) Chiffre d'affaires supérieur à 40 000 000 d'euros ;
 
 c) Capitaux propres supérieurs à 2 000 000 d'euros ;
 
-5° Aux investisseurs dont la souscription initiale est supérieure ou égale 10 000 euros.
+5° Aux investisseurs dont la souscription initiale est supérieure ou égale à 10 000 euros.

@@ -47,7 +47,3 @@ c) Il met à la disposition du public un résumé en français des éléments si
 d) Il publie un communiqué en français précisant les différents documents mis à la disposition du public et les adresses des établissements auprès desquels ils sont disponibles ;
 
 e) L'autorité compétente de l'Etat mentionné au a du 5° remplit une déclaration par laquelle elle atteste que l'émetteur a respecté les obligations en matière d'information et d'admission à la cotation prévues par les directives communautaires.
-
-6° Un émetteur dont les actions sont admises définitivement sur le second marché et qui souhaite demander leur transfert sur un marché réglementé est dispensé d'établir un prospectus lorsqu'il a satisfait à toutes ses obligations d'information et que la qualité de l'information diffusée est jugée suffisante par l'AMF.
-
-7° L'émetteur de parts ou d'actions d'OPCVM indiciels est, après la première admission de parts ou d'actions, dispensé d'établir un prospectus pour les admissions successives de parts ou d'actions de même catégorie jusqu'à concurrence du montant maximal initialement présenté dans le prospectus établi pour la première admission.

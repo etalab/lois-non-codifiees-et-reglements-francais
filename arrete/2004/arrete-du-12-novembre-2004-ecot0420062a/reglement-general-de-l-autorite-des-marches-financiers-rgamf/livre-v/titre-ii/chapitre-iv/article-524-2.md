@@ -1,6 +1,6 @@
 # Article 524-2
 
-Les prestataires de services d'investissement gérant un système multilatéral de négociation s'assurent de la sécurité du système informatique de négociation par le biais d'un suivi quotidien ainsi que d'audits indépendants réalisés suivant une périodicité qu'ils définissent et qu'ils peuvent justifier.
+Les prestataires de services d'investissement et les entreprises de marché gérant un système multilatéral de négociation s'assurent de la sécurité du système informatique de négociation par le biais d'un suivi quotidien ainsi que d'audits indépendants réalisés suivant une périodicité qu'ils définissent et qu'ils peuvent justifier.
 
 Ils mettent en place une solution de substitution permettant au minimum une restitution des données à la clôture de la journée de négociation précédant celle où survient l'interruption ou l'anomalie de fonctionnement du système informatique de négociation. Ils procèdent périodiquement à des essais pour vérifier le bon fonctionnement de cette solution.
 

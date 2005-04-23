@@ -1,6 +1,6 @@
 # Article 423-11
 
-I. - La société de gestion est rémunérée par trois types de commissions :
+I.-La société de gestion est rémunérée par trois types de commissions :
 
 1° Une commission de souscription calculée sur les sommes recueillies lors des augmentations de capital ;
 
@@ -8,7 +8,7 @@ I. - La société de gestion est rémunérée par trois types de commissions :
 
 3° Une commission de gestion plafonnée par l'application d'un taux maximum à la valeur vénale des actifs gérés. Des taux différents peuvent être appliqués selon la catégorie d'actifs concernés : bois et forêts détenus en direct, bois et forêts détenus indirectement, liquidités et valeurs assimilées.
 
-II. - Sont couverts par la commission de gestion les frais :
+II.-Sont couverts par la commission de gestion les frais :
 
 1° De gestion administrative et comptable ;
 
@@ -34,11 +34,11 @@ II. - Sont couverts par la commission de gestion les frais :
 
 12° De gestion des liquidités et valeurs assimilées.
 
-III. - Sont exclus de la commission de gestion les :
+III.-Sont exclus de la commission de gestion les :
 
 1° Frais d'assurance ;
 
-2° Honoraires des experts forestiers dans le cadre des missions d'expertises forestières prévues par l'article 423-46 et contrôleurs légaux des comptes ;
+2° Honoraires des experts forestiers dans le cadre des missions d'expertises forestières prévues par l'article 423-45 et contrôleurs légaux des comptes ;
 
 3° Coûts d'exploitation des bois et forêts, et notamment des travaux de reconstitution, d'entretien des forêts et infrastructures et de coupes des bois.
 

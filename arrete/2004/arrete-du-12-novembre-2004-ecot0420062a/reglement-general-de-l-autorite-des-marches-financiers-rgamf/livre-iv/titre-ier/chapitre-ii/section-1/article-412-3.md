@@ -1,6 +1,6 @@
 # Article 412-3
 
-Préalablement à l'agrément d'un OPCVM nourricier, les personnes chargées du contrôle légal des comptes des OPCVM nourriciers et maître, qu'elles soient françaises ou étrangères, concluent une convention d'échange d'informations. Une convention est également conclue entre les dépositaires des OPCVM maîtres et nourriciers.
+Préalablement à l'agrément d'un OPCVM nourricier, les personnes chargées du contrôle légal des comptes des OPCVM nourriciers et maître, qu'elles soient françaises ou étrangères, concluent une convention d'échange d'informations. Une convention est également conclue entre les dépositaires des OPCVM maître et nourriciers.
 
 Ces conventions précisent les modalités des échanges d'information nécessaires à l'accomplissement des missions respectives de dépositaire et de personnes chargées du contrôle légal des comptes d'un OPCVM nourricier.
 

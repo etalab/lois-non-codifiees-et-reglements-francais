@@ -8,4 +8,4 @@ En cas de vente d'un ou plusieurs éléments du patrimoine immobilier locatif de
 
 1° La mise en distribution totale ou partielle avec, le cas échéant, amortissement du nominal des parts ;
 
-2° La dotation du fonds de remboursement prévu à la sous-section 2 de la section 5.
+2° La dotation du fonds de remboursement prévu à la sous-section 3 de la section 5.

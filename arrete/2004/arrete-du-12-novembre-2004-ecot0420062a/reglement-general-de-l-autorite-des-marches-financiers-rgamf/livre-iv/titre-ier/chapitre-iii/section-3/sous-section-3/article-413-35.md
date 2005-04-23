@@ -4,7 +4,7 @@ Les parts de FCP et les actions de SICAV sont émises à tout moment à la deman
 
 Toutefois, la souscription et l'acquisition des parts ou actions des OPCVM contractuels sont réservées :
 
-1° Aux investisseurs mentionnés au premier alinéa de l'article L. 214-35-3 du code monétaire et financier ;
+1° Aux investisseurs mentionnés à l'article L. 214-35-3 du code monétaire et financier ;
 
 2° A l'Etat, ou dans le cas d'un Etat fédéral, à l'un ou plusieurs des membres composant la fédération ;
 

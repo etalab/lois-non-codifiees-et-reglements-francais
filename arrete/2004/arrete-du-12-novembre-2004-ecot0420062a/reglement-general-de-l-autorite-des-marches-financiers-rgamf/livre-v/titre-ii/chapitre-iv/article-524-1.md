@@ -1,6 +1,6 @@
 # Article 524-1
 
-Le système informatique de négociation utilisé par les prestataires de services d'investissement gérant un système multilatéral de négociation, y compris les composants installés auprès des participants du système multilatéral, doit être conforme aux normes courantes de sécurité informatique, en particulier dans le secteur financier.
+Le système informatique de négociation utilisé par les prestataires de services d'investissement et les entreprises de marché gérant un système multilatéral de négociation, y compris les composants installés auprès des participants du système multilatéral, doit être conforme aux normes courantes de sécurité informatique, en particulier dans le secteur financier.
 
 Le système informatique de négociation doit notamment :
 

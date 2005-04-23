@@ -6,7 +6,7 @@ Responsabilité du prospectus
 
 A. - Contenu et modalités de l'opération
 
-1. Renseignements relatifs à l'admission aux négociations sur le nouveau marché d'instruments financiers.
+1. Renseignements relatifs à l'admission aux négociations sur un marché réglementé d'instruments financiers.
 
 2. Renseignements relatifs à l'émission d'instruments financiers.
 

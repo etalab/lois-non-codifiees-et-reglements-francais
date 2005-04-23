@@ -12,4 +12,4 @@ Les candidatures en vue du renouvellement de l'expert doivent être présentées
 
 Si l'AMF estime, pendant le mandat de l'expert forestier, que les conditions requises pour son acceptation ne sont plus remplies, elle en informe la société de gestion qui lui soumet la candidature d'un nouvel expert et en propose la nomination à l'assemblée générale.
 
-De même, si l'expert forestier ne figure plus sur la liste des experts forestiers prévue par l'article 1er du décret n° 75-1022 du 27 octobre 1975, la société de gestion en informe l'AMF, qui lui soumet la candidature d'un nouvel expert et en propose la nomination à l'assemblée générale.
+De même, si l'expert forestier ne figure plus sur la liste des experts forestiers prévue par l'article 1er du décret n° 75-1022 du 27 octobre 1975, la société de gestion en informe l'AMF et lui soumet la candidature d'un nouvel expert et en propose la nomination à l'assemblée générale.
