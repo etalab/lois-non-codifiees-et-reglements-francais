@@ -9,3 +9,4 @@
 - [Loi n° 2005-47 du 26 janvier 2005 (JUSX0407800L)](loi-n-2005-47-du-26-janvier-2005-jusx0407800l)
 - [Loi n° 2005-67 du 28 janvier 2005 (ECOX0307005L)](loi-n-2005-67-du-28-janvier-2005-ecox0307005l)
 - [Loi n° 91-429 du 13 mai 1991 (INTX9100005L)](loi-n-91-429-du-13-mai-1991-intx9100005l)
+- [Loi n°94-589 du 15 juillet 1994 (DEFX9400020L)](loi-n94-589-du-15-juillet-1994-defx9400020l)
