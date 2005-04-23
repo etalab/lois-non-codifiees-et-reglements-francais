@@ -144,6 +144,10 @@ Les lecteurs, conformes à la norme ISO 11785, doivent afficher le résultat de 
 
 Pour les animaux marqués à l'aide d'un transpondeur à radiofréquences préalablement à la publication du présent arrêté, leur identification est prise en compte si le transpondeur est lisible par un lecteur conforme à la norme ISO 11785 et aux prescriptions ci-dessus.
 
+D. - Cas des chiroptères
+
+Aux fins du présent arrêté, les chiroptères peuvent être marqués par des bagues conformes aux modèles définis par le présent arrêté pour les oiseaux.
+
 2. Procédés de marquage des oiseaux des espèces inscrites à l'annexe 1 de l'arrêté fixant les règles générales de fonctionnement des installations d'élevage d'agrément d'animaux d'espèces non domestiques.
 
 A. - Procédés de marquage des oiseaux par bague fermée
@@ -158,11 +162,11 @@ La bague est conçue selon le déroulé ci-après. Elle porte les inscriptions s
 
 - le diamètre de la bague en 1/10 de millimètre jusqu'à 10 mm, en millimètres au-delà ;
 
-- le numéro d'ordre de l'oiseau comportant trois chiffres ;
+- le numéro d'ordre de l'oiseau comportant trois ou quatre chiffres ;
 
 - le sigle de l'organisation qui a délivré la bague ;
 
-- le numéro de l'éleveur comportant quatre chiffres.
+- le numéro de l'éleveur comportant quatre chiffres, ou une lettre suivie de trois chiffres, ou deux lettres suivies de deux chiffres.
 
 (marquage non reproduit, voir au Journal officiel).
 
@@ -206,7 +210,9 @@ La bague est conçue selon le déroulé ci-après. Elle porte les inscriptions s
 
 Les deux demi-bagues sont mises en place par emboîtement et collage à l'aide d'une colle spéciale pour métaux.
 
-C. - Procédés de marquage des oiseaux par transpondeurs à radiofréquences
+C. - Procédés de marquage des oiseaux
+
+par transpondeurs à radiofréquences
 
 Les oiseaux sont marqués par implantation sous-cutanée ou intramusculaire d'un microcylindre de verre contenant un transpondeur à radiofréquences.
 
@@ -222,9 +228,9 @@ Elles sont identiques à celles décrites ci-dessus pour les mammifères.
 
 Pour les animaux marqués à l'aide d'un transpondeur à radiofréquences préalablement à la publication du présent arrêté, leur identification est prise en compte si le transpondeur est lisible par un lecteur conforme à la norme ISO 11785 et aux prescriptions définies au point 1 (C, b) de la présente annexe.
 
-D. - Cas des oiseaux nés et élevés en captivité marqués préalablement à la date d'entrée en vigueur de l'obligation de marquage
+D. - Cas des oiseaux nés et élevés en captivité marqués préalablement à la date d'entrée en vigueur de l'obligation de marquage.
 
-Aux fins du présent arrêté, le marquage des oiseaux nés et élevés en captivité effectué préalablement à la date d'entrée en vigueur de l'obligation de marquage prévue par le présent arrêté (soit six mois à compter de la publication du présent arrêté au Journal officiel de la République française) est pris en compte s'il répond aux conditions suivantes :
+Aux fins du présent arrêté, le marquage des oiseaux nés et élevés en captivité effectué préalablement à la date d'entrée en vigueur de l'obligation de marquage prévue par le présent arrêté (soit avant le 31 décembre 2005) est pris en compte s'il répond aux conditions suivantes :
 
 - la marque est constituée d'une bague fermée portant un marquage propre à l'oiseau, en forme d'anneau fermé de section aplatie, sans aucune rupture ou joint, n'ayant subi aucune manipulation frauduleuse. Après avoir été placée dans les premiers jours de la vie de l'oiseau, la bague ne peut être enlevée de la patte de l'oiseau devenu adulte ;
 
