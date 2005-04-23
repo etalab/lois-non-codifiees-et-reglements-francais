@@ -516,7 +516,6 @@
 - [Décret n°2001-1153 du 29 novembre 2001 (AGRS0101362D)](decret-n2001-1153-du-29-novembre-2001-agrs0101362d)
 - [Décret n°2001-754 du 29 août 2001 (MEST0111122D)](decret-n2001-754-du-29-aout-2001-mest0111122d)
 - [Décret n°2001-755 du 29 août 2001 (MEST0111123D)](decret-n2001-755-du-29-aout-2001-mest0111123d)
-- [Décret n°2001-770 du 29 août 2001 (INTE0100225D)](decret-n2001-770-du-29-aout-2001-inte0100225d)
 - [Décret n°2001-778 du 29 août 2001 (MENS0100917D)](decret-n2001-778-du-29-aout-2001-mens0100917d)
 - [Décret n°2001-780 du 29 août 2001 (MENF0101681D)](decret-n2001-780-du-29-aout-2001-menf0101681d)
 - [Décret n°2001-781 du 29 août 2001 (MENF0101486D)](decret-n2001-781-du-29-aout-2001-menf0101486d)
