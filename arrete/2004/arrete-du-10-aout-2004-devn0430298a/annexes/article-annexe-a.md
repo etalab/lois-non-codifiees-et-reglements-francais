@@ -144,6 +144,10 @@ Les lecteurs, conformes à la norme ISO 11785, doivent afficher le résultat de 
 
 Pour les animaux marqués à l'aide d'un transpondeur à radiofréquences préalablement à la publication du présent arrêté, leur identification est prise en compte si le transpondeur est lisible par un lecteur conforme à la norme ISO 11785 et aux prescriptions ci-dessus.
 
+D. - Cas des Chiroptères
+
+Aux fins du présent arrêté, les chiroptères peuvent être marqués par des bagues conformes aux modèles définis par le présent arrêté pour les oiseaux.
+
 2. Procédés de marquage des oiseaux des espèces inscrites aux annexes 1 et 2 de l'arrêté fixant les conditions d'autorisation de détention d'animaux de certaines espèces non domestiques dans les établissements d'élevage, de vente, de location, de transit ou de présentation au public d'animaux d'espèces non domestiques
 
 A. - Procédés de marquage des oiseaux par bague fermée
@@ -232,7 +236,7 @@ Pour les animaux marqués à l'aide d'un transpondeur à radiofréquence préala
 
 D. - Cas des oiseaux nés et élevés en captivité marqués préalablement à la date d'entrée en vigueur de l'obligation de marquage
 
-Aux fins du présent arrêté, le marquage des oiseaux nés et élevés en captivité effectué préalablement à la date d'entrée en vigueur de l'obligation de marquage prévue par le présent arrêté (soit six mois à compter de la publication du présent arrêté au Journal officiel de la République française) est pris en compte s'il répond aux conditions suivantes :
+Aux fins du présent arrêté, le marquage des oiseaux nés et élevés en captivité effectué préalablement à la date d'entrée en vigueur de l'obligation de marquage prévue par le présent arrêté (soit avant le 31 décembre 2005) est pris en compte s'il répond aux conditions suivantes :
 
 - la marque est constituée d'une bague fermée portant un marquage propre à l'oiseau, en forme d'anneau fermé de section aplatie, sans aucune rupture ou joint, n'ayant subi aucune manipulation frauduleuse. Après avoir été placée dans les premiers jours de la vie de l'oiseau, la bague ne peut être enlevée de la patte de l'oiseau devenu adulte ;
 
