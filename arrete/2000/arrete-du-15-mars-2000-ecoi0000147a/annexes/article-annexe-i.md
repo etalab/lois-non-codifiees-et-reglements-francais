@@ -1,10 +1,8 @@
 # Article Annexe I
 
-A N N E X E
-
 Pour l'application de l'article 30, le contrôle après réparation ou modification de l'équipement sous pression doit être effectué selon les modalités suivantes :
 
-1. La demande de contrôle après réparation ou modification est introduite par l'exploitant auprès du directeur régional de l'industrie, de la recherche et de l'environnement ou d'un des organismes mentionnés à l'article 30 du présent arrêté.
+1. La demande de contrôle après réparation ou modification est introduite par l'exploitant auprès d'un des organismes mentionnés à l'article 30 du présent arrêté.
 
 2. La demande comporte :
 

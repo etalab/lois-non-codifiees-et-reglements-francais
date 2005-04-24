@@ -1,31 +1,13 @@
 # Article 24
 
-Paragraphe 1. L'inspection de requalification périodique comprend une vérification intérieure et extérieure de l'équipement sous pression et tout contrôle ou essai complémentaire jugé utile par l'expert mentionné à l'article 23 (Paragraphe 4) ci-avant. Elle porte sur toutes les parties visibles après exécution de toutes mises à nu et démontage de tous les éléments amovibles.
+Paragraphe 1. L'inspection de requalification périodique comprend une vérification intérieure et extérieure de l'équipement sous pression et tout contrôle ou essai complémentaire jugé utile par l'expert mentionné à l'article 23 (paragraphe 4) ci-avant. Elle porte sur toutes les parties visibles après exécution de toutes mises à nu et démontage de tous les éléments amovibles.
+
+Toutefois, dans le cas des tuyauteries, cette inspection peut être limitée à un examen visuel de zones particulières identifiées dans le programme de contrôle cité à l'article 10 (paragraphe 3), sous réserve que ce dernier, éventuellement complété par d'autres vérifications, ait été approuvé par l'organisme habilité cité à l'article 23 (paragraphe 4) ci-avant.
+
+Lorsque les inspections périodiques prévues par l'article 10 ci-avant sont effectuées par un organisme habilité, l'inspection de requalification périodique peut être réalisée sans enlèvement des revêtements, dispositifs d'isolation thermique ou garnissages, selon une procédure approuvée par le ministre chargé de l'industrie, après avis de la Commission centrale des appareils à pression.
+
+Les parois intérieures des bouteilles pour appareils respiratoires destinées à la plongée subaquatique doivent être mises à nu si le revêtement éventuellement appliqué à l'intérieur n'est pas transparent.
 
 Paragraphe 2. L'inspection de requalification comprend une vérification de l'existence et de l'exactitude des documents prévus à l'article 9 ci-avant.
 
-Paragraphe 3. Le préfet peut accorder, préalablement à la requalification périodique, des aménagements à l'obligation d'enlèvement des revêtements, des dispositifs d'isolation thermique ou des garnissages sur la présentation par l'exploitant des éléments pertinents et justifiant en particulier :
-
-- qu'il existe des éléments documentaires permettant de s'assurer que les produits éventuellement utilisés pour l'isolation thermique des équipements sous pression ou que les revêtements utilisés à des fins de protection physique ou chimique des parois des équipements sous pression sont chimiquement neutres vis-à-vis de la paroi à protéger et que leur tenue mécanique est adaptée aux conditions de service ;
-
-- que les équipements sous pression concernés ont bien fait l'objet d'un suivi régulier réalisé par un organisme habilité ou un service inspection reconnu confirmant la bonne tenue des revêtements ou des garnissages des équipements sous pression (absence de dégradation mécanique, de suintement, etc.). Ce suivi doit être attesté par les rapports d'inspection périodique ;
-
-- que l'exploitation et le maintien en conservation lors d'éventuels arrêts prolongés n'ont apporté aucune dégradation de la paroi des équipements sous pression ;
-
-- que des mesures d'épaisseurs par sondage ont été effectuées ;
-
-- que des enlèvements partiels des revêtements extérieurs ou des dispositifs d'isolation thermique sont effectués, notamment dans les zones :
-
-- des points bas ;
-
-- de tronçons représentatifs des joints soudés circulaires et longitudinaux, notamment lors de soudures hétérogènes ;
-
-- des points d'attache sur les équipements sous pression soumis à des vibrations ou des cycles de fatigue ;
-
-- de soufflets de dilatation.
-
-Toutefois :
-
-- les parois extérieures de l'équipement sous pression doivent être totalement mises à nu lors d'une requalification périodique sur deux, sauf accord préalable du préfet ;
-
-- les parois intérieures des bouteilles pour appareils respiratoires destinées à la plongée subaquatique doivent être mises à nu si le revêtement éventuellement appliqué à l'intérieur n'est pas transparent.
+Paragraphe 3. Des aménagements à l'opération d'inspection mentionnée ci-avant peuvent être accordés par le préfet, préalablement à la requalification périodique, sur demande de l'exploitant exposant, d'une part, les sujétions particulières consécutives à l'application des dispositions qui précèdent, d'autre part, les éléments qui montrent que le niveau de sécurité de l'équipement sous pression reste au moins égal à celui qui serait atteint par l'application de ces mêmes dispositions.

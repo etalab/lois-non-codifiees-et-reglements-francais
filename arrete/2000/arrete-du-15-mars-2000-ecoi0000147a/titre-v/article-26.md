@@ -2,7 +2,7 @@
 
 La vérification des accessoires de sécurité comporte les opérations suivantes :
 
-a) La vérification, en accord avec les états descriptifs ou la notice d'instructions des équipements sous pression, montrant que les accessoires de sécurité présents soit sont ceux d'origine, soit assurent une protection des équipements sous pression adaptée au processus industriel développé ;
+a) La vérification, en accord avec les états descriptifs ou la notice d'instructions des équipements sous pression, montrant que les accessoires de sécurité présents soit sont ceux d'origine, soit assurent une protection des équipements sous pression au moins équivalente ;
 
 b) La réalisation, en accord avec le processus industriel et les fluides mis en oeuvre, d'un contrôle de l'état des éléments fonctionnels des accessoires de sécurité ou d'un essai de manoeuvrabilité adapté montrant qu'ils sont aptes à assurer leur fonction avec un niveau de sécurité compatible avec les conditions d'exploitation prévues ;
 
