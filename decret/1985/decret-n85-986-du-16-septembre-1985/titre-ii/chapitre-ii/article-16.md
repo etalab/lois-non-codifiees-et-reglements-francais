@@ -2,13 +2,13 @@
 
 Par dérogation aux dispositions de l'article précédent :
 
-1° Sont prononcés par arrêté conjoint du Premier ministre, du ministre chargé du budget et des ministres intéressés, et sous réserve des dispositions de l'article R. 135-2 du code de justice administrative :
+1° Le détachement des fonctionnaires appartenant au corps des administrateurs civils est prononcé par arrêté du Premier ministre et des ministres intéressés.
 
-a) Le détachement des fonctionnaires appartenant au corps des administrateurs civils ;
+2° Sous réserve des dispositions de l'article R. 135-2 du code de justice administrative, les détachements mentionnés au b du 4° et aux 5°, 7° et 14° de l'article 14 sont prononcés par arrêté des ministres intéressés, après avis conforme du ministre chargé de la fonction publique.
 
-b) Les détachements prononcés au titre de l'article 14 (4°, b, 5° et 14°).
+Avant sa signature par les ministres intéressés, le projet d'arrêté mentionné à l'alinéa précédent est transmis, avec tous les documents utiles à son appréciation, au ministre chargé de la fonction publique pour avis conforme. Cet avis est réputé acquis en l'absence d'observation de ce ministre dans un délai de dix jours ouvrés à compter de la date de réception de sa saisine.
 
-2° Est prononcé par arrêté conjoint du Premier ministre et des ministres intéressés le détachement au titre de l'article 14 (7°) ;
+Les arrêtés de détachement qui sont soumis à ce mode de publicité sont transmis, après signature des ministres intéressés, pour publication au Journal officiel de la République française, accompagnés de l'avis conforme du ministre chargé de la fonction publique ou, le cas échéant, du document établissant la saisine de celui-ci.
 
 3° Sont prononcés par arrêté du seul ministre dont ils relèvent dans leur corps d'origine, après accord du ou, le cas échéant, des ministres intéressés :
 
