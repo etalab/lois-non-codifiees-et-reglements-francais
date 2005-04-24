@@ -2,41 +2,39 @@
 
 STATUT DES ASSOCIATIONS DE CHASSE APPELÉES A BÉNÉFICIER DE LOCATIONS AMIABLES SUR LE DOMAINE PUBLIC MARITIME ET SUR LA PARTIE DES COURS D'EAU DOMANIAUX SITUÉE A L'AVAL DE LA LIMITE DE SALURE DES EAUX
 
-Art 1er - Conformément aux articles 5 et 6 de la loi du 1er juillet 1901 et en application du décret n° 75-293 du 21 avril 1975 fixant les règles d'exploitation de la chasse sur le domaine public Maritime et sur la partie des cours d'eau domaniaux située à l'aval de la limite de salure des eaux et de l'arrêté du 14 mai 1975, il est formé une association déclarée qui est soumise au présent statut.
+Art 1er-Conformément aux articles 5 et 6 de la loi du 1er juillet 1901 et en application du décret n° 75-293 du 21 avril 1975 fixant les règles d'exploitation de la chasse sur le domaine public Maritime et sur la partie des cours d'eau domaniaux située à l'aval de la limite de salure des eaux et de l'arrêté du 14 mai 1975, il est formé une association déclarée qui est soumise au présent statut.
 
-L'association prend la dénomination de : Association de chasse maritime de ...
+L'association prend la dénomination de : Association de chasse maritime de...
 
-Art. 2. - Cette association a pour but l'exploitation de la chasse sur les territoires où l'association détient le droit de chasse, dans le souci de la préservation de la faune sauvage, du développement du capital cynégétique, du respect des équilibres biologiques, notamment par le gardiennage, et, d'une façon générale, de l'amélioration des conditions d'exercice de la chasse.
+Art. 2.-Cette association a pour but l'exploitation de la chasse sur les territoires où l'association détient le droit de chasse et l'information et la formation continue des chasseurs, dans le souci de la préservation de la faune sauvage et de ses habitats, du développement du capital cynégétique, du respect des équilibres biologiques, notamment par le gardiennage, et, d'une façon générale, de l'amélioration des conditions d'exercice de la chasse. Par son action, elle contribue à la collecte des données sur la biologie des oiseaux qu'elle peut partager dans un cadre conventionnel.
 
-Art. 3. - Le siège social est fixé à ...
+Art. 3.-Le siège social est fixé à...
 
 L'association a une durée illimitée.
 
 L'année sociale commence le 1er juillet pour 6e terminer le 30 juin de l'année suivante.
 
-L'association est obligatoirement affiliée à la fédération départementale des chasseurs de ... (1).
+L'association est obligatoirement affiliée à la fédération départementale des chasseurs de... (1).
 
-Art. 4. - Est admis à adhérer à l'association de chasse avec droits et obligations définis aux articles ci-après et au règlement intérieur tout titulaire du permis de chasser ou d'une autorisation assimilée valable sur la portion de zone maritime où se trouve situé le territoire de l'association.
-
-Les demandes d'adhésion doivent être formulées par écrit et adressées avant le 1er août au président de l'association sous peine de forclusion ; elles sont validées par la présentation du permis de chasser valable pour la campagne de chasse considérée.
+Art. 4.-Est admis à adhérer à l'association de chasse avec droits et obligations définis aux articles ci-après et au règlement intérieur tout titulaire du permis de chasser ou d'une autorisation assimilée valable sur la portion de zone maritime où se trouve situé le territoire de l'association.
 
 Les demandes d'adhésion doivent être refusées à toute personne ne jouissant pas de ses droits civiques ou ayant subi une ou plusieurs condamnations pour infraction de chasse depuis moins de cinq ans.
 
 Toute invitation gratuite ou payante est interdite.
 
-Art. 5. - Toute radiation de la liste des membres de l'association dans les cas suivants : décès, démission, défaut de paiement de la cotisation dont la date limite de versement est fixée au 1er juillet, et dans l'un des cas prévus à l'article 15, est prononcée par le bureau prévu à l'article 7.
+Art. 5.-Toute radiation de la liste des membres de l'association dans les cas suivants : décès, démission, défaut de paiement de la cotisation et dans les cas prévus à l'article 15, est prononcée par le bureau prévu à l'article 7.
 
-Art. 6. - La liste des membres est tenue à jour en permanence au siège de l'association ; elle doit être communiquée aux membres de l'association sur leur demande.
+Art. 6.-La liste des membres est tenue à jour en permanence au siège de l'association ; elle doit être communiquée aux membres de l'association sur leur demande.
 
-Art. 7. - L'association est administrée par un conseil d'administration composé de ...(2) membres élus pour six ans par l'assemblée générale, rééligibles et dont un tiers est renouvelé tous les deux ans. A la fin de la deuxième et de la quatrième année les membres sortants sont désignés par tirage au sort.
+Art. 7.-L'association est administrée par un conseil d'administration composé de... (2) membres élus pour six ans par l'assemblée générale, rééligibles et dont un tiers est renouvelé tous les deux ans. A la fin de la deuxième et de la quatrième année les membres sortants sont désignés par tirage au sort.
 
 Le conseil d'administration désigne parmi ses membres un bureau composé d'un président, d'un vice-président, d'un trésorier et d'un secrétaire dont les fonctions sont gratuites.
 
 En cas de partage égal des voix au conseil d'administration, celle du président est prépondérante.
 
-Art. 8. - Le conseil d'administration se réunit au moins deux fois par an ; ses délibérations ne sont valables que si les deux tiers au moins de ses membres sont présents.
+Art. 8.-Le conseil d'administration se réunit au moins deux fois par an ; ses délibérations ne sont valables que si les deux tiers au moins de ses membres sont présents.
 
-Le président, qui doit jouir du plein exercice de ses droits civiques, est le représentant légal de l'association en toutes circonstances et notamment en justice vis-à-vis des tiers.
+Le président, qui doit jouir du plein exercice de ses droits civiques, est le représentant légal de l'association en toutes circonstances, et notamment en justice vis-à-vis des tiers. Il est habilité, sur mandat du conseil d'administration, à agir en justice tant en demande qu'en défense ou en intervention.
 
 Il signe tous les actes et pièces au nom de l'association. Il ordonnance les dépenses. Il exerce l'autorité sur les gardes particuliers de l'association.
 
@@ -52,7 +50,7 @@ Le conseil d'administration pourvoit, s'il le juge utile, aux vacances qui se pr
 
 L'administrateur élu en remplacement d'un autre dont le mandat n'est pas expiré ne demeure en fonction que pendant le temps restant à courir de l'exercice des fonctions de son prédécesseur.
 
-Art. 9. - L'assemblée générale de l'association ... se réunit au moins une fois par an avant le 15 avril sur convocation de son président annoncée dans un journal de presse locale un mois à l'avance ; les membres de l'association peuvent également demander à être convoqués par voie postale à leurs frais.
+Art. 9.-L'assemblée générale de l'association... se réunit au moins une fois par an avant le 30 juin sur convocation de son président annoncée dans un journal de presse locale un mois à l'avance ; les membres de l'association peuvent également demander à être convoqués par voie postale à leurs frais.
 
 Son bureau de séance est celui du conseil d'administration.
 
@@ -72,11 +70,11 @@ Elle se prononce au vu des propositions du bureau sur toutes les questions conce
 
 Des assemblées générales supplémentaires peuvent être convoquées sur décision du bureau à la demande de la moitié au moins des membres de l'association.
 
-Les délibérations sont prises à la majorité des voix exprimées par les membres présents ou représentés de l'assemblée. Chaque sociétaire ne peut disposer de plus de dix pouvoirs. En cas de partage égal des voix, celle du président est prépondérante.
+Les délibérations sont prises à la majorité des voix exprimées par les membres présents ou représentés de l'assemblée. Chaque sociétaire ne peut disposer de plus de cinq pouvoirs. En cas de partage égal des voix, celle du président est prépondérante.
 
 Les délibérations de l'assemblée générale font l'objet de procès-verbaux inscrits sur un registre spécial signé par le président et le secrétaire.
 
-Art. 10. - Les ressources de l'association de chasse se composent :
+Art. 10.-Les ressources de l'association de chasse se composent :
 
 a) Des cotisations annuelles versées par les sociétaires ainsi que des cotisations complémentaires nécessitées par un déficit éventuel ;
 
@@ -86,9 +84,11 @@ c) Du montant des amendes sociales infligées par le bureau aux membres de l'ass
 
 d) Des subventions ;
 
-e) Des indemnités et dommages-intérêts qui pourraient lui être attribués.
+e) Des indemnités et dommages-intérêts qui pourraient lui être attribués ;
 
-Art. 11. - L'assemblée générale fixe annuellement le montant des cotisations :
+f) Dons manuels et dons des établissements d'utilité publique.
+
+Art. 11.-L'assemblée générale fixe annuellement le montant des cotisations :
 
 1. Des sociétaires domiciliés dans la ou les communes dont le territoire borde le littoral ou dans les communes limitrophes des précédentes, sur lequel l'association est détentrice du droit de chasse ;
 
@@ -102,9 +102,7 @@ Le versement de la cotisation est constaté par la remise d'une carte de chasse 
 
 La cotisation versée n'est remboursée en aucun cas.
 
-Elle est exigible chaque année avant le 1er juillet et, pour les nouveaux ahérents, à l'adhésion.
-
-Art. 12. - Toutes les ressources prévues à l'article 10 sont entièrement consacrées à la réalisation des buts de l'association, tels qu'ils figurent à l'article 2 du présent statut.
+Art. 12.-Toutes les ressources prévues à l'article 10 sont entièrement consacrées à la réalisation des buts de l'association, tels qu'ils figurent à l'article 2 du présent statut.
 
 Une partie des ressources est obligatoirement employée ;
 
@@ -112,13 +110,13 @@ Au paiement du prix des locations de chasse ;
 
 Au paiement des cotisations dues à la fédération départementale des chasseurs, tant en ce qui concerne l'affiliation que la garderie spéciale à laquelle elle est tenue d'adhérer.
 
-Art. 13. - Le territoire cynégétique de l'association ... est composé des territoires dont la nomenclature figure en annexe du présent statut.
+Art. 13.-Le territoire cynégétique de l'association... est composé des territoires dont la nomenclature figure en annexe du présent statut.
 
-La qualité de membre de l'association ... confère l'exercice du droit de chasse sur l'ensemble du territoire dans les conditions de son règlement intérieur et de chasse.
+La qualité de membre de l'association... confère l'exercice du droit de chasse sur l'ensemble du territoire dans les conditions de son règlement intérieur et de chasse.
 
-Art. 14. - L'association de ... peut constituer une (ou plusieurs) réserve(s) qui peut être approuvée par le ministre chargé de la chasse et dont la situation est précisée au règlement intérieur et de chasse.
+Art. 14.-L'association peut demander la constitution d'une ou plusieurs réserves de chasse en application des articles R. * 222-82 à R. * 222-92 du code de l'environnement. La situation de ces réserves est précisée au règlement intérieur et de chasse.
 
-Art. 15. - Le conseil d'administration peut prononcer l'exclusion à temps ou définitive d'un membre de l'association en cas de condamnation pénale ou de violation du règlement intérieur.
+Art. 15.-Le conseil d'administration peut prononcer l'exclusion à temps ou définitive d'un membre de l'association en cas de condamnation pénale ou de violation du règlement intérieur.
 
 Le conseil d'administration est convoqué à cet effet avec mention de la question à l'ordre du jour. L'intéressé est invité, par lettre recommandée adressée au moins huit jours à l'avance, à se présenter devant le conseil d'administration ou à lui faire parvenir des explications.
 
@@ -130,7 +128,7 @@ Il détermine notamment, dans le respect des règlements et des cahiers des char
 
 a) Les restrictions éventuelles à l'exercice du droit de chasse telles que :
 
-Interdiction de chasse dans la (ou les) réserve(s) de l'association prévue(s) à l'article 14 du statut ;
+Interdiction de chasse dans la (ou les) réserve (s) de l'association prévue (s) à l'article 14 du statut ;
 
 Limitation des modes de chasse pour toutes ou certaines espèces de gibier ;
 
@@ -150,15 +148,15 @@ e) Les conditions de l'information et des connaissances cynégétiques des chass
 
 Toute modification à ce règlement est décidée en assemblée générale sur proposition du conseil d'administration.
 
-Art. 17. - La dissolution de l'association ne peut être prononcée que par une assemblée générale extraordinaire, convoquée spécialement à cet effet et comprenant, au moins, la moitié plus un des membres en exercice.
+Art. 17.-La dissolution de l'association ne peut être prononcée que par une assemblée générale extraordinaire, convoquée spécialement à cet effet et comprenant, au moins, la moitié plus un des membres en exercice.
 
 Si cette proportion n'est pas atteinte, l'assemblée est convoquée de nouveau, mais à quinze jours au moins d'intervalle et, cette fois, elle peut valablement délibérer, quel que soit le nombre des membres présents.
 
 Dans tous les cas, la dissolution ne peut être votée qu'à la majorité des deux tiers des membres présents.
 
-Art. 18. - En cas de dissolution, l'actif qui pourrait apparaître sera affecté à l'achat du gibier de repeuplement mis à la disposition du bureau pour être relâché dans les conditions fixées par l'assemblée générale extraordinaire.
+Art. 18.-En cas de dissolution, l'actif qui pourrait apparaître sera affecté à l'achat du gibier de repeuplement mis à la disposition du bureau pour être relâché dans les conditions fixées par l'assemblée générale extraordinaire.
 
-Art. 19. - Le bureau remplira les formalités de déclaration et de publication prescrites par la loi du 1er juillet 1901 et par le décret du 16 août 1901. A cet effet, tous pouvoirs sont confiés au président.
+Art. 19.-Le bureau remplira les formalités de déclaration et de publication prescrites par la loi du 1er juillet 1901 et par le décret du 16 août 1901. A cet effet, tous pouvoirs sont confiés au président.
 
 (1) Fédération de la situation du lot, lorsque celui-ci est situé dans un seul département ; celle du département comportant la plus vaste surface, lorsque le lot s'étend sur plusieurs départements (art. 5 du décret).
 
