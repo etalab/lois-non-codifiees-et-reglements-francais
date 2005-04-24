@@ -7,6 +7,7 @@
 - [Loi n° 2005-32 du 18 janvier 2005 (SOCX0400145L)](loi-n-2005-32-du-18-janvier-2005-socx0400145l)
 - [Loi n° 2005-357 du 20 avril 2005 (EQUX0400177L)](loi-n-2005-357-du-20-avril-2005-equx0400177l)
 - [Loi n° 2005-370 du 22 avril 2005 (SANX0407815L)](loi-n-2005-370-du-22-avril-2005-sanx0407815l)
+- [Loi n° 2005-380 du 23 avril 2005 (MENX0400282L)](loi-n-2005-380-du-23-avril-2005-menx0400282l)
 - [Loi n° 2005-47 du 26 janvier 2005 (JUSX0407800L)](loi-n-2005-47-du-26-janvier-2005-jusx0407800l)
 - [Loi n° 2005-67 du 28 janvier 2005 (ECOX0307005L)](loi-n-2005-67-du-28-janvier-2005-ecox0307005l)
 - [Loi n° 91-429 du 13 mai 1991 (INTX9100005L)](loi-n-91-429-du-13-mai-1991-intx9100005l)
