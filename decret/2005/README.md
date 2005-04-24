@@ -126,6 +126,7 @@
 - [Décret n°2005-360 du 13 avril 2005 (INTC0500079D)](decret-n2005-360-du-13-avril-2005-intc0500079d)
 - [Décret n°2005-361 du 13 avril 2005 (INTB0500080D)](decret-n2005-361-du-13-avril-2005-intb0500080d)
 - [Décret n°47-77 du 13 janvier 1947](decret-n47-77-du-13-janvier-1947)
+- [Décret n°2004-58 du 14 janvier 2004 (SOCN0312066D)](decret-n2004-58-du-14-janvier-2004-socn0312066d)
 - [Décret n°2005-119 du 14 février 2005 (MENF0500001D)](decret-n2005-119-du-14-fevrier-2005-menf0500001d)
 - [Décret n°2005-120 du 14 février 2005 (MENF0500002D)](decret-n2005-120-du-14-fevrier-2005-menf0500002d)
 - [Décret n°2005-121 du 14 février 2005 (MENF0500003D)](decret-n2005-121-du-14-fevrier-2005-menf0500003d)
