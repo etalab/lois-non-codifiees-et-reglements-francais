@@ -8,7 +8,11 @@ L'agence est dotée d'un comité financier qui est consulté sur :
 
 Le conseil d'administration peut consulter le comité sur toute autre question d'ordre financier.
 
-Le comité financier est présidé par le directeur général de l'agence. Il comporte huit représentants des activités économiques intéressées par l'action de l'établissement, dont, d'une part, les membres du conseil d'administration mentionnés au 3° de l'article 2 et, d'autre part, trois membres désignés pour la durée du mandat des membres du conseil d'administration par arrêté du ministre chargé de l'énergie.
+Le comité financier, qui est présidé par le directeur général de l'agence, comprend :
+
+1° Cinq représentants des activités économiques intéressées par l'action de l'établissement, dont les quatre membres du conseil d'administration mentionnés au 3° de l'article 2 et une personnalité désignée par le ministre chargé de l'énergie ;
+
+2° Un représentant du ministre chargé du budget.
 
 Le commissaire du Gouvernement et le contrôleur d'Etat de l'établissement peuvent assister aux réunions de ce comité.
 
