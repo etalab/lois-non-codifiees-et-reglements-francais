@@ -1,0 +1,3 @@
+# Article 5
+
+Le montant de la dotation annuelle de financement des missions d'intérêt général et d'aide à la contractualisation de chaque établissement est fixé par le directeur de l'agence régionale de l'hospitalisation en fonction des engagements relatifs à chacune des missions ou activités prévues aux articles 1er à 4 du présent arrêté figurant au contrat d'objectifs et de moyens de l'établissement ou, à défaut, dans un engagement contractuel spécifique et dans la limite du montant de la dotation régionale fixé en application des dispositions de l'article L. 162-22-13 du code de la sécurité sociale.
