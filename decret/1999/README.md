@@ -42,7 +42,6 @@
 - [Décret n°99-476 du 2 juin 1999 (MCCB9900313D)](decret-n99-476-du-2-juin-1999-mccb9900313d)
 - [Décret n°99-551 du 2 juillet 1999 (JUSA9900158D)](decret-n99-551-du-2-juillet-1999-jusa9900158d)
 - [Décret n°99-554 du 2 juillet 1999 (MESS9921612D)](decret-n99-554-du-2-juillet-1999-mess9921612d)
-- [Décret n°99-555 du 2 juillet 1999 (AGRA9900465D)](decret-n99-555-du-2-juillet-1999-agra9900465d)
 - [Décret n°99-557 du 2 juillet 1999 (ATEN9970040D)](decret-n99-557-du-2-juillet-1999-aten9970040d)
 - [Décret n°99-572 du 2 juillet 1999 (ECOI9900270D)](decret-n99-572-du-2-juillet-1999-ecoi9900270d)
 - [Décret n°99-66 du 2 février 1999 (ECOI9801125D)](decret-n99-66-du-2-fevrier-1999-ecoi9801125d)
