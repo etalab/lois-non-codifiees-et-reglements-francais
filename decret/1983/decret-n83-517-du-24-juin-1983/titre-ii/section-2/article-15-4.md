@@ -20,4 +20,4 @@ c) Une note présentant les principales orientations de leur activité.
 
 Ces pièces doivent avoir fait l'objet d'une délibération de leur conseil de gestion.
 
-L'agent comptable adresse le compte financier susmentionné et les pièces annexes nécessaires, avant l'expiration du huitième mois suivant la clôture de l'exercice, au trésorier-payeur général qui, après l'avoir mis en état d'examen, le transmet à la Cour des comptes.
+L'agent comptable adresse le compte financier susmentionné et les pièces annexes nécessaires, avant l'expiration du sixième mois suivant la clôture de l'exercice, au trésorier-payeur général qui, après l'avoir mis en état d'examen, le transmet à la Cour des comptes avant l'expiration du dixième mois qui suit la clôture de l'exercice.

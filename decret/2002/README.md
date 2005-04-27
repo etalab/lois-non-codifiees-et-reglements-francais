@@ -45,6 +45,7 @@
 - [Décret n°95-402 du 13 avril 1995 (SPSS9403399D)](decret-n95-402-du-13-avril-1995-spss9403399d)
 - [Décret n°2002-61 du 14 janvier 2002 (FPPA0100148D)](decret-n2002-61-du-14-janvier-2002-fppa0100148d)
 - [Décret n°2002-67 du 14 janvier 2002 (MENF0102792D)](decret-n2002-67-du-14-janvier-2002-menf0102792d)
+- [Décret n°94-39 du 14 janvier 1994 (RESK9301635D)](decret-n94-39-du-14-janvier-1994-resk9301635d)
 - [Décret n°2002-358 du 15 mars 2002 (EQUU0200563D)](decret-n2002-358-du-15-mars-2002-equu0200563d)
 - [Décret n°2002-69 du 15 janvier 2002 (RECF0100351D)](decret-n2002-69-du-15-janvier-2002-recf0100351d)
 - [Décret n°86-1037 du 15 septembre 1986](decret-n86-1037-du-15-septembre-1986)

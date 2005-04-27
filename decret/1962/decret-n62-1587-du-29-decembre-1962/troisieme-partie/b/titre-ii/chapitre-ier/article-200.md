@@ -6,4 +6,4 @@ L'agent comptable adresse aux débiteurs les factures correspondantes et reçoit
 
 Un effet de commerce ne peut être accepté en règlement qu'avec l'accord de l'ordonnateur.
 
-Tous les droits acquis au cours d'un exercice doivent être pris en compte au titre de cet exercice et au plus tard dans un délai de deux mois suivant sa clôture.
+Tous les droits acquis au cours d'un exercice doivent être pris en compte au titre de cet exercice.
