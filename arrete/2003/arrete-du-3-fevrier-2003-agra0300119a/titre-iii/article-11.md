@@ -1,28 +1,20 @@
 # Article 11
 
-Il est institué auprès de chaque directeur général, directeur et chef de service d'administration centrale un comité technique paritaire spécial.
+Il est institué auprès du secrétaire général, de chaque directeur général, de certains directeurs et chefs de service d'administration centrale un comité technique paritaire spécial.
 
 Les comités techniques paritaires spéciaux sont mis en place pour :
 
-- la direction générale de l'administration ;
+- le secrétariat général ;
 
 - la direction générale de l'alimentation ;
 
 - la direction générale de l'enseignement et de la recherche ;
 
-- la direction des affaires financières ;
-
-- la direction de l'espace rural et de la forêt ;
-
-- la direction des exploitations, de la politique sociale et de l'emploi ;
+- la direction générale de la forêt et des affaires rurales ;
 
 - la direction des politiques économique et internationale ;
 
 - la direction des pêches maritimes et de l'aquaculture ;
-
-- le service de la communication ;
-
-- le service des affaires juridiques ;
 
 - les services directement rattachés au ministre (cabinet, bureau du cabinet, conseils généraux, inspection générale de l'agriculture, mission défense, contrôle financier) ;
 
