@@ -2,6 +2,8 @@
 
 L'application REC dispose de liaisons informatisées avec les applications suivantes :
 
+L'application "système informatisé de suivi et de prélèvement des échéanciers de droit et amiables" (SISPEO) de la direction générale de la comptabilité publique ;
+
 Les applications de la direction générale des impôts en charge de l'établissement des rôles et de l'émission des dégrèvements ;
 
 L'application Restes à recouvrer (RAR) de la direction de la comptabilité publique lors du basculement en procédure contentieuse ;
