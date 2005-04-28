@@ -31,7 +31,6 @@
 - [Arrêté du 24 mai 1968](arrete-du-24-mai-1968)
 - [Arrêté du 25 octobre 1968](arrete-du-25-octobre-1968)
 - [Arrêté du 26 juillet 1968](arrete-du-26-juillet-1968)
-- [Arrêté du 26 juin 1968](arrete-du-26-juin-1968)
 - [Arrêté du 27 juin 1968](arrete-du-27-juin-1968)
 - [Arrêté du 27 novembre 1969](arrete-du-27-novembre-1969)
 - [Arrêté du 29 mars 1968](arrete-du-29-mars-1968)

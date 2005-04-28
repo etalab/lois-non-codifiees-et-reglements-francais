@@ -1,3 +1,0 @@
-# ANNEXE III : CALENDRIER D'APPLICATION AUX INSTALLATIONS EXISTANTES
-
-- [Article Annexe III](article-annexe-iii.md)
