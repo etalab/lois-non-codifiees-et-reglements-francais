@@ -1,0 +1,3 @@
+# Article 1
+
+Sous réserve des dispositions de l'article 3 ci-après, les contrats de travail des salariés de la Caisse autonome nationale de la sécurité sociale dans les mines sont transférés collectivement à la Caisse des dépôts et consignations à compter du 1er mai 2005. Les droits de l'employeur précédemment exercés au nom de la Caisse autonome nationale de la sécurité sociale dans les mines par son président, son directeur et son conseil d'administration ou les obligations lui incombant à ce titre sont exercés par les instances compétentes de la Caisse des dépôts et consignations ou incombent à celles-ci à compter de cette date.
