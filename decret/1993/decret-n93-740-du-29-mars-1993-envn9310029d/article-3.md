@@ -8,7 +8,7 @@ Le comité de l'environnement polaire est saisi par :
 
 - les ministres chargés des affaires étrangères, de l'environnement, des départements et territoires d'outre-mer et de la recherche ;
 
-- le président de l'Institut français pour la recherche et la technologie polaires - Expéditions Paul-Emile Victor ;
+- le président de l'Institut polaire français Paul-Emile Victor ;
 
 - l'administrateur supérieur des Terres australes et antarctiques françaises (T.A.A.F.).
 
