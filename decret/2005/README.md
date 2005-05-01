@@ -187,6 +187,7 @@
 - [Décret n°2005-238 du 17 mars 2005 (INTX0500053D)](decret-n2005-238-du-17-mars-2005-intx0500053d)
 - [Décret n°2005-242 du 17 mars 2005 (SOCF0510422D)](decret-n2005-242-du-17-mars-2005-socf0510422d)
 - [Décret n°2005-243 du 17 mars 2005 (SOCF0510423D)](decret-n2005-243-du-17-mars-2005-socf0510423d)
+- [Décret n°2005-253 du 17 mars 2005 (SOCN0510299D)](decret-n2005-253-du-17-mars-2005-socn0510299d)
 - [Décret n°2005-256 du 17 mars 2005 (MENF0500158D)](decret-n2005-256-du-17-mars-2005-menf0500158d)
 - [Décret n°2005-34 du 17 janvier 2005 (DEFD0401450D)](decret-n2005-34-du-17-janvier-2005-defd0401450d)
 - [Décret n°2005-35 du 17 janvier 2005 (DEFD0401451D)](decret-n2005-35-du-17-janvier-2005-defd0401451d)
