@@ -236,7 +236,6 @@
 - [Décret n°98-1014 du 9 novembre 1998 (INTB9800278D)](decret-n98-1014-du-9-novembre-1998-intb9800278d)
 - [Décret n°98-1019 du 9 novembre 1998 (ECOF9800031D)](decret-n98-1019-du-9-novembre-1998-ecof9800031d)
 - [Décret n°98-1108 du 9 décembre 1998 (MESF9811264D)](decret-n98-1108-du-9-decembre-1998-mesf9811264d)
-- [Décret n°98-1109 du 9 décembre 1998 (MESF9811265D)](decret-n98-1109-du-9-decembre-1998-mesf9811265d)
 - [Décret n°98-1112 du 9 décembre 1998 (ECOT9852755D)](decret-n98-1112-du-9-decembre-1998-ecot9852755d)
 - [Décret n°98-1129 du 9 décembre 1998 (INTM9800027D)](decret-n98-1129-du-9-decembre-1998-intm9800027d)
 - [Décret n°98-150 du 9 mars 1998 (ATEN9860019D)](decret-n98-150-du-9-mars-1998-aten9860019d)

@@ -93,7 +93,6 @@
 - [Décret n°2002-1570 du 24 décembre 2002 (SANS0223593D)](decret-n2002-1570-du-24-decembre-2002-sans0223593d)
 - [Décret n°2002-1571 du 24 décembre 2002 (SANS0224087D)](decret-n2002-1571-du-24-decembre-2002-sans0224087d)
 - [Décret n°2000-815 du 25 août 2000 (FPPA0000085D)](decret-n2000-815-du-25-aout-2000-fppa0000085d)
-- [Décret n°2002-400 du 25 mars 2002 (MESF0210302D)](decret-n2002-400-du-25-mars-2002-mesf0210302d)
 - [Décret n°2002-598 du 25 avril 2002 (MESH0220700D)](decret-n2002-598-du-25-avril-2002-mesh0220700d)
 - [Décret n°2002-628 du 25 avril 2002 (MCCX0200050D)](decret-n2002-628-du-25-avril-2002-mccx0200050d)
 - [Décret n°2002-629 du 25 avril 2002 (MCCT0200255D)](decret-n2002-629-du-25-avril-2002-mcct0200255d)

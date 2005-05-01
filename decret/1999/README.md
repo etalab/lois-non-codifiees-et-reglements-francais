@@ -153,7 +153,6 @@
 - [Décret n°99-563 du 6 juillet 1999 (MESH9921845D)](decret-n99-563-du-6-juillet-1999-mesh9921845d)
 - [Décret n°99-564 du 6 juillet 1999 (MESH9921844D)](decret-n99-564-du-6-juillet-1999-mesh9921844d)
 - [Décret n°99-565 du 6 juillet 1999 (MESH9921843D)](decret-n99-565-du-6-juillet-1999-mesh9921843d)
-- [Décret n°99-566 du 6 juillet 1999 (MESN9921756D)](decret-n99-566-du-6-juillet-1999-mesn9921756d)
 - [Décret n°99-567 du 6 juillet 1999 (FPPA9910010D)](decret-n99-567-du-6-juillet-1999-fppa9910010d)
 - [Décret n°99-590 du 6 juillet 1999 (ECOF9920898D)](decret-n99-590-du-6-juillet-1999-ecof9920898d)
 - [Décret n°99-6 du 6 janvier 1999 (MAEF9810035D)](decret-n99-6-du-6-janvier-1999-maef9810035d)
