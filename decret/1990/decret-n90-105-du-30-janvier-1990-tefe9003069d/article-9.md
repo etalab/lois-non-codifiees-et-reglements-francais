@@ -1,5 +1,0 @@
-# Article 9
-
-A compter de la date de publication du présent décret, la durée [*maximum*] des stages conclus en application des décrets n° 84-919 du 16 octobre 1984 modifié portant application du livre IX du code du travail aux travaux d'utilité collective, n° 84-1140 du 19 décembre 1984 modifié relatif à l'application dans les départements d'outre-mer des travaux d'utilité collective, n° 87-185 du 20 mars 1987 relatif aux travaux d'utilité collective, n° 87-236 du 3 avril 1987 modifié relatif aux programmes d'insertion locale, n° 89-546 du 28 juillet 1989 relatif aux activités organisées au profit des bénéficiaires du revenu minimum d'insertion et modifiant le décret n° 88-1111 du 12 décembre 1988 relatif à la détermination du revenu minimum d'insertion et n° 89-547 du 28 juillet 1989 relatif aux programmes d'insertion locale et aux activités d'insertion organisées dans le cadre du revenu minimum d'insertion ne peut excéder trois mois.
-
-Les décrets précités sont abrogés à compter du premier jour du quatrième mois civil suivant la date de publication du présent décret.
