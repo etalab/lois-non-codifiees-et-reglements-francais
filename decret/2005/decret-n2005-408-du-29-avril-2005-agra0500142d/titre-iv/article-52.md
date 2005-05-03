@@ -1,0 +1,3 @@
+# Article 52
+
+Le ministre des solidarités, de la santé et de la famille, le ministre de l'économie, des finances et de l'industrie, le ministre de la fonction publique et de la réforme de l'Etat, le ministre de l'agriculture, de l'alimentation, de la pêche et de la ruralité, le ministre des petites et moyennes entreprises, du commerce, de l'artisanat, des professions libérales et de la consommation, le ministre délégué au budget et à la réforme budgétaire, porte-parole du Gouvernement, et le secrétaire d'Etat à l'agriculture, à l'alimentation, à la pêche et à la ruralité sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.

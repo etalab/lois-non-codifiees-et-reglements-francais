@@ -7,3 +7,4 @@
 - [Section 6 : Positions.](section-6)
 - [Section 7 : Détachement de fonctionnaires d'autres corps dans les corps régis par le présent décret.](section-7)
 - [Section 8 : Dispositions relatives à l'expatriation.](section-8)
+- [Section 9 : Dispositions diverses.](section-9)

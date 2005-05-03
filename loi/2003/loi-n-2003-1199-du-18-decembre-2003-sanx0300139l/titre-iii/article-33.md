@@ -28,7 +28,7 @@ A. - Les prestations d'hospitalisation ainsi que les consultations et actes ment
 
 1° Une fraction du tarif des prestations d'hospitalisation fixé en application des dispositions du 1° du I de l'article L. 162-22-10 du code de la sécurité sociale ou du tarif des consultations et actes fixé en application des dispositions de l'article L. 162-14-1 du même code, déduction faite, le cas échéant, de la participation de l'assuré correspondant à cette fraction ;
 
-2° Une dotation annuelle complémentaire déterminée dans les conditions prévues au D du présent V.
+2° Une dotation annuelle complémentaire déterminée dans les conditions prévues au D du présent V. Les litiges relatifs à la dotation annuelle complémentaire sont formés devant le tribunal interrégional de la tarification sanitaire et sociale mentionné à l'article L. 351-1 du code de l'action sociale et des familles.
 
 La fraction mentionnée au 1° est fixée par l'Etat dans les conditions prévues à l'article L. 162-22-10 du même code et ne peut être inférieure à 50 % en 2008.
 
