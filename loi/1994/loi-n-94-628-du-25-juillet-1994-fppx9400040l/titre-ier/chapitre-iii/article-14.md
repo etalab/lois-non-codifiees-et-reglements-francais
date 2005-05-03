@@ -2,7 +2,7 @@
 
 I Il est créé, à partir du 1er janvier 1995, un fonds pour l'emploi hospitalier, qui a pour objet de prendre en charge :
 
-1° Les deux tiers de l'indemnité exceptionnelle allouée aux agents qui bénéficient des dispositions de l'ordonnance n° 82-298 du 31 mars 1982 précitée ;
+1° Les deux tiers de l'indemnité exceptionnelle allouée aux agents qui bénéficient des dispositions de l'article 4 de l'ordonnance n° 82-298 du 31 mars 1982 précitée et, à compter du 1er janvier 2004, les deux tiers de la différence entre le traitement, l'indemnité de résidence, les primes et les indemnités de toute nature correspondant aux quotités de travail à temps partiel réellement effectuées et le traitement et les rémunérations accessoires effectivement servies aux bénéficiaires de la cessation progressive d'activité rémunérés dans les conditions prévues par l'article 2-1 de la même ordonnance ;
 
 2° Les deux tiers de la différence entre la rémunération versée aux agents autorisés à travailler à temps partiel dans une proportion de 80 p. 100 ou 90 p. 100 du temps plein et celle qui résulterait d'une réduction proportionnelle de leur traitement indiciaire.
 
