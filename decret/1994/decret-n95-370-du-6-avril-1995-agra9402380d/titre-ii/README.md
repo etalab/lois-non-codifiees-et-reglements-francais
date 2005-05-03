@@ -6,4 +6,3 @@
 - [Section 4 : Dispositions statutaires relatives au corps des techniciens de formation et de recherche](section-4)
 - [Section 5 : Dispositions statutaires relatives au corps des adjoints techniques de formation et de recherche](section-5)
 - [Section 6 : Dispositions statutaires relatives au corps des agents techniques de formation et de recherche](section-6)
-- [Section 7 : Dispositions relatives au corps des agents des services techniques de formation et de recherche](section-7)
