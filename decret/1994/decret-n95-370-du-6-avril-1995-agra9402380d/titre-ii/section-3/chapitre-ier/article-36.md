@@ -4,4 +4,6 @@ Les assistants ingénieurs sont chargés de veiller à la préparation et au con
 
 Ils ont une mission générale de valorisation des résultats de la recherche et de diffusion de l'information scientifique et technique. Ils peuvent en outre se voir confier des missions de coopération internationale ou d'administration.
 
+Par dérogation aux dispositions de l'article 3, ils peuvent exercer leurs fonctions à l'administration centrale et dans les services déconcentrés du ministère de l'agriculture.
+
 Ils peuvent participer à l'encadrement de personnels techniques ou administratifs des établissements où ils exercent.

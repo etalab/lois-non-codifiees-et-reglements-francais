@@ -6,4 +6,4 @@ Les assistants ingénieurs sont nommés par arrêté du ministre chargé de l'ag
 
 2° Au choix.
 
-Lorsque six nominations ont été effectuées dans le corps à l'issue des concours prévus au 1° ci-dessus, un assistant ingénieur est nommé parmi les fonctionnaires appartenant au corps des techniciens de formation et de recherche, justifiant de huit années de services accomplis en position d'activité ou de détachement dans ce corps, âgés de plus de quarante-cinq ans et inscrits sur une liste d'aptitude annuelle établie, sur proposition des responsables d'établissement et après avis de la commission administrative paritaire compétente.
+Lorsque cinq nominations ont été effectuées dans le corps au titre du 1° ci-dessus et de l'article 86, un assistant ingénieur est nommé parmi les fonctionnaires appartenant au corps des techniciens de formation et de recherche, justifiant de huit années de services publics, dont au moins trois années en catégorie B, âgés de plus de trente-cinq ans et inscrits sur une liste d'aptitude annuelle établie, sur proposition des responsables d'établissement et après avis de la commission administrative paritaire compétente.

@@ -4,7 +4,7 @@ Les avancements au grade d'adjoint technique principal sont prononcés par le mi
 
 Peuvent être promus les adjoints techniques qui ont été inscrits, sur proposition des responsables d'établissement, après avis de la commission administrative paritaire compétente, sur un tableau d'avancement annuel comportant un nombre de noms qui ne peut être supérieur de plus de 20 p. 100 à celui des emplois vacants ou susceptibles de le devenir dans le grade d'adjoint technique principal.
 
-Pour pouvoir être inscrits à ce tableau d'avancement, les adjoints techniques doivent avoir atteint au moins le sixième échelon de leur grade et justifier d'au moins onze ans de services dans le corps d'adjoint technique ou d'agent technique de formation et de recherche, effectués en position d'activité ou de détachement, dont au moins trois ans en qualité d'adjoint technique.
+Pour pouvoir être inscrits à ce tableau d'avancement, les adjoints techniques doivent avoir atteint au moins le sixième échelon de leur grade et justifier d'au moins onze années de services effectifs en catégorie C dont au moins trois ans en qualité d'adjoint technique.
 
 Les agents promus au grade d'adjoint technique principal sont reclassés dans ce grade à l'échelon qui comporte un indice égal ou, à défaut, immédiatement supérieur à celui qu'ils détenaient dans leur grade d'origine.
 

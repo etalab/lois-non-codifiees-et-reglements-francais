@@ -1,17 +1,7 @@
 # Article 48
 
-I. - Les fonctionnaires appartenant à un corps, cadre d'emplois ou emploi classé dans les catégories C ou D ou de même niveau, nommés dans le corps des techniciens de formation et de recherche, soit au choix, soit à la suite d'un concours sont classés lors de leur titularisation dans le grade de début de ce corps sur la base de la durée moyenne fixée à l'article 52 ci-dessous pour chaque avancement d'échelon en prenant en compte une fraction de leur ancienneté dans leur grade d'origine.
+Les agents nommés dans le corps des techniciens qui avaient auparavant la qualité d'agents non titulaires sont classés lors de leur titularisation dans le grade de début à un échelon déterminé en prenant en compte les services accomplis dans un emploi de niveau au moins équivalent à celui de la catégorie B à raison des trois quarts de leur durée, et ceux accomplis dans un emploi de niveau inférieur à raison de la moitié de leur durée.
 
-L'ancienneté dans le grade d'origine correspond, dans la limite maximale de vingt-huit ans pour un grade de la catégorie D ou C, au temps nécessaire pour parvenir, sur la base des durées moyennes fixées par le statut particulier du corps, à l'échelon occupé par l'intéressé, augmenté de l'ancienneté acquise dans cet échelon.
+L'ancienneté acquise dans des services privés, en France ou à l'étranger, dans des fonctions équivalentes à celles de technicien, est prise en compte à raison de la moitié de sa durée.
 
-Cette ancienneté est retenue à raison de :
-
-- six douzièmes, s'il s'agit d'un grade classé dans la catégorie D ;
-
-- huit douzièmes pour les douze premières années et sept douzièmes pour le surplus, s'il s'agit d'un grade classé dans la catégorie C.
-
-II. - Les fonctionnaires appartenant à un corps, cadre d'emplois ou emploi classé dans la catégorie C ou de même niveau, titulaires d'un grade dont l'indice brut terminal est au moins égal à 449, sont classés dans le grade de technicien de classe normale, à un échelon doté d'un indice égal ou, à défaut, immédiatement supérieur à celui détenu dans leur corps d'origine. Dans la limite de l'ancienneté moyenne exigée à l'article 52 ci-dessous pour une promotion à l'échelon supérieur, ils conservent l'ancienneté d'échelon qu'ils avaient acquise dans leur précédent grade lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle que leur aurait procurée un avancement d'échelon dans leur ancienne situation.
-
-Les fonctionnaires nommés alors qu'ils ont atteint l'échelon le plus élevé de leur précédent grade conservent leur ancienneté d'échelon dans les mêmes conditions et limites lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle que leur avait procurée leur nomination à l'échelon de leur grade d'origine.
-
-L'application des dispositions du II ci-dessus ne peut avoir pour effet de placer les intéressés dans une situation moins favorable que celle qui aurait été la leur s'ils étaient demeurés dans l'échelle 5 de rémunération.
+Les intéressés perçoivent, pendant la durée de leur stage, la rémunération afférente à l'échelon du grade de début de ce corps déterminé en application du présent article.

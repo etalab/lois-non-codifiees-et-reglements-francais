@@ -1,7 +1,11 @@
 # Article 49
 
-Les agents nommés dans le corps des techniciens de formation et de recherche qui, antérieurement à leur nomination, n'avaient pas la qualité de fonctionnaire sont classés dans le grade de début de ce corps, à un échelon déterminé en prenant en compte les services publics accomplis dans un emploi du niveau de la catégorie B, à raison des trois quarts de leur durée, et ceux accomplis dans un emploi de niveau inférieur, à raison de la moitié de leur durée.
+Les techniciens de formation et de recherche recrutés en application des dispositions du 3° de l'article 46 du présent décret bénéficient, sur leur demande, au moment de leur titularisation, d'une bonification d'ancienneté d'une durée :
 
-Ce classement ne doit, en aucun cas, aboutir à des situations plus favorables que celles qui résulteraient d'un reclassement à un échelon comportant un traitement égal ou, à défaut, immédiatement supérieur à celui perçu dans le précédent emploi, avec conservation de l'ancienneté d'échelon acquise dans cet emploi dans les conditions définies aux deuxième et troisième alinéas de l'article 47 ci-dessus.
+a) D'un an, lorsque la durée des activités ou mandats mentionnés au 3° de l'article 46 dont ils justifient est inférieure à six ans ;
 
-L'ancienneté acquise dans l'exercice de services privés, dans des fonctions équivalentes à celles de technicien de formation et de recherche, est prise en compte à raison de la moitié de sa durée.
+b) De deux ans, lorsque cette durée est au moins égale à six ans, mais inférieure à neuf ans ;
+
+c) De trois ans, lorsqu'elle est de neuf ans et plus.
+
+Ils peuvent opter entre la bonification prévue au premier alinéa du présent article et la prise en compte, au moment de leur titularisation, de l'ancienneté acquise au titre des services antérieurs, en application des dispositions prévues par le présent décret.
