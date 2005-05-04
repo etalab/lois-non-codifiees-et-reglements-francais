@@ -242,8 +242,6 @@
 - [Décret n°97-133 du 12 février 1997 (DEFP9701072D)](decret-n97-133-du-12-fevrier-1997-defp9701072d)
 - [Décret n°97-134 du 12 février 1997 (ECOT9736554D)](decret-n97-134-du-12-fevrier-1997-ecot9736554d)
 - [Décret n°97-138 du 12 février 1997 (ECOT9620041D)](decret-n97-138-du-12-fevrier-1997-ecot9620041d)
-- [Décret n°97-230 du 12 mars 1997 (INTA9700062D)](decret-n97-230-du-12-mars-1997-inta9700062d)
-- [Décret n°97-231 du 12 mars 1997 (INTA9700063D)](decret-n97-231-du-12-mars-1997-inta9700063d)
 - [Décret n°97-239 du 12 mars 1997 (DEFP9701059D)](decret-n97-239-du-12-mars-1997-defp9701059d)
 - [Décret n°97-241 du 12 mars 1997 (MENU9700422D)](decret-n97-241-du-12-mars-1997-menu9700422d)
 - [Décret n°97-245 du 12 mars 1997 (MIPP9700023D)](decret-n97-245-du-12-mars-1997-mipp9700023d)

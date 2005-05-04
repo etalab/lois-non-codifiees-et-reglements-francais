@@ -722,7 +722,6 @@
 - [Décret n°99-735 du 27 août 1999 (MEST9911276D)](decret-n99-735-du-27-aout-1999-mest9911276d)
 - [Décret n°99-736 du 27 août 1999 (ATEE9970018D)](decret-n99-736-du-27-aout-1999-atee9970018d)
 - [Décret n°99-737 du 27 août 1999 (JUSD9930118D)](decret-n99-737-du-27-aout-1999-jusd9930118d)
-- [Décret n°99-738 du 27 août 1999 (INTA9900197D)](decret-n99-738-du-27-aout-1999-inta9900197d)
 - [Décret n°99-739 du 27 août 1999 (EQUU9900474D)](decret-n99-739-du-27-aout-1999-equu9900474d)
 - [Décret n°99-742 du 27 août 1999 (ECOI9900329D)](decret-n99-742-du-27-aout-1999-ecoi9900329d)
 - [Décret n°99-754 du 27 août 1999 (FPPA9900058D)](decret-n99-754-du-27-aout-1999-fppa9900058d)
