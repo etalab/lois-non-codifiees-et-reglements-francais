@@ -6,7 +6,7 @@ L'arrêté d'autorisation fixe la durée de la concession ; il détermine la nat
 
 L'autorisation peut être révoquée par le ministre de l'intérieur en cas d'inobservation du cahier des charges ou des clauses de l'arrêté ministériel.
 
-La révocation pourra être demandée, pour les mêmes causes, par le conseil municipal, au ministre, qui devra statuer dans le délai d'un mois. En cas de refus de celui-ci, le conseil municipal peut exercer un recours devant le Conseil d'Etat.
+La révocation pourra être demandée pour les mêmes causes, par le conseil municipal, au ministre, qui devra statuer dans le délai d'un mois. En cas de refus de celui-ci, le conseil municipal peut exercer un recours devant le Conseil d'Etat.
 
 En aucun cas, et notamment en cas d'abrogation ou de modification de la présente loi, le retrait des autorisations ne pourra donner lieu à une indemnité quelconque.
 
