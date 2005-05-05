@@ -1,0 +1,5 @@
+# Article 5
+
+Pour l'application du septième alinéa du I de l'article 47 de la loi de financement de la sécurité sociale pour 2005, la caisse régionale d'assurance maladie répartit le montant de la contribution entre les différentes entreprises ou organismes portuaires au sein desquels le salarié a travaillé, au prorata des durées de travail mentionnées à l'article 1er du décret du 29 mars 1999 susvisé.
+
+Lorsque le salarié relève ou a relevé de la catégorie des dockers professionnels intermittents, la caisse régionale d'assurance maladie répartit le montant de la contribution entre tous les employeurs de main-d'oeuvre présents dans le port au cours de la période d'intermittence considérée, au prorata des rémunérations totales brutes qu'ils ont payées à ces salariés pendant la période considérée. Ces rémunérations et la répartition qui en résulte sont calculées sur une base annuelle. La caisse régionale d'assurance maladie recueille auprès du bureau central de la main-d'oeuvre et de la caisse de compensation des congés payés du port, ainsi qu'auprès de la Caisse nationale de garantie des ouvriers dockers, les informations nécessaires à cette répartition.
