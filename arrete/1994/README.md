@@ -264,7 +264,6 @@
 - [Arrêté du 8 juin 1994 (AGRG9401100A)](arrete-du-8-juin-1994-agrg9401100a)
 - [Arrêté du 8 juin 1994 (ECOT9451352A)](arrete-du-8-juin-1994-ecot9451352a)
 - [Arrêté du 8 juin 1994 (TEFE9400629A)](arrete-du-8-juin-1994-tefe9400629a)
-- [Arrêté du 8 mars 1994 (AGRE9400252A)](arrete-du-8-mars-1994-agre9400252a)
 - [Arrêté du 8 mars 1994 (BUDR9407016A)](arrete-du-8-mars-1994-budr9407016a)
 - [Arrêté du 8 mars 1994 (COPC9400008A)](arrete-du-8-mars-1994-copc9400008a)
 - [Arrêté du 8 mars 1994 (RESM9400291A)](arrete-du-8-mars-1994-resm9400291a)

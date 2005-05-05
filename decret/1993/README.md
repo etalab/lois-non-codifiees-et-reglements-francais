@@ -37,7 +37,6 @@
 - [Décret n°93-984 du 2 août 1993 (EQUA9300971D)](decret-n93-984-du-2-aout-1993-equa9300971d)
 - [Décret n°93-987 du 2 août 1993 (MCCK9300069D)](decret-n93-987-du-2-aout-1993-mcck9300069d)
 - [Décret n°94-968 du 2 novembre 1994 (MJSK9470111D)](decret-n94-968-du-2-novembre-1994-mjsk9470111d)
-- [Décret du 3 février 1993 (PTTR9200690D)](decret-du-3-fevrier-1993-pttr9200690d)
 - [Décret n°92-1261 du 3 décembre 1992 (TEFT9205418D)](decret-n92-1261-du-3-decembre-1992-teft9205418d)
 - [Décret n°92-958 du 3 septembre 1992 (TEFT9205142D)](decret-n92-958-du-3-septembre-1992-teft9205142d)
 - [Décret n°93-1041 du 3 septembre 1993 (ECOT9351281D)](decret-n93-1041-du-3-septembre-1993-ecot9351281d)

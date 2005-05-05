@@ -621,7 +621,6 @@
 - [Arrêté du 15 février 1995 (MENA9500229A)](arrete-du-15-fevrier-1995-mena9500229a)
 - [Arrêté du 15 février 1995 (MENA9500230A)](arrete-du-15-fevrier-1995-mena9500230a)
 - [Arrêté du 15 février 1995 (MENA9500231A)](arrete-du-15-fevrier-1995-mena9500231a)
-- [Arrêté du 15 mars 1995 (AGRE9500538A)](arrete-du-15-mars-1995-agre9500538a)
 - [Arrêté du 15 mars 1995 (EQUV9500373A)](arrete-du-15-mars-1995-equv9500373a)
 - [Arrêté du 15 septembre 1995 (INTB9500517A)](arrete-du-15-septembre-1995-intb9500517a)
 - [Arrêté du 15 septembre 1995 (MENL9501993A)](arrete-du-15-septembre-1995-menl9501993a)
