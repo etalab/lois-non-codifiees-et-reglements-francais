@@ -4,6 +4,6 @@ I - Sont abrogés la loi du 19 juin 1930 portant interdiction de l'exercice de l
 
 II à XVI - Paragraphes modificateurs.
 
-XVI bis - Les banques mutualistes et coopératives peuvent faire appel public à l'épargne.
+XVI bis - Abrogé.
 
 XVII - Paragraphe modificateur.

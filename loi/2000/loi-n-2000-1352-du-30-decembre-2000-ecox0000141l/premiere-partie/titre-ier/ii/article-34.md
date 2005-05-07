@@ -6,6 +6,6 @@ II. - 1° Le compte d'affectation spéciale n° 902-23 "Actions en faveur du dé
 
 2° A la date de clôture du compte d'affectation spéciale n° 902-23, les opérations en compte seront reprises au sein du budget général, sur lequel seront également reportés les crédits disponibles.
 
-3° A compter du 1er janvier 2002, les bénéfices nets après constitution des réserves, de l'Institut d'émission d'outre-mer sont versés au budget général.
+3° Abrogé
 
 III. Paragraphe modificateur.

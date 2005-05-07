@@ -202,7 +202,7 @@ II. - Sont abrogés, à compter de la date d'entrée en vigueur de la partie Ré
 
 1° Le deuxième alinéa de l'article 5 du code des caisses d'épargne ;
 
-2° Les articles 617, 629 et 637, le troisième alinéa de l'article 638, les articles 642 et 643, les premier, deuxième et troisième alinéas de l'article 648, l'article 649, les deuxième et troisième alinéas de l'article 651 et l'article 719 du code rural ancien ;
+2° Les articles 617, 629 et 637, le troisième alinéa de l'article 638, les articles 642 et 643, les premier, deuxième et troisième alinéas de l'article 648, les deuxième et troisième alinéas de l'article 651 et l'article 719 du code rural ancien ;
 
 3° Le premier alinéa du 4° de l'article 10 de la loi du 13 mars 1917 ayant pour objet l'organisation du crédit au petit et moyen commerce, à la petite et à la moyenne industrie ;
 
