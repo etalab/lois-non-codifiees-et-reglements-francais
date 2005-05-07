@@ -46,6 +46,7 @@
 - [Décret n°85-1304 du 9 décembre 1985](decret-n85-1304-du-9-decembre-1985)
 - [Décret n°85-1305 du 9 décembre 1985](decret-n85-1305-du-9-decembre-1985)
 - [Décret n°85-852 du 9 août 1985](decret-n85-852-du-9-aout-1985)
+- [Décret n°85-865 du 9 août 1985](decret-n85-865-du-9-aout-1985)
 - [Décret n°85-38 du 10 janvier 1985](decret-n85-38-du-10-janvier-1985)
 - [Décret n°85-422 du 10 avril 1985](decret-n85-422-du-10-avril-1985)
 - [Décret n°85-600 du 10 juin 1985](decret-n85-600-du-10-juin-1985)

@@ -6,7 +6,7 @@ Nul ne peut être inscrit sur la liste des courtiers de marchandises assermenté
 
 2° Etre âgé de vingt-cinq ans révolus ;
 
-3° N'avoir subi aucune condamnation, déchéance ou sanction prévue par la loi du 30 août 1947 sur l'assainissement des professions industrielles et commerciales et n'avoir pas été frappé de faillite personnelle ou d'une autre sanction en application du titre VI de la loi n° 85-98 du 25 janvier 1985 relative au redressement et à la liquidation judiciaires des entreprises ou, dans le régime antérieur à cette loi, en application du titre II de la loi n° 67-563 du 13 juillet 1967 sur le règlement judiciaire, la faillite personnelle et les banqueroutes ;
+3° N'avoir subi aucune condamnation, déchéance ou sanction prévue par le chapitre VIII du titre II du livre 1er du code de commerce et n'avoir pas été frappé de faillite personnelle ou d'une autre sanction en application du titre VI de la loi n° 85-98 du 25 janvier 1985 relative au redressement et à la liquidation judiciaires des entreprises ou, dans le régime antérieur à cette loi, en application du titre II de la loi n° 67-563 du 13 juillet 1967 sur le règlement judiciaire, la faillite personnelle et les banqueroutes ;
 
 4° Etre inscrit au registre du commerce et des sociétés à titre personnel ;
 

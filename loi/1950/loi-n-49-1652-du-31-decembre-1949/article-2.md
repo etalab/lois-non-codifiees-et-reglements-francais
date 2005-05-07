@@ -4,7 +4,7 @@ Pourront seuls exercer cette profession, les courtiers en vins et spiritueux rem
 
 1° Jouir de leurs droits civils et justifier de leur moralité par un certificat de bonne vie et moeurs ;
 
-2° N'avoir pas encouru l'une des condamnations, destitution ou déclaration de faillite qui, aux termes de la loi du 30 août 1947, emportent interdiction d'entreprendre une profession commerciale ou industrielle ;
+2° N'avoir pas encouru l'une des condamnations, destitution ou déclaration de faillite qui, aux termes du chapitre VIII du titre II du livre 1er du code de commerce ;
 
 3° Etre de nationalité française, ou titulaire de la carte spéciale de commerçant étranger ;
 

@@ -1,6 +1,6 @@
 # Article 7
 
-Le demandeur doit justifier : qu'il remplit les conditions générales pour exercer un commerce, en particulier celles imposées par la loi du 30 août 1947 sur l'assainissement des professions commerciales, et produire, à l'appui de sa demande :
+Le demandeur doit justifier : qu'il remplit les conditions générales pour exercer un commerce, en particulier celles imposées par le chapitre VIII du titre II du livre 1er du code de commerce, et produire, à l'appui de sa demande :
 
 1° Un bulletin n° 3 de son casier judiciaire ou, dans le cas d'une société, de celui du directeur ou du gérant ;
 

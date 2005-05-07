@@ -1,0 +1,3 @@
+# Article 7
+
+Les groupements de caractère professionnel ou interprofessionnel et les organismes désintéressés n'ayant pas ce caractère qui, antérieurement à la publication du décret n° 66-827 du 7 novembre 1966, ont collecté la participation des employeurs doivent effectuer, conformément aux dispositions des articles 32 et 33 dudit décret, avant le 1er mars 1967, une déclaration d'existence en adressant au directeur départemental de la construction du lieu de leur siège social, par lettre recommandée avec avis de réception, une déclaration conforme au modèle annexé au présent arrêté (annexe n° 9) (non reproduit).

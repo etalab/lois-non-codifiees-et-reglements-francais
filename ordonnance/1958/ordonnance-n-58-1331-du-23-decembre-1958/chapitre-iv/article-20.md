@@ -2,7 +2,7 @@
 
 Le tribunal peut prononcer, à titre temporaire ou définitif, la fermeture des magasins, bureaux ou usines du condamné ou, lorsque ce dernier a été poursuivi par application du premier alinéa de l'article 23, des entreprises qu'il dirige ou administre et dans l'activité desquelles l'infraction a été commise.
 
-Il peut aussi interdire au condamné, à titre temporaire ou définitif, l'exercice de sa profession, sans préjudice des dispositions de la loi n° 47-1635 du 30 août 1947.
+Il peut aussi interdire au condamné, à titre temporaire ou définitif, l'exercice de sa profession, sans préjudice des dispositions du chapitre VIII du titre II du livre 1er du code de commerce.
 
 Si l'infraction a été commise pour le compte d'une personne morale de droit privé, l'interdiction peut être également prononcée contre cette personne morale en ce qui touche l'exercice de la profession à l'occasion de laquelle l'infraction a été commise.
 
