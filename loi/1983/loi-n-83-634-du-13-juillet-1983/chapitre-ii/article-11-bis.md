@@ -1,3 +1,3 @@
 # Article 11 bis
 
-Sans préjudice des dispositions plus favorables qui leur seraient applicables, les fonctionnaires qui occupent des fonctions publiques électives bénéficient des garanties accordées aux titulaires de mandats locaux et du droit à la formation des élus locaux reconnu par le code général des collectivités territoriales.
+Sans préjudice des dispositions plus favorables qui leur seraient applicables, les fonctionnaires qui occupent des fonctions publiques électives bénéficient des garanties accordées aux titulaires de mandats locaux et du droit à la formation des élus locaux reconnu par le code général des collectivités territoriales, par la loi n° 61-814 du 29 juillet 1961 conférant aux îles Wallis et Futuna le statut de territoire d'outre-mer, par la loi organique n° 99-209 du 19 mars 1999 relative à la Nouvelle-Calédonie et par la loi organique n° 2004-192 du 27 février 2004 portant statut d'autonomie de la Polynésie française.
