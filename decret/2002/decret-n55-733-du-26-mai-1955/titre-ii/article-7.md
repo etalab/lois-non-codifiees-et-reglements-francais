@@ -1,7 +1,9 @@
 # Article 7
 
-Le chef de mission exerce les pouvoirs de contrôle prévus par le présent décret sur les entreprises et organismes relevant de sa mission. Il définit les objectifs du contrôle au sein de la mission et coordonne l'action de ses membres. Il affecte les membres de la mission. En cas d'affectation, par le chef de mission, d'un contrôleur d'Etat auprès d'une entreprise ou d'un organisme, celui-ci exerce les pouvoirs du chef de mission. Le chef de mission peut également, pour l'exercice d'un contrôle qu'il confie à un administrateur civil ou agent de niveau équivalent, lui déléguer ses pouvoirs.
+I. - Les responsables de mission de contrôle exercent les pouvoirs de contrôle prévus par le présent décret sur les entreprises et organismes relevant de leur mission. Ils affectent les membres de la mission au sein de celle-ci et coordonnent leur action. En cas d'affectation, par le responsable de la mission, d'un membre du corps du contrôle général économique et financier auprès d'une entreprise ou d'un organisme, celui-ci exerce les pouvoirs du responsable de la mission en ce qui concerne cette entreprise ou cet organisme.
 
-Le chef de mission et les contrôleurs d'Etat chargés d'un contrôle peuvent déléguer leur signature à ceux de leurs collaborateurs qui sont des fonctionnaires de catégorie A ou des agents d'un niveau équivalent. Les contrôleurs d'Etat affectés par le ministre chargé de l'économie à un poste de contrôle peuvent déléguer leur signature à des fonctionnaires de catégorie A ou à des agents de niveau équivalent qui sont affectés à ce poste par arrêté du même ministre.
+II. - Les responsables de mission de contrôle et les trésoriers-payeurs généraux peuvent déléguer leurs pouvoirs, pour l'exercice d'un contrôle qu'ils leur confient, aux administrateurs civils ou agents de niveau équivalent placés sous leur autorité.
 
-Sur décision du même ministre, les agents chargés du contrôle peuvent être assistés, à titre temporaire, d'experts extérieurs à l'administration.
+III. - Les agents chargés du contrôle peuvent déléguer leur signature à leurs collaborateurs fonctionnaires de catégorie A ou agents de niveau équivalent.
+
+IV. - Sur décision du ministre chargé de l'économie, les agents chargés du contrôle peuvent être assistés, à titre temporaire, d'experts extérieurs à l'administration.
