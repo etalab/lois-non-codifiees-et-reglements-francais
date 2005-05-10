@@ -1,6 +1,6 @@
 # Article 3
 
-Sont soumis à l'avis de la commission et au visa du chef de la mission de contrôle économique et financier ou du contrôleur d'Etat les projets de conventions et de marchés d'un montant supérieur aux seuils ci-après :
+Sont soumis à l'avis de la commission et au visa du chef de la mission de contrôle général économique et financier ou du membre du corps du contrôle général économique et financier les projets de conventions et de marchés d'un montant supérieur aux seuils ci-après :
 
 a) Etudes (y compris informatique), maîtrise d'oeuvre ou tout autre prestation intellectuelle : 500.000 euros ;
 

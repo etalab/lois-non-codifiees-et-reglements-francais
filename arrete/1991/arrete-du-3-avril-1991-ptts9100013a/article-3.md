@@ -1,6 +1,6 @@
 # Article 3
 
-Sont soumis à l'avis de la commission et au visa du chef de la mission de contrôle économique et financier ou du contrôleur d'Etat :
+Sont soumis à l'avis de la commission et au visa du chef de la mission de contrôle général économique et financier ou du membre du corps du contrôle général économique et financier :
 
 1. Les projets de conventions et de marchés de télécommunications d'un montant hors taxes supérieur à :
 
