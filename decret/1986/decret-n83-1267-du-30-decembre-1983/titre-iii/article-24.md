@@ -12,6 +12,6 @@ A cette rémunération peuvent s'ajouter :
 
 2° Une indemnité de technicité et de responsabilité pour l'exercice des fonctions qui impliquent une technicité spécifique ou une responsabilité particulière. Une décision du ministre chargé du budget et du ministre chargé de l'agriculture détermine les types de fonctions pouvant ouvrir droit au versement de cette indemnité et son taux maximum et minimum. Les modalités d'attribution de cette indemnité sont fixées par décision du directeur de l'agence centrale.
 
-3° Des indemnités pour l'exercice de fonctions qui impliquent des sujétions ou des astreintes particulières, dont les taux sont fixés par décision du ministre chargé du budget et du ministre chargé de l'agriculture. Les modalités d'attribution de ces indemnités sont fixées par décision du directeur de l'agence centrale, visée par le chef de la mission de contrôle économique et financier.
+3° Des indemnités pour l'exercice de fonctions qui impliquent des sujétions ou des astreintes particulières, dont les taux sont fixés par décision du ministre chargé du budget et du ministre chargé de l'agriculture. Les modalités d'attribution de ces indemnités sont fixées par décision du directeur de l'agence centrale, visée par le chef de la mission de contrôle général économique et financier.
 
 Les établissements communiquent chaque année à l'agence centrale les éléments permettant de suivre l'application de l'ensemble de ces dispositions.

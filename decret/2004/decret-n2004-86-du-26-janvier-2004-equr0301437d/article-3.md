@@ -18,7 +18,7 @@ En qualité de représentants du ministre chargé de l'économie :
 
 Assistent aux séances de la commission nationale, avec voix consultative :
 
-- le chef de la mission de contrôle économique et financier "Autoroutes et tunnels routiers" ou son représentant ;
+- le chef de la mission de contrôle général économique et financier "Autoroutes et tunnels routiers" ou son représentant ;
 
 - le président de la mission de contrôle des sociétés concessionnaires d'autoroutes ou son représentant ;
 

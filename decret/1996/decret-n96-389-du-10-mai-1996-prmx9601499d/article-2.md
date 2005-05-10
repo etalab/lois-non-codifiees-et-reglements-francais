@@ -24,7 +24,7 @@ Cette commission est placée sous l'autorité des ministres chargés respectivem
 
 - le directeur des affaires financières et économiques du ministère chargé de l'agriculture ou son représentant ;
 
-- le chef de la mission de contrôle économique et financier auprès des organismes d'intervention de l'agriculture et de la pêche ou son représentant.
+- le chef de la mission de contrôle général économique et financier auprès des organismes d'intervention de l'agriculture et de la pêche ou son représentant.
 
 Le directeur de la comptabilité publique, le directeur des pêches maritimes, le directeur des affaires économiques au ministère chargé de l'outre-mer ou leurs représentants participent aux travaux de la commission lorsque celle-ci traite des affaires relevant de leurs compétences respectives.
 
