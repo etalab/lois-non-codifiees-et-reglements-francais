@@ -28,7 +28,7 @@ Le comité comprend, pour les membres visés aux a, b, c et d ci-dessus, un nomb
 
 II. - Les ministres chargés de la santé et de la sécurité sociale sont représentés conjointement aux séances par un commissaire du Gouvernement.
 
-III. - Le directeur, l'agent comptable, le médecin-conseil national de la Caisse nationale de l'assurance maladie des travailleurs salariés et le contrôleur d'Etat, ou leurs représentants, assistent aux séances du comité national de gestion.
+III. - Le directeur, l'agent comptable, le médecin-conseil national de la Caisse nationale de l'assurance maladie des travailleurs salariés et le membre du corps du contrôle général économique et financier, ou leurs représentants, assistent aux séances du comité national de gestion.
 
 IV. - Le comité national de gestion se réunit au moins deux fois par an, sur convocation de son président. Le comité ne peut valablement délibérer que si la moitié au moins de ses membres assiste à la séance. Il détermine les conditions d'attribution des aides, conformément à l'article 25 de la loi du 23 décembre 1998 susvisée.
 

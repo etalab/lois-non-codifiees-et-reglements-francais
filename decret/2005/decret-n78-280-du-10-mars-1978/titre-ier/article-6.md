@@ -8,4 +8,4 @@ Les délibérations sont prises à la majorité des votes exprimés par les memb
 
 Le président peut également appeler à participer aux séances avec voix consultative toute personne dont il juge la présence utile pour l'étude d'un point particulier de l'ordre du jour.
 
-Les délibérations font l'objet de procès-verbaux signés par le président et notifiés aux membres, au commissaire du Gouvernement et au contrôleur d'Etat dans les deux semaines qui suivent la séance.
+Les délibérations font l'objet de procès-verbaux signés par le président et notifiés aux membres, au commissaire du Gouvernement et au membre du corps du contrôle général économique et financier dans les deux semaines qui suivent la séance.

@@ -8,4 +8,4 @@ Tout administrateur peut déléguer par mandat à un autre membre du conseil d'a
 
 Le conseil d'administration établit son règlement intérieur.
 
-Le directeur général, le contrôleur d'Etat et l'agent comptable assistent aux séances du conseil d'administration et du bureau avec voix consultative.
+Le directeur général, le membre du corps du contrôle général économique et financier et l'agent comptable assistent aux séances du conseil d'administration et du bureau avec voix consultative.

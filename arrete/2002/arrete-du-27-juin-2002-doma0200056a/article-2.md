@@ -16,6 +16,6 @@ b) Avec voix consultative :
 
 - le représentant de la direction générale de la concurrence, de la consommation et de la répression des fraudes ;
 
-- le contrôleur financier ou son représentant.
+- le membre du corps du contrôle général économique et financier ou son représentant.
 
 Le président de la commission peut en outre désigner des personnes appelées à y siéger, à titre consultatif, en raison de leur compétence établie dans la matière relative à l'objet de l'appel d'offres.

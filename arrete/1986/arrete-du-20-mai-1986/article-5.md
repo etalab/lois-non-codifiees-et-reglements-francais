@@ -1,12 +1,12 @@
 # Article 5
 
-Sont soumis à l'approbation préalable du contrôleur d'Etat [*attributions*] :
+Sont soumis à l'approbation préalable du membre du corps du contrôle général économique et financier :
 
 a) Les décisions modificatives du budget primitif, les virements et les reports de crédits et les réimputations ; lorsque, vu l'urgence, ces décisions sont prises par le directeur de l'office, elles sont présentées pour ratification à la plus prochaine séance du conseil d'administration ;
 
 b) Les placements ou remplois de fonds disponibles ;
 
-c) Les marchés de travaux ou de fournitures, les conventions et contrats de toute nature (y compris les baux immobiliers) dont le montant excède un seuil fixé par le contrôleur d'Etat ;
+c) Les marchés de travaux ou de fournitures, les conventions et contrats de toute nature (y compris les baux immobiliers) dont le montant excède un seuil fixé par le membre du corps du contrôle général économique et financier ;
 
 d) Les décisions générales, instructions ou règlements intérieurs, relatifs au statut, à la rémunération et à l'administration des agents de l'office ;
 

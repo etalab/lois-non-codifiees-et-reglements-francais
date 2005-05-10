@@ -1,6 +1,6 @@
 # Article 4
 
-Sont soumis au visa préalable du contrôleur financier :
+Sont soumis au visa préalable du membre du corps du contrôle général économique et financier :
 
 - les engagements provisionnels ;
 

@@ -20,4 +20,4 @@ Pour l'application de l'article L. 530 du code des pensions militaires d'invalid
 
 4° Deux représentants des usagers dont un, élu pour trois ans par les pensionnaires de l'institution, et un, représentant les usagers du centre médico-chirurgical de l'institution, nommé pour trois ans par le ministre chargé de la santé sur proposition des associations de personnes malades et des usagers du système de santé ayant fait l'objet d'un agrément au niveau national dans les conditions prévues à l'article L. 1114-1 du code de la santé publique.
 
-Le directeur de l'établissement, l'agent comptable, le contrôleur financier ou, en cas d'empêchement, leurs représentants et toute personne dont la présence est requise dans les débats assistent, avec voix consultative, aux séances du conseil d'administration.
+Le directeur de l'établissement, l'agent comptable, le membre du corps du contrôle général économique et financier ou, en cas d'empêchement, leurs représentants et toute personne dont la présence est requise dans les débats assistent, avec voix consultative, aux séances du conseil d'administration.

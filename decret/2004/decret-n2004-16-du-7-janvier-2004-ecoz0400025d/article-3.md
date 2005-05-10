@@ -6,6 +6,6 @@ Lorsque le prix est définitif, l'échange de lettres peut prévoir une avance d
 
 Lorsque l'échange de lettres a prévu un acompte, le montant de l'acompte ne peut en aucun cas excéder la valeur des prestations auxquelles il se rapporte.
 
-L'échange de lettres doit être régularisé sous la forme d'un marché à prix provisoire ou définitif dans les trois mois qui suivent. Dans le cas où ce délai serait dépassé, le contrôleur financier intéressé doit en être informé par écrit.
+L'échange de lettres doit être régularisé sous la forme d'un marché à prix provisoire ou définitif dans les trois mois qui suivent. Dans le cas où ce délai serait dépassé, le membre du corps du contrôle général économique et financier intéressé doit en être informé par écrit.
 
 L'échange de lettres doit être passé selon la procédure de marché négocié sans publicité préalable mais avec mise en concurrence. Sur justifications précises dans le rapport de présentation, il peut être passé selon la procédure de marché négocié sans publicité et sans mise en concurrence.

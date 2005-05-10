@@ -8,4 +8,4 @@ Les délibérations du conseil sont prises à la majorité des suffrages exprim�
 
 Tout membre du conseil d'administration peut, par mandat spécial, déléguer à un autre administrateur la faculté de voter en son lieu et place sur les objets déterminés portés à l'ordre du jour ; un administrateur ne peut représenter comme mandataire qu'un de ses collèges.
 
-Le conseil d'administration désigne un secrétaire pris en dehors de ses membres. Il est établi un procès-verbal de chaque séance, signé par le président et par au moins un autre administrateur présent. Le procès-verbal est adressé aux administrateurs et au contrôleur d'Etat. Il est soumis à l'approbation du conseil lors de la séance suivante.
+Le conseil d'administration désigne un secrétaire pris en dehors de ses membres. Il est établi un procès-verbal de chaque séance, signé par le président et par au moins un autre administrateur présent. Le procès-verbal est adressé aux administrateurs et au membre du corps du contrôle général économique et financier. Il est soumis à l'approbation du conseil lors de la séance suivante.

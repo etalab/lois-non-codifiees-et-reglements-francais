@@ -4,7 +4,7 @@ L'ordonnateur tient une comptabilité des engagements de dépenses faisant resso
 
 Le montant des crédits primitifs et des modifications successives qui leur sont apportées ;
 
-Le montant successif des engagements et des dégagements de dépenses, que ceux-ci soient pris directement par l'ordonnateur ou après visa du contrôleur financier ;
+Le montant successif des engagements et des dégagements de dépenses, que ceux-ci soient pris directement par l'ordonnateur ou après visa du membre du corps du contrôle général économique et financier ;
 
 Le montant des mandats émis ;
 
@@ -18,4 +18,4 @@ Les dépenses résultant de décisions antérieures.
 
 Les autres dépenses sont inscrites en cours d'année, au fur et à mesure qu'interviennent les décisions les autorisant.
 
-L'ordonnateur adresse au contrôleur financier, dans les quinze premiers jours de chaque mois, le relevé des engagements de dépense du mois précédent et le montant des mandats correspondants.
+L'ordonnateur adresse au membre du corps du contrôle général économique et financier, dans les quinze premiers jours de chaque mois, le relevé des engagements de dépense du mois précédent et le montant des mandats correspondants.

@@ -1,6 +1,6 @@
 # Article 5
 
-Le contrôleur d'Etat a tout pouvoir d'investigation sur pièces et sur place. Il reçoit du comité communication de toutes les informations nécessaires à l'exécution de sa mission. Il reçoit notamment, selon des modalités et une périodicité qu'il détermine :
+Le membre du corps du contrôle général économique et financier a tout pouvoir d'investigation sur pièces et sur place. Il reçoit du comité communication de toutes les informations nécessaires à l'exécution de sa mission. Il reçoit notamment, selon des modalités et une périodicité qu'il détermine :
 
 - la situation d'exécution du budget ;
 

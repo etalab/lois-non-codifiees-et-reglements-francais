@@ -1166,6 +1166,7 @@
 - [Arrêté du 28 avril 1995 (INDP9500524A)](arrete-du-28-avril-1995-indp9500524a)
 - [Arrêté du 28 avril 1995 (LOGM9500004A)](arrete-du-28-avril-1995-logm9500004a)
 - [Arrêté du 28 avril 1995 (MENF9500700A)](arrete-du-28-avril-1995-menf9500700a)
+- [Arrêté du 28 décembre 1994 (DEFF9501006A)](arrete-du-28-decembre-1994-deff9501006a)
 - [Arrêté du 28 décembre 1994 (EQUA9401982A)](arrete-du-28-decembre-1994-equa9401982a)
 - [Arrêté du 28 décembre 1994 (EQUA9401983A)](arrete-du-28-decembre-1994-equa9401983a)
 - [Arrêté du 28 décembre 1994 (EQUT9402150A)](arrete-du-28-decembre-1994-equt9402150a)

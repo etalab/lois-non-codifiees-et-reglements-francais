@@ -10,6 +10,6 @@ Le bureau se réunit et délibère dans les conditions définies par le règleme
 
 Le préfet de la région Lorraine, préfet de la Moselle, et les préfets de Meurthe-et-Moselle, de la Meuse et des Vosges assistent de droit aux réunions et y sont entendus chaque fois qu'ils le demandent. Ils peuvent se faire représenter. Les procès-verbaux et délibérations de toutes les réunions leur sont adressés.
 
-Le directeur régional de l'équipement de la région Lorraine, le directeur régional de l'agriculture et de la forêt de Lorraine, le directeur régional de l'environnement de Lorraine, le contrôleur d'Etat et de l'agent comptable ont accès aux réunions du bureau et y sont entendus chaque fois qu'ils le demandent. Les procès-verbaux et délibérations de toutes les réunions leur sont adressés.
+Le directeur régional de l'équipement de la région Lorraine, le directeur régional de l'agriculture et de la forêt de Lorraine, le directeur régional de l'environnement de Lorraine, le membre du corps du contrôle général économique et financier et de l'agent comptable ont accès aux réunions du bureau et y sont entendus chaque fois qu'ils le demandent. Les procès-verbaux et délibérations de toutes les réunions leur sont adressés.
 
 Le bureau peut inviter toute personne dont l'audition lui paraît utile.

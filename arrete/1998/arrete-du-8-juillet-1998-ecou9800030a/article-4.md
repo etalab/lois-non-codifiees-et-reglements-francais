@@ -1,6 +1,6 @@
 # Article 4
 
-Le contrôleur d'Etat a accès à tous les documents se rapportant à l'activité économique et à la gestion financière de l'établissement. En outre, il reçoit obligatoirement communication des documents suivants :
+Le membre du corps du contrôle général économique et financier a accès à tous les documents se rapportant à l'activité économique et à la gestion financière de l'établissement. En outre, il reçoit obligatoirement communication des documents suivants :
 
 a) Mensuellement :
 

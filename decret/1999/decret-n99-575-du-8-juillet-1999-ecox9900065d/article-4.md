@@ -1,0 +1,3 @@
+# Article 4
+
+Les commissaires du Gouvernement, les chefs de mission de contrôle d'Etat et les membres du corps du contrôle général économique et financier nommés auprès des établissements publics de l'Etat peuvent recevoir délégation de signature des ministres sous l'autorité desquels ils sont placés pour s'opposer aux décisions mentionnées à l'article 1er ou pour les approuver expressément. Dans ce cas, le délai fixé à l'article 1er court à compter de la réception par le ou les délégataires de la délibération et des documents correspondants qui leur sont adressés par l'établissement public de l'Etat.

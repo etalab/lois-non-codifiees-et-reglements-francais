@@ -16,6 +16,6 @@ b) Avec voix consultative :
 
 - le directeur général de la concurrence, de la consommation et de la répression des fraudes ou son représentant ;
 
-- le contrôleur financier local ou son représentant ;
+- le membre du corps du contrôle général économique et financier local ou son représentant ;
 
 - tout fonctionnaire ou agent appartenant à l'Etat ou à une autre personne publique, désigné par le président en raison de sa compétence établie dans la matière qui fait l'objet de la consultation.

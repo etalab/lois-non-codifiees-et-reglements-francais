@@ -1,6 +1,6 @@
 # Article 6
 
-Sont soumis au visa préalable du contrôleur financier, accompagnés de toutes pièces justificatives et notes explicatives :
+Sont soumis au visa préalable du membre du corps du contrôle général économique et financier, accompagnés de toutes pièces justificatives et notes explicatives :
 
 - les actes, arrêtés ou décisions portant recrutement et promotion du personnel ainsi que ceux fixant leur rémunération et portant attribution de primes et indemnités diverses ;
 
@@ -8,6 +8,6 @@ Sont soumis au visa préalable du contrôleur financier, accompagnés de toutes 
 
 - les décisions portant attribution de secours ou de subventions ;
 
-- les marchés, conventions, contrats, commandes de travaux ou fournitures et les baux lorsque leur montant sera supérieur à une somme qui sera fixée en accord avec le contrôleur financier ;
+- les marchés, conventions, contrats, commandes de travaux ou fournitures et les baux lorsque leur montant sera supérieur à une somme qui sera fixée en accord avec le membre du corps du contrôle général économique et financier ;
 
 - les opérations en capital.

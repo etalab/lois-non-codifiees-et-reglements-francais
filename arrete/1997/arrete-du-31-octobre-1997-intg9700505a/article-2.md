@@ -22,7 +22,7 @@ a) Membres avec voix délibérative :
 
 b) Membres avec voix consultative :
 
-- le contrôleur financier près le ministère de l'intérieur ou son représentant, dont l'avis peut être porté, sur sa demande, au procès-verbal ;
+- le membre du corps du contrôle général économique et financier près le ministère de l'intérieur ou son représentant, dont l'avis peut être porté, sur sa demande, au procès-verbal ;
 
 - le directeur général de la concurrence, de la consommation et de la répression des fraudes ou son représentant, dont l'avis peut être porté, sur sa demande, au procès-verbal.
 

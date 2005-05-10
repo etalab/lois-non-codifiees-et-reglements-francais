@@ -6,4 +6,4 @@ Dans les organismes visés à l'article 6 bis A de la loi n° 67-483 du 22 juin 
 
 2° Bilans, comptes de résultats et affectations des bénéfices pour les organismes n'ayant pas la forme de société commerciale régis par la loi n° 66-537 du 24 juillet 1966 ;
 
-Le ministre de l'économie et des finances et les ministres intéressés peuvent déléguer la signature des décisions d'approbation aux chefs de mission ou aux contrôleurs d'Etat et aux commissaires du gouvernement intéressés.
+Le ministre de l'économie et des finances et les ministres intéressés peuvent déléguer la signature des décisions d'approbation aux chefs de mission ou aux membres du corps du contrôle général économique et financier et aux commissaires du gouvernement intéressés.

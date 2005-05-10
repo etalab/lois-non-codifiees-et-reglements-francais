@@ -8,4 +8,4 @@ Le conseil siège valablement si au moins la moitié de ses membres sont présen
 
 Les délibérations sont prises à la majorité des membres présents. En cas de partage égal des voix, la voix du président est prépondérante.
 
-Le directeur, l'agent comptable et le contrôleur financier participent, avec voix consultative, aux travaux du conseil d'administration.
+Le directeur, l'agent comptable et le membre du corps du contrôle général économique et financier participent, avec voix consultative, aux travaux du conseil d'administration.

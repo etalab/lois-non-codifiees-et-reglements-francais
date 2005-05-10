@@ -1,6 +1,6 @@
 # Article 4
 
-Le directeur, le contrôleur d'Etat et l'agent comptable de l'office assistent de droit aux séances du conseil spécialisé.
+Le directeur, le membre du corps du contrôle général économique et financier et l'agent comptable de l'office assistent de droit aux séances du conseil spécialisé.
 
 Les représentants des pouvoirs publics, mentionnés à l'article 12 du décret susvisé, assistent, avec voix consultative, aux travaux du conseil spécialisé.
 

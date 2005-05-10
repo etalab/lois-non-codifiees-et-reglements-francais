@@ -8,7 +8,7 @@ II. - A l'article 1er de l'arrêté du 15 mars 1976 relatif au montant des prime
 
 III. - A l'article 2 de l'arrêté du 15 mars 1976 relatif aux conditions d'opérations d'épargne logement susvisé, le montant de 100 000 F est remplacé par un montant de 15 300 euros. A l'article 3 du même arrêté, les montants de 500 F et 250 F sont remplacés respectivement par des montants de 75 euros et 37 euros. A l'article 4 du même arrêté, le montant de 150 000 F est remplacé par un montant de 23 000 euros.
 
-IV. - Aux articles 1er et 2 de l'arrêté du 16 décembre 1980 fixant le montant au-delà duquel les marchés passés par les Charbonnages de France et les houillères de bassin sont soumis au visa préalable de la mission de contrôle économique et financier et portant abrogation de l'arrêté du 19 octobre 1959 relatif au visa par les contrôleurs d'Etat et missions de contrôle des marchés de diverses entreprises nationales et de la Société nationale des chemins de fer français susvisé, le montant de 1 000 000 F est remplacé par un montant de 160 000 euros.
+IV. - Aux articles 1er et 2 de l'arrêté du 16 décembre 1980 fixant le montant au-delà duquel les marchés passés par les Charbonnages de France et les houillères de bassin sont soumis au visa préalable de la mission de contrôle économique et financier et portant abrogation de l'arrêté du 19 octobre 1959 relatif au visa par les membres du corps du contrôle général économique et financier et missions de contrôle des marchés de diverses entreprises nationales et de la Société nationale des chemins de fer français susvisé, le montant de 1 000 000 F est remplacé par un montant de 160 000 euros.
 
 V. - A l'article 2 de l'arrêté du 16 décembre 1980 fixant les conditions des opérations d'épargne logement susvisé, le montant de 75 000 000 F est remplacé par un montant de 11 000 000 euros.
 
@@ -46,7 +46,7 @@ XXI. - A l'article 1er de l'arrêté du 11 octobre 1991 susvisé, le montant de 
 
 XXII. - Au 1° de l'article 2 de l'arrêté du 20 février 1992 susvisé, les montants de 500 000 F et 1 000 000 F sont remplacés respectivement par des montants de 80 000 euros et 150 000 euros. Au 2° de l'article 2 du même arrêté, les montants de 2 500 000 F et 5 000 000 F sont remplacés respectivement par des montants de 400 000 euros et 800 000 euros.
 
-XXIII. - A l'article 1er de l'arrêté du 1er avril 1992 susvisé, les montants de 2 000 F et 500 F sont remplacés respectivement par des montants de 300 euros et 75 euros. A l'article 2 du même arrêté, le montant de 400 000 F est remplacé par un montant de 61 200 euros. A l'article 3 du même arrêté, le montant de 600 000 F est remplacé par un montant de 92 000 euros.
+XXIII. - A l'article 1er de l'arrêté du 1er avril 1992 susvisé, les montants de 2 000 F et 500 F sont remplacés respectivement par des montants de 300 euros et 75 euros. A l'article 2 du même arrêté le montant de 400 000 F est remplacé par un montant de 61 200 euros. A l'article 3 du même arrêté, le montant de 600 000 F est remplacé par un montant de 92 000 euros.
 
 XXIV. - A l'article 5 de l'arrêté du 29 mai 1992 susvisé, le montant de 10 000 F est remplacé par un montant de 1 500 euros.
 

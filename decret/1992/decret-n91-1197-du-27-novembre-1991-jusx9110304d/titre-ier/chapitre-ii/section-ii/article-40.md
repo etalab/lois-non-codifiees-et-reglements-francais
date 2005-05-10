@@ -4,4 +4,4 @@ Le Conseil national des barreaux perçoit et répartit entre les centres région
 
 La participation de l'Etat donne lieu chaque année à l'inscription d'un crédit au budget du ministère de la justice, dans les conditions prévues au titre IV du livre IX du code du travail.
 
-Le financement de la formation professionnelle est soumis au contrôle d'un contrôleur financier désigné par arrêté du ministre chargé du budget ; les modalités du contrôle sont également fixées par arrêté du ministre chargé du budget.
+Le financement de la formation professionnelle est soumis au contrôle d'un membre du corps du contrôle général économique et financier désigné par arrêté du ministre chargé du budget ; les modalités du contrôle sont également fixées par arrêté du ministre chargé du budget.

@@ -12,7 +12,7 @@ L'avis du service des domaines doit être demandé avant toute entente amiable p
 
 - les caisses ou organismes de sécurité sociale, d'allocations familiales ou de mutualité sociale agricole ;
 
-- les organismes recevant le concours financier de l'Etat et soumis au contrôle permanent d'un contrôleur financier ou d'un contrôleur d'Etat désigné par l'Etat.
+- les organismes recevant le concours financier de l'Etat et soumis au contrôle permanent d'un membre du corps du contrôle général économique et financier désigné par l'Etat.
 
 Ces dispositions sont applicables aux opérations poursuivies par les sociétés, associations, entreprises ou organismes de toute nature qui se trouvent placés en droit ou en fait sous le contrôle de l'Etat, des services, établissements ou organismes susvisés ou qui agissent pour leur compte à l'exclusion des entreprises publiques ou nationalisées, des établissements de crédit relevant du secteur public et des sociétés d'économie mixte à vocation industrielle ou commerciale.
 

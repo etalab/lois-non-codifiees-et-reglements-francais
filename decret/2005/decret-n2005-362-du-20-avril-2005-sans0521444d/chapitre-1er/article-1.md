@@ -24,7 +24,7 @@ II. - Siègent également avec voix consultative :
 
 III. - Des administrateurs suppléants sont élus ou nommés à l'instance nationale dans les mêmes conditions que les administrateurs titulaires. Les suppléants sont appelés à siéger à l'instance nationale en l'absence des titulaires et à remplacer ceux dont le siège deviendrait vacant.
 
-IV. - Le directeur général commun, les agents comptables et les contrôleurs d'Etat assistent, avec voix consultative, aux séances de l'instance nationale.
+IV. - Le directeur général commun, les agents comptables et les membres du corps du contrôle général économique et financier assistent, avec voix consultative, aux séances de l'instance nationale.
 
 V. - Les commissaires du Gouvernement représentant le ministre chargé de la sécurité sociale, le ministre chargé du budget et le ministre chargé du commerce, de l'artisanat et des professions libérales assistent avec voix consultative aux réunions de l'instance nationale et sont entendus chaque fois qu'ils le demandent.
 

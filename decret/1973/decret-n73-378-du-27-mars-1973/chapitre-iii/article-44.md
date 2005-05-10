@@ -8,4 +8,4 @@ Leurs délibérations sont prises à la majorité des voix des membres présents
 
 Les dispositions des deuxième et troisième alinéas de l'article 24 du décret du 31 octobre 1961 susvisé sont applicables aux délibérations de la commission permanente prises par délégation du conseil d'administration.
 
-Le préfet des Hautes-Alpes, le préfet de l'Isère, le directeur du parc et le contrôleur financier assistent aux séances du conseil d'administration et de la commission permanente avec voix consultative.
+Le préfet des Hautes-Alpes, le préfet de l'Isère, le directeur du parc et le membre du corps du contrôle général économique et financier assistent aux séances du conseil d'administration et de la commission permanente avec voix consultative.

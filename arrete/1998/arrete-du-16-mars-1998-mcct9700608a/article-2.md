@@ -10,7 +10,7 @@ La commission consultative des marchés près de l'Institut national de l'audiov
 
 - un représentant du ministère de l'économie, des finances et de l'industrie (direction générale de la concurrence, de la consommation et de la répression des fraudes) ;
 
-- le contrôleur d'Etat ou son représentant ;
+- le membre du corps du contrôle général économique et financier ou son représentant ;
 
 - quatre représentants de l'Institut national de l'audiovisuel nommés par le président de cet établissement.
 

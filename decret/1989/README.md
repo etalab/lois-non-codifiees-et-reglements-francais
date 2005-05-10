@@ -345,6 +345,7 @@
 - [Décret n°89-696 du 25 septembre 1989 (AGRS8901657D)](decret-n89-696-du-25-septembre-1989-agrs8901657d)
 - [Décret n°89-803 du 25 octobre 1989 (FPPX8900145D)](decret-n89-803-du-25-octobre-1989-fppx8900145d)
 - [Décret n°89-334 du 25 mai 1989 (PTTA8800761D)](decret-n89-334-du-25-mai-1989-ptta8800761d)
+- [Décret n°89-336 du 25 mai 1989 (MENL8900267D)](decret-n89-336-du-25-mai-1989-menl8900267d)
 - [Décret n°85-1396 du 26 décembre 1985](decret-n85-1396-du-26-decembre-1985)
 - [Décret n°89-262 du 26 avril 1989 (MCCK8900091D)](decret-n89-262-du-26-avril-1989-mcck8900091d)
 - [Décret n°89-264 du 26 avril 1989 (PTTA8801158D)](decret-n89-264-du-26-avril-1989-ptta8801158d)

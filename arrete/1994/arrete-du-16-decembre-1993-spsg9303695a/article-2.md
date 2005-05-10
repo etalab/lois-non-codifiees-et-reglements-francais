@@ -6,7 +6,7 @@ a) Membres avec voix délibérative :
 
 la personne responsable des marchés ou l'un de ses représentants désigné à cet effet, président ;
 
-le contrôleur financier ou l'un de ses représentants désigné à cet effet ;
+le membre du corps du contrôle général économique et financier ou l'un de ses représentants désigné à cet effet ;
 
 le directeur ou le chef de service dont relève l'opération ou son représentant ;
 

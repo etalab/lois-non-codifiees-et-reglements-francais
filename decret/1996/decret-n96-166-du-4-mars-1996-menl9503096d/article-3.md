@@ -1,0 +1,3 @@
+# Article 3
+
+Le produit de cette cotisation est affecté, selon des modalités établies par un protocole signé entre l'Association nationale pour la formation automobile, les ministres mentionnés à l'article 7 ainsi que les ministres chargés de l'économie et du budget, au développement qualitatif de la formation professionnelle dans la branche considérée, particulièrement par le financement des investissements et du fonctionnement des centres de formation d'apprentis et des sections d'apprentissage, par la formation de personnels enseignants et de maîtres d'apprentissage ainsi que par l'acquisition de matériel technique et pédagogique.

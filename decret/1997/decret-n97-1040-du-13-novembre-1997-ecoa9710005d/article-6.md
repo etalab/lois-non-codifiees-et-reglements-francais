@@ -4,7 +4,7 @@ Le conseil d'administration se réunit au moins deux fois par an, sur convocatio
 
 Les délibérations du conseil d'administration sont prises à la majorité des membres présents ; en cas de partage des voix, celle du président est prépondérante.
 
-Le contrôleur financier, l'agent comptable et le commissaire du Gouvernement assistent aux séances avec voix consultatives.
+Le membre du corps du contrôle général économique et financier, l'agent comptable et le commissaire du Gouvernement assistent aux séances avec voix consultatives.
 
 Le président peut appeler à participer aux séances avec voix consultative toute personne dont il juge la présence utile pour l'étude d'un point particulier de l'ordre du jour.
 

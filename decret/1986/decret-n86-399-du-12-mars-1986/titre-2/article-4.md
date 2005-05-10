@@ -18,6 +18,6 @@ Les membres décédés, démissionnaires ou qui n'exercent plus les fonctions en
 
 Les fonctions de membre du conseil d'administration sont gratuites. Elles ouvrent droit aux indemnités de déplacement et de séjour prévus par le décret du 10 août 1966 susvisé.
 
-Le président du conseil scientifique, le directeur du centre, le contrôleur financier et l'agent comptable assistent aux séances du conseil d'administration avec voix consultative.
+Le président du conseil scientifique, le directeur du centre, le membre du corps du contrôle général économique et financier et l'agent comptable assistent aux séances du conseil d'administration avec voix consultative.
 
 Le président peut également appeler à participer aux séances, avec voix consultative, toute personne dont il juge la présence utile.

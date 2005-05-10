@@ -1,6 +1,6 @@
 # Article 11
 
-Le contrôleur financier suit le recouvrement des recettes de l'établissement. Il peut demander l'émission par l'ordonnateur d'un titre de recettes. Il vise :
+Le membre du corps du contrôle général économique et financier suit le recouvrement des recettes de l'établissement. Il peut demander l'émission par l'ordonnateur d'un titre de recettes. Il vise :
 
 - les propositions d'admission en non-valeur des créances ;
 

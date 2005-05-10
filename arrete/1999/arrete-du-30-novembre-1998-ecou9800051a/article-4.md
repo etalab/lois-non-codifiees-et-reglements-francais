@@ -1,6 +1,6 @@
 # Article 4
 
-Le contrôleur d'Etat formule, le cas échéant, toutes observations ou recommandations qu'il juge utiles.
+Le membre du corps du contrôle général économique et financier formule, le cas échéant, toutes observations ou recommandations qu'il juge utiles.
 
 Ainsi, il est destinataire, en temps utile, des projets relatifs :
 

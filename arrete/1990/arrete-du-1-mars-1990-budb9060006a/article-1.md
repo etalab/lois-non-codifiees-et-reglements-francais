@@ -1,3 +1,3 @@
 # Article 1
 
-Le contrôleur d'Etat nommé auprès du groupement d'intérêt public chargé du service d'accueil téléphonique pour l'enfance maltraitée a une mission générale de contrôle de la gestion du service et de surveillance de toutes les opérations menées par le groupement ou avec son concours [*attribution*].
+Le membre du corps du contrôle général économique et financier nommé auprès du groupement d'intérêt public chargé du service d'accueil téléphonique pour l'enfance maltraitée a une mission générale de contrôle de la gestion du service et de surveillance de toutes les opérations menées par le groupement ou avec son concours.

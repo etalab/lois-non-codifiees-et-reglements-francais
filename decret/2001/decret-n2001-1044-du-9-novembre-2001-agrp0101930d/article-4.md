@@ -4,4 +4,4 @@ Les groupements d'intérêt public visés à l'article 1er du présent décret s
 
 Ils sont soumis aux dispositions du décret du 9 août 1953 susvisé s'ils répondent aux conditions prévues à l'article 7 dudit décret.
 
-Le contrôleur d'Etat auprès du groupement est désigné lors de l'approbation de la convention constitutive par les ministres chargés de l'économie, des finances et du budget.
+Le membre du corps du contrôle général économique et financier auprès du groupement est désigné lors de l'approbation de la convention constitutive par les ministres chargés de l'économie, des finances et du budget.

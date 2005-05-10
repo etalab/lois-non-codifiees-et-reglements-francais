@@ -1,3 +1,5 @@
 # Article 4
 
-Les arrêtés du 13 janvier 1977 et du 8 mars 1978 sont abrogés.
+Le mandat des membres du comité autres que ceux représentant l'Etat est fixé à trois ans.
+
+Les fonctions de membres du comité de gestion sont exercées à titre gratuit.

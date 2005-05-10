@@ -18,7 +18,7 @@ Le directeur de la pharmacie et du médicament ou son représentant ;
 
 Le directeur de la sécurité sociale ou son représentant ;
 
-Le contrôleur financier ou son représentant ;
+Le membre du corps du contrôle général économique et financier ou son représentant ;
 
 Le chef du service des statistiques, des études et des systèmes d'information ou son représentant ;
 

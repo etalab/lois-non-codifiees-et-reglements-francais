@@ -1,5 +1,7 @@
-# Arrêté du 8 décembre 1986 fixant le plafond de ressources de l'année 1985 applicable en 1987 pour l'octroi des majorations aux rentes viagères constituées à compter du 1er janvier 1979
+# Arrêté du 8 décembre 1986 relatif aux modalités d'exercice du contrôle financier sur l'Agence nationale pour l'amélioration des conditions de travail
 
+- [Article 1](article-1.md)
+- [Article 2](article-2.md)
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)
 - [Article 5](article-5.md)

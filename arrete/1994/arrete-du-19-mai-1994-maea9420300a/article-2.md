@@ -8,7 +8,7 @@ la personne responsable des marchés ou son représentant, président de la comm
 
 le ou les directeurs ou chef(s) de service dont relève l'opération ou leur représentant ;
 
-le contrôleur financier ou son représentant ;
+le membre du corps du contrôle général économique et financier ou son représentant ;
 
 le chef du bureau des marchés et des relations financières de la direction des affaires budgétaires, administratives et financières ou son représentant.
 

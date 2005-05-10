@@ -6,6 +6,6 @@ Le préfet de la région Lorraine, préfet de la Moselle, et les préfets de Meu
 
 Le préfet de région peut faire inscrire à l'ordre du jour du conseil d'administration toute question dont l'examen lui paraît utile.
 
-Le directeur régional de l'équipement de Lorraine, le directeur régional de l'agriculture et de la forêt de Lorraine, le directeur régional de l'environnement de Lorraine, le contrôleur d'Etat et l'agent comptable ont accès aux séances du conseil et y sont entendus chaque fois qu'ils le demandent. Les procès-verbaux et délibérations de toutes les séances leur sont adressés.
+Le directeur régional de l'équipement de Lorraine, le directeur régional de l'agriculture et de la forêt de Lorraine, le directeur régional de l'environnement de Lorraine, le membre du corps du contrôle général économique et financier et l'agent comptable ont accès aux séances du conseil et y sont entendus chaque fois qu'ils le demandent. Les procès-verbaux et délibérations de toutes les séances leur sont adressés.
 
 Le conseil peut inviter toute personne dont l'audition lui paraît utile.

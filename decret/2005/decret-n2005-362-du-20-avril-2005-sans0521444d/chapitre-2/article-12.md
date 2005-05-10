@@ -4,4 +4,4 @@ Les membres élus de l'instance nationale font partie de la section correspondan
 
 Chaque section élit, dans les conditions précisées par le règlement intérieur de l'instance nationale, un président de section.
 
-Les sections se réunissent sur convocation de leur président. Les représentants des ministres de tutelle et le contrôleur d'Etat compétent assistent aux séances et sont entendus chaque fois qu'ils le demandent.
+Les sections se réunissent sur convocation de leur président. Les représentants des ministres de tutelle et le membre du corps du contrôle général économique et financier compétent assistent aux séances et sont entendus chaque fois qu'ils le demandent.

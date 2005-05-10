@@ -8,7 +8,7 @@ Le président de l'établissement est nommé par décret pris sur proposition du
 
 3° Il est ordonnateur des recettes et des dépenses, prépare et signe les accords d'entreprise et veille à leur bonne application ;
 
-4° Il peut prendre dans l'intervalle des séances du conseil d'administration, sous réserve de l'avis préalable du contrôleur d'Etat, des décisions modificatives de l'état prévisionnel des recettes et dépenses qui ne comportent ni accroissement des effectifs permanents ou du montant total des dépenses, ni réduction du montant total des recettes, ni virements de crédits entre les chapitres de personnel et les chapitres de matériel ; ces décisions sont ratifiées par le conseil d'administration lors de sa plus prochaine séance ;
+4° Il peut prendre dans l'intervalle des séances du conseil d'administration, sous réserve de l'avis préalable du membre du corps du contrôle général économique et financier, des décisions modificatives de l'état prévisionnel des recettes et dépenses qui ne comportent ni accroissement des effectifs permanents ou du montant total des dépenses, ni réduction du montant total des recettes, ni virements de crédits entre les chapitres de personnel et les chapitres de matériel ; ces décisions sont ratifiées par le conseil d'administration lors de sa plus prochaine séance ;
 
 5° Il signe les contrats et conventions engageant l'établissement ;
 

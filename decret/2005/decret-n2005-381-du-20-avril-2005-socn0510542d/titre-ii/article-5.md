@@ -1,6 +1,6 @@
 # Article 5
 
-I. - Jusqu'aux nominations du directeur général, du comptable public et du contrôleur financier de l'Agence nationale de l'accueil des étrangers et des migrations, les fonctions de directeur général, d'ordonnateur principal, de comptable public et de contrôleur financier de l'agence sont respectivement exercées par le directeur, l'agent comptable et le contrôleur d'Etat de l'Office des migrations internationales.
+I. - Jusqu'aux nominations du directeur général, du comptable public et du membre du corps du contrôle général économique et financier de l'Agence nationale de l'accueil des étrangers et des migrations, les fonctions de directeur général, d'ordonnateur principal, de comptable public et de membre du corps du contrôle général économique et financier de l'agence sont respectivement exercées par le directeur, l'agent comptable et le membre du corps du contrôle général économique et financier de l'Office des migrations internationales.
 
 Jusqu'à la première réunion du conseil d'administration de l'agence, le directeur de l'office engage les dépenses nécessaires à la mise en place de l'agence.
 

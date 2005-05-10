@@ -26,4 +26,4 @@ Pour les membres du conseil d'administration représentant l'Etat et les collect
 
 Aucun des membres ne peut rester en fonctions au-delà de soixante-cinq ans.
 
-Le contrôleur d'Etat et l'agent comptable assistent aux séances avec voix consultative.
+Le membre du corps du contrôle général économique et financier et l'agent comptable assistent aux séances avec voix consultative.

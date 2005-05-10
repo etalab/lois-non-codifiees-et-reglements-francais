@@ -6,4 +6,4 @@ Le conseil d'administration et la commission permanente ne peuvent délibérer v
 
 Les dispositions des deuxième et troisième alinéas de l'article 24 du décret du 31 octobre 1961 susvisé sont applicables aux délibérations de la commission permanente prises par délégation du conseil d'administration.
 
-Le préfet de la Guadeloupe, commissaire du Gouvernement, le directeur de la protection de la nature ou leurs représentants, le directeur de l'établissement public et le contrôleur financier assistent de droit aux séances du conseil d'administration et de la commission permanente avec voix consultative.
+Le préfet de la Guadeloupe, commissaire du Gouvernement, le directeur de la protection de la nature ou leurs représentants, le directeur de l'établissement public et le membre du corps du contrôle général économique et financier assistent de droit aux séances du conseil d'administration et de la commission permanente avec voix consultative.

@@ -1,6 +1,6 @@
 # Article 7
 
-Pour l'exécution de sa mission, le contrôleur d'Etat peut demander communication ou prendre connaissance sur place de tous documents ou titres détenus par les services de l'association.
+Pour l'exécution de sa mission, le membre du corps du contrôle général économique et financier peut demander communication ou prendre connaissance sur place de tous documents ou titres détenus par les services de l'association.
 
 Par ailleurs, les services compétents lui adressent :
 

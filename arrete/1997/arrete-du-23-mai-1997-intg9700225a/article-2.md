@@ -28,6 +28,6 @@ M. Merrien (Francis), ingénieur en chef des ponts et chaussées, chargé de la 
 
 b) Membres avec voix consultative, dont l'avis peut être porté, sur leur demande, au procès-verbal :
 
-- le contrôleur financier près le ministère de l'intérieur ou son représentant ;
+- le membre du corps du contrôle général économique et financier près le ministère de l'intérieur ou son représentant ;
 
 - le directeur général de la concurrence, de la consommation et de la répression des fraudes ou son représentant.

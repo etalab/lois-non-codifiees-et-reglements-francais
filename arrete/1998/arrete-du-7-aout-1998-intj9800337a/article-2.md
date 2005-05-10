@@ -26,6 +26,6 @@ Le responsable du département Action régionale au service d'information du Gou
 
 b) Membres avec voix consultative, dont l'avis peut être porté sur leur demande au procès-verbal :
 
-Le contrôleur financier ou son représentant ;
+Le membre du corps du contrôle général économique et financier ou son représentant ;
 
 Le directeur général de la concurrence, de la consommation et de la répression des fraudes ou son représentant.

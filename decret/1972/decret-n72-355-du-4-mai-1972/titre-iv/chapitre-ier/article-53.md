@@ -12,7 +12,7 @@ Pendant la durée de leur scolarité fixée par l'article 40, sont compétents �
 
 a) Le directeur de l'école ou son représentant, président ;
 
-b) Le contrôleur financier ou son représentant ;
+b) Le membre du corps du contrôle général économique et financier ou son représentant ;
 
 c) Deux représentants titulaires des auditeurs de justice, ou leurs suppléants, élus dans les conditions prévues par le règlement intérieur ;
 

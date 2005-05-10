@@ -1,0 +1,3 @@
+# Article 1
+
+Le fonds de solidarité prioritaire, inscrit au titre VI du budget du ministère des affaires étrangères, est chargé de contribuer au développement des pays figurant dans la zone de solidarité prioritaire définie par le comité interministériel de la coopération internationale et du développement, par le financement, sous forme de dons, de projets et programmes d'investissements matériels et immatériels, dans les domaines institutionnel, social, culturel et de recherche. Il peut financer, à titre exceptionnel, des opérations d'aide et de coopération situées le cas échéant hors de la zone de solidarité prioritaire.

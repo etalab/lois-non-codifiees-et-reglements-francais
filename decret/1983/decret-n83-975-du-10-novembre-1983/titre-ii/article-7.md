@@ -6,6 +6,6 @@ Le président peut appeler à participer aux séances, avec voix consultative, t
 
 Les membres décédés, démissionnaires ou qui n'exercent plus les fonctions au titre desquelles ils avaient été désignés ou élus doivent être remplacés. Dans ce cas, le mandat des nouveaux membres expire à la date à laquelle aurait normalement pris fin celui de leur prédécesseur.
 
-Le directeur général, le secrétaire général, le contrôleur financier et l'agent comptable assistent aux séances avec voix consultative.
+Le directeur général, le secrétaire général, le membre du corps du contrôle général économique et financier et l'agent comptable assistent aux séances avec voix consultative.
 
 Les fonctions de membre du conseil d'administration sont gratuites.

@@ -8,7 +8,7 @@ La personne responsable des marchés ou son représentant ;
 
 Le directeur ou chef de service dont relève l'opération, ou son représentant ;
 
-Le contrôleur financier ou son représentant ;
+Le membre du corps du contrôle général économique et financier ou son représentant ;
 
 Le directeur d'établissement ou son représentant quand l'affaire le concerne, s'il n'y a pas de dispositions propres à cet établissement.
 

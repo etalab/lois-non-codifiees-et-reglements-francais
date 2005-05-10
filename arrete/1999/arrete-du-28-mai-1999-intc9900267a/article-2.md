@@ -16,6 +16,6 @@ Assistent aux réunions de la commission avec voix consultative :
 
 - le directeur général de la concurrence, de la consommation et de la répression des fraudes ou son représentant ;
 
-- le contrôleur financier ou son représentant ;
+- le membre du corps du contrôle général économique et financier ou son représentant ;
 
 - le directeur de la programmation, des affaires financières et immobilières ou son représentant (sous-direction des affaires financières).

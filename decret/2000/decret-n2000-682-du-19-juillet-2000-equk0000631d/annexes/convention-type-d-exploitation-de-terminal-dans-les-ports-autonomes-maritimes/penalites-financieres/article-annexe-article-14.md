@@ -1,0 +1,3 @@
+# Article Annexe, article 14
+
+En cas de manquement par l'entreprise aux obligations qui lui incombent en application de la présente convention, le port met en demeure, par lettre recommandée avec demande d'avis de réception, l'entreprise de régulariser la situation dans un délai d'au moins trois mois, sauf cas d'urgence. A l'expiration du délai imparti et en l'absence de régularisation, l'entreprise est passible du paiement d'une pénalité dont le montant est fixé par le port sans pouvoir excéder le double de la valeur mensuelle moyenne des redevances et autres rémunérations acquittées en application de l'article 11 au cours des douze mois précédant la mise en demeure susmentionnée.

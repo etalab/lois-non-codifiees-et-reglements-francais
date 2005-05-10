@@ -1,6 +1,6 @@
 # Article 10
 
-Le contrôleur financier assure l'information du conseil de tutelle mentionné à l'article R. 716-3-33.
+Le membre du corps du contrôle général économique et financier assure l'information du conseil de tutelle mentionné à l'article R. 716-3-33.
 
 Il adresse chaque année, avant le 30 juin, au conseil de tutelle un rapport sur les résultats de son activité au titre de l'année précédente.
 

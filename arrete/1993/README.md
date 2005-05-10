@@ -1016,6 +1016,7 @@
 - [Arrêté du 29 avril 1993 (PRMX9300318A)](arrete-du-29-avril-1993-prmx9300318a)
 - [Arrêté du 29 décembre 1992 (ACVM9240048A)](arrete-du-29-decembre-1992-acvm9240048a)
 - [Arrêté du 29 décembre 1992 (AGRG9202617A)](arrete-du-29-decembre-1992-agrg9202617a)
+- [Arrêté du 29 décembre 1992 (INDD9201001A)](arrete-du-29-decembre-1992-indd9201001a)
 - [Arrêté du 29 décembre 1992 (MENB9304144A)](arrete-du-29-decembre-1992-menb9304144a)
 - [Arrêté du 29 décembre 1992 (SPSS9203351A)](arrete-du-29-decembre-1992-spss9203351a)
 - [Arrêté du 29 décembre 1993 (SPSS9303708A)](arrete-du-29-decembre-1993-spss9303708a)

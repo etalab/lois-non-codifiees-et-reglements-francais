@@ -24,4 +24,4 @@ Le président du conseil d'administration est nommé par décret pour une durée
 
 Le conseil d'administration élit parmi ses membres un vice-président.
 
-L'administrateur général, le contrôleur d'Etat et l'agent comptable assistent aux séances du conseil d'administration avec voix consultative. Le président peut appeler à participer aux séances toute personne dont il juge la présence utile, et notamment les responsables des musées nationaux.
+L'administrateur général, le membre du corps du contrôle général économique et financier et l'agent comptable assistent aux séances du conseil d'administration avec voix consultative. Le président peut appeler à participer aux séances toute personne dont il juge la présence utile, et notamment les responsables des musées nationaux.

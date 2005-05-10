@@ -8,7 +8,7 @@ a) Avec voix délibérative :
 
 - trois représentants de la direction pour le compte de laquelle l'adjudication ou l'appel d'offres est lancé ;
 
-- le contrôleur financier central ou son représentant ;
+- le membre du corps du contrôle général économique et financier central ou son représentant ;
 
 b) Avec voix consultative :
 

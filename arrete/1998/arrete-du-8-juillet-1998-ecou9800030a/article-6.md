@@ -1,6 +1,6 @@
 # Article 6
 
-Sont soumis au visa préalable du contrôleur d'Etat, avant engagement :
+Sont soumis au visa préalable du membre du corps du contrôle général économique et financier, avant engagement :
 
 - les décisions de recrutement des agents ayant le statut de cadre ;
 
@@ -18,4 +18,4 @@ Sont soumis au visa préalable du contrôleur d'Etat, avant engagement :
 
 - les décisions d'admission en non-valeur des créances irrécouvrables.
 
-Les seuils prévus au présent article peuvent être révisés par le contrôleur d'Etat à l'issue d'une période de six mois à compter de la date d'entrée en vigueur du présent arrêté. Il en informe le conseil d'administration et le ministre chargé du budget.
+Les seuils prévus au présent article peuvent être révisés par le membre du corps du contrôle général économique et financier à l'issue d'une période de six mois à compter de la date d'entrée en vigueur du présent arrêté. Il en informe le conseil d'administration et le ministre chargé du budget.

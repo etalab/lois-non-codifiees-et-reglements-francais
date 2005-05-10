@@ -8,7 +8,7 @@ La personne responsable des marchés (le préfet de région ou de département, 
 
 Le chef du service déconcentré intéressé, lorsqu'il n'est pas la personne responsable des marchés, ou son représentant ;
 
-Le trésorier-payeur général du département, contrôleur financier local, ou son représentant ;
+Le trésorier-payeur général du département, membre du corps du contrôle général économique et financier local, ou son représentant ;
 
 Le directeur d'établissement ou son représentant, quand l'affaire le concerne, s'il n'y a pas de dispositions propres à cet établissement.
 

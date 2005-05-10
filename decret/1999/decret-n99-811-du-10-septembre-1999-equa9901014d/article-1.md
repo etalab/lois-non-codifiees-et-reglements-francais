@@ -22,4 +22,4 @@ Le comité de gestion, créé par l'article 75 de la loi du 30 décembre 1998 su
 
 - deux personnalités, nommées pour deux ans renouvelables, choisies par le ministre chargé de l'aviation civile en raison de leur connaissance du transport aérien ou des activités aéroportuaires.
 
-Le contrôleur financier des services de l'aviation civile et l'agent comptable du Fonds d'intervention pour les aéroports et le transport aérien participent aux réunions du comité, avec voix consultative.
+Le membre du corps du contrôle général économique et financier des services de l'aviation civile et l'agent comptable du Fonds d'intervention pour les aéroports et le transport aérien participent aux réunions du comité, avec voix consultative.

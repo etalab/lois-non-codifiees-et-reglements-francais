@@ -1,6 +1,6 @@
 # Article 5
 
-Sont soumis au visa préalable du contrôleur d'Etat :
+Sont soumis au visa préalable du membre du corps du contrôle général économique et financier :
 
 - les projets de marchés d'un montant supérieur à 300 000 F (TTC) ;
 

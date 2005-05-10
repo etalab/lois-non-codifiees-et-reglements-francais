@@ -6,6 +6,6 @@ Le commissaire du Gouvernement ou son représentant assiste avec voix consultati
 
 Il a communication de tous les documents relatifs au groupement, droit de visite dans les locaux appartenant au groupement ou mis à sa disposition et droit de veto suspensif de quinze jours pour les décisions qui mettent en jeu l'existence ou le bon fonctionnement du groupement. Pendant ce délai, l'autorité qui a pris la décision procède à un nouvel examen.
 
-Il approuve le recrutement du personnel propre du groupement, après avis du contrôleur d'Etat.
+Il approuve le recrutement du personnel propre du groupement, après avis du membre du corps du contrôle général économique et financier.
 
 Il informe les administrations dont relèvent les établissements publics participant au groupement.

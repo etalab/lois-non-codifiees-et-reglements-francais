@@ -1,0 +1,3 @@
+# Article 3
+
+Les destinataires de ces informations sont l'ensemble des services chargés de la gestion de personnel, notamment la sous-direction des personnels d'administration centrale et de l'enseignement agricole, la sous-direction des personnels des services déconcentrés de la direction générale de l'administration du ministère de l'agriculture et de la forêt, les services d'administration générale des directions départementales et régionales de l'agriculture et de la forêt, les services régionaux de la formation et du développement des directions régionales de l'agriculture et de la forêt, le service du membre du corps du contrôle général économique et financier et les établissements d'enseignement agricole.

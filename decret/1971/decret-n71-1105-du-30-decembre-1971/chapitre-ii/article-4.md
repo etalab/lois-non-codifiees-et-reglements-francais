@@ -10,4 +10,4 @@ Le directeur régional des impôts ou son représentant, et pour l'académie de 
 
 Quatre personnalités choisies par le ministre de l'éducation nationale ; ce nombre est porté à huit en ce qui concerne l'académie de Paris ;
 
-Le contrôleur financier placé auprès de l'établissement, le secrétaire général de l'académie et l'agent comptable assistent aux séances du conseil d'administration avec voix consultative.
+Le membre du corps du contrôle général économique et financier placé auprès de l'établissement, le secrétaire général de l'académie et l'agent comptable assistent aux séances du conseil d'administration avec voix consultative.

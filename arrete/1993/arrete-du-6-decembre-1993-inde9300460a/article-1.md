@@ -10,7 +10,7 @@ du directeur général de la concurrence, de la consommation et de la répressio
 
 du commissaire du Gouvernement ou son représentant ;
 
-du contrôleur d'Etat de l'Andra ou son représentant ;
+du membre du corps du contrôle général économique et financier de l'Andra ou son représentant ;
 
 de deux représentants de l'Andra désignés par le directeur général de l'Andra.
 

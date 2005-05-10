@@ -2,7 +2,7 @@
 
 La commission mentionnée à l'article 5 du présent décret est composée comme suit :
 
-- le contrôleur d'Etat près la Caisse nationale de l'assurance maladie des travailleurs salariés ou son représentant ;
+- le membre du corps du contrôle général économique et financier près la Caisse nationale de l'assurance maladie des travailleurs salariés ou son représentant ;
 
 - une personne qualifiée, président de la commission, désignée par arrêté du ministre chargé de la santé ;
 

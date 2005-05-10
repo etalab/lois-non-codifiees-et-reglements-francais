@@ -14,7 +14,7 @@ Représentant du signataire.
 
 - exemplaire A, au signataire ;
 
-- exemplaire B, au contrôleur financier.
+- exemplaire B, au membre du corps du contrôle général économique et financier.
 
 Représentant du signataire.
 
@@ -26,7 +26,7 @@ Représentant du signataire.
 
 Bureau des affaires juridiques et contentieuses.
 
-1.3. Transmission au contrôleur financier pour visa du projet de l'autre convention accompagné de l'exemplaire A du rapport de présentation.
+1.3. Transmission au membre du corps du contrôle général économique et financier pour visa du projet de l'autre convention accompagné de l'exemplaire A du rapport de présentation.
 
 Représentant du signataire.
 

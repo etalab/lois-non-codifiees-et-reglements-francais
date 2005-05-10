@@ -1,6 +1,6 @@
 # Article 1
 
-Il est institué au sein de l'Etablissement public du Centre de conférences internationales de Paris un bureau des marchés qui comprend [*composition*] :
+Il est institué au sein de l'Etablissement public du Centre de conférences internationales de Paris un bureau des marchés qui comprend :
 
 - le directeur général ou son représentant, président ;
 
@@ -8,7 +8,7 @@ Il est institué au sein de l'Etablissement public du Centre de conférences int
 
 - un représentant du ministre chargé des grands travaux ;
 
-- le contrôleur financier ou son représentant ;
+- le membre du corps du contrôle général économique et financier ou son représentant ;
 
 - l'agent comptable ou son représentant ;
 

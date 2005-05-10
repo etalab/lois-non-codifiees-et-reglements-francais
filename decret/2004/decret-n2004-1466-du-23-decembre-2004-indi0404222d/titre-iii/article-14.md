@@ -6,4 +6,4 @@ L'agence est soumise :
 
 - au contrôle financier institué par le décret du 25 octobre 1935 susvisé.
 
-Le contrôleur financier exerce ses missions selon des modalités fixées, en tant que de besoin, par arrêté des ministres chargés des mines et du budget.
+Le membre du corps du contrôle général économique et financier exerce ses missions selon des modalités fixées, en tant que de besoin, par arrêté des ministres chargés des mines et du budget.

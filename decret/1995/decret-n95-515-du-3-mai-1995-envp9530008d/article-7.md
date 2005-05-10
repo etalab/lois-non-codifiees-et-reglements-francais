@@ -42,4 +42,4 @@ Le secrétariat du comité de gestion est assuré par le président du conseil d
 
 - le compte rendu annuel de son activité.
 
-Le contrôleur d'Etat près l'Agence de l'environnement et de la maîtrise de l'énergie assiste aux réunions du comité de gestion.
+Le membre du corps du contrôle général économique et financier près l'Agence de l'environnement et de la maîtrise de l'énergie assiste aux réunions du comité de gestion.

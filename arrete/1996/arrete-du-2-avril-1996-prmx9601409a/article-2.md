@@ -18,6 +18,6 @@ b) Membres avec voix consultative :
 
 - le directeur général de la concurrence, de la consommation et de la répression des fraudes ou son représentant ;
 
-- le contrôleur financier ou son représentant ;
+- le membre du corps du contrôle général économique et financier ou son représentant ;
 
 - l'agent comptable de la Direction des Journaux officiels.

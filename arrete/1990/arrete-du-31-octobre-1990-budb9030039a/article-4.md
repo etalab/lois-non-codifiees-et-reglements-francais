@@ -1,10 +1,10 @@
 # Article 4
 
-Sont soumis au visa préalable du contrôleur d'Etat :
+Sont soumis au visa préalable du membre du corps du contrôle général économique et financier :
 
 - les budgets et leurs décisions modificatives ;
 
-- les marchés, commandes, conventions et contrats de service ou de sous-traitance dont le montant est supérieur à un seuil fixé par le conseil d'administration, en accord avec le contrôleur d'Etat ;
+- les marchés, commandes, conventions et contrats de service ou de sous-traitance dont le montant est supérieur à un seuil fixé par le conseil d'administration, en accord avec le membre du corps du contrôle général économique et financier ;
 
 - les baux, avenants et renouvellements de baux d'un montant supérieur à 100 000 F ;
 

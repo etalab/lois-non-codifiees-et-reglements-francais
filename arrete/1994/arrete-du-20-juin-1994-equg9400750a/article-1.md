@@ -14,4 +14,4 @@ un représentant de la direction générale de la concurrence, de la consommatio
 
 tout fonctionnaire ou agent désigné par le président en raison de sa compétence établie dans la matière qui fait l'objet de la consultation ;
 
-le contrôleur financier central ou son représentant.
+le membre du corps du contrôle général économique et financier central ou son représentant.

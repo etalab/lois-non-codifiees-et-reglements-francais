@@ -6,6 +6,6 @@ Le préfet de la région Haute-Normandie, le préfet de la région Basse-Normand
 
 Le préfet de la région Haute-Normandie ou le préfet de la région Basse-Normandie peuvent faire inscrire à l'ordre du jour du conseil d'administration toute question dont l'examen leur paraît utile.
 
-Les directeurs régionaux de l'équipement de Haute-Normandie et de Basse-Normandie, les directeurs régionaux de l'agriculture et de la forêt de Haute-Normandie et de Basse-Normandie, les directeurs régionaux de l'environnement de Haute-Normandie et de Basse-Normandie, le directeur général de l'établissement, le contrôleur d'Etat et l'agent comptable de l'établissement ont accès aux séances du conseil d'administration et y sont entendus chaque fois qu'ils le demandent. Les procès-verbaux et délibérations de toutes les séances leur sont adressés.
+Les directeurs régionaux de l'équipement de Haute-Normandie et de Basse-Normandie, les directeurs régionaux de l'agriculture et de la forêt de Haute-Normandie et de Basse-Normandie, les directeurs régionaux de l'environnement de Haute-Normandie et de Basse-Normandie, le directeur général de l'établissement, le membre du corps du contrôle général économique et financier et l'agent comptable de l'établissement ont accès aux séances du conseil d'administration et y sont entendus chaque fois qu'ils le demandent. Les procès-verbaux et délibérations de toutes les séances leur sont adressés.
 
 Le conseil d'administration peut inviter toute personne dont l'audition lui paraît utile.

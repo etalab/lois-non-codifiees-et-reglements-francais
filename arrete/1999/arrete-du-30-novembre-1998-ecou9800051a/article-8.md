@@ -1,6 +1,6 @@
 # Article 8
 
-Le contrôleur d'Etat assiste l'autorité responsable de l'Etat dans la préparation des conventions d'objectifs et de gestion conclues entre l'Etat et les caisses nationales.
+Le membre du corps du contrôle général économique et financier assiste l'autorité responsable de l'Etat dans la préparation des conventions d'objectifs et de gestion conclues entre l'Etat et les caisses nationales.
 
 Chaque année, il établit un bilan de l'exécution des objectifs assignés à l'établissement public. Il porte un jugement sur le niveau de réalisation des objectifs, analyse les écarts et leurs causes et préconise, s'il y a lieu, des mesures de correction.
 

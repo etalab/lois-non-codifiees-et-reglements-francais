@@ -10,6 +10,6 @@ Il représente l'établissement en justice et dans tous les actes de la vie civi
 
 Il recrute et gère le personnel.
 
-Il arrête, en accord avec le contrôleur d'Etat, les modifications à l'état prévisionnel des recettes et des dépenses qui ne sont pas soumises au conseil d'administration en application du deuxième alinéa de l'article 6.
+Il arrête, en accord avec le membre du corps du contrôle général économique et financier,les modifications à l'état prévisionnel des recettes et des dépenses qui ne sont pas soumises au conseil d'administration en application du deuxième alinéa de l'article 6.
 
 Il peut déléguer sa signature aux responsables des services de l'établissement, sauf dans les matières mentionnées à l'alinéa précédent.

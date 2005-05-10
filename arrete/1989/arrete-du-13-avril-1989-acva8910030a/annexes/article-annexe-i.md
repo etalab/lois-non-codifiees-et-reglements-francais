@@ -2,7 +2,7 @@
 
 PROCÉDURE PROPRE AUX MARCHÉS PUBLICS
 
-O P É R A T E U R
+OPÉRATEUR
 
 Phase préliminaire :
 
@@ -40,7 +40,7 @@ Gestionnaire.
 
 1.5. Enregistrement du marché :
 
-Etablissement d'une fiche de suivi (rubriques Renseignements généraux, Renseignements financiers et Conditions pratiques) et constitution du dossier destiné au contrôleur financier.
+Etablissement d'une fiche de suivi (rubriques Renseignements généraux, Renseignements financiers et Conditions pratiques) et constitution du dossier destiné au membre du corps du contrôle général économique et financier.
 
 Bureau des affaires immobilières, équipement et travaux.
 

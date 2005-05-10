@@ -1,6 +1,6 @@
 # Article 42
 
-La gestion de la caisse de retraites des personnels de l'Opéra national de Paris est confiée à une commission de quatorze membres ainsi constituée [*composition*] :
+La gestion de la caisse de retraites des personnels de l'Opéra national de Paris est confiée à une commission de quatorze membres ainsi constituée :
 
 1° Membres nommés :
 
@@ -18,7 +18,7 @@ Le directeur de la sécurité sociale ou son représentant ;
 
 Le directeur général de la Caisse des dépôts et consignations ou son représentant ;
 
-Le contrôleur d'Etat de l'Opéra national de Paris.
+Le membre du corps du contrôle général économique et financier de l'Opéra national de Paris.
 
 3° Membres élus par le personnel du théâtre national de l'Opéra de Paris
 
@@ -36,7 +36,7 @@ Machinistes, électriciens, accessoiristes, chauffeurs et pompiers ;
 
 Services de l'administration, du contrôle, de l'habillement et services autres que ceux ci-dessus mentionnés.
 
-Les membres désignés par arrêté sont nommés pour trois ans ; leurs fonctions peuvent être renouvelées [*durée du mandat*].
+Les membres désignés par arrêté sont nommés pour trois ans ; leurs fonctions peuvent être renouvelées.
 
 Les membres soumis à l'élection sont élus pour trois ans au suffrage direct ; ils sont rééligibles. Chaque groupe du personnel ci-dessus mentionné désigne en outre tous les trois ans un délégué suppléant qui remplace le titulaire en cas d'empêchement de celui-ci. Les pouvoirs des membres élus expirent le 1er janvier de chaque période triennale.
 

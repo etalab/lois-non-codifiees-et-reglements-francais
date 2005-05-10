@@ -12,7 +12,7 @@ a) Membres avec voix délibérative :
 
 b) Membres avec voix consultative :
 
-- le contrôleur financier ou son représentant ;
+- le membre du corps du contrôle général économique et financier ou son représentant ;
 
 - le directeur général de la concurrence, de la consommation et de la répression des fraudes ou son représentant ;
 

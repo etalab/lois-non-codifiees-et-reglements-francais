@@ -24,7 +24,7 @@ L'élection des représentants du personnel a lieu suivant les règles applicabl
 
 Le mandat des membres du conseil d'administration est renouvelable. En cas de vacance survenant, pour quelque cause que ce soit, plus de six mois avant l'expiration du mandat d'un membre titulaire ou suppléant du conseil d'administration, il est pourvu à la vacance pour la durée restant à courir de ce mandat.
 
-Le directeur général ou son représentant, le contrôleur financier et l'agent comptable assistent aux séances avec voix consultative.
+Le directeur général ou son représentant, le membre du corps du contrôle général économique et financier et l'agent comptable assistent aux séances avec voix consultative.
 
 Assistent également aux séances avec voix consultative les personnes dont l'audition est demandée par le président du conseil d'administration ou par le directeur général.
 

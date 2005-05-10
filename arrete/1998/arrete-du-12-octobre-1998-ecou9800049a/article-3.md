@@ -1,6 +1,6 @@
 # Article 3
 
-Pour l'exécution de sa mission, le contrôleur d'Etat a tous pouvoirs d'investigation sur pièces et sur place. Il peut demander communication de tous documents détenus par l'organisme, des procès-verbaux ou comptes rendus des réunions auxquelles il n'a pas assisté ainsi que la production de notes explicatives. Il reçoit copie de toute correspondance ou document adressés au ministre chargé du budget.
+Pour l'exécution de sa mission, le membre du corps du contrôle général économique et financier a tous pouvoirs d'investigation sur pièces et sur place. Il peut demander communication de tous documents détenus par l'organisme, des procès-verbaux ou comptes rendus des réunions auxquelles il n'a pas assisté ainsi que la production de notes explicatives. Il reçoit copie de toute correspondance ou document adressés au ministre chargé du budget.
 
 Il reçoit en outre obligatoirement :
 

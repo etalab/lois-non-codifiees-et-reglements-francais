@@ -1,6 +1,6 @@
 # Article 5
 
-Le directeur d'un établissement public national peut, par décision prise sous sa seule signature et après accord du contrôleur financier ou du contrôleur d'Etat placé auprès de l'établissement, créer des régies de recettes pour l'encaissement des produits suivants :
+Le directeur d'un établissement public national peut, par décision prise sous sa seule signature et après accord du membre du corps du contrôle général économique et financier placé auprès de l'établissement, créer des régies de recettes pour l'encaissement des produits suivants :
 
 - ventes de documents, publications ou objets divers ;
 

@@ -12,7 +12,7 @@ Du trésorier-payeur général de l'Assistance publique - hôpitaux de Paris ;
 
 Du rapporteur général du budget de l'Assistance publique - hôpitaux de Paris au conseil d'administration ;
 
-Du contrôleur financier près l'Assistance publique - hôpitaux de Paris ;
+Du membre du corps du contrôle général économique et financier près l'Assistance publique - hôpitaux de Paris ;
 
 D'un représentant élu par le conseil d'administration de l'Assistance publique - hôpitaux de Paris ;
 

@@ -1,6 +1,6 @@
 # Article 9
 
-Le contrôleur financier reçoit mensuellement, selon les modalités et la forme qu'il détermine :
+Le membre du corps du contrôle général économique et financier reçoit mensuellement, selon les modalités et la forme qu'il détermine :
 
 - la situation d'exécution des budgets de gestion administrative et de gestion technique ;
 

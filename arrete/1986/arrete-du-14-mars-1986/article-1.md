@@ -1,5 +1,3 @@
 # Article 1
 
-Les organismes admis à recevoir les versements des employeurs assujettis à la participation obligatoire à l'effort de construction au titre de l'article R. 313-9 (2°, b) du code de la construction et de l'habitation sont définis comme suit :
-
-a) Les chambres de commerce et d'industrie, les services ou groupements interconsulaires constitués par les chambres de commerce et d'industrie.
+Il est créé auprès de l'Agence de l'environnement et de la maitrise de l'énergie un comité de gestion de la taxe instituée par le décret n° 89-649 du 31 août 1989.

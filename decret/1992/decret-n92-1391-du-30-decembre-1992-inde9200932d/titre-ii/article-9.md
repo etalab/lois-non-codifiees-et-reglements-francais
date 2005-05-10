@@ -10,10 +10,10 @@ Le conseil d'administration peut consulter le comité sur toute autre question d
 
 Le comité financier, qui est présidé par le directeur général de l'agence, comprend :
 
-1° Cinq représentants des activités économiques intéressées par l'action de l'établissement, dont les quatre membres du conseil d'administration mentionnés au 3° de l'article 2 et une personnalité désignée par le ministre chargé de l'énergie ;
+1° Cinq représentants des activités économiques intéressés par l'action de l'établissement, dont les quatre membres du conseil d'administration mentionnés au 3° de l'article 2 et une personnalité désignée par le ministre chargé de l'énergie ;
 
 2° Un représentant du ministre chargé du budget.
 
-Le commissaire du Gouvernement et le contrôleur d'Etat de l'établissement peuvent assister aux réunions de ce comité.
+Le commissaire du Gouvernement et le membre du corps du contrôle général économique et financier de l'établissement peuvent assister aux réunions de ce comité.
 
 Les membres du comité financier ainsi que les personnes appelées à assister à ses réunions sont tenus de respecter la confidentialité des délibérations. Ils ne doivent divulguer aucun secret industriel ou commercial dont ils pourraient avoir connaissance dans l'exercice de leur mandat.

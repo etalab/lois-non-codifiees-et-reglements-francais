@@ -42,7 +42,7 @@ Pour les membres mentionnés aux 2°, 3° et 4° ci-dessus, des suppléants sont
 
 Le ministre chargé de la marine marchande nomme le président et deux vice-présidents. Le président et le premier vice-président sont choisis parmi les membres siégeant au titre du Conseil d'Etat ou de la Cour des comptes.
 
-Le directeur et le contrôleur financier de l'établissement national des invalides de la marine ont entrée au conseil avec voie consultative.
+Le directeur et le membre du corps du contrôle général économique et financier de l'établissement national des invalides de la marine ont entrée au conseil avec voie consultative.
 
 Les membres du conseil supérieur de l'établissement national des invalides de la marine sont nommés pour quatre ans.
 

@@ -1,6 +1,6 @@
 # Article 5
 
-Sont soumis au visa préalable du contrôleur d'Etat les projets d'engagement portant sur les points suivants :
+Sont soumis au visa préalable du membre du corps du contrôle général économique et financier les projets d'engagement portant sur les points suivants :
 
 - les marchés, commandes, conventions et contrats de service ou de sous-traitance dont le montant est supérieur à 300 000 F ;
 

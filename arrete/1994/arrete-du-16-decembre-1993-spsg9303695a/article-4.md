@@ -14,7 +14,7 @@ les personnes compétentes dans le domaine concerné désignées par la personne
 
 b) Membres avec voix consultative :
 
-le contrôleur financier ou l'un de ses représentants désigné à cet effet ;
+le membre du corps du contrôle général économique et financier ou l'un de ses représentants désigné à cet effet ;
 
 le représentant du directeur général de la concurrence, de la consommation et de la répression des fraudes ;
 

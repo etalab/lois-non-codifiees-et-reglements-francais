@@ -26,4 +26,4 @@ Les fonctions de membre du conseil d'administration ne sont pas rémunérées. E
 
 Le conseil d'administration se réunit au moins deux fois par an sur convocation de son président, qui fixe l'ordre du jour de la réunion et dirige les débats. Les délibérations sont prises à la majorité des membres présents. En cas de partage des voix, celle du président est prépondérante.
 
-Le contrôleur financier et l'agent comptable assistent avec voix consultative aux délibérations du conseil d'administration.
+Le membre du corps du contrôle général économique et financier et l'agent comptable assistent avec voix consultative aux délibérations du conseil d'administration.

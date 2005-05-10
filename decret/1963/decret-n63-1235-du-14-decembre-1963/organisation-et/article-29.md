@@ -12,4 +12,4 @@ La commission élit un président ; son élection est soumise à l'approbation d
 
 En cas de partage, la voix du président de séance est prépondérante.
 
-Le directeur de l'établissement et le contrôleur financier assistent aux séances de la commission permanente, avec voix consultative.
+Le directeur de l'établissement et le membre du corps du contrôle général économique et financier assistent aux séances de la commission permanente, avec voix consultative.

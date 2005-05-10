@@ -1,5 +1,6 @@
 # 1985
 
+- [Décret n°84-1062 du 1 décembre 1984](decret-n84-1062-du-1-decembre-1984)
 - [Décret n°85-294 du 1 mars 1985](decret-n85-294-du-1-mars-1985)
 - [Décret n°85-295 du 1 mars 1985](decret-n85-295-du-1-mars-1985)
 - [Décret n°85-830 du 2 août 1985](decret-n85-830-du-2-aout-1985)
@@ -45,6 +46,7 @@
 - [Décret n°85-1102 du 9 octobre 1985](decret-n85-1102-du-9-octobre-1985)
 - [Décret n°85-1304 du 9 décembre 1985](decret-n85-1304-du-9-decembre-1985)
 - [Décret n°85-1305 du 9 décembre 1985](decret-n85-1305-du-9-decembre-1985)
+- [Décret n°85-701 du 9 juillet 1985](decret-n85-701-du-9-juillet-1985)
 - [Décret n°85-852 du 9 août 1985](decret-n85-852-du-9-aout-1985)
 - [Décret n°85-865 du 9 août 1985](decret-n85-865-du-9-aout-1985)
 - [Décret n°85-38 du 10 janvier 1985](decret-n85-38-du-10-janvier-1985)
@@ -135,6 +137,7 @@
 - [Décret n°85-1242 du 25 novembre 1985](decret-n85-1242-du-25-novembre-1985)
 - [Décret n°85-634 du 25 juin 1985](decret-n85-634-du-25-juin-1985)
 - [Décret n°86-261 du 25 février 1986](decret-n86-261-du-25-fevrier-1986)
+- [Décret n°85-1050 du 26 septembre 1985](decret-n85-1050-du-26-septembre-1985)
 - [Décret n°85-1052 du 26 septembre 1985](decret-n85-1052-du-26-septembre-1985)
 - [Décret n°85-1068 du 26 septembre 1985](decret-n85-1068-du-26-septembre-1985)
 - [Décret n°85-1243 du 26 novembre 1985](decret-n85-1243-du-26-novembre-1985)

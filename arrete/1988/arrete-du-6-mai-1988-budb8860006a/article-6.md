@@ -1,8 +1,8 @@
 # Article 6
 
-Le contrôleur d'Etat contrôle l'exécution du budget de l'A.N.P.E [*attributions*].
+Le membre du corps du contrôle général économique et financier contrôle l'exécution du budget de l'A.N.P.E.
 
-Les services lui adressent chaque mois [*périodicité*]:
+Les services lui adressent chaque mois :
 
 - la situation des engagements de dépenses ;
 

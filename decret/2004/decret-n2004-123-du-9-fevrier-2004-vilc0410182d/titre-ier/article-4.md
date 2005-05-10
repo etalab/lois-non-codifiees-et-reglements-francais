@@ -10,7 +10,7 @@ Le conseil d'administration ne peut valablement délibérer que si la moitié au
 
 Les délibérations sont prises à la majorité des voix des membres présents. En cas de partage égal des voix, la voix du président est prépondérante.
 
-Le directeur général de l'agence, le contrôleur d'Etat et l'agent comptable assistent aux séances du conseil d'administration avec voix consultative.
+Le directeur général de l'agence, le membre du corps du contrôle général économique et financier et l'agent comptable assistent aux séances du conseil d'administration avec voix consultative.
 
 Le conseil d'administration entend le ministre de tutelle à sa demande.
 

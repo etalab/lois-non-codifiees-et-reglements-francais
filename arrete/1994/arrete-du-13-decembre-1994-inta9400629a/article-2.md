@@ -16,7 +16,7 @@ a) Avec voix délibérative :
 
 b) Avec voix consultative :
 
-- le contrôleur financier ou son représentant ;
+- le membre du corps du contrôle général économique et financier ou son représentant ;
 
 - le chef du bureau des groupements et associations ou son représentant ;
 

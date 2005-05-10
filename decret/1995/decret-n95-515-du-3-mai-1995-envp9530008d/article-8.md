@@ -4,4 +4,4 @@ Les décisions concernant la répartition du produit de la taxe sont prises par 
 
 Le comité de gestion est soumis au contrôle économique et financier de l'Etat prévu par le décret du 26 mai 1955 susvisé.
 
-Les décisions du comité sont notifiées par écrit au contrôleur d'Etat.
+Les décisions du comité sont notifiées par écrit au membre du corps du contrôle général économique et financier.

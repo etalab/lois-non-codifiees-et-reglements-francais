@@ -24,7 +24,7 @@ a) Avec voix délibérative :
 
 - le chef du service national des travaux ou son représentant, président ;
 
-- le contrôleur financier ou son représentant ;
+- le membre du corps du contrôle général économique et financier ou son représentant ;
 
 - le responsable de la direction ou du service concerné par l'opération, ou son représentant ;
 

@@ -416,6 +416,7 @@
 - [Arrêté du 13 février 1997 (MCCB9600639A)](arrete-du-13-fevrier-1997-mccb9600639a)
 - [Arrêté du 13 février 1997 (TASH9720540A)](arrete-du-13-fevrier-1997-tash9720540a)
 - [Arrêté du 13 février 1997 (TASH9720541A)](arrete-du-13-fevrier-1997-tash9720541a)
+- [Arrêté du 13 janvier 1997 (BUDB9730005A)](arrete-du-13-janvier-1997-budb9730005a)
 - [Arrêté du 13 janvier 1997 (ECOR9604303A)](arrete-du-13-janvier-1997-ecor9604303a)
 - [Arrêté du 13 janvier 1997 (PRMG9770013A)](arrete-du-13-janvier-1997-prmg9770013a)
 - [Arrêté du 13 janvier 1997 (TASE9710148A)](arrete-du-13-janvier-1997-tase9710148a)

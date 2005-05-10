@@ -10,4 +10,4 @@ du sous-directeur des constructions ou son représentant ;
 
 du sous-directeur des bibliothèques ou son représentant ;
 
-du responsable du centre technique du livre ou son représentant ;    du contrôleur financier central ou son représentant.
+du responsable du centre technique du livre ou son représentant ;    du membre du corps du contrôle général économique et financier central ou son représentant.

@@ -1,6 +1,6 @@
 # Article 9
 
-Le contrôleur financier reçoit selon des modalités et la forme qu'il détermine en accord avec le directeur de l'institution et l'agent comptable :
+Le membre du corps du contrôle général économique et financier reçoit selon des modalités et la forme qu'il détermine en accord avec le directeur de l'institution et l'agent comptable :
 
 - un tableau d'activité des services ;
 

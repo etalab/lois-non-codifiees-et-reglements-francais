@@ -12,7 +12,7 @@ a) Avec voix délibérative :
 
 b) Avec voix consultative :
 
-- le contrôleur d'Etat auprès de l'A.F.P.A. ;
+- le membre du corps du contrôle général économique et financier auprès de l'A.F.P.A. ;
 
 - le représentant du directeur général de la concurrence et de la consommation au ministère de l'économie et des finances ;
 

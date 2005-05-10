@@ -1,6 +1,6 @@
 # Article 5
 
-Sont soumis au visa préalable du contrôleur financier, accompagnés de toutes pièces justificatives :
+Sont soumis au visa préalable du membre du corps du contrôle général économique et financier, accompagnés de toutes pièces justificatives :
 
 1° Les engagements provisionnels présentés par comptes composant les groupes fonctionnels prévus par les articles L. 714-7 et R. 714-3-15 du code de la santé publique et accompagnés, à chaque renouvellement, d'un état certifié justifiant les dépenses effectuées sur l'engagement provisionnel antérieur ;
 

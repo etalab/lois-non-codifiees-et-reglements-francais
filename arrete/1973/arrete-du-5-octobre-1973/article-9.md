@@ -1,6 +1,6 @@
 # Article 9
 
-L'ordonnateur [*attribution*] tient une comptabilité d'engagement de dépenses qui fait ressortir par chapitre, article et paragraphe :
+L'ordonnateur tient une comptabilité d'engagement de dépenses qui fait ressortir par chapitre, article et paragraphe :
 
 Le montant des crédits primitifs et des modifications successives qui leur sont apportées ;
 
@@ -10,4 +10,4 @@ Le montant des remboursements et des reversements qui peuvent ultérieurement at
 
 Le montant des mandats émis.
 
-L'ordonnateur adresse au contrôleur financier, dans les quinze premiers jours de chaque mois, le relevé des engagements de dépense du mois précédent et le montant des mandats correspondants.
+L'ordonnateur adresse au membre du corps du contrôle général économique et financier, dans les quinze premiers jours de chaque mois, le relevé des engagements de dépense du mois précédent et le montant des mandats correspondants.

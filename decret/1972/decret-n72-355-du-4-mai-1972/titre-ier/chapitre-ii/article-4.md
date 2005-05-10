@@ -34,7 +34,7 @@ Un directeur d'institut d'études judiciaires ;
 
 Un professeur des universités.
 
-d) Un chargé de formation élu, au scrutin majoritaire à deux tours et à bulletin secret, par l'ensemble des maîtres de conférences réunis en collège par le directeur.
+d) Un chargé de formation ou son suppléant, élus au scrutin uninominal à deux tours et à bulletin secret par l'ensemble des chargés de formation réunis en collège par le directeur.
 
 e) Un magistrat délégué à la formation et un directeur de centre de stage, nommés par arrêté du garde des sceaux, ministre de la justice, sur proposition du directeur de l'école.
 
@@ -46,4 +46,4 @@ Les membres du conseil d'administration mentionnés au g ne participent pas aux 
 
 Les membres du conseil d'administration visés au f ont voix consultative.
 
-Le directeur de l'école, le contrôleur financier et l'agent comptable assistent aux délibérations du conseil. Le directeur peut se faire accompagner par toute personne de son choix appartenant au personnel de direction ou l'enseignement de l'école. Le président peut également appeler toute personne de son choix à participer aux délibérations. Les personnes mentionnées au présent alinéa ont voix consultative.
+Le directeur de l'école, le membre du corps du contrôle général économique et financier et l'agent comptable assistent aux délibérations du conseil. Le directeur peut se faire accompagner par toute personne de son choix appartenant au personnel de direction ou l'enseignement de l'école. Le président peut également appeler toute personne de son choix à participer aux délibérations. Les personnes mentionnées au présent alinéa ont voix consultative.

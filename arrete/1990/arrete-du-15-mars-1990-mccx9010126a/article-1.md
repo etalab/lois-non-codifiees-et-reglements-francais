@@ -1,6 +1,6 @@
 # Article 1
 
-Il est institué, au sein de l'Etablissement public du Centre de conférences internationales de Paris, une commission d'ouverture des plis qui comprend [*composition*] :
+Il est institué, au sein de l'Etablissement public du Centre de conférences internationales de Paris, une commission d'ouverture des plis qui comprend :
 
 - le directeur général ou son représentant, président ;
 
@@ -10,7 +10,7 @@ Il est institué, au sein de l'Etablissement public du Centre de conférences in
 
 - le directeur général de la concurrence, de la consommation et de la répression des fraudes ou son représentant ;
 
-- le contrôleur financier ou son représentant ;
+- le membre du corps du contrôle général économique et financier ou son représentant ;
 
 - l'agent comptable ou son représentant ;
 

@@ -10,7 +10,7 @@ La commission des marchés de l'Agence de l'environnement et de la maîtrise de 
 
 - le directeur de la technologie ou son représentant ;
 
-- le contrôleur d'Etat auprès de l'agence ou son représentant ;
+- le membre du corps du contrôle général économique et financier auprès de l'agence ou son représentant ;
 
 - deux membres désignés en son sein par la conseil d'administration de l'agence.
 
