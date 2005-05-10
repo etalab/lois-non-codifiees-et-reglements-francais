@@ -30,6 +30,6 @@ Le conseil d'administration délibère notamment sur :
 
 14° Les conditions générales d'attribution des subventions et avances remboursables ;
 
-15° Les remises gracieuses, après avis de l'agent comptable et du contrôleur d'Etat, sauf lorsque la remise concerne une dette de l'agent comptable ; les décisions d'admission en non-valeur sur proposition de l'agent comptable et après avis du contrôleur d'Etat ;
+15° Les remises gracieuses, après avis de l'agent comptable et du membre du corps du contrôle général économique et financier, sauf lorsque la remise concerne une dette de l'agent comptable ; les décisions d'admission en non-valeur sur proposition de l'agent comptable et après avis du membre du corps du contrôle général économique et financier ;
 
 16° Les conditions dans lesquelles il autorise la conclusion de transactions destinées à mettre fin à des litiges.

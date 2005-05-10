@@ -1,0 +1,3 @@
+# Article 9
+
+Le jour du dépôt de leur dossier de candidature en vue de la délivrance d'un titre de la formation professionnelle maritime par la validation des acquis de l'expérience, les personnes intéressées doivent prouver qu'elles satisfont aux normes prévues en matière d'aptitude physique et qu'elles possèdent un certificat médical d'aptitude à la navigation maritime (imprimé CERFA n° 11833*01) valide attestant de leur aptitude physique, délivré par un médecin du service de santé des gens de mer de la direction des affaires maritimes et des gens de mer, conformément aux dispositions de l'arrêté du 16 avril 1986 susvisé.

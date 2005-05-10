@@ -1,0 +1,5 @@
+# Article 11
+
+Dans le cadre de l'instruction des dossiers de demande de validation des acquis de l'expérience, l'accompagnement des candidats est obligatoire. Il est mis en oeuvre par des enseignants de la formation professionnelle maritime des services du pont et de la machine appelés référents, rattachés à un des centres de validation des acquis de l'expérience siégeant dans des établissements de la formation professionnelle maritime. Ces centres sont désignés par le directeur des affaires maritimes et des gens de mer, après avis de l'inspecteur général de l'enseignement maritime et du directeur régional des affaires maritimes.
+
+Les agents civils et militaires de l'Etat en activité peuvent dépendre de centres de validation des acquis de l'expérience propres aux ministères dont ils relèvent. Ces centres sont désignés par le directeur des affaires maritimes et des gens de mer, sur proposition des ministères concernés et après avis de l'inspecteur général de l'enseignement maritime et du directeur régional des affaires maritimes.

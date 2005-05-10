@@ -1,0 +1,3 @@
+# Article 21
+
+Le directeur régional des affaires maritimes notifie par courrier adressé à chacun des candidats la décision du jury le concernant. Cette notification intervient sous la forme d'une décision individuelle mentionnant, pour chaque candidat, les délibérations figurant au procès-verbal de la réunion du jury national de validation des acquis de l'expérience. Cette décision étant individuelle et donc confidentielle, elle ne peut être communiquée à des tierces personnes par les membres du jury national de validation des acquis de l'expérience, les référents et les agents des différents services de la direction des affaires maritimes et des gens de mer.

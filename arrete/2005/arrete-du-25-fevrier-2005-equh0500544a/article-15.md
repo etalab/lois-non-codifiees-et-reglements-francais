@@ -1,0 +1,7 @@
+# Article 15
+
+Les candidats ne peuvent déposer qu'un seul dossier de demande de validation des acquis de l'expérience pendant la même année civile et pour le même titre de la formation professionnelle maritime mentionné à l'article 1er du présent arrêté. Pour des titres différents mentionnés à l'article 1er du présent arrêté, les candidats ne peuvent déposer plus de trois dossiers au cours de la même année civile. Ces obligations et l'engagement sur l'honneur des candidats à les respecter doivent figurer sur chaque dossier de candidature à une validation des acquis de l'expérience.
+
+Les candidats ne peuvent dépendre que d'un seul centre de validation des acquis de l'expérience, celui qui leur a été indiqué par les services de la direction départementale des affaires maritimes dont ils relèvent. Ils doivent obligatoirement remettre les pièces constitutives de leur dossier auprès des référents les ayant accompagnés dans leur démarche.
+
+Les dossiers de tous les candidats, quels que soient leurs statuts, sont adressés par les référents des différents centres de validation des acquis de l'expérience à la direction régionale des affaires maritimes à laquelle ils sont rattachés. Seuls les dossiers complets comportant tous les documents et pièces administratives demandés, accompagnés de l'avis écrit des référents, peuvent être transmis par les référents à la direction régionale des affaires maritimes à laquelle les candidats sont administrativement rattachés.

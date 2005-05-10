@@ -1,0 +1,7 @@
+# Article 14
+
+Les candidats remplissent seuls leur dossier de demande de validation des acquis de l'expérience et choisissent, sous leur propre responsabilité, le titre de la formation professionnelle maritime qu'ils sollicitent.
+
+Les demandes des candidats se composent obligatoirement du dossier type délivré par les services de la direction départementale des affaires maritimes ainsi que des documents et pièces administratives dont la liste est mentionnée dans le dossier type, permettant de prouver l'acquisition de l'expérience requise et d'établir la recevabilité de la demande. Les expériences et compétences figurant dans les dossiers des candidats doivent être explicitement établies et prouvées. En complément de ces documents et pièces administratives exigés, les candidats ont par ailleurs la possibilité de présenter tout autre justificatif, dont l'initiative est laissée à leur appréciation, permettant d'étayer leur dossier et de participer à une meilleure information du jury national de validation des acquis de l'expérience. Si les documents et les pièces administratives présentés par les candidats sont des photocopies, les candidats doivent présenter les originaux lors du dépôt de leur dossier.
+
+Le dossier de demande de validation des acquis de l'expérience, complété par les candidats, doit être rédigé en français. Les documents et pièces administratives présentés par les candidats, à l'appui de leur demande, doivent être rédigés en français ou traduits en langue française par un traducteur agréé.

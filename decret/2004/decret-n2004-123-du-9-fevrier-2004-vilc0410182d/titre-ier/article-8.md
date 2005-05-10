@@ -16,6 +16,6 @@ Il est présidé par le directeur général de l'agence et composé des membres 
 
 Ces membres sont désignés par le ministre ou l'organisme qu'ils représentent.
 
-Le contrôleur d'Etat et l'agent comptable assistent aux séances avec voix consultative, ainsi que, pour l'examen des projets qui les concernent, le représentant du ministre de l'outre-mer au conseil d'administration de l'agence, le directeur général de la Caisse de garantie du logement locatif social, le directeur général de l'Agence nationale pour l'amélioration de l'habitat, le directeur général de l'Etablissement public d'aménagement et de restructuration des espaces commerciaux et artisanaux ou leurs représentants.
+Le membre du corps du contrôle général économique et financier et l'agent comptable assistent aux séances avec voix consultative, ainsi que, pour l'examen des projets qui les concernent, le représentant du ministre de l'outre-mer au conseil d'administration de l'agence, le directeur général de la Caisse de garantie du logement locatif social, le directeur général de l'Agence nationale pour l'amélioration de l'habitat, le directeur général de l'Etablissement public d'aménagement et de restructuration des espaces commerciaux et artisanaux ou leurs représentants.
 
 Le règlement intérieur du comité d'engagement détermine les catégories de projets qui sont soumis à son examen et fixe les modalités de son fonctionnement.

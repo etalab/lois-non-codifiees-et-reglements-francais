@@ -1,6 +1,6 @@
 # Article 9
 
-L'agence est soumise au contrôle de l'Etat prévu par les décrets des 9 août 1953 et 26 mai 1955 susvisés. Les attributions du contrôleur d'Etat et les modalités d'exercice de son contrôle sont précisées en tant que de besoin par un arrêté du ministre chargé de l'économie et du ministre chargé du budget.
+L'agence est soumise au contrôle de l'Etat prévu par les décrets des 9 août 1953 et 26 mai 1955 susvisés. Les attributions du membre du corps du contrôle général économique et financier et les modalités d'exercice de son contrôle sont précisées en tant que de besoin par un arrêté du ministre chargé de l'économie et du ministre chargé du budget.
 
 Le régime financier et comptable de l'agence est soumis aux dispositions des articles 190 à 225 du décret du 29 décembre 1962 susvisé.
 
