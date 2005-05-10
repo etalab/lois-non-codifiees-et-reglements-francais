@@ -20,7 +20,6 @@
 - [Décret n°64-955 du 11 septembre 1964](decret-n64-955-du-11-septembre-1964)
 - [Décret n° 64-1123 du 12 novembre 1964](decret-n-64-1123-du-12-novembre-1964)
 - [Décret du 13 octobre 1964](decret-du-13-octobre-1964)
-- [Décret n°64-142 du 13 février 1964](decret-n64-142-du-13-fevrier-1964)
 - [Décret n°64-852 du 13 août 1964](decret-n64-852-du-13-aout-1964)
 - [Décret n°64-260 du 14 mars 1964](decret-n64-260-du-14-mars-1964)
 - [Décret n°64-418 du 14 mai 1964](decret-n64-418-du-14-mai-1964)
