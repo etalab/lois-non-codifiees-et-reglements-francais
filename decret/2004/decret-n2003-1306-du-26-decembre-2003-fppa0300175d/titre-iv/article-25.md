@@ -1,6 +1,6 @@
 # Article 25
 
-I. - Les dispositions du I de l'article L. 24 du code des pensions civiles et militaires de retraite s'appliquent aux fonctionnaires mentionnés à l'article 1er du présent décret.
+I. - Les dispositions du I de l'article L. 24 et celles de l'article R. 37 du code des pensions civiles et militaires de retraite s'appliquent aux fonctionnaires mentionnés à l'article 1er du présent décret.
 
 II. - Par dérogation aux dispositions du I du présent article :
 

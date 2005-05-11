@@ -26,4 +26,4 @@ e) Un représentant des personnels administratifs, ouvriers et de service ;
 
 f) Un représentant des étudiants.
 
-Le recteur de l'académie de Nice représente le ministre chargé de l'enseignement supérieur auprès du conseil d'administration. Il assiste ou se fait représenter à ses séances. Le contrôleur financier et l'agent comptable assistent aux séances avec voix consultative.
+Le recteur de l'académie de Nice représente le ministre chargé de l'enseignement supérieur auprès du conseil d'administration. Il assiste ou se fait représenter à ses séances. Le membre du corps du contrôle général économique et financier et l'agent comptable assistent aux séances avec voix consultative.
