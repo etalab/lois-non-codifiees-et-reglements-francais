@@ -1,5 +1,5 @@
 # Article 24
 
-Les chefs des services d'insertion et de probation ont vocation à diriger les services qui, dans les établissements pénitentiaires et auprès des tribunaux de grande instance, sont chargés de la mise en oeuvre des missions prévues à l'article 1er du présent décret.
+Les chefs des services d'insertion et de probation mettent en oeuvre, sous l'autorité des directeurs d'insertion et de probation, les missions décrites à l'article 1er.
 
-Ils encadrent les personnels, coordonnent et animent l'activité des services d'insertion et de probation.
+Ils sont chargés, par délégation du directeur, de fonctions de coordination d'actions menées dans le cadre de partenariats, d'animation des équipes de travailleurs sociaux, de conseil technique auprès des conseillers d'insertion et de probation et des assistants de service social, et de conduite d'actions en direction des personnes placées sous main de justice.
