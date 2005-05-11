@@ -6,7 +6,7 @@ I. - La liquidation de la pension intervient :
 
 2° Lorsque l'intéressé remplit les conditions prévues au 2° de l'article 3 ;
 
-3° Lorsque l'intéressé remplit les conditions prévues au 3° du I de l'article L. 24 du code des pensions civiles et militaires de retraite ;
+3° Lorsque l'intéressé remplit les conditions prévues au 3° du I de l'article L. 24 et celles de l'article R. 37 du code des pensions civiles et militaires de retraite ;
 
 4° Lorsque l'intéressé ou son conjoint est atteint d'une infirmité ou d'une maladie incurable le plaçant dans l'impossibilité d'exercer une profession quelconque, suivant les modalités prévues au 2° de l'article 3 et sous réserve que l'intéressé ait accompli au moins quinze ans de services.
 
