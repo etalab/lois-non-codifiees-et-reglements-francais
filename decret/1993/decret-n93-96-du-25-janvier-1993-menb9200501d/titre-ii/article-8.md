@@ -4,6 +4,6 @@ Le conseil d'administration se réunit au moins deux fois par an sur convocation
 
 En cas de partage égal des voix, la voix du président est prépondérante.
 
-Le directeur général, le contrôleur d'Etat et l'agent comptable assistent aux séances du conseil d'administration avec voix consultative.
+Le directeur général, le membre du corps du contrôle général économique et financier et l'agent comptable assistent aux séances du conseil d'administration avec voix consultative.
 
 Le président peut appeler à participer aux séances toute personne dont il juge la présence utile.

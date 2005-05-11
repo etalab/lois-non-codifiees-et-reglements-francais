@@ -1,8 +1,8 @@
 # Article 2
 
-L'information du contrôleur d'Etat est assurée dans les conditions suivantes :
+L'information du membre du corps du contrôle général économique et financier est assurée dans les conditions suivantes :
 
-I. - Sont adressés au contrôleur d'Etat, quinze jours au moins avant d'être présentés au conseil d'administration de la société :
+I. - Sont adressés au membre du corps du contrôle général économique et financier, quinze jours au moins avant d'être présentés au conseil d'administration de la société :
 
 - les projets de budget ou de modification de budget ;
 
@@ -14,7 +14,7 @@ I. - Sont adressés au contrôleur d'Etat, quinze jours au moins avant d'être p
 
 - les projets d'emprunts.
 
-II. - Sont également adressés au contrôleur d'Etat :
+II. - Sont également adressés au membre du corps du contrôle général économique et financier :
 
 - les baux, avenants et renouvellement de baux concernant tant la direction générale que les bureaux à l'étranger ;
 
@@ -28,4 +28,4 @@ II. - Sont également adressés au contrôleur d'Etat :
 
 - les comptes financiers des entreprises de toute nature dont la société est actionnaire ou associée.
 
-III. - Sont également adressés au contrôleur d'Etat, au plus tard dans les six mois qui suivent la fin d'une manifestation inscrite au programme annuel de la société, ou d'une campagne publicitaire financée par des fonds publics, le rapport d'évaluation de l'impact promotionnel établi par la société ainsi que tout document permettant d'apprécier l'efficacité de son action et de sa gestion.
+III. - Sont également adressés au membre du corps du contrôle général économique et financier, au plus tard dans les six mois qui suivent la fin d'une manifestation inscrite au programme annuel de la société, ou d'une campagne publicitaire financée par des fonds publics, le rapport d'évaluation de l'impact promotionnel établi par la société ainsi que tout document permettant d'apprécier l'efficacité de son action et de sa gestion.

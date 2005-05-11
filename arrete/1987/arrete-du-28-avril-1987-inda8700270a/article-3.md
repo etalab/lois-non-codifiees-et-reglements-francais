@@ -8,6 +8,6 @@ Les membres de la commission peuvent se faire représenter.
 
 Le correspondant Informatique et libertés du ministère participe aux réunions de la commission avec voix consultative.
 
-Peuvent également assister aux réunions de la commission, le contrôleur financier en tant que de besoin ainsi que toute personnalité qualifiée en raison de sa compétence ou de ses fonctions sur invitation du président.
+Peuvent également assister aux réunions de la commission, le membre du corps du contrôle général économique et financier en tant que de besoin ainsi que toute personnalité qualifiée en raison de sa compétence ou de ses fonctions sur invitation du président.
 
 Le ministre de l'industrie, des P. et T. et du tourisme est tenu informé du calendrier et de l'ordre du jour des réunions de la commission. Il en reçoit les compte rendus.

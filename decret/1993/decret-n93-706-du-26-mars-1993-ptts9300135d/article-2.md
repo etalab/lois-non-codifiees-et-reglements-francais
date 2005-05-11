@@ -4,7 +4,7 @@ Peuvent être nommés, par décision du président du conseil d'administration, 
 
 1° Les fonctionnaires du corps des cadres supérieurs de France Télécom et du corps des personnels administratifs supérieurs de France Télécom ;
 
-2° Les fonctionnaires du corps des inspecteurs généraux des postes et télécommunications, du corps des administrateurs des postes et télécommunications et du corps des ingénieurs des télécommunications, ainsi que les attachés principaux d'administration centrale des postes et télécommunications ;
+2° Les fonctionnaires du corps des membres du corps du contrôle général économique et financier, du corps des administrateurs des postes et télécommunications et du corps des ingénieurs des télécommunications, ainsi que les attachés principaux d'administration centrale des postes et télécommunications ;
 
 3° Les fonctionnaires du corps des cadres supérieurs de La Poste et du corps des personnels administratifs supérieurs de La Poste ;
 

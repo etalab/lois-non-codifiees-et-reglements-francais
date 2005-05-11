@@ -14,7 +14,7 @@ Il peut créer des régies d'avances et des régies de recettes sur avis conform
 
 Il établit le règlement de visite des différents espaces gérés par l'établissement.
 
-Il peut prendre en cas de nécessité et avec l'accord du contrôleur d'Etat, dans l'intervalle des séances du conseil d'administration, des décisions modificatives de l'état des prévisions de recettes et de dépenses à condition qu'elles ne comportent ni accroissement du niveau des effectifs du personnel permanent ou du montant total des dépenses, ni réduction du montant total des recettes, ni virement de crédits entre la section des opérations en capital et la section de fonctionnement.
+Il peut prendre en cas de nécessité et avec l'accord du membre du corps du contrôle général économique et financier, dans l'intervalle des séances du conseil d'administration, des décisions modificatives de l'état des prévisions de recettes et de dépenses à condition qu'elles ne comportent ni accroissement du niveau des effectifs du personnel permanent ou du montant total des dépenses, ni réduction du montant total des recettes, ni virement de crédits entre la section des opérations en capital et la section de fonctionnement.
 
 Ces décisions deviennent exécutoires quinze jours après leur transmission au ministre chargé de la culture et au ministre chargé du budget. Le président en rend compte à la prochaine séance du conseil d'administration.
 

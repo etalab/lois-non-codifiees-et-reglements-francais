@@ -12,7 +12,7 @@ Le président dirige l'établissement public. Les activités scientifiques de l'
 
 5° Il peut créer des régies d'avances et des régies de recettes, sur avis conforme de l'agent comptable ;
 
-6° Il peut prendre en accord avec le contrôleur financier, dans l'intervalle des séances du conseil d'administration, des décisions modificatives du budget qui ne comportent ni accroissement du niveau des effectifs du personnel permanent ou du montant total des dépenses, ni réduction du montant total des recettes ; ces décisions doivent être ratifiées par le conseil d'administration lors de la première séance qui suit leur adoption ;
+6° Il peut prendre en accord avec le membre du corps du contrôle général économique et financier, dans l'intervalle des séances du conseil d'administration, des décisions modificatives du budget qui ne comportent ni accroissement du niveau des effectifs du personnel permanent ou du montant total des dépenses, ni réduction du montant total des recettes ; ces décisions doivent être ratifiées par le conseil d'administration lors de la première séance qui suit leur adoption ;
 
 7° Il signe les contrats et conventions engageant l'établissement ; il est la personne responsable des marchés ;
 

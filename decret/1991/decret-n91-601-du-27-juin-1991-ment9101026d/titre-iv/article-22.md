@@ -4,4 +4,4 @@ L'école est soumise au régime financier et comptable fixé par les décrets du
 
 L'école est soumise au contrôle financier de l'Etat.
 
-Ce contrôle est assuré par un contrôleur financier placé sous l'autorité du ministre chargé du budget. Les modalités du contrôle sont définies par arrêté conjoint des ministres chargés de l'enseignement supérieur et du budget.
+Ce contrôle est assuré par un membre du corps du contrôle général économique et financier placé sous l'autorité du ministre chargé du budget. Les modalités du contrôle sont définies par arrêté conjoint des ministres chargés de l'enseignement supérieur et du budget.

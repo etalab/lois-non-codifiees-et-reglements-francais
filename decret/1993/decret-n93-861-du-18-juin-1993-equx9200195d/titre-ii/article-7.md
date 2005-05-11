@@ -12,6 +12,6 @@ Les représentants du personnel et leurs suppléants sont élus pour trois ans, 
 
 Le mandat des membres du conseil d'administration est renouvelable. En cas de vacance survenant, pour quelque cause que ce soit, plus de six mois avant l'expiration du mandat d'un membre titulaire ou suppléant du conseil d'administration, il est procédé à son remplacement pour la durée restant à courir de ce mandat.
 
-Le contrôleur financier et l'agent comptable assistent aux séances avec voix consultative.
+Le membre du corps du contrôle général économique et financier et l'agent comptable assistent aux séances avec voix consultative.
 
 Assistent également aux séances avec voix consultative les personnes dont la présence est demandée par le conseil d'administration ou le président-directeur général.

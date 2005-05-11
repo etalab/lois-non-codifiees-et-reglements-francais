@@ -18,4 +18,4 @@ Sont notamment inscrits dans cette comptabilité, dans les premiers jours de l'a
 
 Les autres dépenses sont inscrites en cours d'année, au fur et à mesure qu'interviennent les décisions les autorisant.
 
-L'ordonnateur adresse au contrôleur financier, dans les quinze premiers jours de chaque trimestre, le relevé des engagements de dépenses du trimestre précédent.
+L'ordonnateur adresse au membre du corps du contrôle général économique et financier, dans les quinze premiers jours de chaque trimestre, le relevé des engagements de dépenses du trimestre précédent.

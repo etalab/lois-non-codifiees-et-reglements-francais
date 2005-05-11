@@ -8,7 +8,7 @@ A ce titre :
 
 1° Il prépare et exécute l'état prévisionnel de recettes et de dépenses de l'établissement public et veille, en sa qualité d'ordonnateur des recettes et des dépenses, au respect de l'équilibre financier ;
 
-2° Il peut créer des régies d'avances et des régies de recettes, sur avis conforme de l'agent comptable et du contrôleur d'Etat, dans les conditions prévues par le décret du 20 juillet 1992 susvisé ;
+2° Il peut créer des régies d'avances et des régies de recettes, sur avis conforme de l'agent comptable et du membre du corps du contrôle général économique et financier, dans les conditions prévues par le décret du 20 juillet 1992 susvisé ;
 
 3° Il conclut les marchés ; il est, le cas échéant, la personne responsable des marchés ;
 

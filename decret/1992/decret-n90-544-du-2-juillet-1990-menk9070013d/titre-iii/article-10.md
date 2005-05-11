@@ -6,7 +6,7 @@ Il prépare et exécute les délibérations du conseil d'administration.
 
 Il est ordonnateur des dépenses et recettes de l'établissement.
 
-Il prend, sous réserve de l'accord du contrôleur financier, les décisions modificatives du budget autres que celles qui ont pour objet une augmentation des dépenses ou des virements de crédits entre la section de fonctionnement et la section des opérations en capital ou entre les chapitres de personnel et de matériel. Il en rend compte au conseil d'administration lors de sa plus prochaine séance.
+Il prend, sous réserve de l'accord du membre du corps du contrôle général économique et financier, les décisions modificatives du budget autres que celles qui ont pour objet une augmentation des dépenses ou des virements de crédits entre la section de fonctionnement et la section des opérations en capital ou entre les chapitres de personnel et de matériel. Il en rend compte au conseil d'administration lors de sa plus prochaine séance.
 
 Il conclut toute convention au nom de l'établissement, sous réserve des dispositions de l'article 7.
 

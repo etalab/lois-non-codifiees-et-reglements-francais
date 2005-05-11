@@ -4,7 +4,7 @@ Cette commission est composée ainsi qu'il suit :
 
 - le chef du service de la formation aéronautique et du contrôle technique ou son représentant, président ;
 
-- le contrôleur financier de la direction générale de l'aviation civile ;
+- le membre du corps du contrôle général économique et financier de la direction générale de l'aviation civile ;
 
 - un représentant de chaque direction régionale de l'aviation civile ;
 

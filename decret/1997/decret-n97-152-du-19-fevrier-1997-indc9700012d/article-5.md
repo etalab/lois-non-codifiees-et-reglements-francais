@@ -6,7 +6,7 @@ Le président est tenu de convoquer le conseil d'administration si la majorité 
 
 Sauf en cas d'urgence, le lieu, la date et l'ordre du jour sont portés au moins deux semaines à l'avance à la connaissance des membres du conseil d'administration, du contrôleur d'Etat, du commissaire du Gouvernement et du directeur général.
 
-Le directeur général de l'agence, le contrôleur d'Etat, le commissaire du Gouvernement et l'agent comptable assistent aux séances avec voix consultative.
+Le directeur général de l'agence, le membre du corps du contrôle général économique et financier, le commissaire du Gouvernement et l'agent comptable assistent aux séances avec voix consultative.
 
 Le conseil d'administration adopte son règlement intérieur.
 

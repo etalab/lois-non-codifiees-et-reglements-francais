@@ -8,7 +8,7 @@ Les textes fixant les modalités de recrutement et d'enseignement à l'Ecole nat
 
 Les évaluations des besoins en recrutements annuels et la répartition des promotions sortantes de l'Ecole nationale supérieure des P.T.T. ;
 
-Les positions d'avancement de grade des administrateurs et d'inscriptions sur la liste d'aptitude d'inspecteur général des postes et télécommunications. Il s'assure à cette occasion de la cohérence des évaluations émanant d'employeurs différents.
+Les positions d'avancement de grade des administrateurs et d'inscriptions sur la liste d'aptitude de membre du corps du contrôle général économique et financier. Il s'assure à cette occasion de la cohérence des évaluations émanant d'employeurs différents.
 
 Il assure le suivi :
 

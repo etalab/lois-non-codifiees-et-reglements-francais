@@ -4,7 +4,7 @@ Le conseil d'administration se réunit au moins trois fois par an sur convocatio
 
 Le président peut également convoquer le conseil en session extraordinaire, sur un ordre du jour précis notifié à l'avance, de sa propre initiative ou sur la demande du directeur on de la moitié des membres du conseil.
 
-Le directeur, le contrôleur financier et l'agent comptable peuvent assister aux séances mais ne prennent pas part aux votes.
+Le directeur, le membre du corps du contrôle général économique et financier et l'agent comptable peuvent assister aux séances mais ne prennent pas part aux votes.
 
 Les séances du conseil ne sont pas publiques. Le décisions, à l'exception des décisions d'ordre individuel, font l'objet d'un compte rendu publié sous la responsabilité du président.
 

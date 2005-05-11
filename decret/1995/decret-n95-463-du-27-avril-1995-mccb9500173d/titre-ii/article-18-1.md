@@ -8,7 +8,7 @@ Le président de l'Etablissement public du musée et du domaine national de Vers
 
 3° Il peut créer des régies d'avances et des régies de recettes sur avis conforme de l'agent comptable ;
 
-4° Il peut, dans l'intervalle des séances du conseil d'administration, prendre en accord avec le contrôleur financier des décisions modificatives du budget qui ne comportent ni accroissement du niveau des effectifs du personnel permanent ou du montant total des dépenses, ni réduction du montant total des recettes. Ces décisions doivent être ratifiées par le conseil d'administration lors de la première séance qui suit leur adoption ;
+4° Il peut, dans l'intervalle des séances du conseil d'administration, prendre en accord avec le membre du corps du contrôle général économique et financier des décisions modificatives du budget qui ne comportent ni accroissement du niveau des effectifs du personnel permanent ou du montant total des dépenses, ni réduction du montant total des recettes. Ces décisions doivent être ratifiées par le conseil d'administration lors de la première séance qui suit leur adoption ;
 
 5° Il représente l'établissement en justice et dans tous les actes de la vie civile ;
 

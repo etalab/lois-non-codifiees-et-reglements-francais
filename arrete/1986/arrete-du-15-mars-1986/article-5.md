@@ -16,7 +16,7 @@ Sous la présidence d'un inspecteur général de l'administration désigné par 
 
 -le directeur des affaires politiques, administratives et financières de l'outre-mer ;
 
--le contrôleur financier près le ministre de l'intérieur et de la décentralisation ;
+-le membre du corps du contrôle général économique et financier près le ministre de l'intérieur et de la décentralisation ;
 
 -le représentant du ministre des P.T.T. ;
 

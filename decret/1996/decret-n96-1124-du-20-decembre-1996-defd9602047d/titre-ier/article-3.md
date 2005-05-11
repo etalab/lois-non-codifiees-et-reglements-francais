@@ -4,7 +4,7 @@ Assistent aux séances du conseil d'administration avec voix consultative :
 
 - l'inspecteur de l'Ecole polytechnique ;
 
-- le contrôleur financier près l'Ecole polytechnique ;
+- le membre du corps du contrôle général économique et financier près l'Ecole polytechnique ;
 
 - l'agent comptable de l'établissement ;
 

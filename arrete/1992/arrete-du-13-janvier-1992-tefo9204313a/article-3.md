@@ -30,7 +30,7 @@ Peuvent seuls être destinataires de ces informations, dans la limite de leurs a
 
 - les services de prévention des caisses régionales d'assurance maladie ;
 
-- le trésorier-payeur général et le contrôleur financier local ;
+- le trésorier-payeur général et le membre du corps du contrôle général économique et financier local ;
 
 - le directeur de l'Association nationale pour la formation professionnelle des adultes et les agents habilités de ces administrations et organismes ;
 

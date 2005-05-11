@@ -34,8 +34,6 @@ d) Quatre usagers de la bibliothèque nationale et universitaire de Strasbourg n
 
 Assistent avec voix consultative au conseil d'administration :
 
-l'administrateur de la bibliothèque nationale et universitaire de Strasbourg, les directeurs des services communs de la documentation des universités de Strasbourg, les directeurs de département de la bibliothèque nationale et universitaire de Strasbourg s'ils ne figurent pas parmi les membres élus, le contrôleur financier placé auprès de l'établissement et l'agent comptable.
+l'administrateur de la bibliothèque nationale et universitaire de Strasbourg, les directeurs des services communs de la documentation des universités de Strasbourg, les directeurs de département de la bibliothèque nationale et universitaire de Strasbourg s'ils ne figurent pas parmi les membres élus, le membre du corps du contrôle général économique et financier placé auprès de l'établissement et l'agent comptable.
 
-Le président, ainsi que l'administrateur, peut appeler à participer aux séances toute personne dont il juge utile la
-
-présence.
+Le président, ainsi que l'administrateur, peut appeler à participer aux séances toute personne dont il juge utile la présence.

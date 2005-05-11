@@ -14,6 +14,6 @@ La composition de la commission de l'informatique, de la bureautique et de la t�
 
 - un représentant de l'inspection générale des affaires sociales ;
 
-- le contrôleur d'Etat près les caisses centrales de la mutualité sociale agricole.
+- le membre du corps du contrôle général économique et financier près les caisses centrales de la mutualité sociale agricole.
 
 Participent également à la commission, avec voix consultative, deux représentants des caisses centrales de la mutualité sociale agricole et deux représentants des caisses de mutualité sociale agricole.

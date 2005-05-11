@@ -28,4 +28,4 @@ En cas d'absence ou d'empêchement de son président, le conseil d'administratio
 
 Les représentants des élèves participent aux délibérations du conseil d'administration à l'exception de celles relatives à la désignation des enseignants.
 
-Le directeur, le directeur des études et des stages, le responsable de la formation continue  et le secrétaire général de l'institut assistent aux séances du conseil d'administration sans pouvoir prendre part au vote. Le contrôleur financier et l'agent comptable peuvent participer dans les mêmes conditions aux travaux du conseil.
+Le directeur, le directeur des études et des stages, le responsable de la formation continue et le secrétaire général de l'institut assistent aux séances du conseil d'administration sans pouvoir prendre part au vote. Le membre du corps du contrôle général économique et financier et l'agent comptable peuvent participer dans les mêmes conditions aux travaux du conseil.

@@ -1,6 +1,6 @@
 # Article 2
 
-Le conseil de gestion du corps des administrateurs des postes et télécommunications comprend un vice-président et huit membres, nommés par le ministre parmi les administrateurs des postes et télécommunications ou les inspecteurs généraux des postes et télécommunications ayant appartenu antérieurement au corps des administrateurs, dans les conditions ci-après :
+Le conseil de gestion du corps des administrateurs des postes et télécommunications comprend un vice-président et huit membres, nommés par le ministre parmi les administrateurs des postes et télécommunications ou les membres du corps du contrôle général économique et financier ayant appartenu antérieurement au corps des administrateurs, dans les conditions ci-après :
 
 Le vice-président est nommé par arrêté du ministre ;
 

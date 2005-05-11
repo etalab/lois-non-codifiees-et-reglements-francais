@@ -10,6 +10,6 @@ Les délibérations sont prises à la majorité des membres présents :
 
 en cas de partage égal des voix, celle du président est prépondérante.
 
-Le lieu, la date et l'heure ainsi que l'ordre du jour des séances sont portés au moins quinze jours à l'avance à la connaissance des membres du conseil d'administration ainsi que du contrôleur financier.
+Le lieu, la date et l'heure ainsi que l'ordre du jour des séances sont portés au moins quinze jours à l'avance à la connaissance des membres du conseil d'administration ainsi que du membre du corps du contrôle général économique et financier.
 
 Les délibérations font l'objet de procès-verbaux signés du président et adressés au ministre chargé de l'équipement, au ministre chargé de la recherche et, s'il y a lieu, aux autres ministres concernés, dans le mois qui suit la séance.

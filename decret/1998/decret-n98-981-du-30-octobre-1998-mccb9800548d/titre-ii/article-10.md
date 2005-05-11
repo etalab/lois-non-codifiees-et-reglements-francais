@@ -6,6 +6,6 @@ Chaque administrateur peut donner mandat à un autre administrateur, dans la lim
 
 Les délibérations sont adoptées à la majorité des membres présents ou représentés. En cas de partage égal des voix, la voix du président est prépondérante.
 
-Le directeur, le contrôleur financier et l'agent comptable de l'établissement assistent au conseil d'administration avec voix consultative.
+Le directeur, le membre du corps du contrôle général économique et financier et l'agent comptable de l'établissement assistent au conseil d'administration avec voix consultative.
 
 Le président peut inviter à participer à une séance, avec voix consultative, toute personne dont il juge la présence utile.

@@ -22,7 +22,7 @@ Deux personnalités choisies parmi les utilisateurs de l'informatique et de l'au
 
 Les membres du conseil d'administration désignés conformément aux 2 et 3 ci-dessus sont nommés pour une durée de quatre ans renouvelable une fois par arrêté conjoint du ministre chargé de la recherche et du ministre chargé de l'industrie.
 
-Le président du conseil scientifique, le directeur général adjoint, le contrôleur financier et l'agent comptable assistent aux séances du conseil d'administration avec voix consultative.
+Le président du conseil scientifique, le directeur général adjoint, le membre du corps du contrôle général économique et financier et l'agent comptable assistent aux séances du conseil d'administration avec voix consultative.
 
 Le président du conseil d'administration peut également appeler à participer aux séances, avec voix consultative, toute personne, dont il juge la présence utile.
 

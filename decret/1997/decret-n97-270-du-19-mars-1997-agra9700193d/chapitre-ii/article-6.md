@@ -16,7 +16,7 @@ Outre son président, le conseil d'administration comprend vingt et un membres :
 
 Les modalités des élections des représentants des personnels et des stagiaires sont fixées par arrêté du ministre chargé de l'agriculture.
 
-Le directeur, le contrôleur financier et l'agent comptable de l'institut assistent aux séances du conseil avec voix consultative.
+Le directeur, le membre du corps du contrôle général économique et financier et l'agent comptable de l'institut assistent aux séances du conseil avec voix consultative.
 
 Le président du conseil d'administration peut également appeler à participer aux séances, avec voix consultative, toute personne dont il juge la présence utile.
 

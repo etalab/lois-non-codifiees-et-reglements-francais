@@ -1,6 +1,6 @@
 # Article 4
 
-Sont soumis au visa préalable du contrôleur financier les actes, dont la liste suit, dépassant un montant fixé par le conseil d'administration en accord avec le contrôleur financier :
+Sont soumis au visa préalable du membre du corps du contrôle général économique et financier les actes, dont la liste suit, dépassant un montant fixé par le conseil d'administration en accord avec le membre du corps du contrôle général économique et financier :
 
 - les engagements provisionnels ;
 

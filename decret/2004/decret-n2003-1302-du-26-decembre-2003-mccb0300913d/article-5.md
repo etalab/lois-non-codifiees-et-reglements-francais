@@ -14,4 +14,4 @@ Les personnalités mentionnées aux 2° à 4° sont nommées pour une durée de 
 
 Les membres nommés sont remplacés en cas de décès ou de démission.
 
-L'administrateur général et le contrôleur d'Etat de la Réunion des musées nationaux assistent aux séances du conseil artistique avec voix consultative.
+L'administrateur général et le membre du corps du contrôle général économique et financier de la Réunion des musées nationaux assistent aux séances du conseil artistique avec voix consultative.

@@ -4,7 +4,7 @@ Les personnels visés à l'article 1er du présent arrêté sont répartis dans 
 
 1° Les personnels en service dans un service culturel, scientifique, de coopération et d'action culturelle ou un centre médico-social d'un poste diplomatique ou consulaire ou dans l'un des établissements figurant sur la liste mentionnée à l'article 1er du décret du 24 août 1976 susvisé perçoivent l'indemnité de résidence correspondant à leur fonction.
 
-A cette fin, les fonctions à l'étranger sont classées par pays et par poste par décision du ministre des affaires étrangères visée par le contrôleur financier, dans la limite des disponibilités budgétaires et conformément au tableau suivant :
+A cette fin, les fonctions à l'étranger sont classées par pays et par poste par décision du ministre des affaires étrangères visée par le membre du corps du contrôle général économique et financier, dans la limite des disponibilités budgétaires et conformément au tableau suivant :
 
 **<font size="2">Tableau de classement des fonctions</font>**
 
@@ -13,89 +13,47 @@ Premier groupe de fonctions : conseillers et attachés chefs de service culturel
 <table>
 <tbody>
 <tr>
+<td align="left" valign="middle"/>
 <td align="left" valign="middle">
-<pre> </pre>
-</td>
-<td align="left" valign="middle">
-<p align="center">
 <strong>GROUPE D'INDEMNITÉ </strong>
-</p>
-<p align="center">
 <strong>DE RÉSIDENCE</strong>
-</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="left">Hors classe</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">6</p>
-</td>
+<td align="left" valign="middle">Hors classe</td>
+<td align="left" valign="middle">6</td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="left">1re classe</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">8</p>
-</td>
+<td align="left" valign="middle">1re classe</td>
+<td align="left" valign="middle">8</td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="left">2e classe</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">9</p>
-</td>
+<td align="left" valign="middle">2e classe</td>
+<td align="left" valign="middle">9</td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="left">3e classe</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">10</p>
-</td>
+<td align="left" valign="middle">3e classe</td>
+<td align="left" valign="middle">10</td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="left">4e classe</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">12</p>
-</td>
+<td align="left" valign="middle">4e classe</td>
+<td align="left" valign="middle">12</td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="left">5e classe</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">14</p>
-</td>
+<td align="left" valign="middle">5e classe</td>
+<td align="left" valign="middle">14</td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="left">6e classe</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">16</p>
-</td>
+<td align="left" valign="middle">6e classe</td>
+<td align="left" valign="middle">16</td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="left">7e classe</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">17</p>
-</td>
+<td align="left" valign="middle">7e classe</td>
+<td align="left" valign="middle">17</td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="left">8e classe</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">19</p>
-</td>
+<td align="left" valign="middle">8e classe</td>
+<td align="left" valign="middle">19</td>
 </tr>
 </tbody>
 </table>
@@ -105,73 +63,39 @@ Deuxième groupe de fonctions : adjoints aux chefs de service culturel, scientif
 <table>
 <tbody>
 <tr>
+<td align="left" valign="middle"/>
 <td align="left" valign="middle">
-<pre> </pre>
-</td>
-<td align="left" valign="middle">
-<p align="center">
 <strong>GROUPE D'INDEMNITÉ </strong>
-</p>
-<p align="center">
 <strong>DE RÉSIDENCE</strong>
-</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="left">1re classe</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">9</p>
-</td>
+<td align="left" valign="middle">1re classe</td>
+<td align="left" valign="middle">9</td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="left">2e classe</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">10</p>
-</td>
+<td align="left" valign="middle">2e classe</td>
+<td align="left" valign="middle">10</td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="left">3e classe</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">12</p>
-</td>
+<td align="left" valign="middle">3e classe</td>
+<td align="left" valign="middle">12</td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="left">4e classe</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">14</p>
-</td>
+<td align="left" valign="middle">4e classe</td>
+<td align="left" valign="middle">14</td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="left">5e classe</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">16</p>
-</td>
+<td align="left" valign="middle">5e classe</td>
+<td align="left" valign="middle">16</td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="left">6e classe</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">17</p>
-</td>
+<td align="left" valign="middle">6e classe</td>
+<td align="left" valign="middle">17</td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="left">7e classe</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">19</p>
-</td>
+<td align="left" valign="middle">7e classe</td>
+<td align="left" valign="middle">19</td>
 </tr>
 </tbody>
 </table>
@@ -181,81 +105,43 @@ Troisième groupe de fonctions : attachés et chargés de mission de service cul
 <table>
 <tbody>
 <tr>
+<td align="left" valign="middle"/>
 <td align="left" valign="middle">
-<pre> </pre>
-</td>
-<td align="left" valign="middle">
-<p align="center">
 <strong>GROUPE D'INDEMNITÉ </strong>
-</p>
-<p align="center">
 <strong>DE RÉSIDENCE</strong>
-</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="justify">1re classe</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">10</p>
-</td>
+<td align="left" valign="middle">1re classe</td>
+<td align="left" valign="middle">10</td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="justify">2e classe</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">12</p>
-</td>
+<td align="left" valign="middle">2e classe</td>
+<td align="left" valign="middle">12</td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="justify">3e classe</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">14</p>
-</td>
+<td align="left" valign="middle">3e classe</td>
+<td align="left" valign="middle">14</td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="justify">4e classe</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">16</p>
-</td>
+<td align="left" valign="middle">4e classe</td>
+<td align="left" valign="middle">16</td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="justify">5e classe</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">17</p>
-</td>
+<td align="left" valign="middle">5e classe</td>
+<td align="left" valign="middle">17</td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="justify">6e classe</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">19</p>
-</td>
+<td align="left" valign="middle">6e classe</td>
+<td align="left" valign="middle">19</td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="justify">7e classe</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">20</p>
-</td>
+<td align="left" valign="middle">7e classe</td>
+<td align="left" valign="middle">20</td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="justify">8e classe</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">21</p>
-</td>
+<td align="left" valign="middle">8e classe</td>
+<td align="left" valign="middle">21</td>
 </tr>
 </tbody>
 </table>
@@ -267,69 +153,37 @@ Quatrième groupe de fonctions : secrétaire général de service culturel, scie
 <tr>
 <td align="left" valign="middle"/>
 <td align="left" valign="middle">
-<p align="center">
 <strong>GROUPE D'INDEMNITÉ </strong>
-</p>
-<p align="center">
 <strong>DE RÉSIDENCE</strong>
-</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="justify">1re classe</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">12</p>
-</td>
+<td align="left" valign="middle">1re classe</td>
+<td align="left" valign="middle">12</td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="justify">2e classe</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">14</p>
-</td>
+<td align="left" valign="middle">2e classe</td>
+<td align="left" valign="middle">14</td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="justify">3e classe</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">16</p>
-</td>
+<td align="left" valign="middle">3e classe</td>
+<td align="left" valign="middle">16</td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="justify">4e classe</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">19</p>
-</td>
+<td align="left" valign="middle">4e classe</td>
+<td align="left" valign="middle">19</td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="justify">5e classe</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">20</p>
-</td>
+<td align="left" valign="middle">5e classe</td>
+<td align="left" valign="middle">20</td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="justify">6e classe</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">21</p>
-</td>
+<td align="left" valign="middle">6e classe</td>
+<td align="left" valign="middle">21</td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="justify">7e classe</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">22</p>
-</td>
+<td align="left" valign="middle">7e classe</td>
+<td align="left" valign="middle">22</td>
 </tr>
 </tbody>
 </table>
@@ -339,49 +193,27 @@ Cinquième groupe de fonctions : secrétariat :
 <table>
 <tbody>
 <tr>
+<td align="left" valign="middle"/>
 <td align="left" valign="middle">
-<pre> </pre>
-</td>
-<td align="left" valign="middle">
-<p align="center">
 <strong>GROUPE D'INDEMNITÉ </strong>
-</p>
-<p align="center">
 <strong>DE RÉSIDENCE</strong>
-</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="justify">1re classe</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">25</p>
-</td>
+<td align="left" valign="middle">1re classe</td>
+<td align="left" valign="middle">25</td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="justify">2e classe</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">27</p>
-</td>
+<td align="left" valign="middle">2e classe</td>
+<td align="left" valign="middle">27</td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="justify">3e classe</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">28</p>
-</td>
+<td align="left" valign="middle">3e classe</td>
+<td align="left" valign="middle">28</td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="justify">4e classe</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">29</p>
-</td>
+<td align="left" valign="middle">4e classe</td>
+<td align="left" valign="middle">29</td>
 </tr>
 </tbody>
 </table>

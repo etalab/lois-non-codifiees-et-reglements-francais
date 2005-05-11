@@ -6,6 +6,6 @@ Les délibérations sont prises à la majorité des voix des membres présents o
 
 Un membre du conseil d'administration autre qu'un membre de droit ou un membre élu peut donner, par écrit, mandat à un autre membre de le représenter à une séance. Chaque membre ne peut recevoir qu'un seul mandat.
 
-L'administrateur général de l'établissement, le contrôleur financier et l'agent comptable assistent au conseil d'administration avec voix consultative, ainsi que le directeur du musée national Hébert lorsque le conseil d'administration examine des sujets relatifs à ce musée.
+L'administrateur général de l'établissement, le membre du corps du contrôle général économique et financier et l'agent comptable assistent au conseil d'administration avec voix consultative, ainsi que le directeur du musée national Hébert lorsque le conseil d'administration examine des sujets relatifs à ce musée.
 
 Le président peut appeler à participer aux séances toute autre personne dont il juge la présence utile.

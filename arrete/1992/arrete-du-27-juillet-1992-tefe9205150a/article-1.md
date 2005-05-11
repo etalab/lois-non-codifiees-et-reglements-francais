@@ -14,4 +14,4 @@ Dans le cas où les agents concernés bénéficient, pour la même période, de 
 
 Le paiement de cette indemnité est effectué sur demande de l'agent, certifiée par le responsable hiérarchique et mentionnant la liste des jours de sortie et le motif des déplacements.
 
-Les modalités d'application des dispositions du présent article sont définies par décision du directeur général de l'agence visée par le contrôleur d'Etat auprès de cet établissement.
+Les modalités d'application des dispositions du présent article sont définies par décision du directeur général de l'agence visée par le membre du corps du contrôle général économique et financier auprès de cet établissement.

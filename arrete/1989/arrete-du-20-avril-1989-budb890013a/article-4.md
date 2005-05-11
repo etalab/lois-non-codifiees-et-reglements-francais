@@ -1,6 +1,6 @@
 # Article 4
 
-Sont soumis au visa préalable du contrôleur d'Etat, accompagnés de toutes pièces justificatives et notes explicatives :
+Sont soumis au visa préalable du membre du corps du contrôle général économique et financier, accompagnés de toutes pièces justificatives et notes explicatives :
 
 - le projet de budget de fonctionnement de la direction générale ainsi que les projets de modification ;
 
@@ -10,6 +10,6 @@ Sont soumis au visa préalable du contrôleur d'Etat, accompagnés de toutes pi�
 
 - les actes de portée générale intéressant le recrutement, la promotion, la rémunération et le régime indemnitaire du personnel de la société ;
 
-- les décisions individuelles intéressant le recrutement, la rémunération et ses compléments de toute nature ainsi que l'avancement des agents appartenant aux catégories désignées par le contrôleur d'Etat ;
+- les décisions individuelles intéressant le recrutement, la rémunération et ses compléments de toute nature ainsi que l'avancement des agents appartenant aux catégories désignées par le membre du corps du contrôle général économique et financier ;
 
 - les décisions individuelles d'allocation d'honoraires ou de commissions à des collaborateurs occasionnels.

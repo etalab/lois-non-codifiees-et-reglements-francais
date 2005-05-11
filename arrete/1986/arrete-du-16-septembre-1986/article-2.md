@@ -1,3 +1,3 @@
 # Article 2
 
-Le présent arrêté sera publié au Journal officiel de la République française.
+Le contrôle financier porte sur toutes les opérations ou décisions susceptibles d'avoir directement ou indirectement une incidence sur la situation financière de l'établissement.

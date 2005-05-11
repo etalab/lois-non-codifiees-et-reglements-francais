@@ -4,7 +4,7 @@ Le conseil d'administration se réunit au moins trois fois par an à l'initiativ
 
 En cas d'absence ou d'empêchement du président, le conseil d'administration peut être convoqué par l'administrateur général de l'établissement. Le conseil d'administration élit alors en son sein un président de séance parmi les personnalités mentionnées au 4° de l'article 13.
 
-L'administrateur général de l'établissement, le contrôleur financier et l'agent comptable assistent aux séances avec voix consultative, ainsi que le directeur du Musée national Eugène Delacroix lorsque le conseil d'administration examine des sujets relatifs à ce musée.
+L'administrateur général de l'établissement, le membre du corps du contrôle général économique et financier et l'agent comptable assistent aux séances avec voix consultative, ainsi que le directeur du Musée national Eugène Delacroix lorsque le conseil d'administration examine des sujets relatifs à ce musée.
 
 Le président peut appeler à participer aux séances toute personne dont il juge la présence utile.
 

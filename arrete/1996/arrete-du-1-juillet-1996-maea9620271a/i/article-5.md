@@ -8,4 +8,4 @@ Les personnels non titulaires perçoivent le traitement correspondant à l'indic
 
 L'indice de rémunération, ou la fonction d'un agent, ne peut être modifié en cours de contrat.
 
-Les dispositions du présent article ne font pas obstacle à la prise en compte pendant la période de validité du contrat, sur décision du ministre des affaires étrangères visée du contrôleur financier et annexée au contrat, des modifications intervenues dans la situation familiale des personnels dans les conditions prévues par le décret du 28 mars 1967 susvisé.
+Les dispositions du présent article ne font pas obstacle à la prise en compte pendant la période de validité du contrat, sur décision du ministre des affaires étrangères visée du membre du corps du contrôle général économique et financier et annexée au contrat, des modifications intervenues dans la situation familiale des personnels dans les conditions prévues par le décret du 28 mars 1967 susvisé.

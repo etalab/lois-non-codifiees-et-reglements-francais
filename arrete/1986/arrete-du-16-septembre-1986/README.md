@@ -1,7 +1,6 @@
-# Arrêté du 16 septembre 1986 pris en application du décret n° 85-944 du 4 septembre 1985 relatif au calcul du taux effectif global
+# Arrêté du 16 septembre 1986 fixant les modalités du contrôle financier sur la Bibliothèque nationale.
 
 - [Article 1](article-1.md)
-- [Article 1-1](article-1-1.md)
 - [Article 2](article-2.md)
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)

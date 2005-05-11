@@ -18,4 +18,4 @@ En cas de partage égal des voix, celle du président est prépondérante.
 
 Le comité ne peut valablement délibérer que si au moins cinq de ses membres sont présents. Sur une nouvelle convocation, il peut siéger valablement quel que soit le nombre des membres présents.
 
-Le directeur général des services, le contrôleur d'Etat et l'agent comptable ainsi que toute autre personne dont la présence est jugée utile par l'administrateur général assistent aux réunions du comité avec voix consultative, à l'exception des réunions mentionnées aux 3°, 4° et 5° de l'article 6.
+Le directeur général des services, le membre du corps du contrôle général économique et financier et l'agent comptable ainsi que toute autre personne dont la présence est jugée utile par l'administrateur général assistent aux réunions du comité avec voix consultative, à l'exception des réunions mentionnées aux 3°, 4° et 5° de l'article 6.

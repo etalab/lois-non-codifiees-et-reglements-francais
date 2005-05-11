@@ -1,3 +1,3 @@
 # Article 4
 
-Le contrôleur d'Etat est destinataire des propositions budgétaires des sociétés dans les mêmes conditions que les administrations chargées de leur tutelle.
+Le membre du corps du contrôle général économique et financier est destinataire des propositions budgétaires des sociétés dans les mêmes conditions que les administrations chargées de leur tutelle.

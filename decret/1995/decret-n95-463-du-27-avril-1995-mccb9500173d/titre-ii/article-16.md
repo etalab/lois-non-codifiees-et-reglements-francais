@@ -4,7 +4,7 @@ Le conseil d'administration se réunit au moins trois fois par an à l'initiativ
 
 En cas d'absence ou d'empêchement du président, le conseil d'administration peut être convoqué par le directeur général. Le conseil d'administration élit alors en son sein un président de séance parmi les personnalités mentionnées au 3° de l'article 13.
 
-Le directeur général de l'établissement public, l'administrateur général, le contrôleur financier, ainsi que l'agent comptable assistent aux séances avec voix consultative.
+Le directeur général de l'établissement public, l'administrateur général, le membre du corps du contrôle général économique et financier, ainsi que l'agent comptable assistent aux séances avec voix consultative.
 
 Le président peut appeler à participer aux séances toute personne dont il juge la présence utile.
 

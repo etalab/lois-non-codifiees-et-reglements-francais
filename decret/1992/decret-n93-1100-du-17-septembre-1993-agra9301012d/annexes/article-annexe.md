@@ -1,8 +1,6 @@
 # Article ANNEXE
 
-Fonction exercée pouvant ouvrir droit
-
-au versement d'une nouvelle bonification indiciaire
+Fonction exercée pouvant ouvrir droit au versement d'une nouvelle bonification indiciaire
 
 Chef de service d'administration générale dans les directions départementales de l'agriculture et de la forêt et les directions de l'agriculture et de la forêt dans les départements d'outre-mer ;
 
@@ -36,7 +34,7 @@ Responsable du secrétariat :
 
 - d'un chef de service ;
 
-- du contrôleur financier ;
+- du membre du corps du contrôle général économique et financier ;
 
 - du chef de la mission de défense ;
 
