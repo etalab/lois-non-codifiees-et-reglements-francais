@@ -1,0 +1,3 @@
+# Article 6
+
+Lors de l'évaluation nationale périodique qui suit la mise en oeuvre du partenariat international, un rapport spécifique est adressé aux ministres concernés ainsi qu'à l'instance d'évaluation compétente. Ce rapport précise l'objet des conventions conclues, les adaptations en matière de pédagogie réalisées et les résultats obtenus. L'instance d'évaluation se prononce sur ce rapport et sur l'intérêt de la poursuite du partenariat international. Elle émet des recommandations. Cet avis est pris en compte par la décision d'habilitation, pour ce qui concerne la poursuite du partenariat international.

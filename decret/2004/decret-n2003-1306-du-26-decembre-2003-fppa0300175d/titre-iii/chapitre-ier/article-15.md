@@ -26,11 +26,13 @@ II. - S'ajoutent également aux services effectifs :
 
 2° Pour les sapeurs-pompiers professionnels, une bonification du cinquième du temps de service effectivement accompli en qualité de sapeurs-pompiers professionnels, attribuée :
 
-a) Aux sapeurs-pompiers professionnels admis à la retraite à compter de cinquante-cinq ans, qui ont accompli cent vingt trimestres de services effectifs, pris en compte dans la constitution de leurs droits à pension, dont soixante en qualité de sapeurs-pompiers professionnels ;
+a) Aux sapeurs-pompiers professionnels admis à la retraite à compter de cinquante-cinq ans, qui ont accompli cent trimestres de services effectifs, pris en compte dans la constitution de leurs droits à pension, dont soixante en qualité de sapeurs-pompiers professionnels ;
 
-b) Aux sapeurs-pompiers professionnels admis au bénéfice du congé pour difficulté opérationnelle, mis à la retraite et radiés des cadres à la fin du mois de leur cinquante-cinquième anniversaire et qui ont accompli cent trimestres de services effectifs, pris en compte dans la constitution de leurs droits à pension, dont soixante en qualité de sapeurs-pompiers professionnels ;
+b) Aux sapeurs-pompiers professionnels admis au bénéfice du congé pour raison opérationnelle, mis à la retraite et radiés des cadres à la fin du mois de leur cinquante-cinquième anniversaire et qui ont accompli cent trimestres de services effectifs, pris en compte dans la constitution de leurs droits à pension, dont soixante en qualité de sapeurs-pompiers professionnels ;
 
-c) Sans condition d'âge et de durée de service aux sapeurs-pompiers professionnels radiés des cadres pour invalidité imputable au service.
+c) Sans condition d'âge et de durée de service aux sapeurs-pompiers professionnels radiés des cadres pour invalidité imputable au service ;
+
+d) Sans condition de durée de services aux anciens sapeurs-pompiers professionnels ayant perdu cette qualité à la suite d'un accident de service ou d'une maladie reconnue d'origine professionnelle, sous réserve de l'application du 1° de l'article 7.
 
 Cette bonification ne peut dépasser vingt trimestres ni avoir pour effet de porter le nombre des trimestres liquidables dans la pension au-delà du maximum prévu à l'article 16.
 
