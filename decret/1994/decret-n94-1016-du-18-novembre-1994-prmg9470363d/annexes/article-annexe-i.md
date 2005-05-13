@@ -52,7 +52,7 @@ Secrétaires techniques de la Caisse des dépôts et consignations.
 
 Secrétaires administratifs de la police nationale.
 
-Secrétaires administratifs des services déconcentrés de l'équipement et du logement.
+Secrétaires administratifs de l'équipement.
 
 Secrétaires administratifs des services déconcentrés des anciens combattants et des victimes de guerre.
 
