@@ -33,6 +33,7 @@
 - [Décret n°2000-1237 du 19 décembre 2000 (EQUU0001812D)](decret-n2000-1237-du-19-decembre-2000-equu0001812d)
 - [Décret n°2000-682 du 19 juillet 2000 (EQUK0000631D)](decret-n2000-682-du-19-juillet-2000-equk0000631d)
 - [Décret n°2000-907 du 19 septembre 2000 (ATET0080024D)](decret-n2000-907-du-19-septembre-2000-atet0080024d)
+- [Décret n°2000-426 du 19 mai 2000 (ATEG0080020D)](decret-n2000-426-du-19-mai-2000-ateg0080020d)
 - [Décret n°2000-43 du 20 janvier 2000 (FPPA9910019D)](decret-n2000-43-du-20-janvier-2000-fppa9910019d)
 - [Décret n°2000-45 du 20 janvier 2000 (FPPA9910021D)](decret-n2000-45-du-20-janvier-2000-fppa9910021d)
 - [Décret n°2000-51 du 20 janvier 2000 (FPPA0010006D)](decret-n2000-51-du-20-janvier-2000-fppa0010006d)

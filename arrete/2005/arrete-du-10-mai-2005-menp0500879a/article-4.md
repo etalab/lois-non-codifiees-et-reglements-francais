@@ -1,0 +1,9 @@
+# Article 4
+
+Les candidats aux concours prévus à l'article 4 (1°) du décret du 1er août 1990 susvisé doivent justifier, au plus tard à la date de clôture des registres d'inscription, des deux attestations ci-après :
+
+1° Une attestation certifiant que le candidat a réalisé un parcours d'au moins 50 mètres dans une piscine placée sous la responsabilité d'un service public, établie soit par un service universitaire (STAPS, service commun des APS), soit par une autorité d'un service public territorial des activités physiques et sportives (piscine municipale), soit par une autre autorité publique habilitée à assurer une formation dans le domaine de la natation. Sont également admises les attestations certifiant une compétence en natation d'un parcours d'au moins 50 mètres, délivrées par une autorité compétente d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen autre que la France ;
+
+2° Une attestation certifiant la qualification du candidat en secourisme reconnue de niveau au moins égal à celui de l'attestation de formation aux premiers secours (AFPS) par le ministère de l'intérieur (sécurité civile). Sont également admises les attestations certifiant une compétence en secourisme, délivrées par une autorité compétente d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen.
+
+Toutefois, par dérogation au principe énoncé ci-dessus, les candidats aux concours de la session 2006 devront justifier des deux attestations ci-dessus mentionnées, au plus tard à la date de leur nomination en qualité de professeur des écoles stagiaires. Les lauréats qui ne produiront pas à cette date le justificatif relatif à chacune de ces deux qualifications perdent le bénéfice de leur admission au concours.
