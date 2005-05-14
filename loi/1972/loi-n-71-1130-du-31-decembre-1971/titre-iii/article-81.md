@@ -1,6 +1,6 @@
 # Article 81
 
-Les articles 1er (I), 3 à 27, 49, 50 (VII, IX et XII), 53 (1° à 12° et 14°), 67, 68, 72, 73 et 74 sont applicables aux territoires d'outre-mer. Il en est de même pour Mayotte, à l'exception du 9° de l'article 53, qui ne s'applique qu'en tant qu'il concerne les conditions d'application de l'article 27. Les attributions dévolues en matière de procédure civile aux avocats et aux conseils des parties peuvent être exercées à Mayotte par des personnes agréées par le président du tribunal supérieur d'appel.
+Les articles 1er (I), 3 à 27, 49, 50 (VII, IX et XII), 53 (1° à 12° et 14°), 67, 68, 72, 73 et 74 sont applicables aux territoires d'outre-mer. Il en est de même pour Mayotte, à l'exception du 9° de l'article 53, qui ne s'applique qu'en tant qu'il concerne les conditions d'application de l'article 27. Les attributions dévolues en matière de procédure civile aux avocats et aux conseils des parties peuvent être exercées à Mayotte par des personnes agréées par le président du tribunal supérieur d'appel. Les attributions dévolues en matière de procédure civile aux avocats et aux conseils des parties peuvent être exercées dans les îles Wallis et Futuna par des mandataires (1).
 
 Ne sont pas applicables à la collectivité territoriale de Saint-Pierre-et-Miquelon les articles 1er (III), 2, 22-1, 42 à 48, 50 (I, III), 53 (13° et 15°), 54 à 66-6, 71, 76 et 80. Le 9° de l'article 53 ne s'applique qu'en tant qu'il concerne les conditions d'application de l'article 27.
 
