@@ -6,9 +6,9 @@ La commission spéciale des installations nucléaires de base secrètes institu�
 
 - le haut commissaire à l'énergie atomique ;
 
-- le directeur de la sûreté des installations nucléaires ;
+- le directeur général de la sûreté nucléaire et de la radioprotection ;
 
-- sept représentants du ministre de la défense, dont six appartenant respectivement à l'état-major des armées, de la marine, de l'armée de l'air, à la délégation générale pour l'armement, au contrôle général des armées et à DCN ;
+- sept représentants du ministre de la défense, dont cinq personnes appartenant respectivement à l'état-major des armées, de la marine, de l'armée de l'air, à la délégation générale pour l'armement et au contrôle général des armées ;
 
 - le haut fonctionnaire de défense du ministre chargé de l'industrie ;
 
