@@ -15,7 +15,6 @@
 - [Décret n°97-905 du 1 octobre 1997 (ATEN9750027D)](decret-n97-905-du-1-octobre-1997-aten9750027d)
 - [Décret n°97-917 du 1 octobre 1997 (ECOC9700146D)](decret-n97-917-du-1-octobre-1997-ecoc9700146d)
 - [Décret n°75-432 du 2 juin 1975](decret-n75-432-du-2-juin-1975)
-- [Décret n°85-659 du 2 juillet 1985](decret-n85-659-du-2-juillet-1985)
 - [Décret n°97-1114 du 2 décembre 1997 (ECOA9720015D)](decret-n97-1114-du-2-decembre-1997-ecoa9720015d)
 - [Décret n°97-300 du 2 avril 1997 (ENVN9750021D)](decret-n97-300-du-2-avril-1997-envn9750021d)
 - [Décret n°97-317 du 2 avril 1997 (BUDF9720726D)](decret-n97-317-du-2-avril-1997-budf9720726d)
