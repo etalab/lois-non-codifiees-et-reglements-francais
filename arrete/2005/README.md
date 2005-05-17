@@ -130,6 +130,7 @@
 - [Arrêté du 16 décembre 2004 (ECOP0401033A)](arrete-du-16-decembre-2004-ecop0401033a)
 - [Arrêté du 16 février 2005 (ECOT0520003A)](arrete-du-16-fevrier-2005-ecot0520003a)
 - [Arrêté du 16 mars 2005 (DEFD0500283A)](arrete-du-16-mars-2005-defd0500283a)
+- [Arrêté du 16 mai 2005 (PRMX0508394A)](arrete-du-16-mai-2005-prmx0508394a)
 - [Arrêté du 17 août 2005 (INTC0500613A)](arrete-du-17-aout-2005-intc0500613a)
 - [Arrêté du 17 décembre 2004 (DEVP0540024A)](arrete-du-17-decembre-2004-devp0540024a)
 - [Arrêté du 17 décembre 2004 (SOCA0423378A)](arrete-du-17-decembre-2004-soca0423378a)
