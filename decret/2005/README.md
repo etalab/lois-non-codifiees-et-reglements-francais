@@ -214,6 +214,7 @@
 - [Décret n°2005-146 du 16 février 2005 (EQUH0401743D)](decret-n2005-146-du-16-fevrier-2005-equh0401743d)
 - [Décret n°2005-247 du 16 mars 2005 (DEFP0500054D)](decret-n2005-247-du-16-mars-2005-defp0500054d)
 - [Décret n°2005-248 du 16 mars 2005 (DEFP0500055D)](decret-n2005-248-du-16-mars-2005-defp0500055d)
+- [Décret n°2005-473 du 16 mai 2005 (EQUA0500675D)](decret-n2005-473-du-16-mai-2005-equa0500675d)
 - [Décret n°2005-480 du 16 mai 2005 (SANG0520868D)](decret-n2005-480-du-16-mai-2005-sang0520868d)
 - [Décret n°2004-242 du 17 mars 2004 (AGRE0400169D)](decret-n2004-242-du-17-mars-2004-agre0400169d)
 - [Décret n°2005-138 du 17 février 2005 (FPPA0400155D)](decret-n2005-138-du-17-fevrier-2005-fppa0400155d)
