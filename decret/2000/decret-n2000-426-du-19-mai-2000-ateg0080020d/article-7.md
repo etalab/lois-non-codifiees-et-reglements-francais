@@ -12,7 +12,7 @@ Elle traite, dans les domaines de la compétence du ministre chargé de l'enviro
 
 Elle contribue, dans ses domaines de compétence, à l'application de la législation relative à la protection du littoral et de la montagne.
 
-Elle assure la tutelle de l'Office national de la chasse, du Conservatoire de l'espace littoral et des rivages lacustres, des parcs nationaux et, pour le compte du ministre chargé de l'environnement, de l'Office national des forêts.
+Elle est chargée de la tutelle des parcs nationaux et du Conservatoire de l'espace littoral et des rivages lacustres, ainsi que de la tutelle conjointe avec d'autres ministères de l'Office national des forêts, de l'Office national de la chasse et de la faune sauvage et du Muséum national d'histoire naturelle.
 
 Elle assure le secrétariat du comité interministériel des parcs nationaux.
 

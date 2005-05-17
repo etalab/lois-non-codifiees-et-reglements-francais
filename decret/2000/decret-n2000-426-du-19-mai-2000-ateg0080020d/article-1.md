@@ -1,8 +1,8 @@
 # Article 1
 
-L'administration centrale du ministère chargé de l'environnement comprend, outre le service de l'inspection générale de l'environnement, le haut fonctionnaire de défense, le haut fonctionnaire pour la modernisation et la déconcentration et le bureau du cabinet qui sont directement rattachés au ministre :
+L'administration centrale du ministère chargé de l'environnement comprend, outre le secrétaire général :
 
-- la direction générale de l'administration, des finances et des affaires internationales ;
+- la direction générale de l'administration ;
 
 - la direction des études économiques et de l'évaluation environnementale ;
 
@@ -10,4 +10,8 @@ L'administration centrale du ministère chargé de l'environnement comprend, out
 
 - la direction de la prévention des pollutions et des risques ;
 
-- la direction de la nature et des paysages.
+- la direction de la nature et des paysages ;
+
+- la délégation au développement durable.
+
+Sont directement rattachés au ministre le service de l'inspection générale de l'environnement, le haut fonctionnaire de défense et le bureau du cabinet.

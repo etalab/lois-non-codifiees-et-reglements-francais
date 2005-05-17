@@ -18,6 +18,6 @@ En liaison avec la direction générale de l'administration, des finances et des
 
 Elle exerce la coordination interministérielle des politiques de prévention des risques majeurs, de protection de l'atmosphère, de lutte contre le bruit et de prévention et de gestion des déchets. Elle prépare la programmation des crédits d'intervention non déconcentrés de l'Etat dans ces domaines et est tenue informée de ces interventions.
 
-Elle assure, pour le compte du ministre chargé de l'environnement, la tutelle de l'Institut national de l'environnement industriel et des risques, de l'Agence de l'environnement et de la maîtrise de l'énergie et de l'Agence nationale pour la gestion des déchets radioactifs.
+Elle assure, pour le compte du ministre chargé de l'environnement, conjointement avec d'autres ministres, la tutelle de l'Institut national de l'environnement industriel et des risques, de l'Agence de l'environnement et de la maîtrise de l'énergie, de l'Agence française de sécurité sanitaire environnementale, de l'Institut de radioprotection et de sûreté nucléaire, du BRGM et de l'Agence nationale pour la gestion des déchets radioactifs.
 
 Son directeur exerce les fonctions de délégué aux risques majeurs. Les administrations et, sous leur couvert, les établissements publics concernés lui prêtent leur concours et lui communiquent toutes informations nécessaires à sa mission. Il prépare le rapport que le ministre chargé de l'environnement présente chaque année au Premier ministre sur la prévention des risques majeurs.
