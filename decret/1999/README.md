@@ -239,7 +239,6 @@
 - [Décret n°99-84 du 9 février 1999 (ECOT9951776D)](decret-n99-84-du-9-fevrier-1999-ecot9951776d)
 - [Décret n°99-85 du 9 février 1999 (DEFM9802180D)](decret-n99-85-du-9-fevrier-1999-defm9802180d)
 - [Décret n°99-86 du 9 février 1999 (JUSE9940005D)](decret-n99-86-du-9-fevrier-1999-juse9940005d)
-- [Décret n°95-698 du 9 mai 1995 (EQUA9500904D)](decret-n95-698-du-9-mai-1995-equa9500904d)
 - [Décret n°83-13 du 10 janvier 1983](decret-n83-13-du-10-janvier-1983)
 - [Décret n°99-100 du 10 février 1999 (ATEN9860076D)](decret-n99-100-du-10-fevrier-1999-aten9860076d)
 - [Décret n°99-1039 du 10 décembre 1999 (INTE9900284D)](decret-n99-1039-du-10-decembre-1999-inte9900284d)

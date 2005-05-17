@@ -1,3 +1,0 @@
-# Article 9
-
-Le vice président du conseil, ministre de la défense nationale, le ministre d'Etat chargé des relations avec les Etats associés, le ministre des travaux publics, des transports et du tourisme,le ministre adjoint de la défense nationale, le ministre des affaires étrangères, le ministre de l'intérieur, le ministre de la France d'outre-mer, le secrétaire d'Etat à la présidence du conseil, le secrétaire d'Etat à l'air et le secrétaire d'Etat à la marine sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal Officiel de la République française.

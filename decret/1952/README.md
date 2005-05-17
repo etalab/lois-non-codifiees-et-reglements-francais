@@ -12,7 +12,6 @@
 - [Décret n°52-1326 du 15 décembre 1952](decret-n52-1326-du-15-decembre-1952)
 - [Décret n°52-1327 du 15 décembre 1952](decret-n52-1327-du-15-decembre-1952)
 - [Décret n°52-1328 du 15 décembre 1952](decret-n52-1328-du-15-decembre-1952)
-- [Décret n°52-73 du 16 janvier 1952](decret-n52-73-du-16-janvier-1952)
 - [Décret du 17 octobre 1952](decret-du-17-octobre-1952)
 - [Décret n°52-1166 du 18 octobre 1952](decret-n52-1166-du-18-octobre-1952)
 - [Décret n°52-1094 du 25 septembre 1952](decret-n52-1094-du-25-septembre-1952)
