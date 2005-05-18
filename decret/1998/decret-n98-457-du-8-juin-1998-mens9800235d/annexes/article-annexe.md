@@ -24,7 +24,7 @@ Elle peut s'adjoindre des correspondants.
 
 Article 3
 
-Elus parmi les peintres, sculpteurs, architectes, graveurs, compositeurs de musique, créateurs d'oeuvres cinématographiques et audiovisuelles ou parmi les personnalités ayant servi les arts, les académiciens doivent être français, âgés de vingt-cinq ans au moins et susceptibles d'assister régulièrement aux séances.
+Elus parmi les peintres, sculpteurs, architectes, graveurs, compositeurs de musique, créateurs d'oeuvres cinématographiques et audiovisuelles, photographes ou parmi les personnalités ayant servi les arts, les académiciens doivent être français, âgés de vingt-cinq ans au moins et susceptibles d'assister régulièrement aux séances.
 
 Article 4
 
@@ -32,11 +32,11 @@ A compter de la notification officielle de son élection, tout académicien est 
 
 Article 5
 
-A compter de la publication des présents statuts, le nombre des académiciens est porté à cinquante-cinq.
+A compter de la publication des présents statuts, le nombre des académiciens est porté à cinquante-sept.
 
 Article 6
 
-Les académiciens sont répartis en sept sections ainsi qu'il suit :
+Les académiciens sont répartis en huit sections ainsi qu'il suit :
 
 - peinture, dix ;
 
@@ -50,15 +50,15 @@ Les académiciens sont répartis en sept sections ainsi qu'il suit :
 
 - membres libres, dix ;
 
-- cinéma et audiovisuel, six.
+- cinéma et audiovisuel, six ;
 
-2. Associés étrangers
+- photographie, deux.
 
 Article 7
 
 Le nombre des associés étrangers de l'académie ne peut excéder seize.
 
-Ils sont élus parmi les peintres, sculpteurs, architectes, graveurs, compositeurs de musique, créateurs d'oeuvres cinématographiques et audiovisuelles, et personnalités ayant servi les arts, à raison d'au moins un par discipline correspondant à chaque section.
+Ils sont élus parmi les peintres, sculpteurs, architectes, graveurs, compositeurs de musique, créateurs d'oeuvres cinématographiques et audiovisuelles, photographes, et personnalités ayant servi les arts, à raison d'au moins un par discipline correspondant à chaque section.
 
 Les modalités de l'élection des associés étrangers et de leur participation aux travaux de l'académie sont définies aux articles 8, 28, 41, 44 et 46 des présents statuts.
 

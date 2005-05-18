@@ -1,3 +1,3 @@
 # Article 3
 
-Le secrétariat de cette commission est assuré par la direction de la communication du ministère de l'économie et des finances. Celle-ci assure une bonne diffusion des termes nouveaux dans les publications du ministère ainsi que par l'intermédiaire de ses services télématiques et de son serveur sur Internet.
+Le secrétariat général de cette commission est assuré par la direction du personnel, de la modernisation et de l'administration du ministère de l'économie, des finances et de l'industrie. Le service de la communication est chargé de la diffusion des termes nouveaux dans les publications du ministère ainsi que par l'intermédiaire de ses services télématiques et de son serveur sur l'internet.
