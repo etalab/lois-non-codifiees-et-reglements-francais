@@ -8,14 +8,16 @@ b) Les attestations delivrées par les institutions françaises de retraites aux
 
 c) Les bulletins de salaires ;
 
-d) Les certificats de travail, attestations d'employeurs ou tout autre document susceptible de justifier de la durée de l'emploi. En cas d'impossibilité de produire les documents visés au présent alinéa, une déclaration sur l'honneur peut y suppléer.
+d) Les certificats de travail, attestations d'employeurs ou tout autre document susceptible de justifier de la durée de l'emploi. En cas d'impossibilité de produire les documents visés au présent alinéa, une déclaration sur l'honneur y supplée.
 
-Sur demande des intéressés, les périodes postérieures au 1er avril 1938 et antérieures à la date d'affiliation obligatoire au régime général algérien dont la validation auprès de ce régime n'a pas été effectuée peuvent être prises en compte sur production des éléments prévus aux alinéas b, c et d du présent article. La demande, accompagnée des pièces justificatives, doit être adressée avant le 1er janvier 1967 [*date limite*] à la caisse régionale ou à la caisse générale de sécurité sociale dans la circonscription de laquelle réside le requérant. Il doit être accusé réception de cette demande.
+En cas d'inexactitude des informations contenues dans la déclaration sur l'honneur, le demandeur est exclu du dispositif de validation prévue par la loi du 26 décembre 1964 susvisée.
+
+Sur demande des intéressés, les périodes postérieures au 1er avril 1938 et antérieures à la date d'affiliation obligatoire au régime général algérien dont la validation auprès de ce régime n'a pas été effectuée peuvent être prises en compte sur production des éléments prévus aux alinéas b, c et d du présent article. La demande, accompagnée des pièces justificatives, doit être adressée avant le 1er janvier 1967 à la caisse régionale ou à la caisse générale de sécurité sociale dans la circonscription de laquelle réside le requérant. Il doit être accusé réception de cette demande.
 
 Sont également validées pour compléter les périodes de salariat justifiées :
 
 Les périodes pendant lesquelles les salariés ont été contraints de suspendre leur activité à la suite de leur appel sous les drapeaux soit pour accomplir leur service militaire légal en temps de paix, soit comme mobilisés ou comme volontaires en temps de guerre ;
 
-Les périodes pendant lesquelles les assurés ont perçu les arrérages d'une pension d'invalidité ou d'une rente d'accident du travail pour une incapacité permanente au moins égale à 66 p. 100 ;
+Les périodes pendant lesquelles les assurés ont perçu les arrérages d'une pension d'invalidité ou d'une rente d'accident du travail pour une incapacité permanente au moins égale à 66% ;
 
 Les périodes durant lesquelles les intéressés ont été, postérieurement au 1er septembre 1939, mobilisés, engagés volontaires en temps de guerre, prisonniers, déportés ou internés.
