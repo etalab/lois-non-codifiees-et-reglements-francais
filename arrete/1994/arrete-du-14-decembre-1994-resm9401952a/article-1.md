@@ -2,14 +2,16 @@
 
 En application de l'article 2 du décret du 28 mai 1982 susvisé, les commissions administratives paritaires suivantes sont instituées auprès du directeur général du Centre national du machinisme agricole, du génie rural, des eaux et des forêts:
 
-Commission no 1. - Directeurs de recherche.
+Commission n° 1. - Directeurs de recherche.
 
-Commission no 2. - Chargés de recherche.
+Commission n° 2. - Chargés de recherche.
 
-Commission no 3. - Ingénieurs de recherche.
+Commission n° 3. - Ingénieurs de recherche.
 
-Commission no 4. - Ingénieurs d'études et attachés d'administration de la recherche.
+Commission n° 4. - Ingénieurs d'études.
 
-Commission no 5. - Assistants ingénieurs.
+Commission n° 5. - Assistants ingénieurs.
 
-Commission no 6. - Techniciens de la recherche et secrétaires d'administration de la recherche.
+Commission n° 6. - Techniciens de la recherche et secrétaires d'administration de la recherche.
+
+Commission n° 7. - Adjoints techniques de la recherche et agents techniques de la recherche
