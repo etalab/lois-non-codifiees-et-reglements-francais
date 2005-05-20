@@ -219,7 +219,6 @@
 - [Décret n°97-708 du 11 juin 1997 (INTX9700075D)](decret-n97-708-du-11-juin-1997-intx9700075d)
 - [Décret n°97-709 du 11 juin 1997 (MAEX9700076D)](decret-n97-709-du-11-juin-1997-maex9700076d)
 - [Décret n°97-710 du 11 juin 1997 (ECOX9700077D)](decret-n97-710-du-11-juin-1997-ecox9700077d)
-- [Décret n°97-711 du 11 juin 1997 (DEFX9700078D)](decret-n97-711-du-11-juin-1997-defx9700078d)
 - [Décret n°97-712 du 11 juin 1997 (EQUX9700079D)](decret-n97-712-du-11-juin-1997-equx9700079d)
 - [Décret n°97-714 du 11 juin 1997 (AGRX9700081D)](decret-n97-714-du-11-juin-1997-agrx9700081d)
 - [Décret n°97-715 du 11 juin 1997 (ATEX9700082D)](decret-n97-715-du-11-juin-1997-atex9700082d)
