@@ -30,4 +30,6 @@ Observatoire institut d'astrophysique spatiale, Paris-XI ;
 
 Observatoire du pic du Midi et de Toulouse, Toulouse-III ;
 
-Observatoire aquitain des sciences de l'Univers, Bordeaux-I.
+Observatoire aquitain des sciences de l'Univers, Bordeaux-I;
+
+Observatoire Institut universitaire européen de la mer, Brest.
