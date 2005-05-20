@@ -6,10 +6,6 @@ Aix-Marseille-II :
 
 Ecole de journalisme et de la communication.
 
-Brest :
-
-Institut universitaire européen de la mer.
-
 Lille-III :
 
 Ecole de formation des conseillers d'orientation.
