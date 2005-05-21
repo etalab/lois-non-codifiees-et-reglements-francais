@@ -6,7 +6,7 @@ Le conseil d'administration de La Poste est composé de vingt et un membres :
 
 Sept représentants de l'Etat nommés par décret ;
 
-Sept personnalités choisies en raison de leurs compétences, notamment des représentants des associations nationales d'usagers, nommées par décret ;
+Sept personnalités choisies en raison de leurs compétences, notamment des représentants des associations nationales d'usagers et un représentant des communes, nommées par décret.
 
 Sept représentants du personnel élus.
 

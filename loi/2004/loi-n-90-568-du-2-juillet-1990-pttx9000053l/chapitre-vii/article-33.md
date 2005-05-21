@@ -18,4 +18,4 @@ La convention constitutive de chaque groupement est soumise à l'approbation du 
 
 Cette convention définit également les conditions dans lesquelles les organisations syndicales représentatives et les associations de personnel participent à la définition des orientations générales données aux activités sociales, des prévisions budgétaires, de la répartition des ressources correspondantes et du contrôle de leur utilisation.
 
-Le cahier des charges de l'exploitant public précise les modalités du contrôle de l'évolution de sa contribution globale au financement des activités sociales.
+Les modalités du contrôle de l'évolution de la contribution globale de l'exploitant public au financement des activités sociales sont fixées par décret en Conseil d'Etat.

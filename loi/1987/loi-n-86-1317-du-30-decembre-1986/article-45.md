@@ -44,6 +44,6 @@ VII. - Les opérateurs exerçant les activités de communications électroniques
 
 5. La taxe est annuelle. Elle est exigible au 1er décembre de chaque année.
 
-Les montants correspondant à la première année d'exercice sont calculés prorata temporis en fonction de la date d'autorisation de l'activité ou de réception par l'Autorité de régulation des télécommunications de la déclaration de l'opérateur. Les montants correspondant à la dernière année d'exercice d'activité sont calculés prorata temporis en fonction de la date de cessation d'activité de l'opérateur (1).
+Les montants correspondant à la première année d'exercice sont calculés prorata temporis en fonction de la date d'autorisation de l'activité ou de réception par l'Autorité de régulation des communications électroniques et des postes de la déclaration de l'opérateur. Les montants correspondant à la dernière année d'exercice d'activité sont calculés prorata temporis en fonction de la date de cessation d'activité de l'opérateur (1).
 
 VIII. - Abrogé.

@@ -6,4 +6,6 @@ Les conditions dans lesquelles ces personnels bénéficient d'un intéressement 
 
 Chaque établissement ou groupe d'établissements de l'exploitant public d'une taille supérieure à un seuil défini par le conseil d'administration est doté, dans le respect des conditions qui seront définies par le contrat de plan de l'exploitant public, d'un contrat de gestion.
 
+Les dispositions des chapitres III et IV du titre IV du livre IV du code du travail sont applicables à l'ensemble des personnels de l'exploitant public, y compris ceux visés aux articles 29 et 44 de la présente loi. Les modalités de mise en oeuvre de ces dispositions seront déterminées conformément au contrat de plan de l'exploitant public.
+
 Les dispositions des chapitres II, III et IV du titre IV du livre IV du code du travail sont applicables à l'ensemble des personnels de France Télécom, y compris ceux visés aux articles 29 et 44 de la présente loi, à compter de l'exercice 1997.
