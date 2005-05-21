@@ -1,0 +1,5 @@
+# Article 26
+
+A compter du 1er juillet 2006, une commission paritaire formée de délégués des organisations syndicales représentatives au plan national des employés et des employeurs, convoquée la première fois par un arrêté conjoint du ministre chargé des postes et du ministre chargé du travail qui en fixe la composition initiale, les règles de fonctionnement provisoires et le premier ordre du jour, se réunit afin de négocier une convention collective applicable aux salariés non fonctionnaires de La Poste et à ceux des entreprises titulaires de l'autorisation visée à l'article L. 3 du code des postes et des communications électroniques.
+
+Cette convention collective prévoit les conditions dans lesquelles les employeurs veillent au respect par leurs employés des obligations de secret professionnel imposées aux b et c de l'article L. 3-2 du même code. Ces obligations et les modalités de leur respect sont inscrites dans le règlement intérieur des entreprises soumises à la convention collective.

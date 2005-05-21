@@ -4,6 +4,8 @@ I. - Pour les unités de fusion de capacité nominale unitaire supérieure à 45
 
 Tableau non reproduit.
 
+Dans le cas particulier d'unité de fusion produisant des verres affinés aux nitrates par campagne, la valeur limite en oxydes d'azote est portée à 1 500 mg/Nm3 pendant la durée de la campagne, sous réserve que la durée cumulée des campagnes n'excède pas 50 % de la durée de fonctionnement annuelle.
+
 II. - Pour les unités de fusion de capacité nominale unitaire supérieure ou égale à 20 tonnes par jour mais inférieure ou égale à 450 tonnes par jour, les valeurs limites de rejets en oxydes d'azote sont définies dans le tableau suivant :
 
 Tableau non reproduit.
