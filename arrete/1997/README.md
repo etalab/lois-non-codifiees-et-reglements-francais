@@ -844,7 +844,6 @@
 - [Arrêté du 24 juillet 1997 (SCOL9702103A)](arrete-du-24-juillet-1997-scol9702103a)
 - [Arrêté du 24 juin 1997 (DEFB9701683A)](arrete-du-24-juin-1997-defb9701683a)
 - [Arrêté du 24 juin 1997 (MESW9710947A)](arrete-du-24-juin-1997-mesw9710947a)
-- [Arrêté du 24 mars 1997 (DEFB9701333A)](arrete-du-24-mars-1997-defb9701333a)
 - [Arrêté du 24 mars 1997 (EQUA9700539A)](arrete-du-24-mars-1997-equa9700539a)
 - [Arrêté du 24 mars 1997 (EQUA9700540A)](arrete-du-24-mars-1997-equa9700540a)
 - [Arrêté du 24 mars 1997 (PRMX9701958A)](arrete-du-24-mars-1997-prmx9701958a)
