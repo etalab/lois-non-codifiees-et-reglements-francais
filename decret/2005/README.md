@@ -316,6 +316,7 @@
 - [Décret n°2005-832 du 21 juillet 2005 (MENF0501215D)](decret-n2005-832-du-21-juillet-2005-menf0501215d)
 - [Décret n°93-1182 du 21 octobre 1993 (ENVE9310013D)](decret-n93-1182-du-21-octobre-1993-enve9310013d)
 - [Décret n°2005-519 du 21 mai 2005 (DOMB0500002D)](decret-n2005-519-du-21-mai-2005-domb0500002d)
+- [Décret n°2005-520 du 21 mai 2005 (DEFD0500671D)](decret-n2005-520-du-21-mai-2005-defd0500671d)
 - [Décret n°2004-1393 du 22 décembre 2004 (MCCT0400850D)](decret-n2004-1393-du-22-decembre-2004-mcct0400850d)
 - [Décret n°2005-160 du 22 février 2005 (INTA0500043D)](decret-n2005-160-du-22-fevrier-2005-inta0500043d)
 - [Décret n°2005-161 du 22 février 2005 (SOCU0510152D)](decret-n2005-161-du-22-fevrier-2005-socu0510152d)
