@@ -893,8 +893,6 @@
 - [Décret n°2004-473 du 25 mai 2004 (AGRG0401003D)](decret-n2004-473-du-25-mai-2004-agrg0401003d)
 - [Décret du 26 novembre 2004 (AGRP0401703D)](decret-du-26-novembre-2004-agrp0401703d)
 - [Décret du 26 novembre 2004 (AGRP0401706D)](decret-du-26-novembre-2004-agrp0401706d)
-- [Décret du 26 novembre 2004 (AGRP0401782D)](decret-du-26-novembre-2004-agrp0401782d)
-- [Décret du 26 novembre 2004 (AGRP0401783D)](decret-du-26-novembre-2004-agrp0401783d)
 - [Décret du 26 novembre 2004 (AGRP0401808D)](decret-du-26-novembre-2004-agrp0401808d)
 - [Décret du 26 novembre 2004 (AGRP0401839D)](decret-du-26-novembre-2004-agrp0401839d)
 - [Décret du 26 novembre 2004 (AGRP0402080D)](decret-du-26-novembre-2004-agrp0402080d)
