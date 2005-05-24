@@ -69,6 +69,7 @@
 - [Arrêté du 10 janvier 2005 (SOCO0411934A)](arrete-du-10-janvier-2005-soco0411934a)
 - [Arrêté du 10 mai 2005 (AGRA0501132A)](arrete-du-10-mai-2005-agra0501132a)
 - [Arrêté du 10 mai 2005 (MENP0500879A)](arrete-du-10-mai-2005-menp0500879a)
+- [Arrêté du 10 mai 2005 (SANS0521750A)](arrete-du-10-mai-2005-sans0521750a)
 - [Arrêté du 11 avril 2005 (AGRA0500749A)](arrete-du-11-avril-2005-agra0500749a)
 - [Arrêté du 11 avril 2005 (BUDL0500053A)](arrete-du-11-avril-2005-budl0500053a)
 - [Arrêté du 11 avril 2005 (INTB0500227D)](arrete-du-11-avril-2005-intb0500227d)
