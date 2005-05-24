@@ -1,3 +1,3 @@
 # Article 5
 
-Le montant des garanties d'assurances souscrites par les membres de l'ordre des experts-comptables en application du premier alinéa de l'article 17 de l'ordonnance du 19 septembre 1945 susvisée ne peut être inférieur, au cours des trois années suivant l'entrée en vigueur du présent décret, à trois millions de francs par assuré, par réclamation et par an.
+Le montant des garanties d'assurances souscrites par les personnes mentionnées au premier alinéa de l'article 17 de l'ordonnance du 19 septembre 1945 susvisée en application du même alinéa ne peut être inférieur, par assuré, à cinq cent mille euros par sinistre et un million d'euros par année d'assurance. Les parties peuvent convenir de dispositions plus favorables.
