@@ -10,4 +10,3 @@
 - [Article 18-3](article-18-3.md)
 - [Article 18-4](article-18-4.md)
 - [Article 19](article-19.md)
-- [Article 19-1 A](article-19-1-a.md)
