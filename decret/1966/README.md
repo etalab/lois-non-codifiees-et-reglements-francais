@@ -28,7 +28,6 @@
 - [Décret n°66-270 du 22 avril 1966](decret-n66-270-du-22-avril-1966)
 - [Décret n°65-1139 du 23 décembre 1965](decret-n65-1139-du-23-decembre-1965)
 - [Décret n°66-108 du 23 février 1966](decret-n66-108-du-23-fevrier-1966)
-- [Décret n°66-585 du 27 juillet 1966](decret-n66-585-du-27-juillet-1966)
 - [Décret n°66-594 du 27 juillet 1966](decret-n66-594-du-27-juillet-1966)
 - [Décret n°66-807 du 28 octobre 1966](decret-n66-807-du-28-octobre-1966)
 - [Décret n°66-808 du 28 octobre 1966](decret-n66-808-du-28-octobre-1966)
