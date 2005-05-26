@@ -583,8 +583,6 @@
 - [Arrêté du 18 septembre 1998 (DEFD9801886A)](arrete-du-18-septembre-1998-defd9801886a)
 - [Arrêté du 18 septembre 1998 (ECOT9810348A)](arrete-du-18-septembre-1998-ecot9810348a)
 - [Arrêté du 18 mai 1998 (ECOC9800046A)](arrete-du-18-mai-1998-ecoc9800046a)
-- [Arrêté du 18 mai 1998 (INTE9800216A)](arrete-du-18-mai-1998-inte9800216a)
-- [Arrêté du 18 mai 1998 (INTE9800217A)](arrete-du-18-mai-1998-inte9800217a)
 - [Arrêté du 18 mai 1998 (MESH9821918A)](arrete-du-18-mai-1998-mesh9821918a)
 - [Arrêté du 19 août 1998 (AGRA9801288A)](arrete-du-19-aout-1998-agra9801288a)
 - [Arrêté du 19 août 1998 (MENS9802235A)](arrete-du-19-aout-1998-mens9802235a)
