@@ -28,7 +28,7 @@ La liste des emplois de conseiller pour les affaires administratives du ministè
 
 - Directeur du bureau du service national de Toulouse ;
 
-chef du bureau des affaires générales et de la prévision, sous-direction de la prévision, des études et de la réglementation de la direction de la fonction militaire et du personnel civil ;
+- chef du bureau des affaires générales et de la prévision, sous-direction de la prévision, des études et de la réglementation de la direction de la fonction militaire et du personnel civil ;
 
 - adjoint au chef de la division personnel civil de la région terre Ile-de-France ;
 
@@ -42,4 +42,6 @@ chef du bureau des affaires générales et de la prévision, sous-direction de l
 
 - chef du bureau "gestion des personnels civils de la sous-direction ressources humaines de la direction centrale du service de santé des armées ;
 
-- chef de l'observatoire du personnel civil de l'inspection de l'armée de terre.
+- chef de l'observatoire du personnel civil de l'inspection de l'armée de terre ;
+
+- sous-directeur administratif de l'atelier industriel de l'aéronautique de Clermont-Ferrand.
