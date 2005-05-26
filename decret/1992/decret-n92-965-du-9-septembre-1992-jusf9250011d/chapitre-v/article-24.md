@@ -1,3 +1,0 @@
-# Article 24
-
-A titre transitoire, jusqu'à l'ouverture du premier concours organisé en application de l'article 3, les postes vacants de directeur de 2e classe peuvent être pourvus en faisant appel à la candidature des éducateurs et chefs de service éducatif inscrits au tableau d'avancement pour l'accès au grade de sous-directeur établi au titre de l'année 1991 conformément à l'article 13 bis du décret du 23 avril 1956 précité ainsi qu'à ceux qui, figurant sur la liste d'aptitude dressée à la suite du dernier examen professionnel d'accès audit grade le 29 mars 1990, avaient vocation à être inscrits audit tableau au titre de l'année 1992.
