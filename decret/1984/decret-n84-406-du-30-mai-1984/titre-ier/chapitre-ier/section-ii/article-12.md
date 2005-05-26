@@ -4,9 +4,7 @@ L'obligation prévue au premier alinéa de l'article précédent inclut :
 
 1° Les décisions définitives plaçant un majeur sous tutelle ou sous curatelle au sens des articles 492, 508 et 508-1 du code civil, et celles qui en donnent mainlevée ou qui les rapportent ; lorsqu'il est fait application de ces articles l'obligation de déclaration incombe au tuteur ou au curateur ;
 
-2° Les modifications relatives à la situation matrimoniale, les clauses opposables aux tiers restrictives de la libre disposition des biens des époux, les conventions entre époux modifiant le régime matrimonial et, le cas échéant, les décisions passées en force de chose jugée les homologuant.
-
-La déclaration précise en outre, dans le cas prévu à l'article 1397-3 du code civil, la loi applicable au régime matrimonial et, le cas échéant, la nature du régime matrimonial choisi ainsi que, dans le cas prévu à l'article 1397-5 du même code, le changement au régime matrimonial ;
+2° Les modifications relatives à la situation matrimoniale des époux ;
 
 2° bis La déclaration d'insaisissabilité des droits de la personne physique immatriculée sur l'immeuble où est fixée sa résidence principale, lorsqu'il est fait application des articles L. 526-1 et suivants du code de commerce ; le cas échéant, la déclaration de remploi des fonds dans les conditions prévues à l'article L. 526-3 du même code ; et, le cas échéant, la renonciation à la déclaration d'insaisissabilité ou de remploi prévue à l'article L. 526-3 du même code ;
 

@@ -26,4 +26,4 @@ c) Les jugements rendus en matière de suspension provisoire des poursuites en c
 
 5° Les jugements d'interdiction ou de nomination de conseil judiciaire lorsque ces mesures ont été rapportées ;
 
-6° Les demandes en séparation de biens ou de liquidation anticipée des acquêts ainsi que les demandes formées sur le fondement de l'article 1426 ou de l'article 1429 du code civil lorsqu'elles ont été rejetées ainsi que les jugements de rejet de ces demandes.
+6° Les demandes formées sur le fondement de l'article 1426 ou de l'article 1429 du code civil lorsqu'elles ont été rejetées ainsi que les jugements de rejet de ces demandes.

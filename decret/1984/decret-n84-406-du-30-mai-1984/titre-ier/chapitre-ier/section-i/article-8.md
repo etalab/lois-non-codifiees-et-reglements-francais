@@ -10,7 +10,7 @@ A - En ce qui concerne la personne :
 
 3° Sa nationalité ;
 
-4° La date et le lieu de son mariage ; l'existence ou l'absence de contrat de mariage, le régime matrimonial adopté par ledit contrat ; lorsqu'il est fait application des articles 1397-2 et 1397-3 du code civil, la désignation de la loi applicable au régime matrimonial et, le cas échéant, la nature du régime matrimonial choisi ; lorsque le régime matrimonial est un régime de communauté, les nom, nom d'usage et prénoms du conjoint commun en biens ; les clauses opposables aux tiers restrictives de la libre disposition des biens des époux ; les demandes formées contre l'assujetti sur le fondement des articles 1426 ou 1429 du code civil, les demandes en séparation de biens ou en liquidation anticipée des acquêts ainsi que les décisions ayant admis de telles demandes ; les décisions rendues en application de l'article 220-1 du code civil lorsqu'elles prescrivent à l'égard de l'assujetti l'une des mesures prévues aux deuxième alinéa de cet article ;
+4° La date et le lieu de son mariage ;
 
 4° bis L'information donnée à son conjoint commun en biens sur les conséquences des dettes contractées dans l'exercice de sa profession sur les biens communs. Le justificatif de délivrance de l'information est fourni conformément au modèle défini par arrêté du garde des sceaux, ministre de la justice ;
 

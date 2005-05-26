@@ -8,7 +8,7 @@ A - Pour les personnes physiques :
 
 1° Les références de l'immatriculation ;
 
-2° Les nom, nom d'usage, prénoms et pseudonyme de l'assujetti ainsi que le nom du conjoint s'il est commun en biens ;
+2° Les nom, nom d'usage, prénoms et pseudonyme de l'assujetti ;
 
 3° La ou les activités effectivement exercées, le lieu d'exercice, la date du commencement d'exploitation ;
 
