@@ -418,7 +418,6 @@
 - [Décret n°97-863 du 17 septembre 1997 (ECOI9700420D)](decret-n97-863-du-17-septembre-1997-ecoi9700420d)
 - [Décret n°97-954 du 17 octobre 1997 (MESC9711430D)](decret-n97-954-du-17-octobre-1997-mesc9711430d)
 - [Décret n°97-965 du 17 octobre 1997 (ECOT9726203D)](decret-n97-965-du-17-octobre-1997-ecot9726203d)
-- [Décret n°98-482 du 17 juin 1998 (JUSF9850033D)](decret-n98-482-du-17-juin-1998-jusf9850033d)
 - [Décret n°88-401 du 18 avril 1988 (RESY8800491D)](decret-n88-401-du-18-avril-1988-resy8800491d)
 - [Décret n°96-1112 du 18 décembre 1996 (JUSC9620870D)](decret-n96-1112-du-18-decembre-1996-jusc9620870d)
 - [Décret n°96-1136 du 18 décembre 1996 (FCEC9600201D)](decret-n96-1136-du-18-decembre-1996-fcec9600201d)
