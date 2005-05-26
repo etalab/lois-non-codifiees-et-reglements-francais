@@ -6,7 +6,11 @@ Le total des notes coefficientées des épreuves correspondant aux modules d'ens
 
 Le diplôme est délivré si la note moyenne globale obtenue est égale ou supérieure à 10 sur 20. Si cette note est comprise entre 9 et 10 sur 20, le jury peut décider, au vu des résultats aux épreuves et du livret scolaire ou de formation du candidat, soit d'attribuer des points supplémentaires et déclarer le candidat admis, soit de l'ajourner.
 
-Toutefois, une note inférieure à 10 sur 20 obtenue à l'épreuve ponctuelle terminale professionnelle est éliminatoire.
+Toutefois, est éliminatoire une note inférieure à 10 sur 20 obtenue à l'épreuve professionnelle :
+
+- définie pour les élèves bénéficiant du contrôle en cours de formation par la note finale intégrant la note obtenue à l'épreuve terminale ponctuelle et celle obtenue au contrôle en cours de formation ;
+
+- définie pour les élèves ne bénéficiant pas du contrôle en cours de formation par la note obtenue à l'épreuve terminale ponctuelle.
 
 Un candidat ayant fourni un livret scolaire ou de formation ne peut être ajourné sans que le jury ait examiné celui-ci. La mention de cet examen est portée sur le livret sous la signature du président.
 
