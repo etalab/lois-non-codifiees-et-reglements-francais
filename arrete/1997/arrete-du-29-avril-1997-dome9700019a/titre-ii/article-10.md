@@ -6,8 +6,10 @@ Dans le cas d'une vente réalisée à la livraison du logement, elle est versée
 
 Dans le cas d'une vente en l'état futur d'achèvement ou d'une maîtrise d'ouvrage effectuée par l'accédant lui-même, le montant de la subvention est versé dans les conditions suivantes :
 
-20 % à l'ouverture du chantier de construction, sur production du contrat de vente ou d'une attestation de démarrage des travaux (secteur diffus) ;
+50 % à l'ouverture du chantier de construction, sur production du contrat de vente ou d'une attestation de démarrage des travaux (secteur diffus) ;
 
 Au fur et à mesure de l'état d'avancement des travaux dans la limite de 80 % ;
 
 Le solde après déclaration d'achèvement des travaux.
+
+La demande de subvention, déposée auprès de la direction départementale de l'équipement, est accompagnée des pièces requises par l'autorité administrative au titre du présent arrêté, dont au moins un descriptif de l'opération de financement prévisionnel.

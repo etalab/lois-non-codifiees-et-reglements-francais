@@ -1,0 +1,3 @@
+# Article 5
+
+Le Premier ministre, le ministre de l'éducation nationale, de l'enseignement supérieur et de la recherche, le ministre de l'intérieur, de la sécurité intérieure et des libertés locales, le ministre de l'emploi, du travail et de la cohésion sociale, la ministre de la défense, le garde des sceaux, ministre de la justice, le ministre des affaires étrangères, le ministre de l'économie, des finances et de l'industrie, la ministre de l'outre-mer et le ministre délégué au budget et à la réforme budgétaire, porte-parole du Gouvernement, sont responsables, chacun en ce qui le concerne, de l'application du présent décret, qui sera publié au Journal officiel de la République française.

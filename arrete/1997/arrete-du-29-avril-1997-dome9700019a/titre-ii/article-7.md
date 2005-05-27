@@ -6,38 +6,38 @@ La subvention ne peut cependant excéder 50 % du coût total de l'opération dan
 
 Isolé
 
-DIFFUS : 12 700
+DIFFUS : 14 873
 
-GROUPE : 14 300
+GROUPE : 20 097
 
 M + 0
 
-DIFFUS : 14 300
+DIFFUS : 16 748
 
-GROUPE : 17 450
+GROUPE : 24 525
 
 M + 1
 
-DIFFUS : 17 450
+DIFFUS : 20 437
 
-GROUPE : 21 450
+GROUPE : 30 185
 
 M + 2
 
-DIFFUS : 19 850
+DIFFUS : 23 248
 
-GROUPE : 23 850
+GROUPE : 33 518
 
 M + 3
 
-DIFFUS : 19 850
+DIFFUS : 23 248
 
-GROUPE : 23 850
+GROUPE : 33 518
 
 M + 4 et au-delà
 
-DIFFUS : 21 450
+DIFFUS : 25 121
 
-GROUPE : 25 400
+GROUPE : 35 697
 
 Ces plafonds sont révisés chaque année, le 1er janvier, en fonction de la variation de la moyenne associée à l'indice du coût de la construction du deuxième trimestre de l'année précédente.
