@@ -27,6 +27,7 @@
 - [Loi n° 2001-503 du 12 juin 2001 (INTX0100037L)](loi-n-2001-503-du-12-juin-2001-intx0100037l)
 - [Loi n° 2001-504 du 12 juin 2001 (JUSX9903887L)](loi-n-2001-504-du-12-juin-2001-jusx9903887l)
 - [Loi n° 2001-582 du 4 juillet 2001 (MESX0004548L)](loi-n-2001-582-du-4-juillet-2001-mesx0004548l)
+- [Loi n° 2001-6 du 4 janvier 2001 (AGRX0000020L)](loi-n-2001-6-du-4-janvier-2001-agrx0000020l)
 - [Loi n° 2001-602 du 9 juillet 2001 (AGRX0000026L)](loi-n-2001-602-du-9-juillet-2001-agrx0000026l)
 - [Loi n° 2001-603 du 10 juillet 2001 (MAEX0100051L)](loi-n-2001-603-du-10-juillet-2001-maex0100051l)
 - [Loi n° 2001-616 du 11 juillet 2001 (INTX0000187L)](loi-n-2001-616-du-11-juillet-2001-intx0000187l)
