@@ -12,7 +12,7 @@ Le conseil d'administration délibère sur les matières suivantes :
 
 5. Le rapport annuel d'activité ;
 
-6. Le budget et les décisions modificatives de celui-ci. Sont soumises au conseil d'administration les décisions modificatives du budget de l'agence qui comportent, soit une modification de l'équilibre global, soit une augmentation du montant global des dépenses, soit une diminution des recettes entraînant une perte ou une variation négative du fonds de roulement, soit des virements de crédits entre chapitres. Les autres décisions modificatives du budget de l'agence sont prises par le directeur de l'agence, après visa du membre du corps du contrôle général économique et financier  et sont présentées pour information au conseil d'administration lors de sa plus prochaine séance. En cas d'urgence avérée et si le conseil d'administration ne peut se réunir à une date suffisamment proche, une décision modificative d'urgence peut être prise par le directeur de l'agence, après l'autorisation du membre du corps du contrôle général économique et financier, en accord avec le ministre des affaires étrangères et le président du conseil d'administration. Elle doit faire l'objet d'une approbation au cours du plus prochain conseil d'administration ;
+6. Le budget et les décisions modificatives de celui-ci. Sont soumises au conseil d'administration les décisions modificatives du budget de l'agence qui comportent, soit une modification de l'équilibre global, soit une augmentation du montant global des dépenses, soit une diminution des recettes entraînant une perte ou une variation négative du fonds de roulement, soit des virements de crédits entre chapitres. Les autres décisions modificatives du budget de l'agence sont prises par le directeur de l'agence, après visa du membre du corps du contrôle général économique et financier et sont présentées pour information au conseil d'administration lors de sa plus prochaine séance. En cas d'urgence avérée et si le conseil d'administration ne peut se réunir à une date suffisamment proche, une décision modificative d'urgence peut être prise par le directeur de l'agence, après l'autorisation du membre du corps du contrôle général économique et financier, en accord avec le ministre des affaires étrangères et le président du conseil d'administration. Elle doit faire l'objet d'une approbation au cours du plus prochain conseil d'administration ;
 
 7. Le compte financier et l'affectation des résultats ;
 
@@ -20,12 +20,16 @@ Le conseil d'administration délibère sur les matières suivantes :
 
 9. Les acquisitions, aliénations, échanges, locations, baux, constructions et grosses réparations d'immeubles relevant de son domaine propre ;
 
-10. Les principes selon lesquels sont déterminées les redevances et rémunérations de toute nature perçues par l'agence ;
+10. Le programme annuel des travaux d'aménagement, d'entretien et de grosses réparations des immeubles remis en dotation ainsi que la délivrance des autorisations d'occupation temporaire de ces immeubles. Les modifications apportées au programme des travaux en cours d'année font l'objet d'une régularisation par le conseil d'administration ;
 
-11. Les dons et legs ;
+11. Les principes selon lesquels sont déterminées les redevances et rémunérations de toute nature perçues par l'agence ;
 
-12. Les transactions ;
+12. Les dons et legs ;
 
-13. L'habilitation du directeur de l'agence à introduire les actions en justice.
+13. Les transactions ;
+
+14. L'habilitation du directeur de l'agence à introduire les actions en justice.
 
 Le conseil d'administration détermine les catégories de conventions qui, en raison de leur nature ou du montant financier engagé, doivent lui être soumis pour approbation.
+
+Il fixe les redevances dues à raison des autorisations d'occupation temporaire des immeubles remis en dotation.
