@@ -489,6 +489,7 @@
 - [Décret n°2005-302 du 30 mars 2005 (MAEF0410015D)](decret-n2005-302-du-30-mars-2005-maef0410015d)
 - [Décret n°2005-318 du 30 mars 2005 (JUSG0560019D)](decret-n2005-318-du-30-mars-2005-jusg0560019d)
 - [Décret n°2005-320 du 30 mars 2005 (EQUS0500198D)](decret-n2005-320-du-30-mars-2005-equs0500198d)
+- [Décret n°88-1207 du 30 décembre 1988 (ECOC8800154D)](decret-n88-1207-du-30-decembre-1988-ecoc8800154d)
 - [Décret n° 2005-69 du 31 janvier 2005 (SOCU0412287D)](decret-n-2005-69-du-31-janvier-2005-socu0412287d)
 - [Décret n°2004-1532 du 31 décembre 2004 (PRMX0407933D)](decret-n2004-1532-du-31-decembre-2004-prmx0407933d)
 - [Décret n°2005-1093 du 31 août 2005 (SOCG0521698D)](decret-n2005-1093-du-31-aout-2005-socg0521698d)
