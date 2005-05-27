@@ -1,3 +1,3 @@
 # Article 1
 
-Le chef-lieu des circonscriptions électorales pour l'élection des membres du Conseil supérieur des Français de l'étranger est fixé conformément au tableau annexé au présent décret.
+Le chef-lieu des circonscriptions électorales pour l'élection des membres de l'Assemblée des Français de l'étranger est fixé conformément au tableau n° 1 annexé au présent décret.

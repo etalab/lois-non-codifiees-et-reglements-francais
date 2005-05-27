@@ -1,6 +1,248 @@
 # Article Annexe
 
-Fixation des chefs-lieux des circonscriptions électorales pour l'élection des membres du Conseil supérieur des Français de l'étranger.
+Tableau n° 1
+
+Fixation des chefs-lieux des circonscriptions électorales pour l'élection des membres de l'Assemblée des Français de l'étranger
+
+(En vigueur pour la série A
+
+à compter du renouvellement de 2009
+
+En vigueur pour la série B
+
+à compter du renouvellement de 2006)
+
+CIRCONSCRIPTIONS ÉLECTORALES
+
+CHEFS-LIEUX de circonscription
+
+Amérique
+
+Canada :
+
+- première circonscription : circonscriptions consulaires de Toronto, Vancouver
+
+Toronto
+
+- seconde circonscription : circonscriptions consulaires de Moncton et Halifax, Montréal, Québec
+
+Montréal
+
+Etats-Unis :
+
+- première circonscription : circonscriptions consulaires d'Atlanta, Boston, Miami, New York, Washington.
+
+Washington
+
+- deuxième circonscription : circonscription consulaire de Chicago
+
+Chicago
+
+- troisième circonscription : circonscriptions consulaires de Houston, La Nouvelle-Orléans
+
+Houston
+
+- quatrième circonscription : circonscriptions consulaires de Los Angeles, San Francisco
+
+San Francisco
+
+Brésil, Guyana, Suriname
+
+Brasilia
+
+Argentine, Chili, Paraguay, Uruguay
+
+Buenos Aires
+
+Bolivie, Colombie, Equateur, Pérou, Venezuela
+
+Caracas
+
+Belize, Costa Rica, Guatemala, Honduras, Mexique, Nicaragua, Panama, Salvador
+
+Mexico
+
+Antigua-et-Barbuda, Bahamas, Barbade, Cuba, République dominicaine, Dominique, Grenade, Haïti, Jamaïque, Saint-Christophe-et-Niévès, Sainte-Lucie, Saint-Vincent-et-lesGrenadines, Trinité-et-Tobago
+
+Port-au-Prince
+
+Europe
+
+Allemagne :
+
+- première circonscription : circonscriptions consulaires de Berlin, Bonn, Düsseldorf, Francfort, Hambourg
+
+Berlin
+
+- seconde circonscription : circonscriptions consulaires de Munich, Sarrebruck, Stuttgart
+
+Munich
+
+Andorre
+
+Andorre
+
+Belgique
+
+Bruxelles
+
+Luxembourg
+
+Luxembourg
+
+Pays-Bas
+
+Amsterdam
+
+Liechtenstein, Suisse
+
+Genève
+
+Royaume-Uni
+
+Londres
+
+Irlande
+
+Dublin
+
+Danemark, Estonie, Finlande, Islande, Lettonie, Lituanie, Norvège, Suède
+
+Stockholm
+
+Portugal
+
+Lisbonne
+
+Espagne
+
+Madrid
+
+Italie, Malte, Saint-Marin, Saint-Siège
+
+Rome
+
+Monaco
+
+Monaco
+
+Chypre, Grèce, Turquie
+
+Athènes
+
+Albanie, Autriche, Bosnie-Herzégovine, Bulgarie, Croatie, Hongrie, ancienne République yougoslave de Macédoine, Pologne, Roumanie, Serbie-et-Monténégro, Slovaquie, Slovénie, République tchèque
+
+Vienne
+
+Arménie, Azerbaïdjan, Biélorussie, Géorgie, Kazakhstan, Kirghizstan, Moldavie, Ouzbékistan, Russie, Tadjikistan, Turkménistan, Ukraine
+
+Moscou
+
+Asie et Levant
+
+Israël
+
+Tel-Aviv
+
+Arabie saoudite, Bahreïn, Emirats arabes unis, Koweït, Oman, Qatar, Yémen
+
+Abou-Dhabi
+
+Irak, Jordanie, Liban, Syrie
+
+Beyrouth
+
+Circonscription consulaire de Pondichéry
+
+Pondichéry
+
+Afghanistan, Bangladesh, Inde (sauf circonscription consulaire de Pondichéry), Iran, Maldives, Népal, Pakistan, Sri Lanka
+
+New Delhi
+
+Chine, Corée du Sud, Japon, Mongolie
+
+Tokyo
+
+Birmanie, Brunei, Cambodge, Indonésie, Laos, Malaisie, Palaos, Philippines, Singapour, Thaïlande, Timor oriental, Viêt-Nam
+
+Bangkok
+
+Australie, Fidji, Kiribati, Marshall, Micronésie, Nauru, Nouvelle-Zélande, Papouasie-Nouvelle-Guinée, Salomon, Samoa, Tonga,
+
+Tuvalu, Vanuatu
+
+Sydney
+
+Afrique
+
+Algérie
+
+Alger
+
+Maroc
+
+Rabat
+
+Libye, Tunisie
+
+Tunis
+
+Afrique du Sud, Botswana, Lesotho, Malawi, Mozambique, Namibie, Swaziland, Zambie, Zimbabwe
+
+Johannesburg
+
+Comores, Madagascar, Maurice, Seychelles
+
+Tananarive
+
+Egypte, Soudan
+
+Le Caire
+
+Djibouti, Erythrée, Ethiopie, Somalie
+
+Djibouti
+
+Burundi, Kenya, Ouganda, Rwanda, Tanzanie
+
+Nairobi
+
+Cameroun, République centrafricaine, Tchad
+
+Yaoundé
+
+Cap-Vert, Gambie, Guinée, Guinée-Bissau, Sénégal, Sierra Leone
+
+Dakar
+
+Mauritanie
+
+Nouakchott
+
+Burkina, Mali, Niger
+
+Bamako
+
+Côte d'Ivoire, Liberia
+
+Abidjan
+
+Bénin, Ghana, Nigeria, Togo
+
+Lomé
+
+Gabon, Guinée équatoriale, Sao Tomé-et-Principe
+
+Libreville
+
+Angola, Congo, République démocratique du Congo
+
+Brazzaville
+
+Tableau n° 2
+
+Fixation des chefs-lieux des circonscriptions électorales pour l'élection des membres de l'Assemblée des Français de l'étranger
 
 I - CIRCONSCRIPTIONS ELECTORALES : Amérique ;
 
@@ -250,7 +492,9 @@ Tokyo ;
 
 I - CIRCONSCRIPTIONS ELECTORALES : Asie et Levant ;
 
-Bruneï, Cambodge, Indonésie, Laos, Malaisie, Philippines, Singapour, Thaïlande, Vietnam    II - CHEFS-LIEUX de circonscription :
+Bruneï, Cambodge, Indonésie, Laos, Malaisie, Philippines, Singapour, Thaïlande, Vietnam
+
+II - CHEFS-LIEUX de circonscription :
 
 Bangkok ;
 
@@ -324,7 +568,9 @@ Kenya, Angola, Lesotho, Botswana, Malawi, Mozambique, Namibie, Ouganda, Swazilan
 
 II - CHEFS-LIEUX de circonscription :
 
-Nairobi    I - CIRCONSCRIPTIONS ELECTORALES : Afrique ;
+Nairobi
+
+I - CIRCONSCRIPTIONS ELECTORALES : Afrique ;
 
 Cameroun, Tchad, République centrafricaine, Guinée équatoriale ;
 
