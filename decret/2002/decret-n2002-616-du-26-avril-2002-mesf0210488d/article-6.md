@@ -1,6 +1,6 @@
 # Article 6
 
-L'enregistrement sur demande d'un diplôme, d'un titre ou d'un certificat de qualification dans le répertoire national est valable cinq ans à compter de la publication de l'arrêté du Premier ministre.
+L'enregistrement sur demande d'un diplôme, d'un titre ou d'un certificat de qualification dans le répertoire national est valable cinq ans à compter de la publication de l'arrêté du ministre chargé de la formation professionnelle.
 
 S'il apparaît que les conditions qui motivaient l'enregistrement, notamment la possibilité d'acquérir le diplôme ou le titre par validation des acquis, ont cessé d'être remplies, il peut y être mis fin sans attendre l'échéance normale.
 

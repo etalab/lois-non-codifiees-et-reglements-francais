@@ -1015,3 +1015,11 @@ Code des marchés publics
 Exclusion temporaire ou définitive d'une entreprise des marchés passés par l'Etat et ses établissements publics autres que ceux ayant un caractère industriel et commercial, en cas d'inexactitude des renseignements prévus aux 2°, 3°, 4°, 5° et 6° de l'article 50 du code des marchés publics.
 
 Art. 42.
+
+Décret n° 2002-616 du 26 avril 2002 pris en application des articles L. 335-6 du code de l'éducation et L. 900-1 du code du travail, relatif au répertoire national des certifications professionnelles.
+
+1
+
+Enregistrement dans le répertoire national des certifications professionnelles des diplômes et titres à finalité professionnelles et des certificats de qualification professionnelle et modification, renouvellement ou suppression de l'enregistrement
+
+Article 5
