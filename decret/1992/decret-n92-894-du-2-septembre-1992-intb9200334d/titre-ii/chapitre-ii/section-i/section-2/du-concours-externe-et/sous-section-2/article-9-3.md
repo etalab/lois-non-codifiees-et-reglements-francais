@@ -1,21 +1,19 @@
 # Article 9-3
 
-Les épreuves d'admissibilité et d'admission du concours interne pour le recrutement des professeurs territoriaux d'enseignement artistique, spécialité Danse, portant sur l'une des disciplines énumérées à l'article 9-1 sont les suivantes :
+Les épreuves d'admissibilité et d'admission du concours interne pour le recrutement des professeurs territoriaux d'enseignement artistique, spécialité danse, portant sur l'une des disciplines énumérées à l'article 9-1 sont les suivantes :
 
-" 1.1. Epreuves d'admissibilité
+1.1. Phase d'admissibilité
 
-" a) Commentaire d'écoute :
+Examen du dossier individuel du candidat, constitué au moment de son inscription. Ce dossier comprend obligatoirement la justification que l'intéressé a obtenu l'un des diplômes exigés pour l'accès au concours externe d'assistant spécialisé d'enseignement artistique, son curriculum vitae et une présentation écrite, de vingt pages dactylographiées au maximum, de son expérience antérieure et de son projet pédagogique (coefficient 2).
 
-" Le candidat répond par écrit à un questionnaire portant sur un extrait d'une oeuvre musicale diffusé trois fois au cours de l'épreuve (durée de l'épreuve, hors temps d'écoute : quinze minutes ; coefficient 1) ;
+1.2. Phase d'admission
 
-" b) Composition et démonstration d'un court enchaînement chorégraphique dans la discipline choisie du niveau du dernier cycle du cursus A, effectuée après trois écoutes d'une musique enregistrée tirée au sort par le candidat. Celui-ci indique ensuite les exercices techniques par lesquels il prépare ses élèves à l'exécution de son enchaînement chorégraphique, en explicitant ses choix (durée de l'épreuve, hors temps d'écoute : vingt minutes ; coefficient 2).
+a) Cours dans la discipline choisie dispensé à un groupe de six élèves au moins, du niveau du deuxième ou troisième cycle du cursus A. Ce cours est accompagné par un musicien mis à la disposition du candidat (durée : quarante minutes ; coefficient 4).
 
-" 1.2. Epreuves d'admission
+b) Entretien au cours duquel le candidat présente un exposé sur la manière dont il envisage l'exercice des fonctions auxquelles il postule et pendant lequel est appréciée son aptitude à les exercer (durée : vingt minutes ; coefficient 2).
 
-" a) Cours dans la discipline choisie dispensé à un groupe de six élèves au moins, du niveau du deuxième ou troisième cycle du cursus A. Ce cours est accompagné par un musicien mis à la disposition du candidat (durée : quarante minutes ; coefficient 4) ;
+Toute note inférieure à 5 sur 20 à l'épreuve d'admissibilité entraîne l'élimination du candidat de la liste d'admissibilité.
 
-" b) Entretien avec le jury portant sur le cours donné et sur les connaissances générales du candidat (durée : vingt minutes ; coefficient 2) ;
+c) Epreuve orale facultative de langue portant sur la traduction, sans dictionnaire, d'un texte anglais, allemand, italien, espagnol, grec, portugais, néerlandais, russe ou arabe moderne, selon le choix du candidat exprimé lors de l'inscription au concours, et suivie d'une conversation (préparation : quinze minutes ; durée de l'épreuve : quinze minutes ; coefficient 1).
 
-" c) Epreuve orale facultative de langue portant sur la traduction, sans dictionnaire, d'un texte anglais, allemand, italien, espagnol, grec, portugais, néerlandais, russe ou arabe moderne, selon le choix du candidat exprimé lors de l'inscription au concours et suivi d'une conversation (préparation : quinze minutes ; durée de l'épreuve : quinze minutes ; coefficient 1).
-
-" Seuls les points excédant la note 10 à cette épreuve facultative s'ajoutent au total des notes obtenues aux épreuves obligatoires et sont valables uniquement à l'admission. "
+Seuls les points excédant la note 10 à cette épreuve facultative s'ajoutent au total des notes obtenues aux épreuves obligatoires et sont valables uniquement à l'admission.
