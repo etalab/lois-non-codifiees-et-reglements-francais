@@ -1023,7 +1023,6 @@
 - [Arrêté du 29 janvier 1993 (DEFD9301137A)](arrete-du-29-janvier-1993-defd9301137a)
 - [Arrêté du 29 janvier 1993 (ECOT9340127A)](arrete-du-29-janvier-1993-ecot9340127a)
 - [Arrêté du 29 janvier 1993 (MENF9300096A)](arrete-du-29-janvier-1993-menf9300096a)
-- [Arrêté du 29 janvier 1993 (SPSI9300305A)](arrete-du-29-janvier-1993-spsi9300305a)
 - [Arrêté du 29 janvier 1993 (TEFT9300127A)](arrete-du-29-janvier-1993-teft9300127a)
 - [Arrêté du 29 juillet 1993 (ECOC9300132A)](arrete-du-29-juillet-1993-ecoc9300132a)
 - [Arrêté du 29 juillet 1993 (INTB9300440A)](arrete-du-29-juillet-1993-intb9300440a)
