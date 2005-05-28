@@ -453,6 +453,7 @@
 - [Décret n°2005-404 du 27 avril 2005 (DOMA0500007D)](decret-n2005-404-du-27-avril-2005-doma0500007d)
 - [Décret n°2005-58 du 27 janvier 2005 (SOCF0510004D)](decret-n2005-58-du-27-janvier-2005-socf0510004d)
 - [Décret n°2005-60 du 27 janvier 2005 (PMEA0420058D)](decret-n2005-60-du-27-janvier-2005-pmea0420058d)
+- [Décret n°96-1028 du 27 novembre 1996 (DOMX9600104D)](decret-n96-1028-du-27-novembre-1996-domx9600104d)
 - [Décret n°2005-559 du 27 mai 2005 (SANG0521175D)](decret-n2005-559-du-27-mai-2005-sang0521175d)
 - [Décret n°2005-594 du 27 mai 2005 (DEFP0500597D)](decret-n2005-594-du-27-mai-2005-defp0500597d)
 - [Décret n°2005-609 du 27 mai 2005 (EQUA0500735D)](decret-n2005-609-du-27-mai-2005-equa0500735d)
