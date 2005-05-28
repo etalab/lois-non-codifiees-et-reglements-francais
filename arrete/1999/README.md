@@ -296,7 +296,6 @@
 - [Arrêté du 13 juillet 1999 (AGRS9901516A)](arrete-du-13-juillet-1999-agrs9901516a)
 - [Arrêté du 13 juillet 1999 (ECOI9900382A)](arrete-du-13-juillet-1999-ecoi9900382a)
 - [Arrêté du 13 juillet 1999 (ECOT9914030A)](arrete-du-13-juillet-1999-ecot9914030a)
-- [Arrêté du 13 juillet 1999 (EQUH9901060A)](arrete-du-13-juillet-1999-equh9901060a)
 - [Arrêté du 13 juillet 1999 (MENA9901452A)](arrete-du-13-juillet-1999-mena9901452a)
 - [Arrêté du 13 novembre 1998 (EQUS9801518A)](arrete-du-13-novembre-1998-equs9801518a)
 - [Arrêté du 13 octobre 1999 (FPPA9900149A)](arrete-du-13-octobre-1999-fppa9900149a)
