@@ -1,6 +1,6 @@
 # Article 42
 
-Le droit successoral des héritiers légitimes ou naturels ou des successeurs irréguliers, ainsi que l'institution des légataires universels ou des légataires à titre universel, ne peuvent être prouvés qu'au moyen d'un certificat d'héritier.
+Pour l'inscription d'un droit au livre foncier, le droit successoral des héritiers légitimes ou naturels ou des successeurs irréguliers, ainsi que l'institution des légataires universels ou des légataires à titre universel, ne peuvent être prouvés qu'au moyen d'un certificat d'héritier.
 
 L'institution des légataires à titre particulier peut être prouvée par la production du testament ou d'un certificat d'héritier qui mentionne le legs à titre particulier.
 
@@ -8,6 +8,4 @@ Dans les cas où la loi prescrit, soit l'envoi en possession de succession par l
 
 Les dispositions ci-dessus s'appliquent également aux donations faites pour le cas de survie, par un contrat de mariage ou entre époux.
 
-Il s'agit d'une succession non ouverte dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle, le certificat d'héritier peut être remplacé par un acte de notoriété ou un intitulé d'inventaire.
-
-Pour une succession ouverte avant le 1er janvier 1925, la preuve du droit successoral, ainsi que celle du pouvoir d'un exécuteur testamentaire de disposer d'un objet de la masse, se font conformément aux dispositions du droit antérieur. Il en est de même pour la preuve de l'existence d'une communauté de biens continuée.
+La preuve de la qualité d'héritier est rapportée conformément aux articles 730 et suivants du code civil pour les successions ouvertes en dehors des départements du Haut-Rhin, du Bas-Rhin et de la Moselle.

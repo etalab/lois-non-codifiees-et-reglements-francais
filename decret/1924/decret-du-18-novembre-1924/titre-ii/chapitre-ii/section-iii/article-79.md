@@ -1,7 +1,7 @@
 # Article 79
 
-Sont tenus dans chaque bureau foncier des répertoires alphabétiques contenant le nom des personnes portées au livre foncier comme propriétaires ou titulaires de droits assimilés aux immeubles, et des registres parcellaires contenant les parcelles de chaque circonscription foncière.
+Les données du livre foncier et du registre des dépôts sont recueillies, enregistrées et modifiées au moyen d'un traitement automatisé de données à caractère personnel.
 
-Le registre parcellaire est fourni par l'administration du cadastre.
+Les catégories de données traitées sont celles se rapportant aux personnes titulaires de droits, aux parcelles, à la copropriété, à la propriété sur une partie d'un ensemble immobilier hors du régime de la copropriété, aux droits susceptibles d'inscription et aux requêtes en inscription. Au sein de chacune de ces catégories, les différentes rubriques de données traitées sont définies par arrêté ministériel.
 
-Sur la couverture de chaque volume, une étiquette porte la désignation "répertoire alphabétique" ou "registre parcellaire" et le nom de la circonscription. S'il y a plusieurs volumes, l'étiquette mentionne, en outre, les lettres ou les sections cadastrales contenues dans le volume.
+Les données mentionnées au présent article peuvent être consultées dans les conditions de l'article 50 et font l'objet du droit de rectification prévu à l'article 40 de la loi n° 78-17 du 6 janvier 1978.

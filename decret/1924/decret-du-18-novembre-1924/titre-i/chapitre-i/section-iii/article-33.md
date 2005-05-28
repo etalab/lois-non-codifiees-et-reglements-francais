@@ -1,10 +1,18 @@
 # Article 33
 
-Si plusieurs inscriptions à effectuer dans la même section sont requises simultanément, il est fait mention au livre foncier qu'elles ont le même rang. Si toutefois des inscriptions simultanément requises ont, de par la loi, un rang différent, elles sont effectuées dans l'ordre de leur rang.
+La date de l'inscription au livre foncier est celle du dépôt de la requête en application de l'article 45 de la loi du 1er juin 1924.
 
-Les inscriptions effectuées dans des sections différentes avec indication du même jour ont rang égal.
+Cette date est mentionnée au livre foncier.
 
-Mais si des inscriptions opérées dans des sections différentes avec indication du même jour ont été requises successivement, on mentionnera au livre foncier que l'inscription requise postérieurement est primée par celle requise antérieurement. Il en est de même si plusieurs inscriptions, requises simultanément et effectuées le même jour dans des sections différentes, ont, de par la loi, un rang différent.
+Lorsque des requêtes relatives au même immeuble sont déposées simultanément, elles ont rang égal.
+
+Si toutefois des inscriptions simultanément requises ont, de par la loi, un rang différent, elles sont effectuées dans l'ordre de leur rang.
+
+Les inscriptions effectuées dans des sections différentes avec indication du même jour du dépôt ont rang égal si elles ont été requises simultanément.
+
+Les inscriptions effectuées dans des sections différentes avec indication du même jour du dépôt mais requises successivement, mentionnent que l'inscription requise postérieurement est primée par celle requise antérieurement.
+
+Si plusieurs inscriptions, requises simultanément dans des sections différentes, ont, de par la loi, un rang différent, les inscriptions doivent le mentionner.
 
 Ces dispositions ne s'appliquent pas lorsque deux inscriptions en présence n'ont pas de rang l'une par rapport à l'autre ou lorsqu'un autre rang a été fixé par les requérants.
 

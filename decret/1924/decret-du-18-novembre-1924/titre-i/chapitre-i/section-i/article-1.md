@@ -1,3 +1,3 @@
 # Article 1
 
-Le tribunal cantonal remplit l'office de bureau foncier, chargé de la tenue du livre foncier, pour toutes les circonscriptions de son ressort.
+Le tribunal d'instance remplit l'office de bureau foncier dans les conditions des articles R. 911-5 et suivants du code de l'organisation judiciaire.

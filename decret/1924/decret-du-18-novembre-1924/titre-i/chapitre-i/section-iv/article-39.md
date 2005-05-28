@@ -1,3 +1,3 @@
 # Article 39
 
-Toutes les fois que le présent décret prescrit une légalisation authentique, celle-ci est effectuée par un notaire. La légalisation ne doit avoir lieu que si la signature a été donnée ou reconnue en présence du notaire.
+L'acte de légalisation authentique de signature est reçu par un notaire. La légalisation ne doit avoir lieu que si la signature a été donnée ou reconnue en présence du notaire ou d'un clerc habilité.
