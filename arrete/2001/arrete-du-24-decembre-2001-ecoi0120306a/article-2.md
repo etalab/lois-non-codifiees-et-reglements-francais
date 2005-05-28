@@ -8,7 +8,7 @@ Le codage des services, des données associées et des informations relatives à
 
 - EN 300 468, selon les modalités définies dans les documents ETR 211 et ETR 162 ;
 
-- ISO/IEC 13818-1, selon les modalités définies dans le document ETR 154 ;
+- ISO/IEC 13818-1, selon les modalités définies dans le document TS 101 154 ;
 
 - EN 301 192, selon les modalités définies dans le document TR 101 202.
 

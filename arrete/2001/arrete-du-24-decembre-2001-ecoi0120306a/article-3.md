@@ -1,8 +1,12 @@
 # Article 3
 
-Le codage de la vidéo et d'au moins une composante sonore, s'il en existe, d'un service de télévision est conforme aux spécifications des normes ISO/IEC 13818-1, ISO/IEC 13818-2, ISO/IEC 13818-3, selon les modalités définies dans le document ETR 154.
+Le codage de la vidéo et d'au moins une composante sonore, s'il en existe, d'un service de télévision dont le financement ne fait pas appel à une rémunération de la part des usagers et qui n'est pas diffusé au format haute définition est conforme aux spécifications des normes ISO/IEC 13818-1, ISO/IEC 13818-2, ISO/IEC 13818-3, selon les modalités définies dans le document TS 101 154.
 
-Les formats de diffusion de la composante vidéo des services de télévision sont le 16:9 ou le 4:3.
+Le codage de la vidéo des services de télévision dont le financement fait appel à une rémunération de la part des usagers ou diffusés au format haute définition est conforme aux spécifications des normes ISO/IEC 13818-1 et ISO/IEC 14496-10, selon les modalités définies dans le document TS 101 154.
+
+Par dérogation à l'alinéa précédent, le codage de la vidéo et d'au moins une composante sonore, s'il en existe, des programmes non embrouillés (plages en clair) d'un service de télévision dont le financement fait appel à la rémunération de la part des usagers est conforme aux spécifications des normes ISO/IEC 13818-1, ISO/IEC 13818-2 et ISO/IEC 13818-3, selon les modalités définies dans le document TS 101 154, lorsque ce service est la reprise intégrale et simultanée d'un service autorisé en application de l'article 30 de la loi du 30 septembre 1986 relative à la liberté de communication ou qu'il est tenu, aux termes de la convention conclue en application de l'article 28 de cette même loi, de diffuser des plages en clair.
+
+Les formats de diffusion de la composante vidéo des services de télévision qui ne sont pas diffusés en haute définition sont le 16:9 ou le 4:3.
 
 Le codage des sous-titres est conforme à la norme ETS 300 743.
 
