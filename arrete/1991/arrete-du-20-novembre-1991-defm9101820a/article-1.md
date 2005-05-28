@@ -286,7 +286,17 @@ a) Blindages en plaques ou en forme ;
 
 b) Equipements de protection individuels et collectifs contre les effets des armes des catégories A et B ;
 
-c) Casques équipés de moyens de communication, de systèmes de visée ou de moyens de protection contre l'éblouissement par armes laser ou armes nucléaires ;
+c) Casques conçus pour des besoins militaires, équipés d'au moins un des éléments suivants :
+
+- moyens de protection physiologique ;
+
+- moyens de communication spécifiquement conçus pour des besoins militaires, autres que microphones et écouteurs ;
+
+- systèmes de visée ;
+
+- moyens de protection contre l'éblouissement par armes laser ou armes nucléaires ;
+
+- moyens de pilotage ou de navigation intégrés ;
 
 d) Combinaisons pressurisées et équipements de protection contre les accélérations spécialement conçus ou modifiés pour un usage militaire ;
 

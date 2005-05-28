@@ -1,0 +1,9 @@
+# Article 1
+
+L'épreuve mentionnée à l'article 2 du décret du 30 décembre 2004 susvisé consiste en un entretien dont le contenu et la durée sont les suivants :
+
+1° Pour l'intégration dans les grades d'ingénieurs territoriaux et d'attachés territoriaux, l'épreuve d'entretien vise à permettre d'apprécier l'expérience professionnelle du candidat, ses connaissances dans son domaine d'activité, sa motivation à exercer les missions incombant au cadre d'emplois concerné, notamment en matière d'encadrement (durée de l'entretien : vingt minutes).
+
+2° Pour l'intégration dans les grades de techniciens supérieurs territoriaux, d'assistants socio-éducatifs territoriaux, d'éducateurs territoriaux de jeunes enfants, d'assistants territoriaux de conservation de 2e classe, de moniteurs-éducateurs territoriaux, d'animateurs territoriaux, d'éducateurs territoriaux des activités physiques et sportives de 2e classe, de rédacteurs territoriaux, de contrôleurs territoriaux de travaux, l'épreuve d'entretien vise à permettre d'apprécier l'expérience professionnelle du candidat, ses connaissances dans son domaine d'activité, sa motivation à exercer les missions incombant au cadre d'emplois concerné (durée de l'entretien : vingt minutes).
+
+3° Pour l'intégration dans les grades d'adjoints administratifs territoriaux, d'agents techniques territoriaux, d'agents territoriaux qualifiés du patrimoine de 2e classe, d'aides-opérateurs territoriaux des activités physiques et sportives, d'auxiliaires territoriales de soins, d'auxiliaires de puériculture territoriales, de gardiens territoriaux d'immeuble, d'agents territoriaux spécialisés de 2e classe des écoles maternelles, l'épreuve d'entretien vise à permettre d'apprécier l'expérience professionnelle du candidat, ses connaissances dans son domaine d'activité, sa motivation à exercer les missions incombant au cadre d'emplois concerné (durée de l'entretien : quinze minutes).

@@ -1,0 +1,3 @@
+# Article 3
+
+Sous réserve de l'application des dispositions des directives 89/48/CE et 92/51/CE susvisées, les titres de formation professionnelle maritime délivrés par ou sous l'autorité d'un Etat membre de l'Union européenne permettant l'exercice de fonctions principales au niveau opérationnel ou de direction, ou de fonction d'opérateur des radiocommunications, font l'objet d'une reconnaissance. Ces titres, pour permettre à leurs titulaires d'exercer leurs fonctions à bord des navires dans les conditions prévues par la réglementation en vigueur, doivent faire l'objet de la délivrance d'un visa portant mention de la ou des capacités reconnues, selon la procédure fixée aux articles 5 à 9 du présent arrêté.

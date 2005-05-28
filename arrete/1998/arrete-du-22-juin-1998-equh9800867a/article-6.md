@@ -22,4 +22,4 @@ Si la langue de travail n'est pas le français, tous les plans et listes devant 
 
 4. A bord des pétroliers, des navires-citernes pour produits chimiques et des navires-citernes pour gaz liquéfié battant pavillon français, le capitaine, les officiers et les membres de l'équipage doivent être capables de communiquer entre eux dans une ou plusieurs langues de travail communes.
 
-5. Des moyens de communication adéquats doivent exister entre le navire et les autorités à terre, soit dans une langue commune, soit dans la langue de ces autorités.
+5. Des moyens de communication adéquats doivent exister entre le navire et les autorités à terre. A bord des navires auxquels s'applique le chapitre Ier de la convention SOLAS susvisée, l'anglais doit être employé comme langue de travail à la passerelle dans les communications de sécurité de passerelle à passerelle et entre la passerelle et la terre, ainsi que dans les communications échangées à bord entre le pilote et le personnel de quart à la passerelle, à moins que les interlocuteurs directs aient en commun une langue autre que l'anglais.

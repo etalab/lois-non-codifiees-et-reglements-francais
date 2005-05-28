@@ -6,6 +6,8 @@ I. - Connaissance de l'exploitation et de son environnement.
 
 2° Disposer d'un plan de l'exploitation à une échelle permettant de localiser les bâtiments, les parcelles et les différents éléments de la géographie et de l'environnement, en particulier les zones sensibles pour la qualité de l'eau. Pour les exploitations où des effluents d'élevages ou de boues résiduaires urbaines ou industrielles sont épandus, les surfaces non épandables figureront sur ce plan.
 
+2 bis° Connaître les mesures de gestion minimale des terres applicables à l'exploitation. Identifier les parcelles non mises en production sur le plan de l'exploitation et enregistrer les interventions effectuées sur ces parcelles.
+
 3° Le chef d'exploitation doit suivre une formation relative à l'agriculture et à l'environnement au moins tous les cinq ans et la proposer à tous ses salariés permanents et saisonniers habituels. Si le chef d'exploitation n'a pas suivi une telle formation dans les cinq ans précédant la qualification, il doit le faire dans les deux ans qui suivent la qualification.
 
 4° S'il exerce une activité d'élevage, suivre, dans les deux ans qui suivent la qualification, une formation spécifique sur le bien-être des animaux destinée à actualiser les connaissances de l'éleveur sur l'évolution de la réglementation et des techniques.
@@ -27,6 +29,16 @@ III. - Santé et sécurité au travail.
 IV. - Gestion des sols.
 
 10° Mettre en oeuvre un programme d'analyses permettant d'assurer un suivi physico-chimique (granulométrie, carbone organique, pH, capacité d'échanges cationiques) des sols des parcelles labourables de l'exploitation. Ce programme comporte des analyses de terre par grand type de sol et système de culture présent sur l'exploitation. Il doit être prêt lors de la qualification et les analyses réalisées, dans l'année qui suit l'attribution de la qualification, et renouvelées, pour les paramètres chimiques, au moins tous les six ans. Les analyses doivent être réalisées par un laboratoire agréé par le ministère de l'agriculture.
+
+10 bis° Mettre en place des dispositifs enherbés d'au moins 5 mètres de large en bordure des cours d'eau traversant ou bordant la surface agricole de l'exploitation. Identifier ces dispositifs sur le plan de l'exploitation. Ne pas fertiliser ni utiliser de produits phytosanitaires pour entretenir ces dispositifs.
+
+Il pourra être dérogé à cette règle pour les cultures pérennes et les cultures sous serres et abris, à condition de mettre en oeuvre, dans ce cas, des mesures compensatoires appropriées définies par les commissions régionales de l'agriculture raisonnée.
+
+Les exploitants répondant au statut de petit producteur devront satisfaire cette exigence à compter du 1er janvier 2008.
+
+10 ter° Ne pas brûler les résidus de pailles ainsi que les résidus de cultures d'oléagineux, de protéagineux et de céréales, à l'exception de ceux des cultures de riz. En cas de non-respect, disposer des arrêtés de dérogation autorisant le brûlage pour des motifs agronomiques ou sanitaires.
+
+10 quater° Assurer une diversité des cultures sur la superficie agricole utile à l'exploitation, dans les conditions définies par l'article R. 615-12 du code rural.
 
 V. - Fertilisation minérale et organique.
 
@@ -70,6 +82,8 @@ Pour l'azote, le plan doit être réalisé conformément aux prescriptions du pr
 
 23° A compter de la qualification, participer, lorsqu'elles existent, aux actions collectives locales, de type Ferti-mieux, ayant pour objectif de réduire les impacts de la fertilisation sur l'environnement.
 
+23 bis° Dans les zones d'actions complémentaires (ZAC), disposer d'une couverture, automnale et hivernale des sols.
+
 d) Epandage d'effluents d'élevage hors de l'exploitation productrice.
 
 24° Pour les effluents de l'élevage épandus dans d'autres exploitations, disposer d'un contrat spécifiant l'origine, la nature des effluents et les terrains concernés par l'épandage.
@@ -104,7 +118,7 @@ b) Stockage des produits phytosanitaires.
 
 34° Faire un inventaire annuel des stocks de produits phytosanitaires à compter de l'année qui suit la qualification.
 
-35° Disposer d'un local (ou d'une armoire si l'exploitation n'emploie pas de salarié) clairement identifié, spécifiquement réservé à cet usage, aéré ou ventilé, et fermé à clef, destiné au stockage des produits phytosanitaires.
+35° Disposer d'un local ou d'une armoire clairement identifié, spécifiquement réservé à cet usage, aéré ou ventilé, fermé à clef et destiné au stockage des produits phytosanitaires (1).
 
 36° Afficher les consignes de sécurité à l'entrée du local de stockage des produits phytosanitaires.
 
@@ -290,4 +304,12 @@ XIV. - Paysage et biodiversité.
 
 97° Mettre en oeuvre les mesures d'intégration paysagère accompagnant les permis de construire des nouveaux bâtiments.
 
-98° Si l'exploitation comporte des parcelles incluses dans un site Natura 2000, mettre en oeuvre les mesures prévues par le document d'objectifs dans l'année qui suit la qualification et compléter les enregistrements en conséquence.
+98° Si l'exploitation comporte des parcelles incluses dans un site Natura 2000 désigné par arrêté ministériel ou formellement transmis par les autorités françaises à la Commission européenne :
+
+- connaître les zones de l'exploitation incluses dans le site Natura 2000 ;
+
+- mettre en place, dans ces zones, les mesures conservatoires prévues par le document d'objectif (DOCOB) lorsqu'il existe ;
+
+- en l'absence de DOCOB, identifier dans ces zones les milieux naturels à préserver et les maintenir en place. En cas de modification, disposer des autorisations nécessaires.
+
+L'exigence ne s'applique plus à un site ou partie de site qui aurait été proposé et finalement non désigné.

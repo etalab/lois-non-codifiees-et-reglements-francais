@@ -1,0 +1,3 @@
+# Article 11
+
+Lorsque le pays tiers ayant délivré le titre ne figure pas sur la liste de pays tiers reconnus établie par la Commission européenne et publiée au Journal officiel des Communautés européennes, la délivrance du visa de reconnaissance par les services des affaires maritimes est subordonnée à la décision par la Commission européenne de reconnaissance de ce pays tiers, après saisine par les autorités françaises d'une demande motivée de reconnaissance de ce pays tiers. Si aucune décision n'est prise par la Commission européenne dans un délai de trois mois, le ministre chargé de la mer peut décider de reconnaître ce pays tiers jusqu'à ce qu'une décision de la Commission européenne soit intervenue.

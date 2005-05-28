@@ -3,3 +3,4 @@
 - [Article 1](article-1.md)
 - [Chapitre Ier : Dispositions permanentes.](chapitre-ier)
 - [Chapitre II : Dispositions transitoires et diverses.](chapitre-ii)
+- [Article 10](article-10.md)

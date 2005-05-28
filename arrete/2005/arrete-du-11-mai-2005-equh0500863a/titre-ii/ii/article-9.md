@@ -1,0 +1,3 @@
+# Article 9
+
+Les détenteurs d'un titre approprié et valide permettant l'exercice de fonctions mentionnées à l'article 5 du présent arrêté, à l'exception des fonctions d'officier radioélectronicien ou d'opérateur des radiocommunications, peuvent être autorisés à servir à bord d'un navire pendant une durée maximale de trois mois à compter de la date de demande de reconnaissance attestée par le récépissé, à condition que le pays ayant délivré lesdits titres ait été reconnu par le comité de la sécurité maritime de l'Organisation maritime internationale comme ayant donné plein et entier effet à la convention internationale de 1978 susvisée. Le détenteur doit être en mesure de présenter à tout moment le récépissé aux services des affaires maritimes.
