@@ -245,3 +245,19 @@ Industrie (X 2)
 Economie.
 
 Affaires étrangères.
+
+NOM DE LA SOCIETE
+
+France 4
+
+NOMBRE de représentants de l'Etat au conseil d'administration ou de surveillance
+
+3
+
+REPARTITION PAR MINISTERE
+
+Premier ministre.
+
+Communication.
+
+Economie.
