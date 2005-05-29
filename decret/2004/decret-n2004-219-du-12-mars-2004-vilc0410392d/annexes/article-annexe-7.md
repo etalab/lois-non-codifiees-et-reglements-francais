@@ -8,9 +8,9 @@ Limite avec la commune de Franois en limite nord-ouest des parcelles section LZ 
 
 Limites nord-ouest et sud-est de la parcelle LZ 11 jusqu'au chemin rural.
 
-Chemin rural jusqu'à la rue du Professeur-Paul-Milleret.
+Chemin rural jusqu'à la limite commune des sections LY et MN.
 
-Rue du Professeur-Paul-Milleret, y compris les parcelles section MN n°s 99, 102 et 69, jusqu'à la rue de Dole (RN 73).
+Limite commune des sections LY et MN jusqu'à la rue de Dole (RN 73), ainsi que les parcelles section MN n°s 99, 101, 103 et 69.
 
 Rue de Dole (RN 73) jusqu'à la rue Albert-Einstein.
 

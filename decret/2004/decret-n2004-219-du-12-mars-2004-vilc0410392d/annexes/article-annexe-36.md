@@ -6,7 +6,7 @@ Quartiers de La Reynerie, Bellefontaine, Faourette,
 
 Bagatelle, Bordelongue
 
-Rue Henri-Dunant jusqu'à la rue Henri-Desbals.
+Rue Henri-Dunant, des deux côtés de la rue.
 
 Rue Henri-Desbals jusqu'à la rue Jean-Mermoz.
 
@@ -36,9 +36,9 @@ Limites nord et est de la parcelle 5540 AP 32 jusqu'à la rue Decour.
 
 Rue Decour jusqu'à la rue Cesbron.
 
-Rue Cesbron jusqu'à la limite est de la parcelle 55540 AS 175.
+Rue Gilbert-Cesbron jusqu'à la limite sud de la parcelle 55540 AS 175.
 
-Limite est de la parcelle 55540 AS 175 exclue, puis limite ouest de la parcelle 55540 AS 127 exclue jusqu'à la bordure de l'autoroute A 64.
+Limite sud de la parcelle 55540 AS 175 exclue puis limite ouest de la parcelle 55540 AS 127 exclue jusqu'à la bordure de l'autoroute A 64.
 
 Bordure de l'autoroute A 64, puis bretelle de sortie de l'A 64 jusqu'à l'avenue du Général-Eisenhower.
 
@@ -54,11 +54,11 @@ Chemin de l'Estang jusqu'à l'avenue du Général-Eisenhower.
 
 Avenue du Général-Eisenhower jusqu'à l'avenue Paul-Ourliac.
 
-Avenue Paul-Ourliac jusqu'au rond-point Maurice-Cahuzac.
+Avenue Paul-Ourliac jusqu'à l'allée de Bellefontaine.
 
-Rond-point Maurice-Cahuzac, parcelles 55541 K 443, 55541 K 417 et 55540 BK 118 jusqu'au chemin de l'Estang.
+Allée de Bellefontaine jusqu'au chemin de Lestang.
 
-Chemin de l'Estang jusqu'au rond-point Eugène-Claudius-Petit.
+Chemin de l'Estang jusqu'au rond-point Eugène-Claudius-Petit, y compris les parcelles 55542 BO 28, 55542 BO 97, 55542 BO 98.
 
 Rond-point Eugène-Claudius-Petit jusqu'à la rue Maillol.
 
@@ -90,4 +90,4 @@ Rue Vestrepain jusqu'à la rue du Gard.
 
 Rue du Gard jusqu'à la rue Vestrepain.
 
-Rue Vestrepain jusqu'à la rue Henri-Dunant.
+Rue Vestrepain, des deux côtés de la rue, jusqu'à la rue Henri-Dunant.

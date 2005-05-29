@@ -110,7 +110,7 @@ Rue Paul-Valéry, du numéro 2 au numéro 8 jusqu'à l'intersection avec la rue 
 
 Ruisseau des Prés-Pachon, limite sud-est de la parcelle AX 299 jusqu'à l'intersection avec la rue de Gognies-Chaussée.
 
-Limite sud des parcelles section R n°s 806, 503, 511, 515, 792 et 787.
+Limite sud des parcelles section R n°s 806, 503, 511, 515, 792 et 788.
 
 Route de Feignies (CD 105) jusqu'à la limite nord-ouest de la parcelle AV 446.
 

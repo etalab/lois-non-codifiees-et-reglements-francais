@@ -2,7 +2,7 @@
 
 MELUN (DÉPARTEMENT DE SEINE-ET-MARNE)
 
-Quartier Nord Maincy
+Quartier Nord
 
 Limite ouest des parcelles AB 25 et AB 24 jusqu'à l'avenue du Général-Patton.
 
@@ -10,7 +10,7 @@ Avenue du Général-Patton jusqu'à la limite ouest de la parcelle AB 186.
 
 Limite ouest des parcelles section AB n°s 186, 172 et 171.
 
-Limite nord des parcelles section AB n°s 171, 168 et 134 jusqu'à la RN 105.
+Limite nord des parcelles section AB n°s 171, 135 et 134 jusqu'à la RN 105.
 
 RN 105 jusqu'au chemin rural de Marché-Marais à Montaigu.
 
@@ -22,7 +22,7 @@ Boulevard de Maincy, y compris les parcelles AO 16 et AO 110, jusqu'à la rue Pa
 
 Rue Paul-Valéry, y compris la parcelle AO 171, jusqu'à la rue Jean-Moulin.
 
-Rue Jean-Moulin des deux côtés de la voie incluant le numéro 22 jusqu'à la rue d'Estienne-d'Orves.
+Rue Jean-Moulin des deux côtés de la voie jusqu'à la rue d'Estiennes-d'Orves.
 
 Rue d'Estienne-d'Orves jusqu'au boulevard du Docteur-Roux.
 
@@ -34,7 +34,7 @@ Rue des Trois-Moulins jusqu'à la rue Nicolas-Tappereau.
 
 Rue Nicolas-Tappereau des deux côtés de la voie jusqu'à l'avenue des Carmes.
 
-Avenue des Carmes des deux côtés de la voie jusqu'à la rue des Mézereaux, y compris les parcelles section AL n°s 166, 212, 213, 214 et 215 et la parcelle AZ 106.
+Avenue des Carmes des deux côtés de la voie jusqu'à la rue des Mézereaux, y compris les parcelles section AL n°s 166, 212, 213, 214 et 215 et la parcelle AL 106.
 
 Rue Albert-Schweitzer des deux côtés de la voie jusqu'à la rue Lavoisier.
 

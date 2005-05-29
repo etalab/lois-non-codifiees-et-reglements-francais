@@ -10,7 +10,7 @@ Champratel, La Gauthière, La Plaine
 
 Boulevard Etienne-Clémentel de la rue de Chancrole jusqu'à la rue Robert-Lemoy, y compris les parcelles AM 271 et AN 490.
 
-Rue Robert-Lemoy, y compris les parcelles section F n°s 1094, 1075, 1033 (commune de Cébazat), jusqu'au carrefour avec la rue du Château-des-Vergnes à l'exclusion de la parcelle F 111.
+Rue Robert-Lemoy, y compris les parcelles section F n°s 1094, 1075, 1033 (commune de Cébazat), jusqu'au carrefour avec la rue du Château-des-Vergnes, à l'exclusion de la parcelle AS 111.
 
 Rue Robert-Lemoy jusqu'à la limite ouest des parcelles section AT n°s 220, 245, 1, limites nord et est de la parcelle AT 1, limite est de la parcelle AT 245, limite nord des parcelles section AT 247 et AT 248, limites nord et est de la parcelle AT 258 jusqu'à la rue de la Charme.
 

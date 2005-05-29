@@ -20,7 +20,7 @@ Bruay-sur-l'Escaut
 
 Rue d'Arnonville des deux côtés de la voie jusqu'à l'impasse d'Arnonville.
 
-Limite ouest des parcelles section AB n°s 5, 69 et 170.
+Limite ouest des parcelles AC 5, AC 69 et AB 170.
 
 Limites nord et est de la parcelle AB 170 jusqu'à la rue Berthelot.
 
@@ -38,7 +38,7 @@ Anzin
 
 Rue Léon-Gambetta des deux côtés de la voie jusqu'à la limite nord de la parcelle AC 173.
 
-Limite nord-est des parcelles AC 173 et AC 183 jusqu'au canal de l'Escaut.
+Limite nord-est des parcelles AC 173 et AC 183 jusqu'au canal de l'Escaut ainsi que les parcelles AP 595 et AO 356.
 
 Rue du Halage le long du canal de l'Escaut jusqu'à la voie ferrée (Valenciennes).
 
@@ -56,7 +56,7 @@ Avenue de Dunkerque limitée à la voie à l'exclusion des parcelles riveraines 
 
 Avenue du Maréchal-Juin limitée à la voie à l'exclusion des parcelles riveraines jusqu'au chemin des Alliés.
 
-Chemin des Alliés côté impair à l'exclusion de la parcelle section OC n° 130 et incluant les parcelles sections AZ n°s 104 et 105, les parcelles section OC n°s 189, 190, 49, 5, 6, 7, 8, 96, 97, 119, 111, 131 et 132.
+Chemin des Alliés côté impair à l'exclusion de la parcelle OC 130 et incluant les parcelles AZ 104 et AZ 105, les parcelles section OC n°s 189, 190, 49, 5, 6, 7, 8, 96, 97, 119, 11, 131 et 132.
 
 Avenue du Maréchal-Juin et avenue de Dunkerque à l'exclusion des parcelles riveraines jusqu'à l'avenue de Saint-Amand.
 
@@ -80,7 +80,7 @@ Rue d'Anzin jusqu'à la place Pierre-Taffin.
 
 Place Pierre-Taffin, y compris les n°s 2 à 34, jusqu'à l'avenue Désandrouins.
 
-Avenue Désandrouins incluant les parcelles section AH n°s 505, 276, 277, 278, 279, 280, 282, 283, 284, 285, 286, 945, 946, 947, 948, 1402, 1403, 309, 310, 311, 312, 1284, 315, 386, 507, 566, 567, 388, 389, 1406, 1405, 1063 et 314, ainsi que les n°s 132 à 202 de l'avenue.
+Avenue Désandrouins incluant les parcelles section AH n°s 505, 276, 277, 278, 279, 280, 282, 283, 284, 285, 286, 945, 946, 947, 948, 1402, 1403, 309, 310, 311, 312, 1284, 315, 386, 507, 566, 567, 388, 389, 1406, 1405, 1363 et 314, ainsi que les n°s 132 à 202 de la même avenue.
 
 Avenue de Croy jusqu'à la place de l'Eglise.
 
@@ -152,7 +152,7 @@ Limite nord des parcelles section AM n°s 482, 1, 727, 728, 729, 730, 731, 738, 
 
 Beuvrages
 
-Limite nord de la parcelle AE 747 puis limite est de la parcelle AM 748, limite nord des parcelles AE 603 et AE 604 et limite est de la parcelle AE 73.
+Limites nord et est de la parcelle AE 747 puis limite est de la parcelle AE 748, limite nord des parcelles AE 603 et AE 604 et limite est de la parcelle AE 73.
 
 Rue Gustave-Michel jusqu'à la rue du 8-Mai-1945.
 

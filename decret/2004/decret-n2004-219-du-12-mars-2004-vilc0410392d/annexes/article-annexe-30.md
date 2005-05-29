@@ -1,6 +1,6 @@
 # Article Annexe 30
 
-SAINT-POL-SUR-MER (DÉPARTEMENT DU PAS-DE-CALAIS)
+SAINT-POL-SUR-MER (DÉPARTEMENT DU NORD)
 
 Quartiers Ouest, cité Liberté
 
@@ -8,7 +8,7 @@ Limite nord de la commune jusqu'à l'avenue Maurice-Berteaux.
 
 Avenue Maurice-Berteaux du numéro 255 au numéro 229 inclus.
 
-Rue Antoine-Watteau des deux côtés de la voie (limite sud des parcelles section AD n°s 19, 210, 281 et 315) jusqu'au numéro 27 inclus.
+Rue Antoine-Watteau des deux côtés de la voie ainsi que les parcelles section AD n°s 254, 255, 19, 249, 210, 281, 375.
 
 Limites sud, sud-ouest et ouest de la parcelle AD 374, la parcelle AD 382 incluse.
 

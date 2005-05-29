@@ -46,7 +46,7 @@ Limite nord de la parcelle n° 67, puis limite sud de la parcelle n° 104 jusqu'
 
 Route de Thionville jusqu'à la limite sud de la parcelle n° 87 (section 5).
 
-Limite sud des parcelles n°s 87, 85, 83 et 82, limite est des parcelles n°s 82, 38, 39 et 40, limite sud ou ouest de la parcelle n° 40, limite ouest des parcelles n°s 39, 38 et 82 jusqu'au ruisseau de Woippy.
+Limite sud des parcelles n°s 87, 85 et 83, limite est des parcelles n°s 89, 82, 38, 39 et 40, limites sud et ouest de la parcelle n° 40, limite ouest des parcelles n°s 39, 38 et 82 jusqu'au ruisseau de Woippy.
 
 Ruisseau de Woippy, puis traversée de la route de Thionville jusqu'à la rue Jean-Pierre-Pêcheur.
 

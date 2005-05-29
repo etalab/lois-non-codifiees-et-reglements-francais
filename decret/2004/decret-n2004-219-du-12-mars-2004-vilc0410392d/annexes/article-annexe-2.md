@@ -4,6 +4,8 @@ ANGERS (DÉPARTEMENT DE MAINE-ET-LOIRE)
 
 Quartier Belle-Beille
 
+Angers : Belle-Beille
+
 Limites nord des parcelles section HT n°s 17, 16, 11 et 10.
 
 Limites est de la parcelle HT 10.
@@ -16,9 +18,7 @@ Rue Saint-Jacques jusqu'à la rue Montesquieu.
 
 Rue Montesquieu, des deux côtés de la voie, jusqu'à la rue des Basses-Fouassières.
 
-Rue des Basses-Fouassières, parcelles section EY n°s 461, 464, 465 et 466 incluses.
-
-Limites sud et ouest de la parcelle EY 470.
+Rue des Basses-Fouassières, parcelles section EY n°s 472, 470, 461, 464, 465 et 466 incluses.
 
 Rue Montesquieu, des deux côtés de la voie, jusqu'à la rue de Pruniers.
 
@@ -34,7 +34,7 @@ Boulevard Victor-Beaussier, y compris les parcelles IR 39 et IS 16, jusqu'à l'a
 
 Limites sud et ouest de la parcelle HT 17.
 
-Beaucouzé secteur du Grand-Périgné.
+Beaucouzé.
 
 Avenue du Général-Patton, de la limite est de la parcelle AK 26 incluse jusqu'à l'avenue du Grand-Périgné.
 
@@ -42,4 +42,4 @@ Avenue du Grand-Périgné jusqu'à l'avenue du Bois-l'Abbé.
 
 Avenue du Bois-l'Abbé jusqu'à la rue Georges-Morel.
 
-Rue Georges-Morel jusqu'à la limite est de la parcelle AK 45 incluse.
+Rue Georges-Morel, parcelle AK 45 incluse et jusqu'à la limite est de la parcelle AK 46 incluse.

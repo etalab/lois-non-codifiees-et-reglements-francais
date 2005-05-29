@@ -22,7 +22,7 @@ Boulevard Paul-Doumer des deux côtés de la voie jusqu'au carrefour de l'Ecusso
 
 Carrefour de l'Ecusson côté rue Jean-Monnet jusqu'à l'avenue Salvador-Allende.
 
-Avenue Salvador-Allende, côté intérieur, jusqu'à l'ancienne voie Rochy-Condé n° 38.
+Avenue Salvador-Allende, côté intérieur, jusqu'à l'ancienne voie de Rochy-Condé.
 
 Ancienne voie Rochy-Condé jusqu'à l'avenue Jean-Monnet.
 
@@ -50,4 +50,4 @@ Rue de Maupas des deux côtés de la voie jusqu'au numéro 9 et au boulevard Geo
 
 Fiche des Entrepôts
 
-Avenue du Président-René-Coty, les parcelles section BV n°s 155, 97 (en partie conformément au plan joint), 122 et 125 incluses.
+Avenue du Président-René-Coty, les parcelles section BV n°s 155, 125, 182, 183, 185 et 186.

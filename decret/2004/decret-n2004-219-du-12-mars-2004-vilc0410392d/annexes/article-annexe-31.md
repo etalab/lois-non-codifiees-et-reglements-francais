@@ -16,11 +16,9 @@ Rue Gustave-Flaubert du numéro 2 au numéro 16 jusqu'à la rue Saint-Exupéry (
 
 Rue Saint-Exupéry, limite est de la parcelle AM 30 jusqu'à la limite nord-est de la parcelle AE 131.
 
-Promenade Gorki de la limite nord de la parcelle AE 131 à la limite sud de la parcelle AE 116, les parcelles AE 116 et AE 115 incluses.
+Promenade Gorki, de la rue Saint-Exupéry à la rue Paul-Bert, les parcelles section AE n°s 116, 115, 106 et 105 incluses.
 
-Limite est des parcelles AE 106, AE 105, AE 104 jusqu'à la limite nord-est de la parcelle AE 130 et la limite nord de la parcelle AE 101 (intersection avec la rue Bouquelot, numéro 84).
-
-Rue Paul-Bert de la limite sud-ouest de la parcelle AE 157 à la limite nord-est de la parcelle AE 193.
+Rue Paul-Bert, jusqu'à la rue du Berry.
 
 Rue de Berry de la limite nord-ouest de la parcelle AE 193 à la limite nord-est de la parcelle AE 206, jusqu'au croisement avec la rue Lakanal.
 

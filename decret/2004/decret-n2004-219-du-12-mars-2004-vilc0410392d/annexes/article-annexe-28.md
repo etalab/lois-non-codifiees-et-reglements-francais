@@ -50,6 +50,6 @@ Limite nord-ouest de la parcelle DM 0001 exclue jusqu'à la rue Jean-Texcier.
 
 Rue Jean-Texcier jusqu'à l'intersection de la rue Alphonse-Daudet avec l'avenue de la Grand'Mare.
 
-Les parcelles section AE n°s 0483, 0508, 0509, 0510, 0850, 0202, 0811, 0488, 0150, 0149, 0148, section AD n°s 0301, 0039, 0299, 0056, 0394 situées sur la commune de Bihorel.
+Les parcelles section AE n°s 0394, 0483, 0508, 0509, 0510, 0850, 0202, 0811, 0488, 0150, 0149 et 0148, section AD n°s 0301, 0039, 0299 et 0056 ainsi que la parcelle AC 0394, situées sur la commune de Bihorel.
 
 Rue Alphonse-Daudet jusqu'à la limite nord de la commune.

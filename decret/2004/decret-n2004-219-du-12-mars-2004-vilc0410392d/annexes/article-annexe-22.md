@@ -34,9 +34,9 @@ Limite sud des parcelles A 82 et A 83 (quartier Saint-Barthélémy), puis limite
 
 Avenue Raimu du numéro 226 inclus jusqu'à l'avenue Salvador-Allende.
 
-Avenue Salvador-Allende, y compris les parcelles B 55 et B 120, jusqu'à la voie ferrée de Marseille à Paris.
+Avenue Salvador-Allende, y compris les parcelles B 55 et B 120, jusqu'à la voie ferrée de Marseille à Aix-en-Provence.
 
-Voie ferrée de Marseille à Paris jusqu'au boulevard Louis-Villecroze.
+Voie ferrée de Marseille à Aix-en-Provence jusqu'au boulevard Louis-Villecroze.
 
 Boulevard Louis-Villecroze jusqu'au numéro 105.
 
@@ -74,7 +74,7 @@ Boulevard du Capitaine-Gèze limité à la chaussée, à l'exclusion des parcell
 
 Avenue du Cap-Pinède de la rue de Lyon jusqu'au chemin de la Madrague-Ville.
 
-Chemin de la Madrague-Ville jusqu'à la traverse Mardirossian, y compris les parcelles section B n°s 63, 95 et 96 (quartier d'Arenc) et les parcelles L 1 et L 90 (quartier de la Cabucelle).
+Chemin de la Madrague-Ville jusqu'à la traverse Mardirossian, y compris les parcelles section B n°s 63, 64, 95 et 96 (quartier d'Arenc) et les parcelles section L n°s 1, 88 et 90 (quartier de La Cabucelle).
 
 Traverse Mardirossian jusqu'à la rue de Lyon.
 
@@ -88,7 +88,7 @@ Avenue des Arnavaux jusqu'au boulevard Louis-Bovet.
 
 Boulevard Louis-Bovet jusqu'au boulevard Philippe-Mabilly.
 
-Boulevard Philippe-Mabilly jusqu'à la rue Edouard-Calvet, y compris les parcelles section C n°s 96, 97, 111, 202 et 203 (quartier des Arnavaux).
+Boulevard Philippe-Mabilly des deux côtés de la voie jusqu'à la rue Edouard-Calvet, y compris les parcelles section C n°s 96, 97, 111, 202 et 203 (quartier des Arnavauds).
 
 Rue Edouard-Calvet jusqu'à la voie ferrée de Paris à Vintimille.
 
@@ -98,7 +98,7 @@ Chemin de la Station-du-Canet au chemin de Sainte-Marthe.
 
 Chemin de Sainte-Marthe.
 
-Limite est des parcelles section K n°s 28, 15, 51, 14, 10, 37, 40, 6, 4 (quartier Sainte-Marthe) jusqu'au boulevard Basile-Barrelier.
+Limite est des parcelles section K n°s 71, 70 et 69, des n°s 15, 51, 14, des n°s 72 et 75 et des n°s 37, 40, 6 et 4 (quartier Sainte-Marthe) jusqu'au boulevard Basile-Barrelier.
 
 Boulevard Basile-Barrelier jusqu'au chemin de Saint-Joseph à Sainte-Marthe.
 

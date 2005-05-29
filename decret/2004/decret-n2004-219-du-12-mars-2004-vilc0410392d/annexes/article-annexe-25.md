@@ -88,7 +88,7 @@ Nancy
 
 Limite est des parcelles section AB n°s 626 et 628 incluses.
 
-Avenue Raymond-Pinchard jusqu'à la limite de la parcelle AB 336.
+Avenue Raymond-Pinchard jusqu'à la limite de la parcelle AB 336, y compris une emprise foncière d'un seul tenant de 270 mètres de longueur côté nord de l'avenue Raymond-Pinchard et de 90 mètres de profondeur le long de la rue Jean-Monnet incluant pour partie les parcelles AB n°s 629, 627 et 482 et la parcelle AB 330 en totalité.
 
 Limite est des parcelles section AB n°s 181 et 484 exclues, puis limite ouest de la parcelle AB 424 incluse.
 

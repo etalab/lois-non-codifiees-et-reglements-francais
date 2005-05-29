@@ -80,7 +80,7 @@ Limites est et sud de la parcelle AI 162 incluant les parcelles AI 50 et AI 51.
 
 Limite est des parcelles AI 210 et AI 209.
 
-Limite sud des parcelles AL 208 et AL 328.
+Limite sud des parcelles AI 208 et AL 328.
 
 Limite ouest des parcelles section AI n°s 165, 203 et 192.
 
@@ -146,4 +146,4 @@ Quartier des Chauffours
 
 Courrières
 
-Parcelles section AT n°s 72, 73, 327, 271, 275 et 280.
+Parcelles section AT n°s 12, 13, 327, 271, 275 et 280.
