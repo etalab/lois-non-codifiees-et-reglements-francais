@@ -928,7 +928,6 @@
 - [Arrêté du 26 février 2003 (MENA0202934A)](arrete-du-26-fevrier-2003-mena0202934a)
 - [Arrêté du 26 février 2003 (SOCT0310288A)](arrete-du-26-fevrier-2003-soct0310288a)
 - [Arrêté du 26 janvier 2004 (ECOP0300985A)](arrete-du-26-janvier-2004-ecop0300985a)
-- [Arrêté du 26 juin 1979](arrete-du-26-juin-1979)
 - [Arrêté du 26 juin 2003 (DEVE0320188A)](arrete-du-26-juin-2003-deve0320188a)
 - [Arrêté du 26 juin 2003 (ECOS0350027A)](arrete-du-26-juin-2003-ecos0350027a)
 - [Arrêté du 26 juin 2003 (EQUA0301001A)](arrete-du-26-juin-2003-equa0301001a)
