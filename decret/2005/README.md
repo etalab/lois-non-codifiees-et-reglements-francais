@@ -314,6 +314,7 @@
 - [Décret n°2005-393 du 20 avril 2005 (ECOT0520009D)](decret-n2005-393-du-20-avril-2005-ecot0520009d)
 - [Décret n°2005-40 du 20 janvier 2005 (SOCT0510001D)](decret-n2005-40-du-20-janvier-2005-soct0510001d)
 - [Décret n°2005-831 du 20 juillet 2005 (MENF0501216D)](decret-n2005-831-du-20-juillet-2005-menf0501216d)
+- [Décret n°95-71 du 20 janvier 1995 (MICT9500006D)](decret-n95-71-du-20-janvier-1995-mict9500006d)
 - [Décret du 20 mai 2005 (AGRP0500838D)](decret-du-20-mai-2005-agrp0500838d)
 - [Décret n°2005-524 du 20 mai 2005 (AGRP0500736D)](decret-n2005-524-du-20-mai-2005-agrp0500736d)
 - [Décret n°2005-563 du 20 mai 2005 (JUSC0520091D)](decret-n2005-563-du-20-mai-2005-jusc0520091d)
