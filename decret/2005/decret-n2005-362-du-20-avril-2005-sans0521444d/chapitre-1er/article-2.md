@@ -1,13 +1,11 @@
 # Article 2
 
-Les membres de l'instance nationale sont élus au scrutin de liste, à la représentation proportionnelle, sans panachage, ni vote préférentiel, suivant la règle de la plus forte moyenne.
+L'élection des membres de l'instance nationale a lieu au scrutin de liste au sein des conseils d'administration de chaque caisse nationale dont chaque membre ayant voix délibérative est électeur et éligible.
 
-Au cas où il ne reste qu'un seul siège à attribuer, si deux listes ont la même moyenne, le siège revient à la liste qui a obtenu le plus grand nombre de suffrages. Si les deux listes en cause ont recueilli le même nombre de suffrages, le siège est donné au plus âgé des deux candidats susceptibles d'être proclamé élu.
+Les listes des candidats ne peuvent comprendre un nombre de candidats titulaires supérieur au nombre de postes de titulaires à pourvoir. Le nombre de suppléants ne saurait excéder le tiers des titulaires arrondi à l'unité supérieure.
 
-L'élection a lieu à une date fixée par arrêté du ministre chargé de la sécurité sociale.
+Toute liste de candidats doit comporter au moins un titulaire et un suppléant.
 
-Les membres ayant voix délibérative de chaque conseil d'administration sont convoqués par les présidents des caisses nationales intéressées, huit jours francs au moins avant la date de l'élection. La convocation doit mentionner l'objet de la réunion et comporter les listes de candidature ainsi que des formulaires de procuration de vote.
+Les listes doivent être signées par tous les candidats qui y sont inscrits et déposées auprès de la commission des opérations électorales de chaque caisse nationale. Ce dépôt est recevable jusqu'au quinzième jour précédant celui de l'élection à dix-neuf heures. Si le quinzième jour tombe un jour non ouvrable, le dépôt est recevable jusqu'au premier jour ouvrable inclus qui suit.
 
-L'élection a lieu au scrutin secret lors d'une séance présidée par le membre le plus âgé.
-
-Chacun des membres des conseils d'administration présents dispose d'une voix et ne peut voter que pour une seule liste. Il dépose son bulletin de vote placé sous enveloppe dans une urne prévue à cet effet. Chaque électeur ne peut avoir plus d'une procuration de vote.
+Nul ne peut être candidat sur plus d'une liste.

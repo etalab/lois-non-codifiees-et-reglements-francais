@@ -4,13 +4,13 @@ I. - L'instance nationale provisoire mentionnée à l'article 1er de l'ordonnanc
 
 1° Au titre du groupe professionnel des artisans :
 
-a) Douze administrateurs cotisants et trois administrateurs retraités élus par le conseil d'administration de la Caisse nationale de l'organisation autonome de l'assurance vieillesse des travailleurs non salariés des professions artisanales ;
+a) Quinze administrateurs cotisants et retraités élus par le conseil d'administration de la Caisse nationale de l'organisation autonome de l'assurance vieillesse des travailleurs non salariés des professions artisanales ;
 
 b) Dix administrateurs élus par le conseil d'administration de la Caisse nationale d'assurance maladie et maternité des travailleurs non salariés des professions non agricoles.
 
 2° Au titre du groupe professionnel des industriels et commerçants :
 
-a) Douze administrateurs cotisants et trois administrateurs retraités élus par le conseil d'administration de la Caisse nationale de l'organisation autonome de l'assurance vieillesse des professions industrielles et commerciales ;
+a) Quinze administrateurs cotisants et retraités élus par le conseil d'administration de la Caisse nationale de l'organisation autonome de l'assurance vieillesse des professions industrielles et commerciales ;
 
 b) Dix administrateurs élus par le conseil d'administration de la Caisse nationale d'assurance maladie et maternité des travailleurs non salariés des professions non agricoles.
 
