@@ -1056,7 +1056,6 @@
 - [Décret n°95-825 du 30 juin 1995 (EQUA9501020D)](decret-n95-825-du-30-juin-1995-equa9501020d)
 - [Décret n°95-826 du 30 juin 1995 (TEFT9500712D)](decret-n95-826-du-30-juin-1995-teft9500712d)
 - [Décret n°95-93 du 30 janvier 1995 (BUDX9500009D)](decret-n95-93-du-30-janvier-1995-budx9500009d)
-- [Décret n°95-94 du 30 janvier 1995 (COPB9400035D)](decret-n95-94-du-30-janvier-1995-copb9400035d)
 - [Décret n°95-970 du 30 août 1995 (MENU9501729D)](decret-n95-970-du-30-aout-1995-menu9501729d)
 - [Décret n°95-971 du 30 août 1995 (MENU9501730D)](decret-n95-971-du-30-aout-1995-menu9501730d)
 - [Décret n°96-686 du 30 juillet 1996 (AGRA9600907D)](decret-n96-686-du-30-juillet-1996-agra9600907d)
