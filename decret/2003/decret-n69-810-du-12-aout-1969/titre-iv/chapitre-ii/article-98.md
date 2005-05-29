@@ -1,9 +1,13 @@
 # Article 98
 
-La chambre entend l'auteur de la plainte, si ce dernier en fait la demande. Elle peut entendre tous autres témoins et faire procéder à toutes investigations qu'elle estime utiles, au besoin par la désignation d'un ou plusieurs experts dont la rémunération est, sous réserve des dispositions de l'article 116 ci-après, à la charge de la compagnie régionale.
+Les débats devant la chambre sont publics. Toutefois, la chambre peut décider que les débats ne seront pas publics si le commissaire aux comptes poursuivi en fait expressément la demande ou s'il doit résulter de leur publicité une atteinte à un secret protégé par la loi.
+
+La chambre entend l'auteur de la plainte, si ce dernier en fait la demande. Elle peut entendre tous autres témoins et faire procéder à toutes investigations qu'elle estime utiles, au besoin par la désignation d'un ou plusieurs experts dont la rémunération est à la charge de la compagnie régionale.
 
 Le magistrat chargé du ministère public dépose des conclusions écrites et peut présenter des observations orales ; le commissaire aux comptes peut présenter des observations écrites et orales et se faire assister d'un commissaire aux comptes et d'un avocat.
 
 Dans tous les cas, le procureur général près la cour d'appel et, dans le cas prévu à l'article 94, l'auteur de la citation peut adresser un mémoire à la chambre régionale de discipline.
 
-La chambre régionale entend le syndic, s'il le demande.
+La chambre régionale entend le syndic, à la demande de ce dernier, du commissaire aux comptes poursuivi ou d'office.
+
+Il est dressé procès-verbal des débats par le greffier en chef de la cour d'appel ou son délégué.

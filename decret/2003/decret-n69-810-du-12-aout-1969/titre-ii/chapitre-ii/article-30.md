@@ -2,12 +2,18 @@
 
 Le conseil régional est composé de :
 
-1° Six membres si la compagnie régionale comprend de quinze à quatre-vingt-dix-neuf membres [*nombre*] personnes physiques ;
+1° Six membres si la compagnie régionale comprend moins de cent membres personnes physiques ;
 
-2° Dix membres si la compagnie régionale comprend de cent à neuf cent quarante-neuf membres personnes physiques ;
+2° Douze membres si la compagnie régionale comprend de cent à neuf deux cent quarante-neuf membres personnes physiques ;
 
-3° Douze membres si la compagnie régionale comprend de cent-ciquante à deux-cent-quarante-neuf membres personnes physiques ;    4° Quatorze membres si la compagnie régionale comprend de deux-cent-cinquante à neuf-cent-quatre-vingt-dix-neuf membres personnes physiques ;
+3° Quatorze membres si la compagnie régionale comprend de deux cent cinquante à quatre cent quatre-vingt-dix-neuf membres personnes physiques ;
 
-5° Vingt membres si la compagnie générale comprend de mille à mille neuf-cent-quatre-vingt-dix-neuf membres personnes physiques ;    6° Vingt-six membres si la compagnie régionale comprend au moins deux mille membres personnes physiques.
+4° Seize membres si la compagnie régionale comprend de cinq cents à sept cent quarante-neuf membres personnes physiques ;
 
-Aussi longtemps que dans le ressort d'une cour d'appel il y a moins de quinze commissaires aux comptes inscrits [*nombre*], la compagnie régionale et le conseil régional ne sont pas constitués. Les commissaires aux comptes intéressés sont rattachés à une autre compagnie régionale désignée par arrêté du garde des sceaux, ministre de la justice.
+5° Dix-huit membres si la compagnie générale comprend de sept cent cinquante à neuf cent quatre-vingt-dix-neuf membres personnes physiques ;
+
+6° Vingt-deux membres si la compagnie régionale comprend de mille à mille neuf cent quatre-vingt-dix-neuf membres personnes physiques.
+
+7° Vingt-six membres si la compagnie régionale comprend au moins deux mille membres personnes physiques.
+
+Cette composition est définie sur la base de l'effectif de la liste arrêté au 1er janvier de l'année des élections.

@@ -8,7 +8,7 @@
 - [Titre IV : Discipline](titre-iv)
 - [Titre V : Programme de travail et rémunération.](titre-v)
 - [Titre VI : Sociétés civiles professionnelles de commissaires aux comptes.](titre-vi)
-- [Titre VI bis : Sociétés de commissaires aux comptes autres que les sociétés civiles professionnelles.](titre-vi-bis)
+- [Titre VI bis : Sociétés de commissaires aux comptes autres que les sociétés civiles professionnelles et les sociétés en participation](titre-vi-bis)
 - [Titre VI ter : Dispositions communes à toutes les sociétés de commissaires aux comptes](titre-vi-ter)
 - [Titre VI quater : Dispositions relatives aux sociétés en participation.](titre-vi-quater)
 - [Titre VII : Dispositions transitoires et diverses.](titre-vii)

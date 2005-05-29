@@ -1,7 +1,7 @@
 # Article 34
 
-Le conseil régional élit au scrutin secret, pour deux ans, parmi ses membres un président, un ou deux présidents, un secrétaire et un trésorier qui constituent le bureau de la chambre.
+Le conseil régional élit parmi ses membres au scrutin secret, pour un mandat de deux ans, un président, un ou deux vice-présidents, un secrétaire et un trésorier, qui constituent le bureau. Le nombre de membres du bureau peut être porté à sept ou neuf si l'effectif de la compagnie régionale est supérieur respectivement à cinq cents ou à mille.
 
-Le nombre des membres du bureau peut être porté à sept ou neuf membres si l'effectif de la compagnie régionale est supérieur à 500 ou à 1 000.
+Le mandat du président est renouvelable une fois.
 
 Les désignations ont lieu à la majorité absolue des voix au premier tour, à la majorité relative au second.

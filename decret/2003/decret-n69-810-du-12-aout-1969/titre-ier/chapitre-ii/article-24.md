@@ -1,5 +1,5 @@
 # Article 24
 
-Le secrétaire de la commission nationale notifie la décision de cette commission par simple lettre, au président de la commission régionale et, le cas échéant, au procureur général qui a formé le recours.
+Le secrétaire du haut conseil notifie la décision de ce dernier, par lettre simple au président de la commission régionale. Il la notifie contre émargement ou récépissé au garde des sceaux, ministre de la justice, et le cas échéant au procureur général qui a formé le recours.
 
-Il notifie la décision à toute autre personne directement intéressée, par lettre recommandée avec demande d'avis de réception [*conditions de forme - information*].
+Il notifie la décision à toute autre personne directement intéressée, par lettre recommandée avec demande d'avis de réception.

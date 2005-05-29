@@ -1,7 +1,7 @@
 # Article 54
 
-Le conseil national élit en son sein, selon les modalités fixées à l'article 34 et pour deux ans [*durée du mandat*], un président, trois vice-présidents et six membres qui constituent le bureau.
+Le conseil national élit en son sein, selon les modalités fixées à l'article 34 et pour deux ans, un président, trois vice-présidents et six membres qui constituent le bureau. Quatre au moins des personnes siégeant au bureau doivent exercer effectivement des fonctions de contrôle légal des comptes auprès de personnes faisant appel public à l'épargne dont les titres sont admis aux négociations sur un marché réglementé.
+
+Sont seules éligibles en qualité de président les personnes qui ont exercé les fonctions de délégué au conseil national pendant une durée d'au moins deux ans ou qui ont été membres du bureau national pendant une durée d'au moins un an.
 
 Si un siège du bureau du conseil national devient vacant, il est pourvu par le conseil dans le délai de trois mois. Les fonctions du nouveau membre expirent à la même date que celles de son prédécesseur.
-
-En outre, le conseil national désigne dans les mêmes conditions [*de majorité et de scrutin*] et pour la même durée que celles prévues à l'alinéa 1er, quatre de ses membres, deux titulaires et deux suppléants pour siéger à la commission nationale d'inscription.

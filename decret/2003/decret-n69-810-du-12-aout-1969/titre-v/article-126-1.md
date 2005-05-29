@@ -4,4 +4,4 @@ Le Haut Conseil du commissariat aux comptes statuant sur l'appel des décisions 
 
 Le secrétaire du Haut Conseil du commissariat aux comptes cite les parties à comparaître devant le Haut Conseil quinze jours au moins avant l'audience, par lettre recommandée avec demande d'avis de réception.
 
-Le secrétaire notifie la décision aux intéressés par lettre recommandée avec demande d'avis de réception.
+Le secrétaire notifie la décision aux intéressés par lettre recommandée avec demande d'avis de réception et contre émargement ou récépissé au magistrat chargé du ministère public.

@@ -1,7 +1,9 @@
 # Article 31
 
-Les membres du conseil régional sont élus au scrutin secret, pour une durée [*mandat*] de quatre ans.
+Les membres du conseil régional sont élus au scrutin secret, pour une durée de quatre ans.
 
-Le conseil régional est renouvelé par moitié [*proportion*] tous les deux ans [*durée du mandat*].
+Le conseil régional est renouvelé par moitié tous les deux ans.
 
-Sont électeurs et éligibles [*conditions requises*] les personnes physiques membres de la compagnie régionale, à jour de leurs cotisations professionnelles.
+Sont électeurs les personnes physiques membres de la compagnie régionale, à jour de leurs cotisations professionnelles.
+
+Sont éligibles les électeurs exerçant des fonctions de commissaire aux comptes à la date du scrutin.

@@ -1,5 +1,5 @@
 # Article 129
 
-La société est constituée sous la condition suspensive de son inscription sur la liste [*des commissaires aux comptes*] établie pour le ressort de cour d'appel dans lequel elle a son siège.
+La société est constituée sous la condition suspensive de son inscription sur la liste établie pour le ressort de cour d'appel dans lequel elle a son siège.
 
-Elle jouit de la personnalité morale à compter de cette inscription.
+Elle ne peut s'immatriculer au registre du commerce et des sociétés et exercer la profession de commissaire aux comptes qu'après son inscription sur la liste.

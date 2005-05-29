@@ -10,4 +10,4 @@ Peuvent être apportés en société, en propriété ou en jouissance :
 
 4° Toutes sommes en numéraire ;
 
-5° L'industrie des associés, laquelle en vertu de l'article 10 de la loi du 29 novembre 1966 [*relative aux sociétés civiles professionnelles*] ne concourt pas à la formation du capital mais peut donner lieu à l'attribution de parts d'intérêt.
+5° L'industrie des associés, laquelle en vertu de l'article 10 de la loi du 29 novembre 1966 ne concourt pas à la formation du capital mais peut donner lieu à l'attribution de parts en industrie.

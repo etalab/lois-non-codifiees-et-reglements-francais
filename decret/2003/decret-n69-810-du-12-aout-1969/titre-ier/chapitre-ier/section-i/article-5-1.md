@@ -10,4 +10,4 @@ Lorsque sa formation porte sur des matières substantiellement différentes de c
 
 L'intéressé adresse son dossier au garde des sceaux, ministre de la justice. A la réception du dossier complet de l'intéressé, le garde des sceaux, ministre de la justice, lui délivre un récépissé.
 
-Les candidats admis à se présenter à l'épreuve d'aptitude sont désignés par arrêté du garde des sceaux, ministre de la justice. Sa décision précise les matières sur lesquelles les candidats doivent être interrogés compte tenu de leur formation initiale. Elle doit être motivée et intervenir dans un délai de quatre mois à compter de la délivrance du récépissé.
+Les candidats admis à se présenter à l'épreuve d'aptitude sont désignés par arrêté du garde des sceaux, ministre de la justice, publié au moins sept mois avant la date fixée pour l'examen par arrêté de ce dernier. Sa décision précise les matières sur lesquelles les candidats doivent être interrogés compte tenu de leur formation initiale. Elle doit être motivée et intervenir dans un délai de quatre mois à compter de la délivrance du récépissé.

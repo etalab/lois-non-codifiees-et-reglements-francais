@@ -1,9 +1,11 @@
 # Article 60
 
-Le conseil national établit son budget et en répartit la charge entre les compagnies régionales.
+Sur délégation du conseil national auquel il rend compte semestriellement, le bureau assure l'administration courante de la compagnie nationale.
 
-Il coordonne l'action des conseils régionaux, notamment en ce qui concerne la défense des intérêts moraux et matériels de la profession et la discipline générale des commissaires aux comptes.
+Dans les mêmes conditions :
 
-Il examine les suggestions des conseils régionaux, en leur donnant la suite qu'elles comportent.
+a) Il coordonne l'action des conseils régionaux, notamment en ce qui concerne la défense des intérêts moraux et matériels de la profession et la discipline générale des commissaires aux comptes ;
 
-Il prévient et concilie les différends d'ordre professionnel entre les conseils régionaux ou entre les commissaires n'appartenant pas à une même compagnie régionale.
+b) Il examine les suggestions des conseils régionaux, en leur donnant la suite qu'elles comportent ;
+
+c) Il prévient et concilie les différends d'ordre professionnel entre les conseils régionaux ou entre les commissaires aux comptes n'appartenant pas à une même compagnie régionale.

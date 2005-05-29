@@ -4,4 +4,4 @@ La commission vérifie si le candidat remplit les conditions requises pour être
 
 Elle peut convoquer le candidat et procéder à son audition. Ce dernier peut se faire assister d'un conseil de son choix.
 
-Lorsque, à la date de sa demande d'inscription, le candidat se trouve dans l'un des cas d'incompatibilité prévu à l'article L822-10 du code de commerce, il ne pourra, si son inscription est décidée, exercer sa profession qu'après avoir justifié de la fin de l'incompatibilité auprès de la compagnie régionale, qui en informera la commission régionale d'inscription ; à défaut, dans le délai de six mois, il est réputé démissionnaire d'office et la commission régionale saisie par le président de la compagnie régionale supprime son nom de la liste.
+Lorsque, à la date de sa demande d'inscription, le candidat se trouve dans l'un des cas d'incompatibilité prévus à l'article L. 822-10 du code de commerce, son inscription peut être décidée sous condition suspensive de régularisation de sa situation dans un délai de six mois. L'intéressé justifie auprès de la commission régionale d'inscription de la fin de cette incompatibilité.

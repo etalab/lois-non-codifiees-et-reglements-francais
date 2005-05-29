@@ -1,6 +1,6 @@
 # Article 48
 
-Le vote a lieu, à la date fixée par le conseil avant la date d'expiration des fonctions des membres sortants [*élection des membres d'un conseil régional*]. Le vote par correspondance est admis.
+Le vote a lieu, à la date fixée par le conseil avant la date d'expiration des fonctions des membres sortants. Les votes par correspondance et par voie électronique sont admis.
 
 Sont proclamés élus au premier tour de scrutin, dans l'ordre déterminé par le nombre de suffrages obtenu et dans la limite du nombre de sièges à pourvoir, les candidats ayant obtenu la majorité absolue des suffrages.
 
