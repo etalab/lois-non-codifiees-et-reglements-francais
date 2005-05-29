@@ -2,22 +2,32 @@
 
 Les volumes horaires des matières enseignées durant le cycle long sont les suivants :
 
-- culture générale : 296 heures ;
+Culture générale : 150 heures ;
 
-- note de synthèse : 41 heures ;
+Note de synthèse : 40 heures ;
 
-- droit pénal général et procédure pénale : 100 heures ;
+Droit pénal : 44 heures ;
 
-- droit administratif : 104 heures ;
+Procédure pénale : 44 heures ;
 
-- droit constitutionnel et libertés publiques : 102 heures ;
+Droit administratif : 44 heures ;
 
-- droit civil : 40 heures ;
+Droit constitutionnel : 44 heures ;
 
-- droit commercial : 40 heures ;
+Libertés publiques : 44 heures ;
 
-- droit du travail : 40 heures ;
+Droit de l'Union européenne : 44 heures ;
 
-- langues : 100 heures ;
+Droit privé : 80 heures ;
 
-- sport : 70 heures.
+Droit international public et institutions européennes : 44 heures ;
+
+Finances publiques : 44 heures ;
+
+Géographie économique et humaine : 44 heures ;
+
+Histoire contemporaine et relations internationales depuis 1945 : 44 heures ;
+
+Langues étrangères : 80 heures ;
+
+Sport : 60 heures.

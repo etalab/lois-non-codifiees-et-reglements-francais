@@ -2,22 +2,32 @@
 
 Les volumes horaires des matières enseignées durant le cycle court sont les suivants :
 
-- culture générale : 80 heures ;
+Culture générale : 60 heures ;
 
-- note de synthèse : 9 heures ;
+Note de synthèse : 20 heures ;
 
-- droit pénal général et procédure pénale : 40 heures ;
+Droit pénal : 30 heures ;
 
-- droit administratif : 40 heures ;
+Procédure pénale : 30 heures ;
 
-- droit constitutionnel et libertés publiques : 50 heures ;
+Droit administratif : 30 heures ;
 
-- droit civil : 20 heures ;
+Droit constitutionnel : 30 heures ;
 
-- droit commercial : 20 heures ;
+Libertés publiques : 30 heures ;
 
-- droit du travail : 20 heures ;
+Droit de l'Union européenne : 30 heures ;
 
-- langues étrangères : 40 heures ;
+Droit privé : 60 heures ;
 
-- sport : 40 heures.
+Droit international public et institutions européennes : 30 heures ;
+
+Finances publiques : 30 heures ;
+
+Géographie économique et humaine : 30 heures ;
+
+Histoire contemporaine et relations internationales depuis 1945 : 30 heures ;
+
+Langues étrangères : 40 heures ;
+
+Sport : 30 heures.
