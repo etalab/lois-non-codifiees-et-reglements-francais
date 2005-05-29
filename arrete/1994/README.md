@@ -412,7 +412,6 @@
 - [Arrêté du 12 juillet 1994 (MAEA9320209A)](arrete-du-12-juillet-1994-maea9320209a)
 - [Arrêté du 12 juillet 1994 (RESR9400912A)](arrete-du-12-juillet-1994-resr9400912a)
 - [Arrêté du 12 juillet 1994 (RESR9400913A)](arrete-du-12-juillet-1994-resr9400913a)
-- [Arrêté du 12 octobre 1994 (AGRG9401984A)](arrete-du-12-octobre-1994-agrg9401984a)
 - [Arrêté du 12 octobre 1994 (PRMX9400377A)](arrete-du-12-octobre-1994-prmx9400377a)
 - [Arrêté du 12 octobre 1995 (AGRA9501670A)](arrete-du-12-octobre-1995-agra9501670a)
 - [Arrêté du 12 septembre 1994 (DEFT9402032A)](arrete-du-12-septembre-1994-deft9402032a)
