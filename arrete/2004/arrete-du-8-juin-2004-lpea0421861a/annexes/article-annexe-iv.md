@@ -2,6 +2,7 @@
 
 FIXANT LA LISTE DES CERTIFICATIONS OU CERTIFICATS DE FORMATIONS OUVRANT DROIT À LA VALIDATION AUTOMATIQUE DE CERTAINS DES DOMAINES DE COMPÉTENCES DU CERTIFICAT D'APTITUDE AUX FONCTIONS D'ENCADREMENT ET DE RESPONSABLE D'UNITÉ D'INTERVENTION SOCIALE
 
+<div>
 <table>
 <tbody>
 <tr>
@@ -36,5 +37,16 @@ FIXANT LA LISTE DES CERTIFICATIONS OU CERTIFICATS DE FORMATIONS OUVRANT DROIT À
 <p>Communication, interface et gestion de partenariats. </p>
 </td>
 </tr>
+<tr>
+<td>Chef de service dans l'action sociale. </td>
+<td>ARAFDES, institut de formation des cadres de l'action sociale, Lyon (arrêté du 19 mars 1999, publié au JO du 27 mars 1999, portant homologation de titres et diplômes de l'enseignement technologique). </td>
+<td>
+<p> Expertise technique.</p>
+<p>Management d'équipe.</p>
+<p>Organisation du travail, gestion administrative et budgétaire d'une unité ou d'un service.</p>
+<p>Communication, interface et gestion de partenariats. </p>
+</td>
+</tr>
 </tbody>
 </table>
+</div>
