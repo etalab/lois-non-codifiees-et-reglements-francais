@@ -2,7 +2,7 @@
 
 L'émission, l'exposition, la mise en vente, l'introduction sur le marché, en France, d'actions, d'obligations ou de titres de quelque nature qu'ils soient, de sociétés françaises et (1) étrangères, sont, en ce qui concerne ceux de ces titres offerts au public, assujetties aux formalités ci-après :
 
-Préalablement à toute mesure de publicité, les émetteurs, exposants, metteurs en vente et introducteurs doivent faire insérer, dans un bulletin annexe au Journal officiel dont la forme est déterminée par décret (2) une notice contenant les énonciations suivantes :
+Préalablement à toute mesure de publicité, les émetteurs, exposants, metteurs en vente et introducteurs doivent faire insérer dans le Bulletin des annonces légales obligatoires une notice contenant les énonciations suivantes :
 
 1° La dénomination de la société ou la raison sociale ;
 
@@ -26,10 +26,10 @@ Il doit, en outre, être fait mention des avantages stipulés au profit des fond
 
 Les émetteurs, exposants, metteurs en vente et introducteurs doivent être domiciliés en France ; ils sont tenus de revêtir la notice ci-dessus de leur signature et de leur adresse.
 
-Les affiches, prospectus et circulaires doivent reproduire les énonciations de la notice et contenir la mention de l'insertion de ladite notice au bulletin annexe du Journal officiel, avec référence au numéro dans lequel elle a été publiée.
+Les affiches, prospectus et circulaires doivent reproduire les énonciations de la notice et contenir la mention de l'insertion de ladite notice au Bulletin des annonces légales obligatoires, avec référence au numéro dans lequel elle a été publiée.
 
-Les annonces dans les journaux doivent reproduire les mêmes énonciations ou, tout au moins, un extrait de ces énonciations avec référence à ladite notice et indication du numéro du bulletin annexe du Journal officiel dans lequel elle a été publiée.
+Les annonces dans les journaux doivent reproduire les mêmes énonciations ou, tout au moins, un extrait de ces énonciations avec référence à ladite notice et indication du numéro du Bulletin des annonces légales obligatoires dans lequel elle a été publiée.
 
-Avant toute émission publique ou introduction en France d'actions, d'obligations ou de titres de quelque nature qu'ils soient, les émetteurs ou introducteurs doivent en outre, publier au même bulletin annexe du Journal officiel l'indication du greffe du tribunal de commerce où a été effectué le dépôt des actes constitutifs ainsi que la date de ce dépôt.
+Avant toute émission publique ou introduction en France d'actions, d'obligations ou de titres de quelque nature qu'ils soient, les émetteurs ou introducteurs doivent en outre, publier au même Bulletin des annonces légales obligatoires l'indication du greffe du tribunal de commerce où a été effectué le dépôt des actes constitutifs ainsi que la date de ce dépôt.
 
 Les infractions aux dispositions édictées ci-dessus seront constatées par les agents de l'enregistrement ; elles seront punies d'une amende de 18000 euros.
