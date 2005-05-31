@@ -1,6 +1,6 @@
 # Article 3
 
-I. - Peuvent être nommés assistants d'administration de l'aviation civile par la voie de l'examen professionnel les fonctionnaires appartenant à un corps de catégorie C ou de même niveau en fonctions depuis au moins cinq ans dans un service de la direction générale de l'aviation civile, dans les établissements publics qui en relèvent ainsi que dans l'établissement public Météo-France et comptant au moins neuf ans de services publics.
+I. - Peuvent être nommés assistants d'administration de l'aviation civile par la voie de l'examen professionnel les fonctionnaires appartenant à un corps de catégorie C ou de même niveau en fonctions depuis au moins six ans dans un service de la direction générale de l'aviation civile, dans les établissements publics qui en relèvent ainsi que dans l'établissement public Météo-France et comptant au moins neuf ans de services publics.
 
 Ces conditions doivent être remplies au 1er janvier de l'année de l'examen.
 
