@@ -18,9 +18,13 @@ Sont désignées comme vulnérables, compte tenu notamment des caractéristiques
 
 4° Pour la réalisation de l'inventaire des zones vulnérables, un programme de surveillance de la teneur des eaux en nitrate d'origine agricole est mis en oeuvre sur l'ensemble du territoire.
 
-Le préfet élabore, à partir des résultats obtenus par le programme de surveillance de la teneur des eaux en nitrate d'origine agricole et de toute autre donnée disponible, un projet de délimitation des zones vulnérables en concertation avec les organisations professionnelles agricoles, des représentants des usagers de l'eau, des communes, des personnes publiques ou privées qui concourent à la distribution de l'eau et des associations intervenant en matière d'eau.
+Le préfet coordonnateur de bassin élabore, avec le concours des préfets de département, à partir des résultats obtenus par le programme de surveillance de la teneur des eaux en nitrates d'origine agricole et de toute autre donnée disponible, un projet de délimitation des zones vulnérables en concertation avec les organisations professionnelles agricoles, des représentants des usagers de l'eau, des communes et de leurs groupements, des personnes publiques ou privées qui concourent à la distribution de l'eau, des associations agréées de protection de l'environnement intervenant en matière d'eau et des associations de consommateurs.
 
-Ce projet est soumis pour avis au conseil départemental d'hygiène, au conseil général et au conseil régional intéressés. Il est transmis au préfet coordonnateur de bassin qui, après avis du comité de bassin, arrête la délimitation des zones vulnérables.
+Le préfet coordonnateur de bassin transmet le projet de délimitation des zones vulnérables aux préfets intéressés qui consultent les conseils généraux et les conseils régionaux et, en Corse, la collectivité territoriale, ainsi que les conseils départementaux d'hygiène et les chambres d'agriculture.
+
+Le préfet coordonnateur de bassin arrête la délimitation des zones vulnérables après avis du comité de bassin.
+
+Les avis sont réputés favorables s'ils n'interviennent pas dans un délai de deux mois à compter de la transmission de la demande d'avis.
 
 L'inventaire des zones vulnérables est rendu public. Pour l'élaboration des schémas d'aménagement et de gestion des eaux, l'inventaire des zones vulnérables fait partie des documents à communiquer au président de la commission locale de l'eau en application de l'article 5 du décret du 24 septembre 1992 susvisé. L'inventaire des zones vulnérables est annexé au schéma d'aménagement et de gestion des eaux lorsqu'il existe.
 

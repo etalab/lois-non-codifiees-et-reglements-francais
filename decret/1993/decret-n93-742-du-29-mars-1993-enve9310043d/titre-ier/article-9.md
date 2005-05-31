@@ -1,3 +1,3 @@
 # Article 9
 
-Le préfet coordonnateur de bassin soumet à l'avis de la mission déléguée de bassin les demandes d'autorisation concernant les opérations entrant dans la catégorie des ouvrages installations, travaux ou activités dont les effets prévisibles sont suffisamment importants pour qu'ils nécessitent son intervention.
+Lorsque les caractéristiques ou l'importance des effets prévisibles d'un projet rendent nécessaires une coordination et une planification de la ressource en eau au niveau interrégional, le préfet chargé d'instruire ou de coordonner la procédure soumet la demande d'autorisation au préfet coordonnateur de bassin qui dispose d'un délai de deux mois à compter de la réception de cette demande pour exprimer son avis.
