@@ -414,7 +414,6 @@
 - [Arrêté du 9 mai 1995 (RESK9500709A)](arrete-du-9-mai-1995-resk9500709a)
 - [Arrêté du 9 mai 1995 (RESM9500725A)](arrete-du-9-mai-1995-resm9500725a)
 - [Arrêté du 9 mai 1995 (SANM9501518A)](arrete-du-9-mai-1995-sanm9501518a)
-- [Arrêté du 9 mai 1995 (SANP9501525A)](arrete-du-9-mai-1995-sanp9501525a)
 - [Arrêté du 9 mai 1995 (SPSH9501535A)](arrete-du-9-mai-1995-spsh9501535a)
 - [Arrêté du 9 mai 1995 (SPSS9501234A)](arrete-du-9-mai-1995-spss9501234a)
 - [Arrêté du 9 mai 1995 (SPSS9501500A)](arrete-du-9-mai-1995-spss9501500a)

@@ -304,7 +304,6 @@
 - [Décret n°87-359 du 26 mai 1987 (DEFD8701145D)](decret-n87-359-du-26-mai-1987-defd8701145d)
 - [Décret n°87-132 du 27 février 1987 (ASEE8703135D)](decret-n87-132-du-27-fevrier-1987-asee8703135d)
 - [Décret n°87-134 du 27 février 1987 (ASET8703125D)](decret-n87-134-du-27-fevrier-1987-aset8703125d)
-- [Décret n°87-154 du 27 février 1987 (ENVP8700009D)](decret-n87-154-du-27-fevrier-1987-envp8700009d)
 - [Décret n°87-205 du 27 mars 1987 (RESS8700002D)](decret-n87-205-du-27-mars-1987-ress8700002d)
 - [Décret n°87-206 du 27 mars 1987 (STFS8700483D)](decret-n87-206-du-27-mars-1987-stfs8700483d)
 - [Décret n°87-207 du 27 mars 1987 (STFS8700484D)](decret-n87-207-du-27-mars-1987-stfs8700484d)

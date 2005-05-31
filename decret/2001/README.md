@@ -289,7 +289,6 @@
 - [Décret n°2001-1230 du 19 décembre 2001 (MENS0102417D)](decret-n2001-1230-du-19-decembre-2001-mens0102417d)
 - [Décret n°2001-1238 du 19 décembre 2001 (PRMG0170644D)](decret-n2001-1238-du-19-decembre-2001-prmg0170644d)
 - [Décret n°2001-1239 du 19 décembre 2001 (PRMG0170645D)](decret-n2001-1239-du-19-decembre-2001-prmg0170645d)
-- [Décret n°2001-236 du 19 mars 2001 (INTD0100055D)](decret-n2001-236-du-19-mars-2001-intd0100055d)
 - [Décret n°2001-359 du 19 avril 2001 (AGRR0100307D)](decret-n2001-359-du-19-avril-2001-agrr0100307d)
 - [Décret n°2001-650 du 19 juillet 2001 (JUSX0100057D)](decret-n2001-650-du-19-juillet-2001-jusx0100057d)
 - [Décret n°2001-651 du 19 juillet 2001 (JUSC0120438D)](decret-n2001-651-du-19-juillet-2001-jusc0120438d)
