@@ -2,7 +2,7 @@
 
 Dans les limites de l'horaire global d'enseignement indiqué à l'article 6, l'enseignement de séméiologie clinique, biologique et des techniques d'imagerie médicale doit représenter au moins 120 heures.
 
-Des enseignements complémentaires laissés au choix de l'étudiant doivent être organisés en seconde année du premier cycle et en première année du deuxième cycle. Ces enseignements, dont les volumes horaires sont compris entre 80 et 100 heures par année, peuvent soit compléter des enseignements des disciplines obligatoires, soit porter sur d'autres domaines, et notamment :
+Des enseignements complémentaires laissés au choix de l'étudiant doivent être organisés en seconde année du premier cycle et en première année du deuxième cycle. Ces enseignements qui ne peuvent excéder 100 heures par année, peuvent soit compléter des enseignements des disciplines obligatoires, soit porter sur d'autres domaines, et notamment :
 
 - le droit et l'économie ;
 

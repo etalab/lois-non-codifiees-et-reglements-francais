@@ -1,0 +1,3 @@
+# Article 6
+
+Les étrangers peuvent être maintenus dans les locaux mentionnés à l'article précédent pendant une durée n'excédant pas 48 heures. Toutefois, en cas d'appel de l'ordonnance du juge des libertés et de la détention, s'il n'y a pas de centre de rétention administrative dans le ressort de la cour d'appel où se situe le local, l'étranger peut y être maintenu jusqu'à ce que le président de la cour d'appel ait statué. De même, en cas de recours contre l'arrêté de reconduite à la frontière, s'il n'y a pas de centre de rétention administrative dans le ressort du tribunal administratif où se situe le local, l'étranger peut y être maintenu jusqu'à ce que le président du tribunal administratif ait statué.

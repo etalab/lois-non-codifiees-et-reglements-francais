@@ -1,0 +1,7 @@
+# Article 11
+
+Les étrangers placés ou maintenus dans un centre de rétention administrative bénéficient d'actions d'accueil, d'information, de soutien moral et psychologique et d'aide pour préparer les conditions matérielles de leur départ, qui portent notamment sur la récupération des bagages des personnes retenues, la réalisation de formalités administratives, l'achat de produits de vie courante et, le cas échéant, les liens avec le pays d'origine, et notamment la famille. Pour la conduite de ces actions, l'Etat a recours à l'Agence nationale de l'accueil des étrangers et des migrations. Une convention détermine les conditions d'affectation et d'intervention des agents de cet établissement public.
+
+Pour permettre l'exercice effectif de leurs droits par les étrangers maintenus dans un centre de rétention administrative, l'Etat passe une convention avec une association à caractère national ayant pour objet d'informer les étrangers et de les aider à exercer leurs droits. L'association assure à cette fin dans chaque centre des prestations d'information, par l'organisation de permanences et la mise à disposition de documentation. Les étrangers retenus bénéficient de ces prestations sans formalité dans les conditions prévues par le règlement intérieur.
+
+Les étrangers maintenus dans les locaux de rétention peuvent bénéficier du concours d'une association ayant pour objet d'informer les étrangers et de les aider à exercer leurs droits, à leur demande ou à l'initiative de celle-ci, dans des conditions définies par convention.

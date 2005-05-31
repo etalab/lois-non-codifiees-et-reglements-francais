@@ -1,9 +1,7 @@
 # Article 1
 
-En application de l'article 3 du décret du 19 août 1970 susvisé, le Premier ministre peut faire appel à :
+Il est institué une commission des comptes de la santé qui analysera les emplois et les ressources du système de santé en vue notamment :
 
-Vingt et un chefs de mission ;
+a) D'établir des comptes annuels rétrospectifs permettant d'étudier les différents circuits qu'empruntent les dépenses de santé, les besoins qu'elles expriment, les services qu'elles rémunèrent et les catégories sociales à qui elles bénéficient :
 
-Cinquante chargés de mission à temps plein ;
-
-Cinquante-cinq chargés de mission à temps partiel.
+b) D'évaluer l'incidence du système de santé sur l'évolution de l'économie.

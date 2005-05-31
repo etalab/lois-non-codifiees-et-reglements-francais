@@ -1,11 +1,15 @@
 # Article 28
 
-De plus, les étudiants accomplissent des stages cliniques de participation aux fonctions hospitalières suivant les modalités prévues à l'article 10 du présent arrêté. Ils accomplissent également des stages hospitaliers hors des services d'odontologie, d'une durée de cent heures au total. Ces stages se déroulent dans les services qui n'ont pas été choisis par eux pendant le deuxième cycle et qui figurent dans la liste prévue à l'article 17 ou bien dans les services suivants :
+A compter de l'année universitaire 2006-2007, tous les étudiants accomplissent, au cours du troisième cycle court et dans la limite du volume horaire global prévu à l'article 24 ci-dessus, un stage actif d'initiation à la vie professionnelle d'une durée minimale de 200 heures, chez un chirurgien-dentiste, appelé maître de stage agréé. Ce stage doit permettre à l'étudiant de mettre en application, dans le cadre d'une autonomie contrôlée, les connaissances théoriques, pratiques et cliniques acquises au cours des études odontologiques.
 
-Gériatrie ;
+Le stage est effectué soit à temps plein, soit à temps partiel.
 
-Pédiatrie ;
+Le maître de stage ne peut accueillir qu'un seul stagiaire à la fois.
 
-Médecine interne ;
+Le maître de stage doit justifier d'au moins cinq années d'exercice professionnel. Il est agréé par le directeur de l'unité de formation et de recherche d'odontologie après avis du conseil départemental de l'ordre des chirurgiens-dentistes. Il doit signer un contrat pédagogique avec le directeur de l'unité de formation et de recherche d'odontologie ; ce contrat fixera les objectifs pédagogiques du stage, les critères d'évaluation et les modalités pratiques du stage.
 
-Gastro-entérologie.
+Les conditions dans lesquelles l'étudiant effectue son stage sont fixées dans le cadre d'une convention. Cette convention doit être conforme à un modèle type établi par arrêté du ministre chargé de la santé et du ministre chargé de l'enseignement supérieur.
+
+Le directeur de l'unité de formation et de recherche d'odontologie peut suspendre le stage ou y mettre fin de sa propre initiative ou à la demande soit du maître de stage, soit de l'étudiant.
+
+A l'issue du stage, le maître de stage adresse au directeur de l'unité de formation et de recherche d'odontologie son appréciation sur le stagiaire par le biais du carnet de stage. La validation du stage est prononcée par le directeur de l'unité de formation et de recherche, après avis du maître de stage.

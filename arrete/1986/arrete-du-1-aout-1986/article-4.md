@@ -4,7 +4,7 @@ Sont interdits pour la chasse et la destruction des animaux nuisibles :
 
 - l'emploi dans les armes rayées d'autres munitions que les cartouches à balle expansive dont la vente est libre ;
 
-- l'emploi de toute chevrotine ou de tout plomb de chasse d'un diamètre supérieur à 4 mm.
+- l'emploi de toute munition chargée de grenaille de plomb d'un diamètre supérieur à 4 millimètres ou de grenaille sans plomb d'un diamètre supérieur à 4,8 millimètres.
 
 Les animaux des espèces suivantes : cerf, daim, mouflon, chamois ou isard et sanglier ne peuvent être tirés qu'à balle ou au moyen d'un arc de chasse conformément aux prescriptions de l'arrêté du 15 février 1995 relatif à l'exercice de la chasse à l'arc.
 

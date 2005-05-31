@@ -1,0 +1,3 @@
+# Article 7
+
+Les changements de poste font l'objet d'une présélection par le groupement des moyens aériens parmi les personnels navigants souhaitant effectuer une mobilité en fonction du niveau de compétence requis et des nécessités du service. A l'issue de cette présélection, les personnels retenus sont soit affectés (pour les contractuels), soit mutés (pour les policiers) selon les procédures légales et réglementaires de mutation propres à leur statut. Les affectations ou les mutations font l'objet d'une décision du ministre chargé de l'intérieur et sont effectuées en tenant compte, dans la mesure permise par le service, des souhaits et de la situation de famille des intéressés.

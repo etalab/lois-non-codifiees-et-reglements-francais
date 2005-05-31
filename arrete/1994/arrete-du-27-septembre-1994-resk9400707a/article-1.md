@@ -10,6 +10,6 @@ Les études en vue du diplôme d'Etat de docteur en chirurgie dentaire se compos
 
 - soit une sixième année définie à la section 3 du présent arrêté ;
 
-- soit, en application des dispositions de l'article 43 de la loi du 27 janvier 1993 susvisée, trois années pour les étudiants reçus au concours de l'internat en odontologie.
+- soit, en application des dispositions de l'article L. 634-1 du code de l'éducation susvisée, trois années pour les étudiants reçus au concours de l'internat en odontologie.
 
 Pour obtenir le diplôme d'Etat de docteur en chirurgie dentaire, à l'issue du troisième cycle court cité ci-dessus, les étudiants doivent avoir validé les enseignements correspondants et avoir soutenu la thèse.

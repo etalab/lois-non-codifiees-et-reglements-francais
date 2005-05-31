@@ -1,5 +1,3 @@
 # Article 27
 
-Le volume horaire ne peut être inférieur à 650 heures, dont au moins 450 heures d'enseignements cliniques.
-
-Dans la limite de cet horaire global, des enseignements complémentaires laissés au choix de l'étudiant doivent être organisés. Ces enseignements, dont les volumes horaires ne peuvent excéder 90 heures, peuvent soit compléter les enseignements des disciplines obligatoires, soit concerner d'autres disciplines. La liste des enseignements optionnels accessibles aux étudiants est fixée par le conseil de l'unité de formation et de recherche d'odontologie.
+Dans la limite de l'horaire global défini à l'article 24 les étudiants accomplissent des stages cliniques de participation aux fonctions hospitalières suivant des modalités prévues à l'article 10 du présent arrêté. Ces stages peuvent se dérouler en dehors des centres de soins, d'enseignement et de recherche dentaires pour une durée n'excédant pas un semestre. Les étudiants doivent également participer à des actions de prévention d'intérêt général ou de santé publique qui ne peuvent excéder 100 heures. Ils peuvent accomplir des stages hospitaliers hors des services d'odontologie, d'une durée maximale de 100 heures. Ces stages se déroulent dans des services qui n'ont pas été choisis par eux pendant le deuxième cycle.

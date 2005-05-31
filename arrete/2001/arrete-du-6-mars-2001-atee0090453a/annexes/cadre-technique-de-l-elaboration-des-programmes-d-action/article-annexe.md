@@ -1,4 +1,4 @@
-# Article ANNEXE
+# Article Annexe
 
 Partie 1
 
@@ -196,25 +196,41 @@ Il s'agit :
 
 Enfin, en application des articles 6 et 7 du présent arrêté, les indicateurs de suivi et d'évaluation des programmes d'action doivent montrer l'avancement de la résorption de l'azote excédentaire provenant des effluents d'élevage, en précisant la part des différentes modalités de résorption mises en oeuvre pour y parvenir.
 
-3.2. Définition du contenu des actions renforcées
+3.2. Outre les mesures définies dans la partie 2 de l'annexe du présent arrêté, mesures adaptées si nécessaire, les actions renforcées prévues à l'article 3 du décret n° 2001-34 du 10 janvier 2001 sont mises en place dans les cantons concernés :
 
-Outre les mesures définies dans la partie 2 de l'annexe du présent arrêté, mesures adaptées si nécessaire, les actions renforcées prévues à l'article 3 du décret du 10 janvier 2001 susvisé sont mises en place dans les cantons concernés.
+a) L'étendue maximale des surfaces d'épandage prévue au 1° de l'article 3 du décret n° 2005-634 du 30 mai 2005 susvisé est fixée canton par canton, dans une fourchette comprise entre 40 et 130 hectares par exploitation.
 
-L'étendue maximale des surfaces d'épandage prévue au point 1 de l'article 3 du décret du 10 janvier 2001 susvisé est fixée canton par canton dans une fourchette comprise entre 40 et 130 hectares par exploitation. Par dérogation, après avis de la commission départementale d'orientation agricole, ces plafonds de surface d'épandage ne s'appliquent pas aux terres régulièrement exploitées en propre au 31 mars 1999.
+b) Le traitement mis en oeuvre au titre des 2° et 3° de l'article 3 du décret n° 2005-634 du 30 mai 2005 susvisé doit s'accompagner d'un suivi des effluents transformés quant à leur composition, leur destination et leur utilisation. Lorsque ces effluents ou leur mélange avec des effluents bruts sont épandus sur les terres agricoles, une limitation des quantités de phosphore épandue sera fixée par le préfet en fonction des besoins des cultures afin de limiter l'enrichissement des sols en phosphore.
 
-Le traitement mis en oeuvre au titre des points 2 et 3 de l'article 3 du décret du 10 janvier 2001 susvisé doit s'accompagner d'un suivi des coproduits : composition, destination, utilisation. S'ils sont épandus sur les terres agricoles, il sera tenu compte en particulier de leur teneur en phosphore.
+c) L'interdiction pour chaque exploitant du canton d'augmenter la quantité d'azote produite prévue au 4° de l'article 3 du décret n° 2005-634 du 30 mai 2005 susvisé s'applique dans les conditions suivantes :
 
-Les dérogations prévues par le point 4 de l'article 3 du décret du 10 janvier 2001 susvisé s'appliquent dans les conditions suivantes :
+- dans le cas de l'introduction de truies sur un site, la quantité d'azote produite qui sera comptabilisée pour ce site est égale à la quantité produite par ces truies à laquelle s'ajoute celle produite par les porcs à l'engraissement dès lors que ceux-ci sont engraissés dans un département limitrophe ou dans un département dans lequel un canton en excédent structurel a été désigné ;
 
-La taille maximale des créations et extensions des élevages de dimension économique insuffisante et des jeunes agriculteurs pour lesquels le préfet peut déroger à l'interdiction d'augmentation d'effectifs est fixée par le préfet dans le programme d'action sans pouvoir excéder les tailles définies à l'annexe du décret du 10 janvier 2001 susvisé.
+- dans le cas du remplacement de productions de vaches laitières, de vaches allaitantes ou d'ovins par des productions de porcs, de volailles, de veaux de boucherie ou de bovins à l'engraissement, la quantité d'azote des productions qui ont fait l'objet du remplacement sera déduite de la réserve départementale.
 
-Les créations et extensions d'élevages ne doivent pas dépasser une marge de développement définie dans le programme d'action. Cette marge est exprimée en kilogrammes d'azote produit par les animaux. Elle doit être définie de façon que les échéances prévues par l'article 2 du décret du 10 janvier 2001 susvisé soient respectées. Elle ne peut en aucun cas dépasser un pourcentage de la quantité à résorber, qui sera fixé dans le programme d'action.
+d) Dans le cadre des dérogations prévues au 4° de l'article 3 du décret n° 2005-634 du 30 mai 2005 susvisé, la marge cantonale est utilisable en fonction de l'avancement effectif de la résorption. A tout moment la quantité de marge utilisable est au plus égale à 25 % de la quantité d'azote effectivement résorbée par les procédés suivants : traitement ou transfert des effluents, alimentation, gain de surface d'épandage ; ce pourcentage est réduit à 15 % si le canton est situé dans un bassin versant soumis aux dispositions de l'article 4 du décret n° 2005-634 du 30 mai 2005 susvisé.
 
-Les critères d'accès à cette marge et son rythme de consommation annuelle doivent être précisés de façon que les échéances prévues par l'article 2 du décret du 10 janvier 2001 susvisé soient respectées. En outre, à aucun moment la consommation de la marge ne peut excéder les pourcentages de la quantité d'azote effectivement résorbée définis au 4° de l'article 3 du décret du 10 janvier 2001 susvisé.
+e) Dans le cas des regroupements de sites prévus au 5° de l'article 3 du décret n° 2005-634 du 30 mai 2005 susvisé, le prélèvement est réalisé sur la quantité d'azote produite par les animaux des sites ayant fait l'objet d'un transfert. Ce prélèvement s'applique à tout site exploité postérieurement au 10 janvier 2001. Il est égal à :
 
-Les modalités précises de gestion de la marge, à savoir les critères retenus pour en calculer la consommation ou l'alimentation, sont précisées dans le programme d'action.
+0 % si l'exploitation regroupée est inférieure aux limites définies à l'annexe du décret n° 2005-634 du 30 mai 2005 susvisé ;
 
-L'évolution et le rythme de la consommation de la marge de développement et de la résorption sont suivis, dans chaque canton, à travers des tableaux de bord tenus à jour régulièrement. Ils sont présentés à chaque conseil départemental d'hygiène.
+10 % si l'exploitation regroupée avant prélèvement est comprise entre une et deux fois les limites définies à l'annexe du décret n° 2005-634 du 30 mai 2005 susvisé ;
+
+20 % si l'exploitation regroupée avant prélèvement est supérieure à deux fois les limites définies à l'annexe du décret n° 2005-634 du 30 mai 2005 susvisé.
+
+Ce prélèvement est écrêté si nécessaire pour que la taille de l'exploitation regroupée après prélèvement soit égale aux limites définies à l'annexe du décret n° 2005-634 du 30 mai 2005 susvisé.
+
+Les quantités d'azote prélevées sont affectées à la réserve départementale du département où est situé le site fermé.
+
+f) La réserve départementale est alimentée par les quantités d'azote prélevées lors des regroupements de sites définies au point e et par les quantités suivantes issues des cessations d'activité :
+
+25 % de la quantité d'azote effectivement résorbée du fait des cessations d'activité sans reprise et qui sont accompagnées d'aides financières publiques ;
+
+50 % de la quantité d'azote effectivement résorbée du fait des cessations d'activité sans reprise et qui ne sont pas accompagnées d'aides financières publiques.
+
+Elle peut être redistribuée au vu des résultats de la résorption et du suivi de l'évolution de l'azote produit dans chaque département, en ZES et hors ZES, après un premier bilan réalisé au plus tôt six mois après la signature de l'arrêté préfectoral et en veillant à l'équilibre entre les cantons dans l'espace et dans le temps.
+
+g) L'avancement de la résorption, la gestion de la marge cantonale et de la réserve départementale font l'objet d'un suivi au moyen de tableaux de bord régulièrement tenus à jour. Ils sont présentés à chaque réunion du conseil départemental d'hygiène.
 
 Partie 4
 

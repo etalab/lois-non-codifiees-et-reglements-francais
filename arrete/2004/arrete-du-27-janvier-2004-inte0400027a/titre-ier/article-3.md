@@ -4,7 +4,7 @@ La nature des qualifications nécessaires à la détermination des niveaux de co
 
 I. - Pour les pilotes d'avions :
 
-Les qualifications de type prévues à l'article 2 ci-dessus correspondent aux types d'avions utilisés par la sécurité civile et notamment CL 415, Tracker, Fokker, Beechcraft 200 et sont délivrées par la DGAC.
+Les qualifications de type prévues à l'article 2 ci-dessus correspondent aux types d'avions utilisés par la sécurité civile et sont délivrées par la DGAC.
 
 Les qualifications de bombardement d'eau et d'observation sur feux de forêts prévues à l'article 2 ci-dessus sont définies dans les consignes permanentes d'entraînement et de contrôle de la base d'avions de la sécurité civile et sont délivrées par le ministre chargé de l'intérieur.
 

@@ -12,8 +12,6 @@ a) Pour les pilotes d'avions de classe A :
 
 - niveau 3 : les pilotes de niveau 2 peuvent accéder au niveau 3 lorsqu'ils justifient de deux ans d'activité de pilote bombardier d'eau confirmé.
 
-Pour être maintenus à titre définitif au niveau 3, les pilotes doivent être titulaires du certificat d'aptitude tel que défini à l'article 3 ci-après, au terme en principe de deux années d'exercice. A défaut, les dispositions de l'article 8 du décret du 27 janvier 2004 susvisé s'appliquent et les intéressés sont reclassés au niveau 2 de la classe C :
-
 - niveau 4 : les pilotes de niveau 3 peuvent accéder au niveau 4 lorsqu'ils justifient de cinq ans d'activité de pilote bombardier d'eau commandant de bord opérationnel ;
 
 - niveau 5 : les pilotes de niveau 4 peuvent accéder au niveau 5 lorsqu'ils justifient de cinq ans d'activité de pilote bombardier d'eau commandant de bord opérationnel expérimenté ;

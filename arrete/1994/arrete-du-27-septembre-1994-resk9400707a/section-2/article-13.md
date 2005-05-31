@@ -10,7 +10,7 @@ Odontologie légale ;
 
 Odontologie conservatrice ;
 
-Odontologie prothétique, y compris l'odontologie maxillo-faciale ;
+Odontologie prothétique, y compris la prothèse maxillo-faciale ;
 
 Médecine et chirurgie buccales ;
 

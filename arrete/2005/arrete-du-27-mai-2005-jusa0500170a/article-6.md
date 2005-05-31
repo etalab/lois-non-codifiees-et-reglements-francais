@@ -1,0 +1,3 @@
+# Article 6
+
+Dès la transmission d'un document à la section du contentieux du Conseil d'Etat, un message indiquant la date et l'heure de sa réception est automatiquement envoyé dans la boîte aux lettres applicative de l'expéditeur. Toutefois, son enregistrement n'est attesté par la section du contentieux du Conseil d'Etat qu'après vérification qu'il n'est ni vide ni corrompu et que son contenu correspond aux données renseignées dans le formulaire. Si une anomalie est détectée, un message d'alerte est déposé dans la boîte aux lettres applicative de la partie intéressée. Sinon, un nouveau message l'informe de l'enregistrement du document et indique la date et, le cas échéant, l'heure de la réception du document.

@@ -1,0 +1,9 @@
+# Article 10
+
+Le directeur général de l'Agence française de sécurité sanitaire des aliments est immédiatement informé par les responsables de l'entreprise du départ, du décès ou de tout changement du pharmacien ou vétérinaire responsable, responsable intérimaire, délégué ou le cas échéant délégué intérimaire, de la personne, pharmacien ou vétérinaire, chargée de la pharmacovigilance, du pharmacien ou du vétérinaire lié par convention ainsi que de l'identité de leur successeur.
+
+Ce nouveau pharmacien ou vétérinaire transmet au directeur général de l'Agence française de sécurité sanitaire des aliments, dès sa désignation par l'organe social compétent, les pièces mentionnées aux articles 2 ou 3 le concernant. Il procède en même temps aux formalités d'inscription à l'ordre pour cette activité et à la validation de son expérience professionnelle, le cas échéant, ainsi qu'à l'enregistrement de son diplôme, titre ou certificat.
+
+Le conseil de l'ordre adresse au directeur général de l'Agence française de sécurité sanitaire des aliments son avis sur la situation et l'expérience professionnelle du nouveau pharmacien ou vétérinaire au regard des dispositions des articles R. 5142-16 à R. 5142-19, R. 5142-30 et R. 5142-31, dans un délai maximum de deux mois. Il procède à l'inscription à l'ordre de l'intéressé dans les conditions prévues aux articles L. 4222-3 et L. 4222-4 ou L. 242-4, R. 242-87 et R. 242-88 du code rural et notifie sa décision au directeur général de l'Agence française de sécurité sanitaire des aliments.
+
+Le directeur général de l'Agence française de sécurité sanitaire des aliments notifie l'autorisation d'établissement actualisée au demandeur, à l'ordre compétent et, le cas échéant, au préfet du département où est implanté l'établissement ou au directeur général de l'Agence française de sécurité sanitaire des produits de santé.
