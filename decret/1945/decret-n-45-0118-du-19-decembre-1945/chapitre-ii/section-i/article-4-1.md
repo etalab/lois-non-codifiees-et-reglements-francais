@@ -2,7 +2,7 @@
 
 Nul ne peut être nommé avoué près d'une cour d'appel s'il ne remplit les conditions suivantes :
 
-1° Etre français ou ressortissant d'un Etat membre des communautés européennes ;
+1° Etre français ou ressortissant d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen ;
 
 2° N'avoir pas été l'auteur de faits contraires à l'honneur, à la probité ou aux bonnes moeurs ;
 

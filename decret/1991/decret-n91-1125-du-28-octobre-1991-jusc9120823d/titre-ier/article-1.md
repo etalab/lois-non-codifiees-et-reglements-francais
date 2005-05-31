@@ -2,13 +2,15 @@
 
 Nul ne peut accéder à la profession d'avocat au Conseil d'Etat et à la Cour de cassation s'il ne remplit les conditions suivantes :
 
-1° Etre français ou ressortissant d'un Etat membre des communautés européennes ;
+1° Etre français ou ressortissant d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen.
 
 2° Etre titulaire, sous réserve des dispenses prévues aux articles 2, 3, 4 et 5, d'au moins une maîtrise en droit ou de titres ou diplômes reconnus comme équivalents pour l'accès à la profession d'avocat ;
 
 3° Avoir été inscrit pendant un an au moins sur la liste du stage ou au tableau d'un barreau, sous réserve des dispenses prévues aux articles 2, 3, 4 et 5 ;
 
-4° Avoir suivi la formation prévue  au titre II, sous réserve des dispenses prévues aux articles 2, 3, 4 et 5 ;    5° Avoir subi avec succès l'examen d'aptitude à la profession d'avocat au Conseil d'Etat et à la Cour de cassation prévu au titre III, sous réserve des dispenses prévues aux articles 2, 3 et 5 ;
+4° Avoir suivi la formation prévue  au titre II, sous réserve des dispenses prévues aux articles 2, 3, 4 et 5 ;
+
+5° Avoir subi avec succès l'examen d'aptitude à la profession d'avocat au Conseil d'Etat et à la Cour de cassation prévu au titre III, sous réserve des dispenses prévues aux articles 2, 3 et 5 ;
 
 6° N'avoir pas été l'auteur de faits ayant donné lieu à condamnation pénale pour agissements contraires à l'honneur, à la probité ou aux bonnes moeurs ;
 
