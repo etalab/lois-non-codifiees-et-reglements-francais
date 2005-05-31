@@ -11,7 +11,6 @@
 - [Décret n°70-912 du 5 octobre 1970](decret-n70-912-du-5-octobre-1970)
 - [Décret n°72-18 du 5 janvier 1972](decret-n72-18-du-5-janvier-1972)
 - [Décret n° 70-406 du 5 mai 1970](decret-n-70-406-du-5-mai-1970)
-- [Décret n°71-345 du 5 mai 1971](decret-n71-345-du-5-mai-1971)
 - [Décret n°71-281 du 7 avril 1971](decret-n71-281-du-7-avril-1971)
 - [Décret n°70-26 du 8 janvier 1970](decret-n70-26-du-8-janvier-1970)
 - [Décret n°70-931 du 8 octobre 1970](decret-n70-931-du-8-octobre-1970)
