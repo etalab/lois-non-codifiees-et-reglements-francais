@@ -138,7 +138,6 @@
 - [Décret du 6 septembre 1994 (PRMX9400382D)](decret-du-6-septembre-1994-prmx9400382d)
 - [Décret n°93-1046 du 6 septembre 1993 (AGRR9300679D)](decret-n93-1046-du-6-septembre-1993-agrr9300679d)
 - [Décret n°94-1047 du 6 décembre 1994 (INTA9400447D)](decret-n94-1047-du-6-decembre-1994-inta9400447d)
-- [Décret n°94-1048 du 6 décembre 1994 (INTA9400448D)](decret-n94-1048-du-6-decembre-1994-inta9400448d)
 - [Décret n°94-1062 du 6 décembre 1994 (MAEJ9430079D)](decret-n94-1062-du-6-decembre-1994-maej9430079d)
 - [Décret n°94-1063 du 6 décembre 1994 (BUDF9410049D)](decret-n94-1063-du-6-decembre-1994-budf9410049d)
 - [Décret n°94-1065 du 6 décembre 1994 (MAEJ9430081D)](decret-n94-1065-du-6-decembre-1994-maej9430081d)
