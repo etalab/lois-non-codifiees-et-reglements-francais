@@ -1,6 +1,6 @@
 # Article 11
 
-Les représentants agréés d'une association humanitaire peuvent s'entretenir avec le chef des services de contrôle aux frontières et, lorsqu'ils sont présents, avec les représentants du ministre des affaires étrangères et les agents de l'Office des migrations internationales chargés de l'assistance humanitaire.
+Les représentants agréés d'une association humanitaire peuvent s'entretenir avec le chef des services de contrôle aux frontières et, lorsqu'ils sont présents, avec les agents de l'Office français de protection des réfugiés et apatrides et les agents de l'Office des migrations internationales chargés de l'assistance humanitaire.
 
 Ils peuvent s'entretenir confidentiellement avec les personnes maintenues dans cette zone.
 
