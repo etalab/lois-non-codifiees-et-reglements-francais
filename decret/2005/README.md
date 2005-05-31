@@ -447,6 +447,7 @@
 - [Décret n°2005-53 du 26 janvier 2005 (ECOP0400442D)](decret-n2005-53-du-26-janvier-2005-ecop0400442d)
 - [Décret n°2005-78 du 26 janvier 2005 (INDI0404303D)](decret-n2005-78-du-26-janvier-2005-indi0404303d)
 - [Décret n°2005-79 du 26 janvier 2005 (INDI0404304D)](decret-n2005-79-du-26-janvier-2005-indi0404304d)
+- [Décret n°82-440 du 26 mai 1982](decret-n82-440-du-26-mai-1982)
 - [Décret n°2005-539 du 26 mai 2005 (PRMX0508448D)](decret-n2005-539-du-26-mai-2005-prmx0508448d)
 - [Décret n°2005-540 du 26 mai 2005 (PRMX0508449D)](decret-n2005-540-du-26-mai-2005-prmx0508449d)
 - [Décret n°2005-544 du 26 mai 2005 (INTX0500125D)](decret-n2005-544-du-26-mai-2005-intx0500125d)
