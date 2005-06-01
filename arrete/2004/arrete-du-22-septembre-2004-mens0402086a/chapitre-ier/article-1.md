@@ -30,8 +30,6 @@ Neurologie.
 
 Oncologie.
 
-Pathologies cardio-vasculaires.
-
 Pneumologie.
 
 Radiodiagnostic et imagerie médicale.
