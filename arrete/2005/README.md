@@ -82,7 +82,6 @@
 - [Arrêté du 11 avril 2005 (JUSK0540048A)](arrete-du-11-avril-2005-jusk0540048a)
 - [Arrêté du 11 avril 2005 (MENA0402949A)](arrete-du-11-avril-2005-mena0402949a)
 - [Arrêté du 11 février 2005 (EQUK0500269A)](arrete-du-11-fevrier-2005-equk0500269a)
-- [Arrêté du 11 février 2005 (EQUK0500270A)](arrete-du-11-fevrier-2005-equk0500270a)
 - [Arrêté du 11 janvier 2005 (DEFP0500101A)](arrete-du-11-janvier-2005-defp0500101a)
 - [Arrêté du 11 janvier 2005 (ECOK0400092A)](arrete-du-11-janvier-2005-ecok0400092a)
 - [Arrêté du 11 mai 2005 (EQUH0500863A)](arrete-du-11-mai-2005-equh0500863a)
