@@ -1,6 +1,6 @@
 # Article 1
 
-Les registres destinés à l'inscription des navigants professionnels de l'aéronautique civile sont au nombre de dix.
+Les registres destinés à l'inscription des navigants professionnels de l'aéronautique civile sont au nombre de onze.
 
 Les lettres indicatives de ces registres correspondent à la dénomination des sections et des catégories dans lesquelles sont classés les intéressés.
 
@@ -31,3 +31,5 @@ Personnel de la section D
 Catégorie Transport aérien : registre D-T, P.
 
 Catégorie Travail aérien : registre D-T, A.
+
+Catégorie "essais et réceptions" : registre D-E, R.

@@ -11,3 +11,5 @@ Le titre professionnel technicien(ne) d'accueil touristique, option accompagneme
 - soit l'option animation : concevoir et produire l'animation d'un établissement touristique.
 
 Elles peuvent être sanctionnées par des certificats de compétences professionnelles (CCP) dans les conditions prévues par l'arrêté du 25 novembre 2002 susvisé.
+
+Le titre professionnel de technicien(ne) d'accueil touristique, option animation, peut être complété par l'unité de spécialisation suivante : assurer la coordination d'une équipe d'animation dans le cadre d'une politique définie.

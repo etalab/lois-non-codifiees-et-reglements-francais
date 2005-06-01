@@ -4,6 +4,8 @@ Les destinataires des informations traités sont, dans la limite de leurs attrib
 
 - les agents des postes comptables du Trésor chargés du recouvrement (Trésorerie) ;
 
+- les agents habilités du service de la redevance audiovisuelle ;
+
 - les agents du poste centralisateur en tant que chargés du contrôle de la gestion des postes comptables non centralisateurs (Trésorerie générale ou recette des finances) ;
 
 - les services de la direction générale des impôts territorialement compétents ;
