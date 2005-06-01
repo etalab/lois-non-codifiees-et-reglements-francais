@@ -1,5 +1,6 @@
 # 1981
 
+- [Décret n°81-304 du 2 avril 1981](decret-n81-304-du-2-avril-1981)
 - [Décret n°81-898 du 2 octobre 1981](decret-n81-898-du-2-octobre-1981)
 - [Décret n°80-979 du 3 décembre 1980](decret-n80-979-du-3-decembre-1980)
 - [Décret n°81-1067 du 3 décembre 1981](decret-n81-1067-du-3-decembre-1981)
