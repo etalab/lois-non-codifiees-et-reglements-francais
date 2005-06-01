@@ -371,7 +371,6 @@
 - [Arrêté du 12 décembre 1997 (DEFA9751022A)](arrete-du-12-decembre-1997-defa9751022a)
 - [Arrêté du 12 décembre 1997 (DEFA9751026A)](arrete-du-12-decembre-1997-defa9751026a)
 - [Arrêté du 12 décembre 1997 (ECOA9730701A)](arrete-du-12-decembre-1997-ecoa9730701a)
-- [Arrêté du 12 décembre 1997 (ECOS9750052A)](arrete-du-12-decembre-1997-ecos9750052a)
 - [Arrêté du 12 décembre 1997 (EQUA9701942A)](arrete-du-12-decembre-1997-equa9701942a)
 - [Arrêté du 12 décembre 1997 (FPPA9700267A)](arrete-du-12-decembre-1997-fppa9700267a)
 - [Arrêté du 12 février 1997 (EQUS9700194A)](arrete-du-12-fevrier-1997-equs9700194a)
