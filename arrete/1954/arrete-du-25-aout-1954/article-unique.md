@@ -8,9 +8,19 @@ Personnel affecté au commandement et à la conduite des aéronefs.
 
 Catégorie "Essais et réceptions".
 
-Pilotes d'essais.
+Pilote d'essais expérimental d'avions ;
 
-Pilotes de réceptions.
+Pilote d'essais d'avions ;
+
+Pilote d'essais d'avions légers ;
+
+Pilote d'essais expérimental d'hélicoptères ;
+
+Pilote d'essais d'hélicoptères ;
+
+Pilote de réceptions d'avions ;
+
+Pilote de réceptions d'hélicoptère.
 
 Catégorie "Transport aérien"
 
@@ -30,7 +40,7 @@ Pilotes professionnels de 1re classe d'avion.
 
 Pilotes professionnels d'avions.
 
-Pilotes professionnels d'hélicoptères
+Pilotes professionnels d'hélicoptère.
 
 II - Section B
 
@@ -38,23 +48,25 @@ Personnel affecté au service à bord des moteurs, machines et instruments diver
 
 Catégorie "Essais et Réceptions",
 
-Ingénieurs navigants d'essais.
+Ingénieur navigant d'essais ;
 
-Mécaniciens navigants possédant la qualification "Essais et réceptions"
+Expérimentateur navigant d'essais ;
 
-Radionavigants possédant la qualification "Essais et réceptions".
+Mécanicien navigant d'essais ;
+
+Mécanicien navigant de réceptions.
 
 Catégorie "Transport Aérien"
 
-Navigateurs
+Navigateurs ;
 
-Mécaniciens navigants
+Mécaniciens navigants ;
 
 Radionavigants.
 
 Catégorie "Travail aérien"
 
-Navigateurs.
+Navigateurs ;
 
 Mécaniciens navigants.
 
@@ -66,9 +78,7 @@ Personnel affecté au service à bord des autres matériels montés sur aéronef
 
 Catégorie "Essais et réceptions"
 
-Expérimentateurs navigants d'essais.
-
-Parachutistes professionnels possédant la qualification "Essais et réceptions".
+Parachutiste professionnel possédant la qualification "Essais et réceptions.
 
 Catégorie "Travail aérien"
 
@@ -79,6 +89,10 @@ Photographes navigants professionnels.
 IV. **-**Section D
 
 Personnel affecté aux services complémentaires de bord, comprenant notamment le personnel navigant commercial du transport aérien.
+
+Catégorie "essais et réceptions"
+
+Spécialiste de cabine.
 
 Catégorie "Transport aérien"
 
