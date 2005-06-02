@@ -483,7 +483,6 @@
 - [Arrêté du 19 décembre 1990 (SPSS9002555A)](arrete-du-19-decembre-1990-spss9002555a)
 - [Arrêté du 19 février 1990 (SPSP9000392A)](arrete-du-19-fevrier-1990-spsp9000392a)
 - [Arrêté du 19 janvier 1990 (ECOT8910065A)](arrete-du-19-janvier-1990-ecot8910065a)
-- [Arrêté du 19 janvier 1990 (EQUV9000043A)](arrete-du-19-janvier-1990-equv9000043a)
 - [Arrêté du 19 janvier 1990 (PRME9061120A)](arrete-du-19-janvier-1990-prme9061120a)
 - [Arrêté du 19 janvier 1990 (PTTR9000076A)](arrete-du-19-janvier-1990-pttr9000076a)
 - [Arrêté du 19 juillet 1990 (AGRS9001563A)](arrete-du-19-juillet-1990-agrs9001563a)

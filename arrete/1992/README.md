@@ -679,7 +679,6 @@
 - [Arrêté du 20 décembre 1991 (SANP9200032A)](arrete-du-20-decembre-1991-sanp9200032a)
 - [Arrêté du 20 décembre 1991 (SANP9200033A)](arrete-du-20-decembre-1991-sanp9200033a)
 - [Arrêté du 20 décembre 1991 (SANP9200034A)](arrete-du-20-decembre-1991-sanp9200034a)
-- [Arrêté du 20 février 1989 (EQUV8900179A)](arrete-du-20-fevrier-1989-equv8900179a)
 - [Arrêté du 20 février 1992 (MENN9200444A)](arrete-du-20-fevrier-1992-menn9200444a)
 - [Arrêté du 20 février 1992 (MENN9200445A)](arrete-du-20-fevrier-1992-menn9200445a)
 - [Arrêté du 20 février 1992 (PTTS9200010A)](arrete-du-20-fevrier-1992-ptts9200010a)
