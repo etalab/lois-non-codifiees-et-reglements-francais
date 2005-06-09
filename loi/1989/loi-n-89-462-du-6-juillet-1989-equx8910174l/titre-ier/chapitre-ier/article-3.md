@@ -14,8 +14,6 @@ Le contrat de location est établi par écrit. Il doit préciser :
 
 - le montant du dépôt de garantie, si celui-ci est prévu.
 
-Le constat de risque d'exposition au plomb prévu à l'article L. 1334-5 du code de la santé publique doit être annexé au contrat de location.
-
 Un état des lieux, établi contradictoirement par les parties lors de la remise et de la restitution des clés ou, à défaut, par huissier de justice, à l'initiative de la partie la plus diligente et à frais partagés par moitié, est joint au contrat. Lorsque l'état des lieux doit être établi par huissier de justice, les parties en sont avisées par lui au moins sept jours à l'avance par lettre recommandée avec demande d'avis de réception. A défaut d'état des lieux, la présomption établie par l'article 1731 du code civil ne peut être invoquée par celle des parties qui a fait obstacle à l'établissement de l'état des lieux.
 
 Pendant le premier mois de la période de chauffe, le locataire peut demander que l'état des lieux soit complété par l'état des éléments de chauffage.
