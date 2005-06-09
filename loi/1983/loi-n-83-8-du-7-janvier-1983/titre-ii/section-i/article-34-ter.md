@@ -10,6 +10,6 @@ Elle comporte des formations spécialisées. Ces formations se réunissent au mo
 
 Elle se réunit au moins une fois par an, sur un ordre du jour déterminé conjointement par le représentant de l'Etat dans la région et le président du conseil régional, pour examiner les conditions de mise en oeuvre du schéma régional d'aménagement et de développement du territoire.
 
-Elle est consultée sur le schéma régional d'aménagement et de développement du territoire prévu à l'article 34 de la présente loi, les schémas de services collectifs prévus à l'article 2 de la loi n° 95-115 du 4 février 1995 précitée et les directives territoriales d'aménagement prévues à l'article L. 111-1-1 du code de l'urbanisme. Elle est également consultée sur les schémas régionaux et interdépartementaux qui concernent, dans la région, les services publics ainsi que les services privés participant à l'exercice d'une mission de service public.
+Elle est consultée sur le schéma régional d'aménagement et de développement du territoire prévu à l'article 34 de la présente loi et les directives territoriales d'aménagement prévues à l'article L. 111-1-1 du code de l'urbanisme. Elle est également consultée sur les schémas régionaux et interdépartementaux qui concernent, dans la région, les services publics ainsi que les services privés participant à l'exercice d'une mission de service public.
 
 Les avis qu'elle formule sont publics.
