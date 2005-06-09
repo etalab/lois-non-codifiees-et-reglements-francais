@@ -2,7 +2,7 @@
 
 Les pouvoirs publics sont représentés auprès du conseil supérieur et des conseils régionaux par un commissaire du gouvernement désigné parmi les membres du Conseil d'Etat.
 
-Le commissaire du Gouvernement auprès du conseil supérieur et des conseils régionaux de l'ordre des géomètres-experts est nommé par décret pris sur proposition du ministre chargé de l'urbanisme, après avis du ministre chargé de l'éducation, du ministre chargé de l'agriculture et du ministre chargé de l'économie et des finances.    Il reçoit ses instructions de chacun des ministres intéressés, chacun d'eux agissant dans le cadre de sa compétence.
+Le commissaire du Gouvernement auprès du conseil supérieur et des conseils régionaux de l'ordre des géomètres-experts est nommé par décret pris sur proposition du ministre chargé de l'urbanisme, après avis du ministre chargé de l'éducation, du ministre chargé de l'agriculture et du ministre chargé de l'économie et des finances. Sauf en matière disciplinaire, il reçoit ses instructions de chacun des ministres intéressés, chacun d'eux agissant dans le cadre de sa compétence.
 
 Le commissaire du Gouvernement participe avec voix délibérative aux séances du conseil supérieur siégeant en formation disciplinaire. Son délégué participe avec voix délibérative aux séances du conseil régional siégeant en formation disciplinaire.
 
