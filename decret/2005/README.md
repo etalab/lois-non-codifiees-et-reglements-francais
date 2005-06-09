@@ -114,6 +114,7 @@
 - [Décret n°2005-335 du 8 avril 2005 (SANS0521142D)](decret-n2005-335-du-8-avril-2005-sans0521142d)
 - [Décret n°2005-336 du 8 avril 2005 (SANH0520724D)](decret-n2005-336-du-8-avril-2005-sanh0520724d)
 - [Décret n°2005-339 du 8 avril 2005 (MAEF0510025D)](decret-n2005-339-du-8-avril-2005-maef0510025d)
+- [Décret n°2005-653 du 8 juin 2005 (PRMX0508506D)](decret-n2005-653-du-8-juin-2005-prmx0508506d)
 - [Décret n°2005-99 du 8 février 2005 (INTE0500009D)](decret-n2005-99-du-8-fevrier-2005-inte0500009d)
 - [Décret du 9 février 2005 (AGRP0500009D)](decret-du-9-fevrier-2005-agrp0500009d)
 - [Décret n°2004-1350 du 9 décembre 2004 (MCCX0400194D)](decret-n2004-1350-du-9-decembre-2004-mccx0400194d)

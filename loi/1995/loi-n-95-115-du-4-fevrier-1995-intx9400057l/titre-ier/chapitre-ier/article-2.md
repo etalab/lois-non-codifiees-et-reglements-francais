@@ -32,8 +32,6 @@ Les choix stratégiques sont mis en oeuvre dans les schémas de services collect
 
 - le schéma de services collectifs de l'information et de la communication ;
 
-- les schémas multimodaux de services collectifs de transport de voyageurs et de transport de marchandises ;
-
 - le schéma de services collectifs de l'énergie ;
 
 - le schéma de services collectifs des espaces naturels et ruraux ;
