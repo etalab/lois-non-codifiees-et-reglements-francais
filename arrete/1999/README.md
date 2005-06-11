@@ -546,7 +546,6 @@
 - [Arrêté du 23 juin 1999 (EQUS9900867A)](arrete-du-23-juin-1999-equs9900867a)
 - [Arrêté du 23 juin 1999 (EQUT9900890A)](arrete-du-23-juin-1999-equt9900890a)
 - [Arrêté du 23 juin 1999 (INTD9900339A)](arrete-du-23-juin-1999-intd9900339a)
-- [Arrêté du 23 mars 1999 (MESF9910425A)](arrete-du-23-mars-1999-mesf9910425a)
 - [Arrêté du 23 novembre 1999 (ECOR9904567A)](arrete-du-23-novembre-1999-ecor9904567a)
 - [Arrêté du 23 novembre 1999 (EQUS9901692A)](arrete-du-23-novembre-1999-equs9901692a)
 - [Arrêté du 23 septembre 1999 (AGRG9902025A)](arrete-du-23-septembre-1999-agrg9902025a)

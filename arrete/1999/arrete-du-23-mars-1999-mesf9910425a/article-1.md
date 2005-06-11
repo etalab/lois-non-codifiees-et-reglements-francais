@@ -1,7 +1,0 @@
-# Article 1
-
-Le montant annuel de l'aide destinée à financer le poste occupé à temps plein par un salarié permanent de l'établissement pour assurer l'accompagnement social et professionnel de douze salariés en insertion agréés par l'Agence nationale pour l'emploi (équivalent temps plein), prévue par l'article 5 du décret du 18 février 1999 susvisé, est fixé à 22 415 Euros à compter du 1er janvier 2004. Par dérogation prévue dans la convention entre l'entreprise de travail temporaire d'insertion et l'Etat, cet accompagnement peut être effectué par une autre structure d'insertion par l'activité économique dans le cadre d'une convention liant les deux organismes et précisant la nature, la durée des actions ainsi que le nom du salarié de l'organisme prestataire chargé de leur mise en oeuvre. Le conseil départemental de l'insertion par l'activité économique est informé de cette convention.
-
-Cette aide est proratisée en fonction de la durée annuelle d'occupation du poste d'accompagnement et du nombre de salariés en insertion mis à disposition (équivalent temps plein).
-
-Cette aide ne peut se cumuler, pour un même salarié, avec une autre aide à l'emploi, à l'exception des aides attribuées aux entreprises dans le cadre de l'article 3 de la loi n° 98-461 du 13 juin 1998 ou d'allégements institués dans le cadre de la réduction de la durée légale du travail. Ces dispositions sont applicables à compter du 1er juin 1999.
