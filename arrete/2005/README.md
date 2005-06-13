@@ -304,6 +304,7 @@
 - [Arrêté du 27 décembre 2005 (DOMA0500054A)](arrete-du-27-decembre-2005-doma0500054a)
 - [Arrêté du 27 janvier 2005 (ECOS0550007A)](arrete-du-27-janvier-2005-ecos0550007a)
 - [Arrêté du 27 janvier 2005 (ECOT0510522A)](arrete-du-27-janvier-2005-ecot0510522a)
+- [Arrêté du 27 janvier 2005 (EQUA0401589A)](arrete-du-27-janvier-2005-equa0401589a)
 - [Arrêté du 27 juillet 2004 (EQUS0401066A)](arrete-du-27-juillet-2004-equs0401066a)
 - [Arrêté du 27 mai 2005 (BUDF0500017A)](arrete-du-27-mai-2005-budf0500017a)
 - [Arrêté du 27 mai 2005 (DEFP0500537A)](arrete-du-27-mai-2005-defp0500537a)

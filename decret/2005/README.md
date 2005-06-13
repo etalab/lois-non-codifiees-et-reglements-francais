@@ -118,6 +118,7 @@
 - [Décret n°2005-99 du 8 février 2005 (INTE0500009D)](decret-n2005-99-du-8-fevrier-2005-inte0500009d)
 - [Décret du 9 février 2005 (AGRP0500009D)](decret-du-9-fevrier-2005-agrp0500009d)
 - [Décret n°2004-1350 du 9 décembre 2004 (MCCX0400194D)](decret-n2004-1350-du-9-decembre-2004-mccx0400194d)
+- [Décret n°2004-512 du 9 juin 2004 (MJSK0470101D)](decret-n2004-512-du-9-juin-2004-mjsk0470101d)
 - [Décret n°2005-1144 du 9 septembre 2005 (INTA0500265D)](decret-n2005-1144-du-9-septembre-2005-inta0500265d)
 - [Décret n°2005-218 du 9 mars 2005 (PREX0508197D)](decret-n2005-218-du-9-mars-2005-prex0508197d)
 - [Décret n°2005-221 du 9 mars 2005 (SOCF0510127D)](decret-n2005-221-du-9-mars-2005-socf0510127d)
