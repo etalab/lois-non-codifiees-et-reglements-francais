@@ -181,6 +181,7 @@
 - [Décret n°2005-359 du 13 avril 2005 (INTC0500083D)](decret-n2005-359-du-13-avril-2005-intc0500083d)
 - [Décret n°2005-360 du 13 avril 2005 (INTC0500079D)](decret-n2005-360-du-13-avril-2005-intc0500079d)
 - [Décret n°2005-361 du 13 avril 2005 (INTB0500080D)](decret-n2005-361-du-13-avril-2005-intb0500080d)
+- [Décret n°2005-665 du 13 juin 2005 (ECOT0551032D)](decret-n2005-665-du-13-juin-2005-ecot0551032d)
 - [Décret n°47-77 du 13 janvier 1947](decret-n47-77-du-13-janvier-1947)
 - [Décret n°2005-457 du 13 mai 2005 (MENA0500425D)](decret-n2005-457-du-13-mai-2005-mena0500425d)
 - [Décret n°2005-460 du 13 mai 2005 (JUSC0520359D)](decret-n2005-460-du-13-mai-2005-jusc0520359d)
