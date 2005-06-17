@@ -6,6 +6,6 @@ Sont interdits pour la chasse de tout gibier et pour la destruction des animaux 
 
 - l'emploi sur les armes à feu de tout dispositif silencieux destiné à atténuer le bruit au départ du coup ;
 
-- l'emploi de dispositifs de visée comportant un convertisseur d'image ou un amplificateur d'image électronique ;
+- l'emploi de sources lumineuses et de miroirs de nature à faciliter la capture ou la destruction du gibier ;
 
-- l'emploi de dispositifs de visée à rayon laser.
+- l'emploi délibéré de tout dispositif électrocutant.

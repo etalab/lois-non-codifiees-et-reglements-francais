@@ -1,11 +1,15 @@
 # Article 7
 
-Sont interdits pour la chasse et la destruction des animaux nuisibles :
+En application de l'article L. 424-4 du code de l'environnement, sont seuls autorisés pour la chasse et la destruction des animaux nuisibles les moyens d'assistance électronique suivants :
 
-- l'emploi d'émetteurs ou de récepteurs radiophoniques ou radiotéléphoniques ou d'engins (à bande magnétique ou à disque ou à puce) mécaniques ou électroniques reproducteurs de son ;
+- les dispositifs de localisation des chiens, dès lors qu'ils ne sont utilisés qu'après l'action de chasse dans le seul but de rechercher les chiens ;
 
-- l'emploi pour attirer le gibier de disques ou de bandes enregistrées reproduisant le cri des animaux ;
+- les appareils de repérage des rapaces de chasse au vol ;
 
-- l'emploi de sources lumineuses et de miroirs de nature à faciliter la capture ou la destruction du gibier ;
+- les viseurs à point rouge, sans convertisseur ou amplificateur d'image, et sans rayon laser ;
 
-- l'emploi délibéré de tout dispositif électrocutant.
+- pour la chasse de la bécasse des bois, les dispositifs de repérage des chiens qui marquent l'arrêt ;
+
+- les colliers de dressage de chiens ;
+
+- les casques atténuant le bruit des détonations.
