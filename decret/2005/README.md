@@ -271,6 +271,7 @@
 - [Décret n°2005-35 du 17 janvier 2005 (DEFD0401451D)](decret-n2005-35-du-17-janvier-2005-defd0401451d)
 - [Décret n°2005-36 du 17 janvier 2005 (DEFD0401452D)](decret-n2005-36-du-17-janvier-2005-defd0401452d)
 - [Décret n°2005-42 du 17 janvier 2005 (ECOT0437098D)](decret-n2005-42-du-17-janvier-2005-ecot0437098d)
+- [Décret n°2005-677 du 17 juin 2005 (ECOX0500013D)](decret-n2005-677-du-17-juin-2005-ecox0500013d)
 - [Décret n°2006-1399 du 17 novembre 2006 (EQUA0601806D)](decret-n2006-1399-du-17-novembre-2006-equa0601806d)
 - [Décret du 17 mai 2005 (AGRP0500510D)](decret-du-17-mai-2005-agrp0500510d)
 - [Décret n°2005-477 du 17 mai 2005 (PRMX0508417D)](decret-n2005-477-du-17-mai-2005-prmx0508417d)
