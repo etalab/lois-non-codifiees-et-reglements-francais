@@ -8,13 +8,13 @@
 
 - un extrait du FRP est transmis au traitement bénéfices agricoles réels en vue de la réalisation de statistiques et de simulations fiscales ;
 
-- l'initialisation des traitements BIC (bénéfices industriels et commerciaux), BNC (bénéfices non commerciaux) et RFA (remboursement forfaitaire agricole) est réalisée à partir d'une extraction du FRP ;
-
-- l'initialisation des traitements AMIS (aide micro aux inspections spécialisées) et GEREP (gestion des redevables de la fiscalité professionnelle) est réalisée à partir d'une extraction du FRP ;
+- l'initialisation des traitements BDRP (base de données des redevables professionnels), MIRIAM (aide à la gestion des créances relevant de la compétence des comptables des impôts), BIC (bénéfices industriels et commerciaux), BNC (bénéfices non commerciaux) et RFA (remboursement forfaitaire agricole) est réalisée à partir d'une extraction du FRP ;
 
 - un extrait du FRP est transmis à l'application taxe professionnelle pour identifier les redevables de ce fichier ;
 
-- l'application MEDOC fournit à l'application MADERE (module d'accélération de la délivrance des renseignements fonciers) les informations extraites du registre de dépôt.
+- l'application MEDOC fournit à l'application MADERE (module d'accélération de la délivrance des renseignements fonciers) les informations extraites du registre de dépôt, à l'application BDRP, le numéro FRP de toute nouvelle activité imposable créée et, à l'application MIRIAM, les informations nécessaires à la constitution des contribuables débiteurs.
+
+- l'application MEDOC reçoit de l'application BDRP toute modification relative aux obligations de résultats ou de TVA et tous éléments relatifs à la création d'une activité imposable.
 
 2. Cessions de fichiers à des organismes extérieurs :
 

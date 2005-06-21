@@ -2,7 +2,11 @@
 
 1. Le traitement reçoit de l'application Base de données des redevables professionnels (BDRP) les informations nominatives relatives aux éléments d'assiette.
 
-2. Le traitement transmet les bases calculées à l'application BDRP.
+2. Le traitement transmet :
+
+a) A l'application base de données des redevables professionnels (BDRP) les bases calculées ;
+
+b) A la base nationale de taxe professionnelle (BNTP) les informations afférentes à l'identification et à l'imposition des redevables.
 
 3. Les agents des centres des impôts et des centres départementaux d'assiette sont destinataires des informations traitées dans le cadre de leurs attributions.
 

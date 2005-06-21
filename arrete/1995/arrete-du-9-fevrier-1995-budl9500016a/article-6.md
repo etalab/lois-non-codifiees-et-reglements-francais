@@ -8,7 +8,7 @@ En consultation directe :
 
 - les agents habilités de la recette des impôts et des centres des impôts territorialement compétents pour la mise à jour des informations ;
 
-- les agents des inspections spécialisées des centres des impôts, chargés du suivi des obligations déclaratives des redevables, via les traitements AMIS et GEREP.
+- les agents des inspections spécialisées des centres des impôts, chargés du suivi des obligations déclaratives des redevables, via le traitement BDRP.
 
 Sur demande préalable :
 
@@ -28,6 +28,6 @@ Sur demande préalable :
 
 - les agents des recettes des impôts, pour les seuls dossiers qui relèvent de leur ressort territorial, dans le cadre de leurs habilitations ;
 
-- via le traitement GEREP, les agents des inspections spécialisées des centres des impôts, pour les informations portant sur les comptes gérés par la recette des impôts de leur ressort ;
+- via le traitement BDRP, les agents des inspections spécialisées des centres des impôts, pour les informations portant sur les comptes gérés par la recette des impôts de leur ressort ;
 
 - les agents des bureaux des hypothèques, pour les seuls comptes relatifs à leurs usagers.
