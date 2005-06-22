@@ -350,6 +350,7 @@
 - [Décret n°2005-285 du 21 mars 2005 (AGRP0500206D)](decret-n2005-285-du-21-mars-2005-agrp0500206d)
 - [Décret n°2005-367 du 21 avril 2005 (EQUX0400208D)](decret-n2005-367-du-21-avril-2005-equx0400208d)
 - [Décret n°2005-369 du 21 avril 2005 (AGRX0500019D)](decret-n2005-369-du-21-avril-2005-agrx0500019d)
+- [Décret n°2005-684 du 21 juin 2005 (SOCT0511076D)](decret-n2005-684-du-21-juin-2005-soct0511076d)
 - [Décret n°2005-832 du 21 juillet 2005 (MENF0501215D)](decret-n2005-832-du-21-juillet-2005-menf0501215d)
 - [Décret n°93-1182 du 21 octobre 1993 (ENVE9310013D)](decret-n93-1182-du-21-octobre-1993-enve9310013d)
 - [Décret n°2005-519 du 21 mai 2005 (DOMB0500002D)](decret-n2005-519-du-21-mai-2005-domb0500002d)
