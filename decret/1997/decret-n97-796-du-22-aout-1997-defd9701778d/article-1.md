@@ -1,3 +1,3 @@
 # Article 1
 
-Hormis les opérations d'acquisition relatives au maintien en condition opérationnelle des matériels et systèmes aériens, le service de l'aéronautique navale est chargé du soutien logistique aéronautique de la marine nationale. En particulier, il approvisionne les bases et les bâtiments de la marine en rechange et en matériels de soutien et assure le maintien en condition de ces matériels.
+Le service de l'aéronautique navale contribue au soutien de l'aéronautique navale pour les matériels aéronautiques qui ne sont pas confiés à la structure intégrée du maintien en condition opérationnelle des matériels aéronautiques du ministère de la défense ou à la délégation générale pour l'armement.

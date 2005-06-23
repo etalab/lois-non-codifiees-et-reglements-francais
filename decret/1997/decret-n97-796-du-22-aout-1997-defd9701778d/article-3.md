@@ -1,9 +1,9 @@
 # Article 3
 
-Le service de l'aéronautique navale fixe les dotations des matériels relevant de sa compétence.
+Le service de l'aéronautique navale est responsable des matériels d'environnement non inclus dans le périmètre de gestion de la structure intégrée du maintien en condition opérationnelle des matériels aéronautiques du ministère de la défense et mis en place sur les bases de l'aéronautique navale et sur les bâtiments de la marine.
 
-Il assure la répartition du matériel de soutien et le ravitaillement en rechanges.
+Pour ces matériels, il fixe les dotations, assure l'approvisionnement et planifie les réparations et les révisions ; il répartit et ravitaille les rechanges.
 
-Il approvisionne le matériel d'emploi commun non fourni par d'autres organismes de la marine ou par la délégation générale pour l'armement.
+Il approvisionne le matériel d'emploi commun non fourni par d'autres organismes.
 
-Il planifie les réparations et les révisions du matériel relevant de sa compétence qui sont assurées sous la responsabilité de la délégation générale pour l'armement.
+Il peut assurer la confection de matériels.
