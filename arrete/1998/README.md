@@ -630,8 +630,6 @@
 - [Arrêté du 20 avril 1998 (MESP9821609A)](arrete-du-20-avril-1998-mesp9821609a)
 - [Arrêté du 20 février 1985](arrete-du-20-fevrier-1985)
 - [Arrêté du 20 février 1998 (DEFM9801210A)](arrete-du-20-fevrier-1998-defm9801210a)
-- [Arrêté du 20 février 1998 (ECOP9700738A)](arrete-du-20-fevrier-1998-ecop9700738a)
-- [Arrêté du 20 février 1998 (ECOP9700739A)](arrete-du-20-fevrier-1998-ecop9700739a)
 - [Arrêté du 20 janvier 1998 (ECOI9800067A)](arrete-du-20-janvier-1998-ecoi9800067a)
 - [Arrêté du 20 janvier 1998 (ECOT9810325A)](arrete-du-20-janvier-1998-ecot9810325a)
 - [Arrêté du 20 janvier 1998 (EQUS9800085A)](arrete-du-20-janvier-1998-equs9800085a)
