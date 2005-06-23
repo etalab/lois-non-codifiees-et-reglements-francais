@@ -1,13 +1,9 @@
 # Article 6
 
-Le bureau Administration-organisation assure la gestion financière et administrative du service.
+Le bureau informatique est responsable du maintien en condition opérationnelle du système d'information logistique de l'aéronautique navale. Il est chargé :
 
-Il évalue les besoins budgétaires, propose les mesures du ressort du service, en suit l'exécution et en tient la comptabilité.
+- d'élaborer le schéma directeur de l'informatique du service en liaison avec l'état-major de la marine. Il exprime le besoin correspondant en ressources budgétaires, initialise sa contractualisation et en assure le suivi ;
 
-Il assure la gestion du personnel civil du service et définit son emploi.
+- de diriger l'administration et l'exploitation des systèmes d'information technico-logistiques et d'en assurer le soutien technique ;
 
-Il traite les questions relatives à l'informatisation du service.
-
-Il prépare les réunions du conseil de gestion du service.
-
-Il établit les normes de formation technique du personnel des forces mettant en oeuvre les techniques du service.
+- d'assurer la maîtrise d'ouvrage des évolutions et des développements des systèmes d'information technico-logistiques.

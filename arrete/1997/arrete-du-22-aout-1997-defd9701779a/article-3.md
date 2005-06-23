@@ -2,8 +2,10 @@
 
 Le service central de l'aéronautique navale comprend :
 
-- un bureau Ravitaillement ;
+- le bureau administration-organisation ;
 
-- un bureau Technique ;
+- le bureau logistique ;
 
-- un bureau Administration-organisation.
+- le bureau informatique ;
+
+- le bureau contrôle de gestion.

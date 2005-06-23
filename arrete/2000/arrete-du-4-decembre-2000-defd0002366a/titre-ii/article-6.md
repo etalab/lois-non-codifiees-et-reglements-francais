@@ -4,4 +4,4 @@ Le département des flottes est chargé d'assurer le maintien en condition opér
 
 L'ensemble de ces matériels est réparti au sein d'équipes spécialisées. Chacune d'elles est placée sous l'autorité d'un responsable de flotte qui assure la disponibilité de la flotte concernée et la gestion du budget qui lui est alloué à ce titre.
 
-Ce dernier est nommé par le directeur de la SIMMAD après approbation du comité directeur.
+Ce dernier est nommé par le directeur de la SIMMAD.

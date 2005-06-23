@@ -1,0 +1,5 @@
+# Article 3
+
+Sous réserve des dispositions de l'article 5, un nombre d'actions détenues par l'Etat et résultant de l'augmentation du capital de Gaz de France visée à l'article 1er compris entre 70 323 469 actions et 104 606 162 actions fera l'objet d'un placement garanti par un syndicat unique d'établissements bancaires auprès d'investisseurs institutionnels en France et hors de France au prix de l'offre à prix ouvert augmenté de 20 centimes d'euro par action.
+
+Le nombre d'actions cédées par l'Etat et d'actions nouvelles émises par Gaz de France pourra être augmenté respectivement d'un nombre maximum de 15 822 781 actions et d'un nombre maximum de 10 548 519 actions, par l'exercice d'une option consentie par l'Etat et Gaz de France au syndicat bancaire, qui pourra l'exercer au plus tard le 5 août 2005. La répartition entre actions existantes et nouvelles résultant de l'exercice de cette option sera identique à la répartition entre actions existantes et nouvelles mises à la disposition du marché dans le cadre de l'offre à prix ouvert visée à l'article 2 et du placement visé au présent article.
