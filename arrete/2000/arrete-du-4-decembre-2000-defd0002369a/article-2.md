@@ -16,7 +16,7 @@ Il comprend :
 
 - les matériels des systèmes d'armes aéroportés et d'avionique de mission et leurs logiciels ;
 
-- les matériels d'armement hormis les artifices et munitions ;
+- les armements ainsi que les artifices et les munitions, hormis ceux gérés par l'armée de terre et la marine ;
 
 - les matériels de sécurité et de sauvetage aéroportés, les lots de survie, les conteneurs largables ;
 

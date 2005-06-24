@@ -6,6 +6,8 @@ Il comprend :
 
 - les matériels de mise en oeuvre et de maintenance ;
 
+- les matériels sol et d'environnement à caractère aéronautique ;
+
 - les simulateurs et entraîneurs de vol, de mission, d'instruction ou d'entraînement et de maintenance ;
 
 - les matériels spécifiques nécessaires à la préparation et à la restitution des missions aériennes et les logiciels éventuellement associés ;
