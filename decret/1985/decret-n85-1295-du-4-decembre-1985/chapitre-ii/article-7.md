@@ -1,6 +1,6 @@
 # Article 7
 
-Ne peuvent siéger au conseil de discipline pour une affaire déterminée [*incompatibilité*] :
+Ne peuvent siéger au conseil de discipline pour une affaire déterminée :
 
 1° Le conjoint du praticien intéressé ou la personne ayant avec ce dernier un lien de parenté ou d'alliance jusqu'au quatrième degré inclus ;
 
@@ -10,6 +10,6 @@ Ne peuvent siéger au conseil de discipline pour une affaire déterminée [*inco
 
 4° Le praticien qui fait l'objet de la procédure ;
 
-5° Le médecin inspecteur de la santé ou le pharmacien inspecteur de la santé de la région où exerce le praticien concerné ;
+5° Le médecin inspecteur de la santé ou le pharmacien inspecteur de santé publique de la région où exerce le praticien concerné ;
 
 6° Toute personne exerçant ses fonction ou investie d'un mandat dans l'établissement où exerce le praticien qui fait l'objet de la procédure.
