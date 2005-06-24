@@ -28,11 +28,11 @@ Ces départements sont les suivants :
 
 - Le département d'Orsay ;
 
-- Le département des arts africains et océaniens ;
+- Le département des arts et civilisations d'Afrique, d'Asie, d'Océanie et des Amériques (musée du quai Branly) ;
 
 - Le département du XXe siècle (musée Picasso, musée de l'Orangerie à Paris, musée Fernand-Léger à Biot, musée Message biblique Marc-Chagall à Nice) ; le musée national d'art moderne du Centre national d'art et de culture Georges-Pompidou est associé à la mission scientifique de ce département ;
 
-- Le département des arts et traditions populaires ;
+- Le département des civilisations de l'Europe et de la Méditerranée ;
 
 - Le département des arts de l'Islam.
 
