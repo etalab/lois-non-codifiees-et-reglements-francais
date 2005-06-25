@@ -1,9 +1,5 @@
 # Article 7
 
-L'inspecteur technique de la gendarmerie relève directement du directeur général de la gendarmerie nationale.
+L'inspecteur du service de santé pour la gendarmerie nationale dispose d'un officier supérieur adjoint issu du corps des médecins des armées.
 
-Il procède à des inspections et mène à bien les missions d'études et d'information qui lui sont confiées.
-
-Sur instruction du ministre chargé des armées ou du directeur général de la gendarmerie nationale, il conduit des enquêtes administratives.
-
-Sur réquisition de l'autorité judiciaire, il effectue des enquêtes judiciaires.
+Subordonné au directeur général de la gendarmerie nationale, l'inspecteur du service de santé pour la gendarmerie nationale est chargé de missions d'inspection, d'étude et d'information, ainsi que d'enquêtes.

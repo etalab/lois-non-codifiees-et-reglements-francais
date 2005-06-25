@@ -22,6 +22,7 @@
 - [Ordonnance n° 2004-1248 du 24 novembre 2004 (INTX0400217R)](ordonnance-n-2004-1248-du-24-novembre-2004-intx0400217r)
 - [Ordonnance n° 2005-171 du 24 février 2005 (ECOX0400308R)](ordonnance-n-2005-171-du-24-fevrier-2005-ecox0400308r)
 - [Ordonnance n° 2005-174 du 24 février 2005 (EQUX0400306R)](ordonnance-n-2005-174-du-24-fevrier-2005-equx0400306r)
+- [Ordonnance n° 2005-704 du 24 juin 2005 (DOMX0500041R)](ordonnance-n-2005-704-du-24-juin-2005-domx0500041r)
 - [Ordonnance n° 2005-55 du 26 janvier 2005 (AGRX0400305R)](ordonnance-n-2005-55-du-26-janvier-2005-agrx0400305r)
 - [Ordonnance n° 2005-57 du 26 janvier 2005 (DOMX0400307R)](ordonnance-n-2005-57-du-26-janvier-2005-domx0400307r)
 - [Ordonnance n° 2005-554 du 26 mai 2005 (AGRX0500021R)](ordonnance-n-2005-554-du-26-mai-2005-agrx0500021r)
