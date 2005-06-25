@@ -1,6 +1,6 @@
 # Article 36
 
-I. - Sauf en cas de comportements de nature à porter atteinte aux intérêts fondamentaux de l'Etat, ou liés à des activités à caractère terroriste, ou constituant des actes de provocation à la discrimination, à la haine ou à la violence à raison de l'origine ou de la religion des personnes, ne peut faire l'objet d'une mesure d'expulsion, y compris dans les hypothèses mentionnées au dernier alinéa de l'article 35 :
+I. - Ne peuvent faire l'objet d'une mesure d'expulsion qu'en cas de comportements de nature à porter atteinte aux intérêts fondamentaux de l'Etat, ou liés à des activités à caractère terroriste, ou constituant des actes de provocation explicite et délibérée à la discrimination, à la haine ou à la violence contre une personne déterminée ou un groupe de personnes, y compris dans les hypothèses mentionnées au dernier alinéa de l'article 35 :
 
 1° L'étranger qui justifie par tous moyens résider habituellement sur le territoire de la République depuis qu'il a atteint au plus l'âge de treize ans ;
 

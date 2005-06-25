@@ -4,7 +4,9 @@ Sauf si sa présence constitue une menace pour l'ordre public, la carte de séjo
 
 1° A l'étranger mineur, ou dans l'année qui suit son dix-huitième anniversaire, dont l'un des parents au moins est titulaire de la carte de séjour temporaire ou de la carte de résident, ainsi qu'à l'étranger entré régulièrement sur le territoire de la République dont le conjoint est titulaire de l'une ou l'autre de ces cartes, s'ils ont été autorisés à séjourner à Mayotte au titre du regroupement familial ;
 
-2° A l'étranger, ne vivant pas en état de polygamie, marié avec un ressortissant de nationalité française, à condition que son entrée sur le territoire de la République ait été régulière, que la communauté de vie n'ait pas cessé, que le conjoint ait conservé la nationalité française et, lorsque le mariage a été célébré à l'étranger, qu'il ait été transcrit préalablement sur les registres de l'état civil français.
+2° A l'étranger, ne vivant pas en état de polygamie, marié avec un ressortissant de nationalité française, à condition que son entrée sur le territoire de la République ait été régulière, que la communauté de vie n'ait pas cessé, que le conjoint ait conservé la nationalité française et, lorsque le mariage a été célébré à l'étranger, qu'il ait été transcrit préalablement sur les registres de l'état civil français ;
+
+3° A l'étranger né à Mayotte, qui justifie par tout moyen y avoir résidé pendant au moins huit ans de façon continue et suivi, après l'âge de dix ans, une scolarité d'au moins cinq ans dans un établissement scolaire français, à la condition qu'il fasse sa demande entre l'âge de seize ans et l'âge de vingt et un ans.
 
 La carte délivrée au titre du présent article donne droit à l'exercice d'une activité professionnelle.
 
