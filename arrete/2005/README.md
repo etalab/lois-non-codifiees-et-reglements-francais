@@ -157,6 +157,7 @@
 - [Arrêté du 15 mars 2005 (SOCF0510481A)](arrete-du-15-mars-2005-socf0510481a)
 - [Arrêté du 16 décembre 2004 (ECOP0401033A)](arrete-du-16-decembre-2004-ecop0401033a)
 - [Arrêté du 16 février 2005 (ECOT0520003A)](arrete-du-16-fevrier-2005-ecot0520003a)
+- [Arrêté du 16 juin 2005 (AGRF0501360A)](arrete-du-16-juin-2005-agrf0501360a)
 - [Arrêté du 16 juin 2005 (ECOT0551040A)](arrete-du-16-juin-2005-ecot0551040a)
 - [Arrêté du 16 juin 2005 (JUSF0550067A)](arrete-du-16-juin-2005-jusf0550067a)
 - [Arrêté du 16 mars 2005 (DEFD0500283A)](arrete-du-16-mars-2005-defd0500283a)

@@ -3,6 +3,7 @@
 - [Chapitre Ier : Pari simple](chapitre-ier)
 - [Chapitre II : Pari par reports](chapitre-ii)
 - [Chapitre IV : Pari couplé](chapitre-iv)
+- [Chapitre IV bis : Pari couplé hippodrome](chapitre-iv-bis)
 - [Chapitre V : Paris 2 sur 4](chapitre-v)
 - [Chapitre VII : Pari tiercé](chapitre-vii)
 - [Chapitre VIII : Pari triplet](chapitre-viii)
