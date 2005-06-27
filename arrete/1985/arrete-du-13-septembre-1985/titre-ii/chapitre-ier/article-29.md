@@ -16,6 +16,4 @@ Lorsque le nombre de chevaux classés à l'arrivée est inférieur à deux pour 
 
 5° Course reportée. - Si, par décision des commissaires, une course est reportée et courue le même jour, tous les paris "simple" enregistrés sur cette course sont normalement exécutés.
 
-Aucun pari "simple" nouveau n'est enregistré sur la course reportée et aucun remboursement n'est effectué sur les paris déjà enregistrés, à l'exception de ceux portant sur les chevaux qui ne participent pas à la course recourue.
-
 Si la course est recourue un autre jour, tous les paris "simple" enregistrés au Pari mutuel urbain et au Pari mutuel hippodrome sont remboursés.

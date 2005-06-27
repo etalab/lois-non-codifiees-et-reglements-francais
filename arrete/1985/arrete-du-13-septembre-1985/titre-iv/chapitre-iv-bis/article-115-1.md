@@ -1,6 +1,6 @@
 # Article 115-1
 
-Lorsque l'enregistrement des paris s'effectue dans un poste d'enregistrement connecté au système informatique central du parti mutuel urbain fonctionnant en temps réel, les dispositions suivantes sont applicables.
+Lorsque l'enregistrement des paris s'effectue dans les postes d'enregistrement et aux guichets des hippodromes connectés au système informatique central du Pari mutuel urbain fonctionnant en temps réel, les dispositions suivantes sont applicables.
 
 1. Etablissement du formulaire support de communication du pari.
 

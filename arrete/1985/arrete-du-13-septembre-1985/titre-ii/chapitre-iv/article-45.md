@@ -1,51 +1,47 @@
 # Article 45
 
-Calcul des rapports. - Pour chaque type de pari, "couplé gagnant" ou "couplé placé", le montant des paris remboursés et des prélèvements légaux est défalqué du total des enjeux.
+Formules.
 
-Après déduction du montant des paiements effectués sur les paris traités en pari "simple gagnant" ou "placé", en application des dispositions de l'article 44 et de l'article 45, paragraphe 3 ci-dessous, on obtient la masse à partager.
+Les parieurs peuvent enregistrer leurs paris soit sur le tableau "Couplé gagnant", soit sur le tableau "Couplé placé". La formule "à cheval" permet d'enregistrer par mises égales sur les deux tableaux.
 
-Le calcul des rapports bruts s'effectue comme suit :
+Ils peuvent également enregistrer leurs paris "Couplé" soit sous forme de combinaisons unitaires, combinant deux des chevaux déclarés partants, soit sous forme de formules dites "combinées ou "champ".
 
-1. Pari "couplé gagnant" :
+1. Les formules combinées :
 
-a) Cas d'arrivée normale :
+Les formules combinées englobent l'ensemble des paris "Couplé combinant entre eux, deux à deux, un certain nombre de chevaux sélectionnés par le parieur.
 
-Dans le cas d'une seule combinaison payable, la masse à partager est répartie au prorata du nombre des mises sur cette combinaison.
+a) Dans le cas d'un pari "Couplé", soit "Gagnant sans ordre d'arrivée stipulé, soit "Placé", soit "à cheval", si le parieur sélectionne K chevaux, sa formule englobe :
 
-b) Cas d'arrivée "dead heat" :
+K x (K - 1)
 
-Dans le cas de plusieurs combinaisons payables, le total des mises sur ces diverses combinaisons est retiré de la masse à partager. Le bénéfice à répartir ainsi obtenu est divisé en autant de parties égales qu'il y a de combinaisons payables différentes. Chacune de ces parties est ensuite répartie au prorata du nombre de mises sur chaque combinaison payable. Les quotients ainsi obtenus, augmentés de l'unité de mise, constituent les rapports bruts pour chacune des combinaisons.
+________________
 
-2. Pari "couplé placé" :
+2
 
-Le montant de toutes les mises sur les diverses combinaisons payables est retiré de la masse à partager ; le reste ainsi obtenu constitue le "bénéfice à répartir".
+paris "Couplé" soit "Gagnant" soit "Placé", soit "à cheval".
 
-a) Cas d'arrivée normale :
+b) Dans le cas d'un pari "Couplé gagnant avec ordre d'arrivée stipulé, le parieur peut n'engager chaque combinaison de deux chevaux parmi sa sélection que dans un ordre relatif stipulé. La formule correspondante dénommée "formule simplifiée" englobe :
 
-Le bénéfice à répartir est divisé en trois parties égales. Chacune de ces parties est à son tour partagée au prorata du nombre de mises sur chacune de ces combinaisons. Les quotients ainsi obtenus augmentés de l'unité de mise constituent les rapports bruts pour chacune de ces combinaisons.
+K x (K - 1)
 
-b) Cas d'arrivée "dead heat" :
+____________
 
-1. Dans le cas de trois chevaux ou plus classés "dead beat" à la première place, le bénéfice à répartir est divisé en autant de parties égales qu'il y a de combinaisons "couplé placé" payables. Chacune de ces parts est à son tour partagée au prorata du nombre de mises sur chacune de ces combinaisons. Les quotients ainsi obtenus augmentés de l'unité de mise constituent les rapports bruts pour chacune des combinaisons payables.
+2
 
-2. Dans le cas de "dead heat" de deux chevaux à la première place et d'un ou plusieurs chevaux à la troisième place, un tiers du bénéfice à répartir est affecté à la combinaison des deux chevaux classés premier, un tiers à l'ensemble des combinaisons de l'un des chevaux classés premier avec chacun des chevaux classés troisième et un tiers à l'ensemble des combinaisons de l'autre cheval classé premier, avec chacun des chevaux classés troisièmes. Chaque portion du bénéfice ainsi définie est à son tour divisée en autant de parties égales qu'elle comporte de combinaisons payables différentes par les chevaux qui les composent. Chacune de ces parties est à son tour répartie au prorata du nombre de mises sur la combinaison payable correspondante. Les quotients ainsi obtenus augmentés de l'unité de mise constituent les rapports bruts pour chacune des combinaisons payables.
+paris "Couplé gagnant".
 
-3. Dans le cas de "dead heat" de deux chevaux ou plus à la deuxième place, deux tiers du bénéfice à répartir sont affectés à l'ensemble des combinaisons du cheval classé premier avec chacun des chevaux classés deuxième et un tiers à l'ensemble des combinaisons des chevaux classés deuxième entre eux. Chaque portion ainsi définie est à son tour divisée en autant de parties égales qu'elle comporte de combinaisons payables différentes par les chevaux qui les composent. Chacune de ces parties est à son tour répartie au prorata du nombre de mises sur la combinaison payable correspondante. Les quotients ainsi obtenus augmentés de l'unité de mise constituent les rapports bruts pour chacune des combinaisons payables.
+S'il désire, pour chaque combinaison de deux chevaux choisis parmi sa sélection, les deux ordres relatifs d'arrivée possibles, la formule correspondante, dénommée "formule dans tous les ordres, englobe :
 
-4. Dans le cas de "dead heat" de deux chevaux ou plus à la troisième place, un tiers du bénéfice à répartir est affecté à la combinaison des chevaux classés premier et deuxième, un tiers à l'ensemble des combinaisons du cheval classé premier avec chacun des chevaux classés troisième et un tiers à l'ensemble des combinaisons du cheval classé deuxième avec chacun des chevaux classés troisième. Chaque portion du bénéfice ainsi définie est à son tour divisée en autant de parties égales qu'elle comporte de combinaisons payables différentes par les chevaux qui les composent. Chacune de ces parties est à son tour répartie au prorata du nombre de mises sur la combinaison payable correspondante. Les quotients ainsi obtenus, augmentés de l'unité de mise, constituent les rapports bruts pour chacune des combinaisons payables.
+K x (K - 1) paris "Couplé gagnant".
 
-3. Cas des chevaux non partants :
+2. Les formules "champ d'un cheval" :
 
-1° Dans les courses comportant un ou plusieurs chevaux non partants, le rapport cc spécial gagnant" de la combinaison du cheval classé premier ou, en cas de cc dead heat", de l'un des chevaux classés premier et de l'un quelconque des chevaux non partants tel qu'il a été prévu au paragraphe b de l'article 44 ci-dessus, est égal au rapport "simple gagnant" de ce cheval, sous réserve des dispositions des paragraphes 3 et 4 ci-dessous.
+Elles englobent l'ensemble des paris "Couplé" combinant un cheval de base désigné par le parieur avec tous les autres chevaux officiellement déclarés partants (champ total) ou avec une sélection de ces chevaux (champ partiel).
 
-2° De même, le rapport "spécial placé" de la combinaison de l'un des chevaux classés aux deux ou trois premières places et de l'un quelconque des chevaux non partants, tel qu'il a été prévu au paragraphe c de l'article 44 ci-dessus, est égal au rapport "simple placé" de ce cheval, sous réserve des dispositions des paragraphes 3 et 4 ci-dessous.
+a) Dans le cas d'un pari "Couplé gagnant" sans ordre d'arrivée stipulé, si la course comporte N chevaux officiellement partants, le "champ total englobe (N - 1) paris "Couplé. S'il s'agit d'un "champ partiel d'un cheval de base avec une sélection de P chevaux, la formule englobe P paris "Couplé" ;
 
-3° Le rapport net "spécial gagnant" ne doit pas être supérieur au rapport net "couplé gagnant". Dans les cas de "dead heat" chaque rapport net "spécial gagnant" doit être au plus égal au plus petit rapport net "couplé gagnant" comportant ce même cheval ou au plus grand rapport net "couplé gagnant", s'il n'y en a pas comportant ce même cheval.
+b) Dans le cas d'un pari "Couplé gagnant" avec ordre d'arrivée stipulé, si la course comporte N chevaux officiellement partants, le "champ total" englobe (N - 1) paris "Couplé en formule simplifiée et 2 x (N - 1) paris "Couplé en formule "dans tous les ordres. Le "champ partiel d'un cheval de base avec une sélection de P chevaux englobe P paris "Couplé en formule simplifiée et 2 P paris "Couplé en formule "dans tous les ordres.
 
-De même, le rapport net "spécial placé" de la combinaison de l'un des chevaux classés au deux ou trois premières places et de l'un quelconque des chevaux non-partants doit être au plus égal au plus petit rapport net "couplé placé" comportant ce même cheval ou au plus grand rapport net "couplé placé" s'il n'y en a pas comportant ce même cheval.
+Pour les formules "champ simplifié total ou partiel", le parieur doit préciser la place à l'arrivée devant être occupée par le cheval de base.
 
-S'il en est autrement, par application des règles énoncées aux paragraphes 1 et 2 ci-dessus, les calculs de répartition sont faits de sorte que les rapports "spécial gagnant" ou "spécial placé" payés aux parieurs soient respectivement égaux aux rapports "couplé gagnant" ou "couplé placé" correspondants.
-
-4° Dans chacun des cas énoncés ci-dessus, les rapports "spécial gagnant" et "spécial placé" payés aux parieurs ne peuvent être inférieurs à 1,10 F par unité de mise, sauf application des dispositions de l'article 19.
-
-La présente disposition s'applique en particulier lorsque les paris "simple gagnant" ou "placé" sont remboursés.
+c) Les valeurs des formules "champ total" sont déterminées pour chaque course en fonction du nombre de chevaux déclarés partants par le programme officiel des courses et la liste officielle des partants au Pari mutuel urbain, compte tenu, le cas échéant, des chevaux déclarés non partants au moment de l'enregistrement du pari.

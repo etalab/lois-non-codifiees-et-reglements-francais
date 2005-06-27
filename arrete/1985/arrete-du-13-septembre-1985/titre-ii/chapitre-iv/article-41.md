@@ -1,13 +1,17 @@
 # Article 41
 
-Pour certaines épreuves désignées sur le programme officiel, des paris dénommés "couplé gagnant" ou "couplé placé" peuvent être organisés.
+Pour certaines épreuves désignées sur le programme officiel, des paris dénommés "Couplé gagnant ou "Couplé placé peuvent être organisés.
 
-Ces paris sont spécifiques au pari mutuel urbain et sont recueillis exclusivement dans les postes d'enregistrement du pari mutuel urbain.
+Un pari "Couplé gagnant" ou "placé" consiste à désigner deux chevaux d'une même course et à spécifier le type de pari "Couplé gagnant" ou "Couplé placé".
 
-Un pari "couplé gagnant" ou "placé" consiste à désigner deux chevaux d'une même course et à spécifier le type de pari "couplé gagnant" ou "couplé placé".
+Un pari "Couplé gagnant" est payable si les deux chevaux choisis occupent les deux premières places de l'épreuve quel que soit l'ordre d'arrivée.
 
-Un pari "couplé gagnant" est payable si les deux chevaux choisis occupent les deux premières places de l'épreuve.
+Toutefois, le programme officiel peut mentionner que les parieurs ont à désigner les deux premiers chevaux de la course dans l'ordre exact d'arrivée.
 
-Un pari "couplé placé" est payable si les deux chevaux choisis occupent deux des trois premières places de l'épreuve.
+Dans ce cas, l'enregistrement des paris est limité aux postes d'enregistrement et services du pari mutuel urbain ainsi qu'aux guichets des hippodromes offrant cette possibilité.
+
+Dans ce dernier cas, le pari est payable si les deux chevaux choisis occupent les deux premières places de l'épreuve et s'ils ont été désignés dans l'ordre exact d'arrivée.
+
+Un pari "Couplé placé" est payable si les deux chevaux choisis occupent deux des trois premières places de l'épreuve.
 
 Chaque cheval participant à la course est traité séparément dans la détermination des combinaisons payables.

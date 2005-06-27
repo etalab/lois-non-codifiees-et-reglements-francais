@@ -1,21 +1,19 @@
 # Article 43
 
-Dead heat. - Dans le cas d'arrivée "dead heat", les combinaisons payables sont les suivantes :
+Chevaux non partants :
 
-1. Pari "couplé gagnant" :
+I. - a) Sont remboursées les combinaisons "Couplé gagnant ou "Placé dans lesquelles les deux chevaux ont été non partants ;
 
-a) Dans le cas de "dead heat" de deux chevaux ou plus classés à la première place, les combinaisons, "couplé gagnant" payables sont toutes les combinaisons combinant deux à deux les chevaux classés "dead heat" à la première place.
+b) Lorsqu'une combinaison "Couplé gagnant comporte un cheval non partant et l'un des chevaux classés premiers à l'arrivée de la course, elle est réglée à un rapport "spécial gagnant défini à l'article 44, paragraphe 3, ci-dessous.
 
-b) Dans le cas de deux chevaux ou plus classés "dead heat" à la deuxième place, les combinaisons "couplé gagnant" payables sont toutes celles combinant le cheval classé premier avec l'un quelconque des chevaux classés "dead heat" à la deuxième place.
+Les combinaisons "Couplé gagnant comportant un cheval non partant et un cheval faisant écurie avec l'un des chevaux classés premiers ne donnent pas droit au paiement du rapport "spécial gagnant" ;
 
-Les combinaisons entre eux des chevaux classés "dead heat" à la deuxième place ne donnent pas lieu au paiement d'un rapport "couplé gagnant", sauf dispositions de l'article 48-2, B, d.
+c) Lorsqu'une combinaison "Couplé placé" comporte un cheval non partant et l'un des chevaux classés parmi les deux premiers si la course comportait moins de huit partants, ou parmi les trois premiers si la course comportait huit partants et plus, elle est réglée à un rapport "spécial placé défini à l'article 44, paragraphe 3, ci-dessous ;
 
-2. Pari "couplé placé" :
+d) Toutefois, les dispositions b et c ci-dessus ne s'appliquent pas aux formules "champ total et "champ partiel prévues à l'article 45 ci-après dont le cheval de base est non partant. Dans ce cas, les formules correspondantes sont remboursées.
 
-a) Dans le cas de "dead heat" de trois chevaux ou plus à la première place, les combinaisons "couplé placé" payables sont toutes les combinaisons deux à deux des chevaux classés premiers.
+II. - Les parieurs ont la possibilité pour le pari "Couplé" de désigner un cheval de complément, conformément aux dispositions de l'article 13, paragraphe II, du présent arrêté.
 
-b) Dans le cas de "dead heat" de deux chevaux à la première place et d'un cheval ou éventuellement de plusieurs chevaux classés "dead heat" à la troisième place, les combinaisons "couplé placé" payables sont, d'une part, la combinaison des deux chevaux classés "dead heat" à la première place et, d'autre part, les combinaisons de chacun des chevaux classés "dead heat" à la première place avec chacun des chevaux classés à la troisième place. En aucun cas, les combinaisons entre eux des chevaux classés "dead heat" à la troisième place ne peuvent donner lieu au paiement d'un rapport "couplé placé".
+Si le parieur n'a pas désigné de cheval de complément ou si le cheval de complément désigné est non-partant et si, dans ce dernier cas, cumulativement le pari engagé par le parieur comporte un ou deux autres chevaux ne prenant pas part à la course, le pari est traité selon les dispositions du paragraphe I ci-dessus.
 
-c) Dans le cas de "dead heat" de deux chevaux ou plus à la deuxième place, les combinaisons "couplé placé" payables sont, d'une part, toutes celles combinant le cheval classé premier avec chacun des chevaux classés deuxièmes et, d'autre part, toutes celles combinant entre eux les chevaux classés deuxième.
-
-d) Dans le cas de "dead heat" de deux chevaux ou plus à la troisième place, les combinaisons "couplé placé" payables sont celles du cheval classé premier et du cheval classé deuxième, celles du cheval classé premier avec chacun des chevaux classés troisième et celles du cheval classé deuxième avec chacun des chevaux classés troisième. En aucun cas, les combinaisons entre eux des chevaux classés troisième ne donnent lieu au paiement d'un rapport "couplé placé".
+Si le parieur a désigné un cheval de complément qui prend part à la course et si, après que ce cheval ait remplacé un cheval non partant, le pari engagé par le parieur comporte, de plus, un ou deux autres chevaux non partants, les dispositions du paragraphe I ci-dessus sont applicables.
