@@ -1,7 +1,5 @@
 # Article 26
 
-Dès la date de publication du présent décret, le secrétaire perpétuel et le secrétaire perpétuel adjoint sont intégrés dans la section dont ils ont été élus membres titulaires. Les correspondants deviennent membres correspondants.
+A compter de la date de publication du présent décret et au plus tard dans un délai de deux ans, le bureau engagera, en liaison avec les présidents de section, les opérations nécessaires à l'élection de nouveaux membres dans chacune des six sections, en vue d'atteindre l'effectif de treize membres titulaires par section, fixé par le présent décret.
 
-Dans le délai d'un an à compter de la publication du présent décret, il sera pourvu aux sièges complémentaires dans les sections restant déficitaires après les réintégrations prévues à l'alinéa précédent, pour atteindre le nombre des membres titulaires et des membres correspondants prévus à l'article 5.
-
-Dans les sections où les membres titulaires sont en surnombre, toute vacance se produisant ne donnera pas lieu à élection d'un nouveau membre titulaire si cette élection avait pour effet de porter à plus de onze le nombre des membres titulaires de la section.
+Dans le cadre de ces élections, chaque siège de membre titulaire à pourvoir pourra recueillir la candidature d'un ou plusieurs membres de l'Académie de marine occupant un siège de membre correspondant à la date de publication du présent décret, quelle que soit leur section d'origine, ainsi que des candidatures présentées par des personnes n'appartenant pas à l'académie.

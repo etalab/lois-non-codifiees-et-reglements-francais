@@ -1,6 +1,8 @@
 # Article 18
 
-Les élections des membres titulaires et des membres correspondants ont lieu au scrutin secret. Les votes peuvent être effectués par correspondance. Le dépouillement des bulletins a lieu en séance privée. Le nombre des votants doit être au moins égal à la moitié de celui des membres titulaires. Les bulletins blancs sont considérés comme des suffrages exprimés.
+Les élections des membres titulaires ont lieu par correspondance au scrutin secret. Le dépouillement des bulletins est effectué par les membres du bureau, assistés par le secrétaire général, au cours d'une séance particulière à laquelle les membres titulaires et honoraires peuvent assister.
+
+Le nombre des votants doit être au moins égal à la moitié de celui des membres titulaires. Les bulletins blancs sont considérés comme des suffrages exprimés.
 
 Au premier tour, le vote est acquis à la majorité absolue des suffrages exprimés.
 
