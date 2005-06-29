@@ -1,0 +1,5 @@
+# Article 1
+
+Les chefs des services d'insertion et de probation stagiaires recrutés en application de l'article 27 du décret du 21 septembre 1993 susvisé suivent une formation initiale qui comprend, en alternance, conformément à l'article 30 du même décret, des enseignements dispensés à l'Ecole nationale d'administration pénitentiaire (ENAP) et des stages, notamment dans les services de l'administration pénitentiaire ou dans des juridictions de l'ordre judiciaire ou dans des administrations publiques ou associées au service public et institutions étrangères.
+
+Cette formation doit permettre l'acquisition et le développement des compétences nécessaires aux fonctions de coordination des actions menées dans le cadre des partenariats développés, d'animation des équipes de travailleurs sociaux, de conseil technique auprès des conseillers d'insertion et de probation et des assistants de service social et de conduite d'actions en direction des personnes placées sous main de justice qui leur sont dévolues.
