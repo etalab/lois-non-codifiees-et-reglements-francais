@@ -784,7 +784,6 @@
 - [Décret n°2004-259 du 23 mars 2004 (JUSC0420214D)](decret-n2004-259-du-23-mars-2004-jusc0420214d)
 - [Décret n°2004-260 du 23 mars 2004 (ECOA0320029D)](decret-n2004-260-du-23-mars-2004-ecoa0320029d)
 - [Décret n°2004-263 du 23 mars 2004 (MAEA0420075D)](decret-n2004-263-du-23-mars-2004-maea0420075d)
-- [Décret n°2004-352 du 23 avril 2004 (PARX0407292D)](decret-n2004-352-du-23-avril-2004-parx0407292d)
 - [Décret n°2004-353 du 23 avril 2004 (MDIX0407276D)](decret-n2004-353-du-23-avril-2004-mdix0407276d)
 - [Décret n°2004-354 du 23 avril 2004 (SOCX0407280D)](decret-n2004-354-du-23-avril-2004-socx0407280d)
 - [Décret n°2004-355 du 23 avril 2004 (SOCX0407282D)](decret-n2004-355-du-23-avril-2004-socx0407282d)
