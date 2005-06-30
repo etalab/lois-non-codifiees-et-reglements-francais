@@ -28,5 +28,6 @@
 - [Ordonnance n° 2005-554 du 26 mai 2005 (AGRX0500021R)](ordonnance-n-2005-554-du-26-mai-2005-agrx0500021r)
 - [Ordonnance n° 2005-389 du 28 avril 2005 (SANX0500045R)](ordonnance-n-2005-389-du-28-avril-2005-sanx0500045r)
 - [Ordonnance n° 2005-395 du 28 avril 2005 (FPPX0500080R)](ordonnance-n-2005-395-du-28-avril-2005-fppx0500080r)
+- [Ordonnance n°2005-722 du 29 juin 2005 (ECOX0500044R)](ordonnance-n2005-722-du-29-juin-2005-ecox0500044r)
 - [Ordonnance n° 2005-299 du 31 mars 2005 (SANX0500014R)](ordonnance-n-2005-299-du-31-mars-2005-sanx0500014r)
 - [Ordonnance n° 2005-303 du 31 mars 2005 (ECOX0500002R)](ordonnance-n-2005-303-du-31-mars-2005-ecox0500002r)

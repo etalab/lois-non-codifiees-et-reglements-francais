@@ -1,0 +1,3 @@
+# Article 17
+
+Les dispositions du présent décret entreront en vigueur le 1er juillet 2005.

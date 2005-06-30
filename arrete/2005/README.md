@@ -342,6 +342,7 @@
 - [Arrêté du 29 décembre 2004 (EQUT0401715A)](arrete-du-29-decembre-2004-equt0401715a)
 - [Arrêté du 29 décembre 2005 (MCCB0500873A)](arrete-du-29-decembre-2005-mccb0500873a)
 - [Arrêté du 29 juin 2005 (DEFP0500720A)](arrete-du-29-juin-2005-defp0500720a)
+- [Arrêté du 29 juin 2005 (SOCN0510939A)](arrete-du-29-juin-2005-socn0510939a)
 - [Arrêté du 29 mars 2005 (DEFP0500410A)](arrete-du-29-mars-2005-defp0500410a)
 - [Arrêté du 29 mars 2005 (MAEF0510027A)](arrete-du-29-mars-2005-maef0510027a)
 - [Arrêté du 29 mars 2005 (SANH0521309A)](arrete-du-29-mars-2005-sanh0521309a)

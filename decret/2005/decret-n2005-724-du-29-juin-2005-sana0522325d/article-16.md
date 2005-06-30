@@ -1,0 +1,7 @@
+# Article 16
+
+I. - Les compétences dévolues à la maison départementale des personnes handicapées et à la commission des droits et de l'autonomie des personnes handicapées sont exercées, jusqu'à leur mise en place, par la commission technique d'orientation et de reclassement professionnel et, pour l'application de l'article R. 821-19, dans sa rédaction issue du présent décret, par la commission départementale d'éducation spéciale, ou leur équivalent à Saint-Pierre-et-Miquelon.
+
+II. - Sauf si les règles fixées par le présent décret leur sont plus favorables, les bénéficiaires d'une allocation aux adultes handicapés réduite dans les conditions prévues à l'article R. 821-8 du code de la sécurité sociale, dans sa rédaction antérieure au présent décret, et non astreintes au versement du forfait journalier continuent à bénéficier de leur allocation selon les règles précédentes. Le bénéfice de l'allocation leur est maintenu pendant une durée d'un an à compter de la date d'entrée en vigueur du présent décret ou pour toute la durée de leur hospitalisation si celle-ci est supérieure.
+
+III. - En application de l'article 95-IV de la loi n° 2005-102 du 11 février 2005, les articles R. 821-5-1, R. 821-5-2, R. 821-5-3, R. 821-6, R. 821-7, R. 821-7-1 et R. 821-15 pour les dispositions concernant le complément d'allocation aux adultes handicapés demeurent en vigueur dans leur rédaction antérieure à la date d'entrée en vigueur du présent décret.
