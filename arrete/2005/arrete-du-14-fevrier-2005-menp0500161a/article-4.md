@@ -1,6 +1,6 @@
 # Article 4
 
-Les épreuves du concours prévu à l'article 22-II du décret du 14 février 2005 susvisé sont fixées comme suit :
+Les épreuves du concours prévu à l'article 21-II du décret du 14 février 2005 susvisé sont fixées comme suit :
 
 Epreuves d'admissibilité
 
