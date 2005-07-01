@@ -739,7 +739,6 @@
 - [Décret n°2004-1436 du 23 décembre 2004 (MENS0402774D)](decret-n2004-1436-du-23-decembre-2004-mens0402774d)
 - [Décret n°2004-1438 du 23 décembre 2004 (INTC0400368D)](decret-n2004-1438-du-23-decembre-2004-intc0400368d)
 - [Décret n°2004-1440 du 23 décembre 2004 (INTB0400366D)](decret-n2004-1440-du-23-decembre-2004-intb0400366d)
-- [Décret n°2004-1441 du 23 décembre 2004 (INTC0400347D)](decret-n2004-1441-du-23-decembre-2004-intc0400347d)
 - [Décret n°2004-1442 du 23 décembre 2004 (SOCU0411942D)](decret-n2004-1442-du-23-decembre-2004-socu0411942d)
 - [Décret n°2004-1443 du 23 décembre 2004 (SOCF0412493D)](decret-n2004-1443-du-23-decembre-2004-socf0412493d)
 - [Décret n°2004-1444 du 23 décembre 2004 (SOCA0424834D)](decret-n2004-1444-du-23-decembre-2004-soca0424834d)
