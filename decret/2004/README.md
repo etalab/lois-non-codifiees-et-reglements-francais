@@ -17,7 +17,6 @@
 - [Décret n°2004-1331 du 1 décembre 2004 (DEVP0420054D)](decret-n2004-1331-du-1-decembre-2004-devp0420054d)
 - [Décret n°2004-472 du 1 juin 2004 (EQUX0400003D)](decret-n2004-472-du-1-juin-2004-equx0400003d)
 - [Décret n°2004-477 du 1 juin 2004 (SANS0421740D)](decret-n2004-477-du-1-juin-2004-sans0421740d)
-- [Décret n°2004-633 du 1 juillet 2004 (SOCX0400159D)](decret-n2004-633-du-1-juillet-2004-socx0400159d)
 - [Décret n°2004-636 du 1 juillet 2004 (SANP0421429D)](decret-n2004-636-du-1-juillet-2004-sanp0421429d)
 - [Décret n°2004-641 du 1 juillet 2004 (SOCX0400047D)](decret-n2004-641-du-1-juillet-2004-socx0400047d)
 - [Décret n°2004-643 du 1 juillet 2004 (DEFM0400711D)](decret-n2004-643-du-1-juillet-2004-defm0400711d)
