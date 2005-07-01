@@ -262,9 +262,11 @@ Clinique du Tonkin, 35, rue du Tonkin, 69100 Villeurbanne ;
 
 Fondation Dispensaire de Lyon, 10, rue de Sévigné, 69003 Lyon ;
 
-Hôpital de la Croix-Rousse (service de parasitologie du Pr Peyron), 94, Grand-Rue de la Croix-Rousse, 69004 Lyon ;
-
 Hôpital d'instruction des armées Desgenettes, 108, boulevard Pinel, 69275 Lyon Cedex 03 ;
+
+Hôpital de la Croix-Rousse (service des maladies infectieuses et tropicales du professeur Peyramond), 103, Grande-Rue de la Croix-Rousse, 69317 Lyon Cedex 04 ;
+
+Hôpital de la Croix-Rousse (service de parasitologie du professeur Peyron), 103, Grand-Rue de la Croix-Rousse, 69317 Lyon Cedex 04 ;
 
 70 - Haute-Saône
 
@@ -278,7 +280,7 @@ Centre hospitalier de Paray le Monial, 15, rue Pasteur, 71604 Paray-le-Monial Ce
 
 72 - Sarthe
 
-Service communal d'hygiène et de santé, 10, rue Barbier, 72000 Le Mans.
+Service santé environnement, 4 ter, boulevard Alexandre-Oyon, quartier Novaxis, 72000 Le Mans.
 
 73 - Savoie
 
