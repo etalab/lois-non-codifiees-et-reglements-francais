@@ -1,0 +1,3 @@
+# Article 16
+
+Les gains et rémunérations, au sens de l'article L. 741-10 du code rural, versés au cours d'un mois civil aux salariés employés dans les zones de revitalisation rurale mentionnées à l'article 1465 A du code général des impôts par des organismes visés au 1 de l'article 200 du même code qui ont leur siège social dans les zones susmentionnées sont exonérés des cotisations à la charge de l'employeur au titre des assurances sociales, des allocations familiales ainsi que du versement de transport et des contributions et cotisations au Fonds national d'aide au logement, dans la limite du produit du nombre d'heures rémunérées par le montant du salaire minimum de croissance majoré de 50 %.

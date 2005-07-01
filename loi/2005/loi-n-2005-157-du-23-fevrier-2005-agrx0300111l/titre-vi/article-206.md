@@ -1,0 +1,3 @@
+# Article 206
+
+Sous réserve des décisions juridictionnelles passées en force de chose jugée, sont validées, en tant que leur légalité serait contestée sur le fondement de l'annulation des délibérations du jury proclamant les résultats du concours d'attaché administratif principal des services déconcentrés du ministère de l'agriculture, de l'alimentation, de la pêche et des affaires rurales, les nominations dans le grade d'attaché administratif principal des services déconcentrés de deuxième classe des personnes inscrites sur les tableaux d'avancement en date des 25 mai 1999, 18 juin 2000 et 11 juin 2001, établis au titre des années 1999, 2000 et 2001.

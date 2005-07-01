@@ -1,0 +1,9 @@
+# Article 236
+
+Des groupements d'intérêt public dotés de la personnalité morale et de l'autonomie financière peuvent être constitués entre des personnes morales de droit public ou entre une ou plusieurs d'entre elles et une ou plusieurs personnes morales de droit privé pour conduire, à l'échelle nationale, régionale ou locale, des actions dans le domaine de l'aménagement du territoire et du développement économique, contribuant à l'étude, à la recherche ou à la formation, ainsi qu'à la réalisation d'actions spécifiques en matière d'aménagement du territoire, de prospection des investissements étrangers ou de développement des massifs de montagne.
+
+Lorsque l'Etat en est membre, les dispositions du chapitre Ier du titre IV du livre III du code de la recherche sont applicables à ces groupements d'intérêt public.
+
+Dans les autres cas, la convention constitutive du groupement est approuvée par le ou les représentants de l'Etat dans la ou les régions concernées, qui en assurent la publicité. Le groupement d'intérêt public d'aménagement et de développement du territoire est soumis aux règles de la comptabilité publique. Le comptable public est le trésorier-payeur général du département du siège social du groupement ou un agent comptable désigné par lui. Le groupement ne comprend pas de commissaire du Gouvernement.
+
+Les groupements d'intérêt public de développement local sont transformés en groupements d'intérêt public d'aménagement et de développement du territoire par décision simple de leur assemblée générale avant le terme fixé par la loi n° 2003-590 du 2 juillet 2003 urbanisme et habitat, sous réserve de se conformer aux dispositions du présent article. Cette transformation est effectuée à titre gratuit et ne donne lieu au paiement d'aucune indemnité, droit, taxe, salaire ou honoraire.
