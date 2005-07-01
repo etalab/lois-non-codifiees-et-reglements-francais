@@ -14,20 +14,20 @@ Par dérogation aux dispositions qui précèdent, la durée d'activité, telle q
 
 -soit dans un emploi nécessitant des compétences techniques de haut niveau dans un autre organisme,
 
-sera appréciée, au vu des éléments du dossier, par la commission chargée d'établir la liste d'aptitude.
+sera appréciée, au vu des éléments du dossier, par la commission chargée d'établir la liste d'aptitude. Pour les candidats de la 1re section non diplômés de l'Ecole nationale supérieure de sécurité sociale, la durée d'activité exercée dans les emplois précités peut être prise en compte par la commission dans la limite de 18 mois en vue de l'application de l'article 13.
 
-A l'exception des anciens élèves du Centre national d'études supérieures de sécurité sociale, les candidats doivent, en outre :
+A l'exception des anciens élèves du Ecole nationale supérieure de sécurité sociale , les candidats doivent, en outre :
 
 -être âgés de trente-cinq ans au moins au 1er janvier de l'année pour laquelle la liste est établie ;
 
--avoir obtenu l'attestation de formation délivrée à l'issue du parcours de formation effectué au Centre national d'études supérieures de sécurité sociale. Cette condition n'est pas exigée, d'une part, pour l'inscription sur la quatrième liste d'aptitude des candidats exerçant leur activité dans un organisme visé à l'article R. 111-1 du code de la sécurité sociale et, d'autre part, pour l'inscription sur une liste d'aptitude à un emploi de direction d'un organisme de catégorie C.
+-avoir obtenu l'attestation de formation délivrée à l'issue du parcours de formation effectué à l'Ecole nationale supérieure de sécurité sociale. Cette condition n'est pas exigée, d'une part, pour l'inscription sur la quatrième liste d'aptitude des candidats exerçant leur activité dans un organisme visé à l'article R. 111-1 du code de la sécurité sociale et, d'autre part, pour l'inscription sur une liste d'aptitude à un emploi de direction d'un organisme de catégorie C.
 
 Sont également dispensés de la production de l'attestation de formation :
 
-- les agents de direction et les agents comptables présentant une demande d'inscription sur une liste correspondant à un emploi dans lequel ils ont été précédemment nommés et agréés ;
+-les agents de direction et les agents comptables présentant une demande d'inscription sur une liste correspondant à un emploi dans lequel ils ont été précédemment nommés et agréés ;
 
-- les agents de direction et les agents comptables en fonction dans un organisme de sécurité sociale au 31 décembre 2001, titulaires d'une attestation de suivi fournie par le CNESSS avant le 31 décembre 2003, pour toutes les candidatures à inscription ultérieure sur la liste d'aptitude aux emplois d'agent de direction et d'agent comptable des organismes de mutualité sociale agricole ;
+-les agents de direction et les agents comptables en fonction dans un organisme de sécurité sociale au 31 décembre 2001, titulaires d'une attestation de suivi fournie par le CNESSS avant le 31 décembre 2003, pour toutes les candidatures à inscription ultérieure sur la liste d'aptitude aux emplois d'agent de direction et d'agent comptable des organismes de mutualité sociale agricole ;
 
-- les personnes titulaires d'une attestation de réussite au cycle de perfectionnement ;
+-les personnes titulaires d'une attestation de réussite au cycle de perfectionnement ;
 
-- les agents nommés et agréés sur un emploi de la première liste d'un organisme de catégorie B qui postulent à une inscription sur la deuxième liste de catégorie A.
+-les agents nommés et agréés sur un emploi de la première liste d'un organisme de catégorie B qui postulent à une inscription sur la deuxième liste de catégorie A.

@@ -22,4 +22,4 @@ c) Le délégué général adjoint de la FNEMSA ou son représentant.
 
 3. Représentants des agents de direction et des agents comptables :
 
-Trois représentants des agents de direction et des agents comptables dont un représentant des agents comptables et dont un au moins ayant la qualité d'ancien élève du Centre national d'études supérieures de la sécurité sociale, désignés par le ministre sur proposition de leurs organisations syndicales.
+Trois représentants des agents de direction et des agents comptables dont un représentant des agents comptables et dont un au moins ayant la qualité d'ancien élève de l'Ecole nationale supérieure de sécurité sociale, désignés par le ministre sur proposition de leurs organisations syndicales.
