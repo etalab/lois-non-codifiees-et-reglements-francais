@@ -379,7 +379,6 @@
 - [Décret n°2001-742 du 23 août 2001 (JUSB0110308D)](decret-n2001-742-du-23-aout-2001-jusb0110308d)
 - [Décret n°2001-743 du 23 août 2001 (JUSB0110303D)](decret-n2001-743-du-23-aout-2001-jusb0110303d)
 - [Décret n°2001-963 du 23 octobre 2001 (MESS0123643D)](decret-n2001-963-du-23-octobre-2001-mess0123643d)
-- [Décret n°59-1090 du 23 septembre 1959](decret-n59-1090-du-23-septembre-1959)
 - [Décret n°98-1052 du 23 novembre 1998 (PRMX9803131D)](decret-n98-1052-du-23-novembre-1998-prmx9803131d)
 - [Décret du 24 janvier 2001 (AGRP0001971D)](decret-du-24-janvier-2001-agrp0001971d)
 - [Décret n°2001-664 du 24 juillet 2001 (INTC0100178D)](decret-n2001-664-du-24-juillet-2001-intc0100178d)
