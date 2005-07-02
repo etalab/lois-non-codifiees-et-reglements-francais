@@ -269,6 +269,7 @@
 - [Arrêté du 22 mars 2005 (MENE0500604A)](arrete-du-22-mars-2005-mene0500604a)
 - [Arrêté du 22 mars 2005 (SANP0521016A)](arrete-du-22-mars-2005-sanp0521016a)
 - [Arrêté du 23 décembre 2004 (SANS0424368A)](arrete-du-23-decembre-2004-sans0424368a)
+- [Arrêté du 23 juin 2005 (SANP0522175A)](arrete-du-23-juin-2005-sanp0522175a)
 - [Arrêté du 23 novembre 2005 (ECOP0500896A)](arrete-du-23-novembre-2005-ecop0500896a)
 - [Arrêté du 23 septembre 2005 (BUDR0501321A)](arrete-du-23-septembre-2005-budr0501321a)
 - [Arrêté du 23 mai 2005 (DEFC0500523A)](arrete-du-23-mai-2005-defc0500523a)

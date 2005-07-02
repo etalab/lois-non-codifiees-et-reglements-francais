@@ -26,6 +26,8 @@ Guthmann (Jean-François), directeur général de l'alimentation au ministère d
 
 Raymond (Robert), directeur général du crédit à la Banque de France ;
 
-Un représentant du Premier ministre assiste aux réunions du comité ;
+Le directeur général des impôts.
+
+Un représentant du Premier ministre assiste aux réunions du comité.
 
 Le directeur des affaires civiles et du sceau, ou son représentant, peut assister aux réunions du comité en qualité d'observateur.
