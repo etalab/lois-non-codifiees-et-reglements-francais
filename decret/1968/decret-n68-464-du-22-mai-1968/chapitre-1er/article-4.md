@@ -1,15 +1,13 @@
 # Article 4
 
-Sous réserve des dispositions législatives et réglementaires relatives aux emplois réservés et de celles des articles 5 et 6 ci-dessous, les agents de recouvrement sont recrutés par la voie de deux concours distincts ouverts respectivement :
+Sous réserve des dispositions législatives et réglementaires relatives aux emplois réservés et de celles des articles 5 et 6 ci-dessous, les agents de recouvrement du Trésor sont recrutés respectivement :
 
-1° Aux candidats âgés de moins de quarante-cinq ans au 1er janvier de l'année du concours et titulaires du brevet d'études du premier cycle du second degré ou de titres ou de diplômes figurant sur une liste établie par arrêté conjoint du ministre chargé de l'économie et des finances et du ministre chargé de la fonction publique ;
+1° Par voie d'un concours externe ouvert aux candidats titulaires du diplôme national du brevet ou de titres ou de diplômes équivalents figurant sur une liste établie par arrêté conjoint du ministre chargé de l'économie, du ministre chargé du budget et du ministre chargé de la fonction publique.
 
-2° Dans la limite de 50 p. 100 des emplois mis aux concours, aux fonctionnaires et agents des services du trésor âgés de moins de cinquante ans au 1er janvier de l'année du concours et comptant, à la même date, une année au moins de services effectifs dans lesdits services.
+L'âge limite fixé par l'article 1er du décret n° 75-765 du 14 août 1975 relatif à la limite d'âge applicable au recrutement par concours des fonctionnaires des corps classés en catégories B, C et D n'est pas opposable aux candidats au concours prévu à l'alinéa précédent ;
 
-La limite d'âge de cinquante ans prévue ci-dessus n'est applicable qu'à l'expiration de la période mentionnée à l'article 1er, I du décret susvisé du 5 septembre 1974. Cette limite est reculée, dans la limite de dix ans, du temps de services publics valables ou validables pour la retraite précédemment accomplis.
+2° Par voie d'un concours interne ouvert, dans la limite de 50 % des emplois mis aux concours, aux fonctionnaires et agents non titulaires de l'Etat, des collectivités territoriales et des établissements publics en relevant, y compris ceux visés à l'article 2 de la loi n° 86-33 du 9 janvier 1986 portant dispositions statutaires relatives à la fonction publique hospitalière. Les candidats doivent compter, en cette qualité, une année au moins de services publics effectifs continus au 1er janvier de l'année au titre de laquelle le concours est organisé.
 
-Les candidats qui atteignent les limites d'âge prévues aux 1° et 2° du présent article durant une année au cours de laquelle aucun concours n'est ouvert peuvent faire acte de candidature au concours suivant.
-
-Les emplois offerts à l'un des concours qui ne sont pas pourvus par la nomination de candidats de la catégorie correspondante peuvent être attribués aux candidats de l'autre catégorie dans la limite de 10 p. 100 de l'ensemble des emplois mis aux concours.
+Les emplois offerts à l'un des concours qui ne sont pas pourvus par la nomination de candidats de la catégorie correspondante peuvent être attribués aux candidats de l'autre catégorie dans la limite de 50 % de l'ensemble des emplois mis aux concours.
 
 Les concours nationaux peuvent être ouverts avec affectation régionale.
