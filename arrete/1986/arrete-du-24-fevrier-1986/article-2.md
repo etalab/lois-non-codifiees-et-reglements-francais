@@ -130,7 +130,7 @@ La composition de ces commissions administratives paritaires est fixée ainsi qu
 <pre> </pre>
 </td>
 <td>
-<p>Ingénieurs de recherche hors classe</p>
+<p>Ingénieurs d'études hors classe</p>
 </td>
 <td width="49">
 <p align="center">2</p>
@@ -151,7 +151,7 @@ La composition de ces commissions administratives paritaires est fixée ainsi qu
 </tr>
 <tr>
 <td>
-<p>Ingénieurs de recherche de 1<sup>re</sup> classe </p>
+<p>Ingénieurs de recherche de 1re classe </p>
 </td>
 <td width="49">
 <p align="center">2</p>
@@ -162,7 +162,7 @@ La composition de ces commissions administratives paritaires est fixée ainsi qu
 </tr>
 <tr>
 <td>
-<p>Ingénieurs de recherche de 2<sup>e</sup> classe et chargés d'administration de 1re classe</p>
+<p>Ingénieurs de recherche de 2e classe </p>
 </td>
 <td width="49">
 <p align="center">3</p>
@@ -195,7 +195,9 @@ La composition de ces commissions administratives paritaires est fixée ainsi qu
 </td>
 </tr>
 <tr>
-<td>Ingénieurs d'études de 1re classe et chargés de mission de la recherche</td>
+<td>
+<p>Ingénieurs d'études de 1re classe, chargés de mission de la recherche et attachés principaux d'administration de la recherche de 2e classe </p>
+</td>
 <td>
 <p align="center">2</p>
 </td>
@@ -205,7 +207,7 @@ La composition de ces commissions administratives paritaires est fixée ainsi qu
 </tr>
 <tr>
 <td>
-<p>Ingénieurs d'études de 2<sup>re</sup> classe </p>
+<p>Ingénieurs d'études de 2e classe et attachés d'administration de la recherche. </p>
 </td>
 <td width="49">
 <p align="center">3</p>
@@ -216,9 +218,7 @@ La composition de ces commissions administratives paritaires est fixée ainsi qu
 </tr>
 <tr>
 <td>
-<div align="center">
 <pre>5</pre>
-</div>
 </td>
 <td>
 <p>Assistants ingénieurs</p>
@@ -238,12 +238,10 @@ La composition de ces commissions administratives paritaires est fixée ainsi qu
 </tr>
 <tr>
 <td rowspan="3">
-<div align="center">
 <pre>6</pre>
-</div>
 </td>
 <td>
-<p>Techniciens de la recherche de classe exceptionnelle</p>
+<p>Techniciens de la recherche de classe exceptionnelle et secrétaires d'administration de la recherche de classe exceptionnelle </p>
 </td>
 <td width="49">
 <p align="center">3</p>
@@ -252,26 +250,26 @@ La composition de ces commissions administratives paritaires est fixée ainsi qu
 <p align="center">3</p>
 </td>
 <td rowspan="3" width="49">
-<p align="center">8</p>
+<p align="center">9</p>
 </td>
 <td rowspan="3">
-<p align="center">8</p>
+<p align="center">9</p>
 </td>
 </tr>
 <tr>
 <td>
-<p>Techniciens de la recherche de classe supérieure</p>
+<p>Techniciens de la recherche de classe supérieure et secrétaires d'administration de la recherche de classe supérieure </p>
 </td>
 <td width="49">
-<p align="center">2</p>
+<p align="center">3</p>
 </td>
 <td width="58">
-<p align="center">2</p>
+<p align="center">3</p>
 </td>
 </tr>
 <tr>
 <td>
-<p>Techniciens de la recherche de classe normale</p>
+<p>Techniciens de la recherche de classe normale et secrétaires d'administration de la recherche de classe normale </p>
 </td>
 <td width="49">
 <p align="center">3</p>
@@ -282,12 +280,10 @@ La composition de ces commissions administratives paritaires est fixée ainsi qu
 </tr>
 <tr>
 <td rowspan="2">
-<div align="center">
 <pre>7</pre>
-</div>
 </td>
 <td>
-<p>Adjoints techniques principaux de recherche</p>
+<p>Adjoints techniques principaux de la recherche et adjoints administratifs principaux de la recherche de 1re classe</p>
 </td>
 <td width="49">
 <p align="center">2</p>
@@ -304,7 +300,7 @@ La composition de ces commissions administratives paritaires est fixée ainsi qu
 </tr>
 <tr>
 <td>
-<p>Adjoints techniques de la recherche et adjoints techniques de la recherche provisoire </p>
+<p>Adjoints techniques de la recherche, adjoints techniques de la recherche provisoire, adjoints administratifs principaux de la recherche de 2e classe et adjoints administratifs de la recherche</p>
 </td>
 <td width="49">
 <p align="center">2</p>
@@ -315,9 +311,7 @@ La composition de ces commissions administratives paritaires est fixée ainsi qu
 </tr>
 <tr>
 <td rowspan="2">
-<div align="center">
 <pre>8</pre>
-</div>
 </td>
 <td>
 <p>Agents techniques principaux de la recherche</p>
@@ -329,10 +323,10 @@ La composition de ces commissions administratives paritaires est fixée ainsi qu
 <p align="center">2</p>
 </td>
 <td rowspan="2" width="49">
-<p align="center">4</p>
+<p align="center">3</p>
 </td>
 <td rowspan="2">
-<p align="center">4</p>
+<p align="center">3</p>
 </td>
 </tr>
 <tr>
@@ -340,129 +334,10 @@ La composition de ces commissions administratives paritaires est fixée ainsi qu
 <p>Agents techniques de la recherche</p>
 </td>
 <td width="49">
-<p align="center">2</p>
-</td>
-<td width="58">
-<p align="center">2</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2">
-<div align="center">
-<pre>9</pre>
-</div>
-</td>
-<td>
-<p>Attachés principaux d'administration de la recherche de 1re et 2e classe</p>
-</td>
-<td width="49">
-<p align="center">2</p>
-</td>
-<td width="58">
-<p align="center">2</p>
-</td>
-<td rowspan="2" width="49">
-<p align="center">4</p>
-</td>
-<td rowspan="2">
-<p align="center">4</p>
-</td>
-</tr>
-<tr>
-<td>Attachés principaux d'administration de la recherche</td>
-<td>
-<p align="center">2</p>
-</td>
-<td>
-<p align="center">2</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3">
-<div align="center">
-<pre>10</pre>
-</div>
-</td>
-<td>
-<p>Secrétaires d'administration de la recherche de la classe exceptionnelle </p>
-</td>
-<td width="49">
-<p align="center">2</p>
-</td>
-<td width="58">
-<p align="center">2</p>
-</td>
-<td rowspan="3" width="49">
-<p align="center">6</p>
-</td>
-<td rowspan="3">
-<p align="center">6</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Secrétaires d'administration de la recherche de classe supérieure</p>
-</td>
-<td width="49">
-<p align="center">2</p>
-</td>
-<td width="58">
-<p align="center">2</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Secrétaires d'administration de la recherche de classe normale</p>
-</td>
-<td width="49">
-<p align="center">2</p>
-</td>
-<td width="58">
-<p align="center">2</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3">
-<div align="center">
-<pre>11</pre>
-</div>
-</td>
-<td>
-<p>Adjoints administratifs de la recherche principaux de 1<sup>re</sup> classe</p>
-</td>
-<td width="49">
 <p align="center">1</p>
 </td>
 <td width="58">
 <p align="center">1</p>
-</td>
-<td rowspan="3" width="49">
-<p align="center">5</p>
-</td>
-<td rowspan="3">
-<p align="center">5</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Adjoints administratifs de la recherche principaux de 2e classe</p>
-</td>
-<td width="49">
-<p align="center">2</p>
-</td>
-<td width="58">
-<p align="center">2</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Adjoints administratifs de la recherche </p>
-</td>
-<td width="49">
-<p align="center">2</p>
-</td>
-<td width="58">
-<p align="center">2</p>
 </td>
 </tr>
 </tbody>
