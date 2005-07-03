@@ -1,7 +1,5 @@
 # Article 9
 
-A l'issue des épreuves, des listes d'admission distinctes sont établies pour chaque concours.
+Le nombre et la répartition des emplois offerts aux concours visés à l'article 4 ci-dessus sont fixés par arrêté du ministre chargé de l'économie.
 
-Pour remplacer les candidats qui renonceraient au bénéfice de leur admission ou seraient éliminés pour inaptitude physique, des listes complémentaires d'admission peuvent être établies dans la limite du tiers du nombre des candidats inscrits sur chacune des listes principales. Les listes complémentaires cessent d'être valables à l'expiration d'un délai de six mois à compter de leur publication.
-
-Le directeur général de la concurrence, de la consommation et de la pression des fraudes arrête les listes d'admission.
+A l'issue des épreuves, le ministre chargé de l'économie et le ministre chargé du budget arrêtent des listes d'admission distinctes pour chaque concours dans des conditions fixées par arrêté.
