@@ -1,6 +1,6 @@
 # Article 6
 
-Sous réserve de l'application des dispositions, le cas échéant, du décret n° 70-79 du 27 janvier 1970, les candidats reçu à l'un des concours visés à l'article 3 ou admis au titre des emplois réservés ou au titre des dispositions de l'article 5 bis, B, ci-dessus, sont nommés à l'échelon de début par décision du directeur général des impôts.
+Sous réserve de l'application des dispositions, le cas échéant, du décret n° 70-79 du 27 janvier 1970, les candidats reçu à l'un des concours visés à l'article 3 ou admis au titre des emplois réservés ci-dessus, sont nommés à l'échelon de début par décision du directeur général des impôts.
 
 Toutefois les agents contractuels de 2e catégorie des services centraux et déconcentrés de la direction générale des impôts nommés au titre de l'article 3 du présent décret sont reclassés après reconstitution de carrière, en prenant en compte les services accomplis dans un emploi du niveau de la catégorie C à raison des trois quarts de leur durée, et ceux accomplis dans un emploi de niveau inférieur à raison de la moitié de leur durée.
 

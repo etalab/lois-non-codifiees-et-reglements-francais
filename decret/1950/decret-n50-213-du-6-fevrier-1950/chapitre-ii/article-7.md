@@ -1,6 +1,6 @@
 # Article 7
 
-Les agents recrutés en application de l'article 3 et de l'article 5 bis, B ou au titre des emplois réservés sont astreints à un stage probatoire qui ne peut être inférieur à dix mois ni excéder dix-huit mois et à l'issue duquel ils font l'objet d'un rapport d'aptitude.
+Les agents recrutés en application de l'article 3 ou au titre des emplois réservés sont astreints à un stage probatoire qui ne peut être inférieur à dix mois ni excéder dix-huit mois et à l'issue duquel ils font l'objet d'un rapport d'aptitude.
 
 Si le rapport les concernant est favorable, les agents sont titularisés par décision du directeur général des impôts. Leur ancienneté dans l'échelon de début court du jour de leur installation en qualité de stagiaire.
 

@@ -1,5 +1,5 @@
 # Article 4
 
-Le programme et les conditions des concours prévus à l'article précédent seront fixés par des arrêtés du ministre des finances publiés au Journal officiel.
+Le ministre chargé de l'économie, le ministre chargé du budget et le ministre chargé de la fonction publique fixent la nature, le programme des épreuves et les conditions d'organisation des concours par arrêté conjoint publié au Journal officiel.
 
-La liste des candidats admis à prendre part aux épreuves est arrêtée, après avis, s'il y a lieu, du directeur du personnel et du matériel, par le directeur général des Impôts.
+Le ministre chargé de l'économie et le ministre chargé du budget fixent la composition et les règles de fonctionnement du jury.
