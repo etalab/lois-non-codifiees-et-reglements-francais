@@ -1,10 +1,10 @@
 # Article 7
 
-A l'issue des épreuves, des listes d'admission, par branches distinctes pour chaque concours et par spécialité, sont arrêtées par le directeur général des douanes et droits indirects.
+Le nombre et la répartition des emplois offerts aux concours visés à l'article 5 ci-dessus sont fixés par arrêté du ministre chargé de l'économie.
 
-Les emplois mis en compétition à un concours, qui ne sont pas pourvus par la nomination de candidats au titre de ce concours, peuvent être attribués aux candidats des autres concours.
+A l'issue des épreuves des concours autres que ceux visés au II de l'article 5, le ministre chargé de l'économie et le ministre chargé du budget arrêtent des listes d'admission, par branche, distinctes pour chaque concours dans des conditions fixées par arrêté.
 
-Pour remplacer les candidats qui renonceraient au bénéfice de leur admission ou seraient éliminés pour inaptitude physique, des listes complémentaires d'admission par branche et par spécialité peuvent être établies.
+Le directeur général des douanes et droits indirects arrête les listes d'admission pour les concours ouverts par spécialité.
 
 Le directeur général des douanes et droits indirects fixe la date d'installation des candidats admis.
 
