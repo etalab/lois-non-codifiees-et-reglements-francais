@@ -1,0 +1,5 @@
+# Article 2
+
+Les pouvoirs et attributions dévolus au préfet par les articles R. 1321-6, R. 1321-8 à R. 1321-10 du code de la santé publique sont exercés par le ministre de la défense (direction des affaires juridiques) qui statue après avis de la commission départementale compétente en matière d'environnement, de risques sanitaires et technologiques et, dans les cas définis à l'article R. 1321-11 du code de la santé publique, du Conseil supérieur d'hygiène publique de France.
+
+L'instruction interne des dossiers constitués par les pétitionnaires en vue d'obtenir les autorisations de prélèvements d'eau destinée à la consommation humaine est effectuée par le service de santé des armées en liaison, pour les installations, ouvrages, travaux et activités soumis à autorisation ou à déclaration au titre des articles L. 214-2 et suivants du code de l'environnement et ses textes d'application, avec l'inspection des installations classées de la défense. Le service de santé des armées présente le dossier devant la commission départementale compétente en matière d'environnement, de risques sanitaires et technologiques.
