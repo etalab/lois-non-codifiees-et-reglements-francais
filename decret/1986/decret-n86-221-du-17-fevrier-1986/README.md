@@ -2,4 +2,3 @@
 
 - [Chapitre II : Dispositions particulières aux entreprises d'assurance et de capitalisation ainsi qu'aux entreprises ayant exclusivement pour objet la réassurance.](chapitre-ii)
 - [Chapitre IV : Dispositions diverses et transitoires.](chapitre-iv)
-- [Dispositions diverses et transitoires.](dispositions-diverses-et)
