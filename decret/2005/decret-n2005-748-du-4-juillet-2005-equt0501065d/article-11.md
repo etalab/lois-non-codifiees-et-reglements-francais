@@ -1,0 +1,3 @@
+# Article 11
+
+Le présent décret entre en vigueur le 6 juillet 2005. Toutefois, les dispositions du III de l'article 6 du présent décret ne sont applicables qu'au terme d'une période transitoire de cinq ans, le 6 juillet 2010, lorsque des équipements de travail qui ont été mis en service avant le 6 juillet 2007 ne permettent pas de respecter les valeurs limites d'exposition, malgré la mise en oeuvre de mesures techniques tenant compte des derniers progrès et de mesures d'organisation du travail. Un arrêté des ministres chargés du travail et de la mer, pris avant le 6 juillet 2007, détermine les catégories d'équipements qui remplissent ces conditions.
