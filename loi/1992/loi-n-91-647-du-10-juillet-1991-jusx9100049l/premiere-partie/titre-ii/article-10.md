@@ -4,4 +4,4 @@ L'aide juridictionnelle est accordée en matière gracieuse ou contentieuse, en 
 
 Elle peut être accordée pour tout ou partie de l'instance ainsi qu'en vue de parvenir à une transaction avant l'introduction de l'instance.
 
-Elle peut également être accordée à l'occasion de l'exécution d'une décision de justice ou de tout autre titre exécutoire.
+Elle peut également être accordée à l'occasion de l'exécution sur le territoire français, d'une décision de justice ou de tout autre titre exécutoire, y compris s'ils émanent d'un autre Etat membre de l'Union européenne à l'exception du Danemark.
