@@ -289,6 +289,7 @@
 - [Arrêté du 24 janvier 2005 (MENF0500035A)](arrete-du-24-janvier-2005-menf0500035a)
 - [Arrêté du 24 janvier 2005 (MENF0500036A)](arrete-du-24-janvier-2005-menf0500036a)
 - [Arrêté du 24 janvier 2005 (SANP0520293A)](arrete-du-24-janvier-2005-sanp0520293a)
+- [Arrêté du 24 juin 2005 (MENS0501257A)](arrete-du-24-juin-2005-mens0501257a)
 - [Arrêté du 24 mars 2005 (DEVN0540114A)](arrete-du-24-mars-2005-devn0540114a)
 - [Arrêté du 24 mars 2005 (ECOS0550011A)](arrete-du-24-mars-2005-ecos0550011a)
 - [Arrêté du 24 mai 2005 (AGRP0500900A)](arrete-du-24-mai-2005-agrp0500900a)
