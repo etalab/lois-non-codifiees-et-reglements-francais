@@ -118,6 +118,8 @@
 - [Décret n°2005-333 du 7 avril 2005 (ECOS0450017D)](decret-n2005-333-du-7-avril-2005-ecos0450017d)
 - [Décret n°2005-337 du 7 avril 2005 (EQUA0500105D)](decret-n2005-337-du-7-avril-2005-equa0500105d)
 - [Décret n°2005-349 du 7 avril 2005 (DOMA0500004D)](decret-n2005-349-du-7-avril-2005-doma0500004d)
+- [Décret n°2005-761 du 7 juillet 2005 (ECOT0551037D)](decret-n2005-761-du-7-juillet-2005-ecot0551037d)
+- [Décret n°2005-762 du 7 juillet 2005 (EQUA0501033D)](decret-n2005-762-du-7-juillet-2005-equa0501033d)
 - [Décret n°2005-91 du 7 février 2005 (SOCG0510073D)](decret-n2005-91-du-7-fevrier-2005-socg0510073d)
 - [Décret n°2005-93 du 7 février 2005 (BUDB0420014D)](decret-n2005-93-du-7-fevrier-2005-budb0420014d)
 - [Décret n°2005-96 du 7 février 2005 (FPPA0400160D)](decret-n2005-96-du-7-fevrier-2005-fppa0400160d)
