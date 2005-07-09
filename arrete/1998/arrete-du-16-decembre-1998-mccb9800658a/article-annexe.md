@@ -14,7 +14,7 @@ LISTE DES COMPTABLES ASSIGNATAIRES DES SERVICES A COMPETENCE NATIONALE
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Musée d'Orsay.</p>
+<p>Musée du Moyen Age, thermes et hôtel de Cluny.</p>
 </td>
 <td valign="top" width="302">
 <p>Payeur général du Trésor.</p>
@@ -22,7 +22,7 @@ LISTE DES COMPTABLES ASSIGNATAIRES DES SERVICES A COMPETENCE NATIONALE
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Musée des thermes et de l'hôtel de Cluny.</p>
+<p>Musée Picasso, à Paris.</p>
 </td>
 <td valign="top" width="302">
 <p>Payeur général du Trésor.</p>
@@ -30,31 +30,7 @@ LISTE DES COMPTABLES ASSIGNATAIRES DES SERVICES A COMPETENCE NATIONALE
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Musée Picasso.</p>
-</td>
-<td valign="top" width="302">
-<p>Payeur général du Trésor.</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="378">
-<p>Musée des arts africains et océaniens.</p>
-</td>
-<td valign="top" width="302">
-<p>Payeur général du Trésor.</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="378">
-<p>Musée des arts et traditions populaires.</p>
-</td>
-<td valign="top" width="302">
-<p>Payeur général du Trésor.</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="378">
-<p>Musée Guimet et d'Ennery.</p>
+<p>Musée des civilisations de l'Europe et de la Méditerranée.</p>
 </td>
 <td valign="top" width="302">
 <p>Payeur général du Trésor.</p>
@@ -70,22 +46,6 @@ LISTE DES COMPTABLES ASSIGNATAIRES DES SERVICES A COMPETENCE NATIONALE
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Musée Eugène-Delacroix (ordonnateur secondaire : directeur du musée d'Orsay).</p>
-</td>
-<td valign="top" width="302">
-<p>Payeur général du Trésor.</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="378">
-<p>Musée Hébert (ordonnateur secondaire : directeur du musée d'Orsay).</p>
-</td>
-<td valign="top" width="302">
-<p>Payeur général du Trésor.</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="378">
 <p>Musée des châteaux de Malmaison et de Bois-Préau.</p>
 </td>
 <td valign="top" width="302">
@@ -94,7 +54,7 @@ LISTE DES COMPTABLES ASSIGNATAIRES DES SERVICES A COMPETENCE NATIONALE
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Musée des antiquités nationales au château de Saint-Germain-en-Laye.</p>
+<p>Musée d'archéologie nationale (des origines à l'an mille), château de Saint-Germain-en-Laye.</p>
 </td>
 <td valign="top" width="302">
 <p>Trésorier-payeur général des Yvelines.</p>
@@ -102,7 +62,7 @@ LISTE DES COMPTABLES ASSIGNATAIRES DES SERVICES A COMPETENCE NATIONALE
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Musée de la Renaissance au château d'Ecouen.</p>
+<p>Musée de la Renaissance, château d'Ecouen.</p>
 </td>
 <td valign="top" width="302">
 <p>Trésorier-payeur général du Val-d'Oise.</p>
@@ -110,7 +70,7 @@ LISTE DES COMPTABLES ASSIGNATAIRES DES SERVICES A COMPETENCE NATIONALE
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Musée de la céramique.</p>
+<p>Musée de la céramique, à Sèvres.</p>
 </td>
 <td valign="top" width="302">
 <p>Trésorier-payeur général des Hauts-de-Seine.</p>
@@ -126,7 +86,7 @@ LISTE DES COMPTABLES ASSIGNATAIRES DES SERVICES A COMPETENCE NATIONALE
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Musée Magnin.</p>
+<p>Musée Magnin, à Dijon.</p>
 </td>
 <td valign="top" width="302">
 <p>Trésorier-payeur général de la Côte-d'Or.</p>
@@ -134,7 +94,7 @@ LISTE DES COMPTABLES ASSIGNATAIRES DES SERVICES A COMPETENCE NATIONALE
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Musée Adrien-Dubouché.</p>
+<p>Musée de la porcelaine Adrien Dubouché, à Limoges.</p>
 </td>
 <td valign="top" width="302">
 <p>Trésorier-payeur général de la Haute-Vienne.</p>
@@ -142,10 +102,10 @@ LISTE DES COMPTABLES ASSIGNATAIRES DES SERVICES A COMPETENCE NATIONALE
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Musée des deux victoires.</p>
+<p>Musée Clemenceau et de Lattre de Tassigny, à Mouilleron-en-Pareds.</p>
 </td>
 <td valign="top" width="302">
-<p>Trésorier-payeur général de la Loire-Atlantique.</p>
+<p>Trésorier-payeur général de la Loire-Alantique.</p>
 </td>
 </tr>
 <tr>
@@ -158,7 +118,7 @@ LISTE DES COMPTABLES ASSIGNATAIRES DES SERVICES A COMPETENCE NATIONALE
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Musée des Granges de Port-Royal à Magny-les-Hameaux.</p>
+<p>Musée de Port-Royal des Champs, à Magny-les-Hameaux.</p>
 </td>
 <td valign="top" width="302">
 <p>Trésorier-payeur général des Yvelines.</p>
@@ -166,7 +126,7 @@ LISTE DES COMPTABLES ASSIGNATAIRES DES SERVICES A COMPETENCE NATIONALE
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Musée de préhistoire des Eyzies-de-Tayac.</p>
+<p>Musée de la préhistoire des Eyzies-de-Tayac.</p>
 </td>
 <td valign="top" width="302">
 <p>Trésorier-payeur général de la Dordogne.</p>
