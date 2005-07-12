@@ -25,3 +25,5 @@ Les traitements informatisés :
 Le traitement SPI fournit à l'application SIRIUS-FP les informations relatives au changement de numéros SPI.
 
 Le traitement SPI fournit à la Base nationale des données patrimoniales-BNDP les éléments afférents à l'identité des personnes qui y figurent.
+
+Le traitement SPI fournit au traitement automatisé relatif à la redevance de l'audiovisuel le numéro SPI correspondant aux éléments d'identité des redevances de cette taxe.

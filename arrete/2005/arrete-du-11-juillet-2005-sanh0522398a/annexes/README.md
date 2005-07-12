@@ -1,0 +1,3 @@
+# Annexes
+
+- [RECOMMANDATIONS DE L'AGENCE FRANçAISE DE SÉCURITÉ SANITAIRE ENVIRONNEMENTALE (AFSSE) EN DATE DU 31 MAI 2004 POUR RAFRAÎCHIR UN ESPACE À L'INTÉRIEUR DES ÉTABLISSEMENTS D'ACCUEIL DES PERSONNES ÂGÉES.](recommandations-de-l-agence-francaise-de-securite-sanitaire-environnementale-afsse-en-date-du-31-mai-2004)
