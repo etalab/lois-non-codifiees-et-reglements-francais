@@ -198,6 +198,7 @@
 - [Décret n°2005-29 du 12 janvier 2005 (DEVP0420068D)](decret-n2005-29-du-12-janvier-2005-devp0420068d)
 - [Décret n°2005-344 du 12 avril 2005 (ECOC0500028D)](decret-n2005-344-du-12-avril-2005-ecoc0500028d)
 - [Décret n°2005-350 du 12 avril 2005 (DOMB0500006D)](decret-n2005-350-du-12-avril-2005-domb0500006d)
+- [Décret n°2005-780 du 12 juillet 2005 (MCCX0508574D)](decret-n2005-780-du-12-juillet-2005-mccx0508574d)
 - [Décret n°2005-455 du 12 mai 2005 (DEFD0500583D)](decret-n2005-455-du-12-mai-2005-defd0500583d)
 - [Décret n°2005-456 du 12 mai 2005 (EQUP0500089D)](decret-n2005-456-du-12-mai-2005-equp0500089d)
 - [Décret n°2005-468 du 12 mai 2005 (ECOT0514476D)](decret-n2005-468-du-12-mai-2005-ecot0514476d)

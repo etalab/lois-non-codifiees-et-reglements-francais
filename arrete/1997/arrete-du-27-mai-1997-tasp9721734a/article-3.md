@@ -1,3 +1,3 @@
 # Article 3
 
-Le dossier d'enregistrement d'un réactif de dosage des marqueurs sériques prédictifs de la trisomie 21 dans le sang maternel au cours de la grossesse doit, en outre, comporter les informations sur le système analytique et sur le logiciel d'interprétation des résultats.
+Les analyses de biochimie mentionnées à l'article 1er doivent être réalisées au cours des 15e, 16e, 17e ou 18e semaines d'aménorrhée.

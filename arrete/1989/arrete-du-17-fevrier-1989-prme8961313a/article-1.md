@@ -495,6 +495,14 @@ La liste des espèces de gibier que l'on peut chasser est fixée comme suit sur 
 </td>
 </tr>
 <tr>
+<td/>
+<td>
+<p align="left">Streptopelia decaocto.</p>
+</td>
+<td>Tourterelle turque.</td>
+<td/>
+</tr>
+<tr>
 <td valign="top" width="170">
 <br/>
 </td>

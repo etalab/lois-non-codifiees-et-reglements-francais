@@ -22,29 +22,17 @@ La liste des espèces de gibier que l'on peut chasser est fixée comme suit sur 
 <td valign="top" width="170">
 <p align="center">OISEAUX</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
-<td valign="top" width="170">
-<br/>
-</td>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
+<td valign="top" width="170"/>
+<td valign="top" width="170"/>
 </tr>
 <tr>
 <td valign="top" width="170">
 <p align="center">Ansériformes</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
-<td valign="top" width="170">
-<br/>
-</td>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
+<td valign="top" width="170"/>
+<td valign="top" width="170"/>
 </tr>
 <tr>
 <td valign="top" width="170">
@@ -61,9 +49,7 @@ La liste des espèces de gibier que l'on peut chasser est fixée comme suit sur 
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Anas americana.</p>
 </td>
@@ -75,9 +61,7 @@ La liste des espèces de gibier que l'on peut chasser est fixée comme suit sur 
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Anas platyrhynchos.</p>
 </td>
@@ -89,9 +73,7 @@ La liste des espèces de gibier que l'on peut chasser est fixée comme suit sur 
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Anas acuta.</p>
 </td>
@@ -103,9 +85,7 @@ La liste des espèces de gibier que l'on peut chasser est fixée comme suit sur 
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Anas strepera.</p>
 </td>
@@ -117,9 +97,7 @@ La liste des espèces de gibier que l'on peut chasser est fixée comme suit sur 
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Anas clypeata.</p>
 </td>
@@ -131,9 +109,7 @@ La liste des espèces de gibier que l'on peut chasser est fixée comme suit sur 
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Anas crecca.</p>
 </td>
@@ -145,9 +121,7 @@ La liste des espèces de gibier que l'on peut chasser est fixée comme suit sur 
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Dendrocygna bicolor.</p>
 </td>
@@ -159,9 +133,7 @@ La liste des espèces de gibier que l'on peut chasser est fixée comme suit sur 
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Dendrocygna autumnalis.</p>
 </td>
@@ -173,9 +145,7 @@ La liste des espèces de gibier que l'on peut chasser est fixée comme suit sur 
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Aythya collaris.</p>
 </td>
@@ -187,9 +157,7 @@ La liste des espèces de gibier que l'on peut chasser est fixée comme suit sur 
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Aythya affinis.</p>
 </td>
@@ -204,15 +172,9 @@ La liste des espèces de gibier que l'on peut chasser est fixée comme suit sur 
 <td valign="top" width="170">
 <p align="center">Charadriiformes</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
-<td valign="top" width="170">
-<br/>
-</td>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
+<td valign="top" width="170"/>
+<td valign="top" width="170"/>
 </tr>
 <tr>
 <td valign="top" width="170">
@@ -229,9 +191,7 @@ La liste des espèces de gibier que l'on peut chasser est fixée comme suit sur 
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Pluvialis squatarola.</p>
 </td>
@@ -243,9 +203,7 @@ La liste des espèces de gibier que l'on peut chasser est fixée comme suit sur 
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Arenaria interpres.</p>
 </td>
@@ -271,9 +229,7 @@ La liste des espèces de gibier que l'on peut chasser est fixée comme suit sur 
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Tringa solitaria.</p>
 </td>
@@ -285,9 +241,7 @@ La liste des espèces de gibier que l'on peut chasser est fixée comme suit sur 
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Tringa melanoleuca.</p>
 </td>
@@ -299,9 +253,7 @@ La liste des espèces de gibier que l'on peut chasser est fixée comme suit sur 
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Limnodromus griseus.</p>
 </td>
@@ -313,9 +265,7 @@ La liste des espèces de gibier que l'on peut chasser est fixée comme suit sur 
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Numenius phaeopus.</p>
 </td>
@@ -327,9 +277,7 @@ La liste des espèces de gibier que l'on peut chasser est fixée comme suit sur 
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Capella delicata.</p>
 </td>
@@ -341,9 +289,7 @@ La liste des espèces de gibier que l'on peut chasser est fixée comme suit sur 
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Limosa haemastica.</p>
 </td>
@@ -355,9 +301,7 @@ La liste des espèces de gibier que l'on peut chasser est fixée comme suit sur 
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Bartramia longicauda.</p>
 </td>
@@ -369,9 +313,7 @@ La liste des espèces de gibier que l'on peut chasser est fixée comme suit sur 
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Catoptrophorus semipalmatus.</p>
 </td>
@@ -383,9 +325,7 @@ La liste des espèces de gibier que l'on peut chasser est fixée comme suit sur 
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Micropalama himantopus.</p>
 </td>
@@ -397,9 +337,7 @@ La liste des espèces de gibier que l'on peut chasser est fixée comme suit sur 
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Calidris melanotos.</p>
 </td>
@@ -411,9 +349,7 @@ La liste des espèces de gibier que l'on peut chasser est fixée comme suit sur 
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Calidris canutus.</p>
 </td>
@@ -428,15 +364,9 @@ La liste des espèces de gibier que l'on peut chasser est fixée comme suit sur 
 <td valign="top" width="170">
 <p align="center">Columbiformes</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
-<td valign="top" width="170">
-<br/>
-</td>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
+<td valign="top" width="170"/>
+<td valign="top" width="170"/>
 </tr>
 <tr>
 <td valign="top" width="170">
@@ -453,9 +383,7 @@ La liste des espèces de gibier que l'on peut chasser est fixée comme suit sur 
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Colomba squamosa.</p>
 </td>
@@ -467,9 +395,7 @@ La liste des espèces de gibier que l'on peut chasser est fixée comme suit sur 
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Geotrygon montana.</p>
 </td>
@@ -481,9 +407,7 @@ La liste des espèces de gibier que l'on peut chasser est fixée comme suit sur 
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Geotrygon mystacea.</p>
 </td>
@@ -495,9 +419,17 @@ La liste des espèces de gibier que l'on peut chasser est fixée comme suit sur 
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
+<td/>
+<td>
+<p>Streptopelia decaocto.</p>
 </td>
+<td>
+<p>Tourterelle turque.</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Zenaïda aurita.</p>
 </td>
@@ -512,15 +444,9 @@ La liste des espèces de gibier que l'on peut chasser est fixée comme suit sur 
 <td valign="top" width="170">
 <p align="center">Passériformes</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
-<td valign="top" width="170">
-<br/>
-</td>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
+<td valign="top" width="170"/>
+<td valign="top" width="170"/>
 </tr>
 <tr>
 <td valign="top" width="170">
@@ -537,9 +463,7 @@ La liste des espèces de gibier que l'on peut chasser est fixée comme suit sur 
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Margarops fuscatus.</p>
 </td>

@@ -2,66 +2,42 @@
 
 Les montants de la redevance forfaitaire et de la redevance complémentaire versées à l'Institut national de recherche et de sécurité, au titre de l'article R. 231-52-18 du code du travail, ainsi que les montants de la redevance forfaitaire pour les déclarations incluant une première évaluation des risques sont fixés ainsi qu'il suit :
 
-Nature des déclarations faites par le déclarant ou le représentant unique pour la mise sur le marché
+NATURE DES DECLARATIONS FAITES PAR LE DECLARANT ou le représentant unique pour la mise sur le marché :
 
 Substances déjà mises sur le marché et dont la quantité atteint 100 tonnes
 
-Redevance forfaitaire (en euros, hors taxes)
+REDEVANCES : Forfaitaire (en euros, net de taxes) : 1 800
 
-1 550
+REDEVANCES : Forfaitaire (en euros, net de taxes) pour une déclaration incluant une évaluation des risques : 1 400
 
-Redevance forfaitaire (en euros, hors taxes) pour une déclaration incluant une évaluation des risques
+REDEVANCES : Complémentaire (en euros, net de taxes) : 180
 
-1 220
-
-Redevance complémentaire (en euros, hors taxes)
-
-155
-
-Nature des déclarations faites par le déclarant ou le représentant unique pour la mise sur le marché
+NATURE DES DECLARATIONS FAITES PAR LE DECLARANT ou le représentant unique pour la mise sur le marché :
 
 Substances destinées à être mises sur le marché en quantités supérieures ou égales à 1 tonne par an
 
-Redevance forfaitaire (en euros, hors taxes)
+REDEVANCES : Forfaitaire (en euros, net de taxes) : 5 300
 
-4 600
+REDEVANCES : Forfaitaire (en euros, net de taxes) pour une déclaration incluant une évaluation des risques : 4 200
 
-Redevance forfaitaire (en euros, hors taxes) pour une déclaration incluant une évaluation des risques
+REDEVANCES : Complémentaire (en euros, net de taxes) : 530
 
-3 660
-
-Redevance complémentaire (en euros, hors taxes)
-
-460
-
-Nature des déclarations faites par le déclarant ou le représentant unique pour la mise sur le marché
+NATURE DES DECLARATIONS FAITES PAR LE DECLARANT ou le représentant unique pour la mise sur le marché :
 
 Substances destinées à être mises sur le marché en quantités inférieures à 1 tonne par an mais égales ou supérieures à 100 kilogrammes par an
 
-Redevance forfaitaire (en euros, hors taxes)
+REDEVANCES : Forfaitaire (en euros, net de taxes) : 1 800
 
-1 550
+REDEVANCES : Forfaitaire (en euros, net de taxes) pour une déclaration incluant une évaluation des risques : 1 400
 
-Redevance forfaitaire (en euros, hors taxes) pour une déclaration incluant une évaluation des risques
+REDEVANCES : Complémentaire (en euros, net de taxes) : 180
 
-1 220
-
-Redevance complémentaire (en euros, hors taxes)
-
-155
-
-Nature des déclarations faites par le déclarant ou le représentant unique pour la mise sur le marché
+NATURE DES DECLARATIONS FAITES PAR LE DECLARANT ou le représentant unique pour la mise sur le marché :
 
 Substances destinées à être mises sur le marché en quantités inférieures à 100 kilogrammes par an mais égales ou supérieures à 10 kilogrammes par an
 
-Redevance forfaitaire (en euros, hors taxes)
+REDEVANCES : Forfaitaire (en euros, net de taxes) : 900
 
-770
+REDEVANCES : Forfaitaire (en euros, net de taxes) pour une déclaration incluant une évaluation des risques : 700
 
-Redevance forfaitaire (en euros, hors taxes) pour une déclaration incluant une évaluation des risques
-
-610
-
-Redevance complémentaire (en euros, hors taxes)
-
-77
+REDEVANCES : Complémentaire (en euros, net de taxes) : 90

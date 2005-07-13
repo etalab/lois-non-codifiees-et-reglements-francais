@@ -120,8 +120,6 @@ Bucephala clangula (A), garrot commun (B), garrot (C).
 
 Clangula hyemalis (A), canard kakawi (B), kakawi (C).
 
-Histrionicus histrionicus (A), canard arlequin (B) cane de roche (C).
-
 Somateria mollissima (A), eider commun (B), moyak (C).
 
 Somateria spectabilis (A), eider remarquable (B), coco (C).

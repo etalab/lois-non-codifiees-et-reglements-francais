@@ -1,3 +1,3 @@
 # Article 5
 
-L'interprétation du risque calculé pour la patiente s'effectue par rapport à un seuil de risque fixé à 1/250 au moment du dosage.
+Le directeur général de la santé et le directeur général de l'Agence du médicament sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
