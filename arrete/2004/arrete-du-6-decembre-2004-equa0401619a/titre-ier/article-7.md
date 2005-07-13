@@ -2,7 +2,7 @@
 
 Le jury du concours comprend six membres :
 
-- un président, membre de l'inspection générale de l'aviation civile et de la météorologie ;
+- un président, membre du Conseil général des ponts et chaussées ;
 
 - un premier vice-président, membre du service d'exploitation de la formation aéronautique ;
 
