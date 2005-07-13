@@ -20,7 +20,9 @@ I. - Dans la première partie, la loi de finances de l'année :
 
 8° Comporte les autorisations relatives aux emprunts et à la trésorerie de l'Etat prévues à l'article 26 et évalue les ressources et les charges de trésorerie qui concourent à la réalisation de l'équilibre financier, présentées dans un tableau de financement ;
 
-9° Fixe le plafond de la variation nette, appréciée en fin d'année, de la dette négociable de l'Etat d'une durée supérieure à un an.
+9° Fixe le plafond de la variation nette, appréciée en fin d'année, de la dette négociable de l'Etat d'une durée supérieure à un an ;
+
+10° Arrête les modalités selon lesquelles sont utilisés les éventuels surplus, par rapport aux évaluations de la loi de finances de l'année, du produit des impositions de toute nature établies au profit de l'Etat.
 
 II. - Dans la seconde partie, la loi de finances de l'année :
 
