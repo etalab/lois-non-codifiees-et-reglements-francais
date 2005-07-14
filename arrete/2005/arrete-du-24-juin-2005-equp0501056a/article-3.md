@@ -1,0 +1,3 @@
+# Article 3
+
+L'épreuve orale d'admission consiste en un entretien de trente minutes avec le jury ; l'entretien débute par un exposé de dix minutes maximum du candidat ou de la candidate, qui présente son parcours professionnel en en faisant ressortir les aspects les plus marquants ; cet exposé est suivi d'une conversation avec le jury, de vingt minutes environ, ayant pour objet de permettre au jury de faire préciser certains points de ce parcours, d'apprécier l'expérience professionnelle du candidat ou de la candidate, son aptitude et ses motivations à exercer les fonctions généralement confiées aux secrétaires administratifs de classe exceptionnelle (coefficient 1).

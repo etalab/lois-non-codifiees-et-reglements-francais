@@ -24,6 +24,12 @@ D. - Cas particuliers :
 
 Ne participent pas à la permanence des soins de nuit, samedi après-midi, dimanche et jour férié :
 
-- les praticiens accomplissant leur service à mi-temps pour raison thérapeutique qui peuvent demander à en être dispensés ;
+- sur avis du médecin du travail, les praticiens accomplissant leur service à mi-temps pour raison thérapeutique qui peuvent demander à en être dispensés ;
 
 - les praticiens qui font l'objet d'une décision temporaire de cessation de participation, conformément à leurs statuts.
+
+Les praticiens peuvent être dispensés par le directeur de leur participation à la permanence des soins de nuit :
+
+- à compter de l'âge de soixante ans, pour les praticiens qui présentent une demande motivée et sous réserve des nécessités de service sur avis du responsable de la structure et de la commission de l'organisation de la permanence des soins ;
+
+- sur avis du médecin du travail, pour les femmes enceintes à compter du troisième mois de grossesse et pour les praticiens dont l'état le nécessite.

@@ -1,0 +1,3 @@
+# Article 22-1
+
+Les distributeurs de gaz naturel ou de tout autre gaz combustible utilisant des réseaux publics de distribution et les transporteurs de gaz naturel informent les communes sur le territoire desquelles sont situés les réseaux qu'ils exploitent ou, le cas échéant, leurs établissements publics de coopération intercommunale ou les syndicats mixtes, lorsque la compétence afférente à la distribution publique de gaz leur a été transférée, et l'autorité administrative de l'Etat territorialement compétente en matière de réglementation et de police du gaz, du tracé et des caractéristiques physiques des infrastructures qu'ils exploitent. Ils maintiennent à jour les cartes de ces réseaux.

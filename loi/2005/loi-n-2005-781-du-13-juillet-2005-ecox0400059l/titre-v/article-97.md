@@ -1,0 +1,3 @@
+# Article 97
+
+Dans l'attente de la désignation de l'ensemble des membres du Conseil supérieur de l'énergie, les dispositions du premier alinéa de l'article 45 de la loi n° 46-628 du 8 avril 1946 précitée dans sa rédaction antérieure à la présente loi restent en vigueur. Le Conseil supérieur de l'électricité et du gaz, dans sa composition antérieure à l'entrée en vigueur de la présente loi, peut être en outre consulté sur les décrets et arrêtés mentionnés aux articles 14 et 15 de la présente loi ainsi que sur le décret en Conseil d'Etat mentionné au dernier alinéa de l'article 45 de la loi n° 46-628 du 8 avril 1946 précitée.

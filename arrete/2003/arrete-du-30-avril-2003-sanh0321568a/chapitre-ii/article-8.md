@@ -6,7 +6,7 @@ La commission :
 
 - définit annuellement avec le directeur l'organisation et le fonctionnement de la permanence des soins par secteur d'activité dans la limite des budgets alloués à ce titre ;
 
-- donne son avis sur l'élaboration des tableaux mensuels nominatifs de participation à la permanence des soins ;
+- donne un avis sur l'élaboration des tableaux mensuels nominatifs de participation à la permanence des soins, en s'assurant notamment d'une répartition équilibrée des permanences entre les praticiens.
 
 - donne son avis sur les conventions de coopération prévues à l'article 3 ci-dessus ;
 
