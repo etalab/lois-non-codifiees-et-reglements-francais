@@ -2,4 +2,4 @@
 
 - [Chapitre Ier : Le transport d'électricité.](chapitre-ier)
 - [Chapitre II : La distribution d'électricité.](chapitre-ii)
-- [Chapitre III : Sécurité et sûreté des réseaux.](chapitre-iii)
+- [Chapitre III : Sécurité et sûreté des réseaux et qualité de l'électricité.](chapitre-iii)
