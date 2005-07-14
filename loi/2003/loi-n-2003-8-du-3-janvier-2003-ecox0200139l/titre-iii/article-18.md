@@ -1,6 +1,6 @@
 # Article 18
 
-I. - Le ministre chargé de l'énergie arrête et rend public, après consultation des représentants professionnels intéressés, un plan indicatif pluriannuel décrivant, d'une part, l'évolution prévisible de la demande nationale d'approvisionnement en gaz naturel et sa répartition géographique et, d'autre part, les investissements programmés pour compléter les infrastructures du réseau d'approvisionnement en gaz naturel, qu'il s'agisse des stockages souterrains, des terminaux de gaz naturel liquéfié, des canalisations de transport ou des ouvrages d'interconnexion avec les pays voisins.
+I. - Le ministre chargé de l'énergie arrête et rend public, après consultation des représentants professionnels intéressés, un plan indicatif pluriannuel décrivant, d'une part, l'évolution prévisible de la demande nationale d'approvisionnement en gaz naturel et sa répartition géographique et, d'autre part, les investissements programmés pour compléter les infrastructures du réseau d'approvisionnement en gaz naturel, qu'il s'agisse des stockages souterrains, des terminaux de gaz naturel liquéfié, des canalisations de transport ou des ouvrages d'interconnexion avec les pays voisins. Ce plan présente, sous réserve des secrets protégés par la loi, l'évolution prévisible au cours des dix prochaines années de la contribution des contrats de long terme à l'approvisionnement du marché français.
 
 Il fait l'objet d'un rapport présenté chaque année au Parlement par le ministre chargé de l'énergie.
 

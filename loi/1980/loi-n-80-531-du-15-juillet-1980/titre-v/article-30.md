@@ -1,6 +1,6 @@
 # Article 30
 
-I. - Jusqu'au 31 décembre 1988, le ministre du budget et le ministre de l'économie sont autorisés à donner, par arrêté conjoint, leur agrément à des sociétés ayant pour objet exclusif de financer, par voie de crédit-bail immobilier et mobilier ou sous forme de location simple, des installations ou des matériels destinés à économiser l'énergie, à développer les sources d'énergie de remplacement des hydrocarbures ou à promouvoir les utilisations du charbon ainsi que des terrains d'emprise de ces installations ou matériels.
+I. - Jusqu'au 31 décembre 1988, le ministre du budget et le ministre de l'économie sont autorisés à donner, par arrêté conjoint, leur agrément à des sociétés ayant pour objet exclusif de financer, par voie de crédit-bail immobilier et mobilier, de crédit ou sous forme de location simple, des installations ou des matériels destinés à économiser l'énergie, à développer les sources d'énergie de remplacement des hydrocarbures ou à promouvoir les utilisations du charbon ainsi que des terrains d'emprise de ces installations ou matériels.
 
 Les installations et matériels concernés figurent sur une liste établie par décret.
 

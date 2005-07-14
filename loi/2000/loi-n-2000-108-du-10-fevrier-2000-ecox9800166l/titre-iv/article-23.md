@@ -16,6 +16,12 @@ Les gestionnaires des réseaux publics de distribution concluent, avec toute ent
 
 Tout refus de conclure un contrat d'accès aux réseaux publics est motivé et notifié au demandeur et à la Commission de régulation de l'électricité. Les critères de refus sont objectifs, non discriminatoires et publiés et ne peuvent être fondés que sur des impératifs liés au bon accomplissement des missions de service public et sur des motifs techniques tenant à la sécurité et la sûreté des réseaux, et à la qualité de leur fonctionnement.
 
+Le gestionnaire du réseau est, par ailleurs, tenu de refuser l'accès au réseau :
+
+- à un producteur qui ne peut justifier d'une autorisation ou d'un récépissé de déclaration délivré en application du II de l'article 6 ;
+
+- à un fournisseur qui n'exerce pas l'activité d'achat pour revente conformément aux prescriptions du récépissé délivré en application du II ou du IV de l'article 22.
+
 Dans les mêmes conditions, un droit d'accès aux réseaux publics de transport et de distribution est également garanti à toute collectivité territoriale pour satisfaire, à partir de ses installations de production et dans la limite de leur production, les besoins des services publics locaux dont elle assure la gestion directe. Le même droit est reconnu dans les mêmes conditions à tout établissement public de coopération intercommunale.
 
 Un décret en Conseil d'Etat précise, en tant que de besoin, les modalités d'application de ces dispositions, et notamment les procédures d'établissement des contrats et protocoles visés par le présent article.

@@ -1,6 +1,6 @@
 # Article 4
 
-I. - Les dispositions du deuxième alinéa de l'article 1er de l'ordonnance n° 86-1243 du 1er décembre 1986 relative à la liberté des prix et de la concurrence s'appliquent aux tarifs de vente de l'électricité aux clients non éligibles, aux tarifs de cession de l'électricité aux distributeurs non nationalisés mentionnés à l'article 23 de la loi n° 46-628 du 8 avril 1946 précitée, aux tarifs du secours mentionné au 2° du III de l'article 2 de la présente loi et aux tarifs d'utilisation des réseaux publics de transport et de distribution.
+I. - Les dispositions du deuxième alinéa de l'article 1er de l'ordonnance n° 86-1243 du 1er décembre 1986 relative à la liberté des prix et de la concurrence s'appliquent aux tarifs de vente de l'électricité aux clients non éligibles, aux tarifs de cession de l'électricité aux distributeurs non nationalisés mentionnés à l'article 23 de la loi n° 46-628 du 8 avril 1946 précitée et aux tarifs d'utilisation des réseaux publics de transport et de distribution.
 
 Ces mêmes dispositions s'appliquent aux plafonds de prix qui peuvent être fixés pour la fourniture d'électricité aux clients éligibles dans les zones du territoire non interconnectées au réseau métropolitain continental.
 
@@ -16,8 +16,18 @@ Les tarifs d'utilisation des réseaux couvrent notamment une partie des coûts d
 
 Matérialisant le principe de gestion du service public aux meilleures conditions de coûts et de prix mentionné à l'article 1er, les tarifs de vente de l'électricité aux clients non éligibles couvrent l'ensemble des coûts supportés à ce titre par Electricité de France et par les distributeurs non nationalisés mentionnés à l'article 23 de la loi n° 46-628 du 8 avril 1946 précitée, en y intégrant notamment les dépenses de développement du service public pour ces usagers et en proscrivant les subventions en faveur des clients éligibles.
 
-Les tarifs du secours mentionné au 2° du III de l'article 2 de la présente loi ne peuvent être inférieurs au coût de revient.
+III. - Dans le cadre du décret pris en application du I du présent article, les propositions motivées de tarifs d'utilisation des réseaux de transport et de distribution sont transmises par la Commission de régulation de l'énergie aux ministres chargés de l'économie et de l'énergie. La décision ministérielle est réputée acquise, sauf opposition de l'un des ministres dans un délai de deux mois suivant la réception des propositions de la commission. Les tarifs sont publiés au Journal officiel par les ministres chargés de l'économie et de l'énergie.
 
-III. - Dans le respect de la réglementation mentionnée au I du présent article, les décisions sur les tarifs et plafonds de prix sont prises conjointement par les ministres chargés de l'économie et de l'énergie, sur proposition de la Commission de régulation de l'électricité pour les tarifs d'utilisation des réseaux publics de transport et de distribution, et sur son avis pour les autres tarifs et les plafonds de prix. Les propositions et avis de la Commission de régulation de l'énergie, visés au présent article, sont motivés. Lorsqu'ils prennent les décisions sur les tarifs et plafonds de prix visés au présent article, les ministres chargés de l'économie et de l'énergie procèdent à la publication des propositions et avis de la commission.
+Les décisions sur les autres tarifs et les plafonds de prix visés au présent article sont prises par les ministres chargés de l'économie et de l'énergie, sur avis de la Commission de régulation de l'énergie.
+
+La Commission de régulation de l'énergie formule ses propositions et ses avis, qui doivent être motivés, après avoir procédé à toute consultation qu'elle estime utile des acteurs du marché de l'énergie.
 
 Pour l'accomplissement de cette mission, les avis de la Commission de régulation de l'énergie sont fondés sur l'analyse des coûts techniques et de la comptabilité générale des opérateurs.
+
+IV. - Les gestionnaires des réseaux publics de transport et de distribution d'électricité mettent en oeuvre des dispositifs permettant aux fournisseurs de proposer à leurs clients des prix différents suivant les périodes de l'année ou de la journée et incitant les utilisateurs des réseaux à limiter leur consommation pendant les périodes où la consommation de l'ensemble des consommateurs est la plus élevée.
+
+La structure et le niveau des tarifs d'utilisation des réseaux de transport et de distribution d'électricité sont fixés afin d'inciter les clients à limiter leur consommation aux périodes où la consommation de l'ensemble des consommateurs est la plus élevée dans la mesure où le produit global de ces tarifs couvre l'ensemble des coûts d'utilisation de ces réseaux.
+
+Les cahiers des charges des concessions et les règlements de service des régies de distribution d'électricité sont mis en conformité avec les dispositions du présent article. Un décret en Conseil d'Etat pris sur proposition de la Commission de régulation de l'énergie, précise les modalités d'application du premier alinéa, notamment les modalités de prise en charge financière de ce dispositif.
+
+V. - Les tarifs de cession mentionnés au I se substituent, pour ce qui concerne la fourniture d'électricité, aux conditions tarifaires figurant dans les contrats en cours entre Electricité de France et les distributeurs non nationalisés qui n'ont pas exercé leur droit à l'éligibilité dans un délai de six mois à compter de la publication du décret fixant ces tarifs. Les modalités d'application de la tarification pour l'acheminement de l'électricité sont fixées par décret en Conseil d'Etat.

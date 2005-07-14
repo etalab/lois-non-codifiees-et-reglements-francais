@@ -8,13 +8,13 @@ II. - Sont, en outre, reconnus clients éligibles :
 
 - sous réserve des dispositions du IV, les fournisseurs pour l'électricité qu'ils achètent pour la revendre à des clients éligibles ;
 
-- les distributeurs non nationalisés mentionnés à l'article 23 de la loi n° 46-628 du 8 avril 1946 précitée en vue de l'approvisionnement effectif des clients éligibles et non éligibles situés dans leur zone de desserte lorsque la consommation totale de ces clients est supérieure au seuil mentionné au I ainsi que pour les pertes d'électricité des réseaux qu'ils exploitent. Un décret en Conseil d'Etat précise les conditions dans lesquelles ces distributeurs peuvent continuer à bénéficier des tarifs de cession mentionnés à l'article 4 de la présente loi ;
+- les distributeurs non nationalisés mentionnés à l'article 23 de la loi n° 46-628 du 8 avril 1946 précitée en vue de l'approvisionnement effectif des clients éligibles et non éligibles situés dans leur zone de desserte ainsi que pour les pertes d'électricité des réseaux qu'ils exploitent. Un décret en Conseil d'Etat précise les conditions dans lesquelles ces distributeurs peuvent bénéficier des tarifs de cession mentionnés à l'article 4 de la présente loi. Les distributeurs non nationalisés effectuent la déclaration prévue au IV du présent article lorsqu'ils exercent, en tout ou partie, leurs droits à l'éligibilité. L'activité d'achat pour revente du distributeur est limitée à l'approvisionnement des clients éligibles et non éligibles situés dans leurs zones de desserte ;
 
 - sans préjudice des dispositions du deuxième alinéa du I, les propriétaires ou les gestionnaires de réseaux ferroviaires ou de réseaux de transports collectifs urbains électriquement interconnectés en aval des points de livraison par Electricité de France ou par un distributeur non nationalisé mentionné à l'article 23 de la loi n° 46-628 du 8 avril 1946 précitée.
 
 III. - Un client éligible peut conclure un contrat d'achat d'électricité avec un producteur ou un fournisseur de son choix installé sur le territoire d'un Etat membre de la Communauté européenne ou, dans le cadre de l'exécution d'accords internationaux, sur le territoire d'un autre Etat.
 
-IV. - Les fournisseurs souhaitant s'installer sur le territoire national pour exercer l'activité d'achat d'électricité pour revente aux clients éligibles adressent une déclaration au ministre chargé de l'énergie.
+IV. - Les fournisseurs souhaitant exercer l'activité d'achat d'électricité pour revente aux clients éligibles adressent une déclaration au ministre chargé de l'énergie.
 
 Un décret en Conseil d'Etat fixe les conditions d'application du présent IV et notamment le contenu et la forme de la déclaration. De manière à prendre en compte le bon fonctionnement, la sécurité et la sûreté des réseaux publics d'électricité, et à contribuer à la protection des consommateurs contre les défaillances des fournisseurs ainsi qu'à la continuité de leur approvisionnement, ce décret fixe les conditions d'exercice de cette activité et celles dans lesquelles le ministre chargé de l'énergie peut interdire à un opérateur d'exercer cette activité sur le territoire national.
 

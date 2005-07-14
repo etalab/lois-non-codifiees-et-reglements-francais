@@ -18,6 +18,8 @@ Le bénéficiaire du transfert est, à la même date, réputé autorisé au titr
 
 III. - Dans les cas autres que celui prévu au deuxième alinéa du II, la concession est maintenue jusqu'à ce que l'autorisation mentionnée à l'article 25 de la loi n° 2003-8 du 3 janvier 2003 précitée ait été délivrée à un nouvel exploitant par le ministre chargé de l'énergie. La concession est alors résiliée et l'ancien concessionnaire perçoit l'indemnité due au titre de la résiliation anticipée mentionnée au dernier alinéa du I et fixée en application du troisième alinéa du II. Les biens appartenant à l'Etat sont cédés au nouvel exploitant au prix fixé en application du II après avoir été, le cas échéant, déclassés (1).
 
+Ces dispositions ne sont pas applicables au transfert de propriété des biens des concessions de transport de gaz situés sur le territoire des anciennes concessions de mines de charbon. Dans ce cas, les biens appartenant à l'Etat sont cédés à un nouvel exploitant au prix déterminé par le ministre de l'économie, des finances et de l'industrie après avoir été, le cas échéant, déclassés.
+
 IV. - Les décisions prises en application des I, II et III peuvent faire l'objet d'un recours de plein contentieux devant le Conseil d'Etat.
 
 V. (Paragraphe abrogé).

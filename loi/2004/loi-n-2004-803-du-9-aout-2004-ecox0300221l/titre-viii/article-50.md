@@ -6,4 +6,4 @@ Cette disposition est applicable :
 
 - pour les clients non éligibles, jusqu'à l'entrée en vigueur du premier tarif de vente de l'énergie qu'ils consomment publié après le 1er janvier 2005 ;
 
-- pour les autres utilisations des réseaux, jusqu'à l'entrée en vigueur du premier tarif d'utilisation correspondant publié après le 1er janvier 2005.
+- pour les autres utilisations des réseaux, jusqu'à l'entrée en vigueur du premier tarif d'utilisation correspondant publié après le 1er février 2005.

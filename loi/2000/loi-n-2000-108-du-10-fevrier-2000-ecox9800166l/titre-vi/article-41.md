@@ -8,4 +8,4 @@ Il peut prononcer, dans les conditions définies au premier alinéa, la ou les s
 
 - à une disposition législative ou réglementaire relative à la production, à l'éligibilité, à la fourniture de secours ou de dernier recours ou à l'activité d'achat pour revente d'électricité, telles que définies aux articles 7 à 10, 15 et 22, ou aux prescriptions du titre en vertu duquel cette activité est exercée ;
 
-- à l'obligation de fourniture des données prévue à l'article 47.
+- à l'obligation de fourniture des données ou informations prévue aux articles 6, 33 et 47.

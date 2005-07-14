@@ -7,3 +7,5 @@ Toute personne qui met à la consommation ou livre à l'avitaillement des aéron
 Un décret fixe le volume des stocks stratégiques que chaque opérateur est tenu de constituer et conserver pendant douze mois en proportion des quantités de produits faisant l'objet des opérations mentionnées aux deux alinéas précédents. Cette proportion est calculée de telle sorte que la France dispose en permanence de stocks stratégiques équivalant au quart des quantités nettes de pétrole brut et de produits pétroliers importées ou introduites l'année civile précédente.
 
 L'obligation de stockage porte sur le produit même qui a fait l'objet d'une opération mentionnée aux deux premiers alinéas du présent article. Toutefois, à l'exception d'un stock minimum déterminé par décret, le stockage d'autres produits peut être admis comme équivalent dans des conditions fixées par ce même décret.
+
+Des obligations sont imposées aux distributeurs de fioul domestique pour assurer la continuité de fourniture aux clients qui accomplissent des missions d'intérêt général. Un décret en Conseil d'Etat précise ces obligations.

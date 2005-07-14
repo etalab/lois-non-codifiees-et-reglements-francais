@@ -2,7 +2,11 @@
 
 I. - Les dispositions du deuxième alinéa de l'article L. 410-2 du code de commerce s'appliquent aux tarifs d'utilisation des réseaux de transport et de distribution et des installations de gaz naturel liquéfié ainsi qu'aux tarifs de vente du gaz naturel aux clients non éligibles.
 
-Les décisions sur les tarifs sont prises conjointement par les ministres chargés de l'économie et de l'énergie, sur proposition de la Commission de régulation de l'énergie, notamment à la demande des opérateurs, pour les tarifs d'utilisation des réseaux de transport et de distribution et des installations de gaz naturel liquéfié, et sur son avis pour les autres tarifs visés au présent article. La Commission de régulation de l'énergie émet ses propositions et formule ses avis après avoir procédé à toute consultation qu'elle estime utile des acteurs du marché de l'énergie.
+Dans le respect des dispositions de l'alinéa précédent et du III du présent article, les propositions motivées de tarifs d'utilisation des réseaux de transport et de distribution de gaz naturel et des installations de gaz naturel liquéfié sont transmises par la Commission de régulation de l'énergie aux ministres chargés de l'économie et de l'énergie, notamment à la demande des opérateurs. La décision ministérielle est réputée acquise, sauf opposition de l'un des ministres, dans un délai de deux mois suivant la réception des propositions de la commission. Les tarifs sont publiés au Journal officiel par les ministres chargés de l'économie et de l'énergie.
+
+Les décisions sur les autres tarifs visés au présent article sont prises par les ministres chargés de l'économie et de l'énergie, sur avis de la Commission de régulation de l'énergie.
+
+La Commission de régulation de l'énergie formule ses propositions et ses avis, qui doivent être motivés, après avoir procédé à toute consultation qu'elle estime utile des acteurs du marché de l'énergie.
 
 II. - Les tarifs de vente du gaz naturel aux clients non éligibles sont définis en fonction des caractéristiques intrinsèques des fournitures et des coûts liés à ces fournitures. Ils couvrent l'ensemble de ces coûts à l'exclusion de toute subvention en faveur des clients éligibles. Ils sont harmonisés dans les zones de desserte respectives des différents distributeurs. Les différences de tarifs n'excèdent pas les différences relatives aux coûts de raccordement des distributions au réseau de transport de gaz naturel à haute pression.
 

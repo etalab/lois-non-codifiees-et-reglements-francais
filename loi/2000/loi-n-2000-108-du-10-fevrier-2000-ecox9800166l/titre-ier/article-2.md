@@ -24,16 +24,8 @@ III. - La mission de fourniture d'électricité consiste à assurer sur l'ensemb
 
 Dans les conditions fixées par la loi n° 90-449 du 31 mai 1990 visant à la mise en ouvre du droit au logement, toute personne ou famille éprouvant des difficultés particulières, en raison notamment de l'insuffisance de ses ressources ou de ses conditions d'existence, a droit à une aide de la collectivité pour disposer de la fourniture d'électricité dans son logement.
 
-2° Une fourniture d'électricité de secours aux producteurs ou aux clients éligibles raccordés aux réseaux publics, lorsqu'ils en font la demande. Cette fourniture de secours vise exclusivement à pallier des défaillances imprévues de fournitures et n'a pas pour objet de compléter une offre de fourniture partielle ;
+2° La fourniture d'électricité de secours aux clients éligibles raccordés aux réseaux publics dans les conditions prévues au V de l'article 15 ;
 
-3° La fourniture électrique à tout client éligible lorsque ce dernier ne trouve aucun fournisseur.
+3° La fourniture d'électricité de dernier recours aux consommateurs finals éligibles dans les conditions prévues au VI du même article.
 
-Electricité de France ainsi que, dans le cadre de leur objet légal et dans leur zone de desserte exclusive, les distributeurs non nationalisés mentionnés à l'article 23 de la loi n° 46-628 du 8 avril 1946 précitée :
-
-- sont les organismes en charge de la mission mentionnée au 1° du présent paragraphe, qu'ils accomplissent conformément aux dispositions des cahiers des charges de concession ou aux règlements de service des régies mentionnés à l'article L. 2224-31 du code général des collectivités territoriales .
-
-- assurent la mission mentionnée au 2° du présent paragraphe, sous réserve pour les distributeurs non nationalisés de disposer des capacités de production nécessaires, en concluant des contrats de secours dont les conditions financières garantissent la couverture de la totalité des coûts qu'ils supportent ;
-
-- exécutent la mission mentionnée au 3° du présent paragraphe en concluant des contrats de vente, dans la limite de leurs capacités de fourniture et dans des conditions financières qui tiennent notamment compte de la faible utilisation des installations de production mobilisées pour cette fourniture ;
-
-Dans le cadre des missions mentionnées aux 2° et 3° du présent paragraphe, lorsque la fourniture est effectuée à partir du réseau de distribution, Electricité de France et les distributeurs non nationalisés accomplissent cette mission conformément aux dispositions des cahiers des charges de concession ou des règlements de service des régies mentionnés à l'article L. 2224-31 du code général des collectivités territoriales.
+Electricité de France ainsi que, dans le cadre de leur objet légal et dans leur zone de desserte exclusive, les distributeurs non nationalisés mentionnés à l'article 23 de la loi n° 46-628 du 8 avril 1946 sur la nationalisation de l'électricité et du gaz sont les organismes en charge de la mission mentionnée au 1° du présent III, qu'ils accomplissent conformément aux dispositions des cahiers des charges de concession ou aux règlements de service des régies mentionnés à l'article L. 2224-31 du code général des collectivités territoriales.
