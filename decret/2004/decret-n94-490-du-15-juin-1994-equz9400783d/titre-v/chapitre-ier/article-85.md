@@ -1,23 +1,17 @@
 # Article 85
 
-I. - Au sens de l'article 13 de la loi du 13 juillet 1992 susvisée, les personnes titulaires d'une carte professionnelle sont reconnues comme personnes qualifiées pour effectuer les visites commentées dans les musées appartenant à l'Etat, les musées visés par l'ordonnance n° 45-1546 du 13 juillet 1945 modifiée portant organisation provisoire des musées des beaux-arts et les monuments historiques classés au titre de la loi du 31 décembre 1913 modifiée sur les monuments historiques.
+I. - Au sens de l'article L. 221-1 du code du tourisme, les personnes titulaires de l'une des cartes professionnelles mentionnées au II sont reconnues comme personnes qualifiées pour effectuer les visites commentées dans les musées appartenant à l'Etat, les musées visés par l'ordonnance n° 45-1546 du 13 juillet 1945 modifiée portant organisation provisoire des musées des beaux-arts et les monuments historiques classés au titre du livre VI du code du patrimoine.
 
-II. - La carte professionnelle est délivrée aux personnes justifiant de l'un des titres, diplômes ou agréments suivants :
+II. - Les cartes professionnelles correspondent aux qualifications suivantes :
 
-- guide interprète national ;
+a) Carte de conférencier national ;
 
-- guide interprète auxiliaire à titre définitif ;
+b) Carte de guide-interprète national ;
 
-- conférencier national ;
+c) Carte de guide-interprète régional ;
 
-- animateur du patrimoine des villes et pays d'art et d'histoire ;
+d) Carte de guide-conférencier des villes et pays d'art et d'histoire.
 
-- conférencier de la Réunion des musées nationaux et conférencier ayant été inscrit sur la liste d'aptitude des musées nationaux ;
+Les cartes professionnelles sont délivrées dans les conditions prévues aux chapitres II et III du présent titre.
 
-- conférencier du service des visites-conférences de la Caisse nationale des monuments historiques et des sites ;
-
-- guide interprète régional ;
-
-- guide interprète local ;
-
-- guide conférencier des villes et pays d'art et d'histoire.
+III. - Les personnes titulaires de la carte de guide-interprète local et de guide-interprète auxiliaire à titre définitif peuvent obtenir le renouvellement de leur carte.

@@ -2,6 +2,6 @@
 
 Est puni de la peine d'amende prévue pour les contraventions de la troisième classe :
 
-le fait d'exercer, moyennant rémunération, l'une des activités visées à l'article 85 ci-dessus sans être titulaire de la carte professionnelle ou en utilisant une carte non conforme au modèle réglementaire ;
+a) Le fait d'exercer, moyennant rémunération, l'activité visée au I de l'article 85 sans être titulaire d'une carte professionnelle ou en utilisant une carte non conforme au modèle prévu au dernier alinéa de l'article 86 ;
 
-le fait, pour les titulaires d'une licence, d'un agrément, d'une autorisation ou d'une habilitation, d'utiliser les services d'une personne non détentrice de la carte professionnelle en vue d'assurer la conduite de visites dans les musées et les monuments historiques.
+b) Le fait, pour les titulaires d'une licence, d'une habilitation, d'un agrément ou d'une autorisation, d'utiliser les services d'une personne non détentrice d'une carte professionnelle visée au II de l'article 85, en vue d'assurer la conduite des visites dans les musées et les monuments historiques.

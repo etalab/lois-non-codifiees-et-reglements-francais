@@ -1,17 +1,7 @@
 # Article 94
 
-Les titulaires de la carte professionnelle de guide interprète local délivrée avant l'entrée en vigueur du présent décret peuvent se présenter à l'examen de guide interprète régional dès lors qu'ils peuvent justifier de deux années d'expérience professionnelle.
+Les personnes se prévalant de l'aptitude professionnelle acquise dans les conditions prévues par le présent chapitre adressent leur demande de carte professionnelle au préfet du département du lieu de leur domicile pour celles résidant en France. Les personnes qui résident à l'étranger adressent leur demande au préfet de Paris.
 
-Les guides interprètes auxiliaires à titre provisoire ou à titre définitif peuvent se présenter à l'examen de guide interprète régional.
+Cette demande est accompagnée d'un dossier complet. Il est délivré un récépissé à la réception de la demande. La décision motivée du préfet intervient au plus tard quatre mois à compter de la date de délivrance du récépissé de réception du dossier complet, après avis de la Commission nationale des guides-interprètes et conférenciers prévue à l'article 88.
 
-Les personnes exerçant l'activité de guide interprète local de département ou commune dans lesquels la carte professionnelle n'était pas exigée avant l'entrée en vigueur du présent décret sont autorisées à se présenter aux épreuves de l'examen de guide interprète régional dès lors qu'elles sont en activité à la date d'entrée en vigueur du présent décret. En cas d'échec, elles sont autorisées à se présenter à la session suivante. En cas d'échec définitif, elles ne peuvent continuer à exercer la profession pour le compte des personnes physiques ou morales titulaires de l'un des titres prévus aux articles 4, 7, 11 et 12 de la loi du 13 juillet 1992 susvisée.
-
-Les guides conférenciers des villes et pays d'art et d'histoire sont autorisés à se présenter sans condition de diplôme à l'examen de guide interprète régional. Un arrêté du ministre chargé de la culture et du ministre chargé du tourisme définit les modalités particulières des épreuves auxquelles ils sont soumis.
-
-Il est organisé, dans des conditions définies par un arrêté du ministre chargé de la culture, un examen de guide conférencier des villes et pays d'art et d'histoire.
-
-Un arrêté conjoint du ministre chargé de la culture et du ministre chargé du tourisme définit les modalités particulières des épreuves auxquelles sont soumis les guides interprètes régionaux se présentant à cet examen.
-
-Les personnes titulaires des cartes professionnelles de conférencier et de guide interprète national délivrées avant l'entrée en vigueur du présent décret se voient délivrer par le préfet du département du lieu de leur domicile la nouvelle carte professionnelle correspondant à leur qualification.
-
-Les titulaires du brevet de technicien supérieur Tourisme, option Accueil, délivré avant l'entrée en vigueur du présent décret, qui n'ont pas sollicité la délivrance de la carte professionnelle de guide interprète national peuvent obtenir la délivrance de cette carte à condition d'en présenter la demande avant le 31 décembre 1995.
+Le programme et la composition des jurys mentionnés à l'article 88, les modalités d'organisation de l'épreuve d'aptitude et du stage d'adaptation et la composition du dossier mentionné à l'alinéa ci-dessus sont fixés par un arrêté du ministre de l'intérieur et des ministres chargés de l'enseignement supérieur, de la culture et du tourisme.
