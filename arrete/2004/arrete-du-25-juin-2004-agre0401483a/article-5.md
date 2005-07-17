@@ -1,5 +1,5 @@
 # Article 5
 
-Le programme des enseignements est fixé dans l'annexe au présent arrêté.
+Le programme des enseignements, le référentiel de diplôme et le référentiel d'activité professionnelle sont annexés (1) au présent arrêté.
 
-Cette annexe peut être obtenue dans les écoles nationales vétérinaires d'Alfort, Lyon, Nantes et Toulouse.
+L'annexe de l'arrêté du 25 juin 2004 susvisé est remplacée par les annexes au présent arrêté.
