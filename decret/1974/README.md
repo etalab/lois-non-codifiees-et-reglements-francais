@@ -48,7 +48,6 @@
 - [Décret n°74-321 du 22 avril 1974](decret-n74-321-du-22-avril-1974)
 - [Décret n°74-322 du 22 avril 1974](decret-n74-322-du-22-avril-1974)
 - [Décret n°74-338 du 22 avril 1974](decret-n74-338-du-22-avril-1974)
-- [Décret n°74-385 du 22 avril 1974](decret-n74-385-du-22-avril-1974)
 - [Décret n°74-740 du 22 août 1974](decret-n74-740-du-22-aout-1974)
 - [Décret n°74-963 du 22 novembre 1974](decret-n74-963-du-22-novembre-1974)
 - [Décret n°74-968 du 22 novembre 1974](decret-n74-968-du-22-novembre-1974)

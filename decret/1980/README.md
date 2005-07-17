@@ -1,7 +1,6 @@
 # 1980
 
 - [Décret n°72-828 du 1 septembre 1972](decret-n72-828-du-1-septembre-1972)
-- [Décret n°80-785 du 1 octobre 1980](decret-n80-785-du-1-octobre-1980)
 - [Décret n°80-793 du 1 octobre 1980](decret-n80-793-du-1-octobre-1980)
 - [Décret n°80-968 du 1 décembre 1980](decret-n80-968-du-1-decembre-1980)
 - [Décret n°80-975 du 1 décembre 1980](decret-n80-975-du-1-decembre-1980)

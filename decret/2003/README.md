@@ -536,7 +536,6 @@
 - [Décret n°2003-795 du 25 août 2003 (INTC0300184D)](decret-n2003-795-du-25-aout-2003-intc0300184d)
 - [Décret n°2003-796 du 25 août 2003 (INTC0300185D)](decret-n2003-796-du-25-aout-2003-intc0300185d)
 - [Décret n°2003-806 du 25 août 2003 (DOMB0300004D)](decret-n2003-806-du-25-aout-2003-domb0300004d)
-- [Décret n°2003-826 du 25 août 2003 (DEFP0301975D)](decret-n2003-826-du-25-aout-2003-defp0301975d)
 - [Décret n°2003-829 du 25 août 2003 (AGRA0301292D)](decret-n2003-829-du-25-aout-2003-agra0301292d)
 - [Décret n°2003-924 du 25 septembre 2003 (SOCS0322768D)](decret-n2003-924-du-25-septembre-2003-socs0322768d)
 - [Décret n°2003-935 du 25 septembre 2003 (INDI0301778D)](decret-n2003-935-du-25-septembre-2003-indi0301778d)
