@@ -4,6 +4,8 @@ Le conseil scientifique est composé de quinze membres au plus, nommés pour cin
 
 Son président est nommé en son sein par arrêté conjoint de ces ministres.
 
+Le président du conseil d'administration peut assister aux séances du conseil scientifique.
+
 Le conseil scientifique est consulté sur les programmes d'études et de recherches entrepris par l'agence ou dans lesquels celle-ci intervient. Il formule toutes propositions concernant le développement de la recherche.
 
 Ses avis sont communiqués au conseil d'administration et aux ministres chargés de l'énergie, de l'environnement et de la recherche.

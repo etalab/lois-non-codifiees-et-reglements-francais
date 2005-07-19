@@ -1,8 +1,8 @@
 # Article 6
 
-Le président du conseil d'administration est nommé par décret pris sur le rapport du ministre chargé de l'environnement, après avis des ministres chargés de l'industrie et de la recherche, parmi les membres du conseil et sur proposition de celui-ci.
+I. - Sur proposition du conseil d'administration, son président est nommé parmi ses membres par décret pris sur le rapport des ministres chargés de l'environnement, de l'industrie et de la recherche.
 
-Le président assure l'exécution des délibérations du conseil d'administration.
+II. - Le président du conseil d'administration assure l'exécution des délibérations du conseil d'administration.
 
 Dans le cadre des règles définies par le conseil d'administration, il a qualité pour :
 
@@ -10,7 +10,7 @@ Dans le cadre des règles définies par le conseil d'administration, il a qualit
 
 - passer au nom de l'agence tous actes, contrats ou marchés ;
 
-- procéder à toutes acquisitions, tout dépôt ou cession de brevets ou de licence ;
+- procéder à toutes acquisitions, tout dépôt ou cession de brevets ou de licences ;
 
 - représenter l'agence en justice et conclure toutes transactions ;
 
@@ -18,10 +18,14 @@ Dans le cadre des règles définies par le conseil d'administration, il a qualit
 
 - procéder à tous achats, ventes ou locations d'immeubles, contracter tous emprunts, constituer nantissement ou hypothèque.
 
-Le président peut déléguer, dans les conditions limitativement prévues par le conseil d'administration, une partie des compétences précédemment énumérées au directeur général.
+III. - Le président du conseil d'administration a autorité sur les services de l'agence et en dirige l'action. A ce titre :
 
-Sur proposition du directeur général, il nomme le directeur scientifique, les directeurs et les délégués régionaux.
+- il met en oeuvre les programmes opérationnels confiés à l'agence ;
 
-Il est ordonnateur principal des recettes et des dépenses. Il peut déléguer à cet effet sa signature à des agents de l'agence dans les conditions fixées par le conseil d'administration.
+- il prend les décisions relatives à l'organisation et au fonctionnement des services ;
 
-Il peut assister aux séances du conseil scientifique.
+- il nomme et révoque le personnel de l'agence et a autorité sur lui ;
+
+- il est ordonnateur principal des recettes et des dépenses.
+
+IV. - Le président du conseil d'administration peut, dans des conditions définies par le conseil d'administration, déléguer une partie de ses pouvoirs à un ou plusieurs directeurs généraux délégués nommés par lui. Il peut déléguer sa signature.

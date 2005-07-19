@@ -1,6 +1,6 @@
 # Article 16
 
-I. - Dans les domaines d'activité définis à l'article 2, et sauf pour les opérations régies par le décret n° 99-457 du 1er juin 1999 relatif aux modalités de contribution de l'Agence de l'environnement et de la maîtrise de l'énergie aux dépenses engagées par les riverains des aérodromes en vue de l'atténuation des nuisances sonores, le conseil d'administration institue des commissions nationales des aides dont il fixe les compétences respectives. Dans le domaine d'activité qui lui est assigné, chaque commission :
+I. - Dans les domaines d'activité définis à l'article 2, le conseil d'administration institue des commissions nationales des aides dont il fixe les compétences respectives. Dans le domaine d'activité qui lui est assigné, chaque commission :
 
 1° Est saisie pour avis des orientations stratégiques de l'agence et des programmes d'action pluriannuels destinés à les mettre en oeuvre ; elle est tenue informée au moins une fois par an de leur état d'avancement et des résultats de leurs évaluations ;
 
@@ -10,7 +10,7 @@ I. - Dans les domaines d'activité définis à l'article 2, et sauf pour les op�
 
 II. - Le conseil d'administration arrête la composition des commissions nationales des aides et précise leurs modalités de fonctionnement, notamment en ce qui concerne la périodicité des séances et les conditions de quorum.
 
-Chacune d'elles a pour président le président du conseil d'administration et pour vice-président le directeur général. Elle comprend un représentant de chacun des ministres de tutelle ainsi que du ministre chargé du budget et des ministres concernés par son domaine d'activité.
+Chacune d'elles a pour président le président du conseil d'administration ou un membre du personnel de l'agence désigné par lui. Elle comprend un représentant de chacun des ministres de tutelle ainsi que du ministre chargé du budget et des ministres concernés par son domaine d'activité.
 
 Elle comprend en outre entre huit et douze personnalités désignées par le conseil d'administration pour une durée de cinq ans, soit en fonction de leur compétence, soit en tant que représentants des collectivités territoriales, des activités professionnelles concernées ou des associations agréées de protection de l'environnement, de défense des consommateurs ou de surveillance de la qualité de l'air. Chaque personnalité peut se faire remplacer par un membre suppléant, désigné dans les mêmes conditions que le titulaire.
 
