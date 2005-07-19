@@ -17,6 +17,8 @@
 - [Ordonnance n° 2005-461 du 13 mai 2005 (MAEX0500017R)](ordonnance-n-2005-461-du-13-mai-2005-maex0500017r)
 - [Ordonnance n° 2005-674 du 16 juin 2005 (JUSX0500112R)](ordonnance-n-2005-674-du-16-juin-2005-jusx0500112r)
 - [Ordonnance n° 2005-136 du 17 février 2005 (JUSX0500005R)](ordonnance-n-2005-136-du-17-fevrier-2005-jusx0500005r)
+- [Ordonnance n° 2005-804 du 18 juillet 2005 (SANX0500107R)](ordonnance-n-2005-804-du-18-juillet-2005-sanx0500107r)
+- [Ordonnance n° 2005-805 du 18 juillet 2005 (DEVX0500088R)](ordonnance-n-2005-805-du-18-juillet-2005-devx0500088r)
 - [Ordonnance n° 2004-1391 du 20 décembre 2004 (EQUX0400134R)](ordonnance-n-2004-1391-du-20-decembre-2004-equx0400134r)
 - [Ordonnance n° 2005-43 du 20 janvier 2005 (DOMX0400262R)](ordonnance-n-2005-43-du-20-janvier-2005-domx0400262r)
 - [Ordonnance n° 2004-1248 du 24 novembre 2004 (INTX0400217R)](ordonnance-n-2004-1248-du-24-novembre-2004-intx0400217r)

@@ -26,4 +26,6 @@ En application de l'article 4, alinéa 2, du décret du 13 janvier 1947 susvisé
 
 - Au Cameroun : les chefs de poste consulaire à Yaoundé et Douala, à compter du 1er avril 2005 ;
 
-- Au Saint-Siège : le chef de la mission diplomatique pourvu d'une circonscription consulaire à Rome, à compter du 1er juin 2005.
+- Au Saint-Siège : le chef de la mission diplomatique pourvu d'une circonscription consulaire à Rome, à compter du 1er juin 2005 ;
+
+En Israël : les chefs de poste consulaire à Tel-Aviv et Jérusalem, à compter du 5 septembre 2005.
