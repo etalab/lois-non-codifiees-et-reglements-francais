@@ -349,6 +349,8 @@
 - [Décret n°2005-801 du 18 juillet 2005 (ECOX0500108D)](decret-n2005-801-du-18-juillet-2005-ecox0500108d)
 - [Décret n°2005-802 du 18 juillet 2005 (ECOP0500620D)](decret-n2005-802-du-18-juillet-2005-ecop0500620d)
 - [Décret n°2005-806 du 18 juillet 2005 (DEVP0530043D)](decret-n2005-806-du-18-juillet-2005-devp0530043d)
+- [Décret n°2005-807 du 18 juillet 2005 (ECOS0550026D)](decret-n2005-807-du-18-juillet-2005-ecos0550026d)
+- [Décret n°2005-808 du 18 juillet 2005 (JUSB0510333D)](decret-n2005-808-du-18-juillet-2005-jusb0510333d)
 - [Décret n°2005-484 du 18 mai 2005 (PRMX0508386D)](decret-n2005-484-du-18-mai-2005-prmx0508386d)
 - [Décret n°2005-487 du 18 mai 2005 (ECOT0414372D)](decret-n2005-487-du-18-mai-2005-ecot0414372d)
 - [Décret n°2005-488 du 18 mai 2005 (BUDF0520188D)](decret-n2005-488-du-18-mai-2005-budf0520188d)
