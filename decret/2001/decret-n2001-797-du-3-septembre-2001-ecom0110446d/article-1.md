@@ -10,7 +10,7 @@ II. - Le comité consultatif national de règlement amiable des différends ou l
 
 - les services à compétence nationale, lorsque le marché couvre des besoins excédant le ressort d'un seul comité régional ou interrégional.
 
-III. - Les comités consultatifs régionaux ou interrégionaux de règlement amiable des différends ou litiges, constitués par un arrêté du ministre chargé de l'économie auprès du préfet désigné par ledit arrêté, sont compétents pour les marchés passés par les services déconcentrés de l'Etat, par ou pour le compte des collectivités territoriales ou par leurs établissements publics.
+III. - Les comités consultatifs régionaux, interrégionaux ou interdépartementaux de règlement amiable des différends ou litiges, constitués par un arrêté du ministre chargé de l'économie auprès du préfet désigné par ledit arrêté, sont compétents pour les marchés passés par les services déconcentrés de l'Etat, par ou pour le compte des collectivités territoriales ou par leurs établissements publics.
 
 Ces comités sont également compétents pour connaître des différends et litiges relatifs aux marchés passés par :
 
