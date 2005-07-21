@@ -19,5 +19,8 @@
 - [Loi n° 2005-744 du 4 juillet 2005 (SANX0508334L)](loi-n-2005-744-du-4-juillet-2005-sanx0508334l)
 - [Loi n° 2005-750 du 4 juillet 2005 (JUSX0500027L)](loi-n-2005-750-du-4-juillet-2005-jusx0500027l)
 - [Loi n° 2005-781 du 13 juillet 2005 (ECOX0400059L)](loi-n-2005-781-du-13-juillet-2005-ecox0400059l)
+- [Loi n° 2005-809 du 20 juillet 2005 (EQUX0500057L)](loi-n-2005-809-du-20-juillet-2005-equx0500057l)
+- [Loi n° 2005-810 du 20 juillet 2005 (EQUX0400260L)](loi-n-2005-810-du-20-juillet-2005-equx0400260l)
+- [Loi n° 2005-811 du 20 juillet 2005 (ECOX0500015L)](loi-n-2005-811-du-20-juillet-2005-ecox0500015l)
 - [Loi n° 91-429 du 13 mai 1991 (INTX9100005L)](loi-n-91-429-du-13-mai-1991-intx9100005l)
 - [Loi n°94-589 du 15 juillet 1994 (DEFX9400020L)](loi-n94-589-du-15-juillet-1994-defx9400020l)
