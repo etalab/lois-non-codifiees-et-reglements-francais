@@ -9,7 +9,6 @@
 - [Décret n°69-131 du 6 février 1969](decret-n69-131-du-6-fevrier-1969)
 - [Décret n°69-132 du 6 février 1969](decret-n69-132-du-6-fevrier-1969)
 - [Décret n°69-222 du 6 mars 1969](decret-n69-222-du-6-mars-1969)
-- [Décret n°69-555 du 6 juin 1969](decret-n69-555-du-6-juin-1969)
 - [Décret n°69-794 du 7 août 1969](decret-n69-794-du-7-aout-1969)
 - [Décret n°69-795 du 7 août 1969](decret-n69-795-du-7-aout-1969)
 - [Décret n°69-800 du 8 août 1969](decret-n69-800-du-8-aout-1969)
