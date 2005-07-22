@@ -4,4 +4,6 @@ Lorsque les personnes visées à l'article 4 ci-dessus choisissent de pourvoir e
 
 a) Soit établir un dispositif de consignation de leurs emballages ;
 
-b) Soit organiser, pour le dépôt de ces emballages, des emplacements spécifiquement destinés à cet effet après avoir fait approuver par arrêté conjoint du ministre chargé de l'environnement, du ministre chargé de l'industrie et du ministre chargé de l'agriculture les modalités de contrôle du système d'élimination qui leur permettent de mesurer la proportion des emballages éliminés par rapport aux emballages commercialisés.
+b) Soit organiser, pour le dépôt de ces emballages, des emplacements spéciaux.
+
+Dans ce cas, les ministres chargés de l'environnement, de l'industrie et de l'agriculture approuvent par arrêté conjoint les modalités de contrôle du système mis en place par chaque producteur pour mesurer la proportion des emballages éliminés par rapport aux emballages commercialisés.
