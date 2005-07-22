@@ -1,0 +1,5 @@
+# Article 2
+
+A l'exception de ceux qui sont nécessaires à l'exercice par l'Etat ou ses établissements publics de leurs missions de service public concourant à l'activité aéroportuaire et dont la liste est déterminée par décret en Conseil d'Etat, les biens du domaine public de l'établissement public Aéroports de Paris et ceux du domaine public de l'Etat qui lui ont été remis en dotation ou qu'il est autorisé à occuper sont déclassés à la date de sa transformation en société. Ils sont attribués à cette même date en pleine propriété à la société Aéroports de Paris. Les biens du domaine public de l'établissement public Aéroports de Paris qui ne sont pas déclassés sont attribués à l'Etat. Une convention passée avec l'Etat détermine les sommes restant dues à Aéroports de Paris en conséquence des investissements engagés par l'établissement public sur les biens repris par l'Etat et fixe les modalités de leur remboursement. Les incidences financières de la signature de cette convention figurent dans la plus prochaine loi de finances.
+
+Les ouvrages appartenant à la société Aéroports de Paris et affectés au service public aéroportuaire sont des ouvrages publics.

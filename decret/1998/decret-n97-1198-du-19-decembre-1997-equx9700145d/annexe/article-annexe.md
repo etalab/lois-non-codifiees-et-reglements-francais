@@ -38,6 +38,12 @@ Autorisation d'outillage privé avec obligation de service public sur les aérod
 
 Article R. 223-3
 
+1
+
+Approbation des contrats de délégation passés par la société Aéroports de Paris
+
+Article 5
+
 TITRE II DÉCISIONS ADMINISTRATIVES INDIVIDUELLES PRISES PAR LE MINISTRE CHARGÉ DE L'ÉQUIPEMENT, DES TRANSPORTS ET DU LOGEMENT
 
 A. - Décisions prises conjointement avec un ou plusieurs ministres Mesure prise par les ministres chargés des finances, de l'équipement et du logement
@@ -166,7 +172,9 @@ Décret n° 96-611 du 4 juillet 1996 relatif à la mise sur le marché des batea
 
 1
 
-Agrément des organismes d'évaluation de conformité des navires de plaisance.
+Agrément des organismes d'évaluation de conformité des navires de
+
+plaisance.
 
 Article 7, 1er alinéa.
 
@@ -219,16 +227,6 @@ Code de l'aviation civile
 Autorisation d'outillage privé avec obligation de service public sur les aérodromes appartenant à l'Etat dans le cadre des concessions conformes aux cahiers des charges types lorsque l'aérodrome concerné a assuré, en moyenne au cours des trois dernières années civiles connues, un trafic de plus de 200 000 passagers embarqués ou débarqués.
 
 Articles R. 223-3 et R. 223-2.
-
-Mesure prise par le ministre chargé de l'aviation civile et le ministre chargé de l'économie et des finances
-
-Code de l'aviation civile
-
-1
-
-Approbation et modification des taux de redevances visées par l'article R. 224-3 du code de l'aviation civile et concernant les aérodromes ayant assuré, en moyenne au cours des trois dernières années civiles connues, un trafic de plus de 200 000 passagers embarqués ou débarqués.
-
-Articles R. 224-2 et R. 224-3.
 
 Mesure prise par les ministres chargés de l'aviation civile
 
@@ -892,7 +890,39 @@ Autorisation d'un régime répartissant le temps de vol et d'arrêt du personnel
 
 Article R. 423-88
 
+24
+
+Sanction pécuniaire prononcée à l'encontre de l'exploitant de l'aérodrome.
+
+Article R. 224-4-3
+
 Article 8.
+
+1
+
+Avis conforme sur les décisions de répartition des transporteurs aériens entre les aérodromes d'Aéroports de Paris
+
+Article 6
+
+(II et V)
+
+2
+
+Opposition aux cessions, apports ou à la création de sûretés
+
+Article 53
+
+3
+
+Avis conforme sur le choix de l'organisme de certification
+
+Article 59
+
+4
+
+Sanction envers la société Aéroports de Paris en cas de manquement constaté aux obligations imposées par le cahier des charges
+
+Article 65
 
 C. - Autres décisions
 

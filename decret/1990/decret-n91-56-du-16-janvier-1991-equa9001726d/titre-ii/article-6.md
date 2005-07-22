@@ -6,7 +6,7 @@ a) Pour 70 p. 100 des emplois à pourvoir :
 
 1° Par un premier concours externe ouvert, pour 60 p. 100 des emplois à pourvoir au titre du a, aux candidats âgés de vingt-trois ans au plus au 1er janvier de l'année du concours, qui justifient au 1er septembre de l'année du concours d'un brevet de technicien supérieur, d'un diplôme universitaire de technologie, d'un diplôme équivalent ou d'une formation d'un niveau au moins égal à deux années d'études après le baccalauréat de l'enseignement secondaire.
 
-La liste de ces diplômes, brevets et formations est établie par arrêté du ministre chargé de l'aviation civile et du ministre chargé de la fonction publique.
+La liste de ces diplômes, brevets et formations est établie par arrêté du ministre chargé de l'aviation civile et du ministre chargé de la fonction publique ;
 
 2° Par un second concours externe ouvert, pour 40 p. 100 des emploi à pourvoir au titre du a, aux candidats âgés de vingt-huit ans au plus au 1er janvier de l'année du concours, dégagés des obligations du service national et titulaires au 1er septembre de l'année du concours soit d'une licence d'électronique, d'électrotechnique et d'automatique, soit d'un titre ou diplôme au moins équivalent figurant sur la liste établie par arrêté conjoint du ministre chargé de l'aviation civile et du ministre chargé de la fonction publique.
 
@@ -14,7 +14,9 @@ b) Pour 15 p. 100 des emplois à pourvoir, par concours interne ouvert :
 
 1° Aux fonctionnaires et agents contractuels relevant du ministère chargé de l'équipement, des transports et de la mer justifiant, au 1er janvier de l'année du concours, de quatre ans au moins de services publics effectifs dans ce ministère ;
 
-2° Aux fonctionnaires et agents des collectivités territoriales en fonctions dans un service de l'aviation civile justifiant de quatre années d'ancienneté dans un tel service au 1er janvier de l'année du concours ;
+2° Aux ouvriers d'Etat régis par le décret du 8 janvier 1936 modifié fixant le statut du personnel ouvrier des établissements et services extérieurs du ministère de l'air et relevant des services de la direction générale de l'aviation civile, de l'Ecole nationale de l'aviation civile ou de l'établissement public Météo-France justifiant, au 1er janvier de l'année du concours, de quatre ans au moins de services publics effectifs dans ces services et établissements ;
+
+3° Aux fonctionnaires et agents des collectivités territoriales en fonctions dans un service de l'aviation civile justifiant de quatre années d'ancienneté dans un tel service au 1er janvier de l'année du concours.
 
 c) Pour 15 p. 100 des emplois à pourvoir, par examen professionnel, réservé aux fonctionnaires ainsi qu'aux contractuels et ouvriers régis respectivement par le décret n° 48-1018 du 16 juin 1948 fixant le statut des agents sur contrat du ministère des travaux publics, des transports et du tourisme (secrétariat général à l'aviation civile) et par le décret du 8 janvier 1936 fixant le statut des personnels ouvriers des établissements et services déconcentrés du ministère de l'air. Ces personnels doivent être en fonctions dans l'administration de l'aviation civile ou de la Météorologie nationale et compter au moins neuf ans de services effectifs en cette qualité, y compris, le cas échéant, une période de stage statutaire ne pouvant excéder une durée d'une année.
 

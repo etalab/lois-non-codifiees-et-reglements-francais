@@ -1,0 +1,3 @@
+# Article 5
+
+Dès lors que le handicap ou l'inaptitude partielle attestée par l'autorité médicale scolaire ne permet pas une pratique assidue des ensembles d'activités proposées mais autorise une pratique adaptée de certaines activités, les candidats relevant du contrôle en cours de formation sont évalués sur deux épreuves adaptées et ceux relevant de l'examen terminal sur une épreuve adaptée. Les adaptations, proposées par les établissements en début d'année, à la suite de l'avis médical, sont arrêtées par le recteur sur proposition de la commission académique d'harmonisation et de proposition des notes.

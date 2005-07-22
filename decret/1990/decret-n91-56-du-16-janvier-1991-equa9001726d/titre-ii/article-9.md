@@ -22,7 +22,7 @@ Au terme du stage, les ingénieurs stagiaires sont soit titularisés dans les co
 
 Les ingénieurs stagiaires perçoivent pendant la durée de leur stage le traitement afférent à l'échelon de stagiaire.
 
-c) Les élèves ingénieurs du contrôle de la navigation aérienne intégrés dans le corps des ingénieurs électroniciens des systèmes de la sécurité aérienne en application du d du I de l'article 6 ci-dessus sont nommés élèves ingénieurs électroniciens des systèmes de la sécurité aérienne dans les mêmes conditions que les candidats admis au concours mentionné au 1° du I de l'article 6.
+c) Les élèves ingénieurs du contrôle de la navigation aérienne intégrés dans le corps des ingénieurs électroniciens des systèmes de la sécurité aérienne en application du d du I de l'article 6 ci-dessus sont nommés élèves ingénieurs électroniciens des systèmes de la sécurité aérienne dans les mêmes conditions que les candidats admis au concours mentionné au 1° du a du I de l'article 6.
 
 II. - Les fonctionnaires et agents de l'Etat issus de l'examen professionnel prévu à l'article 6 ci-dessus sont nommés ingénieurs électroniciens stagiaires des systèmes de la sécurité aérienne par arrêté du ministre chargé de l'aviation civile.
 

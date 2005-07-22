@@ -1,0 +1,11 @@
+# Décret n°2005-829 du 20 juillet 2005 relatif à la composition des équipements électriques et électroniques et à l'élimination des déchets issus de ces équipements.
+
+- [TITRE Ier : DÉFINITIONS ET CHAMP D'APPLICATION.](titre-ier)
+- [TITRE II : DISPOSITIONS RELATIVES À LA COMPOSITION DES ÉQUIPEMENTS ÉLECTRIQUES ET ÉLECTRONIQUES.](titre-ii)
+- [TITRE III : DISPOSITIONS RELATIVES À LA COLLECTE DES DÉCHETS D'ÉQUIPEMENTS ÉLECTRIQUES ET ÉLECTRONIQUES MÉNAGERS.](titre-iii)
+- [TITRE IV : DISPOSITIONS RELATIVES À L'ENLÈVEMENT ET AU TRAITEMENT DES DÉCHETS D'ÉQUIPEMENTS ÉLECTRIQUES ET ÉLECTRONIQUES](titre-iv)
+- [TITRE V : DISPOSITIONS RELATIVES AU SUIVI ET AU CONTRÔLE.](titre-v)
+- [TITRE VI : SANCTIONS PÉNALES.](titre-vi)
+- [TITRE VII : AUTRES DISPOSITIONS.](titre-vii)
+- [Article 30](article-30.md)
+- [Annexes](annexes)
