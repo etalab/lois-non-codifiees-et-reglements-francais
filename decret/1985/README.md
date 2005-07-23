@@ -10,7 +10,6 @@
 - [Décret n°85-1292 du 3 décembre 1985](decret-n85-1292-du-3-decembre-1985)
 - [Décret n°85-397 du 3 avril 1985](decret-n85-397-du-3-avril-1985)
 - [Décret n°85-402 du 3 avril 1985](decret-n85-402-du-3-avril-1985)
-- [Décret n°85-410 du 3 avril 1985](decret-n85-410-du-3-avril-1985)
 - [Décret n°85-420 du 3 avril 1985](decret-n85-420-du-3-avril-1985)
 - [Décret n°85-666 du 3 juillet 1985](decret-n85-666-du-3-juillet-1985)
 - [Décret n°84-591 du 4 juillet 1984](decret-n84-591-du-4-juillet-1984)
