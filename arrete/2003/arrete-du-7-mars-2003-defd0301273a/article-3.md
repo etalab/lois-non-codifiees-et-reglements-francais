@@ -2,7 +2,7 @@
 
 Un comité directeur de la normalisation oriente et supervise l'activité du centre de normalisation de défense. Ce comité comprend :
 
-- le major général de l'état-major des armées et le directeur des programmes, des méthodes d'acquisition et de la qualité de la délégation générale pour l'armement, coprésidents ;
+- le major général des armées et le directeur de la qualité et du progrès de la délégation générale pour l'armement, coprésidents ;
 
 - les majors généraux de chacune des armées et de la gendarmerie ou leurs représentants ;
 
@@ -12,7 +12,7 @@ Un comité directeur de la normalisation oriente et supervise l'activité du cen
 
 - le sous-chef d'état-major plans de l'état-major des armées ;
 
-- le sous-directeur du maintien en condition opérationnelle de la délégation générale pour l'armement ;
+- le directeur de l'expertise technique de la délégation générale pour l'armement ;
 
 - le représentant du délégué aux affaires stratégiques.
 
