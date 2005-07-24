@@ -286,6 +286,7 @@
 - [Arrêté du 22 décembre 2004 (SOCF0412568A)](arrete-du-22-decembre-2004-socf0412568a)
 - [Arrêté du 22 décembre 2004 (SOCF0412569A)](arrete-du-22-decembre-2004-socf0412569a)
 - [Arrêté du 22 février 2005 (AGRG0500489A)](arrete-du-22-fevrier-2005-agrg0500489a)
+- [Arrêté du 22 juillet 2005 (SANH0522174A)](arrete-du-22-juillet-2005-sanh0522174a)
 - [Arrêté du 22 juin 2005 (ECOT0551041A)](arrete-du-22-juin-2005-ecot0551041a)
 - [Arrêté du 22 mars 2005 (DEFD0500277A)](arrete-du-22-mars-2005-defd0500277a)
 - [Arrêté du 22 mars 2005 (MENE0500604A)](arrete-du-22-mars-2005-mene0500604a)
