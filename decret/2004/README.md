@@ -389,7 +389,6 @@
 - [Décret n°2004-550 du 14 juin 2004 (MJSK0470099D)](decret-n2004-550-du-14-juin-2004-mjsk0470099d)
 - [Décret n°2004-571 du 14 juin 2004 (ECOT0491207D)](decret-n2004-571-du-14-juin-2004-ecot0491207d)
 - [Décret n°2004-573 du 14 juin 2004 (INTB0400152D)](decret-n2004-573-du-14-juin-2004-intb0400152d)
-- [Décret n°2004-59 du 14 janvier 2004 (SOCN0312069D)](decret-n2004-59-du-14-janvier-2004-socn0312069d)
 - [Décret n°2004-62 du 14 janvier 2004 (BUDD0370060D)](decret-n2004-62-du-14-janvier-2004-budd0370060d)
 - [Décret n°2004-63 du 14 janvier 2004 (MCCB0300915D)](decret-n2004-63-du-14-janvier-2004-mccb0300915d)
 - [Décret n°2004-66 du 14 janvier 2004 (INDI0302207D)](decret-n2004-66-du-14-janvier-2004-indi0302207d)

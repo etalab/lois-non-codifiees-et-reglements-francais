@@ -451,7 +451,6 @@
 - [Arrêté du 14 janvier 2004 (MENE0400022A)](arrete-du-14-janvier-2004-mene0400022a)
 - [Arrêté du 14 janvier 2004 (MENE0400023A)](arrete-du-14-janvier-2004-mene0400023a)
 - [Arrêté du 14 janvier 2004 (SANS0420208A)](arrete-du-14-janvier-2004-sans0420208a)
-- [Arrêté du 14 janvier 2004 (SOCN0312071A)](arrete-du-14-janvier-2004-socn0312071a)
 - [Arrêté du 14 juin 2004 (AGRE0401401A)](arrete-du-14-juin-2004-agre0401401a)
 - [Arrêté du 14 juin 2004 (DEFP0400530A)](arrete-du-14-juin-2004-defp0400530a)
 - [Arrêté du 14 juin 2004 (DEFP0400531A)](arrete-du-14-juin-2004-defp0400531a)
