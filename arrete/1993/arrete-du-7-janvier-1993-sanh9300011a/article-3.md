@@ -20,4 +20,4 @@ Tout ou partie des fonctions mentionnées aux 1°, 3° et 4° ci-dessus peut êt
 
 Les fonctions mentionnées aux 5° et 6° ci-dessus sont obligatoirement assurées en dehors de la zone opératoire protégée.
 
-Un document, élaboré sous la responsabilité technique du médecin coordonnateur mentionné à l'article D. 712-34 (2°) du code de la santé publique, précise les modalités de mise en oeuvre des fonctions mentionnées aux 1°, 3° et 4° ci-dessus.
+Un document, élaboré sous la responsabilité technique du médecin coordonnateur mentionné à l'article D. 6124-305 (2°) du code de la santé publique, précise les modalités de mise en oeuvre des fonctions mentionnées aux 1°, 3° et 4° ci-dessus.
