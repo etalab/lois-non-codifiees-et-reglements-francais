@@ -150,7 +150,6 @@
 - [Décret n°80-850 du 29 octobre 1980](decret-n80-850-du-29-octobre-1980)
 - [Décret n°67-850 du 30 septembre 1967](decret-n67-850-du-30-septembre-1967)
 - [Décret n°80-1098 du 30 décembre 1980](decret-n80-1098-du-30-decembre-1980)
-- [Décret n°80-112 du 30 janvier 1980](decret-n80-112-du-30-janvier-1980)
 - [Décret n°80-305 du 30 avril 1980](decret-n80-305-du-30-avril-1980)
 - [Décret n°80-608 du 30 juillet 1980](decret-n80-608-du-30-juillet-1980)
 - [Décret n°80-854 du 30 octobre 1980](decret-n80-854-du-30-octobre-1980)

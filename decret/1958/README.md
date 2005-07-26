@@ -8,7 +8,6 @@
 - [Décret n°58-931 du 8 octobre 1958](decret-n58-931-du-8-octobre-1958)
 - [Décret n°58-815 du 9 septembre 1958](decret-n58-815-du-9-septembre-1958)
 - [Décret n°59-409 du 10 mars 1959](decret-n59-409-du-10-mars-1959)
-- [Décret n°58-1202 du 11 décembre 1958](decret-n58-1202-du-11-decembre-1958)
 - [Décret n°58-1222 du 11 décembre 1958](decret-n58-1222-du-11-decembre-1958)
 - [Décret n°58-430 du 11 avril 1958](decret-n58-430-du-11-avril-1958)
 - [Décret n°58-434 du 11 avril 1958](decret-n58-434-du-11-avril-1958)

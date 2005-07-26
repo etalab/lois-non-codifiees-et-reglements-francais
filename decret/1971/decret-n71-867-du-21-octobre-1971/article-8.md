@@ -1,5 +1,0 @@
-# Article 8
-
-Les praticiens hospitaliers exerçant à temps partiel dans les centres hospitaliers régionaux de ville siège d'unité d'enseignement et de recherche médicale qui ont été recrutés sous l'empire du régime en vigueur avant l'application de l'ordonnance du 30 décembre 1958 susvisée et n'ont pas été intégrés effectivement dans les cadres régis par le décret du 24 septembre 1960 pourront bénéficier des dispositions du présent décret à condition qu'ils ne puissent pas se prévaloir du régime transitoire d'allocation institué par le décret n° 60-1378 du 21 décembre 1960 susvisé.
-
-Les dispositions prévues aux articles 4 à 7 inclus du présent décret ne sont pas applicables aux praticiens bénéficiaires des dispositions du décret n° 60-1378 du 21 décembre 1960 et qui exercent dans des services des centres hospitaliers régionaux de ville siège d'unité d'enseignement et de recherche médicale, placés en dehors du champ d'application de l'ordonnance du 30 décembre 1958 conformément aux dispositions de son article 8.

@@ -1,3 +1,0 @@
-# Article 5
-
-Les autorisations prévues à l'article R. 712-87 du code de la santé publique pourront être accordées à un établissement de santé pratiquant l'obstétrique, la néonatologie ou la réanimation néonatale à la date d'ouverture de la période prévue au dernier alinéa de l'article 4 ci-dessus et ne satisfaisant pas encore aux conditions techniques de fonctionnement prévues par le décret pris pour l'application du 3° de l'article L. 6122-2, à condition que cet établissement se mette en conformité avec lesdites conditions techniques dans un délai de cinq ans courant à compter de la date de notification des autorisations.

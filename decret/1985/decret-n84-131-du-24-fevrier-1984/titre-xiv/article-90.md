@@ -1,3 +1,0 @@
-# Article 90
-
-Par dérogation aux dispositions des articles 37, 38 et 39 du présent décret, les praticiens hospitaliers qui n'ont pas renoncé à l'exercice d'une activité de clientèle privée à l'hôpital avant l'expiration du délai prévu à l'article 6 de la loi du 2 janvier 1984 portant diverses mesures d'ordre social demeurent indemnisés, jusqu'au 31 décembre 1986 pour les périodes de congés de maladie, longue maladie, longue durée, dans les conditions fixées au troisième alinéa de l'article 48, au premier alinéa de l'article 49 et au troisième alinéa de l'article 51 du décret du 8 mars 1978 susvisé.

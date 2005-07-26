@@ -1,3 +1,0 @@
-# Article 9
-
-L'injonction tendant à exiger, par application de l'article 6 (paragraphe 1er) du décret du 29 novembre 1939, la présentation à intervalles fixes de nouveaux certificats médicaux est notifiée suivant la procédure prévue aux articles 4 (paragraphe 3), 5 et 6 du présent décret. L'article 7 dudit décret sera également applicable en ce qui concerne cette injonction. La note constatant l'injonction devra rappeler à la personne intéressée l'obligation à celle imposée par l'article 6 (paragraphe 1) du décret précité du 29 novembre 1939 d'avoir à faire connaître, en cas de déplacement, son adresse aux inspecteurs départementaux d'hygiène de son ancienne et de sa nouvelle résidence.

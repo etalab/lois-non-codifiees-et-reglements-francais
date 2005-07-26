@@ -1,3 +1,0 @@
-# Article 1
-
-Conformément aux dispositions de l'ordonnance susvisée du 30 décembre 1958, les facultés de médecine et les facultés mixtes de médecine et de pharmacie et les centres hospitaliers régionaux organisent conjointement les écoles nationales de chirurgie dentaire et les services de consultations et de traitements dentaires prévus par le présent décret, en centres de soins, d'enseignement et de recherche dentaires où, dans le respect des malades, sont dispensés les enseignements préparatoires au diplôme de chirurgien dentiste et les enseignements postuniversitaires et qui, sans préjudice des attributions des autres établissements de recherche et d'enseignement, participent à la recherche dentaire.

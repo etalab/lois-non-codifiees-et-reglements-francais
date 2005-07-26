@@ -47,8 +47,6 @@
 - [Décret n°65-75 du 22 janvier 1965](decret-n65-75-du-22-janvier-1965)
 - [Décret n°65-801 du 22 septembre 1965](decret-n65-801-du-22-septembre-1965)
 - [Décret n°65-803 du 22 septembre 1965](decret-n65-803-du-22-septembre-1965)
-- [Décret n°65-804 du 22 septembre 1965](decret-n65-804-du-22-septembre-1965)
-- [Décret n°65-806 du 22 septembre 1965](decret-n65-806-du-22-septembre-1965)
 - [Décret du 23 avril 1965](decret-du-23-avril-1965)
 - [Décret n°65-614 du 23 juillet 1965](decret-n65-614-du-23-juillet-1965)
 - [Décret n°65-726 du 26 août 1965](decret-n65-726-du-26-aout-1965)

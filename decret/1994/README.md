@@ -745,7 +745,6 @@
 - [Décret n°94-666 du 27 juillet 1994 (SPSH9401973D)](decret-n94-666-du-27-juillet-1994-spsh9401973d)
 - [Décret n°94-848 du 27 septembre 1994 (ECOT9420020D)](decret-n94-848-du-27-septembre-1994-ecot9420020d)
 - [Décret n°94-857 du 27 septembre 1994 (MICT9400027D)](decret-n94-857-du-27-septembre-1994-mict9400027d)
-- [Décret n°94-929 du 27 octobre 1994 (SPSH9402064D)](decret-n94-929-du-27-octobre-1994-spsh9402064d)
 - [Décret n°94-93 du 27 janvier 1994 (MENE9306293D)](decret-n94-93-du-27-janvier-1994-mene9306293d)
 - [Décret n°94-931 du 27 octobre 1994 (ECOT9451377D)](decret-n94-931-du-27-octobre-1994-ecot9451377d)
 - [Décret n°94-421 du 27 mai 1994 (TEFO9400425D)](decret-n94-421-du-27-mai-1994-tefo9400425d)

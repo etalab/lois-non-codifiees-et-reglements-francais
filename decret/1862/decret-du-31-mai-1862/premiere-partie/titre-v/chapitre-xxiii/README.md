@@ -6,4 +6,3 @@
 - [Paragraphe 4 : Budget de l'exercice ; vote des recettes et des dépenses.](paragraphe-4)
 - [Paragraphe 5 : Fonctions et comptes de l'ordonnateur.](paragraphe-5)
 - [Paragraphe 6 : Gestion et compte du receveur.](paragraphe-6)
-- [Paragraphe 7 : Administration de l'assistance publique à Paris.](paragraphe-7)

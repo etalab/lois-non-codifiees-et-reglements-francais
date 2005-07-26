@@ -42,7 +42,6 @@
 - [Décret n°78-363 du 13 mars 1978](decret-n78-363-du-13-mars-1978)
 - [Décret n°78-321 du 14 mars 1978](decret-n78-321-du-14-mars-1978)
 - [Décret n°78-351 du 14 mars 1978](decret-n78-351-du-14-mars-1978)
-- [Décret n°78-326 du 15 mars 1978](decret-n78-326-du-15-mars-1978)
 - [Décret n°78-346 du 15 mars 1978](decret-n78-346-du-15-mars-1978)
 - [Décret n°78-380 du 15 mars 1978](decret-n78-380-du-15-mars-1978)
 - [Décret n°75-1197 du 16 décembre 1975](decret-n75-1197-du-16-decembre-1975)

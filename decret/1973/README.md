@@ -75,7 +75,6 @@
 - [Décret n°73-1075 du 27 novembre 1973](decret-n73-1075-du-27-novembre-1973)
 - [Décret n°73-360 du 27 mars 1973](decret-n73-360-du-27-mars-1973)
 - [Décret n°73-378 du 27 mars 1973](decret-n73-378-du-27-mars-1973)
-- [Décret n°73-384 du 27 mars 1973](decret-n73-384-du-27-mars-1973)
 - [Décret n°73-405 du 27 mars 1973](decret-n73-405-du-27-mars-1973)
 - [Décret n°73-412 du 27 mars 1973](decret-n73-412-du-27-mars-1973)
 - [Décret n°73-428 du 27 mars 1973](decret-n73-428-du-27-mars-1973)

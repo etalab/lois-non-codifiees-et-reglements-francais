@@ -1,5 +1,0 @@
-# Article 2
-
-Peuvent se présenter à l'un des deux examens prévus à l'article 1er les anciens médecins vacataires départementaux, mentionnés à l'article 14 de la loi du 31 décembre 1985 susvisée, qui exerçaient en cette qualité au 1er janvier 1986 une activité de lutte contre les maladies mentales et qui sont toujours en activité à ce titre dans les établissements publics de santé à la date de publication du présent décret.
-
-L'examen d'accès à l'emploi de praticien hospitalier à temps plein est ouvert aux médecins visés à l'alinéa précédent qui justifient, au titre d'un ou plusieurs secteurs psychiatriques, d'un service mensuel moyen d'au moins 120 heures pendant la période de six mois précédant la date de publication du présent décret. Les médecins qui ne remplissent pas cette condition peuvent se présenter à l'examen d'accès à l'emploi de praticien exerçant à temps partiel s'ils justifient d'un service mensuel d'au moins 60 heures pendant la période de six mois précédant la date de publication du présent décret.

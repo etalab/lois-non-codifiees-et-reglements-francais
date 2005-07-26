@@ -1,3 +1,0 @@
-# Article 9
-
-Lorsque l'une des conditions définies aux articles 6, 7 et 8 cesse d'être remplie, le ministre chargé de la santé adresse à l'établissement une mise en demeure de se conformer aux règles définies au présent décret. Si, à l'expiration du délai fixé dans la mise en demeure, qui ne peut être inférieur à trois mois, les conditions susvisées continuent à ne pas être remplies, le ministre chargé de la santé, après avis de la commission nationale des équipements sanitaires et sociaux, retire [*retrait*] l'autorisation. En cas d'urgence, le ministre prononce, sans formalité préalable, la suspension de l'autorisation.
