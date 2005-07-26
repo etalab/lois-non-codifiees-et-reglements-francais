@@ -1,0 +1,3 @@
+# Article 7
+
+A titre transitoire et en application de l'article 13 de l'ordonnance n° 2003-850 du 4 septembre 2003 portant simplification de l'organisation et du fonctionnement du système de santé ainsi que des procédures de création d'établissements ou de services sociaux ou médico-sociaux soumis à autorisation, les dispositions des articles D. 712-15 et D. 712-16 du code de la santé publique, dans leur rédaction antérieure à la publication du présent décret, demeurent applicables pour la délivrance et le renouvellement par le ministre chargé de la santé des autorisations relatives aux activités de soins et aux équipements lourds concernés, jusqu'à la date de publication des dispositions du schéma d'organisation sanitaire mentionnées à l'article 13 précité.
