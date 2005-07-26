@@ -10,7 +10,6 @@
 - [Décret n°75-557 du 2 juillet 1975](decret-n75-557-du-2-juillet-1975)
 - [Décret n° 73-879 du 4 septembre 1973](decret-n-73-879-du-4-septembre-1973)
 - [Décret n°73-788 du 4 août 1973](decret-n73-788-du-4-aout-1973)
-- [Décret n°73-809 du 4 août 1973](decret-n73-809-du-4-aout-1973)
 - [Décret n°75-1070 du 4 novembre 1975](decret-n75-1070-du-4-novembre-1975)
 - [Décret n°73-124 du 5 février 1973](decret-n73-124-du-5-fevrier-1973)
 - [Décret n°73-132 du 5 février 1973](decret-n73-132-du-5-fevrier-1973)

@@ -31,7 +31,6 @@
 - [Décret n°64-171 du 21 février 1964](decret-n64-171-du-21-fevrier-1964)
 - [Décret n°63-424 du 22 avril 1963](decret-n63-424-du-22-avril-1963)
 - [Décret n°67-819 du 23 septembre 1967](decret-n67-819-du-23-septembre-1967)
-- [Décret n°63-887 du 24 août 1963](decret-n63-887-du-24-aout-1963)
 - [Décret n°65-327 du 24 avril 1965](decret-n65-327-du-24-avril-1965)
 - [Décret n°63-763 du 25 juillet 1963](decret-n63-763-du-25-juillet-1963)
 - [Décret n°63-765 du 25 juillet 1963](decret-n63-765-du-25-juillet-1963)

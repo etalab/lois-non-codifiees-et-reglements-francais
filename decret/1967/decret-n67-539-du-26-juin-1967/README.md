@@ -1,3 +1,0 @@
-# Décret n°67-539 du 26 juin 1967 portant création du diplôme d'Etat de laborantin d'analyses médicales.
-
-- [Article 5](article-5.md)

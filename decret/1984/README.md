@@ -215,7 +215,6 @@
 - [Décret n°83-1018 du 28 novembre 1983](decret-n83-1018-du-28-novembre-1983)
 - [Décret n°84-1192 du 28 décembre 1984](decret-n84-1192-du-28-decembre-1984)
 - [Décret n°84-1195 du 28 décembre 1984](decret-n84-1195-du-28-decembre-1984)
-- [Décret n°84-1196 du 28 décembre 1984](decret-n84-1196-du-28-decembre-1984)
 - [Décret n°84-1197 du 28 décembre 1984](decret-n84-1197-du-28-decembre-1984)
 - [Décret n°84-1198 du 28 décembre 1984](decret-n84-1198-du-28-decembre-1984)
 - [Décret n°84-1206 du 28 décembre 1984](decret-n84-1206-du-28-decembre-1984)

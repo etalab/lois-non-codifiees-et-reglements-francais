@@ -40,7 +40,6 @@
 - [Décret n°82-1045 du 8 décembre 1982](decret-n82-1045-du-8-decembre-1982)
 - [Décret n°82-318 du 8 avril 1982](decret-n82-318-du-8-avril-1982)
 - [Décret n°82-337 du 8 avril 1982](decret-n82-337-du-8-avril-1982)
-- [Décret n°82-634 du 8 juillet 1982](decret-n82-634-du-8-juillet-1982)
 - [Décret n°82-766 du 8 septembre 1982](decret-n82-766-du-8-septembre-1982)
 - [Décret n°82-771 du 8 septembre 1982](decret-n82-771-du-8-septembre-1982)
 - [Décret n°82-9 du 8 janvier 1982](decret-n82-9-du-8-janvier-1982)

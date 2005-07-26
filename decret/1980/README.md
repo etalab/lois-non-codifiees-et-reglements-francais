@@ -22,7 +22,6 @@
 - [Décret n°80-263 du 3 avril 1980](decret-n80-263-du-3-avril-1980)
 - [Décret n°80-683 du 3 septembre 1980](decret-n80-683-du-3-septembre-1980)
 - [Décret n°80-789 du 3 octobre 1980](decret-n80-789-du-3-octobre-1980)
-- [Décret n°80-987 du 3 décembre 1980](decret-n80-987-du-3-decembre-1980)
 - [Décret n°80-121 du 4 février 1980](decret-n80-121-du-4-fevrier-1980)
 - [Décret n°80-508 du 4 juillet 1980](decret-n80-508-du-4-juillet-1980)
 - [Décret n°80-516 du 4 juillet 1980](decret-n80-516-du-4-juillet-1980)

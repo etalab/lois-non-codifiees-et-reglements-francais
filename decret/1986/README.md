@@ -160,7 +160,6 @@
 - [Décret n°86-422 du 12 mars 1986](decret-n86-422-du-12-mars-1986)
 - [Décret n°86-433 du 12 mars 1986](decret-n86-433-du-12-mars-1986)
 - [Décret n°86-434 du 12 mars 1986](decret-n86-434-du-12-mars-1986)
-- [Décret n°86-435 du 12 mars 1986](decret-n86-435-du-12-mars-1986)
 - [Décret du 13 avril 1981](decret-du-13-avril-1981)
 - [Décret n°86-368 du 13 mars 1986](decret-n86-368-du-13-mars-1986)
 - [Décret n°86-376 du 13 mars 1986](decret-n86-376-du-13-mars-1986)

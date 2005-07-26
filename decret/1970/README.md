@@ -13,7 +13,6 @@
 - [Décret n° 70-406 du 5 mai 1970](decret-n-70-406-du-5-mai-1970)
 - [Décret n°71-281 du 7 avril 1971](decret-n71-281-du-7-avril-1971)
 - [Décret n°70-26 du 8 janvier 1970](decret-n70-26-du-8-janvier-1970)
-- [Décret n°70-931 du 8 octobre 1970](decret-n70-931-du-8-octobre-1970)
 - [Décret n°71-917 du 8 novembre 1971](decret-n71-917-du-8-novembre-1971)
 - [Décret n° 70-413 du 8 mai 1970](decret-n-70-413-du-8-mai-1970)
 - [Décret n° 70-415 du 8 mai 1970](decret-n-70-415-du-8-mai-1970)

@@ -70,7 +70,6 @@
 - [Décret n°79-800 du 17 septembre 1979](decret-n79-800-du-17-septembre-1979)
 - [Décret n°79-804 du 17 septembre 1979](decret-n79-804-du-17-septembre-1979)
 - [Décret n°79-903 du 17 octobre 1979](decret-n79-903-du-17-octobre-1979)
-- [Décret n°79-910 du 17 octobre 1979](decret-n79-910-du-17-octobre-1979)
 - [Décret n°79-394 du 17 mai 1979](decret-n79-394-du-17-mai-1979)
 - [Décret n°79-58 du 18 janvier 1979](decret-n79-58-du-18-janvier-1979)
 - [Décret n°79-67 du 18 janvier 1979](decret-n79-67-du-18-janvier-1979)
