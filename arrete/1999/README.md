@@ -2,7 +2,6 @@
 
 - [Arrêté du 1 avril 1999 (ECOT9951798A)](arrete-du-1-avril-1999-ecot9951798a)
 - [Arrêté du 1 avril 1999 (MESF9910347A)](arrete-du-1-avril-1999-mesf9910347a)
-- [Arrêté du 1 avril 1999 (MESH9921206A)](arrete-du-1-avril-1999-mesh9921206a)
 - [Arrêté du 1 décembre 1999 (MESH9923684A)](arrete-du-1-decembre-1999-mesh9923684a)
 - [Arrêté du 1 décembre 1999 (MESH9923685A)](arrete-du-1-decembre-1999-mesh9923685a)
 - [Arrêté du 1 décembre 1999 (MESH9923686A)](arrete-du-1-decembre-1999-mesh9923686a)
