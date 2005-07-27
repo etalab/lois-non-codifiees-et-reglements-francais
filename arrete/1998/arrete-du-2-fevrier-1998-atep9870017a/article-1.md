@@ -2,7 +2,7 @@
 
 Le présent arrêté fixe les prescriptions applicables aux prélèvements et à la consommation d'eau ainsi qu'aux émissions de toute nature des installations classées soumises à autorisation, à l'exclusion :
 
-- des chaudières, turbines et moteurs relevant de la rubrique 2910 de la nomenclature des installations classées ;
+- des chaudières, turbines et moteurs relevant de la rubrique 2910 de la nomenclature des installations classées. Toutefois, les dispositions des articles 30 (3°), 33 (3°) et 71 s'appliquent à l'ensemble des installations présentes sur une plate-forme de raffinage de pétrole, y compris les chaudières, turbines et moteurs relevant de la rubrique 2910 ;
 
 - des carrières et des installations de premier traitement des matériaux de carrières ;
 

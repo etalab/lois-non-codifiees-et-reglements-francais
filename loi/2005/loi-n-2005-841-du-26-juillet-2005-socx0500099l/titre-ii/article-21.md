@@ -1,0 +1,3 @@
+# Article 21
+
+Les actions de formation destinées aux personnes bénéficiant des contrats mentionnés aux articles L. 322-4-7 et L. 322-4-10 du code du travail dans les établissements énumérés à l'article 2 de la loi n° 86-33 du 9 janvier 1986 portant dispositions statutaires relatives à la fonction publique hospitalière, en vue de faciliter leur insertion, sont financées, pour tout ou partie, au moyen de crédits collectés par les organismes collecteurs paritaires mentionnés à l'article 22 de la loi n° 90-579 du 4 juillet 1990 relative au crédit-formation, à la qualité et au contrôle de la formation professionnelle continue et modifiant le livre IX du code du travail.

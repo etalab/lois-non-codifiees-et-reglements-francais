@@ -30,9 +30,11 @@ Sauf dans le cas où le fonctionnaire ne peut être placé en congé de longue m
 
 Sur la demande de l'intéressé, l'établissement a la faculté, après avis du comité médical, de maintenir en congé de longue maladie le fonctionnaire qui peut prétendre à l'octroi d'un congé de longue durée ;
 
-5° Au congé pour maternité ou pour adoption, avec traitement, d'une durée égale à celle prévue par la législation sur la sécurité sociale ;
+5° Au congé pour maternité ou pour adoption, avec traitement, d'une durée égale à celle prévue par la législation sur la sécurité sociale. Le droit au congé d'adoption est ouvert à la mère ou au père adoptif. Lorsque les deux conjoints travaillent, soit l'un des deux renonce à son droit, soit le congé est réparti entre eux. Dans ce dernier cas, la durée de celui-ci est augmentée et fractionnée selon les modalités prévues par la législation sur la sécurité sociale ;
 
-Au congé de paternité en cas de naissance ou d'adoption, avec traitement, d'une durée égale à celle prévue par la législation sur la sécurité sociale ;
+Au congé de paternité en cas de naissance, avec traitement, d'une durée égale à celle prévue par la législation sur la sécurité sociale ;
+
+A l'expiration de chacun des congés mentionnés aux deux aliné as précédents, le fonctionnaire est réaffecté de plein droit dans son ancien emploi. Dans le cas où celui-ci ne peut lui être proposé, le fonctionnaire est affecté dans un emploi équivalent, le plus proche de son dernier lieu de travail. S'il le demande, il peut également être affecté dans l'emploi le plus proche de son domicile sous réserve du respect des dispositions de l'article 38 ;
 
 6° Au congé de formation professionnelle ; la prise en charge de ce congé et des dépenses relatives au bilan de compétences effectué à l'initiative de l'agent, dans les établissements énumérés à l'article 2, est assurée par une cotisation annuelle d'un montant de 0,20 p. 100 des salaires inscrits à leur budget, au sens du 1 de l'article 231 du code général des impôts, versée à un ou plusieurs organismes paritaires agréés par l'Etat, chargés de la gestion et de la mutualisation de cette cotisation ;
 

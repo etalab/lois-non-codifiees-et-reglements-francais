@@ -42,9 +42,11 @@ Le mi-temps thérapeutique peut être accordé :
 
 Les fonctionnaires autorisés à travailler à mi-temps pour raison thérapeutique perçoivent l'intégralité de leur traitement ;
 
-5° Au congé pour maternité, ou pour adoption, avec traitement, d'une durée égale à celle prévue par la législation sur la sécurité sociale.
+5° Au congé pour maternité, ou pour adoption, avec traitement, d'une durée égale à celle prévue par la législation sur la sécurité sociale.Le droit au congé d'adoption est ouvert à la mère ou au père adoptif. Lorsque les deux conjoints travaillent, soit l'un des deux renonce à son droit, soit le congé est réparti entre eux. Dans ce dernier cas, la durée de celui-ci est augmentée et fractionnée selon les modalités prévues par la législation sur la sécurité sociale.
 
-Au congé de paternité en cas de naissance ou d'adoption, avec traitement, d'une durée égale à celle prévue par la législation sur la sécurité sociale ;
+Au congé de paternité en cas de naissance avec traitement, d'une durée égale à celle prévue par la législation sur la sécurité sociale ;
+
+A l'expiration de chacun des congés mentionnés aux deux alinéas précédents, le fonctionnaire est réaffecté de plein droit dans son ancien emploi. Dans le cas où celui-ci ne peut lui être proposé, le fonctionnaire est affecté dans un emploi équivalent, le plus proche de son dernier lieu de travail. S'il le demande, il peut également être affecté dans l'emploi le plus proche de son domicile sous réserve du respect des dispositions de l'article 54 ;
 
 6° Au congé de formation professionnelle ;
 

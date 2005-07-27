@@ -20,11 +20,17 @@ et 500 mg/m3 d'équivalent SO2 pour les unités de concentration de déchets aci
 
 De plus, des dispositifs permettant de supprimer l'émission de vésicules acides sont installés et les installations de grillage des sels produits par le traitement des déchets sont équipées selon la meilleure technologie disponible en vue de réduire les émissions d'oxydes de soufre.
 
-3° Raffineries de produits pétroliers :
+3° Plates-formes de raffinage de pétrole.
 
-Pour les raffineries neuves, les dispositions du 3° de l'article 27 sont remplacées par les dispositions suivantes : le rejet total d'oxydes de soufre ne doit pas dépasser le flux journalier correspondant à un rejet au taux moyen de 1 000 mg/m3 (exprimé en SO2) sur la plate-forme pétrolière, sans préjudice de l'application des textes relatifs aux chaudières, turbines et moteurs relevant de la rubrique 2910 de la nomenclature des installations classées.
+Pour les plates-formes de raffinage de pétrole neuves, c'est-à-dire constituées entièrement d'unités neuves, les dispositions des 1°, 3° et 4° de l'article 27 sont remplacées par les dispositions suivantes :
 
-Remarque : une raffinerie neuve est un établissement constitué entièrement d'unités neuves.
+- le rejet total d'oxydes de soufre ne doit pas dépasser le flux journalier correspondant à une concentration moyenne journalière de 600 mg/Nm3 (exprimé en SO2) sur l'ensemble des installations en fonctionnement ;
+
+- pour chaque installation, la valeur limite d'émission en oxydes d'azote (exprimé en NO2) ne dépasse pas 200 mg/Nm3 ;
+
+- pour chaque installation, la valeur limite d'émission en particules ne dépasse pas 30 mg/Nm3.
+
+Les valeurs limites d'émission sont rapportées à une teneur en oxygène, dans les gaz résiduaires secs, de 3 % en volume. Ces dispositions sont applicables sans préjudice de l'application des textes relatifs aux chaudières, turbines et moteurs visés par la rubrique 2910 de la nomenclature des installations classées.
 
 4° Traitement des gaz soufrés résiduaires sur un site pétrochimique, mais à l'extérieur d'une raffinerie de produits pétroliers : les dispositions du 3° de l'article 27 sont remplacées par les dispositions suivantes :
 
@@ -308,49 +314,178 @@ La conception assistée par ordinateur ou d'autres méthodes équivalentes sont 
 
 Dans le tableau suivant, la valeur limite d'émission totale se rapporte à toutes les étapes des opérations qui se déroulent dans la même installation, de l'application par électrophorèse ou par tout autre procédé de revêtement jusqu'au polissage de la couche de finition, ainsi qu'aux solvants utilisés pour le nettoyage du matériel, y compris la zone de pulvérisation et autre équipement fixe, tant pendant la durée de production qu'en dehors de celle-ci. La valeur limite d'émission totale est exprimée en poids total de composés organiques par mètre carré de surface revêtue et en masse totale de composés organiques par carrosserie d'automobile revêtue.
 
-(Tableau non reproduit).
+<table>
+<tbody>
+<tr>
+<td rowspan="2" width="193">
+<p align="center">ACTIVITÉS</p>
+</td>
+<td rowspan="2" width="162">
+<p align="center">SEUIL DE PRODUCTION<br/>(production annuelle<br/>du produit traité)</p>
+</td>
+<td colspan="2" width="305">
+<p align="center">VALEUR LIMITE D'ÉMISSION TOTALE</p>
+</td>
+</tr>
+<tr>
+<td width="154">
+<p align="center">Installations autorisées à compter<br/>du 30 décembre 2000</p>
+</td>
+<td width="151">
+<p align="center">Installations autorisée <br/>avant le 1<sup>er</sup> janvier 2001</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" width="193">
+<p>Revêtement d'automobiles neuves</p>
+</td>
+<td width="162">
+<p align="center">&gt; 5000</p>
+</td>
+<td width="154">
+<p align="center">45 g/m² <br/>ou 1,3 kg/carrosserie + 33 g/m²</p>
+</td>
+<td width="151">
+<p align="center">60 g/m²<br/>ou 1,9 kg/carrosserie + 41 g/m²</p>
+</td>
+</tr>
+<tr>
+<td width="162">
+<p align="center">≤ 5000 (monocoque)<br/>ou &gt; 3500 (châssis)</p>
+</td>
+<td width="154">
+<p align="center">90 g/m²<br/>ou 1,5 kg/carrosserie + 70 g/m²</p>
+</td>
+<td width="151">
+<p align="center">90 g/m²<br/>ou 1,5 kg/carrosserie + 70 g/m²</p>
+</td>
+</tr>
+<tr>
+<td width="193">
+<p>Revêtement de cabines de camion neuves</p>
+</td>
+<td width="162">
+<p align="center">≤ 5000<br/>&gt; 5000</p>
+</td>
+<td width="154">
+<p align="center">65 g/m²<br/>55 g/m²</p>
+<br/>
+</td>
+<td width="151">
+<p align="center">85 g/m²<br/>75 g/m²</p>
+</td>
+</tr>
+<tr>
+<td width="193">
+<p>Revêtement de camionnettes et camions neufs</p>
+</td>
+<td width="162">
+<p align="center">≤ 2500<br/>&gt; 2500</p>
+</td>
+<td width="154">
+<p align="center">90 g/m²<br/>70 g/m²</p>
+</td>
+<td width="151">
+<p align="center">120 g/m²<br/>90 g/m²</p>
+</td>
+</tr>
+<tr>
+<td width="193">
+<p>Revêtement d'autobus neufs</p>
+</td>
+<td width="162">
+<p align="center">≤ 2000<br/>&gt; 2000</p>
+</td>
+<td width="154">
+<p align="center">210<br/>150</p>
+</td>
+<td width="151">
+<p align="center">290<br/>225</p>
+</td>
+</tr>
+</tbody>
+</table>
 
 34° Extraction d'huiles végétales et de graisses animales et activités de raffinage d'huile végétale (toute activité d'extraction d'huile végétale à partir de graines et d'autres matières végétales, le traitement de résidus secs destinés à la production d'aliments pour animaux, la purification de graisses et d'huiles végétales dérivées de graines, de matière végétale et/ou de matières animales) : si la consommation de solvants est supérieure à 10 tonnes par an, les dispositions du premier alinéa du a du 7° de l'article 27 sont remplacées par les dispositions suivantes :
 
 La valeur limite d'émission totale des émissions de COV non méthanique figure dans le tableau ci-dessous pour différents types de produits traité.
 
-TYPE DE MATIERE TRAITEE
-
-VALEUR LIMITE D'ÉMISSION totale de COV par tonne de matière traitée
-
-Graisse animale
-
-1,5 kg/tonne
-
-Ricin
-
-3 kg/tonne
-
-Colza
-
-1 kg/tonne
-
-Tournesol
-
-1 kg/tonne
-
-Soja (broyage normal)
-
-0,8 kg/tonne
-
-Soja (flocons blancs)
-
-1,2 kg/tonne
-
-Autres graines et autres matières végétales
-
-3 kg/tonne (1) (2) (3)
-
-(1) Pour les installations transformant des lots séparés, les valeurs limites d'émission sont fixées au cas par cas en recourant aux meilleures techniques disponibles.
-
-(2) Pour les procédés de fractionnement, à l'exception de la démucilagination (élimination des matières gommeuses de l'huile), le total des émissions est inférieur ou égal à 1,5 kg/tonne.
-
-(3) Pour la démucilagination, le total des émissions est inférieur ou égal à 4 kg/tonne.
+<table>
+<tbody>
+<tr>
+<td width="175">
+<p align="center">TYPE DE MATIÈRE TRAITÉE (1)</p>
+</td>
+<td width="145">
+<p align="center">VALEUR LIMITE D'ÉMISSION<br/>totale de cov par tonne <br/>de matière traitée (1)</p>
+</td>
+</tr>
+<tr>
+<td width="175">
+<p>Graisse animale </p>
+</td>
+<td width="145">
+<p>1,5 kg/tonne</p>
+</td>
+</tr>
+<tr>
+<td width="175">
+<p>Ricin</p>
+</td>
+<td width="145">
+<p>3 kg/tonne</p>
+</td>
+</tr>
+<tr>
+<td width="175">
+<p>Colza</p>
+</td>
+<td width="145">
+<p>1 kg/tonne</p>
+</td>
+</tr>
+<tr>
+<td width="175">
+<p>Tournesol</p>
+</td>
+<td width="145">
+<p>1 kg/tonne</p>
+</td>
+</tr>
+<tr>
+<td width="175">
+<p>Soja (broyage normal)</p>
+</td>
+<td width="145">
+<p>0,8 kg/tonne</p>
+</td>
+</tr>
+<tr>
+<td width="175">
+<p>Soja (flocons blancs)</p>
+</td>
+<td width="145">
+<p>1,2 kg/tonne</p>
+</td>
+</tr>
+<tr>
+<td width="175">
+<p>Autres graines et autres matières végétales</p>
+</td>
+<td width="145">
+<p>3 kg/tonne (2) (3) (4)</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" width="320">
+<p>(1) Intitulé modifié par arrêté du 2 mai 2002, art. 4-I et 4-II.</p>
+<p>(2) Pour les installations transformant des lots séparés, les valeurs limites d'émission sont fixées au cas par cas en recourant aux meilleures techniques disponibles.</p>
+<p>(3) Pour les procédés de fractionnement, à l'exception de la démucilagination (élimination des matières gommeuses de l'huile), le total des émissions est inférieur ou égal à 1,5 kg/tonne.</p>
+<p>(4) Pour la démucilagination, le total des émissions est inférieur ou égal à 4 kg/tonne.</p>
+</td>
+</tr>
+</tbody>
+</table>
 
 35° Travail du cuir : si la consommation de solvants est supérieure à 10 tonnes par an, les dispositions du premier alinéa du a du 7° de l'article 27 sont remplacées par les dispositions suivantes :
 
