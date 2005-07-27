@@ -335,7 +335,6 @@
 - [Décret n°2003-658 du 18 juillet 2003 (BUDF0300014D)](decret-n2003-658-du-18-juillet-2003-budf0300014d)
 - [Décret n°2003-659 du 18 juillet 2003 (BUDF0300020D)](decret-n2003-659-du-18-juillet-2003-budf0300020d)
 - [Décret n°2004-170 du 18 février 2004 (MCCB0300928D)](decret-n2004-170-du-18-fevrier-2004-mccb0300928d)
-- [Décret du 19 septembre 2003 (AGRP0301337D)](decret-du-19-septembre-2003-agrp0301337d)
 - [Décret n° 2003-1221 du 19 décembre 2003 (MCCB0300703D)](decret-n-2003-1221-du-19-decembre-2003-mccb0300703d)
 - [Décret n°2003-1102 du 19 novembre 2003 (JUSE0340108D)](decret-n2003-1102-du-19-novembre-2003-juse0340108d)
 - [Décret n°2003-1117 du 19 novembre 2003 (EQUA0301041D)](decret-n2003-1117-du-19-novembre-2003-equa0301041d)
