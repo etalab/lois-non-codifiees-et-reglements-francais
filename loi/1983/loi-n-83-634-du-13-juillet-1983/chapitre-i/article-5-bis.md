@@ -1,6 +1,6 @@
 # Article 5 bis
 
-Les ressortissants des Etats membres de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen autres que la France ont accès, dans les conditions prévues au statut général, aux corps, cadres d'emplois et emplois dont les attributions soit sont séparables de l'exercice de la souveraineté, soit ne comportent aucune participation directe ou indirecte à l'exercice de prérogatives de puissance publique de l'Etat ou des autres collectivités publiques.
+Les ressortissants des Etats membres de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen autres que la France ont accès, dans les conditions prévues au statut général, aux corps, cadres d'emplois et emplois. Toutefois, ils n'ont pas accès aux emplois dont les attributions soit ne sont pas séparables de l'exercice de la souveraineté, soit comportent une participation directe ou indirecte à l'exercice de prérogatives de puissance publique de l'Etat ou des autres collectivités publiques.
 
 Ils ne peuvent avoir la qualité de fonctionnaires :
 
@@ -12,7 +12,7 @@ Ils ne peuvent avoir la qualité de fonctionnaires :
 
 4° S'ils ne remplissent les conditions d'aptitude physique exigées pour l'exercice de la fonction compte tenu des possibilités de compensation du handicap.
 
-Les corps, cadres d'emplois ou emplois remplissant les conditions définies au premier alinéa ci-dessus sont désignés par leurs statuts particuliers respectifs. Ces statuts particuliers précisent également, en tant que de besoin, les conditions dans lesquelles les fonctionnaires ne possédant pas la nationalité française peuvent être nommés dans les organes consultatifs dont les avis ou les propositions s'imposent à l'autorité investie du pouvoir de décision.
+Les statuts particuliers précisent, en tant que de besoin, les conditions dans lesquelles les fonctionnaires ne possédant pas la nationalité française peuvent être nommés dans les organes consultatifs dont les avis ou les propositions s'imposent à l'autorité investie du pouvoir de décision.
 
 Les fonctionnaires qui bénéficient des dispositions du présent article ne peuvent en aucun cas se voir conférer de fonctions comportant l'exercice d'attributions autres que celles qui sont mentionnées au premier alinéa.
 
