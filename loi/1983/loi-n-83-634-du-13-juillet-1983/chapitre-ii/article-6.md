@@ -10,8 +10,12 @@ De même, des conditions d'âge peuvent être fixées, d'une part, pour le recru
 
 Aucune mesure concernant notamment le recrutement, la titularisation, la formation, la notation, la discipline, la promotion, l'affectation et la mutation ne peut être prise à l'égard d'un fonctionnaire en prenant en considération :
 
-1° Le fait qu'il a formulé un recours auprès d'un supérieur hiérarchique ou engagé une action en justice visant à faire respecter les principes énoncés au deuxième alinéa du présent article ;
+1° Le fait qu'il a subi ou refusé de subir des agissements contraires aux principes énoncés au deuxième alinéa du présent article ;
 
-2° Ou bien le fait qu'il a témoigné d'agissements contraires à ces principes ou qu'il les a relatés.
+2° Le fait qu'il a formulé un recours auprès d'un supérieur hiérarchique ou engagé une action en justice visant à faire respecter ces principes ;
 
-Est passible d'une sanction disciplinaire tout agent ayant procédé aux agissements définis ci-dessus.
+3° Ou bien le fait qu'il a témoigné d'agissements contraires à ces principes ou qu'il les a relatés.
+
+Est passible d'une sanction disciplinaire tout agent ayant procédé ou enjoint de procéder aux agissements définis ci-dessus.
+
+Les dispositions du présent article sont applicables aux agents non titulaires de droit public.

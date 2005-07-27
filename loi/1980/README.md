@@ -6,6 +6,7 @@
 - [Loi n° 80-10 du 10 janvier 1980](loi-n-80-10-du-10-janvier-1980)
 - [Loi n° 80-3 du 4 janvier 1980](loi-n-80-3-du-4-janvier-1980)
 - [Loi n° 80-30 du 18 janvier 1980](loi-n-80-30-du-18-janvier-1980)
+- [Loi n° 80-490 du 1 juillet 1980](loi-n-80-490-du-1-juillet-1980)
 - [Loi n° 80-502 du 4 juillet 1980](loi-n-80-502-du-4-juillet-1980)
 - [Loi n° 80-531 du 15 juillet 1980](loi-n-80-531-du-15-juillet-1980)
 - [Loi n° 80-539 du 16 juillet 1980](loi-n-80-539-du-16-juillet-1980)

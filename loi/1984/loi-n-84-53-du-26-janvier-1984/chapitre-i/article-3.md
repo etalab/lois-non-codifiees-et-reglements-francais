@@ -4,6 +4,14 @@ Les collectivités et établissements mentionnés à l'article 2 ne peuvent recr
 
 Ces collectivités et établissements peuvent, en outre, recruter des agents non titulaires pour exercer des fonctions correspondant à un besoin saisonnier pour une durée maximale de six mois pendant une même période de douze mois et conclure pour une durée maximale de trois mois, renouvelable une seule fois à titre exceptionnel, des contrats pour faire face à un besoin occasionnel.
 
-Des emplois permanents peuvent être occupés par des agents contractuels dans les mêmes cas et selon les mêmes conditions de durée que ceux mentionnés à l'article 4 de la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat.
+Par dérogation au principe énoncé à l'article 3 du titre Ier du statut général, des emplois permanents peuvent être occupés par des agents contractuels dans les cas suivants :
 
-Toutefois, dans les communes de moins de 1 000 habitants et dans les groupements de communes dont la moyenne arithmétique des nombres d'habitants ne dépasse pas ce seuil, des contrats peuvent être conclus pour une durée déterminée et renouvelés par reconduction expresse pour pourvoir des emplois permanents à temps non complet pour lesquels la durée de travail n'excède pas la moitié de celle des agents publics à temps complet.
+1° Lorsqu'il n'existe pas de cadre d'emplois de fonctionnaires susceptibles d'assurer les fonctions correspondantes ;
+
+2° Pour les emplois du niveau de la catégorie A, lorsque la nature des fonctions ou les besoins des services le justifient.
+
+Toutefois, dans les communes de moins de 1 000 habitants et dans les groupements de communes dont la moyenne arithmétique des nombres d'habitants ne dépasse pas ce seuil, des contrats peuvent être conclus pour pourvoir des emplois permanents à temps non complet pour lesquels la durée de travail n'excède pas la moitié de celle des agents publics à temps complet.
+
+Les agents recrutés conformément aux quatrième, cinquième et sixième alinéas sont engagés par des contrats à durée déterminée, d'une durée maximale de trois ans. Ces contrats sont renouvelables, par reconduction expresse. La durée des contrats successifs ne peut excéder six ans.
+
+Si, à l'issue de la période maximale de six ans mentionnée à l'alinéa précédent, ces contrats sont reconduits, ils ne peuvent l'être que par décision expresse et pour une durée indéterminée.

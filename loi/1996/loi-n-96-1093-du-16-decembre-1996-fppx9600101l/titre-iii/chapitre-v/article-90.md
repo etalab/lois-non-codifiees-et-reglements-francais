@@ -4,7 +4,9 @@ I. - Il est créé un établissement public à caractère industriel et commerci
 
 L'Ecole nationale supérieure des métiers de l'image et du son a le caractère d'un établissement d'enseignement supérieur ; elle assure un enseignement technique, culturel et artistique.
 
-II. - L'établissement public est administré par un président nommé par décret en conseil des ministres et par un conseil d'administration. Le conseil d'administration en vote le budget.
+II. - L'établissement public est administré par un conseil d'administration et dirigé par un directeur général. Le conseil d'administration en vote le budget.
+
+Le président du conseil d'administration et le directeur général sont nommés par décret.
 
 Le conseil d'administration est composé de membres de droit, de membres qualifiés nommés par l'autorité de tutelle et de membres élus représentant les personnels enseignants et administratifs ainsi que les élèves.
 

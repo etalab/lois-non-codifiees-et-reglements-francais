@@ -10,6 +10,6 @@ Aucune mesure concernant notamment le recrutement, la titularisation, la formati
 
 3° Ou bien le fait qu'il ait témoigné de tels agissements ou qu'il les ait relatés.
 
-Est passible d'une sanction disciplinaire tout agent ayant procédé aux agissements définis ci-dessus.
+Est passible d'une sanction disciplinaire tout agent ayant procédé ou ayant enjoint de procéder aux agissements définis ci-dessus.
 
 Les dispositions du présent article sont applicables aux agents non titulaires de droit public.
