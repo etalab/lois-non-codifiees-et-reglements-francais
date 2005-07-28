@@ -524,7 +524,6 @@
 - [Arrêté du 16 juillet 2003 (PRMX0306737A)](arrete-du-16-juillet-2003-prmx0306737a)
 - [Arrêté du 16 juillet 2004 (ECOT0491216A)](arrete-du-16-juillet-2004-ecot0491216a)
 - [Arrêté du 16 juillet 2004 (FAMS0422151A)](arrete-du-16-juillet-2004-fams0422151a)
-- [Arrêté du 16 juillet 2004 (FAMS0422152A)](arrete-du-16-juillet-2004-fams0422152a)
 - [Arrêté du 16 juin 2004 (INTC0400268A)](arrete-du-16-juin-2004-intc0400268a)
 - [Arrêté du 16 juin 2004 (INTC0400432A)](arrete-du-16-juin-2004-intc0400432a)
 - [Arrêté du 16 juin 2004 (SANG0422094A)](arrete-du-16-juin-2004-sang0422094a)
