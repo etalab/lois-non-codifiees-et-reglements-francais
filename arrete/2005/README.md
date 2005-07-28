@@ -54,6 +54,7 @@
 - [Arrêté du 6 janvier 2005 (MENS0402905A)](arrete-du-6-janvier-2005-mens0402905a)
 - [Arrêté du 6 juillet 2005 (MJSK0570115A)](arrete-du-6-juillet-2005-mjsk0570115a)
 - [Arrêté du 6 juillet 2005 (MJSK0570116A)](arrete-du-6-juillet-2005-mjsk0570116a)
+- [Arrêté du 6 juillet 2005 (SANS0522578A)](arrete-du-6-juillet-2005-sans0522578a)
 - [Arrêté du 6 juin 2005 (DEFD0500761A)](arrete-du-6-juin-2005-defd0500761a)
 - [Arrêté du 7 avril 2005 (AGRG0500832A)](arrete-du-7-avril-2005-agrg0500832a)
 - [Arrêté du 7 avril 2005 (DEFK0500490A)](arrete-du-7-avril-2005-defk0500490a)
