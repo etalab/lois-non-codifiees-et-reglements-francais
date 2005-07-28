@@ -1,3 +1,3 @@
 # Article 13
 
-Le ministre des affaires étrangères est chargé de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.
+Les modalités d'application du présent décret sont définies par arrêté du ministre des affaires étrangères.

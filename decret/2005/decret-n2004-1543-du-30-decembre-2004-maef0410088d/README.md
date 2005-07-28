@@ -4,5 +4,5 @@
 - [I. - Dispositions générales.](i)
 - [II - Le passeport.](ii)
 - [III - Le laissez-passer.](iii)
-- [IV - Dispositions finales.](iv)
+- [IV - Le titre de voyage pour réfugié et le titre de voyage pour apatride.](iv)
 - [Article 13](article-13.md)

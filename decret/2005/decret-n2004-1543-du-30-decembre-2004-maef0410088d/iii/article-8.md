@@ -4,9 +4,9 @@ Le laissez-passer peut être délivré à un ressortissant étranger démuni de 
 
 a) Après consultation du ministre des affaires étrangères, pour un seul voyage à destination de la France :
 
-1. Au ressortissant étranger ayant en France le statut de réfugié ou d'apatride ou détenteur d'un récépissé provisoire délivré par l'Office français des réfugiés et apatrides ;
+1. A l'étranger auquel l'Office français de protection des réfugiés et apatrides a reconnu le statut de réfugié ou celui d'apatride ou a accordé la protection subsidiaire, prévus par le code de l'entrée et du séjour des étrangers et du droit d'asile ;
 
-2. Au conjoint, à l'enfant mineur à charge du ressortissant étranger ayant en France le statut de réfugié ou d'apatride, autorisé à entrer et à séjourner en France en vertu d'un visa ;
+2. Au conjoint, à l'enfant mineur à charge de l'étranger auquel l'Office français de protection des réfugiés et apatrides a reconnu le statut de réfugié ou celui d'apatride ou a accordé la protection subsidiaire, autorisé à entrer et à séjourner en France en vertu d'un visa ;
 
 3. Au ressortissant étranger autorisé à résider en France en vertu d'un titre de séjour ;
 
