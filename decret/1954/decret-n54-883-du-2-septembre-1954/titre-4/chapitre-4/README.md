@@ -3,6 +3,3 @@
 - [Article 44-1](article-44-1.md)
 - [Article 44-2](article-44-2.md)
 - [Article 44-3](article-44-3.md)
-- [Article 44-4](article-44-4.md)
-- [Article 44-5](article-44-5.md)
-- [Article 44-6](article-44-6.md)
