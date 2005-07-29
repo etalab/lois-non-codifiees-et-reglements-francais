@@ -6,4 +6,4 @@ Dans le cadre de la préparation des mesures de défense opérationnelle du terr
 
 - établit la planification des mesures de défense en concertation avec le préfet de zone ;
 
-- Prépare et dirige, conjointement avec le préfet de zone de défense et en coordination avec les commandants de régions terre, maritime, aérienne et de gendarmerie, les exercices civilo-militaires de défense opérationnelle du territoire.
+- Prépare et dirige, conjointement avec le préfet de zone de défense et en coordination avec les commandants de régions terre, maritime, aérienne et de gendarmerie situés au siège de la zone de défense, les exercices civilo-militaires de défense opérationnelle du territoire.
