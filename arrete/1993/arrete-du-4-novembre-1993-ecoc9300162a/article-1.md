@@ -6,6 +6,4 @@ Les pellicules de cellulose régénérée, objet du présent arrêté, constitue
 
 Ne sont pas visés par le présent arrêté :
 
-- les pellicules de cellulose régénérée dont la face destinée à être mise au contact ou mise au contact des denrées, produits et boissons alimentaires est enduite de vernis d'un poids supérieur à 50 mg/dm2 ;
-
 - les boyaux synthétiques en pellicule de cellulose régénérée.

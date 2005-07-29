@@ -272,14 +272,6 @@ Emplois commerciaux de haut niveau
 
 ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
 
-Institut national des appellations d'origine
-
-EMPLOIS OU CATEGORIES D'EMPLOIS concernés
-
-Emplois des catégories A, B, C et D
-
-ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
-
 Institut national de la propriété industrielle
 
 EMPLOIS OU CATEGORIES D'EMPLOIS concernés
@@ -300,7 +292,7 @@ Laboratoire national de dépistage du dopage
 
 EMPLOIS OU CATEGORIES D'EMPLOIS concernés
 
-Emplois requérant une compétence spécifique de technicien d'analyses spécialisé dans la détection des produits et procédés dopants
+Emplois requérant une compétence spécifique de chef de département, cadre technique ou technicien d'analyses spécialisé dans la détection des produits et procédés dopants
 
 ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
 
