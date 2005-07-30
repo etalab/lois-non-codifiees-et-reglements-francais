@@ -8,7 +8,7 @@ a) L'actif du fonds ne peut être employé qu'à 50 % au plus en titres ou droit
 
 b) Le fonds ne peut détenir plus de 10 % des actions ou parts d'un organisme de placement collectif en valeurs mobilières ne relevant pas du b du 2 de l'article L. 214-36 du code monétaire et financier.
 
-2. a) Par dérogation au deuxième alinéa du II et au deuxième alinéa du III de l'article 10-1, à la dissolution du fonds, le rachat des parts peut s'effectuer en titres de la société dans lesquelles le fonds détient une participation dès lors que le règlement du fonds le prévoit.
+2. a) Par dérogation au deuxième alinéa du II et au deuxième alinéa du III de l'article 10-1, à la dissolution du fonds, le rachat des parts peut s'effectuer en titres des sociétés dans lesquelles le fonds détient une participation dès lors que le règlement du fonds le prévoit.
 
 b) Le quatrième alinéa du II de l'article 10-1 n'est pas applicable.
 

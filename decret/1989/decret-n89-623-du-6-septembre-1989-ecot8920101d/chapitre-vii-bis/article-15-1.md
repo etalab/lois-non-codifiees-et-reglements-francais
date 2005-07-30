@@ -8,4 +8,6 @@ I. - Un organisme de placement collectif en valeurs mobilières à formule est u
 
 II. - Pour les organismes de placement collectif en valeurs mobilières relevant du présent chapitre, le respect des limites fixées à l'article 4-5 s'apprécie à la date de conclusion des contrats constituant des instruments financiers à terme.
 
+Par dérogation au III de l'article 4-4, l'engagement d'un organisme de placement collectif en valeurs mobilières relevant du présent chapitre est constitué par la perte potentielle de cet organisme évaluée à tout moment.
+
 III. - Les dispositions de l'article 16 sont applicables à un organisme de placement collectif en valeurs mobilières relevant du présent chapitre dont l'actif réplique la composition d'un indice.

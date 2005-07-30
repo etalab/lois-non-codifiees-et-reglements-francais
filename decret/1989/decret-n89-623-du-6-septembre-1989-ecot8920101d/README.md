@@ -5,6 +5,7 @@
 - [Chapitre V bis : Dispositions particulières aux organismes de placement collectif en valeurs mobilières maîtres et nourriciers](chapitre-v-bis)
 - [Chapitre VII : Dispositions particulières aux organismes de placement collectif en valeurs mobilières à compartiments.](chapitre-vii)
 - [Chapitre VII bis : Dispositions particulières aux organismes de placement collectif en valeurs mobilières à formule](chapitre-vii-bis)
-- [Chapitre VIII : Dispositions relatives aux organismes de placement collectif en valeurs mobilières indiciels.](chapitre-viii)
+- [Chapitre VIII : Dispositions relatives aux organismes de placement collectifs en valeurs mobilières indiciels ou à gestion indicielle étendue](chapitre-viii)
+- [Chapitre IX : Dispositions relatives à l'outre-mer](chapitre-ix)
 - [Article 17](article-17.md)
 - [Annexes](annexes)

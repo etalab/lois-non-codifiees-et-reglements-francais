@@ -1,6 +1,6 @@
 # Article 10-1
 
-I. - Lorsque le règlement du fonds prévoit un appel progressif des capitaux, ceux-ci sont libérés par les porteurs de parts à la demande de la société de gestion avant la fin de la période de blocage prévue au 7 de l'article L. 214-36 du code monétaire et financier susvisé.
+I. - Lorsque le règlement du fonds prévoit un appel progressif des capitaux, ceux-ci sont libérés par les porteurs de parts à la demande de la société de gestion avant la fin de la période de blocage prévue au 7 de l'article L. 214-36 du code monétaire et financier.
 
 Le règlement du fonds définit les modalités selon lesquelles les sommes non versées à la date d'exigibilité fixée par la société de gestion portent intérêt.
 
@@ -14,7 +14,7 @@ Lorsque la société de gestion d'un fonds ou ses actionnaires ou ses dirigeants
 
 La fraction attribuée à la société de gestion prévue au 11 de l'article L. 214-36 du code monétaire et financier susvisé ne peut excéder 20 % du boni de liquidation.
 
-III. - A l'issue de la ou des périodes de souscription mentionnées au 7 de l'article L. 214-36 du code monétaire et financier, la société de gestion peut procéder à la distribution en numéraire d'une fraction des actifs du fonds.
+III. - A l'issue de la ou des périodes de souscription mentionnées au 9 de l'article L. 214-36 du code monétaire et financier, la société de gestion peut procéder à la distribution en numéraire d'une fraction des actifs du fonds.
 
 Toutefois, cette distribution peut s'effectuer en titres cotés si le règlement du fonds le prévoit, qu'aucune disposition ou clause particulière ne limite la libre cessibilité de ces titres et qu'il est accordé à tous les porteurs de parts une option entre le paiement de la distribution en numéraire ou en actions.
 
