@@ -428,7 +428,6 @@
 - [Arrêté du 13 janvier 1994 (DEFT9401096A)](arrete-du-13-janvier-1994-deft9401096a)
 - [Arrêté du 13 janvier 1994 (ECOT9410202A)](arrete-du-13-janvier-1994-ecot9410202a)
 - [Arrêté du 13 janvier 1994 (ECOT9410203A)](arrete-du-13-janvier-1994-ecot9410203a)
-- [Arrêté du 13 janvier 1994 (MJSK9470009A)](arrete-du-13-janvier-1994-mjsk9470009a)
 - [Arrêté du 13 juillet 1994 (AGRG9401408A)](arrete-du-13-juillet-1994-agrg9401408a)
 - [Arrêté du 13 juillet 1994 (EQUE9400993A)](arrete-du-13-juillet-1994-eque9400993a)
 - [Arrêté du 13 juillet 1994 (MENA9401276A)](arrete-du-13-juillet-1994-mena9401276a)
