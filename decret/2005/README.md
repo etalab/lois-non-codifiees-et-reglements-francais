@@ -690,6 +690,8 @@
 - [Décret n°2005-725 du 29 juin 2005 (SANA0522326D)](decret-n2005-725-du-29-juin-2005-sana0522326d)
 - [Décret n°2005-726 du 29 juin 2005 (FPPX0500162D)](decret-n2005-726-du-29-juin-2005-fppx0500162d)
 - [Décret n°2005-876 du 29 juillet 2005 (MCCB0500534D)](decret-n2005-876-du-29-juillet-2005-mccb0500534d)
+- [Décret n°2005-877 du 29 juillet 2005 (INDI0505262D)](decret-n2005-877-du-29-juillet-2005-indi0505262d)
+- [Décret n°2005-878 du 29 juillet 2005 (EQUT0500353D)](decret-n2005-878-du-29-juillet-2005-equt0500353d)
 - [Décret n°2004-1533 du 30 décembre 2004 (MENF0402515D)](decret-n2004-1533-du-30-decembre-2004-menf0402515d)
 - [Décret n°2004-1534 du 30 décembre 2004 (INTD0400367D)](decret-n2004-1534-du-30-decembre-2004-intd0400367d)
 - [Décret n°2004-1535 du 30 décembre 2004 (SOCT0411957D)](decret-n2004-1535-du-30-decembre-2004-soct0411957d)

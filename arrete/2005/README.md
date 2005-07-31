@@ -357,6 +357,7 @@
 - [Arrêté du 27 juillet 2004 (EQUS0401066A)](arrete-du-27-juillet-2004-equs0401066a)
 - [Arrêté du 27 juillet 2005 (EQUA0401384A)](arrete-du-27-juillet-2005-equa0401384a)
 - [Arrêté du 27 juin 2005 (DEFP0500901A)](arrete-du-27-juin-2005-defp0500901a)
+- [Arrêté du 27 juin 2005 (MJSK0570130A)](arrete-du-27-juin-2005-mjsk0570130a)
 - [Arrêté du 27 mai 2005 (BUDF0500017A)](arrete-du-27-mai-2005-budf0500017a)
 - [Arrêté du 27 mai 2005 (DEFP0500537A)](arrete-du-27-mai-2005-defp0500537a)
 - [Arrêté du 27 mai 2005 (DEFP0500626A)](arrete-du-27-mai-2005-defp0500626a)
