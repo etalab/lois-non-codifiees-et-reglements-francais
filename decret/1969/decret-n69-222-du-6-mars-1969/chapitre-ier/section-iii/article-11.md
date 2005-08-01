@@ -1,6 +1,6 @@
 # Article 11
 
-I. - Les conseillers des affaires étrangères de 2e classe du cadre d'Orient sont recrutés par la voie de deux concours organisés en sections géographiques.
+I. - Les conseillers des affaires étrangères du cadre d'Orient sont recrutés par la voie de deux concours organisés en sections géographiques.
 
 Le nombre de places offertes à l'un des concours ne peut être inférieur à 30 % du nombre total de places offertes aux deux concours, externe et interne.
 
@@ -42,9 +42,9 @@ La limite d'âge supérieure prévue pour se présenter au concours externe s'en
 
 Les candidats qui atteignent la limite d'âge supérieure mentionnée à l'alinéa précédent durant les années au cours desquelles aucun concours n'est ouvert peuvent faire acte de candidature au concours suivant.
 
-V. - Les conseillers des affaires étrangères de 2e classe (cadre d'Orient) recrutés dans les conditions prévues au présent article sont nommés en qualité de stagiaire par arrêté du ministre des affaires étrangères pour une durée d'un an. A l'expiration de cette période, ceux dont les services ont donné satisfaction sont titularisés au 1er échelon de leur grade.
+V. - Les conseillers des affaires étrangères (cadre d'Orient) recrutés dans les conditions prévues au présent article sont nommés en qualité de stagiaire par arrêté du ministre des affaires étrangères pour une durée d'un an. A l'expiration de cette période, ceux dont les services ont donné satisfaction sont titularisés au 1er échelon de leur grade.
 
-Toutefois, si l'indice qu'ils détiennent dans leur corps, cadre d'emplois ou emploi d'origine est supérieur à celui correspondant au 1er échelon du grade de base, les conseillers des affaires étrangères du cadre d'Orient recrutés par la voie du concours interne sont placés à l'échelon du grade de conseiller des affaires étrangères de 2e classe comportant un traitement égal ou, à défaut, immédiatement supérieur à celui dont ils bénéficiaient antérieurement dans leur corps, cadre d'emplois ou emploi d'origine pour les fonctionnaires ou dans leur emploi pour les agents non titulaires.
+Toutefois, si l'indice qu'ils détiennent dans leur corps, cadre d'emplois ou emploi d'origine est supérieur à celui correspondant au 1er échelon du grade de base, les conseillers des affaires étrangères du cadre d'Orient recrutés par la voie du concours interne sont placés à l'échelon du grade de conseiller des affaires étrangères comportant un traitement égal ou, à défaut, immédiatement supérieur à celui dont ils bénéficiaient antérieurement dans leur corps, cadre d'emplois ou emploi d'origine pour les fonctionnaires ou dans leur emploi pour les agents non titulaires.
 
 Dans la limite de l'ancienneté exigée au premier alinéa, de l'article 17 pour une promotion à l'échelon supérieur, ils conservent l'ancienneté d'échelon acquise dans leur précédent grade ou classe lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle qui résulterait d'un avancement d'échelon dans leur ancienne situation.
 
