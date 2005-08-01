@@ -34,11 +34,13 @@ Font l'objet des adaptations suivantes :
 
 - l'article R. 11-26 est ainsi rédigé :
 
-"Art. R. 11-28 - Le commissaire enquêteur ou le président de la commission d'enquête transmet le dossier au préfet."
+"Art. R. 11-26 - Le commissaire enquêteur ou le président de la commission d'enquête transmet le dossier au préfet."
 
 - l'article R. 13-1 est ainsi rédigé :
 
 "Art. R. 13-1 - La juridiction de l'expropriation mentionnée à l'article L. 13-1 a son siège auprès du tribunal de première instance de la collectivité territoriale."
+
+A l'article R. 13-2, après le mot : "renouvelable", sont ajoutés les mots : "après avis de l'assemblée des magistrats du siège du tribunal de première instance près lequel siège la juridiction mentionnée à l'article L. 13-1."
 
 - le premier alinéa de l'article R. 13-7 est ainsi rédigé :
 

@@ -16,7 +16,9 @@ au deuxième alinéa de l'article R. 11-8, les mots : " les chambres d'agricultu
 
 à l'article R. 11-10, la dernière phrase du deuxième alinéa ;
 
-au troisième alinéa de l'article R. 11-13, les mots : " celui-ci transmet ensuite l'ensemble des pièces au préfet avec son avis " ;
+au troisième alinéa de l'article R. 11-13, les mots :
+
+" celui-ci transmet ensuite l'ensemble des pièces au préfet avec son avis " ;
 
 l'article R. 11-14 ;
 
@@ -42,19 +44,15 @@ au dernier alinéa de l'article R. 11-27, les mots : " ou au sous-préfet " ;
 
 au premier alinéa de l'article R. 12-1, les mots : " du département dans lequel sont situés les biens à exproprier " ;
 
-le 2° de l'article R. 12-1 ;
-
-le troisième alinéa de l'article R. 12-4 ;
-
-au troisième alinéa de l'article R. 13-2, la dernière phrase ;
-
 les articles R. 13-3 à R. 13-6 ;
 
 l'article R. 13-11 ;
 
 au deuxième alinéa de l'article R. 13-21, les mots : " du département dans lequel sont situés les biens à exproprier " ;
 
-au premier alinéa de l'article R. 13-31, les mots : " régulièrement inscrit " ;
+au premier alinéa de l'article R. 13-31, les mots :
+
+" régulièrement inscrit " ;
 
 au premier alinéa de l'article R. 13-43, les mots : " ou à celle résultant de l'avis de la commission des opérations immobilières " ;
 
@@ -72,4 +70,4 @@ l'article R. 14-5 ;
 
 au deuxième alinéa de l'article R. 14-7, les mots : " à un organisme d'habitations à loyer modéré " ;
 
-les articles R. 16-2 à R. 16-4.
+les articles R. 15-1 et R. 16-2 à R. 16-4.
