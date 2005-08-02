@@ -421,7 +421,6 @@
 - [Arrêté du 15 novembre 1993 (ECOT9351296A)](arrete-du-15-novembre-1993-ecot9351296a)
 - [Arrêté du 15 novembre 1993 (ECOT9351308A)](arrete-du-15-novembre-1993-ecot9351308a)
 - [Arrêté du 15 novembre 1993 (SANP9303341A)](arrete-du-15-novembre-1993-sanp9303341a)
-- [Arrêté du 15 octobre 1993 (AGRS9302051A)](arrete-du-15-octobre-1993-agrs9302051a)
 - [Arrêté du 15 octobre 1993 (ECOT9351301A)](arrete-du-15-octobre-1993-ecot9351301a)
 - [Arrêté du 15 octobre 1993 (EQUP9301551A)](arrete-du-15-octobre-1993-equp9301551a)
 - [Arrêté du 15 octobre 1993 (INDB9300858A)](arrete-du-15-octobre-1993-indb9300858a)

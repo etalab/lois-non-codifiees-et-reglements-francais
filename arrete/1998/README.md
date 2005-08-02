@@ -220,7 +220,6 @@
 - [Arrêté du 8 janvier 1998 (ECOI9700660A)](arrete-du-8-janvier-1998-ecoi9700660a)
 - [Arrêté du 8 janvier 1998 (ECOI9700668A)](arrete-du-8-janvier-1998-ecoi9700668a)
 - [Arrêté du 8 janvier 1998 (MCCB9700753A)](arrete-du-8-janvier-1998-mccb9700753a)
-- [Arrêté du 8 janvier 1998 (MCCB9700754A)](arrete-du-8-janvier-1998-mccb9700754a)
 - [Arrêté du 8 janvier 1998 (MCCB9700756A)](arrete-du-8-janvier-1998-mccb9700756a)
 - [Arrêté du 8 janvier 1998 (MCCB9700757A)](arrete-du-8-janvier-1998-mccb9700757a)
 - [Arrêté du 8 janvier 1998 (MCCD9700902A)](arrete-du-8-janvier-1998-mccd9700902a)

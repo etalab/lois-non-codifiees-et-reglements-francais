@@ -409,7 +409,6 @@
 - [Décret n°97-360 du 17 avril 1997 (TASP9721236D)](decret-n97-360-du-17-avril-1997-tasp9721236d)
 - [Décret n°97-37 du 17 janvier 1997 (MIPP9700001D)](decret-n97-37-du-17-janvier-1997-mipp9700001d)
 - [Décret n°97-375 du 17 avril 1997 (MIPP9700055D)](decret-n97-375-du-17-avril-1997-mipp9700055d)
-- [Décret n°97-38 du 17 janvier 1997 (MIPP9700002D)](decret-n97-38-du-17-janvier-1997-mipp9700002d)
 - [Décret n°97-390 du 17 avril 1997 (BUDD9600006D)](decret-n97-390-du-17-avril-1997-budd9600006d)
 - [Décret n°97-408 du 17 avril 1997 (INDA9700127D)](decret-n97-408-du-17-avril-1997-inda9700127d)
 - [Décret n°97-863 du 17 septembre 1997 (ECOI9700420D)](decret-n97-863-du-17-septembre-1997-ecoi9700420d)

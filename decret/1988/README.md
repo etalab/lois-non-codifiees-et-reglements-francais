@@ -231,7 +231,6 @@
 - [Décret n°88-1075 du 29 novembre 1988 (SPSS8801127D)](decret-n88-1075-du-29-novembre-1988-spss8801127d)
 - [Décret n°88-1197 du 29 décembre 1988 (JUSC8820881D)](decret-n88-1197-du-29-decembre-1988-jusc8820881d)
 - [Décret n°88-1286 du 29 juillet 1988 (AGRS8801286D)](decret-n88-1286-du-29-juillet-1988-agrs8801286d)
-- [Décret n°88-469 du 29 avril 1988 (MCCX8810305D)](decret-n88-469-du-29-avril-1988-mccx8810305d)
 - [Décret n°88-487 du 29 avril 1988 (INDT8800269D)](decret-n88-487-du-29-avril-1988-indt8800269d)
 - [Décret n°88-507 du 29 avril 1988 (INDA8800171D)](decret-n88-507-du-29-avril-1988-inda8800171d)
 - [Décret n°88-850 du 29 juillet 1988 (ECOX8810673D)](decret-n88-850-du-29-juillet-1988-ecox8810673d)
