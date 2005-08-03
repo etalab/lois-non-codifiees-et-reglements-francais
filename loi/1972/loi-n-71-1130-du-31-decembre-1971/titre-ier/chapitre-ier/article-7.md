@@ -1,10 +1,10 @@
 # Article 7
 
-L'avocat peut exercer sa profession soit à titre individuel, soit au sein d'une association, d'une société civile professionnelle, d'une société d'exercice libéral ou d'une société en participation prévues par la loi n° 90-1258 du 31 décembre 1990 relative à l'exercice sous forme de sociétés des professions libérales soumises à un statut législatif ou réglementaire ou dont le titre est protégé, soit en qualité de salarié ou de collaborateur non salarié d'un avocat ou d'une association ou société d'avocats. Il peut également être membre d'un groupement d'intérêt économique ou d'un groupement européen d'intérêt économique.
+L'avocat peut exercer sa profession soit à titre individuel, soit au sein d'une association, d'une société civile professionnelle, d'une société d'exercice libéral ou d'une société en participation prévues par la loi n° 90-1258 du 31 décembre 1990 relative à l'exercice sous forme de sociétés des professions libérales soumises à un statut législatif ou réglementaire ou dont le titre est protégé, soit en qualité de salarié ou de collaborateur libéral d'un avocat ou d'une association ou société d'avocats. Il peut également être membre d'un groupement d'intérêt économique ou d'un groupement européen d'intérêt économique.
 
-Le contrat de collaboration ou le contrat de travail doit être établi par écrit. Il doit préciser les modalités de la rémunération.
+Sans préjudice des dispositions du présent article, l'avocat peut exercer sa profession en qualité de collaborateur libéral d'un avocat selon les modalités prévues par l'article 18 de la loi n° 2005-882 du 2 août 2005 en faveur des petites et moyennes entreprises.
 
-Le contrat de collaboration indique également les conditions dans lesquelles l'avocat collaborateur pourra satisfaire aux besoins de sa clientèle personnelle.
+Le contrat de travail doit être établi par écrit. Il doit préciser les modalités de la rémunération.
 
 L'avocat salarié ne peut avoir de clientèle personnelle. Dans l'exercice des missions qui lui sont confiées, il bénéficie de l'indépendance que comporte son serment et n'est soumis à un lien de subordination à l'égard de son employeur que pour la détermination de ses conditions de travail.
 

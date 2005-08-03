@@ -10,7 +10,7 @@ I. - Quels que soient le statut juridique et les caractéristiques de l'entrepri
 
 - le ramonage ;
 
-- les soins esthétiques à la personne autres que médicaux et paramédicaux ;
+- les soins esthétiques à la personne autres que médicaux et paramédicaux et les modelages esthétiques de confort sans finalité médicale ;
 
 - la réalisation de prothèses dentaires ;
 
@@ -21,6 +21,8 @@ I. - Quels que soient le statut juridique et les caractéristiques de l'entrepri
 II. - Pour chaque activité visée au I, un décret en Conseil d'Etat pris après avis du Conseil de la concurrence, de la Commission de la sécurité des consommateurs, de l'assemblée des chambres françaises de commerce et d'industrie, de l'assemblée permanente des chambres de métiers et des organisations professionnelles représentatives détermine, en fonction de la complexité de l'activité et des risques qu'elle peut présenter pour la sécurité ou la santé des personnes, les diplômes, les titres homologués ou la durée et les modalités de validation de l'expérience professionnelle qui justifient de la qualification.
 
 Toutefois, toute personne qui, à la date de publication de la présente loi, exerce effectivement l'activité en cause en qualité de salarié ou pour son propre compte est réputée justifier de la qualification requise.
+
+Lorsque les conditions d'exercice de l'activité déterminées au I sont remplies uniquement par le chef d'entreprise et que celui-ci cesse l'exploitation de l'entreprise, les dispositions relatives à la qualification professionnelle exigée pour les activités prévues au I ne sont pas applicables, pendant une période de trois ans à compter de la cessation d'exploitation, aux activités exercées par le conjoint de ce chef d'entreprise appelé à assurer la continuité de l'exploitation, sous réserve qu'il relève d'un des statuts mentionnés à l'article L. 121-4 du code de commerce depuis au moins trois années et qu'il s'engage dans une démarche de validation des acquis de son expérience conformément au I de l'article L. 335-5 du code de l'éducation.
 
 III. - Dans un délai de deux ans à compter de la promulgation de la présente loi, le Gouvernement présentera au Parlement un rapport qui dressera le bilan des dispositions du présent article et qui proposera, le cas échéant, l'actualisation de la liste des activités pour lesquelles est exigée une qualification professionnelle.
 

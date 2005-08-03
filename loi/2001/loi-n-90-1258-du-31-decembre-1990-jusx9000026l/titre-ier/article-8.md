@@ -7,3 +7,5 @@ Par dérogation aux dispositions de l'article L. 225-123 du code de commerce, au
 Lorsque les statuts prévoient qu'il est créé ou que pourront être créées des actions à droit de vote double, celles-ci sont attribuées à tous les professionnels actionnaires exerçant au sein de la société. Il peut être prévu que cette attribution est suspendue à la condition d'une ancienneté dans l'actionnariat qui ne pourra dépasser deux années.
 
 Par dérogation à l'article L. 225-124 du code de commerce, les actions à droit de vote double transférées, pour quelque cause que ce soit, perdent leur droit de vote double dès lors que le bénéficiaire du transfert n'est pas un professionnel en exercice au sein de la société.
+
+Les parts ou actions des sociétés d'exercice libéral ne peuvent faire l'objet du contrat de bail prévu aux articles L. 239-1 à L. 239-5 du code de commerce, sauf au profit de professionnels salariés ou collaborateurs libéraux exerçant au sein de celles-ci.

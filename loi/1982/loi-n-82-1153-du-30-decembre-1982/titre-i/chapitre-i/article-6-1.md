@@ -1,0 +1,7 @@
+# Article 6-1
+
+I. - Un véhicule utilisé par une entreprise de transport de marchandises non résidente ou, dans le cas de services occasionnels, par une entreprise de transport de personnes non résidente, pour effectuer sur le territoire français des prestations de cabotage prévues par les règlements (CEE) n° 3118/93 du Conseil, du 25 octobre 1993, fixant les conditions de l'admission de transporteurs non résidents aux transports nationaux de marchandises par route dans un Etat membre et (CE) n° 12/98 du Conseil, du 11 décembre 1997, fixant les conditions de l'admission des transporteurs non résidents aux transports nationaux de voyageurs par route dans un Etat membre ne peut demeurer sur ce territoire plus de trente jours consécutifs, ni plus de quarante-cinq jours sur une période de douze mois.
+
+II. - Un bateau utilisé par une entreprise non résidente de transport pour compte d'autrui, de marchandises ou de personnes, pour effectuer sur le territoire français des prestations de cabotage prévues par le règlement (CEE) n° 3921/91 du Conseil, du 16 décembre 1991, fixant les conditions de l'admission de transporteurs non résidents aux transports nationaux de marchandises ou de personnes par voie navigable dans un Etat membre ne peut demeurer sur ce territoire plus de quatre-vingt-dix jours consécutifs.
+
+III. - Un décret en Conseil d'Etat définit les modalités d'application et de contrôle des dispositions prévues au présent article.
