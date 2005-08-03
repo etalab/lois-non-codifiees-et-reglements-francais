@@ -6,7 +6,7 @@ Il peut également, après en avoir informé le conseil de l'ordre qui a procéd
 
 1° Que plus de la moitié du capital et des droits de vote soit détenue par des personnes exerçant au sein ou au nom du groupement d'exercice sous le titre d'avocat ou sous l'un des titres figurant sur la liste prévue à l'article 83 ;
 
-2° Que le complément du capital et des droits de vote soit détenu par des personnes exerçant l'une des autres professions libérales juridiques ou judiciaires soumises à un statut législatif ou réglementaire ou dont le titre est protégé ;
+2° Que le complément du capital et des droits de vote soit détenu par des personnes exerçant la profession d'avocat, sous le titre d'avocat ou sous l'un des titres figurant sur la liste prévue à l'article 83, ou par des personnes exerçant l'une des autres professions libérales juridiques ou judiciaires soumises à un statut législatif ou réglementaire ou dont le titre est protégé ;
 
 3° Que les titulaires des pouvoirs de direction, d'administration et de contrôle exercent leur profession au sein ou au nom du groupement ;
 

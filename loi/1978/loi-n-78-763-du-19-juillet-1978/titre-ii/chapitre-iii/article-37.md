@@ -1,6 +1,6 @@
 # Article 37
 
-L'assemblée des associés [*compétence*] ou, selon le cas, l'assemblée générale prévue à l'article 36 fixe :
+L'assemblée des associés ou, selon le cas, l'assemblée générale prévue à l'article 36 fixe :
 
 1° Les conditions d'ancienneté, à l'exclusion de toute autre condition, qui seront exigées des salariés pour bénéficier de l'émission, la durée de présence dans la société ainsi exigée ne pouvant toutefois être ni inférieure à un an ni supérieure à trois ans ;
 
@@ -10,4 +10,4 @@ L'assemblée des associés [*compétence*] ou, selon le cas, l'assemblée géné
 
 4° le cas échéant, le mode de calcul des versements complémentaires effectués par la société coopérative ouvrière de production.
 
-L'assemblée des associés ou, selon le cas, l'assemblée générale peut déléguer aux gérants, au conseil d'administration ou au directoire [*dirigeants*] , selon le cas, les pouvoirs nécessaires pour fixer les conditions énumérées ci-dessus.
+L'assemblée des associés ou, selon le cas, l'assemblée générale peut déléguer aux gérants, au conseil d'administration, au directeur général ou au directoire, selon le cas, les pouvoirs nécessaires pour fixer les conditions énumérées ci-dessus.
