@@ -165,7 +165,6 @@
 - [Décret n°87-180 du 16 mars 1987 (EQUT8700189D)](decret-n87-180-du-16-mars-1987-equt8700189d)
 - [Décret n°87-425 du 16 juin 1987 (MAEJ8730027D)](decret-n87-425-du-16-juin-1987-maej8730027d)
 - [Décret n°87-426 du 16 juin 1987 (MAEJ8730026D)](decret-n87-426-du-16-juin-1987-maej8730026d)
-- [Décret n°87-538 du 16 juillet 1987 (ECOC8700073D)](decret-n87-538-du-16-juillet-1987-ecoc8700073d)
 - [Décret n°87-761 du 16 septembre 1987 (MERR8700036D)](decret-n87-761-du-16-septembre-1987-merr8700036d)
 - [Décret n°87-765 du 16 septembre 1987 (ASES8701299D)](decret-n87-765-du-16-septembre-1987-ases8701299d)
 - [Décret n°87-767 du 16 septembre 1987 (TRST8700275D)](decret-n87-767-du-16-septembre-1987-trst8700275d)
