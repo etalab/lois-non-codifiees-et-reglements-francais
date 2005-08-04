@@ -2,7 +2,7 @@
 
 Les conventions précisent notamment :
 
-1° Les principales caractéristiques des personnes en difficulté que l'association accueille ;
+1° Les principales caractéristiques des personnes en difficulté que l'association accueille ainsi que les engagements pris par l'association au titre de l'accompagnement et du suivi de ces personnes et les objectifs de retour à l'emploi des intéressés ;
 
 2° Le territoire dans lequel l'association se propose d'exercer son activité ;
 
@@ -18,8 +18,12 @@ c) Accomplir les tâches administratives et les obligations comptables résultan
 
 5° Les modalités de dépôt des offres d'emploi à l'Agence nationale pour l'emploi ;
 
-6° La nature et le montant des financements susceptibles d'être apportés par l'Etat, notamment au titre du démarrage de l'activité ou de l'accompagnement des personnes accueillies par l'association ;
+6° La nature et le montant de l'aide susceptible d'être attribuée par l'Etat au titre de l'accompagnement et du suivi professionnels de l'ensemble des personnes mises à disposition par l'association intermédiaire en vue de leur accès ou de leur retour à un emploi durable ;
 
 7° La nature et le montant des autres aides publiques directes ou privées dont l'association intermédiaire prévoit de bénéficier ;
 
-8° Les engagements souscrits par l'association intermédiaire pour permettre le suivi, le contrôle et l'évaluation de la convention.
+8° Les engagements souscrits par l'association intermédiaire pour permettre le suivi, le contrôle et l'évaluation de la convention ;
+
+9° Les modalités de collaboration avec les organismes et services chargés de l'emploi, de la formation professionnelle et de l'insertion sociale et professionnelle des personnes mentionnées au 1° ci-dessus ;
+
+10° La nature des informations à transmettre à l'autorité administrative signataire de la convention.
