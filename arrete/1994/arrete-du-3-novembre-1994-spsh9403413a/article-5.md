@@ -1,15 +1,23 @@
 # Article 5
 
-L'examen professionnel comporte des épreuves dont le programme est fixé en annexe.
+L'examen professionnel comporte les épreuves énumérées ci-après :
 
-I. - Des épreuves d'admissibilité
+I. - Epreuves anonymes d'admissibilité
 
-1. Analyse technique, économique, juridique et organisationnelle d'un projet de service technique ou général pouvant comporter des schémas et des données chiffrées relatifs à la branche choisie (durée : trois heures ; coefficient 4).
+1° Analyse technique, économique, juridique et organisationnelle d'un projet de service technique ou général pouvant comporter des schémas et des données chiffrées.
 
-2. Rédaction d'une note de synthèse sur un sujet intéressant la vie hospitalière (durée : trois heures ; coefficient 3).
+Cette épreuve portera sur la branche mentionnée à l'article 1er ci-dessus dans laquelle est ouvert l'examen (durée : trois heures ; coefficient 4) ;
 
-3. Une épreuve permettant d'apprécier les connaissances professionnelles du candidat au moyen d'un questionnaire. Une épreuve pratique pourra être substituée à l'épreuve écrite selon la nature de la spécialité (durée : deux heures minimum ; coefficient 2).
+2° Rédaction d'une note de synthèse sur un sujet intéressant les institutions hospitalières ou sociales (durée : trois heures ; coefficient 3) ;
 
-II. - Une épreuve orale d'admission
+3° Au choix du candidat :
 
-Entretien avec le jury permettant d'apprécier les aptitudes d'expertise ou d'encadrement et les connaissances professionnelles du candidat (durée maximum : quinze minutes ; coefficient 4).
+a) Composition de mathématiques comportant une application numérique se rapportant à un cas concret (durée : trois heures ; coefficient 2). Le programme de cette épreuve figure en annexe du présent arrêté ;
+
+b) Dessin technique d'ouvrage ou d'installation (durée : quatre heures ; coefficient 2) ;
+
+c) Epreuve pratique permettant d'apprécier les connaissances professionnelles du candidat (durée minimale : deux heures ; coefficient 2).
+
+II. - Epreuve d'admission
+
+Entretien avec le jury permettant d'apprécier les qualités de réflexion du candidat ainsi que ses connaissances professionnelles et ses aptitudes d'expertise ou d'encadrement (durée maximale : quinze minutes ; coefficient 4).

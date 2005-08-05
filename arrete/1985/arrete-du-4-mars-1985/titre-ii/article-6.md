@@ -1,3 +1,3 @@
 # Article 6
 
-Le directeur général ou son représentant assure le secrétariat du conseil.
+Le président ou son représentant assure le secrétariat du conseil.

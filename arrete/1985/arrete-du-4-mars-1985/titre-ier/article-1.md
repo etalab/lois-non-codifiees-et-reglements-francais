@@ -4,15 +4,15 @@ Le conseil scientifique de l'Institut national de la recherche agronomique compr
 
 a) Cinq membres de droit ou leurs suppléants nommément désignés :
 
-- le président de l'I.N.R.A. ;
+- le président de l'INRA ;
 
-- le directeur général de la recherche et de la technologie au ministère de la recherche et de la technologie ;
+- le directeur de la recherche au ministère chargé de la recherche ;
 
-- le directeur de la recherche et des études doctorales au ministère chargé de l'éducation nationale ;
+- le directeur de l'enseignement supérieur au ministère chargé de l'éducation nationale ;
 
-- le sous-directeur de la recherche, de l'innovation et de la réglementation de la direction générale de l'alimentation au ministère chargé de l'agriculture ;
+- le sous-directeur de la recherche, de l'innovation, du développement et de la coopération internationale de la direction générale de l'enseignement et de la recherche au ministère chargé de l'agriculture ;
 
-- le directeur général de l'I.N.R.A..
+- le directeur général délégué chargé des dispositifs scientifiques.
 
 b) Treize membres nommés parmi les responsables scientifiques de la recherche publique, de l'enseignement supérieur, des instituts et centres techniques et de développement du secteur agricole, des industries liées à l'agriculture et parmi des personnalités scientifiques extérieures à l'institut ;
 

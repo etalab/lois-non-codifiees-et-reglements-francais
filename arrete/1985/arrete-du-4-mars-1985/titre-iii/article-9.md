@@ -2,7 +2,7 @@
 
 Ont vocation à être inscrits sur la liste électorale :
 
-- les directeurs généraux adjoints, les directeurs scientifiques, les chefs de département et les présidents de centres de l'institut ;
+- les directeurs scientifiques, les chefs de département et les présidents de centres de l'institut ;
 
 - les personnels appartenant aux corps des chercheurs fonctionnaires de l'institut ;
 
@@ -16,4 +16,4 @@ Ont vocation à être inscrits sur la liste électorale :
 
 Seuls sont électeurs les fonctionnaires titulaires, les fonctionnaires stagiaires de l'institut qui appartenaient, avant leur nomination en qualité de stagiaire, à l'un des corps ou à l'une des catégories énumérés ci-dessus et les agents contractuels recrutés dans un emploi inscrit au budget de l'institut.
 
-En outre, pour être électeurs, ces agents doivent (à une date fixée par le directeur général de l'institut) être soit en position d'activité, soit en congé parental, soit mis à disposition conformément aux dispositions de l'article 244 du décret du 30 décembre 1983 susvisé.
+En outre, pour être électeurs, ces agents doivent (à une date fixée par le président de l'institut) être soit en position d'activité, soit en congé parental, soit mis à disposition conformément aux dispositions de l'article 244 du décret du 30 décembre 1983 susvisé.
