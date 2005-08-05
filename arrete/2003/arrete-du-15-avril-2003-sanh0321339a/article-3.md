@@ -1,6 +1,6 @@
 # Article 3
 
-I. - L'examen de fin de formation prévu à l'article 4 du décret du 13 mars 2000 susvisé comprend une épreuve écrite d'une durée de cinq heures permettant de mesurer la capacité d'analyse et de proposition de l'élève directeur ou élève directrice d'hôpital. Cette épreuve porte sur une question relative à la gestion hospitalière présentée dans un dossier. Notée de 0 à 20 (coefficient 1), cette épreuve écrite est anonyme ; elle est corrigée par deux correcteurs, un des correcteurs au moins étant membre du jury.
+I. - L'examen de fin de formation prévu à l'article 4 du décret du 2 août 2005 susvisé comprend une épreuve écrite d'une durée de cinq heures permettant de mesurer la capacité d'analyse et de proposition de l'élève directeur ou élève directrice d'hôpital. Cette épreuve porte sur une question relative à la gestion hospitalière présentée dans un dossier. Notée de 0 à 20 (coefficient 1), cette épreuve écrite est anonyme ; elle est corrigée par deux correcteurs, un des correcteurs au moins étant membre du jury.
 
 II. - A la note attribuée à l'épreuve ci-dessus s'ajoutent :
 
