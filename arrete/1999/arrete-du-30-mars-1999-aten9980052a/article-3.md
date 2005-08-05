@@ -1,6 +1,6 @@
 # Article 3
 
-Lorsqu'elle est chargée d'émettre un avis sur les demandes de certificat de capacité conformément à l'article R. 213-1-1 susvisé, la commission nationale consultative pour la faune sauvage captive se réunité en une formation dite "formation pour la délivrance des certificats de capacité" présidée par le directeur de la nature et des paysages ou son représentant et comprenant en outre :
+Lorsqu'elle est chargée d'émettre un avis sur les demandes de certificat de capacité conformément à l'article R. 413-2 susvisé, la commission nationale consultative pour la faune sauvage captive se réunité en une formation dite "formation pour la délivrance des certificats de capacité" présidée par le directeur de la nature et des paysages ou son représentant et comprenant en outre :
 
 a) S'agissant des représentants des ministères intéressés :
 
