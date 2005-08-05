@@ -7,5 +7,3 @@ a) Des ouvrages mentionnés à l'article R. 421-1 du code de l'urbanisme à l'ex
 b) Des constructions, travaux ou ouvrages exemptés de permis de construire en application du deuxième alinéa de l'article R. 422-1 et de l'article R. 422-2 du code de l'urbanisme ;
 
 c) De l'édification ou de la modification de clôtures.
-
-Elle est délivrée par le ministre chargé des sites dans tous les autres cas, ainsi que lorsque ce ministre a décidé d'évoquer le dossier.
