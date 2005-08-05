@@ -471,7 +471,6 @@
 - [Décret n°96-548 du 18 juin 1996 (AGRR9502380D)](decret-n96-548-du-18-juin-1996-agrr9502380d)
 - [Décret n°96-560 du 18 juin 1996 (MENN9600421D)](decret-n96-560-du-18-juin-1996-menn9600421d)
 - [Décret n°96-561 du 18 juin 1996 (MENU9601327D)](decret-n96-561-du-18-juin-1996-menu9601327d)
-- [Décret n°96-563 du 18 juin 1996 (ENVE9640031D)](decret-n96-563-du-18-juin-1996-enve9640031d)
 - [Décret n°96-821 du 18 septembre 1996 (INTA9600250D)](decret-n96-821-du-18-septembre-1996-inta9600250d)
 - [Décret n°96-925 du 18 octobre 1996 (TASS9623355D)](decret-n96-925-du-18-octobre-1996-tass9623355d)
 - [Décret n°96-944 du 18 octobre 1996 (MCCK9600317D)](decret-n96-944-du-18-octobre-1996-mcck9600317d)

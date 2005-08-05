@@ -139,7 +139,6 @@
 - [Décret n°88-826 du 18 juillet 1988 (SDFX8800101D)](decret-n88-826-du-18-juillet-1988-sdfx8800101d)
 - [Décret n°88-827 du 18 juillet 1988 (ACVX8800093D)](decret-n88-827-du-18-juillet-1988-acvx8800093d)
 - [Décret n°87-851 du 19 octobre 1987 (MENL8700629D)](decret-n87-851-du-19-octobre-1987-menl8700629d)
-- [Décret n°88-163 du 19 février 1988 (ASEX8810136D)](decret-n88-163-du-19-fevrier-1988-asex8810136d)
 - [Décret n°88-165 du 19 février 1988 (ASEX8810134D)](decret-n88-165-du-19-fevrier-1988-asex8810134d)
 - [Décret n°88-166 du 19 février 1988 (ASEX8810137D)](decret-n88-166-du-19-fevrier-1988-asex8810137d)
 - [Décret n°88-384 du 19 avril 1988 (RESK8800498D)](decret-n88-384-du-19-avril-1988-resk8800498d)

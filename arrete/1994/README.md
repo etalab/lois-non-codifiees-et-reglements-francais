@@ -72,7 +72,6 @@
 - [Arrêté du 3 novembre 1994 (MEND9401887A)](arrete-du-3-novembre-1994-mend9401887a)
 - [Arrêté du 3 novembre 1994 (SPSH9403410A)](arrete-du-3-novembre-1994-spsh9403410a)
 - [Arrêté du 3 novembre 1994 (SPSH9403411A)](arrete-du-3-novembre-1994-spsh9403411a)
-- [Arrêté du 3 novembre 1994 (SPSH9403412A)](arrete-du-3-novembre-1994-spsh9403412a)
 - [Arrêté du 3 novembre 1994 (SPSH9403413A)](arrete-du-3-novembre-1994-spsh9403413a)
 - [Arrêté du 3 novembre 1994 (SPSH9403414A)](arrete-du-3-novembre-1994-spsh9403414a)
 - [Arrêté du 3 octobre 1994 (ECOC9400066A)](arrete-du-3-octobre-1994-ecoc9400066a)

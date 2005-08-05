@@ -304,7 +304,6 @@
 - [Décret n°2004-561 du 11 juin 2004 (ECOB0450035D)](decret-n2004-561-du-11-juin-2004-ecob0450035d)
 - [Décret n°2004-562 du 11 juin 2004 (ECOB0450036D)](decret-n2004-562-du-11-juin-2004-ecob0450036d)
 - [Décret n°2004-568 du 11 juin 2004 (EQUS0400607D)](decret-n2004-568-du-11-juin-2004-equs0400607d)
-- [Décret n°90-918 du 11 octobre 1990 (PRME8961532D)](decret-n90-918-du-11-octobre-1990-prme8961532d)
 - [Décret n°92-1295 du 11 décembre 1992 (COMA9200027D)](decret-n92-1295-du-11-decembre-1992-coma9200027d)
 - [Décret n°2004-419 du 11 mai 2004 (DOMA0400012D)](decret-n2004-419-du-11-mai-2004-doma0400012d)
 - [Décret n°2003-1203 du 12 décembre 2003 (JUSE0340102D)](decret-n2003-1203-du-12-decembre-2003-juse0340102d)
