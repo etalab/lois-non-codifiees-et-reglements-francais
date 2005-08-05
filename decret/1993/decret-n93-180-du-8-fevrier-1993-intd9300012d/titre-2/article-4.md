@@ -2,10 +2,10 @@
 
 Le procès-verbal mentionné au deuxième alinéa du I de l'article 20 bis de l'ordonnance du 2 novembre 1945 susvisée est signé :
 
-1° Par le fonctionnaire investi des fonctions de chef de poste ou par le fonctionnaire désigné par lui, titulaire du grade d'inspecteur ou d'un grade supérieur, si le contrôle est assuré par les fonctionnaires de la police nationale ;
+1° Par le chef du service de la police nationale chargé du contrôle aux frontières ou un fonctionnaire désigné par lui, titulaire au moins du grade de brigadier ;
 
-2° Par le fonctionnaire investi des fonctions de chef de poste ou par le fonctionnaire désigné par lui, titulaire du grade de contrôleur ou d'un grade supérieur, si le contrôle est assuré par les fonctionnaires des douanes ;
+2° Par le chef du service des douanes chargé du contrôle aux frontières ou un fonctionnaire désigné par lui, titulaire au moins du grade d'agent de constatation principal de 2e classe ;
 
-3° Ou par le militaire de la gendarmerie investi des fonctions de commandant de brigade ou son adjoint, si le contrôle est assuré par les militaires de la gendarmerie nationale.
+3° Ou par le commandant de l'unité de gendarmerie territorialement compétente ou un militaire désigné par lui, titulaire au moins du grade de gendarme.
 
 Ce procès-verbal est transmis au ministre de l'intérieur et de la sécurité publique. Il comporte le nom de l'entreprise de transport, les références du vol ou du voyage concerné et l'identité des passagers au titre desquels la responsabilité de l'entreprise de transport est susceptible d'être engagée, en précisant, pour chacun d'eux, le motif du refus d'admission. Il comporte également, le cas échéant, les observations de l'entreprise de transport. Copie du procès-verbal est remise à son représentant, qui en accuse réception.
