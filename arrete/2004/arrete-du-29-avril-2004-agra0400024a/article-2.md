@@ -90,4 +90,4 @@ La composition de la commission consultative paritaire mentionnée à l'article 
 </tbody>
 </table>
 
-La commission est présidée conjointement par le directeur général de l'administration et par le directeur général de l'enseignement et de la recherche. En cas d'empêchement des deux coprésidents, la présidence revient au représentant de l'administration à la commission le plus ancien dans le grade le plus élevé.
+La commission est présidée conjointement par le secrétaire général et par le directeur général de l'enseignement et de la recherche. En cas d'empêchement des deux coprésidents, la présidence revient au représentant de l'administration à la commission le plus ancien dans le grade le plus élevé.
