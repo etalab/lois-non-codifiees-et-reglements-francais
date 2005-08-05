@@ -26,4 +26,6 @@ A la demande est annexé un dossier, en quatre expéditions, précisant les cara
 
 8° Eventuellement, tout protocole, accord ou contrat liant l'entreprise à des tiers et relatifs au financement de la construction et à l'exploitation.
 
-9° L'étude d'impact définie à l'article 2 du décret n° 77-1141 du 12 octobre 1977 si le coût total de l'ouvrage excède le montant fixé au C de l'article 3 du même décret.      10° L'évaluation mentionnée à l'article 5 du décret n° 84-617 du 17 juillet 1984 pour pour l'application de l'article 14 de la loi n° 82-1153 du 30 décembre 1982 d'orientation des transports intérieurs, lorsque les travaux constituent un grand projet d'infrastructures tel que défini à l'article 3 du même décret.
+9° L'étude d'impact définie à l'article R. 122-3 du code de l'environnement si le coût total de l'ouvrage excède le montant fixé à l'article R. 122-8 du même code.
+
+10° L'évaluation mentionnée à l'article 5 du décret n° 84-617 du 17 juillet 1984 pour pour l'application de l'article 14 de la loi n° 82-1153 du 30 décembre 1982 d'orientation des transports intérieurs, lorsque les travaux constituent un grand projet d'infrastructures tel que défini à l'article 3 du même décret.
