@@ -2,7 +2,7 @@
 
 I. - Pour les salariés dont la rémunération ne peut être déterminée au cours du mois en fonction d'un nombre d'heures de travail rémunérées, le nombre d'heures de travail pris en compte au titre du calcul du coefficient mentionné à l'article 2 est réputé égal :
 
-1° Pour les salariés dont la durée du travail est fixée par une convention individuelle de forfait annuel en jours, au produit de la durée légale du travail calculée sur le mois et du rapport entre ce forfait et le plafond maximal de deux cent dix-sept jours visé au III de l'article L. 212-15-3 du code du travail ;
+1° Pour les salariés dont la durée du travail est fixée par une convention individuelle de forfait annuel en jours, au produit de la durée légale du travail calculée sur le mois et du rapport entre ce forfait et deux cent dix-huit jours ;
 
 2° Pour les salariés dont la durée du travail est fixée par une convention individuelle de forfait annuel en heures, à cinquante-deux douzièmes de leur durée moyenne hebdomadaire de travail ;
 

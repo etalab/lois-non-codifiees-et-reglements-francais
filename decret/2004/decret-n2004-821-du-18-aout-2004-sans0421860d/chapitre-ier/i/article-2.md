@@ -2,6 +2,8 @@
 
 La réduction prévue par l'article 1er du présent décret est égale au produit de la rémunération mensuelle brute versée au salarié par le coefficient mentionné au III de l'article L. 241-13 du code de la sécurité sociale. Ce coefficient est déterminé par application de la formule suivante :
 
+Formule non reproduite : voir JO du 6 août 2005 page 12897.
+
 Pour ce calcul :
 
 1. Le SMIC est le taux horaire du salaire minimum de croissance prévu par l'article L. 141-2 du code du travail. Il est pris en compte pour sa valeur la plus élevée en vigueur au cours de la période d'emploi rémunérée.
