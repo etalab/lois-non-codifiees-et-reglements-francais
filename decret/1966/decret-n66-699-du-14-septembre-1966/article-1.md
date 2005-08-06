@@ -70,19 +70,19 @@ Milieux socio-professionnels : 3
 
 TOTAL : 70
 
-REPRESENTANTS - Bassins : Rhône - Méditerranée - Corse
+REPRESENTANTS - Bassins : Rhône - Méditerranée
 
 Régions : 5
 
 Départements : 27
 
-Communes : 16
+Communes : 17
 
-Usagers et personnes compétentes : 48
+Usagers et personnes compétentes : 49
 
-ETAT : 22
+ETAT : 21
 
-Milieux socio-professionnels : 6
+Milieux socio-professionnels : 5
 
 TOTAL : 124
 
@@ -100,7 +100,7 @@ ETAT : 21
 
 Milieux socio-professionnels : 7
 
-TOTAL :118
+TOTAL : 118
 
 Des arrêtés du ministre chargés de l'environnement déterminent compte tenu des caractéristiques à chaque circonscription :
 
