@@ -6,7 +6,7 @@ Il prépare les délibérations du comité interministériel pour le développem
 
 Il met en oeuvre des actions d'évaluation, de formation et de communication et participe à la définition des programmes de recherche en matière de développement durable.
 
-Il anime et coordonne l'action des hauts fonctionnaires chargés du développement durable, mentionnés à l'article 5 du décret du 21 février 2003 susvisé.
+Il anime et coordonne l'action des hauts fonctionnaires chargés du développement durable, mentionnés à l'article D134-11 du code de l'environnement.
 
 Il est associé à la définition du programme des travaux du Conseil national du développement durable.
 
