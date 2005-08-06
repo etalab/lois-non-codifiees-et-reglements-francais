@@ -8,6 +8,8 @@ Lorsque le travailleur salarié ou assimilé est en déplacement professionnel e
 
 S'agissant des indemnités de mission destinées à compenser les dépenses supplémentaires de logement et du petit déjeuner, elles sont réputées utilisées conformément à leur objet pour la fraction qui n'excède pas par jour 54 Euros pour le travailleur salarié ou assimilé en déplacement à Paris et dans les départements des Hauts-de-Seine, de Seine-Saint-Denis, du Val-de-Marne et par jour 40 Euros pour les travailleurs salariés ou assimilés en déplacement dans les autres départements de la France métropolitaine ;
 
+Le travailleur salarié ou assimilé est présumé empêché de regagner sa résidence lorsque la distance séparant le lieu de résidence du lieu de déplacement est au moins égale à 50 kilomètres (trajet aller) et que les transports en commun ne permettent pas de parcourir cette distance dans un temps inférieur à 1 h 30 (trajet aller). Toutefois, lorsque le travailleur salarié ou assimilé est empêché de regagner son domicile en fin de journée pour des circonstances de fait, il est considéré comme étant dans la situation de grand déplacement.
+
 2° Dans les départements d'outre-mer, les collectivités de Mayotte et de Saint-Pierre-et-Miquelon :
 
 Lorsque le travailleur salarié ou assimilé est en déplacement professionnel dans les départements d'outre-mer, les collectivités de Mayotte et Saint-Pierre-et-Miquelon, les indemnités destinées à compenser les dépenses supplémentaires de repas et de logement sont réputées utilisées conformément à leur objet pour la fraction qui n'excède pas le montant des indemnités de mission allouées aux personnels civils et militaires de l'Etat envoyés en mission temporaire dans les départements d'outre-mer.

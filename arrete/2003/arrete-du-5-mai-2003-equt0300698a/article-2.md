@@ -12,6 +12,4 @@ c) Le nom, l'adresse et le numéro SIREN ou le numéro d'identification intracom
 
 d) Le nom, l'adresse et le numéro SIREN ou le numéro d'identification intracommunautaire du locataire ;
 
-e) Le numéro d'immatriculation du véhicule moteur donné en location ;
-
-f) Le régime de la location, avec ou sans conducteur.
+e) Le numéro d'immatriculation du véhicule moteur donné en location.
