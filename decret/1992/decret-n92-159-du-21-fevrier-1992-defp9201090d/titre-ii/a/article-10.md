@@ -16,6 +16,8 @@ Toutefois, pour tenir compte du délai nécessaire à l'agent pour se rendre au 
 
 Le temps passé à bord des avions et bateaux n'ouvre droit à aucune indemnité de nuitée ou de repas, sauf dans le cas où le prix du passage ne comprend pas la fourniture des repas.
 
+L'indemnité de repas attribuée aux militaires en mission est réduite de 50 % lorsque les intéressés ont utilisé la possibilité de se rendre dans un organisme d'alimentation des armées, un restaurant administratif ou assimilé.
+
 L'indemnité de repas n'est pas attribuée pour un repas fourni gratuitement ou pris au domicile.
 
 Le militaire logé gratuitement ne reçoit pas l'indemnité de nuitée.
