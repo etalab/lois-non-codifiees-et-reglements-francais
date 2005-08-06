@@ -1,3 +1,0 @@
-# Article 6
-
-L'arrêté du 16 novembre 1973 relatif à l'inscription d'une date de péremption sur l'étiquetage des produits altérables, préemballés en vue de la vente au détail et destinés à l'alimentation de l'homme et des animaux et l'arrêté du 22 août 1979 relatif à l'inscription de la date limite d'utilisation optimale et de l'indication permettant d'identifier le lot de fabrication sur les boissons, produits et denrées alimentaires préemballées, autres qu'altérables, sont abrogés. Toutefois les denrées alimentaires préemballées dont l'étiquetage est conforme aux dispositions des arrêtés précités peuvent continuer à être commercialisées durant le délai d'un an à compter de la date de publication du présent arrêté.

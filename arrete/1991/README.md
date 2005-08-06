@@ -175,7 +175,6 @@
 - [Arrêté du 6 mai 1991 (MCCH9100284A)](arrete-du-6-mai-1991-mcch9100284a)
 - [Arrêté du 7 août 1991 (FPPA9100034A)](arrete-du-7-aout-1991-fppa9100034a)
 - [Arrêté du 7 août 1991 (SPSG9101812A)](arrete-du-7-aout-1991-spsg9101812a)
-- [Arrêté du 7 décembre 1984](arrete-du-7-decembre-1984)
 - [Arrêté du 7 janvier 1991 (INDD9100026A)](arrete-du-7-janvier-1991-indd9100026a)
 - [Arrêté du 7 janvier 1991 (SPSS9100077A)](arrete-du-7-janvier-1991-spss9100077a)
 - [Arrêté du 7 juin 1991 (DEFA9101525A)](arrete-du-7-juin-1991-defa9101525a)
