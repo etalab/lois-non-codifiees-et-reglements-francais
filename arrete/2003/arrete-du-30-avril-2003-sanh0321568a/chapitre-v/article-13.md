@@ -76,6 +76,8 @@ Montant pour :
 
 Afin de maintenir la situation indemnitaire de certains assistants associés, les indemnités fixées ci-dessus peuvent, au plus tard, jusqu'au 31 décembre 2004, à titre exceptionnel et dérogatoire, être majorées à concurrence d'un montant fixé à 238 Euros.
 
+Afin de maintenir la situation indemnitaire de certains praticiens attachés associés et assistants associés, les montants des indemnités de sujétion mentionnés ci-dessus peuvent, au plus tard jusqu'au 31 décembre 2006, à titre exceptionnel et dérogatoire, être majorés à concurrence d'un montant fixé à 238 euros.
+
 2. Indemnité forfaitaire pour toute période de temps de travail additionnel accompli, de jour et de nuit, sur la base du volontariat, au-delà des obligations de service hebdomadaires :
 
 Montant pour :
