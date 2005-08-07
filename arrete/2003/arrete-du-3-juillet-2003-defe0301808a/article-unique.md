@@ -12,9 +12,9 @@ III. - Les conditions requises pour faire acte de candidature sont les suivantes
 
 - compter au moins trois ans de services effectifs en qualité de MITHA dans le grade de cadre de santé ou dans le grade de surveillant à la date du concours ;
 
-- être titulaire du ou des titre(s) professionnel(s) de la filière au titre de laquelle le postulant désire concourir et du diplôme de cadre de santé ou son équivalent.
+- être titulaire du ou des titre(s) professionnel(s) de la filière au titre de laquelle le postulant désire concourir ;
 
-IV. - Chaque dossier de candidature comprend :
+IV. - La composition des dossiers de candidature est fixée par circulaire annuelle :
 
 - une demande manuscrite d'admission à concourir indiquant la filière professionnelle dans laquelle le candidat souhaite concourir ;
 
