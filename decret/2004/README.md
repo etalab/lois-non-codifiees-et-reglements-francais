@@ -1082,7 +1082,6 @@
 - [Décret n°2004-1156 du 29 octobre 2004 (INTE0400293D)](decret-n2004-1156-du-29-octobre-2004-inte0400293d)
 - [Décret n°2004-1157 du 29 octobre 2004 (JUSC0420831D)](decret-n2004-1157-du-29-octobre-2004-jusc0420831d)
 - [Décret n°2004-1160 du 29 octobre 2004 (DEFP0401095D)](decret-n2004-1160-du-29-octobre-2004-defp0401095d)
-- [Décret n°2004-1161 du 29 octobre 2004 (SANS0421405D)](decret-n2004-1161-du-29-octobre-2004-sans0421405d)
 - [Décret n°2004-1162 du 29 octobre 2004 (DEFP0401096D)](decret-n2004-1162-du-29-octobre-2004-defp0401096d)
 - [Décret n°2004-1163 du 29 octobre 2004 (DEFP0401097D)](decret-n2004-1163-du-29-octobre-2004-defp0401097d)
 - [Décret n°2004-1180 du 29 octobre 2004 (AGRP0401838D)](decret-n2004-1180-du-29-octobre-2004-agrp0401838d)
