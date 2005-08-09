@@ -175,3 +175,7 @@ Chargé d'une mission d'animateur-coordinateur "en appui technique, gestion des 
 A compter du 1er février 2005 :
 
 Chef de service de l'ingénierie de l'eau à la direction départementale de l'agriculture et de la forêt de Meurthe-et- Moselle.
+
+A compter du 1er juillet 2005 :
+
+Chef de service de l'environnement et de la forêt, chef de la mission interservices de l'eau à la direction départementale de l'agriculture et de la forêt de Haute-Corse.
