@@ -26,6 +26,10 @@ MONTANT DE LA PRIME de sujétions spéciales en pourcentage du traitement brut :
 
 GRADES ET EMPLOIS : Personnel d'insertion et de probation
 
+Directeur d'insertion et de probation
+
+MONTANT DE LA PRIME de sujétions spéciales en pourcentage du traitement brut : 21
+
 Chef des services d'insertion et de probation
 
 MONTANT DE LA PRIME de sujétions spéciales en pourcentage du traitement brut : 19
