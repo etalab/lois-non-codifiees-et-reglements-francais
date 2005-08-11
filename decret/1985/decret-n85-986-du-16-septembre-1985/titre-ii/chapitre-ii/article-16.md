@@ -14,9 +14,9 @@ Les arrêtés de détachement qui sont soumis à ce mode de publicité sont tran
 
 a) Le renouvellement du détachement lorsque ses conditions demeurent identiques ;
 
-b) Le détachement, pour servir dans un territoire d'outre-mer, des fonctionnaires appartenant à un corps relevant d'un département ministériel différent de celui dont dépend le corps ou l'emploi dans lequel le détachement est prononcé ;
+b) Le détachement, pour servir dans une collectivité d'outre-mer ou en Nouvelle-Calédonie, des fonctionnaires appartenant à un corps relevant d'un département ministériel différent de celui dont dépend le corps ou l'emploi dans lequel le détachement est prononcé ;
 
-c) Le détachement des comptables supérieurs du Trésor, des agents des cadres du Trésor métropolitains appelés à occuper un emploi des services du Trésor dans un territoire d'outre-mer ;
+c) Le détachement des comptables supérieurs du Trésor, des agents des cadres du Trésor métropolitains appelés à occuper un emploi des services du Trésor dans une collectivité d'outre-mer ou en Nouvelle-Calédonie ;
 
 d) Le détachement auprès du ministre de la défense :
 
