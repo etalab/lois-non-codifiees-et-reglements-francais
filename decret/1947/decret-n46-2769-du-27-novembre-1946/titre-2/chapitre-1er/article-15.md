@@ -24,7 +24,7 @@ Dans ce cadre :
 
 10° Elle agrée les décisions des caisses régionales en matière de restructuration des oeuvres et des établissements sanitaires et sociaux.
 
-II. - La Caisse autonome nationale de la sécurité sociale dans les mines peut déléguer tout ou partie de ses compétences dans le cadre fixé à l'article 18.
+II. - La Caisse autonome nationale de la sécurité sociale dans les mines peut déléguer tout ou partie de ses compétences.
 
 A ce titre :
 
@@ -33,5 +33,3 @@ A ce titre :
 2° Elle assure la gestion de l'assurance maladie, de l'assurance maternité et congé de paternité, de l'assurance décès, des accidents du travail et des maladies professionnelles et procède aux affiliations correspondantes. Sur sa délégation, les organismes locaux du régime minier assurent l'organisation du service de ces prestations, conformément à un cahier des charges défini par elle et dans ce cadre elle peut autoriser la mise en place d'antennes locales ;
 
 3° Elle gère des établissements sanitaires et sociaux et des établissements de vacances et coordonne les actions menées en ce domaine par les organismes locaux du régime.
-
-_Pour le compte de la Caisse autonome nationale, la Caisse des dépôts et consignations recouvre les cotisations et gère l'assurance vieillesse et invalidité du régime minier. La Caisse des dépôts et consignations fournit à la Caisse autonome nationale les informations comptables et de gestion y afférentes (1)._

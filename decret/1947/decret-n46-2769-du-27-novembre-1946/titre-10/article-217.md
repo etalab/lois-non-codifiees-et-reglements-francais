@@ -15,3 +15,5 @@ Elle élabore :
 Ces documents sont soumis au conseil d'administration de la Caisse autonome nationale pour approbation et sont soumis à l'approbation expresse des ministres chargés de la sécurité sociale et du budget.
 
 Le conseil d'administration de la Caisse autonome nationale peut autoriser, sur proposition des caisses régionales, la création de nouvelles prestations ou la mise en place de nouveaux modes d'intervention qui doivent faire l'objet d'une approbation expresse des ministres précités.
+
+La caisse autonome nationale peut exercer une action sanitaire et sociale en faveur des victimes d'accidents du travail ou de maladies professionnelles ainsi qu'en faveur des personnes âgées. Elle peut attribuer des secours aux personnes qui étaient, au cours des trois années précédant le décès de l'affilié, à la charge de celui-ci et qui ne peuvent pas prétendre aux pensions de réversion et d'orphelins prévues au titre IV. Ces actions doivent s'exercer dans le cadre du schéma directeur et du règlement national d'action sanitaire et sociale définis aux 1° et 2° du présent article.

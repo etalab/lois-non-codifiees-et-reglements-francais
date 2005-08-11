@@ -6,7 +6,7 @@ Les dispositions des titres Ier et III à VIII du livre IV du code de la sécuri
 
 2° Que l'organisme compétent est la Caisse autonome nationale qui peut déléguer cette mission à la caisse régionale dans le ressort de laquelle réside l'affilié. Toutefois :
 
-a) La reconnaissance de l'origine professionnelle de l'accident ou de la maladie et l'exercice du contrôle médical sont de la compétence du médecin conseil exerçant auprès de la caisse régionale dans le ressort duquel réside l'affilié ;
+a) La reconnaissance de l'origine professionnelle de l'accident ou de la maladie relève de la Caisse autonome nationale de la sécurité sociale dans les mines, qui peut la déléguer à la caisse régionale. L'exercice du contrôle médical est de la compétence du médecin-conseil exerçant auprès de la caisse régionale dans le ressort duquel réside l'affilié ;
 
 b) Le service des prestations peut être assuré pour le compte de la Caisse autonome nationale, sur proposition de son conseil d'administration, par la Caisse primaire d'assurance maladie correspondant au lieu de résidence ; des ententes sont conclues à cette fin entre les organismes concernés. Un arrêté du ministre chargé de la sécurité sociale fixe les modalités d'application des dispositions du présent alinéa.
 

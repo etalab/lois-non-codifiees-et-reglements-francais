@@ -12,7 +12,7 @@ I. - Les ressources de la branche accidents du travail et maladies professionnel
 
 5° Le cas échéant, le solde excédentaire de la section "accidents du travail et maladies professionnelles" du Fonds national d'action sanitaire et sociale ;
 
-6° Le produit du Fonds national de gestion administrative au titre des prestations rendues, notamment aux oeuvres ;
+6° Une fraction du produit du Fonds national de gestion administrative au titre des prestations rendues, notamment aux oeuvres ;
 
 7° Le cas échéant, une fraction du solde excédentaire du Fonds national de prévention et de promotion de la santé ;
 
