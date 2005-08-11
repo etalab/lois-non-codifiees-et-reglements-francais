@@ -925,7 +925,6 @@
 - [Arrêté du 27 mai 1998 (AGRA9800655A)](arrete-du-27-mai-1998-agra9800655a)
 - [Arrêté du 27 mai 1998 (ECOT9810336A)](arrete-du-27-mai-1998-ecot9810336a)
 - [Arrêté du 27 mai 1998 (MENF9800778A)](arrete-du-27-mai-1998-menf9800778a)
-- [Arrêté du 28 août 1998 (EQUZ9800978A)](arrete-du-28-aout-1998-equz9800978a)
 - [Arrêté du 28 août 1998 (MENR9802326A)](arrete-du-28-aout-1998-menr9802326a)
 - [Arrêté du 28 août 1998 (MESI9823699A)](arrete-du-28-aout-1998-mesi9823699a)
 - [Arrêté du 28 août 1998 (MEST9810935A)](arrete-du-28-aout-1998-mest9810935a)
