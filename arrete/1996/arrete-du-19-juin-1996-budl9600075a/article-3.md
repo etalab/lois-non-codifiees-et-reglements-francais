@@ -68,11 +68,7 @@ Recette des impôts : code et libellé de la recette du lieu de dépôt de la d�
 
 Résultats de l'affaire : redressements (types et dates), droits initiaux et droits redressés, abattements, références à la mise en recouvrement, lien avec l'héritier concerné.
 
-4° Informations propres au module SRF :
-
-Régime fiscal de faveur : table contenant la liste des régimes fiscaux de faveur, articles du code général des impôts, libellé, conditions d'octroi du régime de faveur, lien avec délai de surveillance ;
-
-Délai de surveillance : type, dates de début et de fin.
+4° (supprimé)
 
 5° Informations propres au module GLOBE-FI :
 
