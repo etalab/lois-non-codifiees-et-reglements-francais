@@ -228,7 +228,6 @@
 - [Décret n°2004-1187 du 9 novembre 2004 (DEVN0420014D)](decret-n2004-1187-du-9-novembre-2004-devn0420014d)
 - [Décret n°2004-1188 du 9 novembre 2004 (DEVN0420089D)](decret-n2004-1188-du-9-novembre-2004-devn0420089d)
 - [Décret n°2004-1193 du 9 novembre 2004 (FPPA0400129D)](decret-n2004-1193-du-9-novembre-2004-fppa0400129d)
-- [Décret n°2004-121 du 9 février 2004 (SOCS0420417D)](decret-n2004-121-du-9-fevrier-2004-socs0420417d)
 - [Décret n°2004-1211 du 9 novembre 2004 (INTC0400294D)](decret-n2004-1211-du-9-novembre-2004-intc0400294d)
 - [Décret n°2004-122 du 9 février 2004 (JUSX0407120D)](decret-n2004-122-du-9-fevrier-2004-jusx0407120d)
 - [Décret n°2004-123 du 9 février 2004 (VILC0410182D)](decret-n2004-123-du-9-fevrier-2004-vilc0410182d)
