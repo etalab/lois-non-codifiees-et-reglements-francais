@@ -10,4 +10,6 @@ Le ministre chargé de l'éducation nationale peut déléguer par arrêté aux r
 
 - de créer, pour les élections aux commissions administratives paritaires académiques, les bureaux de vote spéciaux mentionnés au deuxième alinéa de l'article 18 du décret du 28 mai 1982 susvisé ;
 
-- de connaître, pour les élections aux commissions administratives paritaires académiques, des contestations sur la validité des opérations électorales formulées dans les conditions fixées à l'article 24 du décret du 28 mai 1982 susvisé.
+- de connaître, pour les élections aux commissions administratives paritaires académiques, des contestations sur la validité des opérations électorales formulées dans les conditions fixées à l'article 24 du décret du 28 mai 1982 susvisé ;
+
+- d'approuver le règlement intérieur des commissions administratives paritaires académiques dans les conditions prévues au premier alinéa de l'article 29 du décret du 28 mai 1982 susvisé.
