@@ -10,4 +10,6 @@ Le ministre chargé de l'enseignement supérieur peut déléguer par arrêté au
 
 4° De créer, pour les élections aux commissions administratives paritaires académiques, les bureaux de vote spéciaux mentionnés au deuxième alinéa de l'article 18 du décret du 28 mai 1982 susvisé ;
 
-5° De connaître, pour les élections aux commissions administratives paritaires académiques, des contestations sur la validité des opérations électorales formulées dans les conditions fixées à l'article 24 du décret du 28 mai 1982 susvisé.
+5° De connaître, pour les élections aux commissions administratives paritaires académiques, des contestations sur la validité des opérations électorales formulées dans les conditions fixées à l'article 24 du décret du 28 mai 1982 susvisé ;
+
+6° D'approuver le règlement intérieur des commissions administratives paritaires académiques dans les conditions prévues au premier alinéa de l'article 29 du décret du 28 mai 1982 susvisé.
