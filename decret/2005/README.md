@@ -235,6 +235,7 @@
 - [Décret n°2005-976 du 10 août 2005 (SANH0522832D)](decret-n2005-976-du-10-aout-2005-sanh0522832d)
 - [Décret n°2005-977 du 10 août 2005 (SANS0522310D)](decret-n2005-977-du-10-aout-2005-sans0522310d)
 - [Décret n°2005-978 du 10 août 2005 (FPPA0500055D)](decret-n2005-978-du-10-aout-2005-fppa0500055d)
+- [Décret n°2005-985 du 10 août 2005 (DOMB0500012D)](decret-n2005-985-du-10-aout-2005-domb0500012d)
 - [Décret n°2006-144 du 10 février 2006 (DEFP0600067D)](decret-n2006-144-du-10-fevrier-2006-defp0600067d)
 - [Décret n°78-280 du 10 mars 1978](decret-n78-280-du-10-mars-1978)
 - [Décret n°2005-443 du 10 mai 2005 (SANP0521439D)](decret-n2005-443-du-10-mai-2005-sanp0521439d)
