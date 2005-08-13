@@ -14,7 +14,7 @@ II. - Des organismes extérieurs, dont les attributions, l'organisation et le fo
 
 - le centre informatique du commissariat de la marine ;
 
-- le groupe des écoles du commissariat de la marine.
+- l'école des officiers du commissariat de la marine.
 
 2. Relevant, pour emploi des commandements supérieurs dans les départements et territoires d'outre-mer, des forces ou d'éléments de forces à l'étranger :
 

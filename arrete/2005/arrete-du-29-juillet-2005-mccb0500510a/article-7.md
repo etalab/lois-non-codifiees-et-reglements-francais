@@ -1,0 +1,3 @@
+# Article 7
+
+Les avis et recommandations du comité national des grands prix nationaux de l'architecture sont adoptés par consensus ou à l'issue d'un vote. Si le ministre est représenté lors de la réunion du comité, ils lui sont adressés. Les votes ont lieu à main levée. Toutefois, il peut être procédé, à la demande du président ou des deux tiers des membres présents ou représentés par leur suppléant, à un vote à bulletin secret. Les avis ou recommandations sont adoptés à la majorité des voix des membres présents ou représentés par leur suppléant. Sur proposition du quart des membres présents, un avis minoritaire peut être annexé à l'avis majoritaire.
