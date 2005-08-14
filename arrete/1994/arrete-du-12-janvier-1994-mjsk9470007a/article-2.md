@@ -1,3 +1,0 @@
-# Article 2
-
-En tant que de besoin, et dans les conditions prévues par l'arrêté mentionné à l'article 9 du décret n° 93-1101 du 3 septembre 1993 concernant la déclaration des établissements dans lesquels sont pratiquées des activités physiques et sportives et la sécurité de ces activités, toute personne exerçant ou désirant exercer les fonctions considérées relevant de l'article 43 de la loi du 16 juillet 1984 modifiée doit être en mesure de présenter à l'autorité administrative un certificat médical datant de moins d'un an, le déclarant apte à la pratique et à l'encadrement de ces activités physiques et sportives.
