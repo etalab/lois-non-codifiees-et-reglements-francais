@@ -34,6 +34,18 @@ Sont délégués aux préfets des départements sièges d'un secrétariat géné
 
 - congés parentaux ;
 
+- congés de formation professionnelle (sauf refus) ;
+
+- congés de formation syndicale (sauf refus) ;
+
+- congés pour siéger, comme représentant d'un association déclarée en application de la loi du 1er juillet 1901 relative au contrat d'association ou inscrite au registre des associations en application de la loi du 19 avril 1908 applicable au contrat d'association dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle ou d'une mutuelle au sens du code de la mutualité, dans une instance, consultative ou non, instituée par une disposition législative ou réglementaire auprès d'une autorité de l'Etat à l'échelon national, régional ou départemental, ou d'une collectivité territoriale ;
+
+- congés d'accompagnement d'une personne en fin de vie ;
+
+- congés de paternité ;
+
+- congés de présence parentale ;
+
 6° Décisions relatives aux disponibilités suivantes :
 
 - disponibilités d'office et renouvellements à l'expiration des congés de maladie et congés de longue durée et réintégrations dans le même département ;

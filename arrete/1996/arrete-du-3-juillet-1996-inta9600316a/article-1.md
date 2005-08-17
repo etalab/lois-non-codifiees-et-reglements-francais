@@ -1,6 +1,6 @@
 # Article 1
 
-Sont délégués aux préfets de région et aux représentants de l'Etat dans les collectivités territoriales de Saint-Pierre-et-Miquelon et Mayotte les actes de gestion suivants :
+Sont délégués aux préfets de région et aux représentants de l'Etat à Saint-Pierre-et-Miquelon et à Mayotte, ainsi qu'au haut-commissaire de la République en Nouvelle-Calédonie, les actes de gestion suivants :
 
 1° Actes relatifs au recrutement : concours concernant le recrutement des secrétaires administratifs de préfecture.
 

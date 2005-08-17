@@ -1,6 +1,6 @@
 # Article 2
 
-Sont délégués aux préfets de département, au préfet de la région d'Ile-de-France et aux représentants de l'Etat dans les collectivités territoriales de Saint-Pierre-et-Miquelon et Mayotte, pour les fonctionnaires des corps des personnels de préfecture des catégories A et B du ministère de l'intérieur placés sous leur autorité respective, les actes de gestion suivants :
+Sont délégués aux préfets de département, au préfet de la région d'Ile-de-France et aux représentants de l'Etat à Saint-Pierre-et-Miquelon et à Mayotte, ainsi qu'au haut-commissaire de la République en Nouvelle-Calédonie, pour les fonctionnaires des corps des personnels de préfecture des catégories A et B du ministère de l'intérieur placés sous leur autorité respective, les actes de gestion suivants :.
 
 1° Etablissement et signature des cartes d'identité professionnelle ;
 
@@ -31,6 +31,20 @@ Sont délégués aux préfets de département, au préfet de la région d'Ile-de
 - congés sans traitement prévus par le décret du 7 octobre 1994 susvisé ;
 
 - congés parentaux et réintégration dans le même département ;
+
+- congés de formation professionnelle (sauf refus) ;
+
+- congés de formation syndicale (sauf refus) ;
+
+- congés pour participer aux activités des associations de jeunesse et d'éducation populaire, des fédérations et des associations sportives et de plein air légalement constituées, destinées à favoriser la préparation, la formation ou le perfectionnement des cadres et animateurs ;
+
+- congés pour siéger, comme représentant d'une association déclarée en application de la loi du 1er juillet 1901 relative au contrat d'association ou inscrite au registre des associations en application de la loi du 19 avril 1908 applicable au contrat d'association dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle ou d'une mutuelle au sens du code de la mutualité, dans une instance, consultative ou non, instituée par une disposition législative ou réglementaire auprès d'une autorité de l'Etat à l'échelon national, régional ou départemental, ou d'une collectivité territoriale ;
+
+- congés d'accompagnement d'une personne en fin de vie ;
+
+- congés de paternité ;
+
+- congés de présence parentale ;
 
 6° Décisions relatives aux disponibilités suivantes :
 

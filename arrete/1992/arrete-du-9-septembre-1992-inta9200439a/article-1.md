@@ -1,6 +1,6 @@
 # Article 1
 
-Sont délégués aux préfets de département et aux représentants de l'Etat dans les collectivités territoriales de Saint-Pierre-et-Miquelon et Mayotte, pour les fonctionnaires des corps d'assistant de service social et de conseiller technique de service social du ministère de l'intérieur et de la sécurité publique placés sous leur autorité respective, les actes de gestion suivants :
+Sont délégués aux préfets de département, au préfet de la région d'Ile-de-France et aux représentants de l'Etat à Saint-Pierre-et-Miquelon et à Mayotte, ainsi qu'au haut-commissaire de la République en Nouvelle-Calédonie, pour les fonctionnaires des corps d'assistants de service social et de conseillers techniques de service social du ministère de l'intérieur placés sous leur autorité respective, les actes de gestion suivants :
 
 1° Titularisation des lauréats des concours ;
 
@@ -35,6 +35,18 @@ Sont délégués aux préfets de département et aux représentants de l'Etat da
 - congés sans traitement prévus aux articles 6, 9 et 10 du décret n° 49-1239 du 13 décembre 1949 modifié relatif aux dispositions statutaires communes applicables aux fonctionnaires stagiaires de l'Etat ;
 
 - congés parentaux ;
+
+- congés de formation professionnelle (sauf refus) ;
+
+- congés de formation syndicale (sauf refus) ;
+
+- congés pour siéger, comme représentant d'une association déclarée en application de la loi du 1er juillet 1901 relative au contrat d'association ou inscrite au registre des associations en application de la loi du 19 avril 1908 applicable au contrat d'association dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle ou d'une mutuelle au sens du code de la mutualité, dans une instance, consultative ou non, instituée par une disposition législative ou réglementaire auprès d'une autorité de l'Etat à l'échelon national, régional ou départemental, ou d'une collectivité territoriale ;
+
+- congés d'accompagnement d'une personne en fin de vie ;
+
+- congés de paternité ;
+
+- congés de présence parentale ;
 
 6° Décisions relatives aux disponibilités suivantes :
 
