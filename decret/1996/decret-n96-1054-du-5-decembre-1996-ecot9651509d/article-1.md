@@ -192,19 +192,7 @@ Transports.
 
 NOM DE LA SOCIETE
 
-Crédit d'équipement des petites et moyennes entreprises (CEPME)
-
-NOMBRE de représentants de l'Etat au conseil d'administration ou de surveillance
-
-1
-
-REPARTITION PAR MINISTERE
-
-Economie.
-
-NOM DE LA SOCIETE
-
-Société française de garantie des financements des petites et moyennes entreprises (SOFARIS)
+OSEO SOFARIS
 
 NOMBRE de représentants de l'Etat au conseil d'administration ou de surveillance
 
@@ -261,3 +249,17 @@ Premier ministre.
 Communication.
 
 Economie.
+
+NOM DE LA SOCIETE
+
+OSEO BDPME
+
+NOMBRE de représentants de l'Etat au conseil d'administration ou de surveillance
+
+3
+
+REPARTITION PAR MINISTERE
+
+Economie (X 2).
+
+Petites et moyennes entreprises.
