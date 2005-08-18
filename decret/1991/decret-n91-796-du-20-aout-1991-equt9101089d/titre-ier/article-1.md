@@ -4,7 +4,7 @@ Le domaine de l'Etat dont la gestion est confiée à l'établissement public en 
 
 1° Des cours d'eau, lacs, canaux et plans d'eau domaniaux qui sont rayés de la Nomenclature des voies navigables ou flottables ou n'y ont jamais figuré ;
 
-2° Des voies navigables transférées aux régions en application de l'article 5 de la loi du 22 juillet 1983 susvisée ;
+2° Des voies navigables transférées aux collectivités territoriales ou à leurs groupements en application des articles 1er-1, 1er-1-1 et 1er-2 du code du domaine public fluvial et de la navigation intérieure ;
 
 3° Du domaine public fluvial dont la gestion est confiée aux ports autonomes fluviaux, tel qu'il est défini par les dispositions législatives et réglementaires qui leur sont propres ;
 
@@ -14,7 +14,9 @@ Le domaine de l'Etat dont la gestion est confiée à l'établissement public en 
 
 6° Des canaux Saint-Martin, Saint-Denis et de l'Ourcq ainsi que de leurs dépendances ;
 
-7° Des cours d'eau, lacs, canaux et plans d'eau appartenant au domaine public fluvial de l'Etat non reliés au réseau principal des voies navigables dont la liste est fixée par décret.
+7° Des cours d'eau, lacs, canaux et plans d'eau appartenant au domaine public fluvial de l'Etat non reliés au réseau principal des voies navigables dont la liste est fixée par décret ;
+
+8° Des emprises des ports intérieurs transférés en application de l'article 1er (5°) du code du domaine public fluvial et de la navigation intérieure, sauf le chenal de navigation, qui reste confié à l'établissement.
 
 L'étendue de ce domaine peut être modifiée par le déclassement ou la remise à une autre personne publique d'un élément de celui-ci.
 
