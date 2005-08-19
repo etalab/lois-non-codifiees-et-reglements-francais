@@ -89,6 +89,7 @@
 - [Arrêté du 7 juillet 2005 (MAEA0520100A)](arrete-du-7-juillet-2005-maea0520100a)
 - [Arrêté du 7 juillet 2005 (SANA0522349A)](arrete-du-7-juillet-2005-sana0522349a)
 - [Arrêté du 7 mars 2005 (MENP0500454A)](arrete-du-7-mars-2005-menp0500454a)
+- [Arrêté du 8 août 2005 (SANA0522895A)](arrete-du-8-aout-2005-sana0522895a)
 - [Arrêté du 8 avril 2005 (DEVN0540129A)](arrete-du-8-avril-2005-devn0540129a)
 - [Arrêté du 8 février 2005 (ECOP0401125A)](arrete-du-8-fevrier-2005-ecop0401125a)
 - [Arrêté du 8 juillet 2005 (AGRF0501636A)](arrete-du-8-juillet-2005-agrf0501636a)
