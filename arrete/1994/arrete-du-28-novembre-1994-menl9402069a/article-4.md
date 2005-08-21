@@ -1,63 +1,69 @@
 # Article 4
 
-Sur l'un et l'autre des diplômes établis conformément aux modèles annexés au présent arrêté, la rubrique " en " doit être remplie ainsi qu'il suit :
+Sur l'un et l'autre des diplômes établis conformément aux modèles annexés au présent arrêté, la rubrique  en  doit être remplie ainsi qu'il suit :
 
 Respectivement pour le baccalauréat général :
 
-Série ES : Economique et social ;
+Série ES : économique et sociale ;
 
-Série L : Littéraire ;
+Série L : littéraire ;
 
-Série S : Scientifique.
+Série S : scientifique.
 
-et pour le baccalauréat technologique :
+Et pour le baccalauréat technologique :
 
-Série SMS : Sciences médico-sociales ;
+Série ST2S : sciences et technologies de la santé et du social ;
 
-Série STI : Sciences et technologies industrielles :
+Série STI : série sciences et technologies industrielles :
 
-- spécialité : Génie mécanique :
+- Spécialité : génie mécanique :
 
-- option A : Productique mécanique ;
+- Option A : productique mécanique,
 
-- option B : Systèmes motorisés ;
+- Option B : systèmes motorisés,
 
-- option C : Structures métalliques ;
+- Option C : structures métalliques,
 
-- option D : Bois et matériaux associés ;
+- Option D : bois et matériaux associés,
 
-- option E : Matériaux souples ;
+- Option E : matériaux souples,
 
-- option F : Microtechniques ;
+- Option F : microtechniques ;
 
-- spécialité : Génie des matériaux ;
+- Spécialité : génie des matériaux ;
 
-- spécialité : Génie électronique ;
+- Spécialité : génie électronique ;
 
-- spécialité : Génie électrotechnique ;
+- Spécialité : génie électrotechnique ;
 
-- spécialité : Génie civil ;
+- Spécialité : génie civil ;
 
-- spécialité : Génie énergétique ;
+- Spécialité : génie énergétique ;
 
-Série STL : Sciences et technologies de laboratoire :
+- Spécialité : génie optique ;
 
-- spécialité : Biochimie - génie biologique ;
+- Spécialité : arts appliqués ;
 
-- spécialité : Chimie de laboratoire et de procédés industriels ;
+Série STL : sciences et technologies de laboratoire :
 
-- spécialité : Physique de laboratoire et de procédés industriels ;
+- Spécialité : biochimie - génie biologique ;
 
-Série STT : Sciences et technologies tertiaires :
+- Spécialité : chimie de laboratoire et de procédés industriels ;
 
-- spécialité : Action et communication commerciales ;
+- Spécialité : physique de laboratoire et de procédés industriels.
 
-- spécialité : Action et communication administratives ;
+Série STG : sciences et technologies de la gestion :
 
-- spécialité : Comptabilité et gestion ;
+- Spécialité : mercatique (marketing) ;
 
-- spécialité : Informatique et gestion ;
+- Spécialité : communication et gestion des ressources humaines ;
 
-Hôtellerie.
+- Spécialité : comptabilité et finance d'entreprise ;
 
-Nota. - Le présent arrêté et ses annexes seront publiés au Bulletin officiel du ministère, vendu au prix de 12,50 F, disponible au Centre national de documentation pédagogique, 13, rue du Four, 75006 Paris, ainsi que dans les centres régionaux et départementaux de documentation pédagogique.
+- Spécialité : gestion des systèmes d'information.
+
+Série TMD : techniques de la musique et de la danse:
+
+– Option instrument ;
+
+– Option danse.
