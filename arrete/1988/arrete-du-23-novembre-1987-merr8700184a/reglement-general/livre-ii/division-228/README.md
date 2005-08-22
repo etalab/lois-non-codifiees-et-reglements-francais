@@ -2,6 +2,7 @@
 
 - [Chapitre 228-1 : Dispositions générales](chapitre-228-1)
 - [Chapitre 228-10 : Equipement et dispositions requis à bord pour la navigation.](chapitre-228-10)
+- [Chapitre 228-11 : Dispositifs d'alarme d'homme à la mer et d'actions de sauvetage (DAHMAS).](chapitre-228-11)
 - [Chapitre 228-2 : Construction, étanchéité à l’eau et équipements.](chapitre-228-2)
 - [Chapitre 228-3 : Stabilité et état correspondant de navigabilité.](chapitre-228-3)
 - [Chapitre 228-4 : Machines et installations électriques et locaux de machines sans présence

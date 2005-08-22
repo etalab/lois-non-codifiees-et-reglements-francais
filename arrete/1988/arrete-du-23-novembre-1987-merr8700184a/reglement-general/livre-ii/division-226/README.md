@@ -7,3 +7,4 @@
 - [Chapitre 226-5 : Installations électriques](chapitre-226-5)
 - [Chapitre 226-6 : Sécurité de la navigation](chapitre-226-6)
 - [Chapitre 226-7 : Engins de sauvetage](chapitre-226-7)
+- [Chapitre 226-8 : Dispositifs d'alarme d'homme à la mer et d'actions de sauvetage (DAHMAS)](chapitre-226-8)
