@@ -2,7 +2,7 @@
 
 La valeur de chacune des épreuves est exprimée par une note variant de 0 à 20, en points entiers. L'absence non justifiée à une épreuve que le candidat doit subir est sanctionnée par la note 0.
 
-La note de chaque épreuve obligatoire est multipliée par son coefficient.
+La note de chaque épreuve obligatoire est multipliée par son coefficient. Un arrêté du ministre chargé de l'éducation nationale peut prévoir, pour certaines épreuves obligatoires, que seuls les points excédant 10 sur 20 sont retenus et multipliés par un coefficient.
 
 En ce qui concerne les épreuves facultatives, seuls les points excédant 10 sont retenus et multipliés, le cas échéant, par un coefficient fixé par arrêté du ministre chargé de l'éducation nationale. Ces points entrent en ligne de compte pour l'admission à l'issue du premier groupe et du deuxième groupe d'épreuves et pour l'attribution d'une mention à l'issue du premier groupe.
 
