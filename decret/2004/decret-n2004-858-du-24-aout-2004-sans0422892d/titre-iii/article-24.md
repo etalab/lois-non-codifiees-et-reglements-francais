@@ -4,7 +4,7 @@ En application du 3° du V de l'article 31 et du 3° du IV de l'article 102 de l
 
 Cette condition d'âge minimum est de :
 
-55 ans pour les pensions prenant effet au plus tard le 30 juin 2005 ;
+65 ans pour les pensions prenant effet au plus tard le 30 juin 2005 et 60 ans pour les pensions prenant effet au plus tard le 30 juin 2006 ;
 
 52 ans pour les pensions prenant effet au plus tard le 30 juin 2007 ;
 
