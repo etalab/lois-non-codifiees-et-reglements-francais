@@ -23,3 +23,5 @@ Dans les sections comportant des enseignements artistiques spécialisés où int
 Dans les centres ouverts dans les territoires d'outre-mer et à l'étranger, les jurys sont constitués selon les mêmes modalités ; toutefois, à défaut d'un président membre de l'enseignement supérieur, un inspecteur d'académie ou un professeur agrégé de l'enseignement du second degré peut être désigné.
 
 Le recteur peut nommer des examinateurs adjoints et des correcteurs adjoints pour participer, avec les membres des jurys, à l'évaluation ou à la correction de certaines épreuves. Les examinateurs et correcteurs adjoints peuvent, le cas échéant, participer aux délibérations des jurys avec voix consultative pour l'attribution de notes se rapportant aux épreuves qu'ils ont évaluées ou corrigées.
+
+Au sein des jurys conduisant à la délivrance du baccalauréat option internationale ou à la délivrance de baccalauréats binationaux, le recteur peut désigner des personnels d'inspection ou d'enseignement étrangers.
