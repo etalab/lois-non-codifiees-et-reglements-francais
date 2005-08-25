@@ -65,7 +65,6 @@
 - [Décret n°91-873 du 3 septembre 1991 (INTB9100337D)](decret-n91-873-du-3-septembre-1991-intb9100337d)
 - [Décret n°91-876 du 3 septembre 1991 (AGRS9101520D)](decret-n91-876-du-3-septembre-1991-agrs9101520d)
 - [Décret n°91-877 du 3 septembre 1991 (SANS9101299D)](decret-n91-877-du-3-septembre-1991-sans9101299d)
-- [Décret n°93-1293 du 3 décembre 1993 (AGRA9301729D)](decret-n93-1293-du-3-decembre-1993-agra9301729d)
 - [Décret n°93-147 du 3 février 1993 (SANH9202688D)](decret-n93-147-du-3-fevrier-1993-sanh9202688d)
 - [Décret n°93-148 du 3 février 1993 (SANH9202689D)](decret-n93-148-du-3-fevrier-1993-sanh9202689d)
 - [Décret n° 91-12 du 4 janvier 1991 (PTTA9000998D)](decret-n-91-12-du-4-janvier-1991-ptta9000998d)
