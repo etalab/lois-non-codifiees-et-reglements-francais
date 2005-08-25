@@ -2,6 +2,8 @@
 
 L'administration centrale du ministère de la justice comprend, outre le cabinet du ministre et le bureau du cabinet qui lui est rattaché :
 
+- le secrétariat général ;
+
 - la direction des services judiciaires ;
 
 - la direction des affaires civiles et du sceau ;

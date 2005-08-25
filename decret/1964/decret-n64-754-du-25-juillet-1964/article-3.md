@@ -10,4 +10,6 @@ La direction des affaires civiles et du sceau :
 
 - exerce les attributions dévolues à la chancellerie en matière de nationalité et de sceau et en ce qui concerne la réglementation et le contrôle des professions judiciaires autres que celles visées à l'article 2 ;
 
-- assure la mise en oeuvre des conventions internationales en matière d'entraide judiciaire civile et est associée, par le service des affaires européennes et internationales, aux négociations internationales intéressant la législation de droit privé.
+- assure la mise en oeuvre des conventions internationales en matière d'entraide judiciaire civile et conduit, en associant le service des affaires européennes et internationales, les négociations européennes et internationales intéressant la législation de droit privé ;
+
+- contribue, en liaison avec le service des affaires européennes et internationales, à l'application des autres conventions internationales et du droit européen.
