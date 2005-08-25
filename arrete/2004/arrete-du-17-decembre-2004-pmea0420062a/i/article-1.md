@@ -18,7 +18,7 @@ Election aux chambres de métiers et de l'artisanat.
 
 Pli exclusivement réservé au vote par correspondance.
 
-A retourner au plus tard le 9 mars 2005.
+A retourner au plus tard le : (date du dernier jour de scrutin).
 
 République française.
 
@@ -26,7 +26,7 @@ Urgent élections.
 
 L'adresse de la préfecture, siège de la commission d'organisation des élections.
 
-Valable jusqu'au 14 mars 2005.
+Valable jusqu'au : (date du jour de dépouillement des votes).
 
 Le cas échéant, une zone comportant un code-barres.
 

@@ -6,4 +6,4 @@ Pour l'élection au collège des organisations professionnelles, l'électeur int
 
 L'électeur introduit les deux enveloppes électorales dans l'enveloppe d'envoi de vote par correspondance et doit, sous peine de nullité, inscrire ses nom de famille et prénoms au verso de l'enveloppe. L'électeur doit également cocher la case correspondant à la catégorie à laquelle il appartient au verso de l'enveloppe.
 
-L'enveloppe d'envoi doit être adressée à la préfecture, siège de la commission d'organisation des élections, au plus tard le dernier jour du scrutin, soit le 9 mars 2005 (le cachet de la poste faisant foi).
+L'enveloppe d'envoi doit être adressée à la préfecture, siège de la commission d'organisation des élections, au plus tard le dernier jour du scrutin (le cachet de la poste faisant foi).
