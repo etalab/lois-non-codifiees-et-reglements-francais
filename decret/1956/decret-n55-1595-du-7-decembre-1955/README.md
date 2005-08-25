@@ -1,8 +1,6 @@
 # Décret n°55-1595 du 7 décembre 1955 relatif au régime des titres nominatifs
 
 - [Article 2](article-2.md)
-- [Article 3](article-3.md)
-- [Article 4](article-4.md)
 - [Article 52](article-52.md)
 - [Article 53](article-53.md)
 - [Article 54](article-54.md)

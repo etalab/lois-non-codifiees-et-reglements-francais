@@ -1,3 +1,0 @@
-# Article 5
-
-Chaque organisme financier communique au service visé à l'article 5 de la loi du 12 juillet 1990 et à l'autorité de contrôle mentionnée à l'article 16 de la même loi l'identité de ses dirigeants ou préposés chargés de répondre à toute demande, y compris celle qui est mentionnée à l'article 4 du présent décret, émanant du service ou de l'autorité de contrôle, de recevoir les accusés de réception des déclarations faites par l'organisme en application des dispositions de l'article 3 de la même loi, et d'assurer la diffusion aux membres concernés du personnel des informations, avis ou recommandations de caractère général en provenance du service ou de l'autorité de contrôle.

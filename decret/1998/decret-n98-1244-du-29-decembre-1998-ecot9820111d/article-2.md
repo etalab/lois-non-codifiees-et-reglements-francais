@@ -8,6 +8,6 @@ Le compte d'avance de la Banque de France dans les livres de l'Institut d'émiss
 
 A compter de cette prise en charge, l'IEDOM sera seul tenu des engagements antérieurement assumés par l'IEOM à l'égard des porteurs de billets.
 
-2° Tous les soldes créditeurs au 31 décembre 1998 des comptes ouverts aux banques et, d'une façon générale, tous les soldes créditeurs de tous les comptes ouverts dans le écritures de l'IEOM à Mayotte seront transférés dans les livres de l'IEDOM.
+2° Abrogé
 
-3° Le montant au 31 décembre 1998 des transferts restant à régler par l'IEOM à Mayotte sera transféré dans les livres de l'IEDOM.
+3° Abrogé.

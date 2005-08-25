@@ -1,3 +1,0 @@
-# Annexes
-
-- [Statut](statut)

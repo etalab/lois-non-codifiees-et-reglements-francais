@@ -1,9 +1,0 @@
-# Article 15
-
-Pour l'exercice de leurs droits sur les valeurs mobilières déposées ou mises en gage dans un établissement affilié ou à l'organisme interprofessionnel, les déposants et leurs ayants droit vis-à-vis des établissements affiliés et ceux-ci vis-à-vis de l'organisme interprofessionnel seront dispensées de justifier de l'identité des valeurs mobilières par l'énoncé de leur numéro. Il leur suffira d'apporter la preuve qu'un nombre égal de valeurs mobilières de même nature ont été déposées à l'organisme interprofessionnel ou dans l'établissement, ou en proviennent.
-
-Lorsqu'elles sont constituées en gage au profit d'un tiers, les valeurs mobilières déposées dans un établissement affilié seront identifiées par nature d'actions sans spécification de numéros. Mention de la date du dépôt et de l'établissement dépositaire devra figurer par nature d'actions sur l'acte de nantissement.
-
-Un arrêté du ministre des finances déterminera les conditions dans lesquelles les établissements affiliés devront enregistrer les numéros des actions au moment de leur dépôt, ainsi que les conditions dans lesquelles pourront être dressés, à la demande des déposants ou par eux, des attestations, relevés et copies établissant que les actions restituées sans identité de numéro sont la représentation de valeurs mobilières déposées, souscrites ou attribuées au nom du déposant dans l'établissement.
-
-Outre les attestations, relevés et copies prévus à l'alinéa précédent, les propriétaires et leurs ayants droits peuvent utiliser tous moyens de preuve pour établir que les valeurs mobilières déposées dans un établissement affilié ou en provenant sont la représentation des valeurs mobilières auxquelles ils ont droit sans préjudice de l'application des règles posées par le code civil en ce qui concerne les rapports des époux entre eux et avec les tiers.

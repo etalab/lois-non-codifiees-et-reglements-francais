@@ -1,6 +1,6 @@
 # Article 1
 
-Les sociétés françaises par actions, dénommées sociétés de développement régional, concourent sous forme de participations en capital au financement des entreprises situées sur le territoire national. Elles bénéficient à ce titre des dispositions prévues à l'article 2 ci-dessous, lorsqu'elles remplissent les conditions suivantes :
+Elles bénéficient à ce titre des dispositions prévues à l'article 2 ci-dessous, lorsqu'elles remplissent les conditions suivantes :
 
 a) Disposer du capital minimum déterminé dans les conditions fixées par l'article 16 de la loi du 24 janvier 1984 susvisée ;
 
@@ -9,9 +9,3 @@ b) Avoir signé avec le ministre chargé de l'économie une convention comportan
 c) Ne pas détenir de participation dans le capital d'une même entreprise qui excède 25 p. 100 de leur propre capital et 35 p. 100 du capital de cette entreprise.
 
 Toutefois, le ministre chargé de l'économie peut autoriser des sociétés de développement régional à porter leur participation dans le capital d'une même entreprise à hauteur de 49 p. 100. Il peut également les autoriser à prendre une participation supérieure à 49 p. 100 dans des sociétés financières de crédit-bail immobilier.
-
-Ces sociétés sont autorisées à consentir, dans les conditions fixées par le ministre de l'économie, des prêts à cinq ans et plus aux entreprises quelle qu'en soit la forme juridique ; elles peuvent en outre donner leur garantie aux emprunts à deux ans et plus que contractent ces entreprises. Elles sont également autorisées à consentir, dans les conditions fixées par le ministre de l'économie, des prêts aux collectivités locales, aux sociétés d'économie mixte et aux chambres de commerce et d'industrie pour contribuer soit au financement d'équipements touristiques collectifs, soit à celui de bâtiments à usage industriel ou commercial réalisés pour des entrepreneurs dénommés.
-
-Elles peuvent également, dans les limites et conditions définies aux alinéas précédents, contribuer au financement d'investissements réalisés par des entreprises commerciales et tendant à une diminution des prix de vente par l'amélioration de la distribution résultant de la mise en oeuvre d'outillages ou de techniques modernes.
-
-Elles peuvent aussi, dans les mêmes conditions et dans les mêmes limites et chacune pour des opérations intéressant sa zone d'action, apporter leur concours à des sociétés privées qui ont pour objet statutaire de contribuer directement au développement, à la conversion ou à l'adaptation des activités définies aux alinéas précédents. Elles doivent toutefois y être autorisées, dans chaque cas, par décision du ministre de l'économie et des finances prise sur proposition du commissaire du Gouvernement.

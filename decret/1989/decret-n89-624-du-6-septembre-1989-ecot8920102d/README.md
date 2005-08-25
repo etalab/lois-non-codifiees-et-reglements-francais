@@ -1,11 +1,4 @@
 # Décret n°89-624 du 6 septembre 1989 pris pour l'application de la loi n° 88-1201 du 23 décembre 1988 relative aux organismes de placement collectif en valeurs mobilières et portant création des fonds communs de créances
 
-- [Article 1](article-1.md)
-- [Article 7](article-7.md)
-- [Article 8](article-8.md)
-- [Article 9](article-9.md)
-- [Article 10](article-10.md)
-- [Article 13](article-13.md)
 - [Article 14](article-14.md)
-- [Article 14-1](article-14-1.md)
 - [Article 15](article-15.md)

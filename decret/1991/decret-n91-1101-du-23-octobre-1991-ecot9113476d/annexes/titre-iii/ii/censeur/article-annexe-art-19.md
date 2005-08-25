@@ -1,5 +1,0 @@
-# Article Annexe, art. 19
-
-Le censeur désigné par le C.E.N.C.E.P. est destinataire de l'ensemble des documents adressés aux membres du conseil d'orientation et de surveillance. Il assiste de plein droit aux réunions de ce conseil sans pouvoir prendre part aux votes. Il est entendu à sa demande par le directoire de la caisse. Nonobstant les dispositions du dernier alinéa de l'article 14 des présents statuts, il peut rendre compte au C.E.N.C.E.P. de l'ensemble des débats et délibérations du conseil d'orientation et de surveillance.
-
-Lorsqu'il considère qu'une délibération du conseil d'orientation et de surveillance est contraire à une disposition législative ou réglementaire en vigueur, ou à une règle ou une orientation définie par le C.E.N.C.E.P., il peut demander une seconde délibération, qui ne peut intervenir avant expiration d'un délai d'une semaine calendaire. Tant qu'une seconde délibération n'est pas intervenue, la décision est suspendue. Il ne peut pas être demandé de troisième délibération.

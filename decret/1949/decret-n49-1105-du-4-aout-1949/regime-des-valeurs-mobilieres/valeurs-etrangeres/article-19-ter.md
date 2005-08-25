@@ -1,3 +1,0 @@
-# Article 19 ter
-
-Les titres immatriculés au nom de l'organisme interprofessionnel en application de l'article 19 ci-dessus ou déposés en application de l'article 19 bis sont inscrits en comptes courants et bénéficient des dispositions concernant les comptes courants de valeurs mobilières prévues par le titre Ier, section II, du présent décret pour autant qu'elles sont compatibles avec la forme et les caractéristiques des valeurs mobilières étrangères dont il s'agit. Les règlements de l'organisme interprofessionnel précisent pour chaque cas d'espèce les conditions d'exécution de ses opérations dans les conditions prévues au premier et au deuxième alinéa de l'article 6 ci-dessus.

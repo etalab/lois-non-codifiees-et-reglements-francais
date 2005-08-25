@@ -1,3 +1,0 @@
-# Article 9
-
-Sauf s'ils relèvent d'une classification particulière au titre de la protection des secrets relevant de la défense nationale, arrêtée par le ministre de l'économie, des finances et du budget ou par le ministre délégué chargé du budget, les renseignements recueillis par la cellule TRACFIN sur les circuits financiers clandestins et le blanchiment de l'argent peuvent être communiqués, dans le cadre des conventions, lois et règlements en vigueur, aux autorités judiciaires ainsi qu'aux autorités administratives et organismes publics habilités et aux autorités qualifiées des Etats étrangers.

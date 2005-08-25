@@ -1,5 +1,0 @@
-# Article 12
-
-En cas de faillite ou de règlement judiciaire d'un établissement affilié, la revendication des propriétaires de valeurs mobilières déposées dans cet établissement s'exerce conformément à l'article 64 de la loi n° 67-563 du 13 juillet 1967 sur la masse des valeurs mobilières de même nature existant dans l'établissement ou versées à son compte courant. Si cette masse est insuffisante pour assurer l'intégralité des restitutions dues, elles sera partagée entre les propriétaires dans la proportion de leurs droits.
-
-En cas de faillite, de règlement judiciaire ou de déconfiture d'une personne détenant pour le compte d'autrui des valeurs mobilières et les ayant déposées ou laissé déposer à son nom ou à celui d'un tiers dans un établissement affilié, les propriétaires de ces valeurs mobilières peuvent exercer leur action en revendication aux mains de l'établissement affilié sur l'avoir inscrit au nom de la personne en faillite, en règlement judiciaire ou en déconfiture. Cette revendication sera exercée, en cas de faillite, suivant les règles fixées à l'alinéa précédent.

@@ -1,3 +1,0 @@
-# Article 1
-
-Un marché étranger de valeurs mobilières, de contrats à terme ou de tous produits financiers ne peut être reconnu que lorsque les règles de protection des investisseurs, de sécurité, de surveillance et de contrôle de ce marché sont équivalentes à celles qui existent sur les marchés placés sous l'autorité du Conseil des bourses de valeurs et du Conseil du marché à terme et à condition que les personnes autorisées à intervenir sur les marchés placés sous l'autorité du Conseil des bourses de valeurs et du Conseil du marché à terme et les produits qui peuvent y faire l'objet de transactions bénéficient d'un traitement équivalent dans le pays concerné.

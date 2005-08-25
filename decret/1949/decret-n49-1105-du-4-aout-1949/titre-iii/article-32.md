@@ -1,3 +1,0 @@
-# Article 32
-
-Les actions des sociétés ayant leur siège social dans les départements français, les territoires d'outre-mer, les Etats ou territoires associés ou les pays de protectorat, dont le dépôt dans une banque, chez un agent de change ou chez un courtier en valeurs mobilières cessera d'être obligatoire à la date du 31 août 1949, ne seront inscrites à la cote officielle d'une Bourse de valeurs, ou à une cote établie par une commission de cotation de valeurs mobilières lorsqu'elles n'y sont pas inscrites à la date précitée, que sous réserve de faire l'objet d'un regroupement réalisé dans les conditions fixées par les articles précédents avant l'expiration d'un délai de deux ans à compter de leur inscription.

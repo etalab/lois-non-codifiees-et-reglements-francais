@@ -1,5 +1,0 @@
-# Article 29
-
-L'échange des actions déposées à la C.C.D.V.T. qui doit intervenir préalablement à leur retrait en application des dispositions du deuxième alinéa de l'article 20 du présent décret , est effectué dans les conditions suivantes :
-
-Les actions remises en échange des actions déposées en C.C.D.V.T doivent avoir une valeur nominale au moins égale à 25 F. Toutefois, lorsque ces actions seront inscrites à une cote officielle d'une bourse de valeurs, ou à une cote établie par une commission de cotation des valeurs mobilières, la valeur des titres nouveaux pourra être fixée à un montant inférieur à 25 F à condition que leur valeur boursière telle qu'elle ressortirait après regroupement et calculée d'après les cours moyens desdites actions pendant l'année civile précédant la décision d'échange prise par l'assemblée générale des actionnaires de la société, ne soit pas inférieure à 200 F. Ces titres ne pourront ultérieurement être divisés en actions ou en coupures d'actions d'une valeur nominale inférieure à celle qui résulte de l'application du présent article.

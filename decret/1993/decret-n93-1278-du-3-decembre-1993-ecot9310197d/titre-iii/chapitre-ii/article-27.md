@@ -1,5 +1,0 @@
-# Article 27
-
-L'exercice commence le 1er janvier et finit le 31 décembre. A la fin de l'exercice, le gouverneur arrête les comptes annuels, ainsi qu'un rapport écrit sur la situation de la Banque de France et l'activité de celle-ci pendant l'exercice écoulé. Ce rapport est transmis aux membres du Conseil général, au censeur, à son suppléant, au comité central d'entreprise et aux commissaires aux comptes quinze jours avant la réunion du Conseil général prévue à l'alinéa suivant.
-
-Le Conseil général est réuni dans les quatre mois de la clôture de l'exercice pour délibérer et statuer sur les comptes annuels de l'exercice écoulé. Après lecture de son rapport, le gouverneur présente au Conseil général les comptes annuels. Les commissaires aux comptes relatent, dans leur rapport, l'accomplissement de leur mission.
