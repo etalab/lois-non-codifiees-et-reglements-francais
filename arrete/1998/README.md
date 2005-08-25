@@ -559,7 +559,6 @@
 - [Arrêté du 18 août 1998 (AGRG9701808A)](arrete-du-18-aout-1998-agrg9701808a)
 - [Arrêté du 18 décembre 1997 (DEFA9702230A)](arrete-du-18-decembre-1997-defa9702230a)
 - [Arrêté du 18 décembre 1997 (ECOP9700690A)](arrete-du-18-decembre-1997-ecop9700690a)
-- [Arrêté du 18 décembre 1997 (ECOT9816269A)](arrete-du-18-decembre-1997-ecot9816269a)
 - [Arrêté du 18 décembre 1997 (MESP9724026A)](arrete-du-18-decembre-1997-mesp9724026a)
 - [Arrêté du 18 février 1998 (DEFG9801176A)](arrete-du-18-fevrier-1998-defg9801176a)
 - [Arrêté du 18 février 1998 (MCCH9800149A)](arrete-du-18-fevrier-1998-mcch9800149a)

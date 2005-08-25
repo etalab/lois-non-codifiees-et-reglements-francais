@@ -2,4 +2,3 @@
 
 - [Titre Ier : Ouverture et fonctionnement des comptes.](titre-ier)
 - [Titre V : Dispositions particulières en faveur des travailleurs manuels titulaires de comptes ouverts avant le 31 décembre 1977.](titre-v)
-- [Article 19](article-19.md)

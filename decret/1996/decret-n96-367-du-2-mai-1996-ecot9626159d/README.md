@@ -2,4 +2,3 @@
 
 - [Chapitre Ier : De l'ouverture et de la clôture du livret jeune.](chapitre-ier)
 - [Chapitre III : Des relations entre l'Etat et les établissements ou organismes collecteurs.](chapitre-iii)
-- [Article 16](article-16.md)
