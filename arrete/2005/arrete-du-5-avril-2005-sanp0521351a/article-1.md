@@ -324,6 +324,8 @@ Hôpital Saint-Antoine, 184, rue du Faubourg-Saint-Antoine, 75571 Paris Cedex 12
 
 Institut Alfred Fournier, 25, boulevard Saint-Jacques, 75680 Paris Cedex 14.
 
+SCMGU SOS Médecins Ile-de-France, 87 et 91, boulevard de Port-Royal, 75013 Paris.
+
 UNESCO, place de Fontenoy, 75007 Paris.
 
 76 - Seine-Maritime
