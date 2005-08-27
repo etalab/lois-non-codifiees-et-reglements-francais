@@ -4,8 +4,6 @@ Sont créés les instituts internes de formation d'ingénieurs suivants :
 
 Centre universitaire des sciences et techniques, Clermont-Ferrand-II ;
 
-Institut de sciences et technologie, Paris-VI ;
-
 Institut des sciences et techniques des aliments, Bordeaux-I ;
 
 Institut des sciences de l'ingénieur de Toulon et du Var, Toulon ;
