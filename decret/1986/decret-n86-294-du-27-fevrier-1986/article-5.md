@@ -2,7 +2,7 @@
 
 Le secrétaire général est assisté d'un coordinateur national et d'un secrétariat appelé secrétariat français d'Eurêka.
 
-Le coordinateur national est nommé par le ministre de la recherche, par délégation du Premier ministre, sur proposition du secrétaire général.
+Le coordinateur national est nommé par arrêté des ministres chargés de la recherche et de l'industrie, sur proposition du secrétaire général, pour une durée de quatre ans renouvelable.
 
 Il a la responsabilité particulière de l'animation, de l'émergence et du suivi des projets Eurêka aux plans national et européen. Il anime l'équipe du secrétariat français d'Eurêka.
 
