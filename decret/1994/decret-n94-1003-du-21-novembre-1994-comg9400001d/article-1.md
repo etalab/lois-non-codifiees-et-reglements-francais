@@ -1,3 +1,3 @@
 # Article 1
 
-Les délégués régionaux au commerce et à l'artisanat, chargés de mission auprès du préfet de région, sont nommés par le Premier ministre sur proposition conjointe du ministre de l'intérieur et du ministre chargé du commerce et de l'artisanat.
+Les délégués régionaux au commerce et à l'artisanat, chargés de mission auprès des trésoriers-payeurs généraux de région, sont nommés par arrêté du ministre de l'économie, des finances et de l'industrie, sur proposition du ministre des petites et moyennes entreprises, du commerce, de l'artisanat et des professions libérales.
