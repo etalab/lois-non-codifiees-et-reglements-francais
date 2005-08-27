@@ -1,15 +1,15 @@
 # Article 27
 
-Il est institué dans chaque région une chambre régionale de discipline des architectes. Elle est composée :
+Une chambre régionale de discipline des architectes instituée au sein de chaque conseil régional exerce en première instance le pouvoir disciplinaire à l'égard des architectes. Elle est composée :
 
-D'un président de tribunal administratif, président ;
+- d'un magistrat de l'ordre administratif, en activité ou honoraire, président de la chambre, désigné soit par le président de la cour administrative d'appel, lorsque la chambre a son siège dans le même département que la cour, le cas échéant sur proposition du président du tribunal administratif dans le ressort duquel la chambre a son siège si le président de la cour administrative d'appel entend nommer un membre de ce tribunal, soit par le président du tribunal administratif dans le ressort duquel la chambre a son siège ;
 
-D'un conseiller de tribunal administratif ;
+- de trois architectes désignés par le conseil régional de l'ordre des architectes, lors de chaque renouvellement de ce dernier.
 
-D'un conseiller de cour d'appel ;
+Un suppléant est désigné dans les mêmes conditions pour chacun des membres de la chambre.
 
-De deux membres du conseil régional de l'ordre des architectes élus par ce conseil lors de chaque renouvellement.
+Les décisions de la chambre régionale de discipline sont rendues en formation collégiale, sous réserve des exceptions, déterminées par décret en Conseil d'Etat, tenant à l'objet du litige ou à la nature des questions à juger. Elles sont motivées.
 
-Elle ne peut connaître des activités qu'un architecte exerce en qualité de fonctionnaire ou d'agent public.
+La chambre régionale de discipline ne peut connaître des activités qu'un architecte exerce en qualité de fonctionnaire ou d'agent public non titulaire.
 
-L'action disciplinaire est engagée par le conseil régional ou par les représentants de l'Etat agissant soit d'office, soit à la requête de toute personne intéressée.
+L'action disciplinaire est engagée par des représentants de l'Etat ou par le conseil régional de l'ordre des architectes agissant soit d'office, soit à la requête de toute personne intéressée. Lorsque des membres du conseil régional sont également membres de la chambre régionale de discipline, ils ne participent pas aux délibérations du conseil portant sur l'exercice de poursuites devant la chambre.

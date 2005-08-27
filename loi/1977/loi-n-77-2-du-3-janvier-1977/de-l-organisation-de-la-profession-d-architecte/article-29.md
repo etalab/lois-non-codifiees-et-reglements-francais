@@ -1,19 +1,15 @@
 # Article 29
 
-Il est institué, une chambre nationale de discipline des architectes.
+Une Chambre nationale de discipline des architectes, instituée au sein du Conseil national de l'ordre des architectes, connaît des recours dirigés contre les décisions des chambres régionales de discipline des architectes.
 
 La chambre nationale de discipline est composée :
 
-D'un conseiller d'Etat, président ;
+- d'un conseiller d'Etat, en activité ou honoraire, président de la chambre ;
 
-D'un président de chambre à la cour d'appel de Paris ;
+- de trois architectes désignés par le Conseil national de l'ordre des architectes lors de chaque renouvellement de ce dernier.
 
-D'un conseiller à la Cour des comptes ;
+Un suppléant est désigné dans les mêmes conditions pour chacun des membres de la chambre.
 
-De deux membres du conseil national de l'ordre des architectes élus par le conseil lors de chaque renouvellement.
+Les décisions de la chambre nationale de discipline sont rendues en formation collégiale, sous réserve des exceptions, déterminées par décret en Conseil d'Etat, tenant à l'objet du litige ou à la nature des questions à juger. Elles sont motivées.
 
-Un président et des membres suppléants sont également désignés.    La chambre nationale de discipline connaît des recours formés contre les décisions des chambres régionales de discipline.
-
-Le délai d'appel et l'appel sont suspensifs.
-
-Les décisions de la chambre nationale de discipline sont susceptibles de recours en cassation devant le Conseil d'Etat [*juridiction compétente*].
+Les dispositions du I de l'article 28 sont applicables aux instances devant la Chambre nationale de discipline des architectes. Lorsque l'appel émane de l'architecte sanctionné en première instance, la chambre nationale de discipline ne peut aggraver la sanction prononcée par la chambre régionale de discipline.
