@@ -446,7 +446,6 @@
 - [Arrêté du 13 janvier 2003 (MAEA0220595A)](arrete-du-13-janvier-2003-maea0220595a)
 - [Arrêté du 13 juin 2003 (AGRE0301271A)](arrete-du-13-juin-2003-agre0301271a)
 - [Arrêté du 13 juin 2003 (DEFD0301753A)](arrete-du-13-juin-2003-defd0301753a)
-- [Arrêté du 13 juin 2003 (DEFP0301692A)](arrete-du-13-juin-2003-defp0301692a)
 - [Arrêté du 13 mars 2003 (AGRG0300554A)](arrete-du-13-mars-2003-agrg0300554a)
 - [Arrêté du 13 mars 2003 (MENF0300003A)](arrete-du-13-mars-2003-menf0300003a)
 - [Arrêté du 13 mars 2003 (MENF0300005A)](arrete-du-13-mars-2003-menf0300005a)
