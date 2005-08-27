@@ -1,37 +1,47 @@
 # Article 3
 
-Seul le nom d'une des communes suivantes - qu'il corresponde au territoire d'une seule commune ou à celui d'un groupement de communes - ou une partie de nom de commune peut être adjoint à l'appellation d'origine contrôlée "Côtes du Rhône Villages" :
+Seul l'un des noms géographiques suivants peut compléter l'appellation d'origine contrôlée "Côtes du Rhône Villages" :
 
-- Beaumes-de-Venise : communes de Beaumes-de-Venise, Lafare, La Roque-Alric et Suzette, pour les parcelles incluses dans l'aire de production approuvée par le comité national de l'Institut national des appellations d'origine le 15 mars 1979 ;
+"Beaumes-de-Venise" : communes de Beaumes-de-Venise, Lafare, La Roque-Alric et Suzette, pour les parcelles incluses dans l'aire de production approuvée par le comité national de l'Institut national des appellations d'origine du 15 mars 1979 ;
 
-- Cairanne : commune de Cairanne ;
+"Cairanne" : commune de Cairanne ;
 
-- Chusclan : pour les seuls vins rouges et rosés des communes de Chusclan, Orsan, Codolet, Bagnols-sur-Cèze et Saint-Etienne-des-Sorts, conformément aux dispositions du jugement du tribunal civil d'Uzès en date du 6 février 1947 ;
+"Chusclan" : pour les seuls vins rouges et rosés des communes de Chusclan, Orsan, Codolet, Bagnols-sur-Cèze et Saint-Etienne-des-Sorts, conformément aux dispositions du jugement du tribunal civil d'Uzès en date du 6 février 1947 ;
 
-- Laudun : communes de Laudun, Saint-Victor-la-Coste et Tresques, conformément aux dispositions du jugement du tribunal civil d'Uzès en date du 6 février 1947 ;
+"Laudun" : communes de Laudun, Saint-Victor-la-Coste et Tresques, conformément aux dispositions du jugement du tribunal civil d'Uzès en date du 6 février 1947 ;
 
-- Rasteau : commune de Rasteau ;
+"Massif d'Uchaux" : pour les seuls vins rouges des communes de Lagarde-Paréol, Mondragon, Piolenc, Uchaux et de la commune de Sérignan-du-Comtat pour partie ;
 
-- Roaix : commune de Roaix ;
+"Plan de Dieu" : pour les seuls vins rouges des communes de Camaret-sur-Aigues, Jonquières, Violès et de la commune de Travaillan pour partie ;
 
-- Rochegude : commune de Rochegude ;
+"Puymeras" : pour les seuls vins rouges des communes de Mérindol-les-Oliviers, Mollans-sur-Ouvèze, Faucon, Puymeras et Saint-Romain-en-Viennois ;
 
-- Rousset-les-Vignes : commune de Rousset-les-Vignes ;
+"Rasteau" : commune de Rasteau ;
 
-- Sablet : commune de Sablet ;
+"Roaix" : commune de Roaix ;
 
-- Saint-Gervais : commune de Saint-Gervais ;
+"Rochegude" : commune de Rochegude ;
 
-- Saint-Maurice : commune de Saint-Maurice-sur-Eygues ;
+"Rousset-les-Vignes" : commune de Rousset-les-Vignes ;
 
-- Saint-Pantaléon-les-Vignes : commune de Saint-Pantaléon-les-Vignes ;
+"Sablet" : commune de Sablet ;
 
-- Séguret : commune de Séguret ;
+"Saint-Gervais" : commune de Saint-Gervais ;
 
-- Valréas : commune de Valréas ;
+"Saint-Maurice" : commune de Saint-Maurice-sur-Eygues ;
 
-- Vinsobres : commune de Vinsobres ;
+"Saint-Pantaléon-les-Vignes" : commune de Saint-Pantaléon-les-Vignes ;
 
-- Visan : commune de Visan.
+"Séguret" : commune de Séguret ;
 
-Les vins correspondants doivent en outre satisfaire aux conditions particulières énumérées aux articles 7, 8 et 11 du présent décret.
+"Signargues" : pour les seuls vins rouges des communes de Domazan, Estezargues, Rochefort-du-Gard et Saze ;
+
+"Valréas" : commune de Valréas ;
+
+"Vinsobres" : commune de Vinsobres ;
+
+"Visan" : commune de Visan.
+
+Pour les communes incluses en partie, il est fait référence aux plans cadastraux déposés en mairie.
+
+Seuls peuvent bénéficier de l'appellation d'origine contrôlée "Côtes du Rhône Villages" complétée de l'un des noms géographiques prévus au présent article les vins répondant en outre aux conditions particulières énumérées aux articles 7, 8 et 11 du présent décret.

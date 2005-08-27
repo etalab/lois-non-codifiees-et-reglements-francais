@@ -1,0 +1,3 @@
+# Article 12
+
+A la fin de chaque semestre, de la première année du cursus jusqu'au début de la première année des troisièmes cycles, la commission de validation des études, expériences professionnelles ou acquis personnels, telle que définie à l'article 9 de l'arrêté du 20 juillet 2005 relatif aux modalités d'inscription dans les écoles d'architecture susvisé, lorsqu'elle tient le rôle d'une commission d'orientation, ou de l'une des commissions d'orientation, telle que définie à l'article 11 du présent arrêté, constate les acquis de l'étudiant et conseille ce dernier avant son passage dans le semestre suivant.

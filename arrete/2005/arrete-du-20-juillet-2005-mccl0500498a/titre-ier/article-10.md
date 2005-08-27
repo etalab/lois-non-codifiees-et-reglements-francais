@@ -1,0 +1,5 @@
+# Article 10
+
+Sauf dispositions particulières listées au titre II du présent arrêté, les aptitudes et l'acquisition des connaissances des enseignements théoriques et pratiques constitutifs des unités d'enseignement des cycles conduisant au diplôme d'études en architecture, au diplôme d'Etat d'architecte, à l'habilitation de l'architecte diplômé d'Etat à l'exercice de la maîtrise d'oeuvre en son nom propre et aux diplômes de spécialisation et d'approfondissement définis par les arrêtés susvisés sont appréciées soit par un contrôle continu et régulier, soit par une évaluation ou un examen terminal, soit par ces deux modes de contrôle combinés, selon des modalités arrêtées par le conseil d'administration et mises en oeuvre par le directeur de l'établissement.
+
+Pour tous les enseignements sont organisées une session de contrôle des connaissances à chaque fin de semestre et au moins une session de rattrapage en fin d'année, à l'exception de ceux du projet pour lesquels cette session n'existe pas.

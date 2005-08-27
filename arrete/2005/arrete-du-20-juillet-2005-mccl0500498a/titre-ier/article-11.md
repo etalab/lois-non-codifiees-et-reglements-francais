@@ -1,0 +1,3 @@
+# Article 11
+
+Si la commission de validation des études, expériences professionnelles ou acquis personnels, telle que définie à l'article 9 de l'arrêté relatif aux modalités d'inscription dans les écoles d'architecture susvisé, ne sert pas de commission d'orientation, il est créé au sein de chaque établissement au moins une commission d'orientation dont le mode de fonctionnement et la composition sont fixés par le conseil d'administration de l'établissement. Elle comprend, entre autres, deux enseignants désignés par le recteur d'académie et deux étudiants élus du conseil d'administration désignés en son sein.

@@ -1,0 +1,3 @@
+# Article 42
+
+Dans le cadre des cycles organisés pour la formation professionnelle continue, les années d'activités professionnelles nécessaires à la délivrance du diplôme d'études en architecture et du diplôme d'Etat d'architecte, conformément à l'article 10 du décret du 30 juin 2005 relatif aux études d'architecture, sont validées pour chaque stagiaire par le directeur de l'école, sur proposition de la commission de validation des études, expériences professionnelles et acquis personnels, telle qui définie à l'article 9 de l'arrêté du 20 juillet 2005 susvisé relatif aux modalités d'inscription dans les écoles d'architecture.

@@ -1,0 +1,5 @@
+# Article 5
+
+Le deuxième cycle est accessible, en formation initiale, aux étudiants qui justifient soit du diplôme d'études en architecture, soit d'un titre français ou étranger admis en dispense ou en équivalence de ce diplôme en application d'une réglementation nationale, soit de la validation de leurs études, expériences professionnelles ou acquis personnels en vue de l'accès à ce niveau d'études.
+
+Le cycle de formation professionnelle continue conduisant au diplôme d'Etat d'architecte est ouvert, dans la limite d'un effectif maximum de stagiaires fixé par le ministre chargé de l'architecture, à tous les titulaires soit du diplôme de deuxième cycle des études d'architecture, soit du diplôme d'études en architecture conférant le grade de licence, soit d'un titre français ou étranger admis en dispense ou en équivalence du diplôme d'études en architecture en application d'une réglementation nationale, qui justifient de l'exercice d'une activité professionnelle antérieure sous l'autorité d'un architecte ou en partenariat avec un architecte ou un bureau d'architecte d'une durée équivalant au moins à trois années à plein temps.

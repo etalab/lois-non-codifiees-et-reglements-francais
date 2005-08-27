@@ -110,4 +110,6 @@ Ecole nationale supérieure en génie des systèmes industriels ;
 
 Ecole polytechnique de l'université d'Orléans ;
 
-Ecole polytechnique de l'université de Nice.
+Ecole polytechnique de l'université de Nice ;
+
+Ecole polytechnique universitaire Pierre et Marie Curie, Paris-VI.
