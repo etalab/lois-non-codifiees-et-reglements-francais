@@ -6,9 +6,11 @@ Les entreprises inscrites au registre à la date d'entrée en vigueur des prése
 
 Pour l'application de l'alinéa précédent, sont considérées comme commissionnaires de transport et comme auxiliaires de transport de marchandises les personnes qui assurent, pour le compte d'autrui, des opérations de groupage, d'affrètement ou toutes autres opérations connexes à l'exécution de transport de marchandises ou de déménagement.
 
+La capacité professionnelle peut être reconnue par un organisme présentant des garanties d'impartialité et de compétence, habilité à cet effet dans des conditions fixées par décret en Conseil d'Etat.
+
 II. - Tout contrat de transport public de marchandises ou tout contrat relatif au déménagement doit comporter des clauses précisant la nature et l'objet du transport ou du déménagement, les modalités d'exécution du service en ce qui concerne le transport proprement dit et les conditions d'enlèvement et de livraison des objets transportés, les obligations respectives de l'expéditeur, du commissionnaire, du transporteur, du déménageur et du destinataire, et le prix du transport ou du déménagement ainsi que celui des prestations accessoires prévues. De même, le contrat de commission de transport doit faire l'objet de dispositions identiques.
 
-Sans préjudice de dispositions législatives en matière de contrat et à défaut de convention écrite définissant les rapports entre les parties au contrat sur les matières mentionnées à l'alinéa précédent, les clauses de contrats types s'appliquent de plein droit. Ces contrats types sont établis par décret, après avis des organismes professionnels concernés et du conseil national des transports.
+Sans préjudice de dispositions législatives en matière de contrat et à défaut de convention écrite définissant les rapports entre les parties au contrat sur les matières mentionnées à l'alinéa précédent, les clauses de contrats types s'appliquent de plein droit. Ces contrats types sont établis par décret, après avis du conseil national des transports.
 
 III. (supprimé)
 
