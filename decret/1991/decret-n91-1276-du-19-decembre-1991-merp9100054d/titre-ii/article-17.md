@@ -20,7 +20,7 @@ Les limites de la circonscription territoriale de chaque section régionale, son
 
 Le bureau de la section régionale de la conchyliculture est composé :
 
-a) En majorité de représentants des exploitants des diverses activités conchylicoles de la région ;
+a) En majorité de représentants des exploitants des diverses activités conchylicoles de la région ou leurs conjoints ;
 
 b) D'au moins deux salariés représentant les personnels employés à titre permanent dans les exploitations de la région ;
 

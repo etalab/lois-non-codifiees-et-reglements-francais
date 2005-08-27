@@ -4,7 +4,7 @@ Le conseil comprend cinquante-huit membres titulaires et un nombre égal de supp
 
 Ces membres sont répartis comme suit :
 
-Groupe Production : exploitants d'établissements de pêche sur le domaine public ou privé (éleveurs et expéditeurs) et salariés ; exploitants représentant les organisations de producteurs reconnues.
+Groupe production : exploitants d'établissements conchylicoles sur le domaine public ou privé (éleveurs et expéditeurs) ou leurs conjoints, et leurs salariés ; exploitants représentant les organisations de producteurs reconnues.
 
 I. - Secteur I (huîtres plates et creuses) :
 
