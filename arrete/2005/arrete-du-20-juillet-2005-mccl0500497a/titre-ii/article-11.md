@@ -1,0 +1,9 @@
+# Article 11
+
+Un étudiant peut prendre au maximum quatre inscriptions annuelles ou huit inscriptions semestrielles en vue de l'obtention du diplôme d'études en architecture. Un étudiant qui a bénéficié en première année du premier cycle soit de deux inscriptions annuelles, soit de quatre inscriptions semestrielles, dont deux au plus au premier semestre, et qui n'a pas été admis dans l'année supérieure n'est pas autorisé à se réinscrire en premier cycle des études d'architecture.
+
+Un étudiant peut prendre au maximum trois inscriptions annuelles ou six inscriptions semestrielles en vue de l'obtention du diplôme d'Etat d'architecte. Une inscription annuelle ou deux inscriptions semestrielles supplémentaires sont possibles, notamment quand l'étudiant effectue une mobilité faisant l'objet d'une convention. Un étudiant qui a bénéficié, en première année du cycle sanctionné par le diplôme d'Etat d'architecte, de deux inscriptions annuelles ou de quatre inscriptions semestrielles, dont deux au plus au premier semestre, et qui n'a pas été admis dans l'année supérieure n'est pas autorisé à se réinscrire dans cette année.
+
+A titre exceptionnel, le directeur peut autoriser un étudiant ayant épuisé ses droits à inscription à bénéficier, par cycle, d'une inscription supplémentaire, sur proposition d'une commission pédagogique compétente désignée par le conseil d'administration.
+
+Les étudiants ayant épuisé leurs droits à inscription bénéficient à nouveau de ce droit, conformément au premier alinéa du présent article, après une interruption de leurs études de trois ans, dans le respect des conditions prévues aux premiers alinéas des articles 3 et 5 de l'arrêté du 20 juillet 2005 susvisé relatif aux cycles de formation des études d'architecture conduisant au diplôme d'études en architecture conférant le grade de licence et au diplôme d'Etat d'architecte conférant le grade de master.

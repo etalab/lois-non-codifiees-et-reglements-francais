@@ -1,0 +1,3 @@
+# Article 5
+
+Le président du jury désigne l'un de ses membres pour procéder à une inspection, dans le lieu où ils exercent leurs fonctions, des conseillers principaux d'éducation stagiaires qui n'ont pas obtenu le certificat d'aptitude aux fonctions de conseiller principal d'éducation. A l'issue d'une nouvelle délibération, le jury établit la liste des stagiaires admis au certificat d'aptitude. En outre, pour les stagiaires effectuant leur première année de stage qui n'ont pas obtenu le certificat d'aptitude aux fonctions de conseiller principal d'éducation, il formule un avis sur l'intérêt, au regard de l'aptitude professionnelle, d'autoriser le stagiaire à effectuer une seconde et dernière année de stage.

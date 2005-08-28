@@ -1,0 +1,3 @@
+# Article 6
+
+Lorsqu'une partie du stage, effectué selon les modalités prévues à l'article 2 et à l'article 4 du présent arrêté, est accomplie dans un organisme ou un établissement d'éducation, d'enseignement ou de formation ou dans une administration compétente dans ces domaines d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen autre que la France, les éléments relatifs à cette période de stage sont joints au dossier individuel du stagiaire et sont pris en compte pour l'application, selon le cas, soit de l'article 3, soit de l'article 5 du présent arrêté.

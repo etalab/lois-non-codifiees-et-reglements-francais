@@ -1,0 +1,3 @@
+# Article 21
+
+Lorsqu'un stagiaire est au chômage au moment où il intègre la formation professionnelle continue, et qu'il a satisfait aux conditions d'accès à celle-ci telles que définies au deuxième alinéa des articles 3 et 5 de l'arrêté du 20 juillet 2005 susvisé relatif aux cycles de formation des études d'architecture conduisant au diplôme d'études en architecture conférant le grade de licence et au diplôme d'Etat d'architecte conférant le grade de master, des stages effectués pendant sa formation dans les domaines de l'architecture en liaison avec un architecte peuvent être assimilés à l'activité professionnelle.

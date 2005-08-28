@@ -1,0 +1,3 @@
+# Article 5
+
+Le président du jury désigne l'un de ses membres pour procéder à une inspection, devant une classe ou dans le lieu où ils exercent leurs fonctions, des professeurs stagiaires qui n'ont pas été admis à l'examen de qualification professionnelle. A l'issue d'une nouvelle délibération, le jury établit la liste des stagiaires admis à l'examen de qualification professionnelle. En outre, pour les stagiaires effectuant leur première année de stage qui n'ont pas été admis à l'examen de qualification professionnelle, il formule un avis sur l'intérêt, au regard de l'aptitude professionnelle, d'autoriser le stagiaire à effectuer une seconde et dernière année de stage.

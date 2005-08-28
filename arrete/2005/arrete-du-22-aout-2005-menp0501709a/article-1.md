@@ -1,0 +1,3 @@
+# Article 1
+
+Les conditions d'accomplissement du stage et de la formation de chacune des deux catégories de stagiaires prévues, respectivement, à l'article 8 du décret du 12 août 1970 susvisé pour les conseillers principaux d'éducation stagiaires, au I de l'article 6 du décret n° 72-580 du 4 juillet 1972 susvisé pour les professeurs agrégés stagiaires, à l'article 24 du décret n° 72-581 du 4 juillet 1972 susvisé pour les professeurs certifiés stagiaires, à l'article 5-7 du décret du 4 août 1980 susvisé pour les professeurs d'éducation physique et sportive stagiaires et à l'article 10 du décret du 6 novembre 1992 susvisé pour les professeurs de lycée professionnel stagiaires sont déterminées par le présent arrêté.
