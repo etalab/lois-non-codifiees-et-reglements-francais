@@ -1,0 +1,3 @@
+# Article 4
+
+En cas de suspension du contrat de travail avec maintien total ou partiel de la rémunération mensuelle brute de l'agent, le nombre d'heures rémunérées pris en compte pour le calcul de l'exonération prévue à l'article 6 de l'ordonnance du 2 août 2005 susvisée est égal, au titre de ces périodes de suspension, au produit de la durée de travail que l'agent aurait effectuée s'il avait continué à travailler et du pourcentage de la rémunération demeuré à la charge de l'employeur et soumis à cotisation. Le nombre d'heures rémunérées ainsi calculé ne peut excéder, au titre du mois civil considéré, la durée légale du travail sur le mois.
