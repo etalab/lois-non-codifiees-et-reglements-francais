@@ -1,5 +1,3 @@
-# Arrêté du 28 juillet 1961 RELATIF AUX MESURES PARTICULIERES DE SECURITE RELATIVES A L'UTILISATION DES MEULES ET MACHINES A MEULER
+# Arrêté du 28 juillet 1961 fixant la liste des médicaments que les docteurs en médecine sont autorisés à délivrer en application de l'article L. 594 du code de la santé publique
 
-- [Article 1](article-1.md)
-- [Article 2](article-2.md)
 - [Annexes](annexes)
