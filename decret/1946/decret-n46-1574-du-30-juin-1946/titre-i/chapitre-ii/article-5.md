@@ -2,6 +2,8 @@
 
 Le titre de séjour est délivré par le préfet du département dans lequel l'étranger a sa résidence et à Paris par le préfet de police. Il porte la photographie de son titulaire. Il peut prendre la forme d'une vignette apposée sur le passeport de l'intéressé.
 
+Le préfet peut également prescrire que la remise du titre est faite au commissariat de police de la résidence du requérant ou dans l'une des délégations régionales ou départementales de l'Agence nationale de l'accueil des étrangers et des migrations.
+
 La délivrance d'un titre de séjour est refusée à l'étranger qui ne remplit pas les conditions auxquelles les dispositions de l'ordonnance du 2 novembre 1945 susvisée subordonnent la délivrance des titres de séjour ou qui, sollicitant la délivrance d'une carte de séjour au titre de l'exercice d'une activité professionnelle, n'est pas autorisé par le ministre compétent à exercer celle-ci.
 
 Le titre de séjour doit être retiré :
@@ -26,6 +28,10 @@ Le titre de séjour peut être retiré :
 
 1° Si son titulaire cesse de remplir les conditions prévues aux articles 7 à 7-9 ci-après ;
 
-2° Sous réserve des dispositions de l'article 37 de l'ordonnance du 2 novembre 1945 précitée, si l'étranger titulaire d'une carte de résident en application de l'article 15-5° de ladite ordonnance a cessé, dans l'année qui suit la délivrance de cette carte, de vivre en communauté avec le conjoint qu'il est venu rejoindre au titre du regroupement familial.
+2° Si l'étranger titulaire d'une carte de séjour temporaire en application du 1° de l'article L. 313-11 du code de l'entrée et du séjour des étrangers et du droit d'asile n'est plus en situation de vie commune avec le conjoint qu'il est venu rejoindre au titre du regroupement familial dans les deux ans qui suivent la délivrance de cette carte ;
+
+3° Si l'activité professionnelle de son titulaire prend fin avant l'expiration de la carte de séjour délivrée en application de l'article L. 313-4 du même code ;
+
+4° Sous réserve des dispositions des articles L. 511-4, L. 521-2 et L. 521-3 du même code, si l'étranger a fait venir son conjoint ou ses enfants en dehors de la procédure de regroupement familial.
 
 En cas de retrait ou de refus de délivrance de tout titre de séjour, l'étranger doit quitter le territoire français.

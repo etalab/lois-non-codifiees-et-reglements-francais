@@ -1,6 +1,12 @@
 # Article 13-1
 
-Le préfet met en place la commission du titre de séjour mentionnée à l'article 12 quater de l'ordonnance du 2 novembre 1945 précitée par un arrêté constatant la désignation par le président du tribunal administratif d'un conseiller délégué s'il y a lieu, et d'un suppléant, et par l'assemblée générale du tribunal de grande instance du chef-lieu du département d'un magistrat et de son suppléant et désignant une personnalité qualifiée et son suppléant.
+Le préfet met en place la commission du titre de séjour mentionnée à l'article L. 312-1 du code de l'entrée et du séjour des étrangers et du droit d'asile par un arrêté :
+
+- constatant la désignation par le président du tribunal administratif d'un conseiller délégué, s'il y a lieu, et d'un suppléant, et par l'assemblée générale du tribunal de grande instance du chef-lieu du département d'un magistrat et de son suppléant ;
+
+- constatant la désignation des élus locaux mentionnés au e du même article ;
+
+- désignant les personnalités qualifiées mentionnées aux c et d du même article.
 
 La commission est saisie par une demande d'avis du préfet, accompagnée des documents nécessaires à l'examen de l'affaire comportant notamment les motifs qui le conduisent à envisager une décision de refus de délivrance ou de renouvellement de titre de séjour.
 

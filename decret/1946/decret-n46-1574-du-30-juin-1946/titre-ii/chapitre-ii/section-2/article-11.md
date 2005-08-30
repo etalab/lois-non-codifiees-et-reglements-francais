@@ -18,4 +18,4 @@ Les documents et visas prévus au 2° du premier alinéa du présent article ne 
 
 Les justificatifs prévus aux 2° et 3° du premier alinéa du présent article ne sont pas exigés de l'étranger qui remplit les conditions mentionnées au dernier alinéa de l'article 15 susmentionné.
 
-Le certificat médical prévu au 4° du premier alinéa du présent article n'est pas exigé de l'étranger mentionné aux 6°, 7° 8°, 9°, 12° et 13° dudit article 15.
+Le certificat médical prévu au 4° du premier alinéa du présent article n'est pas exigé de l'étranger mentionné aux 4°, 5°, 6°, 7° et 10° de l'article L. 314-11 du code de l'entrée et du séjour des étrangers et du droit d'asile.

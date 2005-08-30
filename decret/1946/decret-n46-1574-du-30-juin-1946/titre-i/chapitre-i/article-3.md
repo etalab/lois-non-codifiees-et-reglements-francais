@@ -1,8 +1,14 @@
 # Article 3
 
-Tout étranger, âgé de plus de dix-huit ans, est tenu de se présenter à Paris à la préfecture de police [*lieu*] et dans les autres départements à la préfecture ou à la sous-préfecture, pour y souscrire une demande de carte de séjour du type correspondant à la catégorie à laquelle il appartient. Toutefois, le préfet peut prescrire que les demandes de carte de séjour soient déposées au commissariat de police ou, à défaut de commissariat, à la mairie de la résidence du requérant.
+Tout étranger, âgé de plus de dix-huit ans, est tenu de se présenter à Paris à la préfecture de police et dans les autres départements à la préfecture ou à la sous-préfecture, pour y souscrire une demande de carte de séjour du type correspondant à la catégorie à laquelle il appartient. Toutefois, le préfet peut prescrire que les demandes de carte de séjour soient déposées au commissariat de police ou, à défaut de commissariat, à la mairie de la résidence du requérant.
 
-La demande doit être présentée par l'intéressé dans les deux mois de son entrée en France [*délai*]. S'il y séjournait déjà, il doit présenter sa demande :
+Le préfet peut également prescrire :
+
+1° Que les demandes de titre de séjour appartenant aux catégories qu'il détermine soient adressées par voie postale ;
+
+2° Que la demande de carte de séjour temporaire portant la mention "étudiant" soit déposée auprès des établissements d'enseignement ayant souscrit à cet effet une convention avec l'Etat.
+
+La demande doit être présentée par l'intéressé dans les deux mois de son entrée en France. S'il y séjournait déjà, il doit présenter sa demande :
 
 1. Soit, au plus tard, avant l'expiration de l'année qui suit son dix-huitième anniversaire, si l'étranger peut obtenir de plein droit un titre de séjour en application soit de l'article 12 bis, soit des 2°, 5°, 10° ou 11°, ou du dernier alinéa de l'article 15 de l'ordonnance du 2 novembre 1945 susvisée.
 
