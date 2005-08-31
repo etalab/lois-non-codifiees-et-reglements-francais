@@ -100,6 +100,7 @@
 - [Décret n°2005-86 du 3 février 2005 (INTB0500028D)](decret-n2005-86-du-3-fevrier-2005-intb0500028d)
 - [Décret n°2005-97 du 3 février 2005 (MENS0500048D)](decret-n2005-97-du-3-fevrier-2005-mens0500048d)
 - [Décret n°2005-98 du 3 février 2005 (INTB0500030D)](decret-n2005-98-du-3-fevrier-2005-intb0500030d)
+- [Décret n°80-993 du 3 décembre 1980](decret-n80-993-du-3-decembre-1980)
 - [Décret n°2005-416 du 3 mai 2005 (SOCU0412337D)](decret-n2005-416-du-3-mai-2005-socu0412337d)
 - [Décret n°2005-418 du 3 mai 2005 (SANP0520705D)](decret-n2005-418-du-3-mai-2005-sanp0520705d)
 - [Décret n°2005-419 du 3 mai 2005 (SANP0521141D)](decret-n2005-419-du-3-mai-2005-sanp0521141d)
