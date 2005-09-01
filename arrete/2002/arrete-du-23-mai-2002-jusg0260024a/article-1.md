@@ -32,4 +32,8 @@ Chargé de mission auprès du directeur de la protection judiciaire de la jeunes
 
 Chef du bureau du budget, de la comptabilité et des finances à la direction de l'administration pénitentiaire ;
 
-Chef du bureau de la gestion prévisionnelle des emplois, des effectifs et des compétences à la direction de l'administration pénitentiaire.
+Chef du bureau de la gestion prévisionnelle des emplois, des effectifs et des compétences à la direction de l'administration pénitentiaire ;
+
+Chef du bureau des relations sociales et des statuts à la direction de la protection judiciaire de la jeunesse ;
+
+Chef du bureau des services informatiques à la direction de l'administration générale et de l'équipement.
