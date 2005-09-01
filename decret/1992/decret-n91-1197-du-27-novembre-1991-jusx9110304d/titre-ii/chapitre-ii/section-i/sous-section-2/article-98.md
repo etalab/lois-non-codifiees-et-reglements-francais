@@ -15,5 +15,3 @@ Sont dispensés de la formation théorique et pratique et du certificat d'aptitu
 6° Les personnes agréées par le président du tribunal supérieur d'appel dans la collectivité départementale de Mayotte justifiant de huit ans au moins de pratique professionnelle.
 
 Les personnes mentionnées aux 3°, 4° et 5° peuvent avoir exercé leurs activités dans plusieurs des fonctions visées dans ces dispositions dès lors que la durée totale de ces activités est au moins égale à huit ans.
-
-Les personnes mentionnées au présent article sont inscrites pendant une période d'un an sur la liste du stage et sont soumises aux obligations qui en résultent, à l'exception de celles qui sont prévues aux 3° et 4° du premier alinéa de l'article 77 ;
