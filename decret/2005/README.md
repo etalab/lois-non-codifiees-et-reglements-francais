@@ -892,6 +892,8 @@
 - [Décret n°2005-638 du 30 mai 2005 (DEFD0500716D)](decret-n2005-638-du-30-mai-2005-defd0500716d)
 - [Décret n°2005-639 du 30 mai 2005 (DEFD0500683D)](decret-n2005-639-du-30-mai-2005-defd0500683d)
 - [Décret n°2005-643 du 30 mai 2005 (EQUA0500569D)](decret-n2005-643-du-30-mai-2005-equa0500569d)
+- [Décret du 31 août 2005 (AGRP0501417D)](decret-du-31-aout-2005-agrp0501417d)
+- [Décret du 31 août 2005 (AGRP0501418D)](decret-du-31-aout-2005-agrp0501418d)
 - [Décret n° 2005-69 du 31 janvier 2005 (SOCU0412287D)](decret-n-2005-69-du-31-janvier-2005-socu0412287d)
 - [Décret n°2004-1532 du 31 décembre 2004 (PRMX0407933D)](decret-n2004-1532-du-31-decembre-2004-prmx0407933d)
 - [Décret n°2005-1093 du 31 août 2005 (SOCG0521698D)](decret-n2005-1093-du-31-aout-2005-socg0521698d)
