@@ -4,6 +4,8 @@ Dans chaque académie est instituée une délégation régionale de l'office, pl
 
 Cette délégation est dirigée par le chef du service académique d'observation, d'information et d'orientation.
 
+Dans la région d'Ile-de-France, la délégation régionale est placée sous la tutelle des recteurs de Créteil, de Paris et de Versailles, la coordination étant assurée par le comité des recteurs de la région d'Ile-de-France institué par l'article R. 222-2 du code de l'éducation. Cette délégation régionale est dirigée par un chef de service académique d'information et d'orientation nommé par le ministre chargé de l'éducation après avis des recteurs des académies concernées.
+
 La délégation régionale est chargée notamment :
 
 De diffuser dans les conditions fixées par le ministre de l'éducation nationale l'information sur les enseignements et les professions ;
