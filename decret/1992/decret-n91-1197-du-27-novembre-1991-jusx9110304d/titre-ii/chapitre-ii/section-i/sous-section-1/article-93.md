@@ -2,7 +2,7 @@
 
 Peuvent être inscrits au tableau d'un barreau :
 
-1° Les avocats possédant le certificat de fin de stage ;
+1° Les titulaires du certificat d'aptitude à la profession d'avocat ;
 
 2° Les personnes bénéficiant d'une des dispenses prévues aux articles 97, 98 et 99 ;
 
@@ -12,4 +12,4 @@ Peuvent être inscrits au tableau d'un barreau :
 
 5° Les groupements d'avocats prévus à l'article 50-XIII de la loi du 31 décembre 1971 précitée.
 
-Les personnes mentionnées aux 2° et 3° sont tenues de prêter le serment prévu au deuxième alinéa de l'article 3 de la loi du 31 décembre 1971 précitée.
+Les personnes mentionnées aux 1°, 2° et 3° sont tenues de prêter le serment prévu au deuxième alinéa de l'article 3 de la loi du 31 décembre 1971 précitée.
