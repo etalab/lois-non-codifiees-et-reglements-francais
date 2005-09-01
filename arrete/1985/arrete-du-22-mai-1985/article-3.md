@@ -1,15 +1,9 @@
 # Article 3
 
-Le diplôme d'études en langue française (D.E.L.F.) comprend:
+Le diplôme d'études en langue française comporte quatre niveaux.
 
-- le diplôme d'études en langue française du premier degré comportant quatre unités de contrôle;
+Le diplôme approfondi de langue française comporte deux niveaux.
 
-- le diplôme d'études en langue française du second degré comptant deux unités de contrôle.
+Ces niveaux donnent lieu à des certifications distinctes, intitulées, par référence au "Cadre européen commun de référence pour les langues, dans l'ordre de capacité croissante de maîtrise de la langue : DELF A1, DELF A2, DELF B1, DELF B2, DALF C1, DALF C2.
 
-Chacun de ces deux diplômes donne lieu à certification distincte.
-
-Pour s'inscrire à ces unités, les candidats doivent être titulaires du diplôme d'études en langue française du premier degré. Peuvent toutefois être dispensés de cette exigence les candidats qui ont subi avec succès dans un centre d'examen agréé, au cours des deux années précédant leur demande d'inscription, des épreuves de contrôle correspondant au niveau des unités de contrôle constitutives du diplôme d'études en langue française du premier degré.
-
-Seuls les titulaires du diplôme du premier degré peuvent s'inscrire aux unités de contrôle du diplôme du second degré et se présenter aux épreuves correspondantes.
-
-Les deux unités de contrôle du diplôme d'études en langue française du second degré peuvent être acquises dans un ordre indifférent.
+Les candidats à chacune de ces certifications peuvent s'inscrire sans condition préalable de titre ou de diplôme aux épreuves qui y conduisent.

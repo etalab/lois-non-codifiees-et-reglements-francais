@@ -1,9 +1,3 @@
 # Article 4
 
-Le diplôme approfondi de langue française comporte quatre unités de contrôle.
-
-Pour s'inscrire aux unités de contrôle du diplôme approfondi de langue française, les candidats doivent être titulaires du diplôme élé­mentaire de langue française.
-
-Peuvent toutefois être dispensés du diplôme élémentaire de langue française les candidats qui ont satisfait à un examen de contrôle correspondant au niveau de l'unité finale de ce diplôme (unité de contrôle n° A 6).
-
-L'ordre d'acquisition des quatre unités de contrôle est indifférent.
+Le protocole des examens des quatre certifications du diplôme d'études en langue française peut recevoir, exceptionnellement, des modifications, relatives à la durée des épreuves ou aux supports pédagogiques utilisés ou aux deux, pour faciliter l'adaptation de ceux-ci à un public plus jeune et, notamment, aux contextes scolaires dans lesquels ils sont susceptibles d'être intégrés. L'intégration de ces modifications est subordonnée au contrôle et à l'accord au cas par cas du président de la Commission nationale du diplôme d'études en langue française et du diplôme approfondi de langue française mentionnée à l'article 6, qui veille à respecter les critères d'exigence linguistique requis pour chacune des certifications considérées.
