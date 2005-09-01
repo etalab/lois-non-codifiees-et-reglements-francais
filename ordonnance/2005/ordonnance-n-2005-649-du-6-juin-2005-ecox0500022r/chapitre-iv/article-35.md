@@ -1,0 +1,3 @@
+# Article 35
+
+Les dispositions des chapitres Ier et II s'appliquent aux marchés subventionnés directement à plus de 50 % par un pouvoir adjudicateur soumis au code des marchés publics ou à la présente ordonnance et qui ou bien concernent des activités de génie civil ou ont pour objet de réaliser, de concevoir et réaliser ou de faire réaliser tous travaux de bâtiment relatifs à des établissements de santé, des équipements sportifs, récréatifs ou de loisir, des bâtiments scolaires ou universitaires ou des bâtiments à usage administratif ou bien encore sont des marchés de services liés à un des marchés de travaux mentionnés au présent article.

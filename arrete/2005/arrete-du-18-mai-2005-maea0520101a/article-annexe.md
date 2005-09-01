@@ -488,12 +488,6 @@ Colombie
 
 Bogota, lycée français Louis-Pasteur.
 
-Côte d'Ivoire
-
-Abidjan, lycée Blaise-Pascal.
-
-Abidjan, section française du collège Jean-Mermoz.
-
 République arabe d'Egypte
 
 Le Caire, lycée français.
@@ -520,9 +514,9 @@ Londres, lycée français Charles-de-Gaulle.
 
 Ile Maurice
 
-Curepipe, lycée La Bourdonnais.
+Mapou, école du Nord,
 
-Mapou, école du Nord, lycée des Mascareignes.
+Moka, lycée des Mascareignes.
 
 Italie
 

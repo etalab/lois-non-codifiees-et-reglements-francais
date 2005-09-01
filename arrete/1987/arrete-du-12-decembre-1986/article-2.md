@@ -10,7 +10,7 @@ Un représentant de la pêche professionnelle en eau douce et un suppléant dés
 
 Un représentant de la pêche maritime et de la conchyliculture et un suppléant désignés conjointement par le Comité national des pêches maritimes et des élevages marins et le Comité national de la conchyliculture ;
 
-Un représentant du tourisme et un suppléant désignés par l'Union nationale des associations de tourisme ;
+Un représentant du tourisme et un suppléant désignés par l'Union nationale des associations de tourisme et de plein air ;
 
 Un représentant des activités nautiques et un suppléant désignés par la Fédération française de canoë-kayak ;
 
@@ -18,7 +18,7 @@ Onze représentants de l'industrie et onze suppléants désignés par un collèg
 
 - les présidents des chambres régionales de commerce et d'industrie de Limousin-Poitou-Charentes, Aquitaine, Midi-Pyrénées, Auvergne et Languedoc-Roussillon ;
 
-- les présidents du MEDEF régional (Mouvement des entreprises de France) du Limousin, de Poitou-Charentes, d'Aquitaine, de Midi-Pyrénées, d'Auvergne, de Languedoc-Roussillon et de la Confédération française de la coopération agricole.
+- les présidents du MEDEF régional (Mouvement des entreprises de France) du Limousin, de Poitou-Charentes, d'Aquitaine, de Midi-Pyrénées, d'Auvergne, de Languedoc-Roussillon et de la COOP de France.
 
 Ce collège désignera au moins un représentant des activités suivantes : industries métallurgiques, industries chimiques, industries agricoles et alimentaires (entreprises de vinification, distilleries vinicoles, laiteries, abattoirs ou conserveries de viande), industries de papiers-cartons et celluloses, industries des cuirs et peaux, industries d'extraction de granulats, industries d'élimination des déchets, ainsi que deux représentants des coopératives agroalimentaires industrielles ou des sociétés d'intérêt collectif agricoles et un représentant PME-PMI ou des activités artisanales raccordées aux réseaux publics d'assainissement ;
 

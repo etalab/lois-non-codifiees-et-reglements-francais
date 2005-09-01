@@ -1,0 +1,3 @@
+# Article 4
+
+Les modalités selon lesquelles les personnels enseignants et de documentation mentionnés aux articles L. 914-1 du code de l'éducation et L. 813-8 du code rural, admis à la retraite ou au bénéfice d'un avantage temporaire de retraite servi par l'Etat, perçoivent, à titre transitoire, de manière dégressive à compter de l'entrée en vigueur de la présente loi, une indemnité de départ à la retraite, sont déterminées par voie de conventions. Ces conventions seront étendues par arrêté des ministres chargés de l'éducation nationale et de l'agriculture à l'ensemble des partenaires sociaux compris dans leur champ d'application.

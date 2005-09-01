@@ -2,7 +2,7 @@
 
 I. - L'Etat supporte les charges sociales incombant à l'employeur qui comportent :
 
-a) Les cotisations instituées par les titres II, III et V du livre septième du code rural ;
+a) Les cotisations instituées par le chapitre Ier du titre IV du livre VII du code rural au titre des prestations familiales et de l'assurance vieillesse et, par dérogation aux dispositions de l'article D. 741-35 du code rural, la cotisation prévue à l'article D. 712-38 du code de la sécurité sociale au titre des risques mentionnés à l'article L. 712-9 du code de la sécurité sociale ;
 
 b) Les cotisations versées à une institution de retraite complémentaire choisie par l'association ou l'organisme responsable de l'établissement au taux de 4,80 % sur la tranche de rémunération inférieure ou égale au plafond de la sécurité sociale et au taux de 10 % sur la tranche de rémunération supérieure au plafond de la sécurité sociale.
 

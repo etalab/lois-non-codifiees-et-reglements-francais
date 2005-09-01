@@ -1,19 +1,23 @@
 # Article 11
 
-Un conseil d'orientation pédagogique assure l'harmoni­sation des objectifs pédagogiques et des épreuves d'examen.
+Un conseil d'orientation pédagogique de douze membres est placé auprès de la commission nationale pour assurer l'harmoni­sation des objectifs pédagogiques et des épreuves d'examen.
 
 Il comprend :
 
-- le directeur de la coopération et des relations internationales du ministère de l'éducation nationale, président, ou son représentant ;
+- Le directeur des relations internationales et de la coopération du ministère chargé de l'éducation nationale ou son représentant, président, ou son représentant ;
 
-- le directeur des enseignements supérieurs du ministère de l'édu­cation nationale ou son représentant ;
+- le directeur des enseignements supérieurs du ministère chargé de l'enseignement supérieur ou son représentant ;
 
-- le directeur général des relations culturelles, scientifiques et techniques du ministère des relations extérieures ou son représen­tant ;
+- le directeur général de la coopération internationale et du développement,
 
-- un enseignant chercheur désigné par arrêté du ministre de l'édu­cation nationale ;
+- un président d'université désigné par la conférence des présidents d'université du ministère des affaires étrangères ou son représen­tant ;
 
-- un inspecteur général de l'éducation nationale désigné par arrêté du ministre de l'éducation nationale ;
+- deux enseignants-chercheurs, désignés pour un mandat de deux ans par arrêté du ministre chargé de l'enseignement supérieur ;
 
-- le directeur du centre international d'études pédagogiques de Sèvres ou son représentant ;
+- un inspecteur général de l'éducation nationale désigné ;
 
-- quatre personnalités désignées par arrêté du ministre de l'éduca­tion nationale en fonction de leur expérience dans le domaine du français langue étrangère.
+- le directeur du centre international d'études pédagogiques ou son représentant ;
+
+- quatre personnalités désignées, pour un mandat de deux ans, deux par arrêté du ministre chargé de l'enseignement supérieur et deux par arrêté du ministre chargé de l'éducation nationale, en raison de leur expérience dans le domaine de l'enseignement du français, langue étrangère.
+
+Le conseil d'orientation pédagogique se réunit en tant que de besoin et au moins une fois par an, sur convocation de son président.
