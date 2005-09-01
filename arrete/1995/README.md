@@ -925,7 +925,6 @@
 - [Arrêté du 22 septembre 1995 (MENL9501607A)](arrete-du-22-septembre-1995-menl9501607a)
 - [Arrêté du 22 septembre 1995 (TEFT9500992A)](arrete-du-22-septembre-1995-teft9500992a)
 - [Arrêté du 23 août 1995 (AGRG9501715A)](arrete-du-23-aout-1995-agrg9501715a)
-- [Arrêté du 23 août 1995 (DEFP9501882A)](arrete-du-23-aout-1995-defp9501882a)
 - [Arrêté du 23 août 1995 (ENVE9540272A)](arrete-du-23-aout-1995-enve9540272a)
 - [Arrêté du 23 août 1995 (INTC9500472A)](arrete-du-23-aout-1995-intc9500472a)
 - [Arrêté du 23 août 1995 (MAEA9520389A)](arrete-du-23-aout-1995-maea9520389a)

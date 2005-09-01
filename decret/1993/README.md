@@ -391,7 +391,6 @@
 - [Décret n°93-796 du 16 avril 1993 (RESX9300065D)](decret-n93-796-du-16-avril-1993-resx9300065d)
 - [Décret n°93-798 du 16 avril 1993 (COPX9300067D)](decret-n93-798-du-16-avril-1993-copx9300067d)
 - [Décret n°93-799 du 16 avril 1993 (MICX9300062D)](decret-n93-799-du-16-avril-1993-micx9300062d)
-- [Décret n°93-860 du 16 juin 1993 (MAEJ9330026D)](decret-n93-860-du-16-juin-1993-maej9330026d)
 - [Décret n°93-910 du 16 juillet 1993 (PRMD9350006D)](decret-n93-910-du-16-juillet-1993-prmd9350006d)
 - [Décret n°93-912 du 16 juillet 1993 (AGRS9301235D)](decret-n93-912-du-16-juillet-1993-agrs9301235d)
 - [Décret n°93-938 du 16 juillet 1993 (SPSS9301696D)](decret-n93-938-du-16-juillet-1993-spss9301696d)

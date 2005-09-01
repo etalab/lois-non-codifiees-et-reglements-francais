@@ -812,7 +812,6 @@
 - [Décret n°95-823 du 23 juin 1995 (MAEJ9530064D)](decret-n95-823-du-23-juin-1995-maej9530064d)
 - [Décret n°95-87 du 23 janvier 1995 (JUSC9421163D)](decret-n95-87-du-23-janvier-1995-jusc9421163d)
 - [Décret n°95-946 du 23 août 1995 (MENX9500045D)](decret-n95-946-du-23-aout-1995-menx9500045d)
-- [Décret n°95-951 du 23 août 1995 (DEFP9501881D)](decret-n95-951-du-23-aout-1995-defp9501881d)
 - [Décret n°95-963 du 23 août 1995 (DEFP9501700D)](decret-n95-963-du-23-aout-1995-defp9501700d)
 - [Décret n°95-964 du 23 août 1995 (DEFP9501627D)](decret-n95-964-du-23-aout-1995-defp9501627d)
 - [Décret n°95-965 du 23 août 1995 (DEFP9501628D)](decret-n95-965-du-23-aout-1995-defp9501628d)
