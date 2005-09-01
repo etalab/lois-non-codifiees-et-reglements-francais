@@ -1,5 +1,5 @@
 # Article 58
 
-Les élèves doivent effectuer des stages auprès d'un avocat ou d'un autre professionnel du droit, auprès d'un expert-comptable, dans le service juridique ou fiscal d'une entreprise ou d'une organisation syndicale comportant au moins trois juristes, ou auprès d'une juridiction ou d'un organisme public, en France ou à l'étranger.
+Une deuxième période de formation, d'une durée de six mois, pouvant à titre exceptionnel être portée à huit mois, est consacrée à la réalisation du projet pédagogique individuel de l'élève avocat, selon des principes définis par le Conseil national des barreaux. Ce projet pédagogique, proposé par l'élève avocat et élaboré avec le concours du centre régional de formation professionnelle, est agréé par ce dernier.
 
-Le centre régional de formation professionnelle détermine les conditions dans lesquelles le stage doit être accompli, et notamment la nature des travaux qui devront être confiés aux élèves. Il s'assure du bon déroulement du stage.
+Une troisième période de formation, d'une durée de six mois, est consacrée à un stage auprès d'un avocat.

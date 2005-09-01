@@ -1,5 +1,5 @@
 # Article 56
 
-Les centres régionaux de formation professionnelle assurent la formation théorique et pratique des futurs avocats pendant une période de douze mois, au moyen d'enseignements et de stages, dans les conditions ci-après définies.
+Les centres régionaux de formation professionnelle assurent la formation des élèves avocats. Le Conseil national des barreaux en définit les principes d'organisation.
 
-Deux ou plusieurs centres régionaux de formation professionnelle peuvent assurer en commun tout ou partie de cette formation. Le Conseil national des barreaux décide des modalités de regroupement.
+Les décisions prises par le Conseil national des barreaux en application de l'alinéa qui précède sont, dans le délai de trente jours de leur date, notifiées par lettre recommandée avec demande d'avis de réception au garde des sceaux, ministre de la justice, et aux centres régionaux de formation professionnelle.
