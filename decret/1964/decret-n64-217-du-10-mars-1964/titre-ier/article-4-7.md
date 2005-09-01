@@ -1,5 +1,3 @@
 # Article 4-7
 
-Un contrat définitif est accordé par le recteur au candidat qui a obtenu le certificat d'aptitude aux fonctions d'enseignant dans les établissements d'enseignement privés du second degré sous contrat pour exercer dans l'établissement au titre duquel il a obtenu un contrat provisoire.
-
-Dans le cas où le chef d'établissement ne dispose pas du service vacant correspondant, le recteur procède à l'affectation du maître ou documentaliste concerné après avis de la commission consultative mixte académique, et avec l'accord du chef d'établissement auquel il propose le candidat.
+Après avis de la commission consultative mixte académique, et avec l'accord du chef d'établissement auquel il propose la candidature, le recteur procède à l'affectation du maître ou du documentaliste du second degré qui a été admis au concours externe ou interne de l'enseignement privé ou qui a bénéficié d'une mesure de résorption de l'emploi précaire, et qui a satisfait aux obligations de son année de formation ou de stage. Un contrat définitif est accordé par le recteur à l'intéressé.
