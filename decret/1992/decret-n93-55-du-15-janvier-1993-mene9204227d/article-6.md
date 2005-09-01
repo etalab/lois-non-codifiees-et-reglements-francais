@@ -1,3 +1,3 @@
 # Article 6
 
-L'indemnité est versée trimestriellement aux intéressés.
+L'indemnité est versée mensuellement aux intéressés.
