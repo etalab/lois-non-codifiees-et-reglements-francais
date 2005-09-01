@@ -1,5 +1,7 @@
 # Article 5
 
-Pour les épreuves facultatives comme pour les ateliers de pratique ne sont retenus que les points supérieurs â la moyenne de 10/20.
+Pour les épreuves facultatives correspondant à des options du cycle terminal de la série concernée, ne sont retenus que les points supérieurs à la moyenne de 10 sur 20.
 
-Pour les candidats qui se présentent à la fois aux épreuves de l’enseignement de spécialité Arts de la série L et à l’épreuve facultative Arts (pratiques artistiques et histoire des arts), les points obtenus au dessus de la moyenne, à l’épreuve facultative, sont doublés. La discipline artistique des deux épreuves peut être identique ou différente.
+Pour la première épreuve facultative à laquelle le candidat a choisi de s'inscrire, quelle que soit l'option correspondante, les points sont affectés du coefficient 2.
+
+Par dérogation aux dispositions du précédent alinéa, ce coefficient est porté à 3 lorsque l'option choisie est soit le latin, soit le grec ancien.
