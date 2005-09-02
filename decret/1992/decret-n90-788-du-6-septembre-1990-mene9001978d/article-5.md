@@ -8,7 +8,7 @@ Il comporte :
 
 - des indications précises sur les acquis de l'élève ;
 
-- les propositions faites par le maître et le conseil des maîtres de cycle sur la durée à effectuer par l'élève dans le cycle, les décisions de passage de cycle et, le cas échéant, la décision prise après recours de la famille conformément à l'article 4.
+- les propositions faites par le conseil des maîtres et les décisions prises en fin d'année scolaire sur les conditions dans lesquelles se poursuit la scolarité.
 
 Il est régulièrement communiqué aux parents qui le signent.
 

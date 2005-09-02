@@ -1,13 +1,11 @@
 # Article 4
 
-Les dispositions pédagogiques mises en oeuvre dans chaque cycle doivent prendre en compte les difficultés propres et les rythmes d'apprentissage de chaque enfant et peuvent donner lieu à une répartition par le maître ou par l'équipe pédagogique des élèves en groupes. Celui-ci ou celle-ci sont responsables de l'évaluation régulière des acquis des élèves.
+Les dispositions pédagogiques mises en oeuvre pour assurer la continuité pédagogique, en particulier au sein de chaque cycle, prennent en compte les besoins de chaque élève afin de permettre le plein développement de ses potentialités, ainsi que l'objectif de le conduire à l'acquisition des éléments du socle commun de connaissances et compétences fondamentales correspondant à son niveau de scolarité (1).
 
-La progression d'un élève dans chaque cycle est déterminée sur proposition du maître concerné par le conseil des maîtres de cycle prévu à l'article 16. Les parents doivent être tenus régulièrement informés de la situation scolaire de leur enfant.
+A tout moment de la scolarité élémentaire, lorsqu'il apparaît qu'un élève ne sera pas en mesure de maîtriser les connaissances et les compétences indispensables à la fin du cycle, le directeur d'école propose aux parents ou au représentant légal de l'enfant de mettre en place un dispositif de soutien, notamment un programme personnalisé de réussite éducative. Un document, préalablement discuté avec les parents de l'élève ou son représentant légal, précise les formes d'aides mises en oeuvre pendant le temps scolaire ainsi que, le cas échéant, celles qui sont proposées à la famille en dehors du temps scolaire. Il définit un projet individualisé qui devra permettre d'évaluer régulièrement la progression de l'élève.
 
-Afin de prendre en compte les rythmes d'apprentissage de chaque enfant, la durée passée par un élève dans l'ensemble des cycles des apprentissages fondamentaux et des approfondissements peut être allongée ou réduite d'un an selon les modalités suivantes :
+Dans les zones d'éducation prioritaire, ces dispositifs se conjuguent avec les dispositifs existants.
 
-Il est procédé en conseil des maîtres de cycle, éventuellement sur demande des parents, à l'examen de la situation de l'enfant, le cas échéant après avis du réseau d'aides spécialisées et du médecin scolaire. Une proposition écrite est adressée aux parents. Ceux-ci font connaître leur réponse écrite dans un délai de quinze jours à compter de cette notification. Passé ce délai, l'absence de réponse équivaut à l'acceptation de la proposition.
+Des aides spécialisées et des enseignements adaptés sont mis en place au profit des élèves qui éprouvent des difficultés graves et persistantes. Ils sont pris en charge par des maîtres spécialisés, en coordination avec le maître de la classe dans laquelle l'élève continue à suivre une partie de l'enseignement.
 
-Toute proposition acceptée devient décision.
-
-Si les parents contestent la proposition, ils peuvent, dans le même délai, former un recours motivé devant l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, qui statue définitivement.
+Des actions particulières sont prévues pour les élèves non francophones nouvellement arrivés en France.

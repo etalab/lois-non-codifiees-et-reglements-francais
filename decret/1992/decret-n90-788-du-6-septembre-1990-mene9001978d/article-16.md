@@ -4,7 +4,7 @@ Le conseil des maîtres de l'école constitue pour chaque cycle un conseil des m
 
 Il élabore notamment le projet pédagogique de cycle, veille à sa mise en oeuvre et assure son évaluation, en cohérence avec le projet d'école.
 
-Le conseil des maîtres de cycle fait le point sur la progression des élèves à partir des travaux de l'équipe pédagogique de cycle et formule des propositions concernant le passage de cycle à cycle et la durée passée par les élèves dans le cycle conformément aux dispositions de l'article 4, alinéa 4. Ces propositions sont notifiées aux parents par le directeur de l'école fréquentée par l'enfant.
+Le conseil des maîtres de cycle fait le point sur la progression des élèves à partir des travaux de l'équipe pédagogique de cycle et formule des propositions concernant la poursuite de la scolarité, au terme de chaque année scolaire.
 
 Par dérogation au premier alinéa du présent article, lorsqu'une école élémentaire compte trois ou quatre classes, le conseil des maîtres de cycle rassemble tous les maîtres de l'école.
 

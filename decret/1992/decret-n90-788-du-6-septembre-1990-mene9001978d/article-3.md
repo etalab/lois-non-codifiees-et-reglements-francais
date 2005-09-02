@@ -8,4 +8,4 @@ La scolarité de l'école maternelle à la fin de l'école élementaire est orga
 
 - le cycle des approfondissements, qui correspond aux trois dernières années de l'école élémentaire et débouche sur le collège.
 
-Les objectifs de chaque cycle sont définis par instructions du ministre chargé de l'éducation.
+Le ministre chargé de l'éducation nationale définit par arrêté les programmes d'enseignement incluant les objectifs de chaque cycle, ainsi que des repères annuels pour les compétences et connaissances dont l'acquisition doit être assurée en priorité en vue de la maîtrise des éléments du socle commun à la fin de l'école primaire.

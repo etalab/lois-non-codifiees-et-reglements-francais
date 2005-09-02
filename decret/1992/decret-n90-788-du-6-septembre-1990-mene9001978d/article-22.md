@@ -1,5 +1,7 @@
 # Article 22
 
-Des pédagogies appropriées, des aides spécialisées, des enseignements d'adaptation sont mis en oeuvre pour répondre aux besoins d'élèves en difficulté ou malades, éventuellement sur prescription des commissions de l'éducation spéciale, prévue à l'article 6 de la loi du 30 juin 1975 susvisée.
+Des adaptations pédagogiques et des aides spécialisées sont mises en oeuvre pour les élèves présentant un handicap ou un trouble de la santé invalidant.
 
-Suivant le problème traité et son degré de difficulté, ces interventions peuvent être réalisées par les maîtres des classes fréquentées par l'élève, par des maîtres spécialisés ou par des spécialistes extérieurs à l'école. Elles donnent lieu, le cas échéant, à l'attribution de bourses d'enseignement d'adaptation. Elles se déroulent pendant tout ou partie de la semaine scolaire. Elles peuvent également être dispensées dans des établissements sociaux ou médicaux.
+Suivant la nature ou la spécialité des besoins, ces interventions peuvent être réalisées par les maîtres des classes fréquentées par l'élève, par des maîtres spécialisés, éventuellement au sein de dispositifs adaptés, ou par des spécialistes extérieurs à l'école. Elles peuvent être prévues dans le projet personnalisé de scolarisation élaboré pour l'élève.
+
+Elles se déroulent pendant tout ou partie de la semaine scolaire. Elles donnent lieu, le cas échéant, à l'attribution de bourses d'adaptation.
