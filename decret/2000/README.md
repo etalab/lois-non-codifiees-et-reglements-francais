@@ -12,6 +12,7 @@
 - [Décret n°2000-200 du 6 mars 2000 (MAEF9910042D)](decret-n2000-200-du-6-mars-2000-maef9910042d)
 - [Décret n°95-636 du 6 mai 1995 (ENVN9530042D)](decret-n95-636-du-6-mai-1995-envn9530042d)
 - [Décret n°2000-302 du 7 avril 2000 (PRMX0000055D)](decret-n2000-302-du-7-avril-2000-prmx0000055d)
+- [Décret n°2000-502 du 7 juin 2000 (MESF0010020D)](decret-n2000-502-du-7-juin-2000-mesf0010020d)
 - [Décret n°2000-874 du 7 septembre 2000 (ECOI0000361D)](decret-n2000-874-du-7-septembre-2000-ecoi0000361d)
 - [Décret n°96-501 du 7 juin 1996 (AGRA9600567D)](decret-n96-501-du-7-juin-1996-agra9600567d)
 - [Décret n°2000-221 du 8 mars 2000 (ECOT9914034D)](decret-n2000-221-du-8-mars-2000-ecot9914034d)
