@@ -2,6 +2,7 @@
 
 - [Décret n°2000-748 du 1 août 2000 (MESO0010921D)](decret-n2000-748-du-1-aout-2000-meso0010921d)
 - [Décret n°2005-1090 du 1 septembre 2005 (FPPX0500122D)](decret-n2005-1090-du-1-septembre-2005-fppx0500122d)
+- [Décret n°2005-1095 du 1 septembre 2005 (SANH0522806D)](decret-n2005-1095-du-1-septembre-2005-sanh0522806d)
 - [Décret n°2005-207 du 1 mars 2005 (SANH0520478D)](decret-n2005-207-du-1-mars-2005-sanh0520478d)
 - [Décret n°2005-308 du 1 avril 2005 (SOCU0412359D)](decret-n2005-308-du-1-avril-2005-socu0412359d)
 - [Décret n°2005-309 du 1 avril 2005 (SANG0520645D)](decret-n2005-309-du-1-avril-2005-sang0520645d)
@@ -30,6 +31,7 @@
 - [Décret n°2004-951 du 2 septembre 2004 (JUSC0420587D)](decret-n2004-951-du-2-septembre-2004-jusc0420587d)
 - [Décret n°2005-1006 du 2 août 2005 (ECOX0400232D)](decret-n2005-1006-du-2-aout-2005-ecox0400232d)
 - [Décret n°2005-1007 du 2 août 2005 (ECOX0500001D)](decret-n2005-1007-du-2-aout-2005-ecox0500001d)
+- [Décret n°2005-1096 du 2 septembre 2005 (MCCT0500408D)](decret-n2005-1096-du-2-septembre-2005-mcct0500408d)
 - [Décret n°2005-206 du 2 mars 2005 (PRMX0508185D)](decret-n2005-206-du-2-mars-2005-prmx0508185d)
 - [Décret n°2005-208 du 2 mars 2005 (INDX0508184D)](decret-n2005-208-du-2-mars-2005-indx0508184d)
 - [Décret n°2005-209 du 2 mars 2005 (BUDX0508151D)](decret-n2005-209-du-2-mars-2005-budx0508151d)
