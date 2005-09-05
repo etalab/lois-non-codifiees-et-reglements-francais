@@ -1,0 +1,3 @@
+# Article 1
+
+Est délégué à compter du 1er septembre 2005 aux directeurs des services fiscaux le pouvoir d'émettre les ordres de versement, de se prononcer sur les demandes de sursis de versement et de statuer sur les demandes en décharge de responsabilité et en remise gracieuse des comptables de la direction générale des impôts, consécutifs aux débets autres que ceux correspondant à des détournements de fonds ou prononcés par la Cour des comptes. Cette délégation exclut les débets dont le montant en principal dépasse le seuil fixé en application de l'article 8 du décret du 29 septembre 1964 susvisé ou 15 000  en matière de créances prescrites et de dépenses irrégulières.
