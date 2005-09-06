@@ -877,6 +877,8 @@
 - [Décret n°2005-1057 du 30 août 2005 (PRMX0500225D)](decret-n2005-1057-du-30-aout-2005-prmx0500225d)
 - [Décret n°2005-1058 du 30 août 2005 (DEFD0501177D)](decret-n2005-1058-du-30-aout-2005-defd0501177d)
 - [Décret n°2005-1068 du 30 août 2005 (ECOT0526354D)](decret-n2005-1068-du-30-aout-2005-ecot0526354d)
+- [Décret n°2005-1111 du 30 août 2005 (JUSD0530110D)](decret-n2005-1111-du-30-aout-2005-jusd0530110d)
+- [Décret n°2005-1113 du 30 août 2005 (MCCB0500564D)](decret-n2005-1113-du-30-aout-2005-mccb0500564d)
 - [Décret n°2005-1784 du 30 décembre 2005 (AGRS0502776D)](decret-n2005-1784-du-30-decembre-2005-agrs0502776d)
 - [Décret n°2005-291 du 30 mars 2005 (MENA0500419D)](decret-n2005-291-du-30-mars-2005-mena0500419d)
 - [Décret n°2005-292 du 30 mars 2005 (SANS0521139D)](decret-n2005-292-du-30-mars-2005-sans0521139d)
