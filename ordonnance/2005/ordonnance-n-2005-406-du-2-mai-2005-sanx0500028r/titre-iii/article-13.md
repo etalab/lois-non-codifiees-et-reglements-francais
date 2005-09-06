@@ -4,7 +4,7 @@ I., II., III. - Paragraphes modificateurs
 
 IV., A. - Paragraphe modificateur
 
-B. - Les dispositions de l'article L. 6145-1 du même code dans leur rédaction issue de la loi n° 2003-1199 du 18 décembre 2003 de financement de la sécurité sociale pour 2004 s'appliquent au budget de l'exercice 2005. Toutefois, pour cet exercice et par dérogation à ces dispositions, le budget est présenté par groupes fonctionnels dans les conditions prévues à cet article dans sa rédaction antérieure à la publication de la loi du 18 décembre 2003.
+B. - En 2005, le budget est présenté par groupes fonctionnels dans les conditions prévues à l'article L. 6145-1 dans sa rédaction antérieure à la publication de la loi n° 2003-1199 du 18 décembre 2003 de financement de la sécurité sociale pour 2004.
 
 C. - En 2005, le contrôle du comptable s'effectue selon les modalités prévues par l'article L. 6145-8 du même code dans sa rédaction antérieure à la publication de la présente ordonnance.
 
