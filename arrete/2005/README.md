@@ -298,6 +298,7 @@
 - [Arrêté du 19 août 2005 (MENE0501707A)](arrete-du-19-aout-2005-mene0501707a)
 - [Arrêté du 19 juillet 2005 (ECOM0520007A)](arrete-du-19-juillet-2005-ecom0520007a)
 - [Arrêté du 19 juillet 2005 (JUSK0540034A)](arrete-du-19-juillet-2005-jusk0540034a)
+- [Arrêté du 19 juillet 2005 (MENS0501524A)](arrete-du-19-juillet-2005-mens0501524a)
 - [Arrêté du 19 juillet 2005 (MENS0501542A)](arrete-du-19-juillet-2005-mens0501542a)
 - [Arrêté du 19 mai 2005 (SANH0521918A)](arrete-du-19-mai-2005-sanh0521918a)
 - [Arrêté du 19 mai 2005 (SANP0521868A)](arrete-du-19-mai-2005-sanp0521868a)
