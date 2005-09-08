@@ -2,7 +2,7 @@
 
 Le personnel enseignant, administratif, scientifique et technique de l'Ecole nationale supérieure des ingénieurs des études et techniques d'armement comprend :
 
-1° Des fonctionnaires détachés, hors cadre ou mis à disposition ;
+1° Des fonctionnaires affectés ou détachés, hors cadre ou mis à disposition ;
 
 2° Des personnels militaires affectés, en service détaché ou hors cadre ;
 

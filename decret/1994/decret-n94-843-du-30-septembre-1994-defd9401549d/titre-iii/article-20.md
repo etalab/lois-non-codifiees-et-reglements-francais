@@ -2,7 +2,7 @@
 
 Le personnel enseignant, administratif, scientifique et technique de l'Ecole nationale supérieure de l'aéronautique et de l'espace comprend :
 
-1° Des fonctionnaires détachés, hors cadres ou mis à disposition ;
+1° Des fonctionnaires affectés ou détachés, hors cadres ou mis à disposition ;
 
 2° Des personnels militaires affectés, en service détaché ou hors cadres ;
 
