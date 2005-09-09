@@ -1,9 +1,9 @@
 # Article 332-18
 
-Un compte d'instruments financiers ne doit pas être débiteur.
+Un compte individuel ordinaire d'instruments financiers ne doit pas être débiteur en date de règlement-livraison de tout instrument cédé.
 
-Toutefois, le teneur de compte conservateur établit :
+Le teneur de compte conservateur établit les procédures :
 
-1° Les procédures permettant de faire ressortir celles des opérations n'ayant pu être empêchées en amont des traitements comptables et qui conduisent à rendre un solde de compte d'instruments financiers débiteur ;
+1° Permettant de faire ressortir toute négociation de cession susceptible de rendre un solde de compte d'instruments financiers débiteur en date de règlement-livraison ;
 
-2° Les procédures de régularisation de ces opérations à mettre en oeuvre dans les plus brefs délais.
+2° Prévenant l'avènement d'un tel solde débiteur.

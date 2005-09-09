@@ -1,7 +1,3 @@
 # Article 331-3
 
-Postérieurement à la délivrance de l'agrément, la société de gestion de fonds communs de créances informe sans délai l'AMF de toute modification portant sur les éléments caractéristiques figurant dans le dossier initial.
-
-L'AMF apprécie si ces modifications sont de nature à remettre en cause l'agrément qui a été délivré.
-
-L'AMF apprécie par ailleurs si ces modifications doivent faire l'objet d'une information auprès des porteurs de parts de fonds communs de créances et en détermine, le cas échéant, le support.
+La société de gestion informe l'AMF, selon les modalités précisées dans une instruction de l'AMF, des modifications portant sur les éléments caractéristiques qui figuraient dans le dossier d'agrément initial, concernant notamment l'actionnariat direct ou indirect, la direction, l'organisation et le contrôle. L'AMF fait connaître au déclarant, par écrit, les conséquences éventuelles de ces modifications sur l'agrément.

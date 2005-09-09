@@ -10,4 +10,6 @@ Un mandat de conservation est établi entre le mandant et le mandataire. Ce mand
 
 3° Les procédures mises en oeuvre par le mandant pour assurer le contrôle des opérations effectuées par le mandataire.
 
-Le mandataire doit prendre les dispositions nécessaires pour que soient distingués, dans les livres du dépositaire central ou des dépositaires centraux auxquels il adhère, les avoirs des clients du mandant, y compris les avoirs des OPCVM dont il est dépositaire, et les avoirs propres du mandant.
+Quand il a en charge la tenue individuelle des comptes de client du mandant, le mandataire s'assure que son mandant applique les procédures établies en application du deuxième alinéa de l'article 332-18. S'il constate que ces procédures n'ont pas été mises en oeuvre, il ne procède pas au règlement-livraison.
+
+Toutefois, dans le cas où pour des raisons techniques tenant au fonctionnement du système de règlement-livraison, il n'est pas en mesure d'empêcher la réalisation du règlement-livraison, il s'assure qu'aucun instrument financier appartenant à des clients ne sera utilisé à cette fin sans leur accord exprès prévu au 2° de l'article 332-4.

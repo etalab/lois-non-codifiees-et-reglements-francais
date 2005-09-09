@@ -11,5 +11,3 @@ et autres obligations professionnelles
 - [Article 321-65](article-321-65.md)
 - [Article 321-66](article-321-66.md)
 - [Article 321-67](article-321-67.md)
-- [Article 331-31](article-331-31.md)
-- [Article 331-32](article-331-32.md)

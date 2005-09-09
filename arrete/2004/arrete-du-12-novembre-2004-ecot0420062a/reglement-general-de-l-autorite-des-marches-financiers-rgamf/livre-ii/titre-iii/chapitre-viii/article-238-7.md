@@ -20,10 +20,10 @@ e) Les conditions de financement de l'opération et leurs incidences sur les act
 
 4° S'il y a lieu, l'avis motivé du conseil d'administration ou du conseil de surveillance, ou, dans le cas d'un initiateur étranger, de l'organe compétent sur l'intérêt de l'offre ou sur les conséquences que présente l'offre pour l'initiateur, ses actionnaires et ses salariés ; les conditions de vote dans lesquelles cet avis a été obtenu, les membres minoritaires pouvant demander qu'il soit fait état de leur identité et de leur position.
 
-Ce document indique également l'avis d'un expert indépendant sur le caractère acceptable du prix ou de la parité proposée, ou l'opinion des établissements présentateurs sur la conformité du prix ou de la parité proposés avec les conditions de marché.
+Ce document indique également l'avis d'un expert indépendant sur le caractère acceptable du prix ou de la parité proposés, ou l'opinion des établissements présentateurs sur la conformité du prix ou de la parité proposés avec les conditions de marché.
 
-La note d'information comporte la signature du représentant légal de l'initiateur et, le cas échéant, des représentants légaux des établissements présentateurs ainsi qu'une attestation des contrôleurs légaux des comptes dans les conditions fixées à l'article 231-20
+La note d'information comporte la signature du représentant légal de l'initiateur et, le cas échéant, des représentants légaux des établissements présentateurs dans les conditions fixées à l'article 231-20. Les contrôleurs légaux des comptes de l'initiateur établissent une lettre de fin de travaux sur la note d'information dans les conditions fixées à l'article 231-20.
 
-Lorsqu'elle est établie conjointement, la note d'information comporte la signature du représentant légal de la société visée et une attestation de ses contrôleurs légaux des comptes dans les conditions visées à l'article 231-21.
+Lorsqu'elle est établie conjointement, la note d'information comporte la signature du représentant légal de la société visée dans les conditions fixées à l'article 231-21. Les contrôleurs légaux des comptes de la société visée établissent une lettre de fin de travaux sur la note d'information dans les conditions fixées à l'article 231-21.
 
 Elle est soumise au visa de l'AMF et portée à la connaissance du public dans les conditions prévues aux articles 231-22, 231-25, 231-27, 231-28 et 231-34.

@@ -1,9 +1,11 @@
 # Article 331-1
 
-L'agrément de la société de gestion prévu à l'article L. 214-47 du code monétaire et financier est subordonné au dépôt auprès de l'AMF d'un dossier comportant les éléments précisés par une instruction de l'AMF.
+L'agrément de la société de gestion prévu à l'article L. 214-47 du code monétaire et financier est subordonné au dépôt auprès de l'AMF d'une demande précisant l'étendue de l'agrément et d'un dossier comportant les éléments précisés par une instruction de l'AMF. A réception de ce dossier, l'AMF délivre un récépissé.
 
-Pour la délivrance de l'agrément, l'AMF apprécie au vu de ce dossier les garanties visées aux articles 331-4 à 331-8 ainsi que toute disposition de nature à assurer la sécurité des opérations réalisées.
+La procédure et les modalités d'agrément sont précisées dans une instruction de l'AMF.
 
-L'AMF peut demander à la société requérante tous éléments d'information complémentaires nécessaires pour prendre sa décision.
+Pour la délivrance de l'agrément, l'AMF apprécie les éléments énoncés aux articles 331-4 à 331-12 ; elle peut demander au requérant tous éléments d'information complémentaires nécessaires pour prendre sa décision. Elle délimite l'étendue de l'agrément.
 
-La société de gestion ne peut exercer ses activités avant notification par l'AMF de son agrément.
+L'AMF statue sur la demande d'agrément dans un délai maximal de trois mois suivant le dépôt du dossier ; en tant que de besoin, ce délai est suspendu jusqu'à réception des éléments complémentaires demandés.
+
+La société de gestion ne peut exercer ses activités avant notification de son agrément par l'AMF.

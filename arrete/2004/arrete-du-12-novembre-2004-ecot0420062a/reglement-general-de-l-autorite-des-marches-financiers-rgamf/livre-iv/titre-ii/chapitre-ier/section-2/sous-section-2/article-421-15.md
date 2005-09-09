@@ -1,9 +1,9 @@
 # Article 421-15
 
-La société de gestion communique à l'AMF, avant leur diffusion, les publicités relatives à l'opération projetée par le fonds.
+Les comptes rendus d'activité mentionnés à l'article 421-14 sont transmis sans frais aux porteurs de parts ou titres de créances qui en font la demande.
 
-Ces publicités mentionnent l'existence de la note d'information visée par l'AMF, en précisant la date et le numéro de visa, et indiquent les moyens de se la procurer sans frais.
+Tout investisseur peut obtenir, sans frais dès leur publication, auprès de la société de gestion et du dépositaire, les comptes rendus d'activité.
 
-Elles reproduisent, s'il y a lieu, l'avertissement de l'AMF.
+Ces documents sont diffusés par courrier ou par tout autre moyen prévu dans le prospectus du fonds. Parmi les possibilités offertes, l'investisseur choisit le moyen de réception de ces documents.
 
-L'AMF peut demander toutes rectifications qu'elle jugerait nécessaires afin d'assurer une bonne information des investisseurs.
+Un exemplaire de ces documents est adressé à l'AMF.

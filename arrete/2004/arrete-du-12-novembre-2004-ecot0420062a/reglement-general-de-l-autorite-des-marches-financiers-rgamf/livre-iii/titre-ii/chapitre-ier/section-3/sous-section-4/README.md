@@ -7,3 +7,4 @@
 - [Paragraphe 5 : Relations avec les marchés](paragraphe-5)
 - [Paragraphe 6 : Règles de bonne conduite applicables aux opérations financières sur le marché primaire, aux opérations de reclassement ainsi qu'aux offres publiques d'acquisition](paragraphe-6)
 - [Paragraphe 7 : Règles de bonne conduite applicables à la production ou à la diffusion d'analyses financières](paragraphe-7)
+- [Paragraphe 8 : Obligation de déclaration des opérations suspectes](paragraphe-8)
