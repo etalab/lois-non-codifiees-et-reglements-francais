@@ -1,0 +1,3 @@
+# Article 212-41
+
+Sans préjudice des dispositions de l'article L. 621-8-3 du code monétaire et financier, lorsqu'une opération par appel public à l'épargne est prévue dans un ou plusieurs Etats membres de la Communauté européenne ou parties à l'accord sur l'Espace économique européen, y compris en France, le prospectus approuvé par l'autorité de contrôle compétente d'un autre Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace économique européen est valable aux fins d'une opération par appel public à l'épargne en France dès lors que l'AMF reçoit la notification prévue à l'article 212-42.
