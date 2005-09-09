@@ -1,6 +1,6 @@
 # Article 17
 
-La caisse des règlements pécuniaires désigne un commissaire aux comptes et un suppléant choisis sur la liste mentionnée à l'article L. 225-219 du code de commerce, non modifiée par la loi n° 84-148 du 1er mars 1984 relative à la prévention et au règlement amiable des difficultés des entreprises, pour une durée de six exercices. Les dispositions concernant les fonctions de commissaire aux comptes suppléant prévues à l'article L. 225-228 du même code sont applicables.
+La caisse des règlements pécuniaires désigne un commissaire aux comptes et un suppléant choisis sur la liste mentionnée à l'article L. 225-219 du code de commerce, non modifiée par la loi n° 84-148 du 1er mars 1984 relative à la prévention et au règlement amiable des difficultés des entreprises, pour une durée de six exercices. Les dispositions concernant les fonctions de commissaire aux comptes suppléant prévues aux articles L. 225-228, L. 823-1, L. 823-2 et L. 823-15 du même code sont applicables.
 
 Ne peuvent être choisis comme commissaires aux comptes :
 
@@ -16,6 +16,6 @@ Ne peuvent être choisis comme commissaires aux comptes :
 
 Le commissaire aux comptes vérifie que la dotation de l'Etat a été versée sur un compte spécial établi chaque année à cet effet dans des conditions fixées par décret en Conseil d'Etat et qu'elle a été utilisée conformément à la présente ordonnance.
 
-Les dispositions des articles L. 225-236, L. 225-240, L. 225-241, L. 225-242, L. 242-26 et L. 242-27 du code de commerce précitée sont applicables.
+Les dispositions des articles L. 823-13, L. 823-14, L. 823-12, L. 822-17, L. 822-18, L. 242-26 et L. 242-27 du code de commerce précitée sont applicables.
 
 Les dispositions de l'article L. 242-25 sont applicables au président de la caisse et celles de l'article L. 242-28 du même code au président de la caisse et à toute personne au service de celle-ci.
