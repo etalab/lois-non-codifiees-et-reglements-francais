@@ -28,7 +28,6 @@
 - [Décret n°2004-923 du 1 septembre 2004 (ECOC0400028D)](decret-n2004-923-du-1-septembre-2004-ecoc0400028d)
 - [Décret n°2004-924 du 1 septembre 2004 (SOCT0411532D)](decret-n2004-924-du-1-septembre-2004-soct0411532d)
 - [Décret n°2004-925 du 1 septembre 2004 (SOCG0420015D)](decret-n2004-925-du-1-septembre-2004-socg0420015d)
-- [Décret n°2004-926 du 1 septembre 2004 (SANA0422815D)](decret-n2004-926-du-1-septembre-2004-sana0422815d)
 - [Décret n°2004-944 du 1 septembre 2004 (ECOP0400416D)](decret-n2004-944-du-1-septembre-2004-ecop0400416d)
 - [Décret n°2004-945 du 1 septembre 2004 (ECOC0400063D)](decret-n2004-945-du-1-septembre-2004-ecoc0400063d)
 - [Décret n°2004-946 du 1 septembre 2004 (ECOD0470024D)](decret-n2004-946-du-1-septembre-2004-ecod0470024d)
