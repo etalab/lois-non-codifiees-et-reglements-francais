@@ -607,6 +607,7 @@
 - [Décret n°2005-693 du 23 juin 2005 (MPEX0508523D)](decret-n2005-693-du-23-juin-2005-mpex0508523d)
 - [Décret n°2005-696 du 23 juin 2005 (MENB0501195D)](decret-n2005-696-du-23-juin-2005-menb0501195d)
 - [Décret n°2005-705 du 23 juin 2005 (ECOT0551023D)](decret-n2005-705-du-23-juin-2005-ecot0551023d)
+- [Décret n°99-516 du 23 juin 1999 (DEFP9901094D)](decret-n99-516-du-23-juin-1999-defp9901094d)
 - [Décret n°2005-521 du 23 mai 2005 (PRMX0508385D)](decret-n2005-521-du-23-mai-2005-prmx0508385d)
 - [Décret n°2005-525 du 23 mai 2005 (PMEA0520011D)](decret-n2005-525-du-23-mai-2005-pmea0520011d)
 - [Décret n°2005-527 du 23 mai 2005 (INTB0500120D)](decret-n2005-527-du-23-mai-2005-intb0500120d)
