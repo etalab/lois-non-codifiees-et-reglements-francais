@@ -1,9 +1,5 @@
 # Article 6
 
-Les fonctionnaires stagiaires effectuent un stage d'un an. A l'issue de ce stage, ceux dont les services ont donné satisfaction sont titularisés.
+Les stagiaires sont rémunérés sur la base de l'indice afférent au 1er échelon du grade de technicien paramédical civil de classe normale. Toutefois, ceux qui avaient la qualité de fonctionnaire ou d'agent non titulaire perçoivent le traitement indiciaire correspondant à leur situation antérieure si ce traitement est supérieur à celui correspondant au 1er échelon du grade de technicien paramédical civil de classe normale, dans la limite du traitement auquel ils peuvent prétendre lors de leur titularisation en application des articles 7 à 11.
 
-Les autres stagiaires peuvent, après avis de la commission administrative paritaire, être autorisés à effectuer un stage complémentaire d'une durée maximale de douze mois. Si le stage complémentaire a été jugé satisfaisant, les intéressés sont titularisés.
-
-Les stagiaires qui n'ont pas été autorisés à effectuer un stage complémentaire ou dont le stage complémentaire n'a pas donné satisfaction sont soit licenciés s'ils n'avaient pas préalablement la qualité de fonctionnaire ou d'ouvrier d'Etat, soit réintégrés dans leur ancien corps, cadre d'emplois ou emploi d'origine.
-
-Lors de la titularisation, la durée du stage est prise en compte pour l'avancement d'échelon dans la limite d'une année.
+Lorsque les stagiaires sont titularisés, ils sont placés, sous réserve des règles définies aux articles 7 à 11, à l'échelon du grade de technicien paramédical civil de classe normale correspondant à l'ancienneté acquise depuis leur nomination dans le grade de technicien paramédical civil de classe normale sans qu'il soit tenu compte de la prolongation éventuelle de la période de stage prévue au troisième alinéa de l'article 5.
