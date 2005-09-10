@@ -768,13 +768,14 @@ LISTE DES AGENTS CONSERVATEURS QUE PEUVENT CONTENIR LES PRODUITS COSMETIQUES
 <p align="center">53</p>
 </td>
 <td valign="top" width="26%">
-<p>Chlorure de benzéthonium.</p>
+<p>Chlorure de benzéthonium (INCI).</p>
 </td>
 <td valign="top" width="26%">
 <p>0,1 %.</p>
 </td>
 <td valign="top" width="21%">
-<p>Produits de rinçage uniquement.</p>
+<p>a) Produits rincés ;</p>
+<p>b) Produits non rincés autres que les produits d'hygiène buccale</p>
 </td>
 <td valign="top" width="17%"/>
 </tr>
@@ -826,6 +827,13 @@ LISTE DES AGENTS CONSERVATEURS QUE PEUVENT CONTENIR LES PRODUITS COSMETIQUES
 <td valign="top" width="17%">
 <p>Contient de l'iode.</p>
 </td>
+</tr>
+<tr>
+<td>57</td>
+<td>Méthylisothiazolinone (INCI)</td>
+<td>0,01 %</td>
+<td/>
+<td/>
 </tr>
 <tr>
 <td colspan="5" valign="top" width="100%">

@@ -2,6 +2,8 @@
 
 - [Chapitre Ier : Dispositions générales.](chapitre-ier)
 - [Chapitre II : Recrutement.](chapitre-ii)
+- [Chapitre III : Classement.](chapitre-iii)
 - [Chapitre IV : Avancement.](chapitre-iv)
 - [Chapitre V : Détachement.](chapitre-v)
 - [Chapitre VI : Dispositions transitoires et finales.](chapitre-vi)
+- [Article 13](article-13.md)
