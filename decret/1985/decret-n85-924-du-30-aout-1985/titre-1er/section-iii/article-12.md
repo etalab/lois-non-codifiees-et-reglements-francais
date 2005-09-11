@@ -4,7 +4,7 @@ Dans les collèges accueillant moins de 600 élèves et ne comportant pas une se
 
 - le chef d'établissement, président ;
 
-- l'adjoint au chef d'établissement ;
+- l'adjoint au chef d'établissement ou, le cas échéant, l'adjoint désigné par le chef d'établissement en cas de pluralité d'adjoints ;
 
 - le gestionnaire de l'établissement ;
 

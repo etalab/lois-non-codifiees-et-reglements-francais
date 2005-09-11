@@ -4,11 +4,15 @@ En qualité d'organe délibératif de l'établissement, le conseil d'administrat
 
 1° Il fixe les principes de mise en oeuvre de l'autonomie pédagogique et éducative dont disposent les établissements dans les domaines définis à l'article 2 et, en particulier, les règles d'organisation de l'établissement ;
 
-2° Il adopte le projet d'établissement ;
+2° Il adopte le projet d'établissement et approuve le contrat d'objectifs qui doit avoir été communiqué à la collectivité territoriale au moins un mois avant la réunion du conseil ;
 
-3° Il établit chaque année un rapport sur le fonctionnement pédagogique de l'établissement et ses conditions matérielles de fonctionnement. Ce rapport rend compte notamment de la mise en oeuvre du projet d'établissement, des objectifs à atteindre et des résultats obtenus ;
+3° Il établit chaque année un rapport sur le fonctionnement pédagogique de l'établissement et ses conditions matérielles de fonctionnement. Ce rapport rend compte notamment de la mise en oeuvre du projet d'établissement, des expérimentations menées par l'établissement et du contrat d'objectifs ;
 
-4° Il adopte le budget et le compte financier de l'établissement ;
+4° Il adopte :
+
+a) Le budget et le compte financier de l'établissement ;
+
+b) Les tarifs des ventes de produits et de prestations de services réalisés par l'établissement ;
 
 5° Il adopte le règlement intérieur de l'établissement ;
 
@@ -22,9 +26,11 @@ c) L'adhésion à tout groupement d'établissements ou la passation des conventi
 
 - des marchés qui figurent sur un état prévisionnel de la commande publique annexé au budget ou qui s'inscrivent dans le cadre d'une décision modificative adoptée conformément au b de l'article R. 232-4 du code des juridictions financières ;
 
-- en cas d'urgence, des marchés qui se rattachent à des opérations de gestion courante dont le montant est inférieur à 5 000 Euros hors taxes, ou à 15 000 Euros hors taxes pour les travaux et les équipements ;
+- en cas d'urgence, des marchés qui se rattachent à des opérations de gestion courante dont le montant est inférieur à 5 000 euros hors taxes, ou à 15 000 euros hors taxes pour les travaux et les équipements ;
 
 d) Les modalités de participation au plan d'action du groupement d'établissements pour la formation des adultes auquel l'établissement adhère, le programme annuel des activités de formation continue et l'adhésion de l'établissement à un groupement d'intérêt public ;
+
+e) La programmation et les modalités de financement des voyages scolaires ;
 
 7° Il délibère sur :
 
@@ -40,4 +46,14 @@ c) Les questions relatives à l'hygiène, à la santé, à la sécurité : le co
 
 10° Il peut décider la création d'un organe de concertation et de proposition sur les questions ayant trait aux relations de l'établissement avec le monde social, économique et professionnel ainsi que sur le programme de formation continue des adultes. Dans le cas où cet organe comprendrait des personnalités représentant le monde économique, il sera fait appel, à parité, à des représentants des organisations représentatives au plan départemental des employeurs et des salariés ;
 
-11° Il adopte son règlement intérieur.
+11° Il adopte son règlement intérieur ;
+
+12° Il adopte un plan de prévention de la violence ;
+
+13° Conformément à l'article 39 de la loi n° 2005-380 du 23 avril 2005, dans les lycées d'enseignement technologique ou professionnel, il peut, sur proposition du chef d'établissement, à titre expérimental et pour une durée maximale de cinq ans, décider que son président peut être désigné parmi les personnalités extérieures à l'établissement siégeant en son sein.
+
+Dans ce cas, le conseil d'administration procède à l'élection de son président, pour une durée d'un an, par une délibération distincte.
+
+Le président élu exerce les compétences dévolues au président du conseil d'administration. Le chef d'établissement reste membre du conseil d'administration avec voix délibérative et conserve la présidence des autres instances de l'établissement ;
+
+14° Le conseil d'administration peut déléguer à la commission permanente certaines de ses attributions, à l'exception de celles prévues aux 1°, 2°, 3°, 4°, 5°, 11° et 13° du présent article. La délégation s'applique, si elle le précise, aux affaires alors en cours d'instruction par la commission permanente en vue d'une prochaine délibération du conseil d'administration.

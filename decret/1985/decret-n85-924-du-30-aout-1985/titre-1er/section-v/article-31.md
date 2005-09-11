@@ -4,7 +4,7 @@ I. - Le conseil de discipline de l'établissement comprend :
 
 1° Le chef d'établissement ;
 
-2° L'adjoint au chef d'établissement ;
+2° L'adjoint au chef d'établissement ou, le cas échéant, l'adjoint désigné par le chef d'établissement en cas de pluralité d'adjoints ;
 
 3° Un conseiller principal d'éducation désigné par le conseil d'administration, sur proposition du chef d'établissement ;
 
@@ -23,6 +23,8 @@ Les représentants des personnels sont élus chaque année en leur sein par les 
 Les représentants des parents d'élèves et des élèves sont élus chaque année en leur sein par les membres titulaires et suppléants du conseil d'administration appartenant respectivement à chacune de ces catégories au scrutin proportionnel au plus fort reste.
 
 Pour chaque membre élu du conseil de discipline, un suppléant est désigné dans les mêmes conditions.
+
+Ces élections sont organisées à l'occasion de la première réunion du conseil d'administration qui suit les élections à ce conseil.
 
 II. - Le conseil de discipline est saisi par le chef d'établissement. Il a compétence pour prononcer à l'encontre des élèves l'ensemble des sanctions et des mesures mentionnées à l'article 3, dans les conditions fixées par ce même article.
 

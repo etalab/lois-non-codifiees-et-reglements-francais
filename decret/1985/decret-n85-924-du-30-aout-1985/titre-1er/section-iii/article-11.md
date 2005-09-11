@@ -1,10 +1,10 @@
 # Article 11
 
-Le conseil d'administration des collèges et des lycées comprend [*composition*] :
+Le conseil d'administration des collèges et des lycées comprend :
 
 - le chef d'établissement, président ;
 
-- l'adjoint au chef d'établissement ;
+- l'adjoint au chef d'établissement ou, le cas échéant, l'adjoint désigné par le chef d'établissement en cas de pluralité d'adjoints ;
 
 - le gestionnaire de l'établissement ;
 
@@ -24,6 +24,6 @@ Si la personnalité qualifiée désignée par l'inspecteur d'académie, directeu
 
 - dix représentants élus des personnels de l'établissement, dont sept au titre des personnels d'enseignement et d'éducation et trois au titre des personnels administratifs, sociaux et de santé, techniques, ouvriers et de service ;
 
-- dix représentants des parents d'élèves et des élèves, dont sept représentants élus des parents d'élèves et trois représentants élus des élèves pour les collèges et cinq représentants élus des parents d'élèves et cinq représentants élus des élèves pour les lycées dont un au moins représentant les élèves des classes post-baccalauréat si elles existent.
+- dix représentants élus des parents d'élèves et des élèves dont, dans les collèges, sept représentants des parents d'élèves et trois représentants des élèves et, dans les lycées, cinq représentants des parents d'élèves, quatre représentants des élèves, dont un au moins représente les élèves des classes postbaccalauréat si elles existent et un représentant des élèves élu par le conseil des délégués pour la vie lycéenne.
 
-Pour la désignation de représentants des organisations syndicales de salariés ou d'employeurs, la représentativité au plan départemental des organisations doit être prise en compte. "
+Pour la désignation de représentants des organisations syndicales de salariés ou d'employeurs, la représentativité au plan départemental des organisations doit être prise en compte.

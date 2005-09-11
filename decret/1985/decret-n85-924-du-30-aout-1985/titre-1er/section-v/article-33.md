@@ -12,7 +12,7 @@ Sont membres du conseil de classe [*composition*] :
 
 - le conseiller principal ou le conseiller d'éducation ;
 
-- le conseiller d'orientation.
+- le conseiller d'orientation - psychologue ;
 
 Sont également membres du conseil de classe lorsqu'ils ont eu à connaître du cas personnel d'un ou de plusieurs élèves de la classe :
 
@@ -34,7 +34,7 @@ Le conseil de classe examine les questions pédagogiques intéressant la vie de 
 
 Le professeur principal mentionné au décret du 2 novembre 1971 susvisé ou un représentant de l'équipe pédagogique expose au conseil de classe les résultats obtenus par les élèves et présente ses observations sur les conseils en orientation formulés par l'équipe. Sur ces bases et en prenant en compte l'ensemble des éléments d'ordre éducatif, médical et social apporté par ses membres, le conseil de classe examine le déroulement de la scolarité de chaque élève afin de mieux le guider dans son travail et ses choix d'études.
 
-Dans les mêmes conditions et compte tenu des éléments d'informations complémentaires recueillis à la demande, ou avec l'accord de la famille ou de l'élève majeur, le conseil de classe émet des propositions d'orientation dans les conditions définies à l'article 10 du décret du 14 juin 1990 susvisé ou de redoublement ;
+Le conseil de classe se prononce sur les conditions dans lesquelles se poursuit la scolarité de l'élève.
 
 Ces dispositions ne s'appliquent ni aux écoles régionales du premier degré, ni aux classes élémentaires des établissements régionaux d'enseignement adapté. Les classes élémentaires de ces établissements sont soumises aux mêmes règles de fonctionnement pédagogique que celles des écoles élémentaires communales.
 

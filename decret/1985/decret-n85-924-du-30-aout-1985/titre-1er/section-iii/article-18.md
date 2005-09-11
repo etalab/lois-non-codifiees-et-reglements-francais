@@ -1,10 +1,8 @@
 # Article 18
 
-Les représentants des personnels et des parents d'élèves sont élus au scrutin de liste à la représentation proportionnelle au plus fort reste. En cas d'égalité des restes, le siège restant à pourvoir est attribué à la liste qui a obtenu le plus grand nombre de suffrages et, en cas d'égalité du nombre de suffrages, au candidat le plus âgé. Pour l'élection des représentants des personnels, les électeurs sont répartis en deux collèges.
+Les représentants des personnels et des parents d'élèves sont élus au scrutin de liste à la représentation proportionnelle au plus fort reste. En cas d'égalité des restes, le siège restant à pourvoir est attribué à la liste qui a obtenu le plus grand nombre de suffrages et, en cas d'égalité du nombre de suffrages, au candidat le plus âgé. Pour l'élection des représentants des personnels, les électeurs sont répartis en deux collèges dans les collèges et les lycées et en trois collèges dans les établissements d'éducation spéciale.
 
-Le premier collège comprend les personnels titulaires ou non titulaires exerçant des fonctions d'enseignement, de direction, d'éducation, de surveillance ou de documentation. Le second collège comprend les personnels titulaires ou non titulaires d'administration et d'intendance, de santé scolaire, sociaux, techniques, ouvriers, de service et de laboratoire.
-
-Les instructeurs font partie du même collège électoral que celui des personnels dont les fonctions sont identiques à celles qu'ils exercent.
+Le premier collège comprend les personnels titulaires ou non titulaires exerçant des fonctions d'enseignement, de direction, d'éducation, de surveillance, d'assistance éducative ou pédagogique et de documentation. Dans les collèges et les lycées, le second collège comprend les personnels titulaires ou non titulaires d'administration et d'intendance, de santé, sociaux, techniques, ouvriers, de service et de laboratoire. Dans les établissements d'éducation spéciale, le deuxième collège comprend les personnels titulaires ou non titulaires d'administration et d'intendance, techniques, ouvriers, de service et de laboratoire, le troisième collège comprend les personnels titulaires ou non titulaires sociaux et de santé.
 
 Les titulaires exerçant à temps complet ou partiel sont électeurs ; ils sont aussi éligibles lorsqu'ils n'ont pas la qualité de membres de droit.
 

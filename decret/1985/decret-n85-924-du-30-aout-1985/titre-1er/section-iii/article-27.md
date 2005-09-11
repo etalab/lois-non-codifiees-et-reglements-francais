@@ -1,27 +1,17 @@
 # Article 27
 
-" La commission permanente comprend, dans les établissements régionaux d'enseignement adapté, les membres suivants :
+La commission permanente dans les établissements régionaux d'enseignement adapté comprend les membres suivants :
 
-" - le chef d'établissement président ;
+1° Le chef d'établissement, président ;
 
-" - l'adjoint au chef d'établissement ;
+2° L'adjoint au chef d'établissement ou, le cas échéant, l'adjoint désigné par le chef d'établissement en cas de pluralité d'adjoints ;
 
-" - le gestionnaire de l'établissement ;
+3° Le gestionnaire ;
 
-" - le conseiller principal d'éducation ou le conseiller d'éducation le plus ancien ou le chef de travaux ;
+4° Un représentant de la collectivité de rattachement ;
 
-" - quatre représentants élus des personnels d'enseignement et d'éducation ;
+5° Quatre représentants élus des personnels dont deux au titre des personnels d'enseignement et d'éducation, un au titre des personnels administratifs, techniques, ouvriers, de service, et un au titre des personnels sociaux et de santé ;
 
-" - un représentant élu des personnels administratifs, techniques, ouvriers et de service ;
+6° Trois représentants élus des parents d'élèves ;
 
-" - un représentant élu des personnels sociaux et de santé ;
-
-" - trois représentants élus des parents d'élèves ;
-
-" - un représentant élu des élèves ;
-
-" - un représentant de la commune siège de l'établissement ;
-
-" - le représentant de la collectivité de rattachement. "
-
-" Les membres de la commission permanente autres que les membres de l'équipe de direction de l'établissement et le représentant de la commune siège de l'établissement ainsi que le représentant de la collectivité de rattachement sont élus en leur sein par les membres du conseil d'administration appartenant à leurs catégories respectives. Cette élection est faite, hormis pour les représentants des personnels d'enseignement et d'éducation et pour les représentants des parents d'élèves qui sont élus au scrutin proportionnel au plus fort reste, au scrutin uninominal à un tour. Le représentant de la collectivité de rattachement peut être soit le représentant titulaire, soit le représentant suppléant de celle-ci au conseil d'administration de l'établissement. "
+7° Un représentant élu des élèves.

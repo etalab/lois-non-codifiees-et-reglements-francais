@@ -1,3 +1,3 @@
 # Article 25
 
-Nul ne peut être membre du conseil d'administration s'il a été frappé d'une des incapacités mentionnées aux articles L. 5, L. 6 et L. 7 du code électoral.
+Nul ne peut être membre du conseil d'administration s'il a été privé par jugement de tout ou partie des droits civils, civiques ou de famille mentionnés à l'article 131-26 du code pénal.
