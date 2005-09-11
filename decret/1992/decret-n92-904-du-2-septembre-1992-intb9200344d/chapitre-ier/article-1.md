@@ -1,6 +1,6 @@
 # Article 1
 
-Les concours externe, interne et le troisième concours d'accès au cadre d'emplois des agents territoriaux qualifiés du patrimoine comprennent des épreuves d'admissibilité et d'admission notées de 0 à 20. Seuls peuvent être admis à se présenter à l'épreuve orale d'admission les candidats ayant obtenu pour chacune des épreuves écrites une note au moins égale à 5 sur 20 et, pour l'ensemble des épreuves écrites, un total de points qui ne peut en aucun cas être inférieur à 60.
+Les concours externe, interne et le troisième concours d'accès au cadre d'emplois des agents territoriaux qualifiés du patrimoine comprennent des épreuves d'admissibilité et d'admission notées de 0 à 20. Toute note inférieure à 5 sur 20 est éliminatoire.
 
 1° Concours externe
 
@@ -10,7 +10,15 @@ Elles portent sur :
 
 1. La résolution d'un cas pratique à partir des données communiquées au candidat relatif à une situation à laquelle un agent territorial qualifié du patrimoine peut être confronté dans l'exercice de ses fonctions (durée : deux heures ; coefficient 4) ;
 
-2. Un exercice de mathématiques appliquées correspondant au programme du brevet des collèges (durée : une heure ; coefficient 2).
+2. Un questionnaire appelant des réponses brèves portant sur les domaines suivants relatifs au fonctionnement des services dans lesquels un agent territorial qualifié du patrimoine peut être appelé à servir :
+
+- accueil du public ;
+
+- animation ;
+
+- sécurité des personnes et des bâtiments.
+
+Durée : une heure ; coefficient 2.
 
 B. - Epreuve d'admission
 
@@ -24,64 +32,70 @@ Seuls sont pris en compte pour l'admission les points supérieurs à la moyenne.
 
 L'épreuve de langue est une épreuve écrite, à choisir parmi les langues suivantes : allemand, anglais, espagnol, italien, portugais, grec moderne, néerlandais, russe ou arabe moderne (durée : une heure ; coefficient 1).
 
-L'épreuve de traitement automatisé de l'information est d'une durée d'une heure et affectée du coefficient 1.
+L'épreuve de traitement automatisé de l'information est une épreuve orale (durée : vingt minutes, avec préparation de même durée ; coefficient 1).
 
 2° Concours interne
 
-A. - Epreuves écrites d'admissibilité
+A. - Epreuve écrite d'admissibilité
 
-Elles portent sur :
+La résolution d'un cas pratique à partir des données communiquées au candidat relatif à une situation à laquelle un agent territorial qualifié du patrimoine peut être confronté dans l'exercice de ses fonctions.
 
-1. L'établissement d'un rapport sur la base d'un sujet exposant une situation à laquelle un agent territorial qualifié du patrimoine peut être confronté (durée : deux heures ; coefficient 4) ;
-
-2. Un questionnaire portant sur des problèmes d'accueil du public et de sécurité (durée : une heure ; coefficient 2).
+Durée : deux heures ; coefficient 4.
 
 B. - Epreuve d'admission
 
-Un commentaire sur un dossier succinct remis au candidat, après un choix préalablement précisé lors de son inscription au concours, et portant :
+Un commentaire oral à partir d'un dossier succinct remis au candidat, après un choix préalablement précisé lors de son inscription au concours, et portant :
 
-- soit sur des questions de sécurité et d'accueil du public, de communication et d'animation (préparation : trente minutes, durée : trente minutes ; coefficient 2) ;
+- soit sur des questions de sécurité et d'accueil du public, de communication et d'animation ;
 
-- soit sur la présentation d'une visite guidée d'un monument historique ou d'un musée-château (préparation : trente minutes ; durée : trente minutes ; coefficient 2) ;
+- soit sur la présentation d'une visite guidée d'un monument historique ou d'un musée ;
 
-- soit sur l'établissement et le commentaire d'un tableau de service à partir de données remises au candidat (préparation : trente minutes ; durée : trente minutes ; coefficient 2) ;
+- soit des questions portant sur le classement et la classification dans des bibliothèques ;
 
-- soit un exercice d'intégration sur rayonnage et récolement (durée : une heure ; coefficient 2) ;
+- soit sur des questions touchant à la conservation du patrimoine écrit.
 
-- soit sur des questions touchant à la conservation du patrimoine écrit (préparation : trente minutes ; durée : trente minutes ; coefficient 2).
+Préparation : trente minutes ; durée : trente minutes ; coefficient 3.
 
 C. - Epreuve facultative
 
-Les candidats peuvent demander à passer une épreuve facultative d'admission soit de langue, soit de traitement automatisé de l'information.
-
-Ils expriment ce choix au moment de l'inscription au concours en précisant l'épreuve qu'ils souhaitent subir.
+Les candidats peuvent demander à passer une épreuve facultative d'admission soit de langue, soit de traitement automatisé de l'information. Ils expriment ce choix au moment de l'inscription au concours en précisant l'épreuve qu'ils souhaitent subir.
 
 Seuls sont pris en compte pour l'admission les points supérieurs à la moyenne. Le programme de ces épreuves est fixé par arrêté du ministre chargé des collectivités locales.
 
-L'épreuve de langue est une épreuve écrite à choisir parmi les langues suivantes : allemand, anglais, espagnol, italien, portugais, grec moderne, néerlandais, russe ou arabe moderne (durée : une heure ; coefficient 1).
+L'épreuve de langue est une épreuve écrite, à choisir parmi les langues suivantes : allemand, anglais, espagnol, italien, portugais, grec moderne, néerlandais, russe ou arabe moderne (durée : une heure ; coefficient 1).
 
-L'épreuve facultative de traitement automatisé de l'information est d'une durée d'une heure et affectée du coefficient 1.
+L'épreuve de traitement automatisé de l'information est une épreuve orale (durée : vingt minutes, avec préparation de même durée ; coefficient 1).
 
-3° Du troisième concours.
+3° Troisième concours
 
 A. - Epreuves d'admissibilité
 
-Les épreuves d'admissibilité du troisième concours de recrutement des agents territoriaux qualifiés du patrimoine comprennent :
+Elles portent sur :
 
-1. La résolution d'un cas pratique à partir des données communiquées au candidat relatif à une situation à laquelle un agent territorial qualifié du patrimoine peut être confronté dans l'exercice de ses fonctions (durée : deux heures ; coefficient 4) ;
+1. La résolution d'un cas pratique à partir des données communiquées au candidat relatif à une situation à laquelle un agent territorial qualifié du patrimoine peut être confronté dans l'exercice de ses fonctions.
 
-2. Une série de questions sur l'organisation et le fonctionnement des collectivités territoriales (durée : une heure ; coefficient 2).
+Durée : deux heures ; coefficient 4 ;
+
+2. Un questionnaire appelant des réponses brèves portant sur les domaines suivants relatifs au fonctionnement des services dans lesquels un agent territorial qualifié du patrimoine peut être appelé à servir :
+
+- accueil du public ;
+
+- animation ;
+
+- sécurité des personnes et des bâtiments.
+
+Durée : une heure ; coefficient 2.
 
 B. - Epreuve d'admission
 
-L'épreuve d'admission du troisième concours comprend un entretien ayant pour point de départ un exposé du candidat sur son expérience destiné à permettre d'apprécier les qualités d'analyse et de réflexion du candidat ainsi que sa motivation à exercer les missions dévolues au cadre d'emplois (durée : vingt minutes dont cinq minutes au plus d'exposé ; coefficient 4).
+L'épreuve d'admission du troisième concours comprend un entretien ayant pour point de départ un exposé du candidat sur son expérience destiné à permettre d'apprécier les qualités d'analyse et de réflexion du candidat ainsi que sa motivation à exercer les missions dévolues au cadre d'emplois (durée : vingt minutes, dont cinq minutes au plus d'exposé ; coefficient 4).
 
 C. - Epreuve facultative
 
-Les candidats peuvent demander, au moment de l'inscription au concours, à passer une épreuve facultative d'admission soit de langue, soit de traitement automatisé de l'information (coefficient 1).
+Les candidats peuvent demander à passer une épreuve facultative d'admission soit de langue, soit de traitement automatisé de l'information. Ils expriment ce choix au moment de l'inscription au concours en précisant l'épreuve qu'ils souhaitent subir.
 
-L'épreuve de langue est une épreuve écrite à choisir parmi les langues suivantes : allemand, anglais, espagnol, italien, portugais, grec moderne, néerlandais, russe ou arabe moderne (durée : une heure).
+Seuls sont pris en compte pour l'admission les points supérieurs à la moyenne. Le programme de ces épreuves est fixé en tant que de besoin par arrêté du ministre chargé des collectivités locales.
 
-L'épreuve facultative de traitement automatisé de l'information est d'une durée d'une heure.
+L'épreuve de langue est une épreuve écrite, à choisir parmi les langues suivantes : allemand, anglais, espagnol, italien, portugais, grec moderne, néerlandais, russe ou arabe moderne (durée : une heure ; coefficient 1).
 
-Les points excédant la note 10 à l'épreuve facultative s'ajoutent au total des notes obtenues aux épreuves obligatoires et sont valables uniquement pour l'admission.
+L'épreuve de traitement automatisé de l'information est une épreuve orale (durée : vingt minutes, avec préparation de même durée ; coefficient 1).
