@@ -6,9 +6,15 @@ Toutefois, par dérogation aux dispositions de l'alinéa précédent, le fonctio
 
 Le fonctionnaire placé dans cette position cesse de bénéficier de ses droits à l'avancement et à la retraite.
 
-La mise hors cadres ne peut excéder cinq années. Elle est prononcée par arrêté conjoint du Premier ministre , du ministre chargé du budget et du ministre intéressé.
+La mise hors cadres est prononcée par arrêté du ministre dont relève le fonctionnaire, après avis conforme du ministre chargé de la fonction publique.
 
-Elle est renouvelée par périodes n'excédant pas cinq années par arrêté du seul ministre dont relève le fonctionnaire intéressé.
+Avant signature, le projet d'arrêté mentionné à l'alinéa précédent est transmis, avec tous les documents utiles à son appréciation, au ministre chargé de la fonction publique pour avis conforme. Cet avis est réputé acquis en l'absence d'observation de ce ministre dans un délai de dix jours ouvrés à compter de la date de réception de sa saisine.
+
+Par dérogation aux deux alinéas précédents, la mise hors cadres des fonctionnaires appartenant au corps des administrateurs civils est prononcée par arrêté du Premier ministre et du ministre intéressé.
+
+Lorsqu'ils sont soumis à ce mode de publicité, les arrêtés signés sont transmis pour publication au Journal officiel de la République française, accompagnés, s'il est requis en application des dispositions des quatrième et cinquième alinéas, de l'avis conforme du ministre chargé de la fonction publique ou, le cas échéant, du document établissant la saisine de ce ministre.
+
+La mise hors cadres ne peut excéder cinq années. Elle peut être renouvelée par périodes n'excédant pas cinq années par arrêté du ministre dont relève le fonctionnaire intéressé, l'avis du ministre chargé de la fonction publique n'étant pas requis. Dans le cas des administrateurs civils, elle est renouvelée par arrêté du ministre dans les services duquel l'intéressé est affecté.
 
 Trois mois au moins avant l'expiration de chaque période de mise hors cadres, le fonctionnaire fait connaître à son administration d'origine sa décision de solliciter le renouvellement de la position hors cadres ou de réintégrer son corps d'origine.
 
