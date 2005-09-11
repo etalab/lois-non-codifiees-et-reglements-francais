@@ -1,7 +1,7 @@
 # Article 5
 
-Une commission consultative paritaire est créée pour chacune des catégories d'emplois définies respectivement aux articles 2 et 3 ci-dessus par arrêté conjoint du ministre chargé de la jeunesse et des sports et du ministre chargé de la fonction publique et du Plan. Cet arrêté détermine la composition de chacune de ces commissions et le mode de désignation de leurs membres.
+Sont créées deux commissions consultatives paritaires compétentes, respectivement pour les emplois de directeur et de directeur adjoint mentionnés à l'article 1er.
 
-La commission consultative paritaire est consultée sur les nominations.
+Ces commissions sont consultées préalablement à toute décision de nomination dans l'un de ces emplois.
 
-Toutefois, cette consultation n'est obligatoire qu'à compter du 1er janvier 1988 [*date*].
+Elles comportent, en nombre égal, des représentants de l'administration et des représentants élus par les titulaires des emplois respectivement de directeur et de directeur adjoint. Les modalités de désignation de leurs membres et leurs conditions de fonctionnement sont déterminées par arrêté conjoint du ministre chargé de la jeunesse et des sports et du ministre chargé de la fonction publique.
