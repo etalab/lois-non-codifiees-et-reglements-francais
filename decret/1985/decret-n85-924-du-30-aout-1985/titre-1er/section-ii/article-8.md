@@ -8,7 +8,7 @@ a) Représente l'établissement en justice et dans tous les actes de la vie civi
 
 b) A autorité sur le personnel n'ayant pas le statut de fonctionnaire de l'Etat, recruté par l'établissement ;
 
-c) Préside le conseil d'administration, la commission permanente et dans les lycées l'assemblée générale des délégués des élèves et le conseil des délégués pour la vie lycéenne ;
+c) Préside le conseil d'administration, la commission permanente, le conseil de discipline et dans les lycées l'assemblée générale des délégués des élèves et le conseil des délégués pour la vie lycéenne ;
 
 d) Est ordonnateur des recettes et des dépenses de l'établissement ;
 
@@ -20,7 +20,9 @@ g) Soumet au conseil d'administration les mesures à prendre dans les domaines d
 
 h) Conclut tout contrat ou convention après avoir recueilli, sous réserve des dispositions de l'article 16, l'autorisation du conseil d'administration ;
 
-i) Transmet les actes de l'établissement dans les conditions fixées aux articles L. 421-11 et L. 421-14 du code de l'éducation, conformément aux dispositions des articles 33-1 et 33-2 du présent décret.
+i) Transmet les actes de l'établissement dans les conditions fixées aux articles L. 421-11 et L. 421-14 du code de l'éducation, conformément aux dispositions des articles 33-1 et 33-2 du présent décret ;
+
+j) Organise les élections des instances énumérées au c, veille à leur bon déroulement et en proclame les résultats.
 
 Lorsqu'il est fait application des dispositions du c du 6° de l'article 16, le chef d'établissement informe le conseil d'administration le plus proche des marchés conclus sans autorisation préalable et tient à disposition des membres de ce dernier les documents y afférents.
 
