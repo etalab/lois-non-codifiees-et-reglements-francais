@@ -1,9 +1,9 @@
 # Article 7
 
-Le transport conjoint de détonateurs et de tout autre produit explosif dans un même véhicule routier, un m ême wagon, une même cale de bateau un un même conteneur est interdit.
+Le transport des produits explosifs doit être réalisé conformément à la réglementation en vigueur pour le transport des marchandises dangereuses.
 
-Les préfets peuvent toutefois autoriser de tels transports sur des parcours n'éxcédant pas 200 km et au profit de transporteurs déterminés, dés lors que le nombre de détonateurs n'excède pas 1000 unités et que la masse d'explosifs est au plus égale à 100 kg.
+Tout transport routier de produits explosifs ne peut se faire qu'avec au moins deux personnes à bord du véhicule.
 
-Tout transport routier de produits explosifs ne peut se faire qu'avec au moins deux personnes à bord du véhicule. Tout moyen de transport en stationnement doit, lorsqu'il contient des produits explosifs, faire l'objet d'une surveillance permanente du conducteur ou du convoyeur.
+Un arrêté conjoint des ministres chargés de l'intérieur, des transports et de l'industrie détermine les modalités de surveillance des véhicules de transport en stationnement, avec ou sans chargement de produits explosifs, ainsi que la liste des équipements permettant d'assurer la sûreté du transport. Cette liste mentionne notamment les équipements de protection contre le vol, de communication, de repérage à distance et de mise en panne dont doivent être munis les véhicules transportant des produits explosifs.
 
-Des arrêtés conjoints des ministres chargés de l'intérieur, de la défense, des transports et de l'industrie fixent les caractéristiques particulières auxquelles doivent répondre les véhicules routiers, les conditions techniques d'application des deux alinéas précédents ainsi que les modalités de transport des artifices non détonants, auxquels les trois premiers alinéas du présent article ne sont pas applicables.
+Un arrêté conjoint des ministres chargés de l'intérieur, des transports et de l'industrie fixe les modalités de transport des artifices non détonants auxquels les deux alinéas précédents ne sont pas applicables.
