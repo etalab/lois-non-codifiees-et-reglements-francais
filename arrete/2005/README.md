@@ -302,6 +302,7 @@
 - [Arrêté du 19 août 2005 (MJSK0570174A)](arrete-du-19-aout-2005-mjsk0570174a)
 - [Arrêté du 19 août 2005 (MJSK0570176A)](arrete-du-19-aout-2005-mjsk0570176a)
 - [Arrêté du 19 juillet 2005 (ECOM0520007A)](arrete-du-19-juillet-2005-ecom0520007a)
+- [Arrêté du 19 juillet 2005 (INTA0500540A)](arrete-du-19-juillet-2005-inta0500540a)
 - [Arrêté du 19 juillet 2005 (JUSK0540034A)](arrete-du-19-juillet-2005-jusk0540034a)
 - [Arrêté du 19 juillet 2005 (MENS0501524A)](arrete-du-19-juillet-2005-mens0501524a)
 - [Arrêté du 19 juillet 2005 (MENS0501542A)](arrete-du-19-juillet-2005-mens0501542a)
