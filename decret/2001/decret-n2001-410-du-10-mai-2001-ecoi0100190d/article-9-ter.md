@@ -1,0 +1,3 @@
+# Article 9 ter
+
+Est considérée comme mise en service pour la première fois une installation existante ayant fait l'objet d'investissements de rénovation dont le montant et la nature correspondent, pour la filière considérée, aux critères fixés par arrêtés du ministre chargé de l'économie et du ministre chargé de l'énergie. Sous réserve de disposer d'une autorisation d'exploiter prévue par le décret du 7 septembre 2000 susvisé et, dans le cas où un tel certificat est requis, d'un certificat ouvrant droit à l'obligation d'achat prévu par le présent décret, cette installation peut prétendre au bénéfice d'un contrat d'achat aux tarifs définis à l'annexe 1 de l'arrêté de la filière concernée ou des dispositions correspondantes.

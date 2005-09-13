@@ -468,6 +468,7 @@
 - [Arrêté du 28 janvier 2005 (SOCF0510005A)](arrete-du-28-janvier-2005-socf0510005a)
 - [Arrêté du 28 juillet 2005 (DEFC0501077A)](arrete-du-28-juillet-2005-defc0501077a)
 - [Arrêté du 28 juin 2005 (AGRA0501335A)](arrete-du-28-juin-2005-agra0501335a)
+- [Arrêté du 29 août 2005 (DEFD0501171A)](arrete-du-29-aout-2005-defd0501171a)
 - [Arrêté du 29 août 2005 (ECOP0500396A)](arrete-du-29-aout-2005-ecop0500396a)
 - [Arrêté du 29 août 2005 (INTD0500601A)](arrete-du-29-aout-2005-intd0500601a)
 - [Arrêté du 29 avril 2005 (AGRA0500143A)](arrete-du-29-avril-2005-agra0500143a)
