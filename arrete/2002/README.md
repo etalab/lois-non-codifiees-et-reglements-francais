@@ -333,7 +333,6 @@
 - [Arrêté du 11 juillet 2002 (AGRG0201691A)](arrete-du-11-juillet-2002-agrg0201691a)
 - [Arrêté du 11 mars 2002 (DEFP0201184A)](arrete-du-11-mars-2002-defp0201184a)
 - [Arrêté du 11 mars 2002 (EQUP0200352A)](arrete-du-11-mars-2002-equp0200352a)
-- [Arrêté du 11 mars 2002 (JUSG0260002A)](arrete-du-11-mars-2002-jusg0260002a)
 - [Arrêté du 11 mars 2002 (MENF0200104A)](arrete-du-11-mars-2002-menf0200104a)
 - [Arrêté du 11 octobre 2002 (PRMG0270805A)](arrete-du-11-octobre-2002-prmg0270805a)
 - [Arrêté du 11 septembre 2002 (EQUP0201433A)](arrete-du-11-septembre-2002-equp0201433a)

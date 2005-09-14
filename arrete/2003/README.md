@@ -226,7 +226,6 @@
 - [Arrêté du 7 janvier 2003 (INTA0200683A)](arrete-du-7-janvier-2003-inta0200683a)
 - [Arrêté du 7 janvier 2003 (JUSG0260069A)](arrete-du-7-janvier-2003-jusg0260069a)
 - [Arrêté du 7 janvier 2003 (JUSG0260070A)](arrete-du-7-janvier-2003-jusg0260070a)
-- [Arrêté du 7 janvier 2003 (JUSG0260072A)](arrete-du-7-janvier-2003-jusg0260072a)
 - [Arrêté du 7 janvier 2003 (MCCB0200928A)](arrete-du-7-janvier-2003-mccb0200928a)
 - [Arrêté du 7 janvier 2003 (SANS0320044A)](arrete-du-7-janvier-2003-sans0320044a)
 - [Arrêté du 7 juillet 2003 (DEFP0301795A)](arrete-du-7-juillet-2003-defp0301795a)
