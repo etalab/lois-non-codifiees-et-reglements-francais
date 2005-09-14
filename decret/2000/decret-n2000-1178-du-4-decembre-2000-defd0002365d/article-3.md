@@ -40,7 +40,9 @@ e) La direction des statuts, des pensions et de la réinsertion sociale ;
 
 f) La direction du service national ;
 
-g) Le service des moyens généraux.
+g) Le service des moyens généraux ;
+
+h) La direction centrale du service d'infrastructure de la défense.
 
 III. - Les autres organismes à caractère civil directement rattachés au ministre de la défense suivants :
 

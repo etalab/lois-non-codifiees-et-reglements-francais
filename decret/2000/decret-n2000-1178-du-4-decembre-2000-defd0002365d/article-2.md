@@ -20,7 +20,7 @@ a) La direction du personnel militaire de l'armée de terre ;
 
 b) La direction centrale du commissariat de l'armée de terre ;
 
-c) La direction centrale du génie ;
+c) Abrogé ;
 
 d) La direction centrale du matériel de l'armée de terre ;
 
@@ -36,7 +36,7 @@ b) La direction centrale du commissariat de la marine ;
 
 c) La direction centrale du service de soutien de la flotte ;
 
-d) La direction centrale des travaux immobiliers et maritimes ;
+d) Abrogé ;
 
 e) Le service central de l'aéronautique navale ;
 
@@ -54,7 +54,7 @@ c) La direction centrale du commissariat de l'air ;
 
 d) La direction centrale du matériel de l'armée de l'air ;
 
-e) La direction centrale de l'infrastructure de l'air.
+e) Abrogé.
 
 II. - La direction générale de la gendarmerie nationale.
 
