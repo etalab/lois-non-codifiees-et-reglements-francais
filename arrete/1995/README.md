@@ -1149,7 +1149,6 @@
 - [Arrêté du 27 septembre 1995 (INTC9500534A)](arrete-du-27-septembre-1995-intc9500534a)
 - [Arrêté du 27 septembre 1995 (INTC9500535A)](arrete-du-27-septembre-1995-intc9500535a)
 - [Arrêté du 28 août 1995 (MENU9501990A)](arrete-du-28-aout-1995-menu9501990a)
-- [Arrêté du 28 août 1995 (MIPP9500841A)](arrete-du-28-aout-1995-mipp9500841a)
 - [Arrêté du 28 août 1995 (MIPP9500842A)](arrete-du-28-aout-1995-mipp9500842a)
 - [Arrêté du 28 avril 1995 (DEFP9501347A)](arrete-du-28-avril-1995-defp9501347a)
 - [Arrêté du 28 avril 1995 (INDP9500523A)](arrete-du-28-avril-1995-indp9500523a)
