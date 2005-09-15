@@ -2,7 +2,7 @@
 
 Les services de l'armée de terre sont :
 
-1° Le génie ;
+1° (Abrogé)
 
 2° Les télécommunications et l'informatique de l'armée de terre ;
 

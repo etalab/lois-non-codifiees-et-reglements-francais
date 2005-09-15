@@ -8,7 +8,7 @@ L'armée de l'air comprend différents services :
 
 b) Le service du matériel de l'armée de l'air ;
 
-c) Le service de l'infrastructure de l'air.
+c) (abrogé)
 
 Les attributions des services mentionnés aux 1° et 2° ci-dessus sont fixées par décret.
 

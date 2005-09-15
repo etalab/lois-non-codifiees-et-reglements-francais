@@ -10,7 +10,7 @@ Les services de la marine nationale sont :
 
 4° Le service de soutien de la flotte ;
 
-5° Le service des travaux immobiliers et maritimes ;
+5°(abrogé)
 
 6° Le service des systèmes d'information de la marine.
 

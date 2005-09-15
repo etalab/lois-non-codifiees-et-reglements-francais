@@ -24,7 +24,7 @@ Le commandement de région terre est responsable dans les domaines suivants :
 
 9° Service de garnison ;
 
-10° Gestion et administration du patrimoine foncier et immobilier attribué à l'armée de terre, sous réserve des attributions dévolues au service du génie ;
+10° Gestion et administration du patrimoine foncier et immobilier attribué à l'armée de terre, sous réserve des attributions dévolues au service d'infrastructure de la défense ;
 
 11° Hygiène, sécurité du travail et prévention des accidents, sous réserve des compétences des directions de service ;
 
