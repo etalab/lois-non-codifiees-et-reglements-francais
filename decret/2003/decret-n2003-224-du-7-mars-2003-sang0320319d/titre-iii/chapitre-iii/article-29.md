@@ -1,6 +1,6 @@
 # Article 29
 
-Sans préjudice des dispositions de l'article 14 du présent décret, les agents définis au premier alinéa de l'article 1er sont classés, lors de leur recrutement, dans la classe normale de leur catégorie d'emploi en tenant compte :
+Sans préjudice des dispositions de l'article 14 du présent décret, les agents définis à l'article 1er sont classés, lors de leur recrutement, dans la classe normale de leur catégorie d'emploi en tenant compte :
 
 1° Des bonifications prévues aux articles 12, 17, 21 et 25 ;
 
