@@ -2,15 +2,15 @@
 
 A chaque exemplaire de la demande d'autorisation doivent être jointes les pièces suivantes :
 
-1° Une carte au 1/25.000 ou à défaut au 1/50.000 sur laquelle sera indiqué l'emplacement de l'installation projetée ;
+1° Une carte au 1/25 000 ou à défaut au 1/50 000 sur laquelle sera indiqué l'emplacement de l'installation projetée ;
 
-2° Un plan à l'échelle de 1/2.500 au minimum des abords de l'installation jusqu'à une distance qui sera au moins égale au dixième du rayon d'affichage fixé dans la nomenclature des installations classées pour la rubrique dans laquelle l'installation doit être rangée, sans pouvoir être inférieure à 100 mètres. Sur ce plan seront indiqués tous bâtiments avec leur affectation, les voies de chemin de fer, les voies publiques, les points d'eau, canaux et cours d'eau ;
+2° Un plan à l'échelle de 1/2 500 au minimum des abords de l'installation jusqu'à une distance qui sera au moins égale au dixième du rayon d'affichage fixé dans la nomenclature des installations classées pour la rubrique dans laquelle l'installation doit être rangée, sans pouvoir être inférieure à 100 mètres. Sur ce plan seront indiqués tous bâtiments avec leur affectation, les voies de chemin de fer, les voies publiques, les points d'eau, canaux et cours d'eau ;
 
 3° Un plan d'ensemble à l'échelle de 1/200 au minimum indiquant les dispositions projetées de l'installation ainsi que, jusqu'à 35 mètres au moins de celle-ci, l'affectation des constructions et terrains avoisinants ainsi que le tracé des égouts existants. Une échelle réduite peut, à la requête du demandeur, être admise par l'administration ;
 
-4° L'étude d'impact prévue à l'article 2 de la loi du 10 juillet 1976 susvisée dont le contenu, par dérogation aux dispositions de l'article R. 122-3 du code de l'environnement, est défini par les dispositions qui suivent.
+4° L'étude d'impact prévue aux articles L. 122-1 à L. 122-3 du code de l'environnement dont le contenu, par dérogation aux dispositions de l'article R. 122-3 du code de l'environnement, est défini par les dispositions qui suivent.
 
-Le contenu de l'étude d'impact doit être en relation avec l'importance de l'installation projetée et avec ses incidences prévisibles sur l'environnement, au regard des intérêts visés par l'article 1er  de la loi du 19 juillet 1976 susvisée, et l'article 2 de la loi n° 92-3 du 3 janvier 1992 sur l'eau.
+Le contenu de l'étude d'impact doit être en relation avec l'importance de l'installation projetée et avec ses incidences prévisibles sur l'environnement, au regard des intérêts visés par l'article L. 511-1 et L. 211-1 du code de l'environnement.
 
 L'étude d'impact présente successivement :
 
@@ -28,15 +28,19 @@ f) Pour les installations appartenant aux catégories fixées par décret, une a
 
 Afin de faciliter la prise de connaissance par le public des informations contenues dans l'étude, celle-ci fera l'objet d'un résumé non technique.
 
-5° Une étude de dangers qui, d'une part, expose les dangers que peut présenter l'installation en cas d'accident, en présentant une description des accidents susceptibles d'intervenir, que leur cause soit d'origine interne ou externe, et en décrivant la nature et l'extension des conséquences que peut avoir un accident éventuel, d'autre part, justifie les mesures propres à réduire la probabilité et les effets d'un accident, déterminées sous la responsabilité du demandeur.
+5° L'étude de dangers prévue à l'article L. 512-1 du code de l'environnement. Elle justifie que le projet permet d'atteindre, dans des conditions économiquement acceptables, un niveau de risque aussi bas que possible, compte tenu de l'état des connaissances et des pratiques et de la vulnérabilité de l'environnement de l'installation.
 
-Cette étude précise notamment, compte tenu des moyens de secours publics portés à sa connaissance, la nature et l'organisation des moyens de secours privés dont le demandeur dispose ou dont il s'est assuré le concours en vue de combattre les effets d'un éventuel sinistre. Dans le cas des installations figurant sur la liste prévue à l'article 7-1 de la loi du 19 juillet 1976, le demandeur doit fournir les éléments indispensables pour l'élaboration par les autorités publiques d'un plan particulier d'intervention.
+Cette étude précise notamment, compte tenu des moyens de secours publics portés à sa connaissance, la nature et l'organisation des moyens de secours privés dont le demandeur dispose ou dont il s'est assuré le concours en vue de combattre les effets d'un éventuel sinistre. Dans le cas des installations figurant sur la liste prévue à l'article L. 515-8 du code de l'environnement, le demandeur doit fournir les éléments indispensables pour l'élaboration par les autorités publiques d'un plan particulier d'intervention.
 
-Pour certaines catégories d'installations impliquant l'utilisation, la fabrication ou le stockage de substances dangereuses, le ministre chargé des installations classées peut préciser, par arrêté pris sur le fondement de l'article 7 de la loi du 19 juillet 1976, le contenu de l'étude de dangers portant notamment sur les mesures d'organisation et de gestion propres à réduire la probabilité et les effets d'un accident majeur.
+L'étude comporte, notamment, un résumé non technique explicitant la probabilité, la cinétique et les zones d'effets des accidents potentiels, ainsi qu'une cartographie des zones de risques significatifs.
 
-Le contenu de l'étude de dangers doit être en relation avec l'importance des dangers de l'installation et de leurs conséquences prévisibles en cas de sinistre sur les intérêts visés par l'article 1er de la loi du 19 juillet 1976 susvisée et l'article 2 de la loi n° 92-3 du 3 janvier 1992 sur l'eau.
+Le ministre chargé des installations classées peut préciser les critères techniques et méthodologiques à prendre en compte pour l'établissement des études de dangers, par arrêté pris dans les formes prévues à l'article L. 512-5 du code de l'environnement.
 
-Dans le cas des installations figurant sur la liste prévue à l'article 7-1 de la loi du 19 juillet 1976, l'étude de dangers est réexaminée et, si nécessaire, mise à jour au moins tous les cinq ans, sans préjudice de l'application des dispositions de l'article 18 du présent décret. L'étude de dangers mise à jour est transmise au préfet.
+Pour certaines catégories d'installations impliquant l'utilisation, la fabrication ou le stockage de substances dangereuses, le ministre chargé des installations classées peut préciser, par arrêté pris sur le fondement de l'article L. 512-5 du code de l'environnement, le contenu de l'étude de dangers portant notamment sur les mesures d'organisation et de gestion propres à réduire la probabilité et les effets d'un accident majeur.
+
+Le contenu de l'étude de dangers doit être en relation avec l'importance des risques engendrés par l'installation, compte tenu de son environnement et de la vulnérabilité des intérêts mentionnés aux articles L. 211-1 et L. 511-1 du code de l'environnement.
+
+Dans le cas des installations figurant sur la liste prévue à l'article L. 515-8 du code de l'environnement, l'étude de dangers est réexaminée et, si nécessaire, mise à jour au moins tous les cinq ans, sans préjudice de l'application des dispositions de l'article 18 du présent décret. L'étude de dangers mise à jour est transmise au préfet.
 
 6° Une notice relative à la conformité de l'installation projetée avec les prescriptions législatives et réglementaires relatives à l'hygiène et à la sécurité du personnel.
 
@@ -47,3 +51,5 @@ Lorsque l'importance particulière des dangers ou inconvénients de l'installati
 La décision du préfet d'imposer une analyse critique peut intervenir à tout moment de la procédure. Elle n'interrompt pas le délai de deux mois prévu à l'article 5 du présent décret. Lorsque l'analyse critique est produite avant la clôture de l'enquête publique, elle est jointe au dossier.
 
 7° Pour les carrières et les installations de stockage de déchets, un document attestant que le demandeur est le propriétaire du terrain ou a obtenu de celui-ci le droit de l'exploiter ou de l'utiliser.
+
+8° Dans le cas d'une installation à implanter sur un site nouveau, l'avis du propriétaire, lorsqu'il n'est pas le demandeur, ainsi que celui du maire ou du président de l'établissement public de coopération intercommunale compétent en matière d'urbanisme, sur l'état dans lequel devra être remis le site lors de l'arrêt définitif de l'installation.
