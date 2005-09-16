@@ -1,3 +1,0 @@
-# Article 1
-
-La radiation du rôle de la redevance audiovisuelle prend effet au titre de la période de douze mois en cours lorsque la demande est formulée et justifiée dans le mois de la mise en recouvrement de la taxe et à condition que la détention de l'appareil ait cessé avant la mise en recouvrement ou dans le mois de la mise en recouvrement. Les demandes de radiation intervenues postérieurement au mois de la mise en recouvrement ou lorsque la détention de l'appareil a cessé postérieurement au mois de la mise en recouvrement sont prises en compte au titre de la période de douze mois suivante.
