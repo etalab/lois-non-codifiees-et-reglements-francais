@@ -173,7 +173,6 @@
 - [Décret n°2004-499 du 7 juin 2004 (SOCU0410833D)](decret-n2004-499-du-7-juin-2004-socu0410833d)
 - [Décret n°2004-500 du 7 juin 2004 (EQUT0400583D)](decret-n2004-500-du-7-juin-2004-equt0400583d)
 - [Décret n°2004-502 du 7 juin 2004 (INTE0400142D)](decret-n2004-502-du-7-juin-2004-inte0400142d)
-- [Décret n°2004-505 du 7 juin 2004 (ECOR0404041D)](decret-n2004-505-du-7-juin-2004-ecor0404041d)
 - [Décret n°2004-506 du 7 juin 2004 (ECOD0470009D)](decret-n2004-506-du-7-juin-2004-ecod0470009d)
 - [Décret n°2004-510 du 7 juin 2004 (DEVG0420020D)](decret-n2004-510-du-7-juin-2004-devg0420020d)
 - [Décret n°2004-511 du 7 juin 2004 (DEVG0420021D)](decret-n2004-511-du-7-juin-2004-devg0420021d)
