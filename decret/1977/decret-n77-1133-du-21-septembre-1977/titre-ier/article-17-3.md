@@ -1,0 +1,3 @@
+# Article 17-3
+
+Sans préjudice de l'application des dispositions de l'article 17 du présent décret et de l'article 8 du décret n° 2004-832 du 19 août 2004 pris pour l'application des articles L. 229-5 à L. 229-19 du code de l'environnement et relatif au système d'échange de quotas d'émission de gaz à effet de serre, l'exploitant déclare chaque année les émissions polluantes de son installation et les déchets qu'elle produit. Les émissions, polluants et déchets à prendre en compte, les critères d'assujettissement des installations et les modalités de cette déclaration sont fixés par arrêté du ministre chargé des installations classées, pris dans les formes prévues à l'article L. 512-5 du code de l'environnement.

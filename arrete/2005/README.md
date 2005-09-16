@@ -474,6 +474,7 @@
 - [Arrêté du 28 janvier 2005 (MJSK0570004A)](arrete-du-28-janvier-2005-mjsk0570004a)
 - [Arrêté du 28 janvier 2005 (SANP0520336A)](arrete-du-28-janvier-2005-sanp0520336a)
 - [Arrêté du 28 janvier 2005 (SOCF0510005A)](arrete-du-28-janvier-2005-socf0510005a)
+- [Arrêté du 28 juillet 2005 (AGRF0501782A)](arrete-du-28-juillet-2005-agrf0501782a)
 - [Arrêté du 28 juillet 2005 (DEFC0501077A)](arrete-du-28-juillet-2005-defc0501077a)
 - [Arrêté du 28 juin 2005 (AGRA0501335A)](arrete-du-28-juin-2005-agra0501335a)
 - [Arrêté du 29 août 2005 (DEFD0501171A)](arrete-du-29-aout-2005-defd0501171a)
