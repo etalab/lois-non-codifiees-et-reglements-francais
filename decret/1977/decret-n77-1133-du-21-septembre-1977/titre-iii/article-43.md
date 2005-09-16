@@ -2,11 +2,11 @@
 
 Sera puni de la peine d'amende prévue pour les contraventions de la 5e classe :
 
-1° Quiconque aura exploité une installation soumise à déclaration sans avoir fait la déclaration prévue à l'article 3 de la loi du 19 juillet 1976 ;
+1° Quiconque aura exploité une installation soumise à déclaration sans avoir fait la déclaration prévue à l'article L. 512-1 et L. 512-8 du code de l'environnement ;
 
-2° Quiconque n'aura pas pris les mesures imposées en vertu de l'article 26 de la loi du 19 juillet 1976 sans qu'ait été pris, en raison de l'urgence, l'avis du maire ou du conseil départemental d'hygiène.
+2° Quiconque n'aura pas pris les mesures imposées en vertu de l'article L. 514-4 du code de l'environnement sans qu'ait été pris, en raison de l'urgence, l'avis du maire ou du conseil départemental d'hygiène ;
 
-3° Quiconque aura exploité une installation soumise à autorisation sans satisfaire aux prescriptions prévues à l'article 7 de la loi du 19 juillet 1976 et aux articles 17 et 18 du présent décret ;
+3° Quiconque aura exploité une installation soumise à autorisation sans satisfaire aux règles générales et prescriptions techniques prévues à l'article L. 512-5 du code de l'environnement et aux articles 17, 17-2, 17-3 et 18 du présent décret ;
 
 4° Quiconque aura exploité une installation soumise à déclaration sans satisfaire aux prescriptions générales ou particulières prévues aux articles 28, 29 et 30 du présent décret ;
 
@@ -14,12 +14,12 @@ Sera puni de la peine d'amende prévue pour les contraventions de la 5e classe :
 
 6° Quiconque aura omis de faire la déclaration ou la notification prévue aux articles 34 et 34-1 du présent décret ;
 
-7° Quiconque, après cessation de l'exploitation d'une installation classée, n'aura pas respecté les prescriptions de l'arrêté préfectoral pris en application de l'article 34-1 du présent décret.
+7° Quiconque, après cessation de l'exploitation d'une installation classée, n'aura pas respecté les prescriptions d'un arrêté préfectoral pris en application des articles 34-3, 34-4 ou 34-5 ;
 
 8° Quiconque aura omis de fournir les informations prévues à l'article 35 du présent décret ;
 
-9° Quiconque aura omis d'adresser la déclaration prévue à l'article 38 du présent décret [*sanction*].
+9° Quiconque aura omis d'adresser la déclaration prévue à l'article 38 du présent décret ;
 
-10° Quiconque aura mis en oeuvre des substances, des produits, des organismes ou des procédés de fabrication soumis à agrément en vertu du quatrième alinéa de l'article 4 de la loi du 19 juillet 1976 susvisée sans avoir obtenu l'agrément ou sans avoir respecté les conditions prévues par cet agrément.
+10° Quiconque aura mis en oeuvre des substances, des produits, des organismes ou des procédés de fabrication soumis à agrément en vertu de l'article L. 515-13 du code de l'environnement sans avoir obtenu l'agrément ou sans avoir respecté les conditions prévues par cet agrément.
 
 Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal, des infractions définies au présent article. Elles encourent la peine d'amende selon les modalités prévues à l'article 131-41 du même code.

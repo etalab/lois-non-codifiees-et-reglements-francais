@@ -1,10 +1,10 @@
 # Article 17
 
-Les conditions d'aménagement et d'exploitation doivent satisfaire aux prescriptions fixées par l'arrêté d'autorisation et, le cas échéant, par les arrêtés complémentaires.
+L'arrêté d'autorisation et, le cas échéant, les arrêtés complémentaires fixent les prescriptions nécessaires à la protection des intérêts mentionnés aux articles L. 211-1, L. 220-1 et L. 511-1 du code de l'environnement.
 
-Ces prescriptions tiennent compte notamment, d'une part, de l'efficacité des techniques disponibles et de leur économie, d'autre part, de la qualité, de la vocation et de l'utilisation des milieux environnants ainsi que de la gestion équilibrée de la ressource en eau.
+Ces prescriptions tiennent compte notamment, d'une part, de l'efficacité des meilleures techniques disponibles et de leur économie, d'autre part, de la qualité, de la vocation et de l'utilisation des milieux environnants ainsi que de la gestion équilibrée de la ressource en eau.
 
-Pour les installations soumises à des règles techniques fixées par un arrêté ministériel pris en application de l'article L. 512-5 du  code de l'environnement, l'arrêté d'autorisation peut créer des modalités d'application particulières de ces règles.
+Pour les installations soumises à des règles techniques fixées par un arrêté ministériel pris en application de l'article L. 512-5 du code de l'environnement, l'arrêté d'autorisation peut créer des modalités d'application particulières de ces règles.
 
 L'arrêté d'autorisation fixe, s'il y a lieu, les prescriptions de nature à réduire ou à prévenir les pollutions à longue distance ainsi que les pollutions transfrontières.
 
@@ -17,3 +17,5 @@ L'arrêté peut prévoir, après consultation des services départementaux d'inc
 L'arrêté fixe également les mesures d'urgence qui incombent à l'exploitant sous le contrôle de l'autorité de police et les obligations de celui-ci en matière d'information et d'alerte des personnes susceptibles d'être affectées par un accident, quant aux dangers encourus, aux mesures de sécurité et au comportement à adopter.
 
 L'arrêté d'autorisation mentionne en outre que, dans le cas où des prescriptions archéologiques ont été édictées par le préfet de région en application du décret n° 2004-490 du 3 juin 2004 relatif aux procédures administratives et financières en matière d'archéologie préventive, la réalisation des travaux est subordonnée à l'accomplissement préalable de ces prescriptions.
+
+Dans le cas d'une installation implantée sur un site nouveau, l'arrêté d'autorisation détermine également l'état dans lequel devra être remis le site lors de l'arrêt définitif de l'installation.
