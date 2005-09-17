@@ -10,6 +10,8 @@ Bordeaux blanc sec, rosé et clairet ;
 
 Buzet blanc et rosé ;
 
+Coteaux du Tricastin ;
+
 Côtes de Bourg blanc sec ;
 
 Côtes de Duras blanc et rosé ;
