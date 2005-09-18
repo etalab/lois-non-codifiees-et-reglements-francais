@@ -344,6 +344,7 @@
 - [Décret n°2005-456 du 12 mai 2005 (EQUP0500089D)](decret-n2005-456-du-12-mai-2005-equp0500089d)
 - [Décret n°2005-503 du 12 mai 2005 (MENS0500916D)](decret-n2005-503-du-12-mai-2005-mens0500916d)
 - [Décret n°2005-504 du 12 mai 2005 (MENS0500915D)](decret-n2005-504-du-12-mai-2005-mens0500915d)
+- [Décret du 13 septembre 2005 (AGRP0500336D)](decret-du-13-septembre-2005-agrp0500336d)
 - [Décret n° 2005-363 du 13 avril 2005 (DEFP0500366D)](decret-n-2005-363-du-13-avril-2005-defp0500366d)
 - [Décret n° 2005-789 du 13 juillet 2005 (MAEA0520189D)](decret-n-2005-789-du-13-juillet-2005-maea0520189d)
 - [Décret n°2004-1364 du 13 décembre 2004 (JUSD0430240D)](decret-n2004-1364-du-13-decembre-2004-jusd0430240d)
