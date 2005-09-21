@@ -37,7 +37,6 @@
 - [Arrêté du 1 septembre 2004 (ECOD0470023A)](arrete-du-1-septembre-2004-ecod0470023a)
 - [Arrêté du 1 septembre 2004 (MENF0401900A)](arrete-du-1-septembre-2004-menf0401900a)
 - [Arrêté du 1 septembre 2004 (SOCG0420016A)](arrete-du-1-septembre-2004-socg0420016a)
-- [Arrêté du 2 août 2004 (EQUH0401157A)](arrete-du-2-aout-2004-equh0401157a)
 - [Arrêté du 2 août 2004 (EQUP0400392A)](arrete-du-2-aout-2004-equp0400392a)
 - [Arrêté du 2 août 2005 (FPPA0500067A)](arrete-du-2-aout-2005-fppa0500067a)
 - [Arrêté du 2 décembre 2003 (AGRG0302574A)](arrete-du-2-decembre-2003-agrg0302574a)

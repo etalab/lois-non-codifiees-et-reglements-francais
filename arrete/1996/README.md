@@ -739,7 +739,6 @@
 - [Arrêté du 20 mai 1996 (DEFP9601486A)](arrete-du-20-mai-1996-defp9601486a)
 - [Arrêté du 20 mai 1996 (ECOT9651508A)](arrete-du-20-mai-1996-ecot9651508a)
 - [Arrêté du 20 mai 1996 (ECOT9651513A)](arrete-du-20-mai-1996-ecot9651513a)
-- [Arrêté du 20 mai 1996 (EQUE9600575A)](arrete-du-20-mai-1996-eque9600575a)
 - [Arrêté du 20 mai 1996 (MCCB9600302A)](arrete-du-20-mai-1996-mccb9600302a)
 - [Arrêté du 20 mai 1996 (MJSK9670065A)](arrete-du-20-mai-1996-mjsk9670065a)
 - [Arrêté du 20 mai 1996 (TASS9621532A)](arrete-du-20-mai-1996-tass9621532a)
