@@ -112,4 +112,6 @@ Ecole polytechnique de l'université d'Orléans ;
 
 Ecole polytechnique de l'université de Nice ;
 
-Ecole polytechnique universitaire Pierre et Marie Curie, Paris-VI.
+Ecole polytechnique universitaire Pierre et Marie Curie, Paris-VI ;
+
+Institut de formation d'ingénieurs, Paris-XI.
