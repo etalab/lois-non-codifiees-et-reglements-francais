@@ -51,7 +51,6 @@
 - [Arrêté du 2 novembre 1994 (RESK9401590A)](arrete-du-2-novembre-1994-resk9401590a)
 - [Arrêté du 2 septembre 1994 (EQUH9401516A)](arrete-du-2-septembre-1994-equh9401516a)
 - [Arrêté du 2 septembre 1994 (MENL9400605A)](arrete-du-2-septembre-1994-menl9400605a)
-- [Arrêté du 2 mai 1994 (AGRG9400837A)](arrete-du-2-mai-1994-agrg9400837a)
 - [Arrêté du 3 août 1994 (DEFT9401789A)](arrete-du-3-aout-1994-deft9401789a)
 - [Arrêté du 3 août 1994 (ECOC9400116A)](arrete-du-3-aout-1994-ecoc9400116a)
 - [Arrêté du 3 août 1994 (JUSC9420733A)](arrete-du-3-aout-1994-jusc9420733a)
