@@ -544,6 +544,7 @@
 - [Décret n°2004-1142 du 20 octobre 2004 (SANS0422784D)](decret-n2004-1142-du-20-octobre-2004-sans0422784d)
 - [Décret n°2004-1232 du 20 novembre 2004 (MCCX0400223D)](decret-n2004-1232-du-20-novembre-2004-mccx0400223d)
 - [Décret n°2004-836 du 20 août 2004 (JUSC0420451D)](decret-n2004-836-du-20-aout-2004-jusc0420451d)
+- [Décret n°2005-1190 du 20 septembre 2005 (JUSC0520597D)](decret-n2005-1190-du-20-septembre-2005-jusc0520597d)
 - [Décret n°2005-362 du 20 avril 2005 (SANS0521444D)](decret-n2005-362-du-20-avril-2005-sans0521444d)
 - [Décret n°2005-372 du 20 avril 2005 (INTE0500094D)](decret-n2005-372-du-20-avril-2005-inte0500094d)
 - [Décret n°2005-373 du 20 avril 2005 (SANA0521530D)](decret-n2005-373-du-20-avril-2005-sana0521530d)
