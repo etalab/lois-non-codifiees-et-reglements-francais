@@ -14,21 +14,21 @@
 <td rowspan="2" width="38">
 <p align="center">P</p>
 </td>
-<td colspan="4" width="374">
+<td colspan="4">
 <p align="center">RÉGION BIOGÉOGRAPHIQUE</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="84">
+<td>
 <p align="center">Alpine</p>
 </td>
-<td valign="top" width="98">
+<td>
 <p align="center">Méditerranéenne</p>
 </td>
-<td valign="top" width="96">
+<td>
 <p align="center">Continentale</p>
 </td>
-<td valign="top" width="96">
+<td>
 <p align="center">Atlantique</p>
 </td>
 </tr>
@@ -839,10 +839,10 @@
 </tr>
 <tr>
 <td valign="top" width="211">
-<p>Dunes maritimes des rivages méditerranéens</p>
+<p align="left">Dunes maritimes des rivages atlantiques, de la mer du Nord et de la Baltique </p>
 </td>
 <td valign="top" width="58">
-<p align="center">22</p>
+<p align="center">21</p>
 </td>
 <td valign="top" width="38">
 <br/>
@@ -885,25 +885,23 @@
 </tr>
 <tr>
 <td valign="top" width="211">
-<p>Dunes à Euphorbia terracina</p>
+<p align="left">Dunes côtières fixées à végétation<br/>herbacée (dunes grises)</p>
 </td>
 <td valign="top" width="58">
-<p align="center">2220</p>
+<p align="center">2130</p>
 </td>
 <td valign="top" width="38">
-<br/>
+<p align="center">*</p>
 </td>
 <td valign="top" width="84">
 <br/>
 </td>
-<td valign="top" width="98">
+<td valign="top" width="98"/>
+<td valign="top" width="96">
+<br/>
+</td>
+<td valign="top" width="96">
 <p align="center">X</p>
-</td>
-<td valign="top" width="96">
-<br/>
-</td>
-<td valign="top" width="96">
-<br/>
 </td>
 </tr>
 <tr>
@@ -1023,52 +1021,6 @@
 </tr>
 <tr>
 <td valign="top" width="211">
-<p>Dunes intérieures, anciennes et décalcifiées</p>
-</td>
-<td valign="top" width="58">
-<p align="center">23</p>
-</td>
-<td valign="top" width="38">
-<br/>
-</td>
-<td valign="top" width="84">
-<br/>
-</td>
-<td valign="top" width="98">
-<br/>
-</td>
-<td valign="top" width="96">
-<br/>
-</td>
-<td valign="top" width="96">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="211">
-<p>Landes psammophiles sèches à Calluna et Genista</p>
-</td>
-<td valign="top" width="58">
-<p align="center">2310</p>
-</td>
-<td valign="top" width="38">
-<br/>
-</td>
-<td valign="top" width="84">
-<br/>
-</td>
-<td valign="top" width="98">
-<br/>
-</td>
-<td valign="top" width="96">
-<p align="center">X</p>
-</td>
-<td valign="top" width="96">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="211">
 <p>Dunes intérieures avec pelouses ouvertes à Corynephorus et Agrostis</p>
 </td>
 <td valign="top" width="58">
@@ -1146,14 +1098,12 @@
 <td valign="top" width="38">
 <br/>
 </td>
-<td valign="top" width="84">
-<p align="center">X</p>
-</td>
+<td valign="top" width="84"/>
 <td valign="top" width="98">
 <br/>
 </td>
 <td valign="top" width="96">
-<p align="center">X</p>
+<br/>
 </td>
 <td valign="top" width="96">
 <p align="center">X</p>
@@ -1170,7 +1120,7 @@
 <br/>
 </td>
 <td valign="top" width="84">
-<p align="center">X</p>
+<br/>
 </td>
 <td valign="top" width="98">
 <p align="center">X</p>
@@ -1567,7 +1517,7 @@
 <br/>
 </td>
 <td valign="top" width="96">
-<br/>
+<p align="center">X</p>
 </td>
 <td valign="top" width="96">
 <p align="center">X</p>
@@ -1686,29 +1636,6 @@
 </td>
 <td valign="top" width="96">
 <p align="center">X</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="211">
-<p>FOURRÉS SCLEROPHYLLES (MATORRALS)</p>
-</td>
-<td valign="top" width="58">
-<p align="center">5</p>
-</td>
-<td valign="top" width="38">
-<br/>
-</td>
-<td valign="top" width="84">
-<br/>
-</td>
-<td valign="top" width="98">
-<br/>
-</td>
-<td valign="top" width="96">
-<br/>
-</td>
-<td valign="top" width="96">
-<br/>
 </td>
 </tr>
 <tr>
@@ -1943,56 +1870,10 @@
 </tr>
 <tr>
 <td valign="top" width="211">
-<p>Phryganes</p>
-</td>
-<td valign="top" width="58">
-<p align="center">54</p>
-</td>
-<td valign="top" width="38">
-<br/>
-</td>
-<td valign="top" width="84">
-<br/>
-</td>
-<td valign="top" width="98">
-<br/>
-</td>
-<td valign="top" width="96">
-<br/>
-</td>
-<td valign="top" width="96">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="211">
 <p>Phryganes ouest-méditerranéennes des sommets de falaise (Astralago-Plantaginetum subulatae)</p>
 </td>
 <td valign="top" width="58">
 <p align="center">5410</p>
-</td>
-<td valign="top" width="38">
-<br/>
-</td>
-<td valign="top" width="84">
-<br/>
-</td>
-<td valign="top" width="98">
-<p align="center">X</p>
-</td>
-<td valign="top" width="96">
-<br/>
-</td>
-<td valign="top" width="96">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="211">
-<p>Phryganes endémiques du Euphorbio-Verbascion</p>
-</td>
-<td valign="top" width="58">
-<p align="center">5430</p>
 </td>
 <td valign="top" width="38">
 <br/>
@@ -2113,7 +1994,7 @@
 <br/>
 </td>
 <td valign="top" width="84">
-<br/>
+<p align="center">X</p>
 </td>
 <td valign="top" width="98">
 <br/>
@@ -2257,7 +2138,7 @@
 <p align="center">X</p>
 </td>
 <td valign="top" width="96">
-<br/>
+<p align="center">X</p>
 </td>
 <td valign="top" width="96">
 <p align="center">X</p>
@@ -2294,7 +2175,7 @@
 <p align="center">6240</p>
 </td>
 <td valign="top" width="38">
-<br/>
+<p align="center">*</p>
 </td>
 <td valign="top" width="84">
 <p align="center">X</p>
@@ -2967,7 +2848,7 @@
 <p align="center">X</p>
 </td>
 <td valign="top" width="98">
-<br/>
+<p align="center">X</p>
 </td>
 <td valign="top" width="96">
 <p align="center">X</p>
@@ -3617,7 +3498,7 @@
 <p align="center">X</p>
 </td>
 <td valign="top" width="96">
-<br/>
+<p align="center">X</p>
 </td>
 </tr>
 <tr>
@@ -3709,7 +3590,7 @@
 <br/>
 </td>
 <td valign="top" width="96">
-<br/>
+<p align="center">X</p>
 </td>
 </tr>
 <tr>
@@ -3729,7 +3610,7 @@
 <p align="center">X</p>
 </td>
 <td valign="top" width="96">
-<br/>
+<p align="center">X</p>
 </td>
 <td valign="top" width="96">
 <p align="center">X</p>
@@ -3953,7 +3834,7 @@
 <p align="center">*</p>
 </td>
 <td valign="top" width="84">
-<br/>
+<p align="center">X</p>
 </td>
 <td valign="top" width="98">
 <p align="center">X</p>
@@ -3964,6 +3845,130 @@
 <td valign="top" width="96">
 <br/>
 </td>
+</tr>
+<tr>
+<td>
+<p align="left">LANDES ET FOURRÉS TEMPÉRÉS</p>
+</td>
+<td>
+<p align="center">4</p>
+</td>
+<td>
+<br/>
+</td>
+<td/>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>Fourrés de Salix spp. subarctiques</td>
+<td>
+<p align="center">4080</p>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<p align="center">X</p>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">FORÊTS</p>
+</td>
+<td>
+<p align="center">9</p>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Forêts de l'Europe tempérée</p>
+</td>
+<td>
+<p align="center">91</p>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Vieilles chênaies des îles britanniques<br/>à Ilex et Blechnum</p>
+</td>
+<td>
+<p align="center">91A0</p>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<p align="center">X</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Frênaies thermophiles à Fraxinus<br/>angustifolia</p>
+</td>
+<td>
+<p align="center">91B0</p>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<p align="center">X</p>
+</td>
+<td/>
+<td/>
 </tr>
 </tbody>
 </table>
