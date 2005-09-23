@@ -270,7 +270,6 @@
 - [Arrêté du 14 juin 2001 (DEFP0101667A)](arrete-du-14-juin-2001-defp0101667a)
 - [Arrêté du 14 juin 2001 (ECOF0100006A)](arrete-du-14-juin-2001-ecof0100006a)
 - [Arrêté du 14 mars 2001 (AGRR0100581A)](arrete-du-14-mars-2001-agrr0100581a)
-- [Arrêté du 14 mars 2001 (ATEP0100091A)](arrete-du-14-mars-2001-atep0100091a)
 - [Arrêté du 14 mars 2001 (ECOF0100007A)](arrete-du-14-mars-2001-ecof0100007a)
 - [Arrêté du 14 novembre 2001 (ATEN0100401A)](arrete-du-14-novembre-2001-aten0100401a)
 - [Arrêté du 14 novembre 2001 (ECOC0100117A)](arrete-du-14-novembre-2001-ecoc0100117a)
