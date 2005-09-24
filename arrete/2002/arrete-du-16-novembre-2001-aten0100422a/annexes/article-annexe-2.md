@@ -5,13 +5,13 @@
 <table>
 <tbody>
 <tr>
-<td rowspan="2" width="213">
+<td rowspan="2">
 <p align="center">NOM DES ESPÈCES</p>
 </td>
-<td rowspan="2" width="57">
+<td rowspan="2">
 <p align="center">CODE</p>
 </td>
-<td rowspan="2" width="38">
+<td rowspan="2">
 <p align="center">P</p>
 </td>
 <td colspan="4">
@@ -57,8 +57,7 @@
 </tr>
 <tr>
 <td>
-<p align="center">Insectivora<br/>
-</p>
+<p align="center">Insectivora</p>
 </td>
 <td/>
 <td/>
@@ -895,30 +894,8 @@
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">Reptiles</p>
-</td>
-<td/>
-<td/>
-<td/>
-<td/>
-<td/>
-<td/>
-</tr>
-<tr>
-<td>
-<p align="center">Testudinata</p>
-</td>
-<td/>
-<td/>
-<td/>
-<td/>
-<td/>
-<td/>
-</tr>
-<tr>
 <td valign="top" width="213">
-<p align="center">Testudinidae</p>
+<p align="center">Reptiles</p>
 </td>
 <td valign="top" width="57">
 <br/>
@@ -938,6 +915,28 @@
 <td valign="top" width="95">
 <br/>
 </td>
+</tr>
+<tr>
+<td>
+<p align="center">Testudinata</p>
+</td>
+<td/>
+<td/>
+<td/>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>
+<p align="center">Testudinidae</p>
+</td>
+<td/>
+<td/>
+<td/>
+<td/>
+<td/>
+<td/>
 </tr>
 <tr>
 <td valign="top" width="213">
@@ -961,6 +960,34 @@
 <td valign="top" width="95">
 <br/>
 </td>
+</tr>
+<tr>
+<td>
+<p align="center">Cheloniidae</p>
+</td>
+<td/>
+<td/>
+<td/>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>
+<p align="left">Tortue Caouanne (Caretta caretta)</p>
+</td>
+<td>
+<p align="center">1224</p>
+</td>
+<td>
+<p align="center">*</p>
+</td>
+<td/>
+<td>
+<p align="center">X</p>
+</td>
+<td/>
+<td/>
 </tr>
 <tr>
 <td valign="top" width="213">
@@ -1887,7 +1914,7 @@
 <p align="center">X</p>
 </td>
 <td valign="top" width="96">
-<p align="center">X</p>
+<br/>
 </td>
 <td valign="top" width="95">
 <p align="center">X</p>
@@ -2246,7 +2273,7 @@
 <p align="center">X</p>
 </td>
 <td valign="top" width="95">
-<p align="center">X</p>
+<br/>
 </td>
 </tr>
 <tr>
@@ -2315,7 +2342,7 @@
 <p align="center">X</p>
 </td>
 <td valign="top" width="95">
-<p align="center">X</p>
+<br/>
 </td>
 </tr>
 <tr>
@@ -2453,7 +2480,7 @@
 <br/>
 </td>
 <td valign="top" width="95">
-<p align="center">X</p>
+<br/>
 </td>
 </tr>
 <tr>
@@ -2676,10 +2703,10 @@
 <br/>
 </td>
 <td valign="top" width="99">
-<br/>
+<p align="center">X</p>
 </td>
 <td valign="top" width="96">
-<br/>
+<p align="center">X</p>
 </td>
 <td valign="top" width="95">
 <p align="center">X</p>
@@ -2768,7 +2795,7 @@
 <br/>
 </td>
 <td valign="top" width="99">
-<br/>
+<p align="center">X</p>
 </td>
 <td valign="top" width="96">
 <p align="center">X</p>
@@ -3950,6 +3977,23 @@
 </td>
 </tr>
 <tr>
+<td>
+<p align="left">Statice à rameaux raides<br/>(Limonium strictissimum)</p>
+</td>
+<td>
+<p align="center">1643</p>
+</td>
+<td>
+<p align="center">*</p>
+</td>
+<td/>
+<td>
+<p align="center">X</p>
+</td>
+<td/>
+<td/>
+</tr>
+<tr>
 <td valign="top" width="213">
 <p align="center">Polygonaceae</p>
 </td>
@@ -4258,6 +4302,21 @@
 <td valign="top" width="95">
 <br/>
 </td>
+</tr>
+<tr>
+<td>Euphraise naine (Euphrasia nana)</td>
+<td>
+<p align="center">1720</p>
+</td>
+<td>
+<p align="center">*</p>
+</td>
+<td/>
+<td>
+<p align="center">X</p>
+</td>
+<td/>
+<td/>
 </tr>
 <tr>
 <td valign="top" width="213">
@@ -4624,7 +4683,7 @@
 <br/>
 </td>
 <td valign="top" width="84">
-<br/>
+<p align="center">X</p>
 </td>
 <td valign="top" width="99">
 <br/>
@@ -4633,7 +4692,7 @@
 <p align="center">X</p>
 </td>
 <td valign="top" width="95">
-<br/>
+<p align="center">X</p>
 </td>
 </tr>
 <tr>
@@ -4658,6 +4717,19 @@
 <td valign="top" width="95">
 <br/>
 </td>
+</tr>
+<tr>
+<td>Mannia triandra</td>
+<td>
+<p align="center">1379</p>
+</td>
+<td/>
+<td/>
+<td>
+<p align="center">X</p>
+</td>
+<td/>
+<td/>
 </tr>
 <tr>
 <td valign="top" width="213">
@@ -4706,6 +4778,19 @@
 </td>
 </tr>
 <tr>
+<td>Riella helicophylla</td>
+<td>
+<p align="center">1391</p>
+</td>
+<td/>
+<td/>
+<td>
+<p align="center">X</p>
+</td>
+<td/>
+<td/>
+</tr>
+<tr>
 <td valign="top" width="213">
 <p>Sphaigne de La Pylaie (Sphagnum pylaisii)</p>
 </td>
@@ -4726,6 +4811,11 @@
 </td>
 <td valign="top" width="95">
 <p align="center">X</p>
+</td>
+</tr>
+<tr>
+<td colspan="7">
+<p align="left">Colonne P : habitats et espèces signalés par * : prioritaires, au sens de l'article L. 414-4-IV du code de l'environnement.</p>
 </td>
 </tr>
 </tbody>
