@@ -618,6 +618,8 @@
 - [Décret n°2005-1194 du 22 septembre 2005 (MENF0501662D)](decret-n2005-1194-du-22-septembre-2005-menf0501662d)
 - [Décret n°2005-1195 du 22 septembre 2005 (DEVX0500207D)](decret-n2005-1195-du-22-septembre-2005-devx0500207d)
 - [Décret n°2005-1200 du 22 septembre 2005 (FPPA0510008D)](decret-n2005-1200-du-22-septembre-2005-fppa0510008d)
+- [Décret n°2005-1202 du 22 septembre 2005 (SANP0523238D)](decret-n2005-1202-du-22-septembre-2005-sanp0523238d)
+- [Décret n°2005-1203 du 22 septembre 2005 (SANS0523095D)](decret-n2005-1203-du-22-septembre-2005-sans0523095d)
 - [Décret n°2005-160 du 22 février 2005 (INTA0500043D)](decret-n2005-160-du-22-fevrier-2005-inta0500043d)
 - [Décret n°2005-161 du 22 février 2005 (SOCU0510152D)](decret-n2005-161-du-22-fevrier-2005-socu0510152d)
 - [Décret n°2005-165 du 22 février 2005 (PRMG0470949D)](decret-n2005-165-du-22-fevrier-2005-prmg0470949d)
