@@ -44,10 +44,13 @@ La circonscription territoriale des sections régionales de la conchyliculture, 
 <p>Courseulles, Arromanches.</p>
 <p>Isigny.</p>
 <p>Sainte-Marie-du-Mont.</p>
+<p>Lestre</p>
 <p>Saint-Vaast-la-Hougue.</p>
+<p>Côte des Isles</p>
 <p>Pirou.</p>
 <p>Blainville.</p>
 <p>Sud de la Sienne.</p>
+<p>Chausey</p>
 </td>
 <td valign="top" width="94">
 <p align="center">25</p>
@@ -76,7 +79,7 @@ La circonscription territoriale des sections régionales de la conchyliculture, 
 <p>Brest-Abers.</p>
 </td>
 <td valign="top" width="94">
-<p align="center">33</p>
+<p align="center">38</p>
 </td>
 <td valign="top" width="99">
 <p align="center">A fixer</p>
