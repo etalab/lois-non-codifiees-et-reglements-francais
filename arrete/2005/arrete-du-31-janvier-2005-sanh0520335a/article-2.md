@@ -24,7 +24,7 @@ h) Une séance, correspondant à une prise en charge individuelle, d'une durée 
 
 Lors de ces séances, un des intervenants doit être un professionnel paramédical ou un psychologue. Peuvent également être considérés comme intervenants les praticiens et les masseurs-kinésithérapeutes, en l'absence de facturation à l'acte en application des dispositions de l'article L. 162-1-7 du code de la sécurité sociale au titre de leur intervention dans ces séances.
 
-Lorsque plusieurs séances sont réalisées au cours d'une même journée, seul le forfait dont le tarif est le plus élevé est facturé.
+Lorsque plusieurs séances sont réalisées au cours d'une même journée, seul le forfait PY0 ou PY2 peut se cumuler avec le forfait PY1 ou PY3. Dans les autres cas, seul le forfait dont le tarif est le plus élevé est facturé.
 
 3° Dans le cadre d'une prise en charge de nuit en structure de soins alternative à l'hospitalisation complète en psychiatrie, un forfait d'accueil et de suivi du patient dénommé PY9. Il est facturé dès lors que le patient est pris en charge la nuit pour une durée comprise entre 8 et 12 heures.
 
