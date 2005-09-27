@@ -804,7 +804,6 @@
 - [Arrêté du 24 septembre 1998 (MESS9823231A)](arrete-du-24-septembre-1998-mess9823231a)
 - [Arrêté du 25 août 1998 (FPPA9810019A)](arrete-du-25-aout-1998-fppa9810019a)
 - [Arrêté du 25 août 1998 (MESH9822805A)](arrete-du-25-aout-1998-mesh9822805a)
-- [Arrêté du 25 août 1998 (MESH9822806A)](arrete-du-25-aout-1998-mesh9822806a)
 - [Arrêté du 25 août 1998 (MESH9822807A)](arrete-du-25-aout-1998-mesh9822807a)
 - [Arrêté du 25 août 2000 (JUSA0000017A)](arrete-du-25-aout-2000-jusa0000017a)
 - [Arrêté du 25 février 1998 (DEFB9801266A)](arrete-du-25-fevrier-1998-defb9801266a)
