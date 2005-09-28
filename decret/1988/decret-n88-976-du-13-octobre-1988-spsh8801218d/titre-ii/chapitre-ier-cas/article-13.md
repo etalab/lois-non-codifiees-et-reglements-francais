@@ -8,11 +8,31 @@ Le détachement d'un fonctionnaire ne peut avoir lieu que dans l'un des cas suiv
 
 3° Détachement auprès d'une entreprise publique ;
 
-4° Détachement auprès d'une entreprise ou d'un organisme privé assurant une mission d'intérêt général ; le nombre et la nature des emplois auxquels il est éventuellement pourvu par des fonctionnaires détachés doivent être précisés par une disposition des statuts de l'entreprise ou de l'organisme considéré approuvée par arrêté du ministre chargé du budget et du ministre chargé de la santé [*autorité compétente*]; les associations ou fondations reconnues d'utilité publique, les hôpitaux psychiatriques privés faisant fonction d'hôpitaux psychiatriques publics, les centres de lutte contre le cancer et les établissements de transfusion sanguine mentionnés à l'article L. 668-I du code de la santé publique sont dispensés de cette formalité ;
+4° Détachement auprès d'une entreprise ou d'un organisme privé assurant une mission d'intérêt général ; le nombre et la nature des emplois auxquels il est éventuellement pourvu par des fonctionnaires détachés doivent être précisés par une disposition des statuts de l'entreprise ou de l'organisme considéré approuvée par arrêté du ministre chargé de la santé ; les associations ou fondations reconnues d'utilité publique, les hôpitaux psychiatriques privés faisant fonction d'hôpitaux psychiatriques publics, les centres de lutte contre le cancer et les établissements de transfusion sanguine mentionnés à l'article L. 668-I du code de la santé publique sont dispensés de cette formalité ;
 
 5° Détachement pour dispenser un enseignement à l'étranger ;
 
-6° Détachement pour remplir une mission d'intérêt public à l'étranger ou auprès d'organismes internationaux ;
+6° Détachement :
+
+a) Pour remplir une mission d'intérêt public à l'étranger ou auprès d'une organisation internationale intergouvernementale ;
+
+b) Pour effectuer une mission d'intérêt public de coopération internationale ou auprès d'organismes d'intérêt général à caractère international.
+
+Ces détachements ne peuvent intervenir que dans les conditions prévues par une convention préalablement passée entre l'administration gestionnaire et l'organisme d'accueil. Cette convention définit la nature et le niveau des activités confiées aux fonctionnaires, ses conditions d'emploi et de rémunération, les modalités d'appel de retenues pour pension ainsi que les modalités du contrôle et de l'évaluation desdites activités.
+
+La convention est signée par le ministre des affaires étrangères, lorsque le détachement est prononcé auprès d'un organisme d'intérêt général à caractère international et que le fonctionnaire détaché appartient à l'un des corps, est titulaire des grades ou occupe des emplois régis par :
+
+a) Le décret n° 2000-231 du 13 mars 2000 relatif aux conditions de nomination et d'avancement dans certains emplois fonctionnels de la fonction publique hospitalière ;
+
+b) Le décret n° 2000-232 du 13 mars 2000 portant statut particulier des grades et emplois des personnels de direction des établissements mentionnés à l'article 2 (1°, 2° et 3°) de la loi n° 86-33 du 9 janvier 1986 modifiée portant dispositions statutaires relatives à la fonction publique hospitalière ;
+
+c) Le décret n° 2001-1343 portant statut particulier du corps des directeurs d'établissements sanitaires et sociaux de la fonction publique hospitalière ;
+
+d) Le décret n° 2001-1344 relatif aux conditions de nomination et d'avancement des emplois fonctionnels du corps des directeurs d'établissements sanitaires et sociaux de la fonction publique hospitalière ;
+
+e) Le décret n° 2001-1345 portant statut particulier du corps des directeurs d'établissements sociaux et médico-sociaux de la fonction publique hospitalière ;
+
+f) Le décret n° 2001-1346 du 28 décembre 2001 relatif aux conditions de nomination et d'avancement des emplois fonctionnels du corps des directeurs d'établissements sociaux et médico-sociaux de la fonction publique hospitalière ;
 
 7° Détachement pour exercer les fonctions de membre du Gouvernement ou une fonction publique élective lorsque les obligations résultant de cette fonction empêchent l'intéressé d'assurer normalement les tâches qui lui incombent ;
 
