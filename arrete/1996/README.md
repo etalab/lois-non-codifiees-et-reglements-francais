@@ -534,7 +534,6 @@
 - [Arrêté du 15 septembre 1995 (ENVP9540193A)](arrete-du-15-septembre-1995-envp9540193a)
 - [Arrêté du 15 mai 1996 (DEFA9601480A)](arrete-du-15-mai-1996-defa9601480a)
 - [Arrêté du 15 mai 1996 (INTD9500737A)](arrete-du-15-mai-1996-intd9500737a)
-- [Arrêté du 15 mai 1996 (INTD9500738A)](arrete-du-15-mai-1996-intd9500738a)
 - [Arrêté du 15 mai 1996 (JUSB9610172A)](arrete-du-15-mai-1996-jusb9610172a)
 - [Arrêté du 15 mai 1996 (JUSB9610173A)](arrete-du-15-mai-1996-jusb9610173a)
 - [Arrêté du 15 mai 1996 (TASA9621537A)](arrete-du-15-mai-1996-tasa9621537a)
