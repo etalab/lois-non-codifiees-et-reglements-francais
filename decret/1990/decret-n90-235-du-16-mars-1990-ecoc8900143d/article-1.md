@@ -1,5 +1,0 @@
-# Article 1
-
-L'agrément des associations [*conditions d'octroi*] ayant pour objet statutaire explicite la défense des investisseurs en valeurs mobilières ou en produits financiers prévu à l'article 12 de la loi n° 88-14 du 5 janvier 1988 modifiée relative aux actions en justice des associations agréées de consommateurs et à l'information des consommateurs peut être accordé à toute association justifiant, à la date de la demande d'agrément, de deux années d'existence à compter de sa déclaration.
-
-Cette association doit également justifier, pendant cette même période, d'au moins 1 000 membres cotisant individuellement ou d'un nombre de membres cotisant individuellement suffisant eu égard à son objet ainsi que d'une activité effective et publique en vue de la défense des intérêts des investisseurs en valeurs mobilières ou en produits financiers appréciée, notamment, en fonction de la réalisation et de la diffusion de publications, de la tenue de réunions d'information et de la participation à des travaux de réflexion.
