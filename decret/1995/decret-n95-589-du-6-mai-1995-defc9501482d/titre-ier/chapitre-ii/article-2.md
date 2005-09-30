@@ -72,7 +72,7 @@ d) Tourelles et affûts spéciaux pour mitrailleuses et canons d'avion.
 
 Paragraphe 4 : a) Périscopes, hyposcopes, dispositifs d'observation (y compris ceux à imagerie), de prise de vue, de détection ou d'écoute ; dispositifs de pointage et de réglage ; appareils de visée, d'illumination d'objectif, de conduite de tir ou calculateurs pour le tir aux armes de la 1re et de la 2e catégorie.
 
-Matériels de vision nocturne ou par conditions de visibilité réduite dont les caractéristiques sont fixées par arrêté conjoint des ministres de la défense et de l'intérieur et des ministres chargés de l'industrie et des douanes.
+Matériels de vision nocturne ou par conditions de visibilité réduite utilisant l'intensification de lumière ou l'infrarouge passif conçus ou modifiés pour un usage militaire, ou destinés à cet usage, y compris les appareils monoculaires ou binoculaires qui peuvent être mis en oeuvre sans l'aide des mains.
 
 b) Equipements d'emport, de largage ou de lancement de bombes, grenades, torpilles, missiles, roquettes et autres sortes de projectiles ; équipements d'emport ou de largage de charges parachutées.
 
@@ -126,7 +126,7 @@ Munitions pourvues des mêmes projectiles classées par le même arrêté.
 
 Paragraphe 3 : Armes de signalisation dont les caractéristiques sont fixées par l'arrêté prévu au paragraphe 1 ci-dessus.
 
-III. - Paragraphe 1 : Matériels de vision nocturne ou par conditions de visibilité réduite permettant de faciliter le tir des armes et dont les caractéristiques sont fixées par arrêté conjoint des ministres de la défense et de l'intérieur et des ministres chargés de l'industrie, des douanes, de l'environnement et de la jeunesse et des sports.
+III. - Paragraphe 1 : (paragraphe abrogé).
 
 IV. - Paragraphe 1 : Chargeurs des armes de 4e catégorie. Le régime applicable à ces chargeurs est fixé par arrêté conjoint des ministres de la défense et de l'intérieur et des ministres chargés de l'industrie, des douanes et de la jeunesse et des sports.
 
