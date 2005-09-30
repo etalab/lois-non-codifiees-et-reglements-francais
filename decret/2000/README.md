@@ -2,6 +2,7 @@
 
 - [Décret n°2000-1170 du 1 décembre 2000 (DEFP0002056D)](decret-n2000-1170-du-1-decembre-2000-defp0002056d)
 - [Décret n°2000-738 du 1 août 2000 (ECOP0000190D)](decret-n2000-738-du-1-aout-2000-ecop0000190d)
+- [Décret n°2000-744 du 1 août 2000 (PRMX0004286D)](decret-n2000-744-du-1-aout-2000-prmx0004286d)
 - [Décret n°2000-847 du 1 septembre 2000 (ECOP0000379D)](decret-n2000-847-du-1-septembre-2000-ecop0000379d)
 - [Décret n°2000-848 du 1 septembre 2000 (ECOC0000061D)](decret-n2000-848-du-1-septembre-2000-ecoc0000061d)
 - [Décret n°2001-401 du 2 mai 2001 (RECF0100080D)](decret-n2001-401-du-2-mai-2001-recf0100080d)
