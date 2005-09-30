@@ -823,7 +823,6 @@
 - [Arrêté du 25 mai 2004 (ECOT0451249A)](arrete-du-25-mai-2004-ecot0451249a)
 - [Arrêté du 25 mai 2004 (MCCB0400516A)](arrete-du-25-mai-2004-mccb0400516a)
 - [Arrêté du 26 août 1999 (ECOA9920092A)](arrete-du-26-aout-1999-ecoa9920092a)
-- [Arrêté du 26 août 2004 (ECOS0470007A)](arrete-du-26-aout-2004-ecos0470007a)
 - [Arrêté du 26 août 2004 (JUSK0440096A)](arrete-du-26-aout-2004-jusk0440096a)
 - [Arrêté du 26 août 2004 (MAEA0420348A)](arrete-du-26-aout-2004-maea0420348a)
 - [Arrêté du 26 août 2005 (EQUA0500749A)](arrete-du-26-aout-2005-equa0500749a)
