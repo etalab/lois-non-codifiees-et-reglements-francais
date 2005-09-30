@@ -2,7 +2,7 @@
 
 Les fonctionnaires civils nommés dans l'un des corps régis par le présent décret sont classés dans les conditions suivantes :
 
-I. - Les fonctionnaires de catégorie C et D ou de même niveau qui détiennent un grade dont l'indice brut terminal est au moins égal à 449 ou classés au dernier échelon de l'échelle 5 définie par le décret n° 70-78 du 27 janvier 1970 modifié instituant diverses échelles de rémunération pour les catégories C et D des fonctionnaires de l'Etat sont classés à l'échelon doté d'un indice égal ou, à défaut, immédiatement supérieur à celui détenu dans leur grade d'origine. Dans la limite de l'ancienneté moyenne fixée à l'article 17 ci-dessous, pour une promotion à l'échelon supérieur, ils conservent l'ancienneté d'échelon qu'ils avaient acquise dans leur précédent grade lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle que leur aurait procurée un avancement d'échelon dans leur ancienne situation.
+I. - Les fonctionnaires de catégorie C et D ou de même niveau qui détiennent un grade dont l'indice brut terminal est au moins égal à 449 ou classés au dernier échelon de l'échelle 5 définie par le décret n° 2005-1229 du 29 septembre 2005 instituant différentes échelles de rémunération pour la catégorie C des fonctionnaires de l'Etat sont classés à l'échelon doté d'un indice égal ou, à défaut, immédiatement supérieur à celui détenu dans leur grade d'origine. Dans la limite de l'ancienneté moyenne fixée à l'article 17 ci-dessous, pour une promotion à l'échelon supérieur, ils conservent l'ancienneté d'échelon qu'ils avaient acquise dans leur précédent grade lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle que leur aurait procurée un avancement d'échelon dans leur ancienne situation.
 
 Les fonctionnaires visés ci-dessus, nommés alors qu'ils ont atteint l'échelon le plus élevé de leur précédent grade, conservent leur ancienneté d'échelon dans la même limite lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle résultant de leur nomination audit échelon.
 
@@ -12,7 +12,7 @@ II. - Les fonctionnaires de catégorie C et D ou de même niveau qui détiennent
 
 - huit douzièmes pour les douze premières années et sept douzièmes pour le surplus s'il s'agit d'un grade classé dans la catégorie C.
 
-L'ancienneté dans le grade d'origine correspond, dans la limite maximale de vingt-huit ans pour un grade de la catégorie D ou C, au temps nécessaire pour parvenir, sur la base des durées moyennes fixées par l'article 2 du décret du 27 janvier 1970 susvisé, à l'échelon occupé par l'intéressé, augmenté de l'ancienneté acquise dans cet échelon.
+L'ancienneté dans le grade d'origine correspond, dans la limite maximale de vingt-huit ans pour un grade de la catégorie D ou C, au temps nécessaire pour parvenir, sur la base des durées moyennes fixées par l'article 2 du décret du 29 septembre 2005 susvisé, à l'échelon occupé par l'intéressé, augmenté de l'ancienneté acquise dans cet échelon.
 
 Les fonctionnaires visés ci-dessus, nommés alors qu'ils ont atteint l'échelon le plus élevé de leur précédent grade, conservent leur ancienneté d'échelon dans la même limite lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle résultant de leur nomination audit échelon.
 
