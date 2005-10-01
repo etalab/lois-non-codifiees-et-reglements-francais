@@ -1,6 +1,6 @@
 # Article 6
 
-Sous réserve de l'application, le cas échéant, des dispositions des articles 5 et 6 du décret du 27 janvier 1970 susvisé, les ouvriers d'entretien et d'accueil recrutés conformément à l'article 5 ci-dessus sont nommés en qualité de stagiaire au 1er échelon de leur grade.
+Sous réserve de l'application, le cas échéant, des dispositions des articles 5 et 6 du décret du 29 septembre 2005 susvisé, les ouvriers d'entretien et d'accueil recrutés conformément à l'article 5 ci-dessus sont nommés en qualité de stagiaire au 1er échelon de leur grade.
 
 Ils ne peuvent être titularisés qu'après avoir accompli un stage d'une durée d'une année. Ils sont appelés, au cours de cette année, à suivre une action de formation destinée à favoriser leur adaptation à l'emploi ; leur ancienneté d'échelon court du jour de leur nomination en qualité de stagiaire.
 

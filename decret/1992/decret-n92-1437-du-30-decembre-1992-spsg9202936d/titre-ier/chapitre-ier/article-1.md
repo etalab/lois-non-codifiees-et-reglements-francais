@@ -1,3 +1,3 @@
 # Article 1
 
-Il est créé un corps d'agents sanitaires classé dans la catégorie C prévue à l'article 29 de la loi du 11 janvier 1984 susvisée et régi par les dispositions du décret du 27 janvier 1970 susvisé et par celles du présent décret. Ses membres sont nommés par arrêté du ministre chargé de la santé.
+Il est créé un corps d'agents sanitaires classé dans la catégorie C prévue à l'article 29 de la loi du 11 janvier 1984 susvisée et régi par les dispositions du décret du 29 septembre 2005 et par celles du présent décret. Ses membres sont nommés par arrêté du ministre chargé de la santé.

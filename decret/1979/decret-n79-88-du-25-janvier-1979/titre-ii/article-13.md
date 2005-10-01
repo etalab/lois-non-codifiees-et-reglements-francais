@@ -4,4 +4,4 @@ Dans la limite du sixième des titularisations prononcées en application des ar
 
 Les intéressés sont dispensés du stage prévu à l'article 9 ci-dessus et immédiatement titularisés ; ils peuvent être soumis à une formation professionnelle complémentaire. Pour être affectés dans la branche de la surveillance ils doivent posséder l'aptitude physique requise à l'article 4 ci-dessus.
 
-Ils sont classés dans les conditions fixées à l'article 5 du décret du 27 janvier 1970 susvisé.
+Ils sont classés dans les conditions fixées à l'article 5 du décret du 29 septembre 2005.

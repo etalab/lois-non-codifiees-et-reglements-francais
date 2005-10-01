@@ -4,4 +4,4 @@ Les veuves des fonctionnaires des services pénitentiaires décédés par suite 
 
 Ces nominations ne peuvent être prononcées qu'après vérification de l'aptitude physique et professionnelle des intéressées et avis de la commission administrative paritaire.
 
-Les nominations ont lieu dans les conditions prévues aux articles 5 et 6 du décret susvisé du 27 janvier 1970 si les intéressées ont déjà soit la qualité de fonctionnaire, soit la qualité d'agent de l'Etat.
+Les nominations ont lieu dans les conditions prévues aux articles 5 et 6 du décret du 29 septembre 2005 si les intéressées ont déjà soit la qualité de fonctionnaire, soit la qualité d'agent de l'Etat.

@@ -4,7 +4,7 @@ Pour la constitution initiale du corps, les aides-soignants sont recrutés parmi
 
 Les fonctionnaires sont intégrés dans leur nouveau corps à l'échelon détenu dans l'ancien grade et conservent l'ancienneté acquise dans cet échelon.
 
-Ceux qui ont la qualité de contractuel sont reclassés conformément aux dispositions du décret du 27 janvier 1970 susvisé.
+Ceux qui ont la qualité de contractuel sont reclassés conformément aux dispositions du décret du 29 septembre 2005.
 
 Les intéressés sont immédiatement titularisés dans leur nouveau grade.
 

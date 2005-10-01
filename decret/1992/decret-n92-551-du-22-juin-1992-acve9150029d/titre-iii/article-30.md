@@ -2,7 +2,7 @@
 
 Il est créé un corps d'aides-soignants de l'Office national des anciens combattants et victimes de guerre qui est classé dans la catégorie C prévue à l'article 29 de la loi du 11 janvier 1984 susvisée.
 
-Ce corps qui est régi par les dispositions du décret du 27 janvier 1970 susvisé comprend trois grades :
+Ce corps qui est régi par les dispositions du décret du 29 septembre 2005 comprend trois grades :
 
 - aide-soignant de classe normale, relevant de l'échelle 3 de rémunération ;
 

@@ -4,9 +4,9 @@ Pour l'application des dispositions de l'article L. 16 du code des pensions civi
 
 SITUATION ANCIENNE                  SITUATION NOUVELLE
 
-Agent breveté bénéficiaire de       Agent de constatation des brigade l'article 4 du décret n° 70-79      des douanes :
+Agent breveté bénéficiaire de       Agent de constatation des brigade l'article 4 du décret n° 2005-1228  des douanes :
 
-du 27 janvier 1970 modifié :
+du 29 septembre 2005 :
 
 10e  échelon                               7e  échelon
 

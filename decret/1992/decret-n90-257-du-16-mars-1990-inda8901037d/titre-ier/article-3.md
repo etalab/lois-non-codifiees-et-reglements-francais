@@ -4,6 +4,6 @@ Les agents de service des corps régis par le décret du 13 décembre 1971 susvi
 
 Toutefois, l'intégration peut être prononcée avec effet immédiat, sans détachement préalable, sur la demande des fonctionnaires et après accord des ministres intéressés et, pour les fonctionnaires territoriaux et hospitaliers, de l'autorité investie du pouvoir de nomination.
 
-Les intéressés sont classés dans ce nouveau corps dans les conditions fixées à l'article 5 du décret du 27 janvier 1970 susvisé.
+Les intéressés sont classés dans ce nouveau corps dans les conditions fixées à l'article 5 du décret du 29 septembre 2005.
 
 Pendant leur détachement, ils concourent pour l'avancement de grade et d'échelon avec l'ensemble des fonctionnaires appartenant au corps d'agents de service du ministère de l'industrie et de l'aménagement du territoire.

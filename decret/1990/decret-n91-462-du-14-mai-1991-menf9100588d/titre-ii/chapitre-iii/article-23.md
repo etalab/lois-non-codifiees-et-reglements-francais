@@ -1,6 +1,6 @@
 # Article 23
 
-Sous réserve de l'application, le cas échéant, des dispositions du décret du 27 janvier 1970 susvisé, les ouvriers professionnels recrutés en application des dispositions du 1° de l'article 20 ci-dessus sont nommés en qualité de stagiaire au 1er échelon du grade d'ouvrier professionnel.
+Sous réserve de l'application, le cas échéant, des dispositions du décret du 29 septembre 2005 susvisé, les ouvriers professionnels recrutés en application des dispositions du 1° de l'article 20 ci-dessus sont nommés en qualité de stagiaire au 1er échelon du grade d'ouvrier professionnel.
 
 A l'issue d'un stage d'une durée d'un an, ceux dont les services ont donné satisfaction sont titularisés.
 

@@ -4,7 +4,7 @@ Peuvent seuls être détachés dans le corps régi par le présent titre les fon
 
 Le détachement est prononcé à équivalence de grade et à un échelon comportant un indice égal ou, à défaut, immédiatement supérieur à celui dont les intéressés bénéficiaient dans leur corps ou cadre d'emploi d'origine.
 
-Ils conservent l'ancienneté d'échelon acquise dans les conditions prévues au décret du 27 janvier 1970 susvisé.
+Ils conservent l'ancienneté d'échelon acquise dans les conditions prévues au décret du 29 septembre 2005 susvisé.
 
 Les fonctionnaires détachés concourent pour les avancements de grade et d'échelon avec l'ensemble des fonctionnaires du corps de détachement.
 

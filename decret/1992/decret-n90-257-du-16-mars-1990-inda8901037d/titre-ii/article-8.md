@@ -28,4 +28,4 @@ Agent de service.
 
 Les services accomplis par ces agents dans leur corps d'origine sont assimilés à des services accomplis dans le corps d'intégration.
 
-Les chefs surveillants qui ont bénéficié, en application de l'article 4 du décret du 27 janvier 1970 susvisé, d'un classement dans le groupe III bis de rémunération conservent le bénéfice de ce classement dans le nouveau corps.
+Les chefs surveillants qui ont bénéficié, en application de l'article 4 du décret du 29 septembre 2005, d'un classement dans le groupe III bis de rémunération conservent le bénéfice de ce classement dans le nouveau corps.

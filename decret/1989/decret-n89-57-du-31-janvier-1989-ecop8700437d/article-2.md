@@ -2,7 +2,7 @@
 
 Le corps des magasiniers des archives de la Cour des comptes et des chambres régionales des comptes est classé dans la catégorie C.
 
-Il est régi par les dispositions du présent décret et par celles du décret du 27 janvier 1970 susvisé.
+Il est régi par les dispositions du présent décret et par celles du décret du 29 septembre 2005.
 
 Il comporte les grades suivants :
 

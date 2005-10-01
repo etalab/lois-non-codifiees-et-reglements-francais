@@ -16,7 +16,7 @@ III. - Les fonctionnaires qui détiennent un grade dont l'indice brut terminal e
 
 - huit douzièmes, pour les douze premières années et sept douzièmes pour le surplus, s'il s'agit d'un grade classé dans la catégorie C.
 
-L'ancienneté dans le grade d'origine correspond, dans la limite maximale de vingt-huit ans pour un grade de catégorie C ou D, au temps nécessaire pour parvenir, sur la base des durées maximales fixées par l'article 4 du décret du 30 décembre 1987 susvisé, ou, s'il s'agit d'un fonctionnaire issu de la fonction publique de l'Etat ou de la fonction publique hospitalière, sur la base des durées moyennes fixées par l'article 2 du décret du 27 janvier 1970 susvisé, à l'échelon occupé par l'intéressé, augmenté de l'ancienneté acquise dans cet échelon.
+L'ancienneté dans le grade d'origine correspond, dans la limite maximale de vingt-huit ans pour un grade de catégorie C ou D, au temps nécessaire pour parvenir, sur la base des durées maximales fixées par l'article 4 du décret du 30 décembre 1987 susvisé, ou, s'il s'agit d'un fonctionnaire issu de la fonction publique de l'Etat ou de la fonction publique hospitalière, sur la base des durées moyennes fixées par l'article 2 du décret du 29 septembre 2005 susvisé, à l'échelon occupé par l'intéressé, augmenté de l'ancienneté acquise dans cet échelon.
 
 IV. - L'application des dispositions des I, II et III ci-dessus ne peut avoir pour effet de procurer aux intéressés une situation plus favorable, tant en ce qui concerne l'échelon de reclassement que l'ancienneté conservée, que celle qui aurait été la leur, compte tenu des durées maximales d'avancement dans le cadre d'emplois considéré, s'ils avaient été directement recrutés dans un cadre d'emplois de catégorie B.
 
