@@ -50,6 +50,7 @@
 - [Décret n°2002-348 du 13 mars 2002 (FPPA0210003D)](decret-n2002-348-du-13-mars-2002-fppa0210003d)
 - [Décret n°79-979 du 13 novembre 1979](decret-n79-979-du-13-novembre-1979)
 - [Décret n°95-402 du 13 avril 1995 (SPSS9403399D)](decret-n95-402-du-13-avril-1995-spss9403399d)
+- [Décret n°2002-1260 du 14 octobre 2002 (FPPA0210023D)](decret-n2002-1260-du-14-octobre-2002-fppa0210023d)
 - [Décret n°2002-191 du 14 février 2002 (ECOX0200008D)](decret-n2002-191-du-14-fevrier-2002-ecox0200008d)
 - [Décret n°2002-192 du 14 février 2002 (ECOX0200014D)](decret-n2002-192-du-14-fevrier-2002-ecox0200014d)
 - [Décret n°2002-61 du 14 janvier 2002 (FPPA0100148D)](decret-n2002-61-du-14-janvier-2002-fppa0100148d)
