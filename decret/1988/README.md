@@ -216,7 +216,6 @@
 - [Décret n°88-1011 du 27 octobre 1988 (AGRP8801834D)](decret-n88-1011-du-27-octobre-1988-agrp8801834d)
 - [Décret n°88-1153 du 27 décembre 1988 (JUSC8820841D)](decret-n88-1153-du-27-decembre-1988-jusc8820841d)
 - [Décret n°88-88 du 27 janvier 1988 (ASES8701745D)](decret-n88-88-du-27-janvier-1988-ases8701745d)
-- [Décret n°88-91 du 27 janvier 1988 (DEFD8801037D)](decret-n88-91-du-27-janvier-1988-defd8801037d)
 - [Décret n°87-361 du 27 mai 1987 (AGRS8700949D)](decret-n87-361-du-27-mai-1987-agrs8700949d)
 - [Décret n°78-721 du 28 juin 1978](decret-n78-721-du-28-juin-1978)
 - [Décret n°88-1012 du 28 octobre 1988 (MENU8801507D)](decret-n88-1012-du-28-octobre-1988-menu8801507d)

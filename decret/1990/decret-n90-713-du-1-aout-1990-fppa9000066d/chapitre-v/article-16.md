@@ -1,3 +1,0 @@
-# Article 16
-
-Les adjoints de chancellerie et les sténodactylographes de chancellerie régis par le décret n° 71-453 du 7 juin 1971 relatif au statut particulier des corps d'adjoints de chancellerie, de sténodactylographes de chancellerie et d'agents de chancellerie sont intégrés dans le corps des adjoints administratifs de chancellerie, pour sa constitution initiale, dans les mêmes conditions que celles qui sont prévues par le présent décret respectivement pour l'intégration des adjoints administratifs et des sténodactylographes d'administration centrale dans un corps d'adjoints administratifs d'administration centrale.

@@ -6,4 +6,3 @@
 - [Chapitre IV : Détachement.](chapitre-iv)
 - [Chapitre V : Dispositions transitoires.](chapitre-v)
 - [Article 19](article-19.md)
-- [Article 25](article-25.md)
