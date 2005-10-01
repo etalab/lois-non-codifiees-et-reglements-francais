@@ -1,11 +1,9 @@
 # Article 3
 
-Le corps des agents spécialistes régi par le présent décret comprend trois grades :
+Le corps des agents spécialistes de la protection judiciaire de la jeunesse comporte deux grades :
 
-- agent spécialiste de 2e classe ;
+1° Agent spécialiste de classe normale ;
 
-- agent spécialiste de 1re classe ;
+2° Agent spécialiste hors classe.
 
-- agent spécialiste hors classe.
-
-Le nombre des emplois d'agent spécialiste de 1re classe ne peut excéder 25 % de l'effectif budgétaire des deux premiers grades du corps.
+Le nombre d'agents spécialistes de classe normale pouvant être promus chaque année à la hors-classe est déterminé en application du décret n° 2005-1090 du 1er septembre 2005 relatif à l'avancement de grade dans les corps des administrations de l'Etat.

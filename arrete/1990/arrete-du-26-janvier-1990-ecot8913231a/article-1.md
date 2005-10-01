@@ -1,8 +1,10 @@
 # Article 1
 
-Les sommes déposées sur les comptes pour le développement industriel (Codévi) ouverts dans les établissements de crédit sont, sous réserve des dispositions spécifiques prévues à l'article 4 du présent arrêté, placées :
+Les sommes déposées sur les comptes pour le développement industriel (Codévi) ouverts dans les établissements de crédit sont placées :
 
-1° En titres pour le développement industriel émis par la Caisse des dépôts et consignations à raison d'au moins 6,5 p. 100 de l'actif total de la gestion collective à compter du 1er février 1990.    Les établissements de crédit peuvent demander le remboursement des titres pour le développement industriel déjà souscrits dont l'encours excède ces limites.
+1° En titres pour le développement industriel émis par la Caisse des dépôts et consignations à raison d'au moins 6,5 p. 100 de l'actif total de la gestion collective à compter du 1er février 1990.
+
+Les établissements de crédit peuvent demander le remboursement des titres pour le développement industriel déjà souscrits dont l'encours excède ces limites.
 
 2° Pour le solde, et sous réserve des dispositions de l'article 3 ci-dessous, en obligations :
 

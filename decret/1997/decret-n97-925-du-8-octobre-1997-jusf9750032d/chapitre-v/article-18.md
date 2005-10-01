@@ -1,5 +1,3 @@
 # Article 18
 
-Les grades d'agent technique d'éducation de 2e classe, d'agent technique d'éducation de 1re classe et d'agent technique principal de 2e classe sont créés à compter du 1er août 1993.
-
-Le grade d'agent technique principal de 1re classe est créé à compter du 1er janvier 1998.
+Le titre Ier, en tant qu'il concerne les agents techniques d'éducation, et le titre II du décret du 6 février 1980 susvisé sont abrogés.

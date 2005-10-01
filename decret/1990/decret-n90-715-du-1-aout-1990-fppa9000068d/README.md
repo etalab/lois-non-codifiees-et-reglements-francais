@@ -5,5 +5,6 @@
 - [TITRE III : Dispositions communes.](titre-iii)
 - [TITRE III bis : Dispositions prises au titre de la loi n° 96-1093 du 16 décembre 1996](titre-iii-bis)
 - [TITRE IV : Dispositions transitoires.](titre-iv)
+- [Article 17](article-17.md)
 - [Article 31](article-31.md)
 - [Annexes](annexes)

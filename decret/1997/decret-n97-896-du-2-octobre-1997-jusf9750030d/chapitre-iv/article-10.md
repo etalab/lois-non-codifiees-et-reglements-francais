@@ -1,7 +1,7 @@
 # Article 10
 
-Peuvent seuls être détachés dans le corps des agents spécialistes de la protection judiciaire de la jeunesse les fonctionnaires de catégorie C titulaires d'un grade dont l'indice de début est au moins égal à l'indice afférent au 1er échelon de l'un des grades prévus à l'article 3 ci-dessus.
+Les fonctionnaires placés en position de détachement dans le corps des agents spécialistes depuis un an au moins peuvent, sur leur demande, y être intégrés.
 
-Le détachement est prononcé à équivalence de grade à l'échelon que les intéressés ont atteint dans leur grade d'origine en conservant l'ancienneté d'échelon acquise.
+Ils sont nommés dans leur nouveau corps au grade et à l'échelon qu'ils occupaient en position de détachement, avec conservation de l'ancienneté d'échelon acquise dans cet échelon.
 
-Pendant leur détachement, ils concourent pour l'avancement de grade et d'échelon avec les agents spécialistes.
+Les services accomplis dans leur corps d'origine sont assimilés à des services accomplis dans leur corps d'intégration.

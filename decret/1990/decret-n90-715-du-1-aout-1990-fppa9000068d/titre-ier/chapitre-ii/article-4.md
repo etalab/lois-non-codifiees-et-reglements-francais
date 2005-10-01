@@ -1,6 +1,6 @@
 # Article 4
 
-Les candidats admis au concours sont nommés agents des services techniques de 2e classe stagiaires et accomplissent un stage d'une durée d'un an.
+Les candidats admis au concours sont nommés agents des services techniques stagiaires et accomplissent un stage d'une durée d'un an.
 
 A l'issue du stage, ceux dont les services ont donné satisfaction sont titularisés.
 
@@ -9,5 +9,3 @@ Les autres stagiaires peuvent, après avis de la commission administrative parit
 Les agents des services techniques stagiaires qui n'ont pas été autorisés à effectuer un stage complémentaire ou dont le stage complémentaire n'a pas été jugé satisfaisant sont soit licenciés s'ils n'avaient pas préalablement la qualité de fonctionnaire, soit réintégrés dans leur grade d'origine.
 
 La durée du stage est prise en compte pour l'avancement dans la limite d'une année.
-
-Les agents des services techniques recrutés en application du 2° de l'article 3 ci-dessus sont titularisés dès leur nomination.

@@ -6,4 +6,5 @@
 - [Chapitre IV : Détachement.](chapitre-iv)
 - [Chapitre IV Bis : Dispositions prises au titre de la loi n° 96-1093 du 16 décembre 1996 relative à l'emploi dans la fonction publique et à diverses mesures d'ordre statutaire.](chapitre-iv-bis)
 - [Chapitre V : Dispositions transitoires.](chapitre-v)
+- [Article 12](article-12.md)
 - [Article 23](article-23.md)

@@ -4,4 +4,4 @@ Les chefs de garage sont classés dans la catégorie C et sont chargés d'assure
 
 Les corps de chefs de garage comprennent les grades de chef de garage et de chef de garage principal.
 
-Le nombre des emplois de chef de garage principal ne peut excéder 15 p. 100 de l'effectif total de chaque corps.
+Le nombre maximum de chefs de garage pouvant être promus au grade de chef de garage principal est déterminé en application du décret n° 2005-1090 du 1er septembre 2005 relatif à l'avancement de grade dans les corps des administrations de l'Etat.

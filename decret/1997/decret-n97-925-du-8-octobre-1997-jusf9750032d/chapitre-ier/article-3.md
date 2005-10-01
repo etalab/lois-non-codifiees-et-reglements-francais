@@ -10,6 +10,4 @@ Le corps des agents techniques d'éducation régi par le présent décret compre
 
 - agent technique d'éducation principal de 1re classe.
 
-Le nombre des emplois d'agent technique d'éducation principal de 2e classe ne peut excéder 30 % de l'effectif total des grades d'agent technique d'éducation de 1re classe, d'agent technique d'éducation principal de 2e classe et d'agent technique d'éducation principal de 1re classe.
-
-Le nombre des emplois d'agent technique d'éducation principal de 1re classe ne peut excéder 15 % de l'effectif total de ces mêmes grades.
+Le nombre maximum d'agents techniques d'éducation pouvant être promus chaque année à l'un des grades d'avancement relevant du présent statut est déterminé en application du décret n° 2005-1090 du 1er septembre 2005 relatif à l'avancement de grade dans les corps des administrations de l'Etat.

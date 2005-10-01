@@ -1,6 +1,6 @@
 # Article 5
 
-Le concours externe est ouvert aux candidats âgés de moins de quarante-cinq ans au 1er janvier de l'année du concours.
+Le concours externe est ouvert à l'ensemble des candidats.
 
 Le concours interne est ouvert aux fonctionnaires et agents non titulaires de l'Etat, des collectivités territoriales et des établissements publics qui en dépendent, comptant au 1er janvier de l'année du concours au moins une année de services civils effectifs.
 
