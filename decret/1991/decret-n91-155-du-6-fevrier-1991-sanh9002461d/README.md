@@ -2,7 +2,7 @@
 
 - [TITRE Ier : CHAMP D'APPLICATION.](titre-ier)
 - [TITRE II : MODALITÉS DE RECRUTEMENT.](titre-ii)
-- [Titre III : Congés annuels et congés pour formation.](titre-iii)
+- [Titre III : Congés annuels, congés pour formation et congés de représentation.](titre-iii)
 - [Titre V : Congés non rémunérés pour raisons familiales ou personnelles.](titre-v)
 - [Titre VI : Absences résultant d'une obligation légale.](titre-vi)
 - [Titre VII : Conditions d'attribution des droits à congés.](titre-vii)
