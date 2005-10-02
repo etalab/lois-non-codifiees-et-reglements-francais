@@ -1,4 +1,4 @@
-# CHAPITRE V : Dispositions finales.
+# Chapitre V : Dispositions diverses.
 
-- [Article 24](article-24.md)
-- [Article 25](article-25.md)
+- [Article 15](article-15.md)
+- [Article 16](article-16.md)
