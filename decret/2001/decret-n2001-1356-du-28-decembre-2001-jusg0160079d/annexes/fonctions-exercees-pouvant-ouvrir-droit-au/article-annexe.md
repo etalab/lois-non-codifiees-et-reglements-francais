@@ -30,6 +30,10 @@ Ajouter la mention :
 
 Sous-directeur de l'état-major de sécurité de la direction de l'administration pénitentiaire.
 
+9. Secrétaire général.
+
+10. Sous-directeur, adjoint au chef d'un service d'administration centrale.
+
 B. - Fonctions exercées dans les services territoriaux
 
 1. Directeur régional des services pénitentiaires.
