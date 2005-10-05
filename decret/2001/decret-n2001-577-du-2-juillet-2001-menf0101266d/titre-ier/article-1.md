@@ -8,4 +8,8 @@ Une indemnité de responsabilité non soumise à retenue pour pension civile est
 
 - contrats emploi consolidé prévus à l'article L. 322-4-8-1 du code du travail ;
 
-- contrats des assistants d'éducation prévus à l'article L. 916-1 du code de l'éducation.
+- contrats des assistants d'éducation prévus à l'article L. 916-1 du code de l'éducation ;
+
+- contrats d'accompagnement dans l'emploi prévus à l'article L. 322-4-7 du code du travail ;
+
+- contrats d'avenir prévus à l'article L. 322-4-10 du code du travail.
