@@ -4,4 +4,4 @@ La demande d'admission prévue à l'article 16 ci-dessus doit être présentée 
 
 Le formulaire disponible dans les universités n'est remis qu'aux candidats résidant en France, titulaires d'un permis de séjour d'une durée de validité minimum d'un an ou dont le conjoint ou les parents sont titulaires d'un permis de séjour d'une durée minimum de trois ans.
 
-Le candidat peut porter son choix sur deux universités dans les conditions prévues à l'article 10 du présent décret ; il les classe par ordre de préférence.
+Le candidat peut porter son choix sur trois universités dans les conditions prévues à l'article 10 du présent décret ; il les classe par ordre de préférence.
