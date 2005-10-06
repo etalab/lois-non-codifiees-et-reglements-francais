@@ -46,6 +46,16 @@ dispense de l'ensemble des épreuves du D.P.E.C.F. et des épreuves du D.E.C.F.,
 
 Le diplôme d'études universitaires scientifiques et techniques (D.E.U.S.T.) de techniques juridiques, fiscales et comptables de l'université Aix-Marseille-III : dispense de l'ensemble des épreuves du D.P.E.C.F..
 
+Master mention ou spécialité comptabilité, contrôle, audit :
+
+dispense de l'ensemble des épreuves du DPECF, ainsi que de l'ensemble des épreuves du DECF et des épreuves du DESCF respectivement intitulées grand oral et soutenance d'un compte rendu de stage d'initiation.
+
+Maîtrise IUP, juriste d'entreprise délivrée par l'université Toulouse-I : dispense de l'ensemble des épreuves du DPECF.
+
+Maîtrise de management et gestion des entreprise, économiste d'entreprise délivrée par l'université de Nice : dispense de l'ensemble des épreuves du DPECF, ainsi que des épreuves du DECF respectivement intitulées organisation et gestion de l'entreprise et mathématiques appliquées et informatique.
+
+Maîtrise banque, finance, assurance "industrie et finances internationales", délivrée par l'université Paris-XIII : dispense de l'ensemble des épreuves du DPCEF, ainsi que l'épreuve du DECF intitulée gestion financière.
+
 b) Spécialité juridique.
 
 Le diplôme d'études universitaires générales (D.E.U.G.), mention Droit, licence ou maîtrise en droit dispense des épreuves du D.P.E.C.F., respectivement intitulées Introduction au droit de l'entreprise et Expression et communication.
@@ -68,7 +78,9 @@ La licence ou maîtrise, mention Administration économique et sociale (A.E.S.) 
 
 La maîtrise d'administration économique et sociale (A.E.S.) dispense de l'épreuve de comptabilité du D.P.E.C.F.
 
-Le diplôme d'études universitaires générales (D.E.U.G.), mention Sciences économiques dispense des épreuves du D.P.E.C.F., respectivement intitulées Economie et Expression et communication.    La licence ès sciences économiques dispense des épreuves du D.P.E.C.F., respectivement intitulées Economie, Méthodes quantitatives et Expression et communication.
+Le diplôme d'études universitaires générales (D.E.U.G.), mention Sciences économiques dispense des épreuves du D.P.E.C.F., respectivement intitulées Economie et Expression et communication.
+
+La licence ès sciences économiques dispense des épreuves du D.P.E.C.F., respectivement intitulées Economie, Méthodes quantitatives et Expression et communication.
 
 La maîtrise ès sciences économiques :
 
@@ -104,7 +116,7 @@ La maîtrise d'ingénierie économique de l'institut universitaire professionnal
 
 II - Titres et diplômes délivrés soit par l'Etat, soit par des écoles dont le diplôme est reconnu par l'Etat.
 
-Le brevet de technicien supérieur de comptabilité et gestion d'entreprise ou brevet de technicien supérieur de comptabilité, breve de technicien supérieur en comptabilité et gestion des organisations (1) dispense de l'ensemble des épreuves du D.P.E.C.F., de l'épreuve de mathématiques appliquées et informatique du D.E.C.F., et de l'épreuve de soutenance d'un compte rendu du stage d'initiation du D.E.S.C.F..
+Le brevet de technicien supérieur de comptabilité et gestion d'entreprise ou brevet de technicien supérieur de comptabilité, breve de technicien supérieur en comptabilité et gestion des organisations dispense de l'ensemble des épreuves du D.P.E.C.F., de l'épreuve de mathématiques appliquées et informatique du D.E.C.F., et de l'épreuve de soutenance d'un compte rendu du stage d'initiation du D.E.S.C.F..
 
 L'attestation de succès aux épreuves de fin d'études du premier cycle (régime de 1981) de l'Institut national des techniques économiques et comptables (I.N.T.E.C.) du Conservatoire national des arts et métiers (C.N.A.M.) dispense de l'ensemble des épreuves du D.P.E.C.F..
 
@@ -136,11 +148,15 @@ Le diplôme de sortie de l'Ecole des hautes études commerciales (E.D.H.E.C.) du
 
 Le diplôme de statisticien économiste de l'Ecole nationale de la statistique et de l'administration économique (E.N.S.A.E.) dispense des épreuves du D.P.E.C.F., respectivement intitulées Economie, Méthodes quantitatives et Expression et communication, et des épreuves du D.E.C.F., respectivement dénommées Organisation et gestion de l'entreprise, Gestion financière et Mathématiques appliquées et informatique, dispense des épreuves d'introduction au droit de l'entreprise et de comptabilité du D.P.E.C.F.
 
-L'admission aux concours d'entrée des écoles supérieures de commerce et d'administration des entreprises (E.S.C.A.E.) d'Amiens, Bordeaux, Brest, Clermont-Ferrand, Dijon, Grenoble, Le Havre, Lille, Marseille, Montpellier, Nantes, Nice, Pau, Poitiers, Reims, Rouen, Toulouse et Tours dispense de l'ensemble des épreuves du D.P.E.C.F..    L'école supérieure de commerce de Reims, toutes mentions, dispense de l'ensemble des épreuves du D.P.E.C.F., des épreuves intitulées Organisation et gestion d'entreprise et mathématiques appliquées et informatique du D.E.C.F. et de l'épreuve de soutenance d'un compte rendu du stage d'initiation du D.E.S.C.F., sous réserve que le stage ait été accompli auprès d'un membre de l'ordre ou dans les services comptables ou financiers d'une entreprise ou groupement dont la comptabilité est contrôlée par un membre de l'ordre ou un commissaire aux comptes.
+L'admission aux concours d'entrée des écoles supérieures de commerce et d'administration des entreprises (E.S.C.A.E.) d'Amiens, Bordeaux, Brest, Clermont-Ferrand, Dijon, Grenoble, Le Havre, Lille, Marseille, Montpellier, Nantes, Nice, Pau, Poitiers, Reims, Rouen, Toulouse et Tours dispense de l'ensemble des épreuves du D.P.E.C.F..
+
+L'école supérieure de commerce de Reims, toutes mentions, dispense de l'ensemble des épreuves du D.P.E.C.F., des épreuves intitulées Organisation et gestion d'entreprise et mathématiques appliquées et informatique du D.E.C.F. et de l'épreuve de soutenance d'un compte rendu du stage d'initiation du D.E.S.C.F., sous réserve que le stage ait été accompli auprès d'un membre de l'ordre ou dans les services comptables ou financiers d'une entreprise ou groupement dont la comptabilité est contrôlée par un membre de l'ordre ou un commissaire aux comptes.
 
 L'option Analyse, gestion et politique financière dispense, en sus des épreuves ci-dessus énumérées, de l'épreuve de gestion financière du D.E.C.F.
 
-L'option Contrôle de gestion dispense, en sus des épreuves ci-dessus énumérées, de l'épreuve de contrôle de gestion du D.E.C.F.    Le diplôme d'études supérieures commerciales, administratives et financières (D.E.S.C.A.F.) délivré par les E.S.C.A.E. susmentionnées dispense de l'ensemble des épreuves du D.P.E.C.F., des épreuves du D.E.C.F., respectivement intitulées Organisation et gestion de l'entreprise, Gestion financière et Mathématiques appliquées et informatique, et de l'épreuve de soutenance d'un compte rendu du stage d'initiation du D.E.S.C.F., sous réserve, pour cette dernière épreuve, d'avoir effectué le stage d'initiation auprès d'un membre de l'ordre ou dans les services comptables ou financiers d'une entreprise ou groupement dont la comptabilité est contrôlée par un membre de l'ordre ou un commissaire aux comptes de société.
+L'option Contrôle de gestion dispense, en sus des épreuves ci-dessus énumérées, de l'épreuve de contrôle de gestion du D.E.C.F.
+
+Le diplôme d'études supérieures commerciales, administratives et financières (D.E.S.C.A.F.) délivré par les E.S.C.A.E. susmentionnées dispense de l'ensemble des épreuves du D.P.E.C.F., des épreuves du D.E.C.F., respectivement intitulées Organisation et gestion de l'entreprise, Gestion financière et Mathématiques appliquées et informatique, et de l'épreuve de soutenance d'un compte rendu du stage d'initiation du D.E.S.C.F., sous réserve, pour cette dernière épreuve, d'avoir effectué le stage d'initiation auprès d'un membre de l'ordre ou dans les services comptables ou financiers d'une entreprise ou groupement dont la comptabilité est contrôlée par un membre de l'ordre ou un commissaire aux comptes de société.
 
 L'admission au concours d'entrée de l'Ecole supérieure de commerce de Lyon (E.S.C.L.) dispense de l'ensemble des épreuves du D.P.E.C.F..
 
@@ -194,7 +210,9 @@ toutes sections, dispense de l'ensemble des épreuves du D.P.E.C.F. et des épre
 
 section Contrôle de gestion, dispense de l'ensemble des épreuves du D.P.E.C.F., des épreuves du D.E.C.F., respectivement intitulées Organisation et gestion de l'entreprise, Gestion financière Mathématiques appliquées et informatique et Contrôle de gestion, et de l'épreuve de soutenance d'un compte rendu du stage d'initiation du D.E.S.C.F., sous réserve, pour cette dernière épreuve, d'avoir effectué le stage d'initiation auprès d'un membre de l'ordre ou dans les services comptables ou financiers d'une entreprise ou groupement dont la comptabilité est contrôlée par un membre de l'ordre ou un commissaire aux comptes de société ;
 
-section Comptabilité, dispense de l'ensemble des épreuves du D.P.E.C.F., des épreuves du D.E.C.F., respectivement intitulées Organisation et gestion de l'entreprise, Gestion financière, Mathématiques appliquées et informatique, Comptabilité approfondie et révision, et contrôle de gestion, et de l'épreuve de soutenance d'un compte rendu du stage d'initiation du D.E.S.C.F., sous réserve, pour cette dernière épreuve, d'avoir effectué le stage d'initiation auprès d'un membre de l'ordre ou dans les services comptables ou financiers d'une entreprise ou groupement dont la comptabilité est contrôlée par un membre de l'ordre ou un commissaire aux comptes de société.    Le diplôme de sortie de l'Ecole des hautes études commerciales pour les jeunes filles (H.E.C.-J.F.) dispense de l'ensemble des épreuves du D.P.E.C.F., de l'épreuve d'organisation et gestion de l'entreprise du D.E.C.F. et de l'épreuve de soutenance d'un compte rendu du stage d'initiation du D.E.S.C.F., sous réserve, pour cette dernière épreuve, d'avoir effectué le stage d'initiation auprès d'un membre de l'ordre ou dans les services comptables ou financiers d'une entreprise ou groupement dont la comptabilité est contrôlée par un membre de l'ordre ou un commissaire aux comptes.
+section Comptabilité, dispense de l'ensemble des épreuves du D.P.E.C.F., des épreuves du D.E.C.F., respectivement intitulées Organisation et gestion de l'entreprise, Gestion financière, Mathématiques appliquées et informatique, Comptabilité approfondie et révision, et contrôle de gestion, et de l'épreuve de soutenance d'un compte rendu du stage d'initiation du D.E.S.C.F., sous réserve, pour cette dernière épreuve, d'avoir effectué le stage d'initiation auprès d'un membre de l'ordre ou dans les services comptables ou financiers d'une entreprise ou groupement dont la comptabilité est contrôlée par un membre de l'ordre ou un commissaire aux comptes de société.
+
+Le diplôme de sortie de l'Ecole des hautes études commerciales pour les jeunes filles (H.E.C.-J.F.) dispense de l'ensemble des épreuves du D.P.E.C.F., de l'épreuve d'organisation et gestion de l'entreprise du D.E.C.F. et de l'épreuve de soutenance d'un compte rendu du stage d'initiation du D.E.S.C.F., sous réserve, pour cette dernière épreuve, d'avoir effectué le stage d'initiation auprès d'un membre de l'ordre ou dans les services comptables ou financiers d'une entreprise ou groupement dont la comptabilité est contrôlée par un membre de l'ordre ou un commissaire aux comptes.
 
 Le concours d'entrée de l'Institut commercial de Nancy (I.C.N.) dispense de l'ensemble des épreuves du D.P.E.C.F..
 
@@ -230,7 +248,9 @@ option Contrôle de gestion, dispense de l'ensemble des épreuves du D.P.E.C.F. 
 
 L'examen de sortie de l'Ecole du commissariat de l'air dispense de l'ensemble des épreuves du D.P.E.C.F..
 
-Le diplôme de sortie, option Expertise, audit et contrôle, délivré par l'Institut supérieur de commerce de Paris (I.S.C.) dispense de l'ensemble des épreuves du D.P.E.C.F., de l'épreuve d'organisation et gestion de l'entreprise du D.E.C.F. et de l'épreuve de soutenance d'un compte rendu du stage d'initiation du D.E.S.C.F..    Les diplômes de sortie de l'institut d'études politiques, toutes sections, institut d'économie d'entreprise et de formation sociale pour ingénieur (I.E.E.S.I.) de Lille, centre de perfectionnement aux affaires (C.P.A.) de Lyon, Paris, Lille, Toulouse et Nice, école européenne des affaires (E.A.P.) de Paris, institut de préparation à l'administration et à la gestion (I.P.A.G.) de Paris ; institut de commerce international (I.C.I.-ENE) (cycle de perfectionnement des cadres de l'exportation), école des cadres du commerce et des affaires économiques (E.D.C.) de Courbevoie dispensent de l'ensemble des épreuves du D.P.E.C.F.
+Le diplôme de sortie, option Expertise, audit et contrôle, délivré par l'Institut supérieur de commerce de Paris (I.S.C.) dispense de l'ensemble des épreuves du D.P.E.C.F., de l'épreuve d'organisation et gestion de l'entreprise du D.E.C.F. et de l'épreuve de soutenance d'un compte rendu du stage d'initiation du D.E.S.C.F..
+
+Les diplômes de sortie de l'institut d'études politiques, toutes sections, institut d'économie d'entreprise et de formation sociale pour ingénieur (I.E.E.S.I.) de Lille, centre de perfectionnement aux affaires (C.P.A.) de Lyon, Paris, Lille, Toulouse et Nice, école européenne des affaires (E.A.P.) de Paris, institut de préparation à l'administration et à la gestion (I.P.A.G.) de Paris ; institut de commerce international (I.C.I.-ENE) (cycle de perfectionnement des cadres de l'exportation), école des cadres du commerce et des affaires économiques (E.D.C.) de Courbevoie dispensent de l'ensemble des épreuves du D.P.E.C.F.
 
 Le diplôme de sortie de l'Ecole supérieure de commerce de La Rochelle (toutes options) : dispense de l'ensemble des épreuves du D.P.E.C.F., de l'épreuve Organisation et gestion de l'entreprise du D.E.C.F. et de l'épreuve de Soutenance d'un compte rendu du stage d'initiation du D.E.S.C.F., sous réserve, pour cette dernière épreuve, d'avoir effectué le stage d'initiation auprès d'un membre de l'ordre ou dans les services comptables ou financiers d'une entreprise ou groupement dont la comptabilité est contrôlée par un membre de l'ordre ou un commissaire aux comptes.
 
@@ -297,6 +317,22 @@ Le diplôme de sortie de l'Institut des hautes études économiques et commercia
 Le diplôme de sortie de l'Institut d'économie scientifique et de gestion (I.E.S.E.G.) de Lille dispense, en outre, des épreuves du D.P.E.C.F. respectivement intitulées Introduction au droit de l'entreprise et Comptabilité, et de l'épreuve de "gestion financière" du D.E.C.F.
 
 Le diplôme de sortie de l'Ecole des cadres, du commerce et des affaires économiques (E.D.C.) de Courbevoie dispense, en outre, de l'épreuve de Mathématiques appliquées et informatique du D.E.C.F..
+
+Diplôme universitaire de technologie (DUT), gestion administrative et commerciale : dispense des épreuves du DPECF respectivement intitulées économie, méthodes quantitatives, comptabilité et expression et communication.
+
+Diplôme d'études supérieures de gestion délivré par l'Institut national des télécommunications d'Evry : dispense de l'ensemble des épreuves du DPECF, ainsi que des épreuves du DECF respectivement intitulées organisation et gestion de l'entreprise, gestion financière et mathématiques appliquées et informatique.
+
+Diplôme d'études supérieures de gestion, filière finance et systèmes d'information financiers délivré par l'Institut national des télécommunications d'Evry : dispense de l'ensemble des épreuves du DPECF, ainsi que des épreuves du DECF respectivement intitulées organisation et gestion de l'entreprise, gestion financière et mathématiques appliquées et informatique et de l'épreuve du DESCF intitulée soutenance d'un compte rendu de stage d'initiation.
+
+Diplôme de sortie de l'Ecole supérieure de commerce et de management (ESCEM) Tours-Poitiers, filière audit et expertise juridique et comptable : dispense de l'ensemble des épreuves du DPECF, ainsi que des épreuves du DECF respectivement intitulées organisation et gestion de l'entreprise, gestion financière et mathématiques appliquées et informatique, et de l'épreuve du DESCF intitulée soutenance d'un compte rendu de stage d'initiation.
+
+Diplôme de sortie de l'Ecole supérieure de commerce et de management (ESCEM) Tours-Poitiers, toutes filières : ajouter la dispense des épreuves du DECF intitulée gestion financière et mathématiques appliquées et informatique.
+
+Diplôme de sortie de l'Ecole supérieure de commerce et de management (ESCEM) Tours-Poitiers, filière relations juridique de crédit, de travail et de contentieux : ajouter la dispense de l'épreuve du DECF intitulée mathématiques appliquées et informatique.
+
+Diplôme de sortie de l'Ecole supérieure de commerce et de management (ESCEM) Tours-Poitiers, filière ingénierie financière et finance de marché : ajouter la dispense de l'épreuve du DECF intitulée mathématiques appliquées et informatique.
+
+Diplôme de sortie de l'Ecole supérieure de commerce et de management (ESCEM) Tours-Poitiers, filière contrôle de gestion stratégique : ajouter la dispense de l'épreuve du DECF intitulée mathématiques appliquées et informatique.
 
 III - Titres professionnels.
 

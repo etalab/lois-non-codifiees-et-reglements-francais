@@ -87,3 +87,41 @@ La maîtrise en gestion de l'Institut national des sciences de gestion (I.N.S.G.
 Le diplôme d'études professionnelles approfondies du département Administration-gestion (D.E.P.A.) de l'université Senghor d'Alexandrie (Egypte) dispense des épreuves du D.P.E.C.F., respectivement intitulées Economie, Méthodes quantitatives et Expression et communication, des épreuves du D.E.C.F., respectivement intitulées Organisation et gestion de l'entreprise et Gestion financière et de l'épreuve de "soutenance d'un compte rendu du stage d'initiation" du D.E.S.C.F. sous réserve, pour cette dernière épreuve, d'avoir effectué le stage d'initiation auprès d'un membre de l'ordre des experts-comptables ou dans les services comptables ou financiers d'une entreprise ou d'un groupement dont la comptabilité est contrôlée par un membre de l'ordre des experts-comptables ou un commissaire aux comptes.
 
 Le diplôme universitaire de technologie (D.U.T.) de gestion de l'institut catholique de Yaoundé (Cameroun) dispense de l'ensemble des épreuves du D.P.E.C.F.
+
+Diplôme d'études supérieures spécialisées en gestion délivré par l'Institut supérieur de gestion des entreprises de Bujumbura (Burundi) :
+
+- filière finances-comptabilité : dispense des épreuves du DPECF respectivement intitulées économie, méthodes quantitatives, comptabilité, et expression et communication ;
+
+- filière gestion commerciale et industrielle : dispense des épreuves du diplôme préparatoire aux études comptables et financières (DPECF) respectivement intitulées économie, méthodes quantitatives, comptabilité et expression et communication.
+
+Licence en gestion délivrée par l'université Marien Ngouabi (Congo), option gestion financière et comptable : dispense des épreuves du DPECF respectivement intitulées économie, méthodes quantitatives, comptabilité et expression et communication.
+
+Licence en sciences économiques délivrée par l'université Cadi Ayyad de Marrakech (Maroc), option économie d'entreprise : dispense des épreuves du DPECF respectivement intitulées introduction au droit de l'entreprise, économie, comptabilité, ainsi que de l'épreuve du DECF intitulée organisation et gestion de l'entreprise et de l'épreuve du DESCF intitulée soutenance d'un compte rendu de stage d'initiation.
+
+Licence appliquée en management des systèmes d'information et de décision délivrée par l'université Cadi Ayyad de Marrakech (Maroc) :
+
+dispense de l'ensemble des épreuves du DPECF ainsi que des épreuves du diplôme DECF respectivement intitulées organisation et gestion de l'entreprise, mathématiques appliquées et informatique et de l'épreuve du DESCF intitulée soutenance d'un compte rendu de stage d'initiation.
+
+Diplôme d'études universitaires de premier cycle en économie et en gestion délivré par l'université libre de Tunis (Tunisie) :
+
+dispense des épreuves du DPECF respectivement intitulées économie, méthodes quantitatives, comptabilité et expression et communication.
+
+Diplôme des études universitaires de premier cycle en sciences comptables délivré par l'université libre de Tunis (Tunisie) :
+
+dispense de l'ensemble des épreuves du DPECF.
+
+Maîtrise en sciences comptables délivrée par l'université libre de Tunis (Tunisie) : dispense de l'ensemble des épreuves du DPECF ainsi que des épreuves du DECF respectivement intitulées organisation et gestion de l'entreprise, gestion financière, mathématiques appliquées et informatique et de l'épreuve du DESCF intitulée soutenance d'un compte rendu de stage d'initiation.
+
+Maîtrise en sciences et techniques comptables et financières délivrée par l'université libre de Tunis (Tunisie) : dispense de l'ensemble des épreuves du DPECF ainsi que des épreuves du DECF respectivement intitulées organisation et gestion de l'entreprise, gestion financière, mathématiques appliquées et informatique et de l'épreuve du DESCF intitulée soutenance d'un compte rendu de stage d'initiation.
+
+Maîtrise en finances délivrée par l'université libre de Tunis (Tunisie) : dispense de l'ensemble des épreuves du DPECF ainsi que des épreuves du DECF respectivement intitulées organisation et gestion de l'entreprise, gestion financière, mathématiques appliquées et informatique et de l'épreuve du DESCF intitulée soutenance d'un compte rendu de stage d'initiation.
+
+Diplôme de sortie délivré par l'Ecole supérieure de gestion de Casablanca (Maroc), option gestion finances : dispense de l'ensemble des épreuves du DPECF.
+
+Diplôme en ingénierie financière délivré par l'Ecole polyfinances de Casablanca (Maroc) : dispense de l'ensemble des épreuves du DPECF, ainsi que des épreuves du DECF respectivement intitulées organisation et gestion de l'entreprise, gestion financière, mathématiques appliquées et informatique.
+
+Diplôme en ingénierie financière délivré par l'Ecole polyfinances de Casablanca (Maroc), option finance d'entreprise : dispense de l'ensemble des épreuves du DPECF, ainsi que des épreuves du DECF respectivement intitulées organisation et gestion de l'entreprise, gestion financière, mathématiques appliquées et informatique et de l'épreuve du DESCF intitulée soutenance d'un compte rendu de stage d'initiation.
+
+Maîtrise de sciences et techniques comptables et financières délivrée par l'université catholique centrale de Yaoundé (Cameroun) :
+
+dispense de l'ensemble des épreuves du DPECF, des épreuves du DECF respectivement intitulées organisation et gestion de l'entreprise, gestion financière, mathématiques appliquées et informatique, comptabilité approfondie et révision, contrôle de gestion, ainsi que de l'épreuve du DESCF intitulée soutenance d'un compte rendu de stage d'initiation.
