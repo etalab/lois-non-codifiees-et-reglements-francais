@@ -1080,7 +1080,6 @@
 - [Arrêté du 27 avril 1995 (AGRP9500901A)](arrete-du-27-avril-1995-agrp9500901a)
 - [Arrêté du 27 avril 1995 (BUDD9570004A)](arrete-du-27-avril-1995-budd9570004a)
 - [Arrêté du 27 avril 1995 (DEFD9501297A)](arrete-du-27-avril-1995-defd9501297a)
-- [Arrêté du 27 avril 1995 (DEFD9501551A)](arrete-du-27-avril-1995-defd9501551a)
 - [Arrêté du 27 avril 1995 (ENVE9540001A)](arrete-du-27-avril-1995-enve9540001a)
 - [Arrêté du 27 avril 1995 (ENVN9540070A)](arrete-du-27-avril-1995-envn9540070a)
 - [Arrêté du 27 avril 1995 (INDP9500464A)](arrete-du-27-avril-1995-indp9500464a)
