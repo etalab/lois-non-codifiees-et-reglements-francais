@@ -1,7 +1,9 @@
 # Article 2
 
-Art. 2. -  Outre le médecin de prévention, le comité d'hygiène et de sécurité est composé comme suit :
+Le comité d'hygiène et de sécurité est composé comme suit :
 
-1. Trois représentants titulaires, dont l'agent chargé de la mise en oeuvre des règles d'hygiène et de sécurité, et trois représentants suppléants de l'administration ;
+1. Cinq représentants titulaires, dont l'un est chargé du secrétariat du comité, et cinq représentants suppléants de l'administration ;
 
-2. Cinq représentants titulaires et cinq représentants suppléants du personnel.
+2. Sept représentants titulaires du personnel, qui désignent l'un d'entre eux pour exercer les fonctions de secrétaire du comité, et sept représentants suppléants ;
+
+3. Le médecin de prévention.
