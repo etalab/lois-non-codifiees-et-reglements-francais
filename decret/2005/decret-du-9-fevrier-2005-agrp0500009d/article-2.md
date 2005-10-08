@@ -23,3 +23,9 @@ Châteauneuf-le-Rouge, Le Tholonet, Meyreuil, Peynier, Puyloubier, Rousset et Tr
 Dans le département du Var :
 
 Pourcieux et Pourrières.
+
+3° Les vins d'appellation d'origine contrôlée "Côtes de Provence" complétée du nom : "Fréjus" proviennent de raisins issus de parcelles ayant fait l'objet d'une procédure d'identification et situées dans l'aire géographique de production approuvée par le comité national des vins et eaux-de-vie de l'Institut national des appellations d'origine en sa séance des 8 et 9 juin 2005 et constituée par le territoire des communes suivantes :
+
+Dans le département du Var :
+
+Callas (partie), Fréjus, La Motte, Le Muy, Puget-sur-Argens, Roquebrune-sur-Argens, Saint-Raphaël, Trans-en-Provence (partie).

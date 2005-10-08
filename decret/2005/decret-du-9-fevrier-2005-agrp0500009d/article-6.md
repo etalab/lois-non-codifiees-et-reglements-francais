@@ -7,3 +7,7 @@ Ne peut être considéré comme étant à bonne maturité tout lot unitaire de v
 2° Les vins d'appellation d'origine contrôlée "Côtes de Provence" complétée du nom "Sainte-Victoire" proviennent de raisins récoltés à bonne maturité et présentant un titre alcoométrique volumique naturel minimum de 11,5 % pour les vins rosés et de 12 % pour les vins rouges.
 
 Ne peut être considéré comme étant à bonne maturité tout lot unitaire de vendange présentant une richesse en sucre inférieure à 178 grammes par litre de moût pour les vins rosés et à 189 grammes par litre de moût pour les vins rouges.
+
+3° Les vins d'appellation d'origine contrôlée "Côtes de Provence" complétée du nom : "Fréjus" proviennent de raisins récoltés à bonne maturité et présentant un titre alcoométrique volumique naturel minimum de 11,5 % pour les vins rosés et de 12 % pour les vins rouges.
+
+Ne peut être considéré comme étant à bonne maturité tout lot unitaire de vendanges présentant une richesse en sucre inférieure à 178 grammes par litre de moût pour les vins rosés et à 189 grammes par litre de moût pour les vins rouges.

@@ -17,3 +17,11 @@ Tout producteur désirant faire identifier une parcelle de vigne en effectue la 
 La liste des nouvelles parcelles identifiées est approuvée chaque année par le comité national des vins et eaux-de-vie de l'Institut national des appellations d'origine après avis de la commission d'experts susvisée.
 
 Les listes des critères et des parcelles identifiées peuvent être consultées auprès des services de l'Institut national des appellations d'origine et du syndicat de défense intéressé.
+
+3° L'identification des parcelles produisant les vins d'appellation d'origine contrôlée "Côtes de Provence" complétée du nom : "Fréjus" est effectuée sur la base de critères relatifs à leur lieu d'implantation, fixés par le comité national des vins et eaux-de-vie de l'Institut national des appellations d'origine en sa séance des 3 et 4 novembre 2004 après avis de la commission d'experts désignée à cet effet.
+
+Tout producteur désirant faire identifier une parcelle de vigne en effectue la demande auprès des services de l'Institut national des appellations d'origine avant le 1er février de l'année de récolte.
+
+La liste des nouvelles parcelles identifiées est approuvée chaque année par le comité national des vins et eaux-de-vie de l'Institut national des appellations d'origine après avis de la commission d'experts susvisée.
+
+Les listes des critères et des parcelles identifiées peuvent être consultées auprès des services de l'Institut national des appellations d'origine et du syndicat de défense intéressé.

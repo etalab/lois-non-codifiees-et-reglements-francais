@@ -6,9 +6,11 @@ Les candidats doivent remplir, au plus tard au 1er octobre de l'année considér
 
 - soit être titulaires d'un diplôme d'Etat de docteur vétérinaire ;
 
-- soit être anciens élèves de l'Ecole normale supérieure, section Sciences, de l'Ecole normale supérieure de Lyon ou de l'Ecole normale supérieure de Cachan, sections Mathématiques, Biochimie, Génie biologique, Chimie, Physique.
+Soit être anciens élèves de l'Ecole normale supérieure, de l'Ecole normale supérieure de Fontenay - Saint-Cloud, de l'Ecole normale supérieure de Lyon ou de l'Ecole normale supérieure de Cachan ;
 
-Toutefois, les élèves des écoles normales supérieures citées ci-dessus peuvent demander à s'inscrire s'ils ont accompli deux années d'études et s'ils sont titulaires d'une maîtrise à dominante Sciences de la vie et de la santé, Sciences de la Terre ou Sciences de la matière ;
+Toutefois, les élèves des écoles normales supérieures citées ci-dessus peuvent demander à s'inscrire s'ils ont accompli deux années d'études et s'ils sont titulaires d'une maîtrise à dominante Sciences de la vie et de la santé, Sciences de la Terre ou Sciences de la matière, lettres et sciences humaines ou s'ils ont validé une première année de master dans ces disciplines ;
+
+Soit être diplômés de l'Ecole nationale des chartes ;
 
 - soit être titulaires d'un des titres d'ingénieur diplômé délivrés par les établissements suivants :
 
@@ -55,5 +57,11 @@ Ecole nationale supérieure d'électrochimie et d'électrométallurgie (INP Gren
 Ecole nationale supérieure d'informatique et de mathématiques appliquées (INP Grenoble) ;
 
 Ecole nationale supérieure de physique (INP Grenoble).
+
+Institut national des sciences appliquées de Lyon (INSA) ;<RL    Institut national des sciences appliquées de Toulouse (INSA) ;
+
+Ecole nationale supérieure des mines de Saint-Etienne ;
+
+Ecole nationale supérieure d'électronique, informatique et radiocommunications de Bordeaux (ENSEIRB).
 
 - soit appartenir aux corps des enseignants-chercheurs de l'enseignement supérieur et exercer ses activités d'enseignement dans une unité de formation et de recherche de médecine, de pharmacie ou d'odontologie.

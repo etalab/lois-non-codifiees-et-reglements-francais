@@ -46,4 +46,26 @@ Les vins rouges et rosés proviennent de l'assemblage de raisins ou de vins issu
 
 Lorsqu'ils sont vinifiés séparément, les vins issus des différents cépages sont assemblés dans les récipients vinaires préalablement au prélèvement prévu à l'article R. 641-96 du code rural.
 
-3° L'encépagement est compris comme celui de la totalité des parcelles de l'exploitation produisant le vin de l'appellation pour la couleur considérée.
+3° Les vins rouges d'appellation d'origine contrôlée "Côtes de Provence" complétée du nom : "Fréjus" proviennent des cépages suivants : grenache N, mourvèdre N, syrah N.
+
+La proportion de chacun des cépages ne peut être supérieure à 60 % de l'encépagement.
+
+Les vins rosés d'appellation d'origine contrôlée "Côtes de Provence" complétée du nom : "Fréjus" proviennent des cépages suivants :
+
+a) Cépages principaux : grenache N, mourvèdre N, syrah N, tibouren N, représentant ensemble une proportion minimale de 80 %.
+
+Deux au moins des cépages principaux sont présents dans l'encépagement, sans que la proportion de l'un ne puisse être supérieure à 60 % de l'encépagement.
+
+Le cépage tibouren N représente une proportion minimale de :
+
+10 % de l'encépagement à partir de la récolte 2015 ;
+
+20 % de l'encépagement à partir de la récolte 2020.
+
+b) Cépages accessoires : cinsaut N.
+
+Les vins rouges et rosés proviennent de l'assemblage de raisins ou de vins issus de cépages visés au présent paragraphe.
+
+Lorsqu'ils sont vinifiés séparément, les vins issus des différents cépages sont assemblés dans les récipients vinaires préalablement au prélèvement prévu à l'article D. 641-96 du code rural.
+
+4° L'encépagement est compris comme celui de la totalité des parcelles de l'exploitation produisant le vin de l'appellation pour la couleur considérée.
