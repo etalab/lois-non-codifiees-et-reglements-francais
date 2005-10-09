@@ -115,6 +115,8 @@
 - [Arrêté du 7 juillet 2005 (MAEA0520100A)](arrete-du-7-juillet-2005-maea0520100a)
 - [Arrêté du 7 juillet 2005 (SANA0522349A)](arrete-du-7-juillet-2005-sana0522349a)
 - [Arrêté du 7 mars 2005 (MENP0500454A)](arrete-du-7-mars-2005-menp0500454a)
+- [Arrêté du 7 octobre 2005 (EQUP0501248A)](arrete-du-7-octobre-2005-equp0501248a)
+- [Arrêté du 7 octobre 2005 (EQUP0501249A)](arrete-du-7-octobre-2005-equp0501249a)
 - [Arrêté du 7 septembre 2005 (AGRA0502034A)](arrete-du-7-septembre-2005-agra0502034a)
 - [Arrêté du 7 septembre 2005 (DEFP0501082A)](arrete-du-7-septembre-2005-defp0501082a)
 - [Arrêté du 7 septembre 2005 (DEFP0501107A)](arrete-du-7-septembre-2005-defp0501107a)
