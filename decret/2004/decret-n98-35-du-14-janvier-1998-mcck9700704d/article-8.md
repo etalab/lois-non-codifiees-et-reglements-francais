@@ -1,6 +1,6 @@
 # Article 8
 
-I. - Sont seuls admis au bénéfice du soutien financier de l'industrie audiovisuelle les entreprises ou organismes établis en France. Les éditeurs de services de télévision sont exclus du bénéfice de ce soutien financier.
+I. - Sont seuls admis au bénéfice du soutien financier de l'industrie audiovisuelle prévu au II de l'article 1er les entreprises ou organismes établis en France. Les éditeurs de services de télévision sont exclus du bénéfice de ce soutien financier.
 
 II. - Pour l'octroi des aides mentionnées à l'article 3 du présent décret, les entreprises de production et de distribution doivent également satisfaire aux conditions suivantes :
 

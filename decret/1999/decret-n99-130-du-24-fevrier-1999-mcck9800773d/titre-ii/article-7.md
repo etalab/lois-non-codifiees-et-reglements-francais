@@ -1,6 +1,6 @@
 # Article 7
 
-I. - Sont seuls admis au bénéfice du soutien financier de l'industrie cinématographique les entreprises et organismes établis en France. Les entreprises appartenant à l'industrie cinématographique doivent être titulaires de l'autorisation prévue à l'article 14 du code de l'industrie cinématographique lorsque celle-ci est obligatoire.
+I. - Sont seuls admis au bénéfice du soutien financier de l'industrie cinématographique prévu aux articles 2 et 4 les entreprises et organismes établis en France. Les entreprises appartenant à l'industrie cinématographique doivent être titulaires de l'autorisation prévue à l'article 14 du code de l'industrie cinématographique lorsque celle-ci est obligatoire.
 
 II. - Les entreprises de production doivent, en outre, satisfaire aux conditions suivantes :
 

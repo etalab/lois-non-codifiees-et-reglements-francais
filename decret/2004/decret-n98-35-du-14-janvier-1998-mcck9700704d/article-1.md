@@ -14,6 +14,6 @@ II. - Des subventions sont destinées à accorder un soutien financier :
 
 III. - Des subventions sont également destinées à doter :
 
-1° Un fonds constitué auprès de la société anonyme dénommée Institut pour le financement du cinéma et des industries culturelles en vue de garantir des prêts à court et à moyen terme accordés par les établissements de crédit aux entreprises appartenant à l'industrie audiovisuelle. Les conditions de dotation du fonds ainsi que les conditions d'attribution des garanties de prêts font l'objet de conventions conclues entre l'Etat représenté par le ministre chargé de la culture et le ministre chargé de l'économie et des finances, le Centre national de la cinématographie et l'Institut pour le financement du cinéma et des industries culturelles ;
+1° Un fonds constitué auprès de la société anonyme dénommée Institut pour le financement du cinéma et des industries culturelles. Les conditions de gestion et de fonctionnement du fonds sont fixées par convention entre l'Etat, représenté par le ministre chargé de la culture et le ministre chargé de l'économie, le Centre national de la cinématographie et l'Institut pour le financement du cinéma et des industries culturelles.
 
 2° Les fonds d'aide à la création et à la production d'oeuvres audiovisuelles mis en place par les collectivités territoriales. Les conditions de dotation des fonds font l'objet de conventions entre le Centre national de la cinématographie et les collectivités territoriales.
