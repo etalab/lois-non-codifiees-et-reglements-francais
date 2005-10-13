@@ -613,5 +613,6 @@
 - [Arrêté du 31 janvier 2005 (SANS0520363A)](arrete-du-31-janvier-2005-sans0520363a)
 - [Arrêté du 31 janvier 2005 (SOCU0510098A)](arrete-du-31-janvier-2005-socu0510098a)
 - [Arrêté du 31 janvier 2005 (SOCU0510099A)](arrete-du-31-janvier-2005-socu0510099a)
+- [Arrêté du 31 mars 2005 (DEFP0501353A)](arrete-du-31-mars-2005-defp0501353a)
 - [Arrêté du 31 mai 2005 (ECOT0495162A)](arrete-du-31-mai-2005-ecot0495162a)
 - [Arrêté du 31 mai 2006 (SANC0620917A)](arrete-du-31-mai-2006-sanc0620917a)

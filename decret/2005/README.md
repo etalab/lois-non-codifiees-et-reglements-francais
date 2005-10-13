@@ -350,6 +350,8 @@
 - [Décret n°2005-1171 du 12 septembre 2005 (ECOO0500103D)](decret-n2005-1171-du-12-septembre-2005-ecoo0500103d)
 - [Décret n°2005-1172 du 12 septembre 2005 (SANS0522878D)](decret-n2005-1172-du-12-septembre-2005-sans0522878d)
 - [Décret n°2005-1173 du 12 septembre 2005 (AGRF0501918D)](decret-n2005-1173-du-12-septembre-2005-agrf0501918d)
+- [Décret n°2005-1269 du 12 octobre 2005 (INTE0500249D)](decret-n2005-1269-du-12-octobre-2005-inte0500249d)
+- [Décret n°2005-1270 du 12 octobre 2005 (INTR0500290D)](decret-n2005-1270-du-12-octobre-2005-intr0500290d)
 - [Décret n°2005-28 du 12 janvier 2005 (DEVO0420062D)](decret-n2005-28-du-12-janvier-2005-devo0420062d)
 - [Décret n°2005-29 du 12 janvier 2005 (DEVP0420068D)](decret-n2005-29-du-12-janvier-2005-devp0420068d)
 - [Décret n°2005-344 du 12 avril 2005 (ECOC0500028D)](decret-n2005-344-du-12-avril-2005-ecoc0500028d)
