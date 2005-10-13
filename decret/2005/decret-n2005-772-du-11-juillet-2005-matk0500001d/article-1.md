@@ -4,4 +4,4 @@ M. Christian Estrosi, ministre délégué à l'aménagement du territoire, exerc
 
 Il connaît en outre de toutes les affaires que le ministre d'Etat, ministre de l'intérieur et de l'aménagement du territoire, lui confie.
 
-Il peut présider, par délégation du Premier ministre et du ministre d'Etat, ministre de l'intérieur et de l'aménagement du territoire, le comité interministériel d'aménagement et de développement du territoire.
+Il peut présider, par délégation du Premier ministre et du ministre d'Etat, ministre de l'intérieur et de l'aménagement du territoire, le comité interministériel d'aménagement et de compétitivité des territoires.

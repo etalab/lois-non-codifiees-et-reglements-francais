@@ -16,7 +16,7 @@ Il participe dans ces domaines aux négociations européennes et internationales
 
 Le bureau du financement et du développement des entreprises
 
-Il propose et met en oeuvre les mesures visant à améliorer le financement des entreprises. Il prend part à l'élaboration des normes, notamment juridiques et fiscales, qui déterminent les conditions de création et de localisation des entreprises sur le territoire national, et concourt à la mise en oeuvre des instruments d'intervention publique en ce domaine ; à ce titre, il participe notamment à l'élaboration de la politique d'attractivité et d'aménagement du territoire et concourt à la préparation des travaux du comité interministériel d'aménagement et de développement du territoire.
+Il propose et met en oeuvre les mesures visant à améliorer le financement des entreprises. Il prend part à l'élaboration des normes, notamment juridiques et fiscales, qui déterminent les conditions de création et de localisation des entreprises sur le territoire national, et concourt à la mise en oeuvre des instruments d'intervention publique en ce domaine ; à ce titre, il participe notamment à l'élaboration de la politique d'attractivité et d'aménagement du territoire et concourt à la préparation des travaux du comité interministériel d'aménagement et de compétitivité des territoires.
 
 Il représente la direction générale dans les organismes ou comités qui contribuent au financement des entreprises et exerce notamment la tutelle de la Banque de développement des petites et moyennes entreprises (BDPME).
 

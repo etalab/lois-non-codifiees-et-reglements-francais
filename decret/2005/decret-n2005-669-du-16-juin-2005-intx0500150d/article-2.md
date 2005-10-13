@@ -6,4 +6,4 @@ A ce titre, il participe à la détermination de la politique d'aménagement du 
 
 Il est responsable de la mise en oeuvre de la politique d'aménagement du territoire et de son évaluation.
 
-Il peut présider, par délégation du Premier ministre, le comité interministériel de l'aménagement et du développement du territoire.
+Il peut présider, par délégation du Premier ministre, le comité interministériel d'aménagement et de compétitivité des territoires.
