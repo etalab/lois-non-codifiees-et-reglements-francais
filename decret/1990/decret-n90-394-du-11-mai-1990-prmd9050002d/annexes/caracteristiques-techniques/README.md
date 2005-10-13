@@ -1,3 +1,0 @@
-# CARACTÉRISTIQUES TECHNIQUES : DU SIGNAL D'ALERTE NATIONAL.
-
-- [Article ANNEXE I](article-annexe-i.md)

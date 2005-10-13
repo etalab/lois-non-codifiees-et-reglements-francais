@@ -1,3 +1,0 @@
-# Article 6
-
-Le signal national d'alerte a pour objet d'avertir la population de la nécessité de s'abriter immédiatement en un lieu protégé et de se porter à l'écoute de l'un des programmes nationaux de radiodiffusion sonore émis par la Société nationale de programme Radio France, pour la métropole, ou de l'un des programmes locaux de radiodiffusion sonore émis par la Société nationale de programme Radio France outre-mer, pour les départements d'outre-mer ; ces programmes sont mentionnés dans un arrêté conjoint du ministre chargé de la communication et du ministre chargé de la sécurité civile.
