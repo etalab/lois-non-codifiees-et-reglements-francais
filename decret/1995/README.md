@@ -682,7 +682,6 @@
 - [Décret n°95-1300 du 19 décembre 1995 (MCCB9500670D)](decret-n95-1300-du-19-decembre-1995-mccb9500670d)
 - [Décret n°95-411 du 19 avril 1995 (PRMX9500030D)](decret-n95-411-du-19-avril-1995-prmx9500030d)
 - [Décret n°95-413 du 19 avril 1995 (INTB9500101D)](decret-n95-413-du-19-avril-1995-intb9500101d)
-- [Décret n°95-414 du 19 avril 1995 (INTX9500734D)](decret-n95-414-du-19-avril-1995-intx9500734d)
 - [Décret n°95-425 du 19 avril 1995 (DEFP9402239D)](decret-n95-425-du-19-avril-1995-defp9402239d)
 - [Décret n°95-427 du 19 avril 1995 (INDE9500161D)](decret-n95-427-du-19-avril-1995-inde9500161d)
 - [Décret n°95-431 du 19 avril 1995 (AGRA9500266D)](decret-n95-431-du-19-avril-1995-agra9500266d)
