@@ -286,7 +286,6 @@
 - [Arrêté du 15 janvier 2001 (ATEN0100034A)](arrete-du-15-janvier-2001-aten0100034a)
 - [Arrêté du 15 janvier 2001 (DEFP0101072A)](arrete-du-15-janvier-2001-defp0101072a)
 - [Arrêté du 15 janvier 2001 (ECOB0150003A)](arrete-du-15-janvier-2001-ecob0150003a)
-- [Arrêté du 15 juin 2001 (AGRG0100887A)](arrete-du-15-juin-2001-agrg0100887a)
 - [Arrêté du 15 juin 2001 (AGRG0100888A)](arrete-du-15-juin-2001-agrg0100888a)
 - [Arrêté du 15 juin 2001 (MENE0101231A)](arrete-du-15-juin-2001-mene0101231a)
 - [Arrêté du 15 juin 2001 (MENP0101306A)](arrete-du-15-juin-2001-menp0101306a)
