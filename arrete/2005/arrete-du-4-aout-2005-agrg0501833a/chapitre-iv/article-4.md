@@ -1,0 +1,3 @@
+# Article 4
+
+Sans préjudice des dispositions de l'arrêté du 11 mars 1996 susvisé, les produits contenant ou préparés à partir de matières animales, lorsqu'ils proviennent d'un autre Etat membre de l'Union européenne, qu'ils ont le statut de marchandise communautaire et qu'ils sont destinés à l'alimentation et à la fabrication d'aliments des animaux familiers, doivent être accompagnés d'un document commercial d'accompagnement tel que prévu par le règlement (CE) n° 93/2005 susvisé ou, le cas échéant, d'un certificat sanitaire, complété par l'attestation prévue au chapitre Ier de l'annexe I du présent arrêté.

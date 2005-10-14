@@ -388,6 +388,7 @@
 - [Décret n°2005-1179 du 13 septembre 2005 (SANY0522966D)](decret-n2005-1179-du-13-septembre-2005-sany0522966d)
 - [Décret n°2005-1180 du 13 septembre 2005 (SANP0522987D)](decret-n2005-1180-du-13-septembre-2005-sanp0522987d)
 - [Décret n°2005-1188 du 13 septembre 2005 (MENS0501935D)](decret-n2005-1188-du-13-septembre-2005-mens0501935d)
+- [Décret n°2005-1279 du 13 octobre 2005 (MENF0502197D)](decret-n2005-1279-du-13-octobre-2005-menf0502197d)
 - [Décret n°2005-26 du 13 janvier 2005 (BUDF0400046D)](decret-n2005-26-du-13-janvier-2005-budf0400046d)
 - [Décret n°2005-27 du 13 janvier 2005 (BUDF0400059D)](decret-n2005-27-du-13-janvier-2005-budf0400059d)
 - [Décret n°2005-348 du 13 avril 2005 (AGRF0500057D)](decret-n2005-348-du-13-avril-2005-agrf0500057d)
