@@ -2,6 +2,8 @@
 
 Participent aux différentes opérations du concours :
 
-- le jury d'admission dont la composition est définie à l'article 4 de l'arrêté du 23 novembre 2001 susvisé ;
+-le jury d'admission dont la composition est définie à l'article 4 de l'arrêté du 23 novembre 2001 susvisé ;
 
-- les examinateurs chargés des épreuves orales pour la seconde voie du concours.
+-les examinateurs chargés des épreuves orales et écrites d'admission pour la seconde voie du concours ;
+
+-les coordinateurs de matières.

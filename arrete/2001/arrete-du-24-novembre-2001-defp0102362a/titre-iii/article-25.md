@@ -1,7 +1,11 @@
 # Article 25
 
-Une moyenne de classement N est établie pour chaque candidat ayant subi toutes les épreuves. Elle est définie par la formule suivante :
+Une moyenne de classement est établie pour chaque candidat ayant subi toutes les épreuves compte tenu des coefficients suivants affectés à chaque épreuve :
 
-N = (4M+P + sup 9, F)/9
+6 pour l'épreuve de mathématiques ;
 
-dans laquelle M, P, F représentent respectivement les notes obtenues aux épreuves de mathématiques, de sciences physiques et de français et dans laquelle sup 9, F représente le plus grand des deux nombres 9 et F. Le total des coefficients (4 pour les épreuves de mathématiques et de sciences physiques, 1 pour la culture générale scientifique) est de 9.
+4 pour l'épreuve de sciences physiques ;
+
+2 pour l'épreuve de culture générale scientifique.
+
+Le total des coefficients est de 12.
