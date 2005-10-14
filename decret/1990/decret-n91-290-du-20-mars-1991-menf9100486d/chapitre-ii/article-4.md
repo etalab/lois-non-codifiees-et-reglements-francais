@@ -6,7 +6,7 @@ Peuvent se présenter au concours interne :
 
 1° Les fonctionnaires de l'Etat, des collectivités territoriales ou des établissements publics qui en dépendent justifiant de trois années de services publics ;
 
-2° Les personnels non titulaires exerçant des fonctions d'information et d'orientation dans les services d'information et d'orientation et dans les établissements publics relevant du ministre chargé de l'éducation justifiant de trois années de services publics.
+2° Les personnels non titulaires exerçant des fonctions d'information et d'orientation dans les services d'information et d'orientation et dans les établissements publics relevant du ministre chargé de l'éducation ainsi que les candidats ayant exercé ces fonctions dans les mêmes services et établissements pendant tout ou partie de la période comprise entre le 1er septembre de l'une des six dernières années scolaires et la date de clôture des inscriptions au concours. L'ensemble des candidats doit justifier de trois années de services publics.
 
 Les uns et les autres doivent justifier de l'un des diplômes requis des candidats au concours externe.
 
