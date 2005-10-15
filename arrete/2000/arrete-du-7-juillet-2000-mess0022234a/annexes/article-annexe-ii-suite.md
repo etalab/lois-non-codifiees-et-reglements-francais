@@ -26,6 +26,8 @@ Busson Jotereau :
 
 - quai de la Cabaude, 85100 Les Sables-d'Olonne : depuis 1964.
 
+BUTAUD Fils. Quai de la Cabaude, 85100 Les Sables-d'Olonne. De 1965 à 1996.
+
 CAMOM :
 
 - ZI Bonne Nouvelle, BP 15, 44480 Donges : depuis 1985.
@@ -106,6 +108,8 @@ Evers Isolation :
 
 - 4, rue de la Maladrerie, ZI Vertonne, 44120 Vertou : de 1960 à 1977.
 
+FRIOU Michel. 17, quai Gorin, 85800 Saint-Gilles-Croix-de-Vie. De 1965 à 1977.
+
 Gardella Atlantique/PSI :
 
 - quai Demange et boulevard des Apprentis, 44600 Saint-Nazaire : de 1979 à 1998.
@@ -140,7 +144,9 @@ Masson SA, quai de la Cabaude, 85100 Les Sables-d'Olonne, depuis 1972.
 
 Marine électronique atlantique (MEA), 70, quai de la Fosse, 44000 Nantes, de sa création à 1988.
 
-Meca-Nvale rue des Pluviers, BP 1, 44490 Le Croisic De 1972 à 1995
+MECASOUD. Quai des Charbonniers, 44600 Saint-Nazaire. De 1975 à 1995.
+
+Meca-Navale rue des Pluviers, BP 1, 44490 Le Croisic De 1972 à 1995
 
 Morandeau, puis ACOOME, puis SO.SA.ME.NA, 85110 Les Sables-d'Olonne, de sa création à 2002.
 
@@ -192,6 +198,10 @@ SNEF :
 
 - ZI de Jouy, 44480 Donges : depuis sa création.
 
+SNEF Nantes - Saint-Herblain. Rue Bobby-Sands, 44800 Saint-Herblain. Depuis 1980.
+
+SNEF Saint-Nazaire. 14 et 192, rue de Trignac, 44600 Saint-Nazaire. De 1980 à 1994.
+
 SNT :
 
 - boulevard des Apprentis, 44550 Montoir-de-Bretagne : de 1974 à 1986.
@@ -223,6 +233,8 @@ Société nazairienne de mécanique, 87, rue Henri-Gautier, 44550 Montoir-de-Bre
 Société nouvelle radio maritime 47, rue Saint-Claude, 17000 La Rochelle puis avenue Marillac/Village informatique, 17008 La Rochelle Cedex (siège social : 4, route principale du port, 92230 Gennevilliers. De 1987 à 1999.
 
 Société SMPA (société de mécanique de précision de l'Atlantique), filiale des Chantiers de l'Atlantique Montoir de Bretagne. De 1960 à 1969.
+
+Société THIRIET CATTIN. 2, avenue des Noëlles, 44500 La Baule. De sa création à 1977.
 
 SOFRADI puis SOFRALI :
 
@@ -430,9 +442,7 @@ Compagnie méridionale de navigation (CMN) :
 
 Construction réparation terrestres et maritimes (CRTM), ZAC des Chabauds, 13320 Bouc-Bel-Air : de 1979 à 1998.
 
-Constructions et installations électriques du Littoral :
-
-- ZI camp Laurent, 83500 La Seyne-sur-Mer : depuis 1946.
+Constructions et Installations électriques du littoral, 18, rue Anatole-France, 83000 Toulon, puis 1, boulevard Albert-Ier, 83500 La Seyne-sur-Mer, puis ZI Camp Laurent, 83500 La Seyne-sur-Mer : depuis 1946.
 
 Contrôle mesure régulation (CMR), technopole du Château-Gombert, 7, rue John-Maynard-Keynes, BP 85, 13381 Marseille Cedex 13 : de 1958 à 2002
 
@@ -445,6 +455,8 @@ Cotre :
 Covini SA/Covini SN/Covini Entreprise SA, ZI Camp-Laurent, 83500 La Seyne-sur-Mer, puis 525, chemin des Négadoux, 83140 Six-Fours-les-Plages : depuis 1970
 
 CPM (Compagnie provençale de mécanique), boulevard Toussaint-Merle, site Marépolis, 83500 La Seyne-sur-Mer : de 1989 à 1996.
+
+CRM (Compagnie radio maritime). 27, rue de la République, 13001 Marseille, puis 17-19, rue Fauchier, 13008 Marseille. De 1957 à 1987.
 
 CTIM/MTC 5 avenue de la Côte-Bleue, 13 820 Ensues-la-Redonne depuis 1994
 
@@ -522,6 +534,8 @@ Entreprise Morana Jean, puis Morana SA, puis SARL Morana, puis Chaudronnerie ind
 
 Entreprise Pidery, villa Le Grand Souffle, vallon de Graffiane, 13820 Ensuès-la-Redonne : de 1979 à 1980.
 
+Entreprise Sambarino-Bondil Quartier Peyron, chemin Monneyret 83500 La Seyne-sur-Mer ;
+
 Entreprise Series Marius Avenue Infanterie-de-Marine, 83000 Toulon ;
 
 Entreprise Sopametra, 4, rue Blanchard, 13600 La Ciotat, de 1972 à 1978.
@@ -530,6 +544,8 @@ Entreprise Stiffa père et fils, bassin du radoub, forme III, 13002 Marseille : 
 
 Entreprise Stiffa Gilbert, bassin du radoub, forme III, 13002 Marseille : de 1977 à 1978.
 
+Entreprise varoise de montage. Extension Plein Sud, 8-12, avenue de la Pétanque, 13600 La Ciotat. De 1969 à 1987.
+
 Entreprises et constructions de la Méditerranée (ECM) :
 
 - 9, boulevard Gay-Lussac, 13014 Marseille : de 1978 à 1984.
@@ -537,8 +553,6 @@ Entreprises et constructions de la Méditerranée (ECM) :
 - 12, boulevard Frédéric-Sauvage, 13015 Marseille : de 1978 à 1984.
 
 - quai des Agglomérés, 13110 Port-de-Bouc : de 1978 à 1984.
-
-Entreprise Sambarino-Bondil Quartier Peyron, chemin Monneyret 83500 La Seyne-sur-Mer ;
 
 EPMI :
 
@@ -555,6 +569,8 @@ Etablissement Pegulu :
 - chantiers navals de La Seyne : de 1936 à 1970 ;
 
 - DCN Toulon : de 1983 à 1993.
+
+Etablissements BARBER. 5, rue du Saule-Pleureur, 13015 Marseille. De 1973 à 1988.
 
 Etablissements Conso :
 
@@ -633,10 +649,6 @@ I Tech, 151, avenue des Aygalades, 13015 Marseille, de 1976 à 2000.
 Jean Quaranta, 21, rue Forest, 13007 Marseille : de 1957 à 1973, puis Jean Quaranta, 38, rue Perlet, 13007 Marseille : de 1973 à 1979, puis société Jean Quaranta, 38, rue Perlet, 13007 Marseille : de 1979 à 1994.
 
 La Phocéenne du froid, 86, boulevard de Bonnes-Grâces, 13003 Marseille, de 1979 à 1990.
-
-Leroux et Lotz :
-
-- zone du Pouverel, 131, rue Denis-Papin, 83130 La Garde : depuis sa création.
 
 Lexmar, 45, quai de Stalingrad, 13600 La Ciotat, de 1990 à 1991.
 
@@ -800,11 +812,17 @@ SARL CTIM ZI d'Avon 13120 Gardanne Depuis 1994.
 
 SARL Industrie marine, 40, quai Hoche, 83500 La Seyne-sur-Mer, de 1969 à 1983.
 
+SARL LEROUX et LOTZ Maintenance, zone du Pouverel, 131, rue Denis-Papin, 83130 La Garde : depuis sa création
+
+SARL Naval service. 467, chemin du Littoral, port d'activités Mourepiane 30, 13016 Marseille. De 1995 à 1999.
+
 SARL SERBIM/SERBIM Industries :
 
 - RN 8, La Malle, 13320 Bouc-Bel-Air, et 2, boulevard des Bassins-de-Radoub, 13002 Marseille : depuis 1965.
 
 SARL SMECA mécanique générale, industrielle maritime, 3, boulevard Bernabo, Marseille, de 1989 à 1991.
+
+SARL SOTER. 1, avenue Kennedy, 13600 La Ciotat. De 1973 à 1978.
 
 Satim industrie, 146, chemin de la Madrague ville, 13015 Marseille : de 1993 à 1994.
 
@@ -874,7 +892,7 @@ SCM/Chaudronnerie méridionale :
 
 - 30, chemin du Littoral, 13002 Marseille : depuis 1995.
 
-SCOP des chantiers navals de Barriol SCOP des chantiers navals de Barriol. Depuis 1988
+SCOP des chantiers navals de Barriol, 51, route de Barriol, 13200 Arles : depuis 1981.
 
 SEMATER :
 
@@ -933,6 +951,8 @@ Société d'exploitation ciotadienne des établissements Gardella :
 Société d'optique, mesure et contrôle/SA Fabre MESURELEC :
 
 - 48, rue de la République, 13002 Marseille : depuis 1928.
+
+Société des anciens Ets Henri SATRE, 51, route de Barriol, 13200 Arles, et quai Bonnardel, Port-Saint-Louis-du-Rhône : de 1961 à 1981.
 
 Société des ateliers de la Méditerranée :
 
@@ -1028,6 +1048,8 @@ SONOCAR :
 
 - rue Gilly, 83200 Toulon, zone portuaire de Brégallon, avenue de la 1re-Armée-Française, 83500 La Seyne : depuis 1978.
 
+SOPREMO. 1, avenue Kennedy, 13600 La Ciotat. De 1975 à 1983.
+
 SORAMA, centre de la réparation navale de Mourepiane, 13002 Marseille, puis domaine de Font blanche, parc d'activités de l'Avégon, 13700 Les Pennes-Mira‑la Madrague-Ville, à Marseille, de 1962 à 1988
 
 SOREM Industrie :
@@ -1041,6 +1063,10 @@ SOTRAS, Société des travaux du Sud, 78, boulevard du Parc, 13004 Marseille, de
 SOTRASUD :
 
 - 27, avenue Gambetta, 83500 La Seyne, ZI Les Négadoux, 83140 Six-Fours : de 1985 à 1998.
+
+SOVAGAME. 140, avenue Louis-Lagrange, ZI Toulon Est, La Garde, 83088 Toulon. De 1995 à 1997.
+
+SOVAMEC. 423, avenue A.-Gance, 83130 La Garde. De 1991 à 1995.
 
 SRPAM, quai de la Lecque, BP 205, 13528 Port-de-Bouc Cedex, et les quais, forme 10, L'Estaque, 13016 Marseille : de 1966 à 1997.
 

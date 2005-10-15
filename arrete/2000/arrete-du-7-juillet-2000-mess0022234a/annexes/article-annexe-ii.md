@@ -46,6 +46,8 @@ ACE société ACE (GIE) :
 
 - 1, rue des Claires, BP 59, 50460 Querqueville : depuis sa création.
 
+ACMC Bâtiment 8, terre-plein des Mielles, 50110 Tourlaville. De 1999 à 2003.
+
 ACMH :
 
 - quai Nord du Bassin de l'Est, 14600 Honfleur : de 1933 à 1989.
@@ -114,9 +116,7 @@ Lardet Babcock :
 
 - 6, rue Guiffard, 50100 Cherbourg : depuis sa création.
 
-Leroux et Lotz Marine/Leroux et Lotz Marine industrie/Leroux et Lotz Normandie/Leroux et Lotz SMCT (LLS)/SMCT/CIA (Constructions industrielles de l'Atlantique), 1, rue Gambetta, 50110 Tourlaville, et ZI Les Mielles, 50110 Tourlaville : de 1955 à 1999.
-
-Leroux et Lotz Normandie, 1, rue Gambetta, 50110 Tourlaville : de 1990 à 1993.
+Leroux et Lotz marine/Leroux et Lotz marine industrie/Leroux et Lotz Normandie/Leroux et Lotz SMCT (LLS)/ SMCT/CIA (Constructions industrielles de l'Atlantique)/groupement Leroux Bastide Thiriet, 1, rue Gambetta, 50110 Tourlaville, et 2, chemin des Chênes, 50110 Octeville, et ZI les Mielles, 50110 Tourlaville : de 1955 à 1999.
 
 Les chantiers normands réunis 14470 Courseuilles-sur-Mer : De 1966 à 1996.
 
@@ -312,6 +312,8 @@ Bolcioni :
 
 - 8, rue Amiral-Troude, 29200 Brest : depuis sa création.
 
+BONNEC, puis SARL POLYESTA 10, rue Chalutier-Les-Deux-Anges, 56100 Lorient. De 1970 à 1987.
+
 Breiz-Elec, 25, quai du Pourquoi-Pas, 56100 Lorient : de 1976 à 1996.
 
 Brouard, Arsenal, 29200 Brest : depuis sa création.
@@ -345,8 +347,6 @@ Chantier naval Ernest Sibiril, 21, rue La Motte-Picquet, BP 6, 29660 Carentec, d
 Chantier naval Herbert-Heraud, puis Chantiers de Bretagne-Sud, Le Pont-Lorois, 56550 Belz : de 1953 à 1991.
 
 Chantier naval Hyppolyte Le Bars, 13, rue du Port, 29900 Concarneau, de sa création à 1985.
-
-Chantiers de la Haute-Seine, rue des Voeux-de-Saint-Georges, 94290 Villeneuve-le-Roi : depuis sa création à 1995.
 
 Chantiers de La Perriere, Arsenal, 29200 Brest : depuis sa création.
 
@@ -398,6 +398,10 @@ CRM (Compagnie Radio maritime) Concarneau, ZI du Moros, port de pêche, 29110 Co
 
 CRM (Compagnie Radio maritime) Douarnenez, 3, rue de l'Observatoire, puis 1, quai des Langoustiers, 29100 Douarnenez : depuis 1950.
 
+CRM (Compagnie radio maritime). Quai Armand-Dayot, 22500 Paimpol. De 1982 à 1986.
+
+CRM (Compagnie radio maritime). 14, rue de Victoire, 22410 Saint-Quay-Portrieux. De 1973 à 1986.
+
 CSEE, 8, rue Théodore-Botrel, 29200 Brest, puis 2, quai de la Douane, 29200 Brest : depuis 1965.
 
 CVB (chauffage et ventilation), rue de l'Eau-Blanche, puis rue de Maupertuis, 29200 Brest : de 1965 à 1988.
@@ -447,6 +451,8 @@ Etablissements Chouteau :
 - port de Guerre, 56100 Lorient : de 1971 à 1998.
 
 Etablissement François Meunier, 2, rue Réaumur, ZI de Kergonan, 29200 Brest : de 1960 à 1984, puis SA Etablissements François Meunier, 2, rue Réaumur, ZI de Kergonan, 29200 Brest, puis 12 bis, rue de Villeneuve, 29200 Brest : depuis 1984
+
+Etablissements GAUTIER et Cie. 8, rue Charles-Tellier, 56100 Lorient. De 1941 à 1994.
 
 Etablissements Guerif et Moreau/Etablissements généraux de mécanique de l'Ouest/Société d'exploitation des procédés EGMO/EGMOCAR :
 
@@ -612,13 +618,17 @@ Maison Grouhel Camaret :
 
 MBR (Marine Bretagne Réparation), 3, quai Armand-Considere, 29200 Brest : de sa création à 1998.
 
-Meca Diesel/Diesel Marine Bretagne :
-
 Naval Iroise, quai de Cambarel-Lanildut, 29236 Porspoder : de 1982 à 1993.
+
+MECAMAR. Rue Alain-Colas, 29200 Brest. Depuis 1996.
 
 Naviplast/Sodirev/Naviplast marine industrie, rue Ingénieur-Verriere, port de pêche, 56100 Lorient : depuis 1960.
 
 Peron Albert La Pointe de Rocamandour, 29570 Camaret-sur-Mer de 1960 à 1990.
+
+PLASTIQUES DE L'OUEST-PLASTIQUES DE BRETAGNE. Pen Mané, 56570 Locmiquelic, puis rue Daniel-Trudaine, 56000 Lanester.
+
+De 1961 à 1981.
 
 Poly Alu Forge Cariou, terre-plein du Port, 29730 Le Guilvinec : depuis 1987
 
@@ -672,7 +682,7 @@ Peinture navale, puis Société Brestoise peinture navale, rue Chevillotte, 2920
 
 Pierre Glehen/Chantiers navals Pierre Glehen et fils, 51, rue Jean-Jaures, 29730 Le Guilvinec : depuis 1956.
 
-Piriou : anse du Lin, 29110 Concarneau, de 1965 à 1972 et ZI du Moros, 29110 Concarneau : depuis 1972.
+PIRIOU, Anse du Lin, 29110 Concarneau, de 1965 à 1972, et ZI du Moros, 29110 Concarneau : de 1972 à 2003.
 
 PN (Peinture navale) : de 1959 à 1973, puis SLPN (Société lorientaise de peinture navale), 6 boulevard Jean-Pierre-Calloch, 56100 Lorient : depuis 1973.
 
@@ -724,9 +734,7 @@ SARL Le Bras Jean-Paul, pont de la Corde, 29670 Henvic : de 1972 à 1997.
 
 SBEEE (Société bretonne d'équipements électriques et électroniques), 4, rue de l'Industrie, 56100 Lorient : depuis 1975.
 
-SCAM (Société concarnoise d'ateliers mécaniques) :
-
-- ZI du Moros, 29900 Concarneau : de 1950 à 1996.
+SCAM (Société concarnoise d'ateliers mécaniques), ZI du Moros, 29900 Concarneau : depuis 1950.
 
 SCOP Chaudronnerie de l'Iroise 14, impasse des Alouettes, 29100 Pouillan-sur-Mer. Depuis 1990.
 
@@ -766,6 +774,8 @@ SIETAR Technologies :
 
 - ZA de Kerfontaine, 56400 Pluneret : depuis 1995.
 
+SIMEG (Société industrielle de mécanique générale). ZI de Kersalé, 29900 Concarneau. De 1973 à 1997.
+
 SLEN (Société lorientaise d'entretien naval), 15, quai du Pourquoi-Pas, 56100 Lorient : depuis 1977.
 
 SMCPO, 42, quai de la Douane, 29200 Brest, et 71, rue de la Porte, 29200 Brest : de 1960 à 1996.
@@ -798,7 +808,7 @@ SNIO, 4, rue Kerbernard, 29200 Brest : depuis 1974
 
 SNTC (Société navale de tuyauterie et de chaudronnerie), rue Emile-de-Carcaradec, port de commerce, 29200 Brest : depuis sa création.
 
-SOBEC, 14, rue Amiral-Troude, 29200 Brest : depuis 1989.
+SOBEC, 14, rue Amiral-Troude, 29200 Brest, puis 170, rue de l'Elorn, 29200 Brest : depuis 1989.
 
 SOBIME (Société bigouden de mécanique), rue du Port, 29730 Le Guilvinec : de 1973 à 1991.
 
@@ -945,6 +955,8 @@ SPT-SPTMI (Phocéenne de travaux maritime et industriel) :
 STCN (Société de tuyauterie et chaudronnerie navale) :
 
 - 19, rue Poullaouec, 29200 Brest et 16, rue du Pont, 29247 Plougastel-Daoulas : depuis sa création.
+
+TECHNIMAR. 9 bis, rue Louis-Martin, 35400 Saint-Malo. Depuis 1985.
 
 Techniques navales, rue Tritschler, 29200 Brest : de sa création à 1998.
 
@@ -1256,6 +1268,10 @@ CEMAT (construction et de montage d'appareils et de tuyauterie) :
 
 - 22, rue Achille-Pierre, 77130 La Grande-Paroisse : de 1965 à 1970.
 
+Chantier naval d'Achères. La Croix d'Achères, 78260 Achères. Depuis 1973.
+
+Chantiers de la Haute-Seine, rue des Voeux-de-Saint-Georges, 94290 Villeneuve-le-Roi : depuis sa création à 1995.
+
 Chantiers navals de Limay. 47, quai aux Vins, 78520 Limay. De 1974 à 1995.
 
 Chantiers navals de Limay. 8, rue Emile-Zola, 78520 Follainville-Dennemont. De 1974 à 1995.
@@ -1264,7 +1280,7 @@ Chantiers navals de Confluent. rue de Choisy 78780 Maurecourt. De 1947 à 1986.
 
 Compagnie des sablières de la Seine (CSS). 18, avenue Pierre-Morin, 91270 Vigneux. De 1947 à 1988.
 
-Compagnie des sablières de la Seine (CSS). 2, route de Chatilon 91210 Draveil. De 1947 à 1989.
+Compagnie des sablières de la Seine (CSS). 2, route de Chatillon 91210 Draveil. De 1947 à 1989.
 
 Entrepose, 125, rue du Saussure, 75017 Paris Cedex 17 : de 1950 à 1970, puis Entrepose, 15, rue Saint-Denis, 93120 La Courneuve : de 1970 à 1985.
 
@@ -1346,6 +1362,8 @@ Task International, zone industrielle Camp-Laurent, 83500 La Seyne-sur-Mer, puis
 
 Languedoc-Roussillon
 
+CRM (Compagnie radio maritime). 9, promenade J.-B.-Marty, 34200 Sète. De 1954 à 1987.
+
 UIE (Union industrielle et d'entreprises), chemin de Moularès, 34000 Montpellier : de 1962 à 1984.
 
 Lorraine
@@ -1426,6 +1444,8 @@ Consortium de l'ommium peinture et de travaux maritimes et terrestres (COPTMT). 
 
 CMP Dunkerque : avenue de la Gironde, 59140 Dunkerque et CMP usine de Mardyck 59279 Loon-Plage depuis 1967.
 
+CRM (Compagnie radio maritime). Môle 1, quai Freycinet, 59140 Dunkerque, et quai des Hollandais, 59140 Dunkerque, et rue des Poilus, 59153 Grand-Fort-Philippe. De 1957 à 1987.
+
 CTS :
 
 - 43, boulevard Sainte-Barbe, 59140 Dunkerque : de 1960 à 1987.
@@ -1496,9 +1516,9 @@ Electro Technique Groux (ETG) :
 
 - 16, rue Magenta, 62200 Boulogne-sur-Mer : depuis 1986.
 
-EMIN/SOCANOR :
+EMIN/SOCANOR, 6, rue des Bazennes, 59140 Dunkerque, puis rue Garibaldi, ZI, 59760 Grande-Synthe : de 1954 à 1984.
 
-- 6, rue des Bazennes, 59140 Dunkerque : de 1954 à 1984.
+.
 
 EMINORD :
 
@@ -1658,7 +1678,7 @@ Mer Gravelines :
 
 - quai Vauban, 59820 Gravelines : depuis 1980.
 
-Moteurs Duvant, puis Moteurs Duvant/Moteurs Crepelle, puis Wårtsilå, puis Wårtsilå NSD, ZIA, rue de Lorival, BP 411, 59474 Seclin Cedex, et 168, avenue Sarraz-Bournet, 62480 Le Portel puis 9, rue Henri-Caffieux 59300 Valenciennes et place Guy-de-Dampierre 59000 Lille : depuis 1878.
+Moteurs Duvant/ Crepelle et Compagnie/ Moteurs Crepelle/ Moteurs Duvant-Crepelle/ Wartsila/ Wartsila NSD, 9, rue Henri-Caffiaux, 59300 Valenciennes, 48-50, rue de Valenciennes, 59000 Lille, ZIA, rue de Lorival, BP 411, 59474 Seclin Cedex, 168, avenue Sarraz-Bournet, 62480 Le Portel : depuis 1878.
 
 Nempon/Nempon Mimeca :
 
