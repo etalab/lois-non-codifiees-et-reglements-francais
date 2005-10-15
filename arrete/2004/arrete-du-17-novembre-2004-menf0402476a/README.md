@@ -5,6 +5,5 @@
 - [Chapitre II :   Modalités et contenu de l'entretien d'évaluation](chapitre-ii)
 - [Chapitre III :   Critères d'appréciation, niveaux de notes et marges d'évolution](chapitre-iii)
 - [Chapitre IV :   Liste des chefs de service ayant pouvoir de notation](chapitre-iv)
-- [Chapitre V :   Modalités d'harmonisation préalable des notations](chapitre-v)
 - [Chapitre VI :   Dispositions transitoires et finales](chapitre-vi)
 - [Article Annexe](article-annexe.md)
