@@ -13,3 +13,5 @@ Il peut également porter sur la notation.
 L'entretien s'attache en particulier à l'interprétation de l'écart éventuellement constaté entre objectifs initiaux et résultats obtenus.
 
 Au cours de cet entretien, l'agent peut, à son initiative, faire une présentation succincte d'un rapport d'activité. Ce dernier est annexé au compte rendu de l'entretien si l'intéressé en fait la demande.
+
+La spécificité des fonctions ou du métier exercé fait l'objet d'une attention particulière.

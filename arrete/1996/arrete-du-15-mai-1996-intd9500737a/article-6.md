@@ -2,7 +2,7 @@
 
 Le droit d'accès au présent traitement s'exerce :
 
-1° Directement auprès du ministère de l'intérieur ou du ministère de la défense, conformément à l'article 34 de la loi n° 78-17 du 6 janvier 1978, en ce qui concerne les informations collectées en vue des recherches suivantes :
+1° Directement auprès du ministère de l'intérieur ou du ministère de la défense, conformément à l'article 39 de la loi n° 78-17 du 6 janvier 1978, en ce qui concerne les informations collectées en vue des recherches suivantes :
 
 - personnes ayant fait l'objet d'une décision de justice prévoyant une contrainte judiciaire en application des dispositions des articles 749 à 762 du code de procédure pénale ;
 
@@ -16,4 +16,4 @@ Le droit d'accès au présent traitement s'exerce :
 
 - opposition à la sortie du territoire de mineurs, uniquement dans le cas d'un litige de droit civil concernant la garde de ces mineurs ;
 
-2° Indirectement auprès de la Commission nationale de l'informatique et des libertés dans tous les autres cas, conformément à l'article 39 de la loi n° 78-17 du 6 janvier 1978.
+2° Indirectement auprès de la Commission nationale de l'informatique et des libertés dans tous les autres cas, conformément à l'article 41 de la loi n° 78-17 du 6 janvier 1978.

@@ -1,0 +1,3 @@
+# TITRE VI :   LE STAGE PÉDAGOGIQUE DE SENSIBILISATION
+
+- [Article 12](article-12.md)

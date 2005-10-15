@@ -6,9 +6,7 @@ Barème de la course de 1 500 mètres chronométrée
 
 L'épreuve consiste en une course en ligne avec un maximum de 12 candidats au départ.
 
-A l'issue de la course, le jury chronomètre pour chacun des candidats le temps effectivement réalisé.
-
-Le barème de notation, différent pour les hommes et pour les femmes, figure dans le tableau ci-après. Il est précisé qu'entre deux valeurs de temps la note est rapportée à celle qui correspond au temps immédiatement supérieur (exemple : la performance de 6 minutes 22 secondes [6 min 22] pour le barème " hommes " est notée comme la performance de 6 minutes 25 secondes [6 min 25], soit une note de 10).
+A l'issue de la course, le jury chronomètre pour chacun des candidats le temps effectivement réalisé. Le barème de notation, différent pour les hommes et pour les femmes, figure dans le tableau ci-après. Il est précisé qu'entre deux valeurs de temps la note est rapportée à celle qui correspond au temps immédiatement supérieur (exemple : la performance de 5 minutes 47 secondes [5 min 47] pour le barème "hommes" est notée comme la performance de 5 minutes 51 secondes [5 min 51], soit une note de 10).
 
 Barème hommes-femmes
 
@@ -20,240 +18,240 @@ FEMMES
 
 20
 
-5 min 10
+4' 30''
 
-7 min 20
+5' 50''
 
 19,5
 
-5 min 13
+4' 33''
 
-7 min 25
+5' 55''
 
 19
 
-5 min 16
+4' 36''
 
-7 min 30
+6' 01''
 
 18,5
 
-5 min 19
+4' 39''
 
-7 min 35
+6' 06''
 
 18
 
-5 min 22
+4' 42''
 
-7 min 40
+6' 12''
 
 17,5
 
-5 min 25
+4' 45''
 
-7 min 45
+6' 17''
 
 17
 
-5 min 28
+4' 48''
 
-7 min 50
+6' 23''
 
 16,5
 
-5 min 31
+4' 52''
 
-8 min 55
+6' 29''
 
 16
 
-5 min 34
+4' 55''
 
-8 minutes
+6' 36''
 
 15,5
 
-5 min 38
+4' 59''
 
-8 min 05
+6' 42''
 
 15
 
-5 min 42
+5' 03''
 
-8 min 10
+6' 48''
 
 14,5
 
-5 min 46
+5' 07''
 
-8 min 15
+6' 55''
 
 14
 
-5 min 50
+5' 11''
 
-8 min 20
+7' 02''
 
 13,5
 
-5 min 54
+5' 15''
 
-8 min 25
+7' 09''
 
 13
 
-5 min 58
+5' 20''
 
-8 min 30
+7' 16''
 
 12,5
 
-6 min 02
+5' 24''
 
-8 min 35
+7' 24''
 
 12
 
-6 min 06
+5' 29''
 
-8 min 40
+7' 31''
 
 11,5
 
-6 min 10
+5' 34''
 
-8 min 45
+7' 39''
 
 11
 
-6 min 15
+5' 40''
 
-8 min 50
+7' 47''
 
 10,5
 
-6 min 20
+5' 45''
 
-8 min 56
+7' 55''
 
 10
 
-6 min 25
+5' 51''
 
-9 min 02
+8' 03''
 
 9,5
 
-6 min 30
+5' 56''
 
-9 min 09
+8' 12''
 
 9
 
-6 min 35
+6' 03''
 
-9 min 16
+8' 21''
 
 8,5
 
-6 min 40
+6' 09''
 
-9 min 23
+8' 30''
 
 8
 
-6 min 45
+6' 15''
 
-9 min 31
+8' 39''
 
 7,5
 
-6 min 50
+6' 22''
 
-9 min 40
+8' 49''
 
 7
 
-6 min 55
+6' 29''
 
-9 min 50
+8' 58''
 
 6,5
 
-7 minutes
+6' 37''
 
-10 minutes
+9' 08''
 
 6
 
-7 min 05
+6' 44''
 
-10 min 10
+9' 18''
 
 5,5
 
-7 min 12
+6' 52''
 
-10 min 20
+9' 29''
 
 5
 
-7 min 20
+7' 00''
 
-10 min 30
+9' 40''
 
 4,5
 
-7 min 30
+7' 09''
 
-10 min 40
+9' 51''
 
 4
 
-7 min 40
+7' 18''
 
-10 min 50
+10' 02''
 
 3,5
 
-7 min 50
+7' 27''
 
-11 minutes
+10' 14''
 
 3
 
-8 minutes
+7' 36''
 
-11 min 10
+10' 26''
 
 2,5
 
-8 min 10
+7' 46''
 
-11 min 20
+10' 38''
 
 2
 
-8 min 20
+7' 57''
 
-11 min 30
+10' 50''
 
 1,5
 
-8 min 30
+8' 07''
 
-11 min 40
+11' 03''
 
 1
 
-8 min 40
+8' 19''
 
-11 min 50
+11' 16''
 
 0,5
 
-8 min 50
+8' 30''
 
-12 minutes
+11' 30''

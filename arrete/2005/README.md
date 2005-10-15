@@ -9,6 +9,7 @@
 - [Arrêté du 1 septembre 2005 (JUSG0560055A)](arrete-du-1-septembre-2005-jusg0560055a)
 - [Arrêté du 1 septembre 2005 (JUSG0560056A)](arrete-du-1-septembre-2005-jusg0560056a)
 - [Arrêté du 1 septembre 2005 (JUSG0560057A)](arrete-du-1-septembre-2005-jusg0560057a)
+- [Arrêté du 1 septembre 2005 (MJSK0570192A)](arrete-du-1-septembre-2005-mjsk0570192a)
 - [Arrêté du 1 septembre 2005 (SANH0522807A)](arrete-du-1-septembre-2005-sanh0522807a)
 - [Arrêté du 2 août 2005 (AGRP0501600A)](arrete-du-2-aout-2005-agrp0501600a)
 - [Arrêté du 2 août 2005 (DEFP0500669A)](arrete-du-2-aout-2005-defp0500669a)

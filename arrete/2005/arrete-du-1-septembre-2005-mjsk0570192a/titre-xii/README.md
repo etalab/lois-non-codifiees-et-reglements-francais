@@ -1,0 +1,3 @@
+# TITRE XII :   LA VALIDATION DES TROIS CYCLES   ET LES JURYS D'EXAMEN
+
+- [Article 22](article-22.md)

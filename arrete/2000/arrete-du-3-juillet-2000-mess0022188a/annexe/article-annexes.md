@@ -82,7 +82,7 @@ Champagne-Ardenne
 
 Forbo Sarlino, 63, rue Gosset, 51100 Reims : de 1960 à 1984 ;
 
-Foseco, chemin Noir, 08350 Donchery : de 1961 à 1976 ;
+Foseco, chemin Noir, 08350 Donchery : de 1961 à 1983 ;
 
 Corse
 
@@ -490,7 +490,7 @@ Queguiner Matériaux, ZA Le Vern, 29400 Landivisiau : de 1971 à 1998 ;
 
 SA CAPIC, 69, avenue des Sports, ZI de l'Hippodrome, 29195 Quimper Cedex, de 1962 à 1993 ;
 
-SA CAPIC, 7, Hent-Kamm, 29000 Quimper, de 1962 à 1993.
+SA CAPIC, 7, Hent-Kamm, 29000 Quimper, de 1978 à 1993.
 
 SA Launay, rue de Bellevue, 56220 Malansac : de 1963 à 1994 ;
 
@@ -530,9 +530,7 @@ Wanner Isofi, Chemin des Plantes, 45500 Saint-Gordon : depuis sa création.
 
 Champagne-Ardenne
 
-Ardam (Société ardennaise de fabrication d'appareils électroménagers)/UFAM SA (Usines et fonderies Arthur Martin), 5, rue Jean-Jacques-Rousseau, 08500 Revin : - usine 1 (gaz, charbon, mazout) : de 1973 à 1977 ;
-
-- usine 2 (cuisson, charbon, mazout) : de 1969 à 1974 ;
+Ardam (Société ardennaise de fabrication d'appareils électroménagers)/UFAM SA (Usines et fonderies Arthur Martin), 5, rue Jean-Jacques-Rousseau, 08500 Revin : - usine 1 (gaz, charbon, mazout) : de 1973 à 1977 ; usine 2 (cuisson, charbon, mazout) : de 1969 à 1974 ;
 
 Deville, 76, rue Forest, 08000 Charleville-Mézières : de 1950 à 1992 ;
 
@@ -740,7 +738,9 @@ Mineur Becourt, Avenue des bureaux, 59610 Fourmies : de 1912 à 1982 ;
 
 Mineur Becourt, 10, rue Jean-Jaurès, 59770 Marly : de 1965 à 1990 ;
 
-Olifan, rue d'Amsterdam et 1, rue de Harlem, 59200 Tourcoing, de 1951 à 1987.
+Olifan, rue d'Amsterdam et 1, rue de Harlem, 59200 Tourcoing, de 1951 à 1987 ;
+
+Ripolin Georget Freitag, puis Ripolin SA, usine de Ruitz, 62620 Barlin : de 1973 à 1981 ;
 
 SA Ateliers Bouchez, entreprise M. Bouchez, 80, rue du 29 juillet, 62100 Calais, de 1958 à 1993.
 
@@ -783,6 +783,8 @@ Aliand et Robert, 125, Grande-Rue, port Mort, 27940 Aubevoye : de 1955 à 1997 ;
 Bitumes spéciaux, zone industrielle, allée Paul-Sabatier, 27940 Aubevoye : de 1945 à 1999.
 
 Carel Fouche Industrie, 27940 Aubevoye, de 1936 à 1989 ;
+
+Compagnie des produits chimiques et matières colorantes (CPCMC), Francolor, Compagnie française des matières colorantes (CFMC), FMC, division des établissements Kuhlmann, Pechiney Ugine Kuhlmann, ICI, boulevard Dambourney, BP 4, 76350 Oissel : de 1919 à 1983 ;
 
 Etablissement Julin, filiale SIM, rue d'Elbeuf, 76100 Rouen, rue Méridienne, 76100 Rouen, avenue du Général-Leclerc, 76120 Le Grand-Quevilly, depuis sa création à 1980 ;
 
@@ -906,7 +908,7 @@ Etablissements DBA/Bendix/Honeywelle/Allied Signal, centre de distribution d'All
 
 Etablissements DBA/Bendix/Honeywelle/Allied Signal, Tille, 60000 Beauvais : de 1981 à 1987 ;
 
-Fichet Serrurerie Bâtiment, 80460 Oust-Marest, de 1969 à 1977 ;
+SA Fichet Bauche, 80460 Oust-Marest, de 1969 à 1977 ;
 
 Frendo/Fren J./Fren Brex SA/Roulunds Codan, Z.I. d'Angean, 60240 Chaumont-en-Vexin : de 1975 à 1997.
 
@@ -1045,6 +1047,8 @@ Prost, puis Prost Lafarge groupe CEC, puis Lafarge réfractaire, puis Piral SA, 
 Silisol/Omerin, division Silisol SAS, 8, rue Bossuet, puis 11, allée du Couchant, ZI du Bevey, 42100 Saint-Etienne : de 1960 à 1996 ;
 
 SNIFI/EFI, rue Thomas, BP 38, 69320 Feyzin, de 1971 à 1981 ;
+
+Société Le Chlore Liquide/PROGIL/Rhône PROGIL/Rhône Poulenc SA, puis CHLORALP, rue Lavoisier, 38800 Pont-de-Claix : de 1916 à 1996, de 1997 à 2001 ;
 
 Société de Paris et du Rhône, de 1915 à 1986, puis EEM, de 1986 à 1987, puis Valéo EEM, de 1987 à 1989, 36, avenue Jean-Mermoz, 69355 Lyon ;
 
