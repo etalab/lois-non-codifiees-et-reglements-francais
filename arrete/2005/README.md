@@ -484,6 +484,8 @@
 - [Arrêté du 25 mai 2005 (DEFP0500517A)](arrete-du-25-mai-2005-defp0500517a)
 - [Arrêté du 25 mai 2005 (EQUP0500067A)](arrete-du-25-mai-2005-equp0500067a)
 - [Arrêté du 25 mai 2005 (SANY0521951A)](arrete-du-25-mai-2005-sany0521951a)
+- [Arrêté du 26 août 2005 (INTC0500562A)](arrete-du-26-aout-2005-intc0500562a)
+- [Arrêté du 26 août 2005 (INTC0500563A)](arrete-du-26-aout-2005-intc0500563a)
 - [Arrêté du 26 avril 2005 (MENS0500549A)](arrete-du-26-avril-2005-mens0500549a)
 - [Arrêté du 26 janvier 2005 (DEVO0540053A)](arrete-du-26-janvier-2005-devo0540053a)
 - [Arrêté du 26 janvier 2005 (ECOP0400446A)](arrete-du-26-janvier-2005-ecop0400446a)
