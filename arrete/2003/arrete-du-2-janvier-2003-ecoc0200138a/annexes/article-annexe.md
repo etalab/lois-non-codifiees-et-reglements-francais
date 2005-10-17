@@ -1,10 +1,8 @@
 # Article Annexe
 
-A N N E X E
+Chapitre Ier : Liste des monomères et autres substances de départ pouvant être utilisés pour la fabrication des matériaux et objets en matière plastique
 
-Chapitre Ier
-
-Liste des monomères et autres substances de départ pouvant être utilisés pour la fabrication des matériaux et objets en matière plastiqueIntroduction générale
+Introduction générale
 
 1. Cette annexe contient la liste de monomères ou autres substances de départ. La liste comprend :
 
@@ -14,7 +12,7 @@ Liste des monomères et autres substances de départ pouvant être utilisés pou
 
 - les substances utilisées pour modifier les substances macromoléculaires existantes, naturelles ou synthétiques.
 
-2. La liste ne comprend pas les sels (y compris les sels doubles et les sels acides) d'aluminium, d'ammonium, de calcium, de fer, de magnésium, de potassium, de sodium et de zinc des acides, phénols ou alcools autorisés, qui sont aussi autorisés ; cependant, les désignations contenant « acide(s)...sels » figurent dans les listes si le (ou les) acide(s) correspondant(s) n'y figure(nt) pas. Dans ce cas, le sens de l'expression « sels » est « sels d'aluminium, d'ammonium, de calcium, de fer, de magnésium, de potassium, de sodium et de zinc ».
+2. La liste ne comprend pas les sels (y compris les sels doubles et les sels acides) d'aluminium, d'ammonium, de calcium, de fer, de magnésium, de potassium, de sodium et de zinc des acides, phénols ou alcools autorisés, qui sont aussi autorisés ; cependant, les désignations contenant acide(s)... sels  figurent dans les listes si le (ou les) acide(s) correspondant(s) n'y figure(nt) pas. Dans ce cas, le sens de l'expression sels  est sels d'aluminium, d'ammonium, de calcium, de fer, de magnésium, de potassium, de sodium et de zinc .
 
 3. La liste ne comprend pas les substances suivantes, bien qu'elles puissent être présentes :
 
@@ -74,39 +72,55 @@ PF = matériau ou objet fini ;
 
 NCO = groupement isocyanate ;
 
-ND = non décelable. Aux fins du présent arrêté, « non décelable » signifie que la substance ne devrait pas être détectée par une méthode d'analyse validée qui pourrait la détecter à la limite de détection spécifiée. Si une telle méthode n'existe pas actuellement, une méthode d'analyse avec des caractéristiques de performance appropriées à la limite spécifiée peut être utilisée en attendant le développement d'une méthode validée.
+ND = non décelable. Aux fins du présent arrêté, non décelable  signifie que la substance ne devrait pas être détectée par une méthode d'analyse validée qui pourrait la détecter à la limite de détection spécifiée. Si une telle méthode n'existe pas actuellement, une méthode d'analyse avec des caractéristiques de performance appropriées à la limite spécifiée peut être utilisée en attendant le développement d'une méthode validée ;
 
-Section A
+QM = quantité maximale permise de substance résiduelle dans le matériau ou objet. Aux fins du présent arrêté, la quantité de la substance dans le matériau ou l'objet est déterminée par une méthode d'analyse validée. Si une telle méthode n'existe pas actuellement, une méthode d'analyse avec des caractéristiques de performance appropriées à la limite spécifiée peut être utilisée en attendant la mise au point d'une méthode validée ;
 
-Liste des monomères et autres substances de départ autorisés
+QM(T) = quantité maximale permise de substance résiduelle dans le matériau ou l'objet fini exprimée comme le total du groupement ou de la ou des substances indiquées. Aux fins du présent arrêté, la quantité de la substance dans le matériau ou l'objet devrait être déterminée par une méthode d'analyse validée. Si une telle méthode n'existe pas actuellement, une méthode d'analyse avec des caractéristiques de performance appropriées à la limite spécifiée peut être utilisée en attendant la mise au point d'une méthode validée ;
 
-<div/>
+QMS = quantité maximale permise de substance résiduelle dans le matériau ou objet fini exprimée en mg par 6 dm² de la surface en contact avec les denrées alimentaires. Aux fins du présent arrêté, la quantité de la substance dans le matériau ou l'objet devrait être déterminée par une méthode d'analyse validée. Si une telle méthode n'existe pas actuellement, une méthode d'analyse avec des caractéristiques de performance appropriées à la limite spécifiée peut être utilisée en attendant la mise au point d'une méthode validée ;
 
-Section B
+QMS(T) = quantité maximale permise de substance résiduelle dans le matériau ou objet fini exprimée en mg du total du groupement ou de la ou des substances indiquées par 6 dm² de la surface en contact avec les denrées alimentaires. Aux fins du présent arrêté, la quantité de la substance dans le matériau ou l'objet devrait être déterminée par une méthode d'analyse validée. Si une telle méthode n'existe pas actuellement, une méthode d'analyse avec des caractéristiques de performance appropriées à la limite spécifiée peut être utilisée en attendant la mise au point d'une méthode validée ;
 
-Liste de monomères et autres substances de départ qui peuvent continuer
+LMS = limite de migration spécifique dans la denrée alimentaire ou dans le simulant alimentaire, à moins qu'elle ne soit précisée différemment. Aux fins du présent arrêté, la migration spécifique de la substance devrait être déterminée par une méthode d'analyse validée. Si une telle méthode n'existe pas actuellement, une méthode d'analyse avec des caractéristiques de performance appropriées à la limite spécifiée peut être utilisée en attendant la mise au point d'une méthode validée ;
 
-à être utilisés dans l'attente d'une décision concernant leur inclusion à la section A
+LMS(T) = limite de migration spécifique dans la denrée alimentaire ou dans le simulant alimentaire exprimée comme le total du groupement ou de la ou des substances indiquées. Aux fins du présent arrêté, la migration spécifique de la substance devrait être déterminée par une méthode d'analyse validée. Si une telle méthode n'existe pas actuellement, une méthode d'analyse avec des caractéristiques de performance appropriées à la limite spécifiée peut être utilisée en attendant la mise au point d'une méthode validée.
 
-<div/>
+Section A : Liste des monomères et autres substances de départ autorisés
 
-Chapitre II
+Vous pouvez consulter le tableau dans le JO
 
-Liste des additifs pouvant être utilisés dans la fabrication
+n° 242 du 16/10/2005 texte numéro 3
 
-des matériaux et objets en matière plastique
+Section B : Liste de monomères et autres substances de départ qui peuvent continuer à être utilisés dans l'attente d'une décision concernant leur inclusion à la section A
+
+Vous pouvez consulter le tableau dans le JO
+
+n° 242 du 16/10/2005 texte numéro 3
+
+Chapitre II : Liste des additifs pouvant être utilisés dans la fabrication des matériaux et objets en matière plastique
 
 Introduction générale
 
 1. Cette annexe contient la liste :
 
-a) Des substances incorporées à la matière plastique afin de modifier les caractéristiques techniques du produit fini et qui restent dans le produit fini ;
+a) Des substances incorporées à la matière plastique afin de modifier les caractéristiques techniques du produit fini, notamment les additifs polymériques  et qui restent dans le produit fini ;
 
-b) Des substances favorisant la polymérisation (par exemple émulsifiants, surfactants, agents tampons, etc.).
+b) Des substances favorisant la polymérisation.
 
-Cette liste ne comprend pas les substances qui influencent directement la formation des polymères (par exemple catalyseurs).
+Aux fins de la présente annexe, les substances visées aux points a et b sont ci-après dénommées additifs .
 
-2. La liste ne comprend pas les sels (y compris les sels doubles et les sels acides) d'aluminium, d'ammonium, de calcium, de fer, de magnésium, de potassium, de sodium et de zinc des acides, phénols ou alcools qui sont aussi autorisés ; cependant, les désignations contenant « acide(s)...sels » figurent dans les listes si le (ou les) acide(s) correspondant(s) n'y figure(nt) pas. Dans ce cas, le sens de l'expression « sels » est « sels d'aluminium, d'ammonium, de calcium, de fer, de magnésium, de potassium, de sodium et de zinc ».
+Aux fins de la présente annexe, on entend par additifs polymériques  tout polymère et/ou prépolymère et/ou oligomère susceptibles d'être ajoutés à des matières plastiques pour obtenir un effet technique, mais qui ne peuvent pas être utilisés en l'absence d'autres polymères comme principal composant structurel des matériaux et objets finis. Ils incluent également les substances qui peuvent être ajoutées au milieu de polymérisation.
+
+La liste ne comprend pas :
+
+a) Les substances qui influencent directement la formation des polymères ;
+
+b) Les colorants ;
+
+c) Les solvants.
+
+2. La liste ne comprend pas les sels (y compris les sels doubles et les sels acides) d'aluminium, d'ammonium, de calcium, de fer, de magnésium, de potassium, de sodium et de zinc des acides, phénols ou alcools qui sont aussi autorisés ; cependant, les désignations contenant acide(s)... sels  figurent dans les listes si le (ou les) acide(s) correspondant(s) n'y figure(nt) pas. Dans ce cas, le sens de l'expression sels  est sels d'aluminium, d'ammonium, de calcium, de fer, de magnésium, de potassium, de sodium et de zinc .
 
 3. La liste ne comprend pas les substances suivantes, bien qu'elles puissent être présentes :
 
@@ -154,103 +168,95 @@ Colonne 4 (restrictions et/ou spécifications). Elles peuvent comprendre :
 
 7. Lorsqu'il y a contradiction entre le numéro CAS et la dénomination chimique, la dénomination chimique est prioritaire. S'il y a contradiction entre le numéro CAS repris dans l'EINECS (European Inventory of Existing Commercial Chemical Substances) et le registre CAS, c'est le numéro du registre CAS qui est applicable.
 
-Section A
+Vous pouvez consulter le tableau dans le JO
 
-Liste des additifs autorisés
+n° 242 du 16/10/2005 texte numéro 3
 
-<div/>
+Vous pouvez consulter le tableau dans le JO
 
-Section B
+n° 242 du 16/10/2005 texte numéro 3
 
-Liste des additifs visés à l'article 4, troisième paragraphe
+Vous pouvez consulter le tableau dans le JO
 
-<div/>
+n° 242 du 16/10/2005 texte numéro 3
 
-Chapitre III
-
-Produits obtenus par fermentation bactérienne
-
-<div/>
-
-Chapitre IV
-
-Spécifications
-
-Partie A
-
-Spécifications générales
+Partie A : Spécifications générales
 
 Les matériaux et objets fabriqués à l'aide d'isocyanates aromatiques ou de colorants préparés par copulation diazoïque ne peuvent libérer des amines aromatiques primaires (exprimées en aniline) en quantité décelable (LD = 0,02 mg/kg d'aliment ou de simulateur d'aliment, tolérance analytique incluse). Toutefois, les valeurs de migration des amines aromatiques primaires énumérées dans le présent arrêté sont exclues de cette restriction.
 
-Partie B
+Partie B : Autres spécifications
 
-Autres spécifications
+Vous pouvez consulter le tableau dans le JO
 
-<div/>
+n° 242 du 16/10/2005 texte numéro 3
 
-Chapitre V
+1. Avertissement : la LMS risque d'être dépassée dans les simulateurs d'aliments gras.
 
-Notes concernant la colonne « restrictions
+2. LMS(T) signifie dans ce cas que la restriction ne doit pas être dépassée par la somme de la migration des substances visées sous les numéros références 10060 et 23920.
 
-et/ou spécifications »
+3. LMS(T) signifie dans ce cas que la restriction ne doit pas être dépassée par la somme de la migration des substances visées sous les numéros références 15760, 16990, 47680, 53650 et 89440.
 
-(1) Avertissement : la LMS risque d'être dépassée dans les simulateurs d'aliments gras.
+4. LMS(T) signifie dans ce cas que la restriction ne doit pas être dépassée par la somme de la migration des substances visées sous les numéros références 19540, 19960 et 64800.
 
-(2) LMS(T) signifie dans ce cas que la restriction ne doit pas être dépassée par la somme de la migration des substances visées sous les numéros REF 10060 et 23920.
+5. LMS(T) signifie dans ce cas que la restriction ne doit pas être dépassée par la somme de la migration des substances visées sous les numéros références 14200, 14230 et 41840.
 
-(3) LMS(T) signifie dans ce cas que la restriction ne doit pas être dépassée par la somme de la migration des substances visées sous les numéros REF 15760, 16990, 47680, 53650 et 89440.
+6. LMS(T) signifie dans ce cas que la restriction ne doit pas être dépassée par la somme de la migration des substances visées sous les numéros références 66560 et 66580.
 
-(4) LMS(T) signifie dans ce cas que la restriction ne doit pas être dépassée par la somme de la migration des substances visées sous les numéros REF 19540, 19960 et 64800.
+7. LMS(T) signifie dans ce cas que la restriction ne doit pas être dépassée par la somme de la migration des substances visées sous les numéros références 30080, 42320, 45195, 45200, 53610, 81760, 89200 et 92030.
 
-(5) LMS(T) signifie dans ce cas que la restriction ne doit pas être dépassée par la somme de la migration des substances visées sous les numéros REF 14200, 14230 et 41840.
+8. LMS(T) signifie dans ce cas que la restriction ne doit pas être dépassée par la somme de la migration des substances visées sous les numéros références 38000, 42400, 64320, 67896, 73040, 85760, 85840, 85920 et 95725.
 
-(6) LMS(T) signifie dans ce cas que la restriction ne doit pas être dépassée par la somme de la migration des substances visées sous les numéros REF 66560 et 66580.
+9. Avertissement : la migration de la substance risque de détériorer les caractéristiques organoleptiques de l'aliment avec lequel elle est en contact et, dans ce cas, le produit fini risque de ne pas être conforme au deuxième alinéa de l'article 2 de la directive 89/109/CEE.
 
-(7) LMS(T) signifie dans ce cas que la restriction ne doit pas être dépassée par la somme de la migration des substances visées sous les numéros REF 30080, 42320, 45195, 45200, 53610, 81760, 89200 et 92030.
+10. LMS(T) signifie dans ce cas que la restriction ne doit pas être dépassée par la somme de la migration des substances visées sous les numéros références 30180, 40980, 63200, 65120, 65200, 65280, 65360, 65440 et 73120.
 
-(8) LMS(T) signifie dans ce cas que la restriction ne doit pas être dépassée par la somme de la migration des substances visées sous les numéros REF 42400, 64320, 73040, 85760, 85840, 85920 et 95725.
+11. LMS(T) signifie dans ce cas que la restriction ne doit pas être dépassée par la somme de la migration des substances (exprimée en iode) visées sous les numéros références 45200, 64320, 81680 et 86800.
 
-(9) Avertissement : la migration de la substance risque de détériorer les caractéristiques organoleptiques de l'aliment avec lequel elle est en contact et, dans ce cas, le produit fini risque de ne pas être conforme à l'article 3 du décret n° 92-631 du 8 juillet 1992.
+12. LMS(T) signifie dans ce cas que la restriction ne doit pas être dépassée par la somme de la migration des substances visées sous les numéros références 36720, 36800, 36840 et 92000.
 
-(10) LMS(T) signifie dans ce cas que la restriction ne doit pas être dépassée par la somme de la migration des substances visées sous les numéros REF 30180, 40980, 63200, 65120, 65200, 65280, 65360, 65440 et 73120.
+13. LMS(T) signifie dans ce cas que la restriction ne doit pas être dépassée par la somme de la migration des substances visées sous les numéros références 39090 et 39120.
 
-(11) LMS(T) signifie dans ce cas que la restriction ne doit pas être dépassée par la somme de la migration des substances visées sous les numéros REF 45200, 64320, 81680 et 86800.
+14. LMS(T) signifie dans ce cas que la restriction ne doit pas être dépassée par la somme de la migration des substances visées sous les numéros références 44960, 68078, 82020 et 89170.
 
-(12) LMS(T) signifie dans ce cas que la restriction ne doit pas être dépassée par la somme de la migration des substances visées sous les numéros REF 36720, 36800, 36840 et 92000.
+15. LMS(T) signifie dans ce cas que la restriction ne doit pas être dépassée par la somme de la migration des substances visées sous les numéros références 15970, 48640, 48720, 48880, 61280, 61360 et 61600.
 
-(13) LMS(T) signifie dans ce cas que la restriction ne doit pas être dépassée par la somme de la migration des substances visées sous les numéros REF 39090 et 39120.
+16. LMS(T) signifie dans ce cas que la restriction ne doit pas être dépassée par la somme de la migration des substances visées sous les numéros références 49600, 67520 et 83599.
 
-(14) LMS(T) signifie dans ce cas que la restriction ne doit pas être dépassée par la somme de la migration des substances visées sous les numéros REF 44960, 68078, 82020 et 89170.
+17. LMS(T) signifie dans ce cas que la restriction ne doit pas être dépassée par la somme de la migration des substances visées sous les numéros références 50160, 50240, 50320, 50360, 50400, 50480, 50560, 50640, 50720, 50800, 50880, 50960, 51040 et 51120.
 
-(15) LMS(T) signifie dans ce cas que la restriction ne doit pas être dépassée par la somme de la migration des substances visées sous les numéros REF 15970, 48640, 48720, 48880, 61280, 61360 et 61600.
+18. LMS(T) signifie dans ce cas que la restriction ne doit pas être dépassée par la somme de la migration des substances visées sous les numéros références 67600, 67680 et 67760.
 
-(16) LMS(T) signifie dans ce cas que la restriction ne doit pas être dépassée par la somme de la migration des substances visées sous les numéros REF 49600, 67520 et 83599.
+19. LMS(T) signifie dans ce cas que la restriction ne doit pas être dépassée par la somme de la migration des substances visées sous les numéros références 60400, 60480 et 61440.
 
-(17) LMS(T) signifie dans ce cas que la restriction ne doit pas être dépassée par la somme de la migration des substances visées sous les numéros REF 50160, 50240, 50320, 50360, 50400, 50480, 50560, 50640, 50720, 50800, 50880, 50960, 51040 et 51120.
+20. LMS(T) signifie dans ce cas que la restriction ne doit pas être dépassée par la somme de la migration des substances visées sous les numéros références 66400 et 66480.
 
-(18) LMS(T) signifie dans ce cas que la restriction ne doit pas être dépassée par la somme de la migration des substances visées sous les numéros REF 67600, 67680 et 67760.
+21. LMS(T) signifie dans ce cas que la restriction ne doit pas être dépassée par la somme de la migration des substances visées sous les numéros références 93120 et 93280.
 
-(19) LMS(T) signifie dans ce cas que la restriction ne doit pas être dépassée par la somme de la migration des substances visées sous les numéros REF 60400, 60480 et 61440.
+22. LMS(T) signifie dans ce cas que la restriction ne doit pas être dépassée par la somme de la migration des substances visées sous les numéros références 17260, 18670, 54880 et 59280.
 
-(20) LMS(T) signifie dans ce cas que la restriction ne doit pas être dépassée par la somme de la migration des substances visées sous les numéros REF 66400 et 66480.
+23. LMS(T) signifie dans ce cas que la restriction ne doit pas être dépassée par la somme de la migration des substances visées sous les numéros références 13620, 36840, 40320 et 87040.
 
-(21) LMS(T) signifie dans ce cas que la restriction ne doit pas être dépassée par la somme de la migration des substances visées sous les numéros REF 93120 et 93280.
+24. LMS(T) signifie dans ce cas que la restriction ne doit pas être dépassée par la somme de la migration des substances visées sous les numéros références 13720 et 40580.
 
-(22) LMS(T) signifie dans ce cas que la restriction ne doit pas être dépassée par la somme de la migration des substances visées sous les numéros REF 17260 et 18670.
+25. LMS(T) signifie dans ce cas que la restriction ne doit pas être dépassée par la somme de la migration des substances visées sous les numéros références 16650 et 51570.
 
-(23) LMS(T) signifie dans ce cas que la restriction ne doit pas être dépassée par la somme de la migration des substances visées sous les numéros REF 13620, 36840, 40320 et 87040.
+26. QM(T) signifie dans ce cas que la restriction ne doit pas être dépassée par la somme de la quantité résiduelle des substances visées sous les numéros références 14950, 15700, 16240, 16570, 16600, 16630, 18640, 19110, 22332, 22420, 22570, 25210, 25240 et 25270.
 
-(24) LMS(T) signifie dans ce cas que la restriction ne doit pas être dépassée par la somme de la migration des substances visées sous les numéros REF 13720 et 40580.
+27. QMS(T) signifie dans ce cas que la restriction ne doit pas être dépassée par la somme de la quantité résiduelle des substances visées sous les numéros références 10599/90A, 10599/91, 10599/92A et 10599/93.
 
-(25) LMS(T) signifie dans ce cas que la restriction ne doit pas être dépassée par la somme de la migration des substances visées sous les numéros REF 16650 et 51570.
+28. LMS(T) signifie dans ce cas que la restriction ne doit pas être dépassée par la somme de la migration des substances visées sous les numéros références 13480 et 39680.
 
-(26) QM(T) signifie dans ce cas que la restriction ne doit pas être dépassée par la somme de la quantité résiduelle des substances visées sous les numéros REF 14950, 15700, 16240, 16570, 16600, 16630, 18640, 19110, 22332, 22420, 22570, 25210, 25240 et 25270.
+29. LMS(T) signifie dans ce cas que la restriction ne doit pas être dépassée par la somme de la migration des substances visées sous les numéros références 22775 et 69920.
 
-Chapitre VI
+30. LMS(T) signifie dans ce cas que la restriction ne doit pas être dépassée par la somme de la migration des substances visées sous les numéros références 86480, 86960 et 87120.
 
-Dispositions complémentaires applicables
+31. Le contrôle de conformité au contact avec des matières grasses doit s'effectuer à l'aide de simulateurs d'aliments gras saturés comme simulant D.
 
-lors du contrôle des limites de migration
+32. Le contrôle de conformité au contact avec des matières grasses doit s'effectuer à l'aide d'isoctane comme substitut du simulant D (instable).
+
+33. QMS(T) signifie dans ce cas que la restriction ne doit pas être dépassée par la somme de la quantité résiduelle des substances visées sous les numéros références 14800 et 45600.
+
+34. LMS(T) signifie dans ce cas que la restriction ne doit pas être dépassée par la somme de la migration des substances visées sous les numéros références 55200, 55280 et 55360.
 
 Dispositions générales
 
@@ -258,27 +264,27 @@ Dispositions générales
 
 2. Lorsque les tests de migration sont effectués sur des échantillons prélevés sur le matériau ou l'objet ou sur des échantillons préparés à cette fin, et si les quantités de denrée alimentaire ou de liquide simulateur placées en contact avec les échantillons diffèrent des conditions réelles d'utilisation du matériau ou de l'objet, les résultats obtenus doivent être corrigés en appliquant la formule suivante :
 
-M =    a1.q  .1000
+M = a1.q .1 000
 
 m.a2
 
 M =
 
-.1000
+.1 000
 
 a1.q
 
 dans laquelle :
 
-M = migration en mg/kg ;
+M = Migration en mg/kg ;
 
-m = masse de substance, en mg, cédée par l'échantillon telle que déterminée lors du test de migration ;
+m = Masse de substance, en mg, cédée par l'échantillon telle que déterminée lors du test de migration ;
 
-a1 = la surface en dm² de l'échantillon en contact avec la denrée alimentaire ou le liquide simulateur lors du test de migration ;
+a1 = La surface en dm² de l'échantillon en contact avec la denrée alimentaire ou le liquide simulateur lors du test de migration ;
 
-a2 = la surface en dm² du matériau ou de l'objet dans les conditions réelles d'emploi ;
+a2 = La surface en dm² du matériau ou de l'objet dans les conditions réelles d'emploi ;
 
-q = la quantité en g de denrée alimentaire en contact avec le matériau ou l'objet dans les conditions réelles d'emploi.
+q = La quantité en g de denrée alimentaire en contact avec le matériau ou l'objet dans les conditions réelles d'emploi.
 
 3. La détermination de la migration est effectuée sur le matériau ou l'objet ou, si cela n'est pas possible, en utilisant soit des échantillons prélevés sur le matériau ou l'objet ou, le cas échéant, en utilisant des échantillons représentatifs du matériau ou de l'objet.
 
@@ -290,7 +296,7 @@ Dans tous les cas, la réalisation d'un test plus strict, destiné à prouver le
 
 4. Conformément aux dispositions de l'article 8 du présent arrêté, l'échantillon du matériau ou de l'objet est placé en contact avec la denrée alimentaire ou le liquide simulateur adéquat, pendant une durée et à une température qui sont choisies en fonction des conditions de contact en emploi réel conformément aux règles fixées par les directives 82/711/CEE et 85/572/CEE. A la fin du délai prescrit, la détermination analytique de la quantité totale de substances (migration globale) ou de la quantité spécifique d'une ou de plusieurs substances (migration spécifique) cédée(s) par l'échantillon est effectuée sur la denrée alimentaire ou le liquide simulateur.
 
-5. Lorsqu'un matériau ou objet est destiné à entrer en contact répété avec des denrées alimentaires, le (les) test(s) de migration doit (doivent) être effectué(s) trois fois sur un même échantillon, conformément aux conditions fixées dans la directive 82/711/CEE, en utilisant chaque fois un autre échantillon de denrée alimentaire ou de liquide simulateur neufs. Le contrôle doit se faire sur la base du niveau de migration constaté dans le troisième essai. Cependant, s'il existe une preuve décisive que le niveau de migration n'augmente pas aux deuxième et troisième essais, et si la (les) limite(s) de migration n'est (ne sont) pas dépassée(s) au premier essai, il n'est pas nécessaire de procéder à un nouvel essai.
+5. Lorsqu'un matériau ou objet est destiné à entrer en contact répété avec des denrées alimentaires, le (les) test(s) de migration doit (doivent) être effectué(s) trois fois sur un même échantillon, conformément aux conditions fixées dans la directive 82/711/CEE, en utilisant chaque fois un autre échantillon de denrée alimentaire ou de liquide simulateur neuf. Le contrôle doit se faire sur la base du niveau de migration constaté dans le troisième essai. Cependant, s'il existe une preuve décisive que le niveau de migration n'augmente pas aux deuxième et troisième essais, et si la (les) limite(s) de migration n'est (ne sont) pas dépassée(s) au premier essai, il n'est pas nécessaire de procéder à un nouvel essai.
 
 Dispositions spéciales concernant la migration globale
 

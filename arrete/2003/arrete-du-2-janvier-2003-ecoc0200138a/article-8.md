@@ -6,7 +6,7 @@ Ce contrôle s'effectue dans les conditions de temps et de température les plus
 
 Le contrôle du respect des limites de migration spécifique dans les conditions prévues au paragraphe 1 n'est pas obligatoire dans les cas suivants :
 
-a) Si le résultat de l'essai de migration globale implique que les limites de migration spécifique ne sont pas dépassées ;
+a) Si la valeur de la détermination de la migration globale implique que les limites de migration spécifique ne sont pas dépassées ;
 
 b) Si, dans l'hypothèse d'une migration complète de la substance résiduelle dans le matériau ou l'objet, la limite de migration spécifique ne peut être dépassée.
 

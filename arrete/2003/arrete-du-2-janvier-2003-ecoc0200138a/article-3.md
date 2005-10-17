@@ -1,6 +1,6 @@
 # Article 3
 
-Seuls les monomères et autres substances de départ figurant au chapitre Ier de l'annexe, sections A et B, peuvent être utilisés pour la fabrication des matériaux et objets en matière plastique, aux conditions qui y sont indiquées.
+Seuls les monomères et autres substances de départ figurant au chapitre Ier de l'annexe, section A, peuvent être utilisés pour la fabrication des matériaux et objets en matière plastique, aux conditions qui y sont indiquées.
 
 Par dérogation à l'alinéa précédent, les monomères et autres substances de départ figurant au chapitre Ier de l'annexe, section B, peuvent continuer à être utilisés jusqu'au 31 décembre 2004 au plus tard.
 
