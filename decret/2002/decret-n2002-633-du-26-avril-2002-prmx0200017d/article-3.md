@@ -4,4 +4,4 @@ La commission comprend six membres nommés par arrêté du Premier ministre pour
 
 Le président et le vice-président de la commission sont nommés par le Premier ministre parmi les inspecteurs généraux membres titulaires.
 
-Le secrétaire général du comité interministériel pour les questions de coopération économique européenne (SGCI) ou son représentant peut assister aux réunions de la commission en qualité d'observateur, sauf lorsque celle-ci délibère sur les déclarations de validité.
+Le secrétaire général des affaires européennes (SGAE) ou son représentant peut assister aux réunions de la commission en qualité d'observateur, sauf lorsque celle-ci délibère sur les déclarations de validité.

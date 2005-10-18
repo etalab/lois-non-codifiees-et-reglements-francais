@@ -6,7 +6,7 @@ Elle a pour mission, dans les domaines du travail, de l'emploi et de la formatio
 
 1. Dans le cadre des orientations stratégiques en matière européenne et internationale qu'elle contribue à définir sous l'autorité du ministre :
 
-a) En matière européenne, de déterminer la position de l'administration centrale susmentionnée au cours de la concertation interministérielle conduite par le comité interministériel pour les questions de coopération économique européenne ;
+a) En matière européenne, de déterminer la position de l'administration centrale susmentionnée au cours de la concertation interministérielle conduite par le comité interministériel sur l'Europe ;
 
 b) En matière internationale, de coordonner et d'organiser, au sein du ministère du travail et des affaires sociales, les relations multilatérales et les actions de coopération bilatérale entre ce ministère et les ministères étrangers homologues en liaison avec le ministère des affaires étrangères ;
 
@@ -16,7 +16,7 @@ c) De promouvoir, dans les domaines de compétence susmentionnés, la diffusion 
 
 3. De déterminer, en concertation avec les directions et services de l'administration centrale :
 
-a) Les conditions de la représentation du ministre aux réunions prévues dans le cadre de l'Union européenne, en liaison avec le secrétariat général du comité interministériel pour les questions de coopération économique européenne ;
+a) Les conditions de la représentation du ministre aux réunions prévues dans le cadre de l'Union européenne, en liaison avec le secrétariat général des affaires européennes ;
 
 b) Les conditions de la représentation du ministre aux réunions organisées par les institutions et organisations internationales, en liaison avec le ministère des affaires étrangères ;
 
