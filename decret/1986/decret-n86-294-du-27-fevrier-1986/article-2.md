@@ -6,4 +6,4 @@ Il comprend les ministres ou les représentants des ministres chargés de l'agri
 
 En tant que de besoin, des ministres autres que les ministres mentionnés au précédent alinéa et des représentants d'établissements publics, d'organismes ou d'entreprises compétents dans les secteurs de la recherche et de l'industrie peuvent être invités à participer à ses travaux.
 
-Le secrétaire général du comité interministériel pour les questions de coopération économique européenne ou son représentant assiste de droit aux réunions du comité interministériel.
+Le secrétaire général des affaires européennes ou son représentant assiste de droit aux réunions du comité interministériel.

@@ -8,7 +8,9 @@ Les informations nominatives traitées sont :
 
 - ses coordonnées bancaires ;
 
-- les coordonnées de tiers détenteurs (nom, prénoms ou raison sociale, adresse).
+- les coordonnées de tiers détenteurs (nom, prénoms ou raison sociale, adresse) ;
+
+- le numéro codique de l'huissier du Trésor public.
 
 Les autres informations traitées concernent l'assiette de la redevance due, les recouvrements effectués, les dégrèvements constatés, les actes de poursuites diligentés (nature, résultats) et le reste à recouvrer.
 

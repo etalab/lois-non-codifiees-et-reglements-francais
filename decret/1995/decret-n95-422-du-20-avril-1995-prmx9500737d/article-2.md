@@ -6,7 +6,7 @@ Le directeur général de l'administration et de la fonction publique, présiden
 
 Le directeur des Nations Unies et des organisations internationales du ministère des affaires étrangères, vice-président ;
 
-Le secrétaire général du comité interministériel pour les questions de coopération économique européenne ;
+Le secrétaire général des affaires européennes ;
 
 Un représentant du ministre d'Etat, ministre des affaires sociales, de la santé et de la ville ;
 

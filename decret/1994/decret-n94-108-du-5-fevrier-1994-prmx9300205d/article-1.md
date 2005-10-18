@@ -8,4 +8,4 @@ Les autres ministres intéressés par les questions inscrites à l'ordre du jour
 
 Un représentant du Président de la République prend part aux travaux du comité interministériel.
 
-Le secrétaire général du comité interministériel pour les questions de coopération économique européenne participe aux travaux du comité interministériel.
+Le secrétaire général des affaires européennes participe aux travaux du comité interministériel.
