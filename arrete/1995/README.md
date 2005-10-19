@@ -1073,7 +1073,6 @@
 - [Arrêté du 26 septembre 1995 (ECOT9510247A)](arrete-du-26-septembre-1995-ecot9510247a)
 - [Arrêté du 26 septembre 1995 (EQUH9501365A)](arrete-du-26-septembre-1995-equh9501365a)
 - [Arrêté du 26 septembre 1995 (EQUH9501366A)](arrete-du-26-septembre-1995-equh9501366a)
-- [Arrêté du 26 septembre 1995 (MIPP9500884A)](arrete-du-26-septembre-1995-mipp9500884a)
 - [Arrêté du 26 septembre 1995 (SANG9502776A)](arrete-du-26-septembre-1995-sang9502776a)
 - [Arrêté du 27 avril 1995 (AGRH9500874A)](arrete-du-27-avril-1995-agrh9500874a)
 - [Arrêté du 27 avril 1995 (AGRH9500875A)](arrete-du-27-avril-1995-agrh9500875a)

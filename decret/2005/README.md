@@ -99,7 +99,6 @@
 - [Décret n°2005-951 du 2 août 2005 (DEVO0530014D)](decret-n2005-951-du-2-aout-2005-devo0530014d)
 - [Décret n°99-555 du 2 juillet 1999 (AGRA9900465D)](decret-n99-555-du-2-juillet-1999-agra9900465d)
 - [Décret n°2005-417 du 2 mai 2005 (SANS0520538D)](decret-n2005-417-du-2-mai-2005-sans0520538d)
-- [Décret n°2005-423 du 2 mai 2005 (BUDB0570006D)](decret-n2005-423-du-2-mai-2005-budb0570006d)
 - [Décret n°2005-441 du 2 mai 2005 (INTB0500101D)](decret-n2005-441-du-2-mai-2005-intb0500101d)
 - [Décret n°2005-442 du 2 mai 2005 (INTB0500102D)](decret-n2005-442-du-2-mai-2005-intb0500102d)
 - [Décret du 3 février 1993 (PTTR9200690D)](decret-du-3-fevrier-1993-pttr9200690d)

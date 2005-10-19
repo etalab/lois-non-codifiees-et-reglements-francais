@@ -11,7 +11,6 @@
 - [Ordonnance n° 2005-898 du 2 août 2005 (EQUX0500157R)](ordonnance-n-2005-898-du-2-aout-2005-equx0500157r)
 - [Ordonnance n° 2005-901 du 2 août 2005 (FPPX0500189R)](ordonnance-n-2005-901-du-2-aout-2005-fppx0500189r)
 - [Ordonnance n° 2005-903 du 2 août 2005 (PMEX0500190R)](ordonnance-n-2005-903-du-2-aout-2005-pmex0500190r)
-- [Ordonnance n°2005-892 du 2 août 2005 (SOCX0500187R)](ordonnance-n2005-892-du-2-aout-2005-socx0500187r)
 - [Ordonnance n° 2005-406 du 2 mai 2005 (SANX0500028R)](ordonnance-n-2005-406-du-2-mai-2005-sanx0500028r)
 - [Ordonnance n° 2005-10 du 4 janvier 2005 (DOMX0400146R)](ordonnance-n-2005-10-du-4-janvier-2005-domx0400146r)
 - [Ordonnance n° 2005-645 du 6 juin 2005 (INTX0500100R)](ordonnance-n-2005-645-du-6-juin-2005-intx0500100r)
