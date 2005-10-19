@@ -10,7 +10,7 @@ Le quotient électoral est égal au nombre total des suffrages obtenus par les d
 
 Les sièges non pourvus par application du quotient sont attribués suivant la règle de la plus forte moyenne.
 
-A cet effet, le nombre de voix restantes obtenues par chaque liste est divisé par le nombre, augmenté d'une unité, des sièges déjà attribués à la liste.
+A cet effet, le nombre de voix obtenues par chaque liste est divisé par le nombre, augmenté d'une unité, des sièges déjà attribués à la liste.
 
 Le premier siège non pourvu est attribué à la liste ayant le plus fort résultat.
 
