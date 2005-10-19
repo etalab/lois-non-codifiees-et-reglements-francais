@@ -106,6 +106,7 @@
 - [Arrêté du 6 juillet 2005 (MJSK0570116A)](arrete-du-6-juillet-2005-mjsk0570116a)
 - [Arrêté du 6 juillet 2005 (SANS0522578A)](arrete-du-6-juillet-2005-sans0522578a)
 - [Arrêté du 6 juin 2005 (DEFD0500761A)](arrete-du-6-juin-2005-defd0500761a)
+- [Arrêté du 6 octobre 2005 (MENF0502000A)](arrete-du-6-octobre-2005-menf0502000a)
 - [Arrêté du 7 avril 2005 (AGRG0500832A)](arrete-du-7-avril-2005-agrg0500832a)
 - [Arrêté du 7 avril 2005 (DEFK0500490A)](arrete-du-7-avril-2005-defk0500490a)
 - [Arrêté du 7 avril 2005 (EQUA0500106A)](arrete-du-7-avril-2005-equa0500106a)
