@@ -1,0 +1,3 @@
+# Article 12-5
+
+A titre transitoire, les candidats ayant subi avec succès, jusqu'à la session 2004 incluse, une ou deux épreuves du certificat d'aptitude aux actions pédagogiques spécialisées d'adaptation et d'intégration scolaires (CAAPSAIS) peuvent choisir jusqu'au 30 juin 2006 soit de présenter les unités de spécialisation manquantes du CAAPSAIS, soit de présenter les épreuves du certificat d'aptitude professionnelle pour les aides spécialisées, les enseignements adaptés et la scolarisation des élèves en situation de handicap (CAPA-SH) prévues à l'article 9 de l'arrêté du 5 janvier 2004 susvisé. Les candidats formulent leur demande de bénéficier de ces mesures transitoires au moment de leur inscription.
