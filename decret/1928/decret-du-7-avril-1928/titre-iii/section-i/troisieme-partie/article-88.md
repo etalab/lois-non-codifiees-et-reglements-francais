@@ -1,7 +1,0 @@
-# Article 88
-
-Les jugements rendus par défaut sont susceptibles d'opposition. Cette opposition est recevable jusqu'à l'exécution du jugement. Les jugements par défaut ne seront pas exécutoires avant l'échéance de la huitaine de la signification au mandataire s'il y en a un, ou dans le cas contraire à personne ou domicile, sauf les cas où, vu l'urgence, le juge a ordonné l'exécution, nonobstant opposition.
-
-Tous jugements par défaut seront signifiés par huissiers commis, soit par le tribunal, soit par le juge du domicile du défaillant que le tribunal aura désigné. Ils seront exécutés dans les six mois de leur obtention, sinon réputés non avenus.
-
-Toutefois, la péremption du jugement rendu par défaut contre une partie, domiciliée hors de la Nouvelle-Calédonie, ne sera pas encourue, si ce jugement n'a pu être exécuté en raison du délai des distances dans les termes et délais prescrits au paragraphe 2 du présent article, pourvu que ce jugement ait été signifié au plus tard dans les trois mois de son obtention. En outre, la signification de ce jugement fera courir à l'encontre de la partie défaillante le délai d'opposition, qui sera de deux mois à compter de cette signification, ainsi que le délai d'appel qui sera de deux mois à compter de l'expiration du délai d'opposition, le tout à charge par le demandeur de faire dans l'exploit d'ajournement et réitérer dans la signification du jugement la déclaration qu'il entend se prévaloir des dispositions contenues dans le présent paragraphe.

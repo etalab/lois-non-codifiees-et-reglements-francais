@@ -1,3 +1,0 @@
-# Article 128
-
-Toutes les fois que le code de procédure ordonne des formalités telles que appositions de placard, affiches, publications, vente d'effets mobiliers, dans les lieux ou dans une forme déterminée et que ces formalités ne peuvent être exécutées conformément au code, à raison d'un empêchement local, ou qu'elles ne peuvent l'être que d'une manière dommageable pour les parties, par suite de l'état des lieux, la partie doit se pourvoir devant le juge, qui détermine, par ordonnance rendue sans appel, le mode d'accomplissement de ces formalités en se conformant autant que possible aux prescriptions du code.
