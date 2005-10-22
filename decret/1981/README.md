@@ -44,7 +44,6 @@
 - [Décret n°81-605 du 18 mai 1981](decret-n81-605-du-18-mai-1981)
 - [Décret n°81-38 du 21 janvier 1981](decret-n81-38-du-21-janvier-1981)
 - [Décret n°81-45 du 21 janvier 1981](decret-n81-45-du-21-janvier-1981)
-- [Décret n°81-1142 du 23 décembre 1981](decret-n81-1142-du-23-decembre-1981)
 - [Décret n°81-1046 du 24 novembre 1981](decret-n81-1046-du-24-novembre-1981)
 - [Décret n°81-183 du 24 février 1981](decret-n81-183-du-24-fevrier-1981)
 - [Décret n°81-1055 du 25 novembre 1981](decret-n81-1055-du-25-novembre-1981)
