@@ -429,7 +429,6 @@
 - [Décret n°99-952 du 16 novembre 1999 (MESG9922810D)](decret-n99-952-du-16-novembre-1999-mesg9922810d)
 - [Décret n°80-351 du 16 mai 1980](decret-n80-351-du-16-mai-1980)
 - [Décret n°2000-265 du 17 mars 2000 (MENF0000158D)](decret-n2000-265-du-17-mars-2000-menf0000158d)
-- [Décret n°78-774 du 17 juillet 1978](decret-n78-774-du-17-juillet-1978)
 - [Décret n°98-611 du 17 juillet 1998 (INTM9800004D)](decret-n98-611-du-17-juillet-1998-intm9800004d)
 - [Décret n°99-111 du 17 février 1999 (MCCI9900025D)](decret-n99-111-du-17-fevrier-1999-mcci9900025d)
 - [Décret n°99-113 du 17 février 1999 (PRMX9900015D)](decret-n99-113-du-17-fevrier-1999-prmx9900015d)

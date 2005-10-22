@@ -535,7 +535,6 @@
 - [Décret n°2005-1291 du 18 octobre 2005 (JUSC0520775D)](decret-n2005-1291-du-18-octobre-2005-jusc0520775d)
 - [Décret n°2005-147 du 18 février 2005 (DEVD0530017D)](decret-n2005-147-du-18-fevrier-2005-devd0530017d)
 - [Décret n°2005-156 du 18 février 2005 (SANP0423672D)](decret-n2005-156-du-18-fevrier-2005-sanp0423672d)
-- [Décret n°2005-254 du 18 mars 2005 (ECOM0520002D)](decret-n2005-254-du-18-mars-2005-ecom0520002d)
 - [Décret n°2005-355 du 18 avril 2005 (FPPA0500023D)](decret-n2005-355-du-18-avril-2005-fppa0500023d)
 - [Décret n°2005-356 du 18 avril 2005 (SOCO0510326D)](decret-n2005-356-du-18-avril-2005-soco0510326d)
 - [Décret n°2005-364 du 18 avril 2005 (DEFD0500271D)](decret-n2005-364-du-18-avril-2005-defd0500271d)
