@@ -12,12 +12,10 @@ c) Lorsque ces normes ne sont assorties d'aucune disposition concernant la véri
 
 d) Lorsque le marché public porte sur l'étude et la production d'armes, munitions et matériels de guerre.
 
-3° En cas de difficulté dans l'application des normes homologuées transposant les normes européennes dans les contrats mentionnés au 2° de l'article 13, en complément des cas de dérogations prévues au 2° du présent article, il peut être dérogé à l'obligation d'introduire ou de mentionner explicitement les normes homologuées transposant des normes européennes, lorsque celles-ci sont impropres à l'application particulière envisagée, ou ne tiennent pas compte des développements techniques survenus depuis leur adoption.
-
-La personne partie au contrat qui a recours à cette dérogation en informe l'Afnor en précisant les motifs de cette dérogation.
+3° (alinéa abrogé).
 
 4° a) Il est fait mention expresse dans les marchés, ou contrats visés au 1° de l'article 13, des normes homologuées auxquelles ils dérogent au titre du présent article, et des motifs de ces dérogations.
 
 Ces dérogations sont portées sans délai à la connaissance de l'Association française de normalisation qui fait rapport chaque année au groupe interministériel des normes.
 
-b) Il est fait mention du recours à une dérogation au titre du présent article dans les avis de mise en concurrence pour les contrats visés au 2° de l'article 13.
+b) (alinéa abrogé).
