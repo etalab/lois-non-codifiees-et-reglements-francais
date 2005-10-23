@@ -4,10 +4,10 @@ Sont agréés, pour effectuer les essais de réaction au feu définis par l'arti
 
 Centre scientifique et technique du bâtiment (CSTB) ;
 
-Laboratoire national d'essais (LNE) ;
+Laboratoire national de métrologie et d'essais (LNE) ;
 
 Laboratoire central de la préfecture de police (LCPP) ;
 
-Société nationale des poudres et explosifs (SNPE) ;
+SNPE matériaux énergétiques (SME) ;
 
 Institut français du textile et de l'habillement (IFTH).
