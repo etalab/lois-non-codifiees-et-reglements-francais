@@ -16,6 +16,6 @@ Le directeur général assure la direction de l'établissement. A ce titre :
 
 7° Il peut créer des commissions ou comités consultatifs dont il fixe la composition et les missions.
 
-Le directeur général est assisté de deux directeurs adjoints nommés selon les modalités fixées par le décret du 4 avril 1978 susvisé. Dans la gestion administrative et financière de l'établissement, il est assisté d'un secrétaire général nommé, sur sa proposition, par le ministre chargé de l'éducation.
+Le directeur général est assisté de deux directeurs adjoints. Dans la gestion administrative et financière de l'établissement, il est assisté d'un secrétaire général.
 
 Il peut déléguer sa signature aux agents de l'établissement.
