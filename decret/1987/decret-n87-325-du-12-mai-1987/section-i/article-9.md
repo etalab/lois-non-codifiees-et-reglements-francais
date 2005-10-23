@@ -1,8 +1,6 @@
 # Article 9
 
-Le directeur de l'établissement international d'études pédagogiques est nommé par décret pour une période de trois ans. Son mandat est renouvelable. Les conditions de nomination et d'avancement dans l'emploi sont définies par décret en Conseil d'Etat.
-
-Il assure l'exécution des délibérations du conseil d'administration.
+Le directeur du Centre international d'études pédagogiques assure l'exécution des délibérations du conseil d'administration.
 
 Il représente l'établissement en justice et dans tous les actes de la vie civile.
 
