@@ -64,8 +64,6 @@
 - [Décret n°78-924 du 22 août 1978](decret-n78-924-du-22-aout-1978)
 - [Décret n°67-238 du 23 mars 1967](decret-n67-238-du-23-mars-1967)
 - [Décret n°78-1031 du 23 octobre 1978](decret-n78-1031-du-23-octobre-1978)
-- [Décret n°78-1103 du 23 novembre 1978](decret-n78-1103-du-23-novembre-1978)
-- [Décret n°78-1104 du 23 novembre 1978](decret-n78-1104-du-23-novembre-1978)
 - [Décret n°78-1108 du 23 novembre 1978](decret-n78-1108-du-23-novembre-1978)
 - [Décret n°78-409 du 23 mars 1978](decret-n78-409-du-23-mars-1978)
 - [Décret n°78-194 du 24 février 1978](decret-n78-194-du-24-fevrier-1978)
