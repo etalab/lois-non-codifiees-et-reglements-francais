@@ -155,7 +155,6 @@
 - [Décret n°84-854 du 21 septembre 1984](decret-n84-854-du-21-septembre-1984)
 - [Décret n°84-856 du 21 septembre 1984](decret-n84-856-du-21-septembre-1984)
 - [Décret n°84-857 du 21 septembre 1984](decret-n84-857-du-21-septembre-1984)
-- [Décret n°84-377 du 21 mai 1984](decret-n84-377-du-21-mai-1984)
 - [Décret n°84-383 du 21 mai 1984](decret-n84-383-du-21-mai-1984)
 - [Décret n°84-1026 du 22 novembre 1984](decret-n84-1026-du-22-novembre-1984)
 - [Décret n°84-121 du 22 février 1984](decret-n84-121-du-22-fevrier-1984)
