@@ -1,0 +1,3 @@
+# Article 3
+
+Pour les personnels appartenant aux corps des agents administratifs des services déconcentrés, des adjoints administratifs des services déconcentrés, des agents de service, des agents des services techniques des services déconcentrés, des ouvriers d'entretien et d'accueil, des ouvriers professionnels, des maîtres ouvriers, des conducteurs d'automobile et des chefs de garage, les recteurs d'académie reçoivent délégation de pouvoirs du ministre chargé de l'éducation nationale pour la mise à disposition et le détachement prévus, respectivement, aux articles 105 et 109 de la loi n° 2004-809 du 13 août 2004 susvisée.
