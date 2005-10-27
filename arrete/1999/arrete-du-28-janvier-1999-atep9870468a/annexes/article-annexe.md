@@ -4,7 +4,7 @@ TITRE Ier : PROCÉDURE DE DÉLIVRANCE DES AGRÉMENTS
 
 Article 1er
 
-Une personne physique ou morale désirant obtenir l'agrément de collecte dans un département adresse au préfet un dossier de demande. Elle dépose une consignation de 5 000 F à la Caisse des dépôts et consignations. Cette consignation n'est pas nécessaire pour les ramasseurs agréés sur la zone considérée et ayant versé la consignation de 10 000 F prévue à l'article 5 du présent arrêté.
+Une personne physique ou morale désirant obtenir l'agrément de collecte dans un département adresse au préfet un dossier de demande. Elle dépose une consignation de 725 euros à la Caisse des dépôts et consignations. Cette consignation n'est pas nécessaire pour les ramasseurs agréés sur la zone considérée et ayant versé la consignation de 1 500 euros prévue à l'article 5 du présent arrêté.
 
 Article 2
 
@@ -32,7 +32,7 @@ Le dossier de candidature comprend, en trois exemplaires :
 
 Article 3
 
-Le préfet procède à l'examen de la candidature. Après consultation de la commission départementale d'agrément, et suivant la décision prise, l'arrêté délivrant l'agrément est publié au Recueil des actes administratifs de la préfecture et mentionné dans deux journaux au moins de la presse locale ou régionale diffusés dans le département. Les frais de publication seront à la charge du titulaire de l'agrément.
+Le préfet procède à l'examen de la candidature. Après consultation des services intéressés et de l'agence de l'environnement et de la maîtrise de l'énergie, et suivant la décision prise, l'arrêté délivrant l'agrément est publié au Recueil des actes administratifs de la préfecture et mentionné dans deux journaux au moins de la presse locale ou régionale diffusés dans le département. Les frais de publication seront à la charge du titulaire de l'agrément.
 
 Article 4
 

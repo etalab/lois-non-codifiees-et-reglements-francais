@@ -1,0 +1,3 @@
+# Article 4-1
+
+Les pouvoirs délégués aux présidents des universités et aux présidents ou directeurs des autres établissements publics d'enseignement supérieur pour la gestion des agents non titulaires de l'Etat mentionnés au II de l'article 1er du présent arrêté concernent l'octroi des congés prévus aux titres III, IV et V du décret du 17 janvier 1986 relatif aux dispositions générales applicables aux agents non titulaires de l'Etat pris pour l'application de l'article 7 de la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat, sauf pour les cas où l'avis du comité médical supérieur est requis.

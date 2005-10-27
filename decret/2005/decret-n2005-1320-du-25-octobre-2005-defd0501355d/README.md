@@ -1,4 +1,4 @@
-# Arrêté du 12 octobre 2005 portant organisation de la délégation générale à l'emploi et à la formation professionnelle.
+# Décret n°2005-1320 du 25 octobre 2005 relatif aux zones de défense hautement sensibles.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
