@@ -4,10 +4,8 @@ S'agissant des personnels appartenant aux corps des adjoints techniques de reche
 
 1. Avancement d'échelon ;
 
-2. Classement après recrutement par voie de concours ;
+2. Classement dans le corps ;
 
-3. Classement après nomination consécutive à une inscription sur liste d'aptitude ou tableau d'avancement ;
+3. Sanctions disciplinaires du premier groupe prévues à l'article 66 de la loi du 11 janvier 1984 susvisée ;
 
-4. Sanctions disciplinaires du premier groupe prévues à l'article 66 de la loi du 11 janvier 1984 susvisée ;
-
-5. Sanctions disciplinaires prévues aux 1o et 2o de l'article 10 du décret du 7 octobre 1994 susvisé.
+4. Sanctions disciplinaires prévues aux 1o et 2o de l'article 10 du décret du 7 octobre 1994 susvisé.
