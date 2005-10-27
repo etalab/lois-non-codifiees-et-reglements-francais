@@ -499,7 +499,6 @@
 - [Arrêté du 15 septembre 1997 (MCCB9700691A)](arrete-du-15-septembre-1997-mccb9700691a)
 - [Arrêté du 15 mai 1997 (INTB9700211A)](arrete-du-15-mai-1997-intb9700211a)
 - [Arrêté du 15 mai 1997 (JUSB9710216A)](arrete-du-15-mai-1997-jusb9710216a)
-- [Arrêté du 15 mai 1997 (TASO9710635A)](arrete-du-15-mai-1997-taso9710635a)
 - [Arrêté du 16 avril 1997 (BUDD9770986A)](arrete-du-16-avril-1997-budd9770986a)
 - [Arrêté du 16 avril 1997 (JUSC9720262A)](arrete-du-16-avril-1997-jusc9720262a)
 - [Arrêté du 16 décembre 1996 (INTA9600555A)](arrete-du-16-decembre-1996-inta9600555a)
