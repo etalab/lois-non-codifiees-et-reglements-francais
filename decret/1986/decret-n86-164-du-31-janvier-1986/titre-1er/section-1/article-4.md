@@ -13,3 +13,7 @@ Le règlement intérieur adopté par le conseil d'administration définit les dr
 5° La prise en charge progressive par les élèves eux-mêmes de la responsabilité de certaines de leurs activités.
 
 Le règlement intérieur est porté à la connaissance des membres de la communauté scolaire. Tout manquement au règlement intérieur justifie la mise en couvre d'une procédure disciplinaire ou de poursuites appropriées.
+
+Le règlement intérieur comporte un chapitre consacré à la discipline des élèves. Les sanctions qui peuvent être prononcées à leur encontre vont de l'avertissement et du blâme à l'exclusion temporaire ou définitive de l'établissement ou de l'un de ses services annexes. La durée de l'exclusion temporaire ne peut excéder un mois. Des mesures de prévention, d'accompagnement et de réparation peuvent être prévues par le règlement intérieur. Les sanctions peuvent être assorties d'un sursis total ou partiel. Il ne peut être prononcé de sanctions ni prescrit de mesure de prévention, de réparation et d'accompagnement que ne prévoirait pas le règlement intérieur.
+
+Toute sanction, hormis l'exclusion définitive, est effacée du dossier administratif de l'élève au bout d'un an.

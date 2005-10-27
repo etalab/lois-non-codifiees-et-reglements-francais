@@ -1,6 +1,6 @@
 # Article 17
 
-Les représentants des personnels et des parents d'élèves sont élus au scrutin de liste à la représentation proportionnelle au plus fort reste. Pour l'élection des représentants des personnels, les électeurs sont répartis en deux collèges.
+Les représentants des personnels et des parents d'élèves sont élus au scrutin de liste à la représentation proportionnelle au plus fort reste. En cas d'égalité des restes, le siège restant à pourvoir est attribué à la liste qui a obtenu le plus grand nombre de suffrages et, en cas d'égalité du nombre de suffrages, au candidat le plus âgé. Pour l'élection des représentants des personnels, les électeurs sont répartis en deux collèges.
 
 Le premier collège comprend les personnels titulaires ou non titulaires exerçant des fonctions d'enseignement, de direction, d'éducation, de surveillance ou de documentation. Le second collège comprend les personnels titulaires ou non titulaires, d'administration et d'intendance, de santé scolaire, techniques, ouvriers, de service et de laboratoire.
 
@@ -12,8 +12,10 @@ Les non-titulaires ne sont électeurs que s'ils sont employés par l'établissem
 
 Les personnels votent dans l'établissement où ils ont été affectés ou par lequel ils ont été recrutés. Ceux qui exercent dans plusieurs établissements votent dans l'établissement où ils effectuent la partie la plus importante de leur service ; en cas de répartition égale de celui-ci entre deux établissements, ils votent dans l'établissement de leur choix. Les personnels remplaçants votent dans l'établissement où ils exercent leurs fonctions au moment des élections à la condition d'y être affectés pour une durée supérieure à trente jours.
 
-Les fonctionnaires stagiaires régis par le décret n° 49-1239 du 13 septembre 1949 sont électeurs et éligibles.
+Les fonctionnaires stagiaires régis par le décret n° 94-874 du 7 octobre 1994 fixant les dispositions communes applicables aux stagiaires de l'Etat et de ses établissements publics sont électeurs et éligibles.
 
-Les parents d'élèves ou, le cas échéant, celui des parents qui a l'exercice de l'autorité parentale ou la personne à laquelle les enfants ont été confiés sont électeurs et éligibles à raison d'un seul suffrage par famille. Dans le cas où l'autorité parentale est exercée conjointement, le droit de vote est attribué, sauf accord écrit contraire, à celui des parents chez lequel les enfants ont leur résidence habituelle.
+Chaque parent est électeur et éligible sous réserve pour les parents d'enfant mineur de ne s'être pas vu retirer l'autorité parentale. Il ne dispose que d'une voix quel que soit le nombre de ses enfants inscrits dans le même établissement.
 
-Les familles nourricières d'enfants placés sous la garde judiciaire d'organismes sociaux bénéficient également d'un suffrage non cumulatif avec celui dont elles disposeraient déjà au titre de parents d'élèves inscrits dans l'établissement.
+Lorsque l'exercice de l'autorité parentale a été confié à un tiers qui accomplit tous les actes usuels relatifs à la surveillance et à l'éducation de l'enfant, ce tiers exerce à la place des parents le droit de voter et de se porter candidat.
+
+Ce droit de suffrage est non cumulatif avec celui dont il disposerait déjà au titre de parent d'un ou plusieurs élèves inscrits dans l'établissement.

@@ -1,4 +1,4 @@
-# TITRE 4 : Dispositions diverses
+# TITRE 4 : Dispositions applicables aux lycées et collèges municipaux et départementaux et à la médecine de soins
 
 - [Article 48](article-48.md)
 - [Article 49](article-49.md)

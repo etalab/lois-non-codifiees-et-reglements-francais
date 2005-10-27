@@ -8,7 +8,7 @@ a) Représente l'établissement en justice et dans tous les actes de la vie civi
 
 b) A autorité sur le personnel n'ayant pas le statut de fonctionnaire de l'Etat, recruté par l'établissement ;
 
-c) Préside le conseil d'administration, la commission permanente et le conseil des délégués des élèves ;
+c) Préside le conseil d'administration, la commission permanente et l'assemblée générale des délégués des élèves et le conseil des délégués pour la vie lycéenne ;
 
 d) Est ordonnateur des recettes et des dépenses de l'établissement ;
 
@@ -18,7 +18,7 @@ f) Exécute les délibérations du conseil d'administration et notamment le budg
 
 g) Soumet au conseil d'administration les mesures à prendre dans les domaines définis à l'article 2 et exécute les décisions adoptées par le conseil ;
 
-h) Conclut tout contrat ou convention au nom de l'établissement avec l'autorisation du conseil d'administration.
+h) Conclut tout contrat ou convention après avoir recueilli l'autorisation du conseil d'administration. Il informe le conseil d'administration le plus proche des marchés conclus sans autorisation préalable dans les cas prévus à l'article 16 et tient à disposition des membres de ce dernier les documents y afférents.
 
 Lorsque L'établissement eu associé, pour la mise en oeuvre de ses missions de formation continue, à un groupement d'établissements n'ayant pas le caractère de groupement d'intérêt public, le chef d'établissement vise les conventions s'inscrivant dans le programme des actions de formation continue de son établissement qui ont été signées par l'ordonnateur de l'établissement, dit "établissement support" auquel a été confiée la gestion du groupement. Il soumet ces conventions à l'approbation du conseil d'administration lorsqu'elles engagent les finances de l'établissement ou sont susceptibles d'entraîner des conséquences sur la formation initiale et la vie scolaire.
 
@@ -32,7 +32,7 @@ c) Prend toutes dispositions, en liaison avec les autorités administratives com
 
 d) Est responsable de l'ordre dans l'établissement. Il veille au respect des droits et des devoirs de tous les membres de la communauté scolaire et assure l'application du règlement intérieur ;
 
-e) Engage les actions disciplinaires et intente les poursuites devant les juridictions compétentes. A l'égard des élèves, il prononce seul les sanctions de l'avertissement ou de l'exclusion temporaire, de huit jours maximum, de l'établissement, sans préjudice de l'application des sanctions prévues éventuellement par le règlement intérieur.
+e) Engage les actions disciplinaires et intente les poursuites devant les juridictions compétentes. A l'égard des élèves, il peut prononcer seul, dans les conditions fixées à l'article 4, les sanctions suivantes : l'avertissement, le blâme ou l'exclusion temporaire, de huit jours au plus, de l'établissement ou de l'un de ses services annexes ainsi que les mesures de prévention, d'accompagnement et de réparation prévues à cet article.
 
 Le chef d'établissement rend compte de sa gestion au conseil d'administration et en informe l'autorité académique.
 

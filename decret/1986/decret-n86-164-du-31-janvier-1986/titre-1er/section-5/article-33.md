@@ -22,9 +22,7 @@ Sont également membres du conseil de classe lorsqu'ils ont eu à connaître du 
 
 - l'infirmier.
 
-Le chef d'établissement réunit au cours du premier trimestre les responsables des associations et groupements de parents d'élèves qui ont présenté des candidats lors de l'élection des membres du conseil d'administration pour désigner les deux délégués titulaires et les deux délégués suppléants des parents d'élèves de chaque classe à partir des listes préalablement préparées par les associations et groupements de parents d'élèves.
-
-Le chef d'établissement répartit les sièges compte tenu des suffrages recueillis lors de l'élection des membres du conseil d'administration par chaque association ou groupement de parents d'élèves.
+Le chef d'établissement réunit, au cours du premier trimestre, les responsables des listes de candidats qui ont obtenu des voix lors de l'élection des représentants de parents d'élèves au conseil d'administration, pour désigner les deux délégués titulaires et les deux délégués suppléants des parents d'élèves de chaque classe, à partir des listes qu'ils présentent à cette fin. Le chef d'établissement répartit les sièges compte tenu des suffrages obtenus lors de cette élection.
 
 Dans le cas où pour une classe il s'avérerait impossible de désigner des parents d'élèves de la classe, les sièges des délégués pourraient être attribués à des parents d'élèves d'autres classes volontaires.
 

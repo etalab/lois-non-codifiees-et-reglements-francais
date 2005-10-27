@@ -8,6 +8,6 @@ Ces associations peuvent contribuer à l'exercice du droit d'expression collecti
 
 Si les activités d'une telle association portent atteinte aux principes rappelés ci-dessus, le chef d'établissement invite le président de l'association à s'y conformer.
 
-En cas de manquement persistant, le chef d'établissement saisit le conseil d'administration qui peut retirer l'autorisation après avis du conseil des délégués des élèves.
+En cas de manquement persistant, le chef d'établissement saisit le conseil d'administration qui peut retirer l'autorisation après avis du conseil des délégués pour la vie lycéenne des élèves.
 
-Les dispositions du présent article ne sont pas applicables aux associations créées en application de l'article 9 de la loi du 16 juillet 1984 susvisée.
+Les dispositions du présent article ne sont pas applicables aux associations créées en application de l'article L. 552-2 du code de l'éducation.

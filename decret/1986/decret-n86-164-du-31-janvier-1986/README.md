@@ -3,5 +3,5 @@
 - [TITRE 1er : Organisation administrative](titre-1er)
 - [TITRE 2 : Organisation financière](titre-2)
 - [TITRE 3 : Service annexe d'hébergement](titre-3)
-- [TITRE 4 : Dispositions diverses](titre-4)
+- [TITRE 4 : Dispositions applicables aux lycées et collèges municipaux et départementaux et à la médecine de soins](titre-4)
 - [Article 56](article-56.md)

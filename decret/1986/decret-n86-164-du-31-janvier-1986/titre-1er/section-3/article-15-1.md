@@ -6,7 +6,7 @@ a) Il donne son avis sur les mesures annuelles de créations et de suppressions 
 
 b) Les principes de choix des manuels scolaires, des logiciels et des outils pédagogiques ;
 
-c) La modification, par le maire, des heures d'entrée et de sortie de l'établissement prévue à l'article 27 de la loi du 22 juillet 1983.
+c) La modification, par le maire, des heures d'entrée et de sortie de l'établissement prévue à l'article L. 521-3 du code de l'éducation.
 
 Il peut être consulté par le chef d'établissement sur les questions ayant trait au fonctionnement administratif général de l'établissement.
 

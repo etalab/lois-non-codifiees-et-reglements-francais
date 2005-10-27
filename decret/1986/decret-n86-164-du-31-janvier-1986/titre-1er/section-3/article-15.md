@@ -6,7 +6,7 @@ En qualité d'organe délibératif de l'établissement, le conseil d'administrat
 
 2° Il adopte le projet d'établissement ;
 
-3°Il établit chaque année un rapport sur le fonctionnement pédagogique de l'établissement, qui rend compte notamment de la mise en oeuvre du projet d'établissement, des objectifs à atteindre et des résultats obtenus ;
+3°Il établit chaque année un rapport sur le fonctionnement pédagogique et les conditions du fonctionnement matériel de l'établissement, qui rend compte notamment de la mise en oeuvre du projet d'établissement, des objectifs à atteindre et des résultats obtenus ;
 
 4° Il adopte le budget et le compte financier de l'établissement ;
 
@@ -18,7 +18,11 @@ a) Les orientations relatives à la conduite du dialogue avec les parents d'él�
 
 b) Le programme de l'association sportive fonctionnant au sein de l'établissement ;
 
-c) La passation des conventions dont l'établissement est signataire ou l'adhésion à tout groupement d'établissements ;
+c) L'adhésion à tout groupement d'établissements ou la passation des conventions et contrats dont l'établissement est signataire, à l'exception :
+
+- des marchés qui figurent sur un état prévisionnel de la commande publique annexé au budget ou qui s'inscrivent dans le cadre d'une décision modificative adoptée conformément au b de l'article R. 232-4 du code des juridictions financières ;
+
+- en cas d'urgence, des marchés qui se rattachent à des opérations de gestion courante dont le montant est inférieur à 5 000 euros hors taxes, ou à 15 000 euros hors taxes pour les travaux et les équipements ;
 
 d) Les modalités de participation au plan d'action du groupement d'établissements pour la formation des adultes auquel l'établissement adhère, le programme annuel des activités de formation continue et l'adhésion de l'établissement à un groupement d'intérêt public,
 

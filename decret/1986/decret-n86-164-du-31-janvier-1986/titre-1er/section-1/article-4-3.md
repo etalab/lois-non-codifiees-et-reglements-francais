@@ -6,7 +6,7 @@ La liberté de réunion s'exerce dans les conditions ci-après :
 
 2° Dans les lycées, à l'initiative des associations mentionnées à l'article 4-2 ou d'un groupe d'élèves de l'établissement pour des réunions qui contribuent à l'information des élèves.
 
-Le droit de réunion s'exerce en dehors des heures de cours prévues à l'emploi du temps des participants. Le règlement intérieur fixe les modalités d'exercice de ce droit après consultation dans les lycées du conseil des délégués des élèves.
+Le droit de réunion s'exerce en dehors des heures de cours prévues à l'emploi du temps des participants. Le règlement intérieur fixe les modalités d'exercice de ce droit après consultation dans les lycées du conseil des délégués pour la vie lycéenne des élèves.
 
 Le chef d'établissement autorise, sur demande motivée des organisateurs, la tenue des réunions en admettant, le cas échéant, l'intervention de personnalités extérieures. A cette occasion, il peut solliciter l'avis du conseil d'administration.
 
