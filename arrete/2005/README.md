@@ -205,6 +205,7 @@
 - [Arrêté du 12 juillet 2005 (EQUT0500587A)](arrete-du-12-juillet-2005-equt0500587a)
 - [Arrêté du 12 juillet 2005 (MAEA0520200A)](arrete-du-12-juillet-2005-maea0520200a)
 - [Arrêté du 12 mars 2005 (ECOP0500114A)](arrete-du-12-mars-2005-ecop0500114a)
+- [Arrêté du 12 octobre 2005 (SOCO0511975A)](arrete-du-12-octobre-2005-soco0511975a)
 - [Arrêté du 12 septembre 2005 (DEFD0501219A)](arrete-du-12-septembre-2005-defd0501219a)
 - [Arrêté du 12 septembre 2005 (SOCF0511784A)](arrete-du-12-septembre-2005-socf0511784a)
 - [Arrêté du 12 mai 2004 (SANY0421802A)](arrete-du-12-mai-2004-sany0421802a)
