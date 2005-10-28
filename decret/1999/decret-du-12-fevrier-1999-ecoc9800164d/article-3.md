@@ -2,8 +2,6 @@
 
 Seul l'un des noms géographiques suivants peut compléter l'appellation d'origine contrôlée "Côtes du Rhône Villages" :
 
-"Beaumes-de-Venise" : communes de Beaumes-de-Venise, Lafare, La Roque-Alric et Suzette, pour les parcelles incluses dans l'aire de production approuvée par le comité national de l'Institut national des appellations d'origine du 15 mars 1979 ;
-
 "Cairanne" : commune de Cairanne ;
 
 "Chusclan" : pour les seuls vins rouges et rosés des communes de Chusclan, Orsan, Codolet, Bagnols-sur-Cèze et Saint-Etienne-des-Sorts, conformément aux dispositions du jugement du tribunal civil d'Uzès en date du 6 février 1947 ;
