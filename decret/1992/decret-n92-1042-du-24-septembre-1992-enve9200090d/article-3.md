@@ -1,8 +1,8 @@
 # Article 3
 
-Lorsque le périmètre du projet de schéma d'aménagement et de gestion des eaux a été publié, le préfet arrête la composition de la commission locale de l'eau, dont la création est prévue à l'article 5 de la loi du 3 janvier 1992 susvisée.
+Lorsque le périmètre du projet de schéma d'aménagement et de gestion des eaux a été publié, le préfet arrête la composition de la commission locale de l'eau, dont la création est prévue à l'article L. 212-4 du code de l'environnement susvisé.
 
-La liste des membres de la commission est publiée au Recueil des actes administratifs de chacun des départements intéressés et insérée dans deux journaux régionaux ou locaux diffusés dans chaque département.
+L'arrêté constituant la commission ou renouvelant l'ensemble de ses membres est publié au recueil des actes administratifs de chacun des départements intéressés. Cette publication mentionne le site internet où la liste des membres peut être consultée.
 
 La commission est composée de trois collèges distincts :
 

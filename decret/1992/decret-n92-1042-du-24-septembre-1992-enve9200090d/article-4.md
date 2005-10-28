@@ -8,11 +8,11 @@ Le président de la commission conduit la procédure d'élaboration du projet d'
 
 Le président fixe les dates et les ordres du jour des séances de la commission qui sont envoyés quinze jours avant la réunion.
 
-La commission ne peut valablement délibérer que si les deux tiers au moins de ses membres sont présents ou représentés par leur suppléant. Toutefois, lorsqu'une convocation n'a pas permis de réunir le quorum, les délibérations intervenues à la suite d'une seconde convocation, envoyée dans un délai de huit jours avant la date de la réunion, sont valables quel que soit le nombre des membres présents.
+Les délibérations de la commission sont prises à la majorité des voix des membres présents, la voix du président étant prépondérante en cas de partage égal des voix.
 
-Les délibérations sont prises à la majorité des voix des membres présents, la voix du président étant prépondérante en cas de partage.
+Toutefois, la commission ne peut valablement délibérer sur son règlement intérieur ainsi que sur l'adoption, la modification et la révision du schéma d'aménagement et de gestion des eaux que si les deux tiers de ses membres sont présents ; si ce quorum n'est pas atteint après une seconde convocation, la commission peut valablement délibérer quel que soit le nombre des membres présents.
 
-Toutefois, cette majorité est portée aux deux tiers pour l'adoption de toute délibération relative au schéma d'aménagement et de gestion des eaux.
+Les délibérations mentionnées à l'alinéa précédent doivent être adoptées à la majorité des deux tiers des membres présents.
 
 La commission locale de l'eau auditionne des experts en tant que de besoin ou à la demande de cinq au moins des membres de la commission.
 

@@ -1,6 +1,6 @@
 # Article 1
 
-La procédure d'élaboration des schémas d'aménagement et de gestion des eaux, prévus par l'article 5 de la loi du 3 janvier 1992 susvisée, pour satisfaire aux objectifs énumérés aux articles 1er et 2 de ladite loi, est régie par les dispositions du présent décret.
+La procédure d'élaboration des schémas d'aménagement et de gestion des eaux, prévus par l'article L. 212-3 du code de l'environnement susvisé, pour satisfaire aux objectifs énumérés aux articles L. 210-1 et L. 211-1 du code de l'environnement, est régie par les dispositions du présent décret.
 
 Les dispositions des articles 2 à 4 ne sont pas applicables à la procédure d'élaboration des schémas d'aménagement et de gestion des eaux conduite par la collectivité territoriale de Corse.
 
