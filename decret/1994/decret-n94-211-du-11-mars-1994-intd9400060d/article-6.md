@@ -1,7 +1,5 @@
 # Article 6
 
-La demande de carte de séjour doit être formulée dans un délai de trois mois à compter de l'entrée en France des requérants.
+Les ressortissants des Etats membres de l'Union européenne, des autres Etats parties à l'Espace économique européen et de la Confédération suisse ainsi que les membres de leur famille ressortissants d'un de ces mêmes Etats mentionnés à l'article 1er séjournent régulièrement en France sous le couvert du document avec lequel ils ont pénétré sur le territoire français.
 
-Au moment de leur demande de première délivrance de titre de séjour, ils doivent présenter le document sous le couvert duquel ils ont pénétré sur le territoire.
-
-La carte de séjour peut être refusée pour un motif d'ordre public s'il est constaté que le requérant est atteint d'une des maladies ou infirmités pouvant mettre en danger l'ordre public ou la sécurité publique figurant sur la liste annexée au présent décret.
+S'ils en font la demande et sont âgés de plus de dix-huit ans, ils reçoivent une carte de séjour dans les conditions prévues au présent décret.

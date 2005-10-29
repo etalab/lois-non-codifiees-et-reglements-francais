@@ -1,5 +1,5 @@
 # Article 8
 
-La carte de séjour est valable pour l'ensemble du territoire français.
+Les personnes mentionnées à l'article 1er doivent être en mesure de justifier par tout moyen qu'elles entrent dans le champ d'application de cet article pour séjourner en France.
 
-Le conjoint, les descendants de moins de vingt et un ans ou à charge d'un travailleur au sens de l'article 1er du présent décret, le conjoint et les enfants à charge d'un bénéficiaire du droit de séjour au sens de l'article 1er (k, l et m) qui n'ont pas la nationalité d'un Etat membre ou (d'un) (des) autre(s) Etat(s) membre(s) de l'Association européenne de libre-échange qui ont adhéré à l'accord sur l'Espace économique européen et pour lesquels cet accord est entré en vigueur, sont dispensés d'autorisation pour exercer une activité professionnelle salariée ou non salariée.
+Les personnes mentionnées aux c, d et e de cet article, à l'exception de celles qui sont employées dans les activités d'intermédiaires du commerce, de l'industrie et de l'artisanat, doivent être en mesure de présenter la déclaration d'engagement ou d'emploi établie par leur employeur. Cette déclaration doit indiquer la durée prévue de l'emploi.

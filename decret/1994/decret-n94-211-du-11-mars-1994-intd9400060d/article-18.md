@@ -1,3 +1,15 @@
 # Article 18
 
-Toute personne mentionnée à l'article 1er qui aura pénétré en France sans se conformer aux dispositions de l'article 4 sera punie des peines d'amende de la contravention de 5e classe [*sanction pénale.*]
+Par dérogation aux dispositions de l'article 6, les ressortissants estoniens, hongrois, lettons, lituaniens, polonais, slovaques, slovènes et tchèques âgés de plus de seize ans, ainsi que les membres de leur famille qui ne sont pas ressortissants d'un Etat membre de l'Union européenne, d'un autre Etat partie à l'accord sur l'Espace économique européen ou de la Confédération suisse sont soumis, pendant le temps de validité des mesures transitoires mentionnées à l'article 17, à l'obligation de détenir un titre de séjour lorsqu'ils exercent une activité économique sur le territoire français.
+
+Lorsqu'ils appartiennent à l'une des catégories mentionnées aux a et b de l'article 1er, ils reçoivent une carte de séjour dans les conditions et pour la durée prévues au présent décret pour chacune de ces catégories. Les membres de leur famille, tels que mentionnés au n de l'article 1er, reçoivent une carte de séjour de même durée de validité. La délivrance d'une carte de séjour en application du présent alinéa ne dispense pas son titulaire de se conformer aux dispositions de l'article 17 si, pendant la période transitoire mentionnée à cet article, il entend exercer une activité salariée.
+
+Les personnes autorisées à exercer en France une activité salariée dans les conditions prévues à l'article 17 reçoivent une carte de séjour d'une durée de validité de dix ans. Leur conjoint et leurs descendants de moins de vingt et un ans ou à charge reçoivent une carte de séjour de même durée de validité portant la mention :
+
+"Toutes activités professionnelles". Cette carte de séjour leur permet d'exercer toute activité salariée ou non salariée sur le territoire français.
+
+Les travailleurs temporaires qui exercent une activité salariée pour une durée inférieure à un an et supérieure à trois mois, titulaires de l'autorisation provisoire de travail délivrée dans les conditions prévues à l'article R. 341-7 du code du travail, reçoivent une carte de séjour faisant référence à cette autorisation et de même durée de validité. Il en va de même du travailleur saisonnier titulaire du contrat mentionné à l'article R. 341-7-2 du code du travail.
+
+Les personnes déjà admises sur le marché de l'emploi français pour une durée d'emploi égale ou supérieure à douze mois à la date d'adhésion de l'Etat membre dont ils sont ressortissants, sous couvert d'une carte de séjour temporaire mentionnée aux articles L. 313-8 à L. 313-11 du code de l'entrée et du séjour des étrangers et du droit d'asile ou sous couvert d'une carte de résident, ainsi que leur conjoint et leurs descendants de moins de 21 ans ou à charge reçoivent, à l'expiration de la carte de séjour dont ils sont titulaires, une carte de séjour d'une durée de validité de dix ans portant la mention : "Toutes activités professionnelles". Cette carte de séjour leur permet d'exercer toute activité salariée ou non salariée sur le territoire français.
+
+Les personnes visées aux i et j de l'article 1er ainsi que les membres de leur famille mentionnés au n reçoivent une carte de séjour de dix ans portant la mention : "Toutes activités professionnelles".
