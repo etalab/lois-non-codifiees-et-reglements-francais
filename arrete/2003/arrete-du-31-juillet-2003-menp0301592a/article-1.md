@@ -38,7 +38,17 @@ I.-Aux vice-recteurs de Nouvelle-Calédonie, des îles Wallis et Futuna, de Mayo
 
 17. Aux autorisations de cumul de rémunérations publiques et aux autorisations de cumul d'emploi public et d'activité privée lucrative ;
 
-18.A la cessation progressive d'activité.
+18.A la cessation progressive d'activité ;
+
+19. Au recul de limite d'âge, au maintien en activité et à la prolongation d'activité ;
+
+20. A la radiation des cadres prononcée dans l'une des circonstances suivantes :
+
+a) Par anticipation, conformément au titre V du livre Ier du code des pensions civiles et militaires de retraite ;
+
+b) En vue de l'admission à la retraite, tant à la demande des fonctionnaires que d'office en raison de leur âge ;
+
+c) Consécutivement à un abandon de poste.
 
 II.-Aux vice-recteurs de Nouvelle-Calédonie et de Mayotte, pour les corps de personnels qui disposent d'une commission administrative paritaire locale, les premières et les nouvelles affectations des personnels nommés dans l'enseignement secondaire au sein de ces deux collectivités, ainsi que les décisions relatives :
 
@@ -52,4 +62,14 @@ II.-Aux vice-recteurs de Nouvelle-Calédonie et de Mayotte, pour les corps de pe
 
 5.A la disponibilité, sauf lorsque l'avis du Comité médical supérieur est requis ;
 
-6. Au congé de fin d'activité.
+6. Au congé de fin d'activité ;
+
+7. Au détachement dans les cas suivants :
+
+a) Cas prévu au a du 4° de l'article 14 du décret du 16 septembre 1985 susvisé pour exercer les fonctions d'attaché temporaire d'enseignement et de recherche ;
+
+b) Cas prévu au 10° de l'article 14 du décret du 16 septembre 1985 déjà mentionné ;
+
+8. A la radiation des cadres prononcée consécutivement à une démission acceptée ;
+
+9. Aux sanctions disciplinaires des premier et deuxième groupes de l'article 66 de la loi du 11 janvier 1984 susvisée et des 1°, 2° et 3° de l'article 10 du décret du 7 octobre 1994 susvisé.
