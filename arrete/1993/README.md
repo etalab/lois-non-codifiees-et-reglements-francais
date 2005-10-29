@@ -441,7 +441,6 @@
 - [Arrêté du 15 septembre 1995 (SANG9502125A)](arrete-du-15-septembre-1995-sang9502125a)
 - [Arrêté du 15 septembre 1995 (SANG9502126A)](arrete-du-15-septembre-1995-sang9502126a)
 - [Arrêté du 15 mai 1993 (BUDP9300304A)](arrete-du-15-mai-1993-budp9300304a)
-- [Arrêté du 16 août 1993 (INTC9300496A)](arrete-du-16-aout-1993-intc9300496a)
 - [Arrêté du 16 août 1993 (MENF9305883A)](arrete-du-16-aout-1993-menf9305883a)
 - [Arrêté du 16 décembre 1992 (MENH9200514A)](arrete-du-16-decembre-1992-menh9200514a)
 - [Arrêté du 16 décembre 1992 (MENH9200515A)](arrete-du-16-decembre-1992-menh9200515a)
