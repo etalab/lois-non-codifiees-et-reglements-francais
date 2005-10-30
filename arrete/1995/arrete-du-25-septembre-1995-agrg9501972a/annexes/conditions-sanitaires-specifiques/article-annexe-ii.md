@@ -24,11 +24,7 @@ d) Que, en cas de conditionnement en vrac, le véhicule ou le conteneur utilisé
 
 Chapitre II : Boyaux d'animaux.
 
-Les échanges de boyaux d'animaux sont subordonnés à la présentation du document commercial prévu à l'article 4, point 3°, du présent arrêté, précisant :
-
-a) Dans le cas où les boyaux ont été salés ou séchés, que l'établissement d'origine est enregistré ou agréé par l'autorité compétente ;
-
-b) Dans les cas non visés au point a ci-dessus, qu'ils proviennent d'un établissement agréé conformément à la directive 64/433/CEE précitée et qu'ils sont transportés de manière à éviter toute contamination.
+(Dispositions abrogées).
 
 Chapitre III : Peaux d'ongulés non couvertes par la directive 64/433/CEE et 72/462/CEE, et non soumises à certains processus de tannage.
 
@@ -52,7 +48,7 @@ Chapitre III : Peaux d'ongulés non couvertes par la directive 64/433/CEE et 72/
 
 - séchage pendant 42 jours à une température d'au moins 20 °C.
 
-3° Les échanges de peaux fraîches ou réfrigérées sont soumis aux mêmes conditions de police sanitaire que celles applicables aux viandes fraîches conformément à la directive 72/461/CEE précitée.
+3° (Dispositions abrogées).
 
 4° Les échanges de peaux traitées sont autorisés sous réserve que chaque lot soit accompagné du document commercial prévu à l'article 4, point 3°, du présent arrêté attestant :
 
@@ -98,11 +94,7 @@ Chapitre V : Os et produits à base d'os (à l'exclusion de la farine d'os), cor
 
 1° Les produits visés au présent chapitre doivent être accompagnés, lors des échanges entre les Etats membres, du document commercial prévu à l'article 4, point 3°, du présent arrêté.
 
-2° En outre, s'ils sont destinés à l'alimentation humaine ou animale :
-
-a) Les os, les cornes et les onglons faisant l'objet d'échanges sont soumis aux conditions sanitaires prévues par la directive 72/461/CEE précitée.
-
-b) Les produits à base d'os, les produits à base de corne et les produit à base d'onglons faisant l'objet d'échanges sont soumis aux conditions sanitaires prévues par la directive 80/215/CEE précitée.
+2° (Dispositions abrogées).
 
 Chapitre VI : Protéines animales transformées et produits renfermant des protéines animales transformées destinés à l'alimentation animale.
 
@@ -116,11 +108,7 @@ En particulier, dans le cas où ces protéines animales ont été préparées à
 
 Chapitre VII : Sang et produits sanguins d'ongulés et de volailles (à l'exception du sérum d'équidés).
 
-1° Sang frais et produits sanguins destinés à la consommation humaine :
-
-a) Le sang frais est soumis, lors des échanges, aux mêmes conditions sanitaires que celles prévues pour les échanges de viandes fraîches ;
-
-b) Les produits sanguins doivent, lors des échanges, être accompagnés du document commercial prévu à l'article 4, point 3°, du présent arrêté.
+1° (Dispositions abrogées).
 
 2° Le sang frais et les produits sanguins non destinés à la consommation humaine doivent, lors des échanges, être accompagnés du document commercial prévu à l'article 4, point 3°, du présent arrêté.
 

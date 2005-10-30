@@ -14,7 +14,7 @@ Les mesures appliquées dans la zone de protection comprennent :
 
 6° L'interdiction de sortie des volailles et des oeufs à couver de l'exploitation où ils se trouvent, sauf si le directeur des services vétérinaires a autorisé le transport :
 
-a) De volailles en vue de leur abattage immédiat dans un abattoir situé de préférence dans la zone infectée ou, si cela n'est pas possible, dans un autre abattoir situé en dehors de la zone et désigné par le directeur des services vétérinaires. Les viandes de ces volailles sont munies de la marque spéciale de salubrité prévue à l'article 5, paragraphe 1, de la directive n° 91/494/C.E.E. susvisée ;
+a) De volailles en vue de leur abattage immédiat dans un abattoir situé de préférence dans la zone infectée ou, si cela n'est pas possible, dans un autre abattoir situé en dehors de la zone et désigné par le directeur départemental des services vétérinaires. Les viandes issues de ces volailles sont identifiées au moyen de la marque spéciale mentionnée à l'article 4 de l'arrêté interministériel du 14 octobre 2005 susvisé fixant les règles générales de police sanitaire relatives aux produits d'origine animale destinés à la consommation humaine. Elles sont manipulées, transportées, entreposées et, le cas échéant, traitées conformément aux exigences des dispositions du même article ;
 
 b) De poussins d'un jour ou de poulettes prêtes à la ponte vers une exploitation qui est située dans la zone de surveillance et dans laquelle il n'y a aucune autre volaille.
 

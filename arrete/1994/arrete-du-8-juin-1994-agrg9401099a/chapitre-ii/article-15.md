@@ -6,7 +6,7 @@ Les mesures appliquées dans la zone de surveillance comprennent :
 
 2° Le contrôle des mouvements de volailles et d'oeufs à couver à l'intérieur de la zone ;
 
-3° L'interdiction des mouvements de volailles hors de la zone pendant les quinze premiers jours, sauf pour les acheminer directement vers un abattoir situé en dehors de la zone de surveillance et désigné par le directeur des services vétérinaires. Les viandes de ces volailles sont munies de la marque de salubrité conformément aux conditions prévues à l'article 5 de la directive n° 91/494/C.E.E. susvisée ;
+3° L'interdiction des mouvements de volailles hors de la zone pendant les quinze premiers jours, sauf pour les acheminer directement vers un abattoir situé en dehors de la zone de surveillance et désigné par le directeur départemental des services vétérinaires. Les viandes issues de ces volailles sont identifiées au moyen de la marque spéciale mentionnée à l'article 4 de l'arrêté interministériel du 14 octobre 2005 susvisé fixant les règles générales de police sanitaire relatives aux produits d'origine animale destinés à la consommation humaine. Elles sont manipulées, transportées, entreposées et, le cas échéant, traitées conformément aux exigences des dispositions du même article ;
 
 4° L'interdiction des mouvements d'oeufs à couver hors de la zone de surveillance, sauf à destination des couvoirs désignés par le directeur des services vétérinaires. Les oeufs et leurs emballages doivent être désinfectés avant le départ ;
 
