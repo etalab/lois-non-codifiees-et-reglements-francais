@@ -2,10 +2,12 @@
 
 La liste des travaux pouvant ouvrir droit à la majoration spéciale pour travail intensif mentionnée à l'article 2 du décret du 20 décembre 2002 susvisé est fixée ainsi qu'il suit :
 
-- restauration ;
+-restauration ;
 
-- conduite de véhicules ;
+-conduite de véhicules ;
 
-- surveillance des bâtiments modernes ;
+-surveillance des bâtiments modernes ;
 
-- gardiennage.
+-gardiennage ;
+
+-hôtellerie.

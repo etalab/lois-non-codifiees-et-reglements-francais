@@ -8,4 +8,6 @@ Conduite de véhicules ;
 
 Surveillance des bâtiments modernes ;
 
-Gardiennage.
+Gardiennage ;
+
+Hôtellerie
