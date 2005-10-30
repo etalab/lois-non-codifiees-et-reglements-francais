@@ -328,7 +328,6 @@
 - [Arrêté du 10 janvier 1994 (EQUA9301911A)](arrete-du-10-janvier-1994-equa9301911a)
 - [Arrêté du 10 janvier 1994 (EQUA9400053A)](arrete-du-10-janvier-1994-equa9400053a)
 - [Arrêté du 10 janvier 1994 (JUSE9440005A)](arrete-du-10-janvier-1994-juse9440005a)
-- [Arrêté du 10 juin 1994 (AGRG9401132A)](arrete-du-10-juin-1994-agrg9401132a)
 - [Arrêté du 10 juin 1994 (MAEA9420385A)](arrete-du-10-juin-1994-maea9420385a)
 - [Arrêté du 10 mars 1994 (INDA9400346A)](arrete-du-10-mars-1994-inda9400346a)
 - [Arrêté du 10 mars 1994 (INDA9400348A)](arrete-du-10-mars-1994-inda9400348a)
