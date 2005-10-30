@@ -33,7 +33,7 @@ LISTE DES PORTS SUSCEPTIBLES D'OUVRIR DROIT A L'ALLOCATION DE CESSATION ANTICIPE
 <p>Cherbourg</p>
 </td>
 <td valign="top" width="378">
-<p align="center">De 1968 à 1973</p>
+<p align="center">De 1968 à 1975 et les années 1978, 1980 et 1983</p>
 </td>
 </tr>
 <tr>
@@ -71,7 +71,7 @@ LISTE DES PORTS SUSCEPTIBLES D'OUVRIR DROIT A L'ALLOCATION DE CESSATION ANTICIPE
 <tr>
 <td>La Rochelle-La Palice </td>
 <td>
-<p align="center"> De 1974 à 1982</p>
+<p align="center">De 1974 à 1982</p>
 </td>
 </tr>
 <tr>
