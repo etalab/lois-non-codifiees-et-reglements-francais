@@ -6,13 +6,13 @@ Sont membres de droit de la commission :
 
 - le directeur général de l'Institut national de la statistique et des études économiques ;
 
-- le directeur de la prévision ;
+- le directeur général du Trésor et de la politique économique ;
 
 - le directeur général de la concurrence, de la consommation et de la répression des fraudes ;
 
 - au titre du ministère de l'agriculture et de la pêche :
 
-- le directeur des affaires financières ;
+- le secrétaire général du ministère de l'agriculture et de la pêche ;
 
 - le directeur des exploitations, de la politique sociale et de l'emploi ;
 
