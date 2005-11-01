@@ -4,3 +4,4 @@
 - [CHAPITRE II : Nomination, titularisation et avancement.](chapitre-ii)
 - [CHAPITRE III : Détachement.](chapitre-iii)
 - [CHAPITRE IV : Dispositions diverses.](chapitre-iv)
+- [Article 21](article-21.md)

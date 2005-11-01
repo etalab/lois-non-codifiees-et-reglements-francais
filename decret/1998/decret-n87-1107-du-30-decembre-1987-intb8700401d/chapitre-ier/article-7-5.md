@@ -1,0 +1,3 @@
+# Article 7-5
+
+Dans les cadres d'emplois régis par le présent décret, le nombre de nominations susceptibles d'être prononcées au titre de l'article 39 de la loi du 26 janvier 1984 susvisée peut être calculé en appliquant la proportion de promotion interne par voie de liste d'aptitude et d'examen professionnel prévue par le statut particulier à 5 % de l'effectif du cadre d'emplois considéré de la collectivité ou de l'établissement ou de l'ensemble des collectivités et établissements affiliés à un centre de gestion, lorsque ce mode de calcul permet un nombre de promotions supérieur à celui résultant de l'application des dispositions du statut particulier.
