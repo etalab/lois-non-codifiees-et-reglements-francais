@@ -6,7 +6,9 @@ Aucune distinction, directe ou indirecte, ne peut être faite entre les fonction
 
 Toutefois des distinctions peuvent être faites afin de tenir compte d'éventuelles inaptitudes physiques à exercer certaines fonctions.
 
-De même, des conditions d'âge peuvent être fixées, d'une part, pour le recrutement des fonctionnaires, lorsqu'elles visent à permettre le déroulement de leur carrière, d'autre part, pour la carrière des fonctionnaires, lorsqu'elles résultent des exigences professionnelles, justifiées par l'expérience ou l'ancienneté, requises par les missions qu'ils sont destinés à assurer dans leur corps, cadre d'emplois ou emploi.
+De même, des conditions d'âge peuvent être fixées, d'une part, pour le recrutement des fonctionnaires dans les corps, cadres d'emplois ou emplois conduisant à des emplois classés dans la catégorie active au sens de l'article L. 24 du code des pensions civiles et militaires de retraite, d'autre part, pour la carrière des fonctionnaires lorsqu'elles résultent des exigences professionnelles, justifiées par l'expérience ou l'ancienneté, requises par les missions qu'ils sont destinés à assurer dans leur corps, cadre d'emplois ou emploi.
+
+Des conditions d'âge peuvent être maintenues par décret pour le recrutement par voie de concours dans des corps, cadres d'emplois ou emplois, lorsque l'accès à ceux-ci est subordonné à l'accomplissement d'une période de scolarité préalable d'une durée au moins égale à deux ans.
 
 Aucune mesure concernant notamment le recrutement, la titularisation, la formation, la notation, la discipline, la promotion, l'affectation et la mutation ne peut être prise à l'égard d'un fonctionnaire en prenant en considération :
 
