@@ -16,4 +16,6 @@ Les concours mentionnés aux articles 6 et 7 sont ouverts dans l'une ou plusieur
 
 7° Logistique et sécurité ;
 
-8° Artisanat d'art.
+8° Artisanat d'art ;
+
+9° Conduite de véhicules.

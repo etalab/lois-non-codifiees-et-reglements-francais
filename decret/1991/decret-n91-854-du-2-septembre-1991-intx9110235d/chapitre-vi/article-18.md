@@ -1,3 +1,0 @@
-# Article 18
-
-Sont intégrés dans le cadre d'emplois au grade d'agent territorial du patrimoine de 2e classe ou d'agent territorial du patrimoine de 1re classe les fonctionnaires territoriaux nommés dans des emplois créés en application de l'article L. 412-2 du code des communes s'ils assurent les fonctions ou occupent les emplois mentionnés à l'article 15 ci-dessus et s'ils bénéficient d'une échelle indiciaire dont l'indice afférent à l'échelon de début n'est pas inférieur à l'indice afférent au 1er échelon, respectivement, du grade d'agent territorial du patrimoine de 2e classe ou d'agent territorial du patrimoine de 1re classe. Ils sont classés dans leur grade dans les mêmes conditions que celles mentionnées à l'article 12 du présent décret.

@@ -1,6 +1,6 @@
 # Article 2
 
-Les agents territoriaux du patrimoine de 2e classe peuvent occuper un emploi :
+Les membres du cadre d'emplois peuvent occuper un emploi :
 
 1. Soit de magasinier de bibliothèques ;
 
@@ -22,4 +22,4 @@ En qualité de surveillants des établissements d'enseignement culturel, dans le
 
 En qualité de surveillants de parcs et jardins, ils sont particulièrement chargés des conditions d'accueil du public et du respect du règlement propre au lieu où ils sont affectés. Ils veillent à la conservation du patrimoine botanique. Ils peuvent, en outre, participer à la préparation de visites commentées ou de manifestations à caractère botanique.
 
-Les agents territoriaux du patrimoine de 2e classe sont chargés de la surveillance des établissements où ils sont affectés. Ils veillent à la sécurité et à la protection des personnes, des biens meubles et immeubles et des locaux en utilisant tous les moyens techniques mis à leur disposition. Ils assurent la surveillance des collections et le classement des ouvrages, ainsi que les travaux administratifs courants.
+Les membres du cadre emplois sont chargés de la surveillance des établissements où ils sont affectés. Ils veillent à la sécurité et à la protection des personnes, des biens meubles et immeubles et des locaux en utilisant tous les moyens techniques mis à leur disposition. Ils assurent la surveillance des collections et le classement des ouvrages, ainsi que les travaux administratifs courants.

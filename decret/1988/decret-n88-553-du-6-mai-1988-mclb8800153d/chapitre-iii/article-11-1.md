@@ -1,6 +1,6 @@
 # Article 11-1
 
-Peuvent être nommés au choix agent de salubrité en chef, par voie d'inscription sur un tableau annuel d'avancement établi après avis de la commission administrative paritaire, les agents de salubrité principaux qui justifient au 1er janvier de l'année au titre de laquelle est dressé le tableau d'avancement de deux ans d'ancienneté dans le 9e échelon de leur grade.
+Peuvent être nommés au choix agent de salubrité en chef, par voie d'inscription sur un tableau annuel d'avancement établi après avis de la commission administrative paritaire, les agents de salubrité principaux qui justifient au 1er janvier de l'année au titre de laquelle est dressé le tableau d'avancement de deux ans d'ancienneté dans le 8e échelon de leur grade.
 
 Le grade d'agent de salubrité en chef comporte trois échelons.
 
@@ -33,37 +33,53 @@ La durée maximale et la durée minimale du temps passé dans chaque échelon so
 </tr>
 </table>
 
-Les fonctionnaires promus avant le 1er août 1992 sont reclassés dans le grade d'agent de salubrité en chef, conformément au tableau ci-après :[*reproduit*]    Les fonctionnaires promus à compter sont reclassés dans le grade d'agent de salubrité en chef conformément au tableau ci-après :AGENT DE SALUBRITE PRINCIPAL
+Les fonctionnaires promus avant le 1er août 1992 sont reclassés dans le grade d'agent de salubrité en chef, conformément au tableau ci-après :(non reproduit).
 
-- 9e échelon
+Les fonctionnaires promus à compter sont reclassés dans le grade d'agent de salubrité en chef conformément au tableau ci-après :ÉCHELLE 5
 
-AGENT DE SALUBRITE EN CHEF
+Echelon
 
-- Ancienneté d'échelon
+8e échelon
 
-AGENT DE SALUBRITE PRINCIPAL
+NOUVEL ESPACE INDICIAIRE
 
-- 1er échelon
+Echelon
+
+1er échelon
+
+Ancienneté dans l'échelon
 
 1/2 de l'ancienneté acquise au-delà de 2 ans.
 
-AGENT DE SALUBRITE PRINCIPAL
+ÉCHELLE 5
 
-- 10e échelon
+Echelon
 
-AGENT DE SALUBRITE EN CHEF
+9e échelon
 
-- 1er échelon
+NOUVEL ESPACE INDICIAIRE
 
-1/2 de l'ancienneté acquise majoré de 1 an.
+Echelon
 
-AGENT DE SALUBRITE PRINCIPAL
+1er échelon
 
-11e échelon
+Ancienneté dans l'échelon
 
-AGENT DE SALUBRITE EN CHEF
+1/2 de l'ancienneté acquise majorée de 1 an.
+
+ÉCHELLE 5
+
+Echelon
+
+10e échelon
+
+NOUVEL ESPACE INDICIAIRE
+
+Echelon
 
 2e échelon
+
+Ancienneté dans l'échelon
 
 Ancienneté acquise dans la limite de 4 ans.
 

@@ -40,4 +40,4 @@ Il est créé au sommet du grade d'auxiliaire de soins principal les échelons p
 
 Ces échelons sont créés pour l'intégration et l'avancement des auxiliaires de soins principaux qui, à la date de publication du présent décret, sont placés sur l'échelle 5 de rémunération ou ont vocation à y accéder. Par dérogation aux dispositions de l'article 13 ci-dessus, les fonctionnaires qui, à la date de publication du présent décret, sont sur l'échelle 5 de rémunération sont intégrés à indice égal ou immédiatement supérieur.
 
-" Les durées maximale et minimale du 11e échelon du grade d'auxiliaire de soins principal pour avancer au 1er échelon provisoire sont respectivement de quatre ans et trois ans. "
+Les durées maximale et minimale du 10e échelon du grade d'auxiliaire de soins principal pour avancer au 1er échelon provisoire sont respectivement de quatre ans et trois ans.

@@ -14,7 +14,9 @@ Une nouvelle bonification indiciaire prise en compte pour le calcul de la retrai
 
 6° Adjudants-chefs des sapeurs-pompiers professionnels : 16 points majorés ;
 
-7° Fonctionnaires appartenant aux cadres d'emplois des agents d'entretien, des agents techniques, des agents de salubrité et des conducteurs territoriaux exerçant des fonctions à caractère polyvalent dans les communes de moins de 2 000 habitants : 10 points majorés.
+7° Fonctionnaires appartenant aux cadres d'emplois des agents des services techniques, (1) des agents techniques, des agents de salubrité et des conducteurs territoriaux exerçant des fonctions à caractère polyvalent dans les communes de moins de 2 000 habitants :
+
+10 points majorés.
 
 8° Fonctionnaires appartenant aux cadres d'emplois des conseillers socio-éducatifs et des coordinatrices de crèches, exerçant les fonctions de conseillers techniques : 50 points majorés.
 
@@ -24,7 +26,9 @@ Une nouvelle bonification indiciaire prise en compte pour le calcul de la retrai
 
 30 points ;
 
-11° Agents d'entretien, agents techniques, agents de salubrité et conducteurs territoriaux exerçant des fonctions à caractère polyvalent dans des établissements publics locaux assimilables à une commune de moins de 2 000 habitants (selon les critères prévus par le décret n° 88-546 du 6 mai 1988 relatif aux emplois fonctionnels dans les établissements publics) : 10 points ;
+11° Agents des services techniques, (1) agents techniques, agents de salubrité et conducteurs territoriaux exerçant des fonctions à caractère polyvalent dans des établissements publics locaux assimilables à une commune de moins de 2 000 habitants (selon les critères prévus par le décret n° 88-546 du 6 mai 1988 relatif aux emplois fonctionnels dans les établissements publics) :
+
+10 points ;
 
 12° Educateurs territoriaux des activités physiques et sportives exerçant les fonctions de chef de bassin : 15 points ;
 
@@ -132,7 +136,7 @@ k) Agents du patrimoine et agents qualifiés du patrimoine :
 
 10 points majorés ;
 
-l) Agents d'entretien, agents techniques, agents de salubrité, conducteurs territoriaux exerçant des fonctions à caractère polyvalent : 10 points majorés.
+l) Agents des services techniques (1) agents techniques, agents de salubrité, conducteurs territoriaux exerçant des fonctions à caractère polyvalent : 10 points majorés.
 
 m) Attachés : 20 points majorés ;
 
@@ -190,9 +194,9 @@ X. - Adjoints d'animation et agents d'animation : 10 points majorés.
 
 56° Fonctionnaires assurant les fonctions de régisseur d'avances ou de recettes :
 
-- régie de 20 000 F à 120 000 F : 10 points majorés ;
+- régie de 3 049 euros à 18 294 euros : 10 points majorés ;
 
-- régie supérieure à 120 000 F : 15 points majorés ;
+- régie supérieure à 18 294 euros : 15 points majorés ;
 
 57° Adjoints administratifs et agents administratifs exerçant, à titre principal, des fonctions d'accueil du public dans les régions :
 

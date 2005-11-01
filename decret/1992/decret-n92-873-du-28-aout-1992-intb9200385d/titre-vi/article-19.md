@@ -1,7 +1,0 @@
-# Article 19
-
-Les règles prévues au présent chapitre pour les fonctionnaires titulaires sont applicables aux agents stagiaires dans les mêmes conditions.
-
-Les agents stagiaires ainsi intégrés poursuivent leur stage en application des règles applicables avant l'entrée en vigueur du présent décret.
-
-Si à l'issue du stage la titularisation n'est pas prononcée, ils sont soit licenciés, s'ils n'avaient pas la qualité de fonctionnaire, soit, s'ils avaient cette qualité, réintégrés dans leur corps, cadre d'emplois ou emploi d'origine.
