@@ -1,3 +1,0 @@
-# Article 5-1
-
-Les ressortissants des Etats membres de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen autre que la France ont accès au présent corps. Les dispositions du présent statut particulier leur sont applicables dans les conditions définies par le décret n° 2002-1294 du 24 octobre 2002 fixant les dispositions générales relatives à la situation et aux modalités de classement des ressortissants des Etats membres de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen, nommés dans un corps de fonctionnaires de l'Etat ou de ses établissements publics.

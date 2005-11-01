@@ -2,9 +2,7 @@
 
 Les concours d'accès aux emplois de la direction générale de l'administration pour lesquels est compétente la commission instituée au sein du ministère de l'intérieur conformément au décret du 30 août 1994 susvisé sont les suivants :
 
-- ingénieur des services techniques du matériel ;
-
-- ingénieur des travaux des services techniques du matériel ;
+- ingénieur des services techniques ;
 
 - attaché de préfecture ;
 
