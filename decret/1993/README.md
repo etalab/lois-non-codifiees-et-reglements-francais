@@ -300,7 +300,6 @@
 - [Décret n°93-905 du 13 juillet 1993 (INTB9300377D)](decret-n93-905-du-13-juillet-1993-intb9300377d)
 - [Décret n°93-925 du 13 juillet 1993 (INDG9300482D)](decret-n93-925-du-13-juillet-1993-indg9300482d)
 - [Décret n°93-927 du 13 juillet 1993 (EQUA9300965D)](decret-n93-927-du-13-juillet-1993-equa9300965d)
-- [Décret n°65-338 du 14 avril 1965](decret-n65-338-du-14-avril-1965)
 - [Décret n°93-1076 du 14 septembre 1993 (INTA9300501D)](decret-n93-1076-du-14-septembre-1993-inta9300501d)
 - [Décret n°93-1077 du 14 septembre 1993 (INTA9300502D)](decret-n93-1077-du-14-septembre-1993-inta9300502d)
 - [Décret n°93-1078 du 14 septembre 1993 (BUDR9305024D)](decret-n93-1078-du-14-septembre-1993-budr9305024d)
