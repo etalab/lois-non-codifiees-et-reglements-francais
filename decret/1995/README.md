@@ -173,7 +173,6 @@
 - [Décret n°95-1180 du 6 novembre 1995 (MAEA9520256D)](decret-n95-1180-du-6-novembre-1995-maea9520256d)
 - [Décret n°95-1185 du 6 novembre 1995 (ECOD9550015D)](decret-n95-1185-du-6-novembre-1995-ecod9550015d)
 - [Décret n°95-1186 du 6 novembre 1995 (ECOT9510249D)](decret-n95-1186-du-6-novembre-1995-ecot9510249d)
-- [Décret n°95-1188 du 6 novembre 1995 (AGRS9501675D)](decret-n95-1188-du-6-novembre-1995-agrs9501675d)
 - [Décret n°95-1189 du 6 novembre 1995 (MENF9501316D)](decret-n95-1189-du-6-novembre-1995-menf9501316d)
 - [Décret n°95-1190 du 6 novembre 1995 (MENN9501800D)](decret-n95-1190-du-6-novembre-1995-menn9501800d)
 - [Décret n°95-1191 du 6 novembre 1995 (EQUZ9501170D)](decret-n95-1191-du-6-novembre-1995-equz9501170d)
