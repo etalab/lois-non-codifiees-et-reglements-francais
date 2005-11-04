@@ -4,7 +4,7 @@ Le comité de l'énergie atomique peut être saisi des problèmes généraux de 
 
 Ce comité comprend, sous la présidence du Premier ministre, ou d'un ministre ayant reçu à cet effet délégation de celui-ci ou, à défaut, sous la présidence l'administrateur général :
 
-- douze membres de droit :
+- treize membres de droit :
 
 - l'administrateur général ;
 
@@ -18,11 +18,13 @@ Ce comité comprend, sous la présidence du Premier ministre, ou d'un ministre a
 
 - le directeur général de l'énergie et des matières premières ;
 
-- le directeur général de l'industrie des technologies de l'information et des postes ;
+- le directeur général des entreprises ;
 
 - le directeur du budget ;
 
 - le directeur général de la sûreté nucléaire et de la radioprotection ;
+
+- le délégué à la sûreté nucléaire et à la radioprotection pour les activités et installations intéressant la défense ;
 
 - le directeur de la recherche ;
 
