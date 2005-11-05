@@ -8,15 +8,15 @@ Les mesures ci-après sont mises en oeuvre dans l'exploitation concernée :
 
 1° La visite et le recensement des animaux de l'espèce bovine et des autres espèces sensibles présents dans l'exploitation ;
 
-2° L'exécution de prélèvements sur tous les bovins âgés de douze mois ou plus présents dans l'exploitation en vue de la recherche de la brucellose bovine par les épreuves autorisées par le ministre de l'agriculture et de la forêt ;
+2° L'exécution de prélèvements sur tous les bovins âgés de douze mois ou plus présents dans l'exploitation en vue de la recherche de la brucellose bovine par les épreuves autorisées par le ministre de l'agriculture et de la pêche ;
 
-3° L'isolement et la séquestration des animaux de l'espèce bovine reconnus non indemnes, à tests de dépistage positifs, jusqu'à leur abattage.
+3° L'isolement et la séquestration des animaux de l'espèce bovine reconnus non indemmes, à tests de dépistage positifs, jusqu'à leur abattage.
 
 Toute femelle bovine est isolée dès l'apparition des signes prémonitoires de la mise bas et jusqu'à disparition complète de tout écoulement vulvaire ;
 
-4° Le marquage et l'abattage de tout ou partie du cheptel bovin, dans les conditions fixées par le ministre de l'agriculture et de la forêt ;
+4° Le marquage et l'abattage de tout ou partie du cheptel bovin dans les conditions fixées par le ministre de l'agriculture et de la pêche ;
 
-5° L'interdiction de laisser entrer dans les locaux ou les herbages de l'exploitation, des animaux de l'espèce bovine ou d'autres espèces sensibles provenant d'autres cheptels ;
+5° L'interdiction de laisser entrer dans les locaux ou les herbages de l'exploitation des animaux de l'espèce bovine ou d'autres espèces sensibles provenant d'autres cheptels ;
 
 6° L'interdiction de laisser sortir de l'exploitation des animaux de l'espèce bovine ou d'une autre espèce sensible, sauf dérogation accordée par le directeur des services vétérinaires.
 
