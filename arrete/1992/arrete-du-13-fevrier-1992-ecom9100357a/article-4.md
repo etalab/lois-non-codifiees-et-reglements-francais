@@ -1,6 +1,6 @@
 # Article 4
 
-Les sièges et les ressorts des comités consultatifs interdépartementaux de règlement amiable des litiges relatifs aux marchés publics de Paris, de Versailles, de Nantes, de Bordeaux, de Lyon, de Nancy et de Marseille sont fixés comme suit :
+Les sièges et les ressorts des comités consultatifs régionaux, interrégionaux et interdépartementaux de règlement amiable des litiges relatifs aux marchés publics de Paris, de Versailles, de Nantes, de Bordeaux, de Lyon, de Nancy et de Marseille sont fixés comme suit :
 
 Paris : ville de Paris, Val-de-Marne, Seine-et-Marne, Guadeloupe, Guyane, Martinique, Mayotte, Réunion, Saint-Pierre-et-Miquelon ;
 
