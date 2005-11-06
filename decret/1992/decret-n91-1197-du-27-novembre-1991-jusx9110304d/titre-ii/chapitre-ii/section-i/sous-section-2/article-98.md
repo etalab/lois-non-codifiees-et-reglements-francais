@@ -12,6 +12,8 @@ Sont dispensés de la formation théorique et pratique et du certificat d'aptitu
 
 5° Les juristes attachés pendant huit ans au moins à l'activité juridique d'une organisation syndicale ;
 
-6° Les personnes agréées par le président du tribunal supérieur d'appel dans la collectivité départementale de Mayotte justifiant de huit ans au moins de pratique professionnelle.
+6° Les juristes salariés d'un avocat, d'une association ou d'une société d'avocats, d'un office d'avoué ou d'avocat au Conseil d'Etat et à la Cour de cassation, justifiant de huit ans au moins de pratique professionnelle en cette qualité postérieurement à l'obtention du titre ou diplôme mentionné au 2° de l'article 11 de la loi du 31 décembre 1971 susvisée ;
 
-Les personnes mentionnées aux 3°, 4° et 5° peuvent avoir exercé leurs activités dans plusieurs des fonctions visées dans ces dispositions dès lors que la durée totale de ces activités est au moins égale à huit ans.
+7° Les personnes agréées par le président du tribunal supérieur d'appel dans la collectivité départementale de Mayotte justifiant de huit ans au moins de pratique professionnelle.
+
+Les personnes mentionnées aux 3°, 4°, 5° et 6° peuvent avoir exercé leurs activités dans plusieurs des fonctions visées dans ces dispositions dès lors que la durée totale de ces activités est au moins égale à huit ans.
