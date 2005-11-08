@@ -1,71 +1,49 @@
 # Article 3
 
-Sont interdits en tout temps dans le département de la Guyane, la destruction, la capture ou l'enlèvement, la mutilation, la naturalisation des mammifères des espèces ci-après ou, qu'ils soient vivants ou morts, leur transport, leur colportage, leur utilisation, leur mise en vente, leur vente ou leur achat.
-
-Sont interdits en tout temps, sur tout le reste du territoire national, le transport, le colportage, l'utilisation, la mise en vente, la vente ou l'achat des spécimens de ces espèces lorsqu'ils n'ont pas été régulièrement introduits ou importés.
+Sont interdits en tout temps dans le département de la Guyane, la naturalisation, ou, qu'ils soient vivants ou morts, le colportage, l'utilisation, la mise en vente, la vente ou l'achat des espèces de reptiles ci-après. Sont interdits en tout temps sur tout le reste du territoire national le transport, le colportage, l'utilisation, la mise en vente, la vente ou l'achat des spécimens de ces espèces lorsqu'ils n'ont pas été régulièrement introduits ou importés.
 
 TAXONOMIE :
 
-Carnivores
+Crocodiliens
 
-- Félidés
+- Alligatoridés
 
 NOM VERNACULAIRE :
 
-Ocelot.
+Caïman à lunettes.
 
 NOM SCIENTIFIQUE :
 
-Leopardus pardalis (syn. Felis pardalis).
+Caïman crocodilus.
 
 NOM GUYANAIS :
 
-Chat tig.
+Caïman de rivière.
 
 TAXONOMIE :
 
-Carnivores
+Ophidiens
 
-- Félidés
+- Boïdés
 
 NOM VERNACULAIRE :
 
-Chat-Tigre.
+Boa constrictor.
 
 NOM SCIENTIFIQUE :
 
-Leopardus tigrinus (syn. Felis tigrina).
-
-NOM GUYANAIS :
-
-Chat tig.
+Constrictor constrictor.
 
 TAXONOMIE :
 
-Carnivores
+Ophidiens
 
-- Félidés
-
-NOM VERNACULAIRE :
-
-Marguay.
-
-NOM SCIENTIFIQUE :
-
-Leopardus wiedii (syn. Felis wiedii).
-
-NOM GUYANAIS :
-
-Chat tig. TAXINOMIE :
-
-Artiodactyles
-
-- Cervidés
+- Boïdés
 
 NOM VERNACULAIRE :
 
-Cerf de Virginie.
+Anacondas spp.
 
 NOM SCIENTIFIQUE :
 
-Odocoïlus virginianus.
+Eunectes spp.

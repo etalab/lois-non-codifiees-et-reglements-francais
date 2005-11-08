@@ -48,7 +48,7 @@ Diomedea exulans (Linnaeus, 1758).
 
 Albatros d'Amsterdam
 
-Diomedea amsterdamensis (Roux & al., 1983).
+Diomedea amsterdamensis (Roux et al., 1983).
 
 Albatros à sourcils noirs
 
@@ -174,7 +174,7 @@ Pelecanoididae :
 
 Pétrel plongeur de Géorgie du Sud
 
-Pelecanoides georgicus (Murphy & Harper, 1916).
+Pelecanoides georgicus (Murphy et Harper, 1916).
 
 Pétrel plongeur commun
 
@@ -243,3 +243,5 @@ Sterna virgata (Cabanis, 1875).
 Sterne fuligineuse
 
 Sterna fuscata (Linnaeus, 1766).
+
+L'interdiction de transport, de colportage, d'utilisation, de mise en vente, de vente ou d'achat ne s'applique pas aux spécimens datant d'avant le 1er juin 1947, dès lors que leur état brut naturel a été largement modifié pour en faire des bijoux, objets décoratifs, artistiques ou utilitaires, ou des instruments de musique, qu'ils peuvent être utilisés sans être sculptés, ouvragés ou transformés davantage et que la facture ou l'attestation de cession mentionne leur ancienneté.

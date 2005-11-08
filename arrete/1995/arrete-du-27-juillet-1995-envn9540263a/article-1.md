@@ -2,11 +2,11 @@
 
 Sont interdits sur tout le territoire national, y compris la zone économique définie à l'article 1er de la loi du 16 juillet 1976 modifiée susvisée, et en tout temps, la destruction, la mutilation, la capture ou l'enlèvement intentionnels, la naturalisation des mammifères marins d'espèces suivantes ou, qu'ils soient vivants ou morts, leur transport, leur colportage, leur utilisation, leur mise en vente, leur vente ou leur achat :
 
-CÉTACÉS
+CETACES
 
 Toutes les espèces.
 
-PINNIPÈDES
+PINNIPEDES
 
 Otaridés
 
@@ -38,6 +38,8 @@ Phoque barbu : Erignathus barbatus Erxleben, 1777.
 
 Morse : Odobenus rosmarus Linnaeus, 1758.
 
-SIRÉNIENS
+SIRENIENS
 
 Toutes les espèces.
+
+L'interdiction de transport, de colportage, d'utilisation, de mise en vente, de vente ou d'achat ne s'applique pas aux spécimens datant d'avant le 1er juin 1947, dès lors que leur état brut naturel a été largement modifié pour en faire des bijoux, objets décoratifs, artistiques ou utilitaires, ou des instruments de musique, qu'ils peuvent être utilisés sans être sculptés, ouvragés ou transformés davantage et que la facture ou l'attestation de cession mentionne leur ancienneté.

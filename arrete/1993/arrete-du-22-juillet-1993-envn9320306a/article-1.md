@@ -223,3 +223,5 @@ La Noctuelle du Rubanier, Archanara sparganii Esper ;
 La Noctuelle du Roseau-à-balais ou Noctuelle des roselières, Arenostola phragmitidis Hübner ;
 
 La Nonagrie du Phragmite, Chilodes maritumus Tauscher.
+
+L'interdiction de transport, de colportage, d'utilisation, de mise en vente, de vente ou d'achat ne s'applique pas aux spécimens datant d'avant le 1er juin 1947, dès lors que leur état brut naturel a été largement modifié pour en faire des bijoux, objets décoratifs, artistiques ou utilitaires, qu'ils peuvent être utilisés sans être ouvragés ou transformés davantage et que la facture ou l'attestation de cession mentionne leur ancienneté.

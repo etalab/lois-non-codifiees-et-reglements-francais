@@ -2,66 +2,90 @@
 
 LISTE DES MÉDICAMENTS RENFERMANT OU NON DES SUBSTANCES VÉNÉNEUSES AUTORISÉS AUX SAGES-FEMMES POUR LEUR USAGE PROFESSIONNEL OU LEUR PRESCRIPTION AUPRÈS DES FEMMES
 
-1. Antiacides gastriques d'action locale et pansements gastro-intestinaux.
+Antiacides gastriques d'action locale et pansements gastro-intestinaux.
 
-2. Antiseptiques locaux.
+Antiseptiques locaux.
 
-3. Anesthésiques locaux : médicaments renfermant de la lidocaïne.
+Anesthésiques locaux :
 
-4. Antibiotiques par voie orale dans le traitement des infections urinaires basses ou vaginales prescrits sur antibiogramme. Prescription non renouvelable pour une infection donnée.
+- médicaments renfermant de la lidocaïne.
 
-5. Anti-infectieux locaux utilisés dans le traitement des vulvo-vaginites.
+Antibiotiques par voie orale dans le traitement des infections urinaires basses ou vaginales prescrits sur antibiogramme. Prescription non renouvelable pour une infection donnée.
 
-6. Antispasmodiques.
+Anti-infectieux locaux utilisés dans le traitement des vulvo-vaginites : antifongiques, trichomonacides, antibactériens et antiherpétiques.
 
-7. Antiémétiques.
+Antispasmodiques.
 
-8. Antalgiques :
+Antiémétiques.
 
-- paracétamol oral et injectable ;
+Antalgiques :
 
-- association de paracétamol et de dextropropoxyphène.
+- paracétamol ;
 
-9. Contraceptifs :
+- association de paracétamol et de dextropropoxyphène ;
 
-- spermicides locaux ;
+- association de paracétamol et de codéine ;
 
-- contraception d'urgence : levonorgestrel seul ou associé à l'éthinyloestradiol ;
+- tramadol ;
 
-- contraception hormonale orale du post-partum prescrite à la sortie de la maternité (prescription non renouvelable).
+- nefopam ;
 
-10. Laxatifs.
+- nalbuphine, ampoules dosées à 20 mg ; l'usage est limité au début du travail et à une seule ampoule par patiente.
 
-11. Vitamines et sels minéraux par voie orale.
+Contraceptifs :
 
-12. Topiques à activité trophique et protectrice.
+- spermicides ;
 
-13. Médicaments de proctologie : topiques locaux avec ou sans corticoïdes et anesthésiques.
+- contraceptifs d'urgence : levonorgestrel seul ou associé à l'éthinyl-estradiol ;
 
-14. Solutés injectables :
+- contraceptifs hormonaux : estroprogestatifs par voie orale, transdermique et anneau vaginal ; progestatifs par voie orale, injectable ou implant.
 
-- solutés de glucose (de toute concentration) ;
+Laxatifs.
 
-- solutés de bicarbonate isotonique et semi-molaire ;
+Vitamines et sels minéraux par voie orale.
 
-- soluté de chlorure de sodium isotonique ;
+Topiques à activité trophique et protectrice.
 
-- soluté de gluconate de calcium ;
+Médicaments de proctologie : topiques locaux avec ou sans corticoïdes et avec ou sans anesthésiques.
 
-- solution de Ringer.
+Solutions de perfusion.
 
-15. Solutés de remplissage dans les états de choc, composés d'hydroxyéthylamidon.
+- solutés de glucose de toute concentration ;
 
-16. Ephédrine injectable dans la limite d'une ampoule dosée à 30 mg par patiente.
+- solutés de bicarbonate isotonique à 1,4 % et semi-molaire à 4,2 % ;
 
-17. Antihypertenseur : renouvellement d'une prescription de nicardipine par voie orale faite par un médecin.
+- solutés de chlorure de sodium isotonique à 0,9 % ;
 
-18. Ocytociques : produits renfermant de l'ocytocine.
+- solutés de gluconate de calcium à 10 % ;
 
-19. Bêta mimétiques : renouvellement d'une prescription par voie orale faite par un médecin.
+- solutions de Ringer.
 
-20. Médicaments assurant le blocage de la lactation.
+Ocytociques :
 
-21. Immunoglobulines anti-D.
+- produits renfermant de l'ocytocine.
 
-22. Vaccin antirubéolique.
+Médicaments assurant le blocage de la lactation.
+
+Vaccins sous forme monovalente ou associés contre les pathologies suivantes : tétanos, diphtérie, poliomyélite, coqueluche (vaccin acellulaire), rubéole, hépatite B et grippe.
+
+Immunoglobulines anti-D.
+
+Produits de substitution nicotinique.
+
+Par ailleurs, les sages-femmes sont autorisées à renouveler la prescription faite par un médecin des médicaments suivants :
+
+- nicardipine ;
+
+- nifédipine ;
+
+- labetalol ;
+
+- salbutamol par voie orale et rectale.
+
+En cas d'urgence, en l'attente du médecin, les sages-femmes peuvent prescrire et utiliser les médicaments suivants :
+
+- succédanés du plasma composés d'hydroxyéthylamidon dans les états de choc ;
+
+- éphédrine injectable dans la limite d'une ampoule dosée à 30 mg par patiente ;
+
+- adrénaline injectable par voie sous-cutanée dans les cas d'anaphylaxie.

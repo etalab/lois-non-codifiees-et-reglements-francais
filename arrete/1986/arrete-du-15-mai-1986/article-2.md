@@ -1,183 +1,117 @@
 # Article 2
 
-Sont interdits en tout temps, sur tout le territoire national, la naturalisation ou, qu'ils soient vivants ou morts, le colportage, la mise en vente, la vente ou l'achat des mammifères des espèces ci-après.
+Sont interdits en tout temps, sur tout le territoire national, la naturalisation ou, qu'ils soient vivants ou morts, le colportage, la mise en vente, la vente ou l'achat des espèces de reptiles et amphibiens ci-après. Leur transport est interdit en tout temps sur tout le territoire national à l'exception du département de la Guyane d'où ils ne peuvent toutefois pas être exportés :
 
-Leur transport est interdit en tout temps sur tout le territoire national à l'exception du département de la Guyane d'où ils ne peuvent toutefois pas être exportés.
+TAXONOMIE : REPTILES
 
-TAXONOMIE :
+Crocodiliens
 
-Edentés
-
-- Bradypoidés
+- Alligatoridés
 
 NOM VERNACULAIRE :
 
-Aï.
+Caïman à front lisse.
 
 NOM SCIENTIFIQUE :
 
-Bradypus tridactylus.
+Paleosuchus palpebrosus.
 
-NOM GUYANAIS :
+Paleosuchus trigonatus.
 
-Mouton paresseux. Dos boulé.
+TAXONOMIE : REPTILES
 
-TAXONOMIE :
+Chéloniens
 
-Edentés
-
-- Bradypoidés
+- Testudinidés
 
 NOM VERNACULAIRE :
 
-Unau.
+Tortue terrestre denticulée.
 
 NOM SCIENTIFIQUE :
 
-Choloepus didactylus.
+Geochelone denticulata (syn. Chelonoïdes denticula).
 
-NOM GUYANAIS :
+NOM VERNACULAIRE LOCAL :
 
-Parsou mouton.
+Tortue terre.
 
-TAXONOMIE :
+TAXONOMIE : REPTILES
 
-Carnivores
+Chéloniens
 
-- Procyonidés
+- Testudinidés
 
 NOM VERNACULAIRE :
 
-Kinkajou.
+Tortue charbonnière.
 
 NOM SCIENTIFIQUE :
 
-Potos flavus.
+Geochelone carbonaria (syn. Chelonoïdes carbonaria).
 
-NOM GUYANAIS :
+NOM VERNACULAIRE LOCAL :
 
-Singe de nuit.
+Tortue terre.
 
-TAXONOMIE :
+TAXONOMIE : REPTILES
 
-Carnivores
+Chéloniens
 
-- Procyonidés
+- Toutes les espèces de tortues palustres ou fluviatiles représentées dans le département de la Guyane des familles suivantes à l'exception des espèces figurant à l'article 1er.
 
-NOM VERNACULAIRE :
-
-Coati roux ou Coati brun.
+- Kinosternidés
 
 NOM SCIENTIFIQUE :
 
-Nasua nasua.
+Kinosternidae ssp.
 
-NOM GUYANAIS :
+NOM VERNACULAIRE LOCAL :
 
-Coachi.
+Tortue serpent.
 
-TAXONOMIE :
-
-Carnivores
-
-- Félidés
-
-NOM VERNACULAIRE :
-
-Jaguar.
+- Emidés
 
 NOM SCIENTIFIQUE :
 
-Panthera onca.
+Emydae ssp.
 
-NOM GUYANAIS :
+NOM VERNACULAIRE LOCAL :
 
-Tig-tig marqué.
+Tortue serpent.
 
-TAXONOMIE :
-
-Carnivores
-
-- Félidés
-
-NOM VERNACULAIRE :
-
-Puma.
+- Pélomédusidés
 
 NOM SCIENTIFIQUE :
 
-Puma concolor.
+Pelomedusidae ssp.
 
-NOM GUYANAIS :
+NOM VERNACULAIRE LOCAL :
 
-Tig rouge.
+Tortue serpent.
 
-TAXONOMIE :
-
-Primates
-
-- Cébidés-Callitrichidés
-
-Toutes les espèces représentées dans le département de la Guyane sauf celles figurant à l'article 1er.
-
-TAXONOMIE :
-
-Artiodactyles
-
-- Cervidés
-
-NOM VERNACULAIRE :
-
-Daguet rouge.
+- Chélidés
 
 NOM SCIENTIFIQUE :
 
-Mazama americana.
+Chelidae ssp.
 
-NOM GUYANAIS :
+NOM VERNACULAIRE LOCAL :
 
-Cariacou.
+Tortue serpent.
 
-TAXONOMIE :
+TAXONOMIE : REPTILES
 
-Artiodactyles
+Ophidiens
 
-- Cervidés
+- Toutes les espèces de serpents (Ophidia ssp) représentées dans le département de la Guyane à l'exception des espèces figurant aux articles 1er et 3.
 
-NOM VERNACULAIRE :
+Sauriens
 
-Daguet gris.
-
-NOM SCIENTIFIQUE :
-
-Mazama gouazoubira.
-
-NOM GUYANAIS :
-
-Ti cariacou.
+- Toutes les espèces de sauriens ou lézards (Sauria ssp) représentées dans le département de la Guyane à l'exception de l'Iguane vert (Iguana iguana).
 
 TAXONOMIE :
 
-Rongeurs
+AMPHIBIENS
 
-- Eréthizontidés
-
-NOM VERNACULAIRE :
-
-Couendous.
-
-NOM SCIENTIFIQUE :
-
-Couendou prehensilis.
-
-Couendou insidiosus.
-
-NOM GUYANAIS :
-
-Potopic.
-
-TAXONOMIE :
-
-Chiroptères
-
-- Toutes les espèces de chauves-souris représentées dans le département de la Guyane : Chiroptera ssp.
+- Toutes les espèces d'amphibiens (Amphibia ssp.) représentées dans le département de la Guyane.

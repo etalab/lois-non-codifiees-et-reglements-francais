@@ -25,3 +25,5 @@ Echinodermes
 Oursins
 
 Centrostephanus longispinus (Philippi, 1845), oursin diadème, oursin à longs piquants.
+
+L'interdiction de transport, de colportage, de mise en vente, de vente ou d'achat ne s'applique pas aux spécimens datant d'avant le 1er juin 1947, dès lors que leur état brut naturel a été largement modifié pour en faire des bijoux, objets décoratifs, artistiques ou utilitaires, ou des instruments de musique, qu'ils peuvent être utilisés sans être sculptés, ouvragés ou transformés davantage et que la facture ou l'attestation de cession mentionne leur ancienneté.
