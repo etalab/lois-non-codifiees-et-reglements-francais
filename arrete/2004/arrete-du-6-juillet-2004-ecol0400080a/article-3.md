@@ -8,7 +8,13 @@ I. - Les informations et catégories d'informations nominatives traitées sont l
 
 - civilité, nom ou raison sociale de l'entreprise ;
 
-- adresse de compétence de l'entreprise codée.
+- adresse de compétence de l'entreprise codée ;
+
+- numéro de gestion ;
+
+- date de création ;
+
+- date de cessation.
 
 Le cas échéant :
 
@@ -68,7 +74,37 @@ Le cas échéant :
 
 - type de paiement ;
 
-- détail et suivi des demandes de remboursement de TVA.
+- détail et suivi des demandes de remboursement de TVA ;
+
+- numéro de facture ;
+
+- numéro de rôle.
+
+Le cas échéant, pour les entreprises ayant opté pour le paiement de l'impôt par prélèvement à l'échéance ou par mensualisation :
+
+- période d'imposition ;
+
+- type et numéro de contrat ;
+
+- compte bancaire ;
+
+- échéancier ;
+
+- montant du remboursement éventuel.
+
+5. Pour les données relatives aux avis :
+
+- période d'imposition ;
+
+- date limite de paiement ;
+
+- date et mode de dépôt ;
+
+- situation récapitulative ou rectifiée ;
+
+- date et période de la liquidation définitive ;
+
+- détail de la liquidation.
 
 II. - Les informations et catégories d'informations nominatives suivantes sont également traitées afin de permettre le suivi des accès :
 
