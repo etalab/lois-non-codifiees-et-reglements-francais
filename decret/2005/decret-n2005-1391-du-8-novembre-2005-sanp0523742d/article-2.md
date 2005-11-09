@@ -1,0 +1,5 @@
+# Article 2
+
+Les personnels de l'association France greffe de moelle transférés à l'Agence de la biomédecine, qui optent pour un contrat de droit public, sont, dans les conditions définies au chapitre III du titre III du décret du 7 mars 2003 susvisé, classés dans l'une des catégories prévues à l'article 6 dudit décret, compte tenu des fonctions assurées et de la liste des emplois fixée par le conseil d'administration de l'agence conformément à l'article 9 du même décret, dans un échelon de la classe normale de la catégorie afférente correspondant à la rémunération nette globale perçue à la date de leur intégration dans le personnel de l'Agence de la biomédecine.
+
+Par dérogation à l'article 29 du décret du 7 mars 2003 susvisé, lorsque cette rémunération nette globale est supérieure à l'indice afférent au dernier échelon de la classe normale de la catégorie d'emploi, y compris le cas échéant les échelons exceptionnels, les agents sont classés, dans les mêmes conditions, à un échelon de la hors-classe de la même catégorie.
