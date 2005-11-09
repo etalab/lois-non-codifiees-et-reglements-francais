@@ -2,9 +2,9 @@
 
 Pour le présent traitement, le contrat prévu à l'article 1649 quater B bis du code général des impôts susvisé est ainsi rédigé :
 
-Le contribuable personne physique qui accepte les clauses du présent contrat peut transmettre par voie électronique sa déclaration d'ensemble des revenus et les éventuelles déclarations annexes correspondant à sa situation fiscale.
+Le contribuable personne physique qui accepte les clauses du présent contrat peut transmettre par voie électronique sa déclaration d'ensemble des revenus et des éventuelles déclarations annexes correspondant à sa situation fiscale.
 
-Associée au certificat, la signature électronique d'une déclaration emporte les mêmes conséquences que la signature manuscrite du document papier correspondant.
+Associée au certificat, la signature électronique d'une déclaration emporte les mêmes conséquences que la signature électronique du document papier correspondant.
 
 Le contribuable peut par ailleurs utiliser les autres services suivants :
 
@@ -16,17 +16,21 @@ Le contribuable peut par ailleurs utiliser les autres services suivants :
 
 Dans le cas de contribuables faisant l'objet d'une imposition commune, chaque personne peut demander à utiliser ces services et à recevoir, à cette fin, un certificat électronique.
 
-La procédure de transmission des déclarations ne peut pas être utilisée par les contribuables dont la situation de famille a changé (mariage, divorce, décès du conjoint) au cours de l'année de perception des revenus à déclarer.
+La procédure de transmission des déclarations ne peut pas être utilisée par les contribuables dont la situation de famille a changé (mariage, pacs, divorce, décès du conjoint) au cours de l'année de perception des revenus à déclarer.
 
 Le contribuable peut choisir de déclarer entièrement en ligne, en une seule fois ou en plusieurs étapes dans un délai de quinze jours, ou de préparer la déclaration hors ligne, avant de la signer.
 
-Le contribuable adresse, par voie postale, à son centre des impôts, le cas échéant, en fonction de sa situation fiscale, les demandes de rattachement à son foyer fiscal et/ou son relevé d'identité bancaire.
+Le contribuable adresse par voie postale à son centre des impôts, le cas échéant, son relevé d'identité bancaire.
 
-Le contribuable accepte de mentionner l'identité de chaque organisme bénéficiaire d'un don ouvrant droit à réduction d'impôt prévue au II de l'article 6 de la loi de finances pour 2002 susvisée. Cette mention n'est cependant pas nécessaire lorsque les dons, legs ou cotisations sont versés à des associations cultuelles ou de bienfaisance, à des organisations syndicales, ainsi que, lorsque le montant est inférieur ou égal à 3 000 EUR, aux dons versés à des associations de financement électoral des partis et groupements politiques.
+Le contribuable accepte de mentionner l'identité de chaque organisme bénéficiaire d'un don ouvrant droit à réduction d'impôt. Cette mention n'est cependant pas nécessaire lorsque les dons, legs ou cotisations sont versés à des associations cultuelles ou de bienfaisance, à des organisations syndicales, ainsi que, lorsque leur montant est inférieur ou égal à 3 000 euros, aux dons versés à des associations de financement électoral des partis et groupements politiques.
 
 En cas de souscription d'une nouvelle déclaration, sur internet ou sur support papier, celle-ci est considérée comme déclaration rectificative. Le choix de la déclaration "hors connexion impose de recourir à la même procédure en cas de rectification.
 
-Identification préalable du déclarant et délivrance du certificat électronique
+Il existe trois dates limites de dépôt spécifiques aux contribuables déposant leurs déclarations de revenus par voie électronique. Chacune de ces dates correspond à une zone géographique différente. Celles-ci correspondent aux zones A, B et C de regroupement des académies de l'éducation nationale servant à la détermination des dates de vacances scolaires. Les départements d'outre-mer étant rattachés à la zone C et la collectivité territoriale de Corse à la zone B.
+
+Identification préalable du déclarant
+
+et délivrance du certificat électronique
 
 Tout contribuable souhaitant utiliser les services précités pour la première fois doit recueillir un certificat électronique. A cette fin, il s'identifie par la saisie :
 
@@ -52,7 +56,7 @@ La clé privée est conservée sur le poste du contribuable. Elle est utilisée 
 
 Le certificat électronique est émis pour une durée de trois ans, sauf révocation par l'une des parties. Il comporte les nom, prénom(s) et numéro SPI de son titulaire. Il ne peut être utilisé que dans le cadre des échanges électroniques avec les administrations fiscales.
 
-Associé au certificat, la signature électronique emporte les mêmes conséquences qu'une signature manuscrite du document papier correspondant.
+Associée au certificat, la signature électronique emporte les mêmes conséquences qu'une signature manuscrite du document papier correspondant.
 
 Sécurisation et validation des données transmises
 
@@ -84,8 +88,16 @@ Seules les déclarations dont l'administration a accusé réception sont conserv
 
 Les télédéclarations sont consultables sur internet par les personnes concernées ayant accepté les clauses du présent contrat, pendant la durée de conservation fixée par l'arrêté portant création du traitement ADONIS.
 
-Indépendamment de cette faculté, les contribuables peuvent exercer le droit d'accès prévu par l'article 34 de la loi du 6 janvier 1978 en s'adressant à l'un des centres des impôts ou des postes comptables dont il relève et le droit de rectification auprès du centre des impôts de leur domicile fiscal.
+Indépendamment de cette faculté, les contribuables peuvent exercer le droit d'accès prévu par l'article 39 de la loi du 6 janvier 1978 susvisée en s'adressant à l'un des centres des impôts ou des postes comptables dont ils relèvent.
+
+Ils peuvent également exercer le droit de rectification prévu par l'article 40 de la loi du 6 janvier 1978 susvisée auprès du centre des impôts de leur domicile fiscal.
 
 En outre, les informations relatives aux déclarations en cours de saisie sont conservées et accessibles pendant quinze jours.
 
 Par ailleurs, les informations transmises sont conservées, chiffrées et signées, pendant dix ans à compter de l'année d'imposition dans une base d'archivage pour permettre, en cas de contestation du contribuable, la vérification de la signature et du contenu d'une transmission. Cette base regroupe les données transmises lors de la signature de la convention, les déclarations de revenus signées avec leurs annexes, les date et heure des dépôts, ainsi que les données relatives à la certification des envois. Les informations ainsi archivées sont opposables au contribuable et à l'administration. La procédure de vérification peut être mise en oeuvre devant un expert nommé par les tribunaux.
+
+Le centre des impôts dont relève le foyer fiscal peut fournir les renseignements sur les modalités pratiques de mise en oeuvre de cette procédure de vérification.
+
+Mise en oeuvre d'enquêtes qualité
+
+En ce qui concerne l'utilisation des informations : les contribuables peuvent faire l'objet d'enquêtes qualité sur les téléprocédures fiscales. Conformément à l'article 26 de la loi du 6 janvier 1978, tout contribuable peut refuser d'être sollicité dans le cadre d'enquêtes qualité, en informant le centre des impôts dont il dépend au titre de l'impôt sur le revenu. Ce choix est révocable dans les mêmes formes.

@@ -8,13 +8,13 @@ Les informations ou catégories d'informations nominatives enregistrées sont :
 
 - identification des enfants et autres personnes à charge : noms, prénoms, date de naissance ;
 
-- situation de famille des contribuables ;
+- situation fiscale des contribuables ;
 
 - adresse du domicile fiscal, adresse électronique, le cas échéant numéro de téléphone ;
 
 - coordonnées du centre des impôts et du poste comptable de rattachement ;
 
-- code « dossier complexe », code « non-résident », données relatives à la taxe d'habitation ;
+- code  dossier complexe , code  non-résident , données relatives à la taxe d'habitation ;
 
 - certificat(s) électronique(s) en cours de validité ;
 
