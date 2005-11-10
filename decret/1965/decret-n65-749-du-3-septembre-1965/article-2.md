@@ -38,15 +38,17 @@ Industries de la production d'électricité.
 
 La représentation des collectivités territoriales est assurée dans les conditions suivantes :
 
-Le collège des représentants des collectivités territoriales de chaque comité de bassin élit, parmi ses membre titulaires et suppléants, ses représentants au Comité national de l'eau, dont au moins un titulaire et un suppléant sont choisis parmi les représentants des communes.
+Le collège des représentants des collectivités territoriales de chaque comité de bassin élit, parmi ses membres titulaires et suppléants, ses représentants au Comité national de l'eau.
 
 Le nombre total de ces représentants est fixé ainsi qu'il suit :
 
-Trois représentants et trois suppléants pour chacun des bassins Adour-Garonne, Artois-Picardie, Rhin-Meuse ;
+Deux représentants et deux suppléants pour le bassin Corse, dont au moins un titulaire et un suppléant choisis parmi les représentants des communes ;
 
-Quatre représentants et quatre suppléants pour chacun des bassins Loire-Bretagne et Rhône-Méditérannée-Corse ;
+Trois représentants et trois suppléants, dont au moins un titulaire et un suppléant choisis parmi les représentants des communes, pour chacun des bassins Adour-Garonne, Artois-Picardie, Rhin-Meuse ;
 
-Cinq représentants et cinq suppléants pour le bassin Seine-Normandie, dont au moins un représentant de la région Ile-de-France et un conseiller municipal de Paris si la composition du comité de bassin le permet ;
+Quatre représentants et quatre suppléants, dont au moins un titulaire et un suppléant choisis parmi les représentants des communes, pour chacun des bassins Loire-Bretagne et Rhône-Méditerranée ;
+
+Cinq représentants et cinq suppléants pour le bassin Seine-Normandie, dont au moins un titulaire et un suppléant choisis parmi les représentants des communes, et, si la composition du comité de bassin le permet, de la région Ile-de-France et du conseil municipal de Paris.
 
 La représentation de l'Etat est assurée dans les conditions suivantes :
 
