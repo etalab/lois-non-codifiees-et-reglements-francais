@@ -872,7 +872,6 @@
 - [Arrêté du 25 novembre 1992 (ECOS9260004A)](arrete-du-25-novembre-1992-ecos9260004a)
 - [Arrêté du 25 novembre 1992 (JUSB9210393A)](arrete-du-25-novembre-1992-jusb9210393a)
 - [Arrêté du 25 novembre 1992 (MENZ9204149A)](arrete-du-25-novembre-1992-menz9204149a)
-- [Arrêté du 25 novembre 1992 (SANI9203017A)](arrete-du-25-novembre-1992-sani9203017a)
 - [Arrêté du 25 septembre 1992 (AGRE9201869A)](arrete-du-25-septembre-1992-agre9201869a)
 - [Arrêté du 25 septembre 1992 (DEFP9201934A)](arrete-du-25-septembre-1992-defp9201934a)
 - [Arrêté du 25 septembre 1992 (ECOC9200102A)](arrete-du-25-septembre-1992-ecoc9200102a)
