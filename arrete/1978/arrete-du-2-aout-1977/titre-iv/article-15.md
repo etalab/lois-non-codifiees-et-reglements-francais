@@ -77,3 +77,19 @@ les locaux contenant uniquement des appareils raccordés munis d'un dispositif c
 les locaux affectés exclusivement à l'installation d'appareils raccordés ;
 
 les dépendances contenant uniquement des appareils raccordés.
+
+3° Appareils de chauffage ou de production d'eau chaude dans les salles de bains ou de douches :
+
+a) A partir du 1er janvier 2006, l'installation d'un appareil de chauffage ou de production d'eau chaude à circuit de combustion non étanche est interdite dans les salles de douches ou les salles de bains.
+
+b) Le remplacement d'un appareil raccordé existant par un appareil raccordé neuf demeure autorisé si ce remplacement est réalisé dans les conditions d'installation fixées par l'article 25 1° bis du présent arrêté.
+
+Conformément aux dispositions de cet article, seul le remplacement à l'identique des chaudières nécessite l'établissement d'un certificat de conformité "modèle 4".
+
+c) En ce qui concerne les conditions d'aération et d'évacuation des produits de combustion :
+
+- le remplacement d'un appareil raccordé existant en salle de bains ou de douches par un appareil à circuit de combustion étanche ;
+
+- l'installation d'un appareil à circuit étanche en salle de bains ou de douches,
+
+sont soumis aux seules dispositions des articles 15-I et 18-IV du présent arrêté.

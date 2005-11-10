@@ -16,7 +16,7 @@ b) Avant la mise en gaz, le distributeur s'assure a minima :
 
 - de l'étanchéité apparente des tuyauteries fixes de l'installation.
 
-II. - Installations de gaz neuves dont le distributeur n'a pas la garde :
+II. - Installations de gaz dont le distributeur n'a pas la garde :
 
 a) Les certificats de conformité :
 
@@ -30,7 +30,7 @@ b) Avant la fourniture du gaz, le distributeur s'assure a minima :
 
 - de l'étanchéité apparente des tuyauteries fixes de l'installation.
 
-c) De plus, dans le cas des logements, le distributeur remet à son client une notice approuvée par le ministre chargé de la sécurité du gaz rappelant succinctement les dispositions du présent arrêté, mentionnant les principales précautions à observer dans l'emploi du gaz, et mettant en garde l'usager contre les fausses manoeuvres.
+c) De plus, dans le cas des logements, le distributeur remet à son client une notice conforme à un modèle approuvé par le ministre chargé de la sécurité du gaz rappelant succinctement les dispositions du présent arrêté, mentionnant les principales précautions à observer dans l'emploi du gaz, et mettant en garde l'usager contre les fausses manoeuvres. Cette notice est remise également lors de la fourniture du gaz à un nouveau client dans une installation existante.
 
 III. - Compléments et modifications d'installations intérieures existantes et d'alimentation de chaufferies :
 

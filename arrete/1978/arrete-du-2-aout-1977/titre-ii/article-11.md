@@ -18,11 +18,11 @@ Tout tube souple d'alimentation d'appareil doit être équipé, lors de son mont
 
 II. - a) Les appareils de chauffage à circuit de combustion étanche ou raccordés à un conduit d'évacuation, les appareils à effet décoratif et les appareils de production d'eau chaude doivent être alimentés par une tuyauterie rigide ou par un tuyau flexible métallique.
 
-b) Les appareils de cuisson alimentés par un gaz distribué par un réseau de distribution publique et incorporés dans des blocs cuisine fixes ne peuvent être raccordés au robinet prévu à l'article 10 que par un tuyau flexible ou par une tuyauterie rigide.
+b) Les appareils de cuisson alimentés par un gaz distribué par un réseau de distribution et incorporés dans des blocs cuisine fixes ne peuvent être raccordés au robinet prévu à l'article 10 que par un tuyau flexible ou par une tuyauterie rigide.
 
 c) A l'exception des installations alimentées par un ou plusieurs récipients mobiles de butane commercial, l'usage de tubes souples pour le raccordement des appareils non visés aux points a et b ci-dessus dans les nouvelles installations est interdit :
 
-- à compter du 1er juillet 1996, pour les installations alimentées par un réseau de distribution publique ;
+- à compter du 1er juillet 1996, pour les installations alimentées par un réseau de distribution ;
 
 - à compter du 1er juillet 1997, pour des installations alimentées par un ou plusieurs récipients de gaz de pétrole liquéfiés.
 

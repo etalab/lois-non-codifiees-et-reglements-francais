@@ -4,7 +4,7 @@ Distributeurs de gaz
 
 Sont considérées comme distributeurs de gaz au sens du présent arrêté :
 
-a) Les entreprises distribuant par canalisation des gaz combustibles de toute nature, en vertu soit d'un contrat de concession de distribution publique, soit d'une convention de régie, soit d'un contrat de droit privé ayant le même objet ;
+a) Les entreprises distribuant par canalisation des gaz combustibles de toute nature, en vertu soit d'un contrat de concession de distribution, soit d'une convention de régie, soit d'un contrat de droit privé ayant le même objet ;
 
 b) Les entreprises livrant le butane commercial ou le propane commercial, lorsqu'ils sont délivrés en vrac.
 

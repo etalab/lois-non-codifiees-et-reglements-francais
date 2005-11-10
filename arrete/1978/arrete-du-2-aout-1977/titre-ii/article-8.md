@@ -42,7 +42,7 @@ Si la pénétration se fait à une pression supérieure à 400 mbar, la conduite
 
 Dans le cas d'une chaufferie en sous-sol nécessitant un cheminement vertical de la conduite d'alimentation en gaz à l'intérieur du bâtiment, la conduite doit être placée dans une gaine de degré coupe-feu une heure ouverte exclusivement sur l'extérieur et réalisée en matériaux incombustibles Mo et résistant aux chocs.
 
-Dans le cas où l'alimentation en gaz d'une chaufferie en sous-sol ne peut pas être réalisée par un autre tracé, la traversée des parties communes en sous-sol du bâtiment d'habitation et de ses dépendances par les conduites d'alimentation en gaz de cette chaufferie est autorisée :
+Dans le cas où l'alimentation en gaz d'une chaufferie en rez-de-chaussée ou en sous-sol ne peut pas être réalisée par un autre tracé, la traversée des parties communes en rez-de-chaussée ou en sous-sol du bâtiment d'habitation et de ses dépendances par les conduites d'alimentation en gaz de cette chaufferie est autorisée :
 
 soit si les conduites sont placées à l'intérieur d'une gaine ventilée coupe-feu de degré deux heures ;
 
@@ -96,9 +96,9 @@ ii) Soit un demi-collier berceau en U en acier de même section qu'en i et compo
 
 7° Elles doivent être placées à deux mètres de hauteur au moins et, dans la mesure du possible, en angle de murs et de plafond ou de poutres et plafonds. Si, sur son parcours, une conduite ne peut être placée à plus de deux mètres de hauteur, le tronçon concerné devra être protégé mécaniquement.
 
-8° Elles doivent emprunter le niveau supérieur des sous-sols.
+8° Elles doivent emprunter le niveau supérieur des sous-sols ou être implantées au rez-de-chaussée du bâtiment.
 
-9° Elles ne peuvent alimenter que la ou les chaufferie(s) de l'immeuble dont elles traversent les sous-sols.
+9° Elles ne peuvent alimenter que la ou les chaufferies de l'immeuble dans lequel elles sont implantées au niveau du rez-de-chaussée ou dont elles traversent les sous-sols.
 
 10° Au croisement avec des canalisations électriques, elles doivent être écartées de celles-ci de trois centimètres au moins.
 

@@ -4,6 +4,10 @@ Pose des conduites
 
 1° La pression maximale effective de distribution à l'intérieur d'un bâtiment d'habitation ne doit pas excéder 4 bar. Dans les installations intérieures d'abonnés des immeubles collectifs autres que les immeubles de la deuxième famille comportant au plus dix logements par cage d'escalier, la pression maximale effective ne doit pas excéder 50 mbar.
 
+Des pressions supérieures à celles prescrites aux alinéas précédents peuvent être autorisées, par décision du ministre chargé de la sécurité du gaz, à l'intérieur ou en aval immédiat d'un appareil de compression du gaz, à titre temporaire durant la période de fonctionnement de cet appareil et pour une utilisation particulière.
+
+Cette décision est subordonnée à l'acceptation préalable d'un dossier justificatif de demande d'autorisation pour cette utilisation particulière et prise après avis du comité technique de la distribution du gaz.
+
 2° Le diamètre intérieur des conduites collectives est déterminé en fonction du débit maximum prévisionnel à satisfaire, ce débit étant fixé par le distributeur. Il est limité en tout état de cause à :
 
 108 mm, si la pression effective du gaz combustible susceptible d'être atteinte dans ces canalisations est au plus égale à 100 mbar ;

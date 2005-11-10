@@ -22,10 +22,10 @@ b) La clé de commande de l'organe de coupure visé à l'article 13 (1°), si te
 
 La clé doit être fixée par un dispositif placé à l'endroit indiqué par le propriétaire et qui ne peut s'ouvrir que par le bris d'un verre dormant ou la rupture d'un fil plombé.
 
-La fourniture, la mise en place et le plombage du dispositif incombent au distributeur.
+La fourniture, la mise en place et le plombage du dispositif incombent au distributeur. Le distributeur en est dispensé si l'organe de coupure, une fois fermé, ne peut être réouvert que par lui-même à l'aide d'un dispositif adapté.
 
-3° Le bon fonctionnement des dispositifs automatiques visés à l'article 14 (1°) doit faire l'objet d'un contrôle périodique effectué par le distributeur suivant une procédure et des modalités approuvées par l'administration.
+3° Le bon fonctionnement des dispositifs automatiques visés à l'article 14 (1°) doit faire l'objet d'un contrôle périodique effectué par le distributeur aussi souvent que nécessaire pour s'assurer de leur bon état.
 
-4° Les installations situées entre l'organe de coupure visé au 13 (1°) et les compteurs individuels ou, à défaut de compteurs, les robinets de coupure individuels visés à l'article 13 (2°) inclus, et non placés sous la garde du distributeur, doivent faire l'objet d'un contrat d'entretien conforme au modèle approuvé par l'administration et passé avec le distributeur ou une entreprise de service compétent avec l'accord du distributeur.
+4° Les installations situées entre l'organe de coupure visé au 13 (1°) et les compteurs individuels ou, à défaut de compteurs, les robinets de coupure individuels visés à l'article 13 (2°) inclus, et non placés sous la garde du distributeur, doivent faire l'objet d'un contrat d'entretien écrit et passé avec le distributeur ou une entreprise de service compétent avec l'accord du distributeur.
 
 5° Le maintien en l'état des installations intérieures et l'entretien des appareils desservis par ces installations incombent à l'usager ou à celui qui en a contractuellement la charge, qui feront appel, si nécessaire, à un professionnel.

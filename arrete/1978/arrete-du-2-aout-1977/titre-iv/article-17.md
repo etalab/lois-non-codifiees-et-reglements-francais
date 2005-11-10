@@ -10,9 +10,9 @@ I.  Parmi les appareils à circuit non étanche, seuls ceux énumérés ci-aprè
 
 3° Appareils, autres que les appareils de chauffage et que ceux cités en 1° et 2° ci-dessus, munis de dispositifs de sécurité interrompant l'arrivée du gaz en cas d'extinction ou de non-allumage des brûleurs, dont le débit calorifique nominal ne dépasse pas 2,30 kW.
 
-4° Appareils mobiles de chauffage d'appoint d'un débit calorifique nominal au plus égal à 4,65 kW et :
+4° Appareils mobiles de chauffage d'appoint d'un débit calorifique nominal au plus égal à 4,2 kW, cette valeur étant exprimée par rapport au pouvoir calorifique supérieur du gaz et :
 
-d'une part munis de dispositifs de sécurité interrompant l'arrivée du gaz en cas d'extinction ou de non-allumage des brûleurs, et en cas d'élévation de la teneur en monoxyde de carbone de l'atmosphère au-dessus de 100 vpm (0,01 pour 100). Les appareils conformes aux normes NF D 35-351 et D 35-352 sont réputés satisfaire à ces dispositions ;
+d'une part munis de dispositifs de sécurité interrompant l'arrivée du gaz en cas d'extinction ou de non-allumage des brûleurs, et en cas d'élévation de la teneur en monoxyde de carbone de l'atmosphère au-dessus de 100 vpm (0,01 pour 100). Les appareils conformes à la norme NF EN 449 sont réputés satisfaire à ces dispositions ;
 
 d'autre part raccordés par l'intermédiaire d'un tuyau flexible ou, s'il s'agit d'appareils à récipient incorporé de butane commercial ou solidaires d'un tel récipient, d'un tube souple conforme à la norme NF D 36-101.
 

@@ -16,17 +16,17 @@ c) Par dérogation aux dispositions du a ci-dessus, un seul robinet peut command
 
 En aucun cas ce robinet ne peut commander un appareil de chauffage ou de production d'eau chaude sanitaire.
 
-Pour permettre l'entretien séparé des appareils de cuisson ou le remplacement de leur tuyau flexible d'alimentation, il doit être installé à proximité immédiate de chacun de ces appareils un autre robinet permettant d'en interrompre l'alimentation. Ce robinet peut n'être manoeuvrable qu'à l'aide d'un outil. Il doit satisfaire aux prescriptions du II ci-après. "
+Pour permettre l'entretien séparé des appareils de cuisson ou le remplacement de leur tuyau flexible d'alimentation, il doit être installé à proximité immédiate de chacun de ces appareils un autre robinet permettant d'en interrompre l'alimentation. Ce robinet peut n'être manoeuvrable qu'à l'aide d'un outil. Il doit satisfaire aux prescriptions du II ci-après.
 
-II. - Dans le cas de gaz distribué à partir d'un réseau de canalisations publiques, les robinets de commande des appareils de cuisson ou des machines à laver le linge doivent répondre aux caractéristiques suivantes :
+II. - Dans le cas de gaz (butane, propane, air propané ou butané, gaz de biomasse, gaz naturel ...) distribué à partir d'un réseau de canalisations, les robinets de commande des appareils de cuisson ou des machines à laver le linge doivent répondre aux caractéristiques suivantes :
 
-a) Le raccord de sortie a un diamètre de 15 mm et est fileté au pas G 1/2 conformément à la norme NF E 03-005 d'octobre 1970 ;
+a) Le raccord de sortie est fileté au pas G1/2 conformément à la norme NF E 03-005.
 
 b) L'extrémité de ce raccord est dressée et éventuellement alésée pour permettre le montage d'un tuyau flexible.
 
-Les robinets conformes aux normes NF E 29-135 et 29-138 satisfont à ces dispositions.
+Les robinets conformes aux normes XP E 29-135 et XP E 29-140 satisfont à ces dispositions.
 
-III. - Dans le cas d'hydrocarbures liquéfiés distribués à partir de récipients, les robinets de commande d'appareils doivent être conformes à la norme NF M 88-771.
+III. - Dans le cas d'une installation individuelle d'hydrocarbures liquéfiés distribués à partir d'un ou plusieurs récipients, les robinets de commande d'appareils doivent être conformes à la norme NF M 88-771.
 
 Les détendeurs-déclencheurs conformes aux normes NF D 36-303 ou NF M 88-773 et alimentant un seul appareil peuvent tenir lieu de robinets de commande.
 
@@ -35,6 +35,10 @@ IV. - A compter du 1er juillet 1997, les installations nouvelles de gaz aliment�
 Cette prescription s'applique également aux modifications ou compléments d'installations existantes lors du remplacement du robinet de commande d'un appareil de cuisson ou d'une machine à laver le linge.
 
 Ces dispositifs satisfont aux prescriptions de l'article 4 du présent arrêté.
+
+Le dispositif de déclenchement assurant automatiquement la coupure de l'alimentation en gaz des appareils de cuisson et des machines à laver le linge en cas de sectionnement ou de débranchement du tuyau flexible alimentant lesdits appareils n'est pas obligatoire lorsque le gaz utilisé est un gaz de première famille au sens de la norme NF EN 437.
+
+Dans ce cas, le tuyau flexible d'alimentation des appareils doit obligatoirement être conforme à la norme NF D 36-103 ou à la norme NF D 36-121.
 
 V. a) A compter des dates précisées au point b ci-après, la fabrication ou l'importation en vue de la mise à la consommation sur le marché français, la mise en vente, la vente, l'installation et la mise en service de détendeurs destinés à être fixés sur des récipients mobiles de butane commercial ou de propane commercial ainsi que d'appareils d'utilisation du gaz munis de détendeurs intégrés en usine ne sont autorisées que si lesdits détendeurs :
 
