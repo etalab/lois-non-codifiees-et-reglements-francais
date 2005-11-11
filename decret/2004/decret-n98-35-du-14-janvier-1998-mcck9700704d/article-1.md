@@ -6,6 +6,8 @@ II. - Des subventions sont destinées à accorder un soutien financier :
 
 1° A la production, à la préparation et à la distribution d'oeuvres audiovisuelles destinées à la télévision ;
 
+1° bis A la création d'oeuvres audiovisuelles à caractère innovant destinées à la télévision ;
+
 2° A l'équipement et à la modernisation des industries techniques de l'audiovisuel ;
 
 3° A la formation professionnelle ;

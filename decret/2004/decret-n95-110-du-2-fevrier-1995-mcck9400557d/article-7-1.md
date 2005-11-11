@@ -10,7 +10,7 @@ Pour bénéficier de ce versement, l'entreprise de production doit remplir les c
 
 3° Présenter un programme de production ;
 
-4° Avoir produit au cours des trois dernières années une moyenne de vingt et une heures d'oeuvres audiovisuelles inscrites sur la liste des oeuvres de référence prévue au paragraphe II de l'article 6 du présent décret.
+4° Avoir produit au cours des trois dernières années au moins vingt et une heures d'oeuvres audiovisuelles inscrites sur la liste des oeuvres de référence prévue au paragraphe II de l'article 6 du présent décret.
 
 II. - La décision du directeur général du Centre national de la cinématographie fixe le montant des sommes versées en vue du programme et les modalités de versement. Les sommes versées ne peuvent excéder 30 % du montant des sommes portées au compte de l'entreprise de production l'année précédente.
 

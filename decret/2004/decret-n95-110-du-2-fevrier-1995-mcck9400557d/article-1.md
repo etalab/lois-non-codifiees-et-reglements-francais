@@ -12,7 +12,7 @@ b) A la préparation de la réalisation des oeuvres audiovisuelles appartenant �
 
 2° Ces aides sont également accordées aux entreprises de production, qu'elles soient ou non titulaires d'un compte ouvert à leur nom au Centre national de la cinématographie conformément au paragraphe 1 de l'article 6 du présent décret. Dans ce cas, elles concourent :
 
-a) A la production d'oeuvres audiovisuelles appartenant au genre magazine et présentant un intérêt d'ordre essentiellement culturel.
+a) A la production d'oeuvres audiovisuelles appartenant au genre documentaire de création autre que mentionné au 1° du paragraphe II et au genre magazine présentant un intérêt particulier d'ordre essentiellement culturel.
 
 b) A la production d'oeuvres audiovisuelles de courte durée, appartenant au genre vidéomusique et mettant en images une composition musicale préexistante. Ces oeuvres doivent être d'expression originale française.
 
