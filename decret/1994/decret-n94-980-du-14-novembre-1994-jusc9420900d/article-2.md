@@ -8,6 +8,8 @@ Les cours administratives d'appel peuvent, moyennant le paiement de participatio
 
 3° Les copies des décisions de la juridiction ;
 
-4° Ainsi que tout document d'étude, d'analyse et de synthèse élaboré dans le cadre de l'activité de la juridiction.
+4° Les conclusions de commissaires du Gouvernement relatives aux décisions mentionnées au 3° ;
+
+5° Ainsi que tout document d'étude, d'analyse et de synthèse élaboré dans le cadre de l'activité de la juridiction.
 
 Les documents mentionnés aux alinéas précédents peuvent être délivrés sur tout support.

@@ -8,6 +8,8 @@ Le Conseil d'Etat peut, moyennant le paiement de participations versées à titr
 
 3° Les copies des décisions du tribunal des conflits et du Conseil d'Etat statuant au contentieux ;
 
-4° Ainsi que tout document d'étude, d'analyse et de synthèse élaboré dans le cadre de son activité.
+4° Les conclusions de commissaires du Gouvernement relatives aux décisions mentionnées au 3° ;
+
+5° Ainsi que tout document d'étude, d'analyse et de synthèse élaboré dans le cadre de son activité.
 
 Les documents mentionnés aux alinéas précédents peuvent être délivrés sur tout support.
