@@ -21,3 +21,5 @@ Pour la valeur d'émissions de dioxyde de carbone la plus haute, tous les modèl
 5. Les valeurs d'émissions de CO2 sont exprimées en valeurs entières en grammes par kilomètre (g/km). Les valeurs de consommation sont exprimées avec une seule décimale, en litres aux cent kilomètres (1/100 km) (a).
 
 (a) En m3/100 km pour les véhicules fonctionnant au gaz naturel.
+
+6. Le guide indique pour chaque modèle sa classe (de A à G) d'émissions de CO2 telle que définie à l'annexe I du présent arrêté.

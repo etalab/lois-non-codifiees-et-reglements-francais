@@ -11,3 +11,5 @@ Les valeurs d'émissions de CO2 sont exprimées en valeurs entières en grammes 
 (a) En m3/100 km pour les véhicules fonctionnant au gaz naturel.
 
 Dans le cas d'un affichage par écran électronique, celui-ci doit être disposé de manière à attirer au moins autant l'attention des consommateurs que ne l'aurait fait un affichage traditionnel.
+
+L'affiche ou les autres modes d'affichage comportent aussi la classification des émissions de CO2 des modèles de voitures particulières, telle que définie à l'annexe I du présent arrêté.

@@ -11,3 +11,5 @@ Dans le cas où les imprimés ne mentionnent que la marque des véhicules et ne 
 Les valeurs d'émissions de CO2 sont exprimées en valeurs entières en grammes par kilomètre (g/km). Les valeurs de consommation sont exprimées avec une seule décimale, en litres aux cent kilomètres (1/100 km) (a).
 
 (a) En m3/100 km pour les véhicules fonctionnant au gaz naturel.
+
+La mention de la classe d'émissions de CO2 (A à G), telle que définie à l'annexe I du présent arrêté, de ou des modèles présentés peut être indiquée sur les imprimés.
