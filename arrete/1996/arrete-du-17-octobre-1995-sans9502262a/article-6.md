@@ -16,4 +16,6 @@ Les catégories de travailleurs visées au dernier alinéa de l'article D. 242-6
 
 7° Toute personne effectuant des travaux de courte durée pour le compte de particuliers : travaux de bureaux ou assimilables ;
 
-8° Toute personne effectuant des travaux de courte durée pour le compte de particuliers : travaux industriels ou relevant de professions du bâtiment.
+8° Toute personne effectuant des travaux de courte durée pour le compte de particuliers : travaux industriels ou relevant de professions du bâtiment ;
+
+8° Salarié d'un employeur dont l'entreprise ne comporte pas d'établissement en France visé à l'article L. 243-1-2 du code de la sécurité sociale.
