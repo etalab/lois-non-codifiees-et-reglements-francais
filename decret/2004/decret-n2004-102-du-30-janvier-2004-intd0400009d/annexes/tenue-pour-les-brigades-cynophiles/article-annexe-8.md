@@ -6,7 +6,7 @@ Casquette souple de couleur bleu foncé avec l'inscription "police municipale" e
 
 2. Blousons et vestes
 
-Blouson de couleur bleu foncé, avec l'inscription "police municipale", en blanc, sur les faces avant et arrière.
+Blouson de couleur bleu foncé, marqué sur les faces avant et arrière "police municipale" en blanc ou gris rétro-réfléchissant, au-dessus d'une bande en tissu rétro-réfléchissant gris, située autour de la poitrine et composée de trois bandes de couleur bleu gitane.
 
 3. Pulls et vestes polaires (en hiver)
 

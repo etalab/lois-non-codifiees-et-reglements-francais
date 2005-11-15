@@ -2,7 +2,7 @@
 
 1. Couvre-chef
 
-Casque de moto blanc, entouré de trois bandes de couleur bleu gitane de part et d'autre de la visière, interrompues, sur la face arrière, par un carré gris de 3 cm de côté, comportant l'inscription "police municipale" en bleu gitane.
+Casque de moto blanc, entouré de trois bandes de couleur bleu gitane de part et d'autre de la visière, interrompues, sur la face arrière, par un rectangle gris, comportant l'inscription "police municipale" en bleu gitane.
 
 Lorsque le véhicule n'est pas utilisé, il est possible de porter un calot de couleur bleu foncé ou bleu gitane.
 

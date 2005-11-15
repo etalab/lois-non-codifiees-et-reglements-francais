@@ -1,13 +1,5 @@
 # Article ANNEXE 1
 
-Couleurs
-
-Pour la couleur appelée "bleu gitane", le numéro de Pantone est 18-4051 TP.
-
-Pour la couleur appelée "bleu foncé", le numéro de Pantone est 19-4025 TP.
-
-Pour la couleur appelée "bleu ciel", le numéro de Pantone est 14-4115 TP.
-
 Dimensions
 
 Les dimensions des lettres des mots "police" et "municipale" ne peuvent être augmentées, à partir des minima indiqués dans la présente annexe, que de manière identique.
