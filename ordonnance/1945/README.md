@@ -19,6 +19,7 @@
 - [Ordonnance n° 45-26 du 8 janvier 1945](ordonnance-n-45-26-du-8-janvier-1945)
 - [Ordonnance n° 45-2280 du 9 octobre 1945](ordonnance-n-45-2280-du-9-octobre-1945)
 - [Ordonnance n° 45-2283 du 9 octobre 1945](ordonnance-n-45-2283-du-9-octobre-1945)
+- [Ordonnance n° 45-1779 du 10 août 1945](ordonnance-n-45-1779-du-10-aout-1945)
 - [Ordonnance du 13 décembre 1944](ordonnance-du-13-decembre-1944)
 - [Ordonnance n° 45-1546 du 13 juillet 1945](ordonnance-n-45-1546-du-13-juillet-1945)
 - [Ordonnance n° 45-2339 du 13 octobre 1945](ordonnance-n-45-2339-du-13-octobre-1945)
