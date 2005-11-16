@@ -58,6 +58,7 @@
 - [Décret n°2000-789 du 24 août 2000 (MAEA0020137D)](decret-n2000-789-du-24-aout-2000-maea0020137d)
 - [Décret n°2000-798 du 24 août 2000 (INTA0000212D)](decret-n2000-798-du-24-aout-2000-inta0000212d)
 - [Décret n°2000-800 du 24 août 2000 (INTC0000230D)](decret-n2000-800-du-24-aout-2000-intc0000230d)
+- [Décret n°2000-805 du 24 août 2000 (MENX0000035D)](decret-n2000-805-du-24-aout-2000-menx0000035d)
 - [Décret n°2000-1277 du 26 décembre 2000 (FPPA0000142D)](decret-n2000-1277-du-26-decembre-2000-fppa0000142d)
 - [Décret n°2000-1278 du 26 décembre 2000 (ECOI0000525D)](decret-n2000-1278-du-26-decembre-2000-ecoi0000525d)
 - [Décret n°2000-1290 du 26 décembre 2000 (MAEC0000038D)](decret-n2000-1290-du-26-decembre-2000-maec0000038d)

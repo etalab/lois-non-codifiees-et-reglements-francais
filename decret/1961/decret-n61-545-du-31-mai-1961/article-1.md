@@ -2,6 +2,6 @@
 
 Les charges sociales visées à l'article 5 du décret n° 60-746 du 28 juillet 1960 et afférentes aux rémunérations perçues par les maîtres salariés agréés donnant leur enseignement dans les classes placées sous le régime du contrat simple comprennent :
 
-1° Les cotisations patronales d'assurances sociales, d'accidents du travail et d'allocations familiales du régime général de sécurité sociale ;
+1° La cotisation d'allocations familiales et la cotisation d'assurance vieillesse à la charge de l'employeur au titre du régime général, ainsi que la cotisation à la charge de l'Etat prévue à l'article L. 712-9 du code de la sécurité sociale ;
 
-2° Les cotisations patronales à une institution de retraite fonctionnant dans les conditions des articles 43 et suivants du décret n° 46-1378 du 8 juin 1946 modifié.
+2° Les cotisations à la charge de l'employeur à une institution de retraite complémentaire fonctionnant dans les conditions prévues au livre IX du code de la sécurité sociale.
