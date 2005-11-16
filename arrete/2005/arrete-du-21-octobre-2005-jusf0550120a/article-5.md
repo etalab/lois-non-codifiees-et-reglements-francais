@@ -1,0 +1,3 @@
+# Article 5
+
+Sous réserve de dispositions légales contraires, les personnes extérieures aux juridictions judiciaires et à l'administration de la protection judiciaire de la jeunesse ne sont pas habilitées à accéder aux informations contenues dans les divers fichiers. Le traitement automatisé ne fait pas l'objet d'interconnexions. Il ne fait pas l'objet de mise en relation ou de rapprochement avec d'autres fichiers nominatifs. Le fichier national anonymisé peut, seul, faire l'objet, à l'initiative exclusive des services centraux de la direction de la protection judiciaire, d'interconnexions aux finalités principales communes et correspondant à un intérêt public identique.

@@ -102,45 +102,29 @@ o) Les viandes présentant une odeur sexuelle prononcée.
 
 p) Les matériels à risque spécifiés suivants :
 
-i) Le crâne, y compris l'encéphale et les yeux, la colonne vertébrale, y compris les ganglions rachidiens, mais à l'exclusion des vertèbres caudales et des apophyses transverses des vertèbres thoraciques et lombaires et des ailes du sacrum, et la moelle épinière des bovins âgés de douze mois et plus ;
+i) Pour l'espèce bovine (y compris les espèces Bubalus bubalus et Bison bison) :
 
-- la rate des bovins, quel que soit leur âge ;
+- le crâne, à l'exclusion de la mandibule, y compris l'encéphale et les yeux, la colonne vertébrale, à l'exclusion des vertèbres caudales, des apophyses épineuses et transverses des vertèbres cervicales, thoraciques et lombaires et de la crête sacrée médiane et des ailes du sacrum, mais y compris les ganglions rachidiens et la moelle épinière, des bovins âgés de plus de douze mois ;
 
-- la tête entière, comprenant les yeux et les amygdales, mais à l'exclusion de l'encéphale, de la langue et des masséters, des ovins et caprins âgés de moins de six mois ;
+- les amygdales, les intestins du duodénum au rectum, et le mesentère des bovins de tous âges.
 
-- la tête entière, comprenant l'encéphale, les yeux et les amygdales, mais à l'exclusion de la langue et des muscles masséters, des ovins et caprins âgés de six mois et plus ;
+L'élimination des amygdales des bovins de tous âges est effectuée en procédant à une coupe transversale de la langue en avant du processus lingual de l'os basihyoïde.
 
-- la rate des ovins et caprins, quel que soit leur âge ;
+ii) Pour les espèces ovine et caprine :
 
-- la moelle épinière des ovins et caprins âgés de douze mois et plus ou qui présentent une incisive permanente ayant percé la gencive ;
+- le crâne, y compris les yeux, mais à l'exclusion de l'encéphale, des ovins et caprins âgés de moins de six mois ;
 
-- l'iléon des ovins et caprins abattus à compter du 1er octobre 2003, quel que soit leur âge.
+- le crâne, y compris l'encéphale et les yeux, des ovins et caprins âgés de six mois et plus ;
 
-ii) Les tissus suivants provenant d'animaux ayant pu être exposés à un risque spécifique de contamination par un agent d'une encéphalopathie spongiforme subaiguë transmissible (ESST) :
+- les amygdales, la rate et l'iléon des ovins et caprins quel que soit leur âge ;
 
-- la tête entière, la moelle épinière ainsi que les viscères thoraciques et abdominaux des ovins et caprins abattus dans le cadre des dispositions de l'arrêté du 28 mars 1997 fixant les mesures de police sanitaire relatives à la tremblante ovine et caprine (1) ;
+- la moelle épinière des ovins et caprins âgés de plus de douze mois ou qui présentent une incisive permanente ayant percé la gencive ;
 
-- (alinéa supprimé).
+- le crâne, y compris l'encéphale et les yeux, les amygdales des ovins et caprins nés ou élevés au Royaume-Uni, quel que soit leur âge.
 
-iii) Les abats suivants :
+q) Les viandes et tous les sous-produits, y compris le cuir, provenant d'animaux de l'espèce bovine âgés de plus de trente mois ou de plus de vingt-quatre mois dans les cas prévus à l'article 27 du présent arrêté, soumis à un test de dépistage de l'encéphalopathie spongiforme bovine avec résultat non négatif.
 
-- les amygdales et les intestins, y compris le mésentère, des bovins quel que soit leur âge ; l'élimination des amygdales est effectuée en procédant pour les bovins de tous âges à une coupe transversale de la langue en avant du processus lingual de l'os basihyoïde.
-
-iv) Le thymus des bovins, à l'exclusion du thymus des bovins :
-
-- nés et élevés en France et dont la date de naissance est postérieure au 30 juin 2002 ;
-
-- nés en France entre le 1er janvier 2002 et le 30 juin 2002, élevés en France et accompagnés d'un certificat sanitaire, signé par un vétérinaire titulaire d'un mandat sanitaire, portant la mention suivante "Les animaux faisant l'objet du présent certificat ont été nourris depuis leur naissance exclusivement avec des aliments n'incorporant pas de matières issues de ruminants, exception faite du lait ou des matières issues du lait" ;
-
-- originaires des autres pays de l'Union européenne, nés entre le 1er janvier 2002 et le 30 juin 2002 et accompagnés d'un certificat sanitaire, signé par un vétérinaire officiel et portant la mention suivante : "Les animaux faisant l'objet du présent certificat ont été nourris depuis leur naissance exclusivement avec des aliments n'incorporant pas de matières issues de ruminants exception faite du lait ou des matières issues du lait" ;
-
-- originaires des autres pays de l'Union européenne, nés postérieurement au 30 juin 2002 et accompagnés d'un certificat sanitaire, signé par un vétérinaire officiel, portant la mention définie à l'alinéa précédent, éventuellement complétée de la mention suivante, dans le cas d'utilisation pour leur alimentation de graisse sécurisée de ruminants : "et exception faite des graisses de ruminants collectées avant la découpe en demis par fente longitudinale de la colonne vertébrale des carcasses et soumises à un traitement de purification permettant de garantir un taux maximal d'impuretés insolubles total de 0,15 % en poids et à un traitement thermique à 133 °C, pendant 20 minutes sans interruption, à la pression de 3 bars avec une taille maximale des particules inférieure ou égale à 50 mm" ;
-
-- nés, et élevés dans les pays cités à l'annexe XI du règlement modifié (CE) n° 999/2001 du 22 mai 2001 fixant les règles pour la prévention, le contrôle et l'éradication de certaines encéphalopathies spongiformes transmissibles.
-
-q) Les viandes et tous les sous-produits, y compris le cuir, provenant d'animaux de l'espèce bovine âgés de vingt-quatre mois et plus, puis, à compter du 1er juillet 2004, âgés de trente mois et plus, soumis à un test de dépistage de l'encéphalopathie spongiforme bovine avec résultat non négatif.
-
-r) Les viandes et tous les sous-produits, y compris le cuir, provenant d'animaux de l'espèce bovine âgés de vingt-quatre mois et plus, puis, à compter du 1er juillet 2004, âgés de trente mois et plus, non soumis à un test de dépistage de l'encéphalopathie spongiforme bovine.
+r) Les viandes et tous les sous-produits, y compris le cuir, provenant d'animaux de l'espèce bovine âgés de plus de trente mois ou de plus de vingt-quatre mois dans les cas prévus à l'article 27 du présent arrêté, non soumis à un test de dépistage de l'encéphalopathie spongiforme bovine.
 
 s) Les viandes et tous les sous-produits, y compris le cuir, encore présents à l'abattoir, et consignés conformément à l'article 27 A, point 4, du présent arrêté provenant d'animaux de l'espèce bovine qui :
 
