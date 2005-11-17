@@ -160,7 +160,6 @@
 - [Décret n°2004-402 du 6 mai 2004 (SANS0420914D)](decret-n2004-402-du-6-mai-2004-sans0420914d)
 - [Décret n°2004-403 du 6 mai 2004 (AGRE0400350D)](decret-n2004-403-du-6-mai-2004-agre0400350d)
 - [Décret n°2003-960 du 7 octobre 2003 (MCCT0300762D)](decret-n2003-960-du-7-octobre-2003-mcct0300762d)
-- [Décret n°2004-1068 du 7 octobre 2004 (AGRF0402122D)](decret-n2004-1068-du-7-octobre-2004-agrf0402122d)
 - [Décret n°2004-1083 du 7 octobre 2004 (MENE0401556D)](decret-n2004-1083-du-7-octobre-2004-mene0401556d)
 - [Décret n°2004-1339 du 7 décembre 2004 (INTD0400236D)](decret-n2004-1339-du-7-decembre-2004-intd0400236d)
 - [Décret n°2004-15 du 7 janvier 2004 (ECOZ0300023D)](decret-n2004-15-du-7-janvier-2004-ecoz0300023d)
