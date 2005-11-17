@@ -190,6 +190,8 @@ Centre hospitalier universitaire (vaccinations internationales), 4, rue Larrey, 
 
 Centre hospitalier Louis Pasteur, rue Trottebec, BP 208, 50102 Cherbourg-Octeville ;
 
+Centre hospitalier de Valognes, 1, avenue du 8-Mai-1945, 50700 Valognes.
+
 51 - Marne
 
 Centre hospitalier régional universitaire, hôpital Robert Debré, avenue du Général-Koenig, 51100 Reims ;
@@ -475,6 +477,8 @@ Centre de prévention et de vaccination, lot. Koulans, 97360 Mana.
 Centre de prévention et de vaccination, rue Lionel-Bacé, 97355 Macouria.
 
 Centre de santé, 1, rue du Général-de-Gaulle, 97390 Regina.
+
+Centre hospitalier Andrée Rosemon (unité des maladies infectieuses et tropicales), avenue des Flamboyants, BP 6006, 97306 Cayenne Cedex.
 
 974 - Réunion
 
