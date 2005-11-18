@@ -8,4 +8,4 @@ III. - Jusqu'à l'élection devant intervenir entre le 15 novembre et le 15 déc
 
 Entre l'issue de l'assemblée générale extraordinaire prévue au V de l'article 51 de la loi du 1er août 2003 susvisée et jusqu'à la clôture de l'élection mentionnée à l'alinéa précédent, les membres du conseil d'administration ou de surveillance représentant les locataires participent aux assemblées générales de la société sans être tenus d'être actionnaires et y disposent d'un nombre de voix calculé en faisant application des dispositions de l'article R. 422-1-1 comme s'ils étaient actionnaires.
 
-IV. - Le point 13 de la clause type 3 de l'annexe à l'article R. 422-1, dans sa rédaction en vigueur à la date de publication du présent décret, cesse d'être applicable au plus tard le 31 décembre 2005.
+IV. - Le point 13 de la clause type 3 de l'annexe à l'article R. 422-1, dans sa rédaction en vigueur à la date de publication du présent décret, cesse d'être applicable au plus tard le 31 décembre 2006.
