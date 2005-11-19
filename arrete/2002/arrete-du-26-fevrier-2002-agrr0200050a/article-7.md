@@ -1,22 +1,18 @@
 # Article 7
 
-Pour bénéficier de ces aides, le demandeur doit constituer un dossier comportant les pièces prévues par l'arrêté du 30 mai 2000 susvisé ainsi que les documents suivants :
+Pour bénéficier de ces aides, le demandeur doit constituer un dossier comportant les pièces prévues par l'arrêté du 5 juin 2003 susvisé ainsi que les documents suivants :
 
-- l'accusé de réception de la déclaration d'intention faite en préfecture conformément à l'article 3 du décret du 4 janvier 2002 susvisé ;
+- une préétude ou une étude préalable de l'exploitation comprenant un diagnostic prenant en compte l'ensemble des installations d'élevages et la gestion des effluents correspondants et un avant-projet d'amélioration portant sur les travaux et les pratiques agronomiques. Cette étude comporte notamment la justification agronomique des capacités de stockage. Pour les élevages situés en zone vulnérable, elle montre également que l'éleveur respecte l'obligation relative à la quantité maximale d'azote contenue dans les effluents d'élevage pouvant être épandue annuellement, y compris les déjections des animaux eux-mêmes, fixée à l'article 2-2 du décret n° 2001-34 du 10 janvier 2001 susvisé.
 
-- une étude préalable de l'exploitation comprenant un diagnostic prenant en compte l'ensemble des installations d'élevages et la gestion des effluents correspondants et un avant-projet d'amélioration portant sur les travaux et les pratiques agronomiques. Cette étude comporte notamment la justification agronomique des capacités de stockage et la démonstration du bien-fondé technico-économique des couvertures des aires d'exercice. Pour les élevages situés en zone vulnérable, elle montre également que l'éleveur respecte l'obligation relative à la quantité maximale d'azote contenue dans les effluents d'élevage pouvant être épandue annuellement, y compris les déjections des animaux eux-mêmes, fixée à l'article 2-2 du décret n° 2001-34 du 10 janvier 2001 susvisé ;
+Le demandeur a la possibilité de réaliser la préétude seule ou l'étude préalable seule ;
 
 - une description détaillée du projet d'amélioration avec plans avant et après travaux ainsi que les fiches de calcul des capacités de stockage montrant le respect des références techniques ;
 
-- le coût du projet estimé à partir de devis descriptifs, réalisés selon un devis type ;
+- le coût du projet estimé à partir de devis descriptifs ou par un estimatif détaillé établi sous la responsabilité du demandeur ;
 
-- la description de l'insertion paysagère des aménagements envisagés ;
+- le plan de fumure relatif à la campagne de l'année de dépôt du dossier de demande d'aide et le cahier d'enregistrement des épandages des fertilisants azotés établis l'année précédant le dépôt du dossier de demande d'aide pour les élevages situés en zone vulnérable ;
 
-- les justificatifs de la date de construction ou d'extension des bâtiments d'élevage ;
-
-- le ou les plans de fumure et le ou les cahiers d'enregistrement des épandages des fertilisants azotés établis depuis la campagne culturale 2002-2003 pour les élevages situés en zone vulnérable ;
-
-- l'arrêté d'autorisation ou le récépissé de déclaration pour les élevages soumis à la réglementation relative aux installations classées pour la protection de l'environnement ;
+- l'arrêté d'autorisation ou le récépissé de déclaration pour les élevages soumis à la réglementation relative aux installations classées pour la protection de l'environnement, pour les élevages qui sont en cours de procédure au titre de cette réglementation, ces pièces sont remplacées par le récépissé de dépôt du dossier déposé auprès de la préfecture du siège de l'élevage ;
 
 - l'engagement de l'agriculteur :
 
@@ -33,3 +29,5 @@ Pour bénéficier de ces aides, le demandeur doit constituer un dossier comporta
 - soit par un organisme accrédité par le Comité français d'accréditation (COFRAC) pour le domaine considéré.
 
 Cette mission de contrôle porte sur la solidité des ouvrages selon le cahier des prescriptions techniques figurant en annexe 2.
+
+Si la demande d'aide ne porte que sur l'étude ou la préétude, la constitution du dossier se limite aux seules pièces fixées par l'arrêté du 5 juin 2003 susvisé.

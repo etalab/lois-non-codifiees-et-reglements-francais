@@ -1,4 +1,4 @@
-# Décret n°2001-407 du 7 mai 2001 organisant la procédure de recours administratif préalable aux recours contentieux formés à l'encontre d'actes relatifs à la situation personnelle des militaires
+# Décret n°2005-1426 du 18 novembre 2005 relatif à la composition et au fonctionnement du Conseil national du littoral.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -11,5 +11,5 @@
 - [Article 9](article-9.md)
 - [Article 10](article-10.md)
 - [Article 11](article-11.md)
-- [Article 11-1](article-11-1.md)
 - [Article 12](article-12.md)
+- [Article 13](article-13.md)

@@ -20,7 +20,9 @@ a) Une analyse du fonctionnement de l'installation au cours de la période déce
 
 b) Les éléments venant compléter et modifier l'analyse des effets de l'installation sur l'environnement et la santé telle que prévu au b de l'article 3 du décret du 21 septembre 1977 susvisé ;
 
-c) Une analyse des performances des moyens de prévention et de réduction des pollutions par rapport à l'efficacité des techniques disponibles mentionnées au deuxième alinéa de l'article 17 du décret du 21 septembre 1977 susvisé, c'est-à-dire aux performances des meilleures techniques disponibles telles que définies en annexe 2 ;
+c) Une analyse des performances des moyens de prévention et de réduction des pollutions par rapport à l'efficacité des techniques disponibles mentionnées au deuxième alinéa de l'article 17 du décret du 21 septembre 1977 susvisé, c'est-à-dire aux performances des meilleures techniques disponibles telles que définies en annexe 2.
+
+Le bilan fournit les éléments décrivant la prise en compte des changements substantiels dans les meilleures techniques disponibles permettant une réduction significative des émissions sans imposer des coûts excessifs ;
 
 d) Les mesures envisagées par l'exploitant sur la base des meilleures techniques disponibles pour supprimer, limiter et compenser les inconvénients de l'installation ainsi que l'estimation des dépenses correspondantes, tel que prévu au d de l'article 3 du décret du 21 septembre 1977 susvisé. Ces mesures concernent notamment la réduction des émissions et les conditions d'utilisation rationnelle de l'énergie ;
 

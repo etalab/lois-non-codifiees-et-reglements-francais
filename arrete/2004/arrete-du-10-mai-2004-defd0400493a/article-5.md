@@ -6,8 +6,6 @@ Elle est chargée du contrôle de gestion de la direction.
 
 Elle participe à l'exercice de la tutelle, pour les aspects budgétaires et financiers, des établissements publics du ressort du ministère de la défense.
 
-Elle prépare les actes relatifs à l'Institution nationale des invalides et à l'Office national des anciens combattants et victimes de guerre.
-
 Elle analyse les budgets et comptabilités des comptes de commerce, étudie leur équilibre économique et participe à l'évolution de leurs règles de gestion.
 
 Elle traite des questions fiscales et douanières ainsi que des questions financières relatives à la coopération internationale.

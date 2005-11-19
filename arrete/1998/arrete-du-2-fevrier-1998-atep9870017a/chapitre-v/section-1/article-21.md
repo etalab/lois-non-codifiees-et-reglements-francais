@@ -1,6 +1,8 @@
 # Article 21
 
-I. - Les valeurs limites d'émissions sont fixées dans l'arrêté d'autorisation sur la base de l'emploi des meilleures technologies disponibles à un coût économique acceptable et des caractéristiques particulières de l'environnement. Des valeurs limites sont fixées pour le débit des effluents, pour les flux (flux par unité de temps et, le cas échéant, flux spécifique) et pour les concentrations des polluants principaux conformément aux dispositions du présent arrêté. Pour la détermination des flux, les émissions canalisées et les émissions diffuses sont prises en compte.
+I. - Les valeurs limites d'émissions fixées dans l'arrêté d'autorisation sont fondées sur les meilleures techniques disponibles dans des conditions économiquement et techniquement viables, telles que définies en annexe IX, sans prescrire l'utilisation d'une technique ou d'une technologie spécifique et en prenant en considération les caractéristiques de l'installation concernée, son implantation géographique et les conditions locales de l'environnement.
+
+Si une norme de qualité environnementale nécessite des conditions plus sévères que celles pouvant être atteintes par l'utilisation des meilleures techniques disponibles, des conditions supplémentaires sont notamment requises par l'arrêté d'autorisation, sans préjudice d'autres mesures pouvant être prises pour respecter les normes de qualité environnementale. Pour la détermination des flux, les émissions canalisées et les émissions diffuses sont prises en compte.
 
 Les dispositions relatives au bruit et aux vibrations sont fixées aux articles 47 et 48 ci-après.
 

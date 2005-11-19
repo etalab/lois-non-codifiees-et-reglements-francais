@@ -3,6 +3,7 @@
 - [Loi n° 2004-439 du 26 mai 2004 (JUSX0300062L)](loi-n-2004-439-du-26-mai-2004-jusx0300062l)
 - [Loi n° 2005-102 du 11 février 2005 (SANX0300217L)](loi-n-2005-102-du-11-fevrier-2005-sanx0300217l)
 - [Loi n° 2005-1319 du 26 octobre 2005 (DEVX0500055L)](loi-n-2005-1319-du-26-octobre-2005-devx0500055l)
+- [Loi n° 2005-1425 du 18 novembre 2005 (INTX0500288L)](loi-n-2005-1425-du-18-novembre-2005-intx0500288l)
 - [Loi n° 2005-157 du 23 février 2005 (AGRX0300111L)](loi-n-2005-157-du-23-fevrier-2005-agrx0300111l)
 - [Loi n° 2005-158 du 23 février 2005 (DEFX0300218L)](loi-n-2005-158-du-23-fevrier-2005-defx0300218l)
 - [Loi n° 2005-159 du 23 février 2005 (MAEX0300170L)](loi-n-2005-159-du-23-fevrier-2005-maex0300170l)

@@ -1,6 +1,6 @@
 # Article 11
 
-Le taux maximum de la subvention attribuée par l'Etat est de 30 % du montant des travaux dans la limite des plafonds prévus ci-après pour les investissements cités aux points suivants du présent article. Pour les projets de jeunes agriculteurs qui bénéficient des aides à l'installation au sens de l'article R. 343 du code rural susvisé, le taux de subvention de ces travaux est porté à 35 % dans les zones défavorisées et les territoires ruraux de développement prioritaires définis dans le décret du 26 décembre 1994 susvisé et à 32,5 % dans les autres zones.
+Le taux maximum de la subvention attribuée par l'Etat est de 30 % du montant des travaux dans la limite des plafonds prévus ci-après pour les investissements cités aux points suivants du présent article. Pour les projets de jeunes agriculteurs, le taux de subvention de ces travaux est porté à 35 % dans les zones défavorisées et les territoires ruraux de développement prioritaires définis dans le décret du 26 décembre 1994 susvisé et à 32,5 % dans les autres zones. Est considéré comme jeune agriculteur, pour l'application du présent article, le candidat qui a bénéficié des aides à l'installation, en application des articles R. 343-3 à R. 343-18 du code rural.
 
 a) Stockage de lisier, autres effluents liquides et fumiers :
 
@@ -30,7 +30,7 @@ d) Couverture des aires de stockage de fumier :
 
 Si la couverture des aires de stockage des fumiers permet d'éviter la production de purin et si aucun autre stockage d'effluent liquide n'est nécessaire sur l'exploitation, cette couverture est aidée en appliquant un coût plafond de 38 euros par mètre carré éligible.
 
-Dans le cas contraire, lorsque l'éleveur décide de couvrir l'aire de stockage du fumier, la dépense éligible pour cette couverture est le supplément de dépense éligible correspondant au volume supplémentaire de fosse qu'il aurait été nécessaire de construire en l'absence de cette couverture.
+Dans le cas contraire, lorsque l'éleveur décide de couvrir l'aire de stockage du fumier, la dépense éligible pour cette couverture est aidée à hauteur de 25 par mètre carré éligible.
 
 e) Evacuation des eaux pluviales :
 
@@ -40,13 +40,13 @@ f) Etanchéité des aires bétonnées existantes : aires d'exercice, aires d'att
 
 Le coût plafond est calculé pour le nombre d'UGB y ayant accès. Il est de 18 euros par mètre carré, les surfaces étant limitées à 8 mètres carrés par UGB, ou à 14 mètres carrés par UGB, en cas d'accès à un silo en libre service.
 
-g) Travaux et équipements visant au traitement des eaux blanches et des eaux vertes :
+g) Travaux et équipements visant au traitement des effluents peu chargés :
 
-Le coût pris en compte ne peut dépasser celui correspondant au stockage de ces eaux dans les mêmes conditions que les autres effluents liquides.
+Le coût plafond est calculé sur la base du coût plafond, défini à l'alinéa a, d'une fosse permettant le stockage de ces mêmes effluents pendant une durée de quatre mois. A ce coût plafond, il convient d'ajouter le système d'épandage dans la limite de 6900.
 
-h) Travaux et équipements visant au traitement des eaux brunes :
+h) Travaux et équipements visant à permettre le recyclage des eaux de lavage ou de rinçage issus de la salle de traite et des locaux annexes :
 
-Le coût pris en compte ne peut dépasser celui du stockage sans traitement des effluents liquides issus de l'aire d'exercice.
+Le coût plafond de prise en charge est fixé à 1500.
 
 i) Matériels assurant une meilleure répartition ou l'enfouissement des effluents lors de l'épandage :
 
@@ -73,6 +73,8 @@ l) Retourneurs d'andain pour le compostage des fumiers : coût plafond de :
 - pour les porcins, 9,15 euros par place de porc de plus de 30 kilogrammes ;
 
 - pour les volailles de chair, 0,46 euro par mètre carré.
+
+La plate-forme de compostage est assimilée à une fumière. Sa prise en charge se fait selon les modalités prévues au point a, dans la mesure où cette plate-forme se substitue à la fumière que le demandeur aurait dû mettre en place en l'absence de compostage.
 
 m) Installations de séchage des fientes de volaille, y compris les appareils de ventilation des fosses et litières : coût plafond de 2,5 euros par poule pondeuse.
 
