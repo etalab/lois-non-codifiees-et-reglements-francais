@@ -1,7 +1,15 @@
 # Article 2
 
-A compter de la notification ou de la publication de l'acte contesté, le militaire dispose d'un délai de deux mois pour saisir la commission par lettre recommandée avec avis de réception adressée au secrétariat de la commission, accompagnée d'une copie de l'acte. Si la copie n'est pas jointe à l'envoi, le secrétariat de la commission met l'intéressé en demeure de la produire dans un délai de deux semaines ; en l'absence de production dans ce délai, l'intéressé est réputé avoir renoncé à son recours.
+A compter de la notification ou de la publication de l'acte contesté, ou de l'intervention d'une décision implicite de rejet d'une demande, le militaire dispose d'un délai de deux mois pour saisir la commission par lettre recommandée avec avis de réception adressée au secrétariat de la commission.
 
-Dès réception de la demande, le président de la commission en informe l'autorité dont émane l'acte contesté ainsi que le chef d'état-major de l'armée d'appartenance de l'intéressé ou l'autorité correspondante.
+La lettre de saisine de la commission est accompagnée d'une copie de l'acte. Dans le cas d'une décision implicite de rejet, la lettre de saisine est accompagnée d'une copie de la demande.
 
-Toute autorité recevant un recours dont l'examen relève de la compétence de la commission est tenue de le transmettre sans délai à celle-ci et d'en aviser l'auteur du recours.
+Si la copie de l'acte ou, dans le cas d'une décision implicite de rejet, la copie de la demande ne sont pas jointes à l'envoi, le secrétariat de la commission met l'intéressé en demeure de la produire dans un délai de deux semaines ; en l'absence de production dans ce délai, l'intéressé est réputé avoir renoncé à son recours. Le président de la commission en dresse le constat et en informe l'intéressé.
+
+Lorsque le recours est formé après l'expiration du délai de recours mentionné au premier alinéa, le président de la commission constate la forclusion et en informe l'intéressé.
+
+Dès réception du recours, le président de la commission en informe l'autorité dont émane l'acte contesté ainsi que celle dont relève l'intéressé.
+
+Le président de la commission transmet à l'autorité compétente les recours ne relevant pas de la compétence de la commission et en informe l'intéressé.
+
+Toute autorité recevant un recours dont l'examen relève de la compétence de la commission le transmet sans délai à cette commission et en avise l'auteur du recours.
