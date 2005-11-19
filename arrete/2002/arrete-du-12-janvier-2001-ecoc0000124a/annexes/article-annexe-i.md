@@ -1,6 +1,5 @@
 # Article Annexe I
 
-<div align="center">
 <table>
 <tbody>
 <tr>
@@ -138,7 +137,7 @@
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>- fourrages verts</p>
+<p>- fourrages verts (produits destinés à l'alimentation animale tels que le foin, le fourrage ensilé, l'herbe fraîche, etc.)</p>
 </td>
 <td valign="top" width="151">
 <p align="center">40</p>
@@ -301,26 +300,26 @@
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>Composés minéraux pour bovins, ovins et caprins</p>
+<p>Aliments complémentaires ayant une teneur en phosphore inférieure ou égale à 4 %</p>
 </td>
 <td valign="top" width="151">
-<p align="center">2 000</p>
+<p align="center">500</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>- Autres aliments complémentaires</p>
+<p>Aliments complémentaires ayant une teneur en phosphore supérieure à 4 %</p>
 </td>
 <td valign="top" width="151">
-<p align="center">125 (1-3)</p>
+<p align="center">125 pour 1 % de phosphore</p>
 </td>
 </tr>
 <tr>
-<td rowspan="6" valign="top" width="151">
+<td rowspan="10" valign="top" width="151">
 <p>4. Mercure.</p>
 </td>
 <td valign="top" width="340">
-<p>Matières premières pour aliments des animaux, à l'exception de :</p>
+<p>Matières premières pour aliments des animaux</p>
 </td>
 <td valign="top" width="151">
 <p align="center">0,1</p>
@@ -328,7 +327,15 @@
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>- aliments provenant de la transformation de poisson ou d'autres animaux marins</p>
+<p>A l'exception de :</p>
+</td>
+<td valign="top" width="151">
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>- aliments provenant de la transformation de poissons ou d'autres animaux marins</p>
 </td>
 <td valign="top" width="151">
 <p align="center">0,5</p>
@@ -336,10 +343,26 @@
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>Aliments complets, à l'exception de :</p>
+<p>- carbonate de calcium</p>
+</td>
+<td valign="top" width="151">
+<p align="center">0,3</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>Aliments complets</p>
 </td>
 <td valign="top" width="151">
 <p align="center">0,1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>A l'exception de :</p>
+</td>
+<td valign="top" width="151">
+<br/>
 </td>
 </tr>
 <tr>
@@ -352,10 +375,18 @@
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>Aliments complémentaires, à l'exception de :</p>
+<p>Aliments complémentaires</p>
 </td>
 <td valign="top" width="151">
 <p align="center">0,2</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>A l'exception de :</p>
+</td>
+<td valign="top" width="151">
+<br/>
 </td>
 </tr>
 <tr>
@@ -1241,15 +1272,12 @@
 </tr>
 </tbody>
 </table>
-</div>
 
 (1) Teneur en fluor pour 1 % de phosphore.
 
 (1-1) Les teneurs maximales se rapportent aux teneurs totales en arsenic.
 
 (1-2) A la demande des autorités compétentes, l'opérateur responsable doit effectuer une analyse pour démontrer que la teneur maximale en arsenic inorganique est inférieure à 2 ppm. Cette analyse est particulièrement importante dans le cas de l'algue marine hijiki (hizikia fusiforme).
-
-(1-3) Teneur en fluor pour 1 % de phosphore.
 
 (2) Concentrations supérieures ; les concentrations supérieures sont calculées en supposant que toutes les valeurs des différents congénères au-dessous du seuil de quantification sont égales au seuil de quantification.
 
