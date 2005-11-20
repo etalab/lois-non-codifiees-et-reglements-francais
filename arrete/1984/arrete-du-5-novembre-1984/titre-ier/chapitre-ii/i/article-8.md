@@ -18,7 +18,7 @@ Ou bien l'ensemble des documents suivants :
 
 1. Une demande de certificat d'immatriculation sur l'imprimé réglementaire ;
 
-2. Un exemplaire de la notice descriptive (1) sauf pour les véhicules prêts à l'emploi (cf. arrêté du 9 juillet 1954 relatif à la réception des véhicules, modifié notamment par l'arrêté du 17 février 1988) ;
+2. Un exemplaire de la notice descriptive (1) sauf pour les véhicules prêts à l'emploi ;
 
 3. Une copie du procès-verbal de réception du type (1) établi par la direction régionale de l'industrie, de la recherche et de l'environnement compétente ;
 
@@ -122,7 +122,7 @@ Les pièces à fournir sont :
 
 1. Celles énumérées au paragraphe 8-A ou 8-A bis ci-dessus.
 
-2. Soit un certificat de carrossage, tel que prévu à l'annexe VII de l'arrêté du 19 juillet 1954 relatif à la réception des véhicules, modifié notamment par l'arrêté du 17 février 1988 (Journal officiel du 27 mars 1988), dans le cas où le véhicule a été carrossé par un carrossier-constructeur inscrit sous le numéro 34.2 A du code NAF.
+2. Soit un certificat de carrossage conforme à l'annexe VII de l'arrêté du 19 juillet 1954 relatif à la réception des véhicules dans le cas où le véhicule a été carrossé par un carrossier-constructeur inscrit sous le numéro 34.2 A du code NAF, soit un certificat de conformité initial conforme à l'annexe 2 ou 3 de l'arrêté du 18 novembre 2005 relatif au contrôle de conformité initial prévu à l'article R. 323-25 du code de la route.
 
 Pour les véhicules équipés d'une benne amovible, carrosserie BEN AMO, il doit être joint à ce certificat de carrossage un certificat conforme à l'annexe IX de l'arrêté précité :
 

@@ -104,17 +104,13 @@ Dans le cas où le certificat d'immatriculation conforme aux dispositions de la 
 
 - la preuve d'une visite ou d'un contrôle technique en cours de validité pour les véhicules dont l'âge et le genre les soumettent à cette obligation.
 
-3.3. Pour les véhicules non conformes à un type national français ou communautaire, d'un poids total autorisé en charge inférieur ou égal à 3,5 tonnes, ainsi que pour les tracteurs agricoles ou forestiers non conformes à un type national français ou communautaire :
+3.3. Pour les autres véhicules :
 
 - un procès-verbal de réception à titre isolé délivré par une direction régionale de l'industrie, de la recherche et de l'environnement ;
 
 - la preuve d'une visite ou d'un contrôle technique en cours de validité pour les véhicules dont l'âge et le genre les soumettent à cette obligation.
 
-3.4. Pour les véhicules d'un poids total autorisé en charge supérieur à 3,5 tonnes et les véhicules autres que les tracteurs agricoles ou forestiers :
-
-- un procès-verbal de réception à titre isolé délivré par une direction régionale de l'industrie, de la recherche et de l'environnement ;
-
-- la preuve d'une visite technique en cours de validité pour les véhicules dont l'âge et le genre les soumettent à cette obligation.
+3.4. Paragraphe supprimé
 
 4. S'il y a eu vente, le certificat de cession (ou la facture) établie au nom du demandeur de la carte grise ;
 
@@ -128,7 +124,15 @@ b) Pour les véhicules précédemment immatriculés dans un Etat tiers à l'Unio
 
 1. Celles visées aux alinéas 1, 2 et 4 du paragraphe a ci-dessus ;
 
-2. Un procès-verbal de réception à titre isolé délivré par une direction régionale de l'industrie, de la recherche et de l'environnement ;
+2. La ou les pièces suivantes suivant le cas :
+
+2.1. Pour les véhicules conformes à un type communautaire, d'un poids total autorisé en charge inférieur ou égal à 3,5 tonnes, à l'exception des tracteurs agricoles ou forestiers : le certificat de conformité au type communautaire, édité, le cas échéant, dans une autre langue que le français et comportant ou permettant d'obtenir directement l'ensemble des données nécessaires à l'immatriculation (ne sont acceptés que le certificat original restitué par les autorités de l'Etat de première immatriculation ou d'immatriculation précédente, le duplicata du certificat délivré par le constructeur ou son représentant dans l'Etat de première immatriculation ou d'immatriculation précédente, la copie du certificat certifiée conforme par les autorités de l'Etat de première immatriculation ou d'immatriculation précédente).
+
+Dans le cas où le certificat de conformité au type communautaire ne permet pas d'obtenir directement l'ensemble des informations nécessaires à l'immatriculation : une attestation d'identification du véhicule au type communautaire, dont le modèle figure en annexe XVIII du présent arrêté, délivrée soit par le constructeur ou son représentant en France, soit par une direction régionale de l'industrie, de la recherche et de l'environnement.
+
+2.2. Pour les véhicules conformes à un type national français d'un poids total autorisé en charge inférieur ou égal à 3,5 tonnes ainsi que pour les tracteurs agricoles ou forestiers conformes à un type national français ou communautaire : une attestation d'identification à un type national ou communautaire dont le modèle figure en annexes XVII et XVIII au présent arrêté, délivrée soit par le constructeur ou son représentant en France, soit par une direction régionale de l'industrie, de la recherche et de l'environnement.
+
+2.3. Pour les autres véhicules : un procès-verbal de réception à titre isolé délivré par une direction régionale de l'industrie, de la recherche et de l'environnement ;
 
 3. La preuve d'une visite ou d'un contrôle technique en cours de validité pour les véhicules dont l'âge et le genre les soumettent à cette obligation ;
 

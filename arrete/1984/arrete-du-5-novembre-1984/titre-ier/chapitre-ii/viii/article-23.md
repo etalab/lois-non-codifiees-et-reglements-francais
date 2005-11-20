@@ -12,7 +12,7 @@ Pour l'obtention de cette carte grise, le propriétaire du véhicule doit fourni
 
 a) Une demande de certificat d'immatriculation sur l'imprimé réglementaire accompagnée des pièces justificatives de son identité et de son domicile (voir annexe VI) ;
 
-b) Une attestation délivrée par le service des mines indiquant que le véhicule a subi avec succès une visite technique visant à vérifier le bon état de fonctionnement et d'entretien du véhicule ainsi que la correspondance du numéro d'identification de celui-ci avec le numéro porté sur la plaque du constructeur ;
+b) Pour les véhicules réglementairement soumis au contrôle technique, un certificat de contrôle favorable ;
 
 c) L'ancien certificat d'immatriculation.
 

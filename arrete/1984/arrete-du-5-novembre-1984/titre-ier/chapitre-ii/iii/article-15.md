@@ -16,11 +16,11 @@ B. - En cas de modification des caractéristiques concernant la carrosserie, le 
 
 1. Une demande de certificat d'immatriculation sur l'imprimé réglementaire ;
 
-2. a) S'il y a modification de la carrosserie, un certificat de carrossage conforme à l'annexe VII de l'arrêté du 19 juillet 1954 relatif à la réception des véhicules, modifié notamment par l'arrêté du 29 juin 1983 (J.O. du 28 août 1983) ou un procès-verbal de réception à titre isolé délivré par le service des mines dans tous les autres cas ;
+2. a) S'il y a modification de la carrosserie, un certificat de carrossage conforme à l'annexe VII de l'arrêté du 19 juillet 1954 relatif à la réception des véhicules ou un procès-verbal de réception à titre isolé délivré par une direction régionale de l'industrie, de la recherche et de l'environnement dans tous les autres cas ;
 
 b) S'il y a modification du poids à vide uniquement, un bulletin de pesée du véhicule ;
 
-c) S'il y a modification du P.T.A.C. ou du couple P.T.A.C./P.T.R.A., un certificat délivré par le service des mines à l'occasion d'une visite technique réglementaire datant de moins de trois mois. Cette dernière procédure n'est possible que pour les véhicules réceptionnés sous plusieurs poids dans les conditions définies par l'arrêté du 7 octobre 1982 relatif aux modalités d'application des articles R. 54 - B et R. 97 du code de la route. En dehors de ce cas, une réception à titre isolé du véhicule reste nécessaire ;
+c) S'il y a modification du P.T.A.C. ou du couple P.T.A.C./P.T.R.A., un certificat délivré à l'occasion d'une visite technique réglementaire datant de moins de trois mois. Cette dernière procédure n'est possible que pour les véhicules réceptionnés sous plusieurs poids dans les conditions définies par l'arrêté du 7 octobre 1982 relatif aux modalités d'application des articles R. 54 - B et R. 97 du code de la route. En dehors de ce cas, une réception à titre isolé du véhicule reste nécessaire ;
 
 3. La carte grise ;
 

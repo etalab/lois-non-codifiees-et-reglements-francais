@@ -4,4 +4,4 @@ L'immatriculation dans la série TT est réservée aux véhicules automobiles de
 
 L'immatriculation dans la série spéciale IT est réservée aux véhicules appartenant à des personnes bénéficiant, en vertu d'accords spécifiques, de l'exonération douanière et fiscale.
 
-La durée de l'immatriculation dans les séries TT et IT est limitée à un an.
+La durée de l'immatriculation dans les séries TT est limitée à un an.

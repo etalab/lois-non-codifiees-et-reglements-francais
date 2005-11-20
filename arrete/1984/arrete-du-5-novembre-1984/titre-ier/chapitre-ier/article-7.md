@@ -4,7 +4,7 @@ En dehors du cas prévu au paragraphe A de l'article 6 ci-dessus, il est procéd
 
 1. Retrait volontaire de la circulation d'un véhicule par son propriétaire ;
 
-2. Transformation d'un tracteur agricole en engin de travaux publics non soumis à immatriculation par adjonction d'outils de terrassement ; il devra être joint, dans ce cas, une attestation du service des mines constatant cette transformation ;
+2. Alinéa supprimé
 
 3. Immatriculation par erreur d'un véhicule non soumis à immatriculation ;
 

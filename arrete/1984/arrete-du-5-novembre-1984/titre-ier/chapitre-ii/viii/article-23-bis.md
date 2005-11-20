@@ -1,6 +1,6 @@
 # Article 23 bis
 
-I. - Lorsque leur carte grise porte la mention "véhicule de collection", les véhicules de transport de marchandises d'un P.T.A.C. supérieur à 3,5 tonnes et les véhicules de transport en commun de personnes sont dispensés de l'obligation des visites techniques périodiques. En outre, les seconds nommés sont, dans ce cas, dispensés de la carte violette prévue à l'article 85 de l'arrêté du 2 juillet 1982 modifié relatif aux transports en commun de personnes.
+I. - Lorsque leur carte grise porte la mention "véhicule de collection", les véhicules de transport de marchandises d'un P.T.A.C. supérieur à 3,5 tonnes et les véhicules de transport en commun de personnes sont dispensés de l'obligation des visites techniques périodiques. En outre, les seconds nommés sont, dans ce cas, dispensés de l'attestation d'aménagement prévue à l'article 85 de l'arrêté du 2 juillet 1982 modifié relatif aux transports en commun de personnes.
 
 Les véhicules ci-dessus ne doivent servir à aucun moment à un transport de marchandises quel qu'il soit pour les premiers nommés et à un transport de personnes (à l'exception du conducteur et d'un convoyeur) pour les seconds, sauf exceptionnellement sur le lieu même de manifestations à caractère historique ou commémoratif dans les conditions définies au paragraphe II ci-après.
 
