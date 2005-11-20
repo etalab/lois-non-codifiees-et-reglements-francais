@@ -15,6 +15,5 @@
 - [Composition des numéros d'immatriculation](composition-des-numeros-d-immatriculation)
 - [Modèle de "Déclaration de circulation d'un véhicule de collection" (trois volets)](modele-de-declaration-de-circulation-d-un-vehicule-de-collection-trois-volets)
 - [Modèle type de l'imprimé "certificat de cession d'un véhicule".](modele-type-de-l-imprime-certificat-de-cession-d-un-vehicule)
-- [Conditions de circulation en charge ou à vide des véhicules soumis aux visites techniques (Art. R. 118 et suivants du code de la route)](conditions-de-circulation-en-charge-ou-a)
 - [Modèle type de l'imprimé de "Demande de délivrance de carte(s) W" (2 volets) enregistré au CERFA sous le numéro 47-0194.](modele-type-de-l-imprime-de-demande-de-delivrance-de-carte-s-w)
 - [Modèle type de l'imprimé de "Demande de délivrance de carnet(s) WW" enregistré au CERFA sous le numéro 47-0195.](modele-type-de-l-imprime-de-demande-de-delivrance-de-carnet-s-ww)
