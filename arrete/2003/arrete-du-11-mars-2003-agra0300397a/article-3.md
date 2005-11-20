@@ -2,7 +2,7 @@
 
 Siègent en qualité de représentants de l'administration :
 
-- le directeur général de l'administration (ou son représentant), président de la commission ;
+- le chef du service des ressources humaines (ou son représentant), président de la commission ;
 
 - le sous-directeur du développement professionnel et des relations sociales (ou son représentant) ;
 
