@@ -6,10 +6,10 @@ Dans le cas où, avant paiement, les services du pari mutuel seraient avisés d'
 
 Tout paiement peut, à l'initiative des services du pari mutuel, donner lieu à un règlement par chèque barré non endossable à l'ordre du bénéficiaire.
 
-Tout gain supérieur à 5 000 euros en paris "Tiercé, "Quarté plus et "Quinté plus est exclusivement payable par chèque à l'ordre du bénéficiaire sur présentation d'une pièce d'identité.
+Tout gain supérieur à 5 000 euros en paris "Tiercé", "Quarté plus" et "Quinté plus" est exclusivement payable par chèque à l'ordre du bénéficiaire sur présentation d'une pièce d'identité.
 
 Tout paiement d'un gain par le PMU supérieur à 300 euros peut, à la demande du parieur, faire l'objet d'un règlement par chèque sur présentation d'une pièce d'identité.
 
-Toute réclamation concernant le pari mutuel urbain doit être déposée auprès du poste d'enregistrement émetteur ou éventuellement adressée au siège central du pari mutuel urbain, 83, rue La Boétie, Paris (8e). Pour être valable la réclamation doit être accompagnée du récépissé en échange duquel un reçu est délivré au parieur:
+Toute réclamation concernant le Pari mutuel urbain doit être déposée auprès du poste d'enregistrement émetteur ou éventuellement adressée au siège social du Pari mutuel urbain, 2, rue du Professeur-Florian-Delbarre, 75734 Paris Cedex 15. Pour être valable, la réclamation doit être accompagnée du récépissé, en échange duquel un reçu est délivré au parieur :
 
 Toute réclamation concernant une société de course doit être adressée au siège de la société dont l'adresse est indiquée sur le programme officiel de la réunion.
