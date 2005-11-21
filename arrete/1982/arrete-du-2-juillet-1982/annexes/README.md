@@ -8,4 +8,3 @@
 - [Article Annexe 6](article-annexe-6.md)
 - [Article Annexe 6 bis](article-annexe-6-bis.md)
 - [Article Annexe 7](article-annexe-7.md)
-- [Article Annexe 9](article-annexe-9.md)
