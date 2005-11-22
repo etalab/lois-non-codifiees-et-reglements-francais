@@ -350,7 +350,6 @@
 - [Décret n°98-370 du 13 mai 1998 (EQUH9701763D)](decret-n98-370-du-13-mai-1998-equh9701763d)
 - [Décret n°88-237 du 14 mars 1988 (INTB8800071D)](decret-n88-237-du-14-mars-1988-intb8800071d)
 - [Décret n°96-117 du 14 février 1996 (ECOT9640306D)](decret-n96-117-du-14-fevrier-1996-ecot9640306d)
-- [Décret n°96-119 du 14 février 1996 (AVIC9503471D)](decret-n96-119-du-14-fevrier-1996-avic9503471d)
 - [Décret n°96-123 du 14 février 1996 (JUSD9630004D)](decret-n96-123-du-14-fevrier-1996-jusd9630004d)
 - [Décret n°96-134 du 14 février 1996 (TASS9523407D)](decret-n96-134-du-14-fevrier-1996-tass9523407d)
 - [Décret n°96-135 du 14 février 1996 (TASS9523426D)](decret-n96-135-du-14-fevrier-1996-tass9523426d)
