@@ -1,6 +1,6 @@
 # Article 19-1
 
-Au titre d'une même année, les concours prévus au 1° de l'article 19 ci-dessus peuvent être ouverts, dans chacun des deux cadres (cadre général et cadre d'Orient), par arrêté conjoint du ministre des affaires étrangères et du ministre chargé de la fonction publique :
+Au titre d'une même année, les concours prévus au 1° de l'article 19 ci-dessus peuvent être ouverts, dans chacun des deux cadres (cadre général et cadre d'Orient), par arrêté du ministre des affaires étrangères :
 
 1° Le concours externe aux candidats âgés de trente-cinq ans au plus au 1er janvier de l'année au titre de laquelle le concours est organisé et qui :
 

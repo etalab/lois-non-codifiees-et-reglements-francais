@@ -4,7 +4,7 @@ I. - Les conseillers des affaires étrangères du cadre d'Orient sont recrutés 
 
 Le nombre de places offertes à l'un des concours ne peut être inférieur à 30 % du nombre total de places offertes aux deux concours, externe et interne.
 
-Le nombre de places offertes, par section, aux concours externe et interne est fixé par arrêté conjoint du ministre des affaires étrangères et du ministre chargé de la fonction publique.
+Le nombre de places offertes, par section, aux concours externe et interne est fixé par arrêté du ministre des affaires étrangères.
 
 II. - Le concours externe est ouvert aux candidats âgés de moins de trente ans au 1er janvier de l'année au titre de laquelle le concours est organisé et qui :
 
@@ -36,7 +36,7 @@ La liste des candidats autorisés à prendre part aux épreuves est arrêtée pa
 
 Nul ne peut concourir plus de trois fois à l'un des deux concours prévus aux II et III du présent article, ni plus de cinq fois au total à ces deux concours.
 
-Les règles d'organisation générale des concours, la nature et le programme des épreuves ainsi que la liste des sections sont fixés par arrêté conjoint du ministre des affaires étrangères et du ministre chargé de la fonction publique. Les conditions d'organisation des concours et la composition du jury sont fixées par arrêté du ministre des affaires étrangères.
+Les règles d'organisation générale des concours, la nature et le programme des épreuves ainsi que la liste des sections sont fixés par arrêté du ministre des affaires étrangères. Les conditions d'organisation des concours et la composition du jury sont fixées par arrêté du ministre des affaires étrangères.
 
 La limite d'âge supérieure prévue pour se présenter au concours externe s'entend sans préjudice de l'application des dispositions en vigueur en matière de report des âges limites.
 

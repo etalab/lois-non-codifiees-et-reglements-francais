@@ -1,6 +1,6 @@
 # Article 33-1
 
-Au titre d'une même année, les concours prévus à l'article 33 ci-dessus peuvent être ouverts par arrêté du ministre des affaires étrangères et du ministre chargé de la fonction publique :
+Au titre d'une même année, les concours prévus à l'article 33 ci-dessus peuvent être ouverts par arrêté du ministre des affaires étrangères :
 
 1° Le concours externe, aux candidats âgés de trente-cinq ans au plus au 1er janvier de l'année du concours et titulaires d'un des titres ou diplômes exigés pour se présenter au premier concours d'entrée à l'Ecole nationale d'administration ou de diplômes ou titres de niveau équivalent figurant sur une liste arrêtée par le ministre des affaires étrangères et le ministre chargé de la fonction publique, ou susceptibles d'en justifier la possession au 31 décembre de l'année du concours.
 

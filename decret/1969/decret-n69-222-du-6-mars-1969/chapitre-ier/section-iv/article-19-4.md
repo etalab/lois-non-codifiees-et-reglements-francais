@@ -1,6 +1,6 @@
 # Article 19-4
 
-Les candidats admis au titre du 1° et du 3° de l'article 19 ci-dessus sont nommés secrétaires des affaires étrangères stagiaires et accomplissent un stage d'une durée d'une année.
+Les candidats admis au titre du 1° de l'article 19 ci-dessus sont nommés secrétaires des affaires étrangères stagiaires et accomplissent un stage d'une durée d'une année.
 
 Toutefois, les candidats mentionnés au 1° de l'article 19-1 ci-dessus admis au concours ne sont nommés secrétaires des affaires étrangères stagiaires qu'à partir de la date à laquelle ils justifient de la condition de diplôme. Ceux qui ne peuvent présenter, au 31 décembre de l'année au titre de laquelle le concours est organisé, l'un des diplômes exigés perdent le bénéfice de leur admission à ce concours.
 
@@ -16,4 +16,4 @@ Les stagiaires qui n'ont pas été autorisés à effectuer un stage complémenta
 
 La durée du stage est prise en compte pour l'avancement dans la limite d'une année.
 
-Les personnels recrutés en application du 2° et du 4° de l'article 19 ci-dessus sont titularisés dès leur nomination.
+Les personnels recrutés en application du 2° et du 3° de l'article 19 ci-dessus sont titularisés dès leur nomination.

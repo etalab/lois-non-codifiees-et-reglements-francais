@@ -12,7 +12,7 @@ Les attachés des systèmes d'information et de communication qui ont présenté
 
 Le jury, qui complète son appréciation par la consultation des dossiers individuels des candidats, établit par ordre alphabétique la liste des candidats retenus. Celle-ci ne peut comporter un nombre de candidats en position d'activité dans leur corps supérieur à celui des postes à pourvoir.
 
-Les règles d'organisation de l'examen professionnel, la nature et le programme des épreuves sont fixés par arrêté conjoint du ministre des affaires étrangères et du ministre chargé de la fonction publique.
+Les règles d'organisation de l'examen professionnel, la nature et le programme des épreuves sont fixés par arrêté du ministre des affaires étrangères.
 
 Le ministre des affaires étrangères arrête les modalités d'organisation des épreuves et nomme les membres du jury.
 
