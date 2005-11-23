@@ -416,7 +416,6 @@
 - [Arrêté du 12 juin 1996 (ECOT9610277A)](arrete-du-12-juin-1996-ecot9610277a)
 - [Arrêté du 12 juin 1996 (INTA9620164A)](arrete-du-12-juin-1996-inta9620164a)
 - [Arrêté du 12 juin 1996 (TASH9620778A)](arrete-du-12-juin-1996-tash9620778a)
-- [Arrêté du 12 mars 1996 (EQUS9600380A)](arrete-du-12-mars-1996-equs9600380a)
 - [Arrêté du 12 mars 1996 (EQUT9600369A)](arrete-du-12-mars-1996-equt9600369a)
 - [Arrêté du 12 mars 1996 (MIPP9600113A)](arrete-du-12-mars-1996-mipp9600113a)
 - [Arrêté du 12 novembre 1996 (ENVN9650399A)](arrete-du-12-novembre-1996-envn9650399a)
