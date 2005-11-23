@@ -24,6 +24,6 @@ La sous-direction du soutien du personnel est chargée :
 
 - de la maison du secrétaire d'Etat aux anciens combattants ;
 
-- de leurs cabinets respectifs ;
+- de la maison du ministre délégué aux anciens combattants ;
 
 - d'assurer la surveillance administrative des cercles et restaurants autonomes de l'administration centrale relevant du secrétariat général pour l'administration.

@@ -21,5 +21,3 @@ La sous-direction de l'action logistique est chargée :
 - d'assurer ou de faire assurer le gardiennage des emprises dont le service est attributaire ;
 
 - de mettre en oeuvre les dispositions matérielles relatives à la prévention contre l'incendie de tous les immeubles qui lui sont attribués.
-
-Elle est associée, en liaison avec la sous-direction des affaires financières, à la gestion des crédits et à la préparation des marchés qui relèvent de son domaine d'attribution.

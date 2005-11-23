@@ -8,6 +8,8 @@ Le service des moyens généraux comprend :
 
 - la sous-direction des systèmes d'information d'administration et de gestion ;
 
+- la sous-direction des achats publics ;
+
 - la sous-direction du soutien du personnel ;
 
 - le centre automobile de la défense.

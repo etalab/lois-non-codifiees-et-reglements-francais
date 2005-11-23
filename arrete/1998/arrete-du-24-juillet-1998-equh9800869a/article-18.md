@@ -141,3 +141,13 @@ Les candidats qui, ayant échoué à l'examen pour l'obtention du diplôme d'off
 - soit conserver le bénéfice des seules notes attribuées aux épreuves de simulateurs de navigation et de machines pendant une durée maximale de cinq ans à compter de leurs dates d'attribution ;
 
 - soit demander l'abandon des notes susmentionnées ; dans ce dernier cas, ils feront l'objet d'une nouvelle évaluation.
+
+Les candidats qui ont obtenu une note éliminatoire à l'épreuve orale de règles de barre, feux, balisage et qui réunissent les autres conditions d'admission, à savoir :
+
+- une note moyenne au moins égale à 12 sur 20 pour l'ensemble des épreuves des trois groupes, cette note moyenne étant calculée avec la note éliminatoire obtenue à l'épreuve orale précitée ;
+
+- pas d'autre note éliminatoire ;
+
+- une note moyenne au moins égale à 10 sur 20 dans chacun des groupes II et III, le calcul de la note moyenne de ce dernier groupe incluant la note éliminatoire obtenue à l'épreuve orale précitée,
+
+sont autorisés à conserver, pendant une durée n'excédant pas un an, l'ensemble des notes qu'ils ont obtenues aux épreuves de l'examen, à l'exception de la note obtenue à l'épreuve orale de règles de barre, feux, balisage. Ils pourront à nouveau présenter cette épreuve lors d'une session ultérieure d'examen ou sur convocation du président de la commission générale des examens de la marine marchande. Ils seront déclarés admis à l'examen dès lors que la note obtenue à cette épreuve orale sera au moins égale à 10 sur 20.

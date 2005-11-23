@@ -20,6 +20,4 @@ La sous-direction des systèmes d'information d'administration et de gestion est
 
 - d'assurer le secrétariat de la commission des systèmes d'information d'administration et de gestion et de la commission des enseignements informatiques interarmées.
 
-Elle est associée, en liaison avec la sous-direction des affaires financières, à la gestion des crédits et à la préparation des marchés, dans le domaine des systèmes d'information d'administration et de gestion.
-
 Le sous-directeur des systèmes d'information est le correspondant des autres départements ministériels pour les questions relatives aux technologies de l'information et de la communication en matière de systèmes d'information d'administration et de gestion.

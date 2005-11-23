@@ -2,12 +2,10 @@
 
 La sous-direction des affaires financières comprend :
 
-- le bureau de la préparation du budget ;
+- le bureau des programmes du secrétariat général pour l'administration ;
 
-- le bureau de l'exécution du budget ;
+- le bureau de la gestion des crédits du service auquel est rattachée la régie d'avances et de recettes de l'administration centrale ;
 
-- le bureau des marchés publics ;
+- le bureau de la comptabilité des ressources ;
 
-- le bureau de l'analyse de la gestion ;
-
-- la régie d'avances et de recettes de l'administration centrale.
+- le bureau de l'analyse de la gestion.

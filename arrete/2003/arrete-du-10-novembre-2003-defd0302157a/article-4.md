@@ -12,10 +12,8 @@ La sous-direction des affaires financières est chargée :
 
 - des crédits consacrés à l'assistance aux armées étrangères séjournant sur le territoire national ;
 
-- d'élaborer et de notifier les marchés publics ;
-
 - de définir et de tenir à jour les indicateurs permettant de rendre compte de la réalisation des objectifs assignés au service et de développer les outils d'analyse permettant d'élaborer une comptabilité analytique ;
 
 - d'assurer, au profit du service, le rôle de correspondant unique des autorités de contrôle.
 
-Le sous-directeur des affaires financières dispose de la régie d'avances et de recettes.
+Le sous-directeur des affaires financières dispose de la régie d'avances et de recettes de l'administration centrale.
