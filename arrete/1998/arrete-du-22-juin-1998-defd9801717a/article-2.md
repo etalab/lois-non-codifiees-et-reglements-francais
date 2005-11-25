@@ -38,7 +38,9 @@ Il comprend :
 
 - le chef du service des moyens généraux ;
 
-- le délégué à l'information et à la communication de la défense ou leurs représentants.
+- le délégué à l'information et à la communication de la défense ou leurs représentants ;
+
+- le délégué aux restructurations.
 
 Les présidents des instances de coordination existant au sein du ministère peuvent être appelés à participer aux réunions du comité pour la réforme et l'innovation administratives.
 

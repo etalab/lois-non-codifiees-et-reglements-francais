@@ -1,0 +1,3 @@
+# Article 2
+
+Sont électeurs dans chacun des collèges mentionnés aux 2°, 4° et 5° de l'article R. 6144-2, aux 5°, 8° à 10° de l'article R. 6144-8 et au 1° de l'article R. 6144-13 ou dans chacune des catégories mentionnées aux a à c du 3° de l'article R. 6144-2, du 7° de l'article R. 6144-8 et du 2° de l'article R. 6144-13 ainsi que dans chacun des groupes de disciplines ou dans chacune des disciplines mentionnés aux 1° à 4° et au 6° de l'article R. 6144-8 du code de la santé publique, les personnels visés aux mêmes articles ainsi qu'aux articles R. 6144-5 et R. 6144-6 de ce code, appartenant au collège, à la catégorie, à la discipline ou au groupe de disciplines concerné et se trouvant en position d'activité ou de congés à la date de clôture définitive de la liste.
