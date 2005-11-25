@@ -22,8 +22,6 @@ Sont désignés comme personnes responsables des marchés, dans la limite de leu
 
 - services de contrôle des sociétés concessionnaires d'autoroutes ;
 
-- centre administratif des affaires maritimes ;
-
 - établissement de l'Ecole nationale des techniciens de l'équipement, à Aix-en-Provence ;
 
 - établissement de l'Ecole nationale des techniciens de l'équipement, à Valenciennes ;

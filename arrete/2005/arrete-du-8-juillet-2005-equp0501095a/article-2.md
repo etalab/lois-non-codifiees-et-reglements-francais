@@ -52,4 +52,6 @@ Sont désignés comme personnes responsables des marchés au sein des directions
 
 - le chef du bureau du cabinet du ministre des transports, de l'équipement, du tourisme et de la mer ;
 
-- le chef du bureau du cabinet du ministre délégué au tourisme.
+- le chef du bureau du cabinet du ministre délégué au tourisme ;
+
+- le secrétaire général au tunnel sous la Manche.
