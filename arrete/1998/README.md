@@ -248,7 +248,6 @@
 - [Arrêté du 9 avril 1998 (ECOC9800025A)](arrete-du-9-avril-1998-ecoc9800025a)
 - [Arrêté du 9 avril 1998 (ECOI9800370A)](arrete-du-9-avril-1998-ecoi9800370a)
 - [Arrêté du 9 avril 1998 (ECOT9836678A)](arrete-du-9-avril-1998-ecot9836678a)
-- [Arrêté du 9 avril 1998 (INTE9800170A)](arrete-du-9-avril-1998-inte9800170a)
 - [Arrêté du 9 avril 1998 (MESA9821523A)](arrete-du-9-avril-1998-mesa9821523a)
 - [Arrêté du 9 avril 1998 (MESS9821495A)](arrete-du-9-avril-1998-mess9821495a)
 - [Arrêté du 9 avril 1998 (MESS9821496A)](arrete-du-9-avril-1998-mess9821496a)

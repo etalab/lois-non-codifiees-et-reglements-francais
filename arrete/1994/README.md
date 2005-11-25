@@ -868,7 +868,6 @@
 - [Arrêté du 24 octobre 1994 (INDA9401239A)](arrete-du-24-octobre-1994-inda9401239a)
 - [Arrêté du 24 octobre 1994 (MENF9401337A)](arrete-du-24-octobre-1994-menf9401337a)
 - [Arrêté du 24 octobre 1994 (RESK9401527A)](arrete-du-24-octobre-1994-resk9401527a)
-- [Arrêté du 24 octobre 1994 (SPSH9403351A)](arrete-du-24-octobre-1994-spsh9403351a)
 - [Arrêté du 24 mai 1994 (SANP9401539A)](arrete-du-24-mai-1994-sanp9401539a)
 - [Arrêté du 24 mai 1994 (SPSP9401073A)](arrete-du-24-mai-1994-spsp9401073a)
 - [Arrêté du 25 août 1994 (ECOS9450025A)](arrete-du-25-aout-1994-ecos9450025a)
