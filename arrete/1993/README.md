@@ -627,8 +627,6 @@
 - [Arrêté du 20 janvier 1993 (SANP9300285A)](arrete-du-20-janvier-1993-sanp9300285a)
 - [Arrêté du 20 juillet 1993 (EQUH9301107A)](arrete-du-20-juillet-1993-equh9301107a)
 - [Arrêté du 20 juillet 1993 (EQUS9301098A)](arrete-du-20-juillet-1993-equs9301098a)
-- [Arrêté du 20 mars 1993 (SPSA9301121A)](arrete-du-20-mars-1993-spsa9301121a)
-- [Arrêté du 20 mars 1993 (SPSA9301122A)](arrete-du-20-mars-1993-spsa9301122a)
 - [Arrêté du 20 novembre 1992 (EQUS9201573A)](arrete-du-20-novembre-1992-equs9201573a)
 - [Arrêté du 20 octobre 1992 (TEFE9300028A)](arrete-du-20-octobre-1992-tefe9300028a)
 - [Arrêté du 20 octobre 1993 (AGRS9302004A)](arrete-du-20-octobre-1993-agrs9302004a)

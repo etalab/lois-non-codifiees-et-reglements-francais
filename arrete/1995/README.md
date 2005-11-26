@@ -139,7 +139,6 @@
 - [Arrêté du 4 octobre 1995 (INTD9500552A)](arrete-du-4-octobre-1995-intd9500552a)
 - [Arrêté du 4 octobre 1995 (INTD9500553A)](arrete-du-4-octobre-1995-intd9500553a)
 - [Arrêté du 4 octobre 1995 (INTD9500554A)](arrete-du-4-octobre-1995-intd9500554a)
-- [Arrêté du 4 octobre 1995 (JUSB9510312A)](arrete-du-4-octobre-1995-jusb9510312a)
 - [Arrêté du 4 octobre 1995 (MAEC9510018A)](arrete-du-4-octobre-1995-maec9510018a)
 - [Arrêté du 4 septembre 1995 (DEFP9501965A)](arrete-du-4-septembre-1995-defp9501965a)
 - [Arrêté du 4 septembre 1995 (MENL9501843A)](arrete-du-4-septembre-1995-menl9501843a)
