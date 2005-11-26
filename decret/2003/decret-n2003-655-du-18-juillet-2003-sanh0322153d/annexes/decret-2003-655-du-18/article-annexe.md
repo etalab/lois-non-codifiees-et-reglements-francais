@@ -54,13 +54,15 @@ Groupe unique
 
 Sous-groupe 1 : contremaîtres principaux, maîtres ouvriers principaux, dessinateurs chefs de groupe, chefs de garage principaux, agents techniques d'entretien principaux, dessinateurs principaux, agents techniques d'entretien, chefs de garage, contremaîtres, maîtres ouvriers.
 
-Sous-groupe 2 : conducteurs ambulanciers hors catégorie, conducteurs ambulanciers de 1re catégorie, conducteurs d'automobile hors catégorie, agents de service mortuaire et de désinfection de 1re catégorie, dessinateurs, conducteurs ambulanciers de 2e catégorie, ouvriers professionnels qualifiés, ouvriers professionnels spécialisés, conducteurs d'automobile de 1re catégorie, conducteurs d'automobile de 2e catégorie, agents de service mortuaire et de désinfection de 2e catégorie, agents d'entretien qualifiés, agents d'entretien spécialisés, agents du service intérieur hors catégorie (cadre d'extinction).
+Sous-groupe 2 : conducteurs ambulanciers hors catégorie, conducteurs ambulanciers de 1re catégorie, conducteurs d'automobile hors catégorie, agents de service mortuaire et de désinfection de 1re catégorie, dessinateurs, conducteurs ambulanciers de 2e catégorie, ouvriers professionnels qualifiés, ouvriers professionnels spécialisés, conducteurs d'automobile de 1re catégorie, conducteurs d'automobile de 2e catégorie, agents de service mortuaire et de désinfection de 2e catégorie, agents d'entretien qualifiés, agents d'entretien spécialisés, agents du service intérieur hors catégorie (cadre d'extinction), agents des services logistiques de Mayotte.
 
 CAP n° 8 : Personnels des services de soins, des services médico-techniques et des services sociaux
 
 Groupe unique
 
-Sous-groupe unique : aides-soignants de classe exceptionnelle, aides-soignants de classe supérieure, moniteurs d'atelier, aides techniques d'électroradiologie (cadre d'extinction), aides préparateurs (cadre d'extinction), aides de laboratoire de classe supérieure (cadre d'extinction), aides de pharmacie de classe supérieure, aides d'électroradiologie de classe supérieure (cadre d'extinction), aides-soignants de classe normale, aides de laboratoire de classe normale (cadre d'extinction), aides de pharmacie de classe normale, aides techniques de laboratoire (cadre d'extinction), aides d'électroradiologie de classe normale (cadre d'extinction), agents des services hospitaliers qualifiés de 1re catégorie, aides-soignants (cadre d'extinction), adjoints d'internat (cadre d'extinction), agents des services hospitaliers qualifiés de 2e catégorie, agents des services hospitaliers (cadre d'extinction).
+Sous-groupe 1 : aides-soignants de classe exceptionnelle, aides-soignants de classe supérieure, moniteurs d'atelier, aides techniques d'électroradiologie (cadre d'extinction), aides préparateurs (cadre d'extinction), aides de laboratoire de classe supérieure (cadre d'extinction), aides de pharmacie de classe supérieure, aides d'électroradiologie de classe supérieure (cadre d'extinction), aides-soignants de classe normale, aides de laboratoire de classe normale (cadre d'extinction), aides de pharmacie de classe normale, aides techniques de laboratoire (cadre d'extinction), aides d'électroradiologie de classe normale (cadre d'extinction), agents des services hospitaliers qualifiés de 1re catégorie, aides-soignants (cadre d'extinction), adjoints d'internat (cadre d'extinction), agents des services hospitaliers qualifiés de 2e catégorie, agents des services hospitaliers (cadre d'extinction).
+
+Sous-groupe 2 : agents des services hospitaliers de Mayotte.
 
 CAP n° 9 : Personnels administratifs
 
@@ -69,3 +71,5 @@ Groupe unique
 Sous-groupe 1 : adjoints administratifs hospitaliers principaux, permanenciers auxiliaires de régulation médicale-chefs, chefs de standard téléphonique principaux.
 
 Sous-groupe 2 : adjoints administratifs hospitaliers de 1re classe, chefs de standard téléphonique, permanenciers auxiliaires de régulation médicale principaux, adjoints administratifs hospitaliers de 2e classe, permanenciers auxiliaires de régulation médicale, agents administratifs principaux, standardistes principaux, agents administratifs, standardistes, agents de bureau (cadre d'extinction).
+
+Sous-groupe 3 : agents administratifs de Mayotte.

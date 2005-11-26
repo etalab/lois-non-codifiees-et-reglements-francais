@@ -1,0 +1,5 @@
+# Article 1
+
+Les agents titulaires remplissant les conditions fixées au II de l'article 64-1 de la loi du 11 juillet 2001 susvisée et en fonctions, soit au sein de l'établissement public de santé de Mayotte, soit dans les dispensaires relevant jusqu'au 1er janvier 2004 de la collectivité départementale de Mayotte et dont les activités de soins ont été intégrées dans l'établissement public de santé de Mayotte, sont intégrés dans les corps de la fonction publique hospitalière selon les modalités fixées au présent décret, et notamment à son annexe I.
+
+L'inscription sur la liste d'aptitude des agents mentionnés au précédent alinéa en vue de leur intégration dans la fonction publique hospitalière est subordonnée à la réussite à un examen professionnel dont les modalités sont fixées par arrêté du ministre chargé de la santé et à la possession des diplômes requis pour exercer dans les corps d'accueil. Les agents titulaires inscrits sur la liste d'aptitude sont intégrés au plus tard le 31 décembre 2010 après avis de la commission administrative paritaire du corps d'accueil.
