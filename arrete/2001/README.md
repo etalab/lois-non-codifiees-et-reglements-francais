@@ -195,7 +195,6 @@
 - [Arrêté du 10 avril 2001 (JUSX0104733A)](arrete-du-10-avril-2001-jusx0104733a)
 - [Arrêté du 10 janvier 2001 (AGRR0100122A)](arrete-du-10-janvier-2001-agrr0100122a)
 - [Arrêté du 10 janvier 2001 (ECOA0020016A)](arrete-du-10-janvier-2001-ecoa0020016a)
-- [Arrêté du 10 octobre 2001 (AGRP0101531A)](arrete-du-10-octobre-2001-agrp0101531a)
 - [Arrêté du 10 octobre 2001 (ECOT0120131A)](arrete-du-10-octobre-2001-ecot0120131a)
 - [Arrêté du 10 octobre 2001 (MENF0102011A)](arrete-du-10-octobre-2001-menf0102011a)
 - [Arrêté du 10 octobre 2001 (MENF0102012A)](arrete-du-10-octobre-2001-menf0102012a)
