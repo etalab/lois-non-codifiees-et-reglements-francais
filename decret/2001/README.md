@@ -426,7 +426,6 @@
 - [Décret n°2001-1116 du 27 novembre 2001 (EQUT0101650D)](decret-n2001-1116-du-27-novembre-2001-equt0101650d)
 - [Décret n°2001-1121 du 27 novembre 2001 (MESP0123910D)](decret-n2001-1121-du-27-novembre-2001-mesp0123910d)
 - [Décret n°2001-1271 du 27 décembre 2001 (DEFP010233OD)](decret-n2001-1271-du-27-decembre-2001-defp010233od)
-- [Décret n°2001-1272 du 27 décembre 2001 (EQUP0101543D)](decret-n2001-1272-du-27-decembre-2001-equp0101543d)
 - [Décret n°2001-1274 du 27 décembre 2001 (FPPA0110014D)](decret-n2001-1274-du-27-decembre-2001-fppa0110014d)
 - [Décret n°2001-1278 du 27 décembre 2001 (ECOT0120040D)](decret-n2001-1278-du-27-decembre-2001-ecot0120040d)
 - [Décret n°2001-1316 du 27 décembre 2001 (MEST0111636D)](decret-n2001-1316-du-27-decembre-2001-mest0111636d)
