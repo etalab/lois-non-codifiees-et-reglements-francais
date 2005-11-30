@@ -12,7 +12,7 @@ Le détachement d'un fonctionnaire ne peut avoir lieu que dans l'un des cas suiv
 
 b) Détachement auprès d'une entreprise publique ou d'un groupement d'intérêt public ;
 
-5° Détachement auprès d'une entreprise ou d'un organisme privé d'intérêt général ou de caractère associatif assurant des missions d'intérêt général : le nombre et la nature des emplois auxquels il est éventuellement pourvu par des fonctionnaires détachés doivent être précisés par une disposition des statuts de l'entreprise ou de l'organisme considéré, approuvée par arrêté du ministre chargé du budget, du ministre chargé de la fonction publique et du ou des ministres intéressés ; les associations ou fondations reconnues d'utilité publique sont dispensées de cette formalité ;
+5° Détachement auprès d'une entreprise ou d'un organisme privé d'intérêt général ou de caractère associatif assurant des missions d'intérêt général : le nombre et la nature des emplois auxquels il est éventuellement pourvu par des fonctionnaires détachés doivent être précisés par une disposition des statuts de l'entreprise ou de l'organisme considéré, approuvée par arrêté du ministre chargé de la fonction publique et du ou des ministres intéressés ; les associations ou fondations reconnues d'utilité publique sont dispensées de ces obligations ;
 
 6° Détachement pour dispenser un enseignement à l'étranger ;
 
