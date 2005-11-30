@@ -6,9 +6,9 @@ Lorsqu'il se livre au commerce de détail, le commerçant doit exercer son activ
 
 2° Par dérogation aux dispositions du 1° ci-dessus :
 
-a) Des manifestations commerciales au sens de l'ordonnance n° 45-2088 du 11 septembre 1945 susvisée peuvent être organisées dans les conditions prévues par cette ordonnance et ses textes d'application.
+a) Des manifestations commerciales au sens de l'article L. 740-2 du code de commerce peuvent être organisées dans les conditions prévues par cette ordonnance et ses textes d'application.
 
-b) Sans préjudice de l'application éventuelle des dispositions de la loi du 30 décembre 1906 susvisée, des ventes au détail hors d'un local fixe et permanent peuvent être autorisées à l'occasion de manifestations autres que celles définies par l'ordonnance du 11 septembre 1945 susmentionnée par le préfet du département du lieu où elle se tient.
+b) Sans préjudice de l'application éventuelle des dispositions de la loi du 30 décembre 1906 susvisée, des ventes au détail hors d'un local fixe et permanent peuvent être autorisées à l'occasion de manifestations autres que celles définies par l'article L. 740-2 du code de commerce par le préfet du département du lieu où elle se tient.
 
 Seules peuvent être autorisées à y vendre des armes et des éléments d'arme sous quelque forme que ce soit les personnes titulaires de l'autorisation ou de la déclaration visées à l'article 6 ci-dessus.
 

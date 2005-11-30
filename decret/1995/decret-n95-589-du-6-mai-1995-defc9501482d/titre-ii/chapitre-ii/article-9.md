@@ -4,7 +4,7 @@ I. - La fabrication et le commerce des matériels, armes et munitions des quatre
 
 II. - L'autorisation ne peut être accordée :
 
-a) Aux personnes qui font l'objet d'un régime de protection en application du 4e alinéa de l'article 490 du code civil, qui ont été ou se trouvent internées en application des articles L. 333 à L. 358 du code de la santé publique ou bénéficient de sorties d'essai, ainsi qu'aux alcooliques dangereux visés aux articles L. 355 et suivants du même code et aux personnes dont l'état clinique est manifestement incompatible avec la détention d'une arme. Il en est de même lorsqu'une personne exerçant, dans la société ou le groupement d'intérêt économique demandeur, une fonction de direction ou de gérance est soumise à l'un de ces régimes.
+a) Aux personnes qui font l'objet d'un régime de protection en application de l'article 490 du code civil, qui ont été ou sont hospitalisées sans leur consentement en raison de troubles mentaux en application des articles L. 3212-1 à L. 3213-9 du code de la santé publique ou bénéficient de sorties d'essai en application de l'article L. 3211-11 du même code et aux personnes dont l'état psychique est manifestement incompatible avec la détention d'une arme. Il en est de même lorsqu'une personne exerçant, dans la société ou le groupement d'intérêt économique demandeur, une fonction de direction ou de gérance est soumise à l'un de ces régimes.
 
 b) Aux entreprises qui ne satisfont pas aux conditions suivantes :
 

@@ -4,7 +4,7 @@ Sans préjudice des dispositions plus favorables résultant d'accords internatio
 
 a) Les matériels, armes, éléments d'arme, munitions ou éléments de munition importés sous les régimes douaniers du perfectionnement actif pour réparation ou de l'admission temporaire pour essais ou expériences.
 
-Ces régimes sont prévus pour les importations en provenance de pays tiers à la Communauté européenne par le règlement n° 2913-92 du Conseil du 12 octobre 1992 susvisé ; ils sont mis en oeuvre en application du code des douanes lorsqu'il s'agit d'importations de matériels de guerre.
+Ces régimes sont prévus pour les importations en provenance de pays tiers à la Communauté européenne par le règlement n° 2913-92 du Conseil du 12 octobre 1992 susvisé ; ils sont mis en oeuvre en application du code des douanes lorsqu'il s'agit d'importations de matériels de guerre ayant le statut de marchandises communautaires.
 
 b) Les éléments destinés, dans le cadre d'un accord intergouvernemental de coopération ou dans celui d'un arrangement international conclu par le ministre de la défense, aux phases de développement, mise au point, production ou entretien des matériels de guerre.
 
@@ -22,8 +22,14 @@ Cette dérogation pourra être suspendue par décision du Premier ministre publi
 
 e) Les matériels, armes, éléments d'arme, munitions ou éléments de munition réimportés par les exportateurs au bénéfice du régime douanier des retours ou en suite de régime de perfectionnement passif.
 
-Ces régimes sont prévus pour les réimportations en provenance de pays tiers à la Communauté européenne par le règlement n° 2913-92 du Conseil du 12 octobre 1992 susvisé ; ils sont mis en oeuvre en application du code des douanes lorsqu'il s'agit de réimportations de matériels de guerre.
+Ces régimes sont prévus pour les réimportations en provenance de pays tiers à la Communauté européenne par le règlement n° 2913-92 du Conseil du 12 octobre 1992 susvisé ; ils sont mis en oeuvre en application du code des douanes lorsqu'il s'agit de réimportations de matériels de guerre ayant le statut de marchandises communautaires.
 
 f) Deux armes de chasse de la 5e catégorie importées d'un pays tiers à la Communauté européenne sous le régime douanier de l'admission temporaire et cent cartouches par arme.
+
+g) Les armes de poing et les munitions dont le port est autorisé par arrêté du ministre de l'intérieur en application de l'article 58-2.
+
+h) Les matériels de guerre de 2e catégorie importés sous le régime douanier de l'admission temporaire, les véhicules ou engins chenillés devant être transportés par un autre véhicule muni de pneumatiques conformément à l'article R. 314-1 du code de la route.
+
+Ce régime est prévu pour les importations en provenance de pays tiers à la Communauté européenne par le règlement n° 2913-92 du Conseil du 12 octobre 1992 susvisé ; il est mis en oeuvre en application du code des douanes lorsqu'il s'agit d'importations de matériels de guerre ayant le statut de marchandises communautaires.
 
 Les matériels de guerre, armes, éléments d'arme, munitions ou éléments de munition, importés dans les conditions prévues à l'un des cas mentionnés au présent article sont dispensés de l'autorisation d'importation.

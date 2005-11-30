@@ -12,9 +12,9 @@ Paragraphe 2 : En ce qui concerne les armes, éléments d'arme, munitions et él
 
 1° Aux fabricants ou commerçants qui ont effectué la déclaration prévue à l'article 6 ci-dessus.
 
-2° Aux autres personnes, sur présentation des pièces prévues à l'article 23-1 du présent décret.
+2° Aux autres personnes, sur présentation des pièces prévues à l'article 46-2 du présent décret.
 
-Paragraphe 3 : En ce qui concerne les armes nommément désignées classées dans la 6e catégorie :
+Paragraphe 3 : En ce qui concerne les armes de 6e catégorie énumérées à l'article 2 ;
 
 1° Aux fabricants et commerçants qui ont effectué la déclaration prévue à l'article 6 ci-dessus.
 
@@ -22,4 +22,4 @@ Paragraphe 3 : En ce qui concerne les armes nommément désignées classées dan
 
 Paragraphe 4 : En ce qui concerne les matériels, armes, éléments d'arme et munitions visés au c du 1° de l'article 25 ci-dessus, aux administrations et services publics mentionnés audit article.
 
-L'autorisation d'importation des matériels de guerre, armes, éléments d'arme, munitions et éléments de munition importés par les services du ministère de la défense et destinés à ces services est délivrée par arrêté conjoint du ministre de la défense et du ministre chargé des douanes.
+L'autorisation d'importation des matériels de guerre, armes, éléments d'arme, munitions et éléments de munition importés par les services du ministère de la défense et destinés à ces services est délivrée dans les conditions fixées par arrêté conjoint du ministre de la défense et du ministre chargé des douanes.

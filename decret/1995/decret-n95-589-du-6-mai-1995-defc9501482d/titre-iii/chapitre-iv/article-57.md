@@ -2,9 +2,9 @@
 
 1° Le port et le transport des armes d'épaule et munitions des catégories 5, 7 et 8 sont libres.
 
-2° Sont interdits :
+2° Sont interdits, sauf dans les cas prévus aux articles 58-1 et 58-2 ;
 
-- le port des armes et munitions de 1re et 4e catégorie, des armes de poing de 7e et 8e catégorie, des armes de 6e catégorie nommément désignées ainsi que, sans motif légitime, le port des autres armes de la 6e catégorie ;
+- le port des armes et munitions de 1re et 4e catégorie, des armes de poing de 7e et 8e catégorie, des armes de 6e catégorie énumérées à l'article 2 ainsi que, sans motif légitime, le port des autres armes de la 6e catégorie ;
 
 - le transport sans motif légitime des armes et munitions de 1re et 4e catégorie, des armes de 6e catégorie et des armes de poing de 7e catégorie.
 

@@ -12,8 +12,8 @@ Les autorisations visées aux articles 26 à 33 ci-dessus sont délivrées, dans
 
 5° Pour les autorisations visées à l'article 29 ci-dessus : le préfet du département dans lequel a été enregistrée la déclaration ou délivré le livret spécial de circulation institué par l'article 2 de la loi du 3 janvier 1969 susvisée et par l'article 10 du décret du 31 juillet 1970 modifié susvisé.
 
-6° Pour les autorisations visées à l'article 30 ci-dessus et à l'article 117 ci-dessous : le préfet du département du lieu de domicile.
+6° Pour les autorisations visées aux articles 30 et 31 ci-dessus et à l'article 117 ci-dessous : le préfet du département du lieu de domicile.
 
-7° Pour les autorisations visées à l'article 32 ci-dessus : le préfet du département dans lequel se trouve situé le musée.
+7° Pour les autorisations visées à l'article 32, le préfet du département dans lequel se trouvent situés le musée, le siège de la personne morale ou de l'établissement d'enseignement ou le domicile de la personne physique. Lorsque le matériel de guerre est classé au titre des monuments historiques, la décision ne peut être prise qu'après avis du ministre chargé de la culture.
 
 8° Pour les autorisations visées à l'article 33 ci-dessus : le préfet du département dans lequel se trouvent situés le siège de l'entreprise ou ses établissements.

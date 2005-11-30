@@ -12,4 +12,6 @@ II. - Par dérogation au premier alinéa du I ci-dessus, le transfert par un par
 
 Le transfert d'armes, de munitions et de leurs éléments visés à l'article 91 ci-dessus renvoyés vers la France après exposition dans un autre Etat membre de la Communauté européenne est dispensé de l'accord préalable donné par le ministre chargé des douanes.
 
+Le transfert temporaire en France des armes de poing et des munitions, dont le port est autorisé par arrêté du ministre de l'intérieur en application de l'article 58-2, est également dispensé de cet accord préalable.
+
 III. - Le permis ou la déclaration de transfert accompagnant les biens transférés d'un autre Etat membre vers la France doit être présenté à toute réquisition des autorités habilitées.

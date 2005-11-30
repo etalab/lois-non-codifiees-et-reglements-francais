@@ -2,9 +2,9 @@
 
 Sans préjudice du retrait d'autorisation visé aux articles 15 et 44 ci-dessus, est puni de la peine d'amende prévue pour les contraventions de la 4e classe :
 
-1° Toute personne visée à l'article 49 ci-dessus, qui ne conserve pas les armes et les éléments d'arme qu'elle détient conformément aux dispositions de cet article.
+1° Toute personne visée à l'article 49 ci-dessus, qui ne conserve pas les matériels, armes et les éléments d'arme qu'elle détient conformément aux dispositions de cet article.
 
-2° Toute personne qui se livre au commerce des armes, éléments d'arme et munitions mentionnés à l'article 50 ci-dessus sans disposer d'un local fixe et permanent ou qui se livre à leur commerce de détail en dehors de ce local.
+2° Abrogé.
 
 3° Toute personne responsable d'une association sportive qui ne conserve pas les armes, les éléments d'arme et les munitions mentionnés à l'article 51 ci-dessus dans les conditions prévues par cet article.
 
