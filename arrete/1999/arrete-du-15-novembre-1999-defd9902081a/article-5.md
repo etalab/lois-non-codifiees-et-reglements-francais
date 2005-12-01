@@ -7,3 +7,7 @@ Elle est également chargée des études particulières ou de portée générale
 Elle établit les prévisions budgétaires et prépare les actes comptables relatifs aux crédits correspondant à ses attributions.
 
 Elle est chargée du suivi de l'attribution des allocations du fonds de solidarité des anciens combattants d'Indochine et d'Afrique du Nord. Elle élabore et propose à la direction des affaires juridiques les projets de mémoire à déposer devant les juridictions administratives en cette matière.
+
+Elle prépare les actes relatifs à l'exercice de la tutelle sur l'Institution nationale des invalides.
+
+Elle prépare, en liaison avec la direction de la mémoire, du patrimoine et des archives, les actes relatifs à l'exercice de la tutelle sur l'Office national des anciens combattants et victimes de guerre.
