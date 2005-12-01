@@ -1,6 +1,8 @@
 # Article 15
 
-L'exploitation d'une installation de produits explosifs au sens de l'article 1er du présent décret est subordonnée à la délivrance préalable de l'agrément technique prévu au présent chapitre.
+L'exploitation d'une installation fixe ou mobile de produits explosifs est subordonnée à la délivrance préalable d'un agrément technique.
+
+Lorsque l'installation est soumise à autorisation en application des dispositions du titre Ier du livre V du code de l'environnement, cette autorisation vaut agrément technique.
 
 Sont toutefois dispensées de l'obligation d'agrément technique :
 
@@ -10,6 +12,6 @@ b) Les installations du Commissariat à l'énergie atomique ;
 
 c) Les installations couvertes par le secret de la défense nationale et exploitées par des entreprises publiques ou privées travaillant pour la défense ;
 
-d) Les installations relatives aux munitions et éléments de munitions des armes qui sont énumérées dans le décret du 12 mars 1973 susvisé ;
+d) Les installations relatives aux munitions et éléments de munitions des armes qui sont énumérées dans le décret du 6 mai 1995 susvisé ;
 
-Les installations régulièrement exploitées à la date d'entrée en vigueur du présent décret sont dispensées de l'agrément technique prévu au présent article. Toutefois, pour les installations mobiles, cette dispense ne vaudra que jusqu'au 1er janvier 1994.
+e) Les installations de l'Etat relevant du ministre de l'intérieur.

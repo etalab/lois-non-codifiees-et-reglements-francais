@@ -2,12 +2,14 @@
 
 Pour l'application du présent décret, on entend :
 
-1. Par "produits explosifs", toutes poudres et substances explosives et tous produits ouvrés comportant, sous quelque forme que ce soit, des poudres et substances explosives ;
+I. - Par "produits explosifs", toutes poudres et substances explosives et tous produits ouvrés comportant, sous quelque forme que ce soit, des poudres et substances explosives.
 
-2. Par "installations de produits explosifs", les installations où des produits explosifs sont fabriqués, conditionnés, encartouchés, conservés, débités ou utilisés à des fins industrielles telles que découpage, formage, emboutissage, placage de métaux ;
+II. - Par "installations fixes de produits explosifs" :
 
-3. Par "dépôts de produits explosifs", les installations de conservation des produits explosifs ;
+1. Les "installations" où des produits explosifs sont fabriqués, conditionnés, encartouchés, conservés, débités, utilisés à des fins industrielles telles que découpage, formage, emboutissage, placage de métaux, ou détruits ;
 
-4. Par "débits de produits explosifs", les installations où sont vendus au détail des produits explosifs ;
+2. Les "dépôts" où des produits explosifs sont conservés ;
 
-5. Par "installations mobiles de produits explosifs", les installations de produits explosifs constituées par un véhicule ou placées sur un véhicule et conçues pour être exploitées successivement sur différents sites.
+3. Les "débits" où des produits explosifs sont vendus au détail.
+
+III. - Par "installations mobiles de produits explosifs", les installations de produits explosifs constituées par un véhicule ou placées sur un véhicule et conçues pour être exploitées successivement sur différents sites. Ces installations sont soit des dépôts mobiles, soit des installations mobiles de fabrication de produits explosifs.

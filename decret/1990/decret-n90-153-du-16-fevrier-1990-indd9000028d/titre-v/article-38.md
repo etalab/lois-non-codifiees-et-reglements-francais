@@ -1,3 +1,3 @@
 # Article 38
 
-Sera puni des peines d'amende prévues pour les contraventions de la 4e classe tout exploitant d'une installation pour laquelle un agrément technique a été accordé qui, en méconnaissance des prescriptions de l'article 20, aura omis d'informer le préfet des modifications apportées à celle-ci ou à ses conditions d'exploitation.
+Sera puni des peines d'amende prévues pour les contraventions de la 4e classe tout exploitant d'une installation fixe ou mobile pour laquelle un agrément technique a été accordé qui, en méconnaissance des prescriptions de l'article 20, aura omis d'informer le préfet des modifications apportées à celle-ci ou à ses conditions d'exploitation.

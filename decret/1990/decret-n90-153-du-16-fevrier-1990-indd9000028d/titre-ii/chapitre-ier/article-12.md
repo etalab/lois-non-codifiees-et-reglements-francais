@@ -1,3 +1,3 @@
 # Article 12
 
-Des arrêtés conjoints des ministres chargés de l'intérieur, de l'industrie et des installations classées fixent pour les mêmes installations les règles relatives à leur surveillance, à la tenue de registres d'entrée et de sortie des produits explosifs, et, dans le cas d'installations mobiles, à l'information des autorités locales.
+Les services de police ou de gendarmerie territorialement compétents sont informés par l'exploitant de la localisation et de l'exploitation des installations mobiles de produits explosifs. Un arrêté du ministre de l'intérieur fixe les règles relatives à l'information du maire de la commune intéressée.
