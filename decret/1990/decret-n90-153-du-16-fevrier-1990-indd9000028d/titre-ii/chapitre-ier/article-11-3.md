@@ -1,0 +1,3 @@
+# Article 11-3
+
+Par dérogation aux dispositions de l'article 11-1, les installations où ne sont conservés que des produits explosifs ouvrés qui, compte tenu de leur caractère détonant ou non et de la quantité de matière active qu'ils contiennent, ne présentent pas de risque d'une utilisation à des fins criminelles ou délictueuses sont soumises à des règles techniques de sûreté particulières, fixées par arrêtés conjoints des ministres chargés de l'intérieur, de l'industrie, de la défense et des installations classées. La liste de ces produits est fixée par arrêté conjoint des ministres chargés de l'intérieur, de l'industrie et de la défense.
