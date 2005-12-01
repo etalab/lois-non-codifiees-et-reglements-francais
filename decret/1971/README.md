@@ -11,7 +11,6 @@
 - [Décret n°71-821 du 4 octobre 1971](decret-n71-821-du-4-octobre-1971)
 - [Décret n°71-351 du 4 mai 1971](decret-n71-351-du-4-mai-1971)
 - [Décret n°71-23 du 6 janvier 1971](decret-n71-23-du-6-janvier-1971)
-- [Décret n°71-62 du 6 janvier 1971](decret-n71-62-du-6-janvier-1971)
 - [Décret n°73-264 du 6 mars 1973](decret-n73-264-du-6-mars-1973)
 - [Décret n°71-360 du 6 mai 1971](decret-n71-360-du-6-mai-1971)
 - [Décret n°71-361 du 6 mai 1971](decret-n71-361-du-6-mai-1971)

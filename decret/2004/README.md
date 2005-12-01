@@ -153,7 +153,6 @@
 - [Décret n°2004-687 du 6 juillet 2004 (INTX0407439D)](decret-n2004-687-du-6-juillet-2004-intx0407439d)
 - [Décret n°2004-689 du 6 juillet 2004 (AGRP0400293D)](decret-n2004-689-du-6-juillet-2004-agrp0400293d)
 - [Décret n°2004-949 du 6 septembre 2004 (SANP0422600D)](decret-n2004-949-du-6-septembre-2004-sanp0422600d)
-- [Décret n°71-61 du 6 janvier 1961](decret-n71-61-du-6-janvier-1961)
 - [Décret n°2004-395 du 6 mai 2004 (MENX0400051D)](decret-n2004-395-du-6-mai-2004-menx0400051d)
 - [Décret n°2004-396 du 6 mai 2004 (INTA0400109D)](decret-n2004-396-du-6-mai-2004-inta0400109d)
 - [Décret n°2004-398 du 6 mai 2004 (ECOT0426331D)](decret-n2004-398-du-6-mai-2004-ecot0426331d)
