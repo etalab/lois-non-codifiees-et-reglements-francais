@@ -4,7 +4,7 @@ L'enseignement de l'école comporte l'étude des connaissances générales, scie
 
 Certains enseignements sont communs à tous les élèves ; d'autres, à caractère spécialisé, correspondent à des options. Les deux catégories d'enseignement peuvent être données concomitamment.
 
-La liste des options et des enseignements spécialisés est fixée par arrêté du ministre de l'agriculture, après avis du conseil de perfectionnement. Le ministre détermine, chaque année, le nombre des ingénieurs élèves qui suivront les enseignements afférents à chaque option.
+La liste des options et des enseignements spécialisés est fixée par arrêté du ministre de l'agriculture, après avis du conseil d'administration. Le ministre détermine, chaque année, le nombre des ingénieurs élèves qui suivront les enseignements afférents à chaque option.
 
 La durée de la scolarité est au minimum de deux ans. Elle peut être discontinue et doit être fixée compte tenu de la nécessité de la formation d'ingénieurs spécialisés hautement qualifiés.
 
