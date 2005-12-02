@@ -328,6 +328,7 @@
 - [Arrêté du 16 mars 2005 (DEFD0500283A)](arrete-du-16-mars-2005-defd0500283a)
 - [Arrêté du 16 novembre 2005 (ECOP0500943A)](arrete-du-16-novembre-2005-ecop0500943a)
 - [Arrêté du 16 novembre 2005 (EQUA0501569A)](arrete-du-16-novembre-2005-equa0501569a)
+- [Arrêté du 16 novembre 2005 (INTC0500798A)](arrete-du-16-novembre-2005-intc0500798a)
 - [Arrêté du 16 novembre 2005 (SOCA0524138A)](arrete-du-16-novembre-2005-soca0524138a)
 - [Arrêté du 16 septembre 2005 (AGRP0502169A)](arrete-du-16-septembre-2005-agrp0502169a)
 - [Arrêté du 16 septembre 2005 (BUDF0520323A)](arrete-du-16-septembre-2005-budf0520323a)

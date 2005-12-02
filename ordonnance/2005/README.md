@@ -4,6 +4,8 @@
 - [Ordonnance n° 2005-1087 du 1 septembre 2005 (SANX0500159R)](ordonnance-n-2005-1087-du-1-septembre-2005-sanx0500159r)
 - [Ordonnance n° 2005-1091 du 1 septembre 2005 (PMEX0500155R)](ordonnance-n-2005-1091-du-1-septembre-2005-pmex0500155r)
 - [Ordonnance n° 2005-1092 du 1 septembre 2005 (MJSX0500174R)](ordonnance-n-2005-1092-du-1-septembre-2005-mjsx0500174r)
+- [Ordonnance n° 2005-1477 du 1 décembre 2005 (SOCX0500228R)](ordonnance-n-2005-1477-du-1-decembre-2005-socx0500228r)
+- [Ordonnance n° 2005-1478 du 1 décembre 2005 (SOCX0500277R)](ordonnance-n-2005-1478-du-1-decembre-2005-socx0500277r)
 - [Ordonnance n°2005-1112 du 1 septembre 2005 (SANX0500185R)](ordonnance-n2005-1112-du-1-septembre-2005-sanx0500185r)
 - [Ordonnance n° 2005-883 du 2 août 2005 (DEFX0500191R)](ordonnance-n-2005-883-du-2-aout-2005-defx0500191r)
 - [Ordonnance n° 2005-893 du 2 août 2005 (SOCX0500188R)](ordonnance-n-2005-893-du-2-aout-2005-socx0500188r)
