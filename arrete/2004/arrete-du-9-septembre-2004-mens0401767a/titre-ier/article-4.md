@@ -1,10 +1,6 @@
 # Article 4
 
-Pour être autorisés à s'inscrire au deuxième concours, les candidats doivent :
-
-Etre âgés de moins de vingt-six ans au 1er janvier de l'année du concours ;
-
-Justifier de l'un des titres ou diplômes suivants :
+Pour être autorisés à s'inscrire au deuxième concours, les candidats doivent justifier de l'un des titres ou diplômes suivants :
 
 - maîtrise ou diplôme correspondant à 240 unités ECTS (European Credit Transfer System) ;
 
