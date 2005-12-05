@@ -506,6 +506,7 @@
 - [Arrêté du 23 août 2005 (DEVP0540337A)](arrete-du-23-aout-2005-devp0540337a)
 - [Arrêté du 23 décembre 2004 (SANS0424368A)](arrete-du-23-decembre-2004-sans0424368a)
 - [Arrêté du 23 juin 2005 (SANP0522175A)](arrete-du-23-juin-2005-sanp0522175a)
+- [Arrêté du 23 novembre 2005 (DEVP0540446A)](arrete-du-23-novembre-2005-devp0540446a)
 - [Arrêté du 23 novembre 2005 (ECOP0500896A)](arrete-du-23-novembre-2005-ecop0500896a)
 - [Arrêté du 23 septembre 2005 (BUDR0501321A)](arrete-du-23-septembre-2005-budr0501321a)
 - [Arrêté du 23 septembre 2005 (DEFP0501321A)](arrete-du-23-septembre-2005-defp0501321a)
