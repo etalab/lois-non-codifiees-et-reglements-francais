@@ -24,7 +24,6 @@
 - [Décret n°87-234 du 3 avril 1987 (ASET8703255D)](decret-n87-234-du-3-avril-1987-aset8703255d)
 - [Décret n°87-247 du 3 avril 1987 (MAEJ8730016D)](decret-n87-247-du-3-avril-1987-maej8730016d)
 - [Décret n°87-248 du 3 avril 1987](decret-n87-248-du-3-avril-1987)
-- [Décret n°87-496 du 3 juillet 1987 (MENF8700319D)](decret-n87-496-du-3-juillet-1987-menf8700319d)
 - [Décret n°87-60 du 3 février 1987 (PTTT8700082D)](decret-n87-60-du-3-fevrier-1987-pttt8700082d)
 - [Décret n°87-613 du 3 août 1987 (ECOX8700018D)](decret-n87-613-du-3-aout-1987-ecox8700018d)
 - [Décret n°87-614 du 3 août 1987 (JUSB8710277D)](decret-n87-614-du-3-aout-1987-jusb8710277d)
