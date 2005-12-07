@@ -5,5 +5,4 @@
 - [Chapitre 3 : Dispositions financières et comptables.](chapitre-3)
 - [Chapitre 4 : Procédures applicables devant la Haute Autorité de lutte contre les discriminations et pour l'égalité](chapitre-4)
 - [Chapitre 5 : Dispositions diverses.](chapitre-5)
-- [Chapitre 6 : Dispositions transitoires.](chapitre-6)
-- [Article 35](article-35.md)
+- [Article 40](article-40.md)
