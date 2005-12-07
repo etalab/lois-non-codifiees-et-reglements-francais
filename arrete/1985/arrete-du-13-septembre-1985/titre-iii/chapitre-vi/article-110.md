@@ -2,7 +2,7 @@
 
 Modalités d'enregistrement des paris.
 
-Après s'être connecté sur le site internet, le parieur doit s'authentifier, préalablement à toutes opérations sur son compte courant, selon les procédures indiquées sur son écran de réception.
+Après s'être connecté sur le site de prise de paris du Pari mutuel urbain, le parieur doit s'authentifier, préalablement à toutes opérations sur son compte courant, selon les procédures indiquées sur son écran de réception.
 
 Le parieur ne peut engager de paris sur son compte courant que dans la seule limite de son solde créditeur comptable et pour autant que celui-ci soit au moins égal au plus faible minimum d'enjeu fixé pour les divers types de paris. En particulier, le pari mutuel urbain ne peut en aucune manière être tenu pour responsable des paris qui n'auraient pu être engagés par suite d'un désaccord sur ce solde créditeur.
 

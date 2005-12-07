@@ -6,9 +6,11 @@ Les enjeux sont réglés en espèces et au comptant ou par débit d'un compte. D
 
 Les enjeux peuvent également être réglés par carte bancaire dans les postes d'enregistrement visés aux articles 97 et 98 du présent arrêté et habilités par le Pari mutuel urbain à accepter ce mode de règlement.
 
-Les montants des paiements autorisés, compris entre un minimum de 15 Euro et un maximum de 760 Euro, des enjeux par carte bancaire sont portés à la connaissance du public dans chaque établissement.
+Les montants des paiements autorisés, compris entre un minimum de 15 euros et un maximum de 760 euros, des enjeux par carte bancaire sont portés à la connaissance du public dans chaque établissement.
 
-Les paris enregistrés au pari mutuel urbain, par téléphone, par serveur vocal interactif, par Minitel et par terminal numérique, ne donnent pas lieu à la remise d'un récépissé.
+Tout pari dont le montant est supérieur à un seuil porté à la connaissance des parieurs ne peut être engagé qu'en compte courant, selon les dispositions des articles 100 à 107 et 109 à 111, aux guichets des hippodromes connectés au système central du Pari mutuel urbain fonctionnant en temps réel ou dans les agences du Pari mutuel urbain.
+
+Les paris enregistrés au Pari mutuel urbain par téléphone, par Minitel, par terminal numérique et par terminal mobile ainsi que par l'internet ne donnent pas lieu à la remise d'un récépissé.
 
 En règle générale, tout bordereau spécial incorrectement établi ou qui donne lieu à une ambiguïté d'interprétation sur l'une quelconque des informations qui le composent est exécuté d'une manière telle que le parieur ne puisse tirer avantage de son erreur au détriment de l'ensemble des autres parieurs.
 
