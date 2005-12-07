@@ -105,6 +105,7 @@
 - [Décret n°2005-949 du 2 août 2005 (SANP0522454D)](decret-n2005-949-du-2-aout-2005-sanp0522454d)
 - [Décret n°2005-950 du 2 août 2005 (SANS0522238D)](decret-n2005-950-du-2-aout-2005-sans0522238d)
 - [Décret n°2005-951 du 2 août 2005 (DEVO0530014D)](decret-n2005-951-du-2-aout-2005-devo0530014d)
+- [Décret n°96-292 du 2 avril 1996 (JUSC9620100D)](decret-n96-292-du-2-avril-1996-jusc9620100d)
 - [Décret n°99-555 du 2 juillet 1999 (AGRA9900465D)](decret-n99-555-du-2-juillet-1999-agra9900465d)
 - [Décret n°2005-417 du 2 mai 2005 (SANS0520538D)](decret-n2005-417-du-2-mai-2005-sans0520538d)
 - [Décret n°2005-441 du 2 mai 2005 (INTB0500101D)](decret-n2005-441-du-2-mai-2005-intb0500101d)
