@@ -6,6 +6,6 @@ Les dépenses de l'établissement comprennent :
 
 2. Les frais d'équipement et de fonctionnement ;
 
-3. L'achat d'oeuvres et objets d'art destinés aux collections ;
+3. Les achats de biens culturels mentionnés à l'article 2-1 ;
 
 4. De façon générale, toutes dépenses nécessaires à l'accomplissement par l'établissement de ses missions.

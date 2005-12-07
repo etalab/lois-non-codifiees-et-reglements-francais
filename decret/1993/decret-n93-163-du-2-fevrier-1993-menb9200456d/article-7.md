@@ -10,20 +10,24 @@ Le conseil d'administration règle les affaires du musée sous réserve des disp
 
 4° Les acquisitions, ventes et échanges d'immeubles ;
 
-5° Les acquisitions d'oeuvres d'art destinées aux collections ;
+5° Les acquisitions de biens culturels destinés à prendre place dans les collections du musée. Il peut, dans les conditions qu'il détermine, notamment en cas d'extrême urgence, déléguer cette attribution au directeur. Le conseil d'administration est, dans ce cas, informé lors de sa séance suivante des acquisitions décidées ;
 
 6° Les emprunts ;
 
-7° Les dons et legs ;
+7° Les dons et legs autres que ceux consistant en biens culturels destinés à prendre place dans les collections du musée. Il peut, dans les conditions qu'il détermine, déléguer ces attributions au directeur ;
 
 8° Le montant des droits d'entrée et le tarif des prestations ou objets commercialisés par le musée ;
 
-9° Les actions en justice et les transactions ;
+9° Les actions en justice et les transactions. Il peut, dans les conditions qu'il détermine, déléguer ces attributions au président ;
 
 10° Le rapport annuel d'activité ;
 
 11° Les conventions, les projets de création de filiales, de prises, extensions et cessions de participations prévues au troisième alinéa de l'article 2 du présent décret ;
 
-12° Toutes les questions pour lesquelles son intervention est requise par les lois et règlements.
+12° Toutes les questions pour lesquelles son intervention est requise par les lois et règlements ;
+
+13° Il approuve les concessions, les autorisations d'occupation et d'exploitation de son domaine et les autres délégations de service public ;
+
+14° Il détermine les catégories de contrats et de conventions qui, en raison de leur nature ou du montant financier engagé, doivent lui être soumis pour approbation et celles dont il délègue la responsabilité au directeur.
 
 Il arrête son règlement intérieur.

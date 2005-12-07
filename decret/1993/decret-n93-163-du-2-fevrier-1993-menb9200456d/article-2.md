@@ -12,7 +12,7 @@ A cette fin :
 
 4. Il exécute ou fait exécuter tous travaux d'aménagement ou d'extension des locaux du siège du musée ou de son annexe ;
 
-5. Il procède à des éditions originales de bronze numérotées tirées à partir de plâtres figurant dans les collections ;
+5. Il procède ou fait procéder, sous son contrôle, à des éditions originales de bronzes tirées à partir des moules et des modèles en plâtre figurant dans les collections. Ces éditions sont limitées à douze, numérotées de 1/8 à 8/8 et de I/IV à IV/IV, y compris les éditions originales existantes ;
 
 6. Il édite et commercialise des reproductions d'oeuvres de Rodin, des publications et des produits audiovisuels.
 

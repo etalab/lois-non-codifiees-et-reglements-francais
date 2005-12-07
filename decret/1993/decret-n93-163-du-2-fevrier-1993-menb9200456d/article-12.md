@@ -1,6 +1,6 @@
 # Article 12
 
-Les ressources de l'établissement comprennent :
+Les recettes de l'établissement public comprennent notamment :
 
 1. Le produit du droit d'entrée et des visites conférences ;
 
@@ -14,4 +14,4 @@ Les ressources de l'établissement comprennent :
 
 6. Les produits d'emprunt ;
 
-7. Toutes autres ressources autorisées par la loi.
+7. Le produit des concessions et des occupations du domaine dont il est doté.
