@@ -14,7 +14,6 @@
 - [Décret n°2001-577 du 2 juillet 2001 (MENF0101266D)](decret-n2001-577-du-2-juillet-2001-menf0101266d)
 - [Décret n°2001-900 du 2 octobre 2001 (MESA0123182D)](decret-n2001-900-du-2-octobre-2001-mesa0123182d)
 - [Décret n°89-403 du 2 juin 1989 (PRMX8900068D)](decret-n89-403-du-2-juin-1989-prmx8900068d)
-- [Décret n°96-292 du 2 avril 1996 (JUSC9620100D)](decret-n96-292-du-2-avril-1996-jusc9620100d)
 - [Décret n°2001-400 du 2 mai 2001 (MENS0100778D)](decret-n2001-400-du-2-mai-2001-mens0100778d)
 - [Décret n°2001-1139 du 3 décembre 2001 (ECOC0100102D)](decret-n2001-1139-du-3-decembre-2001-ecoc0100102d)
 - [Décret n°2001-1140 du 3 décembre 2001 (ECOC0100103D)](decret-n2001-1140-du-3-decembre-2001-ecoc0100103d)

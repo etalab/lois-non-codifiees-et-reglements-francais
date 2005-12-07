@@ -457,7 +457,6 @@
 - [Arrêté du 16 mars 1993](arrete-du-16-mars-1993)
 - [Arrêté du 16 mars 1993 (AGRR9300467A)](arrete-du-16-mars-1993-agrr9300467a)
 - [Arrêté du 16 mars 1993 (AGRS9300476A)](arrete-du-16-mars-1993-agrs9300476a)
-- [Arrêté du 16 mars 1993 (ENVN9320141A)](arrete-du-16-mars-1993-envn9320141a)
 - [Arrêté du 16 mars 1993 (INDD9300026A)](arrete-du-16-mars-1993-indd9300026a)
 - [Arrêté du 16 mars 1993 (INTD9300215A)](arrete-du-16-mars-1993-intd9300215a)
 - [Arrêté du 16 mars 1993 (JUSB9310072A)](arrete-du-16-mars-1993-jusb9310072a)
