@@ -62,7 +62,7 @@ Institut de formation des musiciens intervenant en milieu scolaire.
 
 Lyon-I :
 
-Instituts techniques de réadaptation.
+Institut des sciences et techniques de la réadaptation.
 
 Institut des sciences pharmaceutiques et biologiques.
 
