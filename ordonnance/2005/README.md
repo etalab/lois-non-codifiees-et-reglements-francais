@@ -25,6 +25,7 @@
 - [Ordonnance n° 2005-429 du 6 mai 2005 (ECOX0400249R)](ordonnance-n-2005-429-du-6-mai-2005-ecox0400249r)
 - [Ordonnance n° 2005-432 du 6 mai 2005 (DOMX0400255R)](ordonnance-n-2005-432-du-6-mai-2005-domx0400255r)
 - [Ordonnance n° 2005-1263 du 7 septembre 2005 (DOMX0500062R)](ordonnance-n-2005-1263-du-7-septembre-2005-domx0500062r)
+- [Ordonnance n° 2005-1512 du 7 décembre 2005 (ECOX0500272R)](ordonnance-n-2005-1512-du-7-decembre-2005-ecox0500272r)
 - [Ordonnance n° 2005-1126 du 8 septembre 2005 (JUSX0500158R)](ordonnance-n-2005-1126-du-8-septembre-2005-jusx0500158r)
 - [Ordonnance n° 2005-1127 du 8 septembre 2005 (AGRX0500177R)](ordonnance-n-2005-1127-du-8-septembre-2005-agrx0500177r)
 - [Ordonnance n° 2005-1128 du 8 septembre 2005 (MCCX0500149R)](ordonnance-n-2005-1128-du-8-septembre-2005-mccx0500149r)

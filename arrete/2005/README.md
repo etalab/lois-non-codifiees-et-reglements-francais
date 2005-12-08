@@ -121,6 +121,8 @@
 - [Arrêté du 7 avril 2005 (DEFK0500490A)](arrete-du-7-avril-2005-defk0500490a)
 - [Arrêté du 7 avril 2005 (EQUA0500106A)](arrete-du-7-avril-2005-equa0500106a)
 - [Arrêté du 7 avril 2005 (SANP0521352A)](arrete-du-7-avril-2005-sanp0521352a)
+- [Arrêté du 7 décembre 2005 (SOCU0512086A)](arrete-du-7-decembre-2005-socu0512086a)
+- [Arrêté du 7 décembre 2005 (SOCU0512087A)](arrete-du-7-decembre-2005-socu0512087a)
 - [Arrêté du 7 février 2005 (DEVO0430401A)](arrete-du-7-fevrier-2005-devo0430401a)
 - [Arrêté du 7 février 2005 (DEVP0540077A)](arrete-du-7-fevrier-2005-devp0540077a)
 - [Arrêté du 7 février 2005 (DEVP0540078A)](arrete-du-7-fevrier-2005-devp0540078a)

@@ -42,16 +42,16 @@ II. - En application de l'article R. 351-22-1, les plafonds de loyers visés à 
 <p align="center">I</p>
 </td>
 <td width="119">
-<p align="center">251,16</p>
+<p align="center">255,68</p>
 </td>
 <td width="159">
-<p align="center">302,92</p>
+<p align="center">308,37</p>
 </td>
 <td width="172">
-<p align="center">342,36</p>
+<p align="center">348,52</p>
 </td>
 <td width="166">
-<p align="center">49,65</p>
+<p align="center">50,54</p>
 </td>
 </tr>
 <tr>
@@ -59,16 +59,16 @@ II. - En application de l'article R. 351-22-1, les plafonds de loyers visés à 
 <p align="center">II</p>
 </td>
 <td width="119">
-<p align="center">218,89</p>
+<p align="center">222,83</p>
 </td>
 <td width="159">
-<p align="center">267,92</p>
+<p align="center">272,74</p>
 </td>
 <td width="172">
-<p align="center">301,48</p>
+<p align="center">306,91</p>
 </td>
 <td width="166">
-<p align="center">43,87</p>
+<p align="center">44,66</p>
 </td>
 </tr>
 <tr>
@@ -76,16 +76,16 @@ II. - En application de l'article R. 351-22-1, les plafonds de loyers visés à 
 <p align="center">III</p>
 </td>
 <td width="119">
-<p align="center">205,15</p>
+<p align="center">208,84</p>
 </td>
 <td width="159">
-<p align="center">248,71</p>
+<p align="center">253,19</p>
 </td>
 <td width="172">
-<p align="center">278,85</p>
+<p align="center">283,87</p>
 </td>
 <td width="166">
-<p align="center">39,97</p>
+<p align="center">40,69</p>
 </td>
 </tr>
 </tbody>
