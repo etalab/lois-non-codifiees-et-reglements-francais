@@ -361,6 +361,7 @@
 - [Décret n°2005-989 du 10 août 2005 (DEVP0530033D)](decret-n2005-989-du-10-aout-2005-devp0530033d)
 - [Décret n°2006-144 du 10 février 2006 (DEFP0600067D)](decret-n2006-144-du-10-fevrier-2006-defp0600067d)
 - [Décret n°78-280 du 10 mars 1978](decret-n78-280-du-10-mars-1978)
+- [Décret n°92-980 du 10 septembre 1992 (MENF9203237D)](decret-n92-980-du-10-septembre-1992-menf9203237d)
 - [Décret n°2005-443 du 10 mai 2005 (SANP0521439D)](decret-n2005-443-du-10-mai-2005-sanp0521439d)
 - [Décret n°2005-444 du 10 mai 2005 (SANH0521621D)](decret-n2005-444-du-10-mai-2005-sanh0521621d)
 - [Décret n°2005-449 du 10 mai 2005 (FPPA0500030D)](decret-n2005-449-du-10-mai-2005-fppa0500030d)
