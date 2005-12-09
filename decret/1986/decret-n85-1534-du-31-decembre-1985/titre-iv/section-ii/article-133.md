@@ -4,7 +4,7 @@ Les candidats reçus aux concours externes d'accès aux corps régis par le pré
 
 Sont également astreints à un stage d'un an les candidats admis au concours prévus au 3° des articles 26 et 35, les candidats admis aux concours d'accès au corps des chargés d'administration ouverts, en application du 1° de l'article 78, aux fonctionnaires appartenant à un corps de catégorie A, ainsi que les candidats admis aux concours internes de recrutement d'attachés d'administration.
 
-Toutefois, les candidats au concours d'agent d'administration ou recrutés comme agents des services techniques, qui étaient précédemment, depuis un an au moins, fonctionnaires ou agents de l'Etat, des collectivités territoriales et des établissements publics qui en dépendent sont titularisés dès leur nomination. En outre, si l'application des dispositions des articles 5 et 6 du décret n° 70-79 du 27 janvier 1970 leur est moins favorable, ils conservent dans la limite de deux années l'ancienneté de services qu'ils ont acquise en cette qualité.
+Toutefois, les candidats au concours d'agent d'administration ou recrutés comme agents des services techniques, qui étaient précédemment, depuis un an au moins, fonctionnaires ou agents de l'Etat, des collectivités territoriales et des établissements publics qui en dépendent sont titularisés dès leur nomination. En outre, si l'application des dispositions des articles 3, 4 et du I du 5 du décret du 29 septembre 2005 susmentionné leur est moins favorable, ils conservent dans la limite de deux années l'ancienneté de services qu'ils ont acquise en cette qualité.
 
 Le stage fait l'objet d'un rapport établi par le président, le directeur ou le responsable de l'établissement d'affectation.
 
@@ -14,4 +14,4 @@ Ceux qui n'ont pas obtenu l'autorisation de recommencer le stage ou ceux qui n'o
 
 La durée du stage ne peut être prise en compte dans l'ancienneté pour l'avancement qu'à concurrence d'une durée d'un an.
 
-Sous réserve des dispositions de l'article 87 ci-dessus, les stagiaires sont rémunérés, pendant la durée de leur stage, par référence à un échelon du grade de début du corps dans lequel ils ont été nommés comme stagiaire, déterminé en application des dispositions prévues par le présent décret pour le classement dans le corps correspondant.
+Sous réserve des dispositions de l'article 87 ci-dessus et de l'article 7 du décret du 29 septembre 2005 susmentionné, les stagiaires sont rémunérés, pendant la durée de leur stage, par référence à un échelon du grade de début du corps dans lequel ils ont été nommés comme stagiaire, déterminé en application des dispositions prévues par le présent décret pour le classement dans le corps correspondant.
