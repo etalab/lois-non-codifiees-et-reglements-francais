@@ -6,4 +6,4 @@ Peuvent être promus au grade d'adjoint technique principal les adjoints techniq
 
 Les délibérations de la commission administrative paritaire peuvent être précédées de la consultation d'experts, prévue à l'article 235 du titre V. Les experts peuvent assister aux débats de la commission administrative paritaire dans les conditions fixées à l'article 31 du décret du 28 mai 1982 susvisé.
 
-Pour pouvoir être inscrits à ce tableau d'avancement, les adjoints techniques doivent avoir atteint au moins le sixième échelon de leur grade et justifier d'au moins onze années de services effectifs dans un corps de catégorie C ou D dont au moins trois années en qualité d'adjoint technique.
+Pour pouvoir être inscrits à ce tableau d'avancement, les adjoints techniques doivent avoir atteint au moins le cinquième échelon de leur grade et justifier d'au moins dix années de services effectifs dans un corps de catégorie C ou D dont au moins trois années en qualité d'adjoint technique.
