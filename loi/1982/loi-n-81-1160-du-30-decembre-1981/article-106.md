@@ -12,7 +12,7 @@ soit à l'occasion d'actions de restructuration du commerce et de l'artisanat co
 
 Le commerçant ou l'artisan qui est atteint d'une incapacité le rendant définitivement inapte à poursuivre son activité est dispensé de la condition d'âge prévue au premier alinéa.
 
-L'Etat confie la gestion de cette aide aux caisses d'assurance vieillesse des artisans et commerçants.
+L'Etat confie la gestion de cette aide à la Caisse nationale du régime social des indépendants.
 
 L'aide n'est ni cessible ni imposable. Son bénéficiaire peut continuer à cotiser aux régimes précités.
 
