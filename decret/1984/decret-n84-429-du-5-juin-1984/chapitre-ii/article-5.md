@@ -10,8 +10,8 @@ Le conseil d'administration du Centre de coopération internationale en recherch
 
 Le président du conseil d'administration est nommé parmi ses membres par décret en conseil des ministres sur proposition du conseil d'administration et sur le rapport du ministre chargé de la recherche et du ministre chargé de la coopération et du développement.
 
-La durée des fonctions de membre du conseil d'administration est de cinq ans. La présidence de la séance suivant la mise en place et le renouvellement du conseil est assurée par le plus âgé des membres.  Le mandat des membres du conseil d'administration est exercé à titre gratuit.
+La durée des fonctions de membre du conseil d'administration est de cinq ans. La présidence de la séance suivant la mise en place et le renouvellement du conseil est assurée par le plus âgé des membres. Le mandat des membres du conseil d'administration est exercé à titre gratuit. Toutefois, une indemnité de fonction, dont le montant est fixé par décision conjointe du ministre chargé de l'économie et des finances, du ministre chargé de la recherche et du ministre chargé de la coopération et du développement, peut être attribuée au président du conseil d'administration.
 
-Le directeur général, le secrétaire général et le contrôleur d'Etat assistent aux séances du conseil d'administration avec voix consultative. Le président peut appeler à participer aux séances, avec voix consultative, toute personne dont il juge la présence utile.
+Le directeur général, le secrétaire général et le   membre du corps du contrôle général économique et financier assistent aux séances du conseil d'administration avec voix consultative. Le président peut appeler à participer aux séances, avec voix consultative, toute personne dont il juge la présence utile.
 
 Les administrateurs décédés, démissionnaires ou qui n'exercent plus les fonctions au titre desquelles ils avaient été nommés ou élus doivent être remplacés. Dans ce cas le mandat des nouveaux membres expire à la date à laquelle aurait normalement pris fin celui de leur prédécesseur.

@@ -30,8 +30,12 @@ Il délibère sur :
 
 13° L'acceptation ou le refus des dons et legs ;
 
-14° Les acquisitions et aliénations d'immeubles.
+14° Les acquisitions et aliénations d'immeubles ;
 
-En ce qui concerne les points 8° et 14° ci-dessus, le conseil d'administration peut déléguer une partie de ses pouvoirs au directeur général.
+15° Les actions en justice et les transactions ;
 
-En ce qui concerne les décisions modificatives de l'état annuel des prévisions de recettes et de dépenses, prévues au 3°, sont seules soumises au conseil celles qui comportent soit une augmentation du montant total des dépenses, soit des virements de crédits entre la section des opérations en capital et la section de fonctionnement ou entre les chapitres de matériel et les chapitres de personnel. Les autres décisions modificatives sont prises par le président du conseil d'administration en accord avec le contrôleur d'Etat. Elles sont exécutoires et doivent être portées à la connaissance du conseil d'administration dans le délai de six mois.
+16° Le recours à l'arbitrage en cas de litiges nés de l'exécution de contrats passés avec des organismes étrangers.
+
+Dans les limites qu'il détermine, le conseil d'administration peut déléguer au directeur général les attributions prévues aux 8°, 9°, 14°, 15° et 16°. Le directeur général rend compte, lors de la plus prochaine séance, des décisions qu'il a prises en vertu de ces délégations.
+
+En ce qui concerne les décisions modificatives de l'état annuel des prévisions de recettes et de dépenses, prévues au 3°, sont seules soumises au conseil celles qui comportent soit une augmentation du montant total des dépenses, soit des virements de crédits entre la section des opérations en capital et la section de fonctionnement ou entre les chapitres de matériel et les chapitres de personnel. Les autres décisions modificatives sont prises par le président du conseil d'administration en accord avec le membre du corps du contrôle général économique et financier. Elles sont exécutoires et doivent être portées à la connaissance du conseil d'administration dans le délai de six mois.
