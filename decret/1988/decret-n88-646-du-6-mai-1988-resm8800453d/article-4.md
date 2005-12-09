@@ -4,12 +4,8 @@ Les corps des magasiniers en chef et des magasiniers spécialisés sont classés
 
 Les membres de ces corps sont régis par les dispositions du décret du 27 janvier 1970 susvisé et par celles du présent décret.
 
-Le corps des magasiniers en chef comporte le grade de magasinier en chef et le grade de magasinier en chef principal. Le nombre des emplois de magasinier en chef principal ne peut excéder 15 p. 100 de l'effectif total du corps des magasiniers en chef.
+Le corps des magasiniers en chef comporte le grade de magasinier en chef et le grade de magasinier en chef principal.
 
-Le corps des magasiniers spécialisés comporte [*composition*] trois grades :
+Le corps des magasiniers spécialisés comporte le grade de magasinier spécialisé de classe normale et le grade de magasinier spécialisé hors classe.
 
-Magasinier spécialisé hors classe ;
-
-Magasinier spécialisé de 1re classe ;
-
-Magasinier spécialisé de 2e classe.
+Le nombre maximum de magasiniers en chef pouvant être promus au grade de magasinier en chef principal et le nombre maximum de magasiniers spécialisés de classe normale pouvant être promus au grade de magasinier spécialisé hors classe sont déterminés en application du décret n° 2005-1090 du 1er septembre 2005 relatif à l'avancement de grade dans les corps des administrations de l'Etat.
