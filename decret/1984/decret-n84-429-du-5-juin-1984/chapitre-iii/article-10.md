@@ -12,4 +12,4 @@ c) Il est l'ordonnateur principal des recettes et des dépenses; il peut nommer 
 
 d) Il recrute, gère et licencie le personnel ;
 
-e) Il agit en justice sous réserve des autorisations nécessaires, il passe tous actes, contrats ou marchés, et notamment les contrats internationaux. Il procède à toutes acquisitions, tous dépôts ou cessions de brevets ou licences.
+e) Il passe tous actes, contrats ou marchés, et notamment les contrats avec des partenaires étrangers. Il procède à toutes acquisitions, tous dépôts ou cessions de brevets ou licences.

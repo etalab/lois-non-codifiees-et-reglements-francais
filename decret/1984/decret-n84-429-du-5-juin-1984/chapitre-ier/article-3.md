@@ -8,6 +8,6 @@ b) D'apporter son concours, à la demande de gouvernements étrangers, aux insti
 
 c) D'assurer l'information scientifique et technique des milieux scientifiques, économiques et culturels concernés ;
 
-d) De participer à la fonction de Français et d'étrangers, à la recherche et par la recherche ;
+d) De participer à la formation de Français et d'étrangers, à la recherche et par la recherche ;
 
 e) De contribuer à l'élaboration de la politique nationale dans les domaines de sa compétence, notamment par l'analyse de la conjoncture scientifique internationale.
