@@ -635,6 +635,7 @@
 - [Arrêté du 28 novembre 2005 (AGRP0502531A)](arrete-du-28-novembre-2005-agrp0502531a)
 - [Arrêté du 28 novembre 2005 (AGRP0502534A)](arrete-du-28-novembre-2005-agrp0502534a)
 - [Arrêté du 28 novembre 2005 (AGRP0502535A)](arrete-du-28-novembre-2005-agrp0502535a)
+- [Arrêté du 28 novembre 2005 (SOCF0512126A)](arrete-du-28-novembre-2005-socf0512126a)
 - [Arrêté du 28 octobre 2005 (AGRM0502428A)](arrete-du-28-octobre-2005-agrm0502428a)
 - [Arrêté du 28 septembre 2005 (BUDR0507076A)](arrete-du-28-septembre-2005-budr0507076a)
 - [Arrêté du 28 septembre 2005 (DEFD0501136A)](arrete-du-28-septembre-2005-defd0501136a)
