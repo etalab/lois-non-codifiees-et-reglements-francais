@@ -815,7 +815,6 @@
 - [Décret n°95-965 du 23 août 1995 (DEFP9501628D)](decret-n95-965-du-23-aout-1995-defp9501628d)
 - [Décret n°95-966 du 23 août 1995 (SANH9501972D)](decret-n95-966-du-23-aout-1995-sanh9501972d)
 - [Décret n°97-1183 du 23 décembre 1997 (DEFP9702056D)](decret-n97-1183-du-23-decembre-1997-defp9702056d)
-- [Décret n°97-401 du 23 avril 1997 (DEFP9701213D)](decret-n97-401-du-23-avril-1997-defp9701213d)
 - [Décret n°97-416 du 23 avril 1997 (DEFP9701215D)](decret-n97-416-du-23-avril-1997-defp9701215d)
 - [Décret n°98-505 du 23 juin 1998 (INTA9800147D)](decret-n98-505-du-23-juin-1998-inta9800147d)
 - [Décret du 24 octobre 1995 (EQUF9501395D)](decret-du-24-octobre-1995-equf9501395d)

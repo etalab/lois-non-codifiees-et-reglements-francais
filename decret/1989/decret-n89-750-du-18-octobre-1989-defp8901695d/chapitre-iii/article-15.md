@@ -1,63 +1,111 @@
 # Article 15
 
-Les ingénieurs d'études et de fabrications promus au grade supérieur sont classés dans les conditions ci-après :
+La durée moyenne et la durée minimale du temps passé dans chacun des échelons des grades mentionnés à l'article 2 sont fixées ainsi qu'il suit :
 
-SITUATION ANCIENNE dans le grade d'ingénieur d'études et de fabrications : 10e échelon
+GRADES ET ÉCHELONS
 
-SITUATION NOUVELLE dans le grade d'ingénieur divisionnaire d'études et de fabrications : 5e échelon
+Ingénieur divisionnaire d'études et de fabrications
 
-Ancienneté conservée : Ancienneté acquise dans la limite de 3 ans.
+7e échelon
 
-SITUATION ANCIENNE dans le grade d'ingénieur d'études et de fabrications : 9e échelon : après 2 ans
+DURÉE
 
-SITUATION NOUVELLE dans le grade d'ingénieur divisionnaire d'études et de fabrications : 5e échelon
+Moyenne
 
-Ancienneté conservée : Sans ancienneté.
+3 ans 6 mois
 
-SITUATION ANCIENNE dans le grade d'ingénieur d'études et de fabrications : 9e échelon : avant 2 ans
+Minimale
 
-SITUATION NOUVELLE dans le grade d'ingénieur divisionnaire d'études et de fabrications : 4e échelon
+2 ans 9 mois
 
-Ancienneté conservée : Ancienneté acquise majorée de 1 an.
+6e échelon
 
-SITUATION ANCIENNE dans le grade d'ingénieur d'études et de fabrications : 8e échelon : après 3 ans
+3 ans 6 mois
 
-SITUATION NOUVELLE dans le grade d'ingénieur divisionnaire d'études et de fabrications : 4e échelon
+2 ans 9 mois
 
-Ancienneté conservée : Ancienneté acquise diminuée de 3 ans.
+5e échelon
 
-SITUATION ANCIENNE dans le grade d'ingénieur d'études et de fabrications : 8e échelon : avant 3 ans
+3 ans
 
-SITUATION NOUVELLE dans le grade d'ingénieur divisionnaire d'études et de fabrications : 3e échelon
+2 ans 3 mois
 
-Ancienneté conservée : Ancienneté acquise.
+4e échelon
 
-SITUATION ANCIENNE dans le grade d'ingénieur d'études et de fabrications : 7e échelon : après 1 an 6 mois
+3 ans
 
-SITUATION NOUVELLE dans le grade d'ingénieur divisionnaire d'études et de fabrications : 2e échelon
+2 ans 3 mois
 
-Ancienneté conservée : Ancienneté acquise diminuée de 1 an 6 mois.
+3e échelon
 
-SITUATION ANCIENNE dans le grade d'ingénieur d'études et de fabrications : 7e échelon : avant 1 an 6 mois
+3 ans
 
-SITUATION NOUVELLE dans le grade d'ingénieur divisionnaire d'études et de fabrications : 2e échelon
+2 ans 3 mois
 
-Ancienneté conservée : Sans ancienneté.
+2e échelon
 
-SITUATION ANCIENNE dans le grade d'ingénieur d'études et de fabrications : 6e échelon : après 1 an 6 mois
+2 ans 6 mois
 
-SITUATION NOUVELLE dans le grade d'ingénieur divisionnaire d'études et de fabrications : 1er échelon
+2 ans
 
-Ancienneté conservée : Ancienneté acquise diminuée de 1 an 6 mois.
+1er échelon
 
-SITUATION ANCIENNE dans le grade d'ingénieur d'études et de fabrications : 6e échelon : avant 1 an 6 mois
+2 ans
 
-SITUATION NOUVELLE dans le grade d'ingénieur divisionnaire d'études et de fabrications : 1er échelon
+1 an 6 mois
 
-Ancienneté conservée : Sans ancienneté.
+Ingénieur d'études et de fabrications
 
-SITUATION ANCIENNE dans le grade d'ingénieur d'études et de fabrications : 5e échelon après 2 ans
+9e échelon
 
-SITUATION NOUVELLE dans le grade d'ingénieur divisionnaire d'études et de fabrications : 1er échelon
+4 ans
 
-Ancienneté conservée : Sans ancienneté.
+3 ans
+
+8e échelon
+
+4 ans
+
+3 ans
+
+7e échelon
+
+4 ans
+
+3 ans
+
+6e échelon
+
+3 ans 6 mois
+
+2 ans 9 mois
+
+5e échelon
+
+3 ans
+
+2 ans 3 mois
+
+4e échelon
+
+2 ans 6 mois
+
+2 ans
+
+3e échelon
+
+2 ans 6 mois
+
+2 ans
+
+2e échelon
+
+1 an 6 mois
+
+1 an 6 mois
+
+1er échelon
+
+1 an
+
+1 an
