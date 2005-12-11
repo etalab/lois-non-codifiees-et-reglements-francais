@@ -1,6 +1,6 @@
 # Article 5
 
-Les candidats admis au concours sont nommés en qualité de stagiaire au 1er échelon du grade d'agent civil des services hospitaliers qualifiés de 2e catégorie sous réserve des dispositions prévues par le décret du 27 janvier 1970 susvisé. Ils sont titularisés à l'issue d'un stage d'une durée d'un an, si ce stage est jugé satisfaisant.
+Les candidats admis au concours sont nommés en qualité de stagiaire au 1er échelon du grade d'agent civil des services hospitaliers qualifiés sous réserve des dispositions prévues par le décret du 29 septembre 2005. Ils sont titularisés à l'issue d'un stage d'une durée d'un an, si ce stage est jugé satisfaisant.
 
 Ceux dont les services n'ont pas donné satisfaction peuvent, après avis de la commission administrative paritaire, être autorisés à effectuer un stage complémentaire d'une durée maximale d'un an. Si le stage complémentaire est jugé satisfaisant, les intéressés sont titularisés.
 
