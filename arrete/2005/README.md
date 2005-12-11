@@ -1,6 +1,7 @@
 # 2005
 
 - [Arrêté du 1 août 2005 (DEVO0540227A)](arrete-du-1-aout-2005-devo0540227a)
+- [Arrêté du 1 décembre 2005 (INDI0506293A)](arrete-du-1-decembre-2005-indi0506293a)
 - [Arrêté du 1 juillet 2005 (AGRG0501531A)](arrete-du-1-juillet-2005-agrg0501531a)
 - [Arrêté du 1 juillet 2005 (DEFD0500911A)](arrete-du-1-juillet-2005-defd0500911a)
 - [Arrêté du 1 mars 2004 (SOCT0410464A)](arrete-du-1-mars-2004-soct0410464a)

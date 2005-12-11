@@ -1,5 +1,15 @@
 # Article 6
 
-Les candidats admis aux concours prévus à l'article 3 ci-dessus sont nommés ingénieurs d'études et de fabrications stagiaires par arrêté du ministre de la défense. Ils sont classés dans dans le grade d'ingénieur d'études et de fabrications à l'échelon de ce grade déterminé dans les conditions fixées aux articles 9 à 12 ci-après.
+I. - Les ingénieurs d'études et de fabrications recrutés en application de l'article 3 sont nommés ingénieurs d'études et de fabrications stagiaires par arrêté du ministre de la défense et accomplissent un stage d'un an comportant une formation d'adaptation à l'emploi dont les modalités sont définies par arrêté du ministre de la défense.
 
-La nomination en qualité d'ingénieur d'études et de fabrications est subordonnée à la souscription par l'intéressé d'un engagement de rester au service de l'Etat pendant une durée de cinq ans et de verser, si la rupture de l'engagement survient pour une cause quelconque autre qu'une raison de santé plus de trois mois après la date de nomination, une indemnité correspondant aux frais engagés pour leur formation d'adaptation à l'emploi dont le montant est fixé pour chaque promotion par arrêté conjoint du ministre de la défense et du ministre du budget.
+Lors de leur nomination en qualité d'ingénieur d'études et de fabrications stagiaire, les intéressés sont classés à l'échelon de début de leur grade.
+
+Ceux qui, à la date de leur nomination en qualité d'ingénieur d'études et de fabrications stagiaire, possédaient la qualité de fonctionnaire ou d'agent non titulaire de l'Etat, des collectivités territoriales ou des établissements publics en relevant sont classés par référence à l'échelon du grade d'ingénieur d'études et de fabrications déterminé en application des dispositions des articles 8 à 13.
+
+Les ingénieurs d'études et de fabrications stagiaires dont le stage est jugé satisfaisant sont titularisés dans le grade d'ingénieur d'études et de fabrications. Ceux qui ne sont pas titularisés à l'issue du stage peuvent être autorisés à accomplir un stage complémentaire d'une durée maximale d'un an.
+
+Les stagiaires qui n'ont pas été autorisés à effectuer un stage complémentaire ou dont le stage complémentaire n'a pas donné satisfaction sont soit licenciés s'ils n'avaient pas la qualité de fonctionnaire, soit réintégrés dans leur corps ou cadre d'emplois d'origine.
+
+La durée du stage est prise en compte pour l'avancement dans la limite d'une année.
+
+II. - Les ingénieurs d'études et de fabrications recrutés en application de l'article 5 sont dispensés de stage et titularisés dès leur nomination.

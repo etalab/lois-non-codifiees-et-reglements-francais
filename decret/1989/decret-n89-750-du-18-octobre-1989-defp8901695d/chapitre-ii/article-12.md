@@ -1,3 +1,3 @@
 # Article 12
 
-Les services accomplis dans une entreprise ou un organisme privé par les candidats reçus au concours prévu au 1° de l'article 3 du présent décret sont pris en compte à raison du tiers jusqu'à douze ans et de la moitié au-delà de douze ans, pour les services accomplis dans des fonctions équivalentes à celles d'ingénieur d'études et de fabrications, et à raison de six seizièmes pour la fraction comprise entre sept ans et seize ans et de neuf seizièmes au-delà de seize ans pour les services accomplis dans des fonctions équivalentes à celles de technicien supérieur d'études et de fabrications.
+Lorsque l'application des articles 8 à 11 aboutit à classer les intéressés à un échelon assorti d'un indice inférieur à celui détenu dans leur précédent grade, ceux-ci conservent, à titre personnel, le bénéfice de leur indice antérieur jusqu'au jour où ils bénéficient, dans le corps des ingénieurs d'études et de fabrications, d'un indice au moins égal.
