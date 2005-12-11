@@ -4,6 +4,5 @@
 - [CHAPITRE II : Recrutement.](chapitre-ii)
 - [CHAPITRE III : Avancement.](chapitre-iii)
 - [CHAPITRE IV : Détachements.](chapitre-iv)
-- [CHAPITRE V : Dispositions transitoires.](chapitre-v)
 - [CHAPITRE VI : Dispositions concernant les retraites.](chapitre-vi)
 - [Article 19](article-19.md)

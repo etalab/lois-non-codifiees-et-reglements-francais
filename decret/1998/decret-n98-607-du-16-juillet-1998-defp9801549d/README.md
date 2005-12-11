@@ -3,5 +3,4 @@
 - [Chapitre Ier : Dispositions générales.](chapitre-ier)
 - [Chapitre II : Recrutement.](chapitre-ii)
 - [Chapitre III : Détachement.](chapitre-iii)
-- [Chapitre V : Dispositions transitoires.](chapitre-v)
 - [Article 8](article-8.md)
