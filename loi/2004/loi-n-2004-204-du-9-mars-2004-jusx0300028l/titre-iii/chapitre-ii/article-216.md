@@ -10,4 +10,4 @@ Il est procédé, par les services de la police ou de la gendarmerie nationales,
 
 Les recherches prévues à l'alinéa précédent peuvent se faire par des traitements automatisés rapprochant l'identité de ces personnes avec les informations figurant dans les fichiers prévues par l'article L. 115-2 du code de la sécurité sociale, l'article 1649 A du code général des impôts et les articles 21 et 23 de la loi n° 2003-239 du 18 mars 2003 pour la sécurité intérieure. Ces traitements ne sont autorisés que pendant une période de trente-six mois à compter de la publication de la présente loi au Journal officiel de la République française.
 
-La divulgation de l'identité des personnes dont l'adresse est recherchée en application des dispositions des deux alinéas précédents est punie des peines prévues à l'article 226-22 du code pénal.
+La divulgation de l'identité des personnes dont l'adresse est recherchée en application des dispositions des deux alinéas précédents est punie des peines prévues à l'article 226-22 du code pénal. Dans le cadre de ces recherches, les dispositions du premier alinéa de l'article 78 du code de procédure pénale sont applicables.
