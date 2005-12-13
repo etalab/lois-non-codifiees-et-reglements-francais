@@ -1,0 +1,3 @@
+# Article 1
+
+En cas de référendum ou de consultation organisé par un département ou une région, les dépenses concernant l'aménagement, la remise en état des lieux de vote après le scrutin, l'achat, la mise en place des panneaux d'affichage au début de la campagne électorale, leur enlèvement après l'élection, leur réparation et leur entretien et les frais de manutention hors des heures ouvrables sont remboursées aux communes au moyen d'une subvention versée par la collectivité qui a décidé de l'organisation du scrutin. Elle est fixée à 0,09 Euros par électeur inscrit le jour du scrutin et à 38,11 Euros par bureau de vote.
