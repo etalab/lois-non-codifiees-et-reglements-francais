@@ -4,4 +4,6 @@ La liste des pays où l'ensemble des droits figurant au tarif des droits à perc
 
 Bosnie-Herzégovine ;
 
-Equateur.
+Equateur ;
+
+Macédoine.
