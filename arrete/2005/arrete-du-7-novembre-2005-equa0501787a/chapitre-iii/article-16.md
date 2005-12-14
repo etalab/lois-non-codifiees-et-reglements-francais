@@ -1,0 +1,5 @@
+# Article 16
+
+Les conditions de délivrance, de prorogation et de renouvellement des qualifications de classe hydravions sont soumises au même régime que les classes d'avions terrestres monomoteurs, multimoteurs à pistons ou monomoteurs à turbopropulseur, tel qu'il est prévu dans l'arrêté du 29 mars 1999 susvisé, selon la classe d'hydravion concernée. Une formation théorique et pratique spécifique au cas de l'hydravion doit être dispensée par un instructeur habilité. Elle doit notamment comprendre l'apprentissage des manoeuvres à flot et en vol, l'utilisation des plans d'eau et de l'hydravion concerné. Cette formation doit être approuvée par l'Autorité. Une formation aux différences comprenant les connaissances additionnelles et une formation pratique sur hydravion doivent être accomplies pour passer des hydravions à flotteurs ou à coques aux hydravions amphibies.
+
+A la date d'application du présent arrêté, les pilotes titulaires d'une qualification de classe sur hydravion sont réputés satisfaire aux conditions du présent article.
