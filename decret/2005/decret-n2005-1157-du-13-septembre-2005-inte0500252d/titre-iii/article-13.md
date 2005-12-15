@@ -1,0 +1,3 @@
+# Article 13
+
+Dans chaque zone de défense, le centre opérationnel de zone placé au sein de l'état-major de zone assure les missions opérationnelles définies à l'article 18 du décret du 16 janvier 2002 susvisé. Dans la continuité de la veille opérationnelle permanente, ce centre met en oeuvre les mesures de coordination et d'appui prévues dans le dispositif opérationnel ORSEC de zone. Dans ce cas, il est renforcé, en tant que de besoin et en fonction de l'événement à traiter, par les services de l'Etat désignés comme délégués de zone et par les représentants habilités des autres personnes publiques et privées nécessaires à son fonctionnement.
