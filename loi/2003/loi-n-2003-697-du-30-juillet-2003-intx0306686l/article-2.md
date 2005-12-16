@@ -6,6 +6,6 @@ La série 2 est composée des sièges de l'ancienne série A et des sièges des 
 
 II. - Une loi votée avant le renouvellement partiel de 2004 mettra à jour le tableau n° 5 annexé au code électoral à la suite du découpage des séries 1 et 2 par tirage au sort.
 
-III. - Les dispositions du I entreront en vigueur à compter du renouvellement partiel de 2010.
+III. - Les dispositions du I entreront en vigueur à compter du renouvellement partiel de 2011.
 
 IV. - Paragraphe modificateur.
