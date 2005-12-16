@@ -1,11 +1,5 @@
 # Article 18
 
-Peuvent être intégrés, sur leur demande, dans le corps des administrateurs civils lorsqu'ils sont détachés dans ce corps depuis deux ans au moins :
+Les personnels détachés depuis deux ans au moins dans le corps des administrateurs civils en application de l'article 17 ci-dessus peuvent être intégrés, sur leur demande, dans ce corps.
 
-- les fonctionnaires appartenant à un corps recruté par la voie de l'Ecole nationale d'administration ;
-
-- les magistrats de l'ordre judiciaire.
-
-- les administrateurs des postes et télécommunications.
-
-Les services qu'ils ont accomplis antérieurement dans leur corps d'origine peuvent être pris en compte pour le calcul des quatre années de services mentionnées aux articles 8 et 9 du décret du 16 juillet 2004 précité.
+Les services qu'ils ont accomplis antérieurement dans leur corps ou cadre d'emplois d'origine sont assimilés à des services accomplis dans le corps des administrateurs civils.

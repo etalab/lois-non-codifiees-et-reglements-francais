@@ -1,6 +1,6 @@
 # Article 8
 
-Les administrateurs civils recrutés au choix par application des a et b de l'article 5 sont placés à l'échelon du grade d'administrateur civil comportant un traitement égal ou, à défaut, immédiatement supérieur à celui dont ils bénéficient dans leur corps ou emploi d'origine.
+Les administrateurs civils recrutés au choix par application du deuxième alinéa de l'article 5 sont placés à l'échelon du grade d'administrateur civil comportant un traitement égal ou, à défaut, immédiatement supérieur à celui dont ils bénéficient dans leur corps ou emploi d'origine.
 
 Les fonctionnaires qui percevaient dans leur ancien corps une rémunération supérieure à celle afférente au 9e échelon du grade d'administrateur civil bénéficient d'une indemnité compensatrice.
 

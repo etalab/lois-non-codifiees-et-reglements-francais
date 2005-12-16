@@ -1,3 +1,5 @@
 # Article 19
 
-Outre les cas prévus à l'article 9 du décret du 16 juillet 2004 précité, les administrateurs civils peuvent être détachés, moins de quatre années à compter de leur nomination, pour occuper un emploi de sous-préfet ou un des emplois mentionnés à l'article 25 de la loi du 11 janvier 1984 susvisée.
+Outre les cas prévus aux articles 9 et 12 du décret du 16 juillet 2004 précité, les administrateurs civils peuvent être détachés dès leur nomination dans le corps pour occuper un emploi de sous-préfet.
+
+Les services accomplis à ce dernier titre sont assimilés à des services effectifs dans le corps des administrateurs civils.
