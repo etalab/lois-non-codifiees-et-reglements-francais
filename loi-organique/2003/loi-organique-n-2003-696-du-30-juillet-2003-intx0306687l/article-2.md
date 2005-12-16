@@ -8,4 +8,4 @@ Durant la première semaine d'octobre 2003, le Bureau du Sénat procédera en s�
 
 A cet effet, les sièges de la série C seront répartis en deux sections, l'une comportant les sièges des départements du Bas-Rhin à l'Yonne, à l'exception de la Seine-et-Marne, et l'autre, ceux des départements de la Guadeloupe, de la Martinique et de l'Ile-de-France ainsi que les sièges des sénateurs de Mayotte et de Saint-Pierre-et-Miquelon.
 
-III. - Les dispositions du I entreront en vigueur à compter du renouvellement partiel de 2010.
+III. - Les dispositions du I entreront en vigueur à compter du renouvellement partiel de 2011.
