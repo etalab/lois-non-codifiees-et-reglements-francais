@@ -10,7 +10,7 @@ I. - Le Comité de la réglementation comptable comprend :
 
 - un membre du Conseil d'Etat, désigné par le vice-président de celui-ci, un membre de la Cour des comptes, nommé par le premier président de celle-ci, et un membre de la Cour de cassation, désigné par le premier président de celle-ci et le procureur général ;
 
-- le président de la Commission des opérations de bourse ou son représentant ;
+- le président de l'Autorité des marchés financiers ou son représentant ;
 
 - le président du Conseil national de la comptabilité ;
 
@@ -22,6 +22,6 @@ Toutefois, le ministre intéressé ou son représentant est remplacé par :
 
 - le président de la Commission bancaire ou son représentant lorsque le projet de règlement est relatif aux établissements de crédit, aux compagnies financières ainsi qu'aux entreprises d'investissement et autres entreprises assimilées ;
 
-- le président de la Commission de contrôle des assurances ou son représentant lorsque le projet de règlement est relatif aux entreprises régies par le code des assurances ;
+- le président de l'Autorité de contrôle des assurances ou son représentant lorsque le projet de règlement est relatif aux entreprises régies par le code des assurances ;
 
-- le président de la Commission de contrôle des institutions de prévoyance et des mutuelles ou son représentant lorsque le projet de règlement est relatif aux institutions de prévoyance ou aux organismes régis par le code de la mutualité.
+- le président de l'Autorité de contrôle des assurances et des des mutuelles ou son représentant lorsque le projet de règlement est relatif aux institutions de prévoyance ou aux organismes régis par le code de la mutualité.
