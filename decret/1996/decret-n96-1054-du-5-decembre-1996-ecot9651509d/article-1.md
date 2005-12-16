@@ -34,18 +34,6 @@ Industrie.
 
 NOM DE LA SOCIETE
 
-Mines de potasse d'Alsace
-
-NOMBRE de représentants de l'Etat au conseil d'administration ou de surveillance
-
-1
-
-REPARTITION PAR MINISTERE
-
-Agriculture.
-
-NOM DE LA SOCIETE
-
 Société commerciale des potasses et de l'azote
 
 NOMBRE de représentants de l'Etat au conseil d'administration ou de surveillance
@@ -124,7 +112,7 @@ REPARTITION PAR MINISTERE :
 
 NOM DE LA SOCIETE
 
-Société financière de gestion de fonds de garantie des T.O.M. (Sofotom).
+Société financière de gestion de fonds de garantie d'outre-mer (SOGECOM).
 
 NOMBRE de représentants de l'Etat au conseil d'administration ou de surveillance
 
