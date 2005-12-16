@@ -6,6 +6,8 @@
 - [Loi n° 2005-1425 du 18 novembre 2005 (INTX0500288L)](loi-n-2005-1425-du-18-novembre-2005-intx0500288l)
 - [Loi n° 2005-1549 du 12 décembre 2005 (JUSX0407878L)](loi-n-2005-1549-du-12-decembre-2005-jusx0407878l)
 - [Loi n° 2005-1550 du 12 décembre 2005 (DEFX0500016L)](loi-n-2005-1550-du-12-decembre-2005-defx0500016l)
+- [Loi n° 2005-1563 du 15 décembre 2005 (INTX0500194L)](loi-n-2005-1563-du-15-decembre-2005-intx0500194l)
+- [Loi n° 2005-1564 du 15 décembre 2005 (ECOX0500009L)](loi-n-2005-1564-du-15-decembre-2005-ecox0500009l)
 - [Loi n° 2005-157 du 23 février 2005 (AGRX0300111L)](loi-n-2005-157-du-23-fevrier-2005-agrx0300111l)
 - [Loi n° 2005-158 du 23 février 2005 (DEFX0300218L)](loi-n-2005-158-du-23-fevrier-2005-defx0300218l)
 - [Loi n° 2005-159 du 23 février 2005 (MAEX0300170L)](loi-n-2005-159-du-23-fevrier-2005-maex0300170l)

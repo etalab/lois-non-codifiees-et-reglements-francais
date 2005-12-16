@@ -41,6 +41,7 @@
 - [Ordonnance n° 2005-659 du 8 juin 2005 (EQUX0500069R)](ordonnance-n-2005-659-du-8-juin-2005-equx0500069r)
 - [Ordonnance n° 2005-459 du 13 mai 2005 (JUSX0500043R)](ordonnance-n-2005-459-du-13-mai-2005-jusx0500043r)
 - [Ordonnance n° 2005-461 du 13 mai 2005 (MAEX0500017R)](ordonnance-n-2005-461-du-13-mai-2005-maex0500017r)
+- [Ordonnance n° 2005-1566 du 15 décembre 2005 (SOCX0500256R)](ordonnance-n-2005-1566-du-15-decembre-2005-socx0500256r)
 - [Ordonnance n° 2005-674 du 16 juin 2005 (JUSX0500112R)](ordonnance-n-2005-674-du-16-juin-2005-jusx0500112r)
 - [Ordonnance n° 2005-136 du 17 février 2005 (JUSX0500005R)](ordonnance-n-2005-136-du-17-fevrier-2005-jusx0500005r)
 - [Ordonnance n° 2005-804 du 18 juillet 2005 (SANX0500107R)](ordonnance-n-2005-804-du-18-juillet-2005-sanx0500107r)

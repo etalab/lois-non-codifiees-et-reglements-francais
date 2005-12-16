@@ -40,8 +40,8 @@ La direction de l'administration pénitentiaire comprend :
 
 - le bureau de la gestion prévisionnelle des effectifs, des emplois et des compétences ;
 
-- le bureau de la gestion des personnels ;
+- le bureau de la gestion des personnels et de l'encadrement ;
 
-- le bureau du suivi personnalisé des carrières.
+- le bureau de la gestion personnalisée des cadres ;
 
 5.  Le bureau des affaires générales.

@@ -2,7 +2,7 @@
 
 Le Conseil national de la montagne est composé de cinquante-neuf membres, soit :
 
-Quatre députés et quatre sénateurs désignés par leur assemblée respective ;
+Outre les cinq députés et cinq sénateurs prévus à l'article 6 de la loi du 9 janvier 1985 susvisée ;
 
 Un représentant de l'association des maires de France ;
 
@@ -22,7 +22,7 @@ Un représentant de l'assemblée permanente des chambres de commerce et d'indust
 
 Un représentant de l'assemblée permanente des chambres d'agriculture ;
 
-Un représentant de l'assemblée permanente des chambres des métiers ;
+Un représentant de l'assemblée permanente des chambres de métiers et de l'artisanat ;
 
 Deux représentants du Conseil supérieur des sports de montagne ;
 
@@ -58,7 +58,7 @@ Un représentant du Conseil national de la coopération ;
 
 Un représentant de la fédération nationale des syndicats de propriétaires forestiers et sylviculteurs ;
 
-Un représentant du conseil interfédéral du bois ;
+Un représentant des associations nationales de la filière bois ;
 
 Un représentant de la fédération nationale des sociétés d'économie mixte ;
 

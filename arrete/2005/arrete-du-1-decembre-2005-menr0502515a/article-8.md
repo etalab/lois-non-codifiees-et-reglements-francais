@@ -1,0 +1,3 @@
+# Article 8
+
+Le contrôleur peut établir chaque année un programme de contrôle a posteriori, en fonction des risques budgétaires et financiers qu'il aura identifiés. Ce programme ainsi que les modalités de sa mise en oeuvre sont arrêtés après consultation de l'ordonnateur et en concertation avec les ministères de tutelle. Toutefois, indépendamment de ce programme, le contrôleur peut procéder à la vérification a posteriori d'un acte particulier. L'ordonnateur est tenu de communiquer à sa demande tous les documents nécessaires au bon accomplissement d'une vérification a posteriori, y compris ceux qui concernent les filiales.
