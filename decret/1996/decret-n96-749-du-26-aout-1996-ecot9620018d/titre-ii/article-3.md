@@ -62,4 +62,4 @@ Le Conseil national de la comptabilité est composé comme suit :
 
 - un représentant du président de la Commission bancaire ;
 
-- un représentant du président de la Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance.
+- un représentant du président de l'Autorité de contrôle des assurances et des mutuelles.

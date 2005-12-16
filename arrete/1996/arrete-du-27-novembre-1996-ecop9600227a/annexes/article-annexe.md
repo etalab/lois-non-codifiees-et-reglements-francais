@@ -2,7 +2,7 @@
 
 LISTE DES SERVICES DE L'ADMINISTRATION CENTRALE DU MINISTÈRE DE L'ÉCONOMIE ET DES FINANCES AU SEIN DESQUELS S'APPLIQUE L'EXPÉRIMENTATION DE L'ANNUALISATION DU SERVICE A TEMPS PARTIEL
 
-Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance.
+Autorité de contrôle des assurances et des mutuelles.
 
 Direction générale de la concurrence, de la consommation et de la répression des fraudes.
 

@@ -38,7 +38,7 @@ Le médiateur ou son représentant ;
 
 Le secrétaire général de la commission centrale des marchés ou son représentant ;
 
-Le secrétaire général de la commission de contrôle des assurances, des mutuelles et des institutions de prévoyance ou son représentant ;
+Le secrétaire général de l'Autorité de contrôle des assurances et des mutuelles ou son représentant ;
 
 Le secrétaire général de l'ordre des experts-comptables ou son représentant ;
 

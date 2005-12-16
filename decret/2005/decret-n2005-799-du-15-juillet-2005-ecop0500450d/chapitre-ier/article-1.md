@@ -4,4 +4,4 @@ Le corps de contrôle des assurances constitue un corps supérieur à caractère
 
 Le corps de contrôle des assurances relève du ministre chargé de l'économie.
 
-Les membres du corps servent en position d'activité au ministère de l'économie, des finances et de l'industrie ou auprès de la commission de contrôle des assurances, des mutuelles et des institutions de prévoyance.
+Les membres du corps servent en position d'activité au ministère de l'économie, des finances et de l'industrie ou auprès de l'Autorité de contrôle des assurances et des mutuelles.

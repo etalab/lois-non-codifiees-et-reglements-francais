@@ -6,4 +6,4 @@ Le montant des contributions des employeurs non assujetties en application de l'
 
 Le bénéfice des dispositions du présent article est subordonné à la communication, à l'organisme chargé du recouvrement des cotisations et contributions sociales mentionné à l'article L. 243-7 du code de la sécurité sociale et, pour le régime agricole, à l'article L. 723-1 du code rural, des pièces mentionnées au IV de l'article 116 de la loi n° 2003-775 du 21 août 2003 précitée.
 
-Une institution ne peut bénéficier des dispositions du présent article qu'à compter de la date à laquelle la Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance lui a accusé réception de la note technique prévue au IV de l'article 116 de la loi n° 2003-775 du 21 août 2003 précitée.
+Une institution ne peut bénéficier des dispositions du présent article qu'à compter de la date à laquelle l'Autorité de contrôle des assurances et des mutuelles lui a accusé réception de la note technique prévue au IV de l'article 116 de la loi n° 2003-775 du 21 août 2003 précitée.

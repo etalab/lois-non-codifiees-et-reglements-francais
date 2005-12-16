@@ -1,6 +1,6 @@
 # Article 23
 
-Le comité de surveillance fait procéder au moins tous les cinq ans à des études actuarielles du plan. Il désigne à cet effet un actuaire agréé par une association reconnue par la Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance et indépendante de l'organisme d'assurance gestionnaire du plan. Ces études ont essentiellement pour but d'évaluer les risques susceptibles d'affecter le plan. Elles portent en particulier sur :
+Le comité de surveillance fait procéder au moins tous les cinq ans à des études actuarielles du plan. Il désigne à cet effet un actuaire agréé par une association reconnue par l'Autorité de contrôle des assurances et des mutuelles et indépendante de l'organisme d'assurance gestionnaire du plan. Ces études ont essentiellement pour but d'évaluer les risques susceptibles d'affecter le plan. Elles portent en particulier sur :
 
 1. Les frais et commissions prélevés, à quelque titre que ce soit et sur quelque support d'investissement que ce soit ;
 

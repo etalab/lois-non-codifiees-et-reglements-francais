@@ -26,6 +26,6 @@ Il élabore la réglementation des placements des sociétés d'assurance, des ca
 
 Il est chargé des questions concernant la réassurance.
 
-Il représente la direction générale au sein de la Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance (CCAMIP). Il participe aux travaux du Comité consultatif du secteur financier (CCSF) et du Comité consultatif pour la législation et la réglementation financières (CCLRF).
+Il représente la direction générale au sein de l'Autorité de contrôle des assurances et des mutuelles. Il participe aux travaux du Comité consultatif du secteur financier (CCSF) et du Comité consultatif pour la législation et la réglementation financières (CCLRF).
 
 Il prépare et conduit les négociations européennes et internationales concernant les entreprises d'assurance et assure la coordination des positions françaises dans le domaine de l'assurance. Il suit les questions relatives à l'activité du Comité européen des contrôleurs d'assurances et de pensions et de l'Association internationale des contrôleurs d'assurance.

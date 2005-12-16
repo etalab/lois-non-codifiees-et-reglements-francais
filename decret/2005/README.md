@@ -727,6 +727,7 @@
 - [Décret n°2005-837 du 20 juillet 2005 (MCCB0500388D)](decret-n2005-837-du-20-juillet-2005-mccb0500388d)
 - [Décret n°2005-839 du 20 juillet 2005 (SANX0500008D)](decret-n2005-839-du-20-juillet-2005-sanx0500008d)
 - [Décret n°2005-840 du 20 juillet 2005 (SANP0522707D)](decret-n2005-840-du-20-juillet-2005-sanp0522707d)
+- [Décret n°90-495 du 20 juin 1990 (ECOA9000041D)](decret-n90-495-du-20-juin-1990-ecoa9000041d)
 - [Décret n°95-71 du 20 janvier 1995 (MICT9500006D)](decret-n95-71-du-20-janvier-1995-mict9500006d)
 - [Décret du 20 mai 2005 (AGRP0500838D)](decret-du-20-mai-2005-agrp0500838d)
 - [Décret n°2005-524 du 20 mai 2005 (AGRP0500736D)](decret-n2005-524-du-20-mai-2005-agrp0500736d)
