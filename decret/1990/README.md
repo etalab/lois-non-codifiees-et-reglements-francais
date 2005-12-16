@@ -385,7 +385,6 @@
 - [Décret n°91-960 du 17 septembre 1991 (MENF9101363D)](decret-n91-960-du-17-septembre-1991-menf9101363d)
 - [Décret n°99-510 du 17 juin 1999 (FPPA9900053D)](decret-n99-510-du-17-juin-1999-fppa9900053d)
 - [Décret n°90-1122 du 18 décembre 1990 (PTTC9000974D)](decret-n90-1122-du-18-decembre-1990-pttc9000974d)
-- [Décret n°90-1123 du 18 décembre 1990 (PTTC9000975D)](decret-n90-1123-du-18-decembre-1990-pttc9000975d)
 - [Décret n°90-1135 du 18 décembre 1990 (MAEJ9030089D)](decret-n90-1135-du-18-decembre-1990-maej9030089d)
 - [Décret n°90-1136 du 18 décembre 1990 (MAEJ9030088D)](decret-n90-1136-du-18-decembre-1990-maej9030088d)
 - [Décret n°90-497 du 18 juin 1990 (SPSS9000495D)](decret-n90-497-du-18-juin-1990-spss9000495d)

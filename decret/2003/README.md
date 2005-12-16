@@ -377,7 +377,6 @@
 - [Décret n°2003-780 du 20 août 2003 (MENS0301694D)](decret-n2003-780-du-20-aout-2003-mens0301694d)
 - [Décret n°2003-995 du 20 octobre 2003 (INTA0300254D)](decret-n2003-995-du-20-octobre-2003-inta0300254d)
 - [Décret n°2003-996 du 20 octobre 2003 (INTA0300255D)](decret-n2003-996-du-20-octobre-2003-inta0300255d)
-- [Décret n°90-495 du 20 juin 1990 (ECOA9000041D)](decret-n90-495-du-20-juin-1990-ecoa9000041d)
 - [Décret n°95-179 du 20 février 1995 (FPPA9500025D)](decret-n95-179-du-20-fevrier-1995-fppa9500025d)
 - [Décret n°98-617 du 20 juillet 1998 (INTM9800005D)](decret-n98-617-du-20-juillet-1998-intm9800005d)
 - [Décret n°2003-458 du 20 mai 2003 (MENR0300706D)](decret-n2003-458-du-20-mai-2003-menr0300706d)
