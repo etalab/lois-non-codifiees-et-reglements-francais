@@ -334,7 +334,6 @@
 - [Arrêté du 12 juillet 1993 (RESK9300912A)](arrete-du-12-juillet-1993-resk9300912a)
 - [Arrêté du 12 juillet 1993 (RESK9300913A)](arrete-du-12-juillet-1993-resk9300913a)
 - [Arrêté du 12 mars 1993 (BUDR9305009A)](arrete-du-12-mars-1993-budr9305009a)
-- [Arrêté du 12 mars 1993 (INDB9300262A)](arrete-du-12-mars-1993-indb9300262a)
 - [Arrêté du 12 mars 1993 (MENZ9304677A)](arrete-du-12-mars-1993-menz9304677a)
 - [Arrêté du 12 mars 1993 (SPSA9300850A)](arrete-du-12-mars-1993-spsa9300850a)
 - [Arrêté du 12 mars 1993 (SPSS9300239A)](arrete-du-12-mars-1993-spss9300239a)
