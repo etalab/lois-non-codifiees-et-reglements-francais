@@ -34,7 +34,7 @@ Indemnité forfaitaire de base pour une demi-astreinte de sécurité le samedi a
 
 - montant à compter du 1er février 2005    14,57 euros
 
-Ce montant pourra être porté à 18 euros au 1er juillet 2006 et à 40 euros au 1er juillet 2007, sous réserve d'une diminution au niveau national du nombre de lignes d'astreintes à hauteur de 27 % en 2006 et de 22 % en 2007, constatée conformément aux dispositions du E de l'article 2 du présent arrêté.
+Ce montant pourra être porté à 18 euros au 1er juillet 2006 et à 20 euros au 1er juillet 2007, sous réserve d'une diminution au niveau national du nombre de lignes d'astreintes à hauteur de 27 % en 2006 et de 22 % en 2007, constatée conformément aux dispositions du E de l'article 2 du présent arrêté.
 
 Le montant cumulé des indemnités forfaitaires de base versées au titre de l'astreinte de sécurité ne peut excéder :
 

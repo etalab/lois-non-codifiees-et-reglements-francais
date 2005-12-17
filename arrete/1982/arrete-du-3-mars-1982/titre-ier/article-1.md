@@ -6,7 +6,7 @@ En application des dispositions des articles 3, 5, 6 et 7 du décret susvisé, l
 
 Les modalités de délivrance de l'autorisation de transport, d'établissement et d'utilisation des titres d'accompagnement.
 
-Les conditions de transports et notamment les conditions de transports conjoints des détonateurs et des autres produits.
+Les conditions de transports.
 
 Les masses mentionnées dans le présent arrêté correspondent à la quantité nette de matière explosive contenue dans les emballages et conditionnements.
 
