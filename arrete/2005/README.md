@@ -127,6 +127,7 @@
 - [Arrêté du 7 avril 2005 (EQUA0500106A)](arrete-du-7-avril-2005-equa0500106a)
 - [Arrêté du 7 avril 2005 (SANP0521352A)](arrete-du-7-avril-2005-sanp0521352a)
 - [Arrêté du 7 décembre 2005 (AGRP0502780A)](arrete-du-7-decembre-2005-agrp0502780a)
+- [Arrêté du 7 décembre 2005 (MCCB0500862A)](arrete-du-7-decembre-2005-mccb0500862a)
 - [Arrêté du 7 décembre 2005 (MENE0502615A)](arrete-du-7-decembre-2005-mene0502615a)
 - [Arrêté du 7 décembre 2005 (SOCU0512086A)](arrete-du-7-decembre-2005-socu0512086a)
 - [Arrêté du 7 décembre 2005 (SOCU0512087A)](arrete-du-7-decembre-2005-socu0512087a)

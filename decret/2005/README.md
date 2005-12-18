@@ -573,6 +573,8 @@
 - [Décret n°2005-1416 du 16 novembre 2005 (SOCU0512104D)](decret-n2005-1416-du-16-novembre-2005-socu0512104d)
 - [Décret n°2005-142 du 16 février 2005 (DEFP0401210D)](decret-n2005-142-du-16-fevrier-2005-defp0401210d)
 - [Décret n°2005-146 du 16 février 2005 (EQUH0401743D)](decret-n2005-146-du-16-fevrier-2005-equh0401743d)
+- [Décret n°2005-1577 du 16 décembre 2005 (MENR0501836D)](decret-n2005-1577-du-16-decembre-2005-menr0501836d)
+- [Décret n°2005-1578 du 16 décembre 2005 (MENR0501837D)](decret-n2005-1578-du-16-decembre-2005-menr0501837d)
 - [Décret n°2005-247 du 16 mars 2005 (DEFP0500054D)](decret-n2005-247-du-16-mars-2005-defp0500054d)
 - [Décret n°2005-248 du 16 mars 2005 (DEFP0500055D)](decret-n2005-248-du-16-mars-2005-defp0500055d)
 - [Décret n°2005-669 du 16 juin 2005 (INTX0500150D)](decret-n2005-669-du-16-juin-2005-intx0500150d)
