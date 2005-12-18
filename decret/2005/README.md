@@ -785,6 +785,7 @@
 - [Décret n°93-1182 du 21 octobre 1993 (ENVE9310013D)](decret-n93-1182-du-21-octobre-1993-enve9310013d)
 - [Décret n°2005-519 du 21 mai 2005 (DOMB0500002D)](decret-n2005-519-du-21-mai-2005-domb0500002d)
 - [Décret n°2005-520 du 21 mai 2005 (DEFD0500671D)](decret-n2005-520-du-21-mai-2005-defd0500671d)
+- [Décret n°2002-252 du 22 février 2002 (RECR0200060D)](decret-n2002-252-du-22-fevrier-2002-recr0200060d)
 - [Décret n°2004-1393 du 22 décembre 2004 (MCCT0400850D)](decret-n2004-1393-du-22-decembre-2004-mcct0400850d)
 - [Décret n°2005-1001 du 22 août 2005 (MENS0501593D)](decret-n2005-1001-du-22-aout-2005-mens0501593d)
 - [Décret n°2005-1004 du 22 août 2005 (SANS0521754D)](decret-n2005-1004-du-22-aout-2005-sans0521754d)
