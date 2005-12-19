@@ -281,6 +281,7 @@
 - [Arrêté du 13 mai 2005 (SOCO0510558A)](arrete-du-13-mai-2005-soco0510558a)
 - [Arrêté du 14 avril 2005 (ECOP0500343A)](arrete-du-14-avril-2005-ecop0500343a)
 - [Arrêté du 14 décembre 2005 (DEVG0540462A)](arrete-du-14-decembre-2005-devg0540462a)
+- [Arrêté du 14 décembre 2005 (MAEA0520509A)](arrete-du-14-decembre-2005-maea0520509a)
 - [Arrêté du 14 février 2005 (DEFC0500247A)](arrete-du-14-fevrier-2005-defc0500247a)
 - [Arrêté du 14 février 2005 (ECOT0420055A)](arrete-du-14-fevrier-2005-ecot0420055a)
 - [Arrêté du 14 février 2005 (ECOT0420056A)](arrete-du-14-fevrier-2005-ecot0420056a)
