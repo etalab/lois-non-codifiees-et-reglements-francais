@@ -10,3 +10,4 @@
 - [Article 60 ter](article-60-ter.md)
 - [Article 60 quater](article-60-quater.md)
 - [Article 60 quinquiès](article-60-quinquies.md)
+- [Article 60 sexies](article-60-sexies.md)

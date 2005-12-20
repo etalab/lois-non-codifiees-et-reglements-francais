@@ -9,6 +9,7 @@
 - [Loi n° 2005-1563 du 15 décembre 2005 (INTX0500194L)](loi-n-2005-1563-du-15-decembre-2005-intx0500194l)
 - [Loi n° 2005-1564 du 15 décembre 2005 (ECOX0500009L)](loi-n-2005-1564-du-15-decembre-2005-ecox0500009l)
 - [Loi n° 2005-157 du 23 février 2005 (AGRX0300111L)](loi-n-2005-157-du-23-fevrier-2005-agrx0300111l)
+- [Loi n° 2005-1579 du 19 décembre 2005 (SANX0500246L)](loi-n-2005-1579-du-19-decembre-2005-sanx0500246l)
 - [Loi n° 2005-158 du 23 février 2005 (DEFX0300218L)](loi-n-2005-158-du-23-fevrier-2005-defx0300218l)
 - [Loi n° 2005-159 du 23 février 2005 (MAEX0300170L)](loi-n-2005-159-du-23-fevrier-2005-maex0300170l)
 - [Loi n° 2005-270 du 24 mars 2005 (DEFX0400144L)](loi-n-2005-270-du-24-mars-2005-defx0400144l)
