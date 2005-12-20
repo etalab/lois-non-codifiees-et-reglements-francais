@@ -1,7 +1,0 @@
-# Article 3
-
-Le promoteur notifie, à tout commerçant ou autre personne susceptible d'obtenir une indemnisation, une offre fondée sur les dispositions du I de l'article 11 de l'ordonnance du 22 septembre 1967 susvisée et qui précise, en les distinguant, chacune des indemnités visées par ces dispositions.
-
-Dans les notifications qui leur sont faites, les personnes intéressées sont invitées à faire connaître par écrit au promoteur, dans un délai de quinze jours à dater de la notification, soit leur acceptation, soit le détail de leur demande et, le cas échéant, le montant de l'indemnité en espèces dont ils demandent à bénéficier dans les conditions spécifiées aux articles 12 et 13 ci-après. Les notifications reproduisent en caractères apparents les dispositions de l'article 6 (1er alinéa) du présent décret et de l'article 25 (2e alinéa) du décret du 20 novembre 1959 susvisé.
-
-La réponse de chaque intéressé doit indiquer ses nom, prénoms et domicile s'il s'agit d'une personne physique, sa dénomination, sa forme et son siège social s'il s'agit d'une personne morale, ainsi que la date et le numéro d'inscription au registre du commerce et les titres de nature à justifier le bénéfice de l'indemnisation. Elle précise, en outre, si le fonds de commerce est exploité par son propriétaire ou sous le régime de la location-gérance et, le cas échéant, contient toutes indications utiles en ce qui concerne les nantissements inscrits sur ledit fonds.
