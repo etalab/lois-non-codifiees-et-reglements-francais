@@ -12,4 +12,4 @@ Le secrétaire général pour l'administration :
 
 5° Exerce les attributions qui lui sont spécialement confiées par le ministre.
 
-Il est assisté d'un adjoint, directeur, qui le remplace en cas d'absence ou d'empêchement.
+Il est assisté de deux adjoints, directeurs, qui le remplacent en cas d'absence ou d'empêchement.
