@@ -12,6 +12,6 @@ Tout fonctionnaire est placé dans une des positions suivantes :
 
 5° Accomplissement du service national et des activités dans la    réserve opérationnelle ;
 
-6° Congé parental et congé de présence parentale.
+6° Congé parental.
 
 Les décisions relatives aux positions sont prises par l'autorité territoriale.
