@@ -724,7 +724,6 @@
 - [Arrêté du 23 décembre 2004 (SANS0424430A)](arrete-du-23-decembre-2004-sans0424430a)
 - [Arrêté du 23 février 2004 (SANH0420671A)](arrete-du-23-fevrier-2004-sanh0420671a)
 - [Arrêté du 23 février 2004 (SANH0420778A)](arrete-du-23-fevrier-2004-sanh0420778a)
-- [Arrêté du 23 janvier 2004 (INTC0400083A)](arrete-du-23-janvier-2004-intc0400083a)
 - [Arrêté du 23 janvier 2004 (MCCF0400062A)](arrete-du-23-janvier-2004-mccf0400062a)
 - [Arrêté du 23 janvier 2004 (SOCF0312135A)](arrete-du-23-janvier-2004-socf0312135a)
 - [Arrêté du 23 janvier 2004 (SOCF0410153A)](arrete-du-23-janvier-2004-socf0410153a)

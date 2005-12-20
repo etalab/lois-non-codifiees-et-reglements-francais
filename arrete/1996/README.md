@@ -900,7 +900,6 @@
 - [Arrêté du 24 mai 1996 (MIPP9600184A)](arrete-du-24-mai-1996-mipp9600184a)
 - [Arrêté du 24 mai 1996 (PRMG9670256A)](arrete-du-24-mai-1996-prmg9670256a)
 - [Arrêté du 24 mai 1996 (TASA9621669A)](arrete-du-24-mai-1996-tasa9621669a)
-- [Arrêté du 25 avril 1996 (INTC9600212A)](arrete-du-25-avril-1996-intc9600212a)
 - [Arrêté du 25 avril 1996 (MIPP9600157A)](arrete-du-25-avril-1996-mipp9600157a)
 - [Arrêté du 25 janvier 1996 (BUDF9600001A)](arrete-du-25-janvier-1996-budf9600001a)
 - [Arrêté du 25 janvier 1996 (DEFG9601104A)](arrete-du-25-janvier-1996-defg9601104a)
