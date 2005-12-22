@@ -4,5 +4,6 @@
 - [Section II : Dispositions applicables aux communes de la collectivité territoriale de Saint-Pierre-et-Miquelon.](section-ii)
 - [Section III : Dispositions applicables aux circonscriptions territoriales des îles Wallis-et-Futuna.](section-iii)
 - [Section IV : Dispositions applicables aux communes du territoire de la Nouvelle-Calédonie et a leurs groupements.](section-iv)
+- [Section V : Dispositions applicables aux communes du territoire de la Polynésie française et à leurs groupements.](section-v)
 - [Section VI : Dispositions applicables aux communes et aux groupements de communes de la collectivité territoriale de Mayotte.](section-vi)
 - [Article 10](article-10.md)
