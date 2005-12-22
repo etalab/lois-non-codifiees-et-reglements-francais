@@ -1,6 +1,6 @@
 # Article 12
 
-Le groupement d'instruction comprend :
+Le groupement formation-instruction comprend :
 
 - un état-major ;
 

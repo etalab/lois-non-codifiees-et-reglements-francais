@@ -8,7 +8,7 @@ Les activités des jeux ne peuvent s'exercer que dans des locaux distincts et s�
 
 Tout casino a un directeur et un comité de direction responsables.
 
-Dans les limites et conditions fixées par la délibération de l'assemblée de la Polynésie française prévue à l'article 65 de la loi du 12 avril 1996 susvisée, peuvent être autorisés :
+Dans les limites et conditions fixées par la délibération de l'assemblée de la Polynésie française prévue à l'article 24 de la loi organique n° 2004-192 du 27 février 2004 portant statut d'autonomie de la Polynésie française, peuvent être autorisés :
 
 a) Les jeux de hasard ;
 

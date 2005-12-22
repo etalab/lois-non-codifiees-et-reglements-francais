@@ -22,7 +22,7 @@ b) Détachement pour effectuer une mission d'intérêt public de coopération in
 
 8° Détachement pour exercer les fonctions de membres du Gouvernement ou une fonction publique élective lorsque cette fonction comporte des obligations empêchant d'assurer normalement l'exercice de la fonction :
 
-Le fonctionnaire est placé, sur sa demande, en position de détachement pour accomplir un mandat local dans les cas prévus par le code général des collectivités territoriales ;
+Le fonctionnaire est placé, sur sa demande, en position de détachement pour accomplir un mandat local dans les cas prévus par le code général des collectivités territoriales et par la loi organique n° 2004-192 du 27 février 2004 portant statut d'autonomie de la Polynésie française ;
 
 9° Détachement auprès d'une entreprise privée, d'un organisme privé ou d'un groupement d'intérêt public pour y exécuter des travaux de recherche d'intérêt national entrant dans le cadre fixé par le comité interministériel de la recherche scientifique et technique institué par le décret n° 75-1002 du 29 octobre 1975, ou pour assurer le développement dans le domaine industriel et commercial, de recherches de même nature ; un tel détachement ne peut être prononcé que si l'intéressé n'a pas eu, au cours des cinq dernières années, soit à exercer un contrôle sur l'entreprise, soit à participer à l'élaboration ou à la passation de marchés avec elle ;
 
