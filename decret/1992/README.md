@@ -326,7 +326,6 @@
 - [Décret du 10 janvier 1992 (ACVP9120015D)](decret-du-10-janvier-1992-acvp9120015d)
 - [Décret n°92-1199 du 10 novembre 1992 (ENEG9200832D)](decret-n92-1199-du-10-novembre-1992-eneg9200832d)
 - [Décret n°92-223 du 10 mars 1992 (MAEJ9230005D)](decret-n92-223-du-10-mars-1992-maej9230005d)
-- [Décret n°92-224 du 10 mars 1992 (JUSB9210067D)](decret-n92-224-du-10-mars-1992-jusb9210067d)
 - [Décret n°92-227 du 10 mars 1992 (PTTS9200036D)](decret-n92-227-du-10-mars-1992-ptts9200036d)
 - [Décret n°92-24 du 10 janvier 1992 (SPSS9102812D)](decret-n92-24-du-10-janvier-1992-spss9102812d)
 - [Décret n°92-498 du 10 juin 1992 (MAEJ9230024D)](decret-n92-498-du-10-juin-1992-maej9230024d)

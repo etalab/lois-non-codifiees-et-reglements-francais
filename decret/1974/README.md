@@ -26,7 +26,6 @@
 - [Décret n°74-862 du 17 octobre 1974](decret-n74-862-du-17-octobre-1974)
 - [Décret n°76-553 du 17 juin 1976](decret-n76-553-du-17-juin-1976)
 - [Décret n°76-554 du 17 juin 1976](decret-n76-554-du-17-juin-1976)
-- [Décret n°74-464 du 17 mai 1974](decret-n74-464-du-17-mai-1974)
 - [Décret n°74-466 du 17 mai 1974](decret-n74-466-du-17-mai-1974)
 - [Décret n°74-487 du 17 mai 1974](decret-n74-487-du-17-mai-1974)
 - [Décret n°74-496 du 17 mai 1974](decret-n74-496-du-17-mai-1974)

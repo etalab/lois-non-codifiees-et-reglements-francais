@@ -508,7 +508,6 @@
 - [Arrêté du 15 juillet 2003 (MENE0301539A)](arrete-du-15-juillet-2003-mene0301539a)
 - [Arrêté du 15 juillet 2003 (MENE0301540A)](arrete-du-15-juillet-2003-mene0301540a)
 - [Arrêté du 15 juillet 2003 (SANC0322742A)](arrete-du-15-juillet-2003-sanc0322742a)
-- [Arrêté du 15 octobre 2003 (AGRP0302135A)](arrete-du-15-octobre-2003-agrp0302135a)
 - [Arrêté du 15 octobre 2003 (DEFL0302315A)](arrete-du-15-octobre-2003-defl0302315a)
 - [Arrêté du 15 septembre 2003 (AGRG0301884A)](arrete-du-15-septembre-2003-agrg0301884a)
 - [Arrêté du 15 septembre 2003 (BUDF0300027A)](arrete-du-15-septembre-2003-budf0300027a)
