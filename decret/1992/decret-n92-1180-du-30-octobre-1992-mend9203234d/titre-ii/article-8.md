@@ -14,7 +14,7 @@ Les présidents de l'université de la Nouvelle-Calédonie et de l'université d
 
 4. Les représentants des usagers élus aux conseils d'antennes universitaires de formation des maîtres ;
 
-5. Les deux représentants désignés par le gouvernement du territoire de Polynésie française visés à l'article 14, les deux représentants désignés par le congrès de la Nouvelle-Calédonie et le représentant désigné par l'assemblée territoriale de Wallis-et-Futuna visés à l'article 15, membres de droit ;
+5. Les deux représentants désignés par le gouvernement de Polynésie française visés à l'article 14, les deux représentants désignés par le congrès de la Nouvelle-Calédonie et le représentant désigné par l'assemblée territoriale de Wallis-et-Futuna visés à l'article 15, membres de droit ;
 
 6. Quatre personnalités qualifiées désignées par le ministre chargé de l'éducation nationale en raison de leurs compétences en matière d'éducation, de formation et de recherche.
 

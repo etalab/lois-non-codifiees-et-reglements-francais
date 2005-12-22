@@ -8,7 +8,7 @@ Un représentant élu des personnels administratifs, techniques, ouvriers et de 
 
 Deux représentants élus des usagers ;
 
-2. Deux représentants désignés par le gouvernement du territoire de Polynésie française ;
+2. Deux représentants désignés par le gouvernement de la Polynésie française ;
 
 3. Le haut-commissaire de Polynésie française ou son représentant ;
 

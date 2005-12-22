@@ -1,12 +1,12 @@
 # Article 5
 
-Dans le territoire de la Polynésie française, lorsque les membres des corps et les autorités assistent aux cérémonies publiques, ils y prennent rang dans l'ordre de préséance suivant :
+En Polynésie française, lorsque les membres des corps et les autorités assistent aux cérémonies publiques, ils y prennent rang dans l'ordre de préséance suivant :
 
 1° Le haut-commissaire de la République ;
 
-2° Le président du gouvernement du territoire ;
+2° Le président du gouvernement de la Polynésie française ;
 
-3° Le président de l'assemblée territoriale ;
+3° Le président de l'assemblée de la Polynésie française ;
 
 4° Les députés ;
 
@@ -14,7 +14,7 @@ Dans le territoire de la Polynésie française, lorsque les membres des corps et
 
 6° Les représentants au Parlement européen ;
 
-7° Le vice-président et les ministres du gouvernement du territoire ;
+7° Le vice-président et les ministres du gouvernement de la Polynésie française ;
 
 8° Le secrétaire général ;
 
@@ -24,7 +24,7 @@ Dans le territoire de la Polynésie française, lorsque les membres des corps et
 
 11° Le président de la commission permanente à l'assemblée territoriale et les membres titulaires de cette commission ;
 
-12° Les membres de l'assemblée territoriale ;
+12° Les membres de l'assemblée de la Polynésie française ;
 
 13° Le membre du Conseil économique et social, représentant des activités économiques et sociales du territoire ;
 
@@ -40,7 +40,7 @@ Dans le territoire de la Polynésie française, lorsque les membres des corps et
 
 19° Les membres du corps préfectoral ;
 
-20° Le secrétaire général du gouvernement du territoire et le directeur du cabinet du président du gouvernement du territoire ;
+20° Le secrétaire général du gouvernement de la Polynésie française et le directeur du cabinet du président du gouvernement de la Polynésie française ;
 
 21° Le vice-recteur d'académie ;
 

@@ -37,4 +37,5 @@
 - [Loi n° 2005-846 du 26 juillet 2005 (SOCX0500142L)](loi-n-2005-846-du-26-juillet-2005-socx0500142l)
 - [Loi n° 2005-882 du 2 août 2005 (PMEX0500079L)](loi-n-2005-882-du-2-aout-2005-pmex0500079l)
 - [Loi n° 91-429 du 13 mai 1991 (INTX9100005L)](loi-n-91-429-du-13-mai-1991-intx9100005l)
+- [Loi n° 91-6 du 4 janvier 1991 (DOMX9000091L)](loi-n-91-6-du-4-janvier-1991-domx9000091l)
 - [Loi n°94-589 du 15 juillet 1994 (DEFX9400020L)](loi-n94-589-du-15-juillet-1994-defx9400020l)

@@ -4,7 +4,7 @@ La commission consultative des jeux comprend, outre son président, onze membres
 
 - le haut-commissaire ou son représentant ;
 
-- le président du gouvernement de la Polynésie française ou son représentant ;
+- le président de la Polynésie française ou son représentant ;
 
 - le président de l'assemblée de la Polynésie française ou son représentant ;
 

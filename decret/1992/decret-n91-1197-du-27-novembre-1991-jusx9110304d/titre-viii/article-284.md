@@ -4,8 +4,8 @@ L'avocat investi des fonctions de membre du gouvernement, ou du mandat de membre
 
 Il en est de même :
 
-a) De l'avocat investi des fonctions de membre du gouvernement ou du mandat de membre de l'assemblée de la Polynésie française pour les actes dirigés contre les communes, la Polynésie française et les établissements publics de ces collectivités ;
+a) De l'avocat investi des fonctions de président de la Polynésie française ou de ministre de la Polynésie française ou du mandat de représentant à l'assemblée de la Polynésie française pour les actes dirigés contre les communes, la Polynésie française et les établissements publics de ces collectivités ;
 
 b) De l'avocat investi des fonctions de membre du conseil territorial ou du mandat de membre de l'assemblée territoriale des îles Wallis et Futuna pour les actes dirigés contre le territoire, ses établissements publics et les circonscriptions territoriales.
 
-L'avocat investi d'un mandat de conseiller général dans la collectivité territoriale de Mayotte ou dans celle de Saint-Pierre-et-Miquelon ne peut, pendant la durée de ce mandat, accomplir aucun acte de sa profession directement ou indirectement contre la collectivité territoriale, les communes et leurs établissements publics.
+L'avocat investi d'un mandat de conseiller général à Mayotte ou dans celle de Saint-Pierre-et-Miquelon ne peut, pendant la durée de ce mandat, accomplir aucun acte de sa profession directement ou indirectement contre la collectivité départementale, les communes et leurs établissements publics.

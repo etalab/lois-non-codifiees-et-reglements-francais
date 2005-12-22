@@ -12,4 +12,4 @@ Pour l'application de la présente loi en Nouvelle-Calédonie et dans le territo
 
 5° "tribunaux de première instance" au lieu de "tribunaux de grande instance et d'instance" ;
 
-6° "congrès" (Nouvelle-Calédonie) ou "assemblée territoriale" (Polynésie française) au lieu de "conseil général".
+6° "congrès" (Nouvelle-Calédonie) ou "assemblée de la Polynésie française" au lieu de "conseil général".
