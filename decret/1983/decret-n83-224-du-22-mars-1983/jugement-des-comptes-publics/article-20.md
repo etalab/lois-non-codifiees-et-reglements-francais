@@ -1,6 +1,6 @@
 # Article 20
 
-L'exemplaire original du jugement est signé par le magistrat rapporteur, par le président de section ou le magistrat qui en exerce les fonctions s'il a été rendu par une section, et par le président de la chambre régionale des comptes.
+L'exemplaire original des jugements est signé par le magistrat rapporteur et par le président de la formation de jugement. Toutefois, lorsque la formation de jugement délibère hors la présence du rapporteur, le rapporteur ne signe pas le jugement, qui est, dans ce cas, signé par le greffier.
 
 Les jugements de la chambre régionale des comptes sont revêtus, s'il y a lieu, de la formule exécutoire.
 
