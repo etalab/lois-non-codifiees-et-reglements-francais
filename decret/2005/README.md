@@ -218,6 +218,7 @@
 - [Décret n°2005-331 du 6 avril 2005 (BUDF0500008D)](decret-n2005-331-du-6-avril-2005-budf0500008d)
 - [Décret n°2005-646 du 6 juin 2005 (DEFX0500051D)](decret-n2005-646-du-6-juin-2005-defx0500051d)
 - [Décret n°2005-9 du 6 janvier 2005 (FPPA0410020D)](decret-n2005-9-du-6-janvier-2005-fppa0410020d)
+- [Décret n°84-252 du 6 avril 1984](decret-n84-252-du-6-avril-1984)
 - [Décret n°88-552 du 6 mai 1988 (MCLB8800152D)](decret-n88-552-du-6-mai-1988-mclb8800152d)
 - [Décret n°2005-434 du 6 mai 2005 (SANH0521041D)](decret-n2005-434-du-6-mai-2005-sanh0521041d)
 - [Décret n°2005-446 du 6 mai 2005 (JUSK0540018D)](decret-n2005-446-du-6-mai-2005-jusk0540018d)
