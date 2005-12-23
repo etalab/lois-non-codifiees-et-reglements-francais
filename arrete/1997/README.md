@@ -270,7 +270,6 @@
 - [Arrêté du 9 juillet 1997 (MENU9702017A)](arrete-du-9-juillet-1997-menu9702017a)
 - [Arrêté du 9 octobre 1997 (DEFT9702041A)](arrete-du-9-octobre-1997-deft9702041a)
 - [Arrêté du 9 octobre 1997 (DEFT9702042A)](arrete-du-9-octobre-1997-deft9702042a)
-- [Arrêté du 9 octobre 1997 (MESP9722536A)](arrete-du-9-octobre-1997-mesp9722536a)
 - [Arrêté du 9 septembre 1997 (ECOI9700582A)](arrete-du-9-septembre-1997-ecoi9700582a)
 - [Arrêté du 9 septembre 1997 (ECOS9750033A)](arrete-du-9-septembre-1997-ecos9750033a)
 - [Arrêté du 9 septembre 1997 (MAEA9720354A)](arrete-du-9-septembre-1997-maea9720354a)
