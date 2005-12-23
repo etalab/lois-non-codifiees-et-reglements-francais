@@ -1237,7 +1237,6 @@
 - [Décret n° 2005-1069 du 30 août 2005 (INDI0505636D)](decret-n-2005-1069-du-30-aout-2005-indi0505636d)
 - [Décret n°2004-1533 du 30 décembre 2004 (MENF0402515D)](decret-n2004-1533-du-30-decembre-2004-menf0402515d)
 - [Décret n°2004-1534 du 30 décembre 2004 (INTD0400367D)](decret-n2004-1534-du-30-decembre-2004-intd0400367d)
-- [Décret n°2004-1535 du 30 décembre 2004 (SOCT0411957D)](decret-n2004-1535-du-30-decembre-2004-soct0411957d)
 - [Décret n°2004-1536 du 30 décembre 2004 (SOCT0412384D)](decret-n2004-1536-du-30-decembre-2004-soct0412384d)
 - [Décret n°2004-1537 du 30 décembre 2004 (SOCA0424353D)](decret-n2004-1537-du-30-decembre-2004-soca0424353d)
 - [Décret n°2004-1538 du 30 décembre 2004 (SANA0423614D)](decret-n2004-1538-du-30-decembre-2004-sana0423614d)
