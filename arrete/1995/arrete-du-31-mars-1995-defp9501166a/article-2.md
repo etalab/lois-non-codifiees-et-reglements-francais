@@ -32,4 +32,10 @@ Les unités visées à l'article 2 du décret du 31 mars 1995 susvisé sont les 
 
 - cabinet du ministre de la défense (cellule nucléaire) ;
 
-- direction du personnel militaire de la marine (bureau formation).
+- direction du personnel militaire de la marine (bureau formation) ;
+
+- état-major du commandement de la région maritime Atlantique (CECLANT, division sécurité, santé, environnement) ;
+
+- commandement de l'arrondissement maritime de Cherbourg (COMAR Cherbourg, division sécurité environnement, HSCT) ;
+
+- base navale de Cherbourg (BN Cherbourg, état-major) .
