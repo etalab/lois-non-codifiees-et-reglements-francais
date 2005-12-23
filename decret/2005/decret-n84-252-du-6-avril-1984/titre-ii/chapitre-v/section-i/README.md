@@ -1,4 +1,4 @@
-# SECTION I : OPERATIONS DE VOTE.
+# Section I : Opérations de vote
 
 - [Article 31](article-31.md)
 - [Article 32](article-32.md)
