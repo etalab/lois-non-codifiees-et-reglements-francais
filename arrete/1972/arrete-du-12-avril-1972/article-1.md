@@ -1,3 +1,0 @@
-# Article 1
-
-Pour obtenir exonération au titre de la fraction de la taxe d'apprentissage restant due après application de l'article 31 de la loi n. 71-576 du 16 juillet 1971 [*C.TRAV L118-3*] les assujettis à cette taxe doivent, conformément aux dispositions du décret n. 72-283 du 12 avril 1972, et pour la répartition des dépenses visées à l'article 5 dudit décret, observer l'un des barèmes figurant en annexe au présent arrêté. Ce barème est fixé pour chacune des branches d'activité professionnelle définies par l'I.N.S.E.E. par arrêté conjoint du ministre de l'éducation nationale, du ministre du développement industriel et scientifique, du ministre de l'agriculture et du ministre de l'économie et des finances, après avis des commissions consultatives professionnelles.
