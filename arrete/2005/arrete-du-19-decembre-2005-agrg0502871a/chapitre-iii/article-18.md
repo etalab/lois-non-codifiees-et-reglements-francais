@@ -1,0 +1,3 @@
+# Article 18
+
+Le document de circulation prévu par le règlement (CE) n° 21/2004 pour tout mouvement d'un ou de plusieurs animaux entre deux exploitations quel que soit leur date de naissance doit être conforme au modèle défini à la partie 7 de l'annexe du présent arrêté. Des informations supplémentaires peuvent être ajoutées pour autant qu'elles soient nettement séparées de celles prévues dans le modèle précité et qu'elles ne perturbent en rien leur lisibilité. Le maître d'oeuvre de l'identification doit être en mesure de mettre à disposition des documents de circulation à tout détenteur en faisant la demande.

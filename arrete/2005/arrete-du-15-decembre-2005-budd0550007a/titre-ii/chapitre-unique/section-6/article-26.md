@@ -1,0 +1,5 @@
+# Article 26
+
+1. Au moment de l'importation, de l'exportation, ou du placement sous l'un des régimes douaniers autorisés, et après avoir satisfait aux opérations de prise en charge des marchandises et de présentation en douane, le bénéficiaire valide une déclaration simplifiée informatisée et la transmet au bureau de douane suivant les modalités d'accès à l'application définies aux articles 2 et 3.
+
+2. La déclaration simplifiée informatisée peut être transmise de manière anticipée dans les conditions fixées dans des dispositions spécifiques ou mentionnées par la convention conclue en application de l'article 12. Dans ce cas, au moment de l'importation, de l'exportation ou du placement sous l'un des régimes douaniers autorisés, et après avoir satisfait aux opérations de prise en charge des marchandises et de présentation en douane, le bénéficiaire valide la déclaration simplifiée informatisée préalablement transmise suivant les modalités d'accès à l'application définies aux articles 2 et 3.

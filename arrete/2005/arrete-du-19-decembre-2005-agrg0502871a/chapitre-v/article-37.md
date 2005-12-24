@@ -1,0 +1,3 @@
+# Article 37
+
+Des modalités harmonisées d'application des missions des établissements de l'élevage sont précisées autant que de besoin par le cahier des procédures relatif à l'identification ovine et caprine validé par le ministère de l'agriculture et de la pêche. Ce document est consultable auprès des établissements de l'élevage, des directions départementales des services vétérinaires, des directions départementales de l'agriculture et de la forêt, de l'Institut de l'élevage et du bureau de l'identification et du contrôle des mouvements des animaux à la direction générale de l'alimentation du ministère de l'agriculture et de la pêche.

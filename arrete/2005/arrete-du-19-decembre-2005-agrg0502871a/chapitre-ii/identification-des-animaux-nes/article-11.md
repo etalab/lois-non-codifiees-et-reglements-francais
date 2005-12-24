@@ -1,0 +1,5 @@
+# Article 11
+
+En cas de perte d'un repère d'identification agréé ou dans le cas où un des deux repères est devenu illisible sur un animal identifié avec deux repères agréés, le détenteur doit lui apposer un repère de remplacement à l'identique agréé dans les meilleurs délais et en tout état de cause avant que l'animal ne quitte l'exploitation de détention. Dans l'attente de la pose du repère de remplacement à l'identique afin de pouvoir différer celle-ci d'un an au maximum, un repère de remplacement provisoire rouge agréé doit être apposé immédiatement à l'animal concerné. Dans les deux cas, il doit être réalisé une procédure d'enregistrement telle que définie à l'article 26 du présent arrêté. Cette procédure n'est pas applicable aux animaux identifiés avec un seul repère agréé conformément à l'article 9 du présent arrêté.
+
+Les modalités d'application du présent article et les conditions de circulation des animaux ainsi identifiés sont précisées aux parties 3 et 4 de l'annexe du présent arrêté.
