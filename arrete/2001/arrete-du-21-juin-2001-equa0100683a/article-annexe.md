@@ -294,7 +294,9 @@ Volume 4 :
 
 3.2. Obligations d'emport
 
-3.2.1. Transpondeur répondant au besoin de la surveillance élémentaire
+3.2.1. Types de surveillance.
+
+a) Transpondeur répondant au besoin de la surveillance élémentaire :
 
 Un transpondeur répondant au besoin de la surveillance élémentaire est un transpondeur mode S niveau 2 au moins avec alticodeur disposant de :
 
@@ -304,9 +306,33 @@ Un transpondeur répondant au besoin de la surveillance élémentaire est un tra
 
 - la diversité d'antenne pour les aéronefs dont la masse maximale est supérieure à 5 700 kg ou dont la vitesse vraie maximale de croisière est supérieure à 463 km/h (250 noeuds) ;
 
-- la transmission des avis de résolution (RA) émis par le système d'anti-abordage (ACAS), lorsque l'aéronef en est équipé.
+- la transmission des avis de résolution (RA) émis par le système d'antiabordage (ACAS), lorsque l'aéronef en est équipé.
 
-3.2.2.1. Jusqu'au 30 mars 2005.
+b) Transpondeur répondant au besoin de la surveillance enrichie :
+
+Un transpondeur répondant au besoin de la surveillance enrichie est un transpondeur mode S niveau 2 au moins avec alticodeur, conforme au document ED-73 B de l'EUROCAE, capable de transmettre au moins les paramètres bord suivants :
+
+- altitude sélectée ;
+
+- vitesse air (vitesse air indiquée ou nombre de Mach) ;
+
+- cap magnétique ;
+
+- vitesse verticale (taux de montée/descente baro-altimétrique ou baroinertiel) ;
+
+- angle de roulis ;
+
+- variation de l'angle de route ;
+
+- angle de route vraie (si ce paramètre n'est pas disponible, il peut être remplacé par la vitesse air vraie) ;
+
+- vitesse sol.
+
+c) Aéronef apte/inapte à la surveillance enrichie :
+
+Un aéronef est considéré comme apte à la surveillance enrichie si les 8 paramètres descendants mentionnés au 3.2.1 (b) ci-dessus peuvent être transmis. Si ce n'est pas le cas, il est considéré comme inapte à la surveillance enrichie.
+
+3.2.2.1. Jusqu'au 30 mars 2007.
 
 a) Aéronef dont le 1er certificat de navigabilité est délivré avant le 31 mars 2004.
 
@@ -316,13 +342,25 @@ b) Aéronef dont le 1er certificat de navigabilité est délivré à compter du 
 
 Tout aéronef dont le 1er certificat de navigabilité est délivré à compter du 31 mars 2004 est équipé d'un transpondeur répondant au besoin de la surveillance élémentaire conformément aux dispositions du paragraphe 3.2.1.
 
-3.2.2.2. A compter du 31 mars 2005.
+3.2.2.2. A compter du 31 mars 2007 :
 
-Tout aéronef est équipé d'un transpondeur répondant au besoin de la surveillance élémentaire conformément aux dispositions du paragraphe 3.2.1.
+a) Tout aéronef est équipé d'un transpondeur répondant au besoin de la surveillance élémentaire conformément aux dispositions du § 3.2.1 (a).
+
+b) Tout avion de plus de 5 700 kg ou ayant une vitesse vraie maximale de croisière supérieure à 463 km/h (250 kt) :
+
+- s'il est apte à la surveillance enrichie : est équipé d'un transpondeur répondant au besoin de la surveillance enrichie conformément aux dispositions du § 3.2.1 (b), pour pénétrer dans les espaces Mode S surveillance enrichie ;
+
+- s'il est inapte à la surveillance enrichie : se conforme aux exigences relatives à la surveillance élémentaire (cf. 3.2.2.2 [a]).
+
+Les espaces Mode S surveillance enrichie sont les espaces ou portions d'espace où un transpondeur Mode S répondant au besoin de la surveillance enrichie est obligatoire pour les aéronefs aptes à la surveillance enrichie. Ils sont portés à la connaissance des usagers par la voie de l'information aéronautique.
 
 3.2.2.3. Exemption.
 
-Jusqu'au 31 décembre 2008, les aéronefs d'Etat, équipés d'un transpondeur mode A + C avec alticodeur, sont exemptés des dispositions du paragraphe 3.2.2.1 et 3.2.2.2. Ils se conforment alors à des procédures particulières prévues à cet effet.
+Jusqu'au 31 mars 2009 les aéronefs d'Etat, équipés d'un transpondeur mode A + C avec alticodeur, sont exemptés des dispositions du paragraphe 3.2.2.1 et 3.2.2.2. Ils se conforment alors à des procédures particulières prévues à cet effet.
+
+3.2.2.4. Dérogations.
+
+Des dérogations aux dispositions des paragraphes 3.2.2.1 et 3.2.2.2 peuvent être accordées par l'autorité compétente. Les conditions de délivrance de ces dérogations et la procédure à suivre sont portées à la connaissance des usagers par la voie de l'information aéronautique.
 
 3.2.3. Aéronefs en vol VFR
 
