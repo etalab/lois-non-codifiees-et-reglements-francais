@@ -1,8 +1,8 @@
 # Article 2
 
-Sans préjudice des dispositions de l'article 18 de la loi du 30 décembre 1982 susvisée, ont un droit d'accès au réseau ferré national :
+Sans préjudice des dispositions de l'article 18 de la loi du 30 décembre 1982 susvisée, ont un droit d'accès au réseau ferré national tel que défini à l'article 1er :
 
-1° Les entreprises ferroviaires établies dans un Etat membre de l'Union européenne en vue d'exploiter des services de transport internationaux de marchandises sur les lignes appartenant au réseau transeuropéen de fret ferroviaire définies à l'annexe du présent décret et, à compter du 15 mars 2008, sur l'ensemble du réseau ferré national ;
+1° Les entreprises ferroviaires établies dans un Etat membre de l'Union européenne en vue d'exploiter des services de transport internationaux de marchandises ;
 
 2° Les entreprises ferroviaires établies dans un Etat membre de l'Union européenne en vue d'exploiter des services de transports combinés internationaux de marchandises ;
 

@@ -7,4 +7,3 @@
 - [TITRE V : VOIES DE RECOURS ADMINISTRATIFS.](titre-v)
 - [TITRE VIII : DISPOSITIONS DIVERSES.](titre-viii)
 - [Article 40](article-40.md)
-- [Annexes](annexes)
