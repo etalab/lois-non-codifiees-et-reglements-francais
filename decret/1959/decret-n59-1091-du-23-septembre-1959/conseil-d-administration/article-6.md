@@ -6,7 +6,7 @@ Le conseil d'administration délibère notamment sur :
 
 2° La convention à passer avec le syndicat et sur ses avenants ;
 
-3° Les questions relatives au statut du personnel et au règlement des retraites ;
+3° Les questions relatives au statut du personnel ;
 
 4° Les prévisions budgétaires et leurs révisions ;
 

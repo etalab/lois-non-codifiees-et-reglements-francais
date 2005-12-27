@@ -22,6 +22,6 @@ g) Déterminer l'emploi des fonds disponibles et le placement des réserves, dé
 
 h) Représenter la régie en justice et dans tous les actes de la vie civile ;
 
-i) Diriger l'ensemble des services, recruter et gérer le personnel dans le cadre du statut de celui-ci et du règlement des retraites.
+i) Diriger l'ensemble des services, recruter et gérer le personnel dans le cadre du statut de celui-ci.
 
 Il peut déléguer ses pouvoirs et sa signature.
