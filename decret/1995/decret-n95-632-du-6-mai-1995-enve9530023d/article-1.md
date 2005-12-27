@@ -28,13 +28,13 @@ Région 3
 
 Département 3
 
-Communes Usagers et personnes compétentes 10
+Communes 5 Usagers et personnes compétentes 11
 
 Etat 8
 
-Milieux socioprofessionnels 1
+Milieux socioprofessionnels 2
 
-Total 30
+Total 32
 
 BASSIN : Martinique
 
