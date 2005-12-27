@@ -449,6 +449,7 @@
 - [Arrêté du 19 août 2005 (MJSK0570176A)](arrete-du-19-aout-2005-mjsk0570176a)
 - [Arrêté du 19 décembre 2005 (AGRG0502871A)](arrete-du-19-decembre-2005-agrg0502871a)
 - [Arrêté du 19 décembre 2005 (DEFP0501536A)](arrete-du-19-decembre-2005-defp0501536a)
+- [Arrêté du 19 décembre 2005 (INTC0500882A)](arrete-du-19-decembre-2005-intc0500882a)
 - [Arrêté du 19 décembre 2005 (JUSB0510680A)](arrete-du-19-decembre-2005-jusb0510680a)
 - [Arrêté du 19 décembre 2005 (JUSB0510682A)](arrete-du-19-decembre-2005-jusb0510682a)
 - [Arrêté du 19 juillet 2005 (ECOM0520007A)](arrete-du-19-juillet-2005-ecom0520007a)

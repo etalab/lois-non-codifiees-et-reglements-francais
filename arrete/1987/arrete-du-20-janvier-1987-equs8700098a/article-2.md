@@ -15,3 +15,9 @@ Par bande de signalisation, on entend une bande d'une largeur au moins égale à
 - soit alternativement de surfaces rétroréfléchissantes blanches et rouges.
 
 Ces surfaces sont disposées telles que prévu aux figures de l'annexe II.
+
+L'orientation des bandes des figures de l'annexe II du présent arrêté correspond :
+
+- pour la figure 1, à une disposition pour l'avant gauche, l'arrière droit et le côté gauche du véhicule ;
+
+- pour la figure 2, à une disposition pour l'avant droit, l'arrière gauche et le côté droit du véhicule.

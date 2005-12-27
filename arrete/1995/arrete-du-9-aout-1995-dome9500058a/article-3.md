@@ -28,7 +28,9 @@ Le Comité de bassin du département de la Guyane comporte au moins :
 
 - un représentant d'une commune de moins de 5 000 habitants ;
 
-- un représentant d'une commune de l'intérieur.
+- un représentant d'une commune de l'intérieur ;
+
+- un représentant des communautés de communes.
 
 Le Comité de bassin du département de la Réunion comporte au moins :
 

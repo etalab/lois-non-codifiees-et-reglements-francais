@@ -8,6 +8,6 @@ Sont ainsi prioritaires sur le réseau ferré national, dans l'ordre suivant :
 
 - les services nationaux ou internationaux qui, sur tout ou partie de leur trajet, sont effectués sur des lignes du réseau ferré national spécifiquement construites pour eux ;
 
-- les services de transport internationaux de marchandises sur les lignes du réseau ferré national appartenant au Réseau transeuropéen du fret ferroviaire défini à l'annexe du présent décret ;
+- les services de transport internationaux de marchandises ;
 
 - les services effectués dans le cadre d'un contrat de service public passé avec une autorité organisatrice de transports.

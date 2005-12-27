@@ -1,0 +1,13 @@
+# Article 2
+
+Le taux de la cotisation à la charge de la Régie autonome des transports parisiens mentionnée au 1° du I de l'article 1er est déterminé dans les conditions suivantes :
+
+1° La caisse calcule à partir des déclarations et des informations dont elle dispose au titre de l'exercice précédent l'assiette des cotisations dues au titre de l'ensemble des salariés affiliés à la caisse ; l'assiette retenue, pour le régime général, est celle définie à l'article L. 242-1 du code de la sécurité sociale, et, pour les régimes de retraite complémentaire visés à l'article L. 921-4 du code de la sécurité sociale, par la réglementation et les accords en vigueur au sein de ces régimes ;
+
+2° Afin de déterminer les montants dus chaque année, la caisse applique à l'assiette mentionnée au 1° les taux en vigueur des cotisations à la charge des employeurs et des salariés dans le régime général et dans les régimes de retraite complémentaire ;
+
+3° Le taux provisionnel de la cotisation à la charge de la Régie autonome des transports parisiens est égal au rapport entre les montants des cotisations dues au régime général et aux régimes de retraite complémentaire et l'assiette de cotisations définie à l'article 2 du décret n° 2005-1636 du 26 décembre 2005 susvisé, déduction faite du taux de la cotisation à la charge des salariés. La caisse soumet les calculs conduisant à ce taux aux ministres chargé de la sécurité sociale et du budget avant le 31 janvier de chaque année ;
+
+4° Le taux provisionnel de la cotisation à la charge de la Régie autonome des transports parisiens pour un exercice est fixé par arrêté conjoint des ministres chargés de la sécurité sociale et du budget avant le 15 février de chaque année. La déclaration suivant cette échéance, en application des articles R. 243-6 et R. 243-6-1 du code de la sécurité sociale, donne lieu à une régularisation des sommes dues au titre des rémunérations versées à compter du 1er janvier de l'exercice ;
+
+5° Le taux définitif de la cotisation à la charge de la Régie autonome des transports parisiens est calculé, une fois l'année écoulée, par la caisse, à partir des éléments d'assiette mentionnés au 1° dont elle dispose pour cette année. Il est approuvé par l'arrêté mentionné au 4°. En cas de différence entre ce taux et le taux provisionnel, la caisse procède à une régularisation annuelle et la notifie auprès de la Régie autonome des transports parisiens avant le 1er mars de l'année suivant l'exercice en cause. Si le taux définitif est inférieur au taux provisionnel, les trop perçus par la caisse sont déduits, par la Régie autonome des transports parisiens, des sommes dont elle est redevable aux échéances suivantes.
