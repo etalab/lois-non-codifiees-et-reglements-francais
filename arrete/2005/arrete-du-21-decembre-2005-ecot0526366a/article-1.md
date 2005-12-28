@@ -1,0 +1,3 @@
+# Article 1
+
+Pour l'application des articles 2 à 4 du décret du 30 août 2005 susvisé, les biens, droits et obligations liés aux comptes, livrets et contrats de toute nature, ouverts ou conclus par La Poste au titre de la Caisse nationale d'épargne, sont transférés sur la base de leur valeur arrêtée en date de valeur du 31 décembre 2005, en tenant notamment compte de la date fixée, par la Caisse des dépôts et consignations et La Poste dans les conventions prévues à l'article 4, pour la dernière centralisation auprès de la Caisse des dépôts et consignations des fonds collectés au titre des comptes, livrets et contrats concernés, et selon des modalités dépendant de la nature des contreparties associées aux encours.

@@ -28,7 +28,7 @@ Ces examens, convenablement identifiés, peuvent être fournis par le candidat s
 
 Les résultats de l'examen sont consignés dans le dossier médical figurant en annexe 1 (1) :
 
-- toute contre-indication médicale définitive à l'entraînement sportif fait dispenser le sujet d'effectuer les tests physiques et conduit au prononcé de l'inaptitude ;
+- toute contre-indication médicale définitive à l'entraînement sportif constatée à la suite de la visite de recrutement et de titularisation conduit au prononcé de l'inaptitude ;
 
 - un avis spécialisé peut être demandé après information du médecin-chef ;
 

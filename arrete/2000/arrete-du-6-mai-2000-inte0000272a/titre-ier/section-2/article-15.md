@@ -2,7 +2,7 @@
 
 Le contrôle prévu à l'article précédent tient compte :
 
-- du résultat des épreuves physiques et fonctionnelles effectuées durant l'année de stage ;
+- du résultat des épreuves fonctionnelles effectuées durant l'année de stage ;
 
 - de la progression dans les résultats des tests médico-physiologiques effectués à cette occasion ;
 

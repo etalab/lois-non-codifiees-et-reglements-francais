@@ -2,7 +2,7 @@
 
 La visite de maintien en activité conduit à établir une aptitude, qui regroupe :
 
-- l'aptitude réglementaire aux fonctions de sapeur-pompier ;
+- l'aptitude réglementaire aux fonctions ou aux missions de sapeur-pompier ;
 
 - la non-contre-indication à la pratique de l'activité physique et des compétitions sportives statutaires ;
 
