@@ -4,7 +4,7 @@ c) Le point de la plage réfléchissante le plus proche du plan longitudinal de 
 
 d) La plage éclairante doit se trouver à une distance du sol comprise entre 0,40 mètre et 0.90 mètre. Cette distance est mesu­rée sur le véhicule à vide.
 
-Lorsqu'il n'est pas possible pratiquement de respecter la hauteur maximale  de 0,90 - mètre, l'une ou l'autre des dispositions sui­vantes doit être adoptée : Soit deux dispositifs placés le plus bas possible et dont la hau­teur au-dessus du sol n'excède pas 1,20 mètre ;
+Lorsqu'il n'est pas possible pratiquement de respecter la hauteur maximale  de 0,90 - mètre, l'une ou l'autre des dispositions sui­vantes doit être adoptée : Soit deux dispositifs placés le plus bas possible et dont la hau­teur au-dessus du sol n'excède pas 1,20 mètre. Cette hauteur est portée à 1,50 mètre pour les machines agricoles automotrices ;
 
 Soit quatre dispositifs dont :
 
@@ -12,6 +12,6 @@ Deux respectent la hauteur maximale de 0,90 mètre sans être
 
 astreints aux prescriptions des alinéas a et b ci-dessus ;
 
-Deux sont situés à une distance au-dessus du sol n'excédant pas 2,10 mètres.
+Deux sont situés à une distance au-dessus du sol n'excédant pas 2,10 mètres. Cette hauteur est portée à 2,30 mètres pour les machines agricoles automotrices.
 
 Les dispositifs réfléchissants prévus ci-dessus peuvent être amovibles à la condition de pouvoir être fixés rigidement à la partie arrière du véhicule.

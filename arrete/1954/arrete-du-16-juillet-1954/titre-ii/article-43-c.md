@@ -2,7 +2,9 @@
 
 Les lampes équipant ces feux doivent également être conformes à un type agréé.
 
-c) La plage éclairante doit se trouver à une distance du sol comprise entre 0,35 mètre et 1,90 mètre ou 2,10 mètres pour les véhicules pour lesquels il n'est pas possible pratiquement de res­pecter la limite de 1,90 mètre. Cette distance doit être mesurée sur le véhicule à vide.
+c) La plage éclairante doit se trouver à une distance du sol comprise entre  0,35 mètre et 1,90 mètre ou 2,10 mètres pour les véhicules pour lesquels il  n'est pas possible pratiquement de respecter la limite de 1,90 mètre. Pour les  machines agricoles automotrices, la hauteur de 2,10 mètres est portée à 2,30  mètres si la forme de la carrosserie ne permet pas de respecter 1,90 mètre.
+
+Ces distances doivent être mesurées sur le véhicule à vide.
 
 d) Pour les véhicules dont la forme extérieure est dissymé­trique, l'une ou l'autre des dispositions suivantes doit être adoptée :
 

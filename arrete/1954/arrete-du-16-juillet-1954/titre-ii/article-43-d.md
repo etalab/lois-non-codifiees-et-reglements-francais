@@ -6,6 +6,8 @@ La hauteur de 1,50 mètre prévue à l'article 28 ci-dessus est portée à 1,90 
 
 La hauteur de 2,30 mètres prévue à l'article 28 ci-dessus est également adoptée pour les indicateurs de direction avant du schéma B, ainsi que pour les indicateurs de direction du schéma A.
 
+Pour les machines agricoles automotrices, la hauteur de 2,30 mètres prévue à  l'article 28 du présent arrêté s'applique également aux indicateurs de direction  des schémas A, B, C et D.
+
 La hauteur de 1,20 mètre prévue au dernier alinéa de l'arti­cle 29 ci-dessus est portée à 1,50 mètre.
 
 Les indicateurs de direction de catégorie 3 et de catégorie 4 prévues à l'article 29 pour les schémas A et B peuvent être respecti­vement remplacés par des indicateurs de direction agréés pour les catégories 1 et 2 et pour les catégories 1 et 5.

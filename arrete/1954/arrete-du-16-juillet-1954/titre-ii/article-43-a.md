@@ -16,11 +16,11 @@ Exceptionnellement, comprise entre 1,20 mètre et 2,10 mètres pour certaines ma
 
 b) Les feux de croisement et de position supplémentaires facul­tatifs prévus par l'article R. 150 du code de la route sont admis sur les véhicules équipés pour recevoir des machines ou outils frontaux sous réserve des aménagements suivants
 
-La hauteur d'installation ne doit pas dépasser trois mètres;
+La hauteur d'installation ne doit pas dépasser trois mètres; Cette hauteur est portée à 3,60 mètres pour les machines agricoles automotrices.
 
 Le branchement électrique doit être conçu de telle manière que les deux paires de feux de croisement ne puissent être allumées à la fois ;
 
-Les feux de croisement supplémentaires sont incorporés mutuellement (même plage éclairante, sources lumineuses distinctes) ou groupés (plages éclairantes et source lumineuse distinctes, même boîtier) avec les feux de position supplémentaires.
+Les feux de croisement supplémentaires peuvent être doublés indépendamment des  feux de positions supplémentaires.
 
 2. Emplacement en longueur.
 
