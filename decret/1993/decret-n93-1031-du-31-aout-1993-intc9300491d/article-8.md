@@ -1,3 +1,3 @@
 # Article 8
 
-Le ministre d'Etat, ministre de l'intérieur et de l'aménagement du territoire, le ministre d'Etat, garde des sceaux, ministre de la justice, le ministre du budget, porte-parole du Gouvernement, le ministre de la fonction publique et le ministre des départements et territoires d'outre-mer sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.
+Pour permettre la continuité de l'exécution des missions de sécurité et de paix publiques sur un territoire urbain, il peut être créé par décret une circonscription interdépartementale de sécurité publique dont les limites excèdent celles d'un département. La circonscription est placée sous l'autorité du directeur de la sécurité publique de celui des départements auquel elle se rattache principalement.
