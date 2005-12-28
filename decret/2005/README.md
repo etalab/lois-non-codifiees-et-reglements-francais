@@ -1073,6 +1073,7 @@
 - [Décret n°2005-848 du 26 juillet 2005 (MAEC0500028D)](decret-n2005-848-du-26-juillet-2005-maec0500028d)
 - [Décret n°2005-862 du 26 juillet 2005 (INDI0505257D)](decret-n2005-862-du-26-juillet-2005-indi0505257d)
 - [Décret n°2005-880 du 26 juillet 2005 (MCCB0500371D)](decret-n2005-880-du-26-juillet-2005-mccb0500371d)
+- [Décret n°87-948 du 26 novembre 1987 (BUDB8720020D)](decret-n87-948-du-26-novembre-1987-budb8720020d)
 - [Décret n°93-501 du 26 mars 1993 (ECOC9300030D)](decret-n93-501-du-26-mars-1993-ecoc9300030d)
 - [Décret n°82-440 du 26 mai 1982](decret-n82-440-du-26-mai-1982)
 - [Décret n°2005-539 du 26 mai 2005 (PRMX0508448D)](decret-n2005-539-du-26-mai-2005-prmx0508448d)
