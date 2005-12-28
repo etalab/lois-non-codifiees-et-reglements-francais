@@ -1171,7 +1171,6 @@
 - [Décret n°2005-609 du 27 mai 2005 (EQUA0500735D)](decret-n2005-609-du-27-mai-2005-equa0500735d)
 - [Décret n°2005-610 du 27 mai 2005 (EQUP0500708D)](decret-n2005-610-du-27-mai-2005-equp0500708d)
 - [Décret n°2005-611 du 27 mai 2005 (AGRA0501046D)](decret-n2005-611-du-27-mai-2005-agra0501046d)
-- [Décret n°2005-612 du 27 mai 2005 (AGRP0500211D)](decret-n2005-612-du-27-mai-2005-agrp0500211d)
 - [Décret n°2005-613 du 27 mai 2005 (DEVD0530031D)](decret-n2005-613-du-27-mai-2005-devd0530031d)
 - [Décret n°2005-614 du 27 mai 2005 (MCCT0500290D)](decret-n2005-614-du-27-mai-2005-mcct0500290d)
 - [Décret n°2005-624 du 27 mai 2005 (JUSB0510184D)](decret-n2005-624-du-27-mai-2005-jusb0510184d)

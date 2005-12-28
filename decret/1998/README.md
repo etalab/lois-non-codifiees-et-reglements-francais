@@ -297,7 +297,6 @@
 - [Décret n°98-157 du 11 mars 1998 (ATEE9860018D)](decret-n98-157-du-11-mars-1998-atee9860018d)
 - [Décret n°98-158 du 11 mars 1998 (FPPA9800017D)](decret-n98-158-du-11-mars-1998-fppa9800017d)
 - [Décret n°98-159 du 11 mars 1998 (MESS9820014D)](decret-n98-159-du-11-mars-1998-mess9820014d)
-- [Décret n°98-161 du 11 mars 1998 (AGRP9702390D)](decret-n98-161-du-11-mars-1998-agrp9702390d)
 - [Décret n°98-179 du 11 mars 1998 (INTM9800003D)](decret-n98-179-du-11-mars-1998-intm9800003d)
 - [Décret n°98-459 du 11 juin 1998 (DEFE9755004D)](decret-n98-459-du-11-juin-1998-defe9755004d)
 - [Décret n°98-74 du 11 février 1998 (MESP9820043D)](decret-n98-74-du-11-fevrier-1998-mesp9820043d)

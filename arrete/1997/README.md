@@ -227,7 +227,6 @@
 - [Arrêté du 7 octobre 1997 (AGRA9701515A)](arrete-du-7-octobre-1997-agra9701515a)
 - [Arrêté du 7 octobre 1997 (AGRS9702050A)](arrete-du-7-octobre-1997-agrs9702050a)
 - [Arrêté du 7 mai 1997 (AGRM9700952A)](arrete-du-7-mai-1997-agrm9700952a)
-- [Arrêté du 7 mai 1997 (EQUS9700463A)](arrete-du-7-mai-1997-equs9700463a)
 - [Arrêté du 7 mai 1997 (EQUS9700835A)](arrete-du-7-mai-1997-equs9700835a)
 - [Arrêté du 7 mai 1997 (MAEA9720164A)](arrete-du-7-mai-1997-maea9720164a)
 - [Arrêté du 7 mai 1997 (MAEA9720165A)](arrete-du-7-mai-1997-maea9720165a)

@@ -293,7 +293,6 @@
 - [Décret n°87-714 du 26 août 1987 (EQUC8700024D)](decret-n87-714-du-26-aout-1987-equc8700024d)
 - [Décret n°87-867 du 26 octobre 1987 (FPPX8700145D)](decret-n87-867-du-26-octobre-1987-fppx8700145d)
 - [Décret n°87-947 du 26 novembre 1987 (BUDB8720019D)](decret-n87-947-du-26-novembre-1987-budb8720019d)
-- [Décret n°87-948 du 26 novembre 1987 (BUDB8720020D)](decret-n87-948-du-26-novembre-1987-budb8720020d)
 - [Décret n°87-955 du 26 novembre 1987 (JUSB8710435D)](decret-n87-955-du-26-novembre-1987-jusb8710435d)
 - [Décret n°87-966 du 26 novembre 1987 (ECOM8730135D)](decret-n87-966-du-26-novembre-1987-ecom8730135d)
 - [Décret n°87-352 du 26 mai 1987 (ASET8703364D)](decret-n87-352-du-26-mai-1987-aset8703364d)

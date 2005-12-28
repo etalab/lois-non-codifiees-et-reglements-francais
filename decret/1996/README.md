@@ -359,7 +359,6 @@
 - [Décret n°96-216 du 14 mars 1996 (AGRS9501472D)](decret-n96-216-du-14-mars-1996-agrs9501472d)
 - [Décret n°96-217 du 14 mars 1996 (ACVA9510064D)](decret-n96-217-du-14-mars-1996-acva9510064d)
 - [Décret n°96-532 du 14 juin 1996 (TASS9621420D)](decret-n96-532-du-14-juin-1996-tass9621420d)
-- [Décret n°96-533 du 14 juin 1996 (MENF9600792D)](decret-n96-533-du-14-juin-1996-menf9600792d)
 - [Décret n°96-538 du 14 juin 1996 (FCEM9630053D)](decret-n96-538-du-14-juin-1996-fcem9630053d)
 - [Décret n°96-541 du 14 juin 1996 (MCCX9500188D)](decret-n96-541-du-14-juin-1996-mccx9500188d)
 - [Décret n°96-551 du 14 juin 1996 (TASS9620703D)](decret-n96-551-du-14-juin-1996-tass9620703d)
