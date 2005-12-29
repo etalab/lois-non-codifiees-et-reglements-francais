@@ -1,4 +1,4 @@
-# Section 1 : Des recours prévus à l'alinéa 1er de l'article 15 de l'ordonnance du 1er décembre 1986 modifiée.
+# Section 1 : Des recours prévus à l'article L. 464-8 du code de commerce.
 
 - [Article 2](article-2.md)
 - [Article 3](article-3.md)

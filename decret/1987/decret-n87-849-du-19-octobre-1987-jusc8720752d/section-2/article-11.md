@@ -1,3 +1,3 @@
 # Article 11
 
-Le greffe de la cour transmet aussitôt pour information une copie de l'assignation au Conseil de la concurrence qui a la faculté de présenter des observations.
+Le Conseil de la concurrence et le ministre chargé de l'économie, lorsqu'il n'est pas partie à l'instance, ont la faculté de présenter des observations écrites et orales. Ces dernières sont présentées à l'audience à leur demande ou à la demande du premier président ou de la cour.
