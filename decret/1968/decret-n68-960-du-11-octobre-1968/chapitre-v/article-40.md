@@ -1,8 +1,8 @@
 # Article 40
 
-I - La gestion de la caisse de retraites est confiée à une commission de dix-neuf membres ainsi constituée :
+I. - La gestion de la caisse de retraites est confiée à une commission de dix-huit membres ainsi constituée :
 
-a) Quatre membres nommés par arrêté conjoint des ministres chargés de la culture, de la sécurité sociale et du budget, dont deux membres du Conseil d'Etat en activité ou honoraires ;
+a) Trois membres nommés par arrêté conjoint des ministres chargés de la culture, de la sécurité sociale et du budget, dont un membre du Conseil d'Etat ;
 
 b) Membres de droit :
 
