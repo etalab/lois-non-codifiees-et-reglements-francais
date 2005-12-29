@@ -12,6 +12,6 @@ A peine d'irrecevabilité, la demande expose les motifs sur lesquels elle se fon
 
 5° Le bulletin n° 3 du casier judiciaire de la personne concernée si elle est majeure ;
 
-6° Un exemplaire des journaux contenant les insertions prescrites à l'article 3.
+6° Un exemplaire des journaux contenant les insertions prescrites à l'article 3 ;
 
-7° Alinéa abrogé.
+7° Lorsque la demande pour le compte d'un mineur n'est pas présentée par ses deux parents exerçant en commun l'autorité parentale, l'autorisation du juge des tutelles ou, en cas d'ouverture de la tutelle, celle du conseil de famille.
