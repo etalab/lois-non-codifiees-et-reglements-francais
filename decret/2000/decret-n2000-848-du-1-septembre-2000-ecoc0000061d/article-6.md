@@ -1,6 +1,6 @@
 # Article 6
 
-L'agrément des vins de pays est prononcé, au vu des éléments du dossier et des résultats de la commission de dégustation, par le directeur de l'ONIVINS. Celui-ci notifie la décision au demandeur avec copie à l'OPA, et tient à disposition des services de la DGCCRF et de la DGDDI les informations concernant les notifications d'agrément.
+L'agrément des vins de pays est prononcé, au vu des éléments du dossier et des résultats de la commission de dégustation, par le directeur de l'ONIVINS. Celui-ci notifie la décision au demandeur avec copie à l'OPA, et tient à disposition des services de la DGCCRF et de la DGDDI les informations concernant les notifications d'agrément. Toutefois, la notification d'agrément n'est délivrée aux vins de pays, soumis à des mesures de régulation de marché au sens de la réglementation communautaire, étendues par arrêté interministériel, qu'à la levée desdites mesures.
 
 Un vin non agréé peut être ajourné ou refusé.
 
