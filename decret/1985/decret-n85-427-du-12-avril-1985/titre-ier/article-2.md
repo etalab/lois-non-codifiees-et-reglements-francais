@@ -1,5 +1,3 @@
 # Article 2
 
-Le ministre chargé des universités exerce à l’égard de l’école
-les compétences attribuées au recteur par la loi du 26 janvier 1984
-précitée et par les décrets pris pour son application.
+L'école est placée sous la tutelle du ministre chargé de l'enseignement supérieur qui exerce, à son égard, les compétences attribuées au recteur d'académie, chancelier des universités, par le code de l'éducation et les textes pris pour son application.

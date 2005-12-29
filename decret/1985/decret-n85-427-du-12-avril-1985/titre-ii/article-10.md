@@ -8,9 +8,9 @@ Le vote par correspondance est admis pour les élections au conseil d'administra
 
 Il est institué une commission de contrôle des opérations électorales présidée par un membre des tribunaux administratifs désigné par le président du tribunal administratif de Paris.
 
-La commission est composée, outre son président, d'au moins deux assesseurs choisis par celui-ci et d'un représentant désigné par le ministre chargé des universités.
+La commission est composée, outre son président, d'au moins deux assesseurs choisis par celui-ci et d'un représentant désigné par le ministre chargé de l'enseignement supérieur.
 
-La commission de contrôle des opérations électorales connaît de toutes les contestations présentées par les électeurs, par le directeur de l'école ou par le ministre sur la préparation et le déroulement des opérations de vote, ainsi que sur la proclamation des résultats du scrutin.
+La commission de contrôle des opérations électorales connaît de toutes les contestations présentées par les électeurs, par le président de l'école ou par le ministre sur la préparation et le déroulement des opérations de vote, ainsi que sur la proclamation des résultats du scrutin.
 
 Elle est saisie au plus tard le cinquième jour suivant la proclamation des résultats.
 

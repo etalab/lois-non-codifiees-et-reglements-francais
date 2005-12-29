@@ -4,7 +4,7 @@ A. - Fonctions exercées en administration centrale, à la préfecture de police
 
 1° Chef du service de l'inspection générale de l'administration.
 
-2° Secrétaire général du ministère, directeur général et directeur d'administration centrale, directeur de la préfecture de police (services administratifs) ou directeur de la préfecture de Paris.
+2° Secrétaire général du ministère, directeur général et directeur d'administration centrale, secrétaire général du comité interministériel de contrôle de l'immigration, directeur de la préfecture de police (services administratifs) ou directeur de la préfecture de Paris.
 
 3° Chef de service, délégué ou directeur d'un service ou organisme de l'administration centrale du ministère de l'intérieur non rattaché à une direction générale ou à une direction d'administration centrale et mentionné dans le décret fixant l'organisation du ministère.
 
@@ -42,6 +42,16 @@ Préfet délégué à la sécurité et à la défense.
 
 2° Représentant du Gouvernement dans un territoire d'outre-mer ou dans une collectivité territoriale d'outre-mer.
 
-3° Fonctionnaires titulaires du corps des sous-préfets ou détachés dans ce corps : sous-préfet occupant un poste territorial classé en 1re catégorie au sens de l'article 4 du décret n° 64-260 du 14 mars 1964 portant statut des sous-préfets ou un poste de secrétaire général de préfecture dans un département d'outre-mer.
+3° Fonctionnaires titulaires du corps des sous-préfets ou détachés dans ce corps :
+
+a) Sous-préfet occupant un poste territorial classé en 1re catégorie au sens de l'article 4 du décret n° 64-260 du 14 mars 1964 modifié portant statut des sous-préfets ;
+
+b) Sous-préfet occupant l'un des postes territoriaux suivants :
+
+- secrétaire général de la préfecture des départements de la Haute-Corse et de Guyane ;
+
+- sous-préfet des arrondissements suivants : Sartène, Corte et Calvi ;
+
+- directeur du cabinet des préfets de Corse-du-Sud et de Haute-Corse.
 
 4° Secrétaire général de la représentation du Gouvernement dans un territoire d'outre-mer.
