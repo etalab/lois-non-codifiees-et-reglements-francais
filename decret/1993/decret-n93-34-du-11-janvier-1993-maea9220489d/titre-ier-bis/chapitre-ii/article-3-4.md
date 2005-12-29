@@ -1,8 +1,8 @@
 # Article 3-4
 
-Les candidats admis au concours sont nommés agents de protection des réfugiés et apatrides de 2e classe stagiaires par arrêté du ministre des affaires étrangères. Ils accomplissent un stage d'une durée d'un an selon les modalités définies par arrêté du ministre des affaires étrangères, après avis du directeur de l'Office français de protection des réfugiés et apatrides.
+Les candidats admis au concours sont nommés agents de protection des réfugiés et apatrides stagiaires par arrêté du ministre des affaires étrangères. Ils accomplissent un stage d'une durée d'un an selon les modalités définies par arrêté du ministre des affaires étrangères, après avis du directeur général de l'Office français de protection des réfugiés et apatrides.
 
-Toutefois, les candidats qui avaient auparavant la qualité de fonctionnaire ou d'agent de l'Etat, des collectivités territoriales et des établissements publics qui en dépendent depuis un an au moins sont titularisés dès leur nomination. Si l'application des dispositions des articles 5 et 6 du décret n° 70-79 du 27 janvier 1970 mentionné ci-dessus leur est moins favorable, ils conservent dans la limite de deux années l'ancienneté de services qu'ils ont acquise en cette qualité.
+Toutefois, les candidats qui avaient auparavant la qualité de fonctionnaire ou d'agent de l'Etat, des collectivités territoriales et des établissements publics qui en dépendent depuis un an au moins sont titularisés dès leur nomination. Si l'application des dispositions des articles 3 à 6 du décret n° 2005-1228 du 29  septembre 2005 précité leur est moins favorable, ils conservent dans la limite de deux années l'ancienneté de services qu'ils ont acquise en cette qualité.
 
 A l'issue du stage, les stagiaires dont les services ont donné satisfaction sont titularisés.
 

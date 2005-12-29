@@ -1,6 +1,6 @@
 # Article 3-12
 
-Les candidats admis au concours externe sont nommés adjoints de protection des réfugiés et apatrides stagiaires par arrêté du ministre des affaires étrangères. Ils accomplissent un stage d'une durée d'un an selon les modalités définies par arrêté du ministre des affaires étrangères, après avis du directeur de l'Office français de protection des réfugiés et apatrides.
+Les candidats admis au concours externe sont nommés adjoints de protection des réfugiés et apatrides stagiaires par arrêté du ministre des affaires étrangères. Ils accomplissent un stage d'une durée d'un an selon les modalités définies par arrêté du ministre des affaires étrangères, après avis du directeur général  de l'Office français de protection des réfugiés et apatrides.
 
 A l'issue du stage, les stagiaires dont les services ont donné satisfaction sont titularisés.
 
