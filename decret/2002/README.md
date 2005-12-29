@@ -152,6 +152,7 @@
 - [Décret n°2002-137 du 30 janvier 2002 (ECOP0100916D)](decret-n2002-137-du-30-janvier-2002-ecop0100916d)
 - [Décret n°2002-1611 du 30 décembre 2002 (BUDR0205006D)](decret-n2002-1611-du-30-decembre-2002-budr0205006d)
 - [Décret n°2002-661 du 30 avril 2002 (MESG0220789D)](decret-n2002-661-du-30-avril-2002-mesg0220789d)
+- [Décret n°2002-689 du 30 avril 2002 (ECOC0200059D)](decret-n2002-689-du-30-avril-2002-ecoc0200059d)
 - [Décret n°2002-704 du 30 avril 2002 (MCCB0200143D)](decret-n2002-704-du-30-avril-2002-mccb0200143d)
 - [Décret n°2002-705 du 30 avril 2002 (ATEN0200030D)](decret-n2002-705-du-30-avril-2002-aten0200030d)
 - [Décret n°99-747 du 30 août 1999 (MENS9901656D)](decret-n99-747-du-30-aout-1999-mens9901656d)
