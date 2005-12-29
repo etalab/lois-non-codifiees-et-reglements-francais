@@ -316,7 +316,6 @@
 - [Décret n°96-623 du 12 juillet 1996 (TASC9611082D)](decret-n96-623-du-12-juillet-1996-tasc9611082d)
 - [Décret n°96-635 du 12 juillet 1996 (BUDD9640005D)](decret-n96-635-du-12-juillet-1996-budd9640005d)
 - [Décret n°96-716 du 12 août 1996 (INTA9600205D)](decret-n96-716-du-12-aout-1996-inta9600205d)
-- [Décret n°96-722 du 12 août 1996 (ECOP9600299D)](decret-n96-722-du-12-aout-1996-ecop9600299d)
 - [Décret n°96-729 du 12 août 1996 (TASP9621986D)](decret-n96-729-du-12-aout-1996-tasp9621986d)
 - [Décret n°96-793 du 12 septembre 1996 (TASS9623156D)](decret-n96-793-du-12-septembre-1996-tass9623156d)
 - [Décret n°96-794 du 12 septembre 1996 (INTA9600247D)](decret-n96-794-du-12-septembre-1996-inta9600247d)

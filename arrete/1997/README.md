@@ -759,7 +759,6 @@
 - [Arrêté du 22 mai 1997 (DOME9700022A)](arrete-du-22-mai-1997-dome9700022a)
 - [Arrêté du 22 mai 1997 (DOME9700023A)](arrete-du-22-mai-1997-dome9700023a)
 - [Arrêté du 22 mai 1997 (DOME9700024A)](arrete-du-22-mai-1997-dome9700024a)
-- [Arrêté du 22 mai 1997 (INTC9700224A)](arrete-du-22-mai-1997-intc9700224a)
 - [Arrêté du 22 mai 1997 (MCCK9700284A)](arrete-du-22-mai-1997-mcck9700284a)
 - [Arrêté du 22 mai 1997 (TASA9721639A)](arrete-du-22-mai-1997-tasa9721639a)
 - [Arrêté du 22 mai 1997 (TASA9721742A)](arrete-du-22-mai-1997-tasa9721742a)
