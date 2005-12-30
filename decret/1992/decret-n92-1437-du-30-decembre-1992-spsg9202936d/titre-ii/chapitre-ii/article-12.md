@@ -1,9 +1,13 @@
 # Article 12
 
-Les règles générales d'organisation des concours, la nature et le programme des épreuves sont fixés par arrêté conjoint du ministre chargé de la santé et du ministre chargé de la fonction publique.
+Les candidats admis au concours externe sont nommés adjoints sanitaires stagiaires et accomplissent un stage d'une durée d'un an.
 
-Les conditions d'organisation des concours et la composition du jury sont fixées par arrêté du ministre chargé de la santé.
+Pendant l'année de stage, les stagiaires perçoivent la rémunération afférente au 1er échelon du grade d'adjoint sanitaire.
 
-Le jury établit pour chaque concours la liste des candidats admis par ordre de mérite ainsi que des listes complémentaires d'admission.
+A l'issue du stage, ceux dont les services ont donné satisfaction sont titularisés.
 
-Le nombre des emplois qui peuvent être pourvus par la nomination des candidats inscrits sur les listes complémentaires ne peut excéder la moitié du nombre des emplois offerts au titre de chaque concours. Les nominations de ces candidats respectent la proportion fixée entre les concours par l'article 11 ci-dessus.
+Les adjoints sanitaires stagiaires dont le stage n'aura pas été jugé satisfaisant sont soit autorisés à accomplir un nouveau et dernier stage dans la limite d'une année au plus, soit réintégrés dans leur grade d'origine, soit licenciés s'ils n'avaient pas préalablement la qualité de fonctionnaire.
+
+La durée du stage est prise en compte pour l'avancement d'échelon dans la limite d'une année.
+
+Les adjoints sanitaires recrutés par application du deuxième alinéa de l'article 9 ci-dessus sont titularisés dès leur nomination.

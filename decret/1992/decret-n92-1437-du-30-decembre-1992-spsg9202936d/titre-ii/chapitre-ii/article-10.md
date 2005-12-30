@@ -1,5 +1,9 @@
 # Article 10
 
-Les adjoints sanitaires sont recrutés par concours dans les conditions fixées aux articles 11 et suivants.
+Deux concours distincts sont ouverts :
 
-Dans la limite du cinquième des titularisations prononcées dans le corps des adjoints sanitaires, il est procédé à des nominations au choix parmi les membres du corps des agents sanitaires justifiant d'au moins dix ans de services publics, inscrits sur une liste d'aptitude établie au vu d'un rapport circonstancié du chef de service et après avis de la commission administrative paritaire.
+1° Pour la moitié des postes mis au concours, un concours externe ouvert aux candidats titulaires du brevet d'études du premier cycle ou d'un diplôme homologué au niveau V des titres et diplômes de l'enseignement technologique ;
+
+2° Pour la moitié des postes mis au concours, un concours interne ouvert aux fonctionnaires ou agents publics de l'Etat, des collectivités territoriales ou des établissements publics qui en dépendent ayant accompli au moins une année de services publics effectifs au 1er janvier de l'année du concours.
+
+Les emplois qui n'ont pas été pourvus par la voie de l'un des deux concours peuvent être attribués aux candidats de l'autre concours.

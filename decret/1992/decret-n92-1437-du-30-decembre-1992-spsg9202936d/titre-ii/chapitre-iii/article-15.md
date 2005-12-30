@@ -1,27 +1,15 @@
 # Article 15
 
-Peuvent être promus au grade d'adjoint sanitaire qualifié, au choix, par voie d'inscription à un tableau annuel d'avancement établi après avis de la commission administrative paritaire, les adjoints sanitaires principaux comptant au moins deux ans d'ancienneté dans le 9e échelon de leur grade.
+Le grade d'adjoint sanitaire qualifié comporte trois échelons.
 
-Les agents promus au grade d'adjoint sanitaire qualifié sont reclassés dans ce grade conformément au tableau ci-après :
+La durée moyenne et la durée minimale du temps passé dans chacun des échelons sont fixées ainsi qu'il suit :
 
-SITUATION ANCIENNE
+ÉCHELONS
 
-SITUATION NOUVELLE
+DURÉE
 
-9e échelon
+Moyenne Minimale
 
-1er échelon.
+2e  échelon : 4 ans 3 ans
 
-1/2 de l'ancienneté acquise au-delà de deux ans.
-
-10e échelon
-
-1er échelon.
-
-1/2 de l'ancienneté acquise majoré d'un an.
-
-11e échelon
-
-2e échelon.
-
-Ancienneté acquise dans la limite de quatre ans.
+1er échelon : 3 ans 2 ans

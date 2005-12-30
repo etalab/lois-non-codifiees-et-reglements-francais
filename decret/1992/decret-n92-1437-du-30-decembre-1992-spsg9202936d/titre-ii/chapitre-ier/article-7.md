@@ -1,3 +1,5 @@
 # Article 7
 
-Il est créé un corps d'adjoints sanitaires classé dans la catégorie C prévue à l'article 29 de la loi du 11 janvier 1984 susvisée et régi par les dispositions du décret du 27 janvier 1970 susvisé et par celles du présent décret. Ses membres sont nommés par arrêté du ministre chargé de la santé.
+Le corps des adjoints sanitaires comporte les grades d'adjoint sanitaire, d'adjoint sanitaire principal et d'adjoint sanitaire qualifié.
+
+Le nombre maximum d'adjoints sanitaires pouvant être promus au grade d'adjoint sanitaire principal et le nombre maximum d'adjoints sanitaires principaux pouvant être promus au grade d'adjoint sanitaire qualifié sont déterminés en application du décret n° 2005-1090 du 1er septembre 2005 relatif à l'avancement de grade dans les corps des administrations de l'Etat.

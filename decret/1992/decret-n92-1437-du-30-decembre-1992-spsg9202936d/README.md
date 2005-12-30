@@ -4,4 +4,3 @@
 - [TITRE II : CORPS DES ADJOINTS SANITAIRES](titre-ii)
 - [TITRE III : DISPOSITIONS COMMUNES](titre-iii)
 - [Article 19](article-19.md)
-- [Article 30](article-30.md)

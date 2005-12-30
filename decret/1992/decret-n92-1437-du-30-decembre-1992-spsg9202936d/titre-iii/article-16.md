@@ -1,4 +1,4 @@
-# Article 17
+# Article 16
 
 Les dispositions du décret du 14 juin 1985 modifié susvisé sont applicables aux membres des corps régis par le présent décret.
 
