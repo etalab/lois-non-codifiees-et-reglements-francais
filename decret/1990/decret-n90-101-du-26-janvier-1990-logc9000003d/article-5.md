@@ -8,17 +8,13 @@ Les prêts, dont les créances échues sont impayées depuis plus de six mois, s
 
 2° Titres de participation :
 
-a) Une provision pour dépréciation des titres de participation est comptabilisée à concurrence de la différence entre leur valeur comptable au bilan et la valeur de la quote-part de l'association dans la situation nette (positive ou nulle) de la société concernée ;
+a) Une provision pour dépréciation des titres de participation est comptabilisée à concurrence de la différence entre leur valeur comptable au bilan et la valeur de la quote-part de l'association dans les capitaux propres (positifs ou nuls) de la société concernée ;
 
-b) Au cas où la société dans laquelle l'association détient une participation a une situation nette négative, une provision pour risques est constituée à concurrence de la quote-part de l'association dans cette situation nette.
+b) Au cas où la société dans laquelle l'association détient une participation a des capitaux propres négatifs, une provision pour risques est constituée à concurrence de la quote-part de l'association dans ces capitaux propres.
 
 3° Créances rattachées à des participations :
 
-Les créances dont une partie est échue et impayée depuis plus de six mois sont provisionnées de la manière suivante :
-
-100 p. 100 de la partie échue,
-
-et en outre pour les sociétés dont la situation nette est négative, 100 p. 100 du capital restant dû exigible à cinq ans.
+Les créances dont une partie est échue et impayée depuis plus de six mois sont provisionnées de la manière suivante : 100 % de la partie échue et en outre, pour les sociétés dont les capitaux propres sont négatifs, 100 % du capital restant dû exigible à cinq ans.
 
 4° Prêts aux personnes morales :
 
