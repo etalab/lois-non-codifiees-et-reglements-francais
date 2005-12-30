@@ -213,6 +213,7 @@
 - [Décret n°88-448 du 26 avril 1988 (ASET8803314D)](decret-n88-448-du-26-avril-1988-aset8803314d)
 - [Décret n°88-1011 du 27 octobre 1988 (AGRP8801834D)](decret-n88-1011-du-27-octobre-1988-agrp8801834d)
 - [Décret n°88-1153 du 27 décembre 1988 (JUSC8820841D)](decret-n88-1153-du-27-decembre-1988-jusc8820841d)
+- [Décret n°88-454 du 27 avril 1988 (ASEA8800443D)](decret-n88-454-du-27-avril-1988-asea8800443d)
 - [Décret n°88-88 du 27 janvier 1988 (ASES8701745D)](decret-n88-88-du-27-janvier-1988-ases8701745d)
 - [Décret n°87-361 du 27 mai 1987 (AGRS8700949D)](decret-n87-361-du-27-mai-1987-agrs8700949d)
 - [Décret n°78-721 du 28 juin 1978](decret-n78-721-du-28-juin-1978)
