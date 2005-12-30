@@ -5,4 +5,5 @@
 - [Titre II : Dispositions relatives au président du conseil d'administration et au directeur général.](titre-ii)
 - [Titre III : Dispositions relatives au commissaire du Gouvernement.](titre-iii)
 - [Titre IV : Dispositions finales.](titre-iv)
+- [Article 11-1](article-11-1.md)
 - [Article 16](article-16.md)

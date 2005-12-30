@@ -1,0 +1,3 @@
+# Article 9
+
+L'allocation de solidarité spécifique à taux majoré servie aux allocataires âgés de cinquante-cinq ans ou plus et justifiant de vingt années d'activité salariée, aux allocataires âgés de cinquante-sept ans et demi ou plus justifiant de dix années d'activité salariée ainsi qu'aux allocataires justifiant d'au moins 160 trimestres validés dans les régimes d'assurance vieillesse ou de périodes reconnues équivalentes, au titre du mois de novembre 2005 ou, à défaut, au titre du mois de décembre 2005, est augmentée de 219,53 euros, sauf lorsque l'allocataire bénéficie de l'aide exceptionnelle mentionnée à l'article 6.

@@ -1,0 +1,7 @@
+# Article 1
+
+Dans les services de la direction générale de l'aviation civile, du bureau d'enquêtes et d'analyses pour la sécurité de l'aviation civile et de l'Ecole nationale de l'aviation civile, en application de l'article 6 de la loi du 30 juin 2004 susvisée, la journée de solidarité est effectuée selon les modalités suivantes :
+
+1. Pour les cycles de travail n° 1 et 2 définis à l'article 2 de l'arrêté du 12 septembre 2001 relatif à l'aménagement et à la réduction du temps de travail des services travaillant en horaires de bureau à la direction générale de l'aviation civile, à l'inspection générale de l'aviation civile et de la météorologie et au bureau enquêtes-accidents : sept heures fractionnées en heures effectuées au-delà des horaires du cycle de travail habituel, à raison au minimum d'une heure de dépassement par jour ;
+
+2. Pour les cycles de travail définis à l'article 2 de l'arrêté du 12 septembre 2001 susvisé, autres que les cycles de travail n° s 1 et 2, ainsi que pour le cycle de travail défini à l'article 9 de l'arrêté du 12 septembre 2001 pris en application du décret n° 2000-815 du 25 août 2000 relatif à l'aménagement et à la réduction du temps de travail dans la fonction publique de l'Etat à la direction générale de l'aviation civile, à l'inspection générale de l'aviation civile et de la météorologie, au bureau enquêtes-accidents et à l'Ecole nationale de l'aviation civile : une journée décomptée sur le nombre de jours de repos intitulés jours d'aménagement et de réduction du temps de travail.
