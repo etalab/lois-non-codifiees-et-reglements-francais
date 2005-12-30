@@ -673,6 +673,7 @@
 - [Décret n°2005-820 du 18 juillet 2005 (AGRF0501369D)](decret-n2005-820-du-18-juillet-2005-agrf0501369d)
 - [Décret n°2005-825 du 18 juillet 2005 (EQUA0500936D)](decret-n2005-825-du-18-juillet-2005-equa0500936d)
 - [Décret n°2005-826 du 18 juillet 2005 (EQUA0500935D)](decret-n2005-826-du-18-juillet-2005-equa0500935d)
+- [Décret n°96-1009 du 18 novembre 1996 (ENVP9640051D)](decret-n96-1009-du-18-novembre-1996-envp9640051d)
 - [Décret n°2005-484 du 18 mai 2005 (PRMX0508386D)](decret-n2005-484-du-18-mai-2005-prmx0508386d)
 - [Décret n°2005-488 du 18 mai 2005 (BUDF0520188D)](decret-n2005-488-du-18-mai-2005-budf0520188d)
 - [Décret n°2005-489 du 18 mai 2005 (EQUX0500092D)](decret-n2005-489-du-18-mai-2005-equx0500092d)
