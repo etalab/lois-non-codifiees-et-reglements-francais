@@ -345,7 +345,6 @@
 - [Décret n°2005-965 du 9 août 2005 (SANS0521423D)](decret-n2005-965-du-9-aout-2005-sans0521423d)
 - [Décret n°2005-966 du 9 août 2005 (SANS0521929D)](decret-n2005-966-du-9-aout-2005-sans0521929d)
 - [Décret n°2005-967 du 9 août 2005 (AGRP0501090D)](decret-n2005-967-du-9-aout-2005-agrp0501090d)
-- [Décret n°95-657 du 9 mai 1995 (INTX9500789D)](decret-n95-657-du-9-mai-1995-intx9500789d)
 - [Décret n°2005-435 du 9 mai 2005 (SANS0520306D)](decret-n2005-435-du-9-mai-2005-sans0520306d)
 - [Décret n°2005-436 du 9 mai 2005 (ECOX0400297D)](decret-n2005-436-du-9-mai-2005-ecox0400297d)
 - [Décret n°2005-437 du 9 mai 2005 (ECOP0400952D)](decret-n2005-437-du-9-mai-2005-ecop0400952d)

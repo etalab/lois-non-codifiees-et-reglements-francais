@@ -451,7 +451,6 @@
 - [Décret n°98-480 du 17 juin 1998 (JUSF9850039D)](decret-n98-480-du-17-juin-1998-jusf9850039d)
 - [Décret n°96-433 du 17 mai 1996 (DEFP9601378D)](decret-n96-433-du-17-mai-1996-defp9601378d)
 - [Décret n°96-1001 du 18 novembre 1996 (EQUS9600746D)](decret-n96-1001-du-18-novembre-1996-equs9600746d)
-- [Décret n°96-1009 du 18 novembre 1996 (ENVP9640051D)](decret-n96-1009-du-18-novembre-1996-envp9640051d)
 - [Décret n°96-1130 du 18 décembre 1996 (JUSC9620943D)](decret-n96-1130-du-18-decembre-1996-jusc9620943d)
 - [Décret n°96-1131 du 18 décembre 1996 (MENF9602812D)](decret-n96-1131-du-18-decembre-1996-menf9602812d)
 - [Décret n°96-1137 du 18 décembre 1996 (MCCB9600612D)](decret-n96-1137-du-18-decembre-1996-mccb9600612d)
