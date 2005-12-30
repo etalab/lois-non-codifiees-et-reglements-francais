@@ -14,7 +14,7 @@ V. - Les dispositions de l'article 4-8 du décret du 6 septembre 1989 susvisé m
 
 VI. - Les organismes de placement collectif en valeurs mobilières ayant conclu des instruments financiers à terme avant le 22 novembre 2003 ont au plus tard jusqu'à la date d'échéance de ces instruments pour se conformer aux dispositions de la section 2 du chapitre Ier du décret du 6 septembre 1989 susvisé modifié par le présent décret.
 
-VII. - Les organismes de placement collectif en valeurs mobilières ont jusqu'au 31 décembre 2005 pour se conformer aux dispositions du 1° au 3° du II de l'article 2 du décret du 6 septembre 1989 susvisé modifié par le présent décret.
+VII. - Les organismes de placement collectif en valeurs mobilières ont jusqu'au 31 mars 2007 pour se conformer aux dispositions du 1° au 3° du II de l'article 2 du décret du 6 septembre 1989 susvisé modifié par le présent décret.
 
 VIII. - Les dispositions du b du 2° du II de l'article 13 du décret du 6 septembre 1989 susvisé modifié par le présent décret ne s'appliquent qu'à compter du 1er janvier 2007.
 
