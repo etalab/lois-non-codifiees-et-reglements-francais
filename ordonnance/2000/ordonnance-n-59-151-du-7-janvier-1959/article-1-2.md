@@ -1,7 +1,5 @@
 # Article 1-2
 
-En contrepartie des charges résultant de l'application de l'article 1er, la région d'Ile-de-France reçoit chaque année de l'Etat une compensation forfaitaire indexée.
+Les charges résultant pour la région d'Ile-de-France de l'application de l'article 1er jusqu'à l'entrée en vigueur de l'article 38 de la loi n° 2004-809 du 13 août 2004 relative aux libertés et responsabilités locales donnent lieu à compensation.
 
-La compensation visée à l'alinéa précédent fait l'objet d'une révision lorsque des modifications des relations entre le syndicat et les entreprises publiques de transport ont une incidence significative sur la contribution de la région d'Ile-de-France prévue par l'article 1er et ont pour origine des dispositions législatives ou réglementaires spécifiques au transport de voyageurs.
-
-Un décret en Conseil d'Etat fixe les conditions d'application des deux alinéas précédents et notamment de l'indexation de la compensation mentionnée au premier alinéa. Il fixe également les conditions dans lesquelles un bilan sera effectué à l'issue d'une période de trois ans après la publication de la loi n° 2000-1208 du 13 décembre 2000 relative à la solidarité et au renouvellement urbains.
+A compter de 2006, le montant de cette compensation est égal au double de la contribution versée par la région d'Ile-de-France au titre du premier semestre 2005 au Syndicat des transports d'Ile-de-France.
