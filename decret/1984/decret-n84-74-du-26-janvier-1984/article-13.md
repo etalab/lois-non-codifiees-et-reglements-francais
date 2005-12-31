@@ -4,6 +4,8 @@
 
 a) Des marchés d'un montant égal ou supérieur aux seuils prévus aux articles 123 (1°) et 321 (1°) du code des marchés publics passés par les personnes soumises aux dispositions des livres II et III de ce code ;
 
-b) Des contrats soumis aux obligations de publicité et de mise en concurrence définies au titre II de la loi n° 91-3 du 3 janvier 1991.    Sauf dans le cas où les normes visées à l'alinéa précédent constituent la transposition d'une norme européenne ou d'une spécification technique commune, l'obligation prévue au précédent alinéa n'autorise pas les personnes responsables du marché ou du contrat à écarter les soumissions conformes à des normes en vigueur dans un autre Etat membre de la Communauté économique européenne et justifiant d'une équivalence avec les normes françaises homologuées.    2° (alinéa abrogé).
+b) (alinéa abrogé).
+
+2° (alinéa abrogé).
 
 3° Les clauses, spécifications techniques et cahiers des charges des marchés et contrats visés au présent article ne peuvent mentionner des produits d'une fabrication ou d'une provenance déterminée, ou des procédés particuliers à certaines entreprises, et ne peuvent se référer à des brevets ou types, indications d'origine ou de provenance, marques au sens du titre Ier du livre VII du code de la propriété intellectuelle, sauf lorsqu'il n'est pas possible de donner une description de l'objet du marché ou du contrat sans ces références. Dans ce dernier cas, de telles références sont autorisées lorsqu'elles sont accompagnées de la mention "ou équivalent".
