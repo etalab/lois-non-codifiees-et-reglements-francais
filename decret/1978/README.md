@@ -8,7 +8,6 @@
 - [Décret n°78-526 du 3 avril 1978](decret-n78-526-du-3-avril-1978)
 - [Décret n°78-704 du 3 juillet 1978](decret-n78-704-du-3-juillet-1978)
 - [Décret n°78-1138 du 5 décembre 1978](decret-n78-1138-du-5-decembre-1978)
-- [Décret n°78-1136 du 6 décembre 1978](decret-n78-1136-du-6-decembre-1978)
 - [Décret n°78-241 du 6 mars 1978](decret-n78-241-du-6-mars-1978)
 - [Décret n°78-1145 du 7 décembre 1978](decret-n78-1145-du-7-decembre-1978)
 - [Décret n° 78-252 du 8 mars 1978](decret-n-78-252-du-8-mars-1978)
