@@ -16,6 +16,8 @@ Un revêtement au sol différencié doit être prévu au droit des bateaux pour 
 
 Lorsqu'un aménagement est prévu sur le domaine routier pour permettre le stationnement des véhicules, au moins un emplacement sur cinquante doit être réservé aux personnes handicapées, qui doivent pouvoir y accéder aisément. Lorsque cet aménagement s'inscrit dans le cadre d'un projet global de stationnement, le nombre d'emplacements réservés est calculé sur la base de l'ensemble du projet.
 
+En outre, sur la voie publique ou privée ouverte à la circulation publique, les emplacements de stationnement réservés aux personnes titulaires de la carte de stationnement prévue à l'article L. 241-3-2 du code de l'action sociale et des familles sont directement accessibles sans nécessité de recourir à des dispositifs protégeant leur accès.
+
 4° Feux de signalisation :
 
 Les feux de signalisation tricolores équipant les passages doivent comporter un dispositif conforme aux normes en vigueur permettant aux non-voyants de connaître la période où il est possible aux piétons de traverser les voies de circulation.
