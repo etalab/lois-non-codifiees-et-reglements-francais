@@ -7,3 +7,5 @@ Cette décision ne peut intervenir que sur un poste effectivement prévu au budg
 Les conventions visées au premier alinéa prévoient des dispositions relatives à l'exercice par les intéressés de leur activité à temps partiel. Elles prévoient par ailleurs que les intéressés sont rémunérés en fonction du volume et des caractéristiques propres de leur clientèle.
 
 Les personnels visés au présent article ne peuvent recevoir au titre des prestations qu'ils dispensent dans le cadre du présent décret d'autres rémunérations en espèces ou en nature que celles prévues par la convention collective les concernant, sous peine de révocation prononcée par le conseil d'administration de la caisse régionale de la sécurité sociale dans les mines.
+
+Un avenant aux conventions collectives visées à l'article 76 peut prévoir, à partir d'une date donnée, l'application d'une autre convention collective nationale pour les personnels recrutés à compter de cette même date.
