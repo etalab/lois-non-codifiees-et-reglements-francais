@@ -10,19 +10,19 @@ Au cours de leur transport, les viandes fraîches provenant d'un atelier de déc
 
 - mentionne clairement, pour les viandes congelées, le mois et l'année de congélation ;
 
-- comporte pour les viandes issues d'animaux de l'espèce bovine âgés de moins de douze mois et contenant de l'os vertébral la mention suivante : "Viandes issues de bovins âgés de moins de douze mois non soumis à l'obligation de retrait de la colonne vertébrale" ;
+- comporte, pour les viandes issues d'animaux de l'espèce bovine âgés de vingt-quatre mois et moins et contenant de l'os vertébral, la mention suivante : "Viandes issues de bovins âgés de vingt-quatre mois et moins non soumis à l'obligation de retrait de la colonne vertébrale" ;
 
 - pour les viandes destinées à la Finlande et à la Suède, comporte une des mentions suivantes :
 
-- le test visé à l'article 5, paragraphe 3, point a, de la directive 64/433/CEE a été effectué ;
+- "le test visé à l'article 5, paragraphe 3, point a, de la directive 64/433/CEE a été effectué" ;
 
 ou
 
-- les viandes sont destinées à la transformation ;
+- "les viandes sont destinées à la transformation" ;
 
 ou
 
-- les viandes proviennent d'un établissement soumis à un programme tel que visé à l'article 5, paragraphe 3, point c, de la directive 64/433/CEE.
+- "les viandes proviennent d'un établissement soumis à un programme tel que visé à l'article 5, paragraphe 3, point c, de la directive 64/433/CEE.
 
 Ce document est conservé par le destinataire pendant une période minimale d'un an pour pouvoir être présenté, à leur demande, aux agents des services vétérinaires.
 

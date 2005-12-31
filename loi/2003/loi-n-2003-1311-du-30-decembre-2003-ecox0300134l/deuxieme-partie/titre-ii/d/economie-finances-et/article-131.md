@@ -15,3 +15,5 @@ VI. - Le bénéfice des dispositions du présent article ne peut être cumulé, 
 VII. - Le droit à l'exonération est subordonné à la condition que l'entreprise ait rempli ses obligations de déclaration et de paiement à l'égard de l'organisme de recouvrement des cotisations de sécurité sociale et d'allocations familiales.
 
 VIII. - Un décret détermine les modalités d'application du présent article.
+
+IX. - Les services chargés du recouvrement des cotisations sociales exonérées et compensées par le budget de l'Etat au titre du présent article sont tenus d'adresser au ministère responsable du programme sur lequel les crédits destinés à la compensation sont inscrits, chaque année avant le 30 juin de l'année suivant l'exercice concerné, les informations suivantes concernant l'entreprise : raison sociale, adresse du siège social, montant des cotisations exonérées, nombre de salariés concernés.

@@ -20,7 +20,9 @@ Lorsque, par délibérations concordantes, des communes décident, ou ont décid
 
 Lorsqu'une commune adhère à un établissement public de coopération intercommunale qui perçoit la taxe professionnelle en lieu et place de ses communes membres, ce dernier lui est substitué dans l'accord conventionnel qu'elle a conclu antérieurement.
 
-Pour l'application des huit alinéas précédents, le produit de taxe professionnelle s'entend du produit des rôles généraux majoré, jusqu'au 31 décembre 2003, de la compensation prévue au I du D de l'article 44 de la loi de finances pour 1999 (n° 98-1266 du 30 décembre 1998).
+Pour l'application des huit alinéas précédents, le produit de la taxe professionnelle s'entend du produit des rôles généraux majoré, à compter du 1er janvier 2006, et sauf délibérations contraires concordantes de la commune et de l'établissement public de coopération intercommunale concernés, de la part, correspondant à ce produit, du montant prévu au 3° de l'article L. 2334-7 du code général des collectivités territoriales, au titre du I du D de l'article 44 de la loi de finances pour 1999 (n° 98-1266 du 30 décembre 1998). Cette part évolue chaque année selon l'indice fixé par le comité des finances locales.
+
+Pour l'application aux conventions signées à compter du 1er janvier 2004 des huit premiers alinéas, le produit de la taxe professionnelle s'entend du produit des rôles généraux.
 
 III Un établissement public de coopération intercommunale à fiscalité additionnelle, ou à fiscalité additionnelle et à taxe professionnelle de zone, peut instituer dans ses statuts une dotation de solidarité au profit de ses communes membres ou d'établissements publics de coopération intercommunale à fiscalité propre limitrophes. Cette dotation est calculée par référence à un certain pourcentage du produit de taxe professionnelle ou du produit des quatre taxes perçu par l'établissement public de coopération intercommunale ; elle est répartie d'après des critères définis dans les statuts de l'établissement public de coopération intercommunale.
 
@@ -30,6 +32,6 @@ Ces critères sont notamment déterminés en fonction :
 
 - de l'écart du revenu par habitant de la commune au revenu moyen par habitant sur le territoire de l'établissement public de coopération intercommunale ;
 
-- de l'insuffisance de potentiel fiscal par habitant de la commune au regard du potentiel fiscal communal moyen par habitant sur le territoire de l'établissement public de coopération intercommunale.
+- de l'insuffisance de potentiel fiscal par habitant de la commune au regard du potentiel fiscal ou financier communal moyen par habitant sur le territoire de l'établissement public de coopération intercommunale.
 
 Des critères complémentaires peuvent être choisis par le conseil.

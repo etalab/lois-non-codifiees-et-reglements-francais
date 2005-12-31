@@ -1,0 +1,3 @@
+# Article 127
+
+Sous réserve des décisions de justice passées en force de chose jugée et des instances en cours à la date du 7 décembre 2005, les agents du ministère chargé de l'équipement relevant du règlement du 14 mai 1973 régissant les personnels non titulaires du laboratoire central des ponts et chaussées et des centres d'études techniques de l'équipement sont réputés avoir été rétribués depuis leur engagement sur la base des salaires pratiqués dans le commerce et l'industrie pour l'application des dispositions relatives à l'indemnité de résidence et l'intégration d'une partie de celle-ci dans le traitement. Le règlement du 14 mai 1973 est validé en tant que sa légalité serait mise en cause sur le fondement de l'incompétence de l'auteur de cet acte.

@@ -34,7 +34,7 @@ Pour chacune des années 1996, 1997 et 1998, le montant de la dotation institué
 
 Pour chacune des années 1999, 2000, 2001, 2002 et 2003 le taux d'évolution de la dotation instituée au premier alinéa du présent paragraphe est celui qui permet de respecter la norme d'évolution fixée au I de l'article 57 de la loi de finances pour 1999 (n° 98-1266 du 30 décembre 1998), compte tenu du montant total des autres dotations énumérées au même I.
 
-En 2004 et en 2005, le taux d'évolution de la dotation instituée au premier alinéa du présent paragraphe est celui qui permet de respecter la norme d'évolution fixée au II de l'article 57 de la loi de finances pour 2004 (n° 2003-1311 du 30 décembre 2003), compte tenu du montant total des autres dotations énumérées au même II.
+En 2004, en 2005 et en 2006, le taux d'évolution de la dotation instituée au premier alinéa du présent paragraphe est celui qui permet de respecter la norme d'évolution fixée au II de l'article 57 de la loi de finances pour 2004 (n° 2003-1311 du 30 décembre 2003), compte tenu du montant total des autres dotations énumérées au même II.
 
 Pour les années 1999, 2000, 2001 et 2002 toute diminution de cette dotation par rapport au montant de l'année précédente est modulée de telle sorte que supportent une diminution égale à la moitié de la diminution moyenne de la dotation de compensation telle qu'elle résulte de l'application de l'alinéa précédent :
 
@@ -51,6 +51,14 @@ Cette modulation s'applique au sein de chaque catégorie de collectivité territ
 Alinéa modificateur
 
 Pour le calcul en 2003 du montant de la dotation instituée au premier alinéa du présent IV, le montant de cette même dotation au titre de 2002, tel qu'il résulte de l'application des alinéas précédents, est minoré de 126,075 millions d'euros.
+
+Pour 2006, la mise en oeuvre du douzième alinéa du présent IV ne peut réduire le montant de l'allocation perçue l'année précédente en compensation de la perte de recettes résultant de l'application des dispositions du II de l'article 18 de la loi de finances rectificative pour 1982 (n° 82-540 du 28 juin 1982) par :
+
+a) Les communes qui remplissent, au titre de l'année précédente, les conditions d'éligibilité à la dotation de solidarité urbaine et de cohésion sociale prévue à l'article L. 2334-15 du code général des collectivités territoriales ;
+
+b) Les communes qui remplissent, au titre de l'année précédente, les conditions d'éligibilité à la première fraction de la dotation de solidarité rurale prévue à l'article L. 2334-21 du même code.
+
+Les compensations versées à l'ensemble des communes en application du II de l'article 13 de la loi de finances rectificative pour 1982 précitée et du troisième alinéa du IV du présent article ainsi qu'à celles des communes autres que celles mentionnées à l'alinéa précédent en application du II de l'article 18 de la loi de finances rectificative pour 1982 précitée sont réduites à due concurrence.
 
 IV bis - A compter de 1992, la dotation prévue au premier alinéa du IV est majorée afin de compenser, dans les conditions ci-après, la perte de recettes qui résulte, chaque année, pour les collectivités locales et leurs groupements dotés d'une fiscalité propre créés avant le 1er janvier 1987, des dispositions de l'article 1469 A bis et du dernier alinéa du II de l'article 1478 du code général des impôts.
 

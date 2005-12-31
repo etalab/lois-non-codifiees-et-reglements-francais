@@ -12,6 +12,8 @@
 - [Loi n° 2005-1579 du 19 décembre 2005 (SANX0500246L)](loi-n-2005-1579-du-19-decembre-2005-sanx0500246l)
 - [Loi n° 2005-158 du 23 février 2005 (DEFX0300218L)](loi-n-2005-158-du-23-fevrier-2005-defx0300218l)
 - [Loi n° 2005-159 du 23 février 2005 (MAEX0300170L)](loi-n-2005-159-du-23-fevrier-2005-maex0300170l)
+- [Loi n° 2005-1719 du 30 décembre 2005 (ECOX0500239L)](loi-n-2005-1719-du-30-decembre-2005-ecox0500239l)
+- [Loi n° 2005-1720 du 30 décembre 2005 (ECOX0500273L)](loi-n-2005-1720-du-30-decembre-2005-ecox0500273l)
 - [Loi n° 2005-270 du 24 mars 2005 (DEFX0400144L)](loi-n-2005-270-du-24-mars-2005-defx0400144l)
 - [Loi n° 2005-296 du 31 mars 2005 (MRTX0508094L)](loi-n-2005-296-du-31-mars-2005-mrtx0508094l)
 - [Loi n° 2005-32 du 18 janvier 2005 (SOCX0400145L)](loi-n-2005-32-du-18-janvier-2005-socx0400145l)

@@ -100,19 +100,21 @@ n) Les viandes qui ont été traitées aux radiations ionisantes ou ultra-violet
 
 o) Les viandes présentant une odeur sexuelle prononcée.
 
-p) Les matériels à risque spécifiés suivants :
+Les matériels à risque spécifiés suivants :
 
-i) Pour l'espèce bovine (y compris les espèces Bubalus bubalus et Bison bison) :
+i) Pour l'espèce bovine (y compris les espèces Bubalus bubalus et Bison bison) ;
 
-- le crâne, à l'exclusion de la mandibule, y compris l'encéphale et les yeux, la colonne vertébrale, à l'exclusion des vertèbres caudales, des apophyses épineuses et transverses des vertèbres cervicales, thoraciques et lombaires et de la crête sacrée médiane et des ailes du sacrum, mais y compris les ganglions rachidiens et la moelle épinière, des bovins âgés de plus de douze mois ;
+- le crâne, à l'exclusion de la mandibule, y compris l'encéphale et les yeux, et la moelle épinière des bovins âgés de plus de douze mois ;
 
-- les amygdales, les intestins du duodénum au rectum, et le mesentère des bovins de tous âges.
+- la colonne vertébrale, à l'exclusion des vertèbres caudales, des apophyses épineuses et transverses des vertèbres cervicales, thoraciques et lombaires et de la crête sacrée médiane et des ailes du sacrum, mais y compris les ganglions rachidiens, des bovins âgés de plus de vingt-quatre mois ;
+
+- les amygdales, les intestins du duodénum au rectum, et le mésentère, des bovins de tous âges.
 
 L'élimination des amygdales des bovins de tous âges est effectuée en procédant à une coupe transversale de la langue en avant du processus lingual de l'os basihyoïde.
 
 ii) Pour les espèces ovine et caprine :
 
-- le crâne, y compris les yeux, mais à l'exclusion de l'encéphale, des ovins et caprins âgés de moins de six mois ;
+- le crâne, y compris les yeux mais à l'exclusion de l'encéphale, des ovins et caprins âgés de moins de six mois ;
 
 - le crâne, y compris l'encéphale et les yeux, des ovins et caprins âgés de six mois et plus ;
 

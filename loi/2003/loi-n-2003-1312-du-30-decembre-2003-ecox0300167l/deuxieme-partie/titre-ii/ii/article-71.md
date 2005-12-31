@@ -436,11 +436,11 @@ La circonstance qu'un produit ou une prestation qui est pris en compte pour le c
 
 VII. - Le taux de la taxe est fixé comme suit :
 
-1° Pour les produits des secteurs de la mécanique, des matériels et consommables de soudage, et du décolletage : 0,082 % ;
+1° Pour les produits des secteurs de la mécanique, des matériels et consommables de soudage, et du décolletage : 0,091 % ;
 
 2° Pour les produits du secteur de la construction métallique :
 
-0,225 % ;
+0,25 % ;
 
 3° Pour les produits du secteur des matériels aérauliques et thermiques : 0,14 %.
 

@@ -6,7 +6,7 @@ Les personnes morales à l'exception des partis ou groupements politiques ne peu
 
 L'association de financement ou le mandataire financier délivre au donateur un reçu dont un décret en Conseil d'Etat fixe les conditions d'établissement et d'utilisation. Ce décret détermine également les modalités selon lesquelles les reçus délivrés pour les dons d'un montant égal ou inférieur à 3 000 euros consentis par les personnes physiques ne mentionnent pas la dénomination du parti ou groupement bénéficiaire.
 
-Tout don de plus de 150 euros consenti à une association de financement ou à un mandataire financier d'un parti politique doit être versé par chèque.
+Tout don de plus de 150 euros consenti à une association de financement ou à un mandataire financier d'un parti politique doit être versé, à titre définitif et sans contrepartie, soit par chèque, soit par virement, prélèvement automatique ou carte bancaire.
 
 Aucune association de financement ou aucun mandataire financier d'un parti politique ne peut recevoir, directement ou indirectement, des contributions ou aides matérielles d'un Etat étranger ou d'une personne morale de droit étranger.
 

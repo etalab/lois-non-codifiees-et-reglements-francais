@@ -16,6 +16,10 @@ Les contrats d'objectifs et de moyens déterminent notamment, dans le respect de
 
 Le contrat d'objectifs et de moyens de la société France Télévisions détermine les mêmes données pour chacune des sociétés France 2, France 3, France 5 et Réseau France outre-mer et des filiales mentionnées au dernier alinéa du I de l'article 44.
 
+Avant leur signature, les contrats d'objectifs et de moyens sont transmis aux commissions chargées des affaires culturelles et des finances de l'Assemblée nationale et du Sénat. Ils peuvent faire l'objet d'un débat au Parlement. Les commissions peuvent formuler un avis sur ces contrats d'objectifs et de moyens dans un délai de six semaines.
+
+Les sociétés Radio France, Radio France Internationale et Arte-France ainsi que l'Institut national de l'audiovisuel transmettent chaque année, avant la discussion du projet de loi de règlement, aux commissions chargées des affaires culturelles et des finances de l'Assemblée nationale et du Sénat un rapport sur l'exécution de leur contrat d'objectifs et de moyens.
+
 II. - Le conseil d'administration de la société France Télévisions approuve le projet de contrat d'objectifs et de moyens de cette société et délibère sur l'exécution annuelle de celui-ci.
 
 Les conseils d'administration des sociétés France 2, France 3, France 5 et Réseau France outre-mer et de chacune des filiales mentionnées au dernier alinéa du I de l'article 44 sont consultés, chacun en ce qui le concerne, sur le projet de contrat d'objectifs et de moyens mentionné à l'alinéa précédent, ainsi que sur l'exécution annuelle de celui-ci.
@@ -25,8 +29,6 @@ Le président de la société France Télévisions présente chaque année devan
 Les conseils d'administration de l'Institut national de l'audiovisuel et des sociétés Radio France et Radio France Internationale, ainsi que l'organe compétent de la société ARTE-France, approuvent leurs contrats d'objectifs et de moyens respectifs et délibèrent sur leur exécution annuelle.
 
 III. - Chaque année, à l'occasion du vote de la loi de finances, le Parlement, sur le rapport d'un membre de chacune des commissions des finances de l'Assemblée nationale et du Sénat ayant les pouvoirs de rapporteur spécial, approuve la répartition des ressources publiques affectées au compte d'emploi de la redevance entre les sociétés France Télévisions, Radio France, Radio France Internationale, la société ARTE-France et l'Institut national de l'audiovisuel.
-
-Un rapport du Gouvernement sur la situation et la gestion des organismes du secteur public est annexé au projet de loi de finances. Ce rapport présente un bilan détaillé de l'exécution de chacun des contrats d'objectifs et de moyens de ces organismes. Il fournit pour les sociétés France 2, France 3, France 5 et Réseau France outre-mer, des prévisions de recettes et de dépenses en précisant notamment le produit attendu des recettes propres de ces sociétés.
 
 IV. - Le montant des ressources publiques allouées à la société France Télévisions est versé à cette société qui l'affecte intégralement, dans les conditions définies par le contrat d'objectifs et de moyens, aux sociétés France 2, France 3 et France 5 et Réseau France outre-mer ainsi qu'aux filiales mentionnées au dernier alinéa du I de l'article 44.
 
