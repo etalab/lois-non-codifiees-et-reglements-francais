@@ -2,7 +2,7 @@
 
 La délégation ne peut porter sur :
 
-1° L'avancement de grade, à l'exception de l'avancement des policiers auxiliaires ;
+1° L'avancement de grade ;
 
 2° Le détachement ;
 
@@ -10,10 +10,10 @@ La délégation ne peut porter sur :
 
 4° La mise à disposition ;
 
-5° La réintégration à l'issue du congé parental, du détachement, de la mise à disposition, de la mise en disponibilité ou de la mise en position hors cadre ;
+5° La réintégration à l'issue du congé parental, du congé de présence parentale, du détachement, de la mise à disposition, de la mise en disponibilité ou de la mise en position hors cadre ;
 
 6° Les sanctions disciplinaires des deuxième, troisième et quatrième groupes ;
 
 7° Le reclassement pour inaptitude physique ;
 
-8° La radiation des cadres.
+8° La radiation des cadres, sauf par admission à la retraite.
