@@ -32,18 +32,26 @@ V. - (Abrogé)
 
 VI. Sauf en ce qui concerne la taxe forfaitaire prévue au premier alinéa du III, le recouvrement et le contentieux des taxes visées au présent article sont suivis par les comptables du Trésor selon les modalités fixées aux articles 80 à 95 du décret n° 62-1587 du 29 décembre 1962 portant règlement général sur la comptabilité publique dans leur rédaction en vigueur à la date de promulgation de la présente loi.
 
-VII. - Les opérateurs exerçant les activités de communications électroniques mentionnées aux articles L. 33-1 et L. 34-1 du code des postes et télécommunications sont assujettis au paiement d'une taxe administrative dans les conditions suivantes :
+VII. - Les opérateurs exerçant les activités de communications électroniques mentionnées à l'article L. 33-1 du code des postes et des communications électroniques sont, à compter de l'année 2005, assujettis au paiement d'une taxe administrative dans les conditions prévues ci-après :
 
-1. Le montant annuel de la taxe est fixé à 20 000 euros.
+1° Le montant annuel de la taxe administrative est fixé à 20 000 euros . Toutefois :
 
-2. Ce montant est divisé par deux lorsque l'exploitation des réseaux ouverts au public ou la fourniture au public des services de communications électroniques est limitée aux départements d'outre-mer ou couvre au plus un département métropolitain.
+a) Les opérateurs ayant un chiffre d'affaires inférieur à un million d'euros en sont exonérés ;
 
-3. Lorsque l'opérateur figure sur l'une des listes prévues au 7° de l'article L. 36-7 du code des postes et télécommunications, le montant résultant de l'application des dispositions du 1 est multiplié par quatre.
+b) Les opérateurs exerçant à titre expérimental, pour une durée n'excédant pas trois ans, les activités visées au premier alinéa, en sont exonérés ;
 
-4. Lorsqu'elles sont exercées à titre expérimental pour une durée n'excédant pas trois ans, les opérateurs exerçant les activités de communications électroniques mentionnées aux articles L. 33-1 et L. 34-1 du code des postes et télécommunications sont exonérés de la taxe prévue au 1.
+c) Pour les opérateurs dont le chiffre d'affaires est compris entre un million d'euros et deux millions d'euros, le montant de la taxe est déterminé par la formule (CA/50 - 20 000), dans laquelle CA représente le chiffre d'affaires, entendu comme le chiffre d'affaires hors taxes lié aux activités de communications électroniques mentionnées à l'article L. 33-1 précité.
 
-5. La taxe est annuelle. Elle est exigible au 1er décembre de chaque année.
+Le bénéfice des dispositions prévues aux a, b et c est subordonné à la fourniture par l'opérateur, en application du même article L. 33-1, des justifications nécessaires ;
 
-Les montants correspondant à la première année d'exercice sont calculés prorata temporis en fonction de la date d'autorisation de l'activité ou de réception par l'Autorité de régulation des communications électroniques et des postes de la déclaration de l'opérateur. Les montants correspondant à la dernière année d'exercice d'activité sont calculés prorata temporis en fonction de la date de cessation d'activité de l'opérateur (1).
+2° Le montant de la taxe administrative résultant de l'application des dispositions du 1° est :
+
+a) Divisé par deux lorsque les activités visées au premier alinéa sont limitées aux départements d'outre-mer ou couvrent au plus un département métropolitain ;
+
+b) Multiplié par quatre lorsque l'opérateur figure sur l'une des listes prévues au 8° de l'article L. 36-7 du code des postes et des communications électroniques ;
+
+3° La taxe est annuelle. Elle est exigible au 1er mai de l'année suivant l'année considérée. La taxe appelée au titre de l'année 2005 est exigible au 1er mai 2006.
+
+Les montants correspondant à la première année d'exercice sont calculés prorata temporis à compter de la date d'autorisation de l'activité ou de réception de la déclaration de l'opérateur par l'Autorité de régulation des communications électroniques et des postes. Les montants correspondant à la dernière année d'exercice sont calculés prorata temporis à compter de la date de cessation d'activité de l'opérateur.
 
 VIII. - Abrogé.

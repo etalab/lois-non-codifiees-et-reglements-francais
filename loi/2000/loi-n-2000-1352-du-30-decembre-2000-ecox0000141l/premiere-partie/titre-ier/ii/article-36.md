@@ -8,10 +8,6 @@ I. - Par dérogation à l'article L. 31 du code du domaine de l'Etat, la redevan
 
 Les autorisations d'utilisation de fréquences dédiées à la téléphonie mobile de troisième génération en métropole sont délivrées pour une durée de vingt ans.
 
-II. - Il est ouvert, dans les écritures du Trésor, un compte d'affectation spéciale n° 902-33 intitulé "Fonds de provisionnement des charges de retraite". Ce compte retrace :
-
-- en recettes : les redevances dues en vertu des autorisations d'utilisation de fréquences dédiées à la téléphonie mobile de troisième génération.
-
-- en dépenses : les versements au Fonds de réserve pour les retraites mentionné à l'article L. 135-6 du code de la sécurité sociale.
+II. - (abrogé)
 
 III. Paragraphe modificateur

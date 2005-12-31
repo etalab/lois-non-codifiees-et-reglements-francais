@@ -2,7 +2,7 @@
 
 A. - Paragraphe modificateur.
 
-B. - Le produit de la taxe sur le chiffre d'affaires des exploitants agricoles perçue en application de l'article 302 bis MB du code général des impôts est affecté, à concurrence de 85 %, à l'Agence de développement agricole et rural.
+B. - (abrogé)
 
 C. - Sont abrogés :
 

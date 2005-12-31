@@ -90,6 +90,7 @@
 - [Loi n° 94-640 du 25 juillet 1994 (TEFX9400004L)](loi-n-94-640-du-25-juillet-1994-tefx9400004l)
 - [Loi n° 94-653 du 29 juillet 1994 (JUSX9400024L)](loi-n-94-653-du-29-juillet-1994-jusx9400024l)
 - [Loi n° 94-654 du 29 juillet 1994 (SPSX9400032L)](loi-n-94-654-du-29-juillet-1994-spsx9400032l)
+- [Loi n° 94-66 du 24 janvier 1994 (BUDX9300095L)](loi-n-94-66-du-24-janvier-1994-budx9300095l)
 - [Loi n° 94-665 du 4 août 1994 (MCCX9400007L)](loi-n-94-665-du-4-aout-1994-mccx9400007l)
 - [Loi n° 94-678 du 8 août 1994 (SPSX9300163L)](loi-n-94-678-du-8-aout-1994-spsx9300163l)
 - [Loi n° 94-679 du 8 août 1994 (ECOX9300054L)](loi-n-94-679-du-8-aout-1994-ecox9300054l)

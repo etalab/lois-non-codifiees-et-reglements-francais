@@ -2,7 +2,7 @@
 
 I. Paragraphe modificateur
 
-II. - 1° Une indemnisation solidaire des détenteurs de titres, créances et actifs est versée à partir du compte d'affectation spéciale n° 902-31 "Indemnisation au titre des créances françaises sur la Russie" en vue de l'application de l'accord du 27 mai 1997 entre le Gouvernement de la République française et le Gouvernement de la Fédération de Russie portant règlement définitif des créances financières et réelles apparues antérieurement au 9 mai 1945. Elle bénéficie aux personnes qui se sont fait recenser dans les conditions prévues par l'article 73 de la loi n° 98-546 du 2 juillet 1998 portant diverses dispositions d'ordre économique et financier, qui détiennent des titres, créances et actifs indemnisables au titre du 2° du présent paragraphe et qui ont apporté la preuve :
+II. - 1° Une indemnisation solidaire des détenteurs de titres, créances et actifs est versée  en vue de l'application de l'accord du 27 mai 1997 entre le Gouvernement de la République française et le Gouvernement de la Fédération de Russie portant règlement définitif des créances financières et réelles apparues antérieurement au 9 mai 1945. Elle bénéficie aux personnes qui se sont fait recenser dans les conditions prévues par l'article 73 de la loi n° 98-546 du 2 juillet 1998 portant diverses dispositions d'ordre économique et financier, qui détiennent des titres, créances et actifs indemnisables au titre du 2° du présent paragraphe et qui ont apporté la preuve :
 
 - pour les porteurs de valeurs mobilières ou de liquidités, qu'elles étaient titulaires de la nationalité française au moment du recensement organisé par la loi n° 98-546 du 2 juillet 1998 précitée, et au plus tard au 5 janvier 1999 ;
 

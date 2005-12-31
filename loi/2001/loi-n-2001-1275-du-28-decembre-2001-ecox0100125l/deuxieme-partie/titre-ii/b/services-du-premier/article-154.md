@@ -1,6 +1,6 @@
 # Article 154
 
-I. Les dépenses faites sur les crédits inscrits au chapitre 37-91 du budget des services généraux du Premier ministre sont examinées chaque année par une commission de vérification chargée de s'assurer que les crédits sont utilisés conformément à la destination qui leur a été assignée par la loi des finances.
+I. Les dépenses faites sur les fonds spéciaux inscrits au programme intitulé : "Coordination du travail gouvernemental" sont examinées chaque année par une commission de vérification chargée de s'assurer que les crédits sont utilisés conformément à la destination qui leur a été assignée par la loi des finances.
 
 Les services destinataires de ces crédits tiennent le compte d'emploi des fonds ainsi versés.
 
@@ -18,8 +18,6 @@ III. La commission prend connaissance de tous les documents, pièces et rapports
 
 Elle se fait représenter les registres, états, journaux, décisions et toutes pièces justificatives propres à l'éclairer au cours de ses travaux de vérification.
 
-(Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 2001-456 DC du 27 décembre 2001.)
-
 IV. Les membres de la commission sont astreints au respect du secret de la défense nationale protégé en application des articles 413-9 et suivants du code pénal pour les faits, actes ou renseignements dont ils ont pu avoir connaissance à raison de leur mandat.
 
 Les travaux de la commission sont secrets, sous réserve du VI.
@@ -36,7 +34,7 @@ VII. La commission dresse un procès-verbal dans lequel elle constate que les d�
 
 Le procès-verbal est remis par le président de la commission au Premier ministre et au ministre chargé du budget qui le transmet à la Cour des comptes.
 
-VII bis. - Les crédits nécessaires au fonctionnement de la commission sont inscrits au budget des services généraux du Premier ministre.
+VII bis. - Les crédits nécessaires au fonctionnement de la commission sont inscrits au programme intitulé "Coordination du travail gouvernemental.
 
 Le président est ordonnateur des dépenses de la commission. Il a autorité sur les agents de la commission. Les dispositions de la loi du 10 août 1922 relative à l'organisation du contrôle des dépenses engagées ne sont pas applicables aux dépenses de la commission.
 

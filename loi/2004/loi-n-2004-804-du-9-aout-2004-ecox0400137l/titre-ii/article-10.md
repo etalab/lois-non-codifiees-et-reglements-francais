@@ -1,6 +1,6 @@
 # Article 10
 
-I. - Les employeurs de personnel des hôtels, cafés et restaurants, à l'exclusion des employeurs du secteur de la restauration collective, peuvent bénéficier d'une aide à l'emploi pour les périodes d'emploi effectuées du 1er juillet 2004 au 31 décembre 2005.
+I. - Les employeurs de personnel des hôtels, cafés et restaurants, à l'exclusion des employeurs du secteur de la restauration collective, peuvent bénéficier d'une aide à l'emploi pour les périodes d'emploi effectuées du 1er juillet 2004 au 31 décembre 2006.
 
 Cette aide est ainsi constituée :
 
@@ -8,7 +8,7 @@ Cette aide est ainsi constituée :
 
 - une aide égale au produit du nombre de salariés dont le salaire horaire, hors avantage en nature, est supérieur au salaire minimum de croissance, par un montant forfaitaire déterminé en fonction de l'importance de l'activité de restauration sur place, hors boissons alcoolisées, dans l'activité de l'entreprise.
 
-II. - Les travailleurs non salariés du secteur des hôtels, cafés et restaurants, à l'exclusion des travailleurs non salariés du secteur de la restauration collective, peuvent bénéficier d'une aide lorsqu'ils prennent en charge pendant la période du 1er juillet 2004 au 31 décembre 2005 les cotisations dues au titre des régimes d'assurance vieillesse obligatoires, de base et complémentaires, et d'assurance invalidité-décès par leur conjoint collaborateur, lorsque celui-ci a adhéré volontairement à l'assurance vieillesse en application du 5° de l'article L. 742-6 du code de la sécurité sociale sans solliciter l'application de l'article L. 742-9 du même code.
+II. - Les travailleurs non salariés du secteur des hôtels, cafés et restaurants, à l'exclusion des travailleurs non salariés du secteur de la restauration collective, peuvent bénéficier d'une aide lorsqu'ils prennent en charge pendant la période du 1er juillet 2004 au 31 décembre 2006 les cotisations dues au titre des régimes d'assurance vieillesse obligatoires, de base et complémentaires, et d'assurance invalidité-décès par leur conjoint collaborateur, lorsque celui-ci a adhéré volontairement à l'assurance vieillesse en application du 5° de l'article L. 742-6 du code de la sécurité sociale sans solliciter l'application de l'article L. 742-9 du même code.
 
 L'aide prévue au premier alinéa est proportionnelle aux cotisations minimales dues au titre de chacun des régimes concernés.
 

@@ -22,6 +22,6 @@ Ces critères sont notamment déterminés en fonction :
 
 - de l'écart du revenu par habitant de la commune au revenu moyen par habitant sur le territoire de l'établissement public de coopération intercommunale ;
 
-- de l'insuffisance de potentiel fiscal par habitant de la commune au regard du potentiel fiscal communal moyen par habitant sur le territoire de l'établissement public de coopération intercommunale.
+- de l'insuffisance de potentiel fiscal par habitant de la commune au regard du potentiel fiscal ou financier communal moyen par habitant sur le territoire de l'établissement public de coopération intercommunale.
 
 Des critères complémentaires peuvent être choisis par le conseil.

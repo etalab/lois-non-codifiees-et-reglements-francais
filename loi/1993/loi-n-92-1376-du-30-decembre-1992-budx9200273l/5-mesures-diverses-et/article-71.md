@@ -1,9 +1,0 @@
-# Article 71
-
-Il est ouvert, dans les écritures du Trésor, un compte d'affectation spéciale n° 902-24 intitulé "Compte d'affectation des produits de cessions de titres, parts et droits de sociétés".
-
-Ce compte retrace :
-
-- en recettes, le produit des ventes par l'Etat de titres, de parts ou de droits de sociétés, le reversement, sous toutes ses formes, par les sociétés Thomson SA, Sofivision et Sogepa, du produit résultant de la cession ou du transfert de titres des sociétés Thomson Multimédia, Thalès et EADS NV, les reversements résultant des investissements réalisés directement ou indirectement par l'Etat dans des fonds de capital-investissement, le reversement, sous toutes ses formes, par l'établissement public Autoroutes de France, du produit résultant de la cession de titres qu'il détient dans toute société concessionnaire d'autoroutes, le reversement d'avances d'actionnaires ou de dotations en capital et des produits de réduction du capital ou de liquidation ainsi que les versements du budget général ou d'un budget annexe ;
-
-- en dépenses, les dépenses afférentes aux achats et aux ventes de titres, de parts ou de droits de sociétés, les dotations en capital, avances d'actionnaires et autres apports aux entreprises publiques et aux établissements publics, les dotations en capital aux fondations reconnues d'utilité publique du secteur de la recherche, les apports au groupement d'intérêt public chargé de préfigurer une agence nationale de la recherche, les investissements réalisés directement ou indirectement par l'Etat dans des fonds de capital-investissement, l'aide à la restructuration à la société Bull, les versements au Fonds de réserve pour les retraites mentionné à l'article L. 135-6 du code de la sécurité sociale, les reversements au budget général et les versements à la Caisse de la dette publique.
