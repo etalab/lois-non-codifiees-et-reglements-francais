@@ -1,6 +1,6 @@
 # Article 2
 
-I. - La formation, la prorogation, la transformation ou la dissolution d'une société ou d'un groupement d'intérêt économique, l'augmentation, l'amortissement ou la réduction de leur capital, doivent, à défaut d'actes les constatant, donner lieu au dépôt d'une déclaration à la recette des impôts compétente dans le mois qui suit leur réalisation. Ces opérations sont passibles des mêmes droits ou taxes que les actes correspondants.
+I. - La formation, la prorogation, la transformation ou la dissolution d'une société ou d'un groupement d'intérêt économique, l'augmentation, l'amortissement ou la réduction de leur capital, doivent, à défaut d'actes les constatant, donner lieu au dépôt d'une déclaration au service des impôts compétent dans le mois qui suit leur réalisation. Ces opérations sont passibles des mêmes droits ou taxes que les actes correspondants.
 
 II. - Les opérations soumis au droit d'apport ou à la taxe de publicité foncière et concernant les sociétés de capitaux sont taxables en France lorsque s'y trouve le siège de direction effective ou le siège statutaire, à condition que, dans ce dernier cas, le siège de direction effective soit situé en dehors des Etats de la Communauté européenne.
 

@@ -10,7 +10,7 @@ II. - 1. Le dispositif des zones de revitalisation rurale fait l'objet d'une év
 
 III. - (paragraphe modificateur).
 
-IV. - 1. S'agissant des créations d'activités commerciales et des reprises d'activités commerciales ou artisanales réalisées par des entreprises exerçant le même type d'activité, l'éxonération prévue à l'article 1465 A du code général des impôts s'applique aux opérations effectuées à compter du 1er janvier 2004.
+IV. - 1. S'agissant des créations d'activités commerciales et des reprises d'activités commerciales, artisanales ou professionnelles au sens du 1 de l'article 92 du code général des impôts réalisées par des entreprises exerçant le même type d'activité, l'éxonération prévue à l'article 1465 A du code général des impôts s'applique aux opérations effectuées à compter du 1er janvier 2004.
 
 2. Pour bénéficier dès 2005 de l'exonération prévue au même article, les entreprises réalisant les opérations mentionnées au 1. doivent en faire la demande dans un délai de soixante jours suivant la publication de la présente loi.
 

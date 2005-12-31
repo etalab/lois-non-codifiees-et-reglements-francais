@@ -1,6 +1,6 @@
 # Article 41
 
-I. - La société anonyme Natexis ou toute société qu'elle contrôle, au sens de l'article L. 233-3 du code de commerce, est chargée, jusqu'au 31 décembre 2005 :
+I. - La société anonyme Natexis ou toute société qu'elle contrôle, au sens de l'article L. 233-3 du code de commerce, est chargée :
 
 1° De la gestion de la stabilisation des taux d'intérêt de crédits à l'exportation ;
 
@@ -22,7 +22,7 @@ I. - La société anonyme Natexis ou toute société qu'elle contrôle, au sens 
 
 10° De la gestion des opérations antérieurement engagées par la Caisse française de développement industriel ;
 
-11° De la gestion des opérations antérieurement engagées par le Crédit national au titre des prêts sur procédures spéciales en application de la convention passée entre l'Etat et le Crédit national en date du 22 décembre 1981 ;
+11° (alinéa supprimé) ;
 
 12° De la gestion des opérations antérieurement engagées par le Crédit national au titre des prêts bonifiés aux petites et moyennes entreprises en application de la convention passée entre l'Etat et le Crédit national en date du 19 novembre 1986.
 
