@@ -4,6 +4,6 @@ Le bilan consolidé est présenté soit sous forme de tableau, soit sous forme d
 
 a) Les immobilisations incorporelles, les immobilisations corporelles, les immobilisations financières, les stocks, les créances, les valeurs mobilières de placement et les disponibilités ;
 
-b) Les capitaux propres, les provisions pour risques et charges et les dettes ;
+b) Les capitaux propres, les provisions et les dettes ;
 
 c) La part des actionnaires ou associés minoritaires.

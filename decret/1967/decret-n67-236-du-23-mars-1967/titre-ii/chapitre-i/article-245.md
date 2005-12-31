@@ -10,4 +10,4 @@ La différence entre cette somme et le prix d'acquisition des titres est portée
 
 Lors de la première application de cette méthode d'évaluation, les provisions portées en déduction des valeurs des titres sont transférées au poste d'écart d'équivalence.
 
-Si l'écart d'équivalence devient négatif, une provision pour dépréciation globale du portefeuille est dotée par le débit du compte de résultat.
+Si l'écart d'équivalence devient négatif, une dépréciation globale du portefeuille est dotée par le débit du compte de résultat.
