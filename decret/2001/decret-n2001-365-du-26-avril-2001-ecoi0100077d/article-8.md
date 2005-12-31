@@ -1,7 +1,9 @@
 # Article 8
 
-Les premiers tarifs d'utilisation des réseaux publics de transport et de distribution d'électricité sont fixés par décret en Conseil d'Etat, sur proposition de la Commission de régulation de l'électricité et après avis du Conseil de la concurrence.
+Toute proposition tarifaire de la Commission de régulation de l'énergie est motivée. Elle est transmise aux ministres chargés de l'économie et de l'énergie, accompagnée des éléments permettant de l'évaluer, notamment une synthèse des avis émis par les acteurs du marché consultés.
 
-Les évolutions des tarifs d'utilisation des réseaux publics de transport et de distribution d'électricité sont arrêtées par les ministres chargés de l'économie et de l'énergie, sur proposition de la Commission de régulation de l'électricité.
+La proposition est approuvée par décision conjointe des deux ministres. Si l'un d'eux s'oppose à la proposition tarifaire, sa décision motivée est publiée au Journal officiel de la République française. A défaut d'opposition notifiée à la Commission de régulation de l'énergie par l'un des deux ministres dans le délai de deux mois suivant la réception de la proposition, la décision d'approbation est réputée acquise.
 
-La proposition mentionnée aux deux alinéas précédents est effectuée conformément aux principes fixés par le présent décret soit à l'initiative de la Commission de régulation de l'électricité, soit à la demande des ministres chargés de l'économie et de l'énergie et dans un délai fixé par eux, qui ne peut être inférieur à deux mois.
+Les ministres chargés de l'économie et de l'énergie procèdent à la publication du nouveau tarif au Journal officiel de la République française dans un délai qui ne peut excéder deux mois à compter de la date à laquelle la décision d'approbation des ministres, expresse ou tacite, est intervenue.
+
+Le nouveau tarif entre en vigueur dans le délai fixé par la décision d'approbation, et au plus tard le premier jour du troisième mois suivant celui de sa publication au Journal officiel de la République française.

@@ -1,10 +1,10 @@
 # Article 5
 
-I. - Les tarifs d'utilisation des réseaux publics servent à l'établissement de la facture, qui est adressée à l'utilisateur par le gestionnaire du réseau public auquel il est raccordé.
+I. - Les tarifs d'utilisation des réseaux publics servent à l'établissement de la facture qui est adressée à l'utilisateur par le gestionnaire de réseau avec lequel il a conclu un contrat d'accès au réseau.
 
-Pour les clients éligibles qui n'ont pas mis en oeuvre leur droit, le montant correspondant aux coûts d'utilisation des réseaux publics, ainsi calculé, est identifié sur les factures qui leur sont adressées par leur fournisseur.
+Lorsque le fournisseur a conclu un contrat d'accès au réseau en application du septième alinéa de l'article 23 de la loi du 10 février 2000 susvisée, il facture simultanément à son client la fourniture d'énergie et l'utilisation des réseaux publics. Il identifie sur la facture le montant correspondant à l'utilisation des réseaux publics par son client.
 
-Pour les clients non éligibles, les mêmes coûts sont intégrés aux tarifs de vente de l'électricité aux clients non éligibles prévus à l'article 4 de la loi du 10 février 2000 susvisée. Le montant correspondant aux coûts d'utilisation des réseaux publics est identifié sur les factures, au plus tard à compter du 1er juillet 2002.
+Pour les clients non éligibles et les clients éligibles n'ayant pas exercé leur éligibilité, le fournisseur applique le tarif de vente aux clients non éligibles. Les factures indiquent, pour la catégorie tarifaire concernée, la proportion correspondant aux coûts d'utilisation des réseaux publics. Le fournisseur reverse au gestionnaire de réseau les sommes qu'il a perçues au titre de l'utilisation de ce réseau.
 
 II. - Chaque gestionnaire de réseau public de distribution reverse la part de ses recettes correspondant à l'utilisation du réseau public de transport ou d'un autre réseau public de distribution au gestionnaire de ce réseau. Les tarifs mentionnés à l'article 4 s'appliquent au calcul de ces reversements, sous réserve de la prise en compte de l'existence de plusieurs points de raccordement desservant une même concession de distribution ou d'ouvrages exploités au même niveau de tension que les ouvrages du réseau public auxquels cette concession de distribution est raccordée. Des contrats sont conclus entre les gestionnaires des réseaux publics concernés dans les formes et selon les modalités prévues à l'article 23 de la loi du 10 février 2000 susvisée. Ils précisent les modalités de calcul des reversements et de leur facturation, qui est établie toutes taxes comprises par le gestionnaire du réseau public bénéficiaire desdits reversements.
 
