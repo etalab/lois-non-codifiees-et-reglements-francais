@@ -127,7 +127,6 @@
 - [Décret n°2003-1065 du 7 novembre 2003 (ECOP0300751D)](decret-n2003-1065-du-7-novembre-2003-ecop0300751d)
 - [Décret n°2003-1069 du 7 novembre 2003 (DEFD0302224D)](decret-n2003-1069-du-7-novembre-2003-defd0302224d)
 - [Décret n°2003-194 du 7 mars 2003 (EQUX0300001D)](decret-n2003-194-du-7-mars-2003-equx0300001d)
-- [Décret n°2003-196 du 7 mars 2003 (ECOT0237030D)](decret-n2003-196-du-7-mars-2003-ecot0237030d)
 - [Décret n°2003-198 du 7 mars 2003 (SANH0320592D)](decret-n2003-198-du-7-mars-2003-sanh0320592d)
 - [Décret n°2003-224 du 7 mars 2003 (SANG0320319D)](decret-n2003-224-du-7-mars-2003-sang0320319d)
 - [Décret n°2003-631 du 7 juillet 2003 (BUDF0300013D)](decret-n2003-631-du-7-juillet-2003-budf0300013d)

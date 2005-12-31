@@ -631,7 +631,6 @@
 - [Décret n°92-1170 du 20 octobre 1992 (MAEJ9230054D)](decret-n92-1170-du-20-octobre-1992-maej9230054d)
 - [Décret n°92-155 du 20 février 1992 (BUDL9100215D)](decret-n92-155-du-20-fevrier-1992-budl9100215d)
 - [Décret n°92-158 du 20 février 1992 (TEFT9104217D)](decret-n92-158-du-20-fevrier-1992-teft9104217d)
-- [Décret n°92-161 du 20 février 1992 (DOMP9200004D)](decret-n92-161-du-20-fevrier-1992-domp9200004d)
 - [Décret n°92-162 du 20 février 1992 (DOMP9200005D)](decret-n92-162-du-20-fevrier-1992-domp9200005d)
 - [Décret n°92-163 du 20 février 1992 (DOMP9200006D)](decret-n92-163-du-20-fevrier-1992-domp9200006d)
 - [Décret n°92-166 du 20 février 1992 (ECOC9100141D)](decret-n92-166-du-20-fevrier-1992-ecoc9100141d)

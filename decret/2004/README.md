@@ -912,7 +912,6 @@
 - [Décret n°2004-1288 du 26 novembre 2004 (DEFP0401123D)](decret-n2004-1288-du-26-novembre-2004-defp0401123d)
 - [Décret n°2004-1290 du 26 novembre 2004 (SANG0423072D)](decret-n2004-1290-du-26-novembre-2004-sang0423072d)
 - [Décret n°2004-1291 du 26 novembre 2004 (SANH0423459D)](decret-n2004-1291-du-26-novembre-2004-sanh0423459d)
-- [Décret n°2004-1292 du 26 novembre 2004 (SANS0423754D)](decret-n2004-1292-du-26-novembre-2004-sans0423754d)
 - [Décret n°2004-1293 du 26 novembre 2004 (EQUK0401007D)](decret-n2004-1293-du-26-novembre-2004-equk0401007d)
 - [Décret n°2004-1294 du 26 novembre 2004 (EQUA0401199D)](decret-n2004-1294-du-26-novembre-2004-equa0401199d)
 - [Décret n°2004-1295 du 26 novembre 2004 (EQUA0401315D)](decret-n2004-1295-du-26-novembre-2004-equa0401315d)

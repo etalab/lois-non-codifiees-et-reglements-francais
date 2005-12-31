@@ -297,8 +297,6 @@
 - [Arrêté du 15 mai 2001 (EQUA0100736A)](arrete-du-15-mai-2001-equa0100736a)
 - [Arrêté du 16 avril 2002 (EQUP0200517A)](arrete-du-16-avril-2002-equp0200517a)
 - [Arrêté du 16 janvier 2001 (AGRS0100117A)](arrete-du-16-janvier-2001-agrs0100117a)
-- [Arrêté du 16 janvier 2001 (AGRS0100118A)](arrete-du-16-janvier-2001-agrs0100118a)
-- [Arrêté du 16 janvier 2001 (AGRS0100119A)](arrete-du-16-janvier-2001-agrs0100119a)
 - [Arrêté du 16 janvier 2001 (AGRS0100120A)](arrete-du-16-janvier-2001-agrs0100120a)
 - [Arrêté du 16 janvier 2001 (AGRS0100121A)](arrete-du-16-janvier-2001-agrs0100121a)
 - [Arrêté du 16 janvier 2001 (DEFP0002360A)](arrete-du-16-janvier-2001-defp0002360a)

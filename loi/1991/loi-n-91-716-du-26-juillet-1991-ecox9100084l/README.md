@@ -2,6 +2,5 @@
 
 - [Titre Ier : Harmonisation des législations financières européennes](titre-ier)
 - [Titre II : Amélioration de la trésorerie de l'Etat.](titre-ii)
-- [Chapitre III : Mesures fiscales](chapitre-iii)
 - [Titre III : Dispositions relatives à la modernisation financière.](titre-iii)
 - [Titre IV : Dispositions diverses.](titre-iv)

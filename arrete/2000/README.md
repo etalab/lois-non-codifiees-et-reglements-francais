@@ -108,7 +108,6 @@
 - [Arrêté du 26 décembre 2000 (ECOC0000146A)](arrete-du-26-decembre-2000-ecoc0000146a)
 - [Arrêté du 26 décembre 2000 (ECOD0040002A)](arrete-du-26-decembre-2000-ecod0040002a)
 - [Arrêté du 26 décembre 2000 (ECOT0094889A)](arrete-du-26-decembre-2000-ecot0094889a)
-- [Arrêté du 26 décembre 2000 (EQUT0001923A)](arrete-du-26-decembre-2000-equt0001923a)
 - [Arrêté du 26 décembre 2000 (EQUU0001462A)](arrete-du-26-decembre-2000-equu0001462a)
 - [Arrêté du 26 décembre 2000 (MCCB0000675A)](arrete-du-26-decembre-2000-mccb0000675a)
 - [Arrêté du 26 décembre 2000 (MENS0003041A)](arrete-du-26-decembre-2000-mens0003041a)
