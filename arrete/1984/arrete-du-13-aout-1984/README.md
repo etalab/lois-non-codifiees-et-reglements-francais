@@ -1,4 +1,5 @@
-# Arrêté du 13 août 1984 modifiant le taux de rendement des bons du Trésor à intérêt progressif émis à compter du 16 août 1984
+# Arrêté du 13 août 1984 portant homologation et extension d'un règlement du comité de la réglementation bancaire
 
 - [Article 1](article-1.md)
+- [Article 2](article-2.md)
 - [Annexes](annexes)
