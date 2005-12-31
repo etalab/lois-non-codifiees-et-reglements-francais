@@ -8,7 +8,7 @@ L'accès à l'Ecole nationale d'administration (ENA) est ouvert chaque année :
 
 3° Par la voie d'un troisième concours, ouvert aux candidats remplissant les conditions définies par la loi du 2 janvier 1990 susvisée.
 
-Pour être admis à concourir, les candidats doivent remplir les conditions fixées à l'article 5 ou aux alinéas 2 à 6 de l'article 5 bis de la loi du 13 juillet 1983 susvisée.
+Pour être admis à concourir, les candidats doivent remplir les conditions fixées aux articles 5 et 5 bis de la loi du 13 juillet 1983 susvisée.
 
 Ne peuvent toutefois être admis à concourir les fonctionnaires appartenant à l'un des corps recrutés par la voie de l'ENA, ni les élèves déjà admis à cette école, ni les candidats qui n'ont pu antérieurement accéder dans les conditions fixées à l'article 49 à aucune des carrières auxquelles prépare l'école.
 

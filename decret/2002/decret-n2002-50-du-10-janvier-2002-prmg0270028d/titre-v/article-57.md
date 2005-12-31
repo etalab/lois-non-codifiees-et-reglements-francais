@@ -1,7 +1,5 @@
 # Article 57
 
-Des ressortissants étrangers peuvent être admis à suivre des sessions d'études et de perfectionnement, sur présentation du Gouvernement français après, le cas échéant, accord de l'autorité dont ils relèvent.
+L'école peut admettre des ressortissants étrangers à participer à des cycles d'études ou de perfectionnement ou à des stages organisés en France ou à l'étranger.
 
-Sauf dérogation proposée par le ministère des affaires étrangères, aucun fonctionnaire étranger ne peut suivre une action de formation ou de perfectionnement sans autorisation de son administration.
-
-Les conditions d'admission des auditeurs et élèves étrangers sont fixées par le règlement intérieur.
+L'inscription dans ces cycles internationaux peut être subordonnée à l'acquittement de frais de scolarité, dans les conditions prévues par le règlement intérieur.

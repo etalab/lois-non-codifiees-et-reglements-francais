@@ -8,4 +8,4 @@ L'arrêté prévu au premier alinéa du présent article désigne le remplaçant
 
 En cas de partage égal des voix lors des délibérations du jury, la voix du président est prépondérante.
 
-Des correcteurs peuvent être désignés par arrêté du ministre chargé de la fonction publique pris sur proposition du directeur de l'ENA pour participer avec les membres du jury à l'évaluation de la composition écrite prévue à l'article 38.
+Des correcteurs peuvent être désignés par arrêté du ministre chargé de la fonction publique pris sur proposition du directeur de l'ENA pour participer avec les membres du jury à l'évaluation de l'épreuve d'admissibilité prévue à l'article 38.

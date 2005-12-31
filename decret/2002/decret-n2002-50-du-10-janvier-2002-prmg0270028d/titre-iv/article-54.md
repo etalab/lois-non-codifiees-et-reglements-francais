@@ -1,3 +1,9 @@
 # Article 54
 
-Au titre de sa mission de formation permanente, l'école assure notamment celle prévue au dernier alinéa de l'article 7 du décret n° 99-945 du 16 novembre 1999 modifié relatif au statut particulier du corps des administrateurs civils.
+L'Ecole nationale d'administration assure une mission de formation permanente, organisée au profit de bénéficiaires français et étrangers.
+
+A ce titre, elle élabore et met en oeuvre des programmes ayant pour objectif la maîtrise des techniques administratives et l'approfondissement des méthodes de management, dans une dimension d'administration comparée.
+
+Elle forme aux questions européennes et internationales. Elle prépare aux concours de recrutement des institutions européennes.
+
+La nature et les modalités des différents cycles de formation permanente organisés en vertu du présent article sont fixées par le règlement intérieur.

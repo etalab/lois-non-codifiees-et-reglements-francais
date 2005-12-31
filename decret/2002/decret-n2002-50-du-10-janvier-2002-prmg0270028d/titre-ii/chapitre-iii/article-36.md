@@ -1,6 +1,6 @@
 # Article 36
 
-Les candidats à l'épreuve d'accès au cycle de préparation doivent remplir, au 1er juillet précédant la date de début de ce cycle, les conditions fixées par l'article 1er de la loi du 2 janvier 1990 susvisée ainsi que les conditions fixées à l'article 5 de la loi du 13 juillet 1983 susvisée.
+Les candidats à l'épreuve d'accès au cycle de préparation doivent remplir, au 1er juillet précédant la date de début de ce cycle, les conditions fixées par l'article 1er de la loi du 2 janvier 1990 susvisée ainsi que les conditions fixées aux article 5 et 5 bis de la loi du 13 juillet 1983 susvisée.
 
 Ils doivent justifier qu'ils rempliront, pour le concours auquel prépare le cycle, la condition d'âge fixée par l'article 19.
 
