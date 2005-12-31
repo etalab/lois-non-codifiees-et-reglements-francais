@@ -1,5 +1,0 @@
-# Article 5
-
-Les indemnités d'habillement prévues pour l'année 2005 au titre des décrets n° 69-365 du 22 avril 1969 portant extension du régime de la masse aux commandants et officiers, gradés et gardiens de la paix de la police nationale et fixant le montant de cette indemnité, n° 72-177 du 6 mars 1972 modifiant le régime de fixation des indemnités d'habillement prévues par le décret n° 69-365 du 22 avril 1969 et instituant une indemnité complémentaire d'habillement pour les gradés et gardiens des compagnies républicaines de sécurité ainsi qu'une indemnité de changement d'uniforme et n° 79-375 du 2 mai 1979 allouant des indemnités d'uniforme et d'habillement à certains fonctionnaires des services actifs de la police nationale sont versées au prorata de la période écoulée entre le 1er janvier 2005 et la date d'entrée en vigueur du présent décret.
-
-A compter du 1er septembre 2005 et jusqu'à la date d'ouverture du capital annuel de points mentionné à l'article 3, les effets d'uniforme usagés sont remplacés par l'administration.

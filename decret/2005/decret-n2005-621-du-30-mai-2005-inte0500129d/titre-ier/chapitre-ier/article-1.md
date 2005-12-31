@@ -1,3 +1,0 @@
-# Article 1
-
-Les dispositions du présent décret s'appliquent aux personnels navigants du groupement d'hélicoptères de la sécurité civile au groupement des moyens aériens du ministère chargé de l'intérieur. Ces personnels sont recrutés, soit par voie contractuelle pour une durée indéterminée, conformément aux dispositions du 5° de l'article 3 de la loi du 11 janvier 1984 susvisée, soit par l'affectation de fonctionnaires de police ou la mise à disposition de militaires de la brigade des sapeurs-pompiers de Paris, pour occuper les emplois de pilotes d'hélicoptères et de mécaniciens opérateurs de bord.

@@ -1,3 +1,0 @@
-# TITRE II : MODIFICATIONS DU CAHIER DES CHARGES DE FRANCE 3.
-
-- [Article 11](article-11.md)

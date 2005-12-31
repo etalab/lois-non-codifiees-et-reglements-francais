@@ -1,3 +1,0 @@
-# Article 3
-
-Les centres de rétention administrative, qui ont une vocation nationale, reçoivent, dans la limite de leur capacité d'accueil et sans considération de la compétence géographique du préfet ayant pris l'arrêté de placement en rétention, les étrangers mentionnés à l'article 1er quel que soit le lieu de leur résidence ou de leur interpellation. Le préfet ayant procédé au placement en rétention de l'étranger exerce les compétences relatives à la mesure d'éloignement qu'il met à exécution jusqu'au terme de la procédure engagée quel que soit le lieu où l'étranger en cause est maintenu en rétention.

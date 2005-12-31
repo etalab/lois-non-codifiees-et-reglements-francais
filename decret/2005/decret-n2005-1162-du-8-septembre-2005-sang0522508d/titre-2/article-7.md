@@ -1,5 +1,0 @@
-# Article 7
-
-Les agents de l'Agence française de sécurité sanitaire environnementale, du Fonds d'indemnisation des victimes de l'amiante, de l'Institut national de prévention et d'éducation pour la santé et de l'Office national d'indemnisation des accidents médicaux, des affections iatrogènes et des infections nosocomiales qui, à la date de publication du présent décret, étaient classés sur une grille indexée sur celle des praticiens hospitaliers, sont reclassés en catégorie I hors classe prévue à l'article 6 du décret du 7 mars 2003 susvisé, à l'échelon doté d'un indice comportant une rémunération égale à celle dont ils bénéficiaient antérieurement, avec ancienneté conservée ; à défaut, ils sont classés sans ancienneté à l'échelon doté d'un indice comportant une rémunération immédiatement supérieure.
-
-Le bénéfice de cette disposition se perd en cas de démission et ne peut être invoqué une nouvelle fois en cas d'embauche ultérieure dans un des établissements mentionnés à l'article 1er dudit décret.

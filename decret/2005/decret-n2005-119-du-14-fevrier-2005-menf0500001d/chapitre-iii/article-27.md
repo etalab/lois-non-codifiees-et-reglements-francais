@@ -1,3 +1,0 @@
-# Article 27
-
-Par dérogation à l'article 17, les personnels qui intègrent le corps des instituteurs régi par le présent décret selon les modalités prévues au présent chapitre ou à l'article 4 peuvent être nommés aux fonctions de maître formateur, après avis de la commission administrative paritaire, qui se prononce notamment sur la nécessité pour eux de suivre un stage d'adaptation préalable, s'ils ont exercé la fonction correspondante avant leur intégration. Ceux d'entre eux qui ont exercé la fonction correspondante au cours des cinq années précédant leur intégration ne sont pas astreints à suivre le stage d'adaptation préalable.

@@ -1,3 +1,0 @@
-# Article 4
-
-Les sommes à restituer au titre du I de l'article 12 de la loi du 23 février 2005 susvisée sont celles mentionnées comme ayant été déduites sur les décisions qui ont été notifiées aux bénéficiaires de l'indemnisation après examen de leurs droits à indemnités au titre des lois du 15 juillet 1970 et du 2 janvier 1978 susvisées, sauf si elles ont déjà été reversées audits bénéficiaires ou si elles ont servi au remboursement de passifs autres que ceux auxquels font référence le deuxième alinéa de l'article 46 de la loi du 15 juillet 1970 et les troisième, quatrième et cinquième alinéas de l'article 3 de la loi du 2 janvier 1978.

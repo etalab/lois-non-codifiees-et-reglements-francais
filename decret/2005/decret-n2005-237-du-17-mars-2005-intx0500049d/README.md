@@ -1,7 +1,0 @@
-# Décret n°2005-237 du 17 mars 2005 portant organisation du référendum.
-
-- [TITRE Ier : DISPOSITIONS GÉNÉRALES.](titre-ier)
-- [TITRE II : CONVOCATION DES ÉLECTEURS ET ORGANISATION DU SCRUTIN.](titre-ii)
-- [TITRE III : RECENSEMENT DES VOTES.](titre-iii)
-- [TITRE IV : RÉCLAMATIONS ET PROCLAMATION DES RÉSULTATS.](titre-iv)
-- [TITRE V : DISPOSITIONS DIVERSES.](titre-v)

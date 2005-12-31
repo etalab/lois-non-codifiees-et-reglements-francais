@@ -1,3 +1,0 @@
-# TITRE IER : MODIFICATIONS DU CAHIER DES CHARGES DE FRANCE 2.
-
-- [Article 1](article-1.md)

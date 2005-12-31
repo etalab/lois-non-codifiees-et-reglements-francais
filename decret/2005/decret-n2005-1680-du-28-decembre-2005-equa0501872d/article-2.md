@@ -1,3 +1,0 @@
-# Article 2
-
-Le montant de la redevance de production due en 2006 par une entreprise au titre de l'agrément de production prévu par la sous-partie G des sections A et B de la partie 21 du règlement (CE) n° 1702/2003 de la Commission du 24 septembre 2003 établissant des règles d'application pour la certification de navigabilité et environnementale des aéronefs et produits, pièces et équipements associés, ainsi que pour la certification des organismes de conception et de production, est fixé à titre transitoire à la moyenne du montant des frais de surveillance des matériels et des produits aéronautiques facturés à cette entreprise en 2005 et du montant qui serait résulté de l'application de l'article 1er du présent décret.

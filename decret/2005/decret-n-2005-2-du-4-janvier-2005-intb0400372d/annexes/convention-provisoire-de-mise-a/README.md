@@ -1,3 +1,0 @@
-# CONVENTION PROVISOIRE DE MISE À DISPOSITION DES SERVICES DE L'ÉTAT.
-
-- [Article Annexe](article-annexe.md)

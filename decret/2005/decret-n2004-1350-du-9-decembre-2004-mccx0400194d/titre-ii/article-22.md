@@ -1,3 +1,0 @@
-# Article 22
-
-L'Etablissement public du musée du quai Branly peut consentir des prêts et des dépôts d'oeuvres ou d'objets faisant partie de ses collections aux organismes et pour les buts mentionnés par le décret du 3 mars 1981 susvisé. Par dérogation aux dispositions des articles 3 et 8 du même décret, la décision de prêt ou de dépôt est prise par le président après avis de la commission des prêts de l'établissement. La composition et les modalités du fonctionnement de cette commission sont définies par arrêté conjoint des ministres chargés de l'enseignement supérieur, de la recherche et de la culture.

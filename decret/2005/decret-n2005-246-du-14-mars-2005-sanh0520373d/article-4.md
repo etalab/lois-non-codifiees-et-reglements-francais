@@ -1,5 +1,0 @@
-# Article 4
-
-I. - Pour l'année 2005, l'objectif de dépenses d'assurance maladie commun mentionné à l'article L. 162-22-9 du code de la sécurité sociale comprend, outre les éléments mentionnés à l'article 3, les frais d'hospitalisation relatifs aux soins dispensés en janvier et février 2005 en médecine, chirurgie, obstétrique et odontologie, y compris en hospitalisation à domicile et en alternative à la dialyse en centre, et correspondant aux forfaits mentionnés à l'article R. 162-31 du même code dans sa rédaction antérieure au décret du 28 janvier 2005 susvisé et aux éléments mentionnées aux c à f du 6° du I du même article.
-
-II. - Pour l'année 2005, l'objectif quantifié national mentionné à l'article L. 162-22-2 du code de la sécurité sociale comprend, outre les éléments mentionnés à l'article D. 162-4 du même code, les frais d'hospitalisation relatifs aux soins dispensés en janvier et février 2005 en soins de suite ou réadaptation et en psychiatrie et correspondant aux forfaits mentionnés à l'article R. 162-31 du même code dans sa rédaction antérieure au décret du 28 janvier 2005 susvisé et aux éléments mentionnées aux c à f du 6° du I du même article.

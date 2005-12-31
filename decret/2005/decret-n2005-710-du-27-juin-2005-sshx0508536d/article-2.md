@@ -1,5 +1,0 @@
-# Article 2
-
-Pour l'exercice de ses attributions, le ministre délégué à la sécurité sociale, aux personnes âgées, aux personnes handicapées et à la famille dispose de la direction générale de l'action sociale, de la direction de l'hospitalisation et de l'organisation des soins, de la direction de la sécurité sociale, de la délégation interministérielle à la famille et du délégué interministériel aux personnes handicapées.
-
-Il dispose également, en tant que de besoin, des autres directions et services placés sous l'autorité du ministre de la santé et des solidarités ou sous l'autorité conjointe de celui-ci et du ministre de l'emploi, de la cohésion sociale et du logement, notamment le secrétaire général des ministères chargés des affaires sociales, la direction générale de la santé, la direction de la recherche, des études, de l'évaluation et des statistiques, la délégation aux affaires européennes et internationales et le service de l'information et de la communication, ainsi que de la délégation générale à l'emploi et à la formation professionnelle.

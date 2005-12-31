@@ -1,3 +1,0 @@
-# Article 11
-
-Pendant une durée de six ans à compter de la clôture du compte d'épargne forestière ou de la décision favorable selon les cas prévus à l'article 8, le contrôle de la réalisation de l'investissement forestier et de sa conformité aux conditions prévues dans le projet d'investissement ou dans la décision favorable est assuré, au nom du ministre chargé des forêts, par la direction départementale de l'agriculture et de la forêt territorialement compétente. Les agents chargés du contrôle sur place, habilités à cet effet, ont accès à tout document, renseignement et justificatif qu'ils jugent nécessaires à ce contrôle.

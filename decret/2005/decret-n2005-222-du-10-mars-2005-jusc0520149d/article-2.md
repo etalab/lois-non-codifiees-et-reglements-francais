@@ -1,3 +1,0 @@
-# Article 2
-
-Par dérogation aux dispositions des articles R. 411-3 et R. 411-4 du code de justice administrative, lorsqu'une partie ou un mandataire choisit de recourir à la procédure électronique de transmission pour l'envoi de la requête, celle-ci n'a pas à être accompagnée de copies. Toutefois, en cas de nécessité, et notamment si toutes les parties n'acceptent pas la communication de la requête à l'aide de la procédure électronique de transmission, le président de la formation de jugement ou, au Conseil d'Etat, le président de la section du contentieux ou le président de la sous-section chargée de l'instruction peut exiger des requérants la production de copies des requêtes sur support papier.

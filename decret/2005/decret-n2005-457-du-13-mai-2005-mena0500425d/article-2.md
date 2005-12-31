@@ -1,3 +1,0 @@
-# Article 2
-
-Le ministre de l'éducation nationale, de l'enseignement supérieur et de la recherche, le ministre de l'intérieur, de la sécurité intérieure et des libertés locales, le ministre de l'équipement, des transports, de l'aménagement du territoire, du tourisme et de la mer, le ministre de l'agriculture, de l'alimentation, de la pêche et de la ruralité, le ministre de la jeunesse, des sports et de la vie associative et la ministre déléguée à l'intérieur sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.

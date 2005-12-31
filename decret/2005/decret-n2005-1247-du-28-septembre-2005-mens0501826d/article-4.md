@@ -1,3 +1,0 @@
-# Article 4
-
-Le ministre des affaires étrangères, le ministre de l'éducation nationale, de l'enseignement supérieur et de la recherche, le ministre de l'outre-mer et le ministre délégué à l'enseignement supérieur et à la recherche sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.

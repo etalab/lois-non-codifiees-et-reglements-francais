@@ -1,3 +1,0 @@
-# Article 4
-
-Pour l'application du présent décret, l'organisation et le contenu des études d'architecture en formation initiale et en formation professionnelle continue au sens des dispositions de l'article 10, ainsi que les conditions d'obtention des différents diplômes auxquels elles mènent, sont fixés par arrêté conjoint des ministres chargés de l'architecture et de l'enseignement supérieur. Par exception, les conditions d'obtention de l'habilitation de l'architecte diplômé d'Etat à l'exercice de la maîtrise d'oeuvre en son nom propre sont fixées par arrêté du ministre chargé de l'architecture.

@@ -1,3 +1,0 @@
-# Article 19
-
-La commission administrative paritaire compétente à l'égard du corps des inspecteurs généraux de l'équipement et du corps des inspecteurs généraux de la construction régis par le décret du 16 septembre 1970 précité et la commission administrative paritaire compétente à l'égard du corps de l'inspection générale du tourisme régi par le décret du 14 février 1986 précité siègent en formation commune jusqu'à l'installation de la commission administrative paritaire du corps régi par le présent décret. L'élection des représentants du personnel à cette commission administrative paritaire devra intervenir dans l'année suivant la publication du présent décret.

@@ -1,7 +1,0 @@
-# Décret n°2005-790 du 12 juillet 2005 relatif aux règles de déontologie de la profession d'avocat.
-
-- [TITRE Ier : PRINCIPES ESSENTIELS DE LA PROFESSION D'AVOCAT.](titre-ier)
-- [TITRE II : DEVOIRS ENVERS LES CLIENTS.](titre-ii)
-- [TITRE III : DEVOIRS ENVERS LA PARTIE ADVERSE ET ENVERS LES CONFRÈRES.](titre-iii)
-- [TITRE IV : CONDITIONS PARTICULIÈRES D'EXERCICE DE LA PROFESSION.](titre-iv)
-- [TITRE V : DISPOSITIONS FINALES.](titre-v)

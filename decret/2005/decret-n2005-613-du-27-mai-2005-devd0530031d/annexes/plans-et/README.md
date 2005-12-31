@@ -1,3 +1,0 @@
-# PLANS ET DOCUMENTS MENTIONNÉS AU I DE L'ARTICLE L. 122-4 DU CODE DE L'ENVIRONNEMENT
-
-- [Article Annexe](article-annexe.md)

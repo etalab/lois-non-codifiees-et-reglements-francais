@@ -1,5 +1,0 @@
-# Article 2
-
-Pour l'exercice de ses attributions, le ministre délégué à l'emploi, au travail et à l'insertion professionnelle des jeunes dispose de la direction des relations du travail, de la délégation interministérielle à la lutte contre le travail illégal, de la délégation générale à l'emploi et à la formation professionnelle, de la direction de l'animation de la recherche, des études et des statistiques et de la délégation aux affaires européennes et internationales ainsi que, en tant que de besoin, de la délégation à l'innovation sociale et à l'économie sociale.
-
-Il dispose également, en tant que de besoin, des autres directions et services placés sous l'autorité du ministre de l'emploi, de la cohésion sociale et du logement ou sous l'autorité conjointe de celui-ci et du ministre de la santé et des solidarités, notamment l'inspection générale des affaires sociales, le secrétaire général des ministères chargés des affaires sociales, la direction de la population et des migrations, la délégation interministérielle à la ville et au développement social urbain et le service de l'information et de la communication.

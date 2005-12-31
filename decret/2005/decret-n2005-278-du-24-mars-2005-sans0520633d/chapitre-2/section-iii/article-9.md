@@ -1,7 +1,0 @@
-# Article 9
-
-Les agents de la Caisse nationale des industries électriques et gazières chargés du contrôle dans les conditions prévues par l'article L. 243-7 du code de la sécurité sociale effectuent, dans les conditions prévues par l'article R. 243-59 du même code, les contrôles sur place auprès des redevables relatifs, d'une part, aux cotisations et, d'autre part, à la contribution tarifaire, sous réserve des dispositions suivantes relatives à la contribution tarifaire.
-
-Le contrôle de la contribution tarifaire porte sur l'ensemble des informations, données et traitements informatiques qui concourent directement ou indirectement à la détermination de l'assiette et du montant de la contribution tarifaire ainsi qu'à l'élaboration des déclarations prévues à l'article 7 du présent décret et à la justification des éléments qu'elles contiennent. Les redevables sont tenus de présenter aux agents de la caisse chargés du contrôle tout document qui concourt ou justifie la détermination de l'assiette ou du montant de la contribution tarifaire et de permettre l'accès à tout support d'information qui leur est demandé pour permettre le contrôle de la contribution tarifaire.
-
-Si les éléments produits par le redevable à l'occasion du contrôle ne permettent pas de déterminer l'assiette et le montant de la contribution tarifaire au cours des périodes contrôlées, la caisse peut procéder à la fixation forfaitaire de l'assiette et du montant dû selon les modalités mentionnées au IV de l'article 7 du présent décret.

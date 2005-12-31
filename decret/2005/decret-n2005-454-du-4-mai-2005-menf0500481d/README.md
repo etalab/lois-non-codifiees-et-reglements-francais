@@ -1,3 +1,0 @@
-# Décret n°2005-454 du 4 mai 2005 modifiant le décret n° 90-50 du 12 janvier 1990 instituant une prime d'administration et une prime de charges administratives attribuées à certains personnels de l'enseignement supérieur, le décret n° 90-51 du 12 janvier 1990 instituant une prime d'encadrement doctoral et de recherche attribuée à certains personnels de l'enseignement supérieur et le décret n° 99-855 du 4 octobre 1999 instituant une prime de responsabilités pédagogiques dans les établissements d'enseignement supérieur relevant du ministre chargé de l'enseignement supérieur.
-
-- [Article 4](article-4.md)

@@ -1,3 +1,0 @@
-# Article 3
-
-Le fonctionnaire nommé dans l'emploi de directeur du centre des liaisons européennes et internationales de sécurité sociale est placé en position de détachement de son corps ou cadre d'emplois d'origine et classé à l'échelon comportant un indice égal ou, à défaut, immédiatement supérieur à celui détenu dans son précédent grade ou emploi. Dans la limite de l'ancienneté exigée à l'article précédent pour accéder à l'échelon supérieur, il conserve son ancienneté d'échelon si sa nomination lui procure un gain indiciaire inférieur à celui qui aurait résulté d'un avancement d'échelon ou qui avait résulté de sa promotion au dernier échelon dans son précédent grade ou emploi.

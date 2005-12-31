@@ -1,3 +1,0 @@
-# Article 1
-
-Les règles comptables spécifiques prévues par le présent décret s'appliquent uniquement aux syndicats de copropriétaires. Elles ne s'appliquent pas à la comptabilité du syndic, qui obéit à ses règles propres, ni à la comptabilité d'autres entités telles que les unions de syndicats ou les associations syndicales régies par l'ordonnance du 1er juillet 2004 susvisée. Les statuts de ces dernières peuvent, toutefois, prévoir que leurs comptes sont tenus conformément aux règles comptables propres aux syndicats de copropriétaires, à l'exception des associations assujetties de plein droit au règlement n° 99-01 du Comité de la réglementation comptable.

@@ -1,5 +1,0 @@
-# Article 6
-
-Les délégués territoriaux du directeur du service de l'aviation civile sont notamment chargés, sous l'autorité du préfet de la région et du département de La Réunion, du préfet de Mayotte, de l'administrateur supérieur des Terres australes et antarctiques françaises et du délégué du Gouvernement pour l'administration des îles Eparses de l'océan Indien et en liaison avec les autorités compétentes, de faire appliquer les règlements et de coordonner les actions en matière de protection et de sûreté des aérodromes dans les conditions fixées par arrêté des ministres intéressés et d'assurer, le cas échéant, la gestion et le fonctionnement des aérodromes gérés directement par l'Etat.
-
-En outre, ils assistent ou suppléent le directeur du service de l'aviation civile dans l'exercice de ses missions de contrôle et de surveillance d'opérateurs concourant au fonctionnement de l'activité aéroportuaire et à la sécurité du transport aérien et, d'une manière générale, de contrôle et de surveillance de toutes les activités aériennes dans leur zone de compétence.

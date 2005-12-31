@@ -1,3 +1,0 @@
-# Article 2
-
-Le décret n° 2002-758 du 2 mai 2002 relatif à l'attribution d'une prime au bénéfice des producteurs de viandes ovine et caprine, le décret n° 98-161 du 11 mars 1998 relatif à la prime spéciale aux bovins mâles, le décret n° 80-606 du 31 juillet 1980 relatif à l'attribution d'une prime au maintien du troupeau de vaches allaitantes, le décret n° 2002-938 du 14 juin 2002 relatif à la prime à l'abattage dans l'Union européenne ou à l'exportation vers un pays tiers des bovins et le décret n° 2005-612 du 27 mai 2005 relatif à la fixation du nombre de demandes de prime à l'abattage au titre d'une même campagne sont abrogés.

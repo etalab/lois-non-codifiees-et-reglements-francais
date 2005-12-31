@@ -1,3 +1,0 @@
-# Article 1
-
-Sous réserve des règles propres au livret A, les biens, droits et obligations liés aux comptes, livrets et contrats de toute nature ouverts ou conclus par La Poste au titre de la Caisse nationale d'épargne, notamment ceux nécessaires au respect des règles de couverture des risques et des obligations prudentielles des établissements de crédit, sont transférés, par l'intermédiaire de La Poste, à l'établissement de crédit mentionné au 1 du II de l'article 16 de la loi du 20 mai 2005 susvisée, dans les conditions définies aux articles 2 à 6. Ce transfert prend effet à la date mentionnée à l'article 5.
