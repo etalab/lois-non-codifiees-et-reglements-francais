@@ -1,3 +1,0 @@
-# TITRE II : DISPOSITIONS RELATIVES À L'ASILE TERRITORIAL.
-
-- [Article 3](article-3.md)

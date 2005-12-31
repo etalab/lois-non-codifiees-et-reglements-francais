@@ -35,6 +35,7 @@
 - [Décret n°2001-1149 du 4 décembre 2001 (MESS0123473D)](decret-n2001-1149-du-4-decembre-2001-mess0123473d)
 - [Décret n°2001-1152 du 4 décembre 2001 (EQUX0105037D)](decret-n2001-1152-du-4-decembre-2001-equx0105037d)
 - [Décret n°2001-1155 du 4 décembre 2001 (INTB0100314D)](decret-n2001-1155-du-4-decembre-2001-intb0100314d)
+- [Décret n°2001-294 du 4 avril 2001 (INTM0100008D)](decret-n2001-294-du-4-avril-2001-intm0100008d)
 - [Décret n°2001-295 du 4 avril 2001 (MENS0003290D)](decret-n2001-295-du-4-avril-2001-mens0003290d)
 - [Décret n°2001-297 du 4 avril 2001 (DEFP0002512D)](decret-n2001-297-du-4-avril-2001-defp0002512d)
 - [Décret n°2001-305 du 4 avril 2001 (AGRR0002544D)](decret-n2001-305-du-4-avril-2001-agrr0002544d)
