@@ -8,6 +8,6 @@ II. - Sans préjudice des prélèvements existants, il est institué une contrib
 
 Cette contribution est recouvrée et contrôlée selon les mêmes règles et sous les mêmes sûretés, privilèges et sanctions que le prélèvement institué par la loi du 2 juin 1891 modifiée ayant pour objet de réglementer l'autorisation et le fonctionnement des courses de chevaux.
 
-III. - Sans préjudice des prélèvements existants, il est institué une contribution sur une fraction du produit brut des jeux réalisé à compter du 1er février 1996, dans les casinos régis par la loi du 15 juin 1907 réglementant le jeu dans les cercles et les casinos des stations balnéaires, thermales et climatiques. Cette fraction est égale à 600 p. 100 du produit brut des jeux dans les casinos.
+III. - Sans préjudice des prélèvements existants, il est institué une contribution sur la totalité du produit brut des jeux réalisé à compter du 1er février 1996, dans les casinos régis par la loi du 15 juin 1907 réglementant le jeu dans les cercles et les casinos des stations balnéaires, thermales et climatiques.
 
 Cette contribution est recouvrée et contrôlée selon les mêmes règles et sous les mêmes sûretés, privilèges et sanctions que le prélèvement prévu à l'article 50 de la loi de finances pour 1991 (n° 90-1168 du 29 décembre 1990).
