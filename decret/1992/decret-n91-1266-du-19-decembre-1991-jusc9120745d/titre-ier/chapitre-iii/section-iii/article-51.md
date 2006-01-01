@@ -6,7 +6,7 @@ Copie des décisions du bureau, de la section du bureau ou de leur président pr
 
 2° A la caisse des règlements pécuniaires des avocats lorsqu'un avocat est désigné ou choisi ;
 
-3° Au trésorier-payeur général ;
+3° (paragraphe abrogé) ;
 
 4° Lorsque l'aide juridictionnelle est accordée pour l'instance, au greffier ou au secrétaire de la juridiction compétente ;
 

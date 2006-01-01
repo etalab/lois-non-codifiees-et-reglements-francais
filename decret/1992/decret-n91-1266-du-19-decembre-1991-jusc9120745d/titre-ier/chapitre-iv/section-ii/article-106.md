@@ -1,3 +1,3 @@
 # Article 106
 
-La part contributive due par l'Etat aux avoués et aux avocats au Conseil d'Etat et à la Cour de cassation est payée par le trésorier-payeur général.
+La part contributive due par l'Etat aux avoués et aux avocats au Conseil d'Etat et à la Cour de cassation est liquidée et ordonnancée par l'ordonnateur compétent ou son délégataire et payée par le comptable assignataire.
