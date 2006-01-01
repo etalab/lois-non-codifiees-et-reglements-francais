@@ -4,7 +4,7 @@ L'allocation de logement est accordée, au titre de sa résidence principale et 
 
 Le logement doit répondre à des conditions minima de salubrité et de peuplement déterminées par arrêté du représentant de l'Etat.
 
-Les barèmes de cette allocation sont fixés par voie réglementaire ; le nombre d'enfants pris en compte est limité à trois par allocataire.
+Les barèmes de cette allocation sont fixés par voie réglementaire.
 
 La caisse gestionnaire est habilitée à faire vérifier sur place si le logement satisfait aux exigences prévues au présent article. Le même droit est reconnu aux médecins inspecteurs de la santé et aux inspecteurs des affaires sanitaires et sociales. Le contrôle du montant des loyers et de l'importance des ressources du bénéficiaire est assuré par le personnel assermenté de cette caisse auquel les administrations publiques et les administrations financières sont tenues de communiquer toutes les pièces nécessaires à l'exercice de leurs fonctions.
 
