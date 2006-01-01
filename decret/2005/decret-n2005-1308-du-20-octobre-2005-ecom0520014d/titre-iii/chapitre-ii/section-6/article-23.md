@@ -1,0 +1,3 @@
+# Article 23
+
+Les groupements d'opérateurs économiques sont autorisés à se porter candidats. Pour la présentation d'une candidature ou d'une offre, l'entité adjudicatrice ne peut exiger que le groupement d'opérateurs économiques ait une forme juridique déterminée, mais le groupement retenu peut être contraint de revêtir une telle forme lorsque le marché lui a été attribué, si cette transformation est nécessaire pour la bonne exécution du marché. Dans ce cas, la forme qui sera imposée après attribution est mentionnée, sauf impossibilité, dans l'avis d'appel à concurrence ou dans les documents de la consultation.
