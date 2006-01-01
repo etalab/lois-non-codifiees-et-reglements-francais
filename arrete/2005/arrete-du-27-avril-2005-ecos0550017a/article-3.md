@@ -12,7 +12,7 @@ La formation compétente pour les enquêtes statistiques et les projets d'exploi
 
 5. Un des représentants des organisations syndicales mentionnés au paragraphe k du I de l'article 2 du décret du 7 avril 2005 susvisé choisi par et parmi ceux-ci ;
 
-6. Le délégué aux usagers et aux simplifications administratives ;
+6. Le directeur général de la modernisation de l'Etat ou son représentant ;
 
 7. Le directeur de l'Institut national de la statistique et des études économiques en charge des statistiques d'entreprises ;
 

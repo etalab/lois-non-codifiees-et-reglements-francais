@@ -6,4 +6,4 @@ Pour l'exercice de ces mêmes attributions, il dispose, en tant que de besoin, n
 
 Il dispose du conseil consultatif de l'internet et de la délégation aux usages de l'internet.
 
-Il peut faire appel à la direction du développement des médias, à l'agence pour le développement de l'administration électronique et au conseil stratégique des technologies de l'information.
+Il peut faire appel à la direction du développement des médias, à la direction générale de la modernisation de l'Etat et au conseil stratégique des technologies de l'information.
