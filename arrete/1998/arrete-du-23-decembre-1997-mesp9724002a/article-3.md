@@ -1,87 +1,65 @@
 # Article 3
 
-La définition et le tarif de cession des plasmas pour fractionnement sont les suivants :
+- La définition et le tarif de cession des plasmas pour fractionnement sont les suivants :
 
-En euros
+En euros HT
 
-Plasma pour fractionnement dit de catégorie 1 provenant de plasmaphérèse, le litre
+Plasma pour fractionnement provenant de plasmaphérèse, dit de catégorie 1, de volume supérieur ou égal à 400 ml, le litre
 
-158,76
+155,49
 
-Plasma pour fractionnement dit de catégorie 1 provenant de déplasmatisation de sang total, le litre
+Plasma pour fractionnement provenant de plasmaphérèse, dit de catégorie 1, de volume inférieur à 400 ml, le litre
 
-63,90
+62,59
 
-Plasma  pour  fractionnement  dit  de  catégorie  2,  le litre
+Plasma pour fractionnement provenant de déplasmatisation de sang total, dit de catégorie 1, le litre
 
-63,90
+62,59
 
-Plasma  pour  fractionnement  dit  de  catégorie  3,  le litre
+Plasma pour fractionnement provenant de déplasmatisation de sang total, dit de catégorie 2, le litre
 
-19,43
+19,03
 
-Majoration du litre pour spécificité "antitétanique" :
+Majoration du litre pour spécificité " antitétanique " :
 
-- concentration en anticorps supérieure à 20 UI par ml appliquée au :
+Concentration en anticorps supérieure à 20 UI par ml appliquée au :
 
--plasma de catégorie 1 provenant de plasmaphérèse
+- Plasma de catégorie 1 provenant de plasmaphérèse
 
-211,75
+134,51
 
--plasma de catégorie 1 provenant de déplasmatisation de sang total
+- Plasma de catégorie 1 provenant de déplasmatisation de sang total
 
-136,33
+133,41
 
--plasma de catégorie 2
+Concentration en anticorps entre 8 et 20 UI par ml appliquée au :
 
-136,33
+- Plasma de catégorie 1 provenant de plasmaphérèse
 
-- concentration en anticorps entre 8 et 20 UI par ml, appliquée au :
+114,51
 
--plasma de catégorie 1 provenant de plasmaphérèse
+- Plasma de catégorie 1 provenant de déplasmatisation de sang total
 
-160,51
+83,41
 
--plasma de catégorie 1 provenant de déplasmatisation de sang total
+Majoration du litre pour spécificité " anti-HBs " :
 
-85,10
+Concentration en anticorps supérieure à 20 UI par ml appliquée au :
 
-plasma de catégorie 2
+- Plasma de catégorie 1 provenant de plasmaphérèse
 
-85,10
+214,51
 
-Majoration du litre pour spécificité "anti-D" (uniquement sur plasma dit de catégorie 3) :
+- Plasma de catégorie 1 provenant de déplasmatisation de sang total
 
-- concentration en anticorps de 1 microgramme/ml
+189,41
 
-198,05
+Concentration en anticorps entre 8 et 20 UI par ml appliquée au :
 
-- par microgramme supplémentaire par ml jusqu'à 39 microgrammes
+- Plasma de catégorie 1 provenant de plasmaphérèse
 
-38,26
+144,51
 
-Majoration du litre pour spécificité "anti-HBs" :
+- Plasma de catégorie 1 provenant de déplasmatisation de sang total
 
-- concentration en anticorps supérieure à 20 UI par ml appliquée au :
-
-plasma de catégorie 1 provenant de plasmaphérèse
-
-268,95
-
-plasma de catégorie 1 provenant de déplasmatisation de sang total
-
-193,54
-
-plasma de catégorie 2
-
-193,54
-
-Majoration du litre pour spécificité "anti-zona-varicelle" :
-
-- concentration en anticorps supérieure à 20 UI par ml
-
-181,51
-
-- concentration en anticorps comprise entre 10 et 20 UI par ml
-
-105,49
+111,41

@@ -1,7 +1,5 @@
 # Article 22
 
-La caution écrite d'une entreprise d'assurance ou d'un établissement de crédit mentionné à l'article 17 du présent décret prend la forme d'une caution donnée, dans des conditions prévues par le présent décret, par un établissement ayant son siège ou une succursale en France.
+Peuvent souscrire l'engagement écrit mentionné au septième alinéa de l'article 3 de la loi du 2 janvier 1970 susvisée les entreprises d'assurance et les établissements de crédit agréés en France ou dans un autre Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace économique européen.
 
-Pour l'application de l'alinéa précédent, les établissements de crédit agréés dans la Principauté de Monaco sont réputés avoir leur siège en France.
-
-Cette caution résulte d'une convention écrite qui en fixe les conditions générales et notamment précise le montant de la garantie accordée, les conditions de rémunération, les modalités de contrôle comptable, ainsi que les contre-garanties éventuellement exigées par le garant.
+Pour l'application de ces dispositions, les établissements de crédit agréés dans la Principauté de Monaco sont réputés agréés en France.

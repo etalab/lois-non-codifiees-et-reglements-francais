@@ -1,0 +1,3 @@
+# Article 14-2
+
+Les pièces justificatives relatives au remboursement de frais occasionnés par les déplacements des personnels d'un établissement public à caractère scientifique et technologique sont conservées par l'ordonnateur qui les tient à la disposition de l'agent comptable. Lorsque, à l'occasion de l'exercice de son contrôle a posteriori, ce dernier constate que le paiement n'était pas dû en totalité ou en partie au regard des contrôles lui incombant en vertu des articles 12 et 13 du décret du 29 décembre 1962 susmentionné, l'ordonnateur émet l'ordre de recette ou l'ordre de reversement correspondant.

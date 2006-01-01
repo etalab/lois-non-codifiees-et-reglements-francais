@@ -46,4 +46,10 @@ Les limites de chacune de ces tranches sont affectées des coefficients (ou nomb
 
 3,7 pour un ménage ou une personne avec trois enfants ou plus à charge.
 
+4,3 pour un ménage ou une personne avec quatre enfants à charge ;
+
+4,8 pour un ménage ou une personne avec cinq enfants à charge ;
+
+5,3 pour un ménage ou une personne avec six enfants ou plus à charge.
+
 Le loyer minimum ainsi obtenu est majoré d'un montant égal à 61,08 Euros.

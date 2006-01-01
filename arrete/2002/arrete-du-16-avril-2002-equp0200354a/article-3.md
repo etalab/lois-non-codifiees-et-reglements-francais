@@ -2,9 +2,9 @@
 
 I. - Pour les postes définis au II du présent article, le montant maximal déplafonné annuel de la prime de métier est fixé à :
 
-4 200 EUR pour les personnels à partir du niveau de classification de maître compagnon jusqu'au niveau de classification terminal de chaque filière (chef d'exploitation C, chef d'atelier C, chef magasinier B) et pour les techniciens ;
+4 304 euros pour les personnels à partir du niveau de classification de maître compagnon jusqu'au niveau de classification terminal de chaque filière (chef d'exploitation C, chef d'atelier C, chef magasinier B) et pour les techniciens ;
 
-4 000 EUR pour les personnels relevant des niveaux de classification d'ouvrier qualifié, d'ouvrier expérimenté et de compagnon.
+4 104 euros pour les personnels relevant des niveaux de classification d'ouvrier qualifié, d'ouvrier expérimenté et de compagnon.
 
 II. - Les postes de travail auxquels ces plafonds peuvent être appliqués sont :
 

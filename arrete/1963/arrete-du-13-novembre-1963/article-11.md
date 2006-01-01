@@ -1,6 +1,6 @@
 # Article 11
 
-Le droit à l'allocation viagère est ouvert aux gérants de débit de tabac exploitant à titre personnel ou en qualité de gérant d'une société en nom collectif, âgés d'au moins soixante-cinq ans, ayant cessé leurs fonctions [*bénéficiaires*].
+Le droit à l'allocation viagère est ouvert aux gérants de débit de tabac exploitant à titre personnel ou en qualité de gérant d'une société en nom collectif, âgés d'au moins soixante-cinq ans, ayant cessé leurs fonctions.
 
 A compter du 1er janvier 1991, le droit à l'allocation viagère est ouvert aux anciens gérants, quelle que soit la durée de leur gestion.
 

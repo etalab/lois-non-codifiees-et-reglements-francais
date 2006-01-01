@@ -1,27 +1,9 @@
 # Article Annexe I
 
-Viandes fraîches de boucherie : directives (CEE) 64/433 et 71/461 ;
+Directive 2002/99/CE du Conseil du 16 décembre 2002 fixant les règles de police sanitaire régissant la production, la transformation, la distribution et l'introduction des produits d'origine animale destinés à la consommation humaine.
 
-Viandes fraîches de volailles : directives (CEE) 71/118 et 91/494 ;
+Règlement (CE) n° 853/2004 du Parlement européen et du Conseil du 29 avril 2004 fixant les règles spécifiques d'hygiène applicables aux denrées alimentaires d'origine animale.
 
-viandes fraîches de gibier d'élevage : directive (cee) 91/495 ;
+Directive 92/118/CEE du Conseil du 17 décembre 1992 définissant les conditions de police sanitaire ainsi que les conditions sanitaires régissant les échanges et les importations dans la Communauté de produits non soumis, en ce qui concerne lesdites conditions, aux réglementations communautaires spécifiques visées à l'annexe A, chapitre Ier, de la directive 89/662/CEE et en ce qui concerne les pathogènes de la directive 90/425/CEE.
 
-Viandes fraîches de gibier sauvage : directive (CEE) 92/45 ;
-
-Viandes hachées et préparations de viandes : directive (CE) 94/65 ;
-
-Produits à base de viande : directives (CEE) 77/99 et 80/215 ;
-
-Ovoproduits : directive (CEE) 89/437 ;
-
-Lait cru ou traité thermiquement et produits à base de lait :
-
-directive (CEE) 92/46 ;
-
-Produits de la pêche : directive (CEE) 91/493 ;
-
-Animaux et produits d'aquaculture : directive (CEE) 91/67 ;
-
-Mollusques bivalves vivants : directive (CEE) 91/492 ;
-
-Autres produits d'origine animale visés au point 2° de l'article 1er : directive (CEE) 92/118.
+Règlement (CE) n° 1774/2002 du Parlement européen et du Conseil du 3 octobre 2002 établissant des règles sanitaires applicables aux sous-produits animaux non destinés à la consommation humaine.

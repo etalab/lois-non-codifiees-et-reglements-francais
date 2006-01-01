@@ -2,13 +2,13 @@
 
 Les contingents de primes de qualification prévus à l'article 3 du décret du 14 juin 2004 susvisé sont fixés ainsi qu'il suit :
 
-1° Praticien en formation : 363.
+1° Praticien en formation : 382.
 
-2° Praticien : 1 077.
+2° Praticien : 1 034.
 
-3° Praticien confirmé : 517.
+3° Praticien confirmé : 451.
 
-4° Praticien certifié : 859.
+4° Praticien certifié : 925.
 
 5° Praticien professeur agrégé : 177.
 

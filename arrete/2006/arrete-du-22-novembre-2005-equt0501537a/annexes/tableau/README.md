@@ -1,0 +1,3 @@
+# TABLEAU DE SYNTHÈSE DES PRINCIPALES MESURES.
+
+- [Article ANNEXE 1](article-annexe-1.md)

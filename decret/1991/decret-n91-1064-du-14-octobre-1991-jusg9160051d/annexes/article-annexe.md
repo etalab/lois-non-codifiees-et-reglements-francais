@@ -240,35 +240,15 @@ Directeur des services pénitentiaires, adjoint à la mission des services péni
 
 Directeur des services pénitentiaires, chef de cabinet à l'administration centrale.
 
-A compter du 1er septembre 2002 :
-
 Adjoint au chef de l'inspection des services pénitentiaires.
 
 SERVICES JUDICIAIRES.
 
 Fonction exercée pouvant ouvrir droit au versement d'une nouvelle bonification indiciaire.
 
-(l) Greffier en chef, chef de greffe.
-
 Délégué à la formation informatique adjoint.
 
-Délégué à la formation informatique.
-
-Directeur de la formation permanente et informatique à l'Ecole nationale des greffes.
-
-Formateur régional.
-
-Greffier en chef à la mission d'inspection des greffes.
-
 Greffier, chef de greffe.
-
-Maître de conférences à l'Ecole nationale des greffes.
-
-Secrétaire général adjoint à l'Ecole nationale des greffes.
-
-Sous-directeur de la formation initiale et de la recherche à l'Ecole nationale des greffes.
-
-Sous-directeur de la formation permanente à l'Ecole nationale des greffes.
 
 Assistant de gestion adjoint chargé de fonctions particulières à la Cour de cassation.
 
@@ -278,15 +258,9 @@ Assistant informatique adjoint chargé de fonctions particulières à la Cour de
 
 Assistant informatique chargé de fonctions particulières à la Cour de cassation.
 
-Chef de service chargé de fonctions particulières à la Cour de cassation.
-
 Greffier d'audience correctionnelle collégiale dans un tribunal de grande instance.
 
 Greffier d'instruction dans un cabinet d'instruction d'un tribunal de grande instance.
-
-Greffier en chef mis à disposition ou affecté à l'administration centrale ou à l'Ecole nationale des greffes chargé de développement, d'implantation et de formation en matière informatique au profit des juridictions.
-
-Greffier en chef, délégué à la gestion budgétaire.
 
 Greffier mis à disposition ou affecté à l'administration centrale ou à l'Ecole nationale des greffes chargé de développement, d'implantation et de formation en matière informatique au profit des juridictions.
 
@@ -300,10 +274,6 @@ Greffier responsable de l'audiovisuel Ecole nationale des greffes.
 
 Moniteur Ecole nationale des greffes.
 
-Greffier en chef, coordonnateur du service administratif régional de la cour d'appel.
-
-(1) Les fonctions exercées par des greffiers en chef nommés sur des emplois du premier grade et classés dans 1es Ire et 2e catégories ne sont pas bonifiées.
-
 Adjoint et agent administratifs placés.
 
 Responsable de la gestion budgétaire adjoint.
@@ -311,8 +281,6 @@ Responsable de la gestion budgétaire adjoint.
 Greffier d'assises.
 
 Responsable chargé des ressources humaines adjoint.
-
-Responsable chargé des ressources humaines.
 
 Secrétaire de direction.
 
@@ -341,6 +309,8 @@ Directeur d'établissement ou service :
 - établissement de plus de 70 agents ;
 
 Régisseur d'avances et de recettes.
+
+A compter du 1er août 1995 :
 
 Agent assurant seul l'accueil secrétariat dans un établissement multifonctionnel.
 
@@ -373,6 +343,8 @@ Directeur responsable de formation ou d'études au centre national de formation 
 Educateur remplaçant.
 
 Personnel de service social chargé des fonctions de référent technique régional.
+
+A compter du 1er janvier 2001 :
 
 Agent autre que directeur chargé des fonctions de directeur départemental.
 
@@ -421,6 +393,8 @@ Secrétaire du grand chancelier de la Légion d'honneur ;
 Secrétaire en poste auprès du secrétaire général ;
 
 Secrétaire en poste auprès du secrétaire général adjoint ;
+
+A compter du 1er août 1995 :
 
 Adjoint au chef de bureau de la médaille militaire.
 
@@ -497,6 +471,8 @@ Responsable des traitements, Saint-Denis ;
 Secrétaire d'intendance, Les Loges.
 
 Veilleur de nuit de la maison d'éducation de Saint-Denis.
+
+A compter du 1er août 1996 :
 
 Secrétariat censeur, Les Loges ;
 

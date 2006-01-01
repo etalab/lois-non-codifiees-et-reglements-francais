@@ -1,0 +1,7 @@
+# Article 5
+
+L'autorité chargée du contrôle financier vise le document annuel de programmation budgétaire initiale établi obligatoirement par chaque ministre au plus tard un mois avant le début de l'exercice concerné.
+
+Ce visa permet la mise en place auprès des gestionnaires des administrations civiles et militaires de l'Etat des crédits ouverts à chaque programme. Il porte sur l'exactitude des projets de répartition des emplois de chaque ministère et de répartition des crédits de chaque programme entre les services de l'Etat ainsi que sur la cohérence des emplois alloués et des crédits de personnels correspondants pour chaque programme. Il porte également sur les conditions de présentation des documents prévisionnels de gestion et de suivi de l'exécution budgétaire établis par les gestionnaires. L'autorité chargée du contrôle financier s'assure de la constitution, en tant que de besoin, d'une réserve de crédits destinée à prévenir une détérioration de l'équilibre budgétaire, en vue de la mise en oeuvre de l'article 14 de la loi organique susvisée.
+
+Lorsque, du fait de l'absence de production de document de programmation budgétaire initiale ou lorsque ce document est incomplet, l'autorité chargée du contrôle financier estime qu'elle ne sera pas en mesure d'apposer son visa avant le 15 janvier, elle saisit, avant le 10 janvier, le ministre chargé du budget en vue de l'approbation de la programmation budgétaire initiale.

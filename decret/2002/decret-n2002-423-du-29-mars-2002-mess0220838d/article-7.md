@@ -6,4 +6,4 @@ Les taux servant au calcul des allocations familiales sont fixés en pourcentage
 
 2° 17,85 % pour deux enfants ;
 
-3° 21,41 % pour trois enfants ou plus.
+3° 21,41 % pour trois enfants et 3,56 % par enfant supplémentaire.

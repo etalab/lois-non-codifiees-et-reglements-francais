@@ -4,8 +4,6 @@ Les emplois figurant au présent article sont déclarés emplois de conseiller d
 
 Direction de la protection judiciaire de la jeunesse :
 
-Secrétaire général du Centre national de formation et d'études ;
-
 Chargé de fonctions d'inspection des services de la protection judiciaire de la jeunesse ;
 
 Chargé de mission en matière de développement du contrôle de gestion et d'organisation stratégique de la direction régionale de :
@@ -14,7 +12,11 @@ Ile-de-France ;
 
 Rhône-Alpes - Auvergne ;
 
-Provence-Alpes-Côte d'Azur-Corse.
+Provence-Alpes-Côte d'Azur-Corse ;
+
+Chef du bureau des carrières et du développement professionnel à la direction de la protection judiciaire de la jeunesse ;
+
+Chef du bureau de l'informatique et de la statistique à la direction de la protection judiciaire de la jeunesse.
 
 Administration centrale :
 
@@ -33,7 +35,5 @@ Chargé de mission auprès du directeur de la protection judiciaire de la jeunes
 Chef du bureau du budget, de la comptabilité et des finances à la direction de l'administration pénitentiaire ;
 
 Chef du bureau de la gestion prévisionnelle des emplois, des effectifs et des compétences à la direction de l'administration pénitentiaire ;
-
-Chef du bureau des relations sociales et des statuts à la direction de la protection judiciaire de la jeunesse ;
 
 Chef du bureau des services informatiques à la direction de l'administration générale et de l'équipement.

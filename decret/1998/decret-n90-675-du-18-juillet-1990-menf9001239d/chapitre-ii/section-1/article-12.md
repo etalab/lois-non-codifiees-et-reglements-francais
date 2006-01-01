@@ -18,7 +18,12 @@ Les inspecteurs de l'éducation nationale sont classés, lors de leur titularisa
 <td width="189">
 <p align="center">A. - Classe normale</p>
 </td>
-<td colspan="2" valign="top" width="416"/>
+<td width="151">
+<br/>
+</td>
+<td width="265">
+<br/>
+</td>
 </tr>
 <tr>
 <td valign="top" width="189">
@@ -33,13 +38,13 @@ Les inspecteurs de l'éducation nationale sont classés, lors de leur titularisa
 </tr>
 <tr>
 <td valign="top" width="189">
-<p>2e échelon avant 6 mois </p>
+<p>2e échelon avant 6 mois</p>
 </td>
 <td valign="top" width="151">
 <p align="center">3e échelon</p>
 </td>
 <td valign="top" width="265">
-<p>Maintien de l'ancienneté d'échelon et majoration de 2 ans 6 mois.</p>
+<p>Maintien de l'ancienneté d'échelon et majoration de 1 an 3 mois.</p>
 </td>
 </tr>
 <tr>
@@ -61,7 +66,7 @@ Les inspecteurs de l'éducation nationale sont classés, lors de leur titularisa
 <p align="center">4e échelon</p>
 </td>
 <td valign="top" width="265">
-<p>Maintien de l'ancienneté d'échelon et majoration de 1 an 4 mois.</p>
+<p>Maintien de l'ancienneté d'échelon et majoration de 8 mois.</p>
 </td>
 </tr>
 <tr>
@@ -72,7 +77,7 @@ Les inspecteurs de l'éducation nationale sont classés, lors de leur titularisa
 <p align="center">5e échelon</p>
 </td>
 <td valign="top" width="265">
-<p>Maintien des sept quinzièmes de l'ancienneté d'échelon et majoration de 10 mois.</p>
+<p>Maintien d'un tiers de l'ancienneté d'échelon.</p>
 </td>
 </tr>
 <tr>
@@ -83,7 +88,7 @@ Les inspecteurs de l'éducation nationale sont classés, lors de leur titularisa
 <p align="center">5e échelon</p>
 </td>
 <td valign="top" width="265">
-<p>Maintien des six septièmes de l'ancienneté d'échelon et majoration de 2 ans.</p>
+<p>Maintien des six septièmes de l'ancienneté d'échelon et majoration de 12 mois.</p>
 </td>
 </tr>
 <tr>
@@ -94,7 +99,7 @@ Les inspecteurs de l'éducation nationale sont classés, lors de leur titularisa
 <p align="center">6e échelon</p>
 </td>
 <td valign="top" width="265">
-<p>Maintien des six septièmes de l'ancienneté d'échelon supérieure à 1 an2 mois.</p>
+<p>Sans ancienneté.</p>
 </td>
 </tr>
 <tr>
@@ -105,23 +110,23 @@ Les inspecteurs de l'éducation nationale sont classés, lors de leur titularisa
 <p align="center">6e échelon</p>
 </td>
 <td valign="top" width="265">
-<p>Maintien des trois septièmes de l'ancienneté d'échelon et majoration de 2 ans.</p>
+<p>Maintien d'un tiers de l'ancienneté d'échelon.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="189">
-<p>7e échelon avant 1 an</p>
+<p>7e échelon avant 1 an </p>
 </td>
 <td valign="top" width="151">
 <p align="center">6e échelon</p>
 </td>
 <td valign="top" width="265">
-<p>Maintien de la moitié d'ancienneté d'échelon et majoration de 3 ans 6 mois.</p>
+<p>Maintien de l'ancienneté d'échelon et majoration de 14 mois.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="189">
-<p>7e échelon après 1 an</p>
+<p>7e échelon après 1 an </p>
 </td>
 <td valign="top" width="151">
 <p align="center">7e échelon</p>
@@ -132,24 +137,24 @@ Les inspecteurs de l'éducation nationale sont classés, lors de leur titularisa
 </tr>
 <tr>
 <td valign="top" width="189">
-<p>8e échelon avant 2 ans</p>
+<p>8e échelon avant 2 ans </p>
 </td>
 <td valign="top" width="151">
 <p align="center">7e échelon</p>
 </td>
 <td valign="top" width="265">
-<p>Maintien d'un tiers de l'ancienneté d'échelon et majoration de 1 an 6 mois.</p>
+<p>Maintien d'un quart de l'ancienneté d'échelon et majoration de 1 an 6 mois.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="189">
-<p>8e échelon après 2 ans</p>
+<p>8e échelon après 2 ans </p>
 </td>
 <td valign="top" width="151">
 <p align="center">7e échelon</p>
 </td>
 <td valign="top" width="265">
-<p>Maintien des trois cinquièmes de l'ancienneté d'échelon et majoration de 2 ans 6 mois.</p>
+<p>Maintien de l'ancienneté d'échelon dans la limite de 36 mois.</p>
 </td>
 </tr>
 <tr>
@@ -171,7 +176,7 @@ Les inspecteurs de l'éducation nationale sont classés, lors de leur titularisa
 <p align="center">8e échelon</p>
 </td>
 <td valign="top" width="265">
-<p>Maintien des quatre onzièmes de l'ancienneté d'échelon et majoration de 2 ans.</p>
+<p>Maintien des deux onzièmes de l'ancienneté d'échelon et majoration de 2 ans.</p>
 </td>
 </tr>
 <tr>
@@ -182,14 +187,19 @@ Les inspecteurs de l'éducation nationale sont classés, lors de leur titularisa
 <p align="center">9e échelon</p>
 </td>
 <td valign="top" width="265">
-<p>Maintien de l'ancienneté d'échelon.</p>
+<p>Maintien de l'ancienneté d'échelon dans la limite de 36 mois.</p>
 </td>
 </tr>
 <tr>
 <td width="189">
 <p align="center">B. - Hors-classe</p>
 </td>
-<td colspan="2" valign="top" width="416"/>
+<td width="151">
+<br/>
+</td>
+<td width="265">
+<br/>
+</td>
 </tr>
 <tr>
 <td valign="top" width="189">
@@ -199,7 +209,7 @@ Les inspecteurs de l'éducation nationale sont classés, lors de leur titularisa
 <p align="center">7e échelon</p>
 </td>
 <td valign="top" width="265">
-<p>Maintien des quatre cinquièmes de l'ancienneté d'échelon.</p>
+<p>Maintien des deux cinquièmes de l'ancienneté d'échelon.</p>
 </td>
 </tr>
 <tr>
@@ -210,7 +220,7 @@ Les inspecteurs de l'éducation nationale sont classés, lors de leur titularisa
 <p align="center">7e échelon</p>
 </td>
 <td valign="top" width="265">
-<p>Maintien des quatre cinquièmes de l'ancienneté d'échelon et majoration de18 mois.</p>
+<p>Maintien des quatre cinquièmes de l'ancienneté d'échelon et majoration de 1 an.</p>
 </td>
 </tr>
 <tr>
@@ -221,7 +231,7 @@ Les inspecteurs de l'éducation nationale sont classés, lors de leur titularisa
 <p align="center">8e échelon</p>
 </td>
 <td valign="top" width="265">
-<p>Maintien des quatre cinquièmes de l'ancienneté d'échelon.</p>
+<p>Maintien des deux cinquièmes de l'ancienneté d'échelon.</p>
 </td>
 </tr>
 <tr>
@@ -232,7 +242,7 @@ Les inspecteurs de l'éducation nationale sont classés, lors de leur titularisa
 <p align="center">8e échelon</p>
 </td>
 <td valign="top" width="265">
-<p>Maintien des quatre cinquièmes de l'ancienneté d'échelon et majoration de2 ans.</p>
+<p>Maintien des quatre cinquièmes de l'ancienneté d'échelon et majoration de 1 an.</p>
 </td>
 </tr>
 <tr>
@@ -243,7 +253,7 @@ Les inspecteurs de l'éducation nationale sont classés, lors de leur titularisa
 <p align="center">9e échelon</p>
 </td>
 <td valign="top" width="265">
-<p>Maintien de la moitié de l'ancienneté d'échelon.</p>
+<p>Maintien de l'ancienneté d'échelon dans la limite de 36 mois.</p>
 </td>
 </tr>
 <tr>
@@ -251,7 +261,18 @@ Les inspecteurs de l'éducation nationale sont classés, lors de leur titularisa
 <p>6e échelon</p>
 </td>
 <td valign="top" width="151">
-<p align="center">9e échelon</p>
+<p align="center">10e échelon</p>
+</td>
+<td valign="top" width="265">
+<p>Sans ancienneté.</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="189">
+<p>7e échelon</p>
+</td>
+<td valign="top" width="151">
+<p align="center">10e échelon</p>
 </td>
 <td valign="top" width="265">
 <p>Maintien de l'ancienneté d'échelon.</p>
@@ -276,7 +297,10 @@ Les inspecteurs de l'éducation nationale sont classés, lors de leur titularisa
 <td width="189">
 <p align="center">A. - Classe normale</p>
 </td>
-<td colspan="2" width="416">
+<td width="151">
+<br/>
+</td>
+<td width="265">
 <br/>
 </td>
 </tr>
@@ -288,7 +312,7 @@ Les inspecteurs de l'éducation nationale sont classés, lors de leur titularisa
 <p align="center">2e échelon</p>
 </td>
 <td valign="top" width="265">
-<p>Maintien de l'ancienneté d'échelon et majoration de 2 ans.</p>
+<p>Maintien de l'ancienneté d'échelon et majoration de 1 an.</p>
 </td>
 </tr>
 <tr>
@@ -299,7 +323,7 @@ Les inspecteurs de l'éducation nationale sont classés, lors de leur titularisa
 <p align="center">3e échelon</p>
 </td>
 <td valign="top" width="265">
-<p>Maintien de l'ancienneté d'échelon et majoration de 1 an.</p>
+<p>Maintien de l'ancienneté d'échelon et majoration de 9 mois.</p>
 </td>
 </tr>
 <tr>
@@ -310,7 +334,7 @@ Les inspecteurs de l'éducation nationale sont classés, lors de leur titularisa
 <p align="center">3e échelon</p>
 </td>
 <td valign="top" width="265">
-<p>Maintien de l'ancienneté d'échelon et majoration de 2 ans 6 mois.</p>
+<p>Maintien de l'ancienneté d'échelon et majoration de 1 an 6 mois.</p>
 </td>
 </tr>
 <tr>
@@ -321,7 +345,7 @@ Les inspecteurs de l'éducation nationale sont classés, lors de leur titularisa
 <p align="center">4e échelon</p>
 </td>
 <td valign="top" width="265">
-<p>Maintien de l'ancienneté d'échelon acquise après 6 mois.</p>
+<p>Maintien des deux tiers d'ancienneté d'échelon acquise après 6 mois.</p>
 </td>
 </tr>
 <tr>
@@ -332,7 +356,7 @@ Les inspecteurs de l'éducation nationale sont classés, lors de leur titularisa
 <p align="center">4e échelon</p>
 </td>
 <td valign="top" width="265">
-<p>Maintien de l'ancienneté d'échelon et majoration de 1 an 4 mois.</p>
+<p>Maintien de l'ancienneté d'échelon et majoration de 4 mois.</p>
 </td>
 </tr>
 <tr>
@@ -343,7 +367,7 @@ Les inspecteurs de l'éducation nationale sont classés, lors de leur titularisa
 <p align="center">5e échelon</p>
 </td>
 <td valign="top" width="265">
-<p>Maintien de l'ancienneté d'échelon supérieure à 1 an 8 mois.</p>
+<p>Sans ancienneté.</p>
 </td>
 </tr>
 <tr>
@@ -354,7 +378,7 @@ Les inspecteurs de l'éducation nationale sont classés, lors de leur titularisa
 <p align="center">5e échelon</p>
 </td>
 <td valign="top" width="265">
-<p>Maintien du tiers de l'ancienneté d'échelon et majoration de 10 mois.</p>
+<p>Maintien des deux septièmes de l'ancienneté d'échelon.</p>
 </td>
 </tr>
 <tr>
@@ -365,7 +389,7 @@ Les inspecteurs de l'éducation nationale sont classés, lors de leur titularisa
 <p align="center">5e échelon</p>
 </td>
 <td valign="top" width="265">
-<p>Maintien des six septièmes de l'ancienneté d'échelon et majoration de 2 ans.</p>
+<p>Maintien des six septièmes de l'ancienneté d'échelon et majoration de 1 an.</p>
 </td>
 </tr>
 <tr>
@@ -376,7 +400,7 @@ Les inspecteurs de l'éducation nationale sont classés, lors de leur titularisa
 <p align="center">6e échelon</p>
 </td>
 <td valign="top" width="265">
-<p>Maintien des six septièmes de l'ancienneté d'échelon supérieure à 1 an 2 mois.</p>
+<p>Maintien des trois septièmes de l'ancienneté d'échelon supérieure à 1 an 2 mois.</p>
 </td>
 </tr>
 <tr>
@@ -387,7 +411,7 @@ Les inspecteurs de l'éducation nationale sont classés, lors de leur titularisa
 <p align="center">6e échelon</p>
 </td>
 <td valign="top" width="265">
-<p>Maintien des trois septièmes de l'ancienneté d'échelon et majoration de 2 ans.</p>
+<p>Maintien des trois septièmes de l'ancienneté d'échelon et majoration de 1 an.</p>
 </td>
 </tr>
 <tr>
@@ -398,18 +422,18 @@ Les inspecteurs de l'éducation nationale sont classés, lors de leur titularisa
 <p align="center">6e échelon</p>
 </td>
 <td valign="top" width="265">
-<p>Maintien d'un tiers de l'ancienneté d'échelon et majoration de 3 ans 6 mois.</p>
+<p>Maintien d'un tiers de l'ancienneté d'échelon et majoration de 2 ans 6 mois.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="189">
-<p>8e échelon après 18 mois</p>
+<p>8e échelon après 18 mois </p>
 </td>
 <td valign="top" width="151">
 <p align="center">7e échelon</p>
 </td>
 <td valign="top" width="265">
-<p>Maintien de la moitié de l'ancienneté d'échelon supérieure à 1 an.</p>
+<p>Maintien du sixième de l'ancienneté d'échelon supérieure à 1 an 6 mois.</p>
 </td>
 </tr>
 <tr>
@@ -420,7 +444,7 @@ Les inspecteurs de l'éducation nationale sont classés, lors de leur titularisa
 <p align="center">7e échelon</p>
 </td>
 <td valign="top" width="265">
-<p>Maintien de la moitié de l'ancienneté d'échelon et majoration de 18 mois.</p>
+<p>Maintien de la moitié de l'ancienneté d'échelon et majoration de 6 mois.</p>
 </td>
 </tr>
 <tr>
@@ -431,7 +455,7 @@ Les inspecteurs de l'éducation nationale sont classés, lors de leur titularisa
 <p align="center">8e échelon</p>
 </td>
 <td valign="top" width="265">
-<p>Maintien des quatre onzièmes de l'ancienneté d'échelon.</p>
+<p>Maintien des deux onzièmes de l'ancienneté d'échelon.</p>
 </td>
 </tr>
 <tr>
@@ -442,7 +466,7 @@ Les inspecteurs de l'éducation nationale sont classés, lors de leur titularisa
 <p align="center">8e échelon</p>
 </td>
 <td valign="top" width="265">
-<p>Maintien de l'ancienneté d'échelon dans la limite de deux ans et majoration de2 ans.</p>
+<p>Maintien de l'ancienneté d'échelon dans la limite de deux ans et majoration de 1 an.</p>
 </td>
 </tr>
 <tr>
@@ -460,7 +484,10 @@ Les inspecteurs de l'éducation nationale sont classés, lors de leur titularisa
 <td width="189">
 <p align="center">B. - Hors-classe</p>
 </td>
-<td colspan="2" width="416">
+<td width="151">
+<br/>
+</td>
+<td width="265">
 <br/>
 </td>
 </tr>
@@ -472,7 +499,7 @@ Les inspecteurs de l'éducation nationale sont classés, lors de leur titularisa
 <p align="center">7e échelon</p>
 </td>
 <td valign="top" width="265">
-<p>Maintien des trois cinquièmes de l'ancienneté d'échelon.</p>
+<p>Maintien des deux cinquièmes de l'ancienneté d'échelon.</p>
 </td>
 </tr>
 <tr>
@@ -483,7 +510,7 @@ Les inspecteurs de l'éducation nationale sont classés, lors de leur titularisa
 <p align="center">7e échelon</p>
 </td>
 <td valign="top" width="265">
-<p>Maintien de l'ancienneté d'échelon et majoration de 18 mois.</p>
+<p>Maintien des quatre cinquièmes de l'ancienneté d'échelon et majoration de 1 an.</p>
 </td>
 </tr>
 <tr>
@@ -494,7 +521,7 @@ Les inspecteurs de l'éducation nationale sont classés, lors de leur titularisa
 <p align="center">8e échelon</p>
 </td>
 <td valign="top" width="265">
-<p>Maintien des quatre cinquièmes de l'ancienneté d'échelon.</p>
+<p>Maintien des deux cinquièmes de l'ancienneté d'échelon.</p>
 </td>
 </tr>
 <tr>
@@ -505,7 +532,7 @@ Les inspecteurs de l'éducation nationale sont classés, lors de leur titularisa
 <p align="center">8e échelon</p>
 </td>
 <td valign="top" width="265">
-<p>Maintien des quatre cinquièmes de l'ancienneté d'échelon et 2 ans de majoration.</p>
+<p>Maintien des quatre cinquièmes de l'ancienneté d'échelon et majoration de 1 an.</p>
 </td>
 </tr>
 <tr>
@@ -516,7 +543,7 @@ Les inspecteurs de l'éducation nationale sont classés, lors de leur titularisa
 <p align="center">9e échelon</p>
 </td>
 <td valign="top" width="265">
-<p>Maintien de la moitié de l'ancienneté d'échelon.</p>
+<p>Maintien de l'ancienneté d'échelon dans la limite de 36 mois.</p>
 </td>
 </tr>
 <tr>
@@ -524,7 +551,18 @@ Les inspecteurs de l'éducation nationale sont classés, lors de leur titularisa
 <p>6e échelon</p>
 </td>
 <td valign="top" width="151">
-<p align="center">9e échelon</p>
+<p align="center">10e échelon</p>
+</td>
+<td valign="top" width="265">
+<p>Sans ancienneté.</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="189">
+<p>7e échelon</p>
+</td>
+<td valign="top" width="151">
+<p align="center">10e échelon</p>
 </td>
 <td valign="top" width="265">
 <p>Maintien de l'ancienneté d'échelon.</p>
@@ -579,7 +617,7 @@ Les intéressés sont reclassés dans la classe normale de leur nouveau corps à
 <p align="center">2e échelon</p>
 </td>
 <td valign="top" width="265">
-<p>Maintien des deux tiers de l'ancienneté d'échelon et majoration de 6 mois.</p>
+<p>Maintien de la moitié de l'ancienneté d'échelon et majoration de 6 mois.</p>
 </td>
 </tr>
 <tr>
@@ -590,7 +628,7 @@ Les intéressés sont reclassés dans la classe normale de leur nouveau corps à
 <p align="center">2e échelon</p>
 </td>
 <td valign="top" width="265">
-<p>Maintien des deux tiers de l'ancienneté d'échelon et majoration de 2 ans.</p>
+<p>Maintien des deux tiers de l'ancienneté d'échelon et majoration de 1 an.</p>
 </td>
 </tr>
 <tr>
@@ -612,7 +650,7 @@ Les intéressés sont reclassés dans la classe normale de leur nouveau corps à
 <p align="center">3e échelon</p>
 </td>
 <td valign="top" width="265">
-<p>Maintien des deux tiers de l'ancienneté d'échelon et majoration de 1 an.</p>
+<p>Maintien des deux tiers de l'ancienneté d'échelon et majoration de 1 an dans la limite de 1 an 8 mois.</p>
 </td>
 </tr>
 <tr>
@@ -623,18 +661,18 @@ Les intéressés sont reclassés dans la classe normale de leur nouveau corps à
 <p align="center">3e échelon</p>
 </td>
 <td valign="top" width="265">
-<p>Maintien des deux tiers de l'ancienneté d'échelon et majoration de 2 ans 8 mois.</p>
+<p>Maintien des deux tiers de l'ancienneté d'échelon et majoration de 1 an 8 mois.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="189">
-<p>7e échelon après 6 mois </p>
+<p>7e échelon après 6 mois</p>
 </td>
 <td valign="top" width="151">
 <p align="center">4e échelon</p>
 </td>
 <td valign="top" width="265">
-<p>Maintien des deux tiers de l'ancienneté d'échelon acquise après 6 mois.</p>
+<p>Maintien d'un tiers de l'ancienneté acquise après six mois.</p>
 </td>
 </tr>
 <tr>
@@ -645,40 +683,40 @@ Les intéressés sont reclassés dans la classe normale de leur nouveau corps à
 <p align="center">4e échelon</p>
 </td>
 <td valign="top" width="265">
-<p>Maintien des deux tiers de l'ancienneté d'échelon et majoration de 2 ans 8 mois.</p>
+<p>Maintien des deux tiers de l'ancienneté d'échelon et majoration de 1 an 8 mois.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="189">
-<p>8e échelon après 6 mois </p>
+<p>8e échelon après 6 mois</p>
 </td>
 <td valign="top" width="151">
 <p align="center">5e échelon</p>
 </td>
 <td valign="top" width="265">
-<p>Maintien des deux tiers de l'ancienneté d'échelon acquise après 6 mois.</p>
+<p>Maintien d'un tiers de l'ancienneté acquise après six mois.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="189">
-<p>9e échelon avant 6 mois </p>
+<p>9e échelon avant 6 mois</p>
 </td>
 <td valign="top" width="151">
 <p align="center">5e échelon</p>
 </td>
 <td valign="top" width="265">
-<p>Maintien des deux tiers de l'ancienneté d'échelon et majoration de 2 ans 8 mois.</p>
+<p>Maintien des deux tiers de l'ancienneté d'échelon et majoration de 1 an 8 mois.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="189">
-<p>9e échelon après six mois..</p>
+<p>9e échelon après 6 mois</p>
 </td>
 <td valign="top" width="151">
 <p align="center">6e échelon</p>
 </td>
 <td valign="top" width="265">
-<p>Maintien des deux tiers de l'ancienneté d'échelon acquise après 6 mois.</p>
+<p>Maintien d'un tiers de l'ancienneté acquise après six mois et majoration de 1 an.</p>
 </td>
 </tr>
 <tr>
@@ -689,7 +727,7 @@ Les intéressés sont reclassés dans la classe normale de leur nouveau corps à
 <p align="center">6e échelon</p>
 </td>
 <td valign="top" width="265">
-<p>Maintien des deux tiers de l'ancienneté d'échelon et majoration de 2 ans 8 mois.</p>
+<p>Maintien de l'ancienneté d'échelon et majoration de 2 ans 4 mois dans la limite de 3 ans.</p>
 </td>
 </tr>
 <tr>
@@ -711,7 +749,7 @@ Les intéressés sont reclassés dans la classe normale de leur nouveau corps à
 <p align="center">7e échelon</p>
 </td>
 <td valign="top" width="265">
-<p>Maintien de l'ancienneté d'échelon dans la limite de 28 mois et majoration de 20 mois.</p>
+<p>Maintien de l'ancienneté d'échelon et majoration de 1 an 8 mois dans la limite de 3 ans.</p>
 </td>
 </tr>
 </tbody>

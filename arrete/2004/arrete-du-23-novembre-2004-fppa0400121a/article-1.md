@@ -90,3 +90,11 @@ Les montants de référence annuels de l'indemnité d'administration et de techn
 </tr>
 </tbody>
 </table>
+
+En application du deuxième alinéa de l'article 4 du décret du 14 janvier 2002 susvisé, les montants de référence fixés au présent article peuvent être majorés dans la limite de 20 % pour les fonctions suivantes :
+
+- secrétariat des directeurs et des adjoints à un directeur de l'administration centrale, du chef du service de l'inspection générale de la jeunesse et des sports ainsi que du membre du corps du contrôle général économique et financier ;
+
+- responsabilité du parc automobile de l'administration centrale.
+
+Les montants de référence peuvent être majorés dans la limite de 100 % pour la fonction de responsabilité de la section des traitements et indemnités des personnels de l'administration centrale.

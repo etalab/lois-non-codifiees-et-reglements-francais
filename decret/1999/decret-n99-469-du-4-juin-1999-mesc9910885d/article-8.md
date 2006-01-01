@@ -14,7 +14,7 @@ a) Dossiers comportant un nombre important de créanciers ou des enjeux financie
 
 b) Dossiers pour lesquels le rapatrié de bonne foi n'a pu obtenir, malgré les efforts conjugués des diverses parties, tels qu'ils ressortent notamment des échanges de courriers entre les créanciers et le débiteur, un accord d'apurement de tous ses créanciers ;
 
-c) Dossiers relevant du redressement ou de la liquidation judiciaire ;
+c) Dossiers relevant de la procédure de sauvegarde ou de redressement ou de la liquidation judiciaire ;
 
 d) Dossiers bloqués par une instance judiciaire compétente.
 

@@ -1,0 +1,3 @@
+# Article 1
+
+Les ingénieurs divisionnaires des travaux publics de l'Etat nommés dans les emplois d'ingénieur en chef des travaux publics de l'Etat du premier groupe ou du deuxième groupe, selon les dispositions fixées par le décret n° 2005-632 du 30 mai 2005 susvisé, perçoivent, outre la rémunération afférente à leur emploi et à leur échelon, une nouvelle bonification indiciaire, versée mensuellement, d'un montant de 40 points d'indice majoré. La liste des fonctions éligibles à la nouvelle bonification indiciaire est fixée par arrêté pris en application de l'article 1er du décret du 30 mai 2005 précité.

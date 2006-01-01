@@ -4,4 +4,4 @@ Pour l'application de l'article 2, le loyer principal effectivement payé ou, po
 
 Ce plafond est augmenté d'une majoration forfaitaire au titre des charges.
 
-Les plafonds mensuels et la majoration forfaitaire représentative des charges varient en fonction de la taille de la famille et sont limités à trois enfants à charge. Ils sont fixés par arrêté conjoint des ministres chargés de la sécurité sociale, du budget et de l'outre-mer.
+Les plafonds mensuels et la majoration forfaitaire représentative des charges varient en fonction de la taille de la famille Ils sont fixés par arrêté conjoint des ministres chargés de la sécurité sociale, du budget et de l'outre-mer.

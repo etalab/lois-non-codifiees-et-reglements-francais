@@ -6,7 +6,7 @@ I. - Le taux de la retenue pour pension prévue par l'article L. 11 bis du code 
 
 2° D'un taux fixé dans les conditions ci-après, multiplié par la quotité de temps non travaillé de l'agent.
 
-Ce taux est égal à 80 % de la somme du taux de la cotisation mentionnée au 1° ci-dessus et d'un taux représentatif de la contribution employeur. Pour les années 2004 et 2005, ce dernier taux est fixé à 26,9 %.
+Ce taux est égal à 80 % de la somme du taux de la cotisation mentionnée au 1° ci-dessus et d'un taux représentatif de la contribution employeur. Pour les années 2006 et 2007, ce dernier taux est fixé à 27,3 %.
 
 Le taux mentionné au premier alinéa du présent article est appliqué au traitement indiciaire brut, y compris nouvelle bonification indiciaire et bonification indiciaire, correspondant à celui d'un agent de même grade, échelon et indice que l'intéressé et exerçant à temps plein.
 

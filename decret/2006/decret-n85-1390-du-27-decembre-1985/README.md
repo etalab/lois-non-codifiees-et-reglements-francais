@@ -4,3 +4,5 @@
 - [Chapitre Ier : Rémunération des administrateurs judiciaires et des commissaires à l'exécution du plan.](chapitre-ier)
 - [Chapitre II : Rémunération des mandataires judiciaires et des liquidateurs.](chapitre-ii)
 - [Chapitre III : Dispositions communes à la rémunération des administrateurs judiciaires et commissaires à l'exécution du plan et à celle des mandataires judiciaires et des liquidateurs.](chapitre-iii)
+- [Chapitre IV : Dispositions diverses.](chapitre-iv)
+- [Article 38](article-38.md)

@@ -5,6 +5,7 @@
 - [Article 213](article-213.md)
 - [Article 215](article-215.md)
 - [Article 220](article-220.md)
+- [Article 222](article-222.md)
 - [Article 225](article-225.md)
 - [Article 230](article-230.md)
 - [Article 231](article-231.md)

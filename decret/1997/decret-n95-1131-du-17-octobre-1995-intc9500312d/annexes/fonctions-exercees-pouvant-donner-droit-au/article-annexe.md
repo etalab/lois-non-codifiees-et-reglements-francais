@@ -1,6 +1,6 @@
 # Article ANNEXE
 
-I. - Corps de commandement et d'encadrement de la police nationale
+I. - Corps de commandement de la police nationale
 
 Chef de circonscription de sécurité publique.
 
@@ -20,7 +20,7 @@ Responsable d'un service de formation.
 
 Chef de groupe de liaison et de documentation.
 
-II. - Corps de maîtrise et d'application de la police nationale
+II. - Corps d'encadrement et d'application de la police nationale
 
 Chef ou commandant d'unité à responsabilité particulièrement importante.
 
@@ -47,3 +47,7 @@ Agent exerçant des responsabilités importantes dans les domaines du renseignem
 Formateur spécialisé.
 
 Autre chef de division administrative ou opérationnelle en CRS.
+
+III. - Emplois fonctionnels :
+
+Responsable d'unité locale de police.
