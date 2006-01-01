@@ -1,3 +1,3 @@
 # Article 6
 
-Les dispositions du décret n° 94-39 du 14 janvier 1994 relatif au budget et au régime financier des établissements publics à caractère scientifique, culturel et professionnel sont applicables à l'Ecole nationale des chartes, à l'exception de celles qui sont relatives au budget propre des composantes.
+L'Ecole nationale des chartes peut disposer, pour l'accomplissement de ses missions, de départements et de services ainsi que d'instituts, créés par arrêté du ministre chargé de l'enseignement supérieur.

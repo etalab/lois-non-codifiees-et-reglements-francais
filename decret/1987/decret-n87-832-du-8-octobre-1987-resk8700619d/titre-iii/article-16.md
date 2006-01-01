@@ -16,4 +16,6 @@ Le directeur dirige l'établissement et exerce toutes les compétences qui ne so
 
 7° Il est responsable de la sécurité et du maintien de l'ordre au sein de l'établissement.
 
-Il peut déléguer sa signature.
+Le directeur peut déléguer sa signature au secrétaire général et, pour les affaires relevant de leurs attributions, aux responsables des instituts, des départements et des services.
+
+Il peut assister ou se faire représenter aux réunions des conseils et commissions des instituts.
