@@ -951,7 +951,6 @@
 - [Arrêté du 30 décembre 2003 (EQUT0400003A)](arrete-du-30-decembre-2003-equt0400003a)
 - [Arrêté du 30 décembre 2004 (BUDF0400061A)](arrete-du-30-decembre-2004-budf0400061a)
 - [Arrêté du 30 décembre 2004 (BUDF0400065A)](arrete-du-30-decembre-2004-budf0400065a)
-- [Arrêté du 30 décembre 2004 (BUDF0420180A)](arrete-du-30-decembre-2004-budf0420180a)
 - [Arrêté du 30 décembre 2004 (DEFP0500088A)](arrete-du-30-decembre-2004-defp0500088a)
 - [Arrêté du 30 décembre 2004 (PMEA0420064A)](arrete-du-30-decembre-2004-pmea0420064a)
 - [Arrêté du 30 décembre 2004 (SOCT0412339A)](arrete-du-30-decembre-2004-soct0412339a)
