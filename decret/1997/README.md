@@ -102,7 +102,6 @@
 - [Décret n°97-1018 du 6 novembre 1997 (EQUT9701157D)](decret-n97-1018-du-6-novembre-1997-equt9701157d)
 - [Décret n°97-1020 du 6 novembre 1997 (PRMX9702357D)](decret-n97-1020-du-6-novembre-1997-prmx9702357d)
 - [Décret n°97-1021 du 6 novembre 1997 (INTE9700273D)](decret-n97-1021-du-6-novembre-1997-inte9700273d)
-- [Décret n°97-1024 du 6 novembre 1997 (INTC9700295D)](decret-n97-1024-du-6-novembre-1997-intc9700295d)
 - [Décret n°97-104 du 6 février 1997 (DEFP9601968D)](decret-n97-104-du-6-fevrier-1997-defp9601968d)
 - [Décret n°97-1048 du 6 novembre 1997 (MESP9722279D)](decret-n97-1048-du-6-novembre-1997-mesp9722279d)
 - [Décret n°97-109 du 6 février 1997 (JUSC9620898D)](decret-n97-109-du-6-fevrier-1997-jusc9620898d)
