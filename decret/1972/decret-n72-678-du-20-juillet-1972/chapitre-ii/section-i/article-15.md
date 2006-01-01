@@ -1,3 +1,3 @@
 # Article 15
 
-Pour être pris en considération, les emplois prévus aux articles 12, 13 et 14 doivent avoir été occupés d'un manière permanente en y consacrant tout le temps de la durée normale du travail exigée dans lesdits emplois.
+Les durées d'occupation mentionnées aux articles 12 et 14 s'entendent d'un emploi à temps complet ou de l'équivalent en temps complet d'un emploi à temps partiel, que cette occupation ait été continue ou non.

@@ -1,5 +1,5 @@
 # Article 68
 
-En ce qui concerne les locations dites saisonnières de locaux meublés, d'une durée maximale non renouvelable de 90 jours, les versements et remises faits au nom du mandataire ne peuvent être reçus par ce dernier plus de six mois avant le début de la location ni excéder en aucun cas, lorsqu'ils sont faits avant l'entrée dans les lieux, le quart du montant du loyer : le versement du solde du loyer peut être exigé contre la remise des clés.
+Les versements accompagnant une réservation de location saisonnière au sens de l'article 1er (1) de la loi du 2 janvier 1970 susvisée ne peuvent intervenir plus de six mois avant la remise des clés ni excéder 25 % du montant total du loyer. Le solde ne peut être exigé qu'un mois, au plus tôt, avant l'entrée dans les lieux.
 
-Avis de ces versements ou remises doit être donné au propriétaire ou au bailleur dans les conditions stipulées au mandat.
+Avis de ces versements est donné au propriétaire ou au bailleur dans les conditions stipulées au mandat.

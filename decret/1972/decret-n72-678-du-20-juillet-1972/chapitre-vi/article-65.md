@@ -1,6 +1,6 @@
 # Article 65
 
-Le titulaire de la carte professionnelle "gestion immobilière", son ou ses représentants légaux ou statutaires, s'il s'agit d'une personne morale, doit tenir, sous sa responsabilité, un registre des mandats, conforme à un modèle fixé par arrêté conjoint du garde des sceaux, ministre de la justice, du ministre de l'intérieur et du ministre de l'économie et des finances, sur lequel les mandats prévus à l'article précédent sont mentionnés par ordre chronologique.
+Le titulaire de la carte professionnelle portant la mention "gestion immobilière", son ou ses représentants légaux ou statutaires, s'il s'agit d'une personne morale, doit tenir, sous sa responsabilité, un registre des mandats, conforme à un modèle fixé par arrêté conjoint du garde des sceaux, ministre de la justice, du ministre de l'intérieur et du ministre de l'économie et des finances, sur lequel les mandats prévus à l'article précédent sont mentionnés par ordre chronologique.
 
 Le numéro d'inscription sur le registre des mandats est reporté sur celui des exemplaires du mandat qui reste en la possession du mandant.
 
@@ -9,3 +9,5 @@ Les décisions de toute nature qui confient au titulaire du registre des mandats
 Ce registre est, à l'avance, coté sans discontinuité et relié.
 
 En cas de cessation de garantie, ce registre est communiqué au garant ou à l'administrateur désigné.
+
+Le registre peut être tenu sous forme électronique dans les conditions prescrites par les articles 1316 et suivants du code civil.

@@ -1,21 +1,9 @@
 # Article 11
 
-Pour obtenir l'une des cartes professionnelles prévues à l'article 1er du présent décret, sont regardées comme justifiant de l'aptitude professionnelle les personnes qui produisent :
+Sont regardées comme justifiant de l'aptitude professionnelle requise pour obtenir la carte professionnelle prévue à l'article 1er les personnes qui produisent :
 
-a) Soit le diplôme délivré par l'Etat à l'issue du deuxième examen de la licence en droit ou en sciences économiques ou un diplôme délivré par l'Etat sanctionnant des études juridiques, économiques ou commerciales, d'un niveau égal ou supérieur, ou un diplôme universitaire de technologie ou le brevet de technicien supérieur, pour les mêmes disciplines ;
+1° Soit un diplôme délivré par l'Etat ou par un établissement reconnu par l'Etat, d'un niveau égal ou supérieur à trois années d'études supérieures après le baccalauréat et sanctionnant des études juridiques, économiques ou commerciales ;
 
-b) Soit un diplôme sanctionnant des études supérieures juridiques, économiques ou commerciales, et délivré par un établissement reconnu par l'Etat et figurant sur une liste fixée par arrêté conjoint du garde des sceaux, ministre de la justice, et du ministre de l'éducation nationale ;
+2° Soit un diplôme universitaire de technologie ou le brevet de technicien supérieur spécialisés en matière immobilière ;
 
-c) Soit l'un des diplômes suivants :
-
-Diplôme d'aptitude professionnelle aux fonctions de notaire délivré par une chambre départementale de notaires ;
-
-Diplôme d'aptitude de premier clerc de notaire ;
-
-Diplôme de l'institut d'études économiques et juridiques appliquées à la construction et à l'habitation, option Vente et gestion d'immeubles ;
-
-d) Soit une attestation délivrée :
-
-Par leur ordre respectif aux anciens notaires, aux anciens avoués près les cours d'appel, aux anciens huissiers de justice, aux anciens géomètres experts habilités à se livrer à l'administration de biens ;
-
-Par le procureur de la République, aux anciens greffiers titulaires de charge, aux anciens avoués près les tribunaux de grande instance, aux anciens agréés près les tribunaux de commerce, aux anciens syndics et administrateurs judiciaires.
+3° Soit le diplôme de l'Institut d'études économiques et juridiques appliquées à la construction et à l'habitation, option vente et gestion d'immeubles.

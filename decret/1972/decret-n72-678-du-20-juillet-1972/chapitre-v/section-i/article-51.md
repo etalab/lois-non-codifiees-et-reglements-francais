@@ -1,6 +1,6 @@
 # Article 51
 
-Tous les versements ou remises faits au titulaire de la carte "Transactions sur immeubles et fonds de commerce" doivent être immédiatement mentionnés sur un registre-répertoire dit "De la loi du 2 janvier 1970" conforme au modèle fixé par arrêté conjoint du garde des sceaux, ministre de la justice, et du ministre de l'économie et des finances.
+Tous les versements ou remises faits au titulaire de la carte portant la mention "Transactions sur immeubles et fonds de commerce" ou "Marchand de listes" doivent être immédiatement mentionnés sur un registre-répertoire dit "De la loi du 2 janvier 1970" conforme au modèle fixé par arrêté conjoint du garde des sceaux, ministre de la justice, et du ministre de l'économie et des finances.
 
 Le registre-répertoire est, à l'avance, relié et coté sans discontinuité.
 

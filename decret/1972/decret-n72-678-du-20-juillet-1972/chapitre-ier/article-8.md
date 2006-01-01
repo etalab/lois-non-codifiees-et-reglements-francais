@@ -8,7 +8,7 @@ Elle comporte également l'état civil, la qualité et le domicile personnel du 
 
 Un dossier numéroté est ouvert pour chaque établissement, succursale, agence ou bureau, à la préfecture qui a reçu la déclaration.
 
-Après justification, conformément aux dispositions des articles 3 (alinéas 2 et 3) et 16 du présent décret, de ce qu'il remplit les conditions prévues à l'article 3 (1° et 4°) de la loi du 2 janvier 1970, il est remis à la personne qui dirige l'établissement, la succursale, l'agence ou le bureau, un récépissé de déclaration conforme à un modèle fixé par arrêté conjoint du garde des sceaux, ministre de la justice, du ministre de l'intérieur et du ministre de l'économie et des finances.
+Après justification, conformément aux dispositions du présent décret, de ce qu'elle remplit les conditions prévues aux 1° et 4° de l'article 3 de la loi du 2 janvier 1970 susvisée, il est remis à la personne qui dirige l'établissement, la succursale, l'agence ou le bureau un récépissé de déclaration conforme à un modèle fixé par arrêté conjoint du garde des sceaux, ministre de la justice, et du ministre de l'intérieur.
 
 Tout changement d'adresse de l'établissement, de la succursale, de l'agence ou du bureau, ainsi que tout changement de la personne qui en assume la direction, donne lieu à déclaration à la ou aux préfectures intéressées. Après que sont apportées, s'il y a lieu, les justifications rappelées au précédent alinéa, il est délivré un nouveau récépissé sur remise de l'ancien.
 

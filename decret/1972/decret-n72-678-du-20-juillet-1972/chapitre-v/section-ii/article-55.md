@@ -1,6 +1,6 @@
 # Article 55
 
-Lorsque la garantie est donnée par un établissement de crédit ou une entreprise d'assurance, le titulaire de la carte professionnelle prévue au premier alinéa de l'article 1er du présent décret est tenu de faire ouvrir, à son nom, dans un établissement de crédit, un compte qui est exclusivement affecté à la réception des versements ou remises visés à l'article 5 de la loi du 2 janvier 1970 susvisée.
+Lorsque la garantie est donnée par un établissement de crédit ou une entreprise d'assurance, le titulaire de la carte professionnelle prévue au premier alinéa de l'article 1er du présent décret est tenu de faire ouvrir, à son nom, dans un établissement de crédit, un compte qui est spécialement affecté à la réception des versements ou remises mentionnés à l'article 5 de la loi du 2 janvier 1970 susvisée, à l'exclusion des sommes représentatives des rémunérations ou commissions.
 
 Il ne peut être ouvert qu'un seul compte de cette nature par titulaire de carte professionnelle.
 

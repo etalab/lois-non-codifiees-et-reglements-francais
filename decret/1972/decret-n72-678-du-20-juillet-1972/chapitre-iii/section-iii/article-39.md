@@ -1,8 +1,6 @@
 # Article 39
 
-La garantie financière s'applique à toute créance ayant pour origine un versement ou une remise effectué à l'occasion d'une opération prévue soit par les 1° à 5° et 7°, soit par le 6° de l'article 1er de la loi susvisée du 2 janvier 1970, suivant que la garantie est accordée au titulaire d'une carte "Transactions sur immeubles et fonds de commerce" ou au titulaire d'une carte "Gestion immobilière".
-
-Elle joue sur les seules justifications que la créance soit certaine, liquide et exigible, et que la personne garantie soit défaillante sans que le garant puisse opposer au créancier le bénéfice de discussion.
+La garantie financière couvre toute créance ayant pour origine un versement ou une remise effectués à l'occasion d'une opération mentionnée à l'article 1er de la loi du 2 janvier 1970 susvisée. Elle produit effet sur les seules justifications que la créance est certaine, liquide et exigible et que la personne garantie est défaillante, sans que le garant puisse exiger du créancier qu'il agisse préalablement contre le professionnel débiteur aux fins de recouvrement.
 
 En cas d'instance en justice, le demandeur doit aviser le consignataire ou le garant de l'assignation par lettre recommandée avec demande d'avis de réception.
 

@@ -2,7 +2,7 @@
 
 La délivrance de la carte professionnelle est sollicitée par la personne physique ou par le ou les représentants légaux ou statutaires de la personne morale qui se livre ou prête son concours aux opérations énumérées par l'article 1er de la loi susvisée du 2 janvier 1970.
 
-La demande précise la nature des opérations pour lesquelles la carte est demandée.
+La demande précise la nature des opérations pour lesquelles la carte est demandée. Elle indique, le cas échéant, que le demandeur entend se livrer ou prêter son concours, à titre accessoire, aux opérations mentionnées à l'article L. 211-1 du code du tourisme.
 
 Lorsque la demande est faite par une personne physique, elle mentionne l'état civil, la profession, le domicile et le lieu de l'activité professionnelle de cette personne.
 
