@@ -5,7 +5,6 @@
 - [Décret n°69-546 du 2 juin 1969](decret-n69-546-du-2-juin-1969)
 - [Décret n°70-905 du 2 octobre 1970](decret-n70-905-du-2-octobre-1970)
 - [Décret n°69-446 du 2 mai 1969](decret-n69-446-du-2-mai-1969)
-- [Décret n°70-1131 du 4 décembre 1970](decret-n70-1131-du-4-decembre-1970)
 - [Décret n°69-131 du 6 février 1969](decret-n69-131-du-6-fevrier-1969)
 - [Décret n°69-132 du 6 février 1969](decret-n69-132-du-6-fevrier-1969)
 - [Décret n°69-222 du 6 mars 1969](decret-n69-222-du-6-mars-1969)
