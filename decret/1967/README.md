@@ -26,7 +26,6 @@
 - [Décret n°67-925 du 19 octobre 1967](decret-n67-925-du-19-octobre-1967)
 - [Décret n°67-476 du 20 juin 1967](decret-n67-476-du-20-juin-1967)
 - [Décret n°67-477 du 20 juin 1967](decret-n67-477-du-20-juin-1967)
-- [Décret n°67-796 du 20 septembre 1967](decret-n67-796-du-20-septembre-1967)
 - [Décret n°67-797 du 20 septembre 1967](decret-n67-797-du-20-septembre-1967)
 - [Décret n°67-804 du 20 septembre 1967](decret-n67-804-du-20-septembre-1967)
 - [Décret n°67-91 du 20 janvier 1967](decret-n67-91-du-20-janvier-1967)
