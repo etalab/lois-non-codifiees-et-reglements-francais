@@ -2,7 +2,7 @@
 
 L'administration centrale du ministère de la jeunesse, de l'éducation nationale et de la recherche comprend, outre les inspections générales, les bureaux du cabinet et le haut fonctionnaire de défense, directement rattachés au ministre :
 
-a) La direction de la jeunesse, de l'éducation populaire et de la vie associative ;
+a) Alinéa abrogé
 
 b) La direction de l'enseignement supérieur ;
 
