@@ -16,7 +16,7 @@ Elle anime les réseaux concernés et participe à la définition des actions de
 
 Elle apporte à l'ensemble des services du ministère son concours pour toutes les questions financières budgétaires et comptables.
 
-Elle est le correspondant central de la Cour des comptes et veille aux suites données à ses préconisations. Elle est le correspondant de la délégation à l'aménagement du territoire et à l'action régionale en ce qui concerne les contrats de plan Etat-régions.
+Elle est le correspondant central de la Cour des comptes et veille aux suites données à ses préconisations. Elle est le correspondant de la délégation interministérielle à l'aménagement et à la compétitivité des territoires en ce qui concerne les contrats de plan Etat-régions.
 
 Elle comprend :
 

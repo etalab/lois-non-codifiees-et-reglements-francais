@@ -14,7 +14,9 @@ En liaison avec la DAGEMO, il élabore les propositions budgétaires dans le cad
 
 Il suit la consommation des crédits mis en place au niveau central et dans les services déconcentrés ou délégués aux organismes qui assurent, pour le compte du ministère, le versement d'aides à l'emploi ou à la formation professionnelle.
 
-Il assure la préparation et le suivi des projets annuels de performance, pour les programmes de la mission " Travail " placés sous la responsabilité de la délégation générale.
+Il assure la préparation et le suivi des projets annuels de performance, pour les programmes de la mission " Travail "
+
+placés sous la responsabilité de la délégation générale.
 
 Il élabore et anime la politique de contrôle de gestion de la délégation générale dans le cadre du contrôle de gestion mis en place par la DAGEMO pour l'ensemble du ministère. Il assure les remontées régulières, l'exploitation et la restitution des données physiques et financières sur l'action territorialisée des politiques de l'emploi. Il assure la synthèse des données permettant le suivi de l'exécution des programmes.
 
@@ -68,7 +70,7 @@ Elle est l'autorité de gestion et de paiement pour les programmes nationaux du 
 
 Elle participe aux instances communautaires chargées de préparer les orientations et décisions qui régissent le fonds social européen.
 
-En liaison avec le secrétariat général des affaires européennes (SGAE) et la délégation à l'aménagement du territoire et à l'action régionale (DATAR) :
+En liaison avec le secrétariat général des affaires européennes (SGAE) et la délégation interministérielle à l'aménagement et à la compétitivité des territoires :
 
 - elle négocie avec la Commission européenne les plans et programmes opérationnels, les enveloppes financières et les conditions d'attribution des aides communautaires ;
 
