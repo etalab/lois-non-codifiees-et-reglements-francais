@@ -6,6 +6,7 @@
 - [Décret n°2005-30 du 14 janvier 2005 (SANH0424404D)](decret-n2005-30-du-14-janvier-2005-sanh0424404d)
 - [Décret n°2005-669 du 16 juin 2005 (INTX0500150D)](decret-n2005-669-du-16-juin-2005-intx0500150d)
 - [Décret n°2005-670 du 16 juin 2005 (SOCX0500151D)](decret-n2005-670-du-16-juin-2005-socx0500151d)
+- [Décret n°2005-671 du 16 juin 2005 (ECOX0500134D)](decret-n2005-671-du-16-juin-2005-ecox0500134d)
 - [Décret n°2005-1426 du 18 novembre 2005 (INTT0500312D)](decret-n2005-1426-du-18-novembre-2005-intt0500312d)
 - [Décret n°2005-1308 du 20 octobre 2005 (ECOM0520014D)](decret-n2005-1308-du-20-octobre-2005-ecom0520014d)
 - [Décret n°2005-1632 du 26 décembre 2005 (JUSD0530148D)](decret-n2005-1632-du-26-decembre-2005-jusd0530148d)
