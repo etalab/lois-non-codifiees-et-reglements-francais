@@ -20,13 +20,13 @@ Pour les exploitations produisant à la fois des vins de pays et des vins de tab
 
 Sur les superficies de jeunes vignes en première et deuxième feuille, c'est-à-dire l'année de leur plantation avant le 31 juillet et l'année suivante, il ne peut être produit aucun produit vitivinicole.
 
-Lorsque les conditions climatiques exceptionnelles l'ont rendu nécessaire, les limites de rendement des superficies revendiquées en vin de pays peuvent être modifiées par arrêté du ministre chargé de l'économie et du ministre chargé de l'agriculture, après avis du conseil de direction de l'Office national interprofessionnel des vins sur proposition du conseil spécialisé pour les vins de pays.
+Lorsque les conditions climatiques exceptionnelles l'ont rendu nécessaire, les limites de rendement des superficies revendiquées en vin de pays peuvent être modifiées par arrêté du ministre chargé de l'économie et du ministre chargé de l'agriculture, après avis du conseil de direction de l'Office national interprofessionnel des fruits, des légumes, des vins et de l'horticulture sur proposition du conseil spécialisé pour les vins de pays.
 
 Ces vins doivent présenter un titre alcoométrique volumique naturel total supérieur ou égal à 9 % pour les vins produits dans la zone viticole B, à 9,5 % pour les vins produits dans la zone viticole C 1, et à 10 % pour les vins produits dans les zones viticoles C II et C III.
 
 Lorsque les conditions climatiques habituelles ne permettent pas, pour certaines régions à relief élevé, le respect du titre alcoométrique volumique naturel total minimal, le décret définissant les conditions de production du vin de pays concerné peut prévoir un abaissement du titre alcoométrique volumique naturel total minimal, dans la limite de 1 % vol.
 
-Lorsque les conditions climatiques exceptionnelles l'ont rendu nécessaire, le titre alcoométrique volumique naturel total peut être modifié par arrêté du ministre chargé de l'économie et du ministre chargé de l'agriculture, après avis du conseil de direction de l'Office national interprofessionnel des vins sur proposition du conseil spécialisé pour les vins de pays.
+Lorsque les conditions climatiques exceptionnelles l'ont rendu nécessaire, le titre alcoométrique volumique naturel total peut être modifié par arrêté du ministre chargé de l'économie et du ministre chargé de l'agriculture, après avis du conseil de direction de l'Office national interprofessionnel des fruits, des légumes, des vins et de l'horticulture sur proposition du conseil spécialisé pour les vins de pays.
 
 Outre les dispositions relatives au titre alcoométrique volumique naturel, les vins de pays produits dans les zones viticoles C II et C III doivent présenter un titre alcoométrique volumique total minimum de 10,5 % vol.
 

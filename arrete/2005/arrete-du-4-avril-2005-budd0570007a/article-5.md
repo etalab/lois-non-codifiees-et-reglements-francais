@@ -8,7 +8,7 @@ l'administration centrale, les directions régionales et les centres de la vitic
 
 - la direction générale de la concurrence, de la consommation et de la répression des fraudes : l'administration centrale et les directions régionales ;
 
-- l'Office national interprofessionnel des vins : service central et délégations régionales et nationale ;
+- l'Office national interprofessionnel des fruits, des légumes, des vins et de l'horticulture : service central et délégations régionales et nationale ;
 
 - l'Institut national des appellations d'origine : service central et centres techniques ;
 

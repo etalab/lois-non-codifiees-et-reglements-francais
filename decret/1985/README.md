@@ -16,6 +16,7 @@
 - [Décret n°85-1151 du 4 novembre 1985](decret-n85-1151-du-4-novembre-1985)
 - [Décret n°85-1162 du 4 novembre 1985](decret-n85-1162-du-4-novembre-1985)
 - [Décret n°85-1290 du 4 décembre 1985](decret-n85-1290-du-4-decembre-1985)
+- [Décret n°85-22 du 4 janvier 1985](decret-n85-22-du-4-janvier-1985)
 - [Décret n°85-416 du 4 avril 1985](decret-n85-416-du-4-avril-1985)
 - [Décret n°85-682 du 4 juillet 1985](decret-n85-682-du-4-juillet-1985)
 - [Décret n°85-694 du 4 juillet 1985](decret-n85-694-du-4-juillet-1985)

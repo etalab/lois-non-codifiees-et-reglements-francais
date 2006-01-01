@@ -12,7 +12,7 @@ Un représentant du ministre de la santé ;
 
 Cinq représentants des organismes professionnels ;
 
-Un représentant de l'office national interprofessionnel des vins (Onivins) ;
+Un représentant de l'office national interprofessionnel des fruits, des légumes, des vins et de l'horticulture ;
 
 Un représentant de l'Institut national des appellations d'origine (I.N.A.O).
 

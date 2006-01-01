@@ -12,7 +12,7 @@ Le casier viticole informatisé a pour finalité :
 
 l'immatriculation des exploitations et des producteurs, la gestion et le contrôle des exploitations et des producteurs, la surveillance du potentiel viticole, la gestion et le contrôle des déclarations du domaine vitivinicole, la gestion et le contrôle de certains traitements oenologiques, l'assiette et le contrôle des distillations obligatoires, la surveillance de la circulation et de la commercialisation des produits ;
 
-- pour l'Office national interprofessionnel des vins : la mise à jour des conditions de production et l'agrément des quantités récoltées revendiquées en vins de pays, le suivi et le contrôle des pépiniéristes viticoles, le contrôle du secteur des bois et plants, la gestion des mesures communautaires de distillation, la gestion de la réserve nationale de droits de plantation, l'instruction, le contrôle et le paiement des aides du Fonds européen d'orientation et de garantie agricole (FEOGA) ;
+- pour l'Office national interprofessionnel des fruits, des légumes, des vins et de l'horticulture : la mise à jour des conditions de production et l'agrément des quantités récoltées revendiquées en vins de pays, le suivi et le contrôle des pépiniéristes viticoles, le contrôle du secteur des bois et plants, la gestion des mesures communautaires de distillation, la gestion de la réserve nationale de droits de plantation, l'instruction, le contrôle et le paiement des aides du Fonds européen d'orientation et de garantie agricole (FEOGA) ;
 
 - pour l'Institut national des appellations d'origine : la mise à jour et le contrôle des conditions de production relatives aux appellations d'origine et l'agrément des produits revendiqués ;
 

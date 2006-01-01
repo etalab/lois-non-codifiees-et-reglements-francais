@@ -2,7 +2,7 @@
 
 Les vins de pays "primeurs" peuvent être expédiés de la propriété à destination des marchands en gros et de marchands en gros à marchands en gros avant le troisième jeudi du mois d'octobre de la récolte, sous réserve qu'ils répondent aux dispositions du présent décret ainsi qu'aux conditions de production spécifiques fixées pour chaque vin de pays de zone.
 
-Ces expéditions ne peuvent être effectuées qu'au vu d'une autorisation dont il est fait mention sur le titre de mouvement, délivrée par le délégué régional de l'Office national interprofessionnel des vins, et après avis d'une commission de dégustation spécifique.
+Ces expéditions ne peuvent être effectuées qu'au vu d'une autorisation dont il est fait mention sur le titre de mouvement, délivrée par le délégué régional de l'Office national interprofessionnel des fruits, des légumes, des vins et de l'horticulture, et après avis d'une commission de dégustation spécifique.
 
 Les vins qui répondent aux conditions du présent décret mais qui n'ont pas encore fait l'objet d'un agrément en vins primeurs selon la procédure d'agrément prévue peuvent circuler sous la dénomination "vins aptes à la production de vins de pays primeur". Pour avoir droit à la dénomination "vin de pays primeur", ces vins ou les assemblages de ces vins doivent être soumis à la procédure d'agrément prévue par le présent décret.
 
@@ -12,9 +12,9 @@ Tout vin non agréé en tant que vins de pays primeur, et pour lequel un agréme
 
 Ces vins peuvent également, à compter du lundi précédant le deuxième jeudi du mois d'octobre, être expédiés par les embouteilleurs jusque chez les détaillants, sous réserve qu'ils soient conditionnés en récipients d'une contenance inférieure ou égale à 30 litres et que les emballages portent la mention "ne pas mettre à la consommation avant le troisième jeudi d'octobre" ou une mention analogue.
 
-Il en est de même pour les vins en vrac, sous réserve de l'autorisation préalable des services de l'ONIVINS.
+Il en est de même pour les vins en vrac, sous réserve de l'autorisation préalable des services de l'Office national interprofessionnel des fruits, des légumes, des vins et de l'horticulture.
 
-Pour les expéditions de vins de pays primeur à destination des pays tiers, des dérogations pourront être accordées par les services de l'ONIVINS. Copies de ces dérogations sont adressées à la DGCCRF et à la DGDDI.
+Pour les expéditions de vins de pays primeur à destination des pays tiers, des dérogations pourront être accordées par les services de l'Office national interprofessionnel des fruits, des légumes, des vins et de l'horticulture. Copies de ces dérogations sont adressées à la DGCCRF et à la DGDDI.
 
 Ces vins doivent obligatoirement comporter sur leur étiquette le terme "primeur" ou "nouveau" ainsi que l'année de récolte.
 

@@ -52,6 +52,7 @@
 - [Décret n°2000-1119 du 23 novembre 2000 (INTA0000307D)](decret-n2000-1119-du-23-novembre-2000-inta0000307d)
 - [Décret n°94-510 du 23 juin 1994 (AGRP9400384D)](decret-n94-510-du-23-juin-1994-agrp9400384d)
 - [Décret n°2000-449 du 23 mai 2000 (FPPA0000045D)](decret-n2000-449-du-23-mai-2000-fppa0000045d)
+- [Décret n°2000-1053 du 24 octobre 2000 (AGRP0000785D)](decret-n2000-1053-du-24-octobre-2000-agrp0000785d)
 - [Décret n°2000-1147 du 24 novembre 2000 (EQUA0001372D)](decret-n2000-1147-du-24-novembre-2000-equa0001372d)
 - [Décret n°2000-276 du 24 mars 2000 (INTD0000080D)](decret-n2000-276-du-24-mars-2000-intd0000080d)
 - [Décret n°2000-789 du 24 août 2000 (MAEA0020137D)](decret-n2000-789-du-24-aout-2000-maea0020137d)
