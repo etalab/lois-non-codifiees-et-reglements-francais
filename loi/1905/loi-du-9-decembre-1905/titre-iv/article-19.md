@@ -14,7 +14,7 @@ Nonobstant toute clause contraire des statuts, les actes de gestion financière 
 
 Les associations pourront recevoir, en outre, des cotisations prévues par l'article 6 de la loi du 1er juillet 1901, le produit des quêtes et collectes pour les frais du culte, percevoir des rétributions : pour les cérémonies et services religieux même par fondation ; pour la location des bancs et sièges ; pour la fourniture des objets destinés au service des funérailles dans les édifices religieux et à la décoration de ces édifices.
 
-Les associations cultuelles pourront recevoir, dans les conditions déterminées par les articles 7 et 8 de la loi des 4 février 1901-8 juillet 1941, relative à la tutelle administrative en matière de dons et legs, les libéralités testamentaires et entre vifs destinées à l'accomplissement de leur objet ou grevées de charges pieuses ou cultuelles.
+Les associations cultuelles pourront recevoir, dans les conditions prévues par le deuxième alinéa de l'article 910 du code civil, les libéralités testamentaires et entre vifs destinées à l'accomplissement de leur objet ou grevées de charges pieuses ou cultuelles.
 
 Elles pourront verser, sans donner lieu à perception de droits, le surplus de leurs recettes à d'autres associations constituées pour le même objet.
 

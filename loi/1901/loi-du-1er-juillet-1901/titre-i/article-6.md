@@ -9,5 +9,3 @@ Toute association régulièrement déclarée peut, sans aucune autorisation spé
 3° Les immeubles strictement nécessaires à l'accomplissement du but qu'elle se propose.
 
 Les associations déclarées qui ont pour but exclusif l'assistance, la bienfaisance, la recherche scientifique ou médicale peuvent accepter les libéralités entre vifs ou testamentaires dans des conditions fixées par décret en Conseil d'Etat.
-
-Lorsqu'une association donnera au produit d'une libéralité une affectation différente de celle en vue de laquelle elle aura été autorisée à l'accepter, l'acte d'autorisation pourra être rapporté par décret en Conseil d'Etat.

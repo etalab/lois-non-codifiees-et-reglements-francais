@@ -11,3 +11,5 @@ Lorsque la subvention est affectée à une dépense déterminée, l'organisme de
 Le budget et les comptes de tout organisme de droit privé ayant reçu une subvention, la convention prévue au présent article et le compte rendu financier de la subvention doivent être communiqués à toute personne qui en fait la demande par l'autorité administrative ayant attribué la subvention ou celles qui les détiennent, dans les conditions prévues par la loi n° 78-753 du 17 juillet 1978 précitée.
 
 Les organismes de droit privé ayant reçu annuellement de l'ensemble des autorités administratives une subvention supérieure à un montant fixé par décret doivent déposer à la préfecture du département où se trouve leur siège social leur budget, leurs comptes, les conventions prévues au présent article et, le cas échéant, les comptes rendus financiers des subventions reçues pour y être consultés.
+
+La formalité de dépôt en préfecture, prévue à l'alinéa précédent, n'est pas exigée des organismes ayant le statut d'association ou de fondation. Les fondations sont soumises aux obligations de publicité prévues pour les associations au premier alinéa de l'article L. 612-4 du code de commerce.
