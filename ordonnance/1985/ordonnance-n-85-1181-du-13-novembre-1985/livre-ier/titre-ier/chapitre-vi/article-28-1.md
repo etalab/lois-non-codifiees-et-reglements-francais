@@ -2,7 +2,7 @@
 
 Sans préjudice des règles fixées à l'article 28, les créances résultant du contrat de travail ou du contrat d'apprentissage sont garanties dans les conditions suivantes :
 
-Lorsque est ouverte une procédure de redressement judiciaire, les rémunérations de toute nature dues aux salariés et apprentis pour les soixante derniers jours de travail et d'apprentissage ainsi que celles dues aux marins au titre des quatre-vingt-dix derniers jours de travail ou de la période de paiement si celle-ci est d'une durée plus longue, doivent, déduction faite des acomptes déjà perçus, être payées, nonobstant l'existence de toute autre créance privilégiée, jusqu'à concurrence d'un plafond mensuel identique pour toutes les catégories de bénéficiaires.
+Lorsque est ouverte une procédure de sauvegarde ou de redressement judiciaire, les rémunérations de toute nature dues aux salariés et apprentis pour les soixante derniers jours de travail et d'apprentissage ainsi que celles dues aux marins au titre des quatre-vingt-dix derniers jours de travail ou de la période de paiement si celle-ci est d'une durée plus longue, doivent, déduction faite des acomptes déjà perçus, être payées, nonobstant l'existence de toute autre créance privilégiée, jusqu'à concurrence d'un plafond mensuel identique pour toutes les catégories de bénéficiaires.
 
 Ce plafond est fixé par une délibération du congrès.
 

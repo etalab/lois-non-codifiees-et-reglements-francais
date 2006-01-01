@@ -10,4 +10,4 @@ Il prend effet à la date de sa conclusion et fixe les échéances de paiement q
 
 Le droit à exonération cesse d'être applicable aux rémunérations versées à compter de la date de la dénonciation du plan et jusqu'à la date à laquelle les sommes demeurant dues auront été réglées.
 
-En cas de redressement judiciaire, la condition d'être à jour du paiement des cotisations prévue à l'article 5 de la loi du 25 juillet 1994 susvisée est réputée remplie à compter de la date du jugement arrêtant le plan de redressement judiciaire. L'adoption de ce plan vaut engagement de plan d'apurement progressif au sens de l'article 5 précité.
+En cas de procédure de sauvegarde ou de redressement judiciaire, la condition d'être à jour du paiement des cotisations prévue à l'article 5 de la loi du 25 juillet 1994 susvisée est réputée remplie à compter de la date du jugement arrêtant le plan de sauvegarde ou de redressement judiciaire. L'adoption de ce plan vaut engagement de plan d'apurement progressif au sens de l'article 5 précité.

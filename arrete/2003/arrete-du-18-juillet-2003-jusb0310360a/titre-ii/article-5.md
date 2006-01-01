@@ -474,9 +474,9 @@ Les sociétés et groupements divers : société civile, en nom collectif, en co
 
 Les procédures collectives et leurs fonctions.
 
-La prévention des difficultés : l'information économique, les procédures d'alerte, la procédure de règlement amiable.
+La prévention des difficultés : l'information économique, les procédures d'alerte, la procédure de conciliation.
 
-L'ouverture du redressement judiciaire.
+L'ouverture des procédures de sauvetage ou de règlement judiciaire.
 
 La période d'observation.
 

@@ -4,7 +4,7 @@ L'amnistie n'entraîne pas la restitution ou le rétablissement des autorisation
 
 Elle n'entraîne pas la remise :
 
-1° De la faillite personnelle ou des autres sanctions prévues au titre VI de la loi n° 85-98 du 25 janvier 1985 relative au redressement et à la liquidation judiciaires des entreprises dans sa rédaction applicable avant l'entrée en vigueur de l'ordonnance n° 2000-912 du 18 septembre 2000 relative à la partie Législative du code de commerce et aux articles L. 625-2 et suivants de ce code ;
+1° De la faillite personnelle ou des autres sanctions prévues au titre VI de la loi n° 85-98 du 25 janvier 1985 relative au redressement et à la liquidation judiciaires des entreprises dans sa rédaction applicable avant l'entrée en vigueur de l'ordonnance n° 2000-912 du 18 septembre 2000 relative à la partie Législative du code de commerce et aux articles L. 653-2 et suivants de ce code ;
 
 2° De l'interdiction du territoire français prononcée à l'encontre d'un étranger reconnu coupable d'un crime ou d'un délit ;
 

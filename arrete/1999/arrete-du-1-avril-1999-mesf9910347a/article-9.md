@@ -12,7 +12,7 @@ Le montant de ces contributions est apprécié à la date du début de versement
 
 Il peut être décidé d'exonérer l'employeur de sa contribution lorsque :
 
-- l'entreprise fait l'objet d'une procédure de redressement ou de liquidation judiciaire ;
+- l'entreprise fait l'objet d'une procédure de sauvegarde ou de redressement ou de liquidation judiciaire ;
 
 - l'entreprise est dans l'incapacité d'assumer cette charge financière ; dans ce cas, la décision est prise conjointement par le ministre chargé du budget et par le ministre chargé de l'emploi.
 

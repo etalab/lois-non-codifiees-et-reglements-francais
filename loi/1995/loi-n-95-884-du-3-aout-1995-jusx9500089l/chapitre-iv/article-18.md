@@ -4,7 +4,7 @@ I. - L'amnistie n'entraîne pas la restitution ou le rétablissement des autoris
 
 II. - L'amnistie n'entraîne pas la remise :
 
-1° De la faillite personnelle ou des autres sanctions prévues aux articles L. 653-1 à L. 625-9 du code de commerce ;
+1° De la faillite personnelle ou des autres sanctions prévues aux articles L. 653-1 à L. 653-9 du code de commerce ;
 
 2° De l'interdiction du territoire français prononcée à l'encontre d'un étranger reconnu coupable d'un crime ou d'un délit ;
 

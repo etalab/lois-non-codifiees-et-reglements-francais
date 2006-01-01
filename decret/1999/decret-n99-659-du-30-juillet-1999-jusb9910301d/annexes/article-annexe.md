@@ -444,7 +444,7 @@ TABLEAU B
 
 (Modification du tableau IX annexé au code de l'organisation judiciaire)
 
-Juridictions compétentes en métropole pour connaître, en application de l'article L. 621-5 du code de commerce, des procédures de redressement et de liquidation judiciaires applicables aux commerçants et artisans
+Juridictions compétentes en métropole pour connaître, en application de l'article L. 621-2 du code de commerce, des procédures de redressement et de liquidation judiciaires applicables aux commerçants et artisans
 
 DÉPARTEMENT
 

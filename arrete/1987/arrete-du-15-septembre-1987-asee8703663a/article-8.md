@@ -1,6 +1,6 @@
 # Article 8
 
-En ce qui concerne les conventions d'allocation spéciale - licenciement du Fonds national de l'emploi [*financement de ressources garanties*] :
+En ce qui concerne les conventions d'allocation spéciale - licenciement du Fonds national de l'emploi :
 
 a) Le bénéficiaire ou l'employeur pour le compte de celui-ci verse une participation égale à la différence entre l'indemnité conventionnelle de licenciement et une indemnité calculée comme l'indemnité versée pour le départ en retraite ; le montant de cette indemnité de départ ne peut être inférieur à l'indemnité légale de licenciement.
 
@@ -10,9 +10,9 @@ b) Le cocontractant verse, tant pour son compte propre que pour celui du salari�
 
 c) Le montant de cette contribution sera apprécié à la date du début de versement de l'allocation spéciale-licenciement du Fonds national de l'emploi. La suspension du versement de l'allocation spéciale-licenciement du fait du bénéficiaire ne donne pas lieu à reversement.
 
-Il ne peut être dérogé à cette contribution, sauf dans les cas suivants [*exonération*] :
+Il ne peut être dérogé à cette contribution, sauf dans les cas suivants :
 
-- entreprises faisant l'objet d'une procédure de redressement ou de liquidation judiciaire ;
+- entreprises faisant l'objet d'une procédure de sauvegarde ou de redressement ou de liquidation judiciaire ;
 
 - incapacité du cocontractant à assumer cette charge financière ; dans ce cas, la décision est prise conjointement par le ministre chargé du budget et par le ministre chargé de l'emploi.
 

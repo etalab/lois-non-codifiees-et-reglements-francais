@@ -42,7 +42,7 @@ VI. - L'article 103 est remplacé par les deux articles suivants :
 
 VII. - L'article 104 est ainsi rédigé :
 
-"Art. 104. -     Lorsque est ouverte une procédure de redressement ou de liquidation judiciaire, les rémunérations de toute nature dues aux salariés et apprentis pour les soixante derniers jours de travail ou d'apprentissage doivent, déduction faite des acomptes déjà perçus, être payées nonobstant l'existence de toute autre créance privilégiée.
+"Art. 104. -     Lorsque est ouverte une procédure de sauvegarde ou de redressement ou de liquidation judiciaire, les rémunérations de toute nature dues aux salariés et apprentis pour les soixante derniers jours de travail ou d'apprentissage doivent, déduction faite des acomptes déjà perçus, être payées nonobstant l'existence de toute autre créance privilégiée.
 
 "Cette fraction des rémunérations ainsi désignée doit être payée dans les dix jours qui suivent le jugement déclaratif de liquidation judiciaire, et sur simple ordonnance du juge commissaire, à la seule condition que le syndic ou le liquidateur ait en main les fonds nécessaires.
 

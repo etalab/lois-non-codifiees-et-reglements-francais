@@ -2,7 +2,7 @@
 
 Il ne peut être dérogé à la contribution prévue aux articles 4 et 5, sauf dans les cas suivants :
 
-- entreprises faisant l'objet d'une procédure de redressement ou de liquidation judiciaire ;
+- entreprises faisant l'objet d'une procédure de sauvegarde ou de redressement ou de liquidation judiciaire ;
 
 - incapacité du cocontractant à assumer cette charge financière ; dans ce cas, la décision est prise conjointement par le ministre chargé du budget et par le ministre chargé de l'emploi.
 

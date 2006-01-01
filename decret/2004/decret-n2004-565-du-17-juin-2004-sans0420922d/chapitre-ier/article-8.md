@@ -8,4 +8,4 @@ Il porte exclusivement sur les dettes de cotisations et contributions à la char
 
 Le droit à l'exonération cesse d'être applicable aux gains et rémunérations versés à compter du premier jour du mois suivant la date de la dénonciation du plan et jusqu'au premier jour du mois suivant la date à laquelle les sommes dues auront été réglées.
 
-En cas de redressement judiciaire, la condition d'être à jour prévue au premier alinéa du VI de l'article 12 de la loi du 14 novembre 1996 susvisée est réputée remplie à compter de la date du jugement arrêtant le plan de redressement judiciaire. L'adoption de ce plan vaut engagement de plan d'apurement progressif au sens du premier alinéa dudit article.
+En cas de procédures de sauvegarde ou de redressement judiciaire, la condition d'être à jour prévue au premier alinéa du VI de l'article 12 de la loi du 14 novembre 1996 susvisée est réputée remplie à compter de la date du jugement arrêtant les plans de sauvegarde ou de redressement judiciaire. L'adoption de ce plan vaut engagement de plan d'apurement progressif au sens du premier alinéa dudit article.

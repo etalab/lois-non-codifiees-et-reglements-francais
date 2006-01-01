@@ -4,6 +4,6 @@ Ont compétence pour accorder des remises les comptables du Trésor et le minist
 
 Ils exercent cette compétence en tant que de besoin dans les conditions prévues par le décret n° 62-1587 du 27 décembre 1962 modifié portant régime général sur la comptabilité publique.
 
-Dans le régime général du redressement judiciaire, il est statué sur les demandes écrites des représentants des créanciers dans les six semaines suivant la date de leur présentation. Dans la procédure simplifiée, il est statué sur les demandes dans le délai de quatre semaines.
+Dans le régime général du redressement judiciaire, il est statué sur les demandes écrites des mandataires judiciaires dans les six semaines suivant la date de leur présentation. Dans la procédure simplifiée, il est statué sur les demandes dans le délai de quatre semaines.
 
 Le défaut de réponse de l'administration dans les délais impartis vaut rejet des demandes.

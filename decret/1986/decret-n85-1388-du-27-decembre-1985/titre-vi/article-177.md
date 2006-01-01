@@ -8,4 +8,4 @@ Dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle, le tribunal d
 
 Le tribunal d'exécution exerce les attributions conférées par le présent décret au juge des ordres du tribunal de grande instance.
 
-Le liquidateur ne peut, ni en son nom personnel, ni en qualité de représentant des créanciers, être déclaré adjudicataire des immeubles du débiteur.
+Le liquidateur ne peut, ni en son nom personnel, ni en qualité de mandataire judiciaire, être déclaré adjudicataire des immeubles du débiteur.

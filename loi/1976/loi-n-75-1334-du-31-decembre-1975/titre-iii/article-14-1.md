@@ -7,3 +7,5 @@ Pour les contrats de travaux de bâtiment et de travaux publics :
 - si le sous-traitant accepté, et dont les conditions de paiement ont été agréées par le maître de l'ouvrage dans les conditions définies par décret en Conseil d'Etat, ne bénéficie pas de la délégation de paiement, le maître de l'ouvrage doit exiger de l'entrepreneur principal qu'il justifie avoir fourni la caution.
 
 Les dispositions ci-dessus concernant le maître de l'ouvrage ne s'appliquent pas à la personne physique construisant un logement pour l'occuper elle-même ou le faire occuper par son conjoint, ses ascendants, ses descendants ou ceux de son conjoint.
+
+Les dispositions du deuxième alinéa s'appliquent également au contrat de sous-traitance industrielle lorsque le maître de l'ouvrage connaît son existence, nonobstant l'absence du sous-traitant sur le chantier. Les dispositions du troisième alinéa s'appliquent également au contrat de sous-traitance industrielle.

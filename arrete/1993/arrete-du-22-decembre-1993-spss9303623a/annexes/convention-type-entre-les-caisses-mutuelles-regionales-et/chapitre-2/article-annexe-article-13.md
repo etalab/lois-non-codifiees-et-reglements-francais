@@ -4,7 +4,7 @@ A défaut de règlement dans le délai de trente jours imparti par la mise en de
 
 Dans le cas où il s'agit d'une personne relevant du régime à titre volontaire, l'organisme avise sans délai la caisse du défaut de paiement des cotisations.
 
-L'organisme met en oeuvre les procédures les plus efficaces et les mieux appropriées à la situation de la personne défaillante compte tenu des orientations générales définies par la caisse nationale et, le cas échéant, complétées par la caisse. Il doit notamment, dans les conditions définies par la caisse nationale, suivre très régulièrement les procédures relatives au redressement et à la liquidation judiciaire des entreprises.
+L'organisme met en oeuvre les procédures les plus efficaces et les mieux appropriées à la situation de la personne défaillante compte tenu des orientations générales définies par la caisse nationale et, le cas échéant, complétées par la caisse. Il doit notamment, dans les conditions définies par la caisse nationale, suivre très régulièrement les procédures relatives à la sauvegarde, au redressement et à la liquidation judiciaire des entreprises.
 
 L'organisme utilise les services des huissiers dans le cadre de la convention nationale passée entre la caisse nationale et la chambre nationale des huissiers. L'organisme interroge régulièrement chaque huissier et effectue une visite au moins une fois par semestre sauf lorsque l'organisme constate, en accord avec la caisse, que le volume des actions en recouvrement ne justifie pas une telle fréquence.
 
