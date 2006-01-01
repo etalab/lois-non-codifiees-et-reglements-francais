@@ -1,6 +1,7 @@
 # 2005
 
 - [Décret n°2005-977 du 10 août 2005 (SANS0522310D)](decret-n2005-977-du-10-aout-2005-sans0522310d)
+- [Décret n°2005-30 du 14 janvier 2005 (SANH0424404D)](decret-n2005-30-du-14-janvier-2005-sanh0424404d)
 - [Décret n°2005-1632 du 26 décembre 2005 (JUSD0530148D)](decret-n2005-1632-du-26-decembre-2005-jusd0530148d)
 - [Décret n°2005-1220 du 28 septembre 2005 (AGRP0501561D)](decret-n2005-1220-du-28-septembre-2005-agrp0501561d)
 - [Décret n°2005-1731 du 29 décembre 2005 (SOCF0512374D)](decret-n2005-1731-du-29-decembre-2005-socf0512374d)
