@@ -1,6 +1,6 @@
 # Article 36-1
 
-Sont mentionnées d'office au registre les déclarations de cessation des paiements et les décisions suivantes intervenues dans les procédures de redressement ou de liquidation judiciaires des entreprises en application du code de commerce :
+Sont mentionnées d'office au registre les déclarations de cessation des paiements et les décisions suivantes intervenues dans les procédures de redressement ou de liquidation judiciaires des entreprises ouvertes avant le 1er janvier 2006 en application du code de commerce :
 
 1° Ouvrant la procédure de redressement judiciaire avec l'indication des pouvoirs conférés à l'administrateur ;
 
