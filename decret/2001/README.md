@@ -6,7 +6,6 @@
 - [Décret n°2001-909 du 1 octobre 2001 (MESP0123013D)](decret-n2001-909-du-1-octobre-2001-mesp0123013d)
 - [Décret n°2001-1002 du 2 novembre 2001 (MESH0123604D)](decret-n2001-1002-du-2-novembre-2001-mesh0123604d)
 - [Décret n°2001-1003 du 2 novembre 2001 (MESN0122915D)](decret-n2001-1003-du-2-novembre-2001-mesn0122915d)
-- [Décret n°2001-1004 du 2 novembre 2001 (JUSE0140069D)](decret-n2001-1004-du-2-novembre-2001-juse0140069d)
 - [Décret n°2001-1006 du 2 novembre 2001 (MAEF0110087D)](decret-n2001-1006-du-2-novembre-2001-maef0110087d)
 - [Décret n°2001-1007 du 2 novembre 2001 (EQUP0100999D)](decret-n2001-1007-du-2-novembre-2001-equp0100999d)
 - [Décret n°2001-276 du 2 avril 2001 (INTM0100010D)](decret-n2001-276-du-2-avril-2001-intm0100010d)

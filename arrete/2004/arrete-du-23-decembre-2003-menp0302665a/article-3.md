@@ -1,3 +1,0 @@
-# Article 3
-
-La certification complémentaire définie à l'article 1er ci-dessus est délivrée, à la suite d'un examen, par le recteur de l'académie dans le ressort de laquelle le candidat effectue le stage prévu à l'article 6 du décret n° 72-580 du 4 juillet 1972 susvisé, aux articles 6 et 11 du décret n° 72-581 du 4 juillet 1972 susvisé, aux articles 10 et 17-4 du décret du 1er août 1990 susvisé, à l'article 5-1 du décret du 4 août 1980 susvisé et à l'article 10 du décret du 6 novembre 1992 susvisé, et par le recteur de l'académie dans le ressort de laquelle le candidat exerce pour les enseignants titulaires.

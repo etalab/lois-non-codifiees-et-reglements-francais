@@ -708,7 +708,6 @@
 - [Arrêté du 23 décembre 2003 (MCCB0300908A)](arrete-du-23-decembre-2003-mccb0300908a)
 - [Arrêté du 23 décembre 2003 (MENE0302840A)](arrete-du-23-decembre-2003-mene0302840a)
 - [Arrêté du 23 décembre 2003 (MENF0302414A)](arrete-du-23-decembre-2003-menf0302414a)
-- [Arrêté du 23 décembre 2003 (MENP0302665A)](arrete-du-23-decembre-2003-menp0302665a)
 - [Arrêté du 23 décembre 2003 (SANP0325048A)](arrete-du-23-decembre-2003-sanp0325048a)
 - [Arrêté du 23 décembre 2003 (SOCS0325026A)](arrete-du-23-decembre-2003-socs0325026a)
 - [Arrêté du 23 décembre 2003 (SOCS0325027A)](arrete-du-23-decembre-2003-socs0325027a)

@@ -1,3 +1,0 @@
-# Article 12
-
-Le Premier ministre, le ministre d'Etat chargé des affaires culturelles, le ministre d'Etat chargé de la réforme administrative, le ministre de l'intérieur, le ministre des armées, le ministre des finances et des affaires économiques, le ministre de l'éducation nationale, le ministre des travaux publics et des transports, le ministre de l'industrie, le ministre de l'agriculture le ministre du travail, le ministre de la santé publique et de la population, le ministre de la construction, le ministre des postes et télécommunications et le secrétaire d'Etat au budget sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.

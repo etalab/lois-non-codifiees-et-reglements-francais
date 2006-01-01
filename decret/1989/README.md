@@ -383,7 +383,6 @@
 - [Décret n°89-529 du 28 juillet 1989 (PRME8961347D)](decret-n89-529-du-28-juillet-1989-prme8961347d)
 - [Décret n°89-536 du 28 juillet 1989 (JUSB8910246D)](decret-n89-536-du-28-juillet-1989-jusb8910246d)
 - [Décret n°89-590 du 28 août 1989 (LOGC8900010D)](decret-n89-590-du-28-aout-1989-logc8900010d)
-- [Décret n°89-599 du 28 août 1989 (EQUL8900648D)](decret-n89-599-du-28-aout-1989-equl8900648d)
 - [Décret n°89-600 du 28 août 1989 (SPSS8901352D)](decret-n89-600-du-28-aout-1989-spss8901352d)
 - [Décret n°89-704 du 28 septembre 1989 (PRMX8910262D)](decret-n89-704-du-28-septembre-1989-prmx8910262d)
 - [Décret n°89-709 du 28 septembre 1989 (MENX8900103D)](decret-n89-709-du-28-septembre-1989-menx8900103d)

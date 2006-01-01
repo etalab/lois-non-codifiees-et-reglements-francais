@@ -1,3 +1,0 @@
-# Article 3
-
-Le Premier ministre, le ministre d'Etat, ministre de l'économie, des finances et du budget, le garde des sceaux, ministre de la justice, le ministre de l'équipement, du logement, des transports et de la mer, le ministre des départements et territoires d'outre-mer, porte-parole du Gouvernement, le ministre de l'agriculture et de la forêt, le ministre délégué auprès du ministre d'Etat, ministre de l'économie, des finances et du budget, chargé du budget, et le secrétaire d'Etat auprès du Premier ministre, chargé de l'environnement et de la prévention des risques technologiques et naturels majeurs, sont chargés, chacun en ce qui le concerne, de l'exécution de la présente ordonnance, qui sera publiée au Journal officiel de la République française.

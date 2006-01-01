@@ -659,7 +659,6 @@
 - [Décret n°66-874 du 21 novembre 1966](decret-n66-874-du-21-novembre-1966)
 - [Décret n°86-1196 du 21 novembre 1986](decret-n86-1196-du-21-novembre-1986)
 - [Décret n°89-118 du 21 février 1989 (JUSE8940022D)](decret-n89-118-du-21-fevrier-1989-juse8940022d)
-- [Décret n°89-119 du 21 février 1989 (JUSE8940026D)](decret-n89-119-du-21-fevrier-1989-juse8940026d)
 - [Décret n°89-120 du 21 février 1989 (JUSE8940023D)](decret-n89-120-du-21-fevrier-1989-juse8940023d)
 - [Décret n°91-200 du 21 février 1991 (MENF9002486D)](decret-n91-200-du-21-fevrier-1991-menf9002486d)
 - [Décret n°92-1003 du 21 septembre 1992 (SPSC9201788D)](decret-n92-1003-du-21-septembre-1992-spsc9201788d)

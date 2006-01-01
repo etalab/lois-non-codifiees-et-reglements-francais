@@ -569,7 +569,6 @@
 - [Décret n°99-648 du 21 juillet 1999 (ECOI9920158D)](decret-n99-648-du-21-juillet-1999-ecoi9920158d)
 - [Décret n°99-650 du 21 juillet 1999 (EQUE9900181D)](decret-n99-650-du-21-juillet-1999-eque9900181d)
 - [Décret n°99-652 du 21 juillet 1999 (ATEN9970016D)](decret-n99-652-du-21-juillet-1999-aten9970016d)
-- [Décret n°99-828 du 21 septembre 1999 (MJSK9970075D)](decret-n99-828-du-21-septembre-1999-mjsk9970075d)
 - [Décret n°99-887 du 21 octobre 1999 (INTA9900237D)](decret-n99-887-du-21-octobre-1999-inta9900237d)
 - [Décret n°99-889 du 21 octobre 1999 (ECOR9904558D)](decret-n99-889-du-21-octobre-1999-ecor9904558d)
 - [Décret n°99-910 du 21 octobre 1999 (PRMG9970239D)](decret-n99-910-du-21-octobre-1999-prmg9970239d)

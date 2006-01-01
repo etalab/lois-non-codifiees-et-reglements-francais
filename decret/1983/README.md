@@ -162,7 +162,6 @@
 - [Décret n°83-1052 du 25 novembre 1983](decret-n83-1052-du-25-novembre-1983)
 - [Décret n°83-689 du 25 juillet 1983](decret-n83-689-du-25-juillet-1983)
 - [Décret n°83-707 du 25 juillet 1983](decret-n83-707-du-25-juillet-1983)
-- [Décret n°83-952 du 25 octobre 1983](decret-n83-952-du-25-octobre-1983)
 - [Décret n°50-583 du 25 mai 1950](decret-n50-583-du-25-mai-1950)
 - [Décret n°83-1160 du 26 décembre 1983](decret-n83-1160-du-26-decembre-1983)
 - [Décret n°83-40 du 26 janvier 1983](decret-n83-40-du-26-janvier-1983)
