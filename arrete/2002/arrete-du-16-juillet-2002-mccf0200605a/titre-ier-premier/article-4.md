@@ -1,17 +1,21 @@
 # Article 4
 
-L'enseignement obligatoire de premier cycle, d'une durée de trois ans, comporte :
+L'enseignement obligatoire du premier cycle, d'une durée de trois ans, comporte :
 
-- un tronc commun comprenant :
+1° Un tronc commun comprenant :
 
 a) Un cours d'histoire générale de l'art, complété par des travaux dirigés devant les oeuvres ;
 
-b) Un cours de techniques de création ;
+b) Un cours de technique de création ;
 
-c) Un cours d'histoire des collections ;
+c) Un cours d'initiation à l'iconographie ;
 
-- au moins un cours de spécialité dit organique, choisi par l'élève dès la première année. Chaque cours organique est accompagné d'un cours annexe, éventuellement complété de travaux pratiques et de séminaires.
+d) Un cours d'histoire des collections ;
 
-Un enseignement optionnel d'épigraphie et d'héraldique correspondant à certains cours organiques peut être suivi par les élèves.
+2° Au moins un cours de spécialité, choisi par l'élève dès la première année, qui comprend un cours organique, un cours de synthèse, des séances de travaux pratiques et éventuellement des séminaires.
+
+Un enseignement optionnel d'épigraphie, de numismatique ou d'héraldique, correspondant à certains cours de spécialité, peut être suivi par les élèves.
 
 Les enseignements sont sanctionnés à la fin de chaque année scolaire par des examens comportant des épreuves écrites et orales.
+
+Les travaux pratiques font l'objet d'un contrôle continu.
