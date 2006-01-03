@@ -4,6 +4,7 @@
 - [Décret n°2005-938 du 2 août 2005 (INTC0500203D)](decret-n2005-938-du-2-aout-2005-intc0500203d)
 - [Décret n°2005-939 du 2 août 2005 (INTC0500202D)](decret-n2005-939-du-2-aout-2005-intc0500202d)
 - [Décret n°2005-940 du 2 août 2005 (INTC0500204D)](decret-n2005-940-du-2-aout-2005-intc0500204d)
+- [Décret n°2006-1 du 2 janvier 2006 (SANS0524740D)](decret-n2006-1-du-2-janvier-2006-sans0524740d)
 - [Décret n°2006-3 du 2 janvier 2006 (BUDR0503007D)](decret-n2006-3-du-2-janvier-2006-budr0503007d)
 - [Décret n°2002-749 du 2 mai 2002 (EQUA0200732D)](decret-n2002-749-du-2-mai-2002-equa0200732d)
 - [Décret n°2005-1368 du 3 novembre 2005 (SANS0523865D)](decret-n2005-1368-du-3-novembre-2005-sans0523865d)
