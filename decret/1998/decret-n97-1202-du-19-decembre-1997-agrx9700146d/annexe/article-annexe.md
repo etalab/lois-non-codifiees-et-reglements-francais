@@ -26,6 +26,10 @@ Agrément des organismes certificateurs de produits agricoles et alimentaires et
 
 Homologation des labels agricoles, des cahiers des charges de certification de conformité, et des cahiers des charges des produits issus du mode de production biologique (agriculture, alimentation et consommation) : Décret n° 96-193 du 12 mars 1996 relatif à la certification des denrées alimentaires et des produits agricoles non alimentaires et non transformés, art. 18, 31 et 35.
 
+Agrément des laboratoires d'analyse d'échantillons prélevés dans le cadre des contrôles officiels réalisés par les services de l'Etat compétents ou leurs délégataires, en vue d'assurer le respect des dispositions des titres II, III et V du livre II du code rural et des textes pris pour leur application : Articles R. 202-8, R. 202-9, R. 202-11, R. 202-14 et R. 202-17 du code rural.
+
+Désignation des personnes chargées du contrôle des laboratoires nationaux de référence et des laboratoires agréés en application du chapitre II du titre préliminaire du livre II du code rural et des textes pris pour son application : Articles R. 202-6 et R. 202-16 du code rural.
+
 Organismes professionnels agricoles :
 
 Autorisation de répartition entre les associés d'une société coopérative agricole ou d'une union de sociétés coopératives du surplus d'actif net après dévolution des réserves indisponibles lorsque le ministre chargé de l'agriculture est compétent pour en prononcer l'agrément (agriculture, économie et budget) : Article R. 526-4, 2e alinéa du code rural.
@@ -147,6 +151,20 @@ Politique sociale et emploi :
 Décisions limitant, réglementant ou interdisant l'importation ou la vente de certains produits ou matériels en application des articles L. 231-7 et L. 233-5 du code du travail : Article L. 231-1-2 et R. 231-57 du code du travail.
 
 Agrément de certains organismes chargés de dispenser une formation en matière d'hygiène et de sécurité aux représentants des personnels siégeant aux comités d'hygiène et de sécurité : Décret n° 82-453 du 28 mai 1982 modifié relatif à l'hygiène et à la sécurité du travail ainsi qu'à la prévention médicale dans la fonction publique, art. 8.
+
+Décisions de réception CE des tracteurs agricoles ou forestiers, des entités techniques, des systèmes ou des composants, rejets et retraits des réceptions CE : Articles 4, 5, 7 et 24 du décret n° 2005-1236 du 30 septembre 2005 relatif aux règles, prescriptions et procédures applicables aux tracteurs agricoles ou forestiers et à leurs dispositifs.
+
+Décision dérogeant à l'application d'une ou de plusieurs des règles techniques (procédure de réception CE) : Article 5 du même décret.
+
+Décisions d'homologation nationale des tracteurs agricoles ou forestiers, rejets et retraits d'homologation : Articles 8, 10 et 24 du même décret.
+
+Décisions d'habilitation des services administratifs et organismes chargés d'instruire les demandes et de délivrer les fiches de réception CE des tracteurs agricoles ou forestiers, des entités techniques, systèmes ou composants, et retraits d'habilitation :
+
+Articles 16 et 17 du même décret.
+
+Décisions d'agrément des services techniques chargés de procéder aux examens et essais des tracteurs agricoles ou forestiers, entités techniques, systèmes ou composants, et retraits d'agrément : Articles 16 et 17 du même décret.
+
+Demandes de vérification auprès du responsable de la mise sur le marché des tracteurs agricoles ou forestiers, entités techniques, systèmes ou composants : Article 23 du même décret.
 
 Enseignement :
 
