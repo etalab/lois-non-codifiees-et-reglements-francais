@@ -1,5 +1,0 @@
-# Article 15
-
-Durant une période transitoire de cinq ans à compter de la date de publication du présent décret, les modalités de recrutement des ingénieurs des travaux agricoles prévues au chapitre II ci-dessus et celles antérieurement fixées par le décret susvisé du 14 août 1962 seront simultanément applicables ; un arrêté du ministre de l'agriculture fixera chaque année, en fonction du nombre total de postes à pourvoir et des effectifs des promotions des écoles nationales d'ingénieurs des travaux agricoles, le contingent d'emplois réservé à chacun de ces modes de recrutement.
-
-Les ingénieurs des travaux agricoles ainsi recrutés en application des anciennes règles percevront, durant leur année de stage, la rémunération d'un élève ingénieur des travaux agricoles de première année et leur titularisation sera prononcée à un échelon de début provisoire comportant un indice de traitement égal à celui d'un élève ingénieur après un an de scolarité. L'ancienneté requise dans cet échelon provisoire pour accéder au 1er échelon normal est fixée à un an.

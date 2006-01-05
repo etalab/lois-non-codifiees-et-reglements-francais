@@ -1,9 +1,0 @@
-# Article 1
-
-Les ingénieurs des travaux des eaux et forêts forment un corps à caractère interministériel classé dans la catégorie A prévue à l'article 29 de la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat et relevant du ministre chargé de l'agriculture.
-
-Ils ont vocation à servir en position normale d'activité dans les services relevant du ministre chargé de l'agriculture, dans les établissements publics administratifs placés sous sa tutelle, dans les établissements mentionnés aux articles L. 811-8 et L. 812-3 du code rural, à l'Office national des forêts, ainsi que dans d'autres administrations ou établissements publics administratifs de l'Etat désignés par arrêtés conjoints du ministre chargé de l'agriculture, du ministre chargé de la fonction publique et du ministre dont dépend l'administration intéressée. L'affectation dans ces autres administrations ou établissements publics est prononcée par arrêté conjoint du ministre chargé de l'agriculture et du ministre dont dépend l'administration ou l'établissement public administratif concerné. Les affectations à l'Office national des forêts sont prononcées après consultation du directeur général de cet office.
-
-Les ingénieurs des travaux des eaux et forêts exercent normalement, sous l'autorité des ingénieurs du génie rural, des eaux et des forêts, les fonctions de nature technique ou économique relatives à la gestion et à l'équipement des forêts, à l'économie forestière, à la poursuite de l'inventaire forestier, à la protection et à l'amélioration du milieu naturel, à la chasse et à la pêche. Ils sont, en particulier, chargés de l'étude et de la direction des travaux de toute nature afférents à ces tâches.
-
-En outre, ils exercent dans les services extérieurs du ministère de l'agriculture, les attributions de procédure pénale prévues à l'article 1er du décret n° 66-72 du 22 janvier 1966.

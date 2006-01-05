@@ -1,5 +1,0 @@
-# Article 5
-
-La gestion administrative du corps des ingénieurs des travaux des eaux et forêts est assurée par un bureau commun relevant conjointement du directeur général ou directeur chargé du personnel à l'administration centrale du ministère de l'agriculture et du directeur général de l'office national des forêts.
-
-La commission administrative paritaire centrale du corps des ingénieurs des travaux des eaux et forêts est instituée conformément aux dispositions du décret n° 59-307 du 14 février 1959. Les représentants de l'administration au sein de cette commission comprennent des représentants du ministère de l'agriculture et des représentants de l'office national des forêts en nombre proportionnel aux effectifs d'ingénieurs des travaux des eaux et forêts respectivement affectés au ministère de l'agriculture et à cet établissement public, sans que le nombre des représentants de l'une de ces administrations puisse être inférieur à un, quelle que soit la formation dans laquelle siège la commission.
