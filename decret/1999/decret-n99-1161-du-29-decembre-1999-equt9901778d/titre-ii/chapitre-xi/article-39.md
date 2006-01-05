@@ -6,7 +6,7 @@ I. - Agents des établissements de maintenance de l'infrastructure.
 
 Ils identifient ainsi, dans la mesure du possible pour l'année, les personnels relevant de l'un ou l'autre des modes de répartition visés aux alinéas b ou c du paragraphe 1 de l'article 25 ci-dessus. Les dispositions du paragraphe 3 de l'article 25 sont également applicables.
 
-Outre le programme établi pour six mois civils (art. 25 § 5), les tableaux de service sont confectionnés et publiés avant le 20 du mois précédant celui où ils sont appliqués : ils confirment, en règle générale, le programme des repos établi semestriellement ou peuvent, de façon exceptionnelle et individuellement, le modifier après concertation entre la hiérarchie et le ou les agents concernés.
+Outre le programme établi pour le semestre civil (art. 25 § 5), les tableaux de service sont confectionnés et publiés avant le 20 du mois précédant celui où ils sont appliqués : ils confirment, en règle générale, le programme des repos établi semestriellement ou peuvent, de façon exceptionnelle et individuellement, le modifier après concertation entre la hiérarchie et le ou les agents concernés.
 
 Les agents détachés dans une autre équipe que la leur adoptent le tableau de service de l'équipe qu'ils viennent renforcer.
 

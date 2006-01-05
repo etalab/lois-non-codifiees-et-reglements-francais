@@ -1,5 +1,5 @@
 # Article 12
 
-Il ne doit être prévu de pause pour repas que dans les lieux où il existe un local équipé pour le réchauffage des aliments et la possibilité de se laver les mains.
+Le personnel soumis au présent titre, du fait des missions qu'il accomplit, ne peut disposer systématiquement d'une interruption de son service lorsque le temps de travail effectif est supérieur à six heures sans dépasser huit heures.
 
-Lorsque le local équipé est éloigné du point de stationnement de la machine ou du train, les temps nécessaires pour s'y rendre ou en revenir ne sont pas inclus dans le temps de la pause pour repas.
+Les compensations correspondantes sont incluses dans les durées minimales des repos journaliers à la résidence et des repos périodiques mentionnées aux articles 15 et 16.

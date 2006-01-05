@@ -2,7 +2,7 @@
 
 1. L'amplitude d'une journée de travail considérée isolément ne peut excéder :
 
-- huit heures si la journée comprend tout ou partie de la période de nuit définie à l'article 5 ci-dessus ;
+- huit heures si la journée comprend plus d'une heure trente dans la période nocturne définie à l'article 5 ci-dessus ;
 
 - onze heures dans les autres cas.
 

@@ -6,7 +6,7 @@
 
 3. La période de 22 heures à 6 heures ne peut comporter de temps de coupure.
 
-4. Les journées couvrant tout ou partie de la période de nuit définie à l'article 5 ne peuvent comporter de coupure.
+4. Les journées couvrant tout ou partie de la période comprise entre 0 heure 30 et 4 heures 30 ne peuvent comporter de coupure.
 
 Toutefois, si une journée prévue comme ne devant pas comporter tout ou partie de cette période la couvre en définitive (en tout ou partie), la coupure dont l'agent a bénéficié reste décomptée comme telle.
 

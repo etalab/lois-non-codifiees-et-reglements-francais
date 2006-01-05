@@ -2,7 +2,7 @@
 
 Au sens du présent décret, on entend par :
 
-1. Jour : la journée de calendrier comptée de 0 à 24 heures ;
+1. Jour calendaire : la journée de calendrier comptée de 0 à 24 heures semestre civil : période de six mois commençant le 1er janvier ou le 1er juillet ;
 
 2. Amplitude (ou journée de service) : l'intervalle existant :
 

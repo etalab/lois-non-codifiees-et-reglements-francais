@@ -6,7 +6,7 @@ Cependant les compensations à ce titre ne sont effectivement attribuées à l'a
 
 2. Sauf pour les agents concernés par le deuxième alinéa de l'article 20, les dépassements de la durée du travail effectif d'une journée considérée isolément au-delà de :
 
-- sept heures trente si la journée comprend tout ou partie de la période de nuit définie à l'article 5 ci-dessus ;
+- sept heures trente si la journée comprend plus d'une heure trente dans la période nocturne définie à l'article 5 ci-dessus ;
 
 - huit heures trente dans les autres cas,
 

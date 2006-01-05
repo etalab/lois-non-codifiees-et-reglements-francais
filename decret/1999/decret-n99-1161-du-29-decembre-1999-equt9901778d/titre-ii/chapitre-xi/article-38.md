@@ -4,7 +4,7 @@
 
 Toutefois, seuls les agents de remplacement remplissant l'une des conditions prévues au paragraphe 3 de l'article 25 sont considérés, pour ce mois, comme soumis aux dispositions de l'alinéa c du paragraphe 1 de l'article 25.
 
-2. Remplacement sans déplacement :
+2. Remplacement sans déplacement : Les compensations correspondantes sont incluses dans les repos périodiques et supplémentaires prévus à l'article 32.
 
 Le repos journalier d'un agent qui effectue un remplacement peut être réduit à dix heures une fois par semaine ou par grande période de travail, sauf pour les agents qui viennent d'assurer un poste de nuit tel qu'il est défini à l'article 23.
 
@@ -28,7 +28,7 @@ Cent quatorze (cent quinze les années où le nombre de dimanches est de cinquan
 
 Six repos supplémentaires sont portés au crédit du compte temps dans les conditions indiquées à l'article 55 ci-après.
 
-Les repos périodiques et cinq repos supplémentaires sont attribués dans les conditions prévues aux articles 32-VI et 33 en s'efforçant de les programmer par période d'une durée au moins égale à deux semaines de calendrier. Ce programme est normalement communiqué aux agents avant la fin de la période précédente. Le nombre de jours de repos accordés sur une période de six mois civils ne doit pas être inférieur à cinquante-six.
+Les repos périodiques et cinq repos supplémentaires sont attribués dans les conditions prévues aux articles 32-VI et 33 en s'efforçant de les programmer par période d'une durée au moins égale à deux semaines de calendrier. Ce programme est normalement communiqué aux agents avant la fin de la période précédente. Le nombre de jours de repos accordés sur un semestre civil ne doit pas être inférieur à cinquante-six.
 
 Chaque mois civil, ces agents doivent bénéficier au minimum d'un repos périodique placé sur un samedi et un dimanche consécutifs et d'un autre repos périodique double. Les dates de ces repos leur sont communiquées au plus tard le 20 du mois précédent.
 

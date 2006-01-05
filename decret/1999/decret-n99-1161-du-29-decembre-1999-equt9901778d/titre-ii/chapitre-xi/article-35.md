@@ -6,7 +6,7 @@
 
 a) Agents suivant un tableau de service de jour comportant deux séances de travail.
 
-Lorsque l'agent a bénéficié d'au moins huit heures de repos ininterrompu comprenant en totalité la période de nuit visée à l'article 23, le repos journalier est considéré comme pris et la reprise de service se fait à l'heure prévue au tableau de service.
+Lorsque l'agent a bénéficié d'au moins huit heures de repos ininterrompu comprenant en totalité la période comprise entre 0 heure et 4 heures, le repos journalier est considéré comme pris et la reprise de service se fait à l'heure prévue au tableau de service.
 
 Si ces conditions ne sont pas remplies, la reprise du service est décalée et l'agent reprend son service au début de sa séance de travail de l'après-midi. Toutefois, si la durée du dérangement ou de la totalité des dérangements est supérieure à cinq heures et se termine après quatre heures, l'agent n'assure pas la journée de service suivant la nuit du dérangement.
 

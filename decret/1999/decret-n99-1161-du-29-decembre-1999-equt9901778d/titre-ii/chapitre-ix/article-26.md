@@ -1,6 +1,6 @@
 # Article 26
 
-1. La durée du travail effectif ne peut excéder neuf heures trente par journée de service considérée isolément ou huit heures trente lorsque la journée de service comprend tout ou partie de la période de nuit définie à l'article 23 ci-dessus.
+1. La durée du travail effectif ne peut excéder neuf heures trente par journée de service considérée isolément ou huit heures trente lorsque la journée de service comprend plus d'une heure trente dans la période nocturne définie à l'article 23 ci-dessus.
 
 2. Pour les personnels à temps complet, la durée du travail effectif prévue pour une journée de service ne peut être inférieure à :
 

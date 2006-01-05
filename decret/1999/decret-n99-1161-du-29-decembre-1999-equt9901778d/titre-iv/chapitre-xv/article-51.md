@@ -18,17 +18,15 @@
 
 ainsi que le remplacement dans des postes et les levers de nuit dans les passages à niveau.
 
-2. Lorsque des dépassements ont été constatés comme indiqué au paragraphe 1 ci-dessus, ils doivent être prioritairement compensés à temps égal avant la fin du semestre en cours.
+2. Lorsque des dépassements ont été constatés comme indiqué au paragraphe 1 ci-dessus, ils doivent être prioritairement compensés à temps égal avant la fin du semestre civil en cours.
 
 A défaut d'une telle compensation avant la fin du semestre civil au cours duquel ils se sont produits, ces dépassements sont considérés comme heures supplémentaires et donnent lieu au paiement et à une majoration de la rémunération égale à :
 
-25 % pour les 90 premières heures de chaque semestre civil, cette majoration étant limitée à 10 % pour l'année 2000 ;
-
-25 % pour les 180 heures au-delà de la quatre-vingt-dixième heure ;
+- 25 % pour les 270 premières heures de chaque semestre civil ;
 
 50 % pour les heures au-delà.
 
-3. En ce qui concerne le personnel relevant du titre Ier, le dépassement sur le semestre civil de la moyenne de sept heures quarante-six minutes de travail par jour donne lieu à compensation par attribution de repos compensateurs dans les conditions définies aux paragraphes 4 et 5 de l'article 17 du présent décret.
+3. En ce qui concerne le personnel relevant du titre Ier, le dépassement sur le semestre civil de la moyenne de travail effectif par jour de service limitée au 1 de l'article 7 donne lieu à compensation par attribution de repos compensateurs dans les conditions définies aux 4 et 5 de l'article 17 du présent décret.
 
 Le dépassement de la moyenne de huit heures par jour sur trois grandes périodes de travail consécutives donne lieu au versement d'une indemnité dans les conditions définies par le règlement du personnel.
 

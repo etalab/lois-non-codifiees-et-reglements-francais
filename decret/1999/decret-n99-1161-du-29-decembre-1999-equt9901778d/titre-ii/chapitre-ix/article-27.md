@@ -10,7 +10,7 @@
 
 - à pied ou par un moyen personnel de transport pour se rendre d'un lieu de travail à un autre ;
 
-- la durée des trajets et les délais d'attente visés au paragraphe 2 ci-après lorsqu'ils sont compris dans la période de nuit définie à l'article 23.
+- la durée des trajets et les délais d'attente visés au paragraphe 2 ci-après lorsqu'ils sont compris dans la période comprise entre 0 heure et 4 heures.
 
 2. Sont comptés comme travail effectif pour une fraction égale à la moitié :
 

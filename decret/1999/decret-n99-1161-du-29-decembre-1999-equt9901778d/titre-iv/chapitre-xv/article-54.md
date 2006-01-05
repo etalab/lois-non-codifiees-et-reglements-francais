@@ -1,6 +1,6 @@
 # Article 54
 
-1. Les heures de travail effectuées pendant les périodes de nuit définies aux articles 5 et 23 du présent décret donnent lieu à compensation, à raison de neuf minutes par heure (ou fraction d'heure).
+1. Les heures de travail effectuées pendant la période comprise entre 0 heure 30 et 4 heures 30 pour les personnels relevant du titre Ier du présent décret ou la période comprise entre 0 heure et 4 heures pour les personnels relevant des titres II et III du présent décret donnent lieu à compensation, à raison de neuf minutes par heure (ou fraction d'heure).
 
 Elles ouvrent droit, en outre, au paiement d'une indemnité de sujétion dans les conditions fixées par le règlement du personnel.
 
@@ -16,4 +16,4 @@ Pour les agents passant d'un poste de travail relevant d'un mode de répartition
 
 3. Pour les agents assurant des remplacements, il ne peut y avoir deux grandes périodes de travail de nuit consécutives, sauf dans le cas où le roulement de l'agent remplacé le prévoyait.
 
-4. Pour le personnel relevant du titre Ier, le nombre de journées de service prévues comportant toute la période de nuit définie à l'article 5 est limité à deux par grande période de travail.
+4. Pour le personnel relevant du titre Ier, le nombre de journées de service prévues comportant en totalité la période de 0 heure 30 à 4 heures 30 est limité à deux par grande période de travail.

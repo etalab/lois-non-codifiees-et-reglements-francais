@@ -11,3 +11,7 @@ Si une journée prévue de moins de huit heures de travail ininterrompu vient ac
 2. La durée prévue pour la pause repas doit être indiquée sur le roulement de service. Elle est égale à quarante-cinq minutes au minimum, mais peut être réduite, suivant les exigences de l'exploitation et en raison seulement de circonstances accidentelles et imprévisibles, jusqu'à trente-cinq minutes.
 
 Dans le cas où la pause pour repas est prolongée d'un laps de temps portant sa durée totale à plus d'une heure, cette pause pour repas ne peut être considérée comme la coupure prévue à l'article 10 ci-dessus à moins que l'agent ait été prévenu au début ou au cours de la pause pour repas que des circonstances accidentelles et imprévisibles lui permettaient de disposer d'une coupure au moins égale à une heure à compter du moment où il a été avisé.
+
+3. Il ne doit être prévu de pause pour repas que dans les lieux où il existe un local équipé pour le réchauffage des aliments et la possibilité de se laver les mains.
+
+Lorsque le local équipé est éloigné du point de stationnement de la machine ou du train, les temps nécessaires pour s'y rendre ou en revenir ne sont pas inclus dans le temps de la pause pour repas.
