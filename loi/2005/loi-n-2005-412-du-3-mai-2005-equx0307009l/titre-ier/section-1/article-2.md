@@ -8,7 +8,7 @@ I. - Peuvent être immatriculés au registre international français :
 
 Sont exclus du bénéfice du présent article :
 
-1° Les navires transporteurs de passagers assurant des lignes régulières intracommunautaires ;
+1° Les navires transporteurs de passagers assurant des lignes régulières intracommunautaires ou, selon une liste fixée par décret, des lignes régulières internationales ;
 
 2° Les navires exploités exclusivement au cabotage national ;
 

@@ -10,7 +10,9 @@ La capacité professionnelle peut être reconnue par un organisme présentant de
 
 II. - Tout contrat de transport public de marchandises ou tout contrat relatif au déménagement doit comporter des clauses précisant la nature et l'objet du transport ou du déménagement, les modalités d'exécution du service en ce qui concerne le transport proprement dit et les conditions d'enlèvement et de livraison des objets transportés, les obligations respectives de l'expéditeur, du commissionnaire, du transporteur, du déménageur et du destinataire, et le prix du transport ou du déménagement ainsi que celui des prestations accessoires prévues. De même, le contrat de commission de transport doit faire l'objet de dispositions identiques.
 
-Sans préjudice de dispositions législatives en matière de contrat et à défaut de convention écrite définissant les rapports entre les parties au contrat sur les matières mentionnées à l'alinéa précédent, les clauses de contrats types s'appliquent de plein droit. Ces contrats types sont établis par décret, après avis du conseil national des transports.
+De même, pour les services occasionnels publics de transports routiers non urbains de personnes, tout contrat doit comporter des clauses précisant l'objet de la prestation et son prix, les droits et obligations des parties, l'affectation du personnel de conduite, les caractéristiques du matériel roulant ainsi que les conditions d'exécution du service notamment en fonction des personnes ou des groupes de personnes à transporter.
+
+Sans préjudice de dispositions législatives en matière de contrat et à défaut de convention écrite définissant les rapports entre les parties au contrat sur les matières mentionnées aux alinéas précédents, les clauses de contrats types s'appliquent de plein droit. Ces contrats types sont établis par décret, après avis du conseil national des transports.
 
 III. (supprimé)
 

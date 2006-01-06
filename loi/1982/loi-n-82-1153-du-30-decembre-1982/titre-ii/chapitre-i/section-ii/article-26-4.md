@@ -1,6 +1,6 @@
 # Article 26-4
 
-Les agents mentionnés à l'article 26-2 peuvent prélever des pièces ou des échantillons pour procéder à des analyses ou à des essais et exiger la communication de tout document nécessaire à l'accomplissement de leurs missions.
+Les agents mentionnés à l'article 26-2 peuvent prélever des pièces ou des échantillons pour procéder à des analyses ou à des essais et exiger la communication de tout élément justificatif nécessaire à l'accomplissement de leurs missions.
 
 Lorsque des vérifications complémentaires sont nécessaires, ces agents peuvent consigner les produits susceptibles de faire l'objet de l'arrêté prévu à l'article 26-1. Les produits consignés sont laissés à la garde de leur détenteur. Les agents habilités indiquent dans un procès-verbal ou un rapport les produits faisant l'objet de la consignation.
 

@@ -1,4 +1,4 @@
-# Section II : Du système ferroviaire transeuropéen
+# Section II : De l'interopérabilité du système ferroviaire
 
 - [Article 26](article-26.md)
 - [Article 26-1](article-26-1.md)

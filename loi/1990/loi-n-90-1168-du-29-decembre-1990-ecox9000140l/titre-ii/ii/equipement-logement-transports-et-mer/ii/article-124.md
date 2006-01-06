@@ -44,7 +44,7 @@ III. - Les transporteurs de marchandises ou de passagers et les propriétaires d
 
 Les concessionnaires de parties concédées du domaine public confié à l'établissement, les concessionnaires de voies et plans d'eau rayés de la nomenclature des voies navigables et les ports autonomes maritimes peuvent également instituer des péages à la charge des personnes susmentionnées sur les voies et plans d'eau intérieurs qui leur ont été confiés. Les tarifs de ce péage sont fixés par le concessionnaire après accord de l'autorité concédante sur leur montant et, dans le dernier cas, par le conseil d'administration du port.
 
-Les collectivités territoriales ou leurs groupements peuvent instituer un péage à la charge de ces mêmes personnes sur les cours d'eau, canaux, lacs et plans d'eau de leur domaine public fluvial. Les tarifs de ce péage sont fixés par l'assemblée délibérante de la collectivité ou du groupement.
+Les collectivités territoriales ou leurs groupements peuvent instituer un péage à la charge de ces mêmes personnes sur les cours d'eau, canaux, lacs et plans d'eau de leur domaine public fluvial ou du domaine public fluvial dont elles ont la gestion. Les tarifs de ce péage sont fixés par l'assemblée délibérante de la collectivité ou du groupement.
 
 IV. - Lorsque des éléments du domaine public fluvial confié à l'établissement public sont vendus, après déclassement, le produit de leur vente est acquis à l'établissement.
 
