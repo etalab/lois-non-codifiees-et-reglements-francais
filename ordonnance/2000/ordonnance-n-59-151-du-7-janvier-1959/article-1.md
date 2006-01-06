@@ -32,7 +32,11 @@ Une majorité qualifiée des deux tiers des membres présents ou représentés e
 
 - les délégations d'attributions relevant du syndicat ;
 
-- les modifications de répartition des contributions des membres du syndicat.
+- les modifications de répartition des contributions des membres du syndicat ;
+
+- la délibération qui aurait pour effet une augmentation des contributions des membres autres que la région d'Ile-de-France supérieure au taux d'évolution moyen des tarifs inscrit au budget initial du syndicat de l'année majoré d'un taux de deux points.
+
+Toutefois, la majorité qualifiée n'est pas requise lorsque l'augmentation des contributions est rendue nécessaire pour équilibrer le budget du syndicat à la suite d'une baisse imprévue du produit du versement transport, du produit des amendes de police ou des redevances perçues.
 
 Le représentant de l'Etat dans la région d'Ile-de-France est entendu à sa demande par le conseil d'administration du syndicat.
 
