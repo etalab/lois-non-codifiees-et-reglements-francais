@@ -1,13 +1,17 @@
 # Article 13
 
-Lorsqu'une violation des interdictions prévues aux articles 6, 7 et 8 a été constatée, dans les conditions prévues à l'article 16, le représentant de l'Etat dans la région peut suspendre, pour une durée maximum de trois mois, les droits et prérogatives afférents aux brevets, diplômes ou certificats des capitaines, patrons ou de ceux qui en remplissent les fonctions, ainsi que les licences de pêche, les permis de pêche spéciaux et, d'une manière générale, toute autorisation de pêche délivrée en application de la réglementation nationale ou communautaire.
+Indépendamment des sanctions pénales susceptibles d'être prononcées, les infractions aux règlements de la Communauté européenne, aux dispositions du présent texte et aux règlements pris pour son application, y compris aux obligations déclaratives et de surveillance par satellite qu'ils prévoient, peuvent donner lieu à l'application par l'autorité administrative des sanctions suivantes :
 
-La sanction est prononcée par décision motivée prise après avis d'un conseil de discipline, dans des conditions fixées par décret en Conseil d'Etat.
+a) Une amende administrative qui ne peut dépasser 1500 euros.
 
-Les intéressés sont avisés au préalable des faits retenus pour engager la poursuite.
+Lorsque l'infraction porte sur une quantité supérieure au quintal, cette amende est appliquée autant de fois qu'il y a de quintaux capturés, débarqués, détenus, acquis, transportés ou mis sur le marché en infraction.
 
-Ils sont invités par écrit à prendre connaissance de leur dossier et sont informés qu'ils disposent d'un délai de deux mois pour présenter leurs observations en défense.
+En cas d'infraction aux règles relatives aux systèmes de surveillance par satellite d'une durée supérieure à une heure, l'amende est appliquée autant de fois qu'il y a d'heures de manquement à ces règles ;
 
-Le représentant de l'Etat dans la région ne peut suspendre les droits ou l'autorisation en cause à raison de faits remontant à plus d'un an.
+b) La suspension ou le retrait de toute autorisation de pêche délivrée en application de la réglementation nationale ou communautaire ou du permis de mise en exploitation.
 
-Sa décision, qui peut être assortie d'un sursis, est susceptible d'un recours de pleine juridiction devant le tribunal administratif.
+Les intéressés sont avisés au préalable des faits relevés à leur encontre, des dispositions qu'ils ont enfreintes et des sanctions qu'ils encourent. L'autorité compétente leur fait connaître le délai dont ils disposent pour faire valoir leurs observations. Ils peuvent demander à être entendus, accompagnés, le cas échéant, du conseil de leur choix.
+
+La décision de l'autorité administrative ne peut être prise plus d'un an à compter de la constatation des faits. Elle est susceptible d'un recours de pleine juridiction devant le tribunal administratif.
+
+Les conditions d'application du présent article sont fixées par décret en Conseil d'Etat.

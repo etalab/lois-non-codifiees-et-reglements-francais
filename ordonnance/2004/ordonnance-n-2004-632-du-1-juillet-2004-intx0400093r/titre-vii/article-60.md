@@ -6,4 +6,6 @@ Toutefois, leurs statuts en vigueur à la date de publication de la présente or
 
 II. - Les dispositions du second alinéa du I sont applicables aux associations foncières mentionnées aux articles L. 322-1 du code de l'urbanisme et L. 131-1 du code rural.
 
+Toutefois, les associations foncières de réorganisation foncière et les associations foncières de remembrement visées aux articles L. 132-1 et L. 133-1 du code rural, constituées pour des opérations d'aménagement foncier ordonnées avant le 1er janvier 2006, disposent d'un délai de cinq ans à compter de la publication du décret en Conseil d'Etat prévu à l'article 62 de la présente ordonnance pour adopter des statuts conformes aux dispositions de la présente ordonnance.
+
 III. - L'association départementale d'aménagement de l'Isère, du Drac et de la Romanche dispose d'un délai d'un an à compter de la publication du décret en Conseil d'Etat prévu à l'article 62 pour adopter des statuts conformes aux dispositions du chapitre IV du titre VI. Jusqu'à l'expiration de ce délai, elle reste régie par les dispositions législatives et réglementaires en vigueur à la date de publication de la présente ordonnance.

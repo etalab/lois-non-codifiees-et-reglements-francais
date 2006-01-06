@@ -1,6 +1,6 @@
 # Article 9
 
-Les mesures générales à édicter au titre de l'article 8 par le bureau du comité interprofessionnel lui sont proposées par les délégués généraux, qui peuvent consulter le conseil interprofessionnel.
+Les mesures générales à édicter au titre de l'article 8 par le bureau du comité interprofessionnel lui sont proposées par les présidents, qui peuvent consulter le conseil interprofessionnel.
 
 Les décisions prises ne sont valables que si le commissaire du Gouvernement, ou le ministre, s'il y a lieu, ont donné leur approbation dans les délais prévus à l'article 6 de la présente loi.
 

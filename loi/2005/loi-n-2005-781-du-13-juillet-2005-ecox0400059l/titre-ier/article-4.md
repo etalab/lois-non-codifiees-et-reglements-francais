@@ -26,7 +26,7 @@ Les énergies renouvelables thermiques se substituant en très large partie aux 
 
 La diversification de notre bouquet énergétique concerne, en troisième lieu, le secteur des transports, qui doit faire l'objet d'une réorientation profonde, car il constitue la principale source d'émissions de gaz à effet de serre et de pollution de l'air.
 
-Compte tenu de leur intérêt spécifique, notamment en matière de lutte contre l'effet de serre, l'Etat soutient le développement des biocarburants et encourage l'amélioration de la compétitivité de la filière. A cette fin, l'Etat crée, notamment par l'agrément de capacités de production nouvelles, les conditions permettant de porter, conformément à nos engagements européens, à 2 % au 31 décembre 2005 et à 5,75 % au 31 décembre 2010 la part des biocarburants et des autres carburants renouvelables dans la teneur énergétique de la quantité totale d'essence et de gazole mise en vente sur le marché national à des fins de transport.
+Compte tenu de leur intérêt spécifique, notamment en matière de lutte contre l'effet de serre, l'Etat soutient le développement des biocarburants et encourage l'amélioration de la compétitivité de la filière. A cette fin, l'Etat crée, notamment par l'agrément de capacités de production nouvelles, les conditions permettant de porter à 5,75 % au 31 décembre 2008, à 7 % au 31 décembre 2010 et à 10 % au 31 décembre 2015 la part des biocarburants et des autres carburants renouvelables dans la teneur énergétique de la quantité totale d'essence et de gazole mise en vente sur le marché national à des fins de transport.
 
 Par ailleurs, l'Etat appuie l'utilisation des véhicules hybrides ou électriques et la recherche sur l'utilisation de la pile à combustible et de l'hydrogène.
 

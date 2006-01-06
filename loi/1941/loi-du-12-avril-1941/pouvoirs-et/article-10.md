@@ -8,7 +8,7 @@ Le bureau exécutif du comité interprofessionnel du vin de Champagne a, en outr
 
 3° D'engager, rétribuer et révoquer le directeur du comité.
 
-Ces mesures sont prescrites par les délégués généraux, chacun en ce qui le concerne, ou conjointement, si ces mesures concernent l'ensemble du groupement interprofessionnel.
+Ces mesures sont prescrites par les présidents, chacun en ce qui le concerne, ou conjointement, si ces mesures concernent l'ensemble du groupement interprofessionnel.
 
 Les décisions individuelles ainsi prises sont exécutoires dès notification aux intéressés.
 
