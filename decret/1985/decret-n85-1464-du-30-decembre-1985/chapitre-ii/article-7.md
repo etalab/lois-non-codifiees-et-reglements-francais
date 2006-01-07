@@ -1,13 +1,11 @@
 # Article 7
 
-Par dérogation aux dispositions des articles 43 et 44 du décret du 30 décembre 1983 susvisé les jurys d'admissibilité et d'admission sont constitués ainsi qu'il suit :
+Par dérogation aux dispositions des articles 43 et 44 du décret du 30 décembre 1983 susvisé, le jury unique d'admissibilité et d'admission, désigné par le président de l'IFREMER, pour les concours d'accès au corps des directeurs de recherche comprend :
 
-Le président-directeur général ou son représentant, président
+1° Le président de l'IFREMER ou son représentant, président ;
 
-Le directeur général adjoint ou son représentant ;
+2° Des personnes de rang égal ou assimilé à celui du ou des emplois à pourvoir, appartenant à la commission d'évaluation mentionnée à l'article 3 ;
 
-Huit membres de rang égal ou assimilé à celui du ou des emplois à pourvoir, nommés par le président-directeur général dont :
+3° Au moins une personnalité scientifique extérieure à l'établissement, de rang égal ou assimilé à celui du ou des emplois à pourvoir.
 
-- trois personnalités scientifiques extérieures à l'établissement choisies sur une liste proposée par le conseil scientifique ;
-
-- cinq personnes de l'établissement dont deux au moins appartiennent au corps dans lequel le ou les emplois sont à pourvoir.
+L'arrêté d'ouverture de concours précise si les modalités d'organisation du concours incluent ou non une audition des candidats.

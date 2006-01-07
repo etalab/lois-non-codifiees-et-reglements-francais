@@ -1,36 +1,18 @@
 # Article 1
 
-Les fonctionnaires de l'Institut français de recherche pour l'exploitation de la mer (Ifremer) sont répartis entre les corps suivants :
+Les fonctionnaires de l'Institut français de recherche pour l'exploitation de la mer (IFREMER) sont répartis entre les corps suivants :
 
-Directeurs de recherche ;
+1° Directeurs de recherche ;
 
-Chargés de recherche ;
+2° Chargés de recherche ;
 
-Ingénieurs de recherche ;
+3° Ingénieurs de recherche ;
 
-Ingénieurs d'études ;
+4° Ingénieurs d'études ;
 
-Assistants-ingénieurs ;
+5° Assistants ingénieurs ;
 
-Techniciens de la recherche ;
-
-Adjoints techniques de la recherche ;
-
-Agents techniques de la recherche ;
-
-Aides techniques de la recherche ;
-
-Chargés d'administration de la recherche ;
-
-Attachés d'administration de la recherche ;
-
-Secrétaires d'administration de la recherche ;
-
-Adjoints administratifs de la recherche ;
-
-Agents d'administration de la recherche ;
-
-Agents de bureau de la recherche.
+6° Techniciens de la recherche.
 
 Ces corps de fonctionnaires sont régis par les dispositions du décret du 30 décembre 1983 susvisé et celles du présent décret.
 
