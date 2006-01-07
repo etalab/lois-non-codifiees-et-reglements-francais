@@ -10,4 +10,4 @@ Tout candidat à l'examen pour la délivrance du permis de chasser doit adresser
 
 La demande concernant un mineur est formulée par son représentant légal.
 
-Le dossier est déposé, à l'issue des formations théorique et pratique, auprès de la fédération départementale des chasseurs, qui le transmet sans délai à l'Office national de la chasse et de la faune sauvage.
+Le dossier est déposé auprès de la fédération départementale des chasseurs, qui le transmet sans délai à l'Office national de la chasse et de la faune sauvage.
