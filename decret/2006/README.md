@@ -25,6 +25,7 @@
 - [Décret n°2006-9 du 4 janvier 2006 (AGRS0502640D)](decret-n2006-9-du-4-janvier-2006-agrs0502640d)
 - [Décret n°2006-13 du 5 janvier 2006 (INDI0506482D)](decret-n2006-13-du-5-janvier-2006-indi0506482d)
 - [Décret n°2006-1518 du 5 décembre 2006 (DEFP0601511D)](decret-n2006-1518-du-5-decembre-2006-defp0601511d)
+- [Décret n°2006-22 du 5 janvier 2006 (BUDR0560128D)](decret-n2006-22-du-5-janvier-2006-budr0560128d)
 - [Décret n°2006-23 du 5 janvier 2006 (BUDB0560048D)](decret-n2006-23-du-5-janvier-2006-budb0560048d)
 - [Décret n° 2007-165 du 6 février 2007 (EQUA0601803D)](decret-n-2007-165-du-6-fevrier-2007-equa0601803d)
 - [Décret n°2006-14 du 6 janvier 2006 (INTE0600001D)](decret-n2006-14-du-6-janvier-2006-inte0600001d)
