@@ -18,6 +18,6 @@ Ces arrêtés s'appliquent principalement :
 
 4° Aux installations situées à l'intérieur des locaux industriels et commerciaux.
 
-Ils sont pris après avis du comité technique de la distribution du gaz en ce qui concerne les installations visées aux 2°, 3° et 4° ci-dessus.
+Ils sont pris après avis de la commission de sécurité du transport, de la distribution et de l'utilisation du gaz en ce qui concerne les installations visées aux 2°, 3° et 4° ci-dessus.
 
 Le silence gardé pendant plus d'un an par le ministre de l'industrie sur une demande formulée en matière de sécurité relative aux installations de gaz et d'hydrocarbures liquéfiés vaut décision de rejet.

@@ -1,25 +1,23 @@
 # Article 9
 
-La commission [*composition*] prévue à l'article 5 du décret du 26 mai 1967 est présidée par un membre du Conseil d'Etat.
+La commission prévue à l'article 5 du décret du 26 mai 1967 est dénommée "commission de recours en matière d'effectifs à bord des navires de commerce, de pêche maritime, de cultures marines et de plaisance".
+
+Elle est présidée par un membre du Conseil d'Etat.
 
 Elle comprend :
 
-Le directeur de l'administration générale et des gens de mer ou son représentant.
+- le directeur des affaires maritimes ou son représentant ;
 
-L'inspecteur général de l'administration des affaires maritimes.
+- l'inspecteur général des services des affaires maritimes ou son représentant ;
 
-Le chef du bureau du travail maritime.
+- le sous-directeur des gens de mer et de l'enseignement maritime ou son représentant ;
 
-Un ingénieur de l'armement en service à l'administration centrale du ministère chargé de la marine marchande.
+- le sous-directeur de la sécurité maritime ou son représentant ;
 
-Un inspecteur de la navigation et du travail maritimes en service à Paris, ou un technicien expert du service de la sécurité de la navigation maritime en service à Paris.
+- le chef du bureau du travail maritime ou son représentant, rapporteur ;
 
-Un fonctionnaire de la sous-direction des gens de mer et de la navigation maritime, rapporteur.
+- le chef du bureau de la réglementation et du contrôle de la sécurité des navires ou son représentant ;
 
-Trois représentants des armateurs, respectivement pour la navigation de commerce et pour la pêche maritime.
+- trois représentants d'organisations professionnelles représentatives des armateurs désignés respectivement pour la navigation au commerce, à la pêche maritime, pour les cultures marines ou pour la plaisance ;
 
-Trois représentants du personnel navigant, respectivement pour la navigation de commerce et pour la pêche maritime.
-
-Selon que l'affaire considérée concerne l'état-major ou le personnel subalterne, ces trois derniers membres sont des représentants de l'une ou l'autre de ces deux catégories.
-
-La commission peut, d'autre part, s'adjoindre, en tant que de besoin, un médecin des gens de mer en service à Paris.
+- trois représentants d'organisations syndicales représentatives des marins, désignés respectivement pour la navigation au commerce, à la pêche maritime, pour les cultures marines ou pour la plaisance.

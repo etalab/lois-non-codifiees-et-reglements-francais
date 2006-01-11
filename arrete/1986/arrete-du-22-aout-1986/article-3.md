@@ -1,8 +1,8 @@
 # Article 3
 
-Pour le renouvellement des droits, doivent être fournis à l'organisme payeur [*documents obligatoires*] :
+Pour le renouvellement des droits, doivent être fournis à l'organisme payeur :
 
-1° Avant le début de la période de paiement [*date limite*], l'état des personnes prévu au 1° de l'article 2 et la déclaration sur l'honneur prévue au 2°, ainsi que, avant le 31 mars de l'année suivante, l'avis d'imposition. Ces pièces sont transmises par le bénéficiaire ;
+1° Avant le début de la période de paiement, l'état des personnes prévu au 1° de l'article 2 et la déclaration sur l'honneur prévue au 2°. Ces pièces sont transmises par le bénéficiaire ;
 
 2° Avant le 15 mai précédant le début de la période de paiement, l'attestation prévue au 4° de l'article 2, qui est transmise par le bailleur ;
 
