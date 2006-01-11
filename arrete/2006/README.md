@@ -21,6 +21,7 @@
 - [Arrêté du 13 novembre 1963](arrete-du-13-novembre-1963)
 - [Arrêté du 13 octobre 2006 (EQUP0601957A)](arrete-du-13-octobre-2006-equp0601957a)
 - [Arrêté du 13 octobre 2006 (EQUP0602034A)](arrete-du-13-octobre-2006-equp0602034a)
+- [Arrêté du 14 juin 1979](arrete-du-14-juin-1979)
 - [Arrêté du 14 novembre 2005 (AGRG0502586A)](arrete-du-14-novembre-2005-agrg0502586a)
 - [Arrêté du 16 novembre 2005 (DEFD0501547A)](arrete-du-16-novembre-2005-defd0501547a)
 - [Arrêté du 16 novembre 2006 (EQUP0602111A)](arrete-du-16-novembre-2006-equp0602111a)

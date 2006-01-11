@@ -6,7 +6,7 @@ Pose des conduites
 
 Des pressions supérieures à celles prescrites aux alinéas précédents peuvent être autorisées, par décision du ministre chargé de la sécurité du gaz, à l'intérieur ou en aval immédiat d'un appareil de compression du gaz, à titre temporaire durant la période de fonctionnement de cet appareil et pour une utilisation particulière.
 
-Cette décision est subordonnée à l'acceptation préalable d'un dossier justificatif de demande d'autorisation pour cette utilisation particulière et prise après avis du comité technique de la distribution du gaz.
+Cette décision est subordonnée à l'acceptation préalable d'un dossier justificatif de demande d'autorisation pour cette utilisation particulière et prise après avis de la commission de sécurité du transport, de la distribution et de l'utilisation du gaz.
 
 2° Le diamètre intérieur des conduites collectives est déterminé en fonction du débit maximum prévisionnel à satisfaire, ce débit étant fixé par le distributeur. Il est limité en tout état de cause à :
 
@@ -22,7 +22,7 @@ L'utilisation de la brasure tendre est autorisée :
 
 pour les installations intérieures des habitations individuelles alimentées à une pression au plus égale à 400 mbar ;
 
-pour les installations intérieures des logements des immeubles collectifs alimentés à une pression au plus égales à 50 mbar;
+pour les installations intérieures des logements des immeubles collectifs alimentés à une pression au plus égales à 50 mbar ;
 
 pour les réparations à l'identique d'assemblages réalisées en brassage tendre.
 
@@ -54,7 +54,7 @@ La pression du gaz distribué est au plus égale à 50 mbar ;
 
 Les conduites sont réalisées entièrement en acier soudé ;
 
-Un logement n'est traversé que par une une seule conduite ;
+Un logement n'est traversé que par une seule conduite ;
 
 Les conduites sont revêtues d'une protection antirouille sur toute la longueur ;
 

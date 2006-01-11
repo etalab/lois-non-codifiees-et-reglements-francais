@@ -20,7 +20,7 @@ A. - Dispositions générales :
 
 b) Les installations de V.M.C. - gaz mises en service postérieurement au 9 août 1989 doivent être équipées d'un dispositif de sécurité collective conforme aux dispositions de l'arrêté du 30 mai 1989.
 
-5° D'autres systèmes d'évacuation des produits de combustion pourront être autorisés par le ministre chargé de la sécurité du gaz après avis du comité technique de la distribution du gaz.
+5° D'autres systèmes d'évacuation des produits de combustion pourront être autorisés par le ministre chargé de la sécurité du gaz après avis de la commission de sécurité du transport, de la distribution et de l'utilisation du gaz.
 
 B. - Conduits "spéciaux-gaz".
 
