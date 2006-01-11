@@ -360,7 +360,6 @@
 - [Arrêté du 14 février 1991 (SANM9100416A)](arrete-du-14-fevrier-1991-sanm9100416a)
 - [Arrêté du 14 février 1991 (SANP9100436A)](arrete-du-14-fevrier-1991-sanp9100436a)
 - [Arrêté du 14 janvier 1991 (SANH9002286A)](arrete-du-14-janvier-1991-sanh9002286a)
-- [Arrêté du 14 juin 1979](arrete-du-14-juin-1979)
 - [Arrêté du 14 juin 1991 (MERP9100111A)](arrete-du-14-juin-1991-merp9100111a)
 - [Arrêté du 14 juin 1991 (SPSA9101425A)](arrete-du-14-juin-1991-spsa9101425a)
 - [Arrêté du 14 mars 1991 (JUSD9130017A)](arrete-du-14-mars-1991-jusd9130017a)

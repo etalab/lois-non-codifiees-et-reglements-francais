@@ -176,7 +176,6 @@
 - [Décret n°84-455 du 14 juin 1984](decret-n84-455-du-14-juin-1984)
 - [Décret n°86-211 du 14 février 1986](decret-n86-211-du-14-fevrier-1986)
 - [Décret n°86-225 du 14 février 1986](decret-n86-225-du-14-fevrier-1986)
-- [Décret n°86-229 du 14 février 1986](decret-n86-229-du-14-fevrier-1986)
 - [Décret n°86-428 du 14 mars 1986](decret-n86-428-du-14-mars-1986)
 - [Décret n°86-429 du 14 mars 1986](decret-n86-429-du-14-mars-1986)
 - [Décret n°86-442 du 14 mars 1986](decret-n86-442-du-14-mars-1986)
