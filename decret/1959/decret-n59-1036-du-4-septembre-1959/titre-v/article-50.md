@@ -1,3 +1,0 @@
-# Article 50
-
-Sont abrogés les articles 150, 151, 152 (3° et 4° alinéas), 155, 159, 160, 161, 162 (alinéas 1er à 10), 163, 164, 165 du Code minier, les décrets n° 53-1248 et 53-1249 du 17 décembre 1953 relatifs aux conseils d'administration respectifs des Houillères de bassin et des Charbonnages de France, les décrets n° 47-156 et 47-157 du 16 janvier 1947, modifiés, portant fixation des statuts respectifs des Charbonnages de France et des Houillères de bassin, ainsi que le décret n° 56-492 du 14 mai 1956 relatif aux dotations en capital attribuées aux Charbonnages de France et aux Houillères de bassin.
