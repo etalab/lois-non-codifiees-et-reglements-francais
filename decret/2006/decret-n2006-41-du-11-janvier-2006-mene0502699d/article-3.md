@@ -1,0 +1,3 @@
+# Article 3
+
+La formation aux premiers secours, validée par l'attestation de formation aux premiers secours, est assurée par des organismes habilités parmi lesquels figurent notamment les services déconcentrés du ministère chargé de l'éducation nationale, du ministère chargé de la santé avec les centres d'enseignement des soins d'urgence et du ministère chargé de la sécurité civile ainsi que les services départementaux d'incendie et de secours, ou par des associations agréées pour les formations aux premiers secours, dans les conditions définies par un arrêté pris en application du décret du 30 août 1991 susvisé.
