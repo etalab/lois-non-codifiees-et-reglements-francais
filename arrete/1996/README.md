@@ -640,7 +640,6 @@
 - [Arrêté du 19 avril 1996 (TASE9610614A)](arrete-du-19-avril-1996-tase9610614a)
 - [Arrêté du 19 avril 1996 (TASE9610615A)](arrete-du-19-avril-1996-tase9610615a)
 - [Arrêté du 19 décembre 1995 (ECOT9510255A)](arrete-du-19-decembre-1995-ecot9510255a)
-- [Arrêté du 19 décembre 1995 (MIPP9500966A)](arrete-du-19-decembre-1995-mipp9500966a)
 - [Arrêté du 19 décembre 1996 (ECOT9651565A)](arrete-du-19-decembre-1996-ecot9651565a)
 - [Arrêté du 19 décembre 1996 (JUSF9650046A)](arrete-du-19-decembre-1996-jusf9650046a)
 - [Arrêté du 19 décembre 1996 (MIPP9600498A)](arrete-du-19-decembre-1996-mipp9600498a)
