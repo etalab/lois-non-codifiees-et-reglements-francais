@@ -42,10 +42,16 @@ La durée de ces épreuves ne doit pas excéder 30 minutes (hors temps de prépa
 
 La durée de cette épreuve ne doit pas excéder 30 minutes (hors temps de préparation).
 
-4. L'épreuve orale de langue vivante étrangère est une épreuve de langue anglaise pour tous les candidats. Elle comprend :
+4. Pour les concours 2006 et 2007, l'épreuve orale de langue vivante étrangère est une épreuve dans la langue choisie pour l'épreuve écrite d'admissibilité. Elle comprend :
 
-- l'analyse et le commentaire en anglais d'un texte ou article non technique extrait d'un journal ou d'une revue. La durée de l'exposé est de 10 minutes environ ;
+- l'analyse et le commentaire d'un texte ou article non technique extrait d'un journal ou d'une revue ; la durée de l'exposé est de dix minutes environ ;
 
-- un test de compréhension auditive de conversation courante, constituant une épreuve, sans préparation, de 10 minutes environ.
+- un test de compréhension auditive de conversation courante, constituant une épreuve, sans préparation, de dix minutes environ.
 
-5. L'épreuve de « travaux d'initiative personnelle encadrés » (TIPE) est organisée par les CCP qui en fixent la nature et la forme.
+A compter du concours 2008, l'épreuve orale de langue vivante étrangère est une épreuve de langue anglaise pour tous les candidats. Elle comprend :
+
+- l'analyse et le commentaire en anglais d'un texte ou article non technique extrait d'un journal ou d'une revue. La durée de l'exposé est de dix minutes environ ;
+
+- un test de compréhension auditive de conversation courante, constituant une épreuve, sans préparation, de dix minutes environ.
+
+5. L'épreuve de  travaux d'initiative personnelle encadrés  (TIPE) est organisée par les CCP qui en fixent la nature et la forme.
