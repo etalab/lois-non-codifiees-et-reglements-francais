@@ -1,0 +1,3 @@
+# Article 4
+
+Les modalités d'attribution des logements transférés, prévues dans la convention mentionnée à l'article L. 822-1 du code de l'éducation, assurent à la commune, à l'établissement public de coopération intercommunale ou, le cas échéant, à la région Ile-de-France, de disposer d'au moins un quart des voix dans les instances compétentes en matière d'attribution des logements leur appartenant. En l'absence d'instance collégiale, la commune, l'établissement public de coopération intercommunale ou, le cas échéant, la région Ile-de-France est consulté préalablement à la décision d'attribution.

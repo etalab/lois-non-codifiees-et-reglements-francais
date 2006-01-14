@@ -176,6 +176,26 @@ A compter du 1er février 2005 :
 
 Chef de service de l'ingénierie de l'eau à la direction départementale de l'agriculture et de la forêt de Meurthe-et- Moselle.
 
+A compter du 1er mai 2005 :
+
+Chef du service géomatique et données à la direction départementale de l'agriculture et de la forêt de l'Isère ;
+
+Chef du service environnement et aménagement à la direction départementale de l'agriculture et de la forêt du Puy-de-Dôme ;
+
+Directeur adjoint et chef du service des affaires rurales à la direction départementale de l'agriculture et de la forêt des Côtes-d'Armor ;
+
+Chef du service équipement et aménagement rural à la direction départementale de l'agriculture et de la forêt de la Haute-Vienne ;
+
+Chef du service équipement rural à la direction départementale de l'agriculture et de la forêt de l'Oise ;
+
+Chef du service de l'ingénierie de l'eau et des équipements ruraux à la direction régionale et départementale de l'agriculture et de la forêt du Nord ;
+
+Chef du service économie agricole à la direction départementale de l'agriculture et de la forêt des Pyrénées-Atlantiques ;
+
+Adjoint au chef de la mission d'appui technique aux services déconcentrés du Conseil général du génie rural, des eaux et des forêts.
+
 A compter du 1er juillet 2005 :
 
-Chef de service de l'environnement et de la forêt, chef de la mission interservices de l'eau à la direction départementale de l'agriculture et de la forêt de Haute-Corse.
+Chef de service de l'environnement et de la forêt, chef de la mission interservices de l'eau à la direction départementale de l'agriculture et de la forêt de Haute-Corse ;
+
+Chef du département de la santé des for^ ets à la direction générale de la forêt et des affaires rurales.
