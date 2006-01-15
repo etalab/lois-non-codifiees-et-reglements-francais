@@ -26,7 +26,7 @@ Conseil national des politiques de lutte contre la pauvreté et l'exclusion soci
 
 Conseil départemental d'insertion et son bureau institué par le décret n° 93-686 du 27 mars 1993.
 
-Commission d'admission à l'aide sociale prévue à l'article 126 du code de la famille et de l'aide sociale.
+Commission d'admission à l'aide sociale prévue à l'article L. 131-5 du code de l'action sociale et des familles.
 
 Comité national des retraités et des personnes âgées institué par le décret n° 82-687 du 4 août 1982, modifié par le décret n° 88-160 du 17 février 1988.
 
@@ -64,23 +64,31 @@ Section permanente du Conseil supérieur de la mutualité, articles L. 511-3, R.
 
 Comités départementaux et régionaux de coordination de la mutualité, articles R. 512-1, R. 512-4 et R. 513-19 du code de la mutualité.
 
-Direction des hôpitaux
+Direction de l'hospitalisation et de l'organisation des soins.
 
 Comité national de l'organisation sanitaire et sociale, article L. 712-6 du code de la santé publique et articles R. 712-14 à R. 712-21 du code de la santé publique.
 
 Comités régionaux de l'organisation sanitaire et sociale, article L. 712-6-1 du code de la santé publique et articles R. 712-22 à R. 712-29 du code de la santé publique.
 
-Collège national d'expert, article L. 712-6 du code de la santé publique et articles D. 712-1 à D. 712-6 du code de la santé publique.
+Commission nationale du contentieux de la tarification sanitaire et sociale, articles L. 351-1 à L. 351-4, L. 351-6 et L. 351-7 du code de l'action sociale et des familles sociale et décret n° 90-359 du 11 avril 1990.
 
-Commissions régionales de l'évaluation médicale des établissements, article L. 712-6-1 du code de la santé publique et articles D. 712-7 à D. 712-13 du code de la santé publique.
-
-Commission nationale de l'homologation, article L. 665-1 du code de la santé publique et articles R. 5274 à R. 5287 du code de la santé publique.
-
-Commission nationale du contentieux de la tarification sanitaire et sociale, articles 201 à 201-2 du code de la famille et de l'aide sociale et décret n° 90-359 du 11 avril 1990.
-
-Commissions interrégionales de la tarification sanitaire et sociale, article 201-1 du code de la famille et de l'aide sociale et décret n° 90-359 du 11 avril 1990.
+Commissions interrégionales de la tarification sanitaire et sociale, articles L. 351-3, L. 351-4, L. 351-6 et L. 351-7 du code de l'action sociale et des familles et décret n° 90-359 du 11 avril 1990.
 
 Conseil supérieur des hôpitaux institué par le décret n° 58-1202 du 11 décembre 1958.
+
+Commission des relations avec les usagers et de la qualité de la prise en charge instituée dans chaque établissement de santé public ou privé ainsi que les syndicats interhospitaliers et les groupements de coopération sanitaire autorisés à assurer les missions d'un établissement de santé (art. R. 1112-81 du code de la santé publique).
+
+Comités de liaison en alimentation et nutrition des établissements de santé (art. L. 1114-3 du code de la santé publique).
+
+Comités de lutte contre la douleur des établissements de santé (art. L. 1114-3 du code de la santé publique).
+
+Conseils d'administration des établissements publics de santé (art. L. 6143-5 du code de la santé publique).
+
+Sous-commissions spécialisées de la commission médicale d'établissement au sein des établissements publics de santé (art. L. 6144-1 du code de la santé publique).
+
+Comités de lutte contre les infections nosocomiales des établissements de santé (art. R. 6111-6 et R. 6111-10 du code de la santé publique).
+
+Commissions de surveillance au sein de l'Assistance publique-hôpitaux de Paris (art. R. 716-3-22 du code de la santé publique).
 
 Direction générale de la santé
 
@@ -136,6 +144,38 @@ Commission des maladies mentales, arrêté du 8 septembre 1987.
 
 Conseil départemental d'hygiène mentionné à l'article L. 776 du code de la santé publique.
 
+Commissions régionales ou interrégionales de conciliation et d'indemnisation des accidents médicaux, des affections iatrogènes et des infections nosocomiales (art. R. 1142-5 du code de la santé publique).
+
+Commission nationale des accidents médicaux (art. R. 1142-24 du code de la santé publique).
+
+Conseil d'administration de l'Office national d'indemnisation des accidents médicaux, des affections iatrogènes et des infections nosocomiales (art. R. 1142-43 du code de la santé publique).
+
+Conseil d'administration de l'Etablissement français du sang (art. R. 1222-4 du code de la santé publique).
+
+Conseils d'établissement des établissements de transfusion sanguine (art. R. 1223-1 du code de la santé publique).
+
+Conférence nationale de santé (art. L. 1411-3 du code de la santé publique).
+
+Conférences régionales de santé (art. L. 1411-13 du code de la santé publique).
+
+Conseil d'administration de l'Institut national de prévention et d'éducation pour la santé (art. R. 1417-8 du code de la santé publique).
+
+Conseil d'orientation de l'Agence de la biomédecine (art. R. 1418-19 du code de la santé publique).
+
+Commissions régionales de concertation en santé mentale (art. R. 3221-8 du code de la santé publique).
+
+Commissions départementales des hospitalisations psychiatriques (art. L. 3223-2 du code de la santé publique).
+
+Commission nationale de pharmacovigilance (art. R. 5121-160 du code de la santé publique).
+
+Commission nationale des dispositifs médicaux de diagnostic in vitro (art. R. 5222-6 du code de la santé publique).
+
+Comité national technique de l'échographie de dépistage anténatal (arrêté du 30 avril 2002).
+
+Comité technique des infections nosocomiales et des infections liées aux soins (arrêté du 23 septembre 2004).
+
+Observatoire des risques médicaux (arrêté du 27 décembre 2004).
+
 Délégation générale à l'innovation sociale
 
 et à l'économie sociale
@@ -148,4 +188,4 @@ Commission nationale d'agrément de la révision coopérative instituée par le 
 
 Délégation aux rapatriés
 
-Commission d'aide au désendettement immobilier de certains membres des formations supplétives et assimilés, instituée par le décret n° 97-677 du 31 mai 1997.
+Commission d'aide au  désendettement immobilier de certains membres des formations supplétives  et assimilés, instituée par le décret n° 97-677 du 31 mai 1997.

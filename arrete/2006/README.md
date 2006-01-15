@@ -9,6 +9,7 @@
 - [Arrêté du 5 janvier 2006 (JUSK0540170A)](arrete-du-5-janvier-2006-jusk0540170a)
 - [Arrêté du 5 mai 2006 (SANP0621983A)](arrete-du-5-mai-2006-sanp0621983a)
 - [Arrêté du 6 décembre 2006 (EQUA0602492A)](arrete-du-6-decembre-2006-equa0602492a)
+- [Arrêté du 6 janvier 2006 (MJSK0570273A)](arrete-du-6-janvier-2006-mjsk0570273a)
 - [Arrêté du 6 juin 2006 (EQUA0601241A)](arrete-du-6-juin-2006-equa0601241a)
 - [Arrêté du 7 décembre 2005 (ECOS0550044A)](arrete-du-7-decembre-2005-ecos0550044a)
 - [Arrêté du 8 décembre 2005 (BUDD0580003A)](arrete-du-8-decembre-2005-budd0580003a)

@@ -59,6 +59,7 @@
 - [Décret n°2006-152 du 13 février 2006 (SOCF0610303D)](decret-n2006-152-du-13-fevrier-2006-socf0610303d)
 - [Décret n°2006-42 du 13 janvier 2006 (SOCT0512583D)](decret-n2006-42-du-13-janvier-2006-soct0512583d)
 - [Décret n°2006-43 du 13 janvier 2006 (SOCT0512582D)](decret-n2006-43-du-13-janvier-2006-soct0512582d)
+- [Décret n°2006-46 du 13 janvier 2006 (EQUS0501110D)](decret-n2006-46-du-13-janvier-2006-equs0501110d)
 - [Décret n°2005-1558 du 14 décembre 2005 (SOCF0512370D)](decret-n2005-1558-du-14-decembre-2005-socf0512370d)
 - [Décret n°2000-1233 du 15 décembre 2000 (PRMX0004541D)](decret-n2000-1233-du-15-decembre-2000-prmx0004541d)
 - [Décret n°2005-673 du 16 juin 2005 (MENX0500117D)](decret-n2005-673-du-16-juin-2005-menx0500117d)
