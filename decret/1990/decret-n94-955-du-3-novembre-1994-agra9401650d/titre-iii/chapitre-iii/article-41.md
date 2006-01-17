@@ -1,6 +1,6 @@
 # Article 41
 
-Sous réserve de l'application, le cas échéant, des dispositions des articles 5 et 6 du décret du 27 janvier 1970 susvisé, les maîtres ouvriers recrutés en application des dispositions du 1° de l'article 37 ci-dessus sont nommés en qualité de stagiaire au 1er échelon du grade de maître ouvrier.
+Sous réserve de l'application des dispositions des articles 3 à 6 du décret du 29 septembre 2005 précité, les maîtres ouvriers recrutés conformément aux dispositions du 1° de l'article 37 sont nommés en qualité de stagiaire au premier échelon du grade de maître ouvrier.
 
 A l'issue du stage d'un an, au cours duquel ils sont appelés à suivre une formation destinée à favoriser leur adaptation à l'emploi, les stagiaires reconnus aptes à l'exercice de leurs fonctions sont titularisés.
 
