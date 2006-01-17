@@ -1,6 +1,6 @@
 # Article 37
 
-Sous réserve de l'application, le cas échéant, des dispositions du décret du 27 janvier 1970 susvisé, les aides techniques de laboratoire, recrutés en application de l'article 34 ci-dessus, sont nommés en qualité de stagiaire au 1er échelon du grade d'aide technique de laboratoire.
+Sous réserve de l'application des dispositions des articles 3 à 6 du décret du 29 septembre 2005 précité, les aides techniques de laboratoire recrutés conformément à l'article 34 sont nommés en qualité de stagiaire au premier échelon du grade d'aide technique de laboratoire.
 
 Ils accomplissent un stage d'une durée d'une année, pendant lequel ils suivent des actions de formation destinées à favoriser leur adaptation à l'emploi.
 
