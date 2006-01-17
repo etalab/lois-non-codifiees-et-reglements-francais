@@ -4,6 +4,8 @@
 - [Arrêté du 3 janvier 2006 (ECOP0500966A)](arrete-du-3-janvier-2006-ecop0500966a)
 - [Arrêté du 3 novembre 2006 (JUSF0650130A)](arrete-du-3-novembre-2006-jusf0650130a)
 - [Arrêté du 4 janvier 2006 (MCCB0500915A)](arrete-du-4-janvier-2006-mccb0500915a)
+- [Arrêté du 5 janvier 2006 (INTE0600014A)](arrete-du-5-janvier-2006-inte0600014a)
+- [Arrêté du 5 janvier 2006 (INTE0600015A)](arrete-du-5-janvier-2006-inte0600015a)
 - [Arrêté du 5 janvier 2006 (JUSF0550140A)](arrete-du-5-janvier-2006-jusf0550140a)
 - [Arrêté du 5 janvier 2006 (JUSF0550142A)](arrete-du-5-janvier-2006-jusf0550142a)
 - [Arrêté du 5 janvier 2006 (JUSK0540170A)](arrete-du-5-janvier-2006-jusk0540170a)
