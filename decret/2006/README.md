@@ -68,6 +68,7 @@
 - [Décret n°2005-1558 du 14 décembre 2005 (SOCF0512370D)](decret-n2005-1558-du-14-decembre-2005-socf0512370d)
 - [Décret n°2000-1233 du 15 décembre 2000 (PRMX0004541D)](decret-n2000-1233-du-15-decembre-2000-prmx0004541d)
 - [Décret n°2005-673 du 16 juin 2005 (MENX0500117D)](decret-n2005-673-du-16-juin-2005-menx0500117d)
+- [Décret n°2006-54 du 16 janvier 2006 (SOCF0512585D)](decret-n2006-54-du-16-janvier-2006-socf0512585d)
 - [Décret n°2005-1608 du 19 décembre 2005 (SANP0523276D)](decret-n2005-1608-du-19-decembre-2005-sanp0523276d)
 - [Décret n°2006-711 du 19 juin 2006 (INTA0600112D)](decret-n2006-711-du-19-juin-2006-inta0600112d)
 - [Décret n°93-228 du 19 février 1993 (AGRP9202217D)](decret-n93-228-du-19-fevrier-1993-agrp9202217d)

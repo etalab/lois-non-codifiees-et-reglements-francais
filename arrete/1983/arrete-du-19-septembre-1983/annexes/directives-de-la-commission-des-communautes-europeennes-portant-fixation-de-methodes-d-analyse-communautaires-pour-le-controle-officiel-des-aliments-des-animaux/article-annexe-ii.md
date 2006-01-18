@@ -141,3 +141,7 @@ Directive 1999/79/CE du 23 juillet 1999 (Journal officiel des Communautés europ
 Directive 2000/45/CE de la Commission du 6 juillet 2000 (Journal officiel des Communautés européennes n° L 174 du 13 juillet 2000) portant fixation des méthodes communautaires d'analyse pour la détermination de la vitamine A, de la vitamine E et du tryptophane dans les aliments des animaux.
 
 Directive 2002/70/CE de la Commission du 26 juillet 2002 (JOC E n° L 209 du 6 août 2002) établissant des prescriptions pour la détermination des teneurs en dioxines et en PCB de type dioxine des aliments des animaux (annexe II).
+
+Directive 2005/6/CE de la Commission du 26 janvier 2005 modifiant la directive 71/250/CEE en ce qui concerne la présentation et l'interprétation des résultats requis au titre de la directive 2002/32/CE.
+
+Directive 2005/7/CE de la Commission du 27 janvier 2005 modifiant la directive 2002/70/CE établissant des prescriptions pour la détermination des teneurs en dioxines et en PCB de type dioxine des aliments pour animaux (point 2 de l'annexe).

@@ -50,6 +50,7 @@
 - [Arrêté du 23 décembre 2006 (MEND0603021A)](arrete-du-23-decembre-2006-mend0603021a)
 - [Arrêté du 24 août 2006 (EQUP0601734A)](arrete-du-24-aout-2006-equp0601734a)
 - [Arrêté du 24 octobre 2005 (CETX0508825A)](arrete-du-24-octobre-2005-cetx0508825a)
+- [Arrêté du 26 décembre 2005 (DEFP0501738A)](arrete-du-26-decembre-2005-defp0501738a)
 - [Arrêté du 26 décembre 2005 (DEFP0501740A)](arrete-du-26-decembre-2005-defp0501740a)
 - [Arrêté du 26 décembre 2005 (INTC0500906A)](arrete-du-26-decembre-2005-intc0500906a)
 - [Arrêté du 26 décembre 2005 (INTC0500907A)](arrete-du-26-decembre-2005-intc0500907a)

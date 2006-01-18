@@ -9,3 +9,5 @@ Onzième directive (C.E.E.) n° 93-70 du 28 juillet 1993 (Journal officiel des c
 Halofuginone.
 
 Directive 2002/70/CE de la Commission du 26 juillet 2002 (JOCE n° L 209 du 6 août 2002) établissant des prescriptions pour la détermination des teneurs en dioxines et en PCB de type dioxine des aliments des animaux (annexe I).
+
+Directive 2005/7/CE de la Commission du 27 janvier 2005 modifiant la directive 2002/70/CE établissant des prescriptions pour la détermination des teneurs en dioxines et en PCB de type dioxine des aliments pour animaux (point 1 de l'annexe).
