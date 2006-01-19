@@ -8,11 +8,11 @@ L'obligation de publier un prospectus ne s'applique pas à l'admission aux négo
 
 3° Les instruments financiers offerts à l'occasion d'une offre publique d'échange ou d'une procédure équivalente de droit étranger lorsque l'émetteur a rendu disponible un document, soumis au contrôle de l'AMF, comprenant des renseignements équivalant à ceux du prospectus ;
 
-4° Les instruments financiers offerts, attribués ou appelés à être attribués, à l'occasion d'une opération de fusion, de scission ou d'apports partiels d'actifs qui a fait l'objet de la procédure prévue à l'article 212-34 ;
+4° Les instruments financiers offerts, attribués ou appelés à être attribués, à l'occasion d'une opération de fusion, de scission ou d'apports d'actifs qui a fait l'objet de la procédure prévue à l'article 212-34 ;
 
 5° Les actions offertes, attribuées ou devant être attribuées gratuitement aux actionnaires, et les dividendes payés sous forme d'actions de la même catégorie que celles donnant droit à ces dividendes, lorsque ces actions sont de la même catégorie que celles déjà admises aux négociations sur le même marché réglementé et que l'émetteur a rendu disponible un document comprenant des renseignements sur le nombre et la nature des instruments financiers ainsi que sur les motifs et les modalités de l'opération ;
 
-6° Les instruments financiers offerts, attribués ou devant être attribués aux administrateurs ou aux salariés anciens ou existants par leur employeur ou par une société liée lorsque ces instruments financiers sont de la même catégorie que ceux déjà admis aux négociations sur le même marché réglementé et que l'émetteur a rendu disponible un document comprenant des renseignements sur le nombre et la nature des instruments financiers ainsi que sur les motifs et les modalités de l'opération ;
+6° Les instruments financiers offerts, attribués ou devant être attribués aux administrateurs, aux mandataires sociaux mentionnés au II de l'article L. 225-197-1 du code de commerce ou aux salariés anciens ou existants par leur employeur ou par une société liée lorsque ces instruments financiers sont de la même catégorie que ceux déjà admis aux négociations sur le même marché réglementé et que l'émetteur a rendu disponible un document comprenant des renseignements sur le nombre et la nature des instruments financiers ainsi que sur les motifs et les modalités de l'opération ;
 
 7° Les actions résultant de la conversion ou de l'échange d'autres instruments financiers, ou de l'exercice des droits conférés par d'autres instruments financiers, lorsque ces actions sont de la même catégorie que celles admises aux négociations sur un marché réglementé ;
 

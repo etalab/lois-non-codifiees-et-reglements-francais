@@ -6,5 +6,3 @@
 - [Article 241-4](article-241-4.md)
 - [Article 241-5](article-241-5.md)
 - [Article 241-6](article-241-6.md)
-- [Article 241-7](article-241-7.md)
-- [Article 241-8](article-241-8.md)

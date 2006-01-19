@@ -1,6 +1,6 @@
 # Article 622-1
 
-Toute personne mentionnée à l'article 622-2 doit s'abstenir d'utiliser l'information privilégiée qu'elle détient en acquérant ou en cédant, pour son propre compte ou pour le compte d'autrui, soit directement soit indirectement, les instruments financiers auxquels se rapporte cette information ou les instruments financiers auxquels ces instruments sont liés.
+Toute personne mentionnée à l'article 622-2 doit s'abstenir d'utiliser l'information privilégiée qu'elle détient en acquérant ou en cédant, ou en tentant d'acquérir ou de céder, pour son propre compte ou pour le compte d'autrui, soit directement soit indirectement, les instruments financiers auxquels se rapporte cette information ou les instruments financiers auxquels ces instruments sont liés.
 
 Elle doit également s'abstenir de :
 

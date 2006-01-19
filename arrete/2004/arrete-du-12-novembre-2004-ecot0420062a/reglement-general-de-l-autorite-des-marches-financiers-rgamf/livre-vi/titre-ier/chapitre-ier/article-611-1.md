@@ -8,7 +8,9 @@ Sauf dispositions particulières, le présent livre s'applique à :
 
 a) Admis aux négociations sur un marché réglementé au sens de l'article L. 421-1 dudit code ou pour lesquels une demande d'admission sur un tel marché a été présentée ; ou
 
-b) Admis aux négociations sur un système multilatéral de négociation organisé prévu par l'article L. 525-1 ;
+b) Admis aux négociations sur un système multilatéral de négociation organisé prévu par l'article L. 525-1 ou ;
+
+c) Admis aux négociations sur un marché réglementé d'un autre Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace économique européen ou pour lesquels une demande d'admission sur un tel marché a été présentée dans les cas mentionnés au d) du II de l'article L. 621-15 du code monétaire et financier ;
 
 3° Aux opérations portant sur ces instruments, que celles-ci aient été effectivement exécutées ou non sur un marché réglementé ou lorsqu'elles ont lieu sur un système multilatéral de négociation organisé.
 

@@ -1,5 +1,7 @@
 # Article 241-3
 
-L'AMF dispose d'un délai d'examen du projet de note d'information de cinq jours de négociation suivant le jour de son dépôt.
+I. - L'émetteur est dispensé de faire figurer dans le descriptif du programme les informations mentionnées aux 1° à 3° du I de l'article 241-2 lorsqu'il publie, selon les modalités fixées à l'article 212-13, le rapport spécial mentionné au deuxième alinéa de l'article L. 225-209 du code de commerce.
 
-Si, dans ce délai, l'émetteur ne satisfait pas aux demandes d'explication ou de justification de l'AMF, celle-ci peut soit prolonger ce délai d'une nouvelle période de cinq jours, soit, par décision motivée, refuser son visa. Elle informe l'émetteur concerné de cette décision et la porte à la connaissance du public par voie de communiqué. L'AMF peut demander à faire figurer sur la note d'information un avertissement rédigé par ses soins.
+II. - L'émetteur est dispensé de la publication du descriptif du programme lorsqu'il publie, selon les modalités fixées à l'article 212-13, le rapport spécial mentionné au deuxième alinéa de l'article L. 225-209 du code de commerce et que ce rapport comprend l'intégralité des informations devant figurer dans le descriptif du programme et, lorsque ce rapport n'est pas immédiatement publié, les faits nouveaux significatifs intervenus depuis son établissement.
+
+III. - L'émetteur est également dispensé de la publication du descriptif du programme lorsque le document de référence qu'il établit en application de l'article 212-13 comprend l'intégralité des informations devant figurer dans le descriptif du programme en application de l'article 241-2.

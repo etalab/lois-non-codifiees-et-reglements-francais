@@ -1,15 +1,19 @@
 # Article 241-4
 
-1° La note d'information soumise au visa de l'AMF préalablement à l'assemblée générale doit être déposée pour examen auprès de l'AMF trente-cinq jours avant l'assemblée générale. Sa diffusion, qui ne peut avoir lieu avant l'obtention du visa, doit intervenir au plus tard quinze jours avant la décision des personnes appelées à autoriser le programme.
+I. - Tout émetteur pour lequel un programme de rachat de ses titres est en cours de réalisation :
 
-La diffusion de la note d'information soumise au visa de l'AMF après décision du conseil d'administration de procéder au lancement effectif du programme de rachat doit intervenir avant le lancement effectif du programme et, au plus tard, le troisième jour de négociation suivant la délivrance du visa par l'AMF.
+1° Informe le marché de toutes les opérations effectuées dans le cadre du programme de rachat au plus tard le septième jour de négociation suivant leur date d'exécution. Ces informations, établies selon les modalités précisées dans une instruction de l'AMF, doivent faire l'objet d'un communiqué qui est mis en ligne sur le site de l'AMF et sur le site de l'émetteur lorsque celui-ci dispose d'un tel site ;
 
-Le communiqué relatif aux programmes de rachats adoptés pour les besoins exclusifs d'un contrat de liquidité est diffusé au plus tard avant le lancement effectif du programme.
+2° Informe l'AMF selon une périodicité qui ne peut être supérieure à un mois :
 
-2° La note d'information doit faire l'objet d'une diffusion effective sous l'une des formes suivantes :
+a) Des annulations de titres effectuées, tant pour la période écoulée depuis la dernière déclaration que pour la période de vingt-quatre mois précédant la date de déclaration, en précisant le nombre et les caractéristiques des titres annulés ainsi que la date d'effet de l'annulation ;
 
-a) Publication de la note complète dans au moins un quotidien d'information économique et financière de diffusion nationale ;
+b) Des opérations effectuées sur le marché réglementé ou hors marché, par voie d'acquisition, de cession ou de transfert en distinguant les opérations au comptant et par l'utilisation de produits dérivés, tant pour la période écoulée depuis la dernière déclaration que pour la période écoulée depuis le début du programme de rachat ;
 
-b) Mise à disposition gratuitement de la note complète au siège de l'émetteur et auprès des organismes chargés d'assurer le service financier de ses titres et publication d'un résumé de la note, selon les mêmes modalités qu'au a, ou d'un communiqué, dont l'émetteur s'assure de la diffusion effective et intégrale, qui précise les modalités de la mise à disposition.
+c) Des positions ouvertes sur produits dérivés à la date de la déclaration.
 
-Dans tous les cas, une copie de la note complète doit être adressée sans frais à toute personne qui en fait la demande, et la version électronique de la note doit être envoyée à l'AMF aux fins de mise en ligne sur son site.
+Ces informations sont définies dans les tableaux de déclaration figurant dans une instruction de l'AMF.
+
+II. - Les dispositions du 1° du I ne s'appliquent pas aux opérations réalisées par un prestataire de services d'investissement dans le cadre d'un contrat de liquidité conforme à la décision de l'AMF du 22 mars 2005 concernant l'acceptation des contrats de liquidité en tant que pratique de marché admise par l'AMF.
+
+Si, parallèlement à la diffusion de la déclaration mentionnée au 1° du I, l'émetteur transmet à l'AMF l'intégralité des informations exigées au titre de la déclaration mensuelle mentionnée au 2° du I, il est dispensé de l'application du 2° du I.
