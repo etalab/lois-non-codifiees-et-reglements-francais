@@ -8,6 +8,4 @@ A l'issue de chaque concours, la liste des candidats reçus est établie par ord
 
 Le même arrêté fixe les conditions d'ancienneté professionnelle applicables aux praticiens en fonctions à temps plein dans un établissement géré par une caisse d'assurance maladie, qui sont admis à concourir sans que leur soit opposable la limite d'âge prévue pour l'accès au concours.
 
-Pour être admis à concourir, les candidats doivent être âgés de moins de quarante-cinq ans au 1er janvier de l'année du concours.
-
 Au cas où il serait impossible de pourvoir une vacance de poste par le recrutement sur concours, il pourra, à titre exceptionnel, être fait appel temporairement aux services d'un praticien vacataire à temps plein lié par un contrat à durée limitée à la Caisse nationale de l'assurance maladie des travailleurs salariés. Ce praticien devra remplir toutes les conditions exigées par le code de la santé publique pour l'exercice de sa profession. Il ne bénéficiera pas des dispositions du présent statut.
