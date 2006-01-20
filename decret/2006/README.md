@@ -75,6 +75,7 @@
 - [Décret n°2006-56 du 18 janvier 2006 (EQUS0501208D)](decret-n2006-56-du-18-janvier-2006-equs0501208d)
 - [Décret n°2006-58 du 18 janvier 2006 (SANS0524526D)](decret-n2006-58-du-18-janvier-2006-sans0524526d)
 - [Décret n°2006-59 du 18 janvier 2006 (SANS0524525D)](decret-n2006-59-du-18-janvier-2006-sans0524525d)
+- [Décret n°2006-61 du 18 janvier 2006 (INDI0506501D)](decret-n2006-61-du-18-janvier-2006-indi0506501d)
 - [Décret n°2005-1608 du 19 décembre 2005 (SANP0523276D)](decret-n2005-1608-du-19-decembre-2005-sanp0523276d)
 - [Décret n°2006-711 du 19 juin 2006 (INTA0600112D)](decret-n2006-711-du-19-juin-2006-inta0600112d)
 - [Décret n°93-228 du 19 février 1993 (AGRP9202217D)](decret-n93-228-du-19-fevrier-1993-agrp9202217d)
