@@ -69,7 +69,7 @@ Le nombre de formations des tribunaux du contentieux de l'incapacité est fixé 
 <tr>
 <td>Douai</td>
 <td>Lille</td>
-<td>11 dont une formation <p>agricole</p>
+<td>14 dont une formation <p>agricole</p>
 </td>
 </tr>
 <tr>
@@ -151,7 +151,7 @@ Le nombre de formations des tribunaux du contentieux de l'incapacité est fixé 
 <tr>
 <td>Colmar</td>
 <td>strasbourg</td>
-<td>8 dont une formation <p>agricole</p>
+<td>10 dont une formation <p>agricole</p>
 </td>
 </tr>
 <tr>
