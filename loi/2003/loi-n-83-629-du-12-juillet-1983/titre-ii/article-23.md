@@ -8,7 +8,7 @@ Nul ne peut être employé pour participer à l'activité mentionnée à l'artic
 
 3° S'il a fait l'objet d'un arrêté d'expulsion non abrogé ou d'une interdiction du territoire français non entièrement exécutée ;
 
-4° S'il a commis des actes, éventuellement mentionnés dans les traitements automatisés de données personnelles gérés par les autorités de police, contraires à l'honneur, à la probité ou aux bonnes moeurs ou de nature à porter atteinte à la sécurité des personnes ou des biens, à la sécurité publique ou à la sûreté de l'Etat ;
+4° S'il résulte de l'enquête administrative, ayant le cas échéant donné lieu à consultation des traitements de données à caractère personnel gérés par les services de police et de gendarmerie nationales relevant des dispositions de l'article 26 de la loi n° 78-17 du 6 janvier 1978 précitée, à l'exception des fichiers d'identification, que son comportement ou ses agissements sont contraires à l'honneur, à la probité, aux bonnes moeurs ou sont de nature à porter atteinte à la sécurité des personnes ou des biens, à la sécurité publique ou à la sûreté de l'Etat et sont incompatibles avec l'exercice des fonctions susmentionnées ;
 
 5° S'il ne justifie pas de son aptitude professionnelle selon des modalités définies par décret en Conseil d'Etat.
 
