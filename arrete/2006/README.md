@@ -24,6 +24,7 @@
 - [Arrêté du 10 novembre 2006 (EQUP0601883A)](arrete-du-10-novembre-2006-equp0601883a)
 - [Arrêté du 10 octobre 2006 (EQUG0601814A)](arrete-du-10-octobre-2006-equg0601814a)
 - [Arrêté du 11 janvier 2006 (JUSG0660003A)](arrete-du-11-janvier-2006-jusg0660003a)
+- [Arrêté du 11 janvier 2006 (SOCN0610095A)](arrete-du-11-janvier-2006-socn0610095a)
 - [Arrêté du 12 décembre 2005 (INDI0506414A)](arrete-du-12-decembre-2005-indi0506414a)
 - [Arrêté du 12 juillet 2005 (EQUA0501201A)](arrete-du-12-juillet-2005-equa0501201a)
 - [Arrêté du 12 octobre 2005 (BUDF0500039A)](arrete-du-12-octobre-2005-budf0500039a)

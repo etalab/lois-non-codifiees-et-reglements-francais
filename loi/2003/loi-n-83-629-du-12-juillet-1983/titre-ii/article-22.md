@@ -12,10 +12,12 @@ L'agrément est délivré aux personnes qui satisfont aux conditions suivantes :
 
 4° Ne pas avoir fait l'objet d'une décision, prononcée sur le fondement des dispositions du chapitre V du titre II du livre VI du code de commerce ou prise en application des textes antérieurs à ce code et ne pas avoir fait l'objet d'une décision de nature équivalente dans un autre Etat membre de la Communauté européenne ou un autre des Etats parties à l'accord sur l'Espace économique européen ;
 
-5° Ne pas avoir commis d'actes, éventuellement mentionnés dans les traitements automatisés de données personnelles gérés par les autorités de police, contraires à l'honneur, à la probité ou aux bonnes moeurs ou de nature à porter atteinte à la sécurité des personnes et des biens, à la sécurité publique ou à la sûreté de l'Etat ;
+5° (Abrogé)
 
 6° Ne pas exercer l'une des activités mentionnées à l'article 1er ;
 
 7° Détenir une qualification professionnelle définie par décret en Conseil d'Etat.
+
+L'agrément ne peut être délivré s'il résulte de l'enquête administrative, ayant le cas échéant donné lieu à consultation des traitements de données à caractère personnel gérés par les services de police et de gendarmerie nationales relevant des dispositions de l'article 26 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, à l'exception des fichiers d'identification, que son comportement ou ses agissements sont contraires à l'honneur, à la probité, aux bonnes moeurs ou sont de nature à porter atteinte à la sécurité des personnes ou des biens, à la sécurité publique ou à la sûreté de l'Etat et sont incompatibles avec l'exercice des fonctions susmentionnées.
 
 L'agrément peut être retiré lorsque son titulaire cesse de remplir l'une des conditions prévues au présent article. Il peut être suspendu immédiatement en cas d'urgence ou de nécessité tenant à l'ordre public.
