@@ -1,6 +1,6 @@
 # Article 43-6
 
-Les exploitants des services relevant de la compétence d'un autre Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace économique européen effectuent, préalablement à la mise à disposition du public d'un service de télévision par un autre moyen de télécommunication que la voie hertzienne terrestre, une déclaration auprès du Conseil supérieur de l'audiovisuel, selon une procédure fixée par décret.
+Les services relevant de la compétence d'un autre Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace économique européen peuvent être diffusés par les réseaux n'utilisant pas des fréquences assignées par le Conseil supérieur de l'audiovisuel sans formalité préalable.
 
 Le Conseil supérieur de l'audiovisuel peut suspendre provisoirement la retransmission de ces services, selon une procédure définie par décret, si les conditions suivantes sont remplies :
 

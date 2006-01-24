@@ -6,7 +6,7 @@ I. - Sont inscrits dans le fichier des personnes recherchées au titre des déci
 
 2° Les obligations ou interdictions visées aux 1°, 2°, 3°, 8°, 9°, 12° et 14° de l'article 138 du code de procédure pénale et à l'article 10-2 de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante ;
 
-3° Les interdictions prononcées en application des dispositions des 1°, 2°, 3° et 11° de l'article 131-6 du code pénal relatif aux peines alternatives à l'emprisonnement ;
+3° Les interdictions prononcées en application des dispositions des 1°, 2°, 3°, 6°, 11°, 12°, 13° et 14° de l'article 131-6 du code pénal relatif aux peines alternatives à l'emprisonnement ;
 
 3° bis Lorsqu'elle est prononcée à titre de peine complémentaire, l'interdiction de conduire certains véhicules terrestres à moteur, y compris ceux pour la conduite desquels le permis de conduire n'est pas exigé ;
 
@@ -22,7 +22,7 @@ I. - Sont inscrits dans le fichier des personnes recherchées au titre des déci
 
 9° L'interdiction de paraître dans certains lieux ou de rencontrer certaines personnes prononcée en application des 2°, 3° et 4° de l'article 15-1 de l'ordonnance n° 45-174 du 2 février 1945 précitée ;
 
-10° L'interdiction de stade prononcée en application des dispositions de l'article 42-11 de la loi n° 84-610 du 16 juillet 1984 relative à l'organisation et à la promotion des activités physiques et sportives ;
+10° L'interdiction de stade prononcée en application des dispositions des articles L. 332-11 à L. 332-15 du code du sport ;
 
 11° Les interdictions de paraître dans certains lieux, de rencontrer certaines personnes, de quitter le territoire ou d'exercer certaines activités, ordonnées en application des dispositions de l'article 731 du code de procédure pénale en cas de libération conditionnelle ;
 
