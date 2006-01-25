@@ -474,7 +474,6 @@
 - [Arrêté du 20 avril 2005 (DEFP0500312A)](arrete-du-20-avril-2005-defp0500312a)
 - [Arrêté du 20 avril 2005 (DEVO0540125A)](arrete-du-20-avril-2005-devo0540125a)
 - [Arrêté du 20 avril 2005 (DEVP0540156A)](arrete-du-20-avril-2005-devp0540156a)
-- [Arrêté du 20 décembre 2004 (AGRF0500037A)](arrete-du-20-decembre-2004-agrf0500037a)
 - [Arrêté du 20 décembre 2004 (DEVN0540000A)](arrete-du-20-decembre-2004-devn0540000a)
 - [Arrêté du 20 décembre 2004 (DEVN0540001A)](arrete-du-20-decembre-2004-devn0540001a)
 - [Arrêté du 20 décembre 2004 (EQUA0401760A)](arrete-du-20-decembre-2004-equa0401760a)
