@@ -6,4 +6,4 @@ La demande de la mention au répertoire est formulée par le chef d'entreprise e
 
 Lorsqu'un conjoint cesse définitivement de remplir les conditions ci-dessus, lui-même ou l'autre conjoint doit, dans les deux mois, demander la radiation de la mention.
 
-Si la demande de mention ou la demande de radiation est présentée par un seul des conjoints, le président de la chambre de métiers la notifie à l'autre conjoint par lettre recommandée avec demande d'avis de réception ; il procède à l'inscription de la mention ou à sa radiation, sauf opposition de ce conjoint formulée dans un délai d'un mois à compter de la notification.
+Si la demande de mention ou la demande de radiation est présentée par un seul des conjoints, le président de la chambre de métiers la notifie à l'autre conjoint par lettre recommandée avec demande d'avis de réception ; il procède à l'inscription de la mention ou à sa radiation, sauf opposition de ce conjoint formulée dans un délai d'un mois à compter de la notification. Toutefois, la demande de radiation de la mention de conjoint collaborateur, par celui-ci, ne peut faire l'objet d'opposition de la part de l'autre conjoint.
