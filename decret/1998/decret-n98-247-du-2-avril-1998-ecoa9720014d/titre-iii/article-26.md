@@ -1,6 +1,6 @@
 # Article 26
 
-Doivent être immatriculées à une deuxième section du registre, quels que soient leur nature juridique, le lieu du principal établissement ou le siège de leur entreprise, l'effectif de leurs salariés et le degré de perfectionnement de l'équipement technique et des machines utilisées, les personnes qui ne sont pas assujetties à l'immatriculation à la première section du registre et qui exploitent à titre principal ou non, dans un ou plusieurs établissements situés dans les départements cités à l'article 24, une ou des activités visées à l'article 1er, dès lors que :
+Doivent être immatriculées à une deuxième section du registre, quels que soient leur nature juridique, le lieu du principal établissement artisanal ou le siège de leur entreprise, l'effectif de leurs salariés et le degré de perfectionnement de l'équipement technique et des machines utilisées, les personnes qui ne sont pas assujetties à l'immatriculation à la première section du registre et qui exploitent à titre principal ou non, dans un ou plusieurs établissements situés dans les départements cités à l'article 24, une ou des activités visées à l'article 7, dès lors que :
 
 1° Pour l'exécution et la réalisation selon les règles de l'art des travaux ou ouvrages entrant dans leurs activités ainsi déterminées :
 
