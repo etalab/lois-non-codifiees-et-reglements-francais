@@ -1,0 +1,3 @@
+# Article 21 bis
+
+L'Institut national de la propriété industrielle centralise, au sein du répertoire national des métiers, le second original des répertoires tenus par chaque chambre de métiers et de l'artisanat. Il peut délivrer, sur support papier ou par voie électronique, à toute personne qui en fait la demande, des certificats, copies ou communications relatifs à l'inscription d'une personne au répertoire national, moyennant le paiement de redevances. Il peut également délivrer des certificats attestant qu'au jour de la demande une personne ne figure pas dans les immatriculations portées au répertoire national.

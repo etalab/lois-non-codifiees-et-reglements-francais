@@ -1,0 +1,3 @@
+# Article 15 bis
+
+Lorsque le président de la chambre de métiers et de l'artisanat est informé par une autorité administrative ou judiciaire de ce que l'évolution de la situation d'une personne immatriculée nécessiterait de compléter ou de modifier les mentions la concernant figurant au répertoire, il invite la personne intéressée à s'acquitter de ses obligations déclaratives. Si l'intéressée ne défère pas à cette invitation dans le délai d'un mois, le président de la chambre de métiers inscrit d'office les modifications appropriées au dossier individuel de la personne aux frais de l'assujettie.
