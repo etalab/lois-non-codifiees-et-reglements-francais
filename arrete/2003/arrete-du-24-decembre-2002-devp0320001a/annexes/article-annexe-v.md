@@ -1,7 +1,5 @@
 # Article Annexe V
 
-Annexe V
-
 Liste des informations à fournir à l'appui de la déclaration détaillée des émissions dans l'air
 
 Les informations suivantes sont fournies par l'exploitant à l'appui des déclarations détaillées des émissions dans l'air :
@@ -15,6 +13,12 @@ Les informations suivantes sont fournies par l'exploitant à l'appui des déclar
 - composition détaillée des rejets pour les composés organiques volatils et les gaz fluorés à effet de serre ;
 
 - mode de calcul des émissions de polluants et informations nécessaires à ce calcul.
+
+Pour les installations classées relevant du système d'échange de quotas d'émission de gaz à effet de serre, les informations suivantes sont également fournies :
+
+- détails des méthodes de quantification des émissions du CO2 déclarées dans le cadre du système d'échange de quotas d'émission de gaz à effet de serre ;
+
+- nom, avis et rapport de l'organisme vérificateur visé par l'arrêté du 28 juillet 2005 susvisé.
 
 Les informations ci-dessous relatives au calcul des émissions seront fournies, par groupe d'installations de mêmes caractéristiques, en tant que de besoin :
 

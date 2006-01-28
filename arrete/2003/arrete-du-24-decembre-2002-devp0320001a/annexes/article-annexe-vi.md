@@ -1,7 +1,5 @@
 # Article Annexe VI
 
-Annexe VI
-
 Catégories de sources et code NOSE-p à déclarer
 
 <table>
@@ -27,12 +25,8 @@ Catégories de sources et code NOSE-p à déclarer
 <td width="241">
 <p>Industries d'activités énergétiques :</p>
 </td>
-<td width="69">
-<br/>
-</td>
-<td width="248">
-<br/>
-</td>
+<td width="69"/>
+<td width="248"/>
 </tr>
 <tr>
 <td height="15" rowspan="4" width="67">
@@ -121,12 +115,8 @@ Catégories de sources et code NOSE-p à déclarer
 <td width="241">
 <p>Production et transformation des métaux :</p>
 </td>
-<td width="69">
-<br/>
-</td>
-<td width="248">
-<br/>
-</td>
+<td width="69"/>
+<td width="248"/>
 </tr>
 <tr>
 <td height="34" rowspan="4" width="67">
@@ -170,12 +160,8 @@ Catégories de sources et code NOSE-p à déclarer
 <td width="241">
 <p>Industrie minérale :</p>
 </td>
-<td width="69">
-<br/>
-</td>
-<td width="248">
-<br/>
-</td>
+<td width="69"/>
+<td width="248"/>
 </tr>
 <tr>
 <td height="71" width="67">
@@ -212,12 +198,8 @@ Catégories de sources et code NOSE-p à déclarer
 <td width="241">
 <p>Industrie chimique et installations chimiques destinées à la production de:</p>
 </td>
-<td width="69">
-<br/>
-</td>
-<td width="248">
-<br/>
-</td>
+<td width="69"/>
+<td width="248"/>
 </tr>
 <tr>
 <td height="34" rowspan="2" width="67">
@@ -290,12 +272,8 @@ Catégories de sources et code NOSE-p à déclarer
 <td width="241">
 <p>Gestion des déchets :</p>
 </td>
-<td width="69">
-<br/>
-</td>
-<td width="248">
-<br/>
-</td>
+<td width="69"/>
+<td width="248"/>
 </tr>
 <tr>
 <td height="34" rowspan="4" width="67">
@@ -305,7 +283,7 @@ Catégories de sources et code NOSE-p à déclarer
 <p>Installations pour l'élimination ou la valorisation des déchets dangereux (&gt; 10 t/j) ou des déchets municipaux (&gt; 3 t/j).</p>
 </td>
 <td width="69">
-<p>109.03</p>
+<p>109.01</p>
 </td>
 <td width="248">
 <p>Incinération de déchets dangereux ou municipaux (incinération de déchets et pyrolise).</p>
@@ -367,9 +345,7 @@ Catégories de sources et code NOSE-p à déclarer
 <td width="69">
 <br/>
 </td>
-<td width="248">
-<br/>
-</td>
+<td width="248"/>
 </tr>
 <tr>
 <td height="53" width="67">

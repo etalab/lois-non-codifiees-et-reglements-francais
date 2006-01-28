@@ -1,7 +1,5 @@
 # Article Annexe II
 
-Annexe II
-
 Émissions dans l'air
 
 <table>
@@ -102,7 +100,7 @@ Annexe II
 <p>Exprimé en carbone total</p>
 </td>
 <td width="244">
-<p align="right">100 000</p>
+<p align="right">30 000</p>
 </td>
 </tr>
 <tr>
