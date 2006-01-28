@@ -7,3 +7,5 @@ II. - Le chapitre VIII et l'annexe VI de l'arrêté du 2 février 1998 susvisé 
 III. - L'article 15 et l'annexe V de l'arrêté du 3 avril 2000 susvisé sont abrogés.
 
 IV. - L'article 16 de l'arrêté du 20 juin 2002 susvisé est abrogé.
+
+V. - Les dispositions du présent arrêté s'appliquent sans préjudice des obligations prévues à l'arrêté du 28 juillet 2005 précité relatif à la vérification et à la quantification des émissions déclarées dans le cadre du système d'échange de quotas d'émission de gaz à effet de serre.
