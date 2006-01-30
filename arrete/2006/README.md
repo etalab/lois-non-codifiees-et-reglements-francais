@@ -62,6 +62,8 @@
 - [Arrêté du 23 décembre 2003 (MENP0302665A)](arrete-du-23-decembre-2003-menp0302665a)
 - [Arrêté du 23 décembre 2006 (MEND0603020A)](arrete-du-23-decembre-2006-mend0603020a)
 - [Arrêté du 23 décembre 2006 (MEND0603021A)](arrete-du-23-decembre-2006-mend0603021a)
+- [Arrêté du 23 janvier 2006 (DEFD0600021A)](arrete-du-23-janvier-2006-defd0600021a)
+- [Arrêté du 23 janvier 2006 (DEFD0600022A)](arrete-du-23-janvier-2006-defd0600022a)
 - [Arrêté du 24 août 2006 (EQUP0601734A)](arrete-du-24-aout-2006-equp0601734a)
 - [Arrêté du 24 novembre 2005 (AGRG0502608A)](arrete-du-24-novembre-2005-agrg0502608a)
 - [Arrêté du 24 octobre 2005 (CETX0508825A)](arrete-du-24-octobre-2005-cetx0508825a)
