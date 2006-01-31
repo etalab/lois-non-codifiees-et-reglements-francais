@@ -1,6 +1,6 @@
 # Article 1
 
-Lorsqu'un véhicule ou ensemble de véhicules tels que désignés à l'article R. 55 (véhicule articulé, train routier, train double) est astreint à porter un ou plusieurs disques indicateurs de vitesse en raison de ses caractéristiques propres, chaque disque doit répondre aux conditions suivantes :
+Lorsqu'un véhicule ou ensemble de véhicules tels que désignés à l'article R. 312-4 (véhicule articulé, train routier, train double) est astreint à porter un ou plusieurs disques indicateurs de vitesse en raison de ses caractéristiques propres, chaque disque doit répondre aux conditions suivantes :
 
 - le diamètre du disque est d'au moins 20 centimètres ;
 
