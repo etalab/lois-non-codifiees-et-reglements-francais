@@ -1,3 +1,5 @@
 # Article 28
 
-Les huissiers de justice peuvent délivrer des expéditions des actes ou procès-verbaux qu'ils détiennent en minute à toutes personnes intéressées qui, lors de l'établissement du procès-verbal ou de la signification de l'acte auront déjà reçu soit le second original, soit une copie. L'expédition est établie à la demande et aux frais du requérant.
+Même lorsque l'acte a été dressé sur support électronique, la copie, ainsi que celle des pièces qui y sont annexées, est éditée sur un support papier, afin d'être remise au destinataire selon les modalités prescrites par les textes en vigueur.
+
+Il peut être annexé à l'acte tout document, soit constitué originairement sur support électronique, soit transféré sur ce support au moyen d'un procédé de numérisation garantissant sa reproduction à l'identique. Les pièces annexées sont indissociablement liées à l'acte auquel elle se rapportent.

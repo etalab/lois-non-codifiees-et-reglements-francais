@@ -1,3 +1,3 @@
 # Article 27
 
-En cas de suppléance ou de remplacement par suite d'empêchement momentané, l'original en minute appartient à l'huissier suppléé ou remplacé.
+Lorsqu'il est dressé sur support électronique, le second original peut être transmis par voie de communication électronique, dans des conditions garantissant sa confidentialité, l'intégrité de l'acte, l'identité de l'expéditeur et celle du destinataire.
