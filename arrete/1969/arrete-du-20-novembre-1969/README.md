@@ -7,7 +7,7 @@
 - [Article 3](article-3.md)
 - [CHAPITRE III : Règles applicables aux miroirs rétroviseurs extérieurs des véhicules automobiles](chapitre-iii)
 - [Article 4](article-4.md)
-- [CHAPITRE IV : Règles applicables aux rétroviseurs des cyclomoteurs, motocyclettes, vélomoteurs, tricycles et quadricycles à moteur](chapitre-iv)
+- [CHAPITRE IV : Règles applicables aux véhicules agricoles automoteurs](chapitre-iv)
 - [Article 5](article-5.md)
 - [CHAPITRE V : Modalités d'application. - Dispositions transitoires](chapitre-v)
 - [Article 7](article-7.md)

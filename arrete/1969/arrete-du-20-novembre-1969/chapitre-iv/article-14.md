@@ -1,3 +1,3 @@
 # Article 14
 
-Aucune condition de champ n'est prescrite pour les rétroviseurs des motocyclettes, vélomoteurs, tricycles à moteur et cyclomoteurs sans cabine.
+Le ou les rétroviseurs des véhicules agricoles automoteurs doivent être conformes aux dispositions techniques de la directive 74/346/CEE modifiée 98/40/CE.

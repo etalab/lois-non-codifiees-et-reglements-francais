@@ -1,6 +1,6 @@
 # Article 7
 
-Les remorques agricoles peuvent être utilisées pour transporter des personnes sous réserve du respect des prescriptions suivantes :
+Les remorques agricoles dont la vitesse maximale en circulation est limitée à 25 km/h peuvent être utilisées pour transporter des personnes sous réserve du respect des prescriptions suivantes :
 
 1° L'ensemble doit comporter une seule remorque ; toutes les personnes doivent être assises et le nombre total des personnes transportées, conducteur compris, ne doit pas dépasser neuf ;
 
