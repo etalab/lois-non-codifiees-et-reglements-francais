@@ -10,4 +10,5 @@
 - [Article 22 c](article-22-c.md)
 - [Article 22 d](article-22-d.md)
 - [Article 22 a](article-22-a.md)
+- [Article 22 e](article-22-e.md)
 - [Article 23](article-23.md)

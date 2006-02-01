@@ -38,7 +38,9 @@ Secrétaire général de la zone de défense de Paris ;
 
 Préfet adjoint pour la sécurité en Corse ;
 
-Préfet délégué à la sécurité et à la défense.
+Préfet délégué à la sécurité et à la défense ;
+
+Préfet délégué pour l'égalité des chances.
 
 2° Représentant du Gouvernement dans un territoire d'outre-mer ou dans une collectivité territoriale d'outre-mer.
 
