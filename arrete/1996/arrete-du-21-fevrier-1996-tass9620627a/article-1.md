@@ -18,6 +18,8 @@ S'agissant des spécialités figurant dans un groupe générique et dont le prix
 
 La vignette est de couleur blanche pour les spécialités pharmaceutiques remboursables aux assurés sociaux pour lesquelles la participation de l'assuré du régime général est de 35 p. 100, ainsi que pour les spécialités pharmaceutiques remboursables aux assurés sociaux pour lesquelles la participation de l'assuré est supprimée.
 
+La vignette est de couleur orange pour les spécialités pharmaceutiques remboursables pour lesquelles la participation de l'assuré du régime général est fixée à 85 % en application de l'article 41 de la loi de financement de la sécurité sociale pour 2006.
+
 La vignette est de couleur bleu clair pour les spécialités pharmaceutiques remboursables pour lesquelles la participation de l'assuré du régime général est de 65 %.
 
 La vignette destinée aux spécialités pharmaceutiques remboursables aux assurés sociaux soumises à la clause prévue au deuxième alinéa de l'article R. 163-2 du code de la sécurité sociale est bordée par un liseré vert.
