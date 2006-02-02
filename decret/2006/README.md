@@ -1,6 +1,7 @@
 # 2006
 
 - [Décret n° 2007-276 du 1 mars 2007 (DEFP0700204D)](decret-n-2007-276-du-1-mars-2007-defp0700204d)
+- [Décret n°2006-95 du 1 février 2006 (AGRS0502785D)](decret-n2006-95-du-1-fevrier-2006-agrs0502785d)
 - [Décret n°2005-938 du 2 août 2005 (INTC0500203D)](decret-n2005-938-du-2-aout-2005-intc0500203d)
 - [Décret n°2005-939 du 2 août 2005 (INTC0500202D)](decret-n2005-939-du-2-aout-2005-intc0500202d)
 - [Décret n°2005-940 du 2 août 2005 (INTC0500204D)](decret-n2005-940-du-2-aout-2005-intc0500204d)
@@ -169,6 +170,7 @@
 - [Décret n°2006-1321 du 30 octobre 2006 (JUSB0610638D)](decret-n2006-1321-du-30-octobre-2006-jusb0610638d)
 - [Décret n°2006-391 du 30 mars 2006 (BUDB0660006D)](decret-n2006-391-du-30-mars-2006-budb0660006d)
 - [Décret n°2006-86 du 30 janvier 2006 (INTA0600012D)](decret-n2006-86-du-30-janvier-2006-inta0600012d)
+- [Décret n°2006-94 du 30 janvier 2006 (JUSD0530156D)](decret-n2006-94-du-30-janvier-2006-jusd0530156d)
 - [Décret n°2005-1073 du 31 août 2005 (PRMX0500050D)](decret-n2005-1073-du-31-aout-2005-prmx0500050d)
 - [Décret n°2005-1791 du 31 décembre 2005 (INTX0500290D)](decret-n2005-1791-du-31-decembre-2005-intx0500290d)
 - [Décret n°2006-93 du 31 janvier 2006 (SOCU0512355D)](decret-n2006-93-du-31-janvier-2006-socu0512355d)
