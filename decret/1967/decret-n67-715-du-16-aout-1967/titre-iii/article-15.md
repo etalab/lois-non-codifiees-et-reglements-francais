@@ -1,59 +1,51 @@
 # Article 15
 
-Peuvent être nommés, au choix, ingénieurs en chef, les ingénieurs de 1re classe et les ingénieurs de 2e classe au moins en possession du 7e échelon.
+I. - Peuvent être nommés au choix ingénieurs en chef les ingénieurs comptant, en position d'activité ou de détachement, au moins six ans de services dans le grade d'ingénieur des télécommunications.
 
 Pour être nommés ingénieurs en chef, les ingénieurs recrutés en application du 2° ou du 3° de l'article 7 doivent, en outre, compter au moins cinq ans de services effectifs dans le corps des ingénieurs des télécommunications.
 
-Les nominations au grade d'ingénieur en chef sont prononcées suivant le tableau de correspondance ci-après :
+II. - Les nominations au grade d'ingénieur en chef sont prononcées suivant le tableau de correspondance ci-après :
 
-INGENIEUR :
+INGÉNIEUR
 
-Ingénieur de 1re classe : 3e échelon
+INGÉNIEUR EN CHEF
 
-INGENIEUR EN CHEF :
+Echelon
 
-3e échelon avec la moitié de l'ancienneté acquise limitée à 2 ans.
+Ancienneté dans l'échelon
 
-INGENIEUR :
+Echelon
 
-Ingénieur de 1re classe : 2e échelon
+Ancienneté dans l'échelon
 
-INGENIEUR EN CHEF :
+10e échelon
 
-2e échelon avec la moitié de l'ancienneté acquise majorée de 1 an.
+5e échelon
 
-INGENIEUR :
+Deux tiers de l'ancienneté acquise dans la limite de 2 ans 6 mois.
 
-Ingénieur de 1re classe : 1er échelon
+9e échelon
 
-INGENIEUR EN CHEF :
+4e échelon
 
-2e échelon avec la moitié de l'ancienneté acquise.
+Deux tiers de l'ancienneté acquise.
 
-INGENIEUR :
+8e échelon
 
-Ingénieur de 2e classe : 8e échelon :
+3e échelon
 
-Avec une ancienneté égale ou supérieure à 1 an
+Quatre cinquièmes de l'ancienneté acquise.
 
-INGENIEUR EN CHEF :
+7e échelon
 
-2e échelon avec ancienneté.
+2e échelon
 
-INGENIEUR :
+Trois quarts de l'ancienneté acquise.
 
-Ingénieur de 2e classe : 8e échelon :
+6e échelon
 
-Avec une ancienneté inférieure à 1 an
+Supérieure ou égale à 6 mois.
 
-INGENIEUR EN CHEF :
+1er échelon
 
-1er échelon avec l'ancienneté acquise majorée de 1 an.
-
-INGENIEUR :
-
-Ingénieur de 2e classe : 7e échelon :
-
-INGENIEUR EN CHEF :
-
-1er échelon avec l'ancienneté acquise limitée à 1 an.
+Ancienneté acquise diminuée de 6 mois.

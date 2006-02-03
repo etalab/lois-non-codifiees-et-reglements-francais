@@ -1,3 +1,3 @@
 # Article 19
 
-La proportion maximum des ingénieurs titularisés dans le corps à compter du 1er janvier 1997 susceptibles d'être détachés est fixée à 50 % de l'effectif de ces ingénieurs se trouvant en position d'activité.
+Lorsqu'ils servent à La Poste, les ingénieurs des télécommunications relèvent de la catégorie cadre au sens de l'article 3 du décret n° 90-1111 du 12 décembre 1990 portant statut de La Poste.
