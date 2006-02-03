@@ -37,7 +37,6 @@
 - [Arrêté du 10 novembre 2000 (MCCB0000709A)](arrete-du-10-novembre-2000-mccb0000709a)
 - [Arrêté du 10 mai 2000 (ATEP0090167A)](arrete-du-10-mai-2000-atep0090167a)
 - [Arrêté du 11 décembre 2000 (EQUT0001914A)](arrete-du-11-decembre-2000-equt0001914a)
-- [Arrêté du 11 décembre 2000 (MESH0023821A)](arrete-du-11-decembre-2000-mesh0023821a)
 - [Arrêté du 12 décembre 2000 (EQUA0001944A)](arrete-du-12-decembre-2000-equa0001944a)
 - [Arrêté du 12 décembre 2000 (EQUT0001848A)](arrete-du-12-decembre-2000-equt0001848a)
 - [Arrêté du 12 juillet 2000 (AGRG0001418A)](arrete-du-12-juillet-2000-agrg0001418a)
