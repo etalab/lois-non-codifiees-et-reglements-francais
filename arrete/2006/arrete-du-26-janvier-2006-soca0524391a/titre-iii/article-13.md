@@ -1,0 +1,3 @@
+# Article 13
+
+Sous réserve des dispositions de l'article 2 du décret du 3 novembre 2005 susvisé, l'arrêté du 6 février 1976 modifié fixant les modalités de formation aux fonctions d'éducateur technique spécialisé appelé à exercer auprès des inadaptés ou handicapés, les modalités d'organisation des examens pour l'obtention du certificat d'aptitude aux fonctions d'éducateur technique spécialisé ainsi que les conditions d'agrément des centres de formation et l'arrêté du 13 février 1985 instituant des dispenses de scolarité en faveur de certains candidats au certificat d'aptitude aux fonctions d'éducateur technique spécialisé sont abrogés.
