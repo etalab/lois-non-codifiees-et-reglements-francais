@@ -12,7 +12,7 @@ Aéroports de Paris (ADP).
 
 Aéroports de province demeurant de la responsabilité de l'Etat.
 
-Air France (KLM).
+Air France-KLM.
 
 Arte France.
 
@@ -23,8 +23,6 @@ Autoroutes Paris-Rhin-Rhône (SAPRR).
 Autoroutes du Nord et de l'Est de la France (SANEF).
 
 Autoroutes du Sud de la France (ASF).
-
-Bull.
 
 Caisse nationale des autoroutes.
 
@@ -56,11 +54,13 @@ Etablissement public de réalisation de défaisance (EPRD).
 
 France Télécom.
 
-France Télévision.
+France Télévisions.
 
 Gaz de France (GDF).
 
 GIAT Industries.
+
+Laboratoire français du fractionnement et des biotechnologies (LFB).
 
 La Française des jeux.
 
@@ -72,13 +72,13 @@ Radio France.
 
 Radio France international (RFI).
 
-Radio France Outre-Mer (RFO).
-
 Régie autonome des transports parisiens (RATP).
 
 Renault SA.
 
 Réseau ferré de France (RFF).
+
+Safran.
 
 SEMMARIS.
 
@@ -106,12 +106,10 @@ Société internationale de la Moselle.
 
 Société nationale des chemins de fer français (SNCF).
 
-SNECMA.
-
-Société nationale des poudres et explosifs (SNPE).
+SNPE.
 
 Société néo-calédonienne d'énergie ENERCAL.
 
-Thomson SA.
+TSA.
 
 Et, par ailleurs, les participations dans les entreprises dont l'Etat détient moins de 1 % du capital.
