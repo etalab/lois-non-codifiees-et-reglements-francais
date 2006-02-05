@@ -8,5 +8,4 @@
 - [Chapitre V : Le dépôt et l'examen des candidatures.](chapitre-v)
 - [Chapitre VI : Les effets de l'inscription.](chapitre-vi)
 - [Chapitre VII : Dispositions diverses et transitoires.](chapitre-vii)
-- [Article 28](article-28.md)
 - [Article Annexe](article-annexe.md)
