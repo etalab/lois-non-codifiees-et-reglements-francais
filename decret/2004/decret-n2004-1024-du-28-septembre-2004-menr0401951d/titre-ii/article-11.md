@@ -1,7 +1,0 @@
-# Article 11
-
-Toute modification des éléments figurant dans le dossier de demande d'autorisation est portée à la connaissance des ministres chargés de la recherche et de la santé. Ces derniers peuvent demander toute information complémentaire afin de s'assurer que la modification en cause n'affecte pas le respect des dispositions législatives et réglementaires relatives aux conditions de délivrance des autorisations ni de celles fixées par l'autorisation.
-
-Si les modifications signalées affectent le respect des dispositions législatives et réglementaires mentionnées au premier alinéa du présent article ou l'objectif de l'étude ou de la recherche, une nouvelle demande d'autorisation est nécessaire pour la poursuite de l'activité.
-
-S'agissant de l'autorisation de conservation, le titulaire de l'autorisation informe, en particulier, les ministres chargés de la recherche et de la santé préalablement à toute cession ou à toute nouvelle détention de cellules souches embryonnaires. En cas de cession, il doit justifier que les cellules sont cédées à un établissement ou organisme titulaire d'une autorisation de protocole d'étude ou de recherche sur ces cellules ou d'une autorisation de conservation. En cas de détention de cellules souches embryonnaires non désignées dans la demande d'autorisation initiale, le titulaire de l'autorisation de conservation doit produire une copie de son autorisation d'importation ou de celle de l'établissement ou organisme avec lequel il a conclu une convention.
