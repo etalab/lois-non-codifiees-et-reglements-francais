@@ -1017,7 +1017,6 @@
 - [Décret n°2004-480 du 27 mai 2004 (AGRA0400592D)](decret-n2004-480-du-27-mai-2004-agra0400592d)
 - [Décret n°2004-481 du 27 mai 2004 (DOMB0400009D)](decret-n2004-481-du-27-mai-2004-domb0400009d)
 - [Décret n°2004-1019 du 28 septembre 2004 (ECOT0420028D)](decret-n2004-1019-du-28-septembre-2004-ecot0420028d)
-- [Décret n°2004-1024 du 28 septembre 2004 (MENR0401951D)](decret-n2004-1024-du-28-septembre-2004-menr0401951d)
 - [Décret n°2004-1028 du 28 septembre 2004 (EQUP0400977D)](decret-n2004-1028-du-28-septembre-2004-equp0400977d)
 - [Décret n°2004-1045 du 28 septembre 2004 (JUSG0460078D)](decret-n2004-1045-du-28-septembre-2004-jusg0460078d)
 - [Décret n°2004-1051 du 28 septembre 2004 (EQUA0400556D)](decret-n2004-1051-du-28-septembre-2004-equa0400556d)
