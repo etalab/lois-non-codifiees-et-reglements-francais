@@ -9,7 +9,8 @@ Sans préjudice du droit fixe perçu en application des articles L. 29 et R. 54 
 <p align="center">S U B S T A N C E S</p>
 </td>
 <td colspan="2" width="155">
-<p align="center">TARIFS EN FRANCS<br/>(au mètre cube).</p>
+<p align="center">TARIFS EN EUROS</p>
+<p align="center">(au mètre cube).</p>
 </td>
 </tr>
 <tr>
@@ -22,24 +23,42 @@ Sans préjudice du droit fixe perçu en application des articles L. 29 et R. 54 
 </tr>
 <tr>
 <td width="223">
-<p>Sables et graviers, substances autres que celles mentionnées ci-dessous</p>
+<p>Sables et graviers siliceux, sédiments coquilliers </p>
 </td>
 <td width="79">
-<p align="center">2</p>
+<p align="center">0,53</p>
 </td>
 <td width="75">
-<p align="center">4</p>
+<p align="center">1,06</p>
+</td>
+</tr>
+<tr>
+<td>Sables, graviers et galets siliceux comportant plus d'un tiers de galets </td>
+<td>
+<p align="center">0,80</p>
+</td>
+<td>
+<p align="center">1,60</p>
+</td>
+</tr>
+<tr>
+<td>Maërl</td>
+<td>
+<p align="center">0,80</p>
+</td>
+<td>
+<p align="center">1,60</p>
 </td>
 </tr>
 <tr>
 <td width="223">
-<p>Galets, moellons, pierres</p>
+<p>Galets et assimilés</p>
 </td>
 <td width="79">
-<p align="center">4</p>
+<p align="center">1,06</p>
 </td>
 <td width="75">
-<p align="center">8</p>
+<p align="center">2,12</p>
 </td>
 </tr>
 </tbody>
