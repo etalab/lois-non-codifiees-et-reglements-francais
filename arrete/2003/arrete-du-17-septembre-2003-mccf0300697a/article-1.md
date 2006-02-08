@@ -232,7 +232,7 @@ Maine-et-Loire (49).
 
 Angers.
 
-Muséum d'histoire naturelle.
+Muséum des sciences naturelles.
 
 Mayenne (53).
 

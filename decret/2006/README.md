@@ -54,6 +54,7 @@
 - [Décret n°2006-120 du 6 février 2006 (SANP0620220D)](decret-n2006-120-du-6-fevrier-2006-sanp0620220d)
 - [Décret n°2006-121 du 6 février 2006 (SANP0524383D)](decret-n2006-121-du-6-fevrier-2006-sanp0524383d)
 - [Décret n°2006-122 du 6 février 2006 (SANA0620163D)](decret-n2006-122-du-6-fevrier-2006-sana0620163d)
+- [Décret n°2006-127 du 6 février 2006 (BUDD0670005D)](decret-n2006-127-du-6-fevrier-2006-budd0670005d)
 - [Décret n°2006-14 du 6 janvier 2006 (INTE0600001D)](decret-n2006-14-du-6-janvier-2006-inte0600001d)
 - [Décret n°2006-21 du 6 janvier 2006 (FPPA0500141D)](decret-n2006-21-du-6-janvier-2006-fppa0500141d)
 - [Décret n°2006-36 du 6 janvier 2006 (ECOP0500751D)](decret-n2006-36-du-6-janvier-2006-ecop0500751d)
