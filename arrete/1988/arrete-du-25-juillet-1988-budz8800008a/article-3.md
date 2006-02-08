@@ -24,21 +24,21 @@ Les informations nominatives traitées sont les suivantes :
 
 - doubles d'avis et documents de taxation IR primitifs et correctifs, doubles d'avis CSG/CRDS.
 
-2. "Iliad IR-TH et "Impositions supplémentaires :
+2. "ILIAD IR-TH/redevance audiovisuelle et "Impositions supplémentaires :
 
-- nom(s) et prénom(s) ou raison sociale (pour les personnes morales et assimilées redevables de la taxe d'habitation ou de la taxe annuelle sur les logements vacants), sexe, date et lieu de naissance, adresse du contribuable ;
+- nom(s) et prénom(s) ou raison sociale (pour les personnes morales et assimilées redevables de la taxe d'habitation, ou de la taxe annuelle sur les logements vacants), sexe, date et lieu de naissance, adresse du contribuable ;
 
 - numéro FIP ;
 
-- situation fiscale - marié, célibataire, divorcé ou séparé, veuf, partenaire d'un pacte civil de solidarité -, date et motif de changement de situation fiscale, nombre de personnes à charge ;
+- situation de famille, nombre de personnes à charge ;
 
 - identité des personnes vivant sous le même toit que le contribuable ;
 
-- situation vis-à-vis de l'impôt sur le revenu, de la taxe d'habitation et de la taxe annuelle sur les logements vacants ;
+- situation vis-à-vis de l'impôt sur le revenu, de la taxe d'habitation, de la redevance audiovisuelle et de la taxe annuelle sur les logements vacants ;
 
 - revenus et charges pris en compte pour le calcul de l'assiette de l'impôt sur le revenu ;
 
-- données portées sur les avis d'imposition IR, TH, TLV et CSG/CRDS ;
+- données portées sur les avis d'imposition IR, TH/redevance audiovisuelle, TLV et CSG/CRDS ;
 
 - description des locaux d'habitation.
 

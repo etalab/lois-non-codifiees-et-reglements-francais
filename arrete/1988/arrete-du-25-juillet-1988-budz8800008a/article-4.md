@@ -14,6 +14,6 @@ b) Par dérogation à la règle précédente, les déclarations et avis initiaux
 
 Toutefois, un délai de conservation majoré leur est appliqué, conformément aux dérogations au délai général de prescription, en cas de report de déficits, d'engagements du contribuable ayant une incidence sur les revenus imposables d'une année non prescrite, d'impositions supplémentaires ou de procédure de contrôle ou contentieuse en cours.
 
-2. En ce qui concerne le traitement "Iliad IR/TH" visé au 2 de l'article 3, seules sont conservées les données de l'année en cours.
+2. En ce qui concerne le traitement "Iliad IR/TH - redevance audiovisuelle " visé au 2 de l'article 3, seules sont conservées les données de l'année en cours.
 
 3. En ce qui concerne le traitement "Iliad contentieux" visé au 3 de l'article 3, les données sont conservées pendant deux années après la clôture de l'affaire.
