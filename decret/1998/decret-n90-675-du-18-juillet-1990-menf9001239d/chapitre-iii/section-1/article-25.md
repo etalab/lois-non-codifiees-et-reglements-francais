@@ -4,4 +4,4 @@ Les fonctionnaires recrutés par concours sont nommés inspecteurs d'académie -
 
 Les inspecteurs d'académie - inspecteurs pédagogiques régionaux stagiaires sont placés en position de détachement pendant la durée du stage.
 
-Pendant le stage, ils peuvent opter pour le traitement indiciaire auquel ils auraient droit dans leur corps d'origine. Cette disposition ne peut toutefois avoir pour effet d'assurer aux intéressés un traitement supérieur à celui auquel ils peuvent prétendre lors de leur titularisation dans le corps des inspecteurs d'académie - inspecteurs pédagogiques régionaux.
+Dès leur nomination en qualité de stagiaires, ils sont classés dans la classe normale du corps des inspecteurs d'académie-inspecteurs pédagogiques régionaux dans les conditions fixées à l'article 28.
