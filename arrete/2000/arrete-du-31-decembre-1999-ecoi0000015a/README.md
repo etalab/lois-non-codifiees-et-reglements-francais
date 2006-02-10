@@ -6,4 +6,5 @@
 - [Titre IV : Prévention de la pollution des eaux](titre-iv)
 - [Titre V : Gestion des déchets](titre-v)
 - [Titre VI : Prévention des autres risques](titre-vi)
+- [Titre VI bis : Dispositions applicables à certaines catégories d'équipements](titre-vi-bis)
 - [Titre VII : Dispositions transitoires](titre-vii)

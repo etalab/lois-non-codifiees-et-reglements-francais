@@ -10,11 +10,11 @@ Les émissions sonores des installations ne doivent pas engendrer une émergence
 <br/>
 </td>
 <td width="213">
-<p>éMERGENCE ADMISSIBLE POUR LA PéRIODE<br/>allant de 7 heures à 22 heures,<br/>sauf dimanches et jours fériés</p>
+<p>EMERGENCE ADMISSIBLE POUR LA PéRIODE<br/>allant de 7 heures à 22 heures,<br/>sauf dimanches et jours fériés</p>
 <br/>
 </td>
 <td width="238">
-<p>éMERGENCE ADMISSIBLE POUR LA PéRIODE<br/>allant de 22 heures à 7 heures,<br/>ainsi que les dimanches et jours fériés</p>
+<p>EMERGENCE ADMISSIBLE POUR LA PéRIODE<br/>allant de 22 heures à 7 heures,<br/>ainsi que les dimanches et jours fériés</p>
 <br/>
 </td>
 </tr>
@@ -25,11 +25,9 @@ Les émissions sonores des installations ne doivent pas engendrer une émergence
 </td>
 <td valign="top" width="213">
 <p>6 dB (A)</p>
-<br/>
 </td>
 <td valign="top" width="238">
 <p>4 dB (A)</p>
-<br/>
 </td>
 </tr>
 <tr>
@@ -39,14 +37,12 @@ Les émissions sonores des installations ne doivent pas engendrer une émergence
 </td>
 <td valign="top" width="213">
 <p>5 dB (A)</p>
-<br/>
 </td>
 <td valign="top" width="238">
 <p>3 dB (A)</p>
-<br/>
 </td>
 </tr>
 </tbody>
 </table>
 
-Ces dispositions ne sont pas applicables dans le cas de fonctionnements accidentels ou de fonctionnements exceptionnels d'organes de sûreté ou de sécurité.
+Ces dispositions ne sont pas applicables dans le cas de fonctionnements accidentels ou de fonctionnements exceptionnels d'organes de sûreté ou de sécurité. Elles excluent également la prise en compte des bruits permanents générés par les ouvrages implantés en rivière.
