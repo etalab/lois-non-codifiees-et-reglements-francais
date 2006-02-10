@@ -82,5 +82,6 @@
 - [Décret n°2000-465 du 29 mai 2000 (ECOI0000190D)](decret-n2000-465-du-29-mai-2000-ecoi0000190d)
 - [Décret n°2000-1159 du 30 novembre 2000 (MAEA0020385D)](decret-n2000-1159-du-30-novembre-2000-maea0020385d)
 - [Décret n°2000-286 du 30 mars 2000 (EQUX0000059D)](decret-n2000-286-du-30-mars-2000-equx0000059d)
+- [Décret n°2000-288 du 30 mars 2000 (DEFD0001377D)](decret-n2000-288-du-30-mars-2000-defd0001377d)
 - [Décret n° 2000-84 du 31 janvier 2000 (MESC0010122D)](decret-n-2000-84-du-31-janvier-2000-mesc0010122d)
 - [Décret n°2000-481 du 31 mai 2000 (MENF0000923D)](decret-n2000-481-du-31-mai-2000-menf0000923d)
