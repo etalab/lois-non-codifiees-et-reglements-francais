@@ -132,6 +132,7 @@
 - [Arrêté du 30 octobre 2000 (MESF0011417A)](arrete-du-30-octobre-2000-mesf0011417a)
 - [Arrêté du 30 octobre 2000 (RECR0072529A)](arrete-du-30-octobre-2000-recr0072529a)
 - [Arrêté du 31 août 2000 (ECOM9900121A)](arrete-du-31-aout-2000-ecom9900121a)
+- [Arrêté du 31 décembre 1999 (ECOI0000015A)](arrete-du-31-decembre-1999-ecoi0000015a)
 - [Arrêté du 31 décembre 1999 (MESS9924029A)](arrete-du-31-decembre-1999-mess9924029a)
 - [Arrêté du 31 décembre 1999 (MESS9924054A)](arrete-du-31-decembre-1999-mess9924054a)
 - [Arrêté du 31 juillet 2000 (AGRG0001599A)](arrete-du-31-juillet-2000-agrg0001599a)
