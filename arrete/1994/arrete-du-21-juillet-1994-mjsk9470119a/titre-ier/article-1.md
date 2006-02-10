@@ -15,3 +15,5 @@ La formation spécifique conduisant au diplôme d'accompagnateur en moyenne mont
 - une unité de formation "moyenne montagne enneigée" ou "moyenne montagne tropicale" ;
 
 - un examen final.
+
+Le diplôme d'accompagnateur en moyenne montagne du brevet d'Etat d'alpinisme peut être obtenu par la voie de la validation des acquis de l'expérience dans les conditions définies en annexe VI.

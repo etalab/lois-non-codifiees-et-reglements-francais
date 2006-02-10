@@ -23,3 +23,5 @@ Pour l'accès au diplôme de guide de haute montagne :
 - un stage de ski de montagne ;
 
 - un stage d'alpinisme.
+
+Le diplôme de guide de haute montagne peut être obtenu par la voie de la validation des acquis de l'expérience dans les conditions définies en annexe VI.
