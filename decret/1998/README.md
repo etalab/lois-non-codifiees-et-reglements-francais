@@ -193,7 +193,6 @@
 - [Décret n°98-15 du 7 janvier 1998 (ECOX9700176D)](decret-n98-15-du-7-janvier-1998-ecox9700176d)
 - [Décret n°98-16 du 7 janvier 1998 (ECOR9704358D)](decret-n98-16-du-7-janvier-1998-ecor9704358d)
 - [Décret n°98-277 du 7 avril 1998 (EQUB9800273D)](decret-n98-277-du-7-avril-1998-equb9800273d)
-- [Décret n°98-570 du 7 juillet 1998 (MAEA9820217D)](decret-n98-570-du-7-juillet-1998-maea9820217d)
 - [Décret n°98-594 du 7 juillet 1998 (ECOD9870019D)](decret-n98-594-du-7-juillet-1998-ecod9870019d)
 - [Décret n°98-595 du 7 juillet 1998 (DEFP9801521D)](decret-n98-595-du-7-juillet-1998-defp9801521d)
 - [Décret n°98-795 du 7 septembre 1998 (MEST9810728D)](decret-n98-795-du-7-septembre-1998-mest9810728d)
