@@ -1,7 +1,7 @@
 # Article 10
 
-Le concours scripte se déroule en deux parties.
+Le concours scripte se déroule en trois parties successives. La première partie comporte deux épreuves : la présentation d'un dossier d'enquête et une épreuve écrite d'analyse de film.
 
-La première partie comporte une épreuve écrite d'analyse et d'observation d'un film de long métrage.
+La deuxième partie comporte des épreuves, théoriques ou pratiques, écrites ou orales, définies par le règlement du concours.
 
-La deuxième partie est constituée de trois épreuves écrites et d'une épreuve publique sous la forme d'un entretien avec le jury.
+La troisième partie est constituée d'une épreuve publique sous la forme d'un entretien avec le jury.
