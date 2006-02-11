@@ -253,32 +253,6 @@ VALEURS LIMITES D'EXPOSITION PROFESSIONNELLE INDICATIVES
 </tr>
 <tr>
 <td valign="top" width="137">
-<p>Acide chlorhydrique</p>
-</td>
-<td valign="top" width="77">
-<p align="center">231-595-7</p>
-</td>
-<td valign="top" width="77">
-<p align="center">7647-01-0</p>
-</td>
-<td valign="top" width="77">
-<p align="center">-</p>
-</td>
-<td valign="top" width="77">
-<p align="center">-</p>
-</td>
-<td valign="top" width="77">
-<p align="center">7,6</p>
-</td>
-<td valign="top" width="59">
-<p align="center">5</p>
-</td>
-<td valign="top" width="99">
-<p align="center">-</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="137">
 <p>Acide phosphorique</p>
 </td>
 <td valign="top" width="77">
@@ -383,32 +357,6 @@ VALEURS LIMITES D'EXPOSITION PROFESSIONNELLE INDICATIVES
 </tr>
 <tr>
 <td valign="top" width="137">
-<p>Ammoniac anhydre</p>
-</td>
-<td valign="top" width="77">
-<p align="center">231-635-3</p>
-</td>
-<td valign="top" width="77">
-<p align="center">7664-41-7</p>
-</td>
-<td valign="top" width="77">
-<p align="center">7</p>
-</td>
-<td valign="top" width="77">
-<p align="center">10</p>
-</td>
-<td valign="top" width="77">
-<p align="center">14</p>
-</td>
-<td valign="top" width="59">
-<p align="center">20</p>
-</td>
-<td valign="top" width="99">
-<p align="center">-</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="137">
 <p>Amylacétate, tert</p>
 </td>
 <td valign="top" width="77">
@@ -457,32 +405,6 @@ VALEURS LIMITES D'EXPOSITION PROFESSIONNELLE INDICATIVES
 </td>
 <td valign="top" width="99">
 <p align="center">-</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="137">
-<p>Azide de sodium</p>
-</td>
-<td valign="top" width="77">
-<p align="center">247-852-1</p>
-</td>
-<td valign="top" width="77">
-<p align="center">26628-22-8</p>
-</td>
-<td valign="top" width="77">
-<p align="center">0,1</p>
-</td>
-<td valign="top" width="77">
-<br/>
-</td>
-<td valign="top" width="77">
-<p align="center">0,3</p>
-</td>
-<td valign="top" width="59">
-<br/>
-</td>
-<td valign="top" width="99">
-<p align="center">Peau (7)</p>
 </td>
 </tr>
 <tr>
@@ -617,32 +539,6 @@ VALEURS LIMITES D'EXPOSITION PROFESSIONNELLE INDICATIVES
 </tr>
 <tr>
 <td valign="top" width="137">
-<p>Chloroforme</p>
-</td>
-<td valign="top" width="77">
-<p align="center">200-663-8</p>
-</td>
-<td valign="top" width="77">
-<p align="center">67-66-3</p>
-</td>
-<td valign="top" width="77">
-<p align="center">10</p>
-</td>
-<td valign="top" width="77">
-<p align="center">2</p>
-</td>
-<td valign="top" width="77">
-<p align="center">-</p>
-</td>
-<td valign="top" width="59">
-<p align="center">-</p>
-</td>
-<td valign="top" width="99">
-<p align="center">Peau (7)</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="137">
 <p>Cumène</p>
 </td>
 <td valign="top" width="77">
@@ -665,32 +561,6 @@ VALEURS LIMITES D'EXPOSITION PROFESSIONNELLE INDICATIVES
 </td>
 <td valign="top" width="99">
 <p align="center">Peau (7)</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="137">
-<p>Cyclohexanone</p>
-</td>
-<td valign="top" width="77">
-<p align="center">203-631-1</p>
-</td>
-<td valign="top" width="77">
-<p align="center">108-94-1</p>
-</td>
-<td valign="top" width="77">
-<p align="center">40,8</p>
-</td>
-<td valign="top" width="77">
-<p align="center">10</p>
-</td>
-<td valign="top" width="77">
-<p align="center">81,6</p>
-</td>
-<td valign="top" width="59">
-<p align="center">20</p>
-</td>
-<td valign="top" width="99">
-<p align="center">-</p>
 </td>
 </tr>
 <tr>
@@ -769,58 +639,6 @@ VALEURS LIMITES D'EXPOSITION PROFESSIONNELLE INDICATIVES
 </td>
 <td valign="top" width="99">
 <p align="center">Peau (7)</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="137">
-<p>N,N-diméthylacétamide</p>
-</td>
-<td valign="top" width="77">
-<p align="center">204-826-4</p>
-</td>
-<td valign="top" width="77">
-<p align="center">127-19-5</p>
-</td>
-<td valign="top" width="77">
-<p align="center">7,2</p>
-</td>
-<td valign="top" width="77">
-<p align="center">2</p>
-</td>
-<td valign="top" width="77">
-<p align="center">36</p>
-</td>
-<td valign="top" width="59">
-<p align="center">10</p>
-</td>
-<td valign="top" width="99">
-<p align="center">Peau (7)</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="137">
-<p>Diméthylamine</p>
-</td>
-<td valign="top" width="77">
-<p align="center">204-697-4</p>
-</td>
-<td valign="top" width="77">
-<p align="center">124-40-3</p>
-</td>
-<td valign="top" width="77">
-<p align="center">1,9</p>
-</td>
-<td valign="top" width="77">
-<p align="center">1</p>
-</td>
-<td valign="top" width="77">
-<p align="center">3,8</p>
-</td>
-<td valign="top" width="59">
-<p align="center">2</p>
-</td>
-<td valign="top" width="99">
-<p align="center">-</p>
 </td>
 </tr>
 <tr>
@@ -1033,32 +851,6 @@ VALEURS LIMITES D'EXPOSITION PROFESSIONNELLE INDICATIVES
 </tr>
 <tr>
 <td valign="top" width="137">
-<p>Heptane-3-one</p>
-</td>
-<td valign="top" width="77">
-<p align="center">203-388-1</p>
-</td>
-<td valign="top" width="77">
-<p align="center">106-35-4</p>
-</td>
-<td valign="top" width="77">
-<p align="center">95</p>
-</td>
-<td valign="top" width="77">
-<p align="center">20</p>
-</td>
-<td valign="top" width="77">
-<p align="center">-</p>
-</td>
-<td valign="top" width="59">
-<p align="center">-</p>
-</td>
-<td valign="top" width="99">
-<p align="center">-</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="137">
 <p>Mésitylène (triméthylbenzènes)</p>
 </td>
 <td valign="top" width="77">
@@ -1182,32 +974,6 @@ VALEURS LIMITES D'EXPOSITION PROFESSIONNELLE INDICATIVES
 </td>
 <td valign="top" width="59">
 <p align="center">20</p>
-</td>
-<td valign="top" width="99">
-<p align="center">-</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="137">
-<p>4-méthylpentane-2-one</p>
-</td>
-<td valign="top" width="77">
-<p align="center">203-550-1</p>
-</td>
-<td valign="top" width="77">
-<p align="center">108-10-1</p>
-</td>
-<td valign="top" width="77">
-<p align="center">83</p>
-</td>
-<td valign="top" width="77">
-<p align="center">20</p>
-</td>
-<td valign="top" width="77">
-<p align="center">208</p>
-</td>
-<td valign="top" width="59">
-<p align="center">50</p>
 </td>
 <td valign="top" width="99">
 <p align="center">-</p>
@@ -1471,32 +1237,6 @@ VALEURS LIMITES D'EXPOSITION PROFESSIONNELLE INDICATIVES
 </td>
 <td valign="top" width="99">
 <p align="center">Peau (7)</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="137">
-<p>1,1,1-trichloroéthane</p>
-</td>
-<td valign="top" width="77">
-<p align="center">200-756-3</p>
-</td>
-<td valign="top" width="77">
-<p align="center">71-55-6</p>
-</td>
-<td valign="top" width="77">
-<p align="center">555</p>
-</td>
-<td valign="top" width="77">
-<p align="center">100</p>
-</td>
-<td valign="top" width="77">
-<p align="center">1110</p>
-</td>
-<td valign="top" width="59">
-<p align="center">200</p>
-</td>
-<td valign="top" width="99">
-<p align="center">-</p>
 </td>
 </tr>
 <tr>
