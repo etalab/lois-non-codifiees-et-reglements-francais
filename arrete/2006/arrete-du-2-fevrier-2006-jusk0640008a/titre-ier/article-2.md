@@ -1,0 +1,3 @@
+# Article 2
+
+L'ensemble des enseignements et des stages suivis par les attachés d'administration et d'intendance en application du présent arrêté est d'une durée totale non fractionnable de neuf semaines. Au cours de leur première année d'affectation, cette formation d'adaptation peut être complétée d'un parcours individualisé de formation lié aux profils des intéressés et aux fonctions qu'ils sont appelés à exercer. Ce parcours fait l'objet d'une convention écrite établie conjointement par l'agent, son supérieur hiérarchique, la direction des enseignements de l'Ecole nationale d'administration pénitentiaire et l'unité formation et qualification de la direction régionale de rattachement.
