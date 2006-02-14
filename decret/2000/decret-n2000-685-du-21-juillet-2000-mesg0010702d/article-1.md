@@ -18,7 +18,7 @@ Outre, d'une part, l'inspection générale des affaires sociales et la délégat
 
 - la délégation interministérielle à la famille ;
 
-- la délégation interministérielle à l'innovation sociale et à l'économie sociale ;
+- la délégation interministérielle à l'innovation, à l'expérimentation sociale et à l'économie sociale ;
 
 - le service des droits des femmes et de l'égalité ;
 
