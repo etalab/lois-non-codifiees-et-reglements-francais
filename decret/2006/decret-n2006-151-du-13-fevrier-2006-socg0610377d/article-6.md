@@ -1,0 +1,3 @@
+# Article 6
+
+Sont abrogés le décret n° 81-1125 du 15 décembre 1981 portant création d'une délégation à l'économie sociale, le décret n° 91-1133 du 28 octobre 1991 modifié portant création d'une délégation générale à l'innovation sociale et à l'économie sociale, le décret n° 95-1083 du 5 octobre 1995 instituant une délégation interministérielle à l'innovation sociale et à l'économie sociale et modifiant le décret n° 91-1133 du 28 octobre 1991 portant création d'une délégation générale à l'innovation sociale et à l'économie sociale et le décret n° 98-410 du 27 mai 1998 portant extension des missions de la délégation interministérielle à l'innovation sociale et à l'économie sociale.
