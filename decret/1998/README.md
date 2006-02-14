@@ -797,7 +797,6 @@
 - [Décret du 27 mai 1998 (ECOC9700228D)](decret-du-27-mai-1998-ecoc9700228d)
 - [Décret n°98-407 du 27 mai 1998 (MENF9800777D)](decret-n98-407-du-27-mai-1998-menf9800777d)
 - [Décret n°98-408 du 27 mai 1998 (MENF9800776D)](decret-n98-408-du-27-mai-1998-menf9800776d)
-- [Décret n°98-410 du 27 mai 1998 (MESC9810584D)](decret-n98-410-du-27-mai-1998-mesc9810584d)
 - [Décret n°98-418 du 27 mai 1998 (AGRA9800654D)](decret-n98-418-du-27-mai-1998-agra9800654d)
 - [Décret n°98-419 du 27 mai 1998 (AGRA9800653D)](decret-n98-419-du-27-mai-1998-agra9800653d)
 - [Décret n°98-420 du 27 mai 1998 (AGRD9800725D)](decret-n98-420-du-27-mai-1998-agrd9800725d)

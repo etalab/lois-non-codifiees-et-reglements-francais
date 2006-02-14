@@ -1064,7 +1064,6 @@
 - [Arrêté du 26 juin 1995 (ECOT9551428A)](arrete-du-26-juin-1995-ecot9551428a)
 - [Arrêté du 26 juin 1995 (ECOX9511638A)](arrete-du-26-juin-1995-ecox9511638a)
 - [Arrêté du 26 juin 1995 (INDG9500828A)](arrete-du-26-juin-1995-indg9500828a)
-- [Arrêté du 26 octobre 1995 (AGRS9502279A)](arrete-du-26-octobre-1995-agrs9502279a)
 - [Arrêté du 26 octobre 1995 (AGRS9502280A)](arrete-du-26-octobre-1995-agrs9502280a)
 - [Arrêté du 26 octobre 1995 (ECOD9550009A)](arrete-du-26-octobre-1995-ecod9550009a)
 - [Arrêté du 26 octobre 1995 (SANS9503247A)](arrete-du-26-octobre-1995-sans9503247a)
