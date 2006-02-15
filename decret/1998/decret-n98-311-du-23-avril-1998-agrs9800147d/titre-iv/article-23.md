@@ -1,3 +1,3 @@
 # Article 23
 
-Les dispositions du présent décret sont applicables aux agriculteurs nés au plus tard le 31 décembre 1950, remplissant les conditions d'âge et d'exercice de l'activité agricole mentionnées à l'article 2. Ils doivent déposer leur demande entre le 1er janvier 2000 et le 31 décembre 2005 et s'engager à libérer les terres qu'ils exploitent, les bâtiments qu'ils utilisent et le cheptel qu'ils détiennent lors du dépôt de leur dossier. Cette libération doit être effective dans le délai d'un an suivant leur demande.
+Les dispositions du présent décret sont applicables aux agriculteurs qui remplissent les conditions d'âge et d'exercice de l'activité agricole mentionnées à l'article 2 et qui s'engagent à libérer les terres qu'ils exploitent, les bâtiments qu'ils utilisent et à vendre le cheptel qu'ils détiennent lors du dépôt de leur dossier. Ces agriculteurs devront cesser leur activité au plus tard le 31 décembre 2006.
