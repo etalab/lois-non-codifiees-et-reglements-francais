@@ -4,69 +4,73 @@
 
 Afghanistan
 
-Centre d'enseignement français en Afghanistan de Kaboul.
+Centre d'enseignement français en Afghanistan, Kaboul.
 
 Algérie
 
-Lycée international Alexandre Dumas, à Alger.
+Lycée international Alexandre Dumas, Alger.
 
-Allemagne
+République fédérale d'Allemagne
 
-Lycée français de Berlin.
+Lycée français, Berlin.
 
 Etablissement rattaché au groupement :
 
-Collège Voltaire de Berlin.
+Collège Voltaire, Berlin.
 
-Lycée français Jean Renoir de Munich.
+Lycée français Jean Renoir, Munich.
 
 Etablissements rattachés au groupement :
 
-Ecole élémentaire franco-allemande de Fribourg-en-Brisgau ;
+Ecole élémentaire franco-allemande, Fribourg-en-Brisgau ;
 
-Lycée franco-allemand de Fribourg-en-Brisgau ;
+Lycée franco-allemand, Fribourg-en-Brisgau ;
 
-Lycée franco-allemand de Sarrebruck ;
+Lycée franco-allemand, Sarrebruck ;
 
-Ecole franco-allemande de Stuttgart-Sillenbuch.
+Ecole élémentaire franco-allemande, Stuttgart-Sillenbuch.
 
-Lycée français Victor Hugo de Francfort-sur-le-Main.
+Lycée français Victor Hugo, Francfort-sur-le-Main.
 
 Argentine
 
-Lycée Jean Mermoz de Buenos Aires.
+Lycée franco-argentin Jean Mermoz, Buenos Aires.
 
 Autriche
 
-Lycée français de Vienne.
+Lycée français, Vienne.
 
 Belgique
 
-Lycée Jean Monnet de Bruxelles.
+Lycée français Jean Monnet, Bruxelles.
+
+Chine
+
+Lycée français, Pékin.
 
 République arabe d'Egypte
 
-Lycée français du Caire.
+Lycée français, Le Caire.
 
 Emirats arabes unis
 
-Lycée Louis Massignon d'Abu Dhabi.
+Lycée Louis Massignon, Abou Dabi.
 
 Espagne
 
-Lycée français de Barcelone.
+Lycée français, Barcelone.
 
-Lycée français de Madrid.
+Lycée français, Madrid.
 
 Etablissement rattaché au groupement :
 
-Ecole Saint-Exupéry de Madrid.
+Ecole Saint-Exupéry, Madrid.
 
-Lycée français de Valence.
+Lycée français, Valence.
 
 Grande-Bretagne
 
-Lycée français Charles de Gaulle de Londres.
+Lycée français Charles de Gaulle, Londres.
 
 Etablissements rattachés au groupement :
 
@@ -76,742 +80,730 @@ Ecole française, Wix, Londres.
 
 Inde
 
-Lycée français de Pondichéry.
+Lycée français, Pondichéry.
 
 Italie
 
-Lycée Stendhal de Milan.
+Lycée Stendhal, Milan.
 
-Lycée Chateaubriand de Rome.
+Lycée Chateaubriand, Rome.
 
 Etablissement rattaché au groupement :
 
-Ecole française de Naples.
-
-Japon
-
-Lycée franco-japonais de Tokyo.
+Ecole française, Naples.
 
 Madagascar
 
-Lycée français de Tananarive.
+Lycée français, Tananarive.
 
 Etablissements rattachés au groupement :
 
-Ecole primaire française "A", Ampefiloha, Tananarive ;
+Ecole primaire française " A ", Ampefiloha, Tananarive ;
 
-Ecole primaire française "B", Ampandrianomby, Tananarive ;
+Ecole primaire française " B ", Ampandrianomby, Tananarive ;
 
-Ecole primaire française "C", Ambohibao, Tananarive.
+Ecole primaire française " C ", Ambohibao, Tananarive.
 
 Maroc
 
-Lycée Lyautey de Casablanca.
+Lycée Lyautey, Casablanca.
 
 Etablissements rattachés au groupement :
 
-Collège Anatole France de Casablanca ;
+Collège Anatole France, Casablanca ;
 
-Ecole Claude Bernard de Casablanca ;
+Ecole Claude Bernard, Casablanca ;
 
-Ecole Georges Bizet de Casablanca ;
+Ecole Georges Bizet, Casablanca ;
 
-Ecole Théophile Gautier de Casablanca ;
+Ecole Théophile Gautier, Casablanca ;
 
-Ecole Molière de Casablanca ;
+Ecole Molière, Casablanca ;
 
-Ecole Ernest Renan de Casablanca ;
+Ecole Ernest Renan, Casablanca ;
 
-Groupe scolaire Claude-Monnet de Mohammedia.
+Groupe scolaire Claude Monnet, Mohammedia.
 
-Lycée Victor Hugo de Marrakech.
-
-Etablissements rattachés au groupement :
-
-Groupe scolaire Paul Gauguin d'Agadir ;
-
-Ecole Auguste Renoir de Marrakech.
-
-Lycée Paul Valéry de Meknès.
+Lycée Victor Hugo, Marrakech.
 
 Etablissements rattachés au groupement :
 
-Groupe scolaire Jean de La Fontaine de Fès ;
+Groupe scolaire Paul Gauguin, Agadir ;
 
-Ecole Jean-Jacques Rousseau de Meknès.
+Ecole Auguste Renoir, Marrakech.
 
-Lycée Descartes de Rabat.
+Lycée Paul Valéry, Meknès.
 
 Etablissements rattachés au groupement :
 
-Collège Saint-Exupéry de Rabat ;
+Groupe scolaire Jean de La Fontaine, Fès ;
 
-Groupe scolaire Honoré de Balzac de Kenitra ;
+Ecole Jean Jacques Rousseau, Meknès.
 
-Ecole Albert Camus de Rabat ;
+Lycée Descartes, Rabat.
 
-Ecole Paul Cézanne de Rabat ;
+Etablissements rattachés au groupement :
 
-Ecole André Chénier de Rabat ;
+Collège Saint Exupéry, Rabat ;
 
-Ecole Pierre de Ronsard de Rabat.
+Groupe scolaire Honoré de Balzac, Kenitra ;
 
-Lycée Regnault de Tanger.
+Ecole Albert Camus, Rabat ;
+
+Ecole Paul Cézanne, Rabat ;
+
+Ecole André Chénier, Rabat ;
+
+Ecole Pierre de Ronsard, Rabat.
+
+Lycée Regnault, Tanger.
 
 Etablissement rattaché au groupement :
 
-Ecole Adrien Berchet de Tanger.
+Ecole Adrien Berchet, Tanger.
 
 Mauritanie
 
-Lycée Théodore Monod de Nouakchott.
+Lycée français Théodore Monod, Nouakchott.
 
 Niger
 
-Lycée Jean de La Fontaine de Niamey.
+Lycée Jean de La Fontaine, Niamey.
 
 Pays-Bas
 
-Lycée Van Gogh de La Haye.
+Lycée Van Gogh, La Haye.
 
 Etablissement rattaché au groupement :
 
-Ecole française d'Amsterdam.
+Ecole française, Amsterdam.
 
 Portugal
 
-Lycée français Charles Lepierre de Lisbonne.
+Lycée français Charles Lepierre, Lisbonne.
 
 République tchèque
 
-Lycée français de Prague.
+Lycée français, Prague.
 
 Russie
 
-Lycée français Alexandre Dumas de Moscou.
+Lycée français Alexandre Dumas, Moscou.
 
 Sénégal
 
-Lycée français Jean Mermoz de Dakar.
+Lycée français Jean Mermoz, Dakar.
 
 Tunisie
 
-Lycée français Gustave Flaubert de La Marsa.
+Lycée français Gustave Flaubert, La Marsa.
 
 Etablissements rattachés au groupement :
 
-Collège Charles Nicolle de Sousse ;
+Collège Charles Nicolle, Sousse ;
 
-Ecole Jean Giono de Bizerte ;
+Ecole Jean Giono, Bizerte ;
 
-Ecole Paul Verlaine de La Marsa ;
+Ecole Paul Verlaine, La Marsa ;
 
-Ecole George Sand de Nabeul ;
+Ecole George Sand, Nabeul ;
 
-Ecole Guy de Maupassant de Sousse.
+Ecole Guy de Maupassant, Sousse.
 
-Lycée Pierre Mendès France de Tunis.
+Lycée Pierre Mendès-France, Tunis.
 
 Etablissements rattachés au groupement :
 
-Ecole Marie Curie de Tunis ;
+Ecole Marie Curie, Tunis ;
 
-Ecole Robert Desnos, Tunis el Omrane ;
+Ecole Robert Desnos, El Omrane, Tunis ;
 
-Ecole Georges Brassens de Megrine.
+Ecole Georges Brassens, Mégrine.
 
 Vietnam
 
-Ecole Colette d'Hô Chi Minh-Ville.
+Ecole française Colette, Hô Chi Minh-Ville.
 
-2. Liste des établissements d'enseignement français à l'étranger ayant passé une convention administrative, financière et pédagogique avec l'Agence pour l'enseignement français à l'étranger, établissements dits "conventionnés"
+2. Liste des établissements d'enseignement français à l'étranger ayant passé une convention administrative, financière et pédagogique avec l'Agence pour l'enseignement français à l'étranger, établissements dits " conventionnés "
 
 Afrique du Sud
 
-Lycée français Jules Verne de Johannesburg.
+Lycée français Jules Verne, Johannesburg.
 
-Ecole française du Cap.
+Ecole française, Le Cap.
 
-Allemagne
+République fédérale d'Allemagne
 
-Ecole De Gaulle-Adenauer de Bonn.
+Ecole de Gaulle-Adenauer, Bonn.
 
-Lycée français de Düsseldorf.
+Lycée français, Düsseldorf.
 
-Ecole maternelle franco-allemande de Fribourg-en-Brisgau.
+Ecole maternelle franco-allemande, Fribourg-en-Brisgau.
 
-Lycée français Saint-Exupéry de Hambourg.
+Lycée français Saint-Exupéry, Hambourg.
 
-Ecole française Pierre et Marie Curie de Heidelberg.
+Ecole française Pierre et Marie Curie, Heidelberg.
 
-Ecole française de Sarrebruck et Dilling.
+Ecole française, Sarrebruck et Dilling.
 
-Ecole française Georges Cuvier de Stuttgart.
+Ecole maternelle bilingue franco-allemande Georges Cuvier, Stuttgart.
 
 Angola
 
-Ecole française Alioune Blondin Bèye de Luanda.
+Ecole française Alioune Blondin Bèye, Luanda.
 
 Arabie saoudite
 
-Ecole française de Dhahran-al-Khobar.
+Ecole française, Dharan-al-Khobar.
 
-Ecole française de Djedda.
+Ecole française, Djeddah.
 
-Ecole française de Riyad.
+Ecole française, Riyad.
 
 Argentine
 
-Collège franco-argentin Martinez de Buenos Aires.
+Collège franco-argentin Martinez, Buenos Aires.
 
 Australie
 
-Lycée Condorcet de Sydney.
+Lycée Condorcet, Sydney.
 
 Bahreïn
 
-Ecole française de Manama.
+Ecole française de Bahreïn, Manama.
 
 Bangladesh
 
-Ecole française internationale de Dacca.
+Ecole française internationale, Dacca.
 
 Belgique
 
-Lycée français d'Anvers.
+Lycée français, Anvers.
 
-Collège français de Gand.
+Collège français, Gand.
 
-Bénin
+République du Bénin
 
-Etablissement français d'enseignement Montaigne de Cotonou.
+Etablissement français d'enseignement Montaigne, Cotonou.
 
 Bolivie
 
-Lycée franco-bolivien Alcide d'Orbigny de La Paz.
+Lycée franco-bolivien Alcide d'Orbigny, La Paz.
 
 Brésil
 
-Lycée François Mitterrand de Brasilia.
+Lycée français François Mitterrand, Brasilia.
 
-Lycée Molière de Rio de Janeiro.
+Lycée Molière, Rio de Janeiro.
 
-Lycée Pasteur de Sao Paulo.
+Lycée Pasteur, Sao Paulo.
 
 Bulgarie
 
-Lycée Victor Hugo de Sofia.
+Lycée Victor Hugo, Sofia.
 
 Burkina Faso
 
-Ecole française André Malraux de Bobo-Dioulasso.
+Ecole française André Malraux, Bobo Dioulasso.
 
-Lycée français Saint-Exupéry de Ouagadougou.
+Lycée français Saint-Exupéry, Ouagadougou.
 
 Cambodge
 
-Lycée français René Descartes de Phnom Penh.
+Lycée français René Descartes, Phnom Penh.
 
 Cameroun
 
-Lycée français Dominique Savio de Douala.
+Lycée français Dominique Savio, Douala.
 
-Ecole française Le Tinguelin de Garoua.
+Ecole française Le Tinguelin, Garoua.
 
-Ecole française Les Boukarous de Maroua.
+Ecole française Les Boukarous, Maroua.
 
-Lycée Fustel de Coulanges de Yaoundé.
+Lycée Fustel de Coulanges, Yaoundé.
 
 Canada
 
-Lycée Louis Pasteur de Calgary.
+Lycée Louis Pasteur, Calgary.
 
-Collège Marie de France, à Montréal.
+Collège international Marie de France, Montréal.
 
-Collège Stanislas de Montréal et son annexe de Québec.
+Collège Stanislas, Montréal et son annexe de Québec.
 
-Lycée Paul Claudel d'Ottawa.
+Lycée Paul Claudel, Ottawa.
 
-Lycée français de Toronto, à Toronto.
+Lycée français, Toronto.
 
 République centrafricaine
 
-Lycée Charles de Gaulle, à Bangui.
+Lycée Charles de Gaulle, Bangui.
 
 Chili
 
-Lycée Charles de Gaulle de Concepcion.
+Lycée Charles de Gaulle, Concepcion.
 
-Lycée Claude Gay d'Osorno.
+Lycée Claude Gay, Osormo.
 
-Lycée Antoine de Saint-Exupéry de Santiago.
+Lycée Antoine de Saint-Exupéry, Santiago.
 
-Lycée Jean d'Alembert de Valparaiso.
+Lycée Jean d'Alembert, Vinla del Mar, Valparaiso.
 
 Chine
 
-Lycée français international Victor Segalen, à Hong Kong.
+Lycée français international Victor Segalen, Hong Kong.
 
-Lycée français de Pékin.
-
-Ecole française de Shanghai.
+Ecole française, Shanghai.
 
 Chypre
 
-Ecole française Arthur Rimbaud de Nicosie et son annexe de Limassol.
+Ecole française Arthur Rimbaud, Nicosie et son annexe de Limassol.
 
 Colombie
 
-Lycée français Louis Pasteur de Bogota.
+Lycée français Louis Pasteur, Bogota.
 
-Lycée Paul Valéry de Cali.
+Lycée Paul Valéry, Cali.
 
 Comores
 
-Ecole française Henri Matisse de Moroni.
+Ecole française Henri Matisse, Moroni.
 
 Congo
 
-Lycée français Saint-Exupéry de Brazzaville.
+Lycée français Saint-Exupéry, Brazzaville.
 
-Lycée français Charlemagne de Pointe-Noire.
+Lycée français Charlemagne, Pointe-Noire.
 
 République démocratique du Congo
 
-Ecole française René Descartes de Kinshasa.
+Lycée français René Descartes, Kinshasa.
 
 Corée
 
-Lycée français de Séoul.
+Lycée français, Séoul.
 
 Costa Rica
 
-Lycée franco-costaricien de San José.
+Lycée franco-costaricien, San José.
 
-Côte d'Ivoire
+Croatie
 
-Section française du collège Jean Mermoz d'Abidjan.
-
-Cours Sévigné, à Abidjan.
-
-Ecole l'Eau-Vive, zone IV, à Abidjan.
-
-Ecole française Jacques Prévert, à Abidjan.
-
-Lycée Blaise Pascal, à Abidjan.
-
-Ecole française Les Hibiscus de San-Pedro.
-
-Lycée Antoine de Saint-Exupéry, à Yamoussoukro.
+Ecole française, Zagreb.
 
 Cuba
 
-Ecole française de La Havane, à La Havane.
+Ecole française de La Havane, La Havane.
 
 Danemark
 
-Lycée français Prins Henrik, à Copenhague.
+Lycée français Prins Henrik, Copenhague.
 
 Djibouti
 
-Ecole française Françoise Dolto, à Djibouti.
+Ecole française Françoise Dolto, Djibouti.
 
-Lycée français Joseph Kessel, à Djibouti.
+Lycée français Joseph Kessel, Djibouti.
 
 République dominicaine
 
-Lycée français, à Saint-Domingue.
+Lycée français, Saint-Domingue.
 
 République arabe d'Egypte
 
-Ecole française Champollion, à Alexandrie.
+Ecole française Champollion, Alexandrie.
 
 Emirats arabes unis
 
-Lycée français Georges Pompidou, à Sharjah.
+Lycée français Georges Pompidou, Sharjah.
 
 Equateur
 
-Lycée franco-équatorien La Condamine, à Quito.
+Lycée franco-équatorien La Condamine, Quito.
 
 Espagne
 
-Lycée francais d'Alicante et son annexe.
+Lycée français, Alicante et son annexe :
 
-Ecole française de la Costa Blanca, à Benidorm.
+Ecole française de la Costa Blanca, Benidorm.
 
-Ecole française Ferdinand de Lesseps, à Barcelone.
+Ecole française Ferdinand de Lesseps, Barcelone.
 
-Collège français de Bilbao.
+Collège français, Bilbao.
 
-Collège français d'Ibiza.
+Collège français, Ibiza.
 
-Lycée Molière de Madrid.
+Lycée Molière, Villanueva de la Canada, Madrid.
 
-Lycée français de Malaga.
+Lycée français, Malaga.
 
-Collège français à Palma de Majorque.
+Collège français de Palma, Palma de Majorque.
 
 Etats-Unis d'Amérique
 
-Ecole française internationale, à Denver.
+Lycée français La Pérouse, San Francisco.
 
-Lycée français La Pérouse, à San Francisco.
-
-Lycée français international Rochambeau, à Washington.
+Lycée français international Rochambeau, Washington.
 
 Ethiopie
 
-Lycée franco-éthiopien Guebre Mariam, à Addis-Abeba.
+Lycée franco-éthiopien Guebre Mariam, Addis Abeba.
 
 Finlande
 
-Ecole française, à Helsinki.
+Ecole française, Helsinki.
 
 Gabon
 
-Lycée Blaise Pascal, à Libreville.
+Lycée français Blaise Pascal, Libreville.
 
-Collège Victor Hugo, à Port-Gentil.
+Collège Victor Hugo, Port-Gentil.
 
 Gambie
 
-Ecole française, à Banjul.
+Ecole française, Banjul.
 
 Ghana
 
-Ecole française Jacques Prévert, à Accra.
+Ecole française Jacques Prévert, Accra.
 
 Grande-Bretagne
 
-Ecole L'Ile aux Enfants, à Londres.
+Ecole L'Ile aux enfants, Londres.
 
-Ecole Jacques Prévert, à Londres.
+Ecole française Jacques Prévert, Londres.
 
 Grèce
 
-Lycée franco-hellénique, à Athènes.
+Lycée franco-hellénique, Athènes.
 
-Ecole française, à Thessalonique.
+Ecole française, Thessalonique.
 
 Guatemala
 
-Collège Jules Verne, à Guatemala.
+Collège Jules Verne, Guatemala.
 
-Guinée-Conakry
+Guinée
 
-Lycée français Albert Camus, à Conakry.
+Lycée français Albert Camus, Conakry.
 
 Guinée équatoriale
 
-Ecole française, à Malabo.
+Ecole française, Malabo.
 
 Haïti
 
-Lycée Alexandre Dumas, à Port-au-Prince.
+Lycée Alexandre Dumas, Port-au-Prince.
 
 Honduras
 
-Lycée franco-hondurien, à Tegucigalpa.
+Lycée franco-hondurien, Tegucigalpa.
 
 Hongrie
 
-Lycée français Gustave Eiffel, à Budapest.
+Lycée français Gustave Eiffel, Budapest.
 
 Inde
 
-Ecole française internationale, à Bombay.
+Ecole française internationale, Bombay.
 
-Ecole française, à New Delhi.
+Ecole française de Delhi, New Delhi.
 
 Indonésie
 
-Lycée international français, à Jakarta.
+Lycée international français, Jakarta.
 
 Iran
 
-Ecole française, à Téhéran.
+Ecole française, Téhéran.
 
 Irlande
 
-Lycée français d'Irlande, à Dublin.
+Lycée français d'Irlande, Dublin.
 
 Israël
 
-Collège français Marc Chagall, à Tel-Aviv.
+Collège français Marc Chagall, Tel-Aviv.
 
 Italie
 
-Ecole française, à Florence.
+Ecole française, Florence.
 
-Lycée français Jean Giono, à Turin.
+Lycée français Jean Giono, Turin.
 
 Japon
 
-Ecole française du Kansai, à Kyoto.
+Ecole française du Kansai, Kyoto.
+
+Lycée franco-japonais, Tokyo.
 
 Jérusalem
 
-Lycée français, à Jérusalem.
+Lycée français, Jérusalem.
 
 Jordanie
 
-Ecole française, à Amman.
+Ecole française, Amman.
 
 Kenya
 
-Lycée français Denis Diderot, à Nairobi.
+Lycée français Denis-Diderot, Nairobi.
 
 Koweït
 
-Lycée français, à Koweit City.
+Lycée français, Koweït.
 
 Laos
 
-Ecole française Hoffet, à Vientiane.
+Ecole française Hoffet, Vientiane.
 
 Liban
 
-Lycée franco-libanais Nal-ir-lbrahîm, à Al-Maayssra.
+Lycée franco-libanais Nahr lbrahim, Jounieh.
 
-Collège protestant français, à Beyrouth.
+Collège protestant français, Beyrouth.
 
-Grand lycée franco-libanais, à Beyrouth.
+Grand lycée franco-libanais, Beyrouth.
 
-Lycée Abdel-Kader, à Beyrouth.
+Lycée Abdel-Kader, Beyrouth.
 
-Lycée franco-libanais Verdun, à Beyrouth.
+Lycée franco-libanais Verdun, Beyrouth.
 
-Lycée franco-libanais, à Tripoli.
+Lycée franco-libanais, Tripoli.
 
 Libye
 
-Ecole de la communauté française, à Tripoli.
+Ecole de la communauté française, Tripoli.
+
+Lituanie
+
+Ecole française, Vilnius.
 
 Madagascar
 
-Ecole primaire française, à Ambanja.
+Ecole primaire française Charles Baudelaire, Ambanja.
 
-Ecole primaire française, à Antalaha.
+Ecole primaire française, Antalaha.
 
-Collège français Jules Verne, à Antsirabe.
+Collège français Jules Verne, Antsirabé.
 
-Lycée français Sadi Carnot, à Diego Suarez.
+Lycée français Sadi Carnot, Antsiranana (Diégo-Suarez).
 
-Collège français René Cassin, à Fianarantsoa.
+Lycée français René Cassin, Fianarantsoa.
 
-Ecole primaire française, à Fort-Dauphin.
+Ecole primaire française, Fort-Dauphin.
 
-Collège français Françoise Dolto, à Majunga.
+Collège français Françoise Dolto, Majunga.
 
-Ecole primaire française, à Manakara.
+Ecole primaire française, Manakara.
 
-Ecole Lamartine, à Nosy Bé.
+Ecole primaire française Lamartine, Nosy-Bé.
 
-Lycée français, à Tamatave.
+Lycée français, Tamatave.
 
-Collège français Etienne de Flacourt, à Tuléar.
+Collège Etienne de Flacourt, Tuléar.
 
 Malaisie
 
-Lycée français, à Kuala Lumpur.
+Lycée français, Kuala Lumpur.
 
 Mali
 
-Lycée français Liberté, à Bamako.
+Lycée français Liberté, Bamako.
 
 Maurice (île)
 
-Lycée La Bourdonnais, à Curepipe.
+Lycée La Bourdonnais, Curepipe.
 
-Ecole du Nord de Mapou, lycée des Mascareignes.
+Ecole du Nord, Mapou.
+
+Lycée des Mascareignes, Moka.
 
 Mexique
 
-Lycée franco-mexicain, à Guadalajara (section française).
+Collège franco-mexicain, Guadalajara (section française).
 
-Lycée franco-mexicain, à Mexico (section française).
+Lycée franco-mexicain, Mexico (section française).
 
 Mozambique
 
-Ecole française, à Maputo.
+Ecole française, Maputo.
 
 Népal
 
-Ecole française, à Katmandou.
+Ecole française, Katmandou.
 
 Nicaragua
 
-Collège Victor Hugo, à Managua.
+Collège Victor Hugo, Managua.
 
 Nigeria
 
-Ecole Marcel Pagnol, à Abuja.
+Ecole française Marcel Pagnol, Abuja.
 
-Lycée français Louis Pasteur, à Lagos.
+Lycée français Louis Pasteur, Lagos.
 
 Norvège
 
-Lycée français René Cassin, à Oslo.
+Lycée français René Cassin, Oslo.
 
 Oman
 
-Ecole française, à Mascate.
+Ecole française, Mascate.
 
 Ouganda
 
-Ecole française Les Grands Lacs, à Kampala.
+Ecole française Les Grands Lacs, Kampala.
 
 Pakistan
 
-Ecole française Alfred Foucher, à Islamabad.
+Ecole française Alfred Foucher, Islamabad.
 
 Panama
 
-Ecole française Paul Gauguin, à Panama.
+Ecole française Paul Gauguin, Panama.
 
 Paraguay
 
-Collège Marcel Pagnol, à Assomption.
+Collège français Marcel Pagnol, Assomption.
 
 Pérou
 
-Lycée franco-péruvien, à Lima.
+Lycée franco-péruvien, Lima.
 
 Philippines
 
-Ecole française, à Manille.
+Ecole française, Manille.
 
 Pologne
 
-Lycée français René Goscinny, à Varsovie.
+Lycée français René Goscinny, Varsovie.
 
 Portugal
 
-Ecole française Marius Latour, à Porto.
+Ecole française Marius Latour, Porto.
 
 Qatar
 
-Lycée français, à Doha.
+Lycée français, Doha.
 
 Roumanie
 
-Lycée français Anna de Noailles, à Bucarest.
+Lycée français Anna de Noailles, Bucarest.
 
 Russie
 
-Ecole française, à Saint-Pétersbourg.
+Ecole française, Saint-Pétersbourg.
 
-Salvador (El)
+El Salvador
 
-Lycée français, à San Salvador.
+Lycée français, San Salvador.
 
 Sénégal
 
-Institution Sainte-Jeanne d'Arc, à Dakar.
+Institution Sainte Jeanne d'Arc, Dakar.
 
-Ecole française Saint-Exupéry, à Saint-Louis.
+Ecole française Antoine de Saint-Exupéry, Saint-Louis.
 
-Ecole française Docteur Guillet, à Thiès.
+Ecole française Docteur Guillet, Thiès.
 
-Ecole française François Rabelais, à Ziguinchor.
+Ecole française François Rabelais, Ziguinchor.
 
 Serbie-et-Monténégro
 
-Ecole française, à Belgrade.
+Ecole française, Belgrade.
 
 Seychelles (îles)
 
-Ecole française, à Victoria.
+Ecole française, Victoria.
 
 Singapour
 
-Lycée français, à Singapour.
+Lycée français, Singapour.
 
 République slovaque
 
-Ecole française, à Bratislava.
+Ecole française, Bratislava.
 
 Slovénie
 
-Ecole française, à Ljubljana.
+Ecole française, Ljubljana.
 
 Soudan
 
-Ecole française, à Khartoum.
+Ecole française, Khartoum.
 
 Sri Lanka
 
-Ecole française, à Colombo.
+Ecole française, Colombo.
 
 Suède
 
-Lycée français Saint-Louis, à Stockholm.
+Lycée français Saint-Louis, Stockholm.
 
 Suisse
 
-Ecole française, à Berne.
+Ecole française, Berne.
 
-Lycée français, à Zurich.
+Lycée français, Zurich.
 
 Syrie
 
-Ecole française, à Damas.
+Ecole française, Damas.
 
 Taïwan
 
-Ecole française, à Taipei.
+Ecole française, Taipei.
 
 Tanzanie
 
-Ecole française Arthur Rimbaud, à Dar es-Salaam.
+Ecole française Arthur Rimbaud, Dar es-Salaam.
 
 Tchad
 
-Lycée français Michel de Montaigne, à N'Djamena.
+Lycée français Michel de Montaigne, N'Djamena.
 
 Thaïlande
 
-Lycée français, à Bangkok.
+Lycée français, Bangkok.
 
 Togo
 
-Lycée français, à Lomé.
+Lycée français, Lomé.
 
 Turquie
 
-Lycée français Charles de Gaulle, à Ankara.
+Lycée français Charles de Gaulle, Ankara.
 
-Lycée français Pierre Loti, à Istanbul.
+Lycée français Pierre Loti, Istanbul.
 
 Ukraine
 
-Ecole française, à Kiev.
+Ecole française, Kiev.
 
 Uruguay
 
-Lycée français Jules Supervielle, à Montevideo.
+Lycée français Jules Supervielle, Montevideo.
 
 Vanuatu
 
-Ecole française, à Port-Vila.
+Lycée français, Port Vila.
 
 Venezuela
 
-Lycée français Colegio Francia, à Caracas.
+Lycée français (colegio francia), Caracas.
 
 Vietnam
 
-Lycée français Alexandre Yersin, à Hanoi.
+Lycée français Alexandre Yersin, Hanoi.
 
 Yémen
 
-Ecole française, à Sanaa.
+Ecole française, Sanaa.
 
 Zambie
 
-Ecole française Champollion, à Lusaka.
+Ecole française Champollion, Lusaka.
 
 Zimbabwe
 
-Ecole française Jean de La Fontaine, à Harare.
+Ecole française Jean de La Fontaine, Harare.

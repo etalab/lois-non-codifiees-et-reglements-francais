@@ -16,7 +16,7 @@ Deux mois au moins avant la date présumée du début de la formation, le respon
 
 1. Une date d'organisation des épreuves ;
 
-2. La désignation pour le jury d'un chef de service de sécurité en fonction, pour les épreuves orales et pratiques des niveaux 1 et 2 et de deux chefs pour le niveau 3. Le document doit préciser leurs nom, fonction, qualification et comporter leur accord ;
+2. La désignation pour le jury d'un chef de service de sécurité en fonction, pour les épreuves orales et pratiques du niveau 1 et de deux chefs pour les niveaux 2 et 3. Le document doit préciser leurs nom, fonction, qualification et comporter leur accord ;
 
 3. Un site disposant des matériels et équipements nécessaires à l'examen. Un engagement écrit, du propriétaire ou de l'exploitant de l'établissement, de mettre à disposition les locaux et d'autoriser la manipulation des installations techniques nécessaires au déroulement de l'épreuve pratique est joint lorsque l'épreuve ne se déroule pas dans le centre de formation ;
 
