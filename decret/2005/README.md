@@ -1,7 +1,6 @@
 # 2005
 
 - [Décret du 3 février 1993 (PTTR9200690D)](decret-du-3-fevrier-1993-pttr9200690d)
-- [Décret n°2005-1249 du 4 octobre 2005 (AGRP0502020D)](decret-n2005-1249-du-4-octobre-2005-agrp0502020d)
 - [Décret n°2005-333 du 7 avril 2005 (ECOS0450017D)](decret-n2005-333-du-7-avril-2005-ecos0450017d)
 - [Décret n°2005-662 du 9 juin 2005 (AGRX0500138D)](decret-n2005-662-du-9-juin-2005-agrx0500138d)
 - [Décret n°2005-977 du 10 août 2005 (SANS0522310D)](decret-n2005-977-du-10-aout-2005-sans0522310d)
