@@ -1,0 +1,3 @@
+# Article 37
+
+Les sapeurs-pompiers professionnels et les sapeurs-pompiers volontaires employés par les communes ainsi que les autres personnels relevant de la fonction publique des communes de la Polynésie française peuvent être mis à disposition, par convention, de l'établissement public d'incendie et de secours de Polynésie française. Celui-ci peut recruter, selon les dispositions statutaires qui leur sont applicables, des sapeurs-pompiers professionnels relevant des dispositions de la loi du 26 janvier 1984 susvisée ou des personnels militaires de la brigade des sapeurs-pompiers de Paris ou du bataillon des marins-pompiers de Marseille.

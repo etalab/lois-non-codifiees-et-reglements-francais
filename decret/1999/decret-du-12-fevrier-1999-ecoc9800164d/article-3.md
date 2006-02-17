@@ -36,8 +36,6 @@ Seul l'un des noms géographiques suivants peut compléter l'appellation d'origi
 
 "Valréas" : commune de Valréas ;
 
-"Vinsobres" : commune de Vinsobres ;
-
 "Visan" : commune de Visan.
 
 Pour les communes incluses en partie, il est fait référence aux plans cadastraux déposés en mairie.

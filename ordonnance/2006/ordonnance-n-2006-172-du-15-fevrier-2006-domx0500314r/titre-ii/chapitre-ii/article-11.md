@@ -1,0 +1,3 @@
+# Article 11
+
+En cas d'accident, sinistre ou catastrophe dont les conséquences peuvent dépasser les limites ou les capacités d'une commune, le haut-commissaire mobilise les moyens nécessaires aux secours relevant de l'Etat, de la Nouvelle-Calédonie, des collectivités territoriales et des établissements publics. En tant que de besoin, il mobilise ou réquisitionne les moyens privés nécessaires aux secours. Il assure la direction des opérations de secours et coordonne l'activité opérationnelle de l'ensemble des moyens de secours et de lutte contre l'incendie. Il déclenche, s'il y a lieu, le plan ORSEC.
