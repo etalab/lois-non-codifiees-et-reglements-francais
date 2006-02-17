@@ -6,4 +6,6 @@ Bosnie-Herzégovine ;
 
 Equateur ;
 
-Macédoine.
+Macédoine ;
+
+Moldavie.
