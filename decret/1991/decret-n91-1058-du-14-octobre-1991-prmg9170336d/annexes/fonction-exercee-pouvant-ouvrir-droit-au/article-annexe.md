@@ -30,7 +30,7 @@ Assistant de gestion administrative des rémunérations ;
 
 Adjoint au chef du bureau de la gestion prévisionnelle et des affectations ;
 
-Assistant de contrôle ou de gestion comptable et budgétaire ;
+Assistant de contrôle ou de gestion comptable et budgétaire.
 
 Responsable du magasin des fournitures au bureau de la gestion des immeubles et du matériel ;
 
@@ -86,8 +86,6 @@ Agent polyvalent du service intérieur chargé d'interventions dans diverses sp�
 
 Responsable d'unité de facturation chargé de la coordination du traitement des commandes des différentes clientèles ;
 
-Secrétaire d'édition chargé des relations avec les administrations clientes sur toutes questions de nature éditoriale ;
-
 Responsable de la formation continue des personnels aux applications de micro-informatique ;
 
 Responsable des affranchissements postaux ;
@@ -102,7 +100,17 @@ Secrétaire de rédaction ;
 
 Chef d'études ;
 
-Responsable de département chargé des ressources humaines.
+Responsable de département chargé des ressources humaines ;
+
+Opératrice PAO ;
+
+Technicien d'édition ;
+
+Administrateur de site web ;
+
+Gestionnaire de site web ;
+
+Aide comptable.
 
 SERVICE D'INFORMATION DU GOUVERNEMENT
 
@@ -110,9 +118,9 @@ Responsable du service intérieur et du matériel chargé de tâches d'encadreme
 
 Responsable de la diffusion chargé de tâches d'encadrement, de gestion et de maintenance ;
 
-Responsable de la gestion des fichiers informatiques ;
+Chef du secrétariat de direction ;
 
-Secrétaire général.
+Chef du département de l'administration générale.
 
 CENTRES INTERMINISTERIELS DE RENSEIGNEMENTS ADMINISTRATIFS
 
