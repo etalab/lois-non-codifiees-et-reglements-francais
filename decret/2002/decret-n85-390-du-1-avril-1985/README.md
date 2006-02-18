@@ -1,9 +1,7 @@
 # Décret n°85-390 du 1 avril 1985 relatif à l'organisation et à l'exploitation des jeux de pronostics sportifs autorisés par l'article 42 de la loi de finances pour 1985.
 
 - [Article 1](article-1.md)
-- [TITRE I : Organisation des jeux](titre-i)
 - [Article 2](article-2.md)
-- [TITRE II : Exploitation des jeux.](titre-ii)
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)
 - [Article 5](article-5.md)

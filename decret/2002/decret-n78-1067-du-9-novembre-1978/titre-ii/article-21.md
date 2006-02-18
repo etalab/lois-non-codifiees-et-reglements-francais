@@ -1,3 +1,0 @@
-# Article 21
-
-Le président directeur général de la société veille à l'application des textes législatifs et réglementaires concernant les jeux de loterie définis au titre Ier. Il établit les règlements des jeux et fixe, à cet effet, leurs caractéristiques techniques, les conditions de participation offertes au public, les montants des mises, les modalités techniques de détermination et d'attribution aux gagnants des gains ou lots, les modalités de paiement ou de mise à disposition de ceux-ci et les délais de forclusion relatifs à ces paiements ou mises à disposition. Les règlements des jeux sont portés à la connaissance du public par une publication au Journal officiel.
