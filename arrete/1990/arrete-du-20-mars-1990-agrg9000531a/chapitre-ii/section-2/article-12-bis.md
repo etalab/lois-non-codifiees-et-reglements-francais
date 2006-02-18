@@ -1,7 +1,7 @@
 # Article 12 bis
 
-Par dérogation aux dispositions prévues aux points 4 et b de l'article 12, les animaux provenant de cheptels officiellement indemnes de brucellose bovine, pour lesquels la durée du transfert entre l'exploitation d'origine et l'exploitation de destination n'excède pas six jours, sont dispensés du test de dépistage de la brucellose à l'introduction.
+I. - Par dérogation aux dispositions de l'article 12, l'obtention ou le maintien de la qualification "officiellement indemne de brucellose bovine" n'est pas subordonné à l'obligation du test de dépistage prévu aux points 4° du I et 2° du II du même article pour les bovins provenant de cheptels "officiellement indemnes de brucellose bovine" et pour lesquels la durée de transfert entre l'exploitation d'origine et l'exploitation de destination n'excède pas 6 jours.
 
-Toutefois, les animaux provenant de cheptels présentant un risque sanitaire particulier, tel que défini par instruction du ministre chargé de l'agriculture à l'égard de la brucellose, sont exclus du bénéfice de cette dérogation, et le test de dépistage de la brucellose visé au premier alinéa sera obligatoirement réalisé avant le départ de l'exploitation d'origine.
+II. - Toutefois, pour les bovins provenant de cheptels présentant un risque sanitaire particulier, tels que définis à l'article 6, il ne peut être dérogé à l'obligation du test de dépistage prévu aux points 4° du I et 2° du II de l'article 12. En outre, ce test doit être réalisé dans les 15 jours précédant le départ de l'exploitation d'origine à risque.
 
-La dérogation prévue au premier alinéa n'entrera en vigueur qu'après publication au Bulletin officiel du ministère de l'agriculture, de l'alimentation, de la pêche et de la ruralité de l'instruction prévue au deuxième alinéa.
+III. - L'obtention ou le maintien de la qualification "officiellement indemne de brucellose bovine" des cheptels présentant un taux de rotation annuel supérieur à 40 % est subordonné à l'obligation de dépistage prévu aux points 4° du I et 2° du II de l'article 12, quel que soit le délai de transfert entre l'exploitation d'origine et l'exploitation de destination.

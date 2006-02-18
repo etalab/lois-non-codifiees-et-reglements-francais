@@ -1,3 +1,15 @@
 # Article 6
 
-Si la situation sanitaire de tout ou partie du département l'exige, le préfet, sur proposition du directeur des services vétérinaires et après accord des partenaires intéressés et de la direction générale de l'alimentation, peut prendre toutes dispositions complémentaires aux mesures définies dans le présent arrêté afin de rendre plus efficiente la prophylaxie de la brucellose bovine sur le territoire concerné.
+Le préfet, sur proposition du directeur départemental des services vétérinaires et après avis de la commission départementale des prophylaxies et accord du ministre chargé de l'agriculture (sous-direction de la santé et de la protection animales), peut prendre toutes dispositions complémentaires aux mesures définies dans le présent arrêté afin de rendre plus efficiente la protection des élevages et de la santé publique à l'égard de la brucellose. Il prescrit notamment des mesures renforcées de surveillance des cheptels présentant un taux de rotation annuel (défini par le rapport entre le nombre de bovins introduits hors naissance sur l'effectif moyen du cheptel) supérieur à 40 %, des cheptels dont le lait est livré au consommateur à l'état cru ou sous forme de produit au lait cru et des cheptels présentant un risque sanitaire particulier.
+
+Sont susceptibles de présenter un risque sanitaire particulier à l'égard de la brucellose :
+
+- les cheptels ayant retrouvé leur qualification après avoir été reconnus atteints de brucellose ;
+
+- les cheptels pour lesquels un lien épidémiologique à risque a été constaté avec un animal ou un troupeau atteint de brucellose ;
+
+- les cheptels pour lesquels un lien épidémiologique à risque est constaté avec un foyer confirmé de brucellose dans la faune sauvage ;
+
+- les cheptels pour lesquels il est établi que des dispositions réglementaires relatives à l'identification et/ou à la circulation des animaux et/ou aux conditions de maintien de la qualification officiellement indemne de brucellose n'ont pas été respectées ;
+
+- les cheptels pour lesquels le directeur départemental des services vétérinaires a constaté un défaut important de maîtrise des risques sanitaires suite à la visite annuelle obligatoire des élevages bovins.

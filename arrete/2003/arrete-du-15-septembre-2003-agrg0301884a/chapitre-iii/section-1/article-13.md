@@ -6,9 +6,9 @@ I. - Le troupeau bovin d'une exploitation obtient la qualification "officielleme
 
 2° Tous les bovins âgés de plus de six semaines présents dans le troupeau ont été soumis avec résultats négatifs à deux intradermotuberculinations simples utilisant de la tuberculine bovine normale ou à deux intradermotuberculinations comparatives pratiquées de six mois à un an d'intervalle.
 
-Toutefois, lors d'une création de troupeau par introduction d'animaux originaires de troupeaux officiellement indemnes, la qualification officiellement indemne est acquise après réalisation du contrôle prévu au 3° ci-dessous et d'une intradermotuberculination simple ou comparative de tous les bovins âgés de plus de six semaines, pratiquée dans un délai de deux à quatre mois après le regroupement ;
+Toutefois, lors d'une création de troupeau par introduction d'animaux originaires de troupeaux officiellement indemnes, la qualification "officiellement indemne" est acquise après réalisation du contrôle prévu au 3° ci-dessous et d'une intradermotuberculination simple ou comparative de tous les bovins âgés de plus de six semaines, pratiquée dans un délai de deux à quatre mois après le regroupement ;
 
-3° Depuis le premier examen mentionné au 2° ci-dessus, tout bovin de plus de six semaines introduit dans le troupeau provient directement d'un troupeau officiellement indemne de tuberculose, est isolé avant son introduction dans le troupeau et est soumis dans les quinze jours précédant ou suivant la livraison, avec résultat négatif, à une intradermotuberculination simple ou à une intradermotuberculination comparative ;
+3° Depuis le premier examen mentionné au 2° ci-dessus, tout bovin de plus de six semaines introduit dans le troupeau qui provient directement d'un troupeau officiellement indemne de tuberculose est isolé avant son introduction dans le troupeau et est soumis dans les quinze jours précédant son départ de l'exploitation d'origine ou suivant la livraison, avec résultat négatif, à un test de dépistage par intradermotuberculination simple ou comparative ;
 
 4° Les animaux des autres espèces sensibles infectés de tuberculose ou de statut sanitaire inconnu sont détenus de façon distincte du troupeau bovin.
 
