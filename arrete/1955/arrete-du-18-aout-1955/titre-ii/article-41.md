@@ -2,6 +2,8 @@
 
 A l'exclusion des remorques et des semi-remorques dont le poids total autorisé en charge est au plus égal à 1,5 tonne et des appareils remorqués dont le poids total autorisé en charge est au plus égal à 3 tonnes et qui sont dispensés d'installation de freinage, les véhicules définis à l'article 40 ci-dessus doivent être équipés d'une installation de freinage permettant d'arrêter les véhicules ou l'ensemble de véhicules sur la distance d'arrêt indiquée à l'article 46 ci-après et de maintenir à l'arrêt, même en l'absence du conducteur ou de toute personne sur une route sèche donnant de bonnes conditions d'adhérence le véhicule isolé, à son poids total autorisé en charge, sur une déclivité ascendante ou descendante de 18 %.
 
+A compter du 1er mars 2006, la dispense d'installation de freinage visée à l'alinéa précédent ne s'applique pas aux nouveaux types de véhicules remorqués dont la somme des masses techniquement admissibles par essieu est supérieure à celle correspondant à la définition des catégories R1 et S1 figurant à l'annexe II de la directive 2003/37/CE modifiée.
+
 Par ailleurs l'installation de freinage des véhicules tracteurs devra permettre de maintenir à l'arrêt, même en l'absence du conducteur ou de toute autre personne, sur une route sèche donnant de bonnes conditions d'adhérence, l'ensemble à son poids total roulant autorisé sur une déclivité ascendante ou descendante de 12 %, la boîte de vitesses du véhicule tracteur étant au point mort.
 
 Les freins doivent être maintenus en position de parcage par un dispositif à action purement mécanique.
