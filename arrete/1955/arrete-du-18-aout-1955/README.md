@@ -5,4 +5,3 @@
 - [Titre III : Dispositions applicables aux machines agricoles automotrices réceptionnées pour une vitesse maximale de 40 km/h](titre-iii)
 - [Titre III bis : Dispositions applicables aux véhicules agricoles remorqués réceptionnés pour une vitesse maximale de 40 km/h.](titre-iii-bis)
 - [Titre IV : Dispositions transitoires et diverses. – Délais d’application](titre-iv)
-- [Annexes](annexes)
