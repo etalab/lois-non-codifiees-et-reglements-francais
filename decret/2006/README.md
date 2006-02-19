@@ -146,6 +146,7 @@
 - [Décret n°2006-178 du 17 février 2006 (AGRG0600018D)](decret-n2006-178-du-17-fevrier-2006-agrg0600018d)
 - [Décret n°2006-179 du 17 février 2006 (AGRG0600019D)](decret-n2006-179-du-17-fevrier-2006-agrg0600019d)
 - [Décret n°2006-180 du 17 février 2006 (AGRG0600020D)](decret-n2006-180-du-17-fevrier-2006-agrg0600020d)
+- [Décret n°2006-181 du 17 février 2006 (SANA0620270D)](decret-n2006-181-du-17-fevrier-2006-sana0620270d)
 - [Décret n°2006-52 du 17 janvier 2006 (INTX0609024D)](decret-n2006-52-du-17-janvier-2006-intx0609024d)
 - [Décret n°2006-55 du 17 janvier 2006 (SOCT0512574D)](decret-n2006-55-du-17-janvier-2006-soct0512574d)
 - [Décret n°2006-65 du 17 janvier 2006 (ECOC0500137D)](decret-n2006-65-du-17-janvier-2006-ecoc0500137d)
