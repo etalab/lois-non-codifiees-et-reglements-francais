@@ -390,7 +390,6 @@
 - [Arrêté du 12 février 1996 (MENU9600460A)](arrete-du-12-fevrier-1996-menu9600460a)
 - [Arrêté du 12 février 1996 (MIPP9600063A)](arrete-du-12-fevrier-1996-mipp9600063a)
 - [Arrêté du 12 février 1996 (MIPP9600064A)](arrete-du-12-fevrier-1996-mipp9600064a)
-- [Arrêté du 12 février 1996 (MIPP9600066A)](arrete-du-12-fevrier-1996-mipp9600066a)
 - [Arrêté du 12 février 1996 (MIPP9600105A)](arrete-du-12-fevrier-1996-mipp9600105a)
 - [Arrêté du 12 janvier 1996 (DEFT9601063A)](arrete-du-12-janvier-1996-deft9601063a)
 - [Arrêté du 12 janvier 1996 (DEFT9601064A)](arrete-du-12-janvier-1996-deft9601064a)
