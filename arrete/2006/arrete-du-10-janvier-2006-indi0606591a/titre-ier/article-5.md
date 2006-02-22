@@ -1,0 +1,3 @@
+# Article 5
+
+Un instrument en service portant la référence d'un certificat d'examen de type ou décision de portée équivalente et revêtu d'une marque de vérification primitive attestant qu'il a subi avec succès la vérification primitive des instruments neufs, initialement utilisé pour un usage non réglementé, peut être utilisé pour l'une des opérations mentionnées à l'article 1er du décret du 3 mai 2001 susvisé sous réserve qu'il ait préalablement subi un ajustage et satisfait aux épreuves de la vérification primitive des instruments réparés prévues au titre V du présent arrêté et, pour les totalisateurs continus, les totalisateurs discontinus, les ponts-bascules ferroviaires automatiques et les ponts-bascules routiers automatiques, à la vérification de son installation.
