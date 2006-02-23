@@ -2,20 +2,30 @@
 
 La Cité de la musique est administrée par un conseil d'administration qui comprend :
 
-1. Cinq membres de droit :
+1° Cinq représentants de l'Etat nommés par décret :
 
-- le directeur de la musique et de la danse, le directeur des musées de France et le directeur de l'administration générale au ministère chargé de la culture, ou leur représentant ;
+a) Le directeur de la musique, de la danse, du théâtre et des spectacles au ministère chargé de la culture ou son représentant ;
 
-- le directeur du budget au ministère chargé du budget ou son représentant ;
+b) Le directeur des musées de France au ministère chargé de la culture ou son représentant ;
 
-- le directeur du Conservatoire national supérieur de musique et de danse de Paris ;
+c) Le directeur de l'administration générale au ministère chargé de la culture ou son représentant ;
 
-2. Un conseiller de Paris et un conseiller du conseil régional de la région d'Ile-de-France, nommés par arrêté du ministre chargé de la culture sur proposition de chacun de ces conseils ;
+d) Le directeur du budget au ministère chargé du budget ou son représentant ;
 
-3. Cinq personnalités qualifiées du monde musical ou muséographique nommées par arrêté du ministre chargé de la culture ;
+e) Le directeur du Conservatoire national supérieur de musique et de danse de Paris.
 
-4. Six représentants élus des salariés.
+2° Sept personnalités nommées par décret :
 
-Les représentants des salariés sont élus dans les conditions prévues au chapitre II du titre II de la loi du 26 juillet 1983 susvisée ; leur statut est celui que définit le chapitre III de ce titre.
+a) Un représentant de la ville de Paris ;
 
-Le mandat des membres appartenant aux catégories 2, 3 et 4 ci-dessus est fixé à trois ans. Il est renouvelable. En cas de vacance, pour quelque cause que ce soit, survenant plus de trois mois avant l'expiration du mandat, un autre membre est désigné dans les mêmes conditions. Son mandat prend fin à la date où le titulaire initial a été soumis à renouvellement.
+b) Un représentant de la région Ile-de-France ;
+
+c) Cinq personnalités choisies en raison de leur compétence dans le domaine d'activité de l'établissement, sur proposition du ministre chargé de la culture.
+
+3° Six représentants élus des salariés.
+
+Les représentants des salariés sont élus dans les conditions prévues au chapitre II du titre II de la loi du 26 juillet 1983 susvisée ; leur statut est celui que définit le chapitre III de ce titre. Six suppléants sont élus dans les mêmes conditions que les titulaires.
+
+Le mandat des membres est fixé à cinq ans.
+
+Toute vacance, pour quelque cause que ce soit, ou perte de la qualité au titre de laquelle les membres du conseil ont été désignés donne lieu à remplacement pour la durée du mandat restant à courir, si cette durée est supérieure à trois mois.

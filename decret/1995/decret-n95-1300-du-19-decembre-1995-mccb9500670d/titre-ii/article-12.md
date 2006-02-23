@@ -14,7 +14,7 @@ Le directeur général :
 
 6° Prépare et signe les accords d'entreprise, et veille à leur bonne application ;
 
-7° Assure la gestion de l'établissement, engage et gère l'ensemble des personnels permanents et occasionnels de l'établissement, sur proposition du directeur du musée et du directeur des salles et de la production, chacun pour ce qui le concerne ;
+7° Assure la gestion de l'établissement, engage et gère l'ensemble des personnels permanents et occasionnels de l'établissement, sur proposition du directeur du musée pour ce qui le concerne ;
 
 8° Représente l'établissement en justice et dans tous les actes de la vie civile.
 
