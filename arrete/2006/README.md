@@ -30,6 +30,7 @@
 - [Arrêté du 8 novembre 2006 (JUSK0640240A)](arrete-du-8-novembre-2006-jusk0640240a)
 - [Arrêté du 9 décembre 2005 (SANA0524548A)](arrete-du-9-decembre-2005-sana0524548a)
 - [Arrêté du 9 février 2006 (AGRS0600328A)](arrete-du-9-fevrier-2006-agrs0600328a)
+- [Arrêté du 9 janvier 2006 (DEVO0650040A)](arrete-du-9-janvier-2006-devo0650040a)
 - [Arrêté du 9 janvier 2006 (EQUA0600141A)](arrete-du-9-janvier-2006-equa0600141a)
 - [Arrêté du 9 janvier 2006 (EQUA0600142A)](arrete-du-9-janvier-2006-equa0600142a)
 - [Arrêté du 9 janvier 2006 (EQUG0600121A)](arrete-du-9-janvier-2006-equg0600121a)
