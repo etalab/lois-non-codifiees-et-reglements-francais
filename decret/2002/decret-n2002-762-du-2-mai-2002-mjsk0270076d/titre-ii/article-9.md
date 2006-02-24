@@ -18,6 +18,6 @@ Relèvent de la compétence de la fédération :
 
 8° L'accession à la pratique du sport de haut niveau ;
 
-9° L'homologation des équipements sportifs ;
+9° Le classement des équipements sportifs ;
 
 10° L'exercice du pouvoir disciplinaire en appel.
