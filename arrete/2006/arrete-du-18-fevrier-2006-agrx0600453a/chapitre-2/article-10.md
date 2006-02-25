@@ -6,14 +6,16 @@ Mesures applicables aux oiseaux vivants et à leurs mouvements dans la zone de s
 
 a) Les exploitations détenant des oiseaux ainsi que tous les oiseaux présents dans ces exploitations font l'objet d'un recensement ;
 
-b) Toute entrée et sortie d'oiseaux en provenance ou à destination des exploitations mentionnées au a est interdite ;
+b) Les oiseaux doivent être maintenus dans des bâtiments fermés, sans possibilité de dérogation, dès lors que leur effectif est inférieur à cent individus ;
 
-c) Le transit d'oiseaux vivants à travers la zone de protection est interdit ;
+c) Toute personne entrant ou sortant du lieu de l'exploitation où sont détenus les oiseaux doit traverser un pédiluve contenant un produit désinfectant approprié ; l'accès à ce lieu doit être réservé aux seules personnes indispensables à la tenue de l'élevage ;
 
-d) Les rassemblements d'oiseaux tels que les foires, marchés et expositions sont interdits ;
+d) Toute entrée et sortie d'oiseaux en provenance ou à destination des exploitations mentionnées au a est interdite ;
 
-e) La chasse d'oiseaux sauvages est interdite.
+e) Les rassemblements d'oiseaux tels que les foires, marchés et expositions sont interdits ;
 
-2. Par dérogation au c du 1, le préfet, sur avis du directeur départemental des services vétérinaires, peut autoriser le transit d'oiseaux à travers la zone de protection dans le cas où ce transit emprunte exclusivement les grands axes routiers ou ferroviaires.
+f) La chasse d'oiseaux sauvages est interdite.
 
-3. Par dérogation au b  du 1, le préfet, sur avis du directeur départemental des services vétérinaires, peut autoriser les mouvements d'oiseaux vivants dans des conditions précisées par instruction du ministre chargé de l'agriculture.
+2. Par dérogation au d du 1, le préfet, sur avis du directeur départemental des services vétérinaires, peut autoriser les mouvements d'oiseaux vivants dans des conditions précisées par instruction du ministre chargé de l'agriculture.
+
+3. Le c n'est pas applicable lorsque le lieu où les oiseaux sont détenus en permanence est un local à usage d'habitation ou de bureau.
