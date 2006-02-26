@@ -16,119 +16,119 @@ Classe normale
 
 !-------------------------------------!
 
-!    A      !     B      !     C      !
+! A ! B ! C !
 
 !-----------!------------!------------!
 
-!    1      !  Classe    !            !
+! 1 ! Classe ! !
 
-!           !  normale   !            !
+! ! normale ! !
 
 !-----------!------------!------------!
 
-!           !            !    Sans    !
+! ! ! Sans !
 
 ! 3e échelon! 11e échelon! ancienneté !
 
 !-----------!------------!------------!
 
-!           !            ! Ancienneté !
+! ! ! Ancienneté !
 
-! 2e échelon! 10e échelon!  acquise   !
-
-!-----------!------------!------------!
-
-!           !            ! Ancienneté !
-
-!1er échelon!  9e échelon!  acquise   !
+! 2e échelon! 10e échelon! acquise !
 
 !-----------!------------!------------!
 
-!-------------------------------------!
+! ! ! Ancienneté !
 
-!    A      !     B      !     C      !
-
-!-----------!------------!------------!
-
-! Echelle 5 !   Classe   !            !
-
-!           !   normale  !            !
-
-!-----------!------------!------------!
-
-!           !            ! Ancienneté !
-
-!11e échelon! 10e échelon!  acquise   !
+!1er échelon! 9e échelon! acquise !
 
 !-----------!------------!------------!
 
 !-------------------------------------!
 
-!    A      !     B      !     C      !
+! A ! B ! C !
 
 !-----------!------------!------------!
 
-!    1      !  Classe    !            !
+! Echelle 5 ! Classe ! !
 
-!           !  normale   !            !
-
-!-----------!------------!------------!
-
-!           !            ! Ancienneté !
-
-! 6e échelon! 11e échelon!  acquise   !
+! ! normale ! !
 
 !-----------!------------!------------!
 
-!           !            !    Sans    !
+! ! ! Ancienneté !
+
+!11e échelon! 10e échelon! acquise !
+
+!-----------!------------!------------!
+
+!-------------------------------------!
+
+! A ! B ! C !
+
+!-----------!------------!------------!
+
+! 1 ! Classe ! !
+
+! ! normale ! !
+
+!-----------!------------!------------!
+
+! ! ! Ancienneté !
+
+! 6e échelon! 11e échelon! acquise !
+
+!-----------!------------!------------!
+
+! ! ! Sans !
 
 ! 5e échelon! 11e échelon! ancienneté !
 
 !-----------!------------!------------!
 
-!           !            ! Ancienneté !
+! ! ! Ancienneté !
 
-! 4e échelon!  9e échelon!  acquise   !
-
-!-----------!------------!------------!
-
-!           !            !    Sans    !
-
-! 3e échelon!  9e échelon! ancienneté !
+! 4e échelon! 9e échelon! acquise !
 
 !-----------!------------!------------!
 
-!           !            !    6/5     !
+! ! ! Sans !
 
-!           !            !d'ancienneté!
-
-! 2e échelon!  8e échelon!  acquise   !
+! 3e échelon! 9e échelon! ancienneté !
 
 !-----------!------------!------------!
 
-!           !            !    6/5     !
+! ! ! 6/5 !
 
-!           !            !d'ancienneté!
+! ! !d'ancienneté!
 
-!1er échelon!  7e échelon!  acquise   !
+! 2e échelon! 8e échelon! acquise !
+
+!-----------!------------!------------!
+
+! ! ! 6/5 !
+
+! ! !d'ancienneté!
+
+!1er échelon! 7e échelon! acquise !
 
 !-----------!------------!------------!
 
 !-------------------------------------!
 
-!    A      !     B      !     C      !
+! A ! B ! C !
 
 !-----------!------------!------------!
 
-! Echelle 5 !   Classe   !            !
+! Echelle 5 ! Classe ! !
 
-!           !   normale  !            !
+! ! normale ! !
 
 !-----------!------------!------------!
 
-!           !            ! Ancienneté !
+! ! ! Ancienneté !
 
-!11e échelon! 10e échelon!  acquise   !
+!11e échelon! 10e échelon! acquise !
 
 !-----------!------------!------------!
 
@@ -138,7 +138,7 @@ II. - Les fonctionnaires de catégories C et D ou de même niveau qui détiennen
 
 - huit douzièmes pour les douze premières années et sept douzièmes pour le surplus s'il s'agit d'un grade classé dans la catégorie C.
 
-L'ancienneté dans le grade d'origine correspond, dans la limite maximale de vingt-huit ans pour un grade de la catégorie D ou C, au temps nécessaire pour parvenir, sur la base des durées moyennes fixées par l'article 1er du décret du 21 décembre 1982 ou l'article 3 du décret du 30 novembre 1988 susvisés, à l'échelon occupé par l'intéressé, augmenté de l'ancienneté acquise dans cet échelon.
+L'ancienneté dans le grade d'origine correspond, dans la limite maximale de vingt-huit ans pour un grade de la catégorie D ou C, au temps nécessaire pour parvenir, sur la base des durées moyennes fixées par l'article 1er du décret du 21 décembre 1982 ou l'article 2 du décret du 24 février 2006 susvisés, à l'échelon occupé par l'intéressé, augmenté de l'ancienneté acquise dans cet échelon.
 
 III. - L'application des dispositions des I et II ci-dessus ne doit pas avoir pour effet de procurer aux intéressés une situation plus favorable, tant en ce qui concerne l'échelon de reclassement que l'ancienneté conservée, que celle qui aurait été la leur, compte tenu des durées moyennes d'avancement du corps considéré s'ils avaient été directement recrutés dans un corps de catégorie B.
 

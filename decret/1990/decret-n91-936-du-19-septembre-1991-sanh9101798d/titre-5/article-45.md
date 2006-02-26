@@ -1,5 +1,5 @@
 # Article 45
 
-Lorsqu'il existe plus d'un emploi à pourvoir soit par concours externe, soit par concours interne, un tiers au plus de ces emplois doivent être pourvus par concours externe.
+Les durées moyenne et minimale du temps passé dans les échelles prévues dans le décret du 24 février 2006 susvisé sont fixées dans les conditions précisées par ledit décret.
 
-Lorsqu'il n'existe qu'un emploi à pourvoir, cet emploi est indifféremment pourvu soit par concours externe, soit par concours interne.
+Les durées moyenne et minimale du temps passé dans les échelons des grades d'agent technique de coordination de 1re catégorie, d'agent technique de coordination de 2e catégorie, d'agent technique principal, de maître ouvrier principal, de blanchisseur maître ouvrier principal et de conducteur ambulancier chef sont égales respectivement à l'ancienneté moyenne et à l'ancienneté moyenne réduite du quart.

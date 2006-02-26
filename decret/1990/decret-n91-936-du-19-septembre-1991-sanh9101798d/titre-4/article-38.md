@@ -8,4 +8,4 @@ Dans la limite de l'ancienneté moyenne exigée pour une promotion à l'échelon
 
 Les fonctionnaires nommés alors qu'ils avaient atteint l'échelon le plus élevé de leur grade conservent leur ancienneté d'échelon dans les mêmes limites lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle résultant d'une élévation audit échelon.
 
-III. - Les candidats nommés dans les autres corps et grades visés à l'article 1er du présent décret sont classés dans ces corps et grades en application des dispositions du décret n° 88-1081 du 30 novembre 1988 susvisé.
+III. - Les candidats nommés dans les autres corps et grades visés à l'article 1er du présent décret sont classés dans ces corps et grades en application des dispositions du décret n° 2006-227 du 24 février 2006 susvisé.

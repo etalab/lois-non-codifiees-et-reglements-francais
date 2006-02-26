@@ -32,4 +32,4 @@ b) Les services accomplis dans un emploi de niveau inférieur sont retenus à ra
 
 Les dispositions du précédent alinéa ne peuvent avoir pour conséquence de placer les intéressés dans une situation plus favorable que celle qui résulterait d'un classement à un échelon comportant un traitement égal ou, à défaut, immédiatement supérieur à celui perçu dans l'ancien emploi avec conservation de l'ancienneté moyenne fixée pour le passage à l'échelon ou au grade supérieurs.
 
-IV. - Les agents qui étaient fonctionnaires avant leur nomination dans le corps des agents techniques spécialisés sont classés dans les conditions prévues par le décret du 30 novembre 1988 susvisé.
+IV. - Les agents qui étaient fonctionnaires avant leur nomination dans le corps des agents techniques spécialisés sont classés dans les conditions prévues par le décret du 24 février 2006 susvisé.
