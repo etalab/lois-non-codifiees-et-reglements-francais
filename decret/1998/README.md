@@ -683,7 +683,6 @@
 - [Décret n°98-56 du 23 janvier 1998 (MAEJ9830002D)](decret-n98-56-du-23-janvier-1998-maej9830002d)
 - [Décret n°98-57 du 23 janvier 1998 (MAEJ9830003D)](decret-n98-57-du-23-janvier-1998-maej9830003d)
 - [Décret n°98-626 du 23 juillet 1998 (MESH9821866D)](decret-n98-626-du-23-juillet-1998-mesh9821866d)
-- [Décret n°98-627 du 23 juillet 1998 (MESH9821869D)](decret-n98-627-du-23-juillet-1998-mesh9821869d)
 - [Décret n°98-632 du 23 juillet 1998 (JUSD9830077D)](decret-n98-632-du-23-juillet-1998-jusd9830077d)
 - [Décret n°98-633 du 23 juillet 1998 (MENX9800087D)](decret-n98-633-du-23-juillet-1998-menx9800087d)
 - [Décret n°98-634 du 23 juillet 1998 (MENX9800089D)](decret-n98-634-du-23-juillet-1998-menx9800089d)
