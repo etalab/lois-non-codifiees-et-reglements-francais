@@ -1,3 +1,11 @@
 # Article 38
 
-Le corps des agents techniques d'entretien comprend le grade d'agent technique d'entretien relevant de l'échelle 5 de rémunération prévue par le décret n° 88-1081 du 30 novembre 1988 susvisé et le grade d'agent technique d'entretien principal comptant trois échelons.
+Les agents techniques d'entretien sont recrutés :
+
+1° Par concours interne sur épreuves organisé dans chaque établissement par l'autorité investie du pouvoir de nomination et comportant des épreuves théoriques et pratiques ayant trait à l'hygiène et à la salubrité.
+
+Peuvent être admis à concourir les agents mentionnés à l'article 45 et comptant au moins trois ans de services effectifs dans le corps ainsi que les agents de service mortuaire et de désinfection.
+
+2° Par inscription sur une liste d'aptitude établie en application du 2° de l'article 35 de la loi du 9 janvier 1986 susvisée et dans la limite du tiers du nombre des titularisations prononcées au titre du présent article.
+
+Peuvent être inscrits sur cette liste les fonctionnaires hospitaliers appartenant à un corps classé dans la catégorie C comptant au moins neuf ans de services publics.
