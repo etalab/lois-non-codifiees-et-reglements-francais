@@ -1,6 +1,6 @@
 # Article 29
 
-Les standardistes sont recrutés pour pourvoir les emplois vacants au titre d'une année après inscription sur une liste d'aptitude dans chaque établissement par l'autorité investie du pouvoir de nomination. Aucune condition de titres ou de diplômes n'est exigée. Les candidats ne doivent pas être âgés de plus de cinquante-cinq ans au 1er janvier de l'année du recrutement, sans préjudice des dispositions légales relatives au recul des limites d'âge pour l'accès aux emplois publics.
+Les standardistes sont recrutés pour pourvoir les emplois vacants au titre d'une année après inscription sur une liste d'aptitude dans chaque établissement par l'autorité investie du pouvoir de nomination. Aucune condition de titres ou de diplômes n'est exigée.
 
 La sélection des candidats est confiée à une commission, composée d'au moins trois membres, dont un au moins est extérieur à l'établissement dans lequel les emplois sont à pourvoir. Les membres de cette commission sont nommés par l'autorité investie du pouvoir de nomination. Dans les centres hospitaliers universitaires et les centres hospitaliers régionaux, l'autorité investie du pouvoir de nomination peut décider de constituer plusieurs commissions.
 

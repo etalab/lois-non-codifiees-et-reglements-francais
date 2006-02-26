@@ -8,6 +8,6 @@ Par application des dispositions du c de l'article 32 de la loi du 9 janvier 198
 
 Les modalités de cette sélection, de cette formation et de cette validation sont fixées par arrêté du ministre chargé de la santé.
 
-3° A défaut, parmi les personnes âgées de quarante-cinq ans au plus ayant satisfait, après 1971, à l'examen de passage de première en deuxième année du diplôme d'Etat d'infirmier ou, après 1979, du diplôme d'infirmier de secteur psychiatrique ;
+3° A défaut, parmi les personnes ayant satisfait, après 1971, à l'examen de passage de première en deuxième année du diplôme d'Etat d'infirmier ou, après 1979, du diplôme d'infirmier de secteur psychiatrique ;
 
-4° Dans la limite des emplois qui ne pourront être pourvus au titre des dispositions des 1°, 2° et 3° ci-dessus, par concours sur titres ouverts aux candidats âgés de quarante-cinq ans au plus au 1er janvier de l'année du concours et titulaires de l'un des titres mentionnés au 1° ci-dessus.
+4° Dans la limite des emplois qui ne pourront être pourvus au titre des dispositions des 1°, 2° et 3° ci-dessus, par concours sur titres ouverts aux candidats titulaires de l'un des titres mentionnés au 1° ci-dessus.

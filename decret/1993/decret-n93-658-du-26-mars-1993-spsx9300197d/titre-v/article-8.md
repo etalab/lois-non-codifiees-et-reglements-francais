@@ -1,4 +1,4 @@
-# Article 11
+# Article 8
 
 Peuvent être détachés dans le corps des moniteurs d'atelier, à indice égal ou à défaut immédiatement supérieur, les fonctionnaires appartenant à un corps, cadre d'emplois ou emploi classé dans la même catégorie, titulaires du diplôme exigé pour le recrutement dans ce corps et exerçant des fonctions socio-éducatives équivalentes à celles des fonctionnaires du présent corps.
 

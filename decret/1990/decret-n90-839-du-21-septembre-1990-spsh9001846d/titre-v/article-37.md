@@ -10,7 +10,7 @@ Lorsque ce mode de classement n'apporte pas un gain indiciaire au moins égal à
 
 Le fonctionnaire nommé alors qu'il avait atteint l'échelon le plus élevé de son grade antérieur conserve l'ancienneté d'échelon acquise dans celui-ci dans les mêmes conditions et les mêmes limites lorsque l'augmentation de traitement consécutive à sa nomination est inférieure à celle que lui avait procurée son avancement audit échelon.
 
-2° En ce qui concerne les autres corps mentionnés à l'article 1er ci-dessus, ceux de ces agents qui étaient titulaires sont classés dans les conditions prévues au décret n° 88-1081 du 30 novembre 1988 susvisé.
+2° En ce qui concerne les corps de catégorie C mentionnés à l'article 1er ci-dessus, les agents sont classés selon les dispositions prévues par le décret n° 2006-227 du 24 février 2006 relatif à l'organisation des carrières des fonctionnaires hospitaliers de catégorie C.
 
 3° Les agents nommés dans les corps d'adjoints des cadres hospitaliers ou de secrétaires médicaux à la suite d'un concours et qui ont eu auparavant la qualité d'agent non titulaire sont classés, lors de leur titularisation, dans le grade de début à un échelon déterminé en prenant en compte, sur la base des durées moyennes fixées pour chaque avancement d'échelon, une fraction de l'ancienneté totale acquise à la date de leur nomination comme stagiaire dans les conditions suivantes :
 

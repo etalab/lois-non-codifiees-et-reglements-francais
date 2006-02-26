@@ -1,6 +1,6 @@
 # Article 28
 
-Les conducteurs d'automobile de 2e catégorie sont recrutés :
+Les conducteurs d'automobile de 1re catégorie sont recrutés :
 
 1° Par concours sur titres, organisé dans chaque établissement par l'autorité investie du pouvoir de nomination et ouvert aux candidats titulaires à la fois des permis de conduire suivants ;
 

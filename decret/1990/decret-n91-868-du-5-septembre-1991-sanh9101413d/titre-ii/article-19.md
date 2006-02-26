@@ -20,14 +20,10 @@ Un délai d'un mois à compter de la date de la publication au Journal officiel 
 
 III. - Des arrêtés du ministre chargé de la santé fixent la composition des jurys, les programmes, la nature des épreuves et les modalités d'organisation de ces concours et examens professionnels.
 
-IV. - Les concours externes prévus au présent décret sont ouverts aux candidats âgés de quarante-cinq ans au plus au 1er janvier de l'année du concours.
+IV. - Les durées de services ou de fonctions exigées sont appréciées au 31 décembre de l'année précédant le concours ou l'examen professionnel.
 
-La limite d'âge est supprimée ou reculée conformément aux dispositions législatives ou réglementaires en vigueur.
+V. - Le nombre des personnes inscrites sur la liste complémentaire d'un concours ne peut excéder le nombre des emplois à pourvoir par ce concours.
 
-V. - Les durées de services ou de fonctions exigées sont appréciées au 31 décembre de l'année précédant le concours ou l'examen professionnel.
-
-VI. - Le nombre des personnes inscrites sur la liste complémentaire d'un concours ne peut excéder le nombre des emplois à pourvoir par ce concours.
-
-VII. - Lorsqu'il existe plus d'un emploi à pourvoir par concours, la moitié au moins de ces emplois doit être pourvue en application des dispositions du b du 1° des articles 5, 6, et 17 ci-dessus.
+VI. - Lorsqu'il existe plus d'un emploi à pourvoir par concours, la moitié au moins de ces emplois doit être pourvue en application des dispositions du b du 1° des articles 5, 6, et 17 ci-dessus.
 
 Lorsqu'il n'existe qu'un emploi à pourvoir, cet emploi est indifféremment pourvu soit en application du a ou du b des articles 5, 6, 12 et 17 ci-dessus, soit en application du c de l'article 12.

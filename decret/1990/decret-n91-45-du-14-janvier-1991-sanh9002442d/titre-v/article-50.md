@@ -1,5 +1,5 @@
 # Article 50
 
-Les concours externes prévus au présent décret sont ouverts aux candidats âgés de quarante-cinq ans au plus au 1er janvier de l'année du concours.
+La durée du stage prévu à l'article 37 de la loi du 9 janvier 1986 susvisée, auquel sont astreints les agents nommés dans les corps régis par le présent décret, est fixée à douze mois. Elle peut être prolongée à titre exceptionnel d'une durée qui ne peut être supérieure à une année par l'autorité ayant pouvoir de nomination. Cette autorité prononce à l'issue du stage la titularisation.
 
-La limite d'âge est supprimée ou reculée conformément aux dispositions législatives ou réglementaires en vigueur.
+Le nombre de promotions dans le grade d'agent d'entretien qualifié est calculé chaque année, dans chaque établissement, dans les conditions fixées à l'article 1er du décret n° 2002-782 du 3 mai 2002.

@@ -1,3 +1,5 @@
 # Article 63
 
-Les manoeuvres sont constitués en cadre d'extinction auquel s'appliquent les dispositions du décret n° 88-1081 du 30 novembre 1988 susvisé. A compter du 1er août 1993, ils relèvent de l'échelle 2 de rémunération prévue par ledit décret.
+A compter de la date de publication du présent décret, les agents chefs de 1re et de 2e catégorie sont respectivement reclassés dans les grades d'agent chef de 1re et de 2e catégorie à égalité d'échelon, avec maintien de l'ancienneté acquise dans cet échelon.
+
+Les pensions des fonctionnaires retraités avant l'intervention des dispositions qui précèdent ainsi que de leurs ayants cause sont révisées à compter de leur application aux personnels en activité.
