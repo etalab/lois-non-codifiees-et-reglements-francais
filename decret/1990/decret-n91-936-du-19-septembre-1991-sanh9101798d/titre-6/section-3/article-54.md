@@ -1,4 +1,4 @@
-# Article 55
+# Article 54
 
 Pour la constitution initiale du corps des conducteurs ambulanciers, sont intégrés :
 

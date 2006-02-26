@@ -1,9 +1,5 @@
 # Article 58
 
-A titre transitoire jusqu'au 31 juillet 1996, la proportion du nombre d'emplois des maîtres ouvriers principaux, des blanchisseurs maîtres ouvriers principaux, des conducteurs ambulanciers chefs, par rapport à l'effectif total des corps respectifs, est fixée ainsi qu'il suit :
+Les opérations de recrutement par voie de concours ou d'examen pour lesquelles l'ouverture du concours ou de l'examen aura été publiée avant la publication du présent décret, organisées en application des dispositions précédemment en vigueur, seront poursuivies jusqu'à leur terme conformément à ces dispositions.
 
-- à compter du 1er août 1990 : 2,5 p. 100 ;
-
-- à compter du 1er août 1993 : 5 p. 100 ;
-
-- à compter du 1er août 1995 : 7,5 p. 100.
+Il est de même donné suite aux tableaux d'avancement établis avant la publication du présent décret.

@@ -1,5 +1,3 @@
 # Article 59
 
-Les opérations de recrutement par voie de concours ou d'examen pour lesquelles l'ouverture du concours ou de l'examen aura été publiée avant la publication du présent décret, organisées en application des dispositions précédemment en vigueur, seront poursuivies jusqu'à leur terme conformément à ces dispositions.
-
-Il est de même donné suite aux tableaux d'avancement établis avant la publication du présent décret.
+Pour l'application de l'article 16 ter du décret du 9 septembre 1965 susvisé, les assimilations prévues pour fixer les indices de traitement mentionnés à l'article 6 dudit décret sont effectuées conformément aux dispositions des articles 49 à 51, 54 et 55.
