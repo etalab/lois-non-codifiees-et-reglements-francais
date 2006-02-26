@@ -1,11 +1,9 @@
 # Article 39
 
-Les agents techniques d'entretien sont recrutés :
+Les agents techniques d'entretien comptant au moins deux ans d'ancienneté dans le 8e échelon de leur grade peuvent être promus au grade d'agent technique d'entretien principal dans les conditions prévues au 1° de l'article 69 de la loi du 9 janvier 1986 susvisée.
 
-1° Par concours interne sur épreuves organisé dans chaque établissement par l'autorité investie du pouvoir de nomination et comportant des épreuves théoriques et pratiques ayant trait à l'hygiène et à la salubrité.
+Les agents techniques d'entretien promus au grade d'agent technique d'entretien principal sont reclassés dans ce grade conformément au tableau ci-dessous :
 
-Peuvent être admis à concourir les agents mentionnés à l'article 50 et comptant au moins trois ans de services effectifs dans le corps ainsi que les agents de service mortuaire et de désinfection.
+Tableau non reproduit, consulter le fac-similé
 
-2° Par inscription sur une liste d'aptitude établie en application du 2° de l'article 35 de la loi du 9 janvier 1986 susvisée et dans la limite du tiers du nombre des titularisations prononcées au titre du présent article.
-
-Peuvent être inscrits sur cette liste les fonctionnaires hospitaliers appartenant à un corps classé dans la catégorie C comptant au moins neuf ans de services publics.
+L'effectif des agents techniques d'entretien principaux dans un établissement ne peut excéder 15 % de l'effectif total du corps de l'établissement. Une nomination peut être prononcée dans ce grade lorsque le résultat de l'application de ce pourcentage est inférieur à un et qu'il n'existe aucun titulaire de ce grade dans l'établissement.
