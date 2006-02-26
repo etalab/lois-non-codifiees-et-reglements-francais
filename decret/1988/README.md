@@ -236,7 +236,6 @@
 - [Décret n°88-866 du 29 juillet 1988 (AGRG8801170D)](decret-n88-866-du-29-juillet-1988-agrg8801170d)
 - [Décret n°88-871 du 29 juillet 1988 (MAEA8820142D)](decret-n88-871-du-29-juillet-1988-maea8820142d)
 - [Décret n°88-1077 du 30 novembre 1988 (SPSX8810021D)](decret-n88-1077-du-30-novembre-1988-spsx8810021d)
-- [Décret n°88-1081 du 30 novembre 1988 (SPSX8810025D)](decret-n88-1081-du-30-novembre-1988-spsx8810025d)
 - [Décret n°88-1083 du 30 novembre 1988 (SPSX8810027D)](decret-n88-1083-du-30-novembre-1988-spsx8810027d)
 - [Décret n°88-1084 du 30 novembre 1988 (SPSX8810028D)](decret-n88-1084-du-30-novembre-1988-spsx8810028d)
 - [Décret n°88-1085 du 30 novembre 1988 (SPSX8810029D)](decret-n88-1085-du-30-novembre-1988-spsx8810029d)
