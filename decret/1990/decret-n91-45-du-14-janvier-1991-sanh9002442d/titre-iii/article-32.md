@@ -1,7 +1,3 @@
 # Article 32
 
-Les conducteurs ambulanciers sont chargés d'assurer le transport des malades et blessés et la conduite des véhicules affectés à cet usage.
-
-Ils participent, le cas échéant, à l'activité des services mobiles d'urgence et de réanimation.
-
-Les conducteurs ambulanciers de 1re catégorie sont en outre chargés des fonctions de coordination.
+Le corps des conducteurs ambulanciers comprend le grade de conducteur ambulancier de 2e catégorie et le grade de conducteur ambulancier de 1re catégorie classés respectivement dans les échelles 4 et 5 de rémunération prévues par le décret n° 2006-227 du 24 février 2006 susvisé, et le grade de conducteur ambulancier hors catégorie comptant trois échelons.

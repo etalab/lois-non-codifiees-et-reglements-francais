@@ -121,6 +121,7 @@
 - [Arrêté du 26 décembre 2006 (JUSG0660104A)](arrete-du-26-decembre-2006-jusg0660104a)
 - [Arrêté du 26 janvier 2006 (BUDB0610009A)](arrete-du-26-janvier-2006-budb0610009a)
 - [Arrêté du 26 janvier 2006 (BUDB0610010A)](arrete-du-26-janvier-2006-budb0610010a)
+- [Arrêté du 26 janvier 2006 (SANP0620487A)](arrete-du-26-janvier-2006-sanp0620487a)
 - [Arrêté du 26 janvier 2006 (SOCA0524391A)](arrete-du-26-janvier-2006-soca0524391a)
 - [Arrêté du 26 septembre 2005 (INTC0500607A)](arrete-du-26-septembre-2005-intc0500607a)
 - [Arrêté du 27 décembre 2005 (ECOP0500975A)](arrete-du-27-decembre-2005-ecop0500975a)

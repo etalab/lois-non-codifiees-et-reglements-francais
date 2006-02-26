@@ -1,7 +1,3 @@
 # Article 37
 
-Les agents techniques d'entretien assurent l'encadrement des personnels d'entretien et de salubrité placés sous leur autorité.
-
-Ils sont chargés de la bonne exécution des travaux confiés à un groupe d'agents en vue d'assurer l'hygiène et la salubrité.
-
-Ils participent, le cas échéant, à la formation des personnels d'entretien et de salubrité.
+Le corps des agents techniques d'entretien comprend le grade d'agent technique d'entretien relevant de l'échelle 5 de rémunération prévue par le décret n° 2006-227 du 24 février 2006 susvisé et le grade d'agent technique d'entretien principal comptant trois échelons.
