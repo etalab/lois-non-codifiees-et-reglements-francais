@@ -1,5 +1,5 @@
 # Article O 18
 
-Petits appareils
+Appareils installés dans les chambres
 
-A l'intérieur des chambres, les appareils à combustible solide, liquide (ou à alcool solidifié) et gazeux sont interdits. Seuls sont autorisés dans les chambres, les appareils électriques de cuisson d'une puissance inférieure à 3,5 kW.
+Seuls les appareils électriques dont la puissance totale est au plus égale à 3,5 kW sont autorisés.

@@ -6,15 +6,15 @@ Isolement des salles
 
 - ces parois sont réalisées en matériaux incombustibles ;
 
-- le hall ne communique pas directement avec les dégagements normaux des locaux situés en étage, ou bien la cuisine est isolée de la salle de restauration conformément aux dispositions des articles GC 12 à GC 14.
+- le hall ne communique pas directement avec les dégagements normaux des locaux situés en étage ou bien la cuisine est isolée de la salle de restauration conformément aux dispositions de l'article GC 9.
 
 Dans tous les cas, une retombée de 0,50 mètre au moins, formant écran de cantonnement, doit séparer les salles du hall.
 
 § 2. Une zone de restauration peut être implantée dans un magasin de vente.
 
-En dérogation aux dispositions de l'article CO 28 (§ 2), les salles visées à l'article GC 15 (§ 3) peuvent ne pas être isolées des surfaces de vente si une installation fixe d'extinction automatique à eau couvre l'ensemble de l'établissement.
+En dérogation aux dispositions de l'article CO 28 (§ 2), les salles associées à une cuisine ouverte visées à l'article GC 9 (§ 2) ou à des îlots de cuisson visés à l'article GC 16 peuvent ne pas être isolées des surfaces de vente si une installation fixe d'extinction automatique à eau couvre l'ensemble de l'établissement.
 
-§ 3. En dérogation aux dispositions de l'article CO 28 (§ 2), les salles visées à l'article GC 15 (§ 3) sont autorisées dans les centres commerciaux si les conditions suivantes sont simultanément remplies :
+§ 3. En dérogation aux dispositions de l'article CO 28 (§ 2), les salles associées à une cuisine ouverte visées à l'article GC 9 (§ 2) ou à des îlots de cuisson visés à l'article GC 16 sont autorisées dans les centres commerciaux si les conditions suivantes sont simultanément remplies :
 
 - la paroi éventuelle séparant la salle du mail est incombustible ;
 

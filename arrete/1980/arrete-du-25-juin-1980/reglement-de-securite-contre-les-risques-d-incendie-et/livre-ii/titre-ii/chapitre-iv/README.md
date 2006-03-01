@@ -9,6 +9,6 @@ Hôtels et pensions de famille.
 - [Section VI : Chauffage](section-vi)
 - [Section VII : Installations au gaz](section-vii)
 - [Section VIII : Eclairage](section-viii)
-- [Section IX : Appareils de cuisson](section-ix)
+- [Section IX : Appareils de cuisson et appareils de remise en température](section-ix)
 - [Section X : Moyens de secours et consignes](section-x)
 - [ANNEXE](annexe)
