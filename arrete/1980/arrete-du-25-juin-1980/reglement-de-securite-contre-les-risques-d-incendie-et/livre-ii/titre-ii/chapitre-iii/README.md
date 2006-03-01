@@ -8,5 +8,4 @@ Restaurants et débits de boissons
 - [Section 5 : Chauffage](section-5)
 - [Section 7 : Eclairage](section-7)
 - [Section 8 : Appareils de cuisson et de remise en température](section-8)
-- [Section VIII : Appareils de cuisson](section-viii)
 - [Section 9 : Moyens de secours et consignes](section-9)
