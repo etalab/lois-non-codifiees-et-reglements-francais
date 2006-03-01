@@ -1,17 +1,35 @@
 # Article PE 18
 
-Petits appareils installés dans les salles accessibles au public
+Ilots de cuisson installés dans les salles
 
-§ 1. L'utilisation d'appareils de cuisson électrique ou à gaz dont la puissance nominale est inférieure à 20kW est autorisée dans les locaux accessibles au public s'ils répondent aux conditions suivantes :
+§ 1. Un îlot de cuisson est constitué d'une enceinte à l'intérieur de laquelle le public ne pénètre pas. Un personnel de service doit être présent pendant le fonctionnement des appareils.
 
-- les appareils de cuisson électriques doivent être fixes, au sens de la norme relative aux appareils électriques de grande cuisine (6) ;
+Les appareils ne doivent pas être en libre utilisation.
 
-- les appareils de cuisson utilisant un combustible gazeux doivent être installés à poste fixe.
+Seuls le gaz combustible et l'énergie électrique sont autorisés pour alimenter en énergie les appareils.
 
-§ 2. En ce qui concerne les petits appareils mobiles, seuls sont autorisés :
+§ 2. La puissance utile totale d'un îlot de cuisson ou de plusieurs îlots séparés par une distance inférieure à 5 mètres ne doit pas dépasser 70 kW.
 
-- les appareils électriques ou à gaz de puissance utile au plus égale à 3,5 kW ;
+§ 3. Chaque îlot de cuisson doit comporter un dispositif de captation des buées et des graisses.
 
-- les appareils à flamme d'alcool sans pression de contenance au plus égale à 0,25 l ;
+L'extraction est toujours mécanique et l'installation présente les caractéristiques suivantes :
 
-- les appareils alimentés par des récipients de gaz d'un poids inférieur ou égal à 1 kg.
+- les hottes ou autres dispositifs de captation doivent être construits en matériaux M0 ou A2-s1, d0 ;
+
+- les conduits doivent être non poreux, construits en matériaux M0 ou A2-s1, d0, être stables au feu de degré 1/4 d'heure ou E 15 ;
+
+- à l'intérieur du bâtiment, les conduits doivent être installés dans une gaine rétablissant le degré coupe-feu des parois suivantes :
+
+- parois d'isolement entre niveaux ;
+
+- parois d'isolement des établissements tiers.
+
+- les hottes ou les dispositifs de captation doivent comporter des éléments permettant de retenir les graisses et pouvant être facilement nettoyés et remplacés ;
+
+- les ventilateurs d'extraction doivent pouvoir fonctionner pendant une demi-heure avec des gaz à 400 °C ;
+
+- les liaisons entre le ventilateur d'extraction et le conduit doivent être en matériaux classés M0 ou A2-s1, d0 ;
+
+- les canalisations électriques alimentant les ventilateurs ne doivent pas être affectées par un sinistre affectant l'îlot de cuisson.
+
+- la commande des ventilateurs assurant l'évacuation des buées et des graisses doit être correctement identifiée par une plaque indélébile et placée dans l'enceinte de l'îlot à un endroit facilement accessible par le personnel de service.

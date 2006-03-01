@@ -233,10 +233,10 @@ Si ces établissements comportent des locaux présentant des risques particulier
 <p>Etablissements avec locaux réservés au sommeil</p>
 </td>
 <td valign="top" width="67">
-<p align="center">-</p>
+<br/>
 </td>
 <td valign="top" width="68">
-<p align="center">-</p>
+<br/>
 </td>
 <td valign="top" width="68">
 <p align="center">30</p>
@@ -443,7 +443,7 @@ Si ces établissements comportent des locaux présentant des risques particulier
 <tr>
 <td colspan="5" valign="top" width="624">
 <p>(*) Ces activités sont interdites en sous-sol.</p>
-<p>(**) Si l'établissement ne comporte qu'un seul niveau situé en étage : 2</p>
+<p>(**) Si l'établissement ne comporte qu'un seul niveau situé en étage : 20</p>
 </td>
 </tr>
 </tbody>
