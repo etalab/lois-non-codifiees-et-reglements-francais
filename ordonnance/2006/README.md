@@ -1,5 +1,6 @@
 # 2006
 
+- [Ordonnance n° 2005-652 du 6 juin 2005 (MCCX0500082R)](ordonnance-n-2005-652-du-6-juin-2005-mccx0500082r)
 - [Ordonnance n° 2006-168 du 15 février 2006 (MENX0500311R)](ordonnance-n-2006-168-du-15-fevrier-2006-menx0500311r)
 - [Ordonnance n° 2006-172 du 15 février 2006 (DOMX0500314R)](ordonnance-n-2006-172-du-15-fevrier-2006-domx0500314r)
 - [Ordonnance n° 2006-173 du 15 février 2006 (DOMX0500315R)](ordonnance-n-2006-173-du-15-fevrier-2006-domx0500315r)
