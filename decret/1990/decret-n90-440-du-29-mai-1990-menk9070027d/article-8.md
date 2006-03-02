@@ -1,3 +1,0 @@
-# Article 8
-
-Les décisions définitives prises en matière disciplinaire par les organes compétents des fédérations sportives ainsi que les décisions prises dans ces mêmes matières par les organes de ces fédérations statuant en dernier ressort à l'égard d'une personne qui soit a contrevenu aux dispositions des premier et deuxième alinéas du I et du II de l'article 1er de la loi du 28 juin 1989, soit a refusé de se soumettre, soit s'est opposé ou a tenté de s'opposer aux enquêtes, contrôles, perquisitions et saisies prévus au titre III de la même loi, doivent dans les huit jours [*délai*] être notifiées au ministre chargé des sports et à la Commission nationale de lutte contre le dopage, par lettre recommandée avec demande d'avis de réception.
