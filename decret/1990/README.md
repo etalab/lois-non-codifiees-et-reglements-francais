@@ -649,7 +649,6 @@
 - [Décret n°90-555 du 29 juin 1990 (TEFE9003540D)](decret-n90-555-du-29-juin-1990-tefe9003540d)
 - [Décret n°90-774 du 29 août 1990 (SPSS9000162D)](decret-n90-774-du-29-aout-1990-spss9000162d)
 - [Décret n°90-966 du 29 octobre 1990 (MENT9002160D)](decret-n90-966-du-29-octobre-1990-ment9002160d)
-- [Décret n°90-440 du 29 mai 1990 (MENK9070027D)](decret-n90-440-du-29-mai-1990-menk9070027d)
 - [Décret n°90-442 du 29 mai 1990 (BUDB9050004D)](decret-n90-442-du-29-mai-1990-budb9050004d)
 - [Décret n°90-443 du 29 mai 1990 (BUDB9050005D)](decret-n90-443-du-29-mai-1990-budb9050005d)
 - [Décret n°90-447 du 29 mai 1990 (MAEJ9030036D)](decret-n90-447-du-29-mai-1990-maej9030036d)
