@@ -2,17 +2,13 @@
 
 Les services de la marine nationale sont :
 
-1° Le service de l'aéronautique navale ;
+1° Le service du commissariat de la marine ;
 
-2° Le service du commissariat de la marine ;
+2° Le service hydrographique et océanographique de la marine ;
 
-3° Le service hydrographique et océanographique de la marine ;
+3° Le service de soutien de la flotte ;
 
-4° Le service de soutien de la flotte ;
-
-5°(abrogé)
-
-6° Le service des systèmes d'information de la marine.
+4° Le service des systèmes d'information de la marine.
 
 Leurs attributions sont fixées par décret.
 
