@@ -1,0 +1,3 @@
+# Article 13
+
+Les délibérations du conseil d'administration sont exécutoires si, dans un délai de quinze jours suivant leur réception, le ministre chargé des sports n'a pas fait connaître d'observations. Toutefois, les délibérations portant sur les objets énumérés aux 4°, 5°, 6°, 7°, 10°, 13°, 14° et 15° de l'article 12 deviennent exécutoires un mois après leur réception par le ministre chargé des sports et le ministre chargé du budget si ceux-ci n'ont pas fait connaître d'observations dans ce délai ; les délibérations portant sur les objets mentionnés aux 9°, 11° et 12° deviennent exécutoires après approbation explicite conjointe du ministre chargé des sports et du ministre chargé du budget.

@@ -1,0 +1,5 @@
+# Article 5
+
+Il est attribué à chacune des épreuves une note de 0 à 20. Pour l'épreuve d'admissibilité, toute note inférieure à 5 sur 20, avant application du coefficient, est éliminatoire.
+
+Chaque note est multipliée par le coefficient prévu pour l'épreuve correspondante ; la somme des produits ainsi obtenus forme le total des points pour l'ensemble des épreuves.
