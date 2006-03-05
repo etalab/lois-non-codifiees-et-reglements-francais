@@ -26,7 +26,7 @@ Pour une oeuvre de référence déterminée, la somme portée au compte de la ou
 
 Lorsque sont réalisées simultanément deux oeuvres à partir d'éléments techniques et artistiques communs, l'une destinée à une première exploitation en salles de spectacle cinématographique, l'autre destinée à une première diffusion par un service de télévision, seule la différence de durée entre les deux oeuvres est prise en considération pour le calcul des sommes portées au compte des entreprises de production.
 
-Les sommes ainsi calculées sont majorées de 25 p. 100 lorsque les oeuvres audiovisuelles inscrites sur la liste des oeuvres de référence ont été réalisées intégralement ou principalement en version originale en langue française ou dans une langue régionale en usage en France et ont fait l'objet de dépenses de production intégralement effectuées en France.
+Les sommes ainsi calculées sont majorées de 25 p. 100 lorsque les oeuvres audiovisuelles inscrites sur la liste des oeuvres de référence ont été réalisées intégralement ou principalement en version originale en langue française ou dans une langue régionale en usage en France et ont fait l'objet, à hauteur de 80 %, de dépenses de production en France.
 
 Lorsque les oeuvres audiovisuelles inscrites sur la liste des oeuvres de référence sont constituées de documents audiovisuels préexistants, les sommes sont calculées en fonction notamment de la nature et de la durée de ces documents, de l'étendue et de la durée des droits y afférents, ainsi que de la vocation patrimoniale de ces oeuvres.
 

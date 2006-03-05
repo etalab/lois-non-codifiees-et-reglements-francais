@@ -24,4 +24,4 @@ III. - Lorsqu'une oeuvre est produite dans le cadre d'une coproduction internati
 
 Sauf disposition particulière prévue par un accord intergouvernemental, être financée par une participation française au moins égale à 30 % de son coût définitif.
 
-2° Faire l'objet de dépenses de production en France pour au moins 30 p. 100 de son coût définitif.
+2° Faire l'objet de dépenses de production en France pour au moins 24 p. 100 de son coût définitif.

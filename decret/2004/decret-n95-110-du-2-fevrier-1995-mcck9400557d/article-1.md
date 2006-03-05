@@ -48,13 +48,13 @@ Ces aides sont accordées en considération du caractère innovant des technique
 
 Les décisions relatives à l'octroi des aides sont prises par le directeur général du Centre national de la cinématographie après examen d'un dossier remis par l'entreprise de production. Pour l'analyse de la demande, le directeur général du Centre national de la cinématographie peut notamment faire appel à des experts spécialisés.
 
-Chaque aide accordée fait l'objet d'une convention conclue entre le Centre national de la cinématographie et l'entreprise bénéficiaire. Cette convention fixe notamment les modalités de versement de l'aide ainsi que les circonstances dans lesquelles celle-ci est sujette à répétition.
+Le montant de ces aides ne peut excéder 100 000 euros par entreprise sur trois ans conformément au règlement (CE) n° 69/2001 de la Commission du 12 janvier 2001 concernant l'application des articles 87 et 88 du traité CE aux aides de minimis.
 
 V. - A l'octroi d'aides dites de promotion
 
 Ces aides sont accordées aux entreprises de production et de distribution sous réserve qu'elles remplissent les conditions du paragraphe I de l'article 3 du présent décret.
 
-Elles concourent à la prise en charge de frais techniques supportés par les entreprises précitées en vue de la promotion à l'étranger des oeuvres audiovisuelles produites dans les conditions fixées au présent décret.
+Elles concourent à la prise en charge de frais supportés par les entreprises précitées en vue de la promotion à l'étranger des oeuvres audiovisuelles produites dans les conditions fixées au présent décret.
 
 Elles sont accordées, soit pour la promotion d'une oeuvre audiovisuelle déterminée, soit pour la promotion de plusieurs oeuvres audiovisuelles constituant un programme annuel.
 

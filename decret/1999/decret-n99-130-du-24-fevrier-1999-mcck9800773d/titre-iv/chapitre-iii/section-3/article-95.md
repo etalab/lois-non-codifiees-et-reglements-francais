@@ -1,3 +1,3 @@
 # Article 95
 
-Chaque subvention accordée fait l'objet d'une convention conclue entre le Centre national de la cinématographie et l'entreprise de production bénéficiaire. Cette convention fixe notamment les modalités de versement de la subvention ainsi que les circonstances dans lesquelles celle-ci est sujette à répétition.
+Le montant de ces subventions ne peut excéder 100 000 euros par entreprise sur trois ans conformément au règlement (CE) n° 69/2001 de la Commission du 12 janvier 2001 concernant l'application des articles 87 et 88 du traité CE aux aides de minimis.
