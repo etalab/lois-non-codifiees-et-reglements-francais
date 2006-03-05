@@ -1,6 +1,6 @@
 # Article 1
 
-Pour l'application des articles 119 à 122 du décret du 24 février 1999 susvisé, sont considérées comme dépenses de promotion à l'étranger d'une oeuvre cinématographique de longue durée :
+Pour l'application des articles 119 à 122 du décret du 24 février 1999 susvisé, sont considérées comme dépenses de promotion à l'étranger d'une oeuvre cinématographique de longue durée, notamment :
 
 1° Les dépenses de doublage ou de sous-titrage ;
 
