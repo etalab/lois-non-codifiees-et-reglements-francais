@@ -24,11 +24,11 @@ B. - Fonctions exercées au secrétariat général de la défense nationale
 
 4° Directeur adjoint et sous-directeur d'administration centrale.
 
-C. - Fonctions exercées au Commissariat général du Plan
+C. - Fonctions exercées au Centre d'analyse stratégique
 
-1° Commissaire au Plan.
+1° Directeur général du Centre d'analyse stratégique.
 
-2° Commissaire adjoint au Plan.
+2° Directeur général adjoint du Centre d'analyse stratégique.
 
 D. - Fonctions exercées à la Délégation interministérielle à l'aménagement et à la compétitivité des territoires
 

@@ -22,7 +22,7 @@ Le premier collège comprend les membres suivants, représentant l'Etat :
 
 - un directeur représentant le ministre chargé de la recherche ;
 
-- le commissaire au Plan ;
+- le directeur général du Centre d'analyse stratégique ;
 
 - le directeur général des stratégies industrielles ;
 

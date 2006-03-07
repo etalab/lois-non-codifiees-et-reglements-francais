@@ -6,7 +6,7 @@ Le conseil scientifique comprend :
 
 2° Quatre personnalités désignées, respectivement, sur proposition :
 
-- du commissaire au Plan ;
+- du directeur général du Centre d'analyse stratégique ;
 
 - du directeur général du Centre national de la recherche scientifique ;
 

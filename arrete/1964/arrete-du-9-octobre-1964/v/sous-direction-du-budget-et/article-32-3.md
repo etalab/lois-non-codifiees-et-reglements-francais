@@ -1,8 +1,10 @@
 # Article 32-3
 
-Le bureau de la prévision et des études économiques [*attributions*]     Conduit, en liaison avec les directions et organismes intéressés, les études prévisionnelles ;
+Le bureau de la prévision et des études économiques
 
-Prépare le Plan ; est le correspondant de la Chancellerie auprès du commissariat général du Plan ; assure le suivi de la régionalisation du Plan ; tient le secrétariat de la commission de la prévision du ministère ;
+Conduit, en liaison avec les directions et organismes intéressés, les études prévisionnelles ;
+
+Prépare le Plan ; est le correspondant de la Chancellerie auprès du Centre d'analyse stratégique ; assure le suivi de la régionalisation du Plan ; tient le secrétariat de la commission de la prévision du ministère ;
 
 Participe aux actions de modernisation de la gestion ;
 

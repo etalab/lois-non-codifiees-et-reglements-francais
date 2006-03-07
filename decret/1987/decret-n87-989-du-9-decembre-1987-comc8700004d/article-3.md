@@ -4,7 +4,7 @@ Sont membres de droit de la commission des comptes des services :
 
 Le gouverneur de la Banque de France ;
 
-Le commissaire au Plan ;
+Le directeur général du Centre d'analyse stratégique ;
 
 Le directeur général de l'Institut national de la statistique et des études économiques ;
 

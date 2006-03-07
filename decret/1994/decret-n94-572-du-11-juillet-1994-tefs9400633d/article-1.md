@@ -10,7 +10,7 @@ La commission *d'évaluation* prévue à l'article 82 de la loi quinquennale du 
 
 4. L'un des experts nommés par arrêté interministériel auprès du Comité national de coordination des programmes régionaux d'apprentissage et de formation professionnelle, désigné par le président de ce comité ;
 
-5. Le commissaire général au Plan ou son représentant ;
+5. Le directeur général du Centre d'analyse stratégique ou son représentant ;
 
 6. Le directeur de l'animation de la recherche, des études et des statistiques au ministère du travail, de l'emploi et de la formation professionnelle ou son représentant ;
 

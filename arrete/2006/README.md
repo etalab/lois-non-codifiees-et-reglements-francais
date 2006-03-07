@@ -20,6 +20,7 @@
 - [Arrêté du 5 janvier 2006 (JUSF0550142A)](arrete-du-5-janvier-2006-jusf0550142a)
 - [Arrêté du 5 janvier 2006 (JUSK0540170A)](arrete-du-5-janvier-2006-jusk0540170a)
 - [Arrêté du 5 janvier 2006 (RECR0500175A)](arrete-du-5-janvier-2006-recr0500175a)
+- [Arrêté du 5 octobre 1989 (PRMP8960007A)](arrete-du-5-octobre-1989-prmp8960007a)
 - [Arrêté du 5 mai 2006 (SANP0621983A)](arrete-du-5-mai-2006-sanp0621983a)
 - [Arrêté du 6 décembre 2006 (EQUA0602492A)](arrete-du-6-decembre-2006-equa0602492a)
 - [Arrêté du 6 février 2006 (AGRS0600124A)](arrete-du-6-fevrier-2006-agrs0600124a)

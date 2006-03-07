@@ -48,4 +48,4 @@ Au titre du ministère de l'environnement :
 
 - le directeur de la nature et des paysages.
 
-Le commissaire au Plan.
+Le directeur général du Centre d'analyse stratégique.

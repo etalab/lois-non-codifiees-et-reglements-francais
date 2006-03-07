@@ -8,7 +8,7 @@ a) Un membre de l'Assemblée nationale, un membre du Sénat et un membre du Cons
 
 b) Un représentant de chaque membre du Gouvernement ;
 
-c) Le directeur général de l'Institut national de la statistique et des études économiques, le commissaire au Plan, le gouverneur de la Banque de France, le délégué à l'aménagement du territoire et à l'action régionale, le directeur des affaires économiques, sociales et culturelles de l'outre-mer, le directeur de la recherche, le directeur général de la modernisation de l'Etat ou son représentant, le président du comité consultatif de la législation et de la réglementation financières ou leurs représentants ;
+c) Le directeur général de l'Institut national de la statistique et des études économiques, le directeur général du Centre d'analyse stratégique, le gouverneur de la Banque de France, le délégué à l'aménagement du territoire et à l'action régionale, le directeur des affaires économiques, sociales et culturelles de l'outre-mer, le directeur de la recherche, le directeur général de la modernisation de l'Etat ou son représentant, le président du comité consultatif de la législation et de la réglementation financières ou leurs représentants ;
 
 d) Un représentant de l'Assemblée permanente des chambres d'agriculture, un représentant de la Confédération nationale de la mutualité, de la coopération et du crédit agricole et un représentant de la Fédération nationale des syndicats d'exploitants agricoles désignés par arrêté du ministre chargé de l'économie sur proposition du ministre chargé de l'agriculture ;
 

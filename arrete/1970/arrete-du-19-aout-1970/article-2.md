@@ -1,6 +1,6 @@
 # Article 2
 
-La commission des comptes de la santé comprend *composition* :
+La commission des comptes de la santé comprend :
 
 a) Un président nommé par arrêté conjoint du ministre de l'économie et des finances, du ministre de la santé publique et de la sécurité sociale et du ministre de l'agriculture ;
 
@@ -42,7 +42,7 @@ ou leurs représentants respectifs.
 
 Le directeur des affaires sociales ou son représentant.
 
-5. Le commissaire au PLan ou son représentant.
+5. Le directeur général du Centre d'analyse stratégique ou son représentant.
 
 d) Vingt-quatre membres représentant les organismes nationaux publics ou privés désignés ci-après, à raison d'un représentant par organisme :
 

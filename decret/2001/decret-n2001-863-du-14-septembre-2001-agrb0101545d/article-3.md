@@ -18,7 +18,7 @@ Sont membres de droit de la commission :
 
 - le directeur des politiques économique et internationale ;
 
-- le commissaire au Plan.
+- le directeur général du Centre d'analyse stratégique.
 
 Les autres membres de la commission sont désignés par arrêté conjoint du ministre chargé de l'économie et du ministre chargé de l'agriculture, pour une durée de trois ans ; ils comprennent :
 

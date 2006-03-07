@@ -14,6 +14,6 @@ Le Conseil national de l'évaluation est composé de quatorze membres nommés po
 
 Le mandat des membres est renouvelable une fois.
 
-Le président du Conseil national est nommé par décret, parmi ses membres, sur proposition du conseil. Il est assisté d'un rapporteur général, nommé par arrêté du Premier ministre, sur proposition du commissaire au Plan.
+Le président du Conseil national est nommé par décret, parmi ses membres, sur proposition du conseil. Il est assisté d'un rapporteur général, nommé par arrêté du Premier ministre, sur proposition du directeur général du Centre d'analyse stratégique.
 
 Le Conseil national recourt, en tant que de besoin, à des experts extérieurs.

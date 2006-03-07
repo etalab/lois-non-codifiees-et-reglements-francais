@@ -4,7 +4,7 @@ La commission permanente de concertation pour l'industrie a pour mission d'écla
 
 Dans cet objectif, la commission :
 
-a) Etablit un diagnostic sur la situation des activités relevant de son champ de compétence avec le concours de l'Institut national de la statistique et des études économiques, de la direction générale des stratégies industrielles et du Commissariat général du Plan ;
+a) Etablit un diagnostic sur la situation des activités relevant de son champ de compétence avec le concours de l'Institut national de la statistique et des études économiques, de la direction générale des stratégies industrielles et du Centre d'analyse stratégique ;
 
 b) Organise la concertation avec les professionnels, nécessaire au bon développement et à l'évaluation de la politique technologique et d'innovation industrielle en France ;
 

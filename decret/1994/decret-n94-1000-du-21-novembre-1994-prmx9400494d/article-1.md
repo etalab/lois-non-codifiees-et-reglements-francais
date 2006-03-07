@@ -1,6 +1,6 @@
 # Article 1
 
-Outre le commissaire au Plan et le directeur général de l'Institut national de la statistique et des études économiques, membres de droit, le Conseil supérieur de l'emploi, des revenus et des coûts est ainsi composé :
+Outre le directeur général du Centre d'analyse stratégique et le directeur général de l'Institut national de la statistique et des études économiques, membres de droit, le Conseil supérieur de l'emploi, des revenus et des coûts est ainsi composé :
 
 1. En application des 1°, 2°, 3° et 4° de l'article 1er du décret du 25 mai 1994 susvisé :
 

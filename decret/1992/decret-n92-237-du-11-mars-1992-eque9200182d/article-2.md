@@ -8,7 +8,7 @@ b) Seize membres nommés au titre des représentants de l'administration et des 
 
 Le gouverneur de la Banque de France ;
 
-Le commissaire général au Plan ;
+Le directeur général du Centre d'analyse stratégique ;
 
 Le vice-président du Conseil général des ponts et chaussées ;
 
@@ -34,8 +34,6 @@ Le directeur général de l'urbanisme, de l'habitat et de la construction ;
 
 Le directeur des affaires économiques et internationales ;
 
-Le directeur général de l'Agence nationale pour l'amélioration de l'habitat ;
+Le directeur général de l'Agence nationale de l'habitat ;
 
-Le directeur de l'Agence nationale pour la participation des employeurs à l'effort de construction,
-
-ou leur représentant.
+Le directeur de l'Agence nationale pour la participation des employeurs à l'effort de construction, ou leur représentant.

@@ -8,7 +8,7 @@ Il anime et coordonne les travaux d'élaboration de la politique du Gouvernement
 
 II. - Il exerce une mission de contrôle, d'évaluation et de prospective en matière de politique maritime ;
 
-Il participe, pour ce qui intéresse les activités maritimes, aux travaux du commissariat général du Plan ;
+Il participe, pour ce qui intéresse les activités maritimes, aux travaux du Centre d'analyse stratégique ;
 
 Il est associé à l'élaboration des politiques publiques concernant la mer et le littoral ;
 
