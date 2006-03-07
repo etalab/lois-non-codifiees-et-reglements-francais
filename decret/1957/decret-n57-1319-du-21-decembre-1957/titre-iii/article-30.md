@@ -1,5 +1,0 @@
-# Article 30
-
-Peuvent être nommés vérificateurs principaux, au choix, par voie d'inscription au tableau d'avancement, les vérificateurs ayant atteint le troisième échelon.
-
-Les intéressés sont classés dans leur nouveau grade à l'échelon qui comporte un traitement égal ou, à défaut, immédiatement supérieur au traitement perçu en dernier lieu dans leur précédent grade. Ils conservent, dans la limite de l'ancienneté moyenne exigée à l'article 32 ci-dessous pour une promotion à l'échelon supérieur, l'ancienneté d'échelon qu'ils avaient acquise dans leur précédent grade lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle que leur aurait procurée un avancement d'échelon dans leur ancienne situation. Les candidats nommés alors qu'ils avaient atteint l'échelon le plus élevé de leur précédent grade conservent leur ancienneté d'échelon dans les mêmes conditions et dans les mêmes limites lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle que leur avait procurée leur nomination audit échelon.

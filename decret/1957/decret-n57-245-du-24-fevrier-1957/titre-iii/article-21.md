@@ -1,3 +1,0 @@
-# Article 21
-
-Lorsque, d'après les certificats médicaux transmis en exécution des articles précédents ou produits à n'importe quel moment par la victime ou par ses ayants droit, la blessure paraît devoir entraîner la mort ou une incapacité permanente absolue ou partielle de travail, ou lorsque la victime est décédée, l'inspecteur du travail et des lois sociales du lieu de l'accident transmet sans délai la déclaration d'accident et le certificat médical à un enquêteur. Celui-ci doit être assermenté, désigné ou agréé par le chef du territoire et ne peut en aucun cas appartenir au personnel de l'organisme assureur. Un ou plusieurs experts désignés dans les mêmes conditions peuvent être adjoints à l'enquêteur.

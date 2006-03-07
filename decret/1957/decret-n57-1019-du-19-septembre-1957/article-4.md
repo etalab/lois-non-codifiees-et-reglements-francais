@@ -1,5 +1,0 @@
-# Article 4
-
-Les fonctionnaires qui sont nommés conseillers du commissariat général du plan le sont à l'échelon qui comporte un indice égal ou, à défaut, immédiatement supérieur à celui dont ils bénéficiaient dans leur précédent cadre. Ils conservent, dans la limite de deux ans, l'ancienneté qu'ils avaient acquise dans leur ancien échelon lorsque leur nomination leur procure une augmentation de traitement inférieure à celle que leur aurait procurée un avancement d'échelon dans leur ancien grade. Cette dernière disposition est applicable aux fonctionnaires nommés alors qu'ils ont atteint l'échelon le plus élevé de leur classe ou de leur grade. Dans ce dernier cas, l'augmentation de traitement résultant de la nomination doit être comparée à celle que l'intéressé a obtenue lors de son avancement à cet échelon le plus élevé.
-
-Ils sont placés en service détaché au regard de leur corps d'origine et peuvent être titularisés dans le corps des conseillers du commissariat général du plan après cinq ans au moins de fonctions effectives dans ce corps.
