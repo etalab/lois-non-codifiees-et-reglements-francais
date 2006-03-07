@@ -1,0 +1,5 @@
+# Article 2
+
+Les conseils d'administration des centres de lutte contre le cancer doivent être constitués dans les conditions prévues aux articles D. 6162-1 et D. 6162-2 du code de la santé publique, dans leur rédaction issue du présent décret, au plus tard quatre mois après sa date de publication. Sous réserve des dispositions de l'article L. 6162-8 du code de la santé publique, les mandats des membres en fonctions à cette même date se poursuivent jusqu'à la mise en place des nouveaux conseils.
+
+Par dérogation aux dispositions des articles D. 6162-2 et D. 6162-3 du même code et jusqu'à l'expiration d'un délai de six mois suivant la première publication au Journal officiel d'agréments d'associations prévus à l'article L. 1114-1 de ce code, les représentants des usagers sont nommés par le directeur de l'agence régionale de l'hospitalisation parmi les personnes proposées par les associations régulièrement déclarées ayant une activité dans le domaine de la qualité des soins et de la prise en charge des malades cancéreux. Ces désignations sont prononcées pour une durée d'un an.
