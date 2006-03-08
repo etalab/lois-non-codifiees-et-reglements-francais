@@ -1,3 +1,3 @@
 # Article 2
 
-Ce comité comprend quatre membres titulaires représentant l’administration et quatre membres titulaires représentant le personnel, ainsi qu’un nombre égal de membres suppléants.
+Ce comité comprend cinq membres titulaires représentant l'administration et cinq membres titulaires représentant le personnel, ainsi qu'un nombre égal de membres suppléants.
