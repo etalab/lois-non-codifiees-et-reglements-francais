@@ -7,3 +7,5 @@ Il donne en outre son avis sur toutes les questions qui lui sont soumises concer
 - la coordination de l'enseignement militaire supérieur dans les armées ;
 
 - les objectifs de formation et l'organisation générale des études et des programmes d'enseignement de l'enseignement militaire supérieur interarmées.
+
+Il définit, par ailleurs, la politique générale de documentation de l'enseignement militaire supérieur. Il dispose à ce titre d'un comité directeur de l'enseignement militaire supérieur pour la documentation dont la mission et la composition sont fixées par instruction.

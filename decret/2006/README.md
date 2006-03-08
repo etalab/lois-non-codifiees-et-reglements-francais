@@ -5,6 +5,7 @@
 - [Décret n°2006-240 du 1 mars 2006 (MJSK0670038D)](decret-n2006-240-du-1-mars-2006-mjsk0670038d)
 - [Décret n°2006-246 du 1 mars 2006 (DEFP0600095D)](decret-n2006-246-du-1-mars-2006-defp0600095d)
 - [Décret n°2006-250 du 1 mars 2006 (SOCA0524544D)](decret-n2006-250-du-1-mars-2006-soca0524544d)
+- [Décret n°2006-264 du 1 mars 2006 (MENS0600608D)](decret-n2006-264-du-1-mars-2006-mens0600608d)
 - [Décret n°2006-95 du 1 février 2006 (AGRS0502785D)](decret-n2006-95-du-1-fevrier-2006-agrs0502785d)
 - [Décret n°2006-96 du 1 février 2006 (ECOP0500988D)](decret-n2006-96-du-1-fevrier-2006-ecop0500988d)
 - [Décret n°2006-97 du 1 février 2006 (ECOP0500989D)](decret-n2006-97-du-1-fevrier-2006-ecop0500989d)
