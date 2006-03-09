@@ -16,11 +16,11 @@ Sont membres de droit :
 
 Sont membres titulaires :
 
-- cinq personnalités qualifiées ;
+- quatre personnalités qualifiées ;
 
-- un ingénieur militaire choisi parmi les ingénieurs des corps de l'armement en position d'activité ;
+- un officier en position d'activité appartenant à l'un des corps militaires de l'armement ;
 
-- cinq ingénieurs militaires choisis parmi les ingénieurs des corps de l'armement exerçant des fonctions à l'extérieur de la délégation générale pour l'armement.
+- quatre officiers choisis parmi les personnels des corps militaires de l'armement exerçant des fonctions à l'extérieur de la délégation générale pour l'armement.
 
 Les membres titulaires sont nommés, sur proposition conjointe du vice-président du conseil général de l'armement et du délégué général pour l'armement, par arrêté du ministre de la défense pour une durée de trois ans renouvelable.
 
