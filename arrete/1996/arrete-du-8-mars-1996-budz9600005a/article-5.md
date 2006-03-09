@@ -1,15 +1,17 @@
 # Article 5
 
-Les agents des secteurs d'assiette des centres des impôts et des centres départementaux d'assiette sont destinataires des informations traitées dans le cadre de leurs attributions.
+Les agents des impôts sont destinataires des informations traitées dans le cadre de leurs attributions.
 
-En outre, les informations nominatives relatives à la taxe d'habitation peuvent être communiquées systématiquement ou sur demande préalable, sur support papier, microfiche ou informatique :
+En outre, les données à caractère personnel relatives à la taxe d'habitation peuvent être communiquées systématiquement ou sur demande préalable, sur support papier, microfiche ou informatique :
 
 - aux services de la direction de la comptabilité publique chargés du recouvrement ;
 
-- au représentant de l'Etat dans le département, en application de l'article L. 124 A du livre des procédures fiscales ;
+- au représentant de l'Etat dans le département en application de l'article L. 124 A du Livre des procédures fiscales ;
 
 - aux collectivités locales et à leurs groupements dotés d'une fiscalité propre ;
 
-- à l'I.N.S.E.E. et aux services statistiques ministériels mentionnés à l'article 7 bis de la loi du 7 juin 1951 modifiée susvisée.
+- ces derniers sont également destinataires, sur leur demande, du fichier des locaux vacants "1767 bis-COM" transmis sur support CD-Rom, en application de l'article L. 135 B, 4e alinéa, du LPF ;
 
-En outre, les communes et la direction générale des impôts peuvent se communiquer mutuellement les informations nécessaires au recensement des bases d'imposition de la taxe d'habitation.
+- à l'INSEE et aux services statistiques ministériels mentionnés à l'article 7 bis de la loi n° 51-711 du 7 juin 1951 modifiée susvisée.
+
+En outre, les communes peuvent communiquer à la direction générale des impôts les informations nécessaires au recensement des bases d'imposition de la taxe d'habitation, en application de l'article L. 135 B, 5e alinéa.
