@@ -10,6 +10,7 @@
 - [Arrêté du 3 janvier 2006 (ECOP0500966A)](arrete-du-3-janvier-2006-ecop0500966a)
 - [Arrêté du 3 janvier 2006 (SANG0524809A)](arrete-du-3-janvier-2006-sang0524809a)
 - [Arrêté du 3 mars 2006 (AGRG0600508A)](arrete-du-3-mars-2006-agrg0600508a)
+- [Arrêté du 3 mars 2006 (SANP0620923A)](arrete-du-3-mars-2006-sanp0620923a)
 - [Arrêté du 3 novembre 2006 (JUSF0650130A)](arrete-du-3-novembre-2006-jusf0650130a)
 - [Arrêté du 4 janvier 2006 (MCCB0500915A)](arrete-du-4-janvier-2006-mccb0500915a)
 - [Arrêté du 5 décembre 2005 (EQUP0501940A)](arrete-du-5-decembre-2005-equp0501940a)

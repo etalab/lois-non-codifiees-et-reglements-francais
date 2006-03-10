@@ -8,4 +8,16 @@ Pour les matériels roulants construits en série, le dispositif mis en place po
 
 Les matériels roulants circulant sur le réseau ferré national à la date de parution du présent arrêté sont réputés satisfaire les exigences les concernant.
 
-Les voitures marquées RIC (Regolamento Internazionale Carroze - règlement international pour les voitures) et les wagons marqués RIV (Regolamento Internazionale Veicoli - règlement international pour les wagons) sont réputés satisfaire les exigences les concernant.
+Les voitures marquées RIC (Regolamento Internazionale Carroze - règlement international pour les voitures) sont réputées satisfaire les exigences les concernant.
+
+Sont réputés conformes au titre II du présent arrêté :
+
+- les wagons marqués conformément au RIV 2000 (accord sur l'échange et l'utilisation des wagons entre entreprises ferroviaires) ;
+
+- les wagons similaires à un type marqué conformément au RIV 2000 et dont la construction a été entamée pendant la période de validité du RIV 2000 et sous réserve de preuve de conformité.
+
+Ces wagons utilisés par une entreprise ferroviaire partie à un contrat d'utilisation sont réputés satisfaire les exigences du titre III lorsque ce contrat prévoit :
+
+- l'application d'un dispositif de maintenance similaire à celui mis en oeuvre pendant la période de validité du RIV 2000 pour un wagon de ce type ;
+
+- un dispositif de recueil des informations relatif à l'exploitation et à l'entretien des wagons, similaire à celui mis en oeuvre pendant la période de validité du RIV 2000.
