@@ -1,8 +1,6 @@
 # Article Annexe IV
 
-RÈGLES TECHNIQUES APPLICABLES
-
-EN MATIÈRE DE VIBRATIONS
+**RÈGLES TECHNIQUES APPLICABLES EN MATIÈRE DE VIBRATIONS**
 
 L'installation est construite, équipée et exploitée afin que son fonctionnement ne soit à l'origine de vibrations dans les constructions avoisinantes susceptibles de compromettre la santé ou la sécurité du voisinage ou de constituer une nuisance pour celui-ci.
 
@@ -10,7 +8,7 @@ La vitesse particulaire des vibrations émises, mesurée selon la méthode défi
 
 1. Valeurs limites de la vitesse particulaire
 
-3.2. Sources continues ou assimilées
+1.1. Sources continues ou assimilées
 
 Sont considérées comme sources continues ou assimilées :
 
@@ -18,15 +16,138 @@ Sont considérées comme sources continues ou assimilées :
 
 - les sources émettant des impulsions à intervalles assez courts sans limitation du nombre d'émissions.
 
-Les valeurs limites applicables sont fixées dans le tableau I ci-après.
+Les valeurs limites applicables sont fixées dans le tableau I ci-après :
 
-3.3. Sources impulsionnelles à impulsions répétées
+<table>
+<tbody>
+<tr>
+<td>
+<p align="center">FREQUENCES </p>
+</td>
+<td>
+<p align="center">4 Hz-8 Hz</p>
+</td>
+<td>
+<p align="center">8 Hz-30 Hz </p>
+</td>
+<td>
+<p align="center">30 Hz-100 Hz </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Constructions résistantes</p>
+</td>
+<td>
+<p align="center">5 mm/s </p>
+</td>
+<td>
+<p align="center">6 mm/s </p>
+</td>
+<td>
+<p align="center">8 mm/s </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Constructions sensibles</p>
+</td>
+<td>
+<p align="center">3 mm/s</p>
+</td>
+<td>
+<p align="center">5 mm/s</p>
+</td>
+<td>
+<p align="center">6 mm/s</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Constructions très sensibles</p>
+</td>
+<td>
+<p align="center">2 mm/s</p>
+</td>
+<td>
+<p align="center">3 mm/s</p>
+</td>
+<td>
+<p align="center">4 mm/s</p>
+</td>
+</tr>
+</tbody>
+</table>
 
-Sont considérées comme sources impulsionnelles à impulsions répétées, toutes les sources émettant des impulsions à intervalles assez courts mais supérieurs à 1 s et dont la durée d'émissions est inférieure à 500 ms. Le nombre d'émissions est limité.
+1.2. Sources impulsionnelles à impulsions répétées
 
-Les valeurs limites applicables sont fixées dans le tableau II ci-après.
+Sont considérées comme sources impulsionnelles à impulsions répétées toutes les sources émettant des impulsions à intervalles assez courts mais supérieurs à 1 s et dont la durée d'émissions est inférieure à 500 ms.
 
-Dans les deux cas, si les fréquences correspondant aux vitesses particulaires couramment observées pendant la période de mesure s'approchent de 0,5 Hz des fréquences de 8,30 et 100 Hz, la valeur limite à retenir est celle correspondant à la bande fréquence immédiatement inférieure.
+Les valeurs limites applicables sont fixées dans le tableau II ci-après :
+
+<table>
+<tbody>
+<tr>
+<td>
+<p align="center">FREQUENCES</p>
+</td>
+<td>
+<p align="center">4 Hz-8 Hz</p>
+</td>
+<td>
+<br/>
+<p align="center">8 Hz-30 Hz</p>
+</td>
+<td>
+<p align="center">30 Hz-100 Hz </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Constructions résistantes</p>
+</td>
+<td>
+<p align="center">8 mm/s</p>
+</td>
+<td>
+<p align="center">12 mm/s</p>
+</td>
+<td>
+<p align="center">15 mm/s</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Constructions sensibles</p>
+</td>
+<td>
+<p align="center">6 mm/s</p>
+</td>
+<td>
+<p align="center">9 mm/s</p>
+</td>
+<td>
+<p align="center">12 mm/s</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Constructions très sensibles</p>
+</td>
+<td>
+<p align="center">4 mm/s</p>
+</td>
+<td>
+<p align="center">6 mm/s</p>
+</td>
+<td>
+<p align="center">9 mm/s</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Quelle que soit la nature de la source, lorsque les fréquences correspondant aux vitesses particulaires couramment observées pendant la période de mesure s'approchent de 0,5 Hz des fréquences de 8, 30 et 100 Hz, la valeur limite à retenir est celle correspondant à la bande fréquence immédiatement inférieure. Si les vibrations comportent des fréquences en dehors de l'intervalle 4-100 Hz, il convient de faire appel à un organisme qualifié agréé par le ministre chargé de l'environnement.
 
 2. Classification des constructions
 
