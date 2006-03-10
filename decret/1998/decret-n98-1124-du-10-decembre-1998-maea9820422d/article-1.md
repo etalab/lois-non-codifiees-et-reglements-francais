@@ -20,25 +20,29 @@ IV. - La direction générale de l'administration, composée de :
 
 - la direction des ressources humaines ;
 
-- la direction des affaires budgétaires et financières ;
+- la direction des affaires financières ;
 
-- le service de l'équipement ;
+- la direction des systèmes d'information ;
 
-- le service des systèmes d'information et de communication ;
+- le service des affaires immobilières ;
 
 - le service de la logistique diplomatique.
 
 V. - La direction générale de la coopération internationale et du développement, composée :
 
-- du service de la stratégie, des moyens et de l'évaluation ;
+- du service des moyens et du réseau ;
 
 - de la direction de l'audiovisuel extérieur ;
 
 - de la direction de la coopération culturelle et du français ;
 
-- de la direction du développement et de la coopération technique ;
+- de la direction des politiques de développement ;
 
-- de la direction de la coopération scientifique et universitaire.
+- de la direction de la coopération scientifique et universitaire ;
+
+- de la délégation pour l'action extérieure des collectivités locales ;
+
+- de la mission d'appui à l'action internationale des organisations non gouvernementales.
 
 VI. - Les directions, service et délégation suivants :
 

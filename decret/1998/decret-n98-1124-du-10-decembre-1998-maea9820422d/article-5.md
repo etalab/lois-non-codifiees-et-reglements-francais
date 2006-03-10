@@ -5,3 +5,5 @@ La direction générale de l'administration exerce une mission générale d'admi
 Elle définit et met en oeuvre la politique de recrutement et de formation des personnels. Elle est responsable des affectations et de la gestion des emplois et des carrières. Elle est chargée de la préparation du budget, de son exécution et de son contrôle ainsi que de la gestion des moyens de fonctionnement, d'équipement et de communication.
 
 Elle veille à l'application du décret du 1er juin 1979 susvisé.
+
+Le directeur général de l'administration reçoit l'appellation de secrétaire général adjoint. Il est assisté dans ses fonctions par un directeur général adjoint choisi parmi les directeurs de la direction générale.
