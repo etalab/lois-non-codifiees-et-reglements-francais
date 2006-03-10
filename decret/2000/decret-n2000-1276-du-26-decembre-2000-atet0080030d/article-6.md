@@ -1,0 +1,3 @@
+# Article 6
+
+Sous réserve des dispositions qui résulteraient d'accords internationaux, le présent décret s'applique à tous les levers couvrant une superficie supérieure à 10 000 mètres carrés ou dont la plus grande longueur est supérieure à 500 mètres, sauf pour les travaux transmis sous forme de documents papier ou convertis en images numériques où il s'applique, selon les mêmes conditions, uniquement aux travaux nouveaux et à l'exclusion des mises à jour. Les seuils définis ci-dessus peuvent être abaissés ou supprimés en application de dispositions résultant d'accords internationaux ou locaux tels que contrats, conventions ou commandes publiques.
