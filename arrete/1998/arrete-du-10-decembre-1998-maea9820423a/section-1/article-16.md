@@ -4,7 +4,7 @@ A la direction générale des affaires politiques et de sécurité :
 
 I. - Les sous-directions de la direction des Nations unies et des organisations internationales sont compétentes à l'égard des questions relatives aux affaires politiques, économiques, aux droits de l'homme et aux affaires humanitaires et sociales traitées dans les enceintes des organisations internationales, notamment celles de l'Organisation des Nations unies, de ses organes subsidiaires et des institutions spécialisées.
 
-La mission des fonctionnaires internationaux contribue à promouvoir la présence de personnels français dans les organisations internationales.
+La mission des fonctionnaires internationaux contribue à promouvoir la présence de personnels français dans les organisations internationales. Le chef de la mission des fonctionnaires internationaux assure le secrétariat général du comité des fonctionnaires internationaux.
 
 II. - Les missions des sous-directions de la direction des affaires stratégiques, de sécurité et du désarmement sont les suivantes :
 

@@ -1,51 +1,41 @@
 # Article 3
 
-La direction générale de la coopération internationale et du développement est composée :
+La direction générale de la coopération internationale et du développement, outre la cellule chargée des ressources humaines et la cellule en charge de mise en oeuvre du contrôle de gestion placées auprès du directeur général, est composée :
 
-1° Du service de la stratégie, des moyens et de l'évaluation, qui comprend :
+1° Du service des moyens et du réseau, qui comprend :
 
-- la sous-direction de la stratégie, de la communication et de l'évaluation ;
+- la sous-direction de la programmation et des affaires financières ;
 
-- la sous-direction de la programmation et des affaires financières.
+- la sous-direction de la coordination géographique.
 
-2° Du service de la coordination géographique, qui comprend :
+2° De la direction de l'audiovisuel extérieur, qui comprend :
 
-- le département d'Europe ;
+- la sous-direction de la radio, de la télévision et du journalisme ;
 
-- le département d'Afrique et de l'océan Indien ;
+- la sous-direction du cinéma et des technologies de l'information et de la communication.
 
-- le département d'Afrique du Nord et du Moyen-Orient ;
-
-- le département des Amériques et des Caraïbes ;
-
-- le département d'Asie et d'Océanie.
-
-3° De la direction du développement et de la coopération technique, qui comprend :
-
-- la sous-direction du développement économique et de l'environnement ;
-
-- la sous-direction du développement social et de la coopération éducative ;
-
-- la sous-direction de la coopération institutionnelle ;
-
-- la mission des appuis financiers et des études économiques.
-
-4° De la direction de la coopération culturelle et du français, qui comprend :
+3° De la direction de la coopération culturelle et du français, qui comprend :
 
 - la sous-direction de la coopération culturelle et artistique ;
 
 - la sous-direction du français.
 
-5° De la direction de la coopération scientifique, universitaire et de recherche, qui comprend :
+4° De la direction des politiques de développement, qui comprend :
 
-- la sous-direction de la coopération universitaire et scientifique ;
+- la sous-direction de la stratégie, des questions européennes et multilatérales ;
 
-- la sous-direction de la recherche.
+- la sous-direction des politiques sectorielles et des objectifs de développement du millénaire ;
 
-6° De la direction de l'audiovisuel extérieur et des techniques de communication, qui comprend :
+- la sous-direction de la gouvernance démocratique.
 
-- la sous-direction de la télévision et de la radio ;
+5° De la direction de la coopération scientifique et universitaire, qui comprend :
 
-- la sous-direction du cinéma, des nouvelles technologies et de la promotion de la diversité culturelle.
+- la sous-direction de la coopération universitaire et de la formation professionnelle ;
 
-7° De la mission pour la coopération non gouvernementale.
+- la sous-direction de la coopération scientifique et de la recherche ;
+
+- la sous-direction de l'archéologie et de la recherche en sciences sociales.
+
+6° De la délégation pour l'action extérieure des collectivités locales.
+
+7° De la mission d'appui à l'action internationale des organisations non gouvernementales.
