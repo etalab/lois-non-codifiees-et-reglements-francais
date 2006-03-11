@@ -1,3 +1,3 @@
 # Article 8
 
-Le droit d'accès défini aux articles 34, 35 et 36 de la loi du 6 janvier 1978 s'exerce auprès des directions régionales ou des services régionaux de l'institut national de la statistique et des études économiques.
+Le droit d'accès défini par les articles 38, 39 et 40 de la loi du 6 janvier 1978 susvisée s'exerce auprès des directions régionales de l'Institut national de la statistique et des études économiques pour les personnes résidant en métropole et dans les départements d'outre-mer. Pour les personnes résidant en Polynésie française, il s'exerce auprès de l'institut statistique de la Polynésie française. Pour les personnes résidant sur le reste du territoire français ou à l'étranger, il s'exerce auprès de la direction générale de l'Institut national de la statistique et des études économiques.
