@@ -14,6 +14,8 @@ Les grades ou titres universitaires sont conférés par les diplômes désignés
 
 - diplôme de fin de deuxième cycle des études pharmaceutiques ;
 
+- diplôme de fin de deuxième cycle des études odontologiques ;
+
 - diplôme d'Etat de docteur en médecine ;
 
 - diplôme d'Etat de docteur en chirurgie dentaire ;
