@@ -1,6 +1,7 @@
 # 2006
 
 - [Arrêté du 1 février 2006 (ECOP0500990A)](arrete-du-1-fevrier-2006-ecop0500990a)
+- [Arrêté du 1 mars 2006 (ECOS0650010A)](arrete-du-1-mars-2006-ecos0650010a)
 - [Arrêté du 1 mars 2006 (ECOT0526355A)](arrete-du-1-mars-2006-ecot0526355a)
 - [Arrêté du 2 août 2005 (INTC0500521A)](arrete-du-2-aout-2005-intc0500521a)
 - [Arrêté du 2 février 2006 (AGRF0600295A)](arrete-du-2-fevrier-2006-agrf0600295a)
