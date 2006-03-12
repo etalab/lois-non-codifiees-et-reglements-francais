@@ -1,6 +1,6 @@
 # Article 1
 
-Jusqu'au 21 juin 2006, les ouvriers en activité mentionnés à l'article 4 de la loi du 31 décembre 1993 susvisée peuvent bénéficier, sur leur demande, d'une allocation de cessation anticipée d'activité, lorsqu'ils remplissent les conditions suivantes :
+Jusqu'au 21 juin 2007, les ouvriers en activité mentionnés à l'article 4 de la loi du 31 décembre 1993 susvisée peuvent bénéficier, sur leur demande, d'une allocation de cessation anticipée d'activité, lorsqu'ils remplissent les conditions suivantes :
 
 1° Avoir atteint l'âge de cinquante-cinq ans au moins ;
 
