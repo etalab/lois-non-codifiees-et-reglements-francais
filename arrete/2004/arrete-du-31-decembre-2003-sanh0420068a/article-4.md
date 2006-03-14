@@ -4,4 +4,4 @@ I. - Les diagnostics et actes portés sur les RUM y figurent sous forme codée :
 
 II. - L'ensemble des RUM relatifs à l'hospitalisation d'un malade dans une ou plusieurs unités de médecine, chirurgie ou obstétrique fréquentées au décours d'un même séjour dans un établissement de santé constitue un résumé standardisé de sortie (RSS). Le RSS est identifié par un numéro dit " numéro RSS ".
 
-III. - Un guide figurant en annexe III du présent arrêté précise les modalités de production, de codage et de groupage des RSS, ainsi que les modalités de constitution des résumés de sortie anonymes et chaînables (RSAc). Les GHM, classés en catégories majeures (CM), sont répertoriés et décrits selon la classification figurant en annexe IV du présent arrêté.
+III. - Un guide figurant en annexe III du présent arrêté précise les modalités de production, de codage et de groupage des RSS, ainsi que les modalités de constitution des résumés de sortie anonymes et chaînables (RSA). Les GHM, classés en catégories majeures (CM), son t répertoriés et décrits selon la classification figurant en annexe IV du présent arrêté.

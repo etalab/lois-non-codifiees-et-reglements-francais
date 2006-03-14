@@ -4,9 +4,13 @@ I. - Dans chaque unité médicale de médecine, chirurgie ou obstétrique, les c
 
 1. Informations relatives à l'identification des patients :
 
-- identifiant correspondant à l'ensemble du séjour dans les unités de médecine, chirurgie ou obstétrique de l'établissement (numéro de RSS décrit à l'article 4 ci-dessous) ;
+identifiants, correspondant à l'ensemble du séjour dans les unités de médecine, chirurgie ou obstétrique de l'établissement, que sont le numéro administratif local de séjour fourni par le service des admissions de l'établissement et le numéro de RSS défini au II de l'article 4 ci dessous ;
 
 - sexe du patient ;
+
+- type d'autorisation de l'unité médicale ;
+
+- type d'autorisation des lits dédiés ;
 
 - date de naissance du patient ;
 
@@ -36,7 +40,7 @@ I. - Dans chaque unité médicale de médecine, chirurgie ou obstétrique, les c
 
 - poids à l'entrée dans l'unité médicale pour les nouveau-nés ;
 
-- indice de gravité simplifié : cette mention n'est obligatoire que pour les patients faisant l'objet de soins de réanimation, de soins intensifs ou de surveillance continue.
+- indice de gravité simplifié : pour les patients faisant l'objet de soins de réanimation, de soins intensifs ou de surveillance continue.
 
 Ces informations doivent être conformes au contenu du dossier du patient.
 
