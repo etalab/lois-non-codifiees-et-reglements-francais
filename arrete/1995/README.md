@@ -1087,7 +1087,6 @@
 - [Arrêté du 27 avril 1995 (PRMX9500745A)](arrete-du-27-avril-1995-prmx9500745a)
 - [Arrêté du 27 avril 1995 (SPSS9501402A)](arrete-du-27-avril-1995-spss9501402a)
 - [Arrêté du 27 décembre 1994 (AGRS9402494A)](arrete-du-27-decembre-1994-agrs9402494a)
-- [Arrêté du 27 décembre 1994 (DEFB9501023A)](arrete-du-27-decembre-1994-defb9501023a)
 - [Arrêté du 27 décembre 1994 (DEFD9402069A)](arrete-du-27-decembre-1994-defd9402069a)
 - [Arrêté du 27 décembre 1994 (INTE9500001A)](arrete-du-27-decembre-1994-inte9500001a)
 - [Arrêté du 27 décembre 1994 (INTE9500002A)](arrete-du-27-decembre-1994-inte9500002a)
