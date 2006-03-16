@@ -3,3 +3,5 @@
 - [Article 1](article-1.md)
 - [TITRE Ier : Dispositions spéciales aux différentes catégories de personnel](titre-ier)
 - [TITRE II : Dispositions communes à plusieurs corps.](titre-ii)
+- [TITRE IV : Dispositions diverses.](titre-iv)
+- [Annexes](annexes)
