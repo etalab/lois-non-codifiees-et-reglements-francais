@@ -4,5 +4,4 @@
 - [Titre II : Dispositions générales relatives au statut des personnels administratifs du service des alcools.](titre-ii)
 - [Titre III : Modalités d'accès aux corps spéciaux des alcools.](titre-iii)
 - [Titre IV : Dispositions relatives à l'avancement.](titre-iv)
-- [Titre V : Dispositions transitoires.](titre-v)
 - [Article 25](article-25.md)
