@@ -291,7 +291,6 @@
 - [Arrêté du 9 octobre 2002 (PRMX0205968A)](arrete-du-9-octobre-2002-prmx0205968a)
 - [Arrêté du 9 septembre 1992 (INTA9200440A)](arrete-du-9-septembre-1992-inta9200440a)
 - [Arrêté du 9 septembre 1992 (INTA9200442A)](arrete-du-9-septembre-1992-inta9200442a)
-- [Arrêté du 9 septembre 1997 (ATEP9760348A)](arrete-du-9-septembre-1997-atep9760348a)
 - [Arrêté du 9 septembre 2002 (DOMB0200063A)](arrete-du-9-septembre-2002-domb0200063a)
 - [Arrêté du 9 septembre 2002 (ECOP0200599A)](arrete-du-9-septembre-2002-ecop0200599a)
 - [Arrêté du 10 avril 2002 (AGRG0200782A)](arrete-du-10-avril-2002-agrg0200782a)

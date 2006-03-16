@@ -52,7 +52,6 @@
 - [Décret n°70-1269 du 23 décembre 1970](decret-n70-1269-du-23-decembre-1970)
 - [Décret n°70-1277 du 23 décembre 1970](decret-n70-1277-du-23-decembre-1970)
 - [Décret n°70-876 du 23 septembre 1970](decret-n70-876-du-23-septembre-1970)
-- [Décret n°72-812 du 23 août 1972](decret-n72-812-du-23-aout-1972)
 - [Décret n°72-430 du 24 mai 1972](decret-n72-430-du-24-mai-1972)
 - [Décret n°70-871 du 25 septembre 1970](decret-n70-871-du-25-septembre-1970)
 - [Décret n°71-159 du 26 février 1971](decret-n71-159-du-26-fevrier-1971)
