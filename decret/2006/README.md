@@ -243,6 +243,7 @@
 - [Décret n°2006-220 du 23 février 2006 (INTE0600030D)](decret-n2006-220-du-23-fevrier-2006-inte0600030d)
 - [Décret n°2006-221 du 23 février 2006 (DEFP0600073D)](decret-n2006-221-du-23-fevrier-2006-defp0600073d)
 - [Décret n°2006-84 du 23 janvier 2006 (DEVG0530106D)](decret-n2006-84-du-23-janvier-2006-devg0530106d)
+- [Décret n°72-812 du 23 août 1972](decret-n72-812-du-23-aout-1972)
 - [Décret n°98-1195 du 23 décembre 1998 (PRMX9800124D)](decret-n98-1195-du-23-decembre-1998-prmx9800124d)
 - [Décret n°2006-1046 du 24 août 2006 (FPPA0600082D)](decret-n2006-1046-du-24-aout-2006-fppa0600082d)
 - [Décret n°2006-218 du 24 février 2006 (PRMX0609115D)](decret-n2006-218-du-24-fevrier-2006-prmx0609115d)
