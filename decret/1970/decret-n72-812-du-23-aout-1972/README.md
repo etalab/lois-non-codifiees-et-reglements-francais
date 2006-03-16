@@ -5,4 +5,3 @@
 - [TITRE II : Dispositions communes à plusieurs corps.](titre-ii)
 - [TITRE III : Dispositions transitoires.](titre-iii)
 - [TITRE IV : Dispositions diverses.](titre-iv)
-- [Annexes](annexes)
