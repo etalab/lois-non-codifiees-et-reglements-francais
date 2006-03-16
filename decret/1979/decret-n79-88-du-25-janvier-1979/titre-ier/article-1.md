@@ -10,8 +10,6 @@ Il comprend trois grades ci-après :
 
 3° Agent de constatation des douanes.
 
-Le nombre des emplois d'agent de constatation principal de 2e classe ne peut excéder 30 % de l'effectif total du corps.
-
-Le nombre des emplois d'agent de constatation principal de 1re classe ne peut excéder 15 % de l'effectif total du corps.
+Le nombre maximum d'agents de constatation pouvant être promus au grade d'agent de constatation principal de 2e classe et le nombre maximum d'agents de constatation principaux de 2e classe pouvant être promus au grade d'agent de constatation principal de 1re classe sont déterminés en application du décret n° 2005-1090 du 1er septembre 2005 relatif à l'avancement de grade dans les corps des administrations de l'Etat.
 
 Le directeur général des douanes et droits indirects nomme à tous les emplois du corps des agents de constatation des douanes.

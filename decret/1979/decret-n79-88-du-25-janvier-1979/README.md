@@ -4,5 +4,4 @@
 - [Titre II : Recrutement.](titre-ii)
 - [Titre III : Avancement.](titre-iii)
 - [Titre IV : Dispositions particulières.](titre-iv)
-- [Titre V : Dispositions transitoires.](titre-v)
 - [Article 28](article-28.md)
