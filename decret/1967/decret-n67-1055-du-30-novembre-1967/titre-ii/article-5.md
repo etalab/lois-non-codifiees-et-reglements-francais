@@ -30,7 +30,7 @@ Ce corps comprend le grade de contrôleur des alcools de classe normale qui est 
 
 Le grade de contrôleur des alcools de classe normale et le grade de contrôleur des alcools de classe supérieure sont respectivement assimilés à la classe normale et à la classe supérieure mentionnées à l'article 2 du décret n° 94-1016 du 18 novembre 1994 fixant les dispositions statutaires communes applicables à divers corps de fonctionnaires de la catégorie B.
 
-c) Corps des agents de constatation des alcools, classé dans la catégorie C prévue à l'article 29 de la loi n° 84-16 du 11 janvier 1984 modifiée portant dispositions statutaires relatives à la fonction publique de l'Etat, et régi par les dispositions du décret n° 70-79 du 27 janvier 1970 modifié relatif à l'organisation des carrières des fonctionnaires des catégories C et D.
+c) Corps des agents de constatation des alcools, classé dans la catégorie C prévue à l'article 29 de la loi n° 84-16 du 11 janvier 1984 modifiée portant dispositions statutaires relatives à la fonction publique de l'Etat, et régi par les dispositions du décret n° 2005-1228 du 29 septembre 2005 relatif à l'organisation des carrières des fonctionnaires de catégorie C.
 
 Ce corps comprend les trois grades ci-après :
 
@@ -40,8 +40,4 @@ Ce corps comprend les trois grades ci-après :
 
 3° Agent de constations des alcools.
 
-Le nombre des emplois d'agent de constatation principal de 2e classe ne peut excéder 30 % de l'effectif total du corps.
-
-Le nombre des emplois d'agent de constatation principal de 1re classe ne peut excéder 15 % de l'effectif total du corps.
-
-d) Corps et agents de bureau et des agents de service des alcools classés dans la catégorie D prévue à l'article 17 de l'ordonnance du 4 février 1959 susvisée et régis par les dispositions des décrets susvisés n° 70-79 du 27 janvier 1970 modifié et 58-651 et 58-652 du 30 juillet 1958 modifiés.
+Le nombre maximum d'agents de constatation pouvant être promus au grade d'agent de constatation principal de 2e classe et le nombre maximum d'agents de constatation principaux de 2e classe pouvant être promus au grade d'agent de constatation principal de 1re classe sont déterminés en application du décret n° 2005-1090 du 1er septembre 2005 relatif à l'avancement de grade dans les corps des administrations de l'Etat.
