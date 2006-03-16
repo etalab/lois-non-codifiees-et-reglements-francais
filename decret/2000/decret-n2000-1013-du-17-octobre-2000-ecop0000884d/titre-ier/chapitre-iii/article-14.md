@@ -1,6 +1,6 @@
 # Article 14
 
-Peuvent être promus au grade d'aide technique principal de laboratoire, au choix, par voie d'inscription sur un tableau annuel d'avancement établi après avis de la commission administrative paritaire, les aides techniques de laboratoire ayant atteint au moins le 6e échelon de leur grade et comptant au moins onze ans de services effectifs dans un corps d'aides techniques de laboratoire ou d'aides de laboratoire, dont au moins trois ans en qualité d'aide technique de laboratoire.
+Peuvent être promus au grade d'aide technique principal de laboratoire, au choix, par voie d'inscription sur un tableau annuel d'avancement établi après avis de la commission administrative paritaire, les aides techniques de laboratoire ayant atteint au moins le 5e échelon de leur grade et comptant au moins dix ans de services effectifs dans un corps d'aides techniques de laboratoire ou d'aides de laboratoire, dont au moins trois ans en qualité d'aide technique de laboratoire.
 
 Les agents promus au grade d'aide technique principal de laboratoire sont classés à l'échelon de ce grade qui comporte un indice égal ou, à défaut, immédiatement supérieur à celui dont ils bénéficieraient dans leur précédent grade.
 
