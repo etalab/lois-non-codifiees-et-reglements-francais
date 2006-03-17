@@ -2,11 +2,11 @@
 
 Le conseil supérieur des messageries de presse est composé comme suit :
 
-Un représentant du ministre des finances ;
+Un représentant du ministre chargé du commerce ;
 
 Un représentant du ministre des affaires étrangères ;
 
-Un représentant du ministre de l'économie nationale ;
+Un représentant du Premier ministre ;
 
 Un représentant du ministre des transports ;
 
