@@ -544,6 +544,12 @@ Agrément nécessaire à l'activité d'hébergement de données de santé à car
 
 Art. R. 1111-10
 
+27
+
+Autorisation, retrait et suspension de l'autorisation pour les laboratoires établis hors de France dans un Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace économique européen de réaliser des analyses de biologie médicale pour le compte de patients résidant en France.
+
+Art. R. 6211-49 et R. 6211-56.
+
 Code de la sécurité sociale
 
 1
@@ -1022,7 +1028,7 @@ Exclusion temporaire ou définitive d'une entreprise des marchés passés par l'
 
 Art. 42.
 
-Décret n° 2002-616 du 26 avril 2002 pris en application des articles L. 335-6 du code de l'éducation et L. 900-1 du code du travail, relatif au répertoire national des certifications professionnelles.
+Articles R. 335-12 à R. 335-23 du code de l'éducation.
 
 1
 
