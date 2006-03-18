@@ -6,7 +6,7 @@ Peuvent être pris en charge au titre des missions mentionnées au 2° de l'arti
 
 - les comités régionaux chargés du suivi et de l'analyse des pratiques de prescription régionales en matière de médicaments et de produits et prestations ;
 
-- les centres de coordination de la lutte contre les infections nosocomiales mentionnées à l'article 6 de l'arrêté du 3 août 1992 modifié relatif à l'organisation de la lutte contre les infections nosocomiales ;
+- les centres de coordination de la lutte contre les infections nosocomiales et leurs antennes régionales mentionnées à l'article 6 de l'arrêté du 3 août 1992 modifié relatif à l'organisation de la lutte contre les infections nosocomiales ;
 
 - les centres nationaux de référence pour la lutte contre les maladies transmissibles mentionnés à l'article L. 1413-4 du code de la santé publique ;
 
@@ -18,7 +18,7 @@ Peuvent être pris en charge au titre des missions mentionnées au 2° de l'arti
 
 - les registres à caractère épidémiologique mentionnés à l'article 2 de l'arrêté du 6 novembre 1995 modifié relatif au Comité national des registres ;
 
-- les centres et cellules de coordination des soins en cancérologie.
+- les centres de coordination des soins en cancérologie.
 
 2° Au titre des missions de formation, de soutien, de coordination et d'évaluation des besoins du patient :
 
@@ -40,23 +40,25 @@ Peuvent être pris en charge au titre des missions mentionnées au 2° de l'arti
 
 - les banques de tissus ;
 
-- la consultation du fichier national ou des fichiers internationaux de greffe de moelle et le typage des donneurs potentiels.
+- les frais d'inscription et de consultation du fichier national ou des fichiers internationaux de donneurs volontaires non apparentés, le typage des donneurs potentiels, l'achat du greffon et son acheminement en vue de la réalisation d'une greffe allogénique de cellules souches hématopoïétiques ;
+
+- les frais inhérents aux examens, hospitalisations, trajets et hébergement ainsi que la perte de salaire du donneur familial pris en charge par un établissement de santé.
 
 4° Au titre de la mission d'assistance aux patients pour l'accès aux droits sociaux et des dispositifs ayant pour objet de faciliter le maintien des soins de proximité et l'accès à ceux-ci :
 
 - les permanences d'accès aux soins de santé mentionnées à l'article L. 6112-6 du code de la santé publique ;
 
-- l'accompagnement social des patients en situation précaire ;
+- la prise en charge des patients en situation précaire par des équipes hospitalières à l'extérieur des établissements de santé ;
 
-- les maisons médicales mentionnées à l'article L. 162-3 du code de la sécurité sociale ;
+- la mise à disposition par l'établissement de santé de moyens au bénéfice des maisons médicales mentionnées à l'article L. 162-3 du code de la sécurité sociale ;
 
 - les réseaux de télésanté, notamment la télémédecine.
 
 5° Au titre de l'activité de dépistage anonyme et gratuit, les consultations destinées à effectuer la prévention, le dépistage et le diagnostic de l'infection par le virus de l'immunodéficience humaine mentionnées à l'article L. 3121-2 du code de la santé publique.
 
-6° Au titre des missions de prévention et d'éducation pour la santé, les actions de prévention et d'éducation relatives à la nutrition, à l'asthme et au diabète.
+6° Au titre des missions de prévention et d'éducation pour la santé, les actions de prévention et d'éducation thérapeutique relatives aux maladies chroniques, et notamment aux pathologies respiratoires, aux pathologies cardiovasculaires, à l'insuffisance rénale et au diabète.
 
-7° Au titre de la mission de conseil des équipes hospitalières en matière d'éthique, de bioéthique et de protection des personnes, les centres d'éthique.
+7° Au titre de la mission de conseil des équipes hospitalières en matière d'éthique, de bioéthique et de protection des personnes, les centres nationaux d'éthique.
 
 8° Au titre des missions de veille sanitaire, de prévention et de gestion des risques, les actions de prévention et gestion des risques liés à des circonstances exceptionnelles et les structures spécialisées dans la gestion du risque nucléaire, radiologique, bactériologique et chimique ou d'une crise sanitaire majeure.
 
@@ -64,11 +66,9 @@ Peuvent être pris en charge au titre des missions mentionnées au 2° de l'arti
 
 - les consultations mémoire ;
 
-- les services de court séjour gériatrique ;
+- les consultations hospitalières d'addictologie ;
 
-- les consultations hospitalières de tabacologie ;
-
-- l'emploi de psychologues dans les services de soins prévu par les plans nationaux de santé publique ;
+- l'emploi de psychologues ou d'assistantes sociales dans les services de soins prévu par les plans nationaux de santé publique ;
 
 - les structures spécialisées dans la prise en charge de la douleur chronique rebelle ;
 
@@ -78,7 +78,9 @@ Peuvent être pris en charge au titre des missions mentionnées au 2° de l'arti
 
 - les structures pluridisciplinaires spécialisées dans la prise en charge des adolescents ;
 
-- les consultations de suivi post-greffes.
+- les consultations de suivi post-greffes ;
+
+- les dispositifs d'annonce et les réunions de concertation pluridisciplinaire prévus dans le cadre de la politique nationale de lutte contre le cancer.
 
 10° Au titre de l'aide médicale urgente :
 

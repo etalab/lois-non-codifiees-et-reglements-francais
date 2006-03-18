@@ -20,7 +20,9 @@ Peuvent être pris en charge au titre des missions mentionnées au 1° de l'arti
 
 - la conservation des tissus, tumeurs et produits humains à des fins de recherche ;
 
-- l'emploi de techniciens et d'assistants de recherche clinique pour la réalisation d'essais cliniques dans les services de soins prévu dans le cadre de la politique nationale de lutte contre le cancer.
+- l'emploi de techniciens et d'assistants de recherche clinique pour la réalisation d'essais cliniques dans les services de soins prévu dans le cadre de la politique nationale de lutte contre le cancer ;
+
+- Les délégations interrégionales à la recherche clinique.
 
 2° Au titre des missions d'enseignement et de formation des personnels médicaux et paramédicaux :
 
@@ -50,7 +52,11 @@ Peuvent être pris en charge au titre des missions mentionnées au 1° de l'arti
 
 - les centres de référence d'implantation cochléaire ;
 
-- les centres de ressource sur les maladies professionnelles.
+- les centres de ressource sur les maladies professionnelles ;
+
+- le Centre national d'aide à la prise en charge des  encéphalopathies spongiformes subaigues transmissibles ;
+
+- les centres de références hépatites C.
 
 4° Au titre des activités de soins réalisées à des fins expérimentales ou de la dispensation des soins non couverts par les nomenclatures ou les tarifs :
 
@@ -61,8 +67,6 @@ Peuvent être pris en charge au titre des missions mentionnées au 1° de l'arti
 - les médicaments bénéficiant d'une autorisation temporaire d'utilisation en application des dispositions de l'article L. 5121-12 du code de la santé publique ;
 
 - les actes dentaires, les actes de biologie et les actes d'anatomo-cyto-pathologie non inscrits sur la liste prévue à l'article L. 162-1-7 du code de la sécurité sociale ;
-
-- les stimulateurs corticaux profonds ;
 
 - les implants cochléaires ;
 

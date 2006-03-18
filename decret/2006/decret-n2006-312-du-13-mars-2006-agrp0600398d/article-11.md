@@ -1,0 +1,3 @@
+# Article 11
+
+Lorsqu'en application de l'article L. 226-8 du code rural, l'Etat assure les opérations nécessaires à l'élimination des produits transformés issus des matières animales de catégorie 3 au sens du règlement (CE) n° 1774/2002 du 3 octobre 2002 susvisé, les dépenses afférentes à ces opérations sont, après l'entrée en vigueur du décret prévu à l'article L. 226-1 du même code conférant tout ou partie de la gestion du service public de l'équarrissage à l'établissement public mentionné à cet article, liquidées et ordonnancées par le directeur puis mises en paiement par l'agent comptable de cet établissement.

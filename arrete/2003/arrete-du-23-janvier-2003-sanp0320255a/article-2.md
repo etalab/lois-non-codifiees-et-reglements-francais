@@ -34,4 +34,4 @@ Des membres de droit :
 
 Des membres nommés par arrêté du ministre chargé de la santé :
 
-Onze personnes qualifiées, dont une proposée par le ministre chargé du logement et une proposée par le ministre chargé de l'environnement.
+Douze personnes qualifiées, dont une proposée par le ministre chargé du logement et une proposée par le ministre chargé de l'environnement.
