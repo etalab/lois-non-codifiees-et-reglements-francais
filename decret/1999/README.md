@@ -1,7 +1,6 @@
 # 1999
 
 - [Décret du 1 octobre 1999 (ATEN9970055D)](decret-du-1-octobre-1999-aten9970055d)
-- [Décret n°2000-746 du 1 août 2000 (ECOP0000097D)](decret-n2000-746-du-1-aout-2000-ecop0000097d)
 - [Décret n°99-1006 du 1 décembre 1999 (MESS9923581D)](decret-n99-1006-du-1-decembre-1999-mess9923581d)
 - [Décret n°99-1009 du 1 décembre 1999 (ECOP9900725D)](decret-n99-1009-du-1-decembre-1999-ecop9900725d)
 - [Décret n°99-1010 du 1 décembre 1999 (ECOP9900726D)](decret-n99-1010-du-1-decembre-1999-ecop9900726d)
