@@ -11,3 +11,5 @@ Elle est chargée du suivi de l'attribution des allocations du fonds de solidari
 Elle prépare les actes relatifs à l'exercice de la tutelle sur l'Institution nationale des invalides.
 
 Elle prépare, en liaison avec la direction de la mémoire, du patrimoine et des archives, les actes relatifs à l'exercice de la tutelle sur l'Office national des anciens combattants et victimes de guerre.
+
+Elle assure la gestion de la prise en charge par l'Etat des frais de voyage sur les tombes et les lieux du crime pour les victimes de la déportation.

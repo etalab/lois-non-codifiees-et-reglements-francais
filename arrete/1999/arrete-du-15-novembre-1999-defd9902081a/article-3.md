@@ -8,6 +8,8 @@ A ce titre, elle est notamment chargée :
 
 - du contrôle de la délivrance des cartes d'invalidité et de la retraite du combattant par les services déconcentrés ;
 
+- de l'attribution des mentions "Mort pour la France et "Mort en déportation et des droits liés, de l'état civil des anciens combattants et victimes de guerre ainsi que des renseignements aux familles ;
+
 - de la liquidation des dossiers de pension militaire d'invalidité traités en procédure centralisée et, à la demande, de ceux traités par les services déconcentrés ;
 
 - de l'enregistrement, de l'engagement et du suivi en première instance et en appel du contentieux des pensions militaires d'invalidité, du contrôle et de la coordination de ces activités dans les organismes déconcentrés ;
