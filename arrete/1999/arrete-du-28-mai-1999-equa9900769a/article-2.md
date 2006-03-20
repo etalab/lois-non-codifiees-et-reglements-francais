@@ -2,7 +2,7 @@
 
 Le nombre de prestataires autorisés à fournir des services d'assistance en escale sur l'aéroport d'Orly est limité de la façon suivante :
 
-I. - Pour l'aérogare Sud, limitation à quatre prestataires pour les services suivants  :
+I. - Pour l'aérogare Sud, limitation à trois prestataires pour chacun des services suivants   :
 
 - assistance bagages (catégorie 3) ;
 
@@ -27,7 +27,3 @@ II. - Pour l'aérogare Ouest, limitation à trois prestataires pour chacun des s
 - déplacement de l'avion (catégorie 5.6).
 
 III. - Pour l'ensemble de l'aéroport, limitation à quatre prestataires pour le service du transfert du fret et de la poste sur les aires de trafic (catégorie 4).
-
-IV. - Paragraphe supprimé.
-
-V. - Pour l'ensemble de l'aéroport, limitation à deux prestataires pour le service transport des passagers entre l'avion et l'aérogare (catégorie 5.4).
