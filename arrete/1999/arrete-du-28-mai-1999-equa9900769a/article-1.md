@@ -12,8 +12,6 @@ I. - Pour l'ensemble des aérogares Sud et Ouest, limitation à deux transporteu
 
 - transport des bagages entre l'avion et l'aérogare (catégorie 5.4) ;
 
-- transport des passagers entre l'avion et l'aérogare (catégorie 5.4) ;
-
 - assistance au démarrage de l'avion (catégorie 5.5) ;
 
 - déplacement de l'avion (catégorie 5.6).

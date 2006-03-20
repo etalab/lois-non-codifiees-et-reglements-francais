@@ -47,7 +47,3 @@ VIII. - Pour l'aérogare T 9, limitation à deux prestataires pour chacun des se
 - transport des bagages entre l'avion et l'aérogare (catégorie 5.4).
 
 IX. - Pour l'ensemble de l'aéroport, limitation à quatre prestataires pour le service transfert du fret et de la poste sur les aires de trafic entre l'aérogare de fret ou la zone postale et l'avion passager ou la zone de stockage intermédiaire (catégorie 4).
-
-X. - Paragraphe supprimé.
-
-XI. - Pour l'ensemble des aérogares CDG 1 et T 9, limitation à deux prestataires pour le service transport des passagers entre l'avion et l'aérogare (catégorie 5.4).
