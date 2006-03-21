@@ -8,6 +8,5 @@
 - [TITRE VI : Du soutien financier à la promotion à l'étranger des oeuvres cinématographiques](titre-vi)
 - [TITRE VII : Du soutien financier à la diffusion de certaines oeuvres cinématographiques en salles de spectacles cinématographiques](titre-vii)
 - [TITRE VIII : Du soutien financier à la modernisation et à la création des établissements de spectacles cinématographiques](titre-viii)
-- [TITRE IX : Du soutien financier à l'équipement et à la modernisation des industries techniques de la cinématographie](titre-ix)
 - [TITRE X : Dispositions diverses et transitoires.](titre-x)
 - [Article 152](article-152.md)

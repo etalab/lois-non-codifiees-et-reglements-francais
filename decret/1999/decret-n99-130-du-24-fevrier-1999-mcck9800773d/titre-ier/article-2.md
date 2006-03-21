@@ -12,8 +12,6 @@ Des subventions sont destinées à accorder un soutien financier automatique ain
 
 5° A la diffusion de certaines oeuvres cinématographiques en salles de spectacles cinématographiques ;
 
-6° A la modernisation et à la création des établissements de spectacles cinématographiques ;
+6° A la modernisation et à la création des établissements de spectacles cinématographiques.
 
-7° A l'équipement et à la modernisation des industries techniques de la cinématographie.
-
-Les conditions propres à l'attribution de ces différentes formes de soutien financier sont fixées par les dispositions des titres III, IV, V, VI, VII, VIII et IX du présent décret.
+Les conditions propres à l'attribution de ces différentes formes de soutien financier sont fixées par les dispositions des titres III, IV, V, VI, VIII et IX du présent décret.
