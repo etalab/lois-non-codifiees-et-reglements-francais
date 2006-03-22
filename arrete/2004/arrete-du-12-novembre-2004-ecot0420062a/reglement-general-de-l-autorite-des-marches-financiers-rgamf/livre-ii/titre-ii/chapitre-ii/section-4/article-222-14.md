@@ -1,9 +1,7 @@
 # Article 222-14
 
-Tout émetteur faisant appel public à l'épargne communique à l'AMF et rend publics au moyen d'un communiqué, dans un délai de cinq jours de négociation, les acquisitions, cessions, souscriptions ou échanges de ses instruments financiers ainsi que les transactions opérées sur ces instruments au moyen d'instruments financiers à terme, réalisés par les personnes mentionnées à l'article L. 621-18-2 du code monétaire et financier. Ce délai court à compter de la réception par l'émetteur de la déclaration de ces opérations.
+Les personnes mentionnées à l'article L. 621-18-2 du code monétaire et financier déclarent à l'AMF, par voie électronique, dans un délai de cinq jours de négociation suivant leur réalisation, les acquisitions, cessions, souscriptions ou échanges d'instruments financiers de l'émetteur au sein duquel les personnes mentionnées aux a et b de l'article L. 621-18-2 susvisé exercent leurs fonctions ainsi que les transactions opérées sur des instruments qui leur sont liés.
 
-Lorsque le montant total des opérations réalisées, sur une année civile, par les personnes mentionnées à l'article L. 621-18-2 précité est inférieur ou égal à 5 000 euros, l'obligation de communication à l'AMF mentionnée au premier alinéa n'est pas requise.
+Dans le même délai, les personnes mentionnées au premier alinéa ou, à leur demande, le teneur de compte conservateur, transmettent à l'AMF l'avis d'opéré y afférent.
 
-Ce montant total est calculé en additionnant les opérations effectuées par les personnes mentionnées au point a de l'article L. 621-18-2 précité ou pour le compte de ces personnes ainsi que les opérations effectuées pour le compte propre des personnes mentionnées au point b de l'article précité.
-
-En cas d'opération portant sur des instruments financiers à terme, ce même montant s'applique au sous-jacent.
+Les déclarations mentionnées au premier alinéa sont mises en ligne sur le site de l'AMF.
