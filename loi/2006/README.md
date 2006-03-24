@@ -5,4 +5,6 @@
 - [Loi n° 2006-10 du 5 janvier 2006 (EQUX0500211L)](loi-n-2006-10-du-5-janvier-2006-equx0500211l)
 - [Loi n° 2006-11 du 5 janvier 2006 (AGRX0500091L)](loi-n-2006-11-du-5-janvier-2006-agrx0500091l)
 - [Loi n° 2006-236 du 1 mars 2006 (AGRX0609079L)](loi-n-2006-236-du-1-mars-2006-agrx0609079l)
+- [Loi n° 2006-339 du 23 mars 2006 (SOCX0500260L)](loi-n-2006-339-du-23-mars-2006-socx0500260l)
+- [Loi n° 2006-340 du 23 mars 2006 (MCPX0500038L)](loi-n-2006-340-du-23-mars-2006-mcpx0500038l)
 - [Loi n° 2006-64 du 23 janvier 2006 (INTX0500242L)](loi-n-2006-64-du-23-janvier-2006-intx0500242l)

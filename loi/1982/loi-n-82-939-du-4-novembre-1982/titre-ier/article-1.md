@@ -10,7 +10,9 @@ Cet établissement a pour mission de rassembler les moyens de financement :
 
 3° De l'allocation forfaitaire prévue à l'article 3 de l'ordonnance n° 2005-893 du 2 août 2005 relative au contrat de travail "nouvelles embauches" ;
 
-4° Des aides mentionnées au premier alinéa du II de l'article L. 322-4-12 du code du travail pour le contrat d'avenir et au troisième alinéa du I de l'article L. 322-4-15-6 du même code pour le contrat insertion-revenu minimum d'activité en tant qu'elles concernent les employeurs qui ont conclu un contrat d'avenir ou un contrat insertion-revenu minimum d'activité avec une personne en sa qualité de bénéficiaire de l'allocation de solidarité spécifique.
+4° Des aides mentionnées au premier alinéa du II de l'article L. 322-4-12 du code du travail pour le contrat d'avenir et au troisième alinéa du I de l'article L. 322-4-15-6 du même code pour le contrat insertion-revenu minimum d'activité en tant qu'elles concernent les employeurs qui ont conclu un contrat d'avenir ou un contrat insertion-revenu minimum d'activité avec une personne en sa qualité de bénéficiaire de l'allocation de solidarité spécifique ;
+
+5° De la prime de retour à l'emploi et de la prime forfaitaire instituées par les articles L. 322-12 et L. 351-20 du même code.
 
 Il reçoit la contribution exceptionnelle de solidarité créée par la présente loi ainsi que, le cas échéant, une subvention de l'Etat. Le produit de cette contribution ne peut recevoir d'autre emploi.
 

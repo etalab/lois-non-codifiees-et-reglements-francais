@@ -27,3 +27,13 @@ Sont rattachés au directeur général du personnel et de l'administration, en t
 - la délégation à l'action foncière ;
 
 - le centre d'évaluation, de documentation et d'innovation pédagogiques.
+
+Le directeur des affaires juridiques, informatiques et logistiques est assisté d'un adjoint pour les fonctions assurées par :
+
+- la sous-direction des technologies de l'information ;
+
+- la sous-direction des prestations logistiques et des moyens ;
+
+- la sous-direction du cadre de vie des agents de l'administration centrale ;
+
+- la mission achats.

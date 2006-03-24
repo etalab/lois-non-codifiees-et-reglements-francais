@@ -39,6 +39,7 @@
 - [Arrêté du 6 mars 2006 (MENS0600741A)](arrete-du-6-mars-2006-mens0600741a)
 - [Arrêté du 7 décembre 2005 (ECOS0550044A)](arrete-du-7-decembre-2005-ecos0550044a)
 - [Arrêté du 7 février 2006 (MAEA0620031A)](arrete-du-7-fevrier-2006-maea0620031a)
+- [Arrêté du 7 mars 2006 (INTA0600155A)](arrete-du-7-mars-2006-inta0600155a)
 - [Arrêté du 8 décembre 2005 (BUDD0580003A)](arrete-du-8-decembre-2005-budd0580003a)
 - [Arrêté du 8 mars 2006 (EQUA0500606A)](arrete-du-8-mars-2006-equa0500606a)
 - [Arrêté du 8 novembre 2006 (JUSK0640240A)](arrete-du-8-novembre-2006-jusk0640240a)

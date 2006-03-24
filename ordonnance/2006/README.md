@@ -7,6 +7,8 @@
 - [Ordonnance n° 2006-173 du 15 février 2006 (DOMX0500315R)](ordonnance-n-2006-173-du-15-fevrier-2006-domx0500315r)
 - [Ordonnance n° 2006-60 du 19 janvier 2006 (ECOX0500165R)](ordonnance-n-2006-60-du-19-janvier-2006-ecox0500165r)
 - [Ordonnance n° 2005-44 du 20 janvier 2005 (DOMX0400264R)](ordonnance-n-2005-44-du-20-janvier-2005-domx0400264r)
+- [Ordonnance n° 2006-344 du 23 mars 2006 (ECOX0600006R)](ordonnance-n-2006-344-du-23-mars-2006-ecox0600006r)
+- [Ordonnance n° 2006-346 du 23 mars 2006 (JUSX0600032R)](ordonnance-n-2006-346-du-23-mars-2006-jusx0600032r)
 - [Ordonnance n° 2004-605 du 24 juin 2004 (SANX0400112R)](ordonnance-n-2004-605-du-24-juin-2004-sanx0400112r)
 - [Ordonnance n° 2005-1027 du 26 août 2005 (INTX0500114R)](ordonnance-n-2005-1027-du-26-aout-2005-intx0500114r)
 - [Ordonnance n° 2005-1045 du 26 août 2005 (DOMX0500146R)](ordonnance-n-2005-1045-du-26-aout-2005-domx0500146r)

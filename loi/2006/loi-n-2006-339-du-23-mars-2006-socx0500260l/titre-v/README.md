@@ -1,0 +1,3 @@
+# TITRE V : DISPOSITIONS RELATIVES À LA COHÉSION SOCIALE.
+
+- [Article 24](article-24.md)
