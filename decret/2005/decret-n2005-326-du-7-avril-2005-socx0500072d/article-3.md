@@ -1,6 +1,6 @@
 # Article 3
 
-Le Conseil d'orientation pour l'emploi est composé de cinquante membres, répartis comme suit :
+Le Conseil d'orientation pour l'emploi est composé de cinquante et un membres, répartis comme suit :
 
 1° Quatorze membres représentant les partenaires sociaux :
 
@@ -30,7 +30,7 @@ j) Un membre désigné par l'Union nationale des professions libérales (UNAPL) 
 
 4° Un représentant de l'Association des maires de France (AMF), un représentant de l'Assemblée des départements de France (ADF), un représentant de l'Association des régions de France (ARF) ;
 
-5° Onze représentants des administrations et organismes chargés d'une mission de service public :
+5° Douze représentants des administrations et organismes chargés d'une mission de service public :
 
 a) Le directeur général du Centre d'analyse stratégique ;
 
@@ -53,6 +53,8 @@ i) Le directeur général de l'Agence nationale pour l'emploi (ANPE) ;
 j) Le directeur général de l'Association nationale pour la formation professionnelle des adultes (AFPA) ;
 
 k) Le directeur général de l'UNEDIC ;
+
+l) Le directeur de la sécurité sociale ;
 
 6° Le président du Conseil de l'emploi, des revenus et de la cohésion sociale ;
 
