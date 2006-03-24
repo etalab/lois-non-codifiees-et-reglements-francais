@@ -20,7 +20,7 @@ En cas de décès de l'éleveur ou de toute autre personne indispensable à la c
 
 e) Faillite ou règlement judiciaire :
 
-En cas de faillite ou de règlement judiciaire de l'entreprise, le contrat est résilié de plein droit. Les sommes dues à l'éleveur par l'entreprise en application du présent contrat bénéficient du privilège institué par la loi du 4 juillet 1980 modifiant l'article 2101 du code civil.
+En cas de faillite ou de règlement judiciaire de l'entreprise, le contrat est résilié de plein droit. Les sommes dues à l'éleveur par l'entreprise en application du présent contrat bénéficient du privilège institué par la loi du 4 juillet 1980 modifiant l'article 2331 du code civil.
 
 f) Epizooties, environnement dangereux :
 

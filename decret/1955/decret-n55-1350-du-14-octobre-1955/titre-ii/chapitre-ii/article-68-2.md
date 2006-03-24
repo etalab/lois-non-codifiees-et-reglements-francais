@@ -1,6 +1,6 @@
 # Article 68-2
 
-Lorsque les extraits littéraux sont déposés au bureau des hypothèques, conformément au premier alinéa du 1 de l'article 34 du décret du 4 janvier 1955, pour opérer la publicité d'actes ou de décisions judiciaires en vertu desquels peut être requise, dans les deux mois de leur date, l'inscription des privilèges visés aux articles 2108 et 2109 du Code civil, ces extraits doivent préciser la nature et la date de l'acte ou de la décision, l'officier public ou ministériel ou l'autorité administrative qui a reçu l'acte ou l'autorité judiciaire qui a rendu la décision et reproduire littéralement :
+Lorsque les extraits littéraux sont déposés au bureau des hypothèques, conformément au premier alinéa du 1 de l'article 34 du décret du 4 janvier 1955, pour opérer la publicité d'actes ou de décisions judiciaires en vertu desquels peut être requise, dans les deux mois de leur date, l'inscription des privilèges visés aux articles 2379 et 2381 du Code civil, ces extraits doivent préciser la nature et la date de l'acte ou de la décision, l'officier public ou ministériel ou l'autorité administrative qui a reçu l'acte ou l'autorité judiciaire qui a rendu la décision et reproduire littéralement :
 
 1° Les énonciations desdits actes ou décisions relatives, notamment :
 

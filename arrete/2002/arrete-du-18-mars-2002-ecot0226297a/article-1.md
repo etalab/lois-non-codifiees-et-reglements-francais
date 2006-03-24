@@ -1,6 +1,6 @@
 # Article 1
 
-Les règles de fonctionnement du fonds de garantie visées à l'article R. 452-3 du code précité ainsi que les règles relatives à la garantie qu'apporte la caisse de garantie du logement locatif social sont régies par les dispositions du présent arrêté et en tant que de besoin par les articles 2011 et suivants du code civil.
+Les règles de fonctionnement du fonds de garantie visées à l'article R. 452-3 du code précité ainsi que les règles relatives à la garantie qu'apporte la caisse de garantie du logement locatif social sont régies par les dispositions du présent arrêté et en tant que de besoin par les articles 2288 et suivants du code civil.
 
 La caisse de garantie du logement locatif social ne peut accorder sa garantie à la Caisse des dépôts et consignations pour le remboursement des échéances d'un prêt en principal, intérêts, intérêts moratoires et accessoires qu'au vu d'une analyse écrite préalable du risque couru. Elle peut refuser sa garantie ou l'assortir de conditions. Elle peut demander une sûreté en contrepartie de sa garantie.
 

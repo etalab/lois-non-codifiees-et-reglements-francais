@@ -1,12 +1,12 @@
 # Article 76
 
-1. Dans tous les cas où la désignation des immeubles, faite conformément aux prescriptions des articles 2146, dernier alinéa, 2148, troisième alinéa 5°, du Code civil, et 34 (par. 2), du décret du 4 janvier 1955, est complétée par une formule générale de désignation, la publication est censée requise uniquement pour les immeubles individuellement désignés.
+1. Dans tous les cas où la désignation des immeubles, faite conformément aux prescriptions des articles 2426, dernier alinéa, 2428, troisième alinéa 5°, du Code civil, et 34 (par. 2), du décret du 4 janvier 1955, est complétée par une formule générale de désignation, la publication est censée requise uniquement pour les immeubles individuellement désignés.
 
 Lorsqu'un acte ou une décision judiciaire soumis à publicité en exécution des articles 28, 35 à 37 et 39 du décret du 4 janvier 1955 contient les dispositions, portant sur des biens immobiliers et d'autres dispositions, la publicité n'est censée requise que pour les dispositions portant sur les biens immobiliers.
 
 Si, dans un tel acte ou décision, des biens autres que des immeubles par nature ou des droits ne portant pas sur des immeubles par nature présentent le caractère immobilier, ce caractère doit être explicitement indiqué dans le document déposé. A défaut, la publicité n'est censée requise qu'en ce qui concerne les autres biens ou droits immobiliers compris dans le document.
 
-La désignation individuelle des immeubles exigée par les articles 2148, cinquième alinéa, 2149, dernier alinéa, du code civil, et le 2 de l'article 34 du décret n° 55-22 du 4 janvier 1955 modifié est faite, conformément aux dispositions de l'article 7 du même décret, par l'indication des éléments suivants :
+La désignation individuelle des immeubles exigée par les articles 2428, cinquième alinéa, 2430, dernier alinéa, du code civil, et le 2 de l'article 34 du décret n° 55-22 du 4 janvier 1955 modifié est faite, conformément aux dispositions de l'article 7 du même décret, par l'indication des éléments suivants :
 
 a) La nature ;
 

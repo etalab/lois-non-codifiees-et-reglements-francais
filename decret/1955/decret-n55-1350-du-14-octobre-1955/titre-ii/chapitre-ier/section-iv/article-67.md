@@ -1,8 +1,8 @@
 # Article 67
 
-1. Pour l'application des dispositions des articles 2154 et 2154-1 du Code civil et des articles 55 et 61 du présent décret relatives à la durée de l'effet des inscriptions, le conservateur n'a en aucun cas à rechercher si les caractères de l'échéance ou de la dernière échéance ont été exactement déclarés.
+1. Pour l'application des dispositions des articles 2434 et 2435 du Code civil et des articles 55 et 61 du présent décret relatives à la durée de l'effet des inscriptions, le conservateur n'a en aucun cas à rechercher si les caractères de l'échéance ou de la dernière échéance ont été exactement déclarés.
 
-Si la date extrême d'effet de l'inscription, fixée par le créancier, est postérieure à celle de l'expiration, suivant le cas, du délai de dix ans ou de celui de trente-cinq ans visés aux articles 2154 et 2154-1 du Code civil, la formalité est rejetée, à moins que le requérant ne régularise le bordereau d'inscription ou de renouvellement. La formalité est également rejetée si une omission ou une autre irrégularité est relevée par le conservateur en ce qui concerne les réquisition et indication prévues au 2 de l'article 55 et au 1 de l'article 61 et n'est pas réparée dans le délai imparti.
+Si la date extrême d'effet de l'inscription, fixée par le créancier, est postérieure à celle de l'expiration, suivant le cas, du délai de dix ans ou de celui de cinquante ans visés aux articles 2434 et 2435 du Code civil, la formalité est rejetée, à moins que le requérant ne régularise le bordereau d'inscription ou de renouvellement. La formalité est également rejetée si une omission ou une autre irrégularité est relevée par le conservateur en ce qui concerne les réquisition et indication prévues au 2 de l'article 55 et au 1 de l'article 61 et n'est pas réparée dans le délai imparti.
 
 2. En cas de dépassement de l'un des délais de deux ans, dix ans ou trente-cinq ans, l'inscription opérée est périmée le lendemain, à zéro heure, à la date d'expiration du délai non respecté, si elle n'a pas été préalablement renouvelée.
 

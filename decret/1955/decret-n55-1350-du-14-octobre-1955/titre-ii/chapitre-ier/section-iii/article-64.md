@@ -4,7 +4,7 @@
 
 1° Si le bordereau ne contient pas la mention de référence à la dernière inscription à renouveler ;
 
-2° Si le renouvellement est requis après péremption ou radiation de l'inscription à renouveler. Dans ce cas, le créancier peut requérir une nouvelle inscription prenant rang à sa date en se conformant aux prescriptions de l'article 2148 du Code civil ;
+2° Si le renouvellement est requis après péremption ou radiation de l'inscription à renouveler. Dans ce cas, le créancier peut requérir une nouvelle inscription prenant rang à sa date en se conformant aux prescriptions de l'article 2428 du Code civil ;
 
 3° Si les immeubles ne sont pas individuellement désignés, avec indication de la commune où ils sont situés, dans les cas où la désignation détaillée est obligatoire ;
 

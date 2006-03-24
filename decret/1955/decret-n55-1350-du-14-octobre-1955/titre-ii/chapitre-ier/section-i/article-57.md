@@ -1,6 +1,6 @@
 # Article 57
 
-En exécution de l'article 2148, alinéa 3 (4°) du Code civil, les accessoires de la créance, même éventuels, dont la nature doit être sommairement indiquée, sont évalués par catégorie ou globalement et leur montant total est ajouté à celui du principal de la créance pour déterminer l'ensemble des sommes garanties.
+En exécution du 4° du 2 de l'article 55, les accessoires de la créance, même éventuels, dont la nature doit être sommairement indiquée, sont évalués par catégorie ou globalement et leur montant total est ajouté à celui du principal de la créance pour déterminer l'ensemble des sommes garanties.
 
 L'évaluation des intérêts dont la loi conserve le rang n'est pas obligatoire.
 

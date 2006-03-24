@@ -1,6 +1,6 @@
 # Article 12
 
-La garantie visée à l'article 11 joue sans que puisse être opposé aux créanciers le bénéfice de discussion prévu à l'article 2021 du code civil, et sur la seule justification de l'exigibilité de la créance et de la défaillance du notaire.
+La garantie visée à l'article 11 joue sans que puisse être opposé aux créanciers le bénéfice de discussion prévu à l'article 2298 du code civil, et sur la seule justification de l'exigibilité de la créance et de la défaillance du notaire.
 
 Cette garantie s'applique au remboursement des sommes d'argent, à la restitution des titres et valeurs quelconques reçus par les notaires à l'occasion des actes de leur ministère ou des opérations dont ils sont chargés en raison de leurs fonctions.
 

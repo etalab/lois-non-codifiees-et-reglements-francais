@@ -1,6 +1,6 @@
 # Article 51
 
-Des décrets pris sur le rapport du garde des sceaux, ministre de la justice, du ministre de l'économie et des finances, du ministre de l'agriculture, du ministre chargé du travail, du ministre de l'équipement et aux finances, déterminent les modalités d'application du présent décret et, notamment, des articles 1er à 3, 7, 28 9°, 29, 32, 34 à 36, 39 et 40, ainsi que des articles 2136, 2137, 2148 et 2154 nouveaux du code civil.
+Des décrets pris sur le rapport du garde des sceaux, ministre de la justice, du ministre de l'économie et des finances, du ministre de l'agriculture, du ministre chargé du travail, du ministre de l'équipement et aux finances, déterminent les modalités d'application du présent décret et, notamment, des articles 1er à 3, 7, 28 9°, 29, 32, 34 à 36, 39 et 40, ainsi que des articles 2402, 2403, 2426 et 2434 nouveaux du code civil.
 
 Ils fixent en particulier :
 
@@ -10,8 +10,8 @@ Ils fixent en particulier :
 
 - la liste des organismes habilités à certifier l'identité des personnes physiques ou morales conformément aux articles 5 et 6 ;
 
-- les modalités du refus du dépôt ou du rejet de la formalité en application des articles 34, 39, 40 et 48 du présent décret et des articles 2148, 2149 et 2154 nouveaux du code civil.
+- les modalités du refus du dépôt ou du rejet de la formalité en application des articles 34, 39, 40 et 48 du présent décret et des articles 2428, 2430 et 2434 nouveaux du code civil.
 
-- les éléments de la désignation individuelle des immeubles exigée par les articles 2146, dernier alinéa, 2148, cinquième alinéa, 2149, dernier alinéa, du code civil et les articles 9, quatrième alinéa, et 34-2 du présent décret ;
+- les éléments de la désignation individuelle des immeubles exigée par les articles 2426, dernier alinéa, 2428, cinquième alinéa, 2430, dernier alinéa, du code civil et les articles 9, quatrième alinéa, et 34-2 du présent décret ;
 
 - les règles spéciales régissant la publicité des actes, décisions et bordereaux concernant les droits sur les mines, en vue de la constitution d'un fichier des mines, et, notamment, les cas de refus du dépôt et de rejet de la formalité.

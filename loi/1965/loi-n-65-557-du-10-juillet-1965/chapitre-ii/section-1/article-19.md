@@ -8,6 +8,6 @@ Le copropriétaire défaillant peut, même en cas d'instance au principal, sous 
 
 Aucune inscription ou inscription complémentaire ne peut être requise pour des créances exigibles depuis plus de cinq ans.
 
-Les créances visées à l'alinéa 1er bénéficient, en outre, du privilège prévu par l'article 2102 1° du code civil en faveur du bailleur. Ce privilège porte sur tout ce qui garnit les lieux, sauf si ces derniers font l'objet d'une location non meublée.
+Les créances visées à l'alinéa 1er bénéficient, en outre, du privilège prévu par l'article 2332 1° du code civil en faveur du bailleur. Ce privilège porte sur tout ce qui garnit les lieux, sauf si ces derniers font l'objet d'une location non meublée.
 
 Dans ce dernier cas, il est reporté sur les loyers dus par le locataire.

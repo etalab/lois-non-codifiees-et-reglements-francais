@@ -1,6 +1,6 @@
 # Article 51
 
-1. Par dérogation aux dispositions de l'article 34, pour les formalités intéressant les immeubles situés dans une commune non encore cadastrée ou s'il s'agit de la première formalité depuis l'établissement du cadastre ou sa rénovation, le conservateur lorsqu'il a accepté le dépôt et inscrit la formalité au registre prévu à l'article 2200 du code civil :
+1. Par dérogation aux dispositions de l'article 34, pour les formalités intéressant les immeubles situés dans une commune non encore cadastrée ou s'il s'agit de la première formalité depuis l'établissement du cadastre ou sa rénovation, le conservateur lorsqu'il a accepté le dépôt et inscrit la formalité au registre prévu à l'article 2453 du code civil :
 
 a) Vérifie que la personne indiquée comme disposant ou dernier titulaire dans le document déposé ainsi que la formalité antérieure sont répertoriées au fichier immobilier ;
 

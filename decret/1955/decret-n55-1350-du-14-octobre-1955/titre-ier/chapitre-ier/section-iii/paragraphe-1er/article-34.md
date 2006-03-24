@@ -1,6 +1,6 @@
 # Article 34
 
-1. Lorsqu'il a accepté le dépôt et inscrit la formalité au registre prévu à l'article 2200 du Code civil, le conservateur :
+1. Lorsqu'il a accepté le dépôt et inscrit la formalité au registre prévu à l'article 2453 du Code civil, le conservateur :
 
 - vérifie l'exactitude des références à la formalité antérieure ;
 
@@ -12,7 +12,7 @@ b) la qualité du disposant ou du dernier titulaire, au sens du 1 de l'article 3
 
 c) la désignation individuelle des immeubles.
 
-2. Lorsqu'il ne relève ni inexactitude ni discordance et que, par ailleurs, le document déposé contient toutes les mentions exigées par les articles 2148 du Code civil, 5, 6 et 7 du décret du 4 janvier 1955, et 61 à 63 du présent décret, le conservateur termine l'exécution de la formalité.
+2. Lorsqu'il ne relève ni inexactitude ni discordance et que, par ailleurs, le document déposé contient toutes les mentions exigées par les articles 2428 du Code civil, 5, 6 et 7 du décret du 4 janvier 1955, et 61 à 63 du présent décret, le conservateur termine l'exécution de la formalité.
 
 Il n'y a pas discordance lorsque le titre de la personne indiquée comme disposant ou dernier titulaire, au sens du 1 de l'article 32, a cessé, postérieurement à la publication au fichier immobilier, de produire tout ou partie de ses effets en raison d'un acte ou d'une décision judiciaire ultérieurement publié.
 

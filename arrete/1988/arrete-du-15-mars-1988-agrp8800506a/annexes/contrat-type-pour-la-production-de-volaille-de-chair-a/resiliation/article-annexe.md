@@ -20,7 +20,7 @@ Lorsque le successeur de l'éleveur présente la qualification requise pour cont
 
 4. Faillite de l'entreprise.
 
-En cas de faillite de l'entreprise, l'éleveur a rang de créancier privilégié en vertu de l'article 2101 du code civil.
+En cas de faillite de l'entreprise, l'éleveur a rang de créancier privilégié en vertu de l'article 2331 du code civil.
 
 5. Mauvais résultats techniques.
 

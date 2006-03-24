@@ -1,6 +1,6 @@
 # Article 9
 
-Toute réquisition de copie, extrait ou certificat, déposée en application de l'article 2196 du code civil doit comporter l'identification des personnes du chef desquelles les renseignements sont requis, savoir :
+Toute réquisition de copie, extrait ou certificat, déposée en application de l'article 2449 du code civil doit comporter l'identification des personnes du chef desquelles les renseignements sont requis, savoir :
 
 pour les personnes physiques, les nom et prénoms dans l'ordre de l'état civil, et les date et lieu de naissance ;
 

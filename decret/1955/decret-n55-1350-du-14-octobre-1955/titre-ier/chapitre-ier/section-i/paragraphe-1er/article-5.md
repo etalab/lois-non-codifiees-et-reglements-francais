@@ -24,7 +24,7 @@ Le conservateur mentionne :
 
 - de la date extrême d'effet de l'inscription.
 
-Ne donnent lieu à aucune annotation les mentions portées, par application de l'article 2149 du Code civil, en marge des inscriptions prises avant le 1er janvier 1956, ainsi que les mentions portées en marge des copies de commandement valant saisie publiée avant la même date.
+Ne donnent lieu à aucune annotation les mentions portées, par application de l'article 2430 du Code civil, en marge des inscriptions prises avant le 1er janvier 1956, ainsi que les mentions portées en marge des copies de commandement valant saisie publiée avant la même date.
 
 Dans le cadre B du tableau III, sont répertoriés les bordereaux, actes ou décisions relatifs à des privilèges, hypothèques (inscriptions, renouvellement, mentions), saisies, restrictions au droit de disposer, clauses résolutoires, demandes en justice, baux, servitudes passives, droits de superficie, d'usage, d'habitation, antichrèses et, d'une manière générale, tous droits grevant les immeubles.
 

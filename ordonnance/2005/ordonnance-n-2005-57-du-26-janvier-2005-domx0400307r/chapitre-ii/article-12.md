@@ -38,7 +38,7 @@ VI. - L'article 103 est remplacé par les deux articles suivants :
 
 "1° Dans les conditions fixées à l'article 1798 du code civil, les maçons, charpentiers et autres ouvriers employés pour édifier, reconstruire ou réparer des bâtiments, canaux ou ouvrages quelconques ;
 
-"2° Dans les conditions fixées à l'article 2102 (1° et 3°) du code civil, les ouvriers qui ont travaillé soit à la récolte, soit à la fabrication ou à la réparation des ustensiles agricoles, soit à la conservation de la chose."
+"2° Dans les conditions fixées à l'article 2332(1° et 3°) du code civil, les ouvriers qui ont travaillé soit à la récolte, soit à la fabrication ou à la réparation des ustensiles agricoles, soit à la conservation de la chose."
 
 VII. - L'article 104 est ainsi rédigé :
 

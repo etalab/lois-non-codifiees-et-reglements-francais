@@ -10,4 +10,4 @@ L'inscription provisoire d'hypothèque est opérée par le dépôt à la conserv
 
 4° La désignation, conformément aux premier et troisième alinéas de l'article 7 du décret n° 55-22 du 4 janvier 1955 portant réforme de la publicité foncière, de l'immeuble sur lequel l'inscription est requise.
 
-Les dispositions des quatrième à septième alinéas de l'article 2148 du code civil sont applicables.
+Les dispositions des quatrième à septième alinéas de l'article 2428 du code civil sont applicables.

@@ -6,6 +6,6 @@ A l'observation par les usagers des conditions de fond et de forme exigées pour
 
 A l'élaboration, par l'analyse des actes présentés à la formalité, des éléments constitutifs du fichier immobilier dont la création est prescrite par l'article 1er du texte précité, ainsi qu'à la conservation et au classement correct de ces documents ;
 
-A la préparation, dans le délai prescrit, des copies et extraits dont la délivrance est prévue par l'article 2196 du code civil.
+A la préparation, dans le délai prescrit, des copies et extraits dont la délivrance est prévue par l'article 2449 du code civil.
 
 Ils peuvent être chargés des fonctions de fondé de pouvoir par le conservateur de hypothèques dans les conditions fixées par l'article 41 du décret susvisé du 30 août 1957 modifié.

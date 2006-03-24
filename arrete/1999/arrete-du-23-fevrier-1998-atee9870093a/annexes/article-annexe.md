@@ -328,7 +328,7 @@ La caution est désignée par écrit par le locataire, immédiatement en cas de 
 
 La caution doit être de nationalité française, domiciliée en France et agréée par le comptable chargé du recouvrement du prix.
 
-Elle s'oblige solidairement avec le locataire et également par écrit à toutes les charges et conditions de la location, et renonce à se prévaloir du bénéfice de discussion prévu à l'article 2021 du code civil.
+Elle s'oblige solidairement avec le locataire et également par écrit à toutes les charges et conditions de la location, et renonce à se prévaloir du bénéfice de discussion prévu à l'article 2331 du code civil.
 
 En cas d'adjudication et s'il n'est pas intervenu sur le champ, l'acte constatant la réalisation de ces garanties est passé, à la suite du procès-verbal d'adjudication, par devant l'autorité administrative qui a présidé la séance.
 

@@ -10,6 +10,6 @@ B. - Pour les décisions judiciaires, trois mois du jour où elles sont devenues
 
 C. - Pour les autres actes, trois mois de leur date.
 
-Toutefois, le délai est réduit à deux mois pour les actes et décisions en vertu desquels peut être requise l'inscription des privilèges prévus aux articles 2108 et 2109 du code civil.
+Toutefois, le délai est réduit à deux mois pour les actes et décisions en vertu desquels peut être requise l'inscription des privilèges prévus aux articles 2379 et 2381 du code civil.
 
 Au cas où la publicité doit être opérée dans deux ou plusieurs bureaux, les délais ci-dessus prévus sont prorogés d'un mois pour chaque bureau en sus du premier.

@@ -1,6 +1,6 @@
 # Article 104
 
-Les dispositions des articles 2101 du code civil, 191 et 549 du code de commerce ne s'appliquent pas à la fraction insaisissable des sommes restant dues sur les salaires effectivement gagnés par les ouvriers pendant les quinze derniers jours de travail, ou par les employés pour les trente derniers jours, sur les commissions dues aux voyageurs et représentants de commerce pour les quatre-vingt-dix derniers jours de travail et sur les salaires dus aux marins de commerce pour la dernière période de payement.
+Les dispositions des articles 2331 du code civil, 191 et 549 du code de commerce ne s'appliquent pas à la fraction insaisissable des sommes restant dues sur les salaires effectivement gagnés par les ouvriers pendant les quinze derniers jours de travail, ou par les employés pour les trente derniers jours, sur les commissions dues aux voyageurs et représentants de commerce pour les quatre-vingt-dix derniers jours de travail et sur les salaires dus aux marins de commerce pour la dernière période de payement.
 
 A cette fraction insaisissable représentant la différence entre les salaires et commissions dues et la portion saisissable de ces salaires et commissions, telle qu'elle est déterminée par les décrets prévus à l'article 108 s'applique la procédure exceptionnelle suivante :
 

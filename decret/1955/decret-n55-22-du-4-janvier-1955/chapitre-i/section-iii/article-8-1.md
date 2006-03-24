@@ -1,6 +1,6 @@
 # Article 8-1
 
-1. Pour l'application de l'article 2203-1 du code civil, le certificat établi à partir du registre des dépôts tenu conformément au deuxième alinéa de l'article 2201 du même code fait apparaître pour chacun des documents acceptés :
+1. Pour l'application de l'article 2457 du code civil, le certificat établi à partir du registre des dépôts tenu conformément au deuxième alinéa de l'article 2454 du même code fait apparaître pour chacun des documents acceptés :
 
 - la date et le numéro de dépôt ;
 

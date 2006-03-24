@@ -1,6 +1,6 @@
 # Article 192
 
-Le créancier surenchérisseur doit, dans le délai fixé par l'article 2185 du code civil pour la signification de la surenchère, présenter requête au tribunal cantonal comptent aux fins de revente sur surenchère.
+Le créancier surenchérisseur doit, dans le délai fixé par l'article 2480 du code civil pour la signification de la surenchère, présenter requête au tribunal cantonal comptent aux fins de revente sur surenchère.
 
 Faute par lui de présenter ladite requête dans ce délai, la revente sur surenchère peut, dans un nouveau délai d'un mois, être demandée par tout autre créancier hypothécaire.
 
