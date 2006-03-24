@@ -14,10 +14,10 @@ Il présente en outre un bilan du revenu minimum d'activité.
 
 Il présentera également le bilan du fonctionnement du dispositif local d'insertion, et notamment de la mise en oeuvre et du financement des programmes départementaux d'insertion.
 
-Par ailleurs, un rapport est transmis au Parlement, chaque année avant le 1er octobre, présentant, pour chaque département, au titre du dernier exercice clos, les éléments suivants :
+Par ailleurs, un rapport est transmis au Parlement, chaque année avant le 1er décembre, présentant, pour chaque département, au titre du dernier exercice clos, les éléments suivants :
 
-- les données comptables concernant les crédits consacrés aux prestations de revenu minimum d'insertion et de contrat insertion-revenu minimum d'activité, y compris les éventuelles primes exceptionnelles ;
+- les données comptables concernant les crédits consacrés aux prestations de revenu minimum d'insertion, aux contrats insertion-revenu minimum d'activité et aux contrats d'avenir, y compris les éventuelles primes exceptionnelles ainsi que celles concernant les primes forfaitaires mentionnées à l'article L. 262-11 du code de l'action sociale et des familles ;
 
-- les données comptables relatives aux dépenses de personnel et les données agrégées relatives aux effectifs en équivalent temps plein, pour les agents affectés à la gestion du revenu minimum d'insertion ou du revenu minimum d'activité par les conseils généraux, les caisses d'allocations familiales, les caisses de mutualité sociale agricole et les autres organismes associés à cette gestion ;
+- les données comptables relatives aux dépenses de personnel et les données agrégées relatives aux effectifs en équivalent temps plein, pour les agents affectés à la gestion du revenu minimum d'insertion, du contrat insertion-revenu minimum d'activité, du contrat d'avenir ou des primes forfaitaires mentionnées à l'article L. 262-11 du code de l'action sociale et des familles par les conseils généraux, les caisses d'allocations familiales, les caisses de mutualité sociale agricole et les autres organismes associés à cette gestion ;
 
-- les données agrégées portant sur le nombre des bénéficiaires du revenu minimum d'insertion et du revenu minimum d'activité, le nombre des personnes entrées dans ces dispositifs ou sorties de ceux-ci, ainsi que sur les caractéristiques des demandeurs.
+- les données agrégées portant sur le nombre des bénéficiaires du revenu minimum d'insertion et des primes forfaitaires mentionnées à l'article L. 262-11 du code de l'action sociale et des familles, le nombre de titulaires du contrat insertion-revenu minimum d'activité et du contrat d'avenir, le nombre des personnes entrées dans ces dispositifs ou sorties de ceux-ci, ainsi que sur les caractéristiques des demandeurs.
