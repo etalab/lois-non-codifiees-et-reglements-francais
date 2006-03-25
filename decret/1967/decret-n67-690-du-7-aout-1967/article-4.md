@@ -6,7 +6,7 @@ Peuvent être portées au rôle d'équipage d'un navire français les personnes 
 
 2° Remplir les conditions d'aptitude physique définies par arrêté du ministre chargé de la marine marchande et constatées selon les modalités prévues par ce texte.
 
-3° Satisfaire aux conditions de formation professionnelle fixées par arrêté du ministre chargé de la marine marchande.
+3° Satisfaire aux conditions de formation professionnelle fixées par arrêté du ministre chargé de la marine marchande ou être titulaires d'un contrat d'apprentissage maritime et être dûment inscrits dans un établissement d'enseignement ou un centre de formation au titre de cet apprentissage.
 
 4° N'avoir subi aucune condamnation :
 
