@@ -2,7 +2,7 @@
 
 Les approbations prévues à l'article 85 du décret du 28 septembre 1979 susvisé sont données :
 
-Pour les établissements ou organismes relevant du délégué général pour l'armement, par le directeur des centres d'expertises et d'essais et le chef du service de la maintenance aéronautique respectivement pour chacun de leurs établissements et organismes et, pour tous les autres établissements et organismes, par le directeur des systèmes de forces et de prospective.
+Pour les établissements ou organismes relevant du délégué général pour l'armement, par le directeur de l'expertise technique, le directeur des essais et le directeur du service de la maintenance aéronautique respectivement pour chacun de leurs établissements et organismes et, pour tous les autres établissements et organismes, par le directeur des plans, du budget et de la gestion.
 
 Pour les établissements ou organismes relevant du chef d'état-major de l'armée de terre, par le directeur central du matériel de l'armée de terre.
 
