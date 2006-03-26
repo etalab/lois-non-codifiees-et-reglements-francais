@@ -33,5 +33,3 @@ m) Glandes surrénales ;
 n) Thymus ;
 
 2. Des tissus ou liquides corporels d'origine embryonnaire provenant de bovins, d'ovins et de caprins.
-
-Les compléments alimentaires sont des produits destinés à être ingérés en complément de l'alimentation courante, afin de pallier l'insuffisance réelle ou supposée des apports journaliers.
