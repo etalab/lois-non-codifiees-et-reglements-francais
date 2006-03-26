@@ -5,6 +5,7 @@
 - [Chapitre III : Représentation du personnel](chapitre-iii)
 - [Chapitre IV : Enseignement](chapitre-iv)
 - [Chapitre V : Formation initiale](chapitre-v)
+- [Chapitre VI : Discipline](chapitre-vi)
 - [Chapitre VII : Formation de perfectionnement statutaire](chapitre-vii)
 - [Chapitre VIII : Formation continue](chapitre-viii)
 - [Article 26](article-26.md)
