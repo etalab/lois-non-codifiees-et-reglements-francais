@@ -2,7 +2,7 @@
 
 Toute demande formulée par un éditeur pour bénéficier des allégements mentionnés à l'article 1er doit être adressée au secrétariat de la commission.
 
-A l'appui de sa demande, l'éditeur doit produire douze exemplaires du dernier numéro paru et deux exemplaires des six derniers numéros de la parution normale, accompagnés, le cas échéant, des suppléments ou hors série mis à disposition du public dans l'intervalle séparant la parution du premier et du dernier de ces numéros.
+A l'appui de sa demande, quelle que soit la nature de l'examen de la publication, l'éditeur doit produire un nombre d'exemplaires du dernier numéro paru et éventuellement des derniers numéros de la parution normale déterminé par la commission paritaire des publications et agences de presse, accompagnés, le cas échéant, des suppléments ou hors-série mis à disposition du public dans l'intervalle séparant la parution du premier et du dernier de ces numéros.
 
 L'éditeur qui souhaite bénéficier de l'abattement sur le tarif de presse prévu à l'article D. 19-2 du code des postes et télécommunications doit en faire la demande expresse.
 
