@@ -6,7 +6,7 @@ La convention mentionnée au quatrième alinéa de l'article 27 de la loi du 12 
 
 - son siège ;
 
-- les services publics associés ;
+- les services publics ou privés associés ;
 
 - les services offerts aux usagers ;
 
