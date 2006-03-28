@@ -10,7 +10,6 @@
 - [Type et description.](type-et)
 - [Etiquetage.](etiquetage)
 - [Identification.](identification)
-- [Identification des produits.](identification-des-produits)
 - [La fabrication.](la-fabrication)
 - [Le lait.](le-lait)
 - [Production fermière.](production-fermiere)
