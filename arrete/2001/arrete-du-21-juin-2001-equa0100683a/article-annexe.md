@@ -122,7 +122,7 @@ Tout aéronef dispose de l'équipement de communication VHF permettant une liais
 
 Obligation :
 
-Au-dessus du niveau de vol 245, tout aéronef dispose de l'équipement de communication VHF permettant une liaison bilatérale permanente avec les organismes au sol désignés, capable d'utiliser tous les canaux radioélectriques, espacés de 8,33 kHz, dans la bande de fréquences du service mobile aéronautique (R) (3).
+Au-dessus du niveau de vol 245 et, à compter du 15 mars 2007, au-dessus du niveau de vol 195, tout aéronef dispose de l'équipement de communication VHF permettant une liaison bilatérale permanente avec les organismes au sol désignés, capable d'utiliser tous les canaux radioélectriques, espacés de 8,33 kHz, dans la bande de fréquences du service mobile aéronautique (R) (3).
 
 Exemption :
 
@@ -411,6 +411,12 @@ Des dérogations au paragraphe 4.3.1, peuvent être accordées par l'autorité c
 - vol de convoyage, en provenance d'une région où l'équipement ACAS II n'est pas obligatoire ;
 
 - vol pour maintenance, en provenance ou à destination d'une région où l'équipement ACAS II n'est pas obligatoire.
+
+Les catégories suivantes d'aéronefs peuvent également faire l'objet de dérogations au paragraphe 4.3.1 ci-dessus accordées par l'autorité compétente, assorties éventuellement de restrictions d'utilisation :
+
+- aéronefs visés aux alinéas a, b, c et d de l'annexe II du règlement (CE) n° 1592/2002 du Parlement européen et du Conseil du 15 juillet 2002 concernant des règles communes dans le domaine de l'aviation civile et instituant une Agence européenne de la sécurité aérienne ;
+
+- aéronefs effectuant des vols dans le cadre du chapitre III (Activités particulières) de l'annexe de l'arrêté du 24 juillet 1991 modifié relatif aux conditions d'utilisation des aéronefs civils en aviation générale, et dont les caractéristiques techniques ou opérationnelles interdisent l'installation ou l'utilisation de l'ACAS II dans les conditions normales, ou ont un impact négatif sur l'installation ou l'utilisation de l'ACAS II.
 
 Les conditions de délivrance de ces dérogations et la procédure à suivre sont portées à la connaissance des usagers par la voie de l'information aéronautique.
 
