@@ -1,3 +1,0 @@
-# Article 16
-
-Les balances monoplateau doivent comporter un dispositif de mise à zéro, non manoeuvrable sans outil. Elles peuvent être munies d'un dispositif de compensation de tare permettant qu'équilibrer la masse des récipients utilisés : lorsque l'effet de compensation est progressif, le dispositif correspondant doit être également non manoeuvrable sans outil et la valeur de l'effet de tare doit être indiquée ; lorsque le dispositif est constitué par une masse additionnelle de valeur réglable et réglée à la valeur de la masse commune aux récipients utilisés, l'indication "avec" ou "sans" (tare) doit apparaître sous une fenêtre portant portant l'inscription "tare".
