@@ -1,6 +1,6 @@
 # Article 19
 
-Peuvent présenter des demandes d'attribution de sillons les entreprises ferroviaires mentionnées à l'article 2, le gestionnaire d'infrastructure ou l'organisme de répartition des capacités d'infrastructure d'un autre Etat membre de l'Union européenne dûment mandaté ou un groupement de plusieurs gestionnaires d'infrastructure d'autres Etats membres de l'Union européenne constitué à cet effet.
+Peuvent présenter des demandes d'attribution de sillons les entreprises ferroviaires mentionnées à l'article 2, le gestionnaire d'infrastructure ou l'organisme de répartition des capacités d'infrastructure dûment mandaté d'un autre Etat membre de l'Union européenne ou d'un Etat appliquant des règles équivalentes à celles de l'Union européenne en vertu d'accords conclus avec celle-ci ou un groupement de plusieurs gestionnaires d'infrastructure d'autres Etats membres de l'Union européenne ou appliquant des règles équivalentes à celles de l'Union européenne en vertu d'accords conclus avec celle-ci, constitué à cet effet.
 
 Toute entreprise ferroviaire qui méconnaît l'interdiction de transférer à un autre demandeur les sillons qui lui ont été attribués perd le droit de présenter une nouvelle demande de sillons.
 
