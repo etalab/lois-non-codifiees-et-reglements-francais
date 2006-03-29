@@ -1,6 +1,6 @@
 # Article 39
 
-Sous réserve de l'application, le cas échéant, des dispositions du décret du 27 janvier 1970 susvisé, les maîtres ouvriers recrutés en application de l'article 35 ci-dessus sont nommés en qualité de stagiaire au 1er échelon du grade de maître ouvrier.
+Sous réserve de l'application, le cas échéant, des dispositions du décret n° 2005-1228 du 29 septembre 2005 susmentionné, les maîtres ouvriers recrutés en application de l'article 35 ci-dessus sont nommés en qualité de stagiaire au 1er échelon du grade de maître ouvrier.
 
 A l'issue du stage, d'une durée d'un an, ceux dont les services ont donné satisfaction sont titularisés.
 

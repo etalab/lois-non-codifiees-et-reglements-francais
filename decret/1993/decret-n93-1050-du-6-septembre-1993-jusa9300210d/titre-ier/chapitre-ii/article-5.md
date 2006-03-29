@@ -1,6 +1,6 @@
 # Article 5
 
-Sous réserve de l'application, le cas échéant, des dispositions des articles 5 et 6 du décret du 27 janvier 1970 susvisé, les ouvriers d'entretien et d'accueil recrutés conformément à l'article 4 ci-dessus sont nommés en qualité de stagiaire au 1er échelon de la 2e classe.
+Sous réserve de l'application, le cas échéant, des dispositions des articles 3, 4 et 5 du décret n° 2005-1228 du 29 septembre 2005 relatif à l'organisation des carrières des fonctionnaires de catégorie C, les ouvriers d'entretien et d'accueil recrutés conformément à l'article 4 sont nommés en qualité de stagiaire au 1er échelon.
 
 Ils ne peuvent être titularisés qu'après avoir accompli un stage d'une durée d'une année. Ils sont appelés, au cours de cette année, à suivre une action de formation destinée à favoriser leur adaptation à l'emploi ; leur ancienneté d'échelon court du jour de leur nomination en qualité de stagiaire.
 
