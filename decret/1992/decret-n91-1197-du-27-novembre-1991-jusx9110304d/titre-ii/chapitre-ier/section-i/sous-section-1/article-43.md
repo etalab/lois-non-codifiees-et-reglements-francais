@@ -8,4 +8,4 @@ Les représentants des barreaux comprenant moins de 100 avocats disposent d'une 
 
 Les représentants des barreaux comprenant 100 avocats ou plus disposent d'une voix supplémentaire par fraction de 100.
 
-Par dérogation aux dispositions qui précèdent, le conseil de l'ordre du barreau de Paris désigne 12 représentants titulaires disposant chacun de 15 voix.
+Par dérogation aux dispositions qui précèdent, le conseil de l'ordre du barreau de Paris désigne 12 représentants titulaires disposant chacun de 4 voix.

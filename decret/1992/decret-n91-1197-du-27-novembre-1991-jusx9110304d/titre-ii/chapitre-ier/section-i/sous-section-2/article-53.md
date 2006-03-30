@@ -2,9 +2,9 @@
 
 Le jury de l'examen est composé ainsi qu'il suit :
 
-1° Deux professeurs ou maîtres de conférences ou maîtres-assistants d'université, chargés d'un enseignement juridique, dont le président du jury, désignés par le président de l'université établie au siège ou dans le ressort de l'académie dans lequel se trouve situé le centre de formation professionnelle ; au cas où plusieurs universités comprenant des enseignants des disciplines juridiques sont établies dans la même académie, les présidents de ces universités procèdent en commun à cette désignation ;
+1° Deux professeurs des universités ou maîtres de conférences, chargés d'un enseignement juridique, dont le président du jury, désignés par le président de l'université qui organise l'examen ;
 
-2° Un magistrat de l'ordre judiciaire désigné par le premier président de la cour d'appel et un membre du corps des tribunaux administratifs et des cours administratives d'appel désigné dans les conditions prévues au quatrième alinéa de l'article 44.
+2° Un magistrat de l'ordre judiciaire désigné conjointement par le premier président de la cour d'appel dans le ressort de laquelle se trouve située l'université qui organise l'examen et par le procureur général près ladite cour ainsi qu'un membre du corps des tribunaux administratifs et des cours administratives d'appel désigné par le président de la cour administrative d'appel dans le ressort de laquelle se trouve située l'université qui organise l'examen, le cas échéant sur proposition du président du tribunal administratif si le président de la cour administrative d'appel entend désigner un membre du tribunal administratif ;
 
 3° Trois avocats désignés en commun par les bâtonniers des ordres d'avocats concernés.
 
