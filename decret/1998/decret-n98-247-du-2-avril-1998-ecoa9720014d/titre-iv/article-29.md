@@ -1,7 +1,29 @@
 # Article 29
 
-Des redevances peuvent être perçues pour les services créés par les chambres de métiers, dans leur domaine de spécialité et dans l'intérêt particulier des artisans et des personnes désirant exercer une activité artisanale, lorsque l'usager de ce service en retire un intérêt personnel, direct et spécial et que ce service excède les services normaux définis par arrêté du ministre chargé de l'artisanat, dont le financement est couvert par le produit de la taxe pour frais de chambre de métiers.
+I. - Le présent décret est applicable à la chambre de métiers et de l'artisanat de Mayotte, à l'exception du deuxième alinéa de l'article 1er, du II de l'article 18 et de l'article 30, sous réserve des adaptations suivantes :
 
-Le montant de ces redevances est déterminé compte tenu de l'intérêt qu'en retire chaque usager et dans la limite des charges exposées au titre du service dont il a directement bénéficié. La chambre de métiers arrête le tarif de ces redevances figurant en annexe à son budget prévisionnel.
+II. - Pour l'application du présent décret à Mayotte :
 
-Aucune autre redevance ne pourra être perçue par les chambres de métiers à compter de la date d'approbation de leurs budgets, à l'exception des chambres de métiers d'Alsace et de Moselle, pour lesquelles il est fait application de l'article 103 n du code professionnel local.
+- les mots : "des chambres de commerce et d'industrie" sont remplacés par les mots : "de la chambre de commerce et d'industrie de Mayotte" et les mots : "des chambres de métiers" sont remplacés par les mots : "de la chambre de métiers et de l'artisanat de Mayotte" ;
+
+- les mots : "chambre régionale des métiers" sont remplacés par les mots : "chambre de métiers et de l'artisanat de Mayotte" ;
+
+- les mots : "commission régionale des qualifications" sont remplacés par les mots : "commission des qualifications" ;
+
+- les mots : "dans chaque région" sont remplacés par les mots :
+
+"à Mayotte" ;
+
+- les mots : "conseil régional" sont remplacés par les mots :
+
+"conseil général de Mayotte" ;
+
+- les mots : "greffes des tribunaux de commerce ou des tribunaux de grande instance statuant en matière commerciale" sont remplacés par les mots : "du greffe du tribunal de première instance statuant en matière commerciale".
+
+III. - A l'article 5, les mots : "ou d'un Etat partie à l'accord sur l'Espace économique européen" sont supprimés.
+
+IV. - A l'article 8, la référence à l'article L. 117-11-1 du code du travail est remplacée par la référence à l'article L. 113-11 du code du travail applicable à Mayotte et la référence à l'article L. 412-5 du code du travail est remplacée par la référence aux articles L. 620-8 et L. 620-9 du code du travail applicable à Mayotte.
+
+V. - A l'article 14, les mots : "dans les conditions prévues à l'article L. 742-6 (5°) du code de la sécurité sociale" sont supprimés.
+
+VI. - A l'article 20, les mots : "répondant aux conditions de la loi du 20 juillet 1983 susvisée" sont supprimés.
