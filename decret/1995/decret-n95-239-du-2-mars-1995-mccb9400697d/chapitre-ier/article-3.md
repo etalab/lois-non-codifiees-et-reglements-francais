@@ -1,19 +1,13 @@
 # Article 3
 
-Le corps des adjoints techniques d'accueil, de surveillance et de magasinage comprend trois grades :
+I. - Le corps des adjoints techniques d'accueil, de surveillance et de magasinage comprend trois grades :
 
-- adjoint technique principal ;
+1° Adjoint technique principal ;
 
-- adjoint technique de 1re classe ;
+2° Adjoint technique de 1re classe ;
 
-- adjoint technique de 2e classe.
+3° Adjoint technique de 2e classe.
 
-Le nombre des emplois d'adjoint technique de 1re classe ne peut excéder 30 % de l'effectif total du corps.
+Le nombre maximum d'adjoints techniques de 2e classe pouvant être promus au grade d'adjoint technique de 1re classe et le nombre maximum d'adjoints techniques de 1re classe pouvant être promus au grade d'adjoint technique principal sont déterminés en application du décret n° 2005-1090 du 1er septembre 2005 relatif à l'avancement de grade dans les corps des administrations de l'Etat.
 
-Le nombre des emplois d'adjoint technique principal ne peut excéder 15 % de l'effectif total du corps.
-
-Le corps des agents techniques d'accueil, de surveillance et de magasinage comprend deux grades :
-
-- agent technique de 1re classe ;
-
-- agent technique de 2e classe.
+II. - Le corps des agents techniques d'accueil, de surveillance et de magasinage comprend un seul grade dénommé agent technique.
