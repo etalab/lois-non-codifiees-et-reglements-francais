@@ -120,6 +120,7 @@
 - [Décret n°2006-276 du 9 mars 2006 (DEFD0600208D)](decret-n2006-276-du-9-mars-2006-defd0600208d)
 - [Décret n°2006-301 du 9 mars 2006 (JUSC0620033D)](decret-n2006-301-du-9-mars-2006-jusc0620033d)
 - [Décret n°2006-44 du 9 janvier 2006 (MENS0502639D)](decret-n2006-44-du-9-janvier-2006-mens0502639d)
+- [Décret n°64-949 du 9 septembre 1964](decret-n64-949-du-9-septembre-1964)
 - [Décret n°98-601 du 9 juillet 1998 (ATET9860038D)](decret-n98-601-du-9-juillet-1998-atet9860038d)
 - [Décret n°2005-972 du 10 août 2005 (JUSC0520513D)](decret-n2005-972-du-10-aout-2005-jusc0520513d)
 - [Décret n°2005-973 du 10 août 2005 (JUSC0520512D)](decret-n2005-973-du-10-aout-2005-jusc0520512d)
