@@ -4,3 +4,4 @@
 - [Titre II : Du répertoire des métiers](titre-ii)
 - [Titre III : Dispositions particulières aux départements de la Moselle, du Bas-Rhin et du Haut-Rhin.](titre-iii)
 - [Titre IV : Dispositions générales.](titre-iv)
+- [Titre V : Dispositions finales.](titre-v)

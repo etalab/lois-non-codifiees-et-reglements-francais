@@ -1,21 +1,17 @@
 # Article 36
 
-I. - Le présent décret est applicable à compter du prochain renouvellement des chambres de métiers dont la date sera fixée en application du second alinéa de l'article 4. En conséquence tous les mandats en cours des membres des chambres de métiers prendront fin à la date d'installation des membres qui seront proclamés élus le septième jour suivant le jour de l'élection.
+I. - Le présent décret est applicable à la chambre de métiers et de l'artisanat et de l'artisanat de Mayotte, à l'exception de l'article 23, du titre IV bis et de l'article 30, et sous réserve des adaptations prévues au présent article.
 
-II. - A titre transitoire :
+II. - Pour leur application à Mayotte, les dispositions du présent décret sont ainsi modifiées :
 
-1° La répartition des sièges entre chaque catégorie du collège des activités, prévue à l'article 1er du présent décret, est arrêtée par le préfet le 25 juin 1999 ;
+Au deuxième alinéa de l'article 24 et au deuxième alinéa de l'article 28, les mots : "le dernier jour du scrutin" sont remplacés par les mots : "le jour du scrutin" ;
 
-2° La liste électorale, établie conformément aux dispositions des articles 10 à 16, est dressée par la chambre de métiers à une date fixée par arrêté du préfet permettant de saisir la commission de révision de la liste électorale, prévue à l'article 11, au plus tard le 25 juin 1999.
+L'article 23 est remplacé par les dispositions suivantes :
 
-Le délai de transmission de la liste électorale au préfet ou au sous-préfet et au président de la chambre de métiers par le président de la commission de révision, prévu au premier alinéa de l'article 12, est ramené à cinq jours.
+Art. 23. - Le droit de vote est exercé à l'urne dans les conditions prévues à l'article 36-1. Ses modalités sont précisées s'il y a lieu par arrêté préfectoral.
 
-La période d'affichage et de publication de la liste électorale, prévue à l'article 13, prend fin le 3 septembre 1999, date à laquelle la liste électorale pourra être contestée devant le tribunal d'instance conformément aux dispositions prévues à l'article 14.
+Le 1° de l'article 26 est remplacé par les dispositions suivantes : "1° De fournir les cartes électorales aux maires qui les adressent aux électeurs au plus tard dans la troisième semaine qui précède la date du scrutin. Dans le même délai, la commission adresse aux électeurs les circulaires et les bulletins de vote des candidats de leur catégorie et du collège des organisations professionnelles. La commission fournit en outre des bulletins de vote et les circulaires en nombre au moins égal à celui des électeurs inscrits aux mairies des communes comportant des bureaux de vote, dix jours avant la date du scrutin".
 
-La liste électorale rectifiée, s'il y a lieu, en application des décisions judiciaires, en application de l'article 15, est adressée par le président de la commission de révision au préfet ou le cas échéant au sous-préfet d'arrondissement du siège de la chambre au plus tard le 4 octobre 1999.
+Au quatrième alinéa de l'article 28, les mots : "par correspondance" sont supprimés ;
 
-Au plus tard le 11 octobre 1999, le préfet ou le cas échéant le sous-préfet d'arrondissement du siège de la chambre arrête la liste générale des électeurs dans les conditions prévues à l'article 16 ;
-
-3° La date limite de demande d'inscription sur la liste des confédérations et des fédérations du secteur des métiers reconnues représentatives présentée par ces organisations au ministre chargé de l'artisanat, prévue à l'article 21, est fixée dans l'avis qui sera publié au Journal officiel de la République française dans le délai de quinze jours à compter de la publication du présent décret.
-
-III. - Les dispositions prévues au I de l'article 6 relatives à la condition d'âge de soixante-cinq ans sont applicables après le premier renouvellement général effectué en application du présent décret.
+Le premier alinéa de l'article 31 est remplacé par les dispositions suivantes : "Le recensement général des votes est effectué par la commission d'organisation des élections. Un procès-verbal est dressé par la commission et signé par son président et ses autres membres."

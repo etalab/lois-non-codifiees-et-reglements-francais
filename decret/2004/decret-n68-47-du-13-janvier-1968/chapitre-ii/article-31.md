@@ -7,3 +7,5 @@ Ces emprunts peuvent être contractés par les chambres de métiers et de l'arti
 L'ouverture d'une ligne de trésorerie par les chambres peut être autorisée, à titre exceptionnel, par arrêté du préfet en vue de faire face à des besoins temporaires de trésorerie.
 
 Un arrêté du ministre chargé de l'artisanat fixe les seuils en dessous desquels l'autorisation du préfet pour contracter un emprunt et ouvrir une ligne de trésorerie n'est pas requise.
+
+Les dispositions du présent article sont applicables à Mayotte.
