@@ -4,7 +4,6 @@
 - [Arrêté du 1 décembre 2003 (SANY0324661A)](arrete-du-1-decembre-2003-sany0324661a)
 - [Arrêté du 1 décembre 2005 (AGRP0502699A)](arrete-du-1-decembre-2005-agrp0502699a)
 - [Arrêté du 1 décembre 2005 (EQUA0501849A)](arrete-du-1-decembre-2005-equa0501849a)
-- [Arrêté du 1 décembre 2005 (INDI0506293A)](arrete-du-1-decembre-2005-indi0506293a)
 - [Arrêté du 1 décembre 2005 (JUSF0550138A)](arrete-du-1-decembre-2005-jusf0550138a)
 - [Arrêté du 1 décembre 2005 (MENR0502515A)](arrete-du-1-decembre-2005-menr0502515a)
 - [Arrêté du 1 juillet 2005 (AGRG0501531A)](arrete-du-1-juillet-2005-agrg0501531a)
