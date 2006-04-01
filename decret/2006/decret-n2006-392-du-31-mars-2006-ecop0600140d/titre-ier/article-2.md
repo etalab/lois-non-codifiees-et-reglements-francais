@@ -1,0 +1,3 @@
+# Article 2
+
+La durée des services accomplis à l'Imprimerie nationale par les personnels mentionnés à l'article 1er, préalablement à leur recrutement par la collectivité publique ou l'établissement public, est prise en compte pour le calcul des conditions d'ancienneté exigées pour l'ouverture des droits à congés, les autorisations d'absence ou l'obtention d'une autorisation de travail à temps partiel, de congés pour raison de santé, de congés non rémunérés pour raisons familiales ou personnelles prévues par les décrets du 17 janvier 1986, du 15 février 1988 et du 6 février 1991 susvisés, ainsi que pour l'obtention d'un congé de formation en application des décrets du 26 mars 1975, du 9 octobre 1985 et du 5 avril 1990 susvisés.

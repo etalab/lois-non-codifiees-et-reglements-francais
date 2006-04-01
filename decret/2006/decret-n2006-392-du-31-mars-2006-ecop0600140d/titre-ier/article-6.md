@@ -1,0 +1,3 @@
+# Article 6
+
+Si, dans les trois ans suivant la signature d'un premier contrat à durée indéterminée avec la collectivité publique ou l'établissement public visés à l'article 1er, un ouvrier sous décret fait l'objet d'un licenciement non motivé par une insuffisance professionnelle ou par une faute disciplinaire, il pourra être recruté une nouvelle fois dans les conditions prévues au premier alinéa de l'article 4-1 de la loi du 31 décembre 1993 modifiée. Dans ce cas, les mesures financières ou d'accompagnement à la charge de l'Imprimerie nationale visées au deuxième alinéa de ce même article ne s'appliquent pas et l'option exercée au titre de l'article 7 du présent décret ne pourra pas être modifiée.
