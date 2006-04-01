@@ -22,6 +22,4 @@ Toutefois, le ministre intéressé ou son représentant est remplacé par :
 
 - le président de la Commission bancaire ou son représentant lorsque le projet de règlement est relatif aux établissements de crédit, aux compagnies financières ainsi qu'aux entreprises d'investissement et autres entreprises assimilées ;
 
-- le président de l'Autorité de contrôle des assurances ou son représentant lorsque le projet de règlement est relatif aux entreprises régies par le code des assurances ;
-
-- le président de l'Autorité de contrôle des assurances et des des mutuelles ou son représentant lorsque le projet de règlement est relatif aux institutions de prévoyance ou aux organismes régis par le code de la mutualité.
+- le président de l'Autorité de contrôle des assurances et des mutuelles ou son représentant, lorsque le projet de règlement est relatif aux entreprises régies par le code des assurances, aux institutions de prévoyance régies par le livre IX du code de la sécurité sociale ou aux mutuelles régies par le code de la mutualité.
