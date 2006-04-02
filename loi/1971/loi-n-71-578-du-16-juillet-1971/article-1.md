@@ -8,7 +8,7 @@ II. - Entrent seuls en compte pour les exonérations mentionnées au I :
 
 1° Les frais de fonctionnement, de premier équipement, de renouvellement du matériel existant et d'équipement complémentaire des centres de formation d'apprentis ou des écoles organisées par les entreprises ou groupements d'entreprises en vue d'assurer les premières formations technologiques et professionnelles, et notamment l'apprentissage ;
 
-2° Les subventions aux établissements de l'enseignement public ou aux écoles privées légalement ouvertes et dispensant les premières formations technologiques et professionnelles ;
+2° Les subventions aux établissements de l'enseignement public ou aux écoles privées légalement ouvertes et dispensant les premières formations technologiques et professionnelles et les contributions aux dépenses d'équipement et de fonctionnement de centres de formation d'apprentis et de sections d'apprentissage ;
 
 3° Les frais des stages organisés en milieu professionnel en application de l'article L. 335-2 du code de l'éducation, dans la limite d'une fraction, définie par voie réglementaire, de la taxe d'apprentissage due ;
 

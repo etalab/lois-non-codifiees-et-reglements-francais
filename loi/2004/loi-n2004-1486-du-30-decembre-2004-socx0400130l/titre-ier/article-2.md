@@ -26,7 +26,7 @@ En cas de vacance d'un siège de membre du collège pour quelque cause que ce so
 
 La haute autorité crée auprès d'elle un comité consultatif permettant d'associer à ses travaux des personnalités qualifiées choisies parmi des représentants des associations, des syndicats, des organisations professionnelles et toutes autres personnes ayant une activité dans le domaine de la lutte contre les discriminations et pour la promotion de l'égalité.
 
-Elle dispose de services, placés sous l'autorité de son président, pour lesquels elle peut recruter des agents contractuels.
+Elle dispose de services, placés sous l'autorité de son président, pour lesquels elle peut recruter des agents contractuels. Les agents de la haute autorité assermentés et spécialement habilités par le procureur de la République peuvent constater par procès-verbal les délits de discrimination, notamment dans le cas où il est fait application des dispositions de l'article 225-3-1 du code pénal.
 
 Le président représente la haute autorité et a qualité pour agir au nom de celle-ci.
 

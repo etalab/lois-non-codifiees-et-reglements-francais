@@ -2,7 +2,7 @@
 
 La chaîne de télévision parlementaire et civique créée par l'Assemblée nationale et le Sénat est dénommée "La Chaîne parlementaire". Elle comporte, à parité de temps d'antenne, les émissions des deux sociétés de programme, l'une pour l'Assemblée nationale, l'autre pour le Sénat.
 
-Elle remplit une mission de service public, d'information et de formation des citoyens à la vie publique, par des programmes parlementaires, éducatifs et civiques.
+Elle remplit une mission de service public, d'information et de formation des citoyens à la vie publique, par des programmes parlementaires, éducatifs et civiques. Elle met en oeuvre des actions en faveur de la cohésion sociale, de la diversité culturelle et de la lutte contre les discriminations et propose une programmation reflétant la diversité de la société française.
 
 Dans le cadre de son indépendance éditoriale, la chaîne veille à l'impartialité de ses programmes.
 

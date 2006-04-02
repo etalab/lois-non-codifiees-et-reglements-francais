@@ -48,7 +48,9 @@ Par dérogation, le Conseil supérieur de l'audiovisuel peut autoriser, pour des
 
 15° Les données associées au programme principal destinées à l'enrichir et à le compléter ;
 
-16° La diffusion de programmes consacrés à la culture scientifique, technique et industrielle.
+16° La diffusion de programmes consacrés à la culture scientifique, technique et industrielle ;
+
+17° Les mesures en faveur de la cohésion sociale et relatives à la lutte contre les discriminations.
 
 La convention mentionnée au premier alinéa définit également les prérogatives et notamment les pénalités contractuelles dont dispose le Conseil supérieur de l'audiovisuel pour assurer le respect des obligations conventionnelles. Ces pénalités ne peuvent être supérieures aux sanctions prévues aux 1°, 2° et 3° de l'article 42-1 de la présente loi ; elles sont notifiées au titulaire de l'autorisation qui peut, dans les deux mois, former un recours devant le Conseil d'Etat.
 
