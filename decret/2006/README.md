@@ -421,5 +421,6 @@
 - [Décret n°2006-117 du 31 janvier 2006 (ECOT0514516D)](decret-n2006-117-du-31-janvier-2006-ecot0514516d)
 - [Décret n°2006-388 du 31 mars 2006 (PRMX0609202D)](decret-n2006-388-du-31-mars-2006-prmx0609202d)
 - [Décret n°2006-392 du 31 mars 2006 (ECOP0600140D)](decret-n2006-392-du-31-mars-2006-ecop0600140d)
+- [Décret n°2006-397 du 31 mars 2006 (AGRF0600404D)](decret-n2006-397-du-31-mars-2006-agrf0600404d)
 - [Décret n°2006-93 du 31 janvier 2006 (SOCU0512355D)](decret-n2006-93-du-31-janvier-2006-socu0512355d)
 - [Décret n°96-90 du 31 janvier 1996 (PRMP9560003D)](decret-n96-90-du-31-janvier-1996-prmp9560003d)

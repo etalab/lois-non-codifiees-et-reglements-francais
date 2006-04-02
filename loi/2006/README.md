@@ -8,4 +8,5 @@
 - [Loi n° 2006-339 du 23 mars 2006 (SOCX0500260L)](loi-n-2006-339-du-23-mars-2006-socx0500260l)
 - [Loi n° 2006-340 du 23 mars 2006 (MCPX0500038L)](loi-n-2006-340-du-23-mars-2006-mcpx0500038l)
 - [Loi n° 2006-387 du 31 mars 2006 (ECOX0500226L)](loi-n-2006-387-du-31-mars-2006-ecox0500226l)
+- [Loi n° 2006-396 du 31 mars 2006 (SOCX0500298L)](loi-n-2006-396-du-31-mars-2006-socx0500298l)
 - [Loi n° 2006-64 du 23 janvier 2006 (INTX0500242L)](loi-n-2006-64-du-23-janvier-2006-intx0500242l)
