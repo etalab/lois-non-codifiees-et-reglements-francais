@@ -6,7 +6,7 @@ Sont membres de la commission :
 
 - quatre représentants des maîtres d'ouvrage ;
 
-- quatre représentants des entrepreneurs ;
+- cinq représentants des entrepreneurs ;
 
 - deux représentants des maîtres d'oeuvre ;
 

@@ -1,3 +1,3 @@
 # Article 6
 
-La directrice de la mémoire, du patrimoine et des archives est chargée de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+La direction de la mémoire, du patrimoine et des archives du ministère de la défense signe des conventions de partenariat ayant pour objet l'échange et la diffusion d'informations et de documents relatifs au tourisme de mémoire après information de la direction du tourisme du ministre délégué au tourisme.

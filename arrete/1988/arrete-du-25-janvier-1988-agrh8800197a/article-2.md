@@ -2,7 +2,7 @@
 
 Les centres d'insémination artificielle peuvent être agréés comme :
 
-1° Centre de production de semence, autorisé à procéder à la récolte, au conditionnement, à la conservation et à la cession de la semence d'étalons agréés ;
+1° Centre de production de semence, autorisé à procéder à la récolte, au conditionnement, à la conservation et à la cession de la semence d'étalons approuvés pour produire dans un stud-book ;
 
 2° Centre de mise en place de semence, autorisé à assurer dans ses installations l'insémination des juments avec de la semence fournie par les centres de production.
 
