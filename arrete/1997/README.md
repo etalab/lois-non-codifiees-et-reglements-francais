@@ -972,7 +972,6 @@
 - [Arrêté du 27 mai 1997 (TASH9721888A)](arrete-du-27-mai-1997-tash9721888a)
 - [Arrêté du 27 mai 1997 (TASI9721911A)](arrete-du-27-mai-1997-tasi9721911a)
 - [Arrêté du 27 mai 1997 (TASP9721734A)](arrete-du-27-mai-1997-tasp9721734a)
-- [Arrêté du 27 mai 1997 (TASP9721735A)](arrete-du-27-mai-1997-tasp9721735a)
 - [Arrêté du 27 mai 1997 (TASP9721887A)](arrete-du-27-mai-1997-tasp9721887a)
 - [Arrêté du 27 mai 1997 (TASP9721893A)](arrete-du-27-mai-1997-tasp9721893a)
 - [Arrêté du 27 mai 1997 (TASP9721894A)](arrete-du-27-mai-1997-tasp9721894a)

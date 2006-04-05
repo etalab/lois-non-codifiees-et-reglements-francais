@@ -69,7 +69,6 @@
 - [Arrêté du 2 mai 1995 (RESK9500704A)](arrete-du-2-mai-1995-resk9500704a)
 - [Arrêté du 2 mai 1995 (RESM9500678A)](arrete-du-2-mai-1995-resm9500678a)
 - [Arrêté du 2 mai 1995 (SANH9501564A)](arrete-du-2-mai-1995-sanh9501564a)
-- [Arrêté du 2 mai 1995 (SPSP9501563A)](arrete-du-2-mai-1995-spsp9501563a)
 - [Arrêté du 3 août 1995 (AGRA9500376A)](arrete-du-3-aout-1995-agra9500376a)
 - [Arrêté du 3 août 1995 (ENVE9540227A)](arrete-du-3-aout-1995-enve9540227a)
 - [Arrêté du 3 août 1995 (SANP9502416A)](arrete-du-3-aout-1995-sanp9502416a)

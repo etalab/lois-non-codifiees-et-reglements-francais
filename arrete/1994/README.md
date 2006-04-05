@@ -442,7 +442,6 @@
 - [Arrêté du 13 septembre 1994 (EQUA9401610A)](arrete-du-13-septembre-1994-equa9401610a)
 - [Arrêté du 13 septembre 1994 (MCCE9400304A)](arrete-du-13-septembre-1994-mcce9400304a)
 - [Arrêté du 13 mai 1994 (RESM9400719A)](arrete-du-13-mai-1994-resm9400719a)
-- [Arrêté du 13 mai 1994 (SANP9401485A)](arrete-du-13-mai-1994-sanp9401485a)
 - [Arrêté du 14 avril 1994 (BUDR9407018A)](arrete-du-14-avril-1994-budr9407018a)
 - [Arrêté du 14 avril 1994 (EQUA9400924A)](arrete-du-14-avril-1994-equa9400924a)
 - [Arrêté du 14 avril 1994 (INDZ9400460A)](arrete-du-14-avril-1994-indz9400460a)
