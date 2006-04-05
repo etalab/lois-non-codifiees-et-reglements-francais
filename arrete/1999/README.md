@@ -310,7 +310,6 @@
 - [Arrêté du 14 juin 1999 (MESP9921856A)](arrete-du-14-juin-1999-mesp9921856a)
 - [Arrêté du 14 septembre 1999 (DEFP9901917A)](arrete-du-14-septembre-1999-defp9901917a)
 - [Arrêté du 14 septembre 1999 (ECOS9950036A)](arrete-du-14-septembre-1999-ecos9950036a)
-- [Arrêté du 14 septembre 1999 (MAEF9910039A)](arrete-du-14-septembre-1999-maef9910039a)
 - [Arrêté du 14 septembre 1999 (MENE9901944A)](arrete-du-14-septembre-1999-mene9901944a)
 - [Arrêté du 14 septembre 2001 (MENF0101115A)](arrete-du-14-septembre-2001-menf0101115a)
 - [Arrêté du 14 mai 1999 (ECOS9950019A)](arrete-du-14-mai-1999-ecos9950019a)
