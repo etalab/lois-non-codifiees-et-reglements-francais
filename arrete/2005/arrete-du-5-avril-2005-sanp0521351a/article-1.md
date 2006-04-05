@@ -402,6 +402,8 @@ Hôpital d'instruction des armées Percy, 101, avenue Henri-Barbusse, 92141 Clam
 
 Hôpital Ambroise-Paré, service de médecine interne, 9, avenue Charles-de-Gaulle, 92104 Boulogne.
 
+Hôpital franco-britannique, service pédiatrie, 3, rue Barbès, 92300 Levallois-Perret.
+
 93 - Seine-Saint-Denis
 
 Assistance publique - hôpitaux de Paris, hôpital Avicenne, 125, route de Stalingrad, 93000 Bobigny.
