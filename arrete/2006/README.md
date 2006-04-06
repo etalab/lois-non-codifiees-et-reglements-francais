@@ -131,6 +131,7 @@
 - [Arrêté du 21 février 2006 (ECOP0600027A)](arrete-du-21-fevrier-2006-ecop0600027a)
 - [Arrêté du 21 février 2006 (MAEG0640028A)](arrete-du-21-fevrier-2006-maeg0640028a)
 - [Arrêté du 21 mars 2006 (DEFP0600342A)](arrete-du-21-mars-2006-defp0600342a)
+- [Arrêté du 21 mars 2006 (SOCF0610710A)](arrete-du-21-mars-2006-socf0610710a)
 - [Arrêté du 22 août 2006 (MENF0601912A)](arrete-du-22-aout-2006-menf0601912a)
 - [Arrêté du 22 décembre 2005 (EQUT0502217A)](arrete-du-22-decembre-2005-equt0502217a)
 - [Arrêté du 22 février 2006 (AGRF0600479A)](arrete-du-22-fevrier-2006-agrf0600479a)
