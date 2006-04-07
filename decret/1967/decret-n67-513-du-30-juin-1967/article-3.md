@@ -1,65 +1,37 @@
 # Article 3
 
-Trois catégories d'émoluments sont perçus en application de l'article 39 du code de l'industrie cinématographique. Pour le versement d'émolument, il n'est procédé à aucune restitution et il n'est demandé aucun versement complémentaire en cas d'erreur dans la détermination d'un émolument portant sur une somme inférieure à 5 Euros.
+I.-Les émoluments perçus en application de l'article 39 du code de l'industrie cinématographique sont fixés ainsi qu'il suit :
 
-I. - A l'occasion des dépôts des titres prévus par l'article 32 du code de l'industrie cinématographique et à l'article 54 de la loi n° 85-660 du 3 juillet 1985 relative aux droits d'auteur et aux droits des artistes-interprètes, des producteurs de phonogrammes et de vidéogrammes et des entreprises de communication audiovisuelle :
+A.-A l'occasion des dépôts de titres prévus par les articles 32 et 33-1 du code de l'industrie cinématographique et à l'article 54 de la loi du 3 juillet 1985 relative aux droits d'auteur et aux droits des artistes interprètes, des producteurs de phonogrammes et de vidéogrammes et des entreprises de communication audiovisuelle :
 
-a) Pour la délivrance d'un certificat de dépôt de titre d'une oeuvre audiovisuelle ou cinématographique :
+1. Pour la délivrance d'un certificat de dépôt de titre d'une oeuvre ou d'un projet d'oeuvre cinématographique ou audiovisuelle :
 
-1. D'une durée inférieure à quinze minutes : 1,5 Euros ;
+a) D'une durée inférieure ou égale à une heure : 10 € ;
 
-2. D'une durée comprise entre quinze minutes et une heure :
+b) D'une durée supérieure à une heure : 40 €.
 
-5 Euros ;
+2. Pour la délivrance d'un certificat de changement de titre d'une oeuvre cinématographique ou audiovisuelle : 10 €.
 
-3. D'une durée égale ou supérieure à une heure : 18 Euros.
+B.-A l'occasion des requêtes d'inscription et de publication prévues aux articles 33,33-2 et 33-3 du code de l'industrie cinématographique et à l'article 54 de la loi du 3 juillet 1985 précitée :
 
-Cet émolument est majoré de 6 Euro par heure ou fraction d'heure au-delà de deux heures.
+1. L'inscription ou la publication d'une convention de coproduction donne lieu au versement d'un émolument égal à 0,04 % de la valeur hors taxe sur la valeur ajoutée du devis de l'oeuvre produite. En cas d'inscription ou de publication d'une cession ou d'un abandon de part de coproduction, le taux ci-dessus s'applique au montant de l'apport du coproducteur ou à la valeur de la part cédée ou abandonnée.
 
-b) Pour la délivrance d'un certificat de changement de titre d'une oeuvre cinématographique ou audiovisuelle :
+2. L'inscription ou la publication de toute autre convention donne lieu au versement d'un émolument égal à 0,07 % du montant, exprimé hors taxe sur la valeur ajoutée, des droits, des créances, sommes ou valeurs cédés par l'acte faisant l'objet de l'inscription ou de la publication. Si ce montant n'est pas exprimé dans l'acte, il est évalué à partir des sommes engagées pour la production, la distribution, l'exploitation ou l'exportation de l'oeuvre.
 
-1. D'une durée inférieure à une heure : 1 Euro ;
+Ce taux est porté à 0,08 % pour les conventions inscrites ou publiées à compter du 1er janvier 2008.
 
-2. D'une durée égale ou supérieure à une heure : 5 Euros.
+3. En cas de radiation totale ou partielle prévue au 6° de l'article 33 du code de l'industrie cinématographique ou en cas de cession d'antériorité au profit d'une inscription postérieure, le taux prévu au 2 ci-dessus s'applique au quart du montant, exprimé hors taxe sur la valeur ajoutée, de la créance faisant l'objet de la radiation ou de la cession d'antériorité.
 
-II. - A l'occasion des requêtes d'inscription prévues à l'article 33 du code de l'industrie cinématographique et à l'article 54 de la loi du 3 juillet 1985 précitée :
+Les émoluments calculés conformément aux 1,2 et 3 ci-dessus sont arrondis à l'euro inférieur. Aucun émolument ne peut être inférieur à 5 € s'il se rapporte à une oeuvre dont la durée est inférieure ou égale à une heure ou à 25 € s'il se rapporte à une oeuvre dont la durée est supérieure à une heure.
 
-Les émoluments perçus dans ce cadre ne peuvent être inférieurs à 2 Euros s'ils se rapportent à une oeuvre dont la durée est inférieure à une heure ou à 11 Euro s'ils se rapportent à une oeuvre dont la durée est égale ou supérieure à une heure.
+C.-A l'occasion des délivrances d'informations prévues à l'article 37 du code de l'industrie cinématographique :
 
-En ce qui concerne les coproductions, aucun émolument ne peut être inférieur à 1,5 Euros s'il se rapporte à une oeuvre dont la durée est inférieure à une heure ou à 8 Euros s'il se rapporte à une oeuvre dont la durée est égale ou supérieure à une heure.
+1. Pour la délivrance d'une copie intégrale ou par extrait des inscriptions ou publications, actes, conventions ou jugements :
 
-Sous réserve des dispositions précédentes, ces émoluments sont les suivants :
+1 Euros par page ;
 
-a) L'inscription d'une convention de coproduction fait l'objet d'un émolument égal à un pourcentage du budget de l'oeuvre produite de :
+2. Pour la délivrance d'un certificat d'immatriculation ou d'un certificat négatif d'inscription et de publication : 1 €;
 
-0,05 % jusqu'à 45 000 Euros ;
+3. Pour la délivrance d'une attestation en vue de l'exportation d'une oeuvre dont le producteur est établi en France, un émolument égal à 0,01 % du montant, exprimé hors taxe sur la valeur ajoutée, de la part française du budget de l'oeuvre.
 
-0,04 % de 45 001 Euro à 150 000 Euros ;
-
-0,03 % de 150 001 Euro à 450 000 Euros ;
-
-0,02 % au-delà de 450 000 Euros ;
-
-b) En cas d'inscription d'une cession ou d'un abandon de part de coproduction, les taux prévus au a ci-dessus s'appliquent à la valeur de la part cédée ou abandonnée ;
-
-c) L'inscription de toute autre convention fait l'objet d'un émolument égal à un pourcentage du montant des droits, créances, sommes ou valeurs faisant l'objet d'une inscription de :
-
-0,15 % jusqu'à 45 000 Euros ;
-
-0,10 % de 45 001 à 150 000 Euros ;
-
-0,05 % pour plus de 150 000 Euros ;
-
-d) En cas de radiation totale ou partielle prévue à l'article 33-6 du code de l'industrie cinématographique ou en cas de cession d'antériorité au profit d'une inscription postérieure, les taux prévus au c ci-dessus s'appliquent à la moitié du montant de la créance faisant l'objet de la radiation ou de la cession d'antériorité.
-
-Les sommes servant de base au calcul des émoluments sont ramenées à la dizaine d'euro inférieure. Les émoluments ainsi calculés sont ramenés à l'euro inférieur.
-
-III. - A l'occasion des délivrances d'informations prévues à l'article 37 du code de l'industrie cinématographique :
-
-a) Pour la délivrance d'une copie intégrale ou par extrait des inscriptions, actes, conventions ou jugements : 1 Euro par page ;
-
-b) Pour la délivrance d'un certificat d'immatriculation ou d'un certificat négatif d'inscription : 1 Euro ;
-
-c) Pour la délivrance d'un renseignement verbal non suivie de la délivrance d'une copie ou d'un extrait : 1 Euro par oeuvre consultée ;
-
-d) Pour une interrogation du service télématique : tarification prévue par le palier T-46 du numéro d'appel 36-17.
+II.-Il n'est procédé à aucune restitution et il n'est demandé aucun versement complémentaire en cas d'erreur dans la détermination d'un émolument portant sur une somme inférieure à 10 €.
