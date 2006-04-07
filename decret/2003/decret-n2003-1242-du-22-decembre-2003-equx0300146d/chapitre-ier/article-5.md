@@ -10,4 +10,4 @@ Au-delà d'une durée hebdomadaire de quarante-huit heures, la prolongation est 
 
 2° Six heures par semaine pour le dépannage des véhicules.
 
-Par dérogation aux dispositions des premier, deuxième et troisième alinéas de l'article 3, la durée quotidienne de travail effectif pourra excéder dix ou douze heures pour l'accomplissement de travaux urgents dont l'exécution immédiate est nécessaire pour prévenir des accidents imminents, organiser des mesures de sauvetage ou réparer des accidents survenus soit au matériel, soit aux installations, soit aux bâtiments de l'entreprise et mettant en péril la marche de celle-ci.
+Par dérogation aux dispositions du III de l'article L. 213-11 du code du travail et des premier, deuxième et troisième alinéas de l'article 3, la durée quotidienne de travail effectif pourra excéder dix ou douze heures pour l'accomplissement de travaux urgents dont l'exécution immédiate est nécessaire pour prévenir des accidents imminents, organiser des mesures de sauvetage ou réparer des accidents survenus soit au matériel, soit aux installations, soit aux bâtiments de l'entreprise et mettant en péril la marche de celle-ci.

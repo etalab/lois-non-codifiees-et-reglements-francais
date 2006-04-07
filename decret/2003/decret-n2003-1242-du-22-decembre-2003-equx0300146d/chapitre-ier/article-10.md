@@ -2,7 +2,11 @@
 
 I. - Dans tous les établissements soumis aux dispositions du présent décret, les articles D. 212-18 à D. 212-20 et l'article D. 212-23 du code du travail sont applicables.
 
-II. - Pour le personnel roulant, la durée du travail est attestée et contrôlée au moyen du document de contrôle approprié prévu par les règlements (CEE) n° 3820/85 du 20 décembre 1985 et (CEE) n° 3821/85 du 20 décembre 1985 modifié et par la réglementation applicable au document de contrôle des conditions de travail des membres d'équipage des transports routiers.
+II. -  Pour le personnel de conduite effectuant des transports routiers de personnes soumis aux règlements (CEE) n° 3820/85 et (CEE) n° 3821/85 du 20 décembre 1985 modifié, la durée du travail est enregistrée, attestée et contrôlée :
+
+1° En cas de conduite d'un véhicule équipé d'un appareil de contrôle défini par l'annexe I au règlement (CEE) n° 3821/85 du 20 décembre 1985, au moyen de la feuille d'enregistrement de l'appareil ;
+
+2° En cas de conduite d'un véhicule équipé d'un appareil de contrôle défini par l'annexe IB au règlement (CEE) n° 3821/85 du 20 décembre 1985, au moyen des données électroniques enregistrées dans les mémoires de la carte personnelle du conducteur et de l'unité véhicule de l'appareil, et téléchargées de manière continue et régulière sur un support de sauvegarde.
 
 L'ensemble des heures effectuées, constitutives de la durée du temps passé au service de l'employeur, par les personnels de conduite mentionnés au précédent alinéa est décompté, dans ce cadre, selon les modalités suivantes :
 
@@ -26,11 +30,19 @@ III. - La durée du temps passé au service de l'employeur des personnels roulan
 
 Les caractéristiques et les modalités d'utilisation de l'horaire de service et du livret individuel de contrôle sont fixées par arrêté du ministre chargé des transports.
 
-IV. - Les délégués du personnel peuvent consulter les documents prévus aux II et III du présent article 10, et le document mensuel, annexé au bulletin de paie, prévu au deuxième alinéa du VI du présent article 10.
+IV. - Les délégués du personnel peuvent consulter les documents et les données électroniques mentionnés aux II et III du présent article 10, et le document mensuel, annexé au bulletin de paie, prévu au deuxième alinéa du VI du présent article 10.
 
-Le conducteur a le droit d'obtenir communication, sans frais et en bon ordre, des feuilles d'enregistrement de l'appareil de contrôle défini par le règlement (CEE) n° 3821/85, le concernant, et des documents visés aux II et VI (deuxième alinéa) du présent article 10, ayant servi de base à l'élaboration de ses bulletins de paie.
+Le conducteur a le droit d'obtenir communication, sans frais et en bon ordre :
 
-L'entreprise remet, sans frais et en bon ordre, une copie de ces documents, dans un format identique à celui des originaux, aux conducteurs intéressés qui en font la demande.
+1° En cas de conduite d'un véhicule équipé d'un appareil de contrôle défini par l'annexe I au règlement (CEE) n° 3821/85 du 20 décembre 1985, des feuilles d'enregistrement de l'appareil le concernant et des documents mentionnés au II et au deuxième alinéa du VI du présent article, ayant service de base à l'élaboration de ses bulletins de paye ;
+
+2° En cas de conduite d'un véhicule équipé d'un appareil de contrôle défini par l'annexe IB au règlement (CEE) n° 3821/85 du 20 décembre 1985, des données électroniques enregistrées dans la mémoire de sa carte personnelle de conducteur et des données le concernant enregistrées dans celle de l'unité véhicule de l'appareil téléchargées sur un support de sauvegarde.
+
+L'entreprise remet, sans frais et en bon ordre, aux conducteurs qui en font la demande, selon le cas :
+
+a) Une copie des feuilles d'enregistrement, dans un format identique à celui des originaux ;
+
+b) Une copie des fichiers issus du téléchargement des données électroniques contenues dans leurs cartes personnelles de conducteur, sur support informatique ou support papier à leur convenance. L'entreprise peut aussi mettre ces données à la disposition des conducteurs sur un poste informatique équipé d'un logiciel de lecture, sous forme de borne en libre accès, les supports informatiques ou papier permettant leur copie restant à la charge de l'employeur. Dans ce cas, l'employeur prend toute disposition permettant d'assurer que chaque conducteur n'a accès qu'aux seules données le concernant.
 
 Les personnels roulants effectuant des transports routiers non soumis aux règlements (CEE) n° 3820/85 et (CEE) n° 3821/85 du 20 décembre 1985 ont le droit d'obtenir communication, sans frais et en bon ordre, des feuillets du livret de contrôle les concernant et des documents visés aux III et VI (deuxième alinéa) du présent article 10, ayant servi de base à l'élaboration de leurs bulletins de paie.
 
