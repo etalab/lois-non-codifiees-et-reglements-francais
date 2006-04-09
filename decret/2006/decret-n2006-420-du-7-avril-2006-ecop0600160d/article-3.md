@@ -1,0 +1,3 @@
+# Article 3
+
+Le décret du 23 juillet 1964 relatif à la vente par la direction générale des douanes et des droits indirects d'informations statistiques et de publications douanières, le décret n° 75-1018 du 17 octobre 1975 autorisant le ministère de l'industrie et de la recherche à percevoir des recettes en contrepartie de l'exécution de certains travaux, le décret n° 91-1166 du 13 novembre 1991 relatif à la rémunération de certains services rendus par l'administration des douanes et des droits indirects et le décret n° 98-190 du 16 mars 1998 relatif à la rémunération de certains services rendus par la direction du personnel et de l'administration et la direction de la communication du ministère de l'économie, des finances et de l'industrie sont abrogés.
