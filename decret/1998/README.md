@@ -412,8 +412,6 @@
 - [Décret n°98-1162 du 16 décembre 1998 (MESS9823292D)](decret-n98-1162-du-16-decembre-1998-mess9823292d)
 - [Décret n°98-175 du 16 mars 1998 (COPX9802745D)](decret-n98-175-du-16-mars-1998-copx9802745d)
 - [Décret n°98-178 du 16 mars 1998 (MESS9820080D)](decret-n98-178-du-16-mars-1998-mess9820080d)
-- [Décret n°98-190 du 16 mars 1998 (ECOP9800117D)](decret-n98-190-du-16-mars-1998-ecop9800117d)
-- [Décret n°98-191 du 16 mars 1998 (ECOP9800118D)](decret-n98-191-du-16-mars-1998-ecop9800118d)
 - [Décret n°98-299 du 16 avril 1998 (MESS9820279D)](decret-n98-299-du-16-avril-1998-mess9820279d)
 - [Décret n°98-300 du 16 avril 1998 (INTB9800093D)](decret-n98-300-du-16-avril-1998-intb9800093d)
 - [Décret n°98-36 du 16 janvier 1998 (PRMX9802496D)](decret-n98-36-du-16-janvier-1998-prmx9802496d)

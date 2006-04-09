@@ -882,7 +882,6 @@
 - [Arrêté du 24 octobre 1996 (LOGC9600044A)](arrete-du-24-octobre-1996-logc9600044a)
 - [Arrêté du 24 octobre 1997 (MENF9703148A)](arrete-du-24-octobre-1997-menf9703148a)
 - [Arrêté du 24 septembre 1996 (ACVA9610105A)](arrete-du-24-septembre-1996-acva9610105a)
-- [Arrêté du 24 septembre 1996 (ACVI9630008A)](arrete-du-24-septembre-1996-acvi9630008a)
 - [Arrêté du 24 septembre 1996 (ACVI9630010A)](arrete-du-24-septembre-1996-acvi9630010a)
 - [Arrêté du 24 septembre 1996 (BUDD9650008A)](arrete-du-24-septembre-1996-budd9650008a)
 - [Arrêté du 24 septembre 1996 (DEFD9601565A)](arrete-du-24-septembre-1996-defd9601565a)
