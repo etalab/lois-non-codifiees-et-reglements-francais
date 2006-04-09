@@ -78,6 +78,7 @@
 - [Décret n°2000-162 du 28 février 2000 (INTB0000044D)](decret-n2000-162-du-28-fevrier-2000-intb0000044d)
 - [Décret n°2000-376 du 28 avril 2000 (INTD0000109D)](decret-n2000-376-du-28-avril-2000-intd0000109d)
 - [Décret n°2000-73 du 28 janvier 2000 (MESC0010117D)](decret-n2000-73-du-28-janvier-2000-mesc0010117d)
+- [Décret n°2000-818 du 28 août 2000 (ECOP0000639D)](decret-n2000-818-du-28-aout-2000-ecop0000639d)
 - [Décret n°2000-819 du 28 août 2000 (MESF0010794D)](decret-n2000-819-du-28-aout-2000-mesf0010794d)
 - [Décret n°2000-604 du 29 juin 2000 (JUSA0000158D)](decret-n2000-604-du-29-juin-2000-jusa0000158d)
 - [Décret n°99-1153 du 29 décembre 1999 (MAEA9920519D)](decret-n99-1153-du-29-decembre-1999-maea9920519d)
