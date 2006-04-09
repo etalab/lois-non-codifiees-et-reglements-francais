@@ -1,3 +1,3 @@
 # Article 6
 
-Les infirmiers de la branche Soins généraux bénéficient, lors de leur nomination dans le corps, d'une bonification d'ancienneté de douze mois, les infirmiers des branches Bloc opératoire et Puériculture d'une bonification d'ancienneté de dix-huit mois et les infirmiers de la branche Anesthésie-réanimation d'une bonification d'ancienneté de trente-six mois.
+Les personnels infirmiers bénéficient lors de leur nomination d'une bonification d'ancienneté de dix-huit mois. Elle n'est pas accordée aux fonctionnaires qui auraient déjà bénéficié d'une bonification de même nature prévue par un statut de personnels infirmiers.

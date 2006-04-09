@@ -2,7 +2,6 @@
 
 - [Article 1](article-1.md)
 - [Chapitre Ier : Recrutement.](chapitre-ier)
-- [Article 1 bis](article-1-bis.md)
 - [Article 2](article-2.md)
 - [Chapitre II : Avancement.](chapitre-ii)
 - [Chapitre III : Dispositions diverses.](chapitre-iii)
