@@ -231,4 +231,5 @@
 - [Arrêté du 30 décembre 2005 (SANG0620155A)](arrete-du-30-decembre-2005-sang0620155a)
 - [Arrêté du 30 janvier 2006 (AGRP0600290A)](arrete-du-30-janvier-2006-agrp0600290a)
 - [Arrêté du 30 janvier 2006 (MCCB0600070A)](arrete-du-30-janvier-2006-mccb0600070a)
+- [Arrêté du 31 mars 2006 (INTC0600217A)](arrete-du-31-mars-2006-intc0600217a)
 - [Arrêté du 31 octobre 2006 (PRMX0609681A)](arrete-du-31-octobre-2006-prmx0609681a)
