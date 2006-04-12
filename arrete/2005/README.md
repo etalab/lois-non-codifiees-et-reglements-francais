@@ -721,7 +721,6 @@
 - [Arrêté du 28 septembre 2005 (EQUS0501506A)](arrete-du-28-septembre-2005-equs0501506a)
 - [Arrêté du 29 août 2005 (DEFD0501171A)](arrete-du-29-aout-2005-defd0501171a)
 - [Arrêté du 29 août 2005 (ECOP0500396A)](arrete-du-29-aout-2005-ecop0500396a)
-- [Arrêté du 29 août 2005 (INTD0500601A)](arrete-du-29-aout-2005-intd0500601a)
 - [Arrêté du 29 avril 2005 (AGRA0500143A)](arrete-du-29-avril-2005-agra0500143a)
 - [Arrêté du 29 avril 2005 (SANS0521627A)](arrete-du-29-avril-2005-sans0521627a)
 - [Arrêté du 29 décembre 2004 (EQUT0401715A)](arrete-du-29-decembre-2004-equt0401715a)
