@@ -38,7 +38,7 @@ c) La direction centrale du service de soutien de la flotte ;
 
 d) Abrogé ;
 
-e) Le service central de l'aéronautique navale ;
+e) Abrogé ;
 
 f) Le service hydrographique et océanographique de la marine ;
 
