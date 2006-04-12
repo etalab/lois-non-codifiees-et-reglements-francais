@@ -154,6 +154,7 @@
 - [Décret n°2006-313 du 10 mars 2006 (DEFD0600178D)](decret-n2006-313-du-10-mars-2006-defd0600178d)
 - [Décret n°2006-347 du 10 mars 2006 (SANP0620231D)](decret-n2006-347-du-10-mars-2006-sanp0620231d)
 - [Décret n°2006-423 du 10 avril 2006 (PMEA0520089D)](decret-n2006-423-du-10-avril-2006-pmea0520089d)
+- [Décret n°2006-424 du 10 avril 2006 (DEFD0600312D)](decret-n2006-424-du-10-avril-2006-defd0600312d)
 - [Décret n°2006-47 du 10 janvier 2006 (AGRS0502620D)](decret-n2006-47-du-10-janvier-2006-agrs0502620d)
 - [Décret n°2006-48 du 10 janvier 2006 (AGRS0502621D)](decret-n2006-48-du-10-janvier-2006-agrs0502621d)
 - [Décret n°2006-49 du 10 janvier 2006 (AGRS0502622D)](decret-n2006-49-du-10-janvier-2006-agrs0502622d)
