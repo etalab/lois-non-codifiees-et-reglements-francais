@@ -163,6 +163,8 @@
 - [Décret n°2006-1019 du 11 août 2006 (FPPA0600045D)](decret-n2006-1019-du-11-aout-2006-fppa0600045d)
 - [Décret n°2006-32 du 11 janvier 2006 (MAEA0520502D)](decret-n2006-32-du-11-janvier-2006-maea0520502d)
 - [Décret n°2006-41 du 11 janvier 2006 (MENE0502699D)](decret-n2006-41-du-11-janvier-2006-mene0502699d)
+- [Décret n°2006-427 du 11 avril 2006 (BUDD0670014D)](decret-n2006-427-du-11-avril-2006-budd0670014d)
+- [Décret n°2006-428 du 11 avril 2006 (MENS0601033D)](decret-n2006-428-du-11-avril-2006-mens0601033d)
 - [Décret n°2006-45 du 12 janvier 2006 (SANP0524741D)](decret-n2006-45-du-12-janvier-2006-sanp0524741d)
 - [Décret n°2005-1555 du 13 décembre 2005 (SOCO0511976D)](decret-n2005-1555-du-13-decembre-2005-soco0511976d)
 - [Décret n°2006-148 du 13 février 2006 (INTB0600022D)](decret-n2006-148-du-13-fevrier-2006-intb0600022d)
