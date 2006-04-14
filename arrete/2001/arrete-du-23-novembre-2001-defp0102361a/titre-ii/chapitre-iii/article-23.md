@@ -8,7 +8,7 @@ a) Pour la filière MP :
 
 - une interrogation de physique (durée : cinquante minutes) ;
 
-- une interrogation de chimie (durée : cinquante minutes) ;
+- une interrogation de chimie (durée : quarante minutes) ;
 
 - une interrogation d'analyse de documents scientifiques (durée : quarante minutes) ;
 
