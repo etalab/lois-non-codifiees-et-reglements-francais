@@ -1089,4 +1089,3 @@
 - [Arrêté du 31 décembre 1992 (INTB9300028A)](arrete-du-31-decembre-1992-intb9300028a)
 - [Arrêté du 31 décembre 1992 (INTC9300059A)](arrete-du-31-decembre-1992-intc9300059a)
 - [Arrêté du 31 décembre 1992 (MENK9200393A)](arrete-du-31-decembre-1992-menk9200393a)
-- [Arrêté du 31 décembre 1992 (SANP9203358A)](arrete-du-31-decembre-1992-sanp9203358a)

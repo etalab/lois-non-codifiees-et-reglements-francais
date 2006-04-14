@@ -845,7 +845,6 @@
 - [Arrêté du 24 novembre 2003 (MENE0302627A)](arrete-du-24-novembre-2003-mene0302627a)
 - [Arrêté du 24 novembre 2003 (PRMX0306813A)](arrete-du-24-novembre-2003-prmx0306813a)
 - [Arrêté du 24 novembre 2003 (SANP0324585A)](arrete-du-24-novembre-2003-sanp0324585a)
-- [Arrêté du 24 novembre 2003 (SANP0324605A)](arrete-du-24-novembre-2003-sanp0324605a)
 - [Arrêté du 24 novembre 2003 (SANS0324714A)](arrete-du-24-novembre-2003-sans0324714a)
 - [Arrêté du 24 novembre 2003 (SOCS0324635A)](arrete-du-24-novembre-2003-socs0324635a)
 - [Arrêté du 24 octobre 2003 (AGRF0301672A)](arrete-du-24-octobre-2003-agrf0301672a)
