@@ -1,6 +1,6 @@
 # Article 1-5
 
-L'exercice d'un service à temps partiel accordé de droit pour raisons familiales est aménagé, pour les personnels relevant d'un régime d'obligations de service, dans les conditions suivantes :
+L'exercice d'un service à temps partiel accordé de droit est aménagé, pour les personnels relevant d'un régime d'obligations de service, dans les conditions suivantes :
 
 1° Pour les personnels des établissements d'enseignement du second degré relevant d'un régime d'obligations de service défini en heures hebdomadaires, bénéficiant d'un temps partiel de droit, la durée du service est aménagée de façon à obtenir un nombre entier d'heures correspondant à la quotité de temps de travail choisie. La durée de ce service à temps partiel peut être accomplie dans un cadre annuel sous réserve de l'intérêt du service.
 
