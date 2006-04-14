@@ -26,8 +26,6 @@ Geonoma undata Klotzsch : Coco-macaque.
 
 Oncidium cebolleta (Jacq.) Sw.
 
-Oncidium leiboldii Rchb. f.
-
 Oncidium meirax Rchb. f.
 
 Oncidium urophyllum Lodd. ex Lindl.
@@ -37,6 +35,30 @@ Oncidium wydleri Rchb. f : Papillon végétal.
 Rhyticocos amara (Jacq.) Becc : Ti-coco.
 
 Spiranthes cranichioides (Griseb.) Cogn.
+
+Aechmea flemingii H.E. Luther.
+
+Epidendrum ciliare L.
+
+Epidendrum patens Sw.
+
+Epidendrum calanthum subsp. revertianum (Stehlé) Sastre.
+
+Epidendrum elongatum subsp. rubrum (Stehlé) Sastre.
+
+Maxillaria acutifolia Lindl.
+
+Octomeria ffrenchiana Ph. Feldmann & Barré.
+
+Prosthechea cochleata (L.) Higgins.
+
+Psychilis correllii Sauleda.
+
+Specklinia mazei (Urb.) Luer.
+
+Tetramicra elegans (Hamilton) Cogn.
+
+Trichosalpinx dura (Lindl.) Luer.
 
 2. Dicotylédones :
 
@@ -79,3 +101,7 @@ Ternstroemia elliptica Sw.
 Ternstroemia obovalis Rich.
 
 Xylosma buxifolium A. Gray : Attrape-sot.
+
+Mammillaria nivosa Link ex Pfeiffer.
+
+Selenicereus grandiflorus (L.) Britt. et Rose.
