@@ -12,7 +12,7 @@ IV. - Le périmètre du pays doit respecter les limites des établissements publ
 
 Lorsque la création ou la modification du périmètre d'un établissement public de coopération intercommunale à fiscalité propre est susceptible de modifier le périmètre d'un ou de plusieurs pays, le ou les préfets de région concernés engagent la modification du périmètre du ou des pays concernés, après, le cas échéant, que le ou les préfets de département ont fait application des dispositions prévues dans les articles L. 5711-1 et L. 5721-6-3 du code général des collectivités territoriales.
 
-Lorsque le périmètre d'un pays inclut des communes situées dans un parc naturel régional, la charte de développement du pays doit être compatible avec la charte de ce parc sur le territoire commun. L'organisme de gestion du parc assure la cohérence et la coordination des actions menées au titre du pays et qui relèvent des missions du parc sur le territoire commun.
+Lorsque le périmètre d'un pays inclut des communes situées dans un parc naturel régional ou un parc national, la charte de développement du pays doit être compatible avec la charte du parc naturel régional ou du parc national sur le territoire commun. L'organisme de gestion du parc assure la cohérence et la coordination des actions menées au titre du pays et qui relèvent des missions du parc sur le territoire commun.
 
 Lorsque le périmètre d'un projet de pays recouvre en tout ou partie celui d'un schéma de cohérence territoriale approuvé, le projet de pays tient compte du projet d'aménagement et de développement durable de ce schéma. Lorsque le projet de pays a déjà été arrêté, le projet d'aménagement et de développement durable du schéma de cohérence territoriale tient compte de la charte de développement du pays.
 
