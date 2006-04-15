@@ -2,7 +2,7 @@
 
 1° Sont abrogés, sous réserve des dispositions de l'article 7 :
 
-- le titre III "Stations classées" du livre II de la deuxième partie du code général des collectivités territoriales, comprenant les articles L. 2231-1 à L. 2231-18 ;
+- le titre III "Stations classées et offices de tourisme" du livre II de la deuxième partie du code général des collectivités territoriales, comprenant les articles L. 2231-1 à L. 2231-18 ;
 
 - la section 3 "Stations classées" du chapitre III du titre VII du livre V de la deuxième partie du code général des collectivités territoriales, comprenant l'article L. 2573-28 ;
 
