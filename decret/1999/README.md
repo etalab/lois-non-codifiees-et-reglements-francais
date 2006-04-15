@@ -517,7 +517,6 @@
 - [Décret n°99-896 du 20 octobre 1999 (INTX9900100D)](decret-n99-896-du-20-octobre-1999-intx9900100d)
 - [Décret n°99-395 du 20 mai 1999 (MENG9900988D)](decret-n99-395-du-20-mai-1999-meng9900988d)
 - [Décret n°99-427 du 20 mai 1999 (MENF9900848D)](decret-n99-427-du-20-mai-1999-menf9900848d)
-- [Décret n°93-1113 du 21 septembre 1993 (JUSA9300228D)](decret-n93-1113-du-21-septembre-1993-jusa9300228d)
 - [Décret n°98-1167 du 21 décembre 1998 (INTA9800300D)](decret-n98-1167-du-21-decembre-1998-inta9800300d)
 - [Décret n°99-1085 du 21 décembre 1999 (MCCT9900573D)](decret-n99-1085-du-21-decembre-1999-mcct9900573d)
 - [Décret n°99-1089 du 21 décembre 1999 (JUSC9920790D)](decret-n99-1089-du-21-decembre-1999-jusc9920790d)

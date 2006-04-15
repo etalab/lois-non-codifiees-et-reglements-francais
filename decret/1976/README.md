@@ -34,7 +34,6 @@
 - [Décret n°76-692 du 13 juillet 1976](decret-n76-692-du-13-juillet-1976)
 - [Décret n°76-700 du 13 juillet 1976](decret-n76-700-du-13-juillet-1976)
 - [Décret n°76-1170 du 14 décembre 1976](decret-n76-1170-du-14-decembre-1976)
-- [Décret n°76-1172 du 14 décembre 1976](decret-n76-1172-du-14-decembre-1976)
 - [Décret n°76-359 du 15 avril 1976](decret-n76-359-du-15-avril-1976)
 - [Décret n°76-389 du 15 avril 1976](decret-n76-389-du-15-avril-1976)
 - [Décret n°76-935 du 15 octobre 1976](decret-n76-935-du-15-octobre-1976)
