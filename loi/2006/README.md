@@ -12,4 +12,6 @@
 - [Loi n° 2006-399 du 4 avril 2006 (JUSX0508260L)](loi-n-2006-399-du-4-avril-2006-jusx0508260l)
 - [Loi n° 2006-405 du 5 avril 2006 (MJSX0500007L)](loi-n-2006-405-du-5-avril-2006-mjsx0500007l)
 - [Loi n° 2006-406 du 5 avril 2006 (JUSX0500076L)](loi-n-2006-406-du-5-avril-2006-jusx0500076l)
+- [Loi n° 2006-436 du 14 avril 2006 (DEVX0500070L)](loi-n-2006-436-du-14-avril-2006-devx0500070l)
+- [Loi n° 2006-437 du 14 avril 2006 (EQUX0500012L)](loi-n-2006-437-du-14-avril-2006-equx0500012l)
 - [Loi n° 2006-64 du 23 janvier 2006 (INTX0500242L)](loi-n-2006-64-du-23-janvier-2006-intx0500242l)

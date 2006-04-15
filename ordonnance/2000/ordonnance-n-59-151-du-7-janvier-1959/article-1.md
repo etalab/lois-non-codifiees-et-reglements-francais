@@ -34,9 +34,11 @@ Une majorité qualifiée des deux tiers des membres présents ou représentés e
 
 - les modifications de répartition des contributions des membres du syndicat ;
 
-- la délibération qui aurait pour effet une augmentation des contributions des membres autres que la région d'Ile-de-France supérieure au taux d'évolution moyen des tarifs inscrit au budget initial du syndicat de l'année majoré d'un taux de deux points.
+- les délibérations à caractère budgétaire ou ayant une incidence budgétaire sont adoptées par le conseil d'administration du syndicat à la majorité absolue de ses membres.
 
-Toutefois, la majorité qualifiée n'est pas requise lorsque l'augmentation des contributions est rendue nécessaire pour équilibrer le budget du syndicat à la suite d'une baisse imprévue du produit du versement transport, du produit des amendes de police ou des redevances perçues.
+Toutefois, avant le 1er janvier 2013, lorsqu'une délibération ayant pour effet, par la création de mesures nouvelles, d'accroître les charges de fonctionnement du syndicat a été adoptée dans les conditions prévues au cinquième alinéa, un ou plusieurs membres du conseil d'administration représentant au moins une des collectivités membres du syndicat, invoquant l'intérêt majeur de la collectivité qu'ils représentent, peuvent demander à ce qu'elle fasse l'objet d'une seconde délibération. Cette demande doit être confirmée par une délibération de l'assemblée délibérante d'au moins une des collectivités concernées, adoptée à la majorité des deux tiers de ses membres présents ou représentés lors de la prochaine réunion de cette assemblée délibérante qui suit la réunion du conseil d'administration au cours de laquelle la délibération contestée a été adoptée. Il est alors procédé à cette seconde délibération lors de la prochaine réunion du conseil d'administration du syndicat qui suit la réunion de l'assemblée délibérante au cours de laquelle la demande de seconde délibération a été confirmée.
+
+Lorsqu'une décision est soumise à seconde délibération en application du sixième alinéa, la majorité des deux tiers des membres présents ou représentés est requise pour son adoption définitive.
 
 Le représentant de l'Etat dans la région d'Ile-de-France est entendu à sa demande par le conseil d'administration du syndicat.
 

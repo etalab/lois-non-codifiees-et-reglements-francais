@@ -12,4 +12,12 @@ En application de l'article L. 424-4 du code de l'environnement, sont seuls auto
 
 - les colliers de dressage de chiens ;
 
-- les casques atténuant le bruit des détonations.
+- les casques atténuant le bruit des détonations ;
+
+- les lunettes à réticule lumineux fixées sur les armes à feu ;
+
+- les télémètres, à condition qu'ils ne soient pas intégrés dans une lunette de visée ;
+
+- les appareils monoculaires ou binoculaires à intensification ou amplification de lumière, à l'exclusion des appareils qui peuvent être mis en oeuvre sans l'aide des mains ;
+
+- les dispositifs permettant de capter les sons dans l'environnement des huttes de chasse, dits veilleurs de nuit.
