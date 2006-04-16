@@ -11,3 +11,4 @@
 - [Section VIII : Dissolution des sociétés anonymes.](section-viii)
 - [Section IX : Responsabilité civile.](section-ix)
 - [Section X : Sociétés en commandite par actions.](section-x)
+- [Section XI : Société européenne](section-xi)
