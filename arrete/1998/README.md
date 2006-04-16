@@ -675,7 +675,6 @@
 - [Arrêté du 21 juillet 1998 (MEST9810812A)](arrete-du-21-juillet-1998-mest9810812a)
 - [Arrêté du 21 novembre 1997 (ATEN9870000A)](arrete-du-21-novembre-1997-aten9870000a)
 - [Arrêté du 21 octobre 1998 (ECOR9805011A)](arrete-du-21-octobre-1998-ecor9805011a)
-- [Arrêté du 21 septembre 1998 (EQUA9801298A)](arrete-du-21-septembre-1998-equa9801298a)
 - [Arrêté du 22 avril 1998 (AGRA9800570A)](arrete-du-22-avril-1998-agra9800570a)
 - [Arrêté du 22 avril 1998 (DEFA9851034A)](arrete-du-22-avril-1998-defa9851034a)
 - [Arrêté du 22 avril 1998 (ECOF9800013A)](arrete-du-22-avril-1998-ecof9800013a)
