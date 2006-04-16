@@ -40,6 +40,8 @@ b) Le cas échéant, administrateurs, président du conseil d' administration, m
 
 12° Pour les sociétés résultant d'une fusion ou d'une scission, l'indication des raison sociale ou dénomination, forme juridique, siège social et renseignements visés aux 1° et 2° de l'article 72 ci-dessous de toutes les sociétés y ayant participé ;
 
+12° bis Pour les sociétés européennes issues d'une fusion, l'indication de la dénomination sociale, la forme juridique, le siège social et les renseignements prévus aux 1 et 2 de l'article 72 de toutes les sociétés ayant participé à la fusion, ainsi que les lieu et numéro de l'immatriculation du registre public des sociétés participantes ayant leur siège dans un autre Etat membre de la Communauté européenne ;
+
 13° Le lieu et le numéro des immatriculations secondaires éventuellement souscrites et, le cas échéant, des établissements principaux ou secondaires situés et immatriculés dans un Etat membre de la Communauté européenne. En outre, la personne morale peut déclarer les mentions relatives à l'adresse et à l'activité principale de ces établissements sur présentation des justificatifs définis à l'arrêté prévu à l'article 88 ;
 
 14° L'indication, le cas échéant, qu'elle est bénéficiaire d'un contrat d'appui au projet d'entreprise pour la création ou la reprise d'une activité économique conclu dans les conditions prévues au chapitre VII du titre II du livre Ier du code de commerce, dont une copie est déposée en annexe au registre ; la dénomination sociale de la personne morale responsable de l'appui, l'adresse de son siège social, ainsi que, si elle est immatriculée dans un registre public, le lieu d'immatriculation et le numéro unique d'identification.
