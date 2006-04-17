@@ -30,6 +30,7 @@
 - [Arrêté du 5 mars 2006 (SANH0620956A)](arrete-du-5-mars-2006-sanh0620956a)
 - [Arrêté du 5 octobre 1989 (PRMP8960007A)](arrete-du-5-octobre-1989-prmp8960007a)
 - [Arrêté du 5 mai 2006 (SANP0621983A)](arrete-du-5-mai-2006-sanp0621983a)
+- [Arrêté du 6 avril 2006 (DEVN0650195A)](arrete-du-6-avril-2006-devn0650195a)
 - [Arrêté du 6 décembre 2006 (EQUA0602492A)](arrete-du-6-decembre-2006-equa0602492a)
 - [Arrêté du 6 février 2006 (AGRS0600124A)](arrete-du-6-fevrier-2006-agrs0600124a)
 - [Arrêté du 6 février 2006 (ECOJ0600004A)](arrete-du-6-fevrier-2006-ecoj0600004a)
