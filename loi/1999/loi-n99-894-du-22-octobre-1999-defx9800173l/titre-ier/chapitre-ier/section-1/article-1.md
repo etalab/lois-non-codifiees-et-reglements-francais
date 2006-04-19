@@ -2,18 +2,18 @@
 
 Les citoyens concourent à la défense de la nation. Ce devoir peut s'exercer par une participation à des activités militaires dans la réserve.
 
-La réserve s'inscrit dans un parcours citoyen qui débute avec l'enseignement de défense et qui se poursuit avec la participation au recensement, l'appel de préparation à la défense, la préparation militaire et le volontariat. Ce parcours continu doit permettre à tout Français et à toute Française d'exercer son droit à contribuer à la défense de la nation.
+La réserve militaire s'inscrit dans un parcours citoyen qui débute avec l'enseignement de défense et qui se poursuit avec la participation au recensement, l'appel de préparation à la défense, la période militaire d'initiation ou de perfectionnement à la défense nationale et le volontariat. Ce parcours continu doit permettre à tout Français et à toute Française d'exercer son droit à contribuer à la défense de la nation.
 
-La réserve a pour objet de renforcer les capacités des forces armées dont elle est une des composantes, d'entretenir l'esprit de défense et de contribuer au maintien du lien entre la nation et ses forces armées. Elle est constituée :
+La réserve militaire a pour objet de renforcer les capacités des forces armées dont elle est une des composantes, d'entretenir l'esprit de défense et de contribuer au maintien du lien entre la nation et ses forces armées. Elle est constituée :
 
-1° D'une réserve opérationnelle comprenant des volontaires et, en fonction des besoins des armées, d'anciens militaires soumis à l'obligation de disponibilité à l'issue de leur lien au service ; lorsqu'ils appartiennent à la réserve opérationnelle :
+1° D'une réserve opérationnelle comprenant :
 
-- les volontaires doivent avoir souscrit un engagement agréé par l'autorité militaire et avoir reçu une affectation ;
+- les volontaires qui ont souscrit un engagement à servir dans la réserve opérationnelle auprès de l'autorité militaire ;
 
-- les anciens militaires doivent avoir reçu une affectation ;
+- les anciens militaires soumis à l'obligation de disponibilité ;
 
-2° D'une réserve citoyenne comprenant les autres réservistes.
+2° D'une réserve citoyenne comprenant les volontaires agréés mentionnés à l'article 20 de la présente loi.
 
-Les réservistes et leurs associations, relais essentiels du renforcement du lien entre la nation et ses forces armées, ont droit à sa reconnaissance pour leur engagement à son service.
+Les réservistes et leurs associations, les associations d'anciens militaires ainsi que les associations dont les activités contribuent à la promotion de la défense nationale constituent les relais essentiels du renforcement du lien entre la Nation et ses forces armées. Ils ont droit à sa reconnaissance pour leur engagement à son service et peuvent bénéficier de son soutien.
 
-L'entreprise ou l'organisme qui a favorisé la mise en oeuvre de la présente loi, notamment en signant une convention avec le ministre chargé des armées, peut se voir attribuer par arrêté ministériel la qualité de " partenaire de la défense nationale ".
+A l'égard des associations, cette reconnaissance peut s'exprimer par l'attribution, par arrêté ministériel, de la qualité de "partenaire de la réserve citoyenne" pour une durée déterminée.

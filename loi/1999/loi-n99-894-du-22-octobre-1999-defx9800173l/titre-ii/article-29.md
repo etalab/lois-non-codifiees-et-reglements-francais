@@ -13,3 +13,5 @@ Il a pour missions :
 - d'examiner toute question d'ordre général relative à la mise en oeuvre de la présente loi ;
 
 - d'établir un rapport annuel, transmis au Parlement, évaluant l'état de la réserve militaire.
+
+La composition, l'organisation, le fonctionnement et les modalités de désignation des membres du Conseil supérieur de la réserve militaire sont fixés par décret.

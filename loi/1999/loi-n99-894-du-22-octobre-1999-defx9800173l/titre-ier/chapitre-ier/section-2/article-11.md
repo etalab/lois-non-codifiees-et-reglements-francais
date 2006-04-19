@@ -1,5 +1,5 @@
 # Article 11
 
-Lorsque le réserviste accomplit son engagement à servir dans la réserve opérationnelle pendant son temps de travail et que les activités prévues à l'article 10 dépassent cinq jours ouvrés par année civile, il doit obtenir l'accord de son employeur, sous réserve de dispositions plus favorables, résultant du contrat de travail, de conventions ou accords collectifs de travail, de conventions conclues entre l'employeur et le ministre chargé des armées.
+Lorsque l'employeur maintient tout ou partie de la rémunération du réserviste pendant son absence pour formation suivie dans le cadre de la réserve opérationnelle, la rémunération et les prélèvements sociaux afférents à cette absence sont admis au titre de la participation des employeurs au financement de la formation professionnelle continue prévue à l'article L. 950-1 du code du travail.
 
-La demande d'accord doit être formulée avec un préavis de deux mois. Si l'employeur oppose un refus, cette décision doit être motivée et notifiée à l'intéressé ainsi qu'à l'autorité militaire dans les quinze jours qui suivent la réception de la demande.
+Le réserviste qui suit une formation au titre de l'article L. 900-2 du même code durant ses activités dans la réserve opérationnelle n'est pas tenu de solliciter l'accord préalable mentionné à l'article 10 de la présente loi.
