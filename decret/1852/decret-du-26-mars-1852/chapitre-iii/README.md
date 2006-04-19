@@ -1,4 +1,4 @@
-# CHAPITRE III : Dispositions spéciales à l'Eglise de la confession d'Augsbourg.
+# CHAPITRE III : Dispositions spéciales à l'Eglise protestante de la confession d'Augsbourg d'Alsace et de Lorraine.
 
 - [Article 8](article-8.md)
 - [Article 9](article-9.md)
