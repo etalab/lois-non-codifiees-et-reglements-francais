@@ -10,4 +10,6 @@ Dans leur nouveau corps, les intéressés seront reclassés à grade équivalent
 
 La période initiale de détachement pourra être prolongée au maximum pour une période de même durée. Ceux des intéressés qui ne seront pas intégrés dans le nouvel emploi seront immédiatement réintégrés, même en surnombre, dans leur corps d'origine. Pendant une durée de cinq ans suivant leur intégration dans leur nouveau corps ou cadre d'emplois, ils pourront, sur demande, être détachés de plein droit dans leur corps d'origine.
 
+Cette possibilité de détachement est ouverte aux membres des corps enseignants de l'enseignement primaire, secondaire et supérieur.
+
 Des décrets définissent la liste des corps enseignants bénéficiaires des présentes dispositions et les conditions de grade et d'ancienneté requises des candidats. Compte tenu des possibilités d'accueil indiquées par chaque administration ou catégorie de collectivités locales ou d'établissements publics, les contingents annuels d'emplois offerts sont, pour chaque administration et pour chaque catégorie de collectivités locales ou établissements, fixés par arrêtés interministériels.
