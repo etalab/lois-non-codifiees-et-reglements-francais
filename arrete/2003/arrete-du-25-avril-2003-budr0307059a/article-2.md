@@ -32,14 +32,18 @@ Pour les recettes :
 
 - titre (code ordonnateur, code comptable assignataire, compte budgétaire, année de gestion, numéro de titre, date d'émission, libellé, montant).
 
-- redevable (civilité, nom, prénom, ou raison sociale, adresse, code) ;
+- redevable (civilité, nom, prénom ou raison sociale, identifiant, adresse, code sexe, date et lieu de naissance, code).
 
 - recouvrements intervenus.
 
 Ces informations sont conservées suivant les règles de la prescription applicable.
 
-Pour les agents utilisateurs : le code utilisateur, les clés publique et privée de ce dernier ainsi que le mot de passe ; le cas échéant, ces données sont intégrées sur une carte à puce.
+Pour les agents utilisateurs :
 
-Les informations relatives aux utilisateurs sont conservées tant qu'ils ont compétence pour utiliser ACCORD.
+- le code opérateur, les clefs publiques et privées de l'utilisateur, ainsi que le mot de passe de protection ; le cas échéant, ces données sont intégrées sur une carte à puce.
+
+- le nombre de tentatives de connexion.
+
+Les informations relatives aux utilisateurs sont conservées tant qu'ils ont compétence pour utiliser ACCORD. Les informations relatives aux données de connexion sont conservées deux ans.
 
 Les informations relatives aux tiers sont conservées jusqu'au 31 décembre de la quatrième année suivant celle du dernier référencement dans un dossier.

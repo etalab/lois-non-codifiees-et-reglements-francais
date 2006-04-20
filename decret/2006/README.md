@@ -259,6 +259,8 @@
 - [Décret n°2006-55 du 17 janvier 2006 (SOCT0512574D)](decret-n2006-55-du-17-janvier-2006-soct0512574d)
 - [Décret n°2006-65 du 17 janvier 2006 (ECOC0500137D)](decret-n2006-65-du-17-janvier-2006-ecoc0500137d)
 - [Décret du 18 avril 2006 (INTA0600082D)](decret-du-18-avril-2006-inta0600082d)
+- [Décret n°2006-451 du 18 avril 2006 (DEFP0600414D)](decret-n2006-451-du-18-avril-2006-defp0600414d)
+- [Décret n°2006-454 du 18 avril 2006 (AGRF0600216D)](decret-n2006-454-du-18-avril-2006-agrf0600216d)
 - [Décret n°2006-56 du 18 janvier 2006 (EQUS0501208D)](decret-n2006-56-du-18-janvier-2006-equs0501208d)
 - [Décret n°2006-58 du 18 janvier 2006 (SANS0524526D)](decret-n2006-58-du-18-janvier-2006-sans0524526d)
 - [Décret n°2006-59 du 18 janvier 2006 (SANS0524525D)](decret-n2006-59-du-18-janvier-2006-sans0524525d)

@@ -1,6 +1,8 @@
 # Article 3
 
-L'alimentation et la mise à jour de la base des données ACCORD incombent à l'ensemble des intervenants de l'administration (services utilisateurs, services gestionnaires, ordonnateurs, membres du corps du contrôle général économique et financier et comptables).<RL    Les informations saisies par les ordonnateurs sont, le cas échéant, visées par le membre du corps du contrôle général économique et financier et validées par le comptable compétent. Le visa du comptable entraîne la mise en règlement automatisée des dépenses.
+L'alimentation et la mise à jour de la base des données ACCORD incombent à l'ensemble des intervenants de l'administration (le responsable d'unité opérationnelle, le responsable de budget opérationnel de programme, le responsable de programme, la direction des affaires financières, le membre du corps du contrôle général économique et financier et le comptable).
+
+Les informations saisies par les ordonnateurs sont, le cas échéant, visées par le membre du corps du contrôle général économique et financier et validées par le comptable compétent. Le visa du comptable entraîne la mise en règlement automatisée des dépenses.
 
 Les destinataires des informations traitées sont :
 
