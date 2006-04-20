@@ -7,7 +7,6 @@
 - [Arrêté du 2 juin 1980](arrete-du-2-juin-1980)
 - [Arrêté du 2 octobre 1979](arrete-du-2-octobre-1979)
 - [Arrêté du 3 avril 1980](arrete-du-3-avril-1980)
-- [Arrêté du 3 décembre 1980](arrete-du-3-decembre-1980)
 - [Arrêté du 3 juillet 1980](arrete-du-3-juillet-1980)
 - [Arrêté du 4 juillet 1980](arrete-du-4-juillet-1980)
 - [Arrêté du 4 juin 1980](arrete-du-4-juin-1980)
