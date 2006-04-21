@@ -8,4 +8,6 @@ La liste des fédérations dont les commissions spécialisées des dans et grade
 
 - Fédération française de taekwondo et disciplines associées (FFTDA) ;
 
-- Fédération française de karaté et arts martiaux affinitaires (FFKAMA).
+- Fédération française de karaté et arts martiaux affinitaires (FFKAMA) ;
+
+- Fédération de tai chi chuan qi gong (FTCCG).
