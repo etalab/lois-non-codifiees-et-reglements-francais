@@ -288,6 +288,7 @@
 - [Décret n°2006-349 du 20 mars 2006 (DEFD0600305D)](decret-n2006-349-du-20-mars-2006-defd0600305d)
 - [Décret n°2006-352 du 20 mars 2006 (ECOC0500166D)](decret-n2006-352-du-20-mars-2006-ecoc0500166d)
 - [Décret n°2006-355 du 20 mars 2006 (EQUT0600297D)](decret-n2006-355-du-20-mars-2006-equt0600297d)
+- [Décret n°2006-456 du 20 avril 2006 (SOCF0610598D)](decret-n2006-456-du-20-avril-2006-socf0610598d)
 - [Décret n°2006-63 du 20 janvier 2006 (MCCB0500911D)](decret-n2006-63-du-20-janvier-2006-mccb0500911d)
 - [Décret n°2005-1310 du 21 octobre 2005 (PRMX0508819D)](decret-n2005-1310-du-21-octobre-2005-prmx0508819d)
 - [Décret n°2005-1315 du 21 octobre 2005 (JUSC0520410D)](decret-n2005-1315-du-21-octobre-2005-jusc0520410d)

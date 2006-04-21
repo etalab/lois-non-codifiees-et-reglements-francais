@@ -1,0 +1,7 @@
+# Article 13
+
+I. - A compter de la publication du présent arrêté, sont seuls habilités à effectuer des prélèvements sanguins en dehors du laboratoire ou des services d'analyses de biologie médicale en vue de telles analyses et sur prescription médicale, au domicile du patient ou dans un établissement de soins privé ou public, les techniciens titulaires du certificat de capacité pour effectuer des prélèvements sanguins et justifiant d'une attestation de formation aux gestes et soins d'urgence de niveau 2.
+
+II. - A titre dérogatoire, les techniciens titulaires du certificat de capacité pour effectuer des prélèvements sanguins et d'une attestation de formation aux premiers secours délivrée par un organisme public habilité ou une association agréée conformément au décret susvisé à la date de publication du présent arrêté peuvent, pendant une durée de un an à compter de la publication du présent arrêté, effectuer des prélèvements sanguins en dehors du laboratoire ou des services d'analyses de biologie médicale en vue de telles analyses et sur prescription médicale, au domicile du patient ou dans un établissement de soins privé ou public sans détenir l'attestation de formation aux gestes et soins d'urgence de niveau 2.
+
+Au-delà de cette période, ils ne pourront continuer à effectuer ces prélèvements que s'ils disposent de l'attestation de formation aux gestes et soins d'urgence de niveau 2.
