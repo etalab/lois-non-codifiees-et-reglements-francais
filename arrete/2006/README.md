@@ -72,6 +72,8 @@
 - [Arrêté du 10 mars 2006 (INTE0600176A)](arrete-du-10-mars-2006-inte0600176a)
 - [Arrêté du 10 novembre 2006 (EQUP0601883A)](arrete-du-10-novembre-2006-equp0601883a)
 - [Arrêté du 10 octobre 2006 (EQUG0601814A)](arrete-du-10-octobre-2006-equg0601814a)
+- [Arrêté du 11 avril 2006 (BUDL0600038A)](arrete-du-11-avril-2006-budl0600038a)
+- [Arrêté du 11 avril 2006 (BUDL0600039A)](arrete-du-11-avril-2006-budl0600039a)
 - [Arrêté du 11 avril 2006 (MENS0601034A)](arrete-du-11-avril-2006-mens0601034a)
 - [Arrêté du 11 janvier 2006 (AGRG0600162A)](arrete-du-11-janvier-2006-agrg0600162a)
 - [Arrêté du 11 janvier 2006 (JUSF0650005A)](arrete-du-11-janvier-2006-jusf0650005a)
