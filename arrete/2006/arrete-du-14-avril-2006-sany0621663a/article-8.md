@@ -1,0 +1,3 @@
+# Article 8
+
+Les organismes agréés adressent, chaque année, un rapport annuel d'activité à la direction générale de la sûreté nucléaire et de la radioprotection. Ce rapport doit être envoyé avant le 31 mai de l'année en cours. Ce rapport comprend un bilan présentant les activités réalisées dans le cadre de l'agrément et faisant part, le cas échéant, des difficultés rencontrées. Un bilan des résultats des mesures de radon recueillies cadre notamment, pour chaque département, le nombre d'établissements contrôlés. Les statistiques des résultats, comparés aux niveaux d'activité définis en application de l'article R. 1333-15 du code de la santé publique, sont présentées selon les modalités délivrées par le directeur général de la sûreté nucléaire et de la radioprotection.
