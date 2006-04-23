@@ -2,7 +2,7 @@
 
 Le conseil du développement de la vie associative est présidé par le ministre en charge de la vie associative ou son représentant. Il comprend :
 
-1° Le délégué interministériel à l'innovation sociale et à l'économie sociale ou son représentant ;
+1° Le directeur de la vie associative, de l'emploi et des formations ou son représentant ;
 
 2° Un représentant désigné par chacun des neuf ministres suivants : le ministre chargé des affaires sociales, le ministre chargé de l'éducation nationale, le ministre chargé de l'intérieur, le ministre chargé de la culture, le ministre chargé de l'agriculture, le ministre chargé de l'environnement, le ministre chargé de la ville, le ministre chargé de la jeunesse et des sports et le ministre chargé du tourisme ;
 
