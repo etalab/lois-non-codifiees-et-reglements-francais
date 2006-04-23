@@ -12,7 +12,11 @@ Toutefois, un délai de conservation prolongé, égal à la durée prévue par l
 
 - une demande de paiement fractionné a été présentée ;
 
-- la période d'imposition a donné lieu à une imposition supplémentaire, une imposition primitive pénalisée ou imposée tardivement.
+- la période d'imposition a donné lieu à une imposition supplémentaire, une imposition primitive pénalisée ou imposée tardivement ;
+
+- le dossier d'un contribuable présente des dettes non soldées auprès du comptable public.
+
+De même, les données visées au I de l'article 3 peuvent être conservées au-delà du délai fixé par le I du présent article à l'initiative du service en charge du dossier concerné, notamment en cas de contentieux sur l'assiette et le recouvrement de l'impôt, de contrôle en cours.
 
 Par ailleurs, le nom des organismes bénéficiaires de dons ouvrant droit à réduction d'impôt porté sur les déclarations d'ensemble des revenus est effacé au terme d'un délai de six mois. Il n'est procédé à aucune sélection sur la base de cette information.
 
