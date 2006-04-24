@@ -143,6 +143,7 @@
 - [Arrêté du 20 mars 2006 (AGRS0600689A)](arrete-du-20-mars-2006-agrs0600689a)
 - [Arrêté du 20 mars 2006 (BUDB0660005A)](arrete-du-20-mars-2006-budb0660005a)
 - [Arrêté du 20 mars 2006 (MAEA0620071A)](arrete-du-20-mars-2006-maea0620071a)
+- [Arrêté du 21 avril 2006 (DEFP0600327A)](arrete-du-21-avril-2006-defp0600327a)
 - [Arrêté du 21 décembre 2005 (DOMA0600001A)](arrete-du-21-decembre-2005-doma0600001a)
 - [Arrêté du 21 décembre 2005 (METF0610002A)](arrete-du-21-decembre-2005-metf0610002a)
 - [Arrêté du 21 février 2006 (DEFD0600182A)](arrete-du-21-fevrier-2006-defd0600182a)
