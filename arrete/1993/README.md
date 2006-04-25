@@ -927,7 +927,6 @@
 - [Arrêté du 27 mars 1993 (EQUS9300452A)](arrete-du-27-mars-1993-equs9300452a)
 - [Arrêté du 27 mars 1993 (EQUS9300527A)](arrete-du-27-mars-1993-equs9300527a)
 - [Arrêté du 27 mars 1993 (JUSG9260080A)](arrete-du-27-mars-1993-jusg9260080a)
-- [Arrêté du 27 mars 1993 (MENT9300203A)](arrete-du-27-mars-1993-ment9300203a)
 - [Arrêté du 27 mars 1993 (MENZ9304969A)](arrete-du-27-mars-1993-menz9304969a)
 - [Arrêté du 27 mars 1993 (PRMX9300230A)](arrete-du-27-mars-1993-prmx9300230a)
 - [Arrêté du 27 mars 1993 (PTTS9300164A)](arrete-du-27-mars-1993-ptts9300164a)

@@ -1,3 +1,0 @@
-# PLANS DE FRÉQUENCES À LA SORTIE : INDIVIDUELLE DU RÉSEAU.
-
-- [Article ANNEXE](article-annexe.md)
