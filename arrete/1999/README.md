@@ -279,7 +279,6 @@
 - [Arrêté du 12 juillet 1999 (EQUH9901059A)](arrete-du-12-juillet-1999-equh9901059a)
 - [Arrêté du 12 juillet 1999 (JUSF9950094A)](arrete-du-12-juillet-1999-jusf9950094a)
 - [Arrêté du 12 juillet 1999 (JUSF9950095A)](arrete-du-12-juillet-1999-jusf9950095a)
-- [Arrêté du 12 juillet 1999 (MESP9922135A)](arrete-du-12-juillet-1999-mesp9922135a)
 - [Arrêté du 12 mars 1999 (ECOT9910366A)](arrete-du-12-mars-1999-ecot9910366a)
 - [Arrêté du 12 mars 1999 (ECOT9910367A)](arrete-du-12-mars-1999-ecot9910367a)
 - [Arrêté du 12 mars 1999 (MESH9920879A)](arrete-du-12-mars-1999-mesh9920879a)
