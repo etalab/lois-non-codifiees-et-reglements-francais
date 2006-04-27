@@ -748,7 +748,7 @@ La liste des sections, des sous-sections et des options ainsi que le nombre des 
 <p align="center">01</p>
 </td>
 <td align="left" valign="top">
-<p align="left">Anesthésiologie et réanimation chirurgicale</p>
+<p align="left">Anesthésiologie et réanimation chirurgicale ; médecine d'urgence (2 options)</p>
 </td>
 <td align="left" valign="top">
 <p align="center">Mixte</p>
@@ -774,7 +774,7 @@ La liste des sections, des sous-sections et des options ainsi que le nombre des 
 <p align="center">02</p>
 </td>
 <td align="left" valign="top">
-<p align="left">Réanimation médicale</p>
+<p align="left">Réanimation médicale ; médecine d'urgence (2 options)</p>
 </td>
 <td align="left" valign="top">
 <p align="center">Clinique</p>
@@ -786,10 +786,10 @@ La liste des sections, des sous-sections et des options ainsi que le nombre des 
 <p align="center">2</p>
 </td>
 <td align="left" valign="top">
-<p align="center">-</p>
+<p align="center">2</p>
 </td>
 <td align="left" valign="top">
-<p align="center">-</p>
+<p align="center">1</p>
 </td>
 </tr>
 <tr>
@@ -826,7 +826,7 @@ La liste des sections, des sous-sections et des options ainsi que le nombre des 
 <p align="center">04</p>
 </td>
 <td align="left" valign="top">
-<p align="left">Thérapeutique</p>
+<p align="left">Thérapeutique ; médecine d'urgence (2 options)</p>
 </td>
 <td align="left" valign="top">
 <p align="center">Mixte</p>
@@ -844,226 +844,323 @@ La liste des sections, des sous-sections et des options ainsi que le nombre des 
 <p align="center">2</p>
 </td>
 </tr>
+</tbody>
+</table>
+
+-
+
+<table>
+<tbody>
 <tr>
-<td>
+<td align="left" valign="top">
+<p align="center">Section</p>
+</td>
+<td align="left" valign="top">
+<p align="center">Sous-section</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Titre</p>
+</td>
+<td align="left" valign="top">
+<p align="center">Type</p>
+</td>
+<td align="left" colspan="2" valign="top">
+<p align="center">Premier collège</p>
+</td>
+<td align="left" colspan="2" valign="top">
+<p align="center">Deuxième collège</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<pre> </pre>
+</td>
+<td align="left" valign="top">
+<pre> </pre>
+</td>
+<td align="left" valign="top">
+<pre> </pre>
+</td>
+<td align="left" valign="top">
+<pre> </pre>
+</td>
+<td align="left" valign="top">
+<p align="center">Elus</p>
+</td>
+<td align="left" valign="top">
+<p align="center">Nommés</p>
+</td>
+<td align="left" valign="top">
+<p align="center">Elus</p>
+</td>
+<td align="left" valign="top">
+<p align="center">Nommés</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
 <p align="center">49</p>
 </td>
-<td/>
-<td>
+<td align="left" valign="top">
+<pre> </pre>
+</td>
+<td align="left" valign="top">
 <p align="left">Pathologie nerveuse et musculaire, pathologie mentale, handicap et rééducation :</p>
 </td>
-<td/>
-<td/>
-<td/>
-<td/>
-<td/>
+<td align="left" valign="top">
+<pre> </pre>
+</td>
+<td align="left" valign="top">
+<pre> </pre>
+</td>
+<td align="left" valign="top">
+<pre> </pre>
+</td>
+<td align="left" valign="top">
+<pre> </pre>
+</td>
+<td align="left" valign="top">
+<pre> </pre>
+</td>
 </tr>
 <tr>
-<td/>
-<td>
+<td align="left" valign="top">
+<pre> </pre>
+</td>
+<td align="left" valign="top">
 <p align="center">01</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="left">Neurologie</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">Clinique</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">6</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">3</p>
 </td>
-<td>
-<p align="center">-</p>
+<td align="left" valign="top">
+<p align="center">2</p>
 </td>
-<td>
-<p align="center">-</p>
+<td align="left" valign="top">
+<p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td/>
-<td>
+<td align="left" valign="top">
+<pre> </pre>
+</td>
+<td align="left" valign="top">
 <p align="center">02</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="left">Neurochirurgie</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">Clinique</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">6</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">3</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">-</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">-</p>
 </td>
 </tr>
 <tr>
-<td/>
-<td>
+<td align="left" valign="top">
+<pre> </pre>
+</td>
+<td align="left" valign="top">
 <p align="center">03</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="left">Psychiatrie d'adultes</p>
 </td>
-<td>Clinique</td>
-<td>
+<td align="left" valign="top">
+<p align="center">Clinique</p>
+</td>
+<td align="left" valign="top">
 <p align="center">6</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">3</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">2</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td/>
-<td>
+<td align="left" valign="top">
+<pre> </pre>
+</td>
+<td align="left" valign="top">
 <p align="center">04</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="left">Pédopsychiatrie</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">Clinique</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">4</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">2</p>
 </td>
-<td>
-<p align="center">-</p>
+<td align="left" valign="top">
+<p align="center">2</p>
 </td>
-<td>
-<p align="center">-</p>
+<td align="left" valign="top">
+<p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td/>
-<td>
+<td align="left" valign="top">
+<pre> </pre>
+</td>
+<td align="left" valign="top">
 <p align="center">05</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="left">Médecine physique et de réadaptation</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">Clinique</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">4</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">2</p>
 </td>
-<td>
-<p align="center">-</p>
+<td align="left" valign="top">
+<p align="center">2</p>
 </td>
-<td>
-<p align="center">-</p>
+<td align="left" valign="top">
+<p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td>
+<td align="left" valign="top">
 <p align="center">50</p>
 </td>
-<td/>
-<td>
+<td align="left" valign="top">
+<pre> </pre>
+</td>
+<td align="left" valign="top">
 <p align="left">Pathologie ostéo-articulaire, dermatologie et chirurgie plastique :</p>
 </td>
-<td/>
-<td/>
-<td/>
-<td/>
-<td/>
+<td align="left" valign="top">
+<pre> </pre>
+</td>
+<td align="left" valign="top">
+<pre> </pre>
+</td>
+<td align="left" valign="top">
+<pre> </pre>
+</td>
+<td align="left" valign="top">
+<pre> </pre>
+</td>
+<td align="left" valign="top">
+<pre> </pre>
+</td>
 </tr>
 <tr>
-<td/>
-<td>
+<td align="left" valign="top">
+<pre> </pre>
+</td>
+<td align="left" valign="top">
 <p align="center">01</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="left">Rhumatologie</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">Clinique</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">6</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">3</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">2</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td/>
-<td>
+<td align="left" valign="top">
+<pre> </pre>
+</td>
+<td align="left" valign="top">
 <p align="center">02</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="left">Chirurgie orthopédique et traumatologique</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">Clinique</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">6</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">3</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">2</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td/>
-<td>
+<td align="left" valign="top">
+<pre> </pre>
+</td>
+<td align="left" valign="top">
 <p align="center">03</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="left">Dermato-vénéréologie</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">Clinique</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">6</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">3</p>
 </td>
-<td>
-<p align="center">-</p>
+<td align="left" valign="top">
+<p align="center">2</p>
 </td>
-<td>
-<p align="center">-</p>
+<td align="left" valign="top">
+<p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top"/>
+<td align="left" valign="top">
+<pre> </pre>
+</td>
 <td align="left" valign="top">
 <p align="center">04</p>
 </td>
@@ -1080,6 +1177,266 @@ La liste des sections, des sous-sections et des options ainsi que le nombre des 
 <p align="center">2</p>
 </td>
 <td align="left" valign="top">
+<p align="center">2</p>
+</td>
+<td align="left" valign="top">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="center">51</p>
+</td>
+<td align="left" valign="top">
+<pre> </pre>
+</td>
+<td align="left" valign="top">
+<p align="left">Pathologie cardiorespiratoire et vasculaire :</p>
+</td>
+<td align="left" valign="top">
+<pre> </pre>
+</td>
+<td align="left" valign="top">
+<pre> </pre>
+</td>
+<td align="left" valign="top">
+<pre> </pre>
+</td>
+<td align="left" valign="top">
+<pre> </pre>
+</td>
+<td align="left" valign="top">
+<pre> </pre>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<pre> </pre>
+</td>
+<td align="left" valign="top">
+<p align="center">01</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Pneumologie</p>
+</td>
+<td align="left" valign="top">
+<p align="center">Clinique</p>
+</td>
+<td align="left" valign="top">
+<p align="center">6</p>
+</td>
+<td align="left" valign="top">
+<p align="center">3</p>
+</td>
+<td align="left" valign="top">
+<p align="center">2</p>
+</td>
+<td align="left" valign="top">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<pre> </pre>
+</td>
+<td align="left" valign="top">
+<p align="center">02</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Cardiologie</p>
+</td>
+<td align="left" valign="top">
+<p align="center">Clinique</p>
+</td>
+<td align="left" valign="top">
+<p align="center">6</p>
+</td>
+<td align="left" valign="top">
+<p align="center">3</p>
+</td>
+<td align="left" valign="top">
+<p align="center">2</p>
+</td>
+<td align="left" valign="top">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<pre> </pre>
+</td>
+<td align="left" valign="top">
+<p align="center">03</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Chirurgie thoracique et cardio-vasculaire</p>
+</td>
+<td align="left" valign="top">
+<p align="center">Clinique</p>
+</td>
+<td align="left" valign="top">
+<p align="center">6</p>
+</td>
+<td align="left" valign="top">
+<p align="center">3</p>
+</td>
+<td align="left" valign="top">
+<p align="center">2</p>
+</td>
+<td align="left" valign="top">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<pre> </pre>
+</td>
+<td align="left" valign="top">
+<p align="center">04</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Chirurgie vasculaire ; médecine vasculaire (2 options)</p>
+</td>
+<td align="left" valign="top">
+<p align="center">Clinique</p>
+</td>
+<td align="left" valign="top">
+<p align="center">4</p>
+</td>
+<td align="left" valign="top">
+<p align="center">2</p>
+</td>
+<td align="left" valign="top">
+<p align="center">2</p>
+</td>
+<td align="left" valign="top">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="center">52</p>
+</td>
+<td align="left" valign="top">
+<pre> </pre>
+</td>
+<td align="left" valign="top">
+<p align="left">Maladies des appareils digestif et urinaire :</p>
+</td>
+<td align="left" valign="top">
+<pre> </pre>
+</td>
+<td align="left" valign="top">
+<pre> </pre>
+</td>
+<td align="left" valign="top">
+<pre> </pre>
+</td>
+<td align="left" valign="top">
+<pre> </pre>
+</td>
+<td align="left" valign="top">
+<pre> </pre>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<pre> </pre>
+</td>
+<td align="left" valign="top">
+<p align="center">01</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Gastroentérologie ; hépatologie (2 options)</p>
+</td>
+<td align="left" valign="top">
+<p align="center">Clinique</p>
+</td>
+<td align="left" valign="top">
+<p align="center">6</p>
+</td>
+<td align="left" valign="top">
+<p align="center">3</p>
+</td>
+<td align="left" valign="top">
+<p align="center">2</p>
+</td>
+<td align="left" valign="top">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<pre> </pre>
+</td>
+<td align="left" valign="top">
+<p align="center">02</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Chirurgie digestive</p>
+</td>
+<td align="left" valign="top">
+<p align="center">Clinique</p>
+</td>
+<td align="left" valign="top">
+<p align="center">6</p>
+</td>
+<td align="left" valign="top">
+<p align="center">3</p>
+</td>
+<td align="left" valign="top">
+<p align="center">2</p>
+</td>
+<td align="left" valign="top">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<pre> </pre>
+</td>
+<td align="left" valign="top">
+<p align="center">03</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Néphrologie</p>
+</td>
+<td align="left" valign="top">
+<p align="center">Clinique</p>
+</td>
+<td align="left" valign="top">
+<p align="center">6</p>
+</td>
+<td align="left" valign="top">
+<p align="center">3</p>
+</td>
+<td align="left" valign="top">
+<p align="center">2</p>
+</td>
+<td align="left" valign="top">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<pre> </pre>
+</td>
+<td align="left" valign="top">
+<p align="center">04</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Urologie</p>
+</td>
+<td align="left" valign="top">
+<p align="center">Clinique</p>
+</td>
+<td align="left" valign="top">
+<p align="center">6</p>
+</td>
+<td align="left" valign="top">
+<p align="center">3</p>
+</td>
+<td align="left" valign="top">
 <p align="center">-</p>
 </td>
 <td align="left" valign="top">
@@ -1087,241 +1444,35 @@ La liste des sections, des sous-sections et des options ainsi que le nombre des 
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">51</p>
-</td>
-<td/>
-<td>
-<p align="left">Pathologie cardiorespiratoire et vasculaire :</p>
-</td>
-<td/>
-<td/>
-<td/>
-<td/>
-<td/>
-</tr>
-<tr>
-<td/>
-<td>
-<p align="center">01</p>
-</td>
-<td>
-<p align="left">Pneumologie</p>
-</td>
-<td>
-<p align="center">Clinique</p>
-</td>
-<td>
-<p align="center">6</p>
-</td>
-<td>
-<p align="center">3</p>
-</td>
-<td>
-<p align="center">2</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td/>
-<td>
-<p align="center">02</p>
-</td>
-<td>
-<p align="left">Cardiologie</p>
-</td>
-<td>
-<p align="center">Clinique</p>
-</td>
-<td>
-<p align="center">6</p>
-</td>
-<td>
-<p align="center">3</p>
-</td>
-<td>
-<p align="center">-</p>
-</td>
-<td>
-<p align="center">-</p>
-</td>
-</tr>
-<tr>
-<td/>
-<td>
-<p align="center">03</p>
-</td>
-<td>
-<p align="left">Chirurgie thoracique et cardio-vasculaire</p>
-</td>
-<td>
-<p align="center">Clinique</p>
-</td>
-<td>
-<p align="center">6</p>
-</td>
-<td>
-<p align="center">3</p>
-</td>
-<td>
-<p align="center">2</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td/>
-<td>
-<p align="center">04</p>
-</td>
-<td>
-<p align="left">Chirurgie vasculaire ; médecine vasculaire (2 options)</p>
-</td>
-<td>
-<p align="center">Clinique</p>
-</td>
-<td>
-<p align="center">4</p>
-</td>
-<td>
-<p align="center">2</p>
-</td>
-<td>
-<p align="center">2</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">52</p>
-</td>
-<td/>
-<td>
-<p align="left">Maladies des appareils digestif et urinaire :</p>
-</td>
-<td/>
-<td/>
-<td/>
-<td/>
-<td/>
-</tr>
-<tr>
-<td/>
-<td>
-<p align="center">01</p>
-</td>
-<td>
-<p align="left">Gastroentérologie ; hépatologie (2 options)</p>
-</td>
-<td>
-<p align="center">Clinique</p>
-</td>
-<td>
-<p align="center">6</p>
-</td>
-<td>
-<p align="center">3</p>
-</td>
-<td>
-<p align="center">2</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td/>
-<td>
-<p align="center">02</p>
-</td>
-<td>
-<p align="left">Chirurgie digestive</p>
-</td>
-<td>
-<p align="center">Clinique</p>
-</td>
-<td>
-<p align="center">6</p>
-</td>
-<td>
-<p align="center">3</p>
-</td>
-<td>
-<p align="center">-</p>
-</td>
-<td>
-<p align="center">-</p>
-</td>
-</tr>
-<tr>
-<td/>
-<td>
-<p align="center">03</p>
-</td>
-<td>
-<p align="left">Néphrologie</p>
-</td>
-<td>
-<p align="center">Clinique</p>
-</td>
-<td>
-<p align="center">6</p>
-</td>
-<td>
-<p align="center">3</p>
-</td>
-<td>
-<p align="center">-</p>
-</td>
-<td>
-<p align="center">-</p>
-</td>
-</tr>
-<tr>
-<td/>
-<td>
-<p align="center">04</p>
-</td>
-<td>
-<p align="left">Urologie</p>
-</td>
-<td>
-<p align="center">Clinique</p>
-</td>
-<td>
-<p align="center">6</p>
-</td>
-<td>
-<p align="center">3</p>
-</td>
-<td>
-<p align="center">-</p>
-</td>
-<td>
-<p align="center">-</p>
-</td>
-</tr>
-<tr>
-<td>
+<td align="left" valign="top">
 <p align="center">53</p>
 </td>
-<td/>
-<td>
+<td align="left" valign="top">
+<pre> </pre>
+</td>
+<td align="left" valign="top">
 <p align="left">Médecine interne, gériatrie et chirurgie générale :</p>
 </td>
-<td/>
-<td/>
-<td/>
-<td/>
-<td/>
+<td align="left" valign="top">
+<pre> </pre>
+</td>
+<td align="left" valign="top">
+<pre> </pre>
+</td>
+<td align="left" valign="top">
+<pre> </pre>
+</td>
+<td align="left" valign="top">
+<pre> </pre>
+</td>
+<td align="left" valign="top">
+<pre> </pre>
+</td>
 </tr>
 <tr>
-<td align="left" valign="top"/>
+<td align="left" valign="top">
+<pre> </pre>
+</td>
 <td align="left" valign="top">
 <p align="center">01</p>
 </td>
@@ -1345,26 +1496,28 @@ La liste des sections, des sous-sections et des options ainsi que le nombre des 
 </td>
 </tr>
 <tr>
-<td/>
-<td>
+<td align="left" valign="top">
+<pre> </pre>
+</td>
+<td align="left" valign="top">
 <p align="center">02</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="left">Chirurgie générale</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">Clinique</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">6</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">3</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">-</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">-</p>
 </td>
 </tr>
@@ -1372,66 +1525,84 @@ La liste des sections, des sous-sections et des options ainsi que le nombre des 
 <td align="left" valign="top">
 <p align="center">54</p>
 </td>
-<td align="left" valign="top"/>
+<td align="left" valign="top">
+<pre> </pre>
+</td>
 <td align="left" valign="top">
 <p align="left">Développement et pathologie de l'enfant, gynécologie-obstétrique, endocrinologie et reproduction :</p>
 </td>
-<td align="left" valign="top"/>
-<td align="left" valign="top"/>
-<td align="left" valign="top"/>
-<td align="left" valign="top"/>
-<td align="left" valign="top"/>
+<td align="left" valign="top">
+<pre> </pre>
+</td>
+<td align="left" valign="top">
+<pre> </pre>
+</td>
+<td align="left" valign="top">
+<pre> </pre>
+</td>
+<td align="left" valign="top">
+<pre> </pre>
+</td>
+<td align="left" valign="top">
+<pre> </pre>
+</td>
 </tr>
 <tr>
-<td/>
-<td>
+<td align="left" valign="top">
+<pre> </pre>
+</td>
+<td align="left" valign="top">
 <p align="center">01</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="left">Pédiatrie</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">Clinique</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">8</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">4</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">2</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td/>
-<td>
+<td align="left" valign="top">
+<pre> </pre>
+</td>
+<td align="left" valign="top">
 <p align="center">02</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="left">Chirurgie infantile</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">Clinique</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">4</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">2</p>
 </td>
-<td>
-<p align="center">-</p>
+<td align="left" valign="top">
+<p align="center">2</p>
 </td>
-<td>
-<p align="center">-</p>
+<td align="left" valign="top">
+<p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top"/>
+<td align="left" valign="top">
+<pre> </pre>
+</td>
 <td align="left" valign="top">
 <p align="center">03</p>
 </td>
@@ -1448,43 +1619,47 @@ La liste des sections, des sous-sections et des options ainsi que le nombre des 
 <p align="center">3</p>
 </td>
 <td align="left" valign="top">
-<p align="center">-</p>
+<p align="center">2</p>
 </td>
 <td align="left" valign="top">
-<p align="center">-</p>
+<p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td/>
-<td>
+<td align="left" valign="top">
+<pre> </pre>
+</td>
+<td align="left" valign="top">
 <p align="center">04</p>
 </td>
-<td>
-<p align="left">Endocrinologie et maladies métaboliques</p>
+<td align="left" valign="top">
+<p align="left">Endocrinologie, diabète et maladies métaboliques ; gynécologie médicale (2 options)</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">Clinique</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">6</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">3</p>
 </td>
-<td>
-<p align="center">-</p>
+<td align="left" valign="top">
+<p align="center">2</p>
 </td>
-<td>
-<p align="center">-</p>
+<td align="left" valign="top">
+<p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top"/>
+<td align="left" valign="top">
+<pre> </pre>
+</td>
 <td align="left" valign="top">
 <p align="center">05</p>
 </td>
 <td align="left" valign="top">
-<p align="left">Biologie et médecine du développement et de la reproduction</p>
+<p align="left">Biologie et médecine du développement et de la reproduction ; gynécologie médicale (2 options)</p>
 </td>
 <td align="left" valign="top">
 <p align="center">Mixte</p>
@@ -1503,89 +1678,107 @@ La liste des sections, des sous-sections et des options ainsi que le nombre des 
 </td>
 </tr>
 <tr>
-<td>
+<td align="left" valign="top">
 <p align="center">55</p>
 </td>
-<td/>
-<td>
+<td align="left" valign="top">
+<pre> </pre>
+</td>
+<td align="left" valign="top">
 <p align="left">Pathologie de la tête et du cou :</p>
 </td>
-<td/>
-<td/>
-<td/>
-<td/>
-<td/>
+<td align="left" valign="top">
+<pre> </pre>
+</td>
+<td align="left" valign="top">
+<pre> </pre>
+</td>
+<td align="left" valign="top">
+<pre> </pre>
+</td>
+<td align="left" valign="top">
+<pre> </pre>
+</td>
+<td align="left" valign="top">
+<pre> </pre>
+</td>
 </tr>
 <tr>
-<td/>
-<td>
+<td align="left" valign="top">
+<pre> </pre>
+</td>
+<td align="left" valign="top">
 <p align="center">01</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="left">Oto-rhino-laryngologie</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">Clinique</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">6</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">3</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">-</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">-</p>
 </td>
 </tr>
 <tr>
-<td/>
-<td>
+<td align="left" valign="top">
+<pre> </pre>
+</td>
+<td align="left" valign="top">
 <p align="center">02</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="left">Ophtalmologie</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">Clinique</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">6</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">3</p>
 </td>
-<td>
-<p align="center">-</p>
+<td align="left" valign="top">
+<p align="center">2</p>
 </td>
-<td>
-<p align="center">-</p>
+<td align="left" valign="top">
+<p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td/>
-<td>
+<td align="left" valign="top">
+<pre> </pre>
+</td>
+<td align="left" valign="top">
 <p align="center">03</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="left">Chirurgie maxillo-faciale et stomatologie</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">Clinique</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">4</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">2</p>
 </td>
-<td>
-<p align="center">-</p>
+<td align="left" valign="top">
+<p align="center">2</p>
 </td>
-<td>
-<p align="center">-</p>
+<td align="left" valign="top">
+<p align="center">1</p>
 </td>
 </tr>
 </tbody>

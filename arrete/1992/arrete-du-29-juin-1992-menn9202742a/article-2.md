@@ -292,10 +292,10 @@ La liste des sections et sous-sections ainsi que le nombre des membres de chaque
 <p align="center">1</p>
 </td>
 <td align="left" valign="bottom">
-<p align="center">2</p>
+<p align="center">-</p>
 </td>
 <td align="left" valign="bottom">
-<p align="center">1</p>
+<p align="center">3</p>
 </td>
 <td align="left" valign="bottom">
 <p align="center">1</p>
@@ -318,10 +318,10 @@ La liste des sections et sous-sections ainsi que le nombre des membres de chaque
 <p align="center">1</p>
 </td>
 <td align="left" valign="bottom">
-<p align="center">2</p>
+<p align="center">-</p>
 </td>
 <td align="left" valign="bottom">
-<p align="center">1</p>
+<p align="center">3</p>
 </td>
 <td align="left" valign="bottom">
 <p align="center">1</p>
