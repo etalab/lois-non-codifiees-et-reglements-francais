@@ -1072,7 +1072,6 @@
 - [Arrêté du 30 juin 1994 (LOGC9400026A)](arrete-du-30-juin-1994-logc9400026a)
 - [Arrêté du 30 juin 1994 (TEFT9400710A)](arrete-du-30-juin-1994-teft9400710a)
 - [Arrêté du 30 mars 1978](arrete-du-30-mars-1978)
-- [Arrêté du 30 mars 1994 (AGRG9400644A)](arrete-du-30-mars-1994-agrg9400644a)
 - [Arrêté du 30 mars 1994 (AGRG9400686A)](arrete-du-30-mars-1994-agrg9400686a)
 - [Arrêté du 30 mars 1994 (DEFD9401545A)](arrete-du-30-mars-1994-defd9401545a)
 - [Arrêté du 30 mars 1994 (ECOT9426109A)](arrete-du-30-mars-1994-ecot9426109a)
