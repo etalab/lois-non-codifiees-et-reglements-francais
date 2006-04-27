@@ -1,5 +1,5 @@
 # Article 9
 
-Tout élément nouveau d'information connu du responsable de la dissémination et relatif aux risques présentés par le ou les organismes génétiquement modifiés pour la santé publique ou l'environnement soit avant, soit après l'obtention de l'autorisation, doit être communiqué sans délai par le responsable au directeur général de l'Agence française de sécurité sanitaire des produits de santé.
+Toute personne ayant accès au dossier mentionné à l'article 2 du présent décret est tenue au secret professionnel dans les conditions et sous les peines prévues à l'article 226-13 du code pénal.
 
-Le cas échéant, le responsable de la dissémination prend sans délai les mesures nécessaires pour protéger la santé publique et l'environnement.
+Si, pour quelque raison que ce soit, le demandeur retire sa demande d'autorisation, le directeur général de l'Agence française de sécurité sanitaire des produits de santé et le ministre chargé de l'environnement ne peuvent divulguer les informations relatives au projet de dissémination contenues dans le dossier de la demande.

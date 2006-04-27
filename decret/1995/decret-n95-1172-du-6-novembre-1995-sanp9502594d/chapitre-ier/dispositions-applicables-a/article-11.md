@@ -1,3 +1,7 @@
 # Article 11
 
-Au terme de la dissémination autorisée, le responsable de celle-ci communique au directeur général de l'Agence française de sécurité sanitaire des produits de santé les résultats de cette dissémination en ce qui concerne l'impact sur la santé publique et l'environnement. Il informe celui-ci des suites qu'il compte donner à ses recherches.
+Les personnes habilitées au titre de l'article 13 ci-dessus prêtent serment devant le tribunal de grande instance de leur résidence administrative.
+
+La formule du serment est la suivante :
+
+"Je jure et promets de bien et loyalement remplir mes fonctions et d'observer en tout les devoirs qu'elles imposent. Je jure également de ne rien révéler ou utiliser de ce qui sera porté à ma connaissance à l'occasion de l'exercice de mes fonctions."

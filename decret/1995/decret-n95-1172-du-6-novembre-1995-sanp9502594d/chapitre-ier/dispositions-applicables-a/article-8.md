@@ -1,3 +1,3 @@
 # Article 8
 
-En cas de changement de responsable de la dissémination, au cours de l'instruction de la demande d'autorisation ou après la délivrance de l'autorisation, le futur promoteur responsable de la dissémination doit informer le directeur général de l'Agence française de sécurité sanitaire des produits de santé de ce changement avant qu'il ait lieu.
+Au terme de la dissémination autorisée, le responsable de celle-ci communique au directeur général de l'Agence française de sécurité sanitaire des produits de santé les résultats de cette dissémination en ce qui concerne l'impact sur la santé publique et l'environnement. Il informe celui-ci des suites qu'il compte donner à ses recherches.

@@ -1,8 +1,8 @@
 # Article 2
 
-I. - La demande d'autorisation est adressée par le responsable de la dissémination au directeur général de l'Agence française de sécurité sanitaire des produits de santé, qui procède à son instruction. Simultanément doit être effectué le versement, au profit du budget de l'Etat, de la taxe mentionnée à l'article 22 de la loi du 13 juillet 1992 susvisée.
+I. - Simultanément à la transmission de son dossier au directeur général de l'Agence française de sécurité sanitaire des produits de santé, le responsable de la dissémination doit effectuer le versement de la taxe mentionnée à l'article L. 535-4 du code de l'environnement.
 
-Le promoteur mentionné à l'article L. 209-1 du code de la santé publique est le responsable de la dissémination.
+Le promoteur mentionné à l'article L. 1121-1 du code de la santé publique est le responsable de la dissémination.
 
 II. - Lorsque le demandeur souhaite procéder, au cours d'une période déterminée, à plusieurs disséminations sur un même site d'un organisme génétiquement modifié ou d'une combinaison de plusieurs organismes génétiquement modifiés, ces disséminations peuvent faire l'objet d'une seule demande. Il en va de même s'il s'agit de disséminations, effectuées simultanément sur des sites différents mais dans un même but, d'un même organisme génétiquement modifié,
 

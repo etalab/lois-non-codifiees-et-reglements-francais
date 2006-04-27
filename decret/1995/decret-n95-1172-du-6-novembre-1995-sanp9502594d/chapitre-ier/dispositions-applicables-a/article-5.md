@@ -1,5 +1,3 @@
 # Article 5
 
-Si le directeur général de l'Agence française de sécurité sanitaire des produits de santé estime que des informations complémentaires, des consultations ou des études particulières sont nécessaires pour lui permettre de se prononcer sur la demande, il peut prolonger le délai prévu au deuxième alinéa de l'article 4 du présent décret de la durée correspondante.
-
-Il doit alors notifier au demandeur les motifs de cette prolongation ainsi que sa durée, laquelle n'est pas prise en compte dans le calcul du délai imparti au directeur général pour se prononcer sur la demande ; le cas échéant, il invite le demandeur à lui communiquer des informations complémentaires.
+En cas de changement de responsable de la dissémination, au cours de l'instruction de la demande d'autorisation ou après la délivrance de l'autorisation, le futur promoteur responsable de la dissémination doit informer le directeur général de l'Agence française de sécurité sanitaire des produits de santé de ce changement avant qu'il ait lieu.
