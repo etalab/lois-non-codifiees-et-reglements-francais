@@ -1,9 +1,9 @@
 # Article 10
 
-La durée moyenne du temps passé dans chaque échelon pour accéder à l'échelon immédiatement supérieur est fixée à deux ans pour les 1er et 2e échelons du grade d'inspecteur et à trois ans pour les 3e et 4e échelons de ce grade. Elle est fixée à deux ans pour les trois premiers échelons du grade d'inspecteur général.
+Dans chaque grade du corps, la durée du temps passé dans chaque échelon pour accéder à l'échelon immédiatement supérieur est fixée à deux ans, à l'exception des 3e, 4e et 5e échelons du grade d'inspecteur général de 2e classe pour lesquels cette durée est fixée à trois ans.
 
-Les durées de deux et trois ans peuvent être réduites dans les conditions prévues par les articles 7 à 12 du décret du 14 février 1959 susvisé, sans pouvoir être inférieures respectivement à dix-huit et trente mois.
+Peuvent accéder à l'échelon spécial du grade d'inspecteur général de 1re classe, par voie d'inscription sur un tableau annuel d'avancement, les inspecteurs généraux de 1re classe ayant atteint le 4e échelon depuis trois ans au moins.
 
-Peuvent accéder au choix à l'échelon spécial du grade d'inspecteur général, par voie d'inscription sur un tableau annuel d'avancement, les inspecteurs généraux ayant atteint le 4e échelon depuis trois ans au moins.
+Le nombre d'inspecteurs généraux de 1re classe pouvant être nommés à l'échelon spécial chaque année est déterminé par application au nombre des inspecteurs généraux de 1re classe réunissant les conditions pour être promus d'un taux fixé par arrêté conjoint du ministre chargé du budget, du ministre chargé de l'agriculture et du ministre chargé de la fonction publique.
 
-Peuvent accéder au choix à l'échelon spécial du grade d'inspecteur, par voie d'inscription sur un tableau annuel d'avancement, les inspecteurs ayant atteint le 5e échelon depuis deux ans au moins.
+Les dispositions des titres II et III du décret du 29 avril 2002 précité ne sont pas applicables aux membres du corps de l'inspection générale de l'agriculture.

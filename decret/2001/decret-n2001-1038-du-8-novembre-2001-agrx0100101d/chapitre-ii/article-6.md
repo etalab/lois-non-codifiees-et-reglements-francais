@@ -1,6 +1,6 @@
 # Article 6
 
-Peuvent être nommés inspecteurs :
+Peuvent être nommés inspecteurs généraux de 2e classe :
 
 1° Les administrateurs civils hors classe ;
 
