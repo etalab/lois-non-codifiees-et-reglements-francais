@@ -180,7 +180,6 @@
 - [Décret n°2003-1078 du 10 novembre 2003 (MENS0302141D)](decret-n2003-1078-du-10-novembre-2003-mens0302141d)
 - [Décret n°2003-1079 du 10 novembre 2003 (MENF0301909D)](decret-n2003-1079-du-10-novembre-2003-menf0301909d)
 - [Décret n°2003-492 du 10 juin 2003 (ECOA0320001D)](decret-n2003-492-du-10-juin-2003-ecoa0320001d)
-- [Décret n°2003-497 du 10 juin 2003 (AGRA0300346D)](decret-n2003-497-du-10-juin-2003-agra0300346d)
 - [Décret n°2003-508 du 10 juin 2003 (MENF0300969D)](decret-n2003-508-du-10-juin-2003-menf0300969d)
 - [Décret n°2003-643 du 10 juillet 2003 (AGRX0300073D)](decret-n2003-643-du-10-juillet-2003-agrx0300073d)
 - [Décret n°2003-884 du 10 septembre 2003 (ECOA0320027D)](decret-n2003-884-du-10-septembre-2003-ecoa0320027d)
