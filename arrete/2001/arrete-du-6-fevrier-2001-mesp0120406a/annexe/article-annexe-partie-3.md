@@ -1,5 +1,7 @@
 # Article Annexe (partie 3)
 
+LISTE DES SUBSTANCES QUI NE PEUVENT ENTRER DANS LA COMPOSITION DES PRODUITS COSMETIQUES
+
 <table>
 <tbody>
 <tr>
@@ -2192,22 +2194,6 @@
 </td>
 <td width="560">
 <p>Distillats sous vide (pétrole), résidus de pétrole (n° CAS 68955-27-1). </p>
-</td>
-</tr>
-<tr>
-<td width="121">
-<p align="center">615</p>
-</td>
-<td width="560">
-<p>Distillats supérieurs (goudron de houille), exempts de fluorène (n° CAS 84989-10-6), contenant &gt;0,005 % m/m de benzo[a]pyrène. </p>
-</td>
-</tr>
-<tr>
-<td width="121">
-<p align="center">616</p>
-</td>
-<td width="560">
-<p>Distillats supérieurs (goudron de houille), riches en fluorène (n° CAS 84989-11-7), contenant &gt;0,005 % m/m de benzo[a]pyrène. </p>
 </td>
 </tr>
 <tr>
@@ -5457,6 +5443,12 @@
 <td width="560">
 <p>Zirame (n° CAS 137-30-4). </p>
 </td>
+</tr>
+<tr>
+<td>
+<p align="center">687</p>
+</td>
+<td>Dinitrotoluène, qualité technique (n° CAS : 121-14-2)</td>
 </tr>
 </tbody>
 </table>
