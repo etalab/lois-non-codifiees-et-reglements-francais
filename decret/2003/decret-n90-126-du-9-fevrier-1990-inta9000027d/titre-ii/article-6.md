@@ -8,4 +8,6 @@ a) Pour les ingénieurs :
 
 2° En application des dispositions du 1° de l'article 39 de ladite loi ;
 
+3° En application des dispositions du 2° de l'article 39 de ladite loi ;
+
 b) Pour les ingénieurs en chef en application des dispositions de l'article 36 de la loi du 26 janvier 1984 précitée.

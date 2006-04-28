@@ -4,6 +4,6 @@ A compter du premier jour du mois suivant la publication du décret n° 2005-134
 
 Les agents stagiaires ainsi intégrés poursuivent leur stage dans le présent cadre d'emplois.
 
-Les conducteurs spécialisés de premier et de second niveau et les chefs de garage ainsi intégrés sont classés dans le grade correspondant dans les conditions prévues par les articles 10 à 12 du décret n° 87-1107 du 30 décembre 1987 portant organisation des carrières des fonctionnaires territoriaux de catégorie C.
+Les conducteurs spécialisés de premier et de second niveau et les chefs de garage ainsi intégrés sont classés dans le grade correspondant dans les conditions prévues par les articles 9-1 à 9-3 du décret n° 87-1107 du 30 décembre 1987 portant organisation des carrières des fonctionnaires territoriaux de catégorie C.
 
 Les chefs de garage principaux ainsi intégrés sont classés dans le grade assorti de la même échelle de rémunération que celle dont ils bénéficiaient et au même échelon que celui qu'ils avaient atteint dans leur précédent grade. Ils conservent l'ancienneté d'échelon acquise dans leur précédent grade.

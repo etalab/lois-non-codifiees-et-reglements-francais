@@ -4,6 +4,8 @@ Les membres du cadre d'emplois des contrôleurs territoriaux de travaux sont cha
 
 Ils assurent le contrôle de l'entretien et du fonctionnement des ouvrages ainsi que la surveillance de travaux d'équipements, de réparation et d'entretien des installations mécaniques, électriques, électroniques ou hydrauliques.
 
+Ils peuvent assurer la surveillance du domaine public. A cet effet, ils peuvent être assermentés pour constater les contraventions.
+
 Ils peuvent participer à des missions d'enseignement et de formation professionnelle.
 
 Les titulaires du grade de contrôleur de travaux principal et de contrôleur de travaux en chef peuvent, en outre, assurer le contrôle des chantiers, la gestion des matériels, et participer à l'élaboration des programmes annuels. Les contrôleurs de travaux en chef peuvent également être responsables d'un service à caractère technique ne nécessitant pas la présence d'un technicien supérieur.
