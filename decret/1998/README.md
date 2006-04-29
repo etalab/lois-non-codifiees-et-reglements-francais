@@ -324,7 +324,6 @@
 - [Décret n°98-908 du 12 octobre 1998 (MESF9810972D)](decret-n98-908-du-12-octobre-1998-mesf9810972d)
 - [Décret n°98-909 du 12 octobre 1998 (MESF9810973D)](decret-n98-909-du-12-octobre-1998-mesf9810973d)
 - [Décret n°98-913 du 12 octobre 1998 (EQUU9801267D)](decret-n98-913-du-12-octobre-1998-equu9801267d)
-- [Décret n°98-914 du 12 octobre 1998 (MENF9802288D)](decret-n98-914-du-12-octobre-1998-menf9802288d)
 - [Décret n°98-925 du 12 octobre 1998 (DEFI9853008D)](decret-n98-925-du-12-octobre-1998-defi9853008d)
 - [Décret n°98-926 du 12 octobre 1998 (DEFI9853014D)](decret-n98-926-du-12-octobre-1998-defi9853014d)
 - [Décret n°98-927 du 12 octobre 1998 (DEFI9853003D)](decret-n98-927-du-12-octobre-1998-defi9853003d)
