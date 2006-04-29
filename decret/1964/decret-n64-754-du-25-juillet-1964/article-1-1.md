@@ -6,6 +6,8 @@ Le secrétaire général assiste le ministre, en liaison avec les directeurs, po
 
 Il anime et coordonne la politique de l'informatique et des technologies de l'information et de la communication ;
 
+Il définit les principes de gestion des ressources humaines et s'assure de leur application et il est chargé de la mise en oeuvre de la politique de l'encadrement supérieur ;
+
 2° Il participe à la détermination des objectifs relevant des missions dont il a la charge assignés aux directeurs et aux chefs de services directement rattachés au ministre ;
 
 3° Il est chargé des actions d'évaluation conduites au sein du ministère et fait procéder à l'étude des conséquences sur le fonctionnement des juridictions et des services des projets législatifs et réglementaires émanant du ministère ou des autres administrations. Il peut à cet effet demander le concours de l'inspection générale des services judiciaires ;

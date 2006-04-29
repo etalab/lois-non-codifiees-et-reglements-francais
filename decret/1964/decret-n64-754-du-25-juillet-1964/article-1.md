@@ -12,14 +12,6 @@ L'administration centrale du ministère de la justice comprend, outre le cabinet
 
 - la direction de l'administration pénitentiaire ;
 
-- la direction de la protection judiciaire de la jeunesse ;
-
-- la direction de l'administration générale et de l'équipement ;
-
-- le service de l'accès au droit et à la justice et de la politique de la ville ;
-
-- le service des affaires européennes et internationales ;
-
-- le service central de l'information et de la communication ;
+- la direction de la protection judiciaire de la jeunesse.
 
 Le garde des sceaux, ministre de la justice, est en outre assisté de l'inspecteur général des services judiciaires.
