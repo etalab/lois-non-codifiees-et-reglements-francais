@@ -653,7 +653,6 @@
 - [Arrêté du 23 octobre 2002 (ECOT0295037A)](arrete-du-23-octobre-2002-ecot0295037a)
 - [Arrêté du 23 septembre 2002 (MENF0202026A)](arrete-du-23-septembre-2002-menf0202026a)
 - [Arrêté du 23 mai 2002 (JUSG0260024A)](arrete-du-23-mai-2002-jusg0260024a)
-- [Arrêté du 24 avril 2002 (AGRA0200645A)](arrete-du-24-avril-2002-agra0200645a)
 - [Arrêté du 24 avril 2002 (DEFP0201454A)](arrete-du-24-avril-2002-defp0201454a)
 - [Arrêté du 24 avril 2002 (DEFP0201456A)](arrete-du-24-avril-2002-defp0201456a)
 - [Arrêté du 24 avril 2002 (DEFP0201458A)](arrete-du-24-avril-2002-defp0201458a)
