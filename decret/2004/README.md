@@ -906,7 +906,6 @@
 - [Décret n°2004-1284 du 26 novembre 2004 (ECOT0491212D)](decret-n2004-1284-du-26-novembre-2004-ecot0491212d)
 - [Décret n°2004-1285 du 26 novembre 2004 (ECOF0400038D)](decret-n2004-1285-du-26-novembre-2004-ecof0400038d)
 - [Décret n°2004-1286 du 26 novembre 2004 (INDI0404061D)](decret-n2004-1286-du-26-novembre-2004-indi0404061d)
-- [Décret n°2004-1287 du 26 novembre 2004 (SOCU0411238D)](decret-n2004-1287-du-26-novembre-2004-socu0411238d)
 - [Décret n°2004-1288 du 26 novembre 2004 (DEFP0401123D)](decret-n2004-1288-du-26-novembre-2004-defp0401123d)
 - [Décret n°2004-1290 du 26 novembre 2004 (SANG0423072D)](decret-n2004-1290-du-26-novembre-2004-sang0423072d)
 - [Décret n°2004-1291 du 26 novembre 2004 (SANH0423459D)](decret-n2004-1291-du-26-novembre-2004-sanh0423459d)

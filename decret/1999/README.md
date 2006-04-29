@@ -715,7 +715,6 @@
 - [Décret n°99-426 du 27 mai 1999 (MESP9921434D)](decret-n99-426-du-27-mai-1999-mesp9921434d)
 - [Décret n°2000-380 du 28 avril 2000 (JUSF0050016D)](decret-n2000-380-du-28-avril-2000-jusf0050016d)
 - [Décret n°79-160 du 28 février 1979](decret-n79-160-du-28-fevrier-1979)
-- [Décret n°91-1212 du 28 novembre 1991 (RESY9100345D)](decret-n91-1212-du-28-novembre-1991-resy9100345d)
 - [Décret n°98-1206 du 28 décembre 1998 (ECOT9810356D)](decret-n98-1206-du-28-decembre-1998-ecot9810356d)
 - [Décret n°98-1231 du 28 décembre 1998 (JUSC9820832D)](decret-n98-1231-du-28-decembre-1998-jusc9820832d)
 - [Décret n°99-1127 du 28 décembre 1999 (MESF9911623D)](decret-n99-1127-du-28-decembre-1999-mesf9911623d)

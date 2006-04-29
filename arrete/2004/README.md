@@ -126,7 +126,6 @@
 - [Arrêté du 5 mars 2004 (ECOT0410499A)](arrete-du-5-mars-2004-ecot0410499a)
 - [Arrêté du 5 novembre 2004 (JUSC0420822A)](arrete-du-5-novembre-2004-jusc0420822a)
 - [Arrêté du 5 novembre 2004 (MENS0402496A)](arrete-du-5-novembre-2004-mens0402496a)
-- [Arrêté du 5 novembre 2004 (SOCA0423826A)](arrete-du-5-novembre-2004-soca0423826a)
 - [Arrêté du 5 octobre 1983](arrete-du-5-octobre-1983)
 - [Arrêté du 5 mai 2004 (EQUP0400673A)](arrete-du-5-mai-2004-equp0400673a)
 - [Arrêté du 5 mai 2004 (PRMX0407327A)](arrete-du-5-mai-2004-prmx0407327a)
