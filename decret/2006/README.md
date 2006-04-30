@@ -443,6 +443,7 @@
 - [Décret n°2006-374 du 28 mars 2006 (JUSC0620178D)](decret-n2006-374-du-28-mars-2006-jusc0620178d)
 - [Décret n°2006-489 du 28 avril 2006 (PRMX0609234D)](decret-n2006-489-du-28-avril-2006-prmx0609234d)
 - [Décret n°2006-492 du 28 avril 2006 (JUSG0660034D)](decret-n2006-492-du-28-avril-2006-jusg0660034d)
+- [Décret n°2006-493 du 28 avril 2006 (AGRP0600691D)](decret-n2006-493-du-28-avril-2006-agrp0600691d)
 - [Décret n°63-893 du 28 août 1963](decret-n63-893-du-28-aout-1963)
 - [Décret n°2005-1708 du 29 décembre 2005 (JUSJ0590021D)](decret-n2005-1708-du-29-decembre-2005-jusj0590021d)
 - [Décret n°2005-1760 du 29 décembre 2005 (SANA0524672D)](decret-n2005-1760-du-29-decembre-2005-sana0524672d)
