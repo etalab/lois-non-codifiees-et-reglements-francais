@@ -770,7 +770,6 @@
 - [Arrêté du 24 juillet 1998 (EQUH9800869A)](arrete-du-24-juillet-1998-equh9800869a)
 - [Arrêté du 24 juillet 1998 (MAEF9810018A)](arrete-du-24-juillet-1998-maef9810018a)
 - [Arrêté du 24 juillet 1998 (MEND9802056A)](arrete-du-24-juillet-1998-mend9802056a)
-- [Arrêté du 24 juillet 1998 (MESP9822425A)](arrete-du-24-juillet-1998-mesp9822425a)
 - [Arrêté du 24 juillet 1998 (MESP9822447A)](arrete-du-24-juillet-1998-mesp9822447a)
 - [Arrêté du 24 juillet 1998 (MESP9822466A)](arrete-du-24-juillet-1998-mesp9822466a)
 - [Arrêté du 24 juillet 1998 (MESP9822467A)](arrete-du-24-juillet-1998-mesp9822467a)
