@@ -52,6 +52,7 @@
 - [Décret n°2006-400 du 3 avril 2006 (INTB0600045D)](decret-n2006-400-du-3-avril-2006-intb0600045d)
 - [Décret n°2006-508 du 3 mai 2006 (MENF0600845D)](decret-n2006-508-du-3-mai-2006-menf0600845d)
 - [Décret n°2005-757 du 4 juillet 2005 (BUDB0510007D)](decret-n2005-757-du-4-juillet-2005-budb0510007d)
+- [Décret n°2006-18 du 4 janvier 2006 (ECOC0500168D)](decret-n2006-18-du-4-janvier-2006-ecoc0500168d)
 - [Décret n°2006-19 du 4 janvier 2006 (MENF0502550D)](decret-n2006-19-du-4-janvier-2006-menf0502550d)
 - [Décret n°2006-20 du 4 janvier 2006 (MENF0502551D)](decret-n2006-20-du-4-janvier-2006-menf0502551d)
 - [Décret n°2006-27 du 4 janvier 2006 (INDI0506404D)](decret-n2006-27-du-4-janvier-2006-indi0506404d)

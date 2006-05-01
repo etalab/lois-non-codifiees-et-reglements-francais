@@ -6,6 +6,7 @@
 - [Article 46-3](article-46-3.md)
 - [Article 47](article-47.md)
 - [Article 47-1](article-47-1.md)
+- [Article 47-2](article-47-2.md)
 - [Article 47-3](article-47-3.md)
 - [Article 48](article-48.md)
 - [Article 48-1](article-48-1.md)
