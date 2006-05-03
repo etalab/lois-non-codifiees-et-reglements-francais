@@ -920,7 +920,6 @@
 - [Décret n°98-1270 du 30 décembre 1998 (INTX9803357D)](decret-n98-1270-du-30-decembre-1998-intx9803357d)
 - [Décret n°98-1305 du 30 décembre 1998 (ECOT9801033D)](decret-n98-1305-du-30-decembre-1998-ecot9801033d)
 - [Décret n°98-1306 du 30 décembre 1998 (ECOI9801098D)](decret-n98-1306-du-30-decembre-1998-ecoi9801098d)
-- [Décret n°98-1307 du 30 décembre 1998 (DEFD9802019D)](decret-n98-1307-du-30-decembre-1998-defd9802019d)
 - [Décret n°98-227 du 30 mars 1998 (ECOT9851668D)](decret-n98-227-du-30-mars-1998-ecot9851668d)
 - [Décret n°98-331 du 30 avril 1998 (ECOF9800005D)](decret-n98-331-du-30-avril-1998-ecof9800005d)
 - [Décret n°98-333 du 30 avril 1998 (AGRR9800062D)](decret-n98-333-du-30-avril-1998-agrr9800062d)

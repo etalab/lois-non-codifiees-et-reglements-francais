@@ -505,7 +505,6 @@
 - [Arrêté du 18 novembre 2002 (SANG0223766A)](arrete-du-18-novembre-2002-sang0223766a)
 - [Arrêté du 18 octobre 2001 (INTE0100621A)](arrete-du-18-octobre-2001-inte0100621a)
 - [Arrêté du 18 octobre 2002 (AGRB0202158A)](arrete-du-18-octobre-2002-agrb0202158a)
-- [Arrêté du 18 octobre 2002 (AGRG0202270A)](arrete-du-18-octobre-2002-agrg0202270a)
 - [Arrêté du 18 octobre 2002 (BUDD0270049A)](arrete-du-18-octobre-2002-budd0270049a)
 - [Arrêté du 18 octobre 2002 (SANA0222826A)](arrete-du-18-octobre-2002-sana0222826a)
 - [Arrêté du 18 septembre 2002 (EQUA0201513A)](arrete-du-18-septembre-2002-equa0201513a)

@@ -307,7 +307,6 @@
 - [Arrêté du 9 novembre 1994 (INDB9401376A)](arrete-du-9-novembre-1994-indb9401376a)
 - [Arrêté du 9 novembre 1994 (INTB9400604A)](arrete-du-9-novembre-1994-intb9400604a)
 - [Arrêté du 9 novembre 1994 (MENL9401934A)](arrete-du-9-novembre-1994-menl9401934a)
-- [Arrêté du 9 septembre 1994 (AGRG9401748A)](arrete-du-9-septembre-1994-agrg9401748a)
 - [Arrêté du 9 septembre 1994 (AGRG9401749A)](arrete-du-9-septembre-1994-agrg9401749a)
 - [Arrêté du 9 mai 1994 (AGRM9400907A)](arrete-du-9-mai-1994-agrm9400907a)
 - [Arrêté du 9 mai 1994 (AGRM9400908A)](arrete-du-9-mai-1994-agrm9400908a)
