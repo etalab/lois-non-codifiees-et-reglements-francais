@@ -50,6 +50,8 @@ a) La délégation aux affaires stratégiques ;
 
 b) La délégation à l'information et à la communication de la défense ;
 
-c) La sous-direction des bureaux des cabinets.
+c) La direction générale des systèmes d'information et de communication ;
+
+d) La sous-direction des bureaux des cabinets.
 
 IV. - Le service à compétence nationale DCN directement rattaché au ministre de la défense.
