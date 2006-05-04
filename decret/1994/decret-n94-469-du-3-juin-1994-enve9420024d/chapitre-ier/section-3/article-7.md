@@ -1,3 +1,3 @@
 # Article 7
 
-Les cartes des zones sensibles sont actualisées au moins tous les quatre ans, dans les conditions prévues pour leur élaboration.
+L'identification des masses d'eau sensibles est réexaminée au moins tous les quatre ans par le préfet coordonnateur de bassin. S'il y a lieu de modifier cette identification, la révision se fait dans les conditions prévues à l'article 6.

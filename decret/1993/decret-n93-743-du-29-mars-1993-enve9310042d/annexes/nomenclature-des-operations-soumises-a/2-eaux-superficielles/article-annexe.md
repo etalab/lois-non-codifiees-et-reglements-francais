@@ -1,4 +1,4 @@
-# Article ANNEXE
+# Article Annexe
 
 Au sens du présent titre, la largeur du lit mineur d'un cours d'eau correspond à la représentation cartographique (échelle 1/25 000) de l'Institut géographique national, soit un double trait pour une largeur supérieure ou égale à 7,5 m et un simple trait continu ou discontinu pour une largeur inférieure à 7,5 m. Les cours d'eau non cartographiés à cette échelle sont réputés avoir une largeur inférieure à 7,5 m.
 
@@ -12,7 +12,7 @@ Au sens du présent titre, le débit de référence du cours d'eau s'entend comm
 
 2.1.1. A l'exception des prélèvements faisant l'objet d'une convention avec l'attributaire du débit affecté prévu par l'article 15 de la loi sur l'eau, prélèvements et installations et ouvrages permettant le prélèvement, dans un cours d'eau, sa nappe d'accompagnement ou un plan d'eau ou canal alimenté par ce cours d'eau ou cette nappe, lorsque le débit du cours d'eau en période d'étiage résulte, pour plus de moitié, d'une réalimentation artificielle. Toutefois, en ce qui concerne la Seine et la Loire, il n'y a lieu à autorisation que lorsque la capacité du prélèvement est supérieure à 80 m3/h A
 
-2.2.0. Rejet dans les eaux superficielles susceptible de modifier le régime des eaux, la capacité totale de rejet étant :
+2.2.0. Rejet dans les eaux superficielles susceptible de modifier le régime des eaux, à l'exclusion des rejets des ouvrages visés aux rubriques 5.1.0 et 5.2.0 la capacité totale de rejet étant :
 
 1° Supérieure ou égale à 10 000 m3/j ou à 25 p. 100 du débit A
 
