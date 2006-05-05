@@ -1,3 +1,0 @@
-# Article 1
-
-Lorsque l'impossibilité de pourvoir à l'exécution des travaux de curage, d'élargissement, de régularisation et de redressement d'un cours d'eau non navigable ni flottable, en vertu de la loi des 21 juin 1865, 22 décembre 1888, modifiée par le décret du 21 décembre 1926, a été constatée conformément à l'article 74 du décret du 18 décembre 1927, et s'il n'a pas été fait usage de la faculté prévue par le paragraphe 5 de l'article 26 de la loi précitée, le préfet, sur le rapport des ingénieurs du service hydraulique, décide, s'il y a lieu, d'ouvrir une enquête pour l'application des articles 115 et 116 du code rural.

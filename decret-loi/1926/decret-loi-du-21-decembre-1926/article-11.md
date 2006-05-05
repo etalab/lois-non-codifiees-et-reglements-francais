@@ -1,5 +1,0 @@
-# Article 11
-
-Une association syndicale autorisée en vertu des lois des 21 juin 1865 - 22 décembre 1888, du 4 avril 1882, modifiée par la loi du 11 août 1913, du 13 décembre 1902 et du 26 mars 1924, peut subroger à ses droits et obligations, autres que celle d'exécuter les travaux, la commune sur le territoire de laquelle s'étend son périmètre, après approbation par le préfet de délibérations concordantes de l'assemblée générale et du conseil municipal. Ces délibérations doivent déterminer les taxes qui continueront à être imposées aux membres de l'association et fixer la durée de la gestion municipale, qui devra être limitée, mais pourra être prolongée par tacite reconduction si l'accord intervenu n'est pas dénoncé six mois à l'avance.
-
-Lorsque le périmètre de l'association s'étend sur plusieurs communes ou sur un secteur de commune, elle peut subroger ses droits et obligations dans les conditions précédentes, dans le premier cas à un syndicat de ces communes constitué à cet effet ou à un district urbain, dans le second cas à un secteur de commune.
