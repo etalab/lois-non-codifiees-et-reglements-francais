@@ -1,3 +1,3 @@
 # Article 3
 
-Les projets de règlements locaux prévus par le règlement annexé au présent arrêté doivent être instruits localement et transmis au ministre chargé des ports maritimes au plus tard le 31 décembre 2003, afin de les présenter pour avis à la sous-commission "ports maritimes".
+A titre transitoire et par dérogation aux dispositions de l'article 11-2-3-1 du règlement annexé, tous les projets de règlements locaux reçus par le ministre chargé des ports maritimes avant le 30 mai 2006 et n'ayant pas encore été examinés par la commission interministérielle du transport des matières dangereuses demeurent soumis à l'avis de cette commission.
