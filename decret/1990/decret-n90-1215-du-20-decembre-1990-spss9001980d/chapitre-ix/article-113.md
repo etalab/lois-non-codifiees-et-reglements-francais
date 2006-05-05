@@ -1,13 +1,7 @@
 # Article 113
 
-Au décès d'un clerc ou d'un employé titulaire d'une pension de vieillesse de la C.R.P.C.E.N., la conjointe survivante a droit à une pension de réversion égale à la moitié de celle dont jouissait son mari [*montant*].
+Le conjoint survivant d'un clerc ou employé de notaire a droit à une pension de réversion égale à 50 % de la pension obtenue par le clerc ou employé de notaire ou qu'il aurait pu obtenir au jour de son décès.
 
-Cette pension de réversion est accordée à l'intéressée lorsqu'elle justifie de l'une des conditions [*d'attribution*] suivantes :
+Les dispositions des articles L. 39, L. 40, L. 43 à L. 46 du code des pensions civiles et militaires de retraite sont applicables.
 
-1° Un ou plusieurs enfants sont issus du mariage ;
-
-2° Le mariage a été contracté deux ans au moins avant la cessation d'activité du mari ;
-
-3° Le mariage, antérieur ou postérieur à la cessation de l'activité, a duré au moins quatre années à la date du décès.
-
-L'entrée en jouissance de la pension obtenue en application du 3° de l'alinéa précédent est fixée à l'âge de soixante ans.
+La pension de réversion et la pension d'orphelin prennent effet au premier jour du mois suivant le décès sous réserve que la demande soit formulée à la CRPCEN au plus tard dans les douze mois à compter de cette date. A défaut, la pension ne prend effet que le premier jour du mois suivant la demande.

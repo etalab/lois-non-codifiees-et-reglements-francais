@@ -1,13 +1,25 @@
 # Article 24
 
-I. - Les opérations de recettes et de dépenses ainsi que les opérations de trésorerie de la C.R.P.C.E.N. sont effectuées conformément aux dispositions de la section 2 du chapitre III du titre V du livre II du code de la sécurité sociale (troisième partie), à l'exception de celles du premier alinéa de l'article D. 253-16, du premier alinéa de l'article D. 253-19, du 5° de l'article D. 253-25, des articles D. 253-34 à D. 253-41 et de l'article D. 253-49.
+I. - La CRPCEN peut conclure avec le ministre chargé de la sécurité sociale, le ministre chargé du budget et le garde des sceaux, ministre de la justice, pour une durée minimale de quatre ans, une convention d'objectifs et de gestion comportant des engagements réciproques des signataires.
 
-Le directeur de la C.R.P.C.E.N. est chargé du recouvrement des cotisations et majorations de retard, en application des dispositions du chapitre III du présent décret.
+Cette convention détermine les objectifs pluriannuels de gestion, les moyens de fonctionnement dont la caisse dispose pour les atteindre et les actions mises en oeuvre à ces fins pour chacun des signataires.
 
-Les dépenses relatives à l'assurance invalidité ou à l'assurance vieillesse prévues aux chapitres VI et VIII du présent décret appartiennent à l'exercice au cours duquel elles ont été liquidées et ordonnancées.
+II. - Elle précise :
 
-L'agent comptable doit refuser de déférer à l'ordre de réquisition lorsque la suspension de paiement est motivée par la suspension ou l'annulation de la décision du conseil d'administration par application de l'article 16 du présent décret.
+1° Les objectifs liés à la mise en oeuvre des dispositions législatives et réglementaires qui régissent la gestion du risque, le service des prestations et le recouvrement des cotisations et impôts affectés.
 
-II. - Les opérations comptables de la C.R.P.C.E.N. sont effectuées dans les conditions prévues aux sections 3 et 4 du chapitre III du titre V du livre II du code de la sécurité sociale (troisième partie).
+2° Les objectifs liés à l'amélioration de la qualité du service rendu aux usagers.
 
-III. - Les articles D. 254-4 à D. 254-6 de ce code sont également applicables à la C.R.P.C.E.N.
+3° Les règles de l'action sociale et de la prévention.
+
+4° Les règles de calcul et d'évolution des budgets de gestion administrative et d'action sanitaire et sociale.
+
+Cette convention prévoit les indicateurs quantitatifs et qualitatifs associés à la définition des objectifs.
+
+III. - Elle détermine également :
+
+1° Les conditions de conclusion des avenants en cours d'exécution, notamment en fonction des lois de financement de la sécurité sociale et des modifications importantes de la charge de travail de la caisse liées à l'évolution du cadre législatif et réglementaire de son action.
+
+2° Le processus d'évaluation contradictoire des résultats obtenus au regard des objectifs fixés.
+
+Elle est signée, pour le compte de la CRPCEN, conjointement par le président du conseil d'administration et par le directeur.

@@ -8,4 +8,4 @@ S'il s'agit d'un membre titulaire représentant les notaires, il est remplacé p
 
 S'il s'agit d'un membre titulaire représentant les assurés, il est remplacé par le premier suppléant dans l'ordre de la liste sur laquelle il a été élu. Le suppléant qui devient titulaire est remplacé par le premier candidat non élu de cette liste. Si la liste est épuisée, il n'est pas pourvu au remplacement et le siège devient vacant.
 
-Le mandat des administrateurs est de trois ans renouvelable [*durée*].
+Le mandat des administrateurs est de cinq ans renouvelable. Le mandat des membres en fonction au conseil d'administration prend fin à la date d'installation du nouveau conseil d'administration.
