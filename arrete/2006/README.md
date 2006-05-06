@@ -208,6 +208,7 @@
 - [Arrêté du 24 novembre 2005 (AGRG0502608A)](arrete-du-24-novembre-2005-agrg0502608a)
 - [Arrêté du 24 octobre 2005 (AGRG0502385A)](arrete-du-24-octobre-2005-agrg0502385a)
 - [Arrêté du 24 octobre 2005 (CETX0508825A)](arrete-du-24-octobre-2005-cetx0508825a)
+- [Arrêté du 25 avril 2006 (ECOU0600020A)](arrete-du-25-avril-2006-ecou0600020a)
 - [Arrêté du 25 avril 2006 (INDI0607334A)](arrete-du-25-avril-2006-indi0607334a)
 - [Arrêté du 25 avril 2006 (SANP0620647A)](arrete-du-25-avril-2006-sanp0620647a)
 - [Arrêté du 25 avril 2006 (SANP0620648A)](arrete-du-25-avril-2006-sanp0620648a)
