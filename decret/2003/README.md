@@ -316,7 +316,6 @@
 - [Décret n°2003-1208 du 18 décembre 2003 (SANS0324950D)](decret-n2003-1208-du-18-decembre-2003-sans0324950d)
 - [Décret n°2003-1209 du 18 décembre 2003 (SANS0324951D)](decret-n2003-1209-du-18-decembre-2003-sans0324951d)
 - [Décret n°2003-1215 du 18 décembre 2003 (SOCS0324316D)](decret-n2003-1215-du-18-decembre-2003-socs0324316d)
-- [Décret n°2003-1225 du 18 décembre 2003 (INTC0300301D)](decret-n2003-1225-du-18-decembre-2003-intc0300301d)
 - [Décret n°2003-1226 du 18 décembre 2003 (JUSA0300437D)](decret-n2003-1226-du-18-decembre-2003-jusa0300437d)
 - [Décret n°2003-391 du 18 avril 2003 (MENF0300539D)](decret-n2003-391-du-18-avril-2003-menf0300539d)
 - [Décret n°2003-392 du 18 avril 2003 (INDI0320337D)](decret-n2003-392-du-18-avril-2003-indi0320337d)
