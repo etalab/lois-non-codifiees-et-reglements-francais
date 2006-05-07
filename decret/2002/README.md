@@ -9,6 +9,7 @@
 - [Décret n°2002-776 du 2 mai 2002 (MESK0110149D)](decret-n2002-776-du-2-mai-2002-mesk0110149d)
 - [Décret n°2002-1227 du 3 octobre 2002 (SANP0222754D)](decret-n2002-1227-du-3-octobre-2002-sanp0222754d)
 - [Décret n°2002-715 du 3 mai 2002 (ECOP0100646D)](decret-n2002-715-du-3-mai-2002-ecop0100646d)
+- [Décret n°2002-732 du 3 mai 2002 (INTC0200109D)](decret-n2002-732-du-3-mai-2002-intc0200109d)
 - [Décret n°2002-764 du 3 mai 2002 (PRMG0270271D)](decret-n2002-764-du-3-mai-2002-prmg0270271d)
 - [Décret n°2002-765 du 3 mai 2002 (PRMX0200040D)](decret-n2002-765-du-3-mai-2002-prmx0200040d)
 - [Décret n°2002-778 du 3 mai 2002 (MESP0221261D)](decret-n2002-778-du-3-mai-2002-mesp0221261d)
