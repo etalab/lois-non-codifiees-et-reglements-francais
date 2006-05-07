@@ -260,6 +260,7 @@
 - [Arrêté du 28 février 2006 (EQUA0600569A)](arrete-du-28-fevrier-2006-equa0600569a)
 - [Arrêté du 28 février 2006 (SOCF0610512A)](arrete-du-28-fevrier-2006-socf0610512a)
 - [Arrêté du 28 mars 2006 (AGRS0600592A)](arrete-du-28-mars-2006-agrs0600592a)
+- [Arrêté du 28 mars 2006 (BUDL0600030A)](arrete-du-28-mars-2006-budl0600030a)
 - [Arrêté du 28 mars 2006 (EQUT0600302A)](arrete-du-28-mars-2006-equt0600302a)
 - [Arrêté du 28 mars 2006 (SANP0621544A)](arrete-du-28-mars-2006-sanp0621544a)
 - [Arrêté du 29 décembre 2005 (BUDB0510047A)](arrete-du-29-decembre-2005-budb0510047a)
