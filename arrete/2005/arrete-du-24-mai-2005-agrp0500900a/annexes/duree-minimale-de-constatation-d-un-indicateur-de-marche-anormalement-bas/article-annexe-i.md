@@ -2,14 +2,14 @@
 
 A. : Fruits :
 
-Abricot : 3 ; bigarreau : 3 ; clémentine : 5 ; fraise : 3 ; kiwi :
+Abricot : 2 ; bigarreau : 2 ; clémentine : 5 ; fraise : 2 ; kiwi :
 
-8 ; nectarine : 3 ; noix : 8 ; pêche : 3 ; poire d'été : 3 ; poire d'hiver : 8 ; pomme : 8 ; prune : 3 ; raisin : 3.
+5 ; nectarine : 2 ; noix : 5 ; pêche : 2 ; poire d'été : 2 ; poire d'hiver : 5 ; pomme : 5 ; prune : 2 ; raisin : 2.
 
 Légumes :
 
-Ail : 8 ; artichaut : 5 ; asperge : 3 ; carotte : 8 ; chicorée :
+Ail : 5 ; artichaut : 5 ; asperge : 2 ; carotte : 5 ; chicorée :
 
-3 ; chou-fleur : 5 ; concombre : 8 ; courgette : 8 ; échalote : 8 ; endive : 3 ; laitue : 3 ; mâche : 3 ; melon : 3 ; oignon : 8 ; poireau : 5 ; tomate : 5.
+2 ; chou-fleur : 5 ; concombre : 5 ; courgette : 5 ; échalote : 5 ; endive : 2 ; laitue : 2 ; mâche : 2 ; melon : 2 ; oignon : 5 ; poireau : 5 ; tomate : 5.
 
-B. : Autres fruits et légumes : 4 jours.
+B. : Autres fruits et légumes : 5 jours.

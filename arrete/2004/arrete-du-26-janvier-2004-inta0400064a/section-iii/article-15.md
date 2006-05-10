@@ -1,11 +1,11 @@
 # Article 15
 
-La sous-direction des affaires financières est chargée :
+La sous-direction des affaires financières est chargée de préparer et de suivre l'exécution du budget du ministère conformément aux dispositions de la loi organique n° 2001-672 du 1er août 2001 relative aux lois de finances. Elle conçoit et produit les restitutions ministérielles dans les domaines budgétaire, comptable et du pilotage de la performance.
 
-- d'assurer les fonctions d'ordonnateur principal délégué du ministre et, pour l'ensemble du ministère, de suivre les questions économiques et comptables et de traiter les questions financières et budgétaires ;
+Elle suit, pour l'ensemble du ministère, les questions économiques et comptables, budgétaires et financières.
 
-- de préparer le budget et d'en suivre l'exécution, d'assurer la mise en oeuvre de la loi organique n° 2001-692 du 1er août 2001 relative aux lois de finances ;
+Sauf expérimentations contractualisées avec la direction générale de la comptabilité publique, elle exerce les fonctions d'ordonnateur principal délégué du ministre.
 
-- de veiller à la cohérence de l'organisation financière et comptable des services ;
+Elle veille à la cohérence de l'organisation financière et comptable des services. A ce titre, elle fait notamment toute proposition utile pour moderniser l'organisation de la fonction d'ordonnateur principal délégué.
 
-- de définir et coordonner la politique de la commande publique du ministère et d'assurer la sécurité juridique des contrats passés par le ministère.
+Elle exerce un contrôle sur la régularité juridique des engagements ainsi que sur la qualité comptable des actes de gestion établis par le ministère.

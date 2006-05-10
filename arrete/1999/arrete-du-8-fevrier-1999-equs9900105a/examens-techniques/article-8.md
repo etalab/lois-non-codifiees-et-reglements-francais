@@ -4,7 +4,7 @@
 
 8.1.1. Une épreuve théorique générale d'admissibilité portant sur leur connaissance des règlements concernant la circulation et la conduite du véhicule ainsi que sur le comportement du conducteur.
 
-L'âge minimal requis pour se présenter à cette épreuve est fixé    à :
+L'âge minimal requis pour se présenter à cette épreuve est fixé à :
 
 - seize ans pour les candidats au permis de conduire des sous-catégories A 1 et B 1 ;
 
@@ -12,7 +12,7 @@ L'âge minimal requis pour se présenter à cette épreuve est fixé    à :
 
 - dix-sept ans et demi pour les autres candidats au permis de conduire de la catégorie B ou les candidats au permis de conduire de la catégorie A.
 
-Les candidats ayant obtenu un résultat favorable à l'épreuve théorique conservent le bénéfice de leur admissibilité pour cinq épreuves pratiques, à condition qu'un délai maximum de deux ans ne se soit pas écoulé depuis l'obtention de cette admissibilité.
+Les candidats ayant obtenu un résultat favorable à l'épreuve théorique générale conservent le bénéfice de leur admissibilité pour cinq épreuves pratiques, à condition qu'un délai maximum de trois ans ne se soit pas écoulé depuis l'obtention de cette admissibilité.
 
 Les candidats suivant une formation selon la formule de l'apprentissage anticipé de la conduite et ayant obtenu un résultat favorable à l'épreuve théorique qui constitue une des conditions de délivrance de l'attestation de fin de formation initiale, conservent    le bénéfice de leur admissibilité pour cinq épreuves pratiques, à condition qu'un délai maximum de trois ans ne se soit pas écoulé depuis l'obtention de cette admissibilité.
 
@@ -28,7 +28,9 @@ Lors de l'épreuve pratique, l'examinateur procède à un test de la vue du cand
 
 8.3. Pour la sous-catégorie B 1, l'épreuve pratique a lieu dans un quadricycle lourd à moteur capable d'atteindre la vitesse de 60 km/h. La durée de l'épreuve et les conditions d'évaluation sont identiques à celles de l'épreuve pratique de la catégorie B. Toutefois, il est fait recours à la procédure du véhicule suiveur, avec liaison radio permanente entre le candidat et l'examinateur.
 
-8.4. Pour la catégorie de permis A et la sous-catégorie A 1, l'épreuve pratique définie au paragraphe 8.1.2 comporte deux phases : une épreuve hors circulation et une épreuve en circulation. De plus, lors de l'épreuve hors circulation, a lieu une interrogation orale dont le but consiste à apprécier les connaissances indispensables à la sécurité et au bon comportement du motocycliste, qui ne peuvent être évaluées pratiquement.
+8.4. Pour la catégorie de permis A et la sous-catégorie A 1, l'épreuve pratique définie au paragraphe 8.1.2 comporte deux phases :
+
+une épreuve hors circulation et une épreuve en circulation. De plus, lors de l'épreuve hors circulation, a lieu une interrogation orale dont le but consiste à apprécier les connaissances indispensables à la sécurité et au bon comportement du motocycliste, qui ne peuvent être évaluées pratiquement.
 
 En tout état de cause, seuls peuvent subir l'épreuve pratique en circulation les candidats ayant obtenu un résultat favorable à l'épreuve hors circulation.
 

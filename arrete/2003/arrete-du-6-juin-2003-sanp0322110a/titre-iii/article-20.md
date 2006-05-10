@@ -1,5 +1,5 @@
 # Article 20
 
-Le procès-verbal relatif à l'examen est établi par la direction régionale des affaires sanitaires et sociales.
+Une attestation de validation de l'ensemble des modules est délivrée aux sages-femmes ayant validé l'ensemble des modules de formation mais ne remplissant pas les conditions d'exercice de la profession de sage-femme en France.
 
-Une copie de ce document, accompagnée de la liste des candidats déclarés reçus, est adressée au ministre chargé de la santé.
+Cette attestation peut être échangée contre le diplôme de cadre sage-femme dès que son titulaire remplit les conditions pour exercer cette profession en France.
