@@ -1,0 +1,3 @@
+# Article 8
+
+Le ministre d'Etat, ministre de l'intérieur et de l'aménagement du territoire, le ministre des affaires étrangères, le ministre de l'économie, des finances et de l'industrie, le ministre de l'éducation nationale, de l'enseignement supérieur et de la recherche, le ministre de l'agriculture et de la pêche, le ministre de la culture et de la communication, le ministre de l'outre-mer, la ministre déléguée à la coopération, au développement et à la francophonie, le ministre délégué aux collectivités territoriales, la ministre déléguée au commerce extérieur et le ministre délégué à l'aménagement du territoire sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.

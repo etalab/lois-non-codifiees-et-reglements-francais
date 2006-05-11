@@ -10,7 +10,9 @@ Elle établit les programmes logistiques et financiers d'approvisionnement des e
 
 Elle harmonise ses actions avec celles des commissariats de l'armée de terre et de l'armée de l'air.
 
-Elle affrète, pour les besoins spécifiques de la marine, les moyens maritimes et aériens et liquide les dépenses de transport et les frais portuaires. Elle applique la réglementation sur les réquisitions.
+Elle pilote les fonctions de stockage et de distribution des matériels confiés au service du commissariat de la marine.
+
+Elle liquide les dépenses de transport et les frais portuaires.
 
 Dans tous ces domaines, elle élabore la réglementation, définit et suit les études techniques ; elle prépare les mesures budgétaires de son ressort, en suit l'exécution et en tient la comptabilité.
 
