@@ -1,6 +1,8 @@
 # Article 12
 
-Le service du commissariat de la marine est responsable des approvisionnements de la flotte en matériels qui ne sont pas du ressort d'un autre service de la marine ou de la direction des constructions navales de la délégation générale pour l'armement.
+Le service du commissariat de la marine approvisionne les matériels d'emploi commun et les matériels techniques qui ne sont pas du ressort d'un autre service de la marine ou d'un organisme interarmées. La liste de ces matériels est fixée par arrêté du ministre de la défense.
+
+Le service du commissariat de la marine assure la réception, l'entreposage, la livraison et tient la comptabilité "matières" de l'ensemble du matériel mobile placé en position d'approvisionnement dans la marine.
 
 Il est chargé de l'approvisionnement en combustibles de soute et en produits associés de la marine.
 
