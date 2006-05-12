@@ -66,11 +66,11 @@ II. - Pour ce qui concerne le code des douanes :
 
 4° Autorisation de changement de nom des navires francisés, prévue par l'article 229 du code des douanes ;
 
-5° Réduction du taux de la taxe intérieure sur les produits pétroliers perçue sur les carburants utilisés par les chauffeurs de taxi, prévue par le premier alinéa de l'article 265 sexies du code des douanes ;
+5° Remboursement de la taxe intérieure de consommation, prévu par les articles 265 sexies, 265 septies et 265 octies du code des douanes ;
 
-6° Remboursement de la taxe intérieure de consommation sur les carburants utilisés par les commerçants sédentaires dont le principal établissement est situé dans une commune de moins de 3 000 habitants et qui effectuent des ventes ambulantes, prévu par le deuxième alinéa de l'article 265 sexies du code des douanes ;
+6° Remboursement de la taxe générale sur les activités polluantes, prévu par les 1 et 3 de l'article 266 decies du code des douanes ;
 
-7° Remboursement de la taxe intérieure de consommation sur le gaz naturel véhicules et de la taxe intérieure sur les produits pétroliers pour le gaz de pétrole liquéfié carburant aux exploitants de réseaux de transport public en commun de voyageurs, prévu par le troisième alinéa de l'article 265 sexies du code des douanes ;
+7° Supprimé
 
 8° Remboursement de droits et taxes perçus ou recouvrés comme en matière de douane, prévu par les articles 352, 352 bis et 352 ter du code des douanes ;
 
