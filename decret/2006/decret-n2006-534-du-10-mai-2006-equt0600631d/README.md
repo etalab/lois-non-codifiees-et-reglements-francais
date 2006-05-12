@@ -1,17 +1,10 @@
-# Décret n°96-465 du 29 mai 1996 relatif à l'organisation de la formation au collège
+# Décret n°2006-534 du 10 mai 2006 relatif à la protection des jeunes âgés de moins de dix-huit ans embarqués sur les navires
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)
-- [Article 4-1](article-4-1.md)
 - [Article 5](article-5.md)
-- [Article 5-1](article-5-1.md)
-- [Article 5-2](article-5-2.md)
-- [Article 5-3](article-5-3.md)
-- [Article 5-4](article-5-4.md)
-- [Article 5-5](article-5-5.md)
-- [Article 5-6](article-5-6.md)
 - [Article 6](article-6.md)
 - [Article 7](article-7.md)
 - [Article 8](article-8.md)
@@ -19,3 +12,7 @@
 - [Article 10](article-10.md)
 - [Article 11](article-11.md)
 - [Article 12](article-12.md)
+- [Article 13](article-13.md)
+- [Article 14](article-14.md)
+- [Article 15](article-15.md)
+- [Article 16](article-16.md)
