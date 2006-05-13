@@ -7,3 +7,4 @@
 - [TITRE V : DISPOSITIONS DIVERSES.](titre-v)
 - [TITRE VI : TEXTES ABROGÉS ET DISPOSITIONS TRANSITOIRES.](titre-vi)
 - [Article 31](article-31.md)
+- [Annexes](annexes)
