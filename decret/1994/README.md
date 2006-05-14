@@ -208,7 +208,6 @@
 - [Décret n°94-988 du 8 novembre 1994 (MAEJ9430067D)](decret-n94-988-du-8-novembre-1994-maej9430067d)
 - [Décret n°94-990 du 8 novembre 1994 (MAEJ9430069D)](decret-n94-990-du-8-novembre-1994-maej9430069d)
 - [Décret n°94-991 du 8 novembre 1994 (MAEJ9430070D)](decret-n94-991-du-8-novembre-1994-maej9430070d)
-- [Décret n°76-1133 du 9 décembre 1976](decret-n76-1133-du-9-decembre-1976)
 - [Décret n°90-219 du 9 mars 1990 (MENT8902718D)](decret-n90-219-du-9-mars-1990-ment8902718d)
 - [Décret n°92-25 du 9 janvier 1992 (MENT9102729D)](decret-n92-25-du-9-janvier-1992-ment9102729d)
 - [Décret n°93-999 du 9 août 1993 (ECOC9300089D)](decret-n93-999-du-9-aout-1993-ecoc9300089d)
