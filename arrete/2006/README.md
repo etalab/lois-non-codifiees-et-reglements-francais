@@ -67,6 +67,7 @@
 - [Arrêté du 9 mars 2006 (SOCF0610650A)](arrete-du-9-mars-2006-socf0610650a)
 - [Arrêté du 9 novembre 2005 (AGRG0502499A)](arrete-du-9-novembre-2005-agrg0502499a)
 - [Arrêté du 9 septembre 1997 (ATEP9760348A)](arrete-du-9-septembre-1997-atep9760348a)
+- [Arrêté du 9 mai 2006 (AGRG0600915A)](arrete-du-9-mai-2006-agrg0600915a)
 - [Arrêté du 10 février 2006 (MAEA0620039A)](arrete-du-10-fevrier-2006-maea0620039a)
 - [Arrêté du 10 janvier 2006 (INDI0606591A)](arrete-du-10-janvier-2006-indi0606591a)
 - [Arrêté du 10 janvier 2006 (MAEA0620003A)](arrete-du-10-janvier-2006-maea0620003a)

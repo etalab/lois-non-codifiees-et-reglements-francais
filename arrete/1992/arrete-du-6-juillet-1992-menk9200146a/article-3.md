@@ -1,6 +1,6 @@
 # Article 3
 
-La demande d'aide est présentée à la commission par le réalisateur de l'oeuvre cinématographique qui doit être ressortissant d'un pays en développement. Celle-ci doit comporter :
+La demande d'aide est présentée à la commission par le réalisateur de l'oeuvre cinématographique qui doit être ressortissant d'un pays en développement éligible. Celle-ci doit comporter :
 
 1. Une lettre de demande mentionnant :
 
@@ -20,9 +20,9 @@ La demande d'aide est présentée à la commission par le réalisateur de l'oeuv
 
 3. La liste des emplois pour lesquels est prévu le recours aux services de participants français.
 
-4. Un devis en francs français faisant apparaître les principaux postes de dépenses.
+4. Un devis en euros faisant apparaître les principaux postes de dépenses en France et dans les pays en développement éligibles.
 
-5. Le plan de financement envisagé, en francs français.
+5. Le plan de financement envisagé, en euros.
 
 6. Un scénario de l'oeuvre cinématographique, en français.
 
