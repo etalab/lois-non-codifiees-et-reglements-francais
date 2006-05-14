@@ -10,4 +10,4 @@ Les procureurs généraux, les procureurs de la République près les tribunaux 
 
 Mention particulière en est faite sur le procès-verbal.
 
-Aucun candidat ne peut être admis dans la salle après lecture du sujet, quel que soit le motif de son retard.
+Aucun candidat ne peut être admis dans la salle après la lecture du sujet ou la distribution des documents servant de base aux épreuves, quel que soit le motif de son retard.
