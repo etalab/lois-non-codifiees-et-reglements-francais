@@ -99,6 +99,7 @@
 - [Arrêté du 12 juillet 2005 (EQUA0501201A)](arrete-du-12-juillet-2005-equa0501201a)
 - [Arrêté du 12 octobre 2005 (BUDF0500039A)](arrete-du-12-octobre-2005-budf0500039a)
 - [Arrêté du 12 mai 2006 (AGRG0600922A)](arrete-du-12-mai-2006-agrg0600922a)
+- [Arrêté du 12 mai 2006 (MJSK0670094A)](arrete-du-12-mai-2006-mjsk0670094a)
 - [Arrêté du 13 avril 2006 (SOCO0610714A)](arrete-du-13-avril-2006-soco0610714a)
 - [Arrêté du 13 décembre 2005 (EQUG0501372A)](arrete-du-13-decembre-2005-equg0501372a)
 - [Arrêté du 13 février 2006 (BUDD0670006A)](arrete-du-13-fevrier-2006-budd0670006a)
