@@ -4,10 +4,10 @@ La classe supérieure est accessible à compter du 1er janvier 2002, dans les co
 
 La proportion des ergothérapeutes de classe supérieure par rapport à l'effectif total du corps des ergothérapeutes est fixée ainsi qu'il suit :
 
-20 % à compter du 1er janvier 2002 ;
+34 % à compter du 1er juillet 2007 ;
 
-25 % à compter du 1er janvier 2003 ;
+37 % à compter du 1er janvier 2008 ;
 
-30 % à compter du 1er janvier 2004.
+40 % à compter du 1er janvier 2009.
 
 Toutefois, lorsque ce dernier pourcentage n'est pas applicable, une nomination au moins peut être prononcée.
