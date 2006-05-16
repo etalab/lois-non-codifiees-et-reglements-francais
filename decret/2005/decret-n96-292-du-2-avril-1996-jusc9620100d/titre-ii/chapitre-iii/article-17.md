@@ -1,0 +1,3 @@
+# Article 17
+
+Lorsqu'une action en justice doit être intentée devant la juridiction du premier degré avant l'expiration d'un délai, l'action est réputée avoir été intentée dans le délai si la demande d'aide juridictionnelle est adressée au bureau d'aide juridictionnelle avant son expiration et si la demande en justice est introduite dans un nouveau délai de même durée à compter de la notification de la décision d'admission provisoire, ou de la date à laquelle la décision d'admission ou de rejet est devenue définitive ou, lorsqu'un auxiliaire de justice ou une personne agréée a été désigné, à compter de la date de sa désignation.

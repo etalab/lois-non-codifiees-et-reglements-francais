@@ -6,6 +6,6 @@ Copie des décisions du bureau ou du président prononçant l'admission à l'aid
 
 2° A la caisse des règlements pécuniaires des avocats lorsqu'un avocat est désigné ou choisi ;
 
-3° Au trésorier-payeur général ;
+3°(Abrogé) ;
 
 4° Au greffier ou au secrétaire de la juridiction compétente.
