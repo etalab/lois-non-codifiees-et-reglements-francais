@@ -2,17 +2,23 @@
 
 A. - Fonctions pouvant donner lieu au versement d'une nouvelle bonification indiciaire à l'administration centrale des ministères chargés de l'éducation nationale et de la recherche :
 
-1° Directeur d'administration centrale, délégué aux relations internationales et à la coopération, délégué à la communication pour l'éducation nationale ;
+1° Directeur général et directeur d'administration centrale ;
 
-2° Chef du service de l'inspection générale de l'administration de l'éducation nationale et de la recherche et doyen de l'inspection générale de l'éducation nationale ;
+2° Secrétaire général ;
 
-3° Chef de service et adjoint à un directeur ou à un délégué et directeur de l'Ecole supérieure de l'éducation nationale ;
+3° Chef du service de l'inspection générale de l'administration de l'éducation nationale et de la recherche et doyen de l'inspection générale de l'éducation nationale ;
 
-4° Sous-directeur ;
+4° Médiateur de l'éducation nationale ;
 
-5° Responsable de la mission scientifique, technique et pédagogique ;
+5° Délégué à la communication ;
 
-6° Directeur de projet.
+6° Chef de service et adjoint à un directeur général ou à un directeur ou à un délégué et directeur de l'Ecole supérieure de l'éducation nationale ;
+
+7° Sous-directeur ;
+
+8° Responsable de la mission scientifique, technique et pédagogique ;
+
+9° Directeur de projet.
 
 B. - Fonctions pouvant donner lieu au versement d'une nouvelle bonification indiciaire dans les services déconcentrés du ministère chargé de l'éducation nationale :
 
