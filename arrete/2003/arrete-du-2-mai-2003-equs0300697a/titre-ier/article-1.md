@@ -12,7 +12,7 @@ Au sens du présent arrêté, on entend par :
 
 2° "Type de véhicule" : un véhicule ou un groupe de véhicules (variantes) qui :
 
-a) Font partie d'une seule catégorie (catégorie internationale telle que définie à l'article 1er de la directive 2002/24/CE modifiée par la directive 2003/77/CE ;
+a) Font partie d'une seule catégorie (catégorie internationale telle que définie à l'article 1er de la directive 2002/24/CE modifiée par la directive 2005/30/CE) ;
 
 b) Sont construits par le même constructeur ;
 
@@ -44,7 +44,7 @@ h) Présentent un mode de fonctionnement identique (pour les moteurs électrique
 
 i) Présentent le même type de boîte de vitesses (manuelle, automatique, etc.) ;
 
-4° "Version" : un véhicule du même type et de la même variante mais pouvant comporter un ou plusieurs des équipements, composants ou systèmes énumérés dans la fiche de renseignements figurant à l'annexe II de la directive 2002/24/CE, à condition qu'il n'y ait que :
+4° "Version" : un véhicule du même type et de la même variante mais pouvant comporter un ou plusieurs des équipements, composants ou systèmes énumérés dans la fiche de renseignements figurant à l'annexe II de la directive 2002/24/CE modifiée par la directive 2005/30/CE, à condition qu'il n'y ait que :
 
 a) Une seule valeur indiquée pour :
 
@@ -56,7 +56,7 @@ iii) la puissance du moteur ;
 
 iv) la cylindrée du moteur ;
 
-b) Un seul ensemble de résultats d'essais enregistrés conformément à l'annexe VII de la directive 2002/24/CE susvisée ;
+b) Un seul ensemble de résultats d'essais enregistrés conformément à l'annexe VII de la directive 2002/24/CE susvisée modifiée par la directive 2005/30/CE ;
 
 5° "Système" : tout système d'un véhicule, tel que les freins, les dispositifs de lutte contre la pollution provoquée par les gaz d'échappement, etc., devant satisfaire aux exigences fixées par l'une des directives particulières ;
 
@@ -68,7 +68,7 @@ b) Un seul ensemble de résultats d'essais enregistrés conformément à l'annex
 
 9° "Réception communautaire par type ou réception CE par type" :
 
-l'acte visé aux articles R. 321-6 à R. 321-14 du code de la route, par lequel un Etat membre certifie qu'un type de véhicule, un système, une entité technique ou un composant satisfait aussi bien aux prescriptions techniques de la directive 2002/24/CE ou des directives particulières qu'aux vérifications de l'exactitude des données du constructeur, prévues dans la liste exhaustive figurant à l'annexe I de la directive 2002/24/CE. Pour les équipements, la réception est aussi appelée homologation. Les réceptions peuvent comporter des extensions en cas de modification, variantes ou versions ;
+l'acte visé aux articles R. 321-6 à R. 321-14 du code de la route, par lequel un Etat membre certifie qu'un type de véhicule, un système, une entité technique ou un composant satisfait aussi bien aux prescriptions techniques de la directive 2002/24/CE modifiée par la directive 2005/30/CE ou des directives particulières qu'aux vérifications de l'exactitude des données du constructeur, prévues dans la liste exhaustive figurant à l'annexe I de la directive 2002/24/CE modifiée par la directive 2005/30/CE. Pour les équipements, la réception est aussi appelée homologation. Les réceptions peuvent comporter des extensions en cas de modification, variantes ou versions ;
 
 10° "Homologation ECE" : l'acte prévu par les arrêtés d'application du décret n° 2001-1175 du 4 décembre 2001 susvisé, par lequel un Etat partie à l'accord visé par ce décret certifie qu'un type de système ou d'équipement satisfait aux exigences techniques d'un règlement ECE/ONU pris en application dudit accord ;
 

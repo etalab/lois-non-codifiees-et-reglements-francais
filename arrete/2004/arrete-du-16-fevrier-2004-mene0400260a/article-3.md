@@ -1,3 +1,3 @@
 # Article 3
 
-L'accès en formation est ouvert aux candidats titulaires du brevet d'études professionnelles des métiers de la communication et des industries graphiques et aux candidats remplissant les conditions définies à l'article D. 337-144 du code de l'éducation.
+L'accès en formation à la mention complémentaire "finition façonnage de produits imprimés" est ouvert aux candidats titulaires de certificat d'aptitude professionnelle ou de brevet d'études professionnelles du secteur industriel et aux candidats remplissant les conditions définies à l'article 6 du décret du 28 mars 2001 susvisé.

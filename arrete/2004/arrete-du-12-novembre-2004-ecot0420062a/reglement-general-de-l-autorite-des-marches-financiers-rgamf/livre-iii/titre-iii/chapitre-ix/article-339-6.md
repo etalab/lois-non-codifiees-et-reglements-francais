@@ -1,0 +1,7 @@
+# Article 339-6
+
+Lorsqu'un éditeur de publications de presse, un éditeur de services de radio ou de télévision, un éditeur de services de communication en ligne au public ou une agence de presse, mentionnés à l'article 339-1, diffuse une recommandation d'investissement produite par un tiers, l'identité de celui-ci est indiquée clairement et d'une façon apparente dans la recommandation.
+
+L'éditeur ou l'agence indique également les éventuelles modifications substantielles apportées à la recommandation d'investissement diffusée et, lorsque celles-ci consistent à changer le sens de la recommandation d'investissement, l'ensemble des mentions prévues aux articles 339-3 et 339-5. Dans le cas où l'éditeur ou l'agence diffuse une recommandation d'investissement qui a fait l'objet de modifications substantielles de sa part, l'emplacement de la recommandation d'investissement et les mentions obligatoires la concernant doivent également être mentionnés, pour autant que ces éléments soient publics.
+
+Lorsqu'un éditeur de publications de presse, un éditeur de services de radio ou de télévision, un éditeur de services de communication au public en ligne ou une agence de presse, mentionnés à l'article 339-1, diffuse le résumé d'une recommandation produite par un tiers, il veille à ce qu'il soit clair et ne soit pas trompeur. L'éditeur ou l'agence indique également le moyen d'accéder à la recommandation d'investissement ou aux mentions obligatoires la concernant, pour autant que ces éléments soient publics.
