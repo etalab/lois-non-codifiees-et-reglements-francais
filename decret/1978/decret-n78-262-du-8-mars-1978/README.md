@@ -4,7 +4,7 @@
 - [Titre Ier : Dispositions générales.](titre-ier)
 - [Titre II : Emoluments.](titre-ii)
 - [Titre III : Déboursés.](titre-iii)
-- [Titre IV : Reconnaissance transfrontalière.](titre-iv)
+- [Titre IV : Dispositions diverses et finales.](titre-iv)
 - [Titre V : Dispositions diverses et finales.](titre-v)
 - [Article 39](article-39.md)
 - [Annexes](annexes)
