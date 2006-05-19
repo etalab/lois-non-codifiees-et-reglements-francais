@@ -453,6 +453,7 @@
 - [Décret n°2006-75 du 25 janvier 2006 (DEVO0530010D)](decret-n2006-75-du-25-janvier-2006-devo0530010d)
 - [Décret n°2006-80 du 25 janvier 2006 (PMEA0520004D)](decret-n2006-80-du-25-janvier-2006-pmea0520004d)
 - [Décret n°93-486 du 25 mars 1993 (PRMG9370184D)](decret-n93-486-du-25-mars-1993-prmg9370184d)
+- [Décret n°97-185 du 25 février 1997 (TASH9624401D)](decret-n97-185-du-25-fevrier-1997-tash9624401d)
 - [Décret n°2005-1204 du 26 septembre 2005 (INTC0500257D)](decret-n2005-1204-du-26-septembre-2005-intc0500257d)
 - [Décret n°2005-1631 du 26 décembre 2005 (MENA0502691D)](decret-n2005-1631-du-26-decembre-2005-mena0502691d)
 - [Décret n°2005-1643 du 26 décembre 2005 (INTC0500365D)](decret-n2005-1643-du-26-decembre-2005-intc0500365d)
