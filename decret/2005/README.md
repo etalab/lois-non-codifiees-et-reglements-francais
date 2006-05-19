@@ -13,6 +13,7 @@
 - [Décret n°2005-772 du 11 juillet 2005 (MATK0500001D)](decret-n2005-772-du-11-juillet-2005-matk0500001d)
 - [Décret n°2005-775 du 11 juillet 2005 (BUDX0508594D)](decret-n2005-775-du-11-juillet-2005-budx0508594d)
 - [Décret n°2005-1270 du 12 octobre 2005 (INTR0500290D)](decret-n2005-1270-du-12-octobre-2005-intr0500290d)
+- [Décret n°2005-1170 du 13 septembre 2005 (DEVP0530024D)](decret-n2005-1170-du-13-septembre-2005-devp0530024d)
 - [Décret n°2005-30 du 14 janvier 2005 (SANH0424404D)](decret-n2005-30-du-14-janvier-2005-sanh0424404d)
 - [Décret n°2005-1412 du 16 novembre 2005 (JUSC0520859D)](decret-n2005-1412-du-16-novembre-2005-jusc0520859d)
 - [Décret n°2005-669 du 16 juin 2005 (INTX0500150D)](decret-n2005-669-du-16-juin-2005-intx0500150d)
