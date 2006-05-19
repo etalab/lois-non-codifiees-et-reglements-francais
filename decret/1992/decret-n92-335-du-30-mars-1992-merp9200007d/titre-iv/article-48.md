@@ -2,7 +2,7 @@
 
 Les ressources du comité national, des comités régionaux et des comités locaux des pêches maritimes et des élevages marins comprennent notamment :
 
-a) Le produit des taxes parafiscales instituées à leur profit ;
+a) (supprimé) ;
 
 b) Les cotisations professionnelles prévues par l'article 17 de la loi du 2 mai 1991 susvisée ;
 
