@@ -1,4 +1,4 @@
-# Décret du 17 mai 2006 relatif à l'appellation d'origine contrôlée « Mont d'Or » ou « Vacherin du Haut-Doubs »
+# Arrêté du 15 mai 2006 modifiant l'arrêté du 28 avril 2005 portant création du baccalauréat professionnel spécialité « systèmes électroniques numériques » et fixant ses modalités de préparation et de délivrance
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -14,3 +14,5 @@
 - [Article 12](article-12.md)
 - [Article 13](article-13.md)
 - [Article 14](article-14.md)
+- [Article 15](article-15.md)
+- [Article 16](article-16.md)
