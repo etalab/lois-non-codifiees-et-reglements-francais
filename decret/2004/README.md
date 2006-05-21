@@ -21,7 +21,6 @@
 - [Décret n°2004-641 du 1 juillet 2004 (SOCX0400047D)](decret-n2004-641-du-1-juillet-2004-socx0400047d)
 - [Décret n°2004-643 du 1 juillet 2004 (DEFM0400711D)](decret-n2004-643-du-1-juillet-2004-defm0400711d)
 - [Décret n°2004-647 du 1 juillet 2004 (INTA0400167D)](decret-n2004-647-du-1-juillet-2004-inta0400167d)
-- [Décret n°2004-653 du 1 juillet 2004 (AGRA0400681D)](decret-n2004-653-du-1-juillet-2004-agra0400681d)
 - [Décret n°2004-663 du 1 juillet 2004 (MENF0400969D)](decret-n2004-663-du-1-juillet-2004-menf0400969d)
 - [Décret n°2004-903 du 1 septembre 2004 (INDI0403449D)](decret-n2004-903-du-1-septembre-2004-indi0403449d)
 - [Décret n°2004-904 du 1 septembre 2004 (INDI0403450D)](decret-n2004-904-du-1-septembre-2004-indi0403450d)
