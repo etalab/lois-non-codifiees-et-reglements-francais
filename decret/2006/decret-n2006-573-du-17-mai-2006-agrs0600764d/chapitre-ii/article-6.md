@@ -1,0 +1,11 @@
+# Article 6
+
+Les secrétaires administratifs du ministère de l'agriculture et de la pêche sont affectés en administration centrale, dans les services déconcentrés de ce département ministériel, dans les établissements publics administratifs placés sous sa tutelle, dans les établissements d'enseignement publics locaux et nationaux ainsi que dans les services relevant du ministre chargé de l'environnement. Dans leur domaine de responsabilité, ils peuvent être amenés à participer à l'encadrement du personnel au sein d'un service et à exercer des fonctions de coordination et d'animation de ce service.
+
+Lorsqu'ils sont affectés en administration centrale et dans les services déconcentrés, ils collaborent aux travaux d'élaboration des politiques relevant de la compétence de ces services et à leur mise en oeuvre. Ils se voient confier des attributions en matière de communication, de documentation, d'informatique, d'études et comptes rendus d'activité.
+
+En administration centrale, ils participent à la détermination des règles applicables en matière de gestion des personnels, des moyens financiers et matériels. Ils contribuent au recueil, à l'analyse, à la synthèse des informations et à l'élaboration de comptes rendus transmis par les services. Ils sont également chargés de tâches de contrôle de gestion, d'évaluation et d'analyse juridique.
+
+Dans les services déconcentrés, ils participent aux tâches de gestion de personnel, des moyens financiers et matériels, à la gestion, à l'instruction, à l'analyse juridique et aux contrôles des dossiers concernant les politiques relatives à l'économie agricole et forestière, à l'environnement, à l'équipement rural et à la protection sanitaire.
+
+Dans les établissements d'enseignement publics locaux et nationaux, les secrétaires administratifs du ministère de l'agriculture et de la pêche participent à la mission éducative et, lorsqu'ils exercent les fonctions de gestionnaire, aux responsabilités de l'équipe constituée par le personnel de direction, de gestion et d'éducation. Ils assistent les fonctionnaires chargés de la gestion matérielle, financière et comptable de ces établissements et peuvent être appelés à les suppléer en cas d'empêchement ou d'absence.
