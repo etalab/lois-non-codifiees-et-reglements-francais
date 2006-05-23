@@ -2,9 +2,9 @@
 
 La carte nationale d'apprenti a les caractéristiques suivantes :
 
-- carte PVC blanc laminé ;
+- carte polyester ou PVC blanc laminé ;
 
-- épaisseur de 76/100 mm ;
+- épaisseur de 65 à 76/100 mm ;
 
 - format de la carte nationale d'apprenti : 86 x 54 mm.
 
