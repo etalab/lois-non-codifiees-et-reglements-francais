@@ -16,7 +16,7 @@ Cette information est assurée :
 
 7. Par les écoles et les établissements d'enseignement du second degré, publics et privés sous contrat, et par les établissements d'enseignement supérieur ;
 
-8. Dans les centres d'information et d'orientation institués par le décret du 7 juillet 1971 susvisé ;
+8. Dans les centres d'information et d'orientation institués par les articles D. 313-1, D. 313-2, D. 313-4, D. 313-5, D. 313-7, D. 313-8, D. 313-9 et D. 313-13 susvisé du code de l'éducation ;
 
 9. Par le centre d'information et de documentation jeunesse et l'ensemble des éléments du réseau d'information pour la jeunesse ;
 

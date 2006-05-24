@@ -4,7 +4,7 @@ Sont abrogés :
 
 1° Le décret du 26 juin 1880 relatif aux conseils académiques ;
 
-2° Les articles 12, 13, 14, 130, 140 à 145 et le douzième alinéa de l'article 158 du décret du 18 janvier 1887 ayant pour objet l'exécution de la loi organique de l'enseignement primaire ;
+2° Les articles 12,13,14,130,140 à 145 et le douzième alinéa de l'article 158 du décret du 18 janvier 1887 ayant pour objet l'exécution de la loi organique de l'enseignement primaire ;
 
 3° L'article 3 du décret du 25 octobre 1894 relatif à la composition du logement des instituteurs ;
 
@@ -14,7 +14,7 @@ Sont abrogés :
 
 6° Le décret du 2 mai 1951 portant constitution d'une Commission nationale pour l'éducation, la science et la culture (UNESCO) ;
 
-7° Les articles 40, 41, 47 à 50 et 58 du décret n° 59-57 du 6 janvier 1959 portant réforme de l'enseignement public ;
+7° Les articles 40,41,47 à 50 et 58 du décret n° 59-57 du 6 janvier 1959 portant réforme de l'enseignement public ;
 
 8° Le décret n° 59-1088 du 18 septembre 1959 relatif au contrôle des opérations financières des caisses des écoles publiques ;
 
@@ -84,7 +84,7 @@ Sont abrogés :
 
 41° Le décret n° 86-486 du 14 mars 1986 pris pour l'application de la loi n° 85-583 du 10 juin 1985 relative à la création d'établissements d'enseignement public ;
 
-42° Les articles 1er, 2, 3 et 4 du décret n° 86-642 du 19 mars 1986 pris pour l'application de la loi n° 85-1469 du 31 décembre 1985 relative à la composition et aux attributions des conseils de l'éducation nationale siégeant en formation contentieuse et disciplinaire et modifiant les lois n° 46-1084 du 18 mai 1946 et n° 64-1325 du 26 décembre 1964 relatives au Conseil supérieur de l'éducation nationale ;
+42° Les articles 1er,2,3 et 4 du décret n° 86-642 du 19 mars 1986 pris pour l'application de la loi n° 85-1469 du 31 décembre 1985 relative à la composition et aux attributions des conseils de l'éducation nationale siégeant en formation contentieuse et disciplinaire et modifiant les lois n° 46-1084 du 18 mai 1946 et n° 64-1325 du 26 décembre 1964 relatives au Conseil supérieur de l'éducation nationale ;
 
 43° L'article 1er du décret n° 86-970 du 19 août 1986 relatif aux dispositions statutaires applicables à l'emploi de secrétaire général d'académie ;
 
@@ -120,11 +120,11 @@ départementaux de l'éducation nationale et des inspecteurs d'académie adjoint
 
 58° Le décret n° 91-729 du 23 juillet 1991 fixant la liste des établissements d'enseignement public de la musique, de la danse et de l'art dramatique dont la responsabilité et la charge incombent entièrement à l'Etat ;
 
-59° Le cinquième alinéa de l'article 3 et le deuxième alinéa de l'article 23 du décret n° 92-26 du 9 janvier 1992 portant statut particulier du corps des conservateurs des bibliothèques et du corps des conservateurs généraux des bibliothèques ;
+59° Le sixième alinéa de l'article 3 et le deuxième alinéa de l'article 23 du décret n° 92-26 du 9 janvier 1992 portant statut particulier du corps des conservateurs des bibliothèques et du corps des conservateurs généraux des bibliothèques ;
 
 60° Le décret n° 93-51 du 14 janvier 1993 portant application de la loi n° 92-675 du 12 juillet 1992 relative à l'apprentissage et complétant l'article 84 de la loi n° 83-8 du 7 janvier 1983 relative à la répartition de compétences entre les communes, les départements, les régions et l'Etat ;
 
-61° Les articles 1er à 6, 19 et 20 du décret n° 93-432 du 24 mars 1993 sur la mission de formation continue des adultes du service public de l'éducation ;
+61° Les articles 1er à 6,19 et 20 du décret n° 93-432 du 24 mars 1993 sur la mission de formation continue des adultes du service public de l'éducation ;
 
 62° Le décret n° 95-591 du 6 mai 1995 relatif à l'Observatoire national de la sécurité des établissements scolaires et d'enseignement supérieur ;
 

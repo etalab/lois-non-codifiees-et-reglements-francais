@@ -5,7 +5,6 @@
 - [Décret n°55-1323 du 4 octobre 1955](decret-n55-1323-du-4-octobre-1955)
 - [Décret n°55-22 du 4 janvier 1955](decret-n55-22-du-4-janvier-1955)
 - [Décret n°55-1202 du 9 septembre 1955](decret-n55-1202-du-9-septembre-1955)
-- [Décret n°55-1342 du 10 octobre 1955](decret-n55-1342-du-10-octobre-1955)
 - [Décret n°55-241 du 10 février 1955](decret-n55-241-du-10-fevrier-1955)
 - [Décret n°55-1350 du 14 octobre 1955](decret-n55-1350-du-14-octobre-1955)
 - [Décret n°55-543 du 14 mai 1955](decret-n55-543-du-14-mai-1955)

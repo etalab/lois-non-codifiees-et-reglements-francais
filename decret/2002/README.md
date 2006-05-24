@@ -1,6 +1,7 @@
 # 2002
 
 - [Décret n°85-390 du 1 avril 1985](decret-n85-390-du-1-avril-1985)
+- [Décret n°2002-1029 du 2 août 2002 (SOCF0211131D)](decret-n2002-1029-du-2-aout-2002-socf0211131d)
 - [Décret n°2002-451 du 2 avril 2002 (AGRS0200584D)](decret-n2002-451-du-2-avril-2002-agrs0200584d)
 - [Décret du 2 mai 2002 (AGRP0200183D)](decret-du-2-mai-2002-agrp0200183d)
 - [Décret n°2002-747 du 2 mai 2002 (EQUT0200476D)](decret-n2002-747-du-2-mai-2002-equt0200476d)
@@ -138,7 +139,6 @@
 - [Décret n°2002-410 du 26 mars 2002 (MESA0124284D)](decret-n2002-410-du-26-mars-2002-mesa0124284d)
 - [Décret n°2002-611 du 26 avril 2002 (ECOP0200248D)](decret-n2002-611-du-26-avril-2002-ecop0200248d)
 - [Décret n°2002-615 du 26 avril 2002 (MESF0210487D)](decret-n2002-615-du-26-avril-2002-mesf0210487d)
-- [Décret n°2002-616 du 26 avril 2002 (MESF0210488D)](decret-n2002-616-du-26-avril-2002-mesf0210488d)
 - [Décret n°2002-617 du 26 avril 2002 (MESF0210489D)](decret-n2002-617-du-26-avril-2002-mesf0210489d)
 - [Décret n°2002-633 du 26 avril 2002 (PRMX0200017D)](decret-n2002-633-du-26-avril-2002-prmx0200017d)
 - [Décret n°54-538 du 26 mai 1954](decret-n54-538-du-26-mai-1954)

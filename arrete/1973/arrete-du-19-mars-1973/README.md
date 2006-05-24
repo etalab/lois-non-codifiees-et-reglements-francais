@@ -1,4 +1,4 @@
-# Arrêté du 19 mars 1973 relatif aux poêles métalliques à combustible liquide
+# Arrêté du 19 mars 1973 PORTANT INSTITUTION DE COMMISSIONS PROFESSIONNELLES CONSULTATIVES AUPRES DU MINISTERE DE L'EDUCATION NATIONALE.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

@@ -1,5 +1,0 @@
-# Article 5
-
-Les décisions des autorités compétentes relatives à l'extension ou la création des établissements et services accueillant des jeunes sourds sont prises, sans préjudice du respect des autres conditions requises par les lois et règlements qui leur sont applicables, en fonction tant des besoins exprimés par les jeunes sourds ou leurs familles en ce qui concerne les modes de communication et recensés par les commissions départementales de l'éducation spéciale, que des notes d'information mentionnées dans l'article 4.
-
-Les autorités habilitées à délivrer les autorisations d'extension ou de création d'établissements et services accueillant des jeunes sourds et entrant dans le champ d'application de la loi n° 75-535 du 30 juin 1975 susvisée, et les autorités responsables de la mise en place des classes et sections accueillant des jeunes sourds et dépendant du ministère de l'éducation nationale procèdent au niveau régional à l'inventaire des besoins et des moyens et coordonnent leurs projets en vue de permettre, au même niveau, l'exercice du libre choix du mode de communication.

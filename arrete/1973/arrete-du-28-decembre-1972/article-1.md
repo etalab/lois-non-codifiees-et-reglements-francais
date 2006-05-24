@@ -1,6 +1,6 @@
 # Article 1
 
-Les commissions professionnelles consultatives instituées auprès du ministère de l'éducation nationale, en application de l'article 1er du décret n. 72-607 du 4 juillet 1972, formulent des avis et des propositions concernant :
+Les commissions professionnelles consultatives instituées auprès du ministère de l'éducation nationale, en application des articles D. 335-33 et D. 335-34 du code de l'éducation, formulent des avis et des propositions concernant :
 
 1. La définition des formations susceptibles de préparer aux fonctions ou emplois des diverses branches d'activité, en précisant leurs éléments et leur durée, quelle que soit la nature de ces formations : scolaire, apprentissage en entreprise ou formation professionnelle continue ;
 
