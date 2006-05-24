@@ -274,7 +274,7 @@ Décret n° 92-1200 du 6 novembre 1992 relatif aux relations du ministère charg
 <p>Agrément des associations éducatives complémentaires de l'enseignement public à caractère national.</p>
 </td>
 <td valign="top" width="189">
-<p>Articles 4 et 5.</p>
+<p>Articles 4 et 5. </p>
 </td>
 </tr>
 </tbody>
@@ -292,7 +292,7 @@ Arrêté du 3 novembre 1986 modifié relatif au concours général des lycées
 <p>Décisions d'attribution des récompenses du concours général.</p>
 </td>
 <td valign="top" width="189">
-<p>Article 3 (10).</p>
+<p>Article 3 (10). </p>
 </td>
 </tr>
 </tbody>
@@ -310,7 +310,7 @@ Arrêté du 6 janvier 1995 modifié relatif au concours général des métiers
 <p>Décisions d'attribution des récompenses du concours général des métiers.</p>
 </td>
 <td valign="top" width="189">
-<p>Article 3 (8). </p>
+<p>Article 3 (8).</p>
 </td>
 </tr>
 </tbody>
@@ -340,6 +340,25 @@ Arrêté du 13 octobre 1995 portant création du diplôme de compétence en lang
 </td>
 <td valign="top" width="189">
 <br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+Code de l'éducation.
+
+<table>
+<tbody>
+<tr>
+<td valign="top" width="76">
+<p align="center">1</p>
+</td>
+<td valign="top" width="416">
+<p>Délivrance du diplôme professionnel "un des meilleurs ouvriers de France".</p>
+<p>Délivrance du titre de "un des meilleurs ouvriers de France" honoris causa.</p>
+</td>
+<td valign="top" width="189">
+<p>Article R.* 338-10.</p>
 </td>
 </tr>
 </tbody>
