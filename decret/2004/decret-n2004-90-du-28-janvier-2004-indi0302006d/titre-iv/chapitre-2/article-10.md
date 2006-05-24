@@ -10,13 +10,13 @@ Pour les besoins des opérations de recouvrement prévues au 1° ci-dessus, le g
 
 II. - Le redevable liquide, lors de l'établissement de la facture individuelle de chaque consommateur, la contribution qui est égale au produit du nombre des kilowattheures soumis à contribution par le montant de la contribution unitaire fixé pour l'année considérée. Lorsqu'une facture porte sur des consommations d'une période s'étendant sur deux années civiles pour lesquelles la contribution unitaire est d'un montant différent, la contribution est liquidée en proportion du nombre de jours de chaque année civile, à défaut de données chiffrées permettant une répartition exacte.
 
-III. - La contribution est recouvrée en même temps que la somme facturée. Les contributions effectivement recouvrées sont reversées dans les délais et selon les procédures applicables au redevable en matière de taxe sur la valeur ajoutée, sur le compte spécifique tenu par la Caisse des dépôts et consignations. Les sommes non reversées au jour de l'échéance sont augmentées des intérêts au taux légal.
+III. - La contribution est recouvrée en même temps que la somme facturée. Les contributions effectivement recouvrées sont reversées dans les délais et selon les procédures applicables au redevable en matière de taxe sur la valeur ajoutée, sur le compte spécifique tenu par la Caisse des dépôts et consignations. Le redevable peut opter pour le versement de la contribution dès la facturation. Les redevables qui entendent recourir à cette option doivent le notifier, par lettre recommandée avec accusé de réception, à la Commission de régulation de l'énergie avant le 15 décembre d'une année pour en bénéficier au titre des années suivantes. L'option s'applique à l'ensemble des opérations réalisées par les redevables ; elle demeure valable tant que les redevables n'expriment pas leur volonté d'y renoncer. Le redevable présente sa renonciation par lettre recommandée avec accusé de réception adressée à la Commission de régulation de l'énergie avant le 15 décembre d'une année pour prendre effet au titre de l'année suivante. Les sommes non reversées au jour de l'échéance sont augmentées des intérêts au taux légal.
 
 En même temps qu'il effectue le paiement, le redevable remet à la Caisse des dépôts et consignations un état récapitulatif indiquant :
 
-a) Le nombre de kilowattheures soumis à contribution pour la période de recouvrement considéré ;
+a) Le nombre de kilowattheures soumis à contribution pour la période de recouvrement ou de facturation considéré ;
 
-b) Le montant total des contributions effectivement recouvrées au titre de cette période ;
+b) Le montant total des contributions effectivement recouvrées ou facturées au titre de cette période ;
 
 c) Le montant total des contributions impayées au titre de cette période ;
 

@@ -6,7 +6,13 @@ La déclaration comporte, en tant que de besoin :
 
 1° Par catégorie d'installations mentionnée aux I, II ou IV de l'article 4, le nombre de kilowattheures produits ou acquis au cours de l'année précédente, le prix total d'acquisition de l'électricité ou, le cas échéant, les protocoles prévus au II de l'article 4, ainsi que les informations nécessaires au calcul des surcoûts correspondants ;
 
-2° Pour chaque zone mentionnée au V de l'article 4, le nombre de kilowattheures produits ou acquis au cours de l'année précédente, le coût de production ou d'acquisition, les informations nécessaires au calcul des surcoûts correspondants ainsi que, le cas échéant, le contrat de vente d'électricité prévus au même V ;
+1° bis a) Le montant de l'avantage financier net retiré de la cession de toutes les garanties d'origine délivrées au cours de l'année précédente, en application de l'article 33 de la loi du 13 juillet 2005 susvisée ; un arrêté du ministre chargé de l'énergie détermine, en tant que de besoin, les règles selon lesquelles est évalué cet avantage financier net ;
+
+b) Le nombre de garanties d'origine délivrées au cours de l'année précédente pour l'électricité acquise ou compensée en application du I, du II et du IV de l'article 4 ;
+
+c) Le nombre de garanties d'origine délivrées au cours de l'année précédente pour le reste de la production du déclarant.
+
+2° Pour chaque zone mentionnée au V de l'article 4, le nombre de kilowattheures produits ou acquis au cours de l'année précédente, le coût de production et, le cas échéant, d'acquisition, les informations nécessaires au calcul des surcoûts correspondants ainsi que, le cas échéant, le contrat de vente d'électricité prévus au V et au V bis de l'article 4 ;
 
 3° Par catégorie de contrats mentionnés au III de l'article 4, le nombre de kilowattheures acquis au cours de l'année précédente, le prix total d'acquisition de l'électricité, ainsi que les informations nécessaires au calcul des surcoûts correspondants ;
 
