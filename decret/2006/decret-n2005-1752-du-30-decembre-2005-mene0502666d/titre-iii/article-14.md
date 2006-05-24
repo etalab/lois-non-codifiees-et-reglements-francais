@@ -1,3 +1,0 @@
-# Article 14
-
-Afin de satisfaire aux obligations qui incombent au service public de l'éducation en vertu du deuxième alinéa de l'article L. 351-1 et pour assurer la continuité des parcours de formation des élèves présentant un handicap, mentionné à l'article 1er du présent décret, une unité d'enseignement peut être créée au sein des établissements ou services mentionnés au 2° du I de l'article L. 312-1 du code de l'action sociale et des familles ou des établissements mentionnés au livre Ier de la sixième partie du code de la santé publique, accueillant des enfants ou des adolescents qui ne peuvent effectuer leur scolarité à temps plein dans une école ou un établissement scolaire.
