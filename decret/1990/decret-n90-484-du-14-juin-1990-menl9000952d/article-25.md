@@ -1,3 +1,0 @@
-# Article 25
-
-Sont abrogés les articles 15, 16, 17, 18, 19 et 20 du décret n° 76-1303 du 28 décembre 1976 modifié relatif à l'organisation de la formation et de l'orientation dans les collèges, les articles 9, 10 et 11 du décret n° 76-1304 du 28 décembre 1976 modifié relatif à l'organisation des formations dans les lycées, les articles 6, 7 et 8 du décret n° 77-521 du 18 mai 1977 modifié portant application aux établissements d'enseignement privés sous contrat de la loi n° 75-620 du 11 juillet 1975 relative à l'éducation, le décret n° 85-547 du 20 mai 1985 modifié relatif à l'organisation des procédures d'orientation dans les lycées.
