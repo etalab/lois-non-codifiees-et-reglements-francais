@@ -37,6 +37,7 @@
 - [Décret n°88-554 du 6 mai 1988 (MCLB8800154D)](decret-n88-554-du-6-mai-1988-mclb8800154d)
 - [Décret n°88-600 du 6 mai 1988 (JUSD8830034D)](decret-n88-600-du-6-mai-1988-jusd8830034d)
 - [Décret n°88-601 du 6 mai 1988 (JUSD8830039D)](decret-n88-601-du-6-mai-1988-jusd8830039d)
+- [Décret n°88-605 du 6 mai 1988 (MCCJ8800273D)](decret-n88-605-du-6-mai-1988-mccj8800273d)
 - [Décret n°88-614 du 6 mai 1988 (MCLB8800137D)](decret-n88-614-du-6-mai-1988-mclb8800137d)
 - [Décret n°88-620 du 6 mai 1988 (INTB8800168D)](decret-n88-620-du-6-mai-1988-intb8800168d)
 - [Décret n°88-631 du 6 mai 1988 (INTX8810349D)](decret-n88-631-du-6-mai-1988-intx8810349d)
