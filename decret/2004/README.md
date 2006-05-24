@@ -619,7 +619,6 @@
 - [Décret n°2004-589 du 21 juin 2004 (ECOF0420124D)](decret-n2004-589-du-21-juin-2004-ecof0420124d)
 - [Décret n°2004-590 du 21 juin 2004 (ECOF0400029D)](decret-n2004-590-du-21-juin-2004-ecof0400029d)
 - [Décret n°2004-591 du 21 juin 2004 (ECOF0400031D)](decret-n2004-591-du-21-juin-2004-ecof0400031d)
-- [Décret n°2004-607 du 21 juin 2004 (MCCB0400493D)](decret-n2004-607-du-21-juin-2004-mccb0400493d)
 - [Décret n°2004-731 du 21 juillet 2004 (INTC0400190D)](decret-n2004-731-du-21-juillet-2004-intc0400190d)
 - [Décret n°2004-737 du 21 juillet 2004 (ECOR0403012D)](decret-n2004-737-du-21-juillet-2004-ecor0403012d)
 - [Décret n°2004-739 du 21 juillet 2004 (INTD0400193D)](decret-n2004-739-du-21-juillet-2004-intd0400193d)

@@ -366,8 +366,6 @@
 - [Décret n°95-660 du 9 mai 1995 (JUSC9520264D)](decret-n95-660-du-9-mai-1995-jusc9520264d)
 - [Décret n°95-661 du 9 mai 1995 (JUSD9530020D)](decret-n95-661-du-9-mai-1995-jusd9530020d)
 - [Décret n°95-662 du 9 mai 1995 (DEFM9501485D)](decret-n95-662-du-9-mai-1995-defm9501485d)
-- [Décret n°95-663 du 9 mai 1995 (MENL9500769D)](decret-n95-663-du-9-mai-1995-menl9500769d)
-- [Décret n°95-664 du 9 mai 1995 (MENL9500770D)](decret-n95-664-du-9-mai-1995-menl9500770d)
 - [Décret n°95-665 du 9 mai 1995 (MENL9500771D)](decret-n95-665-du-9-mai-1995-menl9500771d)
 - [Décret n°95-667 du 9 mai 1995 (MCCB9500237D)](decret-n95-667-du-9-mai-1995-mccb9500237d)
 - [Décret n°95-669 du 9 mai 1995 (AGRA9500808D)](decret-n95-669-du-9-mai-1995-agra9500808d)

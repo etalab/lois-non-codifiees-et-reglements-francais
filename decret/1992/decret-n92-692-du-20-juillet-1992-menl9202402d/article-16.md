@@ -1,3 +1,0 @@
-# Article 16
-
-Le ministre d'Etat, ministre de l'éducation nationale et de la culture, le ministre de l'économie et des finances, le ministre délégué au commerce et à l'artisanat et le secrétaire d'Etat à l'enseignement technique sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.

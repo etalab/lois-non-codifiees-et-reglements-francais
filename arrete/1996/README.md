@@ -820,7 +820,6 @@
 - [Arrêté du 22 mars 1996 (TASH9620973A)](arrete-du-22-mars-1996-tash9620973a)
 - [Arrêté du 22 mars 1996 (TASH9620974A)](arrete-du-22-mars-1996-tash9620974a)
 - [Arrêté du 22 novembre 1996 (COMK9608003A)](arrete-du-22-novembre-1996-comk9608003a)
-- [Arrêté du 22 novembre 1996 (INDB9600772A)](arrete-du-22-novembre-1996-indb9600772a)
 - [Arrêté du 22 novembre 1996 (MCCG9600617A)](arrete-du-22-novembre-1996-mccg9600617a)
 - [Arrêté du 22 octobre 1996 (MCCK9600552A)](arrete-du-22-octobre-1996-mcck9600552a)
 - [Arrêté du 22 octobre 1996 (MIPP9600354A)](arrete-du-22-octobre-1996-mipp9600354a)

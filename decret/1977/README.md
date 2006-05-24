@@ -95,7 +95,6 @@
 - [Décret n°77-907 du 27 juillet 1977](decret-n77-907-du-27-juillet-1977)
 - [Décret n°78-117 du 27 janvier 1978](decret-n78-117-du-27-janvier-1978)
 - [Décret n°77-699 du 27 mai 1977](decret-n77-699-du-27-mai-1977)
-- [Décret n°76-1304 du 28 décembre 1976](decret-n76-1304-du-28-decembre-1976)
 - [Décret n°77-1477 du 28 décembre 1977](decret-n77-1477-du-28-decembre-1977)
 - [Décret n°77-307 du 28 mars 1977](decret-n77-307-du-28-mars-1977)
 - [Décret n°77-347 du 28 mars 1977](decret-n77-347-du-28-mars-1977)

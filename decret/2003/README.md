@@ -568,7 +568,6 @@
 - [Décret n°2003-801 du 26 août 2003 (SANS0322829D)](decret-n2003-801-du-26-aout-2003-sans0322829d)
 - [Décret n°2003-804 du 26 août 2003 (SANS0322499D)](decret-n2003-804-du-26-aout-2003-sans0322499d)
 - [Décret n°2003-805 du 26 août 2003 (SANS0323047D)](decret-n2003-805-du-26-aout-2003-sans0323047d)
-- [Décret n°2003-812 du 26 août 2003 (MENE0301448D)](decret-n2003-812-du-26-aout-2003-mene0301448d)
 - [Décret n°2003-814 du 26 août 2003 (EQUR0300201D)](decret-n2003-814-du-26-aout-2003-equr0300201d)
 - [Décret n°2003-830 du 26 août 2003 (ECOP0300519D)](decret-n2003-830-du-26-aout-2003-ecop0300519d)
 - [Décret n°2003-831 du 26 août 2003 (BUDD0370010D)](decret-n2003-831-du-26-aout-2003-budd0370010d)
