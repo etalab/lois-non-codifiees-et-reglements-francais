@@ -1,5 +1,0 @@
-# Article 24
-
-Les personnels non titulaires occupant des emplois permanents à temps complet, rémunérés sur des crédits inscrits à ce budget annexé qui sont soumis aux dispositions prévues par le décret du 9 décembre 1959 susvisé en matière de recrutement, de classement, de rémunération et d'avancement sont maintenus dans leur catégorie et leur échelon et conservent leur ancienneté au sein de l'établissement publie créé par le présent décret. Le directeur du Centre d'études et de recherches sur les qualifications exerce à leur égard les compétences dévolues par ledit décret au directeur général du Centre national de la recherche scientifique.
-
-Les personnels exerçant les fonctions de chefs de département ou de chargés de mission à l'O.N.I.S.E.P., dont les emplois sont transférés au C.E.R.E.Q. en application du présent article, continuent d'être régis par les dispositions des décrets du 7 avril 1971 et du 28 février 1981 susvisés. Ils sont maintenus dans leur échelon et conservent leur ancienneté au sein de l'établissement public créé par le présent décret.
