@@ -1,7 +1,0 @@
-# Article 19
-
-Le diplôme du baccalauréat est délivré par le recteur de l'académie chargée de l'organisation de l'examen.
-
-Pour les séries S.T.A.E. et S.T.P.A., le diplôme est délivré conjointement par le recteur de l'académie et le directeur régional de l'agriculture et de la forêt.
-
-Quelles que soient la série et éventuellement la mention portées sur le diplôme, le grade de bachelier confère les mêmes droits.
