@@ -1,7 +1,0 @@
-# Article 6
-
-Le directeur du centre de liaison de l'enseignement et des moyens d'information prépare les travaux et délibérations du conseil d'orientation et de perfectionnement.
-
-Il recueille et lui transmet tous documents nécessaires ou utiles à son information.
-
-Il assiste aux séances du conseil.
