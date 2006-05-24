@@ -281,6 +281,7 @@
 - [Arrêté du 27 mai 1998 (MESG9821916A)](arrete-du-27-mai-1998-mesg9821916a)
 - [Arrêté du 28 avril 2006 (DEFD0600423A)](arrete-du-28-avril-2006-defd0600423a)
 - [Arrêté du 28 avril 2006 (DOMA0600012A)](arrete-du-28-avril-2006-doma0600012a)
+- [Arrêté du 28 avril 2006 (INDI0607373A)](arrete-du-28-avril-2006-indi0607373a)
 - [Arrêté du 28 avril 2006 (INTD0600380A)](arrete-du-28-avril-2006-intd0600380a)
 - [Arrêté du 28 décembre 2005 (JUSC0520970A)](arrete-du-28-decembre-2005-jusc0520970a)
 - [Arrêté du 28 décembre 2005 (JUSK0540087A)](arrete-du-28-decembre-2005-jusk0540087a)
