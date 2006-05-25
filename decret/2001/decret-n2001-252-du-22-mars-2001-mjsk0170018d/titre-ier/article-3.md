@@ -28,7 +28,7 @@ c) Six des représentants des associations intéressées par les activités phys
 
 - les deux représentants de fédérations sportives des sports de nature ;
 
-- le représentant des fédérations agréées au titre de l'article 16 de la loi du 16 juillet 1984 susvisée et n'adhérant pas au Comité national olympique et sportif français ;
+- le représentant des fédérations agréées au titre des articles L. 111-1, L. 131-1 à L. 131-9, L. 131-11 à L. 131-13 du code du sport et n'adhérant pas au Comité national olympique et sportif français ;
 
 - un représentant du Conseil national des associations de jeunesse et d'éducation populaire (CNAJEP) ;
 
@@ -48,6 +48,18 @@ b) Un représentant des propriétaires agricoles ou forestiers, désigné sur pr
 
 c) Un représentant des établissements publics chargés de la gestion d'espaces ou de milieux naturels, désigné sur proposition du ministre chargé de l'environnement ;
 
-d) Un représentant des commissions départementales des espaces, sites et itinéraires relatifs aux sports de nature mentionnées à l'article 50-2 de la loi du 16 juillet 1984 susvisée ;
+d) Un représentant des commissions départementales des espaces, sites et itinéraires relatifs aux sports de nature mentionnées à l'article L. 311-3 du code du sport ;
 
 e) Quatre personnalités qualifiées compétentes dans les domaines des sports de nature et de la protection de la nature et de la gestion des espaces naturels.
+
+Cette notice d'impact doit comprendre les éléments suivants :
+
+a) Le nombre d'équipements susceptibles d'être soumis à cette réglementation fédérale ;
+
+b) Les conséquences financières de sa mise en oeuvre, tant en fonctionnement qu'en investissement ainsi que les délais prévus pour la mise en conformité des installations existantes ;
+
+c) Le bien-fondé de cette réglementation au regard de l'évolution des règles techniques de la ou des disciplines intéressées, du niveau de compétition et des objectifs de la politique sportive, locale, nationale ou internationale attachés à cette réglementation ;
+
+d) La description des concertations préalablement engagées par la fédération avec les associations nationales d'élus locaux, tout particulièrement en ce qui concerne l'évaluation des conséquences financières de cette réglementation fédérale et les délais de sa mise en oeuvre.
+
+Le ministre chargé des sports vérifie que la notice d'impact contient les éléments ci-dessus avant de l'adresser pour avis au Conseil national des activités physiques et sportives qui en accuse réception à la fédération intéressée.

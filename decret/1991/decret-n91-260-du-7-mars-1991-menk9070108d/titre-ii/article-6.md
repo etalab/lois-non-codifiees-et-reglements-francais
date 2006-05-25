@@ -8,6 +8,6 @@ Les brevets d'Etat sont délivrés, à chaque degré et dans chaque option :
 
 3° Aux candidats ayant satisfait aux épreuves organisées dans le cadre d'une formation modulaire ;
 
-4° Aux sportifs de haut niveau inscrits ou ayant été inscrits depuis moins de cinq ans sur la liste mentionnée à l'article 26 de la loi du 16 juillet 1984 susvisée, ayant subi une formation aménagée et ayant été déclarés admis par le jury ;
+4° Aux sportifs de haut niveau inscrits ou ayant été inscrits depuis moins de cinq ans sur la liste mentionnée aux articles L. 221-1 et L. 221-2 du code du sport, ayant subi une formation aménagée et ayant été déclarés admis par le jury ;
 
 5° Aux candidats ayant satisfait aux épreuves d'évaluation certificative organisées dans le cadre d'une formation en unités de compétences capitalisables. La liste des titres et diplômes permettant à leurs titulaires de se présenter directement aux épreuves d'une ou plusieurs unités est fixée par arrêté du ministre chargé des sports.

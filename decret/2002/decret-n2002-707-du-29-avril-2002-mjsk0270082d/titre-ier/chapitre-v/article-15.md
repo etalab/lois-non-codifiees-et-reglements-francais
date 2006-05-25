@@ -6,7 +6,7 @@ La qualité de sportif de haut niveau, d'entraîneur de haut niveau, d'arbitre e
 
 2° A son initiative, ou sur proposition de la fédération concernée ou du conseil de prévention et de lutte contre le dopage, dans le cas d'infraction dûment constatée aux dispositions législatives et réglementaires relatives à la lutte contre le dopage ;
 
-3° A son initiative, lorsque l'intéressé a manqué à l'une des obligations prévues par le décret pris pour l'application des articles 25 et 26-1 de la loi du 16 juillet 1984 susvisée ;
+3° A son initiative, lorsque l'intéressé a manqué à l'une des obligations prévues par le décret pris pour l'application des articles L. 211-3, L. 221-7, L. 221-11, L. 221-12 et L. 321-1 du code du sport ;
 
 4° A son initiative, lorsque l'intéressé a commis des faits susceptibles de justifier une condamnation pour crime ou pour l'un des délits prévus :
 

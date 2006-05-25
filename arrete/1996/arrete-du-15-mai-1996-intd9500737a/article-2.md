@@ -22,7 +22,7 @@ I. - Doivent être inscrites dans le traitement les personnes recherchées au ti
 
 - l'interdiction de paraître dans certains lieux ou de rencontrer certaines personnes, prononcée en application des 2°, 3° et 4° de l'article 15-1 de l'ordonnance n° 45-174 du 2 février 1945 précitée ;
 
-- l'interdiction de stade, prononcée en application des dispositions de l'article 42-11 de la loi n° 84-610 du 16 juillet 1984 relative à l'organisation et à la promotion des activités physiques et sportives ;
+- l'interdiction de stade, prononcée en application des dispositions des articles L. 332-11 à L. 332-15 du code du sport ;
 
 - les interdictions de paraître dans certains lieux, de rencontrer certaines personnes, de quitter le territoire ou d'exercer certaines activités, ordonnées en application des dispositions de l'article 731 du code de procédure pénale en cas de libération conditionnelle ;
 

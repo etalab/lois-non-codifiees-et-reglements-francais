@@ -60,4 +60,4 @@ L'intéressé(e) doit toujours être en mesure de présenter à l'autorité admi
 
 Toute personne procédant à cette déclaration fera l'objet d'une demande d'extrait de casier judiciaire (bulletin n° 2) auprès du service du casier judiciaire national, comme prévu à l'article 2 de l'arrêté du 27 juin 2005 et conformément à l'article 203 de la loi n° 2004-204 du 9 mars 2004.
 
-(1) En application de l'article L. 363-1 du code de l'éducation et de l'article 2 du décret n° 89-685 du 21 septembre 1989, les diplômes étrangers sont admis en équivalence par le ministre chargé des sports après avis d'une commission.
+(1) En application des articles L. 212-1 à L. 212-4 du code du sport et de l'article 2 du décret n° 89-685 du 21 septembre 1989, les diplômes étrangers sont admis en équivalence par le ministre chargé des sports après avis d'une commission.

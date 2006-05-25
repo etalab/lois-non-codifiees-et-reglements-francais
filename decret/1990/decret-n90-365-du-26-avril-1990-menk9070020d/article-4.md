@@ -26,4 +26,4 @@ j) Deux personnalités qualifiées pour leurs compétences en matière de sport 
 
 Les représentants de l'Etat mentionnés aux paragraphes e, f, g, h, j sont désignés par le ministre chargé des sports. Les autres représentants de l'Etat peuvent être représentés en cas d'indisponibilité.
 
-2° Douze représentants du Comité national olympique et sportif français désignés par son conseil d'administration, dont deux sportifs de haut niveau figurant sur la liste instituée à l'article 26 de la loi du 16 juillet 1984.
+2° Douze représentants du Comité national olympique et sportif français désignés par son conseil d'administration, dont deux sportifs de haut niveau figurant sur la liste instituée aux articles L. 221-1 et L. 221-2 du code du sport.

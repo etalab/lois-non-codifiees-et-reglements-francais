@@ -1,6 +1,6 @@
 # Article 10
 
-La commission nationale de sécurité des enceintes sportives, instituée par l'article 42-1 de la loi du 16 juillet 1984 susvisée, est présidée par le ministre chargé des sports ou son représentant. Elle comprend outre son président :
+La commission nationale de sécurité des enceintes sportives, instituée par les articles L. 312-5 à L. 312-10 du code du sport, est présidée par le ministre chargé des sports ou son représentant. Elle comprend outre son président :
 
 1° Sept représentants de l'Etat, membres de droit :
 

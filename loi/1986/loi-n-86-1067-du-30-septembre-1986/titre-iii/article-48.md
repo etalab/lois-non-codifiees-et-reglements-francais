@@ -1,6 +1,6 @@
 # Article 48
 
-Un cahier des charges fixé par décret définit les obligations de chacune des sociétés mentionnées à l'article 44, et notamment celles qui sont liées à leur mission éducative, culturelle et sociale, ainsi qu'aux impératifs de la défense nationale, de la sécurité publique et de la communication gouvernementale en temps de crise. Lorsqu'une de ces sociétés édite plusieurs services, le cahier des charges précise les caractéristiques de chacun d'entre eux.
+Un cahier des charges fixé par décret définit les obligations de chacune des sociétés mentionnées à l'article 44, et notamment celles qui sont liées à leur mission éducative, culturelle et sociale, ainsi qu'aux impératifs de la défense nationale, de la sécurité publique et de la communication gouvernementale en temps de crise. Ce cahier des charges prévoit des dispositions pour la promotion de la protection de la santé des sportifs et de la lutte contre le dopage. Lorsqu'une de ces sociétés édite plusieurs services, le cahier des charges précise les caractéristiques de chacun d'entre eux.
 
 Il fait l'objet d'une publication au Journal officiel de la République française.
 

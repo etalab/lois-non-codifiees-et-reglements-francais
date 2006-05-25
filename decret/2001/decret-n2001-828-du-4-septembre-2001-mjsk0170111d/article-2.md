@@ -1,8 +1,8 @@
 # Article 2
 
-Les missions d'intérêt général mentionnées à l'article 19-3 de la loi du 16 juillet 1984 susvisée concernent :
+Les missions d'intérêt général mentionnées à l'article L. 113-2 du code du sport concernent :
 
-La formation, le perfectionnement et l'insertion scolaire ou professionnelle des jeunes sportifs accueillis dans les centres de formation agréés dans les conditions prévues à l'article 15-4 de la même loi ;
+La formation, le perfectionnement et l'insertion scolaire ou professionnelle des jeunes sportifs accueillis dans les centres de formation agréés dans les conditions prévues aux articles L. 211-4 et L. 211-5 de ce même code ;
 
 La participation de l'association ou de la société à des actions d'éducation, d'intégration ou de cohésion sociale ;
 

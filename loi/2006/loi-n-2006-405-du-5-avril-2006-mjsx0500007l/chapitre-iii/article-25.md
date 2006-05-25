@@ -1,6 +1,6 @@
 # Article 25
 
-I. - Sous réserve du V du présent article, la présente loi entre en vigueur le jour suivant la publication au Journal officiel du décret en Conseil d'Etat prévu par l'article L. 3612-4 du code de la santé publique et au plus tard le 1er février 2006.
+I. - Sous réserve du V du présent article, la présente loi entre en vigueur le jour suivant la publication au Journal officiel du décret en Conseil d'Etat prévu par l'article L. 232-31 du code du sport et au plus tard le 1er février 2006.
 
 II. - A compter de la date d'entrée en vigueur prévue au I, l'Agence française de lutte contre le dopage assume en lieu et place du Laboratoire national de dépistage du dopage, d'une part, et du Conseil de prévention et de lutte contre le dopage, d'autre part, les droits et obligations de l'employeur vis-à-vis de ses personnels.
 

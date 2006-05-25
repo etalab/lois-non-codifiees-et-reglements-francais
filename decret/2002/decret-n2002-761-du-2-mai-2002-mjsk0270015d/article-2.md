@@ -1,0 +1,3 @@
+# Article 2
+
+Lorsqu'une fédération a constitué en son sein une ligue professionnelle en application des dispositions des articles L. 132-1 et L. 132-2 du code du sport, elle doit, pour pouvoir bénéficier d'une délégation, annexer à ses statuts un règlement particulier qui détermine les compétences et la composition de la ligue ainsi que les règles et les modalités de désignation de ses membres. Le règlement particulier doit permettre que la majorité des membres de la ligue soit élue directement par les associations mentionnées aux article L. 121-1 et L. 121-2 du code du sport et par les sportifs professionnels.

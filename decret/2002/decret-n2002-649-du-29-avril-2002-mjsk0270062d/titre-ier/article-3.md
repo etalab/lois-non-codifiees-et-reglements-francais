@@ -8,8 +8,8 @@ a) Deux personnalités qualifiées choisies en raison de leurs compétences resp
 
 b) Un représentant des sportifs dans la discipline ;
 
-c) Un représentant des sociétés sportives constituées en application de l'article 11 de la loi du 16 juillet 1984 susvisée ;
+c) Un représentant des sociétés sportives constituées en application des articles L. 122-1 à L. 122-3, L. 122-12, L. 122-14 L> à L. 122-19 du code du sport ;
 
-d) Le cas échéant, un représentant de la ligue professionnelle créée conformément aux dispositions du II de l'article 17 de la même loi ;
+d) Le cas échéant, un représentant de la ligue professionnelle créée conformément aux dispositions des articles L. 132-1 et L. 132-2 du même code ;
 
 e) Un représentant des agents sportifs et un représentant des entraîneurs désignés sur proposition de leurs organisations.

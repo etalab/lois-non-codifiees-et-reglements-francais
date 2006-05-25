@@ -12,7 +12,7 @@ Relèvent de la compétence de la fédération :
 
 5° L'organisation de la surveillance médicale des sportifs, dans les conditions prévues par le livre VI de la troisième partie du code de la santé publique ;
 
-6° La délivrance des titres mentionnés au III de l'article 17 de la loi du 16 juillet 1984 susvisée ;
+6° La délivrance des titres mentionnés au premier alinéa de l'article L. 131-17 du code du sport ;
 
 7° La sélection et la gestion des équipes portant l'appellation d'" Equipe de France " ;
 

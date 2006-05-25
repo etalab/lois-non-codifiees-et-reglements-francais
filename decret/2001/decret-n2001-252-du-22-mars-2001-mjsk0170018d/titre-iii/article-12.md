@@ -1,6 +1,6 @@
 # Article 12
 
-Toute fédération délégataire mentionnée à l'article 17 de la loi du 16 juillet 1984 susvisée qui édicte ou modifie ses règlements fédéraux relatifs aux normes des équipements sportifs requises pour la participation aux compétitions sportives relevant de sa discipline doit, préalablement à leur publication, adresser au ministre chargé des sports la notice d'impact mentionnée à l'article 6-1.
+Toute fédération délégataire mentionnée aux articles L. 131-10, L. 131-14 à L. 131-18, L. 132-1, L. 132-2 et L. 311-2 du code du sport qui édicte ou modifie ses règlements fédéraux relatifs aux normes des équipements sportifs requises pour la participation aux compétitions sportives relevant de sa discipline doit, préalablement à leur publication, adresser au ministre chargé des sports la notice d'impact mentionnée à l'article 6-1.
 
 Cette notice d'impact doit comprendre les éléments suivants :
 

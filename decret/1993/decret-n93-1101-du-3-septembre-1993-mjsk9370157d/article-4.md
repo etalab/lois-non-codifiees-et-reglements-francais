@@ -4,7 +4,7 @@ Le préfet peut adresser à l'exploitant de l'établissement les mises en demeur
 
 1. Aux manquements aux garanties d'hygiène et de sécurité mentionnées dans la déclaration ou définies en application de l'article 9 ;
 
-2. Au défaut de souscription du contrat d'assurance mentionné à l'article 37 de la loi du 16 juillet 1984 précitée ;
+2. Au défaut de souscription du contrat d'assurance mentionné aux articles L. 321-1, L. 321-2, L. 321-7, L. 321-8, L. 331-9 à L. 331-12 du code du sport ;
 
 3. Aux risques particuliers que présente l'activité de l'établissement pour la santé et la sécurité physique ou morale des pratiquants ;
 

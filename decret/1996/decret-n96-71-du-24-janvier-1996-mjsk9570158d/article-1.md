@@ -1,6 +1,6 @@
 # Article 1
 
-Un groupement sportif mentionné à l'article 11 de la loi du 16 juillet 1984 susvisée peut recevoir d'une ou plusieurs collectivités territoriales des subventions dont le montant total ne peut excéder :
+Un groupement sportif mentionné aux articles L. 122-1 à L. 122-3, L. 122-12, L. 122-14 à L. 122-19 du code du sport peut recevoir d'une ou plusieurs collectivités territoriales des subventions dont le montant total ne peut excéder :
 
 1° Un pourcentage de ses recettes, calculé selon des modalités figurant en annexe au présent décret ;
 

@@ -10,4 +10,4 @@ La convention précise les conditions dans lesquelles la fédération et la ligu
 
 4° La mise en oeuvre du règlement médical fédéral ;
 
-5° L'exercice du droit à l'information prévu à l'article 18-4 de la loi du 16 juillet 1984 susvisée.
+5° L'exercice du droit à l'information prévu à l'article L. 333-6 du code du sport.

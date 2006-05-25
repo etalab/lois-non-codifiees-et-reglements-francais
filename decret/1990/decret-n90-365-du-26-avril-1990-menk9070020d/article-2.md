@@ -1,6 +1,6 @@
 # Article 2
 
-Dans le cadre de la mission qui lui est confiée par l'article 26 de la loi du 16 juillet 1984 et par le décret du 5 mars 1987, la Commission nationale du sport de haut niveau :
+Dans le cadre de la mission qui lui est confiée par les articles L. 221-1 et L. 221-2 du code du sport et par le décret du 5 mars 1987, la Commission nationale du sport de haut niveau :
 
 a) Reconnaît le caractère de haut niveau aux disciplines ne figurant pas au programme des jeux Olympiques ;
 

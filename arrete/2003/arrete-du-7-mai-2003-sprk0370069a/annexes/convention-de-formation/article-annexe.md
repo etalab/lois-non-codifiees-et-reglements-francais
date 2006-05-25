@@ -34,7 +34,7 @@ Il est préalablement exposé ce qui suit :
 
 La présente convention, établie conformément à la convention type élaborée par la Fédération française de rugby à XIII et approuvée par arrêté du ministre chargé des sports du 7 mai 2003, est prise en application :
 
-- des dispositions de l'article 15-4 de la loi n° 84-610 du 16 juillet 1984, modifié par l'article 8 de la loi n° 99-1124 du 28 décembre 1999, relative à l'organisation et la promotion des activités physiques et sportives ;
+- des dispositions des articles L. 211-4 et L. 211-5 du code du sport ;
 
 - du décret n° 2001-831 du 6 septembre 2001 ;
 
@@ -266,7 +266,7 @@ A l'issue de la formation faisant l'objet de la convention de formation (y compr
 
 Il est expressément précisé que l'obligation susvisée n'incombera au bénéficiaire que si la société du club lui propose, par écrit, de conclure un contrat de travail de joueur de rugby à XIII visé par l'article L. 122-1-1 (3°) du code du travail, et conforme au statut du joueur professionnel, au plus tard soixante jours (date de l'envoi postal recommandé faisant foi) avant la date de clôture de la période des mutations définie par la Fédération française de rugby à XIII lors de la dernière année d'exécution de la présente convention.
 
-Conformément aux dispositions de l'article 15-4 de la loi du 16 juillet 1984 modifiée, la durée du contrat de travail de joueur de rugby à XIII proposé par la société du club ne peut excéder trois années.
+Conformément aux dispositions des articles L. 211-4 et L. 211-5 du code du sport, la durée du contrat de travail de joueur de rugby à XIII proposé par la société du club ne peut excéder trois années.
 
 11.2. Refus du premier contrat de joueur de rugby professionnel.
 

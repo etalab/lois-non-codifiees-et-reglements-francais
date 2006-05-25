@@ -28,7 +28,7 @@ Ils précisent également :
 
 Les statuts prévoient :
 
-1.2.1. Que la fédération est composée d'associations sportives constituées dans les conditions prévues par le chapitre II du titre Ier de la loi n° 84-610 du 16 juillet 1984 ;
+1.2.1. Que la fédération est composée d'associations sportives constituées dans les conditions prévues par l'article L. 222-6 à L. 222-11 du code du sport ;
 
 1.2.2. (Le cas échéant), les conditions dans lesquelles la fédération groupe également une ou plusieurs catégories suivantes de membres :
 
@@ -52,7 +52,7 @@ Les organismes régionaux, départementaux ou locaux constitués par la fédéra
 
 1.3.3. Dans les cas prévus aux 1.3.1 et 1.3.2, et lorsque les organismes nationaux, régionaux ou départementaux sont constitués sous forme d'associations, le mode de scrutin pour la désignation de leurs instances dirigeantes ainsi que le principe de la compatibilité des statuts de ces organismes avec les statuts de la fédération ;
 
-1.3.4. (Le cas échéant), que la fédération constitue une ligue professionnelle dans les conditions prévues au II de l'article 17 de la loi n° 84-610 du 16 juillet 1984.
+1.3.4. (Le cas échéant), que la fédération constitue une ligue professionnelle dans les conditions prévues aux articles L. 132-1 et L. 132-2 du code du sport.
 
 1.4. Les licenciés
 

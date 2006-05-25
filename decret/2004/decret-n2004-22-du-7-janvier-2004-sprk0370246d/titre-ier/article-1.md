@@ -1,12 +1,12 @@
 # Article 1
 
-Les fédérations sportives qui sollicitent l'agrément prévu au III de l'article 16 de la loi du 16 juillet 1984 susvisée doivent :
+Les fédérations sportives qui sollicitent l'agrément prévu à l'article L. 131-8 du code du sport doivent :
 
-1° Avoir adopté des statuts comportant des dispositions qui, conformément à l'article 8 de la loi du 16 juillet 1984 susvisée, garantissent leur fonctionnement démocratique, la transparence de leur gestion et l'égal accès des femmes et des hommes à leurs instances dirigeantes, et qui comprennent les dispositions obligatoires prévues au titre Ier de l'annexe I au présent décret ;
+1° Avoir adopté des statuts comportant des dispositions qui, conformément aux articles L. 111-1, L. 121-4 et L. 321-9 du code du sport, garantissent leur fonctionnement démocratique, la transparence de leur gestion et l'égal accès des femmes et des hommes à leurs instances dirigeantes, et qui comprennent les dispositions obligatoires prévues au titre Ier de l'annexe I au présent décret ;
 
 2° Avoir adopté un règlement disciplinaire conforme au règlement disciplinaire type figurant à l'annexe II au présent décret ;
 
-3° Avoir adopté un règlement disciplinaire particulier en matière de lutte contre le dopage conforme aux prescriptions de l'article L. 3634-1 du code de la santé publique ;
+3° Avoir adopté un règlement disciplinaire particulier en matière de lutte contre le dopage conforme aux prescriptions de l'article L. 232-21 du code du sport ;
 
 4° Justifier d'une existence d'au moins trois ans ;
 

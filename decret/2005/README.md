@@ -35,6 +35,7 @@
 - [Décret n°2005-1632 du 26 décembre 2005 (JUSD0530148D)](decret-n2005-1632-du-26-decembre-2005-jusd0530148d)
 - [Décret n° 2005-556 du 27 mai 2005 (INTD0500133D)](decret-n-2005-556-du-27-mai-2005-intd0500133d)
 - [Décret n°2005-1220 du 28 septembre 2005 (AGRP0501561D)](decret-n2005-1220-du-28-septembre-2005-agrp0501561d)
+- [Décret n°2005-1718 du 28 décembre 2005 (MJSK0570250D)](decret-n2005-1718-du-28-decembre-2005-mjsk0570250d)
 - [Décret n°2005-1731 du 29 décembre 2005 (SOCF0512374D)](decret-n2005-1731-du-29-decembre-2005-socf0512374d)
 - [Décret n°2005-1734 du 29 décembre 2005 (BUDF0500052D)](decret-n2005-1734-du-29-decembre-2005-budf0500052d)
 - [Décret n°2005-1758 du 29 décembre 2005 (SANA0523997D)](decret-n2005-1758-du-29-decembre-2005-sana0523997d)

@@ -76,7 +76,7 @@ b) Vingt-trois représentants du mouvement sportif désignés sur proposition du
 
 c) Deux représentants du Conseil national des associations de jeunesse et d'éducation populaire (CNAJEP) désignés sur proposition de celui-ci ;
 
-d) Un représentant des fédérations agréées au titre de l'article 16 de la loi du 16 juillet 1984 susvisée et n'adhérant pas au Comité national olympique et sportif français ;
+d) Un représentant des fédérations agréées au titre des articles L. 111-1, L. 131-1 à L. 131-9, L. 131-11 à L. 131-13 du code du sport et n'adhérant pas au Comité national olympique et sportif français ;
 
 e) Un représentant du mouvement associatif dans le secteur social, désigné sur proposition du ministre chargé de l'économie sociale ;
 
@@ -118,13 +118,13 @@ b) Un représentant des industries du sport ;
 
 c) Un représentant des commerces d'articles de sport ;
 
-d) Un représentant des organisateurs de manifestations sportives mentionnés à l'article 18 de la loi du 16 juillet 1984 susvisée ;
+d) Un représentant des organisateurs de manifestations sportives mentionnés à l'article L. 331-5 du code du sport ;
 
-e) Un représentant des sociétés commerciales mentionnées à l'article 11 de la même loi ;
+e) Un représentant des sociétés commerciales mentionnées aux articles L. 122-1 à L. 122-3, L. 122-12, L. 122-14 à L. 122-19 de ce même code ;
 
 6° Sept représentants des éducateurs sportifs et des enseignants intervenant dans le domaine des activités physiques et sportives :
 
-a) Quatre éducateurs sportifs exerçant des fonctions définies à l'article 43 de la loi du 16 juillet 1984 susvisée, dont un appartenant à la fonction publique territoriale ;
+a) Quatre éducateurs sportifs exerçant des fonctions définies aux articles L. 212-1 à L. 212-4 du code du sport, dont un appartenant à la fonction publique territoriale ;
 
 b) Un enseignant relevant du ministre chargé des sports ;
 
@@ -142,6 +142,6 @@ c) Un représentant des associations de protection de la nature agréées au tit
 
 d) Deux représentants d'associations de chasse et de pêche, désignés sur proposition des ministres chargés de ces secteurs ;
 
-e) Un représentant des commissions départementales des espaces, sites et itinéraires relatifs aux sports de nature mentionnées à l'article 50-2 de la loi du 16 juillet 1984 susvisée ;
+e) Un représentant des commissions départementales des espaces, sites et itinéraires relatifs aux sports de nature mentionnées à l'article L. 311-3 du code du sport ;
 
 8° Dix-huit personnalités qualifiées choisies en raison de leurs compétences dans le domaine des activités physiques et sportives.
