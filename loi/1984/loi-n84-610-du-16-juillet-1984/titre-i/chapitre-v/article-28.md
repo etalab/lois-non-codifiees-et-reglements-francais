@@ -1,3 +1,0 @@
-# Article 28
-
-Les sportifs de haut niveau, sans remplir les conditions de dîplomes éxigées des candidats, peuvent faire acte de candidature aux concours de l'Etat, des départements, des communes, des établissements publics nationaux, départementaux et communaux et de tout établissement en dépendant, ainsi que de toute société nationale ou d'économie mixte. Le statut particulier du corps des professeurs de sport peut fixer une proportion d'emplois réservés aux sportifs de haut niveau, même n'appartenant pas à l'administration, ayant figuré pendant trois ans au moins sur la liste visée à l'article 26 de la présente loi. Les candidats devront satisfaire aux épreuves d'un concours de sélection spécifique.

@@ -1,16 +1,3 @@
 # Chapitre X : La sécurité des équipements et des manifestations sportives.
 
 - [Article 42-1](article-42-1.md)
-- [Article 42-2](article-42-2.md)
-- [Article 42-3](article-42-3.md)
-- [Article 42-4](article-42-4.md)
-- [Article 42-5](article-42-5.md)
-- [Article 42-6](article-42-6.md)
-- [Article 42-7](article-42-7.md)
-- [Article 42-7-1](article-42-7-1.md)
-- [Article 42-8](article-42-8.md)
-- [Article 42-9](article-42-9.md)
-- [Article 42-10](article-42-10.md)
-- [Article 42-11](article-42-11.md)
-- [Article 42-12](article-42-12.md)
-- [Article 42-13](article-42-13.md)
