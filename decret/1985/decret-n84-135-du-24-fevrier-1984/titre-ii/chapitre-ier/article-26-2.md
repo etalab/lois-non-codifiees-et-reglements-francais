@@ -1,6 +1,6 @@
 # Article 26-2
 
-Peuvent faire acte de candidature aux fonctions de chefs de clinique des universités - assistants des hôpitaux, les titulaires de l'un des diplômes, certificats ou titres mentionnés à l'article L. 356-2 (1°) du code de la santé publique, remplissant l'une des conditions suivantes :
+Peuvent faire acte de candidature aux fonctions de chef de clinique des universités-assistant des hôpitaux les titulaires d'un des diplômes, certificats ou titres mentionnés à l'article L. 4131-1 du code de la santé publique et les personnes autorisées individuellement par le ministre chargé de la santé, dans les conditions définies à l'article L. 4111-2 du code la santé publique, à exercer la profession de médecin, remplissant l'une des conditions suivantes :
 
 1° Avoir obtenu un diplôme d'études spécialisées ;
 

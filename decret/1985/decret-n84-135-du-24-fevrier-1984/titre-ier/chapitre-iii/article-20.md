@@ -16,7 +16,7 @@ Les peines disciplinaires applicables aux praticiens hospitaliers-universitaires
 
 Lorsque le licenciement d'un praticien hospitalier-universitaire est envisagé, il est d'abord mis fin au détachement de ce dernier, puis l'autorité disciplinaire compétente en ce qui concerne les praticiens hospitaliers, est saisie du dossier.
 
-Les peines disciplinaires applicables aux chefs de clinique des universités-assistants des hôpitaux et aux assistants hospitaliers universitaires sont les suivantes :
+Les peines disciplinaires applicables aux chefs de clinique des universités-assistants des hôpitaux, aux assistants hospitaliers universitaires et aux assistants hospitaliers universitaires des disciplines pharmaceutiques sont les suivantes :
 
 1° L'avertissement ;
 

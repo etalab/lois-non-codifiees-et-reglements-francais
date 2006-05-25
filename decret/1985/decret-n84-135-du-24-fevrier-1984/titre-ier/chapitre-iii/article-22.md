@@ -1,8 +1,8 @@
 # Article 22
 
-La juridiction disciplinaire comprend [*composition*] :
+La juridiction disciplinaire comprend :
 
-1° Un président et un président suppléant, désignés pour trois ans [*durée du mandat*] par arrêté conjoint du ministre chargé de l'enseignement supérieur et du ministre chargé de la santé choisis soit parmi les conseillers d'Etat, soit parmi les professeurs de l'enseignement supérieur ;
+1° Un président et un président suppléant, désignés pour trois ans par arrêté conjoint du ministre chargé de l'enseignement supérieur et du ministre chargé de la santé choisis soit parmi les conseillers d'Etat, soit parmi les professeurs de l'enseignement supérieur ;
 
 2° Trois membres titulaires et trois suppléants, nommés pour trois ans par le ministre chargé de l'enseignement supérieur et choisis en dehors des personnels enseignants et hospitaliers, des personnels enseignants et des personnels hospitaliers des centres hospitaliers et universitaires ;
 
@@ -18,8 +18,8 @@ Lorsque la juridiction disciplinaire est appelée à se prononcer sur le cas d'u
 
 Lorsque la juridiction disciplinaire est appelée à se prononcer sur le cas d'un membre des personnels mentionnés au 6°, elle est complétée par deux membres, l'un désigné par le ministre chargé de l'enseignement supérieur parmi les membres suppléants nommés en application du 2°, l'autre désigné par le ministre chargé de la santé parmi les membres suppléants nommés en application du 3°.
 
-Les électeurs sont répartis en trois [*nombre*] collèges : médecine, chirurgie, biologie.
+Les électeurs sont répartis en trois collèges : médecine, chirurgie, biologie.
 
 Si, à l'issue du scrutin, tous les membres prévus aux 4°, 5°, 6° et les membres supplémentaires prévus aux deux alinéas précédents n'ont pas été élus, la juridiction disciplinaire est complétée successivement par les personnes inscrites sur les listes électorales qui ont la plus grande ancienneté dans le grade le plus élevé dans le corps ou la catégorie correspondante. A égalité d'ancienneté, ces personnes sont désignées au bénéfice de l'âge et, le cas échéant, il sera procédé au tirage au sort pour départager les personnes ayant la même ancienneté et le même âge.
 
-Un arrêté conjoint des ministres respectivement chargés des universités et de la santé détermine les modalités d'organisation et de déroulement des opérations électorales, ainsi que le rattachement des disciplines aux différents collèges.
+Un arrêté des ministres chargés de l'enseignement supérieur et de la santé détermine les modalités d'organisation et de déroulement des opérations électorales, ainsi que le rattachement des disciplines aux différents collèges.

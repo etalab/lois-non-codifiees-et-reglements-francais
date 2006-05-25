@@ -1,6 +1,6 @@
 # Article 49
 
-Les candidats non médecins reçus aux concours mentionnés à l'article précédent peuvent exercer des fonctions hospitalières ne nécessitant pas d'actes médicaux dans les disciplines suivantes :
+Les candidats non médecins reçus aux concours mentionnés à l'article 48 du présent décret peuvent exercer des fonctions hospitalières ne nécessitant pas d'actes médicaux dans les disciplines suivantes :
 
 1° Cytologie et histologie ;
 
