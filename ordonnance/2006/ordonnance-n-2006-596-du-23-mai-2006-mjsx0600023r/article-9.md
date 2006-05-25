@@ -1,0 +1,9 @@
+# Article 9
+
+Pour l'application de l'article L. 212-1 du code du sport, et dans la période qui précède l'inscription des diplômes, titres à finalité professionnelle ou certificats de qualification sur la liste mentionnée au III dudit article, qui ne peut excéder le 30 août 2007, restent en vigueur les dispositions résultant des trois premiers alinéas de l'article 43 de la loi n° 84-610 du 16 juillet 1984 relative à l'organisation et à la promotion des activités physiques et sportives, dans leur rédaction issue de l'article 24 de la loi n° 92-652 du 13 juillet 1992 modifiant la loi n° 84-610 du 16 juillet 1984 relative à l'organisation et à la promotion des activités physiques et sportives et portant diverses dispositions relatives à ces activités, rappelées ci-dessous :
+
+" Nul ne peut enseigner, encadrer ou animer contre rémunération une activité physique ou sportive, à titre d'occupation principale ou secondaire, de façon régulière, saisonnière ou occasionnelle, ni prendre le titre de professeur, moniteur, éducateur, entraîneur ou tout autre titre similaire, s'il n'est titulaire d'un diplôme inscrit, en fonction du niveau de formation auquel il correspond et des professions auxquelles il donne accès, sur une liste d'homologation des diplômes des activités physiques et sportives.
+
+" L'inscription sur cette liste des diplômes délivrés par l'Etat et des diplômes français ou étrangers admis en équivalence est de droit.
+
+" Un décret en Conseil d'Etat fixe les conditions d'inscription sur la liste d'homologation des diplômes délivrés, notamment par les fédérations sportives, à l'issue de formations reconnues par l'Etat après avis d'une commission comprenant des représentants de l'administration, du mouvement sportif et des professions intéressées. Seuls peuvent être homologués les diplômes correspondant à une qualification professionnelle qui n'est pas couverte par un diplôme d'Etat. "
