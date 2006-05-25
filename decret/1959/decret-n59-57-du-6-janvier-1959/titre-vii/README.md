@@ -1,3 +1,0 @@
-# TITRE VII : DE L'EDUCATION PHYSIQUE ET SPORTIVE
-
-- [Article 46](article-46.md)
