@@ -22,19 +22,7 @@ Industrie.
 
 NOM DE LA SOCIETE
 
-Financière du Nord - Pas-de-Calais (Finorpa)
-
-NOMBRE de représentants de l'Etat au conseil d'administration ou de surveillance
-
-1
-
-REPARTITION PAR MINISTERE
-
-Industrie.
-
-NOM DE LA SOCIETE
-
-Société commerciale des potasses et de l'azote
+EMC SA
 
 NOMBRE de représentants de l'Etat au conseil d'administration ou de surveillance
 
@@ -45,70 +33,6 @@ REPARTITION PAR MINISTERE
 Economie.
 
 Industrie.
-
-NOM DE LA SOCIETE
-
-Société des autoroutes Estérel-Côte d'Azur
-
-NOMBRE de représentants de l'Etat au conseil d'administration :
-
-A l'issue de l'assemblée générale du 12 mars 2002 de la Société des autoroutes Estérel-C<CB>te d'Azur, le nombre de représentants de l'Etat au conseil d'administration est fixé à trois.
-
-REPARTITION PAR MINISTERE
-
-- un représentant du ministre chargé de l'équipement ;
-
-- un représentant du ministre chargé de l'économie ;
-
-- un représentant du ministre chargé des collectivités locales.
-
-NOM DE LA SOCIETE
-
-Société des autoroutes Paris-Normandie
-
-NOMBRE de représentants de l'Etat au conseil d'administration ou de surveillance
-
-3
-
-REPARTITION PAR MINISTERE
-
-Collectivités territoriales.
-
-Economie.
-
-Transports.
-
-NOM DE LA SOCIETE
-
-Société des autoroutes Rhône-Alpes
-
-NOMBRE de représentants de l'Etat au conseil d'administration ou de surveillance
-
-3
-
-REPARTITION PAR MINISTERE
-
-Collectivités territoriales.
-
-Economie.
-
-Transports.
-
-NOM DE LA SOCIETE
-
-Société des autoroutes du sud de la France
-
-NOMBRE de représentants de l'Etat au conseil d'administration :
-
-A l'issue de l'assemblée de la Société des autoroutes du sud de la France du 13 mars 2002, le nombre de représentants de l'Etat au conseil d'administration est fixé à quatre, ce nombre étant porté à cinq lorsque le nombre d'administrateurs en fonctions atteint quatorze.
-
-REPARTITION PAR MINISTERE :
-
-- Deux représentants du ministre chargé de l'équipement ;
-
-- Deux représentants du ministre chargé de l'économie ;
-
-- Lorsque le nombre de représentants de l'Etat est porté à cinq, un représentant du ministre chargé des collectivités locales.
 
 NOM DE LA SOCIETE
 
