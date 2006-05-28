@@ -1,6 +1,6 @@
 # Article 4
 
-A la diligence du directeur départemental des impôts (Domaines) ou de l'ingénieur en chef du Service maritime des Ponts et Chaussées et par l'intermédiaire du préfet du département qui leur en fera notification, la ou les communes sur le territoire desquelles les travaux doivent être réalisés, le ou les départements et les syndicats de communes dont font partie les communes susvisées et les sociétés d'économie mixte agissant pour le compte de ces collectivités seront tenus informés de toutes les demandes de concessions d'endigage ou de création et d'usage des plages artificielles et invités à faire connaître au préfet, dans un délai maximum de six mois, s'ils désirent faire valoir leur droit de préférence.
+A la diligence du directeur départemental des impôts (Domaines) ou de l'ingénieur en chef du Service maritime des Ponts et Chaussées et par l'intermédiaire du préfet du département qui leur en fera notification, la ou les communes sur le territoire desquelles les travaux doivent être réalisés, le ou les départements et les syndicats de communes dont font partie les communes susvisées et les sociétés d'économie mixte agissant pour le compte de ces collectivités seront tenus informés de toutes les demandes de concessions d'endigage et invités à faire connaître au préfet, dans un délai maximum de six mois, s'ils désirent faire valoir leur droit de préférence.
 
 Le silence gardé par la collectivité intéressée pendant plus de six mois à compter de cette notification vaut renonciation à son droit de préférence.
 
