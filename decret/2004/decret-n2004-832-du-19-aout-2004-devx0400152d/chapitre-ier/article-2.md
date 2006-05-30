@@ -1,6 +1,6 @@
 # Article 2
 
-I. - Pour chaque période pluriannuelle prévue au I de l'article L. 229-8 du code de l'environnement, un projet de plan national d'affectation des quotas d'émission de gaz à effet de serre est élaboré par le ministre chargé de l'environnement et soumis à l'avis d'une commission dont la composition est fixée par décret.
+I. - Pour chaque période pluriannuelle prévue au I de l'article L. 229-8 du code de l'environnement, un projet de plan national d'affectation des quotas d'émission de gaz à effet de serre est élaboré par le ministre chargé de l'environnement et soumis à l'avis d'une commission dont la composition est fixée par arrêté du ministre chargé de l'environnement pris après avis des ministres intéressés.
 
 II. - Le projet, éventuellement modifié pour tenir compte de l'avis de la commission, est mis à la disposition du public et des exploitants par voie électronique. Il peut être consulté dans les préfectures.
 

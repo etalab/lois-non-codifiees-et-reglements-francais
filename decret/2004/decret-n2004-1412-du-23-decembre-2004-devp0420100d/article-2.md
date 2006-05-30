@@ -18,7 +18,7 @@ I. - Les missions de la Caisse des dépôts et consignations au titre du présen
 
 - l'annulation des quotas ;
 
-4° L'enregistrement des opérations mentionnées au 3° ci-dessus portant sur toutes les unités échangeables émises dans le cadre du protocole de Kyoto ;
+4° L'enregistrement des opérations mentionnées au 3° ci-dessus portant sur les unités de réduction des émissions et les unités de réduction d'émissions certifiées visées à l'article L. 229-22 du code de l'environnement.
 
 5° Le blocage d'un compte, sur instruction du ministre chargé de l'environnement, en cas d'application de l'article 13 du décret du 19 août 2004 susvisé ;
 
