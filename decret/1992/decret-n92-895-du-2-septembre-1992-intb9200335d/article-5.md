@@ -1,7 +1,13 @@
 # Article 5
 
-Pour la spécialité Arts plastiques, les épreuves sont les suivantes :
+Pour la spécialité "arts plastiques", les épreuves sont les suivantes :
 
-1° Un exposé oral suivi d'une conversation avec le jury sur un sujet proposant à la réflexion du candidat, une question relative à la création artistique, à l'histoire de l'art et à l'enseignement des arts (durée : quinze minutes ; coefficient 2) ;
+1° Un cours dispensé à un groupe d'élèves dans la classe et l'établissement du candidat (durée : une heure ; coefficient 3).
 
-2° Un entretien avec le jury à partir du dossier du candidat et d'un rapport établi par l'autorité territoriale, le candidat étant autorisé à produire toute pièce dont il juge utile de faire état (durée : quinze minutes ; coefficient 3).
+A l'issue de cette épreuve, les examinateurs mentionnés à l'article 8 ci-dessous rendent au jury un rapport argumenté, assorti d'une proposition de notation, sur la prestation du candidat ;
+
+2° Pour les disciplines autres que la discipline "professeur chargé de direction" : un entretien ayant pour point de départ un exposé du candidat sur son expérience, ses compétences, sa motivation et son projet pédagogique.
+
+Pour la discipline "professeur chargé de direction" : un entretien sur les connaissances administratives et les capacités de gestion du candidat à diriger un établissement.
+
+Pour toutes les disciplines, le dossier du candidat, comprenant le dossier professionnel qu'il a constitué au moment de son inscription, un rapport établi par l'autorité territoriale et, le cas échéant, toute pièce dont il juge utile de faire état, est remis aux correcteurs préalablement à cette épreuve (durée : vingt minutes ; coefficient 2).
