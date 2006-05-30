@@ -2,7 +2,7 @@
 
 1. La marque de salubrité utilisée pour les viandes fraîches doit être recouverte d'une croix en diagonale consistant en deux lignes droites se croisant au centre de l'estampille en permettant que les indications figurant sur celle-ci restent lisibles.
 
-2. La marque visée au point 1 peut également être apposée à l'aide d'une estampille unique sous la forme d'une estampille ovale de 6,5 cm de longueur sur 4,5 cm de hauteur ; les indications suivantes doivent apparaître sur la marque en caractères parfaitement lisibles :
+2. La marque visée au point 1 peut également être apposée à l'aide d'une estampille unique sous la forme d'une estampille ovale de 7,5 cm de longueur sur 5,5 cm de hauteur ; les indications suivantes doivent apparaître sur la marque en caractères parfaitement lisibles :
 
 - dans la partie supérieure : FR ;
 
