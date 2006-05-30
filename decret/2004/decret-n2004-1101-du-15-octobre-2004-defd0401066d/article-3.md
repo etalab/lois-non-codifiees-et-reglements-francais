@@ -10,4 +10,8 @@ Le Président de la République, le Premier ministre, le ministre de la défense
 
 Le ministre chargé de la sécurité intérieure, les chefs militaires, le délégué général pour l'armement, le directeur général de la gendarmerie nationale ;
 
+2.1. Pour la brigade de sapeurs-pompiers de Paris :
+
+Le préfet de police ;
+
 3. Exceptionnellement, une autorité étrangère que le Président de la République ou l'un des membres du Gouvernement précités veut honorer.
