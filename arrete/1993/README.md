@@ -526,7 +526,6 @@
 - [Arrêté du 18 janvier 1993 (MERP9300013A)](arrete-du-18-janvier-1993-merp9300013a)
 - [Arrêté du 18 janvier 1993 (SPSS9203101A)](arrete-du-18-janvier-1993-spss9203101a)
 - [Arrêté du 18 mars 1993](arrete-du-18-mars-1993)
-- [Arrêté du 18 mars 1993 (AGRG9300288A)](arrete-du-18-mars-1993-agrg9300288a)
 - [Arrêté du 18 mars 1993 (DEFP9301334A)](arrete-du-18-mars-1993-defp9301334a)
 - [Arrêté du 18 mars 1993 (ECOC9300040A)](arrete-du-18-mars-1993-ecoc9300040a)
 - [Arrêté du 18 mars 1993 (ECOC9300056A)](arrete-du-18-mars-1993-ecoc9300056a)
