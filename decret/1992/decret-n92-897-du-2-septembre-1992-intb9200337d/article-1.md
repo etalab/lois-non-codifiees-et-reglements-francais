@@ -1,13 +1,5 @@
 # Article 1
 
-L'examen professionnel d'accès par voie de promotion interne au cadre d'emplois des assistants territoriaux spécialisés d'enseignement artistique mentionné à l'article 5 du décret du 2 septembre 1991 susvisé comporte :
+L'examen professionnel d'accès par voie de promotion interne aux spécialités "musique", "danse" et "arts plastiques" du cadre d'emplois des assistants territoriaux spécialisés d'enseignement artistique mentionné à l'article 5 du décret du 2 septembre 1991 susvisé consiste en un entretien ayant pour point de départ un exposé du candidat sur son expérience, sa motivation et son projet pédagogique.
 
-1° Pour les spécialités Musique et danse :
-
-a) Un examen du dossier administratif du candidat et du rapport établi par l'autorité territoriale. Le candidat est autorisé à produire toute pièce dont il juge utile de faire état (coefficient 1) ;
-
-b) Un entretien avec le jury (durée : vingt minutes ; coefficient 1).
-
-2° Pour la spécialité Arts plastiques :
-
-Une épreuve orale composée d'un entretien avec le jury sur un sujet relatif à l'expérience professionnelle antérieure du candidat (durée : vingt minutes).
+Le dossier du candidat, comprenant le dossier professionnel qu'il a constitué au moment de son inscription, un rapport établi par l'autorité territoriale et, le cas échéant, toute pièce dont il juge utile de faire état, est remis aux correcteurs préalablement à cette épreuve (durée : vingt minutes).
