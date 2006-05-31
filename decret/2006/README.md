@@ -549,6 +549,7 @@
 - [Décret n°2006-493 du 28 avril 2006 (AGRP0600691D)](decret-n2006-493-du-28-avril-2006-agrp0600691d)
 - [Décret n°2006-495 du 28 avril 2006 (DEFD0600422D)](decret-n2006-495-du-28-avril-2006-defd0600422d)
 - [Décret n°63-893 du 28 août 1963](decret-n63-893-du-28-aout-1963)
+- [Décret n°94-943 du 28 octobre 1994 (EQUP9401380D)](decret-n94-943-du-28-octobre-1994-equp9401380d)
 - [Décret n°2005-1708 du 29 décembre 2005 (JUSJ0590021D)](decret-n2005-1708-du-29-decembre-2005-jusj0590021d)
 - [Décret n°2005-1760 du 29 décembre 2005 (SANA0524672D)](decret-n2005-1760-du-29-decembre-2005-sana0524672d)
 - [Décret n°2005-1761 du 29 décembre 2005 (SANS0524152D)](decret-n2005-1761-du-29-decembre-2005-sans0524152d)
