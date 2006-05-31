@@ -1,0 +1,5 @@
+# Article 19
+
+En cas de transit de marchandises non communautaires sur le territoire national, et en accord avec l'organisme officiel du point de destination, les contrôles d'identité et les contrôles phytosanitaires peuvent être effectués, en tout ou en partie, par l'organisme officiel du point de destination dans les conditions définies par les articles 20 à 24 du présent arrêté.
+
+Dans un tel cas, les agents visés au I de l'article L. 251-18 du code rural responsables du point dentrée délivrent, à l'issue du contrôle, un document phytosanitaire de transport attestant de sa réalisation. Les informations devant figurer sur ce document sont précisées dans le modèle de document en annexe VII de cet arrêté. Ces agents certifient, en apposant le cachet du service et la date, sur ce document que le contrôle documentaire a été effectué. Ils mentionnent sur ce document le montant correspondant à la première part de la redevance phytosanitaire visées à l'article L. 251-17 du code rural. Les agents des douanes du point d'entrée perçoivent le montant de redevance phytosanitaire correspondant à cette première part.
