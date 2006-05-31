@@ -444,7 +444,6 @@
 - [Arrêté du 23 novembre 2001 (AGRG0102351A)](arrete-du-23-novembre-2001-agrg0102351a)
 - [Arrêté du 23 novembre 2001 (DEFP0102361A)](arrete-du-23-novembre-2001-defp0102361a)
 - [Arrêté du 23 novembre 2001 (MESS0123998A)](arrete-du-23-novembre-2001-mess0123998a)
-- [Arrêté du 23 octobre 2001 (AGRR0102096A)](arrete-du-23-octobre-2001-agrr0102096a)
 - [Arrêté du 23 mai 2000 (INTE0000312A)](arrete-du-23-mai-2000-inte0000312a)
 - [Arrêté du 23 mai 2001 (MESG0120958A)](arrete-du-23-mai-2001-mesg0120958a)
 - [Arrêté du 24 août 2001 (AGRG0101212A)](arrete-du-24-aout-2001-agrg0101212a)

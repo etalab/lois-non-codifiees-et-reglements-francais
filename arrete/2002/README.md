@@ -71,7 +71,6 @@
 - [Arrêté du 2 mai 2002 (MESS0221673A)](arrete-du-2-mai-2002-mess0221673a)
 - [Arrêté du 2 mai 2002 (MJSK0270071A)](arrete-du-2-mai-2002-mjsk0270071a)
 - [Arrêté du 2 mai 2002 (SANP0221717A)](arrete-du-2-mai-2002-sanp0221717a)
-- [Arrêté du 3 avril 2002 (AGRR0200776A)](arrete-du-3-avril-2002-agrr0200776a)
 - [Arrêté du 3 avril 2002 (AGRR0200904A)](arrete-du-3-avril-2002-agrr0200904a)
 - [Arrêté du 3 avril 2002 (AGRR0200905A)](arrete-du-3-avril-2002-agrr0200905a)
 - [Arrêté du 3 avril 2002 (CPTE0200037A)](arrete-du-3-avril-2002-cpte0200037a)
