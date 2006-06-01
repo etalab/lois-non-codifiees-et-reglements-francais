@@ -10,7 +10,6 @@
 - [Décret n°97-815 du 1 septembre 1997 (FPPA9700104D)](decret-n97-815-du-1-septembre-1997-fppa9700104d)
 - [Décret n°97-888 du 1 octobre 1997 (MESP9722540D)](decret-n97-888-du-1-octobre-1997-mesp9722540d)
 - [Décret n°97-889 du 1 octobre 1997 (MESP9722541D)](decret-n97-889-du-1-octobre-1997-mesp9722541d)
-- [Décret n°97-892 du 1 octobre 1997 (AGRA9701622D)](decret-n97-892-du-1-octobre-1997-agra9701622d)
 - [Décret n°97-904 du 1 octobre 1997 (AGRB9701725D)](decret-n97-904-du-1-octobre-1997-agrb9701725d)
 - [Décret n°97-905 du 1 octobre 1997 (ATEN9750027D)](decret-n97-905-du-1-octobre-1997-aten9750027d)
 - [Décret n°97-917 du 1 octobre 1997 (ECOC9700146D)](decret-n97-917-du-1-octobre-1997-ecoc9700146d)
