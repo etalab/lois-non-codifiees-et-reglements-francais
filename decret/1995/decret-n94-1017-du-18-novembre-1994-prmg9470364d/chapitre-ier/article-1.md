@@ -32,7 +32,7 @@ b) Corps d'établissements publics de l'Etat :
 
 - secrétaires administratifs de l'Office national des forêts ;
 
-- secrétaires administratifs de l'Office national interprofessionnel des céréales ;
+- secrétaires administratifs de l'Office national interprofessionnel des grandes cultures et de l'Agence unique de paiement ;
 
 - secrétaires techniques de la Caisse des dépôts et consignations.
 

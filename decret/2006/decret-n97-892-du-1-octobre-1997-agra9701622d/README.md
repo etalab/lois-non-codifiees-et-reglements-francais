@@ -3,3 +3,4 @@
 - [TITRE Ier : DISPOSITIONS PERMANENTES.](titre-ier)
 - [TITRE II : DISPOSITIONS TRANSITOIRES.](titre-ii)
 - [TITRE III : DISPOSITIONS FINALES.](titre-iii)
+- [Article 56](article-56.md)

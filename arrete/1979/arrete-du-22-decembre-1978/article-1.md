@@ -40,4 +40,10 @@ Ex 3824.90, 52, émulsion d'eau dans du gazole sous condition d'emploi : mêmes 
 
 Ex 3824.90, 53, émulsion d'eau dans du gazole : utilisation dans des moteurs Diesel entraînant des véhicules dont la masse en charge techniquement admissible est supérieure à 3,5 tonnes, faisant partie d'une flotte professionnelle disposant d'une logistique d'approvisionnement spécifique, et dans les moteurs Diesel entraînant des engins ferroviaires.
 
-* Indices correspondant à ceux repris dans le tableau B du 1 de l'article 265 du code des douanes.
+NUMÉROS du tarif douanier 1 : 38 24 90 99
+
+INDICE d'identification 2 : A fixer au tableau B de l'article 265 du code des douanes
+
+DÉSIGNATION DES PRODUITS 3 : Superéthanol composé d'un maximum de 85 % d'alcool éthylique d'origine agricole et d'un minimum de 15 % de supercarburant.
+
+USAGES AUTORISÉS 4 : Utilisation dans les moteurs thermiques à allumage commandé, faisant partie d'une flotte captive disposant d'une logistique d'approvisionnement spécifique.
