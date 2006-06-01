@@ -214,6 +214,7 @@
 - [Décret n°88-1153 du 27 décembre 1988 (JUSC8820841D)](decret-n88-1153-du-27-decembre-1988-jusc8820841d)
 - [Décret n°88-88 du 27 janvier 1988 (ASES8701745D)](decret-n88-88-du-27-janvier-1988-ases8701745d)
 - [Décret n°87-361 du 27 mai 1987 (AGRS8700949D)](decret-n87-361-du-27-mai-1987-agrs8700949d)
+- [Décret n°49-1655 du 28 décembre 1949](decret-n49-1655-du-28-decembre-1949)
 - [Décret n°78-721 du 28 juin 1978](decret-n78-721-du-28-juin-1978)
 - [Décret n°88-1012 du 28 octobre 1988 (MENU8801507D)](decret-n88-1012-du-28-octobre-1988-menu8801507d)
 - [Décret n°88-1015 du 28 octobre 1988 (EQUX8800138D)](decret-n88-1015-du-28-octobre-1988-equx8800138d)
