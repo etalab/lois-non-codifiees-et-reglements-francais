@@ -1,6 +1,6 @@
 # Article 2
 
-Le corps des secrétaires administratifs de l'Office national interprofessionnel des céréales comprend trois grades :
+Le corps des secrétaires administratifs de l'Office national interprofessionnel des grandes cultures et de l'Agence unique de paiement comprend trois grades :
 
 - le grade de secrétaire administratif de classe normale ;
 

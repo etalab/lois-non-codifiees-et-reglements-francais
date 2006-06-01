@@ -11,6 +11,7 @@
 - [Décret n°2006-96 du 1 février 2006 (ECOP0500988D)](decret-n2006-96-du-1-fevrier-2006-ecop0500988d)
 - [Décret n°2006-97 du 1 février 2006 (ECOP0500989D)](decret-n2006-97-du-1-fevrier-2006-ecop0500989d)
 - [Décret n°2006-99 du 1 février 2006 (SANP0523167D)](decret-n2006-99-du-1-fevrier-2006-sanp0523167d)
+- [Décret n°97-892 du 1 octobre 1997 (AGRA9701622D)](decret-n97-892-du-1-octobre-1997-agra9701622d)
 - [Décret n°2005-938 du 2 août 2005 (INTC0500203D)](decret-n2005-938-du-2-aout-2005-intc0500203d)
 - [Décret n°2005-939 du 2 août 2005 (INTC0500202D)](decret-n2005-939-du-2-aout-2005-intc0500202d)
 - [Décret n°2005-940 du 2 août 2005 (INTC0500204D)](decret-n2005-940-du-2-aout-2005-intc0500204d)

@@ -1,6 +1,6 @@
 # Article 3
 
-Les fonctionnaires du corps des secrétaires administratifs de l'Office national interprofessionnel des céréales sont notamment chargés, sous l'autorité de fonctionnaires de catégorie A :
+Les fonctionnaires du corps des secrétaires administratifs de l'Office national interprofessionnel des grandes cultures et de l'Agence unique de paiement sont notamment chargés, sous l'autorité de fonctionnaires de catégorie A :
 
 1° Du contrôle de l'application des réglementations nationales et communautaires aux céréales et produits dérivés ;
 

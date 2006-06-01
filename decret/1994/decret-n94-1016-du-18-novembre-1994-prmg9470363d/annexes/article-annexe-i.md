@@ -78,4 +78,4 @@ Secrétaires administratifs du ministère de l'économie, des finances et de l'i
 
 Secrétaires administratifs du ministère de la défense.
 
-Secrétaires administratifs de l'Office national interprofessionnel des céréales et contrôleurs du travail.
+Secrétaires administratifs de l'Office national interprofessionnel des grandes cultures et de l'Agence unique de paiement et contrôleurs du travail.
