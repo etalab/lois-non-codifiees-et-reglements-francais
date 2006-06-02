@@ -178,6 +178,7 @@
 - [Arrêté du 19 février 1986](arrete-du-19-fevrier-1986)
 - [Arrêté du 19 janvier 2006 (AGRG0600212A)](arrete-du-19-janvier-2006-agrg0600212a)
 - [Arrêté du 19 janvier 2006 (JUSK0640012A)](arrete-du-19-janvier-2006-jusk0640012a)
+- [Arrêté du 19 mars 2006 (MCCB0600350A)](arrete-du-19-mars-2006-mccb0600350a)
 - [Arrêté du 19 mai 2006 (SANP0622121A)](arrete-du-19-mai-2006-sanp0622121a)
 - [Arrêté du 19 mai 2006 (SANP0622180A)](arrete-du-19-mai-2006-sanp0622180a)
 - [Arrêté du 20 avril 2006 (SANP0621715A)](arrete-du-20-avril-2006-sanp0621715a)

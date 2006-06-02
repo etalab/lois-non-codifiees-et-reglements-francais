@@ -1,6 +1,7 @@
 # 2006
 
 - [Ordonnance n° 2005-1088 du 1 septembre 2005 (SANX0500168R)](ordonnance-n-2005-1088-du-1-septembre-2005-sanx0500168r)
+- [Ordonnance n° 2006-637 du 1 juin 2006 (DEFX0600015R)](ordonnance-n-2006-637-du-1-juin-2006-defx0600015r)
 - [Ordonnance n° 2005-652 du 6 juin 2005 (MCCX0500082R)](ordonnance-n-2005-652-du-6-juin-2005-mccx0500082r)
 - [Ordonnance n° 2006-407 du 6 avril 2006 (ECOX0600003R)](ordonnance-n-2006-407-du-6-avril-2006-ecox0600003r)
 - [Ordonnance n° 2006-433 du 13 avril 2006 (SOCX0600050R)](ordonnance-n-2006-433-du-13-avril-2006-socx0600050r)
