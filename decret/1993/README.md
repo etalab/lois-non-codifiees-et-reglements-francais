@@ -801,7 +801,6 @@
 - [Décret n°93-525 du 27 mars 1993 (FPPA9300022D)](decret-n93-525-du-27-mars-1993-fppa9300022d)
 - [Décret n°93-533 du 27 mars 1993 (MENT9300199D)](decret-n93-533-du-27-mars-1993-ment9300199d)
 - [Décret n°93-534 du 27 mars 1993 (MENT9300200D)](decret-n93-534-du-27-mars-1993-ment9300200d)
-- [Décret n°93-535 du 27 mars 1993 (MENT9300202D)](decret-n93-535-du-27-mars-1993-ment9300202d)
 - [Décret n°93-536 du 27 mars 1993 (MENZ9304938D)](decret-n93-536-du-27-mars-1993-menz9304938d)
 - [Décret n°93-537 du 27 mars 1993 (MENL9304846D)](decret-n93-537-du-27-mars-1993-menl9304846d)
 - [Décret n°93-538 du 27 mars 1993 (MENZ9304891D)](decret-n93-538-du-27-mars-1993-menz9304891d)

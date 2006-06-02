@@ -733,7 +733,6 @@
 - [Arrêté du 29 juillet 2005 (DEVP0540333A)](arrete-du-29-juillet-2005-devp0540333a)
 - [Arrêté du 29 juillet 2005 (JUSB0510475A)](arrete-du-29-juillet-2005-jusb0510475a)
 - [Arrêté du 29 juillet 2005 (MCCB0500510A)](arrete-du-29-juillet-2005-mccb0500510a)
-- [Arrêté du 29 juin 2005 (AGRM0501476A)](arrete-du-29-juin-2005-agrm0501476a)
 - [Arrêté du 29 juin 2005 (DEFP0500720A)](arrete-du-29-juin-2005-defp0500720a)
 - [Arrêté du 29 juin 2005 (MAEF0510058A)](arrete-du-29-juin-2005-maef0510058a)
 - [Arrêté du 29 juin 2005 (SOCN0510936A)](arrete-du-29-juin-2005-socn0510936a)
