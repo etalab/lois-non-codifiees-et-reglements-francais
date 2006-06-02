@@ -540,6 +540,7 @@
 - [Décret n°2006-91 du 27 janvier 2006 (AGRS0502874D)](decret-n2006-91-du-27-janvier-2006-agrs0502874d)
 - [Décret n°2006-92 du 27 janvier 2006 (AGRS0502876D)](decret-n2006-92-du-27-janvier-2006-agrs0502876d)
 - [Décret n°85-1390 du 27 décembre 1985](decret-n85-1390-du-27-decembre-1985)
+- [Décret n°93-535 du 27 mars 1993 (MENT9300202D)](decret-n93-535-du-27-mars-1993-ment9300202d)
 - [Décret n°2005-1677 du 28 décembre 2005 (JUSC0520842D)](decret-n2005-1677-du-28-decembre-2005-jusc0520842d)
 - [Décret n°2005-1678 du 28 décembre 2005 (JUSC0520938D)](decret-n2005-1678-du-28-decembre-2005-jusc0520938d)
 - [Décret n°2005-1679 du 28 décembre 2005 (JUSK0540088D)](decret-n2005-1679-du-28-decembre-2005-jusk0540088d)
