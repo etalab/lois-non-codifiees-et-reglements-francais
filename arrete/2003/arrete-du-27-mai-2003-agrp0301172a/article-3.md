@@ -4,4 +4,4 @@ Pour le chanvre brut relevant du code NC 5302.10.00 et les graines de chanvre de
 
 Pour le chanvre brut, la détermination du taux de THC est réalisée sur la matière première débarrassée des graines et des tiges. Pour les graines de chanvre destinées à l'ensemencement, ce constituant est quantifié dans les plantes issues de ces semences. Dans tous les cas, l'échantillonnage doit être approprié à la quantité importée.
 
-L'opérateur fournira également l'engagement de produire à l'ONIOL, dans un délai maximum de dix jours ouvrables après la réalisation de l'importation, les justificatifs et étiquettes des semences importées permettant d'établir la réalité de l'opération.
+L'opérateur fournira également l'engagement de produire à l'Office national interprofessionnel des grandes cultures, dans un délai maximum de dix jours ouvrables après la réalisation de l'importation, les justificatifs et étiquettes des semences importées permettant d'établir la réalité de l'opération.

@@ -16,4 +16,4 @@ A cet effet, l'importateur constitue un dossier dans lequel figure :
 
 - réexportation vers un pays tiers.
 
-L'opérateur doit présenter, à l'appui de sa demande de certificat, son justificatif d'agrément et l'engagement à produire auprès de l'ONIOL les documents attestant que les graines de chanvre faisant l'objet du certificat ont subi, dans un délai de douze mois, une des opérations pour obtenir l'agrément.
+L'opérateur doit présenter, à l'appui de sa demande de certificat, son justificatif d'agrément et l'engagement à produire auprès de l'Office national interprofessionnel des grandes cultures les documents attestant que les graines de chanvre faisant l'objet du certificat ont subi, dans un délai de douze mois, une des opérations pour obtenir l'agrément.
