@@ -95,6 +95,7 @@
 - [Décret n°2006-23 du 5 janvier 2006 (BUDB0560048D)](decret-n2006-23-du-5-janvier-2006-budb0560048d)
 - [Décret n°2006-410 du 5 avril 2006 (MCCK0600151D)](decret-n2006-410-du-5-avril-2006-mcck0600151d)
 - [Décret n°94-786 du 5 septembre 1994 (PRMP9460004D)](decret-n94-786-du-5-septembre-1994-prmp9460004d)
+- [Décret n°99-79 du 5 février 1999 (MCCT9900011D)](decret-n99-79-du-5-fevrier-1999-mcct9900011d)
 - [Décret n°2006-515 du 5 mai 2006 (BUDB0610057D)](decret-n2006-515-du-5-mai-2006-budb0610057d)
 - [Décret n°2006-516 du 5 mai 2006 (EQUT0502004D)](decret-n2006-516-du-5-mai-2006-equt0502004d)
 - [Décret n°2006-517 du 5 mai 2006 (INTD0600087D)](decret-n2006-517-du-5-mai-2006-intd0600087d)
