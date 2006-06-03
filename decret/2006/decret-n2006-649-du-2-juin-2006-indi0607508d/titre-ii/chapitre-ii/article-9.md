@@ -1,0 +1,3 @@
+# Article 9
+
+Les demandes d'autorisation et les déclarations sont adressées, par lettre recommandée avec avis de réception, au préfet du département où doivent être entrepris les travaux. Le préfet en accuse réception, selon les modalités prévues par les articles 1er et 2 du décret du 6 juin 2001 susvisé lorsqu'il s'agit de demandes d'autorisation. Lorsque les travaux doivent s'étendre sur plusieurs départements, les demandes ou les déclarations sont adressées au préfet du département où sont prévus les travaux les plus importants. Le cas échéant, le ministre chargé des mines, à l'initiative du préfet saisi, désigne le préfet compétent.

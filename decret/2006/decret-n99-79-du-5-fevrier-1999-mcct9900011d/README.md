@@ -3,3 +3,4 @@
 - [Titre Ier : Dispositions générales](titre-ier)
 - [Titre II : Subventions à la modernisation de la presse quotidienne et assimilée d'information politique et générale](titre-ii)
 - [Titre III : Dotation d'un fonds de garantie aux concours financiers destinés au financement de projets de modernisation](titre-iii)
+- [Article 19](article-19.md)

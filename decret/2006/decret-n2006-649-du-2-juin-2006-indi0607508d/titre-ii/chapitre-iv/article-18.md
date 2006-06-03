@@ -1,0 +1,9 @@
+# Article 18
+
+Le préfet communique la déclaration aux services intéressés qui disposent d'un délai d'un mois pour faire connaître leurs observations. Lorsque la demande porte sur le fond de la mer, il la communique en outre au préfet maritime et à l'Institut français de recherche pour l'exploitation de la mer (IFREMER) qui disposent du même délai.
+
+Il adresse également la déclaration, pour information, aux maires des communes sur le territoire desquelles sont prévus les travaux ; ceux-ci en informent le public par voie d'affichage.
+
+Dans tous les cas où les travaux projetés sont de nature à porter atteinte aux intérêts énumérés à l'article 79 du code minier, le préfet fait connaître au déclarant, dans le délai de deux mois suivant la réception du dossier complet, les prescriptions qu'il se propose d'édicter, notamment celles demandées, le cas échéant, par le préfet maritime. Le demandeur dispose d'un délai de quinze jours pour présenter ses observations éventuelles par écrit, directement ou par un mandataire, sur les prescriptions envisagées. A l'issue de ce délai, le préfet dispose d'un délai de quinze jours pour donner acte de la déclaration initiale et édicter celles des prescriptions proposées que lui-même ou, le cas échéant, le préfet maritime estime nécessaires. Ce dernier délai est porté à un mois lorsque des prescriptions ont été demandées par le préfet maritime. Faute de prescriptions édictées par le préfet dans ces délais, le déclarant peut entreprendre les travaux.
+
+Lorsque le préfet n'a pas fait usage de la procédure prévue à l'alinéa précédent, le déclarant peut entreprendre les travaux à l'issue d'un délai de deux mois suivant la réception du dossier complet.
