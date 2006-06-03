@@ -1,5 +1,0 @@
-# Article 18
-
-A l'issue de la consultation, et au vu des observations et des avis recueillis, le préfet établit un rapport contenant ses propositions et, s'il y a lieu, les prescriptions spéciales qu'il se propose d'édicter. Communication en est faite au demandeur, qui dispose d'un délai de quinze jours pour présenter ses observations éventuelles par écrit, directement ou par un mandataire. Ces observations sont tenues à la disposition du public pendant une semaine dans les lieux où il a été procédé à la consultation. Le préfet statue sur la demande soit par un arrêté motivé de refus d'autorisation, soit par un arrêté d'autorisation assorti des prescriptions spéciales. Un extrait de l'arrêté est publié dans les mêmes journaux que ceux indiqués à l'article 17.
-
-Si le préfet ne prend pas d'arrêté, son silence gardé pendant plus d'un an sur la demande mentionnée à l'article 4 vaut décision de rejet.

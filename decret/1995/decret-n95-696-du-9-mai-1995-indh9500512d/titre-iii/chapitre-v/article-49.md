@@ -1,7 +1,0 @@
-# Article 49
-
-Pour l'application des dispositions du premier alinéa de l'article 92 du code minier, l'exploitant informe le ou les préfets concernés, au plus tard lors de la présentation de la déclaration d'arrêt des travaux, de l'existence d'installations hydrauliques servant en tout ou en partie, et, dans ce dernier cas, en précisant dans quelle proportion, à l'assainissement, à la distribution de l'eau ou à la maîtrise des eaux pluviales, de ruissellement et souterraines, ainsi que des droits et obligations afférents à ces installations. Il en donne, pour chacune d'elles, la description, la localisation, le plan ainsi que le coût de la dernière année de fonctionnement effectif.
-
-Le préfet fait publier au Recueil des actes administratifs de la préfecture la mention que ces informations ont été transmises par l'exploitant et qu'il peut en être pris connaissance à la préfecture.
-
-Les collectivités intéressées ou établissements publics de coopération intercommunale compétents mentionnés à l'article 92 du code minier disposent d'un délai de six mois, à compter de la publication prévue au précédent alinéa, pour faire savoir s'ils demandent le transfert de tout ou partie des installations. A défaut de réponse dans le délai imparti, ils sont réputés avoir renoncé à demander le transfert. Dans ce cas, l'exploitant confirme au préfet son intention de cesser l'exploitation desdites installations.
