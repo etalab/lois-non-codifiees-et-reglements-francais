@@ -1,6 +1,6 @@
-# Article 9
+# Article 8
 
-Les critères d'attribution des subventions et avances, destinées au financement de projets de modernisation et décidées par le ministre chargé de la communication, sont :
+Les critères d'attribution des subventions destinées au financement de projets de modernisation sont :
 
 a) La situation de l'entreprise ;
 
@@ -14,9 +14,7 @@ e) Son coût net pour celle-ci ;
 
 f) L'effet du projet sur l'emploi.
 
-Il est tenu compte, pour l'attribution des subventions et avances destinées au financement de projets de modernisation, de la nature et des caractéristiques de la catégorie de publications à laquelle appartient l'entreprise.
-
-Les avances remboursables sont versées net de frais de gestion.
+Il est tenu compte, pour l'attribution des subventions destinées au financement de projets de modernisation, de la nature et des caractéristiques de la catégorie de publications à laquelle appartient l'entreprise.
 
 Pour la détermination de l'assiette des subventions et des avances destinées au financement de projets de modernisation, sont prises en considération, dans la mesure où elles sont liées au projet de modernisation et strictement nécessaires à la réalisation de celui-ci, et sur la base de leur montant hors taxes, les dépenses suivantes :
 

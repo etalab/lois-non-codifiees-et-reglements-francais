@@ -1,6 +1,6 @@
-# Article 4
+# Article 5
 
-Le comité d'orientation mentionné à l'avant-dernier alinéa de l'article 62 de la loi de finances pour 1998 comprend :
+Le comité d'orientation comprend :
 
 1° Un membre du Conseil d'Etat, président ;
 
@@ -23,5 +23,3 @@ Le comité d'orientation mentionné à l'avant-dernier alinéa de l'article 62 d
 Pour chaque membre titulaire, il est nommé un suppléant.
 
 Le président et les membres du comité sont nommés par arrêté du ministre chargé de la communication pour un mandat de trois ans renouvelable. Lorsqu'un membre cesse d'exercer son mandat par suite de démission ou pour toute autre cause, ou lorsqu'il perd la qualité en raison de laquelle il a été désigné, un nouveau membre est nommé selon les mêmes modalités pour la durée du mandat restant à courir.
-
-Le comité d'orientation peut entendre, sur proposition du président, toute personne qualifiée.

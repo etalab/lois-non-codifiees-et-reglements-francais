@@ -33,7 +33,6 @@
 - [Décret n°2002-466 du 5 avril 2002 (MESH0220983D)](decret-n2002-466-du-5-avril-2002-mesh0220983d)
 - [Décret n°2002-470 du 5 avril 2002 (EQUT0200191D)](decret-n2002-470-du-5-avril-2002-equt0200191d)
 - [Décret n°2002-471 du 5 avril 2002 (EQUR0200187D)](decret-n2002-471-du-5-avril-2002-equr0200187d)
-- [Décret n°99-79 du 5 février 1999 (MCCT9900011D)](decret-n99-79-du-5-fevrier-1999-mcct9900011d)
 - [Décret n°95-569 du 6 mai 1995 (SPSH9501452D)](decret-n95-569-du-6-mai-1995-spsh9501452d)
 - [Décret n°2002-1064 du 7 août 2002 (PRMX0205836D)](decret-n2002-1064-du-7-aout-2002-prmx0205836d)
 - [Décret n°2002-1244 du 7 octobre 2002 (SANH0222772D)](decret-n2002-1244-du-7-octobre-2002-sanh0222772d)
