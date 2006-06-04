@@ -112,6 +112,8 @@
 - [Arrêté du 12 mai 2006 (AGRG0600923A)](arrete-du-12-mai-2006-agrg0600923a)
 - [Arrêté du 12 mai 2006 (DEFD0600469A)](arrete-du-12-mai-2006-defd0600469a)
 - [Arrêté du 12 mai 2006 (MJSK0670094A)](arrete-du-12-mai-2006-mjsk0670094a)
+- [Arrêté du 12 mai 2006 (SOCF0611156A)](arrete-du-12-mai-2006-socf0611156a)
+- [Arrêté du 12 mai 2006 (SOCF0611157A)](arrete-du-12-mai-2006-socf0611157a)
 - [Arrêté du 13 avril 2006 (SOCO0610714A)](arrete-du-13-avril-2006-soco0610714a)
 - [Arrêté du 13 décembre 2005 (EQUG0501372A)](arrete-du-13-decembre-2005-equg0501372a)
 - [Arrêté du 13 février 2006 (BUDD0670006A)](arrete-du-13-fevrier-2006-budd0670006a)
