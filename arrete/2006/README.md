@@ -254,6 +254,7 @@
 - [Arrêté du 24 octobre 2005 (AGRG0502385A)](arrete-du-24-octobre-2005-agrg0502385a)
 - [Arrêté du 24 octobre 2005 (CETX0508825A)](arrete-du-24-octobre-2005-cetx0508825a)
 - [Arrêté du 24 mai 2006 (AGRG0600999A)](arrete-du-24-mai-2006-agrg0600999a)
+- [Arrêté du 24 mai 2006 (MAEA0620130A)](arrete-du-24-mai-2006-maea0620130a)
 - [Arrêté du 24 mai 2006 (SANP0622221A)](arrete-du-24-mai-2006-sanp0622221a)
 - [Arrêté du 24 mai 2006 (SANP0622223A)](arrete-du-24-mai-2006-sanp0622223a)
 - [Arrêté du 24 mai 2006 (SANP0622225A)](arrete-du-24-mai-2006-sanp0622225a)
