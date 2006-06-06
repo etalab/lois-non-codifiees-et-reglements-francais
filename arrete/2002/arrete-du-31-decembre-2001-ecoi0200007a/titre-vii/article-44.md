@@ -12,7 +12,9 @@ En vue de l'obtention d'une marque d'identification, les réparateurs ou install
 
 - le ou les numéros SIRET de leurs établissements, agences, succursales ou représentations.
 
-Les fabricants d'instruments de mesure ou leurs mandataires, ainsi que les importateurs d'instruments, demandent dans les mêmes conditions l'attribution d'une marque d'identification lorsque l'arrêté réglementant la catégorie ou le certificat d'examen de type prévoit l'apposition de celle-ci sur les scellements ou sur d'autres parties de l'instrument.
+Les fabricants d'instruments de mesure ou leurs mandataires, ainsi que les importateurs d'instruments, demandent dans les mêmes conditions l'attribution d'une marque d'identification lorsque l'arrêté réglementant la catégorie ou le certificat d'examen de type prévoit l'apposition de celle-ci sur des parties de l'instrument ou si l'instrument comporte des scellements.
+
+Le fabricant appose sa marque d'identification sur les scellements. Sauf disposition particulière de l'arrêté catégoriel, un réparateur appose également sa marque sur tous les scellements, y compris ceux qui n'ont pas été affectés lors de l'intervention.
 
 Lorsque la demande est présentée par un fabricant, un réparateur ou un installateur établi dans un autre Etat membre de l'Union européenne, elle est adressée à la direction régionale de l'industrie, de la recherche et de l'environnement d'Ile-de-France. En cas d'activités limitées à une région limitrophe de l'Etat dont le demandeur est ressortissant, la demande peut toutefois être adressée à la direction régionale territorialement compétente. La copie de l'immatriculation au registre du commerce ou au répertoire des métiers et le numéro SIRET sont remplacés par les pièces et informations équivalentes en vigueur dans le pays du demandeur.
 
