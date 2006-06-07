@@ -136,6 +136,7 @@
 - [Décret n°2006-414 du 6 avril 2006 (SANA0620836D)](decret-n2006-414-du-6-avril-2006-sana0620836d)
 - [Décret n°2006-415 du 6 avril 2006 (SANS0621086D)](decret-n2006-415-du-6-avril-2006-sans0621086d)
 - [Décret n°2006-416 du 6 avril 2006 (AGRP0600332D)](decret-n2006-416-du-6-avril-2006-agrp0600332d)
+- [Décret n°2006-660 du 6 juin 2006 (INTD0600114D)](decret-n2006-660-du-6-juin-2006-intd0600114d)
 - [Décret n°2006-518 du 6 mai 2006 (INTC0600092D)](decret-n2006-518-du-6-mai-2006-intc0600092d)
 - [Décret n°2006-519 du 6 mai 2006 (INTC0600093D)](decret-n2006-519-du-6-mai-2006-intc0600093d)
 - [Décret n°2006-139 du 7 février 2006 (AGRP0502494D)](decret-n2006-139-du-7-fevrier-2006-agrp0502494d)
