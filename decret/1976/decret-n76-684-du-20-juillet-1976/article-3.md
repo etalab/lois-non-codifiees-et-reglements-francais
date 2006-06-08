@@ -1,5 +1,3 @@
 # Article 3
 
-Des sections peuvent être créées au sein de la commission pour étudier certains problèmes particuliers, et notamment ceux relatifs à certains secteurs d'activité. Leur présidence est assurée soit par le président de la commission, soit par le représentant de l'un des ministères concernés.
-
-Ces sections peuvent s'adjoindre des personnalités qualifiées, désignées par le président de la commission en accord avec les représentants des départements ministériels concernés.
+La commission peut s'adjoindre des représentants des ministères chargés respectivement de l'économie et des finances, de la défense, de la justice, du commerce et de l'artisanat et des personnalités qualifiées. Ces membres sont désignés par le président de la commission.

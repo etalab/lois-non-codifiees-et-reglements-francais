@@ -4,56 +4,48 @@ La commission interministérielle du transport des matières dangereuses est com
 
 1. Membres de droit
 
-Le directeur des transports terrestres ou son représentant.
+- le directeur général de la mer et des transports ou son représentant ;
 
-Le directeur de la sécurité et de la circulation routières ou son représentant.
+- le directeur des affaires maritimes ou son représentant ;
 
-Le directeur général de l'aviation civile ou son représentant.
+- le directeur général de la sûreté nucléaire et de la radioprotection ou son représentant ;
 
-Le directeur des affaires maritimes et des gens de mer ou son représentant.
+- le directeur général des routes ou son représentant ;
 
-Le directeur du transport maritime, des ports et du littoral ou son représentant.
+- le directeur des transports maritimes, routiers et fluviaux ou son représentant ;
 
-Le directeur de la surêté des installations nucléaires ou son représentant.
+- le directeur de l'action régionale de la qualité et de la sécurité industrielle ou son représentant ;
 
-Le directeur des routes ou son représentant.
+- le directeur général des entreprises ou son représentant ;
 
-Le directeur de l'action régionale et de la petite et moyenne industrie ou son représentant.
-
-Le directeur général de l'industrie, des technologies de l'information et des postes ou son représentant.
-
-Le directeur de la sécurité civile ou son représentant.
-
-Le délégué général pour l'armement ou son représentant.
-
-Le directeur général des douanes et des droits indirects ou son représentant.
-
-Le directeur général de la gendarmerie nationale ou son représentant.
-
-Le directeur de la prévention des pollutions et des risques ou son représentant.
-
-Le directeur général de la santé ou son représentant.
-
-Le directeur des relations du travail ou son représentant.
-
-Le directeur des affaires criminelles et des grâces ou son représentant.
+- le chef d'état major de la marine ou son représentant.
 
 2. Membres nommés pour une durée de trois ans par arrêté du ministre chargé des transports
 
-Huit représentants des laboratoires, organismes chargés des contrôles et des organismes de formation.
+- huit représentants des laboratoires, organismes chargés des contrôles et des organismes de formation ;
 
-Deux représentants de la Société nationale des chemins de fer français.
+- deux représentants de la Société nationale des chemins de fer français ;
 
-Un représentant des Voies navigables de France.
+- un représentant des Voies navigables de France ;
 
-Un représentant d'Air France.
+- un représentant d'Air France ;
 
-Dix représentants des transporteurs (distributeurs) et des loueurs.
+- dix représentants des transporteurs (distributeurs) et des loueurs ;
 
-Cinq représentants des industries productrices de matières dangereuses.
+- cinq représentants des industries productrices de matières dangereuses ;
 
-Deux représentants des constructeurs de véhicules à moteur et de véhicules remorques.
+- deux représentants des constructeurs de véhicules à moteur et de véhicules remorques ;
 
-Deux agents chargés du contrôle du transport des matières dangereuses.
+- trois agents chargés du contrôle des matières dangereuses ;
 
-Cinq personnalités qualifiées.
+- quatre personnalités qualifiées ;
+
+- trois représentants d'Armateurs de France ;
+
+- trois représentants des organisations syndicales les plus représentatives sur le plan national du personnel navigant (transport maritime) ;
+
+- trois représentants des organisations syndicales les plus représentatives sur le plan national des agents (transport terrestre) ;
+
+- un représentant de la Fédération française des sociétés d'assurances ;
+
+- un représentant des entreprises de manutention portuaire.

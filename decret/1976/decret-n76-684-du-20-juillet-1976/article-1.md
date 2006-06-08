@@ -1,3 +1,3 @@
 # Article 1
 
-Il est institué auprès des ministres chargés de l'équipement, de l'artisanat et de l'industrie une commission technique de la sous-traitance.
+Il est institué auprès du ministre chargé de l'équipement une commission technique spécialisée de la sous-traitance en matière de bâtiments et travaux publics.

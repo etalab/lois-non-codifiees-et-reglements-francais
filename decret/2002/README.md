@@ -44,6 +44,7 @@
 - [Décret n°2002-41 du 8 janvier 2002 (MJSK0170206D)](decret-n2002-41-du-8-janvier-2002-mjsk0170206d)
 - [Décret n°2002-477 du 8 avril 2002 (EQUU0200569D)](decret-n2002-477-du-8-avril-2002-equu0200569d)
 - [Décret n°2002-39 du 9 janvier 2002 (MESP0123909D)](decret-n2002-39-du-9-janvier-2002-mesp0123909d)
+- [Décret n°2002-484 du 9 avril 2002 (EQUX0205489D)](decret-n2002-484-du-9-avril-2002-equx0205489d)
 - [Décret n°2002-488 du 9 avril 2002 (MJSK0270014D)](decret-n2002-488-du-9-avril-2002-mjsk0270014d)
 - [Décret n°2002-992 du 9 juillet 2002 (DOMA0200030D)](decret-n2002-992-du-9-juillet-2002-doma0200030d)
 - [Décret n°78-1067 du 9 novembre 1978](decret-n78-1067-du-9-novembre-1978)
