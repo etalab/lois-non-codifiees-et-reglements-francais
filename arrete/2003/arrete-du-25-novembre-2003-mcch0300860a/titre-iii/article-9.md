@@ -2,7 +2,7 @@
 
 Ces commissions examinent respectivement les demandes d'aide à la création chorégraphique émanant des régions appartenant aux zones suivantes :
 
-Zone A : Ile-de-France, Guadeloupe, Guyane, La Réunion, Martinique ;
+Zone A : Ile-de-France, La Réunion ;
 
 Zone B : Alsace, Champagne-Ardenne, Franche-Comté, Lorraine, Nord - Pas-de-Calais, Picardie ;
 

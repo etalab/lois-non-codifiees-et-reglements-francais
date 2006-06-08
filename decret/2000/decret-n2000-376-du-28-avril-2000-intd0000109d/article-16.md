@@ -24,36 +24,24 @@ Les autorisations de port d'arme sont délivrées à l'entreprise par le préfet
 
 6° L'article 12 est remplacé par les dispositions suivantes :
 
-Il est créé à Mayotte une commission de la sécurité des transports de fonds.
+I. - Il est créé à Mayotte une commission de la sécurité des transports de fonds.
 
 La commission peut être consultée sur toute question relative à la sécurité des collectes et transports de fonds à Mayotte, ainsi qu'à la sécurité du traitement des moyens de paiement par les entreprises.
 
-Elle est présidée par le préfet.
+II. - La commission de la sécurité des transports de fonds est présidée par le préfet. Elle comprend en outre :
 
-Elle comprend :
+1° Des représentants des services de l'Etat désignés par le préfet ;
 
-- le trésorier-payeur général ou son représentant ;
+2° Le directeur de l'agence de Mayotte de l'Institut d'émission des départements d'outre-mer ;
 
-- le chef des services de sécurité publique ou son représentant ;
+3° Deux maires désignés par l'Association des maires de Mayotte ;
 
-- le commandant de la compagnie de gendarmerie ou son représentant ;
+4° Deux représentants locaux des établissements de crédit, désignés par le préfet ;
 
-- le directeur de l'équipement ou son représentant ;
+5° Deux représentants des établissements commerciaux de grande surface, désignés par le préfet ;
 
-- le directeur du travail, de l'emploi et de la formation professionnelle ou son représentant ;
+6° Deux représentants des entreprises de transport de fonds, désignés par le préfet ;
 
-- le directeur du service des transports maritimes ou son représentant ;
-
-- le directeur de l'agence de Mayotte de l'institut d'émission des départements d'outre-mer ou son représentant ;
-
-- deux maires désignés par l'association des maires de Mayotte ;
-
-- deux représentants des établissements de crédit, désignés par le préfet ;
-
-- deux représentants des entreprises de transport de fonds, désignés par le préfet ;
-
-- deux convoyeurs de fonds, désignés par le préfet.
-
-La commission se réunit au moins une fois par an. Elle peut entendre toute personne dont l'audition lui paraît utile.
+7° Deux convoyeurs de fonds, désignés par le préfet.
 
 Le procureur de la République près le tribunal de première instance est informé des réunions de la commission, ainsi que des avis émis par celle-ci. Il participe, sur sa demande, à ses réunions.

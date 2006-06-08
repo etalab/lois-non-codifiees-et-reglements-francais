@@ -50,7 +50,9 @@ i) Pour les réquisitions : nature de la demande, nom du requérant, paramètres
 
 2. Au titre de la gestion comptable :
 
-Les informations liées aux fonctions comptables des bureaux des hypothèques en matière de comptabilité générale, comptabilité des usagers, surveillance de l'apurement de leurs comptes, taxation des actes déposés. Sont enregistrés notamment : nom, profession, adresse, type d'usager, code titre, références bancaires, numéro d'usager.
+- Les informations liées aux fonctions comptables des bureaux des hypothèques en matière de comptabilité générale, comptabilité des usagers, surveillance de l'apurement de leurs comptes, taxation des actes déposés. Sont enregistrés notamment : nom, profession, adresse, type d'usager, code titre, références bancaires, numéro d'usager.
+
+- pour les formalités et réquisitions transmises par les notaires à partir du serveur Téléctes, les données relatives au virement bancaire, notamment : les nom, titre, numéro d'identification, adresse électronique et coordonnées téléphoniques de l'étude notariale, coordonnées bancaires, référence et montant du virement.
 
 3. Au titre de l'aide à la gestion et au suivi des travaux des bureaux des hypothèques :
 
