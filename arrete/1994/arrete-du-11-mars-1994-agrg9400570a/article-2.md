@@ -2,7 +2,7 @@
 
 La vaccination des porcs contre la maladie d'Aujeszky est réglementée selon les modalités ci-après :
 
-Un arrêté préfectoral pris sur proposition du directeur des services vétérinaires, après avis du comité départemental de lutte contre la maladie d'Aujeszky, fixe :
+Un arrêté préfectoral pris sur proposition du directeur des services vétérinaires, après avis du conseil départemental de la santé et de la protection animales, fixe :
 
 a) La ou les parties de département où :
 

@@ -142,7 +142,7 @@ Commission consultative de la transplantation, arrêté du 6 juin 1989.
 
 Commission des maladies mentales, arrêté du 8 septembre 1987.
 
-Conseil départemental d'hygiène mentionné à l'article L. 776 du code de la santé publique.
+Conseil départemental de l'environnement et des risques sanitaires et technologiques mentionné à l'article L. 776 du code de la santé publique.
 
 Commissions régionales ou interrégionales de conciliation et d'indemnisation des accidents médicaux, des affections iatrogènes et des infections nosocomiales (art. R. 1142-5 du code de la santé publique).
 

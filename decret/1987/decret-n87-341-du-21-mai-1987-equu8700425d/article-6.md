@@ -1,7 +1,11 @@
 # Article 6
 
-La commission se réunit au moins une fois par an en séance plénière, sur convocation de son président qui fixe l'ordre du jour de chaque séance. Celui-ci est tenu de la réunir à la demande du tiers au moins de ses membres ou à celle du comité permanent.
+La commission peut créer en son sein un comité permanent pour exercer tout ou partie des compétences prévues au II de l'article L. 571-13 du code de l'environnement. La création de ce comité permanent est de droit pour les commissions consultatives de l'environnement des aérodromes mentionnés au I de l'article 1609 quatervicies A du code général des impôts.
 
-La commission peut entendre, sur invitation du président, toutes les personnes dont l'audition lui paraît utile.
+Le comité permanent est présidé par le préfet ou son représentant et composé de membres de chacune des trois catégories définies à l'article 4, dans les mêmes proportions.
 
-En outre, assistent aux réunions de la commission ou du comité permanent, sans voix délibérative lorsqu'ils n'en sont pas déjà membres, les maires ou leurs représentants, dès lors qu'une opération projetée sur le territoire de leur commune est examinée en séance.
+Ce comité instruit les questions à soumettre à la commission consultative de l'environnement et délibère sur les affaires qui lui sont soumises par le président de la commission, notamment en raison de leur urgence. Il rend compte de son activité à la commission.
+
+Le comité permanent constitue la commission prévue par l'article L. 571-16 du code de l'environnement pour émettre un avis sur le contenu du plan de gêne sonore et sur l'affectation des aides destinées à atténuer les nuisances subies par les riverains.
+
+Lorsque le comité permanent siège en cette qualité, les représentants de l'Etat et du gestionnaire d'aérodrome assistent avec voix délibérative à ses réunions, conformément à l'article L. 571-16. Un arrêté conjoint des ministres chargés de l'économie, de l'aviation civile et de l'écologie détermine les modalités d'application de cet alinéa.

@@ -4,4 +4,4 @@ Sans préjudice de l'application des dispositions du code rural et du code péna
 
 - la suspension temporaire de l'habilitation, prononcée par le directeur de l'établissement départemental ou interdépartemental de l'élevage ;
 
-- le retrait définitif de cette habilitation, prononcée par le directeur de l'établissement départemental ou interdépartemental de l'élevage, après avis de la commission départementale d'identification.
+- le retrait définitif de cette habilitation, prononcée par le directeur de l'établissement départemental ou interdépartemental de l'élevage, après avis du conseil départemental de la santé et de la protection animales.

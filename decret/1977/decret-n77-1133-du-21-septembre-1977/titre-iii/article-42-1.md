@@ -1,3 +1,3 @@
 # Article 42-1
 
-Dans le cas des carrières et de leurs installations annexes, la commission départementale des carrières est consultée, pour l'application du présent décret, aux lieu et place du conseil départemental d'hygiène.
+Dans le cas des carrières et de leurs installations annexes, la commission départementale de la nature, des paysages et des sites est consultée, pour l'application du présent décret, en lieu et place de la commission compétente en matière d'environnement et de risques sanitaires et technologiques.

@@ -8,4 +8,4 @@ Il indique que le schéma départemental des carrières peut être consulté à 
 
 Le schéma départemental des carrières est adressé au conseil général.
 
-Il est également adressé aux commissions départementales des carrières des départements voisins.
+Il est également adressé aux commissions départementales de la nature, des paysages et des sites des départements voisins.

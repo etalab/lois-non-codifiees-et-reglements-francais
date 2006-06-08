@@ -4,7 +4,7 @@ Pour les installations, ouvrages, travaux ou activités soumis à autorisation, 
 
 A la demande du ministre de la défense, le préfet disjoint du dossier soumis à l'enquête publique et aux consultations les éléments de nature à entraîner la divulgation de secrets de défense nationale.
 
-Les résultats de l'enquête publique ainsi que les avis recueillis notamment, s'il y a lieu, auprès du comité technique permanent des barrages, sont transmis par le préfet au ministre de la défense qui fait établir un rapport sur la demande d'autorisation et sur les résultats de l'enquête publique et le transmet au préfet, avec les prescriptions envisagées, pour présentation au conseil départemental d'hygiène et information du pétitionnaire dans les conditions prévues au deuxième alinéa de l'article 7 du décret n° 93-742 du 29 mars 1993 susvisé.
+Les résultats de l'enquête publique ainsi que les avis recueillis notamment, s'il y a lieu, auprès du comité technique permanent des barrages, sont transmis par le préfet au ministre de la défense qui fait établir un rapport sur la demande d'autorisation et sur les résultats de l'enquête publique et le transmet au préfet, avec les prescriptions envisagées, pour présentation au conseil départemental de l'environnement et des risques sanitaires et technologiques et information du pétitionnaire dans les conditions prévues au deuxième alinéa de l'article 7 du décret n° 93-742 du 29 mars 1993 susvisé.
 
 Le ministre de la défense statue par arrêté dans le délai de trois mois fixé au deuxième alinéa de l'article 8 du décret n° 93-742 du 29 mars 1993. En cas d'impossibilité de statuer dans ce délai, il fixe, par arrêté motivé, un délai complémentaire.
 

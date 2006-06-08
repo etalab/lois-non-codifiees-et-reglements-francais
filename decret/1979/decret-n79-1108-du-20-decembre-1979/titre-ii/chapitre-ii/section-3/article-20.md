@@ -1,6 +1,6 @@
 # Article 20
 
-1° Il est institué auprès du commissaire de la République du département, sous sa présidence ou celle de son représentant, une commission départementale des carrières composée comme suit :
+1° Il est institué auprès du commissaire de la République du département, sous sa présidence ou celle de son représentant, une commission départementale de la nature, des paysages et des sites composée comme suit :
 
 a) Un conseiller général, désigné pour trois ans par ses collègues ;
 

@@ -1,0 +1,7 @@
+# Article 9
+
+Dès lors qu'aucune prescription ne permet d'assurer une sécurité absolue du personnel qui n'est pas nécessaire au strict fonctionnement du silo ou d'autres installations utilisant les produits stockés dans le silo, tout bâtiment ou local occupé par ce personnel doit être éloigné des capacités de stockage (à l'exception des boisseaux visés à l'article 1er du présent arrêté) et des tours d'élévation. Cette distance est d'au moins 10 m pour les silos plats et 25 m pour les autres types de stockage et les tours d'élévation.
+
+Dans le cas des silos nouveaux, dès lors qu'aucune prescription ne permet d'assurer une sécurité absolue du personnel susceptible d'y avoir accès, les locaux techniques (centrale d'aspiration, centrale de ventilation, centrale de production d'énergie, séchoirs, locaux électriques, etc.), les salles de contrôle et les salles de commande doivent être systématiquement éloignés des silos d'une distance de 10 m.
+
+Pour les silos existants et dans le cas où les locaux visés au premier alinéa de l'article 9 ne peuvent être éloignés des silos pour des raisons de configuration géographique de l'établissement, l'étude des dangers prévue à l'article 2 du présent arrêté devra, d'une part, justifier cette situation, d'autre part, définir les mesures de sécurité complémentaires éventuelles à mettre en oeuvre notamment en application de l'article 12 du présent arrêté.

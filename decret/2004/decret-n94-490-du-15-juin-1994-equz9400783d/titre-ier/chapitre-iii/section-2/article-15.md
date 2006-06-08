@@ -8,4 +8,4 @@ Le montant de la garantie financière de chaque agence de voyages est fixé annu
 
 En cas de modification importante d'activité en cours d'année, ainsi qu'en cas d'ouverture de succursale ou de point de vente ou en cas de conclusion de convention avec une entreprise mandataire, l'agence de voyages procède à une réévaluation de sa garantie financière. L'arrêté prévu au deuxième alinéa fixe les conditions dans lesquelles s'effectuent ces réévaluations.
 
-Par décision motivée prise après avis de la commission départementale de l'action touristique, le préfet peut décider, en cours d'année, une augmentation de la garantie financière, notamment lorsque les activités de l'agence de voyages sont de nature à entraîner une aggravation importante des risques pour la clientèle. La commission régionale de l'action touristique en est informée.
+Par décision motivée prise après avis de la commission départementale de l'action touristique, le préfet peut décider, en cours d'année, une augmentation de la garantie financière, notamment lorsque les activités de l'agence de voyages sont de nature à entraîner une aggravation importante des risques pour la clientèle.

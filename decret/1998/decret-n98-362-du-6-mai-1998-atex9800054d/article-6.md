@@ -2,7 +2,7 @@
 
 Dès l'ouverture de la consultation du public, le président du conseil régional soumet le projet de plan pour avis :
 
-- au comité régional de l'environnement et aux conseils départementaux d'hygiène ;
+- aux conseils départementaux de l'environnement et des risques sanitaires et technologiques ;
 
 - aux conseils généraux des départements de la région ;
 

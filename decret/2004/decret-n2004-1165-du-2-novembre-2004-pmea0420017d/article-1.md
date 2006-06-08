@@ -6,7 +6,7 @@ Elles ont pour mission d'assurer la représentation de l'artisanat au plan régi
 
 Elles coordonnent dans chaque région l'exercice des missions des chambres de métiers et de l'artisanat de leur ressort.
 
-Elles déterminent les politiques qui, entrant dans le cadre des attributions des chambres de métiers et de l'artisanat, peuvent le mieux être mises en oeuvre à l'échelon de la région. Elles sont l'interlocuteur du conseil régional et des autres institutions régionales, pour ce qui concerne la formation professionnelle relevant du secteur des métiers et de l'artisanat et le développement économique.
+Elles déterminent les politiques qui, entrant dans le cadre des attributions des chambres de métiers et de l'artisanat, peuvent le mieux être mises en oeuvre à l'échelon de la région. Elles attribuent le titre de maître artisan dans les conditions prévues aux deuxième et quatrième alinéas de l'article 3 du décret n° 98-247 du 2 avril 1998 relatif à la qualification artisanale et au répertoire des métiers. Elles sont l'interlocuteur du conseil régional et des autres institutions régionales, pour ce qui concerne la formation professionnelle relevant du secteur des métiers et de l'artisanat et le développement économique.
 
 Les chambres régionales de métiers et de l'artisanat peuvent également prêter leur concours aux organisations professionnelles du secteur des métiers et de l'artisanat.
 

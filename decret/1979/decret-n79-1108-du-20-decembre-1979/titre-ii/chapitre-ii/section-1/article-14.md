@@ -8,8 +8,8 @@ L'instruction des demandes d'autorisation d'exploiter une carrière non soumise 
 
 3. Le commissaire de la République communique dans les mêmes conditions un exemplaire de la demande et de ses annexes au maire de chaque commune intéressée. Dans les trente jours suivant l'expédition du dossier par le commissaire de la République, le maire fait parvenir à ce dernier l'avis motivé du conseil municipal.
 
-4. A défaut de réponse des chefs de service ou des maires dans le délai prescrit, il est passé outre. Le commissaire de la République, dans les dix jours qui suivent l'expiration du délai de trente jours fixé aux paragraphes 2 et 3 qui précèdent, transmet l'ensemble du dossier avec les différents avis exprimés au directeur régional de l'industrie et de la recherche.
+4. A défaut de réponse des chefs de service ou des maires dans le délai prescrit, il est passé outre. Le commissaire de la République, dans les dix jours qui suivent l'expiration du délai de trente jours fixé aux paragraphes 2 et 3 qui précèdent, transmet l'ensemble du dossier avec les différents avis exprimés au directeurrégional de l'industrie et de la recherche.
 
 5. Au plus tard trois mois après la réception d'une demande régulière, le directeur régional de l'industrie et de la recherche renvoie le dossier au commissaire de la République avec son rapport d'ensemble et les observations présentées par le demandeur, auquel le dossier ainsi complété aura été communiqué sans déplacement huit jours à l'avance. Le directeur régional de l'industrie et de la recherche transmet copie de son rapport aux chefs des services consultés.
 
-6. En cas de divergence entre les avis exprimés ou quand il l'estime nécessaire, le commissaire de la République saisit, dans le mois suivant la réception de ce dossier, la commission départementale des carrières mentionnée à l'article 20.
+6. En cas de divergence entre les avis exprimés ou quand il l'estime nécessaire, le commissaire de la République saisit, dans le mois suivant la réception de ce dossier, la commission départementale de la nature, des paysages et des sites mentionnée à l'article 20.

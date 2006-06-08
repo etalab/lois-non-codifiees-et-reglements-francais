@@ -32,10 +32,10 @@ Les exploitants d'installations classées, qui sont autorisés à rejeter des su
 
 - les flux rejetés.
 
-Ce dossier doit faire apparaître l'évolution de ces rejets et les possibilités de les réduire. Ce dossier est présenté au conseil départemental d'hygiène par l'inspection des installations classées qui peut proposer le cas échéant un arrêté préfectoral complémentaire.
+Ce dossier doit faire apparaître l'évolution de ces rejets et les possibilités de les réduire. Ce dossier est présenté au conseil départemental de l'environnement et des risques sanitaires et technologiques par l'inspection des installations classées qui peut proposer le cas échéant un arrêté préfectoral complémentaire.
 
 Les articles 61 et 62 de l'arrêté du 1er mars 1993 susvisé relatif aux prélèvements et à la consommation d'eau ainsi qu'aux rejets de toute nature des installations classées pour la protection de l'environnement soumises à autorisation s'appliquent.
 
 c) Rapport annuel d'activité : une fois par an, l'exploitant adresse à l'inspection des installations classées un rapport d'activité comportant une synthèse des informations dont la communication est prévue aux points a et b du présent article ainsi que, plus généralement, tout élément d'information pertinent sur la tenue de l'installation dans l'année écoulée et les demandes éventuelles exprimées auprès de l'exploitant par le public.
 
-L'inspection des installations classées présente ce rapport au conseil départemental d'hygiène en le complétant par un rapport récapitulant les contrôles effectués et les mesures administratives éventuelles proposées par l'inspection des installations classées pendant l'année écoulée.
+L'inspection des installations classées présente ce rapport au conseil départemental de l'environnement et des risques sanitaires et technologiques en le complétant par un rapport récapitulant les contrôles effectués et les mesures administratives éventuelles proposées par l'inspection des installations classées pendant l'année écoulée.

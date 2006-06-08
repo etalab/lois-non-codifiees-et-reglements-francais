@@ -6,6 +6,6 @@ Leur liste est tenue à jour par le responsable de site mentionné dans l'arrêt
 
 II. - Le délégué est associé à l'examen des dossiers présentés à l'appui des demandes concernant ces installations. Il s'assure du respect des spécifications relatives aux prestations apportées aux installations nucléaires par ces ICPE ou IOTA. Il peut proposer des prescriptions en vue d'assurer la sûreté nucléaire des installations nucléaires ou des SNM voisins.
 
-III. - Le CGA/IIC peut se faire assister d'un représentant du délégué pour la présentation des dossiers devant le conseil départemental d'hygiène compétent.
+III. - Le CGA/IIC peut se faire assister d'un représentant du délégué pour la présentation des dossiers devant le conseil départemental de l'environnement et des risques sanitaires et technologiques compétent.
 
 Le délégué reçoit copie des actes relatifs aux ICPE et IOTA, définis à l'article 2-II du présent arrêté, relevant du ministre de la défense.

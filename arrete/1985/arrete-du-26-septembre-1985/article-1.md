@@ -1,3 +1,3 @@
 # Article 1
 
-Dans les dix jours qui suivent une délibération du conseil d'administration de la société CdF Ingénierie Lorraine S.A., le membre du corps du contrôle général économique et financier près cette société peut exercer le droit de veto prévu à l'article 2 du décret n° 85-1050 du 26 septembre 1985.
+Les dispositions applicables au titre de la protection de l'environnement aux ateliers de traitements de surfaces sont définies dans l'instruction technique annexée au présent arrêté.

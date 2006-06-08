@@ -2,75 +2,208 @@
 
 a) Les installations soumises à autorisation répondant aux caractéristiques précisées dans le tableau ci-après :
 
-RUBRIQUE de la nomenclature des installations classées : 1110 ou 1111
+<table>
+<tbody>
+<tr>
+<td width="85">
+<p align="center">RUBRIQUE<br/>de la nomenclature<br/>des installations<br/>classées</p>
+<br/>
+</td>
+<td width="165">
+<p align="center">NATURE DE L'INSTALLATION</p>
+<br/>
+</td>
+<td width="71">
+<p align="center">SEUIL<br/>de l'activité<br/>par référence<br/>aux critères<br/>de classement</p>
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="85">
+<p align="center">1110 ou 1111</p>
+<br/>
+</td>
+<td valign="top" width="165">
+<p>Fabrication, emploi ou stockage de substances et préparations très toxiques, dès lors que ces produits sont liquides ou solides, à l'exclusion des gaz liquéfiés</p>
+<br/>
+</td>
+<td valign="top" width="71">
+<p align="center">5 t</p>
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="85">
+<p align="center">1130 ou 1131</p>
+<br/>
+</td>
+<td valign="top" width="165">
+<p>Fabrication, emploi ou stockage de substances et préparations toxiques, dès lors que ces produits sont liquides ou solides</p>
+<br/>
+</td>
+<td valign="top" width="71">
+<p align="center">50 t</p>
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="85">
+<p align="center">1137</p>
+<br/>
+</td>
+<td valign="top" width="165">
+<p>Fabrication du chlore utilisant le procédé à la cathode au mercure</p>
+<br/>
+</td>
+<td valign="top" width="71">
+<p align="center">-</p>
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="85">
+<p align="center">1155</p>
+<br/>
+</td>
+<td valign="top" width="165">
+<p>Dépôt de produits agropharmaceutiques</p>
+<br/>
+</td>
+<td valign="top" width="71">
+<p align="center">150 t</p>
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="85">
+<p align="center">1174</p>
+<br/>
+</td>
+<td valign="top" width="165">
+<p>Fabrication de composés organohalogénés, organophosphorés ou organostanniques</p>
+<br/>
+</td>
+<td valign="top" width="71">
+<p align="center">-</p>
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="85">
+<p align="center">1432, 1433</p>
+<br/>
+</td>
+<td valign="top" width="165">
+<p>Stockage, mélange ou emploi, remplissage d'hydrocarbures liquides (à l'exception du fioul lourd)</p>
+<br/>
+</td>
+<td valign="top" width="71">
+<p align="center">5000 t</p>
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="85">
+<p align="center">1434</p>
+<br/>
+</td>
+<td valign="top" width="165">
+<p>Distribution de carburants routiers liquides</p>
+<br/>
+</td>
+<td valign="top" width="71">
+<p align="center">40 m³/h</p>
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="85">
+<p align="center">2415</p>
+<br/>
+</td>
+<td valign="top" width="165">
+<p>Traitement du bois</p>
+<br/>
+</td>
+<td valign="top" width="71">
+<p align="center">1000 l</p>
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="85">
+<p align="center">2542</p>
+<br/>
+</td>
+<td valign="top" width="165">
+<p>Cokerie</p>
+<br/>
+</td>
+<td valign="top" width="71">
+<p align="center">-</p>
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="85">
+<p align="center">2545</p>
+<br/>
+</td>
+<td valign="top" width="165">
+<p>Fabrication d'acier, fer, fonte, ferro-alliages, à l'exclusion de la Fabrication des ferro-alliages au four électrique lorsque la puissance installée du (ou des) four(s) est inférieure à 25 kW</p>
+<br/>
+</td>
+<td valign="top" width="71">
+<p align="center">-</p>
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="85">
+<p align="center">2546</p>
+<br/>
+</td>
+<td valign="top" width="165">
+<p>Elaboration et affinage des métaux non ferreux</p>
+<br/>
+</td>
+<td valign="top" width="71">
+<p align="center">-</p>
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="85">
+<p align="center">2550</p>
+<br/>
+</td>
+<td valign="top" width="165">
+<p>Fonderie de plomb et alliages contenant du plomb (au moins 3 %)</p>
+<br/>
+</td>
+<td valign="top" width="71">
+<p align="center">100 kg/j</p>
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="85">
+<p align="center">2552</p>
+<br/>
+</td>
+<td valign="top" width="165">
+<p>Fonderie de métaux et alliages non ferreux</p>
+<br/>
+</td>
+<td valign="top" width="71">
+<p align="center">2 t/j</p>
+<br/>
+</td>
+</tr>
+</tbody>
+</table>
 
-NATURE DE L'INSTALLATION : Fabrication, emploi ou stockage de substances et préparations très toxiques, dès lors que ces produits sont liquides ou solides, à l'exclusion des gaz liquéfiés.
-
-SEUIL de l'activité par référence aux critères de classement : 5 t
-
-RUBRIQUE de la nomenclature des installations classées : 1130 ou 1131
-
-NATURE DE L'INSTALLATION : Fabrication, emploi ou stockage de substances et préparations toxiques, dès lors que ces produits sont liquides ou solides.
-
-SEUIL de l'activité par référence aux critères de classement : 50 t
-
-RUBRIQUE de la nomenclature des installations classées : 1137
-
-NATURE DE L'INSTALLATION : Fabrication du chlore utilisant le procédé à la cathode au mercure.
-
-RUBRIQUE de la nomenclature des installations classées : 1155
-
-NATURE DE L'INSTALLATION : Dépôt de produits agropharmaceutiques.
-
-SEUIL de l'activité par référence aux critères de classement : 150 t
-
-RUBRIQUE de la nomenclature des installations classées : 1174
-
-NATURE DE L'INSTALLATION : Fabrication de composés organohalogénés, organophosphorés ou organostanniques.
-
-RUBRIQUE de la nomenclature des installations classées : 1432, 1433
-
-NATURE DE L'INSTALLATION : Stockage, mélange ou emploi, remplissage d'hydrocarbures liquides (à l'exception du fioul lourd).
-
-SEUIL de l'activité par référence aux critères de classement : 5 000 t
-
-RUBRIQUE de la nomenclature des installations classées : 1434
-
-NATURE DE L'INSTALLATION : Distribution de carburants routiers liquides.
-
-SEUIL de l'activité par référence aux critères de classement : 40 m3/h
-
-RUBRIQUE de la nomenclature des installations classées : 2415
-
-NATURE DE L'INSTALLATION : Traitement du bois.
-
-SEUIL de l'activité par référence aux critères de classement : 1 000 l
-
-RUBRIQUE de la nomenclature des installations classées : 2542
-
-NATURE DE L'INSTALLATION : Cokerie.
-
-RUBRIQUE de la nomenclature des installations classées : 2545
-
-NATURE DE L'INSTALLATION : Fabrication d'acier, fer, fonte, ferro-alliages, à l'exclusion de la fabrication des ferro-alliages au four électrique lorsque la puissance installée du (ou des) four(s) est inférieure à 25 kW.
-
-RUBRIQUE de la nomenclature des installations classées : 2546
-
-NATURE DE L'INSTALLATION : Elaboration et affinage des métaux non ferreux.
-
-RUBRIQUE de la nomenclature des installations classées : 2550
-
-NATURE DE L'INSTALLATION : Fonderie de plomb et alliages contenant du plomb (au moins 3 %).
-
-SEUIL de l'activité par référence aux critères de classement : 100 kg/j
-
-RUBRIQUE de la nomenclature des installations classées : 2552
-
-NATURE DE L'INSTALLATION : Fonderie de métaux et alliages non ferreux.
-
-SEUIL de l'activité par référence aux critères de classement : 2 t/j
-
-doivent respecter les dispositions suivantes, à moins que le préfet, sur la proposition de l'inspection des installations classées basée sur une étude relative au contexte hydrogéologique du site ainsi qu'aux risques de pollution des sols et après avis du conseil départemental d'hygiène, donne acte de l'absence de nécessité d'une telle surveillance :
+doivent respecter les dispositions suivantes, à moins que le préfet, sur la proposition de l'inspection des installations classées basée sur une étude relative au contexte hydrogéologique du site ainsi qu'aux risques de pollution des sols et après avis du conseil départemental de l'environnement et des risques sanitaires et technologiques, donne acte de l'absence de nécessité d'une telle surveillance :
 
 1° Deux puits, au moins, sont implantés en aval du site de l'installation ; la définition du nombre de puits et de leur implantation est faite à partir des conclusions d'une étude hydrogéologique ;
 

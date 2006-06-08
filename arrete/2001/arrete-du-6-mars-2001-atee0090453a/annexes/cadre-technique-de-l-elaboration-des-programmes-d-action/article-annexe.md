@@ -230,7 +230,7 @@ f) La réserve départementale est alimentée par les quantités d'azote prélev
 
 Elle peut être redistribuée au vu des résultats de la résorption et du suivi de l'évolution de l'azote produit dans chaque département, en ZES et hors ZES, après un premier bilan réalisé au plus tôt six mois après la signature de l'arrêté préfectoral et en veillant à l'équilibre entre les cantons dans l'espace et dans le temps.
 
-g) L'avancement de la résorption, la gestion de la marge cantonale et de la réserve départementale font l'objet d'un suivi au moyen de tableaux de bord régulièrement tenus à jour. Ils sont présentés à chaque réunion du conseil départemental d'hygiène.
+g) L'avancement de la résorption, la gestion de la marge cantonale et de la réserve départementale font l'objet d'un suivi au moyen de tableaux de bord régulièrement tenus à jour. Ils sont présentés à chaque réunion du conseil départemental de l'environnement et des risques sanitaires et technologiques.
 
 Partie 4
 

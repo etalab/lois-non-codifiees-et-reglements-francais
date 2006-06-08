@@ -1,10 +1,10 @@
 # Article 2
 
-Dans chaque département est instituée une commission départementale d'identification qui est réunie à l'initiative du préfet ou à la demande du directeur ou du président de l'établissement de l'élevage.
+Dans chaque département est instituée un conseil départemental de la santé et de la protection animales qui est réuni à l'initiative du préfet ou à la demande du directeur ou du président de l'établissement de l'élevage.
 
-Son rôle est d'évaluer au moins une fois par an les modalités d'organisation et l'exécution de l'identification des ovins et des caprins dans le département. Elle a en outre la possibilité de proposer et de recommander les modalités d'emballage et d'envoi des repères commandés par les détenteurs.
+Son rôle est d'évaluer au moins une fois par an les modalités d'organisation et l'exécution de l'identification des ovins et des caprins dans le département. Il a en outre la possibilité de proposer et de recommander les modalités d'emballage et d'envoi des repères commandés par les détenteurs.
 
-Elle est présidée par le préfet ou son représentant et elle est composée des membres suivants :
+Il est présidé par le préfet ou son représentant et il est composé des membres suivants :
 
 - le directeur départemental des services vétérinaires ou son représentant ;
 
@@ -38,6 +38,6 @@ Elle est présidée par le préfet ou son représentant et elle est composée de
 
 - le président de chacune des organisations syndicales départementales à vocation générale d'exploitants agricoles habilitées en application de l'article 3 du décret n° 90-187 du 28 février 1990 modifié, ainsi que les présidents, ou leurs représentants, des syndicats ovin et caprin départementaux représentatifs.
 
-La commission départementale peut s'entourer des personnalités choisies en raison de leur compétence et qui siègent avec voie consultative.
+Le conseil départemental peut s'entourer des personnalités choisies en raison de leur compétence et qui siègent avec voie consultative.
 
-Le secrétariat de la commission est assuré par le directeur de l'établissement de l'élevage.
+Le secrétariat du conseil est assuré par le directeur de l'établissement de l'élevage.

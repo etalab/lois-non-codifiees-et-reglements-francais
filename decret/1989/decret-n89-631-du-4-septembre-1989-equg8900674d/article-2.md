@@ -8,7 +8,7 @@ Sont abrogées les dispositions de forme législative, énumérées ci-après, i
 
 " Article 4, alinéa 1, dernière phrase, en tant qu'elle concerne les modalités de l'enquête ;
 
-" Article 11, alinéa 1, en tant qu'il concerne le rapport du ministre de l'intérieur et du ministre chargé de la santé et l'avis du conseil départemental d'hygiène. "
+" Article 11, alinéa 1, en tant qu'il concerne le rapport du ministre de l'intérieur et du ministre chargé de la santé et l'avis du conseil départemental de l'environnement et des risques sanitaires et technologiques. "
 
 " Décret-loi du 30 octobre 1935 portant création de servitudes de visibilité sur les voies publiques :
 

@@ -4,7 +4,7 @@ La demande d'autorisation d'occupation temporaire du domaine public maritime est
 
 Elle est soumise pour avis aux services et organismes intéressés, et notamment :
 
-a) A la commission départementale des sites ;
+a) A la commission départementale de la nature, des paysages et des sites ;
 
 b) A la commission nautique locale prévue par le décret n° 86-606 du 14 mars 1986 susvisé ;
 

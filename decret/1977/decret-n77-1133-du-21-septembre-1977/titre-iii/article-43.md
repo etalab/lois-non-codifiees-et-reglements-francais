@@ -4,7 +4,7 @@ Sera puni de la peine d'amende prévue pour les contraventions de la 5e classe :
 
 1° Quiconque aura exploité une installation soumise à déclaration sans avoir fait la déclaration prévue à l'article L. 512-1 et L. 512-8 du code de l'environnement ;
 
-2° Quiconque n'aura pas pris les mesures imposées en vertu de l'article L. 514-4 du code de l'environnement sans qu'ait été pris, en raison de l'urgence, l'avis du maire ou du conseil départemental d'hygiène ;
+2° Quiconque n'aura pas pris les mesures imposées en vertu de l'article L. 514-4 du code de l'environnement sans qu'ait été pris, en raison de l'urgence, l'avis du maire ou du conseil départemental de l'environnement et des risques sanitaires et technologiques ;
 
 3° Quiconque aura exploité une installation soumise à autorisation sans satisfaire aux règles générales et prescriptions techniques prévues à l'article L. 512-5 du code de l'environnement et aux articles 17, 17-2, 17-3 et 18 du présent décret ;
 

@@ -4,7 +4,7 @@ Sont membres de la commission avec voix délibérative :
 
 1.Pour toutes les attributions de la commission :
 
-a)Dix représentants des services de l'Etat :
+a) Neuf représentants des services de l'Etat :
 
 - le directeur départemental des affaires sanitaires et sociales ;
 
@@ -15,8 +15,6 @@ a)Dix représentants des services de l'Etat :
 - le commandant du groupement de gendarmerie départementale ;
 
 - le directeur régional de l'industrie, de la recherche et de l'environnement ;
-
-- le directeur départemental de la consommation, de la concurrence et de la répression des fraudes ;
 
 - le directeur départemental de l'équipement ;
 
