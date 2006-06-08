@@ -8,6 +8,6 @@ En ce qui concerne les membres du corps des dessinateurs, du corps des agents ad
 
 3° Détachement lorsque celui-ci doit être prononcé par arrêté interministériel ou après l'accord d'un ou de plusieurs ministres ;
 
-4° Mise en position hors cadres et mise à disposition.
+4° Mise en position hors cadres et mise à disposition hormis la mise à disposition de droit mentionnée à l'article 2-2.
 
 Pour les décision qui nécessitent l'avis préalable des commissions administratives paritaires en application des dispositions de l'article 25 du décret n° 82-451 du 28 mai 1982 relatif aux commissions administratives paritaires, modifié par le décret n° 84-955 du 25 octobre 1984, la délégation de pouvoirs est subordonnée à l'institution de ces commissions auprès des autorités délégataires.
