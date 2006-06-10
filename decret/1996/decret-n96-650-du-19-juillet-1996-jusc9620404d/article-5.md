@@ -1,6 +1,6 @@
 # Article 5
 
-Le centre est réputé saisi lorsque les déclarations qui lui sont remises directement ou par voie postale ou électronique, dans les conditions prévues  à l'article 4 de la loi du 11 février 1994 susvisée et selon les modalités définies à l'arrêté mentionné à l'article 1er, sont établies sur les formulaires homologués prévus à l'article 4 du présent décret, signées du déclarant ou de son mandataire et qu'elles comportent au moins les énonciations indispensables pour identifier :
+Le centre est réputé saisi lorsque les déclarations qui lui sont remises directement ou par voie postale ou électronique sont établies sur les formulaires homologués prévus à l'article 4 du présent décret, signées du déclarant ou de son mandataire et qu'elles comportent au moins les énonciations indispensables pour identifier :
 
 I. - Pour les créations d'entreprises :
 

@@ -27,3 +27,33 @@ V. - Le centre transmet le jour même aux organismes destinataires compétents l
 VI. - Le centre peut transmettre par voie électronique aux organismes destinataires les informations et pièces les concernant.
 
 La commission de coordination mentionnée à l'article 9-1 veille au respect de la confidentialité et de la sécurité des échanges ainsi organisés, ainsi qu'à la compatibilité des systèmes de communication par voie électronique.
+
+VII. - Dans les cas prévus à l'article L. 123-9-1 du code de commerce et à l'article 19-I de la loi n° 96-603 du 5 juillet 1996 relative au développement et à la promotion du commerce et de l'artisanat, le récépissé prévu au II lorsque le dossier est réputé complet par le centre compétent prend le nom de récépissé de dépôt de dossier de création d'entreprise. Délivré gratuitement et sans délai, ce récépissé est valable jusqu'à la notification de son immatriculation au déclarant et, au plus tard, jusqu'à l'expiration d'une durée d'un mois à compter de sa délivrance. Il indique :
+
+a) Le nom et l'adresse du centre ;
+
+b) La date de saisine du centre ;
+
+c) La date de délivrance du récépissé et la date d'expiration de sa validité ;
+
+d) La mention : en attente d'immatriculation ;
+
+e) Les mentions prévues aux 1°, 2° et 3° de l'article 5 ;
+
+f) Les organismes auxquels le dossier est transmis le jour même.
+
+Lorsqu'il s'est doté des équipements permettant l'échange des données informatisées nécessaires avec l'INSEE et, au plus tard, le 1er janvier 2007, le centre de formalités des entreprises indique sur le récépissé de dépôt de dossier de création d'entreprise le numéro unique d'identification que l'INSEE lui communique ainsi qu'au greffier du tribunal compétent, lorsque la déclaration comporte une demande d'immatriculation au registre du commerce et des sociétés.
+
+Lorsque la déclaration comporte une demande d'immatriculation au registre du commerce et des sociétés, une copie du récépissé de dépôt de dossier de création d'entreprise est transmise au greffier compétent avec le dossier du déclarant.
+
+Lorsqu'il est délivré en application de l'article L. 311-2-1 du code rural, le récépissé de dépôt de dossier de création d'entreprise, délivré gratuitement et sans délai, indique :
+
+a) Le nom et l'adresse du centre ;
+
+b) La date de saisine du centre ;
+
+c) La date de délivrance du récépissé ;
+
+d) Les mentions prévues aux 1°, 2° et 3° de l'article 5 ;
+
+e) Les organismes auxquels le dossier est transmis le jour même.
