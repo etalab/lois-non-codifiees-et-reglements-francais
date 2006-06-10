@@ -4,7 +4,7 @@ Le comité d'experts comprend, outre son président :
 
 a) Le directeur central du service de santé des armées ou son représentant ;
 
-b) Six experts permanents désignés par le directeur central du service de santé des armées, par l'Institut national de la santé et de la recherche médicale, par l'Institut de veille sanitaire, par l'Institut national de recherche et de sécurité pour la prévention des accidents du travail et des maladies professionnelles, par l'Agence française de sécurité sanitaire environnementale et par l'Institut de radioprotection et de sûreté nucléaire ;
+b) Six experts permanents désignés par le directeur central du service de santé des armées, par l'Institut national de la santé et de la recherche médicale, par l'Institut de veille sanitaire, par l'Institut national de recherche et de sécurité pour la prévention des accidents du travail et des maladies professionnelles, par l'Agence française de sécurité sanitaire de l'environnement et du travail et par l'Institut de radioprotection et de sûreté nucléaire ;
 
 c) En tant que de besoin, des experts désignés par le président, en fonction des sujets abordés.
 

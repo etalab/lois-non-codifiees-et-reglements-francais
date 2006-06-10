@@ -6,7 +6,7 @@ Le présent décret s'applique aux agents contractuels recrutés par contrat de 
 
 2° L'Agence française de sécurité sanitaire des aliments ;
 
-3° L'Agence française de sécurité sanitaire environnementale ;
+3° L'Agence française de sécurité sanitaire de l'environnement et du travail ;
 
 4° L'Agence française de sécurité sanitaire des produits de santé ;
 
