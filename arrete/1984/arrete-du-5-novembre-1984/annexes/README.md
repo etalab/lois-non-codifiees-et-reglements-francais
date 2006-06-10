@@ -7,7 +7,6 @@
 - [Pièces à fournir par les sociétés et entreprises de location pour être autorisées à élire domicile à l'adresse du locataire.](pieces-a)
 - [ATTESTATION D'IDENTIFICATION D'UN VEHICULE NEUF A UN TYPE COMMUNAUTAIRE (IDENTIFICATION DU CODE NATIONAL CORRESPONDANT AU TYPE COMMUNAUTAIRE "TYPE CE" POUR LES VOITURES PARTICULIERES)](attestation-d-identification-d-un-vehicule-neuf-a-un)
 - [Modèle type de l'imprimé de "Déclaration d'achat" (3 volets) enregistré au C.E.R.F.A. sous le numéro 47-0193](modele-type-de-l-imprime-de-declaration-d-achat-3-volets-enregistre-au)
-- [Modèle type de l'imprimé de "Déclaration de destruction d'un véhicule" enregistré au CERFA sous le numéro 47-0192](modele-type-de-l-imprime-de-declaration-de-destruction-d-un-vehicule-enregistre-au)
 - [Modèle type de l'imprimé de "Demande d'annulation de carte grise" enregistré au CERFA sous le numéro 10800 (format 21 cm X 29,7 cm)](modele-type-de-l-imprime-de-demande-d-annulation-de-carte-grise-enregistre-au)
 - [Modèle type de l'imprimé de "Demande de certificat d'immatriculation d'un véhicule" enregistré au CERFA sous le numéro 10672 (format 21 cm X 29,7 cm).](modele-type-de-l-imprime-de-demande-de-certificat-d-immatriculation-d-un-vehicule-enregistre-au)
 - [CERTIFICAT DE CONFORMITE CE COMPLETE DES VOITURES PARTICULIERES (CATEGORIE INTERNATIONALE M1)](certificat-de-conformite-ce)
