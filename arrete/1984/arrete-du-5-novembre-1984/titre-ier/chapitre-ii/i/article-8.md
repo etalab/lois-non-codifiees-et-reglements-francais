@@ -98,7 +98,7 @@ Pour obtenir l'immatriculation, les pièces suivantes doivent être fournies :
 
 1. Une demande de certificat d'immatriculation sur l'imprimé réglementaire ;
 
-2. Le certificat de conformité au type communautaire original édité le cas échéant dans une autre langue que le français et comportant, ou permettant d'obtenir directement, l'ensemble des informations nécessaires à l'immatriculation.
+2. Le certificat de conformité au type communautaire original, conforme aux dispositions de la directive 70/156/CEE ou 2002/24/CE ou 2003/37/CE édité le cas échéant dans une autre langue que le français et comportant, ou permettant d'obtenir directement, l'ensemble des informations nécessaires à l'immatriculation sans aller au-delà des exigences des directives précitées.
 
 Dans le cas où le certificat de conformité au type communautaire ne comporte pas, ou ne permet pas d'obtenir directement, l'ensemble des informations nécessaires à l'immatriculation :
 

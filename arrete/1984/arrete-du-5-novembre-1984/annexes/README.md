@@ -1,6 +1,7 @@
 # Annexes
 
 - [INDICATIONS SUPPLEMENTAIRES (REFERENCE : ALINEA 3 DE L'ARTICLE 5 DE LA DIRECTIVE N° 74-150-CEE) A JOINDRE AU CERTIFICAT DE CONFORMITE (ANNEXE III A LA DIRECTIVE, N° 74-150-CEE) A DESTINATION DE LA FRANCE](indications-supplementaires-reference)
+- [Modèle type de l'imprimé "récépissé de prise en charge d'un véhicule pour destruction - certificat de destruction d'un véhicule" enregistré au CERFA sous le numéro 12514*01 (1)](modele-type-de-l-imprime-recepisse-de-prise-en-charge-d-un-vehicule-pour-destruction)
 - [ANNEXE A : Rubriques figurant sur la carte grise (Application de la directive 2003/127/CE de la Commission du 23 décembre 2003 modifiant la directive 1999/37/CE du Conseil relative aux documents d'immatriculation des véhicules)](annexe-a)
 - [Modèle type de mandat à remettre par la société de location à l'utilisateur du véhicule](modele-type-de-mandat-a)
 - [Pièces à fournir par les sociétés et entreprises de location pour être autorisées à élire domicile à l'adresse du locataire.](pieces-a)
