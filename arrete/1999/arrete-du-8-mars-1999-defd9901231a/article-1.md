@@ -2,9 +2,9 @@
 
 La sous-direction du droit public et du droit privé comprend :
 
-- le bureau de la réglementation générale ;
+- le bureau d'expertise générale et de légistique ;
 
-- le bureau de l'organisation, lequel comporte la section de documentation ;
+-  le bureau de l'organisation, de la modernisation et de l'aménagement des structures, lequel comporte la section de documentation ;
 
 - le bureau du droit de la santé et de l'environnement ;
 
