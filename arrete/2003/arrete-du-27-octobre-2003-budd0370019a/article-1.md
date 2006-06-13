@@ -20,6 +20,6 @@ h) Un engagement de fournir, sur demande de la commission d'examen des candidatu
 
 i) Un engagement de remettre tous les six mois un rapport sur leur production de biocarburants, les contrôles de qualité et le résultat de ces contrôles ; ce rapport mentionne les noms et adresses des entreprises établies en France auxquelles les biocarburants ont été vendus ;
 
-j) Une demande d'agrément retirée auprès de la direction des politiques économique et internationale du ministère de l'agriculture, de l'alimentation, de la pêche et des affaires rurales accompagnée des pièces justificatives nécessaires à l'instruction du dossier et visées dans ladite demande.
+j) Une demande d'agrément retirée auprès de la direction générale des politiques économique, européenne et internationale du ministère de l'agriculture, de l'alimentation, de la pêche et des affaires rurales accompagnée des pièces justificatives nécessaires à l'instruction du dossier et visées dans ladite demande.
 
 L'ensemble est adressé au ministère chargé de l'agriculture.

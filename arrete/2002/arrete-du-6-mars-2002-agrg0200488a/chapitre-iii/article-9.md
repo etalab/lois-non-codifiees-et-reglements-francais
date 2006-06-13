@@ -10,13 +10,13 @@ La commission, qui se réunit à l'initiative et sous la présidence du sous-dir
 
 - d'un représentant du groupement des directeurs départementaux des services vétérinaires ;
 
-- d'un représentant du bureau de la santé animale à la direction générale de l'alimentation ;
+- d'un représentant du bureau de la santé animale à la direction générale générale de l'alimentation ;
 
 - d'un représentant du bureau de la pharmacie vétérinaire et de l'alimentation animale à la direction générale de l'alimentation ;
 
 - de deux représentants du corps des enseignants des écoles vétérinaires françaises ;
 
-- d'un représentant de la direction des politiques économique et internationale ;
+- d'un représentant de la direction générale des politiques économique, européenne et internationale ;
 
 - d'un représentant de l'Institut national de la recherche agronomique ;
 

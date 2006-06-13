@@ -12,7 +12,7 @@ Le ministre de l'agriculture et de la pêche a autorité sur l'administration ce
 
 - la direction des pêches maritimes et de l'aquaculture ;
 
-- la direction des politiques économique et internationale.
+- la direction générale des politiques économique, européenne et internationale.
 
 Pour l'exercice de ses attributions dans le domaine de la pêche maritime et des cultures marines, il dispose de la direction générale de la mer et des transports placée sous l'autorité du ministre des transports, de l'équipement, du tourisme et de la mer.
 

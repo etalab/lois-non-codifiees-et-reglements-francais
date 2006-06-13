@@ -18,7 +18,7 @@ II. - Sont membres de droit :
 
 7. Le chef du bureau de l'identification et du contrôle des mouvements des animaux à la sous-direction de la santé et de la protection animales ou son représentant ;
 
-8. Le sous-directeur de l'élevage et des produits animaux à la direction des politiques économique et internationale du ministère chargé de l'agriculture ou son représentant ;
+8. Le sous-directeur de l'élevage et des produits animaux à la direction générale des politiques économique, européenne et internationale du ministère chargé de l'agriculture ou son représentant ;
 
 9. Le sous-directeur du cheval à la direction de l'espace rural et de la forêt du ministère chargé de l'agriculture ou son représentant ;
 

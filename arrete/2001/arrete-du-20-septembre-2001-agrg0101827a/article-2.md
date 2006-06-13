@@ -18,7 +18,7 @@ La sous-directrice de l'hygiène des aliments ou son représentant ;
 
 Le chef de bureau des matières premières ou son représentant.
 
-Représentants de la direction des politiques économique et internationale :
+Représentants de la direction générale des politiques économique, européenne et internationale :
 
 Le sous-directeur de l'élevage et des produits animaux ou son représentant ;
 

@@ -34,6 +34,6 @@ ou toute autre question de son choix.
 
 Lorsque l'avis du ministère de l'agriculture et de la pêche est requis ou sollicité, celui-ci peut saisir pour avis simple la Commission nationale des fonds opérationnels (CNFO) visée à l'article 15.
 
-Les avis de la CNFO sont transmis au directeur des politiques économique et internationale (DPEI), qui prend une décision publiée au Bulletin officiel du ministère de l'agriculture et de la pêche.
+Les avis de la CNFO sont transmis au directeur général des politiques économique, européene et internationale, qui prend une décision publiée au Bulletin officiel du ministère de l'agriculture et de la pêche.
 
-La date du 15 décembre 2005 est reportée au 10 janvier 2006 pour les directions départementales de l'agriculture en ayant fait la demande auprès du directeur des politiques économique et internationale (DPEI) et après avis favorable de celui-ci.
+La date du 15 décembre 2005 est reportée au 10 janvier 2006 pour les directions départementales de l'agriculture en ayant fait la demande auprès du directeur général des politiques économique, européene et internationale et après avis favorable de celui-ci.

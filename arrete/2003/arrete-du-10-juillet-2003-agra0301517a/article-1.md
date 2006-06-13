@@ -108,6 +108,6 @@ A compter du 1er septembre 2004 :
 
 Ajouter les mentions :
 
-Chef du bureau Orient-Asie et financements à la direction des politiques économique et internationale ;
+Chef du bureau Orient-Asie et financements à la direction générale des politiques économique, européenne et internationale ;
 
 Chef du bureau des moyens financiers et du contrôle de gestion à la direction générale de l'alimentation.

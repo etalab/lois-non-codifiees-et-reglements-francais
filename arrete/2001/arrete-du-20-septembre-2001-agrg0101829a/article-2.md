@@ -18,7 +18,7 @@ La sous-directrice de l'hygiène des aliments ou son représentant ;
 
 Le chef de bureau des matières premières ou son représentant.
 
-Représentants de la direction des politiques économique et internationale :
+Représentants de la direction générale des politiques économique, européenne et internationale :
 
 Le sous-directeur de l'élevage et des produits animaux ou son représentant ;
 
@@ -28,9 +28,7 @@ Représentant de la direction générale de l'administration :
 
 Le sous-directeur des systèmes d'informations ou son représentant.
 
-Représentants de la direction des affaires financières :
-
-Le sous-directeur des affaires budgétaires ou son représentant ;
+Représentants de la direction des affaires financières :< RL>    Le sous-directeur des affaires budgétaires ou son représentant ;
 
 Le chef du service central des enquêtes et études statistiques ou son représentant.
 

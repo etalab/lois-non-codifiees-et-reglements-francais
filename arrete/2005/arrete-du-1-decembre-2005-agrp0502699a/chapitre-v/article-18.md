@@ -8,4 +8,4 @@ Toute demande de modification est accompagnée des pièces justificatives préci
 
 Le préfet compétent prend une décision au plus tard le 15 décembre de l'année précédant la mise en oeuvre du programme opérationnel, après avoir examiné les documents fournis et conformément à l'article 14.
 
-La date du 15 décembre 2005 est reportée au 10 janvier 2006 pour les directions départementales de l'agriculture en ayant fait la demande auprès du directeur des politiques économique et internationale (DPEI) et après avis favorable de celui-ci.
+La date du 15 décembre 2005 est reportée au 10 janvier 2006 pour les directions départementales de l'agriculture en ayant fait la demande auprès du directeur général des politiques économique, européene et internationale et après avis favorable de celui-ci.

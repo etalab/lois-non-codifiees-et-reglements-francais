@@ -6,7 +6,7 @@ La composition de la Commission nationale des ovins est fixée comme suit :
 
 Ministère de l'agriculture et de la pêche :
 
-- le directeur des politiques économique et internationale ou son représentant ;
+- le directeur général des politiques économique, européenne et internationale ou son représentant ;
 
 - le chef du service central des enquêtes et études statistiques ou son représentant ;
 
@@ -36,6 +36,6 @@ Le président de la Fédération nationale des industries et des commerces en gr
 
 Le président de la Fédération des marchés du bétail en vif ou son représentant.
 
-La présidence de la commission nationale est assurée par le directeur des politiques économique et internationale ou son représentant.
+La présidence de la commission nationale est assurée par le directeur général des politiques économique, européenne et internationale ou son représentant.
 
 La commission nationale peut s'entourer de personnalités choisies en raison de leur compétence et qui siègent à titre d'experts.

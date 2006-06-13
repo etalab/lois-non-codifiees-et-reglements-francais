@@ -1,0 +1,3 @@
+# Article 5
+
+Sauf le cas des montes artificielles publiques et privées pour lesquelles la transmission de l'information est assurée par le centre de mise en place agréé, conformément aux dispositions de l'article 7 du présent arrêté et sauf dans le cas de transfert embryonnaire pour lequel la transmission de l'information est assurée par l'équipe de transplantation embryonnaire agréée, conformément aux dispositions de l'article 8 du présent arrêté, tout détenteur naisseur engagé dans le dispositif de certification de l'ascendance et de la filiation des bovins doit transmettre au maître d'oeuvre de ce dispositif les informations du registre de monte, au plus tard un mois avant la date de naissance présumée de chaque veau issu de ces montes.

@@ -16,7 +16,7 @@ Sont membres de droit de la commission :
 
 - le directeur des exploitations, de la politique sociale et de l'emploi ;
 
-- le directeur des politiques économique et internationale ;
+- le directeur général des politiques économique, européenne et internationale ;
 
 - le directeur général du Centre d'analyse stratégique.
 

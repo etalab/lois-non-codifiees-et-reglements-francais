@@ -6,7 +6,7 @@ La composition de la Commission nationale de cotation des bovins est fixée comm
 
 Ministère de l'agriculture, de l'alimentation, de la pêche et des affaires rurales :
 
-Le directeur des politiques économique et internationale ou son représentant.
+Le directeur général des politiques économique, européenne et internationale ou son représentant.
 
 Le chef du service central des enquêtes et études statistiques ou son représentant.
 

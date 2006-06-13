@@ -1,6 +1,6 @@
 # Article 9
 
-La direction des politiques économique et internationale définit et met en oeuvre les politiques de gestion des marchés et d'orientations des productions agricoles. Elle élabore et met en oeuvre les politiques propres à assurer le développement des industries agricoles alimentaires et non alimentaires et à valoriser leurs productions. Elle assure la cohérence des travaux d'évaluation et de prospective du ministère. Elle coordonne l'action des directions et services du ministère en matière de relations communautaires et internationales.
+La direction générale des politiques économique, européenne et internationale définit et met en oeuvre les politiques de gestion des marchés et d'orientations des productions agricoles. Elle élabore et met en oeuvre les politiques propres à assurer le développement des industries agricoles alimentaires et non alimentaires et à valoriser leurs productions. Elle assure la cohérence des travaux d'évaluation et de prospective du ministère. Elle coordonne l'action des directions et services du ministère en matière de relations communautaires et internationales.
 
 A ce titre et en conformité avec les principes et les règles des politiques communes de l'Union européenne :
 
@@ -24,4 +24,4 @@ Elle met en oeuvre des actions de soutien au développement international des fi
 
 Elle réalise ou coordonne la réalisation des études économiques et des travaux d'évaluation et de prospective du ministère, notamment ceux qui répondent à des obligations de l'Union européenne. Elle est chargée de leur programmation, de leur cohérence, de leur suivi et de la valorisation de leurs résultats. Elle participe pour le compte du ministère aux travaux du conseil de prospective européenne et internationale pour l'agriculture et l'alimentation.
 
-Elle exerce la tutelle du ministère sur : l'Office interprofessionnel des céréales, l'Office national interprofessionnel des grandes cultures, les offices d'intervention par produits agricoles, le Fonds de solidarité des céréaliculteurs et des éleveurs, l'Institut national des appellations d'origine et la Société pour l'expansion des ventes des produits agricoles alimentaires et les organismes professionnels et interprofessionnels agricoles.
+Elle exerce les pouvoirs de tutelle ou de contrôle du ministre chargé de l'agriculture sur les établissements mentionnés aux articles L. 621-1, L. 621-12 et L. 622-1 du code rural, l'Institut national de l'origine et de la qualité (INAO), la société pour l'expansion des ventes des produits agricoles alimentaires et les organismes professionnels et interprofessionnels agricoles.

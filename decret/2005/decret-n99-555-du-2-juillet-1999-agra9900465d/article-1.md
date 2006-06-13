@@ -12,4 +12,4 @@ d) La direction générale de la forêt et des affaires rurales ;
 
 e) La direction des pêches maritimes et de l'aquaculture ;
 
-f) La direction des politiques économique et internationale.
+f) La direction générale des politiques économique, européenne et internationale.

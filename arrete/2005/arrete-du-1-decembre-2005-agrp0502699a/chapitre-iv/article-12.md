@@ -26,9 +26,9 @@ a) Proposé par le comité économique agricole. Une harmonisation au niveau de 
 
 b) Validé, sur les plans technique et économique, par le centre technique compétent : centre technique interprofessionnel des fruits et légumes (CTIFL), centre technique du champignon (CTC), Centre national du machinisme agricole, du génie rural, des eaux et des forêts (CEMAGREF), Union nationale interprofessionnelle des légumes transformés (UNILET), Bureau national interprofessionnel du pruneau (BIP), Société nationale interprofessionnelle de la tomate (SONITO), Association nationale interprofessionnelle du bigarreau d'industriel (ANIBI), Centre international de recherche en agronomie et développement (CIRAD). Cette validation intègre un avis de cohérence entre les bassins de production pour les forfaits correspondant à une même action ;
 
-c) Et agréé par le ministère de l'agriculture, de l'alimentation, de la pêche et des affaires rurales (direction des politiques économique et internationale "DPEI").
+c) Et agréé par le ministère de l'agriculture, de l'alimentation, de la pêche et des affaires rurales (direction générale des politiques économique, européenne et internationale).
 
-Le forfait à utiliser par l'OP est celui agréé par la DPEI pour le comité économique où l'OP a son siège. Lorsqu'un forfait existe dans un comité de bassin, son utilisation reste facultative.
+Le forfait à utiliser par l'OP est celui agréé par la direction général des politiques économique, européenne et internationale pour le comité économique où l'OP a son siège. Lorsqu'un forfait existe dans un comité de bassin, son utilisation reste facultative.
 
 Pour les départements d'outre-mer, les forfaits sont présentés par le comité de bassin BRM ou BGSO après validation technique et économique par le CIRAD.
 
@@ -60,7 +60,7 @@ Dans ce cas-là, sont incluses dans le calcul du montant des forfaits les sommes
 
 - validée par le centre technique compétent ;
 
-- et agréée par le ministère de l'agriculture (direction des politiques économique et internationale "DPEI").
+- et agréée par le ministère de l'agriculture (direction générale des politiques économique, européene et internationale).
 
 Concernant l'agréage tant au stade production qu'à la station, les surcoûts liés à l'application d'un cahier des charges allant au-delà de la norme de commercialisation peuvent être pris en charge par le fonds opérationnel sur la base d'un taux forfaitaire correspondant à 60 % maximum des dépenses totales relatives à l'agréage.
 
@@ -68,4 +68,4 @@ Concernant les plants, semences et mycéliums, les surcoûts liés à l'utilisat
 
 7. Les coûts spécifiques de gestion environnementale des emballages de commercialisation, hors palettes, peuvent être pris en compte sur la base d'un taux forfaitaire correspondant à 17 % maximum du coût des emballages, sur présentation par l'OP des factures acquittées d'achat ou de location.
 
-(1) Le texte de l'encadrement national peut être consulté à l'Office national interprofessionnel des fruits et légumes et de l'horticulture (ONIFLHOR), 164, rue de Javel, 75015 Paris, au bureau des fruits et légumes, de l'horticulture et des productions végétales spéciales au ministère de l'agriculture et de la pêche, 3, rue Barbet-de-Jouy, 75007 Paris, auprès des comités économiques agricoles et des directions départementales de l'agriculture et de la forêt.
+(1) Le texte de l'encadrement national peut être consulté à l'Office national interprofessionnel des fruits, des légumes, des vins et de l'horticulture (ONIFLHOR), 164, rue de Javel, 75015 Paris, au bureau des fruits et légumes, de l'horticulture et des productions végétales spéciales au ministère de l'agriculture et de la pêche, 3, rue Barbet-de-Jouy, 75007 Paris, auprès des comités économiques agricoles et des directions départementales de l'agriculture et de la forêt.
