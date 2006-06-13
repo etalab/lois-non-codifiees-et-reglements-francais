@@ -181,6 +181,7 @@
 - [Décret n°2006-676 du 8 juin 2006 (SANP0621231D)](decret-n2006-676-du-8-juin-2006-sanp0621231d)
 - [Décret n°2006-677 du 8 juin 2006 (AGRP0600299D)](decret-n2006-677-du-8-juin-2006-agrp0600299d)
 - [Décret n°2006-678 du 8 juin 2006 (DEVP0640030D)](decret-n2006-678-du-8-juin-2006-devp0640030d)
+- [Décret n°2006-684 du 8 juin 2006 (AGRP0600993D)](decret-n2006-684-du-8-juin-2006-agrp0600993d)
 - [Décret n°2006-133 du 9 février 2006 (SOCT0512181D)](decret-n2006-133-du-9-fevrier-2006-soct0512181d)
 - [Décret n°2006-134 du 9 février 2006 (SOCF0610306D)](decret-n2006-134-du-9-fevrier-2006-socf0610306d)
 - [Décret n°2006-135 du 9 février 2006 (SOCF0610308D)](decret-n2006-135-du-9-fevrier-2006-socf0610308d)

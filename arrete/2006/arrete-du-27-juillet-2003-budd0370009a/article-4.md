@@ -1,0 +1,5 @@
+# Article 4
+
+Le vieillissement des eaux-de-vie de Cognac, qui commence au plus tard un mois après la fin de la campagne de distillation, est réalisé sans interruption sous futaille de bois de chêne, dans des chais identifiés définis par un cahier des charges établi par le BNIC et approuvé par la direction générale des douanes et droits indirects. Ce cahier des charges est signé et approuvé par les intéressés et son respect est placé sous le contrôle du BNIC. En cas d'interruption de la production au BNIC des documents prévus à l'article 8, les eaux-de-vie de Cognac entreposées dans un chai ne pourront prétendre qu'au compte de vieillissement auquel elles appartenaient au moment du dernier contrôle du BNIC.
+
+Dans le cas où un entrepositaire agréé titulaire d'un compte de vieillissement ne respecte pas le cahier des charges pour lequel il s'est engagé, il peut se voir retirer le bénéfice du compte de vieillissement, indépendamment des poursuites qui pourraient être engagées par l'administration.
