@@ -20,9 +20,11 @@ Le locataire qui accepte l'offre ainsi notifiée dispose, à compter de la date 
 
 Les termes des cinq alinéas précédents sont reproduits à peine de nullité dans chaque notification.
 
-Ces dispositions ne sont pas applicables aux actes intervenant entre parents jusqu'au troisième degré inclus, sous la condition que l'acquéreur occupe le logement pendant une durée qui ne peut être inférieure à deux ans à compter de l'expiration du délai de préavis, ni aux actes portant sur les immeubles mentionnés au deuxième alinéa de l'article 1er de la loi n° 53-286 du 4 avril 1953 modifiant la loi n° 48-1360 du 1er septembre 1948 portant modification et codification de la législation relative aux rapports des bailleurs et locataires ou occupants de locaux d'habitation ou à usage professionnel.
+Ces dispositions ne sont pas applicables aux actes intervenant entre parents jusqu'au quatrième degré inclus, sous la condition que l'acquéreur occupe le logement pendant une durée qui ne peut être inférieure à deux ans à compter de l'expiration du délai de préavis, ni aux actes portant sur les immeubles mentionnés au deuxième alinéa de l'article L. 111-6-1 du code de la construction et de l'habitation.
 
-Dans les cas de congés pour vente prévus à l'article 11-1, l'offre de vente au profit du locataire est dissociée du congé.
+Dans les cas de congés pour vente prévus à l'article 11-1, l'offre de vente au profit du locataire est dissociée du congé. En outre, le non-respect de l'une des obligations relatives au congé pour vente d'un accord conclu en application de l'article 41 ter de la loi n° 86-1290 du 23 décembre 1986 tendant à favoriser l'investissement locatif, l'accession à la propriété de logements sociaux et le développement de l'offre foncière, et rendu obligatoire par décret, donne lieu à l'annulation du congé.
+
+Est nul de plein droit le congé pour vente délivré au locataire en violation de l'engagement de prorogation des contrats de bail en cours, mentionné au premier alinéa du A du I de l'article 10-1 de la loi n° 75-1351 du 31 décembre 1975 relative à la protection des occupants de locaux à usage d'habitation.
 
 III. - Le bailleur ne peut s'opposer au renouvellement du contrat en donnant congé dans les conditions définies au paragraphe I ci-dessus à l'égard de tout locataire âgé de plus de soixante-dix ans et dont les ressources annuelles sont inférieures à une fois et demie le montant annuel du salaire minimum de croissance, sans qu'un logement correspondant à ses besoins et à ses possibilités lui soit offert dans les limites géographiques prévues à l'article 13 bis de la loi n° 48-1360 du 1er septembre 1948 précitée.
 

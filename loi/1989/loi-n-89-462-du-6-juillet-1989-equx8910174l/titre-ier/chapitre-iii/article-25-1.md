@@ -8,7 +8,7 @@ A l'exception du troisième alinéa de l'article 9, des articles 16 à 20, du de
 
 3° A l'article 15 :
 
-a) Au dernier alinéa du II, les mots : ", ni aux actes portant sur les immeubles mentionnés au deuxième alinéa de l'article 1er de la loi n° 53-286 du 4 avril 1953 modifiant la loi n° 48-1360 du 1er septembre 1948 portant modification et codification de la législation relative aux rapports des bailleurs et locataires ou occupants de locaux d'habitation ou à usage professionnel" ne sont pas applicables ;
+a) Dans le septième alinéa du II, les mots : "ni aux actes portant sur les immeubles mentionnés au deuxième alinéa de l'article L. 111-6-1 du code de la construction et de l'habitation" ne sont pas applicables ;
 
 b) Aux premier et deuxième alinéas du III, les mots : "salaire minimum de croissance" sont remplacés par les mots : "salaire minimum interprofessionnel garanti" ;
 
