@@ -8,3 +8,4 @@
 - [Division 332 : Dispositifs d'alarme d'homme à la mer et d'actions de sauvetage (DAHMAS).](division-332)
 - [Division 333 : Engins collectifs de sauvetage.](division-333)
 - [Division 351 : Système d’alerte de sûreté du navire.](division-351)
+- [Division 361 : Dispositifs de détection et d'alarme d'envahissement.](division-361)

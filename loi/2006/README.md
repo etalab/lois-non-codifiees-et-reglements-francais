@@ -18,4 +18,5 @@
 - [Loi n° 2006-449 du 18 avril 2006 (DEFX0500010L)](loi-n-2006-449-du-18-avril-2006-defx0500010l)
 - [Loi n° 2006-450 du 18 avril 2006 (MENX0500251L)](loi-n-2006-450-du-18-avril-2006-menx0500251l)
 - [Loi n° 2006-64 du 23 janvier 2006 (INTX0500242L)](loi-n-2006-64-du-23-janvier-2006-intx0500242l)
+- [Loi n° 2006-686 du 13 juin 2006 (DEVX0100081L)](loi-n-2006-686-du-13-juin-2006-devx0100081l)
 - [Loi n°2006-586 du 23 mai 2006 (MJSX0500004L)](loi-n2006-586-du-23-mai-2006-mjsx0500004l)

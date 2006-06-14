@@ -1,6 +1,6 @@
 # Article 41 ter
 
-Des accords collectifs de location peuvent être conclus, pour un même secteur locatif, au sein de la Commission nationale de concertation ou de chaque commission spécialisée des rapports locatifs prévue à l'article 41 bis entre une ou plusieurs organisations de bailleurs et de locataires. Les accords ainsi conclus s'imposent aux organisations signataires et aux adhérents de ces organisations.
+Des accords collectifs de location peuvent être conclus, pour un ou plusieurs secteurs locatifs, au sein de la Commission nationale de concertation ou de chaque commission spécialisée des rapports locatifs prévue à l'article 41 bis entre une ou plusieurs organisations de bailleurs et de locataires. Les accords ainsi conclus s'imposent aux organisations signataires et aux adhérents de ces organisations.
 
 Les secteurs locatifs sont les suivants :
 
@@ -14,4 +14,4 @@ Les secteurs locatifs sont les suivants :
 
 Ces accords portent notamment sur les suppléments de loyers pour les organismes d'habitations à loyer modéré, la maîtrise de l'évolution des charges récupérables, la grille de vétusté, l'amélioration et l'entretien des logements et des parties communes, les locaux résidentiels à usage commun.
 
-Les accords conclus au sein de la Commission nationale de concertation font l'objet de la publication d'un avis au Journal officiel de la République française. A l'issue d'un délai d'un mois après cette publication et sauf opposition de la majorité des organisations représentatives des bailleurs d'un secteur, ou de la majorité des organisations représentatives des locataires, ils peuvent être rendus obligatoires, par décret, pour tous les logements du secteur locatif concerné. Le décret peut, après avis motivé de la Commission nationale de concertation et sans modifier l'équilibre de l'accord, en distraire certaines clauses.
+Les accords conclus au sein de la Commission nationale de concertation font l'objet de la publication d'un avis au Journal officiel de la République française. A l'issue d'un délai d'un mois après cette publication et sauf opposition de la majorité des organisations représentatives des bailleurs d'un ou plusieurs secteurs et des organisations représentatives des locataires, ils peuvent être rendus obligatoires, par décret, pour tous les logements des secteurs locatifs concernés. Le décret peut, après avis motivé de la Commission nationale de concertation et sans modifier l'équilibre de l'accord, en distraire certaines clauses.

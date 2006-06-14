@@ -1,0 +1,3 @@
+# Article 16
+
+Les fonctionnaires appartenant aux corps mentionnés aux articles 2, 8 et 14 qui ne sont pas en fonctions aux dates prévues à chacun de ces articles bénéficient d'office des intégrations qui y sont mentionnées dès leur retour en activité dans chacun de ces corps. Ceux d'entre eux qui relèvent de l'article 2 et qui ont atteint le 5e échelon de leur grade avant le 1er décembre 2006 peuvent être immédiatement intégrés dans le corps des adjoints administratifs en application du troisième alinéa de l'article 14 ; ceux d'entre eux qui relèvent de l'article 2 et qui n'ont pas atteint le 5e échelon avant le 1er décembre 2006 sont intégrés dans ce même corps à compter de cette dernière date s'ils sont toujours en fonctions à cette même date.
