@@ -2,7 +2,7 @@
 
 I. Paragraphe modificateur
 
-II. - Les installations nucléaires de base soumises à autorisation et contrôle en application de l'article 8 de la loi n° 61-842 du 2 août 1961 relative à la lutte contre les pollutions atmosphériques et les odeurs sont assujetties, à compter du 1er janvier 2000, à une taxe annuelle.
+II. - Les installations nucléaires de base visées à l'article 28 de la loi n° 2006-686 du 13 juin 2006 relative à la transparence et à la sécurité en matière nucléaire sont assujetties, à compter du 1er janvier 2000, à une taxe annuelle.
 
 Cette taxe est due par l'exploitant à compter de l'autorisation de création de l'installation et jusqu'à la décision de radiation de la liste des installations nucléaires de base. A compter de l'année civile suivant l'autorisation de mise à l'arrêt définitif et de démantèlement d'une installation, l'imposition forfaitaire applicable à l'installation concernée est réduite de 50 %.
 

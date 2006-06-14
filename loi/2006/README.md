@@ -1,5 +1,6 @@
 # 2006
 
+- [Loi n° 2002-3 du 3 janvier 2002 (EQUX0000153L)](loi-n-2002-3-du-3-janvier-2002-equx0000153l)
 - [Loi n° 2005-822 du 20 juillet 2005 (MAEX0500033L)](loi-n-2005-822-du-20-juillet-2005-maex0500033l)
 - [Loi n° 2005-845 du 26 juillet 2005 (JUSX0400017L)](loi-n-2005-845-du-26-juillet-2005-jusx0400017l)
 - [Loi n° 2006-10 du 5 janvier 2006 (EQUX0500211L)](loi-n-2006-10-du-5-janvier-2006-equx0500211l)

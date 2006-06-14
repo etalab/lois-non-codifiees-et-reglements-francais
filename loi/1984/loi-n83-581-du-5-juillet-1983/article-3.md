@@ -32,4 +32,8 @@ Ont libre accès à bord de tout navire, pour procéder à ces visites ou y part
 
 - les membres des commissions de visite ;
 
-- le personnel des sociétés de classification agréées.
+- le personnel des sociétés de classification agréées ;
+
+- les inspecteurs de la sûreté nucléaire.
+
+En outre, les inspecteurs de la sûreté nucléaire ont libre accès à bord de tout navire pour exercer la surveillance du transport par voie maritime des substances radioactives au regard des règles de la sûreté nucléaire.

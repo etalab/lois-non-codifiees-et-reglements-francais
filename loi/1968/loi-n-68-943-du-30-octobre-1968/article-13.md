@@ -8,4 +8,4 @@ Dans ce cas, les sommes disponibles prévues par la présente loi sont répartie
 
 a) Les dommages corporels sont réparés par priorité suivant des modalités déterminées par analogie avec la législation sur les accidents du travail ;
 
-b) Les sommes qui restent disponibles, le cas échéant, après cette première indemnisation, sont réparties entre les victimes proportionnellement aux dommages corporels restant à indemniser et aux dommages matériels subis, évalués selon les règles du droit commun.
+b) Les sommes qui restent disponibles, le cas échéant, après cette première indemnisation, sont réparties entre les victimes proportionnellement aux dommages corporels restant à indemniser et aux autres dommages nucléaires subis, évalués selon les règles du droit commun.

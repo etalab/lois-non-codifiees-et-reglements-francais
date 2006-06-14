@@ -10,7 +10,9 @@ Sont chargés de constater les infractions aux dispositions législatives ou ré
 
 4° Les inspecteurs du travail, les fonctionnaires ou agents ayant qualité pour constater les infractions à la législation sociale dans les établissements soumis au contrôle technique du ministère de l'industrie et de la recherche et les contrôleurs des lois sociales en agriculture ;
 
-5° Les fonctionnaires et agents des services déconcentrés du ministère chargé de la navigation intérieure et du service des mines commissionnés à cet effet, et les membres des commissions de surveillance.
+5° Les fonctionnaires et agents des services déconcentrés du ministère chargé de la navigation intérieure et du service des mines commissionnés à cet effet, et les membres des commissions de surveillance ;
+
+6° Les inspecteurs de la sûreté nucléaire remplissant les conditions prévues à l'article 46 de la loi n° 2006-686 du 13 juin 2006 relative à la transparence et à la sécurité en matière nucléaire.
 
 Ces fonctionnaires et agents ont notamment accès aux lieux de chargement et de déchargement des véhicules et aux lieux d'emballage et de remplissage dans les entreprises soumises à l'obligation de désigner un conseiller à la sécurité. Ils peuvent procéder à des contrôles, dans les entreprises, des registres et autres documents afférents au transport, au chargement, à l'emballage et au remplissage de matières dangereuses.
 
