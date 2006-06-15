@@ -12,7 +12,7 @@ La note est affectée d'un coefficient 3.
 
 La note est affectée d'un coefficient 3.
 
-3° Une interrogation d'une durée de vingt minutes portant sur la procédure civile et le droit pénal des affaires.
+3° Une interrogation d'une durée de vingt minutes portant sur la procédure civile et le droit pénal des affaires la note est affectée d'un coefficient 3.
 
 4° Une interrogation d'une durée de quinze minutes portant sur le droit social et le droit fiscal liés aux procédures collectives.
 

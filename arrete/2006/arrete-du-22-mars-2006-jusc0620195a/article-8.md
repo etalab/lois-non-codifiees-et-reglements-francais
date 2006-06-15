@@ -1,6 +1,6 @@
 # Article 8
 
-I. - Les épreuves d'admissibilité prévues au III de l'article 11 du décret n° 85-1389 du 27 décembre 1985 susvisé comprennent des épreuves écrites :
+I. - Les épreuves d'admissibilité prévues au V de l'article 108 du décret n° 2004-518 du 11 juin 2004 susvisé comprennent des épreuves écrites :
 
 1° Une épreuve d'une durée de deux heures portant sur le droit national des entreprises en difficulté.
 
