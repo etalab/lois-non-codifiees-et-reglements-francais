@@ -4,7 +4,7 @@ Dispositions transitoires.
 
 I. - Pour la première élection des conseils départementaux et des conseils régionaux de l'ordre des masseurs-kinésithérapeutes dont la date est fixée par arrêté du ministre chargé de la santé :
 
-1° a) Sont électeurs tous les masseurs-kinésithérapeutes qui ont été enregistrés à la préfecture, conformément aux dispositions de l'article L. 4321-10 du code de la santé publique, à une date précédant d'au moins deux mois celle des élections ; la répartition des électeurs entre les deux collèges est effectuée par chaque direction départementale des affaires sanitaires et sociales selon le mode d'exercice des intéressés ;
+1° a) Sont électeurs aux conseils départementaux tous les masseurs-kinésithérapeutes qui ont été enregistrés à la préfecture, conformément aux dispositions de l'article L. 4321-10 du code de la santé publique, à une date précédant d'au moins deux mois celle des élections ; la répartition des électeurs entre les deux collèges est effectuée par chaque direction départementale des affaires sanitaires et sociales selon le mode d'exercice des intéressés ;
 
 b) Sont éligibles dans chaque collège les masseurs-kinésithérapeutes enregistrés à la préfecture depuis au moins trois ans à la date des élections ; la composition du conseil départemental est déterminée en tenant compte du nombre de masseurs-kinésithérapeutes qui sont électeurs en application du a ci-dessus ;
 
