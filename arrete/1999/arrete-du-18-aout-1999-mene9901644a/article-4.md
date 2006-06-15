@@ -1,6 +1,6 @@
 # Article 4
 
-Pour les candidats visés à l'article 3, le diplôme est attribué sur la base des notes obtenues à un examen et des résultats acquis en classes de quatrième et de troisième.
+Pour les candidats mentionnés à l'article 3, le diplôme est attribué sur la base des notes obtenues à un examen et des résultats acquis en classe de troisième.
 
 L'examen comporte trois épreuves écrites :
 
@@ -18,9 +18,7 @@ a) Série collège :
 
 Candidats scolarisés en classe de troisième à option langue vivante 2.
 
-Les résultats de ces élèves, en classe de quatrième et en classe de troisième, sont pris en compte comme suit :
-
-=============================================
+Les résultats de ces élèves, en classe de troisième, sont pris en compte comme suit : =============================================
 
 Vous pouvez consulter le tableau dans le JO
 
@@ -50,7 +48,7 @@ Sont également pris en compte les points obtenus au-dessus de la moyenne de 10 
 
 b) Série technologique :
 
-Les résultats de ces élèves, en classe de quatrième et en classe de troisième, sont pris en compte comme suit :
+Les résultats de ces élèves, en classe de troisième, sont pris en compte comme suit :
 
 =============================================
 
@@ -62,7 +60,7 @@ n° 205 du 04/09/1999 page 13248 à 13250
 
 c) Série professionnelle :
 
-Les résultats de ces élèves, en classe de quatrième et en classe de troisième, sont pris en compte comme suit :
+Les résultats de ces élèves, en classe de troisième, sont pris en compte comme suit :
 
 =============================================
 
