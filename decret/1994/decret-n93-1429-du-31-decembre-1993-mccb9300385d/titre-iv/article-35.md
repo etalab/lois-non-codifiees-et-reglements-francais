@@ -2,7 +2,7 @@
 
 Les critères de sélection et d'échantillonnage des documents sélectionnés mentionnés aux 2° des articles 31 et 32 sont arrêtés par le ministre chargé de la communication sur proposition d'une commission composée des membres suivants :
 
-1° Le président du conseil scientifique du dépôt légal, président ;
+1° Le président de l'Institut national de l'audiovisuel, président ;
 
 2° Un représentant du ministre chargé de la culture ;
 

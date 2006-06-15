@@ -1,10 +1,10 @@
 # Article 13
 
-La commission prévue à l'article précédent est composée des membres suivants [*composition*] :
+La commission prévue à l'article précédent est composée des membres suivants :
 
-1° Le président du conseil scientifique du dépôt légal, président ;
+1° Le président de la Bibliothèque nationale de France, président ;
 
-2° Deux représentants de la Bibliothèque nationale de France ;
+2° Un représentant de la Bibliothèque nationale de France ;
 
 3° Deux représentants du ministre chargé de la culture ;
 

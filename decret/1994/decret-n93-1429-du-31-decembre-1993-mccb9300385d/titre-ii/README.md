@@ -2,6 +2,4 @@
 
 - [Chapitre Ier : Du dépôt des documents imprimés, graphiques et photographiques.](chapitre-ier)
 - [Chapitre II : Du dépôt des progiciels, bases de données et systèmes experts.](chapitre-ii)
-- [Chapitre III : Du dépôt des phonogrammes.](chapitre-iii)
-- [Chapitre IV : Du dépôt des vidéogrammes.](chapitre-iv)
-- [Chapitre V : Du dépôt des documents multimédias.](chapitre-v)
+- [Chapitre III : Du dépôt des phonogrammes, vidéogrammes et documents multimédias](chapitre-iii)

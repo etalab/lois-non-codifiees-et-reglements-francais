@@ -1,13 +1,17 @@
 # Article 10
 
-Les bases de données sont déposées à la Bibliothèque nationale de France dès lors qu'elles sont mises à la disposition du public, à titre onéreux ou gratuit, par diffusion en nombre d'un support matériel de quelque nature que ce soit.
+Les progiciels, bases de données, systèmes experts et autres produits de l'intelligence artificielle sont déposés à la Bibliothèque nationale de France dès lors qu'ils sont mis à la disposition du public, à titre onéreux ou gratuit, par diffusion en nombre d'un support matériel de quelque nature que ce soit.
 
-Les bases de données ne sont pas soumises [*exception*] à l'obligation de dépôt lorsqu'elles sont importées à moins de cent exemplaires.
+Le dépôt des progiciels, bases de données, systèmes experts et autres produits de l'intelligence artificielle édités en France incombe à la personne qui édite les supports mentionnés au premier alinéa.
 
-Le dépôt est effectué, en deux exemplaires, par la personne physique ou morale qui édite ou qui importe le support mentionné au premier alinéa ci-dessus. En l'absence d'éditeur, le dépôt est effectué par la personne qui produit la base de données.
+En l'absence d'éditeur, le dépôt est effectué par la personne qui produit les progiciels, bases de données, systèmes experts et autres produits de l'intelligence artificielle.
 
-Le dépôt est effectué au plus tard le jour qui suit la mise à disposition du public.
+Le dépôt des progiciels, bases de données, systèmes experts et autres produits de l'intelligence artificielle importés incombe à leur importateur.
+
+Ce dépôt est effectué, en deux exemplaires pour ceux édités sur le territoire national et en un exemplaire pour ceux qui sont importés, au plus tard le jour de la mise à la disposition du public, à la Bibliothèque nationale de France.
 
 Il est réalisé par la remise ou l'expédition du support matériel permettant l'utilisation par le public. Le support est accompagné de la documentation afférente au produit. L'un et l'autre doivent être d'une parfaite qualité et identiques à l'exemplaire mis à la disposition du public.
 
-Les ministres chargés de la culture, de l'industrie et de la recherche fixent par arrêté les mentions que doivent porter les documents prévus au présent chapitre.
+Les documents doivent être accompagnés des mots de passe et le cas échéant des clés d'accès aux documents protégés ainsi que de toutes les données techniques nécessaires à leur conservation et à leur consultation.
+
+Le ministre chargé de la culture fixe les mentions que doivent porter les documents cités au présent article.

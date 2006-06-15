@@ -1,6 +1,6 @@
 # Article 6
 
-Les documents déposés doivent porter des mentions [*obligatoires*] dont la nature est fixée, après avis du conseil scientifique du dépôt légal, par les arrêtés ministériels prévus aux articles 9, 10, 17, 20, 22, 29, 38 et 40 du présent décret.
+Les documents déposés doivent porter des mentions dont la nature est fixée par les arrêtés ministériels prévus aux articles 9, 10, 16, 29, 38 et 40.
 
 Ces arrêtés peuvent prévoir des mentions relatives à :
 
