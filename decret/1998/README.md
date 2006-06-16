@@ -578,7 +578,6 @@
 - [Décret n°98-733 du 20 août 1998 (INTX9800105D)](decret-n98-733-du-20-aout-1998-intx9800105d)
 - [Décret n°98-747 du 20 août 1998 (MAEJ9830064D)](decret-n98-747-du-20-aout-1998-maej9830064d)
 - [Décret n°98-937 du 20 octobre 1998 (JUSB9810231D)](decret-n98-937-du-20-octobre-1998-jusb9810231d)
-- [Décret n°98-938 du 20 octobre 1998 (MENG9802603D)](decret-n98-938-du-20-octobre-1998-meng9802603d)
 - [Décret n°98-941 du 20 octobre 1998 (EQUP9801318D)](decret-n98-941-du-20-octobre-1998-equp9801318d)
 - [Décret n°98-392 du 20 mai 1998 (MESH9820706D)](decret-n98-392-du-20-mai-1998-mesh9820706d)
 - [Décret n°98-393 du 20 mai 1998 (MESH9821163D)](decret-n98-393-du-20-mai-1998-mesh9821163d)
