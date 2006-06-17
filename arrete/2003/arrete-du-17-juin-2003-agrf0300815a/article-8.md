@@ -2,6 +2,8 @@
 
 Les frais engagés par le travailleur salarié ou assimilé dans le cadre d'une mobilité professionnelle sont considérés comme des charges de caractère spécial inhérentes à l'emploi.
 
+La mobilité professionnelle suppose un changement de lieu de résidence lié à un changement de poste de travail du salarié dans un autre lieu de travail. Le travailleur salarié ou assimilé est présumé placé dans cette situation lorsque la distance séparant l'ancien logement du lieu du nouvel emploi est au moins de 50 kilomètres et entraîne un temps de trajet aller ou retour au moins égal à 1 h 30. Toutefois, lorsque le critère de distance kilométrique n'est pas rempli, le critère du trajet aller doit, en tout état de cause et quel que soit le mode de transport, être égal au moins à 1 h 30.
+
 L'employeur est autorisé à déduire de l'assiette des cotisations sociales les indemnités suivantes :
 
 1° Les indemnités destinées à compenser les dépenses d'hébergement provisoire et les frais supplémentaires de nourriture, dans l'attente d'un logement définitif : elles sont réputées utilisées conformément à l'objet pour la partie qui n'excède pas 60 Euros par jour pour une durée ne pouvant dépasser neuf mois ;

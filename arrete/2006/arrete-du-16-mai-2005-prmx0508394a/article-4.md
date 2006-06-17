@@ -12,6 +12,16 @@ En fonction du choix des usagers du service, les organismes destinataires des in
 
 - la Caisse nationale d'assurance vieillesse des travailleurs salariés ;
 
-- l'Unédic.
+- l'Unédic ;
+
+- La Poste ;
+
+- La direction des retraites de la Caisse des dépôts et consignations ;
+
+- La Caisse centrale de la mutualité sociale agricole (CCMSA) ;
+
+- L'Association générale des institutions de retraite des cadres (AGIRC) ;
+
+- L'Association pour le régime de retraite complémentaire des salariés (ARRCO).
 
 Ces organismes ne peuvent recevoir que les informations les concernant.
