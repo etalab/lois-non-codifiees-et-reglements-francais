@@ -138,6 +138,7 @@
 - [Arrêté du 14 avril 2006 (MENA0601007A)](arrete-du-14-avril-2006-mena0601007a)
 - [Arrêté du 14 avril 2006 (SANY0621663A)](arrete-du-14-avril-2006-sany0621663a)
 - [Arrêté du 14 juin 1979](arrete-du-14-juin-1979)
+- [Arrêté du 14 juin 2006 (SANS0622496A)](arrete-du-14-juin-2006-sans0622496a)
 - [Arrêté du 14 mars 2006 (SANA0620922A)](arrete-du-14-mars-2006-sana0620922a)
 - [Arrêté du 14 novembre 2005 (AGRG0502586A)](arrete-du-14-novembre-2005-agrg0502586a)
 - [Arrêté du 15 février 2006 (ECOC0600008A)](arrete-du-15-fevrier-2006-ecoc0600008a)
