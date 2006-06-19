@@ -1162,7 +1162,6 @@
 - [Arrêté du 30 mai 1997 (TASP9721889A)](arrete-du-30-mai-1997-tasp9721889a)
 - [Arrêté du 30 mai 1997 (TASP9721892A)](arrete-du-30-mai-1997-tasp9721892a)
 - [Arrêté du 30 mai 1997 (TASP9721972A)](arrete-du-30-mai-1997-tasp9721972a)
-- [Arrêté du 30 mai 1997 (TASS9721751A)](arrete-du-30-mai-1997-tass9721751a)
 - [Arrêté du 30 mai 1997 (TASS9721891A)](arrete-du-30-mai-1997-tass9721891a)
 - [Arrêté du 31 décembre 1996 (AGRA9601280A)](arrete-du-31-decembre-1996-agra9601280a)
 - [Arrêté du 31 décembre 1996 (AGRA9602590A)](arrete-du-31-decembre-1996-agra9602590a)
