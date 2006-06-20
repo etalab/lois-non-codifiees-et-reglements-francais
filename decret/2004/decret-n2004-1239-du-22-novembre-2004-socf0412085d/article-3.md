@@ -6,4 +6,6 @@ Chaque trimestre, l'employeur est tenu d'adresser à l'organisme gestionnaire un
 
 Les transmissions de documents prévues au présent article doivent intervenir avant le 20 du mois suivant la période de travail ou de cotisation considérée pour un paiement par l'organisme gestionnaire au bénéficiaire de l'aide dans le trimestre qui suit la période de travail ou de cotisation considérée.
 
-En tout état de cause, ces transmissions doivent être valablement déposées auprès de l'organisme gestionnaire au plus tard le 30 septembre 2006 pour donner lieu à paiement.
+Les formulaires d'actualisation relatifs aux trimestres antérieurs au 1er janvier 2006 doivent être valablement déposés auprès de l'organisme gestionnaire au plus tard le 30 septembre 2006 pour donner lieu à paiement.
+
+Les formulaires d'actualisation relatifs aux trimestres postérieurs au 1er janvier 2006 doivent être valablement déposés auprès de l'organisme gestionnaire au plus tard le 30 septembre 2007 pour donner lieu à paiement.

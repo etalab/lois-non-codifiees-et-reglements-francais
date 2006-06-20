@@ -6,7 +6,7 @@ II. - Pour les salariés dont le salaire horaire, hors avantage en nature nourri
 
 Si le salaire horaire, hors avantage en nature nourriture, est supérieur au salaire minimum de croissance, le montant de l'aide est égal à cent quarante trois euros par mois multiplié par un coefficient défini comme suit :
 
-(Tableau non reproduit).
+(Tableau non reproduit, consulter le fac-similé).
 
 Le coefficient applicable dans les départements d'outre-mer, à l'exception de la Guyane, est obtenu en remplaçant, dans le tableau ci-dessus, le taux de 19,6 % par le taux de 8,5 %. Le coefficient applicable en Corse est obtenu en remplaçant le taux de 19,6 % par le taux de 8 %.
 
