@@ -1,0 +1,3 @@
+# Article 16
+
+Ces commissions sont des instances de concertation, de proposition et de retour d'expérience. Par les échanges d'information dont elles sont le cadre, elles contribuent à l'adaptation des actions de la direction générale des systèmes d'information et de communication en fonction de l'évolution des besoins des utilisateurs, des techniques ou des contraintes internes ou externes ; elles complètent, à destination des organismes représentés, la communication de la direction générale des systèmes d'information et de communication sur les différents aspects de la politique des systèmes d'information et de communication.
