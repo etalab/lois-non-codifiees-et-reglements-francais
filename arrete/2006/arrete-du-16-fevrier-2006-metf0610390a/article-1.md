@@ -445,7 +445,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 <p> Chargé d'information et de communication </p>
 <p>dans le sport. </p>
 </td>
-<td align="center"> 312 t<br/>
+<td align="center"> 321 t<br/>
 </td>
 <td align="center"> 5 ans</td>
 <td align="center">
@@ -969,7 +969,8 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 <td align="center"> 5 ans</td>
 <td align="center">
 <p> Assemblée des chambres françaises de commerce et</p>
-<p>d'industrie (ACFCI). </p>
+<p>d'industrie (ACFCI), Association des écoles de</p>
+<p>gestion et de commerce (EGC). </p>
 </td>
 </tr>
 <tr>
@@ -979,8 +980,8 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 <td align="center"> 310 m</td>
 <td align="center"> 5 ans</td>
 <td align="center">
-<p> Institut français de gestion (IFG), institut de </p>
-<p>formation aux affaires et gestion (IFAG).</p>
+<p> Institut de </p>
+<p>formation aux affaires et à la gestion (IFAG).</p>
 </td>
 </tr>
 <tr>
