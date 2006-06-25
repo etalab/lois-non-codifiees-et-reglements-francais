@@ -6,7 +6,7 @@ La conservation des noix fraîches ou primeurs en emballages étanches est inter
 
 L'expédition de noix en coque et de cerneaux de noix en vrac à l'extérieur de l'aire de production définie à l'article 2 du présent décret est interdite.
 
-Les noix fraîches ou primeurs sont conditionnées en emballages de 5 kg maximum.
+Les noix fraîches ou primeurs sont conditionnées en emballages de 10 kg maximum.
 
 Les noix sèches sont conditionnées en emballages de 25 kg maximum.
 

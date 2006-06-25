@@ -6,5 +6,7 @@
 - [Titre III : Le département du sport de haut niveau.](titre-iii)
 - [Titre IV : Le département de la formation.](titre-iv)
 - [Titre V : Le département médical.](titre-v)
+- [Titre VI : Le département IRMES](titre-vi)
+- [Titre VII : Unité de soutien à la préparation des sportifs en vue des jeux olympiques et paralympiques](titre-vii)
 - [Article 20](article-20.md)
 - [Annexes](annexes)
