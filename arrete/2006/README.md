@@ -201,6 +201,7 @@
 - [Arrêté du 19 mars 2006 (MCCB0600350A)](arrete-du-19-mars-2006-mccb0600350a)
 - [Arrêté du 19 mai 2006 (INTC0600486A)](arrete-du-19-mai-2006-intc0600486a)
 - [Arrêté du 19 mai 2006 (MENE0601389A)](arrete-du-19-mai-2006-mene0601389a)
+- [Arrêté du 19 mai 2006 (MENS0601487A)](arrete-du-19-mai-2006-mens0601487a)
 - [Arrêté du 19 mai 2006 (SANP0622121A)](arrete-du-19-mai-2006-sanp0622121a)
 - [Arrêté du 19 mai 2006 (SANP0622180A)](arrete-du-19-mai-2006-sanp0622180a)
 - [Arrêté du 20 avril 2006 (SANP0621715A)](arrete-du-20-avril-2006-sanp0621715a)
