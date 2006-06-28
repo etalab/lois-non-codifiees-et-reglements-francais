@@ -6,5 +6,7 @@
 - [Titre IV : Prohibitions diverses.](titre-iv)
 - [Titre V : Dispositions particulières.](titre-v)
 - [Titre VI : Mesures d'ordre et de précaution.](titre-vi)
+- [TITRE VII : Suivi de l'activité des navires en mer.](titre-vii)
 - [Titre VIII : Sanctions pénales et administratives.](titre-viii)
 - [Titre IX : Abrogations.](titre-ix)
+- [Article 26](article-26.md)

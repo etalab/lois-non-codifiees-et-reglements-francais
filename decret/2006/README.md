@@ -616,6 +616,7 @@
 - [Décret n°2006-395 du 27 mars 2006 (DOMA0600003D)](decret-n2006-395-du-27-mars-2006-doma0600003d)
 - [Décret n°2006-481 du 27 avril 2006 (SOCU0511416D)](decret-n2006-481-du-27-avril-2006-socu0511416d)
 - [Décret n°2006-490 du 27 avril 2006 (INTC0600080D)](decret-n2006-490-du-27-avril-2006-intc0600080d)
+- [Décret n°2006-738 du 27 juin 2006 (AGRM0600987D)](decret-n2006-738-du-27-juin-2006-agrm0600987d)
 - [Décret n°2006-82 du 27 janvier 2006 (INDI0606639D)](decret-n2006-82-du-27-janvier-2006-indi0606639d)
 - [Décret n°2006-83 du 27 janvier 2006 (SANS0620271D)](decret-n2006-83-du-27-janvier-2006-sans0620271d)
 - [Décret n°2006-88 du 27 janvier 2006 (DEFP0600049D)](decret-n2006-88-du-27-janvier-2006-defp0600049d)
