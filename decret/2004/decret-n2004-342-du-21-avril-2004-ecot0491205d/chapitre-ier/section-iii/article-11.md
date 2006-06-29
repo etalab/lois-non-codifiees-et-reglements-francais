@@ -2,7 +2,7 @@
 
 Les statuts ou le règlement intérieur de l'association comportent des clauses sur l'organisation et le déroulement des assemblées des participants de chaque plan, ainsi que sur les délais et les modalités de convocation à ces assemblées. Ils prévoient notamment que l'ordre du jour de ces assemblées est fixé par leur président.
 
-L'assemblée des participants d'un plan d'épargne retraite populaire est convoquée par le président de son comité de surveillance ou, à défaut, par au moins le tiers des membres de ce comité, au moins une fois par an afin :
+L'assemblée des participants d'un plan d'épargne retraite populaire est convoquée par le président de son comité de surveillance ou, à défaut, par au moins le tiers des membres de ce comité, au moins une fois par an et au plus tard dans les six mois suivant la clôture de l'exercice afin :
 
 1° D'approuver le rapport annuel sur la gestion et la surveillance du plan établi par le comité de surveillance, ainsi que les comptes annuels du plan sur le rapport des commissaires aux comptes de l'organisme d'assurance gestionnaire du plan et après avis du comité de surveillance ;
 

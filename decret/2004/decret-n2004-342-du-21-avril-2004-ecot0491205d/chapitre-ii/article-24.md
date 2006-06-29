@@ -22,4 +22,4 @@ i) Tout changement, intervenu au cours de l'exercice écoulé, relatif à la com
 
 j) Un rapport sur les réclamations des participants du plan au titre de la gestion du plan, l'état des litiges relatifs à la gestion du plan et des éventuelles médiations engagées.
 
-Le rapport du ou des commissaires aux comptes de l'organisme d'assurance gestionnaire du plan sur les comptes annuels du plan et sur l'accomplissement de leur mission au titre du plan est joint au rapport annuel du comité.
+Le rapport du ou des commissaires aux comptes de l'organisme d'assurance gestionnaire du plan sur les comptes annuels du plan et sur l'accomplissement de leur mission au titre du plan est joint au rapport annuel du comité. Le rapport du ou des commissaires aux comptes est adressé au président de l'assemblée générale quinze jours au moins avant la tenue de l'assemblée des participants.

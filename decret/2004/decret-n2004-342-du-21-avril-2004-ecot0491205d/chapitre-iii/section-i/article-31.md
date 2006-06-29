@@ -10,4 +10,4 @@ c) Une annexe comportant un inventaire des actifs du plan et un état récapitul
 
 d) Un tableau des engagements reçus et donnés.
 
-Ces documents sont établis par l'organisme d'assurance gestionnaire du plan à chaque fin d'exercice.
+Ces documents sont établis et arrêtés par l'organisme d'assurance, dans les mêmes conditions que ses comptes individuels gestionnaire du plan à chaque fin d'exercice.
