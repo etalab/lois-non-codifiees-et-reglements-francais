@@ -10,4 +10,6 @@ Sont prises par les directeurs régionaux des douanes et droits indirects, dans 
 
 6° Autorisation d'ouverture des comptoirs de vente hors taxe, prévue par l'article 75 B de l'annexe III au CGI ;
 
-7° Dérogation au système d'indication des ventes effectuées hors taxe, prévue par l'article 75 E de l'annexe III au CGI.
+7° Dérogation au système d'indication des ventes effectuées hors taxe, prévue par l'article 75 E de l'annexe III au CGI ;
+
+8° Les décisions relatives aux demandes de la dispense prévue au paragraphe 1 bis de l'article 114 du code des douanes.
