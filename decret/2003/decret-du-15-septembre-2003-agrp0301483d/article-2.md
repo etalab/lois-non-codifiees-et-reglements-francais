@@ -2,7 +2,7 @@
 
 Aire géographique.
 
-Pour avoir droit à l'appellation d'origine contrôlée, la viande doit provenir des animaux nés, élevés, abattus et découpés dans l'aire géographique qui s'étend aux territoires des communes ou parties de commune suivantes du département des Hautes-Pyrénées :
+Pour avoir droit à l'appellation d'origine contrôlée, la viande doit provenir des animaux nés, élevés, abattus dans l'aire géographique qui s'étend aux territoires des communes ou parties de commune suivantes du département des Hautes-Pyrénées :
 
 - communes retenues en totalité : Barèges, Betpouey, Chèze, Esquièze-Sère, Esterre, Gavarnie, Gèdre, Grust, Luz-Saint-Sauveur, Saligos, Sassis, Sazos, Sers, Viella, Viey, Viscos, Vizos ;
 

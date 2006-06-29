@@ -2,7 +2,7 @@
 
 Abattage et préparation des carcasses.
 
-Les animaux sont abattus et découpés dans des abattoirs et des ateliers de découpe situés dans l'aire géographique définie à l'article 2. Les ateliers de découpe vendant directement au détail (boucheries de détail) peuvent être situés hors de la zone définie.
+Les animaux sont abattus dans des abattoirs situés dans l'aire géographique définie à l'article 2.
 
 La durée de transport des animaux ne doit pas dépasser la durée d'une heure entre la fin du chargement et le début du déchargement à l'abattoir.
 
