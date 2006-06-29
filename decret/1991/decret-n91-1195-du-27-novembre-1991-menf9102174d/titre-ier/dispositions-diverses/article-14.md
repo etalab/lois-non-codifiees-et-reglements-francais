@@ -1,3 +1,3 @@
 # Article 14
 
-Les médecins de l'éducation nationale sont tenus de suivre, dans l'intérêt du service, des stages de formation professionnelle dans le domaine médical organisés sous le contrôle du ministre chargé de l'éducation nationale et du ministre chargé de la santé.
+Les médecins de l'éducation nationale sont tenus de participer à des actions de formation médicale continue dans les conditions prévues à l'article L. 4133-1 du code de la santé publique.

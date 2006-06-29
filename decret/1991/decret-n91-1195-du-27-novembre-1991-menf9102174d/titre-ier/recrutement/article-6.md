@@ -1,9 +1,5 @@
 # Article 6
 
-Les candidats admis aux concours sont nommés médecins de l'éducation nationale stagiaires par arrêté du ministre de l'éducation nationale et titularisés après avoir accompli un stage d'un an.
+Les candidats admis au concours mentionné à l'article 4 sont nommés médecins de l'éducation nationale stagiaires par arrêté du ministre chargé de l'éducation nationale.
 
-Pendant l'année du stage, ils sont appelés à suivre une formation organisée dans les conditions suivantes :
-
-1. Les candidats admis au concours prévu au b du 1 de l'article 4 ci-dessus doivent suivre une formation d'une durée d'une année à l'Ecole nationale de santé publique selon les modalités fixées par arrêté conjoint des ministres chargés de l'éducation nationale et de la santé. Toutefois, ceux d'entre eux justifiant d'une formation, qualification ou pratique professionnelle validée par une commission constituée par arrêté du ministre de l'éducation nationale suivent la formation prévue au 2 ci-dessous.
-
-2. Les candidats admis aux concours prévus au a du 1 et au 2 de l'article 4 ci-dessus doivent suivre une formation de huit semaines selon des modalités fixées par arrêté conjoint des ministres chargés de l'éducation nationale et de la santé.
+Ils reçoivent au cours de ce stage, d'une durée d'un an, une formation organisée par l'Ecole nationale de la santé publique dans des conditions fixées par arrêté conjoint des ministres chargés de l'éducation nationale, de la santé et de la fonction publique. Le directeur de l'Ecole nationale de la santé publique, par délégation du ministre, peut adapter la durée et les modalités de la formation à l'expérience professionnelle précédemment acquise, le cas échéant, par le stagiaire.
