@@ -562,6 +562,7 @@
 - [Décret n°2004-435 du 24 mai 2004 (JUSX0400052D)](decret-n2004-435-du-24-mai-2004-jusx0400052d)
 - [Décret n°2006-587 du 24 mai 2006 (INTD0600109D)](decret-n2006-587-du-24-mai-2006-intd0600109d)
 - [Décret n°2006-592 du 24 mai 2006 (SOCU0610624D)](decret-n2006-592-du-24-mai-2006-socu0610624d)
+- [Décret n°2000-815 du 25 août 2000 (FPPA0000085D)](decret-n2000-815-du-25-aout-2000-fppa0000085d)
 - [Décret n°2006-470 du 25 avril 2006 (INTD0600085D)](decret-n2006-470-du-25-avril-2006-intd0600085d)
 - [Décret n°2006-474 du 25 avril 2006 (SANP0620646D)](decret-n2006-474-du-25-avril-2006-sanp0620646d)
 - [Décret n°2006-476 du 25 avril 2006 (BUDF0620370D)](decret-n2006-476-du-25-avril-2006-budf0620370d)
