@@ -124,7 +124,7 @@ Principaux minerais : oxydes, sulfures, carbonates.
 
 Législation et réglementation sanitaires :
 
-Code de la santé publique : Livre Ier "Protection générale de la santé publique", à l'exclusion des titres Ier bis et II.
+Code de la santé publique : Livre Ier " Protection générale de la santé publique ", à l'exclusion des titres Ier bis et II.
 
 Le règlement sanitaire départemental type (circulaires du 9 août 1978 et du 26 avril 1982).
 
@@ -152,7 +152,7 @@ Organisation administrative et institutions :
 
 Organisation administrative des services compétents en matière de santé :
 
-Ministère chargé de la santé et ses services extérieurs ;
+Ministère chargé de la santé et ses services déconcentrés.
 
 Bureaux municipaux d'hygiène ;
 
@@ -160,13 +160,13 @@ Autres administrations ;
 
 Laboratoires agréés pour le contrôle sanitaire des eaux.
 
-Rôles du maire et du commissaire de la République en matière d'hygiène et de protection de la santé publique.
+Rôles du maire et du   préfet en matière d'hygiène et de protection de la santé publique.
 
 Institutions (code de la santé publique, livre VIII) :
 
 Conseil supérieur d'hygiène publique de France ;
 
-Conseil départemental d'hygiène.
+Conseil départemental de l'environnement et des risques sanitaires et technologiques.
 
 Pratique du service :
 
