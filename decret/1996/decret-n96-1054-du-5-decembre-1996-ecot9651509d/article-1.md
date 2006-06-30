@@ -2,176 +2,193 @@
 
 Le nombre des représentants de l'Etat au conseil d'administration ou de surveillance des sociétés mentionnées à l'article 51 de la loi du 12 avril 1996 susvisée est fixé ainsi qu'il suit :
 
-NOM DE LA SOCIETE
-
-Compagnie générale de matières nucléaires (Cogéma)
-
-NOMBRE de représentants de l'Etat au conseil d'administration ou de surveillance
-
-4
-
-REPARTITION PAR MINISTERE
-
-Affaires étrangères.
-
-Défense.
-
-Economie.
-
-Industrie.
-
-NOM DE LA SOCIETE
-
-EMC SA
-
-NOMBRE de représentants de l'Etat au conseil d'administration ou de surveillance
-
-2
-
-REPARTITION PAR MINISTERE
-
-Economie.
-
-Industrie.
-
-NOM DE LA SOCIETE
-
-Société financière de gestion de fonds de garantie d'outre-mer (SOGECOM).
-
-NOMBRE de représentants de l'Etat au conseil d'administration ou de surveillance
-
-2
-
-REPARTITION PAR MINISTERE
-
-Economie.
-
-Outre-mer.
-
-NOM DE LA SOCIETE
-
-Société financière pour favoriser l'industrialisation des régions minières (Sofirem)
-
-NOMBRE de représentants de l'Etat au conseil d'administration ou de surveillance
-
-4
-
-REPARTITION PAR MINISTERE
-
-Aménagement du territoire.
-
-Budget.
-
-Economie.
-
-Industrie.
-
-NOM DE LA SOCIETE
-
-Société française du tunnel routier du Fréjus
-
-NOMBRE de représentants de l'Etat au conseil d'administration ou de surveillance
-
-6
-
-REPARTITION PAR MINISTERE
-
-Affaires étrangères.
-
-Budget.
-
-Collectivités territoriales.
-
-Economie.
-
-Transport (x 2).
-
-NOM DE LA SOCIETE
-
-Société nationale maritime Corse-Méditerranée
-
-NOMBRE de représentants de l'Etat au conseil d'administration ou de surveillance
-
-3
-
-REPARTITION PAR MINISTERE
-
-Budget.
-
-Economie.
-
-Transports.
-
-NOM DE LA SOCIETE
-
-OSEO SOFARIS
-
-NOMBRE de représentants de l'Etat au conseil d'administration ou de surveillance
-
-3
-
-REPARTITION PAR MINISTERE
-
-Economie.
-
-Industrie.
-
-Petites et moyennes entreprises.
-
-NOM DE LA SOCIETE
-
-SNCF Participations
-
-NOMBRE de représentants de l'Etat au conseil d'administration ou de surveillance
-
-2
-
-REPARTITION PAR MINISTERE
-
-Transports (x 2).
-
-NOM DE LA SOCIETE
-
-Société des participations du CEA
-
-NOMBRE de représentants de l'Etat au conseil d'administration ou de surveillance
-
-4
-
-REPARTITION PAR MINISTERE
-
-Industrie (X 2)
-
-Economie.
-
-Affaires étrangères.
-
-NOM DE LA SOCIETE
-
-France 4
-
-NOMBRE de représentants de l'Etat au conseil d'administration ou de surveillance
-
-3
-
-REPARTITION PAR MINISTERE
-
-Premier ministre.
-
-Communication.
-
-Economie.
-
-NOM DE LA SOCIETE
-
-OSEO BDPME
-
-NOMBRE de représentants de l'Etat au conseil d'administration ou de surveillance
-
-3
-
-REPARTITION PAR MINISTERE
-
-Economie (X 2).
-
-Petites et moyennes entreprises.
+<table>
+<tbody>
+<tr>
+<td>
+<p align="center">NOM DE LA SOCIETE</p>
+</td>
+<td>
+<p align="center">NOMBRE de représentants</p>
+<p align="center">de l'Etat au conseil</p>
+<p align="center">d'administration</p>
+<p align="center">ou de surveillance</p>
+</td>
+<td>
+<p align="center">REPARTITION PAR MINISTERE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Compagnie générale de matières nucléaires (Cogéma)</p>
+<br/>
+</td>
+<td>
+<p align="center">4</p>
+</td>
+<td>
+<p>Affaires étrangères.</p>
+<p>Défense.</p>
+<p>Economie.</p>
+<p>Industrie.</p>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<p>EMC SA</p>
+</td>
+<td>
+<p align="center">2</p>
+</td>
+<td>
+<p>Economie.</p>
+<p>Industrie.</p>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<p>Société financière de gestion de fonds de garantie d'outre-mer (SOGECOM).</p>
+<br/>
+</td>
+<td>
+<p align="center">2</p>
+</td>
+<td>
+<p>Economie.</p>
+<p>Outre-mer.</p>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<p>Société financière pour favoriser l'industrialisation des régions minières (Sofirem)</p>
+</td>
+<td>
+<p align="center">4</p>
+</td>
+<td>
+<p>Aménagement du territoire.</p>
+<p>Budget.</p>
+<p>Economie.</p>
+<p>Industrie.</p>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<p>Société française du tunnel routier du Fréjus</p>
+<br/>
+</td>
+<td>
+<p align="center">6</p>
+</td>
+<td>
+<p>Affaires étrangères.</p>
+<p>Budget.</p>
+<p>Collectivités territoriales.</p>
+<p>Economie.</p>
+<p>Transport (x 2).</p>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<p>Société nationale maritime Corse-Méditerranée</p>
+<br/>
+</td>
+<td>
+<p align="center">3</p>
+</td>
+<td>
+<p>Budget.</p>
+<p>Economie.</p>
+<p>Transports.</p>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<p>OSEO SOFARIS</p>
+</td>
+<td>
+<p align="center">3</p>
+</td>
+<td>
+<p>Economie.</p>
+<p>Industrie.</p>
+<p>Petites et moyennes entreprises.</p>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<p>SNCF Participations</p>
+</td>
+<td>
+<p align="center">2</p>
+</td>
+<td>
+<p>Transports (x 2).</p>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<p>Société des participations du CEA</p>
+</td>
+<td>
+<p align="center">4</p>
+</td>
+<td>
+<p>Industrie (X 2)</p>
+<p>Economie.</p>
+<p>Affaires étrangères.</p>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<p>France 4</p>
+<br/>
+</td>
+<td>
+<p align="center">3</p>
+</td>
+<td>
+<p>Premier ministre.</p>
+<p>Communication.</p>
+<p>Economie.</p>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<p>OSEO BDPME</p>
+</td>
+<td>
+<p align="center">3</p>
+</td>
+<td>
+<p>Economie (X 2).</p>
+<p>Petites et moyennes entreprises.</p>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<p>LFB-BioMédicaments</p>
+</td>
+<td>
+<p align="center">4</p>
+</td>
+<td>
+<p>Santé (X 2).</p>
+<p>Economie</p>
+<p>Recherche</p>
+<br/>
+</td>
+</tr>
+</tbody>
+</table>
