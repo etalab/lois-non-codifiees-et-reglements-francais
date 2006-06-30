@@ -38,8 +38,6 @@ Ouvrier de l'étanchéité et isolation ;
 
 Ouvrier en VRD, paveur ;
 
-Conduite d'engins de TP ;
-
 Ouvrier d'entretien des équipements sportifs ;
 
 Maintenance des bâtiments (agent polyvalent) ;
@@ -65,10 +63,6 @@ Employé polyvalent des espaces verts et naturels.
 3. Spécialité " mécanique, électromécanique "
 
 Options :
-
-Mécanicien des véhicules à moteur Diesel ;
-
-Mécanicien des véhicules à moteur à essence ;
 
 Mécanicien hydraulique ;
 
@@ -171,3 +165,17 @@ Couturier, tailleur ;
 Tailleur de pierre ;
 
 Cordonnier, sellier.
+
+9. Spécialité conduite de véhicule
+
+Options :
+
+- conduite de véhicules poids lourds ;
+
+- conduite de véhicules de transports en commun ;
+
+- conduite d'engins de travaux publics ;
+
+- mécanicien des véhicules à moteur Diesel ;
+
+- mécanicien des véhicules à moteur essence.
