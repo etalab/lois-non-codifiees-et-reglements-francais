@@ -105,7 +105,6 @@
 - [Arrêté du 4 juin 1996 (MENU9601581A)](arrete-du-4-juin-1996-menu9601581a)
 - [Arrêté du 4 juin 1996 (MENU9601582A)](arrete-du-4-juin-1996-menu9601582a)
 - [Arrêté du 4 juin 1996 (MENU9601583A)](arrete-du-4-juin-1996-menu9601583a)
-- [Arrêté du 4 juin 1996 (MIPP9600200A)](arrete-du-4-juin-1996-mipp9600200a)
 - [Arrêté du 4 juin 1996 (TASH9621651A)](arrete-du-4-juin-1996-tash9621651a)
 - [Arrêté du 4 juin 1996 (TASP9622723A)](arrete-du-4-juin-1996-tasp9622723a)
 - [Arrêté du 4 mars 1996 (ACVE9550028A)](arrete-du-4-mars-1996-acve9550028a)

@@ -38,7 +38,6 @@
 - [Décret n°2000-1239 du 18 décembre 2000 (AGRA0002251D)](decret-n2000-1239-du-18-decembre-2000-agra0002251d)
 - [Décret n°89-241 du 18 avril 1989 (SPSH8900705D)](decret-n89-241-du-18-avril-1989-spsh8900705d)
 - [Décret n°2000-1237 du 19 décembre 2000 (EQUU0001812D)](decret-n2000-1237-du-19-decembre-2000-equu0001812d)
-- [Décret n°2000-672 du 19 juillet 2000 (ECOC0000047D)](decret-n2000-672-du-19-juillet-2000-ecoc0000047d)
 - [Décret n°2000-682 du 19 juillet 2000 (EQUK0000631D)](decret-n2000-682-du-19-juillet-2000-equk0000631d)
 - [Décret n°2000-907 du 19 septembre 2000 (ATET0080024D)](decret-n2000-907-du-19-septembre-2000-atet0080024d)
 - [Décret n°2000-426 du 19 mai 2000 (ATEG0080020D)](decret-n2000-426-du-19-mai-2000-ateg0080020d)
