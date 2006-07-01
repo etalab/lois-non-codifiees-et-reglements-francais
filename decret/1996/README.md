@@ -152,7 +152,6 @@
 - [Décret n°96-890 du 7 octobre 1996 (ECOT9616220D)](decret-n96-890-du-7-octobre-1996-ecot9616220d)
 - [Décret n°96-892 du 7 octobre 1996 (FPPA9610022D)](decret-n96-892-du-7-octobre-1996-fppa9610022d)
 - [Décret n°96-970 du 7 novembre 1996 (ACVI9630002D)](decret-n96-970-du-7-novembre-1996-acvi9630002d)
-- [Décret n°96-98 du 7 février 1996 (TAST9610048D)](decret-n96-98-du-7-fevrier-1996-tast9610048d)
 - [Décret n°97-921 du 7 octobre 1997 (AGRA9701510D)](decret-n97-921-du-7-octobre-1997-agra9701510d)
 - [Décret n°98-10 du 7 janvier 1998 (DEFP9702089D)](decret-n98-10-du-7-janvier-1998-defp9702089d)
 - [Décret n°96-394 du 7 mai 1996 (DEFP9601379D)](decret-n96-394-du-7-mai-1996-defp9601379d)

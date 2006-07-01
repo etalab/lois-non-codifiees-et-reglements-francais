@@ -171,7 +171,6 @@
 - [Arrêté du 8 novembre 2005 (EQUP0500855A)](arrete-du-8-novembre-2005-equp0500855a)
 - [Arrêté du 8 novembre 2005 (JUSF0550126A)](arrete-du-8-novembre-2005-jusf0550126a)
 - [Arrêté du 8 novembre 2005 (JUSF0550127A)](arrete-du-8-novembre-2005-jusf0550127a)
-- [Arrêté du 8 novembre 2005 (SANH0524101A)](arrete-du-8-novembre-2005-sanh0524101a)
 - [Arrêté du 8 septembre 2005 (INDI0505711A)](arrete-du-8-septembre-2005-indi0505711a)
 - [Arrêté du 8 septembre 2005 (JUSB0510459A)](arrete-du-8-septembre-2005-jusb0510459a)
 - [Arrêté du 8 septembre 2005 (JUSB0510461A)](arrete-du-8-septembre-2005-jusb0510461a)
