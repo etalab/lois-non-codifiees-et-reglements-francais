@@ -38,8 +38,6 @@ La révision éventuelle résultant du d ci-dessous s'applique à chaque valeur 
 
 d) Lorsque le contrat de location prévoit la révision du loyer, celle-ci intervient chaque année à la date convenue entre les parties ou, à défaut, au terme de chaque année du contrat.
 
-L'augmentation du loyer qui en résulte ne peut excéder la variation de la moyenne sur quatre trimestres de l'indice national mesurant le coût de la construction publié par l'Institut national de la statistique et des études économiques. A défaut de clause contractuelle fixant la date de référence, cette date est celle du dernier indice publié à la date de signature du contrat de location.
-
-La moyenne mentionnée ci-dessus est celle de l'indice du coût de la construction à la date de référence et des indices des trois trimestres qui la précèdent.
+L'augmentation du loyer qui en résulte ne peut excéder la variation d'un indice de référence des loyers publié par l'Institut national de la statistique et des études économiques, dont les modalités de calcul et de publication sont fixées par décret en Conseil d'Etat. Ces modalités de calcul s'appuient notamment sur l'évolution des prix à la consommation, du coût des travaux d'entretien et d'amélioration du logement à la charge des bailleurs et de l'indice du coût de la construction. A défaut de clause contractuelle fixant la date de référence, cette date est celle du dernier indice publié à la date de signature du contrat de location.
 
 e) Lorsque les parties sont convenues, par une clause expresse, de travaux d'amélioration du logement que le bailleur fera exécuter, le contrat de location ou un avenant à ce contrat fixe la majoration du loyer consécutive à la réalisation de ces travaux.
