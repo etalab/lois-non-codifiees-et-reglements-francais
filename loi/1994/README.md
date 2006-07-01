@@ -83,7 +83,6 @@
 - [Loi n° 94-628 du 25 juillet 1994 (FPPX9400040L)](loi-n-94-628-du-25-juillet-1994-fppx9400040l)
 - [Loi n° 94-629 du 25 juillet 1994 (SPSX9400024L)](loi-n-94-629-du-25-juillet-1994-spsx9400024l)
 - [Loi n° 94-630 du 25 juillet 1994 (SPSX9400290L)](loi-n-94-630-du-25-juillet-1994-spsx9400290l)
-- [Loi n° 94-631 du 25 juillet 1994 (BUDX9400021L)](loi-n-94-631-du-25-juillet-1994-budx9400021l)
 - [Loi n° 94-637 du 25 juillet 1994 (SPSX9400037L)](loi-n-94-637-du-25-juillet-1994-spsx9400037l)
 - [Loi n° 94-638 du 25 juillet 1994 (DOMX9400047L)](loi-n-94-638-du-25-juillet-1994-domx9400047l)
 - [Loi n° 94-639 du 25 juillet 1994 (RESX9400016L)](loi-n-94-639-du-25-juillet-1994-resx9400016l)
