@@ -513,7 +513,6 @@
 - [Arrêté du 27 juin 2001 (ATEN0100195A)](arrete-du-27-juin-2001-aten0100195a)
 - [Arrêté du 27 juin 2001 (ATEN0100196A)](arrete-du-27-juin-2001-aten0100196a)
 - [Arrêté du 27 juin 2001 (ATEN0100225A)](arrete-du-27-juin-2001-aten0100225a)
-- [Arrêté du 27 juin 2001 (ATEN0100226A)](arrete-du-27-juin-2001-aten0100226a)
 - [Arrêté du 27 juin 2001 (MCCB0100247A)](arrete-du-27-juin-2001-mccb0100247a)
 - [Arrêté du 27 juin 2001 (MENA0101400A)](arrete-du-27-juin-2001-mena0101400a)
 - [Arrêté du 27 novembre 2001 (DEFP0102359A)](arrete-du-27-novembre-2001-defp0102359a)
