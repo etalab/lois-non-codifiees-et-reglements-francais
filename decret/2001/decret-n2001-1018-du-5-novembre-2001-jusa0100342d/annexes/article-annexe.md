@@ -10,4 +10,8 @@ Fonctions exercées pouvant ouvrir droit au versement d'une nouvelle bonificatio
 
 4. Président de section au tribunal administratif de Paris ;
 
-5. Président de chambre de cour administrative d'appel.
+5. Président de chambre de cour administrative d'appel ;
+
+6. Vice-président de tribunal administratif ;
+
+7. Vice-président de section au tribunal administratif de Paris.

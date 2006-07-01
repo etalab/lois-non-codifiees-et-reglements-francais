@@ -2,6 +2,7 @@
 
 - [Ordonnance n° 2005-1088 du 1 septembre 2005 (SANX0500168R)](ordonnance-n-2005-1088-du-1-septembre-2005-sanx0500168r)
 - [Ordonnance n° 2006-637 du 1 juin 2006 (DEFX0600015R)](ordonnance-n-2006-637-du-1-juin-2006-defx0600015r)
+- [Ordonnance n° 2005-759 du 4 juillet 2005 (JUSX0500068R)](ordonnance-n-2005-759-du-4-juillet-2005-jusx0500068r)
 - [Ordonnance n° 2005-652 du 6 juin 2005 (MCCX0500082R)](ordonnance-n-2005-652-du-6-juin-2005-mccx0500082r)
 - [Ordonnance n° 2006-407 du 6 avril 2006 (ECOX0600003R)](ordonnance-n-2006-407-du-6-avril-2006-ecox0600003r)
 - [Ordonnance n° 2006-673 du 8 juin 2006 (JUSX0600063R)](ordonnance-n-2006-673-du-8-juin-2006-jusx0600063r)
@@ -11,6 +12,7 @@
 - [Ordonnance n° 2006-173 du 15 février 2006 (DOMX0500315R)](ordonnance-n-2006-173-du-15-fevrier-2006-domx0500315r)
 - [Ordonnance n° 2006-60 du 19 janvier 2006 (ECOX0500165R)](ordonnance-n-2006-60-du-19-janvier-2006-ecox0500165r)
 - [Ordonnance n° 2005-44 du 20 janvier 2005 (DOMX0400264R)](ordonnance-n-2005-44-du-20-janvier-2005-domx0400264r)
+- [Ordonnance n° 2006-460 du 21 avril 2006 (ECOX0400219R)](ordonnance-n-2006-460-du-21-avril-2006-ecox0400219r)
 - [Ordonnance n° 2006-344 du 23 mars 2006 (ECOX0600006R)](ordonnance-n-2006-344-du-23-mars-2006-ecox0600006r)
 - [Ordonnance n° 2006-346 du 23 mars 2006 (JUSX0600032R)](ordonnance-n-2006-346-du-23-mars-2006-jusx0600032r)
 - [Ordonnance n° 2006-594 du 23 mai 2006 (AGRX0600068R)](ordonnance-n-2006-594-du-23-mai-2006-agrx0600068r)
