@@ -1,13 +1,7 @@
 # Article 2
 
-Un livret de famille est remis à la mère d'un enfant naturel, sur sa demande, lorsque la filiation maternelle est établie.
+Le livret de famille comporte, selon le cas :
 
-Ce livret de famille [*contenu*] comporte un extrait de l'acte de naissance de la mère et un extrait de l'acte de naissance de l'enfant.
+1° Un extrait de l'acte de mariage ;
 
-Il est ultérieurement complété par :
-
-Les extraits des actes de naissance des autres enfants naturels ;
-
-Les extraits des actes de décès des enfants naturels morts avant leur majorité ;
-
-L'extrait de l'acte de décès de la mère.
+2° Un extrait de l'acte de naissance du ou des parents à l'égard desquels la filiation est établie ainsi qu'un extrait de l'acte de naissance de l'enfant.

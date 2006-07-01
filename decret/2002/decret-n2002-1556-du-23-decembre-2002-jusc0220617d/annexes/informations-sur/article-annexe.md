@@ -10,11 +10,7 @@ Les époux choisissent le nom de famille qui est dévolu à leur premier enfant 
 
 En l'absence de déclaration conjointe de choix de nom, l'enfant commun prend le nom de son père. Le nom dévolu au premier enfant commun est valable pour les autres enfants communs du couple.
 
-Ces dispositions s'appliquent à Mayotte à compter du 1er janvier 2007.
-
-En outre, entre le 1er janvier 2005 et le 30 juin 2006 et, à Mayotte, entre le 1er janvier 2007 et le 30 juin 2008, pour les enfants nés antérieurement au 1er janvier 2005, les père et mère qui exercent en commun l'autorité parentale peuvent, par déclaration conjointe, demander à l'officier de l'état civil l'adjonction en deuxième position du nom de famille du parent qui n'a pas transmis le sien, au bénéfice de l'aîné de leurs enfants communs, dès lors que celui-ci a moins de treize ans au 1er septembre 2003 ou à la date de la déclaration. Ce double nom est dévolu à l'ensemble de leurs enfants communs nés ou à naître. Le consentement du mineur âgé de plus de treize ans est nécessaire.
-
-La faculté de choix ou d'adjonction de nom ne peut être exercée qu'une seule fois.
+La faculté de choix de nom ne peut être exercée qu'une seule fois.
 
 Droits et devoirs respectifs des époux
 
@@ -41,10 +37,6 @@ Les gendres et belles-filles doivent des aliments à leur beau-père et belle-m�
 Filiation
 
 Le mari est présumé être le père de l'enfant né avant le 180e jour du mariage, de ceux conçus pendant l'union et de ceux nés moins de 300 jours après la dissolution du mariage.
-
-Les enfants nés avant le mariage, même s'ils sont décédés, sont légitimés de plein droit par le mariage de leurs parents. Si leur filiation n'était pas déjà établie, ces enfants, pour être légitimés, doivent faire l'objet d'une reconnaissance au moment de la célébration du mariage.
-
-Quand la filiation d'un enfant naturel n'a été établie à l'égard soit de son père, soit de sa mère, soit des deux que postérieurement à leur mariage, la légitimation a lieu en vertu d'un jugement.
 
 Adoption
 
