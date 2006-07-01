@@ -1,6 +1,6 @@
 # Article 18
 
-Le fonctionnaire a droit à l'indemnité forfaitaire prévue à l'article 25 ou à l'article 26 du présent décret et à la prise en charge des frais mentionnés au 1° de l'article 24 du présent décret, lorsque le changement de résidence est rendu nécessaire :
+Le fonctionnaire a droit à l'indemnité forfaitaire prévue à l'article 25 ou à l'article 26 du présent décret, majorée de 20 %, et à la prise en charge des frais mentionnés au 1° de l'article 24 du présent décret, lorsque le changement de résidence est rendu nécessaire :
 
 1° Par une mutation d'office prononcée à la suite de la suppression, du transfert géographique, de la transformation de l'emploi occupé ou après y avoir accompli la durée maximale d'affectation fixée pour cet emploi ;
 

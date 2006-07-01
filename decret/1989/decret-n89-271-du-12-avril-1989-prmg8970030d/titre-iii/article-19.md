@@ -28,6 +28,8 @@ h) Par un retour au lieu de la résidence habituelle reconnu indispensable en ra
 
 i) Par une affectation, à l'issue d'un congé de formation, à un emploi situé dans une localité différente de celle où l'agent exerçait ses fonctions lors de sa mise en congé, conformément aux dispositions de l'article 17, deuxième alinéa, du décret n° 85-607 du 14 juin 1985 relatif à la formation professionnelle des fonctionnaires.
 
+Dans les cas mentionnés au 1 ci-dessus, les indemnités prévues aux articles 26 et 27 sont majorées de 20 %.
+
 2. Lorsque le changement de résidence est consécutif :
 
 a) A une mutation demandée par un agent qui a accompli au moins quatre années de services sur le territoire européen de la France ou dans le département d'outre-mer d'affectation ; pour apprécier cette durée de services, il n'y a pas lieu de tenir compte des mutations intervenues, suivant le cas, sur le territoire européen de la France ou dans le département d'outre-mer considéré ;

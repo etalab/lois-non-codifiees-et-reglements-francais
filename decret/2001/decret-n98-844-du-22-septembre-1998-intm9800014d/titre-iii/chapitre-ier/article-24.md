@@ -1,6 +1,6 @@
 # Article 24
 
-I. - L'agent a droit à la prise en charge des frais de changement de résidence mentionnés à l'article 38, lorsque le changement de résidence est rendu nécessaire par :
+I. - L'agent a droit à la prise en charge des frais de changement de résidence mentionnés à l'article 38, majorée de 20 %, lorsque le changement de résidence est rendu nécessaire par :
 
 1° Une mutation d'office prononcée à la suite d'une suppression d'emploi, du transfert géographique ou de la transformation de l'emploi occupé ;
 
