@@ -67,6 +67,7 @@
 - [Arrêté du 7 juin 2006 (DEFM0600693A)](arrete-du-7-juin-2006-defm0600693a)
 - [Arrêté du 7 mars 2006 (INTA0600155A)](arrete-du-7-mars-2006-inta0600155a)
 - [Arrêté du 8 décembre 2005 (BUDD0580003A)](arrete-du-8-decembre-2005-budd0580003a)
+- [Arrêté du 8 juin 2006 (EQUA0601350A)](arrete-du-8-juin-2006-equa0601350a)
 - [Arrêté du 8 mars 2006 (EQUA0500606A)](arrete-du-8-mars-2006-equa0500606a)
 - [Arrêté du 8 mars 2006 (SOCF0610607A)](arrete-du-8-mars-2006-socf0610607a)
 - [Arrêté du 8 mars 2006 (SOCF0610608A)](arrete-du-8-mars-2006-socf0610608a)

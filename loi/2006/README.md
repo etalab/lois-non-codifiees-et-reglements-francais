@@ -20,4 +20,5 @@
 - [Loi n° 2006-64 du 23 janvier 2006 (INTX0500242L)](loi-n-2006-64-du-23-janvier-2006-intx0500242l)
 - [Loi n° 2006-686 du 13 juin 2006 (DEVX0100081L)](loi-n-2006-686-du-13-juin-2006-devx0100081l)
 - [Loi n° 2006-739 du 28 juin 2006 (ECOX0600036L)](loi-n-2006-739-du-28-juin-2006-ecox0600036l)
+- [Loi n° 2006-769 du 1 juillet 2006 (PRMX0600019L)](loi-n-2006-769-du-1-juillet-2006-prmx0600019l)
 - [Loi n°2006-586 du 23 mai 2006 (MJSX0500004L)](loi-n2006-586-du-23-mai-2006-mjsx0500004l)
