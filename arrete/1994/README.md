@@ -247,7 +247,6 @@
 - [Arrêté du 8 décembre 1993 (JUSF9350102A)](arrete-du-8-decembre-1993-jusf9350102a)
 - [Arrêté du 8 décembre 1993 (JUSF9350103A)](arrete-du-8-decembre-1993-jusf9350103a)
 - [Arrêté du 8 décembre 1994 (SANP9403797A)](arrete-du-8-decembre-1994-sanp9403797a)
-- [Arrêté du 8 décembre 1994 (SPSS9403800A)](arrete-du-8-decembre-1994-spss9403800a)
 - [Arrêté du 8 février 1994 (AGRE9400271A)](arrete-du-8-fevrier-1994-agre9400271a)
 - [Arrêté du 8 février 1994 (AGRG9400275A)](arrete-du-8-fevrier-1994-agrg9400275a)
 - [Arrêté du 8 janvier 1994 (TEFE9301268A)](arrete-du-8-janvier-1994-tefe9301268a)
