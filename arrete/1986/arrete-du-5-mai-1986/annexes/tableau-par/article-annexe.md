@@ -106,6 +106,16 @@ Département des Pyrénées-Atlantiques
 
 3° Tous les lacs de montagne situés à une altitude supérieure à 1 000 mètres.
 
+Département des Hautes-Pyrénnées
+
+Tous les lacs de montagne situés à une altitude supérieure à 1000 mètres.
+
+Département des Pyrénées-Orientales
+
+1° Lacs de retenue des Bouillouses, de Matemale, du Puyvalador, du Lanoux et du Passet.
+
+2° Tous les lacs de montagne situés à une altitude supérieure à 1 000 mètres.
+
 Département du Haut-Rhin
 
 Lacs Blanc, Noir, du Forlet, Vert, du Schiessrothried, de l'Altenweiher, du Fischboedle, de la Lauch, du Ballon, de Kruth-Wildenstein, d'Alfeld, de Sewen, des Perches, des Petit et Grand Neuweiher.
@@ -131,7 +141,3 @@ Département des Vosges
 Lacs de Gérardmer et Longemer.
 
 Lacs de retenue de Lispach, de Blanchemer.
-
-Département des Hautes-Pyrénnées
-
-Tous les lacs de montagne situés à une altitude supérieure à 1000 mètres.
