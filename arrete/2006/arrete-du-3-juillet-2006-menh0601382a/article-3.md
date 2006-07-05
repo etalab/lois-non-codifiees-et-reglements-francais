@@ -1,0 +1,3 @@
+# Article 3
+
+Pour chaque candidature, la commission nationale d'intégration désigne un rapporteur chargé d'établir un rapport écrit. Lorsqu'il s'agit d'apprécier les aptitudes d'un candidat pour des fonctions d'enseignement, ce rapporteur est choisi parmi les membres de la commission nationale d'intégration relevant du sixième alinéa de l'article 1er du présent arrêté. Lorsqu'il s'agit d'apprécier les aptitudes d'un candidat pour des fonctions hospitalières, ce rapporteur est choisi parmi les membres de la commission nationale d'intégration relevant du septième alinéa de l'article 1er du présent arrêté.

@@ -75,6 +75,8 @@
 - [Décret n°2006-261 du 3 mars 2006 (SANH0524650D)](decret-n2006-261-du-3-mars-2006-sanh0524650d)
 - [Décret n°2006-272 du 3 mars 2006 (EQUG0501528D)](decret-n2006-272-du-3-mars-2006-equg0501528d)
 - [Décret n°2006-400 du 3 avril 2006 (INTB0600045D)](decret-n2006-400-du-3-avril-2006-intb0600045d)
+- [Décret n°2006-782 du 3 juillet 2006 (MENH0601377D)](decret-n2006-782-du-3-juillet-2006-menh0601377d)
+- [Décret n°2006-783 du 3 juillet 2006 (MENH0601378D)](decret-n2006-783-du-3-juillet-2006-menh0601378d)
 - [Décret n°2006-499 du 3 mai 2006 (EQUS0600521D)](decret-n2006-499-du-3-mai-2006-equs0600521d)
 - [Décret n°2006-501 du 3 mai 2006 (FPPA0600034D)](decret-n2006-501-du-3-mai-2006-fppa0600034d)
 - [Décret n°2006-502 du 3 mai 2006 (MCCX0600360D)](decret-n2006-502-du-3-mai-2006-mccx0600360d)

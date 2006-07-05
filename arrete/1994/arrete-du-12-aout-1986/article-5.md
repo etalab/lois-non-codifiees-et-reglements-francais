@@ -1,6 +1,6 @@
 # Article 5
 
-Les dossiers relatifs à la demande d'autorisation ou à la déclaration mentionnées respectivement aux articles 2 et 3, déposés par les entreprises désirant fabriquer ou importer des matériaux ou objets mentionnés à l'article 1er, doivent comprendre les informations suivantes [*mentions obligatoires - contenu*] :
+Les dossiers relatifs à la demande d'autorisation mentionnée à l'article 2, déposés par les entreprises désirant fabriquer ou importer des matériaux ou objets mentionnés à l'article 1er, doivent comprendre les informations suivantes :
 
 Le nom et l'adresse du fabricant ;
 
