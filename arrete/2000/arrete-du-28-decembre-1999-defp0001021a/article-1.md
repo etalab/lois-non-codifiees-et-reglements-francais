@@ -44,4 +44,8 @@ La liste des emplois de conseiller pour les affaires administratives du ministè
 
 - chef de l'observatoire du personnel civil de l'inspection de l'armée de terre ;
 
-- sous-directeur administratif de l'atelier industriel de l'aéronautique de Clermont-Ferrand.
+- sous-directeur administratif de l'atelier industriel de l'aéronautique de Clermont-Ferrand ;
+
+- chef de la division de l'administration générale et des études de la direction des statuts, des pensions et de la réinsertion sociale ;
+
+- chef du bureau des pensions de retraite du service des pensions des armées.
