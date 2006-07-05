@@ -8,6 +8,8 @@ Par dérogation aux dispositions du premier alinéa du présent article :
 
 - les enseignants-chercheurs qui bénéficient d'une délégation instituée par les articles 11 à 14-1 du décret du 6 juin 1984 susvisé peuvent conserver le bénéfice de la prime d'encadrement doctoral et de recherche dans les conditions fixées par l'arrêté prévu à l'article 2 du même décret ;
 
-- les enseignants-chercheurs bénéficiant d'un congé pour recherches ou conversions thématiques conservent la prime d'encadrement doctoral et de recherche.
+- les personnels enseignants et hospitaliers titulaires mentionnés au 1° de l'article 1er du décret n° 84-135 du 24 février 1984 portant statut des personnels enseignants et hospitaliers des centres hospitaliers et universitaires, qui bénéficient d'une délégation en application de l'article 35 de ce même décret, peuvent conserver le bénéfice de la prime d'encadrement doctoral et de recherche dans les conditions fixées par l'arrêté mentionné à l'article 2 du présent décret ;
+
+- les enseignants-chercheurs et les personnels enseignants et hospitaliers titulaires mentionnés au 1° de l'article 1er du décret n° 84-135 du 24 février 1984 portant statut des personnels enseignants et hospitaliers des centres hospitaliers et universitaires bénéficiant d'un congé pour recherches ou conversions thématiques conservent la prime d'encadrement doctoral et de recherche.
 
 Le maintien du versement de la prime d'encadrement doctoral et de recherche est subordonné à l'exercice effectif des activités y ouvrant droit.
