@@ -808,7 +808,6 @@
 - [Arrêté du 24 avril 1997 (AGRP9700905A)](arrete-du-24-avril-1997-agrp9700905a)
 - [Arrêté du 24 avril 1997 (ENVN9760001A)](arrete-du-24-avril-1997-envn9760001a)
 - [Arrêté du 24 avril 1997 (FPPA9710070A)](arrete-du-24-avril-1997-fppa9710070a)
-- [Arrêté du 24 décembre 1996 (DEFD9602163A)](arrete-du-24-decembre-1996-defd9602163a)
 - [Arrêté du 24 décembre 1996 (DEFL9701008A)](arrete-du-24-decembre-1996-defl9701008a)
 - [Arrêté du 24 décembre 1996 (EQUP9601732A)](arrete-du-24-decembre-1996-equp9601732a)
 - [Arrêté du 24 décembre 1996 (EQUS9601590A)](arrete-du-24-decembre-1996-equs9601590a)
