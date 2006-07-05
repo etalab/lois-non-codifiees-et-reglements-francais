@@ -652,7 +652,6 @@
 - [Arrêté du 19 février 1988 (INTB8800114A)](arrete-du-19-fevrier-1988-intb8800114a)
 - [Arrêté du 19 février 1988 (PTTP8800173A)](arrete-du-19-fevrier-1988-pttp8800173a)
 - [Arrêté du 19 février 1992 (TEFE9204400A)](arrete-du-19-fevrier-1992-tefe9204400a)
-- [Arrêté du 19 février 1992 (TEFE9204467A)](arrete-du-19-fevrier-1992-tefe9204467a)
 - [Arrêté du 19 juin 1992 (ACVC9200042A)](arrete-du-19-juin-1992-acvc9200042a)
 - [Arrêté du 19 juin 1992 (COPC9200048A)](arrete-du-19-juin-1992-copc9200048a)
 - [Arrêté du 19 juin 1992 (ECOT9210153A)](arrete-du-19-juin-1992-ecot9210153a)
