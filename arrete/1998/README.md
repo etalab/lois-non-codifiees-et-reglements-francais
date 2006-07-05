@@ -434,7 +434,6 @@
 - [Arrêté du 14 décembre 1998 (MESH9823971A)](arrete-du-14-decembre-1998-mesh9823971a)
 - [Arrêté du 14 janvier 1998 (ECOI9800060A)](arrete-du-14-janvier-1998-ecoi9800060a)
 - [Arrêté du 14 octobre 1998 (AGRG9801959A)](arrete-du-14-octobre-1998-agrg9801959a)
-- [Arrêté du 14 octobre 1998 (ATEG9870342A)](arrete-du-14-octobre-1998-ateg9870342a)
 - [Arrêté du 14 septembre 1998 (INTA9800365A)](arrete-du-14-septembre-1998-inta9800365a)
 - [Arrêté du 14 septembre 1998 (MESH9823166A)](arrete-du-14-septembre-1998-mesh9823166a)
 - [Arrêté du 14 septembre 1998 (MESH9823167A)](arrete-du-14-septembre-1998-mesh9823167a)

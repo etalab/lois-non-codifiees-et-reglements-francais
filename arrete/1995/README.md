@@ -61,7 +61,6 @@
 - [Arrêté du 2 mai 1995 (ECOC9500054A)](arrete-du-2-mai-1995-ecoc9500054a)
 - [Arrêté du 2 mai 1995 (ECOP9500190A)](arrete-du-2-mai-1995-ecop9500190a)
 - [Arrêté du 2 mai 1995 (ECOT9510236A)](arrete-du-2-mai-1995-ecot9510236a)
-- [Arrêté du 2 mai 1995 (ENVG9540126A)](arrete-du-2-mai-1995-envg9540126a)
 - [Arrêté du 2 mai 1995 (EQUK9500377A)](arrete-du-2-mai-1995-equk9500377a)
 - [Arrêté du 2 mai 1995 (MCCB9500206A)](arrete-du-2-mai-1995-mccb9500206a)
 - [Arrêté du 2 mai 1995 (MCCK9500094A)](arrete-du-2-mai-1995-mcck9500094a)
