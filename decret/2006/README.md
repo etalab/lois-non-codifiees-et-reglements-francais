@@ -98,6 +98,8 @@
 - [Décret n°2006-5 du 4 janvier 2006 (EQUT0501279D)](decret-n2006-5-du-4-janvier-2006-equt0501279d)
 - [Décret n°2006-6 du 4 janvier 2006 (SANX0500308D)](decret-n2006-6-du-4-janvier-2006-sanx0500308d)
 - [Décret n°2006-7 du 4 janvier 2006 (AGRX0500214D)](decret-n2006-7-du-4-janvier-2006-agrx0500214d)
+- [Décret n°2006-793 du 4 juillet 2006 (BUDF0600024D)](decret-n2006-793-du-4-juillet-2006-budf0600024d)
+- [Décret n°2006-795 du 4 juillet 2006 (DEVN0640012D)](decret-n2006-795-du-4-juillet-2006-devn0640012d)
 - [Décret n°2006-8 du 4 janvier 2006 (AGRS0502639D)](decret-n2006-8-du-4-janvier-2006-agrs0502639d)
 - [Décret n°2006-9 du 4 janvier 2006 (AGRS0502640D)](decret-n2006-9-du-4-janvier-2006-agrs0502640d)
 - [Décret n°2006-505 du 4 mai 2006 (ECOX0600031D)](decret-n2006-505-du-4-mai-2006-ecox0600031d)
