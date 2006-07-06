@@ -726,7 +726,6 @@
 - [Arrêté du 23 juillet 2004 (MJSK0470153A)](arrete-du-23-juillet-2004-mjsk0470153a)
 - [Arrêté du 23 juillet 2004 (SANP0422519A)](arrete-du-23-juillet-2004-sanp0422519a)
 - [Arrêté du 23 juin 2004 (INTC0400506A)](arrete-du-23-juin-2004-intc0400506a)
-- [Arrêté du 23 juin 2004 (INTC0400508A)](arrete-du-23-juin-2004-intc0400508a)
 - [Arrêté du 23 mars 2004 (MENS0400598A)](arrete-du-23-mars-2004-mens0400598a)
 - [Arrêté du 23 novembre 2004 (AGRA0402011A)](arrete-du-23-novembre-2004-agra0402011a)
 - [Arrêté du 23 novembre 2004 (AGRO0402430A)](arrete-du-23-novembre-2004-agro0402430a)
