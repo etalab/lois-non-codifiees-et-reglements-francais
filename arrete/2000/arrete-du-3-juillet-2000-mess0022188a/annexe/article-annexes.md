@@ -380,6 +380,8 @@ SNIFI/EFI, BP 43, 68490 Ottmarsheim, de 1973 à 1983 ;
 
 SNIFI/EFI, ZI Hombourg, 68490 Hombourg, de 1983 à 1994 ;
 
+SNIG/SITUB, 2, route du Wahlweg, 68310 Wittelsheim : de 1978 à 1996 ;
+
 Société mecal (Sulzer), 27, rue de la Fédération, 6700 Strasbourg-Meinau : de 1962 à 1979 ;
 
 Technisol, zone industrielle Le Ried, 67850 herrlisheim : de 1970 à 1984 ;
@@ -398,13 +400,15 @@ Entreprise Babcock, 7, boulevard Alfred-Parent, BP 52, 47600 Nérac, de 1950 à 
 
 Entreprise Polyrey, Usine de couze-Saint-Front, 24150 lalinde : de 1971 à 1984 ;
 
-Interisol : route de Mourenx, BP 47, Abidos, 64150 Mourenx, de 1974 à 1985 ;
+Intérisol, route de Mourenx, BP 47, Abidos, 64150 Mourenx : de 1974 à 1996 ;
 
 Isoroy établissement de Casteljaloux, route du Cocumont, BP 25, 47700 Castel : de 1948 à 1983 ;
 
 Kaeffer SA Abidos, BP 25, 64170 Lacq : de 1980 à 1999 ;
 
 Sadefa Industries, 1, avenue de l'Usine, BP 21, 47500 Fumel, de 1847 à 1997 ;
+
+SITUB, chemin des Pardies, 64170 Abidos : de 1958 à 1996 ;
 
 SNECMA (division SEP), BP 37, 33165 Saint-Médard-en-Jalles Cedex, de 1964 à 1981 ;
 
@@ -462,7 +466,7 @@ Avel Le Pommelec, Société nouvelle Avel/Avel Industries, Kermeur, 22530 Mur-de
 
 Chaffauteaux et Maury, Le Légué, 22000 Saint-Brieuc, de 1958 à 1969, puis Les Châtelets, 22440 Ploufragan, de 1969 à 1996 ;
 
-Deleage, avenue du Général-Ferrie, 35400 Saint-Malo : de 1989 à 1998 ;
+Deleage, avenue du Général-Ferrié, 35400 Saint-Malo : de 1972 à 1989 ;
 
 Derfit, 23, rue Saint-Benoît, 22003 Saint-Brieuc : de 1969 à 1976 ;
 
@@ -594,6 +598,8 @@ Le Joint français, 84, 116, rue Salvador-Allende, 95870 Bezons : de 1907 à 199
 
 3-M France, parc Barrachin, 95250 Beauchamp : de 1971 à 1975 ;
 
+Paretan Garoche, 26, route de Mandres, 94440 Santeny : de 1974 à 1988 ;
+
 Philplug français, 51, rue de France, 94360 Vincennes : de 1950 à 1980 ;
 
 La Bakélite française : de 1932 à 1985 ;
@@ -628,6 +634,8 @@ Société Isoméca, zone industrielle, RN 19, 77370 Nangis : de 1968 à 1992.
 
 Société J.I.F./Meillor SA, 4, rue Alexandre, 92230 Gennevilliers, puis rue du Compas, puis 2, avenue de l'Ile-de-France, 95310 Saint-Ouen-L'Aumône : de 1952 à 1995 ;
 
+Spécialités colloïdales industrielles (SCI), CECA, CECA/ATO, 36, route de la Falaise, 78126 Aulnay-sur-Mauldre : de 1972 à 1995 ;
+
 Stein Industrie, puis GEC Alstom, établissement "chantier, 19-21, avenue Morane-Saulnier, 78140 Vélizy, de 1956 à 1996 ;
 
 Stotnet, 16, rue François-Guibert, 75015 Paris : de 1947 à 1974 ;
@@ -638,15 +646,21 @@ Trouvay Cauvin, 183 rue Ordener, 75882 Paris Cedex 18 : de 1929 à 1969 ;
 
 Tunzini SA/Tunzini Nessi entreprises équipement : 90, rue Cardinet, Paris 17e, de 1964 à 1980 ; puis Tunzini Nessi entreprises équipement : 1, place Honoré-de-Balzac, 95100 Argenteuil, de 1980 à 1986 ; puis Tunzini Nessi entreprises équipement/Tunzini SA/Tunzini SNC : 250, route de l'Empereur, 92800 Rueil-Malmaison, de 1986 à 1994 ; puis Tunzini SNC : 18, place de l'Europe, 92500 Rueil-Malmaison, de 1994 à 1996 ;
 
+Usine Pyrolac, avenue du Président-Allende, 94440 Vitry-sur-Seine : de 1964 à 1978 ;
+
 Valeo, puis Chaussons service, rue des Oziers, ZA du Vert-Galant, 95310 Saint-Ouen-l'Aumône : de 1978 à 1996 ;
 
 Valéo Chausson thermique, 92600 Asnières-sur-Seine, de 1960 à 1989, puis Valéo thermique Moteur, 8, rue Louis-Lormand, 78321 La Verrière, de 1988 à 1996 ;
 
 Vaysse, 385, rue de Vaugirard, 75015 Paris : de 1974 à 1987.
 
+Languedoc-Roussillon
+
+SITUB, ZA de Berthet, 219, avenue de l'Hermitage, 30200 Bagnols-sur-Cèze : de 1994 à 1996.
+
 Limousin
 
-Etablissement Dupeux, 23 c, boulevard Saint-Maurice, 87000 Limoges, de 1946 à 1983.
+Etablissement Dupeux, 23 c, boulevard Saint-Maurice, 87000 Limoges, de 1946 à 1983 ;
 
 J. Coudamy SA puis Coudamy Cobelcomex, puis Ceric Thermic : 127, rue Perrin, 87039 Limoges : depuis 1953 ;
 
@@ -766,7 +780,9 @@ Moulinex, ZI de la Capelle, 50008 Saint-Lô, de 1973 à 1993 ;
 
 Moulinex, 25, rue du Commerce, 61200 Argentan : de 1962 à 1986 ;
 
-Moulinex, Falaise : de 1965 à 1993 ;
+Moulinex/Famelec, 14700 Falaise : de 1965 à 1993 ;
+
+SITUB, ZA, La Fosse Yvon, 50440 Beaumont-Hague : de 1960 à 1996 ;
 
 SNIFI/EFI, BP 95, 50440 Beaumont, de 1970 à 1978, SNIFI/EFI, BP 726, ZI de Digueville, 50447 Beaumont, de 1984 à 1994 ;
 
@@ -802,7 +818,7 @@ Lebrun Albert, rue du Clos-au-Blé, 76530 Grand-Couronne, puis rue raspail, BP 2
 
 les Fours Gouet SA, rue Edmond-Lavernot, 76260 Eu : depuis 1963 ;
 
-Lincoln Electric France, boulevard de Stalingrad-Roosevelt, 76120 Le Grand-Quevilly : de 1947 à 1984.
+Lincoln Electric France, avenue Franklin-Roosevelt, BP 214, 76121 Le Grand-Quevilly Cedex : de 1947 à 1990 ;
 
 Normandie Isolation, 76830 Dieppedalle-Croisset : de 1954 à 1985.
 
@@ -819,6 +835,8 @@ Realisol, 6, rue du Quesnot, ZA, BP 39, 76410 saint-aubin-lès-Elbeuf : de 1990 
 SA Normande de l'amiante manufacture, 72, rue de Louviers, Saint-Pierre-lès-Elbeuf, 76320 Caudebec-lès-Elbeuf : de 1945 à 1980.
 
 Sitaf, avenue du général-Leclerc, 76530 grand-Couronne : de sa création à 1998 ;
+
+SITUB, BP 123, 76430 Tancarville : de 1960 à 1996 ;
 
 Société Capel/Cape/Cape contracts/Socap, ZI La Métairie, 76170 Lillebonne : de 1965 à 1990 ; BP 15, 76330 Notre-Dame-de-Gravenchon : de 1967 à 1994.
 
@@ -852,6 +870,8 @@ ACB/Alstom Fluides et Mécanique, boulevard de la Prairie-au-Duc, 44945 Nantes C
 
 Babcock Sacom, case postale 3601, rue Julian-Grimau, 44805 Saint-Herblain : de 1929 à 1996 ;
 
+Carel et Fouche, puis Construction ferroviaire du Mans, 2, rue du Miroir, 72000 Le Mans : de 1960 à 1987 ;
+
 Inoxydable de l'Ouest, 53800 Congrier : de 1961 à 1982 ;
 
 Isotherma, ZI Noes, BP 23, 44550 Montoire-de-Bretagne : de 1961 à 1999 ;
@@ -869,6 +889,8 @@ SCREG : 44800 Saint-Herblain : depuis sa création jusqu'en 1990.
 Sicof, 85260 La Copechagnière, de 1953 à 1976.
 
 SNIFI/EFI, agence Savenay, 44260 Donges, de 1974 à 1982, puis agence ZI Bonne-Nouvelle, BP 47, 44480 Donges, de 1982 à 1994 ;
+
+SNIG/SITUB, La Croix des Marins, 44480 Donges : de 1961 à 1996 ;
 
 Société des chaudronneries de l'Ouest, 13, rue du Bois-Fleuri, 44118 La Chevrolière : de 1974 à 1996 ;
 
@@ -978,6 +1000,8 @@ ELF Atochem, BP 3, 13117 Lavera, de 1970 à 2001 ;
 
 Isotec, 13, quai de Tourette, 13002 Marseille : de 1984 à 1999 ;
 
+Peinture Marius Dufour, 58-90, boulevard Fifi-Turin, BP 96, 13395 Marseille Cedex : de 1972 à 1994 ;
+
 Pillard Frères/Pillard et compagnie/EGCI Pillard/entreprise Pillard, 15, rue des Frères-Cubbedu, 13014 Marseille, de 1961 à 1996 ;
 
 Regularc, 2, place Albert-Blanc, 13600 Ceyrette : de 1973 à 1996 ;
@@ -988,9 +1012,11 @@ SARL Méditerranéenne d'isolation et d'ignifugeage : 25, rue Roger-Deschamps, 1
 
 Société des anciens établissements A.-Devries, ZI les Paluds, 13400 Aubagne : de 1958 à 1976 ;
 
+Société d'entreprises et de fumisterie industrielle (SEFI), quartier des Fouitades, BP 56, 13655 Rognac Cedex : de 1935 à 1980 ;
+
 Société française de plaques de plâtre (SFPP)/Pregypan/Pregypan Rigips/Plâtres Lafarge, établissement de Carpentras, chemin de Villefranche, BP 135, 84204 Carpentras Cedex : de 1967 à 1982 ;
 
-Société de tuyauterie et de montage Friedlander : parc de Pichaury, 550, rue Pierre-Berthier, BP 348000, 13799 Aix-en-Provence Cedex 3 : depuis sa création ;
+société de tuyauterie et de montage Friedlander, boulevard du Progrès, 13014 Marseille : de 1960 à 1966, puis 39-41, boulevard Sainte-Lucie, 13007 Marseille : de 1966 à 1988, puis 550, rue Pierre-Berthier, parc de Pichaury, BP 348000, 13799 Aix-en-Provence : depuis 1988 ;
 
 Société industrielle de tuyauterie d'usine et de bâtiment, 23-25, 4e-Avenue, BP 2157, 13847 Vitrolles Cedex : depuis sa création ;
 
@@ -1046,7 +1072,13 @@ Prost, puis Prost Lafarge groupe CEC, puis Lafarge réfractaire, puis Piral SA, 
 
 Silisol/Omerin, division Silisol SAS, 8, rue Bossuet, puis 11, allée du Couchant, ZI du Bevey, 42100 Saint-Etienne : de 1960 à 1996 ;
 
+SITUB, rue Gustave-Eiffel, 69360 Saint-Symphorien-d'Ozon : de 1993 à 1996 ;
+
 SNIFI/EFI, rue Thomas, BP 38, 69320 Feyzin, de 1971 à 1981 ;
+
+SNIG/SITUB, 8, allée du Rhône, 69552 Feyzin : de 1968 à 1996 ;
+
+SNIG/SITUB, ZI Faveyrolle, 19, avenue Paul-Sabatier, 26700 Pierrelatte : de 1985 à 1996 ;
 
 Société Le Chlore Liquide/PROGIL/Rhône PROGIL/Rhône Poulenc SA, puis CHLORALP, rue Lavoisier, 38800 Pont-de-Claix : de 1916 à 1996, de 1997 à 2001 ;
 
