@@ -236,6 +236,8 @@ Alu Bennes :
 
 AMK Atelier mécanique de Kéroman, rue Maurice-Le Léon, 56100 Lorient : de 1967 à 1994.
 
+AMP-Le Bouter, rue Le Bail-Meignant, 29115 Le Guilvinec, et rue des Coopératives, 29760 Penmarc'h : de 1965 à 1998.
+
 Ar C'Hanot :
 
 - quai Sud, port Tudy, 56590 Groix : depuis 1986.
@@ -274,7 +276,7 @@ Ateliers mécaniques lorientais :
 
 Atelier motonautique, Port-la-Forêt, 29940 La Forêt-Fouessant : depuis 1977.
 
-Atelier Priol/SARL Leon, 186, rue Pierre-Semard, 29760 Saint-Guénolé, Penmarc'h, de 1966 à 1987.
+Atelier Priol/SARL Léon, puis SOFIMEC, 86, rue Pierre-Semard, 29760 Saint-Guénolé-Penmarc'h : de 1966 à 1999.
 
 Les Ateliers normands, puis SARL Ateliers normands, puis SA Ateliers normands, 56290 Port-Louis, puis lieudit Saint-Goustan, 56400 Auray, puis lieudit Locmalo, 56290 Port-Louis, puis 24, boulevard Jean-Pierre-Calloch, 56100 Lorient : depuis 1930.
 
@@ -353,10 +355,6 @@ Chantiers de La Perriere, Arsenal, 29200 Brest : depuis sa création.
 Chantiers de marine Yves Ouerrien Anse du Roudouie, 29900 Concarneau : Depuis 1945
 
 Chantiers et ateliers de La Perriere, 8, boulevard Abbé-Le Cam, 56100 Lorient, puis 32, rue de l'Ingénieur-Verrière, 56100 Lorient : de 1960 à 1992.
-
-Chantiers navals Bernard SA :
-
-- LD Pen Man, 56570 Locmiquelic : depuis 1979.
 
 Chantiers navals de Pors-Moro, Pors-Moro, 29120 Pont-Labé : depuis 1995.
 
@@ -494,6 +492,8 @@ Etablissements Series Marius :
 
 Etablissements Y. Hilly, 3, rue Alphonse-Rio, 56100 Lorient : de 1969 à 1976.
 
+Ets Bernard (Jean), Porte Rouge, 56290 Port-Louis, puis chantiers navals Bernard SA, port de Pen Mané, 56570 Locmiquelic : depuis 1972
+
 Ezanno Joseph :
 
 - 56410 Etel : de 1973 à 1979.
@@ -576,9 +576,7 @@ Lastenet André, quai Théphany, 29570 Camaret-sur-Mer, de 1987 à 1990.
 
 Lastenet Pierre, 5, rue du Styvel, 29570 Camaret-sur-Mer, de 1964 à 1987.
 
-Laudren Electricité :
-
-- 25, rue de la Fraternité, 29200 Brest, puis 60, rue Trudaine, 56600 Lanester : depuis 1953.
+Laudren Electricité, 25, rue de la Fraternité, 29200 Brest, puis 60, rue de Trudaine, 56600 Lanester : de 1953 à 2002
 
 Lefloc'h Corentin, puis Les forges de Loctudy. 18, rue du Port, 29125 Loctudy, puis Terre Plein du Port, 29125 Loctudy : Depuis 1960
 
@@ -594,9 +592,7 @@ Léon Glehen/Chantiers navals de Pors-Moro, Pors-Moro, 29120 Pont-Labbé : de 19
 
 Entreprise Jean Le Guerizec/Les Chantiers Barthélémy, boulevard de la Compagnie-des-Indes, 56290 Port-Louis : de 1952 à 1986.
 
-Leroux et Lotz Brest/Timo/Timobreiz :
-
-- rue Vauban, 29200 Brest, puis 13, rue du Colonel-Berthaud, 29200 Brest : depuis 1947.
+Leroux et Lotz/Timo/Timobreiz, 26, rue Vauban, 29200 Brest, puis 1, rue de l'Eglise, 29850 Gouesnou, puis 3, rue Pierre-Martin, puis 13, rue du Colonel-Berthaud, 29200 Brest : de 1947 à 2000
 
 Leroux et Lotz Meunier/Meunier Leroux et Lotz/Socomele/Leroux et Lotz Meunier, Arsenal, 29200 Brest : de 1984 à 1992.
 
@@ -615,6 +611,8 @@ Lorient Naval et industries :
 Maison Grouhel Camaret :
 
 - Le Sillon, 29570 Camaret-sur-Mer : de 1958 à 1978, puis Société Mecamar Camaret : depuis 1978.
+
+MIM (Montage industriel et maritime), 1, rue Blaveau, puis 8, rue des Colonies, puis 3, rue du Colonel-Berthaud, 29200 Brest : de 1986 à 1997
 
 MBR (Marine Bretagne Réparation), 3, quai Armand-Considere, 29200 Brest : de sa création à 1998.
 
@@ -721,6 +719,8 @@ SA Métabois :
 SA Robic et Corlay frères, 11, place Saint-Louis, 56410 Etel : de 1966 à 1975
 
 SAMI SFAT, puis SFAT, 106, rue Lazare-Carnot, 56100 Lorient : depuis 1987.
+
+SARL Boursicot, 34, rue Edouard-Herriot, 56400 Le Bono : depuis 1950.
 
 SARL Chantier naval du Magouer :
 
@@ -890,6 +890,8 @@ Société nouvelle Chantier naval des Baux :
 
 - 29200 Brest : depuis 1996.
 
+Société nouvelle de métallisation et de peinture de l'Ouest (SNMPO), rue de Carcaradec, ZI portuaire, 29200 Brest : depuis 1989.
+
 Société peinture navale :
 
 - port de commerce, ZI portuaire, 29200 Brest : de 1945 à 1984.
@@ -944,9 +946,7 @@ SPIE Ferrière Tuyauterie :
 
 - 15, rue Victor-Eusen, 29200 Brest : depuis 1996.
 
-SPIE Trindel :
-
-- 8, rue Théodore-Botrel, 29283 Brest Cedex : depuis sa création.
+SPIE Trindel, 8, rue Théodore-Botrel, 29283 Brest Cedex, puis AMEC SPIE, 8, rue Théodore-Botrel, 29283 Brest Cedex, puis rue Augustin-Fresnel, ZAC de Kergaradec, 29490 Guipavas : depuis sa création
 
 SPT-SPTMI (Phocéenne de travaux maritime et industriel) :
 
@@ -1110,9 +1110,7 @@ Forges et chantiers de la Méditerranée/ACHDBAN (atelier chantier du Havre Dubi
 
 - 76600 Le Havre : de 1946 à 1999.
 
-Foure Lagadec :
-
-- 76600 Le Havre : depuis 1922.
+Fouré Lagadec, 76600 Le Havre : depuis 1922 à 1993.
 
 GAD SAD (Glacière d'alimentation dieppoise - Société des ateliers Dechamps)/GAD SA/SO.NO.GAD (Société nouvelle du groupement d'ateliers dieppois), cour de Dakar, et 2 bis, rue d'Ecosse, 76200 Dieppe : depuis 1975
 
@@ -1518,8 +1516,6 @@ Electro Technique Groux (ETG) :
 
 EMIN/SOCANOR, 6, rue des Bazennes, 59140 Dunkerque, puis rue Garibaldi, ZI, 59760 Grande-Synthe : de 1954 à 1984.
 
-.
-
 EMINORD :
 
 - 22, rue Paul-Verley, 59140 Dunkerque : depuis 1986.
@@ -1636,7 +1632,7 @@ Ingénieries-réalisation, 11, route de Saint-Omer, Le Klap-Hoek, 59380 Quaedypr
 
 Injection et régulation marime (IRM), 243, avenue Maurice-Berteaux, BP 6, 59430 Saint-Pol-sur-Mer : depuis 1980.
 
-Jackie Defosse/Defosse Industrie SARL, 7, rue Roger-Salengro, 62230 Outreau : depuis 1972.
+Jackie Defosse/Defosse industrie SARL, 7, rue Roger-Salengro, 62230 Outreau : de 1982 à 2001
 
 Chantiers Jean Lefevre/Lefevre Menuiserie : boulevard Bigot-Descelers, 62630 Etaples : depuis 1971
 
@@ -1697,6 +1693,8 @@ NORMED :
 Notebaert :
 
 - 4, rue Bonvarlet, ZI de Petite Synthe, 59640 Dunkerque : jusqu'en 1995.
+
+Nouvelle compagnie radiomaritime (CRM), puis Compagnie radiomaritime, puis Compagnie électronique de l'Ouest, puis Compagnie radiomaritime SN, puis Compagnie radiomaritime CRM, boulevard de Châtillon, 62200 Boulogne-sur-Mer, et 9-10, terrasse, bâtiment 1, rue Huret-Lagache, 62200 Boulogne-sur-Mer : depuis 1987.
 
 OCEL Océanographie électronique, 138, quai Gambetta, 62200 Boulogne-sur-Mer : de 1969 à 1994
 
