@@ -4,7 +4,7 @@ Château du Haut-Koenigsbourg (Alsace).
 
 Château des ducs d'Epernon à Cadillac (Aquitaine).
 
-Sites archéologiques des Eyzies de Tayac (Grottes de Combarelles, Grottes de Font-de-Gaume, Gisement de Laugerie-Haute, Gisement de Moustier, Gisement de la Micoque, Gisement de la Ferrasie, Gisement de l'Abri du Poisson, Grottes de Tayjat, Abri de la Chaumière, Dolmen de Peyrelevade, Abri de Raymonden) (Aquitaine).
+Sites archéologiques de la vallée de la Vézère (Grottes de Combarelles, Grottes de Font-de-Gaume, Gisement de Laugerie-Haute, Gisement de Moustier, Gisement de la Micoque, Gisement de la Ferrasie, Gisement de l'Abri du Poisson, Grottes de Tayjat, Abri de la Chaumière, Dolmen de Peyrelevade, Abri du Cap-Blanc, Abri de Raymonden) (Aquitaine).
 
 Villa gallo-romaine de Montcaret (Aquitaine).
 
@@ -65,8 +65,6 @@ Palais de Chaillot (Aile de Paris et esplanade du Trocadéro, Ile-de-France).
 Chapelle expiatoire (Ile-de-France).
 
 Conciergerie (Ile-de-France).
-
-Domaine national de Meudon (Ile-de-France).
 
 Domaine national du Palais-Royal (Ile-de-France).
 
