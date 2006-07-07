@@ -4,7 +4,7 @@ Les décisions relatives aux titres sont publiées, affichées et notifiées dan
 
 A. - Sauf lorsqu'elles rejettent une demande, les décisions sont publiées :
 
-1° Par extrait au Journal officiel de la République française, par les soins du ministre chargé des mines ;
+1° Par extrait au Journal officiel de la République française, par les soins du ministre chargé des mines. Cette publication fait, à elle seule, courir le délai du recours contentieux dont disposent les tiers ;
 
 2° Dans un journal national, régional ou local, dont la diffusion s'étend à la zone couverte par le titre ou la demande. Cette publication est faite, par extrait, par les soins du préfet et aux frais du demandeur, au plus tard dans le mois qui suit la publication au Journal officiel de la République française.
 
