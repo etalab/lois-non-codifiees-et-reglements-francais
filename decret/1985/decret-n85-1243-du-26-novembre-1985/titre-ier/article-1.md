@@ -2,8 +2,6 @@
 
 Sont créées les écoles internes de formation d'ingénieurs suivantes :
 
-Ecole nationale supérieure des industries textiles, Mulhouse ;
-
 Ecole supérieure des sciences et technologies de l'ingénieur de Nancy, Nancy-I ;
 
 Ecole nationale supérieure des technologies et industries du bois, Nancy-I ;
@@ -14,11 +12,7 @@ Ecole nationale supérieure des sciences appliquées et de technologie de Lannio
 
 Ecole supérieure de biotechnologie de Strasbourg, Strasbourg-I ;
 
-Ecole supérieure d'ingénieurs de Chambéry (Esigec) ;
-
 Ecole supérieure d'ingénieurs en emballage et conditionnement, Reims ;
-
-Ecole supérieure des sciences appliquées pour l'ingénieur, Mulhouse ;
 
 Ecole supérieure d'informatique et applications de Lorraine, Nancy-I ;
 
@@ -33,8 +27,6 @@ Ecole supérieure d'ingénieurs de Luminy, Aix-Marseille-II ;
 Ecole supérieure de microbiologie et sécurité alimentaire, Brest ;
 
 Ecole d'ingénieurs du Val de Loire, Tours ;
-
-Ecole supérieure d'ingénieurs d'Annecy, Chambéry ;
 
 Ecole d'ingénieurs de Cherbourg, Caen ;
 
@@ -114,4 +106,8 @@ Ecole polytechnique de l'université de Nice ;
 
 Ecole polytechnique universitaire Pierre et Marie Curie, Paris-VI ;
 
-Institut de formation d'ingénieurs, Paris-XI.
+Institut de formation d'ingénieurs, Paris-XI ;
+
+Ecole polytechnique universitaire de Savoie, Chambéry ;
+
+Ecole nationale supérieure d'ingénieurs sud Alsace, Mulhouse.
