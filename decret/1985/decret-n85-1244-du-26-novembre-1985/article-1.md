@@ -86,7 +86,7 @@ Institut d'informatique et d'électronique Gaspard-Monge.
 
 Institut francilien d'ingénierie des services.
 
-Institut francilien d'ingénierie des géosciences.
+Institut francilien des sciences appliquées.
 
 Nancy-II :
 
