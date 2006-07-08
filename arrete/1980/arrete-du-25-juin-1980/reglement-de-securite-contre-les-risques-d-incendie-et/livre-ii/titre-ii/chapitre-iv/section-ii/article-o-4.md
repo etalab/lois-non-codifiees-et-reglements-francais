@@ -2,6 +2,4 @@
 
 Parc de stationnement couvert
 
-§ 1. Un parc de stationnement couvert de 6000 mètres carrés de superficie au plus, placé ou non sous la même direction qu'un établissement du présent chapitre, doit être isolé de celui-ci dans les conditions prévues aux articles CO 7 et CO 9 pour les tiers à risques courants.
-
-§ 2. Les intercommunications sont autorisées et doivent s'effectuer par des sas munis de deux portes PF de degré 1/2 heure, équipées d'un ferme-porte ; ces portes doivent s'ouvrir vers l'intérieur du sas.
+Les intercommunications éventuelles réalisées entre un établissement du présent chapitre et un établissement de type PS sont assujetties aux dispositions de l'article PS 8, § 4.

@@ -1,18 +1,18 @@
 # Article 7
 
-Il est créé auprès du directeur général de l'industrie une commission technique relative aux artifices de divertissement du groupe K 4, chargée de donner son avis sur l'agrément des organismes de formation ainsi que sur toute question relative à la sécurité d'utilisation des artifices de ce groupe.
+Il est créé auprès du directeur général des entreprises une commission technique relative aux artifices de divertissement du groupe K 4, chargée de donner son avis sur l'agrément des organismes de formation ainsi que sur toute question relative à la sécurité d'utilisation des artifices de ce groupe.
 
 Elle statue également sur la reconnaissance de l'équivalence des certificats et formations dispensés dans un autre Etat de la Communauté européenne et informe le préfet chargé de la délivrance du certificat.
 
-Cette commission, présidée par le chef du service des biens de consommation ou son représentant, comprend des membres de droit et des membres désignés nominativement par arrêté conjoint des ministres chargés de l'industrie et de la sécurité civile.
+Cette commission, présidée par le directeur de l'action régionale, de la qualité et de la sécurité industrielle ou son représentant, comprend des membres de droit et des membres désignés nominativement par arrêté conjoint des ministres chargés de l'industrie et de la sécurité civile.
 
 a) Sont membres de droit :
 
-Au titre du ministère de l'industrie et de l'aménagement du territoire :
+Au titre du ministère chargé de l'industrie  :
 
-Le chef du service des biens de consommation ;
+Le directeur de l'action régionale, de la qualité et de la sécurité industrielle.
 
-Le sous-directeur responsable du secteur pyrotechnique.
+Le sous-directeur de la sécurité industrielle et de la métrologie.
 
 Au titre du ministère chargé des collectivités territoriales et de la sécurité civile :
 
