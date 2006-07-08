@@ -12,4 +12,4 @@ Ces dispositions ne sont pas exigées lorsque l'établissement est séparé du b
 
 § 3. Si la façade non aveugle d'un bâtiment tiers domine la couverture de l'établissement, cette dernière doit être réalisée en éléments de construction pare-flammes de degré 1/2 heure sur une distance de 2 mètres mesurés horizontalement à partir de cette façade.
 
-§ 4. Un parc de stationnement couvert de 6 000 mètres carrés au plus, placé ou non sous la même direction qu'un établissement du présent chapitre, doit être isolé de celui-ci dans les conditions prévues aux articles CO 7 et CO 9 pour les tiers à risques courants. En dérogation aux articles précédents les intercommunications sont autorisées net doivent s'effectuer par des sas munis de deux portes pare-flamme de degré 1/2 heure équipées de ferme-porte et s'ouvrant vers l'intérieur du sas.
+§ 4. Les intercommunications éventuelles réalisées entre un établissement du deuxième groupe et un établissement de type PS sont assujetties aux dispositions de l'article PS 8, paragraphe 4.
