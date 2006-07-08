@@ -29,6 +29,12 @@ LISTE DES PORTS SUSCEPTIBLES D'OUVRIR DROIT A L'ALLOCATION DE CESSATION ANTICIPE
 </td>
 </tr>
 <tr>
+<td>Calais </td>
+<td>
+<p align="center"> De 1974 à 1980, de 1983 à 1985, de 1987 à 1991</p>
+</td>
+</tr>
+<tr>
 <td valign="top" width="302">
 <p>Cherbourg</p>
 </td>
