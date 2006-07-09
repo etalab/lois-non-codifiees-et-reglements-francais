@@ -66,10 +66,6 @@ DURÉE Moyenne d'ancienneté : 2 ans 6 mois
 
 DURÉE Minimum d'ancienneté : 2 ans
 
-GRADE : Receveurs régionaux
-
-échelon unique
-
 GRADE : Receveurs principaux de 1re classe
 
 Echelon : 2e

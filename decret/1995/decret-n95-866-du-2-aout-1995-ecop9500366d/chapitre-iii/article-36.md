@@ -1,6 +1,6 @@
 # Article 36
 
-Les administrateurs civils âgés de quarante ans au moins et justifiant de trois années de services effectifs accomplis en cette qualité à la direction générale des impôts peuvent, dans les conditions fixées par le décret n° 72-556 du 30 juin 1972 modifié relatif au statut particulier des administrateurs civils, être nommés dans un emploi de chef des services fiscaux ou de directeur départemental des services déconcentrés, ou dans l'un des emplois correspondants prévus aux articles 26 et 30. Ils peuvent être immédiatement intégrés dans le corps régi par le présent statut.
+Les administrateurs civils âgés de quarante ans au moins et justifiant de trois années de services effectifs accomplis en cette qualité à la direction générale des impôts peuvent, dans les conditions fixées par le décret n° 72-556 du 30 juin 1972 modifié relatif au statut particulier des administrateurs civils, être nommés dans un emploi de chef des services fiscaux ou de directeur départemental des services déconcentrés, ou dans l'un des emplois correspondants prévus à l'articles 30. Ils peuvent être immédiatement intégrés dans le corps régi par le présent statut.
 
 Ils sont nommés à l'indice égal ou, à défaut, immédiatement supérieur. Si la nomination ne comporte pas une augmentation indiciaire au moins égale à celle résultant d'un avancement d'échelon dans le corps des administrateurs civils, ils conservent dans leur nouvel emploi l'ancienneté acquise dans l'ancien échelon.
 

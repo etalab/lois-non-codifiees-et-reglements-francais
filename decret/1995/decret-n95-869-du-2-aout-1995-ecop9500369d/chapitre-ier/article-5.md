@@ -84,9 +84,9 @@ GRADE : Receveur des finances de 1re catégorie.
 
 FONCTIONS :
 
-Chef de poste dans les recettes des finances de 1re catégorie.
+Fondé de pouvoir du trésorier-payeur général.
 
-Chargé de mission spéciale dans les trésoreries générales.
+Chargé de mission auprès du trésorier-payeur général.
 
 (1) Cette fonction peut être exercée simultanément dans plusieurs perceptions.
 

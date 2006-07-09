@@ -18,8 +18,6 @@ Inspecteur principal de 2e classe : six échelons ;
 
 Inspecteur : douze échelons ;
 
-Receveur régional : échelon unique ;
-
 Receveur principal de 1re classe : trois échelons ;
 
 Receveur principal de 2e classe : deux échelons.
