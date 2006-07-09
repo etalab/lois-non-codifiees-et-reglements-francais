@@ -6,7 +6,7 @@ Sont supprimés au chapitre 31-90 du budget des services financiers :
 
 - deux emplois d'administrateur de 1re classe de l'I.N.S.E.E. ;
 
-- un emploi de receveur divisionnaire de la direction générale des impôts ;
+- un emploi de chef de service comptable de 1re et 2e catégorie de la direction générale des impôts ;
 
 - un emploi de directeur adjoint des douanes et droits indirects ;
 

@@ -4,4 +4,4 @@ Pour la délivrance des certificats mentionnés à l'article 1er du présent dé
 
 1° Les directeurs régionaux, les directeurs adjoints et inspecteurs principaux exerçant les fonctions d'adjoint au directeur, les receveurs principaux fonctionnels et inspecteurs exerçant les fonctions de chef des bureaux particuliers ;
 
-2° Les receveurs régionaux et les receveurs principaux fonctionnels exerçant les fonctions de fondé de pouvoir.
+2° Les chefs de service comptable à la direction générale des douanes et droits indirects de 1re et de 2e catégorie et les receveurs principaux fonctionnels exerçant les fonctions de fondé de pouvoir.

@@ -4,7 +4,7 @@ La personne habilitée à déclarer en détail peut exercer son pouvoir dans le 
 
 Le représentant doit être établi dans la Communauté européenne, sous réserve des exceptions prévues par le code des douanes communautaire.
 
-Tout mandat de représentation donne lieu au dépôt auprès du receveur régional de rattachement d'une procuration.
+Tout mandat de représentation donne lieu au dépôt auprès du chef de service comptable à la direction générale des douanes et droits indirects de 1re et de 2e catégorie de rattachement d'une procuration.
 
 Par dérogation aux dispositions de l'alinéa précédent, la procuration peut être établie sous une forme simplifiée dans le cas d'opérations non commerciales ou effectuées à titre occasionnel. Dans ce cas, l'original de la procuration doit être joint à la déclaration en détail et y demeurer annexé.
 
