@@ -16,6 +16,4 @@ Les fonctionnaires de la catégorie A des services déconcentrés de la directio
 
 7° Inspecteur : douze échelons ;
 
-8° Conservateur des hypothèques : échelon unique ;
-
-9° Receveur divisionnaire : échelon unique.
+8° Conservateur des hypothèques : échelon unique.

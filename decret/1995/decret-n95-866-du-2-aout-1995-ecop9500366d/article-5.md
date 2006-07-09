@@ -33,5 +33,3 @@ VII. - L'inspecteur a la responsabilité des travaux d'assiette, de vérificatio
 VIII. - Les inspecteurs principaux, les inspecteurs départementaux et les inspecteurs peuvent également être nommés régisseurs d'avances ou de recettes dans les conditions fixées par arrêté du ministre chargé du budget.
 
 IX. - Le conservateur des hypothèques est chargé d'accomplir les formalités de publicité foncière et perçoit, à cette occasion, les taxes, droits et salaires exigibles. Il peut, en outre, être chargé de l'enregistrement des actes de mutation à titre gratuit.
-
-X. - Le receveur divisionnaire centralise les opérations comptables de tous les postes comptables de la direction. Il assiste le fonctionnaire responsable de la direction territoriale dans l'animation du réseau comptable et l'orientation de l'action en recouvrement. Il aide les autres comptables de la direction. Il est chargé de l'octroi du crédit attaché au paiement des droits par obligations cautionnées et, sous sa responsabilité personnelle, de l'agrément des cautions relatives à ces titres. Il est normalement chargé de la gestion d'un poste comptable.
