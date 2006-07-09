@@ -1,15 +1,11 @@
 # Article 5
 
-L'ERAP est administrée par un conseil, nommé pour trois ans, composé de douze membres :
+L'ERAP est administré par un conseil, nommé pour trois ans, ainsi composé :
 
-Un haut fonctionnaire ou une personnalité ayant exercé des fonctions de haute responsabilité économique, industrielle ou financière au service de l'Etat, président ;
+Une personnalité ayant exercé des fonctions de responsabilité dans le domaine économique, industriel ou financier au service de l'Etat, président ;
 
-Deux représentants du ministre de l'industrie ;
+Quatre représentants de l'Etat, dont deux représentant le ministre chargé de l'industrie et deux représentant le ministre chargé de l'économie ;
 
-Deux représentants du ministre des finances et des affaires économiques ;
+Quatre autres personnalités choisies en raison de leur compétence.
 
-Un représentant du ministre des affaires étrangères ;
-
-Six personnalités de nationalité française choisies en raison de leur compétence.
-
-Le président est assisté d'un vice-président, qui assure les fonctions du président en cas d'absence ou d'empêchement de ce dernier.
+Le président est assisté d'un vice-président qui le remplace en cas d'absence ou d'empêchement.
