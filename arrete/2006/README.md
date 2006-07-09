@@ -94,6 +94,7 @@
 - [Arrêté du 9 mai 2006 (DEFL0600781A)](arrete-du-9-mai-2006-defl0600781a)
 - [Arrêté du 9 mai 2006 (DEFL0600782A)](arrete-du-9-mai-2006-defl0600782a)
 - [Arrêté du 9 mai 2006 (ECOC0600052A)](arrete-du-9-mai-2006-ecoc0600052a)
+- [Arrêté du 9 mai 2006 (INTE0600458A)](arrete-du-9-mai-2006-inte0600458a)
 - [Arrêté du 9 mai 2006 (MENE0601244A)](arrete-du-9-mai-2006-mene0601244a)
 - [Arrêté du 9 mai 2006 (MENE0601246A)](arrete-du-9-mai-2006-mene0601246a)
 - [Arrêté du 9 mai 2006 (MENE0601247A)](arrete-du-9-mai-2006-mene0601247a)
