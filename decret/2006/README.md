@@ -267,6 +267,8 @@
 - [Décret n°2006-48 du 10 janvier 2006 (AGRS0502621D)](decret-n2006-48-du-10-janvier-2006-agrs0502621d)
 - [Décret n°2006-49 du 10 janvier 2006 (AGRS0502622D)](decret-n2006-49-du-10-janvier-2006-agrs0502622d)
 - [Décret n°2006-50 du 10 janvier 2006 (AGRS0502623D)](decret-n2006-50-du-10-janvier-2006-agrs0502623d)
+- [Décret n°2006-826 du 10 juillet 2006 (SOCC0611264D)](decret-n2006-826-du-10-juillet-2006-socc0611264d)
+- [Décret n°2006-827 du 10 juillet 2006 (EQUA0600933D)](decret-n2006-827-du-10-juillet-2006-equa0600933d)
 - [Décret n°96-1087 du 10 décembre 1996 (FPPA9610032D)](decret-n96-1087-du-10-decembre-1996-fppa9610032d)
 - [Décret n°2006-533 du 10 mai 2006 (MENE0601172D)](decret-n2006-533-du-10-mai-2006-mene0601172d)
 - [Décret n°2006-534 du 10 mai 2006 (EQUT0600631D)](decret-n2006-534-du-10-mai-2006-equt0600631d)
