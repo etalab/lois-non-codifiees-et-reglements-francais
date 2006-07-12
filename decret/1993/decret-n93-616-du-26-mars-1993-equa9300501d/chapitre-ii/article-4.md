@@ -2,9 +2,7 @@
 
 Sous réserve de l'application de la législation sur les emplois réservés, les adjoints d'administration de l'aviation civile de 2e classe sont recrutés :
 
-1° Par concours externe ouvert aux candidats âgés de moins de quarante-cinq ans au 1er janvier de l'année du concours.
-
-Les candidats qui atteignent l'âge limite au cours d'une année pendant laquelle il n'est pas organisé de recrutement peuvent faire acte de candidature au concours suivant.
+1° Par concours externe.
 
 2° Par concours interne ouvert aux fonctionnaires et agents non titulaires de l'Etat, des collectivités territoriales et des établissements publics qui en dépendent, ayant accompli à la date du début des épreuves au moins une année de services dans leur corps, cadre d'emplois ou emploi.
 
@@ -12,7 +10,7 @@ Les emplois à pourvoir par concours sont répartis par moitié entre chacun des
 
 3° A raison d'un cinquième des titularisations après concours, par liste d'aptitude et par examen professionnel, réparti par moitié entre ces deux voies de recrutement.
 
-Peuvent être nommés adjoints d'administration de 2e classe de l'aviation civile par voie d'inscription sur une liste d'aptitude établie après avis de la commission administrative paritaire compétente les fonctionnaires titulaires du corps des agents d'administration de l'aviation civile ayant atteint au moins le 8e échelon de la 1re classe.
+Peuvent être nommés adjoints d'administration de 2e classe de l'aviation civile par voie d'inscription sur une liste d'aptitude établie après avis de la commission administrative paritaire compétente les fonctionnaires titulaires du corps des agents d'administration de l'aviation civile ayant atteint au moins le 8e échelon.
 
 Peuvent être nommés adjoints d'administration de 2e classe de l'aviation civile après examen professionnel les fonctionnaires justifiant d'au moins huit années de services publics, dont cinq années de services dans le corps des agents d'administration de l'aviation civile à la date du début des épreuves.
 
