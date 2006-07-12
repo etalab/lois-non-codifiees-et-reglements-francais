@@ -4,7 +4,7 @@ Les candidats admis au concours sont nommés agents d'administration de l'aviati
 
 Ils accomplissent un stage d'une durée d'un an.
 
-Ils sont classés soit au 1er échelon du grade d'agent d'administration de 2e classe, soit, s'ils sont déjà fonctionnaires ou agents de l'Etat, des collectivités territoriales ou des établissements publics qui en dépendent, dans les conditions fixées aux articles 5 et 6 du décret du 27 janvier 1970 modifié susvisé relatif à l'organisation des carrières des fonctionnaires de catégorie C et D.
+Ils sont classés soit au 1er échelon du grade d'agent d'administration, soit, s'ils sont déjà fonctionnaires ou agents de l'Etat, des collectivités territoriales ou des établissements publics qui en dépendent, dans les conditions fixées aux articles 3 à 6 du décret n° 2005-1228 du 29 septembre 2005 susvisé.
 
 Au cours de l'année de stage, ils sont appelés à suivre une formation dont la durée et les modalités sont fixées par un arrêté du ministre chargé de l'aviation civile.
 
