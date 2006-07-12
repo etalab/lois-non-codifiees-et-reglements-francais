@@ -18,6 +18,10 @@ Consulat général à Düsseldorf.
 
 Consulat général à Sarrebruck.
 
+Consulat général à Munich.
+
+Consulat général à Stuttgart.
+
 Belgique.
 
 Consulat général à Bruxelles.
