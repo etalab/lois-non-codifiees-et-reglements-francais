@@ -1,8 +1,8 @@
 # Article 5
 
-Les candidats admis au concours prévu au 1° de l'article 4 ci-dessus sont nommés agents des services techniques de l'aviation civile stagiaires et accomplissent un stage d'une durée d'un an.
+Les candidats admis au concours prévu à l'article 4 ci-dessus sont nommés agents des services techniques de l'aviation civile stagiaires et accomplissent un stage d'une durée d'un an.
 
-Ils sont classés soit au 1er échelon du grade d'agent des services techniques de 2e classe, soit, s'ils sont déjà fonctionnaires ou agents de l'Etat, des collectivités territoriales ou des établissements publics qui en dépendent, dans les conditions fixées aux articles 5 et 6 du décret du 27 janvier 1970 susvisé.
+Il sont classés soit au 1er échelon du grade d'agent des services techniques de l'aviation civile, soit, s'ils sont déjà fonctionnaires ou agents de l'Etat, des collectivités territoriales ou des établissements publics qui en dépendent, dans les conditions fixées aux articles 3 et 4 du décret du 29 septembre 2005 susvisé.
 
 A l'issue du stage, les agents dont les services ont donné satisfaction sont titularisés.
 
