@@ -10,4 +10,4 @@ Les fonctionnaires recrutés par la voie du troisième concours, en application 
 
 Les périodes au cours desquelles des activités mentionnées au deuxième alinéa du présent article ont été exercées simultanément ne sont prises en compte qu'à un seul titre.
 
-Ceux des agents issus du troisième concours qui avaient la qualité de fonctionnaire ou d'agent non titulaire préalablement à leur nomination peuvent opter entre la bonification prévue par les alinéas précédents et la prise en compte, au moment de leur nomination ou au plus tard dans un délai de deux ans suivant celle-ci, de l'ancienneté acquise au titre des services antérieurs, en application des dispositions des articles 5 à 7.
+Les agents issus du troisième concours peuvent opter entre la bonification prévue par les alinéas précédents et la prise en compte, au moment de leur nomination ou au plus tard dans un délai de deux ans suivant celle-ci, de l'ancienneté acquise au titre des services antérieurs, en application des dispositions des articles 5 à 7.

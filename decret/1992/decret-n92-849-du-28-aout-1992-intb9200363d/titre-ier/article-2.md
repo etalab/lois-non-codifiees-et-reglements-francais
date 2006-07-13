@@ -1,6 +1,6 @@
 # Article 2
 
-Les membres du cadre d'emplois territoriaux peuvent occuper un emploi soit d'aide ménagère ou d'auxiliaire de vie, soit de travailleur familial.
+Les membres du cadre d'emplois peuvent occuper un emploi soit d'aide ménagère ou d'auxiliaire de vie, soit de travailleur familial.
 
 En qualité d'aide ménagère ou d'auxiliaire de vie, ils sont chargés d'assurer des tâches et activités de la vie quotidienne auprès de familles, de personnes âgées ou de personnes handicapées, leur permettant ainsi de se maintenir dans leur milieu de vie habituel.
 
