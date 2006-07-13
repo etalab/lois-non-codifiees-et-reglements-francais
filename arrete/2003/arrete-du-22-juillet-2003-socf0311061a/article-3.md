@@ -8,6 +8,6 @@ Le titre professionnel d'infographiste en multimédia est composé de quatre uni
 
 3. Elaborer des séquences d'animations vectorielles interactives ;
 
-4. Elaborer un produit multimédia édité sur support gravé.
+4. Elaborer un produit de communication graphique imprimé, gravé en ligne.
 
-Elles peuvent être sanctionnées par des certificats de compétences professionnelles (CCP) dans les conditions prévues par l'arrêté du 25 novembre 2002 susvisé.
+Elles peuvent être sanctionnées par des certificats de compétences professionnelles (CCP).

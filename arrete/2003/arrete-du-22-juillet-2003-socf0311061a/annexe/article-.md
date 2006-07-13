@@ -14,81 +14,75 @@ Code NSF : 322 t.
 
 Résumé du référentiel d'emploi
 
-L'infographiste en multimédia participe à l'ensemble des étapes de production d'éléments multimédia, publiés sur internet ou édités sur support gravé :
+L'infographiste en multimédia est un(e) professionnel(le) de la communication visuelle.
 
-- analyse une demande, des instructions ou un cahier des charges ;
+Il (elle) participe à l'ensemble des étapes de production d'éléments multimédias, publiés sur internet ou édités sur tout support :
 
-- prépare les médias avec différents logiciels spécifiques (textes, images, animations, sons, vidéo, etc.) ;
+- il (elle) analyse la demande, les instructions ou le cahier des charges ;
 
-- exécute un plan de structure arborescente, une charte graphique, des roughs (dessin à main levée) et une maquette interactive qui comporteront toutes les indications nécessaires à la fabrication du produit (travail de recherche et de création d'esquisses de maquettes) ;
+- il (elle) prépare les médias avec différents logiciels spécifiques (textes, images, animations, sons, vidéos, etc.) ;
 
-- après négociation avec le client, exécute la mise en pages pour la réalisation d'un site web ou d'un cédérom ou DVD interactif.
+- il (elle) exécute un plan de structure arborescente, une charte graphique, des roughs (dessin à main levée) et une maquette interactive qui comporteront toutes les indications nécessaires à la fabrication du produit (travail de recherche et de création d'esquisses de maquettes) et des feuilles de style ;
 
-Pour un site web :
+- après négociation avec le client, il (elle) exécute la mise en pages définitive pour la réalisation du site web, du CD-ROM ou du DVD.
 
-- réalise des animations en deux dimensions de textes et d'objets graphiques en utilisant un logiciel spécifique d'animation vectorisée ou d'un éditeur de montage vidéo ;
+L'infographiste en multimédia peut être spécialisé dans la réalisation d'animations en trois dimensions.
 
-- fait l'interface graphique pour un site web dynamique (feuille de style) et publie le site web sur le serveur du fournisseur d'accès.
+Une culture visuelle est fondamentale, notamment la culture du multimédia (l'interactivité, le scénario arborescent, la mise en pages d'écrans dynamiques, les animations vectorielles, l'audiovisuel...).
 
-Pour un cédérom ou DVD :
+La connaissance des outils logiciels d'exécution, des langages de programmation courants tels que le HTML et le JavaScript ainsi qu'un certain niveau de maîtrise des plates-formes d'intégration est également indispensable.
 
-- affecte un comportement aux images-objets et édite la maquette sous la forme d'un projecteur autonome (exécutable) ;
+Capacités attestées et descriptif
 
-- finalise un produit multimédia.
+des composantes de la certification
 
-L'infographiste en multimédia peut être spécialisé dans la conception et la réalisation des animations en trois dimensions (3D) selon un cahier des charges, des consignes ou des plans fournis.
+1. Préparer des graphismes et photomontages
 
-L'infographiste travaille le plus souvent dans une équipe (directeur artistique ou chef de projet, autres graphistes, développeur informatique, etc.). Dans le cadre de grande entreprise, l'activité peut être répartie entre plusieurs personnes qui se spécialisent.
-
-Capacités attestées et descriptif des composantes de la certification
-
-1. Préparer des graphismes et photomontages pour des supports numériques
+pour des supports numériques
 
 Gérer un poste de travail informatique.
 
-Utiliser les outils de recherche et d'échange d'informations sur l'internet.
+Utiliser les outils de recherche et d'échange d'informations sur internet.
 
-Préparer les médias (textes, images fixes ou animées, sons...).
+Préparer les médias (texte, images fixes ou animées...).
 
 Réaliser des graphismes et illustrations fixes élaborés.
 
 Réaliser des photomontages complexes.
 
-2. Réaliser les pages web destinées à la chaîne d'édition multimédia en ligne
+2. Réaliser les pages web destinées à la chaîne
 
-Gérer un poste de travail informatique.
+d'édition multimédia en ligne
 
-Utiliser les outils de recherche et d'échange d'informations sur l'internet.
+Réaliser un site web statique.
 
-Préparer un site web.
+Réaliser un site web dynamique.
 
 Publier un site web.
 
-Réaliser l'interface graphique d'un site web dynamique.
+3. Elaborer des séquences
 
-3. Elaborer des séquences d'animations vectorielles interactives
+d'animations vectorielles interactives
 
-Gérer un poste de travail informatique.
+Réaliser des animations vectorielles en deux dimensions (2 D).
 
-Réaliser des animations vectorielles en deux dimensions (2D).
+Réaliser des séquences d'animations vectorielles interactives en deux dimensions (2 D).
 
-Réaliser des séquences d'animations vectorielles interactives en deux dimensions (2D).
+4. Elaborer un produit de communication graphique
 
-4. Elaborer un produit multimédia édité sur support gravé
+imprimé, gravé ou en ligne
 
-Gérer un poste de travail informatique.
+Concevoir un site web et un produit multimédia interactif gravé.
 
-Réaliser un produit multimédia interactif.
+Réaliser un produit multimédia interactif, intégrer les médias et leurs comportements.
 
-Intégrer les médias et leurs comportements.
+Concevoir et exécuter une maquette de mise en pages pour support imprimé (préparation des médias, mise en pages, suivi de l'impression).
 
-Finaliser un produit multimédia (CD-ROM - DVD).
+Finaliser un produit multimédia (CD-ROM, DVD).
 
 Unité de spécialisation complémentaire
 
-Concevoir et réaliser
-
-une animation en trois dimensions (3D)
+Concevoir et réaliser une animation en trois dimensions (3 D)
 
 Interpréter les fichiers de dessin industriel et de conception assistée par ordinateur (CAO) et modéliser des objets en trois dimensions.
 
@@ -98,9 +92,17 @@ Concevoir et appliquer l'habillage et l'éclairage sur des objets en trois dimen
 
 Finaliser une animation en trois dimensions et lui appliquer une interactivité simple.
 
-Secteurs d'activités ou types d'emploi accessibles par le détenteur du titre
+Secteurs d'activités ou types d'emploi
 
-L'infographiste en multimédia exerce en général son activité dans un studio graphique (agence de publicité, studio de création graphique indépendant ou intégré dans une entreprise publique ou privée).
+accessibles par le détenteur du titre
+
+Les secteurs d'activités de l'infographiste en multimédia sont la communication, l'édition, la publicité et l'information et le commerce sur internet.
+
+Cet emploi s'exerce :
+
+- en studio graphique, agence de publicité, agence de communication : cellule création ou commerciale ;
+
+- en prestation directe auprès des entreprises : travailleur indépendant, ou EURL (entreprise unipersonnelle à responsabilité limitée).
 
 Code ROME :
 
@@ -118,6 +120,6 @@ Bases légales et réglementaires :
 
 Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
 
-Décret n° 2002-1029 du 2 août 2002 ;
+Décret n° 2002-1029 du 2 août 2002 relatif au titre professionnel du ministère chargé de l'emploi ;
 
-Arrêté du 25 novembre 2002.
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.
