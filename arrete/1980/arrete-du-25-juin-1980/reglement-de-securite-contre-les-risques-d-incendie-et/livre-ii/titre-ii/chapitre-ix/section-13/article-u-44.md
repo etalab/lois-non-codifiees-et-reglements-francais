@@ -16,6 +16,8 @@ Les principes de fonctionnement de cet équipement central doivent être présen
 
 Des détecteurs automatiques d'incendie, appropriés aux risques, doivent être installés dans l'ensemble de l'établissement, à l'exception des escaliers et des sanitaires.
 
+Des détecteurs situés à l'intérieur des locaux à sommeil, à l'exception de ceux se trouvant au sein des espaces définis à l'article U 10 § 3 et 4, devront comporter un indicateur d'action situé de façon visible dans la circulation horizontale les desservant.
+
 § 2. Dans les établissements abritant des locaux à sommeil, l'implantation des zones telles que définies par l'article MS 55 doit être réalisée de la façon suivante :
 
 - la zone d'alarme (ZA) doit englober l'ensemble de l'établissement ;

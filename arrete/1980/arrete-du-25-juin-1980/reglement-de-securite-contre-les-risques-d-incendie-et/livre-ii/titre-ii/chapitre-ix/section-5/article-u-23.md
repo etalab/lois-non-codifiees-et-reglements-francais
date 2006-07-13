@@ -18,4 +18,4 @@ Revêtements, gros mobilier, cloisons, éléments de literie
 
 § 3. Les matelas, à l'exception des dispositifs médicaux, doivent satisfaire aux essais encadrés par la norme NF EN 597-1.
 
-Les draps, alèses et couvertures non matelassées, à l'exception des dispositifs médicaux, doivent satisfaire aux essais encadrés par la norme NF EN ISO 12952.
+Les draps, alèses et couvertures non matelassées, à l'exception des dispositifs médicaux, doivent satisfaire aux essais encadrés par la norme NF EN ISO 12952-1 et 2.
