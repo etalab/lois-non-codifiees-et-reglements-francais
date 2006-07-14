@@ -27,6 +27,7 @@
 - [Décret n°2005-671 du 16 juin 2005 (ECOX0500134D)](decret-n2005-671-du-16-juin-2005-ecox0500134d)
 - [Décret n°2005-469 du 16 mai 2005 (PRMX0508393D)](decret-n2005-469-du-16-mai-2005-prmx0508393d)
 - [Décret n°2005-1426 du 18 novembre 2005 (INTT0500312D)](decret-n2005-1426-du-18-novembre-2005-intt0500312d)
+- [Décret n°2005-1429 du 18 novembre 2005 (ECOP0500907D)](decret-n2005-1429-du-18-novembre-2005-ecop0500907d)
 - [Décret n°2005-819 du 19 juillet 2005 (JUSK0540002D)](decret-n2005-819-du-19-juillet-2005-jusk0540002d)
 - [Décret n°2005-1298 du 20 octobre 2005 (ECOX0500205D)](decret-n2005-1298-du-20-octobre-2005-ecox0500205d)
 - [Décret n°2005-1308 du 20 octobre 2005 (ECOM0520014D)](decret-n2005-1308-du-20-octobre-2005-ecom0520014d)
