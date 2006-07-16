@@ -1,3 +1,0 @@
-# Article 20
-
-Sous réserve des décisions de justice passées en force de chose jugée et des instances en cours, les délibérations prises depuis le 16 mai 2001 par le conseil d'administration de l'établissement public "Réseau ferré de France" sont validées en tant que leur légalité serait contestée aux motifs que le conseil d'administration qui les a adoptées ne comprenait pas de représentant des consommateurs ou des usagers désigné en application des dispositions de l'article 5 de la loi n° 83-675 du 26 juillet 1983 relative à la démocratisation du secteur public et était, par la suite, irrégulièrement composé.

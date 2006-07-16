@@ -4,4 +4,5 @@
 - [Chapitre II : Administration de la copropriété](chapitre-ii)
 - [Chapitre III : Améliorations, additions de locaux privatifs et exercice du droit de surélévation.](chapitre-iii)
 - [Chapitre IV : Reconstruction.](chapitre-iv)
+- [Chapitre IV bis : Résidences-services](chapitre-iv-bis)
 - [Chapitre V : Dispositions d'ordre général.](chapitre-v)

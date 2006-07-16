@@ -31,3 +31,7 @@ k) L'autorisation permanente accordée à la police ou à la gendarmerie nationa
 l) L'installation ou la modification d'un réseau de distribution d'électricité public destiné à alimenter en courant électrique les emplacements de stationnement des véhicules, notamment pour permettre la charge des accumulateurs de véhicules électriques.
 
 m) L'installation de compteurs d'eau froide divisionnaires.
+
+n) Les travaux à effectuer sur les parties communes en vue de prévenir les atteintes aux personnes et aux biens.
+
+Lorsque l'assemblée générale a décidé d'installer un dispositif de fermeture en application du précédent alinéa, elle détermine aussi, à la même majorité que celle prévue au premier alinéa, les périodes de fermeture totale de l'immeuble compatibles avec l'exercice d'une activité autorisée par le règlement de copropriété. En dehors de ces périodes, la fermeture totale est décidée à la majorité des voix de tous les copropriétaires si le dispositif permet une ouverture à distance et à l'unanimité en l'absence d'un tel dispositif.

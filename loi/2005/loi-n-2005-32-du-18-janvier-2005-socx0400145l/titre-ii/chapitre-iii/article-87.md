@@ -199,3 +199,5 @@ Les crédits alloués par l'Etat à ce programme et aux autres actions consacré
 </tr>
 </tbody>
 </table>
+
+Comme en métropole, les départements d'outre-mer sont éligibles à l'ensemble des mesures de soutien et de relance du logement social, à la mise en place du volet logement du plan de cohésion sociale avec notamment la mobilisation de la ligne budgétaire unique.

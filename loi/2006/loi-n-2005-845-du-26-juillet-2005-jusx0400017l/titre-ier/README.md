@@ -1,3 +1,0 @@
-# TITRE Ier : DISPOSITIONS MODIFIANT LE LIVRE VI DU CODE DE COMMERCE.
-
-- [Article 1](article-1.md)

@@ -1,3 +1,0 @@
-# Article 4
-
-Les modalités d'application des articles 1er à 3 sont fixées par décret en Conseil d'Etat. Il fixe notamment la composition et les règles de fonctionnement des organes de l'établissement, son régime administratif et financier ainsi que les modalités d'exercice du contrôle de l'Etat. Ce décret détermine également les conditions d'emploi par l'établissement public d'agents de la Régie autonome des transports parisiens et de la Société nationale des chemins de fer français, qui comprennent notamment le droit de demeurer affiliés au régime de retraite dont ils relevaient dans leur établissement d'origine ainsi que leur droit à l'avancement.

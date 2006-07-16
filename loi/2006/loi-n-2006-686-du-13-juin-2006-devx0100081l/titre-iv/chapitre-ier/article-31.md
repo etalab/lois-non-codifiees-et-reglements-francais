@@ -1,3 +1,0 @@
-# Article 31
-
-L'autorité administrative peut instituer autour des installations nucléaires de base, y compris des installations existantes, des servitudes d'utilité publique concernant l'utilisation du sol et l'exécution de travaux soumis à déclaration ou autorisation administrative. Ces servitudes peuvent également concerner l'utilisation du sol sur le terrain d'assiette de l'installation et autour de celui-ci, après déclassement ou disparition de l'installation nucléaire de base. Elles sont instituées après avis de l'Autorité de sûreté nucléaire, dans les conditions prévues par les articles L. 515-8 à L. 515-12 du code de l'environnement.

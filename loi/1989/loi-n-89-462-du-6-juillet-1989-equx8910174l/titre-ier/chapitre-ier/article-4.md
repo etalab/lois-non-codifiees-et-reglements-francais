@@ -20,4 +20,22 @@ h) Qui autorise le bailleur à diminuer ou à supprimer, sans contrepartie équi
 
 i) Qui autorise le bailleur à percevoir des amendes en cas d'infraction aux clauses d'un contrat de location ou d'un règlement intérieur à l'immeuble ;
 
-j) Qui interdit au locataire l'exercice d'une activité politique, syndicale, associative ou confessionnelle.
+j) Qui interdit au locataire l'exercice d'une activité politique, syndicale, associative ou confessionnelle ;
+
+k) Qui impose au locataire la facturation de l'état des lieux dès lors que celui-ci n'est pas établi par un huissier de justice dans le cas prévu par l'article 3 ;
+
+l) Qui prévoit le renouvellement du bail par tacite reconduction pour une durée inférieure à celle prévue à l'article 10 ;
+
+m) Qui interdit au locataire de rechercher la responsabilité du bailleur ou qui exonère le bailleur de toute responsabilité ;
+
+n) Qui interdit au locataire d'héberger des personnes ne vivant pas habituellement avec lui ;
+
+o) Qui impose au locataire le versement, lors de l'entrée dans les lieux, de sommes d'argent en plus de celles prévues aux articles 5 et 22 ;
+
+p) Qui fait supporter au locataire des frais de relance ou d'expédition de la quittance ainsi que les frais de procédure en plus des sommes versées au titre des dépens et de l'article 700 du nouveau code de procédure civile ;
+
+q) Qui prévoit que le locataire est automatiquement responsable des dégradations constatées dans le logement ;
+
+r) Qui interdit au locataire de demander une indemnité au bailleur lorsque ce dernier réalise des travaux d'une durée supérieure à quarante jours ;
+
+s) Qui permet au bailleur d'obtenir la résiliation de plein droit du bail au moyen d'une simple ordonnance de référé insusceptible d'appel.

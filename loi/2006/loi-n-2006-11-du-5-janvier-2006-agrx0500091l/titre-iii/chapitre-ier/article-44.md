@@ -1,3 +1,0 @@
-# Article 44
-
-Afin de protéger l'environnement contre la pollution par les lubrifiants et d'encourager le développement des produits biodégradables, un décret en Conseil d'Etat fixe les conditions de l'interdiction, à compter du 1er janvier 2008, de l'utilisation, dans des zones naturelles sensibles, de lubrifiants substituables pour des usages donnés par des lubrifiants biodégradables ou satisfaisant aux critères et exigences fixés par la décision 2005/360/CE de la Commission européenne, du 26 avril 2005, établissant les critères écologiques et les exigences associées en matière d'évaluation et de vérification pour l'attribution du label écologique communautaire aux lubrifiants.
