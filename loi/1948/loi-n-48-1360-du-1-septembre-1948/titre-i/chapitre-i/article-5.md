@@ -1,6 +1,10 @@
 # Article 5
 
-I. - Le bénéfice du maintien dans les lieux pour les locaux visés à l'article premier appartient, en cas d'abandon de domicile ou de décès du locataire ou de l'occupant de bonne foi, au conjoint, et lorsqu'ils vivaient effectivement avec lui depuis plus d'un an, aux ascendants, aux personnes handicapées visées au 2° de l'article 27 ainsi que, jusqu'à leur majorité, aux enfants mineurs.
+I. - Le bénéfice du maintien dans les lieux pour les locaux visés à l'article premier appartient, en cas d'abandon de domicile ou de décès de l'occupant de bonne foi, au conjoint ou au partenaire lié à lui par un pacte civil de solidarité, et lorsqu'ils vivaient effectivement avec lui depuis plus d'un an, aux ascendants, aux personnes handicapées visées au 2° de l'article 27 ainsi que, jusqu'à leur majorité, aux enfants mineurs.
+
+I bis. - Nonobstant les dispositions de l'article 1742 du code civil, même en l'absence de délivrance d'un congé au locataire, le contrat de location est résilié de plein droit par le décès du locataire. Le contrat de bail est également résilié de plein droit en cas d'abandon du domicile par le locataire, même en l'absence de délivrance d'un congé.
+
+Toutefois, le bénéfice du maintien dans les lieux appartient aux personnes visées au I du présent article.
 
 II. - Nonobstant les dispositions du I ci-dessus, le maintien dans les lieux reste acquis aux personnes qui en bénéficiaient antérieurement à la publication de la présente loi.
 
