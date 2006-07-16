@@ -10,7 +10,7 @@ A cette fin, elles signent avec l'Etat une convention qui fixe :
 
 1° Les objectifs prioritaires de lutte contre le saturnisme infantile et l'insalubrité dans la commune ;
 
-2° Les engagements financiers prévisionnels de la commune et de l'Etat. A cette fin, les dotations de l'Etat et de l'Agence nationale pour l'amélioration de l'habitat sont prévues, en tant que de besoin, dans le cadre des dispositions des articles L. 301-3, L. 301-5-1 et L. 301-5-2 du code de la construction et de l'habitation ;
+2° Les engagements financiers prévisionnels de la commune et de l'Etat.A cette fin, les dotations de l'Etat et de l'Agence nationale de l'habitat sont prévues, en tant que de besoin, dans le cadre des dispositions des articles L. 301-3, L. 301-5-1 et L. 301-5-2 du code de la construction et de l'habitation ;
 
 3° Les conditions de mise en place de dispositifs d'observation de l'habitat insalubre et de l'habitat exposé aux risques d'accessibilité au plomb ;
 

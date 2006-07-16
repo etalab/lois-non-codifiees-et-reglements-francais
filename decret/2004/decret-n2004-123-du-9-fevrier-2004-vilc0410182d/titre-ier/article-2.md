@@ -36,7 +36,7 @@ L'Agence nationale pour la rénovation urbaine est administrée par un conseil d
 
 - un représentant de la Caisse des dépôts et consignations ;
 
-- un représentant de l'Agence nationale pour l'amélioration de l'habitat.
+- un représentant de l'Agence nationale de l'habitat.
 
 4° Trois personnalités qualifiées en matière de politique de la ville, qui peuvent être des parlementaires :
 

@@ -2,9 +2,9 @@
 
 Par dérogation aux dispositions du code de l'expropriation pour cause d'utilité publique, le préfet, par arrêté :
 
-Déclare d'utilité publique l'expropriation des immeubles, parties d'immeubles, installations et terrains, après avoir constaté, sauf dans les cas prévus au troisième alinéa de l'article 13, qu'ils ont été déclarés insalubres à titre irrémédiable en application de l'article L. 1331-25 ou de l'article L. 1331-28 du code de la santé publique ;
+Déclare d'utilité publique l'expropriation des immeubles, parties d'immeubles, installations et terrains, après avoir constaté, sauf dans les cas prévus au troisième alinéa de l'article 13, qu'ils ont été déclarés insalubres à titre irrémédiable en application de l'article L. 1331-25 ou de l'article L. 1331-28 du code de la santé publique, ou qui ont fait l'objet d'un arrêté de péril assorti d'une ordonnance de démolition ou d'une interdiction définitive d'habiter pris en application de l'article L. 511-2 du code de la construction et de l'habitation ;
 
-Indique la collectivité publique, l'établissement public ou la société d'économie mixte au profit de qui est poursuivie l'expropriation ;
+Indique la collectivité publique ou l'organisme au profit de qui est poursuivie l'expropriation ;
 
 Mentionne les offres de relogement faites obligatoirement aux occupants y compris les propriétaires, qu'il s'agisse d'un relogement durable ou d'un relogement d'attente avant l'offre d'un relogement définitif ;
 

@@ -4,7 +4,7 @@ A l'exception du troisième alinéa de l'article 9, des articles 16 à 20, du de
 
 1° Au quatrième alinéa de l'article 3, les mots : "prévues à l'article 19" sont remplacés par les mots : "prévues par délibération de l'assemblée locale" ;
 
-2° A la fin du a de l'article 6, les mots : "définies par le décret prévu à l'article 25 de la loi n° 86-1290 du 23 décembre 1986 tendant à favoriser l'investissement locatif, l'accession à la propriété de logements sociaux et le développement de l'offre foncière" sont remplacés par les mots : "définies par la réglementation territoriale" ;
+2° A la fin du a de l'article 6, les mots : "en application des premier et deuxième alinéas" sont remplacés par les mots : "par la réglementation territoriale" ;
 
 3° A l'article 15 :
 
@@ -16,4 +16,4 @@ c) Au premier alinéa du III, les mots : "dans les limites géographiques prévu
 
 4° Le sixième alinéa de l'article 24 est remplacé par les dispositions suivantes :
 
-Le commandement de payer reproduit, à peine de nullité, les dispositions des alinéas précédents .
+Le commandement de payer reproduit, à peine de nullité, les dispositions des alinéas précédents.

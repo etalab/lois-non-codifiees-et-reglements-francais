@@ -4,6 +4,8 @@ En vue de favoriser une utilisation rationnelle des ressources énergétiques et
 
 Ce classement est prononcé par le préfet après enquête publique pour une durée déterminée qui ne peut excéder trente ans. Il est subordonné à la condition que, compte tenu des mécanismes de financement mis en place par les pouvoirs publics dans le cadre de leur politique des économies d'énergie, l'équilibre financier de l'opération pendant la période d'amortissement des installations soit justifié notamment par une étude des besoins à satisfaire et par un bilan prévisionnel d'exploitation.
 
+Le classement est prononcé par le préfet après enquête publique dans les neuf mois suivant le dépôt de la demande de la collectivité territoriale ou du groupement de collectivités territoriales. Passé ce délai, le silence de la préfecture vaut acceptation.
+
 L'arrêté de classement précise la zone de desserte et détermine les modalités d'application des articles 6 et 7.
 
 Dans la zone de desserte, le préfet, en liaison avec la collectivité locale ou le groupement des collectivités locales concerné établit une coordination entre le plan de développement du réseau et les politiques commerciales des établissements publics nationaux du secteur de l'énergie.

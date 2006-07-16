@@ -1,6 +1,6 @@
 # Article 22-1
 
-Lorsqu'un cautionnement pour les sommes dont le locataire serait débiteur dans le cadre d'un contrat de location conclu en application du présent titre est exigé par le bailleur, celui-ci ne peut refuser la caution présentée au motif qu'elle ne possède pas la nationalité française.
+Lorsqu'un cautionnement pour les sommes dont le locataire serait débiteur dans le cadre d'un contrat de location conclu en application du présent titre est exigé par le bailleur, celui-ci ne peut refuser la caution présentée au motif qu'elle ne possède pas la nationalité française ou qu'elle ne réside pas sur le territoire métropolitain.
 
 Lorsque le cautionnement d'obligations résultant d'un contrat de location conclu en application du présent titre ne comporte aucune indication de durée ou lorsque la durée du cautionnement est stipulée indéterminée, la caution peut le résilier unilatéralement. La résiliation prend effet au terme du contrat de location, qu'il s'agisse du contrat initial ou d'un contrat reconduit ou renouvelé, au cours duquel le bailleur reçoit notification de la résiliation.
 

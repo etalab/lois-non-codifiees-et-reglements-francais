@@ -1,4 +1,6 @@
-# Article ANNEXE
+# Article Annexe
+
+**CHEFS DE SERVICE JURIDIQUEMENT INVESTIS DU POUVOIR DE NOTATION.**
 
 Le vice-président du Conseil général des ponts et chaussées, chef de l'inspection générale de l'équipement.
 
@@ -74,7 +76,7 @@ Le chef du service d'études des remontées mécaniques.
 
 Les directeurs des centres régionaux opérationnels de surveillance et de sauvetage.
 
-Le directeur de l'Agence nationale pour l'amélioration de l'habitat.
+Le directeur de l'Agence nationale de l'habitat.
 
 Le directeur des pêches et de l'aquaculture.
 

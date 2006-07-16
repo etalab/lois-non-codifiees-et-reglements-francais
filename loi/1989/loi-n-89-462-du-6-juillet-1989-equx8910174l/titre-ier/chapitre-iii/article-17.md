@@ -4,7 +4,7 @@ a) Le loyer :
 
 - des logements neufs ;
 
-- des logements vacants ayant fait l'objet de travaux de mise ou de remise aux normes définies par le décret pris en application de l'article 25 de la loi n° 86-1290 du 23 décembre 1986 précitée ;
+- des logements vacants ayant fait l'objet de travaux de mise ou de remise en conformité avec les caractéristiques définies en application des premier et deuxième alinéas de l'article 6 ;
 
 - des logements conformes aux normes définies par ledit décret, faisant l'objet d'une première location ou, s'ils sont vacants, ayant fait l'objet depuis moins de six mois de travaux d'amélioration portant sur les parties privatives ou communes, d'un montant au moins égal à une année du loyer antérieur, est fixé librement entre les parties.
 

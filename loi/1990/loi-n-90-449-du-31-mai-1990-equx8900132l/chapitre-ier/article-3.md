@@ -4,4 +4,4 @@ Le plan départemental est élaboré et mis en oeuvre par l'Etat et par le dépa
 
 Le plan est établi pour une durée minimale de trois ans.
 
-En Ile-de-France, une section de la conférence régionale du logement social prévue à l'article L. 441-1-6 du code de la construction et de l'habitation est chargée d'assurer la coordination des plans départementaux d'action pour le logement des personnes défavorisées. Elle réunit, sous la présidence du représentant de l'Etat dans la région, le président du conseil régional, les représentants de l'Etat dans les départements et les présidents de conseils généraux.
+En Ile-de-France, une commission du comité régional de l'habitat prévu à l'article L. 364-1 du code de la construction et de l'habitation est chargée d'assurer la coordination des plans départementaux d'action pour le logement des personnes défavorisées. Elle réunit, sous la présidence du représentant de l'Etat dans la région, le président du conseil régional, les représentants de l'Etat dans les départements et les présidents de conseils généraux.

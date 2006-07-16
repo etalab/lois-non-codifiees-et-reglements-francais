@@ -24,7 +24,7 @@ Ce dossier permet notamment de vérifier si les conditions fixées aux I et II s
 
 Les entreprises d'assurance exercent un rôle de conseil auprès des propriétaires pour la constitution de leur dossier.
 
-Les demandes sont envoyées en préfecture par les propriétaires à peine de forclusion, dans un délai de soixante jours calendaires révolus à compter de la date de publication de l'arrêté mentionné au premier alinéa du présent III.
+Les demandes sont envoyées en préfecture par les propriétaires à peine de forclusion, dans un délai de cent vingt jours calendaires révolus à compter de la date de publication de l'arrêté mentionné au premier alinéa du présent III.
 
 Le représentant de l'Etat dans le département déclare l'éligibilité des demandes au regard de :
 

@@ -2,7 +2,9 @@
 
 1° Bâtiments.
 
-Matériaux et procédés de construction.       Géologie :
+Matériaux et procédés de construction.
+
+Géologie :
 
 Généralités sur les périodes géologiques et leur succession.
 
@@ -322,7 +324,9 @@ Différents procédés de collecte et d'engins utilisés.
 
 Décharges contrôlées ; différents modes de traitement des ordures (incinération, traitement biologique, et autres traitements).
 
-Travaux topographiques et rédaction des projets.                     1 Travaux topograhiques.
+Travaux topographiques et rédaction des projets.
+
+1 Travaux topograhiques.
 
 a) Instruments et méthodes (notions générales) :
 
@@ -338,7 +342,9 @@ Nivellement indirect ou trigonométrique (précision, contrôle).
 
 Levers de détails.
 
-b) Travaux topographiques proprement dits.       Planimétriques :
+b) Travaux topographiques proprement dits.
+
+Planimétriques :
 
 Notions de triangulation : le système de projection Lambert (notions).
 
@@ -356,7 +362,9 @@ Levers complets : tachéométrie ; photogrammétrie.
 
 Levers spéciaux : de précision ; souterrains.
 
-2 Exploitation des travaux topographiques.       Aspect administratif :
+2 Exploitation des travaux topographiques.
+
+Aspect administratif :
 
 Plans cadastraux.
 
@@ -418,7 +426,9 @@ Ecoulement libre et forcé (formules utilisées, remous et mouvement de l'eau da
 
 Machines hydrauliques (roues, turbines, béliers, pompes).
 
-Droit pratique.    Etablissement d'un budget du service des eaux, calcul de la redevance d'assainissement et établissement d'un budget d'assainissement.
+Droit pratique.
+
+Etablissement d'un budget du service des eaux, calcul de la redevance d'assainissement et établissement d'un budget d'assainissement.
 
 Régime des subventions (demande, obtention, utilisation).
 
@@ -504,7 +514,9 @@ Compresseur ;
 
 Condenseur ;
 
-Evaporateur.    Les chaudières :
+Evaporateur.
+
+Les chaudières :
 
 Les combustibles ;
 
@@ -570,7 +582,9 @@ Energie mécanique.
 
 Application des principes (inertie ; translation et rotation combinées ; force centrifuge ; volant ; résistance de l'air).
 
-Notions de mécanisme d'horlogerie et application aux parc-mètres.                        Electricité.
+Notions de mécanisme d'horlogerie et application aux parc-mètres.
+
+Electricité.
 
 Condensateurs.
 
@@ -652,7 +666,9 @@ Techniques de simulation. Enquêtes.
 
 Mesures industrielles.
 
-Gestion des entreprises de transports.           Circulation urbaine ; signalisation.
+Gestion des entreprises de transports.
+
+Circulation urbaine ; signalisation.
 
 Programme des matières de la spécialité "Circulation et signalisation".
 
@@ -682,7 +698,9 @@ Urbanisme contemporain.
 
 Formes d'urbanisation.
 
-Les exemples étrangers.    2 - La connaissance du milieu - cadre de vie :
+Les exemples étrangers.
+
+2 - La connaissance du milieu - cadre de vie :
 
 Eléments naturels.
 
@@ -888,9 +906,7 @@ Fonds d'intervention pour l'aménagement du territoire       (F.I.A.T.) ;
 
 Fonds d'intervention pour l'aménagement de la nature et       de l'environnement (F.I.A.N.E.) ;
 
-Agence nationale pour l'amélioration de l'habitat       (A.N.A.H.) ;
-
-Fonds spécial d'investissement routier (F.S.I.R.).
+Agence nationale de l'habitat       Fonds spécial d'investissement routier (F.S.I.R.).
 
 9° Espaces verts.
 
@@ -902,7 +918,9 @@ Anatomie et physiologie végétale (constituants chimiques des végétaux, cellu
 
 Génétique (lois de l'hérédité, sélection et amélioration des plantes).
 
-Systématique (principe de classification des plantes ; les familles ; les principaux genres).    Phytopathologie et phytopharmacie :
+Systématique (principe de classification des plantes ; les familles ; les principaux genres).
+
+Phytopathologie et phytopharmacie :
 
 Maladies (mycoses, bactérioses, viroses, autres parasites végétaux, maladies physiologiques).
 
@@ -938,7 +956,11 @@ Les espaces verts dans les documents d'urbanisme.
 
 Historique des jardins et autres espaces verts.
 
-Principes de composition des jardins.                 Technologie et génie horticole.    Production des plantes :
+Principes de composition des jardins.
+
+Technologie et génie horticole.
+
+Production des plantes :
 
 Multiplication sexuée et végétative des plantes.
 
@@ -984,7 +1006,9 @@ Mobilier.
 
 Travaux d'entretien des espaces verts.
 
-Décorations végétales.    Attributions, organisation et gestion du service :
+Décorations végétales.
+
+Attributions, organisation et gestion du service :
 
 Organigramme du service.
 

@@ -320,6 +320,7 @@
 - [Décret n°2001-1244 du 20 décembre 2001 (DEFP0102189D)](decret-n2001-1244-du-20-decembre-2001-defp0102189d)
 - [Décret n°2001-1245 du 20 décembre 2001 (AGRA0102355D)](decret-n2001-1245-du-20-decembre-2001-agra0102355d)
 - [Décret n°2001-241 du 20 mars 2001 (AGRP0002721D)](decret-n2001-241-du-20-mars-2001-agrp0002721d)
+- [Décret n°2001-351 du 20 avril 2001 (EQUU0100314D)](decret-n2001-351-du-20-avril-2001-equu0100314d)
 - [Décret n°2001-655 du 20 juillet 2001 (ECOT0126287D)](decret-n2001-655-du-20-juillet-2001-ecot0126287d)
 - [Décret n°2001-656 du 20 juillet 2001 (MESH0122428D)](decret-n2001-656-du-20-juillet-2001-mesh0122428d)
 - [Décret n°2001-667 du 20 juillet 2001 (MENF0101340D)](decret-n2001-667-du-20-juillet-2001-menf0101340d)
