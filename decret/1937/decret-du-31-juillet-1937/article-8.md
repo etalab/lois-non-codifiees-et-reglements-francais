@@ -1,3 +1,5 @@
 # Article 8
 
-L'emploi de toute indication ou de tout signe susceptible de faire croire à l'acheteur qu'un vin a droit aux appellations contrôlées "Saint-Nicolas-de-Bourgueil" et "Bourgueil" alors qu'il ne répond pas à toutes les conditions fixées par le présent décret, sera poursuivi conformément à la législation générale sur les fraudes et sur la protection des appellations d'origine (articles 1er et 2 de la loi du 1er août 1905 ; article 8 de la loi du 6 mai 1919 ; article 13 du décret du 19 août 1921), sans préjudice des sanctions d'ordre fiscal, s'il y a lieu.
+Les vins pour lesquels, aux termes du présent décret, sera revendiquée l'appellation contrôlée "Bourgogne" ne pourront être déclarés, après la récolte, offerts au public, expédiés, mis en vente ou vendus sans que dans la déclaration de récolte, dans les annonces, sur les prospectus, étiquettes, récipients quelconques, l'appellation d'origine susvisée soit accompagnée de la mention "Appellation contrôlée", en caractères très apparents.
+
+Les vins pour lesquels le nom "Tonnerre" sera adjoint à celui de l'appellation "Bourgogne" ne pourront être mis en circulation avec cette adjonction, sans un certificat d'agrément délivré par l'Institut national des appellations d'origine des vins et eaux-de-vie dans les conditions prévues aux articles D. 641-94 à D. 641-98 du code rural.
