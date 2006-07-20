@@ -1,8 +1,10 @@
 # Article Annexe III
 
-70, privilège du trésor en matière fiscale :
+70,
 
-première inscription, radiation totale ou partielle d'une inscription non périmée, 3 taux de base (5).
+A. - privilège du trésor en matière fiscale :
+
+première inscription, radiation totale ou partielle d'une inscription non périmée, 2 taux de base (5).
 
 71, privilège du trésor en matière fiscale :
 
