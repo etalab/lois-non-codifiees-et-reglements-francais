@@ -4,15 +4,15 @@ L'établissement est administré par un conseil d'administration composé de dou
 
 1. Six représentants de l'Etat :
 
-a) Le délégué à l'aménagement du territoire et à l'action régionale ou son représentant ;
+a) Le délégué interministériel à l'aménagement et à la compétitivité des territoires ou son représentant ;
 
 b) Le directeur du budget ou son représentant ;
 
-c) Le directeur du Trésor ou son représentant ;
+c) Le directeur général du Trésor et de la politique économique ou son représentant ;
 
-d) Le directeur des routes ou son représentant ;
+d) Le directeur général des routes ou son représentant ;
 
-e) Le directeur des transports terrestres ou son représentant ;
+e) Le directeur général de la mer et des transports ou son représentant ;
 
 f) Le directeur des études économiques et de l'évaluation environnementale ou son représentant ;
 

@@ -4,7 +4,7 @@ Les ressources de l'établissement comprennent :
 
 1° Les dotations reçues de l'Etat ;
 
-2° Dans les conditions fixées par une loi de finances, le produit de la redevance domaniale prévue à l'article R. 122-27 du code de la voirie routière, le produit des participations détenues par l'Etat et ses établissements publics dans le capital des sociétés concessionnaires d'autoroutes, ou toute autre ressource établie au profit de l'Etat qui serait affectée à l'établissement ;
+2° Dans les conditions fixées par une loi de finances, le produit de la redevance domaniale prévue à l'article R. 122-27 du code de la voirie routière, le produit de la taxe due par les sociétés concessionnaires d'autoroutes en application de l'article 302 bis ZB du code général des impôts, tout ou partie du produit des amendes perçues par la voie de systèmes automatiques de contrôle et sanction, toute autre ressource établie au profit de l'Etat qui serait affectée à l'établissement ;
 
 3° Le produit des placements ;
 
