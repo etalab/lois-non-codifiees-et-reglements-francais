@@ -211,6 +211,7 @@
 - [Arrêté du 16 mai 2005 (PRMX0508394A)](arrete-du-16-mai-2005-prmx0508394a)
 - [Arrêté du 17 février 2006 (AGRF0600375A)](arrete-du-17-fevrier-2006-agrf0600375a)
 - [Arrêté du 17 juillet 2006 (AGRP0601374A)](arrete-du-17-juillet-2006-agrp0601374a)
+- [Arrêté du 17 juillet 2006 (JUSB0610487A)](arrete-du-17-juillet-2006-jusb0610487a)
 - [Arrêté du 17 mars 2006 (DEVO0650136A)](arrete-du-17-mars-2006-devo0650136a)
 - [Arrêté du 17 mars 2006 (INTD0600190A)](arrete-du-17-mars-2006-intd0600190a)
 - [Arrêté du 17 mars 2006 (INTE0600191A)](arrete-du-17-mars-2006-inte0600191a)

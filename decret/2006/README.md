@@ -552,6 +552,7 @@
 - [Décret n°2006-721 du 21 juin 2006 (SANH0621938D)](decret-n2006-721-du-21-juin-2006-sanh0621938d)
 - [Décret n°2006-722 du 21 juin 2006 (SANH0621939D)](decret-n2006-722-du-21-juin-2006-sanh0621939d)
 - [Décret n°2006-724 du 21 juin 2006 (INTC0630011D)](decret-n2006-724-du-21-juin-2006-intc0630011d)
+- [Décret n°2006-906 du 21 juillet 2006 (AGRE0601245D)](decret-n2006-906-du-21-juillet-2006-agre0601245d)
 - [Décret n°2005-1613 du 22 décembre 2005 (MAEX0500293D)](decret-n2005-1613-du-22-decembre-2005-maex0500293d)
 - [Décret n°2005-1622 du 22 décembre 2005 (INTC0500344D)](decret-n2005-1622-du-22-decembre-2005-intc0500344d)
 - [Décret n°2005-1630 du 22 décembre 2005 (MENF0502531D)](decret-n2005-1630-du-22-decembre-2005-menf0502531d)
