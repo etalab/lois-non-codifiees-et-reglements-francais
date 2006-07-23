@@ -285,6 +285,7 @@
 - [Arrêté du 22 février 2006 (BUDD0520046A)](arrete-du-22-fevrier-2006-budd0520046a)
 - [Arrêté du 22 février 2006 (MENE0600645A)](arrete-du-22-fevrier-2006-mene0600645a)
 - [Arrêté du 22 février 2006 (MENE0600647A)](arrete-du-22-fevrier-2006-mene0600647a)
+- [Arrêté du 22 juillet 2006 (INDI0607958A)](arrete-du-22-juillet-2006-indi0607958a)
 - [Arrêté du 22 juin 2006 (EQUA0601150A)](arrete-du-22-juin-2006-equa0601150a)
 - [Arrêté du 22 juin 2006 (MENE0601591A)](arrete-du-22-juin-2006-mene0601591a)
 - [Arrêté du 22 mars 2006 (AGRF0600700A)](arrete-du-22-mars-2006-agrf0600700a)
