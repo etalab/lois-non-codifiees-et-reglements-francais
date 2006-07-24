@@ -4,7 +4,7 @@ La liste des établissements publics de santé dont la vacance des postes de dir
 
 - centre hospitalier de Sedan (Ardennes) ;
 
-- centre hospitalier de Charleville-Mézières (Ardennes) ;
+- centre hospitalier spécialisé "Belair de Charleville-Mézières (Ardennes) ;
 
 - hôpitaux locaux de Joinville et de Wassy (Haute-Marne) ;
 
