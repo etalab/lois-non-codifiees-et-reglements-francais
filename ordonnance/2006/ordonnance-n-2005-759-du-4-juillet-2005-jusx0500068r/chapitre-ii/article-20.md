@@ -12,7 +12,9 @@ II. - Toutefois :
 
 4° Les dispositions du troisième alinéa de l'article 311-21 et du troisième alinéa de l'article 311-23 du même code, tels qu'ils résultent de la présente ordonnance, ne sont applicables qu'aux déclarations faites à compter de l'entrée en vigueur de ces articles ;
 
-5° Les dispositions du deuxième alinéa de l'article 311-23 du même code, tel qu'il résulte de la présente ordonnance, ne sont applicables qu'aux enfants nés à compter du 1er janvier 2005 et, à Mayotte, à compter de l'entrée en vigueur de la même ordonnance.
+5° Les dispositions du deuxième alinéa de l'article 311-23 du même code, tel qu'il résulte de la présente ordonnance, ne sont applicables qu'aux enfants nés à compter du 1er janvier 2005 et, à Mayotte, à compter de l'entrée en vigueur de la même ordonnance ;
+
+6° Les dispositions de la présente ordonnance n'ont pas d'effet sur la nationalité des personnes majeures à la date de son entrée en vigueur.
 
 III. - Lorsque l'instance a été introduite avant l'entrée en vigueur de la présente ordonnance, l'action est poursuivie et jugée conformément à la loi ancienne. Cette loi s'applique également en appel et en cassation.
 
