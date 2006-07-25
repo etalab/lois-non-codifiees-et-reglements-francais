@@ -1,0 +1,5 @@
+# Article 3 bis
+
+Les détenteurs d'appelants des espèces d'oies, de canards de surface et de canards plongeurs dont la chasse est autorisée, de la foulque macroule et du vanneau huppé doivent se déclarer auprès du préfet du département du lieu de détention des appelants. Pour ce faire, ils adressent annuellement au président de la fédération départementale ou interdépartementale des chasseurs du département du lieu de détention des appelants leur déclaration comportant les indications suivantes : nom, prénom et adresse du détenteur, lieu de détention des appelants, espèces et nombre d'appelants par espèce, lieu(x) de chasse aux appelants.
+
+Le président de la fédération départementale ou interdépartementale des chasseurs transmet mensuellement, pendant la période d'ouverture de la chasse et à compter du 1er septembre 2006, à la direction départementale des services vétérinaires et au service départemental de l'Office national de la chasse et de la faune sauvage, un fichier, sous la forme que le préfet détermine, comportant les éléments des déclarations reçues.

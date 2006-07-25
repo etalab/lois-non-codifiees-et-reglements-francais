@@ -26,7 +26,9 @@ Le présent arrêté fixe les prescriptions applicables aux prélèvements et à
 
 - des installations relevant de la rubrique 2731 de la nomenclature des installations classées (dépôt de chairs, cadavres, débris ou issues d'origine animale, à l'exclusion des dépôts de peaux, la quantité susceptible d'être présente dans l'installation étant supérieure à 300 kg), dès lors qu'elles ne sont pas l'annexe d'une installation classée soumise à autorisation au titre des rubriques 2730, 2221 et 2210 de la nomenclature ;
 
-- des installations relevant de la rubrique 2210 de la nomenclature des installations classées (abattage d'animaux).
+- des installations relevant de la rubrique 2210 de la nomenclature des installations classées (abattage d'animaux) ;
+
+- des installations relevant de la rubrique n° 2921 de la Nomenclature des installations classées (installations de refroidissement par dispersion d'eau dans un flux d'air).
 
 Les dispositions du présent arrêté s'appliquent aux arrêtés d'autorisation des installations classées nouvelles et existantes selon les modalités définies au chapitre X.
 
