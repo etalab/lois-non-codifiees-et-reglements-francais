@@ -1,0 +1,3 @@
+# Article 5
+
+Un producteur qui a déposé une demande complète de contrat d'achat sur la base de l'arrêté du 3 octobre 2001 modifié fixant les conditions d'achat de l'électricité produite par les installations qui valorisent des déchets ménagers ou assimilés en utilisant le biogaz de décharge ou du 13 mars 2002 modifié fixant les conditions d'achat de l'électricité produite par méthanisation pour une installation dont la mise en service n'est pas intervenue à la date de publication du présent arrêté peut déposer une nouvelle demande de contrat d'achat sur la base du présent arrêté. Cette dernière demande annule et remplace la précédente demande.
