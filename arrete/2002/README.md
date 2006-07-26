@@ -549,7 +549,6 @@
 - [Arrêté du 20 décembre 2002 (SANS0223548A)](arrete-du-20-decembre-2002-sans0223548a)
 - [Arrêté du 20 décembre 2002 (SANS0224282A)](arrete-du-20-decembre-2002-sans0224282a)
 - [Arrêté du 20 février 2002 (AGRG0200378A)](arrete-du-20-fevrier-2002-agrg0200378a)
-- [Arrêté du 20 février 2002 (AGRS0200377A)](arrete-du-20-fevrier-2002-agrs0200377a)
 - [Arrêté du 20 février 2002 (DEFP0201260A)](arrete-du-20-fevrier-2002-defp0201260a)
 - [Arrêté du 20 février 2002 (DEFP0201261A)](arrete-du-20-fevrier-2002-defp0201261a)
 - [Arrêté du 20 février 2002 (DEFP0201262A)](arrete-du-20-fevrier-2002-defp0201262a)

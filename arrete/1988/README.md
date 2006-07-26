@@ -266,7 +266,6 @@
 - [Arrêté du 15 septembre 1988 (TEFT8803961A)](arrete-du-15-septembre-1988-teft8803961a)
 - [Arrêté du 16 août 1988 (SPSS8801239A)](arrete-du-16-aout-1988-spss8801239a)
 - [Arrêté du 16 août 1988 (SPSS8801242A)](arrete-du-16-aout-1988-spss8801242a)
-- [Arrêté du 16 février 1988 (AGRG8800333A)](arrete-du-16-fevrier-1988-agrg8800333a)
 - [Arrêté du 16 février 1988 (ASES8800279A)](arrete-du-16-fevrier-1988-ases8800279a)
 - [Arrêté du 16 février 1988 (EQUS8800023A)](arrete-du-16-fevrier-1988-equs8800023a)
 - [Arrêté du 16 février 1988 (PTTT8800164A)](arrete-du-16-fevrier-1988-pttt8800164a)
