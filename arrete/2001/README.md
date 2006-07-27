@@ -454,7 +454,6 @@
 - [Arrêté du 24 janvier 2001 (EQUS0002011A)](arrete-du-24-janvier-2001-equs0002011a)
 - [Arrêté du 24 janvier 2001 (EQUS0002012A)](arrete-du-24-janvier-2001-equs0002012a)
 - [Arrêté du 24 janvier 2001 (MAEA0020517A)](arrete-du-24-janvier-2001-maea0020517a)
-- [Arrêté du 24 juillet 1990 (AGRG9001588A)](arrete-du-24-juillet-1990-agrg9001588a)
 - [Arrêté du 24 juillet 2001 (MESP0122803A)](arrete-du-24-juillet-2001-mesp0122803a)
 - [Arrêté du 24 novembre 2001 (DEFP0102362A)](arrete-du-24-novembre-2001-defp0102362a)
 - [Arrêté du 24 octobre 2001 (MCCB0100594A)](arrete-du-24-octobre-2001-mccb0100594a)
