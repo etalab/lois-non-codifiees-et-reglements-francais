@@ -235,6 +235,7 @@
 - [Arrêté du 17 mai 2006 (SOCU0611043A)](arrete-du-17-mai-2006-socu0611043a)
 - [Arrêté du 18 avril 2006 (SOC00610922A)](arrete-du-18-avril-2006-soc00610922a)
 - [Arrêté du 18 février 2006 (AGRX0600453A)](arrete-du-18-fevrier-2006-agrx0600453a)
+- [Arrêté du 18 juillet 2006 (AGRG0601441A)](arrete-du-18-juillet-2006-agrg0601441a)
 - [Arrêté du 18 novembre 2004 (ECOD0470025A)](arrete-du-18-novembre-2004-ecod0470025a)
 - [Arrêté du 18 mai 2006 (DEFP0600464A)](arrete-du-18-mai-2006-defp0600464a)
 - [Arrêté du 19 avril 2006 (INTC0600392A)](arrete-du-19-avril-2006-intc0600392a)
