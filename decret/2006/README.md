@@ -663,6 +663,7 @@
 - [Décret n°2006-914 du 25 juillet 2006 (DEFP0600755D)](decret-n2006-914-du-25-juillet-2006-defp0600755d)
 - [Décret n°90-94 du 25 janvier 1990 (MERP9000002D)](decret-n90-94-du-25-janvier-1990-merp9000002d)
 - [Décret n°93-486 du 25 mars 1993 (PRMG9370184D)](decret-n93-486-du-25-mars-1993-prmg9370184d)
+- [Décret n°95-972 du 25 août 1995 (MCCB9500347D)](decret-n95-972-du-25-aout-1995-mccb9500347d)
 - [Décret n°97-185 du 25 février 1997 (TASH9624401D)](decret-n97-185-du-25-fevrier-1997-tash9624401d)
 - [Décret n°2005-1204 du 26 septembre 2005 (INTC0500257D)](decret-n2005-1204-du-26-septembre-2005-intc0500257d)
 - [Décret n°2005-1631 du 26 décembre 2005 (MENA0502691D)](decret-n2005-1631-du-26-decembre-2005-mena0502691d)
