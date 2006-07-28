@@ -1,0 +1,5 @@
+# Article 5
+
+La durée maximale hebdomadaire de travail calculée en moyenne sur une période quelconque de douze semaines consécutives ne peut dépasser quarante-deux heures. Au cours d'une même semaine, la durée maximale du travail ne peut dépasser quarante-six heures.
+
+En cas de circonstances exceptionnelles, les dispositions des alinéas 1 et 3 à 5 de l'article L. 212-7 et des articles R. 212-2 à R. 212-11 du code du travail sont applicables. Les attributions conférées à l'autorité administrative par ces dispositions sont exercées par les inspecteurs du travail des transports, les directeurs régionaux du travail des transports et le ministre chargé des transports. Les dérogations accordées pour une période limitée par l'autorité administrative dans le cadre du présent alinéa ne peuvent avoir pour effet de porter la durée du travail à plus de cinquante heures par semaine. Les heures effectuées, dans le cadre de la mise en oeuvre de ces dérogations, au-delà de quarante-six heures, ne peuvent au total excéder quarante heures par salarié et par an. Elles s'imputent sur le contingent annuel d'heures supplémentaires.
