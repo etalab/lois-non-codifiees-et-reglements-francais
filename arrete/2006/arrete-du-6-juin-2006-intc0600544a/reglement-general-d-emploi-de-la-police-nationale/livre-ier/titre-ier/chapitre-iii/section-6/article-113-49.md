@@ -1,0 +1,3 @@
+# Article 113-49
+
+Dans le respect des prescriptions médicales relatives, notamment, aux autorisations de sortie, le chef de service ou son représentant procède ou fait procéder à tous contrôles domiciliaires d'ordre administratif qui lui paraissent nécessaires à l'égard des fonctionnaires actifs de la police nationale absents du service par suite d'un congé de maladie prévu à l'article 113-45 ci-dessus. De tels contrôles domiciliaires sont effectués en tenue civile. Il établit un rapport de visite à domicile dont le médecin de l'administration est rendu destinataire. Une instruction spécifique précise les modalités pratiques de mise en oeuvre des dispositions du présent article, ainsi que celles de l'article 113-46 ci-dessus.

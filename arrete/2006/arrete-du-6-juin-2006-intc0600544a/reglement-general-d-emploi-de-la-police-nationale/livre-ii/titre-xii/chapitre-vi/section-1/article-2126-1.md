@@ -1,0 +1,3 @@
+# Article 2126-1
+
+La direction opérationnelle des services techniques et logistiques de la préfecture de police, qui constitue un service actif au sein duquel les officiers et agents de police judiciaire exercent leurs attributions dans les départements de Paris, des Hauts-de-Seine, du Val-de-Marne et de la Seine-Saint-Denis, en application des dispositions de l'article R. 15-19 du code de procédure pénale et au titre de sa compétence en matière de logistique, est organisée en quatre sous-directions, elles-mêmes articulées en départements, bureaux, missions, sections, unités ou services spécialisés. La sous-direction du soutien opérationnel est, en outre, dotée d'un état-major.
