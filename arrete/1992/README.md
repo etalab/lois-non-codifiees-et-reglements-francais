@@ -835,7 +835,6 @@
 - [Arrêté du 24 janvier 1992 (MENF9200081A)](arrete-du-24-janvier-1992-menf9200081a)
 - [Arrêté du 24 juillet 1991 (MEND9101698A)](arrete-du-24-juillet-1991-mend9101698a)
 - [Arrêté du 24 juillet 1992 (DEFB9201955A)](arrete-du-24-juillet-1992-defb9201955a)
-- [Arrêté du 24 juillet 1992 (DEFD9201773A)](arrete-du-24-juillet-1992-defd9201773a)
 - [Arrêté du 24 juillet 1992 (ECOT9213558A)](arrete-du-24-juillet-1992-ecot9213558a)
 - [Arrêté du 24 juillet 1992 (EQUT9201008A)](arrete-du-24-juillet-1992-equt9201008a)
 - [Arrêté du 24 juillet 1992 (SANH9201893A)](arrete-du-24-juillet-1992-sanh9201893a)

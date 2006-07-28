@@ -877,7 +877,6 @@
 - [Décret n°95-959 du 25 août 1995 (ACVP9520030D)](decret-n95-959-du-25-aout-1995-acvp9520030d)
 - [Décret n°95-960 du 25 août 1995 (ACVP9520031D)](decret-n95-960-du-25-aout-1995-acvp9520031d)
 - [Décret n°95-961 du 25 août 1995 (ECOF9510063D)](decret-n95-961-du-25-aout-1995-ecof9510063d)
-- [Décret n°95-972 du 25 août 1995 (MCCB9500347D)](decret-n95-972-du-25-aout-1995-mccb9500347d)
 - [Décret n°95-976 du 25 août 1995 (SANS9501951D)](decret-n95-976-du-25-aout-1995-sans9501951d)
 - [Décret n°95-977 du 25 août 1995 (SPSS9501970D)](decret-n95-977-du-25-aout-1995-spss9501970d)
 - [Décret n°95-981 du 25 août 1995 (MENF9501205D)](decret-n95-981-du-25-aout-1995-menf9501205d)
