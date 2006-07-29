@@ -4,4 +4,4 @@ Dès l'ouverture de l'enquête prévue à l'article 4 du décret n° 93-742 du 2
 
 Si la puissance de l'entreprise dépasse 500 kW, cet avis précise, s'il y a lieu, les réserves en eau et en force prévues à l'article 10 (6°) de la loi du 16 octobre 1919 susvisée.
 
-Lorsque les ouvrages à autoriser sont situés, en partie ou en totalité, dans un site classé ou inscrit au titre de la loi du 2 mai 1930 susvisée, ou modifient un tel site, le préfet surseoit à statuer jusqu'à ce que l'autorité compétente se soit prononcée.
+Lorsque les ouvrages à autoriser sont situés, en partie ou en totalité, dans un site classé ou inscrit, un parc national ou un parc naturel marin, au sens du livre III du code de l'environnement, ou modifient un tel site, le préfet surseoit à statuer jusqu'à ce que l'autorité compétente se soit prononcée.

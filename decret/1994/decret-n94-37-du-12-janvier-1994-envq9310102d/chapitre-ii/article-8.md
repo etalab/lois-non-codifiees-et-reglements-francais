@@ -2,7 +2,7 @@
 
 La direction régionale de l'environnement contribue à promouvoir un urbanisme de qualité s'intégrant harmonieusement dans le milieu environnant.
 
-La direction régionale de l'environnement contribue à la préparation de la politique contractuelle entre l'Etat, les collectivités territoriales et les établissements publics. Elle concourt à la préparation et à la révision des chartes des parcs naturels régionaux et des programmes d'aménagement des zones périphériques des parcs nationaux.
+La direction régionale de l'environnement contribue à la préparation de la politique contractuelle entre l'Etat, les collectivités territoriales et les établissements publics. Elle concourt à la préparation et à la révision des chartes des parcs nationaux et des parcs naturels régionaux.
 
 Elle contribue à informer le public sur l'environnement en liaison avec le conseil d'architecture, d'urbanisme et de l'environnement, notamment par des actions de communication, de formation et d'initiation à l'environnement.
 
