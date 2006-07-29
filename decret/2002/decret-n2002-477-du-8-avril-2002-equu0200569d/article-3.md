@@ -34,12 +34,12 @@ e) Un représentant du département de la Seine-Saint-Denis désigné par le con
 
 f) Un représentant du département du Val-d'Oise désigné par le conseil général ;
 
-g) Deux représentants de la communauté d'agglomération Plaine commune désignés en son sein par le conseil communautaire ;
+g) Trois représentants de la communauté d'agglomération de Plaine Commune désignés en son sein par le conseil communautaire ;
 
 h) Deux représentants de la communauté d'agglomération Val de France désignés en son sein par le conseil communautaire ;
 
 i) Deux représentants de la communauté de communes Roissy-Portes de France désignés en son sein par le conseil de la communauté de communes ;
 
-j) Six membres désignés par l'assemblée spéciale prévue à l'article 4 ci-dessous.
+j) Cinq membres désignés par l'assemblée spéciale prévue à l'article 4 ci-dessous.
 
 Le préfet de la région Ile-de-France constate, par arrêté publié au recueil des actes administratifs de la préfecture, la composition nominative du conseil d'administration.
