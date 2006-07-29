@@ -11,7 +11,6 @@
 - [Décret n°80-691 du 2 septembre 1980](decret-n80-691-du-2-septembre-1980)
 - [Décret n°80-692 du 2 septembre 1980](decret-n80-692-du-2-septembre-1980)
 - [Décret n°80-699 du 2 septembre 1980](decret-n80-699-du-2-septembre-1980)
-- [Décret n°80-7 du 2 janvier 1980](decret-n80-7-du-2-janvier-1980)
 - [Décret n°80-792 du 2 octobre 1980](decret-n80-792-du-2-octobre-1980)
 - [Décret n°80-966 du 2 décembre 1980](decret-n80-966-du-2-decembre-1980)
 - [Décret n°79-291 du 3 avril 1979](decret-n79-291-du-3-avril-1979)

@@ -443,7 +443,6 @@
 - [Décret n°96-833 du 17 septembre 1996 (TASP9623064D)](decret-n96-833-du-17-septembre-1996-tasp9623064d)
 - [Décret n°96-837 du 17 septembre 1996 (EQUP9600537D)](decret-n96-837-du-17-septembre-1996-equp9600537d)
 - [Décret n°96-839 du 17 septembre 1996 (ECOX9601678D)](decret-n96-839-du-17-septembre-1996-ecox9601678d)
-- [Décret n°96-926 du 17 octobre 1996 (INTD9600265D)](decret-n96-926-du-17-octobre-1996-intd9600265d)
 - [Décret n°98-480 du 17 juin 1998 (JUSF9850039D)](decret-n98-480-du-17-juin-1998-jusf9850039d)
 - [Décret n°96-433 du 17 mai 1996 (DEFP9601378D)](decret-n96-433-du-17-mai-1996-defp9601378d)
 - [Décret n°96-1001 du 18 novembre 1996 (EQUS9600746D)](decret-n96-1001-du-18-novembre-1996-equs9600746d)
