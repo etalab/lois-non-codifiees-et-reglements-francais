@@ -1,21 +1,29 @@
 # Article 3
 
-Le nombre de représentants du personnel, pour chacune des classes du corps auquel correspond la commission administrative paritaire, est de  :
+Le nombre des représentants du personnel, pour chacune des classes du corps auquel correspond la commission administrative paritaire, est fixé ainsi qu'il suit :
 
 Pour une classe comprenant jusqu'à 20 agents :
 
-Un membre titulaire et un membre suppléant ;
+- un membre titulaire et un membre suppléant.
 
-Pour une classe comprenant de 21 à 400 agents :
+Pour une classe comprenant de 21 à 200 agents :
 
-Deux membres titulaires et deux membres suppléants ;
+- deux membres titulaires et deux membres suppléants.
 
-Pour une classe comprenant de 401 agents à 1 200 agents :
+Pour une classe comprenant de 201 à 500 agents :
 
-Trois membres titulaires et trois membres suppléants ;
+- trois membres titulaires et trois membres suppléants.
 
-Pour une classe comprenant plus de 1 200 agents :
+Pour une classe comprenant de 501 à 1 000 agents :
 
-Quatre membres titulaires et quatre membres suppléants.
+- quatre membres titulaires et quatre membres suppléants.
 
-L'effectif des personnels est apprécié au 31 décembre de l'année qui précède celle au cours de laquelle a lieu le scrutin.
+Pour une classe comprenant de 1 001 à 2 000 agents :
+
+- cinq membres titulaires et cinq membres suppléants.
+
+Pour une classe comprenant plus de 2 000 agents :
+
+- six membres titulaires et six membres suppléants.
+
+L'effectif des personnels pris en compte pour la détermination du nombre des représentants est apprécié au 31 décembre de l'année qui précède celle au cours de laquelle a lieu le scrutin.
