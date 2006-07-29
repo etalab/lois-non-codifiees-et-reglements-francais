@@ -49,6 +49,7 @@
 - [Décret n° 2005-1727 du 30 décembre 2005 (INTB0500352D)](decret-n-2005-1727-du-30-decembre-2005-intb0500352d)
 - [Décret n°2004-1539 du 30 décembre 2004 (SANH0424352D)](decret-n2004-1539-du-30-decembre-2004-sanh0424352d)
 - [Décret n°2005-1068 du 30 août 2005 (ECOT0526354D)](decret-n2005-1068-du-30-aout-2005-ecot0526354d)
+- [Décret n°2005-1233 du 30 septembre 2005 (MENF0501963D)](decret-n2005-1233-du-30-septembre-2005-menf0501963d)
 - [Décret n°2005-1721 du 30 décembre 2005 (PRMX0508975D)](decret-n2005-1721-du-30-decembre-2005-prmx0508975d)
 - [Décret n°2005-1722 du 30 décembre 2005 (FPPA0500152D)](decret-n2005-1722-du-30-decembre-2005-fppa0500152d)
 - [Décret n°2005-1723 du 30 décembre 2005 (INTC0500340D)](decret-n2005-1723-du-30-decembre-2005-intc0500340d)
