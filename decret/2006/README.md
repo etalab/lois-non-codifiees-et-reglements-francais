@@ -441,6 +441,7 @@
 - [Décret n°2006-885 du 17 juillet 2006 (SANS0622599D)](decret-n2006-885-du-17-juillet-2006-sans0622599d)
 - [Décret n°2006-886 du 17 juillet 2006 (AGRP0601220D)](decret-n2006-886-du-17-juillet-2006-agrp0601220d)
 - [Décret n°2006-887 du 17 juillet 2006 (MJSK0670161D)](decret-n2006-887-du-17-juillet-2006-mjsk0670161d)
+- [Décret n°96-926 du 17 octobre 1996 (INTD9600265D)](decret-n96-926-du-17-octobre-1996-intd9600265d)
 - [Décret du 17 mai 2006 (AGRP0502365D)](decret-du-17-mai-2006-agrp0502365d)
 - [Décret du 17 mai 2006 (AGRP0600144D)](decret-du-17-mai-2006-agrp0600144d)
 - [Décret n°2006-555 du 17 mai 2006 (SOCU0611041D)](decret-n2006-555-du-17-mai-2006-socu0611041d)
