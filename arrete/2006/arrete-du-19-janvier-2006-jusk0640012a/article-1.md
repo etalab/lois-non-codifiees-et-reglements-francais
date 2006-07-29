@@ -51,9 +51,3 @@ B.-A compter du 1er avril 2006
 -attribution des indemnités d'éloignement ;
 
 -attribution de la prime spécifique d'installation et de l'indemnité particulière de sujétion et d'installation.
-
-C.-A compter du 1er juillet 2006
-
-Pour les fonctionnaires titulaires et stagiaires des corps de secrétaires d'administration et d'intendance, chefs des services d'insertion et de probation, conseillers d'insertion et de probation, techniciens, chefs de services pénitentiaires, adjoints administratifs, agents administratifs, adjoints techniques et les gradés et surveillants :
-
--attribution des congés bonifiés.
