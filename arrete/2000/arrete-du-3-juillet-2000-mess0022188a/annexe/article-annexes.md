@@ -536,6 +536,8 @@ Champagne-Ardenne
 
 Ardam (Société ardennaise de fabrication d'appareils électroménagers)/UFAM SA (Usines et fonderies Arthur Martin), 5, rue Jean-Jacques-Rousseau, 08500 Revin : - usine 1 (gaz, charbon, mazout) : de 1973 à 1977 ; usine 2 (cuisson, charbon, mazout) : de 1969 à 1974 ;
 
+Chausson, puis Valéo Chausson Thermique, puis Valéo Thermique Moteur, 4, rue du Colonel-Charbonneaux, 51100 Reims : de 1960 à 1996 ;
+
 Deville, 76, rue Forest, 08000 Charleville-Mézières : de 1950 à 1992 ;
 
 Etudes réalisations thermiques, route de Philippeville, 08600 Givet : de 1976 à 1994 ;
