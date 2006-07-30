@@ -1,6 +1,6 @@
 # Article 101-1
 
-Les entreprises qui satisfont aux conditions prévues à l'article 7 peuvent bénéficier du soutien financier automatique lorsqu'elles assurent la distribution :
+Les entreprises qui satisfont aux conditions prévues au I de l'article 7 peuvent bénéficier du soutien financier automatique lorsqu'elles assurent la distribution :
 
 1° D'oeuvres cinématographiques de longue durée ayant obtenu l'agrément des investissements prévu aux articles 30 à 39 ou, lorsque celui-ci n'est pas demandé, l'agrément de production prévu aux articles 40 à 49 ;
 

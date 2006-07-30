@@ -6,7 +6,7 @@ II. - L'agrément des investissements est également requis :
 
 1° Lorsque le financement des oeuvres cinématographiques donne lieu :
 
-a) A des dépenses contribuant au développement de la production cinématographique effectuées, dans les conditions prévues par le décret n° 90-67 du 17 janvier 1990 susvisé, par les exploitants de services de télévision ;
+a) A des dépenses contribuant au développement de la production cinématographique effectuées, dans les conditions prévues par le décret n° 2001-609 du 9 juillet 2001 pris pour l'application du 3° de l'article 27 et de l'article 71 de la loi n° 86-1067 du 30 septembre 1986 et relatif à la contribution des éditeurs de services de télévision diffusés en clair par voie hertzienne terrestre en mode analogique au développement de la production d'oeuvres cinématographiques et audiovisuelles, par les exploitants de services de télévision ;
 
 b) A des investissements en association à la production réalisés, dans les conditions prévues aux articles 238 bis HE à 238 bis HM du code général des impôts, par les sociétés pour le financement de la production cinématographique et audiovisuelle ;
 
