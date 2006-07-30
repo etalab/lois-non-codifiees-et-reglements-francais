@@ -64,7 +64,6 @@
 - [Décret n°98-881 du 2 octobre 1998 (JUSB9810284D)](decret-n98-881-du-2-octobre-1998-jusb9810284d)
 - [Décret n°98-889 du 2 octobre 1998 (DEFE9855011D)](decret-n98-889-du-2-octobre-1998-defe9855011d)
 - [Décret n°98-892 du 2 octobre 1998 (MAEJ9830081D)](decret-n98-892-du-2-octobre-1998-maej9830081d)
-- [Décret n°98-973 du 2 novembre 1998 (ECOP9800547D)](decret-n98-973-du-2-novembre-1998-ecop9800547d)
 - [Décret n°98-974 du 2 novembre 1998 (ECOP9800548D)](decret-n98-974-du-2-novembre-1998-ecop9800548d)
 - [Décret n°98-975 du 2 novembre 1998 (ECOP9800549D)](decret-n98-975-du-2-novembre-1998-ecop9800549d)
 - [Décret n°98-976 du 2 novembre 1998 (ECOP9800550D)](decret-n98-976-du-2-novembre-1998-ecop9800550d)

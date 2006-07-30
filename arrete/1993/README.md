@@ -935,7 +935,6 @@
 - [Arrêté du 27 novembre 1992 (ENVE9250385A)](arrete-du-27-novembre-1992-enve9250385a)
 - [Arrêté du 27 octobre 1993 (MJSK9370188A)](arrete-du-27-octobre-1993-mjsk9370188a)
 - [Arrêté du 27 septembre 1993 (AGRM9301840A)](arrete-du-27-septembre-1993-agrm9301840a)
-- [Arrêté du 27 mai 1993 (ECOP9300307A)](arrete-du-27-mai-1993-ecop9300307a)
 - [Arrêté du 27 mai 1993 (EQUH9300868A)](arrete-du-27-mai-1993-equh9300868a)
 - [Arrêté du 27 mai 1993 (EQUH9300869A)](arrete-du-27-mai-1993-equh9300869a)
 - [Arrêté du 27 mai 1993 (EQUS9300861A)](arrete-du-27-mai-1993-equs9300861a)
