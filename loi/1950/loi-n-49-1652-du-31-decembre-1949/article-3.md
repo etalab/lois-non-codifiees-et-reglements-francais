@@ -1,5 +1,3 @@
 # Article 3
 
-Dans tous les cas où un courtier de campagne est intervenu dans l'achat, lors de l'enlèvement des vins, spiritueux ou dérivés rachetés, la déclaration de la soumission d'enlèvement remise dans les recettes buralistes devra obligatoirement porter les noms, prénoms, adresses et numéros des cartes professionnelles des courtiers qui ont réalisé l'accord.
-
-Les mêmes indications devront figurer sur la confirmation de vente.
+La carte professionnelle de courtier en vins et spiritueux est délivrée par le président de la chambre régionale de commerce et d'industrie au demandeur qui remplit les conditions fixées à l'article 2. La délivrance de la carte peut donner lieu à la perception d'un droit dont le montant, fixé par décret, ne peut excéder le coût moyen d'instruction d'un dossier, qui est établi par la chambre régionale de commerce et d'industrie et recouvré comme en matière de taxe sur le chiffre d'affaires. Les conditions d'application du présent article sont fixées par décret en Conseil d'Etat.
