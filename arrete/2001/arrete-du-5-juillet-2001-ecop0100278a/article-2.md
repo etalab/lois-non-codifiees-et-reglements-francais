@@ -2,7 +2,7 @@
 
 L'institut est chargé :
 
-- de mettre en oeuvre, dans le cadre de la politique ministérielle de formation, des activités de formation pour l'ensemble des personnels du ministère de l'économie, des finances et de l'industrie ;
+- de mettre en oeuvre, dans le cadre de la politique ministérielle de formation, des activités de formation pour l'ensemble des personnels du ministère de l'économie, des finances et de l'industrie, et notamment les personnels d'administration centrale ;
 
 - de concevoir et de réaliser des activités de formation, notamment dans le domaine de la gestion publique ;
 
