@@ -14,8 +14,6 @@ Corps des officiers féminins du service de santé des armées ;
 
 Corps des sous-officiers féminins de l'armée de terre ;
 
-Corps des officiers mariniers féminins ;
-
 Corps des sous-officiers féminins de l'armée de l'air ;
 
 Corps des sous-officiers féminins du service de santé des armées.

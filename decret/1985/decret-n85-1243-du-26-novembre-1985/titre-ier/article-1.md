@@ -26,8 +26,6 @@ Ecole supérieure d'ingénieurs de Luminy, Aix-Marseille-II ;
 
 Ecole supérieure de microbiologie et sécurité alimentaire, Brest ;
 
-Ecole d'ingénieurs du Val de Loire, Tours ;
-
 Ecole d'ingénieurs de Cherbourg, Caen ;
 
 Ecole supérieure de technologie des biomolécules de Bordeaux (ESTBB), Bordeaux II ;
