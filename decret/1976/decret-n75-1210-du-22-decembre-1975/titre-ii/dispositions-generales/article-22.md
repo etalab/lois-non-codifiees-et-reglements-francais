@@ -1,3 +1,0 @@
-# Article 22
-
-Les lieutenants ou officiers techniciens de 2e classe promus au grade de capitaine ou d'officier technicien de 1ère classe alors qu'ils étaient au 4e ou au 5e échelon du grade de lieutenant ou d'officier technicien de 2e classe sont classés à l'échelon du grade de capitaine  ou d'officier technicien de 1ère classe comportant un indice égal ou, à défaut, immédiatement supérieur à celui qu'ils avaient atteint. Ils y conservent éventuellement, dans la limite de deux ans, l'ancienneté acquise au dernier échelon atteint dans le grade de lieutenant ou d'officier technicien de 2e classe.

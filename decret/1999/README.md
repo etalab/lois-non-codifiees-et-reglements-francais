@@ -450,7 +450,6 @@
 - [Décret n°99-378 du 17 mai 1999 (MENF9900618D)](decret-n99-378-du-17-mai-1999-menf9900618d)
 - [Décret n°89-749 du 18 octobre 1989 (DEFP8901692D)](decret-n89-749-du-18-octobre-1989-defp8901692d)
 - [Décret n°93-399 du 18 mars 1993 (INTB9300129D)](decret-n93-399-du-18-mars-1993-intb9300129d)
-- [Décret n°99-105 du 18 février 1999 (MESF9811349D)](decret-n99-105-du-18-fevrier-1999-mesf9811349d)
 - [Décret n°99-106 du 18 février 1999 (MESF9811350D)](decret-n99-106-du-18-fevrier-1999-mesf9811350d)
 - [Décret n°99-107 du 18 février 1999 (MESF9811351D)](decret-n99-107-du-18-fevrier-1999-mesf9811351d)
 - [Décret n°99-108 du 18 février 1999 (MESF9811352D)](decret-n99-108-du-18-fevrier-1999-mesf9811352d)

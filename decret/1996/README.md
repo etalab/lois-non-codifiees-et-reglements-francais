@@ -67,7 +67,6 @@
 - [Décret n°96-601 du 4 juillet 1996 (EQUS9600328D)](decret-n96-601-du-4-juillet-1996-equs9600328d)
 - [Décret n°96-611 du 4 juillet 1996 (EQUK9600481D)](decret-n96-611-du-4-juillet-1996-equk9600481d)
 - [Décret n°96-768 du 4 septembre 1996 (DEFP9601784D)](decret-n96-768-du-4-septembre-1996-defp9601784d)
-- [Décret n°96-772 du 4 septembre 1996 (INTE9600202D)](decret-n96-772-du-4-septembre-1996-inte9600202d)
 - [Décret n°96-773 du 4 septembre 1996 (BUDF9600028D)](decret-n96-773-du-4-septembre-1996-budf9600028d)
 - [Décret n°96-778 du 4 septembre 1996 (MENL9602257D)](decret-n96-778-du-4-septembre-1996-menl9602257d)
 - [Décret n°96-779 du 4 septembre 1996 (MENL9602277D)](decret-n96-779-du-4-septembre-1996-menl9602277d)
