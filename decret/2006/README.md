@@ -654,6 +654,7 @@
 - [Décret n°2006-912 du 24 juillet 2006 (SANA0622343D)](decret-n2006-912-du-24-juillet-2006-sana0622343d)
 - [Décret n°2006-913 du 24 juillet 2006 (DEVN0630012D)](decret-n2006-913-du-24-juillet-2006-devn0630012d)
 - [Décret n°76-842 du 24 août 1976](decret-n76-842-du-24-aout-1976)
+- [Décret n°84-139 du 24 février 1984](decret-n84-139-du-24-fevrier-1984)
 - [Décret n°2004-435 du 24 mai 2004 (JUSX0400052D)](decret-n2004-435-du-24-mai-2004-jusx0400052d)
 - [Décret n°2006-587 du 24 mai 2006 (INTD0600109D)](decret-n2006-587-du-24-mai-2006-intd0600109d)
 - [Décret n°2006-592 du 24 mai 2006 (SOCU0610624D)](decret-n2006-592-du-24-mai-2006-socu0610624d)
