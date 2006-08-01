@@ -2,6 +2,5 @@
 
 - [Titre Ier : La qualité de sportif de haut niveau, d'entraîneur de haut niveau, d'arbitre et juge sportif de haut niveau, de sportif espoir et de partenaire d'entraînement](titre-ier)
 - [Titre II : La Commission nationale du sport de haut niveau](titre-ii)
-- [Titre III : Les commissions régionales du sport de haut niveau.](titre-iii)
 - [Titre IV : Dispositions transitoires et finales.](titre-iv)
 - [Article 35](article-35.md)

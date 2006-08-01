@@ -20,7 +20,7 @@ a) Le délégué régional au tourisme ou son représentant, le directeur dépar
 
 b) Un représentant du comité départemental du tourisme, un représentant de l'union départementale des offices de tourisme, un représentant des chambres de commerce et d'industrie, un représentant des chambres de métiers et un représentant des chambres d'agriculture et en Corse, un représentant désigné par la collectivité territoriale de Corse.
 
-c) Un représentant des associations de consommateurs désigné par le collège des consommateurs et des usagers du comité départemental de la consommation et un représentant des associations de personnes handicapées à la mobilité réduite représentatives au niveau départemental ;
+c) Un représentant des associations de consommateurs désigné par les associations de consommateurs du département agréées, au titre de l'article L. 411-1 du code de la consommation, soit par arrêté du préfet de département, soit par leur affiliation à une association nationale elle-même agréée et un représentant des associations de personnes handicapées à la mobilité réduite représentatives au niveau départemental ;
 
 2° Membres représentant les professionnels du tourisme et siégeant dans l'une des formations suivantes, pour les affaires les intéressant directement :
 

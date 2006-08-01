@@ -1,0 +1,3 @@
+# Décret n°96-772 du 4 septembre 1996 portant création de l'Observatoire national et des observatoires départementaux du volontariat dans les corps de sapeurs-pompiers
+
+- [Chapitre Ier : L'Observatoire national du volontariat dans les corps de sapeurs-pompiers.](chapitre-ier)
