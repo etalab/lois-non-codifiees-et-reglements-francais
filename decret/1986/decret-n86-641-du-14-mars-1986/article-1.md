@@ -6,7 +6,7 @@ L'école nationale supérieure de chimie et de physique de Bordeaux, rattachée 
 
 L'école nationale Supérieure d'électronique, informatique et radiocommunications de Bordeaux rattachée à l'université Bordeaux-I ;
 
-L'Ecole nationale supérieure d'ingénieurs de Caen, rattachée à l'université de Caen ;
+L'école nationale supérieure d'ingénieurs de Caen, rattachée à l'université de Caen ;
 
 L'école nationale supérieure de chimie de Clermont-Ferrand, rattachée à l'université de Clermont-Ferrand-II ;
 
@@ -22,4 +22,6 @@ L'école nationale supérieure de mécanique et d'aérotechnique de Poitiers, ra
 
 L'école nationale supérieure de chimie de Rennes, rattachée à l'université de Rennes-I ;
 
-L'école nationale supérieure de mécanique et des microtechniques, rattachée à l'université de Besançon.
+L'école nationale supérieure de mécanique et des microtechniques, rattachée à l'université de Besançon ;
+
+L'école nationale supérieure d'informatique pour l'industrie et l'entreprise, rattachée à l'université d'Evry.
