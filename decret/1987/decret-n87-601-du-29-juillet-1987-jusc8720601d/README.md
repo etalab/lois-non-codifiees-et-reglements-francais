@@ -3,6 +3,5 @@
 - [CHAPITRE Ier : Conditions générales d'aptitude aux fonctions de greffier de tribunal de commerce.](chapitre-ier)
 - [CHAPITRE II : Le stage.](chapitre-ii)
 - [CHAPITRE III : L'examen d'aptitude.](chapitre-iii)
-- [CHAPITRE IV : Entrée en fonctions.](chapitre-iv)
 - [CHAPITRE V : Dispositions diverses et transitoires.](chapitre-v)
 - [Article 16](article-16.md)

@@ -245,7 +245,6 @@
 - [Arrêté du 12 décembre 2005 (SANH0524557A)](arrete-du-12-decembre-2005-sanh0524557a)
 - [Arrêté du 12 février 2003 (DEVP0320051A)](arrete-du-12-fevrier-2003-devp0320051a)
 - [Arrêté du 12 février 2003 (DEVP0320052A)](arrete-du-12-fevrier-2003-devp0320052a)
-- [Arrêté du 12 janvier 2005 (AGRP0500059A)](arrete-du-12-janvier-2005-agrp0500059a)
 - [Arrêté du 12 janvier 2005 (DEVG0540011A)](arrete-du-12-janvier-2005-devg0540011a)
 - [Arrêté du 12 juillet 2005 (AGRE0501642A)](arrete-du-12-juillet-2005-agre0501642a)
 - [Arrêté du 12 juillet 2005 (EQUA0501193A)](arrete-du-12-juillet-2005-equa0501193a)
