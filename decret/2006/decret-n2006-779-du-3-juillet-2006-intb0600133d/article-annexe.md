@@ -184,9 +184,11 @@
 <td align="center"> 13</td>
 </tr>
 <tr>
-<td>24. Chef d'agrès, chef d'équipe ou chef de groupe de sapeurs-pompiers. <br/>
+<td>24. (Abrogé)<br/>
 </td>
-<td align="center"> 16</td>
+<td align="center">
+<br/>
+</td>
 </tr>
 <tr>
 <td>25. Gardiens d'HLM.  </td>
@@ -230,6 +232,7 @@
 
 3. FONCTIONS D'ACCUEIL EXERCÉES À TITRE PRINCIPAL
 
+<div>
 <table>
 <tbody>
 <tr>
@@ -255,11 +258,13 @@
 </tr>
 </tbody>
 </table>
+</div>
 
 4. FONCTIONS IMPLIQUANT UNE TECHNICITÉ ET UNE POLYVALENCE PARTICULIÈRES
 
 LIÉES À L'EXERCICE DANS CERTAINES COLLECTIVITÉS OU DANS LEURS ÉTABLISSEMENTS PUBLICS ASSIMILÉS
 
+<div>
 <table>
 <tbody>
 <tr>
@@ -314,3 +319,4 @@ LIÉES À L'EXERCICE DANS CERTAINES COLLECTIVITÉS OU DANS LEURS ÉTABLISSEMENTS
 </tr>
 </tbody>
 </table>
+</div>
