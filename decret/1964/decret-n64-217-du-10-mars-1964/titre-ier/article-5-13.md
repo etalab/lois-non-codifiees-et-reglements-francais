@@ -1,10 +1,8 @@
 # Article 5-13
 
-Les troisièmes concours sont ouverts aux candidats remplissant les conditions suivantes :
+Les troisièmes concours sont ouverts aux candidats justifiant de l'exercice pendant une durée de cinq ans au moins d'une ou plusieurs des activités professionnelles mentionnées au 3° de l'article 19 de la loi n° 84-16 du 11 janvier 1984. La durée de ces activités ne peut être prise en compte que si les intéressés n'avaient pas, lorsqu'ils les exerçaient, la qualité de fonctionnaire, de magistrat, de militaire, d'agent public ou de maître ou documentaliste agréé.
 
-1° Avoir exercé une ou plusieurs activités professionnelles dans le domaine de l'éducation ou de la formation pendant une durée de quatre ans au moins au cours des cinq dernières années précédant la date de clôture des registres d'inscription audit concours. La durée de ces activités ne peut être prise en compte que si les intéressés n'avaient pas, lorsqu'ils les exerçaient, la qualité de fonctionnaire, de magistrat, de militaire, d'agent public ou de maître et documentaliste de l'enseignement privé sous contrat régis par le présent décret ;
-
-2° Etre titulaire de l'un des titres ou diplômes prévus pour se présenter aux troisièmes concours correspondants de l'enseignement public.
+Au titre d'une même session, un candidat ne peut s'inscrire dans une même section au troisième concours pour l'accès à une liste d'aptitude et au troisième concours correspondant de l'enseignement public.
 
 Les conditions fixées s'apprécient à la date de clôture des registres d'inscription aux concours.
 
