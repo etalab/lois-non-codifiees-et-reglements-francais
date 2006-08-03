@@ -18,7 +18,7 @@ A - En ce qui concerne la personne :
 
 5° L'indication qu'elle est bénéficiaire d'un contrat d'appui au projet d'entreprise pour la création ou la reprise d'une activité économique conclu dans les conditions prévues au chapitre VII du titre II du livre Ier du code de commerce, dont une copie est déposée dans les formes prévues au titre III du présent décret relatives aux dépôts d'actes ; la dénomination sociale de la personne morale responsable de l'appui, l'adresse de son siège social, ainsi que, si elle est immatriculée dans un registre public, le lieu d'immatriculation et le numéro unique d'identification ;
 
-6° Les nom, nom d'usage, prénoms, date et lieu de naissance, domicile, lorsqu'il est différent de celui de l'assujetti, et nationalité du conjoint qui collabore effectivement à l'activité commerciale de l'assujetti sans être rémunéré, sans exercer aucune autre activité professionnelle, sous réserve de l'activité salariée à temps partiel visée à l'article L. 742-6 du code de la sécurité sociale ;
+6° Les nom, nom d'usage, prénoms, date et lieu de naissance, domicile, lorsqu'il est différent de celui de l'assujetti, et nationalité du conjoint qui collabore effectivement à l'activité commerciale de l'assujetti dans les conditions définies par l'article 1er du décret n° 2006-966 du 1er août 2006 relatif au conjoint collaborateur ;
 
 7° Le lieu et le numéro des immatriculations secondaires éventuellement souscrites et, le cas échéant, des établissements principaux ou secondaires situés et immatriculés dans un Etat membre de la Communauté européenne. En outre, la personne peut déclarer les mentions relatives à l'adresse et à l'activité principale de ces établissements sur présentation des justificatifs définis à l'arrêté prévu à l'article 88.
 

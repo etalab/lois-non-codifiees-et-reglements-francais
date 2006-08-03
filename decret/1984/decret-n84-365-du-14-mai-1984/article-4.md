@@ -7,3 +7,5 @@ En qualité de patron batelier, les chefs ou gérants statutaires des entreprise
 En qualité de compagnon batelier, les autres personnes travaillant dans ces entreprises et possédant une qualification professionnelle justifiée soit par la possession du certificat de compagnon, soit par un apprentissage préalable, soit par l'exercice prolongé du métier. Les compagnons bateliers salariés sont inscrits à une section particulière du registre.
 
 Le conjoint d'un patron batelier qui apporte une collaboration effective habituelle et sans rémunération au fonctionnement de l'entreprise et n'exerce aucune autre profession est inscrit au registre en qualité de patron batelier dans les mêmes conditions que le chef d'entreprise.
+
+Le conjoint collaborateur remplissant les conditions fixées par l'article 1er du décret n° 2006-966 du 1er août 2006 relatif au conjoint collaborateur fait l'objet d'une mention au registre.
