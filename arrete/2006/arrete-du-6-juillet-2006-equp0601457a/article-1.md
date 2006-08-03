@@ -20,7 +20,7 @@ Représentants titulaires :
 
 - le chef du service des effectifs et du budget, adjoint à la directrice générale du personnel et de l'administration ;
 
-- l'adjointe au directeur des transports maritimes, routiers et fluviaux, direction générale de la mer et des transports.
+- La directrice de la recherche et de l'animation scientifique et technique.
 
 Représentants suppléants :
 
@@ -36,7 +36,7 @@ Représentants suppléants :
 
 - la sous-directrice du cadre de vie des agents de l'administration centrale, direction générale du personnel et de l'administration ;
 
-- la sous-directrice des affaires générales, direction générale de la mer et des transports ;
+- Le secrétaire général, direction générale de la mer et des transports ;
 
 - la chef du département des affaires générales, direction générale du personnel et de l'administration ;
 
