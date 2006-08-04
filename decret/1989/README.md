@@ -278,7 +278,6 @@
 - [Décret n°90-165 du 20 février 1990 (MENF9000023D)](decret-n90-165-du-20-fevrier-1990-menf9000023d)
 - [Décret n°90-647 du 20 juillet 1990 (INTC9000170D)](decret-n90-647-du-20-juillet-1990-intc9000170d)
 - [Décret n°91-289 du 20 mars 1991 (MENF9100487D)](decret-n91-289-du-20-mars-1991-menf9100487d)
-- [Décret n°92-453 du 20 mai 1992 (ACVA9210046D)](decret-n92-453-du-20-mai-1992-acva9210046d)
 - [Décret n°79-981 du 21 novembre 1979](decret-n79-981-du-21-novembre-1979)
 - [Décret n°87-278 du 21 avril 1987 (AGRS8700730D)](decret-n87-278-du-21-avril-1987-agrs8700730d)
 - [Décret n°89-109 du 21 février 1989 (MAEJ8930006D)](decret-n89-109-du-21-fevrier-1989-maej8930006d)
