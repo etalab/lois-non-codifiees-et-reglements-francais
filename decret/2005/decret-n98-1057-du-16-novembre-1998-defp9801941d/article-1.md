@@ -1,0 +1,3 @@
+# Article 1
+
+Les fonctionnaires des corps des cadres de santé civils, des infirmiers civils de soins généraux et des techniciens paramédicaux civils du ministère de la défense, des aides-soignants civils et des agents civils des services hospitaliers qualifiés du service de santé des armées, des personnels infirmiers, des aides-soignants et des agents des services hospitaliers qualifiés de l'Institution nationale des invalides et des aides-soignants de l'Office national des anciens combattants et victimes de guerre bénéficient des primes et indemnités attribuées aux personnels homologues des établissements d'hospitalisation publics.
