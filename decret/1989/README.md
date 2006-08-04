@@ -65,7 +65,6 @@
 - [Décret n°89-76 du 6 février 1989 (INDA8800726D)](decret-n89-76-du-6-fevrier-1989-inda8800726d)
 - [Décret n°89-881 du 6 décembre 1989 (PRMX8900165D)](decret-n89-881-du-6-decembre-1989-prmx8900165d)
 - [Décret n°89-9 du 6 janvier 1989 (SPSS8801762D)](decret-n89-9-du-6-janvier-1989-spss8801762d)
-- [Décret n°90-1096 du 6 décembre 1990 (ACVA9010098D)](decret-n90-1096-du-6-decembre-1990-acva9010098d)
 - [Décret n°88-676 du 6 mai 1988 (ASEH8800513D)](decret-n88-676-du-6-mai-1988-aseh8800513d)
 - [Décret n°88-1027 du 7 novembre 1988 (INDD8800569D)](decret-n88-1027-du-7-novembre-1988-indd8800569d)
 - [Décret n°89-160 du 7 mars 1989 (MAEJ8930013D)](decret-n89-160-du-7-mars-1989-maej8930013d)

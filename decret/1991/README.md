@@ -640,7 +640,6 @@
 - [Décret n°91-720 du 25 juillet 1991 (TEFO9103788D)](decret-n91-720-du-25-juillet-1991-tefo9103788d)
 - [Décret n°91-983 du 25 septembre 1991 (PRMX9110260D)](decret-n91-983-du-25-septembre-1991-prmx9110260d)
 - [Décret n°91-985 du 25 septembre 1991 (ECOT9113447D)](decret-n91-985-du-25-septembre-1991-ecot9113447d)
-- [Décret n°92-1031 du 25 septembre 1992 (ACVA9210088D)](decret-n92-1031-du-25-septembre-1992-acva9210088d)
 - [Décret n° 91-1308 du 26 décembre 1991 (TEFO9104171D)](decret-n-91-1308-du-26-decembre-1991-tefo9104171d)
 - [Décret n°60-1441 du 26 décembre 1960](decret-n60-1441-du-26-decembre-1960)
 - [Décret n°91-1196 du 26 novembre 1991 (INDA9100860D)](decret-n91-1196-du-26-novembre-1991-inda9100860d)

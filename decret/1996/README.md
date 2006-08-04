@@ -476,7 +476,6 @@
 - [Décret n°96-214 du 19 mars 1996 (JUSB9610048D)](decret-n96-214-du-19-mars-1996-jusb9610048d)
 - [Décret n°96-240 du 19 mars 1996 (AVIC9600639D)](decret-n96-240-du-19-mars-1996-avic9600639d)
 - [Décret n°96-46 du 19 janvier 1996 (ECOX9601309D)](decret-n96-46-du-19-janvier-1996-ecox9601309d)
-- [Décret n°96-552 du 19 juin 1996 (ACVX9600061D)](decret-n96-552-du-19-juin-1996-acvx9600061d)
 - [Décret n°96-565 du 19 juin 1996 (MENF9601496D)](decret-n96-565-du-19-juin-1996-menf9601496d)
 - [Décret n°96-566 du 19 juin 1996 (MENU9601663D)](decret-n96-566-du-19-juin-1996-menu9601663d)
 - [Décret n°96-645 du 19 juillet 1996 (MIPP9600126D)](decret-n96-645-du-19-juillet-1996-mipp9600126d)
