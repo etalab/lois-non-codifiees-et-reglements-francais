@@ -32,4 +32,6 @@ f) Des orthophonistes cadres de santé ;
 
 g) Des orthoptistes cadres de santé ;
 
-h) Des diététiciens cadres de santé.
+h) Des diététiciens cadres de santé ;
+
+i) Des préparateurs en pharmacie hospitalière cadres de santé.
