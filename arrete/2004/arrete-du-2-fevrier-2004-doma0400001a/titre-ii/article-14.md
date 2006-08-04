@@ -1,3 +1,3 @@
 # Article 14
 
-Le directeur des affaires politiques, administratives et financières réunit une conférence des chefs de service notateurs afin d'harmoniser avant chaque exercice de notation les conditions de sa mise en oeuvre ; cette conférence procède, le cas échéant, à la répartition préalable des reliquats résultant de l'application des ratios définis à l'article 11 du présent arrêté aux effectifs du service.
+Conformément aux instructions qui seront données par le directeur des affaires politiques, administratives et financières, les chefs de service ayant pouvoir de notation veillent, par l'examen des notations envisagées, à une mise en oeuvre harmonisée des critères de notation et au respect des proportions définies à l'article 13 du décret du 29 avril 2002 susvisé.
