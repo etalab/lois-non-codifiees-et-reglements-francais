@@ -1,3 +1,0 @@
-# TITRE Ier : DISPOSITIONS MODIFIANT LE DÉCRET N° 72-678 DU 20 JUILLET 1972.
-
-- [Article 1](article-1.md)

@@ -1,3 +1,0 @@
-# Article 20
-
-En cas de consultation écrite, la délibération soumise au vote ainsi que les documents nécessaires à l'information des membres de l'assemblée sont adressés à chacun d'eux par courrier recommandé avec demande d'avis de réception. Ce courrier précise le délai, qui ne peut être inférieur à quinze jours et qui court à compter de la date de réception de ces documents, imparti à chaque membre pour voter par courrier recommandé avec demande d'avis de réception, le cachet de la poste faisant foi. Il informe le destinataire qu'en l'absence de réponse écrite de sa part dans ce délai, il est réputé favorable à la délibération. Les délibérations sont prises à la majorité des voix.

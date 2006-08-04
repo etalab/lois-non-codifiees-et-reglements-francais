@@ -1,3 +1,0 @@
-# Article 10
-
-Dans le cas où la commission se saisit ou est saisie en application des dispositions de l'article 10 de la loi du 28 juin 1989 susvisée, l'intéressé est avisé par lettre recommandée avec demande d'avis de réception, quinze jours au moins avant la réunion de la commission, qu'il est convoqué à cette réunion. Le même courrier avise l'intéressé qu'il peut se faire assister par tout représentant de son choix, consulter, le cas échéant, avec ce représentant l'ensemble des pièces du dossier sur lequel la commission est appelée à statuer et indiquer dans un délai de huit jours le nom des témoins et experts dont il demande la convocation.

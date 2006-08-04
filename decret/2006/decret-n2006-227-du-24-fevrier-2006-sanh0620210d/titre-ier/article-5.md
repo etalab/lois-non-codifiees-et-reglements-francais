@@ -1,5 +1,0 @@
-# Article 5
-
-I. - Les personnes nommées fonctionnaires dans un grade de catégorie C doté des échelles de rémunération 3, 4, 5 ou dans le corps des moniteurs d'atelier qui ont, ou avaient eu auparavant, la qualité d'agent public sont classées avec une reprise d'ancienneté égale aux trois quarts des services civils qu'elles ont accomplis, le cas échéant après calcul de conversion en équivalent temps plein. Ce classement est opéré sur la base de la durée moyenne de chacun des échelons du grade dans lequel elles sont intégrées.
-
-II. - Les personnes nommées fonctionnaires dans un grade de catégorie C doté des échelles de rémunération 3, 4, 5 ou dans le corps des moniteurs d'atelier qui ont, ou qui avaient eu auparavant, la qualité d'agent de droit privé d'une administration, ou qui travaillent ou ont travaillé en qualité de salarié dans le secteur privé ou associatif sont classées avec une reprise d'ancienneté de travail égale à la moitié de sa durée, le cas échéant après calcul de conversion en équivalent temps plein. Ce classement est opéré sur la base de la durée moyenne de chacun des échelons du grade dans lequel elles sont intégrées.

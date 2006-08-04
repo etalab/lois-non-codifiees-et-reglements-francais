@@ -1,3 +1,0 @@
-# Article 12
-
-La publicité de l'étude d'impact prévue par le décret du 12 octobre 1977 susvisé doit être assurée avant la réalisation des opérations de démantèlement de l'ensemble des matériels et équipements situés à l'intérieur du bloc réacteur prévues à l'étape 1 citée à l'article 3 ci-dessus et dès la publication du présent décret. L'étude d'impact peut être consultée à la direction générale de la sûreté nucléaire et de la radioprotection, à la direction régionale de l'industrie, de la recherche et de l'environnement de Bretagne, à la préfecture du Finistère, à la sous-préfecture de Châteaulin et aux mairies de Brennilis et Loqueffret.

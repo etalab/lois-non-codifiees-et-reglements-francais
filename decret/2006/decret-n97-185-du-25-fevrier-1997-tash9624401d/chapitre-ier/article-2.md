@@ -1,5 +1,0 @@
-# Article 2
-
-Les candidats aux emplois à pourvoir du niveau des corps de catégories A et B doivent justifier des titres ou diplômes ou du niveau d'études exigés des candidats aux concours externes et fixés par le statut particulier du corps auquel ils sont susceptibles d'accéder.
-
-Toutefois, les candidats qui possèdent un autre diplôme que celui exigé par les statuts particuliers mais qui peuvent justifier d'un niveau équivalent du fait de leur formation continue ou de leur expérience professionnelle, éventuellement validée dans les conditions prévues aux articles L. 335-5, L. 335-6, L. 335-9, L. 613-1 à L. 613-4 et L. 641-2 du code de l'éducation, peuvent déposer leur candidature auprès de l'autorité investie du pouvoir de nomination, qui vérifie les équivalences de diplômes, pour se présenter au concours externe d'accès au corps pour lequel ils postulent. L'autorité investie du pouvoir de nomination vérifie au vu de leur dossier qu'ils possèdent le niveau requis. L'appréciation des candidatures peut être complétée par des entretiens.

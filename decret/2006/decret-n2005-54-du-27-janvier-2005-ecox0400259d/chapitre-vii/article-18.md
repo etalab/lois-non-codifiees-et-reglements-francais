@@ -1,3 +1,0 @@
-# Article 18
-
-Sont abrogés les articles 1er, 2, 4 et 8 de la loi du 10 août 1922 modifiée ainsi que le premier alinéa de l'article 3, les premier, deuxième et troisième alinéas de l'article 5 et les premier, deuxième, troisième et sixième alinéas de l'article 6 de cette même loi, le décret du 16 juin 1923 portant sur la comptabilité des dépenses engagées, le décret n° 61-434 du 2 mai 1961 fixant le taux de contribution des organismes soumis au contrôle financier et au contrôle économique et financier de l'Etat aux frais nécessités par le fonctionnement de ce contrôle ainsi que le décret n° 96-629 du 16 juillet 1996 relatif au contrôle financier déconcentré.

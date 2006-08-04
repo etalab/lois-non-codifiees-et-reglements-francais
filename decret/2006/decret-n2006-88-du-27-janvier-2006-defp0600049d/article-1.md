@@ -1,3 +1,0 @@
-# Article 1
-
-Les recours formés par les officiers du corps technique et administratif des affaires maritimes, du corps des administrateurs des affaires maritimes et du corps des professeurs de l'enseignement maritime à l'encontre d'actes relatifs à leur situation personnelle, à l'exception de ceux concernant leur recrutement ou l'exercice du pouvoir disciplinaire, sont précédés d'un recours administratif préalable formé devant la commission des recours des militaires instituée par le décret du 7 mai 2001 susvisé et sont soumis à la procédure organisée par ce même décret, sous réserve des dispositions ci-dessous.

@@ -1,3 +1,0 @@
-# Article 2
-
-Des opérations standardisées d'économies d'énergie sont définies par arrêté du ministre chargé de l'énergie. Ces opérations sont assorties d'une valeur forfaitaire d'économies d'énergie déterminée par rapport à une situation de référence de performance énergétique correspondant à l'état technique et économique du marché du produit ou du service. Dans le cas de travaux d'amélioration de la performance thermique de l'enveloppe d'un bâtiment existant ou de ses systèmes thermiques fixes, la situation de référence de performance énergétique prend en compte l'état global du parc immobilier de même nature et le niveau de performance des matériaux ou équipements mis en oeuvre.

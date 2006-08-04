@@ -1,3 +1,0 @@
-# Article 2
-
-Le coordonnateur interministériel pour le développement de l'usage du vélo examine, en liaison avec les services compétents, l'ensemble des questions et des enjeux, notamment de développement durable, liés au développement de ce moyen de locomotion et qui concernent l'organisation des déplacements, la voirie, les sports et les loisirs, le tourisme et la politique industrielle. Il fait toutes propositions dans ces matières, en prenant appui sur les expériences réalisées, en France comme à l'étranger. Il favorise la diffusion des informations utiles et des bonnes pratiques auprès des diverses parties intéressées, et en particulier des collectivités territoriales.

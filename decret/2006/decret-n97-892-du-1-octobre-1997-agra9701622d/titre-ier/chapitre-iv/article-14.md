@@ -1,3 +1,0 @@
-# Article 14
-
-Les membres du corps administratif supérieur de l'Office national interprofessionnel des grandes cultures et de l'Agence unique de paiement participent à l'encadrement d'une unité administrative et sont chargés de toute mission relative aux attributions de ces établissements. Ils assurent des fonctions de conception, d'expertise, d'inspection et d'encadrement. Ils peuvent également être chargés de missions particulières ou spécialisées relevant de l'ensemble des domaines de compétence de l'Office national interprofessionnel des grandes cultures ou de l'Agence unique de paiement. Ils exercent leurs fonctions au siège central ou dans les services déconcentrés des établissements.

@@ -1,5 +1,0 @@
-# Article 5
-
-La demande de certificats d'économies d'énergie est adressée au préfet du département du siège du demandeur ou de la collectivité publique ou, si le demandeur ne dispose pas d'un siège social sur le territoire national, au préfet de Paris. La demande est accompagnée d'un dossier comportant les pièces dont la liste est arrêtée par le ministre chargé de l'énergie et obligatoirement, lorsque l'action au titre de laquelle des certificats d'économies d'énergie sont demandés pourrait également être invoquée par une ou plusieurs autres personnes à l'appui d'une autre demande, une convention fixant la répartition entre les parties des certificats susceptibles d'être délivrés.
-
-Le préfet accuse réception de la demande. Il délivre les certificats dans un délai de trois mois à compter de la date de réception d'un dossier complet pour les demandes relatives à des actions concernant des opérations standardisées et dans un délai de six mois pour les autres demandes. A défaut de réponse dans ces délais, les demandes sont réputées rejetées.

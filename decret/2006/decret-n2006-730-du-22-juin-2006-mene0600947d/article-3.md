@@ -1,5 +1,0 @@
-# Article 3
-
-Les chefs d'établissement concernés transmettent à l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, le dossier des élèves proposés par les conseils de classe pour l'obtention d'une bourse au mérite.
-
-La commission départementale examine ces dossiers et formule ses avis en veillant à ce que les parcours des élèves méritants soient pris en considération quelle que soit l'orientation vers les trois voies de formation du lycée.

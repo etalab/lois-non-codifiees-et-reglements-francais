@@ -1,3 +1,0 @@
-# Article 10
-
-Sans préjudice des dispositions de l'article 3, le régime de travail de personnels chargés soit de fonctions d'encadrement, soit de fonctions de conception lorsqu'ils bénéficient d'une large autonomie dans l'organisation de leur travail ou sont soumis à de fréquents déplacements de longue durée peut, le cas échéant, faire l'objet de dispositions spécifiques adaptées à la nature et à l'organisation du service ainsi qu'au contenu des missions de ces personnels. Ces dispositions sont adoptées par arrêté du ministre intéressé, du ministre chargé de la fonction publique et du ministre chargé du budget, pris après avis du comité technique paritaire ministériel.

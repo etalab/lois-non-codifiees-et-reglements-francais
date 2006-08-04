@@ -1,3 +1,0 @@
-# TITRE II : DISPOSITIONS TRANSITOIRES ET FINALES.
-
-- [Article 60](article-60.md)

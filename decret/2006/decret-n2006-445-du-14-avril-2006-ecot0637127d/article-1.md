@@ -1,3 +1,0 @@
-# Article 1
-
-Les prêts accordés au titre des sections intitulées Prêts à des Etats étrangers, de la réserve pays émergents, en vue de faciliter la réalisation de projets d'infrastructure, Prêts à des Etats étrangers en vue de la consolidation de dettes envers la France et Prêts à l'Agence française de développement en vue de favoriser le développement économique et social dans des Etats étrangers qui relèvent du compte de concours financier intitulé Prêts à des Etats étrangers, peuvent être assortis de taux d'intérêt inférieurs à celui des obligations ou bons du Trésor de même échéance ou, à défaut, d'échéance la plus proche.

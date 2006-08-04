@@ -1,3 +1,0 @@
-# Article 4
-
-Les contributions reçues par l'organisme agréé sont reversées aux communes ou aux établissements publics de coopération intercommunale qui supportent la charge de la collecte, de la valorisation ou de l'élimination des déchets, en fonction du tonnage total d'imprimés distribués sur leur territoire durant l'année, déduction faite des contributions en nature versées aux établissements. Le montant du reversement peut être modulé pour tenir compte du mode de traitement des déchets issus de ces imprimés. Le décret prévu à l'article 1er fixe les modalités de calcul et de modulation du versement.

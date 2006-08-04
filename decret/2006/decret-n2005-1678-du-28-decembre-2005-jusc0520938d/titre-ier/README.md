@@ -1,3 +1,0 @@
-# TITRE Ier : DISPOSITIONS RELATIVES À LA DEMANDE EN JUSTICE.
-
-- [Article 1](article-1.md)

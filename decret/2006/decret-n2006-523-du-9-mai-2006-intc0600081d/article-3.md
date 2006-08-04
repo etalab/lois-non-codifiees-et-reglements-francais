@@ -1,3 +1,0 @@
-# Article 3
-
-Les ouvriers-nettoyeurs de la préfecture de police dont le statut est fixé par délibération du conseil de Paris prise en application de l'article 31 du décret du 24 mai 1994 susvisé, qui exercent leurs fonctions au laboratoire de toxicologie de la préfecture de police sont, sur leur demande présentée dans les conditions prévues au IV de l'article 58 de la loi du 15 novembre 2001 susvisée et à l'article 31 du décret du 9 novembre 2004 susvisé, soumis aux dispositions du décret n° 2002-818 du 3 mai 2002 portant dispositions statutaires applicables aux agents contractuels de droit public de la police nationale visés par l'article 34 de la loi n° 2000-321 du 12 avril 2000 relative aux droits des citoyens dans leurs relations avec les administrations.

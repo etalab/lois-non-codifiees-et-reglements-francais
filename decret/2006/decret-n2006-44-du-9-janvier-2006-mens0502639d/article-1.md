@@ -1,5 +1,0 @@
-# Article 1
-
-La commune ou l'établissement public de coopération intercommunale ou, le cas échéant, la région Ile-de-France qui demande, en application de l'article L. 822-1 du code de l'éducation, à prendre en charge la construction, la reconstruction, l'extension, les grosses réparations et l'équipement des locaux destinés au logement des étudiants, adresse sa demande au représentant de l'Etat dans le département ou, le cas échéant, dans la région Ile-de-France, qui en informe le directeur du centre régional des oeuvres universitaires et scolaires.
-
-Au vu de la convention signée, prévue à l'article L. 822-1 du code de l'éducation, le représentant de l'Etat dans le département ou, le cas échéant, dans la région Ile-de-France prend un arrêté transférant les locaux appartenant à l'Etat et affectés au logement des étudiants à la commune, à l'établissement public de coopération intercommunale ou, le cas échéant, à la région Ile-de-France qui a demandé à les prendre en charge. Ladite convention entre en vigueur à la date du transfert fixée par l'arrêté.

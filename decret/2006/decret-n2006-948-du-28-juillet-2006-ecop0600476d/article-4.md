@@ -1,3 +1,0 @@
-# Article 4
-
-La direction des personnels et de l'adaptation de l'environnement professionnel assure, en liaison avec les directions et services, les fonctions d'élaboration et de suivi du programme budgétaire où ses moyens sont inscrits. Elle assure également des prestations spécifiques de gestion budgétaire, en dépenses et en recettes. Elle coordonne la mise en oeuvre au sein du ministère des nouveaux processus et systèmes d'information budgétaires et comptables et assiste les directions et services dans ce domaine. Elle assiste les directions et services d'administration centrale dans la détermination et le suivi de la masse salariale et des emplois.

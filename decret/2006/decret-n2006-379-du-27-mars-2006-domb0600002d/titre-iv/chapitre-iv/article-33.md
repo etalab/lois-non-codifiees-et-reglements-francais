@@ -1,3 +1,0 @@
-# Article 33
-
-Par dérogation aux dispositions du premier alinéa de l'article 5 du décret du 27 mai 1999 susvisé, ont la qualité d'électeur les personnes physiques et les dirigeants sociaux des personnes morales inscrits sur le rôle de la patente, ainsi que les conjoints collaborateurs définis à l'article 14 du décret du 2 avril 1998 susvisé, n'employant pas plus de dix salariés et exerçant depuis au moins six mois avant la date du scrutin, à titre principal ou secondaire, une activité de production, de transformation, de réparation ou de services conformément à la liste des activités annexées au décret du 2 avril 1998.

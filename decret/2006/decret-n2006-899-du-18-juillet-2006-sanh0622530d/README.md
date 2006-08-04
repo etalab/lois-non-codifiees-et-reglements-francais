@@ -1,3 +1,0 @@
-# Décret n°2006-899 du 18 juillet 2006 modifiant le décret n° 2001-1343 du 28 décembre 2001 portant statut particulier du corps des directeurs d'établissements sanitaires et sociaux de la fonction publique hospitalière.
-
-- [Article 6](article-6.md)

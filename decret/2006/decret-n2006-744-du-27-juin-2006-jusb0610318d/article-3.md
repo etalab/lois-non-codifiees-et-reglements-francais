@@ -1,3 +1,0 @@
-# Article 3
-
-Les magistrats de l'ordre judiciaire mentionnés au premier alinéa de l'article 2 bis du décret du 29 avril 2002 susvisé dans sa rédaction issue de l'article 2 du présent décret peuvent inscrire sur leur compte épargne-temps, dans les conditions fixées par arrêté du garde des sceaux, ministre de la justice, du ministre chargé de la fonction publique et du ministre chargé du budget et dans un délai de six mois suivant la publication de cet arrêté, les jours de congés annuels et de réduction du temps de travail acquis au titre des périodes travaillées à compter du 1er janvier 2002 et épargnés à la date d'inscription sur leur compte.

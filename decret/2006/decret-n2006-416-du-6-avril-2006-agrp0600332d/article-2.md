@@ -1,3 +1,0 @@
-# Article 2
-
-Les additifs et traitements figurant en annexe 2 (annexe non reproduite) sont autorisés à titre dérogatoire pour les AOC qui y sont mentionnées jusqu'au 31 août 2008. Après cette date, certains de ces additifs et traitements pourront, le cas échéant, être intégrés à l'annexe 1 (annexe non reproduite) du présent décret. Les modalités d'application de ces mesures dérogatoires portant notamment sur les doses maximales ou sur un échelonnement des utilisations peuvent être précisées dans le règlement technique d'application de chaque appellation d'origine contrôlée concernée homologué par arrêté.

@@ -1,5 +1,0 @@
-# Article 38
-
-Le président de l'association syndicale qui envisage de licencier un agent contractuel de droit public pour un motif autre que disciplinaire doit, avant toute décision, convoquer l'intéressé par lettre recommandée ou par lettre remise en main propre contre décharge en lui indiquant l'objet de la convocation. L'entretien préalable ne peut avoir lieu moins de cinq jours ouvrables après la présentation de la lettre recommandée ou la remise en main propre de la lettre de convocation. Au cours de l'entretien, le président de l'association est tenu d'indiquer les motifs de la décision envisagée et de recueillir les explications de l'agent. L'agent peut se faire assister par toute personne de son choix.
-
-Le licenciement est notifié à l'intéressé par lettre recommandée avec demande d'avis de réception. Cette lettre précise le ou les motifs du licenciement et la date à laquelle celui-ci doit intervenir compte tenu des droits à congés annuels restant à courir et de la durée du préavis.

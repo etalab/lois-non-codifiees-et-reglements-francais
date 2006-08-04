@@ -1,3 +1,0 @@
-# Article 1
-
-Une indemnité pour sujétions exceptionnelles est attribuée aux fonctionnaires du corps de conception et de direction, à l'exception des directeurs des services actifs, des inspecteurs généraux et des contrôleurs généraux, et à ceux du corps de commandement de la police nationale affectés dans le ressort territorial des secrétariats généraux pour l'administration de la police de Paris, de Versailles et, s'agissant de Marseille, pour ceux affectés dans les départements de la Corse-du-Sud et de la Haute-Corse, lorsque lesdits fonctionnaires sont conduits, dans l'intérêt du service, à renoncer au bénéfice de repos spécifiques ou compensateurs auxquels ils ont droit. Cette indemnité est attribuée après service effectif.

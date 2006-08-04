@@ -1,3 +1,0 @@
-# Article 62
-
-Lorsque l'administrateur judiciaire ou le mandataire judiciaire désigné n'est pas inscrit sur l'une des listes prévues aux articles L. 811-2 ou L. 812-2 du code de commerce, il est joint, par le greffier, à la copie du jugement mentionnée à l'article 61 du présent décret, un document reproduisant les termes selon le cas de l'article L. 811-2 ou de l'article L. 812-2, de l'article L. 811-11-1, de l'article L. 814-5, des articles L. 622-18, L. 626-25 et L. 641-8 du même code, de l'article 54 du présent décret ainsi que des articles 66-1 et 79 du décret n° 85-1389 du 27 décembre 1985 susvisé.

@@ -1,3 +1,0 @@
-# Article 11
-
-Conformément au décret n° 2009-1540 du 10 décembre 2009 article 10 I et II, dans chaque région à la date de nomination du directeur régional de la jeunesse, des sports et de la cohésion sociale et au plus tard à compter du 1er janvier 2010, le décret du 9 décembre 1976 cesse d'être applicable en tant qu'il concerne les directions régionales de la jeunesse, des sports et de la vie associative. A la date de la dévolution des missions sanitaires et médico-sociales à une agence régionale de santé ce même décret est abrogé en tant qu'il concerne ces mêmes directions. Il demeure en vigueur pour la région Ile-de-France et les régions d'outre-mer.

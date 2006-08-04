@@ -1,4 +1,0 @@
-# Décret n°2006-688 du 12 juin 2006 relatif à la fusion des corps des agents administratifs, d'une part, et des adjoints administratifs, d'autre part, des ministères de l'emploi, de la cohésion sociale et du logement et de la santé et des solidarités et portant intégration des fonctionnaires appartenant au corps des agents administratifs relevant des ministres chargés des affaires sociales dans celui des adjoints administratifs relevant des mêmes ministres.
-
-- [TITRE Ier : DISPOSITIONS RELATIVES À LA FUSION DES CORPS DES AGENTS ADMINISTRATIFS ET À CELLE DES CORPS DES ADJOINTS ADMINISTRATIFS](titre-ier)
-- [TITRE II : DISPOSITIONS RELATIVES À L'INTÉGRATION DES FONCTIONNAIRES APPARTENANT AU CORPS DES AGENTS ADMINISTRATIFS RELEVANT DES MINISTRES CHARGÉS DES AFFAIRES SOCIALES DANS LE CORPS DES ADJOINTS ADMINISTRATIFS RELEVANT DES MÊMES MINISTRES.](titre-ii)

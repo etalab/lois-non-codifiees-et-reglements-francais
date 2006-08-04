@@ -1,7 +1,0 @@
-# Article 8
-
-Dans le champ des politiques publiques relevant en tout ou partie de la compétence de l'Etat, il est institué, dans le département ou la région, des commissions qui réunissent, sous la présidence du représentant de l'Etat, les représentants des services de l'Etat intéressés ainsi, le cas échéant, que les représentants des autres administrations mentionnées à l'article 1er de la loi du 12 avril 2000 susvisée, les représentants des organismes, établissements, entreprises ou associations intéressées et des personnalités qualifiées.
-
-Indépendamment des attributions que lui confèrent les lois et règlements, chaque commission a vocation à connaître à l'initiative du représentant de l'Etat de l'ensemble des questions se rapportant aux politiques publiques dans le champ desquelles elle est instituée. Elle peut comporter, le cas échéant, des formations spécialisées appelées à connaître de questions déterminées lorsque celles-ci impliquent un avis répondant à des conditions particulières ou un avis doté d'une portée particulière. L'avis d'une de ces formations tient lieu d'avis de la commission lorsque celui-ci est requis dans le champ de compétence de ladite formation.
-
-Sauf s'il en est disposé autrement par le texte qui les institue, la composition, l'organisation et le fonctionnement de ces commissions et de leurs formations spécialisées sont fixées par arrêté du représentant de l'Etat.
