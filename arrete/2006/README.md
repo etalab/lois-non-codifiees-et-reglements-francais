@@ -2,6 +2,12 @@
 
 - [Arrêté du 1 août 2006 (AGRG0601520A)](arrete-du-1-aout-2006-agrg0601520a)
 - [Arrêté du 1 août 2006 (AGRP0601524A)](arrete-du-1-aout-2006-agrp0601524a)
+- [Arrêté du 1 août 2006 (DEFP0600654A)](arrete-du-1-aout-2006-defp0600654a)
+- [Arrêté du 1 août 2006 (DEFP0600655A)](arrete-du-1-aout-2006-defp0600655a)
+- [Arrêté du 1 août 2006 (DEFP0600656A)](arrete-du-1-aout-2006-defp0600656a)
+- [Arrêté du 1 août 2006 (DEFP0600657A)](arrete-du-1-aout-2006-defp0600657a)
+- [Arrêté du 1 août 2006 (DEFP0600658A)](arrete-du-1-aout-2006-defp0600658a)
+- [Arrêté du 1 août 2006 (DEFP0600659A)](arrete-du-1-aout-2006-defp0600659a)
 - [Arrêté du 1 février 2006 (ECOP0500990A)](arrete-du-1-fevrier-2006-ecop0500990a)
 - [Arrêté du 1 juin 2006 (JUSC0620319A)](arrete-du-1-juin-2006-jusc0620319a)
 - [Arrêté du 1 mars 2006 (ECOS0650010A)](arrete-du-1-mars-2006-ecos0650010a)

@@ -24,6 +24,7 @@
 - [Décret n°2006-990 du 1 août 2006 (AGRF0601437D)](decret-n2006-990-du-1-aout-2006-agrf0601437d)
 - [Décret n°2006-991 du 1 août 2006 (AGRG0601445D)](decret-n2006-991-du-1-aout-2006-agrg0601445d)
 - [Décret n°2006-992 du 1 août 2006 (MJSK0670162D)](decret-n2006-992-du-1-aout-2006-mjsk0670162d)
+- [Décret n°2006-993 du 1 août 2006 (EQUU0601552D)](decret-n2006-993-du-1-aout-2006-equu0601552d)
 - [Décret n°91-910 du 6 septembre 1991 (ACVA9110049D)](decret-n91-910-du-6-septembre-1991-acva9110049d)
 - [Décret n°96-552 du 19 juin 1996 (ACVX9600061D)](decret-n96-552-du-19-juin-1996-acvx9600061d)
 - [Décret n°99-314 du 22 avril 1999 (DEFP9901093D)](decret-n99-314-du-22-avril-1999-defp9901093d)
