@@ -1,6 +1,6 @@
 # Article 1
 
-L'échelonnement indiciaire du corps des techniciens paramédicaux civils du service de santé des armées est fixé ainsi qu'il suit :
+L'échelonnement indiciaire du corps des techniciens paramédicaux civils du ministère de la défense est fixé ainsi qu'il suit :
 
 Technicien paramédical civil de classe normale
 
