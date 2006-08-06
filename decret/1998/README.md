@@ -801,7 +801,6 @@
 - [Décret n°98-1203 du 28 décembre 1998 (JUSD9830147D)](decret-n98-1203-du-28-decembre-1998-jusd9830147d)
 - [Décret n°98-1211 du 28 décembre 1998 (AGRM9802290D)](decret-n98-1211-du-28-decembre-1998-agrm9802290d)
 - [Décret n°98-1248 du 28 décembre 1998 (EQUU9801769D)](decret-n98-1248-du-28-decembre-1998-equu9801769d)
-- [Décret n°98-1253 du 28 décembre 1998 (AGRM9802390D)](decret-n98-1253-du-28-decembre-1998-agrm9802390d)
 - [Décret n°98-316 du 28 avril 1998 (ECOT9851675D)](decret-n98-316-du-28-avril-1998-ecot9851675d)
 - [Décret n°98-320 du 28 avril 1998 (MESF9810269D)](decret-n98-320-du-28-avril-1998-mesf9810269d)
 - [Décret n°98-324 du 28 avril 1998 (ATEN9860042D)](decret-n98-324-du-28-avril-1998-aten9860042d)
