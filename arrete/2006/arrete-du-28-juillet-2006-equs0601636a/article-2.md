@@ -1,0 +1,3 @@
+# Article 2
+
+Au sens du présent arrêté, on entend par " véhicule " tout véhicule à moteur de la catégorie internationale M1 d'une masse totale autorisée ne dépassant pas 3,5 tonnes, et tout véhicule à moteur de catégorie internationale N1. Les catégories internationales M1 et N1 sont définies à l'annexe II de la directive 70/156/CEE susvisée. Ces catégories de véhicules concernent les voitures particulières et les camionnettes définies à l'article R. 311-1 du code de la route ainsi que certaines catégories de véhicules automoteurs spécialisés tels que les autocaravanes, les ambulances et les véhicules funéraires.
