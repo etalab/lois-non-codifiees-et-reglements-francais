@@ -22,8 +22,6 @@ Le directeur de la Société nationale des poudres et explosifs, Matériaux éne
 
 Le directeur de l'Institut français du textile et de l'habillement ou son représentant ;
 
-Le directeur du Centre technique industriel de la construction métallique ou son représentant ;
-
-Le directeur du laboratoire d'essais de résistance au feu du centre d'essais de lancement de missiles ou son représentant ;
+Le directeur d'Efectis France ou son représentant ;
 
 Le président peut convoquer aux séances, avec voix consultative, toute personne qui lui paraît spécialement qualifiée par sa compétence pour apporter des renseignements utiles au comité.
