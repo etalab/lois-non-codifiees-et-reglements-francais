@@ -22,8 +22,4 @@ h) Aliments crus et/ou stabilisés : aliments dont la conservation est assurée 
 
 i) Conditionnement : l'opération destinée à réaliser la protection des produits par l'emploi d'une première enveloppe ou d'un premier contenant au contact direct des produits concernés, ainsi que cette première enveloppe elle-même ou ce premier contenant lui-même ;
 
-j) Emballage : l'opération consistant à placer les produits dans un deuxième contenant ainsi que ce contenant lui-même ;
-
-k) Farine de viande osseuse de ruminants : protéines animales transformées de ruminants issues du traitement d'os de ruminants collectés exclusivement à partir d'établissements agréés pour l'alimentation humaine au titre de l'article L. 233-2 du code rural ;
-
-l) Graisse d'os de ruminants : graisses issues du dégraissage d'os de ruminants collectés exclusivement à partir d'établissements agréés pour l'alimentation humaine au titre de l'article L. 233-2 du code rural.
+j) Emballage : l'opération consistant à placer les produits dans un deuxième contenant ainsi que ce contenant lui-même.

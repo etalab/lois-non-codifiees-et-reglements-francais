@@ -1,23 +1,15 @@
 # Article 13
 
-Le bureau des relations sociales et des statuts (RH 3) élabore, en lien avec le bureau de la gestion financière, les textes statutaires et indemnitaires propres aux différents corps de personnels des services déconcentrés de la protection judiciaire de la jeunesse.
+Le bureau de la gestion prévisionnelle des effectifs, des emplois et des compétences (RH 2) assure la gestion des effectifs et traite de la gestion prévisionnelle des emplois et des compétences des services déconcentrés de la protection judiciaire de la jeunesse.
 
-Il suit en liaison avec la direction de l'administration générale et de l'équipement les questions ayant trait à l'application du statut général des fonctionnaires et des statuts interministériels.
+Il définit les référentiels métiers/emplois en lien avec la sous-direction de l'action éducative et des affaires judiciaires. Il détermine les normes d'effectifs par niveau d'implantation de la protection judiciaire de la jeunesse sur le territoire.
 
-Bureau compétent pour les questions juridiques ayant trait à la gestion des ressources humaines, il apporte son expertise juridique en tant que de besoin aux différents bureaux de la sous-direction. Dans ce cadre, il établit une banque de données juridiques et assure la tenue des fonds communautaires.
+Il est le correspondant de la direction de l'administration générale et de l'équipement pour l'observatoire de l'emploi public et représente la sous-direction des ressources humaines et des relations sociales dans la conduite des travaux sur les lois de finances.
 
-Il apporte sa contribution au contentieux du personnel en liaison avec le bureau des affaires judiciaires et de la législation.
+Il assure les liens avec les services du contrôle financier pour les questions ayant trait à la gestion des emplois et est le correspondant à ce titre de l'ensemble des bureaux des trois sous-directions.
 
-Il a en charge la discipline des personnels des services déconcentrés.
+Il est associé pour son domaine de compétence à l'élaboration du projet de loi de finances et est informé des conditions de l'exécution du budget.
 
-Il est l'interlocuteur privilégié pour la concertation syndicale sur l'ensemble des sujets relevant de la compétence de la direction.
+Il établit le bilan social et procède aux analyses sociologiques par corps.
 
-Il pilote la mise en place de l'observatoire social dont il définit les indicateurs.
-
-Il suit les questions relatives à la gestion des relations sociales, au droit syndical, au fonctionnement des comités techniques paritaires.
-
-Il est associé par la direction de l'administration générale et de l'équipement à la politique d'action sociale et de médecine de prévention, à l'hygiène et la sécurité et au reclassement des personnels inaptes à leur emploi.
-
-Il traite de l'organisation du travail et suit les conditions de la mise en oeuvre de l'aménagement de la réduction du temps de travail.
-
-Il assure le traitement des courriers parlementaires dans le domaine de sa compétence.
+Il met en place les tableaux de bord nécessaires au pilotage de son activité.

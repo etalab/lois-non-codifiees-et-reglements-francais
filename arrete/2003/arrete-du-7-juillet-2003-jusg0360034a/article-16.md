@@ -1,3 +1,3 @@
 # Article 16
 
-Le directeur de la protection judiciaire de la jeunesse est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+L'arrêté du 20 septembre 1990 relatif à l'organisation des sous-directions de la direction de la protection judiciaire de la jeunesse est abrogé.

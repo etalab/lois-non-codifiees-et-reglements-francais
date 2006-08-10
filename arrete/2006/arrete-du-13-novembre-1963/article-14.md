@@ -16,14 +16,16 @@ Remises corrigées
 
 x
 
-Taux de cotisation ([*) x 100 x Valeur d'achat du point
+Taux de cotisation (a) x 100 x Valeur d'achat du point
 
 Remises brutes
 
-(*]) Taux de cotisation = taux de cotisation des débitants + taux de cotisation de l'Etat.
+(a) Taux de cotisation = taux de cotisation des débitants + taux de cotisation de l'Etat.
 
-III. - Au 1er janvier 2006 :
+III.
 
-- la valeur d'achat du point est de 3,59 Euros, pour l'exercice 2005 ;
+1. Au 1er janvier 2006, la valeur d'achat du point est de 3,59  pour l'exercice 2005.
 
-- la valeur de service du point est de 1,99 Euros. Cette valeur est révisée le 1er juillet de chaque année, selon les modalités prévues au quatrième alinéa de l'article 4 du décret du 30 octobre 1963 modifié.
+2. Au 1er juillet 2006, la valeur de service du point est de 2 .
+
+Cette valeur est révisée le 1er juillet de chaque année, selon les modalités prévues au quatrième alinéa de l'article 4 du décret du 30 octobre 1963 modifié.

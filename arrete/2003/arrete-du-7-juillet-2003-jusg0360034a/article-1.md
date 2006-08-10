@@ -1,9 +1,9 @@
 # Article 1
 
-La sous-direction de l'action éducative et des affaires judiciaires (K) comprend 3 bureaux :
+La sous-direction des missions de protection judiciaire et d'éducation comprend trois bureaux :
 
-- le bureau des méthodes et de l'action éducative (K 1) ;
+- le bureau des champs de compétence et des orientations ;
 
-- le bureau des affaires judiciaires et de la législation (K 2) ;
+- le bureau des méthodes et de l'action éducative ;
 
-- le bureau des associations et de la décentralisation (K 3).
+- le bureau des partenaires institutionnels et des territoires.

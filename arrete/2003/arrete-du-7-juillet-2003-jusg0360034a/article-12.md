@@ -1,15 +1,15 @@
 # Article 12
 
-Le bureau de la gestion prévisionnelle des effectifs, des emplois et des compétences (RH 2) assure la gestion des effectifs et traite de la gestion prévisionnelle des emplois et des compétences des services déconcentrés de la protection judiciaire de la jeunesse.
+Le bureau du recrutement et de la formation (RH 1) propose et met en oeuvre, en lien avec la sous-direction de l'action éducative et des affaires judiciaires, la politique de recrutement et de formation des personnels des services déconcentrés de la protection judiciaire de la jeunesse.
 
-Il définit les référentiels métiers/emplois en lien avec la sous-direction de l'action éducative et des affaires judiciaires. Il détermine les normes d'effectifs par niveau d'implantation de la protection judiciaire de la jeunesse sur le territoire.
+Il assure l'organisation des concours de recrutement et des examens professionnels et met en oeuvre les dispositions nouvelles relatives à la diversification des recrutements.
 
-Il est le correspondant de la direction de l'administration générale et de l'équipement pour l'observatoire de l'emploi public et représente la sous-direction des ressources humaines et des relations sociales dans la conduite des travaux sur les lois de finances.
+Il est associé dans le cadre des recrutements aux préparations des campagnes de publicité.
 
-Il assure les liens avec les services du contrôle financier pour les questions ayant trait à la gestion des emplois et est le correspondant à ce titre de l'ensemble des bureaux des trois sous-directions.
+Il traite de la question de la validation des acquis professionnels et représente la direction auprès des autorités chargées de l'homologation des titres et des diplômes.
 
-Il est associé pour son domaine de compétence à l'élaboration du projet de loi de finances et est informé des conditions de l'exécution du budget.
+Il assure le contrôle de l'action pédagogique du Centre national de formation et d'études et des pôles territoriaux de formation.
 
-Il établit le bilan social et procède aux analyses sociologiques par corps.
+Il est associé aux réflexions et travaux sur l'organisation et le fonctionnement de l'école.
 
-Il met en place les tableaux de bord nécessaires au pilotage de son activité.
+Il fixe le cadre des dispositifs d'évaluation des formations initiales et continues. Il détermine les dispositifs de formation propres aux agents non titulaires de l'Etat.

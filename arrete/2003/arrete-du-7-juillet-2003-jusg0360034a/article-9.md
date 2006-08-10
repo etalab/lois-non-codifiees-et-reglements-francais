@@ -1,13 +1,7 @@
 # Article 9
 
-La sous-direction des ressources humaines et des relations sociales (RH) comprend une mission et 4 bureaux :
+Le bureau d'appui au pilotage propose des outils propres à faciliter, aux niveaux central et déconcentré, la connaissance, le pilotage et le compte rendu des activités au service des missions de la direction.
 
-- la mission de suivi personnalisé des carrières de l'encadrement ;
+A la demande des services de la direction, il met en oeuvre certains de ces outils et apporte son expertise à partir des informations ainsi recueillies.
 
-- le bureau du recrutement et de la formation (RH 1) ;
-
-- le bureau de la gestion prévisionnelle des effectifs, des emplois et des compétences (RH 2) ;
-
-- le bureau des relations sociales et des statuts (RH 3) ;
-
-- le bureau des carrières et du développement professionnel (RH 4).
+Il aide à la définition et à la mise en oeuvre des priorités d'action fixées annuellement aux directions régionales.

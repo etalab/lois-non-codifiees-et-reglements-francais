@@ -1,11 +1,11 @@
 # Article 6
 
-Le bureau de la gestion financière (L 1) est le correspondant de la direction de l'administration générale et de l'équipement pour la préparation des propositions budgétaires de la direction et l'exécution du budget (titres III, IV, V). A ce titre, il centralise les évaluations des besoins et formalise les propositions.
+Le bureau de l'allocation des moyens établit les prévisions de moyens de toute nature nécessaires à la réalisation des missions de la direction. Il prépare notamment, pour le programme Protection judiciaire de la jeunesse, les inscriptions en lois de finances ainsi que les projets et rapports de performance.
 
-Il est chargé, pour le secteur public de la protection judiciaire de la jeunesse, de la gestion financière des personnels, des moyens de la formation, des crédits de fonctionnement et subventions. En liaison avec la direction de l'administration générale et de l'équipement, il procède à toutes les études économiques et participe à la mise en oeuvre, dans les services déconcentrés, d'un contrôle de gestion, ainsi qu'à l'adaptation des procédures de déconcentration, élabore la réglementation financière et comptable propre aux établissements et services du secteur public.
+Il assure la répartition des moyens de l'Etat à attribuer aux services déconcentrés de la direction et aux prestataires, quel qu'en soit le statut, de mesures de protection judiciaire de la jeunesse ou d'insertion. Il est en relation, dans son champ de compétences, avec les organisations associatives au niveau national.
 
-Il est consulté par les autres bureaux de la direction sur tous les projets susceptibles de comporter une incidence financière.
+Il étudie le coût des actions mises en oeuvre par les structures quel qu'en soit le statut, en vérifie leur justification compte tenu des missions, assure le suivi de la performance et détermine l'allocation des moyens au regard des objectifs et de l'activité.
 
-Il est associé, par le bureau des associations et de la décentralisation, à l'élaboration ou au suivi des textes fixant le régime financier applicable aux établissements et services habilités.
+Il conduit à ces fins le dialogue de gestion avec les directions territoriales.
 
-En collaboration avec le bureau des méthodes de l'action éducative, il prépare les arrêtés relatifs à l'organisation des services départementaux.
+Il veille à la régularité et la qualité de la gestion des moyens de la direction au regard des normes et des références comptables et financières. Il apporte en ces matières son expertise et son appui aux services territoriaux de la direction.

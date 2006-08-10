@@ -1,11 +1,13 @@
 # Article 4
 
-Le bureau des associations et de la décentralisation (K 3) est chargé d'assurer les relations de la direction avec les établissements et services, privés ou publics, habilités à prendre en charge des jeunes sous protection judiciaire ainsi qu'avec les organismes gestionnaires desdits établissements et services.
+Le bureau des partenaires institutionnels et des territoires pilote l'organisation, le fonctionnement général et l'articulation de l'administration territoriale de la direction. Il veille notamment à l'articulation des projets stratégiques territoriaux au regard des objectifs nationaux de la direction.
 
-Il détermine les conditions juridiques de la participation de ces établissements et services au service public de la protection judiciaire de la jeunesse.
+Il élabore les conditions juridiques et administratives de la participation des services et des établissements, quel qu'en soit le statut, au service public de la protection judiciaire de la jeunesse.
 
-Il suit les dossiers et la réglementation intéressant la décentralisation des compétences dans le domaine social.
+Il suit les dossiers et la réglementation intéressant la décentralisation des compétences concernant la protection de l'enfance.
 
-Il traite, en liaison avec le bureau de la gestion financière, les dossiers relatifs à la réglementation financière applicable aux prestations du secteur associatif et à la gestion des crédits inscrits à ce titre au budget du ministère de la justice.
+Il assure la connaissance et l'analyse de la direction sur ses structures d'administration territoriale et sur le fonctionnement d'ensemble de la justice des mineurs dans chaque ressort géographique. Il conduit, tant au niveau national que territorial, une politique visant à favoriser la complémentarité, la coordination et l'organisation des actions de l'autorité judiciaire et des partenaires oeuvrant à la justice des mineurs, notamment les juridictions des mineurs, les directions territoriales de la protection judiciaire de la jeunesse, les services des collectivités territoriales et les associations.
 
-Il fixe le cadre du contrôle pédagogique et financier des établissements et services habilités.
+Dans un souci de complémentarité et d'efficacité des dispositifs, il veille à ce que l'implantation des services et des établissements, quel qu'en soit le statut, réponde aux besoins en matière de protection judiciaire de la jeunesse. Il est chargé de la politique d'habilitation et de conventionnement de la direction.
+
+Il conduit la politique de contrôle des services et des établissements chargés de mesures judiciaires d'investigation, de protection et d'éducation ainsi que d'actions favorisant l'insertion des publics concernés.

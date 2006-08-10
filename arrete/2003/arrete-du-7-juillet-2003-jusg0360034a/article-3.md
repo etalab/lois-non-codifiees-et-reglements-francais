@@ -1,9 +1,9 @@
 # Article 3
 
-Le bureau des affaires judiciaires et de la législation (K 2) traite, en liaison avec les autres directions du ministère, les questions législatives et réglementaires relatives à la protection judiciaire de la jeunesse.
+Le bureau des méthodes et de l'action éducative conduit les réflexions relatives aux actions d'éducation réalisées dans le cadre judiciaire par les services et établissements, quel qu'en soit le statut. Il recueille et valorise leurs expériences.
 
-Il assure les relations avec les juridictions de la jeunesse au plan national et international en liaison avec le service des affaires européennes et internationales et contribue, en liaison avec la direction des affaires criminelles et des grâces, au suivi de l'action publique exercée auprès de ces juridictions.
+Il élabore les normes juridiques et les références d'organisation et de fonctionnement des services et des établissements chargés des mesures judiciaires ainsi que des actions favorisant l'insertion des publics concernés.
 
-Il traite les dossiers contentieux liés à l'activité ou concernant les personnels des services et établissements.
+Il appuie, suit et exploite les travaux d'évaluation que réalisent ou font réaliser les services et les établissements sur leurs activités et sur la qualité des prestations délivrées au titre de la protection judiciaire de la jeunesse.
 
-Il assure le secrétariat de la commission de contrôle des publications destinées à la jeunesse et les liaisons avec la commission de contrôle des films cinématographiques.
+Il connaît l'ensemble des services et des établissements, quel qu'en soit le statut, auxquels sont confiés des jeunes sous mandat judiciaire et analyse leur activité.

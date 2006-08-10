@@ -1,15 +1,11 @@
 # Article 2
 
-Le bureau des méthodes de l'action éducative (K 1) est chargé de l'élaboration et de l'évaluation des méthodes de prise en charge des mineurs et jeunes majeurs relevant des services de protection judiciaire de la jeunesse.
+Le bureau des champs de compétence et des orientations conduit les réflexions sur les champs de compétence et les objectifs du ministère de la justice dans le domaine de la protection judiciaire de la jeunesse. Il élabore les orientations et les normes tant civiles que pénales afférentes à l'action du ministère en ce domaine.
 
-Il assure le suivi des dossiers intéressant, au plan national et international, en liaison avec le service des affaires européennes et internationales, les méthodes de l'action éducative relative à l'enfance et à la jeunesse.
+Il anime la politique de recherche et conduit la prospective sur les questions relatives à l'enfance et à la jeunesse intéressant le ministère.
 
-Il suit l'ensemble des actions ou politiques interministérielles relatives à la prévention, à l'insertion professionnelle et sociale des jeunes, à l'accès à la santé, au logement et aux pratiques culturelles ou sportives.
+Il est informé des dossiers impliquant des mineurs et contribue, en liaison avec la direction des affaires criminelles et des grâces, au suivi de l'action publique exercé auprès des juridictions. En lien avec la direction des services judiciaires, il analyse l'activité et les besoins des juridictions quant aux champs et aux orientations de la protection judiciaire de la jeunesse et de l'éducation.
 
-Il assure la représentation de la direction auprès des organismes extérieurs contribuant à la mise en oeuvre d'une politique de protection judiciaire de la jeunesse.
+Il assure le secrétariat de la commission de contrôle des publications destinées à la jeunesse et les liaisons avec la commission de contrôle des films cinématographiques.
 
-En liaison avec les bureaux de la sous-direction des affaires administratives et financières et de la sous-direction des ressources humaines, il détermine les moyens appropriés à la réalisation des objectifs de l'action éducative et fixe le cadre de la politique d'implantation des services.
-
-Il instruit, en liaison avec le bureau de la gestion financière et le bureau des associations et de la décentralisation, les demandes de subvention.
-
-Il élabore et suit, en liaison avec les autres bureaux de la direction et la direction de l'administration générale et de l'équipement, la politique de recherche et assure la liaison avec les organismes qualifiés en ce domaine.
+Il traite l'ensemble des dossiers de sa compétence au plan international et est associé aux négociations et au traitement du contentieux européen et international concernant la protection judiciaire de la jeunesse. Il traite les autres contentieux concernant la direction.

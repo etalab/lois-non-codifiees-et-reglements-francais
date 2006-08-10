@@ -12,15 +12,17 @@ Ile-de-France ;
 
 Rhône-Alpes - Auvergne ;
 
-Provence-Alpes-Côte d'Azur-Corse ;
-
-Chef du bureau des carrières et du développement professionnel à la direction de la protection judiciaire de la jeunesse ;
-
-Chef du bureau de l'informatique et de la statistique à la direction de la protection judiciaire de la jeunesse.
+Provence-Alpes-Côte d'Azur-Corse.
 
 Administration centrale :
 
 Chargé de mission auprès du sous-directeur chargé des ressources humaines ou des affaires budgétaires de la direction de la protection judiciaire de la jeunesse ;
+
+Chef du bureau des carrières et du développement professionnel à la direction de la protection judiciaire de la jeunesse ;
+
+Chef du bureau des systèmes d'information à la direction de la protection judiciaire de la jeunesse ;
+
+Chef du bureau des partenaires institutionnels et des territoires à la direction de la protection judiciaire de la jeunesse ;
 
 Chargé de mission auprès du directeur de projet chargé de préparer la mise en place de nouveaux instruments du dialogue social et de concevoir les instruments d'une gestion cohérente et coordonnée des ressources humaines au sein du ministère ;
 

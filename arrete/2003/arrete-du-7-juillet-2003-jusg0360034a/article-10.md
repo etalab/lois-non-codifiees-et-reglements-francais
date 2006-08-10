@@ -1,11 +1,13 @@
 # Article 10
 
-La mission de suivi personnalisé des carrières de l'encadrement est chargée de recenser et d'identifier les compétences des agents exerçant ou appelés à exercer des fonctions de responsabilités au sein des services déconcentrés de la protection judiciaire de la jeunesse.
+La sous-direction des ressources humaines et des relations sociales (RH) comprend une mission et 4 bureaux :
 
-Elle participe à la définition des référentiels des emplois et des métiers de direction et d'encadrement en lien avec le bureau de la gestion prévisionnelle des effectifs, des emplois et des compétences.
+- la mission de suivi personnalisé des carrières de l'encadrement ;
 
-Elle propose des projets professionnels adaptés pouvant comporter la mise en oeuvre de bilans de compétence ou des formations d'adaptation.
+- le bureau du recrutement et de la formation (RH 1) ;
 
-Elle développe des programmes favorisant la mobilité interne et externe.
+- le bureau de la gestion prévisionnelle des effectifs, des emplois et des compétences (RH 2) ;
 
-Elle est associée au processus interne de désignation des personnels visés ci-dessus.
+- le bureau des relations sociales et des statuts (RH 3) ;
+
+- le bureau des carrières et du développement professionnel (RH 4).

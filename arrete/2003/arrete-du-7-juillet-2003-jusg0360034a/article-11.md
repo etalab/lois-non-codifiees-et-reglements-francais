@@ -1,15 +1,11 @@
 # Article 11
 
-Le bureau du recrutement et de la formation (RH 1) propose et met en oeuvre, en lien avec la sous-direction de l'action éducative et des affaires judiciaires, la politique de recrutement et de formation des personnels des services déconcentrés de la protection judiciaire de la jeunesse.
+La mission de suivi personnalisé des carrières de l'encadrement est chargée de recenser et d'identifier les compétences des agents exerçant ou appelés à exercer des fonctions de responsabilités au sein des services déconcentrés de la protection judiciaire de la jeunesse.
 
-Il assure l'organisation des concours de recrutement et des examens professionnels et met en oeuvre les dispositions nouvelles relatives à la diversification des recrutements.
+Elle participe à la définition des référentiels des emplois et des métiers de direction et d'encadrement en lien avec le bureau de la gestion prévisionnelle des effectifs, des emplois et des compétences.
 
-Il est associé dans le cadre des recrutements aux préparations des campagnes de publicité.
+Elle propose des projets professionnels adaptés pouvant comporter la mise en oeuvre de bilans de compétence ou des formations d'adaptation.
 
-Il traite de la question de la validation des acquis professionnels et représente la direction auprès des autorités chargées de l'homologation des titres et des diplômes.
+Elle développe des programmes favorisant la mobilité interne et externe.
 
-Il assure le contrôle de l'action pédagogique du Centre national de formation et d'études et des pôles territoriaux de formation.
-
-Il est associé aux réflexions et travaux sur l'organisation et le fonctionnement de l'école.
-
-Il fixe le cadre des dispositifs d'évaluation des formations initiales et continues. Il détermine les dispositifs de formation propres aux agents non titulaires de l'Etat.
+Elle est associée au processus interne de désignation des personnels visés ci-dessus.

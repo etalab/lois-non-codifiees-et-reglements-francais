@@ -1,9 +1,11 @@
 # Article 5
 
-La sous-direction des affaires administratives et financières (L) comprend trois bureaux :
+La sous-direction du pilotage et de l'optimisation des moyens comprend quatre bureaux :
 
-- le bureau de la gestion financière (L 1) ;
+- le bureau de l'allocation des moyens ;
 
-- le bureau des équipements (L 2) ;
+- le bureau du patrimoine ;
 
-- le bureau de l'informatique et de la statistique (L 3).
+- le bureau des systèmes d'information ;
+
+- le bureau d'appui au pilotage.
