@@ -229,7 +229,6 @@
 - [Arrêté du 7 juillet 2003 (DEFP0301795A)](arrete-du-7-juillet-2003-defp0301795a)
 - [Arrêté du 7 juillet 2003 (EQUT0300972A)](arrete-du-7-juillet-2003-equt0300972a)
 - [Arrêté du 7 juillet 2003 (EQUT0300980A)](arrete-du-7-juillet-2003-equt0300980a)
-- [Arrêté du 7 juillet 2003 (JUSG0360033A)](arrete-du-7-juillet-2003-jusg0360033a)
 - [Arrêté du 7 juillet 2003 (JUSG0360034A)](arrete-du-7-juillet-2003-jusg0360034a)
 - [Arrêté du 7 mars 2003 (DEFD0301273A)](arrete-du-7-mars-2003-defd0301273a)
 - [Arrêté du 7 mars 2003 (DOMA0200052A)](arrete-du-7-mars-2003-doma0200052a)

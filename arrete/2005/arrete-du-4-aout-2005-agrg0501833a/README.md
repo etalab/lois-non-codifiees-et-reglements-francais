@@ -6,4 +6,3 @@
 - [Chapitre IV : Attestations sanitaires figurant sur le certificat sanitaire ou le document commercial.](chapitre-iv)
 - [Chapitre V : Dispositions finales.](chapitre-v)
 - [Article 9](article-9.md)
-- [Annexes](annexes)

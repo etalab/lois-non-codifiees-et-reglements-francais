@@ -1,3 +1,0 @@
-# Article 3
-
-La sous-direction de l'action éducative et des affaires judiciaires suit l'ensemble des dossiers intéressant l'enfance et l'adolescence au plan national et international, en liaison avec le service des affaires européennes et internationales, traite des questions d'ordre juridique, pédagogique et institutionnel relatives à la protection judiciaire de la jeunesse, détermine, en liaison avec la sous-direction des affaires administratives et financières, le cadre juridique et financier des relations avec le secteur associatif. Elle est associée par le service des affaires européennes et internationales aux négociations et au traitement du contentieux européen et international concernant la protection judiciaire de la jeunesse.
