@@ -10,4 +10,6 @@ Elle peut également :
 
 3° Entreprendre et diffuser des études et des recherches dans le domaine de la sécurité ;
 
-4° Exercer une mission d'information et de conseil juridiques auprès des services de police de sa compétence.
+4° Exercer une mission d'information et de conseil juridiques auprès des services de police de sa compétence ;
+
+5° Assurer une préparation au concours externe de commissaire de police selon des modalités fixées par arrêté du ministre de l'intérieur.
