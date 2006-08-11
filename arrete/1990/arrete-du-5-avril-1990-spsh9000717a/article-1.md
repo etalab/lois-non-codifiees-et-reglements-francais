@@ -2,70 +2,64 @@
 
 Les diplômes et certificats du secteur sanitaire et social acquis en fin d'études promotionnelles par les agents relevant des établissements énumérés à l'article 2 de la loi du 9 janvier 1986 susvisée sont les suivants :
 
-Certificat d'auxiliaire de puériculture ;
+- Diplôme d'Etat d'infirmier ;
 
-Certificat d'aptitude aux fonctions d'aide-soignant ;
+- Diplôme d'Etat de sage-femme ;
 
-Diplôme d'Etat d'infirmier ;
+- Diplôme d'Etat de masseur-kinésithérapeute ;
 
-Diplôme d'Etat de sage-femme ;
+- Diplôme d'Etat d'ergothérapeute ;
 
-Diplôme d'Etat de masseur-kinésithérapeute ;
+- Diplôme d'Etat de psychomotricien ;
 
-Diplôme d'Etat d'ergothérapeute ;
+- Certificat de capacité d'orthophoniste ;
 
-Diplôme d'Etat de psychomotricien ;
+- Diplôme d'Etat de pédicure-podologue ;
 
-Certificat de capacité d'orthophoniste ;
+- Certificat de capacité d'orthoptiste ;
 
-Diplôme d'Etat de pédicure-podologue ;
+- Diplôme d'Etat de manipulateur d'électroradiologie médicale ;
 
-Certificat de capacité d'orthoptiste ;
+- Diplôme d'Etat de laborantin d'analyses médicales ;
 
-Diplôme d'Etat de manipulateur d'électroradiologie médicale ;
+- Diplôme d'Etat de puéricultrice ;
 
-Diplôme d'Etat de laborantin d'analyses médicales ;
+- Diplôme d'Etat d'assistant de service social ;
 
-Diplôme d'Etat de puéricultrice ;
+- Certificat d'aptitude aux fonctions de moniteur éducateur ;
 
-Certificat d'aptitude aux fonctions d'infirmier spécialisé en anesthésie-réanimation ;
+- Diplôme d'Etat d'éducateur spécialisé ;
 
-Certificat d'aptitude aux fonctions d'infirmier de salle d'opération ;
+- Diplôme d'Etat relatif aux fonctions d'animation ;
 
-Certificat cadre infirmier ;
+- Certificat d'aptitude aux fonctions de directeur d'établissement social ;
 
-Certificat cadre infirmier de secteur psychiatrique ;
+- Diplôme d'Etat d'éducateur de jeunes enfants ;
 
-Certificat cadre sage-femme ;
+- Brevet de technicien supérieur d'économie sociale familiale ;
 
-Certificat de moniteur cadre de masso-kinésithérapie ;
+- Diplôme d'Etat de conseiller en économie sociale familiale ;
 
-Certificat de moniteur cadre d'ergothérapie ;
+- Diplôme supérieur en travail social ;
 
-Certificat cadre de laboratoire d'analyses de biologie médicale ;
+- diplôme de cadre de santé ;
 
-Certificat cadre manipulateur d'électroradiologie médicale ;
+- diplôme de cadre sage-femme ;
 
-Certificat d'aptitude aux fonctions d'aide médico-psychologique ;
+- diplôme d'Etat d'infirmier anesthésiste ;
 
-Diplôme d'Etat d'assistant de service social ;
+- diplôme d'Etat d'infirmier de bloc opératoire ;
 
-Certificat d'aptitude aux fonctions de moniteur éducateur ;
+- diplôme de préparateur en pharmacie hospitalière ;
 
-Certificat d'aptitude aux fonctions d'éducateur technique spécialisé ;
+- diplôme professionnel d'aide-soignant ;
 
-Diplôme d'Etat d'éducateur spécialisé ;
+- diplôme professionnel d'auxiliaire de puériculture ;
 
-Diplôme d'Etat relatif aux fonctions d'animation ;
+- diplôme d'Etat d'aide médico-psychologique ;
 
-Certificat d'aptitude aux fonctions de directeur d'établissement social ;
+- certificat d'aptitude aux fonctions d'encadrement et de responsable d'unité d'intervention sociale ;
 
-Certificat de moniteur d'atelier ;
+- diplôme d'Etat d'éducateur technique spécialisé ;
 
-Diplôme d'Etat d'éducateur de jeunes enfants ;
-
-Brevet de technicien supérieur d'économie sociale familiale ;
-
-Diplôme d'Etat de conseiller en économie sociale familiale ;
-
-Diplôme supérieur en travail social.
+- brevet professionnel de la jeunesse, de l'éducation populaire et du sport.
