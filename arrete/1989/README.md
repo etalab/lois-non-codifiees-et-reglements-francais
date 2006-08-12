@@ -550,7 +550,6 @@
 - [Arrêté du 31 janvier 1989 (SPSH8900211A)](arrete-du-31-janvier-1989-spsh8900211a)
 - [Arrêté du 31 janvier 1989 (SPSS8900220A)](arrete-du-31-janvier-1989-spss8900220a)
 - [Arrêté du 31 janvier 1989 (TEFT8903125A)](arrete-du-31-janvier-1989-teft8903125a)
-- [Arrêté du 31 juillet 1989 (PRME8961362A)](arrete-du-31-juillet-1989-prme8961362a)
 - [Arrêté du 31 mars 1989 (EQUS8900310A)](arrete-du-31-mars-1989-equs8900310a)
 - [Arrêté du 31 mars 1989 (PTTT8900299A)](arrete-du-31-mars-1989-pttt8900299a)
 - [Arrêté du 31 mars 1989 (SPSH8900619A)](arrete-du-31-mars-1989-spsh8900619a)
