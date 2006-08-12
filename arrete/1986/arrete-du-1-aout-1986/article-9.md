@@ -8,4 +8,4 @@ L'emploi d'engins tels que pièges, cages, filets, lacets, hameçons, gluaux, na
 
 - pour la destruction des animaux nuisibles ;
 
-2° Par le préfet en application de l'article 11 du présent arrêté.
+2° (abrogé)
