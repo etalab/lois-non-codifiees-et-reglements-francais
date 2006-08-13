@@ -154,6 +154,7 @@
 - [Arrêté du 10 mai 2006 (AGRG0600966A)](arrete-du-10-mai-2006-agrg0600966a)
 - [Arrêté du 10 mai 2006 (MENE0601173A)](arrete-du-10-mai-2006-mene0601173a)
 - [Arrêté du 11 août 2006 (INDI0607717A)](arrete-du-11-aout-2006-indi0607717a)
+- [Arrêté du 11 août 2006 (INDI0607746A)](arrete-du-11-aout-2006-indi0607746a)
 - [Arrêté du 11 avril 2006 (BUDL0600038A)](arrete-du-11-avril-2006-budl0600038a)
 - [Arrêté du 11 avril 2006 (BUDL0600039A)](arrete-du-11-avril-2006-budl0600039a)
 - [Arrêté du 11 avril 2006 (ECOP0600123A)](arrete-du-11-avril-2006-ecop0600123a)
