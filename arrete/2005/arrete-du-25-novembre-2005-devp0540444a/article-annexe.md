@@ -45,3 +45,13 @@ Le plomb dans les composants électroniques en céramique (par exemple les dispo
 15. Le plomb dans les soudures comportant plus de deux éléments pour la connexion entre les broches et le boîtier de microprocesseurs, à teneur en plomb comprise entre 80 et 85 % en poids.
 
 16. Le plomb dans les soudures visant à réaliser une connexion électrique durable entre la puce et le substrat du semiconducteur dans les boîtiers de circuits intégrés à puce retournée.
+
+17. Le plomb contenu dans les lampes à incandescence de forme linéaire dont les tubes ont un revêtement de silicate.
+
+18. L'halogénure de plomb utilisé comme activateur de rayonnement dans les lampes à décharge à haute intensité destinées aux applications de reprographie professionnelle.
+
+19. Le plomb comme activateur dans la poudre fluorescente (maximum 1 % de plomb en poids) des lampes à décharge utilisées comme lampes de bronzage contenant des luminophores tels que BaSi2O5 : Pb (BSP) ou utilisées comme lampes spéciales pour la photochimie et de durcissement, contenant des luminophores tels que (Sr,Ba)2MgSi2O7 : Pb (SMS).
+
+20. Le plomb avec PbBiSn-Hg et PbInSn-Hg dans des compositions spécifiques comme amalgame principal et avec PbSn-Hg comme amalgame auxiliaire dans les lampes à économie d'énergie très compactes.
+
+21. L'oxyde de plomb dans le verre utilisé pour lier les substrats avant et arrière des lampes fluorescentes plates destinées aux écrans à cristaux liquides.
