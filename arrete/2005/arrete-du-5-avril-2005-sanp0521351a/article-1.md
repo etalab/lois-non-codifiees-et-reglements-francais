@@ -288,6 +288,8 @@ Service santé environnement, 4 ter, boulevard Alexandre-Oyon, quartier Novaxis,
 
 Service communal d'hygiène et de santé, immeuble Le Cristal, 1, place du Forum, Cambéry-le-Haut, 73000 Chambéry.
 
+Centre hospitalier de Chambéry, pavillon Sainte-Hélène, 5, rue Pierre-et-Marie-Curie, 73000 Chambéry.
+
 74 - Haute-Savoie
 
 Centre hospitalier, BP 2333, 1, avenue de Trésum, 74011 Annecy Cedex.
@@ -367,6 +369,8 @@ Centre hospitalier de Montauban, 100, rue Léon-Cladel, BP 765, 82013 Montauban 
 83 - Var
 
 Hôpital d'instruction des armées Sainte-Anne, 2, boulevard Sainte-Anne, BP 600, 83800 Toulon Naval.
+
+Centre hospitalier intercommunal de Toulon, service infectiologie (site de Chalucet), BP 1412, 83056 Toulon Cedex.
 
 84 - Vaucluse
 
