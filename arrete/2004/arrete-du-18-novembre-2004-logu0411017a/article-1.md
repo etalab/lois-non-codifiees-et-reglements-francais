@@ -102,7 +102,7 @@ c) Ascenseurs munis d'un parachute de cabine :
 
 - ou à prise instantanée, pour une vitesse nominale de l'ascenseur supérieure à 1 m/s, même piloté par un limiteur de vitesse ;
 
-d) Ascenseurs munis d'un parachute de cabine à prise instantanée se déclenchant à une vitesse supérieure à 1,15 m/s.
+d) Ascenseurs munis d'un parachute de cabine à prise instantanée se déclenchant à une vitesse supérieure à 140 % de la vitesse nominale de l'ascenseur ou supérieure à 1,30 m/s.
 
 Le propriétaire doit mettre en place :
 
@@ -116,9 +116,11 @@ Cas c : le parachute existant par un parachute approprié à la vitesse nominale
 
 Cas d :
 
-- le parachute existant par un parachute à effet amorti, approprié à la vitesse nominale de l'ascenseur ;
+- soit le parachute existant par un parachute à effet amorti, approprié à la vitesse nominale de l'ascenseur ;
 
-- le limiteur existant pour obtenir une vitesse d'enclenchement appropriée à la vitesse nominale de l'ascenseur et au maximum de 1,15 m/s.
+- soit le limiteur existant pour obtenir une vitesse d'enclenchement appropriée à la vitesse nominale de l'ascenseur et au maximum de 1,30 m/s pour un parachute à prise instantanée ;
+
+- soit les deux.
 
 Dans tous les cas, les composants (parachute, limiteur de vitesse) à mettre en place doivent avoir satisfait à des essais de type et être munis du marquage CE.
 
@@ -286,7 +288,7 @@ Le propriétaire doit mettre en place un système qui permette, en toutes circon
 
 2. Dispositif de protection contre la vitesse excessive de la cabine en montée pour un ascenseur électrique à adhérence
 
-Les ascenseurs concernés sont les ascenseurs électriques à adhérence, non munis d'un système de protection contre la vitesse excessive en montée de la cabine, et admettant une charge maximum supérieure à 300 kg.
+Les ascenseurs concernés sont les ascenseurs électriques à adhérence, non munis d'un système de protection contre la vitesse excessive en montée de la cabine, et admettant une charge maximum supérieure à 320 kg.
 
 Le dispositif à installer doit :
 

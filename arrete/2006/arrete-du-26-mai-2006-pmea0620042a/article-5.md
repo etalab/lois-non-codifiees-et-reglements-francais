@@ -1,6 +1,6 @@
 # Article 5
 
-La Commission nationale des entreprises du patrimoine vivant, prévue par l'article 4 du décret du 23 mai 2006 susvisé, comprend, outre son président :
+La Commission nationale des entreprises du patrimoine vivant, prévue par l'article 4 du décret du 23 mai 2006 susvisé, comprend :
 
 1° Un représentant du ministre chargé des petites et moyennes entreprises, du commerce et de l'artisanat ;
 

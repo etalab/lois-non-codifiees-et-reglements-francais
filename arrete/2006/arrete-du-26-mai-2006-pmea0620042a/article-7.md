@@ -6,7 +6,7 @@ Elle se réunit sur la convocation de son président ou du ministre chargé des 
 
 En cas d'absence du président, la commission est présidée par le membre représentant le ministre chargé des petites et moyennes entreprises, du commerce et de l'artisanat.
 
-Huit jours avant la réunion, les membres titulaires et suppléants de la commission reçoivent l'ordre du jour, accompagné des rapports d'instruction de l'Institut supérieur des métiers incluant les avis des directions régionales du commerce et de l'artisanat et des chambres consulaires.
+Huit jours avant la réunion, les membres titulaires et suppléants de la commission reçoivent l'ordre du jour et les dossiers de candidature accompagnés du rapport d'instruction établi par le rapporteur spécial et des réponses des organismes sollicités pour avis.
 
 La commission ne peut valablement prononcer d'avis qu'en présence d'au moins la majorité de ses membres titulaires ou suppléants. Les avis sont émis à la majorité des membres présents ou représentés.
 

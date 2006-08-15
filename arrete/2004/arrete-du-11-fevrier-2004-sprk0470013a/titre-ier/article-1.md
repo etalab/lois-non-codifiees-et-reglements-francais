@@ -16,4 +16,20 @@ Chez les sportifs licenciés ayant un handicap physique ou mental ne permettant 
 
 6. Un examen dentaire certifié par un spécialiste.
 
-Les examens ci-dessus doivent être réalisés dans les trois mois qui précèdent l'inscription sur la liste des sportifs de haut niveau ou sur la liste des sportifs Espoirs.
+7. Un examen par imagerie par résonance magnétique du rachis cervical, dans le but de dépister un canal cervical étroit, pour les disciplines suivantes :
+
+- football américain ;
+
+- plongeon de haut vol ;
+
+- rugby à XV (uniquement pour les postes de première ligne à partir de 16 ans) ;
+
+- rugby à XIII (uniquement pour les postes de première ligne).
+
+Une information des sportifs est à prévoir lors de l'examen médical quant au risque de développer ou d'aggraver (si préexistant) :
+
+- un canal cervical étroit lors de la pratique des disciplines citées au précédent alinéa ;
+
+- des pathologies du rachis lombaire, notamment une lyse isthmique avec ou sans spondylolisthésis lors de la pratique de certaines disciplines.
+
+Les examens ci-dessus doivent être réalisés dans les six mois qui précèdent la première inscription sur la liste des sportifs de haut niveau ou sur la liste des sportifs Espoirs.

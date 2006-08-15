@@ -12,4 +12,4 @@ Le contrôleur technique remet au propriétaire de l'ascenseur, conformément à
 
 - un récapitulatif des observations et anomalies auxquelles il doit être remédié, notamment les défauts qui présentent un danger pour la sécurité des personnes, et indiquant l'état de conservation et l'état de fonctionnement des dispositifs de sécurité observés ;
 
-- une mention indiquant en fin de rapport que l'appareil est "conforme" ou "non conforme", selon le cas, aux articles R. 125-1-2, R. 125-1-3 et R. 125-1-4 du code de la construction et de l'habitation ou au décret du 24 août 2000 susvisé.
+- une mention indiquant en fin de rapport que l'appareil est "conforme" ou "non conforme" selon le cas aux exigences et aux délais prévus aux articles R. 125-1-2, R. 125-1-3 et R. 125-1-4 du code de la construction et de l'habitation et applicables à la date du contrôle ou aux exigences du décret n° 2000-810 du 24 août 2000 relatif à la mise sur le marché des ascenseurs.
