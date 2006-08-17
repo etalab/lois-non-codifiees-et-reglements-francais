@@ -90,6 +90,7 @@
 - [Arrêté du 6 mars 2006 (INTC0600166A)](arrete-du-6-mars-2006-intc0600166a)
 - [Arrêté du 6 mars 2006 (MCCB0600194A)](arrete-du-6-mars-2006-mccb0600194a)
 - [Arrêté du 6 mars 2006 (MENS0600741A)](arrete-du-6-mars-2006-mens0600741a)
+- [Arrêté du 7 août 2006 (INTD0600672A)](arrete-du-7-aout-2006-intd0600672a)
 - [Arrêté du 7 avril 2006 (DEFP0600196A)](arrete-du-7-avril-2006-defp0600196a)
 - [Arrêté du 7 avril 2006 (INTE0600343A)](arrete-du-7-avril-2006-inte0600343a)
 - [Arrêté du 7 avril 2006 (MJSK0670082A)](arrete-du-7-avril-2006-mjsk0670082a)
