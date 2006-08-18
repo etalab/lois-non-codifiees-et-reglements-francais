@@ -520,6 +520,7 @@
 - [Arrêté du 30 décembre 2005 (SANG0620155A)](arrete-du-30-decembre-2005-sang0620155a)
 - [Arrêté du 30 janvier 2006 (AGRP0600290A)](arrete-du-30-janvier-2006-agrp0600290a)
 - [Arrêté du 30 janvier 2006 (MCCB0600070A)](arrete-du-30-janvier-2006-mccb0600070a)
+- [Arrêté du 30 juillet 2006 (INTD0600664A)](arrete-du-30-juillet-2006-intd0600664a)
 - [Arrêté du 30 juin 2006 (INTA0600566A)](arrete-du-30-juin-2006-inta0600566a)
 - [Arrêté du 30 juin 2006 (INTA0600567A)](arrete-du-30-juin-2006-inta0600567a)
 - [Arrêté du 30 mars 2006 (DEFA0600400A)](arrete-du-30-mars-2006-defa0600400a)
