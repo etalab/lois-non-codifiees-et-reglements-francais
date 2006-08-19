@@ -1,11 +1,9 @@
 # Article 3
 
-Le titre professionnel de technicien aménagement finitions est composé de trois unités constitutives dont la liste suit :
+Le titre professionnel de technicien(ne) de chantier aménagement-finitions est composé des deux unités constitutives dont la liste suit :
 
-1. Participer à la réalisation des études d'aménagement finitions pour un chantier ;
+1. Préparer des chantiers de travaux d'aménagement-finitions ;
 
-2. Préparer la réalisation de travaux d'aménagement finitions pour un chantier ;
+2. Conduire la réalisation de chantier d'aménagement-finitions.
 
-3. Conduire l'exécution de travaux d'aménagement finitions sur un chantier.
-
-Elles peuvent être sanctionnées par des certificats de compétences professionnelles (CCP) dans les conditions prévues par l'arrêté du 25 novembre 2002 susvisé.
+Elles peuvent être sanctionnées par des certificats de compétences professionnelles (CCP) dans les conditions prévues par l'arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.
