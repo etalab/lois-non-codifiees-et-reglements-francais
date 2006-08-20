@@ -1,5 +1,7 @@
 # Article 28
 
+Les programmes de présentation doivent respecter les disposition suivantes :
+
 Aucun décollage ou atterrissage ne peut s'effectuer en direction des spectateurs. Le survol du public est interdit.
 
 Toute trajectoire doit comporter une marge suffisante pour ne conduire en aucun cas à un survol du public.
@@ -10,12 +12,14 @@ La hauteur minimale de présentation est relevée à 150 mètres pour les appare
 
 Les manoeuvres à forte incidence ne peuvent être réalisées à une hauteur inférieure à 300 mètres.
 
-Toutefois, une hauteur minimale particulière est fixée par le directeur des vols pour certains appareils au domaine de vol particulier évoluant dans le cadre de leur emploi normal, notamment les appareils agricoles, les appareils à décollage vertical ou les hélicoptères. Le directeur des vols fixe cette hauteur minimale en fonction des caractéristiques des appareils et définit les limites géographiques dans lesquelles elle est applicable.
+Toutefois, une hauteur minimale particulière est fixée par le directeur des vols pour certains appareils au domaine de vol particulier évoluant dans le cadre de leur emploi normal, notamment les appareils agricoles, les appareils à décollage vertical, les hélicoptères ou les aéronefs inhabités. Le directeur des vols fixe cette hauteur minimale en fonction des caractéristiques des appareils et définit les limites géographiques dans lesquelles elle est applicable.
 
-Dans l'aire de présentation, la hauteur minimale de survol des agglomérations est fixée à :
+Dans l'aire de présentation, la hauteur minimale de survol des agglomérations, hormis les phases de décollage et d'atterrissage, est fixée à :
 
 a) 300 mètres pour les agglomérations situées à moins de 2 000 mètres de la piste 03-21 ;
 
 b) 450 mètres au-delà.
 
 Dans tous les cas, le directeur des vols peut imposer des hauteurs minimales supérieures à celles indiquées ci-dessus.
+
+Des aires de recueil sont prévues dans l'enceinte de l'aérodrome du Bourget, afin d'assurer la récupération des aéronefs inhabités.

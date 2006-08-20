@@ -2,7 +2,7 @@
 
 I. - Pour les vols visés à l'article 3, le directeur des vols :
 
-a) Vérifie, en liaison avec l'organisateur et le représentant local des opérations aériennes de l'établissement public Aéroports de Paris, l'adéquation de chacune des présentations prévues aux contraintes aéronautiques locales ;
+a) Vérifie, en liaison avec l'organisateur et le représentant de la direction des services de la navigation aérienne, l'adéquation de chacune des présentations prévues aux contraintes aéronautiques locales ;
 
 b) Participe, au sein du comité d'organisation et de coordination, à la validation du programme et des conditions d'exécution des vols ;
 
@@ -20,7 +20,7 @@ h) Organise, à l'issue de la période des répétitions en vol, une réunion ra
 
 i) Organise quotidiennement, avant le début des vols, une réunion rappelant les consignes du jour à laquelle participent les équipages concernés par ces vols ;
 
-j) Veille à ce que les vols se déroulent conformément aux programmes et dans le respect des dispositions imposées pour leur sécurité ; il assure une surveillance à vue permanente des décollages et des atterrissages, ainsi que des manoeuvres et évolutions résultant des activités aériennes définies à l'article 3 ; il peut être assisté par des pilotes qualifiés.
+j) Sans préjudice des responsabilités incombant aux services compétents de la direction générale de l'aviation civile dans les espaces aériens réservés aux présentations mentionnés à l'article 20, veille à ce que les vols se déroulent conformément aux programmes et dans le respect des dispositions imposées pour leur sécurité. Pour se faire, il assure une surveillance à vue permanente de l'ensemble de la présentation, ainsi que des évolutions résultants des activités définies à l'article 3. Il peut être assisté par des pilotes qualifiés ;
 
 II. - S'il estime que ces dispositions ne sont pas satisfaites, il peut intervenir à tout moment pendant les vols pour les interdire en partie ou en totalité, et notamment si :
 

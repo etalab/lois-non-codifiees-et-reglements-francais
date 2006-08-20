@@ -10,9 +10,9 @@ c) Deux représentants du ministre de la défense, dont l'un est désigné par l
 
 d) Un représentant du préfet de la Seine-Saint-Denis ;
 
-e) Un représentant du ministre chargé de l'aviation civile ;
+e) Deux représentants du ministre chargé de l'aviation civile ;
 
-f) Deux représentants de l'établissement public Aéroports de Paris ;
+f) Un représentant de la société anonyme Aéroports de Paris ;
 
 g) Le directeur des vols.
 

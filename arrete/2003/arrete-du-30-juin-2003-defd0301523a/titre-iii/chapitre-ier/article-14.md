@@ -4,7 +4,7 @@ L'exécution de la manifestation aérienne est placée sous l'autorité d'un dir
 
 Son autorité s'étend à tous les équipages civils et militaires participant au salon, quelle que soit leur nationalité.
 
-Le directeur des vols est un pilote d'essais d'avions, son adjoint est un pilote d'essais d'hélicoptères. Il en est de même de leurs suppléants respectifs.
+Le directeur des vols est un pilote d'essais d'avions. Ses adjoints ont la qualité de pilote d'essais d'hélicoptères et de pilote-opérateur d'aéronef inhabité. Il en est de même de leurs suppléants respectifs.
 
 Le directeur des vols, son adjoint et leurs suppléants sont choisis parmi les pilotes d'essais des services officiels ayant une grande expérience aéronautique.
 
