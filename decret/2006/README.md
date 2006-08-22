@@ -51,6 +51,7 @@
 - [Décret n°2006-1018 du 11 août 2006 (EQUT0600839D)](decret-n2006-1018-du-11-aout-2006-equt0600839d)
 - [Décret n°2006-1020 du 11 août 2006 (INDI0608018D)](decret-n2006-1020-du-11-aout-2006-indi0608018d)
 - [Décret n°2006-1021 du 11 août 2006 (MJSK0670176D)](decret-n2006-1021-du-11-aout-2006-mjsk0670176d)
+- [Décret n°86-68 du 13 janvier 1986](decret-n86-68-du-13-janvier-1986)
 - [Décret n°96-552 du 19 juin 1996 (ACVX9600061D)](decret-n96-552-du-19-juin-1996-acvx9600061d)
 - [Décret n°99-314 du 22 avril 1999 (DEFP9901093D)](decret-n99-314-du-22-avril-1999-defp9901093d)
 - [Décret n°92-1032 du 25 septembre 1992 (ACVA9210089D)](decret-n92-1032-du-25-septembre-1992-acva9210089d)
