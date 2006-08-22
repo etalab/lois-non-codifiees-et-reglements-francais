@@ -386,7 +386,6 @@
 - [Arrêté du 22 février 1984](arrete-du-22-fevrier-1984)
 - [Arrêté du 22 janvier 1987 (DEFD8701044A)](arrete-du-22-janvier-1987-defd8701044a)
 - [Arrêté du 22 juin 1989 (AGRS8901128A)](arrete-du-22-juin-1989-agrs8901128a)
-- [Arrêté du 22 juin 1989 (DEFD8901613A)](arrete-du-22-juin-1989-defd8901613a)
 - [Arrêté du 22 juin 1989 (DOME8900025A)](arrete-du-22-juin-1989-dome8900025a)
 - [Arrêté du 22 juin 1989 (RESY8900094A)](arrete-du-22-juin-1989-resy8900094a)
 - [Arrêté du 22 juin 1989 (SPSS8901296A)](arrete-du-22-juin-1989-spss8901296a)

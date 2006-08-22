@@ -230,7 +230,6 @@
 - [Décret n°2003-499 du 13 juin 2003 (SOCS0322096D)](decret-n2003-499-du-13-juin-2003-socs0322096d)
 - [Décret n°2003-980 du 13 octobre 2003 (INDI0320441D)](decret-n2003-980-du-13-octobre-2003-indi0320441d)
 - [Décret n°2003-981 du 13 octobre 2003 (INDI0320442D)](decret-n2003-981-du-13-octobre-2003-indi0320442d)
-- [Décret n°86-68 du 13 janvier 1986](decret-n86-68-du-13-janvier-1986)
 - [Décret n°95-1007 du 13 septembre 1995 (PRMX9500117D)](decret-n95-1007-du-13-septembre-1995-prmx9500117d)
 - [Décret n°2003-430 du 13 mai 2003 (MAEA0220667D)](decret-n2003-430-du-13-mai-2003-maea0220667d)
 - [Décret n°2003-432 du 13 mai 2003 (SANG0321114D)](decret-n2003-432-du-13-mai-2003-sang0321114d)
