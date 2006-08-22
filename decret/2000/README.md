@@ -90,6 +90,7 @@
 - [Décret n°99-1153 du 29 décembre 1999 (MAEA9920519D)](decret-n99-1153-du-29-decembre-1999-maea9920519d)
 - [Décret n°2000-456 du 29 mai 2000 (ECOX0004146D)](decret-n2000-456-du-29-mai-2000-ecox0004146d)
 - [Décret n°2000-465 du 29 mai 2000 (ECOI0000190D)](decret-n2000-465-du-29-mai-2000-ecoi0000190d)
+- [Décret n°2000-1068 du 30 octobre 2000 (FPPA0010019D)](decret-n2000-1068-du-30-octobre-2000-fppa0010019d)
 - [Décret n°2000-1159 du 30 novembre 2000 (MAEA0020385D)](decret-n2000-1159-du-30-novembre-2000-maea0020385d)
 - [Décret n°2000-286 du 30 mars 2000 (EQUX0000059D)](decret-n2000-286-du-30-mars-2000-equx0000059d)
 - [Décret n°2000-288 du 30 mars 2000 (DEFD0001377D)](decret-n2000-288-du-30-mars-2000-defd0001377d)
