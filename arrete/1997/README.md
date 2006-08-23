@@ -312,7 +312,6 @@
 - [Arrêté du 10 octobre 1997 (DEFD9701900A)](arrete-du-10-octobre-1997-defd9701900a)
 - [Arrêté du 10 octobre 1997 (DEFD9701901A)](arrete-du-10-octobre-1997-defd9701901a)
 - [Arrêté du 10 octobre 1997 (MENL9702327A)](arrete-du-10-octobre-1997-menl9702327a)
-- [Arrêté du 10 octobre 1997 (MEST9711459A)](arrete-du-10-octobre-1997-mest9711459a)
 - [Arrêté du 10 septembre 1997 (AGRA9701930A)](arrete-du-10-septembre-1997-agra9701930a)
 - [Arrêté du 10 septembre 1997 (ECOI9700372A)](arrete-du-10-septembre-1997-ecoi9700372a)
 - [Arrêté du 10 septembre 1997 (ECOI9700432A)](arrete-du-10-septembre-1997-ecoi9700432a)

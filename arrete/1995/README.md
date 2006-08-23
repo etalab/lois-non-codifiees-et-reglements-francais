@@ -11,8 +11,6 @@
 - [Arrêté du 1 février 1995 (MJSK9570013A)](arrete-du-1-fevrier-1995-mjsk9570013a)
 - [Arrêté du 1 février 1995 (SANH9500459A)](arrete-du-1-fevrier-1995-sanh9500459a)
 - [Arrêté du 1 février 1995 (SANH9500460A)](arrete-du-1-fevrier-1995-sanh9500460a)
-- [Arrêté du 1 février 1995 (TEFT9500164A)](arrete-du-1-fevrier-1995-teft9500164a)
-- [Arrêté du 1 février 1995 (TEFT9500165A)](arrete-du-1-fevrier-1995-teft9500165a)
 - [Arrêté du 1 juillet 1995 (AGRH9501423A)](arrete-du-1-juillet-1995-agrh9501423a)
 - [Arrêté du 1 juillet 1995 (AGRH9501424A)](arrete-du-1-juillet-1995-agrh9501424a)
 - [Arrêté du 1 mars 1995 (SANP9500716A)](arrete-du-1-mars-1995-sanp9500716a)

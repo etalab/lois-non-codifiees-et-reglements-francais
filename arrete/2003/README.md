@@ -145,7 +145,6 @@
 - [Arrêté du 4 mars 2003 (MCCB0300226A)](arrete-du-4-mars-2003-mccb0300226a)
 - [Arrêté du 4 mars 2003 (SANS0320810A)](arrete-du-4-mars-2003-sans0320810a)
 - [Arrêté du 4 novembre 2003 (DEVN0320371A)](arrete-du-4-novembre-2003-devn0320371a)
-- [Arrêté du 4 novembre 2003 (INTC0300675A)](arrete-du-4-novembre-2003-intc0300675a)
 - [Arrêté du 4 novembre 2003 (JUSF0350134A)](arrete-du-4-novembre-2003-jusf0350134a)
 - [Arrêté du 4 septembre 2003 (EQUS0301270A)](arrete-du-4-septembre-2003-equs0301270a)
 - [Arrêté du 4 septembre 2003 (SANH0322616A)](arrete-du-4-septembre-2003-sanh0322616a)
