@@ -179,7 +179,6 @@
 - [Décret n°92-422 du 4 mai 1992 (MAEJ9230021D)](decret-n92-422-du-4-mai-1992-maej9230021d)
 - [Décret n°92-423 du 4 mai 1992 (MAEJ9230020D)](decret-n92-423-du-4-mai-1992-maej9230020d)
 - [Décret n°92-424 du 4 mai 1992 (MAEJ9230018D)](decret-n92-424-du-4-mai-1992-maej9230018d)
-- [Décret n°82-945 du 5 novembre 1982](decret-n82-945-du-5-novembre-1982)
 - [Décret n°86-1262 du 5 décembre 1986](decret-n86-1262-du-5-decembre-1986)
 - [Décret n°90-1087 du 5 décembre 1990 (EQUX9000144D)](decret-n90-1087-du-5-decembre-1990-equx9000144d)
 - [Décret n°92-117 du 5 février 1992 (TEFX9210023D)](decret-n92-117-du-5-fevrier-1992-tefx9210023d)

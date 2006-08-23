@@ -36,7 +36,7 @@ a) Le directeur général du Centre d'analyse stratégique ;
 
 b) Le délégué général à l'emploi et à la formation professionnelle ;
 
-c) Le directeur des relations du travail ;
+c) Le directeur général du travail ;
 
 d) Le directeur du budget ;
 

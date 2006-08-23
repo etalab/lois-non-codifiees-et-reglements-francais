@@ -1,4 +1,4 @@
-# Arrêté du 18 octobre 1985 portant création de la commission de l'informatique et de la bureautique du ministère de l'environnement.
+# Arrêté du 18 octobre 1985 fixant une date limite d'utilisation et définissant les conditions d'utilisation de deux appareils portatifs de radiographie gamma industrielle (marque CGR ou HBS, modèles GAM 80, GAM 120)
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

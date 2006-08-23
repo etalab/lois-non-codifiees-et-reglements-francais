@@ -4,7 +4,7 @@ La commission de toxicovigilance est composée comme suit :
 
 Le directeur général de la santé ou son représentant.
 
-Vingt-deux membres nommés pour trois ans [*durée du mandat*] par arrêté du ministre chargé de la santé en raison de leur compétence :
+Vingt-deux membres nommés pour trois ans par arrêté du ministre chargé de la santé en raison de leur compétence :
 
 - huit toxicologues cliniciens ;
 
@@ -26,11 +26,11 @@ Vingt-deux membres nommés pour trois ans [*durée du mandat*] par arrêté du m
 
 - deux spécialistes des effets à long terme des produits chimiques.
 
-Sept membres nommés pour trois ans [*durée du mandat*] par arrêté du ministre chargé de la santé sur proposition :
+Sept membres nommés pour trois ans par arrêté du ministre chargé de la santé sur proposition :
 
 - du directeur de la pharmacie et du médicament ;
 
-- du directeur des relations du travail au ministère des affaires sociales et de l'emploi ;
+- du directeur général du travail au ministère des affaires sociales et de l'emploi ;
 
 - du directeur général de la concurrence, de la consommation et de la répression des fraudes au ministère de l'économie, des finances et de la privatisation ;
 

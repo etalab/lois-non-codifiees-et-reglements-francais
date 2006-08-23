@@ -1,6 +1,6 @@
 # Article 2
 
-I. - Le ministre du travail, du dialogue social et de la participation a autorité sur les services qui relèvent de ses attributions, et notamment la direction des relations du travail, la délégation à l'emploi, la délégation à la formation professionnelle, la direction de l'administration générale et de la modernisation des services et la direction de l'animation, de la recherche, des études et des statistiques.
+I. - Le ministre du travail, du dialogue social et de la participation a autorité sur les services qui relèvent de ses attributions, et notamment la direction générale du travail, la délégation à l'emploi, la délégation à la formation professionnelle, la direction de l'administration générale et de la modernisation des services et la direction de l'animation, de la recherche, des études et des statistiques.
 
 II. - Conjointement avec le ministre de la santé publique et de l'assurance maladie, le ministre chargé de l'intégration et de la lutte contre l'exclusion et le ministre de la solidarité entre les générations, le ministre du travail, du dialogue social et de la participation a autorité sur l'inspection générale des affaires sociales et sur la division des relations internationales.
 

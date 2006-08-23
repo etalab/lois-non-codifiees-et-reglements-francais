@@ -12,7 +12,7 @@ b) De membres de droit :
 
 - le délégué à la formation professionnelle ou son représentant ;
 
-- le directeur des relations du travail ou son représentant ;
+- le directeur général du travail ou son représentant ;
 
 - le directeur de l'administration générale et de la modernisation des services ou son représentant ;
 

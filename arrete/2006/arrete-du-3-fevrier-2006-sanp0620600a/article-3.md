@@ -10,7 +10,7 @@ Sont membres de droit du Comité national d'élaboration du programme de lutte c
 
 - le directeur de la population et des migrations ou son représentant ;
 
-- le directeur des relations du travail ou son représentant ;
+- le directeur général du travail ou son représentant ;
 
 - le directeur de la recherche, des études, de l'évaluation et des statistiques ou son représentant ;
 

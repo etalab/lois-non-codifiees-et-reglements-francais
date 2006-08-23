@@ -6,7 +6,7 @@ Le jury visé aux articles 9 et 10 ci-dessus est constitué comme suit :
 
 Le délégué à l'emploi ou son représentant ;
 
-Le directeur des relations du travail ou son représentant ;
+Le directeur général du travail ou son représentant ;
 
 Le délégué à la formation professionnelle ou son représentant ;
 

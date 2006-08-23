@@ -6,7 +6,7 @@ Les membres de droit sont :
 
 Ministère de l'industrie et du commerce extérieur :
 
-- le directeur de l'action régionale et de la petite et moyenne industrie ;
+- le directeur du commerce, de l'artisanat, des services et des professions libérales ;
 
 - le directeur des hydrocarbures ;
 
@@ -16,9 +16,11 @@ Ministère de l'industrie et du commerce extérieur :
 
 Ministère de l'environnement :
 
-- le directeur de la prévention des pollutions et des risques ;    Ministère du travail, de l'emploi et de la formation professionnelle :
+- le directeur de la prévention des pollutions et des risques ;
 
-- le directeur des relations du travail ;
+Ministère du travail, de l'emploi et de la formation professionnelle :
+
+- le directeur général du travail ;
 
 Organismes agréés pour l'application des articles 6 et 7 du décret du 17 juillet 1978 susvisé :
 
@@ -44,4 +46,4 @@ Les membres nommés par arrêté sont :
 
 Le président de la commission est désigné par le ministre de l'industrie et du commerce extérieur.
 
-Le secrétariat de la commission est assuré par la direction de l'action régionale et de la petite et moyenne industrie.
+Le secrétariat de la commission est assuré par la direction du commerce, de l'artisanat, des services et des professions libérales.

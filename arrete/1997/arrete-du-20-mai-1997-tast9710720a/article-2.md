@@ -8,7 +8,7 @@ Le représentant de l'Académie française ;
 
 2° Le délégué général à l'emploi et à la formation professionnelle ou son représentant ;
 
-Le directeur des relations du travail ou son représentant ;
+Le directeur général du travail ou son représentant ;
 
 Le directeur de l'animation de la recherche, des études et des statistiques ou son représentant ;
 

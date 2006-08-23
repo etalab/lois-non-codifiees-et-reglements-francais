@@ -58,7 +58,7 @@ Le chef du service des biens de consommation à la direction générale des stra
 
 Ministère chargé du travail.
 
-Le directeur des relations du travail.
+Le directeur général du travail.
 
 Représentants des organisations professionnelles :
 

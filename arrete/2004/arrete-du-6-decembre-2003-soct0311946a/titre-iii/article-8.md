@@ -1,6 +1,6 @@
 # Article 8
 
-I. - Le dossier de demande d'agrément est déposé à la direction des relations du travail chaque année entre le 1er septembre et le 31 octobre, pour effet au 1er janvier suivant.
+I. - Le dossier de demande d'agrément est déposé à la direction générale du travail chaque année entre le 1er septembre et le 31 octobre, pour effet au 1er janvier suivant.
 
 Le dossier de demande d'agrément comprend les pièces suivantes :
 

@@ -8,7 +8,7 @@ Le directeur général des collectivités locales représentant le ministre de l
 
 Le directeur du budget représentant le ministre chargé du budget ;
 
-Le directeur des relations du travail représentant la ministre chargée du travail et de l'emploi ;
+Le directeur général du travail représentant la ministre chargée du travail et de l'emploi ;
 
 Le directeur de la sécurité sociale représentant la ministre chargée de la sécurité sociale ;
 

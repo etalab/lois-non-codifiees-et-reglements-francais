@@ -20,7 +20,7 @@ La composition de la formation spécialisée Services centraux est fixée comme 
 
 - le directeur de la sécurité sociale ou son représentant ;
 
-- le directeur des relations du travail ou son représentant ;
+- le directeur général du travail ou son représentant ;
 
 - le directeur général du Laboratoire national de la santé ou son représentant ;
 

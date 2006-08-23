@@ -1,6 +1,6 @@
 # Article 2
 
-I. - Le ministre de l'emploi, du travail et de la cohésion sociale a autorité sur la délégation générale à l'emploi et à la formation professionnelle, la direction des relations du travail, la direction de la population et des migrations, la direction de l'administration générale et de la modernisation des services, la direction de l'animation de la recherche, des études et des statistiques, la délégation interministérielle à la lutte contre le travail illégal, et la délégation interministérielle à la ville et au développement social urbain.
+I. - Le ministre de l'emploi, du travail et de la cohésion sociale a autorité sur la délégation générale à l'emploi et à la formation professionnelle, la direction générale du travail, la direction de la population et des migrations, la direction de l'administration générale et de la modernisation des services, la direction de l'animation de la recherche, des études et des statistiques, la délégation interministérielle à la lutte contre le travail illégal, et la délégation interministérielle à la ville et au développement social urbain.
 
 II. - Conjointement avec le ministre de la santé et de la protection sociale, il a autorité sur la direction de la recherche, des études, de l'évaluation et des statistiques.
 

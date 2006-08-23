@@ -14,7 +14,7 @@ Le directeur de l'expertise technique.
 
 Au titre du ministère chargé du travail :
 
-Le directeur des relations du travail.
+Le directeur général du travail.
 
 Au titre du ministère chargé de l'intérieur :
 

@@ -4,7 +4,7 @@ La permanence et la coordination des travaux du conseil national sont assurés p
 
 a) Le directeur de la musique, de la danse, du théâtre et des spectacles au ministère chargé de la culture, ou son représentant ;
 
-b) Le directeur des relations du travail au ministère chargé du travail et de l'emploi, ou son représentant ;
+b) Le directeur général du travail au ministère chargé du travail et de l'emploi, ou son représentant ;
 
 c) Le directeur de la sécurité sociale au ministère chargé de la sécurité sociale, ou son représentant ;
 

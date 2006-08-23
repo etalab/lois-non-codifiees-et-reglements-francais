@@ -60,6 +60,7 @@
 - [Décret du 12 novembre 2002 (AGRP0201430D)](decret-du-12-novembre-2002-agrp0201430d)
 - [Décret n° 70-738 du 12 août 1970](decret-n-70-738-du-12-aout-1970)
 - [Décret n°2002-1161 du 12 septembre 2002 (AGRB0201501D)](decret-n2002-1161-du-12-septembre-2002-agrb0201501d)
+- [Décret n°2002-976 du 12 juillet 2002 (SOCX0200111D)](decret-n2002-976-du-12-juillet-2002-socx0200111d)
 - [Décret n°2002-348 du 13 mars 2002 (FPPA0210003D)](decret-n2002-348-du-13-mars-2002-fppa0210003d)
 - [Décret n°79-979 du 13 novembre 1979](decret-n79-979-du-13-novembre-1979)
 - [Décret n°95-402 du 13 avril 1995 (SPSS9403399D)](decret-n95-402-du-13-avril-1995-spss9403399d)

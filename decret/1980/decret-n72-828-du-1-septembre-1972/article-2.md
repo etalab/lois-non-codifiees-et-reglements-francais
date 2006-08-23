@@ -4,4 +4,4 @@ La commission, lorsqu'elle est saisie par le préfet dans le cas prévu à l'art
 
 La commission, lorsqu'elle est saisie par le ministre chargé de l'industrie, transmet son avis au ministre chargé de l'industrie, qui le communique à l'autorité ou à l'organisme demandeur.
 
-Les services du ministère chargé du travail (direction des relations du travail) communiquent à la commission les éléments d'information résultant des dossiers des accidents provoqués par l'emploi, le transport ou la manipulation de substances explosives.
+Les services du ministère chargé du travail (direction générale du travail) communiquent à la commission les éléments d'information résultant des dossiers des accidents provoqués par l'emploi, le transport ou la manipulation de substances explosives.

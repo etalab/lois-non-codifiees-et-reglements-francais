@@ -1,5 +1,6 @@
-# Arrêté du 20 septembre 1979 DEFINISSANT LES PREPARATIONS DONT LA DECLARATION S'IMPOSE EN APPLICATION DE L'ARTICLE R. 231-51 DU CODE DU TRAVAIL.
+# Arrêté du 20 septembre 1979 concernant les informations et résultats d'essais à fournir pour toute substance chimique mise pour la première fois sur le marché
 
+- [Article 1](article-1.md)
 - [Section I : De l'identité de la substance](section-i)
 - [Section II : des propriétés de la substance](section-ii)
 - [Section III : des essais de toxicité aiguë et subaiguë, d'action corrosive et irritante,  de mutagenèse à court terme](section-iii)

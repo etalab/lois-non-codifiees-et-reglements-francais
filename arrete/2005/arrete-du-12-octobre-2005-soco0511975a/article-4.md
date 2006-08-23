@@ -12,7 +12,7 @@ Il est en charge des questions européennes, suit les questions internationales 
 
 Pour ce faire :
 
-- il coordonne les relations des services de la délégation générale avec les services déconcentrés et définit les actions d'animation de ces services en relation avec les unités de la délégation générale et en coordination avec la direction des relations du travail (DRT), la DAGEMO, la DARES et l'Institut national du travail, de l'emploi et de la formation professionnel (INTEFP) ;
+- il coordonne les relations des services de la délégation générale avec les services déconcentrés et définit les actions d'animation de ces services en relation avec les unités de la délégation générale et en coordination avec la direction générale du travail (DRT), la DAGEMO, la DARES et l'Institut national du travail, de l'emploi et de la formation professionnelle (INTEFP) ;
 
 - il appuie la construction de partenariats entre les services de l'Etat et les collectivités territoriales ;
 
@@ -74,7 +74,7 @@ Elle représente le ministère chargé de l'emploi au Conseil national de la for
 
 - la mission du Fonds national de l'emploi.
 
-Elle est chargée de concevoir et de veiller à la mise en oeuvre des politiques de maintien et de développement de l'emploi dans les branches, les entreprises et les territoires. Elle encourage le développement du dialogue social dans ce domaine dans le cadre de l'appui à la négociation collective mis en oeuvre par la direction des relations du travail.
+Elle est chargée de concevoir et de veiller à la mise en oeuvre des politiques de maintien et de développement de l'emploi dans les branches, les entreprises et les territoires. Elle encourage le développement du dialogue social dans ce domaine dans le cadre de l'appui à la négociation collective mis en oeuvre par la direction générale du travail.
 
 Elle aide les branches et les entreprises à mieux anticiper et gérer les effets des mutations économiques, démographiques et technologiques. Dans ce cadre, elle assure le déploiement des démarches de gestion prévisionnelle de l'emploi et des compétences en liaison avec la sous-direction des politiques de formation et du contrôle et favorise la création, la reprise et la transmission d'entreprise.
 
@@ -84,7 +84,7 @@ Elle participe aux instances interministérielles compétentes en matière de re
 
 Elle conçoit, met en oeuvre et suit les différentes interventions de l'Etat pour prévenir ou accompagner les restructurations.
 
-Avec la direction des relations du travail, elle élabore et assure le suivi de la réglementation relative au licenciement pour motif économique et aux nouvelles formes d'emploi.
+Avec la direction générale du travail, elle élabore et assure le suivi de la réglementation relative au licenciement pour motif économique et aux nouvelles formes d'emploi.
 
 En lien avec le SGAE, elle participe à la définition de la réglementation communautaire en matière d'aides publiques aux entreprises et à la notification de ces aides à la Commission européenne.
 

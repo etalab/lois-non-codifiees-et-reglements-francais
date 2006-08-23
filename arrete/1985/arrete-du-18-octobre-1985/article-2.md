@@ -1,3 +1,7 @@
 # Article 2
 
-La commission de l'informatique et de la bureautique a compétence pour l'ensemble des services centraux et extérieurs du ministère de l'environnement, pour les établissements publics autres que ceux dotés du caractère industriel et commercial et pour les entreprises et organismes placés sous la tutelle du département et dont la liste sera définie par arrêté.
+Les projecteurs de ces appareils doivent, pour être utilisés, présenter, à la date du premier rechargement suivant la publication du présent arrêté, les aménagements de sécurité ci-après :
+
+- la fixation de chaque flasque doit comprendre au moins une vis à tête spéciale pour éviter tout démontage autre que ceux effectués par un technicien autorisé ;
+
+- pour utilisation après le 31 décembre 1987, le sélecteur de mode de fermeture de l'obturateur doit être supprimé : la possibilité de fermeture provoquée manuellement doit être exclue, la fermeture automatique à la rentrée de la source étant seule conservée.

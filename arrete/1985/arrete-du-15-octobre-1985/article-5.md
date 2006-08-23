@@ -1,3 +1,3 @@
 # Article 5
 
-Le conseil spécialisé de l'économie cidricole se réunit sur convocation de son président. La convocation du conseil spécialisé est de droit si elle est demandée par la moitié de ses membres ou par le ministre chargé de l'agriculture.
+Le directeur général du travail est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française et entrera en vigueur dès sa publication.

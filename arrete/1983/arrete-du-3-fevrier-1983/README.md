@@ -1,5 +1,7 @@
-# Arrêté du 3 février 1983 concernant l'agrément de personnes et d'organismes habilités à procéder à des mesures ayant pour objet de déterminer la teneur en oxyde de carbone et en benzène dans l'atmosphère des ateliers.
+# Arrêté du 3 février 1983 portant agrément de personnes et d'organismes chargés des mesures d'intensité globale et d'analyses spectrales des bruits en milieu de travail.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
 - [Article 3](article-3.md)
+- [Article 4](article-4.md)
+- [Article 5](article-5.md)

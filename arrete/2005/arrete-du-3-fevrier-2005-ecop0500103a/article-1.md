@@ -8,6 +8,6 @@ La commission interministérielle prévue à l'article 6 du décret du 9 août 1
 
 - le directeur du budget ou son représentant ;
 
-- le directeur des relations du travail ou son représentant ;
+- le directeur général du travail ou son représentant ;
 
 - le directeur, ou son représentant, de chacun des services en charge de la tutelle technique des organismes contrôlés en vertu du décret du 9 août 1953 modifié susvisé.

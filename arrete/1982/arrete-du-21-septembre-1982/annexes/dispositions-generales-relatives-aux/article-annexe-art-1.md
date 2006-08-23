@@ -1,0 +1,3 @@
+# Article Annexe art. 1
+
+En complément des mesures réglementaires de prévention et de salubrité en vigueur et de celles qui pourraient être imposées par l'armateur ou le commandant du port, les chefs des entreprises dont tout ou partie du personnel relève du régime général de la sécurité sociale et qui participent, dans les bassins à flot ou en cale sèche, à des travaux d'aménagement, d'entretien et de réparation des navires et bateaux contenant ou ayant contenu des liquides inflammables ou des gaz combustibles liquéfiés sont tenus de se conformer aux prescriptions édictées par les présentes dispositions générales.

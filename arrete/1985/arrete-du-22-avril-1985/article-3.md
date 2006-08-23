@@ -1,3 +1,3 @@
 # Article 3
 
-Le directeur du Trésor et le directeur général des collectivités locales sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+M. Jouvin (Bernard), conseiller d'Etat, est nommé président de la commission chargée de la modernisation du code du travail.

@@ -8,7 +8,7 @@ Le délégué à l'emploi ou son représentant ;
 
 Le délégué à la formation professionnelle ou son représentant ;
 
-Le directeur des relations du travail ou son représentant ;
+Le directeur général du travail ou son représentant ;
 
 Le chef du service des études et de la statistique ou son représentant ;
 

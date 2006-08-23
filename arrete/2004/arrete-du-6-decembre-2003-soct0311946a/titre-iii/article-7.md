@@ -14,4 +14,4 @@ II. - L'attestation d'accréditation est délivrée par le Comité français d'a
 
 L'attestation d'accréditation mentionne la ou les mesures pour lesquelles elle est délivrée.
 
-III. - L'organisme accréditeur informe le directeur des relations du travail de toute décision ou modification relatives à l'attestation d'accréditation délivrée.
+III. - L'organisme accréditeur informe le directeur général du travail de toute décision ou modification relatives à l'attestation d'accréditation délivrée.

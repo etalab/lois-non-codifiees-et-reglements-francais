@@ -2,7 +2,7 @@
 
 I. - Sont placés sous l'autorité du ministre du travail, de l'emploi et de la formation professionnelle :
 
-1° Les services qui relèvent de ses attributions, et notamment la direction des relations du travail, la direction de l'administration générale et de la modernisation des services, la délégation à l'emploi, la délégation à la formation professionnelle, le service des études et de la statistique, la délégation interministérielle à l'insertion professionnelle et sociale des jeunes en difficulté ;
+1° Les services qui relèvent de ses attributions, et notamment la direction générale du travail, la direction de l'administration générale et de la modernisation des services, la délégation à l'emploi, la délégation à la formation professionnelle, le service des études et de la statistique, la délégation interministérielle à l'insertion professionnelle et sociale des jeunes en difficulté ;
 
 2° Conjointement avec le ministre des affaires sociales et de l'intégration et le ministre de la santé et de l'action humanitaire, l'inspection générale des affaires sociales et la division des relations internationales.
 

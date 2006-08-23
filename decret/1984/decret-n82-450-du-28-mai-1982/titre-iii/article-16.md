@@ -12,7 +12,7 @@ Parmi les représentants de l'Administration, sont membres de droit :
 
 - le directeur du budget ou son représentant ;
 
-- le directeur des relations du travail ou son représentant ;
+- le directeur général du travail ou son représentant ;
 
 - le directeur général de la santé ou son représentant ;
 

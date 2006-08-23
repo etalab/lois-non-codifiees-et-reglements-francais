@@ -6,7 +6,7 @@ La composition de la formation spécialisée est fixée comme suit :
 
 - le délégué à l'emploi ou son représentant ;
 
-- le directeur des relations du travail ou son représentant ;
+- le directeur général du travail ou son représentant ;
 
 - le chef de service de la direction de l'administration générale, du personnel et du budget ou son représentant ;
 

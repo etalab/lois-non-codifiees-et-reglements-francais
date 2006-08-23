@@ -18,7 +18,7 @@ Ministère de l'équipement, des transports et du logement :
 
 - direction de la sécurité et de la circulation routière ;
 
-Ministère du travail, de l'emploi et de la formation professionnelle, direction des relations du travail ;
+Ministère du travail, de l'emploi et de la formation professionnelle, direction générale du travail ;
 
 Ministère des affaires sociales et de l'intégration, direction de la sécurité sociale ;
 

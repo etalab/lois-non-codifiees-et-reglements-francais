@@ -24,9 +24,9 @@ et à la formation professionnelle
 
 4° Le chef du département Fonds social européen et programmes communautaires.
 
-III. - A la direction des relations du travail
+III. - A la direction générale du travail
 
-1° Le directeur des relations du travail ;
+1° Le directeur général du travail ;
 
 2° Le chef de service.
 

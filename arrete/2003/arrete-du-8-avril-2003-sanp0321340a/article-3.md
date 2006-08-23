@@ -4,7 +4,7 @@ Sont membres de droit :
 
 Le président de la mission interministérielle de lutte contre la drogue et la toxicomanie ou son représentant ;
 
-Le directeur des relations du travail ou son représentant ;
+Le directeur général du travail ou son représentant ;
 
 Le directeur général de l'administration pénitentiaire ou son représentant ;
 

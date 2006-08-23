@@ -12,7 +12,7 @@ Le conseil d'administration du fonds d'indemnisation des victimes de l'amiante c
 
 - le directeur général de la santé ou son représentant ;
 
-- le directeur des relations du travail ou son représentant ;
+- le directeur général du travail ou son représentant ;
 
 2° Huit représentants des organisations siégeant à la commission des accidents du travail et des maladies professionnelles prévue à l'article L. 221-4 du code de la sécurité sociale, dont le président de celle-ci, proposés, à l'exception de ce dernier, par lesdites organisations :
 

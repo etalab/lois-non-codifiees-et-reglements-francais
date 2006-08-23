@@ -22,7 +22,7 @@ Le comité des directeurs des administrations centrales chargé de préparer les
 
 10. Le directeur de l'artisanat du ministère des entreprises et du développement économique, chargé des petites et moyennes entreprises et du commerce et de l'artisanat ;
 
-11. Le directeur des relations du travail du ministère du travail, de l'emploi et de la formation professionnelle ;
+11. Le directeur général du travail du ministère du travail, de l'emploi et de la formation professionnelle ;
 
 12. Le délégué au développement et aux formations du ministère de la culture et de la francophonie ;
 

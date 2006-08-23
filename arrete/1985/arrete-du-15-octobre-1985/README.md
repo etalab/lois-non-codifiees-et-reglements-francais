@@ -1,4 +1,4 @@
-# Arrêté du 15 octobre 1985 portant composition et mode de fonctionnement du conseil spécialisé de l'économie cidricole de l'office national interprofessionnel des vins
+# Arrêté du 15 octobre 1985 fixant une date limite d'utilisation et définissant les conditions d'utilisation d'un appareil portatif de radiographie gamma industrielle (marque Nuclear, modèle SU 100)
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

@@ -16,7 +16,7 @@ Peuvent seuls être destinataires de ces informations, dans la limite de leurs a
 
 - le délégué à la formation professionnelle ;
 
-- le directeur des relations du travail ;
+- le directeur général du travail ;
 
 - le directeur de l'administration générale et de la modernisation des services ;
 

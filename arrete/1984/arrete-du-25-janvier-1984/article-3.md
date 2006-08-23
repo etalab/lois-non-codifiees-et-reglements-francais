@@ -1,5 +1,11 @@
 # Article 3
 
-Les tarifs des honoraires des organismes mentionnés ci-dessus sont déposés au ministère du travail et de la participation, où ils peuvent être consultés par toute personne intéressée.
+Le bénéfice de l'agrément pour procéder à des mesures ayant pour objet de déterminer la teneur de l'air en oxyde de carbone et benzène est accordé aux organismes énumérés ci-après pour une durée de trois ans à compter du 1er janvier 1984 :
 
-Les organismes mentionnés ci-dessus devront fournir au ministère du travail et de la participation un rapport technique des mesures de bruit qu'ils auront effectués dans les conditions prévues au deuxième alinéa de l'article R. 232-9 du code du travail ainsi que la liste semestrielle des établissements dans lesquels de telles interventions auront eu lieu.
+Institut de médecine du travail de la région Nord (U.E.R. de médecine), place de Verdun, 59045 LILLE CEDEX.
+
+Laboratoire national d'essais, 1, rue, Gaston-Boissier, 75015 Paris.
+
+Centre d'étude nucléaire de Grenoble, avenue des Martyrs, 38041 GRENOBLE CEDEX.
+
+Laboratoire de médecine légale et toxicologie, institut universitaire de médecine du travail et d'ergonomie, faculté de médecine, domaine de la Merci, 38700 La Tronche.
