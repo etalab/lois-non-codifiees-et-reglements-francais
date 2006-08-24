@@ -68,6 +68,8 @@
 - [Décret n°2006-1034 du 21 août 2006 (INDI0608021D)](decret-n2006-1034-du-21-aout-2006-indi0608021d)
 - [Décret n°2006-1035 du 21 août 2006 (MENF0601881D)](decret-n2006-1035-du-21-aout-2006-menf0601881d)
 - [Décret n°2006-1033 du 22 août 2006 (SOCT0611444D)](decret-n2006-1033-du-22-aout-2006-soct0611444d)
+- [Décret n°2006-1036 du 22 août 2006 (INTB0600179D)](decret-n2006-1036-du-22-aout-2006-intb0600179d)
+- [Décret n°2006-1037 du 22 août 2006 (FPPA0600087D)](decret-n2006-1037-du-22-aout-2006-fppa0600087d)
 - [Décret n°99-314 du 22 avril 1999 (DEFP9901093D)](decret-n99-314-du-22-avril-1999-defp9901093d)
 - [Décret n°92-1032 du 25 septembre 1992 (ACVA9210089D)](decret-n92-1032-du-25-septembre-1992-acva9210089d)
 - [Décret n°93-714 du 27 mars 1993 (ACVE9250040D)](decret-n93-714-du-27-mars-1993-acve9250040d)

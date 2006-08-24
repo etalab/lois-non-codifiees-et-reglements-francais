@@ -8,7 +8,7 @@ Les candidats au concours d'accès aux cadres d'emplois des :
 
 - moniteurs-éducateurs territoriaux ;
 
-- agents sociaux territoriaux, pour le grade d'agent social qualifié de 2e classe ;
+- agents sociaux territoriaux, pour le grade d'agent social qualifié de 1re classe ;
 
 - agents territoriaux spécialisés des écoles maternelles ;
 
