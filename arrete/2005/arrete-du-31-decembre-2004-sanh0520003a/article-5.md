@@ -16,6 +16,8 @@ Il est constitué, sous la responsabilité du médecin visé à l'article 4, des
 
 Les variables suivantes sont ajoutées dans le RAPSS :
 
+- le résultat du groupage du RPSS ;
+
 - le délai entre la date de début de séquence et la date d'entrée dans le séjour ;
 
 - le délai entre la date de début de sous-séquence et la date de début de séquence ;
@@ -24,6 +26,6 @@ Les variables suivantes sont ajoutées dans le RAPSS :
 
 - le nombre de journées de la séquence ;
 
-- le nombre de journées de la sous-séquence
+- le nombre de journées de la sous-séquence ;
 
 - le mois et l'année de fin de sous-séquence.
