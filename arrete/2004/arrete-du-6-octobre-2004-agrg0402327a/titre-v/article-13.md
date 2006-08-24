@@ -1,6 +1,6 @@
 # Article 13
 
-Les détenteurs d'autorisations de mise sur le marché de produits visés à l'article 1er du présent arrêté déjà autorisés à utiliser la mention  emploi autorisé dans les jardins  disposent d'un délai de dix-huit mois à compter du 31 décembre 2004 pour :
+Les détenteurs d'autorisations de mise sur le marché de produits visés à l'article 1er du présent arrêté déjà autorisés à utiliser la mention emploi autorisé dans les jardins disposent d'un délai de vingt et un mois à compter du 31 décembre 2004 pour :
 
 a) Soit déposer un dossier complémentaire de réévaluation tenant compte des nouvelles exigences ;
 
