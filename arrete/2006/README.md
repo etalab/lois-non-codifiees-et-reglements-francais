@@ -282,8 +282,6 @@
 - [Arrêté du 17 mai 2006 (INTC0600384A)](arrete-du-17-mai-2006-intc0600384a)
 - [Arrêté du 17 mai 2006 (MAEA0620146A)](arrete-du-17-mai-2006-maea0620146a)
 - [Arrêté du 17 mai 2006 (MENA0601323A)](arrete-du-17-mai-2006-mena0601323a)
-- [Arrêté du 17 mai 2006 (SOCU0611042A)](arrete-du-17-mai-2006-socu0611042a)
-- [Arrêté du 17 mai 2006 (SOCU0611043A)](arrete-du-17-mai-2006-socu0611043a)
 - [Arrêté du 18 avril 2006 (SOC00610922A)](arrete-du-18-avril-2006-soc00610922a)
 - [Arrêté du 18 février 2006 (AGRX0600453A)](arrete-du-18-fevrier-2006-agrx0600453a)
 - [Arrêté du 18 juillet 2006 (AGRG0601441A)](arrete-du-18-juillet-2006-agrg0601441a)

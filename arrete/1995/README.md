@@ -427,7 +427,6 @@
 - [Arrêté du 10 janvier 1995 (BUDZ9500001A)](arrete-du-10-janvier-1995-budz9500001a)
 - [Arrêté du 10 juillet 1995 (EQUT9501096A)](arrete-du-10-juillet-1995-equt9501096a)
 - [Arrêté du 10 juillet 1995 (SANH9502225A)](arrete-du-10-juillet-1995-sanh9502225a)
-- [Arrêté du 10 mars 1995 (AGRE9500516A)](arrete-du-10-mars-1995-agre9500516a)
 - [Arrêté du 10 mars 1995 (AGRG9500552A)](arrete-du-10-mars-1995-agrg9500552a)
 - [Arrêté du 10 mars 1995 (DEFD9501296A)](arrete-du-10-mars-1995-defd9501296a)
 - [Arrêté du 10 mars 1995 (DEFP9501094A)](arrete-du-10-mars-1995-defp9501094a)

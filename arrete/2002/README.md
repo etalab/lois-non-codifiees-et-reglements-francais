@@ -675,7 +675,6 @@
 - [Arrêté du 25 avril 2002 (JUSB0210099A)](arrete-du-25-avril-2002-jusb0210099a)
 - [Arrêté du 25 avril 2002 (MENS0200982A)](arrete-du-25-avril-2002-mens0200982a)
 - [Arrêté du 25 avril 2002 (MENS0200983A)](arrete-du-25-avril-2002-mens0200983a)
-- [Arrêté du 25 avril 2002 (MENS0200984A)](arrete-du-25-avril-2002-mens0200984a)
 - [Arrêté du 25 avril 2002 (MESH0220701A)](arrete-du-25-avril-2002-mesh0220701a)
 - [Arrêté du 25 avril 2002 (MESO0210133A)](arrete-du-25-avril-2002-meso0210133a)
 - [Arrêté du 25 février 2002 (EQUA0200447A)](arrete-du-25-fevrier-2002-equa0200447a)

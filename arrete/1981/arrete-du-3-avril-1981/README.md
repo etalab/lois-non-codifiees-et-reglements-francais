@@ -1,4 +1,4 @@
-# Arrêté du 3 avril 1981 FIXANT LES PRESCRIPTIONS TECHNIQUES NECESSAIRES A L'APPLICATION DE CERTAINES DISPOSITIONS DU DECRET N° 81-172 DU 20 FEVRIER 1981 EN CE QUI CONCERNE LES MACHINES A RABOTER, A OUTIL ROTATIF, POUR LE TRAVAIL SUR UNE FACE DU BOIS, DU LIEGE ET AUTRES MATIERES SIMILAIRES.
+# Arrêté du 3 avril 1981 concernant l'extension à l'ensemble du territoire des dispositions générales visant à protéger les utilisateurs de tonneaux tournants dans les tanneries et les mégisseries.
 
 - [PRESCRIPTIONS TECHNIQUES CONCERNANT L'ARBRE PORTE-OUTILS ET LES LAMES DES MACHINES A RABOTER](prescriptions-techniques-concernant-l-arbre-porte-outils-et)
 - [GENERALITES.](generalites)

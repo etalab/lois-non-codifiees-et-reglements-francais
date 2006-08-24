@@ -1,4 +1,0 @@
-# COMMENTAIRE
-
-- [DANGER PRESENTE PAR LES DIFFERENTES MACHINES](danger-presente-par)
-- [TERMINOLOGIE](terminologie)

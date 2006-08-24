@@ -12,7 +12,6 @@
 - [Arrêté du 12 septembre 1960](arrete-du-12-septembre-1960)
 - [Arrêté du 17 décembre 1959](arrete-du-17-decembre-1959)
 - [Arrêté du 17 février 1960](arrete-du-17-fevrier-1960)
-- [Arrêté du 18 juillet 1958](arrete-du-18-juillet-1958)
 - [Arrêté du 19 juillet 1960](arrete-du-19-juillet-1960)
 - [Arrêté du 20 juillet 1960](arrete-du-20-juillet-1960)
 - [Arrêté du 21 décembre 1960](arrete-du-21-decembre-1960)
