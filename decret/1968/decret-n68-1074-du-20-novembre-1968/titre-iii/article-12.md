@@ -16,4 +16,12 @@ Il nomme et administre le personnel, sur lequel il exerce le pouvoir disciplinai
 
 Il dresse chaque année un support sur le fonctionnement du musée qui est soumis au conseil d'administration et adressé au ministre des armées.
 
-En cas d'absence ou d'empêchement, le directeur remplacé par un conservateur qu'il désigne.
+Le directeur est assisté par un directeur adjoint et un secrétaire général.
+
+Le directeur adjoint et le secrétaire général sont nommés par arrêté du ministre de la défense sur proposition du directeur du musée de l'armée.
+
+Le directeur adjoint remplace le directeur, en cas d'absence ou d'empêchement de ce dernier.
+
+Le secrétaire général est responsable, sous l'autorité du directeur, de la gestion administrative et financière de l'établissement.
+
+Le directeur peut leur déléguer sa signature pour accomplir en son nom des actes relatifs à certaines de ses attributions.

@@ -6,7 +6,7 @@ Le président est tenu de convoquer le conseil si le ministre des armées ou la 
 
 Le conseil ne peut délibérer valablement que si la moitié au moins de ses membres sont présents.
 
-Les décisions sont prises à la majorité des membres présents.
+Les décisions sont prises à la majorité des membres présents ou représentés. Le vote par procuration est admis. Un membre présent ne peut disposer que d'une seule procuration. En cas de partage égal des voix, celle du président est prépondérante.
 
 En cas de partage, la voix du président est prépondérante.
 
