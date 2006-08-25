@@ -18,4 +18,12 @@ Il dresse, chaque année, sur le fonctionnement du musée, un rapport qui est so
 
 Il assure la liaison avec les services publics dont la mission est voisine de celle du musée national de la marine et qui relèvent notamment du ministre chargé des affaires culturelles, du ministre du développement industriel et scientifique, du ministre des transports et du secrétaire d'Etat auprès du Premier ministre, chargé de la jeunesse, des sports et des loisirs.
 
-En cas d'absence ou d'empêchement, le directeur est remplacé par un conservateur qu'il désigne.
+Le directeur est assisté par un directeur adjoint et un secrétaire général.
+
+Le directeur adjoint et le secrétaire général sont nommés par arrêté du ministre de la défense sur proposition du directeur du musée national de la marine.
+
+Le directeur adjoint remplace le directeur, en cas d'absence ou d'empêchement de ce dernier.
+
+Le secrétaire général est responsable, sous l'autorité du directeur, de la gestion administrative et financière de l'établissement.
+
+Le directeur peut leur déléguer sa signature pour accomplir en son nom des actes relatifs à certaines de ses attributions.
