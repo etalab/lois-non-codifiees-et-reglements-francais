@@ -20,6 +20,8 @@
 - [Ordonnance n° 2006-594 du 23 mai 2006 (AGRX0600068R)](ordonnance-n-2006-594-du-23-mai-2006-agrx0600068r)
 - [Ordonnance n° 2006-596 du 23 mai 2006 (MJSX0600023R)](ordonnance-n-2006-596-du-23-mai-2006-mjsx0600023r)
 - [Ordonnance n° 2004-605 du 24 juin 2004 (SANX0400112R)](ordonnance-n-2004-605-du-24-juin-2004-sanx0400112r)
+- [Ordonnance n° 2006-1048 du 25 août 2006 (SOCX0600132R)](ordonnance-n-2006-1048-du-25-aout-2006-socx0600132r)
+- [Ordonnance n° 2006-1068 du 25 août 2006 (DOMX0600113R)](ordonnance-n-2006-1068-du-25-aout-2006-domx0600113r)
 - [Ordonnance n° 2005-1027 du 26 août 2005 (INTX0500114R)](ordonnance-n-2005-1027-du-26-aout-2005-intx0500114r)
 - [Ordonnance n° 2005-1045 du 26 août 2005 (DOMX0500146R)](ordonnance-n-2005-1045-du-26-aout-2005-domx0500146r)
 - [Ordonnance n° 2006-482 du 26 avril 2006 (EQUX0600029R)](ordonnance-n-2006-482-du-26-avril-2006-equx0600029r)

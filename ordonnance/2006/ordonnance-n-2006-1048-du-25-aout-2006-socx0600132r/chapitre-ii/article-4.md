@@ -1,0 +1,9 @@
+# Article 4
+
+A compter de la publication de la présente ordonnance et jusqu'au 31 décembre 2007, les sociétés anonymes de crédit immobilier peuvent procéder à l'émission de titres nouveaux ayant vocation à constituer des parts sociales des sociétés anonymes coopératives d'intérêt collectif pour l'accession à la propriété. Les titres ainsi émis sont réservés aux catégories de collectivités, organismes et personnes appelés à constituer les collèges mentionnés à l'article L. 215-4 du code de la construction et de l'habitation résultant de la présente ordonnance. Chaque titre est émis pour sa valeur nominale.
+
+Les opérations nécessaires à la constitution des collèges composant l'assemblée générale des sociétés anonymes coopératives d'intérêt collectif pour l'accession à la propriété peuvent donner lieu à cession d'actions ou rachat par la société en vue de leur annulation, moyennant un prix qui ne peut excéder le prix maximum calculé selon les dispositions de l'article L. 423-4 du code de la construction et de l'habitation.
+
+Tout actionnaire qui, dans la période mentionnée au premier alinéa, souhaite céder ses titres en informe le président du conseil d'administration de la société. En l'absence d'acquéreur ou en l'absence d'agrément de l'acquéreur par le conseil d'administration dans le délai de deux mois suivant cette information, la société est tenue d'acquérir les titres en cause dans les conditions prévues à l'article L. 423-4 du code de la construction et de l'habitation.
+
+Le mandat des dirigeants en fonction dans une société anonyme de crédit immobilier à la date de publication de la présente ordonnance est prorogé, sous réserve de l'application du quatrième alinéa de l'article L. 422-4-1 du même code, jusqu'à la désignation des nouveaux dirigeants de la société anonyme coopérative d'intérêt collectif pour l'accession à la propriété issue de sa transformation.

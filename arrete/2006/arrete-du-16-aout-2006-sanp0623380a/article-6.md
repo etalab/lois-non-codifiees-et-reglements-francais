@@ -1,0 +1,3 @@
+# Article 6
+
+En cas de constitution d'une collection d'échantillons biologiques humains dans le cadre de la recherche biomédicale, le promoteur joint au dossier de demande d'autorisation de recherche biomédicale : une déclaration de l'organisme assurant la constitution de la collection, précisant le titre de la recherche biomédicale concernée, l'identité de la personne responsable de la collection au sein de cet organisme, le nombre de collections, la nature des échantillons biologiques, le nom et l'adresse de chacun des lieux de conservation de la collection, le ou les objectifs de constitution de la collection, et son devenir envisagé à la fin de la recherche biomédicale.

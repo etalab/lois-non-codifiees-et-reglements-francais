@@ -1,0 +1,7 @@
+# Article 7
+
+Le promoteur lève l'insu, préalablement à la déclaration d'une suspicion d'effet indésirable grave inattendu ou d'événement indésirable grave, lorsque des mesures de sécurité sont envisagées et que la connaissance du groupe de traitement auquel appartient le sujet est nécessaire.
+
+Dans des cas exceptionnels, en cas de recherche biomédicale portant sur une pathologie à forte mortalité et/ou morbidité, lorsque le critère d'évaluation de la recherche, tel que défini dans le protocole, pourrait être aussi un effet indésirable grave inattendu devant faire l'objet d'une déclaration immédiate, le promoteur peut, lors de sa demande d'autorisation de recherche biomédicale, solliciter l'accord de l'Agence française de sécurité sanitaire des produits de santé afin d'aménager les modalités de déclaration des suspicions d'effets indésirables graves inattendus. Ces modalités de déclaration de suspicions d'effets indésirables sont alors définies précisément dans le protocole de la recherche ou dans un document qui y est joint.
+
+Un comité de surveillance indépendant, tel que mentionné à l'article L. 1123-7 du code de la santé publique, est alors mis en place par le promoteur. Sa composition et ses modalités de fonctionnement sont décrites dans le protocole. L'Agence française de sécurité sanitaire des produits de santé peut demander à avoir accès aux décisions ou recommandations du comité de surveillance indépendant, ainsi qu'aux éléments sur lesquels s'est appuyé le comité pour rendre toute décision ou faire toute recommandation.
