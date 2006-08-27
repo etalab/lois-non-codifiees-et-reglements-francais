@@ -224,7 +224,6 @@
 - [Décret n°96-308 du 10 avril 1996 (MIPC9600061D)](decret-n96-308-du-10-avril-1996-mipc9600061d)
 - [Décret n°96-310 du 10 avril 1996 (AGRA9600422D)](decret-n96-310-du-10-avril-1996-agra9600422d)
 - [Décret n°96-311 du 10 avril 1996 (AGRA9600423D)](decret-n96-311-du-10-avril-1996-agra9600423d)
-- [Décret n°96-317 du 10 avril 1996 (TASP9620049D)](decret-n96-317-du-10-avril-1996-tasp9620049d)
 - [Décret n°96-319 du 10 avril 1996 (DEFD9601304D)](decret-n96-319-du-10-avril-1996-defd9601304d)
 - [Décret n°96-320 du 10 avril 1996 (ECOU9600001D)](decret-n96-320-du-10-avril-1996-ecou9600001d)
 - [Décret n°96-321 du 10 avril 1996 (ECOU9600002D)](decret-n96-321-du-10-avril-1996-ecou9600002d)
