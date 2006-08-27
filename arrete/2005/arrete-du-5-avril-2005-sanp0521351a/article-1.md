@@ -248,6 +248,8 @@ Direction de la solidarité départementale (centre de santé), place Ferré, BP
 
 Service communal d'hygiène et de santé, 11, rue Emile-Zola, 66000 Perpignan ;
 
+Centre hospitalier Saint-Jean, service des maladies infectieuses et tropicales, 20, avenue du Languedoc, BP 4052, 66046 Perpignan Cedex.
+
 67 - Bas-Rhin
 
 Service de vaccination internationales et de conseils aux voyageurs, Hôpitaux Universitaires de Strasbourg, 1, place de l'Hôpital, 67000 Strasbourg
