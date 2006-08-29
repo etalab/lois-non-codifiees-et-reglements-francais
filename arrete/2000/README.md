@@ -70,7 +70,6 @@
 - [Arrêté du 18 juillet 2000 (EQUK0001254A)](arrete-du-18-juillet-2000-equk0001254a)
 - [Arrêté du 18 juillet 2000 (MESP0022286A)](arrete-du-18-juillet-2000-mesp0022286a)
 - [Arrêté du 18 mai 2000 (ECOI0000243A)](arrete-du-18-mai-2000-ecoi0000243a)
-- [Arrêté du 19 avril 2000 (AGRP0000771A)](arrete-du-19-avril-2000-agrp0000771a)
 - [Arrêté du 19 décembre 2000 (ATEE0090452A)](arrete-du-19-decembre-2000-atee0090452a)
 - [Arrêté du 19 décembre 2000 (MENF0003243A)](arrete-du-19-decembre-2000-menf0003243a)
 - [Arrêté du 19 juillet 2000 (ECOS0050027A)](arrete-du-19-juillet-2000-ecos0050027a)

@@ -343,7 +343,6 @@
 - [Arrêté du 10 juin 2003 (MENP0301276A)](arrete-du-10-juin-2003-menp0301276a)
 - [Arrêté du 10 juin 2003 (SANH0322094A)](arrete-du-10-juin-2003-sanh0322094a)
 - [Arrêté du 10 juin 2003 (SANS0322244A)](arrete-du-10-juin-2003-sans0322244a)
-- [Arrêté du 10 mars 2003 (DEVD0320079A)](arrete-du-10-mars-2003-devd0320079a)
 - [Arrêté du 10 mars 2003 (ECOP0200178A)](arrete-du-10-mars-2003-ecop0200178a)
 - [Arrêté du 10 mars 2003 (ECOP0200179A)](arrete-du-10-mars-2003-ecop0200179a)
 - [Arrêté du 10 mars 2003 (ECOP0200180A)](arrete-du-10-mars-2003-ecop0200180a)
