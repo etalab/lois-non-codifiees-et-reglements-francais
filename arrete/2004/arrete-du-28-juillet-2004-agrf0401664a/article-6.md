@@ -20,6 +20,18 @@ Les catégories d'animaux retenues pour calculer le chargement des exploitations
 
 Pour les animaux visés aux 6.1 et 6.2 ci-dessus, l'exploitant doit respecter les règles applicables relatives à l'identification pérenne généralisée. Les animaux pris en compte sont ceux retenus au titre du complément extensif de l'année précédant la demande de l'ICHN à l'exception des nouveaux demandeurs pour lesquels les UGB bovines retenues sont celles connues dans la base de données nationale informatisée (BDNI) à la date limite de dépôt de la demande ICHN.
 
-Pour les animaux visés au 6.3 ci-dessus, les ovins et les caprins retenus sont ceux déclarés à la prime à la brebis et à la chèvre (PBC), pour l'année en cours par une demande déposée dans les délais par un producteur éligible à la PBC. En zone défavorisée simple et piémont, les caprins retenus sont ceux déclarés sur le formulaire de demande ICHN de l'année en cours.
+Pour les animaux visés au 6.3 ci-dessus, les ovins retenus sont ceux déclarés à la prime à la brebis (PB), pour l'année en cours par une demande déposée dans les délais par un producteur éligible à la PB. Les caprins retenus sont ceux déclarés sur le formulaire de demande ICHN de l'année en cours.
 
 Les animaux visés aux 6.4 à 6.8 ci-dessus sont ceux déclarés sur le formulaire de demande ICHN de l'année en cours.
+
+Pour le calcul du chargement des exploitations dont la production laitière a été transférée à une société civile laitière (SCL), les UGB de ladite société sont réparties entre les associés au prorata des références laitières transférées, selon la règle de calcul suivante :
+
+(formule non reproduite, consulter le fac-similé)
+
+UGBa : valeur des UGB bovines laitières à affecter au chargement de l'associé.
+
+UGBs : UGB bovines de la SCL, présentes dans la base de donnée nationale d'identification l'année civile précédant la demande d'aide.
+
+RLa : Référence laitière de l'associé, transférée à la SCL.
+
+RLs : Référence laitière totale de la SCL.

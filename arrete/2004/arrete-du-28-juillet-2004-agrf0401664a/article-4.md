@@ -74,4 +74,4 @@ Le demandeur doit détenir au moins trois équidés, deux UGB dans les DOM, iden
 
 - soit un animal de trois ans et moins et non déclaré à l'entraînement au sens des codes des courses.
 
-Les conditions sont à remplir à la date limite de dépôt du dossier de demande ICHN.
+Les conditions sont à remplir à la date du 31 mars de l'année de la demande ICHN.

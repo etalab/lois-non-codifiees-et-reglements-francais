@@ -4,7 +4,7 @@
 
 - qui demeure sur son exploitation d'appartenance ;
 
-- qui est autorisé à transhumer ou qui participe à un rassemblement dans un lieu d'exposition temporaire à caractère agricole ou culturel tel que prévu à l'article 17 du présent arrêté,
+- qui transhume ou qui participe à un rassemblement dans un lieu d'exposition temporaire à caractère agricole ou culturel tel que prévu à l'article 17 du présent arrêté,
 
 est valide :
 

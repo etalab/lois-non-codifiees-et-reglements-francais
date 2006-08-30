@@ -1,6 +1,6 @@
 # Article 9
 
-Aucun bénéficiaire ne peut percevoir plus de 110 % de la valorisation de l'indemnité de la campagne prédédente calculée avant pénalités, sauf dans les cas suivants :
+Aucun bénéficiaire ne peut percevoir plus de 105 % de la valorisation de l'indemnité de la campagne prédédente calculée avant pénalités, sauf dans les cas suivants :
 
 1. Les agriculteurs qui ont bénéficié des aides à l'installation depuis le début de l'antépénultième année civile ;
 

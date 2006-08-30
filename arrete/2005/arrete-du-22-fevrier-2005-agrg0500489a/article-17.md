@@ -2,13 +2,13 @@
 
 1° Seuls les bovins issus de troupeaux d'élevage qualifiés visés à l'article 7 du présent arrêté et munis d'un document d'accompagnement valide sont admis à transhumer.
 
-Tout troupeau bovin autorisé à transhumer doit être accompagné d'une autorisation de transhumance délivrée conformément aux instructions du ministre de l'agriculture, de l'alimentation, de la pêche et de la ruralité. Cette demande est établie et adressée par le détenteur des bovins au directeur départemental des services vétérinaires du département d'origine, qui atteste de la qualification du troupeau et la transmet au directeur départemental des services vétérinaires du département d'accueil. Ce dernier adresse au demandeur l'autorisation de transhumance après y avoir mentionné les pâturages autorisés et les conditions d'accès imposées ; le cas échéant, il lui notifie un refus motivé.
+Tout détenteur d'un troupeau bovin qui transhume doit déclarer ce mouvement.
 
 Lors de la réintroduction dans leur troupeau d'origine, il peut être dérogé par décision du directeur départemental des services vétérinaires aux contrôles individuels prévus par la réglementation relative aux mesures de prophylaxie et de police sanitaire vis-à-vis de la tuberculose et de la brucellose visée dans le présent arrêté.
 
 Une instruction du ministre chargé de l'agriculture précise les conditions d'application du présent article.
 
-2° Il peut être dérogé par décision du directeur départemental des services vétérinaires à l'obligation de signature et d'apposition de la date de sortie sur l'ASDA pour les bovins qui participent à un rassemblement dans un lieu d'exposition temporaire à caractère agricole ou culturel si :
+2° Il peut être dérogé par décision du directeur départemental des services vétérinaires du lieu de rassemblement à l'obligation de signature et d'apposition de la date de sortie sur l'ASDA pour les bovins qui participent à un rassemblement dans un lieu d'exposition temporaire à caractère agricole ou culturel si :
 
 - ils sont accompagnés d'un certificat sanitaire en cours de validité délivré par le directeur des services vétérinaires, apportant a minima les mêmes garanties que celles figurant sur l'ASDA - notamment qu'ils sont issus d'un troupeau d'élevage indemne -, dont la durée de validité est de trente jours maximum à compter de la date de signature par le directeur des services vétérinaires ;
 
