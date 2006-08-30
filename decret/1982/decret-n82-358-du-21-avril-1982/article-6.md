@@ -1,6 +1,8 @@
 # Article 6
 
-La citation sans croix évoquée à l'article 5 est matérialisée sur le ruban de la médaille d'or de la défense nationale nouvellement attribuée ou déjà détenue par :
+La médaille d'or de la défense nationale accompagnant la citation sans croix se juxtapose à la médaille de la défense nationale, échelons "bronze", "argent" ou "or", et la précède dans le rang de préséance.
+
+La citation sans croix est matérialisée sur le ruban de la médaille d'or de la défense nationale par :
 
 - une palme de bronze (armée) ;
 
