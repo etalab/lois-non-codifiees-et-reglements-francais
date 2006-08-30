@@ -250,7 +250,15 @@ Etablissement public du musée du quai Branly
 
 EMPLOIS OU CATEGORIES D'EMPLOIS concernés
 
-Emplois des catégories A, B et C jusqu'à l'ouverture au public de ce musée
+Emplois de catégorie A, B et C dans le domaine du patrimoine et des collections, du développement culturel et des publics ;
+
+Emplois de catégorie A dans le domaine de l'enseignement et de la recherche ;
+
+Emplois de catégorie A, B et C dans le domaine du mécénat et de la communication ;
+
+Emplois de catégorie A, B et C liés à la gestion du bâtiment, des systèmes d'information, de la sécurité et de la sûreté ;
+
+Emplois de catégorie A de juristes experts dans le domaine des achats publics et du droit de la propriété littéraire et artistique.
 
 ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
 
@@ -269,6 +277,14 @@ EMPLOIS OU CATEGORIES D'EMPLOIS concernés
 Emplois occupés par les personnels non navigants du service des activités aériennes
 
 Emplois commerciaux de haut niveau
+
+ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
+
+Institut national des appellations d'origine
+
+EMPLOIS OU CATEGORIES D'EMPLOIS concernés
+
+Emplois de catégories A, B, C et D
 
 ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
 
