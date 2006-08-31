@@ -87,6 +87,7 @@
 - [Décret n°2006-1065 du 25 août 2006 (EQUT0600860D)](decret-n2006-1065-du-25-aout-2006-equt0600860d)
 - [Décret n°2006-1072 du 25 août 2006 (SANP0622605D)](decret-n2006-1072-du-25-aout-2006-sanp0622605d)
 - [Décret n°92-1032 du 25 septembre 1992 (ACVA9210089D)](decret-n92-1032-du-25-septembre-1992-acva9210089d)
+- [Décret n°46-2663 du 27 novembre 1946](decret-n46-2663-du-27-novembre-1946)
 - [Décret n°93-714 du 27 mars 1993 (ACVE9250040D)](decret-n93-714-du-27-mars-1993-acve9250040d)
 - [Décret n°2006-1069 du 28 août 2006 (PRMX0602084D)](decret-n2006-1069-du-28-aout-2006-prmx0602084d)
 - [Décret n°2006-1070 du 28 août 2006 (SOCT0611719D)](decret-n2006-1070-du-28-aout-2006-soct0611719d)
