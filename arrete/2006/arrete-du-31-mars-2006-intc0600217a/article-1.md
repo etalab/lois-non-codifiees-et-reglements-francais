@@ -24,8 +24,8 @@ II. - Pour la prévention et la répression des actes de terrorisme :
 
 2° Les services de la police judiciaire ci-après désignés :
 
-- la division nationale anti-terroriste de la direction centrale de la police judiciaire ;
+- la sous-direction anti-terroriste de la direction centrale de la police judiciaire ;
 
-- le pôle de coordination des offices centraux de la direction centrale de la police judiciaire ;
+- la division de coordination et d'analyse de la sous-direction de la lutte contre la criminalité organisée et la délinquance financière de la direction centrale de la police judiciaire ;
 
 - les directions interrégionales et régionales de la police judiciaire.

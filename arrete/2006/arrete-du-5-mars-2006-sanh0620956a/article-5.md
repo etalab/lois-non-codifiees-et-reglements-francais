@@ -52,6 +52,12 @@ f) Lorsque les prestations de séjours et de soins délivrées au patient donnen
 
 - le GHS 9522 lorsque le patient est pris en charge dans une unité de dialyse médicalisée.
 
+g) Lorsque les prestations de séjour et de soins délivrées au patient donnent lieu à la production du GHM d'autres interventions pour obésité (10C10Z), la prise en charge du patient donne lieu à la facturation de l'un des GHS suivants :
+
+- le GHS 3715 lorsqu'un des actes listés en annexe 9 a été réalisé ;
+
+- le GHS 3716 dans les autres cas.
+
 3° La prise en charge du patient dans une zone de surveillance de très courte durée définie au 3° des articles D. 6124-5 et D. 6124-12 du code de la santé publique, non suivie d'une hospitalisation dans un service de médecine, chirurgie, obstétrique ou odontologie de l'établissement, donne lieu, quelle que soit la durée de séjour dans cette zone, à facturation d'un GHS correspondant à un GHM de la catégorie majeure 24 définie à l'annexe IV de l'arrêté du 31 décembre 2003 susvisé, lorsqu'à l'issue de son passage dans la zone d'examen et de soins du service des urgences, l'état de santé du patient :
 
 - présente un caractère instable ou que le diagnostic reste incertain ;
@@ -96,7 +102,7 @@ c) Un supplément dénommé " réanimation néonatale " (NN3) pour chaque journ�
 
 9° Pour la facturation des suppléments prévus aux 6° et 8°, lorsque le patient ou l'enfant est présent moins d'une journée dans l'unité ou le lit, un supplément est facturé.
 
-10° Lorsque le patient est pris en charge moins d'une journée, à l'exception des cas où il est pris en charge dans un service d'urgence, un GHS ne peut être facturé que dans les cas où sont réalisés des actes qui nécessitent :
+10° Lorsque le patient est pris en charge moins d'une journée, à l'exception des cas où il est pris en charge dans un service d'urgence et des cas où la prestation nécessite l'utilisation du secteur opératoire du fait de la nature de l'acte, un GHS ne peut être facturé que dans les cas où sont réalisés des actes qui nécessitent :
 
 - une admission dans une structure d'hospitalisation individualisée mentionnée à l'article D. 6124-301 du code de la santé publique disposant de moyens en locaux, en matériel et en personnel, et notamment des équipements adaptés pour répondre aux risques potentiels des actes réalisés ;
 
@@ -105,6 +111,12 @@ c) Un supplément dénommé " réanimation néonatale " (NN3) pour chaque journ�
 - l'utilisation d'un lit ou d'une place pour une durée nécessaire à la réalisation de l'acte ou justifiée par l'état de santé du patient.
 
 Lorsque l'une de ces conditions n'est pas remplie, la prise en charge du patient donne lieu à facturation de consultations ou actes mentionnés à l'article L. 162-26 du code de la sécurité sociale ou réalisés en médecine de ville.
+
+Pour les cas où la prestation nécessite l'utilisation du secteur opératoire du fait de la nature de l'acte réalisé, la prise en charge du patient peut donner lieu à facturation du GHS 9600 ou du GHS 9601 dans les conditions suivantes :
+
+- le GHS 9600 lorsque les prestations de séjours et de soins délivrées au patient donnent lieu à la production d'un des GHM d'endoscopie suivants : 24K25Z ; 24K27Z ; 24K29Z ; 24K31Z ; 24K33Z ; 24K34Z ; 24K35Z ;
+
+- le GHS 9601 lorsque les prestations de séjours et de soins délivrées au patient donnent lieu à la production d'un des GHM suivants : 24C37Z ; 24C48Z ; 24M17Z ; 24M18Z ; 24M33Z..
 
 11° a) Dans l'attente de la notification de l'autorisation de traitement de l'insuffisance rénale chronique par épuration extrarénale délivrée en application des dispositions de l'article R. 6122-25 du code de la santé publique, les établissements de santé disposant d'une autorisation en application des dispositions de l'article R. 712-2 du code de la santé publique peuvent facturer les forfaits suivants :
 
