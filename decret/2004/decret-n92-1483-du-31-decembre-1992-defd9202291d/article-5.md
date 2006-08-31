@@ -8,8 +8,6 @@ L'attaché de défense peut être assisté d'attachés militaires spécialisés 
 
 - attaché de l'air ;
 
-- attaché de gendarmerie ;
-
 - attaché d'armement.
 
 Pour les questions propres à son domaine de compétence, l'attaché d'armement correspond directement avec le délégué général pour l'armement.
