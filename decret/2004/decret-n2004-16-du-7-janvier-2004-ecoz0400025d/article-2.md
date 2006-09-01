@@ -4,9 +4,9 @@ I. - Les marchés entrant dans les prévisions du II de l'article 1er sont pass�
 
 Ils sont précédés d'un avis d'appel public à la concurrence inséré au Bulletin officiel des annonces des marchés publics, selon un modèle défini par arrêté du ministre de la défense.
 
-Les dispositions de l'article 39 et du V de l'article 40 du code des marchés publics ne leur sont pas applicables.
+Les dispositions du code des marchés publics relatives à l'avis de préinformation et aux publications au Journal officiel de l'Union européenne ne leur sont pas applicables.
 
-Par dérogation à l'article 65 du code des marchés publics, le délai minimal entre l'envoi de l'avis à la publication et l'envoi de l'invitation à présenter une offre est d'au moins quinze jours. L'avis d'appel à la concurrence fixe la date limite de réception des candidatures en fonction du montant estimé et de l'objet du marché.
+Le délai minimal entre l'envoi de l'avis à la publication et l'envoi de l'invitation à présenter une offre est d'au moins quinze jours. L'avis d'appel à la concurrence fixe la date limite de réception des candidatures en fonction du montant estimé et de l'objet du marché.
 
 II. - Ils peuvent être négociés sans publicité préalable mais avec mise en concurrence dans les cas :
 
@@ -30,7 +30,7 @@ b) De marchés de travaux, de fournitures et de services qui ont pour objet la r
 
 c) De marchés de travaux, de fournitures et de services qui ne peuvent être confiés qu'à un prestataire déterminé pour des raisons tenant à la protection de droits de propriété intellectuelle, à des nécessités techniques, à des investissements préalables importants, à des installations spéciales, à la sécurité des approvisionnements, à un savoir-faire particulier ou à la nécessité de développer une technologie innovante à l'origine de laquelle se trouve ce prestataire ;
 
-d) De marchés de fournitures ou de services attribués à l'auteur de la solution retenue à la suite de plusieurs marchés de définition passés conformément à l'article 73 du code des marchés publics ;
+d) De marchés de fournitures ou de services attribués à l'auteur de la solution retenue à la suite de plusieurs marchés de définition tels que définis aux deux premiers alinéas de l'article 73 du code des marchés publics, ayant le même objet, conclus à l'issue d'une seule procédure et exécutés simultanément ;
 
 e) De marchés de travaux, de fournitures et de services passés dans le cadre d'un programme mené en coopération internationale, lorsque ont été définies les prestations à réaliser par chaque Etat.
 
