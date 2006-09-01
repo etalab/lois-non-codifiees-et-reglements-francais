@@ -34,7 +34,9 @@ Sont également membres de droit de l'observatoire :
 
 - un représentant des ministères chargés de la défense, de l'éducation nationale, de l'intérieur, de la santé, de l'équipement, de l'emploi et de la solidarité, de la justice, de la culture et de l'écologie et du développement durable ;
 
-- le délégué général pour l'armement ou son représentant.
+- le délégué général pour l'armement ou son représentant ;
+
+- le directeur de l'hospitalisation et de l'organisation des soins ou son représentant.
 
 III. - L'observatoire comprend également les membres suivants :
 
