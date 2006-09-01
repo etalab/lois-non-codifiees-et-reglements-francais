@@ -6,4 +6,4 @@ Les membres de ces corps concourent à l'exécution des tâches de service inté
 
 Ils peuvent également être appelés à exercer leurs fonctions dans les établissements publics administratifs relevant de ces administrations.
 
-II. - Les dispositions du présent titre sont applicables au corps des agents des services techniques de chancellerie qui exercent les fonctions mentionnées au I du présent article et ont vocation à servir à l'administration centrale et à l'étranger dans les services relevant du ministère des affaires étrangères.
+II. - Les dispositions du présent titre sont applicables au corps des agents des services techniques de chancellerie qui exercent les fonctions mentionnées au I du présent article.

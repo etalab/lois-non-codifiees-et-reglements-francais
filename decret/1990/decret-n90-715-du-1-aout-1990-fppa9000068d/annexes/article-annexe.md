@@ -15,3 +15,5 @@ Ministère de la justice.
 Ministère de la culture et de la communication.
 
 Cour des comptes.
+
+Ministère des affaires étrangères.
