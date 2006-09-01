@@ -1,0 +1,3 @@
+# Article 3
+
+Lorsque les spécifications techniques mentionnées à l'article 1er sont formulées par référence à des normes ou à d'autres documents équivalents, ces derniers sont choisis dans l'ordre de préférence suivant : les normes nationales transposant des normes européennes, les agréments techniques européens, les spécifications techniques communes, les normes internationales, les autres référentiels techniques élaborés par les organismes européens de normalisation ou, lorsque ceux-ci n'existent pas, les normes nationales, les agréments techniques nationaux, ou les spécifications techniques nationales en matière de conception, de calcul et de réalisation des ouvrages et de mise en oeuvre des produits. Chaque référence est accompagnée de la mention "ou équivalent".

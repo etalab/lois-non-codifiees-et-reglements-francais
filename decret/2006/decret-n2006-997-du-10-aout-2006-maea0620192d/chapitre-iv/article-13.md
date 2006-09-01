@@ -1,0 +1,3 @@
+# Article 13
+
+Jusqu'au 31 décembre 2009, par dérogation aux dispositions du 2° de l'article 4 du décret du 18 novembre 1994 susvisé, les secrétaires de chancellerie sont recrutés au choix, dans la limite de 50 % des nominations prononcées conformément aux dispositions de l'article 19 du décret du 16 septembre 1985 susvisé, par voie d'inscription sur une liste d'aptitude établie après avis de la commission administrative paritaire parmi les adjoints de chancellerie du ministère des affaires étrangères. Les intéressés doivent justifier d'au moins neuf ans de services publics au 1er janvier de l'année au titre de laquelle est établie la liste d'aptitude.
