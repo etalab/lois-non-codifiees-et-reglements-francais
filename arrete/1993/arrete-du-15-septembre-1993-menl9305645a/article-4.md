@@ -1,7 +1,3 @@
 # Article 4
 
-Les candidats au baccalauréat peuvent demander â conserver pour ta session qui suit immédiatement leur succès ou leur échec les notes obtenues aux épreuves anticipées définies à l’article 1er du présent arrêté.
-
-Les candidats régulièrement inscrits au baccalauréat, mais qui n’auraient pu subir aucune des épreuves à la session normale et â la session de remplacement pour une raison de force majeure dûment constatée conservent pour la session suivante les notes des épreuves anticipées.
-
-Les candidats résidant temporairement à l’étranger après avoir subi les épreuves anticipées conservent les notes obtenues à ces épreuves pour l’une des deux sessions qui suivent.
+Les candidats au baccalauréat qui présentent à nouveau l'examen dans la même série ou dans une autre série peuvent demander à conserver pour la session qui suit immédiatement leur succès ou leur échec les notes obtenues aux épreuves anticipées définies à l'article premier du présent arrêté. La note de l'épreuve de travaux personnels encadrés peut être conservée par les candidats tant qu'ils se présentent comme candidats scolaires. Les candidats régulièrement inscrits au baccalauréat, mais qui n'auraient pu subir aucune des épreuves à la session normale et à la session de remplacement en cas d'absence justifiée liée à un évènement indépendant de leur volonté conservent pour la session suivante les notes des épreuves anticipées. Les candidats résidant temporairement à l'étranger après avoir subi les épreuves anticipées conservent les notes obtenues à ces épreuves pour l'une des deux sessions qui suivent.
