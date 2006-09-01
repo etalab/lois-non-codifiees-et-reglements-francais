@@ -948,7 +948,6 @@
 - [Arrêté du 30 décembre 2004 (PMEA0420064A)](arrete-du-30-decembre-2004-pmea0420064a)
 - [Arrêté du 30 décembre 2004 (SOCT0412339A)](arrete-du-30-decembre-2004-soct0412339a)
 - [Arrêté du 30 janvier 2004 (BUDL0400004A)](arrete-du-30-janvier-2004-budl0400004a)
-- [Arrêté du 30 janvier 2004 (ECOM0310623A)](arrete-du-30-janvier-2004-ecom0310623a)
 - [Arrêté du 30 janvier 2004 (EQUT0400154A)](arrete-du-30-janvier-2004-equt0400154a)
 - [Arrêté du 30 juillet 2004 (AGRF0401858A)](arrete-du-30-juillet-2004-agrf0401858a)
 - [Arrêté du 30 juillet 2004 (ECOB0450003A)](arrete-du-30-juillet-2004-ecob0450003a)

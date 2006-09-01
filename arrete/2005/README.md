@@ -62,7 +62,6 @@
 - [Arrêté du 3 janvier 2005 (AGRF0402632A)](arrete-du-3-janvier-2005-agrf0402632a)
 - [Arrêté du 3 janvier 2005 (AGRG0500117A)](arrete-du-3-janvier-2005-agrg0500117a)
 - [Arrêté du 3 janvier 2005 (DEVP0540033A)](arrete-du-3-janvier-2005-devp0540033a)
-- [Arrêté du 3 janvier 2005 (ECOM0420017A)](arrete-du-3-janvier-2005-ecom0420017a)
 - [Arrêté du 3 juin 2005 (BUDL0500094A)](arrete-du-3-juin-2005-budl0500094a)
 - [Arrêté du 3 juin 2005 (BUDL0500095A)](arrete-du-3-juin-2005-budl0500095a)
 - [Arrêté du 3 juin 2005 (BUDL0500096A)](arrete-du-3-juin-2005-budl0500096a)

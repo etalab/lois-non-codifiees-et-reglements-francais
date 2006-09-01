@@ -160,7 +160,6 @@
 - [Décret n°2003-960 du 7 octobre 2003 (MCCT0300762D)](decret-n2003-960-du-7-octobre-2003-mcct0300762d)
 - [Décret n°2004-1083 du 7 octobre 2004 (MENE0401556D)](decret-n2004-1083-du-7-octobre-2004-mene0401556d)
 - [Décret n°2004-1339 du 7 décembre 2004 (INTD0400236D)](decret-n2004-1339-du-7-decembre-2004-intd0400236d)
-- [Décret n°2004-15 du 7 janvier 2004 (ECOZ0300023D)](decret-n2004-15-du-7-janvier-2004-ecoz0300023d)
 - [Décret n°2004-16 du 7 janvier 2004 (ECOZ0400025D)](decret-n2004-16-du-7-janvier-2004-ecoz0400025d)
 - [Décret n°2004-21 du 7 janvier 2004 (MCCK0300917D)](decret-n2004-21-du-7-janvier-2004-mcck0300917d)
 - [Décret n°2004-22 du 7 janvier 2004 (SPRK0370246D)](decret-n2004-22-du-7-janvier-2004-sprk0370246d)
