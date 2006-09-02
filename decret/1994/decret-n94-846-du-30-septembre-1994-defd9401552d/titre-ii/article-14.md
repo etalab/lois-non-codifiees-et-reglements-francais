@@ -4,7 +4,7 @@ Le conseil de la recherche de l'Ecole nationale supérieure des ingénieurs des 
 
 1° Le directeur de l'école ou son représentant, président ;
 
-2° Le directeur de la formation et de la recherche ;
+2° Le directeur scientifique ;
 
 3° Les responsables des laboratoires de recherche de l'école ;
 

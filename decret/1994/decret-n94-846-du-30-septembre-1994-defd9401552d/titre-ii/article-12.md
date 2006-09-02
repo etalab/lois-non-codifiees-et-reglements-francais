@@ -4,9 +4,9 @@ Le conseil de la formation de l'Ecole nationale supérieure des ingénieurs des 
 
 1° Le directeur de l'école ou son représentant, président ;
 
-2° Le directeur de la formation et de la recherche ;
+2° Le directeur scientifique ;
 
-3° Les responsables des départements d'enseignement ;
+3° Trois représentants de l'administration de l'école choisis parmi les responsables de l'organisation et de la réalisation des formations à l'école. La liste de ces représentants est arrêtée par le directeur, après avis du conseil d'administration ;
 
 4° Trois représentants du personnel enseignant de l'école désignés par ce personnel ;
 

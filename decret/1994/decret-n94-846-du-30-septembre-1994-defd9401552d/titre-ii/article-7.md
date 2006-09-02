@@ -28,8 +28,10 @@ b) Les modalités générales de scolarité des différentes catégories d'étud
 
 c) Le règlement intérieur de l'établissement, qui devient exécutoire après approbation par le ministre de la défense ;
 
-d) La nomination du directeur de la formation et de la recherche ;
+d) La nomination du directeur scientifique ;
 
-e) Les règles générales de recrutement de personnels sur contrat par l'établissement.
+e) Les règles générales de recrutement de personnels sur contrat par l'établissement ;
+
+f) La liste des responsables de l'école appelés à siéger au conseil de la formation dans le cadre du 3° de l'article 12 ci-dessous.
 
 Plus généralement, il donne son avis sur toute question qui lui est soumise par son président ou par l'autorité de tutelle. Il adresse chaque année au ministre de la défense un rapport sur l'activité et le fonctionnement de l'école.

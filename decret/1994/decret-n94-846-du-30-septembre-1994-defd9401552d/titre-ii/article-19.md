@@ -10,7 +10,7 @@ Ce conseil comprend :
 
 2° Le directeur adjoint de l'école ;
 
-3° Le directeur de la formation et de la recherche ;
+3° Le directeur scientifique ;
 
 4° Deux membres du personnel de l'école, dont un appartenant au personnel enseignant, désignés par le directeur de l'école ;
 
