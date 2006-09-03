@@ -6,4 +6,6 @@ Institut commercial de Nancy, Nancy-II ;
 
 Institut des sciences de l'entreprise et du management, Montpellier-I ;
 
-Institut supérieur de commerce international de Dunkerque, Littoral.
+Institut supérieur de commerce international de Dunkerque, Littoral ;
+
+Institut de management de Savoie, Chambéry.
