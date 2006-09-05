@@ -1,0 +1,3 @@
+# Article 5
+
+Les instituteurs et instituteurs bacheliers promus dans un cadre ou une classe de niveau supérieur sont classés à l'échelon comportant un indice égal ou, à défaut, immédiatement supérieur à celui précédemment détenu. Ils conservent leur ancienneté d'échelon lorsque le reclassement leur procure une augmentation de traitement inférieure à celle qui aurait résulté d'un avancement d'échelon dans leur ancienne situation. Ceux d'entre eux qui étaient parvenus au dernier échelon de leur cadre ou classe d'origine conservent leur ancienneté d'échelon lorsque l'augmentation de traitement consécutive à leur promotion est inférieure à celle résultant d'un avancement à ce dernier échelon.

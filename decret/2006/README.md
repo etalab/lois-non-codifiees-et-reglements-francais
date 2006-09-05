@@ -33,6 +33,7 @@
 - [Décret n°2006-991 du 1 août 2006 (AGRG0601445D)](decret-n2006-991-du-1-aout-2006-agrg0601445d)
 - [Décret n°2006-992 du 1 août 2006 (MJSK0670162D)](decret-n2006-992-du-1-aout-2006-mjsk0670162d)
 - [Décret n°2006-993 du 1 août 2006 (EQUU0601552D)](decret-n2006-993-du-1-aout-2006-equu0601552d)
+- [Décret n°2006-1110 du 4 septembre 2006 (MENF0601953D)](decret-n2006-1110-du-4-septembre-2006-menf0601953d)
 - [Décret n°2006-1532 du 5 décembre 2006 (MENF0602730D)](decret-n2006-1532-du-5-decembre-2006-menf0602730d)
 - [Décret n°91-910 du 6 septembre 1991 (ACVA9110049D)](decret-n91-910-du-6-septembre-1991-acva9110049d)
 - [Décret n°2006-1000 du 10 août 2006 (ECOT0651051D)](decret-n2006-1000-du-10-aout-2006-ecot0651051d)
