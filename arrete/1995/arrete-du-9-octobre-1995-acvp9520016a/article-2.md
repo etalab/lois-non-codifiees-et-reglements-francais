@@ -1,6 +1,6 @@
 # Article 2
 
-Les médecins visés par le présent arrêté, astreints à se déplacer pour les besoins du service à l'occasion de tournées et de missions, seront remboursés de leurs frais de transport et de séjour dans les conditions et aux taux prévus par les textes en vigueur pour les fonctionnaires et agents de l'Etat ; à cet effet, dans les départements d'outre-mer, ils sont classés dans le groupe II.
+Les médecins visés par le présent arrêté, astreints à se déplacer pour les besoins du service à l'occasion de tournées et de missions, seront remboursés de leurs frais de transport et de séjour dans les conditions et aux taux prévus par les textes en vigueur pour les fonctionnaires et agents de l'Etat.
 
 Les médecins titulaires de cartes ou de permis de circulation ou jouissant à titre personnel d'une réduction de tarif n'ont pas droit au remboursement des frais de transport pour la partie correspondant à l'exonération dont ils bénéficient.
 

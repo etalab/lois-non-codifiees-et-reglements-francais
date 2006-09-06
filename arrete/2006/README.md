@@ -263,6 +263,7 @@
 - [Arrêté du 15 juin 2006 (AGRF0601222A)](arrete-du-15-juin-2006-agrf0601222a)
 - [Arrêté du 15 juin 2006 (EQUS0601353A)](arrete-du-15-juin-2006-equs0601353a)
 - [Arrêté du 15 mars 2006 (ECOP0600165A)](arrete-du-15-mars-2006-ecop0600165a)
+- [Arrêté du 15 septembre 2006 (PRMX0609562A)](arrete-du-15-septembre-2006-prmx0609562a)
 - [Arrêté du 15 mai 2006 (MENE0601243A)](arrete-du-15-mai-2006-mene0601243a)
 - [Arrêté du 16 août 2006 (SANP0623370A)](arrete-du-16-aout-2006-sanp0623370a)
 - [Arrêté du 16 août 2006 (SANP0623371A)](arrete-du-16-aout-2006-sanp0623371a)
