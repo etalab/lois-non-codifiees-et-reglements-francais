@@ -74,7 +74,7 @@ III. - Règles spécifiques
 
 2.2. Une règle d'attribution prioritaire des greffons cardiaques, pulmonaires ou cardio-pulmonaires à l'échelon interrégional, pour des malades dont la vie est menacée à très court terme, doit être approuvée par l'Agence de la biomédecine. Pour ces malades, une dérogation à la règle décrite au point II.10 est possible, selon des modalités définies par l'Agence de la biomédecine qui comportent le recours au collège d'experts.
 
-2.3. les enfants de moins de 16 ans sont prioritaires à l'échelon national selon des modalités définies par l'Agence de la biomédecine et tenant compte du poids et de l'âge du donneur
+2.3. les enfants de moins de 16 ans sont prioritaires à l'échelon national selon des modalités définies par l'Agence de la biomédecine et tenant compte du poids et de l'âge du donneur.
 
 2.4. Pour les malades pour lesquels la probabilité d'accès à un greffon apparié est faible, une dérogation à la règle décrite au point II.10 est possible, selon des modalités définies par l'Agence de la biomédecine qui comportent le recours au collège d'experts.
 
@@ -94,7 +94,7 @@ La possibilité d'inscription dans cette catégorie prioritaire est offerte selo
 
 L'inscription dans ces catégories prioritaires est faite selon des modalités définies par l'Agence de la biomédecine et qui comportent le recours au collège d'experts. Dans ce cas, il peut être dérogé à la règle décrite au point II-10.
 
-3.3. Les enfants de moins de seize ans sont prioritaires à l'échelon national pour les greffons prélevés chez les donneurs de moins de seize ans et à l'échelon interrégional pour les greffons prélevés chez les donneurs de moins de trente ans.
+3.3. Les enfants de moins de seize ans sont prioritaires à l'échelon national pour les greffons prélevés chez les donneurs de moins de seize ans et pour les greffons prélevés chez les donneurs de moins de trente ans à condition que le greffon soit partagé.
 
 3.4. Pour les malades pour lesquels la probabilité d'accès à un greffon apparié est faible, une dérogation à la règle décrite au point II.10 est possible, selon des modalités définies par l'Agence de la biomédecine qui comportent le recours au collège d'experts.
 
