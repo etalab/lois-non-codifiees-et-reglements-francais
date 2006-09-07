@@ -10,4 +10,4 @@ c) Les dépenses réglées par l'intermédiaire des régisseurs ;
 
 d) Les dépenses atteintes par la déchéance dans un délai de six mois ;
 
-e) Les dépenses dont le ministre des finances a autorisé le règlement en espèces ou par mandat-carte postal ou par carte bancaire.
+e) Les dépenses dont le ministre des finances a autorisé le règlement en espèces ou par mandat ou par carte bancaire.

@@ -10,7 +10,7 @@ La demande est accompagnée :
 
 4° D'un extrait du registre du commerce et des sociétés datant de moins d'un mois si la personne est immatriculée à ce registre ou d'un double de la demande si elle doit y être immatriculée ;
 
-5° Suivant le cas, d'une attestation délivrée par l'établissement de crédit qui a ouvert le compte prévu soit par l'article 55, soit par l'article 59, avec l'indication du numéro de compte et de la succursale qui le tient, ou d'une attestation d'ouverture au nom de chaque mandant des comptes bancaires ou postaux prévus par l'article 71 ;
+5° Suivant le cas, d'une attestation délivrée par l'établissement de crédit qui a ouvert le compte prévu soit par l'article 55, soit par l'article 59, avec l'indication du numéro de compte et de la succursale qui le tient, ou d'une attestation d'ouverture au nom de chaque mandant des comptes bancaires prévus par l'article 71 ;
 
 6° Le cas échéant, lorsque la demande tend à la délivrance d'une carte portant la mention "Transactions sur immeubles et fonds de commerce" ou "Marchand de listes", de la déclaration sur l'honneur qu'il n'est reçu aucun fonds, effet ou valeur à l'occasion des opérations mentionnées aux 1° à 5°, 7° et 8° de l'article 1er de la loi du 2 janvier 1970 susvisée.
 

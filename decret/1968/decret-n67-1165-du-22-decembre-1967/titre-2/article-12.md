@@ -1,6 +1,6 @@
 # Article 12
 
-En application des dispositions du dernier alinéa de l'article 22 de l'ordonnance susvisée, la contre-valeur des titres perdus ou périmés est versée à l'émetteur par le centre de chèques postaux ou l'établissement bancaire qui tient son compte de titres-restaurant.
+En application des dispositions du dernier alinéa de l'article 22 de l'ordonnance susvisée, la contre-valeur des titres perdus ou périmés est versée à l'émetteur par l'établissement bancaire qui tient son compte de titres-restaurant.
 
 L'émetteur est autorisé à effectuer sur cette somme un prélèvement dont le taux maximum est fixé par arrêté du ministre de l'économie et des finances et qui est destiné à couvrir forfaitairement les frais de répartition entraînés par l'application du présent article et les frais d'expert comptable exposés en vertu de l'article 13 ci-après.
 

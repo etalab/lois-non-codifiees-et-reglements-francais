@@ -1,6 +1,6 @@
 # Article 50
 
-La caisse de retraites doit déposer à son compte courant postal, à la Caisse des dépôts et consignations ou à la Banque de France ou au Trésor ou dans une banque choisie par la commission de gestion, les sommes qui dépassent le chiffre de l'encaisse que le trésorier est autorisé à conserver par décision de la commission de gestion.
+La caisse de retraites doit déposer à la Caisse des dépôts et consignations ou à la Banque de France ou au Trésor ou dans une banque choisie par la commission de gestion, les sommes qui dépassent le chiffre de l'encaisse que le trésorier est autorisé à conserver par décision de la commission de gestion.
 
 Le montant des sommes portées sur le compte de disponibilité courante auprès de la banque choisie par la commission ne peut être inférieur au montant des fonds nécessaires au paiement d'une échéance de pension. Ce compte ne peut être alimenté que dans la huitaine précédant ladite échéance.
 

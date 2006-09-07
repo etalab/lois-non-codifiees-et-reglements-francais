@@ -1,10 +1,10 @@
 # Article 1
 
-Les titres-restaurant doivent dans tous les cas comporter, à l'encre et en caractères très apparents [*conditions de forme*], les mentions [*obligatoires*] suivantes :
+Les titres-restaurant doivent dans tous les cas comporter, à l'encre et en caractères très apparents, les mentions suivantes :
 
 1) Nom et adresse de l'émetteur ;
 
-2) Nom et adresse de la personne, du centre de chèques postaux ou de l'établissement bancaire à qui les titres doivent être présentés au remboursement par les restaurateurs ;
+2) Nom et adresse de la personne de l'établissement bancaire à qui les titres doivent être présentés au remboursement par les restaurateurs ;
 
 3) Montant de la valeur libératoire du titre ;
 

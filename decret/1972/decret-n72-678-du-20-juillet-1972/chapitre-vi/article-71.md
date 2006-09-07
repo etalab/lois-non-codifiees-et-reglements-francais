@@ -1,6 +1,6 @@
 # Article 71
 
-Lorsque la garantie résulte d'une consignation, les versements ou remises mentionnés à l'article 64 doivent être faits à un compte ouvert, par un établissement de crédit ou par la caisse des dépôts et consignations ou par un centre de chèques postaux, au nom de chaque mandant ou de chaque indivision.
+Lorsque la garantie résulte d'une consignation, les versements ou remises mentionnés à l'article 64 doivent être faits à un compte ouvert, par un établissement de crédit ou par la caisse des dépôts et consignations, au nom de chaque mandant ou de chaque indivision.
 
 Toutes les sommes ou valeurs reçues à l'occasion des opérations de gestion immobilière doivent être versées dans les trois jours francs à ce compte.
 

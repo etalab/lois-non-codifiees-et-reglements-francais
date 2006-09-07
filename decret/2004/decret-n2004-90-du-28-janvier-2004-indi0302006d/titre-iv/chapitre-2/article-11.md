@@ -1,6 +1,6 @@
 # Article 11
 
-I. - Les contributeurs mentionnés aux 2°, 3° et 4° de l'article 8 adressent à la Commission de régulation de l'énergie, avant le 31 juillet de l'année en cours et avant le 31 janvier suivant, une déclaration comportant, s'il s'agit d'une personne physique, ses nom, prénom et domicile ou, s'il s'agit d'une personne morale, sa dénomination ou sa raison sociale, sa forme juridique, l'adresse de son siège social, son numéro d'identité au répertoire national des entreprises et des établissements ainsi que la qualité du déclarant et, dans tous les cas, ses coordonnées bancaires ou postales.
+I. - Les contributeurs mentionnés aux 2°, 3° et 4° de l'article 8 adressent à la Commission de régulation de l'énergie, avant le 31 juillet de l'année en cours et avant le 31 janvier suivant, une déclaration comportant, s'il s'agit d'une personne physique, ses nom, prénom et domicile ou, s'il s'agit d'une personne morale, sa dénomination ou sa raison sociale, sa forme juridique, l'adresse de son siège social, son numéro d'identité au répertoire national des entreprises et des établissements ainsi que la qualité du déclarant et, dans tous les cas, ses coordonnées bancaires.
 
 La déclaration comporte également, pour le semestre civil écoulé :
 

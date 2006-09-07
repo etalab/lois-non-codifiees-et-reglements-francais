@@ -1,6 +1,6 @@
 # Article 5
 
-I. - Les opérateurs qui supportent des charges imputables aux missions de service public adressent à la Commission de régulation de l'énergie, avant le 31 mars de chaque année, une déclaration mentionnant, s'il s'agit d'une personne physique, ses nom, prénom et domicile ou, s'il s'agit d'une personne morale, sa dénomination ou sa raison sociale, sa forme juridique, l'adresse de son siège social, son numéro d'identité au répertoire national des entreprises et des établissements ainsi que la qualité du déclarant, et, dans tous les cas, ses coordonnées bancaires ou postales.
+I. - Les opérateurs qui supportent des charges imputables aux missions de service public adressent à la Commission de régulation de l'énergie, avant le 31 mars de chaque année, une déclaration mentionnant, s'il s'agit d'une personne physique, ses nom, prénom et domicile ou, s'il s'agit d'une personne morale, sa dénomination ou sa raison sociale, sa forme juridique, l'adresse de son siège social, son numéro d'identité au répertoire national des entreprises et des établissements ainsi que la qualité du déclarant, et, dans tous les cas, ses coordonnées bancaires.
 
 La déclaration comporte, en tant que de besoin :
 
