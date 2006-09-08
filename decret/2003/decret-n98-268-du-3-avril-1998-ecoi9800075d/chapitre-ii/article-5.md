@@ -1,3 +1,5 @@
 # Article 5
 
-Les candidats qui atteignent l'âge limite supérieur pour se présenter au concours externe dans une année au cours de laquelle aucun concours n'a lieu peuvent faire acte de candidature au concours suivant.
+I. - Peuvent se présenter à l'examen professionnel mentionné au 2° de l'article 4 les fonctionnaires de catégorie C du ministère de l'économie, des finances et de l'industrie qui justifient d'au moins cinq ans de services en cette qualité au 1er janvier de l'année au titre de laquelle l'examen professionnel est organisé.
+
+II. - Peuvent être inscrits sur la liste d'aptitude mentionnée au 2° de l'article 4, établie après avis de la commission administrative paritaire, les fonctionnaires du corps des techniciens du ministère de l'économie, des finances et de l'industrie régis par le décret n° 2004-513 du 9 juin 2004 portant statut particulier de ce corps et du corps des aides techniques de laboratoire régis par le décret n° 72-812 du 23 août 1972 relatif aux personnels administratif, de laboratoire, de surveillance ou spécialisé des écoles nationales des mines relevant du ministère du développement industriel et scientifique qui sont âgés de quarante ans au moins et justifient d'au moins dix ans de services effectifs dans l'un ou dans les deux corps.
