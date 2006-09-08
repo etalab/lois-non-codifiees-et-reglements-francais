@@ -619,6 +619,7 @@
 - [Arrêté du 30 septembre 2005 (SANP0523605A)](arrete-du-30-septembre-2005-sanp0523605a)
 - [Arrêté du 30 mai 2006 (DEFP0600669A)](arrete-du-30-mai-2006-defp0600669a)
 - [Arrêté du 30 mai 2006 (SANS0621944A)](arrete-du-30-mai-2006-sans0621944a)
+- [Arrêté du 31 août 2006 (SOCF0611828A)](arrete-du-31-aout-2006-socf0611828a)
 - [Arrêté du 31 décembre 1992 (SANP9203358A)](arrete-du-31-decembre-1992-sanp9203358a)
 - [Arrêté du 31 décembre 1999 (ECOD9970023A)](arrete-du-31-decembre-1999-ecod9970023a)
 - [Arrêté du 31 juillet 1989 (PRME8961362A)](arrete-du-31-juillet-1989-prme8961362a)
