@@ -40,8 +40,8 @@ a) Quatre membres du personnel d'enseignement et de recherche de l'école ;
 
 b) Un membre du personnel technique ou administratif de l'école ;
 
-c) Trois étudiants, dont obligatoirement un ingénieur de l'armement et un étudiant civil, désignés par le directeur de l'école sur proposition des catégories d'étudiants concernées.
+c) Trois étudiants, dont obligatoirement un ingénieur de l'armement et un étudiant civil, élus par les étudiants.
 
 II.  Les représentants des personnels sont élus suivant des modalités fixées par arrêté du ministre de la défense.
 
-Le directeur de l'école, le contrôleur financier et l'agent comptable assistent aux séances du conseil avec voix consultative.
+Le directeur de l'école, le membre du corps du contrôle général économique et financier et l'agent comptable assistent aux séances du conseil avec voix consultative.
