@@ -14,4 +14,6 @@ Les ressources de l'établissement comprennent notamment :
 
 6° Les revenus nets de ses biens meubles et immeubles ;
 
-7° Les dons et legs.
+7° Les dons et legs ;
+
+8° Les rémunérations de prestations de service et les remboursements d'avances et de préfinancements divers consentis par l'établissement.
