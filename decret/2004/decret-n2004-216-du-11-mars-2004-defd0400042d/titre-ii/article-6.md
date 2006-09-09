@@ -22,7 +22,7 @@ Le conseil d'administration délibère obligatoirement sur les objets suivants :
 
 8° Echanges et constructions d'immeubles ou toute immobilisation dont le montant dépasse un seuil fixé par le ministre de l'économie, des finances et de l'industrie ;
 
-9° Actions en justice et transactions ;
+9° Transactions ;
 
 10° Créations et suppressions des comptoirs ;
 
