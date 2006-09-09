@@ -4,16 +4,20 @@ Le conseil de la recherche de l'Ecole nationale supérieure de l'aéronautique e
 
 1° Le directeur de l'école ou son représentant, président ;
 
-2° Le directeur de la formation et de la recherche ;
+2° Le directeur scientifique ;
 
-3° Les responsables des laboratoires de recherche de l'école ;
+3° Le directeur des études ;
 
-4° Trois représentants du personnel des laboratoires de l'école, dont au moins un chercheur ou ingénieur, désignés par ce personnel ;
+4° Le directeur du développement ;
 
-5° Trois représentants de la délégation générale pour l'armement ;
+5° Les responsables des départements de recherche de l'école ;
 
-6° Cinq personnalités extérieures choisies par le conseil d'administration ;
+6° Trois représentants du personnel des départements de recherche de l'école, dont au moins un chercheur ou ingénieur, élus par ce personnel ;
 
-7° Le directeur du centre d'études et de recherches de l'ONERA de Toulouse ou son représentant ;
+7° Trois représentants de la délégation générale pour l'armement ;
 
-8° Trois représentants des stagiaires de troisième cycle désignés par le directeur après avis de ces stagiaires.
+8° Cinq personnalités extérieures choisies par le conseil d'administration ;
+
+9° Le président de l'Office national d'études et de recherches aérospatiales ou son représentant ;
+
+10° Trois représentants des stagiaires de troisième cycle désignés par le directeur, après consultation de ces stagiaires.

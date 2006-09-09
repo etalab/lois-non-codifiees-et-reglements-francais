@@ -28,7 +28,7 @@ b) Les modalités générales de scolarité des différentes catégories d'étud
 
 c) Le règlement intérieur de l'établissement, qui devient exécutoire après approbation par le ministre de la défense ;
 
-d) La nomination du directeur de la formation et de la recherche ;
+d) Les nominations du directeur scientifique, du directeur des études et du directeur du développement ;
 
 e) Les règles générales de recrutement de personnels sur contrat par l'établissement.
 
