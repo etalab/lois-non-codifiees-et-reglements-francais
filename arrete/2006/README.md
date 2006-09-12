@@ -432,6 +432,7 @@
 - [Arrêté du 23 mai 2006 (SANH0622208A)](arrete-du-23-mai-2006-sanh0622208a)
 - [Arrêté du 23 mai 2006 (SANH0622210A)](arrete-du-23-mai-2006-sanh0622210a)
 - [Arrêté du 24 août 1998 (MEST9810929A)](arrete-du-24-aout-1998-mest9810929a)
+- [Arrêté du 24 août 2006 (DEFP0601105A)](arrete-du-24-aout-2006-defp0601105a)
 - [Arrêté du 24 août 2006 (EQUP0601734A)](arrete-du-24-aout-2006-equp0601734a)
 - [Arrêté du 24 août 2006 (SANP0623514A)](arrete-du-24-aout-2006-sanp0623514a)
 - [Arrêté du 24 août 2006 (SANP0623515A)](arrete-du-24-aout-2006-sanp0623515a)
