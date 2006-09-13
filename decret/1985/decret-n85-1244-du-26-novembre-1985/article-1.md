@@ -32,6 +32,8 @@ Bordeaux-III :
 
 Institut EGID (environnement, eau, géo-ingénierie, imagerie, développement).
 
+Institut de journalisme Bordeaux-Aquitaine.
+
 Caen :
 
 Institut de biologie fondamentale et appliquée.
