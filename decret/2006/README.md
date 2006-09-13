@@ -85,6 +85,7 @@
 - [Décret n°2006-1020 du 11 août 2006 (INDI0608018D)](decret-n2006-1020-du-11-aout-2006-indi0608018d)
 - [Décret n°2006-1021 du 11 août 2006 (MJSK0670176D)](decret-n2006-1021-du-11-aout-2006-mjsk0670176d)
 - [Décret n°2006-1137 du 11 septembre 2006 (MENE0600661D)](decret-n2006-1137-du-11-septembre-2006-mene0600661d)
+- [Décret n°2006-1138 du 11 septembre 2006 (MENS0602218D)](decret-n2006-1138-du-11-septembre-2006-mens0602218d)
 - [Décret n°2005-1555 du 13 décembre 2005 (SOCO0511976D)](decret-n2005-1555-du-13-decembre-2005-soco0511976d)
 - [Décret n°86-68 du 13 janvier 1986](decret-n86-68-du-13-janvier-1986)
 - [Décret n°96-552 du 19 juin 1996 (ACVX9600061D)](decret-n96-552-du-19-juin-1996-acvx9600061d)
