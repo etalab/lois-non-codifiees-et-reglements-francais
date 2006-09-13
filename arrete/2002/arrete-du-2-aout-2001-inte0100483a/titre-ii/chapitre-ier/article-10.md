@@ -6,6 +6,6 @@ Les épreuves écrites sont les suivantes :
 
 - soit du commentaire d'une idée exprimée dans le texte ;
 
-- soit de réponses à des questions visant à vérifier la compréhension du sujet (durée : quatre heures, coefficient 4).
+- soit de réponses à des questions visant à vérifier la compréhension du sujet (durée : quatre heures, coefficient 3).
 
-2. Rédaction d'un rapport technique sur un sinistre à partir d'un cas concret présenté dans un dossier remis au candidat. Cette épreuve a pour objet d'apprécier, d'une part, ses connaissances professionnelles et, d'autre part, ses qualités de rédaction et de compréhension ainsi que ses facultés à argumenter et à présenter des commentaires (durée : quatre heures, coefficient 3).
+2. Une épreuve s'adressant à un chef d'agrès expérimenté, consistant en la rédaction d'un rapport portant sur un cas concret opérationnel, présenté dans un dossier remis au candidat accompagné de questions en rapport avec le sujet, permettant d'évaluer ses compétences professionnelles (durée : 3 heures, coefficient 4).
