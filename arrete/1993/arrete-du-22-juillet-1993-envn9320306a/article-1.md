@@ -225,3 +225,9 @@ La Noctuelle du Roseau-à-balais ou Noctuelle des roselières, Arenostola phragm
 La Nonagrie du Phragmite, Chilodes maritumus Tauscher.
 
 L'interdiction de transport, de colportage, d'utilisation, de mise en vente, de vente ou d'achat ne s'applique pas aux spécimens datant d'avant le 1er juin 1947, dès lors que leur état brut naturel a été largement modifié pour en faire des bijoux, objets décoratifs, artistiques ou utilitaires, qu'ils peuvent être utilisés sans être ouvragés ou transformés davantage et que la facture ou l'attestation de cession mentionne leur ancienneté.
+
+L'interdiction de préparation aux fins de collections, de transport, de colportage, d'utilisation, de mise en vente, de vente ou d'achat ne s'applique pas aux spécimens nés et élevés en captivité ou légalement introduits en France.
+
+Toutefois, tout animal naturalisé est mentionné dans un registre coté et paraphé par le maire ou le commissaire de police et tenu sans blanc ni rature, afin de permettre le contrôle de sa provenance. Sur ce registre figure en tête le nom ou la raison sociale du taxidermiste, son adresse ainsi que son numéro d'enregistrement au registre des métiers. Pour chaque animal, le registre précise le nom scientifique et le nom commun, l'origine et la destination, les nom et prénom de la personne qui l'a remis, le numéro du permis d'importation le cas échéant, ainsi que les dates d'entrée et de sortie de l'atelier de taxidermie.
+
+Les exemptions ci-dessus aux interdictions de préparation aux fins de collections, de transport, de colportage, d'utilisation, de mise en vente, de vente ou d'achat ne dispensent pas de l'obtention des autorisations requises, le cas échéant, au titre du règlement (CE) n° 338/97 du Conseil du 9 décembre 1996 relatif à la protection des espèces de faune et de flore sauvages par le contrôle de leur commerce.

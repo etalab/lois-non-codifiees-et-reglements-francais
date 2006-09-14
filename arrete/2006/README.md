@@ -25,6 +25,7 @@
 - [Arrêté du 1 septembre 2006 (INTC0600705A)](arrete-du-1-septembre-2006-intc0600705a)
 - [Arrêté du 1 septembre 2006 (INTC0600707A)](arrete-du-1-septembre-2006-intc0600707a)
 - [Arrêté du 2 août 2005 (INTC0500521A)](arrete-du-2-aout-2005-intc0500521a)
+- [Arrêté du 2 août 2006 (SANA0622995A)](arrete-du-2-aout-2006-sana0622995a)
 - [Arrêté du 2 août 2006 (SANH0623119A)](arrete-du-2-aout-2006-sanh0623119a)
 - [Arrêté du 2 août 2006 (SOCA0623232A)](arrete-du-2-aout-2006-soca0623232a)
 - [Arrêté du 2 février 2006 (AGRF0600295A)](arrete-du-2-fevrier-2006-agrf0600295a)
