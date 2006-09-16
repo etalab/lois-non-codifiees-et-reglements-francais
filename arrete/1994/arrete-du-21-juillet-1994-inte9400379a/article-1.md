@@ -8,6 +8,6 @@ Sont agréés pour procéder, par eux-mêmes, au contrôle de l'aptitude à l'em
 
 - le Centre scientifique et technique du bâtiment (C.S.T.B.) ;
 
-- le Centre technique industriel de la construction métallique (C.T.I.C.M.).
+- Efectis France.
 
 Le Laboratoire central de la préfecture de police est désigné comme laboratoire pilote. A ce titre, il sera appelé à se prononcer en dernier ressort sur les qualités propres des matériels dont les essais et investigations en d'autres laboratoires auraient donné lieu à contestation.
