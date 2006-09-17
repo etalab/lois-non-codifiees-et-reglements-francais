@@ -100,4 +100,5 @@
 - [Décret n°2005-1787 du 30 décembre 2005 (MCCK0500719D)](decret-n2005-1787-du-30-decembre-2005-mcck0500719d)
 - [Décret n°2005-1789 du 30 décembre 2005 (DOMA0500037D)](decret-n2005-1789-du-30-decembre-2005-doma0500037d)
 - [Décret n°2005-1790 du 30 décembre 2005 (DOMA0500034D)](decret-n2005-1790-du-30-decembre-2005-doma0500034d)
+- [Décret n°2005-1085 du 31 août 2005 (SOCF0510743D)](decret-n2005-1085-du-31-aout-2005-socf0510743d)
 - [Décret n°93-977 du 31 juillet 1993 (JUSC9320356D)](decret-n93-977-du-31-juillet-1993-jusc9320356d)
