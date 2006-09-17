@@ -1,6 +1,6 @@
 # Article 8
 
-Les candidats aux concours sur titres, dossier et épreuves (voie B) présentent un dossier selon les modalités fixées par le jury. A la suite de son examen, le jury établit une liste des candidats appelés à passer les épreuves d'admission spécifiques à l'établissement.
+Les candidats aux concours B passent les épreuves orales d'admissibilité spécifiques à l'établissement. Chaque candidat admissible présente un dossier selon les modalités fixées par le jury. Après examen de ce dossier, le jury propose la liste des candidats admis.
 
 Les candidats au concours C présentent un dossier au jury. Au vu de celui-ci, le jury fixe la liste des candidats admis à subir un entretien.
 
