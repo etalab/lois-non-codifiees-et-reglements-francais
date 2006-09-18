@@ -225,6 +225,7 @@
 - [Arrêté du 12 juin 2006 (DEFD0600709A)](arrete-du-12-juin-2006-defd0600709a)
 - [Arrêté du 12 juin 2006 (PMEA0620052A)](arrete-du-12-juin-2006-pmea0620052a)
 - [Arrêté du 12 octobre 2005 (BUDF0500039A)](arrete-du-12-octobre-2005-budf0500039a)
+- [Arrêté du 12 septembre 2006 (MAEF0610061A)](arrete-du-12-septembre-2006-maef0610061a)
 - [Arrêté du 12 mai 2006 (AGRG0600922A)](arrete-du-12-mai-2006-agrg0600922a)
 - [Arrêté du 12 mai 2006 (AGRG0600923A)](arrete-du-12-mai-2006-agrg0600923a)
 - [Arrêté du 12 mai 2006 (DEFD0600469A)](arrete-du-12-mai-2006-defd0600469a)
