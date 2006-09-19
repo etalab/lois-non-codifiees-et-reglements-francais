@@ -133,6 +133,7 @@
 - [Arrêté du 7 juillet 2006 (SOCF0611513A)](arrete-du-7-juillet-2006-socf0611513a)
 - [Arrêté du 7 juin 2006 (DEFM0600693A)](arrete-du-7-juin-2006-defm0600693a)
 - [Arrêté du 7 mars 2006 (INTA0600155A)](arrete-du-7-mars-2006-inta0600155a)
+- [Arrêté du 7 septembre 2006 (MENS0602066A)](arrete-du-7-septembre-2006-mens0602066a)
 - [Arrêté du 8 août 2006 (DEFL0601075A)](arrete-du-8-aout-2006-defl0601075a)
 - [Arrêté du 8 décembre 2005 (BUDD0580003A)](arrete-du-8-decembre-2005-budd0580003a)
 - [Arrêté du 8 juin 2006 (AGRG0601032A)](arrete-du-8-juin-2006-agrg0601032a)
