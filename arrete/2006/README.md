@@ -485,6 +485,7 @@
 - [Arrêté du 24 mai 2006 (SANP0622221A)](arrete-du-24-mai-2006-sanp0622221a)
 - [Arrêté du 24 mai 2006 (SANP0622223A)](arrete-du-24-mai-2006-sanp0622223a)
 - [Arrêté du 24 mai 2006 (SANP0622225A)](arrete-du-24-mai-2006-sanp0622225a)
+- [Arrêté du 25 août 2006 (JUSD0660059A)](arrete-du-25-aout-2006-jusd0660059a)
 - [Arrêté du 25 août 2006 (SANP0623516A)](arrete-du-25-aout-2006-sanp0623516a)
 - [Arrêté du 25 août 2006 (SANP0623520A)](arrete-du-25-aout-2006-sanp0623520a)
 - [Arrêté du 25 avril 2006 (ECOU0600020A)](arrete-du-25-avril-2006-ecou0600020a)
