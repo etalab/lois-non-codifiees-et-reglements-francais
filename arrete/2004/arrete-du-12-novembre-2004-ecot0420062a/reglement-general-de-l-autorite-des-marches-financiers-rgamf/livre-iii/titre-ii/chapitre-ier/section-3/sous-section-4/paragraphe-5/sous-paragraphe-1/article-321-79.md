@@ -2,7 +2,7 @@
 
 L'enregistrement d'une conversation téléphonique a pour fin de faciliter le contrôle de la régularité des opérations effectuées et leur conformité aux instructions des donneurs d'ordres.
 
-L'audition de l'enregistrement d'une conversation téléphonique, prévu à l'article 321-78, peut être effectuée par le déontologue. Si le déontologue ne procède pas lui-même à l'audition, celle-ci ne peut intervenir qu'avec son accord ou l'accord d'une personne désignée par lui.
+L'audition de l'enregistrement d'une conversation téléphonique, prévu à l'article 321-78, peut être effectuée par le responsable de la conformité pour les services d'investissement. Si le responsable de la conformité pour les services d'investissement ne procède pas lui-même à l'audition, celle-ci ne peut intervenir qu'avec son accord ou l'accord d'une personne désignée par lui.
 
 Le collaborateur dont les conversations téléphoniques sont susceptibles de faire l'objet d'un enregistrement est informé des conditions dans lesquelles il pourra écouter les enregistrements en cause.
 

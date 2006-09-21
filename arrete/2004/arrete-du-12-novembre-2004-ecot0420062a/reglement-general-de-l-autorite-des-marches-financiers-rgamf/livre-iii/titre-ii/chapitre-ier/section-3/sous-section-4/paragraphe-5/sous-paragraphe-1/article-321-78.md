@@ -4,4 +4,4 @@ Le prestataire habilité organise, sous réserve des dispositions de l'article 3
 
 1° Des négociateurs d'instruments financiers ;
 
-2° Des collaborateurs qui, sans être négociateurs, participent à la relation commerciale avec les donneurs d'ordres, lorsque le déontologue l'estime nécessaire du fait de l'importance que sont susceptibles de revêtir les montants ou les risques des ordres en cause.
+2° Des collaborateurs qui, sans être négociateurs, participent à la relation commerciale avec les donneurs d'ordres, lorsque le responsable de la conformité pour les services d'investissement l'estime nécessaire du fait de l'importance que sont susceptibles de revêtir les montants ou les risques des ordres en cause.

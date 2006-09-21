@@ -8,4 +8,4 @@ Le prestataire habilité interdit à ses collaborateurs d'émettre des ordres su
 
 1° Lorsqu'ils sont négociateurs et que leurs fonctions les rendent susceptibles d'intervenir sur cet instrument ;
 
-2° Lorsqu'ils sont analystes et qu'ils sont susceptibles de produire une analyse sur l'émetteur de cet instrument financier ; la même interdiction s'applique à l'ensemble des instruments financiers relevant du secteur auquel appartient l'émetteur sur lequel l'analyse est susceptible de porter. Le recueil mentionné au 2° de l'article 321-26 définit les secteurs concernés.
+2° Lorsqu'ils sont analystes et qu'ils sont susceptibles de produire une analyse sur l'émetteur de cet instrument financier ; la même interdiction s'applique à l'ensemble des instruments financiers relevant du secteur auquel appartient l'émetteur sur lequel l'analyse est susceptible de porter. Le recueil mentionné au 2° de l'article 321-22 définit les secteurs concernés.

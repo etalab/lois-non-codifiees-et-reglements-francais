@@ -1,6 +1,6 @@
 # Article 321-24
 
-Les règles de bonne conduite établissent, en application des articles L. 533-4 et L. 533-6 du code monétaire et financier, les principes généraux de comportement et leurs règles essentielles d'application et de contrôle, auxquels doivent se conformer le prestataire habilité et les personnes agissant pour son compte ou sous son autorité. Elles s'appliquent également aux personnes mentionnées à l'article L. 421-8 du code monétaire et financier habilitées par l'AMF à fournir des services mentionnés aux 2° et 3° de l'article L. 321-1 du code monétaire et financier.
+Les règles de bonne conduite établissent, dans le respect des exigences déontologiques et en vertu des articles L. 533-4 et L. 533-6 du code monétaire et financier, les principes généraux de comportement et leurs règles essentielles d'application et de contrôle, auxquels doivent se conformer le prestataire habilité et les personnes agissant pour son compte ou sous son autorité. Elles s'appliquent également aux personnes mentionnées à l'article L. 421-8 du code monétaire et financier habilitées par l'AMF à fournir des services mentionnés aux 2° et 3° de l'article L. 321-1 du code monétaire et financier.
 
 Les dirigeants du prestataire habilité veillent au respect des présentes dispositions et à la mise en oeuvre des ressources et des procédures adaptées.
 
