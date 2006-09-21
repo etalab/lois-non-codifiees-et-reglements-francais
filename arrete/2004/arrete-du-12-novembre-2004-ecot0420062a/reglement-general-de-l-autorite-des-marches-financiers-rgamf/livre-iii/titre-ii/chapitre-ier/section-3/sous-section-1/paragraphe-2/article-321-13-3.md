@@ -1,0 +1,7 @@
+# Article 321-13-3
+
+Le jury mentionné à l'article 321-13-1 est présidé par un responsable de la conformité pour les services d'investissement en exercice, assisté par une personne dirigeant un service opérationnel chez un prestataire habilité et par un membre des services de l'AMF. Si un candidat estime qu'un membre du jury est en conflit d'intérêts à son égard, il peut demander à l'AMF d'être affecté à un autre jury.
+
+Le jury propose à l'AMF la délivrance de la carte professionnelle s'il estime que les conditions mentionnées au second alinéa de l'article 321-13 sont satisfaites. Sans préjudice des dispositions du dernier alinéa du présent article, le jury propose de refuser la délivrance de la carte professionnelle s'il estime que les conditions requises pour l'exercice de la fonction de responsable de la conformité pour les services d'investissement ne sont pas satisfaites.
+
+Si le jury estime que le candidat dispose des qualités requises pour exercer la fonction de responsable de la conformité pour les services d'investissement mais que le prestataire habilité ne lui accorde pas une autonomie appropriée ou ne met pas à sa disposition les moyens humains et techniques nécessaires à l'accomplissement de sa fonction, il peut proposer de subordonner la délivrance de la carte professionnelle à la condition que le prestataire habilité régularise cette situation et informe l'AMF des mesures prises à cet effet.

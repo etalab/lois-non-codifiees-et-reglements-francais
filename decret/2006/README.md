@@ -107,6 +107,7 @@
 - [Décret n°2006-1157 du 16 septembre 2006 (EQUS0601629D)](decret-n2006-1157-du-16-septembre-2006-equs0601629d)
 - [Décret n°2006-1165 du 18 septembre 2006 (MAEA0620221D)](decret-n2006-1165-du-18-septembre-2006-maea0620221d)
 - [Décret n°96-552 du 19 juin 1996 (ACVX9600061D)](decret-n96-552-du-19-juin-1996-acvx9600061d)
+- [Décret n°2006-1166 du 20 septembre 2006 (DEFP0601117D)](decret-n2006-1166-du-20-septembre-2006-defp0601117d)
 - [Décret du 21 août 2006 (MENE0601963D)](decret-du-21-aout-2006-mene0601963d)
 - [Décret n°2006-1022 du 21 août 2006 (INTB0600178D)](decret-n2006-1022-du-21-aout-2006-intb0600178d)
 - [Décret n°2006-1023 du 21 août 2006 (INTB0600177D)](decret-n2006-1023-du-21-aout-2006-intb0600177d)
