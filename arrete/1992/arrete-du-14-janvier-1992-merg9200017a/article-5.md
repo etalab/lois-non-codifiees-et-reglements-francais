@@ -2,36 +2,16 @@
 
 I. - Les coefficients des épreuves de l'examen pour l'obtention du certificat d'initiation nautique sont donnés dans le tableau ci-après :
 
-Contrôle continu
+(Tableau non reproduit, consulter le fac-similé)
 
-Nature des domaines : Manoeuvre, embarcation, matelotage. Coefficient : 2
+II. - La formation en alternance est composée de deux périodes :
 
-Nature des domaines : Sécurité, sauvetage, survie.
+- une formation préalable comprenant une initiation à la sécurité et un embarquement-découverte d'une durée d'environ deux semaines ;
 
-Coefficient : 2
+- une formation principale organisée sur une durée minimale de six mois à raison d'une semaine de cours dans un établissement scolaire maritime pour trois semaines d'embarquement comme matelot sous la responsabilité d'un tuteur.
 
-Epreuves terminales
+La formation principale ne peut s'effectuer que dans le cadre d'un contrat de professionnalisation maritime. La formation préalable peut y être également incluse, mais dans le cas contraire le centre de formation et l'armateur doivent contracter une assurance accident spécifique.
 
-Nature des domaines : Le milieu maritime.
+III. - Le référentiel professionnel du certificat d'initiation nautique, le référentiel de la formation, les horaires de stage, les modalités de l'alternance figurent en annexe du présent arrêté (1).
 
-Coefficient : 1
-
-Nature des domaines : Le navire et ses énergies.
-
-Coefficient : 2
-
-Nature des domaines : L'environnement réglementaire.
-
-Coefficient : 1
-
-Nature des domaines : Règles de barre et de route, feux, signaux, balisage.
-
-Coefficient : 2
-
-Total. 10
-
-II. - Le référentiel professionnel du certificat d'initiation nautique, le référentiel de la formation et l'horaire du stage figurent en annexe au présent arrêté (1).
-
-Nota :
-
-(1) L'annexe au présent arrêté pourra être consultée au secrétariat d'Etat à la mer (bureau de l'éducation maritime), 3, place de Fontenoy, 75007 Paris, ou à l'AGEMA, 51 bis, rue Sainte-Anne, 75002 Paris.
+(1) L'annexe au présent arrêté pourra être consultée à la direction des affaires maritimes, 3, place de Fontenoy, 75007 Paris.

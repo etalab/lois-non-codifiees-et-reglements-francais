@@ -1,5 +1,19 @@
 # Article 3
 
-Par dérogation aux dispositions de l'article 37 du décret du 28 mai 1992 susvisé, lorsque le fonctionnaire dont le cas est soumis à l'examen de la commission administrative paritaire des professeurs agrégés, des professeurs certifiés, des professeurs d'éducation physique et sportive ou des chargés d'enseignement d'éducation physique et sportive appartient à la hors-classe de ce corps, le représentant de ce grade ou ses deux représentants siègent avec leurs premiers suppléants ou à défaut leurs deuxièmes suppléants qui ont alors voix délibérative. Pour chaque suppléant ainsi désigné, il est fait appel à un représentant supplémentaire de l'administration choisi parmi les suppléants.
+Par dérogation à l'article 37 du décret du 28 mai 1982 susvisé et à l'article 2, la commission administrative paritaire siège dans les différentes compositions suivantes :
 
-Lorsque le fonctionnaire dont le cas est soumis à l'examen de la commission administrative paritaire des chargés d'enseignement d'éducation physique et sportive appartient à la classe exceptionnelle de ce corps, le représentant de ce grade siège avec son premier suppléant ou à défaut son deuxième suppléant qui a alors voix délibérative. II est fait appel à un représentant supplémentaire de l'administration choisi parmi les suppléants.
+1° Lorsque le fonctionnaire dont le cas est soumis à l'examen de la commission administrative paritaire appartient :
+
+a) A la hors-classe des professeurs agrégés, le représentant du personnel titulaire siège avec un suppléant qui a voix délibérative ;
+
+b) A la hors-classe des professeurs certifiés, les trois représentants du personnel titulaires siègent avec trois suppléants qui ont voix délibérative ;
+
+c) A la hors-classe des professeurs d'éducation physique et sportive, le représentant du personnel titulaire siège avec son suppléant qui a voix délibérative ;
+
+d) A la hors-classe ou à la classe exceptionnelle des chargés d'enseignement d'éducation physique et sportive, les deux représentants du personnel titulaires siègent avec deux suppléants qui ont voix délibérative.
+
+2° Les représentants du personnel titulaires et suppléants mentionnés au 1° sont les élus du grade auquel le fonctionnaire appartient.
+
+3° Les membres suppléants mentionnés au 1° sont des premiers suppléants ou, à défaut, des seconds suppléants.
+
+4° Pour chaque représentant du personnel titulaire et suppléant qui siège et délibère, un représentant de l'administration à la commission administrative paritaire siège et délibère.
