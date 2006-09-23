@@ -4,4 +4,4 @@ L'autorisation provisoire de vente ou d'importation est accordée pour une duré
 
 Les compléments d'information demandés dans la décision doivent être fournis au moins quatre mois avant la date d'expiration de l'autorisation provisoire de vente ou d'importation.
 
-Après avis du comité d'homologation et, le cas échéant, après avis de la commission d'étude de la toxicité, le ministre de l'agriculture et de la pêche prononce l'une des décisions prévues à l'article 3, point II, du présent arrêté.
+Après avis du comité d'homologation et, le cas échéant, après avis de l'Agence française de sécurité sanitaire des aliments, le ministre de l'agriculture et de la pêche prononce l'une des décisions prévues à l'article 3, point II, du présent arrêté.

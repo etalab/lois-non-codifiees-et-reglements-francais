@@ -8,6 +8,6 @@ II. - La demande d'inscription de la substance active est adressée au ministèr
 
 - un dossier conforme à l'annexe II du présent arrêté concernant au moins un produit phytopharmaceutique contenant cette substance active établi en trois exemplaires, ainsi que soixante-cinq résumés dudit dossier.
 
-III. - La conformité des dossiers est notifiée par le ministre de l'agriculture et de la pêche au demandeur, après avis de la commission d'étude de la toxicité des produits antiparasitaires à usage agricole et des produits assimilés et sur proposition du Comité d'homologation des produits antiparasitaires à usage agricole et des produits assimilés.
+III. - La conformité des dossiers est notifiée par le ministre de l'agriculture et de la pêche au demandeur, après avis de l'Agence française de sécurité sanitaire des aliments et sur proposition du Comité d'homologation des produits antiparasitaires à usage agricole et des produits assimilés.
 
 Si ces dossiers sont jugés conformes, le demandeur doit transmettre sa demande d'inscription de la substance active dans les meilleurs délais à la commission des communautés européennes et aux autres Etats membres.

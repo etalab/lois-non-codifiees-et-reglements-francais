@@ -1,6 +1,6 @@
 # Article 5
 
-Le ministre chargé de l'agriculture peut accorder l'autorisation d'apposer une des mentions prévues à l'article 4 sur les produits phytopharmaceutiques bénéficiant d'une autorisation de mise sur le marché, sur proposition de la commission d'étude de la toxicité des produits antiparasitaires à usage agricole.
+Le ministre chargé de l'agriculture peut accorder l'autorisation d'apposer une des mentions prévues à l'article 4 sur les produits phytopharmaceutiques bénéficiant d'une autorisation de mise sur le marché, sur proposition de l'Agence française de sécurité sanitaire des aliments.
 
 Cette proposition est fondée sur l'évaluation d'un dossier dans les conditions prévues à l'article 16 I de l'arrêté du 6 septembre 1994 susvisé.
 

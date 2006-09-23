@@ -10,7 +10,7 @@ Chaque demande doit comprendre :
 
 2. Un dossier, établi en trois exemplaires, contenant tous les éléments déjà recueillis par le demandeur sur l'efficacité et l'innocuité du produit.
 
-- les demandes de distribution aux fins d'expérimentation sont soumises, après avis de la commission d'étude de la toxicité des produits antiparasitaires à usage agricole et des produits assimilés, à l'examen du comité d'homologation des produits antiparasitaires à usage agricole et des produits assimilés. Les décisions sont prises, sur proposition de ce comité, par le ministre de l'agriculture ;
+- les demandes de distribution aux fins d'expérimentation sont soumises, après avis de l'Agence française de sécurité sanitaire des aliments, à l'examen du comité d'homologation des produits antiparasitaires à usage agricole et des produits assimilés. Les décisions sont prises, sur proposition de ce comité, par le ministre de l'agriculture ;
 
 - les autorisations de distribution pour expérimentation sont accordées pour une durée d'un an à compter de la date de notification ;
 
