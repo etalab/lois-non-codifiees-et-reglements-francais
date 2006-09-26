@@ -902,7 +902,6 @@
 - [Arrêté du 25 juillet 1996 (FPPA9600077A)](arrete-du-25-juillet-1996-fppa9600077a)
 - [Arrêté du 25 juillet 1996 (INDB9600559A)](arrete-du-25-juillet-1996-indb9600559a)
 - [Arrêté du 25 juillet 1996 (MCCE9600434A)](arrete-du-25-juillet-1996-mcce9600434a)
-- [Arrêté du 25 juillet 1996 (MIPP9600312A)](arrete-du-25-juillet-1996-mipp9600312a)
 - [Arrêté du 25 juillet 1996 (TASS9622854A)](arrete-du-25-juillet-1996-tass9622854a)
 - [Arrêté du 25 juin 1996 (DEFT9601588A)](arrete-du-25-juin-1996-deft9601588a)
 - [Arrêté du 25 juin 1996 (INDB9600487A)](arrete-du-25-juin-1996-indb9600487a)
