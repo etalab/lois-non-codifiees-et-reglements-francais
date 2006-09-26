@@ -212,6 +212,7 @@
 - [Arrêté du 11 juillet 2006 (INDI0607862A)](arrete-du-11-juillet-2006-indi0607862a)
 - [Arrêté du 11 octobre 1996 (TAST9611441A)](arrete-du-11-octobre-1996-tast9611441a)
 - [Arrêté du 11 septembre 2006 (MENE0602291A)](arrete-du-11-septembre-2006-mene0602291a)
+- [Arrêté du 11 septembre 2006 (SANP0623792A)](arrete-du-11-septembre-2006-sanp0623792a)
 - [Arrêté du 11 mai 2006 (AGRP0600962A)](arrete-du-11-mai-2006-agrp0600962a)
 - [Arrêté du 12 avril 2006 (EQUA0600918A)](arrete-du-12-avril-2006-equa0600918a)
 - [Arrêté du 12 décembre 2005 (INDI0506414A)](arrete-du-12-decembre-2005-indi0506414a)
