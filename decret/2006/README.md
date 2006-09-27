@@ -147,6 +147,7 @@
 - [Décret n°2006-1064 du 25 août 2006 (EQUT0600859D)](decret-n2006-1064-du-25-aout-2006-equt0600859d)
 - [Décret n°2006-1065 du 25 août 2006 (EQUT0600860D)](decret-n2006-1065-du-25-aout-2006-equt0600860d)
 - [Décret n°2006-1072 du 25 août 2006 (SANP0622605D)](decret-n2006-1072-du-25-aout-2006-sanp0622605d)
+- [Décret n°2006-1179 du 25 septembre 2006 (SOCN0611702D)](decret-n2006-1179-du-25-septembre-2006-socn0611702d)
 - [Décret n°92-1032 du 25 septembre 1992 (ACVA9210089D)](decret-n92-1032-du-25-septembre-1992-acva9210089d)
 - [Décret n°2006-923 du 26 juillet 2006 (MJSK0670124D)](decret-n2006-923-du-26-juillet-2006-mjsk0670124d)
 - [Décret n°2007-622 du 27 avril 2007 (DEFH0751234D)](decret-n2007-622-du-27-avril-2007-defh0751234d)
