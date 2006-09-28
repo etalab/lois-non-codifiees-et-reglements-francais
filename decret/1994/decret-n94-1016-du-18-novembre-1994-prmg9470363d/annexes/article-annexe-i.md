@@ -8,8 +8,6 @@ Chiffreurs.
 
 Contrôleurs de la concurrence, de la consommation et de la répression des fraudes.
 
-Contrôleurs des transmissions du ministère de la défense.
-
 Contrôleurs des douanes et droits indirects.
 
 Contrôleurs de l'Institut national de la statistique et des études économiques.

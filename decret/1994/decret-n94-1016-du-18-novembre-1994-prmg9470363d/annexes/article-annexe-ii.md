@@ -7,3 +7,5 @@ Techniciens des parcs nationaux.
 Techniciens de laboratoire.
 
 Techniciens supérieurs de l'industrie et des mines.
+
+Techniciens du ministère de la défense.
