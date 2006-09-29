@@ -1,6 +1,6 @@
 # Article 234-3
 
-Lorsque plus du tiers du capital ou des droits de vote d'une société dont les titres de capital sont admis sur un marché réglementé est détenu par une autre société et constitue une part essentielle de ses actifs, l'obligation définie à l'article 234-2 s'applique quand :
+Sans préjudice du IV de l'article L. 433-3 du code monétaire et financier, lorsque plus du tiers du capital ou des droits de vote d'une société dont les titres de capital sont admis aux négociations sur un marché réglementé d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen, y compris la France, est détenu par une autre société et constitue une part essentielle de ses actifs, l'obligation définie à l'article 234-2 s'applique quand :
 
 1° Une personne vient à prendre le contrôle de la société détentrice au sens des textes applicables à cette dernière ;
 

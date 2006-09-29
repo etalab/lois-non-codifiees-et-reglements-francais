@@ -1,5 +1,7 @@
 # Article 233-2
 
-La mise en oeuvre d'une offre publique utilisant la procédure simplifiée donne lieu, par les personnes concernées, à l'établissement d'un projet de note d'information contenant les informations prévues aux articles 231-20 et 231-21.
+L'offre publique d'achat simplifiée est réalisée par achats sur le marché, aux conditions fixées lors de l'ouverture de l'offre, sauf dans les cas d'offre limitée prévus aux 3°, 5° et 6° de l'article 233-1 et aux articles 233-4 et 233-5.
 
-La ou les notes d'information sont soumises au visa de l'AMF dans les conditions fixées aux articles 231-22 et 231-28, et portées à la connaissance du public dans les conditions fixées à l'article 231-34.
+L'offre publique d'échange simplifiée est centralisée par l'entreprise de marché concernée ou, sous son contrôle, par l'établissement présentateur.
+
+La durée d'une offre simplifiée peut être limitée à dix jours de négociation s'il s'agit d'une offre d'achat et à quinze jours de négociation dans les autres cas, sauf s'il s'agit d'une offre de rachat en application de l'article L. 225-207 du code de commerce.

@@ -1,7 +1,3 @@
 # Article 233-6
 
-Si l'initiateur d'une offre publique simplifiée a été autorisé à se réserver la faculté de réduire les ordres de vente ou d'échange présentés en réponse à son offre, la réduction est opérée proportionnellement, sous réserve des ajustements nécessaires.
-
-La réduction des ordres présentés à une offre de rachat déposée en application du 5° de l'article 233-1 s'opère dans les conditions prévues par le décret n° 67-236 du 23 mars 1967.
-
-Dans ces hypothèses, l'initiateur ne peut intervenir sur le marché des titres concernés.
+Les dispositions des articles 232-15, 232-16, 232-18 et 232-19 s'appliquent aux offres publiques simplifiées. Toutefois, la société émettrice des titres de capital rémunérant une offre publique d'échange simplifiée peut continuer ses interventions sur ses propres titres dans le cadre du programme de rachat d'actions prévu à l'article L. 225-209 du code de commerce.

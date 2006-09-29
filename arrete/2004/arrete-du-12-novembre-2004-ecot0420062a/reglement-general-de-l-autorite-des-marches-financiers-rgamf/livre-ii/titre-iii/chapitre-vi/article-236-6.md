@@ -8,4 +8,4 @@ La ou les personnes physiques ou morales qui contrôlent une société informent
 
 L'AMF apprécie les conséquences de l'opération prévue au regard des droits et des intérêts des détenteurs de titres de capital ou des détenteurs de droits de vote de la société et décide s'il y a lieu à mise en oeuvre d'une offre publique de retrait.
 
-Le projet d'offre, qui ne peut comporter de condition minimale, est libellé à des conditions qui puissent être jugées recevables.
+Le projet d'offre, qui ne peut comporter de condition minimale, est libellé à des conditions telles qu'il puisse être déclaré conforme.

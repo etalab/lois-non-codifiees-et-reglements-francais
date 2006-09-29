@@ -16,4 +16,4 @@ La déclaration mentionnée à l'article 222-14 comporte les mentions suivantes 
 
 7° Le prix unitaire et le montant de l'opération.
 
-La déclaration prend la forme d'un modèle type défini dans une instruction de l'AMF.
+La déclaration doit être établie selon le modèle type défini dans une instruction de l'AMF.

@@ -1,3 +1,3 @@
 # Article 233-4
 
-Si l'offre publique est une offre d'achat résultant de l'application du 1° de l'article 233-1 et sous réserve des dispositions de l'article 231-23, le prix stipulé par l'initiateur de l'offre ne peut être inférieur, sauf accord de l'AMF, au prix déterminé par le calcul de la moyenne des cours de bourse, pondérée par les volumes de transactions, pendant les soixante jours de négociation précédant la publication de l'avis de dépôt du projet d'offre publique.
+Dans le cas d'une offre visant des certificats d'investissement ou des certificats de droit de vote, l'initiateur est autorisé à limiter son opération à l'acquisition d'une quantité de certificats de droits de vote ou de certificats d'investissement égale, selon le cas, au nombre de certificats d'investissement ou de certificats de droits de vote qu'il détient déjà.

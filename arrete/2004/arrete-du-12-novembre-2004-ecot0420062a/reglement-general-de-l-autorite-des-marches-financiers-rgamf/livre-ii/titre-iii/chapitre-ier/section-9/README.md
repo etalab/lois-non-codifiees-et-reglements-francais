@@ -1,5 +1,9 @@
-# Section 9 : Obligations des dirigeants, des personnes concernées et de leurs conseils
+# Section 9 : Calendrier de l'offre
 
+- [Article 231-31](article-231-31.md)
+- [Article 231-32](article-231-32.md)
+- [Article 231-33](article-231-33.md)
+- [Article 231-34](article-231-34.md)
 - [Article 231-35](article-231-35.md)
 - [Article 231-36](article-231-36.md)
 - [Article 231-37](article-231-37.md)

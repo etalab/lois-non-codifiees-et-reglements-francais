@@ -1,5 +1,7 @@
 # Article 236-7
 
-La mise en oeuvre d'une offre publique de retrait donne lieu, par les sociétés concernées, à l'établissement d'un projet de note d'information contenant les informations mentionnées aux articles 231-20 et 231-21 et précisées dans une instruction de l'AMF.
+L'offre publique de retrait est réalisée par achats sur le marché au prix de l'offre pendant une période de dix jours de négociation au moins ou, si les circonstances et les modalités de l'opération le justifient, par centralisation des ordres de vente ou d'échange auprès de l'entreprise de marché ou, sous son contrôle, par l'établissement présentateur.
 
-La ou les notes d'information sont soumises au visa de l'AMF dans les conditions fixées aux articles 231-22 et 231-28, et portées à la connaissance du public dans les conditions fixées par l'article 231-34.
+Les dispositions des articles 232-15, 232-16, 232-18 et 232-19 s'appliquent aux offres publiques de retrait.
+
+Toutefois, la société émettrice des titres de capital rémunérant une offre publique de retrait réalisée par voie d'échange peut continuer ses interventions sur ses propres titres dans le cadre du programme de rachat d'actions prévu à l'article L. 225-209 du code de commerce.

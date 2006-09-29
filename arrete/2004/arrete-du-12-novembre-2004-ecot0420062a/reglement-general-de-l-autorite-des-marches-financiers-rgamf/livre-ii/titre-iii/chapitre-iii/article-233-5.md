@@ -1,3 +1,7 @@
 # Article 233-5
 
-Dans le cas d'une offre publique visant des certificats d'investissement ou des certificats de droit de vote, l'initiateur est autorisé à limiter son opération à l'acquisition d'une quantité de certificats de droits de vote ou de certificats d'investissement égale, selon le cas, au nombre de certificats d'investissement ou de certificats de droits de vote qu'il détient déjà.
+Si l'initiateur d'une offre simplifiée a été autorisé à se réserver la faculté de réduire les ordres de vente ou d'échange présentés en réponse à son offre, la réduction est opérée proportionnellement, sous réserve des ajustements nécessaires.
+
+La réduction des ordres présentés à une offre de rachat déposée en application du 5° de l'article 233-1 s'opère dans les conditions prévues par le décret n° 67-236 du 23 mars 1967.
+
+Dans ces hypothèses, l'initiateur ne peut intervenir sur le marché des titres concernés.

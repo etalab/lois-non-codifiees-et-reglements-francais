@@ -7,4 +7,3 @@
 - [Article 236-5](article-236-5.md)
 - [Article 236-6](article-236-6.md)
 - [Article 236-7](article-236-7.md)
-- [Article 236-8](article-236-8.md)

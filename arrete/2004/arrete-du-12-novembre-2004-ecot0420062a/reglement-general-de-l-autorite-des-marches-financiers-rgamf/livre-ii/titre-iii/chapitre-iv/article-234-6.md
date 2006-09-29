@@ -1,9 +1,13 @@
 # Article 234-6
 
-L'AMF peut constater qu'il n'y a pas matière à déposer un projet d'offre publique lorsque les seuils mentionnés aux articles 234-2 et 234-5 sont franchis par une ou plusieurs personnes qui viennent à déclarer agir de concert :
+Lorsqu'un projet d'offre est déposé en application des articles 234-2, 234-3 et 234-5, le prix proposé doit être au moins équivalent au prix le plus élevé payé par l'initiateur, agissant seul ou de concert au sens de l'article L. 233-10 du code de commerce, sur une période de douze mois précédant le dépôt du projet d'offre.
 
-1° Avec un ou plusieurs actionnaires qui détenaient déjà, seul ou de concert, la majorité du capital ou des droits de vote de la société, à condition que ceux-ci demeurent prédominants ;
+L'AMF peut demander ou autoriser la modification du prix proposé lorsqu'un changement manifeste des caractéristiques de la société visée ou du marché de ses titres le justifie. Il en va notamment ainsi dans les cas suivants :
 
-2° Avec un ou plusieurs actionnaires qui détenaient déjà, seul ou de concert, entre le tiers et la moitié du capital ou des droits de vote de la société, à condition que ceux-ci conservent une participation plus élevée, et qu'à l'occasion de cette mise en concert ils ne franchissent pas l'un des seuils visés aux articles 234-2 et 234-5.
+1° Lorsque des événements susceptibles d'influer de manière significative sur la valeur des titres concernés sont intervenus au cours des douze derniers mois précédant le dépôt de l'offre ;
 
-Tant que l'équilibre des participations respectives au sein d'un concert n'est pas significativement modifié par référence à la situation constatée lors de la déclaration initiale, il n'y a pas lieu à offre publique.
+2° Lorsque la société visée est en situation de difficulté financière avérée ;
+
+3° Lorsque le prix mentionné au premier alinéa résulte d'une transaction assortie d'éléments connexes entre l'initiateur, agissant seul ou de concert, et le vendeur des titres acquis par l'initiateur au cours des douze derniers mois.
+
+Dans ces cas ou en l'absence de transaction de l'initiateur, agissant seul ou de concert, sur les titres de la société visée au cours de la période de douze mois mentionnée au premier alinéa, le prix est déterminé en fonction des critères d'évaluation objectifs usuellement retenus, des caractéristiques de la société visée et du marché de ses titres.
