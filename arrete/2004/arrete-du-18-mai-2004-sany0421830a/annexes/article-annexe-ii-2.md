@@ -1,10 +1,6 @@
 # Article ANNEXE II- 2
 
-OBJECTIFS ET CONTENUS DES PROGRAMMES SPÉCIFIQUES
-
-POUR LES MÉDECINS NUCLÉAIRES
-
-Les objectifs qui suivent complètent les objectifs et contenus des programmes de l'annexe I :
+OBJECTIFS ET CONTENUS DES PROGRAMMES SPÉCIFIQUES POUR LES MÉDECINS NUCLÉAIRES ET LES RADIOPHARMACIENS.    Les objectifs qui suivent complètent les objectifs et contenus des programmes de l'annexe I :
 
 Bases physiques de l'imagerie par les rayonnements ionisants utiles pour la radioprotection :
 

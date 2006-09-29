@@ -10,3 +10,4 @@
 - [Article 238-8](article-238-8.md)
 - [Article 238-9](article-238-9.md)
 - [Article 238-10](article-238-10.md)
+- [Article 238-12](article-238-12.md)

@@ -1,5 +1,6 @@
 # Chapitre VII : Retrait obligatoire
 
+- [Section 2 : Retrait obligatoire à l'issue de toute offre publique](section-2)
 - [Article 237-2](article-237-2.md)
 - [Article 237-3](article-237-3.md)
 - [Article 237-4](article-237-4.md)

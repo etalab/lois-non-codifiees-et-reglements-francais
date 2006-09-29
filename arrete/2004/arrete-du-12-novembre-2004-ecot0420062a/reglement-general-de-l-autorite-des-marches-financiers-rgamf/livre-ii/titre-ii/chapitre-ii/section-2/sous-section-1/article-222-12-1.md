@@ -1,0 +1,5 @@
+# Article 222-12-1
+
+I. - En application du 2° du II de l'article L. 233-9 du code de commerce, ne sont pas assimilées aux actions ou aux droits de vote possédés par la personne tenue à l'information prévue au I de l'article L. 233-7 dudit code, les actions détenues dans un portefeuille géré par un prestataire de services d'investissement contrôlé par cette personne au sens de l'article L. 233-3 du code de commerce dans le cadre du service de gestion de portefeuille pour compte de tiers, si le prestataire ne peut exercer les droits de vote attachés à ces actions que s'il a reçu des instructions de son mandant ou s'il garantit que l'activité de gestion de portefeuille pour compte de tiers est exercée indépendamment de toute autre activité.
+
+II. - Les dispositions du I ne s'appliquent pas lorsque la société de gestion ou le prestataire de services d'investissement ne peut exercer les droits de vote que sur instructions directes ou indirectes de la personne tenue à l'information mentionnée au I de l'article L. 233-7 susmentionné ou de toute autre personne contrôlée par cette dernière au sens de l'article L. 233-3 susmentionné.
