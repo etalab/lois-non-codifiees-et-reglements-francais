@@ -10,7 +10,7 @@ Ecole centrale de Nantes ;
 
 Ecole nationale supérieure des arts et industries textiles ;
 
-Ecole généraliste d'ingénieurs de Marseille ;
+Ecole centrale de Marseille ;
 
 Institut national des sciences appliquées de Lyon ;
 
