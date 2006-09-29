@@ -653,7 +653,6 @@
 - [Décret n°2003-846 du 29 août 2003 (AGRF0301284D)](decret-n2003-846-du-29-aout-2003-agrf0301284d)
 - [Décret n°2003-926 du 29 septembre 2003 (INTC0300225D)](decret-n2003-926-du-29-septembre-2003-intc0300225d)
 - [Décret n°2003-927 du 29 septembre 2003 (INTC0300226D)](decret-n2003-927-du-29-septembre-2003-intc0300226d)
-- [Décret n°2003-929 du 29 septembre 2003 (MENS0301938D)](decret-n2003-929-du-29-septembre-2003-mens0301938d)
 - [Décret n°2003-930 du 29 septembre 2003 (MENS0301939D)](decret-n2003-930-du-29-septembre-2003-mens0301939d)
 - [Décret n°2003-931 du 29 septembre 2003 (MENS0301940D)](decret-n2003-931-du-29-septembre-2003-mens0301940d)
 - [Décret n°2004-384 du 29 avril 2004 (ECOP0400232D)](decret-n2004-384-du-29-avril-2004-ecop0400232d)

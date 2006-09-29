@@ -5,5 +5,3 @@
 - [Article 231-33](article-231-33.md)
 - [Article 231-34](article-231-34.md)
 - [Article 231-35](article-231-35.md)
-- [Article 231-36](article-231-36.md)
-- [Article 231-37](article-231-37.md)
