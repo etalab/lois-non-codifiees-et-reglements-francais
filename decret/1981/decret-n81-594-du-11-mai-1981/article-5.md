@@ -1,0 +1,5 @@
+# Article 5
+
+Les enseignements spécifiques dispensés dans les sections internationales sont pris en compte pour l'attribution du diplôme national du brevet. Une attestation de scolarité effectuée dans la section comportant notamment le bilan des compétences acquises dans la langue de la section, appréciée au regard du cadre commun de référence pour les langues prévu à l'article D. 312-16 du code de l'éducation, est délivrée aux élèves qui en font la demande s'ils quittent le collège avant la fin de leur scolarité.
+
+Ils sont pris en compte pour le baccalauréat général conformément aux dispositions du code de l'éducation, soit sous la forme d'une option internationale dont les épreuves sont fixées par arrêté du ministre chargé de l'éducation, soit sous la forme d'un baccalauréat binational, en fonction des accords conclus avec les pays partenaires. Cette prise en compte peut se faire dans le cadre de modalités dérogatoires prévues aux articles D. 334-8, D. 334-10, D. 334-18, D. 334-19 du code de l'éducation, précisées par arrêté du ministre.
