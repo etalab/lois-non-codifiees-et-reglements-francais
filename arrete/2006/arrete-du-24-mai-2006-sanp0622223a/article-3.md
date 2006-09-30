@@ -14,7 +14,7 @@ b) Le cas échéant, les raisons pour lesquelles le promoteur ne considère pas 
 
 3° Le reçu de confirmation du numéro EudraCT ;
 
-4° Le cas échéant, la liste des autorités compétentes des Etats membres de la Communauté européenne auxquelles la demande a été soumise et une copie de leurs décisions, si elles sont disponibles ;
+4° Le cas échéant, la liste des autorités compétentes des Etats membres de la Communauté européenne auxquelles la demande a été soumise et la nature de leur décision finale, si elle est disponible ;
 
 5° Si le demandeur n'est pas le promoteur, l'autorisation écrite lui permettant d'agir pour le compte du promoteur ;
 
@@ -30,7 +30,7 @@ II. - Un dossier sur la recherche biomédicale contenant les informations suivan
 
 1° Le protocole de la recherche tel que défini à l'article R. 1123-20 du code de la santé publique, daté et comportant un numéro de version ;
 
-2° Le résumé du protocole de la recherche rédigé en français ;
+2° Le résumé du protocole de la recherche ;
 
 3° La brochure pour l'investigateur ou le résumé des caractéristiques du produit pour tout médicament expérimental disposant d'une autorisation de mise sur le marché en France ou dans un autre Etat membre de la Communauté européenne, accompagné, s'il est utilisé dans des conditions différentes de celles prévues par cette autorisation, de la synthèse des données justifiant l'utilisation et la sécurité d'emploi du médicament dans le cadre de la recherche ;
 
@@ -38,11 +38,13 @@ II. - Un dossier sur la recherche biomédicale contenant les informations suivan
 
 5° Le cas échéant, l'avis d'un comité scientifique consulté par le promoteur ;
 
-6° Le document de référence permettant de déterminer le caractère attendu ou inattendu d'une suspicion d'effet indésirable grave.
+6° Le document de référence permettant de déterminer le caractère attendu ou inattendu d'une suspicion d'effet indésirable grave ;
+
+7° Si la brochure pour l'investigateur appartient à un tiers, l'autorisation du tiers délivrée au promoteur pour l'utiliser.
 
 III. - Un dossier technique relatif aux produits utilisés dans le cadre de la recherche :
 
-1° Pour chaque médicament expérimental, le promoteur transmet un dossier technique dénommé « dossier du médicament expérimental ».
+1° Pour chaque médicament expérimental, le promoteur transmet un dossier technique dénommé  dossier du médicament expérimental .
 
 Ce dossier, dont le format est décrit en annexe 1 du présent arrêté, comporte trois parties composées d'une synthèse de toutes les informations disponibles sur le médicament expérimental relatives :
 
