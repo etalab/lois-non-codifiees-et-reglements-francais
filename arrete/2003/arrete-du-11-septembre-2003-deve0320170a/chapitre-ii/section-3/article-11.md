@@ -1,7 +1,0 @@
-# Article 11
-
-Les forages, puits, ouvrages souterrains et les ouvrages connexes à ces derniers, utilisés pour effectuer la surveillance des eaux souterraines ou un prélèvement dans ces eaux, sont régulièrement entretenus de manière à garantir la protection de la ressource en eau souterraine, notamment vis-à-vis du risque de pollution par les eaux de surface et du mélange des eaux issues de différents systèmes aquifères, et à éviter tout gaspillage d'eau.
-
-Les forages, puits, ouvrages souterrains utilisés pour la surveillance ou le prélèvement d'eau situés dans les périmètres de protection des captages d'eau destinée à l'alimentation humaine et ceux qui interceptent plusieurs aquifères superposés, doivent faire l'objet d'une inspection périodique, au minimum tous les dix ans, en vue de vérifier l'étanchéité de l'installation concernée et l'absence de communication entre les eaux prélevées ou surveillées et les eaux de surface ou celles d'autres formations aquifères interceptées par l'ouvrage. Cette inspection porte en particulier sur l'état et la corrosion des matériaux tubulaires (cuvelages, tubages ...). Le déclarant adresse au préfet, dans les trois mois suivant l'inspection, le compte rendu de cette inspection.
-
-Dans les autres cas, le préfet peut, en fonction de la sensibilité de ou des aquifères concernés et après avis du CDH, prévoir une inspection périodique du forage, puits, ouvrage souterrain dont la réalisation est envisagée et en fixer la fréquence.

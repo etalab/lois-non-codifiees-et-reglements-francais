@@ -594,8 +594,6 @@
 - [Arrêté du 26 mai 1999 (AGRG9802295A)](arrete-du-26-mai-1999-agrg9802295a)
 - [Arrêté du 26 mai 1999 (ECOI9900283A)](arrete-du-26-mai-1999-ecoi9900283a)
 - [Arrêté du 26 mai 1999 (ECOU9900034A)](arrete-du-26-mai-1999-ecou9900034a)
-- [Arrêté du 27 août 1999 (ATEE9980255A)](arrete-du-27-aout-1999-atee9980255a)
-- [Arrêté du 27 août 1999 (ATEE9980256A)](arrete-du-27-aout-1999-atee9980256a)
 - [Arrêté du 27 avril 1999 (AGRG9900639A)](arrete-du-27-avril-1999-agrg9900639a)
 - [Arrêté du 27 avril 1999 (ECOT9910374A)](arrete-du-27-avril-1999-ecot9910374a)
 - [Arrêté du 27 avril 1999 (MENA9900909A)](arrete-du-27-avril-1999-mena9900909a)

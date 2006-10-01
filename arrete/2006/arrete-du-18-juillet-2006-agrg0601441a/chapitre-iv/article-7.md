@@ -1,5 +1,0 @@
-# Article 7
-
-Les conditions fixées au présent article ont pour objectif de prévenir les contaminations croisées entre l'alimentation des animaux d'élevage et les protéines animales transformées.
-
-Les protéines animales transformées destinées à être utilisées en tant que fertilisants ou supports de culture ainsi que les matières fertilisantes contenant ou préparées à partir de protéines animales transformées, livrées à des établissements dans lesquels des animaux d'élevage sont détenus, doivent être entreposées de manière à interdire tout contact, soit directement avec les animaux d'élevage, soit avec les aliments destinés à ces animaux. Pour ce faire, les protéines animales transformées destinées à être utilisées en tant que fertilisants ou supports de culture et les matières fertilisantes contenant ou préparées à partir de ces protéines animales transformées devront être placées dans un emballage étanche ou entreposées dans un silo étanche et couvert ou dans un local entièrement couvert et ceint. L'emplacement de stockage doit se trouver à une distance appropriée de la zone de détention des animaux, de leurs aliments, de leur litière et des pâturages.
