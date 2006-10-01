@@ -1,6 +1,6 @@
 # Article 19
 
-Pour les opérations relevant de la rubrique 5.4.0 de la nomenclature annexée au décret n° 93-743 du 29 mars 1993 susvisé, le document mentionné aux articles 2 et 29 du décret n° 93-742 du 29 mars 1993 susvisé comprend, outre les éléments énumérés dans ce décret :
+Pour les opérations relevant de la rubrique 2.1.3.0 de la nomenclature annexée au décret n° 93-743 du 29 mars 1993 susvisé, le document mentionné aux articles 2 et 29 du décret n° 93-742 du 29 mars 1993 susvisé comprend, outre les éléments énumérés dans ce décret :
 
 - une présentation de l'état du système d'assainissement et de son niveau de performances ; la nature et le volume des effluents traités en tenant compte des variations saisonnières et éventuellement journalières ;
 
