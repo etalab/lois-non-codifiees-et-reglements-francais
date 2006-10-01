@@ -4,9 +4,7 @@ Les conditions de réalisation, d'aménagement et d'exploitation des ouvrages ou
 
 Ces prescriptions tiennent compte, d'une part, des éléments énumérés à l'article L. 211-1 du code de l'environnement, explicités par les schémas directeurs et les schémas d'aménagement et de gestion des eaux mentionnés aux articles L. 212-1 et L. 212-2, L. 212-3 à L. 212-17 du même code et, le cas échéant, des objectifs de qualité définis par le décret du 19 décembre 1991 susvisé et, enfin, de l'efficacité des techniques disponibles et de leur économie.
 
-En ce qui concerne les opérations mentionnées aux articles L. 232-3 et L. 232-9 du code rural, les prescriptions comportent les précisions exigées par les articles R. 232-1 et R. 232-2 du même code.
-
-Pour les installations soumises à des règles techniques fixées par un arrêté ministériel pris en application des décrets prévus aux articles 8 et 9 de la loi du 3 janvier 1992 susvisée, l'arrêté d'autorisation peut créer des modalités d'application particulières de ces règles.
+Pour les installations soumises à des règles techniques fixées par un arrêté ministériel pris en application des décrets prévus aux articles L. 211-2 et L. 211-3 du code de l'environnement, l'arrêté d'autorisation peut créer des modalités d'application particulières de ces règles.
 
 L'arrêté d'autorisation fixe la durée de validité de celle-ci. Le cas échéant, la durée de validité de l'autorisation peut être prolongée à concurrence du délai d'exécution des prescriptions archéologiques édictées par le préfet de région en application du décret n° 2004-490 du 3 juin 2004 relatif aux procédures administratives et financières en matière d'archéologie préventive.
 

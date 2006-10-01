@@ -1,3 +1,3 @@
 # Article 5
 
-Le conseil municipal de chaque commune où a été déposé un dossier d'enquête est appelé à donner son avis sur la demande d'autorisation dès l'ouverture de l'enquête. Ne peuvent être pris en considération que les avis exprimés, au plus tard, dans les quinze jours suivant la clôture du registre d'enquête.
+Si l'avis d'ouverture de l'enquête publique prévu, selon le cas, par l'article R. 11-4 ou l'article R. 11-14-7 du code de l'expropriation pour cause d'utilité publique n'a pas été publié dans le délai de six mois à compter de la date à laquelle le dossier complet de la demande d'autorisation a été déposé, cette demande est réputée rejetée.

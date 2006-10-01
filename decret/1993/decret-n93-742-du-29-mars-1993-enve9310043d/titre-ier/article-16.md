@@ -1,11 +1,13 @@
 # Article 16
 
-En vue de l'information des tiers :
+I. - L'arrêté d'autorisation et, le cas échéant, les arrêtés complémentaires sont publiés au recueil des actes administratifs de la préfecture. Cette publication fait courir le délai de recours contentieux.
 
-1° L'arrêté d'autorisation et, le cas échéant, les arrêtés complémentaires sont publiés au recueil des actes administratifs de la préfecture et une copie en est déposée à la mairie (à Paris, au commissariat de police) et peut y être consultée.
+Un extrait de l'arrêté d'autorisation, indiquant notamment les motifs qui fondent la décision ainsi que les principales prescriptions auxquelles l'ouvrage, l'installation, les travaux ou l'activité sont soumis et, le cas échéant, les arrêtés complémentaires sont affichés pendant un mois au moins dans les mairies de chacune des communes consultées.
 
-2° Un extrait de ces arrêtés, énumérant notamment les principales prescriptions auxquelles l'ouvrage, l'installation, les travaux ou l'activité sont soumis, est affiché à la mairie (à Paris, au commissariat de police) pendant une durée minimum d'un mois ; procès-verbal de l'accomplissement de ces formalités est dressé par les soins du maire (à Paris, par ceux du commissaire de police).
+Un dossier sur l'opération autorisée, comprenant l'avis de l'autorité compétente en matière d'environnement lorsqu'il est requis en application de l'article L. 122-1 du code de l'environnement, est mis à la disposition du public à la préfecture ainsi qu'à la mairie de la commune où doit être réalisée l'opération ou sa plus grande partie pendant deux mois à compter de la publication de l'arrêté d'autorisation.
 
-Une ampliation de l'arrêté est adressée à chaque conseil municipal ayant été consulté et au président de la commission locale de l'eau mentionnée à l'article 6.
+Un avis relatif à l'arrêté d'autorisation est inséré, par les soins du préfet et aux frais de l'exploitant, dans deux journaux locaux ou régionaux diffusés dans le département ou les départements intéressés ; il indique les lieux où le dossier prévu à l'alinéa précédent peut être consulté.
 
-3° Un avis est inséré, par les soins du préfet et aux frais de l'exploitant, dans deux journaux locaux ou régionaux, diffusés dans le département ou les départements intéressés.
+II. - La décision rejetant une demande d'autorisation est publiée au recueil des actes administratifs de la préfecture. Une copie en est adressée à chaque commune consultée et à la commission locale de l'eau. Un extrait de la décision, indiquant notamment les motifs qui la fondent, est affiché à la mairie pendant un mois au moins.
+
+III. - Les arrêtés d'autorisation, les arrêtés complémentaires et les décisions rejetant une demande d'autorisation sont mis à la disposition du public sur le site internet de la préfecture pendant un an au moins.

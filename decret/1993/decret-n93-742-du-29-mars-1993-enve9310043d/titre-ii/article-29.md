@@ -10,11 +10,19 @@ Cette déclaration, remise en trois exemplaires, comprend :
 
 3° La nature, la consistance, le volume et l'objet de l'ouvrage, de l'installation, des travaux ou de l'activité envisagés, ainsi que la ou les rubriques de la nomenclature dans lesquelles ils doivent être rangés ;
 
-4° Un document indiquant, compte tenu des variations saisonnières et climatiques, les incidences de l'opération sur la ressource en eau, le milieu aquatique, l'écoulement, le niveau et la qualité des eaux, y compris de ruissellement, ainsi que sur chacun des éléments mentionnés à l'article 2 de la loi du 3 janvier 1992 susvisée, en fonction des procédés mis en oeuvre, des modalités d'exécution des travaux ou de l'activité, du fonctionnement des ouvrages ou installations, de la nature, de l'origine et du volume des eaux utilisées ou concernées. Ce document précise, la compatibilité du projet avec le schéma directeur ou le schéma d'aménagement et de gestion des eaux et avec les objectifs de qualité des eaux prévus par le décret du 19 décembre 1991 susvisé.
+4° Un document :
 
-Si ces informations sont données dans une étude d'impact ou une notice d'impact, celle-ci remplace le document exigé à l'alinéa précédent.
+- indiquant les incidences du projet sur la ressource en eau, le milieu aquatique, l'écoulement, le niveau et la qualité des eaux, y compris de ruissellement, en fonction des procédés mis en oeuvre, des modalités d'exécution des travaux ou de l'activité, du fonctionnement des ouvrages ou installations, de la nature, de l'origine et du volume des eaux utilisées ou affectées et compte tenu des variations saisonnières et climatiques ;
 
-Un arrêté du ministre chargé de l'environnement précise les renseignements à fournir dans le document prévu ci-dessus.
+- comportant, lorsque le projet est de nature à affecter de façon notable un site Natura 2000 au sens de l'article L. 414-4 du code de l'environnement, l'évaluation de ses incidences au regard des objectifs de conservation du site ;
+
+- justifiant, le cas échéant, de la compatibilité du projet avec le schéma directeur ou le schéma d'aménagement et de gestion des eaux et de sa contribution à la réalisation des objectifs visés à l'article L. 211-1 du code de l'environnement ainsi que des objectifs de qualité des eaux prévus par le décret n° 91-1283 du 19 décembre 1991 ;
+
+- précisant s'il y a lieu les mesures correctives ou compensatoires envisagées.
+
+Ce document est adapté à l'importance du projet et de ses incidences. Les informations qu'il doit contenir peuvent être précisées par un arrêté du ministre chargé de l'environnement.
+
+Lorsqu'une étude d'impact ou une notice d'impact est exigée en application des articles R. 122-5 à R. 122-9 du code de l'environnement, elle est jointe à ce document, qu'elle remplace si elle contient les informations demandées ;
 
 5° Les moyens de surveillance ou d'évaluation des prélèvements et des déversements prévus ;
 

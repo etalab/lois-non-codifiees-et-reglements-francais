@@ -4,4 +4,4 @@ Toute modification apportée par le bénéficiaire de l'autorisation à l'ouvrag
 
 Le préfet fixe, s'il y a lieu, des prescriptions complémentaires, dans les formes prévues à l'article 14.
 
-S'il estime que les modifications sont de nature à entraîner des dangers ou des inconvénients pour les éléments énumérés à l'article 2 de la loi du 3 janvier 1992 susvisée, le préfet invite le bénéficiaire de l'autorisation à déposer une nouvelle demande d'autorisation. Celle-ci est soumise aux mêmes formalités que la demande d'autorisation primitive.
+S'il estime que les modifications sont de nature à entraîner des dangers ou des inconvénients pour les éléments énumérés à l'article L. 211-1 du code de l'environnement, le préfet invite le bénéficiaire de l'autorisation à déposer une nouvelle demande d'autorisation. Celle-ci est soumise aux mêmes formalités que la demande d'autorisation primitive.
