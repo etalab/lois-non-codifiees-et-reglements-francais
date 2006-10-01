@@ -98,6 +98,8 @@ Chapelle des Carmélites de Toulouse (Midi-Pyrénées).
 
 Château de Castelnau-Bretenoux (Midi-Pyrénées).
 
+Château et domaine de Montal, à Saint-Céré et Saint-Jean-Lespinasse (Midi-Pyrénées).
+
 Site de La Graufesenque (Midi-Pyrénées).
 
 Maison natale du Maréchal Foch (Tarbes, Midi-Pyrénées).

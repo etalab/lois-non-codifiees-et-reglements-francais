@@ -1,0 +1,3 @@
+# Article 1
+
+Le déclarant d'une opération, non mentionnée à l'article 2 du décret du 2 février 1996 susvisé, soumise à déclaration au titre de la rubrique 1.1.1.0 de la nomenclature annexée au décret du 29 mars 1993 susvisé, relative aux sondage, forage, création de puits ou d'ouvrage souterrain, exécutés en vue de la recherche ou de la surveillance d'eau souterraine ou afin d'effectuer un prélèvement temporaire ou permanent dans les eaux souterraines, est tenu de respecter les prescriptions du présent arrêté, sans préjudice de l'application des prescriptions fixées au titre d'autres rubriques de la nomenclature précitée et d'autres législations, en particulier celles découlant du code minier.

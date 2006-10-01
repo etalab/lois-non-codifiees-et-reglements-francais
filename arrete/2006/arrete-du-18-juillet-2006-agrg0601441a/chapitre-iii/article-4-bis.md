@@ -1,0 +1,9 @@
+# Article 4 bis
+
+I. - Les établissements utilisant des farines de poisson, des protéines hydrolysées, du phosphate dicalcique ou tricalcique pour la fabrication d'aliments composés ou prémélanges destinés à l'alimentation animale ne doivent pas produire d'aliments pour ruminants et doivent être autorisés à cet effet par le préfet du département d'implantation, sur proposition du directeur départemental des services vétérinaires après avis du directeur départemental de la concurrence, de la consommation et de la répression des fraudes.
+
+Toutefois, par dérogation au précédent alinéa, le préfet peut autoriser la production d'aliments pour ruminants dans des établissements produisant également des aliments contenant des farines de poisson, des protéines hydrolysées, du phosphate dicalcique ou tricalcique si les conditions d'utilisation fixées par le règlement (CE) n° 999/2001 ou, à défaut, par l'annexe II du présent arrêté sont respectées.
+
+II. - Les établissements utilisant des produits sanguins ou des farines de sang pour la fabrication d'aliments composés ou prémélanges destinés à l'alimentation des poissons ne doivent pas produire d'aliments pour des animaux d'élevage autres que les poissons et doivent être autorisés à cet effet par le préfet du département d'implantation, sur proposition du directeur départemental des services vétérinaires après avis du directeur départemental de la concurrence, de la consommation et de la répression des fraudes.
+
+Toutefois, par dérogation au précédent alinéa, le préfet peut autoriser la production d'aliments pour des animaux d'élevage autres que les poissons dans des établissements produisant également des aliments contenant des produits sanguins ou des farines de sang si les conditions d'utilisation fixées par le règlement (CE) n° 999/2001 ou, à défaut, par l'annexe II du présent arrêté sont respectées.

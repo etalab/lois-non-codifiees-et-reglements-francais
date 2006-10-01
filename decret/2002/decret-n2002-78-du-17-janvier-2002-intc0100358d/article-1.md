@@ -14,7 +14,7 @@ Directeurs des services actifs de la police nationale, chef du service de l'insp
 
 Indice de rémunération inférieur ou égal à l'indice brut 585 : -
 
-Indice de rémunération supérieur à l'indice brut 585 : 12
+Indice de rémunération supérieur à l'indice brut 585 : 15
 
 Chefs de service, inspecteurs généraux, directeurs adjoints, sous-directeurs, contrôleurs généraux
 
@@ -28,13 +28,19 @@ Indice de rémunération inférieur ou égal à l'indice brut 585 : 20
 
 Indice de rémunération supérieur à l'indice brut 585 : 19
 
-Fonctionnaires du corps de commandement et d'encadrement
+Fonctionnaires du corps de commandement
 
 Indice de rémunération inférieur ou égal à l'indice brut 585 : 20
 
 Indice de rémunération supérieur à l'indice brut 585 : 19
 
-Fonctionnaires du corps de maîtrise et d'application
+Emplois fonctionnels de responsable d'unité locale de la police
+
+Indice de rémunération inférieur ou égal à l'indice brut 585 :
+
+Indice de rémunération supérieur à l'indice brut 585 : 24
+
+Fonctionnaires du corps d'encadrement et d'application
 
 Indice de rémunération inférieur ou égal à l'indice brut 585 : 24
 

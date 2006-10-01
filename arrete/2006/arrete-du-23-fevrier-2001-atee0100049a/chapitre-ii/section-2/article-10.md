@@ -1,0 +1,3 @@
+# Article 10
+
+En cas d'incident lors du dragage susceptible de provoquer une pollution accidentelle, le déclarant doit immédiatement interrompre le dragage et/ou le rejet et prendre les dispositions afin de limiter l'effet de ce dernier sur le milieu et d'éviter qu'il ne se reproduise. Il informe également dans les meilleurs délais le service chargé de la police de l'eau des mesures prises pour y faire face, ainsi que les collectivités locales en cas d'incident à proximité d'une zone de baignade et les professionnels concernés en cas d'incident à proximité d'une zone d'exploitation conchylicole ou de cultures marines.
