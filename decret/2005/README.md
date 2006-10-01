@@ -48,6 +48,7 @@
 - [Décret n° 2005-556 du 27 mai 2005 (INTD0500133D)](decret-n-2005-556-du-27-mai-2005-intd0500133d)
 - [Décret n°2005-1220 du 28 septembre 2005 (AGRP0501561D)](decret-n2005-1220-du-28-septembre-2005-agrp0501561d)
 - [Décret n°2005-1718 du 28 décembre 2005 (MJSK0570250D)](decret-n2005-1718-du-28-decembre-2005-mjsk0570250d)
+- [Décret n°2005-1054 du 29 août 2005 (SOCF0511451D)](decret-n2005-1054-du-29-aout-2005-socf0511451d)
 - [Décret n°2005-1225 du 29 septembre 2005 (EQUS0501456D)](decret-n2005-1225-du-29-septembre-2005-equs0501456d)
 - [Décret n°2005-1731 du 29 décembre 2005 (SOCF0512374D)](decret-n2005-1731-du-29-decembre-2005-socf0512374d)
 - [Décret n°2005-1734 du 29 décembre 2005 (BUDF0500052D)](decret-n2005-1734-du-29-decembre-2005-budf0500052d)
