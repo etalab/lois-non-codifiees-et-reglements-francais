@@ -80,6 +80,7 @@
 - [Arrêté du 4 juillet 2006 (DEFP0600823A)](arrete-du-4-juillet-2006-defp0600823a)
 - [Arrêté du 4 juillet 2006 (EQUA0601207A)](arrete-du-4-juillet-2006-equa0601207a)
 - [Arrêté du 4 septembre 2006 (BUDB0650024A)](arrete-du-4-septembre-2006-budb0650024a)
+- [Arrêté du 4 septembre 2006 (INTE0600773A)](arrete-du-4-septembre-2006-inte0600773a)
 - [Arrêté du 4 mai 2006 (EQUS0501975A)](arrete-du-4-mai-2006-equs0501975a)
 - [Arrêté du 4 mai 2006 (EQUS0501976A)](arrete-du-4-mai-2006-equs0501976a)
 - [Arrêté du 4 mai 2006 (EQUS0501977A)](arrete-du-4-mai-2006-equs0501977a)
