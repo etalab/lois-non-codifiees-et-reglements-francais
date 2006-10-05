@@ -1,7 +1,11 @@
 # Article 4
 
-Le chef du service de l'inspection générale propose au choix du ministre les missions à confier aux inspecteurs généraux et répartit entre les inspecteurs celles qui leur incombent ; il centralise les conclusions de tous les travaux ; il gère le personnel et les crédits de l'inspection générale.
+Le chef du service de l'inspection générale des finances dirige l'activité du service. Il attribue les missions aux membres de l'inspection générale. Il centralise l'ensemble de leurs travaux et décide de leur transmission.
 
-Le chef du service est nommé par décret du Président de la République parmi les inspecteurs généraux ou parmi les inspecteurs de 1re classe ; dans ce dernier cas, il a, ès qualités et pendant la durée de ses fonctions, rang d'inspecteur général des finances.
+Il assure la gestion du corps de l'inspection générale des finances et préside la commission administrative paritaire de ce corps.
 
-Il est assisté d'un adjoint nommé par arrêté du ministre de l'économie et des finances.
+Il gère les personnels et les crédits du service de l'inspection générale.
+
+Le chef du service de l'inspection générale des finances est nommé par décret parmi les inspecteurs généraux des finances. L'emploi de chef du service comprend un échelon unique.
+
+Le chef du service est assisté d'un adjoint nommé par arrêté du ministre chargé de l'économie et du budget.

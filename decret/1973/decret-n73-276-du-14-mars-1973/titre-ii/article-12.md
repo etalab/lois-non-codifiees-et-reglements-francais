@@ -1,7 +1,5 @@
 # Article 12
 
-A l'issue d'une période de dix-huit mois, les inspecteurs recrutés en application de l'article 9 ci-dessus sont titularisés dans le grade d'inspecteur des finances.
+A l'issue de la période de dix-huit mois mentionnée à l'article 11, les personnes nommées au titre de l'article 9 sont titularisées dans le grade d'inspecteur des finances après avis de la commission administrative paritaire. La titularisation est subordonnée à l'accomplissement pendant cette période de missions exercées sous l'autorité du chef du service, exclusives de toute autre activité.
 
-Cette titularisation est prononcée par décret du Président de la République, après avis de la commission administrative paritaire de l'inspection générale des finances. Elle est subordonnée à l'accomplissement, sous l'autorité du chef du service de l'inspection générale des finances, de tâches de contrôle exclusives de toute autre activité administrative pendant la période de dix-huit mois prévue à l'alinéa précédent.
-
-Dans le cas contraire, il est mis fin aux fonctions des intéressés. S'ils avaient la qualité de fonctionnaire, ils sont réintégrés dans leur corps d'origine.
+Si sa titularisation n'est pas prononcée, il est mis fin aux fonctions de l'intéressé qui est réintégré dans son corps d'origine s'il a la qualité de fonctionnaire. L'emploi correspondant s'ajoute alors aux nominations à prononcer dans les mêmes conditions l'année suivante.

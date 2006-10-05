@@ -31,3 +31,5 @@ Au ministère de l'intérieur et de la décentralisation :
 Au ministère de l'éducation nationale :
 
 Sans préjudice de l'application des textes en vigueur fixant les conditions de leur nomination, recteurs d'académie.
+
+Au ministère de l'économie, des finances et de l'industrie : chef du service de l'inspection générale des finances.
