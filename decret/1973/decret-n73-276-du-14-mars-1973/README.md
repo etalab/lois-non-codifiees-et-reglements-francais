@@ -3,5 +3,4 @@
 - [TITRE Ier : Dispositions générales.](titre-ier)
 - [TITRE II : Nomination et avancement.](titre-ii)
 - [TITRE III : Positions.](titre-iii)
-- [TITRE IV : Dispositions transitoires.](titre-iv)
 - [Article 26](article-26.md)
