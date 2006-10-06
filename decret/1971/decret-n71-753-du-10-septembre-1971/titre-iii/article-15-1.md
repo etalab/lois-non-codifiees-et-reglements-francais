@@ -1,0 +1,3 @@
+# Article 15-1
+
+Les dispositions du présent décret peuvent être modifiées par décret en Conseil d'Etat, à l'exception de celles des deux premiers alinéas de l'article 6-1, du premier alinéa de l'article 8-1, des premier et troisième alinéas du I, du II et du III de l'article 8-2, du premier alinéa du I, du II et du premier alinéa du III de l'article 8-4, des premier et troisième alinéas de l'article 8-5 et des articles 8-7 et 8-8 dont la modification ne peut intervenir que dans les conditions prévues par l'article 2 du décret du 15 janvier 1997 susvisé, en tant qu'ils attribuent à un ministre compétence pour prendre une décision administrative individuelle.
