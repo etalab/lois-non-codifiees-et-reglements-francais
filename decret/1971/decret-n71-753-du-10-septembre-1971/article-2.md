@@ -1,6 +1,6 @@
 # Article 2
 
-Pour l'application du présent décret, les poudres et substances explosives destinées à un usage civil sont celles qui :
+Pour l'application du présent décret, les produits explosifs destinés à un usage civil sont ceux qui :
 
 1° Ne figurent pas sur la liste mentionnée à l'article 1er ci-dessus ;
 
