@@ -11,3 +11,5 @@ Le montant de la prestation annuelle est égal au produit du nombre total de poi
 La valeur du point de retraite est fixée à 102 F.
 
 Les dispositions des alinéas précédents ne sont pas applicables aux médecins bénéficiaires des prestations supplémentaires de vieillesse exerçant une activité médicale libérale dans le cadre de la convention, qui ne peuvent obtenir aucun nouveau droit à retraite au titre des cotisations versées.
+
+Les conditions dans lesquelles le versement des prestations supplémentaires de vieillesse peut se cumuler avec une activité libérale sont identiques à celles prévues à l'article L. 643-6 du code de la sécurité sociale.
