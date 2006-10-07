@@ -738,21 +738,25 @@ Article R. 122-12, 2e alinéa.
 
 Mesures prises par le ministre chargé du tourisme
 
-Décret n° 94-490 du 15 juin 1994 pris en application de l'article 31 de la loi n° 92-645 du 13 juillet 1992 fixant les conditions d'exercice des activités relatives à l'organisation et à la vente de voyages et de séjours
+Code du tourisme
 
 1
 
-Délivrance de licences de libre prestation de services aux ressortissants d'un Etat membre de l'Union européenne.
+Délivrance, modification, suspension et retrait de licences de libre prestation de services aux ressortissants d'un Etat membre de l'Union européenne.
 
-Article 35, 1er alinéa.
+Articles R.* 212-42, R.* 212-45 et R.* 212-47.
 
-Décret 2002-624 du 25 avril 2002 relatif à l'agrément national délivré à des organismes de tourisme social et familial.
+2
 
-1
+Attribution de l'agrément national délivré à des organismes de promotion et de contrôle des meublés, représentatifs au plan national.
 
-Délivrance, suspension et retrait de l'agrément national délivré à des organismes de tourisme social et familial,
+Article R.* 324-9.
 
-Articles 1 et 6
+3
+
+Délivrance, suspension et retrait de l'agrément national délivré à des organismes de tourisme social et familial.
+
+Articles R.* 412-1 et R.* 412-7.
 
 Mesures prises par le ministre chargé de l'aviation civile
 

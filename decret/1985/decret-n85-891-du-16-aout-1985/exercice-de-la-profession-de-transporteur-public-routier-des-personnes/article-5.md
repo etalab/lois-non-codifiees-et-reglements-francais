@@ -10,10 +10,10 @@ Il doit être satisfait aux conditions d'honorabilité et de capacité professio
 
 4. Sont dispensées des conditions de capacité financière et de capacité professionnelle les entreprises qui exécutent des transports publics routiers de personnes dans l'une des conditions suivantes :
 
-a) [*abrogé*]
+a) abrogé
 
 b) Lorsque l'entreprise ne possède qu'un seul véhicule affecté à cet usage et que cette activité est l'accessoire d'une activité principale autre que le transport public routier de personnes ;
 
-c) Lorsque l'entreprise n'utilise que des véhicules, autres que des autocars et autobus, destinés à des usages de tourisme ou de loisirs, et dont les caractéristiques et l'utilisation sont définies par arrêté du ministre chargé des transports ;
+c) Abrogé ;
 
 d) Lorsque les transports sont effectués à des fins non commerciales par des régies de collectivités publiques locales disposant de deux véhicules au maximum.
