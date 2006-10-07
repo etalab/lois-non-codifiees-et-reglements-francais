@@ -140,6 +140,7 @@
 - [Décret n°2002-598 du 25 avril 2002 (MESH0220700D)](decret-n2002-598-du-25-avril-2002-mesh0220700d)
 - [Décret n°2002-602 du 25 avril 2002 (MENF0200718D)](decret-n2002-602-du-25-avril-2002-menf0200718d)
 - [Décret n°2002-623 du 25 avril 2002 (EQUX0200055D)](decret-n2002-623-du-25-avril-2002-equx0200055d)
+- [Décret n°2002-624 du 25 avril 2002 (EQUX0200038D)](decret-n2002-624-du-25-avril-2002-equx0200038d)
 - [Décret n°2002-628 du 25 avril 2002 (MCCX0200050D)](decret-n2002-628-du-25-avril-2002-mccx0200050d)
 - [Décret n°2002-629 du 25 avril 2002 (MCCT0200255D)](decret-n2002-629-du-25-avril-2002-mcct0200255d)
 - [Décret n°2002-631 du 25 avril 2002 (AGRR0200875D)](decret-n2002-631-du-25-avril-2002-agrr0200875d)

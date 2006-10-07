@@ -1,7 +1,5 @@
 # Article 5
 
-Le préfet du département où se situe la maison familiale de vacances peut, après avis de la commission départementale de l'action touristique, accorder un agrément définitif ou un agrément provisoire pour une période probatoire d'un an, renouvelable une fois.
-
 Les arrêtés préfectoraux portant agrément provisoire ou définitif sont publiés au Recueil des actes administratifs. Ils fixent :
 
 - la nature, le numéro et la date d'agrément ;

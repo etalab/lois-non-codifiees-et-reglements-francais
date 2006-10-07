@@ -1,3 +1,0 @@
-# Article 5
-
-Les établissements classés comme hôtels de tourisme ou restaurants de tourisme apposent obligatoirement sur leur façade un panonceau dont les caractéristiques et les modalités de distribution sont fixées par un des arrêtés prévus à l'article 10.

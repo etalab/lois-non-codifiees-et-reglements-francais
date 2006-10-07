@@ -97,7 +97,6 @@
 - [Décret n°82-525 du 16 juin 1982](decret-n82-525-du-16-juin-1982)
 - [Décret n°82-616 du 16 juillet 1982](decret-n82-616-du-16-juillet-1982)
 - [Décret n°82-617 du 16 juillet 1982](decret-n82-617-du-16-juillet-1982)
-- [Décret n°82-719 du 16 août 1982](decret-n82-719-du-16-aout-1982)
 - [Décret n°82-817 du 16 septembre 1982](decret-n82-817-du-16-septembre-1982)
 - [Décret n°82-1084 du 17 décembre 1982](decret-n82-1084-du-17-decembre-1982)
 - [Décret n°82-172 du 17 février 1982](decret-n82-172-du-17-fevrier-1982)

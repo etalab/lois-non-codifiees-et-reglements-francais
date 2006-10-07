@@ -1,8 +1,6 @@
 # Article 4
 
-Les demandes d'agrément doivent être adressées au préfet du département dans lequel est implantée la maison familiale de vacances [*autorité compétente*].
-
-Elles doivent comporter [*contenu du dossier*] :
+Elles doivent comporter :
 
 1. S'il s'agit d'une association : ses statuts et la copie du récépissé délivré par la préfecture lors de la déclaration, avec indication de la date d'insertion au Journal officiel ainsi que la liste des membres du conseil d'administration ;
 

@@ -1,7 +1,5 @@
 # Article 7
 
-Un panonceau officiel dont les caractéristiques et les modalités de distribution sont fixées par arrêté du ministre chargé du tourisme est obligatoirement apposé sur la façade des réalisations classées "villages de vacances".
-
 Nul ne peut distribuer des panonceaux ou insignes publicitaires pour de telles réalisations sans être titulaire d'une autorisation délivrée par le ministre chargé du tourisme.
 
 Les redevances exigées des bénéficiaires des panonceaux ou insignes par le distributeur ne peuvent dépasser le remboursement du prix de revient des objets en cause.
