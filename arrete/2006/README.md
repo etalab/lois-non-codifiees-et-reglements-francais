@@ -564,7 +564,6 @@
 - [Arrêté du 26 janvier 2006 (BUDB0610010A)](arrete-du-26-janvier-2006-budb0610010a)
 - [Arrêté du 26 janvier 2006 (SANP0620487A)](arrete-du-26-janvier-2006-sanp0620487a)
 - [Arrêté du 26 janvier 2006 (SOCA0524391A)](arrete-du-26-janvier-2006-soca0524391a)
-- [Arrêté du 26 juillet 1995 (TOUB9500018A)](arrete-du-26-juillet-1995-toub9500018a)
 - [Arrêté du 26 juillet 2006 (EQUP0601571A)](arrete-du-26-juillet-2006-equp0601571a)
 - [Arrêté du 26 juin 2006 (SANS0622660A)](arrete-du-26-juin-2006-sans0622660a)
 - [Arrêté du 26 septembre 2005 (INTC0500607A)](arrete-du-26-septembre-2005-intc0500607a)

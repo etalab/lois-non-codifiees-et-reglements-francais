@@ -1180,7 +1180,6 @@
 - [Arrêté du 31 juillet 1997 (ATEN9760337A)](arrete-du-31-juillet-1997-aten9760337a)
 - [Arrêté du 31 juillet 1997 (ECOS9750021A)](arrete-du-31-juillet-1997-ecos9750021a)
 - [Arrêté du 31 juillet 1997 (EQUZ9701188A)](arrete-du-31-juillet-1997-equz9701188a)
-- [Arrêté du 31 juillet 1997 (EQUZ9701207A)](arrete-du-31-juillet-1997-equz9701207a)
 - [Arrêté du 31 juillet 1997 (MCCB9700640A)](arrete-du-31-juillet-1997-mccb9700640a)
 - [Arrêté du 31 juillet 1997 (MESS9722496A)](arrete-du-31-juillet-1997-mess9722496a)
 - [Arrêté du 31 octobre 1997 (INTG9700505A)](arrete-du-31-octobre-1997-intg9700505a)

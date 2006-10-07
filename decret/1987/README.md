@@ -58,7 +58,6 @@
 - [Décret n°87-66 du 5 février 1987 (COMC8700003D)](decret-n87-66-du-5-fevrier-1987-comc8700003d)
 - [Décret n°87-81 du 5 février 1987](decret-n87-81-du-5-fevrier-1987)
 - [Décret n°87-811 du 5 octobre 1987 (INTB8700295D)](decret-n87-811-du-5-octobre-1987-intb8700295d)
-- [Décret n°87-815 du 5 octobre 1987 (TRST8700290D)](decret-n87-815-du-5-octobre-1987-trst8700290d)
 - [Décret n°87-831 du 5 octobre 1987 (JUSB8710272D)](decret-n87-831-du-5-octobre-1987-jusb8710272d)
 - [Décret n°87-307 du 5 mai 1987](decret-n87-307-du-5-mai-1987)
 - [Décret du 6 octobre 1987 (ECOT8723008D)](decret-du-6-octobre-1987-ecot8723008d)
