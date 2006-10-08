@@ -1,6 +1,6 @@
 # Article 3
 
-Des commissions administratives paritaires locales compétentes à l'égard des agents spécialisés de police technique et scientifique sont instituées auprès du préfet de police de Paris et des préfets sous l'autorité desquels sont placés les secrétariats généraux pour l'administration de la police.
+Des commissions administratives paritaires locales compétentes à l'égard des agents spécialisés de police technique et scientifique sont instituées auprès du préfet de police de Paris et des préfets sous l'autorité desquels sont placés les secrétariats généraux pour l'administration de la police, et auprès du directeur de l'administration de la police nationale.
 
 La composition de ces commissions administratives paritaires locales est fixée comme suit :
 
