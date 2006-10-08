@@ -16,4 +16,4 @@ Le calcul du montant prévisionnel des fonds opérationnels est fondé sur :
 
 Elles joignent à leur demande d'agrément de fonds opérationnel une attestation comptable originale de la valeur de la production commercialisée de la période de référence.
 
-Le montant de l'aide financière approuvée est notifié à l'organisation de producteurs, au plus tard le 20 janvier de l'année de mise en oeuvre du fonds opérationnel, par l'ONIFLHOR, qui délivre une décision d'éligibilité au fonds opérationnel.
+Le montant de l'aide financière approuvée est notifié à l'organisation de producteurs, au plus tard le 20 janvier de l'année de mise en oeuvre du fonds opérationnel, par VINIFLHOR, qui délivre une décision d'éligibilité au fonds opérationnel.

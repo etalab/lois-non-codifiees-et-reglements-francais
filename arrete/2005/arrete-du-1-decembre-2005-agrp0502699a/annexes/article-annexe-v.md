@@ -46,4 +46,4 @@ FEDECOM : 4 représentants.
 
 Deux représentants des directions départementales de l'agriculture et de la forêt et un représentant des directions régionales de l'agriculture et de la forêt peuvent assister aux réunions en qualité d'experts.
 
-Des experts peuvent être associés à la CNFO après accord ou validation ou invitation de la direction générale des politiques économique, européenne et internationale et de l'ONIFLHOR.
+Des experts peuvent être associés à la CNFO après accord ou validation ou invitation de la direction générale des politiques économique, européenne et internationale et de l'VINIFLHOR.

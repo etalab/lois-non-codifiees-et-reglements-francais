@@ -60,6 +60,7 @@
 - [Décret n°2006-1124 du 6 septembre 2006 (DEVN0640043D)](decret-n2006-1124-du-6-septembre-2006-devn0640043d)
 - [Décret n°2006-1228 du 6 octobre 2006 (EQUX0600092D)](decret-n2006-1228-du-6-octobre-2006-equx0600092d)
 - [Décret n°2006-1229 du 6 octobre 2006 (TOUZ0601736D)](decret-n2006-1229-du-6-octobre-2006-touz0601736d)
+- [Décret n°2006-1230 du 6 octobre 2006 (AGRF0601305D)](decret-n2006-1230-du-6-octobre-2006-agrf0601305d)
 - [Décret n°91-910 du 6 septembre 1991 (ACVA9110049D)](decret-n91-910-du-6-septembre-1991-acva9110049d)
 - [Décret du 7 septembre 2006 (AGRP0600418D)](decret-du-7-septembre-2006-agrp0600418d)
 - [Décret n°2006-1120 du 7 septembre 2006 (INTD0600196D)](decret-n2006-1120-du-7-septembre-2006-intd0600196d)

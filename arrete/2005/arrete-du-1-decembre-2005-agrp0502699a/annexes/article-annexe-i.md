@@ -74,11 +74,11 @@ La correspondance des mesures avec les fiches de l'encadrement national est donn
 
 3.1. Amélioration génétique, essais de résistance génétique aux maladies (fiche n° 8).
 
-3.2. Elimination des déchets, gestion des emballages et des déchets, investissement de compostage (fiches n° 1, n° 5 et n° 6).
+3.2. Elimination des déchets, gestion des emballages et des déchets, investissement de compostage (fiches n° 1, n° 4 et n° 5).
 
 3.3. Protection et analyse de l'eau (fiches n° 1, n° 2, n° 3, n° 6, n° 7, n° 14, n° 15, n° 16 et n° 18).
 
-3.4. Production intégrée (fiches n° 1, n° 2, n° 3, n° 6, n° 7, n° 9, n° 10, n° 11, n° 12, n° 14, n° 15, n° 16 et n° 18).
+3.4. Production intégrée (fiches n° 2 et/ou n° 3 obligatoires ; fiches n° 1, n° 6, n° 7, n° 9, n° 10, n° 11, n° 12, n° 14, n° 15, n° 16 et n° 18 facultatives).
 
 3.5. Analyses (sols, effluents, phytosanitaires,...).
 
@@ -100,7 +100,7 @@ La correspondance des mesures avec les fiches de l'encadrement national est donn
 
 3.26 Gestion de l'énergie (fiches n° 17 et n° 19).
 
-3.24. Autres (mesures à étudier au cas par cas : intérêt environnemental à détailler pour évaluation par le centre technique compétent, puis avis DPEI).
+3.24. Autres (mesures à étudier au cas par cas : intérêt environnemental à détailler pour évaluation par le centre technique compétent, puis avis DGPEI).
 
 b) Contrôles internes du respect des dispositions phytosanitaires et des teneurs maximales autorisées de résidus, moyens techniques et humains de ce contrôle (volet obligatoire) :
 
@@ -112,7 +112,7 @@ c) Culture biologique.
 
 3.18. Contrôle de qualité biologique des produits.
 
-3.25. Autres (à détailler).
+3.25. Autres bio (à détailler).
 
 Chapitre 4
 

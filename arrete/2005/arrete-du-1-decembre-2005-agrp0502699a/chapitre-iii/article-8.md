@@ -20,7 +20,7 @@ Les dépenses relatives à un programme opérationnel peuvent être exécutées 
 
 3. Financement des mesures réalisées chez les adhérents.
 
-Les dépenses ou charges des producteurs adhérents qui mettent en oeuvre une ou plusieurs mesures visées à l'annexe I de l'arrêté ne peuvent être prises en charge par le fonds opérationnel que si elles ont donné lieu à des flux financiers couvrant la totalité de la dépense. Toutefois, dans le cas des coopératives, le débit des comptes coopérateurs est accepté.
+Les dépenses ou charges des producteurs adhérents qui mettent en oeuvre une ou plusieurs mesures visées à l'annexe I de l'arrêté ne peuvent être prises en charge par le fonds opérationnel que si elles ont donné lieu à des flux financiers couvrant la totalité de la dépense. Toutefois, dans le cas des coopératives, le mouvement des comptes coopérateurs est accepté.
 
 4. Financement des frais généraux liés au fonds ou au programme opérationnel.
 

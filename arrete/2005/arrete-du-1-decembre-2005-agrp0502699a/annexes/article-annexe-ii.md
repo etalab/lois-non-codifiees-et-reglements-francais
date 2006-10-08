@@ -38,8 +38,6 @@ Sont éligibles :
 
 - aux mesures d'amélioration de la qualité. L'agréage à la production et à l'entrée en station doit aller au-delà de la norme de commercialisation.
 
-Les coûts spécifiques sont éligibles pour une période maximale de dix ans par action à compter du lancement du premier programme opérationnel de l'organisation de producteurs.
-
 4. Frais généraux liés au fonds ou au programme opérationnel (y compris les frais de gestion et de personnel, les rapports et les études d'évaluation ainsi que les frais de tenue des comptes bancaires ou financiers liés au fonds opérationnel) par l'inscription d'une somme forfaitaire représentant 2 % du montant total des mesures et retraits du fonds opérationnel approuvé lors de la dernière décision d'éligibilité et plafonnée à 180 000 euros. Dans le cas des associations d'organisations de producteurs visées à l'article 2 du présent arrêté, cette somme forfaitaire est multipliée par le nombre d'organisations de producteurs de l'association, jusqu'à concurrence de 1 250 000 euros.
 
 5. Frais de personnel (y compris les coûts liés aux salaires ou aux traitements supportés par l'organisation de producteurs incluant les frais de déplacement professionnels) résultant de mesures visant à atteindre ou à maintenir un haut niveau de qualité ou de protection de l'environnement et à améliorer le niveau de commercialisation.
@@ -140,9 +138,7 @@ L'achat de biens immeubles, c'est-à-dire de bâtiments déjà construits et des
 
 - le bien immeuble doit rester affecté à la destination prévue par l'action pendant toute la durée de son amortissement.
 
-18. Investissements ou actions dans des exploitations particulières, réalisés par l'organisation de producteurs ou par ses adhérents, à condition que des dispositions pour récupérer l'investissement ou la valeur résiduelle de l'investissement dont a bénéficié le producteur au titre du FO (définie selon les règles d'amortissement applicables à l'exploitation individuelle concernée) soient prévues par le programme, dans les cas où l'adhérent concerné quitte l'organisation de producteurs. Ces dispositions doivent prévoir que l'investissement ou la valeur résiduelle de l'investissement n'est pas récupéré(e) dans les cas de reprise d'exploitation, si le repreneur adhère à l'organisation de producteurs. Dans les autres cas (départ d'un adhérent de l'OP vers une autre OP, cessation d'activité avec un repreneur n'appartenant pas à l'OP ...), l'organisation de producteurs procède au reversement à l'ONIFLHOR de la part d'aide correspondante.
-
-La main-d'oeuvre de l'adhérent ou de ses salariés utilisée pour le montage de matériel est plafonnée à 50 % du montant HT des matériaux ou de l'investissement.
+18. Investissements ou actions dans des exploitations particulières, réalisés par l'organisation de producteurs ou par ses adhérents, à condition que des dispositions pour récupérer l'investissement ou la valeur résiduelle de l'investissement dont a bénéficié le producteur au titre du FO (définie selon les règles d'amortissement applicables à l'exploitation individuelle concernée) soient prévues par le programme, dans les cas où l'adhérent concerné quitte l'organisation de producteurs. Ces dispositions doivent prévoir que l'investissement ou la valeur résiduelle de l'investissement n'est pas récupéré(e) si le repreneur de l'investissement adhère à l'organisation de producteurs. Dans les autres cas (notamment départ d'un adhérent de l'OP vers une autre OP, cessation d'activité avec un repreneur n'appartenant pas à l'OP), l'organisation de producteurs procède au reversement à VINIFLHOR de la part d'aide correspondante.
 
 19. Remplacement d'investissements.
 

@@ -2,7 +2,7 @@
 
 Demande de solde et paiement de l'aide financière communautaire.
 
-1. Dès la fin de la réalisation du programme opérationnel et au plus tard le 31 janvier suivant la mise en oeuvre du programme opérationnel, l'organisation de producteurs dépose auprès de la préfecture de son siège social un dossier complet de demande de solde ou de paiement de l'aide communautaire au fonds opérationnel conforme au modèle établi par l'ONIFLHOR.
+1. Dès la fin de la réalisation du programme opérationnel et au plus tard le 31 janvier suivant la mise en oeuvre du programme opérationnel, l'organisation de producteurs dépose auprès de la préfecture de son siège social un dossier complet de demande de solde ou de paiement de l'aide communautaire au fonds opérationnel conforme au modèle établi par VINIFLHOR.
 
 Les demandes d'aide financière ou de solde déposées après le 31 décembre peuvent couvrir les dépenses programmées mais non réalisées au 31 décembre de l'année du fonds opérationnel dans la mesure où :
 
@@ -14,13 +14,13 @@ Les demandes d'aide financière ou de solde déposées après le 31 décembre pe
 
 - formulaire de demande de paiement ;
 
-- toute pièce justifiant les dépenses réalisées sur le fonds opérationnel. Les factures peuvent être acquittées jusqu'au 31 janvier suivant la mise en oeuvre du programme opérationnel, sous réserve qu'elles correspondent bien à une action mise en place avant le 31 décembre de l'année du fonds opérationnel ;
+- toute pièce justifiant les dépenses réalisées sur le fonds opérationnel. Les factures doivent être débitées au plus tard le 31 janvier suivant la mise en oeuvre du programme opérationnel. Elles doivent correspondre à des actions mises en place avant le 31 décembre de l'année du fonds opérationnel. Lorsque le débit n'a pu avoir lieu, la preuve de l'acquittement émise par l'émetteur au plus tard le 31 janvier suivant la mise en oeuvre du programme opérationnel peut être recevable. Toutefois cette dernière disposition n'est pas applicable lorsque l'émetteur de la facture est une filiale ou un producteur adhérent de l'organisation de producteurs ;
 
 - un relevé d'identité bancaire original ;
 
 - l'engagement écrit du président de l'organisation de producteurs de ne bénéficier, pour son organisation de producteurs, ni directement, ni indirectement, d'un double financement communautaire ou national pour les mesures et/ou actions ayant droit à un financement communautaire au titre du règlement (CE) n° 1433/2003. Chaque adhérent bénéficiaire d'une prise en charge par le fonds dans son exploitation signe un engagement de même nature dans lequel il s'engage en plus à restituer à l'organisation de producteurs, s'il la quitte, l'investissement ou la valeur résiduelle de l'investissement pris en charge par le fonds opérationnel. Cet engagement reste au siège de l'organisation de producteurs. Un modèle de convention entre le producteur et son organisation de producteurs est annexé au présent arrêté. La convention est présentée avec l'ensemble des pièces justificatives ;
 
-- le formulaire présentant d'une part la partie "dépenses" de l'état extra-comptable et d'autre part la partie "ressources" du document extra-comptable, dont le modèle est joint en annexe VIII et VIII bis ;
+- le formulaire présentant d'une part la partie "dépenses" de l'état extra-comptable et d'autre part la partie "ressources" du document extra-comptable, dont le modèle est joint en annexe VIII et VIII bis ; dans l'annexe VIII, l'état récapitulatif peut être complété au niveau des paiements effectués par les dates d'acquittement des factures et/ou les dates de débit des factures accompagnées des numéros de relevés de compte bancaire ;
 
 - le rapport annuel ou le rapport final dont le modèle est joint en annexe IX ;
 

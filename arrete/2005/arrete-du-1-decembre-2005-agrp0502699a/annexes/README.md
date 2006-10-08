@@ -9,4 +9,5 @@
 - [Article Annexe VII](article-annexe-vii.md)
 - [Article Annexe VIII BIS](article-annexe-viii-bis.md)
 - [Article Annexe IX](article-annexe-ix.md)
+- [Article Annexe X](article-annexe-x.md)
 - [Article Annexe XI](article-annexe-xi.md)
