@@ -7,4 +7,3 @@
 - [Chapitre V : Succursales, points de vente, conventions, transferts de propriété.](chapitre-v)
 - [Chapitre VI : Retrait et suspension de la licence.](chapitre-vi)
 - [Chapitre VII : Dispositions diverses.](chapitre-vii)
-- [Chapitre VIII : De la libre prestation de services.](chapitre-viii)
