@@ -421,7 +421,6 @@
 - [Décret n°2004-974 du 15 septembre 2004 (AGRA0401541D)](decret-n2004-974-du-15-septembre-2004-agra0401541d)
 - [Décret n°2004-976 du 15 septembre 2004 (ECOD0450006D)](decret-n2004-976-du-15-septembre-2004-ecod0450006d)
 - [Décret n°2004-992 du 15 septembre 2004 (EQUP0400921D)](decret-n2004-992-du-15-septembre-2004-equp0400921d)
-- [Décret n°94-490 du 15 juin 1994 (EQUZ9400783D)](decret-n94-490-du-15-juin-1994-equz9400783d)
 - [Décret du 16 juillet 2004 (AGRP0401056D)](decret-du-16-juillet-2004-agrp0401056d)
 - [Décret n°2002-555 du 16 avril 2002 (MENS0200912D)](decret-n2002-555-du-16-avril-2002-mens0200912d)
 - [Décret n°2003-1009 du 16 octobre 2003 (MENF0301911D)](decret-n2003-1009-du-16-octobre-2003-menf0301911d)
