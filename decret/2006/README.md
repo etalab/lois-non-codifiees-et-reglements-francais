@@ -73,6 +73,7 @@
 - [Décret n°2006-1133 du 8 septembre 2006 (EQUR0600886D)](decret-n2006-1133-du-8-septembre-2006-equr0600886d)
 - [Décret n°2006-1134 du 8 septembre 2006 (AGRF0601319D)](decret-n2006-1134-du-8-septembre-2006-agrf0601319d)
 - [Décret n°2006-1135 du 8 septembre 2006 (AGRF0601300D)](decret-n2006-1135-du-8-septembre-2006-agrf0601300d)
+- [Décret n°2006-1231 du 9 octobre 2006 (INTA0600220D)](decret-n2006-1231-du-9-octobre-2006-inta0600220d)
 - [Décret n°2006-1000 du 10 août 2006 (ECOT0651051D)](decret-n2006-1000-du-10-aout-2006-ecot0651051d)
 - [Décret n°2006-1001 du 10 août 2006 (BUDF0600010D)](decret-n2006-1001-du-10-aout-2006-budf0600010d)
 - [Décret n°2006-1002 du 10 août 2006 (BUDF0600032D)](decret-n2006-1002-du-10-aout-2006-budf0600032d)
