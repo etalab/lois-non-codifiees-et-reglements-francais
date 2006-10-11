@@ -2,14 +2,12 @@
 
 La sous-direction de la réglementation des communications électroniques et de la prospective comprend :
 
-1. Le bureau de la prospective et des études économiques :
+1. Le bureau des affaires techniques et des études économiques :
 
-Il coordonne l'ensemble des études prospectives et économiques du service dans le domaine des technologies et de la société de l'information. Il suit l'activité des opérateurs et fournisseurs de services de télécommunications. Il élabore, met en oeuvre, sous réserve des compétences de l'Agence nationale des fréquences, et évalue la réglementation relative aux fréquences radioélectriques et participe à la régulation dans ce domaine. Il assure la tutelle de l'Agence nationale des fréquences (ANFR).
+Il est compétent pour les fréquences radioélectriques, les nouvelles technologies, l'aménagement du territoire, les tarifs et les questions économiques dans le domaine des communications électroniques (suivi des opérateurs et des marchés, statistiques...) et, plus généralement, les technologies de l'information et de la communication. Il est également chargé des outils de partage des connaissances au sein du service des technologies et de la société de l'information.
 
-2. Le bureau des tarifs et du service universel :
+2. Le bureau de la réglementation :
 
-Il élabore, met en oeuvre et évalue la réglementation relative au contrôle tarifaire et au service public des télécommunications et participe à la régulation dans ces domaines. A ce titre, il prépare notamment les décisions du ministre chargé des télécommunications relatives à l'homologation des tarifs de France Télécom.
+Il est chargé de la réglementation du secteur des communications électroniques (établissement des réseaux, fourniture des services, équipements terminaux, service public...) et des questions de sécurité, de consommation et de marchés publics.
 
-3. Le bureau de la réglementation :
-
-Sous réserve des compétences de l'Autorité de régulation des télécommunications, du bureau des tarifs et du service universel et du bureau de la prospective et des études économiques, il élabore, met en oeuvre et évalue la réglementation des communications électroniques et participe à leur régulation. Il assure la coordination de l'ensemble des activités réglementaires de la sous-direction. Il veille à la cohérence de la réglementation applicable aux technologies et à la société de l'information.
+Il représente les ministres chargés de l'industrie et des communications électroniques au sein de la commission consultative prévue à l'article R. 226-2 du code pénal.
