@@ -654,6 +654,7 @@
 - [Arrêté du 28 mars 2006 (SANP0621544A)](arrete-du-28-mars-2006-sanp0621544a)
 - [Arrêté du 28 septembre 2006 (MENE0601958A)](arrete-du-28-septembre-2006-mene0601958a)
 - [Arrêté du 28 septembre 2006 (MENE0601959A)](arrete-du-28-septembre-2006-mene0601959a)
+- [Arrêté du 28 septembre 2006 (MENS0602405A)](arrete-du-28-septembre-2006-mens0602405a)
 - [Arrêté du 29 décembre 2005 (BUDB0510047A)](arrete-du-29-decembre-2005-budb0510047a)
 - [Arrêté du 29 décembre 2005 (BUDB0510048A)](arrete-du-29-decembre-2005-budb0510048a)
 - [Arrêté du 29 décembre 2005 (BUDB0510051A)](arrete-du-29-decembre-2005-budb0510051a)
