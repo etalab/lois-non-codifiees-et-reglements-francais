@@ -1,0 +1,3 @@
+# Article 5
+
+L'article 14 du décret n° 80-516 du 14 juillet 1980 relatif à l'exécution des mesures de prophylaxie collective des maladies des animaux, le décret n° 96-497 du 3 juin 1996 assimilant à un fonds de concours le produit de la redevance perçue à l'occasion des contrôles vétérinaires à l'importation, instituée par l'article 80 de la loi n° 95-95 du 1er février 1995 de modernisation de l'agriculture, et le décret n° 2001-1334 du 27 décembre 2001 portant assimilation à des fonds de concours pour dépenses d'intérêt public du produit de la rémunération de certains services rendus par le ministère de l'agriculture et de la pêche sont abrogés.

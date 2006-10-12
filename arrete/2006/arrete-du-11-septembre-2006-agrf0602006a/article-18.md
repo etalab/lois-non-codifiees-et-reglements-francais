@@ -1,0 +1,5 @@
+# Article 18
+
+En cas de non-respect, sauf cas de force majeure défini par le règlement n° 817/2004, des conditions d'octroi et des engagements fixés à l'article 11, le bénéficiaire doit rembourser le montant d'aide versé majoré des intérêts au taux légal en vigueur et assorti d'une pénalité égale à 3 % du montant d'aide perçu ou à percevoir, dans la limite du montant de l'amende prévu à l'article 131-13 du code pénal pour les contraventions de cinquième classe. Le préfet peut moduler le niveau de la réfaction en fonction de la gravité des anomalies constatées et sur la base d'une circulaire prise en application de cet arrêté.
+
+En cas de refus de se soumettre à un contrôle administratif ou sur place effectué au titre de ce présent dispositif, le bénéficiaire doit rembourser, le cas échéant, le montant d'aide versé majoré des intérêts au taux légal en vigueur et assorti d'une pénalité égale à 5 % du montant d'aide perçu, dans la limite du montant de l'amende prévu à l'article 131-13 du code pénal pour les contraventions de cinquième classe.
