@@ -46,6 +46,7 @@
 - [Décret n°95-979 du 25 août 1995 (PRMG9570441D)](decret-n95-979-du-25-aout-1995-prmg9570441d)
 - [Décret n°2005-1632 du 26 décembre 2005 (JUSD0530148D)](decret-n2005-1632-du-26-decembre-2005-jusd0530148d)
 - [Décret n° 2005-556 du 27 mai 2005 (INTD0500133D)](decret-n-2005-556-du-27-mai-2005-intd0500133d)
+- [Décret n°2005-576 du 27 mai 2005 (AGRF0500744D)](decret-n2005-576-du-27-mai-2005-agrf0500744d)
 - [Décret n°2005-1220 du 28 septembre 2005 (AGRP0501561D)](decret-n2005-1220-du-28-septembre-2005-agrp0501561d)
 - [Décret n°2005-1718 du 28 décembre 2005 (MJSK0570250D)](decret-n2005-1718-du-28-decembre-2005-mjsk0570250d)
 - [Décret n°2005-1054 du 29 août 2005 (SOCF0511451D)](decret-n2005-1054-du-29-aout-2005-socf0511451d)
