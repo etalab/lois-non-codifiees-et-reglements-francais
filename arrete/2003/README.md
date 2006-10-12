@@ -1016,8 +1016,6 @@
 - [Arrêté du 28 mai 2003 (AGRG0301152A)](arrete-du-28-mai-2003-agrg0301152a)
 - [Arrêté du 28 mai 2003 (DEFD0301622A)](arrete-du-28-mai-2003-defd0301622a)
 - [Arrêté du 28 mai 2003 (EQUP0300205A)](arrete-du-28-mai-2003-equp0300205a)
-- [Arrêté du 29 août 2003 (ECOP0300356A)](arrete-du-29-aout-2003-ecop0300356a)
-- [Arrêté du 29 août 2003 (ECOP0300357A)](arrete-du-29-aout-2003-ecop0300357a)
 - [Arrêté du 29 août 2003 (ECOT0310486A)](arrete-du-29-aout-2003-ecot0310486a)
 - [Arrêté du 29 août 2003 (INDI0301842A)](arrete-du-29-aout-2003-indi0301842a)
 - [Arrêté du 29 avril 2003 (ECOP0300386A)](arrete-du-29-avril-2003-ecop0300386a)

@@ -40,7 +40,6 @@
 - [Décret n°96-302 du 3 avril 1996 (ENVN9640020D)](decret-n96-302-du-3-avril-1996-envn9640020d)
 - [Décret n°96-4 du 3 janvier 1996 (ECOT9610258D)](decret-n96-4-du-3-janvier-1996-ecot9610258d)
 - [Décret n°96-490 du 3 juin 1996 (MENF9601266D)](decret-n96-490-du-3-juin-1996-menf9601266d)
-- [Décret n°96-497 du 3 juin 1996 (AGRB9600903D)](decret-n96-497-du-3-juin-1996-agrb9600903d)
 - [Décret n°96-602 du 3 juillet 1996 (MCCB9600333D)](decret-n96-602-du-3-juillet-1996-mccb9600333d)
 - [Décret n°96-767 du 3 septembre 1996 (JUSD9630124D)](decret-n96-767-du-3-septembre-1996-jusd9630124d)
 - [Décret n°96-867 du 3 octobre 1996 (ECOT9613885D)](decret-n96-867-du-3-octobre-1996-ecot9613885d)
