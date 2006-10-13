@@ -574,6 +574,7 @@
 - [Arrêté du 26 juillet 2006 (EQUP0601571A)](arrete-du-26-juillet-2006-equp0601571a)
 - [Arrêté du 26 juin 2006 (SANS0622660A)](arrete-du-26-juin-2006-sans0622660a)
 - [Arrêté du 26 septembre 2005 (INTC0500607A)](arrete-du-26-septembre-2005-intc0500607a)
+- [Arrêté du 26 septembre 2006 (BUDB0630074A)](arrete-du-26-septembre-2006-budb0630074a)
 - [Arrêté du 26 septembre 2006 (MENF0602357A)](arrete-du-26-septembre-2006-menf0602357a)
 - [Arrêté du 26 mai 2006 (DEFM0600826A)](arrete-du-26-mai-2006-defm0600826a)
 - [Arrêté du 26 mai 2006 (PMEA0620042A)](arrete-du-26-mai-2006-pmea0620042a)
