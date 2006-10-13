@@ -223,6 +223,7 @@
 - [Décret n°2006-1204 du 29 septembre 2006 (MJSK0670206D)](decret-n2006-1204-du-29-septembre-2006-mjsk0670206d)
 - [Décret n°2006-1205 du 29 septembre 2006 (MJSK0670208D)](decret-n2006-1205-du-29-septembre-2006-mjsk0670208d)
 - [Décret n°2006-1206 du 29 septembre 2006 (MJSK0670149D)](decret-n2006-1206-du-29-septembre-2006-mjsk0670149d)
+- [Décret n°2001-777 du 30 août 2001 (INTA0100224D)](decret-n2001-777-du-30-aout-2001-inta0100224d)
 - [Décret n°2006-1085 du 30 août 2006 (PRMX0602101D)](decret-n2006-1085-du-30-aout-2006-prmx0602101d)
 - [Décret n°2006-1088 du 30 août 2006 (INTC0600188D)](decret-n2006-1088-du-30-aout-2006-intc0600188d)
 - [Décret n°2006-1090 du 30 août 2006 (SOCU0611370D)](decret-n2006-1090-du-30-aout-2006-socu0611370d)
