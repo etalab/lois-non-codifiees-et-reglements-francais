@@ -4,9 +4,9 @@ Sont inscrits sur la liste d'aptitude prévue au b de l'article 3 ci-dessus les 
 
 a) Pour la spécialité Musique :
 
-1° A un concours externe sur titres ouvert aux candidats titulaires du certificat d'aptitude aux fonctions de directeur des conservatoires nationaux de région ;
+1° A un concours externe sur titres ouvert aux candidats titulaires du certificat d'aptitude aux fonctions de directeur des conservatoires à rayonnement régional ;
 
-2° A un concours interne sur épreuves ouvert aux directeurs d'établissement d'enseignement artistique de 2e catégorie ainsi qu'aux professeurs d'enseignement artistique ayant exercé pendant cinq ans au moins en qualité de directeurs ou de professeurs titulaires dans une école de musique contrôlée par l'Etat.
+2° A un concours interne sur épreuves ouvert aux directeurs d'établissement d'enseignement artistique de 2e catégorie ainsi qu'aux professeurs d'enseignement artistique ayant exercé pendant cinq ans au moins en qualité de directeurs ou de professeurs titulaires dans un conservatoire classé.
 
 b) Pour la spécialité Arts plastiques :
 

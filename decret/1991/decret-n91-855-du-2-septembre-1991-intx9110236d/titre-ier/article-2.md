@@ -14,9 +14,9 @@ spécialité Musique.
 
 Les directeurs d'établissement d'enseignement artistique exercent leurs fonctions, suivant leur spécialité, dans des établissements locaux d'enseignement artistique contrôlés par l'Etat, à savoir :
 
-1° Les conservatoires nationaux de région ;
+1° Les conservatoires à rayonnement régional ;
 
-2° Les écoles nationales de musique ;
+2° Les conservatoires à rayonnement départemental ;
 
 3° Les établissements d'enseignement des arts plastiques habilités à délivrer un enseignement conduisant à un diplôme d'Etat ou à un diplôme agréé par l'Etat et sanctionnant un cursus d'au moins trois années ;
 
@@ -26,4 +26,4 @@ La liste de ces établissements est fixée par arrêté conjoint du ministre de 
 
 Les directeurs d'établissement d'enseignement artistique de 1re catégorie exercent leurs fonctions dans les établissements mentionnés aux 1° et 3° ci-dessus.
 
-Les directeurs d'établissement d'enseignement artistique de 2e catégorie exercent leurs fonctions dans les établissements mentionnées aux 2° et 4° ci-dessus. Ils peuvent également exercer les fonctions d'adjoint au directeur d'un conservatoire national de région ou d'une école nationale de musique.
+Les directeurs d'établissement d'enseignement artistique de 2e catégorie exercent leurs fonctions dans les établissements mentionnées aux 2° et 4° ci-dessus. Ils peuvent également exercer les fonctions d'adjoint au directeur d'un conservatoire à rayonnement régional ou d'un conservatoire à rayonnement départemental.

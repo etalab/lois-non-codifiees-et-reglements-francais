@@ -2,15 +2,15 @@
 
 Les assistants spécialisés d'enseignement artistique exercent leurs fonctions, selon les formations qu'ils ont reçues, dans les spécialités suivantes :
 
-" 1° Musique ;
+1° Musique ;
 
-" 2° Danse ;
+2° Danse ;
 
-" 3° Arts plastiques.
+3° Arts plastiques.
 
-" Les spécialités Musique et Danse comprennent différentes disciplines. "
+Les spécialités Musique et Danse comprennent différentes disciplines.
 
-Les fonctionnaires du cadre d'emplois sont chargés, selon leur spécialité, de tâches d'enseignement dans les écoles de musique et de danse et dans les écoles d'arts plastiques qui ne sont pas habilitées à dispenser un enseignement sanctionné par un diplôme national ou par un diplôme agréé par l'Etat.
+Les fonctionnaires du cadre d'emplois sont chargés, selon leur spécialité, de tâches d'enseignement dans les conservatoires à rayonnement régional, départemental, communal ou intercommunal classés et les établissements d'enseignement de la musique, de la danse et de l'art dramatique non classés et dans les écoles d'arts plastiques qui ne sont pas habilitées à dispenser un enseignement sanctionné par un diplôme national ou par un diplôme agréé par l'Etat.
 
 Ils sont également chargés d'apporter une assistance technique ou pédagogique aux professeurs de musique, de danse et d'arts plastiques.
 

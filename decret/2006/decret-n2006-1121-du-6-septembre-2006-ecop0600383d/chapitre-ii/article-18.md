@@ -1,3 +1,0 @@
-# Article 18
-
-Les ingénieurs de l'industrie et des mines qui ont été recrutés par la voie de l'examen professionnel ou de la liste d'aptitude prévus par l'article 4 du décret du 29 avril 1988 dans les six années précédant la date d'entrée en vigueur du présent décret peuvent demander, dans un délai de six mois à compter de cette même date, à être reclassés dans le grade d'ingénieur de l'industrie et des mines dans les mêmes conditions que s'ils avaient été nommés et reclassés dans ce grade à cette même date conformément aux dispositions de l'article 11 du décret du 29 avril 1988 dans sa rédaction issue des dispositions de l'article 11 du présent décret.

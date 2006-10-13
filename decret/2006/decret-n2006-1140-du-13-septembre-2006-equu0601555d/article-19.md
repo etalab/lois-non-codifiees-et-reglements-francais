@@ -1,3 +1,0 @@
-# Article 19
-
-L'Etablissement public foncier d'Ile-de-France peut, le cas échéant, passer avec un autre établissement public foncier d'Etat en Ile-de-France, ou avec l'Agence foncière et technique de la région parisienne, une convention qui définit les conditions dans lesquelles ce ou cette dernière concourt aux missions de l'Etablissement public foncier d'Ile-de-France dans le respect de son autonomie. Elle précise notamment les conditions dans lesquelles le personnel et les moyens matériels nécessaires sont mis à la disposition de l'Etablissement public foncier d'Ile-de-France par un autre établissement public d'Etat ainsi que les conditions financières correspondantes.

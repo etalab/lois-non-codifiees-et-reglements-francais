@@ -1,3 +1,0 @@
-# Article 20
-
-La commission administrative paritaire compétente à l'égard du corps de l'inspection générale des finances demeure compétente jusqu'à la désignation des représentants des nouveaux grades créés par le présent décret. Les représentants des classes d'inspecteur adjoint et d'inspecteur de 3e classe et les représentants des classes d'inspecteur de 2e classe et d'inspecteur de 1re classe à la commission administrative paritaire exercent, respectivement, les compétences des représentants des nouvelles classes d'inspecteur de 2e classe et d'inspecteur de 1re classe créées par le présent décret jusqu'à l'installation de la nouvelle commission administrative paritaire.

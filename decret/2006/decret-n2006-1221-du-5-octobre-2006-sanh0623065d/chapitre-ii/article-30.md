@@ -1,3 +1,0 @@
-# Article 30
-
-Les dispositions des I à III, IX et X de l'article 1er, les dispositions du II de l'article 6, les dispositions des I, II, et VI de l'article 7 et les dispositions du IV de l'article 11 du présent décret sont applicables au plus tard dans un délai de dix-huit mois à compter de la date de nomination des membres du conseil d'administration de l'établissement national chargé de la gestion des personnels de direction de la fonction publique hospitalière et des praticiens hospitaliers. Un arrêté du ministre chargé de la santé précise la date à laquelle ces dispositions entrent en vigueur dans leur rédaction issue du présent décret. Il précise également, en tant que de besoin, les modalités d'application du transfert de ces compétences.
