@@ -1,3 +1,0 @@
-# Article 3
-
-Des équivalences de diplômes français ou étrangers avec les certificats d'aptitude et le diplôme d'Etat mentionnés à l'article 1er peuvent être accordées dans des conditions fixées par arrêté du ministre chargé de la culture. En ce qui concerne les ressortissants des Etats membres de la Communauté européenne, les équivalences avec les certificats d'aptitude précités seront accordées conformément aux dispositions de la directive du conseil du 21 décembre 1988 relative à un système général de reconnaissance des diplômes d'enseignement supérieur qui sanctionnent des formations professionnelles d'une durée minimale de trois ans.
