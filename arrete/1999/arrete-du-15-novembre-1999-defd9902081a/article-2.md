@@ -2,6 +2,4 @@
 
 Le directeur des statuts, des pensions et de la réinsertion sociale est assisté d'adjoints, qui le remplacent en cas d'absence ou d'empêchement.
 
-Il dispose d'une chancellerie et de chargés de mission.
-
-La chancellerie assure l'administration du personnel, la protection du secret et le traitement du courrier de la direction.
+Il dispose de chargés de mission et d'un officier de sécurité chargé de la protection du secret.

@@ -12,7 +12,7 @@ Les pharmaciens ne peuvent conseiller, dispenser et vendre dans leur officine qu
 
 5° Les dispositifs médicaux à usage individuel, à l'exception des dispositifs médicaux implantables ;
 
-6° Les plantes médicinales, aromatiques et leurs dérivés ;
+6° Les plantes médicinales, aromatiques et leurs dérivés, en l'état ou sous forme de préparations, à l'exception des cigarettes ou autres produits à fumer ;
 
 7° Les huiles essentielles ;
 
@@ -42,4 +42,8 @@ Les pharmaciens ne peuvent conseiller, dispenser et vendre dans leur officine qu
 
 20° Les équipements de protection individuelle de protection solaire ;
 
-21° Les équipements de protection individuelle d'acoustique adaptés au conduit auditif.
+21° Les équipements de protection individuelle d'acoustique adaptés au conduit auditif ;
+
+22° Les compléments alimentaires ;
+
+23° Les équipements de protection individuelle respiratoire.

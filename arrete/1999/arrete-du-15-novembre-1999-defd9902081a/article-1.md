@@ -6,7 +6,7 @@ La direction des statuts, des pensions et de la réinsertion sociale comprend :
 
 - la sous-direction de la réinsertion sociale ;
 
-- la division des services déconcentrés et des études ;
+- la division de l'administration générale et des études ;
 
 - le centre d'études et de recherche sur l'appareillage des handicapés.
 
