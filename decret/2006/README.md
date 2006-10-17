@@ -1,5 +1,7 @@
 # 2006
 
+- [Décret n°2006-648 du 2 juin 2006 (ECOX0500233D)](decret-n2006-648-du-2-juin-2006-ecox0500233d)
+- [Décret n°2006-649 du 2 juin 2006 (INDI0607508D)](decret-n2006-649-du-2-juin-2006-indi0607508d)
 - [Décret n°2006-1243 du 11 octobre 2006 (INTD0600222D)](decret-n2006-1243-du-11-octobre-2006-intd0600222d)
 - [Décret n°2006-1244 du 11 octobre 2006 (INTA0600221D)](decret-n2006-1244-du-11-octobre-2006-inta0600221d)
 - [Décret n°2006-1246 du 11 octobre 2006 (EQUT0601530D)](decret-n2006-1246-du-11-octobre-2006-equt0601530d)

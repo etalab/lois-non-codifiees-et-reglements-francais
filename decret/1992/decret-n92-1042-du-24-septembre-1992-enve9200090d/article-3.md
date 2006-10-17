@@ -10,7 +10,7 @@ La commission est composée de trois collèges distincts :
 
 - le collège des représentants des usagers, des propriétaires riverains, des organisations professionnelles et des associations concernées comprend au moins un représentant des chambres d'agriculture, un représentant des chambres de commerce et d'industrie, un représentant des associations ou syndicats de propriétaires riverains, un représentant des associations des autres usagers, notamment des fédérations de pêche et de pisciculture, et un représentant des associations de protection de la nature ;
 
-- le collège des représentants de l'Etat et de ses établissements publics comprend obligatoirement un représentant du préfet coordonnateur de bassin et un représentant de l'agence de l'eau.
+- le collège des représentants de l'Etat et de ses établissements publics comprend obligatoirement un représentant du préfet coordonnateur de bassin, un représentant de l'agence de l'eau et, le cas échéant, un représentant du conseil de gestion du parc naturel marin.
 
 La durée du mandat des membres de la commission locale de l'eau, autres que les représentants de l'Etat, est de six années. Chaque membre titulaire dispose d'un suppléant. Ils cessent d'en être membres s'ils perdent les fonctions en considération desquelles ils ont été désignés. Les suppléants pourvoient au remplacement des membres titulaires empêchés, démis de leurs fonctions ou décédés, pour la durée du mandat restant à accomplir.
 

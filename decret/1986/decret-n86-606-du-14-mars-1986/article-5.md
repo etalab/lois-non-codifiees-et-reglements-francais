@@ -6,7 +6,9 @@ a) Membres de droit ;
 
 - le préfet du département concerné par les principales installations et le préfet maritime, coprésidents ;
 
-- l'administrateur des affaires maritimes, chef du quartier intéressé.
+- l'administrateur des affaires maritimes, chef du quartier intéressé ;
+
+- le cas échéant, un représentant du conseil de gestion du parc naturel marin.
 
 Les coprésidents peuvent déléguer l'exercice de la présidence à l'administrateur des affaires maritimes chef du quartier intéressé par arrêté pris conjointement. En cas de partage des voix, ce dernier a voix prépondérante et mention en est faite au procès-verbal.
 

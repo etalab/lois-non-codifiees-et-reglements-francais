@@ -16,6 +16,8 @@ Un directeur départemental de la concurrence et de la consommation ou son repr�
 
 Un représentant de l'institut scientifique et technique des pêches maritimes ;
 
+Un représentant du conseil de gestion du parc naturel marin situé pour tout ou partie dans la circonscription ;
+
 Deux élus désignés par le conseil général ou par le conseil régional, selon que la circonscription s'étend sur un ou plusieurs départements ;
 
 Une délégation professionnelle de huit membres composée, en fonction de l'ordre du jour, soit de représentants de la conchyliculture, soit de représentants des cultures marines autres que la conchyliculture, soit de représentants de l'une et l'autre activités.

@@ -1,0 +1,3 @@
+# Article 1
+
+Le présent décret s'applique aux titres miniers et aux titres de stockage souterrain suivants : permis exclusif de recherches de mines, permis d'exploitation de mines dans les départements d'outre-mer, concession de mines, permis exclusif de recherches de stockage souterrain et concession de stockage souterrain. Il ne s'applique ni aux titres miniers mentionnés à la section 4 du chapitre IV du titre III du livre Ier du code minier ni aux substances minérales ou fossiles non visées à l'article 2 du code minier et contenues dans les fonds marins du domaine public et du plateau continental.

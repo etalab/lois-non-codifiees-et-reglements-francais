@@ -1,0 +1,5 @@
+# Article 17
+
+La demande de permis exclusif de recherches est assortie d'un dossier comportant les pièces nécessaires à l'identification du demandeur, un mémoire technique, le programme des travaux envisagés, accompagné d'un engagement financier précisant, pour les permis de recherches de mines, le montant minimum de dépenses que le demandeur s'engage à consacrer aux recherches, des documents cartographiques et une notice d'impact indiquant les incidences éventuelles des travaux projetés sur l'environnement et les conditions dans lesquelles l'opération projetée prend en compte les préoccupations d'environnement et, en tant que de besoin, le consentement du titulaire d'un titre existant.
+
+Cette demande est adressée au ministre chargé des mines par lettre recommandée avec accusé de réception. Le ministre en accuse réception selon les modalités prévues par le décret du 6 juin 2001 susvisé. Le demandeur peut adresser, sous pli séparé, celles des informations couvertes par son droit d'inventeur ou de propriété industrielle qu'il ne souhaite pas rendre publiques.
