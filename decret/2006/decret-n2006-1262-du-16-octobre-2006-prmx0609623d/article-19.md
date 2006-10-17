@@ -1,0 +1,3 @@
+# Article 19
+
+Les conseillers référendaires nommés en application des deuxième et quatrième alinéas de l'article L. 122-5 du code des juridictions financières et bénéficiant à la date de la publication du présent décret de l'indemnité compensatrice prévue par le décret n° 47-1457 du 4 août 1947, modifié par le décret n° 64-782 du 28 juillet 1964, sont classés dans leur grade à l'échelon comportant un traitement égal ou, à défaut, immédiatement supérieur à celui dont ils bénéficiaient dans leur corps d'origine. Les intéressés conservent, dans la limite de l'ancienneté requise pour un avancement d'échelon dans leur nouveau grade, l'ancienneté d'échelon acquise dans leur précédent grade.
