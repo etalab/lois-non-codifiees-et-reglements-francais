@@ -488,6 +488,12 @@ Centre de santé, 1, rue du Général-de-Gaulle, 97390 Regina.
 
 Centre hospitalier Andrée Rosemon (unité des maladies infectieuses et tropicales), avenue des Flamboyants, BP 6006, 97306 Cayenne Cedex.
 
+Service départemental de PMI de Barrat, conseil général de la Guyane, 1, rue du Docteur-Roland-Barrat, 97300 Cayenne.
+
+Service départemental de PMI de Ronjon, conseil général de la Guyane, rue de la Digue-Ronjon, 97300 Cayenne.
+
+Centre de prévention santé de Kourou et ses antennes, 4-6, place Nobel, 97310 Kourou.
+
 974 - Réunion
 
 Centre hospitalier départemental Félix Guyon, Bellepierre, 97405 Saint-Denis Cedex.
