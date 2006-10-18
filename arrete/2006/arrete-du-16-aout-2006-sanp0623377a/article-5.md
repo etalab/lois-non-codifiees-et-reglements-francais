@@ -1,3 +1,3 @@
 # Article 5
 
-Le présent arrêté entre en vigueur dans les conditions prévues aux articles 15 et 17 du décret n° 2006-477 du 26 avril 2006.
+Dès que le promoteur dispose de l'avis favorable du comité de protection des personnes et de l'autorisation de l'Agence française de sécurité sanitaire des produits de santé, il transmet à l'un et à l'autre la version définitive du protocole et de la brochure pour l'investigateur lorsque des modifications ont été apportées à la demande de l'un ou de l'autre.

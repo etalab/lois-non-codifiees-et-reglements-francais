@@ -17,6 +17,8 @@
 - [Décret n°2006-1264 du 16 octobre 2006 (ECOC0600134D)](decret-n2006-1264-du-16-octobre-2006-ecoc0600134d)
 - [Décret n°2006-1265 du 16 octobre 2006 (AGRP0602061D)](decret-n2006-1265-du-16-octobre-2006-agrp0602061d)
 - [Décret n°2006-1266 du 16 octobre 2006 (DEVN0640056D)](decret-n2006-1266-du-16-octobre-2006-devn0640056d)
+- [Décret n°2006-1267 du 16 octobre 2006 (ECOP0600454D)](decret-n2006-1267-du-16-octobre-2006-ecop0600454d)
+- [Décret n°2006-1268 du 17 octobre 2006 (SANP0622920D)](decret-n2006-1268-du-17-octobre-2006-sanp0622920d)
 - [Décret n°2005-1613 du 22 décembre 2005 (MAEX0500293D)](decret-n2005-1613-du-22-decembre-2005-maex0500293d)
 - [Décret n°92-835 du 27 août 1992 (MENB9200267D)](decret-n92-835-du-27-aout-1992-menb9200267d)
 - [Décret n°2001-777 du 30 août 2001 (INTA0100224D)](decret-n2001-777-du-30-aout-2001-inta0100224d)
