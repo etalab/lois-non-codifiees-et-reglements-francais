@@ -10,7 +10,7 @@ Le secrétaire général.
 
 Le haut fonctionnaire de défense.
 
-Le secrétaire général de l'inspection générale du travail des transports.
+L'inspecteur général du travail des transports.
 
 La directrice générale du personnel et de l'administration.
 
