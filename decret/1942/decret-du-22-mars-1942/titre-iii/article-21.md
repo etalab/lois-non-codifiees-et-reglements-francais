@@ -1,5 +1,0 @@
-# Article 21
-
-Les locomotives et autres véhicules moteurs ne peuvent être mis en service qu'après l'établissement d'un procès-verbal de réception signé par le directeur de l'administration exploitante, ou son délégué, et dont un exemplaire est remis au service technique de la direction générale des transports pour les chemins de fer d'intérêt général, au service du contrôle pour les chemins de fer d'intérêt local. Ce procès-verbal doit constater que l'engin est conforme aux conditions du cahier des charges relatif à sa fourniture et qu'il a satisfait à toutes les épreuves prescrites par les règlements en vigueur.
-
-Lorsqu'il s'agit du premier engin d'une série, ou de modifications importantes au type d'une série, l'exploitant fait connaître, en temps opportun, au service technique de la direction générale des transports pour les chemins de fer d'intérêt général au service du contrôle pour les chemins de fer d'intérêt local, la date à laquelle doivent avoir lieu les opérations de réception des engins moteurs, afin de permettre à des représentants dudit service d'y assister.

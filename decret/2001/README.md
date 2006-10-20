@@ -107,7 +107,6 @@
 - [Décret n°2001-1035 du 8 novembre 2001 (MESK0110898D)](decret-n2001-1035-du-8-novembre-2001-mesk0110898d)
 - [Décret n°2001-1038 du 8 novembre 2001 (AGRX0100101D)](decret-n2001-1038-du-8-novembre-2001-agrx0100101d)
 - [Décret n°2001-1043 du 8 novembre 2001 (EQUA0101238D)](decret-n2001-1043-du-8-novembre-2001-equa0101238d)
-- [Décret n°2001-129 du 8 février 2001 (EQUX0000165D)](decret-n2001-129-du-8-fevrier-2001-equx0000165d)
 - [Décret n°2001-922 du 8 octobre 2001 (JUSG0100026D)](decret-n2001-922-du-8-octobre-2001-jusg0100026d)
 - [Décret n°2001-923 du 8 octobre 2001 (EQUR0100925D)](decret-n2001-923-du-8-octobre-2001-equr0100925d)
 - [Décret n°2001-929 du 8 octobre 2001 (EQUT0101072D)](decret-n2001-929-du-8-octobre-2001-equt0101072d)

@@ -12,4 +12,4 @@ Les voies de circulation, de garage et de triage sont celles qui servent à la c
 
 Les voies de service sont celles sur lesquelles sont effectuées normalement des opérations de chargement et de déchargement.
 
-Le terme " embranché " définit tout établissement raccordé au réseau ferré de la Société nationale des chemins de fer français par un réseau ferré privé lui appartenant.
+Le terme " embranché " définit tout établissement raccordé au réseau ferré national par un réseau ferré privé lui appartenant.

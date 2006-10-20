@@ -8,7 +8,7 @@ Sans préjudice des dispositions relatives au droit de la concurrence, tout dema
 
 - au système de tarification, ainsi qu'au niveau et à la structure des redevances d'utilisation de l'infrastructure empruntée, en particulier sa conformité aux dispositions mentionnées dans le décret n° 97-446 du 5 mai 1997 susvisé ;
 
-- au certificat de sécurité, ainsi qu'à l'application et au contrôle des normes et règles de sécurité ;
+- à l'exercice du droit d'accès au réseau ;
 
 - à la fourniture des prestations et services mentionnés à l'article 3 ;
 

@@ -1,3 +1,0 @@
-# LE SYSTÈME FERROVIAIRE TRANSEUROPÉEN À GRANDE VITESSE.
-
-- [Article ANNEXE I](article-annexe-i.md)

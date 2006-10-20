@@ -1,5 +1,0 @@
-# Article 26
-
-Toute voiture à voyageurs ne peut être mise en service qu'après établissement d'un procès-verbal de réception signé par le directeur de l'administration exploitante ou son délégué et dont un exemplaire est adressé au service technique de la direction générale des transports pour les chemins de fer d'intérêt général au service du contrôle pour les chemins de fer d'intérêt local. Ce procès-verbal doit constater que le véhicule est conforme aux conditions du cahier des charges de sa fourniture, et qu'il a satisfait aux prescriptions des règlements en vigueur.
-
-Lorsqu'il s'agit du premier véhicule d'une série ou de modifications importantes au type de cette série, la compagnie fait connaître, en temps opportun, au service technique de la direction générale des transports pour les chemins de fer d'intérêt général, au service du contrôle pour les chemins de fer d'intérêt local, la date à laquelle doivent avoir lieu les opérations de réception des véhicules à voyageurs, afin de permettre à des représentants dudit service d'y assister.

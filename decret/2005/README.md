@@ -43,6 +43,7 @@
 - [Décret n°2002-252 du 22 février 2002 (RECR0200060D)](decret-n2002-252-du-22-fevrier-2002-recr0200060d)
 - [Décret n°2005-693 du 23 juin 2005 (MPEX0508523D)](decret-n2005-693-du-23-juin-2005-mpex0508523d)
 - [Décret n°2005-696 du 23 juin 2005 (MENB0501195D)](decret-n2005-696-du-23-juin-2005-menb0501195d)
+- [Décret n°2005-276 du 24 mars 2005 (EQUX0400283D)](decret-n2005-276-du-24-mars-2005-equx0400283d)
 - [Décret n°2005-703 du 24 juin 2005 (MCCX0500075D)](decret-n2005-703-du-24-juin-2005-mccx0500075d)
 - [Décret n°95-979 du 25 août 1995 (PRMG9570441D)](decret-n95-979-du-25-aout-1995-prmg9570441d)
 - [Décret n°2005-1632 du 26 décembre 2005 (JUSD0530148D)](decret-n2005-1632-du-26-decembre-2005-jusd0530148d)
