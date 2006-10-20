@@ -56,7 +56,9 @@ Peuvent être pris en charge au titre des missions mentionnées au 1° de l'arti
 
 - le Centre national d'aide à la prise en charge des  encéphalopathies spongiformes subaigues transmissibles ;
 
-- les centres de références hépatites C.
+- les centres de références hépatites C ;
+
+- les centres pluridisciplinaires de diagnostic prénatal.
 
 4° Au titre des activités de soins réalisées à des fins expérimentales ou de la dispensation des soins non couverts par les nomenclatures ou les tarifs :
 

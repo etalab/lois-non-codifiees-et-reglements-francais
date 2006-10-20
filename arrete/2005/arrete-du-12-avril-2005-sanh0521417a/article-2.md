@@ -18,7 +18,11 @@ Peuvent être pris en charge au titre des missions mentionnées au 2° de l'arti
 
 - les registres à caractère épidémiologique mentionnés à l'article 2 de l'arrêté du 6 novembre 1995 modifié relatif au Comité national des registres ;
 
-- les centres de coordination des soins en cancérologie.
+- les centres de coordination des soins en cancérologie ;
+
+- le Centre national de ressources de la douleur ;
+
+- le Centre national de ressource pour les soins palliatifs.
 
 2° Au titre des missions de formation, de soutien, de coordination et d'évaluation des besoins du patient :
 
@@ -60,7 +64,7 @@ Peuvent être pris en charge au titre des missions mentionnées au 2° de l'arti
 
 7° Au titre de la mission de conseil des équipes hospitalières en matière d'éthique, de bioéthique et de protection des personnes, les centres nationaux d'éthique.
 
-8° Au titre des missions de veille sanitaire, de prévention et de gestion des risques, les actions de prévention et gestion des risques liés à des circonstances exceptionnelles et les structures spécialisées dans la gestion du risque nucléaire, radiologique, bactériologique et chimique ou d'une crise sanitaire majeure.
+8° Au titre des missions de veille sanitaire, de prévention et de gestion des risques, les actions de prévention et gestion des risques liés à des circonstances exceptionnelles, la mise à disposition de personnels auprès des services de l'Etat chargés de la gestion d'une crise sanitaire majeure et les structures spécialisées dans la gestion du risque nucléaire, radiologique, bactériologique et chimique ou d'une crise sanitaire majeure.
 
 9° Au titre de l'intervention des équipes pluridisciplinaires pour la prise en charge de certaines pathologies :
 

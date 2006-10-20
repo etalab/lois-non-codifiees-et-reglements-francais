@@ -1,0 +1,5 @@
+# Article 28
+
+A titre transitoire pour l'établissement de la liste d'aptitude valable pour l'année 2007, et dans l'attente de l'entrée en vigueur des conventions collectives nationales des agents de direction et des employés et cadres du régime social des indépendants, la classe d'appartenance des candidats agents de direction prise en compte est celle dont ils relevaient au 30 juin 2006 et le niveau des candidats cadres pris en compte est celui atteint au 30 juin 2006. Pour toutes les autres conditions de recevabilité et d'inscription, est prise en compte la situation de ces candidats au 31 décembre 2006.
+
+L'agent de direction qui, à la date de création du régime social des indépendants, est régulièrement nommé et agréé dans un emploi de directeur ou d'agent comptable de l'un des régimes constitutifs du régime social des indépendants conserve, à titre personnel, le bénéfice de la classe de la liste d'aptitude dont relevait cet emploi, jusqu'à la date de son agrément dans un nouvel emploi relevant de cette même classe ou d'une classe supérieure.

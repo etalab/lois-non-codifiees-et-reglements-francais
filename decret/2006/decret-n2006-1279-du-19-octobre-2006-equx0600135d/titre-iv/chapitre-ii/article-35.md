@@ -1,0 +1,3 @@
+# Article 35
+
+Est puni des peines prévues pour les contraventions de la troisième classe le fait, pour toute personne, de ne pas présenter aux agents chargés du contrôle les éléments justificatifs mentionnés à l'article 33 ainsi que le fait, pour toute personne, de détenir en vue de la vente un constituant d'interopérabilité non conforme aux spécifications techniques d'interopérabilité dont les références ont été publiées au Journal officiel de la République française ou muni d'une déclaration "CE" dont le contenu n'est pas conforme aux dispositions de l'arrêté prévu au c du III de l'article 31 du présent décret.

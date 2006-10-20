@@ -1,0 +1,5 @@
+# Article 2
+
+Pour avoir droit à la dénomination " Vins de pays de l'Atlantique ", les vins doivent être issus de vendanges récoltées dans les départements de la Charente (16), de la Charente-Maritime (17), de la Dordogne (24), de la Gironde (33), ainsi que dans les cantons ou partie de cantons de Lot-et-Garonne (47) suivants :
+
+Bouglon, Casteljaloux, Damazan (communes de Puch-d'Agenais, Ambrus, Damazan, Saint-Pierre-de-Buzet, Buzet-sur-Baïse, Razimet, Saint-Léon, Caubeyres et Fargues-sur-Ourbise), Duras, Houeilles, Lavardac, Laplume (communes de Sérignac-sur-Garonne et Sainte-Colombe-en-Bruilhois), Lauzun (commune de Peyrière), Marmande (communes de Sainte-Bazeille, Saint-Martin-Petit, Virazeil, Marmande, Mauvezin-sur-Gupie et Beaupuy), Le Mas-d'Agenais (commune de Samazan), Meilhan, Nérac (communes de Nérac, Espiens, Moncaut, Montagnac-sur-Auvignon, Calignac) et Seyches (communes de Escassefort, Lachapelle, Lagupie, Cambes, Saint-Avit, Saint-Géraud, Saint-Pierre-sur-Dropt, Lévignac-de-Guyenne, Seyches, Castelnau-sur-Gupie, Caubon-Saint-Sauveur et Monteton).
