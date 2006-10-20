@@ -811,7 +811,6 @@
 - [Arrêté du 25 novembre 1998 (JUSC9820745A)](arrete-du-25-novembre-1998-jusc9820745a)
 - [Arrêté du 25 septembre 1998 (ECOI9800712A)](arrete-du-25-septembre-1998-ecoi9800712a)
 - [Arrêté du 25 septembre 1998 (MESF9811044A)](arrete-du-25-septembre-1998-mesf9811044a)
-- [Arrêté du 25 septembre 1998 (MESS9823151A)](arrete-du-25-septembre-1998-mess9823151a)
 - [Arrêté du 25 mai 1998 (ATEN9870189A)](arrete-du-25-mai-1998-aten9870189a)
 - [Arrêté du 25 mai 1998 (DEFB9801532A)](arrete-du-25-mai-1998-defb9801532a)
 - [Arrêté du 26 août 1998 (DEFB9801966A)](arrete-du-26-aout-1998-defb9801966a)
