@@ -37,3 +37,4 @@
 - [Décret n°92-835 du 27 août 1992 (MENB9200267D)](decret-n92-835-du-27-aout-1992-menb9200267d)
 - [Décret n°2006-369 du 28 mars 2006 (EQUT0600796D)](decret-n2006-369-du-28-mars-2006-equt0600796d)
 - [Décret n°2001-777 du 30 août 2001 (INTA0100224D)](decret-n2001-777-du-30-aout-2001-inta0100224d)
+- [Décret n°2006-389 du 30 mars 2006 (MAEF0610017D)](decret-n2006-389-du-30-mars-2006-maef0610017d)
