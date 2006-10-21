@@ -219,7 +219,6 @@
 - [Arrêté du 7 février 2003 (DEVN0320045A)](arrete-du-7-fevrier-2003-devn0320045a)
 - [Arrêté du 7 janvier 2003 (AGRA0202447A)](arrete-du-7-janvier-2003-agra0202447a)
 - [Arrêté du 7 janvier 2003 (BUDD0270061A)](arrete-du-7-janvier-2003-budd0270061a)
-- [Arrêté du 7 janvier 2003 (DEVP0320022A)](arrete-du-7-janvier-2003-devp0320022a)
 - [Arrêté du 7 janvier 2003 (INTA0200683A)](arrete-du-7-janvier-2003-inta0200683a)
 - [Arrêté du 7 janvier 2003 (JUSG0260069A)](arrete-du-7-janvier-2003-jusg0260069a)
 - [Arrêté du 7 janvier 2003 (JUSG0260070A)](arrete-du-7-janvier-2003-jusg0260070a)

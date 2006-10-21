@@ -560,7 +560,6 @@
 - [Arrêté du 24 novembre 1999 (AGRG9902252A)](arrete-du-24-novembre-1999-agrg9902252a)
 - [Arrêté du 24 novembre 1999 (ECOL9900146A)](arrete-du-24-novembre-1999-ecol9900146a)
 - [Arrêté du 24 novembre 1999 (MESG9923585A)](arrete-du-24-novembre-1999-mesg9923585a)
-- [Arrêté du 24 septembre 1998 (INTA9800398A)](arrete-du-24-septembre-1998-inta9800398a)
 - [Arrêté du 24 septembre 1999 (ECOT9914048A)](arrete-du-24-septembre-1999-ecot9914048a)
 - [Arrêté du 25 février 1999 (AGRP9900376A)](arrete-du-25-fevrier-1999-agrp9900376a)
 - [Arrêté du 25 février 1999 (AGRP9900533A)](arrete-du-25-fevrier-1999-agrp9900533a)
