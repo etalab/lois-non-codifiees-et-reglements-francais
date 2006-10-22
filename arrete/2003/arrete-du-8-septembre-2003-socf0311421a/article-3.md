@@ -1,15 +1,13 @@
 # Article 3
 
-Le titre professionnel de technicien de maintenance en chauffage et climatisation est composé de cinq unités constitutives dont la liste suit :
+Le titre professionnel de technicien(ne) de maintenance en chauffage et climatisation est composé des quatre unités constitutives dont la liste suit :
 
-1. Mettre en service et assurer la maintenance des équipements de distribution et d'émission de chaleur des installations de chauffage et d'eau chaude sanitaire individuelles et collectives de puissance &lt; à 70 kW ;
+1. Assurer la mise en service et la maintenance des installations de chauffage et d'eau chaude sanitaire de petite puissance équipées de générateurs fioul ou gaz au sol ;
 
-2. Sélectionner, remplacer et assurer la maintenance des équipements de chauffe fioul et gaz de puissance &lt; à 70 kW, des installations de chauffage et d'eau chaude individuelles et collectives ;
+2. Assurer la mise en service et la maintenance des installations de chauffage et d'eau chaude sanitaire de petite puissance équipées de générateurs muraux gaz ;
 
-3. Sélectionner, remplacer et assurer la maintenance des générateurs muraux individuels de chauffage et d'eau chaude sanitaire ;
+3. Mettre en service et assurer la maintenance de climatiseurs à détente directe ;
 
-4. Mettre en service et assurer la maintenance de climatiseurs à détente directe ;
+4. Assurer la maintenance de niveau III et l'amélioration des installations climatiques de puissance inférieure à 70 kW.
 
-5. Assurer la maintenance de niveau III et l'amélioration des installations climatiques de puissance &lt; à 70 kW.
-
-Elles peuvent être sanctionnées par des certificats de compétences professionnelles (CCP) dans les conditions prévues par l'arrêté du 25 novembre 2002 susvisé.
+Elles peuvent être sanctionnées par des certificats de compétences professionnelles (CCP) dans les conditions prévues par l'arrêté du 9 mars 2006 susvisé.
