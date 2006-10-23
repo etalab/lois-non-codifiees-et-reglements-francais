@@ -425,6 +425,7 @@
 - [Arrêté du 20 mars 2006 (BUDB0660005A)](arrete-du-20-mars-2006-budb0660005a)
 - [Arrêté du 20 mars 2006 (MAEA0520490A)](arrete-du-20-mars-2006-maea0520490a)
 - [Arrêté du 20 mars 2006 (MAEA0620071A)](arrete-du-20-mars-2006-maea0620071a)
+- [Arrêté du 20 octobre 2006 (AGRS0601855A)](arrete-du-20-octobre-2006-agrs0601855a)
 - [Arrêté du 20 septembre 2006 (AGRP0602038A)](arrete-du-20-septembre-2006-agrp0602038a)
 - [Arrêté du 20 septembre 2006 (DEFP0601118A)](arrete-du-20-septembre-2006-defp0601118a)
 - [Arrêté du 20 septembre 2006 (INTE0600818A)](arrete-du-20-septembre-2006-inte0600818a)
