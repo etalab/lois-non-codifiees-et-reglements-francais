@@ -43,6 +43,7 @@
 - [Décret n°2006-1292 du 20 octobre 2006 (AGRS0601854D)](decret-n2006-1292-du-20-octobre-2006-agrs0601854d)
 - [Décret n°2006-1293 du 20 octobre 2006 (AGRF0602031D)](decret-n2006-1293-du-20-octobre-2006-agrf0602031d)
 - [Décret n°2005-1613 du 22 décembre 2005 (MAEX0500293D)](decret-n2005-1613-du-22-decembre-2005-maex0500293d)
+- [Décret n°2006-1296 du 23 octobre 2006 (SANS0622919D)](decret-n2006-1296-du-23-octobre-2006-sans0622919d)
 - [Décret n°92-835 du 27 août 1992 (MENB9200267D)](decret-n92-835-du-27-aout-1992-menb9200267d)
 - [Décret n°2006-369 du 28 mars 2006 (EQUT0600796D)](decret-n2006-369-du-28-mars-2006-equt0600796d)
 - [Décret n°2001-777 du 30 août 2001 (INTA0100224D)](decret-n2001-777-du-30-aout-2001-inta0100224d)
