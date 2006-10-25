@@ -472,7 +472,6 @@
 - [Arrêté du 11 septembre 1995 (ILEA9502737A)](arrete-du-11-septembre-1995-ilea9502737a)
 - [Arrêté du 11 septembre 1995 (SANP9502739A)](arrete-du-11-septembre-1995-sanp9502739a)
 - [Arrêté du 11 mai 1987 (DEFD8701341A)](arrete-du-11-mai-1987-defd8701341a)
-- [Arrêté du 12 avril 1995 (ACVA9510034A)](arrete-du-12-avril-1995-acva9510034a)
 - [Arrêté du 12 avril 1995 (ACVP9520019A)](arrete-du-12-avril-1995-acvp9520019a)
 - [Arrêté du 12 avril 1995 (BUDB9510030A)](arrete-du-12-avril-1995-budb9510030a)
 - [Arrêté du 12 avril 1995 (DOMP9500033A)](arrete-du-12-avril-1995-domp9500033a)

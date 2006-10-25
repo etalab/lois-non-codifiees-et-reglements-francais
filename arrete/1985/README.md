@@ -148,7 +148,6 @@
 - [Arrêté du 27 décembre 1984](arrete-du-27-decembre-1984)
 - [Arrêté du 27 juin 1985](arrete-du-27-juin-1985)
 - [Arrêté du 27 mars 1985](arrete-du-27-mars-1985)
-- [Arrêté du 27 septembre 1985](arrete-du-27-septembre-1985)
 - [Arrêté du 28 août 1985](arrete-du-28-aout-1985)
 - [Arrêté du 28 décembre 1984](arrete-du-28-decembre-1984)
 - [Arrêté du 28 décembre 1985](arrete-du-28-decembre-1985)

@@ -804,7 +804,6 @@
 - [Arrêté du 22 janvier 1996 (EQUB9600143A)](arrete-du-22-janvier-1996-equb9600143a)
 - [Arrêté du 22 janvier 1996 (EQUF9600128A)](arrete-du-22-janvier-1996-equf9600128a)
 - [Arrêté du 22 janvier 1996 (MCCB9600069A)](arrete-du-22-janvier-1996-mccb9600069a)
-- [Arrêté du 22 janvier 1996 (TASP9620677A)](arrete-du-22-janvier-1996-tasp9620677a)
 - [Arrêté du 22 juillet 1996 (DEFC9601727A)](arrete-du-22-juillet-1996-defc9601727a)
 - [Arrêté du 22 juillet 1996 (ECOB9660041A)](arrete-du-22-juillet-1996-ecob9660041a)
 - [Arrêté du 22 juillet 1996 (INDD9600540A)](arrete-du-22-juillet-1996-indd9600540a)
