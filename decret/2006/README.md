@@ -49,6 +49,8 @@
 - [Décret n°2006-1301 du 23 octobre 2006 (MCCB0600710D)](decret-n2006-1301-du-23-octobre-2006-mccb0600710d)
 - [Décret n°2006-1302 du 23 octobre 2006 (MCCB0600711D)](decret-n2006-1302-du-23-octobre-2006-mccb0600711d)
 - [Décret n°2006-1299 du 24 octobre 2006 (JUSC0620751D)](decret-n2006-1299-du-24-octobre-2006-jusc0620751d)
+- [Décret n°2006-1305 du 24 octobre 2006 (SANA0624018D)](decret-n2006-1305-du-24-octobre-2006-sana0624018d)
+- [Décret n°2006-1304 du 25 octobre 2006 (EQUA0601772D)](decret-n2006-1304-du-25-octobre-2006-equa0601772d)
 - [Décret n°92-835 du 27 août 1992 (MENB9200267D)](decret-n92-835-du-27-aout-1992-menb9200267d)
 - [Décret n°2006-369 du 28 mars 2006 (EQUT0600796D)](decret-n2006-369-du-28-mars-2006-equt0600796d)
 - [Décret n°2001-777 du 30 août 2001 (INTA0100224D)](decret-n2001-777-du-30-aout-2001-inta0100224d)
