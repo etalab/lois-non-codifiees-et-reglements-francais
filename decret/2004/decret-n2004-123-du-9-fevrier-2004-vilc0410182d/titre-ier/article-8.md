@@ -2,7 +2,7 @@
 
 Il est institué au sein de l'agence un comité d'engagement chargé d'examiner les projets de rénovation urbaine présentés en vue de la conclusion de conventions pluriannuelles et de préparer, par ses avis, les décisions du conseil d'administration sur ces conventions.
 
-Il est présidé par le directeur général de l'agence et composé des membres du conseil d'administration, titulaires ou suppléants, suivants :
+Il est présidé par le directeur général de l'agence ou son représentant et composé des membres du conseil d'administration, titulaires ou suppléants, suivants :
 
 - trois représentants du ministre chargé de la politique de la ville ;
 
@@ -14,7 +14,7 @@ Il est présidé par le directeur général de l'agence et composé des membres 
 
 - un représentant de la Caisse des dépôts et consignations.
 
-Ces membres sont désignés par le ministre ou l'organisme qu'ils représentent.
+Ces membres sont désignés par le ministre ou l'organisme qu'ils représentent. Ils peuvent se faire remplacer. Toutefois, le comité ne peut valablement se prononcer sur les projets qui lui sont soumis que si les membres titulaires ou suppléants du conseil d'administration constituent la moitié des membres présents.
 
 Le membre du corps du contrôle général économique et financier et l'agent comptable assistent aux séances avec voix consultative, ainsi que, pour l'examen des projets qui les concernent, le représentant du ministre de l'outre-mer au conseil d'administration de l'agence, le directeur général de la Caisse de garantie du logement locatif social, le directeur général de l'Agence nationale de l'habitat, le directeur général de l'Etablissement public d'aménagement et de restructuration des espaces commerciaux et artisanaux ou leurs représentants.
 

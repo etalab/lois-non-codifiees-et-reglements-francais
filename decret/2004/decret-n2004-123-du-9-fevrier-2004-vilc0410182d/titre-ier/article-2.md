@@ -1,8 +1,8 @@
 # Article 2
 
-L'Agence nationale pour la rénovation urbaine est administrée par un conseil de vingt-quatre membres qui comprend :
+L'Agence nationale pour la rénovation urbaine est administrée par un conseil de vingt-huit membres qui comprend :
 
-1° Douze représentants de l'Etat :
+1° Quatorze représentants de l'Etat :
 
 - quatre représentants du ministre chargé de la politique de la ville ;
 
@@ -16,7 +16,11 @@ L'Agence nationale pour la rénovation urbaine est administrée par un conseil d
 
 - un représentant du ministre chargé du développement durable ;
 
-- un représentant du ministre chargé de l'outre-mer.
+- un représentant du ministre chargé de l'outre-mer ;
+
+- un représentant du ministre chargé de l'urbanisme ;
+
+- un représentant du ministre chargé de l'éducation nationale.
 
 2° Quatre représentants des collectivités locales et de leurs groupements :
 
@@ -28,7 +32,7 @@ L'Agence nationale pour la rénovation urbaine est administrée par un conseil d
 
 - un représentant des présidents de conseils régionaux désigné par l'Association des régions de France.
 
-3° Cinq représentants d'organismes intervenant dans la politique du logement social :
+3° Six représentants d'organismes intervenant dans la politique du logement social :
 
 - un représentant de l'Union nationale des fédérations d'organismes d'habitations à loyer modéré ;
 
@@ -36,9 +40,11 @@ L'Agence nationale pour la rénovation urbaine est administrée par un conseil d
 
 - un représentant de la Caisse des dépôts et consignations ;
 
-- un représentant de l'Agence nationale de l'habitat.
+- un représentant de l'Agence nationale de l'habitat ;
 
-4° Trois personnalités qualifiées en matière de politique de la ville, qui peuvent être des parlementaires :
+- un représentant de la fédération des sociétés d'économie mixte.
+
+4° Quatre personnalités qualifiées en matière de politique de la ville, qui peuvent être des parlementaires :
 
 Les membres du conseil d'administration ainsi qu'un nombre égal de suppléants sont nommés pour une durée de cinq ans, renouvelable une fois, par arrêté du ministre qu'ils représentent en ce qui concerne les représentants de l'Etat et par arrêté du ministre chargé de la politique de la ville pour les autres membres.
 
