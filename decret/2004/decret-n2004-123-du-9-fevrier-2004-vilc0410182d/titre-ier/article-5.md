@@ -14,7 +14,7 @@ Le conseil d'administration règle par ses délibérations les affaires de l'ét
 
 6° Il établit le règlement général de l'agence, arrête son règlement intérieur ainsi que celui du comité d'engagement.
 
-7° Il approuve les conventions pluriannuelles mentionnées au premier alinéa de l'article 10 de la loi du 1er août 2003 susvisée, après avoir recueilli l'avis du comité d'engagement.
+7° Il approuve les conventions pluriannuelles mentionnées au deuxième alinéa de l'article 10 de la loi du 1er août 2003 susvisée après avoir recueilli l'avis du comité d'engagement, ainsi que les conventions types de délégation de gestion des concours financiers octroyés au titre de ces conventions.
 
 8° Il se prononce sur les demandes de missions de maîtrise d'ouvrage faites à l'agence et approuve les conventions qui en résultent.
 
