@@ -17,3 +17,5 @@ Ministère de la culture et de la communication.
 Cour des comptes.
 
 Ministère des affaires étrangères.
+
+Ministère des transports, de l'équipement, du tourisme et de la mer.
