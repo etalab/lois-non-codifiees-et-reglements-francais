@@ -497,7 +497,6 @@
 - [Arrêté du 16 décembre 2004 (EQUT0401653A)](arrete-du-16-decembre-2004-equt0401653a)
 - [Arrêté du 16 décembre 2004 (MENE0402748A)](arrete-du-16-decembre-2004-mene0402748a)
 - [Arrêté du 16 décembre 2004 (SANS0424250A)](arrete-du-16-decembre-2004-sans0424250a)
-- [Arrêté du 16 février 2004 (DEFC0400169A)](arrete-du-16-fevrier-2004-defc0400169a)
 - [Arrêté du 16 février 2004 (MENE0400260A)](arrete-du-16-fevrier-2004-mene0400260a)
 - [Arrêté du 16 février 2004 (MENE0400284A)](arrete-du-16-fevrier-2004-mene0400284a)
 - [Arrêté du 16 février 2004 (MENE0400286A)](arrete-du-16-fevrier-2004-mene0400286a)
