@@ -7,4 +7,5 @@
 - [TITRE V : DISPOSITIONS RELATIVES AUX ORGANISMES AGREES.](titre-v)
 - [TITRE VI : DEROGATIONS.](titre-vi)
 - [TITRE VII : DISPOSITIONS DIVERSES.](titre-vii)
+- [TITRE VIII - CONTROLES.](titre-viii)
 - [Article Annexe](article-annexe.md)
