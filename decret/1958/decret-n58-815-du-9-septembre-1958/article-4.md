@@ -1,6 +1,6 @@
 # Article 4
 
-Le président du conseil d'administration est élu par le conseil d'administration ; sa nomination est approuvée par arrêté conjoint du ministre de la construction, du ministre de l'intérieur et du ministre des finances et des affaires économiques.
+Le président du conseil d'administration est élu par le conseil d'administration.
 
 Le président est élu pour la durée de son mandat d'administrateur. Il est rééligible.
 
