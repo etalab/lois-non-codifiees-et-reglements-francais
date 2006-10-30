@@ -8,6 +8,7 @@
 - [Décret n°2006-1247 du 11 octobre 2006 (MCCB0600611D)](decret-n2006-1247-du-11-octobre-2006-mccb0600611d)
 - [Décret n°2006-1261 du 11 octobre 2006 (PRMX0600143D)](decret-n2006-1261-du-11-octobre-2006-prmx0600143d)
 - [Décret n°2006-1248 du 12 octobre 2006 (MCCX0600114D)](decret-n2006-1248-du-12-octobre-2006-mccx0600114d)
+- [Décret n°2006-447 du 12 avril 2006 (INDI0607224D)](decret-n2006-447-du-12-avril-2006-indi0607224d)
 - [Décret n°2006-1259 du 13 octobre 2006 (DEFP0601183D)](decret-n2006-1259-du-13-octobre-2006-defp0601183d)
 - [Décret du 14 octobre 2006 (ECOC0600101D)](decret-du-14-octobre-2006-ecoc0600101d)
 - [Décret n°2006-1258 du 14 octobre 2006 (INTD0600214D)](decret-n2006-1258-du-14-octobre-2006-intd0600214d)

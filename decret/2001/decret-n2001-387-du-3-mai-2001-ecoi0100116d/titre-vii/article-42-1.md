@@ -1,0 +1,3 @@
+# Article 42-1
+
+Dans le cadre des pouvoirs qui leur sont conférés par les chapitres II à VI du titre Ier du livre II du code de la consommation et dans les lieux mentionnés au premier alinéa de l'article L. 215-3 du même code, les agents de la sous-direction chargée de la métrologie du ministère chargé de l'industrie et les agents des directions régionales de l'industrie, de la recherche et de l'environnement peuvent procéder à des prélèvements d'échantillons des instruments énumérés à l'article 1er auprès des fabricants ou de leurs mandataires, importateurs ou revendeurs. Après contrôles, essais et épreuves, ces échantillons sont restitués à leur propriétaire.
