@@ -1,4 +1,4 @@
-# Article ANNEXE
+# Article Annexe
 
 (Art. 1er, premier alinéa, du décret n° 2001-387 du 3 mai 2001
 
@@ -10,25 +10,23 @@ Instruments de pesage à fonctionnement non automatique.
 
 Instruments de pesage à fonctionnement automatique.
 
-Compteurs d'eau froide.
+Compteurs d'eau froide propre.
 
-Compteurs d'eau chaude.
+Compteurs d'eau chaude propre.
 
 Ensembles de mesurage de liquides autres que l'eau.
 
 Voludéprimomètres pour mesurage des volumes de gaz.
 
-Compteurs de volume de gaz.
+Compteurs de quantité de gaz combustible ou de gaz pur.
 
-Ensembles de conversion de volume de gaz.
+Ensembles de conversion de volume de gaz combustible ou de gaz pur.
 
 Compteurs d'énergie électrique.
 
 Compteurs d'énergie thermique.
 
 Appareils permettant de déterminer les quantités de chaleur fournies pour le chauffage des locaux.
-
-Instruments équipant les installations thermiques en vue de réduire la pollution atmosphérique et d'économiser l'énergie.
 
 Mesures matérialisées de capacité pour liquides.
 
@@ -46,7 +44,7 @@ Jaugeurs.
 
 Alcoomètres, aréomètres pour alcool et tables alcoométriques.
 
-Saccharimètres automatiques pour la réception des betteraves livrées aux sucreries et aux distilleries.
+Saccharimètres automatiques pour la réception des betteraves livrées aux sucreries et aux distilleries et balances proportionneuses.
 
 Réfractomètres utilisés pour mesurer la teneur en sucre des moûts de raisin naturels.
 
@@ -54,7 +52,7 @@ Ethylomètres.
 
 Mesures matérialisées de longueur.
 
-Instruments mesureurs de longueur.
+Odomètres.
 
 Machines planimétriques.
 
@@ -77,3 +75,5 @@ Ensembles de mesurage de masse de gaz.
 Thermomètres utilisés par les agents de l'Etat pour le contrôle de la température des denrées périssables ou à l'occasion d'expertises portant sur les mêmes denrées.
 
 Instruments de mesure de la distance entre véhicules ou ensembles de véhicules.
+
+Instruments de mesure multidimensionnelle.
