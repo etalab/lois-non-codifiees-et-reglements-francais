@@ -8,7 +8,66 @@ A. - Exigences essentielles de sécurité en matière de conception et de constr
 
 1. Catégorie de conception :
 
-(Tableau non reproduit).
+<div>
+<table>
+<tbody>
+<tr>
+<td align="center"> CATEGORIE DE CONCEPTION  <br/>
+</td>
+<td align="center">
+<p>FORCE DU VENT </p>
+<p>(échelle de Beaufort) </p>
+</td>
+<td align="center">
+<p> HAUTEUR SIGNIFICATIVE DE VAGUE </p>
+<p>à considérer (H 1/3, en mètres) </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Bateaux conçus pour la navigation :    </p>
+</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>
+<p>A. "En haute mer". </p>
+</td>
+<td>Plus de 8. <br/>
+</td>
+<td>Plus de 4. <br/>
+</td>
+</tr>
+<tr>
+<td>
+<p>B. "Au large". </p>
+</td>
+<td>Jusqu'à 8 compris. <br/>
+</td>
+<td>Jusqu'à 4 compris.  <br/>
+</td>
+</tr>
+<tr>
+<td>
+<p>C. "A proximité de la côte". </p>
+</td>
+<td>Jusqu'à 6 compris.  <br/>
+</td>
+<td>Jusqu'à 2 compris.  <br/>
+</td>
+</tr>
+<tr>
+<td>
+<p>D. "En eaux protégées".</p>
+</td>
+<td>Jusqu'à 4 compris. </td>
+<td>Jusqu'à 0,3 compris.  <br/>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
 
 Définitions :
 
@@ -108,7 +167,7 @@ Une attention particulière doit être accordée :
 
 La charge maximale, recommandée par le constructeur et exprimée en kilogrammes, est déterminée selon la catégorie de conception mentionnée au point 1, la stabilité et le francs bord mentionnés au point 3.2 et la flottabilité mentionnée au point 3.3 de la présente annexe.
 
-Cette charge tient compte des personnes, du carburant, de l'eau, des provisions et des équipements divers et est indiquée sur la plaque du constructeur.
+Cette charge tient compte des personnes, du carburant, de l'eau, des provisions et des équipements divers.
 
 3.7. Emplacement du radeau de sauvetage.
 
@@ -260,7 +319,96 @@ Les moteurs de propulsion doivent répondre aux exigences essentielles suivantes
 
 Les moteurs de propulsion doivent être conçus, construits et montés de telle manière que, lors d'une installation correcte et d'une utilisation normale, les émissions ne dépassent pas les valeurs limites obtenues à partir du tableau suivant :
 
-Tableau 1 : non reproduit
+Tableau 1 :
+
+<table>
+<tbody>
+<tr>
+<td align="center" colspan="8"/>
+<td align="center"> (g\k Wh)<br/>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">TYPE <br/>
+</td>
+<td align="center" colspan="3">
+<p>MONOXYDE DE CARBONE </p>
+<p>CO = A + B/Pn </p>
+</td>
+<td align="center" colspan="3">
+<p> HYDROCARBURES </p>
+<p>HC= A + B/Pn</p>
+</td>
+<td align="center" rowspan="2">
+<p> OXYDES D'AZOTE </p>
+<p>NOx </p>
+</td>
+<td align="center" rowspan="2">
+<p>PARTICULES </p>
+<p>PT </p>
+</td>
+</tr>
+<tr>
+<td align="center">A <br/>
+</td>
+<td align="center">B <br/>
+</td>
+<td align="center">n <br/>
+</td>
+<td align="center">A <br/>
+</td>
+<td align="center"> B</td>
+<td align="center"> n</td>
+</tr>
+<tr>
+<td>Deux temps à explosion........... <br/>
+</td>
+<td align="center"> 150,0</td>
+<td align="center">600,0 <br/>
+</td>
+<td align="center">1,0 <br/>
+</td>
+<td align="center"> 30,0</td>
+<td align="center">100,0</td>
+<td align="center">0,75 <br/>
+</td>
+<td align="center">10,0 <br/>
+</td>
+<td align="center">Sans objet <br/>
+</td>
+</tr>
+<tr>
+<td>Quatre temps à explosion....... <br/>
+</td>
+<td align="center">150,0 <br/>
+</td>
+<td align="center">600,0 <br/>
+</td>
+<td align="center"> 1,0</td>
+<td align="center"> 6,0</td>
+<td align="center"> 50,0</td>
+<td align="center">0,75 <br/>
+</td>
+<td align="center">15,0 <br/>
+</td>
+<td align="center"> Sans objet </td>
+</tr>
+<tr>
+<td>Allumage par compression..... <br/>
+</td>
+<td align="center"> 5,0</td>
+<td align="center"> 0</td>
+<td align="center"> 0</td>
+<td align="center">1,5 <br/>
+</td>
+<td align="center">2,0 <br/>
+</td>
+<td align="center"> 0,5</td>
+<td align="center"> 9,8</td>
+<td align="center"> 1,0</td>
+</tr>
+</tbody>
+</table>
 
 Où A, B et n sont des constantes conformément au tableau, et Pn la puissance nominale du moteur en kW ; les émissions gazeuses sont mesurées conformément à la norme EN ISO 8178-1 : 1996.
 

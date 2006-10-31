@@ -12,9 +12,9 @@ c) Les éléments ou pièces d'équipement mentionnés à l'annexe II du présen
 
 2° En matière d'émissions gazeuses :
 
-a) Les moteurs de propulsion hors-bord ou internes qui sont installés ou sont spécialement conçus pour être installés sur des bateaux de plaisance et des véhicules nautiques à moteur ;
+a) Les moteurs de propulsion qui sont installés ou sont spécialement conçus pour être installés sur des bateaux de plaisance et des véhicules nautiques à moteur ;
 
-b) Les moteurs de propulsion hors-bord ou internes installés sur ces bateaux qui sont soumis à une modification importante ;
+b) Les moteurs de propulsion installés sur ces bateaux qui sont soumis à une modification importante ;
 
 3° En matière d'émissions sonores :
 
