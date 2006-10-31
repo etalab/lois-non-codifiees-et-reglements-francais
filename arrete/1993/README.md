@@ -801,7 +801,6 @@
 - [Arrêté du 24 septembre 1993 (ECOC9300155A)](arrete-du-24-septembre-1993-ecoc9300155a)
 - [Arrêté du 24 septembre 1993 (ECOU9300022A)](arrete-du-24-septembre-1993-ecou9300022a)
 - [Arrêté du 24 septembre 1993 (ECOZ9300013A)](arrete-du-24-septembre-1993-ecoz9300013a)
-- [Arrêté du 24 septembre 1993 (SPSH9302938A)](arrete-du-24-septembre-1993-spsh9302938a)
 - [Arrêté du 24 septembre 1993 (SPSS9302914A)](arrete-du-24-septembre-1993-spss9302914a)
 - [Arrêté du 24 mai 1993 (JUSF9350019A)](arrete-du-24-mai-1993-jusf9350019a)
 - [Arrêté du 24 mai 1993 (JUSF9350029A)](arrete-du-24-mai-1993-jusf9350029a)
