@@ -4,7 +4,7 @@ L'assemblée générale des magistrats du siège de la cour d'appel dresse la li
 
 Lorsque la cour comporte plus de trois chambres, l'assemblée générale peut se tenir en commission restreinte telle que prévue à l'article R. 761-46 du code de l'organisation judiciaire.
 
-Lorsque la cour comporte plus de cinq chambres, l'assemblée générale peut se réunir en une formation restreinte où sont représentées toutes les chambres de la cour.
+Lorsque la cour comporte plus de cinq chambres, l'assemblée générale peut se réunir en une formation restreinte où sont représentées soit toutes les chambres si elle en comporte six soit, si elle en compte davantage, six de ses chambres dont, dans ce cas, quatre statuant respectivement en matière civile, commerciale, sociale et pénale. L'assemblée générale des magistrats du siège désigne chaque année les magistrats qui composent cette formation. La formation restreinte est présidée par le premier président ou son délégué.
 
 Les tribunaux de grande instance, les tribunaux de commerce et les conseils de prud'hommes du ressort de la cour d'appel sont représentés à l'assemblée générale, même si celle-ci siège en commission restreinte ou en formation restreinte, par un de leurs membres qui participe avec voix consultative à l'examen des demandes. Toutefois, le premier président peut dispenser certaines juridictions de se faire représenter, pourvu qu'un membre au moins de chacune des catégories de juridiction siège à l'assemblée générale.
 
