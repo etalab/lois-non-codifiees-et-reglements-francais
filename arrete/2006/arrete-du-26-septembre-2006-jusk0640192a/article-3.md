@@ -1,0 +1,3 @@
+# Article 3
+
+Le contenu et la durée de la formation, qui ne peut être inférieure à huit semaines, sont adaptés au profil professionnel du fonctionnaire et à la catégorie d'établissement ou de service dirigé. Les objectifs de la formation dans sa partie individualisée sont déterminés par l'analyse des besoins en formation effectuée préalablement avec le fonctionnaire nouvellement nommé. Elle comprend des enseignements dispensés à l'Ecole nationale d'administration pénitentiaire et des stages, notamment dans les services de l'administration pénitentiaire ou dans des juridictions de l'ordre judiciaire ou dans des administrations publiques ou autres personnes morales associées au service public et institutions européennes.

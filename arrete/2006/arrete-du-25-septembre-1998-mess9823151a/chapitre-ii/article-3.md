@@ -22,7 +22,7 @@ c) Pour le régime de sécurité sociale dans les mines :
 
 - directeur de la Caisse autonome nationale de la sécurité sociale dans les mines (CANSSM) ;
 
-- directeur de société de secours minière (SSM) hors classe ;
+- directeur de caisse régionale de la sécurité sociale dans les mines (CARMI) des catégories A et B ;
 
 2° Classe D 2 :
 
@@ -40,9 +40,7 @@ b) Pour les régimes des travailleurs non salariés :
 
 c) Pour le régime de sécurité sociale dans les mines :
 
-- directeur d'union régionale (UR) de classe exceptionnelle et de 1re classe ;
-
-- directeur de SSM de classe exceptionnelle et de 1re classe ;
+- directeur de caisse régionale de la sécurité sociale dans les mines (CARMI) de catégorie C ;
 
 d)Pour la caisse d'assurance vieillesse, invalidité et maladie des cultes (CAVIMAC) :
 
@@ -56,15 +54,15 @@ a) Pour le régime général :
 
 b) Pour les régimes des travailleurs non salariés :
 
-- directeur de mission de caisse nationale (CANAM) ;
+directeur de mission de caisse nationale (CANAM) ;
 
-- directeur de caisse des catégorie B et C (CMR) ;
+directeur de caisse des catégories B et C (CMR) ;
 
-- directeur de caisse des 2e et 3e catégories (ORGANIC, AVA) ;    c) Pour le régime de sécurité sociale dans les mines :
+- directeur de caisse des 2e et 3e catégories (ORGANIC, AVA) ;
 
-- directeur d'UR des 2e et 3e classes ;
+c) Pour le régime de sécurité sociale dans les mines :
 
-- directeur de SSM des 2e et 3e classes ;
+- directeur de caisse régionale de la sécurité sociale dans les mines (CARMI) de catégorie D ;
 
 4° Classe AD 1 :
 
@@ -84,13 +82,13 @@ b) pour les régimes des travailleurs non salariés :
 
 c) Pour le régime de sécurité sociale dans les mines :
 
-- agent comptable de la CANSSM ;
+- agent comptable de la Caisse autonome nationale de la sécurité sociale dans les mines (CANSSM) ;
 
-- agent comptable de SSM hors classe ;
+- agent comptable de caisse régionale de la sécurité sociale dans les mines (CARMI) des catégories A et B ;
 
-- directeur adjoint de la CANSSM ;
+- directeur adjoint de la Caisse autonome nationale de la sécurité sociale dans les mines (CANSSM) ;
 
-- directeur adjoint de SSM hors classe ;
+- directeur adjoint de caisse régionale de la sécurité sociale dans les mines (CARMI) des catégories A et B ;
 
 5° Classe AD 2 :
 
@@ -112,7 +110,9 @@ b) Pour les régimes des travailleurs non salariés :
 
 - directeur adjoint de caisse de catégorie exceptionnelle et de 1re catégorie (ORGANIC, AVA) et directeur adjoint de caisse de catégorie A (CMR) ;
 
-- sous-directeur de 1re classe de caisse nationale (ORGANIC, CANCAVA) et sous-directeur niveau 2 de la caisse nationale CANAM ;
+- sous-directeur de 1re classe de caisse nationale (ORGANIC, CANCAVA et CANAM) et de caisse de catégorie exceptionnelle (ORGANIC et AVA) ;
+
+sous-directeur de 1re classe de caisse nationale (ORGANIC, CANCAVA) et sous-directeur niveau 2 de la caisse nationale CANAM ;
 
 - sous-directeur de 1re classe de caisse de catégorie exceptionnelle (ORGANIC, AVA) et sous-directeur niveau 2 de caisse de catégorie A (CMR) ;
 
@@ -120,17 +120,13 @@ b) Pour les régimes des travailleurs non salariés :
 
 c) Pour le régime de sécurité sociale dans les mines :
 
-- agent comptable d'UR de classe exceptionnelle et de 1re classe ;
+- agent comptable de caisse régionale de la sécurité sociale dans les mines (CARMI) de catégorie C ;
 
-- agent comptable de SSM de classe exceptionnelle et de 1re classe ;
+- directeur adjoint de caisse régionale de la sécurité sociale dans les mines (CARMI) de catégorie C ;
 
-- directeur adjoint d'UR de classe exceptionnelle et de 1re classe ;
+- sous-directeur de la Caisse autonome nationale de la sécurité sociale dans les mines (CANSSM) ;
 
-- directeur adjoint de SSM de classe exceptionnelle et de 1re classe ;
-
-- sous-directeur de la CANSSM ;
-
-- sous-directeur de SSM hors classe ;
+- sous-directeur de niveau 1 de caisse régionale de la sécurité sociale dans les mines (CARMI) des catégories A et B ;
 
 d)Pour la caisse d'assurance vieillesse, invalidité et maladie des cultes (CAVIMAC) :
 
@@ -162,7 +158,7 @@ b) Pour les régimes des travailleurs non salariés :
 
 - sous-directeur de 2e classe de caisse nationale (ORGANIC, CANCAVA) et sous-directeur niveau 1 de la caisse nationale CANAM ;
 
-- sous-directeur de 2e classe de caisse de catégorie exceptionnelle (ORGANIC, AVA) et sous-directeur niveau 1 de caisse des catégories A,B et C (CMR) ;
+sous-directeur de 2e classe de caisse de catégorie exceptionnelle (ORGANIC, AVA) et sous-directeur niveau 1 de caisse des catégories A,B et C (CMR) ;
 
 - sous-directeur de caisse des 1re, 2e et 3e catégories (ORGANIC, AVA) ;
 
@@ -170,23 +166,15 @@ b) Pour les régimes des travailleurs non salariés :
 
 c) Pour le régime de sécurité sociale dans les mines :
 
-- agent comptable d'UR des 2e et 3e classes ;
+- agent comptable de caisse régionale de la sécurité sociale dans les mines (CARMI) de catégorie D ;
 
-- agent comptable de SSM des 2e et 3e classes ;
+- agent comptable adjoint de caisse régionale de la sécurité sociale dans les mines (CARMI) des catégories A et B ;
 
-- agent comptable adjoint d'UR de classe exceptionnelle et de 1re classe ;
+- directeur adjoint de caisse régionale de la sécurité sociale dans les mines (CARMI) de catégorie D ;
 
-- agent comptable adjoint de SSM hors classe et de classe exceptionnelle ;
+- sous-directeur de niveau 2 de caisse régionale de la sécurité sociale dans les mines (CARMI) des catégories A et B ;
 
-- directeur adjoint d'UR des 2e et 3e classes ;
-
-- directeur adjoint de SSM de 1re classe ;
-
-- sous-directeur d'UR de classe exceptionnelle et de 1re classe ;
-
-- sous-directeur de SSM hors classe et de classe exceptionnelle ;
-
-- sous-directeur de SSM de 2e classe ;
+- sous-directeur de caisse régionale de la sécurité sociale dans les mines (CARMI) de catégorie C.
 
 d)Pour la caisse d'assurance vieillesse, invalidité et maladie des cultes (CAVIMAC° :
 

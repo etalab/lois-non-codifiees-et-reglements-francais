@@ -10,4 +10,4 @@ L'autorité investie du pouvoir de nomination fait un appel de candidatures. Ces
 
 - contenu du dossier individuel du fonctionnaire, et notamment des appréciations littérales et notations pendant les cinq dernières années ;
 
-- capacités de rédaction, de mémorisation ; ces capacités sont appréciées par un formateur extérieur à l'univers hospitalier (Greta, autre ...) et qui a connaissance du contenu de la formation préparant au certificat d'aptitude aux fonctions d'aide-soignant.
+- capacités de rédaction, de mémorisation ; ces capacités sont appréciées par un formateur extérieur à l'univers hospitalier (Greta, autre ...) et qui a connaissance du contenu de la formation préparant au diplôme professionnel d'aide-soignant.
