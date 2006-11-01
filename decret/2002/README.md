@@ -156,6 +156,7 @@
 - [Décret n°2001-1346 du 28 décembre 2001 (MESH0124300D)](decret-n2001-1346-du-28-decembre-2001-mesh0124300d)
 - [Décret n°2001-1355 du 28 décembre 2001 (JUSG0160093D)](decret-n2001-1355-du-28-decembre-2001-jusg0160093d)
 - [Décret n°2001-1368 du 28 décembre 2001 (MJSK0170197D)](decret-n2001-1368-du-28-decembre-2001-mjsk0170197d)
+- [Décret n°2002-1308 du 28 octobre 2002 (INTC0200245D)](decret-n2002-1308-du-28-octobre-2002-intc0200245d)
 - [Décret n°2002-295 du 28 février 2002 (MENX0200016D)](decret-n2002-295-du-28-fevrier-2002-menx0200016d)
 - [Décret n°2002-1327 du 29 octobre 2002 (MCCB0200497D)](decret-n2002-1327-du-29-octobre-2002-mccb0200497d)
 - [Décret n°2002-423 du 29 mars 2002 (MESS0220838D)](decret-n2002-423-du-29-mars-2002-mess0220838d)
