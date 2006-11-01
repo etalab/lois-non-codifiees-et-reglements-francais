@@ -1,17 +1,11 @@
 # Article 2
 
-Le classement indiciaire applicable au corps des adjoints des cadres hospitaliers et au corps des secrétaires médicaux est fixé comme suit :
+Le classement applicable au corps des adjoints des cadres hospitaliers et au corps des secrétaires médicaux est fixé comme suit :
 
 Indices bruts :
 
-Classe normale (grade provisoire) : 298, 474 ;
+Classe normale : 306-544 ;
 
-Classe normale, à compter du 1er août 1996 : 298, 544 ;
+Classe supérieure : 399-579 ;
 
-Classe supérieure (grade provisoire) : 418, 533 ;
-
-Classe supérieure, à compter du 1er août 1996 : 384, 579 ;
-
-Classe exceptionnelle (grade provisoire) : 384, 579 ;
-
-Classe exceptionnelle, à compter du 1er août 1994 : 425, 612.
+Classe exceptionnelle : 425-612.

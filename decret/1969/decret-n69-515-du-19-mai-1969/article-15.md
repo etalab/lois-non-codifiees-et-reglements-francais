@@ -40,7 +40,7 @@ III - Les membres ayant voix délibérative sont nommés pour trois ans par le p
 
 Lorsqu'un membre décède, démissionne ou perd la qualité pour laquelle il était désigné, il est remplacé, pour la durée du mandat restant à courir, par un membre désigné dans les mêmes conditions.
 
-Le mandat de membre de l'assemblée commerciale est renouvelable. Ces fonctions sont gratuites. Toutefois, les membres de la commission peuvent être remboursés de leurs frais de transport et de séjour dans les conditions fixées pour les déplacements temporaires par les décrets des 12 avril 1989 et 28 mai 1990 susvisés.
+Le mandat de membre de l'assemblée commerciale est renouvelable. Ces fonctions sont gratuites. Toutefois, les membres de la commission peuvent être remboursés de leurs frais de transport et de séjour dans les conditions fixées pour les déplacements temporaires par le décret n° 2006-781 du 3 juillet 2006.
 
 Le président de l'assemblée commerciale est élu, pour la durée du mandat, parmi les membres avec voix délibérative, à la majorité des deux tiers des membres composant l'assemblée, lors de la première séance, laquelle est mise en place par le préfet de région ou son représentant.
 

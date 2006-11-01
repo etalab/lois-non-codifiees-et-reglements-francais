@@ -4,6 +4,7 @@
 - [Décret n°2005-900 du 2 août 2005 (SANH0522858D)](decret-n2005-900-du-2-aout-2005-sanh0522858d)
 - [Décret n°2005-904 du 2 août 2005 (INTX0500219D)](decret-n2005-904-du-2-aout-2005-intx0500219d)
 - [Décret n°2005-916 du 2 août 2005 (SOCF0511424D)](decret-n2005-916-du-2-aout-2005-socf0511424d)
+- [Décret n°2005-942 du 2 août 2005 (DEFP0500906D)](decret-n2005-942-du-2-aout-2005-defp0500906d)
 - [Décret n°96-292 du 2 avril 1996 (JUSC9620100D)](decret-n96-292-du-2-avril-1996-jusc9620100d)
 - [Décret n°99-555 du 2 juillet 1999 (AGRA9900465D)](decret-n99-555-du-2-juillet-1999-agra9900465d)
 - [Décret du 3 février 1993 (PTTR9200690D)](decret-du-3-fevrier-1993-pttr9200690d)

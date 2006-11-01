@@ -1,0 +1,3 @@
+# Article 6
+
+Sous réserve des dispositions de l'article 5, dans le cas d'une réussite à un concours ouvrant l'accès à un statut particulier de la fonction publique de l'Etat ne prévoyant pas d'engagement de servir l'Etat, les années accomplies ultérieurement dans le nouveau corps sont prises en compte dans le calcul des années restant à accomplir au titre de l'engagement de servir l'Etat mentionné à l'article 9 du décret du 21 septembre 1993 susvisé, à l'article 9 du décret du 29 juillet 1998 susvisé, à l'article 7 du décret du 6 mai 2005 susvisé ou aux articles 6 ou 25 du décret du 14 avril 2006 susvisé.

@@ -108,4 +108,6 @@ Institut de formation d'ingénieurs, Paris-XI ;
 
 Ecole polytechnique universitaire de Savoie, Chambéry ;
 
-Ecole nationale supérieure d'ingénieurs sud Alsace, Mulhouse.
+Ecole nationale supérieure d'ingénieurs sud Alsace, Mulhouse ;
+
+Ecole nationale supérieure de chimie de Mulhouse, Mulhouse.

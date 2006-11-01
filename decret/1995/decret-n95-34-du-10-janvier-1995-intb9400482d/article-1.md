@@ -2,7 +2,7 @@
 
 L'échelonnement indiciaire applicable au cadre d'emplois des assistants territoriaux de conservation du patrimoine et des bibliothèques est fixé ainsi qu'il suit :
 
-Assistant de conservation hors classe :
+3e grade :
 
 7e échelon
 
@@ -32,7 +32,7 @@ Indice brut : 453
 
 Indice brut : 425
 
-Assistant de conservation de 1re classe :
+2e grade :
 
 8e échelon
 
@@ -60,13 +60,13 @@ Indice brut : 436
 
 2e échelon
 
-Indice brut : 410
+Indice brut : 416
 
 1er échelon
 
-Indice brut : 384
+Indice brut : 399
 
-Assistant de conservation de 2e classe :
+1er grade :
 
 13e échelon
 
@@ -86,36 +86,36 @@ Indice brut : 450
 
 9e échelon
 
-Indice brut : 426
+Indice brut : 436
 
 8e échelon
 
-Indice brut : 397
+Indice brut : 416
 
 7e échelon
 
-Indice brut : 380
+Indice brut : 398
 
 6e échelon
 
-Indice brut : 362
+Indice brut : 382
 
 5e échelon
 
-Indice brut : 347
+Indice brut : 366
 
 4e échelon
 
-Indice brut : 336
+Indice brut : 347
 
 3e échelon
 
-Indice brut : 321
+Indice brut : 337
 
 2e échelon
 
-Indice brut : 309
+Indice brut : 315
 
 1er échelon
 
-Indice brut : 298
+Indice brut : 306

@@ -2,120 +2,254 @@
 
 L'échelonnement indiciaire applicable au cadre d'emplois des rédacteurs territoriaux est fixé ainsi qu'il suit :
 
-Rédacteur-chef :
-
-7e échelon
-
-Indice brut : 612
-
-6e échelon
-
-Indice brut : 580
-
-5e échelon
-
-Indice brut : 549
-
-4e échelon
-
-Indice brut : 518
-
-3e échelon
-
-Indice brut : 487
-
-2e échelon
-
-Indice brut : 453
-
-1er échelon
-
-Indice brut : 425
-
-Rédacteur principal :
-
-8e échelon
-
-Indice brut : 579
-
-7e échelon
-
-Indice brut : 547
-
-6e échelon
-
-Indice brut : 516
-
-5e échelon
-
-Indice brut : 485
-
-4e échelon
-
-Indice brut : 463
-
-3e échelon
-
-Indice brut : 436
-
-2e échelon
-
-Indice brut : 410
-
-1er échelon
-
-Indice brut : 384
-
-Rédacteur :
-
-13e échelon
-
-Indice brut : 544
-
-12e échelon
-
-Indice brut : 510
-
-11e échelon
-
-Indice brut : 483
-
-10e échelon
-
-Indice brut : 450
-
-9e échelon
-
-Indice brut : 426
-
-8e échelon
-
-Indice brut : 397
-
-7e échelon
-
-Indice brut : 380
-
-6e échelon
-
-Indice brut : 362
-
-5e échelon
-
-Indice brut : 347
-
-4e échelon
-
-Indice brut : 336
-
-3e échelon
-
-Indice brut : 321
-
-2e échelon
-
-Indice brut : 309
-
-1er échelon
-
-Indice brut : 298
+<table>
+<tbody>
+<tr>
+<td width="191">
+<p align="center">GRADES ET ECHELONS</p>
+</td>
+<td width="187">
+<p align="center">INDICES BRUTS</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" width="378">
+<p align="center">3<sup>e</sup> grade</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="191">
+<p>7<sup>e</sup> échelon </p>
+</td>
+<td width="187">
+<p align="center">612</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="191">
+<p>6<sup>e</sup> échelon </p>
+</td>
+<td width="187">
+<p align="center">580</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="191">
+<p>5<sup>e</sup> échelon </p>
+</td>
+<td width="187">
+<p align="center">549</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="191">
+<p>4<sup>e</sup> échelon </p>
+</td>
+<td width="187">
+<p align="center">518</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="191">
+<p>3<sup>e</sup> échelon </p>
+</td>
+<td width="187">
+<p align="center">487</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="191">
+<p>2<sup>e</sup> échelon </p>
+</td>
+<td width="187">
+<p align="center">453</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="191">
+<p>1<sup>er</sup> échelon </p>
+</td>
+<td width="187">
+<p align="center">425</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" width="378">
+<p align="center">2<sup>e</sup> grade :</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="191">
+<p>8<sup>e</sup> échelon </p>
+</td>
+<td width="187">
+<p align="center">579</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="191">
+<p>7<sup>e</sup> échelon </p>
+</td>
+<td width="187">
+<p align="center">547</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="191">
+<p>6<sup>e</sup> échelon </p>
+</td>
+<td width="187">
+<p align="center">516</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="191">
+<p>5<sup>e</sup> échelon </p>
+</td>
+<td width="187">
+<p align="center">485</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="191">
+<p>4<sup>e</sup> échelon </p>
+</td>
+<td width="187">
+<p align="center">463</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="191">
+<p>3<sup>e</sup> échelon </p>
+</td>
+<td width="187">
+<p align="center">436</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="191">
+<p>2<sup>e</sup> échelon </p>
+</td>
+<td width="187">
+<p align="center">416</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="191">
+<p>1<sup>er</sup> échelon </p>
+</td>
+<td width="187">
+<p align="center">399</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" width="378">
+<p align="center">1<sup>er</sup> grade :</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="191">
+<p>13<sup>e</sup> échelon </p>
+</td>
+<td width="187">
+<p align="center">544</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="191">
+<p>12<sup>e</sup> échelon </p>
+</td>
+<td width="187">
+<p align="center">510</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="191">
+<p>11<sup>e</sup> échelon </p>
+</td>
+<td width="187">
+<p align="center">483</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="191">
+<p>10<sup>e</sup> échelon </p>
+</td>
+<td width="187">
+<p align="center">450</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="191">
+<p>9<sup>e</sup> échelon </p>
+</td>
+<td width="187">
+<p align="center">436</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="191">
+<p>8<sup>e</sup> échelon </p>
+</td>
+<td width="187">
+<p align="center">416</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="191">
+<p>7<sup>e</sup> échelon </p>
+</td>
+<td width="187">
+<p align="center">398</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="191">
+<p>6<sup>e</sup> échelon </p>
+</td>
+<td width="187">
+<p align="center">382</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="191">
+<p>5<sup>e</sup> échelon </p>
+</td>
+<td width="187">
+<p align="center">366</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="191">
+<p>4<sup>e</sup> échelon </p>
+</td>
+<td width="187">
+<p align="center">347</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="191">
+<p>3<sup>e</sup> échelon </p>
+</td>
+<td width="187">
+<p align="center">337</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="191">
+<p>2<sup>e</sup> échelon </p>
+</td>
+<td width="187">
+<p align="center">315</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="191">
+<p>1<sup>er</sup> échelon </p>
+</td>
+<td width="187">
+<p align="center">306</p>
+</td>
+</tr>
+</tbody>
+</table>
