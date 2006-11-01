@@ -26,4 +26,4 @@ Le président peut appeler à participer aux séances du conseil d'administratio
 
 Les membres du conseil d'administration mentionnés aux 1°, 2°, 3°, 7° et 8° du deuxième alinéa du présent article sont élus ou nommés pour trois ans. Toute vacance survenue au sein du conseil d'administration par suite de démission ou de décès, ou qui résulte de la perte par un membre de la qualité au titre de laquelle il siège, est pourvue dans un délai de deux mois. Le mandat du remplaçant expire à la date à laquelle aurait pris fin le mandat de son prédécesseur.
 
-Les fonctions de membre du conseil d'administration, à l'exception de celle de président, sont exercées à titre gratuit. Elles ouvrent droit aux remboursements des frais de déplacement et de séjour supportés dans l'exercice des fonctions, dans les conditions prévues par le décret du 28 mai 1990 susvisé.
+Les fonctions de membre du conseil d'administration, à l'exception de celle de président, sont exercées à titre gratuit. Elles ouvrent droit aux remboursements des frais de déplacement et de séjour supportés dans l'exercice des fonctions, dans les conditions prévues par le décret n° 2006-781 du 3 juillet 2006.

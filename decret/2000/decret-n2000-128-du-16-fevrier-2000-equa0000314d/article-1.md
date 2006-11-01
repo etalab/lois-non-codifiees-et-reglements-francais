@@ -10,4 +10,4 @@ Le secrétariat de la commission est assuré par l'exploitant de l'aérodrome.
 
 La commission se réunit sur convocation de son président. Celui-ci est tenu de la réunir à la demande du tiers au moins de ses membres. Elle peut entendre, sur invitation du président, toutes les personnes dont l'audition lui paraît utile. En outre, assistent aux réunions de la commission, sans voix délibérative lorsqu'ils n'en sont pas déjà membres, les maires ou leurs représentants, dès lors qu'une opération projetée sur le territoire de leur commune est examinée en séance.
 
-Les fonctions de membre de la commission sont gratuites. Toutefois, les membres de la commission peuvent être remboursés de leurs frais de transport et de séjour dans les conditions fixées pour les déplacements temporaires par le décret du 28 mai 1990 susvisé.
+Les fonctions de membre de la commission sont gratuites. Toutefois, les membres de la commission peuvent être remboursés de leurs frais de transport et de séjour dans les conditions fixées pour les déplacements temporaires par le décret n° 2006-781 du 3 juillet 2006.

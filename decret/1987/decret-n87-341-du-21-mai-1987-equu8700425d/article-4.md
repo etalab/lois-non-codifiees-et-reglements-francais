@@ -34,4 +34,4 @@ Des suppléants sont désignés dans les mêmes conditions que les titulaires.
 
 La liste nominative des membres de la commission, arrêtée par le ou les préfets compétents en application de l'article 1er ou de l'article 2, est publiée au Recueil des actes administratifs du ou des départements, ainsi que la liste des représentants des administrations appelés à assister de façon permanente aux réunions.
 
-Les fonctions de membre de la commission consultative de l'environnement sont gratuites. Toutefois, les membres de la commission peuvent être remboursés de leurs frais de transport et de séjour dans les conditions fixées pour les déplacements temporaires par les décrets n° 89-271 du 12 avril 1989 et n° 90-437 du 28 mai 1990.
+Les fonctions de membre de la commission consultative de l'environnement sont gratuites. Toutefois, les membres de la commission peuvent être remboursés de leurs frais de transport et de séjour dans les conditions fixées pour les déplacements temporaires par le décret n° 2006-781 du 3 juillet 2006.

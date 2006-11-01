@@ -18,6 +18,7 @@
 - [Décret n°2005-977 du 10 août 2005 (SANS0522310D)](decret-n2005-977-du-10-aout-2005-sans0522310d)
 - [Décret n°92-980 du 10 septembre 1992 (MENF9203237D)](decret-n92-980-du-10-septembre-1992-menf9203237d)
 - [Décret n°2005-122 du 11 février 2005 (ECOP0401126D)](decret-n2005-122-du-11-fevrier-2005-ecop0401126d)
+- [Décret n°2005-24 du 11 janvier 2005 (DOMB0400015D)](decret-n2005-24-du-11-janvier-2005-domb0400015d)
 - [Décret n°2005-772 du 11 juillet 2005 (MATK0500001D)](decret-n2005-772-du-11-juillet-2005-matk0500001d)
 - [Décret n°2005-773 du 11 juillet 2005 (SOCC0811128D)](decret-n2005-773-du-11-juillet-2005-socc0811128d)
 - [Décret n°2005-775 du 11 juillet 2005 (BUDX0508594D)](decret-n2005-775-du-11-juillet-2005-budx0508594d)

@@ -1,6 +1,6 @@
 # Article 6
 
-Le remboursement des frais de déplacement est déterminé conformément aux dispositions du décret du 28 mai 1990 susvisé.
+Le remboursement des frais de déplacement est déterminé conformément aux dispositions du décret n° 2006-781 du 3 juillet 2006.
 
 Les commissaires enquêteurs sont considérés comme étant domiciliés au lieu de leur résidence habituelle.
 
