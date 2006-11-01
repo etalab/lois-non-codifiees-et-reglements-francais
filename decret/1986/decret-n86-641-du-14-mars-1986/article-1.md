@@ -14,8 +14,6 @@ L'école nationale supérieure de chimie de Lille, rattachée à l'université d
 
 L'école nationale supérieure de chimie de Montpellier. rattachée à l'université de Montpellier-II ;
 
-L'école nationale supérieure de chimie de Mulhouse, rattachée à l'université de Mulhouse ;
-
 L'école nationale supérieure de chimie de Paris, rattachée à l'université de Paris-VI ;
 
 L'école nationale supérieure de mécanique et d'aérotechnique de Poitiers, rattachée à l'université de Poitiers ;
