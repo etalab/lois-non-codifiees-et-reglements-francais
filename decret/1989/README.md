@@ -144,7 +144,6 @@
 - [Décret n°89-220 du 12 avril 1989 (JUSB8910108D)](decret-n89-220-du-12-avril-1989-jusb8910108d)
 - [Décret n°89-226 du 12 avril 1989 (MAEJ8930030D)](decret-n89-226-du-12-avril-1989-maej8930030d)
 - [Décret n°89-27 du 12 janvier 1989 (MAEJ8830083D)](decret-n89-27-du-12-janvier-1989-maej8830083d)
-- [Décret n°89-271 du 12 avril 1989 (PRMG8970030D)](decret-n89-271-du-12-avril-1989-prmg8970030d)
 - [Décret n°89-28 du 12 janvier 1989 (MAEJ8830084D)](decret-n89-28-du-12-janvier-1989-maej8830084d)
 - [Décret n°89-29 du 12 janvier 1989 (MAEJ8830085D)](decret-n89-29-du-12-janvier-1989-maej8830085d)
 - [Décret n°89-30 du 12 janvier 1989 (MAEJ8830088D)](decret-n89-30-du-12-janvier-1989-maej8830088d)

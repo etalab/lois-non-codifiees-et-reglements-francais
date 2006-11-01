@@ -1,3 +1,0 @@
-# Article 2
-
-Le ministre de l'éducation nationale fixe annuellement le nombre de journées complètes de tournées de chaque bénéficiaire, compte tenu de l'importance et de la fréquence des déplacements qui lui sont imposés ainsi que des principales caractéristiques de sa circonscription. Le montant de l'indemnité est égal au produit du nombre de journées ainsi déterminé, sans que ce nombre puisse excéder cent dix journées, par le taux de l'indemnité de tournée fixée par l'arrêté prévu aux articles 9 et 13 du décret n° 66-619 du 10 août 1966 pour les déplacements effectués dans les villes de moins de 70 000 habitants.
