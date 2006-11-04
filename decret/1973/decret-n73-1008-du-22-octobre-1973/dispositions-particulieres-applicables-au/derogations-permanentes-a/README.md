@@ -1,3 +1,0 @@
-# DEROGATIONS PERMANENTES A LA DUREE DU TRAVAIL.
-
-- [Article 9](article-9.md)
