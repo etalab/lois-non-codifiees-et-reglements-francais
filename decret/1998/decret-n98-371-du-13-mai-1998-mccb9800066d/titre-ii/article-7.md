@@ -22,7 +22,7 @@ Le conseil d'administration délibère sur :
 
 10° Les modalités générales de passation, de financement et de contrôle des marchés qui s'inspirent de la réglementation des marchés de l'Etat ;
 
-11° Les catégories de conventions qui, en raison de leur nature ou de leur montant financier engagé, doivent lui être soumises pour approbation et celles dont il délègue la responsabilité au président ;
+11° Les catégories de conventions qui, en raison de leur nature ou de leur montant financier engagé, doivent lui être soumises pour approbation et celles dont il délègue la responsabilité au directeur général ;
 
 12° Les projets d'achat et de prise à bail d'immeubles et, pour les biens dont l'établissement public est propriétaire, les projets de ventes et de baux d'immeubles ;
 

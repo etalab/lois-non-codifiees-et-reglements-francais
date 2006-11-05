@@ -1,6 +1,6 @@
 # Article 3
 
-Le conseil d'administration de l'Ecole nationale supérieure des métiers de l'image et du son comprend, outre le président de l'établissement public :
+Le conseil d'administration de l'Ecole nationale supérieure des métiers de l'image et du son comprend, outre son président :
 
 1° Quatre membres de droit :
 
@@ -12,7 +12,7 @@ Le directeur de l'enseignement supérieur au ministère chargé de l'éducation 
 
 Le directeur général du Centre national de la cinématographie ou son représentant ;
 
-2° Six personnalités qualifiées appartenant aux professions du cinéma et de l'audiovisuel ou aux organisations représentatives de la profession nommées en raison de leurs compétences ou de leurs fonctions par arrêté du ministre chargé de la culture.
+2° Six personnalités qualifiées appartenant aux professions du cinéma et de l'audiovisuel ou aux organisations représentatives de la profession ou représentant les anciens élèves de l'Institut des hautes études cinématographiques, de la FEMIS et de l'Ecole nationale supérieure des métiers de l'image et du son (La femis), nommées par arrêté du ministre chargé de la culture.
 
 Pour chacune des personnalités qualifiées un suppléant est désigné dans les mêmes conditions ;
 

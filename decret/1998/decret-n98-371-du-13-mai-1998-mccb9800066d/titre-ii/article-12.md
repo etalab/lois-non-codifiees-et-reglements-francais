@@ -1,9 +1,15 @@
 # Article 12
 
-Un conseil d'orientation est consulté sur l'ensemble des questions pédagogiques et scientifiques ainsi que sur toutes les questions d'ordre culturel. Il est consulté sur le projet de contrat d'objectifs et sur le projet de rapport annuel, présentés par le directeur. Il est consulté pour la nomination du directeur des études et des directeurs de départements. Le conseil est également consulté sur toute réforme visant à créer de nouvelles spécialités d'enseignement.
+Le conseil professionnel est consulté sur les grandes orientations pédagogiques et scientifiques de l'école ainsi que sur l'insertion des élèves dans la vie professionnelle. Il est également consulté sur la nomination du directeur des études et des directeurs de département ainsi que sur toute réforme visant à créer de nouvelles spécialités d'enseignement.
 
-Le conseil d'orientation est présidé par le président de l'établissement. Le conseil comprend deux collèges : le collège professionnel et le collège pédagogique. Le conseil assure la synthèse des travaux des deux collèges.
+Le conseil professionnel, dont le secrétariat est assuré par le directeur des études, comprend le président du conseil d'administration, le directeur général et seize membres :
 
-Le conseil d'orientation, sous la présidence du président, se réunit au moins deux fois par an en formation plénière.
+1° Les six personnalités qualifiées membres du conseil d'administration, ainsi que leurs suppléants ;
 
-Une délibération du conseil d'administration fixe les modalités d'élection des différentes catégories du conseil d'orientation.
+2° Les deux membres du conseil d'administration représentant les personnes assurant des enseignements, ainsi que leurs suppléants.
+
+Le conseil se réunit au minimum deux fois par an.
+
+Les représentants des élèves au conseil pédagogique peuvent assister aux séances avec voix consultative.
+
+En outre, le président du conseil professionnel peut inviter à participer à une séance toute personne dont il juge la présence utile.

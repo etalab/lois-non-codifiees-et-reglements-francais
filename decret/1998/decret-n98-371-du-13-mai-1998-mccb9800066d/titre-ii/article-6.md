@@ -6,6 +6,6 @@ Le conseil délibère valablement lorsque la moitié de ses membres ayant voix d
 
 Les délibérations sont acquises à la majorité des membres présents ou représentés. En cas de partage égal des voix, la voix du président est prépondérante.
 
-Le directeur, le directeur des études, le membre du corps du contrôle général économique et financier et l'agent comptable assistent avec voix consultative aux séances du conseil d'administration.
+Le directeur général, le directeur des études, un membre du corps du contrôle général économique et financier et l'agent comptable assistent avec voix consultative aux séances du conseil d'administration.
 
 Le président du conseil d'administration peut inviter à participer aux séances, à titre consultatif, toute personne dont il juge la présence utile.

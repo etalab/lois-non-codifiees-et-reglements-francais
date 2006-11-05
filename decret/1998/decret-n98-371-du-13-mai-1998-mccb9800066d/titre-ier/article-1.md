@@ -1,6 +1,6 @@
 # Article 1
 
-L'Ecole nationale supérieure des métiers de l'image et du son est un établissement public à caractère industriel et commercial placé sous la tutelle du ministre chargé de la culture.
+L'Ecole nationale supérieure des métiers de l'image et du son (La femis) est un établissement public à caractère industriel et commercial placé sous la tutelle du ministre chargé de la culture.
 
 Son siège est à Paris.
 

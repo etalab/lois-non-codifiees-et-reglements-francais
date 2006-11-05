@@ -1,15 +1,9 @@
 # Article 13
 
-Le collège professionnel, dont le secrétariat est assuré par le directeur des études, comprend, outre le directeur qui le préside, dix-huit membres :
+Le conseil pédagogique est consulté sur l'ensemble des questions relatives à la pédagogie, la formation, l'élaboration des programmes et l'organisation des cycles.
 
-1° Neuf professionnels représentatifs des anciens élèves de l'Ecole nationale supérieure des métiers de l'image et du son, de l'Institut de formation et d'enseignement de l'image et du son et de l'Institut des hautes études cinématographiques, nommés par le directeur pour trois ans ;
+Chaque année, il donne son avis sur les bilans des interventions pédagogiques extérieures, des concours d'entrée et de la délivrance des diplômes.
 
-2° Cinq représentants des professionnels issus des différentes branches du cinéma et de l'audiovisuel nommés pour trois ans par le directeur, après avis du conseil d'administration ;
+Le conseil pédagogique, dont le secrétariat est assuré par le directeur des études, comprend, outre le directeur général qui le préside, le directeur des études, les directeurs de département, les responsables de cycle, le directeur technique et quatre représentants des élèves élus pour un an.
 
-3° Quatre représentants des intervenants pédagogiques effectuant un nombre d'interventions horaires supérieur au seuil fixé par l'arrêté mentionné au 3° de l'article 3, élus en leur sein pour trois ans.
-
-Les représentants des élèves au collège pédagogique peuvent assister aux séances avec voix consultative.
-
-Le collège est consulté sur les grandes orientations pédagogiques et scientifiques de l'école. Il est consulté sur l'insertion des élèves dans la vie professionnelle.
-
-Le collège se réunit au minimum deux fois par an.
+Le conseil pédagogique se réunit à la demande du directeur général, au moins une fois par trimestre.
