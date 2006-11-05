@@ -36,6 +36,7 @@
 - [Arrêté du 2 juin 2006 (FPPA0600043A)](arrete-du-2-juin-2006-fppa0600043a)
 - [Arrêté du 2 juin 2006 (INTA0600344A)](arrete-du-2-juin-2006-inta0600344a)
 - [Arrêté du 2 juin 2006 (SANS0622377A)](arrete-du-2-juin-2006-sans0622377a)
+- [Arrêté du 2 novembre 2006 (MCCB0600661A)](arrete-du-2-novembre-2006-mccb0600661a)
 - [Arrêté du 2 octobre 2006 (METF0611971A)](arrete-du-2-octobre-2006-metf0611971a)
 - [Arrêté du 2 octobre 2006 (SANX0602395A)](arrete-du-2-octobre-2006-sanx0602395a)
 - [Arrêté du 2 octobre 2006 (SOCF0611981A)](arrete-du-2-octobre-2006-socf0611981a)
