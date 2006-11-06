@@ -6,4 +6,6 @@ a) De présenter à un poste d'inspection filtrage les biens et produits qu'il f
 
 b) De surveiller ses locaux ainsi que les biens et produits qu'il utilise ou qu'il commercialise ;
 
-c) De ne pas commercialiser des produits ou des articles dont l'emport est interdit dans les cabines des aéronefs.
+c) De ne pas commercialiser des produits ou des articles dont l'emport est interdit dans les cabines des aéronefs ;
+
+d) De se conformer aux dispositions mentionnées à l'article 37-1.

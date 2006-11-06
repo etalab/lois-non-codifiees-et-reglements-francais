@@ -4,7 +4,7 @@ Règles générales. - L'exploitant d'aérodrome ou l'entreprise opérant pour s
 
 a) D'assurer l'inspection filtrage de tous les bagages de soute présentés par les entreprises de transport aérien ou les entreprises opérant pour le compte de celles-ci ;
 
-b) D'informer les passagers de la liste des articles prohibés dans les bagages de soute et des précautions à prendre en matière de surveillance des bagages ;
+b) D'informer les passagers de la liste des articles prohibés et des produits soumis à restriction et limitation d'emport, des précautions à prendre en matière de surveillance des bagages ainsi que de leurs obligations aux postes d'inspection filtrage, notamment celles qui résultent de l'article 12 et des dispositions prises en application des articles 7 et 7-1 ;
 
 c) De soumettre chaque bagage de soute accompagné à un examen dit "primaire" à l'aide d'un des moyens suivants :
 
