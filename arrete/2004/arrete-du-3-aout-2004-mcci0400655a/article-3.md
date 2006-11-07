@@ -20,7 +20,7 @@ Le conseil des métiers d'art est présidé par le ministre de la culture et de 
 
 - le directeur de la musique, de la danse, du théâtre et des spectacles ou son représentant ;
 
-- le délégué au développement et à l'action territoriale ou son représentant ;
+- le délégué au développement et aux affaires internationales ou son représentant ;
 
 - le responsable de la mission des métiers d'art au ministère de la culture et de la communication, pour la durée de son mandat ;
 
