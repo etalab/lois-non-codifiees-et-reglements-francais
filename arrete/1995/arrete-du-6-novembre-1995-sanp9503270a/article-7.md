@@ -1,5 +1,9 @@
 # Article 7
 
-Les personnalités qualifiées de ce comité sont nommées par arrêté conjoint des ministres chargés de la recherche et de la santé pour une durée de trois ans renouvelable.
+Le comité spécialisé pour les registres de maladies rares est composé des mêmes membres de droit que le Comité national des registres et de douze personnalités qualifiées.
 
-Le remplacement d'une personnalité qualifiée en cas de cessation des fonctions en cours de mandat s'effectue dans les mêmes conditions que la nomination et pour la durée du mandat restant à accomplir.
+Sont nommés en qualité de personnalités qualifiées :
+
+- dix personnalités qualifiées, nommées en raison de leur compétence particulière dans le domaine des maladies rares ou de la santé publique, dont un responsable de registre ;
+
+- deux représentants d'associations d'usagers du système de santé.

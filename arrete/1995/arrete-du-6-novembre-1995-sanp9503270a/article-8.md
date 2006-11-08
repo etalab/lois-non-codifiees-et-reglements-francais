@@ -1,13 +1,5 @@
 # Article 8
 
-Ce comité est présidé alternativement par le directeur général de l'Institut de veille sanitaire et le directeur général de l'Institut national de la santé et de la recherche médicale ou leurs représentants. Pendant la présidence de l'un, l'autre assure la vice-présidence.
+Les personnalités qualifiées du comité national des regitres et du comité spécialisé pour les registres de maladies rares sont nommées par arrêté conjoint des ministres chargés de la recherche et de la santé pour une durée de trois ans renouvelable.
 
-Le président ou le vice-président peut inviter à participer aux travaux du comité ou à des groupes de travail toute personnalité extérieure compétente, en fonction de l'ordre du jour.
-
-Le comité se réunit au moins deux fois par an sur convocation du président.
-
-Il adopte son règlement intérieur qui définit les modalités de son fonctionnement, et notamment les règles applicables à l'alternance de la présidence.
-
-Il rédige un rapport d'activité tous les trois ans.
-
-Le secrétariat du comité est assuré par l'Institut de veille sanitaire.
+Le remplacement d'une personnalité qualifiée en cas de cessation des fonctions en cours de mandat s'effectue dans les mêmes conditions que la nomination et pour la durée du mandat restant à accomplir.

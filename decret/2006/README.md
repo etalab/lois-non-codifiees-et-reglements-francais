@@ -20,6 +20,8 @@
 - [Décret n°2006-1344 du 6 novembre 2006 (EQUG0601213D)](decret-n2006-1344-du-6-novembre-2006-equg0601213d)
 - [Décret n°2006-1345 du 6 novembre 2006 (AGRF0602119D)](decret-n2006-1345-du-6-novembre-2006-agrf0602119d)
 - [Décret n°54-135 du 6 février 1954](decret-n54-135-du-6-fevrier-1954)
+- [Décret n°2006-1346 du 7 novembre 2006 (MENR0602687D)](decret-n2006-1346-du-7-novembre-2006-menr0602687d)
+- [Décret n°2006-1347 du 7 novembre 2006 (DEVP0630010D)](decret-n2006-1347-du-7-novembre-2006-devp0630010d)
 - [Décret n°2006-1233 du 9 octobre 2006 (MENS0601883D)](decret-n2006-1233-du-9-octobre-2006-mens0601883d)
 - [Décret n°2006-1234 du 9 octobre 2006 (MENS0601882D)](decret-n2006-1234-du-9-octobre-2006-mens0601882d)
 - [Décret n°2006-1243 du 11 octobre 2006 (INTD0600222D)](decret-n2006-1243-du-11-octobre-2006-intd0600222d)
