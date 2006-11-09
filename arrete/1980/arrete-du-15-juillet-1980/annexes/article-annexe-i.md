@@ -5,99 +5,106 @@ Conditions de fabrication ou d'installation
 <table>
 <tbody>
 <tr>
-<td rowspan="2" width="106">
-<p align="center">INDICE ET DATE<br/>de la spécification</p>
+<td rowspan="2" width="110">
+<p align="center">RÉFÉRENCE<br/>de la spécification(indice et date)</p>
 </td>
-<td rowspan="2" width="132">
+<td rowspan="2" width="107">
 <p align="center">OBJET<br/>de la spécification</p>
 </td>
-<td colspan="2" width="190">
+<td colspan="2" width="158">
 <p align="center">DATE DE DÉPART<br/>de l'obligation de conformité</p>
 </td>
-<td rowspan="2" width="135">
-<p align="center">CONDITIONS<br/>particulières</p>
+<td rowspan="2" width="123">
+<p align="center">CONDITIONS particulières</p>
 </td>
-<td rowspan="2" width="118">
-<p align="center">ORGANISME<br/>qualifié intervenant pour l'application des spécifications</p>
-</td>
-</tr>
-<tr>
-<td width="97">
-<p align="center">Cas des matériels d'un modèle déjà fabriqué ou commercialisé et non conforme à la spécification</p>
-</td>
-<td width="93">
-<p align="center">Cas des matériels nouveaux</p>
+<td rowspan="2" width="183">
+<p align="center">ORGANISME<br/>qualifié pour l'application des spécifications</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="106">
-<p>Spécification ATG B 521 (1980).</p>
+<td width="95">
+<p align="center">Cas des matériels d'un modèle déjà commercialisé et non conforme à la spécification</p>
 </td>
-<td valign="top" width="132">
-<p>Installations de gaz combustibles : tubes d'acier et accessoires ; alliages d'apport ; contrôle des alliages d'apport.</p>
-</td>
-<td valign="top" width="97">
-<p>1er juin 1981</p>
-</td>
-<td valign="top" width="93">
-<p>1er juin 1981</p>
-</td>
-<td rowspan="2" width="135">
-<p>Ces spécifications ne visent pas la fabrication de conduites montantes, de tiges cuisine ou de blocs de détente ou de comptage qui sont réalisés dans un atelier fixe de préfabrication.</p>
-</td>
-<td rowspan="2" width="118">
-<p align="center">Institut de soudure, 32, boulevard de la Chapelle, 75018 Paris.</p>
+<td width="63">
+<p align="center">Cas des nouveaux matériels</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="106">
-<p>Spécification ATG B 524 (1980).</p>
+<td valign="top" width="110">
+<p>ATG B521 (juin 2005)</p>
 </td>
-<td valign="top" width="132">
-<p>Installations de gaz combustibles : tubes de cuivre ; raccords ; moyens d'assemblages ; alliages d'apport et flux.</p>
+<td valign="top" width="107">
+<p>Installations de gaz combustible : tubes d'acier et accessoires. </p>
 </td>
-<td valign="top" width="97">
-<p>1er juin 1981</p>
+<td valign="top" width="95">
+<p>1er janvier 2008 </p>
 </td>
-<td valign="top" width="93">
-<p>1er juin 1981</p>
+<td valign="top" width="63">
+<p>1er novembre 2006 </p>
 </td>
-</tr>
-<tr>
-<td valign="top" width="106">
-<p>Spécification ATG E 525 (1978).</p>
+<td valign="top" width="123">
+<p>Ces spécifications ne visent pas la fabrication de conduites montantes, de tiges-cuisines ou de blocs de détente ou de comptage qui sont réalisés dans un atelier fixe de préfabrication. </p>
 </td>
-<td valign="top" width="132">
-<p>Installations de gaz combustibles : tubes en alliage d'aluminium ; raccords et colles.</p>
-</td>
-<td valign="top" width="97">
-<p>25 août 1978</p>
-</td>
-<td valign="top" width="93">
-<p>25 août 1978.</p>
-</td>
-<td width="135">
-<p>L'emploi de l'aluminium est strictement réservé aux conduites visées par l'article 8 (1-F) de l'arrêté du 2 août 1977 lorsque ces conduites sont situées en élévation, à l'extérieur des bâtiments.</p>
-</td>
-<td width="118">
-<br/>
+<td valign="top" width="183">
+<p>Pour les alliages d'apport et flux, la preuve de conformité à la spécification des raccords sera apportée par l'obtention de la certification les concernant (marque ATG) gérée par CERTIGAZ,62, rue de Courcelles,75008 Paris. </p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="106">
-<p>Spécification ATG B 600 (1980).</p>
+<td valign="top" width="110">
+<p>ATG B524 (juin 2005)</p>
 </td>
-<td valign="top" width="132">
-<p>Installations de gaz combustibles : éléments préfabriqués de conduites montantes en cuivre.</p>
+<td valign="top" width="107">
+<p>Installations de gaz combustible : tubes de cuivre et assemblages. </p>
 </td>
-<td valign="top" width="97">
-<p>1er janvier 1981</p>
+<td valign="top" width="95">
+<p>1er janvier 2008 </p>
 </td>
-<td valign="top" width="93">
-<p>1er janvier 1981.</p>
+<td valign="top" width="63">
+<p>1er novembre 2006 </p>
 </td>
-<td width="135">
-<p>Cette spécification définit les éléments de conduites montantes réalisés dans un atelier fixe de préfabrication.</p>
+<td valign="top" width="123">
+<p>Ces spécifications ne visent pas la fabrication de conduites montantes, qui sont réalisées dans un atelier fixe de préfabrication. </p>
+</td>
+<td valign="top" width="183">
+<p>Pour les alliages d'apport et flux, la preuve de conformité à la spécification des raccords sera apportée par l'obtention de la certification les concernant (marque ATG) gérée par CERTIGAZ,62, rue de Courcelles,75008 Paris. </p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="110">
+<p>ATG B600 (juin 2005)</p>
+</td>
+<td valign="top" width="107">
+<p>Installations de gaz combustible : éléments préfabriqués. </p>
+</td>
+<td valign="top" width="95">
+<p>1er juin 2007 </p>
+</td>
+<td valign="top" width="63">
+<p>1er novembre 2006 </p>
+</td>
+<td valign="top" width="123">
+<p>Cette spécification définit les éléments de conduites montantes réalisés dans un atelier fixe de préfabrication. </p>
+</td>
+<td valign="top" width="183"/>
+</tr>
+<tr>
+<td valign="top" width="110">
+<p>CCH AFG 2004-02 (juin 2006)</p>
+</td>
+<td valign="top" width="107">
+<p>Raccords à sertir en cuivre utilisables sur les installations de gaz. </p>
+</td>
+<td valign="top" width="95">
+<p>1er novembre 2006 </p>
+</td>
+<td valign="top" width="63">
+<p>1er novembre 2006 </p>
+</td>
+<td valign="top" width="123">
+<p>Cette spécification définit les caractéristiques des raccords, leurs règles de mise en œuvre et les règles de mise en œuvre des installations comportant des raccords sertis en cuivre. </p>
+</td>
+<td valign="top" width="183">
+<p>La preuve de conformité à la spécification des raccords sera apportée par l'obtention de la certification les concernant (marque ATG) gérée par CERTIGAZ,62, rue de Courcelles,75008 Paris. </p>
 </td>
 </tr>
 </tbody>
