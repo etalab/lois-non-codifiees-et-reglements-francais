@@ -1,0 +1,5 @@
+# Article 3
+
+Le préfet peut, après avis de la commission mentionnée à l'article R. 118-2-1 du code de la voirie routière, prescrire au maître d'ouvrage d'un ouvrage routier présentant les caractéristiques définies à l'article R. 118-1-1, qui est en service à la date de publication du présent décret ou dont la mise en service est postérieure à cette date mais qui a fait l'objet d'un marché de réalisation signé avant le 1er décembre 2004, de lui communiquer, dans un délai qu'il détermine, un diagnostic de sécurité de l'ouvrage. Le maître d'ouvrage lui adresse alors les documents prévus aux a et b de de l'article R. 118-3-3. L'expert ou organisme qualifié agréé complète le rapport de sécurité prévu au b par le diagnostic demandé.
+
+Selon les modalités définies au dernier alinéa de l'article R. 118-3-3, le préfet interdit ou autorise la poursuite de l'exploitation, le cas échéant en l'assortissant de conditions restrictives d'utilisation de l'ouvrage ou de prescriptions particulières relatives à l'exploitation. Si la poursuite de l'exploitation est autorisée, le maître d'ouvrage est alors soumis aux obligations du même article R. 118-3-3.
