@@ -16,11 +16,11 @@ Le conseil d'administration délibère sur :
 
 7° L'exercice des actions en justice et les transactions ;
 
-8° Les conditions générales de passation des marchés, la composition de la commission prévue à l'article 83 du code des marchés publics et celle d'un bureau des marchés chargé de donner son avis ; en cas d'avis défavorable du bureau des marchés ou de la commission spécialisée des marchés compétente en application des articles 206 à 221 du code des marchés publics, le marché ne peut être signé qu'en vertu d'une délibération du conseil d'administration ;
+8° Les conditions générales de passation des marchés et la composition de la commission d'appel d'offres prévue par le code des marchés publics ;
 
 9° Les prises, extensions et cessions des participations et créations de filiales ;
 
-10° La politique tarifaire de l'établissement et la fixation des droits d'entrée et des tarifs des prestations ;
+10° La politique tarifaire de l'établissement et la fixation des droits d'entrée et des tarifs des prestations ainsi que des redevances dues à raison des autorisations d'occupation temporaire des immeubles remis en dotation à l'établissement public ;
 
 11° L'approbation des concessions.
 

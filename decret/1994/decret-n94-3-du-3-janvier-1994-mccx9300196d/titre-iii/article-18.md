@@ -14,7 +14,7 @@ Les ressources de l'établissement comprennent :
 
 6° Le produit des aliénations ;
 
-7° Les revenus des biens meubles et immeubles ;
+7° Les revenus des biens meubles et immeubles et les redevances dues à raison des autorisations d'occupation temporaire des immeubles remis en dotation à l'établissement public ;
 
 8° Le produit des opérations commerciales de l'établissement et, de façon générale, toutes autres recettes provenant de l'exercice de ses activités ;
 
