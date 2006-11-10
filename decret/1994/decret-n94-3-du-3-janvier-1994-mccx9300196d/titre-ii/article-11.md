@@ -12,14 +12,14 @@ A ce titre :
 
 4° Il est ordonnateur des recettes et des dépenses de l'établissement ;
 
-5° Il conclut les contrats, conventions et marchés ;
+5° Il conclut les conventions engageant l'établissement ; il est l'autorité responsable des marchés ;
 
-6° Il prend, sous réserve de l'accord du contrôleur financier et d'une ratification par le conseil d'administration lors de sa plus prochaine séance, les décisions modificatives du budget qui ne comportent ni une augmentation du montant total des dépenses, ni un accroissement des effectifs, ni une diminution du montant total des recettes, ni de virements de crédits entre la section de fonctionnement et la section des opérations en capital, ou entre les chapitres de personnel et les chapitres de matériel ;
+6° Il prend, sous réserve de l'accord du membre du contrôle général économique et financier et d'une ratification par le conseil d'administration lors de sa plus prochaine séance, les décisions modificatives du budget qui ne comportent ni une augmentation du montant total des dépenses, ni un accroissement des effectifs, ni une diminution du montant total des recettes, ni de virements de crédits entre la section de fonctionnement et la section des opérations en capital, ou entre les chapitres de personnel et les chapitres de matériel ;
 
 7° Il représente l'établissement en justice et dans tous les actes de la vie civile.
-
-Il assure la présidence du conseil scientifique du dépôt légal prévu à l'article 6 de la loi du 20 juin 1992 susvisée.
 
 Il rend compte de sa gestion au conseil d'administration.
 
 Il peut déléguer sa signature au directeur général.
+
+En cas d'empêchement du président, pour quelque cause que ce soit, les fonctions d'ordonnateur pour l'exécution courante des recettes et des dépenses de l'établissement ainsi que celles d'autorité responsable des marchés sont exercées par le directeur général.
