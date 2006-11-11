@@ -132,7 +132,6 @@
 - [Décret n°2003-631 du 7 juillet 2003 (BUDF0300013D)](decret-n2003-631-du-7-juillet-2003-budf0300013d)
 - [Décret n°2003-632 du 7 juillet 2003 (BUDF0300016D)](decret-n2003-632-du-7-juillet-2003-budf0300016d)
 - [Décret n°2003-636 du 7 juillet 2003 (BUDR0303006D)](decret-n2003-636-du-7-juillet-2003-budr0303006d)
-- [Décret n°2003-959 du 7 octobre 2003 (SANC0323820D)](decret-n2003-959-du-7-octobre-2003-sanc0323820d)
 - [Décret n°2003-962 du 7 octobre 2003 (SANS0322379D)](decret-n2003-962-du-7-octobre-2003-sans0322379d)
 - [Décret n°2003-965 du 7 octobre 2003 (AGRA0301248D)](decret-n2003-965-du-7-octobre-2003-agra0301248d)
 - [Décret n°2003-418 du 7 mai 2003 (SANC0321640D)](decret-n2003-418-du-7-mai-2003-sanc0321640d)
