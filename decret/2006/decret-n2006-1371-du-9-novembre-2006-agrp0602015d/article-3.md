@@ -1,0 +1,3 @@
+# Article 3
+
+Le décret n° 68-649 du 10 juillet 1968 relatif au financement du conseil interprofessionnel du vin de Bordeaux, le décret n° 84-699 du 17 juillet 1984 portant réorganisation du conseil interprofessionnel du vin de Bordeaux, le décret n° 86-1003 du 27 août 1986 portant composition du conseil interprofessionnel du vin de Bordeaux, le décret n° 89-17 du 11 janvier 1989 modifiant le décret n° 66-866 du 18 novembre 1966 modifié portant réorganisation du conseil interprofessionnel du vin de Bordeaux et le décret n° 95-176 du 14 février 1995 modifiant le décret n° 66-866 du 18 novembre 1966 modifié portant réorganisation du conseil interprofessionnel du vin de Bordeaux sont abrogés.
