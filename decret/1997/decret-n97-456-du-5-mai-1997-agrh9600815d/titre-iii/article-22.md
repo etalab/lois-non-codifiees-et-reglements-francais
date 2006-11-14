@@ -10,7 +10,7 @@ De fixer avant la fin de chaque année avec les pouvoirs publics les orientation
 
 De proposer à l'approbation du ministre chargé de l'agriculture les projets de calendriers des réunions de courses transmis par les sociétés mères ; cette approbation est réputée acquise en cas de silence du ministre chargé de l'agriculture pendant un délai de deux mois à compter de la réception de la demande ;
 
-De gérer, conformément aux dispositions du présent décret, le Fonds commun de l'élevage et des courses et le produit des gains non réclamés ;
+De gérer, conformément aux dispositions du présent décret et des textes pris pour son application, le Fonds commun des courses, le Fonds d'encouragement aux projets équestres régionaux ou nationaux et le produit des gains non réclamés ;
 
 De définir les orientations en matière de politique sociale ;
 

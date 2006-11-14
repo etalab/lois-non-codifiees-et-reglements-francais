@@ -1,5 +1,5 @@
 # Article 26
 
-La part du prélèvement en faveur de l'élevage opéré sur les enjeux engagés au pari mutuel hors les hippodromes et qui revient au Fonds commun de l'élevage et des courses est égale à 0,7 % des enjeux.
+La Fédération nationale des courses françaises tient dans ses écritures un compte séparé dénommé "fonds d'encouragement aux projets équestres régionaux ou nationaux" destiné au financement d'actions et d'investissements au profit de la filière du cheval.
 
-Le ministre chargé de l'agriculture peut attribuer au Fonds commun de l'élevage et des courses une subvention exceptionnelle à partir des ressources provenant du prélèvement en faveur de l'élevage.
+Les modalités de gestion de ce fonds sont fixées par décret.

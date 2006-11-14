@@ -1,16 +1,16 @@
 # Article 31
 
-Les ressources provenant des prélèvements opérés au profit des sociétés de courses sur le pari mutuel sont affectées :
+Les ressources provenant des prélèvements opérés sur le pari mutuel au profit des sociétés de courses et de la Fédération nationale des courses françaises sont affectées :
 
-1° Au remboursement des frais de contrôle ;
+1° Abrogé
 
 2° A la couverture des dépenses de surveillance et de fonctionnement ;
 
 3° A des actions d'encouragements à l'élevage ;
 
-4° A des investissements directement liés à l'organisation des courses de chevaux et du pari mutuel ;
+4° Au financement d'actions et d'investissements au profit de la filière du cheval ;
 
-5° A l'allocation de secours, de prestations d'assistance, de crédits de formation professionnelle ou d'avantages de prévoyance ou de retraites complémentaires en faveur du personnel des sociétés et des écuries de courses ainsi que des jockeys et drivers.
+5° A l'allocation de secours, de prestations d'assistance, de crédits de formation professionnelle ou d'avantages de prévoyance ou de retraites complémentaires en faveur du personnel actif ou retraité des sociétés et des écuries de courses ainsi que des entraîneurs jockeys et drivers actifs ou retraités.
 
 Les prévisions de trésorerie pour l'exercice et les modalités de placement des disponibilités sont communiquées chaque année aux autorités compétentes pour approuver le budget.
 

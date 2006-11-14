@@ -14,6 +14,6 @@ Les représentants des sociétés de courses ayant une activité galop et les re
 
 Les représentants des sociétés de courses ayant une activité trot et les représentants des socioprofessionnels du trot constituent le conseil régional du trot.
 
-Le conseil régional de chaque spécialité choisit son président parmi les représentants des sociétés de courses.
+Le conseil régional de chaque spécialité élit son président parmi les représentants des sociétés de courses.
 
-La fédération régionale des courses choisit son président et son vice-président parmi les deux présidents des conseils régionaux de chaque spécialité.
+La fédération régionale des courses élit son président et son vice-président parmi les deux présidents des conseils régionaux de chaque spécialité.
