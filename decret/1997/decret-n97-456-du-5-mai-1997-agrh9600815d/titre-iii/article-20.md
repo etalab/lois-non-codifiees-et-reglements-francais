@@ -10,9 +10,9 @@ De deux représentants des autres sociétés de courses, désignés par et parmi
 
 Participent en outre au conseil d'administration avec voix consultative :
 
-Le directeur de l'espace rural et de la forêt ;
+Le directeur général de la forêt et des affaires rurales ou son représentant ;
 
-Le contrôleur d'Etat, désigné en application de l'article 35 ci-après ;
+Le membre du corps du contrôle général économique et financier, désigné en application de l'article 35 ci-après ;
 
 Le président-directeur général du groupement d'intérêt économique mentionné à l'article 27.
 

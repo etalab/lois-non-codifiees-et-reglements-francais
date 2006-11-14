@@ -2,7 +2,7 @@
 
 Le candidat souhaitant acquérir le diplôme de préparateur en pharmacie hospitalière par la validation des acquis de l'expérience doit justifier des compétences professionnelles acquises dans l'exercice d'une activité salariée, non salariée ou bénévole, en rapport direct avec le contenu de ce diplôme.
 
-Le rapport direct avec le diplôme est établi lorsque le candidat justifie avoir concouru, en pharmacie à usage intérieur, sous le contrôle effectif du pharmacien, à la préparation, à la dispensation et à la gestion des médicaments et des dispositifs médicaux en lien avec le référentiel d'activités figurant en annexe I du présent arrêté.
+Le rapport direct avec le diplôme est établi lorsque le candidat titulaire du brevet professionnel de préparateur en pharmacie prévu par les articles D. 4241-1 à D. 4241-8 du code de la santé publique, justifie avoir concouru, en pharmacie à usage intérieur, sous le contrôle effectif du pharmacien, à la préparation, à la dispensation et à la gestion des médicaments et des dispositifs médicaux en lien avec le référentiel d'activités figurant en annexe I du présent arrêté.
 
 La durée totale d'activité cumulée (en équivalent temps plein) exigée est de trois ans, représentant 4 200 heures.
 

@@ -52,6 +52,7 @@
 - [Décret n°2006-447 du 12 avril 2006 (INDI0607224D)](decret-n2006-447-du-12-avril-2006-indi0607224d)
 - [Décret n°89-271 du 12 avril 1989 (PRMG8970030D)](decret-n89-271-du-12-avril-1989-prmg8970030d)
 - [Décret n°2006-1259 du 13 octobre 2006 (DEFP0601183D)](decret-n2006-1259-du-13-octobre-2006-defp0601183d)
+- [Décret n°2006-1375 du 13 novembre 2006 (AGRF0602135D)](decret-n2006-1375-du-13-novembre-2006-agrf0602135d)
 - [Décret du 14 octobre 2006 (ECOC0600101D)](decret-du-14-octobre-2006-ecoc0600101d)
 - [Décret n°2006-1258 du 14 octobre 2006 (INTD0600214D)](decret-n2006-1258-du-14-octobre-2006-intd0600214d)
 - [Décret n°2006-1260 du 14 octobre 2006 (SANP0623239D)](decret-n2006-1260-du-14-octobre-2006-sanp0623239d)

@@ -1,6 +1,6 @@
 # Article 36
 
-I. - Lorsque des organismes à vocation sociale sont financés par les gains non réclamés, en vue de la distribution des avantages prévus au 5° de l'article 31, leurs conditions d'organisation et de fonctionnement sont approuvées par arrêté du ministre chargé de l'agriculture et du ministre chargé du budget. Les dispositions du troisième alinéa de l'article 31 et des articles 32, 33, 34, 35 et 38 leur sont applicables.
+I. - Lorsque des organismes à vocation sociale sont financés par les gains non réclamés, en vue de la distribution des avantages prévus au 5° de l'article 31, leurs conditions d'organisation et de fonctionnement sont approuvées par le ministre chargé de l'agriculture et le ministre chargé du budget. Cette approbation est réputée acquise en cas de silence du ministre chargé de l'agriculture et du ministre chargé du budget pendant un délai de un mois à compter de la réception de la demande. Les dispositions du troisième alinéa de l'article 31 et des articles 32, 33, 34, 35 et 38 leur sont applicables.
 
 Un conseil de surveillance, dont la composition est fixée par arrêté du ministre chargé de l'agriculture et du ministre chargé du budget, est chargé d'assurer :
 

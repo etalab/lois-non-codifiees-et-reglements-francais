@@ -1,6 +1,6 @@
 # Article 37
 
-Le montant des prélèvements sur les sommes engagées au pari mutuel sur les hippodromes et au pari mutuel hors les hippodromes, ainsi que les montants des prélèvements spéciaux opérés sur les mises gagnantes, à l'exception de la part attribuée aux sociétés, sont versés :
+Le montant des prélèvements sur les sommes engagées au pari mutuel sur les hippodromes et au pari mutuel hors les hippodromes, ainsi que les montants des prélèvements spéciaux opérés sur les mises gagnantes, à l'exception de la part attribuée aux sociétés et de celle attribuée à la Fédération nationale des courses françaises, sont versés :
 
 A Paris, à la recette générale des finances ;
 
