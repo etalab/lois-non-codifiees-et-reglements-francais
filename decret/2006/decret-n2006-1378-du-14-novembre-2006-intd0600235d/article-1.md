@@ -1,0 +1,3 @@
+# Article 1
+
+Les dispositions annexées au présent décret constituent la partie réglementaire du code de l'entrée et du séjour des étrangers et du droit d'asile. Conformément aux dispositions de l'article 1er du décret n° 2006-1377 du 14 novembre 2006 relatif à la partie réglementaire du code de l'entrée et du séjour des étrangers et du droit d'asile, les articles identifiés par un "R.*" correspondent aux dispositions relevant d'un décret en Conseil d'Etat délibéré en conseil des ministres. Les articles identifiés par un "R." correspondent aux dispositions relevant d'un décret en Conseil d'Etat, ceux identifiés par un "D." correspondent aux dispositions relevant d'un décret simple.
