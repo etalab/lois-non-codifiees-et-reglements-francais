@@ -4,7 +4,7 @@ INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE N
 
 Intitulé :
 
-Titre professionnel : carreleur.
+Titre professionnel : carreleur (se).
 
 Niveau : V.
 
@@ -12,9 +12,9 @@ Code NSF : 233 s.
 
 Résumé du référentiel d'emploi
 
-Le carreleur effectue la mise en oeuvre de carrelage au sol par collage ou par scellement sur chape fraîche, et aux murs par collage. Il réalise des tracés et des calepinages (plans de pose). Il construit également des supports maçonnés (socles, tablettes, tabliers de baignoire), des reprises d'enduits de chape et réalise les finitions avec des pièces et profils spéciaux (baguettes d'angle, joints, etc.). En préalable aux travaux de pose collée, il doit fréquemment préparer le support par ragréage et enduit de lissage. A la fin des travaux, il réalise les joints.
+Le (la) carreleur (se) effectue la mise en oeuvre de carrelage au sol par collage ou par pose scellée, et aux murs par collage. Il (elle) réalise les finitions avec des pièces et profils spéciaux (baguettes d'angle, joints, etc.). Il (elle) construit également des supports (socles, tablettes, tabliers de baignoire), met en oeuvre des chapes, des sous-couches isolantes (phoniques et/ ou thermiques) et des systèmes d'imperméabilisation à l'eau sous carrelage.
 
-Il intervient souvent au sein d'une équipe et il reçoit des consignes précises afférentes aux travaux à exécuter. Il exerce son activité en locaux couverts mais aussi, parfois, à l'extérieur sur des chantiers de constructions neuves (pavillons, immeubles) et également en réhabilitation (particuliers, bâtiments publics). Il travaille quelquefois en hauteur et est souvent amené à manipuler des charges. Il doit, de ce fait, respecter les règles de sécurité concernant ces interventions.
+Il (elle) intervient souvent au sein d'une équipe et il (elle) reçoit des consignes précises afférentes aux travaux à exécuter. Il (elle) exerce son activité en locaux couverts mais aussi, parfois, à l'extérieur sur des chantiers de constructions neuves et également en réhabilitation (pavillons, immeubles, particuliers, bâtiments publics). Il (elle) travaille parfois en hauteur et est souvent amené (e) à manipuler des charges. Il (elle) doit, de ce fait, respecter les règles de sécurité concernant ces interventions.
 
 L'activité impose souvent des déplacements et le travail nécessite parfois des horaires adaptés (séchage des supports, prise de mortier...).
 
@@ -22,67 +22,69 @@ Capacités attestées et descriptif
 
 des composantes de la certification
 
-1. Poser à la colle des carreaux de différents
+1. Réaliser la pose collée, au sol et au mur,
 
-formats courants au sol et au mur en intérieur
+des carreaux courants et des plinthes en intérieur et extérieur
 
-Poser à la colle, au carrément sur un sol dur (neuf ou à réhabiliter), des carreaux de dimensions courantes.
+Préparer les supports neufs ou anciens en vue d'une pose collée.
 
-Réaliser la pose collée de plinthes droites.
+Mettre en oeuvre les sous-couches isolantes (phoniques et/ ou thermiques) et les systèmes d'imperméabilisation à l'eau sous carrelage.
 
-Réaliser la pose collée de revêtement céramique mural.
+Poser à la colle, au sol et au mur, des carreaux courants.
 
-Effectuer la mise en oeuvre des éléments spéciaux au sol et au mur (joints, profilés, baguettes).
+Mettre en oeuvre des profilés adaptés à la pose collée au sol et au mur.
 
-2. Poser sur chape fraîche en intérieur des carreaux
+Poser à la colle des plinthes droites et à talon.
 
-de différents formats courants
+2. Réaliser la pose scellée, sur chape,
 
-Poser au carrément sur chape fraîche des carreaux de dimensions courantes, sur un sol dur.
+des carreaux courants et des plinthes en intérieur et extérieur
 
-Réaliser la pose de plinthes à recouvrement.
+Réaliser des chapes talochées et lissées.
 
-Réaliser la pose de plinthes à gorge.
+Mettre en oeuvre les sous-couches isolantes spécifiques à la pose scellée.
 
-Réaliser la pose scellée de carrelage sur escaliers droits.
+Effectuer la pose scellée de carreaux courants.
 
-Réaliser la pose collée de plinthes sur escaliers droits.
+Mettre en oeuvre des profilés adaptés à la pose scellée.
 
-Poser des éléments spéciaux au sol (joints, profilés).
+Poser à la colle des plinthes droites et à talon.
 
-3. Préparer des supports verticaux et horizontaux
+3. Réaliser la construction et le carrelage d'ouvrages
 
-et réaliser des chapes
+Carreler des escaliers comprenant paliers et plinthes.
 
-Réaliser des reprises d'enduits de ciment.
+Réaliser la construction et le carrelage de modules d'aménagements (murets, cloisons de douche, coffres, plans de travail, tablettes, tabliers de baignoires...).
 
-Réaliser des enduits de ragréage sur murs en vue de poser du carrelage collé.
+Réaliser la construction et le carrelage de formes simples faisant fonction de receveur de douche.
 
-Réaliser des reprises d'enduits au plâtre.
+Certificat complémentaire de spécialisation (CCS)
 
-Réaliser des enduits de lissage et ragréage au sol en vue de poser du carrelage collé.
+Réaliser la pose de revêtements durs naturels
 
-Réaliser des chapes destinées à être revêtues par du carrelage collé.
+(marbre, granit, pierre) en intérieur et extérieur
 
-4. Construire des petits ouvrages destinés à être carrelés
+Préparer les supports neufs ou anciens en vue d'une pose collée ou scellée de revêtements durs naturels manufacturés (marbre, granit, pierre...).
 
-(murets, socles, tablettes, tabliers de baignoire)
+Préparer les supports verticaux neufs ou anciens en vue d'une pose collée ou agrafée-scellée de revêtements durs naturels.
 
-Construire des murets en briques ou agglomérés de ciment destinés à être revêtus de carrelage.
+Réaliser la pose collée de revêtements durs naturels manufacturés (marbre, granit, pierre...).
 
-Construire des socles en béton destinés à être revêtus de carrelage.
+Réaliser la pose scellée de revêtements durs naturels manufacturés (marbre, granit, pierre...).
 
-Construire des tablettes destinées à être revêtues de carrelage.
+Réaliser la pose verticale collée ou agrafée-scellée de revêtements durs naturels manufacturés ou façonnés à la demande (marbre, granit, pierre...).
 
-Construire des tabliers de baignoire destinés à être revêtus de carrelage.
+Réaliser l'habillage en revêtements durs naturels manufacturés (marbre, granit, pierre...) d'un escalier intérieur ou extérieur.
 
-Poser des éléments spéciaux : joints, profilés, baguettes, trappes de visite, siphons, tampons.
+Mettre en oeuvre des profilés adaptés à la pose au sol de revêtements durs naturels manufacturés (marbre, granit, pierre...).
 
-Secteurs d'activités ou types d'emploi
+Mettre en oeuvre des profilés adaptés à la pose verticale de revêtements durs naturels manufacturés (marbre, granit, pierre...).
 
-accessibles par le détenteur du titre
+Secteurs d'activités ou types d'emploi accessibles
 
-Moyennes entreprises du second oeuvre intervenant dans le domaine de l'aménagement-finitions.
+par le détenteur du titre
+
+Moyennes entreprises du second oeuvre intervenant dans le domaine de l'aménagement finitions.
 
 Entreprises de travail temporaire.
 
@@ -90,7 +92,7 @@ Services d'entretien de sociétés et de services publics.
 
 Code ROME :
 
-42231-Poseur/ poseuse de revêtements rigides.
+42231-Poseur (se) de revêtements rigides.
 
 Réglementation de l'activité :
 
@@ -102,8 +104,6 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
+Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
 
-Décret n° 2002-1029 du 2 août 2002 ;
-
-Arrêté du 25 novembre 2002.
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.
