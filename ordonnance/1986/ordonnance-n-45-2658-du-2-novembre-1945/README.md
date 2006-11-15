@@ -1,7 +1,4 @@
 # Ordonnance n° 45-2658 du 2 novembre 1945 relative aux conditions d'entrée et de séjour des étrangers en France
 
-- [Chapitre 1er : Dispositions générales concernant l'entrée et le séjour des étrangers en France.](chapitre-1er)
-- [Chapitre 5 : De l'expulsion.](chapitre-5)
-- [Chapitre 6 : Du regroupement familial.](chapitre-6)
 - [Chapitre 8 : Dispositions diverses.](chapitre-8)
 - [Chapitre 9 : Dispositions transitoires.](chapitre-9)
