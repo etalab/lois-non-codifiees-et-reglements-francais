@@ -236,7 +236,6 @@
 - [Décret n°99-1040 du 10 décembre 1999 (INTE9900285D)](decret-n99-1040-du-10-decembre-1999-inte9900285d)
 - [Décret n°99-1043 du 10 décembre 1999 (INTB9900246D)](decret-n99-1043-du-10-decembre-1999-intb9900246d)
 - [Décret n°99-178 du 10 mars 1999 (ECOM9900134D)](decret-n99-178-du-10-mars-1999-ecom9900134d)
-- [Décret n°99-179 du 10 mars 1999 (INTD9900038D)](decret-n99-179-du-10-mars-1999-intd9900038d)
 - [Décret n°99-180 du 10 mars 1999 (ECOF9920888D)](decret-n99-180-du-10-mars-1999-ecof9920888d)
 - [Décret n°99-490 du 10 juin 1999 (DEFP9852037D)](decret-n99-490-du-10-juin-1999-defp9852037d)
 - [Décret n°99-491 du 10 juin 1999 (FPPX9900034D)](decret-n99-491-du-10-juin-1999-fppx9900034d)

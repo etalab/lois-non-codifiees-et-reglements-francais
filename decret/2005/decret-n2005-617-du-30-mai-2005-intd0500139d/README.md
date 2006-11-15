@@ -2,4 +2,3 @@
 
 - [Chapitre Ier : Dispositions propres à la rétention administrative.](chapitre-ier)
 - [Chapitre IV : Dispositions transitoires et finales.](chapitre-iv)
-- [Article 25](article-25.md)

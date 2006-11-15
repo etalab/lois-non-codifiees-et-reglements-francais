@@ -162,7 +162,6 @@
 - [Décret n°87-761 du 16 septembre 1987 (MERR8700036D)](decret-n87-761-du-16-septembre-1987-merr8700036d)
 - [Décret n°87-765 du 16 septembre 1987 (ASES8701299D)](decret-n87-765-du-16-septembre-1987-ases8701299d)
 - [Décret n°87-767 du 16 septembre 1987 (TRST8700275D)](decret-n87-767-du-16-septembre-1987-trst8700275d)
-- [Décret n°87-844 du 16 octobre 1987 (ASEX8798510D)](decret-n87-844-du-16-octobre-1987-asex8798510d)
 - [Décret n°87-845 du 16 octobre 1987 (MAEF8710015D)](decret-n87-845-du-16-octobre-1987-maef8710015d)
 - [Décret du 17 novembre 1987 (RESY8700802D)](decret-du-17-novembre-1987-resy8700802d)
 - [Décret n°87-1007 du 17 décembre 1987 (DEFD8701873D)](decret-n87-1007-du-17-decembre-1987-defd8701873d)

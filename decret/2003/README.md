@@ -57,7 +57,6 @@
 - [Décret n°2003-611 du 2 juillet 2003 (SANS0321922D)](decret-n2003-611-du-2-juillet-2003-sans0321922d)
 - [Décret n°2003-612 du 2 juillet 2003 (SANS0321923D)](decret-n2003-612-du-2-juillet-2003-sans0321923d)
 - [Décret n°2003-630 du 2 juillet 2003 (MENS0301370D)](decret-n2003-630-du-2-juillet-2003-mens0301370d)
-- [Décret n°2003-841 du 2 septembre 2003 (JUSC0320469D)](decret-n2003-841-du-2-septembre-2003-jusc0320469d)
 - [Décret n°2003-842 du 2 septembre 2003 (JUSF0350082D)](decret-n2003-842-du-2-septembre-2003-jusf0350082d)
 - [Décret n°2003-844 du 2 septembre 2003 (JUSB0310333D)](decret-n2003-844-du-2-septembre-2003-jusb0310333d)
 - [Décret n°2003-845 du 2 septembre 2003 (MENF0301047D)](decret-n2003-845-du-2-septembre-2003-menf0301047d)
