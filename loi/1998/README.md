@@ -1,6 +1,5 @@
 # 1998
 
-- [Loi n° 52-893 du 25 juillet 1952](loi-n-52-893-du-25-juillet-1952)
 - [Loi n° 97-276 du 25 mars 1997 (JUSX9600122L)](loi-n-97-276-du-25-mars-1997-jusx9600122l)
 - [Loi n° 98-1144 du 16 décembre 1998 (MAEX9700123L)](loi-n-98-1144-du-16-decembre-1998-maex9700123l)
 - [Loi n° 98-1145 du 16 décembre 1998 (MAEX9700132L)](loi-n-98-1145-du-16-decembre-1998-maex9700132l)
