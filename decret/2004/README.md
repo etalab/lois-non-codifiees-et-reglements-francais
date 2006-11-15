@@ -1001,7 +1001,6 @@
 - [Décret n°2004-94 du 27 janvier 2004 (DOMB0300030D)](decret-n2004-94-du-27-janvier-2004-domb0300030d)
 - [Décret n°2004-95 du 27 janvier 2004 (DEFD0400045D)](decret-n2004-95-du-27-janvier-2004-defd0400045d)
 - [Décret n°91-1317 du 27 décembre 1991 (COMA9100020D)](decret-n91-1317-du-27-decembre-1991-coma9100020d)
-- [Décret n°82-442 du 27 mai 1982](decret-n82-442-du-27-mai-1982)
 - [Décret n°99-433 du 27 mai 1999 (ECOX9900037D)](decret-n99-433-du-27-mai-1999-ecox9900037d)
 - [Décret n°2004-454 du 27 mai 2004 (INTA0400135D)](decret-n2004-454-du-27-mai-2004-inta0400135d)
 - [Décret n°2004-458 du 27 mai 2004 (INTC0400121D)](decret-n2004-458-du-27-mai-2004-intc0400121d)
