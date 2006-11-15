@@ -158,6 +158,8 @@ Centre hospitalier universitaire de Grenoble, boulevard de la Chantourne, 38700 
 
 Service communal d'hygiène et de santé, 33, rue Joseph-Chanrion, 38000 Grenoble ;
 
+ISBA Santé Prévention, centre de vaccinations internationales, 31, rue des Glairons, 38400 Saint-Martin-d'Hères.
+
 40 - Landes
 
 Centre hospitalier de Dax, boulevard Yves-du-Manoir, BP 323, 40107 Dax Cedex ;
@@ -295,6 +297,8 @@ Centre hospitalier de Chambéry, pavillon Sainte-Hélène, 5, rue Pierre-et-Mari
 74 - Haute-Savoie
 
 Centre hospitalier, BP 2333, 1, avenue de Trésum, 74011 Annecy Cedex.
+
+Centre hospitalier de la région d'Annecy, centre de vaccination internationale, 1, avenue du Trésum, BP 2333, 74011 Annecy Cedex.
 
 75 - Paris
 
