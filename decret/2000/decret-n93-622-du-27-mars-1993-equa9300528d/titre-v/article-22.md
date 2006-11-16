@@ -1,0 +1,3 @@
+# Article 22
+
+Pour l'avancement des techniciens supérieurs des études et de l'exploitation de l'aviation civile issus du corps des techniciens supérieurs de l'aviation civile, les qualifications obtenues en application des dispositions du décret n° 75-961 du 25 septembre 1975 relatif au statut particulier des techniciens supérieurs de l'aviation civile pour l'avancement aux grades de technicien supérieur et de chef technicien sont assimilées à celles exigées respectivement pour l'avancement aux grades de technicien de classe principale et de technicien de classe exceptionnelle, en application des articles 11 et 12 ci-dessus.
