@@ -1,3 +1,0 @@
-# Article 4
-
-La sous-direction des missions de protection judiciaire et d'éducation élabore les réflexions et les normes juridiques ainsi que les références pédagogiques et institutionnelles intéressant la protection de l'enfance et de la jeunesse, la prévention et le traitement de la délinquance juvénile, dans le cadre des compétences du ministère de la justice. Elle assure le pilotage national des activités de protection judiciaire confiées aux structures quel qu'en soit le statut. Elle suit l'ensemble des dossiers relevant de sa compétence au plan international et est associée aux négociations ainsi qu'au traitement du contentieux européen et international concernant la protection judiciaire de la jeunesse. Elle traite les autres contentieux concernant la direction.

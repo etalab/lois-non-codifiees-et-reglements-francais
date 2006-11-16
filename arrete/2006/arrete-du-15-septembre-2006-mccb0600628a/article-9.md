@@ -1,3 +1,0 @@
-# Article 9
-
-Lorsque deux ou plusieurs établissements du ministère chargé de la culture occupant un même site ne sont pas isolés entre eux selon les dispositions de l'arrêté du 25 juin 1980 susvisé, ils forment un groupement d'exploitations, au sens de l'article R. 123-21 du code de la construction et de l'habitation, qui est placé sous une responsabilité unique en matière de sécurité. Dans ce cas, les responsables des établissements concernés désignent d'un commun accord la personne interlocutrice vis-à-vis de l'administration dans le domaine de la sécurité contre l'incendie. Cette personne doit avoir son lieu de travail principal dans un bâtiment du site dont elle a la charge. Le préfet du département est informé de cette désignation.

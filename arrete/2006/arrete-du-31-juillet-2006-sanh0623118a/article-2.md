@@ -1,7 +1,0 @@
-# Article 2
-
-Le candidat retire, selon le cas, auprès de la direction régionale des affaires sanitaires et sociales du lieu du centre de formation préparant au diplôme de préparateur en pharmacie hospitalière dont relève le département de son domicile, tel que figurant en annexes II et III du présent arrêté, de la direction de la santé et du développement social ou de l'organisme chargé de la réception des candidatures, un livret de recevabilité de la demande de validation des acquis de l'expérience dont le modèle figure en annexe IV du présent arrêté.
-
-Le candidat transmet, selon le cas, à la direction régionale des affaires sanitaires et sociales du lieu du centre de formation préparant au diplôme de préparateur en pharmacie hospitalière dont relève le département de son domicile, à la direction de la santé et du développement social, à l'organisme chargé de la réception des candidatures, le livret de recevabilité de la demande de VAE dûment complété avec les pièces justificatives demandées et une attestation sur l'honneur par laquelle il indique n'avoir pas déposé d'autre demande de VAE pour ce diplôme.
-
-A compter de la réception du livret, la direction régionale des affaires sanitaires et sociales ou la direction de la santé et du développement social ou l'organisme chargé de la réception des candidatures concerné dispose d'un délai de deux mois pour notifier sa décision au candidat. L'absence de réponse dans ce délai vaut décision implicite de rejet.

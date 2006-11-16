@@ -1,3 +1,0 @@
-# Article 6
-
-Le montant de la subvention est fixé forfaitairement à 1 000 euros par exploitation qualifiée au titre de l'agriculture raisonnée, répondant aux critères d'éligibilité à l'aide définis aux articles 4 et 5. Pour les groupements agricoles d'exploitation en commun (GAEC), l'aide est fixée à 1 000 euros quel que soit le nombre d'exploitations regroupées existantes avant la création du groupement. Il ne peut être accordé qu'une seule aide par exploitation au titre de cette opération. Le changement de forme juridique de l'exploitation ayant bénéficié de l'aide forfaitaire n'ouvre pas droit à une nouvelle aide.

@@ -1,7 +1,0 @@
-# Article 1
-
-Pour obtenir le remboursement partiel de sa contribution aux charges de service public de l'électricité mentionné à l'article 12 bis du décret du 28 janvier 2004 susvisé, la société concernée adresse une demande à la Commission de régulation de l'énergie avant le 30 avril de l'année qui suit celle au cours de laquelle la contribution a été recouvrée. La demande de remboursement, effectuée à l'aide d'un formulaire disponible sous forme électronique auprès de la Commission de régulation de l'énergie, est signée par un responsable de la société, dûment habilité à cet effet. Cette demande est accompagnée d'un relevé d'identité bancaire ou postal et, le cas échéant, de la copie de la demande de plafonnement de la taxe professionnelle en fonction de la valeur ajoutée adressée aux services fiscaux en application de l'article 1647 B sexies du code général des impôts ou du tableau de calcul de valeur ajoutée, souscrit en application du 3° du II de l'article 38 de l'annexe III au code général des impôts.
-
-Lorsque le document fiscal mentionné à l'alinéa précédent ne porte pas sur une année civile, le demandeur joint à ce document un tableau, établi sous sa responsabilité, indiquant, d'une part, la valeur ajoutée déclarée aux services fiscaux pour l'année civile au titre de laquelle il sollicite le plafonnement de sa contribution et, d'autre part, la valeur ajoutée constatée pour le reste de la même année civile.
-
-Une copie du formulaire précité est adressée à la Caisse des dépôts et consignations.

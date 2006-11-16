@@ -1,5 +1,0 @@
-# Article 20
-
-Tout bovin reconnu non indemne de leucose bovine enzootique selon la définition de l'article 12, à l'occasion d'une transaction commerciale, doit être marqué, sur les lieux mêmes où il se trouve, dans les quinze jours qui suivent la notification du diagnostic, sauf dans le cas où une rédhibition judiciaire est intentée. Ces animaux sont transportés directement, sans rupture de charge et sous couvert d'un laissez-passer - titre d'élimination, depuis l'exploitation de départ jusqu'à l'abattoir.
-
-Dans le cas de rédhibition amiable, le marquage du bovin non indemne peut être pratiqué, après accord des deux parties, soit chez l'acheteur, soit chez le vendeur qui reprend possession de l'animal. Dans ce dernier cas, et par dérogation accordée par le directeur des services vétérinaires, l'obligation de marquage peut être suspendue le temps que le bovin rejoigne, sous couvert d'un laissez-passer, l'exploitation de son propriétaire, sans pour autant que le délai de quinze jours défini à l'alinéa précédent soit prolongé.

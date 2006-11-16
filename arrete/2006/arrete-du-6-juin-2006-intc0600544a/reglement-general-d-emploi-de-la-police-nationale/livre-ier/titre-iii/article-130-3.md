@@ -1,5 +1,0 @@
-# Article 130-3
-
-Les adjoints de sécurité entrent en fonction après avoir suivi le parcours d'une formation professionnelle initiale dont les modalités sont fixées par les dispositions de l'arrêté interministériel précité du 24 août 2000.
-
-Ceux d'entre eux qui ont été retenus pour suivre la filière  cadets de la République, option police nationale  bénéficient d'une formation initiale spécifique, dispensée en alternance par une structure de formation de la police nationale et un établissement relevant de l'éducation nationale, visant à les préparer, d'une part, à l'exercice des fonctions d'adjoint de sécurité et, d'autre part, aux épreuves du second concours de gardien de la paix, auquel ils peuvent se présenter en application du b) de l'article 6 du décret n° 2004-1439 du 23 décembre 2004 portant statut particulier du corps d'encadrement et d'application de la police nationale. L'appellation de  cadets de la République, option police nationale  leur est alors conférée pour la durée de cette formation professionnelle initiale.

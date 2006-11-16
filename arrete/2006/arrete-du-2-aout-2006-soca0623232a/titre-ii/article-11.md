@@ -1,3 +1,0 @@
-# Article 11
-
-Une instance technique et pédagogique est mise en place par l'établissement de formation. Elle est composée du responsable de la formation, d'un représentant de l'établissement de formation signataire de la convention de coopération, des représentants du secteur professionnel, des étudiants et de personnalités qualifiées. Elle veille à la mise en oeuvre du projet pédagogique et aux conditions générales d'organisation de la formation. Elle émet un avis sur le protocole d'allègement mentionné à l'article 9 du présent arrêté. Dans les établissements de formation assurant plusieurs formations préparant aux diplômes du travail social, cette instance peut être organisée à partir de celles déjà mises en place.

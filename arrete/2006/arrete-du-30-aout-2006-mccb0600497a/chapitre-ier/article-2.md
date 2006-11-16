@@ -1,3 +1,0 @@
-# Article 2
-
-L'épreuve d'admissibilité du concours exceptionnel pour l'accès au corps des adjoints techniques d'accueil, de surveillance et de magasinage est constituée d'un questionnaire à choix multiple portant sur les connaissances professionnelles propres aux fonctions d'un adjoint technique et de trois questions à réponses courtes à caractère professionnel. Les sujets de cette épreuve relèvent d'une des cinq dominantes du métier suivantes, au choix du candidat exprimé lors de l'inscription : sécurité et accueil du public, présentation d'une visite guidée d'un monument historique, d'un musée ou d'un château, intégration sur rayonnage et récolement, établissement d'un tableau de service, conservation du patrimoine écrit (durée : deux heures ; coefficient 2).

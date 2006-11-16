@@ -1,3 +1,0 @@
-# Article 3
-
-La division des relations internationales a pour mission de gérer la section centrale de coopération opérationnelle de police, qui regroupe les outils de coopération opérationnelle de police (bureau central national France d'Interpol, les outils Schengen, système d'information Schengen, bureau SIRENE France et unité centrale de coopération policière internationale, unité nationale Europol), au bénéfice des autorités judiciaires et de l'ensemble des services de sécurité intérieure. Elle contribue également à l'élaboration d'une doctrine et veille au suivi des procédures de coopération opérationnelle et technique au plan multilatéral comme dans les relations bilatérales.

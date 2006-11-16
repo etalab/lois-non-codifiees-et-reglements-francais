@@ -1,3 +1,0 @@
-# Article 122-10
-
-Les agents spécialisés principaux et les agents spécialisés de police technique et scientifique en fonction dans la police nationale y exécutent, dans les conditions évoquées à l'article 122-7 ci-dessus du présent règlement général d'emploi, des tâches techniques et scientifiques sous l'autorité de l'ingénieur, du technicien ou de tout autre fonctionnaire chargé de la direction du service ou de l'encadrement de l'unité spécialisée de police technique et scientifique où ils sont affectés. Les agents spécialisés confirmés ou principaux ont vocation à seconder ou suppléer les techniciens ou tout autre responsable d'unité spécialisée de police technique et scientifique. Leurs conditions d'emploi sont précisées par une instruction.

@@ -1,3 +1,0 @@
-# Article 7
-
-La sous-direction des ressources et des études est chargée d'assurer le suivi et la coordination des questions d'intérêt fondamental ou transversal à l'ensemble de la police judiciaire et contribue ainsi à l'élaboration de la doctrine de celle-ci. A cette fin, elle mène ou coordonne les travaux de la direction centrale de la police judiciaire aux plans juridique, statistique, technique, structurel ou prospectif Elle élabore, coordonne et met en oeuvre, d'une part, la politique de ressources humaines et des moyens et, d'autre part, la politique de formation et de communication interne. Elle assure le contrôle de gestion et le contrôle technique des services.

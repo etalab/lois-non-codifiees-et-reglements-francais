@@ -1,6 +1,0 @@
-# Arrêté du 20 décembre 2005 relatif aux tables de mortalité.
-
-- [Article 5](article-5.md)
-- [Article 6](article-6.md)
-- [Article 7](article-7.md)
-- [Article 8](article-8.md)

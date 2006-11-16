@@ -1,3 +1,0 @@
-# Article 122-3
-
-Les personnels du corps des attachés de la police nationale exercent, sous l'autorité du chef de service auprès duquel ils sont affectés, des fonctions de gestion des ressources humaines, financières ou logistiques, dans l'ensemble des structures de la police nationale. L'accomplissement de ces fonctions comporte l'exercice de prérogatives tant d'encadrement des personnels de toutes catégories placés sous leur autorité, à l'égard desquels ils disposent de l'autorité hiérarchique et fonctionnelle, que de direction administrative des services, notamment administratifs, logistiques ou financiers. Ils peuvent être également chargés d'actions de formation.

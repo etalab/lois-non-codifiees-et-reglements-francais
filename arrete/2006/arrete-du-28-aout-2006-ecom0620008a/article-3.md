@@ -1,3 +1,0 @@
-# Article 3
-
-Pour justifier des capacités professionnelles, techniques et financières d'autres opérateurs économiques sur lesquels il s'appuie pour présenter sa candidature en application du III de l'article 45 du code des marchés publics ou du I de l'article 17 du décret du 30 décembre 2005 susvisé, le candidat produit les mêmes documents concernant cet opérateur économique que ceux qui lui sont exigés par le pouvoir adjudicateur. En outre, pour justifier qu'il dispose des capacités de cet opérateur économique pour l'exécution du marché, le candidat produit un engagement écrit de l'opérateur économique.

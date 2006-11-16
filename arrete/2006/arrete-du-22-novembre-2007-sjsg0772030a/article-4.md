@@ -1,6 +1,0 @@
-# Article 4
-
-A modifié les dispositions suivantes :
-
-> Arrêté du 15 décembre 2006
-> > Art. 17-1, Art. 17-2

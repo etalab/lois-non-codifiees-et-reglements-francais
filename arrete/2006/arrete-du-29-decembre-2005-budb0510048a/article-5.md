@@ -1,3 +1,0 @@
-# Article 5
-
-L'autorité chargée du contrôle financier évalue, dans le champ de compétence qui est le sien, les circuits et procédures qui engendrent les actes de dépense et le plan prévisionnel des effectifs. Elle précise au gestionnaire son programme annuel d'évaluation, en fonction de la nature des actes. Les conclusions de cette évaluation sont transmises au gestionnaire et, lorsqu'elle est réalisée au niveau central, au responsable de programme et au directeur des affaires financières et de la logistique. Si l'évaluation est réalisée en service déconcentré, elle peut être transmise, en outre, au contrôleur budgétaire et comptable ministériel.

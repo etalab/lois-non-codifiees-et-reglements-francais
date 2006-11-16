@@ -1,3 +1,0 @@
-# Article 16
-
-Sont abrogés l'arrêté du 10 septembre 1997 fixant les modalités de la consultation des personnels administratifs organisée pour déterminer la représentativité des organisations syndicales appelées à être représentées au sein du comité technique paritaire spécial et du comité d'hygiène et de sécurité spécial des chambres régionales et territoriales des comptes et l'arrêté du 25 septembre 1997 fixant les modalités de la consultation des personnels administratifs organisée pour déterminer la représentativité des organisations syndicales appelées à être représentées au sein du comité technique paritaire spécial et du comité d'hygiène et de sécurité spécial de la Cour des comptes.

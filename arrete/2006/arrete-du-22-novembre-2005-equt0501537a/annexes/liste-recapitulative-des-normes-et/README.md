@@ -1,3 +1,0 @@
-# LISTE RÉCAPITULATIVE DES NORMES ET TEXTES CITÉS.
-
-- [Article ANNEXE 2](article-annexe-2.md)

@@ -1,9 +1,0 @@
-# Article 3
-
-Les informations traitées concernant chacun des salariés de l'échantillon tiré au sein de chaque établissement enquêté sont respectivement :
-
-1. S'agissant des éléments d'identification du salarié (informations préimprimées sur les questionnaires) : nom, nom marital et prénom, sexe, année et mois de naissance constituant les cinq premiers chiffres du numéro de sécurité sociale du salarié.
-
-2. S'agissant des informations recueillies auprès de l'établissement : rémunération brute annuelle et ses composantes ; épargne salariale ; coût du travail ; augmentations de salaires ; volume de travail rémunéré et effectivement travaillé ; condition d'emploi (quotité, contrat de travail...) ; caractéristiques de l'emploi occupé (emploi, niveau de qualification, encadrement...) ; autres caractéristiques individuelles (ancienneté, diplôme).
-
-3. S'agissant des informations obtenues dans les DADS de l'année de référence de l'enquête : rémunération annuelle en espèces et en nature, avant et après déduction des cotisations sociales ; compléments de rémunération (avantages en nature, indemnités, primes) ; coût du travail (assiettes, régimes d'assurances sociales, cotisations et autres contributions, nature des exonérations, impôts sur les rémunérations...) ; nature de l'emploi (profession, qualification, grade (pour les fonctionnaires), statut professionnel et catégoriel, convention collective, catégorie socioprofessionnelle) ; condition d'emploi (quotité, type d'emploi, type et nature du contrat de travail, titulaire...) ; périodes d'emploi ; temps de travail (heures rémunérées, travaillées, chômage partiel) ; nationalité en trois postes (français, étranger de l'Union européenne, étranger hors Union européenne) et caractère frontalier du travailleur ; variables de production des traitements DADS (indicateurs de redressement, caractérisation des périodes et des postes).

@@ -1,9 +1,0 @@
-# Article 113-32
-
-Sous réserve des dispositions particulières applicables dans les délégations du service de coopération technique internationale de police (SCTIP) à l'étranger, l'accomplissement permanent, par les fonctionnaires de police travaillant en régime hebdomadaire (calqué sur la semaine civile), d'un service d'une durée conduisant à dépasser le volume horaire annuel maximum de travail effectif autorisé par la réglementation en vigueur dans la fonction publique de l'Etat, leur donne droit à l'attribution, dans des conditions fixées par l'instruction générale relative à l'organisation du travail dans la police nationale, d'un crédit annuel de jours de repos compensateurs dits  jours ARTT  (aménagement et réduction du temps de travail), au nombre desquels trois, au minimum, sont indemnisés dans des conditions fixées par décret.
-
-Les fonctionnaires admis à faire valoir leurs droits à la retraite ou ceux ayant pris leurs fonctions en cours d'année ont droit à un crédit annuel de jours ARTT proportionnel à leur temps de présence en service durant l'année, calculé par périodes de quinze jours. Cette même règle s'applique aux droits ARTT des fonctionnaires qui n'ont servi en France que durant une partie de l'année civile, du fait d'une affectation à l'étranger ou d'un retour d'affectation à l'étranger.
-
-Sous réserve des dispositions relatives au compte épargne-temps dans la police nationale, le crédit annuel précité de jours de repos compensateurs est utilisé dans l'année civile au titre de laquelle il est attribué.
-
-Le nombre de jours ARTT attribué aux fonctionnaires actifs des services de la police nationale qui exercent leurs fonctions à temps partiel est proratisé à hauteur de leur quotité de travail. Une instruction particulière précise les règles applicables à cet égard, ainsi que celles relatives à la modulation des droits à l'acquisition de tels repos compensateurs en conséquence de certaines situations d'absence du service.

@@ -1,5 +1,0 @@
-# Article 26
-
-Le diplôme professionnel d'auxiliaire de puériculture est délivré par le préfet de région dans laquelle l'étudiant a accompli sa formation, sur leur demande, aux étudiants sages-femmes qui, après avoir été admis en deuxième année, ont interrompu leurs études, soit en cours de formation, soit à l'issue d'un échec au diplôme d'Etat. Cette disposition est applicable pour les étudiants sages-femmes ayant suivi leurs études dans le cadre du programme des études défini par l'arrêté du 11 décembre 2001 susvisé ou dans le cadre du programme des études antérieur à celui-ci.
-
-Ces étudiants doivent cependant, à la date de leur demande, avoir effectué et validé, sous la responsabilité d'un directeur d'un institut de formation d'auxiliaires de puériculture, les semaines de stage correspondant aux unités de formation 1 et 3 du référentiel de formation, dont au moins une période dans une structure d'accueil pour enfants de moins de six ans ou pour enfants atteints d'un handicap et une période dans une structure sanitaire.

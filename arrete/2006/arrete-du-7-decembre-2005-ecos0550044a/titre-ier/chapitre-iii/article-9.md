@@ -1,3 +1,0 @@
-# Article 9
-
-Le concours option mathématiques comporte des épreuves écrites d'admissibilité et des épreuves orales d'admission. L'organisation des épreuves écrites et orales est commune avec celle de la totalité des épreuves obligatoires et facultatives de la filière mathématiques et physique (MP) du concours commun d'admission à l'Ecole nationale des ponts et chaussées et aux écoles nationales supérieures de l'aéronautique et de l'espace, de techniques avancées, des télécommunications, des mines de Paris, des mines de Saint-Etienne, des mines de Nancy et des télécommunications de Bretagne, dit concours commun Mines-Ponts, défini par l'arrêté du 26 avril 2002 susvisé.

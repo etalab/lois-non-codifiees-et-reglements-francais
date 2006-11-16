@@ -1,3 +1,0 @@
-# Article 6
-
-Lorsque le résultat de l'examen médical visé à l'article 1er du présent arrêté fait apparaître que l'étranger souffre d'une affection nécessitant des soins, un certificat médical spécifique contenant les conclusions de cet examen est établi en triple exemplaire. Le médecin ayant pratiqué l'examen en remet un exemplaire à l'intéressé, en transmet un autre au médecin chef de l'Agence nationale de l'accueil des étrangers et des migrations et, à la demande de l'intéressé, un troisième exemplaire du certificat médical est transmis à son médecin traitant. Ce certificat contenant des informations à caractère médical est transmis sous pli confidentiel fermé avec la mention " secret médical ".

@@ -1,7 +1,0 @@
-# Article 2
-
-Le bénéficiaire d'une autorisation de prélèvement est tenu de respecter les dispositions et valeurs figurant dans son arrêté préfectoral d'autorisation.
-
-En outre, lors de la réalisation d'un prélèvement, le bénéficiaire de l'autorisation de prélèvement ne doit en aucun cas dépasser les seuils de déclaration ou d'autorisation des autres rubriques de la nomenclature sans en avoir fait au préalable la déclaration ou la demande d'autorisation et avoir obtenu le récépissé de déclaration ou l'autorisation, notamment en ce qui concerne les rubriques 1.1.1.0 relative aux sondage, forage, création de puits ou d'ouvrage souterrain permettant le prélèvement d'eau souterraine et 3.1.1.0, 3.1.2.0 relatives aux ouvrages en rivière et modifications physiques des cours d'eau.
-
-Toute modification notable apportée par le bénéficiaire de l'autorisation aux ouvrages ou installations de prélèvement, à leur localisation, leur mode d'exploitation, aux caractéristiques principales du prélèvement lui-même (débit, volume, période), tout changement de type de moyen de mesure ou de mode d'évaluation de celui-ci ainsi que tout autre changement notable des éléments du dossier de demande d'autorisation ou de l'autorisation elle-même doit être porté, avant sa réalisation, à la connaissance du préfet. Celui-ci peut, selon les cas, prendre par arrêté préfectoral des prescriptions complémentaires ou exiger le dépôt d'une nouvelle demande d'autorisation.

@@ -1,3 +1,0 @@
-# Article 1
-
-Les contrats d'objectifs mentionnés au deuxième alinéa de l'article R. 822-1 du code rural définissent les orientations que doivent respecter les projets de programmes des chambres régionales d'agriculture, de l'Assemblée permanente des chambres d'agriculture et des instituts et centres techniques agricoles mentionnés au deuxième alinéa de l'article L. 830-1 du code rural. Ils visent notamment à favoriser le travail en réseau et les projets communs prévus à l'article L. 800-1 du code rural. Ils fixent des indicateurs de suivi et d'évaluation des actions prévues par ces programmes.

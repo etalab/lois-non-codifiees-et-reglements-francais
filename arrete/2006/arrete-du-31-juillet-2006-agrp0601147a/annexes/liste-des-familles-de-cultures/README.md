@@ -1,3 +1,0 @@
-# LISTE DES FAMILLES DE CULTURES : MENTIONNÉES À L'ARTICLE 4.
-
-- [Article ANNEXE II](article-annexe-ii.md)

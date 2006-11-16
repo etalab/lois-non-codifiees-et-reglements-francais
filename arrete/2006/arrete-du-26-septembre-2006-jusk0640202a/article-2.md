@@ -1,3 +1,0 @@
-# Article 2
-
-Cette formation, d'une durée de treize semaines en alternance, est adaptée au profil professionnel du fonctionnaire et à la catégorie d'établissement ou de service d'emploi. Les objectifs de la formation dans sa partie individualisée sont déterminés par l'analyse des besoins en formation effectuée préalablement avec le fonctionnaire nouvellement promu. Elle comprend des enseignements dispensés à l'Ecole nationale d'administration pénitentiaire, notamment par simulation et des stages dans les services relevant de l'administration pénitentiaire, dont les services d'insertion et de probation ou dans des administrations publiques ou associées au service public pénitentiaire.

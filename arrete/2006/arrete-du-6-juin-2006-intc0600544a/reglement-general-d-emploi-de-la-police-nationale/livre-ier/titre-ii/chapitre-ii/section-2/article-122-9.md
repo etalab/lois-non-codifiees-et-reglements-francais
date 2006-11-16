@@ -1,3 +1,0 @@
-# Article 122-9
-
-Les techniciens en chef, les techniciens principaux et les techniciens de police technique et scientifique secondent ou suppléent les fonctionnaires du corps des ingénieurs de police technique et scientifique dans l'exécution des missions évoquées à l'article 122-7 ci-dessus du présent règlement général d'emploi. Ils peuvent se voir confier la direction d'un service ou unité de la police nationale chargé de missions de police technique et scientifique et ont dès lors autorité sur l'ensemble des personnels actifs, scientifiques, techniques et administratifs affectés dans ce service ou cette unité.

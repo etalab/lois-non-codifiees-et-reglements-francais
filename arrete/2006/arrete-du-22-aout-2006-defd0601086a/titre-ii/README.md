@@ -1,4 +1,0 @@
-# TITRE II : AUTORITÉS ET ORGANISMES DIRECTEMENT SUBORDONNÉS AU CHEF D'ÉTAT-MAJOR DE LA MARINE.
-
-- [Article 11](article-11.md)
-- [Article 12](article-12.md)

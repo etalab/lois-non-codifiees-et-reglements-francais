@@ -1,3 +1,0 @@
-# Article 283-4
-
-Les fonctionnaires du corps de commandement de la police nationale occupent des postes d'adjoint à chef de bureau, de chef de centre, de chef de section, des fonctions de formateur, d'auditeur, de concepteur-évaluateur en formation, d'ingénierie de formation. Ils peuvent également occuper des emplois de conseil, d'expert ou de technicien en applications policières, de chef de centre de formation de la police, d'adjoint au directeur d'une école nationale de police, être chargés du commandement de structures internes, d'une délégation régionale au recrutement et à la formation ou d'un centre régional de formation. Lorsqu'ils occupent des emplois d'adjoint au directeur d'une école nationale de police, ils assurent l'intérim du chef de structure.

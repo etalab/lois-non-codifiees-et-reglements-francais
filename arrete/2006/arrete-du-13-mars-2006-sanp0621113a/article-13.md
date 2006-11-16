@@ -1,3 +1,0 @@
-# Article 13
-
-A compter du 1er janvier 2008, sont seuls habilités à effectuer des prélèvements sanguins en dehors du laboratoire ou des services d'analyses de biologie médicale en vue de telles analyses et sur prescription médicale, au domicile du patient ou dans un établissement de soins privé ou public, les techniciens titulaires du certificat de capacité pour effectuer des prélèvements sanguins délivré au vu de la réussite aux trois épreuves mentionnées à l'article 1er du présent arrêté et justifiant ainsi de l'attestation de formation aux gestes et soins d'urgence de niveau 2 en cours de validité.

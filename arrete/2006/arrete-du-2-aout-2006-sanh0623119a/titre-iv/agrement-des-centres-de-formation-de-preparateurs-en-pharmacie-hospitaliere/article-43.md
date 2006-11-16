@@ -1,3 +1,0 @@
-# Article 43
-
-Sont réputés agréés en qualité de centres de formation de préparateurs en pharmacie hospitalière, à la date d'entrée en vigueur du présent arrêté, l'Assistance publique-hôpitaux de Paris, les hospices civils de Lyon, l'Assistance publique-hôpitaux de Marseille, le centre hospitalier universitaire de Lille, le centre hospitalier universitaire de Bordeaux, le centre hospitalier universitaire de Tours, le centre hospitalier régional de Metz-Thionville et le centre hospitalier de Basse-Terre, pour une durée de cinq ans. Le dossier de renouvellement de cet agrément est présenté au plus tard dix-huit mois avant le terme de cette durée.

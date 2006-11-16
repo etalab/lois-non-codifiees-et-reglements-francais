@@ -1,3 +1,0 @@
-# PROGRAMME ET DURÉE DE LA FORMATION DES GARDES PARTICULIERS.
-
-- [Article ANNEXE 1](article-annexe-1.md)

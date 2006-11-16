@@ -1,5 +1,0 @@
-# Article 2
-
-Pour les maîtres admis au bénéfice de l'avantage temporaire de retraite ou de l'allocation temporaire de cessation anticipée d'activité, la pension versée au titre du régime additionnel de retraite est égale à la fraction fixée à l'article 7 du décret du 30 septembre 2005 susvisé du montant des avantages temporaires de retraite servis par l'Etat.
-
-Pour les maîtres admis directement au bénéfice d'une pension de vieillesse du régime général de la sécurité sociale ou du régime des assurances sociales agricoles, la pension versée au titre du régime additionnel de retraite est égale à la fraction fixée à l'article 7 du décret du 30 septembre 2005 susvisé des sommes perçues au titre des pensions de vieillesse du régime général de la sécurité sociale, du régime des assurances sociales agricoles, des régimes de retraite complémentaire obligatoires proratisées à raison des périodes de services qui auraient été retenues, à la date de liquidation de cette pension, s'ils avaient été admis au bénéfice de l'avantage temporaire de retraite ou de l'allocation temporaire de cessation anticipée d'activité.

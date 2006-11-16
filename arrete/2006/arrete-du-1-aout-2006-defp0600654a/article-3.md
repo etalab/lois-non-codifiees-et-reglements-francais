@@ -1,3 +1,0 @@
-# Article 3
-
-L'arrêté du 15 décembre 1999 fixant la liste des indemnités attribuées aux techniciens paramédicaux civils du service de santé des armées, l'arrêté du 15 décembre 1999 fixant la liste des indemnités attribuées aux préparateurs en pharmacie civils du service de santé des armées, l'arrêté du 31 juillet 2003 fixant le montant de la prime d'encadrement attribuée à certains préparateurs en pharmacie civils du service de santé des armées et l'arrêté du 31 juillet 2003 fixant le montant de la prime d'encadrement attribuée à certains techniciens paramédicaux civils du service de santé des armées sont abrogés.

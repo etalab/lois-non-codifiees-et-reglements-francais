@@ -1,3 +1,0 @@
-# Article 1
-
-En application de l'article D. 351-12 du code de l'éducation, des enseignants titulaires du certificat d'aptitude professionnelle pour les aides spécialisées, les enseignements adaptés et la scolarisation des élèves en situation de handicap ou du certificat complémentaire pour les enseignements adaptés et la scolarisation des élèves en situation de handicap sont désignés par l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, sous l'autorité duquel ils sont placés, pour exercer les fonctions d'enseignants référents définies par l'article précité.

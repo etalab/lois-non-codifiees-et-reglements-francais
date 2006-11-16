@@ -1,3 +1,0 @@
-# LISTE INDICATIVE DES IOTA CONCERNÉS PAR LA RUBRIQUE 3.3.1.
-
-- [Article ANNEXE](article-annexe.md)

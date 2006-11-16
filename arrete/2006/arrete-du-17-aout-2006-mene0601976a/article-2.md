@@ -1,3 +1,0 @@
-# Article 2
-
-L'enseignant référent est, au sein de l'éducation nationale, l'acteur central des actions conduites en direction des élèves handicapés. Il est l'interlocuteur privilégié des parents ou des représentants légaux de chaque élève handicapé fréquentant dans son secteur d'intervention un établissement scolaire ou une unité d'enseignement définie par l'article D. 351-17 du code de l'éducation, ou suivant une scolarité à domicile dans le même secteur, ou suivant une scolarité en milieu hospitalier. Il assure auprès de ces familles une mission essentielle d'accueil et d'information. Il se fait connaître d'elles et s'assure qu'elles connaissent ses coordonnées postale et téléphonique.

@@ -1,3 +1,0 @@
-# PROTOCOLE DE CONTRÔLE DES LAVEUSES D'ÉCHANTILLONS.
-
-- [Article ANNEXE IV](article-annexe-iv.md)

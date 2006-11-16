@@ -1,3 +1,0 @@
-# Article 2
-
-Dans un délai de six mois à compter de la promulgation du présent arrêté, La Française des jeux soumet à l'approbation du ministre en charge du budget un plan d'actions en vue de prévenir le jeu excessif et de favoriser une pratique raisonnable du jeu. Ce plan comporte notamment des actions d'information des joueurs et de formation des détaillants. Il précise les mesures que prend La Française des jeux pour répondre aux objectifs mentionnés aux articles 1ers des décrets susvisés relatifs aux mineurs de moins de seize ans. Avant le 1er décembre de chaque année, La Française des jeux rend compte au ministre chargé du budget de l'exécution du plan de l'année en cours et lui présente l'actualisation de celui-ci pour l'année à venir.

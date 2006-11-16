@@ -1,3 +1,0 @@
-# Article 6
-
-Le comité peut entendre tout représentant de l'administration de La Française des jeux ou toute autre personne dont il jugerait utile de recueillir l'avis dans le cadre de sa mission. Il se fait communiquer par La Française des jeux les informations nécessaires à l'exercice de sa mission. Il peut demander à La Française des jeux de procéder à des études, ou d'en confier la réalisation à des experts extérieurs, selon les modalités qu'il détermine, dans les conditions prévues aux articles 19 des décrets susvisés. Les membres du comité, ainsi que toute autre personne appelée à assister aux réunions, sont tenus à la confidentialité des informations qui leur sont fournies dans l'exercice de leur mission.

@@ -1,3 +1,0 @@
-# Article 1
-
-Les dispositions du décret du 8 juillet 1992 susvisé sont applicables à compter de la date de parution du présent arrêté aux conduits de cheminée à paroi intérieure en terre cuite/céramique tels que définis par la norme européenne harmonisée NF EN 13063-2, aux enveloppes extérieures en terre cuite/céramique pour conduits de fumée telles que définies par la norme européenne harmonisée NF EN 13069, aux matériaux pour conduits intérieurs en terre cuite tels que définis par la norme européenne harmonisée NF EN 13084-5 et aux systèmes de conduits de fumée avec conduits intérieurs en plastique tels que définis par la norme européenne harmonisée NF EN 14471.

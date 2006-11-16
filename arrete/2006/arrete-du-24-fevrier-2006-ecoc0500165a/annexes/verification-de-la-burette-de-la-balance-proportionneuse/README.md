@@ -1,3 +1,0 @@
-# VÉRIFICATION DE LA BURETTE DE LA BALANCE PROPORTIONNEUSE.
-
-- [Article ANNEXE II](article-annexe-ii.md)
