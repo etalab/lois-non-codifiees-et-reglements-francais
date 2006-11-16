@@ -1,73 +1,75 @@
 # Article 3
 
-Le programme de l'épreuve d'admissibilité n° 2 est fixé comme suit :
+Le programme de l'épreuve d'admissibilité n° 2 (expertise technique) est fixé comme suit :
 
-Recouvrement de l'impôt direct :
+I. - Missions se rattachant au budget de l'Etat
 
-Organisation générale ;
+dans le cadre de l'exécution des lois de finances
 
-Cadres juridiques et réglementaires ;
+a) Recouvrement des produits de l'Etat : organisation et procédures :
 
-Cadres techniques et comptables.
+- impôts directs : organisation interne et liaisons avec les services centraux et déconcentrés de la direction générale des impôts ;
 
-Exécution des dépenses de l'Etat :
+- amendes et condamnations pécuniaires ;
 
-Les règles générales de l'exécution des dépenses de l'Etat (la procédure normale d'exécution, le rôle du trésorier-payeur général, le contrôle a posteriori des opérations de dépenses, les comptabilités de la dépense) ;
+- produits divers.
 
-Les règles particulières à certaines dépenses :
+b) Gestion du patrimoine de l'Etat : champs et modes d'intervention.
 
-- les dépenses de personnel ;
+c) Contrôle et paiement des dépenses de l'Etat :
 
-- les marchés publics ;
+- contrôle financier des engagements ;
 
-- les subventions d'investissement accordées par l'Etat ;
+- règles et modalités d'exécution des dépenses (avec et hors marchés publics).
 
-- le contentieux des paiements.
+d) Modalités particulières de traitement des financements européens.
 
-La comptabilité de l'Etat :
+e) Les comptabilités de l'Etat :
 
-Principes généraux, organisation, liaisons, centralisation, information comptable des gestionnaires et des autorités de contrôle.
+- principes généraux d'organisation et modalités applicatives ;
 
-Gestion et cadre comptable des collectivités locales, des établissements publics locaux de santé et des offices publics d'habitation à loyer modéré :
+- comptabilité générale et comptabilités auxiliaires ;
 
-L'environnement juridique des collectivités et des établissements publics locaux ;
+- opérations rattachées des dépôts de fonds au Trésor et de la Caisse des dépôts et consignations (typologie et fonctionnement) ;
 
-Leur organisation administrative et financière ;
+- reddition des comptes ;
 
-Les compétences des collectivités locales ;
+- valorisation des données comptables.
 
-La gestion des fonctionnaires territoriaux et des élus locaux ;
+f) Audit, contrôle, conseil et expertise au profit des opérateurs et services de l'Etat dans le domaine économique et financier.
 
-Les marchés des collectivités et des établissements publics locaux ;
+II. - Missions se rattachant au secteur public local : collectivités territoriales,
 
-Les chambres régionales des comptes ;
+leurs groupements et les établissements publics locaux
 
-L'informatique dans le secteur public local ;
+a) Organisation juridique de l'exercice des missions dévolues aux collectivités et établissements publics locaux dans le cadre territorial, social et médical :
 
-La commune : le budget et l'exécution budgétaire ;
+- champ et répartition des compétences relevant des différentes structures ;
 
-La commune : le cadre budgétaire et comptable ;
+- principaux modes de financement ;
 
-L'établissement public de santé :
+- modalités des prises de décision par les instances locales et contrôle de légalité ;
 
-- l'organisation administrative et financière ;
+- différents modes de gestion des services publics.
 
-- le budget hospitalier : contenu - exécution - contrôle ;
+b) Modalités de contrôle et d'exécution des opérations budgétaires et comptables :
 
-- les spécificités de la comptabilité hospitalière ;
+- principes d'organisation du recouvrement des produits locaux et de l'exécution des dépenses locales (avec et hors marchés publics) ;
 
-- la tenue informatisée des opérations d'exécution du budget hospitalier.
+- comptabilités du secteur public local :
 
-Les offices publics d'habitation à loyer modéré :
+- normes comptables, procédures et organisation de la gestion comptable ;
 
-- l'organisation ;
+- spécificités des opérations soumises à la TVA et des budgets annexes ;
 
-- le budget ;
+- valorisation des données comptables ;
 
-- les spécificités de la comptabilité des organismes d'HLM ;
+- reddition des comptes.
 
-- le contrôle ;
+c) Expertise des services du Trésor public dans le cadre du partenariat avec les gestionnaires du secteur public local :
 
-- la tenue informatisée des opérations d'exécution du budget.
+- conseil juridique et fiscal ;
 
-Les contrôles internes.
+- expertise budgétaire et financière ;
+
+- aide à la gestion patrimoniale.

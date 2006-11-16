@@ -1,79 +1,231 @@
 # Article 5
 
-Le programme de l'épreuve d'admission no 2 est fixé comme suit :
+Le programme de l'épreuve d'admission n° 2 (systèmes financiers publics) est fixé comme suit :
 
-Les règles de la comptabilité publique :
+I. - L'approche globale des finances publiques
 
-Principes fondamentaux ; ordonnateurs et comptables ;
+a) Les théories politiques et économiques :
 
-Le système comptable de l'Etat ;
+- prélèvements obligatoires ;
 
-Les contrôles.
+- consentement à l'impôt ;
 
-Les finances de l'Etat :
+- dépense publique.
 
-La loi de finances : principes, préparation, contenu, exécution et contrôles ;
+b) Les grands principes :
 
-La politique budgétaire ; budget et économie ;
+- principes budgétaires : annualité, unité, spécialité, universalité, sincérité ;
 
-La politique fiscale ; fiscalité et économie ;
+- principes fiscaux : légalité de l'impôt, égalité et impôt, nécessité de l'impôt ;
 
-La trésorerie de l'Etat et la dette publique ;
+- principes fondamentaux de la comptabilité publique : ordonnateurs et comptables ; responsabilité ; unité de caisse.
 
-Les prélèvements obligatoires ;
+c) Les concepts relatifs aux recettes :
 
-La fiscalité d'Etat ;
+- catégories de recettes publiques ;
 
-L'activité de recouvrement ; les différents réseaux ;
+- prélèvements obligatoires ;
 
-Les dépenses de l'Etat : acteurs et règles générales ;
+- classifications fiscales, types d'imposition ;
 
-Les actions des services du Trésor vers les entreprises.
+- les dépenses fiscales
 
-Les finances de la sécurité sociale :
+d) L'endettement public :
 
-Les principes fondateurs de la protection sociale ;
+- définition, structure, évolution ;
 
-Les intervenants et leur organisation ;
+- gestion et financement.
 
-Le financement de la protection sociale ;
+e) Processus et acteurs des finances publiques :
 
-Comptes sociaux et économie.
+- les administrations financières ;
 
-Les finances des collectivités territoriales et de leurs établissements publics :
+- gestionnaires, ordonnateurs et comptables ;
 
-La répartition des compétences et des financements issus des lois de décentralisation ;
+- organismes et systèmes de contrôle des finances publiques ;
 
-Organisation administrative, financière et comptable des collectivités et des établissements publics locaux ;
+- l'administration de l'impôt : service au contribuable, gestion des systèmes déclaratifs, modes de paiement, recouvrement, contrôle fiscal, contentieux.
 
-Le budget des collectivités et des établissements publics locaux : principes, préparation, exécution et contrôles ;
+f) Pilotage des finances publiques :
 
-La fiscalité locale ;
+- incidence économique des prélèvements obligatoires et des dépenses et de la dette publique ;
 
-Les relations financières entre l'Etat et les collectivités locales ;
+- les apports de l'Union européenne au pilotage global des finances publiques ;
 
-Les modes de coopération intercommunale ;
+- l'approche consolidée des finances de l'Etat, des finances locales et des finances sociales ;
 
-Les interventions économiques des collectivités locales ;
+- maîtrise de la dépense publique ;
 
-Les services publics locaux.
+- évaluation des politiques publiques.
 
-Les finances européennes :
+II. - Les finances de l'Etat
 
-L'union économique et monétaire : les étapes de la construction européenne ; la monnaie unique et ses conséquences ;
+a) Les lois de finances :
 
-Le budget communautaire : structure, financement, procédures et contrôles ;
+- principes et architecture de la loi organique du 1er août 2001 ;
 
-Les fonds structurels européens.
+- les catégories de lois de finances ;
 
-Le financement de l'économie :
+- contenu et structure des lois de finances ;
 
-Les marchés financiers nationaux et internationaux ; les marchés des changes ;
+- préparation, examen et vote des projets de lois de finances ;
 
-La politique monétaire ;
+- mise en oeuvre et modification des lois de finances.
 
-La banque et le crédit ;
+b) Les ressources de l'Etat :
 
-Les principales institutions financières, nationales, européennes et internationales ;
+- les ressources fiscales ;
 
-Les balances commerciales et des paiements.
+- les ressources patrimoniales et diverses ;
+
+- la gestion et le financement de la dette de l'Etat.
+
+c) Les dépenses de l'Etat :
+
+- la nomenclature budgétaire par destination (missions, programmes, actions) et par nature (les titres) ;
+
+- les budgets annexes et comptes spéciaux ;
+
+- portée de l'autorisation budgétaire : globalisation et "fongibilité asymétrique, autorisations d'engagements, crédits de paiement, plafonds d'emplois ;
+
+- justification des crédits et des dépenses au premier euro ;
+
+- les différentes catégories de dépenses et leur évolution.
+
+d) La gestion opérationnelle du budget :
+
+- responsables de programme, dialogue de gestion et budgets opérationnels de programme ;
+
+- le pilotage par la performance : stratégie, objectifs, indicateurs ;
+
+- projets et rapports annuels de performance ;
+
+- le processus d'exécution des dépenses.
+
+e) Les comptabilités de l'Etat :
+
+- comptabilité budgétaire ;
+
+- comptabilité générale ;
+
+- analyse des coûts ;
+
+- le patrimoine de l'Etat (composition, valorisation).
+
+f) Les contrôles internes et externes des finances de l'Etat :
+
+- les contrôles administratifs : comptables publics, corps et services d'audit et de contrôle, inspection générale des finances ;
+
+- la Cour des comptes (missions, organisation, fonctionnement), la Cour de discipline budgétaire et financière.
+
+g) Les opérateurs de l'Etat :
+
+- budget ;
+
+- comptabilité ;
+
+- tutelle et pilotage.
+
+III. - Les finances locales
+
+a) Organisation administrative, financière et comptable des collectivités territoriales et des établissements publics locaux.
+
+b) Ressources et charges des collectivités territoriales :
+
+- les dépenses des différentes catégories de collectivités territoriales : structure et évolution ;
+
+- les ressources fiscales et autres ressources propres des différentes catégories de collectivités territoriales ;
+
+- les transferts de l'Etat : origine, structure, évolution et enjeux ;
+
+- l'emprunt et la gestion de la trésorerie.
+
+c) Procédures de vote et d'exécution du budget :
+
+- le budget des collectivités territoriales et établissements publics locaux : principes, préparation, exécution ;
+
+- les dépenses obligatoires et la règle de l'équilibre.
+
+d) La situation comptable, financière et fiscale des collectivités territoriales :
+
+- les comptabilités ;
+
+- l'analyse financière, la consolidation des comptes ;
+
+- la fiscalité locale.
+
+e) Contrôle des finances locales :
+
+- le contrôle budgétaire ;
+
+- le rôle des comptables publics ;
+
+- les chambres régionales des comptes : missions, organisation, fonctionnement.
+
+f) Grands enjeux des finances locales :
+
+- la répartition des ressources et des charges entre différents niveaux d'administration publique ;
+
+- le principe d'autonomie financière et les relations financières entre l'Etat et les collectivités territoriales ;
+
+- la péréquation, verticale et horizontale ;
+
+- les enjeux financiers du développement de l'intercommunalité ;
+
+- les choix des modes de financement des services et investissements locaux ;
+
+- les interventions économiques des collectivités territoriales.
+
+IV. - Les finances sociales
+
+a) La place des dépenses sociales dans l'ensemble des dépenses publiques :
+
+- les différentes catégories de dépenses sociales et leur évolution : maladie, retraite, aide sociale et prestations familiales, emploi ;
+
+- le développement des transferts sociaux : dynamique et enjeux financiers ;
+
+- acteurs, organismes et administrations en charge des finances sociales.
+
+b) Le financement de la protection sociale :
+
+- cotisations sociales : structure et évolution ;
+
+- gestion, recouvrement et contentieux des cotisations sociales ;
+
+- place des impôts dans le financement de la protection sociale ;
+
+- relations financières entre l'Etat et la protection sociale.
+
+c) Les lois de financement de la sécurité sociale :
+
+- structure et contenu ;
+
+- portée.
+
+d) La problématique de l'équilibre des finances sociales :
+
+- les relations entre la politique économique, la situation de l'emploi et l'équilibre des comptes sociaux ;
+
+- les différentes modalités de maîtrise des dépenses.
+
+V. - Les finances de l'Union européenne
+
+a) Le budget et les instruments financiers de l'Union européenne.
+
+b) Les dépenses du budget de l'Union européenne :
+
+- grandes catégories, contenu, évolution ;
+
+- fonds structurels européens, politique agricole commune ;
+
+- programmation pluriannuelle.
+
+c) Le financement de l'Union européenne :
+
+- les "ressources propres ;
+
+- les relations financières entre les Etats membres et le budget de l'Union européenne ;
+
+- perspective de l'impôt européen.
+
+d) Procédure, gestion et administrations budgétaires européennes.
