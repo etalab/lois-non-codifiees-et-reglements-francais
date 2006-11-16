@@ -4,7 +4,7 @@ La liste des emplois de conseiller pour les affaires administratives du ministè
 
 - conseiller personnel civil de la direction du personnel militaire de l'armée de l'air ;
 
-- conseiller personnel civil de la direction centrale des télécommunications et de l'informatique de l'armée de terre ;
+- conseiller personnel civil de la direction interarmées des réseaux d'infrastructure et des systèmes d'information de la défense ;
 
 - sous-directeur administratif de l'atelier industriel de l'aéronautique de Cuers du service de la maintenance aéronautique de la délégation générale pour l'armement ;
 
@@ -48,4 +48,6 @@ La liste des emplois de conseiller pour les affaires administratives du ministè
 
 - chef de la division de l'administration générale et des études de la direction des statuts, des pensions et de la réinsertion sociale ;
 
-- chef du bureau des pensions de retraite du service des pensions des armées.
+- chef du bureau des pensions de retraite du service des pensions des armées ;
+
+- adjoint au chef de la division personnel civil de l'état-major de la région terre nord-est ;
