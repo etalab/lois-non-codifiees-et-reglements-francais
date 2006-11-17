@@ -63,6 +63,7 @@
 - [Décret n°2006-1378 du 14 novembre 2006 (INTD0600235D)](decret-n2006-1378-du-14-novembre-2006-intd0600235d)
 - [Décret n°2006-1383 du 14 novembre 2006 (DEFD0601211D)](decret-n2006-1383-du-14-novembre-2006-defd0601211d)
 - [Décret n°2006-1385 du 15 novembre 2006 (EQUA0601805D)](decret-n2006-1385-du-15-novembre-2006-equa0601805d)
+- [Décret n°2006-1387 du 15 novembre 2006 (ECOP0600617D)](decret-n2006-1387-du-15-novembre-2006-ecop0600617d)
 - [Décret n°2006-1262 du 16 octobre 2006 (PRMX0609623D)](decret-n2006-1262-du-16-octobre-2006-prmx0609623d)
 - [Décret n°2006-1263 du 16 octobre 2006 (PRMX0609624D)](decret-n2006-1263-du-16-octobre-2006-prmx0609624d)
 - [Décret n°2006-1264 du 16 octobre 2006 (ECOC0600134D)](decret-n2006-1264-du-16-octobre-2006-ecoc0600134d)
