@@ -3,6 +3,7 @@
 - [Chapitre Ier : Dispositions générales.](chapitre-ier)
 - [Chapitre II : Modalités de recrutement.](chapitre-ii)
 - [Chapitre III : Nomination, formation initiale et titularisation.](chapitre-iii)
+- [Chapitre IV bis : Détachement.](chapitre-iv-bis)
 - [Chapitre V : Constitution initiale du cadre d'emplois et autres dispositions transitoires.](chapitre-v)
 - [Chapitre VI : Dispositions relatives aux promotions à titre posthume](chapitre-vi)
 - [Article 34](article-34.md)
