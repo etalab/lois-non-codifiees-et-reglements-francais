@@ -6,7 +6,7 @@ AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
 Intitulé :
 
-Titre professionnel d'agent(e) de maintenance en marine de plaisance.
+Titre professionnel : agent(e) de maintenance en marine de plaisance.
 
 Niveau : V.
 
@@ -14,19 +14,25 @@ Code NSF : 230 r.
 
 Résumé du référentiel d'emploi
 
-L'agent(e) de maintenance en marine de plaisance assure la maintenance et l'entretien des bateaux de plaisance à voile ou à moteur, à l'exception de la réparation des moteurs et des ouvrages de menuiserie complexes.
+L'agent(e) de maintenance en marine de plaisance assure les opérations courantes de maintenance sur des bateaux de plaisance à voile ou à moteur d'une longueur de 6 à 12 mètres.
 
-Ses interventions portent principalement sur des bateaux en composite verre-polyester de 6 à 12 mètres qui constituent 85 % du parc.
+Il (elle) effectue la "mise au sec" et "mise à l'eau" des bateaux, procède à leur mâtage et démâtage, entretient et répare les coques, les servitudes, l'accastillage et les gréements.
 
-Il (elle) travaille généralement seul(e), à partir d'un ordre d'intervention ou de la demande orale d'un client et doit interpréter la demande du client, rechercher et exploiter les informations, les schémas d'implantation et de raccordement contenus dans les documentations techniques, et renseigner les documents administratifs (bons de travail, ordre de réparation, commandes de pièces ou de matériaux spécifiques).
+Il (elle) procède aux opérations d'hivernage des moteurs hors bord et réalise leur entretien courant, vérifie les installations électriques, raccorde et met en service de nouveaux matériels.
 
-L'agent(e) de maintenance en marine de plaisance peut être conduit(e) à utiliser des engins de manutention, manoeuvrer des bateaux à moteur, utiliser un véhicule routier pour se déplacer.
+Il (elle) travaille généralement seul(e), à partir d'un ordre d'intervention ou de la demande orale d'un client et doit :
 
-Son amplitude de travail peut être variable : durant la saison, il (elle) peut travailler le week-end.
+- interpréter la demande du client, simplement énoncée ou esquissée ;
 
-Compétences attestées et descriptif
+- préparer, organiser et planifier l'intervention et renseigner les documents administratifs ;
 
-des composantes de la certification
+- rechercher et exploiter les informations, les schémas d'implantation et de raccordement contenus dans les documentations techniques.
+
+Il (elle) peut utiliser des engins de manutention, manoeuvrer des bateaux au moteur et utiliser un véhicule routier pour se déplacer.
+
+Compétences attestées et descriptif des composantes
+
+de la certification
 
 1. Manutentionner des bateaux de plaisance
 
@@ -34,23 +40,21 @@ Entreposer les bateaux de plaisance.
 
 Mâter et démâter les bateaux de plaisance.
 
-Vérifier et mettre en conformité les armements de sécurité et les inventaires des bateaux de plaisance.
-
 Manoeuvrer au port les bateaux de plaisance.
 
 Procéder aux opérations de mise à terre et de mise à l'eau des bateaux de plaisance.
 
-2. Entretenir et réparer les coques
+2. Entretenir et réparer les coques et les ponts
 
-et les ponts des bateaux de plaisance
+des bateaux de plaisance
 
-Réparer les coques et les ponts des bateaux de plaisance de structure verre/polyester.
+Effectuer la maintenance des coques et des ponts des bateaux de plaisance de structure verre/polyester.
 
 Caréner les bateaux de plaisance et nettoyer leurs superstructures.
 
-Entretenir et implanter les servitudes des bateaux de plaisance.
+Implanter et entretenir les servitudes des bateaux de plaisance.
 
-Réparer et entretenir les pièces non structurelles en bois des bateaux de plaisance.
+Réaliser les opérations de maintenance des éléments en bois, non structurels, des bateaux de plaisance.
 
 3. Gréer et accastiller les bateaux de plaisance
 
@@ -62,39 +66,35 @@ Entretenir et régler les pilotes et les gouvernails des bateaux de plaisance.
 
 Poser et entretenir l'accastillage de pont des bateaux de plaisance.
 
-4. Assurer la maintenance mécanique des bateaux de plaisance
+4. Réaliser la maintenance mécanique et électrique
 
-Entretenir et vérifier le fonctionnement des moteurs marins de bateaux de plaisance.
+des bateaux de plaisance
 
-Hiverner des moteurs hors bord ou in board des bateaux de plaisance.
+Entretenir et hiverner les moteurs des bateaux de plaisance.
 
-Gérer le parc de batteries des bateaux de plaisance.
+Installer à bord des bateaux de plaisance des moteurs hors-bords et leurs commandes.
 
-Poser à bord des bateaux de plaisance des moteurs hors bord et leurs commandes.
-
-5. Procéder à l'entretien et l'extension
-
-des circuits électriques des bateaux de plaisance
+Implanter et entretenir les systèmes de production et de gestion d'énergie électrique des bateaux de plaisance.
 
 Dépanner les circuits électriques de bord des bateaux de plaisance.
 
-Procéder à l'extension d'installations électriques dans des bateaux de plaisance.
+Redimensionner les installations électriques dans des bateaux de plaisance.
 
-Poser et mettre en service à bord des bateaux de plaisance des équipements électriques additionnels.
-
-Implanter et entretenir les appareils de production et de gestion d'énergie électrique des bateaux de plaisance.
+Poser et mettre en service des équipements électriques additionnels à bord des bateaux de plaisance.
 
 Secteurs d'activités ou types d'emploi
 
 accessibles par le détenteur du titre
 
-L'agent de maintenance en marine de plaisance exerce son activité dans les entreprises du secteur nautique. Il travaille généralement dans un chantier nautique spécialisé dans la maintenance, la location ou la vente de bateaux de plaisance, à voile ou à moteur.
+L'agent(e) de maintenance en marine de plaisance exerce son activité dans les entreprises du secteur nautique. Il (elle) travaille généralement dans un chantier nautique spécialisé dans la maintenance, la location ou la vente de bateaux de plaisance, à voile ou à moteur.
 
-Réglementation de l'activité
-
-Néant.
+Types d'emplois accessibles : ouvrier(ère) de maintenance, technicien(ne) de maintenance.
 
 Code ROME :
+
+Pas de fiche ROME de rattachement.
+
+Réglementation de l'activité :
 
 Néant.
 
@@ -104,8 +104,6 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
+Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
 
-Décret n° 2002-1029 du 2 août 2002 ;
-
-Arrêté du 25 novembre 2002.
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.
