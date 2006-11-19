@@ -10,6 +10,8 @@ c) Le service des affaires européennes et internationales ;
 
 d) Le service central de l'information et de la communication ;
 
-e) Le service du secrétariat général.
+e) Le service du secrétariat général ;
+
+f) La délégation aux interceptions judiciaires.
 
 Le secrétaire général préside le comité des directeurs et des chefs de service placés sous son autorité. Le comité délibère sur les matières qui lui sont soumises par le ministre ou, dans la limite de ses attributions, par le secrétaire général.

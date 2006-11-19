@@ -18,4 +18,6 @@ Il définit les principes de gestion des ressources humaines et s'assure de leur
 
 6° Il est chargé des actions de coopération européenne et internationale ; il apporte son appui aux directions compétentes dans la négociation d'accords internationaux ;
 
-7° Il assure la coordination des actions dans lesquelles le ministère est engagé pour la conduite des politiques à caractère interministériel, notamment la politique de la ville.
+7° Il assure la coordination des actions dans lesquelles le ministère est engagé pour la conduite des politiques à caractère interministériel, notamment la politique de la ville ;
+
+8° Il veille à la mise en oeuvre des missions dévolues à la délégation aux interceptions judiciaires.
