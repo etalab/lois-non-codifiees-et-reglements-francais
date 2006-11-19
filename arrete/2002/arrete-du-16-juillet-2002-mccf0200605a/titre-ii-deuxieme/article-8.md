@@ -1,37 +1,25 @@
 # Article 8
 
-L'enseignement obligatoire de première année de deuxième cycle comprend les cours suivants :
+L'enseignement de première année de deuxième cycle s'étend sur deux semestres. Il est composé d'unités d'enseignement consacrées :
 
-- musée et patrimoine : étude historique ;
+- aux matières fondamentales de la muséologie ;
 
-- muséographie ;
+- à l'histoire de l'art ;
 
-- patrimoine et publics ;
+- aux sources de la recherche ;
 
-- administration et gestion des musées et du patrimoine ;
+- à l'historiographie ;
 
-- examen scientifique des oeuvres, études,  conservation et restauration ;
+- à la muséographie ;
 
-- initiation à la recherche ;
+- aux langues étrangères.
 
-- langues vivantes ;
-
-- informatique.
-
-En outre, l'élève choisit obligatoirement l'une des deux dominantes suivantes :
+En outre, l'élève choisit obligatoirement au deuxième semestre l'une des deux filières suivantes :
 
 - objets ;
 
 - médiation.
 
-Ces dominantes sont complétées par l'une des options suivantes :
+Enfin, l'élève doit rédiger un mémoire d'études dont l'encadrement est assuré par un responsable de mémoire au sein du groupe de recherche.
 
-- droit du marché de l'art (art et économie) ;
-
-- communication dans les musées (principes et pratiques).
-
-Enfin, l'élève doit rédiger une monographie, donnant lieu à notation, sur un sujet proposé par l'un des enseignants.
-
-Après la soutenance, l'exemplaire de la monographie remis au service de la scolarité est déposé à la bibliothèque de l'Ecole du Louvre où il est consultable dans des conditions conformes au droit de la propriété intellectuelle et à la réglementation relative à l'accès aux documents administratifs.
-
-Les enseignements sont sanctionnés par des examens comportant des épreuves écrites ou orales.
+Les enseignements sont sanctionnés par des examens composés d'épreuves écrites et d'une évaluation sous forme de contrôle continu. Le mémoire fait l'objet d'une soutenance.

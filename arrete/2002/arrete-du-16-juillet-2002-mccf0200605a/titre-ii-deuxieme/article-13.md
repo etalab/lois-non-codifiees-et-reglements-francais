@@ -1,3 +1,5 @@
 # Article 13
 
-La seconde année de deuxième cycle est consacrée à la préparation d'un mémoire de recherche. Elle comporte plusieurs séminaires, des cours de langues et, si le sujet de la recherche l'exige, un stage. Une évaluation continue sanctionne la formation.
+Le diplôme de deuxième cycle est délivré sur délibération du jury. Ce jury est désigné chaque année par le directeur de l'école.
+
+Il est présidé par le directeur des études et comprend les responsables scientifiques de cette formation.

@@ -1,3 +1,5 @@
 # Article 10
 
-Les élèves admis à s'inscrire en première année de deuxième cycle, au titre des dispositions de l'article 26 du présent arrêté, et qui ont subi avec succès les seules épreuves prévues à l'article 8 ci-dessus, reçoivent le diplôme spécial de muséologie.
+Sont admis à solliciter une inscription en deuxième année de deuxième cycle les élèves ayant validé la première année de deuxième cycle. Un jury présidé par le directeur de l'Ecole du Louvre examine les candidatures et affecte ceux des élèves retenus dans l'un des cinq parcours proposés par l'école.
+
+L'accès à la deuxième année de deuxième cycle est également ouvert aux élèves ayant obtenu la validation d'une première année de master en histoire de l'art d'une université française ou européenne sous réserve de l'acceptation de leur dossier par la commission d'équivalence de l'Ecole du Louvre prenant en compte les résultats obtenus et la limite des places disponibles. La décision d'affectation dans l'un des cinq parcours proposés par l'école est prise par le jury présidé par le directeur de l'Ecole du Louvre.

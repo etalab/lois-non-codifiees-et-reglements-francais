@@ -1,3 +1,3 @@
 # Article 6
 
-Le diplôme d'études supérieures sanctionne l'enseignement de première année de deuxième cycle.
+Le diplôme de deuxième cycle sanctionne l'enseignement de deuxième cycle d'une durée de deux ans validé dans le délai maximum de trois années.
