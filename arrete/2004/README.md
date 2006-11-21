@@ -795,7 +795,6 @@
 - [Arrêté du 25 mars 2005 (EQUA0500180A)](arrete-du-25-mars-2005-equa0500180a)
 - [Arrêté du 25 novembre 2003 (SANP0324633A)](arrete-du-25-novembre-2003-sanp0324633a)
 - [Arrêté du 25 novembre 2004 (DEFP0401144A)](arrete-du-25-novembre-2004-defp0401144a)
-- [Arrêté du 25 novembre 2004 (ECOB0430047A)](arrete-du-25-novembre-2004-ecob0430047a)
 - [Arrêté du 25 novembre 2004 (ECOP0400936A)](arrete-du-25-novembre-2004-ecop0400936a)
 - [Arrêté du 25 novembre 2004 (PRMD0407775A)](arrete-du-25-novembre-2004-prmd0407775a)
 - [Arrêté du 25 octobre 2004 (AGRP0401380A)](arrete-du-25-octobre-2004-agrp0401380a)
