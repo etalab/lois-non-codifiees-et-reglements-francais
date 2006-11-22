@@ -457,7 +457,6 @@
 - [Décret n°95-1004 du 11 septembre 1995 (ECOX9501011D)](decret-n95-1004-du-11-septembre-1995-ecox9501011d)
 - [Décret n°95-1096 du 11 octobre 1995 (MENN9501610D)](decret-n95-1096-du-11-octobre-1995-menn9501610d)
 - [Décret n°95-1100 du 11 octobre 1995 (EQUX9500112D)](decret-n95-1100-du-11-octobre-1995-equx9500112d)
-- [Décret n°95-1101 du 11 octobre 1995 (EQUZ9501520D)](decret-n95-1101-du-11-octobre-1995-equz9501520d)
 - [Décret n°95-1281 du 11 décembre 1995 (BUDF9500019D)](decret-n95-1281-du-11-decembre-1995-budf9500019d)
 - [Décret n°95-1282 du 11 décembre 1995 (BUDF9500020D)](decret-n95-1282-du-11-decembre-1995-budf9500020d)
 - [Décret n°95-386 du 11 avril 1995 (BUDX9410021D)](decret-n95-386-du-11-avril-1995-budx9410021d)
