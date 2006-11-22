@@ -142,6 +142,7 @@
 - [Décret n°2006-369 du 28 mars 2006 (EQUT0600796D)](decret-n2006-369-du-28-mars-2006-equt0600796d)
 - [Décret n°90-437 du 28 mai 1990 (PRMG9070213D)](decret-n90-437-du-28-mai-1990-prmg9070213d)
 - [Décret n°2001-777 du 30 août 2001 (INTA0100224D)](decret-n2001-777-du-30-aout-2001-inta0100224d)
+- [Décret n°2005-1795 du 30 décembre 2005 (MJSK0570251D)](decret-n2005-1795-du-30-decembre-2005-mjsk0570251d)
 - [Décret n°2006-1319 du 30 octobre 2006 (JUSC0620779D)](decret-n2006-1319-du-30-octobre-2006-jusc0620779d)
 - [Décret n°2006-1322 du 30 octobre 2006 (EQUT0602132D)](decret-n2006-1322-du-30-octobre-2006-equt0602132d)
 - [Décret n°2006-1323 du 30 octobre 2006 (SANH0624002D)](decret-n2006-1323-du-30-octobre-2006-sanh0624002d)
