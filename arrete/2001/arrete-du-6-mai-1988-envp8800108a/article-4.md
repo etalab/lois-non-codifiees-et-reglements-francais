@@ -36,18 +36,20 @@ et au 1er octobre 2003 aux nouveaux moteurs fonctionnant au gaz mis en service e
 
 Toutefois, pour les moteurs à allumage par compression et pour les véhicules équipés de tels moteurs, réceptionnés conformément aux dispositions de la directive 1999/96/CE, la mise en conformité aux dispositions de la directive 2001/27/CE est effectuée dans le cadre d'une extension de la précédente réception. Et, dans ce cas, les véhicules mis pour la première fois en circulation doivent satisfaire aux dispositions de la directive 2001/27/CE au 1er avril 2002.
 
-5° En ce qui concerne les valeurs limites fixées à la ligne B1 des tableaux figurant au point 6.2.1 de l'annexe I de la directive 88/77/CEE, modifiée en dernier lieu par la directive 2001/27/CE susvisée :
+5° En ce qui concerne les valeurs limites fixées à la ligne B1 des tableaux figurant au point 6.2.1 de l'annexe I de la directive 2005/55/CE, modifiée en dernier lieu par la directive 2006/51/CE :
 
 - au 1er octobre 2005, aux moteurs et aux véhicules réceptionnés par type et qui, du point de vue des caractéristiques techniques qui ont une influence sur les émissions polluantes, sont de nouveaux types ;
 
 - au 1er octobre 2006, aux nouveaux moteurs mis en service et aux véhicules mis pour la première fois en circulation.
 
-6° En ce qui concerne les valeurs limites fixées à la ligne B2 des tableaux figurant au point 6.2.1 de l'annexe I de la directive 88/77/CEE, modifiée en dernier lieu par la directive 2001/27/CE susvisée :
+6° En ce qui concerne les valeurs limites fixées à la ligne B2 des tableaux figurant au point 6.2.1 de l'annexe I de la directive 2005/55/CE, modifiée en dernier lieu par la directive 2006/51/CE :
 
 - au 1er octobre 2008, aux moteurs et aux véhicules réceptionnés par type et qui, du point de vue des caractéristiques techniques qui ont une influence sur les émissions polluantes, sont de nouveaux types ;
 
 - au 1er octobre 2009, aux nouveaux moteurs mis en service et aux véhicules mis pour la première fois en circulation.
 
-Tout moteur satisfaisant aux exigences appropriées de la directive 88/77/CEE, modifiée en dernier lieu par la directive 2001/27/CE, et qui respecte les valeurs limites facultatives fixées à la ligne C (EEV) des tableaux figurant au point 6.2.1 de l'annexe I de cette directive est considéré comme conforme aux exigences des paragraphes 4°, 5° et 6° précédents.
+Tout moteur satisfaisant aux exigences appropriées de la directive 88/77/CEE, modifiée par la directive 2001/27/CE, et qui respecte les valeurs limites facultatives fixées à la ligne C (EEV) des tableaux figurant au point 6.2.1 de l'annexe I de cette directive est considéré comme conforme aux exigences des paragraphes 4°, 5° et 6° précédents.
 
-En sus des dispositions indiquées aux paragraphes 4°, 5° et 6° précédents, les moteurs réceptionnés en tant qu'entités techniques doivent, conformément aux dispositions définies aux paragraphes 4 et 5 de l'annexe I de la directive 88/77/CEE, modifiée en dernier lieu par la directive 2001/27/CE susvisée, être marqués et porter, le cas échéant, les étiquettes appropriées, notamment dans le cas d'une réception restreinte à une gamme de carburants ou à un carburant spécifique. Le marquage spécifique applicable aux moteurs fonctionnant au gaz qui ont été réceptionnés pour une gamme restreinte de carburants doit aussi être apposé près de l'ouverture de remplissage de carburant des véhicules équipés de ces types de moteurs.
+En sus des dispositions indiquées aux paragraphes 4°, 5° et 6° précédents, les moteurs réceptionnés en tant qu'entités techniques doivent, conformément aux dispositions définies aux paragraphes 4 et 5 de l'annexe I de la directive 2005/55/CE, modifiée en dernier lieu par la directive 2006/51/CE susvisée, être marqués et porter, le cas échéant, les étiquettes appropriées, notamment dans le cas d'une réception restreinte à une gamme de carburants ou à un carburant spécifique. Le marquage spécifique applicable aux moteurs fonctionnant au gaz qui ont été réceptionnés pour une gamme restreinte de carburants doit aussi être apposé près de l'ouverture de remplissage de carburant des véhicules équipés de ces types de moteurs.
+
+Les dispositions des points 6.5.3, 6.5.4 et 6.5.5 de l'annexe I de la directive 2005/55/CE susvisée sont applicables au 9 novembre 2006 pour les nouvelles réceptions, et au 1er octobre 2007 pour tous les véhicules mis pour la première fois en circulation.

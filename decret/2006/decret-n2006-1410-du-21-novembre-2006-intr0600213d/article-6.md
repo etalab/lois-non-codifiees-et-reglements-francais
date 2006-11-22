@@ -1,0 +1,3 @@
+# Article 6
+
+Lorsque le représentant de l'Etat dans le département engage une concertation locale sur un projet de réorganisation des services publics en application des dispositions du II de l'article 29 de la loi du 4 février 1995 susvisée au sein de la commission départementale d'organisation et de modernisation des services publics, l'établissement, l'organisme, l'entreprise ou le service à l'origine du projet transmet à la commission plénière ou à sa formation spécialisée une étude d'incidence permettant d'évaluer les effets de la réorganisation envisagée sur la qualité des services rendus aux usagers. Le représentant de l'Etat peut lui demander d'évaluer les effets des autres projets proposés par les participants à la concertation.

@@ -1,0 +1,5 @@
+# Article 1
+
+Les documents et données relatifs à la recherche constituent les documents essentiels qui composent le dossier permanent de la recherche. Ces documents, individuellement et collectivement, permettent l'évaluation de la réalisation d'une recherche biomédicale et de la qualité des données produites. Ces documents servent à démontrer que l'investigateur, le promoteur ainsi que tout intervenant dans la recherche respectent les règles de bonnes pratiques cliniques ainsi que les textes législatifs et réglementaires en vigueur et, en particulier, l'arrêté du 23 avril 2004 susvisé lorsque les documents sont présentés à l'appui d'une demande d'autorisation de mise sur le marché prévue à l'article L. 5121-8 code de la santé publique.
+
+Ce dossier comprend au moins les documents et données indiqués dans les règles de bonnes pratiques cliniques pour les recherches biomédicales portant sur des médicaments à usage humain, prises par décision du directeur général de l'Agence française de sécurité sanitaire des produits de santé.
