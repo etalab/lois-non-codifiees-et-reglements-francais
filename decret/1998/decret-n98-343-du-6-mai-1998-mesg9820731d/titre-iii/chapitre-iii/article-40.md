@@ -1,6 +1,6 @@
 # Article 40
 
-Peuvent être inscrits au tableau d'avancement au grade d'aide technique principal de laboratoire les aides techniques de laboratoire ayant atteint le 6e échelon de leur grade et comptant au moins onze ans de services effectifs dans un corps d'aides de laboratoire ou d'aides techniques de laboratoire dont au moins trois ans en qualité d'aide technique de laboratoire.
+Peuvent être inscrits au tableau d'avancement au grade d'aide technique principal de laboratoire les aides techniques de laboratoire ayant atteint le 5e échelon de leur grade et comptant au moins dix ans de services effectifs dans un corps d'aides de laboratoire ou d'aides techniques de laboratoire dont au moins trois ans en qualité d'aide technique de laboratoire.
 
 Les agents promus au grade d'aide technique principal de laboratoire sont classés à l'échelon de ce grade qui comporte un indice égal ou, à défaut, immédiatement supérieur à celui dont ils bénéficiaient dans leur précédent grade.
 

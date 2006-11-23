@@ -1,3 +1,3 @@
 # Article 23
 
-Peuvent être détachés dans le corps des aides de laboratoire régis par le présent décret, après avis de la commission administrative paritaire compétente, dans la limite de 20 % de l'effectif budgétaire de ce corps, les fonctionnaires de l'Etat, des collectivités territoriales ou des établissements publics qui en dépendent, exerçant des fonctions de même nature et de même niveau.
+Peuvent seuls être détachés dans le corps d'aide de laboratoire les fonctionnaires de catégorie C titulaires d'un grade ou occupant un emploi dont l'indice brut de début est au moins égal à l'indice afférent au 1er échelon respectivement du grade d'aide de laboratoire ou d'aide principal de laboratoire.

@@ -1,6 +1,6 @@
 # Article 38
 
-I. - Sous réserve de l'application, le cas échéant, des dispositions du décret du 27 janvier 1970 susvisé, les aides techniques de laboratoire recrutés en application de l'article 35 ci-dessus sont nommés en qualité de stagiaire au 1er échelon du grade d'aide technique de laboratoire.
+I. - Sous réserve de l'application, le cas échéant, des dispositions du décret du 29 septembre 2005 susmentionné, les aides techniques de laboratoire recrutés en application de l'article 35 ci-dessus sont nommés en qualité de stagiaire au 1er échelon du grade d'aide technique de laboratoire.
 
 Ils accomplissent un stage d'une durée d'une année, pendant lequel ils sont appelés à participer à une action de formation destinée à favoriser leur adaptation à l'emploi.
 

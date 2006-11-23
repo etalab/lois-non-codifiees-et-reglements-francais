@@ -1,6 +1,6 @@
 # Article 20
 
-Les aides de laboratoire recrutés en application des dispositions de l'article 18 ci-dessus sont, sous réserve de l'application des dispositions du décret du 27 janvier 1970 susvisé, nommés en qualité de stagiaire au 1er échelon du grade d'aide de laboratoire.
+Les aides de laboratoire recrutés en application des dispositions de l'article 18 ci-dessus sont, sous réserve de l'application des dispositions du décret du 29 septembre 2005 susmentionné, nommés en qualité de stagiaire au 1er échelon du grade d'aide de laboratoire.
 
 Ils accomplissent un stage d'une durée d'une année, pendant lequel ils sont appelés à participer à une action de formation destinée à favoriser leur adaptation à l'emploi.
 
