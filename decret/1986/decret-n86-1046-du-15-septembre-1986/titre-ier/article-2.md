@@ -2,38 +2,50 @@
 
 Le corps des experts techniques des services techniques comprend deux grades : expert technique et expert technique principal.
 
-Le grade d'expert technique principal comporte huit échelons.
+Le grade d'expert technique principal comporte six échelons.
 
 La durée moyenne et la durée minimale d'ancienneté requises pour un avancement d'échelon dans le grade d'expert technique principal sont fixées conformément au tableau ci-après :
 
-7° échelon :
+ÉCHELON : 5e échelon
 
-- durée moyenne 4 ans ;
+DURÉE
 
-- durée minimale 3 ans. 6° échelon :
+Moyenne : 4 ans
 
-- durée moyenne 3 ans ;
+Minimale : 3 ans
 
-- durée minimale 2 ans 3 mois. 5° échelon :
+ÉCHELON : 4e échelon
 
-- durée moyenne 3 ans ;
+DURÉE
 
-- durée minimale 2 ans 3 mois. 4° échelon :
+Moyenne : 3 ans 6 mois
 
-- durée moyenne 3 ans ;
+Minimale : 2 ans 9 mois
 
-- durée minimale 2 ans 3 mois. 3° échelon :
+ÉCHELON : 3e échelon
 
-- durée moyenne 3 ans ;
+DURÉE
 
-- durée minimale 2 ans 3 mois. 2° échelon :
+Moyenne : 3 ans 6 mois
 
-- durée moyenne 2 ans ;
+Minimale : 2 ans 9 mois
 
-- durée minimale 1 an 6 mois. 1° échelon :
+ÉCHELON : 2e échelon
 
-- durée moyenne 1 ans ;
+DURÉE
 
-- durée minimale 1 an.
+Moyenne : 2 ans 6 mois
 
-La proportion des experts techniques principaux ne peut dépasser 25 % de l'effectif du corps.
+Minimale :
+
+2 ans
+
+ÉCHELON : 1er échelon
+
+DURÉE
+
+Moyenne : 2 ans 6 mois
+
+Minimale : 2 ans
+
+Le nombre maximum d'experts techniques des services techniques pouvant être promus au grade d'expert technique principal est déterminé en application du décret n° 2005-1090 du 1er septembre 2005 relatif à l'avancement de grade dans les corps des administrations de l'Etat.
