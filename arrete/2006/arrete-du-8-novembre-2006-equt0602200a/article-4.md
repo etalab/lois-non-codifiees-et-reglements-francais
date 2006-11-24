@@ -1,0 +1,3 @@
+# Article 4
+
+Les conditions d'embarquement des élèves à bord des navires immatriculés au RIF, que ce soit pendant leur scolarité ou à l'issue de celle-ci, sont celles fixées par protocole d'accord entre partenaires sociaux pour l'embarquement des élèves stagiaires et des élèves officiers dans le cadre de la formation des officiers de la marine marchande. Ce dispositif est complété par accord de branche pour la mise en oeuvre des contrats de professionnalisation maritime et par convention passée entre l'Etat et Armateurs de France pour les modalités de la participation financière de l'Etat aux frais d'embarquement.
