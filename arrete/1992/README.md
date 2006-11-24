@@ -465,7 +465,6 @@
 - [Arrêté du 13 novembre 1992 (ENVE9250221A)](arrete-du-13-novembre-1992-enve9250221a)
 - [Arrêté du 13 novembre 1992 (ENVE9250222A)](arrete-du-13-novembre-1992-enve9250222a)
 - [Arrêté du 13 novembre 1992 (ENVE9250223A)](arrete-du-13-novembre-1992-enve9250223a)
-- [Arrêté du 13 mai 1992 (BUDB9230033A)](arrete-du-13-mai-1992-budb9230033a)
 - [Arrêté du 13 mai 1992 (ECOC9200040A)](arrete-du-13-mai-1992-ecoc9200040a)
 - [Arrêté du 13 mai 1992 (FPPA9200026A)](arrete-du-13-mai-1992-fppa9200026a)
 - [Arrêté du 13 mai 1992 (JUSB9210141A)](arrete-du-13-mai-1992-jusb9210141a)
