@@ -12,4 +12,4 @@ Le consul général de France à Port-Gentil exerce, pour l'ensemble des França
 
 5. Les relations avec la marine marchande dans les conditions fixées par le décret du 21 novembre 1946 susvisé ;
 
-6. L'établissement et la révision des listes électorales de centre de vote et du Conseil supérieur des Français de l'étranger ainsi que l'organisation des opérations de vote pour l'élection du Président de la République, les référendums et l'élection des délégués au Conseil supérieur des Français de l'étranger.
+6. L'organisation des opérations de vote pour l'élection du Président de la République, le référendum et l'élection de l'Assemblée des Français de l'étranger et l'établissement des procurations de vote.

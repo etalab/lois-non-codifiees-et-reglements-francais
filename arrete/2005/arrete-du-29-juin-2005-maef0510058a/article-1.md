@@ -6,4 +6,4 @@ Le consul général de France à Anvers et le consul général de France à Liè
 
 2. La nomination et le contrôle des consuls honoraires de leur circonscription ;
 
-3. L'établissement et la révision des listes électorales de centre de vote et de l'Assemblée des Français de l'étranger ainsi que l'organisation des opérations de vote pour l'élection du Président de la République, les référendums et l'élection des membres de l'Assemblée des Français de l'étranger.
+3. L'organisation des opérations de vote pour l'élection du Président de la République, le référendum et l'élection de l'Assemblée des Français de l'étranger et l'établissement des procurations de vote.
