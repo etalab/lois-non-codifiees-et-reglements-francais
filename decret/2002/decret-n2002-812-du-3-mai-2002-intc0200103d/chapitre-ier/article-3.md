@@ -1,0 +1,5 @@
+# Article 3
+
+Les agents spécialisés de police technique et scientifique sont chargés de tâches techniques ou scientifiques dans les laboratoires de police scientifique et toutes autres structures de la police nationale chargées de missions d'identité judiciaire. Ils sont également appelés à exercer leurs fonctions dans les établissements publics administratifs relevant du ministère de l'intérieur, et notamment l'Institut national de police scientifique.
+
+En leur qualité de fonctionnaires de la police nationale participant à la mission de police judiciaire, ils accomplissent les missions de police technique et scientifique qui leur sont confiées sur instructions de leurs chefs de service, sur réquisition d'un officier de police judiciaire ou à la demande de l'autorité judiciaire. A ce titre, ils concourent à la recherche et à l'exploitation des traces et indices nécessaires à l'identification des auteurs d'infractions à la loi pénale, participent en tous lieux utiles aux constatations techniques portant sur ces infractions et apportent leur concours aux missions de soutien liées aux activités opérationnelles.
