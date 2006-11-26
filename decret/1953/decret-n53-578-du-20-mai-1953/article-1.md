@@ -2,6 +2,10 @@
 
 Le tableau annexé au décret du 24 décembre 1919, modifié par les décrets des 3 août 1932, 30 août 1934, 29 avril 1936, 28 juin 1943 et 13 août 1952, déterminant les industries auxquelles s'applique la loi du 19 décembre 1917, est remplacé par le tableau annexé au présent décret (Tableau non reproduit).
 
+Les installations classées pour la protection de l'environnement soumises à l'obligation de contrôle périodique prévu à l'article L. 512-11 du code de l'environnement sont fixées à l'annexe 1 au présent décret.
+
+Toutefois les installations classées figurant à cette annexe ne sont pas soumises à l'obligation de contrôle périodique lorsqu'elles sont incluses dans un établissement qui comporte au moins une installation soumise au régime de l'autorisation.
+
 NOTA : Historique des modifications du décret n° 53-578 :
 
 Décret 58-451 1958-04-15 JORF 26 avril 1958.
@@ -79,3 +83,9 @@ Décret 2004-1331 2004-12-01 art. 1 JORF 7 décembre 2004 rectificatif JORF 26 d
 Décret 2005-989 2005-08-10 art. 1, art. 2 JORF 13 août 2005.
 
 Décret 2006-646 2006-05-31 art. 1, art. 3 JORF 2 juin 2006.
+
+Décret 2006-678 2006-06-08 art. 1, art. 2 JORF 10 juin 2006.
+
+Décret 2006-942 2006-07-27 art. 1 JORF 29 juillet 2006 en vigueur le 1er octobre 2006.
+
+Décret 2006-1454 2006-11-24 art. 1 JORF 26 novembre 2006).
