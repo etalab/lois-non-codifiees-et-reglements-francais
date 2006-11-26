@@ -1,23 +1,31 @@
 # Article 2
 
-La direction de l'administration générale assure, pour l'ensemble du ministère chargé de la culture, des missions de gestion, de coordination et d'évaluation.
+Le secrétaire général assiste le ministre pour l'administration du ministère. Il est assisté par un secrétaire général adjoint, directeur de l'administration générale. Le délégué au développement et aux affaires internationales relève directement du secrétaire général.
 
-Elle anime, coordonne et évalue la politique de modernisation et de déconcentration du ministère.
+Le secrétaire général coordonne l'action de l'ensemble des services et assure leur évaluation.
 
-En liaison avec l'ensemble des directions et délégations, elle détermine les objectifs assignés aux services déconcentrés, en suit la mise en oeuvre et en évalue les résultats.
+Il prépare le budget et propose la répartition des moyens entre les services.
 
-Elle coordonne les initiatives visant à développer l'aménagement culturel du territoire et à assurer la cohérence de l'action territoriale conduite par les services du ministère.
+Il assure la coordination des responsables de programme.
 
-Elle élabore et conduit la politique de gestion du personnel.
+Il conduit les réflexions stratégiques relatives à l'organisation et à l'administration du ministère, de ses services déconcentrés et de ses établissements publics. Il propose et met en oeuvre la politique de modernisation et la stratégie ministérielle de réforme. Il veille à l'adaptation des structures administratives, à leurs missions et à la mise en oeuvre de conventions d'objectifs.
 
-Elle prépare le budget, suit son exécution et répartit les moyens de fonctionnement et d'équipement des services.
+Il élabore et propose la politique générale de gestion des ressources humaines et la politique de l'encadrement supérieur et veille à leur application.
 
-Elle est chargée du contrôle de gestion au sein du ministère et elle coordonne sa mise en oeuvre.
+Il contrôle la gestion des ressources des directions, coordonne l'exercice de la tutelle financière sur les établissements publics et veille à leur cohérence. Il définit la stratégie du ministère en matière de systèmes d'information.
 
-Elle est chargée, en liaison avec les autres directions et délégations, des affaires juridiques, fiscales et professionnelles et coordonne la préparation des textes législatifs et réglementaires. Elle représente l'Etat devant les juridictions, sous réserve des attributions de l'agent judiciaire du Trésor.
+En liaison avec les responsables de programmes, les directeurs et les délégués, il propose les objectifs assignés aux services déconcentrés et coordonne leur action dans les domaines partagés entre plusieurs programmes.
 
-Elle veille à la cohérence des choix technologiques concernant les systèmes d'information et de communication et en assure l'exploitation.
+Il fixe les orientations générales de la politique de communication interne et coordonne sa mise en oeuvre.
 
-Elle définit et met en oeuvre la politique immobilière du ministère.
+Il préside le comité des directeurs. Il peut présider, en tant que représentant du ministre, le comité technique paritaire ministériel.
 
-Elle participe, en liaison avec les directions concernées, à l'exercice de la tutelle sur les établissements publics dépendant du ministère.
+Pour l'exercice de ses attributions, le secrétaire général a autorité sur :
+
+a) La direction de l'administration générale ;
+
+b) La délégation au développement et aux affaires internationales ;
+
+c) Le haut fonctionnaire chargé des systèmes d'information ;
+
+d) Le haut fonctionnaire au développement durable.
