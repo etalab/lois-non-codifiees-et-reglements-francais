@@ -1,9 +1,7 @@
-# Décret n°2004-822 du 18 août 2004 relatif à l'organisation et aux missions de l'administration centrale du ministère de la culture et de la communication.
+# Arrêté du 20 novembre 2006 portant application du décret n° 2006-710 du 19 juin 2006 relatif à la mise en oeuvre de l'aide au revenu prévue par le règlement (CE) n° 1782/2003 du Conseil du 29 septembre 2003
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
-- [Article 2-1](article-2-1.md)
-- [Article 2-2](article-2-2.md)
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)
 - [Article 5](article-5.md)
@@ -14,5 +12,4 @@
 - [Article 10](article-10.md)
 - [Article 11](article-11.md)
 - [Article 12](article-12.md)
-- [Article 13](article-13.md)
-- [Article 14](article-14.md)
+- [Article Annexe](article-annexe.md)

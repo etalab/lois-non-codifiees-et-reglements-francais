@@ -1,0 +1,11 @@
+# Article 9
+
+1. Pour l'application du II de l'article D. 615-62 du code rural, la surface relative à la betterave à sucre à inclure dans la surface de référence, au sens de l'article 43 du règlement (CE) n° 1782/2003 du Conseil du 29 septembre 2003 susvisé, de chaque agriculteur est égale à la surface déclarée en « betteraves sucrières » au titre de la campagne 2005.
+
+Lorsque aucune surface n'a été déclarée en « betteraves sucrières » au titre de la campagne 2005, la surface relative à la betterave à sucre à inclure dans la surface de référence est égale à la quantité de betteraves livrées au titre de la campagne de commercialisation 2005-2006 par l'agriculteur divisée par un rendement théorique de 102,1 tonnes par hectare.
+
+Par dérogation au premier alinéa du présent article, lorsque le rendement relatif à la production de betteraves d'un agriculteur est supérieur à 130 tonnes par hectare, la surface relative à la betterave à sucre à inclure dans sa surface de référence est égale à la quantité de betteraves livrées au titre de la campagne de commercialisation 2005-2006 par l'agriculteur divisée par un rendement théorique de 102,1 tonnes par hectare.
+
+On entend par « rendement relatif à la production de betteraves d'un agriculteur », le rapport entre la différence, exprimée en tonnes par hectare, entre la quantité de betteraves livrées au titre de la campagne de commercialisation 2005-2006 affectée d'un coefficient multiplicateur de 0,92, et la quantité de betteraves destinées à la production d'éthanol pour cette campagne, et la surface déclarée en « betteraves sucrières » au titre de la campagne 2005.
+
+2. La surface relative à la betterave à sucre est incluse dans la surface de référence de chaque agriculteur après ajout et soustraction du nombre des droits à paiement unique qui respectivement lui ont été transférés dans le cadre des contrats mentionnés à l'article 17 du règlement (CE) n° 795/2004 du 21 avril 2004 susvisé en lien avec des transferts fonciers intervenus au plus tard le 15 mai 2005 et qu'il a transférés dans le cadre des contrats mentionnés aux articles 17 et 27 du règlement (CE) n° 795/2004 du 21 avril 2004 susvisé en lien avec des transferts fonciers intervenus au plus tard le 15 mai 2005
