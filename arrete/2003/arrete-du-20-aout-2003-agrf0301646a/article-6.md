@@ -6,13 +6,13 @@ Les catégories d'animaux retenues pour calculer le chargement des exploitations
 
 - bovins de plus de deux ans : 1 UGB ; bovins de 6 mois à 2 ans :
 
-0,6 UGB. Le demandeur doit respecter les règles applicables relatives à l'identification pérenne généralisée. Les animaux pris en compte sont ceux retenus au titre du complément extensif de l'année précédant la demande d'aide ;
+0,6 UGB. Le demandeur doit respecter les règles applicables relatives à l'identification pérenne généralisée. Les animaux pris en compte sont ceux présents dans la base de données nationale d'identification l'année civile précédant la demande d'aide ;
 
-- brebis-mères, antenaises âgées au moins d'un an : 0,15 UGB ; chèvres-mères, femelles de l'espèce caprine âgées d'au moins un an :
+- brebis mères, antenaises âgées au moins d'un an : 0,15 UGB ; les ovins retenus sont ceux déclarés à la prime à la brebis (PB), pour l'année en cours par une demande déposée dans les délais par un producteur éligible à la PB ;
 
-0,15 UGB. Les ovins et les caprins retenus sont ceux déclarés à la prime à la brebis et à la chèvre (PBC), pour l'année en cours par une demande déposée dans les délais par un producteur éligible à la PBC. En zone défavorisée simple et piémont, les caprins retenus sont ceux déclarés sur le formulaire de demande d'aide de l'année en cours ;
+- chèvres mères, femelles de l'espèce caprine âgées d'au moins un an : 0,15 UGB. Les caprins retenus sont ceux déclarés sur le formulaire de demande d'aide de l'année en cours ;
 
-- équidés de plus de 6 mois : 1 UGB. Les animaux retenus sont ceux déclarés sur le formulaire de demande d'aide de l'année en cours ;
+- équidés éligibles de plus de 6 mois : 1 UGB. Les animaux retenus sont ceux déclarés sur le formulaire de demande d'aide de l'année en cours ;
 
 - lamas de plus de 2 ans : 0,45 UGB ; alpagas de plus de 2 ans :
 
