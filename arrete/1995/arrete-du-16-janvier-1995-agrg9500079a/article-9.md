@@ -6,7 +6,7 @@ a) Dans laquelle elles ont séjourné depuis leur éclosion ou depuis plus de vi
 
 b) Qui est exempte de toute mesure de police sanitaire applicable aux volailles ;
 
-c) Dans laquelle, lors de la visite sanitaire effectuée par un vétérinaire sanitaire dans les quarante-huit heures précédant l'expédition, le troupeau comprenant les volailles expédiées n'a présenté aucun signe clinique de maladie ou de suspicion de maladie réputée contagieuse des volailles.
+c) Dans laquelle, lors de la visite sanitaire effectuée par un vétérinaire sanitaire dans les vingt-quatre heures précédant l'expédition, le troupeau comprenant les volailles expédiées n'a présenté aucun signe clinique de maladie ou de suspicion de maladie réputée contagieuse des volailles.
 
 d) Située hors d'une zone telle que définie respectivement à l'article 7 des arrêtés du 8 juin 1994 susvisés, soumise, pour des raisons de police sanitaire, à des mesures de restriction suite à l'apparition d'influenza aviaire ou de maladie de Newcastle.
 

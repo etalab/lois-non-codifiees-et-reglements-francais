@@ -10,4 +10,4 @@ c) Les volailles de reproduction et de rente, excepté le gibier de repeuplement
 
 d) Les volailles d'abattage doivent remplir les conditions énoncées aux articles 8, 11, 12 et 14 du présent arrêté ;
 
-e) Les volailles âgées de plus de soixante-douze heures destinées à la fourniture de gibier de repeuplement doivent remplir les conditions énoncées aux articles 9, 11, 12 et 14 du présent arrêté.
+e) Les volailles âgées de plus de 72 heures destinées à la fourniture de gibier de repeuplement doivent remplir les conditions énoncées aux articles 9, 10 bis, 11, 12 et 14 du présent arrêté.

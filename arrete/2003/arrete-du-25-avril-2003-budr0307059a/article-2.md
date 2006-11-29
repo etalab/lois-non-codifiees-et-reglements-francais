@@ -47,3 +47,5 @@ Pour les agents utilisateurs :
 Les informations relatives aux utilisateurs sont conservées tant qu'ils ont compétence pour utiliser ACCORD. Les informations relatives aux données de connexion sont conservées deux ans.
 
 Les informations relatives aux tiers sont conservées jusqu'au 31 décembre de la quatrième année suivant celle du dernier référencement dans un dossier.
+
+Les informations concernant le nom patronymique, le prénom, le ministère d'appartenance, les coordonnées professionnelles ainsi que le rôle métier ou applicatif éventuel sont commnuniquées à un prestataire externe afin qu'il réalise une enquête qualité. Le prestataire qui agit au nom de l'AIFE conserve les données le temps nécessaire à la réalisation de l'enquête. Chaque personne susceptible d'être interrogée peut refuser de répondre aux questions posées.
