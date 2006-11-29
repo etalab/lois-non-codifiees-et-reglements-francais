@@ -8,7 +8,7 @@ II. - Pour 20 % des emplois à pourvoir, par examen professionnel ouvert :
 
 a) Aux chefs de district forestier principaux qui ne remplissent pas la condition d'âge fixée au I ci-dessus ;
 
-b) Aux chefs de district forestier justifiant d'une ancienneté de trois années dans ce grade et ayant atteint au moins le 6e échelon de leur grade au 1er janvier de l'année de l'examen.
+b) Aux chefs de district forestier justifiant d'une ancienneté de trois années dans ce grade et ayant atteint au moins le 5e échelon de leur grade au 1er janvier de l'année de l'examen.
 
 Les modalités de l'examen professionnel sont fixées par arrêté des ministres chargés de l'agriculture et de l'environnement après avis du directeur général de l'Office national des forêts ;
 
