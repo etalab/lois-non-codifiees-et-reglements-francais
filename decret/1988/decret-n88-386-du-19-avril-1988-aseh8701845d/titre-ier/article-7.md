@@ -1,6 +1,6 @@
 # Article 7
 
-Les comités médicaux [*attributions*] sont chargés de donner un avis à l'autorité compétente sur les contestations d'ordre médical qui peuvent s'élever à propos de l'admission des candidats aux emplois de la fonction publique hospitalière, de l'octroi et du renouvellement des congés de maladie et de la réintégration à l'issue de ces congés.
+Les comités médicaux sont chargés de donner un avis à l'autorité compétente sur les contestations d'ordre médical qui peuvent s'élever à propos de l'admission des candidats aux emplois de la fonction publique hospitalière, de l'octroi et du renouvellement des congés de maladie et de la réintégration à l'issue de ces congés.
 
 Ils sont consultés obligatoirement en ce qui concerne :
 
@@ -21,3 +21,15 @@ Ils sont consultés obligatoirement en ce qui concerne :
 ainsi que dans tous les autres cas prévus par des textes réglementaires.
 
 Les comités médicaux peuvent recourir au concours d'experts pris hors de leur formation. Ces experts doivent être choisis sur la liste des médecins agréés du département, prévue à l'article 1er du décret du 14 mars 1986 susvisé et, à défaut, sur la liste des médecins agréés d'autres départements. Les experts donnent leur avis par écrit ou sont entendus par le comité médical.
+
+Le secrétariat du comité médical informe le fonctionnaire :
+
+- de la date à laquelle le comité médical examinera son dossier ;
+
+- de ses droits relatifs à la communication de son dossier et à la possibilité de faire entendre le médecin de son choix ;
+
+- des voies de recours possibles devant le comité médical supérieur.
+
+L'avis du comité médical est communiqué au fonctionnaire, sur sa demande.
+
+Le secrétariat du comité médical est informé des décisions qui ne sont pas conformes à l'avis du comité médical.
