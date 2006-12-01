@@ -800,7 +800,7 @@ La liste des sections, des sous-sections et des options ainsi que le nombre des 
 <p align="center">03</p>
 </td>
 <td align="left" valign="top">
-<p align="left">Pharmacologie fondamentale ; pharmacologie clinique (2 options)</p>
+<p align="left">Pharmacologie fondamentale ; pharmacologie clinique ; addictologie (3 options)</p>
 </td>
 <td align="left" valign="top">
 <p align="center">Mixte</p>
@@ -826,7 +826,7 @@ La liste des sections, des sous-sections et des options ainsi que le nombre des 
 <p align="center">04</p>
 </td>
 <td align="left" valign="top">
-<p align="left">Thérapeutique ; médecine d'urgence (2 options)</p>
+<p align="left">Thérapeutique ; médecine d'urgence ; addictologie (3 options)</p>
 </td>
 <td align="left" valign="top">
 <p align="center">Mixte</p>
@@ -983,7 +983,7 @@ La liste des sections, des sous-sections et des options ainsi que le nombre des 
 <p align="center">03</p>
 </td>
 <td align="left" valign="top">
-<p align="left">Psychiatrie d'adultes</p>
+<p align="left">Psychiatrie d'adultes ; addictologie (2 options)</p>
 </td>
 <td align="left" valign="top">
 <p align="center">Clinique</p>
@@ -1009,7 +1009,7 @@ La liste des sections, des sous-sections et des options ainsi que le nombre des 
 <p align="center">04</p>
 </td>
 <td align="left" valign="top">
-<p align="left">Pédopsychiatrie</p>
+<p align="left">Pédopsychiatrie ; addictologie (2 options)</p>
 </td>
 <td align="left" valign="top">
 <p align="center">Clinique</p>
@@ -1217,7 +1217,7 @@ La liste des sections, des sous-sections et des options ainsi que le nombre des 
 <p align="center">01</p>
 </td>
 <td align="left" valign="top">
-<p align="left">Pneumologie</p>
+<p align="left">Pneumologie ; addictologie (2 options)</p>
 </td>
 <td align="left" valign="top">
 <p align="center">Clinique</p>
@@ -1347,7 +1347,7 @@ La liste des sections, des sous-sections et des options ainsi que le nombre des 
 <p align="center">01</p>
 </td>
 <td align="left" valign="top">
-<p align="left">Gastroentérologie ; hépatologie (2 options)</p>
+<p align="left">Gastroentérologie ; hépatologie ; addictologie (3 options)</p>
 </td>
 <td align="left" valign="top">
 <p align="center">Clinique</p>
@@ -1477,7 +1477,7 @@ La liste des sections, des sous-sections et des options ainsi que le nombre des 
 <p align="center">01</p>
 </td>
 <td align="left" valign="top">
-<p align="left">Médecine interne ; gériatrie et biologie du vieillissement (2 options)</p>
+<p align="left">Médecine interne ; gériatrie et biologie du vieillissement ; médecine générale ; addictologie (4 options)</p>
 </td>
 <td align="left" valign="top">
 <p align="center">Clinique</p>
