@@ -193,6 +193,7 @@
 - [Décret n°2006-1319 du 30 octobre 2006 (JUSC0620779D)](decret-n2006-1319-du-30-octobre-2006-jusc0620779d)
 - [Décret n°2006-1322 du 30 octobre 2006 (EQUT0602132D)](decret-n2006-1322-du-30-octobre-2006-equt0602132d)
 - [Décret n°2006-1323 du 30 octobre 2006 (SANH0624002D)](decret-n2006-1323-du-30-octobre-2006-sanh0624002d)
+- [Décret n°2006-381 du 30 mars 2006 (DEFM0600356D)](decret-n2006-381-du-30-mars-2006-defm0600356d)
 - [Décret n°2006-389 du 30 mars 2006 (MAEF0610017D)](decret-n2006-389-du-30-mars-2006-maef0610017d)
 - [Décret n°2006-1324 du 31 octobre 2006 (SANS0623866D)](decret-n2006-1324-du-31-octobre-2006-sans0623866d)
 - [Décret n°2006-1325 du 31 octobre 2006 (SANS0623867D)](decret-n2006-1325-du-31-octobre-2006-sans0623867d)
