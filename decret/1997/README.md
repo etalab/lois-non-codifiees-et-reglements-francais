@@ -752,7 +752,6 @@
 - [Décret n°97-91 du 28 janvier 1997 (BUDB9660065D)](decret-n97-91-du-28-janvier-1997-budb9660065d)
 - [Décret n°97-92 du 28 janvier 1997 (BUDF9700002D)](decret-n97-92-du-28-janvier-1997-budf9700002d)
 - [Décret n°97-993 du 28 octobre 1997 (ECOP9700257D)](decret-n97-993-du-28-octobre-1997-ecop9700257d)
-- [Décret n°97-994 du 28 octobre 1997 (EQUP9700270D)](decret-n97-994-du-28-octobre-1997-equp9700270d)
 - [Décret n°99-544 du 28 juin 1999 (INTC9900125D)](decret-n99-544-du-28-juin-1999-intc9900125d)
 - [Décret n°97-535 du 28 mai 1997 (LOGC9700045D)](decret-n97-535-du-28-mai-1997-logc9700045d)
 - [Décret n°97-545 du 28 mai 1997 (JUSD9730087D)](decret-n97-545-du-28-mai-1997-jusd9730087d)

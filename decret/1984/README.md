@@ -161,7 +161,6 @@
 - [Décret n°84-143 du 22 février 1984](decret-n84-143-du-22-fevrier-1984)
 - [Décret n°84-489 du 22 juin 1984](decret-n84-489-du-22-juin-1984)
 - [Décret n°84-491 du 22 juin 1984](decret-n84-491-du-22-juin-1984)
-- [Décret n°84-509 du 22 juin 1984](decret-n84-509-du-22-juin-1984)
 - [Décret n°84-936 du 22 octobre 1984](decret-n84-936-du-22-octobre-1984)
 - [Décret n°84-966 du 22 octobre 1984](decret-n84-966-du-22-octobre-1984)
 - [Décret n°84-388 du 22 mai 1984](decret-n84-388-du-22-mai-1984)

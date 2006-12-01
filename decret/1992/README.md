@@ -416,7 +416,6 @@
 - [Décret n°92-662 du 13 juillet 1992 (SPSS9201463D)](decret-n92-662-du-13-juillet-1992-spss9201463d)
 - [Décret n°92-663 du 13 juillet 1992 (SPSS9201280D)](decret-n92-663-du-13-juillet-1992-spss9201280d)
 - [Décret n°92-664 du 13 juillet 1992 (SPSS9201282D)](decret-n92-664-du-13-juillet-1992-spss9201282d)
-- [Décret n°92-668 du 13 juillet 1992 (MENN9202173D)](decret-n92-668-du-13-juillet-1992-menn9202173d)
 - [Décret n°92-787 du 13 août 1992 (TEFE9205116D)](decret-n92-787-du-13-aout-1992-tefe9205116d)
 - [Décret n°92-791 du 13 août 1992 (INDG9200495D)](decret-n92-791-du-13-aout-1992-indg9200495d)
 - [Décret n°92-792 du 13 août 1992 (INDP9200425D)](decret-n92-792-du-13-aout-1992-indp9200425d)
