@@ -1,23 +1,7 @@
 # Article 28
 
-Sont intégrés en qualité de titulaires dans le cadre d'emplois des attachés territoriaux, lorsqu'ils se trouvent en position d'activité et occupent effectivement leur emploi à la date de publication du présent décret les fonctionnaires territoriaux titulaires suivants :
+Les attachés principaux de 2e et de 1re classe sont reclassés dans le grade d'attaché principal à la date d'entrée en vigueur du décret n° 2006-1460 du 28 novembre 2006 modifiant le décret n° 87-1099 du 30 décembre 1987 portant statut particulier du cadre d'emplois des attachés territoriaux.
 
-1° Le directeur général des services des communes de 5 000 à 40 000   habitants compte tenu le cas échéant d'un surclassement démographique décidé avant le 26 janvier 1984 ou approuvé après cette date par l'autorité administrative compétente, le secrétaire général des communautés urbaines, des syndicats d'agglomération nouvelle et des districts de 5 000 à 40 000 habitants ; [*population*].
+Ce reclassement intervient à l'échelon du grade comportant un indice égal ou, à défaut, immédiatement supérieur à celui dont bénéficie le fonctionnaire dans son grade ou son emploi d'origine. Le fonctionnaire conserve à cette occasion, dans la limite de la durée maximale de services exigée pour l'accès à l'échelon supérieur de son nouveau grade, l'ancienneté d'échelon acquise dans son précédent grade, lorsque le reclassement ne lui procure pas un avantage supérieur à celui qui aurait résulté d'un avancement dans son corps ou emploi d'origine.
 
-2° Le directeur d'office public d'habitations à loyer modéré de 800 à 10 000 logements, les directeurs adjoints d'offices publics d'habitations à loyer modéré de plus de 10 000 logements et les sous-directeurs d'offices publics d'habitations à loyer modéré de plus de 5 000 logements ;
-
-3° Le directeur du centre communal d'action sociale des communes de 40 000 à 400 000 habitants ;
-
-4° Les sous-directeurs de caisse de crédit municipal ;
-
-5° Les attachés et attachés principaux des communes, départements, régions et de leurs établissements publics administratifs et des offices publics d'habitations à loyer modéré ;
-
-6° Les chefs de bureau des villes et des offices publics d'habitations à loyer modéré ;
-
-7° Les receveurs spéciaux des offices publics d'habitations à loyer modéré de plus de 5 000 logements ;
-
-8° Les chefs de service des caisses de crédit municipal ;
-
-9° Les directeurs de service administratif des villes.
-
-" Sont également intégrés les directeurs des caisses de crédit municipal de catégories C et D nommés en application du décret n° 81-389 du 24 avril 1981 modifié. "
+Les fonctionnaires reclassés alors qu'ils ont atteint le dernier échelon de leur grade d'origine conservent leur ancienneté d'échelon dans les mêmes conditions et limites lorsque l'augmentation de traitement consécutive à leur reclassement est inférieure à celle qui a résulté de leur promotion à ce dernier échelon.

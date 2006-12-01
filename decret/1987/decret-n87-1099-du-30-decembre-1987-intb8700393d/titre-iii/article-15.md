@@ -1,7 +1,11 @@
 # Article 15
 
-Les stagiaires mentionnés à l'article 8 sont rémunérés par la collectivité ou l'établissement qui a procédé au recrutement. Ils sont placés à l'échelon du grade d'attaché comportant un traitement égal ou à défaut immédiatement supérieur à celui dont ils bénéficiaient dans leur emploi d'origine.
+I. - Les agents qui justifient de services d'agent public non titulaire autres que des services d'élève ou de stagiaire, ou de services en tant qu'agent d'une organisation internationale intergouvernementale, sont classés à un échelon déterminé en prenant en compte une fraction de leur ancienneté de services publics civils dans les conditions suivantes :
 
-Lorsque leur nomination ne leur procure pas une augmentation de traitement égale ou supérieure à celle qu'ils auraient obtenue par un avancement d'échelon dans leur précédente situation, ils conservent l'ancienneté d'échelon acquise dans leur précédent grade dans la limite nécessaire à un avancement d'échelon. Pour l'application de ces dispositions aux fonctionnaires parvenus à l'échelon maximum de leur grade, le bénéfice retiré de la nomination en qualité d'attaché doit être comparé à l'augmentation de traitement obtenue lors du dernier avancement d'échelon dans le grade d'origine.
+1° Les services accomplis dans des fonctions du niveau de la catégorie A sont retenus à raison de la moitié de leur durée jusqu'à douze ans et des trois quarts au-delà de douze ans ;
 
-Lorsque ces fonctionnaires sont titularisés, ils sont placés à l'échelon et avec l'ancienneté d'échelon qu'ils détiennent au jour de leur titularisation, sans qu'il soit tenu compte de la prolongation éventuelle de la période de stage prévue au deuxième alinéa de l'article 9 ci-dessus.
+2° Les services accomplis dans des fonctions du niveau de la catégorie B ne sont pas retenus en ce qui concerne les sept premières années ; ils sont pris en compte à raison des six seizièmes pour la fraction comprise entre sept ans et seize ans et des neuf seizièmes pour l'ancienneté excédant seize ans ;
+
+3° Les services accomplis dans des fonctions du niveau de la catégorie C sont retenus à raison des six seizièmes de leur durée excédant dix ans.
+
+II. - Les agents non titulaires qui ont occupé des fonctions de différents niveaux peuvent demander que la totalité de leur ancienneté de services publics civils soit prise en compte, dans les conditions fixées au I, comme si elle avait été accomplie dans les fonctions du niveau le moins élevé.

@@ -1,9 +1,5 @@
 # Article 30
 
-Sont intégrés en qualité de titulaires dans le cadre d'emplois des attachés territoriaux, lorsqu'ils se trouvent en position d'activité et occupent effectivement leur emploi à la date de publication du présent décret et lorsqu'ils possèdent un diplôme d'études universitaires générales ou un diplôme d'études supérieures d'administration municipale ou ont une ancienneté de cinq ans au moins dans leur emploi, les fonctionnaires territoriaux titulaires suivants :
+Les attachés territoriaux stagiaires dont le stage est en cours à la date d'entrée en vigueur du décret n° 2006-1460 du 28 novembre 2006 modifiant le décret n° 87-1099 du 30 décembre 1987 portant statut particulier du cadre d'emplois des attachés territoriaux sont classés à cette même date en application de l'article 10.
 
-1° Le directeur général des services des communes de 2 000 à 5 000 habitants, compte tenu, le cas échéant, d'un surclassement démographique décidé avant le 26 janvier 1984 ou approuvé après cette date par l'autorité administrative compétente ;
-
-2° Le directeur ou secrétaire général d'établissement public de coopération intercommunale occupant un emploi créé par référence à un emploi de directeur général des services des communes de 2 000 à 5 000 habitants ;
-
-3° Le directeur de centre communal d'action sociale des communes de moins de 40 000 habitants [*population*].
+Toutefois, les agents en cours de prolongation de stage en application du deuxième alinéa de l'article 9 à la date d'entrée en vigueur du décret n° 2006-1460 du 28 novembre 2006 sont classés à cette même date selon les dispositions en vigueur à la date correspondant au terme normal du stage.

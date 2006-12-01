@@ -1,5 +1,5 @@
 # Article 10
 
-Les stagiaires mentionnés à l'article 7 sont rémunérés par la collectivité ou l'établissement qui a procédé au recrutement sur la base de l'indice afférent au 1er échelon du grade d'attaché. Toutefois, ceux qui avaient auparavant la qualité de fonctionnaire perçoivent le traitement indiciaire correspondant à leur situation antérieure si ce traitement est supérieur à celui correspondant au 1er échelon de la seconde classe du grade d'attaché .
+Les personnes nommées dans le présent cadre d'emplois sont classées à un échelon du premier grade de ce cadre d'emplois, déterminé sur la base des durées maximales prévues à l'article 17, en application des articles 11 à 15-4. Le classement est prononcé à la date de nomination comme stagiaire.
 
-Lorsque ces fonctionnaires sont titularisés, ils sont placés à l'échelon du grade d'attaché correspondant à l'ancienneté acquise depuis leur nomination dans le cadre d'emplois, sans qu'il soit tenu compte de la prolongation éventuelle de la période de stage prévue au deuxième alinéa de l'article 9 ci-dessus.
+Lors de la titularisation, l'ancienneté acquise en qualité de stagiaire dans le cadre d'emplois est prise en compte pour l'avancement, dans la limite de la durée normale de stage.

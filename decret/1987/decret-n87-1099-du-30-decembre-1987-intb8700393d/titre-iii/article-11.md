@@ -1,7 +1,7 @@
 # Article 11
 
-Les fonctionnaires appartenant à un cadre d'emplois ou à un corps de catégorie A, ou titulaires d'un emploi de même niveau, sont classés à l'échelon comportant un indice égal ou, à défaut, immédiatement supérieur à celui qu'ils détenaient dans leur grade ou leur emploi d'origine.
+I. - Un même agent ne peut bénéficier que d'une seule des dispositions des articles 12 à 15-3. Une même période ne peut être prise en compte qu'à un seul titre.
 
-Dans la limite de l'ancienneté maximale exigée pour une promotion à l'échelon supérieur, ils conservent l'ancienneté d'échelon acquise dans leur précédent grade ou emploi lorsque l'augmentation de traitement consécutive à leur titularisation est inférieure à celle qui résulterait d'un avancement d'échelon dans leur ancienne situation.
+Les personnes qui, compte tenu de leur parcours professionnel, relèvent des dispositions de plusieurs des articles mentionnés à l'alinéa précédent sont classées en application des dispositions de l'article correspondant à leur dernière situation. Ces agents peuvent toutefois, dans un délai maximal de six mois à compter de la notification de la décision prononçant leur classement dans les conditions prévues à l'alinéa précédent, demander que leur soient appliquées les dispositions d'un autre de ces articles, qui leur sont plus favorables.
 
-Les candidats nommés alors qu'ils ont atteint l'échelon le plus élevé de leur précédent grade ou emploi, conservent leur ancienneté d'échelon dans les mêmes conditions et limites lorsque l'augmentation de traitement consécutive à leur titularisation est inférieure à celle qui résulte de leur élévation audit échelon.
+II. - Les agents qui justifiaient, avant leur nomination dans ce cadre d'emplois, de services accomplis dans une administration, un organisme ou un établissement d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen au sens de l'article 4 du décret n° 2003-673 du 22 juillet 2003 sont classés en application des dispositions du titre II de ce décret.

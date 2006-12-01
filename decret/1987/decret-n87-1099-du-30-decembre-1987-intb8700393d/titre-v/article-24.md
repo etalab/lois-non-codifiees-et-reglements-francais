@@ -4,9 +4,9 @@ Le détachement dans le cadre d'emplois des attachés territoriaux intervient :
 
 1° Pour les fonctionnaires titulaires d'un grade ou d'un emploi dont l'indice brut terminal est supérieur à 966, au grade de directeur territorial ;
 
-2° Pour les fonctionnaires titulaires d'un grade ou d'un emploi dont l'indice brut terminal est supérieur à 821, au grade d'attaché principal de 1re classe.
+2° Alinéa abrogé ;
 
-3° Pour les fonctionnaires titulaires d'un grade ou d'un emploi dont l'indice brut terminal est supérieur à 780, au grade d'attaché principal de 2e classe. "
+3° Pour les fonctionnaires titulaires d'un grade ou d'un emploi dont l'indice brut terminal est supérieur à 801, au grade d'attaché principal.
 
 4° Pour les autres fonctionnaires dans le grade d'attaché.
 
