@@ -10,13 +10,11 @@ Les fonctionnaires promus à la classe supérieure ou au grade assimilé alors q
 
 II. - Peuvent être promus à la classe exceptionnelle ou au grade assimilé :
 
-a) Après concours ou examen professionnel, les fonctionnaires de classe normale ou du grade assimilé ayant atteint au moins le 7e échelon ainsi que les fonctionnaires de classe supérieure ou du grade assimilé ;
+a) Après examen professionnel, les fonctionnaires de classe normale ou du grade assimilé ayant atteint au moins le 7e échelon ainsi que les fonctionnaires de classe supérieure ou du grade assimilé. Toutefois, les statuts particuliers des corps régis par le présent décret pourront prévoir, à la place de cet examen, un concours professionnel ;
 
 b) Au choix, les fonctionnaires de classe supérieure ou du grade assimilé ayant atteint le 4e échelon de leur grade.
 
-Ces promotions s'effectuent pour les deux tiers par la voie du concours ou de l'examen professionnel et pour un tiers au choix.
-
-Lorsque le nombre des promotions à prononcer au titre du présent article n'est pas un multiple de trois, le reste est ajouté aux nominations à prononcer au cours de l'année suivante pour le calcul des nominations pouvant intervenir au cours de cette nouvelle année au titre du présent article.
+Les promotions s'effectuent au minimum pour un tiers et au maximum pour les deux tiers par la voie de l'examen professionnel ou du concours.
 
 Les modalités d'organisation et le déroulement du concours ou de l'examen professionnel sont fixés par arrêté du ministre dont relève le corps de fonctionnaires.
 
