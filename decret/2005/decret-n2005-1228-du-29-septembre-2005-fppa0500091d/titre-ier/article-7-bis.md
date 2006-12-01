@@ -1,0 +1,3 @@
+# Article 7 bis
+
+Les ressortissants des autres Etats membres de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen qui justifient, avant leur nomination dans un corps de fonctionnaires de catégorie C, de l'exercice des activités définies au II de l'article 5 peuvent opter, dans les mêmes conditions que celles prévues à l'article 6, pour l'application des dispositions de l'un des articles 3 à 5 plutôt que pour l'application de celles du décret n° 2002-1294 du 24 octobre 2002 fixant les dispositions générales relatives à la situation et aux modalités de classement des ressortissants des Etats membres de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen.

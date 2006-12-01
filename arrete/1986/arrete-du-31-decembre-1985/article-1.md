@@ -1,3 +1,3 @@
 # Article 1
 
-Le taux de l'indemnité de vol prévue par le décret du 2 octobre 1970 susvisé est fixé à 6, 41 € par jour.
+Les charges de fonctionnement du système automatisé des opérations de dédouanement et des terminaux mis à la disposition des abonnés sont réparties à raison de 50 p. 100 pour les usagers et de 50 p. 100 pour l'Etat. Les charges d'investissement le sont à raison de 70 p. 100 pour les usagers et de 30 p. 100 pour l'Etat.

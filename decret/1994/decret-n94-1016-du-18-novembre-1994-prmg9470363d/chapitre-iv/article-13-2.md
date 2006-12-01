@@ -1,0 +1,5 @@
+# Article 13-2
+
+Les fonctionnaires stagiaires ou élèves qui, à la date d'entrée en vigueur du décret n° 2006-1441 du 24 novembre 2006 modifiant le décret n° 94-1016 du 18 novembre 1994 fixant les dispositions statutaires communes applicables à divers corps de fonctionnaires de la catégorie B, étaient classés, en cette qualité, au 1er échelon du premier grade de l'un des corps régis par le présent décret, ou dans un échelon d'élève ou de stagiaire, demeurent soumis aux dispositions qui leur étaient applicables à la date de nomination en ce qui concerne leurs modalités de rémunération. Ils sont classés lors de leur titularisation en application des dispositions des articles 3 à 7 du présent décret.
+
+Les agents en cours de prolongation de stage dans l'un des corps régis par le présent décret à la date d'entrée en vigueur du décret n° 2006-1441 du 24 novembre 2006 modifiant le décret n° 94-1016 du 18 novembre 1994 fixant les dispositions statutaires communes applicables à divers corps de fonctionnaires de la catégorie B sont classés lors de leur titularisation en application des dispositions en vigueur à la date du terme normal du stage.

@@ -1,0 +1,5 @@
+# Article 4-3
+
+Les personnes qui justifient, avant leur nomination dans un corps régi par le présent décret, de services accomplis dans une administration ou un organisme d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen au sens de l'article 4 du décret n° 2002-1294 du 24 octobre 2002 fixant les dispositions générales relatives à la situation et aux modalités de classement des ressortissants des Etats membres de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen, sont classées, lors de leur nomination, en application des dispositions du titre II du même décret.
+
+Lorsqu'ils justifient en outre de services ne relevant pas de l'application du décret du 24 octobre 2002 précité, ils peuvent opter, dans les mêmes conditions que celles prévues à l'article 6, pour l'application des dispositions de l'un des articles 3 à 5 plutôt que pour l'application de celles du décret du 24 octobre 2002.
