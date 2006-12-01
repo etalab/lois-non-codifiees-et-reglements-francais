@@ -57,6 +57,7 @@
 - [Décret n°2006-1380 du 13 novembre 2006 (SOCN0611992D)](decret-n2006-1380-du-13-novembre-2006-socn0611992d)
 - [Décret n°2006-1381 du 13 novembre 2006 (SOCN0611993D)](decret-n2006-1381-du-13-novembre-2006-socn0611993d)
 - [Décret n°2006-1382 du 13 novembre 2006 (MCCT0600797D)](decret-n2006-1382-du-13-novembre-2006-mcct0600797d)
+- [Décret n°92-668 du 13 juillet 1992 (MENN9202173D)](decret-n92-668-du-13-juillet-1992-menn9202173d)
 - [Décret du 14 octobre 2006 (ECOC0600101D)](decret-du-14-octobre-2006-ecoc0600101d)
 - [Décret n°2006-1258 du 14 octobre 2006 (INTD0600214D)](decret-n2006-1258-du-14-octobre-2006-intd0600214d)
 - [Décret n°2006-1260 du 14 octobre 2006 (SANP0623239D)](decret-n2006-1260-du-14-octobre-2006-sanp0623239d)
