@@ -15,6 +15,8 @@
 - [Décret n°2007-1306 du 3 septembre 2007 (DEFH0751139D)](decret-n2007-1306-du-3-septembre-2007-defh0751139d)
 - [Décret n°2003-849 du 4 septembre 2003 (EQUX0300098D)](decret-n2003-849-du-4-septembre-2003-equx0300098d)
 - [Décret n°2006-1220 du 4 octobre 2006 (EQUU0601337D)](decret-n2006-1220-du-4-octobre-2006-equu0601337d)
+- [Décret n°2006-1504 du 4 décembre 2006 (ECOT0614566D)](decret-n2006-1504-du-4-decembre-2006-ecot0614566d)
+- [Décret n°2006-1517 du 4 décembre 2006 (EQUT0602195D)](decret-n2006-1517-du-4-decembre-2006-equt0602195d)
 - [Décret n°2006-1341 du 6 novembre 2006 (EQUG0601210D)](decret-n2006-1341-du-6-novembre-2006-equg0601210d)
 - [Décret n°2006-1342 du 6 novembre 2006 (EQUG0601211D)](decret-n2006-1342-du-6-novembre-2006-equg0601211d)
 - [Décret n°2006-1343 du 6 novembre 2006 (EQUG0601212D)](decret-n2006-1343-du-6-novembre-2006-equg0601212d)

@@ -10,6 +10,4 @@ La sous-direction des actions internationales comprend :
 
 - le bureau du personnel à l'international, qui apporte son concours à la direction générale du personnel et de l'administration, à la direction générale de l'aviation civile et à la direction du tourisme pour la sélection, la formation et le suivi de l'action des personnels du ministère appelés à travailler à l'étranger ou dans des organisations internationales ou à participer à des projets de coopération ;
 
-- le bureau des synthèses et de l'information, qui est chargé de la diffusion de l'information, des relations publiques du ministère à l'international et de la gestion des moyens relatifs aux actions internationales ;
-
 - le bureau du développement des exportations, qui participe aux actions de développement des exportations et de la présence à l'étranger des entreprises des secteurs de compétence du ministère.
