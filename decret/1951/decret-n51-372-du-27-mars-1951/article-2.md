@@ -1,9 +1,13 @@
 # Article 2
 
-La demande de carte professionnelle de courtier en vins et spiritueux dit "courtier de campagne" doit être déposée par chaque intéressé à la préfecture de son domicile. Il est délivré récépissé de cette demande. La commission consultative prévue à l'article 4 de la loi du 31 décembre 1949 vérifie si les conditions requises sont remplies et donne, dans le délai de deux mois, son avis motivé sur la suite à donner à la demande.
+La demande de carte professionnelle de courtier en vins et spiritueux est adressée au président de la chambre régionale de commerce et d'industrie de la région au sein de laquelle l'intéressé souhaite exercer.
 
-Le préfet statue dans les deux mois qui suivent l'intervention de cet avis et assure, s'il y a lieu, la délivrance de la carte.
+Si le demandeur remplit les conditions fixées aux 1° à 5° de l'article 2 de la loi du 31 décembre 1949 susvisée et justifie avoir accompli un stage chez un courtier en vins, le président de la chambre régionale de commerce et d'industrie lui notifie la recevabilité de sa demande dans un délai d'un mois à compter de sa réception.
 
-En ce qui concerne les courtiers visés au dernier alinéa de l'article 1er ci-dessus, la carte portera mention de son caractère provisoire et ne sera valable que jusqu'à l'expiration du délai de six mois prévu au même alinéa.
+Le demandeur est soumis à un examen devant un jury constitué auprès de la chambre régionale de commerce et d'industrie. Ce jury se prononce, dans les six mois à compter de la notification de la recevabilité de sa demande, sur les conditions fixées au 6° de l'article 2 de la loi du 31 décembre 1949 susvisée.
 
-Sans préjudice des recours juridictionnels prévus au dernier alinéa de l'article 4 précité de la loi du 31 décembre 1949, tout intéressé peut, dans les deux mois qui suivent la publication de la décision du préfet, dans les conditions prévues à l'article 3 ci-après, saisir le ministre chargé de l'industrie et du commerce d'un recours hiérarchique contre cette décision.
+En cas de réussite à l'examen mentionné à l'alinéa précédent, le président de la chambre régionale de commerce et d'industrie délivre la carte professionnelle à l'intéressé dans un délai d'un mois à compter de la date à laquelle le jury s'est prononcé.
+
+En cas d'échec à l'examen, l'intéressé ne peut présenter une nouvelle demande de carte professionnelle avant un délai de six mois à compter de la date mentionnée à l'alinéa précédent.
+
+La liste des pièces à produire à l'appui de la demande de carte et les mentions portées sur la carte sont fixées par un arrêté du ministre chargé du commerce.

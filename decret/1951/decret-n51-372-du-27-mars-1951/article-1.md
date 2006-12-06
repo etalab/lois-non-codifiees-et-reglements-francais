@@ -1,10 +1,10 @@
 # Article 1
 
-Sont considérés comme exerçant une activité incompatible avec la profession de courtier en vins et spiritueux dit "courtier de campagne", pour l'application de l'article 2 (4°) de la loi du 31 décembre 1949, les personnes suivantes :
+Sont considérés comme exerçant une activité incompatible avec la profession de courtier en vins et spiritueux dit " courtier de campagne ", pour l'application de l'article 2 (4°) de la loi du 31 décembre 1949, les personnes suivantes :
 
-Fonctionnaires et agents de l'Etat, et notamment les receveurs buralistes ;
+Fonctionnaires et agents de l'Etat et de ses établissements publics ;
 
-Fonctionnaires et agents des départements et communes, et notamment les secrétaires de mairie ;
+Fonctionnaires et agents des régions, départements et communes et de leurs établissements publics ;
 
 Employés des caisses de sécurité sociale et d'allocations familiales ;
 
@@ -21,5 +21,3 @@ Transitaires, stockeurs, transporteurs, acconiers ;
 Débitants de boissons, restaurateurs et hôteliers ;
 
 Directeurs, employés et salariés à quelque titre que ce soit, des journaux dont l'activité est principalement consacrée à l'examen des questions relatives à la viticulture et au commerce des vins et spiritueux.
-
-Toute personne appartenant à l'une des catégories ci-dessus énumérées et qui, à la date de publication du présent décret, exerce effectivement la profession de courtier en vins et spiritueux dit "courtier de campagne" devra dans les six mois avoir cessé effectivement l'une de ces deux activités.
