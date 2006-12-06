@@ -20,7 +20,7 @@
 
 10° Secrétaires d'administration scolaire et universitaire, régis par le décret n° 94-1017 du 18 novembre 1994 modifié fixant les dispositions statutaires communes applicables aux corps des secrétaires administratifs des administrations de l'Etat et à certains corps analogues.
 
-11° Secrétaires de documentation, régis par le décret n° 96-533 du 14 juin 1996 portant statut particulier du corps des secrétaires de documentation de l'éducation nationale.
+11° (Abrogé)
 
 12° Adjoints administratifs des services déconcentrés du ministère de l'éducation nationale, régis par le décret n° 90-713 du 1er août 1990 modifié relatif aux dispositions statutaires communes applicables aux corps d'adjoints administratifs des administrations de l'Etat.
 

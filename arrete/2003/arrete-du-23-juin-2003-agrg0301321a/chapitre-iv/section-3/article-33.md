@@ -2,7 +2,7 @@
 
 Dans les cas où il est fait référence au présent article, le directeur départemental des services vétérinaires peut autoriser la sortie des porcs de l'exploitation concernée, à condition que :
 
-a) Le vétérinaire sanitaire de l'exploitation ait effectué un examen clinique des porcs présents dans l'exploitation et en particulier de ceux devant être transportés, comportant notamment la prise de température corporelle d'un échantillon d'entre eux conformément aux instructions du ministre chargé de l'agriculture, ainsi qu'un contrôle du registre et des marques d'identification des porcs visés aux articles 4 et 5 de la directive 92/102/CEE ;
+a) Le vétérinaire sanitaire de l'exploitation ait effectué un examen clinique des porcs présents dans l'exploitation et en particulier de ceux devant être transportés, comportant notamment la prise de température corporelle d'un échantillon d'entre eux conformément aux instructions du ministre chargé de l'agriculture, ainsi qu'un contrôle du registre et des marques d'identification des porcs conformément à la réglementation en vigueur ;
 
 b) Les contrôles et examens susmentionnés n'aient pas mis en évidence la présence de la peste porcine classique et aient attesté le respect des dispositions de la directive 92/102/CEE ;
 
