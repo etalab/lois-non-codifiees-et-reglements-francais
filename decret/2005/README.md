@@ -43,6 +43,7 @@
 - [Décret n°2005-1298 du 20 octobre 2005 (ECOX0500205D)](decret-n2005-1298-du-20-octobre-2005-ecox0500205d)
 - [Décret n°2005-1308 du 20 octobre 2005 (ECOM0520014D)](decret-n2005-1308-du-20-octobre-2005-ecom0520014d)
 - [Décret n°2005-840 du 20 juillet 2005 (SANP0522707D)](decret-n2005-840-du-20-juillet-2005-sanp0522707d)
+- [Décret n°2005-1192 du 21 septembre 2005 (MENF0501750D)](decret-n2005-1192-du-21-septembre-2005-menf0501750d)
 - [Décret n°2002-252 du 22 février 2002 (RECR0200060D)](decret-n2002-252-du-22-fevrier-2002-recr0200060d)
 - [Décret n°2005-693 du 23 juin 2005 (MPEX0508523D)](decret-n2005-693-du-23-juin-2005-mpex0508523d)
 - [Décret n°2005-696 du 23 juin 2005 (MENB0501195D)](decret-n2005-696-du-23-juin-2005-menb0501195d)
