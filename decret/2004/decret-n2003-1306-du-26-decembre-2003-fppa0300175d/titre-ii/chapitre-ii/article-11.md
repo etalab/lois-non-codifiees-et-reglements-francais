@@ -2,7 +2,7 @@
 
 Le temps passé dans une position statutaire ne comportant pas l'accomplissement de services effectifs au sens de l'article 8 ne peut entrer en compte dans la constitution du droit à pension, sauf dans les cas suivants :
 
-1° Dans la limite de trois ans par enfant légitime, naturel ou adoptif, né ou adopté à partir du 1er janvier 2004, sous réserve que le titulaire de la pension ait bénéficié en application des dispositions des articles 60 bis, 75 et 75 bis de la loi du 26 janvier 1984 susvisée, du b de l'article 24 du décret du 13 janvier 1986 susvisé, des articles 46-1, 64 et 64-1 de la loi du 9 janvier 1986 susvisée et du b de l'article 34 du décret du 13 octobre 1988 susvisé :
+1° Dans la limite de trois ans par enfant légitime, naturel ou adoptif, né ou adopté à partir du 1er janvier 2004, sous réserve que le titulaire de la pension ait bénéficié en application des dispositions des articles 60 bis, 75 et 75 bis de la loi du 26 janvier 1984 susvisée, du b de l'article 24 du décret du 13 janvier 1986 susvisé, du 11° de l'article 41 et des articles 46-1 et 64 de la loi du 9 janvier 1986 susvisée et du b de l'article 34 du décret du 13 octobre 1988 susvisé :
 
 a) D'un temps partiel de droit pour élever un enfant ;
 
