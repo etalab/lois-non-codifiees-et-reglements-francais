@@ -1,6 +1,6 @@
 # Article 55
 
-Le croisement à niveau, en tréfonds ou en sursol, d'une ligne du réseau ferré national par une voie de communication publique nouvelle n'ouvre droit, au profit de RFF, à aucune indemnité à caractère domanial pour la partie de l'installation de croisement située à la verticale de la voie ferrée.
+Le croisement à niveau, en tréfonds ou en sursol, d'une ligne du réseau ferré national par une voie de communication publique nouvelle n'ouvre droit, au profit de RFF ou de la personne titulaire d'un des contrats mentionnés à l'article 1er-1 de la loi du 13 février 1997 susvisée, à aucune indemnité à caractère domanial pour la partie de l'installation de croisement située à la verticale de la voie ferrée.
 
 Les dépendances du domaine ferroviaire situées de part et d'autre de la voie ferrée, qui sont distraites définitivement de ce domaine pour la réalisation de l'ouvrage de croisement, sont cédées à l'Etat ou à la collectivité territoriale intéressée.
 
