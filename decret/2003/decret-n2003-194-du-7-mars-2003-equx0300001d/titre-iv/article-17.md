@@ -1,6 +1,6 @@
 # Article 17
 
-Réseau ferré de France élabore un document de référence du réseau qui contient l'ensemble des informations nécessaires à l'exercice des droits d'accès au réseau mentionnés au titre Ier.
+Réseau ferré de France élabore un document de référence du réseau ferré national qui contient l'ensemble des informations nécessaires à l'exercice des droits d'accès au réseau ferré national mentionnés au titre Ier. Le document de référence du réseau ferré national intègre les documents de référence élaborés par les titulaires d'une convention de délégation de service public dans les conditions prévues à l'article 20 du décret n° 2006-1534 du 6 décembre 2006, ainsi que les informations fournies par les titulaires d'un contrat de partenariat dans les conditions prévues à l'article 14 du décret susmentionné.
 
 Le document de référence comprend notamment :
 

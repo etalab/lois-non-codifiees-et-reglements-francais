@@ -11,3 +11,5 @@ Le conseil d'administration délibère sur les affaires relatives à l'objet de 
 - il propose à l'Etat le barème des redevances d'utilisation des infrastructures ferroviaires. Il détermine, sous réserve des dispositions du titre IV, les conditions générales de passation des contrats, conventions et marchés et les règles générales d'emploi des disponibilités et des réserves ;
 
 - il autorise, dans les conditions qu'il détermine, la conclusion des emprunts, la passation des marchés, conventions et mandats, les acquisitions, classements, déclassements, aliénations, échanges et constructions d'immeubles, l'occupation temporaire du domaine public de l'établissement, les prises ou cessions à bail de tous biens immobiliers ; plus généralement, il fixe les conditions dans lesquelles RFF assure la gestion de son patrimoine ; il accepte ou refuse les dons et les legs.
+
+Il délibère sur le principe du recours à un contrat mentionné à l'article 1er-1 de la loi du 13 février 1997 susvisée pour un projet d'infrastructure d'intérêt national ou international. Il autorise la signature du contrat.

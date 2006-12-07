@@ -22,6 +22,12 @@ Dans le cas d'une autosurveillance permanente (au moins une mesure représentati
 
 Dans le cas de prélèvements instantanés, aucun résultat de mesure ne dépasse le double de la valeur limite prescrite.
 
+Pour les émissions de composés organiques volatils des installations concernées par les 19° à 36° de l'article 30 :
+
+1° Dans le cas d'une autosurveillance permanente (au moins une mesure représentative par jour), aucune des moyennes portant sur vingt-quatre heures d'exploitation normale ne dépasse les valeurs limites d'émission et aucune des moyennes horaires n'est supérieure à 1,5 fois la valeur limite d'émission ;
+
+2° Dans le cas de mesures périodiques, la moyenne de toutes les mesures réalisées lors d'une opération de surveillance ne dépasse pas les valeurs limites d'émission et aucune des moyennes horaires n'est supérieure à 1,5 fois la valeur limite d'émission.
+
 IV. - Sauf autorisation explicite, la dilution des effluents est interdite. En aucun cas elle ne doit constituer un moyen de respecter les valeurs limites fixées par le présent arrêté.
 
 V. - L'arrêté d'autorisation précise le milieu dans lequel le rejet est autorisé ainsi que les conditions de rejet. Lorsque le rejet s'effectue dans un cours d'eau, le nom du cours d'eau et le point kilométrique de rejet sont précisés.

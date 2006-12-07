@@ -1,8 +1,6 @@
-# TITRE IV : DOCUMENT DE RÉFÉRENCE DU RÉSEAU ET RÉPARTITION DES CAPACITÉS D'INFRASTRUCTURE.
+# Chapitre 1er : Missions respectives du délégataire et de RFF.
 
-- [Article 17](article-17.md)
 - [Article 18](article-18.md)
-- [Article 18-1](article-18-1.md)
 - [Article 19](article-19.md)
 - [Article 20](article-20.md)
 - [Article 21](article-21.md)
@@ -10,5 +8,3 @@
 - [Article 23](article-23.md)
 - [Article 24](article-24.md)
 - [Article 25](article-25.md)
-- [Article 26](article-26.md)
-- [Article 27](article-27.md)
