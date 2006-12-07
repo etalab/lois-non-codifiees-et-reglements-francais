@@ -1,6 +1,6 @@
 # Article 18
 
-Réseau ferré de France est chargé de répartir les capacités d'infrastructure du réseau ferré national. Il veille à assurer la meilleure utilisation des infrastructures et le développement équilibré de l'ensemble des services ferroviaires. A cet effet, Réseau ferré de France :
+Réseau ferré de France est chargé de répartir les capacités d'infrastructure du réseau ferré national sur les infrastructures qu'il gère ou dont le gestionnaire d'infrastructure est le titulaire d'un contrat de partenariat conclu en application des articles 1er-1 et 1er-2 de la loi du 13 février 1997 susvisée, selon les modalités fixées aux articles 18 à 27 du présent décret. Il veille à assurer la meilleure utilisation des infrastructures et le développement équilibré de l'ensemble des services ferroviaires. A cet effet, Réseau ferré de France :
 
 a) Définit et évalue les capacités disponibles, le cas échéant en coopération avec les autres gestionnaires d'infrastructure en vue d'une répartition efficace de capacités impliquant plusieurs réseaux ;
 

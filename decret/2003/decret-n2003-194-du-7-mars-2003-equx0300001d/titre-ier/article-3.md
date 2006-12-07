@@ -1,5 +1,7 @@
 # Article 3
 
+Le droit d'accès aux infrastructures du réseau ferré national gérées par Réseau ferré de France ou par le titulaire d'un contrat de partenariat conclu en application des articles 1er-1 et 1er-2 de la loi du 13 février 1997 susvisée est régi par les dispositions suivantes :
+
 I. - Le droit d'accès au réseau ferré national comprend pour toute entreprise ferroviaire ou regroupement international mentionné à l'article 2 le droit aux prestations minimales suivantes : le traitement de ses demandes de capacités d'infrastructure, le droit d'utiliser les capacités qui lui sont attribuées, l'utilisation des branchements et aiguilles du réseau, la signalisation, la régulation, la gestion des circulations, la communication et la fourniture d'informations concernant la circulation des trains ainsi que toute autre information nécessaire à la mise en oeuvre ou à l'exploitation du service pour lequel les capacités lui ont été attribuées.
 
 Le droit d'accès au réseau ferré comporte également le droit d'accès aux équipements suivants : les installations de traction électrique, y compris les installations de transport et de distribution de l'électricité de traction, les infrastructures d'approvisionnement en combustible, les gares de voyageurs comprenant leurs bâtiments et les autres infrastructures, les terminaux de marchandises, les gares de triage, les gares de formation, les gares de remisage, les centres d'entretien et les autres infrastructures techniques.

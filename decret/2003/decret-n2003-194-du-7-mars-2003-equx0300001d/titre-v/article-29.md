@@ -6,6 +6,8 @@ Cette mission, directement rattachée au ministre, comprend un membre du Conseil
 
 Elle est chargée d'instruire les réclamations portées devant le ministre, mentionnées à l'article 28, et produit un avis motivé au plus tard dans un délai d'un mois à compter de sa saisine par le ministre.
 
+Elle est également chargée d'instruire les demandes adressées au ministre au titre des dispositions prévues au deuxième alinéa de l'article 25 du décret n° 2006-1534 du 6 décembre 2006.
+
 Elle est chargée d'assurer une mission générale d'observation des conditions d'accès au réseau ferré national. Elle peut, à ce titre, formuler des recommandations au ministre chargé des transports afin de lui proposer toute mesure de nature à faciliter la mise en oeuvre des dispositions du présent décret.
 
 La mission de contrôle des activités ferroviaires établit un rapport d'activité annuel qui porte à la fois sur l'instruction des réclamations et sur l'observation des conditions d'accès au réseau ferré national. Ce rapport est rendu public.
