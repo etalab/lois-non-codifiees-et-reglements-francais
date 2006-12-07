@@ -1,6 +1,6 @@
 # Article 4
 
-RFF soumet chaque année aux ministres chargés des transports, de l'économie et du budget un programme d'investissements ainsi que les modalités de son financement. Les programmes d'investissements peuvent comporter un volet pluriannuel. Ces programmes prennent en compte le schéma du réseau ferroviaire prévu au II de l'article 17 de la loi du 4 février 1995 susvisée.
+RFF soumet chaque année aux ministres chargés des transports, de l'économie et du budget un programme d'investissements ainsi que les modalités de son financement. Les programmes d'investissements peuvent comporter un volet pluriannuel.
 
 Au sein de ces programmes, les projets unitaires dont le montant excède un seuil, fixé par arrêté du ministre chargé des transports, sont soumis à son approbation, sur la base d'un dossier indiquant l'objectif du projet, la consistance des travaux, l'évaluation de la dépense correspondante et de la rentabilité économique et sociale de l'investissement projeté. Les méthodes d'évaluation sont conformes aux règles fixées par le ministre chargé des transports pour les projets d'infrastructure.
 
