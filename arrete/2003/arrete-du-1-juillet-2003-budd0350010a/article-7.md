@@ -10,7 +10,7 @@ Les agents de la direction générale des impôts :
 
 - en vue de la prévention des manquements aux règles de facturation dans les échanges intra-communautaires, en application des articles L. 80 I et L. 80 J du livre des procédures fiscales ;
 
-Les agents de la cellule Tracfin, en application de l'article L. 563-5 du code monétaire et financier ;
+Les agents du service à compétence nationale Tracfin, en application de l'article L. 563-5 du code monétaire et financier ;
 
 Lorsque la douane n'est pas compétente pour la poursuite des infractions qu'elle a constatées, les autres administrations et services désignés par les dispositions légales, dans les conditions et limites définies par ces dispositions ou leurs règlements d'application.
 

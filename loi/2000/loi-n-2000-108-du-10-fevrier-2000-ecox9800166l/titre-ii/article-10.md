@@ -8,7 +8,9 @@ Sous réserve de la nécessité de préserver le bon fonctionnement des réseaux
 
 Les nouvelles installations destinées au turbinage des débits minimaux mentionnés à l'article L. 432-5 du code de l'environnement réalisées par le titulaire d'une autorisation ou d'une concession hydroélectrique en cours bénéficient de l'obligation d'achat indépendamment de l'ouvrage principal à la condition que leur puissance installée respecte les limites fixées par le décret mentionné à l'alinéa précédent ;
 
-3° Les installations de production d'électricité utilisant l'énergie mécanique du vent qui sont implantées dans le périmètre d'une zone de développement de l'éolien, définie selon les modalités fixées à l'article 10-1.
+3° Les installations de production d'électricité utilisant l'énergie mécanique du vent qui sont implantées dans le périmètre d'une zone de développement de l'éolien, définie selon les modalités fixées à l'article 10-1 ;
+
+4° Les installations qui valorisent des énergies de récupération dans les limites et conditions définies au présent article, notamment au 2°.
 
 Un décret précise les obligations qui s'imposent aux producteurs bénéficiant de l'obligation d'achat, ainsi que les conditions dans lesquelles les ministres chargés de l'économie et de l'énergie arrêtent, après avis de la Commission de régulation de l'énergie, les conditions d'achat de l'électricité ainsi produite. Sous réserve du maintien des contrats d'obligation d'achat en cours à la date de publication de la loi n° 2004-803 du 9 août 2004 relative au service public de l'électricité et du gaz et aux entreprises électriques et gazières, les installations bénéficiant de l'obligation d'achat au titre du présent article ou au titre de l'article 50 de la présente loi ne peuvent bénéficier qu'une seule fois d'un contrat d'obligation d'achat.
 
