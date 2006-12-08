@@ -1,6 +1,8 @@
 # Article 14
 
-Le gestionnaire du réseau public de transport exploite et entretient le réseau public de transport d'électricité. Il est responsable de son développement afin de permettre le raccordement des producteurs, des réseaux publics de distribution et des consommateurs, ainsi que l'interconnexion avec les autres réseaux. Il élabore chaque année à cet effet un programme d'investissements, qui est soumis à l'approbation de la Commission de régulation de l'énergie.
+Le gestionnaire du réseau public de transport exploite et entretient le réseau public de transport d'électricité. Il est responsable de son développement afin de permettre le raccordement des producteurs, des réseaux publics de distribution et des consommateurs, ainsi que l'interconnexion avec les autres réseaux. Il élabore chaque année, à cet effet, un programme d'investissements. Ce programme est soumis à l'approbation de la Commission de régulation de l'énergie qui veille à la réalisation des investissements nécessaires au bon développement des réseaux et à leur accès transparent et non discriminatoire.
+
+La Commission de régulation de l'énergie ne peut refuser d'approuver le programme annuel d'investissements que pour des motifs tirés des missions qui lui ont été confiées par la loi.
 
 Le schéma de développement du réseau public de transport est soumis, à intervalle maximal de deux ans, à l'approbation du ministre chargé de l'énergie après avis de la Commission de régulation de l'énergie.
 

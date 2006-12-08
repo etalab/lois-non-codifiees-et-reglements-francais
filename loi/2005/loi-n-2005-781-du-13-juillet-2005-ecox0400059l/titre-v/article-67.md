@@ -1,7 +1,7 @@
 # Article 67
 
-I. - Sans préjudice des dispositions du I de l'article 5 de la loi n° 2000-108 du 10 février 2000 précitée, le montant total dû au titre de la contribution au service public de l'électricité par toute société industrielle consommant plus de 7 gigawattheures d'électricité par an est plafonné à 0,5 % de sa valeur ajoutée.
+I.-Sans préjudice des dispositions du I de l'article 5 de la loi n° 2000-108 du 10 février 2000 précitée, le montant total dû au titre de la contribution au service public de l'électricité par toute société industrielle consommant plus de 7 gigawattheures d'électricité par an est plafonné à 0,5 % de sa valeur ajoutée, telle que définie par le II de l'article 1647 B sexies du code général des impôts. Une société industrielle peut demander à la Commission de régulation de l'énergie l'arrêt de la facturation de la contribution au service public de l'électricité, pour un ou plusieurs sites de consommation, dès lors que les prévisions de cette société montrent qu'elle aurait déjà acquitté au titre de l'année considérée un montant égal ou supérieur au montant total plafonné dû au titre de l'année précédente. La régularisation intervient, le cas échéant, lorsque la valeur ajoutée de l'année considérée est connue. Toutefois, si le montant de cette régularisation est supérieur à 20 % du montant total réellement dû pour l'année, la société est redevable de la pénalité de retard mentionnée au I de l'article 5 de la loi n° 2000-108 du 10 février 2000 précitée.
 
-Un décret en Conseil d'Etat fixe les modalités d'application du présent article, qui entre en vigueur au 1er janvier 2006.
+Un décret en Conseil d'Etat fixe les modalités d'application du présent I, notamment les modalités de liquidation des droits par les services de la Commission de régulation de l'énergie. Ce décret entre en vigueur au 1er janvier 2006.
 
-II. - (paragraphe modificateur).
+II.-(Paragraphe modificateur)

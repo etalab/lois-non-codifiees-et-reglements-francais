@@ -1,6 +1,6 @@
 # Article 26
 
-I. - Les gestionnaires de réseaux publics de distribution de gaz sont les entreprises mentionnées aux 3° et 4° de l'article 3.
+I. - Les gestionnaires de réseaux publics de distribution de gaz sont les entreprises mentionnées aux 3° et 4° de l'article 3. Ces réseaux appartiennent aux collectivités territoriales ou à leurs groupements, visés, en ce qui concerne le gaz, au sixième alinéa du I de l'article L. 2224-31 du code général des collectivités territoriales.
 
 II. - Tout raccordement d'un consommateur de gaz dans une commune raccordée au réseau de gaz naturel s'effectue en priorité sur le réseau public de distribution, sauf si l'importance du volume de consommation envisagé ne permet pas le raccordement sur ce réseau. Dans ce cas, le raccordement du consommateur peut, sous réserve de l'accord du gestionnaire du réseau de distribution, s'effectuer sur le réseau de transport, dans les conditions prévues au sixième alinéa du I de l'article 6. Les cahiers des charges annexés aux conventions de concession ou les règlements de service des régies gazières précisent les conditions de raccordement aux réseaux.
 

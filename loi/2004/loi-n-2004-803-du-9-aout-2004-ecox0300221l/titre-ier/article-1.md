@@ -14,13 +14,15 @@ Les contrats portent notamment sur :
 
 - les modalités d'évaluation des coûts entraînés par la mise en oeuvre du contrat et de compensation des charges correspondantes ;
 
-- l'évolution pluriannuelle des tarifs de vente de l'électricité et du gaz ;
+- l'évolution pluriannuelle des tarifs réglementés de vente de l'électricité et du gaz ;
 
 - la politique de recherche et développement des entreprises ;
 
 - la politique de protection de l'environnement, incluant l'utilisation rationnelle des énergies et la lutte contre l'effet de serre ;
 
-- les objectifs pluriannuels en matière d'enfouissement des réseaux publics de distribution d'électricité.
+- les objectifs pluriannuels en matière d'enfouissement des réseaux publics de distribution d'électricité ;
+
+- conformément à l'obligation de service public relative au développement équilibré du territoire mentionnée à l'article 16 de la loi n° 2003-8 du 3 janvier 2003 précitée, l'amélioration de la desserte en gaz naturel du territoire, définie en concertation avec le représentant des autorités visées à l'article L. 2224-31 du code général des collectivités territoriales.
 
 Ces contrats définissent, pour chacun des objectifs identifiés ci-dessus, des indicateurs de résultats. Ces contrats et l'évolution de ces indicateurs font l'objet d'un rapport triennal transmis au Parlement.
 

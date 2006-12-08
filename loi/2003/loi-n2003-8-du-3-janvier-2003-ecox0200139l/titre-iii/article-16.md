@@ -18,13 +18,15 @@ Elles portent sur :
 
 - la qualité et le prix des produits et des services fournis ;
 
-- la protection de l'environnement ;
+- la protection de l'environnement, en particulier l'application de mesures d'économies d'énergie ;
 
 - l'efficacité énergétique ;
 
 - le développement équilibré du territoire ;
 
 - la fourniture de gaz de dernier recours aux clients non domestiques assurant des missions d'intérêt général ;
+
+- la fourniture de gaz naturel au tarif spécial de solidarité mentionné au V de l'article 7 de la présente loi ;
 
 - le maintien, conformément à l'article L. 115-3 du code de l'action sociale et des familles, d'une fourniture aux personnes en situation de précarité.
 

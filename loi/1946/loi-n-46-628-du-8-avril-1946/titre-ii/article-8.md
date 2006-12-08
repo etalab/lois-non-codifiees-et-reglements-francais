@@ -6,7 +6,7 @@ Toutefois, ce transfert ne peut porter sur les installations qui ne présentent 
 
 Sont exclus de la nationalisation :
 
-1° La production et le transport du gaz naturel jusqu'au compteur d'entrée de l'usine de distribution .
+1° La production, le transport et la distribution de gaz naturel.
 
 Les dispositions de l'article 35 ci-après s'appliqueront aux ouvrages de traitement et de transport de gaz naturel.
 

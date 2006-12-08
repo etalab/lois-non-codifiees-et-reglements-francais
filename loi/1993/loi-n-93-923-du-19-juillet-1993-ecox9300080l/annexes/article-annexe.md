@@ -10,7 +10,7 @@ Banque nationale de Paris.
 
 Caisse centrale de réassurance.
 
-C.N.P. Assurances.
+CNP Assurances.
 
 Compagnie des machines Bull.
 
@@ -22,7 +22,7 @@ Pechiney.
 
 Régie nationale des usines Renault.
 
-Rhône-Poulenc S.A.
+Rhône-Poulenc SA.
 
 Société centrale des Assurances générales de France.
 
@@ -40,8 +40,10 @@ Société nationale d'étude et de construction de moteurs d'aviation.
 
 Société nationale Elf-Aquitaine.
 
-Thomson S.A.
+Thomson SA.
 
 Usinor Sacilor.
 
 France Télécom.
+
+Gaz de France SA.
