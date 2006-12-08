@@ -60,7 +60,6 @@
 - [Décret n°89-150 du 6 mars 1989 (EXTX8910056D)](decret-n89-150-du-6-mars-1989-extx8910056d)
 - [Décret n°89-155 du 6 mars 1989 (MAEJ8930015D)](decret-n89-155-du-6-mars-1989-maej8930015d)
 - [Décret n°89-623 du 6 septembre 1989 (ECOT8920101D)](decret-n89-623-du-6-septembre-1989-ecot8920101d)
-- [Décret n°89-624 du 6 septembre 1989 (ECOT8920102D)](decret-n89-624-du-6-septembre-1989-ecot8920102d)
 - [Décret n°89-637 du 6 septembre 1989 (INDH8900624D)](decret-n89-637-du-6-septembre-1989-indh8900624d)
 - [Décret n°89-76 du 6 février 1989 (INDA8800726D)](decret-n89-76-du-6-fevrier-1989-inda8800726d)
 - [Décret n°89-881 du 6 décembre 1989 (PRMX8900165D)](decret-n89-881-du-6-decembre-1989-prmx8900165d)

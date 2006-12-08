@@ -469,7 +469,6 @@
 - [Arrêté du 13 mai 1996 (INTC9600210A)](arrete-du-13-mai-1996-intc9600210a)
 - [Arrêté du 13 mai 1996 (MENP9600834A)](arrete-du-13-mai-1996-menp9600834a)
 - [Arrêté du 14 août 1996 (DEFD9601853A)](arrete-du-14-aout-1996-defd9601853a)
-- [Arrêté du 14 août 1996 (INDG9600593A)](arrete-du-14-aout-1996-indg9600593a)
 - [Arrêté du 14 décembre 1995 (ECOT9510251A)](arrete-du-14-decembre-1995-ecot9510251a)
 - [Arrêté du 14 décembre 1995 (EQUT9501797A)](arrete-du-14-decembre-1995-equt9501797a)
 - [Arrêté du 14 décembre 1995 (TASS9523475A)](arrete-du-14-decembre-1995-tass9523475a)
