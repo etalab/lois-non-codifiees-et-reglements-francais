@@ -388,19 +388,19 @@ Si le flux horaire total de COV, émis sous forme canalisée ou diffuse, dépass
 
 II. - Activités spécifiques :
 
-- héliogravure d'édition :
+II.1 Héliogravure d'édition :
 
 - si la consommation annuelle de solvant organique est supérieure à 25 tonnes, la valeur limite d'émission de COV non méthanique dans les rejets canalisés, exprimée en carbone total, est de 75 mg/m³ ;
 
 - le flux annuel des émissions diffuses ne doit pas dépasser 10 % de la quantité de solvants utilisée pour les installations déclarées à compter du 31 décembre 2000 et 15 % pour les installations déclarées avant le 1er janvier 2001 ;
 
-- autres ateliers d'héliogravure, flexographie, impression sérigraphique en rotative (sauf textiles/cartons), contrecollage ou vernissage :
+II.2 Autres ateliers d'héliogravure, flexographie, impression sérigraphique en rotative (sauf textiles/cartons), contrecollage ou vernissage :
 
-- si la consommation annuelle de solvant est organique supérieure à 15 tonnes et inférieure à 25 tonnes, la valeur limite d'émission de COV non méthanique dans les rejets canalisés, exprimée en carbone total, est de 100 mg/m³ ;
+- si la consommation annuelle de solvant organique est supérieure à 15 tonnes et inférieure à 25 tonnes, la valeur limite d'émission de COV non méthanique dans les rejets canalisés, exprimée en carbone total, est de 100 mg/m³. Le flux annuel des émissions diffuses ne doit pas dépasser 25 % de la quantité de solvants utilisée ;
 
 - si la consommation annuelle de solvant organique est supérieure à 25 tonnes, la valeur limite d'émission de COV non méthanique dans les rejets canalisés, exprimée en carbone total, est de 100 mg/m³. Le flux annuel des émissions diffuses ne doit pas dépasser 20 % de la quantité de solvants utilisée ;
 
-- impression sérigraphique en rotative sur textiles/cartons :
+II.3 Impression sérigraphique en rotative sur textiles/cartons :
 
 - la valeur limite d'émission de COV non méthanique dans les rejets canalisés, exprimée en carbone total, est de 100 mg/m³. Le flux annuel des émissions diffuses ne doit pas dépasser 20 % de la quantité de solvants utilisée.
 
