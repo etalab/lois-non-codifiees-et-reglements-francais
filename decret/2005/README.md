@@ -36,6 +36,7 @@
 - [Décret n°2005-671 du 16 juin 2005 (ECOX0500134D)](decret-n2005-671-du-16-juin-2005-ecox0500134d)
 - [Décret n°98-1057 du 16 novembre 1998 (DEFP9801941D)](decret-n98-1057-du-16-novembre-1998-defp9801941d)
 - [Décret n°2005-469 du 16 mai 2005 (PRMX0508393D)](decret-n2005-469-du-16-mai-2005-prmx0508393d)
+- [Décret n°2005-471 du 16 mai 2005 (EQUP0500599D)](decret-n2005-471-du-16-mai-2005-equp0500599d)
 - [Décret n°2005-1426 du 18 novembre 2005 (INTT0500312D)](decret-n2005-1426-du-18-novembre-2005-intt0500312d)
 - [Décret n°2005-1429 du 18 novembre 2005 (ECOP0500907D)](decret-n2005-1429-du-18-novembre-2005-ecop0500907d)
 - [Décret n°2005-383 du 18 avril 2005 (DEFD0500466D)](decret-n2005-383-du-18-avril-2005-defd0500466d)
@@ -111,4 +112,5 @@
 - [Décret n°2005-1787 du 30 décembre 2005 (MCCK0500719D)](decret-n2005-1787-du-30-decembre-2005-mcck0500719d)
 - [Décret n°2005-1790 du 30 décembre 2005 (DOMA0500034D)](decret-n2005-1790-du-30-decembre-2005-doma0500034d)
 - [Décret n°2005-617 du 30 mai 2005 (INTD0500139D)](decret-n2005-617-du-30-mai-2005-intd0500139d)
+- [Décret n°2005-631 du 30 mai 2005 (EQUP0500229D)](decret-n2005-631-du-30-mai-2005-equp0500229d)
 - [Décret n°93-977 du 31 juillet 1993 (JUSC9320356D)](decret-n93-977-du-31-juillet-1993-jusc9320356d)

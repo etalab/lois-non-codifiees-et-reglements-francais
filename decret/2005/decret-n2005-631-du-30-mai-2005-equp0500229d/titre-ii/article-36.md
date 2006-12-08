@@ -1,0 +1,3 @@
+# Article 36
+
+Les ingénieurs des travaux publics de l'Etat, qui ont été recrutés par la voie de l'examen professionnel ou de la liste d'aptitude prévus au 2° du I de l'article 6 du décret n° 71-345 du 5 mai 1971 portant statut particulier du corps des ingénieurs des travaux publics de l'Etat, dans les six années précédant la date de publication du présent décret, peuvent demander, dans un délai de six mois à compter de cette date, à être reclassés dans le grade d'ingénieur des travaux publics de l'Etat dans les mêmes conditions que s'ils avaient été promus à cette même date et reclassés conformément aux dispositions de l'article 21.
