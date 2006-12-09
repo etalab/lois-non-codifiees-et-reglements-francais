@@ -140,6 +140,8 @@ Institut Bouisson-Bertrand, rue de la Croix-Verte, parc Euromédecine, 34090 Mon
 
 Service communal de santé publique, caserne Saint-Jacques, 34500 Béziers.
 
+CHU de Montpellier, service des maladies infectieuses et tropicales, hôpital Gui de Chauliac, 80, avenue Augustin-Fliche, 34295 Montpellier Cedex 5.
+
 35 - Ille-et-Vilaine
 
 Centre hospitalier régional universitaire, hôpital Pontchaillou (centre de conseil aux voyageurs et vaccination antiamarile), 2, rue Henri-Le Guillou, 35033 Rennes Cedex 9.
@@ -429,6 +431,8 @@ Centre hospitalier de Bicêtre, 78, rue du Général-Leclerc, 94270 Le Kremlin-B
 Centre hospitalier intercommunal, 40, allée de la Source, 94190 Villeneuve-Saint-Georges.
 
 Aéroports de Paris (ADP), service médical, Orly Sud 103, 94386 Orly Aérogare.
+
+Hôpital Paul Brousse, service des maladies infectieuses et tropicales, 14, avenue Paul-Vaillant-Couturier, 94804 Villejuif.
 
 95 - Val-d'Oise
 
