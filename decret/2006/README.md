@@ -142,6 +142,7 @@
 - [Décret n°2006-1425 du 21 novembre 2006 (EQUA0601681D)](decret-n2006-1425-du-21-novembre-2006-equa0601681d)
 - [Décret n°2006-1427 du 21 novembre 2006 (SANG0624120D)](decret-n2006-1427-du-21-novembre-2006-sang0624120d)
 - [Décret n°2006-1428 du 21 novembre 2006 (SANG0624121D)](decret-n2006-1428-du-21-novembre-2006-sang0624121d)
+- [Décret n°2006-909 du 21 juillet 2006 (SANH0622118D)](decret-n2006-909-du-21-juillet-2006-sanh0622118d)
 - [Décret n°2005-1613 du 22 décembre 2005 (MAEX0500293D)](decret-n2005-1613-du-22-decembre-2005-maex0500293d)
 - [Décret n°2006-1420 du 22 novembre 2006 (PRMX0609721D)](decret-n2006-1420-du-22-novembre-2006-prmx0609721d)
 - [Décret n°2006-1424 du 22 novembre 2006 (JUSC0620817D)](decret-n2006-1424-du-22-novembre-2006-jusc0620817d)
