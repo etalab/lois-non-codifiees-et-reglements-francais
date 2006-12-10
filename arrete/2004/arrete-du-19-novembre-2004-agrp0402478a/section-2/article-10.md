@@ -6,7 +6,7 @@ Dispositions relatives à la délivrance du certificat d'agrément précédée d
 
 2. Les prélèvements d'échantillons sont effectués en une seule fois dans le lieu d'entrepôt figurant dans la demande de certificat d'agrément. Ils doivent être représentatifs de la totalité des volumes de vins de même catégorie, de même couleur et de même type susceptibles de bénéficier d'un certificat d'agrément.
 
-3. Jusqu'à la fin de la campagne 2005, par dérogation au paragraphe précédent, les prélèvements des vins de même catégorie, de même couleur et de même type susceptibles de bénéficier d'un certificat d'agrément peuvent ne pas être réalisés simultanément lorsqu'ils portent sur des appellations revendiquées différentes.
+3. Jusqu'à la fin de la campagne 2008-2009, par dérogation au paragraphe précédent, les prélèvements des vins de même catégorie, de même couleur et de même type susceptibles de bénéficier d'un certificat d'agrément peuvent ne pas être réalisés simultanément lorsqu'ils portent sur des appellations revendiquées différentes.
 
 Les appellations concernées figurent sur une liste approuvée par le comité national des vins et eaux-de-vie de l'INAO sur demande motivée du syndicat de défense de l'appellation et après avis du comité régional de l'INAO dont relève l'appellation. La liste est consultable auprès des services de l'INAO.
 

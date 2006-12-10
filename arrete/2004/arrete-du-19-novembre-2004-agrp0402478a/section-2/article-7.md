@@ -6,7 +6,7 @@ Dispositions générales.
 
 2. Toute obstruction au prélèvement entraîne l'arrêt définitif de la procédure d'agrément pour la campagne en cours.
 
-3. La nature et la taille maximale des lots ainsi que la méthode d'échantillonnage sont précisées pour chaque phase de prélèvement dans le règlement intérieur. Le volume d'un lot constitué de plusieurs contenants ne peut excéder 3000 hl.
+3. La nature et la taille maximale des lots ainsi que la méthode d'échantillonnage sont précisées pour chaque phase de prélèvement dans le règlement intérieur. Le volume d'un lot constitué de plusieurs contenants ne peut excéder 2000 hl.
 
 4. Pour assurer la traçabilité, le producteur doit enregistrer les déplacements des vins détenus dans sa cave à tous les stades de la procédure d'agrément. A défaut, la demande de certificat d'agrément est non recevable.
 
@@ -16,6 +16,6 @@ Dispositions générales.
 
 L'anonymat des échantillons est assuré à leur réception par les services de l'INAO. Toutefois, l'organisme agréé peut procéder aux opérations matérielles relatives à l'anonymat dans le cadre des dispositions de la convention prévue à l'article R. 641-95 du code rural et sous réserve d'une certification de ce service au sens de l'article L. 115-27 du code de la consommation. Le cahier des charges de la certification constitue une annexe de la convention.
 
-A titre expérimental, jusqu'à la fin de la campagne 2005, la certification visée à l'alinéa précédent n'est pas obligatoire lorsque la convention susvisée comporte la description des procédures à mettre en oeuvre pour assurer l'anonymat et lorsque des agents de l'organisme agréé ont été habilités par les services de l'INAO en vue de procéder à ces opérations. Lesdits services contrôlent le respect de ces procédures.
+A titre expérimental, jusqu'à la fin de la campagne 2007-2008, la certification visée à l'alinéa précédent n'est pas obligatoire lorsque la convention susvisée comporte la description des procédures à mettre en oeuvre pour assurer l'anonymat et lorsque des agents de l'organisme agréé ont été habilités par les services de l'INAO en vue de procéder à ces opérations. Lesdits services contrôlent le respect de ces procédures.
 
 Ces mêmes dispositions s'appliquent à la levée de l'anonymat.

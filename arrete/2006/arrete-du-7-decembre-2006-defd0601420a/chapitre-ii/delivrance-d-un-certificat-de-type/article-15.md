@@ -1,0 +1,3 @@
+# Article 15
+
+L'autorité technique peut également délivrer un certificat de type lorsqu'un postulant détient un certificat de type militaire étranger, ou une attestation équivalente des autorités du pays constructeur, à condition, d'une part, que les spécifications et procédures qui ont conduit à la délivrance du document soient jugées d'un niveau équivalent à celles qui auraient été retenues pour un type de produit similaire développé pour le compte de l'Etat français, et, d'autre part, que les conditions du suivi de la navigabilité du type du produit par l'autorité du pays constructeur soient jugées satisfaisantes.
