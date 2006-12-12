@@ -10,3 +10,4 @@
 - [Article 245](article-245.md)
 - [Article 245-1](article-245-1.md)
 - [Article 246](article-246.md)
+- [Article 246-1](article-246-1.md)

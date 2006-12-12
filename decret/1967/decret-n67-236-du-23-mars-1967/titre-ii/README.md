@@ -6,4 +6,5 @@
 - [Chapitre III : Nullités.](chapitre-iii)
 - [Chapitre IV : Fusion et scission.](chapitre-iv)
 - [Chapitre V : Liquidation](chapitre-v)
+- [Chapitre V bis : Location d'actions et de parts sociales](chapitre-v-bis)
 - [Chapitre VI : Publicité](chapitre-vi)

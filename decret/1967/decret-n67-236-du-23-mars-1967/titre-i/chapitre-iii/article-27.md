@@ -1,5 +1,21 @@
 # Article 27
 
-La déclaration établie en application de l'article 6, alinéa 1er, de la loi sur les sociétés commerciales est signée par tous les associés, ainsi que, le cas échéant, par les gérants non associés.    En cas de modification des statuts, elle est souscrite par les gérants de la société.
+Le document d'information mentionné à l'article L. 223-11 du code de commerce est établi préalablement à toute souscription. Il est remis ou envoyé à toute personne dont la souscription est sollicitée.
 
-Lors de la constitution de la société et en cas d'augmentation du capital, la déclaration doit, notamment, indiquer que toutes les parts sociales ont été souscrites et intégralement libérées et préciser le dépositaire des fonds provenant de cette libération.
+Il comprend toutes les mentions utiles à l'information des souscripteurs et au moins les renseignements suivants :
+
+1° La dénomination sociale, précédée ou suivie immédiatement, conformément au deuxième alinéa de l'article L. 223-1 du code de commerce, des mots : société à responsabilité limitée ou des initiales : SARL et suivie, le cas échéant, de son sigle, l'adresse du siège social, le montant du capital social ainsi que les mentions prévues aux 1 et 2 de l'article 72 du décret n° 84-406 du 30 mai 1984 modifié relatif au registre du commerce et des sociétés ;
+
+2° L'objet social, indiqué sommairement ;
+
+3° La date d'expiration normale de la société ;
+
+4° La description de son activité et de ses perspectives d'évolution ;
+
+5° Le nom du ou des gérants ;
+
+6° Le nom des commissaires aux comptes et de leurs suppléants ainsi que la date de leur nomination ;
+
+7° Le montant des capitaux propres, le montant total et la ventilation par échéance des engagements autres que ceux résultant de l'émission et, le cas échéant, les sûretés constituées pour garantir le remboursement des titres précédemment émis ;
+
+8° Les faits significatifs, notamment les affaires contentieuses, pouvant avoir une incidence sur l'activité ou la situation financière de la société.
