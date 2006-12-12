@@ -1,5 +1,3 @@
 # Article 174-8
 
-Lorsqu'une société dont les actions sont inscrites à la cote officielle des bourses de valeurs procède à une augmentation de capital en numéraire réservée aux actionnaires, le prix de souscription ou d'achat des actions sous option, tel qu'il était fixé avant cette opération, est diminué d'une somme égale au produit de ce prix  par le rapport entre la valeur du droit de souscription et la valeur de l'action avant détachement de ce droit.
-
-Les modalités de calcul des valeurs respectives du droit de souscription et de l'action sont précisées lors de l'ouverture de l'option. Elles doivent être conformes à l'une ou à l'autre des méthodes prévues aux 1° et 3° de l'article 242-12.
+Pour l'application, conformément à l'article L. 225-181 du code de commerce, des dispositions du 3° de l'article L. 228-99 du même code en vue de la protection des intérêts des bénéficiaires d'options de souscription ou d'achat d'actions, l'article 242-12 du présent décret est applicable, sous réserve des dispositions du présent b.

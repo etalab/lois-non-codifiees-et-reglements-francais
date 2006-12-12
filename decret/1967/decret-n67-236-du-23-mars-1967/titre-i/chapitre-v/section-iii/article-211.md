@@ -18,7 +18,7 @@ Elle contient les indications suivantes :
 
 7° La date d'expiration normale de la société ;
 
-8° Le cas échéant, le montant des obligations convertibles en actions émises par la société ;
+8° Le cas échéant, le montant des obligations convertibles en actions et des autres valeurs mobilières donnant accès au capital émises par la société, lorsqu'elles sont composées au moins d'une obligation ;
 
 9° Le montant non amorti des autres obligations antérieurement émises ainsi que les garanties qui leur ont été conférées ;
 
@@ -34,8 +34,6 @@ Elle contient les indications suivantes :
 
 15° Les garanties conférées, le cas échéant, aux obligations ;
 
-16° S'il s'agit d'obligations convertibles en actions, le ou les délais d'exercice de l'option accordée aux porteurs pour convertir leurs titres ainsi que les bases de cette conversion ;
-
-17° S'il s'agit d'obligations échangeables contre des actions, les modalités et conditions fixées pour l'échange.
+16° S'il s'agit de valeurs mobilières donnant accès au capital dont le titre primaire est une obligation, le ou les délais d'exercice des droits attachés à ces valeurs mobilières ainsi que les bases d'exercice de ces droits ;
 
 La notice est revêtue de la signature sociale.

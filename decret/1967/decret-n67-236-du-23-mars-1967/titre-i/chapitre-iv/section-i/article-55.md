@@ -2,7 +2,7 @@
 
 Outre les mentions énumérées à l'article 2 de la loi sur les sociétés commerciales, et sans préjudice de toutes autres dispositions utiles, les statuts de la société doivent contenir les indications suivantes :
 
-1° Pour chaque catégorie d'actions émises, le nombre d'actions de cette catégorie et, selon le cas, la part de capital social qu'elle représente ou la valeur nominale des actions qui la composent ;
+1° Pour chaque catégorie d'actions émises, le nombre d'actions et la nature des droits particuliers attachés à celles-ci et, selon le cas, la part de capital social qu'elle représente ou la valeur nominale des actions qui la composent ;
 
 2° La forme, soit exclusivement nominative, soit nominative ou au porteur, des actions ;
 

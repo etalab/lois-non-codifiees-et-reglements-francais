@@ -1,6 +1,6 @@
 # Article 290
 
-L'acte de nomination des liquidateurs, quelle que soit sa forme, est publié dans le délai d'un mois, dans un journal habilité à recevoir les annonces légales dans le département du siège social et, en outre, si la société a fait publiquement appel à l'épargne, au bulletin des annonces légales obligatoires.
+L'acte de nomination des liquidateurs, quelle que soit sa forme, est publié dans le délai d'un mois, dans un journal habilité à recevoir les annonces légales dans le département du siège social et, en outre, si la société a fait publiquement appel à l'épargne ou si toutes ses actions ne revêtent pas la forme nominative, au bulletin des annonces légales obligatoires.
 
 Il contient les indications suivantes :
 

@@ -1,6 +1,6 @@
 # Article 165
 
-I. - L'assemblée générale prévue au second alinéa de l'article L. 225-129-6 du code de commerce doit se réunir au cours de la troisième année civile suivant la précédente assemblée générale ayant statué sur un projet de résolution tendant à réaliser une augmentation de capital dans les conditions prévues à l'article L. 443-5 du code du travail.
+I. - Paragraphe supprimé.
 
 II. - Les sommes provenant de la vente prévue à l'article L. 225-130 du code de commerce sont allouées aux titulaires des droits au plus tard trente jours après la date d'inscription à leur compte du nombre entier de titres de capital attribués.
 

@@ -1,6 +1,6 @@
 # Article 292
 
-L'avis de clôture de la liquidation, signé par le liquidateur, est publié, à la diligence de celui-ci, dans le journal d'annonces légales ayant reçu la publicité prescrite par l'article 290, alinéa 1er, et, si la société a fait publiquement appel à l'épargne, au bulletin des annonces légales obligatoires.
+L'avis de clôture de la liquidation, signé par le liquidateur, est publié, à la diligence de celui-ci, dans le journal d'annonces légales ayant reçu la publicité prescrite par l'article 290, alinéa 1er, et, si la société a fait publiquement appel à l'épargne ou si toutes ses actions ne revêtent pas la forme nominative, au bulletin des annonces légales obligatoires.
 
 Il contient les indications suivantes :
 

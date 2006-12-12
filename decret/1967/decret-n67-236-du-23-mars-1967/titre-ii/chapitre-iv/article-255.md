@@ -1,6 +1,6 @@
 # Article 255
 
-Le projet de fusion ou de scission fait l'objet d'un avis inséré dans un journal d'annonces légales du département du siège social, par chacune des sociétés participant à l'opération ; au cas où l'une au moins de ces sociétés fait publiquement appel à l'épargne, un avis doit en outre être inséré au bulletin des annonces légales obligatoires.
+Le projet de fusion ou de scission fait l'objet d'un avis inséré dans un journal d'annonces légales du département du siège social, par chacune des sociétés participant à l'opération ; au cas où l'une au moins de ces sociétés fait publiquement appel à l'épargne ou si toutes les actions de l'une d'entre elles au moins ne revêtent pas la forme nominative, un avis doit en outre être inséré au bulletin des annonces légales obligatoires.
 
 Cet avis contient les indications suivantes :
 

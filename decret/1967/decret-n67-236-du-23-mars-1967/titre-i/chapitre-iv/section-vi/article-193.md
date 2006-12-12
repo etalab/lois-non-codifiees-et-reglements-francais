@@ -11,3 +11,5 @@ b) Soit assortir la certification de réserves ;
 c) Soit refuser la certification des comptes, dans ces deux derniers cas ils précisent les motifs de leurs réserves ou de leur refus.
 
 2. Font état de leurs observations sur la sincérité et la concordance avec les comptes annuels des informations données dans le rapport de gestion de l'exercice et dans les documents adressés aux actionnaires sur la situation financière de la société ainsi que sur les comptes annuels et les comptes consolidés.
+
+3. Attestent spécialement l'exactitude et la sincérité des informations mentionnées aux trois premiers alinéas de l'article L. 225-102-1 du code de commerce.

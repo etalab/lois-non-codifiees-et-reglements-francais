@@ -2,16 +2,16 @@
 
 Le rapport des commissaires aux comptes, prévu à l'article 103, alinéa 3, de la loi sur les sociétés commerciales, contient :
 
-L'énumération des conventions soumises à l'approbation de l'assemblée générale ;
+L'énumération des conventions et engagements soumis à l'approbation de l'assemblée générale ;
 
 Le nom des administrateurs ou intéressés ;
 
 Le nom du directeur général ou des directeurs généraux délégués intéressés ;
 
-La désignation du ou des actionnaires intéressés disposant d'une fraction des droits de vote supérieure à 5 %, et, s'il s'agit d'une société actionnaire, de la société la contrôlant au sens de l'article L. 233-3 du code de commerce ;
+La désignation du ou des actionnaires intéressés disposant d'une fraction des droits de vote supérieure à 10 %, et, s'il s'agit d'une société actionnaire, de la société la contrôlant au sens de l'article L. 233-3 du code de commerce ;
 
-La nature et l'objet desdites conventions ;
+La nature et l'objet de ces conventions et engagements ;
 
-Les modalités essentielles de ces conventions, notamment l'indication des prix ou tarifs pratiqués, des ristournes et commissions consenties, des délais de paiement accordés, des intérêts stipulés, des sûretés conférées et, le cas échéant, toutes autres indications permettant aux actionnaires d'apprécier l'intérêt qui s'attachait à la conclusion des conventions analysées ;
+Les modalités essentielles de ces conventions et engagements, notamment l'indication des prix ou tarifs pratiqués, des ristournes et commissions consenties, des délais de paiement accordés, des intérêts stipulés, des sûretés conférées, de la nature, du montant et des modalités d'octroi de chacun des avantages ou indemnités mentionnés aux articles L. 225-22-1 et L. 225-42-1 du code de commerce et, le cas échéant, toutes autres indications permettant aux actionnaires d'apprécier l'intérêt qui s'attachait à la conclusion des conventions et engagements analysés ;
 
-L'importance des fournitures livrées ou des prestations de service fournies ainsi que le montant des sommes versées ou reçues au cours de l'exercice, en exécution des conventions visées à l'article 91, alinéa 2.
+L'importance des fournitures livrées ou des prestations de service fournies ainsi que le montant des sommes versées ou reçues au cours de l'exercice, en exécution des conventions et engagements visés à l'article 91, alinéa 2.
