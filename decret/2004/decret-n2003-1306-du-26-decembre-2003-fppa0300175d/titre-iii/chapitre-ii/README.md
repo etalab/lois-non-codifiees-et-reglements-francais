@@ -4,4 +4,4 @@
 - [Section 2 : Montant de la pension.](section-2)
 - [Section 3 : Durée d'assurance.](section-3)
 - [Section 4 : Minimum garanti.](section-4)
-- [Section 5 : Avantages de pension de caractère familial.](section-5)
+- [Section 5 : Avantages de pension.](section-5)
