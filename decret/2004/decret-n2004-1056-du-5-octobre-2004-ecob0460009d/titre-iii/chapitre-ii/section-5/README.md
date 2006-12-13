@@ -1,3 +1,3 @@
-# Section 5 : Avantages de pension à caractère familial.
+# Section 5 : Avantages de pension.
 
 - [Article 20](article-20.md)
