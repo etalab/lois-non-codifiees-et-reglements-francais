@@ -177,7 +177,6 @@
 - [Décret n°99-865 du 7 octobre 1999 (EQUU9901266D)](decret-n99-865-du-7-octobre-1999-equu9901266d)
 - [Décret n°99-866 du 7 octobre 1999 (MESS9922570D)](decret-n99-866-du-7-octobre-1999-mess9922570d)
 - [Décret n°99-9 du 7 janvier 1999 (ECOD9870033D)](decret-n99-9-du-7-janvier-1999-ecod9870033d)
-- [Décret n°99-353 du 7 mai 1999 (INTM9900009D)](decret-n99-353-du-7-mai-1999-intm9900009d)
 - [Décret n°99-356 du 7 mai 1999 (MCCT9900340D)](decret-n99-356-du-7-mai-1999-mcct9900340d)
 - [Décret n°99-368 du 7 mai 1999 (AGRS9802222D)](decret-n99-368-du-7-mai-1999-agrs9802222d)
 - [Décret n°99-369 du 7 mai 1999 (AGRM9900635D)](decret-n99-369-du-7-mai-1999-agrm9900635d)
