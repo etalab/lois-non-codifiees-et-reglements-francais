@@ -12,17 +12,17 @@ b) Le service des prestations peut être assuré pour le compte de la Caisse aut
 
 L'organisme compétent reçoit des assurés les demandes de prestations, examine leurs droits, calcule le montant des prestations et verse celles-ci.
 
-3° Que, pour l'application du 1° de l'article D. 461-27, le médecin-conseil régional mentionné à l'article R. 315-3 du code de la sécurité sociale est remplacé par le médecin-conseil régional de l'union régionale ou son représentant mentionné à l'article 214, lorsque la demande est présentée par un affilié du régime minier ;
+3° Que, pour l'application du 1° de l'article D. 461-27, le médecin-conseil régional mentionné à l'article R. 315-3 du code de la sécurité sociale est remplacé par le médecin-conseil régional de la caisse régionale de la sécurité sociale dans les mines ou son représentant mentionné à l'article 214, lorsque la demande est présentée par un affilié du régime minier ;
 
-4° Que, par dérogation aux dispositions de l'article D. 461-28, le comité régional est celui du siège de l'union régionale concernée ;
+4° Que, par dérogation aux dispositions de l'article D. 461-28, le comité régional est celui du siège de la caisse régionale de la sécurité sociale dans les mines concernée ;
 
-5° Que, pour l'application de l'article D. 461-29, le rapport prévu au 5° est établi par le contrôle médical de l'union régionale, le dossier étant constitué par l'union régionale ;
+5° Que, pour l'application de l'article D. 461-29, le rapport prévu au 5° est établi par le contrôle médical de la caisse régionale de la sécurité sociale dans les mines, le dossier étant constitué par la caisse régionale de la sécurité sociale dans les mines ;
 
-6° Que, pour l'application du premier alinéa de l'article D. 461-30, l'union régionale saisit le comité régional compétent ;
+6° Que, pour l'application du premier alinéa de l'article D. 461-30, la caisse régionale de la sécurité sociale dans les mines saisit le comité régional compétent ;
 
-7° Que, pour l'application du quatrième alinéa de l'article D. 461-30, le dossier est rapporté devant le comité par le médecin-conseil de l'union régionale des sociétés de secours minières qui a examiné la victime ou qui a statué sur son taux d'incapacité permanente ou par le médecin-conseil qu'il a désigné pour le représenter ;
+7° Que, pour l'application du quatrième alinéa de l'article D. 461-30, le dossier est rapporté devant le comité par le médecin-conseil de la caisse régionale de la sécurité sociale dans les mines qui a examiné la victime ou qui a statué sur son taux d'incapacité permanente ou par le médecin-conseil qu'il a désigné pour le représenter ;
 
-8° Que, pour l'application du dernier alinéa de l'article D. 461-30, l'avis du comité est rendu à l'union régionale ;
+8° Que, pour l'application du dernier alinéa de l'article D. 461-30, l'avis du comité est rendu à la caisse régionale de la sécurité sociale dans les mines ;
 
 9° Que, pour l'application des articles D. 461-27 à D. 461-30, le médecin-conseil national adresse chaque année au ministre chargé de la sécurité sociale un rapport sur les demandes de reconnaissance de maladies professionnelles émanant des affiliés du régime minier. Le rapport est communiqué au Conseil supérieur de prévention des risques professionnels.
 
