@@ -88,9 +88,7 @@ L'épreuve se déroule en deux parties :
 
 - domaine de la littérature de jeunesse.
 
-Exposé dans les domaines des arts visuels et de la littérature
-
-de jeunesse ou expression musicale
+Exposé dans les domaines des arts visuels et de la littérature de jeunesse ou expression musicale
 
 Le candidat apporte tout le matériel nécessaire à sa prestation. Pour le domaine de la musique, le choix doit se limiter à un instrument qu'il peut transporter, ce qui exclut les pianos ou les instruments qui requièrent un temps de montage, tels que les batteries. Sont également exclus les accompagnateurs et les formations instrumentales ou chorales.
 
@@ -111,6 +109,8 @@ Domaine de la littérature de jeunesse :
 Le candidat procède à la lecture à haute voix d'un extrait d'au moins 20 lignes (prose, poésie, théâtre) qu'il a choisi dans le domaine de la littérature de jeunesse et qu'il apporte le jour de l'épreuve.
 
 L'exposé, qui prend appui sur ce texte, doit faire apparaître les connaissances (histoire, thèmes, tendances, relations avec la littérature) et la culture du candidat (textes, illustrations) dans ce domaine et s'attacher à montrer les apports de la littérature de jeunesse à l'enseignement à l'école maternelle et élémentaire.
+
+Pour les trois domaines ci-dessus, l'usage de notes personnelles par le candidat au cours de l'exposé ou de l'analyse de la séquence d'expression musicale n'est pas autorisé.
 
 Entretien avec le jury
 
@@ -136,7 +136,7 @@ Coefficient 4.
 
 sans programme
 
-L'épreuve s'appuie sur un texte d'une vingtaine de lignes dans la langue choisie par le candidat. L'épreuve débute par une présentation orale dans la langue des grandes lignes du texte, d'une durée de 5 minutes. Le candidat doit ensuite lire à haute voix quelques lignes du texte choisies par le jury. Cette lecture est suivie d'un entretien dans la langue avec le jury, qui permet au candidat de faire la preuve de sa compétence d'interaction orale. L'ensemble de l'épreuve se situe au niveau B2 du cadre européen commun de référence, correspondant à un utilisateur dit " indépendant ".
+L'épreuve s'appuie sur un texte d'une vingtaine de lignes dans la langue choisie par le candidat. L'épreuve débute par une présentation orale dans la langue des grandes lignes du texte, d'une durée de 5 minutes. Le candidat doit ensuite lire à haute voix quelques lignes du texte choisies par le jury. Cette lecture est suivie d'un entretien dans la langue avec le jury, qui permet au candidat de faire la preuve de sa compétence d'interaction orale. L'ensemble de l'épreuve se situe au niveau B2 du cadre européen commun de référence, correspondant à un utilisateur dit indépendant.
 
 Les candidats doivent indiquer au moment de leur inscription la langue étrangère choisie parmi les six langues suivantes : allemand, anglais, arabe, espagnol, italien et portugais.
 
@@ -162,19 +162,19 @@ b) Course de 1 500 mètres :
 
 L'épreuve consiste en une course précédée d'un échauffement. La course est notée selon le barème qui figure à l'annexe IV du présent arrêté.
 
-Les candidats n'ayant pas satisfait à l'obligation de fournir le certificat médical mentionné à l'article 10 ou l'ayant produit hors délai se voient attribuer la note zéro à la prestation physique.
+Les candidats n'ayant pas satisfait à l'obligation de fournir le certificat médical mentionné à l'article 10 ou l'ayant produit hors délai sont éliminés.
 
-La moyenne des notes obtenues par les candidats ayant réalisé l'une et l'autre des deux options de la prestation physique est attribuée par le président du jury aux candidats dans l'une des situations de dispense énumérées à l'article 10.
+La moyenne des notes obtenues par les candidats ayant réalisé l'une et l'autre des deux options de la prestation physique est attribuée par le président du jury aux candidats handicapés et aux candidates en état de grossesse ou en congé de maternité bénéficiant d'une dispense conformément au troisième et au quatrième alinéa de l'article 10. La note zéro (non éliminatoire) est attribuée par le président du jury aux candidats présentant un certificat médical de contre-indication à la prestation physique conformément aux situations de dispense prévues au cinquième et au septième alinéa du même article.
 
 Lorsqu'un candidat, s'étant blessé en cours d'épreuve, ne peut effectuer la totalité de la prestation physique, le jury attribue la note en fonction de la prestation réalisée.
 
-Dans les trois situations énumérées ci-dessus, les candidats doivent se présenter à l'entretien de l'épreuve d'éducation physique et sportive.
+Dans les situations énumérées aux deux précédents alinéas, les candidats doivent se présenter à l'entretien de l'épreuve d'éducation physique et sportive.
 
 Le candidat absent à l'une des deux parties de l'épreuve, sans y avoir été autorisé, est éliminé conformément à l'article 13.
 
 2. Entretien avec le jury :
 
-L'entretien prend appui sur la prestation physique, dont il est un prolongement. Au cours de l'entretien, le candidat indique ce qu'il retire de sa pratique pour lui-même et pour son enseignement. Il expose en particulier comment il peut transposer cette pratique dans son enseignement à l'école primaire, en prenant en compte les liens avec les autres disciplines et le développement de l'enfant. Puis le candidat répond à des questions du jury, destinées à élargir et approfondir sa réflexion, qui porteront sur une autre activité physique que celle qu'il a choisie, parmi les activités les plus pratiquées à l'école primaire.
+L'entretien prend appui sur la prestation physique, dont il est un prolongement. Au cours de l'entretien, le candidat indique ce qu'il retire de sa pratique pour lui-même et pour son enseignement. Il expose en particulier comment il peut transposer cette pratique dans son enseignement à l'école primaire, en prenant en compte les liens avec les autres disciplines et le développement de l'enfant. Puis le candidat répond à des questions du jury, destinées à élargir et approfondir sa réflexion, qui porteront sur une autre activité physique que celle qu'il a choisie, parmi les activités les plus pratiquées à l'école primaire. L'usage de notes personnelles par le candidat au cours de l'entretien n'est pas autorisé.
 
 Chaque partie entre pour moitié dans la notation.
 
