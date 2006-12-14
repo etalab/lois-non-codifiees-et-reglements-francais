@@ -48,6 +48,6 @@ Le directeur de la caisse autonome nationale est nommé par décret rendu sur le
 
 Les directeurs et les agents comptables des organismes mentionnés à l'article 10 exercent leurs fonctions dans les conditions prévues par les articles D. 253-4 à D. 253-7, D. 253-9 à D. 253-13 et D. 253-64 à D. 253-83 du code de la sécurité sociale.
 
-_Ces dispositions ne s'appliquent pas au directeur et à l'agent comptable de la Caisse autonome nationale pour les missions confiées à la Caisse des dépôts et consignations (1)._
+Ces dispositions ne s'appliquent pas au directeur et à l'agent comptable de la Caisse autonome nationale pour les missions confiées à la Caisse des dépôts et consignations.
 
 L'intérim des fonctions d'agent comptable des organismes mentionnés à l'article 10 est assuré dans les conditions prévues par l'article D. 253-14 du code de la sécurité sociale.

@@ -8,4 +8,4 @@ S'il estime que l'affilié est susceptible, à la date précitée, de présenter
 
 A défaut d'initiative de l'organisme, l'assuré peut, de son propre chef, former une demande de liquidation dans les conditions prévues au troisième alinéa de l'article R. 341-8 du code de la sécurité sociale.
 
-_La demande déposée par l'assuré ou à l'initiative de l'organisme qui sert les prestations d'assurance maladie est présentée sur le formulaire réglementaire et transmise au service des pensions du régime minier à la Caisse des dépôts et consignations (1)._
+La demande déposée par l'assuré ou à l'initiative de l'organisme qui sert les prestations d'assurance maladie est présentée sur le formulaire réglementaire et transmise au service des pensions du régime minier à la Caisse des dépôts et consignations.

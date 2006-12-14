@@ -6,7 +6,7 @@ Ce fonds national est alimenté par :
 
 1° Une avance, lors de sa création, de la branche maladie, maternité et congé de paternité et décès, remboursable dans les deux ans ;
 
-2° Le cas échéant, un prélèvement de 20 % sur les produits des fonds régionaux issus des cessions mobilières et immobilières ainsi que sur le montant des versements des excédents nets des oeuvres ;
+2° Le cas échéant, un prélèvement de 20 % sur les produits des fonds régionaux issus des cessions mobilières et immobilières ainsi que sur le montant des versements des excédents nets des ou de leurs groupements ;
 
 3° La participation d'organismes d'assurance maladie ou d'autres personnalités morales.
 

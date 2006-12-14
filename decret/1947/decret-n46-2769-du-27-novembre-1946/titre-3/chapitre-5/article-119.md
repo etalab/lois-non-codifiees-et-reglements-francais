@@ -8,6 +8,6 @@ La Caisse autonome nationale dispose, en outre, en tant que de besoin, de compte
 
 L'agent comptable qui fait ouvrir un compte externe de disponibilité auprès d'un établissement non agréé commet une faute professionnelle, passible de sanctions disciplinaires sans préjudice de la mise en jeu de sa responsabilité pécuniaire.
 
-_Un compte numéraire est ouvert auprès de la Caisse des dépôts et consignations pour effectuer le paiement des prestations, conformément au mandat de gestion qui lui a été confié (1)._
+Un compte numéraire est ouvert auprès de la Caisse des dépôts et consignations pour effectuer le paiement des prestations, conformément au mandat de gestion qui lui a été confié.
 
-_Les recettes de ce compte sont constituées par les sommes encaissées par la Caisse des dépôts et consignations lors de l'accomplissement de son mandat, ainsi que des versements effectués par l'agent comptable de la Caisse autonome nationale (1)._
+Les recettes de ce compte sont constituées par les sommes encaissées par la Caisse des dépôts et consignations lors de l'accomplissement de son mandat, ainsi que des versements effectués par l'agent comptable de la Caisse autonome nationale.

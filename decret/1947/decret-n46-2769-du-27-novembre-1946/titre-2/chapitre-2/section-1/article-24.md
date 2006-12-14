@@ -6,7 +6,7 @@ Les organismes mentionnés à l'article 10 sont administrés par un conseil d'ad
 
 a) Le président, nommé par décret rendu sur le rapport du ministre chargé de la sécurité sociale ;
 
-b) Six membres représentant les ministres chargés de la sécurité sociale, du budget et des mines, désignés par ceux-ci à raison de deux chacun, _ainsi qu'un membre représentant le directeur général de la Caisse des dépôts et consignations (1)_ ;
+b) Six membres représentant les ministres chargés de la sécurité sociale, du budget et des mines, désignés par ceux-ci à raison de deux chacun ainsi qu'un membre représentant le directeur général de la Caisse des dépôts et consignations ;
 
 c) Huit membres représentant les exploitants ;
 

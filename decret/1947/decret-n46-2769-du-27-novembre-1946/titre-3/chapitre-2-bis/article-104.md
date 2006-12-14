@@ -1,10 +1,10 @@
 # Article 104
 
-I. - Les ressources du Fonds national de gestion administrative sont constituées par :
+I. -  Les ressources du Fonds national de gestion administrative sont constituées par :
 
 1° Les versements des branches mentionnées aux articles 99 à 101 ;
 
-_2° Le versement des cotisations dues au titre du risque vieillesse par les agents de la Caisse autonome nationale transférés à la Caisse des dépôts et consignations et par l'employeur conformément aux taux fixés par l'article R. 81 du code des pensions civiles et militaires de retraite (1) ;_
+2° Le versement des cotisations dues au titre du risque vieillesse par les agents de la Caisse autonome nationale transférés à la Caisse des dépôts et consignations et par l'employeur conformément aux taux fixés par l'article R. 81 du code des pensions civiles et militaires de retraite ;
 
 3° Les remboursements pour services rendus au titre des dépenses de fonctionnement, notamment aux oeuvres ;
 
@@ -12,9 +12,9 @@ _2° Le versement des cotisations dues au titre du risque vieillesse par les age
 
 II. - Les dépenses sont constituées par :
 
-1° Les charges de fonctionnement et les dépenses en capital de la Caisse autonome nationale au titre de ses services administratifs et médical, _notamment le remboursement à la Caisse des dépôts et consignations des charges de personnel des agents mis à disposition par elle à la Caisse autonome nationale (1)_ ;
+1° Les charges de fonctionnement et les dépenses en capital de la Caisse autonome nationale au titre de ses services administratifs et médical, notamment le remboursement à la Caisse des dépôts et consignations des charges de personnel des agents mis à disposition par elle à la Caisse autonome nationale ;
 
-2° _Le paiement des frais de fonctionnement et des dépenses en capital facturés par la Caisse des dépôts et consignations au vu du mandat de gestion (1)_ ;
+2° Le paiement des frais de fonctionnement et des dépenses en capital facturés par la Caisse des dépôts et consignations au vu du mandat de gestion ;
 
 3° Les charges de fonctionnement et les dépenses en capital des caisses régionales au titre de leurs services administratifs ;
 

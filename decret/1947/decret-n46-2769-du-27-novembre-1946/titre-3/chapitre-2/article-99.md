@@ -24,7 +24,7 @@ I. - Les ressources de la branche vieillesse et invalidité sont constituées pa
 
 II. - Les dépenses de la branche vieillesse et invalidité sont constituées par :
 
-1° Les prestations d'assurance vieillesse et invalidité dues au titre du présent régime _et servies par la Caisse des dépôts et consignations (1)_ ;
+1° Les prestations d'assurance vieillesse et invalidité dues au titre du présent régime et servies par la Caisse des dépôts et consignations ;
 
 2° Les versements effectués au titre des articles L. 814-2, L. 815-2, L. 815-3 et L. 815-4 du code de la sécurité sociale ;
 
