@@ -5,6 +5,7 @@
 - [Arrêté du 3 juillet 2006 (BUDB0630030A)](arrete-du-3-juillet-2006-budb0630030a)
 - [Arrêté du 4 décembre 2006 (MCCB0600913A)](arrete-du-4-decembre-2006-mccb0600913a)
 - [Arrêté du 5 décembre 2006 (AGRP0602414A)](arrete-du-5-decembre-2006-agrp0602414a)
+- [Arrêté du 6 juillet 2006 (EQUP0601457A)](arrete-du-6-juillet-2006-equp0601457a)
 - [Arrêté du 6 novembre 2006 (AGRE0602362A)](arrete-du-6-novembre-2006-agre0602362a)
 - [Arrêté du 6 novembre 2006 (DEFD0601486A)](arrete-du-6-novembre-2006-defd0601486a)
 - [Arrêté du 6 novembre 2006 (INTI0600916A)](arrete-du-6-novembre-2006-inti0600916a)
