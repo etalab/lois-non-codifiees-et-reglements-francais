@@ -274,9 +274,7 @@ Institut géographique national
 
 EMPLOIS OU CATEGORIES D'EMPLOIS concernés
 
-Emplois occupés par les personnels non navigants du service des activités aériennes
-
-Emplois commerciaux de haut niveau
+Emplois de catégories A, B et C dans le secteur commercial, de la mercatique et de la communication ; emplois de catégories A et B dans le domaine aéronautique ; emplois de catégorie A dans les nouvelles technologies informatiques ; emplois de catégorie A de juriste expert dans le droit des affaires.
 
 ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
 
