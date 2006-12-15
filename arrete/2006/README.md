@@ -3,6 +3,7 @@
 - [Arrêté du 1 novembre 2006 (ECOP0600719A)](arrete-du-1-novembre-2006-ecop0600719a)
 - [Arrêté du 1 novembre 2006 (ECOP0600722A)](arrete-du-1-novembre-2006-ecop0600722a)
 - [Arrêté du 3 juillet 2006 (BUDB0630030A)](arrete-du-3-juillet-2006-budb0630030a)
+- [Arrêté du 4 août 2006 (JUSC0620539A)](arrete-du-4-aout-2006-jusc0620539a)
 - [Arrêté du 4 décembre 2006 (MCCB0600913A)](arrete-du-4-decembre-2006-mccb0600913a)
 - [Arrêté du 5 décembre 2006 (AGRP0602414A)](arrete-du-5-decembre-2006-agrp0602414a)
 - [Arrêté du 6 juillet 2006 (EQUP0601457A)](arrete-du-6-juillet-2006-equp0601457a)
