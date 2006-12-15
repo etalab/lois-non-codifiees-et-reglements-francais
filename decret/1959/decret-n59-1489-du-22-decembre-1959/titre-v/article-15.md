@@ -1,6 +1,6 @@
 # Article 15
 
-L'Etat et les communes exercent selon les modalités d'assiette et de tarif déterminées par la législation et la réglementation en vigueur un prélèvement sur le produit brut des jeux.
+L'Etat, les communes, les établissements publics de coopération intercommunale et les organismes sociaux exercent selon les modalités d'assiette et de tarif déterminées par la législation et la réglementation en vigueur des prélèvements sur le produit brut des jeux.
 
 Le produit brut est constitué :
 

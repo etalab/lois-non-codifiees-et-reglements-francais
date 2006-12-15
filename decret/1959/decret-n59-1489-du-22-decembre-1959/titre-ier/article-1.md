@@ -2,10 +2,42 @@
 
 Peuvent être autorisés dans les casinos les jeux de hasard suivants :
 
-a) La boule et le vingt-trois ;
+a) Jeux dits "de contrepartie" :
 
-b) Les autres jeux dits "de contrepartie", à savoir la roulette, la roulette dite "américaine", la roulette dite "anglaise", le trente-et-quarante, le black jack, le craps, le stud poker de casino et le punto banco ;
+- la boule ;
 
-c) Les jeux dits "de cercle", à savoir le baccara chemin de fer, le baccara à deux tableaux à banque limitée, le baccara à deux tableaux à banque ouverte et l'écarté ;
+- le vingt-trois ;
 
-d) Les jeux pratiqués avec des appareils définis au premier alinéa de l'article 1er de la loi n° 83-628 du 12 juillet 1983 et qui procurent un gain en numéraire.
+- la roulette dite "française" ;
+
+- la roulette dite "américaine" ;
+
+- la roulette dite "anglaise" ;
+
+- le trente et quarante ;
+
+- le black jack ;
+
+- le craps ;
+
+- le stud poker ;
+
+- le punto banco ;
+
+- le hold'em poker de casino ;
+
+b) Jeux dits "de cercle" :
+
+- le baccara chemin de fer ;
+
+- le baccara à deux tableaux à banque limitée ;
+
+- le baccara à deux tableaux à banque ouverte ;
+
+- l'écarté ;
+
+- le Texas hold'em poker ;
+
+c) Les formes électroniques des jeux mentionnés aux a et b ;
+
+d) Les jeux pratiqués avec des appareils définis à l'article 2 de la loi n° 83-628 du 12 juillet 1983 qui procurent un gain en numéraire, dits "machines à sous".
