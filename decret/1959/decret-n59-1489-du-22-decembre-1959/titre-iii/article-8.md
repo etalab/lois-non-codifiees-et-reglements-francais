@@ -1,6 +1,6 @@
 # Article 8
 
-Le directeur responsable du casino engage, rémunère et licencie directement, en dehors de toute ingérence étrangère, toutes les personnes employées à un titre quelconque dans les salles de jeux ; préalablement à leur entrée en fonctions, ces personnes doivent être agréées par le ministre de l'intérieur.
+Le directeur responsable du casino engage, rémunère et licencie directement, en dehors de toute ingérence étrangère, toutes les personnes employées à un titre quelconque dans les salles de jeux ; préalablement à leur entrée en fonctions, les employés de jeux et les agents de vidéosurveillance doivent être agréés par le ministre de l'intérieur.
 
 Le directeur responsable du casino est tenu de congédier sans délai toute personne employée à un titre quelconque dans les salles de jeux à qui le ministre de l'intérieur aurait retiré l'agrément.
 
