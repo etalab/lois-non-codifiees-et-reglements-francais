@@ -10,7 +10,7 @@ b) Le sous-directeur de la direction générale des douanes et droits indirects 
 
 2° Dix représentants de l'administration des douanes, désignés par le ministre chargé des douanes parmi les responsables des services déconcentrés et des services de l'administration centrale de la direction générale des douanes et droits indirects. Il désigne également leurs suppléants.
 
-3° Douze représentants du personnel de la direction générale des douanes et droits indirects, élus pour trois ans, par collèges définis selon les catégories du statut général de la fonction publique de l'Etat et au scrutin de liste lorsqu'il y a plusieurs sièges à pourvoir. Leur mandat est renouvelable.
+3° Douze représentants du personnel de la direction générale des douanes et droits indirects, élus pour trois ans, au scrutin de liste. Leur mandat est renouvelable.
 
 En cas de renouvellement avant l'échéance normale, le mandat des nouveaux représentants élus prend fin à cette échéance.
 
@@ -20,7 +20,7 @@ Un arrêté du ministre chargé des douanes détermine les conditions d'éligibi
 
 a) Le directeur de l'établissement ou son représentant ;
 
-b) Le contrôleur financier de l'établissement ou son représentant ;
+b) L'Autorité chargée du contrôle financier ;
 
 c) L'agent comptable principal nommé dans les conditions définies à l'article 26, ou son représentant.
 

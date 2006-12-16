@@ -1,6 +1,6 @@
 # Article 7
 
-Le consommateur doit prendre les mesures nécessaires pour que son installation n'émette pas sur le réseau public des perturbations dont le niveau dépasse les limites ci-dessous :
+Conformément aux dispositions de l'article 3, paragraphe A, du décret n° 92-587 du 26 juin 1992 modifié relatif à la compatibilité électromagnétique des appareils électriques et électroniques, les utilisateurs des réseaux publics de distribution dont les installations de consommation d'énergie électrique excèdent une puissance de raccordement de 36 kVA prennent les mesures appropriées pour que leurs installations respectent les règles de compatibilité électromagnétique, pour qu'elles ne perturbent pas le fonctionnement du réseau public de distribution auquel elles sont raccordées et celui des autres installations qui y sont raccordées. Les obligations qui en résultent sont réputées satisfaites pour ce qui concerne le raccordement de ces installations aux réseaux publics de distribution, lorsque les perturbations produites par celles-ci, mesurées au point de connexion aux réseaux publics de distribution, n'excèdent pas les valeurs limites données dans le présent article.
 
 Raccordement en basse tension.
 
@@ -17,6 +17,8 @@ Les valeurs limites indiquées par le gestionnaire de réseau sont fixées dans 
 Raccordement en HTA.
 
 Les limites définies de perturbations produites par le consommateur sont établies sur la base d'une puissance de court-circuit minimale de référence de 40 MVA au point de livraison HTA. Si, en pratique, le gestionnaire du réseau public de distribution met à disposition une puissance de court-circuit inférieure, les limites aux perturbations de tension effectivement produites par le consommateur sont multipliées par le rapport entre la puissance de court-circuit de référence et la puissance de court-circuit effectivement fournie.
+
+A-coups de tension. - Les à-coups de tension au point de livraison, consécutifs par exemple à la mise sous tension de l'installation, notamment des transformateurs, ne doivent pas dépasser 5 %.
 
 Harmoniques : Le gestionnaire d'une installation de consommation de puissance souscrite supérieure à 100 kVA doit limiter les courants harmoniques injectés sur ce réseau. Les limites sont déterminées au prorata de la puissance souscrite P ref. A chaque harmonique de rang n est associé un coefficient de limitation kn. Le gestionnaire de l'installation doit limiter ses courants harmoniques à la valeur :
 

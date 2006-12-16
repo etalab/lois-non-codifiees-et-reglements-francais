@@ -34,7 +34,7 @@ d) Le règlement relatif aux modalités de calcul et de versement des aides ment
 
 12° Les actions en justice et les transactions ;
 
-13° La ratification des décisions modificatives du budget, autres que celles prévues au 4° ci-dessus, prises par le directeur en accord avec le contrôleur financier ;
+13° La ratification des décisions modificatives du budget, autres que celles prévues au 4° ci-dessus, prises par le directeur en accord avec l'autorité chargée du contrôle financier ;
 
 14° L'acceptation des dons et legs sous réserve des dispositions des articles L. 15 et L. 19 du code du domaine de l'Etat ;
 
@@ -42,4 +42,4 @@ d) Le règlement relatif aux modalités de calcul et de versement des aides ment
 
 16° Le rapport annuel relatif à l'activité de l'établissement.
 
-Pour les matières énumérées au 11°, le conseil d'administration délègue ses pouvoirs au directeur dans les limites qu'il détermine. Pour les actions en justice mentionnées au 12°, la même délégation s'exerce dans la limite des seuils fixés par l'article R. 321-1 du code de l'organisation judiciaire. Pour les transactions, le conseil d'administration peut déléguer au directeur ses pouvoirs dans les limites qu'il fixe ; celui-ci en rend compte au conseil d'administration, lors de sa prochaine séance.
+Pour les matières énumérées au 11°, le conseil d'administration délègue ses pouvoirs au directeur dans les limites qu'il détermine. Pour les actions en justice mentionnées au 12°, la même délégation s'exerce dans la limite des seuils fixés par l'article R. 321-3 du code de l'organisation judiciaire. Pour les transactions, le conseil d'administration peut déléguer au directeur ses pouvoirs dans les limites qu'il fixe ; celui-ci en rend compte au conseil d'administration, lors de sa prochaine séance.

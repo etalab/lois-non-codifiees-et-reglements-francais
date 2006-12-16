@@ -1,6 +1,6 @@
 # Article 31
 
-Indépendamment des contrôles prévus par l'article 189 du décret du 29 décembre 1962 et du décret du 11 février 1985 susvisés, l'établissement comporte une commission d'audit et de vérification chargée :
+Indépendamment des contrôles prévus par l'article 189 du décret du 29 décembre 1962 et du décret du 11 février 1985 susvisés, l'établissement comporte une commission d'audit et de vérification des comptes chargée :
 
 1° De veiller à la régularité des opérations de gestion et comptables ;
 
