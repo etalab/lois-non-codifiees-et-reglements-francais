@@ -51,3 +51,5 @@ La liste des emplois de conseiller pour les affaires administratives du ministè
 - chef du bureau des pensions de retraite du service des pensions des armées ;
 
 - adjoint au chef de la division personnel civil de l'état-major de la région terre nord-est ;
+
+- chef du bureau de la reconversion à la sous-direction du recrutement et de la formation de la direction générale de la gendarmerie nationale
