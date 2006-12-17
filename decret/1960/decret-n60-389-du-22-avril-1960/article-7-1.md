@@ -1,11 +1,5 @@
 # Article 7-1
 
-Jusqu'au 31 décembre 1985, l'Etat assume seul la charge des dépenses de fonctionnement des classes des collèges et lycées placés sous le régime du contrat d'association.
+Jusqu'au 31 décembre 2006, l'Etat assume, pour les classes sous contrat des collèges et lycées privés, la charge des dépenses de fonctionnement relatives aux personnels non enseignants afférentes à l'externat. A compter du 1er janvier 2007, ces dépenses sont prises en charge dans les conditions prévues à l'article L. 442-9 du code de l'éducation.
 
-Toutefois, une collectivité locale peut décider d'assumer en tout ou partie ces dépenses de fonctionnement. Dans ce cas, cette collectivité passe une convention avec l'établissement.
-
-A compter du 1er janvier 1986, l'Etat cesse d'assumer seul la charge des dépenses de fonctionnement, à l'exception de celles relatives au personnel non enseignant et afférentes à l'externat, ainsi que, au titre des dépenses pédagogiques dont le montant est déterminé par la loi de finances, les dépenses afférentes à la fourniture des manuels scolaires dans les collèges et des documents pédagogiques à usage collectif dans les lycées d'enseignement professionnel.
-
-Les dépenses de fonctionnement (matériel) afférentes à l'externat sont assumées par les départements dont relèvent les collèges et par les régions dont relèvent les lycées.
-
-La région de Corse assume les dépenses de fonctionnement (matériel) afférentes à l'externat des collèges et des lycées.
+Les départements, pour les classes sous contrat des collèges, les régions, pour les classes sous contrat des lycées, et la collectivité territoriale de Corse, pour les classes sous contrat des collèges et lycées de Corse, assument, en ce qui concerne les établissements privés, les dépenses de fonctionnement (matériel) afférentes à l'externat, calculées dans les conditions prévues à l'article L. 442-9 du même code.
