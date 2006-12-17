@@ -115,7 +115,6 @@
 - [Arrêté du 6 avril 1999 (MESH9921151A)](arrete-du-6-avril-1999-mesh9921151a)
 - [Arrêté du 6 avril 1999 (MESH9921152A)](arrete-du-6-avril-1999-mesh9921152a)
 - [Arrêté du 6 avril 1999 (MESH9921153A)](arrete-du-6-avril-1999-mesh9921153a)
-- [Arrêté du 6 décembre 1999 (MENT9902140A)](arrete-du-6-decembre-1999-ment9902140a)
 - [Arrêté du 6 janvier 1999 (ATEN9870471A)](arrete-du-6-janvier-1999-aten9870471a)
 - [Arrêté du 6 janvier 1999 (INTB9900017A)](arrete-du-6-janvier-1999-intb9900017a)
 - [Arrêté du 6 janvier 1999 (MCCI9900004A)](arrete-du-6-janvier-1999-mcci9900004a)
