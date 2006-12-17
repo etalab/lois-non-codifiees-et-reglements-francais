@@ -16,13 +16,13 @@ La directrice générale du personnel et de l'administration.
 
 Le directeur général de l'urbanisme, de l'habitat et de la construction.
 
-L'adjoint au directeur général des routes.
+Le directeur général des routes.
 
 Le directeur général de la mer et des transports.
 
 Le directeur général de l'aviation civile.
 
-La sous-directrice des affaires transversales et des ressources de la direction de la sécurité et de la circulation routières.
+La directrice de la sécurité et de la circulation routières.
 
 Le directeur du tourisme.
 
@@ -44,13 +44,13 @@ Le secrétaire général de la direction générale de l'aviation civile.
 
 La directrice des affaires juridiques, informatiques et logistiques.
 
-Le chargé de la sous-direction du recrutement, des concours et de la formation au sein du service du personnel de la direction générale du personnel et de l'administration.
+Le chef du service du pilotage des services et de la modernisation du secrétariat général.
 
-Le chef du service des effectifs et du budget, adjoint à la directrice générale du personnel et de l'administration.
+Le chef du service du personnel, adjoint à la directrice générale du personnel et de l'administration.
 
 Le directeur des affaires maritimes.
 
-La chargée de la sous-direction des personnels administratifs, maritimes et des transports terrestres au sein du service du personnel de la direction générale du personnel et de l'administration.
+La sous-directrice du développement professionnel de la direction générale du personnel et de l'administration.
 
 La chargée du département des relations sociales de la direction générale du personnel et de l'administration.
 
