@@ -1,0 +1,11 @@
+# Article Annexe
+
+A N N E X E
+
+TARIF EN VIGUEUR AU 1er FÉVRIER 2007
+
+<div/>
+
+TARIF EN VIGUEUR JUSQU'AU 31 JANVIER 2007
+
+<div/>
