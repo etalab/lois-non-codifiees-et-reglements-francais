@@ -1,0 +1,3 @@
+# Article 3
+
+Les établissements de crédit dans lesquels les sociétés anonymes coopératives d'intérêt collectif pour l'accession à la propriété détiennent directement ou indirectement une participation et sur lesquels le Crédit immobilier de France développement exerce un contrôle au sens de l'article L. 233-3 du code de commerce forment un réseau ayant pour organe central, au sens de l'article L. 511-30 du code monétaire et financier, le Crédit immobilier de France développement, à la condition que la majorité du capital de cet établissement soit détenu conjointement par des sociétés anonymes coopératives d'intérêt collectif pour l'accession à la propriété.

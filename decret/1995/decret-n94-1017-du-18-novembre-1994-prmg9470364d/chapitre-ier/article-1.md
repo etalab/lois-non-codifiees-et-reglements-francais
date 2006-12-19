@@ -34,7 +34,7 @@ b) Corps d'établissements publics de l'Etat :
 
 - secrétaires administratifs de l'Office national interprofessionnel des grandes cultures et de l'Agence unique de paiement ;
 
-- secrétaires techniques de la Caisse des dépôts et consignations.
+- secrétaires d'administration de la Caisse des dépôts et consignations.
 
 3. Corps communs aux services déconcentrés et à l'administration centrale :
 

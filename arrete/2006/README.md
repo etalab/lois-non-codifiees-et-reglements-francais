@@ -89,6 +89,7 @@
 - [Arrêté du 24 octobre 2006 (INDI0608781A)](arrete-du-24-octobre-2006-indi0608781a)
 - [Arrêté du 24 octobre 2006 (MCCB0600785A)](arrete-du-24-octobre-2006-mccb0600785a)
 - [Arrêté du 26 juillet 2006 (EQUP0601571A)](arrete-du-26-juillet-2006-equp0601571a)
+- [Arrêté du 27 novembre 2006 (AGRG0602473A)](arrete-du-27-novembre-2006-agrg0602473a)
 - [Arrêté du 27 novembre 2006 (FPPA0600131A)](arrete-du-27-novembre-2006-fppa0600131a)
 - [Arrêté du 27 novembre 2006 (JUSA0600246A)](arrete-du-27-novembre-2006-jusa0600246a)
 - [Arrêté du 27 octobre 2006 (EQUT0601323A)](arrete-du-27-octobre-2006-equt0601323a)

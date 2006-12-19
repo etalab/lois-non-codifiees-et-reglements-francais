@@ -1,0 +1,3 @@
+# Article 5
+
+Le Crédit immobilier de France développement succède, dès qu'il acquiert la qualité d'organe central, à la chambre syndicale des sociétés anonymes de crédit immobilier dans l'ensemble de ses droits et obligations pour les missions définies aux articles L. 511-31 et L. 511-32 du code monétaire et financier à l'égard des établissements de crédit mentionnés à l'article 3 et comprenant notamment la gestion de la fraction du fonds de garantie et d'intervention, constitué par la chambre syndicale des sociétés anonymes de crédit immobilier, couvrant les engagements spécifiques éventuellement pris envers un ou plusieurs établissements de crédit dont le Crédit immobilier de France développement est organe central.
