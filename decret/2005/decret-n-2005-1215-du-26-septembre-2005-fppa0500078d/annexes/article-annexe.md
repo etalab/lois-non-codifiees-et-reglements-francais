@@ -5,3 +5,5 @@ Corps des attachés d'administration du ministère de l'agriculture et de la pê
 Corps des attachés d'administration du ministère de l'équipement.
 
 Corps des attachés d'administration du ministère de la défense.
+
+Corps des attachés d'administration de la Caisse des dépôts et consignations.
