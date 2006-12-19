@@ -12,17 +12,11 @@ Toutefois, les grades des corps figurant dans le tableau ci-après prennent les 
 
 CORPS
 
-SECRÉTAIRE ADMINISTRATIF
+SECRÉTAIRE ADMINISTRATIF de classe normale
 
-de classe normale
+SECRÉTAIRE ADMINISTRATIF de classe supérieure
 
-SECRÉTAIRE ADMINISTRATIF
-
-de classe supérieure
-
-SECRÉTAIRE ADMINISTRATIF
-
-de classe exceptionnelle
+SECRÉTAIRE ADMINISTRATIF de classe exceptionnelle
 
 Secrétaire de chancellerie.
 
@@ -40,12 +34,12 @@ Assistant d'administration de l'aviation civile de classe supérieure.
 
 Assistant d'administration de l'aviation civile de classe exceptionnelle.
 
-Secrétaire technique de la Caisse des dépôts.
+Secrétaire d'administration de la Caisse des dépôts et consignations.
 
-Secrétaire technique de la Caisse des dépôts de classe normale.
+Secrétaire d'administration de la Caisse des dépôts  et consignations de classe normale.
 
-Secrétaire technique de la Caisse des dépôts de classe supérieure.
+Secrétaire d'administration de la Caisse des dépôts et consignations de classe supérieure.
 
-Secrétaire technique de la Caisse des dépôts de classe exceptionnelle.
+Secrétaire d'administration de la Caisse des dépôts et consignations de classe exceptionnelle.
 
-Le nombre des emplois de secrétaire administratif de classe supérieure ou du grade assimilé ne peut comprendre plus de 25 p. 100 de l'effectif total des deux premiers grades.
+Le nombre des emplois de secrétaire administratif de classe supérieure ou du grade assimilé ne peut comprendre plus de 25 % de l'effectif total des deux premiers grades.

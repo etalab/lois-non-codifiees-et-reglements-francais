@@ -36,7 +36,7 @@ Secrétaires d'administration scolaire et universitaire.
 
 Secrétaires administratifs de l'Office national des forêts.
 
-Secrétaires techniques de la Caisse des dépôts et consignations.
+Secrétaires d'administration de la Caisse des dépôts et consignations.
 
 Secrétaires administratifs de la police nationale.
 
