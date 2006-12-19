@@ -63,7 +63,6 @@
 - [Décret n°2003-943 du 2 octobre 2003 (INTB0300237D)](decret-n2003-943-du-2-octobre-2003-intb0300237d)
 - [Décret n°2003-948 du 2 octobre 2003 (SANG0323007D)](decret-n2003-948-du-2-octobre-2003-sang0323007d)
 - [Décret n°2003-406 du 2 mai 2003 (AGRE0300314D)](decret-n2003-406-du-2-mai-2003-agre0300314d)
-- [Décret n°2003-407 du 2 mai 2003 (ECOP0300246D)](decret-n2003-407-du-2-mai-2003-ecop0300246d)
 - [Décret n°2003-410 du 2 mai 2003 (SANG0320790D)](decret-n2003-410-du-2-mai-2003-sang0320790d)
 - [Décret du 3 juillet 2003 (INDI0301631D)](decret-du-3-juillet-2003-indi0301631d)
 - [Décret n°2001-1145 du 3 décembre 2001 (EQUP0101554D)](decret-n2001-1145-du-3-decembre-2001-equp0101554d)
