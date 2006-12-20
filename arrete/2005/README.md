@@ -83,7 +83,6 @@
 - [Arrêté du 4 août 2005 (AGRF0501906A)](arrete-du-4-aout-2005-agrf0501906a)
 - [Arrêté du 4 août 2005 (AGRG0501833A)](arrete-du-4-aout-2005-agrg0501833a)
 - [Arrêté du 4 avril 2005 (BUDD0570007A)](arrete-du-4-avril-2005-budd0570007a)
-- [Arrêté du 4 avril 2005 (BUDR0507069A)](arrete-du-4-avril-2005-budr0507069a)
 - [Arrêté du 4 avril 2005 (ECOC0500027A)](arrete-du-4-avril-2005-ecoc0500027a)
 - [Arrêté du 4 avril 2005 (FPPA0510032A)](arrete-du-4-avril-2005-fppa0510032a)
 - [Arrêté du 4 février 2005 (CPTE0400154A)](arrete-du-4-fevrier-2005-cpte0400154a)

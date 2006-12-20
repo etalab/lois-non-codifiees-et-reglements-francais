@@ -863,7 +863,6 @@
 - [Décret n°92-836 du 27 août 1992 (BUDF9200027D)](decret-n92-836-du-27-aout-1992-budf9200027d)
 - [Décret n°92-837 du 27 août 1992 (BUDF9200025D)](decret-n92-837-du-27-aout-1992-budf9200025d)
 - [Décret n°92-887 du 27 août 1992 (SPSS9201752D)](decret-n92-887-du-27-aout-1992-spss9201752d)
-- [Décret n°92-888 du 27 août 1992 (MJSK9270102D)](decret-n92-888-du-27-aout-1992-mjsk9270102d)
 - [Décret n°93-1028 du 27 août 1993 (JUSG9360046D)](decret-n93-1028-du-27-aout-1993-jusg9360046d)
 - [Décret n°93-715 du 27 mars 1993 (ACVE9250022D)](decret-n93-715-du-27-mars-1993-acve9250022d)
 - [Décret n°92-477 du 27 mai 1992 (SPSC9201157D)](decret-n92-477-du-27-mai-1992-spsc9201157d)
