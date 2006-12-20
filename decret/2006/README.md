@@ -1,5 +1,6 @@
 # 2006
 
+- [Décret n°2006-240 du 1 mars 2006 (MJSK0670038D)](decret-n2006-240-du-1-mars-2006-mjsk0670038d)
 - [Décret du 2 novembre 2006 (ECOC0600114D)](decret-du-2-novembre-2006-ecoc0600114d)
 - [Décret n°2006-1332 du 2 novembre 2006 (SANH0624383D)](decret-n2006-1332-du-2-novembre-2006-sanh0624383d)
 - [Décret n°2006-1337 du 2 novembre 2006 (MCCB0600660D)](decret-n2006-1337-du-2-novembre-2006-mccb0600660d)
