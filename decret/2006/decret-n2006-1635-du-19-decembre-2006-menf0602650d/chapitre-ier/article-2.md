@@ -1,0 +1,3 @@
+# Article 2
+
+Peuvent être nommés dans l'emploi de directeur de l'académie de Paris les inspecteurs généraux de l'éducation nationale, les inspecteurs généraux de l'administration de l'éducation nationale et de la recherche, les inspecteurs d'académie-inspecteurs pédagogiques régionaux ayant accompli huit années au moins de services effectifs en cette qualité, dans leur corps ou en position de détachement et les administrateurs civils justifiant de huit ans de services effectifs en cette qualité, dans leur corps ou en position de détachement, dont quatre au ministère de l'éducation nationale, de l'enseignement supérieur et de la recherche.
