@@ -14,6 +14,6 @@ La commission mentionnée à l'article 5 du présent décret est composée comme
 
 - le président du conseil central d'administration de la mutualité sociale agricole ou son représentant ;
 
-- le président du conseil d'administration de la Caisse nationale d'assurance maladie et maternité des travailleurs non salariés des professions non agricoles ou son représentant.
+- le président du conseil d'administration de la Caisse nationale du régime social des indépendants ou son représentant.
 
 Le directeur de la Caisse des dépôts et consignations ou son représentant assiste aux séances de la commission.

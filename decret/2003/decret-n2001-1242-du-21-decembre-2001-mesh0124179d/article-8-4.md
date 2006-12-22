@@ -18,18 +18,10 @@ Les rémunérations annuelles mentionnées ci-dessus comprennent, conformément 
 
 L'établissement recruteur perçoit, la première année, la totalité de la différence constatée et, la seconde année, la moitié de la différence constatée.
 
-5° Prend en charge les coûts de fonctionnement de cellules d'accompagnement social des établissements, dans les limites suivantes :
-
-a) 45 734,71 Euros par an pour un établissement de plus de 2 000 agents ;
-
-b) 33 538,78 Euros par an pour un établissement de moins de 2 000 agents.
-
-Si la cellule est mise en place dans le cadre d'une action de coopération entre plusieurs établissements, les montants prévus ci-dessus sont majorés de 20 % pour chacun des établissements concernés.
-
-Lorsque l'établissement est implanté sur plusieurs sites géographiques, ces dispositions sont applicables à chacun des sites concernés par l'opération agréée par l'agence régionale de l'hospitalisation.
+5° Prend en charge les coûts de fonctionnement de cellules d'accompagnement social des établissements, dans les conditions fixées par arrêté des ministres chargés de la santé, de la sécurité sociale et du budget.
 
 6° Prend en charge les coûts de fonctionnement :
 
-a) Des cellules régionales d'accompagnement social, créées par décision du directeur de l'agence régionale de l'hospitalisation, dans la limite de 67 077,57 Euros par an et, par dérogation, sur demande motivée du directeur de l'agence régionale de l'hospitalisation, pour un montant supérieur, arrêté par les ministres chargés de la santé et de la sécurité sociale ;
+a) Des cellules régionales d'accompagnement social, créées par décision du directeur de l'agence régionale de l'hospitalisation, dans les conditions fixées par arrêté des ministres chargés de la santé, de la sécurité sociale et du budget ;
 
 b) D'une cellule nationale d'accompagnement social, pour un montant arrêté conjointement par les ministres chargés de la santé et de la sécurité sociale.
