@@ -18,7 +18,7 @@ La contribution n'est pas due pour le premier bénéficiaire admis au cours d'un
 
 II. - Le montant de la contribution varie en fonction de l'âge du bénéficiaire au moment de son admission au bénéfice de l'allocation. Il est égal, par bénéficiaire de l'allocation, à 15 % du montant annuel brut de l'allocation majoré de 40 % au titre des cotisations d'assurance vieillesse et de retraite complémentaire à la charge du fonds, multiplié par le nombre d'années comprises entre l'âge mentionné ci-dessus et l'âge de soixante ans.
 
-Le montant de la contribution, qui ne peut dépasser deux millions d'euros par année civile pour chaque redevable, est plafonné, pour les entreprises redevables de la contribution au titre du I, à 2,5 % de la masse totale des salaires payés au personnel pour la dernière année connue.
+Le montant de la contribution, qui ne peut dépasser quatre millions d'euros par année civile pour chaque redevable, est plafonné, pour les entreprises redevables de la contribution au titre du I, à 2,5 % de la masse totale des salaires payés au personnel pour la dernière année connue.
 
 Les entreprises placées en redressement ou en liquidation judiciaire sont exonérées de la contribution.
 

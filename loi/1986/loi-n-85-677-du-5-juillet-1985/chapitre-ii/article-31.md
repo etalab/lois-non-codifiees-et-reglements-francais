@@ -1,3 +1,7 @@
 # Article 31
 
-Ces recours s'exercent dans les limites de la part d'indemnité qui répare l'atteinte à l'intégrité physique de la victime, à l'exclusion de la part d'indemnité de caractère personnel correspondant aux souffrances physiques ou morales par elle endurées et au préjudice esthétique et d'agrément ou, s'il y a lieu, de la part d'indemnité correspondant au préjudice moral des ayants droit.
+Les recours subrogatoires des tiers payeurs s'exercent poste par poste sur les seules indemnités qui réparent des préjudices qu'elles ont pris en charge, à l'exclusion des préjudices à caractère personnel.
+
+Conformément à l'article 1252 du code civil, la subrogation ne peut nuire à la victime subrogeante, créancière de l'indemnisation, lorsqu'elle n'a été indemnisée qu'en partie ; en ce cas, elle peut exercer ses droits contre le responsable, pour ce qui lui reste dû, par préférence au tiers payeur dont elle n'a reçu qu'une indemnisation partielle.
+
+Cependant, si le tiers payeur établit qu'il a effectivement et préalablement versé à la victime une prestation indemnisant de manière incontestable un poste de préjudice personnel, son recours peut s'exercer sur ce poste de préjudice.

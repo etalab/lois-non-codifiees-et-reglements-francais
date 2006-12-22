@@ -2,7 +2,7 @@
 
 I. - Paragraphe modificateur.
 
-II. - Les dispositions du I sont applicables aux pensions prenant effet après le 31 décembre 2007.
+II. - Les dispositions du I sont applicables aux pensions prenant effet après le 31 décembre 2007 pour les assurés nés après 1947.
 
 III. - Pour les pensions prenant effet après le 31 décembre 2003, la limite mentionnée au troisième alinéa de l'article L. 351-1 du code de la sécurité sociale est égale à :
 

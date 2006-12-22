@@ -1,0 +1,3 @@
+# Article 15
+
+L'association de droit français ou la fondation reconnue d'utilité publique qui souhaite faire appel au concours de personnes volontaires dans les conditions prévues par la présente loi doit être agréée par l'État. Cet agrément est délivré par le ministre chargé de la vie associative ou par l'autorité administrative compétente pour une durée déterminée, au vu notamment des motifs du recours au volontariat, de la nature des missions confiées aux personnes volontaires et de la capacité de l'organisme à assurer leur prise en charge. Un décret en Conseil d'État fixe les conditions d'octroi et de retrait de cet agrément.

@@ -30,6 +30,8 @@ Au vu des éléments contenus dans ces rapports, les durées d'assurance ou de s
 
 V. - La durée d'assurance requise des assurés relevant du régime général de l'assurance vieillesse, de l'assurance vieillesse des travailleurs salariés des professions agricoles ou de l'assurance vieillesse des professions mentionnées à l'article L. 621-3 et à l'article L. 723-1 du code de la sécurité sociale, pour l'obtention d'une pension au taux plein, est celle qui est en vigueur, en application du présent article, lorsqu'ils atteignent l'âge prévu au premier alinéa de l'article L. 351-1 du même code.
 
+L'assuré qui remplit la condition d'âge prévue à l'alinéa précédent continue de bénéficier des règles qui lui étaient applicables à la date à laquelle il remplit cette condition, pour la détermination de la durée d'assurance maximale et du nombre d'années de salaire ou de revenu servant de base au calcul de la pension dans chacun des régimes mentionnés à l'alinéa précédent.
+
 VI. - La durée des services et bonifications exigée des fonctionnaires de l'Etat et des militaires pour obtenir le pourcentage maximum d'une pension civile ou militaire de retraite est celle qui est en vigueur lorsqu'ils atteignent l'âge auquel ou l'année au cours de laquelle ils remplissent les conditions de liquidation d'une pension en application des articles L. 24 et L. 25 du code des pensions civiles et militaires de retraite dans leur rédaction issue de la présente loi. Cette durée s'applique également aux fonctionnaires affiliés à la Caisse nationale de retraites des agents des collectivités locales et aux ouvriers des établissements industriels de l'Etat.
 
 VII., VIII. - Paragraphes modificateurs.
