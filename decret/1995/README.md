@@ -515,7 +515,6 @@
 - [Décret n°95-840 du 13 juillet 1995 (INDH9500671D)](decret-n95-840-du-13-juillet-1995-indh9500671d)
 - [Décret n°95-842 du 13 juillet 1995 (MENU9501271D)](decret-n95-842-du-13-juillet-1995-menu9501271d)
 - [Décret n°95-843 du 13 juillet 1995 (ECOX9500943D)](decret-n95-843-du-13-juillet-1995-ecox9500943d)
-- [Décret n°97-151 du 13 février 1997 (MCCB9600557D)](decret-n97-151-du-13-fevrier-1997-mccb9600557d)
 - [Décret n°97-22 du 13 janvier 1997 (ECOP9600533D)](decret-n97-22-du-13-janvier-1997-ecop9600533d)
 - [Décret n°93-69 du 14 janvier 1993 (MENF9204458D)](decret-n93-69-du-14-janvier-1993-menf9204458d)
 - [Décret n°95-1017 du 14 septembre 1995 (REFB9500283D)](decret-n95-1017-du-14-septembre-1995-refb9500283d)
