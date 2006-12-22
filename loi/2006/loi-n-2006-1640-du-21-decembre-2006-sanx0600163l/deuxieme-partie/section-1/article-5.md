@@ -1,0 +1,13 @@
+# Article 5
+
+Une contribution exceptionnelle de régulation, assise sur le chiffre d'affaires hors taxes pour l'année civile 2006 réalisé en France auprès des pharmacies d'officine, des pharmacies mutualistes et des pharmacies de sociétés de secours minières au titre des spécialités inscrites sur la liste mentionnée au premier alinéa de l'article L. 162-17 du code de la sécurité sociale, est due par les entreprises de vente en gros de spécialités pharmaceutiques ainsi que par les entreprises assurant l'exploitation d'une ou plusieurs spécialités pharmaceutiques au sens de l'article L. 5124-1 du code de la santé publique.
+
+Le montant des ventes de médicaments orphelins désignés comme tels en application des dispositions du règlement (CE) n° 141/2000 du Parlement européen et du Conseil, du 16 décembre 1999, concernant les médicaments orphelins n'est pas inclus dans l'assiette de la contribution.
+
+Pour la détermination de l'assiette de la contribution, il n'est tenu compte que de la partie du prix de vente hors taxes aux officines inférieure à un montant de 150 Euros augmenté de la marge maximum que les entreprises visées au premier alinéa sont autorisées à percevoir sur cette somme en application de l'arrêté prévu à l'article L. 162-38 du code de la sécurité sociale.
+
+L'assiette de la contribution est composée de deux parts. Une première part est constituée par le chiffre d'affaires hors taxes réalisé par l'entreprise au cours de l'année 2006 ; une seconde part est constituée par la différence entre le chiffre d'affaires hors taxes réalisé au cours de l'année 2006 et celui réalisé au cours de l'année 2005. Le montant de la contribution est calculé en appliquant un taux de 0,21 % à la première part et un taux de 1,5 % à la seconde part. Si cette dernière est négative, le produit de la seconde part par le taux de 1,5 % s'impute sur le produit de la première part par le taux de 0,21 %. La contribution totale ne peut cependant être négative.
+
+Lorsqu'une entreprise n'a pas eu d'activité commerciale en 2005, elle n'est redevable que de la première part de la contribution. Si, pour le calcul de la seconde part, une entreprise n'a pas eu d'activité commerciale tout au long de l'année 2005, le chiffre d'affaires pris en compte au titre de cette année est calculé au prorata de la durée écoulée afin de couvrir l'année civile dans son intégralité.
+
+La contribution est recouvrée le 1er septembre 2007 dans les conditions prévues aux articles L. 138-20 à L. 138-23 du code de la sécurité sociale. Son produit est réparti dans les conditions prévues à l'article L. 162-37 du même code.

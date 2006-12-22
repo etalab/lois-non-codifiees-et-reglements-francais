@@ -10,7 +10,7 @@ L'agence régionale de l'hospitalisation procède, pour chaque établissement, �
 
 L'écart entre la valorisation de l'activité prévisionnelle retenue pour clore l'exercice 2004 et la valorisation de l'activité réellement constatée peut être imputé à due concurrence sur le montant calculé en application de l'alinéa précédent.
 
-L'agence régionale de l'hospitalisation procède à un contrôle des données transmises. Sans préjudice des dispositions de l'article L. 162-22-18 du même code, lorsqu'elle constate des anomalies, après que l'établissement a été mis en mesure de faire connaître ses observations, elle déduit les sommes indûment versées du montant du ou des trimestres suivants.
+L'agence régionale de l'hospitalisation procède à un contrôle des données transmises. Sans préjudice des dispositions de l'article L. 162-22-18 du même code, lorsqu'elle constate des anomalies, après que l'établissement a été mis en mesure de faire connaître ses observations, elle déduit les sommes indûment versées du montant des périodes suivantes.
 
 II. - En 2005, dans les établissements de santé mentionnés aux a, b et c de l'article L. 162-22-6 du code de la sécurité sociale dans sa rédaction issue de la présente loi, par dérogation aux dispositions des 1° à 3° du I de l'article L. 162-22-10 du même code, les tarifs nationaux des prestations ne servent pas de base au calcul de la participation de l'assuré. Cette participation est calculée sur la hase des tarifs de prestations fixés par l'agence régionale de l'hospitalisation selon les conditions et modalités applicables antérieurement à l'entrée en vigueur de la présente loi.
 
@@ -22,7 +22,7 @@ L'Etat fixe les règles générales de modulation du taux moyen régional de con
 
 Un décret en Conseil d'Etat fixe les dispositions d'application du présent IV.
 
-Les tarifs des prestations mentionnées au 1° de l'article L. 162-22-6 du même code applicables à chacun des établissements de santé mentionnés au d du même article sont fixés dans le cadre d'un avenant tarifaire à leur contrat pluriannuel d'objectifs et de moyens en appliquant le coefficient de transition et, le cas échéant, le coefficient de haute technicité propres à l'établissement aux tarifs nationaux des prestations affectés, le cas échéant, d'un coefficient géographique. Le coefficient de transition de chaque établissement doit atteindre la valeur 1 au plus tard en 2012. Le coefficient de haute technicité est égal à celui calculé pour l'année 2005.
+Les tarifs des prestations mentionnées au 1° de l'article L. 162-22-6 du même code applicables à chacun des établissements de santé mentionnés au d du même article sont fixés dans le cadre d'un avenant tarifaire à leur contrat pluriannuel d'objectifs et de moyens en appliquant le coefficient de transition et, le cas échéant, le coefficient de haute technicité propres à l'établissement aux tarifs nationaux des prestations affectés, le cas échéant, d'un coefficient géographique. Le coefficient de transition de chaque établissement doit atteindre la valeur 1 au plus tard en 2012. Le coefficient de haute technicité est réduit progressivement dans les conditions définies par arrêté des ministres chargés de la santé et de la sécurité sociale pour atteindre la valeur 1 au plus tard en 2012. L'écart entre la valeur de ce coefficient et la valeur 1 est réduit d'au moins 50 % en 2009.
 
 V. - Pour les années 2005 à 2012, les dispositions de la présente loi s'appliquent sous réserve des dispositions suivantes :
 
@@ -32,7 +32,7 @@ A. - Les prestations d'hospitalisation ainsi que les consultations et actes ment
 
 2° Une dotation annuelle complémentaire déterminée dans les conditions prévues au D du présent V. Les litiges relatifs à la dotation annuelle complémentaire sont formés devant le tribunal interrégional de la tarification sanitaire et sociale mentionné à l'article L. 351-1 du code de l'action sociale et des familles.
 
-La fraction mentionnée au 1° est fixée par l'Etat dans les conditions prévues à l'article L. 162-22-10 du même code et ne peut être inférieure à 50 % en 2008.
+La fraction mentionnée au 1° est fixée par l'Etat dans les conditions prévues à l'article L. 162-22-10 du même code et ne peut être inférieure à 50 % en 2008. Cette dernière disposition ne s'applique pas à la fraction propre au service de santé des armées.
 
 Par dérogation aux dispositions des quatre alinéas précédents, les prestations de prélèvement d'organes ou de tissus et celles afférentes à certains modes de prise en charge alternatifs à l'hospitalisation complète dont la liste est fixée par arrêté des ministres chargés de la santé et de la sécurité sociale sont facturées dans leur intégralité sur la base des tarifs fixés en application des dispositions du l° du I de l'article L. 162-22-10 du code de la sécurité sociale.
 

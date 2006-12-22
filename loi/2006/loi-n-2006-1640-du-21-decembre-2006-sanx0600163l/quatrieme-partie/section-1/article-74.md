@@ -1,0 +1,3 @@
+# Article 74
+
+Est validé, sous réserve des décisions de justice passées en force de chose jugée, l'arrêté du 27 septembre 2006 pris en application du II de l'article L. 162-22-10 du code de la sécurité sociale et modifiant l'arrêté du 5 mars 2006 modifié fixant pour l'année 2006 les ressources d'assurance maladie des établissements de santé mentionnés aux d et e de l'article L. 162-22-6 du même code exerçant une activité de médecine, chirurgie, obstétrique et odontologie en tant que la procédure de consultation préalable n'aurait pas permis aux organismes consultés de se prononcer d'une manière éclairée en raison d'une transmission tardive ou incomplète des données et que l'arrêté a été pris en l'absence d'une analyse par activité médicale de l'évolution des charges.

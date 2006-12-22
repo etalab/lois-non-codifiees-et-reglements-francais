@@ -1,0 +1,5 @@
+# Article 112
+
+Les établissements publics de santé et les autres établissements de santé ou organismes publics ou privés associés par convention en application de l'article L. 6142-5 du code de la santé publique participent à la constitution de droits à retraite dans le cadre d'opérations régies par l'article L. 441-1 du code des assurances, par l'article L. 932-24 du code de la sécurité sociale ou par l'article L. 222-1 du code de la mutualité, au bénéfice des personnels enseignants et hospitaliers titulaires mentionnés à l'article L. 952-21 du code de l'éducation qui ne sont pas assujettis à cotisations dans le régime de retraite complémentaire dont bénéficient les agents non titulaires de la fonction publique, sous réserve que ces personnels acquittent au titre de ces opérations un montant minimal de cotisations.
+
+Cette participation est assise sur les émoluments hospitaliers versés ou pris en charge par ces établissements ou organismes dans des limites fixées par décret, notamment en fonction des cotisations personnelles des bénéficiaires. Elle est à la charge des établissements ou organismes versant les émoluments sur lesquels elle est assise.

@@ -17,3 +17,5 @@ Dans sa demande sont précisés :
 Il doit attester qu'il bénéficie de l'accord des propriétaires ou ayants droit ou titulaires du droit de chasse sur les parcelles concernées.
 
 Huit jours avant la tenue de la manifestation, doivent être transmis à la direction départementale de l'agriculture et de la forêt ainsi qu'à la direction départementale des services vétérinaires du département du lieu de la manifestation la liste et les numéros d'identification des chiens qui participent. Conformément à la réglementation sanitaire, les certificats sanitaires et de vaccination doivent être tenus à la disposition des services de contrôle lors de la manifestation.
+
+Une manifestation d'entraînements, concours ou épreuves de chiens de chasse peut être autorisée par le préfet lorsqu'elle a lieu dans les conditions et aux périodes fixées à l'article 4.

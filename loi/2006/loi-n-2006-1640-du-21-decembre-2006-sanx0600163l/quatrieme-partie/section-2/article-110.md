@@ -1,0 +1,21 @@
+# Article 110
+
+I. - Les personnes exerçant ou ayant exercé, avant le 31 décembre 2006, à titre indépendant, la profession de moniteur de ski sont réputées avoir satisfait, à cette date, aux obligations résultant de leur affiliation à titre obligatoire à l'organisation autonome d'assurance vieillesse des professions libérales au titre des périodes d'exercice comprises entre le 1er janvier 1978 et le 31 décembre 2006.
+
+II. - Les périodes mentionnées au I au titre desquelles les personnes mentionnées au même I ont cotisé au dispositif professionnel de retraite mis en place par le syndicat professionnel auquel elles ont adhéré en raison de l'exercice de leur activité de moniteur de ski sont prises en compte pour la détermination de la durée d'assurance fixée en application des dispositions de l'article L. 351-1 du code de la sécurité sociale et donnent lieu à l'attribution de points de retraite du régime d'assurance vieillesse de base des professions libérales mentionné à l'article L. 643-1 du même code, à raison du nombre de points résultant des cotisations acquittées par les intéressés dans ce dispositif.
+
+Les périodes mentionnées au I du présent article ne sont pas prises en compte pour l'application des dispositions du dernier alinéa de l'article L. 643-1 du même code.
+
+Un décret fixe les conditions d'application du présent II.
+
+III. - Les périodes mentionnées au I, au titre desquelles les personnes mentionnées au même I ont cotisé au dispositif professionnel de retraite mis en place par le syndicat professionnel auquel elles ont adhéré en raison de l'exercice de leur activité de moniteur de ski, donnent lieu à l'attribution de points de retraite du régime d'assurance vieillesse complémentaire dont elles relèvent à titre obligatoire, à raison du nombre de points résultant des cotisations acquittées par les intéressés dans ce dispositif et compte tenu des points attribués en application des dispositions du II.
+
+Un décret fixe les conditions d'application du présent III.
+
+IV. - Les réserves du dispositif professionnel spécifique constituées au 31 décembre 2006 sont transférées, respectivement, à la Caisse nationale d'assurance vieillesse des professions libérales et à la caisse chargée de la gestion du régime d'assurance vieillesse complémentaire mentionné au III. Un arrêté fixe le montant transféré à chacun de ces organismes. Cet arrêté peut prévoir qu'une partie de ces réserves est consacrée au financement d'un contrat d'assurance qui serait souscrit par le syndicat mentionné au II auprès d'un organisme assureur habilité, aux fins de verser des prestations temporaires aux personnes mentionnées au II âgées de moins de soixante et un ans en 2007 et ayant liquidé leurs droits auprès du régime spécifique jusqu'en 2007 et aux personnes mentionnées au II nées en 1949 et 1950 respectivement à partir de leurs cinquante-neuvième et soixantième anniversaires, ainsi que de verser à leurs ayants droit les prestations en cas de décès.
+
+Le versement d'une pension de retraite par la Caisse nationale d'assurance vieillesse des professions libérales ou la caisse chargée de la gestion du régime d'assurance vieillesse complémentaire mentionné au III entraîne la cessation des prestations versées au titre du contrat d'assurance visé au premier alinéa du présent IV. Les rentes qui auraient été versées au titre du contrat d'assurance mentionné au même alinéa concomitamment au service d'une pension de vieillesse des régimes d'assurance vieillesse obligatoire des professions libérales sont reversées par leur bénéficiaire à la Caisse nationale d'assurance vieillesse des professions libérales qui en verse une fraction à la caisse chargée de la gestion du régime d'assurance vieillesse complémentaire mentionné au III.
+
+V. - Les dispositions du présent article sont applicables à compter du 1er janvier 2007.
+
+Avant le 31 janvier 2007, les syndicats professionnels auxquels adhèrent ou ont adhéré les personnes mentionnées au I transmettent à la Caisse nationale d'assurance vieillesse des professions libérales et à la caisse chargée de la gestion du régime d'assurance vieillesse complémentaire mentionné au III l'ensemble des données nécessaires à l'application des dispositions du présent article.

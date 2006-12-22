@@ -1,0 +1,3 @@
+# Article 1
+
+Le plan de mobilisation nationale contre le cancer constitue un programme de santé au sens de l'article L. 1411-6 du code de la santé publique. Ce programme a pour objectif de diminuer la mortalité par cancer de 20 % en 2007 en agissant sur l'ensemble des aspects de la lutte contre le cancer : prévention, dépistage, amélioration de la qualité des soins, accompagnement social des patients et de leur famille ; formation des professionnels, recherche, création de l'Institut national du cancer, chargé de coordonner l'ensemble des intervenants de la lutte contre le cancer et de mettre en œuvre l'ensemble des mesures du plan.

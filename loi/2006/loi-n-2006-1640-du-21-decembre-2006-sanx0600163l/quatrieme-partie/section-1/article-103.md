@@ -1,0 +1,5 @@
+# Article 103
+
+A défaut de conclusion avant le 31 janvier 2007 d'un avenant conventionnel pris en application des articles L. 162-5 et L. 162-14-1 du code de la sécurité sociale prévoyant, conformément aux dispositions de la convention nationale des médecins généralistes et spécialistes conclue le 12 janvier 2005, les conditions de convergence du dispositif du médecin référent avec les dispositions relatives au médecin traitant prévues à l'article L. 162-5-3 du même code, un arrêté publié avant le 31 mars 2007 peut prévoir la possibilité, pour les médecins exerçant à titre libéral, de souscrire à titre individuel un contrat avec l'assurance maladie.
+
+Ce contrat, dont l'arrêté définit le contenu, peut comporter des engagements du médecin relatifs notamment au volume d'activité, à la qualité de sa prescription, à sa formation, à la qualité de sa pratique et à sa participation à la permanence des soins. Il peut comporter également des dispositions relatives aux modalités de rémunération des adhérents au contrat et des dispositions favorisant la dispense d'avance de frais.
