@@ -1,0 +1,3 @@
+# Article 1
+
+En application de l'article 5-1 de la loi n° 82-684 du 4 août 1982 relative à la participation des employeurs au financement des transports publics urbains, les personnels des administrations de l'Etat et de ses établissements publics administratifs dont la résidence administrative est située en dehors de la zone de compétence de l'autorité organisatrice des transports parisiens bénéficient, à compter du 1er janvier 2007, de la prise en charge partielle du coût du ou des titres de transport correspondant aux déplacements effectués au moyen de transports publics de voyageurs entre leur résidence habituelle et leur lieu de travail.
