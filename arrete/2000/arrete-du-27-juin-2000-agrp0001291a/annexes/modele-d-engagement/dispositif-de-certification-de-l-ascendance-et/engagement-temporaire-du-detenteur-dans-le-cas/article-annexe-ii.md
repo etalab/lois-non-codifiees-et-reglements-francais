@@ -14,7 +14,7 @@ Conserver les bulletins d'insémination artificielle pendant une durée d'un an 
 
 Transmettre au plus vite, pour chaque naissance de veaux issus d'insémination de testage, à ..., en même temps que les informations relatives à l'identification, les informations nécessaires à la certification des filiations, ainsi que les informations complémentaires, selon les modalités techniques définies par l'EDE ;
 
-Sur demande d'un agent mandaté par l'établissement départemental ou interdépartemental de l'élevage ou par l'institut de l'élevage, communiquer toute information dont je dispose, utile à la mise en oeuvre des procédures de certification, et présenter tous mes animaux soumis à ce dispositif de certification, en en facilitant l'accès et en assurant, notamment, leur contention ;
+Sur demande d'un agent mandaté par l'établissement de l'élevage ou par l'institut de l'élevage, communiquer toute information dont je dispose, utile à la mise en oeuvre des procédures de certification, et présenter tous mes animaux soumis à ce dispositif de certification, en en facilitant l'accès et en assurant, notamment, leur contention ;
 
 Payer à les sommes ... dont je suis redevable pour les opérations de certification, sur présentation de la facture correspondante ;
 
@@ -26,6 +26,6 @@ Vu le naisseur : ...
 
 Vu le centre de mise en place agréé : ...
 
-Vu l'établissement départemental ou interdépartemental de l'élevage : ...
+Vu l'établissement de l'élevage : ...
 
-Après réception par l'établissement départemental ou interdépartemental de l'élevage de la déclaration signée, un exemplaire est remis au naisseur.
+Après réception par l'établissement de l'élevage de la déclaration signée, un exemplaire est remis au naisseur.

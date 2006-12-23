@@ -1,12 +1,12 @@
 # Article 18
 
-En cas de suspension ou de résiliation, l'établissement départemental ou interdépartemental de l'élevage doit informer, par lettre recommandée, le détenteur concerné des motifs retenus et de la mesure envisagée.
+En cas de suspension ou de résiliation, l'établissement de l'élevage doit informer, par lettre recommandée, le détenteur concerné des motifs retenus et de la mesure envisagée.
 
-Le détenteur peut, dans un délai de deux mois après réception du courrier recommandé, demander à être entendu par la commission des recours, instituée au sein de l'établissement départemental ou interdépartemental de l'élevage.
+Le détenteur peut, dans un délai de deux mois après réception du courrier recommandé, demander à être entendu par la commission des recours, instituée au sein de l'établissement de l'élevage.
 
 Cette commission des recours est composée :
 
-- du directeur de l'établissement départemental ou interdépartemental de l'élevage qui la préside ;
+- du directeur de l'établissement de l'élevage qui la préside ;
 
 - le cas échéant, d'un représentant du maître d'oeuvre du dispositif de certification de l'ascendance et de la filiation des bovins ;
 

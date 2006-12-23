@@ -1,8 +1,8 @@
 # Article 14
 
-Dans le cas où la filiation ne peut être totalement certifiée ou dans le cas d'un refus de certification, le résultat est notifié par l'établissement départemental ou interdépartemental de l'élevage au détenteur naisseur, dans un délai suffisamment court pour permettre un recours éventuel tel que prévu dans la réglementation nationale sur l'identification du cheptel bovin en vigueur.
+Dans le cas où la filiation ne peut être totalement certifiée ou dans le cas d'un refus de certification, le résultat est notifié par l'établissement de l'élevage au détenteur naisseur, dans un délai suffisamment court pour permettre un recours éventuel tel que prévu dans la réglementation nationale sur l'identification du cheptel bovin en vigueur.
 
-L'établissement départemental ou interdépartemental de l'élevage en informe le détenteur naisseur par courrier recommandé, dont le modèle est défini dans le cahier des charges national susvisé, qui :
+L'établissement de l'élevage en informe le détenteur naisseur par courrier recommandé, dont le modèle est défini dans le cahier des charges national susvisé, qui :
 
 - explicite le ou les motifs de refus de la certification, ou son caractère partiel, en précisant si une analyse de compatibilité génétique peut permettre ou non d'obtenir la certification de la filiation ;
 
