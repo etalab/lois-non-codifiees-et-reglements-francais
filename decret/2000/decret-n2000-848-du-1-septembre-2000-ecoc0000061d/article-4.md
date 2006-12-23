@@ -14,6 +14,6 @@ Cette demande est assortie des documents suivants :
 
 Elle est complétée par une analyse des vins concernés effectuée par un laboratoire agréé par arrêté du ministre chargé de l'économie.
 
-Sauf dispositions particulières définies par décret pour certains vins de pays, l'OPA transmet le dossier de demande d'agrément à l'Office national interprofessionnel des fruits, des légumes, des vins et de l'horticulture avant le 31 juillet suivant la récolte.
+Sauf dispositions particulières définies par décret pour certains vins de pays, l'OPA transmet le dossier de demande d'agrément à VINIFHLOR avant le 31 décembre de l'année suivant l'année de la récolte. Les vins sont présentés à l'agrément sous leur millésime de récolte.
 
 Les échantillons de vins soumis à l'agrément sont obligatoirement prélevés avant conditionnement par un agent de l'Office national interprofessionnel des fruits, des légumes, des vins et de l'horticulture ou par un agent mandaté par ce dernier, pour chaque cuve considérée ou lot considéré. Pour un volume de vin en vrac inférieur à 300 hectolitres logé en récipients de contenances différentes, l'OPA définit la notion de lot dans son cahier des charges d'agrément.
