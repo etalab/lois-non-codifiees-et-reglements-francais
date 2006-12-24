@@ -1,0 +1,3 @@
+# Article 3
+
+Les candidats au concours de professeur des universités-praticien hospitalier prévu au a de l'article 62 du décret du 24 février 1984 précité, se présentant au titre des fonctions d'enseignement ou de recherche qu'ils ont exercées dans un établissement étranger d'enseignement supérieur ou de recherche, doivent fournir une attestation du chef de l'établissement considéré certifiant expressément que les fonctions d'enseignement ou de recherche accomplies par l'intéressé sont d'un niveau équivalent à celles confiées aux maîtres de conférences. Les dossiers de candidature ne comportant pas l'attestation mentionnée précédemment ne peuvent être déclarés recevables.
