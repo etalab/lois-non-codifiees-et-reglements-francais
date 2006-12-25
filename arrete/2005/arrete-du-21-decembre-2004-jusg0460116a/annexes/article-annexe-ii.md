@@ -77,7 +77,6 @@ BAREME DE NOTATION POUR LES FONCTIONNAIRES DE LA PROTECTION JUDICIAIRE DE LA JEU
 </td>
 <td width="41">
 <p align="center">1</p>
-<br/>
 </td>
 <td width="42">
 <p align="center">2</p>
@@ -104,7 +103,7 @@ BAREME DE NOTATION POUR LES FONCTIONNAIRES DE LA PROTECTION JUDICIAIRE DE LA JEU
 <p align="center">9</p>
 </td>
 <td width="23">
-<br/>
+<p align="center">10</p>
 </td>
 <td width="18">
 <br/>
@@ -562,7 +561,7 @@ BAREME DE NOTATION POUR LES FONCTIONNAIRES DE LA PROTECTION JUDICIAIRE DE LA JEU
 <br/>
 </td>
 <td width="41">
-<br/>
+<p align="center">1</p>
 </td>
 <td width="42">
 <p align="center">2</p>
