@@ -44,8 +44,6 @@ La direction générale de l'administration est composée :
 
 - la sous-direction des affaires administratives et domaniales ;
 
-- la division de la sécurité générale ;
-
 - la division du patrimoine et de la décoration.
 
 5° Du service des affaires juridiques internes.
@@ -57,3 +55,5 @@ La direction générale de l'administration est composée :
 - la sous-direction du courrier, de la valise diplomatique et des transports.
 
 7° De la mission de suivi du réseau à l'étranger.
+
+8° Du service de la sécurité diplomatique.
