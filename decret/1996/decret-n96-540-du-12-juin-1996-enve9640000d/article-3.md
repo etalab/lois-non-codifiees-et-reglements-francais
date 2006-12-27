@@ -20,6 +20,6 @@ Aux berges des cours d'eau, aux lieux de baignade et plages, aux piscicultures e
 
 Aux habitations et aux établissements recevant du public pour protéger la salubrité publique et limiter les nuisances olfactives.
 
-Un arrêté pris conjointement par les ministres chargés de l'agriculture, de l'environnement et de la santé, après avis du Conseil supérieur d'hygiène publique de France et du Comité national de l'eau, fixe les règles techniques d'épandage à respecter, les mesures nécessaires à la préservation des usages auxquels sont affectés les terrains faisant l'objet d'un épandage d'effluents agricoles et de la qualité sanitaire des produits destinés à la consommation humaine qui en sont issus. Il fixe également les distances minimales prévues à l'alinéa ci-dessus.
+Un arrêté pris conjointement par les ministres chargés de l'agriculture, de l'environnement et de la santé, après avis de l'Agence française de sécurité sanitaire des aliments et du Comité national de l'eau, fixe les règles techniques d'épandage à respecter, les mesures nécessaires à la préservation des usages auxquels sont affectés les terrains faisant l'objet d'un épandage d'effluents agricoles et de la qualité sanitaire des produits destinés à la consommation humaine qui en sont issus. Il fixe également les distances minimales prévues à l'alinéa ci-dessus.
 
 Les exploitations agricoles doivent comporter des installations de stockage leur permettant de respecter les périodes d'interdiction d'épandage de leurs effluents.
