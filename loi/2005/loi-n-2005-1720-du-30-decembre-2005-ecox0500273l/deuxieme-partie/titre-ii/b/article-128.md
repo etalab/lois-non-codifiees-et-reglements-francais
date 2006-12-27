@@ -20,6 +20,20 @@ Ces documents sont relatifs aux politiques suivantes :
 
 8° Ville.
 
+Le document relatif à la politique mentionnée au 7° comporte également :
+
+- un état récapitulatif, par mission, de l'effort budgétaire et financier consacré à chaque département ou région d'outre-mer, à chaque collectivité d'outre-mer, à la Nouvelle-Calédonie et aux Terres australes et antarctiques françaises ;
+
+- une évaluation du coût net de chaque exonération de cotisation sociale ou d'impôt destinée à l'outre-mer ;
+
+- un état de la mise en oeuvre du principe de continuité territoriale en matière de transports de personnes ;
+
+- le détail et le coût des compléments de rémunérations, de pensions et d'indemnités temporaires applicables aux fonctionnaires en poste outre-mer ;
+
+- le détail des statuts fiscaux particuliers ;
+
+- tous les deux ans, une appréciation des différences de salaires et de prix à la consommation entre les collectivités territoriales ultramarines et la métropole.
+
 II. - Les relations financières entre la France et l'Union européenne font l'objet d'une présentation détaillée dans une annexe générale jointe au projet de loi de finances de l'année intitulée : "Relations financières avec l'Union européenne".
 
 III. Paragraphe modificateur

@@ -24,7 +24,7 @@ La taxe est exigible au terme de cette période.
 
 Toutefois, lorsque le producteur mentionné au III est redevable du prélèvement mentionné au 1 de l'article 1er du règlement (CE) n° 1788/2003 du Conseil, du 29 septembre 2003, précité, la taxe n'est pas exigible pour les quantités concernées.
 
-V. - Le tarif de la taxe est fixé à 30,91 euros par 100 kilogrammes de lait.
+V. - Le tarif de la taxe est fixé, par 100 kilogrammes de lait, à 28,54 euros pour la campagne 2006-2007 et à 27,83 euros pour les campagnes suivantes.
 
 VI. - La taxe due en application du II est recouvrée par l'office mentionné au I selon les modalités suivantes :
 

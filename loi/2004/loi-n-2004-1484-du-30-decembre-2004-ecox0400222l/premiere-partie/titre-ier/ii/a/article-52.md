@@ -28,214 +28,214 @@ III. - Les ressources attribuées aux départements au titre de cette compensati
 
 Pour tenir compte également de la suppression totale de la taxe différentielle sur les véhicules à moteur, la fraction de taux mentionnée au premier alinéa du présent III est calculée de sorte que, appliquée à l'assiette nationale 2004, elle conduise à un produit égal au droit à compensation de l'ensemble des départements tel que défini au I de l'article 119 de la loi n° 2004-809 du 13 août 2004 précitée, augmenté du produit reçu en 2004 par l'ensemble des départements au titre de la taxe différentielle sur les véhicules à moteur.
 
-En 2006, la participation des familles prévue au deuxième alinéa de l'article 2 du décret n° 85-934 du 4 septembre 1985 relatif au fonctionnement du service annexe d'hébergement des établissements publics locaux d'enseignement est perçue par les départements dans des conditions fixées par décret.
+En 2006, en 2007 et en 2008 la participation des familles prévue au deuxième alinéa de l'article 2 du décret n° 85-934 du 4 septembre 1985 relatif au fonctionnement du service annexe d'hébergement des établissements publics locaux d'enseignement est perçue par les départements dans des conditions fixées par décret.
 
-En 2006, le montant de la compensation servant au calcul de la fraction de taux mentionnée au premier alinéa du présent III est minoré du montant, constaté en 2004, de la participation des familles prévue au deuxième alinéa de l'article 2 du décret n° 85-934 du 4 septembre 1985 précité.
+A compter de 2006, le montant de la compensation servant au calcul de la fraction de taux mentionnée au premier alinéa du présent III est minoré du montant, constaté en 2004, de la participation des familles prévue au deuxième alinéa de l'article 2 du décret n° 85-934 du 4 septembre 1985 précité.
 
-Jusqu'à la connaissance des montants définitifs des droits à compensation, cette fraction est fixée à 1,787 %.
+Jusqu'à la connaissance des montants définitifs des droits à compensation, cette fraction est fixée à 8,705 %.
 
 Le niveau définitif de la fraction mentionnée au premier alinéa du présent III est arrêté par la plus prochaine loi de finances après la connaissance des montants définitifs des droits à compensation.
 
 Chaque département reçoit un produit de taxe correspondant à un pourcentage de la fraction de taux mentionnée au premier alinéa du présent III. Ce pourcentage est égal, pour chaque département, au droit à compensation de ce département, augmenté du produit reçu en 2004 par le département au titre de la taxe différentielle sur les véhicules à moteur et minoré du montant, constaté en 2004 dans ce département, de la participation des familles prévue au deuxième alinéa de l'article 2 du décret n° 85-934 du 4 septembre 1985 précité, rapporté au montant de la compensation de l'ensemble des départements calculé selon les modalités prévues aux deuxième et quatrième alinéas du présent III. Jusqu'à la connaissance définitive des droits à compensation, ces pourcentages sont fixés comme suit :
 
-Ain : 0,371 658 %
+Ain : 1,008 489 %
 
-Aisne : 0,760 245 %
+Aisne : 0,730 045 %
 
-Allier : 0,303 719 %
+Allier : 0,665 437 %
 
-Alpes-de-Haute-Provence : 0,276 728 %
+Alpes-de-Haute-Provence : 0,294 832 %
 
-Hautes-Alpes : 0,145 703 %
+Hautes-Alpes : 0,314 804 %
 
-Alpes-Maritimes : 1,232 836 %
+Alpes-Maritimes : 1,842 562 %
 
-Ardèche : 0,272 560 %
+Ardèche : 0,674 799 %
 
-Ardennes : 0,240 710 %
+Ardennes : 0,544 132 %
 
-Ariège : 0,331 751 %
+Ariège : 0,234 143 %
 
-Aube : 0,414 009 %
+Aube : 0,538 249 %
 
-Aude : 0,384 158 %
+Aude : 0,719 035 %
 
-Aveyron : 0,327 730 %
+Aveyron : 0,508 268 %
 
-Bouches-du-Rhône : 3,580 503 %
+Bouches-du-Rhône : 3,487 408 %
 
-Calvados : 0,818 703 %
+Calvados : 0,994 718 %
 
-Cantal : 0,242 422 %
+Cantal : 0,301 003 %
 
-Charente : 0,324 408 %
+Charente : 0,294 187 %
 
-Charente-Maritime : 0,536 286 %
+Charente-Maritime : 0,925 965 %
 
-Cher : 0,492 073 %
+Cher : 0,528 824 %
 
-Corrèze : 0,319 029 %
+Corrèze : 0,550 524 %
 
-Corse-du-Sud : 0,174 942 %
+Corse-du-Sud : 0,035 916 %
 
-Haute-Corse : 0,188 030 %
+Haute-Corse : 0,038 603 %
 
-Côte-d'Or : 0,851 482 %
+Côte-d'Or : 1,076 889 %
 
-Côtes-d'Armor : 0,496 201 %
+Côtes-d'Armor : 0,849 466 %
 
-Creuse : 0,271 117 %
+Creuse : 0,147 047 %
 
-Dordogne : 0,422 322 %
+Dordogne : 0,654 231 %
 
-Doubs : 0,629 238 %
+Doubs : 0,731 367 %
 
-Drôme : 0,638 854 %
+Drôme : 0,794 184 %
 
-Eure : 0,382 780 %
+Eure : 0,689 823 %
 
-Eure-et-Loir : 0,503 791 %
+Eure-et-Loir : 0,548 940 %
 
-Finistère : 1,007 466 %
+Finistère : 1,051 748 %
 
-Gard : 0,926 213 %
+Gard : 1,321 477 %
 
-Haute-Garonne : > 1,253 190 %
+Haute-Garonne : 2,148 282 %
 
-Gers : 0,208 110 %
+Gers : 0,239 623 %
 
-Gironde : 1,715 925 %
+Gironde : 1,509 033 %
 
-Hérault : 1,431 893 %
+Hérault : 1,591 363 %
 
-Ille-et-Vilaine : 1,123 222 %
+Ille-et-Vilaine : 1,716 465 %
 
-Indre : 0,268 869 %
+Indre : 0,248 812 %
 
-Indre-et-Loire : 0,849 097 %
+Indre-et-Loire : 0,848 534 %
 
-Isère : 1,239 954 %
+Isère : 2,199 814 %
 
-Jura : 0,154 982 %
+Jura : 0,584 505 %
 
-Landes : 0,326 791 %
+Landes : 0,490 360 %
 
-Loir-et-Cher : 0,459 986 %
+Loir-et-Cher : 0,423 667 %
 
-Loire : 0,923 337 %
+Loire : 1,245 055 %
 
-Haute-Loire : 0,187 740 %
+Haute-Loire : 0,237 169 %
 
-Loire-Atlantique : 1,114 081 %
+Loire-Atlantique : 1,880 961 %
 
-Loiret : 0,923 649 %
+Loiret : 1,152 423 %
 
-Lot : 0,003 156 %
+Lot : 0,370 407 %
 
-Lot-et-Garonne : 0,302 825 %
+Lot-et-Garonne : 0,351 014 %
 
-Lozère : 0,126 192 %
+Lozère : 0,275 339 %
 
-Maine-et-Loire : 0,798 032 %
+Maine-et-Loire : 1,413 441 %
 
-Manche : 0,292 466 %
+Manche : 0,622 939 %
 
-Marne : 0,992 931 %
+Marne : 0,830 932 %
 
-Haute-Marne : 0,202 441 %
+Haute-Marne : 0,294 214 %
 
-Mayenne : 0,250 629 %
+Mayenne : 0,537 515 %
 
-Meurthe-et-Moselle : 1,061 455 %
+Meurthe-et-Moselle : 1,183 580 %
 
-Meuse : 0,337 828 %
+Meuse : 0,338 532 %
 
-Morbihan : 0,530 690 %
+Morbihan : 1,082 828 %
 
-Moselle : 1,078 065 %
+Moselle : 1,072 739 %
 
-Nièvre : 0,294 056 %
+Nièvre : 0,484 250 %
 
-Nord : 4,699 232 %
+Nord : 5,285 111 %
 
-Oise : 0,383 823 %
+Oise : 1,245 112 %
 
-Orne : 0,380 098 %
+Orne : 0,590 444 %
 
-Pas-de-Calais : 2,117 762 %
+Pas-de-Calais : 3,049 656 %
 
-Puy-de-Dôme : 0,702 537 %
+Puy-de-Dôme : 0,732 889 %
 
-Pyrénées-Atlantiques : 0,783 765 %
+Pyrénées-Atlantiques : 0,853 459 %
 
-Hautes-Pyrénées : 0,320 762 %
+Hautes-Pyrénées : 0,342 436 %
 
-Pyrénées-Orientales : 0,607 997 %
+Pyrénées-Orientales : 0,498 182 %
 
-Bas-Rhin : 1,260 491 %
+Bas-Rhin : 1,838 875 %
 
-Haut-Rhin : 0,795 554 %
+Haut-Rhin : 1,356 690 %
 
-Rhône : 3,751 175 %
+Rhône : 2,523 840 %
 
-Haute-Saône : 0,090 620 %
+Haute-Saône : 0,265 489 %
 
-Saône-et-Loire : 0,601 981 %
+Saône-et-Loire : 1,121 896 %
 
-Sarthe : 0,611 552 %
+Sarthe : 1,246 031 %
 
-Savoie : 0,500 799 %
+Savoie : 1,160 495 %
 
-Haute-Savoie : 0,671 781 %
+Haute-Savoie : 1,663 393 %
 
-Paris : 13,651 246 %
+Paris : 4,552 734 %
 
-Seine-Maritime : 0,670 316 %
+Seine-Maritime : 1,458 280 %
 
-Seine-et-Marne : 1,340 190 %
+Seine-et-Marne : 1,573 049 %
 
-Yvelines : 3,175 310 %
+Yvelines : 1,704 655 %
 
-Deux-Sèvres : 0,467 735 %
+Deux-Sèvres : 0,666 317 %
 
-Somme : 0,704 387 %
+Somme : 1,136 705 %
 
-Tarn : 0,326 674 %
+Tarn : 0,470 259 %
 
-Tarn-et-Garonne : 0,246 323 %
+Tarn-et-Garonne : 0,413 887 %
 
-Var : 0,812 442 %
+Var : 1,326 640 %
 
-Vaucluse : 0,816 139 %
+Vaucluse : 0,692 805 %
 
-Vendée : 0,576 089 %
+Vendée : 1,024 707 %
 
-Vienne : 0,325 799 %
+Vienne : 0,465 403 %
 
-Haute-Vienne : 0,720 241 %
+Haute-Vienne : 0,329 254 %
 
-Vosges : 0,414 289 %
+Vosges : 0,557 776 %
 
-Yonne : 0,145 299 %
+Yonne : 0,667 088 %
 
-Territoire de Belfort : 0,144 725 %
+Territoire de Belfort : 0,280 933 %
 
-Essonne : 1,593 972 %
+Essonne : 2,189 770 %
 
-Hauts-de-Seine : 8,247 860 %
+Hauts-de-Seine : 2,728 900 %
 
-Seine-Saint-Denis : 4,558 579 %
+Seine-Saint-Denis : 1,773 619 %
 
-Val-de-Marne : 2,593 066 %
+Val-de-Marne : 1,451 253 %
 
-Val-d'Oise : 1,556 232 %
+Val-d'Oise : 1,228 396 %
 
-Guadeloupe : 0,881 690 %
+Guadeloupe : 0,335 610 %
 
-Martinique : 0,478 552 %
+Martinique : 0,254 162 %
 
-Guyane : 0,441 495 %
+Guyane : 0,274 546 %
 
-La Réunion : 0,512 162 %
+La Réunion : 0,198 343 %
 
 Total : 100,000 000 %

@@ -24,13 +24,13 @@ I. - Sont clos à la date du 31 décembre 2005 les comptes d'avances et les comp
 
 II. - A compter du 1er janvier 2006, il est ouvert dans les écritures du Trésor un compte de concours financiers intitulé Avances aux collectivités territoriales.
 
-Le ministre chargé du budget est l'ordonnateur principal de ce compte, qui reprend en balance d'entrée le solde des opérations antérieurement enregistrées par les comptes d'avances n° 903-53 Avances aux collectivités et établissements publics, territoires, établissements et Etats d'outre-mer et n° 903-54 Avances sur le montant des impositions revenant aux départements, communes, établissements et divers organismes.
+Ce compte reprend en balance d'entrée le solde des opérations antérieurement enregistrées par les comptes d'avances n° 903-53 Avances aux collectivités et établissements publics, territoires, établissements et Etats d'outre-mer et n° 903-54 Avances sur le montant des impositions revenant aux départements, communes, établissements et divers organismes.
 
 Ce compte comporte deux sections.
 
-La première section retrace, respectivement en dépenses et en recettes, le versement et le remboursement des avances aux collectivités et établissements publics, territoires et établissements d'outre-mer.
+La première section, pour laquelle le ministre chargé de l'économie est ordonnateur principal, retrace, respectivement en dépenses et en recettes, le versement et le remboursement des avances aux collectivités et établissements publics y compris la Nouvelle-Calédonie.
 
-La seconde section retrace, respectivement en dépenses et en recettes, le versement et le remboursement des avances sur le montant des impositions revenant aux régions, départements, communes, établissements et divers organismes.
+La seconde section, pour laquelle le ministre chargé du budget est ordonnateur principal, retrace, respectivement en dépenses et en recettes, le versement et le remboursement des avances sur le montant des impositions revenant aux régions, départements, communes, établissements et divers organismes.
 
 Cette section retrace notamment le versement de la part du produit de la taxe intérieure de consommation sur les produits pétroliers affectée à chaque département en application du I de l'article 59 de la loi de finances pour 2004 (n° 2003-1311 du 30 décembre 2003), dans les conditions suivantes :
 
@@ -38,11 +38,15 @@ Cette section retrace notamment le versement de la part du produit de la taxe in
 
 2° Si le produit affecté à chaque département en vertu du pourcentage de la fraction de tarif qui lui est attribué par la loi de finances représente un montant annuel supérieur au montant total de son droit à compensation au titre de l'allocation de revenu minimum d'insertion et de l'allocation de revenu de solidarité, la différence fait l'objet d'un versement complémentaire dès ce montant connu.
 
-III. - A compter du 1er janvier 2006, il est ouvert dans les écritures du Trésor un compte de concours financiers intitulé : Prêts et avances à des particuliers ou à des organismes privés.
+III. - A compter du 1er janvier 2006, il est ouvert dans les écritures du Trésor un compte de concours financiers intitulé :
 
-Le ministre chargé du budget est l'ordonnateur principal de ce compte, qui reprend en balance d'entrée le solde des opérations antérieurement enregistrées par le compte de prêts n° 903-05 Prêts du Fonds de développement économique et social et par le compte d'avances n° 903-59 Avances à des particuliers et associations.
+Prêts et avances à des particuliers ou à des organismes privés.
 
-Ce compte retrace, respectivement en dépenses et en recettes, le versement et le remboursement des :
+Ce compte reprend en balance d'entrée le solde des opérations antérieurement enregistrées par le compte de prêts n° 903-05 Prêts du Fonds de développement économique et social et par le compte d'avances n° 903-59 Avances à des particuliers et associations.
+
+Ce compte comporte deux sections.
+
+La première section, dénommée : "Prêts et avances à des particuliers ou à des associations", pour laquelle le ministre chargé du budget est ordonnateur principal, retrace, respectivement en dépenses et en recettes, le versement et le remboursement des :
 
 1° Avances aux fonctionnaires de l'Etat pour l'acquisition de moyens de transport ;
 
@@ -50,11 +54,13 @@ Ce compte retrace, respectivement en dépenses et en recettes, le versement et l
 
 3° Avances aux associations participant à des tâches d'intérêt général ;
 
-4° Avances aux agents de l'Etat à l'étranger pour la prise en location d'un logement ;
+4° Avances aux agents de l'Etat à l'étranger pour la prise en location d'un logement.
 
-5° Prêts pour le développement économique et social.
+La seconde section, dénommée : "Prêts pour le développement économique ou social", pour laquelle le ministre chargé de l'économie est ordonnateur principal, retrace, respectivement en dépenses et en recettes, le versement et le remboursement des prêts pour le développement économique et social.
 
-IV. - A compter du 1er janvier 2006, il est ouvert dans les écritures du Trésor un compte de concours financiers intitulé : Prêts à des Etats étrangers.
+IV. - A compter du 1er janvier 2006, il est ouvert dans les écritures du Trésor un compte de concours financiers intitulé :
+
+Prêts à des Etats étrangers.
 
 Le ministre chargé de l'économie est l'ordonnateur principal de ce compte, qui reprend en balance d'entrée le solde des opérations antérieurement enregistrées par les comptes de prêts n° 903-07 Prêts du Trésor à des Etats étrangers et à l'Agence française de développement en vue de favoriser le développement économique et social et n° 903-17 Prêts du Trésor à des Etats étrangers pour la consolidation de dettes envers la France.
 
@@ -70,7 +76,7 @@ V. - A compter du 1er janvier 2006, il est ouvert dans les écritures du Trésor
 
 Avances à divers services de l'Etat ou organismes gérant des services publics.
 
-Le ministre chargé du budget est l'ordonnateur principal de ce compte, qui reprend en balance d'entrée le solde des opérations antérieurement enregistrées par le compte d'avances n° 903-58 Avances à divers services de l'Etat ou organismes gérant des services publics.
+Le ministre chargé de l'économie est l'ordonnateur principal de ce compte, qui reprend en balance d'entrée le solde des opérations antérieurement enregistrées par le compte d'avances n° 903-58 Avances à divers services de l'Etat ou organismes gérant des services publics.
 
 Ce compte retrace, respectivement en dépenses et en recettes, le versement et le remboursement des :
 
@@ -88,7 +94,7 @@ Ce compte retrace :
 
 1° En dépenses : le montant des avances accordées aux sociétés et à l'établissement public visés par les articles 44, 45 et 49 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication ;
 
-2° En recettes : d'une part, les remboursements d'avances correspondant au produit de la redevance audiovisuelle, déduction faite des frais d'assiette et de recouvrement et du montant des intérêts sur les avances, et, d'autre part, le montant des dégrèvements de redevance audiovisuelle pris en charge par le budget général de l'Etat. Cette prise en charge par le budget général de l'Etat est limitée à 440 millions d'euros en 2006.
+2° En recettes : d'une part, les remboursements d'avances correspondant au produit de la redevance audiovisuelle, déduction faite des frais d'assiette et de recouvrement et du montant des intérêts sur les avances, et, d'autre part, le montant des dégrèvements de redevance audiovisuelle pris en charge par le budget général de l'Etat. Cette prise en charge par le budget général de l'Etat est limitée à 509 millions d'euros en 2007.
 
 Les frais d'assiette et de recouvrement sont calculés conformément au XI de l'article 1647 du code général des impôts.
 
@@ -100,7 +106,7 @@ Le solde est versé lors des opérations de répartition des recettes arrêtées
 
 Les versements ne peuvent avoir pour effet de porter les avances effectuées pendant l'année civile à un montant supérieur aux recettes effectives du compte.
 
-3. Si les encaissements de redevance nets en 2006 sont inférieurs à 2 280,5 millions d'euros, la limite de la prise en charge par le budget général de l'Etat prévue au cinquième alinéa (2°) du 1 est majorée à due concurrence.
+3. Si les encaissements de redevance nets en 2007 sont inférieurs à 2 281,4 millions d'euros, la limite de la prise en charge par le budget général de l'Etat prévue au cinquième alinéa (2°) du 1 est majorée à due concurrence.
 
 VII. - A compter du 1er janvier 2006, il est ouvert dans les écritures du Trésor un compte de concours financiers intitulé :
 

@@ -4,7 +4,7 @@ I Les établissements publics de coopération intercommunale à fiscalité addit
 
 Les reversements effectués au profit des communes membres doivent venir en déduction du produit attendu de la fiscalité communale.
 
-II Lorsqu'un groupement de communes ou un syndicat mixte crée ou gère une zone d'activités économiques, tout ou partie de la part communale de la taxe foncière sur les propriétés bâties acquittée par les entreprises implantées sur cette zone d'activités peut être affecté au groupement ou au syndicat mixte par délibérations concordantes de l'organe de gestion du groupement ou du syndicat mixte et de la ou des communes sur le territoire desquelles est installée la zone d'activités économiques.
+II Lorsqu'un groupement de communes ou un syndicat mixte crée ou gère une zone d'activités économiques, tout ou partie de la part communale de la taxe foncière sur les propriétés bâties acquittée par les entreprises implantées sur cette zone d'activités peut être affecté au groupement ou au syndicat mixte par délibérations concordantes de l'organe de gestion du groupement ou du syndicat mixte et de la ou des communes sur le territoire desquelles est installée la zone d'activités économiques. Tout ou partie de la part intercommunale de la taxe foncière sur les propriétés bâties acquittée par les entreprises implantées sur cette zone d'activité peut être affecté au syndicat mixte qui crée ou gère cette zone dans les mêmes conditions.
 
 Si la taxe foncière sur les propriétés bâties est perçue par une seule commune sur laquelle est implanté le bien, les communes membres du groupement de communes pourront passer une convention pour répartir entre elles tout ou partie de la part communale de cette taxe.
 

@@ -18,6 +18,8 @@ III. - 1. A compter du 1er janvier 2006, un prélèvement de 1,78 % est effectu�
 
 Un prélèvement complémentaire de 0,22 % est effectué en 2006, 2007 et 2008, sur les sommes misées sur les jeux exploités en France métropolitaine et dans les départements d'outre-mer par La Française des jeux. Ce prélèvement complémentaire est plafonné à 23 millions d'euros par an. Son produit est affecté à l'établissement public chargé du développement du sport pour le financement sur l'ensemble du territoire d'actions agréées par le ministre chargé des sports.
 
+En 2007, le taux et le plafond du prélèvement complémentaire mentionnés à l'alinéa précédent sont portés respectivement à 0,45 % et à 43 millions d'euros.
+
 IV. - L'établissement public chargé du développement du sport est autorisé à percevoir en recettes le solde du boni de liquidation de l'association dénommée "Comité français d'organisation de la coupe du monde de football".
 
 V. - Paragraphe modificateur.

@@ -18,6 +18,8 @@ Ce dispositif spécifique s'applique sous réserve des décisions de justice pas
 
 V. - Les pensions d'invalidité peuvent être révisées, sur la demande des titulaires présentée postérieurement à l'entrée en vigueur du présent texte, pour aggravation des infirmités indemnisées ou pour prise en compte des infirmités nouvelles en relation avec celles déjà indemnisées.
 
+Les demandes d'indemnisation des infirmités non rémunérées sont recevables à compter du 1er janvier 2007 dans les conditions du code des pensions militaires d'invalidité et des victimes de la guerre.
+
 VI. - Les prestations servies en application des textes visés au I peuvent faire l'objet, à compter du 1er janvier 2002 et sur demande, d'une réversion. L'application du droit des pensions aux intéressés et la situation de famille sont appréciées à la date d'effet des dispositions visées au I pour chaque Etat concerné.
 
 VII. - Paragraphe modificateur.

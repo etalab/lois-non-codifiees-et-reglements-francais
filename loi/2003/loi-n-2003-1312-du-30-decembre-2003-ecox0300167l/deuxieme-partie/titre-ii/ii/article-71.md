@@ -1,6 +1,6 @@
 # Article 71
 
-A. - I. - Il est institué une taxe pour le développement des industries de l'ameublement.
+A. - I. - Il est institué une taxe pour le développement des industries de l'ameublement ainsi que des industries du bois.
 
 Le produit de cette taxe est affecté au Comité de développement des industries françaises de l'ameublement, ci-après dénommé le comité, au Centre technique du bois et de l'ameublement et au Centre technique des industries de la mécanique.
 
@@ -8,7 +8,7 @@ Elle a pour objet de financer les missions dévolues à ces organismes par la lo
 
 Les opérations financées au moyen du produit de la taxe font l'objet d'une comptabilité distincte tenue par chaque organisme.
 
-II. - La taxe est due par les fabricants, établis en France, des produits du secteur de l'ameublement et, à l'importation, par la personne désignée comme destinataire réel des biens sur la déclaration en douane ou, solidairement, par le déclarant en douane qui agit dans le cadre d'un mandat de représentation indirecte, tel que défini par l'article 5 du code des douanes communautaire. Ces produits sont recensés par voie réglementaire et par référence au décret n° 2002-1622 du 31 décembre 2002 portant approbation des nomenclatures d'activités et de produits.
+II. - La taxe est due par les fabricants, établis en France, des produits du secteur de l'ameublement ainsi que du secteur des industries du bois et, à l'importation, par la personne désignée comme destinataire réel des biens sur la déclaration en douane ou, solidairement, par le déclarant en douane qui agit dans le cadre d'un mandat de représentation indirecte, tel que défini par l'article 5 du code des douanes communautaire. Ces produits sont recensés par voie réglementaire et par référence au décret n° 2002-1622 du 31 décembre 2002 portant approbation des nomenclatures d'activités et de produits.
 
 Constituent des fabricants au sens de l'alinéa précédent les entreprises qui :
 
@@ -30,7 +30,7 @@ a) Les ventes, y compris à destination d'un autre Etat membre de la Communauté
 
 b) Les prestations de services ou les opérations à façon.
 
-2. La taxe est assise sur la valeur en douane appréciée au moment de l'importation sur le territoire national pour les importations.
+2. La taxe est assise sur la valeur en douane appréciée au moment de l'importation sur le territoire national pour les importations. Pour les produits de secteur des industries du bois, figurant sur la liste fixée par arrêté qui sont incorporés dans des ensembles destinés à la vente mais qui ne sont pas soumis à la taxe, la taxe est assise sur la valeur des produits en bois incorporés, telle qu'elle peut être déterminée par la comptabilité analytique de l'entreprise.
 
 IV. - Les opérations suivantes sont exonérées de la taxe :
 
@@ -50,7 +50,11 @@ V. - Le fait générateur de la taxe est constitué par :
 
 VI. - La taxe est exigible à la date du fait générateur.
 
-VII. - Le taux de la taxe est fixé à 0,20 %. Son produit est affecté à hauteur de 70 % au comité, à hauteur de 24 % au Centre technique du bois et de l'ameublement et à hauteur de 6 % au Centre technique des industries de la mécanique.
+VII. - Le taux de la taxe est fixé à 0,20 % pour les produits du secteur de l'industrie de l'ameublement et à 0,1 % pour les produits du secteur de l'industrie du bois.
+
+Pour le secteur de l'industrie de l'ameublement, son produit est affecté à hauteur de 70 % au comité, à hauteur de 24 % au Centre technique du bois et de l'ameublement et à hauteur de 6 % au Centre technique de la mécanique.
+
+Pour le secteur des industries du bois, son produit est affecté à hauteur de 70 % au comité et à hauteur de 30 % au Centre technique du bois et de l'ameublement.
 
 VIII. - 1. Lorsque le montant de la taxe dû au titre d'une année est supérieur à 1 000 euros, les redevables déposent, au plus tard le 25 de chaque mois de l'année suivante, la déclaration du chiffre d'affaires imposable qu'ils ont réalisé le mois précédent.
 
@@ -192,7 +196,7 @@ Le droit de reprise du comité s'exerce jusqu'au 31 décembre de la troisième a
 
 XII. -  Lorsqu'il ne s'agit pas de produits importés, les réclamations contentieuses relatives à l'assiette de la taxe sont traitées par le directeur du comité. Elles sont présentées, instruites et jugées selon les règles applicables aux taxes sur le chiffre d'affaires.
 
-C. - I. - Il est institué une taxe pour le développement des industries de l'horlogerie, bijouterie, joaillerie et orfèvrerie.
+C. - I. - Il est institué une taxe pour le développement des industries de l'horlogerie, bijouterie, joaillerie et orfèvrerie ainsi que des arts de la table.
 
 Le produit de cette taxe est affecté au Comité de développement de l'horlogerie, de la bijouterie, de la joaillerie et de l'orfèvrerie, ci-après dénommé le comité, et au Centre technique de l'industrie horlogère.
 
@@ -200,7 +204,7 @@ Elle a pour objet de financer les missions dévolues à ces organismes par la lo
 
 Les opérations financées au moyen du produit de la taxe font l'objet d'une comptabilité distincte tenue par chaque organisme.
 
-II. -  La taxe est due par les fabricants et détaillants établis en France des produits du secteur de l'horlogerie, de la bijouterie, de la joaillerie et de l'orfèvrerie et, à l'importation, par la personne désignée comme destinataire réel des biens sur la déclaration en douane ou, solidairement, par le déclarant en douane qui agit dans le cadre d'un mandat de représentation indirecte, tel que défini par l'article 5 du code des douanes communautaire. Ces produits sont recensés par voie réglementaire et par référence au décret n° 2002-1622 du 31 décembre 2002 portant approbation des nomenclatures d'activités et de produits.
+II. - La taxe est due par les fabricants et détaillants établis en France des produits du secteur de l'horlogerie, de la bijouterie, de la joaillerie et de l'orfèvrerie ainsi que du secteur des arts de la table et, à l'importation, par la personne désignée comme destinataire réel des biens sur la déclaration en douane ou, solidairement, par le déclarant en douane qui agit dans le cadre d'un mandat de représentation indirecte, tel que défini par l'article 5 du code des douanes communautaire. Ces produits sont recensés par voie réglementaire et par référence au décret n° 2002-1622 du 31 décembre 2002 portant approbation des nomenclatures d'activités et de produits.
 
 Constituent des fabricants au sens de l'alinéa précédent les entreprises qui :
 
@@ -236,7 +240,7 @@ V. - Le fait générateur de la taxe est constitué par :
 
 VI. - La taxe est exigible à la date du fait générateur.
 
-VII. - Le taux de la taxe est fixé à 0,20 %. Son produit est affecté à hauteur de 75 % au comité et à hauteur de 25 % au Centre technique de l'industrie horlogère.
+VII. - Le taux de la taxe est fixé à 0,20 %. Pour le secteur de l'horlogerie, de la bijouterie, de la joaillerie et de l'orfèvrerie, son produit est affecté à hauteur de 75 % au comité et à hauteur de 25 % au Centre technique de l'industrie horlogère. Pour le secteur des arts de la table, son produit est affecté en totalité au comité.
 
 VIII. - 1. Lorsque le montant de la taxe dû au titre d'une année est supérieur à 1 000 euros, les redevables déposent, au plus tard le 25 de chaque mois de l'année suivante, la déclaration du chiffre d'affaires imposable qu'ils ont réalisé le mois précédent.
 
@@ -436,11 +440,11 @@ La circonstance qu'un produit ou une prestation qui est pris en compte pour le c
 
 VII. - Le taux de la taxe est fixé comme suit :
 
-1° Pour les produits des secteurs de la mécanique, des matériels et consommables de soudage, et du décolletage : 0,091 % ;
+1° Pour les produits des secteurs de la mécanique, des matériels et consommables de soudage, et du décolletage : 0,1 % ;
 
 2° Pour les produits du secteur de la construction métallique :
 
-0,25 % ;
+0,275 % ;
 
 3° Pour les produits du secteur des matériels aérauliques et thermiques : 0,14 %.
 
@@ -482,33 +486,51 @@ Le droit de reprise des centres techniques mentionnés au I s'exerce jusqu'au 31
 
 X. - Les réclamations contentieuses relatives à l'assiette de la taxe sont traitées par le directeur de chacun des centres techniques industriels mentionnés au I. Elles sont présentées, instruites et jugées selon les règles applicables aux taxes sur le chiffre d'affaires.
 
-F. - I. - Il est institué une taxe pour le développement des industries des matériaux de construction regroupant les industries du béton et de la terre cuite.
+F. - I. - Il est institué une taxe pour le développement des industries des matériaux de construction regroupant les industries du béton, de la terre cuite et des roches ornementales et de construction.
 
-Le produit de cette taxe est affecté au Centre d'étude et de recherche de l'industrie du béton et au Centre technique des tuiles et briques.
+Le produit de cette taxe est affecté au Centre d'étude et de recherche de l'industrie du béton et au Centre technique de matériaux naturels de construction.
 
-Elle a pour objet de financer les missions dévolues à ces organismes par la loi n° 48-1228 du 22 juillet 1948 fixant le statut juridique des centres techniques industriels.
+Elle a pour objet de financer les missions dévolues à ces organismes par les dispositions des articles L. 342-1 et suivants du code de la recherche relatives au statut juridique des centres techniques industriels.
 
 Les opérations financées au moyen du produit de la taxe font l'objet d'une comptabilité distincte tenue par ces deux centres techniques industriels.
 
-II. - Cette taxe est due par les fabricants, établis en France, des produits en béton et terre cuite au titre de leurs ventes.
+II. - Cette taxe est due par les fabricants établis en France et les importateurs des produits du secteur des matériaux de construction en béton, terre cuite et roche ornementale ou de construction. Ces produits sont fixés par voie réglementaire et par référence au décret n° 2002-1622 du 31 décembre 2002 portant approbation des nomenclatures d'activités et de produits.
+
+Constituent des fabricants, au sens de l'alinéa précédent, les entreprises qui :
+
+1° Vendent, après les avoir fabriqués, les produits mentionnés au premier alinéa ;
+
+2° Vendent, après les avoir fabriqués, des ensembles non soumis à la taxe en tant que tels mais dans lesquels sont incorporés des produits figurant sur la liste fixée par l'arrêté prévu au premier alinéa ;
+
+3° Vendent les produits mentionnés au 2°, après les avoir conçus et fait fabriquer par un tiers quel que soit le lieu de fabrication :
+
+a) Soit en lui fournissant les matières premières ;
+
+b) Soit en lui imposant des techniques faisant l'objet de brevets, des procédés, des formules ou des plans, dessins ou modèles dont elles ont la jouissance ou l'exclusivité.
 
 Sont considérés comme produits en béton les produits obtenus par durcissement d'un mélange comprenant un liant et des granulats naturels ou artificiels.
 
-Sont considérés comme produits en terre cuite les produits obtenus par cuisson à une température de l'ordre de 1 000 °C, d'un mélange essentiellement de terres argileuses communes, ainsi que des argiles stabilisées à froid.
+III. - La taxe est assise :
 
-La liste des produits soumis à la taxe et répondant aux conditions posées aux alinéas précédents est, pour chacun des deux secteurs, fixée par voie réglementaire et par référence au décret n° 2002-1622 du 31 décembre 2002 portant approbation des nomenclatures d'activités et de produits.
+1° Sur le chiffre d'affaires hors taxes réalisé à l'occasion des ventes mentionnées au II, y compris les ventes à soi-même.
 
-Constituent des fabricants, au sens du premier alinéa, les entreprises qui, dans les industries de fabrication des matériaux de construction :
+Pour les produits figurant sur la liste fixée par arrêté qui sont incorporés dans des ensembles destinés à la vente mais qui ne sont pas soumis à la taxe, la taxe est assise sur la valeur des produits en béton, terre cuite et roche ornementale et de construction incorporés, telle qu'elle peut être déterminée par la comptabilité analytique de l'entreprise ;
 
-1° Vendent, après les avoir fabriqués, les produits mentionnés au quatrième alinéa ;
+2° Sur la valeur en douane appréciée au moment de l'importation sur le territoire national pour les importations.
 
-2° Vendent, après les avoir fabriqués, des ensembles non soumis à la taxe en tant que tels mais dans lesquels sont incorporés des produits figurant sur la liste fixée par l'arrêté prévu au quatrième alinéa.
+Les opérations suivantes sont exonérées de la taxe :
 
-III. - La taxe est assise sur le chiffre d'affaires hors taxes réalisé à l'occasion des ventes mentionnées au II.
+1° Les reventes en l'état ;
 
-Pour les produits figurant sur la liste fixée par arrêté qui sont incorporés dans des ensembles destinés à la vente mais qui ne sont pas soumis à la taxe, la taxe est assise sur la valeur des produits en béton et terre cuite incorporés, telle qu'elle peut être déterminée par la comptabilité analytique de l'entreprise.
+2° Les importations en provenance d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen et les importations qui sont mises en libre pratique dans l'un de ces Etats ;
 
-IV. - Le fait générateur de la taxe est constitué par la facturation des produits mentionnés au II ou de ceux dans lesquels ils sont incorporés.
+3° La vente de produits de roches ornementales et de construction destinés à être directement mis en oeuvre dans des monuments historiques classés ou inscrits ou dans du petit patrimoine rural non protégé, et définis sur une liste fixée par arrêté.
+
+IV. - Le fait générateur de la taxe est constitué :
+
+1° Par la livraison des produits pour les ventes ou de ceux dans lesquels ils sont incorporés ou par la livraison à soi-même ;
+
+2° Par l'importation sur le territoire national pour les importations.
 
 V. - La taxe est exigible à la date du fait générateur.
 
@@ -516,25 +538,27 @@ VI. - Le taux de la taxe est fixé à :
 
 1° 0,35 % pour les produits du secteur de l'industrie du béton ;
 
-2° 0,40 % pour les produits du secteur de la terre cuite.
+2° 0,40 % pour les produits du secteur de la terre cuite ;
 
-VII. - 1. Lorsque le montant de la taxe dû au titre d'une année est supérieur à 450 euros, les redevables déposent, au plus tard le 25 du mois qui suit la fin de chaque trimestre de l'année suivante, la déclaration du chiffre d'affaires imposable qu'ils ont réalisé au titre du trimestre échu.
+3° 0,20 % pour les produits du secteur des roches ornementales et de construction.
+
+VII. - 1. Lorsque le montant de la taxe dû au titre d'une année est supérieur ou égal à 450 euros, les redevables déposent, au plus tard le 25 du mois qui suit la fin de chaque trimestre de l'année suivante, la déclaration du chiffre d'affaires imposable qu'ils ont réalisé au titre du trimestre échu.
 
 2. Lorsque le montant de la taxe dû au titre d'une année est inférieur à 450 euros, les redevables déposent au plus tard le 25 du mois de janvier de la deuxième année qui suit, la déclaration du chiffre d'affaires imposable qu'ils ont réalisé au titre de l'année civile précédente.
 
 3. L'année de création de l'entreprise, les redevables déposent la déclaration du chiffre d'affaires imposable, qu'ils ont réalisé au titre de cette année, au plus tard le 25 du mois de janvier de l'année suivante, quel que soit le montant de la taxe dû.
 
-Pour l'année 2004, le seuil prévu aux 1 et 2 est apprécié par référence au montant de la taxe parafiscale sur les produits en béton et terre cuite acquitté au titre de l'année 2003.
+Pour l'année 2007, le seuil prévu aux 1 et 2 est apprécié par référence au chiffre d'affaires de l'année 2005 réalisé par l'entreprise concernée avec les ventes des produits qui sont assujettis à la taxe.
 
 VIII. - Le paiement de la taxe intervient au moment du dépôt de la déclaration. Cette déclaration est conforme à un modèle établi par l'association Les centres techniques des matériaux et composants pour la construction.
 
-IX. - L'association Les centres techniques des matériaux et composants pour la construction recouvre la taxe.
+IX. - L'association Les centres techniques des matériaux et composants pour la construction recouvre la taxe, à l'exception de celle qui est due sur les produits importés.
 
 Les redevables lui adressent leurs déclarations selon les modalités définies au VII.
 
-L'ensemble des opérations liées au recouvrement de la taxe et au versement de son produit au Centre d'études et de recherche de l'industrie du béton et au Centre technique des tuiles et briques fait l'objet d'une comptabilité distincte tenue par l'association précitée.
+L'ensemble des opérations liées au recouvrement de la taxe et au versement de son produit au Centre d'études et de recherche de l'industrie du béton et au Centre technique de matériaux naturels de construction fait l'objet d'une comptabilité distincte tenue par l'association précitée.
 
-Lorsque la déclaration prévue au VII est déposée sans le paiement correspondant, l'association adresse au redevable par courrier recommandé avec accusé de réception une lettre de rappel motivée l'informant que le montant de la taxe est majoré de 10 %. A défaut de paiement trente jours à compter de la date de réception de cette lettre par le redevable, un titre de perception est établi par le directeur du centre technique concerné, visé par le contrôleur d'Etat et rendu exécutoire par le préfet du département du débiteur.
+Lorsque la déclaration prévue au VII est déposée sans le paiement correspondant, l'association adresse au redevable par courrier recommandé avec accusé de réception une lettre de rappel motivée l'informant que le montant de la taxe est majoré de 10 %. A défaut de paiement trente jours à compter de la date de réception de cette lettre par le redevable, un titre de perception est établi par le directeur du centre technique concerné, visé par le contrôleur général économique et financier et rendu exécutoire par le préfet du département du débiteur.
 
 Le recouvrement de ce titre est effectué par les comptables du Trésor, selon les règles applicables en matière d'impôts directs. Ces comptables bénéficient pour le recouvrement de ce titre du privilège prévu au 1 de l'article 1920 du code général des impôts. Ils peuvent obtenir de l'administration des impôts communication des renseignements nécessaires au recouvrement de la taxe.
 
@@ -544,9 +568,11 @@ Les contestations relatives au recouvrement de la taxe et aux poursuites sont pr
 
 Un prélèvement représentant les frais de perception est effectué au profit du budget général sur les sommes recouvrées par les comptables du Trésor. Son taux est fixé par arrêté du ministre chargé du budget dans la limite de 5 %.
 
+Lorsqu'elle est due sur des produits importés, la taxe est recouvrée par l'administration des douanes et droits indirects, selon les règles, garanties et sanctions applicables en matière de droits de douane.
+
 La taxe n'est pas mise en recouvrement si son montant annuel est inférieur ou égal à 150 euros.
 
-Le produit de la taxe est versé trimestriellement aux centres techniques industriels visés au I. La part revenant à chaque centre est égale à la quote-part du produit de la taxe correspondant au chiffre d'affaires réalisé par le secteur intéressé, déduction faite d'un prélèvement représentant les frais exposés par l'association pour procéder au recouvrement. Le taux de ce prélèvement est fixé par un arrêté du ministre chargé du budget dans la limite de 5 % du produit de la taxe.
+Le produit de la taxe est versé trimestriellement aux centres techniques industriels visés au I. La part revenant à chaque centre est égale à la quote-part du produit de la taxe correspondant au chiffre d'affaires et aux importations réalisés par le secteur intéressé, déduction faite d'un prélèvement représentant les frais exposés par l'association pour procéder au recouvrement. Le taux de ce prélèvement est fixé par un arrêté du ministre chargé du budget dans la limite de 5 % du produit de la taxe.
 
 X. - Chacun des centres techniques industriels mentionnés au I contrôle les déclarations mentionnées au VII. A cette fin, leur directeur ou les agents qu'il a dûment habilités peuvent demander aux redevables de la taxe tous renseignements, justifications ou éclaircissements relatifs à ces déclarations sous les garanties du secret professionnel tel qu'il est défini à l'article L. 103 du livre des procédures fiscales.
 
