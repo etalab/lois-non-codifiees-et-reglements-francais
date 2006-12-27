@@ -1,0 +1,19 @@
+# Article 100
+
+I. - Les pensions militaires d'invalidité et les retraites du combattant servies aux ressortissants des pays ou territoires ayant appartenu à l'Union française ou à la Communauté ou ayant été placés sous le protectorat ou sous la tutelle de la France en application des articles 170 de l'ordonnance n° 58-1374 du 30 décembre 1958 portant loi de finances pour 1959, 71 de la loi de finances pour 1960 (n° 59-1454 du 26 décembre 1959), 26 de la loi de finances rectificative pour 1981 (n° 81-734 du 3 août 1981) et 68 de la loi de finances rectificative pour 2002 (n° 2002-1576 du 30 décembre 2002) sont calculées dans les conditions prévues aux paragraphes suivants.
+
+II. - A compter du 1er janvier 2007, la valeur du point de base des retraites du combattant et des pensions militaires d'invalidité visées au I est égale à la valeur du point de base retenue pour les retraites du combattant et les pensions militaires d'invalidité servies en France telle qu'elle est définie par l'article L. 8 bis du code des pensions militaires d'invalidité et des victimes de la guerre.
+
+III. - A compter du 1er janvier 2007, les indices servant au calcul des pensions militaires d'invalidité des invalides visés au I du présent article sont égaux aux indices des pensions militaires des invalides servies en France, tels qu'ils sont définis à l'article L. 9 du code des pensions militaires d'invalidité et des victimes de la guerre.
+
+Les pensions en paiement visées au précédent alinéa seront révisées, sans ouvrir droit à intérêts de retard, à compter du 1er janvier 2007 sur la demande des intéressés déposée postérieurement à l'entrée en vigueur du présent article auprès de l'administration qui a instruit leurs droits à pension.
+
+IV. - A compter du 1er janvier 2007, les indices servant au calcul des pensions servies aux conjoints survivants et aux orphelins des pensionnés militaires d'invalidité visés au I du présent article sont égaux aux indices des pensions des conjoints survivants et des orphelins servies en France, tels qu'ils sont définis aux articles L. 49, L. 50, L. 51 (troisième à huitième alinéas), L. 51-1, L. 52, L. 52-2 et L. 54 (cinquième à septième alinéas) du code des pensions militaires d'invalidité et des victimes de la guerre.
+
+Les pensions en paiement visées au précédent alinéa seront révisées, sans ouvrir droit à intérêts de retard, à compter du 1er janvier 2007 sur la demande des intéressés déposée postérieurement à l'entrée en vigueur du présent article auprès de l'administration qui a instruit leurs droits à pension.
+
+Le bénéfice des articles L. 51 (premier et deuxième alinéas) et L. 54 (premier à quatrième et huitième alinéas) du même code n'est ouvert qu'aux personnes visées au premier alinéa du présent IV résidant de façon stable et régulière en France métropolitaine et dans les départements d'outre-mer, dans les conditions prévues aux articles L. 380-1, L. 512-1 et L. 815-1 du code de la sécurité sociale.
+
+Le VIII de l'article 170 de l'ordonnance portant loi de finances pour 1959 précitée, le IV de l'article 71 de la loi de finances pour 1960 précitée, le dernier alinéa de l'article 26 de la loi de finances rectificative pour 1981 précitée, l'article 132 de la loi de finances pour 2002 (n° 2001-1275 du 28 décembre 2001) et le VI de l'article 68 de la loi de finances rectificative pour 2002 précitée ne sont plus applicables à compter du 1er janvier 2007 en ce qu'ils concernent les pensions servies aux conjoints survivants des pensionnés militaires d'invalidité. A compter de cette date, les pensions à concéder aux conjoints survivants des pensionnés militaires d'invalidité sont établies dans les conditions du code des pensions militaires d'invalidité et des victimes de la guerre et de l'alinéa précédent.
+
+V. - Paragraphe modificateur

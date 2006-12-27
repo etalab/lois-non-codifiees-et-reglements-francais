@@ -16,7 +16,7 @@ Les contrats d'objectifs et de moyens déterminent notamment, dans le respect de
 
 Le contrat d'objectifs et de moyens de la société France Télévisions détermine les mêmes données pour chacune des sociétés France 2, France 3, France 5 et Réseau France outre-mer et des filiales mentionnées au dernier alinéa du I de l'article 44.
 
-Avant leur signature, les contrats d'objectifs et de moyens sont transmis aux commissions chargées des affaires culturelles et des finances de l'Assemblée nationale et du Sénat. Ils peuvent faire l'objet d'un débat au Parlement. Les commissions peuvent formuler un avis sur ces contrats d'objectifs et de moyens dans un délai de six semaines.
+Avant leur signature, les contrats d'objectifs et de moyens ainsi que les éventuels avenants à ces contrats sont transmis aux commissions chargées des affaires culturelles et des finances de l'Assemblée nationale et du Sénat. Ils peuvent faire l'objet d'un débat au Parlement. Les commissions peuvent formuler un avis sur ces contrats d'objectifs et de moyens dans un délai de six semaines.
 
 Les sociétés Radio France, Radio France Internationale et Arte-France ainsi que l'Institut national de l'audiovisuel transmettent chaque année, avant la discussion du projet de loi de règlement, aux commissions chargées des affaires culturelles et des finances de l'Assemblée nationale et du Sénat un rapport sur l'exécution de leur contrat d'objectifs et de moyens.
 

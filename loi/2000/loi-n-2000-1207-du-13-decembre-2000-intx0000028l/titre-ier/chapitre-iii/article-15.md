@@ -51,3 +51,23 @@ VIII. - Le non-respect par l'employeur des engagements souscrits dans la convent
 Lorsque la gestion du dispositif est confiée à l'un des organismes gestionnaires mentionnés à l'article L. 351-21 du code du travail, les procédures prévues à l'article L. 351-6 du même code sont applicables à la contribution financière de l'employeur.
 
 Tout employeur ayant conclu une convention de congé-solidarité est tenu de s'assurer en vue de garantir la poursuite du versement de sa contribution en cas de redressement ou de liquidation judiciaires. Cette assurance est souscrite auprès de l'organisme désigné par les organisations professionnelles d'employeurs les plus représentatives dans la collectivité considérée.
+
+IX. - Par dérogation aux dispositions du 2° du III du présent article, le salarié peut adhérer à une convention de congé de solidarité jusqu'au 31 décembre 2007 dans les conditions suivantes :
+
+1° Le salarié doit justifier d'une activité salariée d'au moins quinze ans et bénéficier, au plus tard à l'âge de soixante ans, d'une pension de retraite au titre de l'assurance vieillesse du régime de sécurité sociale dont il relève ;
+
+2° Le montant de l'allocation de congé de solidarité ne peut pas être supérieur à 85 % du salaire antérieur de la personne bénéficiaire ;
+
+3° La participation par l'État ne peut excéder 50 % du montant de l'allocation de congé de solidarité et des cotisations de retraite complémentaire afférentes aux périodes de versement de l'allocation ;
+
+4° Peuvent conclure une convention les seules entreprises du secteur du bâtiment et des travaux publics et des secteurs mentionnés aux II et III de l'article L. 752-3-1 du code de la sécurité sociale ;
+
+5° L'effectif atteint à la date de la signature de la convention mentionnée au 2° du IV du présent article est déterminé selon les dispositions des articles L. 620-10 et L. 620-11 du code du travail et ne doit pas être réduit, hors décès ou démission de salariés, pendant la durée de la convention qui ne peut être inférieure à deux ans.
+
+L'entrée en vigueur de ce dispositif est subordonnée à la signature d'un avenant à la convention-cadre mentionnée au I du présent article.
+
+Les demandes de convention de congé de solidarité formées par les employeurs auprès des services gestionnaires du dispositif avant le 31 décembre 2006 et restées sans réponse à cette date peuvent être déposées à nouveau auprès de ces services après la date de la signature de l'avenant pour pouvoir être prises en compte selon les règles prévues au présent IX.
+
+Les conventions en vigueur avant le 1er janvier 2007 ne peuvent recueillir l'adhésion de nouveaux salariés au-delà du 31 décembre 2006 qu'après la date de la signature de l'avenant et dans les conditions prévues par le présent IX et par ledit avenant.
+
+Les salariés bénéficiant du congé de solidarité avant le 31 décembre 2006 continuent à en bénéficier dans les conditions prévues aux I à VIII.

@@ -2,9 +2,9 @@
 
 I - Les établissements publics de coopération intercommunale à fiscalité additionnelle nouvellement créés par substitution à un syndicat intercommunal à vocation multiple peuvent instituer avec les communes membres, à titre transitoire pour une durée qui ne peut être supérieure à dix ans, des mécanismes conventionnels de péréquation financière dégressive, en vue d'atténuer les effets sur le contribuable local des changements brutaux de régime fiscal à l'intérieur du périmètre de solidarité.
 
-Les reversements effectués au profit des communes membres doivent venir en déduction du produit attendu de la fiscalité communale. ;
+Les reversements effectués au profit des communes membres doivent venir en déduction du produit attendu de la fiscalité communale.
 
-II Lorsqu'un groupement de communes ou un syndicat mixte crée ou gère une zone d'activités économiques, tout ou partie de la part communale de la taxe professionnelle acquittée par les entreprises implantées sur cette zone d'activité peut être affecté au groupement ou au syndicat mixte par délibérations concordantes de l'organe de gestion du groupement ou du syndicat mixte et de la ou des communes sur le territoire desquelles est installée la zone d'activités économiques.
+II Lorsqu'un groupement de communes ou un syndicat mixte crée ou gère une zone d'activités économiques, tout ou partie de la part communale de la taxe professionnelle acquittée par les entreprises implantées sur cette zone d'activité peut être affecté au groupement ou au syndicat mixte par délibérations concordantes de l'organe de gestion du groupement ou du syndicat mixte et de la ou des communes sur le territoire desquelles est installée la zone d'activités économiques. Tout ou partie de la part intercommunale de la taxe professionnelle acquittée par les entreprises implantées sur cette zone d'activité peut être affecté au syndicat mixte qui créé ou gère cette zone dans les mêmes conditions.
 
 Si la taxe professionnelle est perçue par une seule commune sur laquelle sont implantées les entreprises, les communes membres du groupement de communes pourront passer une convention pour répartir entre elles tout ou partie de la part communale de cette taxe.
 
@@ -20,7 +20,7 @@ Lorsque, par délibérations concordantes, des communes décident, ou ont décid
 
 Lorsqu'une commune adhère à un établissement public de coopération intercommunale qui perçoit la taxe professionnelle en lieu et place de ses communes membres, ce dernier lui est substitué dans l'accord conventionnel qu'elle a conclu antérieurement.
 
-Pour l'application des huit alinéas précédents, le produit de la taxe professionnelle s'entend du produit des rôles généraux majoré, à compter du 1er janvier 2006, et sauf délibérations contraires concordantes de la commune et de l'établissement public de coopération intercommunale concernés, de la part, correspondant à ce produit, du montant prévu au 3° de l'article L. 2334-7 du code général des collectivités territoriales, au titre du I du D de l'article 44 de la loi de finances pour 1999 (n° 98-1266 du 30 décembre 1998). Cette part évolue chaque année selon l'indice fixé par le comité des finances locales.
+Pour l'application aux conventions signées jusqu'au 31 décembre 2003 des huit alinéas précédents, le produit de la taxe professionnelle s'entend du produit des rôles généraux majoré, à compter du 1er janvier 2006, et sauf délibérations contraires concordantes des communes et des groupements de communes signataires de la convention, de la part, correspondant à ce produit, du montant prévu au 3° de l'article L. 2334-7 du code général des collectivités territoriales, au titre du I du D de l'article 44 de la loi de finances pour 1999 (n° 98-1266 du 30 décembre 1998). Cette part évolue chaque année selon le taux fixé par le Comité des finances locales en application du 3° de l'article L. 2334-7 précité.
 
 Pour l'application aux conventions signées à compter du 1er janvier 2004 des huit premiers alinéas, le produit de la taxe professionnelle s'entend du produit des rôles généraux.
 
