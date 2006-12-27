@@ -4,7 +4,7 @@ I. - La propriété, l'aménagement, l'entretien et la gestion des ports non aut
 
 II. - Toute collectivité territoriale ou groupement de collectivités territoriales peut demander, jusqu'au 1er janvier 2006, à exercer les compétences prévues au I pour chacun des ports situés dans son ressort géographique pour la totalité ou pour une partie du port, individualisable, d'un seul tenant et sans enclave. Cette demande est notifiée simultanément à l'Etat ainsi qu'aux autres collectivités et groupements intéressés.
 
-Au cas où, pour un port déterminé, aucune autre demande n'a été présentée dans un délai de six mois suivant cette notification, le transfert est opéré au profit de la collectivité ou du groupement pétitionnaire.
+Au cas où, pour un port déterminé, aucune autre demande n'a été présentée dans un délai de six mois suivant cette notification, le transfert est opéré au profit de la collectivité ou du groupement pétitionnaire, ou du groupement constitué du pétitionnaire et d'une ou de plusieurs collectivités ou groupements territorialement intéressés.
 
 Si plusieurs demandes sont présentées pour le même port, le représentant de l'Etat dans la région organise entre les collectivités et groupements intéressés une concertation, dont il fixe la durée, en s'efforçant d'aboutir à la présentation d'une demande unique. Si un accord intervient sur une candidature unique, il désigne la collectivité ou le groupement concerné comme bénéficiaire du transfert.
 
