@@ -265,7 +265,6 @@
 - [Arrêté du 12 avril 1999 (EQUA9900753A)](arrete-du-12-avril-1999-equa9900753a)
 - [Arrêté du 12 avril 1999 (MESF9910638A)](arrete-du-12-avril-1999-mesf9910638a)
 - [Arrêté du 12 avril 1999 (MESN9921249A)](arrete-du-12-avril-1999-mesn9921249a)
-- [Arrêté du 12 avril 1999 (MESP9921303A)](arrete-du-12-avril-1999-mesp9921303a)
 - [Arrêté du 12 février 1999 (EQUK9900252A)](arrete-du-12-fevrier-1999-equk9900252a)
 - [Arrêté du 12 janvier 1999 (ECOC9900007A)](arrete-du-12-janvier-1999-ecoc9900007a)
 - [Arrêté du 12 janvier 1999 (INTC9900033A)](arrete-du-12-janvier-1999-intc9900033a)
