@@ -1078,7 +1078,6 @@
 - [Arrêté du 31 décembre 1992 (BUDD9270010A)](arrete-du-31-decembre-1992-budd9270010a)
 - [Arrêté du 31 décembre 1992 (DEFP9202293A)](arrete-du-31-decembre-1992-defp9202293a)
 - [Arrêté du 31 décembre 1992 (ECOT9213664A)](arrete-du-31-decembre-1992-ecot9213664a)
-- [Arrêté du 31 décembre 1992 (ECOT9220020A)](arrete-du-31-decembre-1992-ecot9220020a)
 - [Arrêté du 31 décembre 1992 (ECOT9220021A)](arrete-du-31-decembre-1992-ecot9220021a)
 - [Arrêté du 31 décembre 1992 (INTB9300028A)](arrete-du-31-decembre-1992-intb9300028a)
 - [Arrêté du 31 décembre 1992 (INTC9300059A)](arrete-du-31-decembre-1992-intc9300059a)
