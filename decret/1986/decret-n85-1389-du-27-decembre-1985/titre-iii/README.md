@@ -2,4 +2,3 @@
 
 - [Chapitre II : Contrôle, inspections et comptabilité](chapitre-ii)
 - [Chapitre III : Caisse de garantie.](chapitre-iii)
-- [Chapitre IV : Bureaux annexes](chapitre-iv)
