@@ -2,9 +2,8 @@
 
 PRESCRIPTIONS GÉNÉRALES APPLICABLES AUX INSTALLATIONS CLASSÉES POUR LA PROTECTION DE L'ENVIRONNEMENT SOUMISES À DÉCLARATION SOUS LES RUBRIQUES 2101 (ÉLEVAGES DE BOVINS), 2111 (ÉLEVAGES DE VOLAILLES ET/OU DE GIBIER À PLUMES) ET 2102 (ÉLEVAGES DE PORCS) DE LA NOMENCLATURE
 
-**1. Dispositions générales**
-
-1.1. Conformité de l'installation à la déclaration
+1. **Dispositions générales**
+_1.1. Conformité de l'installation à la déclaration_
 
 Pour l'application du présent arrêté, on entend par :
 
@@ -22,15 +21,15 @@ Pour l'application du présent arrêté, on entend par :
 
 L'installation doit être implantée, réalisée et exploitée conformément aux plans et autres documents joints à la déclaration, sous réserve du respect des prescriptions ci-dessous.
 
-1.2. Modifications
+_1.2. Modifications_
 
 Toute modification apportée par le déclarant à l'installation, à son mode d'exploitation ou à son voisinage, entraînant un changement notable des éléments du dossier de déclaration initiale, doit être portée, avant sa réalisation, à la connaissance du préfet qui peut exiger une nouvelle déclaration.
 
-1.3. Contenu de la déclaration
+_1.3. Contenu de la déclaration_
 
 La déclaration doit préciser les effectifs d'animaux et d'animaux-équivalents présents et les mesures prises relatives aux conditions de stockage et de traitement des effluents. La déclaration précise, en particulier, le plan d'épandage prévu au 5.8, ainsi que les conditions d'élimination des déchets et résidus en vue de respecter les dispositions du présent arrêté.
 
-1.4. Dossier installation classée
+_1.4. Dossier installation classée_
 
 L'exploitant doit établir et tenir à jour un dossier comportant les documents suivants :
 
@@ -46,27 +45,27 @@ L'exploitant doit établir et tenir à jour un dossier comportant les documents 
 
 Ce dossier est tenu à la disposition de l'inspection des installations classées.
 
-1.5. Déclaration d'accident ou de pollution accidentelle
+_1.5. Déclaration d'accident ou de pollution accidentelle_
 
 L'exploitant d'une installation est tenu de déclarer dans les meilleurs délais à l'inspection des installations classées les accidents ou incidents survenus du fait du fonctionnement de cette installation qui sont de nature à porter atteinte aux intérêts mentionnés à l'article L. 511-1 du code de l'environnement.
 
-1.6. Changement d'exploitant
+_1.6. Changement d'exploitant_
 
 Lorsque l'installation change d'exploitant, le nouvel exploitant ou son représentant doit en faire la déclaration au préfet dans le mois qui suit la prise en charge de l'exploitation. Cette déclaration doit mentionner, s'il s'agit d'une personne physique, les nom, prénoms et domicile du nouvel exploitant et, s'il s'agit d'une personne morale, sa dénomination ou sa raison sociale, sa forme juridique, l'adresse de son siège social ainsi que la qualité du signataire de la déclaration.
 
-1.7. Cessation d'activité
+_1.7. Cessation d'activité_
 
 Lorsqu'une installation cesse l'activité au titre de laquelle elle était déclarée, son exploitant doit en informer le préfet au moins un mois avant l'arrêt définitif. La notification de l'exploitant indique les mesures de remise en état prévues ou réalisées.
 
-1.8. Dispositions particulières
+_1.8. Dispositions particulières_
 
-Dans les zones vulnérables, délimitées en application du décret no 93-1038 du 27 août 1993, les dispositions fixées par les arrêtés relatifs aux programmes d'action, pris en application du décret no 2001-34 du 10 janvier 2001, sont applicables à l'installation. En particulier, l'exploitant devra s'assurer de la possibilité de s'installer ou de s'étendre conformément à ces programmes ou à d'autres textes législatifs ou réglementaires.
+Dans les zones vulnérables, délimitées en application du décret n<sup>o</sup> 93-1038 du 27 août 1993, les dispositions fixées par les arrêtés relatifs aux programmes d'action, pris en application du décret n<sup>o</sup> 2001-34 du 10 janvier 2001, sont applicables à l'installation. En particulier, l'exploitant devra s'assurer de la possibilité de s'installer ou de s'étendre conformément à ces programmes ou à d'autres textes législatifs ou réglementaires.
 
 **2. Implantation. - Aménagement**
 
 _2.1. Règles d'implantation des bâtiments_
 
-2.1.1. Règles générales
+<div>2.1.1. Règles générales</div>
 
 Les bâtiments d'élevage et leurs annexes sont implantés à au moins 100 mètres des habitations des tiers (à l'exception des logements occupés par des personnels de l'installation et des gîtes ruraux dont l'exploitant a la jouissance) ou des locaux habituellement occupés par des tiers, des stades ou des terrains de camping agréés (à l'exception des terrains de camping à la ferme) ainsi que des zones destinées à l'habitation par des documents d'urbanisme opposables aux tiers ; cette distance est réduite à 50 mètres lorsqu'il s'agit de bâtiments mobiles d'élevage de volailles faisant l'objet d'un déplacement d'au moins 200 mètres à chaque bande.
 
@@ -82,7 +81,7 @@ Le préfet peut, sur demande de l'exploitant, dès lors que la commodité du voi
 
 - à au moins 200 mètres des lieux de baignade (à l'exception des piscines privées) et des plages ;
 
-- à au moins 500 mètres en amont des piscicultures soumises à autorisation ou déclaration sous la rubrique 2130 de la nomenclature des installations classées et des zones conchylicoles. Des dérogations liées à la topographie et à la circulation des eaux peuvent être accordées par le préfet.
+- à au moins 500 mètres en amont des piscicultures et des zones conchylicoles. Des dérogations liées à la topographie et à la circulation des eaux peuvent être accordées par le préfet.
 
 Les bâtiments fixes d'élevage de volailles sont séparés les uns des autres par une distance d'au moins 10 mètres.
 
@@ -90,7 +89,7 @@ En cas de nécessité et en l'absence de solution technique propre à garantir l
 
 2.1.2. Cas de certains bâtiments d'élevage de volailles
 
-Les volières où la densité est inférieure ou égale à 0,75 animal-équivalent par mètre carré sont implantées à au moins 50 mètres des habitations des tiers ou des locaux habituellement occupés par des tiers (à l'exception des logements occupés par des personnels de l'installation et des gîtes ruraux dont l'exploitant a la jouissance), des stades ou des terrains de camping agréés (à l'exception des terrains de camping à la ferme) ainsi que des zones destinées à l'habitation par des documents d'urbanisme opposables aux tiers. En outre, les distances à respecter vis-à-vis des lieux de baignade, des plages, des piscicultures soumises à autorisation ou déclaration sous la rubrique 2130 de la nomenclature des installations classées, des zones conchylicoles, des puits et forages, des sources, des aqueducs en écoulement libre, de toute installation souterraine ou semi-enterrée utilisée pour le stockage des eaux, que les eaux soient destinées à l'alimentation en eau potable ou à l'arrosage des cultures maraîchères, des rivages, des berges des cours d'eau sont les mêmes que celles décrites au 2.1.1.
+Les volières où la densité est inférieure ou égale à 0,75 animal-équivalent par mètre carré sont implantées à au moins 50 mètres des habitations des tiers ou des locaux habituellement occupés par des tiers (à l'exception des logements occupés par des personnels de l'installation et des gîtes ruraux dont l'exploitant a la jouissance), des stades ou des terrains de camping agréés (à l'exception des terrains de camping à la ferme) ainsi que des zones destinées à l'habitation par des documents d'urbanisme opposables aux tiers. En outre, les distances à respecter vis-à-vis des lieux de baignade, des plages, des piscicultures, des zones conchylicoles, des puits et forages, des sources, des aqueducs en écoulement libre, de toute installation souterraine ou semi-enterrée utilisée pour le stockage des eaux, que les eaux soient destinées à l'alimentation en eau potable ou à l'arrosage des cultures maraîchères, des rivages, des berges des cours d'eau sont les mêmes que celles décrites au 2.1.1.
 
 Pour les enclos, y compris les parcours, où la densité est inférieure ou égale à 0,75 animal-équivalent par mètre carré, les clôtures sont implantées :
 
@@ -98,23 +97,23 @@ Pour les enclos, y compris les parcours, où la densité est inférieure ou éga
 
 - à au moins 10 mètres des puits et forages, des sources, des aqueducs en écoulement libre, de toute installation souterraine ou semi-enterrée utilisée pour le stockage des eaux, que les eaux soient destinées à l'alimentation en eau potable ou à l'arrosage des cultures maraîchères, des rivages, des berges des cours d'eau. Cette distance est d'au moins 20 mètres pour les palmipèdes.
 
-En outre, les distances à respecter vis à vis des lieux de baignade, des plages, des piscicultures soumises à autorisation ou déclaration sous la rubrique 2130 de la nomenclature des installations classées et des zones conchylicoles sont les mêmes que celles décrites au 2.1.1.
+En outre, les distances à respecter vis à vis des lieux de baignade, des plages, des piscicultures et des zones conchylicoles sont les mêmes que celles décrites au 2.1.1.
 
 Toutes les précautions sont prises pour éviter l'écoulement direct de boues et d'eau polluée vers les cours d'eau, le domaine public et les terrains des tiers.
 
 2.1.3. Cas des élevages de porcs en plein air
 
-2.1.3.a. Implantation des élevages
+2.1.3._a_. Implantation des élevages
 
 L'élevage de porcs en plein air est implanté sur un terrain de nature à supporter les animaux en toutes saisons, maintenu en bon état, et de perméabilité suffisante pour éviter la stagnation des eaux.
 
 Les limites des parcelles utilisées sont situées à au moins 50 mètres des habitations des tiers (à l'exception des logements occupés par des personnels de l'installation et des gîtes ruraux dont l'exploitant a la jouissance) ou des locaux habituellement occupés par des tiers, des stades ou des terrains de camping agréés (à l'exception des terrains de camping à la ferme) ainsi que des zones destinées à l'habitation par des documents d'urbanisme opposables aux tiers.
 
-Les distances à respecter vis-à-vis des lieux de baignade, des plages, des piscicultures soumises à autorisation ou déclaration sous la rubrique 2130 de la nomenclature des installations classées, des zones conchylicoles, des puits et forages, des sources, des aqueducs en écoulement libre, de toute installation souterraine ou semi-enterrée utilisée pour le stockage des eaux, que les eaux soient destinées à l'alimentation en eau potable ou à l'arrosage des cultures maraîchères, des rivages, des berges des cours d'eau sont les mêmes que celles décrites au 2.1.1.
+Les distances à respecter vis-à-vis des lieux de baignade, des plages, des piscicultures, des zones conchylicoles, des puits et forages, des sources, des aqueducs en écoulement libre, de toute installation souterraine ou semi-enterrée utilisée pour le stockage des eaux, que les eaux soient destinées à l'alimentation en eau potable ou à l'arrosage des cultures maraîchères, des rivages, des berges des cours d'eau sont les mêmes que celles décrites au 2.1.1.
 
 Toutes les précautions sont prises pour éviter l'écoulement direct de boues et d'eau polluée vers les cours d'eau, le domaine public et les terrains des tiers.
 
-2.1.3.b. Aménagement et entretien des élevages,
+2.1.3._b_. Aménagement et entretien des élevages,
 
 gestion des animaux
 
@@ -214,8 +213,7 @@ Toutes les dispositions sont prises pour limiter la consommation d'eau.
 
 <div>
 <i>5.3 Réseau de collecte</i>
-</div>
-<div>5.3.1. Sols des bâtiments</div>
+</div>5.3.1. Sols des bâtiments
 
 Tous les sols des bâtiments d'élevage, de la salle de traite, de la laiterie et des aires d'ensilage susceptibles de produire des jus, toutes les installations d'évacuation (canalisations, y compris celles permettant l'évacuation des effluents vers les ouvrages de stockage et de traitement, caniveaux à lisier, etc.) ou de stockage des effluents sont imperméables et maintenus en parfait état d'étanchéité. La pente des sols des bâtiments d'élevage ou des installations annexes permet l'écoulement des effluents vers les ouvrages de stockage ou de traitement. Ces dispositions ne s'appliquent pas aux sols des enclos, volières, parcours et des bâtiments des élevages sur litière accumulée.
 
@@ -233,12 +231,11 @@ Les eaux de pluie provenant des toitures ne sont en aucun cas mélangées aux ef
 
 Les aliments stockés en dehors des bâtiments, à l'exception du front d'attaque des silos en libre-service et des racines et tubercules, sont couverts en permanence par une bâche maintenue en bon état ou tout autre dispositif équivalent afin de les protéger de la pluie.
 
-_5.4. Prévention des pollutions accidentelles_
+5.4. _Prévention des pollutions accidentelles_
 
 Des dispositions sont prises pour qu'il ne puisse pas y avoir, en cas d'accident, déversement de matières dangereuses dans les égouts publics ou le milieu naturel.
 
-<div>
-<i>5.5. Stockage des effluents</i>
+<div>5.5.<i> Stockage des effluents</i>
 </div>5.5.1. Capacité de stockage
 
 Les ouvrages de stockage des effluents sont dimensionnés et exploités de manière à éviter tout déversement dans le milieu naturel.
@@ -249,7 +246,7 @@ Lorsque, pour les élevages bovins, la durée de présence des animaux dans les 
 
 Pour les élevages en plein air ou lorsque les effluents sont rejetés dans le milieu naturel après traitement, le préfet peut, sur demande de l'exploitant, permettre une capacité de stockage inférieure à quatre mois.
 
-Les ouvrages de stockage à l'air libre des effluents liquides sont signalés et entourés d'une clôture de sécurité efficace. Les nouveaux ouvrages sont dotés de dispositifs de contrôle de l'étanchéité. Les ouvrages de stockage des lisiers et effluents liquides construits après la publication du présent arrêté au Journal officiel sont conformes aux I à V et VII à IX du cahier des charges de l'annexe II de l'arrêté du 26 février 2002 relatif aux travaux de maîtrise des pollutions liées aux effluents d'élevage.
+Les ouvrages de stockage à l'air libre des effluents liquides sont signalés et entourés d'une clôture de sécurité efficace. Les nouveaux ouvrages sont dotés de dispositifs de contrôle de l'étanchéité. Les ouvrages de stockage des lisiers et effluents liquides construits après la publication du présent arrêté au _Journal officiel_sont conformes aux I à V et VII à IX du cahier des charges de l'annexe II de l'arrêté du 26 février 2002 relatif aux travaux de maîtrise des pollutions liées aux effluents d'élevage.
 
 5.5.2. Stockage de certains effluents
 
@@ -260,14 +257,12 @@ Les fumiers compacts non susceptibles d'écoulement peuvent être stockés ou co
 Le tableau suivant indique, en fonction de la fréquence du curage, s'il y a ou non la nécessité de mise en plate-forme de stockage du fumier produit par les animaux.
 
 <table>
-<thead>
+<tbody>
 <tr>
 <th>TYPE DE BÂTIMENT</th>
 <th>FRÉQUENCE DU CURAGE</th>
 <th>MISE EN PLATE-FORME<br/>de stockage</th>
 </tr>
-</thead>
-<tbody>
 <tr>
 <td align="center">Bovins</td>
 </tr>
@@ -337,8 +332,7 @@ Le stockage du compost et des fumiers respecte les distances prévues au 2.1.1 e
 
 Lorsqu'un élevage de volailles dispose d'un procédé de séchage permettant d'obtenir de façon fiable et régulière des fientes comportant plus de 65 % de matière sèche, le stockage de ces fientes peut être effectué sur une parcelle d'épandage dans les mêmes conditions que pour les fumiers compacts non susceptibles d'écoulement, à condition que le tas de fientes soit couvert par une bâche, imperméable à l'eau mais perméable aux gaz.
 
-<div>
-<i>5.6. Traitement des effluents</i>
+<div>5.6. <i>Traitement des effluents</i>
 </div>5.6.1. Modes de traitement
 
 Les effluents de l'élevage sont traités :
@@ -351,11 +345,12 @@ Les effluents de l'élevage sont traités :
 
 - soit par tout autre moyen équivalent autorisé par le préfet.
 
-En zone d'excédent structurel, les dispositions fixées par les arrêtés relatifs aux programmes d'action, pris en application du décret no 2001-34 du 10 janvier 2001, sont applicables à l'installation, en particulier les obligations de traitement des effluents, ainsi que les délais pour les satisfaire.
+En zone d'excédent structurel, les dispositions fixées par les arrêtés relatifs aux programmes d'action, pris en application du décret n<sup>o</sup> 2001-34 du 10 janvier 2001, sont applicables à l'installation, en particulier les obligations de traitement des effluents, ainsi que les délais pour les satisfaire.
 
 5.6.2. Traitement sur un site spécialisé
 
-Les effluents provenant des activités d'élevage de l'exploitation peuvent, totalement ou en partie, être traités sur un site autorisé ou déclaré au titre du livre II, titre Ier ou du livre V du code de l'environnement.
+Les effluents provenant des activités d'élevage de l'exploitation peuvent, totalement ou en partie, être traités sur un site autorisé ou déclaré au titre du livre II, titre I<sup>e</sup>
+<sup>r</sup> ou du livre V du code de l'environnement.
 
 L'exploitant tient à la disposition de l'inspecteur des installations classées le relevé des quantités livrées et la date de livraison.
 
@@ -367,12 +362,11 @@ Pour pallier toute panne de l'installation de traitement des effluents, l'instal
 
 Les boues et autres produits issus du traitement des effluents peuvent être épandus sur des terres agricoles en respectant les prescriptions du 5.8.
 
-_5.7. Interdictions de rejet_
+5.7. _Interdictions de rejet_
 
 Tout rejet direct d'effluents dans les eaux souterraines est interdit. Tout rejet d'effluents non traités dans les eaux superficielles douces et marines est strictement interdit.
 
-<div>
-<i>5.8. Epandage</i>
+<div>5.8. <i>Epandage</i>
 </div>5.8.1. Fertilisation des cultures
 
 Les effluents d'élevage de l'exploitation peuvent être soumis à une épuration naturelle par le sol et son couvert végétal, dans les conditions précisées ci-après.
@@ -407,9 +401,9 @@ Toute modification notable du plan d'épandage doit être portée avant sa réal
 
 5.8.3. Quantités maximales épandables
 
-Dans les zones vulnérables, délimitées en application du décret no 93-1038 du 27 août 1993 susvisé, la quantité d'azote épandue ne doit pas dépasser 170 kg par hectare épandable et par an en moyenne sur l'exploitation pour l'azote contenu dans les effluents de l'élevage et les déjections restituées aux pâturages par les animaux.
+Dans les zones vulnérables, délimitées en application du décret n<sup>o</sup> 93-1038 du 27 août 1993 susvisé, la quantité d'azote épandue ne doit pas dépasser 170 kg par hectare épandable et par an en moyenne sur l'exploitation pour l'azote contenu dans les effluents de l'élevage et les déjections restituées aux pâturages par les animaux.
 
-En zone d'excédent structurel, les dispositions fixées par les arrêtés relatifs aux programmes d'action, pris en application du décret no 2001-34 du 10 janvier 2001, sont applicables à l'installation, en particulier les dispositions relatives à l'étendue maximale des surfaces d'épandage des effluents.
+En zone d'excédent structurel, les dispositions fixées par les arrêtés relatifs aux programmes d'action, pris en application du décret n<sup>o</sup> 2001-34 du 10 janvier 2001, sont applicables à l'installation, en particulier les dispositions relatives à l'étendue maximale des surfaces d'épandage des effluents.
 
 S'il apparaît nécessaire de renforcer la protection des eaux, le préfet peut fixer les quantités épandables d'azote et de phosphore à ne pas dépasser.
 
@@ -418,14 +412,12 @@ S'il apparaît nécessaire de renforcer la protection des eaux, le préfet peut 
 Les distances minimales entre, d'une part, les parcelles d'épandage des effluents et, d'autre part, toute habitation de tiers ou tout local habituellement occupé par des tiers, les stades ou les terrains de camping agréés, à l'exception des terrains de camping à la ferme, sont fixées dans le tableau suivant :
 
 <table>
-<thead>
+<tbody>
 <tr>
 <th/>
 <th>DISTANCE<br/>minimale</th>
 <th>DÉLAI<br/>maximal d'enfouissement après épandage sur terres nues</th>
 </tr>
-</thead>
-<tbody>
 <tr>
 <td align="center">Composts visés au 5.8.5</td>
 <td align="center">10 mètres</td>
@@ -479,7 +471,7 @@ Les distances minimales définies au 5.8.4 s'appliquent aux composts élaborés,
 
 - les andains font l'objet d'au minimum deux retournements ou d'une aération forcée ;
 
-- la température des andains est supérieure à 55 °C pendant 15 jours ou à 50 oC pendant six semaines. L'élévation de la température est surveillée par des prises de température hebdomadaires, en plusieurs endroits en prenant la précaution de mesurer le milieu de l'andain.
+- la température des andains est supérieure à 55 °C pendant 15 jours ou à 50 <sup>o</sup>C pendant six semaines. L'élévation de la température est surveillée par des prises de température hebdomadaires, en plusieurs endroits en prenant la précaution de mesurer le milieu de l'andain.
 
 Les résultats des prises de températures sont consignés sur un cahier d'enregistrement où sont indiqués, pour chaque site de compostage, la nature des produits compostés, les dates de début et de fin de compostage ainsi que celles de retournement des andains et l'aspect macroscopique du produit final (couleur, odeur, texture).
 
@@ -491,7 +483,7 @@ L'épandage des effluents d'élevage et des produits issus de leur traitement es
 
 - à moins de 200 mètres des lieux de baignade (à l'exception des piscines privées) et des plages ; le préfet peut, sur demande de l'exploitant, réduire cette distance jusqu'à 50 mètres pour l'épandage de composts élaborés conformément au 5.8.5 ;
 
-- à moins de 500 mètres en amont des piscicultures soumises à autorisation ou déclaration sous la rubrique 2130 de la nomenclature des installations classées et des zones conchylicoles ; des dérogations liées à la topographie et à la circulation des eaux peuvent être accordées par le préfet ;
+- à moins de 500 mètres en amont des piscicultures et des zones conchylicoles ; des dérogations liées à la topographie et à la circulation des eaux peuvent être accordées par le préfet ;
 
 - à moins de 35 mètres des berges des cours d'eau ; cette limite est réduite à 10 mètres si une bande de 10 mètres enherbée ou boisée et ne recevant aucun intrant est implantée de façon permanente en bordure des cours d'eau ;
 
@@ -511,8 +503,7 @@ L'épandage par aspersion n'est possible que pour les eaux issues du traitement 
 
 Ces dispositions sont sans préjudice de celles édictées par les autres règles applicables aux élevages, notamment celles définies dans le cadre des programmes d'action en vue de la protection des eaux par les nitrates d'origine agricole ou du programme de maîtrise des pollutions d'origine agricole.
 
-<div>
-<i>5.9. Surveillance</i>
+<div>5.9. <i>Surveillance</i>
 </div>5.9.1. Cahier d'épandage
 
 L'enregistrement des pratiques de fertilisation azotée est réalisé par la tenue à jour d'un cahier d'épandage pour chaque parcelle ou îlot cultural, y compris pour les parcelles mises à disposition par des tiers. Par îlot cultural, on entend un regroupement de parcelles homogènes du point de vue de la culture concernée, de l'histoire culturale (notamment pour ce qui concerne les successions et les apports organiques) et de la nature du terrain.
@@ -554,7 +545,6 @@ Les bâtiments sont correctement ventilés.
 L'exploitant prend des dispositions pour atténuer les émissions d'odeurs, de gaz ou de poussières susceptibles de créer des nuisances de voisinage.
 
 **7. Déchets**
-
 _7.1. Déchets_
 
 Les déchets de l'exploitation, et notamment les emballages et les déchets de soins vétérinaires, sont stockés dans des conditions ne présentant pas de risques (prévention des envols, des infiltrations dans le sol et des odeurs, etc.) pour les populations avoisinantes humaines et animales et l'environnement.
@@ -582,11 +572,13 @@ Le niveau sonore des bruits en provenance de l'élevage ne doit pas compromettre
 Pour la période allant de 6 heures à 22 heures :
 
 <table>
-<tbody>
+<thead>
 <tr>
 <th>DURÉE CUMULÉE<br/>d'apparition du bruit particulier T</th>
 <th>ÉMERGENCE MAXIMALE<br/>admissible en db(A)</th>
 </tr>
+</thead>
+<tbody>
 <tr>
 <td align="center">T &lt; 20 minutes</td>
 <td align="center">10</td>
