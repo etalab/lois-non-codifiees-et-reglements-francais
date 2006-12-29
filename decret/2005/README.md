@@ -113,4 +113,5 @@
 - [Décret n°2005-1790 du 30 décembre 2005 (DOMA0500034D)](decret-n2005-1790-du-30-decembre-2005-doma0500034d)
 - [Décret n°2005-617 du 30 mai 2005 (INTD0500139D)](decret-n2005-617-du-30-mai-2005-intd0500139d)
 - [Décret n°2005-631 du 30 mai 2005 (EQUP0500229D)](decret-n2005-631-du-30-mai-2005-equp0500229d)
+- [Décret n°2005-72 du 31 janvier 2005 (DEFD0500022D)](decret-n2005-72-du-31-janvier-2005-defd0500022d)
 - [Décret n°93-977 du 31 juillet 1993 (JUSC9320356D)](decret-n93-977-du-31-juillet-1993-jusc9320356d)
