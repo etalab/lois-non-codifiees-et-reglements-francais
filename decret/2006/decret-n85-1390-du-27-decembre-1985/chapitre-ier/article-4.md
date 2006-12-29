@@ -1,0 +1,3 @@
+# Article 4
+
+Lorsque le nombre des salariés employés par l'entreprise au cours de l'exercice précédant l'ouverture de la procédure est égal ou supérieur à 1000, la rémunération de l'administrateur judiciaire prévue pour les diligences mentionnées à l'article précédent est, à sa demande, sur justifications particulières et après avis du juge commissaire, arrêtée par le président du tribunal saisi. Il en est de même lorsque, s'agissant d'une entreprise de plus de 750 salariés, l'administrateur judiciaire a obtenu du président du tribunal saisi l'application des dispositions du quatrième alinéa de l'article 3.
