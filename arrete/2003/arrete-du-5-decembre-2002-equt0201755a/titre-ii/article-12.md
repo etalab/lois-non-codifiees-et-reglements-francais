@@ -1,12 +1,12 @@
 # Article 12
 
-Avis d'expédition au ministère chargé de l'industrie, au ministère chargé de l'environnement et au ministère chargé de l'intérieur pour certaines matières radioactives :
+Notification d'expédition à l'Autorité de sûreté nucléaire et au ministère chargé de l'intérieur pour certaines matières radioactives :
 
-1. L'avis préalable stipulé au 5.1.5.2.4 est adressé par l'expéditeur au ministère chargé de l'industrie et au ministère chargé de l'environnement (direction générale de la sûreté nucléaire et de la radioprotection), ainsi qu'au ministère chargé de l'intérieur (direction de la défense et de la sécurité civile - COGIC -, cellule TMR) avec copie au transporteur.
+1. La notification préalable stipulé au 5.1.5.2.4 est adressé par l'expéditeur à l'Autorité de sûreté nucléaire (direction générale de la sûreté nucléaire et de la radioprotection), ainsi qu'au ministère chargé de l'intérieur (direction de la défense et de la sécurité civile - COGIC -, cellule TMR) avec copie au transporteur.
 
-2. L'avis préalable prévu au paragraphe 1 doit parvenir sept jours ouvrables au moins avant l'expédition. Les renseignements sont adressés par télécopie.
+2. La notification préalable prévu au paragraphe 1 doit parvenir sept jours ouvrables au moins avant l'expédition. Les renseignements sont adressés par télécopie.
 
-3. L'avis préalable de transport doit préciser les renseignements indiqués au 5.1.5.2.4, d) dans la forme suivante :
+3. La notification préalable de transport doit préciser les renseignements indiqués au 5.1.5.2.4, d) dans la forme suivante :
 
 a) Les matières transportées :
 

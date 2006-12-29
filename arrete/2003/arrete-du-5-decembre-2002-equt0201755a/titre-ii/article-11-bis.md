@@ -1,6 +1,8 @@
 # Article 11 bis
 
-Le conseiller à la sécurité. - Le présent article a pour objet de compléter les dispositions du chapitre 1.8.3 du règlement ADNR.
+Le conseiller à la sécurité.
+
+Le présent article a pour objet de compléter les dispositions du chapitre 1.8.3 du règlement ADNR.
 
 1. Exemptions.
 
@@ -38,7 +40,7 @@ Lorsque l'accident a eu lieu durant le déchargement, le conseiller de l'entrepr
 
 Lorsqu'un accident concerne des marchandises de la classe 7, les conseillers des entreprises impliquées dans les opérations d'emballage, de chargement, de remplissage ou de transport, et, le cas échéant, de déchargement, concourent chacun pour ce qui le concerne à la rédaction d'un rapport d'accident en commun.
 
-Lorsque l'accident s'est produit sur le territoire national et répond aux critères fixés au 1.8.5.3, les rapports correspondants sont transmis, par les chefs d'entreprise, au préfet du département, direction régionale de l'équipement, du lieu où est survenu l'accident, au ministère de l'équipement, des transports, du logement, du tourisme et de la mer, direction des transports terrestres, mission des transports des matières dangereuses, ainsi qu'au ministère chargé de l'industrie et au ministère chargé de l'environnement, DGSNR, pour les accidents concernant la classe 7 au plus tard deux mois après l'accident.
+Lorsque l'accident s'est produit sur le territoire national et répond aux critères fixés au 1.8.5.3, les rapports correspondants sont transmis, par les chefs d'entreprise, au préfet du département, direction régionale de l'équipement, du lieu où est survenu l'accident, au ministère de l'équipement, des transports, du logement, du tourisme et de la mer, direction générale de la mer et des transports, mission des transports des matières dangereuses, ainsi qu'à l'autorité de sûreté nucléaire, pour les accidents concernant la classe 7 au plus tard deux mois après l'accident. Les rapports doivent être établis suivant la forme précisée à l'annexe I de cet arrêté.
 
 5. Rapport annuel.
 
