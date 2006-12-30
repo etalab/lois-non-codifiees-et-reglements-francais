@@ -1,14 +1,16 @@
 # Article 3
 
-Les éléments constitutifs du prix de revient des logements à usage locatif sont *définition* :
+Le prix de revient prévisionnel des logements à usage locatif comprend trois éléments constitutifs :
 
-- la charge foncière ;
+- la charge foncière, ou la charge immobilière dans le cas d'opérations d'acquisition amélioration ;
 
-- le prix de revient du bâtiment ;
+- le prix de revient du bâtiment, ou le coût des travaux dans le cas d'opérations d'acquisition amélioration ;
 
 - les honoraires.
 
-3.1. La charge foncière *définition*
+Il est établi à la date de la demande de financement. Il n'est admis qu'une antériorité de 3 mois de la date de référence économique des marchés par rapport à la date de dépôt du dossier complet de cette demande.
+
+3.1. La charge foncière
 
 Celle-ci comprend :
 

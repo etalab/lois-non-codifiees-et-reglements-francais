@@ -16,7 +16,7 @@ C représente le montant forfaitaire des charges défini à l'article 11 ter de 
 
 PP représente la participation personnelle du ménage à la dépense de logement. Son montant est calculé selon les modalités définies aux articles 2 ter et 2 quater ci-dessous.
 
-II. - En application de l'article R. 351-22-1, les plafonds de loyers visés à l'article R. 351-17-3 sont fixés comme suit :
+II. - En application de l'article R. 351-22-1, les plafonds de loyers visés à l'article R. 351 sont fixés comme suit :
 
 <table>
 <tbody>
@@ -42,16 +42,16 @@ II. - En application de l'article R. 351-22-1, les plafonds de loyers visés à 
 <p align="center">I</p>
 </td>
 <td width="119">
-<p align="center">255,68</p>
+<p align="center">262,84</p>
 </td>
 <td width="159">
-<p align="center">308,37</p>
+<p align="center">317,00</p>
 </td>
 <td width="172">
-<p align="center">348,52</p>
+<p align="center">358,28</p>
 </td>
 <td width="166">
-<p align="center">50,54</p>
+<p align="center">51,96</p>
 </td>
 </tr>
 <tr>
@@ -59,16 +59,16 @@ II. - En application de l'article R. 351-22-1, les plafonds de loyers visés à 
 <p align="center">II</p>
 </td>
 <td width="119">
-<p align="center">222,83</p>
+<p align="center">229,07</p>
 </td>
 <td width="159">
-<p align="center">272,74</p>
+<p align="center">280,38</p>
 </td>
 <td width="172">
-<p align="center">306,91</p>
+<p align="center">315,50</p>
 </td>
 <td width="166">
-<p align="center">44,66</p>
+<p align="center">45,91</p>
 </td>
 </tr>
 <tr>
@@ -76,16 +76,16 @@ II. - En application de l'article R. 351-22-1, les plafonds de loyers visés à 
 <p align="center">III</p>
 </td>
 <td width="119">
-<p align="center">208,84</p>
+<p align="center">214,69</p>
 </td>
 <td width="159">
-<p align="center">253,19</p>
+<p align="center">260,28</p>
 </td>
 <td width="172">
-<p align="center">283,87</p>
+<p align="center">291,82</p>
 </td>
 <td width="166">
-<p align="center">40,69</p>
+<p align="center">41,83</p>
 </td>
 </tr>
 </tbody>

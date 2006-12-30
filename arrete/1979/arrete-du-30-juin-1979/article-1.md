@@ -6,64 +6,64 @@ DÉSIGNATION
 
 ZONES
 
-I
+I (en euros)
 
-II
+II (en euros)
 
-III
+III (en euros)
 
 Bénéficiaire isolé
 
-383,29
+393,56
 
-350,54
+359,89
 
-332,74
+341,59
 
 Couple sans personne à charge
 
-449,25
+461,36
 
-409,04
+420,03
 
-386,94
+397,31
 
 Bénéficiaire isolé ou couple ayant une personne à charge
 
-479,10
+491,94
 
-436,19
+447,83
 
-410,60
+421,52
 
 Bénéficiaire isolé ou couple ayant deux personnes à charge
 
-512,78
+526,46
 
-467,00
+479,40
 
-437,75
+449,33
 
 Bénéficiaire isolé ou couple ayant trois personnes à charge
 
-546,61
+561,13
 
-497,67
+510,82
 
-464,92
+477,15
 
 Bénéficiaire isolé ou couple ayant quatre personnes à charge
 
-589,63
+605,24
 
-530,38
+544,33
 
-495,43
+508,41
 
 Par personne à charge supplémentaire
 
-61,17
+62,78
 
-55,29
+56,73
 
-51,32
+52,65

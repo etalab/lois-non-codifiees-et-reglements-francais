@@ -2,30 +2,52 @@
 
 En application de l'article R. 351-22-1, le montant forfaitaire des charges est fixé comme suit :
 
-TOUTES ZONES (en euros)
+DESIGNATION :
+
+Bénéficiaire isolé ou ménage sans personne à charge
+
+TOUTES ZONES (en euros) : 47,82
 
 DESIGNATION :
 
-Bénéficiaire isolé ou ménage sans personne à charge : 46,97
+Bénéficiaire isolé ou ménage ayant une personne à charge
 
-Bénéficiaire isolé ou ménage ayant une personne à charge :
+TOUTES ZONES (en euros) : 58,64
 
-57,60
+DESIGNATION :
 
-Par personne supplémentaire à charge : 10,63
+Par personne supplémentaire à charge
+
+TOUTES ZONES (en euros) : 10,82
 
 Toutefois, dans le cas des colocataires ou des copropriétaires prévu aux articles R. 351-17 (al. 6), R. 351-17-3 et R. 351-21-4, le montant forfaitaire des charges est fixé comme suit :
 
-TOUTES ZONES (en euros)
+DESIGNATION :
+
+Bénéficiaire isolé
+
+TOUTES ZONES (en euros) : 23,90
 
 DESIGNATION :
 
-Bénéficiaire isolé : 23,48
+Ménage sans personne à charge
 
-Ménage sans personne à charge : 46,97
+TOUTES ZONES (en euros) : 47,82
 
-Bénéficiaire isolé ayant une personne à charge : 34,11
+DESIGNATION :
 
-Ménage ayant une personne à charge : 57,60
+Bénéficiaire isolé ayant une personne à charge
 
-Par personne supplémentaire à charge : 10,63
+TOUTES ZONES (en euros) : 34,72
+
+DESIGNATION :
+
+Ménage ayant une personne à charge
+
+TOUTES ZONES (en euros) : 58,64
+
+DESIGNATION :
+
+Par personne supplémentaire à charge
+
+TOUTES ZONES (en euros) : 10,82

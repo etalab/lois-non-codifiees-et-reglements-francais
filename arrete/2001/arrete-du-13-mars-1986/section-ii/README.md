@@ -1,4 +1,4 @@
-# Section II : PRIX DE REFERENCE - PRIX PLAFOND.
+# Section II : Définition du prix de revient prévisionnel.
 
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)
