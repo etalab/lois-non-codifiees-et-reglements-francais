@@ -3,6 +3,5 @@
 - [Article 1](article-1.md)
 - [Section I : CARACTERISTIQUES TECHNIQUES.](section-i)
 - [Section II : Définition du prix de revient prévisionnel.](section-ii)
-- [Section III : Plafond pris en compte au titre du calcul de l'assiette de subvention](section-iii)
 - [Article 8](article-8.md)
 - [Annexes](annexes)

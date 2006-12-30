@@ -289,7 +289,6 @@
 - [Décret n°95-148 du 8 février 1995 (ENVN9530002D)](decret-n95-148-du-8-fevrier-1995-envn9530002d)
 - [Décret n°95-256 du 8 mars 1995 (JUSC9520053D)](decret-n95-256-du-8-mars-1995-jusc9520053d)
 - [Décret n°95-260 du 8 mars 1995 (INTE9500041D)](decret-n95-260-du-8-mars-1995-inte9500041d)
-- [Décret n°95-272 du 8 mars 1995 (AGRA9402303D)](decret-n95-272-du-8-mars-1995-agra9402303d)
 - [Décret n°95-762 du 8 juin 1995 (PRMX9500850D)](decret-n95-762-du-8-juin-1995-prmx9500850d)
 - [Décret n°95-763 du 8 juin 1995 (PRMX9500853D)](decret-n95-763-du-8-juin-1995-prmx9500853d)
 - [Décret n°95-764 du 8 juin 1995 (PRMX9500097D)](decret-n95-764-du-8-juin-1995-prmx9500097d)

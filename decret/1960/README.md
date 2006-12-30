@@ -26,7 +26,6 @@
 - [Décret n°60-390 du 22 avril 1960](decret-n60-390-du-22-avril-1960)
 - [Décret n°60-403 du 22 avril 1960](decret-n60-403-du-22-avril-1960)
 - [Décret n°60-1271 du 24 novembre 1960](decret-n60-1271-du-24-novembre-1960)
-- [Décret n°60-181 du 24 février 1960](decret-n60-181-du-24-fevrier-1960)
 - [Décret n°60-1265 du 25 novembre 1960](decret-n60-1265-du-25-novembre-1960)
 - [Décret n°60-749 du 25 juillet 1960](decret-n60-749-du-25-juillet-1960)
 - [Décret n°60-406 du 26 avril 1960](decret-n60-406-du-26-avril-1960)

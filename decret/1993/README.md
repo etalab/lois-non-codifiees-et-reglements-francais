@@ -92,7 +92,6 @@
 - [Décret n°94-356 du 5 mai 1994 (MENX9400028D)](decret-n94-356-du-5-mai-1994-menx9400028d)
 - [Décret n°75-8 du 6 janvier 1975](decret-n75-8-du-6-janvier-1975)
 - [Décret n°92-634 du 6 juillet 1992 (TEFT9204940D)](decret-n92-634-du-6-juillet-1992-teft9204940d)
-- [Décret n°93-1050 du 6 septembre 1993 (JUSA9300210D)](decret-n93-1050-du-6-septembre-1993-jusa9300210d)
 - [Décret n°93-1285 du 6 décembre 1993 (INTD9300558D)](decret-n93-1285-du-6-decembre-1993-intd9300558d)
 - [Décret n°93-1287 du 6 décembre 1993 (INDG9300913D)](decret-n93-1287-du-6-decembre-1993-indg9300913d)
 - [Décret n°93-1291 du 6 décembre 1993 (SPSS9303004D)](decret-n93-1291-du-6-decembre-1993-spss9303004d)
