@@ -1,6 +1,6 @@
 # Article 4
 
-La chambre nationale représente l'ensemble de la profession auprès des pouvoirs publics. Son bureau prévient tous différends d'ordre professionnel entre les chambres des compagnies ou entre les avoués ne relevant pas de la même chambre de compagnie, il tente de concilier les parties et, à défaut de conciliation, il tranche ces différends.
+La chambre nationale représente l'ensemble de la profession auprès des pouvoirs publics. Elle établit, en ce qui concerne les usages de la profession et les rapports des avoués entre eux et avec la clientèle, un règlement national qui est soumis à l'approbation du garde des sceaux, ministre de la justice. Son bureau prévient tous différends d'ordre professionnel entre les chambres des compagnies ou entre les avoués ne relevant pas de la même chambre de compagnie, il tente de concilier les parties et, à défaut de conciliation, il tranche ces différends.
 
 La chambre nationale établit son budget et en répartit les charges entre les chambres des compagnies. Elle organise et règle le budget de toutes les oeuvres sociales intéressant les avoués.
 

@@ -4,7 +4,7 @@ La chambre de la compagnie représente l'ensemble des avoués du ressort de la c
 
 La chambre de la compagnie a pour attribution :
 
-1° D'établir, en ce qui concerne les usages de la profession et les rapports des avoués entre eux et avec la clientèle, un règlement qui sera soumis au bureau de la chambre nationale en vue de sa transmission pour approbation au ministre de la justice ;
+1° Supprimé ;
 
 2° De prononcer ou de proposer, mais dans ce dernier cas après avis du bureau de la chambre nationale, l'application aux avoués des mesures de discipline ;
 

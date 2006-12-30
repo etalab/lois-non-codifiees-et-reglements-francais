@@ -16,4 +16,4 @@ Les membres du jury sont désignés par arrêté du garde des sceaux, ministre d
 
 Des suppléants sont désignés en nombre égal dans les mêmes conditions.
 
-Une session d'examen est organisée chaque année au cours du mois de novembre. Si le nombre des candidats le justifie, une session supplémentaire peut être organisée au cours du mois de mai.
+Une session d'examen est organisée chaque année au cours du mois de novembre.

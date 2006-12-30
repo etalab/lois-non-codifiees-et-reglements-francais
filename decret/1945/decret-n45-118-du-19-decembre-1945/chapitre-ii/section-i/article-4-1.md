@@ -10,10 +10,10 @@ Nul ne peut être nommé avoué près d'une cour d'appel s'il ne remplit les con
 
 4° N'avoir pas été frappé de faillite personnelle ou de l'interdiction prévue à l'article L. 653-8 du code de commerce ;
 
-5° Etre titulaire de la maîtrise en droit ou d'un titre ou diplôme admis en dispense pour l'accès à la profession par arrêté conjoint du garde des sceaux, ministre de la justice, et du ministre chargé des universités ;
+5° Etre titulaire de la maîtrise ou d'un master 1 en droit ou d'un titre ou diplôme admis en dispense pour l'accès à la profession par arrêté conjoint du garde des sceaux, ministre de la justice, et du ministre chargé des universités ;
 
-6° Avoir accompli un stage de formation professionnelle dans les conditions prévues à la section II, sous réserve des dispenses prévues aux articles 2, 3 et 4 ;
+6° Avoir accompli un stage de formation professionnelle dans les conditions prévues à la section II, sous réserve des dispenses prévues aux articles 4-2, 4-3 et 4-4 ;
 
-7° Avoir subi avec succès l'examen d'aptitude professionnelle aux fonctions d'avoué, sous réserve des dispenses prévues aux articles 2, 3 et 4 ;
+7° Avoir subi avec succès, depuis moins de dix ans, l'examen d'aptitude professionnelle aux fonctions d'avoué, sous réserve des dispenses prévues aux articles 4-2, 4-3 et 4-4 ;
 
 8° Etre admis par l'assemblée des magistrats du siège de la cour d'appel ou, suivant des modalités déterminées par cette assemblée, par le premier président de la cour d'appel après consultation des magistrats du siège.

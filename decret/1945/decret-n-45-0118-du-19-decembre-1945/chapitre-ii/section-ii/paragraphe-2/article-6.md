@@ -1,17 +1,19 @@
 # Article 6
 
-La durée du stage est de deux ans. Le stage doit être accompli pendant un an au moins auprès d'un avoué et peut l'être pour le reste de la durée exigée :
+La durée du stage est de deux ans.
 
-Soit auprès d'un avocat ou d'un avocat au Conseil d'Etat et à la Cour de cassation ;
+Pendant un an au moins, le stage est accompli à temps complet auprès d'un avoué.
 
-Soit auprès d'un notaire ou d'un huissier de justice ;
+Pour le reste de la durée exigée, il peut être accompli :
 
-Soit auprès d'un conseil juridique ;
+1° Auprès d'un avocat ou d'un avocat au Conseil d'Etat et à la Cour de cassation ;
 
-Soit dans une administration publique ou dans le service juridique d'une entreprise publique ou privée ;
+2° Auprès d'un notaire ou d'un huissier de justice ;
 
-Soit dans un pays étranger, auprès d'une personne exerçant une profession juridique ou judiciaire réglementée.
+3° Auprès d'une administration publique ou dans le service juridique d'une entreprise publique ou privée ;
 
-Le stagiaire est tenu d'aviser la chambre de la compagnie de tous changements dans les modalités d'accomplissement du stage, et notamment du changement de maître de stage.
+4° Dans un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen, auprès d'une personne physique ou morale exerçant une profession juridique ou judiciaire réglementée.
 
-Pendant une période qui ne peut excéder un an, le stage peut être accompli à mi-temps. La période de stage ainsi accomplie ne compte que pour la moitié de sa durée.
+Pendant cette période, le stage peut également être accompli à mi-temps. Toutefois, toute période de stage ainsi accomplie n'est prise en compte que pour la moitié de sa durée.
+
+Le stagiaire est tenu d'aviser la Chambre nationale des avoués de tout changement dans les modalités d'accomplissement du stage et notamment de tout changement de maître de stage.
