@@ -1,7 +1,0 @@
-# Article 34
-
-Les maîtres ouvriers et maîtres ouvriers principaux exercent leurs fonctions principalement dans les domaines de la restauration, de l'hébergement et de la maintenance dans les maisons d'éducation de la Légion d'honneur et à la grande chancellerie. Ils participent à l'exécution des tâches des agents qu'ils encadrent.
-
-Les maîtres ouvriers sont chargés de la conduite des travaux confiés à un groupe d'ouvriers d'entretien et d'accueil ou d'ouvriers professionnels.
-
-Les maîtres ouvriers principaux sont principalement chargés de diriger les équipes d'ouvriers d'entretien et d'accueil ou d'ouvriers professionnels. Ils peuvent également assurer l'encadrement d'un ou de plusieurs groupes d'ouvriers d'entretien et d'accueil ou d'ouvriers professionnels.

@@ -143,7 +143,6 @@
 - [Décret n°90-832 du 6 septembre 1990 (AGRS9001330D)](decret-n90-832-du-6-septembre-1990-agrs9001330d)
 - [Décret n°90-986 du 6 novembre 1990 (ECOT9010093D)](decret-n90-986-du-6-novembre-1990-ecot9010093d)
 - [Décret n°90-989 du 6 novembre 1990 (SPSH9001976D)](decret-n90-989-du-6-novembre-1990-spsh9001976d)
-- [Décret n°95-619 du 6 mai 1995 (AGRA9500702D)](decret-n95-619-du-6-mai-1995-agra9500702d)
 - [Décret n°89-641 du 7 septembre 1989 (JUSC8920628D)](decret-n89-641-du-7-septembre-1989-jusc8920628d)
 - [Décret n°90-1089 du 7 décembre 1990 (ENVP9061918D)](decret-n90-1089-du-7-decembre-1990-envp9061918d)
 - [Décret n°90-136 du 7 février 1990 (SPSA8901838D)](decret-n90-136-du-7-fevrier-1990-spsa8901838d)
