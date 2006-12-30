@@ -12,4 +12,8 @@ d) En matière d'élevages marins, aux modalités techniques de coexistence entr
 
 Peuvent également être rendues obligatoires, pour une durée qui ne peut être supérieure à quatre ans, les délibérations prises à la majorité des membres de l'assemblée du comité national, ou du conseil par délégation de cette dernière, relatives à la fixation de cotisations professionnelles prévues à l'article 17 de la loi du 2 mai 1991 susvisée et prélevées, en fonction de leur objet, sur tout ou partie des membres des professions représentées au comité national.
 
-Ces délibérations sont rendues obligatoires par arrêté conjoint du ministre chargé des pêches maritimes et des cultures marines et du ministre chargé de l'économie et des finances.
+Ces délibérations sont rendues obligatoires :
+
+- par arrêté conjoint du ministre chargé des pêches maritimes et des cultures marines et du ministre chargé de l'économie et des finances pour les délibérations relatives aux cotisations professionnelles ;
+
+- par arrêté du ministre chargé des pêches maritimes et des cultures marines pour les autres délibérations.
