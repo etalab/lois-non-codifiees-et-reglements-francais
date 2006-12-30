@@ -1,5 +1,0 @@
-# Article 8
-
-Dans les administrations ou services ne comportant pas de corps de téléphonistes et où ont été créés des emplois correspondant aux grades régis par le présent décret, les fonctionnaires et agents exerçant les fonctions définies à l'article 3 ci-dessus pourront, lors de la formation initiale du nouveau corps y être intégrés et titularisés après inscription sur une liste d'aptitude dressée dans les conditions prévues aux articles 7 et suivants du décret n° 50-1211 du 29 septembre 1950 relatif à la réforme de l'auxiliariat.
-
-Toutefois, au cas où de nouveaux emplois viendraient à être créés postérieurement à la publication du présent décret, les agents titulaires et non titulaires qui exerçaient à la date du 31 décembre 1950 les fonctions définies à l'article 3 ci-dessus et réunissaient à cette date les conditions pour bénéficier de la loi du 3 avril 1950 portant réforme de l'auxiliariat pourront être intégrés et titularisés dans les corps régis par le présent décret, selon les modalités définies à l'alinéa précédent.
