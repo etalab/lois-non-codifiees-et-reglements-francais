@@ -23,3 +23,5 @@ Les administrations et organismes auxquels sont transmises les informations sont
 - le ministère chargé de l'emploi.
 
 Le Centre national de la fonction publique territoriale (CNFPT).
+
+- l'établissement de retraite additionnelle de la fonction publique.

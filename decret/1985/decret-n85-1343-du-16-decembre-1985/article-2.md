@@ -6,9 +6,9 @@ Sous réserve des exceptions déterminées par le décret n° 85-1344 du 16 déc
 
 - la déclaration des commissions, courtages, ristournes, honoraires, droits d'auteurs, rémunérations d'associés et parts de bénéfices et autres versements qui est prescrite aux articles 240 et 241 du même code ;
 
-- la déclaration des rémunérations versées aux salariés prescrite à l'article 9 du décret du 24 mars 1972 susvisé ;
+- la déclaration des rémunérations versées aux salariés prescrite à l'article R. 243-14 du code de la sécurité sociale ;
 
-- l'attestation d'activité salariée prévue pour l'application du décret du 29 décembre 1973 susvisé.
+- l'attestation d'activité salariée prévue pour l'application de l'article R. 313-2 du code de la sécurité sociale ;
 
 - la déclaration prévue par l'article 6 bis du décret n° 70-1277 du 23 décembre 1970 susvisé.
 
@@ -18,4 +18,8 @@ Sous réserve des exceptions déterminées par le décret n° 85-1344 du 16 déc
 
 - la déclaration prévue par l'article 3 du décret n° 85-885 et du décret n° 85-886 du 12 août 1985.
 
-- la déclaration relative à l'emploi obligatoire des travailleurs handicapés, des mutilés de guerre et assimilés prévue par l'article L. 323-8-5 du code du travail pour les renseignements énonçés au 1° de l'article R. 323-9 du même code.
+- la déclaration relative à l'emploi obligatoire des travailleurs handicapés, des mutilés de guerre et assimilés prévue par l'article L. 323-8-5 du code du travail pour les renseignements énonçés au 1° de l'article R. 323-9 du même code ;
+
+- la déclaration prud'homale mentionnée au I de l'article L. 513-3 du code du travail ;
+
+- la déclaration mentionnée à l'article 15 du décret n° 2004-569 du 18 juin 2004 susvisé.
