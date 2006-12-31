@@ -96,6 +96,7 @@
 - [Décret n°2006-1590 du 12 décembre 2006 (SANS0624439D)](decret-n2006-1590-du-12-decembre-2006-sans0624439d)
 - [Décret n°2006-447 du 12 avril 2006 (INDI0607224D)](decret-n2006-447-du-12-avril-2006-indi0607224d)
 - [Décret n°89-271 du 12 avril 1989 (PRMG8970030D)](decret-n89-271-du-12-avril-1989-prmg8970030d)
+- [Décret n°2000-336 du 13 avril 2000 (INTX0000063D)](decret-n2000-336-du-13-avril-2000-intx0000063d)
 - [Décret n°2006-1259 du 13 octobre 2006 (DEFP0601183D)](decret-n2006-1259-du-13-octobre-2006-defp0601183d)
 - [Décret n°2006-1375 du 13 novembre 2006 (AGRF0602135D)](decret-n2006-1375-du-13-novembre-2006-agrf0602135d)
 - [Décret n°2006-1379 du 13 novembre 2006 (MAEA0620368D)](decret-n2006-1379-du-13-novembre-2006-maea0620368d)
