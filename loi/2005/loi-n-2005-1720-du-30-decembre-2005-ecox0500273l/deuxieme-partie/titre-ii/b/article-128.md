@@ -12,13 +12,19 @@ Ces documents sont relatifs aux politiques suivantes :
 
 4° Sécurité civile ;
 
-5° Enseignement supérieur ;
+5° Prévention de la délinquance ;
 
 6° Inclusion sociale ;
 
 7° Outre-mer ;
 
 8° Ville.
+
+9° Aménagement du territoire ;
+
+10° Lutte contre le changement climatique ;
+
+11° Orientation et insertion professionnelle des jeunes.
 
 Le document relatif à la politique mentionnée au 7° comporte également :
 

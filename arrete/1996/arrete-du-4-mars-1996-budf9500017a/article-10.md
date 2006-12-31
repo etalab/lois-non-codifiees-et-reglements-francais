@@ -12,7 +12,7 @@ Les exploitants de salles de spectacles cinématographiques sont tenus d'établi
 
 - la recette correspondante et, dans le cas de formules d'accès donnant droit à des entrées multiples, la somme déclarée au titre de ces entrées ;
 
-- le taux de la taxe spéciale sur les billets d'entrée dans les salles de spectacles cinématographiques prévue à l'article 1609 duovicies du code général des impôts et les sommes perçues au titre de celle-ci.
+- le taux de la taxe spéciale sur le prix des entrées aux séances organisées dans les établissements de spectacles cinématographiques et les sommes perçues au titre de celle-ci.
 
 Tous registres ou documents présentant les indications prévues ci-dessus tiennent lieu de relevé.
 

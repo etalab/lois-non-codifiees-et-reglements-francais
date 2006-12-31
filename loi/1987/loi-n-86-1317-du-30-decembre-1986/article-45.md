@@ -34,7 +34,7 @@ VI. Sauf en ce qui concerne la taxe forfaitaire prévue au premier alinéa du II
 
 VII. - Les opérateurs exerçant les activités de communications électroniques mentionnées à l'article L. 33-1 du code des postes et des communications électroniques sont, à compter de l'année 2005, assujettis au paiement d'une taxe administrative dans les conditions prévues ci-après :
 
-1° Le montant annuel de la taxe administrative est fixé à 20 000 euros . Toutefois :
+1° Le montant annuel de la taxe administrative est fixé à 20 000 euros. Toutefois :
 
 a) Les opérateurs ayant un chiffre d'affaires inférieur à un million d'euros en sont exonérés ;
 
@@ -48,7 +48,7 @@ Le bénéfice des dispositions prévues aux a, b et c est subordonné à la four
 
 a) Divisé par deux lorsque les activités visées au premier alinéa sont limitées aux départements d'outre-mer ou couvrent au plus un département métropolitain ;
 
-b) Multiplié par quatre lorsque l'opérateur figure sur l'une des listes prévues au 8° de l'article L. 36-7 du code des postes et des communications électroniques ;
+b) Multiplié par quatre lorsque l'opérateur figure sur la liste prévue au 8° de l'article L. 36-7 du code des postes et des communications électroniques et que son chiffre d'affaires hors taxes lié aux activités de communications électroniques mentionnées à l'article L. 33-1 susvisé est supérieur à 800 millions d'euros.
 
 3° La taxe est annuelle. Elle est exigible au 1er mai de l'année suivant l'année considérée. La taxe appelée au titre de l'année 2005 est exigible au 1er mai 2006.
 

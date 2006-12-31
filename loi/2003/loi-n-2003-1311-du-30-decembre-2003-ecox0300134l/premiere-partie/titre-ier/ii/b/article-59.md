@@ -16,7 +16,7 @@ Le niveau définitif de cette fraction est arrêté par la plus prochaine loi de
 
 Chaque département reçoit un pourcentage de la part du produit de la taxe intérieure de consommation sur les produits pétroliers mentionnée au deuxième alinéa. Ce pourcentage est égal, pour chaque département, au montant des dépenses exécutées par l'Etat en 2003 au titre de l'allocation de revenu minimum d'insertion et de l'allocation de revenu de solidarité dans ce département et au montant des dépenses exécutées par ce département en 2004 au titre de l'allocation de revenu minimum d'activité, rapporté au montant total de ces dépenses dans l'ensemble des départements.
 
-Ces pourcentages sont fixés comme suit :
+A compter de 2006, ces pourcentages sont fixés comme suit :
 
 (Tableau non reproduit)
 
