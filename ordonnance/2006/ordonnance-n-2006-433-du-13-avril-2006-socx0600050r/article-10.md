@@ -1,6 +1,6 @@
 # Article 10
 
-La durée d'exécution du contrat de transition professionnelle, qui inclut les périodes de travail mentionnées à l'article 4, s'impute sur la durée de versement de l'allocation d'assurance mentionnée à l'article L. 351-3 du code du travail.
+La durée d'exécution du contrat de transition professionnelle, à l'exception des périodes de travail mentionnées à l'article 4, s'impute sur la durée de versement de l'allocation d'assurance mentionnée à l'article L. 351-3 du code du travail.
 
 En cas de rupture du contrat de transition professionnelle ou à l'issue de celui-ci, si le bénéficiaire remplit les conditions d'octroi de l'allocation d'assurance mentionnée à l'article L. 351-3 du code du travail, celle-ci lui est versée sans différé d'indemnisation ni délai d'attente.
 
