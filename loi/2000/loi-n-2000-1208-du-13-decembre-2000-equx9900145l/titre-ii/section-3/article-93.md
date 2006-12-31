@@ -1,6 +1,8 @@
 # Article 93
 
-Tout service public de distribution d'eau destinée à la consommation humaine est tenu de procéder à l'individualisation des contrats de fourniture d'eau à l'intérieur des immeubles collectifs d'habitation et des ensembles immobiliers de logements dès lors que le propriétaire en fait la demande.
+Tout service public de distribution d'eau destinée à la consommation humaine est tenu de procéder à l'individualisation des contrats de fourniture d'eau à l'intérieur des immeubles collectifs à usage principal d'habitation et des ensembles immobiliers de logements dès lors que le propriétaire en fait la demande.
+
+La souscription d'un contrat individuel avec le service public de distribution d'eau s'impose alors à tout occupant pour bénéficier de la fourniture d'eau. Ce contrat ne concerne pas la fourniture d'eau chaude sanitaire.
 
 Lorsqu'elle émane d'un propriétaire bailleur, la demande est précédée d'une information complète des locataires sur la nature et les conséquences techniques et financières de l'individualisation des contrats de fourniture d'eau et fait l'objet, s'il y a lieu, d'un accord défini par l'article 42 de la loi n° 86-1290 du 23 décembre 1986 tendant à favoriser l'investissement locatif, l'accession à la propriété de logements sociaux et le développement de l'offre foncière.
 

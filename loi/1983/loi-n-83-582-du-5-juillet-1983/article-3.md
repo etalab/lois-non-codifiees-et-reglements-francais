@@ -8,4 +8,6 @@ Dans un délai qui ne peut excéder soixante-douze heures à compter de la saisi
 
 En tout état de cause, l'ordonnance doit être rendue dans un délai qui ne peut excéder six jours, à compter de l'appréhension visée à l'article 7 ou à compter de la saisie.
 
-La mainlevée de la saisie du navire ou de l'embarcation est décidée par le juge d'instance du lieu de la caisse contre le dépôt d'un cautionnement dont il fixe le montant et les modalités de versement dans les conditions fixées à l'article 142 du code de procédure pénale.
+La mainlevée de la saisie du navire ou de l'embarcation est décidée par le juge d'instance du lieu de la caisse contre le dépôt d'un cautionnement dont il fixe le montant et les modalités de versement dans les conditions fixées à l'article 142 du code de procédure pénale.    A défaut de versement du cautionnement au jour où il statue, le tribunal peut prononcer la confiscation du navire ou de l'embarcation.
+
+Le tribunal peut, à la demande de l'autorité compétente, ordonner la destruction du navire ou de l'embarcation lorsqu'ils présentent un risque pour la sécurité des personnes ou pour l'environnement.

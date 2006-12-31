@@ -22,6 +22,8 @@ Les contrats portent notamment sur :
 
 - les objectifs pluriannuels en matière d'enfouissement des réseaux publics de distribution d'électricité ;
 
+- le cas échéant, les modalités de mise en oeuvre d'une gestion coordonnée des ouvrages hydroélectriques dans le cadre des schémas directeurs d'aménagement et de gestion des eaux.
+
 - conformément à l'obligation de service public relative au développement équilibré du territoire mentionnée à l'article 16 de la loi n° 2003-8 du 3 janvier 2003 précitée, l'amélioration de la desserte en gaz naturel du territoire, définie en concertation avec le représentant des autorités visées à l'article L. 2224-31 du code général des collectivités territoriales.
 
 Ces contrats définissent, pour chacun des objectifs identifiés ci-dessus, des indicateurs de résultats. Ces contrats et l'évolution de ces indicateurs font l'objet d'un rapport triennal transmis au Parlement.

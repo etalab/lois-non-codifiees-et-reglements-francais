@@ -1,3 +1,3 @@
 # Article 7
 
-Sera puni d'une amende de 22500 euros et d'un emprisonnement de trois mois ou de l'une de ces deux peines seulement, quiconque aura sciemment recueilli, transporté, mis en vente ou vendu le produit des pêches effectuées en infraction à l'article précédent.
+Le fait de recueillir, transporter, mettre en vente ou vendre le produit des pêches effectuées en infraction à l'article 6 est puni de 45 000 euros d'amende.
