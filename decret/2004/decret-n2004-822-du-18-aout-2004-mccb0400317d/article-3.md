@@ -6,7 +6,7 @@ II. - Elle exerce les attributions confiées par le livre II du code du patrimoi
 
 a) Elle élabore les règles applicables aux archives publiques ; elle en contrôle l'application dans les services de l'Etat et les établissements qui en dépendent ou y sont rattachés, autres que ceux des ministères des affaires étrangères et de la défense ;
 
-b) Elle gère les archives nationales définies à l'article 5 du décret du 3 décembre 1979 susvisé ; elle assure, dans les dépôts qui les constituent, la collecte, la conservation, le classement, la communication et la mise en valeur des archives centrales de l'Etat ainsi que des autres archives qui leur sont confiées, y compris les archives privées remises à titre de dépôt révocable ;
+b) Elle a autorité sur les services à compétence nationale mentionnés à l'article 5 du décret n° 79-1037 du 3 décembre 1979 relatif à la compétence des services d'archives publics et à la coopération entre les administrations pour la collecte, la conservation et la communication des archives publiques ;
 
 c) Elle exerce le contrôle scientifique et technique de l'Etat sur les archives des collectivités territoriales ;
 

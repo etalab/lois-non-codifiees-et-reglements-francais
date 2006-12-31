@@ -1,13 +1,19 @@
 # Article 2
 
-Elle gère les archives nationales et départementales ; elle contrôle les archives publiques autres que celles des affaires étrangères et de la défense.
+I. - Elle assure le contrôle scientifique et technique sur les archives des services et établissements publics de l'Etat ainsi que des autres personnes morales de droit public, des organismes de droit privé chargés de la gestion des services publics ou d'une mission de service public, des minutes et répertoires des officiers publics ou ministériels.
 
-Elle a pour mission :
+Elle assure également le contrôle scientifique et technique de l'Etat sur les archives appartenant aux collectivités territoriales, à leurs établissements publics et à leurs groupements, ainsi que sur celles qui leur sont confiées en application des articles L. 212-6 à L. 212-14 du code du patrimoine.
 
-a) Le contrôle de la conservation des archives courantes dans les locaux des services, établissements et organismes publics, y compris les offices publics ou ministériels, qui les ont produites ou reçues ;
+Ces attributions s'exercent sur les archives courantes, intermédiaires et définitives, telles que définies aux articles 12, 13 et 14.
 
-b) La conservation ou le contrôle de la conservation des archives intermédiaires dans les dépôts publics de préarchivage selon le statut propre de chacun de ces dépôts ;
+II. - Le contrôle scientifique et technique porte sur les conditions de gestion, de collecte, de tri et d'élimination ainsi que sur le traitement, le classement, la conservation et la communication des archives. Il est destiné à assurer la sécurité des documents, le respect de l'unité des fonds et de leur structure organique, la qualité scientifique et technique des instruments de recherche, la compatibilité des systèmes de traitement et la mise en valeur du patrimoine archivistique.
 
-c) La conservation, le tri, le classement, l'inventaire et la communication des archives définitives après leur transfert dans les dépôts des archives nationales et départementales ;
+III. - Il est exercé sur pièces ou sur place par :
 
-d) La conservation, le tri, le classement, l'inventaire et la communication des archives privées qui sont acquises par les services d'archives nationaux et départementaux ou qui leur sont remises à titre de don, de legs, de cession, de dépôt révocable ou de dation au sens de la loi susvisée du 31 décembre 1968.
+1° Les services de la direction des Archives de France dans leur champ de compétences ;
+
+2° Les inspecteurs généraux des Archives de France pour l'ensemble des services et organismes ;
+
+3° Les chefs des missions des archives et les autres personnels scientifiques et de documentation mis à disposition des services centraux de l'Etat ou des établissements publics nationaux, dans leur ressort ;
+
+4° Les directeurs des services départementaux d'archives et agents de l'Etat mis à disposition des collectivités territoriales dans la limite de leurs circonscriptions géographiques.

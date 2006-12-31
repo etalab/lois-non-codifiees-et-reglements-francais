@@ -1,11 +1,11 @@
 # Article 5
 
-Les archives nationales sont constituées par l'ensemble des dépôts centraux des archives de l'Etat gérés par la direction des Archives de France, en quelque lieu que ces dépôts soient établis.
+Les Archives nationales sont constituées par l'ensemble des services à compétence nationale rattachés à la direction des Archives de France.
 
-Les archives nationales [*attributions, missions*] conservent, trient, classent, inventorient et communiquent :
+Les Archives nationales collectent, trient, classent, conservent, communiquent et mettent en valeur :
 
-a) Les documents provenant des organes centraux de l'Etat, depuis les origines de la nation française ;
+1° Les documents provenant des administrations centrales de l'Etat et des pouvoirs constitués depuis les origines ;
 
-b) Les documents provenant des services, établissements et organismes publics dont la compétence s'étend ou s'est étendue à l'ensemble du territoire français ;
+2° Les documents provenant des établissements publics nationaux et des autres personnes morales de droit public, ainsi que des organismes de droit privé chargés de la gestion des services publics ou d'une mission de service public, dont la compétence s'étend ou s'est étendue à l'ensemble du territoire français ;
 
-c) Tous autres documents qui leur sont attribués ou remis à titre onéreux ou gratuit, temporaire ou définitif.
+3° Tous autres documents qui leur ont été ou sont attribués, ou remis à titre onéreux ou gratuit, temporaire ou définitif, depuis leur création.
