@@ -9,3 +9,9 @@ trois membres représentant les salariés et un membre représentant les salari�
 Les salariés représentant les salariés au conseil d'administration ou au conseil de surveillance, selon le cas, sont désignés dans les conditions prévues par les articles L. 225-27 à L. 225-34 ou les articles L. 225-79 et L. 225-80, selon le cas, du code de commerce.
 
 Le salarié représentant les salariés actionnaires au conseil d'administration ou au conseil de surveillance, selon le cas, est désigné, dès la première assemblée générale ordinaire suivant le transfert, dans les conditions prévues par l'article L. 225-23 et le troisième alinéa de l'article L. 225-25 ou par l'article L. 225-71 et le troisième alinéa de l'article L. 225-72, selon le cas, ainsi que par le quatrième alinéa de l'article L. 225-106 du code de commerce.
+
+Les statuts de toute société dont le transfert au secteur privé a été décidé en application de l'article 4 de la loi n° 86-793 du 2 juillet 1986 autorisant le Gouvernement à prendre diverses mesures d'ordre économique et social et qui ont prévu que le conseil d'administration ou le conseil de surveillance, selon le cas, comprend au moins deux membres représentant les salariés ou les salariés actionnaires ne peuvent être modifiés de telle sorte que ce nombre puisse être inférieur à :
+
+- un, si le conseil d'administration ou le conseil de surveillance compte moins de quinze membres ;
+
+- deux, si le conseil d'administration ou le conseil de surveillance compte quinze membres ou plus.
