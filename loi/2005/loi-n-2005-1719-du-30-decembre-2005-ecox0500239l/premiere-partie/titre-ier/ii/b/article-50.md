@@ -8,7 +8,7 @@ A. - La première section, dénommée : Industries cinématographiques, pour laq
 
 1° En recettes :
 
-a) Le produit net de la taxe spéciale incluse dans le prix des billets d'entrée dans les salles de spectacles cinématographiques prévue à l'article 1609 duovicies du code général des impôts ;
+a) Le produit de la taxe sur le prix des entrées aux séances organisées dans les établissements de spectacles cinématographiques prévue aux articles 45 à 50 du code de l'industrie cinématographique ;
 
 b) Le produit de la taxe prévue au 2 du II de l'article 11 de la loi de finances pour 1976 (n° 75-1278 du 30 décembre 1975) et des prélèvements prévus aux articles 235 ter L et 235 ter MA du code général des impôts ;
 
