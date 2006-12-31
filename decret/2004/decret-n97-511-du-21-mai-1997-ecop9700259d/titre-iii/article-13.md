@@ -1,3 +1,3 @@
 # Article 13
 
-S'ils avaient la qualité de fonctionnaire ou d'agent non titulaire, les attachés économiques titularisés en application de l'article 10 ci-dessus sont classés dans les conditions définies aux articles 13-1 à 13-5 suivants.
+Le classement lors de la nomination dans un corps d'attaché économique est prononcé conformément aux dispositions du décret n° 2006-1827  du 23 décembre 2006 relatif aux règles du classement d'échelon consécutif à la nomination dans certains corps de catégorie A de la fonction publique de l'Etat.

@@ -2,7 +2,7 @@
 
 Les agents intégrés dans un corps de catégorie B en application des dispositions du 3° de l'article 16 ci-dessus sont classés dans les conditions fixées au premier alinéa du paragraphe IV de l'article 3 du décret du 18 novembre 1994 susvisé. Ils conservent, dans la limite de la durée normale de la période d'enseignement théorique prévue à l'article 14 ci-dessus, l'ancienneté acquise en qualité d'inspecteur-élève.
 
-Toutefois, si, antérieurement à leur nomination en qualité d'inspecteur-élève, ils avaient la qualité de fonctionnaire titulaire dans un autre corps ou s'ils étaient agents de l'Etat, ils peuvent, sur leur demande, être classés dans les conditions fixées aux articles 3 à 8 du décret du 18 novembre 1994 précité.
+Toutefois, si, antérieurement à leur nomination en qualité d'inspecteur-élève, ils pouvaient bénéficier d'un classement en catégorie B en application d'autres dispositions que celles fixées au paragraphe IV de l'article 3 du décret du 18 novembre 1994 susvisé, ils peuvent en demander le bénéfice.
 
 Leur titularisation prend effet au jour de leur nomination dans leur nouveau corps.
 

@@ -1,3 +1,3 @@
 # Article 34
 
-S'ils avaient la qualité de fonctionnaire ou d'agent non titulaire, les attachés des systèmes d'information et de communication titularisés en application de l'article 33-4 ci-dessus sont classés dans les conditions définies aux articles 34-1 à 34-7 ci-après.
+Le classement lors de la nomination dans le corps des attachés des systèmes d'information et de communication est prononcé conformément aux dispositions du décret du 23 décembre 2006 précité.

@@ -4,4 +4,6 @@ Les fonctionnaires recrutés au titre des 2° et 3° de l'article 7 ci-dessus so
 
 Lorsque leur manière de servir n'a pas été jugée satisfaisante à l'issue de la période probatoire d'un an, éventuellement prorogée, ils sont réintégrés dans leur corps d'origine.
 
-A l'issue de la période probatoire, les fonctionnaires dont la manière de servir est jugée satisfaisante sont titularisés dans le grade d'inspecteur. Ils sont classés à cette date dans ce grade dans les conditions prévues au II de l'article 18 ci-après, déduction faite de la période probatoire visée au présent article qui est prise en compte pour l'avancement d'échelon comme ayant été accomplie dans le grade d'inspecteur.
+Pendant la période probatoire, les fonctionnaires recrutés au titre des 2° et 3° de l'article 7 ci-dessus sont classés dans le grade d'inspecteur conformément aux dispositions de l'article 18.
+
+A l'issue de la période probatoire, les fonctionnaires dont la manière de servir est jugée satisfaisante sont titularisés dans le grade d'inspecteur. La durée de leur stage est prise en compte pour l'avancement dans la limite d'un an.

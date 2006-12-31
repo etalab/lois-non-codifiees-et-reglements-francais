@@ -4,7 +4,7 @@ Les candidats admis au titre du 1° de l'article 19 ci-dessus sont nommés secr�
 
 Toutefois, les candidats mentionnés au 1° de l'article 19-1 ci-dessus admis au concours ne sont nommés secrétaires des affaires étrangères stagiaires qu'à partir de la date à laquelle ils justifient de la condition de diplôme. Ceux qui ne peuvent présenter, au 31 décembre de l'année au titre de laquelle le concours est organisé, l'un des diplômes exigés perdent le bénéfice de leur admission à ce concours.
 
-Pendant la durée du stage, les stagiaires qui n'avaient pas la qualité de fonctionnaire ou d'agent non titulaire perçoivent la rémunération afférente au 1er échelon du grade de début du corps. Les stagiaires qui avaient auparavant la qualité de fonctionnaire, d'agent non titulaire ou d'agent d'une organisation internationale intergouvernementale peuvent opter pour le maintien, pendant la période de stage, du traitement indiciaire auquel ils avaient droit dans leurs corps, cadre d'emplois ou emploi d'origine. Cette disposition ne peut toutefois avoir pour effet d'assurer aux intéressés un traitement supérieur à celui auquel ils auraient eu droit s'ils avaient été classés en application des articles 20 à 20-7 ci-après.
+Pendant la durée de leur stage, les secrétaires des affaires étrangères sont classés au 1er échelon du grade de secrétaire des affaires étrangères, sous réserve de l'application des dispositions de l'article 20.
 
 L'organisation de la période de stage est fixée par le ministre des affaires étrangères.
 

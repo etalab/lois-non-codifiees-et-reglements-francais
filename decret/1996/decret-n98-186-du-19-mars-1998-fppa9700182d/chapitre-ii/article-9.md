@@ -4,7 +4,7 @@ Les candidats reçus aux concours externe et interne sont nommés traducteurs st
 
 L'organisation de la période de stage est fixée par le ministre dont relève le corps de traducteurs.
 
-Pendant la durée du stage, les stagiaires qui n'avaient pas la qualité de fonctionnaire perçoivent la rémunération afférente au premier échelon du grade de début du corps. Les stagiaires qui avaient auparavant la qualité de fonctionnaire ou d'agent non titulaire peuvent opter pour le maintien, pendant la période de stage, du traitement indiciaire auquel ils avaient droit dans leurs corps, cadre d'emplois ou emploi d'origine, dans la limite supérieure du traitement auquel ils peuvent prétendre lors de leur titularisation.
+Pendant la durée du stage, les traducteurs sont classés au premier échelon du grade de traducteur, sous réserve de l'application des dispositions de l'article 11.
 
 A l'issue du stage, les stagiaires dont les services ont donné satisfaction sont titularisés.
 

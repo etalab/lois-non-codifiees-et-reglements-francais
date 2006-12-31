@@ -2,9 +2,7 @@
 
 Les personnels recrutés en application du 1° de l'article 14 du présent décret sont titularisés dès leur nomination.
 
-Les candidats déclarés définitivement admis aux concours prévus au 2° de l'article 14 sont nommés officiers de protection stagiaires par arrêté du ministre des affaires étrangères et classés à l'échelon de stage. Ils accomplissent un stage d'une durée d'une année. Toutefois, les candidats mentionnés au a du 2° de l'article 14, admis au concours, ne sont nommés officiers de protection stagiaires qu'à partir de la date à laquelle ils justifient de la condition de diplôme. Ceux qui ne peuvent présenter, au 31 décembre de l'année au titre de laquelle le concours est organisé, l'un des diplômes exigés perdent le bénéfice de leur admission à ce concours.
-
-Les stagiaires qui avaient auparavant la qualité de fonctionnaire, d'agent non titulaire ou d'agent d'une organisation internationale intergouvernementale peuvent, pendant la durée de leur stage, opter entre le traitement indiciaire auquel ils auraient eu droit dans leur corps, cadre d'emplois ou emploi d'origine et celui afférent à l'échelon de stage. Cette disposition ne peut toutefois avoir pour effet d'assurer aux intéressés un traitement supérieur à celui auquel ils auraient eu droit s'ils avaient été classés en application des articles 18 à 24.
+Les candidats déclarés définitivement admis aux concours prévus au 2° de l'article 14 sont nommés officiers de protection stagiaires par arrêté du ministre des affaires étrangères et sont classés soit à l'échelon de stage, soit à un échelon du premier grade du corps déterminé en application de l'article 18. Ils accomplissent un stage d'une durée d'une année.
 
 L'organisation de la période de stage est fixée par arrêté du ministre des affaires étrangères.
 

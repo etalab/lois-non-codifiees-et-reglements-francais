@@ -1,3 +1,3 @@
 # Article 11
 
-S'ils avaient la qualité de fonctionnaire ou d'agent non titulaire, les traducteurs titularisés en application de l'article 6 ci-dessus sont classés dans les conditions définies aux articles 12 à 16 ci-après.
+Le classement lors de la nomination dans le corps est prononcé conformément aux dispositions du décret n° 2006-1827 du 23 décembre 2006 relatif aux règles du classement d'échelon consécutif à la nomination dans certains corps de catégorie A de la fonction publique de l'Etat.

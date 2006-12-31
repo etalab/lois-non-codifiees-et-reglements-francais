@@ -1,3 +1,0 @@
-# Article 11
-
-Les fonctionnaires appartenant à un corps ou à un cadre d'emplois de catégorie C ou de niveau équivalent sont titularisés et classés dans le grade d'ingénieur d'études et de fabrications à un échelon déterminé en appliquant les modalités fixées au premier alinéa de l'article 10 à la fraction de l'ancienneté qui aurait été prise en compte, en application de l'article 3 du décret n° 94-1016 du 18 novembre 1994 fixant les dispositions statutaires communes applicables à divers corps de fonctionnaires de la catégorie B, pour leur classement dans l'un des corps régis par ce même décret.

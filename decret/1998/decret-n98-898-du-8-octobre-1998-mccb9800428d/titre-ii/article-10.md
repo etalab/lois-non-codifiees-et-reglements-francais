@@ -1,3 +1,3 @@
 # Article 10
 
-S'ils avaient la qualité de fonctionnaire ou d'agent non titulaire, les ingénieurs-économistes de la construction et les ingénieurs des services culturels et du patrimoine titularisés en application de l'article 9 ci-dessus sont classés dans les conditions définies aux articles 11 à 14 ci-après.
+Le classement lors de la nomination dans le corps d'ingénieurs-économistes de la construction et d'ingénieurs des services culturels et du patrimoine est prononcé conformément aux dispositions du décret n° 2006-1827 du 23 décembre 2006 relatif aux règles du classement d'échelon consécutif à la nomination dans certains corps de catégorie A de la fonction publique de l'Etat.

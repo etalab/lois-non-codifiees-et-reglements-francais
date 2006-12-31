@@ -1,6 +1,6 @@
 # Article 12
 
-A l'issue de leur formation, les inspecteurs-élèves recrutés en application du 1° de l'article 5, qui ont satisfait aux conditions fixées par l'arrêté prévu à l'article 11, sont titularisés au 1er échelon du grade d'inspecteur.
+A l'issue de leur formation, les inspecteurs-élèves recrutés en application du 1° de l'article 5, qui ont satisfait aux conditions fixées par l'arrêté prévu à l'article 11, sont titularisés.
 
 La durée de la formation est prise en compte pour l'avancement d'échelon dans la limite de dix-huit mois.
 
