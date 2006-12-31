@@ -1,5 +1,5 @@
 # Article 10
 
-Le navire et ses embarcations annexes ainsi que le matériel ayant servi aux délinquants pourront être saisis par l'agent verbalisateur ; la confiscation et la mise en vente des engins pourront être prononcées par le tribunal. Le tribunal ordonnera également la destruction des engins non réglementaires.
+Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal, des infractions définies aux articles 4 à 8 de la présente loi. Elles encourent la peine d'amende, suivant les modalités prévues par l'article 131-38 du code pénal.
 
-Les produits des ventes faites en exécution du présent article seront versés, déduction faite de tous frais, au budget du territoire.
+Les personnes physiques et les personnes morales coupables des infractions prévues par les articles 4 à 8 de la présente loi encourent également, à titre de peine complémentaire, les mesures prévues aux articles 2 à 4 de la loi n° 83-582 du 5 juillet 1983 relative au régime de la saisie et complétant la liste des agents habilités à constater les infractions dans le domaine des pêches maritimes.

@@ -170,6 +170,10 @@ Diffusion technologique
 
 (0,6-1)
 
+Ces taxes sont dues par l'exploitant, sans réduction possible, à compter de la création de l'installation et jusqu'à la décision de radiation de la liste des installations nucléaires de base.
+
+Pour toutes les catégories d'installations visées dans le précédent tableau, les valeurs des coefficients pour 2007 sont fixées à 4,0 pour la taxe additionnelle "recherche", à 1,0 pour la taxe additionnelle "d'accompagnement" et à 0,8 pour la taxe additionnelle "diffusion technologique".
+
 Les taxes additionnelles sont recouvrées dans les mêmes conditions et sous les mêmes sanctions que la taxe sur les installations nucléaires de base.
 
 Sous déduction des frais de collecte fixés à 1 % des sommes recouvrées, le produit de la taxe additionnelle dite de "recherche" est reversé à l'Agence nationale pour la gestion des déchets radioactifs.

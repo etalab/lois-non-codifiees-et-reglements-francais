@@ -6,6 +6,8 @@ Les frais de recouvrement sont versés directement par le débiteur ou le condam
 
 Le montant des frais, qui restent acquis à l'huissier de justice, est calculé selon un taux proportionnel aux sommes recouvrées fixé par arrêté conjoint des ministres chargés des finances et de la justice.
 
+Le montant des frais bancaires afférents à cette opposition, perçu par les banques, ne peut dépasser 10 % du montant dû au Trésor public.
+
 II. - Le recouvrement par le Trésor public des amendes et condamnations pécuniaires peut être assuré par voie d'opposition administrative adressée aux personnes physiques ou morales qui détiennent des fonds pour le compte du redevable, qui ont une dette envers lui ou qui lui versent une rémunération.
 
 1. Le Trésor public notifie cette opposition administrative au redevable en même temps qu'elle est adressée au tiers détenteur.
@@ -14,7 +16,7 @@ II. - Le recouvrement par le Trésor public des amendes et condamnations pécuni
 
 L'opposition administrative emporte l'effet d'attribution immédiate prévu à l'article 43 de la loi n° 91-650 du 9 juillet 1991 portant réforme des procédures civiles d'exécution.
 
-Les fonds doivent être reversés, dans les quinze jours qui suivent la réception de l'opposition administrative, par le tiers détenteur au Trésor public sous peine de se voir réclamer cette somme majorée du taux d'intérêt légal. Le paiement consécutif à une opposition administrative libère à due concurrence la personne qui l'a effectué à l'égard du redevable de l'amende ou de la condamnation pécuniaire.
+Les fonds doivent être reversés, dans les trente jours qui suivent la réception de l'opposition administrative, par le tiers détenteur au Trésor public sous peine de se voir réclamer cette somme majorée du taux d'intérêt légal. Le paiement consécutif à une opposition administrative libère à due concurrence la personne qui l'a effectué à l'égard du redevable de l'amende ou de la condamnation pécuniaire.
 
 3. L'effet de l'opposition administrative s'étend aux créances conditionnelles ou à terme. Dans ce cas, les fonds sont versés au Trésor public lorsque ces créances deviennent exigibles.
 

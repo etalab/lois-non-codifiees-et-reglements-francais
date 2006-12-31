@@ -321,9 +321,7 @@ A. - Rivières
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
-<br/>
-</td>
+<td valign="top" width="152"/>
 <td valign="top" width="151">
 <p>Limite départementale entre l'Eure et la Seine-Maritime. </p>
 </td>
@@ -748,7 +746,7 @@ B. - Canaux
 <p>Sète. </p>
 </td>
 <td valign="top" width="208">
-<p>Service maritime et de navigation de Languedoc-Roussillon. </p>
+<p>Direction régionale de l'équipement de Languedoc-Roussillon. </p>
 </td>
 </tr>
 <tr>

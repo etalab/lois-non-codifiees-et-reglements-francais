@@ -1,0 +1,3 @@
+# Article 5
+
+Le complément de prime variable et collectif est constitué de deux parts. La première part qui rétribue les agents ayant collectivement atteint les objectifs nationaux est égale aux deux tiers du crédit déterminé dans les conditions prévues à l'article précédent. Elle est répartie de manière égale entre les agents de l'ANPE qui y ont droit. La seconde part, qui est égale au tiers restant, est attribuée aux agents ayant collectivement atteint les objectifs fixés aux services auxquels ils appartiennent. Elle est répartie entre les agents en fonction des résultats atteints au niveau de leur bassin d'emploi (groupements d'unités) ou de leur service.

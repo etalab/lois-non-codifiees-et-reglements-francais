@@ -1,0 +1,5 @@
+# Article 5
+
+Les fonctionnaires appartenant avant leur accession à la catégorie A à un corps ou à un cadre d'emplois de catégorie B ou de même niveau sont classés à l'échelon comportant l'indice le plus proche de l'indice qu'ils détenaient avant leur nomination augmenté de 60 points d'indice brut. Lorsque deux échelons successifs présentent un écart égal avec cet indice augmenté, le classement est prononcé dans celui qui comporte l'indice le moins élevé.
+
+Dans la limite de l'ancienneté moyenne fixée par le statut particulier du corps dans lequel ils sont nommés pour une promotion à l'échelon supérieur, les bénéficiaires de cette disposition conservent l'ancienneté d'échelon acquise dans leur grade d'origine lorsque l'augmentation de traitement consécutive à leur nomination est inférieure ou égale à 60 points d'indice brut. Toutefois, lorsque le classement opéré en vertu de l'alinéa précédent conduit le fonctionnaire à bénéficier d'un échelon qu'aurait également atteint le titulaire d'un échelon supérieur de son grade d'origine, aucune ancienneté ne lui est conservée dans l'échelon du grade de catégorie A dans lequel il est classé.

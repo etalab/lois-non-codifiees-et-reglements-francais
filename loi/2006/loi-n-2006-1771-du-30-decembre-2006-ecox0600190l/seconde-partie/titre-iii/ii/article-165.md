@@ -1,0 +1,3 @@
+# Article 165
+
+Dans les établissements scolaires qui comportent une ou plusieurs sections internationales où sont dispensés des enseignements spécifiques impliquant l'utilisation progressive d'une langue étrangère dans certaines disciplines, les enseignants chargés d'assurer ces enseignements peuvent être mis à disposition par les pays étrangers concernés ou être recrutés et rémunérés par des associations agréées. Ils peuvent également être recrutés par l'Etat dans les conditions prévues à l'article L. 932-2 du code de l'éducation. Un décret en Conseil d'Etat pris sur le rapport du ministre chargé des finances détermine les conditions dans lesquelles ces prestations particulières d'enseignement peuvent donner lieu au paiement d'une redevance.

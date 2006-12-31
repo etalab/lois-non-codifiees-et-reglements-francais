@@ -6,17 +6,13 @@ La part affectée à l'ensemble des départements est obtenue par l'application 
 
 La fraction de taux mentionnée à l'alinéa précédent est calculée de sorte qu'appliquée à l'assiette nationale 2005, elle conduise à un produit égal à 900 millions d'euros.
 
-Jusqu'à la connaissance du montant définitif de l'assiette 2005, cette fraction de taux est fixée à 6,155 %.
-
-Le niveau définitif de cette fraction est arrêté par la plus prochaine loi de finances après la connaissance du montant définitif de l'assiette 2005.
+A compter de 2006, cette fraction de taux est fixée à 6,45%.
 
 Chaque département reçoit un produit de taxe correspondant à un pourcentage de la fraction de taux fixée plus haut. Ce pourcentage est égal, pour chaque département, au rapport entre le nombre de véhicules terrestres à moteur immatriculés dans ce département au 31 décembre 2003 et le nombre total de véhicules terrestres à moteur immatriculés sur le territoire national à cette même date. Ces pourcentages sont fixés comme suit :
 
 (Tableau non reproduit)
 
-A partir de 2006, le département des Bouches-du-Rhône reverse à la commune de Marseille, au titre du bataillon des marins-pompiers, une fraction du produit de la taxe sur les conventions d'assurance.
-
-Cette fraction est fixée à 43,5 % de la différence entre le produit perçu par le département des Bouches-du-Rhône au titre du présent I, d'une part, et le produit perçu l'année précédente au titre du présent I, indexé dans les conditions fixées à l'article L. 3334-7-1 du code général des collectivités territoriales, d'autre part.
+A compter de 2006, un montant de 10 millions d'euros est attribué à la commune de Marseille sur le produit, revenant à l'Etat, de la taxe mentionnée au présent I.
 
 II. - Paragraphe modificateur
 

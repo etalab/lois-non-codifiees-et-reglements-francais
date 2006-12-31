@@ -30,6 +30,8 @@ Les conseils d'administration de l'Institut national de l'audiovisuel et des soc
 
 III. - Chaque année, à l'occasion du vote de la loi de finances, le Parlement, sur le rapport d'un membre de chacune des commissions des finances de l'Assemblée nationale et du Sénat ayant les pouvoirs de rapporteur spécial, approuve la répartition des ressources publiques affectées au compte d'emploi de la redevance entre les sociétés France Télévisions, Radio France, Radio France Internationale, la société ARTE-France et l'Institut national de l'audiovisuel.
 
+Les ressources publiques allouées aux organismes du secteur audiovisuel public en compensation des obligations de service public mises à leur charge n'excèdent pas le montant du coût d'exécution desdites obligations.
+
 IV. - Le montant des ressources publiques allouées à la société France Télévisions est versé à cette société qui l'affecte intégralement, dans les conditions définies par le contrat d'objectifs et de moyens, aux sociétés France 2, France 3 et France 5 et Réseau France outre-mer ainsi qu'aux filiales mentionnées au dernier alinéa du I de l'article 44.
 
 A cette fin, le conseil d'administration de la société France Télévisions approuve un état prévisionnel des recettes et des dépense de cette société et de ses filiales pour chaque exercice. Il approuve également, après consultation des conseils d'administration des sociétés concernées, les modifications apportées, le cas échéant, en cours d'exercice, à la répartition du montant des ressources publiques allouées par la loi de finances à la société France Télévisions.

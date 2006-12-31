@@ -8,7 +8,7 @@ Par exception aux dispositions de l'article L. 933-6 du code du travail, l'emplo
 
 Les contributions de l'employeur mentionnées aux premier et troisième alinéas du présent article sont recouvrées par les organismes mentionnés à l'article L. 351-21 du code du travail pour le compte de la filiale de l'organisme mentionné à l'article 2 dans les conditions prévues à l'article L. 351-6 du même code.
 
-Les contributions des employeurs mentionnées aux alinéas précédents sont couvertes par l'assurance prévue à l'article L. 143-11-1 du code du travail dans les mêmes conditions que l'allocation définie à l'article L. 321-4-2 du même code.
+Les contributions des employeurs mentionnées aux alinéas précédents sont couvertes par l'assurance prévue à l'article L. 143-11-1 du code du travail dans les mêmes conditions que l'allocation définie à l'article L. 321-4-2 du même code. Les salaires dus pendant le délai de réponse du salarié visé à l'article 3 de la présente ordonnance sont couverts par l'assurance visée à l'article L. 143-11-1 du même code. Les créances résultant de la rupture du contrat de travail des salariés auxquels a été proposé le contrat de transition professionnelle sont également couvertes par cette assurance, sous réserve que l'administrateur, l'employeur ou le liquidateur, selon le cas, ait proposé ce contrat aux intéressés au cours de l'une des périodes visées au 2° du même article L. 143-11-1.
 
 Les organismes mentionnés à l'article L. 351-21 du code du travail participent au financement du contrat de transition professionnelle dans des conditions fixées par une convention qu'ils concluent avec l'Etat.
 

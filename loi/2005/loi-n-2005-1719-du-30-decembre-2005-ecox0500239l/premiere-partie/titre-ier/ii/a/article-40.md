@@ -16,135 +16,135 @@ SUPER CARBURANT sans plomb
 
 Alsace
 
-4,14
+1,28
 
-5,84
+1,83
 
 Aquitaine
 
-2,77
+1,03
 
-3,92
+1,45
 
 Auvergne
 
-3,31
+0,90
 
-4,69
+1,27
 
 Bourgogne
 
-3,11
+0,81
 
-4,40
+1,16
 
 Bretagne
 
-3,83
+0,90
 
-5,43
+1,27
 
 Centre
 
-2,08
+1,66
 
-2,94
+2,34
 
 Champagne-Ardenne
 
-1,98
+0,92
 
-2,81
+1,30
 
 Corse
 
-3,03
+0,67
 
-4,29
+0,95
 
 Franche-Comté
 
-2,55
+1,03
 
-3,60
+1,47
 
 Ile-de-France
 
-8,99
+7,23
 
-12,70
+10,23
 
 Languedoc-Roussillon
 
-3,54
+0,99
 
-5,00
+1,40
 
 Limousin
 
-4,85
+1,27
 
-6,88
+1,79
 
 Lorraine
 
-2,40
+1,37
 
-3,40
+1,95
 
 Midi-Pyrénées
 
-2,07
+0,85
 
-2,92
+1,22
 
 Nord - Pas-de-Calais
 
-5,82
+1,35
 
-8,22
+1,91
 
 Basse-Normandie
 
-2,93
+1,05
 
-4,16
+1,48
 
 Haute-Normandie
 
-3,54
+1,51
 
-5,00
+2,13
 
 Pays de la Loire
 
-3,44
+0,70
 
-4,88
+0,99
 
 Picardie
 
-3,41
+1,43
 
-4,84
+2,03
 
 Poitou-Charentes
 
-3,13
+0,64
 
-4,42
+0,93
 
 Provence-Alpes-Côte d'Azur
 
-3,23
+0,74
 
-4,57
+1,07
 
 Rhône-Alpes
 
-3,47
+0,84
 
-4,93
+1,21
 
 II. - Pour les régions d'outre-mer, la compensation financière des transferts de compétences prévue au II de l'article 119 de la loi n° 2004-809 du 13 août 2004 précitée est attribuée à compter de 2006 sous forme de dotation générale de décentralisation. A compter de 2006, le montant de cette compensation est minoré du montant, constaté en 2004, de la participation des familles prévue au deuxième alinéa de l'article 2 du décret n° 85-934 du 4 septembre 1985 précité.
 

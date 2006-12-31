@@ -2,7 +2,7 @@
 
 Des politiques renforcées et différenciées de développement sont mises en oeuvre dans les zones caractérisées par des handicaps géographiques, économiques ou sociaux.
 
-Ces zones comprennent les zones d'aménagement du territoire, les territoires ruraux de développement prioritaire, les zones urbaines sensibles et les régions ultrapériphériques françaises. ;
+Ces zones comprennent les zones d'aménagement du territoire, les territoires ruraux de développement prioritaire, les zones urbaines sensibles, les bassins d'emploi à redynamiser et les régions ultrapériphériques françaises. ;
 
 1. Les zones d'aménagement du territoire sont caractérisées notamment par leur faible niveau de développement économique et par l'insuffisance du tissu industriel ou tertiaire.
 
@@ -21,5 +21,15 @@ En outre, des zones franches urbaines sont créées à compter du 1er août 2006
 Les zones franches urbaines des communes des départements d'outre-mer sont créées dans des quartiers particulièrement défavorisés au regard des critères pris en compte pour la détermination des zones de redynamisation urbaine des communes de ces départements. La liste de ces zones est annexée à la loi n° 96-987 du 14 novembre 1996 précitée. Leur délimitation est fixée par décret en Conseil d'Etat, en tenant compte des éléments de nature à faciliter l'implantation d'entreprises ou le développement d'activités économiques.
 
 Tous les trois ans, à compter de la promulgation de la loi n° 99-533 du 25 juin 1999 précitée, un rapport d'évaluation de l'impact des politiques visées au premier alinéa sera remis au Parlement.
+
+3 bis. Les bassins d'emploi à redynamiser sont reconnus par voie réglementaire parmi les territoires dans lesquels la majorité des actifs résident et travaillent et qui recouvrent en 2006 les zones caractérisées par :
+
+1° Un taux de chômage au 30 juin 2006 supérieur de trois points au taux national ;
+
+2° Une variation annuelle moyenne négative de la population entre les deux derniers recensements connus supérieure en valeur absolue à 0,15 % ;
+
+3° Une variation annuelle moyenne négative de l'emploi total entre 2000 et 2004 supérieure en valeur absolue à 0,75 %.
+
+Les références statistiques utilisées pour la détermination de ces bassins d'emploi sont fixées par voie réglementaire.
 
 4. Les régions ultrapériphériques françaises recouvrent les départements d'outre-mer.

@@ -1,0 +1,5 @@
+# Article 9
+
+Les personnes qui justifient de l'exercice d'une ou plusieurs activités professionnelles accomplies sous un régime juridique autre que celui d'agent public, dans des fonctions et domaines d'activité susceptibles d'être rapprochés de ceux dans lesquels exercent les membres du corps dans lequel ils sont nommés, sont classées à un échelon déterminé en prenant en compte, dans la limite de sept années, la moitié de cette durée totale d'activité professionnelle.
+
+Un arrêté du ministre chargé de la fonction publique et du ministre intéressé fixe la liste des professions prises en compte et les conditions d'application du présent article. Cet arrêté est pris par le seul ministre chargé de la fonction publique pour les corps relevant du décret n° 98-188 du 19 mars 1998 fixant les dispositions statutaires applicables aux corps de chargés d'études documentaires et du décret n° 2005-1215 du 26 septembre 2005 portant dispositions statutaires communes applicables aux corps des attachés d'administration et à certains corps analogues.
