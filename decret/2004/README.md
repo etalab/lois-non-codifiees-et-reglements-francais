@@ -655,7 +655,6 @@
 - [Décret n°2004-1246 du 22 novembre 2004 (EQUI0401148D)](decret-n2004-1246-du-22-novembre-2004-equi0401148d)
 - [Décret n°2004-1247 du 22 novembre 2004 (INDI0420715D)](decret-n2004-1247-du-22-novembre-2004-indi0420715d)
 - [Décret n°2004-1383 du 22 décembre 2004 (MDIX0407869D)](decret-n2004-1383-du-22-decembre-2004-mdix0407869d)
-- [Décret n°2004-1384 du 22 décembre 2004 (SANS0424109D)](decret-n2004-1384-du-22-decembre-2004-sans0424109d)
 - [Décret n°2004-1385 du 22 décembre 2004 (SANS0424207D)](decret-n2004-1385-du-22-decembre-2004-sans0424207d)
 - [Décret n°2004-1392 du 22 décembre 2004 (MCCT0400912D)](decret-n2004-1392-du-22-decembre-2004-mcct0400912d)
 - [Décret n°2004-1394 du 22 décembre 2004 (MCCT0400851D)](decret-n2004-1394-du-22-decembre-2004-mcct0400851d)
