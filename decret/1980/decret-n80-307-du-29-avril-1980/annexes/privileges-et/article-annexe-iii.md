@@ -104,6 +104,10 @@ rédaction de lettre recommandée (en cas de formalité obligatoire), 1/4 taux d
 
 les émoluments alloués aux greffiers sont égaux à ceux qui sont prévus au paragraphe C pour des actes ou formalités analogues en cas de nantissement de fonds de commerce.
 
+H. - Gage des stocks.
+
+Les émoluments alloués aux greffiers des tribunaux de commerce sont égaux à ceux prévus pour des actes ou formalités analogues en cas de nantissement de fonds de commerce.
+
 (1) Dans les départements du Bas-Rhin, du Haut-Rhin, de la Moselle, de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion, les émoluments ainsi prévus sont perçus pour le compte du trésor.
 
 (3) A l'exclusion des warrants agricoles.
