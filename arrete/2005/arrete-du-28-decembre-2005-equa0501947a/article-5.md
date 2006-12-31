@@ -2,7 +2,7 @@
 
 Redevance d'exploitant d'aéronef. - Le mode de calcul et les conditions servant à l'établissement du montant de la redevance d'exploitant d'aéronef prévue par le V de l'article R. 611-3 du code de l'aviation civile ainsi que celles relatives à son paiement sont fixés ainsi qu'il suit :
 
-Les transporteurs aériens assujettis à la redevance d'exploitant d'aéronef sont tenus de déclarer à l'administration de l'aviation civile compétente les éléments nécessaires au calcul du paramètre "epax", ci-après défini, de cette redevance au plus tard le 31 décembre de l'année N - 1 aux fins de déterminer le montant annuel de la redevance N de l'année suivante.
+Les transporteurs aériens assujettis à la redevance d'exploitant d'aéronef sont tenus de déclarer à l'administration de l'aviation civile compétente les éléments relatifs au nombre de passagers et au tonnage de fret nécessaires au calcul du paramètre "epax", ci-après défini, de cette redevance au plus tard le 31 décembre de l'année N - 1 aux fins de déterminer le montant annuel de la redevance N de l'année suivante.
 
 Pour l'année N, le montant de la redevance (R) due est calculé en appliquant la formule suivante :
 

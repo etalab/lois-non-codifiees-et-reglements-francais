@@ -11,10 +11,10 @@ A. - Pour les épreuves d'examens théoriques aux brevets, licences, qualificati
 <p align="center">EXAMEN THÉORIQUE</p>
 </td>
 <td width="137">
-<p align="center">TARIF<br/>par épreuve<br/>(en euros)</p>
+<p align="center">TARIF<br/>par<br/>épreuve</p>
 </td>
 <td width="138">
-<p align="center">FORFAIT<br/>pour l'ensemble<br/>des épreuves<br/>d'un examen <br/>(en euros)</p>
+<p align="center">FORFAIT<br/>pour l'ensemble<br/>des épreuves<br/>d'un examen</p>
 </td>
 </tr>
 <tr>
@@ -22,10 +22,10 @@ A. - Pour les épreuves d'examens théoriques aux brevets, licences, qualificati
 <p>Pilote de ligne</p>
 </td>
 <td width="137">
-<p align="center">68</p>
+<p align="center">68 €</p>
 </td>
 <td width="138">
-<p align="center">900</p>
+<p align="center">900 €</p>
 </td>
 </tr>
 <tr>
@@ -33,10 +33,10 @@ A. - Pour les épreuves d'examens théoriques aux brevets, licences, qualificati
 <p>Pilote professionnel</p>
 </td>
 <td width="137">
-<p align="center">34</p>
+<p align="center">34 €</p>
 </td>
 <td width="138">
-<p align="center">210</p>
+<p align="center">210 €</p>
 </td>
 </tr>
 <tr>
@@ -44,10 +44,10 @@ A. - Pour les épreuves d'examens théoriques aux brevets, licences, qualificati
 <p>Qualification de vol aux instruments</p>
 </td>
 <td width="137">
-<p align="center">34</p>
+<p align="center">34 €</p>
 </td>
 <td width="138">
-<p align="center">210</p>
+<p align="center">210 €</p>
 </td>
 </tr>
 <tr>
@@ -58,7 +58,7 @@ A. - Pour les épreuves d'examens théoriques aux brevets, licences, qualificati
 <br/>
 </td>
 <td width="138">
-<p align="center">62</p>
+<p align="center">62 €</p>
 </td>
 </tr>
 <tr>
@@ -69,7 +69,18 @@ A. - Pour les épreuves d'examens théoriques aux brevets, licences, qualificati
 <br/>
 </td>
 <td width="138">
-<p align="center">70</p>
+<p align="center">80 €</p>
+</td>
+</tr>
+<tr>
+<td width="387">
+<p>Prorogation de compétence linguistique</p>
+</td>
+<td width="137">
+<p align="center">50 €</p>
+</td>
+<td width="138">
+<br/>
 </td>
 </tr>
 <tr>
@@ -80,7 +91,7 @@ A. - Pour les épreuves d'examens théoriques aux brevets, licences, qualificati
 <br/>
 </td>
 <td width="138">
-<p align="center">56</p>
+<p align="center">56 €</p>
 </td>
 </tr>
 <tr>
@@ -91,7 +102,40 @@ A. - Pour les épreuves d'examens théoriques aux brevets, licences, qualificati
 <br/>
 </td>
 <td width="138">
-<p align="center">61</p>
+<p align="center">61 €</p>
+</td>
+</tr>
+<tr>
+<td width="387">
+<p>Préévaluation d'instructeur de vol avion FI(A)</p>
+</td>
+<td width="137">
+<br/>
+</td>
+<td width="138">
+<p align="center">50 €</p>
+</td>
+</tr>
+<tr>
+<td width="387">
+<p>Pilote non professionnel selon les règles dites FCL </p>
+</td>
+<td width="137">
+<br/>
+</td>
+<td width="138">
+<p align="center">50 €</p>
+</td>
+</tr>
+<tr>
+<td width="387">
+<p>Pilote non professionnel selon les règles autres que celles dites FCL </p>
+</td>
+<td width="137">
+<br/>
+</td>
+<td width="138">
+<p align="center">20 €</p>
 </td>
 </tr>
 </tbody>

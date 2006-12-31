@@ -19,7 +19,7 @@ Le montant annuel de la redevance est calculé à partir d'une redevance de réf
 <p align="center">CHIFFRES D'AFFAIRES<br/>(en euros)</p>
 </td>
 <td width="151">
-<p align="center">REDEVANCE<br/>de référence<br/>pour l'année<br/>(en euros)</p>
+<p align="center">REDEVANCE<br/>de référence<br/>pour l'année (en euros)</p>
 </td>
 </tr>
 <tr>
@@ -27,7 +27,7 @@ Le montant annuel de la redevance est calculé à partir d'une redevance de réf
 <p>Inférieur ou égal à 500 000</p>
 </td>
 <td valign="top" width="151">
-<p align="center">2 600</p>
+<p align="center">2 390</p>
 </td>
 </tr>
 <tr>
@@ -35,7 +35,7 @@ Le montant annuel de la redevance est calculé à partir d'une redevance de réf
 <p>Supérieur à 500 000 et inférieur ou égal à 700 000</p>
 </td>
 <td valign="top" width="151">
-<p align="center">3 350</p>
+<p align="center">3 080</p>
 </td>
 </tr>
 <tr>
@@ -43,7 +43,7 @@ Le montant annuel de la redevance est calculé à partir d'une redevance de réf
 <p>Supérieur à 700 000 et inférieur ou égal à 1 400 000</p>
 </td>
 <td valign="top" width="151">
-<p align="center">4 700</p>
+<p align="center">4 320</p>
 </td>
 </tr>
 <tr>
@@ -51,7 +51,7 @@ Le montant annuel de la redevance est calculé à partir d'une redevance de réf
 <p>Supérieur à 1 400 000 et inférieur ou égal à 2 800 000</p>
 </td>
 <td valign="top" width="151">
-<p align="center">6 125</p>
+<p align="center">5 630</p>
 </td>
 </tr>
 <tr>
@@ -59,7 +59,7 @@ Le montant annuel de la redevance est calculé à partir d'une redevance de réf
 <p>Supérieur à 2 800 000 et inférieur ou égal à 5 000 000</p>
 </td>
 <td valign="top" width="151">
-<p align="center">8 000</p>
+<p align="center">7 350</p>
 </td>
 </tr>
 <tr>
@@ -67,7 +67,7 @@ Le montant annuel de la redevance est calculé à partir d'une redevance de réf
 <p>Supérieur à 5 000 000 et inférieur ou égal à 7 000 000</p>
 </td>
 <td valign="top" width="151">
-<p align="center">9 200</p>
+<p align="center">8 450</p>
 </td>
 </tr>
 <tr>
@@ -75,7 +75,7 @@ Le montant annuel de la redevance est calculé à partir d'une redevance de réf
 <p>Supérieur à 7 000 000 et inférieur ou égal à 14 000 000</p>
 </td>
 <td valign="top" width="151">
-<p align="center">11 000</p>
+<p align="center">10 100</p>
 </td>
 </tr>
 <tr>
@@ -83,7 +83,7 @@ Le montant annuel de la redevance est calculé à partir d'une redevance de réf
 <p>Supérieur à 14 000 000 et inférieur ou égal à 21 000 000</p>
 </td>
 <td valign="top" width="151">
-<p align="center">16 400</p>
+<p align="center">15 050</p>
 </td>
 </tr>
 <tr>
@@ -91,7 +91,7 @@ Le montant annuel de la redevance est calculé à partir d'une redevance de réf
 <p>Supérieur à 21 000 000 et inférieur ou égal à 42 000 000</p>
 </td>
 <td valign="top" width="151">
-<p align="center">30 800</p>
+<p align="center">28 300</p>
 </td>
 </tr>
 <tr>
@@ -99,7 +99,7 @@ Le montant annuel de la redevance est calculé à partir d'une redevance de réf
 <p>Supérieur à 42 000 000 et inférieur ou égal à 70 000 000</p>
 </td>
 <td valign="top" width="151">
-<p align="center">54 8000</p>
+<p align="center">50 300</p>
 </td>
 </tr>
 <tr>
@@ -107,7 +107,7 @@ Le montant annuel de la redevance est calculé à partir d'une redevance de réf
 <p>Supérieur à 70 000 000 et inférieur ou égal à 84 000 000</p>
 </td>
 <td valign="top" width="151">
-<p align="center">74 000</p>
+<p align="center">68 000</p>
 </td>
 </tr>
 <tr>
@@ -115,7 +115,7 @@ Le montant annuel de la redevance est calculé à partir d'une redevance de réf
 <p>Supérieur à 84 000 000 et inférieur ou égal à 105 000 000</p>
 </td>
 <td valign="top" width="151">
-<p align="center">107 000</p>
+<p align="center">98 300</p>
 </td>
 </tr>
 <tr>
@@ -123,7 +123,7 @@ Le montant annuel de la redevance est calculé à partir d'une redevance de réf
 <p>Supérieur à 105 000 000 et inférieur ou égal à 140 000 000</p>
 </td>
 <td valign="top" width="151">
-<p align="center">146 000</p>
+<p align="center">134 100</p>
 </td>
 </tr>
 <tr>
@@ -131,7 +131,7 @@ Le montant annuel de la redevance est calculé à partir d'une redevance de réf
 <p>Supérieur à 140 000 000 et inférieur ou égal à 420 000 000</p>
 </td>
 <td valign="top" width="151">
-<p align="center">206 000</p>
+<p align="center">189 300</p>
 </td>
 </tr>
 <tr>
@@ -139,7 +139,7 @@ Le montant annuel de la redevance est calculé à partir d'une redevance de réf
 <p>Supérieur à 420 000 000 et inférieur ou égal à 700 000 000</p>
 </td>
 <td valign="top" width="151">
-<p align="center">398 000</p>
+<p align="center">378 000</p>
 </td>
 </tr>
 <tr>

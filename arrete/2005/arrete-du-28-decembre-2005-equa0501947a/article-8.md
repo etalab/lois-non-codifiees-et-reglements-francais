@@ -12,277 +12,349 @@ où
 
 - "E" est un coefficient relatif au type d'organisme déterminé comme suit :
 
-- "E" = 2 pour les organismes de formation aux qualifications de type (TRTO) et pour les organismes de formation au vol (FTO) lorsque ceux-ci dispensent en sus des formations aux qualifications de type multipilote ;
+"E" = 2 pour les organismes approuvés de formation aux qualifications de type (TRTO) et pour les organismes approuvés de formation au vol (FTO) lorsque ceux-ci dispensent en sus des formations aux qualifications de type "multipilote ;
 
-- "E" = 1 pour les autres organismes de formation de personnel navigant approuvé ;
+"E" = 1 pour les autres FTO ;
+
+"E" = 0,5 pour les organismes, entreprises ou personnes physiques ayant reçu une homologation en vue de dispenser une formation sur avion ou hélicoptère ou dispensant un enseignement homologué sur avion ou hélicoptère ;
 
 - "(1 + C)" est un coefficient relatif aux cours approuvés où C est la somme, pour l'ensemble des cours approuvés au cours d'une période de douze mois des coefficients "c" fixés pour chacun d'eux par le tableau suivant :
 
 <table>
 <tbody>
 <tr>
-<td>
-<p align="center">NUMEROS</p>
+<td width="48">
+<p align="center">N°</p>
 </td>
-<td>
-<p align="center">COURS APPROUVES</p>
+<td width="385">
+<p align="center">COURS APPROUVÉS</p>
 </td>
-<td>
+<td width="118">
 <p align="center">COEFFICIENT<br/>"c"</p>
 </td>
-<td>
+<td width="149">
 <p align="center">COURS INCLUS<br/>dans l'approbation</p>
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td valign="top" width="48">
 <p align="center">1</p>
 </td>
-<td valign="top">
-<p>Cours intégré de pilote de transport aérien commercial d'avion (ATP/A intégré).</p>
+<td valign="top" width="385">
+<p>Cours intégré de pilote de transport aérien commercial d'avion (ATP/A intégré)</p>
 </td>
-<td valign="top">
+<td valign="top" width="118">
 <p align="center">1</p>
 </td>
-<td valign="top">
-<p align="center">N<sup>os</sup> 3, 4, 5, 6, 7, 8, 9,<br/>10 et 11</p>
+<td valign="top" width="149">
+<p align="center">N<sup>os</sup> 3, 4, 5, 6, 7, 8, 9, 10 et 11</p>
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td valign="top" width="48">
 <p align="center">2</p>
 </td>
-<td valign="top">
-<p>Cours intégré de pilote de transport aérien commercial d'hélicoptère (ATP/H intégré).</p>
+<td valign="top" width="385">
+<p>Cours intégré de pilote de transport aérien commercial d'hélicoptère (ATP/H intégré)</p>
 </td>
-<td valign="top">
+<td valign="top" width="118">
 <p align="center">0,75</p>
 </td>
-<td valign="top">
-<p align="center">N<sup>os</sup> 3, 4, 5, 6, 7,<br/>9 et 11</p>
+<td valign="top" width="149">
+<p align="center">N<sup>os</sup> 3, 5, 6, 7, 9 et 11</p>
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td valign="top" width="48">
 <p align="center">3</p>
 </td>
-<td valign="top">
-<p>Cours intégré de pilote professionnel (CPL/IR intégré).</p>
+<td valign="top" width="385">
+<p>Cours intégré de pilote professionnel (CPL/IR intégré)</p>
 </td>
-<td valign="top">
+<td valign="top" width="118">
 <p align="center">0,65</p>
 </td>
-<td valign="top">
+<td valign="top" width="149">
 <p align="center">N<sup>os</sup> 6, 7, 8, 9 et 10</p>
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td valign="top" width="48">
 <p align="center">4</p>
 </td>
-<td valign="top">
-<p>Cours modulaire théorique de pilote de ligne d'avion (ATPL/A théorique).</p>
+<td valign="top" width="385">
+<p>Cours modulaire théorique de pilote de ligne d'avion (ATPL/A théorique)</p>
 </td>
-<td valign="top">
+<td valign="top" width="118">
 <p align="center">0,25</p>
 </td>
-<td valign="top">
+<td valign="top" width="149">
 <p align="center">N<sup>os</sup> 7 et 8</p>
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td valign="top" width="48">
 <p align="center">5</p>
 </td>
-<td valign="top">
-<p>Cours modulaire théorique de pilote de ligne d'hélicoptère (ATPL/H théorique).</p>
+<td valign="top" width="385">
+<p>Cours modulaire théorique de pilote de ligne d'hélicoptère (ATPL/H théorique)</p>
 </td>
-<td valign="top">
+<td valign="top" width="118">
 <p align="center">0,15</p>
 </td>
-<td valign="top">
-<p align="center">N° 7</p>
+<td valign="top" width="149">
+<p align="center">N<sup>o</sup> 7</p>
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td valign="top" width="48">
 <p align="center">6</p>
 </td>
-<td valign="top">
-<p>Cours intégré de pilote professionnel.</p>
+<td valign="top" width="385">
+<p>Cours intégré de pilote professionnel</p>
 </td>
-<td valign="top">
+<td valign="top" width="118">
 <p align="center">0,45</p>
 </td>
-<td valign="top">
-<p align="center">7 et 9</p>
+<td valign="top" width="149">
+<p align="center">N<sup>os</sup> 7 et 9</p>
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td valign="top" width="48">
 <p align="center">7</p>
 </td>
-<td valign="top">
-<p>Cours modulaire théorique de pilote professionnel (CPL théorique).</p>
+<td valign="top" width="385">
+<p>Cours modulaire théorique de pilote professionnel (CPL théorique)</p>
 </td>
-<td valign="top">
+<td valign="top" width="118">
 <p align="center">0,1</p>
 </td>
-<td valign="top">
+<td valign="top" width="149">
 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td valign="top" width="48">
 <p align="center">8</p>
 </td>
-<td valign="top">
-<p>Cours modulaire théorique de qualification de vol aux instruments (IR théorique).</p>
+<td valign="top" width="385">
+<p>Cours modulaire théorique de qualification de vol aux instruments (IR théorique)</p>
 </td>
-<td valign="top">
+<td valign="top" width="118">
 <p align="center">0,1</p>
 </td>
-<td valign="top">
+<td valign="top" width="149">
 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td valign="top" width="48">
 <p align="center">9</p>
 </td>
-<td valign="top">
-<p>Cours modulaire de pilote professionnel (CPL pratique).</p>
+<td valign="top" width="385">
+<p>Cours modulaire de pilote professionnel (CPL pratique)</p>
 </td>
-<td valign="top">
+<td valign="top" width="118">
 <p align="center">0,2</p>
 </td>
-<td valign="top">
+<td valign="top" width="149">
 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td valign="top" width="48">
 <p align="center">10</p>
 </td>
-<td valign="top">
-<p>Cours modulaire de qualification de vol aux instruments (IR pratique).</p>
+<td valign="top" width="385">
+<p>Cours modulaire de qualification de vol aux instruments (IR pratique)</p>
 </td>
-<td valign="top">
+<td valign="top" width="118">
 <p align="center">0,25</p>
 </td>
-<td valign="top">
+<td valign="top" width="149">
 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td valign="top" width="48">
 <p align="center">11</p>
 </td>
-<td valign="top">
-<p>Formation au travail en équipage (MCC).</p>
+<td valign="top" width="385">
+<p>Formation au travail en équipage (MCC)</p>
 </td>
-<td valign="top">
+<td valign="top" width="118">
 <p align="center">0,25</p>
 </td>
-<td valign="top">
+<td valign="top" width="149">
 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td valign="top" width="48">
 <p align="center">12</p>
 </td>
-<td valign="top">
-<p>Cours de qualification de type multipilote.</p>
+<td valign="top" width="385">
+<p>Cours de qualification de type multipilote</p>
 </td>
-<td valign="top">
+<td valign="top" width="118">
 <p align="center">0,5</p>
 </td>
-<td valign="top">
+<td valign="top" width="149">
 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td valign="top" width="48">
 <p align="center">13</p>
 </td>
-<td valign="top">
-<p>Cours de qualification de type multimoteurs monopilote.</p>
+<td valign="top" width="385">
+<p>Cours de qualification de type monopilote multimoteurs</p>
 </td>
-<td valign="top">
+<td valign="top" width="118">
 <p align="center">0,25</p>
 </td>
-<td valign="top">
+<td valign="top" width="149">
 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td valign="top" width="48">
 <p align="center">14</p>
 </td>
-<td valign="top">
-<p>Cours de renouvellement de qualification de type.</p>
+<td valign="top" width="385">
+<p>Cours de qualification de type monopilote monomoteur</p>
 </td>
-<td valign="top">
-<p align="center">0,1</p>
+<td valign="top" width="118">
+<p align="center">0,125</p>
 </td>
-<td valign="top">
+<td valign="top" width="149">
 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td valign="top" width="48">
 <p align="center">15</p>
 </td>
-<td valign="top">
-<p>Cours de qualification d'instructeur TRI.</p>
+<td valign="top" width="385">
+<p>Cours de qualification de classe monopilote multimoteurs</p>
 </td>
-<td valign="top">
-<p align="center">0,4</p>
+<td valign="top" width="118">
+<p align="center">0,125</p>
 </td>
-<td valign="top">
+<td valign="top" width="149">
 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td valign="top" width="48">
 <p align="center">16</p>
 </td>
-<td valign="top">
-<p>Cours de formation aux connaissances JAR/OPS - JAR/FCL.</p>
+<td valign="top" width="385">
+<p>Cours de qualification de classe monopilote monomoteur</p>
 </td>
-<td valign="top">
-<p align="center">0,05</p>
+<td valign="top" width="118">
+<p align="center">0,125</p>
 </td>
-<td valign="top">
+<td valign="top" width="149">
 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td valign="top" width="48">
 <p align="center">17</p>
 </td>
-<td valign="top">
-<p>Cours relatifs aux facteurs humains.</p>
+<td valign="top" width="385">
+<p>Cours de renouvellement de qualification de type</p>
 </td>
-<td valign="top">
+<td valign="top" width="118">
 <p align="center">0,1</p>
 </td>
-<td valign="top">
+<td valign="top" width="149">
 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td valign="top" width="48">
 <p align="center">18</p>
 </td>
-<td valign="top">
-<p>Stage de sécurité sur hélicoptère Robinson.</p>
+<td valign="top" width="385">
+<p>Cours de renouvellement de la qualification de vol aux instruments</p>
 </td>
-<td valign="top">
+<td valign="top" width="118">
+<p align="center">0,1</p>
+</td>
+<td valign="top" width="149">
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="48">
+<p align="center">19</p>
+</td>
+<td valign="top" width="385">
+<p>Cours de qualification d'instructeur</p>
+</td>
+<td valign="top" width="118">
+<p align="center">0,4</p>
+</td>
+<td valign="top" width="149">
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="48">
+<p align="center">20</p>
+</td>
+<td valign="top" width="385">
+<p>Séminaire de recyclage d'instructeur de vol</p>
+</td>
+<td valign="top" width="118">
+<p align="center">0,15</p>
+</td>
+<td valign="top" width="149">
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="48">
+<p align="center">21</p>
+</td>
+<td valign="top" width="385">
+<p>Cours de formation aux connaissances JAR/OPS - JAR/FCL</p>
+</td>
+<td valign="top" width="118">
 <p align="center">0,05</p>
 </td>
-<td valign="top">
+<td valign="top" width="149">
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="48">
+<p align="center">22</p>
+</td>
+<td valign="top" width="385">
+<p>Cours relatifs aux facteurs humains</p>
+</td>
+<td valign="top" width="118">
+<p align="center">0,1</p>
+</td>
+<td valign="top" width="149">
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="48">
+<p align="center">23</p>
+</td>
+<td valign="top" width="385">
+<p>Stage de sécurité sur hélicoptère Robinson</p>
+</td>
+<td valign="top" width="118">
+<p align="center">0,05</p>
+</td>
+<td valign="top" width="149">
 <br/>
 </td>
 </tr>
