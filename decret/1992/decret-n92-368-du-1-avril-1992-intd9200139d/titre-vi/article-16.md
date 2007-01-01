@@ -1,9 +1,3 @@
 # Article 16
 
-Sont intégrés en qualité de titulaires dans le cadre d'emplois au grade d'aide-opérateur les fonctionnaires territoriaux qui ont été nommés dans un emploi classé à l'échelle 3 de rémunération et qui exercent des fonctions mentionnées à l'article 2.
-
-Sont intégrés en qualité de titulaires dans le cadre d'emplois au grade d'opérateur les fonctionnaires territoriaux qui ont été nommés dans un emploi classé à l'échelle 4 de rémunération et qui exercent des fonctions mentionnées à l'article 2.
-
-Sont intégrés en qualité de titulaires dans le cadre d'emplois au grade d'opérateur qualifié les fonctionnaires territoriaux qui ont été nommés dans un emploi classé à l'échelle 5 de rémunération et qui exercent des fonctions mentionnées à l'article 2.
-
-Les fonctionnaires intégrés sont classés dans leur grade au même échelon que celui qu'ils avaient atteint dans leur précédent emploi. Ils conservent l'ancienneté d'échelon acquise dans leur précédent emploi.
+Par dérogation à l'article 9, et pendant une durée de 3 ans calculée à compter de la date d'entrée en vigueur du décret n° 2006-1694 du 22 décembre 2006, peuvent être promus au grade d'opérateur territorial des activités physiques et sportives qualifié, au choix, par voie d'inscription à un tableau annuel d'avancement établi après avis de la commission administrative paritaire, les opérateurs territoriaux des activités physiques et sportives qui justifient au 1er janvier de l'année au titre de laquelle est dressé le tableau d'avancement de six ans de services effectifs au moins dans leur grade, y compris la période de stage.
