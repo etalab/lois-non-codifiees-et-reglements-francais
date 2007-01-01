@@ -1,93 +1,113 @@
 # Article 1
 
-L'échelonnement indiciaire applicable aux échelles de rémunération instituées par le décret n° 87-1107 du 30 décembre 1987 susvisé est fixé ainsi qu'il suit :
+L'échelonnement indiciaire applicable aux échelles 3, 4 et 5 de rémunération instituées par le décret n° 87-1107 du 30 décembre 1987 susvisé est fixé ainsi qu'il suit :
 
-ECHELONS
+ÉCHELONS : 11e échelon
 
 INDICES BRUTS
 
-Echelle 3
+Echelle 3 : 388
 
-Echelle 4
+Echelle 4 : 409
 
-Echelle 5
+Echelle 5 : 446
 
-10e échelon
+ÉCHELONS : 10e échelon
 
-364
+INDICES BRUTS
 
-382
+Echelle 3 : 364
 
-427
+Echelle 4 : 382
 
-9e échelon
+Echelle 5 : 427
 
-347
+ÉCHELONS :  9e échelon
 
-374
+INDICES BRUTS
 
-396
+Echelle 3 : 347
 
-8e échelon
+Echelle 4 : 374
 
-333
+Echelle 5 : 396
 
-360
+ÉCHELONS :  8e échelon
 
-379
+INDICES BRUTS
 
-7e échelon
+Echelle 3 : 333
 
-324
+Echelle 4 : 360
 
-345
+Echelle 5 : 379
 
-363
+ÉCHELONS :  7e échelon
 
-6e échelon
+INDICES BRUTS
 
-314
+Echelle 3 : 324
 
-333
+Echelle 4 : 343
 
-347
+Echelle 5 : 363
 
-5e échelon
+ÉCHELONS :  6e échelon
 
-303
+INDICES BRUTS
 
-320
+Echelle 3 : 314
 
-334
+Echelle 4 : 333
 
-4e échelon
+Echelle 5 : 347
 
-296
+ÉCHELONS :  5e échelon
 
-307
+INDICES BRUTS
 
-321
+Echelle 3 : 305
 
-3e échelon
+Echelle 4 : 320
 
-290
+Echelle 5 : 334
 
-297
+ÉCHELONS :  4e échelon
 
-307
+INDICES BRUTS
 
-2e échelon
+Echelle 3 : 298
 
-280
+Echelle 4 : 307
 
-287
+Echelle 5 : 321
 
-297
+ÉCHELONS :  3e échelon
 
-1er échelon
+INDICES BRUTS
 
-274
+Echelle 3 : 293
 
-277
+Echelle 4 : 298
 
-281
+Echelle 5 : 307
+
+ÉCHELONS :  2e échelon
+
+INDICES BRUTS
+
+Echelle 3 : 287
+
+Echelle 4 : 290
+
+Echelle 5 : 298
+
+ÉCHELONS :  1er échelon
+
+INDICES BRUTS
+
+Echelle 3 : 281
+
+Echelle 4 : 287
+
+Echelle 5 : 290
