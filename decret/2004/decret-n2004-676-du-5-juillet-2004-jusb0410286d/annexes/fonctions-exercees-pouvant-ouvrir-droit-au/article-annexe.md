@@ -14,6 +14,8 @@ Cour de cassation
 
 6. Magistrat chargé d'un secrétariat général.
 
+7. Magistrat chargé de la direction du service d'études et de documentation.
+
 Cour d'appel
 
 1. Premier président.
@@ -22,7 +24,21 @@ Cour d'appel
 
 3. Magistrat chargé d'un secrétariat général.
 
+Tribunaux supérieurs d'appel
+
+1. Président
+
+2. Procureur de la République.
+
 Tribunaux de grande instance
+
+1. Président.
+
+2. Procureur de la République.
+
+3. Magistrat chargé d'un secrétariat général
+
+Tribunaux de première instance
 
 1. Président.
 
