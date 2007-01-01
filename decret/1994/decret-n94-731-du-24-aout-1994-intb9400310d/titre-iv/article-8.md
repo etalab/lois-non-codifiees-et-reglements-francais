@@ -1,5 +1,3 @@
 # Article 8
 
-Peuvent être nommés gardes champêtres principaux au choix par voie d'inscription sur un tableau d'avancement établi après avis de la commission administrative paritaire, en application du 1° de l'article 79 de la loi du 26 janvier 1984 précitée, les gardes champêtres ayant atteint le 6e échelon de leur grade.
-
-Peuvent être nommés au grade de garde champêtre chef au choix par voie d'inscription sur un tableau d'avancement établi après avis de la commission administrative paritaire, en application du 1° de l'article 79 de la loi du 26 janvier 1984 précitée, les gardes champêtres principaux ayant atteint le 7e échelon de leur grade.
+Peuvent être nommés gardes champêtres chefs, au choix, par voie d'inscription à un tableau annuel d'avancement, établi après avis de la commission administrative paritaire, les gardes champêtres principaux ayant atteint au moins le 5e échelon de leur grade et comptant au moins six ans de services effectifs dans leur grade.
