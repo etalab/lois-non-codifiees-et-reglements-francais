@@ -39,7 +39,6 @@
 - [Décret n°65-984 du 18 novembre 1965](decret-n65-984-du-18-novembre-1965)
 - [Décret n°67-711 du 18 août 1967](decret-n67-711-du-18-aout-1967)
 - [Décret n°65-383 du 20 mai 1965](decret-n65-383-du-20-mai-1965)
-- [Décret n°65-799 du 21 septembre 1965](decret-n65-799-du-21-septembre-1965)
 - [Décret n°65-382 du 21 mai 1965](decret-n65-382-du-21-mai-1965)
 - [Décret n°65-612 du 22 juillet 1965](decret-n65-612-du-22-juillet-1965)
 - [Décret n°65-75 du 22 janvier 1965](decret-n65-75-du-22-janvier-1965)
