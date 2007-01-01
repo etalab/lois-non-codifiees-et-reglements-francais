@@ -1,4 +1,4 @@
-# Arrêté du 22 février 1974 relatif aux conditions d'agrément pour les vérifications réglementaires prévus dans les établissements recevant du public
+# Arrêté du 22 février 1974 relatif à la mise à l'épreuve et à l'agrément des taureaux destinés à être utilisés pour l'insémination artificielle
 
 - [I - Dispositions relatives aux surfaces](i)
 - [II - Prix applicables aux opérations réalisées avec le bénéfice de prêts spéciaux immédiats](ii)
