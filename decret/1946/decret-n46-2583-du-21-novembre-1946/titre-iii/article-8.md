@@ -2,9 +2,7 @@
 
 Les consuls, en ce qui concerne les navires :
 
-1° Procèdent à l'armement administratif et délivrent, après visite d'une commission constituée par leurs soins, dans la limite du possible, conformément aux dispositions de la loi du 16 juin 1933, un permis de navigation provisoire et des papiers de bord :
-
-rôle d'équipage, livre de bord, livre de discipline, registre des réclamations, journal de la machine, registre des traversées, registre des heures supplémentaires, certificats de visite du coffre à médicaments et, éventuellement, certificat constatant qu'il y a impossibilité de satisfaire aux prescriptions légales en ce qui concerne la nationalité de l'équipage ;
+1° Procèdent à l'armement administratif et délivrent, après visite d'une commission constituée par leurs soins, dans la limite du possible, conformément aux textes en vigueur, un permis de navigation et des papiers de bord : rôle d'équipage, livre de bord, livre de discipline, registre des réclamations, journal de la machine, registre des traversées, registre des heures supplémentaires, certificats de visite du coffre à médicaments et, éventuellement, certificat constatant qu'il y a impossibilité de satisfaire aux prescriptions légales en ce qui concerne la nationalité de l'équipage ;
 
 2° Procèdent au désarmement administratif en retirant les papiers de bord lorsqu'il y a désarmement matériel ou vente du navire ou lorsque celui-ci fait l'objet d'une déclaration d'innavigabilité ou arrive d'un voyage au long cours dans un port étranger d'Europe et doit repartir pour un nouveau voyage au long cours sans toucher un port de France ;
 
