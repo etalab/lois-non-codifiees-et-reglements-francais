@@ -6,9 +6,9 @@ Le comité régional d'experts détermine, chaque année avant les vendanges, le
 
 Les vins doivent, en outre, provenir de raisins récoltés à bonne maturité et vinifiés conformément aux usages locaux, loyaux et constants.
 
-L'appellation contrôlée "Vin d'Alsace" ou "Alsace" n'est accordée que dans la limite d'un rendement de cent hectolitres par hectare de vigne en production, tous cépages confondus. Cette limite peut être abaissée chaque année suivant la quantité et la qualité de la récolte, sur proposition du comité régional d'experts des vins d'Alsace, par décision du comité directeur de l'Institut national des appellations d'origine, homologuée par arrêté du ministre de l'agriculture.
+L'appellation contrôlée "Vin d'Alsace" ou "Alsace" n'est accordée que dans la limite d'un rendement de cent hectolitres par hectare de vigne en production, tous cépages confondus. Cette limite peut être abaissée chaque année suivant la quantité et la qualité de la récolte, sur proposition du comité régional d'experts des vins d'Alsace, par décision du comité directeur de l'Institut national de l'origine et de la qualité, homologuée par arrêté du ministre de l'agriculture.
 
-Toutefois, des dérogations individuelles peuvent être accordées par l'Institut national des appellations d'origine après examen de la qualité et des conditions de production de la totalité de la récolte de l'exploitation.
+Toutefois, des dérogations individuelles peuvent être accordées par l'Institut national de l'origine et de la qualité après examen de la qualité et des conditions de production de la totalité de la récolte de l'exploitation.
 
 Les demandes doivent être présentées avant le 15 décembre de l'année de la récolte.
 

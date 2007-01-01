@@ -10,7 +10,7 @@ L'étiquetage sur les emballages unitaires comporte :
 
 - le nom du producteur.
 
-Chaque emballage unitaire comporte un système d'identification, comprenant un numéro d'ordre, agréé par les services de l'INAO et distribué par l'organisme agréé.
+Chaque emballage unitaire comporte un système d'identification, comprenant un numéro d'ordre, agréé par les services de l'Institut national de l'origine et de la qualité et distribué par l'organisme agréé.
 
 Ce système d'identification peut servir de support à l'étiquetage.
 

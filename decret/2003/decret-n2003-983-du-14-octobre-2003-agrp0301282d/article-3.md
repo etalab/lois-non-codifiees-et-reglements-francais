@@ -4,4 +4,4 @@ Tous les opérateurs tiennent à jour un registre d'entrées et sorties permetta
 
 Ce registre est tenu à la disposition des agents chargés du contrôle.
 
-Les conditionneurs adressent annuellement aux services de l'Institut national des appellations d'origine un récapitulatif des volumes d'oignons qu'ils ont mis en circulation sous l'appellation lors de la campagne précédente et des stocks détenus à l'issue de cette campagne.
+Les conditionneurs adressent annuellement aux services de l'Institut national de l'origine et de la qualité un récapitulatif des volumes d'oignons qu'ils ont mis en circulation sous l'appellation lors de la campagne précédente et des stocks détenus à l'issue de cette campagne.

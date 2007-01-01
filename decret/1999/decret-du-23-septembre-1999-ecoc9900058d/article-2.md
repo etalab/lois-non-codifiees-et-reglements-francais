@@ -6,4 +6,4 @@ Les foins doivent provenir de prairies situées dans l'aire géographique de pro
 
 Arles, Aureille, Eyguières, Fos-sur-Mer, Grans, Istres, Lamanon, Miramas, Mouriès, Saint-Martin-de-Crau, Salon-de-Provence.
 
-Ce périmètre, tel qu'il a été approuvé par le comité national des produits agroalimentaires de l'Institut national des appellations d'origine au cours de sa séance du 23 avril 1997, sur proposition de la commission d'experts nommée à cet effet, fait l'objet d'un document cartographique déposé dans les mairies des communes concernées.
+Ce périmètre, tel qu'il a été approuvé par le comité national des produits agroalimentaires de l'Institut national de l'origine et de la qualité au cours de sa séance du 23 avril 1997, sur proposition de la commission d'experts nommée à cet effet, fait l'objet d'un document cartographique déposé dans les mairies des communes concernées.

@@ -10,4 +10,4 @@ L'ensemble des opérations décrites dans le présent article doit se faire dans
 
 Par dérogation, les opérations prévues aux troisième et quatrième alinéas du présent article peuvent être réalisées hors de l'aire géographique définie à l'article 2 dans les exploitations qui présentent des références suffisantes et une antériorité certaine, et ce jusqu'à la récolte 2001 incluse.
 
-La liste de ces exploitations et leur raison sociale est fixée par arrêté conjoint du ministre de l'agriculture et du ministre de l'économie, après avis du Comité national des produits agro-alimentaires de l'Institut national des appellations d'origine (INAO).
+La liste de ces exploitations et leur raison sociale est fixée par arrêté conjoint du ministre de l'agriculture et du ministre de l'économie, après avis du Comité national des produits agro-alimentaires de l'Institut national de l'origine et de la qualité.

@@ -18,7 +18,7 @@ Les vignes doivent être plantées et taillées dans les conditions suivantes :
 
 Les vignes qui ne respectent pas les conditions d'écartement définies au 1 du présent article sont comprises dans la superficie pouvant être revendiquée en appellation d'origine.
 
-4. L'octroi de la tolérance est subordonné à l'établissement par les exploitations concernées d'une demande de dérogation annuelle, à déposer au plus tard quinze jours avant le début des vendanges auprès des services de l'INAO. Cette demande de dérogation doit mentionner les références cadastrales et les superficies des parcelles pour lesquelles la tolérance est sollicitée.
+4. L'octroi de la tolérance est subordonné à l'établissement par les exploitations concernées d'une demande de dérogation annuelle, à déposer au plus tard quinze jours avant le début des vendanges auprès des services de l'Institut national de l'origine et de la qualité. Cette demande de dérogation doit mentionner les références cadastrales et les superficies des parcelles pour lesquelles la tolérance est sollicitée.
 
 5. En cas de non-respect des seuils définis au 3 du présent article, l'intégralité des parcelles de l'exploitation non conformes aux dispositions du 1 ci-dessus ne peut être prise en compte dans la déclaration de récolte pour l'appellation d'origine contrôlée "Cahors", pour la récolte considérée.
 

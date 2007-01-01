@@ -18,7 +18,7 @@ La durée de fermentation, à compter de la mise en cuve jusqu'à la distillatio
 
 Les jus fermentés doivent présenter un titre alcoométrique volumique minimum de 3,5 p. 100 en volume.
 
-Un règlement technique, approuvé par le comité national des vins et eaux-de-vie de l'Institut national des appellations d'origine, après avis de la commission technique, précise les conditions de conduite de la fermentation, et notamment les modalités :
+Un règlement technique, approuvé par le comité national des vins et eaux-de-vie de l'Institut national de l'origine et de la qualité, après avis de la commission technique, précise les conditions de conduite de la fermentation, et notamment les modalités :
 
 - d'un complément azoté et phosphaté qui peut être apporté lors de la fermentation ;
 

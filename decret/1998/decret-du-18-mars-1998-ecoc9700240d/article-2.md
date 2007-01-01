@@ -34,7 +34,9 @@ Arbin : Arbin, Cruet, Montmélian.
 
 Ayze : Ayze, Bonneville, Marignier.
 
-Chautagne : Chindrieux, Motz, Ruffieux, Serrières-en-Chautagne.
+Chautagne : Chindrieux, Motz, Ruffieux,
+
+Serrières-en-Chautagne.
 
 Chignin : Chignin.
 
@@ -70,8 +72,8 @@ D. - Appellation "Vin de Savoie" suivie d'un nom de cru (vins mousseux ou pétil
 
 Ayze : Ayze, Bonneville, Marignier.
 
-Les vins doivent être issus de vendanges récoltées dans l'aire de production délimitée par parcelles ou parties de parcelles telle qu'elle a été approuvée par le comité national des vins et eaux-de-vie de l'Institut national des appellations d'origine en séances des 24 et 25 février 1988, 7 et 8 novembre 1990, 27 et 28 février 2001, 26 et 27 février 2003, sur proposition de la commission d'experts désignée à cet effet.
+Les vins doivent être issus de vendanges récoltées dans l'aire de production délimitée par parcelles ou parties de parcelles telle qu'elle a été approuvée par le comité national des vins et eaux-de-vie de l'Institut national de l'origine et de la qualité en séances des 24 et 25 février 1988, 7 et 8 novembre 1990, 27 et 28 février 2001, 26 et 27 février 2003, sur proposition de la commission d'experts désignée à cet effet.
 
 Les plans de délimitation sont après report sur les plans cadastraux déposés en mairie des communes concernées.
 
-A titre transitoire, les parcelles plantées en vigne exclues de l'aire délimitée "Vin de Savoie" et identifiées par leurs références cadastrales, leurs surfaces et leurs encépagements peuvent continuer à bénéficier pour leurs récoltes, sous réserve qu'elles répondent aux autres conditions de production fixées par le présent décret, du droit à appellation d'origine contrôlée "Vin de Savoie" jusqu'à leur arrachage et au plus tard jusqu'à la récolte 2006 incluse ainsi que l'a approuvé le comité national des vins et eaux-de-vie de l'Institut national des appellations d'origine en séance des 7 et 8 novembre 1990.
+A titre transitoire, les parcelles plantées en vigne exclues de l'aire délimitée "Vin de Savoie" et identifiées par leurs références cadastrales, leurs surfaces et leurs encépagements peuvent continuer à bénéficier pour leurs récoltes, sous réserve qu'elles répondent aux autres conditions de production fixées par le présent décret, du droit à appellation d'origine contrôlée "Vin de Savoie" jusqu'à leur arrachage et au plus tard jusqu'à la récolte 2006 incluse ainsi que l'a approuvé le comité national des vins et eaux-de-vie de l'Institut national de l'origine et de la qualité en séance des 7 et 8 novembre 1990.

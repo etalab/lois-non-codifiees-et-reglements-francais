@@ -8,4 +8,4 @@ C'est un fromage à croûte sèche, à pâte ferme non cuite, contenant au minim
 
 Sa pâte est de couleur jaune et sa croûte de couleur blanchâtre et orangé clair devient brun ambré au cours de l'affinage.
 
-Un règlement d'application du présent décret homologué par arrêté du ministre chargé de l'agriculture et du ministre chargé de l'économie, pris sur proposition du comité national des produits laitiers de l'Institut national des appellations d'origine, précise les modalités d'application du présent décret.
+Un règlement d'application du présent décret homologué par arrêté du ministre chargé de l'agriculture et du ministre chargé de l'économie, pris sur proposition du comité national des produits laitiers de l'Institut national de l'origine et de la qualité, précise les modalités d'application du présent décret.

@@ -8,7 +8,7 @@ Toutefois, un délai de cinq ans de mise en conformité des troupeaux est ouvert
 
 Les brebis doivent être élevées traditionnellement avec une alimentation à base d'herbe, de fourrage et de céréales provenant au moins aux trois quarts, évalué en matière sèche, de l'aire géographique de production.
 
-Cette disposition pourra faire l'objet de mesures dérogatoires pour les périodes de sécheresse, aléas climatiques ou autres circonstances exceptionnelles reconnus par les services de l'Institut national des appellations d'origine après avis de la commission "agrément conditions de production".
+Cette disposition pourra faire l'objet de mesures dérogatoires pour les périodes de sécheresse, aléas climatiques ou autres circonstances exceptionnelles reconnus par les services de l'Institut national de l'origine et de la qualité après avis de la commission "agrément conditions de production".
 
 Un complément azoté est autorisé ;
 

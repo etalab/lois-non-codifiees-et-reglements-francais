@@ -4,4 +4,4 @@ Seuls ont droit à l'appellation contrôlée "Coteaux du Tricastin" les vins rou
 
 Allan, La Baume-de-Transit, Béconne, Chamaret, Chantemerie-lès-Grignan, Châteauneuf-du-Rhône, Clansayes, Colonselle, Donzère, Grignan, La Garde-Adhémar, Les Granges-Gontardes, Malataverne, Montségur-sur-Lauzon, Réauville, La Roche-Saint-Secret, Roussas, Salles-sous-Bois, Saint-Paul-Trois-Châteaux, Saint-Restitut, Solérieux, Valaurie.
 
-Des experts, désignés par le comité directeur de l'institut national des appellations d'origine des vins et eaux-de-vie, délimitent l'aire dé production ainsi définie et en reportent les limites sur le plan cadastral de ces communes. Les plans établis par leurs soins sont, après approbation par l'institut national des appellations d'origine, déposés à la mairie des communes intéressées.
+Des experts, désignés par le comité directeur de l'Institut national de l'origine et de la qualité, délimitent l'aire dé production ainsi définie et en reportent les limites sur le plan cadastral de ces communes. Les plans établis par leurs soins sont, après approbation par l'Institut national de l'origine et de la qualité, déposés à la mairie des communes intéressées.

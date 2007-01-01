@@ -2,9 +2,9 @@
 
 Les huiles doivent provenir d'olives récoltées à bonne maturité.
 
-La date d'ouverture de la récolte est fixée par arrêté préfectoral sur proposition des services de l'Institut national des appellations d'origine après avis de l'organisme chargé de la défense de l'appellation d'origine contrôlée.
+La date d'ouverture de la récolte est fixée par arrêté préfectoral sur proposition des services de l'Institut national de l'origine et de la qualité après avis de l'organisme chargé de la défense de l'appellation d'origine contrôlée.
 
-Toutefois, en cas de conditions climatiques exceptionnelles et sur demande individuelle, les services de l'Institut national des appellations d'origine peuvent prévoir des dérogations.
+Toutefois, en cas de conditions climatiques exceptionnelles et sur demande individuelle, les services de l'Institut national de l'origine et de la qualité peuvent prévoir des dérogations.
 
 Les olives doivent être récoltées directement sur l'arbre ou sur des filets tendus pendant la période de récolte, à condition que les olives soient retirées dans les trois jours qui suivent leur chute au plus tard.
 

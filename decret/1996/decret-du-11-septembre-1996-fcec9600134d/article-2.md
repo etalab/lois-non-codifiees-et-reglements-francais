@@ -1,6 +1,6 @@
 # Article 2
 
-Les exploitations visées à l'article 1er doivent souscrire auprès des services de l'Institut national des appellations d'origine et avant le 30 septembre de l'année de la récolte une déclaration de récolte comportant :
+Les exploitations visées à l'article 1er doivent souscrire auprès des services de l'Institut national de l'origine et de la qualité et avant le 30 septembre de l'année de la récolte une déclaration de récolte comportant :
 
 - les surfaces récoltées ;
 
@@ -14,4 +14,4 @@ Les exploitations visées à l'article 1er doivent souscrire auprès des service
 
 - la date de récolte.
 
-Dans le cas d'une récolte postérieure au 30 septembre, la déclaration de récolte doit être envoyée auprès des services de l'Institut national des appellations d'origine dans les huit jours suivant la récolte.
+Dans le cas d'une récolte postérieure au 30 septembre, la déclaration de récolte doit être envoyée auprès des services de l'Institut national de l'origine et de la qualité dans les huit jours suivant la récolte.

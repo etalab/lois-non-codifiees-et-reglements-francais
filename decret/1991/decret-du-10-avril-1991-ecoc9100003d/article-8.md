@@ -2,7 +2,7 @@
 
 Tout élaborateur, producteur ou acheteur de fruits qui souhaite élaborer des apéritifs à base de cidre à appellation contrôlée "Pommeau de Normandie" doit détenir un compte d'entrepôt d'eau-de-vie bénéficiant de l'appellation contrôlée "Calvados".
 
-Il doit souscrire, avant le 1er octobre de chaque année, une déclaration d'intention d'élaboration sur un imprimé fourni par l'Institut national des appellations d'origine, qui sera retourné à cet organisme, accompagné de la fiche de verger ou de la fiche récapitulative de vergers prévues à l'article 7.
+Il doit souscrire, avant le 1er octobre de chaque année, une déclaration d'intention d'élaboration sur un imprimé fourni par l'Institut national de l'origine et de la qualité, qui sera retourné à cet organisme, accompagné de la fiche de verger ou de la fiche récapitulative de vergers prévues à l'article 7.
 
 Cette déclaration doit préciser notamment :
 

@@ -2,7 +2,7 @@
 
 Les huiles proviennent d'olives des variétés suivantes : Sabine (également dénommée Aliva Bianca, Biancaghja), Ghjermana, Capannace, Raspulada, Zinzala, Aliva Néra (également dénommée Ghjermana du Sud), Curtinese.
 
-Toutefois, les vergers plantés avant la date de publication du présent décret qui ne respectent pas les dispositions relatives aux variétés continuent à bénéficier pour leur récolte du droit à l'appellation d'origine contrôlée "Huile d'olive de Corse" ou "Huile d'olive de Corse - Oliu di Corsica", sous réserve que les exploitations concernées souscrivent auprès des services de l'INAO un échéancier individuel de reconversion de l'exploitation concernée.
+Toutefois, les vergers plantés avant la date de publication du présent décret qui ne respectent pas les dispositions relatives aux variétés continuent à bénéficier pour leur récolte du droit à l'appellation d'origine contrôlée "Huile d'olive de Corse" ou "Huile d'olive de Corse - Oliu di Corsica", sous réserve que les exploitations concernées souscrivent auprès des services de l'Institut national de l'origine et de la qualité un échéancier individuel de reconversion de l'exploitation concernée.
 
 Cet échéancier prévoit que les vergers produisant l'appellation soient mis en conformité avec les dispositions suivantes, qui fixent le pourcentage minimum des variétés citées au premier alinéa de l'article 4 :
 

@@ -6,4 +6,4 @@ Seules ont droit à l'appellation d'origine contrôlée "Barèges-Gavarnie" les 
 
 - de mâles castrés dits "doublons" âgés de plus de dix-huit mois ayant estivé au minimum deux fois. Au cours de leur deuxième estive, ils ne peuvent être abattus avant le 1er juillet.
 
-Un règlement technique d'application homologué par arrêté conjoint du ministre chargé de l'agriculture et du ministre chargé de la consommation, pris sur proposition du comité national des produits agroalimentaires de l'Institut national des appellations d'origine, précise les modalités d'application du présent décret.
+Un règlement technique d'application homologué par arrêté conjoint du ministre chargé de l'agriculture et du ministre chargé de la consommation, pris sur proposition du comité national des produits agroalimentaires de l'Institut national de l'origine et de la qualité, précise les modalités d'application du présent décret.

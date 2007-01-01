@@ -2,7 +2,7 @@
 
 Chaque fromage d'appellation d'origine contrôlée "Valençay" est commercialisé muni d'un étiquetage individuel devant comporter le nom de l'appellation d'origine, inscrit en caractères de dimensions au moins égales à 1,3 fois celles des caractères les plus grands figurant sur l'étiquetage, et la mention "Appellation d'origine contrôlée".
 
-L'apposition du logo comportant le sigle "INAO", la mention "Appellation d'origine contrôlée" et le nom de l'appellation sont obligatoires dans l'étiquetage des fromages bénéficiant de l'appellation d'origine contrôlée.
+L'apposition du logo comportant le sigle "INOQ", la mention "Appellation d'origine contrôlée" et le nom de l'appellation sont obligatoires dans l'étiquetage des fromages bénéficiant de l'appellation d'origine contrôlée.
 
 Le nom de "Valençay" suivi de la mention "Appellation d'origine contrôlée" doit obligatoirement apparaître sur les factures et papiers de commerce.
 
@@ -18,8 +18,8 @@ L'emploi de tout autre qualificatif ou de toute autre mention accompagnant le no
 
 - de la mention "Produit du Berry" dans des caractères dont les dimensions ne dépassent pas le tiers de celles de la dénomination "Valençay".
 
-En outre, tout fromage commercialisé sous le nom de l'appellation d'origine contrôlée doit comporter, du producteur jusqu'au distributeur final, un signe d'identification permettant de connaître l'atelier. Ces signes sont détenus par le syndicat de défense de l'appellation ayant passé une convention avec l'Institut national des appellations d'origine, conformément à l'article 3 du décret du 15 novembre 1993 susmentionné.
+En outre, tout fromage commercialisé sous le nom de l'appellation d'origine contrôlée doit comporter, du producteur jusqu'au distributeur final, un signe d'identification permettant de connaître l'atelier. Ces signes sont détenus par le syndicat de défense de l'appellation ayant passé une convention avec l'Institut national de l'origine et de la qualité, conformément à l'article 3 du décret du 15 novembre 1993 susmentionné.
 
-Ils sont distribués à tout fabricant ayant présenté une déclaration d'aptitude auprès de l'Institut national des appellations d'origine proportionnellement aux quantités de lait conformes à l'appellation d'origine contrôlée.
+Ils sont distribués à tout fabricant ayant présenté une déclaration d'aptitude auprès de l'Institut national de l'origine et de la qualité proportionnellement aux quantités de lait conformes à l'appellation d'origine contrôlée.
 
-Ils sont retirés au fabricant en cas d'invalidation de sa déclaration d'aptitude ou de suspension de l'usage de l'appellation d'origine contrôlée notifiée par l'Institut national des appellations d'origine.
+Ils sont retirés au fabricant en cas d'invalidation de sa déclaration d'aptitude ou de suspension de l'usage de l'appellation d'origine contrôlée notifiée par l'Institut national de l'origine et de la qualité.

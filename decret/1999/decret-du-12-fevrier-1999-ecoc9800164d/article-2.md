@@ -18,6 +18,6 @@ Département de Vaucluse.
 
 Beaumes-de-Venise, Bédarrides, Bollène, Buisson, Cairanne, Camaret-sur-Aigues, Caumont-sur-Durance, Châteauneuf-de-Gadagne, Courthézon, Faucon, Grillon, Jonquières, La Roque-Alric, Lafare, Lagarde-Paréol, Mondragon, Morières-lès-Avignon, Orange, Piolenc, Puyméras, Rasteau, Richerenches, Roaix, Sablet, Saint-Marcellin-lès-Vaison, Saint-Romain-en-Viennois, Saint-Roman-de-Malegarde, Saint-Saturnin-lès-Avignon, Sainte-Cécile-les-Vignes, Séguret, Sérignan-du-Comtat, Sorgues, Suzette, Travaillan, Uchaux, Vaison-la-Romaine, Valréas, Vedène, Villedieu, Violès, Visan.
 
-Pour avoir droit à l'appellation d'origine contrôlée "Côtes du Rhône Villages", les vins doivent être issus de vendanges récoltées dans l'aire de production délimitée par parcelles, ou parties de parcelles, telle qu'approuvée par le comité national des vins et eaux de vie de l'Institut national des appellations d'origine sur proposition des commissions d'experts désignées à cet effet.
+Pour avoir droit à l'appellation d'origine contrôlée "Côtes du Rhône Villages", les vins doivent être issus de vendanges récoltées dans l'aire de production délimitée par parcelles, ou parties de parcelles, telle qu'approuvée par le comité national des vins et eaux de vie de l'Institut national de l'origine et de la qualité sur proposition des commissions d'experts désignées à cet effet.
 
 Les plans de délimitation sont, après report sur des plans cadastraux, déposés à la mairie des communes intéressées.

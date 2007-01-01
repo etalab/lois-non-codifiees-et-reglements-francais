@@ -8,4 +8,4 @@ La durée de conservation en bouteilles sur lies ne peut être inférieure à ne
 
 Les vins ayant droit aux appellations susvisées bénéficient de toutes les pratiques oenologiques actuellement autorisées par les lois et règlements en vigueur.
 
-Ces vins ne peuvent être mis en circulation avec l'appellation d'origine sans un certificat délivré par l'Institut national des appellations d'origine dans les conditions prévues par le décret n° 2001-1163 du 7 décembre 2001.
+Ces vins ne peuvent être mis en circulation avec l'appellation d'origine sans un certificat délivré par l'Institut national de l'origine et de la qualité dans les conditions prévues par le décret n° 2001-1163 du 7 décembre 2001.

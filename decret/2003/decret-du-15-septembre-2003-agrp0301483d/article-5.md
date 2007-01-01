@@ -22,7 +22,7 @@ Pendant la période d'estive, seule la pâture est autorisée.
 
 Les fourrages fermentés partiellement ou en totalité tels que l'ensilage ou l'enrubannage sont interdits sur l'exploitation.
 
-Toutefois, les exploitations qui élèvent un troupeau de bovins totalement séparé du troupeau ovin peuvent distribuer ce type d'aliment aux bovins sur autorisation annuelle accordée par les services de l'Institut national des appellations d'origine après avis de la commission "conditions de production".
+Toutefois, les exploitations qui élèvent un troupeau de bovins totalement séparé du troupeau ovin peuvent distribuer ce type d'aliment aux bovins sur autorisation annuelle accordée par les services de l'Institut national de l'origine et de la qualité après avis de la commission "conditions de production".
 
 L'apport de chlorure de sodium est autorisé sous différentes formes suivant les périodes.
 

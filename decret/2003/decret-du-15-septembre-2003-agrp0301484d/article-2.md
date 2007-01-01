@@ -1,6 +1,6 @@
 # Article 2
 
-La déclaration d'aptitude comporte l'engagement pour l'opérateur de respecter les conditions de production fixées dans le décret du 15 septembre 2003 susvisé. Elle est enregistrée par les services de l'Institut national des appellations d'origine contrôlées.
+La déclaration d'aptitude comporte l'engagement pour l'opérateur de respecter les conditions de production fixées dans le décret du 15 septembre 2003 susvisé. Elle est enregistrée par les services de l'Institut national de l'origine et de la qualité contrôlées.
 
 Toute modification intervenant dans la structure ou le statut de l'opérateur doit être notifiée aux services dudit institut et doit faire l'objet du dépôt d'une nouvelle déclaration d'aptitude.
 

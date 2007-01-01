@@ -6,4 +6,4 @@ La densité de peuplement doit permettre d'assurer une bonne homogénéité de m
 
 L'irrigation est interdite.
 
-Cependant, en cas de sécheresse persistante et sur demande de la commission "conditions de production" prévue par le décret relatif à l'agrément des haricots pouvant bénéficier de l'appellation d'origine contrôlée "Coco de Paimpol", les services de l'Institut national des appellations d'origine peuvent autoriser l'arrosage.
+Cependant, en cas de sécheresse persistante et sur demande de la commission "conditions de production" prévue par le décret relatif à l'agrément des haricots pouvant bénéficier de l'appellation d'origine contrôlée "Coco de Paimpol", les services de l'Institut national de l'origine et de la qualité peuvent autoriser l'arrosage.

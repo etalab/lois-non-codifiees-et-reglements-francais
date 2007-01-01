@@ -20,7 +20,7 @@ Les vignes produisant les vins à appellation d'origine contrôlée "Anjou" ou "
 
 La densité minimale de plantation est abaissé à 3 300 pieds à l'hectare pour les vignes palissées dont la hauteur de feuillage correspond à 0,6 fois l'écartement entre les rangs. Le niveau inférieur du feuillage est mesuré à partir d'une hauteur minimum de 40 centimètres au-dessus du sol ; le niveau supérieur est mesuré à la hauteur de rognage.
 
-Pour bénéficier des dispositions de l'alinéa ci-dessus, les exploitants des vignes concernées doivent les faire identifier auprès des services de l'Institut national des appellations d'origine au plus tard avant le 30 juin de l'année qui suit la parution du présent décret. Dans le cas de nouvelles plantations, cette demande d'identification doit être effectuée au plus tard le 31 août qui suit la plantation.
+Pour bénéficier des dispositions de l'alinéa ci-dessus, les exploitants des vignes concernées doivent les faire identifier auprès des services de l'Institut national de l'origine et de la qualité au plus tard avant le 30 juin de l'année qui suit la parution du présent décret. Dans le cas de nouvelles plantations, cette demande d'identification doit être effectuée au plus tard le 31 août qui suit la plantation.
 
 Toutefois, les vignes plantées avant la date de parution du présent décret qui :
 
@@ -28,4 +28,4 @@ Toutefois, les vignes plantées avant la date de parution du présent décret qu
 
 - ne respectent pas la distance minimale entre ceps sur le rang, mais dont la densité de plantation est d'au moins 4 000 ceps à l'hectare et dont la hauteur de feuillage est au moins égale à 0,6 fois l'écartement entre rangs, peuvent produire des vins à appellation d'origine contrôlée "Anjou" ou "Rosé d'Anjou" jusqu'à leur arrachage, et au plus tard vingt-cinq ans après la date de parution du présent décret.
 
-Pour bénéficier des dispositions de l'alinéa ci-dessus, les exploitants des vignes concernées doivent les faire identifier auprès des services de l'Institut national des appellations d'origine au plus tard avant le 30 juin de l'année qui suit la parution du présent décret. Les listes des parcelles concernées sont approuvées par le comité national des vins et eaux-de-vie.
+Pour bénéficier des dispositions de l'alinéa ci-dessus, les exploitants des vignes concernées doivent les faire identifier auprès des services de l'Institut national de l'origine et de la qualité au plus tard avant le 30 juin de l'année qui suit la parution du présent décret. Les listes des parcelles concernées sont approuvées par le comité national des vins et eaux-de-vie.

@@ -14,6 +14,6 @@ La distillation doit se faire en colonnes à fonctionnement continu utilisées t
 
 - rétrogradation : réalisée par un ou plusieurs chauffe-vins ou condenseurs à eau en cuivre.
 
-Les colonnes doivent être agréées par le comité national des vins et eaux-de-vie de l'Institut national des appellations d'origine, après avis d'une commission d'experts. Cette commission est désignée par le comité national des vins et eaux-de-vie, sur proposition du Syndicat de défense du rhum agricole de la Martinique.
+Les colonnes doivent être agréées par le comité national des vins et eaux-de-vie de l'Institut national de l'origine et de la qualité, après avis d'une commission d'experts. Cette commission est désignée par le comité national des vins et eaux-de-vie, sur proposition du Syndicat de défense du rhum agricole de la Martinique.
 
 La rectification est interdite. En conséquence, lorsque les colonnes, conformes aux dispositions ci-dessus, ont des éléments de rectification, ceux-ci doivent être rendus inutilisables par plombage, réalisé par la direction générale des douanes et droits indirects, avant la mise en route et jusqu'à la fin de chaque campagne.

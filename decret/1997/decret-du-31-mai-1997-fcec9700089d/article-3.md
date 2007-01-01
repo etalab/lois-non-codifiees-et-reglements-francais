@@ -2,7 +2,7 @@
 
 Déclaration de récolte.
 
-Les exploitations visées à l'article 2 doivent souscrire auprès de l'INAO une déclaration de récolte avant le 15 octobre de chaque année comportant :
+Les exploitations visées à l'article 2 doivent souscrire auprès de l'Institut national de l'origine et de la qualité une déclaration de récolte avant le 15 octobre de chaque année comportant :
 
 - la surface des prairies produisant l'AOC revendiquée ;
 

@@ -1,6 +1,6 @@
 # Article 7
 
-Les raisins provenant d'une exploitation dont la déclaration d'aptitude n'a pas été invalidée font l'objet, périodiquement, d'examens analytique et organoleptique organisés sous la responsabilité de l'Institut national des appellations d'origine par l'organisme agréé visé à l'article 6 ci-dessus.
+Les raisins provenant d'une exploitation dont la déclaration d'aptitude n'a pas été invalidée font l'objet, périodiquement, d'examens analytique et organoleptique organisés sous la responsabilité de l'Institut national de l'origine et de la qualité par l'organisme agréé visé à l'article 6 ci-dessus.
 
 Ces examens portent sur des lots échantillonnés.
 

@@ -6,4 +6,4 @@ Ne peut être considéré comme étant à bonne maturité tout lot unitaire de v
 
 En outre, lorsque l'autorisation d'enrichissement est accordée, les vins ne doivent pas dépasser un titre alcoométrique total de 13,5 %.
 
-Les limites visées aux alinéas ci-dessus peuvent être modifiées, lorsque les conditions climatiques le justifient, par arrêté conjoint du ministre chargé de l'économie, du ministre chargé du budget et du ministre chargé de l'agriculture, sur proposition de l'Institut national des appellations d'origine, après avis des syndicats de producteurs intéressés.
+Les limites visées aux alinéas ci-dessus peuvent être modifiées, lorsque les conditions climatiques le justifient, par arrêté conjoint du ministre chargé de l'économie, du ministre chargé du budget et du ministre chargé de l'agriculture, sur proposition de l'Institut national de l'origine et de la qualité, après avis des syndicats de producteurs intéressés.

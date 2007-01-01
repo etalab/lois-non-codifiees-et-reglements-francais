@@ -6,4 +6,4 @@ Ne peut être considéré comme étant à bonne maturité tout lot unitaire de v
 
 En outre, lorsque l'autorisation d'enrichissement a été accordée, les vins ne doivent pas dépasser un titre alcoométrique volumique total maximum de 12,5 %, sous peine de perdre le droit à cette appellation.
 
-Toutefois, le bénéfice de l'appellation d'origine contrôlée "Coteaux du Giennois" peut être accordé aux vins d'un titre alcoométrique volumique total supérieur aux limites susvisées et élaborés sans aucun enrichissement si le déclarant justifie d'un certificat délivré par l'Institut national des appellations d'origine après enquête effectuée sur sa demande présentée avant la vendange des vignes concernées.
+Toutefois, le bénéfice de l'appellation d'origine contrôlée "Coteaux du Giennois" peut être accordé aux vins d'un titre alcoométrique volumique total supérieur aux limites susvisées et élaborés sans aucun enrichissement si le déclarant justifie d'un certificat délivré par l'Institut national de l'origine et de la qualité après enquête effectuée sur sa demande présentée avant la vendange des vignes concernées.

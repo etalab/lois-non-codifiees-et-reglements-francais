@@ -14,6 +14,6 @@ La distance entre les souches sur le rang est au minimum de 0,80 mètre. Cette m
 
 Les parcelles de vignes plantées avant la parution du présent décret et non conformes au niveau densité pourront bénéficier de l'appellation "Vin de Savoie" jusqu'à leur arrachage et au plus tard jusqu'à la récolte 2020 incluse.
 
-Une commission dite "Contrôle des vignes et du rendement", désignée par le comité national des vins et eaux de vie de l'Institut national des appellations d'origine sur proposition du syndicat de défense de l'appellation, examine chaque parcelle ou partie de parcelle susceptible de produire des vins à appellation d'origine contrôlée. Cette commission estime le rendement de chaque parcelle et constate l'impossibilité de produire l'appellation pour les vignes dont le rendement est jugé trop élevé au regard du rendement butoir fixé pour l'appellation considérée.
+Une commission dite "Contrôle des vignes et du rendement", désignée par le comité national des vins et eaux de vie de l'Institut national de l'origine et de la qualité sur proposition du syndicat de défense de l'appellation, examine chaque parcelle ou partie de parcelle susceptible de produire des vins à appellation d'origine contrôlée. Cette commission estime le rendement de chaque parcelle et constate l'impossibilité de produire l'appellation pour les vignes dont le rendement est jugé trop élevé au regard du rendement butoir fixé pour l'appellation considérée.
 
 Un règlement intérieur approuvé par ce comité national fixe les modalités de fonctionnement de cette commission.

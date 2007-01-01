@@ -22,7 +22,7 @@ Les chèvres pâturent :
 
 Les pratiques de conduite du troupeau, la liste des aliments interdits, notamment les aliments qui peuvent influer défavorablement sur l'odeur, le goût du lait ou qui présentent des risques de contamination bactériologique et la composition des aliments complémentaires ainsi que leur proportion dans la ration journalière répondent aux conditions fixées dans le règlement technique d'application.
 
-Dans des circonstances exceptionnelles dues, notamment, à des aléas climatiques imprévisibles, des dérogations temporaires peuvent être accordées, afin d'assurer le maintien de l'alimentation du troupeau, par les services de l'Institut national des appellations d'origine après avis de la commission "Agrément conditions de production".
+Dans des circonstances exceptionnelles dues, notamment, à des aléas climatiques imprévisibles, des dérogations temporaires peuvent être accordées, afin d'assurer le maintien de l'alimentation du troupeau, par les services de l'Institut national de l'origine et de la qualité après avis de la commission "Agrément conditions de production".
 
 Le chargement animal.
 

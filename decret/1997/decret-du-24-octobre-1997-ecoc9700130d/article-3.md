@@ -22,7 +22,7 @@ Aurel, Lagarde-d'Apt, Monieux, Rustrel, Saint-Christol, Saint-Saturnin-d'Apt, Sa
 
 A l'intérieur de ces communes, seules les plantations situées à une altitude minimale de 800 mètres peuvent bénéficier de l'appellation d'origine contrôlée.
 
-Des dérogations à la limite altitudinale minimale de 800 mètres peuvent être accordées par le comité national des produits agroalimentaires de l'Institut national des appellations d'origine (INAO), après avis d'une commission d'experts désignée à cet effet par ledit comité.
+Des dérogations à la limite altitudinale minimale de 800 mètres peuvent être accordées par le comité national des produits agroalimentaires de l'Institut national de l'origine et de la qualité, après avis d'une commission d'experts désignée à cet effet par ledit comité.
 
 b) Aux communes suivantes :
 

@@ -6,7 +6,7 @@ La part des aliments issus de l'aire géographique de production susvisée ne pe
 
 A partir du 1er janvier 2005, la ration de base, hors coproduits agricoles, est issue de l'aire géographique de production susvisée.
 
-Dans des circonstances exceptionnelles dues, notamment, à des aléas climatiques, une dérogation temporaire peut être accordée par les services de l'INAO, après avis de la commission "agrément conditions de production".
+Dans des circonstances exceptionnelles dues, notamment, à des aléas climatiques, une dérogation temporaire peut être accordée par les services de l'Institut national de l'origine et de la qualité, après avis de la commission "agrément conditions de production".
 
 La part des compléments dans l'alimentation est inférieure à 30 % de la ration totale, calculée sur la matière sèche.
 

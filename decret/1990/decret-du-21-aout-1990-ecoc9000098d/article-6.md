@@ -4,7 +4,7 @@ La dénomination "Vin destiné à l'élaboration de Crémant de Limoux" est rés
 
 Les raisins doivent être mis entiers dans le pressoir. Ils ne doivent être ni écrasés ni égrenés.
 
-A compter de la campagne 2007-2008, les installations de pressurage doivent être agréées par le comité national des vins et eaux-de-vie de l'Institut national des appellations d'origine.
+A compter de la campagne 2007-2008, les installations de pressurage doivent être agréées par le comité national des vins et eaux-de-vie de l'Institut national de l'origine et de la qualité.
 
 Cet agrément, qui est donné après avis d'une commission d'experts désignés par ledit comité national, atteste de la conformité de l'installation de pressurage avec les normes qualitatives fixées dans le cahier des charges approuvé par le comité national des vins et eaux-de-vie.
 

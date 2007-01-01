@@ -14,7 +14,7 @@ L'irrigation est autorisée pendant la période de végétation du noyer jusqu'a
 
 - en cas d'irrigation, seules les noix issues de parcelles déclarées irriguées peuvent prétendre à l'appellation.
 
-Toutefois, en cas de conditions climatiques exceptionnelles, la date limite d'irrigation peut être repoussée par arrêté du ministre de l'économie et des finances et du ministre de l'agriculture, pris sur proposition du comité national des produits agroalimentaires de l'Institut national des appellations d'origine après avis du syndicat de défense intéressé.
+Toutefois, en cas de conditions climatiques exceptionnelles, la date limite d'irrigation peut être repoussée par arrêté du ministre de l'économie et des finances et du ministre de l'agriculture, pris sur proposition du comité national des produits agroalimentaires de l'Institut national de l'origine et de la qualité après avis du syndicat de défense intéressé.
 
 A l'intérieur de chaque verger, l'implantation de noyers de variétés pollinisatrices est admise lorsqu'ils sont répartis au sein du verger et sans que leur nombre n'excède 8 arbres par hectare.
 

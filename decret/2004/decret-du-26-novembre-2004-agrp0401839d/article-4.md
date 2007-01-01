@@ -14,7 +14,7 @@ La hauteur de feuillage minimum correspond à 0,5 fois l'écartement entre les r
 
 Les dispositions relatives à l'écartement entre les rangs et à la hauteur de feuillage ne s'appliquent pas aux vignes plantées en terrasse.
 
-Toutefois, les vignes plantées avant la parution du présent décret, dont la densité de plantation est au minimum de 3500 pieds par hectare, qui ne respectent pas les dispositions relatives à la densité de plantation et celles relatives aux écartements entre les rangs et entre les pieds continuent à bénéficier pour leur récolte du droit à l'appellation d'origine contrôlée "Gaillac" jusqu'à leur arrachage et au plus tard jusqu'à la récolte 2027 incluse, sous réserve que les exploitations concernées souscrivent auprès des services de l'Institut national des appellations d'origine un échéancier individuel de reconversion des vignes concernées. Cet échéancier doit prévoir que :
+Toutefois, les vignes plantées avant la parution du présent décret, dont la densité de plantation est au minimum de 3500 pieds par hectare, qui ne respectent pas les dispositions relatives à la densité de plantation et celles relatives aux écartements entre les rangs et entre les pieds continuent à bénéficier pour leur récolte du droit à l'appellation d'origine contrôlée "Gaillac" jusqu'à leur arrachage et au plus tard jusqu'à la récolte 2027 incluse, sous réserve que les exploitations concernées souscrivent auprès des services de l'Institut national de l'origine et de la qualité un échéancier individuel de reconversion des vignes concernées. Cet échéancier doit prévoir que :
 
 30 % des vignes concernées par la dérogation sont mises en conformité avec les dispositions du présent décret pour la récolte 2017 ;
 

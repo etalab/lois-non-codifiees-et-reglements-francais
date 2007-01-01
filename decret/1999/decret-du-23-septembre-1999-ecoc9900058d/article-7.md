@@ -6,7 +6,7 @@ La récolte se répartit en trois coupes. La première coupe doit être réalis�
 
 Le délai entre chaque coupe doit être de quarante jours minimum à soixante-dix jours maximum.
 
-Les trois coupes doivent être achevées respectivement avant le 31 mai, avant le 25 juillet, avant le 30 septembre, sauf dérogation particulière donnée par les services de l'INAO.
+Les trois coupes doivent être achevées respectivement avant le 31 mai, avant le 25 juillet, avant le 30 septembre, sauf dérogation particulière donnée par les services de l'Institut national de l'origine et de la qualité.
 
 Toute la production susceptible d'être revendiquée en appellation d'origine contrôlée "Foin de Crau" doit être bottelée avec la seule ficelle bicolore composée de brin blanc et rouge que l'organisme chargé de la défense de l'appellation est seul habilité à diffuser.
 

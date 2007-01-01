@@ -6,7 +6,7 @@ Pour les vergers hautes tiges : 15 tonnes à l'hectare ;
 
 Pour les vergers basses tiges : 30 tonnes à l'hectare.
 
-Ces rendements peuvent être modifiés pour une récolte déterminée, par arrêté conjoint du ministre chargé de l'agriculture et du ministre chargé de l'économie et des finances, pris sur proposition du Comité national des vins et eaux de vie de l'Institut national des appellations d'origine, après avis d'une commission de cinq membres nommée par ledit comité, sur proposition du syndicat de défense de l'appellation contrôlée "Pommeau de Normandie".
+Ces rendements peuvent être modifiés pour une récolte déterminée, par arrêté conjoint du ministre chargé de l'agriculture et du ministre chargé de l'économie et des finances, pris sur proposition du Comité national des vins et eaux de vie de l'Institut national de l'origine et de la qualité, après avis d'une commission de cinq membres nommée par ledit comité, sur proposition du syndicat de défense de l'appellation contrôlée "Pommeau de Normandie".
 
 En fonction des conditions climatiques, des rendements différents pourront être fixés pour chacune des régions définies à l'article 1er du décret du 11 septembre 1984 susvisé relatif à l'appellation contrôlée "Calvados".
 

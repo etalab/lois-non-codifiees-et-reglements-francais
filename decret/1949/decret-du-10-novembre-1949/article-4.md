@@ -12,6 +12,6 @@ Toute opération d'enrichissement autre que le mutage et les compléments de mut
 
 Les vendanges des jeunes vignes ne pourront servir à l'élaboration du vin à appellation contrôlée "Muscat de Saint-Jean-de-Minervois" qu'à partir de la quatrième feuille du greffon (celle-ci comprise) après greffage sur place ou après mise en place des racinés-greffés.
 
-Un ban des vendanges, fixé par arrêté préfectoral sur proposition de l'Institut national des appellations d'origine et après avis du syndicat des producteurs de Saint-Jean-de-Minervois, détermine le début de la vendange.
+Un ban des vendanges, fixé par arrêté préfectoral sur proposition de l'Institut national de l'origine et de la qualité et après avis du syndicat des producteurs de Saint-Jean-de-Minervois, détermine le début de la vendange.
 
-Toutefois, des dérogations individuelles à l'exigence relative à la date fixée par l'arrêté précité peuvent être accordées par l'Institut national des appellations d'origine après constat de la maturité des vignes en cause.
+Toutefois, des dérogations individuelles à l'exigence relative à la date fixée par l'arrêté précité peuvent être accordées par l'Institut national de l'origine et de la qualité après constat de la maturité des vignes en cause.

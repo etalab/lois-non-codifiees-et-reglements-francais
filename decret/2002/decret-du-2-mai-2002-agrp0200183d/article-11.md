@@ -2,7 +2,7 @@
 
 L'étiquetage sur les emballages unitaires comporte dans le même champ visuel et sur le devant de l'emballage :
 
-- le système de marquage agréé par les services de l'Institut national des appellations d'origine et distribué par l'organisme agréé ;
+- le système de marquage agréé par les services de l'Institut national de l'origine et de la qualité et distribué par l'organisme agréé ;
 
 - le nom de l'appellation d'origine "Noix du Périgord" inscrit en caractères de dimension au moins égale à celle des caractères les plus grands ;
 

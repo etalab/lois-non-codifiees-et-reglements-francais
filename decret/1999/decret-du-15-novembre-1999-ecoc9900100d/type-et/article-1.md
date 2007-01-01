@@ -6,4 +6,4 @@ Le fromage bénéficiant de l'appellation d'origine contrôlée "Reblochon" ou "
 
 Toutefois, bénéficie également de l'appellation d'origine contrôlée le fromage qui présente les mêmes caractéristiques mais de format réduit (diamètre de 9 centimètres environ, hauteur de 3 centimètres environ, poids compris entre 240 et 280 grammes) et dénommé dans ce cas "Petit Reblochon" ou "Petit Reblochon de Savoie".
 
-Un règlement intérieur approuvé par le comité national des produits laitiers de l'Institut national des appellations d'origine fixe en tant que de besoin les modalités d'application du présent décret.
+Un règlement intérieur approuvé par le comité national des produits laitiers de l'Institut national de l'origine et de la qualité fixe en tant que de besoin les modalités d'application du présent décret.

@@ -1,3 +1,3 @@
 # Article 9
 
-Les vins ne peuvent être mis en circulation avec l'appellation d'origine contrôlée "Coteaux du Languedoc", complétée ou non par l'un des noms prévus à l'article 2 du présent décret, sans un certificat d'agrément délivré par l'INAO dans les conditions prévues aux articles D. 641-94 à D. 641-98 du code rural.
+L'irrigation, en application de la réglementation générale en vigueur, pendant la période de végétation de la vigne ne peut être autorisée que sur proposition de l'Institut national de l'origine et de la qualité et à la demande du syndicat de défense de l'appellation.

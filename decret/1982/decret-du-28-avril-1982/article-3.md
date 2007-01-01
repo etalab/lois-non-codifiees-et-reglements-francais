@@ -12,7 +12,7 @@ b) Toutefois, les vignes en place avant le 26 février 2005 qui ne respectent pa
 
 - jusqu'à la récolte 2020 incluse pour celles qui présentent une densité de plantation supérieure ou égale à 2300 pieds et inférieure à 3000 pieds à l'hectare.
 
-Cette tolérance est accordée sous réserve que les exploitations concernées souscrivent auprès des services de l'Institut national des appellations d'origine un échéancier individuel prévoyant au moins qu'à compter de la récolte 2012, l'exploitation en cause dispose d'une superficie de vignes respectant les dispositions du point a du présent paragraphe, et identifiée dans les conditions prévues à l'article 1 bis du présent décret, au moins égale à celle revendiquée en AOC "Saussignac".
+Cette tolérance est accordée sous réserve que les exploitations concernées souscrivent auprès des services de l'Institut national de l'origine et de la qualité un échéancier individuel prévoyant au moins qu'à compter de la récolte 2012, l'exploitation en cause dispose d'une superficie de vignes respectant les dispositions du point a du présent paragraphe, et identifiée dans les conditions prévues à l'article 1 bis du présent décret, au moins égale à celle revendiquée en AOC "Saussignac".
 
 2. Taille :
 

@@ -1,11 +1,13 @@
 # Article 3
 
-Une commission d'expertise sera désignée par le comité directeur du comité national des appellations d'origine, avec les missions suivantes :
+Pour avoir droit aux appellations d'origine contrôlées "Bourgueil" et "Saint-Nicolas-de-Bourgueil", les vins doivent provenir de raisins récoltés à bonne maturité et présenter un titre alcoométrique volumique naturel minimum de 9,5 %.
 
-1° Déterminer à l'intérieur du territoire précisé à l'article 1er constituant la Bourgogne viticole quelles sont les communes, parties de communes ou parcelles qui complantées en cépages fins sont aptes à produire du vin à appellation contrôlée "Bourgogne" en raison des usages locaux, loyaux et constants ;
+Ne peut être considéré comme étant à bonne maturité tout lot unitaire de vendange présentant une richesse en sucre inférieure à 153 grammes par litre de moût.
 
-2° Délimiter les communes, parties de communes ou parcelles qui, situées sur alluvions modernes, doivent être éliminées de l'aire de production de ces mêmes vins ;
+En outre, lorsque l'autorisation d'enrichissement par sucrage à sec est accordée, les vins ne doivent pas dépasser un titre alcoométrique volumique total maximum de 13 % sous peine de perdre le droit à l'appellation considérée.
 
-3° Rechercher quelles sont, à l'intérieur du département de la Saône-et-Loire et de l'arrondissement de Villefranche dans le Rhône, les régions, communes ou parties de communes et parcelles qui, en raison de la nature de leur sol et des usages locaux, loyaux et constants, peuvent produire du vin ayant droit à l'appellation contrôlée "Bourgogne" sans aucune adjonction et provenant du cépage gamay noir à jus blanc ;
+Toutefois, le bénéfice de l'une ou de l'autre des appellations susvisées peut être accordé aux vins d'un titre alcoométrique volumique total supérieur à la limite susvisée et élaborés sans aucun enrichissement si le déclarant justifie d'un certificat délivré par l'Institut national de l'origine et de la qualité après enquête effectuée sur sa demande présentée avant la vendange des vignes concernées.
 
-4° Reporter sur la plan cadastral des communes intéressées les limites des diverses régions ci-dessus précisées. Le rapport de la commission devra être remis au comité national avant le 15 septembre 1938 ainsi que le tracé ci-dessus indiqué. Ces plans seront, après approbation du comité national, déposés dans les mairies des communes intéressées avant le 15 septembre 1938.
+Les notifications des dérogations visées à l'alinéa précédent doivent être adressées aux services locaux de la direction générale des impôts et de la direction de la consommation et de la répression des fraudes.
+
+Les limites visées aux alinéas ci-dessus peuvent être modifiées lorsque les conditions climatiques le justifieront par arrêté conjoint du ministre de l'agriculture et du ministre chargé de la consommation, sur proposition de l'Institut national de l'origine et de la qualité, après avis des syndicats de producteurs intéressés.

@@ -14,7 +14,7 @@ Jusqu'à la période dite de "finition", les animaux pâturent au moins du 15 ma
 
 Durant cette période, ils tirent l'essentiel de leur alimentation du pâturage.
 
-En cas de conditions climatiques exceptionnelles, des dérogations à la durée minimale obligatoire de pâturage peuvent être accordées par les services de l'Institut national des appellations d'origine (INAO), après avis, le cas échéant, de la commission dénommée "commission des conditions de production" prévue à l'article 5 du décret relatif à l'agrément de l'appellation d'origine contrôlée "Maine-Anjou".
+En cas de conditions climatiques exceptionnelles, des dérogations à la durée minimale obligatoire de pâturage peuvent être accordées par les services de l'Institut national de l'origine et de la qualité, après avis, le cas échéant, de la commission dénommée "commission des conditions de production" prévue à l'article 5 du décret relatif à l'agrément de l'appellation d'origine contrôlée "Maine-Anjou".
 
 La finition des animaux s'étend au moins sur une période de deux mois avant l'abattage durant laquelle ils reçoivent une alimentation à base d'herbe fraîche et de foin et des compléments énergétiques et protéiques. Durant cette période, la distribution d'ensilage est interdite.
 

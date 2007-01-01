@@ -44,4 +44,4 @@ En ce cas, l'indication de la dénomination du cépage et de celle de l'année d
 
 3. Faire l'objet, après embouteillage, d'un contrôle particulier préalable à toute première mise en circulation en bouteilles.
 
-A partir de la récolte 1971, la procédure et les moyens de ce contrôle feront l'objet d'un règlement intérieur approuvé par l'Institut national des appellations d'origine sur la proposition du comité régional d'experts des vins d'Alsace, homologué par un arrêté du ministre de l'agriculture.
+A partir de la récolte 1971, la procédure et les moyens de ce contrôle feront l'objet d'un règlement intérieur approuvé par l'Institut national de l'origine et de la qualité sur la proposition du comité régional d'experts des vins d'Alsace, homologué par un arrêté du ministre de l'agriculture.

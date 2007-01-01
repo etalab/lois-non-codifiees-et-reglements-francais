@@ -14,7 +14,7 @@ La proportion d'olives véreuses doit être inférieure à 3 % des olives mises 
 
 Les conserveries doivent être situées dans l'aire de production telle que définie à l'article 2 du décret du 27 août 1997 susvisé relatif à l'appellation d'origine contrôlée "Huile d'olive de la vallée des Baux-de-Provence".
 
-Toutefois, des établissements situés dans les départements des Bouches-du-Rhône et de Vaucluse, compte tenu de la tradition et de l'antériorité, peuvent être autorisés, pendant une période transitoire de cinq ans à partir de la date de publication du présent décret, à préparer des "Olives cassées de la vallée des Baux-de-Provence". La liste en est fixée par arrêté du ministre chargé de l'économie et des finances et du ministre chargé de l'agriculture, pris sur proposition des services de l'Institut national des appellations d'origine.
+Toutefois, des établissements situés dans les départements des Bouches-du-Rhône et de Vaucluse, compte tenu de la tradition et de l'antériorité, peuvent être autorisés, pendant une période transitoire de cinq ans à partir de la date de publication du présent décret, à préparer des "Olives cassées de la vallée des Baux-de-Provence". La liste en est fixée par arrêté du ministre chargé de l'économie et des finances et du ministre chargé de l'agriculture, pris sur proposition des services de l'Institut national de l'origine et de la qualité.
 
 Les olives doivent être préparées selon l'une des méthodes suivantes :
 

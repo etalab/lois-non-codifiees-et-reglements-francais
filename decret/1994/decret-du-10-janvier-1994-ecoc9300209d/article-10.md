@@ -4,7 +4,7 @@ Pour avoir droit à l'appellation d'origine contrôlée "Olives noires de Nyons"
 
 Les olives doivent être préparées au plus tard quarante-huit heures après l'apport dans les conserveries selon les usages locaux, sans aucun produit chimique ou conservateur en dehors du chlorure de sodium.
 
-Les conserveries doivent être situées dans l'aire géographique telle que définie à l'article 2. Toutefois, celles situées dans les départements de la Drôme et de Vaucluse peuvent être autorisées à préparer des "Olives noires de Nyons". La liste en est fixée par arrêté du ministre de l'agriculture et de la pêche et du ministre de l'économie, pris sur proposition des services de l'Institut national des appellations d'origine.
+Les conserveries doivent être situées dans l'aire géographique telle que définie à l'article 2. Toutefois, celles situées dans les départements de la Drôme et de Vaucluse peuvent être autorisées à préparer des "Olives noires de Nyons". La liste en est fixée par arrêté du ministre de l'agriculture et de la pêche et du ministre de l'économie, pris sur proposition des services de l'Institut national de l'origine et de la qualité.
 
 Les olives doivent être préparées selon l'une des méthodes suivantes :
 

@@ -18,4 +18,4 @@ Cette interdiction s'applique sans délai aux exploitations déposant une décla
 
 La liste des aliments et compléments autorisés et interdits dans l'alimentation des chèvres est précisée dans le règlement technique d'application.
 
-Dans des circonstances exceptionnelles, dues notamment aux aléas climatiques, des dérogations temporaires peuvent être accordées par l'Institut national des appellations d'origine après avis de la commission "agrément des conditions de production", afin d'assurer le maintien de l'alimentation du troupeau.
+Dans des circonstances exceptionnelles, dues notamment aux aléas climatiques, des dérogations temporaires peuvent être accordées par l'Institut national de l'origine et de la qualité après avis de la commission "agrément des conditions de production", afin d'assurer le maintien de l'alimentation du troupeau.

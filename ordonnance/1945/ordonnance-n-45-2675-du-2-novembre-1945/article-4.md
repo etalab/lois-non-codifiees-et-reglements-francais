@@ -26,14 +26,14 @@ Pinot noir (Pinot noir).
 
 La perte du droit à l'appellation d'origine contrôlée "Vin d'Alsace" ou "Alsace" s'applique à la récolte toute entière de l'exploitation si le viticulteur plante des cépages autres que ceux indiqués ci-dessus.
 
-Toute nouvelle plantation ou replantation doit être conforme au plan d'encépagement communal agréé par l'Institut national des appellations d'origine, sur proposition du comité régional d'experts des vins d'Alsace, après avis du syndicat local.
+Toute nouvelle plantation ou replantation doit être conforme au plan d'encépagement communal agréé par l'Institut national de l'origine et de la qualité, sur proposition du comité régional d'experts des vins d'Alsace, après avis du syndicat local.
 
 Ce plan est déposé à la mairie des communes intéressées.
 
 II. - Dispositions particulières.
 
-Seuls ont droit à l'appellation d'origine contrôlée "Vin d'Alsace" ou "Alsace" suivie des mots Klevener de Heiligenstein les vins issus du cépage savagnin-rose produit dans l'aire délimitée par parcelles ou parties de parcelles à l'intérieur des communes de Bourgheim, Gertwiller, Goxwiller, Heiligenstein et Obernai et approuvée par le comité national des vins et eaux-de-vie de l'Institut national des appellations d'origine en séance des 6 et 7 novembre 1996.
+Seuls ont droit à l'appellation d'origine contrôlée "Vin d'Alsace" ou "Alsace" suivie des mots Klevener de Heiligenstein les vins issus du cépage savagnin-rose produit dans l'aire délimitée par parcelles ou parties de parcelles à l'intérieur des communes de Bourgheim, Gertwiller, Goxwiller, Heiligenstein et Obernai et approuvée par le comité national des vins et eaux-de-vie de l'Institut national de l'origine et de la qualité en séance des 6 et 7 novembre 1996.
 
 L'aire de production ainsi délimitée est reportée sur les plans cadastraux déposés à la mairie des communes concernées.
 
-A titre transitoire, les parcelles plantées en savagnin-rose exclues de l'aire délimitée "Vin d'Alsace" ou "Alsace" suivie des mots Klevener de Heiligenstein, identifiées par leur référence cadastrale et leur surface, dont la liste a été approuvée par le comité national des vins et eaux-de-vie de l'Institut national des appellations d'origine en séance des 6 et 7 novembre 1996, sous réserve qu'elles répondent aux conditions fixées par la présente ordonnance, continuent à bénéficier pour leur récolte du droit à l'appellation d'origine contrôlée "Vin d'Alsace" ou "Alsace" suivie des mots Klevener de Heiligenstein jusqu'à leur arrachage et au plus tard jusqu'à la récolte 2021 incluse.
+A titre transitoire, les parcelles plantées en savagnin-rose exclues de l'aire délimitée "Vin d'Alsace" ou "Alsace" suivie des mots Klevener de Heiligenstein, identifiées par leur référence cadastrale et leur surface, dont la liste a été approuvée par le comité national des vins et eaux-de-vie de l'Institut national de l'origine et de la qualité en séance des 6 et 7 novembre 1996, sous réserve qu'elles répondent aux conditions fixées par la présente ordonnance, continuent à bénéficier pour leur récolte du droit à l'appellation d'origine contrôlée "Vin d'Alsace" ou "Alsace" suivie des mots Klevener de Heiligenstein jusqu'à leur arrachage et au plus tard jusqu'à la récolte 2021 incluse.

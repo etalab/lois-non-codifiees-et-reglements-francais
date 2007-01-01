@@ -4,7 +4,7 @@ Identification et étiquetage de la viande AOC.
 
 L'identification de la viande en appellation d'origine contrôlée "Maine-Anjou" est réalisée à l'issue de la notation des carcasses par l'abatteur.
 
-Elle se traduit par l'apposition immédiate sur le faux-filet, le gîte, l'épaule, le caparaçon de chaque demi-carcasse d'un tampon ou de tout autre système validé par les services de l'INAO et distribué par l'organisme agréé.
+Elle se traduit par l'apposition immédiate sur le faux-filet, le gîte, l'épaule, le caparaçon de chaque demi-carcasse d'un tampon ou de tout autre système validé par les services de l'Institut national de l'origine et de la qualité et distribué par l'organisme agréé.
 
 Jusqu'au distributeur final, la carcasse et les pièces de découpe qui en résultent sont accompagnées d'une étiquette qui précise au minimum :
 

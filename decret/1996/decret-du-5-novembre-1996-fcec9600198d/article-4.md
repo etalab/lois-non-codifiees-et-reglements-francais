@@ -2,7 +2,7 @@
 
 Matière première (cannes) :
 
-Les variétés de cannes plantées et cultivées, en vue de la production de rhum à appellation d'origine contrôlée "Martinique", doivent être inscrites sur une liste, approuvée par le comité national des vins et eaux-de-vie de l'Institut national des appellations d'origine, après avis d'une commission technique, désignée par ledit comité national, sur proposition du syndicat de défense de l'appellation.
+Les variétés de cannes plantées et cultivées, en vue de la production de rhum à appellation d'origine contrôlée "Martinique", doivent être inscrites sur une liste, approuvée par le comité national des vins et eaux-de-vie de l'Institut national de l'origine et de la qualité, après avis d'une commission technique, désignée par ledit comité national, sur proposition du syndicat de défense de l'appellation.
 
 Toutefois, les variétés, plantées avant la publication du présent décret, et qui ne figurent pas sur la liste des variétés susmentionnée, peuvent être utilisées jusqu'à la récolte 2001 incluse.
 

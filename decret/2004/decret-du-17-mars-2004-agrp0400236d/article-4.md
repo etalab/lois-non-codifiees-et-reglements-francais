@@ -6,7 +6,7 @@ b) La hauteur de feuillage palissé ne peut être inférieure à 0,6 fois l'éca
 
 La hauteur entre le sol et le fil inférieur de palissage ne peut excéder 0,55 mètre.
 
-c) Toutefois, les vignes en place avant le 24 janvier 2000 qui ne respectent pas les dispositions des paragraphes a et b du présent article continuent à bénéficier pour leur récolte du droit à l'appellation d'origine contrôlée "Valençay" jusqu'à leur arrachage et au plus tard jusqu'à la récolte 2024 incluse, sous réserve de respecter la hauteur minimale de feuillage palissé définie ci-dessus. Les exploitations concernées souscrivent auprès des services de l'INAO un échéancier individuel de reconversion des vignes concernées. Cet échéancier prévoit qu'au moins 50 % des vignes concernées par la dérogation sont mises en conformité avec les dispositions du présent décret pour la récolte 2012.
+c) Toutefois, les vignes en place avant le 24 janvier 2000 qui ne respectent pas les dispositions des paragraphes a et b du présent article continuent à bénéficier pour leur récolte du droit à l'appellation d'origine contrôlée "Valençay" jusqu'à leur arrachage et au plus tard jusqu'à la récolte 2024 incluse, sous réserve de respecter la hauteur minimale de feuillage palissé définie ci-dessus. Les exploitations concernées souscrivent auprès des services de l'Institut national de l'origine et de la qualité un échéancier individuel de reconversion des vignes concernées. Cet échéancier prévoit qu'au moins 50 % des vignes concernées par la dérogation sont mises en conformité avec les dispositions du présent décret pour la récolte 2012.
 
 d) Les trois modes de taille suivants sont autorisés :
 

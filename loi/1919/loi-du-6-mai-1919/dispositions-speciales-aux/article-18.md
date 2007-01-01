@@ -20,4 +20,4 @@ Les frais déterminés par l'application des prescriptions ci-dessus seront supp
 
 Les décisions des commissions interdépartementales "troisième exemplaire" seront centralisées au ministère de l'agriculture et publiées dans les termes de l'article 11 de la présente loi.
 
-L'Institut national des appellations d'origine des vins et eaux-de-vie pourra réviser, s'il y a lieu, après avis du syndicat général des vignerons de la Champagne, les décisions de la commission interdépartementale dans le cadre des dispositions figurant au quatrième paragraphe de l'article 17 ci-dessus.
+L'Institut national de l'origine et de la qualité pourra réviser, s'il y a lieu, après avis du syndicat général des vignerons de la Champagne, les décisions de la commission interdépartementale dans le cadre des dispositions figurant au quatrième paragraphe de l'article 17 ci-dessus.

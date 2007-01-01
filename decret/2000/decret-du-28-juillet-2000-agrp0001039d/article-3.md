@@ -10,7 +10,7 @@ L'alimentation du troupeau laitier doit répondre aux dispositions suivantes com
 
 La ration de base de l'alimentation du troupeau laitier est assurée par des fourrages provenant de l'aire géographique définie à l'article 2.
 
-Lors de pénuries exceptionnelles, des fourrages extérieurs à l'aire géographique peuvent être utilisés après autorisation des services de l'Institut national des appellations d'origine accordée après avis de la commission "agrément conditions de production" prévue dans le cadre de l'agrément des produits laitiers d'appellation d'origine contrôlée.
+Lors de pénuries exceptionnelles, des fourrages extérieurs à l'aire géographique peuvent être utilisés après autorisation des services de l'Institut national de l'origine et de la qualité accordée après avis de la commission "agrément conditions de production" prévue dans le cadre de l'agrément des produits laitiers d'appellation d'origine contrôlée.
 
 Pendant la période estivale, d'une durée minimum de 120 jours, la ration de base est principalement composée d'herbe pâturée.
 

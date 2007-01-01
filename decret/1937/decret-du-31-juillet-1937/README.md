@@ -1,4 +1,4 @@
-# Décret du 31 juillet 1937 relatif à l'appellation d'origine contrôlée "Bourgogne"
+# Décret du 31 juillet 1937 relatif aux appellations d'origine contrôlées "Bourgueil" et "Saint-Nicolas-de-Bourgueil"
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -9,4 +9,4 @@
 - [Article 7](article-7.md)
 - [Article 8](article-8.md)
 - [Article 9](article-9.md)
-- [Article 10](article-10.md)
+- [Rapport au Président de la République Française.](rapport-au)

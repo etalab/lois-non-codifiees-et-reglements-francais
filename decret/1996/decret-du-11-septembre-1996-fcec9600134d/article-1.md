@@ -1,6 +1,6 @@
 # Article 1
 
-Toute exploitation produisant des lentilles susceptibles de bénéficier de l'appellation d'origine contrôlée "Lentille verte du Puy" doit souscrire auprès des services de l'Institut national des appellations d'origine et avant le 10 juin de l'année du semis de la culture concernée une déclaration de semis indiquant pour chaque parcelle :
+Toute exploitation produisant des lentilles susceptibles de bénéficier de l'appellation d'origine contrôlée "Lentille verte du Puy" doit souscrire auprès des services de l'Institut national de l'origine et de la qualité et avant le 10 juin de l'année du semis de la culture concernée une déclaration de semis indiquant pour chaque parcelle :
 
 - la commune ;
 

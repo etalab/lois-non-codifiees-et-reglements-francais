@@ -10,4 +10,4 @@ La grappe est souple, homogène en densité, d'une coloration dorée, d'une long
 
 Les grappes sont obligatoirement préparées et conditionnées en atelier de ciselage et de conditionnement.
 
-Un règlement technique d'application, approuvé par le comité national des produits agroalimentaires de l'Institut national des appellations d'origine, précise, en tant que de besoin, les modalités d'application du présent décret.
+Un règlement technique d'application, approuvé par le comité national des produits agroalimentaires de l'Institut national de l'origine et de la qualité, précise, en tant que de besoin, les modalités d'application du présent décret.

@@ -2,7 +2,7 @@
 
 Les analyses des caractéristiques fixées à l'article 5 du décret relatif à l'appellation d'origine contrôlée "Huile essentielle de lavande de Haute-Provence" doivent être effectuées par un laboratoire agréé par arrêté conjoint du ministre chargé de l'agriculture et du ministre chargé de l'économie selon les méthodologies décrites dans les normes AFNOR en vigueur relatives aux huiles essentielles.
 
-L'examen olfactif est réalisé par une commission appelée "commission d'agrément" constituée de trois collèges (Production, Technique, Commerce) dont les membres sont agréés par l'INAO sur proposition du syndicat de défense de l'appellation.
+L'examen olfactif est réalisé par une commission appelée "commission d'agrément" constituée de trois collèges (Production, Technique, Commerce) dont les membres sont agréés par l'Institut national de l'origine et de la qualité sur proposition du syndicat de défense de l'appellation.
 
 La commission procède ensuite à l'examen des résultats analytiques.
 
