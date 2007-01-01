@@ -32,8 +32,6 @@ Elle assure le suivi financier de tous les établissements sous tutelle du minis
 
 Elle exerce les compétences du ministère vis-à-vis de l'assemblée permanente des chambres d'agriculture, des chambres régionales et départementales d'agriculture.
 
-Elle est chargée de la tutelle de l'agence centrale des organismes d'intervention dans le secteur agricole.
-
 Elle définit et veille à la mise en oeuvre de la politique logistique et immobilière du ministère. Elle élabore le programme prévisionnel pluriannuel d'implantation de l'ensemble des services du ministère.
 
 Elle définit la politique de la commande publique au sein du ministère et coordonne sa mise en oeuvre.
