@@ -1,3 +1,0 @@
-# Article 17
-
-Sont intégrés en qualité de titulaires dans le cadre d'emplois des agents territoriaux qualifiés du patrimoine au grade d'agent territorial qualifié du patrimoine hors classe, lorsqu'ils se trouvaient en position d'activité et occupaient effectivement leur emploi à la date de publication du présent décret, les fonctionnaires des départements, des régions et des établissements publics en relevant, titulaires d'un emploi à caractère culturel dont l'indice brut terminal est au moins égal à l'indice brut 449 et exerçant les fonctions mentionnées au troisième alinéa de l'article 2 ci-dessus.
