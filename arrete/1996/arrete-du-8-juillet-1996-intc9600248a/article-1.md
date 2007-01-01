@@ -6,7 +6,7 @@ Les concours d'accès aux emplois de la direction générale de l'administration
 
 - attaché de préfecture ;
 
-- inspecteur-élève des transmissions ;
+- ingénieur des systèmes d'information et de communication stagiaire ;
 
 - contrôleur des services techniques du matériel ;
 
