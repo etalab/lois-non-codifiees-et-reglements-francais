@@ -6,11 +6,11 @@ I. - La présente loi entrera en vigueur le premier jour du septième mois suiva
 
 - des articles L. 132-2, L. 132-7 et L. 132-18 du code des assurances dans leur rédaction issue des articles 5 et 7 et des articles L. 223-9 et L. 223-18 du code de la mutualité dans leur rédaction résultant de l'article 6 ;
 
-- de l'abrogation de l'article 1481 du code civil et de la suppression de la dernière phrase de l'article 1491 du m^eme code résultant des II et III de l'article 15 ;
+- de l'abrogation de l'article 1481 du code civil et de la suppression de la dernière phrase de l'article 1491 du même code résultant des II et III de l'article 15 ;
 
-- de l'abrogation des dispositions du m^eme code relatives au droit des enfants naturels dont le père ou la mère était, au temps de la conception, engagé dans les liens du mariage, résultant de l'article 16 et de la nouvelle rédaction des articles 759 à 764 opérée par les articles 3 et 4 ;
+- de l'abrogation des dispositions du même code relatives au droit des enfants naturels dont le père ou la mère était, au temps de la conception, engagé dans les liens du mariage, résultant de l'article 16 et de la nouvelle rédaction des articles 759 à 764 opérée par les articles 3 et 4 ;
 
-- des dispositions du second alinéa de l'article 1527 du m^eme code, dans sa rédaction issue de l'article 17 ;
+- des dispositions du second alinéa de l'article 1527 du même code, dans sa rédaction issue de l'article 17 ;
 
 - des dispositions prévues aux articles 22 à 24.
 
@@ -20,7 +20,7 @@ II. - La présente loi sera applicable aux successions ouvertes à compter de la
 
 2° Sous réserve des accords amiables déjà intervenus et des décisions judiciaires irrévocables, seront applicables aux successions ouvertes à la date de publication de la présente loi au Journal officiel de la République française et n'ayant pas donné lieu à partage avant cette date :
 
-- les dispositions relatives aux nouveaux droits successoraux des enfants naturels dont le père ou la mère était, au temps de la conception, engagé dans les liens du mariage ;
+- les dispositions relatives aux nouveaux droits successoraux des enfants naturels ;
 
 - les dispositions du second alinéa de l'article 1527 du code civil dans sa rédaction issue de l'article 17.
 
