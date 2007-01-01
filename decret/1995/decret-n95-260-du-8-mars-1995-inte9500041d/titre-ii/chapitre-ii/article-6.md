@@ -38,9 +38,17 @@ c)Trois conseillers généraux et trois maires.
 
 - un représentant de la profession d'architecte.
 
-4. En ce qui concerne l'accessibilité des personnes handicapées :
+4. En ce qui concerne l'accessibilité aux personnes handicapées :
 
-- trois personnes choisies en raison de leur compétence et présentées par les associations représentatives des personnes handicapées, des personnes âgées ou des parents de mineurs handicapés.
+- quatre représentants des associations de personnes handicapées du département ;
+
+- et, en fonction des affaires traitées :
+
+- trois représentants des propriétaires et gestionnaires de logements ;
+
+- trois représentants des propriétaires et exploitants d'établissements recevant du public ;
+
+- trois représentants des maîtres d'ouvrages et gestionnaires de voirie ou d'espaces publics.
 
 5. En ce qui concerne l'homologation des enceintes sportives destinées à recevoir des manifestations sportives ouvertes au public :
 
