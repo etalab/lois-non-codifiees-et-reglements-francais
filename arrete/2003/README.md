@@ -878,7 +878,6 @@
 - [Arrêté du 25 juin 2003 (INDI0301685A)](arrete-du-25-juin-2003-indi0301685a)
 - [Arrêté du 25 juin 2003 (INDI0301689A)](arrete-du-25-juin-2003-indi0301689a)
 - [Arrêté du 25 juin 2003 (SANG0321258A)](arrete-du-25-juin-2003-sang0321258a)
-- [Arrêté du 25 juin 2003 (SANH0322315A)](arrete-du-25-juin-2003-sanh0322315a)
 - [Arrêté du 25 mars 1994 (ECOZ9400002A)](arrete-du-25-mars-1994-ecoz9400002a)
 - [Arrêté du 25 mars 2003 (AGRA0300265A)](arrete-du-25-mars-2003-agra0300265a)
 - [Arrêté du 25 mars 2003 (AGRA0300561A)](arrete-du-25-mars-2003-agra0300561a)
