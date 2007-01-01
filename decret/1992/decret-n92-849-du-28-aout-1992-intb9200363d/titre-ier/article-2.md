@@ -7,3 +7,5 @@ En qualité d'aide ménagère ou d'auxiliaire de vie, ils sont chargés d'assure
 En qualité de travailleur familial, ils sont chargés d'assurer à domicile des activités ménagères et familiales, soit au foyer des mères de famille, qu'ils aident ou qu'ils suppléent, soit auprès de personnes âgées, infirmes ou invalides. Ils contribuent à maintenir ou à rétablir l'équilibre dans les familles où ils interviennent. Ils accomplissent les diverses tâches ménagères qu'exige la vie quotidienne et assurent la surveillance des enfants. A l'occasion de ces tâches concrètes, ils exercent une action d'ordre social, préventif et éducatif.
 
 Les membres du cadre d'emplois peuvent également assurer des tâches similaires dans des établissements d'accueil et d'hébergement pour personnes âgées ou handicapées.
+
+Les membres du cadre d'emplois peuvent également remplir des missions d'accueil et de renseignement du public des services sociaux. A ce titre, ils identifient les demandes et orientent les intéressés vers les services ou organisations compétents. Ils peuvent être amenés à accompagner les demandeurs dans les démarches administratives initiales à caractère social.
