@@ -1,6 +1,6 @@
 # Article 17
 
-Les fonctionnaires appartenant à un cadre d'emplois ou à un corps de catégorie B ou titulaires d'un emploi de même niveau sont classés à un échelon déterminé en prenant en compte, sur la base des durées maximales pour chaque avancement d'échelon, une partie de leur ancienneté retenue dans cette catégorie.
+Les fonctionnaires, nommés après avoir été inscrits sur la liste d'aptitude prévue à l'article 11, appartenant à un cadre d'emplois ou à un corps de catégorie B ou titulaires d'un emploi de même niveau sont classés à un échelon déterminé en prenant en compte, sur la base des durées maximales pour chaque avancement d'échelon, une partie de leur ancienneté retenue dans cette catégorie.
 
 L'ancienneté retenue est la durée de la carrière nécessaire pour accéder au grade et à l'échelon que les intéressés ont atteint à la date de leur admission comme stagiaire, augmentée, le cas échéant, de l'ancienneté acquise dans cet échelon.
 
