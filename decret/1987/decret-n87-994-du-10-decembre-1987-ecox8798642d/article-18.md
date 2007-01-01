@@ -1,8 +1,8 @@
 # Article 18
 
-Le règlement de l'indemnisation s'effectue par annuités [*périodicité*] dans les conditions fixées à l'article 7 de la loi du 16 juillet 1987.
+Le règlement de l'indemnisation s'effectue par annuités dans les conditions fixées à l'article 7 de la loi du 16 juillet 1987.
 
-Les règlements sont assignés sur la caisse du payeur général du Trésor.
+Les règlements sont assignés sur la caisse du receveur général des finances.
 
 Le paiement de l'annuité intervient dans le courant du mois de septembre de chaque année considérée.
 
