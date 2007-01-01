@@ -1,5 +1,3 @@
 # Article 21
 
-Sont intégrés, en qualité de titulaires, dans les conditions prévues à l'article 20, les fonctionnaires territoriaux en position de détachement, de hors cadre, de disponibilité, de congé parental, d'accomplissement du service national ou mis à disposition d'une organisation syndicale en application de l'article 100 de la loi du 26 janvier 1984 susvisée.
-
-Pour les fonctionnaires territoriaux en position de détachement, seule est prise en considération la situation dans la collectivité ou l'établissement d'origine.
+Par dérogation au 1° de l'article 6, et pendant une durée de 3 ans calculée à compter de la date d'entrée en vigueur du décret n° 2006-1694 du 22 décembre 2006, peuvent également être inscrits sur la liste d'aptitude prévue au 1° de l'article 5 les agents appartenant aux grades d'agent technique territorial et de gardien d'immeuble territorial, intégrés dans le grade d'adjoint technique de 2e classe en application des articles 18 et 20 du décret n° 2006-1694 du 22 décembre 2006, qui comptent au moins onze ans de services effectifs, y compris la période normale de stage, et qui ont atteint au moins le 6e échelon de leur grade.
