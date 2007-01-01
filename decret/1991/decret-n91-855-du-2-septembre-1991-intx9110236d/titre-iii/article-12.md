@@ -1,9 +1,3 @@
 # Article 12
 
-Les stagiaires sont rémunérés par la collectivité ou l'établissement qui a procédé au recrutement sur la base de l'indice afférent au 1er échelon de leur grade.
-
-Ils perçoivent toutefois le traitement indiciaire correspondant à leur situation antérieure si ce traitement est supérieur à celui correspondant au 1er échelon de leur grade.
-
-Lorsque ces fonctionnaires sont titularisés, ils sont reclassés, selon le cas, dans le grade de directeur d'établissement d'enseignement artistique de seconde catégorie ou dans le grade de directeur d'établissement d'enseignement artistique de 1re catégorie, dans les conditions fixées aux articles 13, 13-1, 13-2, et 14, sans qu'il soit tenu compte de la prolongation éventuelle du stage prévue au deuxième alinéa de l'article 11.
-
-Lorsque l'application des dispositions précédentes aboutit à classer les agents intéressés à un échelon doté d'un indice inférieur à celui qu'ils détenaient dans leur grade ou emploi précédent, les intéressés conservent, à titre personnel, le bénéfice de leur indice antérieur jusqu'au jour où ils bénéficient dans le nouveau grade d'un indice au moins égal.
+Les stagiaires nommés dans ce cadre d'emplois sont classés, lors de leur nomination, au 1er échelon du grade, selon le cas, de directeur d'établissement d'enseignement artistique de 2e catégorie ou de directeur d'établissement d'enseignement artistique de 1re catégorie, sous réserve des dispositions du chapitre Ier du décret n° 2006-1695 du 22 décembre 2006 fixant les dispositions statutaires communes applicables aux cadres d'emplois des fonctionnaires de la catégorie A de la fonction publique territoriale, à l'exception des dispositions de ses articles 5 et 6, à la place desquelles il est fait application des dispositions de l'article 13-1 du présent décret.
