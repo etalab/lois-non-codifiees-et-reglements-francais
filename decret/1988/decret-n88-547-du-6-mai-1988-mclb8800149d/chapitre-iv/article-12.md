@@ -1,116 +1,130 @@
 # Article 12
 
-La durée maximale et la durée minimale du temps passé dans chacun des échelons des grades mentionnés au deuxième alinéa de l'article 11 sont fixées ainsi qu'il suit :
+La durée maximale et minimale du temps passé dans chacun des échelons du grade mentionné au deuxième alinéa de l'article 11 est fixée ainsi qu'il suit :
 
 <table>
+<tbody>
 <tr>
-<td> :-----------------------------:</td>
+<td align="left" valign="middle">
+<p align="center">
+<strong>ECHELONS</strong>
+</p>
+</td>
+<td align="left" colspan="2" valign="middle">
+<p align="center">
+<strong>DUREES</strong>
+</p>
+</td>
 </tr>
 <tr>
-<td> : GRADES    :      DUREES     :</td>
+<td align="left" valign="middle">
+<pre> </pre>
+</td>
+<td align="left" valign="middle">
+<p align="center">Maximale</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">Minimale</p>
+</td>
 </tr>
 <tr>
-<td> :   ET      :-----------------:</td>
+<td align="left" valign="middle">
+<p align="justify">9e échelon</p>
+</td>
+<td align="left" valign="middle">
+<pre> </pre>
+</td>
+<td align="left" valign="middle">
+<pre> </pre>
+</td>
 </tr>
 <tr>
-<td> : ECHELONS  :  (1)   :   (2)  :</td>
+<td align="left" valign="middle">
+<p align="justify">8e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">4 ans</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">3 ans</p>
+</td>
 </tr>
 <tr>
-<td> :-----------:--------:--------:</td>
+<td align="left" valign="middle">
+<p align="justify">7e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">3 ans</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">2 ans 6 mois</p>
+</td>
 </tr>
 <tr>
-<td> : Agent de  :        :        :</td>
+<td align="left" valign="middle">
+<p align="justify">6e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">2 ans</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">1 an 6 mois</p>
+</td>
 </tr>
 <tr>
-<td> : maîtrise :        :        :</td>
+<td align="left" valign="middle">
+<p align="justify">5e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">2 ans</p>
+</td>
+<td align="left" valign="top">
+<p align="center">1 an 6 mois</p>
+</td>
 </tr>
 <tr>
-<td> : principal :        :        :</td>
+<td align="left" valign="middle">
+<p align="left">4e échelon</p>
+</td>
+<td align="left" valign="top">
+<p align="center">2 ans</p>
+</td>
+<td align="left" valign="top">
+<p align="center">1 an 6 mois</p>
+</td>
 </tr>
 <tr>
-<td> : 5e éch.   : 4 ans  : 3 ans  :</td>
+<td align="left" valign="middle">
+<p align="left">3e échelon</p>
+</td>
+<td align="left" valign="top">
+<p align="center">2 ans</p>
+</td>
+<td align="left" valign="top">
+<p align="center">1 an 6 mois</p>
+</td>
 </tr>
 <tr>
-<td> : 4e éch.   : 3 ans  : 2 ans  :</td>
+<td align="left" valign="middle">
+<p align="left">2e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">1 an</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">1 an</p>
+</td>
 </tr>
 <tr>
-<td> :           :        : 3 mois :</td>
+<td align="left" valign="middle">
+<p align="left">1er échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">1 an</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">1 an</p>
+</td>
 </tr>
-<tr>
-<td> : 3e éch.   : 3 ans  : 2 ans  :</td>
-</tr>
-<tr>
-<td> :           :        : 3 mois :</td>
-</tr>
-<tr>
-<td> : 2e éch.   : 3 ans  : 2 ans  :</td>
-</tr>
-<tr>
-<td> :           :        : 3 mois :</td>
-</tr>
-<tr>
-<td> : 1er éch.  : 3 ans  : 2 ans  :</td>
-</tr>
-<tr>
-<td> :           :        : 3 mois :</td>
-</tr>
-<tr>
-<td> :                             :</td>
-</tr>
+</tbody>
 </table>
-
-(1) Maximale. (2) Minimale.<table>
-<tr>
-<td>:-----------------------------:</td>
-</tr>
-<tr>
-<td> : GRADES    :      DUREES     :</td>
-</tr>
-<tr>
-<td> :   ET      :-----------------:</td>
-</tr>
-<tr>
-<td> : ECHELONS  :  (1)   :   (2)  :</td>
-</tr>
-<tr>
-<td> :-----------:--------:--------:</td>
-</tr>
-<tr>
-<td> : Agent de  :        :        :</td>
-</tr>
-<tr>
-<td> : maîtrise :        :        :</td>
-</tr>
-<tr>
-<td> : qualifié  :        :        :</td>
-</tr>
-<tr>
-<td> : 4e éch.   : 3 ans  : 2 ans  :</td>
-</tr>
-<tr>
-<td> :           : 6 mois : 9 mois :</td>
-</tr>
-<tr>
-<td> : 3e éch.   : 3 ans  : 2 ans  :</td>
-</tr>
-<tr>
-<td> :           : 6 mois : 9 mois :</td>
-</tr>
-<tr>
-<td> : 2e éch.   : 2 ans  : 2 ans  :</td>
-</tr>
-<tr>
-<td> :           : 6 mois :        :</td>
-</tr>
-<tr>
-<td> : 1er éch.  : 2 ans  : 2 ans  :</td>
-</tr>
-<tr>
-<td> :           : 6 mois :        :</td>
-</tr>
-<tr>
-<td> :                             :</td>
-</tr>
-</table>
-
-(1) Maximale. (2) Minimale.
