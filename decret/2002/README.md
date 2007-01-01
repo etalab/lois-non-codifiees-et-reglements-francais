@@ -96,6 +96,7 @@
 - [Décret n°2002-1544 du 20 décembre 2002 (AGRG0201233D)](decret-n2002-1544-du-20-decembre-2002-agrg0201233d)
 - [Décret n°2002-235 du 20 février 2002 (AGRA0101794D)](decret-n2002-235-du-20-fevrier-2002-agra0101794d)
 - [Décret n°2002-237 du 20 février 2002 (ECOP0200104D)](decret-n2002-237-du-20-fevrier-2002-ecop0200104d)
+- [Décret n°2002-374 du 20 mars 2002 (MESV0220533D)](decret-n2002-374-du-20-mars-2002-mesv0220533d)
 - [Décret n°2002-232 du 21 février 2002 (ECOR0206084D)](decret-n2002-232-du-21-fevrier-2002-ecor0206084d)
 - [Décret n°71-1140 du 21 décembre 1971](decret-n71-1140-du-21-decembre-1971)
 - [Décret n°2002-1393 du 22 novembre 2002 (EQUA0201543D)](decret-n2002-1393-du-22-novembre-2002-equa0201543d)
