@@ -7,3 +7,5 @@ Le secrétariat de la commission est alternativement assuré pendant une périod
 L'ordre du jour de chaque réunion est également adressé avec la convocation de celle-ci et les documents y afférents au chef du service départemental de l'inspection du travail, de l'emploi et de la politique sociale agricoles et au technicien régional de prévention du ou des départements concernés, qui peuvent participer avec voix consultative aux réunions de la commission. Ils sont destinataires du bilan annuel et du programme d'actions prévus à l'alinéa précédent.
 
 L'ordre du jour et les documents y afférents sont également adressés au directeur de la caisse de mutualité sociale agricole du département où se trouve la commission.
+
+Le président du comité de protection sociale des salariés, ou son représentant, peut être invité à participer aux réunions, à titre consultatif.
