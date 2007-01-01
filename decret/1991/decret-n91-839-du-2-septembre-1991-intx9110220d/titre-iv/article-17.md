@@ -1,12 +1,8 @@
 # Article 17
 
-I. - Les fonctionnaires appartenant à un cadre d'emplois ou corps classé dans la catégorie A sont nommés dans la 2e classe du grade de conservateur du patrimoine à l'échelon comportant un indice égal ou, à défaut, immédiatement supérieur à celui qu'ils détenaient dans leur grade d'origine.
+I. - Paragraphe abrogé
 
-Dans la limite de l'ancienneté maximale nécessaire à un avancement à l'échelon supérieur, ils conservent l'ancienneté d'échelon acquise dans leur précédent grade lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle qui résulterait d'un avancement d'échelon dans leur ancien grade.
-
-Les candidats nommés alors qu'ils ont atteint l'échelon le plus élevé de leur précédent grade conservent leur ancienneté d'échelon dans les mêmes conditions et limites lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle résultant de l'élévation audit échelon.
-
-II. - Les fonctionnaires appartenant à un cadre d'emplois ou corps classé dans la catégorie B sont nommés dans la 2e classe du grade de conservateur du patrimoine à un échelon déterminé en prenant en compte, sur la base des durées maximales pour chaque avancement d'échelon, leur ancienneté dans cette catégorie, dans les conditions définies aux alinéas suivants.
+II. - Les fonctionnaires appartenant à un cadre d'emplois ou corps classé dans la catégorie B sont nommés au grade de conservateur du patrimoine à un échelon déterminé en prenant en compte, sur la base des durées maximales pour chaque avancement d'échelon, leur ancienneté dans cette catégorie, dans les conditions définies aux alinéas suivants.
 
 Cette ancienneté correspond à la durée de la carrière nécessaire pour accéder au grade et à l'échelon que les fonctionnaires intéressés ont atteints à la date de leur nomination comme stagiaire, augmentée, le cas échéant, de l'ancienneté acquise dans cet échelon.
 
