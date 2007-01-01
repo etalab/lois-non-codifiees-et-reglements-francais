@@ -72,7 +72,7 @@ Lorsque les produits devant faire l'objet de la déclaration d'échanges de bien
 </tr>
 <tr>
 <td valign="top" width="232">
-<p>Boyaux, vessies et estomacs d'animaux, entiers ou en morceaux, des espèces ovine ou caprine, à l'état frais, réfrigéré, congelé, salé ou en saumure, séché ou fumé..</p>
+<p>Boyaux, vessies et estomacs d'animaux, entiers ou en morceaux, des espèces ovine ou caprine, à l'état frais, réfrigéré, congelé, salé ou en saumure, séché ou fumé.</p>
 </td>
 <td valign="top" width="98">
 <p align="center">0504.00.00.2</p>
@@ -114,36 +114,6 @@ Lorsque les produits devant faire l'objet de la déclaration d'échanges de bien
 </td>
 <td valign="top" width="98">
 <p align="center">0510.00.00.9</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" valign="top" width="254">
-<p>Produits d'origine animale, non dénommés ni compris ailleurs et animaux morts du chapitre 1er impropres à l'alimentation humaine, à l'exclusion du sperme de taureaux, des produits de poissons ou de crustacés, mollusques ou autres invertébrés aquatiques, des tendons et nerfs, rognures et autres déchets similaires de peaux brutes.</p>
-</td>
-<td rowspan="3" valign="top" width="96">
-<p align="center">0511.99.90</p>
-</td>
-<td valign="top" width="232">
-<p>Embryons de l'espèce bovine.</p>
-</td>
-<td valign="top" width="98">
-<p align="center">0511.99.90.1</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="232">
-<p>Embryons des espèces ovine ou caprine.</p>
-</td>
-<td valign="top" width="98">
-<p align="center">0511.99.90.2</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="232">
-<p>Produits d'origine animale, non dénommés ni compris ailleurs et animaux morts du chapitre 1 impropres à l'alimentation humaine, à l'exclusion du sperme de taureaux, des produits de poissons ou de crustacés, mollusques ou autres invertébrés aquatiques, des tendons et nerfs, rognures et autres déchets similaires de peaux brutes, des embryons des espèces bovine, ovine ou caprine.</p>
-</td>
-<td valign="top" width="98">
-<p align="center">0511.99.90.9</p>
 </td>
 </tr>
 <tr>
@@ -260,66 +230,6 @@ Lorsque les produits devant faire l'objet de la déclaration d'échanges de bien
 </tr>
 <tr>
 <td rowspan="3" valign="top" width="254">
-<p>Glandes et autres organes à usages opothérapiques, à l'état desséché, pulvérisés.</p>
-</td>
-<td rowspan="3" valign="top" width="96">
-<p align="center">3001.10.10</p>
-</td>
-<td valign="top" width="232">
-<p>Glandes et autres organes à usages opothérapiques, de l'espèce bovine, à l'état desséché, pulvérisés.</p>
-</td>
-<td valign="top" width="98">
-<p align="center">3001.10.10.1</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="232">
-<p>Glandes et autres organes à usages opothérapiques, des espèces ovine ou caprine, à l'état desséché, pulvérisés.</p>
-</td>
-<td valign="top" width="98">
-<p align="center">3001.10.10.2</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="232">
-<p>Glandes et autres organes à usages opathérapiques, autres que des espèces bovine, ovine ou caprine, à l'état desséché, pulvérisés.</p>
-</td>
-<td valign="top" width="98">
-<p align="center">3001.10.10.9</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" valign="top" width="254">
-<p>Glandes et autres organes à usages opothérapiques, à l'état desséché, autres que pulvérisés.</p>
-</td>
-<td rowspan="3" valign="top" width="96">
-<p align="center">3001.10.90</p>
-</td>
-<td valign="top" width="232">
-<p>Glandes et autres organes à usages opothérapiques, de l'espèce bovine, à l'état desséché, autres que Pulvérisés</p>
-</td>
-<td valign="top" width="98">
-<p align="center">3001.10.90.1</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="232">
-<p>Glandes et autres organes à usages opothérapiques, des espèces ovine ou caprine, à l'état desséché, autres que pulvérisés.</p>
-</td>
-<td valign="top" width="98">
-<p align="center">3001.10.90.2</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="232">
-<p>Glandes et autres organes à usages opothérapiques, autres que des espèces bovine, ovine ou caprine, à l'état desséché, autres que pulvérisés.</p>
-</td>
-<td valign="top" width="98">
-<p align="center">3001.10.90.9</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" valign="top" width="254">
 <p>Extraits de glandes ou d'autres organes ou de leurs sécrétions, autres que d'origine humaine.</p>
 </td>
 <td rowspan="3" valign="top" width="96">
@@ -346,6 +256,36 @@ Lorsque les produits devant faire l'objet de la déclaration d'échanges de bien
 </td>
 <td valign="top" width="98">
 <p align="center">3001.20.90.9</p>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="3" valign="top">
+<p align="left">Peptones et leurs dérivés ; autres matières<br/>protéiques et leurs dérivés, non dénommés ni<br/>compris ailleurs, à l'exclusion des concentrés de<br/>protéines de lait visés à la note complémentaire 1<br/>du chapitre 35 ; poudre de peau, traitée ou non au<br/>chrome.</p>
+</td>
+<td align="left" rowspan="3" valign="top">
+<p align="center">3504 00 90</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Peptones de l'espèce bovine, et leurs dérivés.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">3504 00 90 1</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Peptones des espèces ovine ou caprine, et leurs<br/>dérivés.</p>
+</td>
+<td>
+<p align="center">3504 00 90 2</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Peptones autres que des espèces bovine, ovine ou<br/>caprine, et leurs dérivés ; autres matières<br/>protéiques et leurs dérivés, non dénommés ni<br/>compris ailleurs, à l'exclusion des concentrés de<br/>protéines de lait visés à la note complémentaire 1<br/>du chapitre 35 ; poudre de peau, traitée ou non au chrome.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">3504 00 90 9</p>
 </td>
 </tr>
 <tr>
@@ -740,72 +680,6 @@ Lorsque les produits devant faire l'objet de la déclaration d'échanges de bien
 </tr>
 <tr>
 <td rowspan="2" valign="top" width="254">
-<p>Planeurs et ailes volantes. </p>
-</td>
-<td rowspan="2" valign="top" width="96">
-<p align="center">8801.10.00</p>
-</td>
-<td valign="top" width="232">
-<p>Planeurs et ailes volantes, civils.</p>
-</td>
-<td valign="top" width="98">
-<p align="center">8801.10.00.1</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="232">
-<p>Planeurs et ailes volantes, autres que civils.</p>
-</td>
-<td valign="top" width="98">
-<p align="center">8801.10.00.9</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" valign="top" width="254">
-<p>Ballons et dirigeables. </p>
-</td>
-<td rowspan="2" valign="top" width="96">
-<p align="center">8801.90.20</p>
-</td>
-<td valign="top" width="232">
-<p>Ballons et dirigeables, civils. </p>
-</td>
-<td valign="top" width="98">
-<p align="center">8801.90.20.1</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="232">
-<p>Ballons et dirigeables, autres que civils. </p>
-</td>
-<td valign="top" width="98">
-<p align="center">8801.90.20.9</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" valign="top" width="254">
-<p>Autres véhicules aériens, non conçus pour la propulsion à moteur. </p>
-</td>
-<td rowspan="2" valign="top" width="96">
-<p align="center">8801.90.80</p>
-</td>
-<td valign="top" width="232">
-<p>Autres véhicules aériens, non conçus pour la propulsion à moteur, civils. </p>
-</td>
-<td valign="top" width="98">
-<p align="center">8801.90.80.1</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="232">
-<p>Autres véhicules aériens, non conçus pour la propulsion à moteur, autres que civils. </p>
-</td>
-<td valign="top" width="98">
-<p align="center">8801.90.80.9</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" valign="top" width="254">
 <p>Hélicoptères d'un poids à vide n'excédant pas 2 000 kg. </p>
 </td>
 <td rowspan="2" valign="top" width="96">
@@ -934,6 +808,142 @@ Lorsque les produits devant faire l'objet de la déclaration d'échanges de bien
 </td>
 <td valign="top" width="98">
 <p align="center">8805.29.00.9</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" valign="top" width="254">
+<p>Produits d'origine animale non dénommés ni compris ailleurs et animaux morts du chapitre 1er impropres à l'alimentation humaine, à l'exclusion du sperme de taureaux, des produits de poissons ou de crustacés, mollusques ou autres invertébrés aquatiques, des tendons et nerfs, rognures et autres déchets similaires de peaux brutes et des éponges naturelles d'origine animale. </p>
+</td>
+<td rowspan="3" valign="top" width="96">
+<p align="center">0511 99 85</p>
+</td>
+<td valign="top" width="232">
+<p>Embryons de l'espèce bovine. </p>
+</td>
+<td valign="top" width="98">
+<p align="center">0511 99 85 1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="232">
+<p>Embryons des espèces ovine ou caprine. </p>
+</td>
+<td valign="top" width="98">
+<p align="center">0511 99 85 2</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="232">
+<p>Produits d'origine animale non dénommés ni compris ailleurs et animaux morts du chapitre 1er impropres à l'alimentation humaine, à l'exclusion du sperme de taureaux, des produits de poissons ou de crustacés, mollusques ou autres invertébrés aquatiques, des tendons et nerfs, rognures et autres déchets similaires de peaux brutes, des éponges naturelles d'origine animale et des embryons des espèces bovines, ovine ou caprine. </p>
+</td>
+<td valign="top" width="98">
+<p align="center">0511 99 85 9</p>
+</td>
+</tr>
+<tr>
+<td rowspan="7" valign="top" width="254">
+<p>Glandes et autres organes à usages opothérapiques, à l'état desséché, même pulvérisés ; autres substances animales préparées à des fins </p>
+</td>
+<td rowspan="7" valign="top" width="96">
+<p align="center">3001 90 98</p>
+</td>
+<td valign="top" width="232">
+<p>Glandes et autres organes à usages opothérapiques, de l'espèce bovine, à l'état desséché, pulvérisés. </p>
+</td>
+<td valign="top" width="98">
+<p align="center">3001 90 98 1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="232">
+<p>Glandes et autres organes à usages opothérapiques, des espèces ovine ou caprine, à l'état desséché, pulvérisés. </p>
+</td>
+<td valign="top" width="98">
+<p align="center">3001 90 98 2</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="232">
+<p>Glandes et autres organes à usages opothérapiques, autres que des espèces bovine, ovine ou caprine, à l'état desséché, pulvérisés. </p>
+</td>
+<td valign="top" width="98">
+<p align="center">3001 90 98 3</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="232">
+<p>Glandes et autres organes à usages opothérapiques, de l'espèce bovine, à l'état desséché, autres que pulvérisés. </p>
+</td>
+<td valign="top" width="98">
+<p align="center">3001 90 98 4</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="232">
+<p>Glandes et autres organes à usages opothérapiques, des espèces ovine ou caprine, à l'état desséché, autres que pulvérisés. </p>
+</td>
+<td valign="top" width="98">
+<p align="center">3001 90 98 5</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="232">
+<p>Glandes et autres organes à usages opothérapiques, autres que des espèces bovine, ovine ou caprine, à l'état desséché, autres que pulvérisés. </p>
+</td>
+<td valign="top" width="98">
+<p align="center">3001 90 98 6</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="232">
+<p>Autres produits. </p>
+</td>
+<td valign="top" width="98">
+<p align="center">3001 90 98 9</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" valign="top" width="254">
+<p>Ballons et dirigeables ; planeurs et ailes volantes. </p>
+</td>
+<td rowspan="2" valign="top" width="96">
+<p align="center">8801 00 10</p>
+</td>
+<td valign="top" width="232">
+<p>Ballons et dirigeables, civils ; planeurs et ailes volantes, civils. </p>
+</td>
+<td valign="top" width="98">
+<p align="center">8801 00 10 1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="232">
+<p>Ballons et dirigeables, autres que civils ; planeurs et ailes volantes, autres que civils. </p>
+</td>
+<td valign="top" width="98">
+<p align="center">8801 00 10 9</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" valign="top" width="254">
+<p>Autres véhicules aériens, non conçus pour la propulsion à moteur. </p>
+</td>
+<td rowspan="2" valign="top" width="96">
+<p align="center">8801 00 90</p>
+</td>
+<td valign="top" width="232">
+<p>Autres véhicules aériens, non conçus pour la propulsion à moteur, civils. </p>
+</td>
+<td valign="top" width="98">
+<p align="center">8801 00 90 1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="232">
+<p>Autres véhicules aériens, non conçus pour la propulsion à moteur, autres que civils. </p>
+</td>
+<td valign="top" width="98">
+<p align="center">8801 00 90 9</p>
 </td>
 </tr>
 </tbody>
