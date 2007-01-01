@@ -1,3 +1,0 @@
-# Article 20-1
-
-Sont intégrés en qualité de titulaires dans le cadre d'emplois au grade d'adjoint administratif les fonctionnaires titulaires relevant du cadre d'emplois des agents administratifs qui, à la date de publication du présent décret, détiennent le grade d'agent administratif qualifié, soit au titre de la constitution initiale du cadre d'emplois des agents administratifs en ayant été intégrés à partir d'un emploi de sténodactylographe, soit à la suite du concours d'agent administratif qualifié qui était prévu à l'article 7 du décret n° 87-1110 du 30 décembre 1987 ou de l'examen d'aptitude aux fonctions de sténodactylographe qui était prévu à l'article 9 du décret précité, occupant ou ayant occupé un emploi de sténodactylographie.
