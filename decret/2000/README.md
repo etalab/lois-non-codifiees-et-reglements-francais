@@ -34,6 +34,7 @@
 - [Décret n°2000-1222 du 14 décembre 2000 (PRMX0000078D)](decret-n2000-1222-du-14-decembre-2000-prmx0000078d)
 - [Décret n°2000-250 du 15 mars 2000 (MENS0000215D)](decret-n2000-250-du-15-mars-2000-mens0000215d)
 - [Décret n°2000-1008 du 16 octobre 2000 (INTE0000270D)](decret-n2000-1008-du-16-octobre-2000-inte0000270d)
+- [Décret n°2000-1009 du 16 octobre 2000 (INTE0000271D)](decret-n2000-1009-du-16-octobre-2000-inte0000271d)
 - [Décret n°2000-128 du 16 février 2000 (EQUA0000314D)](decret-n2000-128-du-16-fevrier-2000-equa0000314d)
 - [Décret n°2001-1076 du 16 novembre 2001 (MJSK0170163D)](decret-n2001-1076-du-16-novembre-2001-mjsk0170163d)
 - [Décret n°99-1060 du 16 décembre 1999 (ECOX9900106D)](decret-n99-1060-du-16-decembre-1999-ecox9900106d)

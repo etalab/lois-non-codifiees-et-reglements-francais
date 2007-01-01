@@ -2,9 +2,9 @@
 
 Peuvent être inscrits sur la liste d'aptitude prévue au 2° de l'article 4 :
 
-1° Les fonctionnaires du cadre d'emplois des agents de maîtrise territoriaux et ceux du cadre d'emplois des agents techniques territoriaux titulaires du grade d'agent technique en chef ;
+1° Les fonctionnaires du cadre d'emplois des agents de maîtrise territoriaux et ceux du cadre d'emploi des adjoints techniques territoriaux titulaires du grade d'adjoint technique principal de 1re classe ;
 
-2° Les fonctionnaires du cadre d'emplois des agents techniques territoriaux admis à un examen professionnel ;
+2° Les fonctionnaires du cadre d'emplois des adjoints techniques territoriaux admis à un examen professionnel ;
 
 3° Les fonctionnaires du cadre d'emplois des agents de maîtrise territoriaux des établissements d'enseignement ;
 

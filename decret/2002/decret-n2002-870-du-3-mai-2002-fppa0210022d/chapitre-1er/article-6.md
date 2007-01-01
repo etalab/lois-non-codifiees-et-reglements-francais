@@ -1,0 +1,5 @@
+# Article 6
+
+Les personnes qui justifient, avant leur nomination dans un cadre d'emplois régi par le présent décret, de services accomplis dans une administration ou un organisme d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen au sens de l'article 4 du décret n° 2003-673 du 22 juillet 2003 fixant les dispositions générales relatives à la situation et aux modalités de classement des ressortissants des Etats membres de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen nommés dans un cadre d'emplois de la fonction publique territoriale sont classées, lors de leur nomination, en application des dispositions du titre II du même décret.
+
+Lorsqu'elles justifient en outre de services ne relevant pas de l'application du décret du 22 juillet 2003 précité, elles peuvent opter, dans les mêmes conditions que celles prévues à l'article 8, pour l'application des dispositions des articles 2 à 7 plutôt que pour l'application de celles du décret du 22 juillet 2003.
