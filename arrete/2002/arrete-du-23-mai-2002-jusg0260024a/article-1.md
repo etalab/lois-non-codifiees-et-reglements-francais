@@ -12,7 +12,29 @@ Ile-de-France ;
 
 Rhône-Alpes - Auvergne ;
 
-Provence-Alpes-Côte d'Azur-Corse.
+Provence-Alpes-Côte d'Azur-Corse ;
+
+Secrétaire général de la direction régionale des services pénitentiaires de Bordeaux ;
+
+Secrétaire général de la direction régionale des services pénitentiaires de Rennes ;
+
+Chef de département administration et finances de la direction régionale des services pénitentiaires de Bordeaux ;
+
+Chef de département administration et finances de la direction régionale des services pénitentiaires de Dijon ;
+
+Chef de département administration et finances de la direction régionale des services pénitentiaires de Lille ;
+
+Chef de département administration et finances de la direction régionale des services pénitentiaires de Lyon ;
+
+Chef de département administration et finances de la direction régionale des services pénitentiaires de Paris ;
+
+Chef de département administration et finances de la direction régionale des services pénitentiaires de Rennes ;
+
+Chef de département administration et finances de la direction régionale des services pénitentiaires de Strasbourg ;
+
+Chef de département administration et finances de la direction régionale des services pénitentiaires de Toulouse ;
+
+Chef du greffe de la maison d'arrêt de Fleury-Mérogis.
 
 Administration centrale :
 
@@ -38,4 +60,12 @@ Chef du bureau du budget, de la comptabilité et des finances à la direction de
 
 Chef du bureau de la gestion prévisionnelle des emplois, des effectifs et des compétences à la direction de l'administration pénitentiaire ;
 
-Chef du bureau des services informatiques à la direction de l'administration générale et de l'équipement.
+Chef du bureau des services informatiques à la direction de l'administration générale et de l'équipement ;
+
+Chef du bureau de l'évaluation et du contrôle de gestion à la direction de l'administration pénitentiaire ;
+
+Chef du bureau des équipements à la direction de l'administration pénitentiaire ;
+
+Chef de bureau des affaires statutaires des personnels pénitentiaires à la direction de l'administration pénitentiaire ;
+
+Chef du bureau de la gestion personnalisée des cadres à la direction de l'administration pénitentiaire.

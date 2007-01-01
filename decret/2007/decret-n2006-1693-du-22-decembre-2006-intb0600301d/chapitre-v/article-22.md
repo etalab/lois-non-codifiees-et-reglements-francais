@@ -1,0 +1,3 @@
+# Article 22
+
+Par dérogation aux dispositions du I de l'article 11, peuvent être promus au grade d'adjoint territorial d'animation principal de 2e classe, pendant une durée de deux ans à compter de la date d'entrée en vigueur du présent décret, par voie d'inscription à un tableau annuel d'avancement établi au choix après avis de la commission administrative paritaire, les adjoints territoriaux d'animation de 1re classe qui justifient, au 1er janvier de l'année au titre de laquelle est dressé le tableau d'avancement, d'au moins six ans de services effectifs dans leur grade, y compris la période normale de stage.

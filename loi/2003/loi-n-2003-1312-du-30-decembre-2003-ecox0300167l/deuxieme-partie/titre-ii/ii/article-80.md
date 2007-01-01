@@ -16,7 +16,7 @@ I. - Sont autorisés au sens de l'article 61 de la loi organique n° 2001-692 du
 
 7° Les garanties accordées dans le cadre de la liquidation amiable des sociétés de développement régional Lordex, Picardex et Centrest, et validées par l'article 80 de la loi n° 96-314 du 12 avril 1996 portant diverses dispositions d'ordre économique et financier ;
 
-8° La garantie tendant à l'apurement par l'Etat du report à nouveau de la gestion des fonds Codevi centralisés à la Caisse des dépôts et consignations, si ce report à nouveau est négatif, en application de la convention du 30 décembre 1994 entre la Caisse des dépôts et consignations et l'Etat ;
+8° La garantie tendant à l'apurement par l'Etat du report à nouveau de la gestion des fonds Livret de développement durable centralisés à la Caisse des dépôts et consignations, si ce report à nouveau est négatif, en application de la convention du 30 décembre 1994 entre la Caisse des dépôts et consignations et l'Etat ;
 
 9° La garantie accordée aux emprunts contractés en 2003 par l'Union nationale pour l'emploi dans l'industrie et le commerce par l'article 97 de la loi n° 2003-706 du 1er août 2003 de sécurité financière ;
 

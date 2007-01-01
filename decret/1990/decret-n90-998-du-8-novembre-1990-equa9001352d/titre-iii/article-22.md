@@ -2,10 +2,8 @@
 
 Peuvent être inscrits au tableau d'avancement en vue de leur nomination au grade d'ingénieur divisionnaire les ingénieurs principaux qui remplissent les conditions suivantes :
 
-a) Soit avoir exercé pendant neuf ans au moins les fonctions de premier contrôleur ;
+1° Soit avoir été pendant neuf ans au moins premier contrôleur ;
 
-b) Soit avoir exercé pendant quinze ans au moins les fonctions de contrôleur d'approche radar ou de contrôleur de centre de contrôle régional d'outre-mer ou de coordonnateur dans un détachement civil de coordination ;
+2° Soit avoir exercé pendant quinze ans au moins les fonctions de coordonnateur en détachement civil de coordination ou, au cours de ces quinze années, en tant qu'ingénieur du contrôle de la navigation aérienne et dans la limite de cinq années, les fonctions de contrôleur d'aérodrome dans un organisme classé ou ayant été classé dans le groupe F ou G ;
 
-c) Soit avoir exercé pendant vingt ans au moins les fonctions de contrôleur d'approche ou, en tant qu'ingénieur du contrôle de la navigation aérienne, les fonctions de contrôleur d'aérodrome dans un organisme figurant ou ayant figuré sur la liste n° 5 établie par l'arrêté de classement pris en application de l'article 3 du présent décret ; la durée d'exercice des fonctions de contrôleur d'aérodrome comptabilisée à ce titre ne peut excéder cinq années ;
-
-d) Soit compter vingt-trois ans au moins de services publics, avoir atteint le 9e échelon du grade d'ingénieur principal et être âgé d'au moins quarante-neuf ans.
+3° Soit compter vingt-trois ans au moins de services publics, avoir atteint le neuvième échelon du grade d'ingénieur principal et être âgé d'au moins quarante-neuf ans.

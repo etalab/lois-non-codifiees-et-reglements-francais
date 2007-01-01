@@ -6,6 +6,6 @@ II. - L'étanchéité de toutes les canalisations de transfert des effluents rad
 
 III. - Le bon fonctionnement des appareils de mesure et des alarmes associées se trouvant sur les canalisations est vérifié mensuellement. Ces appareils sont en outre contrôlés et réglés aussi souvent que nécessaire.
 
-IV. - Le bon fonctionnement des vannes et des clapets est vérifié selon un programme d'essais périodiques porté à la connaissance de la DGSNR et de la DRIRE Centre.
+IV. - Le bon fonctionnement des vannes et des clapets est vérifié selon un programme d'essais périodiques porté à la connaissance de l'Autorité de sûreté nucléaire et de la DRIRE Centre.
 
 V. - Un contrôle de l'absence de radioactivité, autre que naturelle et d'origine médicale, dans les réseaux d'effluents non radioactifs (réseaux des eaux usées, eaux pluviales ...) doit être réalisé au moins une fois par semaine, avec un seuil de décision aussi faible que possible et en aucun cas supérieur à 0,5 Bq/l en bêta globale et 50 Bq/l en tritium.

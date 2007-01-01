@@ -1,0 +1,3 @@
+# Article 4
+
+Lorsqu'un service de contrôle est mis en œuvre sur un aérodrome jusqu'alors non contrôlé, celui-ci est classé, à la date de mise en œuvre effective du service de contrôle d'aérodrome, selon les conditions définies en annexe du présent décret et en prenant en compte le nombre de mouvements équivalents calculés conformément à l'article 2, réalisés sur cet aérodrome l'année précédente ou, à défaut, prévus pour l'année en cours. Dans ce second cas, le classement en groupe est provisoire et actualisé au bout d'un an en fonction du nombre de mouvements équivalents réalisés la première année, avec pour date d'effet la date d'ouverture du service de contrôle.

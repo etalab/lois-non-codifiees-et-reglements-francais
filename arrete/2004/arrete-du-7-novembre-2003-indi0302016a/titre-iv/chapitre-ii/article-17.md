@@ -1,6 +1,6 @@
 # Article 17
 
-I. - Un plan de tous les réseaux de rejets d'effluents liquides est établi par l'exploitant, régulièrement mis à jour, notamment après chaque modification notable, et daté. Il est tenu à la disposition de la DGSNR, de la DRIRE et du service chargé de la police des eaux.
+I. - Un plan de tous les réseaux de rejets d'effluents liquides est établi par l'exploitant, régulièrement mis à jour, notamment après chaque modification notable, et daté. Il est tenu à la disposition de l'Autorité de sûreté nucléaire, de la DRIRE et du service chargé de la police des eaux.
 
 II. - Il est interdit d'établir des liaisons directes entre les réseaux de collecte des effluents devant subir un traitement ou être détruits et le milieu récepteur ou les réseaux d'assainissement extérieurs à l'établissement.
 
@@ -14,7 +14,7 @@ IV. - Les circuits de traitement comportent :
 
 - un circuit destiné à recueillir les effluents éventuellement radioactifs (eaux d'exhaure des salles des machines, purges des circuits ...). Ce circuit est raccordé à des réservoirs appelés "réservoirs Ex".
 
-En complément des réservoirs de stockage d'effluents radioactifs, des réservoirs appelés "réservoirs de santé" ou "réservoirs S" doivent rester vides, sauf accord préalable de la DGSNR. Ils ne peuvent être utilisés, même pour transit, que pour des considérations de sûreté ou de radioprotection.
+En complément des réservoirs de stockage d'effluents radioactifs, des réservoirs appelés "réservoirs de santé" ou "réservoirs S" doivent rester vides, sauf accord préalable de l'Autorité de sûreté nucléaire. Ils ne peuvent être utilisés, même pour transit, que pour des considérations de sûreté ou de radioprotection.
 
 V. - La capacité de stockage des effluents avant rejet pour l'ensemble des installations est au minimum de :
 

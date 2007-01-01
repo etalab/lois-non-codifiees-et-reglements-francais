@@ -12,9 +12,11 @@ Elle est chargée des relations avec les représentants du personnel et garantit
 
 Elle assure le suivi des rémunérations et des régimes indemnitaires. Elle définit les axes des politiques de recrutement et de formation professionnelle.
 
-Elle est chargée de l'organisation des services. A ce titre, elle étudie la politique d'implantation des structures territoriales en fonction des missions dévolues aux services des opérations commerciales, de la surveillance et aux laboratoires, et veille à sa mise en oeuvre. Elle assure l'implantation des effectifs et établit les indicateurs de contrôle de l'activité des services. Elle précise les méthodes de travail et les doctrines d'emploi des agents. Elle anime et coordonne l'activité des laboratoires.
+Elle est chargée de l'organisation des services. A ce titre, elle étudie la politique d'implantation des structures territoriales en fonction des missions dévolues aux services des opérations commerciales, de la surveillance et aux laboratoires, et veille à sa mise en oeuvre. Elle assure l'implantation des effectifs et établit les indicateurs de contrôle de l'activité des services. Elle précise les méthodes de travail et les doctrines d'emploi des agents.
 
 Elle participe à la politique ministérielle d'action sociale et d'hygiène et de sécurité.
+
+Elle prépare et assure le suivi, en liaison avec les services compétents de la direction générale de la concurrence, de la consommation et de la répression des fraudes, des travaux du comité stratégique du service commun des laboratoires, service à compétence nationale rattaché conjointement au directeur général des douanes et droits indirects et au directeur général de la concurrence, de la consommation et de la répression des fraudes.
 
 La sous-direction B
 

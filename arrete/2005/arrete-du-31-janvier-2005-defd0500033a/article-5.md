@@ -1,6 +1,6 @@
 # Article 5
 
-La sous-direction de la gestion et de la qualité interne comprend :
+La sous-direction de la gestion et de la qualité comprend :
 
 1. Le bureau de la stratégie, de l'organisation et du contrôle de gestion ;
 

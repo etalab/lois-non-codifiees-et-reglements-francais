@@ -1,0 +1,7 @@
+# Article 4
+
+I. - Les fonctionnaires appartenant au corps des secrétaires administratifs d'administration centrale du ministère de l'intérieur, au corps des secrétaires administratifs d'administration centrale du ministère de l'outre-mer ou au corps des secrétaires administratifs de préfecture et détachés dans un autre de ces trois anciens corps sont intégrés dans le corps des secrétaires administratifs de l'intérieur et de l'outre-mer créé par le présent décret. Ils sont classés dans ce dernier corps en appliquant les dispositions du deuxième alinéa du I de l'article 3 à leur situation dans le corps dans lequel ils étaient détachés.
+
+II. - Les fonctionnaires appartenant à un corps autre que l'un des trois anciens corps mentionnés au I et détachés dans l'un de ces trois corps sont placés, pour la durée de leur détachement restant à courir, en position de détachement dans le corps des secrétaires administratifs de l'intérieur et de l'outre-mer créé par le présent décret. Ils sont classés dans ce dernier corps en appliquant les dispositions du deuxième alinéa du I de l'article 3 à leur situation dans le corps dans lequel ils étaient détachés.
+
+III. - Les services accomplis en position de détachement dans leur précédent corps et grade par les fonctionnaires mentionnés au I et au II sont assimilés à des services accomplis en position de détachement dans le corps et les grades créés par le présent décret.

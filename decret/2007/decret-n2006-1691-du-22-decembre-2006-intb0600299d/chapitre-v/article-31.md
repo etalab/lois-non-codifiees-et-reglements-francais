@@ -1,0 +1,3 @@
+# Article 31
+
+Le décret n° 88-552 du 6 mai 1988 portant statut particulier du cadre d'emplois des agents territoriaux des services techniques, le décret n° 88-553 du 6 mai 1988 portant statut particulier du cadre d'emplois des agents de salubrité territoriaux, le décret n° 88-554 du 6 mai 1988 portant statut particulier du cadre d'emplois des agents techniques territoriaux, le décret n° 92-873 du 28 août 1992 portant statut particulier du cadre d'emplois des aides médico-techniques territoriaux et le décret n° 99-391 du 19 mai 1999 portant statut particulier du cadre d'emplois des gardiens territoriaux d'immeuble sont abrogés.

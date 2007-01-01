@@ -1,3 +1,3 @@
 # Article 14
 
-Sont intégrés en qualité de titulaires dans ce cadre d'emplois les agents territoriaux qui, titularisés dans les conditions prévues au décret du 9 janvier 1986 susvisé, assurent les fonctions ou occupent les emplois mentionnés à l'article 2 du présent décret.
+Les tableaux d'avancement établis au titre de l'année 2006, pour l'accès au grade d'agent social qualifié de 1re classe, demeurent valables pour la promotion dans le grade d'agent social de 1re classe.

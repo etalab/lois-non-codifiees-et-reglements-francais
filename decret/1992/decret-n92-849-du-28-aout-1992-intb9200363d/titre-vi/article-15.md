@@ -1,3 +1,3 @@
 # Article 15
 
-Le classement dans le grade d'intégration intervient à l'échelon atteint dans l'emploi d'origine avec conservation de l'ancienneté d'échelon. Toutefois, les fonctionnaires dont l'emploi d'origine n'est pas doté d'une échelle de rémunération définie par le décret du 30 décembre 1987 précité sont classés dans les conditions prévues à l'article 10 ci-dessus.
+Par dérogation à l'article 8, et pendant une durée de 3 ans calculée à compter de la date d'entrée en vigueur du décret n° 2006-1694 du 22 décembre 2006, peuvent être promus au grade d'adjoint social de 1re classe, par la voie d'un examen professionnel, les adjoints sociaux de 2e classe ayant atteint le 3e échelon et comptant deux ans de services effectifs dans leur grade.

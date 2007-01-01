@@ -2,11 +2,11 @@
 
 A. - Fonctions exercées en administration centrale
 
-1° Vice-président du Conseil général des ponts et chaussées.
+1° Vice-président du conseil général des ponts et chaussées.
 
 2° Directeur général et directeur d'administration centrale, délégué interministériel.
 
-3° Haut fonctionnaire de défense, haut fonctionnaire pour la sécurité dans les transports, haut fonctionnaire délégué à l'intermodalité ou à l'accessibilité.
+3° Haut fonctionnaire de défense et de sécurité, haut fonctionnaire pour la sécurité dans les transports, haut fonctionnaire délégué à l'intermodalité ou à l'accessibilité.
 
 4° Directeur de centre.
 
@@ -28,7 +28,7 @@ B. - Fonctions exercées dans un service déconcentré
 
 3° Directeur délégué régional ou départemental de l'équipement.
 
-4° Chef de service navigation, chef de service de navigation délégué, chef de service maritime, chef de service maritime et de navigation, chef de service spécial des bases aériennes.
+4° Chef de service navigation, chef de service navigation délégué, chef de service maritime, chef de service maritime et de navigation, chef de service spécial des bases aériennes.
 
 5° Directeur de centre d'études techniques de l'équipement.
 
@@ -38,8 +38,10 @@ B. - Fonctions exercées dans un service déconcentré
 
 8° Directeur départemental des affaires maritimes.
 
-C. - Fonctions exercées dans un service
+9° Directeur interdépartemental des routes.
 
-à compétence nationale ou dans un service technique central
+C. - Fonctions exercées dans un service à compétence
+
+nationale ou dans un service technique central
 
 Directeur ou chef de service ou chef de centre.

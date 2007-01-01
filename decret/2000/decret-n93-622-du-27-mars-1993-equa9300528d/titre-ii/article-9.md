@@ -1,43 +1,173 @@
 # Article 9
 
-Au moment de leur titularisation, les techniciens stagiaires sont nommés techniciens supérieurs des études et de l'exploitation de l'aviation civile par arrêté du ministre chargé de l'aviation civile.
+Lors de leur titularisation, les techniciens supérieurs des études et de l'exploitation recrutés en application des 1° à 4° de l'article 8 sont classés en application des dispositions de l'article 9-1 et des I, II, III et IV de l'article 3 et des articles 4, 4-1 et 4-3, 5 et 7 du décret n° 94-1016 du 18 novembre 1994 fixant les dispositions statutaires communes applicables à divers corps de fonctionnaires de la catégorie B, sous réserve des dispositions suivantes :
 
-Sous réserve des dispositions ci-après, ils sont nommés au 1er échelon du grade de technicien des études et de l'exploitation de classe normale, sans ancienneté ;
+1° Pour l'application des II et IV de l'article 3 et de l'article 4-1 du décret du 18 novembre 1994 précité, les durées moyennes fixées pour chaque avancement d'échelon sont celles fixées par l'article 14 du présent décret ;
 
-1° Les fonctionnaires appartenant à un corps ou à un cadre d'emplois de catégorie C ou de même niveau sont classés dans le grade de technicien supérieur des études et de l'exploitation de l'aviation civile à un échelon déterminé sur la base des durées moyennes fixées à l'article 14 pour chaque avancement d'échelon, en prenant en compte l'ancienneté de la carrière nécessaire pour accéder au grade et à l'échelon que les fonctionnaires intéressés ont atteint, à la date de leur nomination en qualité d'élève ou de stagiaire, dans leur corps ou cadre d'emploi d'origine, calculée dans les conditions suivantes et augmentée, le cas échéant, de l'ancienneté acquise dans l'échelon détenu dans le grade d'origine.
+2° Le tableau suivant se substitue à celui prévu au I de l'article 3 du décret du 18 novembre 1994 précité :
 
-Cette ancienneté de carrière est calculée sur la base :
+<table>
+<tbody>
+<tr>
+<td align="left" valign="middle">
+<p align="center">
+<strong>SITUATION DANS L'ECHELLE 6<br/>
+</strong>de la catégorie C</p>
+</td>
+<td align="left" colspan="2" valign="middle">
+<p align="center">
+<strong>SITUATION DANS LE GRADE<br/>
+</strong>de technicien supérieur de classe normale</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<pre> </pre>
+</td>
+<td align="left" valign="middle">
+<p align="center">Classes normale<br/>échelons</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">Ancienneté conservée dans la limite de la durée de l'échelon</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">Echelon spécial</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">9e</p>
+</td>
+<td align="left" valign="middle">
+<p align="left">Ancienneté acquise.</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">7e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">8e</p>
+</td>
+<td align="left" valign="middle">
+<p align="left">Ancienneté acquise.</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">6e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">8e</p>
+</td>
+<td align="left" valign="middle">
+<p align="left">Sans ancienneté.</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">5e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">6e</p>
+</td>
+<td align="left" valign="middle">
+<p align="left">Ancienneté acquise majorée de un an.</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">4e échelon :</p>
+</td>
+<td align="left" valign="middle">
+<pre> </pre>
+</td>
+<td align="left" valign="middle">
+<pre> </pre>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">- à partir d'un an et huit mois</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">6e</p>
+</td>
+<td align="left" valign="middle">
+<p align="left">5/6 de l'ancienneté acquise.</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">- avant un an et huit mois</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">6e</p>
+</td>
+<td align="left" valign="middle">
+<p align="left">Sans ancienneté.</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">3e échelon :</p>
+</td>
+<td align="left" valign="middle">
+<pre> </pre>
+</td>
+<td align="left" valign="middle">
+<pre> </pre>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">- à partir de deux ans</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">5e</p>
+</td>
+<td align="left" valign="middle">
+<p align="left">2/3 de l'ancienneté acquise.</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">- avant deux ans</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">5e</p>
+</td>
+<td align="left" valign="middle">
+<p align="left">Sans ancienneté.</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">2e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">4e</p>
+</td>
+<td align="left" valign="middle">
+<p align="left">Ancienneté acquise.</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">1er échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">3e</p>
+</td>
+<td align="left" valign="middle">
+<p align="left">Ancienneté acquise.</p>
+</td>
+</tr>
+</tbody>
+</table>
 
-a) D'une part, de la durée statutaire moyenne du temps passé dans les échelons du grade d'origine ;
+3° La proportion des deux cinquièmes se substitue à celle des deux tiers prévue aux II et III de l'article 3 du décret du 18 novembre 1994 précité ;
 
-b) D'autre part, pour les fonctionnaires titulaires d'un grade d'avancement, de l'ancienneté qu'il est nécessaire de détenir au minimum dans le ou les grades inférieurs pour accéder au grade d'origine détenu, en tenant compte de la durée statutaire moyenne fixée pour chaque avancement d'échelon. Toutefois, cette ancienneté ne peut être inférieure à celle qui aurait été retenue pour ce fonctionnaire dans le grade inférieur s'il n'avait pas obtenu de promotion de grade.
+4° L'ancienneté théorique définie au b du III de l'article 3 du décret du 18 novembre 1994 précité s'apprécie à la date de titularisation dans le corps des techniciens supérieurs des études et de l'exploitation de l'aviation civile ;
 
-L'ancienneté ainsi déterminée n'est pas retenue en ce qui concerne les quatre premières années ; elle est prise en compte à raison des deux tiers pour la fraction comprise entre quatre et dix ans et des trois quarts pour l'ancienneté excédant dix ans.
-
-Les fonctionnaires de catégories C ou de même niveau qui détiennent un grade dont l'indice brut terminal est soit égal à 449, soit égal à 479 sont classés conformément au tableau de correspondance ci-après (tableau non reproduit, voir le fac-similé)
-
-Lorsque l'application des tableaux ci-dessus aboutit à classer les fonctionnaires intéressés à un échelon doté d'un indice inférieur à celui qu'ils détenaient dans leur grade précédent, ceux-ci conservent, à titre personnel, le bénéfice de leur indice antérieur jusqu'au jour où ils bénéficient, dans leur nouveau grade, d'un indice au moins égal.
-
-L'application des tableaux ci-dessus ne doit pas avoir pour effet de procurer aux intéressés reclassés une situation plus favorable, tant en ce qui concerne l'échelon de reclassement que l'ancienneté conservée, que celle qui aurait été la leur, compte tenu des durées moyennes d'avancement fixées à l'article 14, s'ils avaient été directement recrutés dans un corps de catégorie B.
-
-2° Les autres fonctionnaires de l'Etat, des collectivités territoriales et des établissements publics qui en dépendent sont classés à l'échelon du grade de technicien de classe normale qui comporte un traitement égal ou, à défaut, immédiatement supérieur au dernier traitement perçu dans leur corps d'origine.
-
-Dans la limite de l'ancienneté moyenne exigée à l'article 14 pour une promotion à l'échelon supérieur, ils conservent l'ancienneté d'échelon qu'ils avaient acquise dans leur précédent grade lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle que leur aurait procurée un avancement d'échelon dans leur ancienne situation.
-
-Les candidats nommés alors qu'ils ont atteint l'échelon le plus élevé de leur précédent grade conservent leur ancienneté d'échelon, dans les mêmes conditions et limites, lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle que leur avait procurée leur nomination audit échelon.
-
-Les intéressés peuvent opter pour le régime institué au 1° ci-dessus en faveur des fonctionnaires de la catégorie C. Dans ce cas, les durées moyennes du temps passé dans chaque échelon de leur précédent grade sont celles du statut particulier régissant ce grade.
-
-3° Ceux qui avaient auparavant la qualité d'agent contractuel sont classés dans le grade de début à un échelon déterminé en prenant en compte les services accomplis dans un emploi du niveau de la catégorie B à raison des trois quarts de leur durée, et ceux accomplis dans un emploi de niveau inférieur à raison de la moitié de leur durée.
-
-Ce reclassement ne doit en aucun cas aboutir à des situations plus favorables que celles qui résulteraient d'un reclassement à un échelon comportant un traitement égal ou, à défaut, immédiatement supérieur à celui perçu dans l'ancien emploi, avec conservation de l'ancienneté d'échelon dans les conditions définies au 2° ci-dessus.
-
-4° Ceux qui avaient auparavant la qualité d'ouvrier d'Etat sont classés en prenant en compte, sur la base des durées moyennes fixées à l'article 14 ci-dessous pour chaque avancement d'échelon, une fraction de l'ancienneté de service qu'ils ont acquise à la date de leur nomination comme élève ou stagiaire, dans les conditions définies ci-dessous.
-
-Les services accomplis en qualité d'ouvrier de la métallurgie dans le groupe V ou en qualité d'ouvrier du livre dans le groupe P1 sont retenus à raison du quart de leur durée.
-
-Les services accomplis en qualité d'ouvrier de la métallurgie chef d'équipe dans le groupe V ou en qualité d'ouvrier du livre chef d'équipe dans le groupe P1 ainsi que les services accomplis en qualité d'ouvrier de la métallurgie dans les groupes VI et VII ou en qualité d'ouvrier du livre dans les groupes P2 et P3 sont retenus à raison de la moitié de leur durée.
-
-Les services accomplis en qualité d'ouvrier de la métallurgie chef d'équipe dans les groupes VI et VII ou en qualité d'ouvrier du livre des groupes P2 et P3 chef d'équipe ainsi que les services accomplis en qualité d'ouvrier de la métallurgie dans la hors catégorie commune ou en hors catégorie A, B ou C ainsi qu'en qualité d'ouvrier du livre en groupe P3 bis et dans les groupes E sont retenus à raison des deux tiers de leur durée.
-
-Les services accomplis en qualité d'ouvrier de la métallurgie dans la hors catégorie commune et en hors catégorie A, B ou C en qualité de chef d'équipe ainsi que les services accomplis en qualité d'ouvrier du livre dans le groupe P3 bis et dans les groupes E en qualité de chef d'équipe sont retenus à raison des quatre cinquièmes de leur durée.
+5° La proportion des trois septièmes et celle du tiers se substituent respectivement à celle des trois quarts et à celle de la moitié mentionnées aux articles 4 et 5 du décret du 18 novembre 1994 précité.

@@ -4,7 +4,7 @@ Décisions et avis de l'autorité compétente.
 
 1. Lorsque le présent arrêté ou ses annexes requièrent une décision de l'autorité compétente française ou la délivrance d'un certificat par cette autorité, cette autorité compétente est le ministre chargé des transports. Toutefois, cette autorité compétente est :
 
-- conjointement le ministre chargé de l'industrie et le ministre chargé de l'environnement pour les transports de matières radioactives et fissiles à usage civil ;
+- l'Autorité de sûreté nucléaire pour les transports de matières radioactives et fissiles à usage civil ;
 
 - le ministre chargé de l'industrie lorsque celui-ci est compétent en vertu du décret n° 2001-386 du 3 mai 2001 modifié relatif aux équipements sous pression transportables (notamment pour l'évaluation de la conformité, la réévaluation de la conformité, le contrôle périodique, l'utilisation et l'entretien des récipients à gaz).
 

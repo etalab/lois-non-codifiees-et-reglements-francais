@@ -12,10 +12,6 @@ Les dispositions prévues par le décret du 6 février 1950 susvisé sont applic
 
 -administrateurs civils ;
 
--attachés d'administration centrale ;
-
--corps administratif supérieur des services déconcentrés ;
-
 -chargés d'études documentaires ;
 
 -conseillers techniques de service social ;
@@ -50,4 +46,6 @@ Les dispositions prévues par le décret du 6 février 1950 susvisé sont applic
 
 -directeurs de projets ;
 
--conseillers pour les affaires administratives.
+-conseillers pour les affaires administratives ;
+
+- attachés d'administration.

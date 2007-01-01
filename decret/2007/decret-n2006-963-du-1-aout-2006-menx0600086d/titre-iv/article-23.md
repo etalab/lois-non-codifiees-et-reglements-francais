@@ -1,0 +1,3 @@
+# Article 23
+
+A compter de la date d'entrée en vigueur du présent décret, les personnels du groupement d'intérêt public " Agence nationale de la recherche " sont recrutés par l'établissement public sur des contrats de droit public soumis aux dispositions du décret du 17 janvier 1986 susvisé, dans le respect des conditions prévues par l'article 20 de la loi du 26 juillet 2005 susvisée. Les services antérieurement accomplis pour le groupement d'intérêt public sont assimilés à des services publics exercés auprès de l'établissement public, notamment pour ce qui concerne l'ensemble des droits relatifs à l'ancienneté qui sont décomptés à compter du premier contrat conclu avec le groupement d'intérêt public.

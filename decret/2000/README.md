@@ -76,6 +76,7 @@
 - [Décret n°2000-1053 du 24 octobre 2000 (AGRP0000785D)](decret-n2000-1053-du-24-octobre-2000-agrp0000785d)
 - [Décret n°2000-1147 du 24 novembre 2000 (EQUA0001372D)](decret-n2000-1147-du-24-novembre-2000-equa0001372d)
 - [Décret n°2000-276 du 24 mars 2000 (INTD0000080D)](decret-n2000-276-du-24-mars-2000-intd0000080d)
+- [Décret n°2000-716 du 24 juillet 2000 (MESM0021328D)](decret-n2000-716-du-24-juillet-2000-mesm0021328d)
 - [Décret n°2000-789 du 24 août 2000 (MAEA0020137D)](decret-n2000-789-du-24-aout-2000-maea0020137d)
 - [Décret n°2000-798 du 24 août 2000 (INTA0000212D)](decret-n2000-798-du-24-aout-2000-inta0000212d)
 - [Décret n°2000-800 du 24 août 2000 (INTC0000230D)](decret-n2000-800-du-24-aout-2000-intc0000230d)

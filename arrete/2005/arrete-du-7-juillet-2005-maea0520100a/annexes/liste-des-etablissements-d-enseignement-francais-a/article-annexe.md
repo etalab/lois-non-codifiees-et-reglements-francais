@@ -10,7 +10,7 @@ Algérie
 
 Lycée international Alexandre Dumas, Alger.
 
-République fédérale d'Allemagne
+Allemagne
 
 Lycée français, Berlin.
 
@@ -48,7 +48,7 @@ Chine
 
 Lycée français, Pékin.
 
-République arabe d'Egypte
+Egypte
 
 Lycée français, Le Caire.
 
@@ -68,16 +68,6 @@ Ecole Saint-Exupéry, Madrid.
 
 Lycée français, Valence.
 
-Grande-Bretagne
-
-Lycée français Charles de Gaulle, Londres.
-
-Etablissements rattachés au groupement :
-
-Ecole André Malraux, Ealing, Londres ;
-
-Ecole française, Wix, Londres.
-
 Inde
 
 Lycée français, Pondichéry.
@@ -86,7 +76,7 @@ Italie
 
 Lycée Stendhal, Milan.
 
-Lycée Chateaubriand, Rome.
+Lycée Châteaubriand, Rome.
 
 Etablissement rattaché au groupement :
 
@@ -136,15 +126,15 @@ Lycée Paul Valéry, Meknès.
 
 Etablissements rattachés au groupement :
 
-Groupe scolaire Jean de La Fontaine, Fès ;
+Groupe scolaire Jean de la Fontaine, Fès ;
 
-Ecole Jean Jacques Rousseau, Meknès.
+Ecole Jean-Jacques Rousseau, Meknès.
 
 Lycée Descartes, Rabat.
 
 Etablissements rattachés au groupement :
 
-Collège Saint Exupéry, Rabat ;
+Collège Saint-Exupéry, Rabat ;
 
 Groupe scolaire Honoré de Balzac, Kenitra ;
 
@@ -168,7 +158,7 @@ Lycée français Théodore Monod, Nouakchott.
 
 Niger
 
-Lycée Jean de La Fontaine, Niamey.
+Lycée Jean de la Fontaine, Niamey.
 
 Pays-Bas
 
@@ -186,9 +176,23 @@ République tchèque
 
 Lycée français, Prague.
 
+Royaume-Uni
+
+Lycée français Charles de Gaulle, Londres.
+
+Etablissements rattachés au groupement :
+
+Ecole André Malraux, Ealing, Londres ;
+
+Ecole française, Wix, Londres.
+
 Russie
 
 Lycée français Alexandre Dumas, Moscou.
+
+Etablissement rattaché au groupement :
+
+Ecole française, Saint-Pétersbourg.
 
 Sénégal
 
@@ -228,11 +232,13 @@ Ecole française Colette, Hô Chi Minh-Ville.
 
 Afrique du Sud
 
-Lycée français Jules Verne, Johannesburg.
+Lycée français Jules Verne, Johannesburg et son annexe :
 
-Ecole française, Le Cap.
+Ecole Myriam Makeba, Pretoria ;
 
-République fédérale d'Allemagne
+Ecole française François Le Vaillant, Le Cap.
+
+Allemagne
 
 Ecole de Gaulle-Adenauer, Bonn.
 
@@ -246,23 +252,23 @@ Ecole française Pierre et Marie Curie, Heidelberg.
 
 Ecole française, Sarrebruck et Dilling.
 
-Ecole maternelle bilingue franco-allemande Georges Cuvier, Stuttgart.
+Ecole maternelle française Georges Cuvier, Stuttgart.
 
 Angola
 
-Ecole française Alioune Blondin Bèye, Luanda.
+Lycée français Alioune Blondin Bèye, Luanda.
 
 Arabie saoudite
 
-Ecole française, Dharan-al-Khobar.
+Section française de la SAIS, Dharan al Khobar.
 
-Ecole française, Djeddah.
+Section française de la SAIS, Djeddah.
 
-Ecole française, Riyad.
+Section française de la SAIS, Riyad.
 
 Argentine
 
-Collège franco-argentin Martinez, Buenos Aires.
+Collège franco-argentin de Martinez, Buenos Aires.
 
 Australie
 
@@ -296,7 +302,7 @@ Lycée français François Mitterrand, Brasilia.
 
 Lycée Molière, Rio de Janeiro.
 
-Lycée Pasteur, Sao Paulo.
+Lycée Pasteur, Salo Paulo.
 
 Bulgarie
 
@@ -315,10 +321,6 @@ Lycée français René Descartes, Phnom Penh.
 Cameroun
 
 Lycée français Dominique Savio, Douala.
-
-Ecole française Le Tinguelin, Garoua.
-
-Ecole française Les Boukarous, Maroua.
 
 Lycée Fustel de Coulanges, Yaoundé.
 
@@ -340,13 +342,13 @@ Lycée Charles de Gaulle, Bangui.
 
 Chili
 
-Lycée Charles de Gaulle, Concepcion.
+Lycée Charles de Gaulle, Concepciojn.
 
-Lycée Claude Gay, Osormo.
+Lycée Claude Gay, Osorno.
 
 Lycée Antoine de Saint-Exupéry, Santiago.
 
-Lycée Jean d'Alembert, Vinla del Mar, Valparaiso.
+Lycée Jean d'Alembert, Vina del Mar, Valparaiso.
 
 Chine
 
@@ -362,7 +364,7 @@ Colombie
 
 Lycée français Louis Pasteur, Bogota.
 
-Lycée Paul Valéry, Cali.
+Lycée français Paul Valéry, Cali.
 
 Comores
 
@@ -378,7 +380,7 @@ République démocratique du Congo
 
 Lycée français René Descartes, Kinshasa.
 
-Corée
+Corée du Sud
 
 Lycée français, Séoul.
 
@@ -392,7 +394,7 @@ Ecole française, Zagreb.
 
 Cuba
 
-Ecole française de La Havane, La Havane.
+Ecole française, La Havane.
 
 Danemark
 
@@ -408,13 +410,9 @@ République dominicaine
 
 Lycée français, Saint-Domingue.
 
-République arabe d'Egypte
-
-Ecole française Champollion, Alexandrie.
-
 Emirats arabes unis
 
-Lycée français Georges Pompidou, Sharjah.
+Lycée français Georges Pompidou, Dubai, Charjah.
 
 Equateur
 
@@ -446,7 +444,7 @@ Lycée français international Rochambeau, Washington.
 
 Ethiopie
 
-Lycée franco-éthiopien Guebre Mariam, Addis Abeba.
+Lycée franco-éthiopien Guebre Mariam, Addis-Abeba.
 
 Finlande
 
@@ -466,12 +464,6 @@ Ghana
 
 Ecole française Jacques Prévert, Accra.
 
-Grande-Bretagne
-
-Ecole L'Ile aux enfants, Londres.
-
-Ecole française Jacques Prévert, Londres.
-
 Grèce
 
 Lycée franco-hellénique, Athènes.
@@ -480,7 +472,7 @@ Ecole française, Thessalonique.
 
 Guatemala
 
-Collège Jules Verne, Guatemala.
+Collège Jules Verne, Guatemala-Ville.
 
 Guinée
 
@@ -546,7 +538,7 @@ Ecole française, Amman.
 
 Kenya
 
-Lycée français Denis-Diderot, Nairobi.
+Lycée français Denis Diderot, Nairobi.
 
 Koweït
 
@@ -558,17 +550,17 @@ Ecole française Hoffet, Vientiane.
 
 Liban
 
-Lycée franco-libanais Nahr lbrahim, Jounieh.
-
 Collège protestant français, Beyrouth.
 
 Grand lycée franco-libanais, Beyrouth.
 
-Lycée Abdel-Kader, Beyrouth.
+Lycée Abdel Kader, Beyrouth.
 
 Lycée franco-libanais Verdun, Beyrouth.
 
-Lycée franco-libanais, Tripoli.
+Lycée franco-libanais Nahr Ibrahim, Jounieh.
+
+Lycée franco-libanais Alphonse de Lamartine, Tripoli.
 
 Libye
 
@@ -586,7 +578,7 @@ Ecole primaire française, Antalaha.
 
 Collège français Jules Verne, Antsirabé.
 
-Lycée français Sadi Carnot, Antsiranana (Diégo-Suarez).
+Lycée français Sadi Carnot, Antsiranana (Diego-Suarez).
 
 Lycée français René Cassin, Fianarantsoa.
 
@@ -620,7 +612,7 @@ Lycée des Mascareignes, Moka.
 
 Mexique
 
-Collège franco-mexicain, Guadalajara (section française).
+Lycée français, Guadalajara.
 
 Lycée franco-mexicain, Mexico (section française).
 
@@ -653,6 +645,10 @@ Ecole française, Mascate.
 Ouganda
 
 Ecole française Les Grands Lacs, Kampala.
+
+Ouzbékistan
+
+Ecole française, Tachkent.
 
 Pakistan
 
@@ -690,17 +686,19 @@ Roumanie
 
 Lycée français Anna de Noailles, Bucarest.
 
-Russie
+Royaume-Uni
 
-Ecole française, Saint-Pétersbourg.
+Ecole L'Ile aux enfants, Londres.
 
-El Salvador
+Ecole française Jacques Prévert, Londres.
 
-Lycée français, San Salvador.
+Salvador (El)
+
+Lycée français Antoine et Consuelo de Saint-Exupéry, San Salvador.
 
 Sénégal
 
-Institution Sainte Jeanne d'Arc, Dakar.
+Institution Sainte-Jeanne d'Arc, Dakar.
 
 Ecole française Antoine de Saint-Exupéry, Saint-Louis.
 
@@ -708,7 +706,7 @@ Ecole française Docteur Guillet, Thiès.
 
 Ecole française François Rabelais, Ziguinchor.
 
-Serbie-et-Monténégro
+Serbie
 
 Ecole française, Belgrade.
 
@@ -720,7 +718,7 @@ Singapour
 
 Lycée français, Singapour.
 
-République slovaque
+Slovaquie
 
 Ecole française, Bratislava.
 
@@ -756,7 +754,7 @@ Ecole française, Taipei.
 
 Tanzanie
 
-Ecole française Arthur Rimbaud, Dar es-Salaam.
+Ecole française Arthur Rimbaud, Dar Es-Salaam.
 
 Tchad
 
@@ -778,7 +776,7 @@ Lycée français Pierre Loti, Istanbul.
 
 Ukraine
 
-Ecole française, Kiev.
+Collège français Anne de Kiev, Kiev.
 
 Uruguay
 
@@ -786,11 +784,11 @@ Lycée français Jules Supervielle, Montevideo.
 
 Vanuatu
 
-Lycée français, Port Vila.
+Lycée français, Port-Vila.
 
 Venezuela
 
-Lycée français (colegio francia), Caracas.
+Lycée français (Colegio Francia), Caracas.
 
 Vietnam
 
@@ -806,4 +804,4 @@ Ecole française Champollion, Lusaka.
 
 Zimbabwe
 
-Ecole française Jean de La Fontaine, Harare.
+Groupe scolaire français Jean de La Fontaine, Harare.

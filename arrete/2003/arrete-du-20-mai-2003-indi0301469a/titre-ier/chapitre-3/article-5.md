@@ -10,9 +10,9 @@ IV. - Les fondations des ouvrages doivent être descendues assez profondément p
 
 V. - Les ouvrages de prélèvement d'eau souterraine sont équipés d'un clapet anti-retour ou de tout autre dispositif équivalent. Les forages sont réalisés de telle façon à assurer, pendant toute la durée du forage et de leur exploitation, une protection des eaux souterraines contre l'interconnexion des nappes et le risque d'introduction de pollution de surface.
 
-Toute mise hors service des forages devra, au préalable, être portée à la connaissance de la DGSNR et de la DRIRE Centre. Les travaux d'obturation, de comblement devront assurer durablement la protection des nappes phréatiques contre tout risque d'infiltration ou d'interconnexion.
+Toute mise hors service des forages devra, au préalable, être portée à la connaissance de l'Autorité de sûreté nucléaire et de la DRIRE Centre. Les travaux d'obturation, de comblement devront assurer durablement la protection des nappes phréatiques contre tout risque d'infiltration ou d'interconnexion.
 
-Les mesures prises ainsi que l'efficacité attendue sont consignées dans un document de synthèse porté à la connaissance de la DGSNR et la DRIRE Centre.
+Les mesures prises ainsi que l'efficacité attendue sont consignées dans un document de synthèse porté à la connaissance de l'Autorité de sûreté nucléaire et la DRIRE Centre.
 
 VI. - L'ouvrage de prise d'eau est situé en rive gauche de la Loire (PK 492,220). Il est constitué de :
 

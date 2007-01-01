@@ -11,3 +11,5 @@ Travaux exposant aux poussières, fumées ou brouillards produits lors du grilla
 Procédé à l'acide fort dans la fabrication d'alcool isopropylique.
 
 Travaux exposant aux poussières de bois inhalables.
+
+Travaux exposant au formaldéhyde.

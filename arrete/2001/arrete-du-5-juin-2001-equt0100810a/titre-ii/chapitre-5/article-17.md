@@ -1,14 +1,14 @@
 # Article 17
 
-Avis d'expédition au ministère chargé de l'industrie, au ministère chargé de l'environnement et au ministère chargé de l'intérieur pour certaines matières radioactives.
+Notification d'expédition à l'Autorité de sûreté nucléaire et au ministère chargé de l'intérieur pour certaines matières radioactives.
 
-1. L'avis préalable stipulé au 5.1.5.2.4 est adressé par l'expéditeur au ministère chargé de l'industrie et au ministère chargé de l'environnement (DGSNR), ainsi qu'au ministère chargé de l'intérieur (direction de la défense et de la sécurité civiles - COGIC) avec copie au transporteur. Ces dispositions sont également applicables à toute expédition de colis chargé de matière fissile.
+1. La notification préalable stipulée au 5.1.5.2.4 est adressé par l'expéditeur à l'Autorité de sûreté nucléaire (ASN), ainsi qu'au ministère chargé de l'intérieur (direction de la défense et de la sécurité civiles - COGIC) avec copie au transporteur. Ces dispositions sont également applicables à toute expédition de colis chargé de matière fissile.
 
 2. Le transporteur transmet les informations nécessaires au gestionnaire de l'infrastructure qui prend les dispositions utiles pour que toutes les gares du parcours soient avisées de la circulation de telles expéditions.
 
-3. L'avis préalable prévu au paragraphe 1 doit parvenir 7 jours ouvrables au moins avant l'expédition. Les renseignements sont adressés par télécopie ou télex.
+3. La notification préalable prévue au paragraphe 1 doit parvenir 7 jours ouvrables au moins avant l'expédition. Les renseignements sont adressés par télécopie ou télex.
 
-4. L'avis préalable de transport doit préciser les renseignements indiqués au 5.1.5.2.4 dans la forme suivante :
+4. La notification préalable de transport doit préciser les renseignements indiqués au 5.1.5.2.4 dans la forme suivante :
 
 a) Les matières transportées :
 

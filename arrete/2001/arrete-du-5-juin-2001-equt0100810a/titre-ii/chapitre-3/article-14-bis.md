@@ -22,11 +22,11 @@ Toutefois, les entreprises qui effectuent des opérations de déchargement dans 
 
 2. Désignation du conseiller.
 
-Le chef de toute entreprise concernée doit indiquer l'identité de son conseiller, ou, le cas échéant, de ses conseillers suivant le modèle de déclaration CERFA n° 12251-02 figurant en annexe D 9 de l'arrêté ADR, au préfet du département (direction régionale de l'équipement) où l'entreprise est domiciliée.
+Le chef de toute entreprise concernée doit indiquer l'identité de son conseiller, ou, le cas échéant, de ses conseillers suivant le modèle de déclaration CERFA n° 12251-02 figurant en annexe D 9 de l'arrêté ADR, au préfet du département (direction régionale de l'équipement) où l'entreprise est domiciliée. Lorsqu'une entreprise désigne plusieurs conseillers, elle doit préciser le champ de compétence (géographique, thématique ou autre) de chacun d'eux.
 
-Lorsqu'une entreprise désigne plusieurs conseillers, elle doit préciser le champ de compétence (géographique, thématique ou autre) de chacun d'eux.
+Lorsque le conseiller n'est plus en mesure d'exercer ses fonctions, le chef de l'entreprise est tenu de désigner un nouveau conseiller, au plus tard dans le délai de deux mois. Le chef d'entreprise doit indiquer dans un délai de quinze jours ce changement au préfet du département (direction régionale de l'équipement) où l'entreprise est domiciliée.
 
-Lorsque le conseiller n'est plus en mesure d'exercer ses fonctions, le chef de l'entreprise est tenu de désigner un nouveau conseiller, au plus tard dans le délai de deux mois. Le chef d'entreprise doit indiquer dans un délai de quinze jours ce changement au préfet du département (direction régionale de l'équipement) où l'entreprise est domiciliée. Plus généralement, le chef d'entreprise doit déclarer au préfet du département (direction régionale de l'équipement) toutes modifications des données contenues dans la déclaration initiale du conseiller.
+Plus généralement, le chef d'entreprise doit déclarer au préfet du département (direction régionale de l'équipement) toutes modifications des données contenues dans la déclaration initiale du conseiller.
 
 3. Retrait du certificat.
 
@@ -40,7 +40,7 @@ Lorsque l'accident a eu lieu durant le déchargement, le conseiller de l'entrepr
 
 Lorsque l'accident concerne des marchandises de la classe 7, les conseillers des entreprises impliquées dans les opérations d'emballage, de chargement, de remplissage ou de transport, et le cas échéant de déchargement, concourent, chacun pour ce qui le concerne, à la rédaction d'un rapport d'accident en commun.
 
-Lorsque l'accident s'est produit sur le territoire national et répond aux critères fixés au 1.8.5.3, les rapports correspondants sont transmis, par les chefs d'entreprise, au préfet du département (direction régionale de l'équipement) du lieu où est survenu l'accident, au ministère chargé des transports (mission des transports des marchandises dangereuses) ainsi qu'au ministère chargé de l'industrie et au ministère chargé de l'environnement (DGSNR) pour les accidents concernant la classe 7 des marchandises dangereuses, au plus tard deux mois après l'accident. Les rapports doivent être établis suivant la forme précisée au 1.8.5.4 suivant le modèle CERFA n° 12252-01.
+Lorsque l'accident s'est produit sur le territoire national et répond aux critères fixés au 1.8.5.3, les rapports correspondants sont transmis, par les chefs d'entreprise, au préfet du département (direction régionale de l'équipement) du lieu où est survenu l'accident, au ministère chargé des transports (mission des transports des marchandises dangereuses) ainsi qu'à l'Autorité de sûreté nucléaire pour les accidents concernant la classe 7 des marchandises dangereuses, au plus tard deux mois après l'accident. Les rapports doivent être établis suivant la forme précisée au 1.8.5.4 suivant le modèle CERFA n° 12252-01.
 
 Une copie du rapport est adressée par les chefs d'entreprise concernés au gestionnaire de l'infrastructure sur laquelle est survenu l'accident, lequel, le cas échéant, fait part de ses commentaires sur les causes de l'accident dans le délai d'un mois aux autorités citées précédemment.
 

@@ -36,4 +36,4 @@ l) Article 36, pour le bilan de l'année 2004 ;
 
 m) Article 16-IV, raccordement de l'émissaire E4 à l'émissaire R5 : trente mois.
 
-Une première demande à caractère générique telle que mentionnée au paragraphe V de l'article 2 sera transmise à la DGSNR dans un délai de neuf mois à compter de la date de notification du présent arrêté.
+Une première demande à caractère générique telle que mentionnée au paragraphe V de l'article 2 sera transmise à l'Autorité de sûreté nucléaire dans un délai de neuf mois à compter de la date de notification du présent arrêté.

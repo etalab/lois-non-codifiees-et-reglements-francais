@@ -1,137 +1,95 @@
 # Article ANNEXE
 
-SERVICES CENTRAUX
+1. Services centraux :
 
-Responsable du service du courrier au cabinet du Premier ministre ;
+Emplois présentant une responsabilité d'encadrement :
 
-Secrétaire de direction responsable de l'organisation et du fonctionnement des secrétariats des directeurs et chargés de mission du secrétariat général du Gouvernement ;
+- emplois qualifiés de chefs de bureau ;
 
-Chef du service intérieur responsable de l'encadrement du service des huissiers et agents de service ;
+Emplois présentant une technicité ou des sujétions d'exercice particulières :
 
-Chef de l'atelier de maintenance des installations du bureau de gestion des immeubles et du matériel responsable de l'encadrement et de l'animation d'une équipe d'ouvriers professionnels de tous corps de métiers ;
+- emplois relevant des missions de coordination interministérielle du secrétariat général du Gouvernement ;
 
-Chef d'atelier chargé de la coordination du travail des ouvriers professionnels des deux ateliers du bureau de gestion du parc automobile ;
+- emplois qualifiés relevant de la fonction de gestion des ressources humaines (pilotage des ressources humaines, gestion statutaire, gestion des affectations et carrières, liquidation des pensions civiles de l'Etat, gestion des rémunérations, gestion de l'action sociale, planification de la formation) ;
 
-Agent polyvalent responsable d'encadrement dans les domaines du budget et de la gestion financière ;
+- emplois qualifiés relevant de la fonction du pilotage budgétaire et financier ou de la fonction comptable ;
 
-Adjoint au chef du service intérieur, responsable de l'encadrement des huissiers et agents de service ;
+- emplois qualifiés relevant de la fonction de l'achat public ;
 
-Chef de l'atelier central d'impression ;
+- emplois correspondant à une mission de coordination dans la fonction logistique ;
 
-Chef de l'atelier de mécanique du parc automobile ;
+- emplois de responsable d'atelier, chargé de l'encadrement d'une équipe ;
 
-Responsable des questions réglementaires et statutaires relatives aux personnels des services du Premier ministre ;
+- emplois qualifiés relevant de la fonction d'assistance utilisateurs dans le domaine des technologies de l'information et de la communication ;
 
-Gestionnaire de personnel chargé d'une responsabilité fonctionnelle particulière ;
+- emplois qualifiés liés à la fonction de contrôle ;
 
-Assistant de gestion statutaire ;
+- emplois qualifiés de chefs de secrétariat ou de secrétariat de direction.
 
-Assistant de gestion administrative des rémunérations ;
+2. Direction générale de l'administration et de la fonction publique :
 
-Adjoint au chef du bureau de la gestion prévisionnelle et des affectations ;
+Emplois présentant une responsabilité d'encadrement :
 
-Assistant de contrôle ou de gestion comptable et budgétaire.
+- chef du bureau en charge de la fonction de soutien ;
 
-Responsable du magasin des fournitures au bureau de la gestion des immeubles et du matériel ;
+Emplois présentant une technicité ou des sujétions d'exercice particulières :
 
-Moniteur bureautique ;
+- emplois qualifiés relevant de la fonction de soutien interne à la direction (logistique, budgétaire, ressources humaines, documentation, informatique) ;
 
-Assistant de gestion logistique polyvalent ;
+- emplois qualifiés de gestion et de coordination interministérielle ;
 
-Assistant de gestion de personnel ;
+- emplois qualifiés de chefs de secrétariat ou de secrétariat de direction.
 
-Responsable de gestion de personnel ;
+3. Direction de la Documentation française :
 
-Assistant de gestion financière ;
+Emplois présentant une responsabilité d'encadrement :
 
-Contrôleur de gestion (à compter du 1er avril 2000) ;
+- emploi de responsable du département en charge des ressources humaines ;
 
-Chef de cabinet du secrétaire général du Gouvernement ;
+- emploi de chef de la mission de contrôle de gestion ;
 
-Chargé de mission adjoint au secrétariat général du Gouvernement ;
+- emplois de responsable de département relevant de la fonction éditoriale ;
 
-Chargé de mission adjoint au secrétariat général du Gouvernement, secrétaire général de la commission interministérielle de la politique immobilière de l'Etat ;
+- emplois de rédacteurs en chef ;
 
-Chargé de mission adjoint au secrétariat général du Gouvernement, chef de secteur du service législatif ;
+Emplois présentant une technicité ou des sujétions d'exercice particulières :
 
-Adjoint au chef du service de documentation ;
+- emplois qualifiés relevant de la fonction de soutien interne à la direction (logistique, budgétaire, documentation, informatique) ;
 
-Chef de bureau chargé de la gestion administrative des personnels à la direction des services administratifs et financiers ;
+- emplois qualifiés relevant de la fonction éditoriale ;
 
-Chef de bureau chargé des affaires budgétaires et de la gestion financière à la direction des services administratifs et financiers ;
+- emplois qualifiés relevant de la fonction de production ;
 
-Chef de bureau chargé des marchés publics à la direction des services administratifs et financiers.
+- emplois qualifiés relevant de la fonction de diffusion et d'expédition.
 
-DIRECTION GENERALE DE L'ADMINISTRATION ET DE LA FONCTION PUBLIQUE
+4. Service d'information du Gouvernement :
 
-Responsable de l'atelier de reprographie et de l'expédition du courrier de la direction générale ;
+Emplois présentant une responsabilité d'encadrement :
 
-Responsable de la cellule "Concours" ;
+- chef du département en charge de la fonction de soutien ;
 
-Assistant documentaire ;
+Emplois présentant une technicité ou des sujétions d'exercice particulières :
 
-Responsable de la cellule de gestion des administrateurs civils ;
+- emplois qualifiés relevant de la fonction de soutien interne à la direction (logistique, budgétaire, ressources humaines, documentation, informatique) ;
 
-Gestionnaire du recensement des concours (à compter du 1er janvier 2000) ;
+- emplois qualifiés de secrétariat de direction.
 
-Chef de bureau chargé des affaires générales et budgétaires.
+5. Direction du développement des médias :
 
-DIRECTION DE LA DOCUMENTATION FRANCAISE
+Emplois présentant une responsabilité d'encadrement :
 
-Responsable de l'atelier de façonnage chargé de l'encadrement d'une équipe d'ouvriers sur machines ;
+- emploi de secrétaire général ;
 
-Responsable de l'atelier de routage chargé de l'encadrement des ouvriers travaillant sur les chaînes de routage ;
+Emplois présentant une technicité ou des sujétions d'exercice particulières :
 
-Agent polyvalent du service intérieur chargé d'interventions dans diverses spécialités professionnelles ;
+- emploi de secrétaire général de commission ;
 
-Responsable d'unité de facturation chargé de la coordination du traitement des commandes des différentes clientèles ;
+- emplois qualifiés relevant de la fonction statistique ;
 
-Responsable de la formation continue des personnels aux applications de micro-informatique ;
+- emplois qualifiés d'agent de saisie, de manutention et d'expédition.
 
-Responsable des affranchissements postaux ;
+6. Centres interministériels de renseignement administratif :
 
-Responsable de l'atelier d'expédition ;
+Emplois présentant une technicité ou des sujétions d'exercice particulières :
 
-Responsable de magasin ;
-
-Responsable de caisse ;
-
-Secrétaire de rédaction ;
-
-Chef d'études ;
-
-Responsable de département chargé des ressources humaines ;
-
-Opératrice PAO ;
-
-Technicien d'édition ;
-
-Administrateur de site web ;
-
-Gestionnaire de site web ;
-
-Aide comptable.
-
-SERVICE D'INFORMATION DU GOUVERNEMENT
-
-Responsable du service intérieur et du matériel chargé de tâches d'encadrement et de gestion ;
-
-Responsable de la diffusion chargé de tâches d'encadrement, de gestion et de maintenance ;
-
-Chef du secrétariat de direction ;
-
-Chef du département de l'administration générale.
-
-CENTRES INTERMINISTERIELS DE RENSEIGNEMENTS ADMINISTRATIFS
-
-Agent d'orientation standardiste ;
-
-Secrétaire général.
-
-SERVICE JURIDIQUE ET TECHNIQUE DE L'INFORMATION
-
-Responsable de la gestion du fichier des publications soumises au dépôt administratif.
-
-SERVICE JURIDIQUE ET TECHNIQUE DE L'INFORMATION ET DE LA COMMUNICATION
-
-Statisticien spécialisé.
+- emplois d'agents d'orientation.

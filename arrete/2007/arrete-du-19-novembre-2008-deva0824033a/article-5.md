@@ -1,0 +1,5 @@
+# Article 5
+
+Les agents mentionnés à l'article 1er dont les mentions d'unité de leur centre d'affectation n'ont pas été prorogées et qui suivent une formation définie par le ministre chargé de l'aviation civile en vue de la prorogation de ces mentions conservent le bénéfice de l'indemnité spéciale de qualification dans la limite de six mois à compter de la date d'échéance de la validité de ces mentions.
+
+Les agents mentionnés à l'article 1er qui, dans les six mois qui précèdent l'échéance de la validité des mentions d'unité de leur centre d'affectation ou éventuellement dans la période de six mois prévue à l'alinéa précédent, ont été reconnus inaptes temporairement au contrôle ou ont été mis pendant plus de deux mois en congé de maladie, en congé de longue maladie, en congé de longue durée ou en congé de maternité ou pour adoption conservent le bénéfice de l'indemnité spéciale de qualification dans la limite de douze mois maximum à compter de la date d'échéance de la validité de ces mentions.

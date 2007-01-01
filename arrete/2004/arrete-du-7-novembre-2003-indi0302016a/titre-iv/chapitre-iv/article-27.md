@@ -4,6 +4,6 @@ I. - Afin d'éviter les risques de dissémination dans l'environnement, notammen
 
 II. - Le bon fonctionnement des appareils de mesure et des alarmes associées se trouvant sur les canalisations est vérifié mensuellement. Ces appareils sont en outre contrôlés et réglés aussi souvent que nécessaire.
 
-III. - Le bon fonctionnement des vannes et des clapets est vérifié selon un programme d'essai périodique porté à la connaissance de la DGSNR et de la DRIRE selon les modalités précisées à l'article 38 (j).
+III. - Le bon fonctionnement des vannes et des clapets est vérifié selon un programme d'essai périodique porté à la connaissance de l'Autorité de sûreté nucléaire et de la DRIRE selon les modalités précisées à l'article 38 (j).
 
 IV. - Un contrôle de l'absence de radioactivité dans les réseaux d'effluents non radioactifs (réseaux des eaux usées, eaux pluviales ...) doit être réalisé au moins une fois par semaine, avec un seuil de décision aussi faible que possible et en aucun cas supérieur à 0,5 Bq/l en bêta global et 50 Bq/l en tritium.

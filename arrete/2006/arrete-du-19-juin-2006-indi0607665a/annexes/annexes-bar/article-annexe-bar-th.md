@@ -4,17 +4,15 @@
 <br/>
 </div>
 
-Certificats d'économies d'énergie
+<div align="left">Certificats d'économies d'énergie</div>
 
 Opération n° BAR-TH-01
 
-Chauffe-eau solaire individuel
-
-(France métropolitaine)
+Chauffe-eau solaire individuel (France métropolitaine)
 
 1. Secteur d'application :
 
-Bâtiment résidentiel : maisons individuelles existantes en France métropolitaine.
+Bâtiment résidentiel : maisons individuelles existantes, en France métropolitaine.
 
 2. Dénomination :
 
@@ -24,7 +22,7 @@ Mise en place d'un chauffe-eau solaire individuel (CESI).
 
 Les  appareils ont une certification CSTBat, Solarkeymark ou toute  certification équivalente dans un Etat membre de l'Union européenne ou  un Etat partie à l'accord instituant l'Espace économique européen ou en  Turquie, dès lors que cette certification repose sur les normes NF EN  12975 ou NF EN 12976.
 
-Mise en place réalisée par un professionnel signataire de la charte Qualisol.
+Mise en place réalisée par un professionnel  signataire de la charte Qualisol ou tout dispositif présentant des  spécifications techniques équivalentes.
 
 Informations à fournir impérativement : ancienneté du bâtiment (avant ou après 1975).
 
@@ -36,7 +34,11 @@ Informations à fournir impérativement : ancienneté du bâtiment (avant ou apr
 
 Vous pouvez consulter le tableau dans le JO
 
-n° 156 du 07/07/2006 texte numéro 28
+n° 303 du 31/12/2006 texte numéro 60
+
+<div align="left">
+<br/>
+</div>
 
 Certificats d'économies d'énergie
 
@@ -804,7 +806,7 @@ Chauffe-eau solaire individuel (DOM)
 
 1. Secteur d'application :
 
-Bâtiment résidentiel : maisons individuelles existantes dans les départements d'outre-mer.
+Bâtiment  résidentiel : maisons individuelles existantes ou neuves en l'absence  de réglementation thermique, dans les départements d'outre-mer.
 
 2. Dénomination :
 
@@ -814,7 +816,7 @@ Mise en place d'un chauffe-eau solaire individuel (CESI).
 
 Les  appareils ont une certification CSTBat, Solarkeymark ou toute  certification équivalente dans un Etat membre de l'Union européenne ou  un Etat partie à l'accord instituant l'Espace économique européen ou en  Turquie, dès lors que cette certification repose sur les normes NF EN  12975 ou NF EN 12976.
 
-Mise en place réalisée par un professionnel signataire de la charte Qualisol.
+Mise en place réalisée par un professionnel  signataire de la charte Qualisol ou tout dispositif présentant des  spécifications techniques équivalentes.
 
 Informations à fournir impérativement : ancienneté du bâtiment (avant ou après 1975).
 
@@ -826,7 +828,7 @@ Informations à fournir impérativement : ancienneté du bâtiment (avant ou apr
 
 Vous pouvez consulter le tableau dans le JO
 
-n° 156 du 07/07/2006 texte numéro 28
+n° 303 du 31/12/2006 texte numéro 60
 
 En  application de l'article 3 du décret n° 2006-603 du 23 mai 2006 relatif  aux certificats d'économies d'énergie, il est attribué le double du  montant des kWh cumac obtenu par le calcul ci-dessus pour cette action  menée dans les DOM.
 
@@ -865,6 +867,168 @@ n° 156 du 07/07/2006 texte numéro 28
 Vous pouvez consulter le tableau dans le JO
 
 n° 156 du 07/07/2006 texte numéro 28
+
+(1) Le facteur correctif est déterminé à partir soit du nombre de pièces principales, soit de la surface habitable.
+
+Certificats d'économies d'énergie
+
+Opération n° BAR-TH-26
+
+Ventilation mécanique contrôlée
+
+Simple flux autoréglable
+
+1. Secteur d'application :
+
+Bâtiment résidentiel : maisons individuelles et appartements existant avant 1975.
+
+2. Dénomination :
+
+Mise en place d'une ventilation mécanique contrôlée (VMC) simple flux autoréglable.
+
+3. Conditions pour la délivrance de certificats :
+
+Le ventilateur de cette VMC a une puissance absorbée maximale de 35 W en maison individuelle et de 0,25 W/(m³/h) en collectif.
+
+Mise  en place réalisée par un professionnel qui s'assurera que l'étanchéité  du bâtiment atteint un niveau de performance compatible avec les  performances de la VMC simple flux autoréglable.
+
+Information à fournir impérativement : ancienneté du bâtiment (avant 1975).
+
+4. Durée de vie conventionnelle :
+
+16 ans.
+
+5. Montant de certificats en kWh cumac :
+
+Vous pouvez consulter le tableau dans le JO
+
+n° 303 du 31/12/2006 texte numéro 60
+
+Vous pouvez consulter le tableau dans le JO
+
+n° 303 du 31/12/2006 texte numéro 60
+
+(1) Le facteur correctif est déterminé à partir soit du nombre de pièces principales, soit de la surface habitable.
+
+Certificats d'économies d'énergie
+
+Opération n° BAR-TH-27
+
+Ventilation mécanique contrôlée
+
+Simple flux hygroréglable
+
+1. Secteur d'application :
+
+Bâtiment résidentiel : maisons individuelles et appartements existants.
+
+2. Dénomination :
+
+Mise en place d'une ventilation mécanique contrôlée (VMC) simple flux hygroréglable avec deux types d'équipement possibles :
+
+- type A : seules les bouches d'extraction sont hygroréglables ;
+
+- type B : les bouches d'extraction et les entrées d'air sont hygroréglables.
+
+3. Conditions pour la délivrance de certificats :
+
+Les  systèmes de ventilation hygroréglable doivent bénéficier d'un avis  technique en cours de validité conformément aux exigences de la  certification CSTBat encadrée par le règlement thermique RT 035/00 ou  avoir des caractéristiques de performance et de qualité équivalentes  établies par un mode de preuve légal dans un Etat membre de l'Union  européenne ou un Etat partie à l'accord instituant l'Espace économique  européen ou en Turquie.
+
+Le ventilateur de cette VMC a une puissance absorbée maximale de 38 W en maison individuelle et de 0,25 W/(m³/h) en collectif.
+
+Mise  en place réalisée par un professionnel qui s'assurera que l'étanchéité  du bâtiment atteint un niveau de performance compatible avec les  performances de la VMC hygroréglable.
+
+Information à fournir impérativement : ancienneté du bâtiment (avant ou après 1975).
+
+4. Durée de vie conventionnelle :
+
+16 ans.
+
+5. Montant de certificats en kWh cumac :
+
+Pour le type A, application des forfaits suivants :
+
+Vous pouvez consulter le tableau dans le JO
+
+n° 303 du 31/12/2006 texte numéro 60
+
+Vous pouvez consulter le tableau dans le JO
+
+n° 303 du 31/12/2006 texte numéro 60
+
+(1) Le facteur correctif est déterminé à partir soit du nombre de pièces principales, soit de la surface habitable.
+
+Pour le type B, les forfaits sont majorés de 10 %.
+
+Certificats d'économies d'énergie
+
+Opération n° BAR-TH-28
+
+Plancher rayonnant électrique,
+
+Plafond rayonnant plâtre, avec dispositif de réglage automatique
+
+1. Secteur d'application :
+
+Bâtiment résidentiel : maisons individuelles et appartements existants.
+
+2. Dénomination :
+
+Mise  en place d'un plancher rayonnant électrique ou d'un plafond rayonnant  plâtre, avec un dispositif de réglage automatique en fonction de la  température intérieure.
+
+3. Conditions pour la délivrance de certificats :
+
+Plancher rayonnant électrique ou plafond rayonnant plâtre bénéficiant d'un avis technique.
+
+Mise  en place réalisée par un professionnel dans le respect du cahier des  prescriptions techniques du CSTB en vigueur et de ses additifs,  notamment en ce qui concerne les isolants thermiques à mettre en oeuvre.
+
+Information à fournir impérativement : ancienneté du bâtiment (avant ou après 1975).
+
+4. Durée de vie conventionnelle :
+
+30 ans.
+
+5. Montant de certificats en kWh cumac :
+
+Vous pouvez consulter le tableau dans le JO
+
+n° 303 du 31/12/2006 texte numéro 60
+
+Certificats d'économies d'énergie
+
+Opération n° BAR-TH-29
+
+Pompe à chaleur de type air/air
+
+1. Secteur d'application :
+
+Bâtiment résidentiel : maisons individuelles et appartements existants.
+
+2. Dénomination :
+
+Mise en place d'une pompe à chaleur (PAC) de type air/air.
+
+3. Conditions pour la délivrance des certificats :
+
+Coefficient de performance (COP) mesuré selon la norme EN 14511 égal ou supérieur à 3,2.
+
+Mise en place réalisée par un professionnel.
+
+Information à fournir impérativement : ancienneté du bâtiment (avant ou après 1975).
+
+4. Durée de vie conventionnelle :
+
+16 ans.
+
+5. Montant de certificats en kWh cumac :
+
+Vous pouvez consulter le tableau dans le JO
+
+n° 303 du 31/12/2006 texte numéro 60
+
+Vous pouvez consulter le tableau dans le JO
+
+n° 303 du 31/12/2006 texte numéro 60
 
 (1) Le facteur correctif est déterminé à partir soit du nombre de pièces principales, soit de la surface habitable.
 

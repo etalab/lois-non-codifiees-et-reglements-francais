@@ -1,3 +1,3 @@
 # Article 13
 
-Lorsque l'évolution de l'aérodrome sur lequel ils sont en fonction nécessite la détention et l'autorisation d'exercice de la qualification de contrôleur d'approche, les techniciens supérieurs des études et de l'exploitation de l'aviation civile des trois grades, âgés de moins de cinquante-cinq ans, et ayant obtenu cette qualification, peuvent être également nommés au choix dans le corps des ingénieurs du contrôle de la navigation aérienne.
+Les membres du corps des techniciens supérieurs des études et de l'exploitation de l'aviation civile, âgés de moins de cinquante-cinq ans, en fonction dans un organisme de contrôle dont l'évolution rend nécessaire la détention d'une qualification de contrôle d'approche, peuvent également, lorsqu'ils ont obtenu cette qualification et les mentions d'unité de l'organisme de contrôle, être nommés au choix dans le corps des ingénieurs du contrôle de la navigation aérienne.

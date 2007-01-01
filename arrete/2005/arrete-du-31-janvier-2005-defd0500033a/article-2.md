@@ -1,6 +1,6 @@
 # Article 2
 
-Le chef du service d'architecture des systèmes de forces dispose du secrétaire général des architectes de systèmes de forces et d'architectes de systèmes de forces dont la liste est fixée par le délégué général pour l'armement.
+Le chef du service d'architecture des systèmes de forces dispose du secrétaire général des architectes de systèmes de forces et d'architectes de systèmes de forces dont la liste est fixée par le délégué général pour l'armement. Il peut également disposer d'un adjoint qui le seconde et le supplée.
 
 Le service d'architecture des systèmes de forces comprend, outre des équipes à la disposition de chacun des architectes de systèmes de forces et le bureau de la gestion et de la qualité, la sous-direction de la cohérence et de la prospective, constituée :
 

@@ -40,4 +40,4 @@ Il définit les méthodes de travail ainsi que la doctrine d'emploi des personne
 
 Il exerce le suivi de l'activité des services, réalise des études relatives à l'impact des réglementations et des missions confiées à la douane et procède à la rédaction des instructions en la matière. Il établit les tableaux de bord des services centraux et déconcentrés et met à leur disposition les outils d'aide à la gestion.
 
-Il est chargé du conseil scientifique et de l'animation du réseau des laboratoires.
+Il est chargé des liaisons avec le service commun des laboratoires et du suivi de son activité.

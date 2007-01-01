@@ -14,7 +14,7 @@ Ces débits d'activité sont à respecter en moyenne sur vingt-quatre heures pou
 
 En cas de dépassement de ces seuils, l'exploitant réalise une information au titre de l'article 34.
 
-III. - Les rejets concertés d'un réservoir, d'un bâtiment réacteur ou résultant d'essais utilisant des radioéléments ne peuvent être réalisés que si le débit de ventilation de la cheminée concernée est supérieur à 180 000 m3/h. En dessous de ce débit, les rejets concertés sont interdits et les rejets permanents doivent être réalisés dans les conditions prescrites par la DGSNR.
+III. - Les rejets concertés d'un réservoir, d'un bâtiment réacteur ou résultant d'essais utilisant des radioéléments ne peuvent être réalisés que si le débit de ventilation de la cheminée concernée est supérieur à 180 000 m3/h. En dessous de ce débit, les rejets concertés sont interdits et les rejets permanents doivent être réalisés dans les conditions prescrites par l'Autorité de sûreté nucléaire.
 
 IV. - L'activité volumique mesurée dans l'air au niveau du sol ne doit pas dépasser, selon les conditions de prélèvement visées à l'article 14, les valeurs limites suivantes :
 

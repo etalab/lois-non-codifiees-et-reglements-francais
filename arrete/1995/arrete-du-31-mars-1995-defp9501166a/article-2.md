@@ -20,7 +20,7 @@ Les unités visées à l'article 2 du décret du 31 mars 1995 susvisé sont les 
 
 - état-major des armées (division forces nucléaires) ;
 
-- direction des systèmes d'armes de la délégation générale pour l'armement (service du programme nucléaire) ;
+- direction des systèmes d'armes de la délégation générale pour l'armement ;
 
 - formations relevant de la force maritime base navale de Toulon ;
 

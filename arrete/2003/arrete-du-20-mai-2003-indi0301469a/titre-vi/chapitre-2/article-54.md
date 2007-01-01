@@ -2,7 +2,7 @@
 
 I. - L'exploitant tient à jour un registre des prélèvements d'eau sur lequel sont présentés les résultats de la surveillance prévue à l'article 7 ainsi que les résultats du contrôle des débits de la Loire. Les comptes rendus de l'étalonnage des dispositifs de mesure prescrits pour le contrôle des prélèvements d'eau sont consignés dans ce registre.
 
-II. - Pour les rejets radioactifs, l'exploitant doit en permanence tenir à jour conformément aux directives de la DGSNR, pour chaque type d'effluent, gazeux ou liquide, les documents suivants :
+II. - Pour les rejets radioactifs, l'exploitant doit en permanence tenir à jour conformément aux directives de l'Autorité de sûreté nucléaire, pour chaque type d'effluent, gazeux ou liquide, les documents suivants :
 
 - un registre de maintenance et d'étalonnage des dispositifs de mesure en continu ou non des rejets ainsi que des appareils de mesure des laboratoires d'analyse ;
 
@@ -28,4 +28,4 @@ III. - Pour les substances chimiques présentes dans les effluents, l'exploitant
 
 - un registre des quantités mensuelles des produits minéraux ou organiques utilisés, notamment par le procédé industriel, et susceptibles de se trouver, avec ou sans transformation chimique, dans les différents rejets. Au minimum, il suit ainsi les ions sulfates et le chlore ajouté aux eaux de refroidissement ou de traitement de déminéralisation.
 
-IV. - L'ensemble de ces registres est archivé pendant au moins trois ans. Il peut faire l'objet d'un traitement informatisé à condition qu'il puisse être facilement consulté par des services compétents (DGSNR, DRIRE Centre, service chargé de la police des eaux...).
+IV. - L'ensemble de ces registres est archivé pendant au moins trois ans. Il peut faire l'objet d'un traitement informatisé à condition qu'il puisse être facilement consulté par des services compétents (l'Autorité de sûreté nucléaire, DRIRE Centre, service chargé de la police des eaux...).

@@ -60,7 +60,7 @@ IV. - Le calendrier des prélèvements et des mesures est le suivant :
 
 - pour la faune piscicole : tous les trois mois.
 
-V. - Le calendrier des prélèvements, la nature et le nombre des contrôles peuvent être modifiés, en accord avec la DGSNR, notamment pour tenir compte de l'état du Rhône au cours de l'année, et du retour d'expérience.
+V. - Le calendrier des prélèvements, la nature et le nombre des contrôles peuvent être modifiés, en accord avec l'Autorité de sûreté nucléaire, notamment pour tenir compte de l'état du Rhône au cours de l'année, et du retour d'expérience.
 
 VI. - Les mesures doivent pouvoir être effectuées dans de bonnes conditions de précision et les canalisations doivent être aménagées en conséquence.
 

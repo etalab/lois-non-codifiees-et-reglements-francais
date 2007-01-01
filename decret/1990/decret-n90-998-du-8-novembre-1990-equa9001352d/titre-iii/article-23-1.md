@@ -1,7 +1,7 @@
 # Article 23-1
 
-Pour l'avancement aux grades d'ingénieur principal et d'ingénieur divisionnaire du contrôle de la navigation aérienne, les fonctions de contrôleur d'aérodrome dans les organismes figurant sur la liste n° 1 établie par l'arrêté de classement pris en application de l'article 3 du présent décret sont prises en compte selon les règles suivantes :
+Pour l'avancement aux grades d'ingénieur principal et d'ingénieur divisionnaire, la durée de l'exercice des fonctions de contrôleur d'aérodrome dans les organismes du groupe A définis, conformément aux dispositions du I de l'article 4, par arrêté du ministre chargé de l'aviation civile, est prise en compte selon les règles suivantes :
 
-- à la condition que l'ingénieur du contrôle de la navigation aérienne concerné ait exercé ensuite les fonctions de premier contrôleur dans cet aérodrome, pour la durée d'exercice des deux fonctions successives, selon les prorata définis à l'article 23 correspondant au a des articles 21 et 22 pour les fonctions de premier contrôleur, et au c desdits articles pour les fonctions de contrôleur d'aérodrome ;
+1° Pour la durée d'exercice des deux fonctions successives, selon les prorata définis à l'article 23 correspondant au 1° des articles 21 et 22 pour les premiers contrôleurs, et au 2° desdits articles pour les contrôleurs d'aérodrome, à la condition que l'ingénieur concerné ait exercé les fonctions de premier contrôleur dans cet aérodrome ;
 
-- dans le cas contraire, conformément au d des articles 21 et 22.
+2° Conformément au 3° des articles 21 et 22 dans le cas contraire.

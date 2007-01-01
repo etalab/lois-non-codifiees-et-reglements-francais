@@ -14,7 +14,7 @@ Activité, organisation et fonctionnement des services déconcentrés ; indicate
 
 Le bureau du pilotage et de la coordination des enquêtes :
 
-Elaboration des orientations nationales ; programmation et suivi des enquêtes ; plan de charge de l'activité de contrôle des réseaux ; organisation des opérations de contrôles renforcés ; coordination avec la direction des laboratoires.
+Elaboration des orientations nationales ; programmation et suivi des enquêtes ; plan de charge de l'activité de contrôle des réseaux ; organisation des opérations de contrôles renforcés ; coordination avec le service commun des laboratoires.
 
 La sous-direction des ressources humaines et de la gestion est chargée de la gestion des ressources humaines, de la formation et de la gestion des moyens financiers, matériels et informatiques, ainsi que du contrôle de gestion. Elle comprend :
 
@@ -30,4 +30,6 @@ Le bureau des affaires financières :
 
 Suivi des lois de finances ; crédits, comptabilités administrative et analytique ; développement du contrôle de gestion ; marchés et questions immobilières ; traitements et prestations sociales.
 
-La direction des laboratoires, l'Ecole nationale de la concurrence, de la consommation et de la répression des fraudes et le service de l'informatique, services à compétence nationale, sont rattachés au chef du service de la coordination et des ressources.
+L'Ecole nationale de la concurrence, de la consommation et de la répression des fraudes et le service de l'informatique, services à compétence nationale, sont rattachés au chef du service de la coordination et des ressources.
+
+Le service de la coordination et des ressources prépare et assure le suivi, en liaison avec les services compétents de la direction générale des douanes et droits indirects, des travaux du comité stratégique du service commun des laboratoires, service à compétence nationale rattaché conjointement au directeur général des douanes et droits indirects et au directeur général de la concurrence, de la consommation et de la répression des fraudes.

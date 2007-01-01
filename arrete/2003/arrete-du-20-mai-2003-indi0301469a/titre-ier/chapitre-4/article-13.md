@@ -22,4 +22,4 @@ La surveillance de la radioactivité de l'environnement par l'exploitant comport
 
 - une campagne annuelle de prélèvements sur les principales productions agricoles, notamment dans les zones sous les vents dominants ; sur ces prélèvements, il est réalisé au minimum la mesure de l'activité bêta globale et une spectrométrie gamma permettant notamment de mesurer l'activité du potassium 40.
 
-La localisation des différents points de mesure et de prélèvement mentionnés ci-dessus est précisée en annexe du présent arrêté. Toute modification doit préalablement recueillir l'accord de la DGSNR. Une carte récapitulative est déposée à la préfecture d'Indre-et-Loire où elle peut être consultée.
+La localisation des différents points de mesure et de prélèvement mentionnés ci-dessus est précisée en annexe du présent arrêté. Toute modification doit préalablement recueillir l'accord de l'Autorité de sûreté nucléaire. Une carte récapitulative est déposée à la préfecture d'Indre-et-Loire où elle peut être consultée.

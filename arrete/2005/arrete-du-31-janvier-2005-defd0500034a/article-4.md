@@ -1,27 +1,25 @@
 # Article 4
 
-La direction de l'expertise technique a autorité sur les organismes extérieurs suivants, dont les missions et l'organisation sont fixées par instructions :
+La direction de l'expertise technique a autorité su r les organismes extérieurs suivants, dont les missions et l'organisation sont fixées par instructions :
 
-1. Le service des centres d'expertise technique qui comprend les organismes extérieurs suivants :
+1. Le centre d'expertise parisien ;
 
-- le centre d'études de Gramat ;
+2. Le centre d'études de Gramat ;
 
-- le centre d'expertise parisien ;
+3. L'établissement technique d'Angers ;
 
-- l'établissement technique d'Angers ;
+4. L'établissement technique de Bourges ;
 
-- l'établissement technique de Bourges ;
+5. Le centre d'électronique de l'armement ;
 
-- le centre d'électronique de l'armement ;
+6. Le centre technique des systèmes navals ;
 
-- le centre technique des systèmes navals ;
+7. Le groupe d'études sous-marines de l'Atlantique ;
 
-- le groupe d'études sous-marines de l'Atlantique ;
+8. Le laboratoire de recherches balistiques et aérodynamiques ;
 
-- le laboratoire de recherches balistiques et aérodynamiques ;
+9. Le centre d'études du Bouchet ;
 
-2. Le centre d'études du Bouchet ;
+10. Le service d'architecture inter-systèmes ;
 
-3. Le service d'architecture inter-systèmes ;
-
-4. Le service du maintien en condition opérationnelle.
+11. Le service du maintien en condition opérationnelle.

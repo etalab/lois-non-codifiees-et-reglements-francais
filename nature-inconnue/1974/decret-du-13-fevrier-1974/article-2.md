@@ -17,5 +17,3 @@ Centre de formation professionnelle agricole jeunes de Montmorilllon (Vienne) ;
 Centre de formation professionnelle agricole jeunes de Valdoie (territoire de Belfort).
 
 c) Autres catégories :
-
-Centre d'expérimentation pédagogique de Florac (Lozère).

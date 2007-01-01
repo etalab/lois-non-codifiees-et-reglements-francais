@@ -3,4 +3,6 @@
 - [Chapitre Ier : Dispositions générales.](chapitre-ier)
 - [Chapitre II : Recrutement.](chapitre-ii)
 - [Chapitre III : Avancement.](chapitre-iii)
+- [Chapitre IV : Détachement.](chapitre-iv)
 - [Chapitre V : Recrutement exceptionnel dans le corps des techniciens des systèmes d'information et de communication](chapitre-v)
+- [Article 21](article-21.md)

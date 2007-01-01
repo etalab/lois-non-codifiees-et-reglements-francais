@@ -1,6 +1,6 @@
 # Article 17-1
 
-Les ingénieurs du contrôle de la navigation aérienne, élèves ou stagiaires, issus du concours externe d'accès au corps et déclarés médicalement inaptes avant leur titularisation peuvent être admis :
+Les ingénieurs du contrôle de la navigation aérienne, élèves ou stagiaires, issus du concours externe d'accès au corps mentionné à l'article 12 et déclarés médicalement inaptes avant leur titularisation peuvent être admis :
 
 1. Soit à demander leur nomination, sous réserve d'un avis favorable du jury d'école de l'Ecole nationale de l'aviation civile, dans le corps des ingénieurs électroniciens des systèmes de la sécurité aérienne en qualité d'élève conformément aux dispositions du d du I de l'article 6 du décret n° 91-56 du 16 janvier 1991 modifié portant statut du corps des ingénieurs électroniciens des systèmes de la sécurité aérienne ; dans ce cas, ils sont maintenus dans la situation statutaire qui était la leur dans le corps des ingénieurs du contrôle de la navigation aérienne au moment de leur déclaration d'inaptitude jusqu'à leur nomination en qualité d'élève ingénieur électronicien des systèmes de la sécurité aérienne ;
 

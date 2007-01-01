@@ -336,11 +336,11 @@ Système de variation électronique de vitesse sur un moteur
 
 1. Secteur d'application :
 
-Bâtiment   tertiaire : locaux du secteur tertiaire existants réservés à une   utilisation professionnelle, de surface totale inférieure à 5 000 m².
+Bâtiment tertiaire : locaux du secteur tertiaire existants réservés à une utilisation professionnelle.
 
 2. Dénomination :
 
-Installation   d'un système de variation électronique de vitesse (VEV) sur un moteur   de puissance comprise entre 0,37 kW et 630 kW.
+Installation d'un système de variation électronique de vitesse (VEV)  sur un moteur de puissance comprise entre 0,37 kW et 630 kW.
 
 3. Conditions pour la délivrance de certificats :
 
@@ -354,7 +354,7 @@ Sans objet.
 
 Vous pouvez consulter le tableau dans le JO
 
-n° 156 du 07/07/2006 texte numéro 28
+n° 303 du 31/12/2006 texte numéro 60
 
 Certificats d'économies d'énergie
 
@@ -451,6 +451,42 @@ Vous pouvez consulter le tableau dans le JO
 n° 156 du 07/07/2006 texte numéro 28
 
 En   application de l'article 3 du décret n° 2006-603 du 23 mai 2006  relatif  aux certificats d'économies d'énergie, il est attribué le  double du  montant des kWh cumac obtenu par le calcul ci-dessus pour  cette action  menée dans les DOM.
+
+Certificats d'économies d'énergie
+
+Opération n° BAT-TH-16
+
+Système de gestion technique du bâtiment pour un chauffage électrique
+
+1. Secteur d'application :
+
+Bâtiment  tertiaire : locaux du secteur tertiaire existants réservés à une  utilisation professionnelle, de surface totale inférieure à 5 000 m².
+
+2. Dénomination :
+
+Mise en place d'un système de gestion technique du bâtiment (GTB) sur un système de chauffage électrique, assurant :
+
+-  la programmation journalière et hebdomadaire ou annuelle, par zone, de  la fourniture de chaleur selon les quatre allures suivantes : confort,  réduit, hors gel et arrêt ;
+
+- la limitation d'énergie (en fonction de la température extérieure ou par asservissement sur ouverture de fenêtre) ;
+
+- l'optimisation (anticipation) de la relance de chauffage ;
+
+- la possibilité de télésuivi/télégestion.
+
+3. Conditions pour la délivrance de certificats :
+
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle :
+
+12 ans.
+
+5. Montant de certificats en kWh cumac :
+
+Vous pouvez consulter le tableau dans le JO
+
+n° 303 du 31/12/2006 texte numéro 60
 
 <div align="left">
 <br/>

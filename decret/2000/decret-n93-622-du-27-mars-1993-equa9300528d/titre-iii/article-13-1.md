@@ -1,65 +1,86 @@
 # Article 13-1
 
-Les techniciens supérieurs des études et de l'exploitation de classe principale promus au grade de technicien supérieur des études et de l'exploitation de l'aviation civile de classe exceptionnelle sont classés dans ce grade conformément au tableau ci-après :
-
-I = TEEAC de classe principale (éhelons)
-
-II = TEEAC DE CLASSE exceptionnelle (échelons)
-
-III = Ancienneté conservée dans la limite de la durée de l'échelon
+Les techniciens supérieurs des études et de l'exploitation de l'aviation civile de classe principale promus au grade de technicien supérieur des études et de l'exploitation de classe exceptionnelle sont classés dans ce grade conformément au tableau ci-après :
 
 <table>
+<tbody>
 <tr>
-<td> :-----:----:------------------:</td>
+<td align="left" valign="middle">
+<p align="center">
+<strong>TSEEAC DE CLASSE PRINCIPALE</strong>
+</p>
+</td>
+<td align="left" colspan="2" valign="middle">
+<p align="center">
+<strong>TSEEAC DE CLASSE EXCEPTIONNELLE</strong>
+</p>
+</td>
 </tr>
 <tr>
-<td> : I : II : III :</td>
+<td align="left" valign="middle">
+<p align="center">Echelons</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">Echelons</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">Ancienneté conservée dans la limite de la durée de l'échelon</p>
+</td>
 </tr>
 <tr>
-<td> :-----:----:------------------:</td>
+<td align="left" valign="top">
+<p align="left">8e échelon</p>
+</td>
+<td align="left" valign="top">
+<p align="left">5e échelon</p>
+</td>
+<td align="left" valign="top">
+<p align="center">-</p>
+</td>
 </tr>
 <tr>
-<td> : 8e : 4e : Sans ancienneté :</td>
+<td align="left" valign="top">
+<p align="left">7e échelon</p>
+</td>
+<td align="left" valign="top">
+<p align="left">4e échelon</p>
+</td>
+<td align="left" valign="top">
+<p align="left">3/4 de l'ancienneté acquise.</p>
+</td>
 </tr>
 <tr>
-<td> : 7e : 3e :Ancienneté acquise:</td>
+<td align="left" valign="top">
+<p align="left">6e échelon</p>
+</td>
+<td align="left" valign="top">
+<p align="left">3e échelon</p>
+</td>
+<td align="left" valign="top">
+<p align="left">6/7 de l'ancienneté acquise.</p>
+</td>
 </tr>
 <tr>
-<td> : 6e : 2e:6/7 Anc. acq. +1 an:</td>
+<td align="left" valign="top">
+<p align="left">5e échelon</p>
+</td>
+<td align="left" valign="top">
+<p align="left">2e échelon</p>
+</td>
+<td align="left" valign="top">
+<p align="left">4/7 de l'ancienneté acquise.</p>
+</td>
 </tr>
 <tr>
-<td> : 5+ : 2e : 2/3 de l'anc. acq:</td>
+<td align="left" valign="top">
+<p align="left">4e échelon</p>
+</td>
+<td align="left" valign="top">
+<p align="left">1er échelon</p>
+</td>
+<td align="left" valign="top">
+<p align="left">2/3 de l'ancienneté acquise.</p>
+</td>
 </tr>
-<tr>
-<td> : : : au delà de 2 ans :</td>
-</tr>
-<tr>
-<td> : 5- : 1e:1/2 Anc. acq. +1 an:</td>
-</tr>
-<tr>
-<td> : 4+ : 1e : 1/2 de l'anc. acq:</td>
-</tr>
-<tr>
-<td> : : : au delà de 1 an :</td>
-</tr>
-<tr>
-<td> : 4- : 1e : Sans ancienneté :</td>
-</tr>
-<tr>
-<td> : 3e : 2p : Sans ancienneté :</td>
-</tr>
-<tr>
-<td> : 2e : 1p : 2/3 de l'anc. acq:</td>
-</tr>
-<tr>
-<td> : 1e : 1p : Sans ancienneté :</td>
-</tr>
-<tr>
-<td> : 2p : 1p : Sans ancienneté :</td>
-</tr>
-<tr>
-<td> :-----:----:------------------:</td>
-</tr>
+</tbody>
 </table>
-
-5+ = après 2 ans 5- = avant 2 ans 4+ = après 1 an 4- = avant 1 an 2p = 2e provisoire 1p = 1er provisoire

@@ -6,7 +6,7 @@ Des équipements et des moyens appropriés de prélèvement et de contrôle doiv
 
 Les mesures sont réalisées sur un échantillon filtré à 5 microns et conformément à la norme NF EN 872.
 
-I. - Contrôles à l'extrémité des émissaires avant rejet dans les puits de rejets ou dans le canal de prise d'eau (SEO) : les emplacements précis des points où auront lieu des prélèvements, à l'extrémité des émissaires qui ne véhiculent pas des eaux de refroidissement, sont soumis à l'accord de la DGSNR et du service chargé de la police des eaux.
+I. - Contrôles à l'extrémité des émissaires avant rejet dans les puits de rejets ou dans le canal de prise d'eau (SEO) : les emplacements précis des points où auront lieu des prélèvements, à l'extrémité des émissaires qui ne véhiculent pas des eaux de refroidissement, sont soumis à l'accord de l'Autorité de sûreté nucléaire et du service chargé de la police des eaux.
 
 II. - Contrôles périodiques sur les effluents rejetés par l'ouvrage principal :
 

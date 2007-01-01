@@ -1,6 +1,6 @@
 # Article 17
 
-I. - Un schéma de tous les réseaux est établi par l'exploitant, régulièrement mis à jour, notamment après chaque modification notable, et daté. Il est tenu à la disposition de la DGSNR, de la DRIRE Centre et du service chargé de la police des eaux.
+I. - Un schéma de tous les réseaux est établi par l'exploitant, régulièrement mis à jour, notamment après chaque modification notable, et daté. Il est tenu à la disposition de l'Autorité de sûreté nucléaire, de la DRIRE Centre et du service chargé de la police des eaux.
 
 II. - Les rejets d'effluents radioactifs liquides ne peuvent être effectués qu'après traitement si nécessaire, stockage dans les réservoirs visés à l'article 34 et à l'article 44. De même, toutes les eaux pluviales susceptibles d'être polluées par des hydrocarbures sont traitées par des dispositifs adaptés avant de transiter dans le réseau de collecte.
 

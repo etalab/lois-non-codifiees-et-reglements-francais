@@ -1,0 +1,7 @@
+# Article 2
+
+I. - En application de l'article L. 711-6 du code de l'éducation, les dispositions des articles L. 611-1, L. 612-1, L. 612-5, L. 612-7, L. 613-1 à L. 613-5 de ce code, celles des chapitres Ier, V et IX du titre Ier du livre VII, celles de l'article L. 953-2, ainsi que les autres dispositions du même code auxquelles elles renvoient, sont étendues à l'Ecole nationale des travaux publics de l'Etat. Sont toutefois exceptés de cette extension le deuxième alinéa de l'article L. 712-4, la disposition du premier alinéa de l'article L. 719-1 relative à la durée du mandat des représentants des étudiants, la deuxième phrase du quatrième alinéa de l'article L. 719-1 relative au vote par correspondance, le deuxième alinéa de l'article L. 719-2 et l'article L. 719-3.
+
+II. - Le ministre chargé de l'équipement exerce les attributions dévolues au ministre chargé de l'enseignement supérieur et au recteur d'académie par les articles L. 711-7, L. 711-8, L. 715-3, L. 719-4, L. 719-5, L. 719-7, L. 719-8 et L. 953-2 du code de l'éducation et par les textes réglementaires pris pour leur application à l'exception de celles mentionnées aux articles 4, 6 et 44 du décret du 14 janvier 1994 susvisé.
+
+Le Conseil général des ponts et chaussées exerce les attributions dévolues à l'inspection générale de l'administration de l'éducation nationale et de la recherche par l'article L. 719-9 du code de l'éducation.

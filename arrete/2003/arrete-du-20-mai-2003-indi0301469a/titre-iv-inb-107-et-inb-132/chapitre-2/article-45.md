@@ -1,6 +1,6 @@
 # Article 45
 
-Sauf accord préalable de la DGSNR, la capacité de stockage des effluents avant rejet pour l'ensemble des INB 107 et 132 est au minimum :
+Sauf accord préalable de l'Autorité de sûreté nucléaire, la capacité de stockage des effluents avant rejet pour l'ensemble des INB 107 et 132 est au minimum :
 
 - pour les réservoirs T, 3 000 m3 répartis en au moins six réservoirs de 500 m3 chacun ;
 

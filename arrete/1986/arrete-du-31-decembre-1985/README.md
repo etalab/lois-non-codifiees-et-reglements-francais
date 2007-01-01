@@ -4,6 +4,7 @@
 - [Titre Ier : Généralités.](titre-ier)
 - [Article 2](article-2.md)
 - [Titre II : Approbation des modèles.](titre-ii)
+- [Article 2 bis](article-2-bis.md)
 - [Article 2 ter](article-2-ter.md)
 - [Article 3](article-3.md)
 - [Titre III : Vérification primitive et périodique.](titre-iii)

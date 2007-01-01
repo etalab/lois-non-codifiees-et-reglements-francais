@@ -6,13 +6,11 @@ Toutefois, peuvent faire l'objet de la délégation prévue à l'article 1er ci-
 
 1° Les autorisations de cessation progressive d'activité instituée par l'ordonnance n° 82-297 du 31 mars 1982 modifiée portant modification de certaines dispositions du code des pensions civiles et militaires de retraite et relative à la cessation d'activité des fonctionnaires et des agents de l'Etat et des établissements publics de l'Etat à caractère administratif ;
 
-2° Pour le corps des attachés d'administration scolaire et universitaire régis par le décret n° 83-1033 du 3 décembre 1983 modifié portant statuts particuliers des corps de l'administration scolaire et universitaire et fixant les dispositions applicables à l'emploi de secrétaire général d'administration scolaire et universitaire :
+2° Pour le corps des attachés d'administration de l'éducation nationale et de l'enseignement supérieur régi par le décret n° 2006-1732 du 23 décembre 2006 :
 
 a) L'établissement de la liste d'aptitude d'accès au corps ;
 
-b) L'établissement du tableau d'avancement au choix au grade d'attaché principal de 2e classe ;
-
-c) L'établissement du tableau d'avancement et la nomination au grade d'attaché principal de 1re classe ;
+b) L'établissement du tableau d'avancement au choix au grade d'attaché principal ;
 
 3° L'octroi du congé de fin d'activité créé par la loi n° 96-1093 du 16 décembre 1996 relative à l'emploi dans la fonction publique et à diverses mesures d'ordre statutaire ;
 

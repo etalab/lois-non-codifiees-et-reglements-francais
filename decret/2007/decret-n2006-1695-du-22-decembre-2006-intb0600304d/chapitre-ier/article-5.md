@@ -1,0 +1,5 @@
+# Article 5
+
+Les fonctionnaires appartenant à un corps ou à un cadre d'emplois de catégorie B ou titulaires d'un emploi de même niveau sont classés dans l'un des cadres d'emplois régis par le présent décret à l'échelon comportant l'indice le plus proche de celui qui leur permet d'obtenir un gain de 60 points d'indice brut. Lorsque deux échelons successifs remplissent cette condition, le classement est prononcé dans celui qui comporte l'indice le moins élevé.
+
+Dans la limite de l'ancienneté maximale fixée par le statut particulier du cadre d'emplois dans lequel ils sont nommés pour une promotion à l'échelon supérieur, ils conservent l'ancienneté d'échelon acquise dans leur grade d'origine lorsque l'augmentation de traitement consécutive à leur nomination est inférieure ou égale à 60 points d'indice brut. Toutefois, lorsque l'application de l'alinéa précédent conduit à classer un fonctionnaire au même échelon que celui auquel il aurait été classé s'il avait détenu un des échelons supérieurs à celui qu'il détient dans son grade d'origine, aucune ancienneté n'est conservée dans l'échelon du grade de catégorie A dans lequel il est classé.

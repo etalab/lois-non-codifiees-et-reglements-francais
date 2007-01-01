@@ -1,0 +1,7 @@
+# Article 7
+
+I. - Les membres des commissions administratives paritaires compétentes pour les corps des secrétaires administratifs d'administration centrale du ministère de l'intérieur, des secrétaires administratifs d'administration centrale du ministère de l'outre-mer et des secrétaires administratifs de préfecture sont maintenus en fonctions et siègent en formation commune jusqu'à l'installation des commissions administratives paritaires compétentes pour le corps des secrétaires administratifs de l'intérieur et de l'outre-mer créé par le présent décret et, au plus tard, jusqu'au terme de leur mandat en cours dont la durée est fixée par le décret du 28 mai 1982 susvisé.
+
+Les représentants de chacun des trois grades des trois anciens corps mentionnés à l'alinéa précédent siègent en formation commune pour représenter le grade correspondant du corps créé par le présent décret.
+
+II. - En outre, par dérogation aux dispositions de l'article 7 du décret du 28 mai 1982 susvisé, la durée du mandat des membres de la commission administrative paritaire centrale compétente à l'égard des secrétaires administratifs d'administration centrale du ministère de l'outre-mer est prorogée jusqu'à la mise en place des commissions administratives paritaires compétentes pour le corps des secrétaires administratifs de l'intérieur et de l'outre-mer créé par le présent décret et, au plus tard, jusqu'au 31 décembre 2009.

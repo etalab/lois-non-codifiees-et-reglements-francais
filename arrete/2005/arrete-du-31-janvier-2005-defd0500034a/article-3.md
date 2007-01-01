@@ -8,4 +8,6 @@ La sous-direction de la gestion et de la qualité comprend :
 
 3. Le bureau des ressources humaines ;
 
-4. Le bureau des affaires générales.
+4. Le bureau des affaires générales ;
+
+5. Le bureau de la production technique.

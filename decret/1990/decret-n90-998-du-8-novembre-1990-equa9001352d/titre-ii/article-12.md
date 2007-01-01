@@ -1,8 +1,8 @@
 # Article 12
 
-I. - Indépendamment des emplois pourvus en application de l'article 13 ci-après, les ingénieurs du contrôle de la navigation aérienne sont recrutés :
+I. - Indépendamment des emplois pourvus en application de l'article 12-1 et de l'article 13 ci-après, les ingénieurs du contrôle de la navigation aérienne sont recrutés :
 
-a) Pour 60 % des emplois à pourvoir, par concours ouvert aux candidats âgés de vingt-six ans au plus au 1er janvier de l'année du concours, qui justifient au 1er novembre de l'année du concours d'un diplôme d'études universitaires générales à caractère scientifique, d'un diplôme universitaire de technologie, d'un brevet de technicien supérieur, d'un diplôme équivalent ou d'une formation d'un niveau au moins égal à deux années d'études supérieures après le baccalauréat de l'enseignement secondaire. La liste de ces diplômes, brevets et formations est établie par arrêté conjoint du ministre chargé de l'aviation civile et du ministre chargé de la fonction publique ;
+a) pour 60 % des emplois à pourvoir, par concours externe ouvert aux candidats âgés de vingt-six ans au plus au 1er janvier de l'année du concours, qui justifient au 1er novembre de l'année du concours d'un titre ou diplôme classé au moins au niveau III relevant des domaines des mathématiques, des sciences et des formations techniques ou d'une qualification ou d'une formation reconnue comme équivalente à l'un de ces titres ou diplômes dans les conditions fixées par le décret n° 2007-196 du 13 février 2007 relatif aux équivalences de diplômes requises pour se présenter aux concours d'accès aux corps et cadres d'emplois de la fonction publique ;
 
 b) Pour 12,5 % des emplois à pourvoir, par concours interne ouvert :
 
@@ -10,9 +10,9 @@ b) Pour 12,5 % des emplois à pourvoir, par concours interne ouvert :
 
 2° Aux agents des collectivités territoriales en fonctions dans un service de l'aviation civile et justifiant de quatre années d'ancienneté dans un tel service au 1er janvier de l'année du concours.
 
-Par dérogation aux dispositions du décret n° 90-709 du 1er août 1990 portant suppression des limites d'âge applicables aux recrutements par concours internes dans la fonction publique de l'Etat, les candidats au concours interne doivent être âgés de moins de trente ans au 1er janvier de l'année du concours ;
+Les candidats au concours interne doivent être âgés de moins de trente ans au 1er janvier de l'année du concours ;
 
-c) Pour 15 % des emplois à pourvoir par sélection professionnelle ouverte aux techniciens supérieurs des études et de l'exploitation de l'aviation civile en fonctions dans l'administration de l'aviation civile, comptant au moins six années de services en cette qualité, dont au moins quatre années d'exercice des fonctions de contrôle ou cinq années d'exercice des fonctions de gestion des aires de trafic au sein de la vigie annexe de l'aérodrome de Paris - Charles-de-Gaulle après l'obtention de l'habilitation délivrée dans les conditions prévues par arrêté du ministre chargé de l'aviation civile.
+c) Pour 15 % des emplois à pourvoir par sélection professionnelle ouverte aux techniciens supérieurs des études et de l'exploitation de l'aviation civile en fonctions dans l'administration de l'aviation civile, comptant au moins six années de services en cette qualité, dont au moins quatre années d'exercice des fonctions de contrôle ou cinq années d'exercice des fonctions de gestion des aires de trafic au sein de la vigie trafic de l'aérodrome de Paris - Charles-de-Gaulle après l'obtention de l'habilitation délivrée dans les conditions prévues par arrêté du ministre chargé de l'aviation civile, ou cinq années d'exercice des fonctions dans un centre d'information de vol après l'obtention de l'habilitation délivrée dans les conditions prévues par arrêté du ministre chargé de l'aviation civile.
 
 Les candidats à la sélection professionnelle doivent être âgés de moins de trente-sept ans au 1er janvier de l'année de la sélection.
 

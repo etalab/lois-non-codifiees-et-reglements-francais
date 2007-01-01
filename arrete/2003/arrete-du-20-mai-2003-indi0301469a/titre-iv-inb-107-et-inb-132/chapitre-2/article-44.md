@@ -8,4 +8,4 @@ Les circuits de traitement de chaque INB comportent pour les effluents radioacti
 
 - un circuit destiné à recueillir les effluents éventuellement radioactifs (eaux d'exhaure des salles des machines, purges des circuits...). Ce circuit est raccordé à des réservoirs appelés réservoirs Ex.
 
-En complément de ces réservoirs de stockage d'effluents radioactifs, des réservoirs appelés "réservoirs de santé" ou "réservoirs S" doivent rester vides, sauf accord préalable de la DGSNR. Ils ne peuvent être utilisés, même pour transit, que pour des considérations de sûreté ou de radioprotection.
+En complément de ces réservoirs de stockage d'effluents radioactifs, des réservoirs appelés "réservoirs de santé" ou "réservoirs S" doivent rester vides, sauf accord préalable de l'Autorité de sûreté nucléaire. Ils ne peuvent être utilisés, même pour transit, que pour des considérations de sûreté ou de radioprotection.

@@ -28,7 +28,7 @@ Le mandat de ces membres est de trois ans renouvelable deux fois au maximum. Le 
 
 - un représentant du secteur cafés, hôtels, restaurants et deux représentants des organisations de consommateurs nommés par le préfet de la Gironde ;
 
-- le représentant du comité national des vins et eaux-de-vie de l'Institut national des appellations d'origine ;
+- le représentant du comité national des vins et eaux-de-vie de l'Institut national de l'origine et de la qualité ;
 
 - le président de l'Union nationale des embouteilleurs distributeurs ;
 

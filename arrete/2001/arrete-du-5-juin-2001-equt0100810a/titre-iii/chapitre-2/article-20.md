@@ -4,7 +4,7 @@ Déclaration de chargement de matières dangereuses et marquage des colis.
 
 1. Dispositions générales.
 
-L'obligation figurant au 5.4.1.1.1, consistant à porter une croix dans la case prévue à cet effet de la lettre de voiture, ne s'applique pas si l'on utilise un contrat de transport ou un bordereau de suivi pour un transport de déchets.
+L'obligation figurant au 5.4.1.1.1, consistant à porter une croix dans la case prévue à cet effet du document de transport, ne s'applique pas si l'on utilise un contrat de transport ou un bordereau de suivi pour un transport de déchets.
 
 2. Transports pour compte propre.
 

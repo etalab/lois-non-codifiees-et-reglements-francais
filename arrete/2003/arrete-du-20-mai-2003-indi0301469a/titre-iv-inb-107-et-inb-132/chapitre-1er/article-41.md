@@ -10,7 +10,7 @@ Pour toute opération conduisant à la mise en communication directe à l'atmosp
 
 L'ouverture du trou d'homme du pressuriseur doit conduire à des précautions analogues.
 
-Avant rejets, les effluents gazeux hydrogénés radioactifs doivent être stockés pendant une durée minimale de trente jours sauf en cas de nécessité justifiée et après accord de la DGSNR. Sauf accord préalable de la DGSNR, la capacité totale minimale, par paire de réacteurs, des réservoirs de stockage des effluents radioactifs gazeux hydrogénés (réservoirs RS) doit être de 2000 m3 rapportés à des conditions normalisées de température (273,15 kelvins) et de pression (101,3 kilopascals). Elle doit être répartie en au moins 3 réservoirs par paire de réacteurs identifiés RS.
+Avant rejets, les effluents gazeux hydrogénés radioactifs doivent être stockés pendant une durée minimale de trente jours sauf en cas de nécessité justifiée et après accord de l'Autorité de sûreté nucléaire. Sauf accord préalable de l'Autorité de sûreté nucléaire, la capacité totale minimale, par paire de réacteurs, des réservoirs de stockage des effluents radioactifs gazeux hydrogénés (réservoirs RS) doit être de 2000 m3 rapportés à des conditions normalisées de température (273,15 kelvins) et de pression (101,3 kilopascals). Elle doit être répartie en au moins 3 réservoirs par paire de réacteurs identifiés RS.
 
 Toutes dispositions doivent être prises pour qu'il soit impossible sur l'ensemble du site de rejeter les effluents de plus d'un réservoir RS à la fois ou de procéder simultanément à la vidange de l'air d'un bâtiment réacteur. Cette dernière opération ne peut avoir lieu que pour un réacteur à la fois.
 

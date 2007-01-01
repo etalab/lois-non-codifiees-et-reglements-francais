@@ -2,7 +2,7 @@
 
 1° Chefs de mission, régis par le décret n° 2002-106 du 23 janvier 2002 relatif à l'emploi de chef de mission d'administration centrale des ministères chargés de l'éducation nationale, de la recherche et de la jeunesse et des sports.
 
-2° Attachés d'administration centrale du ministère de l'éducation nationale, régis par le décret n° 95-888 du 7 août 1995 modifié, fixant les dispositions statutaires communes applicables aux attachés d'administration centrale.
+2° Abrogé
 
 3° Secrétaires administratifs d'administration centrale du ministère de l'éducation nationale, régis par le décret n° 94-1016 du 18 novembre 1994 modifié fixant les dispositions statutaires communes applicables à divers corps de fonctionnaires de la catégorie B et par le décret n° 94-1017 du 18 novembre 1994 modifié fixant les dispositions statutaires communes applicables aux corps des secrétaires administratifs des administrations de l'Etat et à certains corps analogues.
 
@@ -16,7 +16,7 @@
 
 8° Conseillers d'administration scolaire et universitaire, régis par le décret n° 83-1033 du 3 décembre 1983 modifié portant statuts particuliers des corps de l'administration scolaire et universitaire et fixant les dispositions applicables à l'emploi de secrétaire général d'administration scolaire et universitaire.
 
-9° Attachés d'administration scolaire et universitaire, régis par le décret n° 83-1033 du 3 décembre 1983 modifié portant statuts particuliers des corps de l'administration scolaire et universitaire et fixant les dispositions applicables à l'emploi de secrétaire général d'administration scolaire et universitaire.
+9° Attachés d'administration de l'éducation nationale et de l'enseignement supérieur, régis par le décret n° 2006-1732 du 23 décembre 2006 portant dispositions statutaires relatives au corps des attachés d'administration de l'éducation nationale et de l'enseignement supérieur.
 
 10° Secrétaires d'administration scolaire et universitaire, régis par le décret n° 94-1017 du 18 novembre 1994 modifié fixant les dispositions statutaires communes applicables aux corps des secrétaires administratifs des administrations de l'Etat et à certains corps analogues.
 

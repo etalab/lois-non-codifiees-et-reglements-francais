@@ -54,7 +54,7 @@ Les taux de la prime de grade ou de sujétion d'emploi prévue à l'article 2 du
 </tr>
 <tr>
 <td valign="top" width="454">
-<p align="left">Ingénieur divisionnaire des travaux des eaux et forêts</p>
+<p align="left">Ingénieur divisionnaire de l'agriculture et de l'environnement</p>
 </td>
 <td valign="top" width="227">
 <p align="center">8</p>
@@ -62,7 +62,7 @@ Les taux de la prime de grade ou de sujétion d'emploi prévue à l'article 2 du
 </tr>
 <tr>
 <td valign="top" width="454">
-<p align="left">Ingénieur des travaux des eaux et forêts</p>
+<p align="left">Ingénieur de l'agriculture et de l'environnement</p>
 </td>
 <td valign="top" width="227">
 <p align="center">5,5</p>
@@ -70,7 +70,7 @@ Les taux de la prime de grade ou de sujétion d'emploi prévue à l'article 2 du
 </tr>
 <tr>
 <td valign="top" width="454">
-<p align="left">Attaché et attaché principal</p>
+<p>Attaché (tous grades)</p>
 </td>
 <td valign="top" width="227">
 <p align="center">5,5</p>
@@ -110,7 +110,7 @@ Les taux de la prime de grade ou de sujétion d'emploi prévue à l'article 2 du
 </tr>
 <tr>
 <td valign="top" width="454">
-<p align="left">Secrétaire administratif</p>
+<p align="left">Secrétaire administratif (tous grades)</p>
 </td>
 <td valign="top" width="227">
 <p align="center">4,5</p>
@@ -118,7 +118,7 @@ Les taux de la prime de grade ou de sujétion d'emploi prévue à l'article 2 du
 </tr>
 <tr>
 <td valign="top" width="454">
-<p align="left">Technicien opérationnel</p>
+<p align="left">Technicien opérationnel (tous grades)</p>
 </td>
 <td valign="top" width="227">
 <p align="center">3</p>
@@ -126,7 +126,7 @@ Les taux de la prime de grade ou de sujétion d'emploi prévue à l'article 2 du
 </tr>
 <tr>
 <td valign="top" width="454">
-<p align="left">Adjoint administratif</p>
+<p align="left">Adjoint administratif (tous grades)</p>
 </td>
 <td valign="top" width="227">
 <p align="center">2</p>
@@ -134,7 +134,7 @@ Les taux de la prime de grade ou de sujétion d'emploi prévue à l'article 2 du
 </tr>
 <tr>
 <td valign="top" width="454">
-<p align="left">Chef de district forestier</p>
+<p align="left">Chef de district forestier (tous grades)</p>
 </td>
 <td valign="top" width="227">
 <p align="center">2</p>
@@ -142,7 +142,7 @@ Les taux de la prime de grade ou de sujétion d'emploi prévue à l'article 2 du
 </tr>
 <tr>
 <td valign="top" width="454">
-<p align="left">Agent technique forestier</p>
+<p align="left">Agent technique forestier (tous grades)</p>
 </td>
 <td valign="top" width="227">
 <p align="center">1,5</p>
