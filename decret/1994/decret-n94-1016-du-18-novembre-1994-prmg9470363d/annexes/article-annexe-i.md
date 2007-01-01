@@ -30,7 +30,7 @@ Secrétaires administratifs des services déconcentrés de l'agriculture.
 
 Secrétaires administratifs de l'industrie et de l'aménagement du territoire.
 
-Secrétaires administratifs de préfecture.
+Secrétaires administratifs de l'intérieur et de l'outre-mer.
 
 Secrétaires d'administration scolaire et universitaire.
 
