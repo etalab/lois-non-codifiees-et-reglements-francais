@@ -2,122 +2,85 @@
 
 L'échelonnement indiciaire applicable aux agents de maîtrise territoriaux est fixé ainsi qu'il suit :
 
+Agent de maîtrise principal
+
 <table>
 <tbody>
 <tr>
-<td colspan="2">
-<p align="center">Agent de maîtrise principal</p>
+<td valign="top" width="337">
+<p align="center">ÉCHELONS</p>
+</td>
+<td valign="top" width="337">
+<p align="center">INDICES BRUTS</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="337">
-<br/>
+<td>
+<p align="left">9e échelon</p>
 </td>
-<td valign="top" width="337">
-<p align="center">Indices bruts</p>
+<td>
+<p align="center">529</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="337">
-<p>6e échelon</p>
+<td>
+<p align="left">8e échelon</p>
 </td>
-<td valign="top" width="337">
+<td>
 <p align="center">499</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="337">
-<p>5e échelon</p>
+<td>
+<p align="left">7e échelon </p>
 </td>
-<td valign="top" width="337">
-<p align="center">469</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="337">
-<p>4e échelon</p>
-</td>
-<td valign="top" width="337">
-<p align="center">440</p>
+<td>
+<p align="center">481</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="337">
-<p>3e échelon</p>
+<p align="left">6e échelon</p>
 </td>
 <td valign="top" width="337">
-<p align="center">410</p>
+<p align="center">464</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="337">
-<p>2e échelon</p>
+<p align="left">5e échelon</p>
 </td>
 <td valign="top" width="337">
-<p align="center">387</p>
+<p align="center">450</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="337">
-<p>1er échelon</p>
+<p align="left">4e échelon</p>
 </td>
 <td valign="top" width="337">
-<p align="center">358</p>
-</td>
-</tr>
-</tbody>
-</table>
-
-.
-
-<table>
-<tbody>
-<tr>
-<td colspan="2">
-<p align="center">Agent de maîtrise qualifié</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="337"/>
-<td valign="top" width="337">
-<p align="center">Indices bruts</p>
+<p align="center">422</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="337">
-<p>5e échelon</p>
+<p align="left">3e échelon</p>
 </td>
 <td valign="top" width="337">
-<p align="center">449</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="337">
-<p>4e échelon</p>
-</td>
-<td valign="top" width="337">
-<p align="center">427</p>
+<p align="center">394</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="337">
-<p>3e échelon</p>
+<p align="left">2e échelon</p>
 </td>
 <td valign="top" width="337">
-<p align="center">396</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="337">
-<p>2e échelon</p>
-</td>
-<td valign="top" width="337">
-<p align="center">379</p>
+<p align="center">370</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="337">
-<p>1er échelon</p>
+<p align="left">1er échelon</p>
 </td>
 <td valign="top" width="337">
 <p align="center">351</p>
@@ -125,5 +88,3 @@ L'échelonnement indiciaire applicable aux agents de maîtrise territoriaux est 
 </tr>
 </tbody>
 </table>
-
-L'indice correspondant au 6e échelon du grade d'agent de maîtrise principal est porté à l'indice brut 499 à compter du 1er août 1993.
