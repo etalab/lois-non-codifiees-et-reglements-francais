@@ -10,4 +10,4 @@ Le label, dont chaque exemplaire porte un numéro d'ordre, comporte trois volets
 
 - le troisième au syndicat de défense de l'appellation.
 
-Le relevé des quantités agréées correspondant à chaque récolte est communiqué en fin de campagne (31 août) à la Fédération nationale des vins délimités de qualité supérieure, à la fédération régionale, à l'Institut national des appellations d'origine et à la direction générale des impôts.
+Le relevé des quantités agréées correspondant à chaque récolte est communiqué en fin de campagne (31 août) à la Fédération nationale des vins délimités de qualité supérieure, à la fédération régionale, à l'Institut national de l'origine et de la qualité et à la direction générale des impôts.

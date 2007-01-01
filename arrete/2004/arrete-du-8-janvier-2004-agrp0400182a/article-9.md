@@ -6,4 +6,4 @@ Un règlement dénommé "règlement agrément" fixe notamment :
 
 - les modalités d'application des dispositions relatives aux examens organoleptiques.
 
-Ce règlement, approuvé par le CNPA, peut être consulté au centre local de l'Institut national des appellations d'origine en charge de l'AOC "Barèges-Gavarnie", au siège du syndicat de défense de l'appellation d'origine contrôlée "Barèges-Gavarnie" et au siège de l'organisme agréé.
+Ce règlement, approuvé par le CNPA, peut être consulté au centre local de l'Institut national de l'origine et de la qualité en charge de l'AOC "Barèges-Gavarnie", au siège du syndicat de défense de l'appellation d'origine contrôlée "Barèges-Gavarnie" et au siège de l'organisme agréé.

@@ -14,4 +14,4 @@ Le bordereau d'enlèvement prévu à l'article 8 du décret du 15 septembre 2003
 
 - date d'enlèvement et heure de fin de chargement.
 
-Le bordereau est établi en cinq exemplaires destinés à l'acheteur, l'abattoir, le syndicat de défense de l'appellation, l'Institut national des appellations d'origine et l'éleveur.
+Le bordereau est établi en cinq exemplaires destinés à l'acheteur, l'abattoir, le syndicat de défense de l'appellation, l'Institut national de l'origine et de la qualité et l'éleveur.

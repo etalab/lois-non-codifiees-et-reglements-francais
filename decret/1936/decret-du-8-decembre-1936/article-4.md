@@ -1,11 +1,19 @@
 # Article 4
 
-L'appellation contrôlée "Pomerol" ne sera accordée qu'aux producteurs dont la récolte n'aura pas excédé le rendement moyen de 42 hectolitres par hectare de vigne en production.
+Le rendement de base visé à l'article 1er du décret n° 93-1067 du 10 septembre 1993 relatif au rendement des vignobles produisant des vins à appellation d'origine contrôlée est fixé pour les appellations :
 
-Le rendement moyen sera calculé sur cinq années (celle de la récolte et les quatre précédentes).
+- "Vouvray" à 52 hecolitres à l'hectare ;
 
-Les jeunes vignes ne pourront entrer dans le décompte de la surface plantée qu'à partir de la quatrième feuille, celle-ci comprise.
+- "Vouvray pétillant" à 65 hectolitres à l'hectare ;
 
-Un rendement moyen supérieur à celui fixé entrainera la perte de l'appellation contrôlée pour toute la récolte du déclarant, sauf justification reconnue valable après enquête du comité national de l'origine et de la qualité des vins et eaux-de-vie.
+- "Vouvray mousseux" à 65 hectolitres à l'hectare ;
 
-En outre, les récoltants de vins à appellation contrôlée "Pomerol" possédant ou exploitant également des vignes dont le vin bénéficie d'une appellation contrôlée autre que "Pomerol" ne pourront, dans leur déclaration de récolte, faire apparaître un rendement à l'hectare supérieur pour les vins à appellation contrôlée "Pomerol" à celui des autres vins à appellation contrôlée, sauf dérogation reconnue valable après enquête par l'Institut national de l'origine et de la qualité.
+Le rendement butoir fixé à l'article 4 dudit décret est fixé pour les appellations :
+
+- "Vouvray" à 65 hectolitres à l'hectare ;
+
+- "Vouvray pétillant" à 78 hectolitres à l'hectare ;
+
+- "Vouvray mousseux" à 78 hectolitres à l'hectare.
+
+Le bénéfice de l'appellation d'origine contrôlée ne peut être accordé aux vins provenant des jeunes vignes qu'à partir de la deuxième année suivant celle au cours de laquelle la plantation a été réalisée en place avant le 31 août.

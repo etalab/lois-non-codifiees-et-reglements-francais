@@ -1,6 +1,6 @@
 # Article 5
 
-Le récapitulatif prévu au troisième alinéa de l'article 3 du décret n° 2003-983 du 14 octobre 2003 susvisé est adressé aux services de l'Institut national des appellations d'origine au plus tard le 31 mai de l'année qui suit celle de la récolte. Une campagne court du 1er juin au 31 mai.
+Le récapitulatif prévu au troisième alinéa de l'article 3 du décret n° 2003-983 du 14 octobre 2003 susvisé est adressé aux services de l'Institut national de l'origine et de la qualité au plus tard le 31 mai de l'année qui suit celle de la récolte. Une campagne court du 1er juin au 31 mai.
 
 En ce qui concerne les conditionneurs, le registre d'entrées prévu à l'article 3 du décret n° 2003-983 du 14 octobre 2003 susvisé comporte :
 

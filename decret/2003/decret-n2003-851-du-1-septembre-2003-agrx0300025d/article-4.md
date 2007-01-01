@@ -124,7 +124,7 @@ Sont abrogés :
 
 61° Le décret n° 89-1011 du 22 décembre 1989 relatif au surgreffage des vignes destinées à la production des vins d'appellation d'origine ;
 
-62° Le décret n° 91-368 du 15 avril 1991 portant organisation et fonctionnement de l'Institut national des appellations d'origine ;
+62° Le décret n° 91-368 du 15 avril 1991 portant organisation et fonctionnement de l'Institut national de l'origine et de la qualité ;
 
 63° Le décret n° 91-1234 du 6 décembre 1991 relatif aux abattoirs privés de type industriel ;
 

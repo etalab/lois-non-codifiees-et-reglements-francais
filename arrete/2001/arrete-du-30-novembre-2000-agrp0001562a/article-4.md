@@ -10,7 +10,7 @@ Un comité chargé de l'organisation du classement composé :
 
 - du président de la fédération des grands vins de Bordeaux ou son représentant ;
 
-- du président du comité régional vins et eaux-de-vie de l'Institut national des appellations d'origine pour la région Sud-Ouest ou son représentant,
+- du président du comité régional vins et eaux-de-vie de l'Institut national de l'origine et de la qualité pour la région Sud-Ouest ou son représentant,
 
 prend toutes dispositions et organise toutes consultations pour décider, en accord avec le syndicat des crus bourgeois du Médoc, la mise en oeuvre des épreuves de ce classement.
 

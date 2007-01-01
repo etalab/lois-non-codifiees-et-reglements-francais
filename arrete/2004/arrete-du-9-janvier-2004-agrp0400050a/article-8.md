@@ -1,8 +1,8 @@
 # Article 8
 
-L'anonymat des échantillons est effectué par des agents de prélèvement qui peuvent être soit des agents de l'Institut national des appellations d'origine soit des agents habilités à cette fin par les services dudit institut.
+L'anonymat des échantillons est effectué par des agents de prélèvement qui peuvent être soit des agents de l'Institut national de l'origine et de la qualité soit des agents habilités à cette fin par les services dudit institut.
 
-L'examen analytique est effectué par un agent de l'Institut national des appellations d'origine ou par un agent habilité à cette fin par les services dudit institut.
+L'examen analytique est effectué par un agent de l'Institut national de l'origine et de la qualité ou par un agent habilité à cette fin par les services dudit institut.
 
 La "commission agrément produit" est composée de membres figurant sur une liste. Cette liste est arrêtée par le directeur de l'INAO sur la base d'une liste de professionnels proposée par le syndicat de défense de l'appellation d'origine contrôlée "Chasselas de Moissac".
 

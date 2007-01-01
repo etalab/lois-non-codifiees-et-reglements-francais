@@ -15,6 +15,7 @@
 - [Arrêté du 5 janvier 2006 (INTE0600046A)](arrete-du-5-janvier-2006-inte0600046a)
 - [Arrêté du 5 octobre 2007 (DEFH0767409A)](arrete-du-5-octobre-2007-defh0767409a)
 - [Arrêté du 7 décembre 2007 (PRMG0764625A)](arrete-du-7-decembre-2007-prmg0764625a)
+- [Arrêté du 7 juin 2000 (ECOC0000065A)](arrete-du-7-juin-2000-ecoc0000065a)
 - [Arrêté du 8 décembre 2006 (EQUG0602387A)](arrete-du-8-decembre-2006-equg0602387a)
 - [Arrêté du 9 octobre 2007 (DEFH0760659A)](arrete-du-9-octobre-2007-defh0760659a)
 - [Arrêté du 10 décembre 2007 (DEFH0772550A)](arrete-du-10-decembre-2007-defh0772550a)

@@ -1,6 +1,6 @@
 # Article 3
 
-Les prélèvements nécessaires aux examens analytiques et organoleptiques prévus à l'article 5 du décret précité sont effectués par les agents de l'Institut national des appellations d'origine ou toutes personnes accréditées par l'institut.
+Les prélèvements nécessaires aux examens analytiques et organoleptiques prévus à l'article 5 du décret précité sont effectués par les agents de l'Institut national de l'origine et de la qualité ou toutes personnes accréditées par l'institut.
 
 Le prélèvement doit être effectué en une seule fois et porter sur la totalité du volume des produits pour lesquels une appellation d'origine contrôlée est revendiquée.
 
@@ -22,6 +22,6 @@ Le règlement prévu à l'article 7 peut définir un nombre supérieur d'échant
 
 Chaque échantillon prélevé est muni d'un dispositif de fermeture inviolable et d'une étiquette, dont une partie, sur laquelle sont inscrits tous les renseignements nécessaires à l'identification du lot correspondant, peut être détachée pour assurer l'anonymat.
 
-Les échantillons prélevés sont entreposés dans un local clos mis par l'organisme agréé à la disposition de l'Institut national des appellations d'origine.
+Les échantillons prélevés sont entreposés dans un local clos mis par l'organisme agréé à la disposition de l'Institut national de l'origine et de la qualité.
 
-Les services de l'Institut national des appellations d'origine sont chargés d'assurer l'anonymat des échantillons prélevés.
+Les services de l'Institut national de l'origine et de la qualité sont chargés d'assurer l'anonymat des échantillons prélevés.

@@ -8,7 +8,7 @@ La commission doit toujours être composée d'un nombre impair de dégustateurs.
 
 Cette commission vérifie les qualités organoleptiques des miels et l'adéquation à la gamme variétale revendiquée par l'opérateur.
 
-La dégustation porte sur l'aspect, l'odeur et la saveur des miels. Les échantillons sont évalués à part et individuellement, selon une grille d'appréciation établie par l'organisme agréé et approuvée par l'Institut national des appellations d'origine.
+La dégustation porte sur l'aspect, l'odeur et la saveur des miels. Les échantillons sont évalués à part et individuellement, selon une grille d'appréciation établie par l'organisme agréé et approuvée par l'Institut national de l'origine et de la qualité.
 
 Les décisions de la commission "agrément produit" font suite à une synthèse des différentes analyses physico-chimiques, polliniques et sensorielles et peuvent être de deux ordres :
 
@@ -20,6 +20,6 @@ Dans le cas de non-conformité du produit, la commission prononce un avertisseme
 
 Les décisions motivées de la commission ainsi que les résultats des analyses sont notifiés aux intéressés par les services de l'institut.
 
-L'invalidation de la déclaration d'aptitude et prononcée par les services de l'Institut national des appellations d'origine après trois avertissements intervenus pendant la même campagne.
+L'invalidation de la déclaration d'aptitude et prononcée par les services de l'Institut national de l'origine et de la qualité après trois avertissements intervenus pendant la même campagne.
 
 L'opérateur retrouve la capacité de commercialiser sous le nom de l'appellation dans les conditions prévues à l'article 6 du présent arrêté.

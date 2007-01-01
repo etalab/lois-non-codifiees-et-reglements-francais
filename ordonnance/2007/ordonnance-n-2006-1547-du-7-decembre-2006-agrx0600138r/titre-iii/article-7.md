@@ -1,0 +1,5 @@
+# Article 7
+
+Les propositions relatives à la reconnaissance d'une appellation d'origine, à l'enregistrement d'une indication géographique protégée ou à la modification du cahier des charges d'un produit bénéficiant d'une appellation d'origine ou d'une indication géographique protégée qui ont été faites par les comités nationaux de l'Institut national de l'origine et de la qualité avant le 1er janvier 2007 et qui n'ont pas été homologuées à cette date sont réputées satisfaire aux conditions posées par les dispositions du titre IV du livre VI du code rural issues de la présente ordonnance et des textes réglementaires pris pour leur application.
+
+Il en va de même des cahiers des charges des produits sollicitant le bénéfice d'un label rouge, d'une spécialité traditionnelle garantie ou de la mention agriculture biologique qui ont reçu un avis favorable de la Commission nationale des labels et des certifications des produits agricoles et alimentaires avant le 1er janvier 2007 et qui n'ont pas été homologués à cette date.

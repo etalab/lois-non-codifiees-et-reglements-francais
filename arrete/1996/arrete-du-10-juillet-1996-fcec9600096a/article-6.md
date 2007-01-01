@@ -8,7 +8,7 @@ Les échantillons ainsi prélevés feront l'objet d'examens analytique et organo
 
 Après deux avertissements intervenus pour la même campagne, la déclaration d'aptitude de l'opérateur concerné sera invalidée.
 
-2° Il appartient à l'opérateur concerné par l'invalidation de la déclaration d'aptitude de demander à l'Institut national des appellations d'origine de faire procéder à un prélèvement afin de soumettre sa production à de nouveaux examens analytique et organoleptique.
+2° Il appartient à l'opérateur concerné par l'invalidation de la déclaration d'aptitude de demander à l'Institut national de l'origine et de la qualité de faire procéder à un prélèvement afin de soumettre sa production à de nouveaux examens analytique et organoleptique.
 
 Ce prélèvement est effectué conformément aux dispositions prévues à l'article 3 ci-dessus.
 
@@ -22,4 +22,4 @@ L'examen organoleptique se déroule selon les modalités prévues du premier au 
 
 Toute décision défavorable entraîne la confirmation de l'invalidation.
 
-L'Institut national des appellations d'origine établit le procès-verbal de la séance.
+L'Institut national de l'origine et de la qualité établit le procès-verbal de la séance.

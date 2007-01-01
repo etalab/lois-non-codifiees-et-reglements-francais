@@ -14,7 +14,7 @@ Cinq représentants des organismes professionnels ;
 
 Un représentant de l'office national interprofessionnel des fruits, des légumes, des vins et de l'horticulture ;
 
-Un représentant de l'Institut national des appellations d'origine (I.N.A.O).
+Un représentant de l'Institut national de l'origine et de la qualité (I.N.A.O).
 
 Ses membres sont nommés pour trois ans par arrêté conjoint des ministres de l'agriculture, de l'éducation nationale et de la santé.
 

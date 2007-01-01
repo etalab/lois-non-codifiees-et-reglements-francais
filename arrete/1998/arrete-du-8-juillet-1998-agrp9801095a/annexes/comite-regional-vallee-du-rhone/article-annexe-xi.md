@@ -26,9 +26,9 @@ Côtes du Lubéron.
 
 Côtes du Rhône.
 
-Côtes du Rhône, suivie du nom de la commune d'origine :
+Côtes du Rhône, suivie du nom de la commune d'origine : Rochegude, Saint-Maurice, Vinsobres, Cairanne, Rasteau, Roaix, Rousset-les-Vignes, Saint-Pantaléon-les-Vignes, Séguret, Valréas, Visan, Laudun, Saint-Gervais, Sablet, Chusclan,
 
-Rochegude, Saint-Maurice, Vinsobres, Cairanne, Rasteau, Roaix, Rousset-les-Vignes, Saint-Pantaléon-les-Vignes, Séguret, Valréas, Visan, Laudun, Saint-Gervais, Sablet, Chusclan, Beaumes-de-Venise.
+Beaumes-de-Venise.
 
 Côtes du Rhône Villages.
 

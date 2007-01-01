@@ -1,5 +1,6 @@
 # 2006
 
+- [Loi n° 2006-11 du 5 janvier 2006 (AGRX0500091L)](loi-n-2006-11-du-5-janvier-2006-agrx0500091l)
 - [Loi n° 2006-1294 du 23 octobre 2006 (MJSX0609403L)](loi-n-2006-1294-du-23-octobre-2006-mjsx0609403l)
 - [Loi n° 2006-1615 du 18 décembre 2006 (SOCX0600170L)](loi-n-2006-1615-du-18-decembre-2006-socx0600170l)
 - [Loi n° 2006-1640 du 21 décembre 2006 (SANX0600163L)](loi-n-2006-1640-du-21-decembre-2006-sanx0600163l)

@@ -1,6 +1,6 @@
 # Article 2
 
-Les examens analytique et organoleptique, tels qu'ils sont prévus à l'article 10 du décret du 10 juillet 1996 susvisé, sont organisés, sous la responsabilité de l'Institut national des appellations d'origine, par l'organisme agréé.
+Les examens analytique et organoleptique, tels qu'ils sont prévus à l'article 10 du décret du 10 juillet 1996 susvisé, sont organisés, sous la responsabilité de l'Institut national de l'origine et de la qualité, par l'organisme agréé.
 
 Ces examens :
 

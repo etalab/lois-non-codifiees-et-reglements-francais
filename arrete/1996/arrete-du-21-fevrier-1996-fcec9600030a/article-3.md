@@ -1,6 +1,6 @@
 # Article 3
 
-Les centres d'accouvage doivent présenter la déclaration d'aptitude visée à l'article 13 du décret du 4 janvier 1995 susvisé aux services de l'Institut national des appellations d'origine. Cette déclaration doit notamment comporter le nombre prévisible de poussins pouvant être fournis annuellement par le centre.
+Les centres d'accouvage doivent présenter la déclaration d'aptitude visée à l'article 13 du décret du 4 janvier 1995 susvisé aux services de l'Institut national de l'origine et de la qualité. Cette déclaration doit notamment comporter le nombre prévisible de poussins pouvant être fournis annuellement par le centre.
 
 Chaque centre doit tenir un registre mentionnant :
 

@@ -1,6 +1,6 @@
 # Article 3
 
-Les prélèvements nécessaires aux examens analytiques et organoleptiques sont effectués par les agents de l'Institut national des appellations d'origine ou par des personnes agréées à cet effet par l'Institut national des appellations d'origine.
+Les prélèvements nécessaires aux examens analytiques et organoleptiques sont effectués par les agents de l'Institut national de l'origine et de la qualité ou par des personnes agréées à cet effet par l'Institut national de l'origine et de la qualité.
 
 Les prélèvements sont réalisés sur des lots dans les parcelles en cours d'arrachage ou détenus par l'opérateur en vue de la commercialisation avant ou après triage, calibrage et conditionnement.
 

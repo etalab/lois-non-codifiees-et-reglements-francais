@@ -1,8 +1,8 @@
 # Article 5
 
-En cas de déclassement de lot, la décision motivée de la commission est immédiatement notifiée à l'intéressé par l'Institut national des appellations d'origine.
+En cas de déclassement de lot, la décision motivée de la commission est immédiatement notifiée à l'intéressé par l'Institut national de l'origine et de la qualité.
 
-Avant de prononcer le déclassement du lot, la commission entend préalablement l'opérateur concerné. Le constat établi est signé par les membres de la commission, l'opérateur concerné et l'Institut national des appellations d'origine.
+Avant de prononcer le déclassement du lot, la commission entend préalablement l'opérateur concerné. Le constat établi est signé par les membres de la commission, l'opérateur concerné et l'Institut national de l'origine et de la qualité.
 
 Tout déclassement de lot est suivi d'un nouveau contrôle effectué dans les trois jours ouvrables.
 

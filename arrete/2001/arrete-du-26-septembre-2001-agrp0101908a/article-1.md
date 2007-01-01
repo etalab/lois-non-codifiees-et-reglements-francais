@@ -32,7 +32,7 @@ Collège des personnalités qualifiées :
 
 Un représentant du centre de développement des certifications des qualités agricoles et alimentaires (CERQUA).
 
-Un représentant de l'Institut national des appellations d'origine (INAO).
+Un représentant de l'Institut national de l'origine et de la qualité (INAO).
 
 Un représentant de chaque comité de massif désigné par le préfet coordinateur de massif, s'il existe.
 

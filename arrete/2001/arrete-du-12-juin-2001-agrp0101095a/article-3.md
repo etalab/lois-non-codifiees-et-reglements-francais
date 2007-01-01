@@ -12,4 +12,4 @@ Les plantations ayant pour effet de porter la superficie de l'exploitation conce
 
 Les parcelles prévues pour la plantation doivent avoir une vocation viticole affirmée.
 
-A l'exception des cas repris en annexe dans les listes régionales, qui ont fait l'objet d'un accord de l'Institut national des appellations d'origine (INAO), les parcelles à planter ne peuvent être incluses dans une aire délimitée d'appellation d'origine. Pour les demandes comportant des parcelles incluses dans l'aire géographique d'une appellation d'origine ou situées sur des communes limitrophes de l'aire délimitée, l'attribution est soumise à l'avis des services de l'INAO.
+A l'exception des cas repris en annexe dans les listes régionales, qui ont fait l'objet d'un accord de l'Institut national de l'origine et de la qualité (INAO), les parcelles à planter ne peuvent être incluses dans une aire délimitée d'appellation d'origine. Pour les demandes comportant des parcelles incluses dans l'aire géographique d'une appellation d'origine ou situées sur des communes limitrophes de l'aire délimitée, l'attribution est soumise à l'avis des services de l'INAO.

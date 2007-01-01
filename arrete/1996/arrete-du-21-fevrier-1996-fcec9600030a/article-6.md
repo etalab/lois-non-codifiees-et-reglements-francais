@@ -1,6 +1,6 @@
 # Article 6
 
-L'abattoir doit présenter aux services de l'Institut national des appellations d'origine la déclaration d'aptitude prévue à l'article 13 du décret du 4 janvier 1995 susvisé. Cette déclaration doit préciser le nombre prévisible de volailles pouvant être abattues annuellement.
+L'abattoir doit présenter aux services de l'Institut national de l'origine et de la qualité la déclaration d'aptitude prévue à l'article 13 du décret du 4 janvier 1995 susvisé. Cette déclaration doit préciser le nombre prévisible de volailles pouvant être abattues annuellement.
 
 L'abatteur doit prendre les mesures d'hygiène nécessaires à l'occasion des opérations de ramassage.
 

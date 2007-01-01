@@ -1,6 +1,6 @@
 # Article 1
 
-Est homologué le classement des crus des vins à appellation d'origine contrôlée "Saint-Emilion grand cru" proposé par le comité national des vins et eaux-de-vie de l'Institut national des appellations d'origine, dont la liste figure ci-après :
+Est homologué le classement des crus des vins à appellation d'origine contrôlée "Saint-Emilion grand cru" proposé par le comité national des vins et eaux-de-vie de l'Institut national de l'origine et de la qualité, dont la liste figure ci-après :
 
 A. - Saint-Emilion premiers grands crus classés.
 

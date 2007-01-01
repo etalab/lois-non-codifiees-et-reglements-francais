@@ -8,8 +8,8 @@ Chaque membre de la "commission examens organoleptiques" établit une fiche d'ex
 
 L'avis de la "commission examens organoleptiques" est formulé à la majorité. Il est établit sur la base des fiches rédigées par chacun de ses membres.
 
-Le secrétariat de la "commission examens organoleptiques" et le bon fonctionnement des opérations est assuré soit par un agent de l'Institut national des appellations d'origine, soit par un agent habilité à cette fin par les services dudit institut.
+Le secrétariat de la "commission examens organoleptiques" et le bon fonctionnement des opérations est assuré soit par un agent de l'Institut national de l'origine et de la qualité, soit par un agent habilité à cette fin par les services dudit institut.
 
 Le secrétaire de la "commission examens organoleptiques" établit le procès-verbal de la séance d'examen organoleptique, lequel est signé par les membres délibérants de la commission.
 
-L'examen analytique peut être effectué à la demande de la "commission examens organoleptiques" ou des services de l'Institut national des appellations d'origine.
+L'examen analytique peut être effectué à la demande de la "commission examens organoleptiques" ou des services de l'Institut national de l'origine et de la qualité.

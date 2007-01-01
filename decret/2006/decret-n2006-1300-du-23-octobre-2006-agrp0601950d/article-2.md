@@ -12,9 +12,9 @@ Cette réglementation définit notamment :
 
 II. - La concentration partielle de moûts de raisins aptes à la production ou à l'élaboration d'un vin à appellation d'origine contrôlée ne peut être prévue dans le décret de définition de l'appellation qu'à l'issue d'une période expérimentale permettant d'établir que les caractéristiques essentielles de l'appellation d'origine contrôlée sont préservées.
 
-Sur demande du syndicat de défense de l'appellation, le comité national des vins et eaux-de-vie de l'Institut national des appellations d'origine (INAO) autorise l'expérimentation.
+Sur demande du syndicat de défense de l'appellation, le comité national des vins et eaux-de-vie de l'Institut national de l'origine et de la qualité (INAO) autorise l'expérimentation.
 
-Cette expérimentation est conduite pour tout ou partie des appellations qui en ont fait la demande, selon les modalités arrêtées dans le protocole approuvé par le comité national des vins et eaux-de-vie de l'Institut national des appellations d'origine.
+Cette expérimentation est conduite pour tout ou partie des appellations qui en ont fait la demande, selon les modalités arrêtées dans le protocole approuvé par le comité national des vins et eaux-de-vie de l'Institut national de l'origine et de la qualité.
 
 L'appellation d'origine contrôlée concernée peut être revendiquée pour les vins produits à partir de moûts ayant fait l'objet d'une expérimentation sous réserve du respect du protocole d'expérimentation.
 

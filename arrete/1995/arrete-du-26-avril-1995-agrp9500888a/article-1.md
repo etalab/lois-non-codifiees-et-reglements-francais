@@ -1,6 +1,6 @@
 # Article 1
 
-Le montant de la redevance prévue à l'article 24 du décret n° 91-368 du 15 avril 1991 et relative à la fourniture des publications de l'Institut national des appellations d'origine est fixé comme suit à dater du 1er janvier 1995.
+Le montant de la redevance prévue à l'article 24 du décret n° 91-368 du 15 avril 1991 et relative à la fourniture des publications de l'Institut national de l'origine et de la qualité est fixé comme suit à dater du 1er janvier 1995.
 
 Décrets et arrêtés des vins et eaux-de-vie à appellation d'origine, deux tomes :
 

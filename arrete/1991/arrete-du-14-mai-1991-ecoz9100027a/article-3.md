@@ -1,8 +1,8 @@
 # Article 3
 
-Après avoir vérifié, en liaison avec l'agent de l'Institut national des appellations d'origine, la régularité et la conformité des déclarations et fiches fournies par le demandeur, le syndicat fait procéder au prélèvement des échantillons des vins pour lesquels est réclamé le bénéfice du label.
+Après avoir vérifié, en liaison avec l'agent de l'Institut national de l'origine et de la qualité, la régularité et la conformité des déclarations et fiches fournies par le demandeur, le syndicat fait procéder au prélèvement des échantillons des vins pour lesquels est réclamé le bénéfice du label.
 
-Les prélèvements sont effectués par un agent de prélèvement proposé par le syndicat et agréé par l'Institut national des appellations d'origine.
+Les prélèvements sont effectués par un agent de prélèvement proposé par le syndicat et agréé par l'Institut national de l'origine et de la qualité.
 
 Quatre échantillons de 37,5 cl au moins à 1 litre au plus sont prélevés pour chaque lot dont la composition est fixée par le demandeur et correspondant à un nombre entier de récipients :
 

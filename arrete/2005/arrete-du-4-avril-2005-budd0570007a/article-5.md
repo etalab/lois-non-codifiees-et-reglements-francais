@@ -10,7 +10,7 @@ l'administration centrale, les directions régionales et les centres de la vitic
 
 - l'Office national interprofessionnel des fruits, des légumes, des vins et de l'horticulture : service central et délégations régionales et nationale ;
 
-- l'Institut national des appellations d'origine : service central et centres techniques ;
+- l'Institut national de l'origine et de la qualité : service central et centres techniques ;
 
 - la direction générale des impôts : service de l'organisation et de l'informatique ;
 

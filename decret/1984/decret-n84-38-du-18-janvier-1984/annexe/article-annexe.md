@@ -278,7 +278,7 @@ Emplois de catégories A, B et C dans le secteur commercial, de la mercatique et
 
 ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
 
-Institut national des appellations d'origine
+Institut national de l'origine et de la qualité
 
 EMPLOIS OU CATEGORIES D'EMPLOIS concernés
 

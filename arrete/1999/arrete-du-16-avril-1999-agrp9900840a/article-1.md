@@ -1,6 +1,6 @@
 # Article 1
 
-Il est créé un comité régional vins et eaux-de-vie de l'Institut national des appellations d'origine pour la région Toulouse-Pyrénées.
+Il est créé un comité régional vins et eaux-de-vie de l'Institut national de l'origine et de la qualité pour la région Toulouse-Pyrénées.
 
 Ce comité comprend :
 

@@ -10,4 +10,4 @@ La farine ayant fait l'objet d'un biscuitage présente une couleur plus sombre a
 
 Elle présente un taux d'humidité inférieur ou égal à 10 %.
 
-Un règlement technique homologué par arrêté conjoint du ministre chargé de l'agriculture et de la pêche et du ministre chargé de l'économie, des finances et de l'industrie, pris sur proposition du comité national des produits agroalimentaires de l'Institut national des appellations d'origine, précise les modalités d'application du présent décret.
+Un règlement technique homologué par arrêté conjoint du ministre chargé de l'agriculture et de la pêche et du ministre chargé de l'économie, des finances et de l'industrie, pris sur proposition du comité national des produits agroalimentaires de l'Institut national de l'origine et de la qualité, précise les modalités d'application du présent décret.

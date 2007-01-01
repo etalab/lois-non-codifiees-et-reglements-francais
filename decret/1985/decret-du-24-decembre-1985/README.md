@@ -1,4 +1,4 @@
-# Décret du 24 décembre 1985 définissant les conditions de production des vins à appellation d'origine contrôlée "Corbières"
+# Décret du 24 décembre 1985 définissant les conditions de production des vins à appellation d'origine contrôlée "Languedoc".
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

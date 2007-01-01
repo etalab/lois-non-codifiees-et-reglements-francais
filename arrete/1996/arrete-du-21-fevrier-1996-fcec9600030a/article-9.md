@@ -10,4 +10,4 @@ La commission professionnelle, prévue au quatrième alinéa de l'article 13 du 
 
 Son renouvellement s'effectue tous les deux ans.
 
-Lorsque son avis est requis, elle est convoquée par les services de l'Institut national des appellations d'origine et statue à la majorité des membres présents, la voix du président étant prépondérante en cas d'égalité des voix, après visite éventuelle des structures et, si nécessaire, avis d'experts.
+Lorsque son avis est requis, elle est convoquée par les services de l'Institut national de l'origine et de la qualité et statue à la majorité des membres présents, la voix du président étant prépondérante en cas d'égalité des voix, après visite éventuelle des structures et, si nécessaire, avis d'experts.

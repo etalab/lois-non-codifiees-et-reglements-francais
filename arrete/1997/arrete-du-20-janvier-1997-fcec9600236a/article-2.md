@@ -1,6 +1,6 @@
 # Article 2
 
-Chaque opérateur visé à l'article 1er du décret du 3 décembre 1996 susvisé doit tenir à la disposition des agents de l'Institut national des appellations d'origine les registres et documents qui suivent :
+Chaque opérateur visé à l'article 1er du décret du 3 décembre 1996 susvisé doit tenir à la disposition des agents de l'Institut national de l'origine et de la qualité les registres et documents qui suivent :
 
 a) Pour l'éleveur :
 

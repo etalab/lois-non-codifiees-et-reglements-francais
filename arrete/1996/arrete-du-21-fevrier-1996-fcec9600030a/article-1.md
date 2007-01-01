@@ -1,6 +1,6 @@
 # Article 1
 
-Les centres de sélection de la volaille de Bresse doivent présenter la déclaration d'aptitude prévue à l'article 13 du décret du 4 janvier 1995 susvisé aux services de l'Institut national des appellations d'origine. Cette déclaration doit notamment comporter le nombre prévisible de reproducteurs pouvant être fournis annuellement par le centre.
+Les centres de sélection de la volaille de Bresse doivent présenter la déclaration d'aptitude prévue à l'article 13 du décret du 4 janvier 1995 susvisé aux services de l'Institut national de l'origine et de la qualité. Cette déclaration doit notamment comporter le nombre prévisible de reproducteurs pouvant être fournis annuellement par le centre.
 
 Chaque centre doit tenir un registre mentionnant :
 

@@ -4,7 +4,7 @@ L'examen analytique concerne notamment les critères énumérés dans le décret
 
 L'examen organoleptique porte notamment sur la forme, la couleur, l'odeur et la flaveur.
 
-L'Institut national des appellations d'origine assure le secrétariat de la commission de professionnels chargés d'effectuer les examens analytique et organoleptique et le bon fonctionnement des opérations.
+L'Institut national de l'origine et de la qualité assure le secrétariat de la commission de professionnels chargés d'effectuer les examens analytique et organoleptique et le bon fonctionnement des opérations.
 
 La décision de la commission est donnée à la majorité de ses membres. Elle est formulée selon l'une des deux mentions suivantes :
 

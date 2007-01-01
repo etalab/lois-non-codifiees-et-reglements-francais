@@ -34,11 +34,11 @@ Muscat,
 
 - Mention Sélection de grains nobles : 246 g/l.
 
-d) N'avoir fait l'objet d'aucun enrichissement, cette condition impliquant la constatation systématique de la richesse en sucre prévue au c ci-dessus de la matière première par l'Institut national des appellations d'origine ;
+d) N'avoir fait l'objet d'aucun enrichissement, cette condition impliquant la constatation systématique de la richesse en sucre prévue au c ci-dessus de la matière première par l'Institut national de l'origine et de la qualité ;
 
 e) Présenter le titre alcoométrique volumique total correspondant à la richesse en sucre ci-dessus précisée ;
 
-f) Avoir fait l'objet d'une déclaration préalable lors de la vendange auprès des services locaux de l'Institut national des appellations d'origine ;
+f) Avoir fait l'objet d'une déclaration préalable lors de la vendange auprès des services locaux de l'Institut national de l'origine et de la qualité ;
 
 g) Etre présentés, dégustés et agréés à l'examen analytique et organoleptique sous leur mention particulière, l'agrément ne pouvant intervenir avant un délai minimal de dix-huit mois à compter de la date de la récolte. Les vins ne peuvent être agréés sans l'obtention préalable d'un certificat d'aptitude délivré dans les conditions précisées par le règlement intérieur prévu à l'article 1er de l'arrêté du 7 décembre 2001 modifié relatif aux examens analytique et organoleptique pour les vins à appellation d'origine contrôlée à l'exception des vins mousseux et pétillants ;
 

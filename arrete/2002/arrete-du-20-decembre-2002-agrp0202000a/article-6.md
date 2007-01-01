@@ -1,6 +1,6 @@
 # Article 6
 
-La déclaration de mise en bouteille doit être effectuée sur l'imprimé fourni par l'organisme agréé visé à l'article 10 du décret du 19 mars 1996 susvisé et établi suivant le modèle défini par les services de l'Institut national des appellations d'origine.
+La déclaration de mise en bouteille doit être effectuée sur l'imprimé fourni par l'organisme agréé visé à l'article 10 du décret du 19 mars 1996 susvisé et établi suivant le modèle défini par les services de l'Institut national de l'origine et de la qualité.
 
 Cet imprimé indique notamment :
 

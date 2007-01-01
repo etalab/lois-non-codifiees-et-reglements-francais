@@ -4,9 +4,11 @@ I. - Les vins à appellation d'origine contrôlée "Alsace grand cru" proviennen
 
 Toutefois, le comité régional d'experts des vins d'Alsace peut proposer, sur avis du syndicat de défense de l'appellation, un plan d'encépagement pour chaque lieudit, tenant compte des usages locaux et des cépages prévus dans l'ordonnance du 2 novembre 1945 susvisée. Cette proposition de plan détermine selon les usages locaux l'utilisation des cépages seuls ou en assemblage.
 
-Cette proposition est soumise pour approbation au comité national des vins et eaux-de-vie de l'Institut national des appellations d'origine homologuée par décret.
+Cette proposition est soumise pour approbation au comité national des vins et eaux-de-vie de l'Institut national de l'origine et de la qualité puis homologuée par décret.
 
-II. - Les vins à appellation d'origine contrôlée "Alsace grand cru" suivie du nom de lieudit "Altenberg de Bergheim" proviennent :
+II. - Les vins à appellation d'origine contrôlée "Alsace grand cru" suivie du nom de lieudit "Altenberg de Bergheim"
+
+proviennent :
 
 1° D'un seul des cépages suivants : gewurztraminer Rs, pinot gris G, riesling B, ou
 
@@ -25,3 +27,21 @@ Les vins proviennent de l'assemblage de raisins pressés ensemble. Cet assemblag
 L'encépagement est compris comme celui de la totalité des parcelles de l'exploitation produisant le vin d'assemblage.
 
 III. - Les vins à appellation d'origine contrôlée "Alsace grand cru" suivie du nom de lieudit "Zotzenberg" proviennent d'un seul des cépages suivants : riesling B, gewurztraminer Rs, pinot gris G, sylvaner B.
+
+IV. - Les vins à appellation d'origine contrôlée "Alsace grand cru" suivie du nom de lieudit "Kaefferkopf" proviennent :
+
+1° D'un seul des cépages suivants : gewurztraminer Rs, pinot gris G, riesling B, ou
+
+2° Des cépages suivants :
+
+- gewurztraminer Rs, dans une proportion comprise entre 60 et 80 % de l'encépagement ;
+
+- riesling B, dans une proportion comprise entre 10 et 40 % de l'encépagement ;
+
+- pinot gris G, dans une proportion ne dépassant pas 30 % de l'encépagement ;
+
+- muscat ottonel B, muscat à petits grains blancs B, muscat à petits grains roses Rs, dans une proportion ne dépassant pas ensemble 10 % de l'encépagement.
+
+Le respect de ces conditions d'encépagement peut être réalisé par rapport à la totalité des parcelles de l'exploitation produisant l'appellation concernée ou par rapport à la totalité des parcelles conduisant à l'élaboration d'une cuvée d'assemblage de plusieurs cépages de cette appellation.
+
+Lorsqu'ils sont vinifiés séparément, les vins destinés à l'élaboration d'une cuvée d'assemblage et issus des différents cépages sont assemblés dans des récipients vinaires préalablement au prélèvement prévu à l'article D. 641-96 du code rural.

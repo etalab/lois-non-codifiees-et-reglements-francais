@@ -10,7 +10,7 @@ Dans le cadre des diverses dispositions légales et réglementaires applicables 
 
 4. De proposer aux pouvoirs publics toutes dispositions relatives à l'organisation du marché des vins et des eaux-de-vie de Cognac et à leur commercialisation, dans le respect de la réglementation communautaire.
 
-5. En liaison avec l'Institut national des appellations d'origine, de veiller à la stricte application des usages locaux, loyaux et constants, tant à la fabrication que dans le commerce de cognac.
+5. En liaison avec l'Institut national de l'origine et de la qualité, de veiller à la stricte application des usages locaux, loyaux et constants, tant à la fabrication que dans le commerce de cognac.
 
 De contrôler notamment par tous les moyens appropriés, la production, la conservation et la vente des eaux-de-vie de Cognac.
 

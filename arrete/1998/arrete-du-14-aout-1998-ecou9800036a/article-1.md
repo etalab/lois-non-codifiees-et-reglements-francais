@@ -2,7 +2,7 @@
 
 La mission de contrôle économique et financier auprès des organismes d'intervention de l'agriculture et de la pêche est chargée d'exercer le contrôle économique et financier de l'Etat organisé par le décret du 26 mai 1955 susvisé sur les organismes suivants :
 
-Institut national des appellations d'origine (INAO) ;
+Institut national de l'origine et de la qualité (INAO) ;
 
 Office national interprofessionnel des vins (ONIVINS) ;
 

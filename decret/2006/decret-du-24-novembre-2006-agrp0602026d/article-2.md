@@ -1,6 +1,6 @@
 # Article 2
 
-Toute personne physique ou morale, ci-après dénommée opérateur, intervenant dans les conditions de production de l'appellation d'origine contrôlée " Farine de châtaigne corse - Farina castagnina corsa " effectue auprès des services de l'Institut national des appellations d'origine (INAO) une déclaration d'identification.
+Toute personne physique ou morale, ci-après dénommée opérateur, intervenant dans les conditions de production de l'appellation d'origine contrôlée " Farine de châtaigne corse - Farina castagnina corsa " effectue auprès des services de l'Institut national de l'origine et de la qualité (INAO) une déclaration d'identification.
 
 La déclaration d'identification comporte notamment :
 

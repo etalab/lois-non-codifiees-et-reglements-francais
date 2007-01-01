@@ -1,6 +1,6 @@
 # Article 3
 
-L'éleveur doit adresser au centre local de l'Institut national des appellations d'origine avant le 31 janvier de chaque année la fiche éleveur prévue à l'article précédent.
+L'éleveur doit adresser au centre local de l'Institut national de l'origine et de la qualité avant le 31 janvier de chaque année la fiche éleveur prévue à l'article précédent.
 
 Chaque responsable d'une entreprise d'abattage doit :
 

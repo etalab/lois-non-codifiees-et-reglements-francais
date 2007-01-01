@@ -1,0 +1,5 @@
+# Article 1 ter
+
+Pour avoir droit à l'appellation d'origine contrôlée "Vouvray", les vins doivent être issus de vendanges récoltées dans l'aire de production délimitée par parcelle ou partie de parcelle, telle qu'elle a été approuvée par le comité national des vins et eaux-de-vie de l'Institut national des appellations d'origine en ses séances des 12 et 13 février 1992 et des 8 et 9 mars 2006, sur proposition de la commission d'experts désignée à cet effet. L'aire de production ainsi délimitée est reportée sur les plans cadastraux déposés à la mairie des communes concernées.
+
+A titre transitoire les parcelles plantées en vigne exclues de l'aire délimitée "Vouvray" identifiées par leurs références cadastrales, leur surface et leur encépagement dont la liste a été approuvée par le Comité national des vins et eaux-de-vie de l'Institut national des appellations d'origine en séance des 12 et 13 février 1992, sous réserve qu'elles répondent aux conditions fixées par le présent décret, continuent à bénéficier pour leur récolte du droit à l'appellation d'origine contrôlée "Vouvray" jusqu'à la récolte 2021 incluse.
