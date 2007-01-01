@@ -98,6 +98,7 @@
 - [Arrêté du 19 décembre 2006 (EQUP0602327A)](arrete-du-19-decembre-2006-equp0602327a)
 - [Arrêté du 19 décembre 2006 (MENF0602652A)](arrete-du-19-decembre-2006-menf0602652a)
 - [Arrêté du 19 décembre 2006 (MENS0603181A)](arrete-du-19-decembre-2006-mens0603181a)
+- [Arrêté du 19 juin 2006 (INDI0607665A)](arrete-du-19-juin-2006-indi0607665a)
 - [Arrêté du 19 juin 2006 (MAEF0610031A)](arrete-du-19-juin-2006-maef0610031a)
 - [Arrêté du 19 octobre 2006 (ECOC0600115A)](arrete-du-19-octobre-2006-ecoc0600115a)
 - [Arrêté du 20 décembre 2006 (EQUA0602189A)](arrete-du-20-decembre-2006-equa0602189a)
