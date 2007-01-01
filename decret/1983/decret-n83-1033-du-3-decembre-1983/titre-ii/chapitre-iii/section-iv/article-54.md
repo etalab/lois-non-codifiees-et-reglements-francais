@@ -1,17 +1,17 @@
 # Article 54
 
-Peuvent être détachés dans le corps des conseillers d'administration scolaire et universitaire, dans la limite de 5 % de l'effectif du corps :
+Peuvent être détachés dans le corps des conseillers d'administration scolaire et universitaire :
 
-a) Les attachés principaux d'administration centrale des ministères chargés de l'éducation nationale, de l'enseignement supérieur et de la jeunesse et des sports ;
+1° Les attachés principaux d'administration de l'éducation nationale et de l'enseignement supérieur ;
 
-b) Les personnels de direction des établissements d'enseignement ou de formation relevant du ministre de l'éducation nationale.
+2° Les personnels de direction des établissements d'enseignement ou de formation relevant du ministre de l'éducation nationale ;
 
-Le détachement des fonctionnaires visés au a du présent article est effectué à équivalence de grade.
+3° Les autres fonctionnaires civils appartenant à un corps ou à un cadre d'emplois classé dans la catégorie A ou de même niveau et détenant un grade dont l'indice terminal est au moins égal à l'indice brut 966.
 
-Le détachement des fonctionnaires visés au b du présent article appartenant à la 2e ou à la 1re classe de leur corps est effectué dans la classe normale.
+Le détachement des fonctionnaires mentionnés au 1° et au 3° est effectué dans la classe normale s'ils détiennent un échelon doté d'un indice inférieur à l'indice brut 821 et dans la hors classe s'ils détiennent un indice égal ou supérieur.
 
-Le détachement des fonctionnaires visés au b du présent article appartenant à la hors-classe de leur corps est effectué dans la hors-classe.
+Le détachement des fonctionnaires mentionnés au 2° appartenant à la 2e ou à la 1re classe est effectué dans la classe normale et le détachement de ceux appartenant à la hors classe est effectué dans la hors classe.
 
-Les fonctionnaires mentionnés aux trois alinéas qui précèdent sont classés à l'échelon comportant un indice égal ou, à défaut, immédiatement supérieur à celui qu'ils detenaient dans leur corps d'origine. Ils conservent leur ancienneté d'échelon dans les conditions et limites fixées aux deuxième et troisième alinéas de l'article 49 ci-dessus.
+Les fonctionnaires mentionnés aux deux alinéas qui précèdent sont classés à l'échelon comportant un indice égal ou, à défaut, immédiatement supérieur à celui qu'ils détenaient dans leur corps ou cadre d'emplois d'origine. Ils conservent leur ancienneté d'échelon dans les conditions et limites fixées aux deuxième et troisième alinéas de l'article 49.
 
-Lorsque l'application des dispositions du présent article aboutit à classer les fonctionnaires intéressés à un échelon doté d'un indice inférieur à celui qu'ils détenaient dans leur corps d'origine, les intéressés conservent à titre personnel le bénéfice de leur indice antérieur.
+Lorsque l'application des dispositions du présent article aboutit à classer les fonctionnaires intéressés à un échelon doté d'un indice inférieur à celui qu'ils détenaient dans leur corps ou cadre d'emplois d'origine, ils conservent à titre personnel le bénéfice de leur indice antérieur.
