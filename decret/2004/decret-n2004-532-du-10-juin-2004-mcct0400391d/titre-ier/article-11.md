@@ -8,7 +8,7 @@ Le conseil d'administration règle par ses délibérations les affaires de l'ét
 
 3° Il adopte les états prévisionnnels de recettes et de dépenses, y compris l'état des effectifs permanents et non permanents annexé, ainsi que les modifications intervenant en cours d'exercice sous réserve des dispositions du 9° de l'article 14 ;
 
-4° Il arrête le compte financier de l'exercice clos et décide de l'affectation des résultats de l'exercice ;
+4° Il arrête les comptes de l'exercice clos et décide de l'affectation des résultats de l'exercice ;
 
 5° Il décide des emprunts ;
 
@@ -26,8 +26,10 @@ Le conseil d'administration règle par ses délibérations les affaires de l'ét
 
 12° Il accepte ou refuse les dons et legs ;
 
-13° Il arrête son règlement intérieur.
+13° Il fixe les règles de gestion de la trésorerie ;
+
+14° Il arrête son règlement intérieur.
 
 Le conseil d'administration est consulté sur les conventions collectives applicables au personnel de l'établissement.
 
-Il peut déléguer au président, dans des conditions qu'il détermine, des compétences relevant des 8° et 9°.
+Il peut déléguer au président, dans des conditions qu'il détermine, des compétences relevant des 8°, 9°, 11° et 12°.

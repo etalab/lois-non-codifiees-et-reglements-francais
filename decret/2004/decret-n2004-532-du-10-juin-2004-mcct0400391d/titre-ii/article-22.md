@@ -1,5 +1,5 @@
 # Article 22
 
-Le fonctionnement financier et comptable de l'établissement est fixé par un arrêté conjoint du ministre chargé de la communication et du ministre chargé du budget.
+L'établissement public se conforme, en matière de gestion financière et comptable, aux règles en usage dans les sociétés industrielles et commerciales.
 
-Les régies de recettes et de dépenses peuvent être créées, dans les conditions prévues par le décret du 20 juillet 1992 susvisé, par le président de l'établissement.
+Le contrôle des comptes de l'établissement public est assuré par au moins un commissaire aux comptes, nommé par arrêté du ministre chargé de l'économie sur proposition du conseil d'administration. Il exerce ses fonctions conformément à la législation en vigueur pour les sociétés anonymes.

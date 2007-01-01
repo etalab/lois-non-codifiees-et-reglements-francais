@@ -14,7 +14,7 @@ Le président du conseil d'administration accomplit tous les actes qui ne sont p
 
 6° Il prépare les états prévisionnels de recettes et de dépenses ;
 
-7° Il crée des régies d'avances et de recettes dans les conditions prévues à l'article 22 ;
+7° A la fin de chaque année, il établit et présente à l'approbation du conseil d'administration le bilan et le compte de résultat de l'établissement ;
 
 8° Il procède aux acquisitions, transferts et aliénations de valeurs ;
 
