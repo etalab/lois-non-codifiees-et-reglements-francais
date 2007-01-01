@@ -1,3 +1,3 @@
 # Article 273
 
-La vente sur saisie immobilière est soumise aux dispositions du titre XII du livre V du code de procédure civile, à l'exception de l'article 692 du même code et dans la mesure où il n'y est pas dérogé par les dispositions du présent décret.
+La vente par voie d'adjudication judiciaire est soumise aux dispositions du titre Ier du décret n° 2006-936 du 27 juillet 2006 relatif aux procédures de saisie immobilière et de distribution du prix d'un immeuble et dans la mesure où il n'y est pas dérogé par les dispositions du présent décret.

@@ -1,6 +1,6 @@
 # Article 290
 
-A défaut d'accord, l'agent chargé de la vente dresse acte des points de désaccord ; il joint les pièces nécessaires à la solution du litige et saisit immédiatement le juge de l'exécution du lieu de la vente en lui transmettant le dossier.
+A défaut d'accord, l'agent chargé de la vente établit un procès-verbal exposant les difficultés rencontrées ; il joint les pièces nécessaires à la solution du litige et saisit immédiatement le juge de l'exécution du lieu de la vente en lui transmettant le dossier.
 
 Les sommes mises en répartition sont immédiatement consignées.
 

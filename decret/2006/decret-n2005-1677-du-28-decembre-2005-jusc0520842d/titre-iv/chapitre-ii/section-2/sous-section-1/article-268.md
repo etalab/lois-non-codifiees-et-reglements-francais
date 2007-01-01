@@ -1,6 +1,6 @@
 # Article 268
 
-Le juge-commissaire qui ordonne ou autorise, en application de l'article L. 642-18 du code de commerce, la vente des immeubles par voie de saisie immobilière ou d'adjudication amiable détermine :
+Le juge-commissaire qui ordonne, en application de l'article L. 642-18 du code de commerce, la vente des immeubles par voie d'adjudication judiciaire ou amiable détermine :
 
 1° La mise à prix de chacun des biens à vendre et les conditions essentielles de la vente ;
 
