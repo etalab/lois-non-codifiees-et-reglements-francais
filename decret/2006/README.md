@@ -384,6 +384,7 @@
 - [Décret n°2006-1316 du 26 octobre 2006 (EQUP0601924D)](decret-n2006-1316-du-26-octobre-2006-equp0601924d)
 - [Décret n°2006-491 du 26 avril 2006 (MENF0600505D)](decret-n2006-491-du-26-avril-2006-menf0600505d)
 - [Décret n°82-750 du 26 août 1982](decret-n82-750-du-26-aout-1982)
+- [Décret n°2005-54 du 27 janvier 2005 (ECOX0400259D)](decret-n2005-54-du-27-janvier-2005-ecox0400259d)
 - [Décret n°2006-1317 du 27 octobre 2006 (EQUU0600181D)](decret-n2006-1317-du-27-octobre-2006-equu0600181d)
 - [Décret n°2006-1318 du 27 octobre 2006 (AGRG0602054D)](decret-n2006-1318-du-27-octobre-2006-agrg0602054d)
 - [Décret n°2006-1457 du 27 novembre 2006 (JUSA0600245D)](decret-n2006-1457-du-27-novembre-2006-jusa0600245d)

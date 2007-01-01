@@ -4,4 +4,4 @@ Les opérations financières et comptables de la caisse sont effectuées dans le
 
 Toutefois, la comptabilité de la caisse est tenue selon les règles applicables aux entreprises relevant du Comité de réglementation bancaire et financière.
 
-L'agent comptable de la caisse est l'agent comptable central du Trésor.
+L'agent comptable de la caisse est le contrôleur budgétaire et comptable ministériel auprès du ministre de l'économie, des finances et de l'industrie.

@@ -1,6 +1,6 @@
 # Article 7
 
-Les crédits inscrits au budget du Premier ministre (section Conseil économique et social) donnent lieu à retraits de fonds périodiques au moyen d'ordonnances émises, sur délégation du Premier ministre, par le président du Conseil économique et social et assignées sur la caisse du payeur général du Trésor. Le président en tient informé le bureau. Il peut déléguer tout ou partie de ses attributions à un ou plusieurs membres du bureau ou au secrétaire général.
+Les crédits inscrits au budget du Premier ministre (section Conseil économique et social) donnent lieu à retraits de fonds périodiques au moyen d'ordonnances émises, sur délégation du Premier ministre, par le président du Conseil économique et social et assignées sur le contrôleur budgétaire et comptable ministériel auprès des services du Premier ministre. Le président en tient informé le bureau. Il peut déléguer tout ou partie de ses attributions à un ou plusieurs membres du bureau ou au secrétaire général.
 
 La comptabilité du Conseil économique et social comprend :
 

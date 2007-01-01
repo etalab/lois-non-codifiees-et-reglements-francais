@@ -1,15 +1,5 @@
 # Article 141
 
-Les comptes de l'Etat sont dressés chaque année par le ministre des finances.
+Le compte général de l'Etat est dressé chaque année par le ministre chargé du budget.
 
-Le compte général de l'administration des finances comprend :
-
-La balance générale des comptes telle qu'elle résulte de la synthèse des comptes des comptables publics ;
-
-Le développement des recettes budgétaires ;
-
-Le développement des dépenses budgétaires faisant apparaître pour chaque département ministériel le montant des dépenses par chapitre certifié par le ministre intéressé ;
-
-Le développement des opérations constatées aux comptes spéciaux du Trésor ;
-
-Le développement des comptes de résultats.
+Il dispose à cette fin des services d'un comptable chargé, d'une part, de centraliser les opérations du budget général, des comptes spéciaux et des budgets annexes réalisées par les comptables principaux sous leur responsabilité exclusive, d'autre part, d'enregistrer les écritures permettant au ministre de dresser le compte général de l'Etat.
