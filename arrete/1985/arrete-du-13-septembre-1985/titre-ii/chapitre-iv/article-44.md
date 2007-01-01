@@ -2,7 +2,7 @@
 
 Calcul des rapports.
 
-Pour chaque type de pari, "Couplé gagnant" ou "Couplé placé", le montant des paris remboursés et des prélèvements légaux est défalqué du total des enjeux.
+Pour chaque type de pari "Couplé Gagnant" ou "Couplé Placé", le montant des paris remboursés, des prélèvements sociaux et de la déduction proportionnelle sur enjeux est défalqué du total des enjeux.
 
 Après déduction du montant des paiements effectués sur les paris traités en paris "Simple gagnant" ou "Placé", en application des dispositions de l'article 43 et de l'article 44, paragraphe 3 ci-dessous, on obtient la masse à partager.
 

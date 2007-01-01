@@ -1,6 +1,6 @@
 # Article 80
 
-Calcul des rapports. - Le montant des paris remboursés et des prélèvements légaux est défalqué du total des enjeux.
+Calcul des rapports. - Le montant des paris remboursés, des prélèvements sociaux et de la déduction proportionnelle sur enjeux est défalqué du total des enjeux.
 
 Après déduction du montant des paiements effectués sur les paris traités selon les règles énoncées aux paragraphes b, c ou d de l'article 79 ci-dessus et à l'article 82, on obtient la masse à partager. Le calcul des rapports bruts s'effectue comme suit :
 

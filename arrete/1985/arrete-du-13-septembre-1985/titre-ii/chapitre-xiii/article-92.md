@@ -2,7 +2,7 @@
 
 Calcul des rapports :
 
-1. Les enjeux totalisés, après défalcation du montant des paris remboursés et des prélèvements légaux, déterminent la masse à partager.
+1. Le montant des paris remboursés, des prélèvements sociaux et de la déduction proportionnelle sur enjeux est défalqué du montant des enjeux, on obtient ainsi la masse à partager.
 
 Le calcul des rapports bruts s'effectue comme suit :
 

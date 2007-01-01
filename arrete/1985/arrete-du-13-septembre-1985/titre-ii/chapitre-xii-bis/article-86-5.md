@@ -1,8 +1,8 @@
 # Article 86-5
 
-Calcul des rapports. - Le montant des paris remboursés et des prélèvements légaux est défalqué du montant total des enjeux, on obtient ainsi la masse à partager "quarté plus ".
+Calcul des rapports. - Le montant des paris remboursés, des prélèvements sociaux et de la déduction proportionnelle sur enjeux est défalqué du montant des enjeux, on obtient ainsi la masse à partager.
 
-60 p. 100 de cette masse à partager appelée masse à partager "quarté" sont affectés au calcul des rapports "quarté" ; 40 p. 100 de cette masse appelée masse à partager "bonus" est affectée au calcul des rapports " bonus ".
+60 % de cette masse à partager appelée masse à partager "quarté" sont affectés au calcul des rapports "quarté" ; 40 % de cette masse appelée masse à partager "bonus" est affectée au calcul des rapports " bonus ".
 
 Le calcul des rapports bruts s'effectue comme suit :
 
@@ -28,7 +28,7 @@ Chacune de ces parties est ensuite répartie au prorata du nombre de mises sur l
 
 3. - Rapport minimum dans l'ordre inexact.
 
-a) Si l'application des règles énoncées aux paragraphes 1 et 2 ci-dessus, conduit à un rapport dans l'ordre inexact inférieur à 1,10 F, il est fait application de l'article 18. Si le rapport obtenu est inférieur à 1,10 F, la masse à partager affectée au calcul du rapport "quarté" dans l'ordre exact est obtenue en défalquant de la masse à partager "quarté" le montant des paiements à 1,10 F des mises dans l'ordre inexact. Si, à l'issue de ces opérations, le rapport dans l'ordre exact est inférieur à 1,10 F, les dispositions de l'article 19 sont applicables.
+a) Si l'application des règles énoncées aux paragraphes 1 et 2 ci-dessus, conduit à un rapport dans l'ordre inexact inférieur à 1,10 euro, il est fait application de l'article 18. Si le rapport obtenu est inférieur à 1,10 euro, la masse à partager affectée au calcul du rapport "quarté" dans l'ordre exact est obtenue en défalquant de la masse à partager "quarté" le montant des paiements à 1,10 euro des mises dans l'ordre inexact. Si, à l'issue de ces opérations, le rapport dans l'ordre exact est inférieur à 1,10 euro, les dispositions de l'article 19 sont applicables.
 
 b) Dans le cas visé au paragraphe a ci-dessus, les dispositions des articles 86-6 et 86-7 ci-dessous ne sont pas applicables.
 
@@ -44,6 +44,6 @@ Dans le cas de plusieurs combinaisons payables, le total des mises sur ces diver
 
 3. - Rapport minimum bonus.
 
-a) Si l'application des règles énoncées aux paragraphes 1 et 2 ci-dessus conduit à un rapport bonus inférieur à 1,10 F, il est fait application de l'article 18. Si le rapport obtenu est inférieur à 1,10 F, la masse à partager affectée au calcul des rapports "quarté" est obtenue en défalquant de la masse à partager totale le montant des paiements à 1,10 F des mises bonus. Si, à l'issue de ces opérations, le rapport "quarté" dans l'ordre exact ou le rapport "quarté" dans l'ordre inexact est inférieur à 1,10 F, les dispositions de l'article 19 sont applicables.
+a) Si l'application des règles énoncées aux paragraphes 1 et 2 ci-dessus conduit à un rapport bonus inférieur à 1,10 euro, il est fait application de l'article 18. Si le rapport obtenu est inférieur à 1,10 euro, la masse à partager affectée au calcul des rapports "quarté" est obtenue en défalquant de la masse à partager totale le montant des paiements à 1,10 euro des mises bonus. Si, à l'issue de ces opérations, le rapport "quarté" dans l'ordre exact ou le rapport "quarté" dans l'ordre inexact est inférieur à 1,10 euro, les dispositions de l'article 19 sont applicables.
 
 b) Dans le cas visé au paragraphe a ci-dessus les dispositions de l'article 86-7 ci-dessous ne sont pas applicables.
