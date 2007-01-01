@@ -494,7 +494,6 @@
 - [Arrêté du 27 avril 2001 (ECOD0170010A)](arrete-du-27-avril-2001-ecod0170010a)
 - [Arrêté du 27 avril 2001 (EQUS0100560A)](arrete-du-27-avril-2001-equs0100560a)
 - [Arrêté du 27 avril 2001 (MESS0121648A)](arrete-du-27-avril-2001-mess0121648a)
-- [Arrêté du 27 décembre 2000 (AGRP0002394A)](arrete-du-27-decembre-2000-agrp0002394a)
 - [Arrêté du 27 décembre 2000 (ECOC0000126A)](arrete-du-27-decembre-2000-ecoc0000126a)
 - [Arrêté du 27 décembre 2000 (ECOC0000127A)](arrete-du-27-decembre-2000-ecoc0000127a)
 - [Arrêté du 27 décembre 2001 (DEFP0102331A)](arrete-du-27-decembre-2001-defp0102331a)

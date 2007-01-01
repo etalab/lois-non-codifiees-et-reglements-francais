@@ -3,5 +3,4 @@
 - [TITRE Ier : Dispositions générales.](titre-ier)
 - [TITRE II : Recrutement.](titre-ii)
 - [TITRE III : Avancement.](titre-iii)
-- [TITRE IV : Dispositions particulières à certains emplois.](titre-iv)
 - [TITRE V : Dispositions finales et transitoires.](titre-v)

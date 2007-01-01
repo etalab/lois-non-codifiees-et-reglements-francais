@@ -912,7 +912,6 @@
 - [Décret n°95-231 du 28 février 1995 (AGRA9500117D)](decret-n95-231-du-28-fevrier-1995-agra9500117d)
 - [Décret n°95-232 du 28 février 1995 (AGRA9500113D)](decret-n95-232-du-28-fevrier-1995-agra9500113d)
 - [Décret n°93-828 du 28 mai 1993 (MEND9305030D)](decret-n93-828-du-28-mai-1993-mend9305030d)
-- [Décret n°84-238 du 29 mars 1984](decret-n84-238-du-29-mars-1984)
 - [Décret n°92-1369 du 29 décembre 1992 (BUDR9204122D)](decret-n92-1369-du-29-decembre-1992-budr9204122d)
 - [Décret n°92-1370 du 29 décembre 1992 (BUDR9204121D)](decret-n92-1370-du-29-decembre-1992-budr9204121d)
 - [Décret n°92-1372 du 29 décembre 1992 (SPSS9203226D)](decret-n92-1372-du-29-decembre-1992-spss9203226d)

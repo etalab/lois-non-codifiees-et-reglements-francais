@@ -1,3 +1,0 @@
-# Article 1
-
-L'autorisation d'emploi pour l'insémination artificielle de certains taureaux de race à viande a pour objet de mettre à disposition des éleveurs des semences de taureaux qualifiés par l'Unité nationale de sélection et de promotion de la race (U.P.R.A.).    Cette autorisation est délivrée par le ministre chargé de l'agriculture pour des taureaux qui satisfont à l'ensemble des dispositions sanitaires exigées pour l'accès à la monte publique artificielle, et notamment celles prévues par l'arrêté du 1er août 1990 susvisé fixant les conditions exigées pour l'agrément sanitaire des centres.

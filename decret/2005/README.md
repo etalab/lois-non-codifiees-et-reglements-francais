@@ -12,7 +12,6 @@
 - [Décret du 3 février 1993 (PTTR9200690D)](decret-du-3-fevrier-1993-pttr9200690d)
 - [Décret n°2005-1122 du 6 septembre 2005 (INTD0500243D)](decret-n2005-1122-du-6-septembre-2005-intd0500243d)
 - [Décret n°2005-1123 du 6 septembre 2005 (INTD0500244D)](decret-n2005-1123-du-6-septembre-2005-intd0500244d)
-- [Décret n°88-552 du 6 mai 1988 (MCLB8800152D)](decret-n88-552-du-6-mai-1988-mclb8800152d)
 - [Décret n°2005-447 du 6 mai 2005 (JUSK0540010D)](decret-n2005-447-du-6-mai-2005-jusk0540010d)
 - [Décret n°2005-326 du 7 avril 2005 (SOCX0500072D)](decret-n2005-326-du-7-avril-2005-socx0500072d)
 - [Décret n°2005-333 du 7 avril 2005 (ECOS0450017D)](decret-n2005-333-du-7-avril-2005-ecos0450017d)

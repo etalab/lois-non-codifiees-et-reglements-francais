@@ -741,7 +741,6 @@
 - [Arrêté du 23 novembre 2004 (INTA0400862A)](arrete-du-23-novembre-2004-inta0400862a)
 - [Arrêté du 23 mai 2003 (EQUT0300808A)](arrete-du-23-mai-2003-equt0300808a)
 - [Arrêté du 23 mai 2005 (PRMX0508441A)](arrete-du-23-mai-2005-prmx0508441a)
-- [Arrêté du 24 août 2004 (AGRG0401956A)](arrete-du-24-aout-2004-agrg0401956a)
 - [Arrêté du 24 août 2004 (EQUP0400841A)](arrete-du-24-aout-2004-equp0400841a)
 - [Arrêté du 24 août 2004 (MENA0401645A)](arrete-du-24-aout-2004-mena0401645a)
 - [Arrêté du 24 août 2004 (MJSK0470184A)](arrete-du-24-aout-2004-mjsk0470184a)

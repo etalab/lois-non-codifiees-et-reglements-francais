@@ -1,5 +1,0 @@
-# Article 2
-
-Le bénéfice du supplément d'indemnité spéciale de qualification est étendu aux ingénieurs divisionnaires du contrôle de la navigation aérienne et aux ingénieurs principaux du contrôle de la navigation aérienne nommés dans ce grade depuis au moins six ans qui, après avoir obtenu et exercé une qualification de contrôle, sont chargés, dans les organismes de la circulation aérienne, les services à compétence nationale, certains autres services de la direction générale de l'aviation civile et les établissements publics relevant du ministre chargé de l'aviation civile déterminés par arrêté conjoint du ministre chargé de l'aviation civile, du ministre chargé de la fonction publique et du ministre chargé du budget, de fonctions répertoriées dans une liste établie par arrêté du ministre chargé de l'aviation civile.
-
-Cette indemnité est également allouée, selon les modalités définies par l'arrêté prévu à l'article 1er du présent décret, aux personnels qui justifient de 16 ans d'exercice de fonctions prévues aux articles 1er et 2 du présent décret.
