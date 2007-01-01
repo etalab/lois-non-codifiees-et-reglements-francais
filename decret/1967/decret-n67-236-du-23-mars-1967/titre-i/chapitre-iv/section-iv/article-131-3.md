@@ -6,8 +6,8 @@ Les formulaires de vote par correspondance reçus par la société doivent compo
 
 1° Les nom, prénom usuel et domicile de l'actionnaire ;
 
-2° Une mention constatant le respect de l'une des formalités prévues au premier alinéa de l'article 136, cette mention pouvant figurer sur un document annexé au formulaire ;
+2° L'indication de la forme, nominative ou au porteur, sous laquelle sont détenus les titres et du nombre de ces derniers, ainsi qu'une mention constatant l'inscription des titres soit dans les comptes de titres nominatifs tenus par la société, soit dans les comptes de titres au porteur tenus par l'intermédiaire financier habilité. L'attestation de participation prévue à l'article 136 est annexée au formulaire ;
 
-3° La signature, le cas échéant électronique de l'actionnaire ou de son représentant légal ou judiciaire.
+3° La signature, le cas échéant électronique de l'actionnaire ou de son représentant légal ou judiciaire. La signature électronique prend la forme soit d'une signature électronique sécurisée au sens du décret n° 2001-272 du 30 mars 2001 pris pour l'application de l'article 1316-4 du code civil et relatif à la signature électronique, soit, si les statuts le prévoient, d'un autre procédé répondant aux conditions définies à la première phrase du second alinéa de l'article 1316-4 du code civil. (1)
 
 Le formulaire de vote par correspondance adressé à la société par une assemblée vaut pour les assemblées successives convoquées avec le même ordre du jour.
