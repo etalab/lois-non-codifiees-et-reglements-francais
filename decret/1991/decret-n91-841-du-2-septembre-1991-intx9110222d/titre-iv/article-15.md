@@ -1,10 +1,6 @@
 # Article 15
 
-I. - Les fonctionnaires appartenant à un cadre d'emplois ou corps classé dans la catégorie A sont nommés dans la deuxième classe du grade de conservateur de bibliothèques à l'échelon comportant un indice égal ou, à défaut, immédiatement supérieur à celui qu'ils détenaient dans leur grade d'origine.
-
-Dans la limite de l'ancienneté maximale nécessaire à un avancement à l'échelon supérieur, ils conservent l'ancienneté d'échelon acquise dans leur précédent grade lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle qui résulterait d'un avancement d'échelon dans leur ancien grade.
-
-Les candidats nommés alors qu'ils ont atteint l'échelon le plus élevé de leur précédent grade conservent leur ancienneté d'échelon dans les mêmes conditions et limites lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle résultant de l'élévation audit échelon.
+I. Paragraphe abrogé
 
 II. - Les fonctionnaires appartenant à un cadre d'emplois ou corps classé dans la catégorie B sont nommés dans la deuxième classe du grade de conservateur de bibliothèques à un échelon déterminé en prenant en compte, sur la base des durées maximales pour chaque avancement d'échelon, leur ancienneté dans cette catégorie dans les conditions définies aux alinéas suivants.
 
