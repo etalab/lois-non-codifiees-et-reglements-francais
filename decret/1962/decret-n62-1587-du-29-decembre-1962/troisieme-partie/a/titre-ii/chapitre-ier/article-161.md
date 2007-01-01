@@ -1,6 +1,6 @@
 # Article 161
 
-Sous réserve de l'application des dispositions du code du domaine de l'Etat, les recettes de l'établissement sont liquidées par l'ordonnateur sur les bases fixées par la loi, les règlements, les décisions de justice et les conventions.
+Sous réserve de l'application des dispositions du code général de la propriété des personnes publiques et du code du domaine de l'Etat, les recettes de l'établissement sont liquidées par l'ordonnateur sur les bases fixées par la loi, les règlements, les décisions de justice et les conventions.
 
 Les conventions sont passées par l'ordonnateur. L'autorisation préalable du conseil d'administration est nécessaire en cas d'aliénation de biens immobiliers, d'acceptation de dons et legs faits sans charges, conditions ou affectations immobilières, d'émission d'emprunts.
 
