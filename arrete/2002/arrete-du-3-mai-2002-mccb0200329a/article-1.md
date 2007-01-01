@@ -15,9 +15,7 @@ Le montant de l'indemnité pour travail dominical régulier prévue par le décr
 <br/>
 <p align="center">(en euros)</p>
 </td>
-<td>
-<br/>
-</td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -26,9 +24,7 @@ Le montant de l'indemnité pour travail dominical régulier prévue par le décr
 <td>
 <p align="center">914,88</p>
 </td>
-<td>
-<br/>
-</td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -37,9 +33,7 @@ Le montant de l'indemnité pour travail dominical régulier prévue par le décr
 <td>
 <p align="center">962,44</p>
 </td>
-<td>
-<br/>
-</td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -48,9 +42,7 @@ Le montant de l'indemnité pour travail dominical régulier prévue par le décr
 <td>
 <p align="center">986,59</p>
 </td>
-<td>
-<br/>
-</td>
+<td/>
 </tr>
 <tr>
 <td rowspan="2">
@@ -67,4 +59,4 @@ Le montant de l'indemnité pour travail dominical régulier prévue par le décr
 </tbody>
 </table>
 
-L'indemnité pour travail dominical régulier est versée trimestriellement.
+L'indemnité pour travail dominical régulier est versée mensuellement.
