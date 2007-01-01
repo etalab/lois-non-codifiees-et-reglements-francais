@@ -1,6 +1,6 @@
 # Article 10
 
-Les stagiaires sont rémunérés par la collectivité ou l'établissement qui a procédé au recrutement. Ils sont placés à l'échelon du grade de conseiller socio-éducatif comportant un traitement égal ou, à défaut, immédiatement supérieur à celui dont ils bénéficiaient dans leur grade d'origine.
+Les stagiaires nommés dans ce cadre d'emplois sont classés, lors de leur nomination, à l'échelon du grade de conseiller socio-éducatif comportant un traitement égal ou, à défaut, immédiatement supérieur à celui dont ils bénéficiaient dans leur grade d'origine.
 
 Lorsque leur nomination ne leur procure pas une augmentation de traitement égale ou supérieure à celle qu'ils auraient obtenue par un avancement d'échelon dans leur précédente situation, ils conservent l'ancienneté d'échelon acquise dans leur précédent grade dans la limite nécessaire à un avancement d'échelon. Pour l'application de ces dispositions aux fonctionnaires parvenus à l'échelon maximum de leur grade, le bénéfice retiré de la nomination en qualité de conseiller socio-éducatif doit être comparé à l'augmentation de traitement obtenue lors du dernier avancement d'échelon dans le grade d'origine.
 
