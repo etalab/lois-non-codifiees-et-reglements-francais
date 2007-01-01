@@ -1,5 +1,11 @@
 # Article 6-3
 
-Les dispositions des articles 6-1 et 6-2 ne sont ni cumulables entre elles ni cumulables avec les dispositions des articles 5 et 6.
+Les agents recrutés par la voie du troisième concours en application de l'article 36 de la loi du 26 janvier 1984 susvisé et qui ne peuvent prétendre à l'application des dispositions de l'article 6-2, bénéficient lors de leur nomination d'une bonification d'ancienneté, qui est prise en compte sur la base de la durée maximale exigée pour chaque avancement d'échelon.
 
-Les fonctionnaires qui, compte tenu de leur parcours professionnel antérieur, relèvent de plusieurs des dispositions citées ci-dessus peuvent opter, lors de leur nomination ou au plus tard dans un délai de deux ans suivant celle-ci, pour l'application de celle qui leur est la plus favorable.
+Cette bonification d'ancienneté est :
+
+- de 2 ans, lorsque les intéressés justifient d'une durée des activités mentionnées à l'article 36 de la loi du 26 janvier 1984 précitée inférieure à 9 ans ;
+
+- de 3 ans, lorsqu'elle est égale ou supérieure à 9 ans.
+
+Les périodes au cours desquelles une ou plusieurs des activités mentionnées dans ces dispositions ont été exercées simultanément ne sont prises en compte qu'à un seul titre.
