@@ -682,7 +682,6 @@
 - [Arrêté du 27 octobre 2005 (AGRG0502403A)](arrete-du-27-octobre-2005-agrg0502403a)
 - [Arrêté du 27 octobre 2005 (MENS0502328A)](arrete-du-27-octobre-2005-mens0502328a)
 - [Arrêté du 27 septembre 2005 (DEFP0501368A)](arrete-du-27-septembre-2005-defp0501368a)
-- [Arrêté du 27 septembre 2005 (ECOC0500138A)](arrete-du-27-septembre-2005-ecoc0500138a)
 - [Arrêté du 27 septembre 2005 (JUSB0510574A)](arrete-du-27-septembre-2005-jusb0510574a)
 - [Arrêté du 27 mai 2005 (BUDF0500017A)](arrete-du-27-mai-2005-budf0500017a)
 - [Arrêté du 27 mai 2005 (DEFP0500537A)](arrete-du-27-mai-2005-defp0500537a)
