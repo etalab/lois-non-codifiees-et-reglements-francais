@@ -36,26 +36,18 @@ A défaut de mise sur ces combinaisons, tous les paris "Quinté plus" sont rembo
 
 c) Lorsqu'une course comporte moins de trois chevaux classés à l'arrivée, tous les paris "Quinté plus" sont remboursés.
 
-4. "Tirelire et "Tirelire spéciale" :
+4. "Tirelire"
 
-"Tirelire" :
+a) Le "Fonds Tirelire" résultant de l'application des dispositions de l'article 95.5, deuxième alinéa, et de la reprise de la Tirelire Spéciale à la date du présent arrêté est mis en réserve pour constituer une Tirelire.
 
-a) Le montant de la "Tirelire", constituée en application des dispositions de l'article 95.5, deuxième alinéa, abondée le cas échéant de dotations spécifiques du Pari mutuel urbain ou d'annonceurs, est mis en réserve et redistribué au-delà du seuil minimum de dix mille euros net selon les modalités définies au paragraphe b ci-dessous, lors du premier "Quinté plus" suivant celui sur lequel la "Tirelire" a été constituée.
+Cette Tirelire constituée par amputation du "Fonds de Tirelire par multiple entier de 1 000 EUR net à l'issue des opérations de répartition de chaque "Quinté Plus" est redistribuée selon les modalités définies au paragraphe b ci-dessous, lors du premier "Quinté Plus suivant celui sur lequel la Tirelire a été constituée.
 
-b) Le montant de la "Tirelire", redistribué par multiple entier de 1 EUR et qui ne saurait être supérieur à cinq millions d'euros net, est divisé en autant de parties égales qu'il y a de mises payables dans l'ordre exact d'arrivée comportant le "N° plus gagnant déterminé selon les modalités définies à l'article 95.1.2 I ci-dessus.
+Elle peut être également abondée, le cas échéant, de dotations spécifiques du Pari mutuel urbain ou d'annonceurs.
 
-Le quotient ainsi obtenu constitue le "rapport brut Tirelire" pour chacune des mises payables dans l'ordre exact d'arrivée comportant le "N° plus gagnant".
+b) Le montant de la "Tirelire" redistribué, qui ne saurait être supérieur à dix millions d'euros net, est divisé en autant de parties égales qu'il y a de mises payables dans l'ordre exact d'arrivée comportant le "N° Plus Gagnant"déterminé selon les modalités définies à l'article 95.1.2-I ci-dessus.
 
-Dans le cas où aucune des combinaisons donnant lieu au rapport exact d'arrivée ne comporterait le "N° plus gagnant, ou dans le cas où il n'est pas organisé de "Quinté plus" lors de la journée sur laquelle la "Tirelire" aurait été normalement redistribuée, le montant de la "Tirelire constituée sur l'épreuve considérée est ajouté au montant de la "Tirelire constituée en application des dispositions de l'article 95.5 (a) du premier "Quinté plus suivant celui sur lequel la "Tirelire aurait été normalement redistribuée.
+Le quotient ainsi obtenu constitue le "rapport brut Tirelire pour chacune des mises payables dans l'ordre exact d'arrivée comportant le "N° Plus Gagnant".
 
-Le montant de la "Tirelire", ainsi que la journée sur laquelle il sera redistribué, est porté à la connaissance des parieurs au plus tard lors du début des opérations d'enregistrement du pari "Quinté plus" de la journée considérée.
+Dans le cas où aucune des combinaisons donnant lieu au rapport exact d'arrivée ne comporterait le "N° Plus Gagnant, ou dans le cas où il n'est pas organisé de "Quinté Plus" lors de la journée sur laquelle la "Tirelire" aurait été normalement redistribuée, le montant de la "Tirelire" constituée sur l'épreuve considérée est ajouté au montant de la "Tirelire constituée en application des dispositions de l'article 95.5 a du premier "Quinté Plus" suivant celui sur lequel la "Tirelire aurait été normalement redistribuée.
 
-"Tirelire spéciale" :
-
-a) Le montant de la "Tirelire spéciale", constituée en application des dispositions de l'article 95.5, troisième alinéa, et de la reprise de la tirelire à la date du présent arrêté, abondée le cas échéant de dotations spécifiques du Pari mutuel urbain ou d'annonceurs, est mis en réserve et redistribué, selon les modalités définies au paragraphe b ci-dessous, lors du premier "Quinté plus spécial" suivant le jour où la "Tirelire spéciale a été constituée. Le montant de la "Tirelire spéciale", ainsi que la journée sur laquelle il sera redistribué, est porté à la connaissance des parieurs huit jours au plus tard avant la journée considérée.
-
-b) Le montant de la "Tirelire spéciale", redistribué par multiple entier de 1 EUR et qui ne saurait être supérieur à dix millions d'euros net, est divisé en autant de parties égales qu'il y a de mises payables dans l'ordre exact d'arrivée comportant le "N° plus gagnant déterminé selon les modalités définies à l'article 95.1.2 II ci-dessus.
-
-Le quotient ainsi obtenu constitue le "rapport brut Tirelire spéciale" pour chacune des mises payables "Quinté plus" dans l'ordre exact d'arrivée comportant le "N° plus gagnant".
-
-S'il n'y a aucune mise sur aucune des combinaisons "Quinté plus" dans l'ordre exact d'arrivée, ou dans le cas où il n'est pas organisé de pari "Quinté plus spécial, lors de la journée sur laquelle la "Tirelire spéciale aurait normalement été redistribuée, en application des dispositions qui précèdent, le montant de la Tirelire spéciale est ajouté à celui redistribué lors du premier "Quinté plus" spécial suivant celui sur lequel la "Tirelire spéciale" aurait été normalement redistribuée.
+Le montant de la "Tirelire" ainsi que la journée sur laquelle il sera redistribué est porté à la connaissance des parieurs au plus tard lors du début des opérations d'enregistrement du pari "Quinté Plus" de la journée considérée.
