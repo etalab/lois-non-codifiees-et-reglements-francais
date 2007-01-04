@@ -843,7 +843,6 @@
 - [Arrêté du 24 juin 1992 (SANP9201495A)](arrete-du-24-juin-1992-sanp9201495a)
 - [Arrêté du 24 novembre 1992 (ENVN9250292A)](arrete-du-24-novembre-1992-envn9250292a)
 - [Arrêté du 24 novembre 1992 (EQUT9201583A)](arrete-du-24-novembre-1992-equt9201583a)
-- [Arrêté du 24 septembre 1992 (AGRE9201865A)](arrete-du-24-septembre-1992-agre9201865a)
 - [Arrêté du 24 septembre 1992 (AGRS9201820A)](arrete-du-24-septembre-1992-agrs9201820a)
 - [Arrêté du 24 septembre 1992 (MENB9200047A)](arrete-du-24-septembre-1992-menb9200047a)
 - [Arrêté du 25 août 1992 (BUDL9200145A)](arrete-du-25-aout-1992-budl9200145a)
