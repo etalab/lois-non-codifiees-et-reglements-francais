@@ -1,5 +1,7 @@
 # Article 1
 
-Les dispositions du présent décret sont applicables aux entreprises de transport par voie de navigation intérieure et dans leurs dépendances. Ils s'appliquent également, pour leur personnel navigant, aux entreprises de toutes natures exerçant une activité de batellerie fluviale à titre principal ou accessoire.
+Les dispositions du présent décret sont applicables aux entreprises de transport de marchandises ou de passagers par voie de navigation intérieure et dans leurs dépendances, à l'exception des entreprises de location de bateaux de plaisance.
 
-Par dépendances *définition*, on entend, au sens du présent décret, les ateliers, chantiers, bureaux, sièges sociaux et autres établissements travaillant exclusivement pour le fonctionnement ou l'entretien des entreprises en cause.
+Par dépendances, on entend, au sens du présent décret, les ateliers, les chantiers, bureaux et autres locaux, sièges et autres établissements travaillant exclusivement pour le fonctionnement des entreprises mentionnées à l'alinéa précédent.
+
+Les dispositions du présent décret s'appliquent également, pour leur personnel navigant, aux entreprises de toutes natures exerçant, à titre accessoire, une activité de transport de marchandises ou de passagers par voie de navigation intérieure.
