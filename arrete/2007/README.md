@@ -24,6 +24,7 @@
 - [Arrêté du 10 décembre 2007 (DEFH0772563A)](arrete-du-10-decembre-2007-defh0772563a)
 - [Arrêté du 10 novembre 2006 (JUSK0640208A)](arrete-du-10-novembre-2006-jusk0640208a)
 - [Arrêté du 11 avril 1989 (AGRP8900681A)](arrete-du-11-avril-1989-agrp8900681a)
+- [Arrêté du 11 décembre 2006 (SANH0625215A)](arrete-du-11-decembre-2006-sanh0625215a)
 - [Arrêté du 13 décembre 2006 (DEFP0601688A)](arrete-du-13-decembre-2006-defp0601688a)
 - [Arrêté du 13 juillet 2006 (SOCT0611483A)](arrete-du-13-juillet-2006-soct0611483a)
 - [Arrêté du 13 novembre 2007 (MEND0761862A)](arrete-du-13-novembre-2007-mend0761862a)
