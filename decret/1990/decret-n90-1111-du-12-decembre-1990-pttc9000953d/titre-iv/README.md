@@ -1,7 +1,5 @@
 # TITRE IV : Autres dispositions
 
-- [Article 18](article-18.md)
-- [Article 19](article-19.md)
 - [Article 30](article-30.md)
 - [Article 33](article-33.md)
 - [Informations générales relatives à la gestion du personnel](informations-generales-relatives-a)
