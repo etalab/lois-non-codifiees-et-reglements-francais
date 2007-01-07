@@ -3,4 +3,4 @@
 - [TITRE Ier : Dispositions relatives au conseil d'administration.](titre-ier)
 - [TITRE II : Dispositions relatives au président du conseil d'administration.](titre-ii)
 - [TITRE III : Dispositions relatives au commissaire du Gouvernement.](titre-iii)
-- [TITRE IV : Dispositions transitoires.](titre-iv)
+- [TITRE IV : Autres dispositions](titre-iv)
