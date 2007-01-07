@@ -1,6 +1,6 @@
 # Article 11
 
-L'agent contractuel a droit à l'indemnité forfaitaire prévue à l'article 25 ou à l'article 26 du décret du 28 mai 1990 susvisé et à la prise en charge des frais mentionnés au 1° de l'article 24 du décret du 28 mai 1990 susvisé, lorsque le changement de résidence est rendu nécessaire :
+L'agent contractuel a droit à l'indemnité forfaitaire prévue à l'article 25 ou à l'article 26 du décret du 28 mai 1990 susvisé majorée de 20 % et à la prise en charge des frais mentionnés au 1° de l'article 24 du décret du 28 mai 1990 susvisé, lorsque le changement de résidence est rendu nécessaire :
 
 1° Par un changement d'affectation intervenant dans les conditions prévues aux 1° et 2° de l'article 9 du présent décret pour certaines mutations ou affectations des fonctionnaires ;
 

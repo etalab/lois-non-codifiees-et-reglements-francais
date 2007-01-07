@@ -8,7 +8,11 @@ Lorsqu'il est fait mention de la résidence de l'agent, cette résidence est sa 
 
 2° Résidence familiale : le territoire de la commune sur lequel se situe le domicile de l'agent ;
 
-3° Constituant une seule et même commune : la ville de Paris et les communes suburbaines limitrophes ;
+3° Constituant une seule et même commune :
+
+- pour l'application du décret du 28 mai 1990 susvisé, la ville de Paris et les communes suburbaines limitrophes pour les frais de changement de résidence ;
+
+- pour l'application du décret du 3 juillet 2006 précité, toute commune et les communes limitrophes, desservies par des moyens de transports publics de voyageurs pour les frais de déplacement temporaire. Toutefois, lorsque l'intérêt du service l'exige et pour tenir compte de situations particulières, l'assemblée délibérante de la collectivité ou le conseil d'administration de l'établissement peut déroger à l'application de cette disposition.
 
 4° Constituant un seul et même département : les départements de Paris, des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne ;
 
