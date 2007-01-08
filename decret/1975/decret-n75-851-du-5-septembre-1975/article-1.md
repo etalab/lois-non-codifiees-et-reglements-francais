@@ -1,9 +1,7 @@
 # Article 1
 
-Les forces françaises stationnées au Sénégal sont placées sous le commandement d'un officier de marine qui porte le titre de commandant des forces françaises du Cap-Vert.
+Les forces françaises stationnées au Sénégal sont placées sous le commandement d'un officier général qui porte le titre de commandant des forces françaises du Cap-Vert.
 
 Cet officier supérieur relève directement du chef d'état-major des armées.
 
-Il a autorité sur l'ensemble des formations et des services des forces françaises stationnées au Sénégal.
-
-Il dispose d'un officier supérieur adjoint de l'armée de terre, commandant les forces terrestres, et d'un officier supérieur adjoint de l'armée de l'air, commandant les forces aériennes.
+Il est assisté par trois adjoints, officiers supérieurs appartenant à chacune des armées.

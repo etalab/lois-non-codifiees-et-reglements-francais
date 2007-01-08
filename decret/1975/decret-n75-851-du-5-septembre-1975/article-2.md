@@ -1,3 +1,7 @@
 # Article 2
 
-Le commandant des forces françaises du Cap-Vert  peut consentir des délégations de signature à ses adjoints,visés à l'article précédent. Ceux-ci sont habilités, dans les domaines spécifiques à leur armée d'appartenance, à correspondre directement avec le chef d'état-major de leur armée sous réserve de tenir informé le commandant des forces françaises du Cap-Vert des problèmes susceptibles d'affecter ses responsabilités.
+Le commandant des forces françaises du Cap-Vert a autorité sur les formations et éléments de service des trois armées stationnés dans les limites territoriales de son commandement.
+
+Il exerce par ailleurs, lorsqu'elle lui est accordée, une autorité d'emploi sur les organismes locaux relevant des autres directions et services du ministère de la défense.
+
+Il peut consentir des délégations de signature à ses adjoints mentionnés à l'article 1er et aux responsables locaux des organismes sur lesquels il exerce une autorité d'emploi.
