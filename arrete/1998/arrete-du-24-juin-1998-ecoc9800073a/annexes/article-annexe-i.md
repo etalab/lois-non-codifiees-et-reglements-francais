@@ -512,6 +512,17 @@ TABLEAU DES FIBRES TEXTILES
 </td>
 </tr>
 <tr>
+<td align="left" valign="top">
+<p align="center">45</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Elastomultiester.</p>
+</td>
+<td>
+<p align="left">Fibre obtenue à partir de l'interaction, au cours de deux phases distinctes ou davantage, d'au moins deux macromolécules linéaires chimiquement distinctes (aucune d'entre elles n'excédant 85 % en masse), qui contient des groupes d'esters comme unité fonctionnelle dominante (au moins 85 %) et qui, après traitement convenable, lorsqu'elle est allongée sous une force de traction jusqu'à atteindre une fois et demie sa longueur d'origine, reprend rapidement et substantiellement sa longueur initiale dès que la force de traction cesse d'être appliquée.</p>
+</td>
+</tr>
+<tr>
 <td colspan="3" width="697">
 <p>(1) La dénomination "laine" figurant au numéro 1 peut également être utilisée pour désigner un mélange de fibres provenant de la toison du mouton et de poils mentionnés au numéro 2. Les pourcentages en fibres textiles prévus aux articles 5 à 10 du décret n° 73-356 du 14 mars 1973 modifié sont calculés en appliquant à la mase anhydre de chaque fibre le taux conventionnel fixé en annexe II.</p>
 <p>(2) Le mot "fibre" est sous-entendu.</p>
