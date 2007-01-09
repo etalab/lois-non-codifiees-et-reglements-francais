@@ -1089,7 +1089,6 @@
 - [Arrêté du 31 juillet 2003 (MENS0301625A)](arrete-du-31-juillet-2003-mens0301625a)
 - [Arrêté du 31 juillet 2003 (SANP0322999A)](arrete-du-31-juillet-2003-sanp0322999a)
 - [Arrêté du 31 juillet 2003 (SANP0323006A)](arrete-du-31-juillet-2003-sanp0323006a)
-- [Arrêté du 31 juillet 2003 (SOCF0311186A)](arrete-du-31-juillet-2003-socf0311186a)
 - [Arrêté du 31 juillet 2003 (SOCF0311187A)](arrete-du-31-juillet-2003-socf0311187a)
 - [Arrêté du 31 juillet 2003 (SOCF0311188A)](arrete-du-31-juillet-2003-socf0311188a)
 - [Arrêté du 31 juillet 2003 (SOCF0311189A)](arrete-du-31-juillet-2003-socf0311189a)
