@@ -1,15 +1,13 @@
 # Article 3
 
-Le titre professionnel d'électricien automobile est composé de cinq unités constitutives dont la liste suit :
+Le titre professionnel d'électricien(ne) automobile est composé des quatre unités constitutives suivantes :
 
-1. Effectuer l'entretien périodique des véhicules automobiles ;
+1. Effectuer les interventions d'entretien et de montage d'accessoires en service rapide automobile.
 
-2. Contrôler et échanger les pièces d'usure des véhicules automobiles ;
+2. Contrôler et échanger les pièces d'usure d'un véhicule automobile.
 
-3. Monter les accessoires complémentaires courants sur un véhicule ;
+3. Installer et remettre en état les organes électriques des véhicules.
 
-4. Installer et remettre en état les organes électriques des véhicules ;
+4. Réparer les systèmes électriques des véhicules.
 
-5. Réparer les systèmes électriques des véhicules.
-
-Elles peuvent être sanctionnées par des certificats de compétences professionnelles (CCP) dans les conditions prévues par l'arrêté du 25 novembre 2002 susvisé.
+Elles sont sanctionnées par des certificats de compétences professionnelles (CCP) dans les conditions prévues par l'arrêté du 9 mars 2006 susvisé.
