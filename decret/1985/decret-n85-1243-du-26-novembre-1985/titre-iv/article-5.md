@@ -46,4 +46,6 @@ Institut d'administration des entreprises, Saint-Etienne ;
 
 Institut d'administration des entreprises, Besançon ;
 
-Institut d'administration des entreprises, Toulon.
+Institut d'administration des entreprises, Toulon ;
+
+Institut d'administration des entreprises, Limoges.
