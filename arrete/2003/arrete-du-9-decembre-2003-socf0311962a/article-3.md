@@ -1,13 +1,11 @@
 # Article 3
 
-Le titre professionnel de chef de chantier travaux publics routes est composé de quatre unités constitutives dont la liste suit :
+Le titre professionnel de chef de chantier travaux publics routes et canalisations est composé des trois unités constitutives dont la liste suit :
 
-1. Faire réaliser un chantier de terrassement et d'assainissement routiers.
+1. Diriger des chantiers de terrassements courants.
 
-2. Faire réaliser les couches de fondation de chaussée (matériaux « blancs »).
+2. Diriger des chantiers de canalisations.
 
-3. Faire réaliser les couches de roulement de chaussée (matériaux « noirs »).
+3. Diriger des chantiers de routes et de voirie urbaine.
 
-4. Faire réaliser un chantier de voiries réseaux divers ou d'aménagement urbain.
-
-Elles peuvent être sanctionnées par des certificats de compétences professionnelles (CCP) dans les conditions prévues par l'arrêté du 25 novembre 2002 susvisé.
+Elles peuvent être sanctionnées par des certificats de compétences professionnelles (CCP) dans les conditions prévues par l'arrêté du 9 mars 2006 susvisé.

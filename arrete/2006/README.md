@@ -4,6 +4,7 @@
 - [Arrêté du 1 mars 2006 (ECOT0526355A)](arrete-du-1-mars-2006-ecot0526355a)
 - [Arrêté du 1 novembre 2006 (ECOP0600719A)](arrete-du-1-novembre-2006-ecop0600719a)
 - [Arrêté du 1 novembre 2006 (ECOP0600722A)](arrete-du-1-novembre-2006-ecop0600722a)
+- [Arrêté du 2 octobre 2006 (SOCF0611981A)](arrete-du-2-octobre-2006-socf0611981a)
 - [Arrêté du 3 juillet 2006 (BUDB0630030A)](arrete-du-3-juillet-2006-budb0630030a)
 - [Arrêté du 4 août 2006 (JUSC0620539A)](arrete-du-4-aout-2006-jusc0620539a)
 - [Arrêté du 4 décembre 2006 (DEFD0601633A)](arrete-du-4-decembre-2006-defd0601633a)
