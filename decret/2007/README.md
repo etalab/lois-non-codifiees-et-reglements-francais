@@ -40,6 +40,7 @@
 - [Décret n°2006-1558 du 7 décembre 2006 (JUSB0610565D)](decret-n2006-1558-du-7-decembre-2006-jusb0610565d)
 - [Décret n° 2007-32 du 8 janvier 2007 (SOCA0625041D)](decret-n-2007-32-du-8-janvier-2007-soca0625041d)
 - [Décret n° 2007-33 du 8 janvier 2007 (DEVP0630044D)](decret-n-2007-33-du-8-janvier-2007-devp0630044d)
+- [Décret n° 2007-34 du 8 janvier 2007 (MENS0603221D)](decret-n-2007-34-du-8-janvier-2007-mens0603221d)
 - [Décret n°2006-1353 du 8 novembre 2006 (JUSK0640237D)](decret-n2006-1353-du-8-novembre-2006-jusk0640237d)
 - [Décret n°2006-1562 du 8 décembre 2006 (SOCU0612361D)](decret-n2006-1562-du-8-decembre-2006-socu0612361d)
 - [Décret n°2007-1451 du 9 octobre 2007 (DEFH0760645D)](decret-n2007-1451-du-9-octobre-2007-defh0760645d)
