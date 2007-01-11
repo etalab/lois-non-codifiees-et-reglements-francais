@@ -1,6 +1,7 @@
 # 2007
 
 - [Arrêté du 1 janvier 2007 (BUDB0630246A)](arrete-du-1-janvier-2007-budb0630246a)
+- [Arrêté du 1 juin 2004 (SOCF0411185A)](arrete-du-1-juin-2004-socf0411185a)
 - [Arrêté du 1 octobre 2007 (DEFH0767119A)](arrete-du-1-octobre-2007-defh0767119a)
 - [Arrêté du 1 octobre 2007 (DEFH0767122A)](arrete-du-1-octobre-2007-defh0767122a)
 - [Arrêté du 1 octobre 2007 (DEFH0767134A)](arrete-du-1-octobre-2007-defh0767134a)
