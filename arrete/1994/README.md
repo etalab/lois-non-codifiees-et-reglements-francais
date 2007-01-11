@@ -966,7 +966,6 @@
 - [Arrêté du 28 avril 1994 (SANM9401325A)](arrete-du-28-avril-1994-sanm9401325a)
 - [Arrêté du 28 décembre 1992 (SPSS9203348A)](arrete-du-28-decembre-1992-spss9203348a)
 - [Arrêté du 28 décembre 1993 (JUSF9350087A)](arrete-du-28-decembre-1993-jusf9350087a)
-- [Arrêté du 28 décembre 1993 (JUSF9350088A)](arrete-du-28-decembre-1993-jusf9350088a)
 - [Arrêté du 28 décembre 1993 (SPSS9303610A)](arrete-du-28-decembre-1993-spss9303610a)
 - [Arrêté du 28 décembre 1994 (FPPA9400144A)](arrete-du-28-decembre-1994-fppa9400144a)
 - [Arrêté du 28 décembre 1994 (INTD9400663A)](arrete-du-28-decembre-1994-intd9400663a)

@@ -19,7 +19,6 @@
 - [Arrêté du 1 juin 2004 (SOCF0411180A)](arrete-du-1-juin-2004-socf0411180a)
 - [Arrêté du 1 juin 2004 (SOCF0411182A)](arrete-du-1-juin-2004-socf0411182a)
 - [Arrêté du 1 juin 2004 (SOCF0411184A)](arrete-du-1-juin-2004-socf0411184a)
-- [Arrêté du 1 juin 2004 (SOCF0411185A)](arrete-du-1-juin-2004-socf0411185a)
 - [Arrêté du 1 juin 2004 (SOCF0411187A)](arrete-du-1-juin-2004-socf0411187a)
 - [Arrêté du 1 juin 2004 (SOCF0411188A)](arrete-du-1-juin-2004-socf0411188a)
 - [Arrêté du 1 juin 2004 (SOCF0411191A)](arrete-du-1-juin-2004-socf0411191a)
