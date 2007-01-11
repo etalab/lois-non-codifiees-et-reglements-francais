@@ -22,4 +22,6 @@ Les destinataires des informations enregistrées sont, en fonction de leurs attr
 
 - les organismes habilités à recevoir des informations statistiques relatives à la paie ;
 
-- les membres des corps d'inspection.
+- les membres des corps d'inspection ;
+
+- l'observatoire social de la défense.
