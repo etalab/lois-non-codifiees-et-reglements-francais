@@ -3,5 +3,5 @@
 - [Article 1](article-1.md)
 - [Section I : La zone publique.](section-i)
 - [Section II : La zone technique.](section-ii)
-- [Section III : Dispositions transitoires.](section-iii)
+- [Section III : Dépôt du corps des enfants pouvant être déclarés sans vie à l'état civil](section-iii)
 - [Article 8](article-8.md)

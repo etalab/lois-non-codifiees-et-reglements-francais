@@ -12,7 +12,7 @@ Carburants autorisés (références au tableau B de l'article 265 du code des do
 
 Supercarburants sans plomb et supercarburants sans plomb avec additif ARS.
 
-Utilisation dans tous les moteurs à allumage commandé.
+Utilisations dans tous les moteurs à allumage commandé.
 
 2710.11
 
@@ -38,7 +38,7 @@ Utilisation dans tous les moteurs à combustion interne.
 
 Gazole présentant un point d'éclair inférieur à 120 °C d'une teneur en EMHV égale à 30 %.
 
-Utilisation dans tous les moteurs à combustion interne des véhicules faisant partie d'une flotte professionnelle disposant d'une logistique d'approvisionnement spécifique.
+Utilisation dans les moteurs à combustion interne des véhicules, adaptés à ce carburant, faisant partie d'une flotte professionnelle disposant d'une logique d'approvisionnement spécifique.
 
 2710.11
 
@@ -142,8 +142,8 @@ Utilisation dans des moteurs Diesel entraînant des véhicules dont la masse en 
 
 55
 
-Superéthanol composé d'un maximum de 85 % d'alcool éthylique d'origine agricole et d'un minimum de 15 % de supercarburant.
+Superéthanol composé d'un minimum de 65 % d'alcool éthylique d'origine agricole et d'un minimum de 15 % de supercarburant.
 
-Utilisation dans tous les moteurs thermiques à allumage commandé, faisant partie d'une flotte professionnelle disposant d'une logistique d'approvisionnement spécifique.
+Utilisation dans les moteurs thermiques à allumage commandé adaptés à ce carburant.
 
 (*) Indices correspondant à ceux repris dans le tableau B du 1 de l'article 265 du code des douanes.
