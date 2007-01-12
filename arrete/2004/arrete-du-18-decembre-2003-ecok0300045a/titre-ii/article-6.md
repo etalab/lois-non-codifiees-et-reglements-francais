@@ -6,7 +6,7 @@ Le pouvoir de notation s'exerce dans les conditions suivantes :
 
 - le secrétaire général ;
 
-- le directeur de la stratégie, des finances et de la comptabilité ;
+- le directeur finances et stratégie du groupe ;
 
 - le directeur des fonds d'épargne ;
 
@@ -16,7 +16,9 @@ Le pouvoir de notation s'exerce dans les conditions suivantes :
 
 - le directeur du développement territorial;
 
-- le directeur du réseau et des fonctions supports;
+- l'adjoint au directeur du développement territorial ;
+
+- Le caissier général, directeur des back-offices ;
 
 2° Le directeur adjoint des ressources humaines de la Caisse des dépôts et consignations est investi du pouvoir de notation, sur proposition des responsables hiérarchiques, s'agissant :
 
