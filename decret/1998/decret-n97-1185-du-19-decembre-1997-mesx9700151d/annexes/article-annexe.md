@@ -384,9 +384,7 @@ Art. R. 162-16-2.
 
 4
 
-Autorisation de pratiquer des analyses de cytogénétique et de
-
-biologie en vue de diagnostic prénatal in utero.
+Autorisation de pratiquer des analyses de cytogénétique et de biologie en vue de diagnostic prénatal in utero.
 
 Art. R. 162-16-2.
 
@@ -549,6 +547,38 @@ Art. R. 1111-10
 Autorisation, retrait et suspension de l'autorisation pour les laboratoires établis hors de France dans un Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace économique européen de réaliser des analyses de biologie médicale pour le compte de patients résidant en France.
 
 Art. R. 6211-49 et R. 6211-56.
+
+28
+
+Agrément des laboratoires chargés d'effectuer les analyses pour la vérification de la qualité de l'eau de consommation humaine, à l'exclusion des eaux minérales naturelles.
+
+Article
+
+R.* 1321-21
+
+29
+
+Habilitation des laboratoires de vérification de certains matériaux en contact avec l'eau et produits et procédés de traitement de l'eau de distribution publique.
+
+Article
+
+R.* 1321-52
+
+30
+
+Déclaration d'intérêt public d'une source d'eau minérale naturelle et assignation d'un périmètre de protection.
+
+Article
+
+R.* 1322-22
+
+31
+
+Agrément des laboratoires d'analyses chargés d'effectuer les analyses pour la vérification de la qualité des eaux minérales naturelles.
+
+Article
+
+R.* 1322-44-3
 
 Code de la sécurité sociale
 
@@ -786,16 +816,6 @@ Art. 2-1.
 
 Art. 2-4.
 
-Décret n° 2001-1220 du 20 décembre 2001 relatif aux eaux destinées à la consommation humaine, à l'exclusion des eaux minérales naturelles
-
-1. Agrément des laboratoires chargés d'effectuer des analyses pour la vérification de la qualité de l'eau (article 16) ;
-
-2. Autorisation d'utilisation des matériaux en contact avec l'eau et des produits et procédés de traitement de l'eau dans les systèmes de production et de distribution (article 32) ;
-
-3. Autorisation des produits et procédés de traitement complémentaire de l'eau dans les réseaux intérieurs de distribution (article 40) ;
-
-4. Autorisation d'utilisation des substances ou matériaux de conditionnement de l'eau ou des matériaux d'emballage de la glace, ainsi que des produits et procédés de traitement qui leur sont spécifiques (article 46).
-
 Décret n° 89-38 du 24 janvier 1989 portant publication du règlement sanitaire international (1969) adopté par la vingt-deuxième assemblée mondiale de la santé en 1969 et modifié par la vingt-sixième assemblée mondiale de la santé en 1973 et par la trente-quatrième assemblée mondiale de la santé en 1981
 
 1
@@ -874,9 +894,7 @@ relatif aux prescriptions applicables aux crématoriums
 
 1
 
-Agrément des organismes de certification des crématoriums et des
-
-fours de crémation.
+Agrément des organismes de certification des crématoriums et des fours de crémation.
 
 Art. 11, alinéas 1 et 3.
 
@@ -934,9 +952,7 @@ Code du travail
 
 1
 
-Décision prescrivant des prélèvements et analyses de certaines
-
-substances et préparations dangereuses.
+Décision prescrivant des prélèvements et analyses de certaines substances et préparations dangereuses.
 
 Art. R. 231-54-9.
 
@@ -1002,9 +1018,7 @@ Décision de création et retrait d'agrément des centres de formation professio
 
 Art. 3.
 
-Décret n° 75-306 du 28 avril 1975 relatif à la protection des travailleurs contre les dangers des rayonnements ionisants dans les
-
-installations nucléaires de base
+Décret n° 75-306 du 28 avril 1975 relatif à la protection des travailleurs contre les dangers des rayonnements ionisants dans les installations nucléaires de base
 
 1
 
