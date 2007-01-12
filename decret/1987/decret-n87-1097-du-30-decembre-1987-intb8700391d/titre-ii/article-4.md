@@ -14,7 +14,7 @@ Un décret fixe les modalités de prise en compte de ces activités.
 
 Lorsque le nombre de candidats ayant subi avec succès les épreuves de l'un des trois concours mentionnés ci-dessus est inférieur au nombre de places offertes à ce concours, le jury peut modifier le nombre des places aux concours externe et interne dans la limite de 15 %.
 
-Les concours sont organisés par le Centre national de la fonction publique territoriale. Nul ne peut participer plus de trois fois au total à l'un ou l'autre de ces concours.
+Les concours sont organisés par le Centre national de la fonction publique territoriale. Nul ne peut concourir plus de trois fois à l'un des concours d'accès ni plus de cinq fois à l'ensemble des concours.
 
 Les concours comprennent des épreuves d'admissibilité et des épreuves d'admission dont les modalités et les programmes sont fixés par décret.
 
