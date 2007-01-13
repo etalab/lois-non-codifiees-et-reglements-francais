@@ -116,6 +116,7 @@
 - [Arrêté du 29 décembre 2006 (JUSA0600267A)](arrete-du-29-decembre-2006-jusa0600267a)
 - [Arrêté du 30 août 2006 (SSHA0623501A)](arrete-du-30-aout-2006-ssha0623501a)
 - [Arrêté du 30 avril 2007 (PRMX0710288A)](arrete-du-30-avril-2007-prmx0710288a)
+- [Arrêté du 30 décembre 2006 (INDI0709549A)](arrete-du-30-decembre-2006-indi0709549a)
 - [Arrêté du 30 novembre 1998 (AGRP9802432A)](arrete-du-30-novembre-1998-agrp9802432a)
 - [Arrêté du 30 novembre 2006 (MJSK0670294A)](arrete-du-30-novembre-2006-mjsk0670294a)
 - [Arrêté du 31 janvier 2007 (SOCK0710043A)](arrete-du-31-janvier-2007-sock0710043a)
