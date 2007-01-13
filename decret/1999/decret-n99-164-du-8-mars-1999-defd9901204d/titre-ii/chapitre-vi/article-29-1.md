@@ -12,6 +12,6 @@ La direction des statuts, des pensions et de la réinsertion sociale contribue �
 
 - à l'appareillage des mutilés de guerre et des handicapés civils ainsi qu'aux soins médicaux gratuits.
 
-Elle coordonne et contrôle l'activité des services déconcentrés chargés des anciens combattants responsables de l'instruction et de la reconnaissance des droits mentionnés à l'alinéa précédent.
+Elle coordonne et contrôle l'activité des services déconcentrés chargés des anciens combattants responsables de l'instruction et de la reconnaissance des droits mentionnés au présent article.
 
 Elle gère les crédits correspondants à l'ensemble de ses attributions.
