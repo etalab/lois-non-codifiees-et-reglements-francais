@@ -30,7 +30,7 @@ Celui-ci dispose des organismes suivants :
 
 a) La direction des affaires financières ;
 
-b) La direction de la fonction militaire et du personnel civil ;
+b) La direction des ressources humaines du ministère de la défense ;
 
 c) La direction des affaires juridiques ;
 
@@ -42,7 +42,9 @@ f) La direction du service national ;
 
 g) Le service des moyens généraux ;
 
-h) La direction centrale du service d'infrastructure de la défense.
+h) La direction centrale du service d'infrastructure de la défense ;
+
+i) La sous-direction de pilotage des programmes budgétaires relevant du secrétaire général pour l'administration.
 
 III. - Les autres organismes à caractère civil directement rattachés au ministre de la défense suivants :
 
