@@ -1,4 +1,4 @@
-# Chapitre II : Direction de la fonction militaire et du personnel civil.
+# Chapitre II : Direction des ressources humaines du ministère de la défense.
 
 - [Section 1 : La fonction militaire.](section-1)
 - [Section 2 : Le personnel civil.](section-2)
