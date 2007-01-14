@@ -1,5 +1,5 @@
 # Article 5
 
-L'appellation contrôlée "Bourgogne" ne sera accordée qu'aux producteurs dont la récolte n'aura pas excédé 45 hectolitres à l'hectare en moyenne, cette moyenne étant calculée sur cinq années (celle de la récolte et les quatre précédentes).
+Dans un délai d'un an la commission prévue à l'article 1er devra fournir au comité national des appellations d'origine des propositions tendant à réglementer la densité des plantations et la taille.
 
-Les jeunes vignes ne pourront entrer dans le décompte de la surface plantée qu'à partir de la quatrième feuille, celle-ci comprise.
+Néanmoins, sont interdites à dater de la parution du présent décret les pratiques de l'incision annulaire et toutes autres similaires et celle de la torsion du sarment.
