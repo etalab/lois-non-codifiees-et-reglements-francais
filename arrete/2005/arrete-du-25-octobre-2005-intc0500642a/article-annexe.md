@@ -910,7 +910,7 @@ b) Le Trésor public, pivot du financement budgétaire : les fonctions du Tréso
 
 c) Le budget et l'impôt : structure de la charge fiscale, notion de pression fiscale ;
 
-d) Les organismes sociaux et le débat sur le  poids de l'Etat .
+d) Les organismes sociaux et le débat sur le poids de l'Etat .
 
 3. Economie internationale (éléments de géographie économique) :
 
@@ -1207,3 +1207,101 @@ b) La destruction ou détournement d'objet gage ;
 c) La destruction ou détournement d'objet saisi ;
 
 d) L'organisation frauduleuse d'insolvabilité.
+
+Concours interne
+
+Le déminage
+
+1. La pyrotechnie
+
+a) Les matériaux actifs énergétiques : classification, familles, propriétés, effets, emplois :
+
+- poudres ;
+
+- explosifs ;
+
+- compositions pyrotechniques.
+
+b) Les chargements d'emploi particulier : classification, familles, propriétés, effets, emplois :
+
+- chargements toxiques ;
+
+- chargements fumigènes ;
+
+- chargements incendiaires.
+
+c) La sécurité pyrotechnique et la réglementation concernant :
+
+- le stockage ;
+
+- les manipulations ;
+
+- le transport (réglementation ADR) ;
+
+- les destructions ;
+
+- le classement des objets et matières explosibles (division de risques, groupes de compatibilité, probabilité d'accidents, zones de dangers, études de sécurité pyrotechniques).
+
+2. Les interventions sur objets suspects à but d'attentat
+
+a) Historique et évolution des engins à but de terrorisme :
+
+- analyse de la menace.
+
+b) Composants, constitution, modes de fonctionnement des engins :
+
+- évolution des chargements explosifs (industriels, militaires, artisanaux) ;
+
+- les différents types de fonctionnement (mécaniques, électriques, électroniques et chimiques).
+
+c) Evolution de la menace : les engins NR, B et C.
+
+d) Les moyens de détection, d'identification, de lever de doute, de protection et de confinement.
+
+e) Evaluation des zones de danger.
+
+f) Le cadre juridique des interventions, le rôle du DCI.
+
+g) La méthodologie d'intervention.
+
+h) Les matériels d'intervention et leurs mises en oeuvre.
+
+i) Les règles de protection et de sécurité.
+
+j) Radioprotection.
+
+k) La préservation des preuves.
+
+3. Technologie munitionnaire
+
+Connaissance des principales familles de munitions (française, britannique, allemande, italienne et russe), organisation, amorçage, effets terminaux (effet de souffle, effet de fragmentation, charge creuse, charge d'écrasement, charge génératrice de noyaux, effet thermique, effet de bulles).
+
+a) Le désobusage :
+
+- grenades à main, grenades à fusils ;
+
+- projectiles pour lanceurs spécialisés ;
+
+- munitions pour canon ;
+
+- munitions pour mortier ;
+
+- munitions autopropulsées (roquettes et missiles) ;
+
+- mines terrestres.
+
+b) Le débombage :
+
+- bombes d'aviation ;
+
+- sous-munitions ;
+
+- roquettes (air-sol, air-air).
+
+c) L'intervention :
+
+- procédures et matériels d'intervention (détection, neutralisation, démantèlement, transport, stockage, destruction, incinération) ;
+
+- organisation d'un chantier de dépollution pyrotechnique (détection, désobusage, débombage) ;
+
+- modes opératoires et règles de sécurité.

@@ -14,7 +14,7 @@ Le jury est composé de membres du jury des concours externe et interne d'offici
 
 - deux magistrats de l'ordre judiciaire ;
 
-- un administrateur civil ou attaché principal d'administration centrale ou de police du ministère de l'intérieur et de l'aménagement du territoire ;
+- un administrateur civil ou attaché principal affecté au ministère de l'intérieur et de l'aménagement du territoire ;
 
 - deux membres du corps de conception et de direction de la police nationale ;
 
