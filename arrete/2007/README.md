@@ -70,6 +70,7 @@
 - [Arrêté du 19 avril 2002 (AGRP0200957A)](arrete-du-19-avril-2002-agrp0200957a)
 - [Arrêté du 19 décembre 2006 (INDI0609446A)](arrete-du-19-decembre-2006-indi0609446a)
 - [Arrêté du 19 décembre 2006 (INTE0601037A)](arrete-du-19-decembre-2006-inte0601037a)
+- [Arrêté du 19 décembre 2006 (METF0612512A)](arrete-du-19-decembre-2006-metf0612512a)
 - [Arrêté du 19 novembre 2001 (AGRP0102259A)](arrete-du-19-novembre-2001-agrp0102259a)
 - [Arrêté du 19 novembre 2008 (DEVA0824033A)](arrete-du-19-novembre-2008-deva0824033a)
 - [Arrêté du 20 décembre 2006 (ECOC0600165A)](arrete-du-20-decembre-2006-ecoc0600165a)
