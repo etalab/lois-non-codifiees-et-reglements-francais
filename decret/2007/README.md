@@ -45,6 +45,7 @@
 - [Décret n°2006-1562 du 8 décembre 2006 (SOCU0612361D)](decret-n2006-1562-du-8-decembre-2006-socu0612361d)
 - [Décret n° 2007-38 du 9 janvier 2007 (EQUT0602331D)](decret-n-2007-38-du-9-janvier-2007-equt0602331d)
 - [Décret n° 2007-45 du 9 janvier 2007 (EQUU0602049D)](decret-n-2007-45-du-9-janvier-2007-equu0602049d)
+- [Décret n°2006-1361 du 9 novembre 2006 (ECOC0600136D)](decret-n2006-1361-du-9-novembre-2006-ecoc0600136d)
 - [Décret n°2007-1451 du 9 octobre 2007 (DEFH0760645D)](decret-n2007-1451-du-9-octobre-2007-defh0760645d)
 - [Décret n° 2007-35 du 10 janvier 2007 (INDI0630109D)](decret-n-2007-35-du-10-janvier-2007-indi0630109d)
 - [Décret n° 2007-36 du 10 janvier 2007 (INDI0630110D)](decret-n-2007-36-du-10-janvier-2007-indi0630110d)

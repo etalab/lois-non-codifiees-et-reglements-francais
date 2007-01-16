@@ -68,6 +68,7 @@
 - [Arrêté du 18 décembre 2006 (SOCF0612596A)](arrete-du-18-decembre-2006-socf0612596a)
 - [Arrêté du 18 septembre 2007 (DEVL0757278A)](arrete-du-18-septembre-2007-devl0757278a)
 - [Arrêté du 19 avril 2002 (AGRP0200957A)](arrete-du-19-avril-2002-agrp0200957a)
+- [Arrêté du 19 décembre 2006 (ECOS0650043A)](arrete-du-19-decembre-2006-ecos0650043a)
 - [Arrêté du 19 décembre 2006 (INDI0609446A)](arrete-du-19-decembre-2006-indi0609446a)
 - [Arrêté du 19 décembre 2006 (INTE0601037A)](arrete-du-19-decembre-2006-inte0601037a)
 - [Arrêté du 19 décembre 2006 (METF0612512A)](arrete-du-19-decembre-2006-metf0612512a)
