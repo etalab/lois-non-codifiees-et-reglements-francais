@@ -14,8 +14,8 @@ La demande de renouvellement d'agrément doit être adressée en remplissant un 
 
 Le dossier de demande de renouvellement d'agrément complété (formulaire type et pièces à fournir) doit être envoyé, par courrier postal avec accusé de réception, en 3 exemplaires, à l'adresse suivante :
 
-Ministère des solidarités, de la santé et de la famille, direction générale de la santé (bureau des eaux), 14, avenue Duquesne, 75350 Paris 07 SP.
+Ministère de la santé et des solidarités, direction générale de la santé (bureau des eaux), 14, avenue Duquesne, 75350 Paris 07 SP et laboratoire d'études et de recherches en hydrologie, Agence française de sécurité sanitaire des aliments, 40, rue Lionnois, 54000 Nancy.
 
 Dans le cas où la demande de renouvellement d'agrément concerne les prélèvements et les analyses de radioactivité, 2 exemplaires supplémentaires sont à envoyer, par courrier postal avec accusé de réception, à l'adresse suivante :
 
-Direction générale de la sûreté nucléaire et de la radioprotection, 6, place du Colonel-Bourgoin, 75572 Paris Cedex 12.
+Autorité de sûreté nucléaire, 6, place du Colonel-Bourgoin, 75572 Paris Cedex 12 et l'Institut de radioprotection sur la sûreté nucléaire, STEME, BP 35, 78116 Le Vésinet Cedex.

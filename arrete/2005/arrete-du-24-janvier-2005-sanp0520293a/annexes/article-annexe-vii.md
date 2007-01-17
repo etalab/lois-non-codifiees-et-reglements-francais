@@ -10,11 +10,9 @@ Laboratoire départemental d'analyses, zone de l'Etoile, boulevard de Nomazy, BP
 
 Laboratoire du centre hospitalier, quartier Saint-Christophe, BP 213, 04000 Digne-les-Bains.
 
-Laboratoire du centre hospitalier, 1, place Auguste-Muret, 05007 Gap.
-
 Laboratoire de l'environnement Nice-Côte d'Azur, 333, promenade des Anglais, 06200 Nice.
 
-Laboratoire de biologie médicale Denis Lechevalier, 2, avenue Claude-Expilly, 07600 Vals-les-Bains.
+Laboratoire départemental d'analyses de la Drôme (LDA 26) - antenne de Vals-les-Bains, 2, avenue Claude-Expilly, 07600 Vals-les-Bains.
 
 Laboratoire départemental d'analyses, 08430 Hagnicourt.
 
@@ -26,11 +24,11 @@ Laboratoire départemental d'analyses des eaux du centre hospitalier Antoine Gay
 
 Laboratoire départemental d'analyses, rue des Artisans, ZA Bel-Air, 12031 Rodez.
 
-Laboratoire départemental d'analyses des Bouches-du-Rhône, 66 A, rue Saint-Sébastien, 13291 Marseille.
+Laboratoire départemental d'analyses des Bouches-du-Rhône, 29, rue Joliot-Curie, technopôle de Château, Gombert, 13013 Marseille.
 
 Laboratoire départemental Frank Duncombe, 1, route de Rosel, 14280 Saint-Contest.
 
-Laboratoire d'analyses des eaux du Cantal, 1, rue du Rieu, 15000 Aurillac.
+Laboratoire départemental d'analyses et de recherche (LDAR), 100, rue de l'Egalité, 15013 Aurillac Cedex.
 
 Laboratoire départemental d'analyses de la Charente, 496, route de Bordeaux, 16021 Angoulême.
 
@@ -50,7 +48,7 @@ Laboratoire de développement et d'analyses, zoopôle, 7, rue du Sabot, BP 54, 2
 
 Laboratoire départemental d'analyses, 44, route de Guéret, BP 342, 23380 Ajain.
 
-Laboratoire départemental des eaux de Dordogne, rue Charles-Mangold, 24000 Périgueux.
+Laboratoire départemental d'analyse et de recherche de la Dordogne (LDA 24), 161, avenue Winston-Churchill, 24660 Coulounieix-Chamiers.
 
 Laboratoire de bactériologie, hygiène, virologie, parasitologie, hôpital Jean Minjoz, CHU, boulevard Fleming, 25030 Besançon.
 
@@ -62,9 +60,9 @@ Laboratoire départemental d'analyses, 12, rue du Docteur-Michel-Baudoux, 27023 
 
 Laboratoire départemental d'analyses d'Eure-et-Loir, 49, rue des Chaises, BP 903, 28011 Chartres.
 
-Laboratoire départemental vétérinaire du Finistère, ZA de Creach'Guen, 22, avenue de la Plage-des-Gueux, 29334 Quimper.
+IDHESA Bretagne Océane, site de Quimper, ZA de Creach'Guen, 22, avenue de la Plage-des-Gueux, 29334 Quimper.
 
-Laboratoire d'analyses de Brest-Océan, 120, rue A.-de-Rochon, BP 52, 29280 Plouzane.
+IDHESA Bretagne Océane, site de Plouzané, 120, rue A.-de-Rochon, BP 52, 29280 Plouzane.
 
 Bouisson Bertrand Laboratoires, parc scientifique Georges Besse, 145, allée Charles-Babbage, 30035 Nîmes.
 
@@ -82,7 +80,7 @@ Laboratoire Lescaroux-Camenen-Jamet, 4, avenue de la Gare, 36000 Châteauroux.
 
 Laboratoire départemental d'analyses, cité administrative, boulevard George-Sand, BP 502, 36018 Châteauroux.
 
-Laboratoire de Touraine, Le Bas Champeigné, Parçay-Meslay, 37082 Tours.
+Laboratoire de Touraine, BP 67357, 37007 Tours.
 
 Laboratoire régional d'analyse des eaux, Asposan, 60, allée Saint-Exupéry, ZIRST, 38330 Montbonnet-Saint-Martin.
 
@@ -118,7 +116,7 @@ Laboratoire du centre hospitalier, 51, rue du Commandant-Derrien, BP 501, 51005 
 
 Laboratoire municipal et régional, 2, esplanade Roland-Garros, BP 236, 51686 Reims.
 
-Laboratoire Meyer-Stoclet, 2, avenue de la République, 52000 Chaumont.
+Laboratoire Bio-Santé, 2, avenue de la République, 52000 Chaumont.
 
 Laboratoire départemental d'hydrologie, centre hospitalier général, 4, rue Godard-Jeanson, 52115 Saint-Dizier.
 
@@ -126,9 +124,9 @@ Laboratoire départemental de la Mayenne, 224, rue du Bas-des-Bois, BP 1427, 530
 
 IRH Environnement, laboratoire central environnement-santé, 11 bis, rue Gabriel-Péri, BP 286, 54515 Vandoeuvre-lès-Nancy.
 
-Laboratoire vétérinaire départemental, chemin des Romains, BP 516, 55012 Bar-le-Duc.
+Agrobio, site de Bar-le-Duc, chemin des Romains, BP 516, 55012 Bar-le-Duc.
 
-Laboratoire départemental d'analyses du Morbihan, 6, avenue Edgar-Degas, BP 528, 56019 Vannes.
+Laboratoire départemental d'analyses du Morbihan, 3, rue Denis-Papin, BP 20080, 56892 Saint-Avé.
 
 Laboratoire d'hygiène publique et industrielle, centre de génie industriel, 4, rue Galilée, parc technologique de Soye, 56270 Ploemeur.
 
@@ -142,13 +140,13 @@ Laboratoire départemental de l'Oise, 14, rue Albert-et-Arthur-Desjardins, BP 45
 
 Laboratoire départemental de l'Orne, 19-21, rue Candie, BP 7, 61001 Alençon.
 
-Laboratoire municipal, 10, rue Louis-Rosier, 63000 Clermont-Ferrand.
+DEA, contrôle des eaux de la ville de Clermont-Ferrand, 10, rue Louis-Rosier, 63000 Clermont-Ferrand.
 
 Institut Louise-Blanquet, laboratoire de contrôle des eaux, faculté de médecine et de pharmacie, 28, place Henri-Dunant, BP 38, 63001 Clermont-Ferrand.
 
-Laboratoires départementaux LD 64, centre départemental de recherche sur l'environnement, 64150 Lagor.
+Laboratoires des Pyrénées, site de Lagor, route des Ecoles, 64150 Lagor.
 
-Laboratoire départemental d'analyses des Hautes-Pyrénées, centre Kennedy, rue Edwin-Aldrin, 65025 Tarbes.
+Laboratoires des Pyrénées, site de Tarbes, centre Kennedy, rue Edwin-Aldrin, 65025 Tarbes.
 
 Centre d'analyses Méditerranée-Pyrénées, Technosud, rambla de la Thermodynamique, 66100 Perpignan.
 
@@ -164,7 +162,7 @@ Laboratoire d'hydrologie du centre hospitalier, centre hospitalier, boulevard Lo
 
 Laboratoire municipal du Mans, 60, rue de Banjan, 72000 Le Mans.
 
-Savoie-Labo, Savoie Technolac, B1-23, BP 251, 73375 Le Bourget-du-Lac.
+Savoie-Labo, 23, allée du Lac-d'Aiguebelette, BP 251, 73374 Le Bourget-du-Lac.
 
 Laboratoire départemental d'analyse des eaux du centre hospitalier de la région annecienne, 1, avenue de Trésum, BP 2333, 74011 Annecy.
 
@@ -196,7 +194,7 @@ Laboratoire départemental d'analyses du Vaucluse, 285, rue Raoul-Follereau, BP 
 
 Laboratoire départemental d'analyses de la Vendée, rond-point Georges-Duval, BP 802, 85021 La Roche-sur-Yon.
 
-Laboratoire IANESCO Chimie, pôle technologique régional, 3, rue Raoul-Follereau, BP 90974, 86038 Poitiers.
+Laboratoire IANESCO Chimie, Biopôle, 6, rue Carol-Heiz, BP 90974, 86038 Poitiers.
 
 Laboratoire régional de contrôle des eaux de la ville de Limoges, 25, avenue Marconi, 87100 Limoges.
 
@@ -210,7 +208,7 @@ Laboratoire départemental des eaux du Val-de-Marne, parc d'activités des Petit
 
 Laboratoire départemental d'analyses de l'eau, 5, avenue de la Palette, 95000 Cergy-Pontoise.
 
-Laboratoire de l'Institut Pasteur de Guadeloupe, Institut Pasteur, BP 484, 97159 Pointe-à-Pitre.
+Laboratoire de l'Institut Pasteur de Guadeloupe, Institut Pasteur, Morne Jolivière, BP 484, 97183 Les Abymes Cedex.
 
 Laboratoire départemental d'hygiène de Martinique, 35, boulevard Pasteur, BP 628, 97261 Fort-de-France.
 
