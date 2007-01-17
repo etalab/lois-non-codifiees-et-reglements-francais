@@ -442,7 +442,6 @@
 - [Arrêté du 17 octobre 1990 (TEFE9003894A)](arrete-du-17-octobre-1990-tefe9003894a)
 - [Arrêté du 17 septembre 1990 (ECOC9000108A)](arrete-du-17-septembre-1990-ecoc9000108a)
 - [Arrêté du 17 septembre 1990 (SPSS9001990A)](arrete-du-17-septembre-1990-spss9001990a)
-- [Arrêté du 17 mai 1990 (ECOZ8900026A)](arrete-du-17-mai-1990-ecoz8900026a)
 - [Arrêté du 17 mai 1990 (MCCB9000412A)](arrete-du-17-mai-1990-mccb9000412a)
 - [Arrêté du 17 mai 1990 (SPSH9001043A)](arrete-du-17-mai-1990-spsh9001043a)
 - [Arrêté du 17 mai 1990 (SPSH9001044A)](arrete-du-17-mai-1990-spsh9001044a)
