@@ -68,6 +68,7 @@
 - [Décret n°2005-875 du 25 juillet 2005 (ECOT0420065D)](decret-n2005-875-du-25-juillet-2005-ecot0420065d)
 - [Décret n°95-979 du 25 août 1995 (PRMG9570441D)](decret-n95-979-du-25-aout-1995-prmg9570441d)
 - [Décret n° 2005-1215 du 26 septembre 2005 (FPPA0500078D)](decret-n-2005-1215-du-26-septembre-2005-fppa0500078d)
+- [Décret n°2004-1299 du 26 novembre 2004 (ECOM0420013D)](decret-n2004-1299-du-26-novembre-2004-ecom0420013d)
 - [Décret n°2005-1632 du 26 décembre 2005 (JUSD0530148D)](decret-n2005-1632-du-26-decembre-2005-jusd0530148d)
 - [Décret n°93-501 du 26 mars 1993 (ECOC9300030D)](decret-n93-501-du-26-mars-1993-ecoc9300030d)
 - [Décret du 27 mai 2005 (AGRP0500985D)](decret-du-27-mai-2005-agrp0500985d)
