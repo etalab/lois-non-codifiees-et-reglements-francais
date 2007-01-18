@@ -12,4 +12,6 @@ d) Produits de cessions à l'exception de celles effectuées entre organismes d'
 
 e) Taxes ou redevances se rapportant à des communications téléphoniques privées ;
 
-f) Droits divers et taxes perçues à l'occasion de la délivrance de documents ou de reproductions de documents appartenant à l'Etat ou conservés par ses soins.
+f) Droits divers et taxes perçues à l'occasion de la délivrance de documents ou de reproductions de documents appartenant à l'Etat ou conservés par ses soins ;
+
+g) Encaissement après contrôle des redevances dues par les sociétés mettant à disposition de distributeurs de boissons et de confiseries.
