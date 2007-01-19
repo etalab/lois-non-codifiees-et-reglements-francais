@@ -526,6 +526,8 @@ Fofumi, ZI les Muids, 45160 Olivet, de 1969 à 1985 ;
 
 Hermann Moritz, 4, rue du Stade, 28480 Chassant, de 1964 à 1986 ;
 
+Prolifix, avenue du Général-Patton, 45330 Malesherbes : de 1979 à 1983 ;
+
 Sitram Inox, 36170 Saint-Benoît-du-sault : de sa création à 1999 ;
 
 Valéo Thermique Habitacle, Avenue des Près, 28400 Nogent-le-Rotrou : de 1965 à 1992 ;
@@ -613,6 +615,8 @@ Précicable, 151, rue Michel-Carré, BP 10, 95102 Argenteuil Cedex : de sa créa
 Raschig SAS : depuis 1998 ;
 
 Rieter/Keller, laboratoire de recherche, route de l'Hautil, 95000 Boisemont, puis 78410 Aubergenville : de 1971 à 1981 ;
+
+Rincheval, boulevard du Général-Leclerc, 95320 Soisy-sous-Montmorency : de 1907 à 1996 , puis Famaro-Rincheval, 3 avenue des Cures, 95320 Soisy-sous-Montmorency ;
 
 Siafom, rue Le Peletier, 75009 Paris : de 1962 à 1977 ;
 
@@ -714,7 +718,7 @@ CDF Chimie, usine de Mazingarbe, 62670 Mazingarbe : de 1946 à 1972.
 
 Courtaulds SA-Courtimmo, pont du Leu, 62231 Coquelles : de 1926 à 1991 ;
 
-DITECHNA, 2, rue de l'Albeck, ZI de Petite-Synthe, 59640 Dunkerque, de 1971 à 1982 ;
+Dickson Constant, 2, rue de l'Albeck, ZI de Petite-Synthe, 59640 Dunkerque, de 1971 à 1982 ;
 
 Ducellier et Cie puis Valéo, route de Montreuil, 62630 Etaples : de 1971 à 1992 ;
 
@@ -1000,7 +1004,11 @@ CMPEI, CMA, CMF, CMP, Constructions métalliques de Provence, Constructions mét
 
 ELF Atochem, BP 3, 13117 Lavera, de 1970 à 2001 ;
 
+France Joints , zone industrielle, 1re avenue, 11e rue, îlot M, 06510 Carros : de 1992 à 1993 ;
+
 Isotec, 13, quai de Tourette, 13002 Marseille : de 1984 à 1999 ;
+
+L'Aeraulique, le logis du Bonneau, quartier des Mourettes, 06270 Villeneuve-Loubet : de 1975 à 1989 ;
 
 Peinture Marius Dufour, 58-90, boulevard Fifi-Turin, BP 96, 13395 Marseille Cedex : de 1972 à 1994 ;
 
@@ -1017,6 +1025,8 @@ Société des anciens établissements A.-Devries, ZI les Paluds, 13400 Aubagne :
 Société d'entreprises et de fumisterie industrielle (SEFI), quartier des Fouitades, BP 56, 13655 Rognac Cedex : de 1935 à 1980 ;
 
 Société française de plaques de plâtre (SFPP)/Pregypan/Pregypan Rigips/Plâtres Lafarge, établissement de Carpentras, chemin de Villefranche, BP 135, 84204 Carpentras Cedex : de 1967 à 1982 ;
+
+Société de projection de matériaux isolants (SPMI), route de Saint-Cézaire, lieudit Grange de Jourdan, 06460 Saint-Vallier-de-Thiey : de 1989 à 1992 ;
 
 société de tuyauterie et de montage Friedlander, boulevard du Progrès, 13014 Marseille : de 1960 à 1966, puis 39-41, boulevard Sainte-Lucie, 13007 Marseille : de 1966 à 1988, puis 550, rue Pierre-Berthier, parc de Pichaury, BP 348000, 13799 Aix-en-Provence : depuis 1988 ;
 

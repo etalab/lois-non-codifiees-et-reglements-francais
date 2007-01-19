@@ -24,9 +24,11 @@ Ajusteur ;
 
 Agent d'entretien ;
 
-Agent technique (électronique et radioélectricité).
+Agent technique (électronique et radioélectricité) ;
 
 Animateur de prévention et sécurité ;
+
+Appareilleur.
 
 Bobinier ;
 
@@ -34,21 +36,23 @@ Bourrelier ;
 
 Calorifugeur ;
 
+Capitaine de pousseur ;
+
 Chanfreineur ;
 
 Charpentier ;
 
 Chaudronnier ;
 
-Chauffeur ;
-
 Chauffeur de chaudière ;
+
+Chauffeur-redresseur ;
 
 Chef de bord ;
 
 Compressiste ;
 
-Conducteur d'engins
+Conducteur d'engins ;
 
 Contrôleur ;
 
@@ -142,13 +146,15 @@ Soudeur ;
 
 Statifieur ;
 
-Technicien turbo.
+Technicien turbo ;
 
-Tireur de câble.
+Tireur de câble ;
 
 Tôlier ;
 
 Tourneur ;
+
+Traceur ;
 
 Tuyauteur.
 
@@ -176,11 +182,15 @@ Cariste-échafaudeur ;
 
 Chalumiste arc-air ;
 
+Chanfreineur ;
+
 Charpentier ;
+
+Charpentier fer ;
 
 Chaudronnier ;
 
-Chauffeur ;
+Chauffeur-redresseur ;
 
 Conducteur d'engins ;
 
@@ -191,6 +201,8 @@ Dresseur ;
 Echafaudeur ;
 
 Façonneur ;
+
+Fraiseur ;
 
 Gabarilleur ;
 
@@ -211,6 +223,8 @@ Nettoyeur ;
 Pompier ;
 
 Peintre ;
+
+Redresseur ;
 
 Redresseur-formeur ;
 
@@ -266,13 +280,15 @@ Cariste ;
 
 Cariste-chauffeur-conducteur d'engins ;
 
+Chanfreineur ;
+
 Charpentier ;
 
 Charpentier fer ;
 
 Chaudronnier ;
 
-Chauffeur ;
+Chauffeur-redresseur ;
 
 Conducteur d'engins ;
 
@@ -337,5 +353,7 @@ Soudeur ;
 Statifieur ;
 
 Tourneur ;
+
+Traceur ;
 
 Tuyauteur.

@@ -238,9 +238,7 @@ Société THIRIET CATTIN. 2, avenue des Noëlles, 44500 La Baule. De sa créatio
 
 SOFRADI, puis SOFRALI, avenue Descartes, 44119 Treillières : de 1961 à 1986.
 
-SONAPEC/SOPENA :
-
-- 21, avenue de Penhouet, 44600 Saint-Nazaire : depuis 1981.
+SOPENA (Société de peintures nazairienne), 5, rue Robert-Surcouf, 44600 Saint-Nazaire, puis SONAPEC (Société nazairienne de peintures), 21, avenue de Penhouët, 44600 Saint-Nazaire, de 1981 à 2005.
 
 SONIP :
 
@@ -522,6 +520,8 @@ Entreprise DIMEA/SARL Constructions métaniques DIMEO 80, route de Marseille, 83
 
 Entreprise générale de travaux maritimes, Société nouvelle Besson et fils, 54, rue de la Joliette, 13002 Marseille : de 1948 à 1975.
 
+Entreprise générale de travaux maritimes et industriels, entreprise Théophile Oliva, 13, quai de la Tourette, 13002 Marseille, de sa création à 1986, Entreprise Joseph Oliva/Oliva Isolation, 94, avenue Roger-Salengro, 13003 Marseille, de 1965 à 1973.
+
 Entreprise Jacques Mogli Quartier Les Mouissèques 83500 La Seyne-sur-Mer De 1960 à 1985
 
 Entreprise Jean Negri et fils, 9, rue de Cyrnos, 13000 Marseille : de 1938 à 1948, puis 15, rue Saint-Cannat, 13002 Marseille : de mai 1948 à mars 1949, puis 5, rue Gilbert-Dru, 13002 Marseille : de mars 1949 à juin 1979, puis 400, chemin du Littoral, 13016 Marseille : de juin 1979 à 1997.
@@ -535,6 +535,8 @@ Entreprise Le Goff, puis Société de menuiserie agencements travaux équipement
 Entreprise méridionale de travaux/EMT. 22, boulevard Anatole-France La Ciotat et avenue Saint-Menet Marseille De 1969 à 1977
 
 Entreprise Morana Jean, puis Morana SA, puis SARL Morana, puis Chaudronnerie industrielle du littoral, puis Chaudronnerie métallerie méditerranéenne, quartier Vignelongue, route de Six-Fours, 83500 La Seyne-sur-Mer, puis ZI Camp-Laurent, avenue Marcel-Berne, 83500 La Seyne-sur-Mer : de 1963 à 1994.
+
+Entreprise Oliva François. 10, rue Hoche, 13003 Marseille. De 1965 à 1979.
 
 Entreprise Pidery, villa Le Grand Souffle, vallon de Graffiane, 13820 Ensuès-la-Redonne : de 1979 à 1980.
 
@@ -562,7 +564,7 @@ EPMI :
 
 - porte 4, base technique Nord, chemin du Littoral, 13002 Marseille : depuis 1990.
 
-Essor naval du Midi, puis Société d'étude de Carène, boulevard de la Corse-Résistante, 83500 La Seyne-sur-Mer, puis Port-Pin-Rolland, 18, chemin Départemental, 83430 Saint-Mandrier : de 1940 à 1980.
+Essor naval du Midi, puis Société d'études de carènes, boulevard de la Corse-Résistante, 83500 La Seyne-sur-Mer, puis port Pin-Rolland, 18, chemin départemental, 83430 Saint-Mandrier, de 1940 à 1990.
 
 Etablissement Barletta / Toulon Récupération puis Profema Port de commerce de Brégaillon 83500 La Seyne-sur-Mer De 1950 à 1984
 
@@ -756,10 +758,6 @@ Nouvelle société provençale de remorquage :
 
 - rue de Forbin, 13002 Marseille : de 1950 à 1992.
 
-Oliva Joseph/Oliva Théophile :
-
-- 94, avenue Roger-Salengro, 13003 Marseille : de 1965 à 1981.
-
 Ortec, puis Ortec Méca, puis Friedlander, puis Ortec Buzichelli et compagnie, puis Ortes Services industrie, 140, avenue L.-Lagrange, ZI Toulon-Est, 83088 Toulon Cedex : depuis 1990.
 
 Perez CTIM Boulevard Pèdre, 13000 Marseille De 1980 à 1990
@@ -801,6 +799,8 @@ Risolo :
 - 180, avenue du Rove, 13015 Marseille : depuis 1975.
 
 Riviera yacht services/SA chantier naval de Saint-Laurent-du-Var/SA Monaco marine France, port de plaisance, 06310 Beaulieu-sur-Mer : depuis 1969.
+
+Société anonyme Vaugrenier. ZI, route de Draguignan, 83490 Le Muy. De 1975 à 1986.
 
 SA Baumier frères, puis SA Baumier, avenue de Font-Pré prolongée, puis 1600, avenue de Draguignan, ZI Toulon-Est, 83079 Toulon Cedex : de 1970 à 1984.
 
@@ -1042,6 +1042,8 @@ Société Sonocar Industrie, zone portuaire de Brégaillon, avenue de la Ire-Arm
 
 SODIEC/SAMODIA, route nationale 113, quartier du Repos, 13741 Vitrolles : de 1966 à 1982.
 
+SOGETRIM. 19 A, rue Venture, 13001 Marseille, et 13, quai de la Tourette, 13002 Marseille. De 1976 à 1986.
+
 SOMAC :
 
 - enceinte portuaire, porte 4, Mourepiane, BP 133, 13016 Marseille : depuis 1993.
@@ -1164,6 +1166,10 @@ BFA :
 
 IMC, route de Surgère, 17430 Tonnay-Charente : de 1978 à 1990.
 
+Les ateliers de la Charente. Chemin des Portes, 17430 Tonnay-Charente. De 1961 à 1977.
+
+SA Pochon. Avenue Michel-Crépeau, 17000 La Rochelle. De 1972 à 1988.
+
 SARL rochelaise d'isolation (SRI), 15, rue Joseph-Cugnot, 17180 Périgny : de 1977 à 1992.
 
 Seta-Tardivel, rue de la Côte-d'Ivoire, 17000 La Rochelle-Pallice : depuis sa création.
@@ -1171,6 +1177,8 @@ Seta-Tardivel, rue de la Côte-d'Ivoire, 17000 La Rochelle-Pallice : depuis sa c
 Société nouvelle radio maritime 47, rue Saint-Claude, 17000 La Rochelle (siège social : chemin du littoral BATA, Maurepiane port d'activité, 13001 Marseille Cedex 16, puis avenue Marillac, village informatique, 17008 La Rochelle Cedex (siège social : 4, route principale du port, 92230 Gennevilliers. Du 1er avril 1987 au 1er octobre 1992 puis du 1er octobre 1992 au 15 septembre 1999.
 
 STIMA (Société technique pour l'industrie et la marine), 16-20, rue de la Côte-d'Ivoire, 17000 La Rochelle-La Pallice : depuis 1958.
+
+Wartsilla France. La Combe, 17700 Surgères Cedex. De 1970 à 1995.
 
 Guyane
 

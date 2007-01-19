@@ -244,6 +244,8 @@ Ar C'Hanot :
 
 AR Electricité, 13, rue Alexis-Clairault, ZI Kergonan, 29200 Brest : depuis 1999.
 
+Armements Morvant SA. 51 bis, avenue de la Perrière, 56100 Lorient. De 1973 à 1983.
+
 Armor mécanique :
 
 - 5, rue de l'Ingénieur-Verrière, 56100 Lorient : depuis 1995.
@@ -301,6 +303,8 @@ Bastide SMNB, 14, rue Pont-Carré, 56100 Lorient : de 1959 à juin 2002 ; 8, rue
 Bernard Ateliers mécaniques navals industriels :
 
 - boulevard de la Compagnie-des-Indes, 56290 Port-Louis : depuis 1993.
+
+BERTHIN Pierre, SBEEE (Société bretonne d'équipements électriques et électroniques), 21, rue François-Le Levé, 56100 Lorient, puis rue Jean-Moulin, ZA de Kerdroual, 56270 Ploemeur, puis 3, boulevard Flandres-Dunkerque-1940, puis 2, rue Fulvy, puis 4, rue de l'Industrie, 56100 Lorient, depuis 1975.
 
 Biger Jean/Biger Moteurs marins :
 
@@ -404,6 +408,8 @@ CSEE, 8, rue Théodore-Botrel, 29200 Brest, puis 2, quai de la Douane, 29200 Bre
 
 CVB (chauffage et ventilation), rue de l'Eau-Blanche, puis rue de Maupertuis, 29200 Brest : de 1965 à 1988.
 
+DCI, branche NAVFCO, centre de Lorient naval arsenal. BP 35, puis rampe de la Chapelle, porte Gabrielle, 56100 Lorient. De 1972 à 1996.
+
 Depitre SA, rue de Montjaret-de-Kerjégu, ZIP, 29200 Brest, puis route du Vieux-Saint-Marc, 29200 Brest, puis route Alain-Colas, 29200 Brest : 1945 à 1987.
 
 DCN/Schneider Electrique :
@@ -415,6 +421,12 @@ Diougoant, 181, rue Lucien-Larnicol, 29760 Penmarc'h, et port de pêche, terre-p
 Dubigeon Normandie :
 
 - quai de l'Ouest, 29200 Brest : de 1950 à 1975.
+
+EBS (Electronique Bretagne Sud). 124, rue François-Perron, puis 399, rue Lucien-Le-Lay, puis 109, rue du Port, Saint-Guénolé, 29760 Penmarch. De 1990 à 1996.
+
+EBS (Electronique Bretagne Sud), 20, rue du Port, puis terre-plein du Port, 29750 Loctudy, depuis 1987.
+
+EBS (Electronique Bretagne Sud). 8, rue du Général-de-Gaulle, puis terre-plein du Port, 29730 Guilvinec. De 1993 à 1996.
 
 EGTIM :
 
@@ -630,23 +642,7 @@ De 1961 à 1981.
 
 Poly Alu Forge Cariou, terre-plein du Port, 29730 Le Guilvinec : depuis 1987
 
-SA Atelier mécanique Chavannes Merceron Ballery :
-
-- 9, rue du Professeur-Legendre, 29110 Concarneau : de 1959 à 1974 ;
-
-SA EBS, terre-plein du Port, 29750 Loctudy : depuis 1987.
-
-SA Etablissements Chavannes-Merceron-Ballery :
-
-- 9, rue du Professeur-Legendre, 29110 Concarneau : de 1974 à 1981 ;
-
 SARL Abiven/Heleu/EURL Heleu, Kérivin, 29290 Milizac, puis rue de l'Elorn, 29200 Brest : depuis 1980
-
-SARL Diesel Marine Bretagne :
-
-- 7, rue du Professeur-Legendre, 29110 Concarneau : de 1981 à 1986 ;
-
-SARL Diesel Marine Bretagne : de 1981 à 1985, puis Meca Diesel, 7, rue du Professeur-Legendre, 29110 Concarneau : depuis 1985.
 
 SARL Le Bras Jean-Paul, pont de la Corde, 29670 Henvic : de 1972 à 1997.
 
@@ -680,7 +676,7 @@ Peinture navale, puis Société Brestoise peinture navale, rue Chevillotte, 2920
 
 Pierre Glehen/Chantiers navals Pierre Glehen et fils, 51, rue Jean-Jaures, 29730 Le Guilvinec : depuis 1956.
 
-PIRIOU, Anse du Lin, 29110 Concarneau, de 1965 à 1972, et ZI du Moros, 29110 Concarneau : de 1972 à 2003.
+PIRIOU, anse du Lin, 29110 Concarneau, de 1965 à 1972. ZI du Moros, 29110 Concarneau, de 1972 à 2006
 
 PN (Peinture navale) : de 1959 à 1973, puis SLPN (Société lorientaise de peinture navale), 6 boulevard Jean-Pierre-Calloch, 56100 Lorient : depuis 1973.
 
@@ -692,13 +688,23 @@ Radio Océan Centre Atlantique. 34, avenue de la Libération, 29000 Quimper. De 
 
 Radio Océan Centre Allantique BP 168, route de Coray 29000 Quimper. De 1969 à 1990
 
+SA Atelier mécanique Chavannes-Merceron-Ballery, 9, rue du Professeur-Legendre, 29110 Concarneau, de 1959 à 1974.
+
+SA établissements Chavannes-Merceron-Ballery, 9, rue du Professeur-Legendre, 29110 Concarneau, de 1974 à 1981.
+
+SARL Diesel Marine Bretagne, 7, rue du Professeur-Legendre, 29110 Concarneau, de 1981 à 1985.
+
+Meca Diesel, 7, rue du Professeur-Legendre et quai Carnot, 29900 Concarneau, de 1985 à 2004.
+
+Meca Diesel, quai du Moros, rive droite, 29900 Concarneau, depuis 2004.
+
 SA Brestoise de La Perriere, rue de l'Elorn, 29200 Brest : de 1984 à 1985.
 
 SA EBS, terre-plein du Port, 29750 Loctudy : depuis 1987.
 
 SAF Soudure autogène française, puis SIL Société industrielle lorientaise, 17, rue Henri-Estier, 56100 Lorient : depuis 1945.
 
-SA MCTI, du Parco, 56700 Hennebont : depuis 1989
+SA MCTI, avenue Salvador-Allende, BP 26, puis rue Archimède, ZAC du Parco, BP 26, 56701 Hennebont Cedex, depuis 1989.
 
 SA Metalunox :
 
@@ -731,8 +737,6 @@ SARL Dourmap et Cie :
 - 127, rue de l'Ecole-Navale, 29200 Brest : depuis 1999.
 
 SARL Le Bras Jean-Paul, pont de la Corde, 29670 Henvic : de 1972 à 1997.
-
-SBEEE (Société bretonne d'équipements électriques et électroniques), 4, rue de l'Industrie, 56100 Lorient : depuis 1975.
 
 SCAM (Société concarnoise d'ateliers mécaniques), ZI du Moros, 29900 Concarneau : depuis 1950.
 
@@ -812,6 +816,8 @@ SOBEC, 14, rue Amiral-Troude, 29200 Brest, puis 170, rue de l'Elorn, 29200 Brest
 
 SOBIME (Société bigouden de mécanique), rue du Port, 29730 Le Guilvinec : de 1973 à 1991.
 
+Sobrelec (Société brestoise de constructions électroniques). ZI du Vernis, Sainte-Anne du Portzic, 29200 Brest. De 1973 à 1983.
+
 SOCAP :
 
 - 127, avenue Ecole-Navale, 29200 Brest : depuis 1986.
@@ -874,7 +880,7 @@ Société lorientaise de pose :
 
 - 15, rue du Graindorge, 56600 Lanester : de 1982 à 1997.
 
-Société mécanique et de chaudronnerie ZI Ty Mor, 56700 Hennebont. De 1958 à 1983
+Société mécanique et de chaudronnerie, 16, rue Victor-Hugo, puis 14, rue Pierre-Maël, puis 16, rue Poissonnerie, puis 4, rue Jules-Guesde, 56100 Lorient, puis ZI du Ty-Mor, 56700 Hennebont, de 1958 à 1983.
 
 Société Merlin Gerin/société Schneider Electric service marine, bâtiment La Caravelle, 2, quai de la Douane, 29604 Brest Cedex : depuis 1970.
 
@@ -1026,9 +1032,9 @@ Atelier Duchêne Bossiere et Augustin Normand :
 
 - Société nouvelle des ateliers et chantiers du Havre (SNACH) : de 1971 à 1996.
 
-Ateliers et chantiers de Normandie/AFO/ARNO :
+Ateliers et chantiers de Normandie AFO/ARNO, 76120 Le Grand-Quevilly,
 
-- 76140 Le Grand-Quevilly : depuis 1955.
+depuis 1955.
 
 Ateliers et chantiers du Havre Duchêne Boissière et Augustin Normand/Ateliers et chantiers du Havre/Société nouvelle des ateliers et chantiers du Havre/ACH Construction navale, 76000 Le Havre : depuis 1966.
 
@@ -1194,6 +1200,8 @@ SERMI :
 
 - 76600 Le Havre : depuis 1960.
 
+Service des bacs et passage d'eau du conseil général, hôtel du département. Quai Jean-Moulin, 76101 Rouen Cedex 1. De 1947 à 1996.
+
 Service technique de l'outillage, des ateliers et centre d'activité de la réparation navale et du dragage du Port autonome de Rouen, 34, boulevard , BP 4075, 76100 Rouen : de 1947 à 1997.
 
 Service technique de l'outillage, des ateliers et centre d'activité de la réparation navale et du dragage du Port autonome du Havre, 76600 Le Havre : depuis 1947.
@@ -1224,11 +1232,13 @@ STIT :
 
 STPS, 399, rue des Chantiers, 76600 Le Havre : depuis 1974.
 
+STRAM (Société de travaux mécaniques). Quai de Seine, 76600 Le Havre. De 1978 à 1991.
+
 TIM :
 
 - 2, rue de la Vallée, 76600 Le Havre : depuis 1992.
 
-TMT Industrie Le Havre ZI, 76430 Saint-Vigor-d'Ymonville. Depuis sa création.
+TMT Industrie Le Havre, ZI, 76430 Saint-Vigor-d'Ymonville, de sa création à 2000.
 
 TMT/TMTM, 76600 Le Havre, et 76170 Lillebonne : depuis 1950 ; puis TMT SA : 76600 Le Havre, et chemin de la Darse, 76170 Lillebonne : à partir du 1er novembre 2001.
 
@@ -1440,7 +1450,7 @@ CMME (Constructions métalliques mécaniques Travaux d'entretien ), route de Bou
 
 Consortium de l'ommium peinture et de travaux maritimes et terrestres (COPTMT). 3, rue de l'Ecole-maternelle, 59140 Dunkerque
 
-CMP Dunkerque : avenue de la Gironde, 59140 Dunkerque et CMP usine de Mardyck 59279 Loon-Plage depuis 1967.
+CMP Dunkerque, avenue de la Gironde, 59140 Dunkerque et CMP usine de Mardyck 59279 Loon-Plage de 1967 à 2005.
 
 CRM (Compagnie radio maritime). Môle 1, quai Freycinet, 59140 Dunkerque, et quai des Hollandais, 59140 Dunkerque, et rue des Poilus, 59153 Grand-Fort-Philippe. De 1957 à 1987.
 
