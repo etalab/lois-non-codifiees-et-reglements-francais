@@ -1,5 +1,3 @@
 # Article 26
 
-Le mandat du premier directeur nommé en application de l'article 11 du présent décret prendra fin le 31 juillet 1995.
-
-A titre transitoire, jusqu'à la constitution du conseil d'administration et jusqu'à la nomination du président du conseil d'administration, il exerce leurs compétences respectives pour les actes relatifs à la gestion courante de l'établissement.
+Les dispositions du présent décret peuvent être modifiées par décret en Conseil d'Etat, à l'exception de celles de l'article 10 en tant qu'il prévoit la durée du mandat du président du conseil d'administration et sa nomination en conseil des ministres, de l'article 11 en tant qu'il prévoit la durée du mandat du directeur et sa nomination en conseil des ministres et de l'article 12 en tant qu'il prévoit la nomination du directeur délégué par décret.

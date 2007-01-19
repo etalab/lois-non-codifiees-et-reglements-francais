@@ -2,14 +2,14 @@
 
 Les charges de l'établissement comprennent :
 
-1° La rémunération du personnel ;
+1° Les frais de personnel ;
 
-2° Les frais d'exploitation et de publicité ;
+2° Les frais de fonctionnement ;
 
-3° les frais de mise en scène, de confection et d'entretien des décors, costumes et accessoires ;
+3° Les frais de mise en scène, de confection et d'entretien des décors, costumes et accessoires ;
 
-4° Les dépenses d'entretien des locaux et des matériels ;
+4° Les dépenses d'acquisition de biens mobiliers et immobiliers ;
 
-5° Les dépenses d'équipement ;
+5° Les dépenses d'entretien des locaux dans les conditions fixées par les textes de remise en dotation et les dépenses d'entretien des matériels ;
 
-6° Les impôts et contributions de toute nature.
+6° Toute autre dépense nécessaire à l'accomplissement de ses missions.

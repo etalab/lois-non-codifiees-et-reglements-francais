@@ -6,11 +6,11 @@ Le conseil d'administration délibère sur :
 
 2° L'organisation générale des services ;
 
-3° L'état prévisionnel de recettes et de dépenses et les décisions modificatives ;
+3° L'état prévisionnel des recettes et des dépenses et les décisions modificatives ;
 
 4° Les règlements intérieurs, le rapport annuel d'activité, le compte financier et l'affectation des résultats de l'exercice ;
 
-5° La programmation des spectacles qui doit lui être présentée un an au moins avant le début de la saison concernée ;
+5° La programmation des spectacles qui doit lui être présentée un an avant le début de la saison artistique concernée, qui s'entend de la période comprise entre le 1er août de chaque année et le 31 juillet de l'année suivante ;
 
 6° La politique tarifaire ;
 
@@ -18,16 +18,20 @@ Le conseil d'administration délibère sur :
 
 8° Le règlement financier ;
 
-9° Les modalités générales de passation, de financement et de contrôle des marchés ;
+9° Les modalités générales de passation et d'exécution des marchés ;
 
-10° L'achat et la vente d'immeubles, la constitution et le nantissement d'hypothèques, les baux et les renouvellements de baux ;
+10° L'achat et la vente d'immeubles, la constitution d'hypothèques, les baux et renouvellement de baux, les conventions d'occupation domaniale d'une durée supérieure à cinq ans ;
 
-11° L'acceptation des dons et legs ;
+11° Les délégations de service public d'une durée supérieure à cinq ans ;
 
-12° L'exercice des actions en justice et les transactions.
+12° L'acceptation des dons et legs ;
 
-Les délibérations du conseil d'administration sont transmises aux ministres chargés de la culture et du budget et, dans la limite de ses attributions, au ministre chargé de l'économie. Elles deviennent exécutoires quinze jours après leur réception par ceux-ci, à défaut d'opposition expresse de leur part.
+13° L'exercice des actions en justice ;
 
-Toutefois, les délibérations visées aux 3°, 7°, 8° et 9° du présent article doivent, pour devenir exécutoires, faire l'objet d'une approbation expresse du ministre chargé de la culture, du ministre chargé du budget et, dans la limite de ses attributions, du ministre chargé de l'économie.
+14° Les transactions.
+
+Le conseil d'administration peut, dans les conditions qu'il détermine, déléguer les compétences mentionnées au 13° et au 14° à son président ou au directeur de l'établissement. Le président ou le directeur rendent compte, lors de la séance la plus proche du conseil d'administration, des décisions prises dans le cadre des délégations qui leur sont consenties.
+
+Les délibérations du conseil d'administration sont transmises aux ministres chargés de la culture et du budget. Elles deviennent exécutoires quinze jours après leur réception par ceux-ci, à défaut d'opposition expresse de leur part.
 
 Le conseil d'administration donne son avis sur toute question sur laquelle le ministre chargé de la culture le consulte.

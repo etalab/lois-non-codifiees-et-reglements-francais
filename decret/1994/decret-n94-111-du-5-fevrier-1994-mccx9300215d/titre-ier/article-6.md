@@ -1,3 +1,3 @@
 # Article 6
 
-Les fonctions de membre du conseil d'administration ouvrent droit aux indemnités de déplacement et de séjour prévues par le décret du 28 mai 1990 susvisé.
+Les membres du conseil d'administration exercent leurs fonctions à titre gratuit. Toutefois, leurs frais de déplacement et de séjour peuvent être remboursés dans les conditions prévues par la réglementation applicable aux fonctionnaires de l'Etat.
