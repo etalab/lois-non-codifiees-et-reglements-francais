@@ -86,6 +86,7 @@
 - [Décret n°2006-305 du 16 mars 2006 (EQUR0600463D)](decret-n2006-305-du-16-mars-2006-equr0600463d)
 - [Décret n°2006-703 du 16 juin 2006 (SANA0622518D)](decret-n2006-703-du-16-juin-2006-sana0622518d)
 - [Décret n°2007-61 du 16 janvier 2007 (ECOM0620017D)](decret-n2007-61-du-16-janvier-2007-ecom0620017d)
+- [Décret n° 2007-64 du 17 janvier 2007 (MCCX0600191D)](decret-n-2007-64-du-17-janvier-2007-mccx0600191d)
 - [Décret n°2008-576 du 17 juin 2008 (DEVA0810533D)](decret-n2008-576-du-17-juin-2008-deva0810533d)
 - [Décret n°2008-577 du 17 juin 2008 (DEVA0810536D)](decret-n2008-577-du-17-juin-2008-deva0810536d)
 - [Décret n°96-839 du 17 septembre 1996 (ECOX9601678D)](decret-n96-839-du-17-septembre-1996-ecox9601678d)
