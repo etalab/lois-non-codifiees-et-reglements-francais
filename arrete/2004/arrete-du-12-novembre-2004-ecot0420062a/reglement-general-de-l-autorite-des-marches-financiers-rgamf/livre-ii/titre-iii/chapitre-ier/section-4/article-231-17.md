@@ -1,6 +1,6 @@
 # Article 231-17
 
-La société visée peut, dès la publication du communiqué mentionné au III de l'article 231-16, publier un communiqué aux fins de faire connaître l'avis de son conseil d'administration ou de son conseil de surveillance ou, dans le cas d'une société étrangère, de l'organe compétent, sur l'intérêt de l'offre ou sur les conséquences de celle-ci pour la société visée, ses actionnaires et ses salariés.
+La société visée peut, dès la publication du communiqué mentionné au III de l'article 231-16, publier un communiqué, selon les modalités fixées à l'article 221-3, aux fins de faire connaître l'avis de son conseil d'administration ou de son conseil de surveillance ou, dans le cas d'une société étrangère, de l'organe compétent, sur l'intérêt de l'offre ou sur les conséquences de celle-ci pour la société visée, ses actionnaires et ses salariés.
 
 Ce communiqué mentionne, s'il y a lieu, les conclusions du rapport de l'expert indépendant désigné en application de l'article 261-1. Lorsque ce communiqué est publié préalablement à la remise du rapport de l'expert indépendant, la société visée publie un nouveau communiqué, dès la publication de ce rapport, qui mentionne les conclusions du rapport de l'expert indépendant et fait connaître l'avis motivé des membres des organes sociaux mentionnés au premier alinéa.
 

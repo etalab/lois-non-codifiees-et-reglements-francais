@@ -1,4 +1,6 @@
 # TITRE II : Information périodique et permanente
 
-- [Chapitre Ier : Information périodique](chapitre-ier)
-- [Chapitre II : Information permanente](chapitre-ii)
+- [Chapitre Ier : Dispositions communes et diffusion
+de l'information réglementée](chapitre-ier)
+- [Chapitre II : Information périodique](chapitre-ii)
+- [Chapitre III : Information permanente](chapitre-iii)

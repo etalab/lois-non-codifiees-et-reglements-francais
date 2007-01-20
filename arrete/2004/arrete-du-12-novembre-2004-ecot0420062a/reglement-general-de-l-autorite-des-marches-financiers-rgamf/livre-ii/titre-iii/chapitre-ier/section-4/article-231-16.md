@@ -8,6 +8,6 @@ Le projet de note d'information est également publié sur le site de l'initiate
 
 II. - Dans tous les cas, une copie du projet de note d'information doit être adressée sans frais à toute personne qui en fait la demande.
 
-III. - Le projet d'offre fait l'objet, au plus tard lors de son dépôt à l'AMF, d'un communiqué dont l'initiateur s'assure de la diffusion effective et intégrale. Ce communiqué donne les principaux éléments du projet de note d'information et précise les modalités de mise à disposition du projet de note d'information.
+III. - Le projet d'offre fait l'objet, au plus tard lors de son dépôt à l'AMF, d'un communiqué dont l'initiateur s'assure de la diffusion selon les modalités fixées à l'article 221-3. Ce communiqué donne les principaux éléments du projet de note d'information et précise les modalités de mise à disposition du projet de note d'information.
 
 IV. - Le projet de note d'information et le communiqué mentionné au III comportent la mention : "Cette offre et le projet de note d'information restent soumis à l'examen de l'AMF.

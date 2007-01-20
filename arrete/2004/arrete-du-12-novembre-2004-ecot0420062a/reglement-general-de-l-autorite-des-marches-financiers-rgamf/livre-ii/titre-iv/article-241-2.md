@@ -1,6 +1,6 @@
 # Article 241-2
 
-I. - Préalablement à la réalisation d'un programme de rachat de ses titres, tout émetteur publie, selon les modalités fixées à l'article 212-13, le descriptif du programme qui comprend :
+I. - Préalablement à la réalisation d'un programme de rachat de ses titres, tout émetteur publie, selon les modalités fixées à l'article 221-3, le descriptif du programme qui comprend :
 
 1° La date de l'assemblée générale des actionnaires qui a autorisé le programme de rachat ou qui est appelée à l'autoriser ;
 
@@ -16,4 +16,4 @@ I. - Préalablement à la réalisation d'un programme de rachat de ses titres, t
 
 7° Les opérations effectuées, par voie d'acquisition, de cession ou de transfert, sur un marché réglementé ou hors marché, en distinguant, conformément au tableau de déclaration synthétique figurant dans une instruction de l'AMF, les opérations effectuées au comptant et par l'utilisation de produits dérivés, et les positions ouvertes, dans le cadre du précédent programme de rachat jusqu'au jour de la publication du descriptif du programme.
 
-II. - Pendant la réalisation du programme de rachat, toute modification significative de l'une des informations énumérées au I doit être portée, le plus tôt possible, à la connaissance du public selon les modalités fixées à l'article 212-13.
+II. - Pendant la réalisation du programme de rachat, toute modification significative de l'une des informations énumérées au I doit être portée, le plus tôt possible, à la connaissance du public selon les modalités fixées à l'article 221-3.

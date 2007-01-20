@@ -1,5 +1,5 @@
-# Section 2 : Franchissements de seuils, déclarations d'intention et changements d'intention
+# Section 2 : Autres informations
 
-- [Sous-section 1 : Franchissements de seuils](sous-section-1)
-- [Sous-section 2 : Informations relatives au nombre total de droits de vote et d'actions composant le capital](sous-section-2)
-- [Sous-section 3 : Déclarations d'intention et changements d'intention](sous-section-3)
+- [Article 222-7](article-222-7.md)
+- [Article 222-8](article-222-8.md)
+- [Article 222-9](article-222-9.md)

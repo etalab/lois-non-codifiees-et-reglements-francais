@@ -2,7 +2,7 @@
 
 I. - Tout émetteur pour lequel un programme de rachat de ses titres est en cours de réalisation :
 
-1° Informe le marché de toutes les opérations effectuées dans le cadre du programme de rachat au plus tard le septième jour de négociation suivant leur date d'exécution. Ces informations, établies selon les modalités précisées dans une instruction de l'AMF, doivent faire l'objet d'un communiqué qui est mis en ligne sur le site de l'AMF et sur le site de l'émetteur lorsque celui-ci dispose d'un tel site ;
+1° Informe le marché de toutes les opérations effectuées dans le cadre du programme de rachat au plus tard le septième jour de négociation suivant leur date d'exécution. Ces informations, établies selon les modalités précisées dans une instruction de l'AMF, sont mises en ligne sur le site de l'émetteur ;
 
 2° Informe l'AMF selon une périodicité qui ne peut être supérieure à un mois :
 
