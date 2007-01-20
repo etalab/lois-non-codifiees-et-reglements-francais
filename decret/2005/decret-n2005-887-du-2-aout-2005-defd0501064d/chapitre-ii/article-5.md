@@ -6,11 +6,11 @@ Le conseil d'administration comprend, outre son président :
 
 a) Au titre du ministère de la défense :
 
+- le secrétaire général pour l'administration ou son représentant ;
+
 - le directeur du service national ou son représentant ;
 
-- le directeur de la fonction militaire et du personnel civil ou son représentant ;
-
-- un directeur du personnel militaire ou son représentant.
+- le directeur de la fonction militaire et du personnel civil ou son représentant.
 
 b) Au titre du ministère chargé de l'emploi :
 

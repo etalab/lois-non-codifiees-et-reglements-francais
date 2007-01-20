@@ -14,4 +14,4 @@ Le directeur général dirige l'établissement public dans le cadre des orientat
 
 6° La représentation de l'établissement en justice et dans tous les actes de la vie civile ainsi que dans ses rapports avec les tiers.
 
-Il peut déléguer au directeur adjoint une partie de ses compétences.
+Il peut déléguer aux directeurs adjoints une partie de ses compétences.
