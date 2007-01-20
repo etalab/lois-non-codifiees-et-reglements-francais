@@ -1,0 +1,3 @@
+# Article 3
+
+Lorsque le comité des établissements de crédit et des entreprises d'investissement, après avis du ministre chargé du travail, refuse de communiquer aux autorités compétentes de l'Etat d'accueil concerné le dossier mentionné aux deuxièmes alinéas des articles 1er et 2, il en avise l'administrateur d'institutions de retraite professionnelle concerné et lui fait connaître, dans les délais mentionnés, selon le cas au quatrième alinéa de l'article 1er ou au deuxième alinéa de l'article 2, les raisons de ce refus. Il en avise également en tant que de besoin les autorités compétentes de l'Etat membre ou de l'Etat partie concerné.
