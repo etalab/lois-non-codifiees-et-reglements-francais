@@ -51,6 +51,7 @@
 - [Décret n°2005-1429 du 18 novembre 2005 (ECOP0500907D)](decret-n2005-1429-du-18-novembre-2005-ecop0500907d)
 - [Décret n°2005-383 du 18 avril 2005 (DEFD0500466D)](decret-n2005-383-du-18-avril-2005-defd0500466d)
 - [Décret n°2005-1304 du 19 octobre 2005 (INTA0500292D)](decret-n2005-1304-du-19-octobre-2005-inta0500292d)
+- [Décret n°2005-368 du 19 avril 2005 (AGRD0500695D)](decret-n2005-368-du-19-avril-2005-agrd0500695d)
 - [Décret n°2005-819 du 19 juillet 2005 (JUSK0540002D)](decret-n2005-819-du-19-juillet-2005-jusk0540002d)
 - [Décret du 20 octobre 2005 (AGRP0502060D)](decret-du-20-octobre-2005-agrp0502060d)
 - [Décret n°2005-1298 du 20 octobre 2005 (ECOX0500205D)](decret-n2005-1298-du-20-octobre-2005-ecox0500205d)

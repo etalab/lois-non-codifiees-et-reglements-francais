@@ -1,9 +1,0 @@
-# Article 5
-
-En cas de dissolution d'une caisse locale de crédit agricole prévue à l'article 20 de la loi du 5 août 1920, remplacé par l'article 2 de la loi du 9 août 1926, le ministre de l'agriculture ne peut refuser d'approuver la décision prise par l'assemblée générale que si l'institution ou les institutions désignées pour recevoir l'excédent d'actif de la caisse dissoute ne sont pas une des institutions ci-après désignées : caisses de crédit agricole mutuel, caisse nationale de crédit agricole, syndicats agricoles ou unions de syndicats agricoles, institutions visées à l'article 22 de la loi du 5 août 1920, caisses d'assurance ou de réassurance mutuelle agricole, offices départementaux ou régionaux agricoles.
-
-Si une caisse locale dissoute n'a pas statué sur l'attribution de son excédent d'actif, la caisse régionale à laquelle cette caisse locale était affiliée le notifie à la caisse nationale de crédit agricole.
-
-Après une mise en demeure adressée à la société dissoute d'avoir à prendre une décision dans le délai d'un mois, le ministre de l'agriculture, s'il n'a pas été déféré à cette mise en demeure, désigne, après avis de la caisse régionale intéressée l'institution appelée à recevoir ledit excédent d'actif en la choisissant parmi celles qui sont énumérées au paragraphe 1er du présent article.
-
-En cas de dissolution d'une caisse régionale de crédit agricole, le reliquat de l'actif de la caisse dissoute placé en dépôt à la caisse nationale de crédit agricole, conformément aux dispositions de l'article 2 de la loi du 9 août 1926, sera mis à la disposition de la nouvelle caisse régionale qui se créera dans le département, à la condition que celle-ci soit constituée conformément aux prescriptions de la loi du 5 août 1920 et des lois ou règlements qui l'auront complétées.
