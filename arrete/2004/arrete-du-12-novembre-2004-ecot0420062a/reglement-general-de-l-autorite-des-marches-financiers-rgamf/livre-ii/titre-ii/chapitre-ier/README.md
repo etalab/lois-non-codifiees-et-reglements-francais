@@ -1,8 +1,6 @@
 # Chapitre Ier : Dispositions communes et diffusion
 de l'information réglementée
 
-- [Section 1 : Information comptable et financière](section-1)
-- [Section 2 : Informations relatives au gouvernement d'entreprise et au contrôle interne](section-2)
 - [Article 221-1](article-221-1.md)
 - [Article 221-2](article-221-2.md)
 - [Article 221-3](article-221-3.md)
