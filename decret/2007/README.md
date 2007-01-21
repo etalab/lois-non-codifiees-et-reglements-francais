@@ -38,6 +38,7 @@
 - [Décret n°2006-1545 du 7 décembre 2006 (EQUP0601569D)](decret-n2006-1545-du-7-decembre-2006-equp0601569d)
 - [Décret n°2006-1546 du 7 décembre 2006 (SANX0600153D)](decret-n2006-1546-du-7-decembre-2006-sanx0600153d)
 - [Décret n°2006-1558 du 7 décembre 2006 (JUSB0610565D)](decret-n2006-1558-du-7-decembre-2006-jusb0610565d)
+- [Décret n°81-317 du 7 avril 1981](decret-n81-317-du-7-avril-1981)
 - [Décret n° 2007-32 du 8 janvier 2007 (SOCA0625041D)](decret-n-2007-32-du-8-janvier-2007-soca0625041d)
 - [Décret n° 2007-33 du 8 janvier 2007 (DEVP0630044D)](decret-n-2007-33-du-8-janvier-2007-devp0630044d)
 - [Décret n° 2007-34 du 8 janvier 2007 (MENS0603221D)](decret-n-2007-34-du-8-janvier-2007-mens0603221d)
