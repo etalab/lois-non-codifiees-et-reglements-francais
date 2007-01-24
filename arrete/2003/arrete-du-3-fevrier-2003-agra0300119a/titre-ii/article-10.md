@@ -4,17 +4,7 @@ Il est institué auprès du directeur de chaque établissement d'enseignement pu
 
 Ce comité technique paritaire central a compétence pour connaître, dans le cadre des dispositions du titre III du décret du 28 mai 1982 susvisé, de toutes les questions intéressant l'établissement d'enseignement supérieur dans lequel il est institué.
 
-La liste des établissements d'enseignement public supérieur mentionnés à l'article R. 812-2 du code rural, auprès desquels sont placés les comités techniques paritaires centraux, est la suivante :
-
-Ecole nationale du génie rural, des eaux et des forêts ;
-
-Institut national agronomique Paris-Grignon ;
-
-Ecole nationale supérieure agronomique de Montpellier ;
-
-Ecole nationale supérieure agronomique de Rennes ;
-
-Institut national supérieur de formation agroalimentaire de Rennes ;
+La liste des établissements d'enseignement public supérieur mentionnés à l'article R. 812-1 du code rural, auprès desquels sont placés les comités techniques paritaires centraux, est la suivante :
 
 Ecole nationale vétérinaire d'Alfort ;
 
@@ -23,8 +13,6 @@ Ecole nationale vétérinaire de Lyon ;
 Ecole nationale vétérinaire de Nantes ;
 
 Ecole nationale vétérinaire de Toulouse ;
-
-Ecole nationale supérieure des industries agricoles et alimentaires de Massy ;
 
 Etablissement national d'enseignement supérieur agronomique de Dijon ;
 
@@ -42,4 +30,8 @@ Ecole nationale d'ingénieurs des techniques des industries agricoles et agroali
 
 Ecole nationale du génie de l'eau et de l'environnement de Strasbourg ;
 
-Centre national d'études agronomiques des régions chaudes.
+Institut des sciences et industries du vivant et de l'environnement (Agro Paris Tech) ;
+
+Centre international d'études supérieures en sciences agronomiques (Montpellier Sup Agro) ;
+
+Institut national supérieur d'enseignement supérieur et de recherche agronomique et agroalimentaire de Rennes (Agrocampus Rennes).
