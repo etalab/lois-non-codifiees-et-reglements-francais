@@ -56,6 +56,7 @@
 - [Décret n° 2007-46 du 10 janvier 2007 (SANH0625032D)](decret-n-2007-46-du-10-janvier-2007-sanh0625032d)
 - [Décret n° 2007-47 du 10 janvier 2007 (SANH0625033D)](decret-n-2007-47-du-10-janvier-2007-sanh0625033d)
 - [Décret n°2006-1367 du 10 novembre 2006 (SOCX0609647D)](decret-n2006-1367-du-10-novembre-2006-socx0609647d)
+- [Décret n°96-389 du 10 mai 1996 (PRMX9601499D)](decret-n96-389-du-10-mai-1996-prmx9601499d)
 - [Décret n° 2007-44 du 11 janvier 2007 (BUDB0610020D)](decret-n-2007-44-du-11-janvier-2007-budb0610020d)
 - [Décret n° 2007-49 du 11 janvier 2007 (SANX0600145D)](decret-n-2007-49-du-11-janvier-2007-sanx0600145d)
 - [Décret n° 2007-50 du 11 janvier 2007 (SANS0624744D)](decret-n-2007-50-du-11-janvier-2007-sans0624744d)
