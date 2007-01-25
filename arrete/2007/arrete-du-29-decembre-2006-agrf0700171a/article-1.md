@@ -1,0 +1,5 @@
+# Article 1
+
+Tout tracteur défini à l'article 1er de la directive 89/173/CEE du Conseil du 21 décembre 1988 susvisée modifiée en dernier lieu par la directive 2006/26/CE de la Commission du 2 mars 2006, bénéficie de la réception CE partielle définie par le décret du 30 septembre 2005 susvisé en ce qui concerne la protection des éléments moteurs, des parties saillantes et des roues, s'il répond aux prescriptions de ladite directive.
+
+Tout tracteur défini à l'article 1er de la directive du Conseil 89/173/CEE du 21 décembre 1988 susvisée, modifiée en dernier lieu par la directive 2006/26/CE du 2 mars 2006, bénéficie de la réception CE partielle définie par le décret du 30 septembre 2005 susvisé en ce qui concerne les liaisons mécaniques entre les tracteurs et les véhicules remorqués, compte tenu de la charge verticale au point d'attelage, si ces liaisons ont obtenu l'homologation CE mentionnée à l'article 2 ci-dessous et que les conditions d'octroi de la réception CE partielle des tracteurs, prévues par ladite directive, ont été respectées.

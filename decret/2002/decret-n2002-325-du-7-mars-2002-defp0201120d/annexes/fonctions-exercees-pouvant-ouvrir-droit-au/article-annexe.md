@@ -6,7 +6,7 @@
 
 3. Directeur général de la gendarmerie nationale.
 
-4. Directeur d'administration centrale, délégué d'un organisme de l'administration centrale, délégué interministériel aux restructurations du ministère de la défense.
+4. Directeur d'administration centrale, délégué d'un organisme de l'administration centrale, délégué interministériel aux restructurations du ministère de la défense, adjoint au délégué général pour l'armement, directeur.
 
 5. Chef de service en charge d'un service de l'administration centrale.
 
