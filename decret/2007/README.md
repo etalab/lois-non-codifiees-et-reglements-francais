@@ -124,6 +124,7 @@
 - [Décret n°2007-1512 du 22 octobre 2007 (DEVA0758114D)](decret-n2007-1512-du-22-octobre-2007-deva0758114d)
 - [Décret n°2007-1513 du 22 octobre 2007 (DEVA0758733D)](decret-n2007-1513-du-22-octobre-2007-deva0758733d)
 - [Décret n°2007-1514 du 22 octobre 2007 (DEVA0759337D)](decret-n2007-1514-du-22-octobre-2007-deva0759337d)
+- [Décret n°89-1018 du 22 décembre 1989 (MERP8900039D)](decret-n89-1018-du-22-decembre-1989-merp8900039d)
 - [Décret du 23 décembre 2006 (INDI0609292D)](decret-du-23-decembre-2006-indi0609292d)
 - [Décret n° 2007-76 du 23 janvier 2007 (INTA0700012D)](decret-n-2007-76-du-23-janvier-2007-inta0700012d)
 - [Décret n° 2007-81 du 23 janvier 2007 (ECOT0751002D)](decret-n-2007-81-du-23-janvier-2007-ecot0751002d)
