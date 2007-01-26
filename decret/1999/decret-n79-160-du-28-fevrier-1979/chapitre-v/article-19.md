@@ -1,3 +1,3 @@
 # Article 19
 
-Les dispositions du présent décret et les dispositions du code électoral mentionnées à l'article 1er sont applicables dans les territoires d'outre-mer, en Nouvelle-Calédonie et dans les collectivités territoriales de Saint-Pierre-et-Miquelon et de Mayotte dans les conditions fixées aux articles ci-après.
+Les dispositions du présent décret et celles du code électoral auxquelles il renvoie sont applicables dans leur rédaction en vigueur à la date du décret n° 2007-99 du 25 janvier 2007 en Polynésie française, dans les îles Wallis et Futuna et en Nouvelle-Calédonie.
