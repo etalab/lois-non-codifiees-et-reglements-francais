@@ -16,7 +16,15 @@ d) Bénéficiaires d'une autorisation de regroupement familial ;
 
 e) Personnes mentionnées aux 5° à 9° de l'article 20 ;
 
-f) Travailleurs autorisés à exercer une activité professionnelle salariée dans le territoire ;
+f) Travailleurs autorisés à exercer une activité professionnelle salariée dans le territoire.
+
+La demande d'un visa pour un séjour d'une durée supérieure à trois mois donne lieu à la délivrance par les autorités diplomatiques et consulaires d'un récépissé indiquant la date du dépôt de la demande.
+
+Le visa mentionné à l'article 6-1 ne peut être refusé à un conjoint de Français qu'en cas de fraude, d'annulation du mariage ou de menace à l'ordre public.
+
+Les autorités diplomatiques et consulaires sont tenues de statuer sur la demande de visa de long séjour formée par le conjoint de Français dans les meilleurs délais.
+
+Lorsque la demande de visa de long séjour émane d'un étranger entré régulièrement dans les îles Wallis et Futuna, marié sur le territoire de la République avec un ressortissant de nationalité française et que le demandeur séjourne dans les îles Wallis et Futuna depuis plus de six mois avec son conjoint, la demande de visa de long séjour est présentée à l'administrateur supérieur ;
 
 2° Sous réserve des conventions internationales, du justificatif d'hébergement prévu à l'article 5-1, s'il est requis, et des autres documents prévus par décret en Conseil d'Etat relatifs, d'une part, à l'objet et aux conditions de son séjour et, d'autre part, s'il y a lieu, à ses moyens d'existence, à la prise en charge par un opérateur d'assurance agréé des dépenses médicales et hospitalières, y compris d'aide sociale, résultant de soins qu'il pourrait engager dans les îles Wallis et Futuna, ainsi qu'aux garanties de son rapatriement ;
 

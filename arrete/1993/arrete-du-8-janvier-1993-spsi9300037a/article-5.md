@@ -1,3 +1,3 @@
 # Article 5
 
-Le chef du service des statistiques, des études et des systèmes d'information est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+La directrice de la recherche, des études, de l'évaluation et des statistiques est chargée de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.

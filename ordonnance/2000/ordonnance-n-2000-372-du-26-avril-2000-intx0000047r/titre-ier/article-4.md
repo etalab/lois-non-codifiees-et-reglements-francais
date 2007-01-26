@@ -20,6 +20,14 @@ f) Travailleurs autorisés à exercer une activité professionnelle salariée en
 
 g) Etudiants venant en Polynésie française pour y suivre des études supérieures, dans un établissement public ou privé d'enseignement reconnu soit par l'Etat, soit par le gouvernement de la Polynésie française, dans des conditions définies par arrêté conjoint du ministre de l'intérieur, du ministre chargé de l'enseignement supérieur et du ministre chargé de l'outre-mer ;
 
+La demande d'un visa pour un séjour d'une durée supérieure à trois mois donne lieu à la délivrance par les autorités diplomatiques et consulaires d'un récépissé indiquant la date du dépôt de la demande.
+
+Le visa mentionné à l'article 6-1 ne peut être refusé à un conjoint de Français qu'en cas de fraude, d'annulation du mariage ou de menace à l'ordre public.
+
+Les autorités diplomatiques et consulaires sont tenues de statuer sur la demande de visa de long séjour formée par le conjoint de Français dans les meilleurs délais.
+
+Lorsque la demande de visa de long séjour émane d'un étranger entré régulièrement en Polynésie française, marié sur le territoire de la République avec un ressortissant de nationalité française et que le demandeur séjourne en Polynésie française depuis plus de six mois avec son conjoint, la demande de visa de long séjour est présentée au haut-commissaire de la République.
+
 2° Sous réserve des conventions internationales, du justificatif d'hébergement prévu à l'article 5-1, s'il est requis, et des autres documents prévus par décret en Conseil d'Etat relatifs, d'une part, à l'objet et aux conditions de son séjour et, d'autre part, s'il y a lieu, à ses moyens d'existence, à la prise en charge par un opérateur d'assurance agréé des dépenses médicales et hospitalières, y compris d'aide sociale, résultant de soins qu'il pourrait engager en Polynésie française, ainsi qu'aux garanties de son rapatriement ;
 
 3° Des documents nécessaires à l'exercice d'une activité professionnelle s'il se propose d'en exercer une.

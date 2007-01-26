@@ -18,7 +18,15 @@ e) Personnes mentionnées au 5° de l'article 22 ;
 
 f) Travailleurs autorisés à exercer une activité professionnelle salariée en Nouvelle-Calédonie ;
 
-g) Etudiants venant en Nouvelle-Calédonie pour y suivre des études supérieures, dans un établissement public ou privé reconnu par l'Etat, dans des conditions définies par arrêté conjoint du ministre de l'intérieur, du ministre chargé de l'enseignement supérieur et du ministre chargé de l'outre-mer ;
+g) Etudiants venant en Nouvelle-Calédonie pour y suivre des études supérieures, dans un établissement public ou privé reconnu par l'Etat, dans des conditions définies par arrêté conjoint du ministre de l'intérieur, du ministre chargé de l'enseignement supérieur et du ministre chargé de l'outre-mer.
+
+La demande d'un visa pour un séjour d'une durée supérieure à trois mois donne lieu à la délivrance par les autorités diplomatiques et consulaires d'un récépissé indiquant la date du dépôt de la demande.
+
+Le visa mentionné à l'article 6-1 ne peut être refusé à un conjoint de Français qu'en cas de fraude, d'annulation du mariage ou de menace à l'ordre public.
+
+Les autorités diplomatiques et consulaires sont tenues de statuer sur la demande de visa de long séjour formée par le conjoint de Français dans les meilleurs délais.
+
+Lorsque la demande de visa de long séjour émane d'un étranger entré régulièrement en Nouvelle-Calédonie, marié sur le territoire de la République avec un ressortissant de nationalité française et que le demandeur séjourne en Nouvelle-Calédonie depuis plus de six mois avec son conjoint, la demande de visa de long séjour est présentée au haut-commissaire de la République ;
 
 2° Sous réserve des conventions internationales, du justificatif d'hébergement prévu à l'article 5-1, s'il est requis, et des autres documents prévus par décret en Conseil d'Etat relatifs, d'une part, à l'objet et aux conditions de son séjour et, d'autre part, s'il y a lieu, à ses moyens d'existence, à la prise en charge par un opérateur d'assurance agréé des dépenses médicales et hospitalières, y compris d'aide sociale, résultant de soins qu'il pourrait engager en Nouvelle-Calédonie, ainsi qu'aux garanties de son rapatriement ;
 

@@ -1,0 +1,5 @@
+# Article 6
+
+L'Etablissement public du Grand Palais des Champs-Elysées est substitué à l'Etat dans les droits et obligations résultant des contrats passés par ce dernier pour la construction ou la fabrication et la gestion des immeubles et biens mobiliers mentionnés ci-dessus, à la date de leur attribution à titre de dotation pour les immeubles mentionnés à l'article 4 et dans les conditions fixées par convention pour les biens mentionnés à l'article 5.
+
+L'Etablissement public du Grand Palais des Champs-Elysées est substitué à l'Etablissement public de maîtrise d'ouvrage des travaux culturels dans les droits et obligations résultant de tout marché ou contrat passé par ce dernier pour la réalisation de travaux d'aménagement, d'entretien, de grosses réparations et d'équipement des immeubles qui lui sont remis ou pour la gestion du Grand Palais. Une convention passée entre l'établissement public et l'Etablissement public de maîtrise d'ouvrage des travaux culturels définit les conditions de cette substitution, qui prend effet à la date de l'attribution des immeubles remis en dotation.
