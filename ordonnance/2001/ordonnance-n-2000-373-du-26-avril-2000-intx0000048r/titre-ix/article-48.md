@@ -4,9 +4,11 @@ I. - Le placement en rétention d'un étranger dans des locaux ne relevant pas d
 
 1° Soit, faisant l'objet d'un arrêté d'expulsion, ne peut quitter immédiatement Mayotte ;
 
-2° Soit, faisant l'objet d'un arrêté de reconduite à la frontière pris en application de l'article 30, ne peut quitter immédiatement Mayotte ;
+2° Soit, faisant l'objet d'un arrêté de reconduite à la frontière pris en application de l'article 30, ou devant être reconduit à la frontière en exécution d'une interdiction du territoire prévue au deuxième alinéa de l'article 131-30 du code pénal, ne peut quitter immédiatement Mayotte ;
 
-3° Soit, ayant fait l'objet d'une décision de placement au titre de l'un des cas précédents, n'a pas déféré à la mesure d'éloignement dont il est l'objet dans un délai de sept jours suivant le terme du précédent placement ou, y ayant déféré, est revenu à Mayotte alors que cette mesure est toujours exécutoire.
+3° Soit, ayant fait l'objet d'une décision de placement au titre de l'un des cas précédents, n'a pas déféré à la mesure d'éloignement dont il est l'objet dans un délai de sept jours suivant le terme du précédent placement ou, y ayant déféré, est revenu à Mayotte alors que cette mesure est toujours exécutoire ;
+
+4° Soit, faisant l'objet d'une obligation de quitter Mayotte prise en application du I de l'article 30 moins d'un an auparavant et pour laquelle le délai d'un mois pour quitter volontairement le territoire est expiré, ne peut quitter immédiatement ce territoire.
 
 La décision de placement est prise par le représentant de l'Etat à Mayotte, après l'interpellation de l'étranger et, le cas échéant, à l'expiration de sa garde à vue, ou à l'issue de sa période d'incarcération en cas de détention. Elle est écrite et motivée. Un double en est remis à l'intéressé. Le procureur de la République en est immédiatement informé.
 
@@ -20,7 +22,7 @@ L'ordonnance de prolongation de la rétention court à compter de l'expiration d
 
 A titre exceptionnel, le juge peut ordonner l'assignation à résidence de l'étranger lorsque celui-ci dispose de garanties de représentation effectives, après remise à un service de police ou une unité de gendarmerie de l'original du passeport et de tout document justificatif de son identité, en échange d'un récépissé valant justification de l'identité, et sur lequel est portée la mention de la mesure d'éloignement en instance d'exécution. L'assignation à résidence concernant un étranger qui s'est préalablement soustrait à l'exécution d'une mesure de reconduite à la frontière en vigueur, d'une interdiction du territoire dont il n'a pas été relevé, ou d'une mesure d'expulsion en vigueur doit faire l'objet d'une motivation spéciale.
 
-L'étranger est astreint à résider dans les lieux qui lui sont fixés par le juge et doit se présenter périodiquement aux services de police ou aux unités de gendarmerie en vue de l'exécution de la mesure d'éloignement. En cas de défaut de respect des obligations d'assignation à résidence, les dispositions du premier alinéa de l'article 36 sont applicables. Le procureur de la République est saisi dans les meilleurs délais.
+L'étranger est astreint à résider dans les lieux qui lui sont fixés par le juge. A la demande du juge, l'étranger justifie que le lieu proposé pour l'assignation satisfait aux exigences de garanties de représentation effectives. L'étranger se présente quotidiennement aux services de police ou unités de gendarmerie territorialement compétents au regard du lieu d'assignation, en vue de l'exécution de la mesure d'éloignement. En cas de défaut de respect des obligations d'assignation à résidence, les dispositions du premier alinéa de l'article 36 sont applicables. Le procureur de la République est saisi dans les meilleurs délais.
 
 Lorsqu'une ordonnance met fin à la rétention ou assigne l'étranger à résidence, elle est immédiatement notifiée au procureur de la République. A moins que ce dernier n'en dispose autrement, l'étranger est alors maintenu à la disposition de la justice pendant un délai de quatre heures à compter de la notification de l'ordonnance au procureur de la République.
 

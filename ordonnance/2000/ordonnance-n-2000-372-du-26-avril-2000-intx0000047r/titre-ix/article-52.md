@@ -4,7 +4,7 @@ I. - L'étranger qui arrive en Polynésie française par la voie maritime ou aé
 
 Il est informé, dans les meilleurs délais, qu'il peut demander l'assistance d'un interprète et d'un médecin, communiquer avec un conseil ou toute personne de son choix et quitter à tout moment la zone d'attente pour toute destination située hors du territoire de la République. Ces informations lui sont communiquées dans une langue qu'il comprend. Mention en est faite sur le registre mentionné ci-dessous, qui est émargé par l'intéressé.
 
-En l'absence d'un représentant légal accompagnant le mineur, le procureur de la République, avisé dès l'entrée d'un mineur en zone d'attente en application des dispositions du II, lui désigne sans délai un administrateur ad hoc. L'administrateur ad hoc assiste le mineur durant son maintien en zone d'attente et assure sa représentation dans toutes les procédures administratives et juridictionnelles relatives à ce maintien.
+Lorsqu'un étranger mineur non accompagné d'un représentant légal n'est pas autorisé à entrer en Polynésie française, le procureur de la République, avisé immédiatement par le haut-commissaire de la République, lui désigne sans délai un administrateur ad hoc. L'administrateur ad hoc assiste le mineur durant son maintien en zone d'attente et assure sa représentation dans toutes les procédures administratives et juridictionnelles relatives à ce maintien.
 
 L'administrateur ad hoc nommé en application de ces dispositions est désigné par le procureur de la République sur une liste de personnes morales ou physiques dont les modalités de constitution sont fixées par décret en Conseil d'Etat. Ce décret précise également les conditions de leur indemnisation.
 

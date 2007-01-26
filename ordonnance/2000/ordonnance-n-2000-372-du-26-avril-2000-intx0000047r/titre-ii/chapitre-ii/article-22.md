@@ -2,9 +2,9 @@
 
 Sauf si la présence de l'étranger constitue une menace pour l'ordre public, la carte de résident est délivrée de plein droit, sous réserve de la régularité du séjour et, pour les cas mentionnés aux 1° et 2° du présent article, de celle de l'entrée en Polynésie française :
 
-1° A l'étranger marié depuis au moins deux ans avec un ressortissant de nationalité française, à condition que la communauté de vie entre époux n'ait pas cessé, que le conjoint ait conservé la nationalité française et, lorsque le mariage a été célébré à l'étranger, qu'il ait été transcrit préalablement sur les registres de l'état civil français ;
+1° Abrogé
 
-2° A l'enfant étranger d'un ressortissant de nationalité française si cet enfant a moins de vingt et un ans ou s'il est à la charge de ses parents ainsi qu'aux ascendants d'un tel ressortissant et de son conjoint qui sont à sa charge ;
+2° A l'enfant étranger d'un ressortissant de nationalité française si cet enfant est âgé de dix-huit à vingt et un ans ou dans les conditions prévues à l'article 12 ou s'il est à la charge de ses parents ainsi qu'aux ascendants d'un tel ressortissant et de son conjoint qui sont à sa charge, sous réserve qu'ils produisent un visa pour un séjour d'une durée supérieure à trois mois ;
 
 3° Abrogé
 
@@ -18,11 +18,11 @@ Sauf si la présence de l'étranger constitue une menace pour l'ordre public, la
 
 8° A l'étranger ayant servi dans la Légion étrangère, comptant au moins trois ans de services dans l'armée française, titulaire du certificat de bonne conduite ;
 
-9° A l'étranger qui a obtenu le statut de réfugié en application de la loi du 25 juillet 1952 susvisée, ainsi qu'à son conjoint et à ses enfants mineurs ou dans l'année qui suit leur dix-huitième anniversaire lorsque le mariage est antérieur à la date de cette obtention ou, à défaut, lorsqu'il a été célébré depuis au moins un an, sous réserve d'une communauté de vie effective entre époux ;
+9° A l'étranger qui a obtenu le statut de réfugié en application de la loi du 25 juillet 1952 susvisée, ainsi qu'à son conjoint et à ses enfants dans l'année qui suit leur dix-huitième anniversaire ou entrant dans les prévisions de l'article 12 lorsque le mariage est antérieur à la date de cette obtention ou, à défaut, lorsqu'il a été célébré depuis au moins un an, sous réserve d'une communauté de vie effective entre époux ainsi qu'à ses ascendants directs au premier degré si l'étranger qui a obtenu le statut de réfugié est un mineur non accompagné ;
 
-10° A l'apatride justifiant de trois années de résidence régulière en France sur le territoire de la République ainsi qu'à son conjoint et à ses enfants mineurs ou dans l'année qui suit leur dix-huitième anniversaire ;
+10° A l'apatride justifiant de trois années de résidence régulière en France sur le territoire de la République ainsi qu'à son conjoint et à ses enfants dans l'année qui suit leur dix-huitième anniversaire ou entrant dans les prévisions de l'article 12 ;
 
-11° A l'étranger qui est en situation régulière depuis plus de dix ans, sauf s'il a été, pendant toute cette période, titulaire d'une carte de séjour temporaire portant la mention "étudiant" ;
+11° Abrogé
 
 12° Abrogé
 

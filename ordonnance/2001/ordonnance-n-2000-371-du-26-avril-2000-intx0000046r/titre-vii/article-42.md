@@ -1,8 +1,8 @@
 # Article 42
 
-I. - Le ressortissant étranger qui séjourne régulièrement dans les îles Wallis et Futuna depuis au moins deux ans sous couvert d'un des titres d'une durée de validité d'au moins un an prévus par la présente ordonnance ou par des conventions internationales, peut demander à bénéficier de son droit à être rejoint, au titre du regroupement familial, par son conjoint et les enfants du couple mineurs de dix-huit ans. Le regroupement familial peut également être sollicité pour les enfants mineurs de dix-huit ans du demandeur et ceux de son conjoint dont, au jour de la demande, la filiation n'est établie qu'à l'égard du demandeur ou de son conjoint ou dont l'autre parent est décédé ou déchu de ses droits parentaux. Le regroupement familial peut également être demandé pour les enfants mineurs de dix-huit ans du demandeur et ceux de son conjoint, qui sont confiés, selon le cas, à l'un ou l'autre de ces derniers, au titre de l'exercice de l'autorité parentale, en vertu d'une décision d'une juridiction étrangère dont la copie devra être produite ainsi que l'autorisation de l'autre parent de laisser le mineur venir dans les îles Wallis et Futuna.
+I. - Le ressortissant étranger qui séjourne régulièrement dans les îles Wallis et Futuna depuis au moins deux ans sous couvert d'un des titres d'une durée de validité d'au moins un an prévus par la présente ordonnance ou par des conventions internationales, peut demander à bénéficier de son droit à être rejoint, au titre du regroupement familial, par son conjoint, si ce dernier est âgé d'au moins dix-huit ans, et les enfants du couple mineurs de dix-huit ans. Le regroupement familial peut également être sollicité pour les enfants mineurs de dix-huit ans du demandeur et ceux de son conjoint dont, au jour de la demande, la filiation n'est établie qu'à l'égard du demandeur ou de son conjoint ou dont l'autre parent est décédé ou déchu de ses droits parentaux. Le regroupement familial peut également être demandé pour les enfants mineurs de dix-huit ans du demandeur et ceux de son conjoint, qui sont confiés, selon le cas, à l'un ou l'autre de ces derniers, au titre de l'exercice de l'autorité parentale, en vertu d'une décision d'une juridiction étrangère dont la copie devra être produite ainsi que l'autorisation de l'autre parent de laisser le mineur venir dans les îles Wallis et Futuna.
 
-Le regroupement ne peut être refusé que pour l'un des motifs tirés du caractère insuffisant des ressources du demandeur ou des possibilités d'hébergement dont il dispose.
+Le regroupement ne peut être refusé que pour l'un des motifs tirés du caractère insuffisant des ressources du demandeur ou des possibilités d'hébergement dont il dispose ou si le demandeur ne se conforme pas aux principes essentiels qui, conformément aux lois de la République, régissent la vie familiale en France.
 
 Peut être exclu du regroupement familial :
 
@@ -28,9 +28,13 @@ La décision de l'administrateur supérieur dans les îles Wallis et Futuna auto
 
 III. - Les membres de la famille entrés régulièrement dans les îles Wallis et Futuna au titre du regroupement familial reçoivent de plein droit une carte de séjour temporaire dès qu'ils sont astreints à la détention d'un titre de séjour.
 
-IV. - En cas de rupture de la vie commune, la carte de séjour temporaire qui a été remise au conjoint d'un étranger peut, pendant les deux années suivant sa délivrance, faire l'objet d'un retrait ou d'un refus de renouvellement. Lorsque la rupture de la vie commune est antérieure à la délivrance du titre, l'administrateur supérieur dans les îles Wallis et Futuna refuse de délivrer la carte de séjour temporaire.
+IV. - En cas de rupture de la vie commune ne résultant pas du décès de l'un des conjoints, le titre de séjour qui a été remis au conjoint d'un étranger peut, pendant les trois années suivant l'autorisation de séjourner dans les îles Wallis et Futuna au titre du regroupement familial, faire l'objet d'un retrait ou d'un refus de renouvellement.
 
-Toutefois, lorsque la communauté de vie a été rompue à l'initiative de l'étranger à raison des violences conjugales qu'il a subies de la part de son conjoint, l'administrateur supérieur dans les îles Wallis et Futuna peut accorder le renouvellement du titre.
+Lorsque la rupture de la vie commune est antérieure à la demande de titre, l'administrateur supérieur refuse de l'accorder.
+
+Les dispositions du premier alinéa du IV ne s'appliquent pas si un ou plusieurs enfants sont nés de cette union, lorsque l'étranger est titulaire de la carte de résident et qu'il établit contribuer effectivement, depuis la naissance, à l'entretien et à l'éducation du ou des enfants dans les conditions prévues à l'article 371-2 du code civil.
+
+En outre, lorsque la communauté de vie a été rompue à l'initiative de l'étranger admis au séjour au titre du regroupement familial, en raison de violences conjugales qu'il a subies de la part de son conjoint, l'administrateur supérieur ne peut procéder au retrait de son titre de séjour et peut en accorder le renouvellement.
 
 IV bis. - Le titre de séjour d'un étranger qui n'entre pas dans les catégories visées à l'article 33 et à l'article 34 peut faire l'objet d'un retrait lorsque son titulaire a fait venir son conjoint ou ses enfants en dehors de la procédure du regroupement familial.
 

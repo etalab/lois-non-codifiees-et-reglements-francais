@@ -2,7 +2,7 @@
 
 Pour entrer à Mayotte, tout étranger doit être muni :
 
-l° Des documents et visas exigés par les conventions internationales et les règlements en vigueur ;
+1° Des documents et visas exigés par les conventions internationales et les règlements en vigueur ;
 
 Par dérogation aux dispositions de la loi du 11 juillet 1979 susvisée, les décisions de refus de visa d'entrée à Mayotte prises par les autorités diplomatiques et consulaires ne sont pas motivées, sauf dans les cas où le visa est refusé à un étranger appartenant à l'une des catégories suivantes et sous réserve de considérations tenant à la sûreté de l'Etat :
 
@@ -17,6 +17,14 @@ d) Bénéficiaires d'une autorisation de regroupement familial ;
 e) Personnes mentionnées aux 5° à 10° de l'article 20 ;
 
 f) Travailleurs autorisés à exercer une activité professionnelle salariée à Mayotte ;
+
+La demande d'un visa pour un séjour d'une durée supérieure à trois mois donne lieu à la délivrance par les autorités diplomatiques et consulaires d'un récépissé indiquant la date du dépôt de la demande.
+
+Le visa mentionné à l'article 6-1 ne peut être refusé à un conjoint de Français qu'en cas de fraude, d'annulation du mariage ou de menace à l'ordre public.
+
+Les autorités diplomatiques et consulaires sont tenues de statuer sur la demande de visa de long séjour formée par le conjoint de Français dans les meilleurs délais.
+
+Lorsque la demande de visa de long séjour émane d'un étranger entré régulièrement à Mayotte, marié sur le territoire de la République avec un ressortissant de nationalité française et que le demandeur séjourne à Mayotte depuis plus de six mois avec son conjoint, la demande de visa de long séjour est présentée au représentant de l'Etat.
 
 2° Sous réserve des conventions internationales, du justificatif d'hébergement prévu à l'article 5-1, s'il est requis, et des autres documents prévus par décret en Conseil d'Etat relatifs, d'une part, à l'objet et aux conditions de son séjour et, d'autre part, s'il y a lieu, à ses moyens d'existence, à la prise en charge par un opérateur d'assurance agréé des dépenses médicales et hospitalières, y compris d'aide sociale, résultant de soins qu'il pourrait engager à Mayotte, ainsi qu'aux garanties de son rapatriement ;
 

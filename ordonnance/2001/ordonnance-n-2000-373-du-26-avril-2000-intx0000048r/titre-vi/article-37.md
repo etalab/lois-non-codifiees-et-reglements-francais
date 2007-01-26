@@ -1,6 +1,6 @@
 # Article 37
 
-L'étranger qui fait l'objet d'un arrêté d'expulsion ou qui doit être reconduit à la frontière est éloigné :
+L'étranger qui est obligé de quitter Mayotte ou qui fait l'objet d'un arrêté d'expulsion ou qui doit être reconduit à la frontière est éloigné :
 
 1° A destination du pays dont il a la nationalité, sauf si l'Office français de protection des réfugiés et apatrides ou la Commission des recours des réfugiés lui a reconnu le statut de réfugié ou s'il n'a pas encore été statué sur sa demande d'asile ;
 

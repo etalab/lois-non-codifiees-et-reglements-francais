@@ -1,7 +1,29 @@
 # Article 14
 
-Les ressortissants des Etats membres de la Communauté européenne entrent librement en Nouvelle-Calédonie ainsi que les membres de leur famille, à l'exception des membres de la famille qui ne sont pas ressortissants de l'un de ces Etats et qui sont, le cas échéant, soumis à l'obligation de visa conformément aux conventions internationales et aux règlements en vigueur. Ceux qui exercent en Nouvelle-Calédonie une activité économique indépendante et ceux qui sont titulaires d'un permis de travail autorisant l'exercice d'une activité salariée et délivré dans les conditions prévues par la législation et la réglementation en vigueur localement, ainsi que les membres de leur famille, qui souhaitent établir en Nouvelle-Calédonie leur résidence habituelle reçoivent, sous réserve que leur présence ne constitue pas une menace pour l'ordre public, une carte de séjour.
+I. - Sauf si sa présence constitue une menace pour l'ordre public, tout citoyen de l'Union européenne a le droit de séjourner en Nouvelle-Calédonie pour une durée supérieure à trois mois s'il satisfait à l'une des conditions suivantes :
 
-La validité de la carte de séjour est d'un an pour la première délivrance.
+1° S'il exerce une activité professionnelle en Nouvelle-Calédonie dans le respect de la législation et de la réglementation applicables localement ;
 
-Un décret en Conseil d'Etat précise les conditions d'application du présent article.
+2° S'il dispose pour lui et pour les membres de sa famille tels que visés au 4° de ressources suffisantes afin de ne pas devenir une charge pour le régime d'assistance sociale applicable localement, ainsi que d'une assurance maladie ;
+
+3° S'il est inscrit dans un établissement fonctionnant conformément aux dispositions législatives et réglementaires en vigueur pour y suivre à titre principal des études ou, dans ce cadre, une formation professionnelle, et garantit disposer d'une assurance maladie ainsi que de ressources suffisantes pour lui et pour les membres de sa famille tels que visés au 5° afin de ne pas devenir une charge pour le régime d'assistance sociale applicable localement ;
+
+4° S'il est un descendant direct âgé de moins de vingt et un ans ou à charge, ascendant direct à charge, conjoint, ascendant ou descendant direct à charge du conjoint, accompagnant ou rejoignant un ressortissant qui satisfait aux conditions énoncées aux 1° ou 2° ;
+
+5° S'il est le conjoint ou un enfant à charge accompagnant ou rejoignant un ressortissant qui satisfait aux conditions énoncées au 3°.
+
+II. - Les ressortissants visés au I qui souhaitent établir en Nouvelle-Calédonie leur résidence habituelle se font enregistrer auprès du maire de la commune de leur lieu de résidence dans les trois mois suivant leur arrivée.
+
+Ils ne sont pas tenus de détenir un titre de séjour. S'ils en font la demande, il leur est délivré un titre de séjour.
+
+Toutefois, demeurent soumis à la détention d'un titre de séjour durant le temps de validité des mesures transitoires éventuellement prévues en la matière par le traité d'adhésion du pays dont ils sont ressortissants, et sauf si ce traité en stipule autrement, les citoyens de l'Union européenne qui souhaitent exercer en Nouvelle-Calédonie une activité professionnelle dans le respect de la législation et de la réglementation applicables localement.
+
+Lorsque ces citoyens ont achevé avec succès, dans un établissement d'enseignement supérieur habilité au plan national, un cycle de formation conduisant à un diplôme au moins équivalent au master, ils ne sont pas soumis à la détention d'un titre de séjour pour exercer, dans le respect de la législation et de la réglementation applicables localement, une activité professionnelle en Nouvelle-Calédonie.
+
+III. - Sauf si sa présence constitue une menace pour l'ordre public, le membre de famille visé aux 4° ou 5° du I selon la situation de la personne qu'il accompagne ou rejoint, ressortissant d'un Etat tiers, a le droit de séjourner en Nouvelle-Calédonie pour une durée supérieure à trois mois.
+
+S'il est âgé de plus de dix-huit ans ou de plus de seize ans lorsqu'il veut exercer une activité professionnelle, il doit être muni d'une carte de séjour. Cette carte, dont la durée de validité ne peut être inférieure à cinq ans ou à une durée correspondant à la durée du séjour envisagée du citoyen de l'Union si celle-ci est inférieure à cinq ans, porte la mention "carte de séjour de membre de la famille d'un citoyen de l'Union". Elle peut donner à son titulaire le droit d'exercer une activité professionnelle dans le respect de la législation et de la réglementation applicables localement.
+
+IV. - Tout citoyen de l'Union européenne ou les membres de leur famille qui ne peuvent justifier d'un droit au séjour en application du I ou du III ou dont la présence constitue une menace à l'ordre public peuvent faire l'objet, selon le cas, d'une décision de refus de séjour, d'un refus de délivrance ou de renouvellement d'une carte de séjour ou d'un retrait de celle-ci ainsi que d'une mesure d'éloignement.
+
+V. - Un décret en Conseil d'Etat fixe les conditions d'application du présent article.
