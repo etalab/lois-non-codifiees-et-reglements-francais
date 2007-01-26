@@ -1,7 +1,5 @@
 # Article 11
 
-Toute infraction au règlement ou toute fraude dans l'une des épreuves peut entraîner l'exclusion du concours, prononcée par le président du jury, après rapport de l'examinateur ou de l'officier surveillant et, s'il y a lieu, explication du candidat.
+Le candidat est soumis à la réglementation générale des concours. Le candidat convaincu de fraude ou ayant des agissements volontaires nuisant au bon déroulement ou à la régularité du concours est exclu de ce concours pour l'année considérée, par décision du président de jury.
 
-Toute copie apparaissant suspecte en cours de correction est signalée par le correcteur au président du jury. Celui-ci entend, s'il y a lieu, les explications du candidat. En cas de fraude reconnue, son auteur est exclu du concours.
-
-La décision d'exclusion prise par le président du jury est sans appel.
+Toute décision d'exclusion est immédiatement applicable et notifiée au candidat concerné dans les meilleurs délais, par lettre recommandée avec accusé de réception.
