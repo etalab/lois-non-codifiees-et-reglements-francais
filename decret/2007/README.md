@@ -73,6 +73,7 @@
 - [Décret n° 2007-59 du 12 janvier 2007 (CPTX0709913D)](decret-n-2007-59-du-12-janvier-2007-cptx0709913d)
 - [Décret n° 2007-60 du 12 janvier 2007 (FPPA0600171D)](decret-n-2007-60-du-12-janvier-2007-fppa0600171d)
 - [Décret n°77-788 du 12 juillet 1977](decret-n77-788-du-12-juillet-1977)
+- [Décret n°94-582 du 12 juillet 1994 (PRMX9400068D)](decret-n94-582-du-12-juillet-1994-prmx9400068d)
 - [Décret n°2006-1592 du 13 décembre 2006 (AGRX0600108D)](decret-n2006-1592-du-13-decembre-2006-agrx0600108d)
 - [Décret n°2006-1593 du 13 décembre 2006 (AGRX0600109D)](decret-n2006-1593-du-13-decembre-2006-agrx0600109d)
 - [Décret n°2007-1607 du 13 novembre 2007 (MEND0761846D)](decret-n2007-1607-du-13-novembre-2007-mend0761846d)
