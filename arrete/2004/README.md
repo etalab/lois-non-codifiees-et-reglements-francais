@@ -981,4 +981,3 @@
 - [Arrêté du 31 mars 1999 (MESP9921063A)](arrete-du-31-mars-1999-mesp9921063a)
 - [Arrêté du 31 mars 2005 (PRMX0407778A)](arrete-du-31-mars-2005-prmx0407778a)
 - [Arrêté du 31 octobre 2003 (SOCS0324335A)](arrete-du-31-octobre-2003-socs0324335a)
-- [Arrêté du 1er juin 2004 (SOCF0411190A)](arrete-du-1er-juin-2004-socf0411190a)

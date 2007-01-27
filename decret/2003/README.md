@@ -507,7 +507,6 @@
 - [Décret n°2003-562 du 24 juin 2003 (EQUI0300650D)](decret-n2003-562-du-24-juin-2003-equi0300650d)
 - [Décret n°2003-582 du 24 juin 2003 (INTB0300121D)](decret-n2003-582-du-24-juin-2003-intb0300121d)
 - [Décret n°2003-584 du 24 juin 2003 (MCCB0300391D)](decret-n2003-584-du-24-juin-2003-mccb0300391d)
-- [Décret n°2003-681 du 24 juillet 2003 (SOCF0310802D)](decret-n2003-681-du-24-juillet-2003-socf0310802d)
 - [Décret n°2003-682 du 24 juillet 2003 (AGRF0300626D)](decret-n2003-682-du-24-juillet-2003-agrf0300626d)
 - [Décret n°2003-683 du 24 juillet 2003 (FPPA0310023D)](decret-n2003-683-du-24-juillet-2003-fppa0310023d)
 - [Décret n°2003-684 du 24 juillet 2003 (SOCT0311058D)](decret-n2003-684-du-24-juillet-2003-soct0311058d)
