@@ -1,0 +1,3 @@
+# Article 7
+
+Le directeur assiste les présidents et exerce toute délégation ou représentation qu'ils lui confient conjointement ou séparément. Il concourt à la préparation et à l'exécution des délibérations du comité et des mesures prises en application des articles 8, 9 et 10 (1° et 2°) de la loi du 12 avril 1941 susvisée. Il assure le fonctionnement des services, il prépare le budget, l'exécute et engage les dépenses sous l'autorité des présidents. Il recrute, anime, gère et révoque le personnel. Il peut participer, avec voix consultative, à toutes les réunions de toutes les instances interprofessionnelles et il peut déléguer sa signature et une partie de ses pouvoirs aux agents placés sous son autorité.
