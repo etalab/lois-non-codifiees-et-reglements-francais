@@ -3,3 +3,4 @@
 - [Article 1](article-1.md)
 - [Titre II : Recrutement.](titre-ii)
 - [Titre IV : Notation.](titre-iv)
+- [Titre VIII : Le médecin conseil national.](titre-viii)
