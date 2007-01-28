@@ -32,6 +32,7 @@
 - [Arrêté du 8 décembre 2006 (DEVP0700015A)](arrete-du-8-decembre-2006-devp0700015a)
 - [Arrêté du 8 décembre 2006 (EQUG0602387A)](arrete-du-8-decembre-2006-equg0602387a)
 - [Arrêté du 8 janvier 2007 (SANS0720143A)](arrete-du-8-janvier-2007-sans0720143a)
+- [Arrêté du 9 janvier 2007 (DEVG0700009A)](arrete-du-9-janvier-2007-devg0700009a)
 - [Arrêté du 9 octobre 2007 (DEFH0760659A)](arrete-du-9-octobre-2007-defh0760659a)
 - [Arrêté du 10 décembre 2007 (DEFH0772550A)](arrete-du-10-decembre-2007-defh0772550a)
 - [Arrêté du 10 décembre 2007 (DEFH0772556A)](arrete-du-10-decembre-2007-defh0772556a)
