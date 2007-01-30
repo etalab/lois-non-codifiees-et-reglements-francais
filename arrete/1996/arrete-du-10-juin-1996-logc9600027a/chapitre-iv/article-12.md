@@ -22,14 +22,12 @@ Dans le cas des résidences sociales composées de logements dont la surface uti
 
 La valeur retenue pour ce coefficient de majoration complémentaire est arrondie à la quatrième décimale par valeur supérieure.
 
-III. - Coefficient de majoration pour qualité thermique, accordé aux opérations de construction de logements-foyers neufs qui bénéficient du label Haute performance énergétique ou du label Solaire définis par l'arrêté du 30 décembre 1988 modifié susvisé égal à :
+III. - Coefficient de majoration pour qualité thermique, accordé aux opérations de construction de logements-foyers neufs qui bénéficient d'un label haute performance énergétique (HPE) ou très haute performance énergétique (THPE), égal à :
 
-Label Haute performance énergétique (H.P.E.) (3 étoiles) 0,02
+Label haute performance énergétique : 0,04 ;
 
-Label Haute performance énergétique (H.P.E.) (4 étoiles) 0,03
+Label très haute performance énergétique : 0,08.
 
-Label H.P.E. 3 étoiles avec contribution solaire 0,03
-
-Lorsque l'opération comporte à la fois des parties neuves et des parties existantes acquises et améliorées, cette majoration est pondérée par le pourcentage du nombre de logements neufs qu'elle comporte.
+Lorsque l'opération comporte à la fois des parties neuves et des parties existantes acquises ou améliorées, cette majoration est pondérée par le pourcentage du nombre de logements neufs qu'elle comporte.
 
 IV. - Coefficient de majoration pour accessibilité accordée à raison des travaux réalisés pour améliorer, au bénéfice des personnes handicapées physiques, l'accessibilité de l'immeuble et pour adapter les logements à leurs besoins ; il peut s'agir de travaux tels que ceux définis de façon non exhaustive dans l'annexe II bis du présent arrêté. Le coefficient de majoration pour accessibilité est égal au pourcentage des travaux réalisés à cet effet, pris en compte dans la limite de 0,04.

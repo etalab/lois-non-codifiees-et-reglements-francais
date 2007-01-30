@@ -1,51 +1,17 @@
 # Article 2
 
-I. - Pour la détermination des coefficients de majoration pour qualité, l'appréciation de celle-ci est faite selon la méthode Qualitel, telle qu'elle est définie dans le guide Qualitel applicable à la date de dépôt de la demande de décision favorable. Elle est sanctionnée par le barème suivant :
+I. - Les coefficients de majoration pour qualité sont liés à la délivrance de labels haute performance énergétique (HPE) ou très haute performance énergétique (THPE) relatifs à la réglementation à laquelle est assujettie l'opération ou d'une certification en application de la méthode Qualitel obtenue auprès d'un organisme ayant passé une convention avec le ministre en charge du logement, à la date de dépôt de la demande de décision favorable. Ils sont fixés selon le barème suivant :
 
-ÉLÉMENTS DE QUALITÉ
+ÉLÉMENTS DE QUALITÉ / COEFFICIENTS de majoration
 
-COEFFICIENTS
+Label haute performance énergétique / 0,05
 
-de majorations
+Label très haute performance énergétique / 0,10
 
-Label Qualitel
+Certification selon la méthode Qualitel / 0,08
 
-De base : 0,10
+Les majorations pour label HPE ou THPE peuvent se cumuler avec la majoration liée à la certification selon la méthode Qualitel.
 
-Déclinaisons du label Qualitel :
+II. - Lorsqu'une majoration liée au label HPE ou THPE ou à une certification est demandée par le maître d'ouvrage, celui-ci doit transmettre à la direction départementale de l'équipement, ou le cas échéant, à l'établissement public de coopération intercommunale ou le département délégataire des aides à la pierre en application des articles L. 301-5-1 et L. 301-5-2 du code de la construction et de l'habitation, une attestation de l'organisme ayant délivré ce label ou cette certification. A l'issue des travaux, il déclare leur achèvement à cet organisme et confirme auprès de la direction départementale de l'équipement les engagements pris en regard de ce label ou de cette certification.
 
-Supplémentaires :
-
-Label Qualitel Haute Performance énergétique 3 étoiles (1)
-
-0,025
-
-Label Qualitel Haute Performance énergétique 4 étoiles (2)
-
-0,04
-
-Label Qualitel Haute Performance énergétique 3 étoiles Solaire (3)
-
-0,04
-
-Label Qualitel Accessibilité aux handicapés
-
-0,05
-
-(1) Obtention de la note 4 à la rubrique S " Niveau prévisionnel des charges de chauffage et d'eau chaude sanitaire " de la méthode Qualitel.
-
-(2) Obtention de la note 5 à la rubrique S " Niveau prévisionnel des charges de chauffage et d'eau chaude sanitaire " de la méthode Qualitel.
-
-(3) En cas de contribution solaire de 10 %, telle que définie par la méthode Qualitel.
-
-II. - Lorsqu'une majoration pour qualité, telle que définie au paragraphe I du présent article, est demandée par le maître d'ouvrage, celui-ci doit transmettre à la direction départementale de l'équipement une copie du contrat conclu avec l'association Qualitel et une fiche d'engagement qui retrace les niveaux de prestations correspondant aux coefficients de majoration pour qualité qu'il a demandée et qu'il s'engage à respecter.
-
-Un mois au plus tard après le début du chantier, il transmet à la direction départementale de l'équipement concernée une fiche de cotation établie par l'association Qualitel.
-
-A l'issue des travaux, il déclare leur achèvement à l'association Qualitel et confirme auprès de la direction départementale de l'équipement les engagements de qualité pris en regard du label Qualitel.
-
-III. - Le coefficient de majoration pour qualité est établi en fonction de la portée de l'engagement de qualité pris par le maître d'ouvrage et du barème défini au paragraphe 1 du présent article.
-
-IV. - Pour les opérations de vingt-cinq logements et plus, pour lesquelles aucune des majorations pour qualité définies au paragraphe I du présent article n'est demandée, l'établissement d'un tableau de cotation selon la méthode Qualitel est obligatoire.
-
-Ce tableau est établi par l'association Qualitel et doit être transmis à la direction départementale de l'équipement concernée au plus tard un mois après le début du chantier.
+III. - Le coefficient de majoration pour qualité est établi en fonction de l'engagement de qualité pris par le maître d'ouvrage et du barème défini au paragraphe 1 du présent article.
