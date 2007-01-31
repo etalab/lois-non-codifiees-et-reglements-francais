@@ -1,0 +1,3 @@
+# Article 4
+
+Peuvent être nommés à l'emploi d'inspecteur expert de la concurrence, de la consommation et de la répression des fraudes, les inspecteurs de la concurrence, de la consommation et de la répression des fraudes ayant atteint au moins le 9e échelon et qui justifient au 1er janvier de l'année de leur nomination d'au moins cinq ans de services effectifs dans leur grade ; peuvent également être nommés les fonctionnaires appartenant à d'autres corps ou cadres d'emploi de catégorie A qui ont atteint au moins l'indice brut 653 et qui justifient d'au moins cinq ans de services effectifs dans des fonctions relevant des domaines d'intervention de direction générale de la concurrence, de la consommation et de la répression des fraudes.

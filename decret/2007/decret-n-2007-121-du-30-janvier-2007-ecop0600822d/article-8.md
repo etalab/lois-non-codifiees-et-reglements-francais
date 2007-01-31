@@ -1,0 +1,5 @@
+# Article 8
+
+Le fonctionnaire demandant à être nommé inspecteur expert dont le conjoint, le partenaire lié par le pacte civil de solidarité, un parent ou un allié jusqu'au troisième degré inclus donne professionnellement des conseils fiscaux ou juridiques ou exerce la profession d'industriel, de commerçant, d'agriculteur ou de prestataire de services est tenu d'en faire sans délai la déclaration au service en précisant l'étendue géographique où s'exerce cette activité. Le directeur général de la concurrence, de la consommation et de la répression des fraudes peut, en nommant l'intéressé, soit l'affecter dans une unité territoriale différente de celle où son conjoint, son partenaire lié par un pacte civil de solidarité, son parent ou allié exerce son activité, soit encore spécifier dans la définition d'emploi de l'agent les secteurs d'activité en relation avec lesquels il ne pourra exercer ses fonctions.
+
+L'agent placé dans cette situation reste tenu de déclarer au service toute modification dans l'activité de son conjoint, partenaire, parent ou allié pouvant affecter les dispositions prises en application de l'alinéa précédent.

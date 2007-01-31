@@ -20,11 +20,11 @@ Les concours d'accès aux cadres d'emplois visés à l'article 1er comportent un
 
 l'épreuve d'admissibilité consiste en la rédaction d'un rapport établi à partir d'un dossier portant sur une situation en relation avec les missions du cadre d'emplois concerné, et notamment la déontologie de la profession (durée : trois heures ; coefficient 1),
 
-l'épreuve d'admission consiste en un entretien avec le jury permettant d'apprécier la motivation du candidat et son aptitude à exercer sa profession dans le cadre des missions dévolues au cadre d'emplois concerné (durée : vingt minutes ; coefficient 2).
+l'épreuve d'admission consiste en un entretien permettant d'apprécier la motivation du candidat et son aptitude à exercer sa profession dans le cadre des missions dévolues aux membres du cadre d'emplois concerné (durée : vingt minutes ; coefficient 2).
 
 2° S'agissant des cadres d'emplois :
 
-- d'agents sociaux territoriaux ;
+- d'agents sociaux territoriaux pour le grade d'agent social de 1re classe ;
 
 - d'agents territoriaux spécialisés des écoles maternelles ;
 
@@ -32,6 +32,6 @@ l'épreuve d'admission consiste en un entretien avec le jury permettant d'appré
 
 - d'auxiliaires de soins territoriaux,
 
-l'épreuve d'admissibilité consiste en un questionnaire à choix multiples portant sur des notions élémentaires relatives à l'organisation et au fonctionnement des collectivités locales, ainsi qu'à la compréhension de consignes élémentaires d'hygiène et de sécurité, dans le cadre de l'exercice des missions du cadre d'emplois concerné (durée : quarante-cinq minutes ; coefficient 1),
+l'épreuve d'admissibilité consiste en un questionnaire à choix multiples portant sur des notions élémentaires relatives à l'organisation et au fonctionnement des collectivités locales, ainsi qu'à la compréhension de consignes élémentaires d'hygiène et de sécurité, dans le cadre de l'exercice des missions incombant aux membres du cadre d'emplois concerné (durée : quarante-cinq minutes ; coefficient 1),
 
-l'épreuve d'admission consiste en un entretien avec le jury permettant d'apprécier la motivation du candidat et son aptitude à exercer les missions incombant au cadre d'emplois concerné (durée : quinze minutes ; coefficient 2).
+l'épreuve d'admission consiste en un entretien permettant d'apprécier la motivation du candidat et son aptitude à exercer les missions incombant aux membres du cadre d'emplois concerné (durée : quinze minutes ; coefficient 2).
