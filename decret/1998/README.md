@@ -587,7 +587,6 @@
 - [Décret n°98-1208 du 21 décembre 1998 (DEFD9802036D)](decret-n98-1208-du-21-decembre-1998-defd9802036d)
 - [Décret n°98-1209 du 21 décembre 1998 (DEFP9802061D)](decret-n98-1209-du-21-decembre-1998-defp9802061d)
 - [Décret n°98-1210 du 21 décembre 1998 (AGRP9801832D)](decret-n98-1210-du-21-decembre-1998-agrp9801832d)
-- [Décret n°98-301 du 21 avril 1998 (FPPA9810002D)](decret-n98-301-du-21-avril-1998-fppa9810002d)
 - [Décret n°98-302 du 21 avril 1998 (FPPA9810003D)](decret-n98-302-du-21-avril-1998-fppa9810003d)
 - [Décret n°98-303 du 21 avril 1998 (FPPA9810004D)](decret-n98-303-du-21-avril-1998-fppa9810004d)
 - [Décret n°98-48 du 21 janvier 1998 (EQUA9701385D)](decret-n98-48-du-21-janvier-1998-equa9701385d)

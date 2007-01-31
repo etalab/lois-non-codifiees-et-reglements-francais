@@ -23,8 +23,6 @@
 - [Arrêté du 2 août 2001 (INTE0100487A)](arrete-du-2-aout-2001-inte0100487a)
 - [Arrêté du 2 août 2002 (AGRG0201910A)](arrete-du-2-aout-2002-agrg0201910a)
 - [Arrêté du 2 août 2002 (INDI0220195A)](arrete-du-2-aout-2002-indi0220195a)
-- [Arrêté du 2 août 2002 (LBLB0200007A)](arrete-du-2-aout-2002-lblb0200007a)
-- [Arrêté du 2 août 2002 (LBLB0200008A)](arrete-du-2-aout-2002-lblb0200008a)
 - [Arrêté du 2 avril 2002 (ATEG0210100A)](arrete-du-2-avril-2002-ateg0210100a)
 - [Arrêté du 2 avril 2002 (ECOT0251027A)](arrete-du-2-avril-2002-ecot0251027a)
 - [Arrêté du 2 avril 2002 (JUSA0200052A)](arrete-du-2-avril-2002-jusa0200052a)

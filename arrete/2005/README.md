@@ -86,7 +86,6 @@
 - [Arrêté du 4 avril 2005 (ECOC0500027A)](arrete-du-4-avril-2005-ecoc0500027a)
 - [Arrêté du 4 avril 2005 (FPPA0510032A)](arrete-du-4-avril-2005-fppa0510032a)
 - [Arrêté du 4 février 2005 (CPTE0400154A)](arrete-du-4-fevrier-2005-cpte0400154a)
-- [Arrêté du 4 janvier 2005 (AGRG0500072A)](arrete-du-4-janvier-2005-agrg0500072a)
 - [Arrêté du 4 juillet 2005 (BUDD0570009A)](arrete-du-4-juillet-2005-budd0570009a)
 - [Arrêté du 4 juillet 2005 (ECOD0570016A)](arrete-du-4-juillet-2005-ecod0570016a)
 - [Arrêté du 4 mars 2005 (EQUS0401060A)](arrete-du-4-mars-2005-equs0401060a)

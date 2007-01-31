@@ -562,7 +562,6 @@
 - [Décret n°2003-575 du 26 juin 2003 (AGRE0202366D)](decret-n2003-575-du-26-juin-2003-agre0202366d)
 - [Décret n°2003-595 du 26 juin 2003 (AGRM0300936D)](decret-n2003-595-du-26-juin-2003-agrm0300936d)
 - [Décret n°2003-600 du 26 juin 2003 (FPPA0310019D)](decret-n2003-600-du-26-juin-2003-fppa0310019d)
-- [Décret n°2003-601 du 26 juin 2003 (FPPA0310020D)](decret-n2003-601-du-26-juin-2003-fppa0310020d)
 - [Décret n°2003-798 du 26 août 2003 (ECOK0300026D)](decret-n2003-798-du-26-aout-2003-ecok0300026d)
 - [Décret n°2003-801 du 26 août 2003 (SANS0322829D)](decret-n2003-801-du-26-aout-2003-sans0322829d)
 - [Décret n°2003-804 du 26 août 2003 (SANS0322499D)](decret-n2003-804-du-26-aout-2003-sans0322499d)

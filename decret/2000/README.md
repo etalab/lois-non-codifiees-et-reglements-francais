@@ -106,7 +106,6 @@
 - [Décret du 29 mai 2000 (AGRP0000329D)](decret-du-29-mai-2000-agrp0000329d)
 - [Décret n°2000-456 du 29 mai 2000 (ECOX0004146D)](decret-n2000-456-du-29-mai-2000-ecox0004146d)
 - [Décret n°2000-465 du 29 mai 2000 (ECOI0000190D)](decret-n2000-465-du-29-mai-2000-ecoi0000190d)
-- [Décret n°2000-1068 du 30 octobre 2000 (FPPA0010019D)](decret-n2000-1068-du-30-octobre-2000-fppa0010019d)
 - [Décret n°2000-1159 du 30 novembre 2000 (MAEA0020385D)](decret-n2000-1159-du-30-novembre-2000-maea0020385d)
 - [Décret n°2000-288 du 30 mars 2000 (DEFD0001377D)](decret-n2000-288-du-30-mars-2000-defd0001377d)
 - [Décret n° 2000-84 du 31 janvier 2000 (MESC0010122D)](decret-n-2000-84-du-31-janvier-2000-mesc0010122d)

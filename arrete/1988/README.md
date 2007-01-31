@@ -115,7 +115,6 @@
 - [Arrêté du 6 mai 1988 (INDU8700887A)](arrete-du-6-mai-1988-indu8700887a)
 - [Arrêté du 6 mai 1988 (INDU8700888A)](arrete-du-6-mai-1988-indu8700888a)
 - [Arrêté du 6 mai 1988 (INTB8800190A)](arrete-du-6-mai-1988-intb8800190a)
-- [Arrêté du 6 mai 1988 (INTB8800191A)](arrete-du-6-mai-1988-intb8800191a)
 - [Arrêté du 6 mai 1988 (MCCX8810353A)](arrete-du-6-mai-1988-mccx8810353a)
 - [Arrêté du 6 mai 1988 (MCCX8810360A)](arrete-du-6-mai-1988-mccx8810360a)
 - [Arrêté du 6 mai 1988 (PTTT8800427A)](arrete-du-6-mai-1988-pttt8800427a)

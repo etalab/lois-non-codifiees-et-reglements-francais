@@ -493,7 +493,6 @@
 - [Décret n°99-904 du 19 octobre 1999 (INTC9900242D)](decret-n99-904-du-19-octobre-1999-intc9900242d)
 - [Décret n°99-390 du 19 mai 1999 (EQUP9900077D)](decret-n99-390-du-19-mai-1999-equp9900077d)
 - [Décret n°99-393 du 19 mai 1999 (FPPA9910008D)](decret-n99-393-du-19-mai-1999-fppa9910008d)
-- [Décret n°99-394 du 19 mai 1999 (FPPA9910006D)](decret-n99-394-du-19-mai-1999-fppa9910006d)
 - [Décret n°99-413 du 19 mai 1999 (INTM9900014D)](decret-n99-413-du-19-mai-1999-intm9900014d)
 - [Décret n°99-415 du 19 mai 1999 (ECOI9920132D)](decret-n99-415-du-19-mai-1999-ecoi9920132d)
 - [Décret n°99-1065 du 20 décembre 1999 (MESS9923546D)](decret-n99-1065-du-20-decembre-1999-mess9923546d)
