@@ -14,9 +14,9 @@ Dans tous les cas, la fermeture de ces portes doit être asservie soit à un dé
 
 - à 3 000 mètres cubes au rez-de-chaussée et aux étages lorsque le public n'a pas accès à un niveau supérieur à celui des réserves et que l'établissement occupe la totalité du bâtiment.
 
-§ 3. Lorsque les réserves sont protégées par une installation fixe d'extinction automatique à eau, les volumes définis au paragraphe 2 ci-dessus peuvent être portés respectivement à 5 000 mètres cubes et 10 000 mètres cubes.
+§ 3. Lorsque les réserves sont protégées par un système d'extinction automatique du type sprinkleur, les volumes définis au paragraphe 2 ci-dessus peuvent être portés respectivement à 5 000 mètres cubes et 10 000 mètres cubes.
 
-§ 4. Dans le cas d'un établissement à simple rez-de-chaussée non protégé par une installation fixe d'extinction automatique à eau, la capacité unitaire des réserves peut être portée à 5 000 mètres cubes lorsque l'isolement entre les surfaces de vente et les réserves est réalisé par une paroi en matéraux incombustibles et CF de degré deux heures. Cette paroi doit dépasser de 1 mètre la couverture de la surface de vente, sauf dans le cas où les éléments de couverture sont PF de degré une demi-heure sur une largeur de quatre mètres, mesurée horizontalement de part et d'autre de cette paroi.
+§ 4. Dans le cas d'un établissement à simple rez-de-chaussée non protégé par un système d'extinction automatique du type sprinkleur, la capacité unitaire des réserves peut être portée à 5 000 mètres cubes lorsque l'isolement entre les surfaces de vente et les réserves est réalisé par une paroi en matéraux incombustibles et CF de degré deux heures. Cette paroi doit dépasser de 1 mètre la couverture de la surface de vente, sauf dans le cas où les éléments de couverture sont PF de degré une demi-heure sur une largeur de quatre mètres, mesurée horizontalement de part et d'autre de cette paroi.
 
 § 5. Dans le cas d'un établissement à simple rez-de-chaussée et protégé en totalité par un réseau de détection automatique, la capacité unitaire des réserves peut être portée à 10 000 mètres cubes lorsque les conditions suivantes sont simultanément remplies :
 

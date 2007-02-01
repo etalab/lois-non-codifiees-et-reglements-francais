@@ -14,7 +14,7 @@ Limitation totale en poids et volume
 
 est limité à 100 kilogrammes par point de vente, le poids de ces derniers ne pouvant toutefois dépasser les limites fixées à l'article M 39.
 
-Ce poids total est cependant réduit à 50 kilogrammes en sous-sol lorsque le local de vente n'est pas protégé par une installation fixe d'extinction automatique à eau.
+Ce poids total est cependant réduit à 50 kilogrammes en sous-sol lorsque le local de vente n'est pas protégé par un système d'extinction automatique du type sprinkleur.
 
 De plus, le poids global des hydrocarbures liquéfiés, y compris celui des agents propulseurs des aérosols, est limité à 2 000 kilogrammes pour l'ensemble de la surface de vente.
 
@@ -48,7 +48,7 @@ Aucun transvasement ne doit être effectué en présence du public.
 
 § 3. Le poids total par exploitation des récipients pleins de peinture à base de liquide inflammable est limité à 10 000 kilogrammes quelle que soit la catégorie de l'établissement.
 
-Ces quantités peuvent être doublées si l'établissement est protégé par une installation fixe d'extinction automatique à eau. Aucun transvasement ne doit être effectué en présence du public.
+Ces quantités peuvent être doublées si l'établissement est protégé par un système d'extinction automatique du type sprinkleur. Aucun transvasement ne doit être effectué en présence du public.
 
 § 4. Un système d'extinction automatique ponctuel à poudre, équipé d'une rampe de diffusion et comportant un bac de rétention, doit être installé dans les établissements ou exploitations présentant plus de 500 litres de liquides inflammables de 1re catégorie ou d'alcools dont le titre est supérieur à 60 °, à l'exception des cosmétiques.
 

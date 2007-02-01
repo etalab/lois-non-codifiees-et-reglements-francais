@@ -12,11 +12,11 @@ a) Etablissements dont la superficie des locaux de vente (arrêté du 10 juillet
 
 - par des robinets d'incendie armés de DN 19/6 ou 25/8. Leur nombre et leurs emplacements doivent être déterminés de façon que toute la surface des locaux puisse être efficacement atteinte par deux jets de lance ;
 
-- par une installation fixe d'extinction automatique à eau.
+- par un système d'extinction automatique du type sprinkleur.
 
 b) Etablissements de 1re, 2e et 3e catégories dont la superficie des locaux de vente n'excède pas 3 000 mètres carrés :
 
-- dans les mêmes conditions que les établissements visés au a ci-dessus, à l'exception de l'installation fixe d'extinction automatique à eau.
+- dans les mêmes conditions que les établissements visés au a ci-dessus, à l'exception du système d'extinction automatique du type sprinkleur .
 
 c) Etablissements de 4e catégorie :
 

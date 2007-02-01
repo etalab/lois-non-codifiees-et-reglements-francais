@@ -18,6 +18,6 @@ Les locaux de stockage doivent être ventilés directement sur l'extérieur. Auc
 
 § 5. Le poids total par exploitation des récipients de peinture à base de liquides inflammables ne doit pas dépasser 10 000 kg.
 
-Ces quantités peuvent être doublées si l'établissement est protégé par une installation fixe d'extinction automatique à eau.
+Ces quantités peuvent être doublées si l'établissement est protégé par un système d'extinction automatique du type sprinkleur.
 
 § 6. Les quantités fixées aux paragraphes 4 et 5 ci-dessus peuvent être dépassées, notamment pour des raisons d'exploitation, sous réserve que des mesures adaptées soient prises après avis de la commission de sécurité.
