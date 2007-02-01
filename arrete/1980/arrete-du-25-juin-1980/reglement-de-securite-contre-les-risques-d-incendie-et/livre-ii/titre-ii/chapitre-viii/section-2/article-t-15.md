@@ -12,7 +12,7 @@ Ce recoupement des grandes salles d'expositions doit être réalisé :
 
 - soit par un recoupement traditionnel constitué par des murs CF de degré deux heures et des dispositifs de franchissement de même comportement au feu ;
 
-- soit par les systèmes visés au § 2 du présent article ;
+- soit par les systèmes visés au paragraphe 2 du présent article ;
 
 - soit par un volume libre visé à l'article T 16 ci-après, un tel recoupement est interdit en sous-sol.
 
@@ -83,7 +83,7 @@ TABLEAU II : Etablissements à plusieurs niveaux
 </table>
 </div>
 
-La surface de base définie dans les tableaux I et II est majorée si le nombre des sorties est augmenté de 50 % par niveau ou si l'établissement est défendu par une instalaltion fixe d'extinction automatique à eau du type sprinkleur conforme aux normes.
+La surface de base définie dans les tableaux I et II est majorée si le nombre des sorties est augmenté de 50 % par niveau ou si l'établissement est défendu par un système d'extinction automatique du type sprinkleur .
 
 Lorsque le nombre de sorties est augmenté de 50 % à chaque niveau, chaque sortie doit offrir au moins trois unités de passage et chaque bloc-porte doit posséder deux vantaux de mêmes dimensions.
 
@@ -95,7 +95,7 @@ En ce qui concerne le recoupement par volumes libres, rien ne s'oppose à la pr�
 
 - soit au moyen d'éléments de construction irrigués ou non présentant un CF de degré deux heures ;
 
-- soit par tout autre système accepté après avis de la commission centrale de sécurité.
+- soit par tout autre système accepté après avis de la Commission centrale de sécurité.
 
 Dans le cas de dispositif dynamique de recoupement, les conditions suivantes doivent être remplies :
 

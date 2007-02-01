@@ -18,4 +18,4 @@
 
 - dans les escaliers desservant les sous-sols de plus d'un niveau.
 
-§ 4. Une installation fixe d'extinction automatique peut exceptionnellement être demandée par la commission de sécurité dans certains locaux à haut risque d'incendie.
+§ 4. Un système d'extinction automatique du type sprinkleur ou toute autre installation d'extinction visée à l'article MS 30 peuvent exceptionnellement être demandés par la commission de sécurité dans certains locaux à haut risque d'incendie.
