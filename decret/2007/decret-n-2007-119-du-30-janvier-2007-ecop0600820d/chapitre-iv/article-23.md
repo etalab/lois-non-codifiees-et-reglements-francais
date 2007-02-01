@@ -1,0 +1,5 @@
+# Article 23
+
+Le fonctionnaire régi par le présent statut dont le conjoint, le partenaire lié par un pacte civil de solidarité, un parent ou un allié jusqu'au troisième degré inclus donne professionnellement des conseils fiscaux ou juridiques ou exerce la profession d'industriel, de commerçant, d'agriculteur ou de prestataire de services est tenu d'en faire la déclaration au service en précisant l'étendue géographique où s'exerce cette activité. Le directeur général de la concurrence, de la consommation et de la répression des fraudes peut, après avis de la commission administrative paritaire compétente, soit affecter l'agent dans un département différent de celui où son conjoint, son partenaire lié par un pacte civil de solidarité, son parent ou allié exerce son activité, soit spécifier dans la définition d'emploi de l'agent intéressé les secteurs d'activité en relation avec lesquels il ne pourra exercer ses fonctions.
+
+L'agent placé dans cette situation reste tenu de déclarer au service toute modification dans l'activité de son conjoint, partenaire, parent ou allié pouvant affecter les dispositions prises en application de l'alinéa précédent.

@@ -1,0 +1,5 @@
+# Article 24
+
+A défaut de conclusion un mois après l'entrée en vigueur de la présente loi d'un avenant conventionnel, pris en application des articles L. 162-5 et L. 162-14-1 du code de la sécurité sociale, autorisant des médecins relevant de certaines spécialités, sous des conditions tenant notamment à leur formation, à leur expérience professionnelle, à la qualité de leur pratique et à l'information des patients sur leurs honoraires, à pratiquer de manière encadrée des dépassements d'honoraires pour une partie de leur activité, les ministres chargés de la santé et de la sécurité sociale disposent, pendant un délai de quatre mois, de la faculté de modifier par arrêté, à cet effet, la convention nationale des médecins généralistes et spécialistes conclue le 12 janvier 2005.
+
+Afin de faciliter l'accès à des soins à tarifs opposables, cet arrêté peut également modifier les tarifs et rémunérations de médecins relevant de certaines spécialités autorisés à pratiquer des dépassements, lorsque aucun dépassement n'est facturé, pour les rendre égaux aux tarifs applicables aux médecins qui ne sont pas autorisés à en pratiquer.

@@ -1,0 +1,3 @@
+# Article 13
+
+La composition des commissions régionales de concertation en santé mentale, de la commission de concertation en santé mentale de Mayotte, des comités régionaux de l'organisation sanitaire, du comité de l'organisation sanitaire de Mayotte et des conférences sanitaires existant à la date de la publication du présent décret est mise en conformité avec les dispositions qui leur sont respectivement applicables des articles R. 3221-8, R. 3811-3, R. 6122-12, R. 6131-1, R. 6131-2, R. 6131-5, R. 6131-9, R. 6412-11, R. 6413-2 et R. 6413-4 du code de la santé publique dans la rédaction issue du présent décret, dans un délai de quatre mois après cette date.

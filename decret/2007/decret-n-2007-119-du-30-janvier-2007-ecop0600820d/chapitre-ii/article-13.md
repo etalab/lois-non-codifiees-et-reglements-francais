@@ -1,0 +1,3 @@
+# Article 13
+
+L'inspecteur doit rester au service de l'Etat pendant une durée minimale de huit ans à compter de sa nomination comme stagiaire, la durée de la formation ne pouvant être prise en compte au titre de cette période que dans la limite de sa durée normale. En cas de manquement à cette obligation survenant plus de trois mois après la date d'entrée en fonctions en qualité d'inspecteur stagiaire, il doit verser au Trésor, sauf si ce manquement ne lui est pas imputable, une indemnité égale au montant du traitement et de l'indemnité de résidence perçus pendant la durée du stage, augmenté des dépenses de toute nature liées à la formation reçue. Le montant de cette indemnité est fixé par arrêté du ministre chargé de l'économie.

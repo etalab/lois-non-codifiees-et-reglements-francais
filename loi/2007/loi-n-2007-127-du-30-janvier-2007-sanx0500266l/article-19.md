@@ -1,0 +1,7 @@
+# Article 19
+
+I. - Paragraphe modificateur
+
+II. - Les crédits correspondant au financement de l'évaluation des pratiques professionnelles par le fonds d'aide à la qualité des soins de ville mentionné à l'article L. 221-1-1 du code de la sécurité sociale, dans sa rédaction antérieure à l'entrée en vigueur de l'article 94 de la loi n° 2006-1640 du 21 décembre 2006 de financement de la sécurité sociale pour 2007, sont transférés au fonds des actions conventionnelles. Les droits et obligations au titre de l'évaluation des pratiques professionnelles retracés dans le bilan de clôture du fonds d'aide à la qualité des soins de ville sont repris dans le fonds des actions conventionnelles.
+
+III. - L'article 4 de l'ordonnance n° 96-345 du 24 avril 1996 relative à la maîtrise médicalisée des dépenses de soins est abrogé à la date d'entrée en vigueur du décret mentionné au I du présent article et au plus tard le 31 décembre 2007. Le fonds des actions conventionnelles reprend les droits et obligations tels qu'ils sont retracés dans le bilan de clôture du fonds de réorientation et de modernisation de la médecine libérale mentionné à l'article 4 de la même ordonnance, dans des conditions qui peuvent être précisées dans le décret mentionné au I du présent article. Les crédits inscrits au budget 2007 du fonds de réorientation et de modernisation de la médecine libérale sont transférés au fonds des actions conventionnelles.
