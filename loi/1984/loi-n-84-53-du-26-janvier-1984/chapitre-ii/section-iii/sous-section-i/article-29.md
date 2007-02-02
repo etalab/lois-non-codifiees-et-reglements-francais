@@ -1,6 +1,6 @@
 # Article 29
 
-Les représentants des collectivités et établissements sont désignés par l'autorité territoriale *compétente*, qui est, selon le cas, le maire, le président du conseil général, le président du conseil régional, le président de l'établissement public concerné ou le directeur des caisses de crédit municipal et des offices publics d'aménagement et de construction à l'égard des agents relevant de la présente loi.
+Les représentants des collectivités et établissements sont désignés par l'autorité territoriale, qui est, selon le cas, le maire, le président du conseil général, le président du conseil régional, le président de l'établissement public concerné ou le directeur des caisses de crédit municipal ou le directeur général des offices publics de l'habitat à l'égard des agents relevant de la présente loi.
 
 Lorsque la commission administrative paritaire est placée auprès d'un centre de gestion, les représentants de l'autorité territoriale sont désignés par les élus locaux membres du conseil d'administration du centre de gestion.
 
