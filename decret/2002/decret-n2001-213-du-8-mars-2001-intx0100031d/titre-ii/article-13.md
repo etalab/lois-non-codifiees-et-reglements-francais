@@ -24,7 +24,7 @@ Elle est assistée de quatre fonctionnaires :
 
 - un représentant du ministre chargé de l'outre-mer ;
 
-- un représentant du ministre chargé de La Poste ;
+- un représentant du ministre chargé des postes ;
 
 - un représentant du ministre chargé de la communication.
 
