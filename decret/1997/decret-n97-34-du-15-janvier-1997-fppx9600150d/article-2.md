@@ -1,9 +1,5 @@
 # Article 2
 
-Postérieurement à la publication du présent décret, des dérogations à la règle énoncée à l'article 1er peuvent être décidées dans les conditions suivantes :
+Par dérogation aux dispositions de l'article 1er, des décrets en Conseil d'Etat fixent la liste des décisions qui sont prises par les ministres ou par décret.
 
-1° Des décrets en Conseil d'Etat et en conseil des ministres fixent la liste des décisions qui sont prises par les ministres ou par décret ;
-
-2° Des décrets en Conseil d'Etat déterminent les décisions qui sont prises par les chefs des services à compétence nationale, le préfet de zone, le préfet de région, le préfet de police, le préfet maritime, les autres autorités déconcentrées de l'Etat, ou leurs agents, pour l'exercice des missions mentionnées aux articles 7 et 9 du décret n° 82-389 du 10 mai 1982 et aux articles 6 et 8 du décret n° 82-390 du 10 mai 1982 susvisés, les magistrats de l'ordre administratif ou judiciaire et les maires.
-
-Les décrets pris en application du 1° peuvent être modifiés par décret en Conseil d'Etat pour attribuer compétence au préfet ou à l'une des autorités mentionnées au 2° ci-dessus.
+En outre, des décrets en Conseil d'Etat déterminent les décisions qui sont prises par les chefs des services à compétence nationale, le préfet de zone, le préfet de région, le préfet de police, le préfet maritime, les autres autorités déconcentrées de l'Etat, ou leurs agents, pour l'exercice des missions mentionnées aux articles 32 et 33 du décret du 29 avril 2004 relatif aux pouvoirs des préfets, à l'organisation et à l'action des services de l'Etat dans les régions et départements, les magistrats de l'ordre administratif ou judiciaire et les maires.
