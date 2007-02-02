@@ -1,0 +1,3 @@
+# Article 10
+
+Le décret n° 93-852 du 17 juin 1993 portant règlement statutaire des personnels ne relevant pas de la fonction publique territoriale employés par les offices publics d'aménagement et de construction et portant modification du code de la construction et de l'habitation est mis en conformité avec les dispositions de l'article 3 dans un délai de deux ans à compter de la date de publication de la présente ordonnance. Les personnels ne relevant pas de la fonction publique territoriale employés dans les offices publics d'aménagement et de construction transformés en offices publics de l'habitat restent soumis aux dispositions du décret précité.
