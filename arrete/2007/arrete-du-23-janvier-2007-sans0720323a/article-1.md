@@ -1,0 +1,3 @@
+# Article 1
+
+A compter du 1er juillet 2007, pour obtenir le remboursement par les régimes obligatoires d'assurance maladie des médicaments inscrits sur la liste prévue à l'article L. 5126-4 du code de la santé publique, les établissements de santé ajoutent aux renseignements transmis à la caisse d'assurance maladie compétente, en application des dispositions des articles R. 161-42 et suivants du code de la sécurité sociale, les renseignements qui figurent en annexe du présent arrêté en vue de procéder à la constatation des soins, à l'ouverture du droit au remboursement et à la maîtrise des dépenses de santé.

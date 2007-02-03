@@ -1,5 +1,5 @@
 # Article 3
 
-Le programme des enseignements est fixé dans l'annexe (1) au présent arrêté.
+Le programme de la formation, le référentiel de diplôme et le référentiel d'activité professionnelle sont annexés (1) au présent arrêté.
 
-(1) Cette annexe peut être obtenue dans les écoles vétérinaires d'Alfort, Lyon, Nantes et Toulouse.
+(1) Ces annexes peuvent être obtenues dans les écoles vétérinaires d'Alfort, Lyon, Nantes et Toulouse.
