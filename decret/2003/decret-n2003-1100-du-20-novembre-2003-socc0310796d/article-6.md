@@ -2,7 +2,7 @@
 
 Participent avec voix consultative à chacune des réunions du Conseil national de la vie associative :
 
-1° Les représentants des ministres chargés de l'économie sociale, de la jeunesse, des affaires étrangères, des affaires européennes, des affaires sociales, de l'agriculture, des anciens combattants, du budget, du commerce et de l'artisanat, de la coopération, de la culture, des droits des femmes, de l'économie, de la consommation, de l'éducation nationale, de l'emploi, de l'environnement, de la famille, de la fonction publique, de l'intégration, de l'intérieur, de la justice, du logement, de l'urbanisme et de l'habitat, des personnes âgées, des personnes handicapées, de la recherche, de la santé, des sports, du tourisme, des transports et de la ville ;
+1° Les représentants des ministres chargés de la vie associative, de l'économie sociale, de la jeunesse, des affaires étrangères, des affaires européennes, des affaires sociales, de l'agriculture, des anciens combattants, du budget, du commerce et de l'artisanat, de la coopération, de la culture, des droits des femmes, de l'économie, de la consommation, de l'éducation nationale, de l'emploi, de l'environnement, de la famille, de la fonction publique, de l'intégration, de l'intérieur, de la justice, du logement, de l'urbanisme et de l'habitat, des personnes âgées, des personnes handicapées, de la recherche, de la santé, des sports, du tourisme, des transports et de la ville ;
 
 2° Deux représentants des régions désignés par l'Association des régions de France ;
 

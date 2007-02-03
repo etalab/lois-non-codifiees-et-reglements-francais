@@ -1,8 +1,8 @@
 # Article 3
 
-Le Conseil national de la vie associative comprend soixante-seize membres répartis comme suit :
+Le Conseil national de la vie associative comprend quatre-vingts membres répartis comme suit :
 
-1° Soixante-six membres représentant les associations, désignés dans les conditions fixées à l'article 4.
+1° Soixante-dix membres représentant les associations, désignés dans les conditions fixées à l'article 4.
 
 Des membres suppléants représentant d'autres associations que les membres titulaires sont désignés dans les mêmes formes ;
 

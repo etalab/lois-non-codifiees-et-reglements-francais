@@ -10,4 +10,4 @@ Le bureau est présidé par le président du Conseil national de la vie associat
 
 Le bureau a compétence pour connaître de toutes questions relevant des missions du Conseil national de la vie associative.
 
-Il est assisté d'un secrétariat du Conseil national de la vie associative assuré par les représentants des ministres chargés de l'économie sociale, de la jeunesse et des sports.
+Il est assisté d'un secrétariat du Conseil national de la vie associative assuré par les représentants du ministre chargé de la vie associative.
