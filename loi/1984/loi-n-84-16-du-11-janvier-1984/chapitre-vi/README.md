@@ -1,6 +1,7 @@
 # Chapitre VI : Notation, avancement, mutation, reclassement.
 
 - [Article 55](article-55.md)
+- [Article 55 bis](article-55-bis.md)
 - [Article 56](article-56.md)
 - [Article 57](article-57.md)
 - [Article 58](article-58.md)

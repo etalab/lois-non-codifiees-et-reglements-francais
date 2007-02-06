@@ -30,17 +30,19 @@ Sur demande de l'intéressé, l'administration a la faculté, après avis du com
 
 Les dispositions de la deuxième phrase du quatrième alinéa du 2° du présent article sont applicables aux congés de longue durée ;
 
-4° bis. Après un congé de longue maladie ou de longue durée, les fonctionnaires peuvent être autorisés, après avis du comité médical compétent, à accomplir un service à mi-temps pour raison thérapeutique, accordé pour une période de trois mois et renouvelable dans la limite d'un an par affection ayant ouvert droit à congé de longue maladie ou congé de longue durée.
+4° bis.  Après six mois consécutifs de congé de maladie pour une même affection, après un congé de longue maladie ou un congé de longue durée, les fonctionnaires peuvent être autorisés, après avis du comité médical compétent, à accomplir un service à temps partiel pour raison thérapeutique, accordé pour une période de trois mois renouvelable dans la limite d'un an pour une même affection.
 
-Après un congé pour accident de service ou maladie contractée dans l'exercice des fonctions, le travail à mi-temps thérapeutique peut être accordé pour une période d'une durée maximale de six mois renouvelable une fois, après avis favorable de la commission de réforme compétente.
+Après un congé pour accident de service ou maladie contractée dans l'exercice des fonctions, le travail à temps partiel thérapeutique peut être accordé pour une période d'une durée maximale de six mois renouvelable une fois, après avis favorable de la commission de réforme compétente.
 
-Le mi-temps thérapeutique peut être accordé :
+Le temps partiel thérapeutique peut être accordé :
 
-- soit parce que la reprise des fonctions à mi-temps est reconnue comme étant de nature à favoriser l'amélioration de l'état de santé de l'intéressé ;
+- soit parce que la reprise des fonctions à temps partiel est reconnue comme étant de nature à favoriser l'amélioration de l'état de santé de l'intéressé ;
 
 - soit parce que l'intéressé doit faire l'objet d'une rééducation ou d'une réadaptation professionnelle pour retrouver un emploi compatible avec son état de santé.
 
-Les fonctionnaires autorisés à travailler à mi-temps pour raison thérapeutique perçoivent l'intégralité de leur traitement ;
+Les fonctionnaires autorisés à travailler à temps partiel pour raison thérapeutique perçoivent l'intégralité de leur traitement ;
+
+Ce temps partiel thérapeutique ne peut, en aucun cas, être inférieur au mi-temps ;
 
 5° Au congé pour maternité, ou pour adoption, avec traitement, d'une durée égale à celle prévue par la législation sur la sécurité sociale.Le droit au congé d'adoption est ouvert à la mère ou au père adoptif. Lorsque les deux conjoints travaillent, soit l'un des deux renonce à son droit, soit le congé est réparti entre eux. Dans ce dernier cas, la durée de celui-ci est augmentée et fractionnée selon les modalités prévues par la législation sur la sécurité sociale.
 
