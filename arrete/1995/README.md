@@ -282,7 +282,6 @@
 - [Arrêté du 7 février 1995 (INTC9500090A)](arrete-du-7-fevrier-1995-intc9500090a)
 - [Arrêté du 7 février 1995 (INTC9500091A)](arrete-du-7-fevrier-1995-intc9500091a)
 - [Arrêté du 7 février 1995 (MENL9500224A)](arrete-du-7-fevrier-1995-menl9500224a)
-- [Arrêté du 7 février 1995 (MJSK9570020A)](arrete-du-7-fevrier-1995-mjsk9570020a)
 - [Arrêté du 7 février 1995 (SANP9500495A)](arrete-du-7-fevrier-1995-sanp9500495a)
 - [Arrêté du 7 février 1995 (SPSP9500918A)](arrete-du-7-fevrier-1995-spsp9500918a)
 - [Arrêté du 7 février 1995 (SPSP9500919A)](arrete-du-7-fevrier-1995-spsp9500919a)
