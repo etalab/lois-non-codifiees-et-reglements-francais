@@ -9,3 +9,5 @@ Les dispositions de l'article 10 de la loi n° 84-16 du 11 janvier 1984 précit�
 Les personnels de La Poste et de France Télécom ne relèvent pas des catégories prévues à l'article 29 de la loi n° 84-16 du 11 janvier 1984 précitée.
 
 Les fonctionnaires de La Poste et de France Télécom peuvent être sur leur demande, mis à disposition, détachés ou placés hors cadre, en vue d'assurer des fonctions propres aux entreprises et à leurs filiales, selon des modalités fixées par décret en Conseil d'Etat.
+
+Les troisième, quatrième, cinquième et sixième alinéas de l'article 22 de la loi n° 83-634 du 13 juillet 1983 précitée sont applicables aux fonctionnaires de la Poste et de France Télécom, sauf dispositions expresses d'une convention ou d'un accord collectif interprofessionnel, de branche ou d'entreprise prévoyant des dispositions plus favorables.

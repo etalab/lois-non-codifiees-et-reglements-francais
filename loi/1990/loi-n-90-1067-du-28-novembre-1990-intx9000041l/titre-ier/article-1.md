@@ -1,7 +1,7 @@
 # Article 1
 
-I. - Par dérogation à l'article 41 de la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat, les bibliothécaires qui ont la qualité de fonctionnaire de l'Etat peuvent être mis à la disposition des collectivités territoriales pour exercer leurs fonctions dans les bibliothèques classées.
+I. - Par dérogation au II de l'article 42 de la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat, la mise à disposition des conservateurs généraux et des conservateurs des bibliothèques qui ont la qualité de fonctionnaires de l'Etat auprès des collectivités territoriales pour exercer leurs fonctions dans les bibliothèques classées n'est pas soumise à l'obligation de remboursement.
 
 II. - L'article L. 341-3 du code des communes est abrogé.
 
-III. - [* modification de l'article 61 de la loi 83-663 du 22            juillet 1983 *]
+III. - Paragraphe modificateur.

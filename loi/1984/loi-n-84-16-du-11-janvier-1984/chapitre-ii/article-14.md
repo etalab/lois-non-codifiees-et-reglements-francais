@@ -1,6 +1,6 @@
 # Article 14
 
-Dans chaque corps de fonctionnaires existent une ou plusieurs commissions administratives paritaires comprenant, en nombre égal, des représentants de l'administration et des représentants du personnel.
+Dans chaque corps de fonctionnaires existent une ou plusieurs commissions administratives paritaires comprenant, en nombre égal, des représentants de l'administration et des représentants du personnel. Des commissions administratives paritaires communes à plusieurs corps peuvent également être créées à l'échelon central, aux échelons déconcentrés et dans les établissements publics, sans conditions d'effectifs au sein de ces corps au niveau national.
 
 Les membres représentant le personnel sont élus au scrutin de liste à deux tours avec représentation proportionnelle.
 
@@ -16,4 +16,4 @@ Les organisations affiliées à une même union ne peuvent présenter des listes
 
 Les contestations sur la recevabilité des listes déposées sont portées devant le tribunal administratif compétent dans les trois jours qui suivent la date limite du dépôt des candidatures. Le tribunal administratif statue dans les quinze jours qui suivent le dépôt de la requête. L'appel n'est pas suspensif.
 
-Ces commissions sont consultées sur les décisions individuelles intéressant les membres du corps.
+Ces commissions sont consultées sur les décisions individuelles intéressant les membres du ou des corps qui en relèvent.

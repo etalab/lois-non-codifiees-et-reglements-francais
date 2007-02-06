@@ -8,7 +8,7 @@ La non-activité est la position temporaire du militaire qui se trouve dans l'un
 
 3° En congé parental ;
 
-4° En congé de présence parentale ;
+4° (Abrogé)
 
 5° En situation de retrait d'emploi ;
 

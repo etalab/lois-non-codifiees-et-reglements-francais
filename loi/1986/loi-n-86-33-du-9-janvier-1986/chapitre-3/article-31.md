@@ -15,3 +15,5 @@ Les nominations sont prononcées dans l'ordre d'inscription sur la liste princip
 Lorsque les concours pourvoient aux emplois de plusieurs établissements, chaque candidat est affecté à un établissement en fonction de ses préférences prises en compte selon l'ordre de mérite.
 
 Le jury peut, si nécessaire, et pour toute épreuve, se constituer en groupes d'examinateurs. Toutefois, afin d'assurer l'égalité de notation des candidats, le jury opère, s'il y a lieu, la péréquation des notes attribuées par chaque groupe d'examinateurs et procède à la délibération finale.
+
+Si nécessaire et pour toute épreuve, des examinateurs spécialisés peuvent en outre être nommés, au plus tard la veille de l'épreuve pour laquelle ils sont désignés, par l'autorité investie du pouvoir de nomination du jury. Les examinateurs spécialisés participent aux délibérations du jury, avec voix consultative, pour l'attribution des notes se rapportant aux épreuves qu'ils ont évaluées ou corrigées.

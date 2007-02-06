@@ -6,7 +6,9 @@ II. - Les fonctionnaires des corps mentionnés au I ci-dessus bénéficient, s'i
 
 Cette bonification ne peut être supérieure à cinq annuités. Les services accomplis au-delà de la limite d'âge ne sont pas pris en compte pour le calcul de la bonification.
 
-Par dérogation aux dispositions du 1° du I de l'article L. 24 du code des pensions civiles et militaires de retraite, la jouissance de la pension civile est immédiate pour les fonctionnaires de ces corps qui sont admis à la retraite sur leur demande s'ils justifient de vingt-cinq années de services effectifs en position d'activité dans ces corps ou de services militaires obligatoires et s'ils se trouvent, au 1er janvier de l'année considérée, à moins de cinq ans de la limite d'âge de leur corps prévue au I du présent article, ou au III pendant la période transitoire. La bonification peut leur être accordée ainsi qu'aux femmes fonctionnaires remplissant les mêmes conditions qui ont droit à la jouissance immédiate de leur pension au titre du 3° du I de l'article L. 24 dudit code.
+Par dérogation au 1° du I de l'article L. 24 du code des pensions civiles et militaires de retraite, la liquidation de la pension civile intervient pour les fonctionnaires de ces corps qui sont admis à la retraite sur leur demande s'ils justifient de vingt-cinq années de services effectifs en position d'activité dans ces corps ou de services militaires obligatoires et s'ils se trouvent à moins de cinq ans de la limite d'âge de leur corps prévue au I du présent article. La bonification peut leur être accordée ainsi qu'aux fonctionnaires remplissant les mêmes conditions et dont la pension peut être liquidée au titre du 3° du I de l'article L. 24 précité.
+
+La liquidation de la pension de retraite intervient dans les conditions définies par le VI de l'article 5 et par les II, III et V de l'article 66 de la loi n° 2003-775 du 21 août 2003 portant réforme des retraites.
 
 III. - A titre transitoire, la limite d'âge des fonctionnaires mentionnés au I ci-dessus est fixée à :
 

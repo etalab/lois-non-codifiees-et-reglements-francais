@@ -4,4 +4,6 @@ Les crédits nécessaires à l'accomplissement de la mission du Médiateur de la
 
 Le Médiateur de la République présente ses comptes au contrôle de la Cour des comptes.
 
-Les collaborateurs du Médiateur de la République sont nommés par celui-ci pour la durée de sa mission. Ils sont tenus aux obligations définies par l'article 10 de l'ordonnance n° 59-244 du 4 février 1959 relative au statut général des fonctionnaires. Lorsqu'ils ont la qualité de fonctionnaire de l'Etat ou des collectivités publiques territoriales, ils bénéficient de garanties quant à leur intégration dans leur corps d'origine, déterminées par décret en Conseil d'Etat.
+Le Médiateur de la République peut, pour former son cabinet, recruter un ou plusieurs collaborateurs et mettre librement fin à leurs fonctions. En outre, il dispose de services placés sous son autorité, au sein desquels il peut recruter des fonctionnaires et des agents non titulaires de droit public. Les modalités d'application du présent alinéa sont fixées par décret en Conseil d'Etat.
+
+Des fonctionnaires ou des agents non titulaires de droit public employés pour une durée indéterminée peuvent être mis à disposition du Médiateur de la République.

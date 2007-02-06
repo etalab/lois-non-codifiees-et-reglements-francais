@@ -44,4 +44,20 @@ VI. - Conformément au I, les agents mentionnés au II sont soumis au statut gé
 
 Les agents mentionnés au III ne peuvent être licenciés que pour insuffisance professionnelle ou pour motif disciplinaire jusqu'à l'expiration du délai qui leur est ouvert par les décrets prévus au IV. Ceux qui ne demandent pas leur intégration ou dont la titularisation n'a pas été prononcée continuent à être employés dans les conditions prévues par la réglementation qui leur est applicable ou suivant les stipulations du contrat qu'ils ont souscrit.
 
-Les agents mentionnés aux II et III demeurent assujettis jusqu'à une date fixée par décret en Conseil d'Etat aux régimes de sécurité sociale auxquels ils sont affiliés à la date de publication de la loi n° 2003-660 du 21 juillet 2003 précitée.
+Jusqu'à leur intégration ou leur titularisation dans un des corps ou cadres d'emplois mentionnés au II, les agents mentionnés aux II et III demeurent assujettis aux régimes de sécurité sociale auxquels ils sont affiliés à la date de publication de la loi n° 2003-660 du 21 juillet 2003 précitée.
+
+VII. - Les agents mentionnés aux II et III qui sont intégrés ou titularisés dans un des corps ou cadres d'emplois mentionnés au II demeurent assujettis pour les risques sociaux autres que la vieillesse et l'invalidité aux régimes de sécurité sociale auxquels ils sont affiliés à la date de publication de la loi n° 2003-660 du 21 juillet 2003 précitée.
+
+Ils sont affiliés, au jour de leur intégration ou de leur titularisation et au plus tôt à compter du premier jour du sixième mois qui suit la publication de la loi n° 2007-148 du 2 février 2007 de modernisation de la fonction publique, au régime spécial de retraite correspondant au corps ou cadre d'emplois d'intégration ou de titularisation.
+
+Les services effectués par ces agents sont pris en compte dans une pension unique liquidée comme suit :
+
+- les services effectués antérieurement à l'affiliation au régime spécial précité sont pris en compte selon les règles applicables, au 1er janvier 2006, dans le régime de la caisse de retraite des fonctionnaires et agents des collectivités publiques de Mayotte en retenant les derniers émoluments soumis à retenue pour pension perçus par l'intéressé depuis six mois au moins avant l'affiliation au régime spécial de retraite ;
+
+- les services effectués postérieurement à l'affiliation au régime spécial précité sont pris en compte selon les règles applicables dans ce régime.
+
+L'ensemble des services effectués par ces agents sont pris en compte pour la constitution du droit à pension dans le régime de la caisse de retraite des fonctionnaires et agents des collectivités publiques de Mayotte et dans le régime spécial précité.
+
+Ces agents conservent, à titre personnel, le bénéfice de l'âge auquel ils peuvent liquider leur pension et de la limite d'âge applicables antérieurement à leur affiliation au régime spécial précité. Pour l'application de la condition de durée de services dans des emplois classés dans la catégorie active prévue au 1° du I de l'article L. 24 du code des pensions civiles et militaires de retraite et pour l'attribution d'une bonification de services liée à ces emplois, sont pris en compte les services effectués antérieurement à cette date par ces agents dans des fonctions ayant, par leur contenu, la même nature que celles qu'ils exercent dans ces emplois.
+
+Un décret en Conseil d'Etat précise les modalités de mise en oeuvre de ces dispositions.

@@ -4,7 +4,7 @@ Chaque concours donne lieu à l'établissement d'une liste classant par ordre de
 
 Ce jury établit, dans le même ordre, une liste complémentaire afin de permettre le remplacement des candidats inscrits sur la liste principale qui ne peuvent pas être nommés ou, éventuellement, de pourvoir des vacances d'emplois survenant dans l'intervalle de deux concours.
 
-Pour chaque corps, le nombre des postes qui peuvent être pourvus par la nomination de candidats inscrits sur la liste complémentaire ne peut excéder un pourcentage, fixé par décret, du nombre des postes offerts au concours.
+Pour chaque concours, le nombre des postes qui peuvent être pourvus par la nomination de candidats inscrits sur la liste complémentaire ne peut excéder un pourcentage, fixé par décret, du nombre des postes offerts au concours.
 
 La validité de la liste complémentaire cesse automatiquement à la date du début des épreuves du concours suivant et, au plus tard, deux ans après la date d'établissement de la liste complémentaire.
 
@@ -13,3 +13,5 @@ Les nominations sont prononcées dans l'ordre d'inscription sur la liste princip
 Les candidats aux concours doivent remplir les conditions générales prévues aux articles 5 et 5 bis du titre Ier du statut général et par le statut particulier du corps auxquels ils postulent au plus tard à la date de la première épreuve du concours ou, s'il s'agit d'un concours comprenant un examen des titres des candidats, à la date de la première réunion du jury chargé de la sélection des dossiers, sauf indications contraires dans le statut particulier du corps concerné.
 
 Le jury peut, si nécessaire, et pour toute épreuve, se constituer en groupes d'examinateurs. Toutefois, afin d'assurer l'égalité de notation des candidats, le jury opère, s'il y a lieu, la péréquation des notes attribuées par chaque groupe d'examinateurs et procède à la délibération finale.
+
+Si nécessaire et pour toute épreuve, des examinateurs spécialisés peuvent en outre être nommés, au plus tard la veille de l'épreuve pour laquelle ils sont désignés, par l'autorité investie du pouvoir de nomination du jury. Les examinateurs spécialisés participent aux délibérations du jury, avec voix consultative, pour l'attribution des notes se rapportant aux épreuves qu'ils ont évaluées ou corrigées.
