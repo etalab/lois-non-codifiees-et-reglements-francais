@@ -6,7 +6,7 @@ Elle est chargée :
 
 - de participer à l'élaboration et au contrôle de l'application des mesures à prendre en matière de protection et de sécurité ;
 
-- de prévenir et rechercher les atteintes à la défense nationale telles qu'elles sont définies par le code pénal et le code de justice militaire ;
+- de prévenir et rechercher les atteintes à la défense nationale telles qu'elles sont définies par le code pénal et le code de justice militaire, notamment en mettant en oeuvre des mesures de contre-ingérence pour s'opposer à toute menace pouvant prendre la forme d'activités de terrorisme, d'espionnage, de subversion, de sabotage ou de crime organisé ;
 
 - de contribuer à assurer la protection des personnes susceptibles d'avoir accès à des informations protégées ou à des zones, des matériels ou des installations sensibles. En particulier, elle met en oeuvre la procédure d'habilitation prévue par l'article 8 du décret du 17 juillet 1998 susvisé ;
 
