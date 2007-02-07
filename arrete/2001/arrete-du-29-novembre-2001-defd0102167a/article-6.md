@@ -1,8 +1,8 @@
 # Article 6
 
-La sous-direction de la protection du patrimoine industriel et des systèmes d'information et de la surveillance du commerce des armements est chargée :
+La sous-direction de la protection est chargée :
 
-- de participer à l'élaboration et au contrôle des mesures de sécurité nécessaires à la protection du patrimoine industriel lié à la défense, des installations sensibles et des systèmes d'information ;
+- de participer à l'élaboration et au contrôle des mesures de sécurité nécessaires à la protection du patrimoine industriel, scientifique et technologique lié à la défense, des installations sensibles et des systèmes d'information ;
 
 - de participer à la surveillance et au contrôle du commerce des armements ;
 

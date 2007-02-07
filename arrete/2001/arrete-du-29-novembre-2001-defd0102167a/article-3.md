@@ -4,7 +4,7 @@ L'organisme d'administration centrale comprend :
 
 - la sous-direction du renseignement ;
 
-- la sous-direction de la protection du patrimoine industriel et des systèmes d'information et de la surveillance du commerce des armements ;
+- la sous-direction de la protection ;
 
 - la sous-direction recherche ;
 
@@ -16,8 +16,8 @@ L'organisme d'administration centrale comprend :
 
 En outre, sont directement rattachés au directeur :
 
-- le bureau de liaison chargé des relations avec le ministère de l'intérieur ;
+- le cabinet ;
 
-- le bureau de liaison chargé des relations avec la gendarmerie nationale ;
+- le bureau de la prospective et des études générales ;
 
-- le bureau de la prospective et des études générales.
+- le bureau de liaison chargé des relations avec le ministère de l'intérieur.
