@@ -1,7 +1,3 @@
 # Article 3
 
-Pour les cotisations acquittées au profit des institutions relevant de la convention nationale de retraite et de prévoyance des cadres du 14 mars 1947 et à compter du 15 septembre 2002, l'Etat supporte les charges incombant à l'employeur dans la limite d'un taux de 10 %. Les cotisations correspondantes incombant aux maîtres et documentalistes ne peuvent être inférieures au taux de 6 %.
-
-A ces taux contractuels doit s'ajouter la majoration résultant de l'application des décisions prises par l'Association générale des institutions de retraite des cadres (AGIRC) au titre de la fixation du taux d'appel des cotisations. Cette majoration est répartie entre l'Etat et les maîtres et documentalistes proportionnellement aux taux visés à l'alinéa précédent.
-
-S'y ajoute également, à compter du 15 septembre 2002, la contribution exceptionnelle et temporaire (CET) résultant de l'application des décisions prises par l'Association générale des institutions de retraite des cadres (AGIRC), et assise sur la totalité des rémunérations perçues par les salariés relevant du régime des cadres. Cette contribution incombe à l'Etat dans la limite de 0,22 % et aux maîtres et documentalistes dans la limite de 0,13 %.
+Les taux des cotisations acquittées au profit des institutions affiliées au régime régi par la convention collective nationale de retraite et de prévoyance des cadres du 14 mars 1947 seront ceux qui résultent de cette convention et de ses avenants à compter de la date d'effet de leur extension et de leur élargissement en application des articles L. 911-3 et L. 911-4 du code de la sécurité sociale.
