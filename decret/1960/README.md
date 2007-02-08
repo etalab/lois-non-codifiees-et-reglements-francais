@@ -17,6 +17,7 @@
 - [Décret n°60-452 du 12 mai 1960](decret-n60-452-du-12-mai-1960)
 - [Décret n°60-379 du 15 avril 1960](decret-n60-379-du-15-avril-1960)
 - [Décret n°60-703 du 15 juillet 1960](decret-n60-703-du-15-juillet-1960)
+- [Décret n°60-73 du 15 janvier 1960](decret-n60-73-du-15-janvier-1960)
 - [Décret n°60-1154 du 18 octobre 1960](decret-n60-1154-du-18-octobre-1960)
 - [Décret n°60-1362 du 19 décembre 1960](decret-n60-1362-du-19-decembre-1960)
 - [Décret n°60-1390 du 19 décembre 1960](decret-n60-1390-du-19-decembre-1960)
