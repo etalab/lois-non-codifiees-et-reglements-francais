@@ -26,7 +26,13 @@ Outre les membres visés à l'article 1er du présent arrêté, le Conseil natio
 
 - le président de l'Intersyndicat national des internes des hôpitaux des villes de faculté ou son représentant ;
 
-- le président du Syndicat national des gynécologues et obstétriciens de France, ou son représentant.
+- le président du Syndicat national des gynécologues et obstétriciens de France, ou son représentant ;
+
+- le président de chacun des syndicats représentatifs de médecins spécialistes libéraux ou son représentant ;
+
+- le président du Syndicat national des chirurgiens orthopédistes ou son représentant ;
+
+- le président du Syndicat national des chirurgiens viscéraux et digestifs ou son représentant.
 
 2° Des membres représentant les fédérations hospitalières :
 
@@ -50,7 +56,11 @@ Outre les membres visés à l'article 1er du présent arrêté, le Conseil natio
 
 - le président de la conférence des directeurs des centres hospitalo-universitaires ou son représentant ;
 
-- le président de la conférence des directeurs des centres hospitaliers ou son représentant.
+- le président de la conférence des directeurs des centres hospitaliers ou son représentant ;
+
+- le président de la Conférence nationale des présidents de commission médicale des établissements privés à but non lucratif ou son représentant ;
+
+- le président de la Conférence nationale des présidents de commission médicale d'établissement de l'hospitalisation privée.
 
 4° Des membres représentant les sociétés savantes :
 
@@ -79,3 +89,5 @@ Outre les membres visés à l'article 1er du présent arrêté, le Conseil natio
 - le président du Conseil national de l'ordre des médecins ou son représentant ;
 
 - le président de l'Institut national du cancer ou son représentant.
+
+7° Une personnalité qualifiée nommée par arrêté du ministre chargé de la santé.
