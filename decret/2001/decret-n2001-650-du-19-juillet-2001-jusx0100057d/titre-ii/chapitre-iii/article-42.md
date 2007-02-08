@@ -1,3 +1,3 @@
 # Article 42
 
-Lorsqu'elle est saisie d'un recours formé contre une décision prise en application des dispositions du chapitre II du présent titre, la cour d'appel de Paris statue en chambre du conseil, hors le cas où, à la demande de l'intéressé, les débats se déroulent en audience publique ; mention en est faite dans la décision.
+Les débats devant la cour d'appel sont publics. Toutefois, la cour peut décider que les débats ne seront pas publics si la personne poursuivie en fait expressément la demande ou s'il doit résulter de leur publicité une atteinte à un secret protégé par la loi ou à l'intimité de la vie privée ; mention en est faite dans la décision.

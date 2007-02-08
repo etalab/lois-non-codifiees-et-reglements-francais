@@ -1,6 +1,6 @@
 # Article 16
 
-Hormis les personnes mentionnées à l'article 54 de la loi du 10 juillet 2000 susvisée, nul ne peut diriger des ventes volontaires de meubles aux enchères publiques s'il ne remplit les conditions suivantes :
+Nul ne peut diriger des ventes volontaires de meubles aux enchères publiques s'il ne remplit les conditions suivantes :
 
 1° Etre Français ou ressortissant d'un Etat autre que la France membre de la Communauté européenne ou partie à l'accord sur l'Espace économique européen ;
 
@@ -11,3 +11,5 @@ Hormis les personnes mentionnées à l'article 54 de la loi du 10 juillet 2000 s
 4° Avoir subi avec succès l'examen d'accès au stage prévu à la section 1 du présent chapitre ;
 
 5° Avoir accompli le stage mentionné au 4° dans les conditions prévues à la section 2 du présent chapitre.
+
+Les personnes mentionnées à l'article 54 de la loi du 10 juillet 2000 susvisée sont dispensées des conditions prévues aux 1°, 3°, 4° et 5°.

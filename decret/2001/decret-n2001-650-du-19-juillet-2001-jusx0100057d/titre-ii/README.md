@@ -2,4 +2,4 @@
 
 - [Chapitre Ier : Fonctionnement.](chapitre-ier)
 - [Chapitre II : Procédure disciplinaire.](chapitre-ii)
-- [Chapitre III : Recours contre les décisions du conseil.](chapitre-iii)
+- [Chapitre III : Recours contre les décisions du conseil ou de son président](chapitre-iii)

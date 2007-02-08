@@ -1,4 +1,4 @@
-# Chapitre III : Recours contre les décisions du conseil.
+# Chapitre III : Recours contre les décisions du conseil ou de son président
 
 - [Article 40](article-40.md)
 - [Article 41](article-41.md)
