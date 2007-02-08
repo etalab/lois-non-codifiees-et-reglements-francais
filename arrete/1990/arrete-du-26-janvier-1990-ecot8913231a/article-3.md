@@ -1,3 +1,5 @@
 # Article 3
 
-Les fonds en instance d'emploi sont placés en liquidités dans une proportion qui doit être au moins égale à 4,5 p. 100 de l'actif total de la gestion collective au 31 mars 1990.
+L'encours total correspondant aux financements visés aux 2 et 3 de l'article 1er doit atteindre au moins 89 % de la gestion collective à compter du 1er janvier 2008.
+
+Les fonds en instance d'emploi sont placés en liquidités dans une proportion qui doit être au moins égale à 2 p. 100 de l'actif total de la gestion collective.

@@ -1,3 +1,3 @@
 # Article 1
 
-La valeur nominale des titres pour le développement industriel émis par la Caisse des dépôts et consignations est fixée à 16 000 euros.
+Le règlement de gestion collective annexé au présent arrêté est approuvé.
