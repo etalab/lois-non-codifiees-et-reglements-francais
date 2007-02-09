@@ -12,7 +12,7 @@ c) Le directeur de l'administration générale au ministère chargé de la cultu
 
 d) Le directeur du budget ou son représentant ;
 
-e) Le président du conseil artistique des musées nationaux ou, en cas d'empêchement, le vice-président ;
+e) Le président du conseil artistique des musées nationaux ou, en cas d'empêchement, son représentant qu'il désigne au sein de ce conseil ;
 
 2° Le président de l'Etablissement public du musée du Louvre ou son représentant ;
 

@@ -16,4 +16,8 @@ Les ressources de la Réunion des musées nationaux comprennent :
 
 7. Les subventions de l'Etat, des collectivités locales et de toutes autres personnes publiques et privées ;
 
-8. Les emprunts.
+8. Les emprunts ;
+
+9. Les recettes provenant de la diffusion des fonds photographiques mentionnés au 1° de l'article 2-1 ;
+
+10. Le produit des droits de propriété intellectuelle mentionnés au 2° de l'article 2-1.

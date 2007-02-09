@@ -8,4 +8,4 @@ Le conseil d'administration ne peut valablement délibérer que si la majorité 
 
 Les délibérations sont prises à la majorité des voix des membres présents ou représentés. En cas de partage égal des voix, la voix du président de séance est prépondérante.
 
-Les membres du conseil d'administration ne reçoivent aucune rémunération à ce titre. Ils bénéficient du remboursement des frais de déplacement ou de séjour, dans des conditions fixées par le décret n° 66-610 du 10 août 1966 et par le décret n° 90-437 du 28 mai 1990.
+Les membres du conseil d'administration ne reçoivent aucune rémunération à ce titre. Ils bénéficient du remboursement des frais de déplacement ou de séjour, dans les conditions prévues par la réglementation applicable aux fonctionnaires de l'Etat.
