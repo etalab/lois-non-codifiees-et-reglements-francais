@@ -74,7 +74,7 @@ III. - Règles spécifiques
 
 2.2. Une règle d'attribution prioritaire des greffons cardiaques, pulmonaires ou cardio-pulmonaires à l'échelon interrégional, pour des malades dont la vie est menacée à très court terme, doit être approuvée par l'Agence de la biomédecine. Pour ces malades, une dérogation à la règle décrite au point II.10 est possible, selon des modalités définies par l'Agence de la biomédecine qui comportent le recours au collège d'experts.
 
-2.3. les enfants de moins de 16 ans sont prioritaires à l'échelon national selon des modalités définies par l'Agence de la biomédecine et tenant compte du poids et de l'âge du donneur.
+2.3. les enfants de moins de 16 ans sont prioritaires à l'échelon national selon des modalités définies par l'Agence de la biomédecine et tenant compte du poids et de l'âge du donneur
 
 2.4. Pour les malades pour lesquels la probabilité d'accès à un greffon apparié est faible, une dérogation à la règle décrite au point II.10 est possible, selon des modalités définies par l'Agence de la biomédecine qui comportent le recours au collège d'experts.
 
@@ -98,7 +98,7 @@ L'inscription dans ces catégories prioritaires est faite selon des modalités d
 
 3.4. Pour les malades pour lesquels la probabilité d'accès à un greffon apparié est faible, une dérogation à la règle décrite au point II.10 est possible, selon des modalités définies par l'Agence de la biomédecine qui comportent le recours au collège d'experts.
 
-3.5. Si un greffon ne trouve pas receveur à l'échelon local, les autres équipes de l'interrégion sont appelées à tour de rôle selon des modalités définies par l'Agence de la biomédecine. S'il ne trouve pas receveur dans l'interrégion, les autres interrégions sont appelées à tour de rôle.
+3.5. Si un greffon ne trouve pas receveur à l'échelon local, les autres équipes de l'interrégion et des autres interrégions sont appelées suivant des modalités définies par l'Agence de la biomédecine.
 
 4. Greffons rénaux.
 
