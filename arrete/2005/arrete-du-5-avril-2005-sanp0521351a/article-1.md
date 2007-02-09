@@ -166,6 +166,10 @@ ISBA Santé Prévention, centre de vaccinations internationales, 31, rue des Gla
 
 Centre hospitalier de Dax, boulevard Yves-du-Manoir, BP 323, 40107 Dax Cedex ;
 
+41 - Loir-et-Cher
+
+Centre hospitalier de Blois, mail Pierre-Charlot, 41016 Blois Cedex.
+
 42 - Loire
 
 Centre hospitalier universitaire, hôpital de Bellevue (service des maladies infectieuses et tropicales), 25, boulevard Pasteur, 42055 Saint-Etienne Cedex 2 ;
@@ -301,6 +305,8 @@ Centre hospitalier de Chambéry, pavillon Sainte-Hélène, 5, rue Pierre-et-Mari
 Centre hospitalier, BP 2333, 1, avenue de Trésum, 74011 Annecy Cedex.
 
 Centre hospitalier de la région d'Annecy, centre de vaccination internationale, 1, avenue du Trésum, BP 2333, 74011 Annecy Cedex.
+
+Centre hospitalier intercommunal Annemasse-Bonneville, service de pneumologie infectiologie, 17, rue du Jura, BP 525, 74107 Annemasse Cedex.
 
 75 - Paris
 
