@@ -3154,62 +3154,10 @@ LISTE DES SUBSTANCES QUI NE PEUVENT ENTRER DANS LA COMPOSITION DES PRODUITS COSM
 </td>
 </tr>
 <tr>
-<td rowspan="11" valign="top" width="151">
-<p align="center">419</p>
+<td>
+<p align="center"> 419</p>
 </td>
-<td valign="top" width="453">
-<p>a) Le crâne, y compris la cervelle et les yeux, les amygdales et la moelle épinière :</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="453">
-<p>- de bovins âgés de plus de douze mois ;</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="453">
-<p>- d'ovins et de caprins âgés de plus de douze mois ou qui présentent une incisive permanente ayant percé la gencive ;</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="453">
-<p>et les ingrédients qui en dérivent ;</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="453">
-<p>b) La rate d'ovins et de caprins et les ingrédients qui en dérivent.</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="453">
-<p>Les dérivés du suif peuvent cependant être utilisés sous réserve de l'application des méthodes suivantes qui doivent être strictement certifiées par le producteur :</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="453">
-<p>- transestérification ou hydrolyse à un minimum de 200 °C et sous une pression correspondante appropriée, pendant 20 minutes (glycérol, acides gras et esters d'acides gras),</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="453">
-<p>- saponification au NaOH 12 M (glycérol et savon) :</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="453">
-<p>- procédé discontinu : 95 °C pendant 3 heures</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="453">
-<p>ou</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="453">
-<p>- procédé continu : 140 °C, 2 bars (2 000 hPa), pendant 8 minutes, ou conditions équivalentes.</p>
-</td>
+<td> Matières de catégorie 1 et matières de catégorie 2, telles que définies aux articles 4 et 5 du règlement (CE) n° 1774/2002 du Parlement européen et du Conseil (**), et ingrédients dérivés.</td>
 </tr>
 <tr>
 <td valign="top" width="151">
@@ -3439,6 +3387,7 @@ LISTE DES SUBSTANCES QUI NE PEUVENT ENTRER DANS LA COMPOSITION DES PRODUITS COSM
 <td colspan="2" valign="top" width="604">
 <p>(1) La présence de substances radioactives naturelles et de substances radioactives provenant des contaminations artificielles ambiantes est admise pour autant que les substances radioactives ne soient pas enrichies pour la fabrication de produits cosmétiques et que leur concentration respecte les normes de base fixées dans le décret 66-450 du 20 juin 1966 relatif aux principes généraux de protection contre les rayonnements ionisants.</p>
 <p>(*) Directive 76/768/CEE du Conseil du 27 juillet 1976 concernant le rapprochement des législations des Etats membres relatives aux produits cosmétiques.</p>
+<p>(**) Règlement (CE) n° 1774/2002 modifié du Parlement européen et du Conseil du 3 octobre 2002 établissant des règles sanitaires applicables aux sous-produits animaux non destinés à la consommation humaine. </p>
 </td>
 </tr>
 </tbody>
