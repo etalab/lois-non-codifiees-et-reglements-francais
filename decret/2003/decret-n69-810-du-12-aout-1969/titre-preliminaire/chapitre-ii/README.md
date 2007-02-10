@@ -1,6 +1,13 @@
 # Chapitre II : Fonctionnement.
 
 - [Article 1-4](article-1-4.md)
+- [Article 1-4-1](article-1-4-1.md)
+- [Article 1-4-2](article-1-4-2.md)
+- [Article 1-4-3](article-1-4-3.md)
+- [Article 1-4-4](article-1-4-4.md)
+- [Article 1-4-5](article-1-4-5.md)
+- [Article 1-4-6](article-1-4-6.md)
+- [Article 1-4-7](article-1-4-7.md)
 - [Article 1-5](article-1-5.md)
 - [Article 1-6](article-1-6.md)
 - [Article 1-7](article-1-7.md)
