@@ -10,10 +10,8 @@ Elles mettent en oeuvre les contrôles prévus aux articles L. 821-7 et L. 821-9
 
 La compagnie nationale est destinataire des déclarations d'activité des compagnies régionales et les transmet au haut conseil.
 
-Elle rend compte chaque année au haut conseil de la mise en oeuvre des contrôles réalisés conformément au cadre, aux orientations et aux modalités définis par celui-ci et centralise à cette fin les contrôles effectués par les compagnies régionales.
+Aux fins mentionnées à l'article 1er-1, elle transmet au secrétaire général du haut conseil, à sa demande, les documents retraçant les opérations des contrôles diligentés en application du b de l'article L. 821-7 du code de commerce.
 
-Elle fait rapport au haut conseil des résultats des contrôles réalisés en application des articles L. 821-7 et L. 821-9 du code de commerce.
+Elle adresse chaque année au haut conseil un rapport sur les contrôles réalisés en application des articles L. 821-7 et L. 821-9 du même code. Ce rapport comprend deux sections. La première rend compte de l'exécution des contrôles périodiques diligentés conformément au cadre, aux orientations et aux modalités arrêtés par le haut conseil. La seconde rend compte des contrôles occasionnels décidés par la compagnie nationale et les compagnies régionales en application du c de l'article L. 821-7. Chacune de ces deux sections détaille la nature, l'objet et les résultats des contrôles effectués, ainsi que les suites auxquelles ils ont donné lieu.
 
-Aux fins mentionnées à l'article 1er-1, elle transmet au secrétaire général du haut conseil, à sa demande, les dossiers individuels des contrôles.
-
-Elle peut présenter aux ministres intéressés toute proposition relative aux intérêts de ses membres.
+La compagnie nationale peut présenter aux ministres intéressés toute proposition relative aux intérêts de ses membres.
