@@ -10,4 +10,6 @@ Laboratoire central de la préfecture de police (LCPP) ;
 
 SNPE matériaux énergétiques (SME) ;
 
-Institut français du textile et de l'habillement (IFTH).
+Institut français du textile et de l'habillement (IFTH) ;
+
+Centre technique du bois et de l'ameublement (CTBA).
