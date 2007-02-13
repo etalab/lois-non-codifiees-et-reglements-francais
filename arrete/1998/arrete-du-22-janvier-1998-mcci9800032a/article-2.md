@@ -1,23 +1,29 @@
 # Article 2
 
-La section générale est composée comme suit :
+La commission consultative de la commande publique est composée comme suit :
 
-Membres permanents :
+I. - Quatre représentants permanents de l'administration, membres de droit :
 
-- le délégué aux arts plastiques, président du conseil d'administration du Centre national des arts plastiques, président de la commission, ou son représentant ;
+- le délégué aux arts plastiques ou son représentant, président de la commission ;
 
-- deux inspecteurs de la création artistique, dont l'inspecteur général ;
+- le directeur de l'architecture et du patrimoine ou son représentant ;
 
-- le directeur de l'architecture et du patrimoine ou son représentant.
+- l'inspecteur général de la création artistique à la délégation aux arts plastiques ou son représentant ;
 
-Membres nommés pour trois ans par la ministre de la culture et de la communication, porte-parole du Gouvernement, sur proposition du délégué aux arts plastiques :
+- le directeur du Centre national des arts plastiques ou son représentant.
 
-- un directeur régional des affaires culturelles et un directeur régional des affaires culturelles suppléant ;
+II. - Deux membres désignés pour une durée de trois ans par le ministre chargé de la culture :
 
-- deux conseillers pour les arts plastiques et deux conseillers pour les arts plastiques suppléants ;
+- un directeur régional des affaires culturelles ou son représentant ;
 
-- deux artistes-auteurs plasticiens titulaires et deux artistes-auteurs plasticiens suppléants, après consultation des organisations représentatives d'artistes-auteurs plasticiens ;
+- un conseiller aux arts plastiques d'une direction régionale des affaires culturelles ou son suppléant.
 
-- une personnalité qualifiée et une personnalité qualifiée suppléante, parmi notamment les catégories suivantes : dirigeants de centres d'art ou de fonds régionaux d'art contemporain, et toute association oeuvrant en faveur de l'art contemporain, représentants de la presse artistique ou de la critique d'art ;
+III. - Six personnalités qualifiées, nommées pour trois ans par le ministre de la culture et de la communication :
 
-- un élu ou un représentant des collectivités locales et un élu ou représentant des collectivités locales suppléant.
+- deux artistes-auteurs plasticiens ;
+
+- un représentant des collectivités territoriales ;
+
+- deux personnalités qualifiées dans le domaine de l'art contemporain ;
+
+- un architecte.

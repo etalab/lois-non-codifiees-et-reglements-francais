@@ -1,0 +1,3 @@
+# Article 1
+
+Il est créé au ministère de la défense, à la direction centrale du commissariat de l'air, un traitement automatisé de données à caractère personnel dénommé " AFFIL " mis en oeuvre par le service des rémunérations et pensions du commissariat de l'air et dont la finalité est l'affiliation rétroactive à la sécurité sociale et à l'institution de retraite complémentaire des agents non titulaires de l'Etat et des collectivités publiques, des anciens militaires de l'armée de l'air ayant quitté le service sans droits à pension ou solde de réforme.

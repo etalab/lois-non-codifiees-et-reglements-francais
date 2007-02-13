@@ -107,6 +107,7 @@
 - [Décret du 12 janvier 2007 (AGRP0602465D)](decret-du-12-janvier-2007-agrp0602465d)
 - [Décret du 12 janvier 2007 (AGRP0602466D)](decret-du-12-janvier-2007-agrp0602466d)
 - [Décret du 12 janvier 2007 (AGRP0602469D)](decret-du-12-janvier-2007-agrp0602469d)
+- [Décret n° 2007-188 du 12 février 2007 (MENH0700236D)](decret-n-2007-188-du-12-fevrier-2007-menh0700236d)
 - [Décret n° 2007-52 du 12 janvier 2007 (DEFD0601717D)](decret-n-2007-52-du-12-janvier-2007-defd0601717d)
 - [Décret n° 2007-53 du 12 janvier 2007 (DEFD0601718D)](decret-n-2007-53-du-12-janvier-2007-defd0601718d)
 - [Décret n° 2007-56 du 12 janvier 2007 (SANS0625202D)](decret-n-2007-56-du-12-janvier-2007-sans0625202d)
