@@ -154,9 +154,11 @@ VII. - Irrigation.
 
 49° Participer, à compter de la qualification et lorsqu'elles existent, aux actions collectives de gestion quantitative de l'eau et à celles contribuant à une meilleure maîtrise de l'irrigation dans l'exploitation, de type Irrimieux.
 
-VIII. - Identification des animaux.
+VIII. - Identification des animaux et des produits.
 
 50° Appliquer le système réglementaire d'identification en vigueur pour chaque espèce d'animaux. Ce point sera vérifié au moyen des documents d'identification des animaux définis par la réglementation qui devront être classés dans le registre d'élevage.
+
+Respecter les règles d'identification et de marquage des oeufs.
 
 51° Enregistrer toutes les entrées et les sorties des animaux de l'exploitation dans le registre d'élevage en en conservant les pièces justificatives (bons de livraison et d'enlèvement des animaux ou factures).
 
@@ -250,6 +252,8 @@ b) Hygiène des ateliers de transformation.
 
 82° Déclarer l'activité de transformation auprès de l'administration.
 
+82 bis En cas de salle d'abattage agréée à la ferme, informer la direction départementale des services vétérinaires avant l'abattage de chaque lot de volailles.
+
 83° Mettre en place le principe de la marche en avant dans l'espace ou dans le temps au cours des transformations pour éviter les contaminations croisées entre les denrées alimentaires, les déchets, les équipements, les matériaux, l'eau, l'air et le personnel.
 
 84° Mettre en place un plan de nettoyage/désinfection des locaux, des équipements et du matériel de transformation. Il comporte un protocole de nettoyage et de désinfection des locaux, des procédures d'entretien du matériel et des équipements et des procédures ou un contrat de maintenance du matériel et des équipements.
@@ -257,6 +261,12 @@ b) Hygiène des ateliers de transformation.
 85° Mettre en place un plan de maîtrise des risques hygiéniques et sanitaires spécifiques aux transformations pratiquées basé sur les principes de l'HACCP.
 
 86° Disposer des équipements de protection contre les contaminations pour les personnes extérieures à l'exploitation (surbottes) dans l'année qui suit la qualification.
+
+XII-c. - Hygiène et sécurité alimentaire.
+
+99° Mettre en oeuvre les dispositions de signalement, de retrait ou de rappel d'une denrée dangereuse.
+
+100° Utiliser de l'eau potable pour la fabrication de denrées alimentaires.
 
 XIII. - Gestion des déchets de l'exploitation.
 
@@ -313,3 +323,13 @@ XIV. - Paysage et biodiversité.
 - en l'absence de DOCOB, identifier dans ces zones les milieux naturels à préserver et les maintenir en place. En cas de modification, disposer des autorisations nécessaires.
 
 L'exigence ne s'applique plus à un site ou partie de site qui aurait été proposé et finalement non désigné.
+
+98° bis L'agriculteur connaît et respecte les procédures d'évaluation préalable ou d'autorisation préalable à la réalisation de travaux prévue par les articles L. 414-4 et L. 414-5 du code de l'environnement.
+
+Sur l'ensemble du territoire national français, l'agriculteur respecte les obligations issues des directives n°s 79/409 (dite "Oiseaux") et 92/43 (dite "Habitats"), en matière de :
+
+- non-destruction des espèces végétales et animales protégées ;
+
+- non-destruction des habitats de ces espèces ;
+
+- non-introduction d'une espèce animale ou végétale non indigène.
