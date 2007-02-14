@@ -1,6 +1,7 @@
 # TITRE III : Organisation générale du centre
 
-- [CHAPITRE Ier : La direction générale.](chapitre-ier)
-- [CHAPITRE II : Les unités de recherche.](chapitre-ii)
-- [CHAPITRE III : Les instituts nationaux.](chapitre-iii)
-- [CHAPITRE IV : Le comité d'évaluation externe et le comité d'éthique.](chapitre-iv)
+- [Chapitre Ier : Le président du centre](chapitre-ier)
+- [Chapitre II : La direction générale.](chapitre-ii)
+- [Chapitre III : Les unités de recherche.](chapitre-iii)
+- [Chapitre IV : Les instituts nationaux.](chapitre-iv)
+- [Chapitre V : Le comité d'évaluation externe et le comité d'éthique.](chapitre-v)

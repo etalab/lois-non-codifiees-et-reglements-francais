@@ -34,4 +34,8 @@ Il délibère sur :
 
 14° La participation à des organismes dotés de la personnalité morale.
 
-En ce qui concerne les matières énumérées aux 7°, 8°, 9°, 10°, 11°, 12° et 14° ci-dessus, il peut déléguer une partie de ses pouvoirs au directeur général. Celui-ci lui rend compte lors de sa plus prochaine séance des décisions qu'il a prises en vertu de cette délégation.
+En ce qui concerne la matière mentionnée au 14°, il peut déléguer une partie de ses pouvoirs au président du centre.
+
+En ce qui concerne les matières énumérées aux 7°, 8°, 9°, 10°, 11° et 12°, il peut déléguer une partie de ses pouvoirs au directeur général.
+
+Ceux-ci lui rendent compte lors de sa plus prochaine séance des décisions qu'ils ont prises en vertu de cette délégation.

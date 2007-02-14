@@ -4,7 +4,7 @@ Les conseils scientifiques de département conseillent et assistent les directeu
 
 Les conseils scientifiques de département procèdent à l'analyse de leur domaine et de ses perspectives d'évolution. A cette fin, ils utilisent notamment les rapports de conjoncture et de prospective des sections du comité national.
 
-Les conseils scientifiques de département comprennent des membres appartenant aux corps de chercheurs et d'ingénieurs, de personnels techniques et d'administration de la recherche élus directement par les personnels du centre et par les personnes qui contribuent aux activités de ce dernier et, en nombre égal, des membres nommés par le directeur général, dont la moitié sur proposition du conseil scientifique.
+Les conseils scientifiques de département comprennent des membres élus directement par et parmi les personnels du centre et les personnes qui contribuent aux activités de ce dernier et, en nombre égal, des membres nommés par le directeur général, dont la moitié sur proposition du conseil scientifique du centre.
 
 Ils comprennent des personnalités étrangères, dont la moitié au moins exerçant leur activité dans des pays de l'Union européenne autres que la France.
 

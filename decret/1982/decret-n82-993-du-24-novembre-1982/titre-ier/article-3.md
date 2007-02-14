@@ -1,6 +1,6 @@
 # Article 3
 
-Le Centre national de la recherche scientifique est administré par un conseil d'administration présidé par le président du centre. Il est dirigé par un directeur général.
+Le Centre national de la recherche scientifique est administré par un conseil d'administration présidé par le président du centre. Il est dirigé par un directeur général placé sous l'autorité du président du centre.
 
 Le comité national de la recherche scientifique, placé auprès du Centre, est une instance de conseils scientifiques et d'évaluation. Il comprend des représentants élus des personnels de recherche. Il est composé :
 

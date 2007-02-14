@@ -1,4 +1,6 @@
-# CHAPITRE IV : Le comité d'évaluation externe et le comité d'éthique.
+# Chapitre IV : Les instituts nationaux.
 
+- [Article 20](article-20.md)
+- [Article 21](article-21.md)
 - [Article 21-1](article-21-1.md)
 - [Article 21-2](article-21-2.md)

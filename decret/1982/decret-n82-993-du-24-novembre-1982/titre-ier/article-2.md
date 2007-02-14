@@ -1,6 +1,6 @@
 # Article 2
 
-Dans le cadre de la politique scientifique définie par le Gouvernement, en relation avec les besoins culturels, économiques et sociaux de la nation et en liaison avec les établissements d'enseignement supérieur, le Centre national de la recherche scientifique a pour missions :
+Dans le cadre de la politique scientifique définie par le Gouvernement, en relation avec les besoins culturels, économiques et sociaux de la nation et en liaison avec les établissements d'enseignement supérieur et de recherche, le Centre national de la recherche scientifique a pour missions :
 
 - d'évaluer, d'effectuer ou de faire effectuer toutes recherches présentant un intérêt pour l'avancement de la science ainsi que pour le progrès économique, social et culturel du pays ;
 
