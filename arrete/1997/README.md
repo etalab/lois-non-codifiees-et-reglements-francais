@@ -35,7 +35,6 @@
 - [Arrêté du 2 octobre 1997 (ECOC9700107A)](arrete-du-2-octobre-1997-ecoc9700107a)
 - [Arrêté du 2 octobre 1997 (ECOI9700369A)](arrete-du-2-octobre-1997-ecoi9700369a)
 - [Arrêté du 2 octobre 1997 (EQUS9701045A)](arrete-du-2-octobre-1997-equs9701045a)
-- [Arrêté du 2 octobre 1997 (INTM9700031A)](arrete-du-2-octobre-1997-intm9700031a)
 - [Arrêté du 2 mai 1997 (ENVE9760103A)](arrete-du-2-mai-1997-enve9760103a)
 - [Arrêté du 2 mai 1997 (INTE9700194A)](arrete-du-2-mai-1997-inte9700194a)
 - [Arrêté du 2 mai 1997 (INTE9700195A)](arrete-du-2-mai-1997-inte9700195a)
