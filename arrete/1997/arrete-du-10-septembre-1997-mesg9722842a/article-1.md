@@ -24,7 +24,7 @@ Le programme de la formation prévue à l'article 5 du décret du 30 mai 1997 su
 
 5° Les risques pour l'oeil ;
 
-5. Les modes de calcul des limites d'exposition pour le public exposé aux ultraviolets ;
+5. Les modes de calcul des limites d'exposition pour le public exposé aux ultraviolets et les bonnes pratiques d'utilisation des appareils de bronzage émetteurs de rayonnements ultraviolets ;
 
 6. Les recommandations et normes internationales en matière d'exposition aux ultraviolets ;
 
