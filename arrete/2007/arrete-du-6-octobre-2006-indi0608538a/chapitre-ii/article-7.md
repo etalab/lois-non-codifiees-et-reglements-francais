@@ -1,0 +1,19 @@
+# Article 7
+
+Le système de protection du réseau public de distribution doit être conçu pour éliminer tout défaut d'isolement en son sein susceptible de créer une surintensité ou une dégradation de la qualité de l'électricité sur le réseau public de transport.
+
+Ce système doit aussi être conçu pour éliminer l'apport de courant de court-circuit émanant du réseau public de distribution lors de l'occurrence d'un défaut d'isolement affectant le jeu de barres HTB du poste source ou les liaisons HTB qui lui sont reliées.
+
+En complément, le système de protection doit être conçu pour éliminer l'apport de courant de court-circuit émanant du réseau public de distribution lors de certains défauts d'isolement situés sur les liaisons HTB connectées aux autres postes du réseau public de transport qui encadrent le poste source concerné. Cette fonction est généralement assurée en imposant aux protections HTB du poste source des critères de fonctionnement liés aux dépassements de seuils (amplitude, durée) relatifs à des grandeurs électriques mesurables définies par le gestionnaire du réseau public de transport.
+
+Le gestionnaire du réseau public de transport et le gestionnaire du réseau public de distribution se concertent pour définir les moyens à mettre en oeuvre pour respecter les exigences fonctionnelles précédentes, compte tenu de la structure du poste source et de leurs limites de responsabilité respectives.
+
+Dans le cas où l'interface entre le réseau public de distribution et le réseau public de transport ne se situe pas dans un poste source, les conditions d'application des alinéas du présent article sont adaptées de façon cohérente avec les règles de protection et d'exploitation applicables sur le réseau public de transport et sur le réseau public de distribution.
+
+Le gestionnaire du réseau public de transport et le gestionnaire du réseau public de distribution peuvent prévoir, si nécessaire, la mise en place d'un dispositif d'échange d'informations en temps réel permettant de coordonner le fonctionnement des protections aux deux extrémités de la liaison de raccordement.
+
+Le cahier des charges fonctionnel du système de protection établi à la suite de cette concertation fournit au gestionnaire du réseau public de distribution toute information nécessaire pour la conception de ce système de protection, son réglage et sa coordination avec le système de protection du réseau public de transport. Il prescrit les exigences fonctionnelles que ce système de protection doit respecter en termes de rapidité et de sélectivité d'élimination des défauts d'isolement et précise notamment les temps maximaux dans lesquels il doit éliminer les défauts. Il est annexé à la convention de raccordement.
+
+Le gestionnaire du réseau public de transport précise aussi au gestionnaire du réseau public de distribution les exigences de qualité qui permettent de garantir le fonctionnement correct dans le temps de son système de protection. Les exigences du gestionnaire du réseau public de transport sont établies selon les règles publiées dans son référentiel technique. Le gestionnaire du réseau public de distribution explicite dans la convention d'exploitation les modalités détaillées qu'il met en oeuvre.
+
+Si, en cours de vie de l'installation, il s'avère nécessaire de modifier le système de protection à l'interface entre le réseau public de transport et le réseau public de distribution pour adapter ce système à des évolutions des installations qui sont raccordées au réseau public de distribution ou à de nécessaires évolutions du plan de protection du réseau public de transport, de telles modifications et leurs échéances de mise en oeuvre doivent être définies dans le cadre d'une concertation entre le gestionnaire du réseau public de transport et le gestionnaire du réseau public de distribution.
