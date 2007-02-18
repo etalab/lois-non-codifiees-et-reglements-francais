@@ -1081,7 +1081,9 @@ Plusieurs types d'épreuves peuvent être organisés :
 
 - épreuves pratiques : préparation et réalisation de gestes techniques en salle de travaux pratiques ou en structure de soins ;
 
-- mises en situation professionnelle (MSP) : elles consistent en la participation du candidat à la prise en charge d'une personne dans la réalisation d'une ou plusieurs activités de la vie quotidienne ou d'un ou plusieurs soins. Elles se déroulent dans des structures où le candidat est en stage depuis au moins cinq jours. La durée d'une mise en situation professionnelle est comprise entre 30 minutes et 1 h 30. Le nombre d'examinateurs de la mise en situation professionnelle du module 1 est de deux : un infirmier, enseignant permanent dans un institut de formation d'aides-soignants et un infirmier ou une puéricultrice ou un aide-soignant ou une auxiliaire de puériculture ou une sage-femme ou un éducateur de jeunes enfants ou un cadre de santé. Le nombre d'examinateurs de la mise en situation professionnelle du module 3 est de trois : un infirmier, enseignant permanent dans un institut de formation d'aides-soignants, un infirmier ou une puéricultrice, et un aide-soignant ou une auxiliaire de puériculture ou une sage-femme ou un éducateur de jeunes enfants ou un cadre de santé.
+- mises en situation professionnelle (MSP) : elles consistent en la participation du candidat à la prise en charge d'une personne dans la réalisation d'une ou plusieurs activités de la vie quotidienne ou d'un ou plusieurs soins. Elles se déroulent dans des structures où le candidat est en stage depuis au moins cinq jours. La durée d'une mise en situation professionnelle est comprise entre 30 minutes et 1 h 30. Le nombre d'examinateurs de la mise en situation professionnelle du module 1 est de deux : un infirmier, enseignant permanent dans un institut de formation d'aides-soignants et un infirmier ou une puéricultrice ou un aide-soignant ou une auxiliaire de puériculture ou une sage-femme ou un éducateur de jeunes enfants ou un cadre de santé.
+
+Le nombre d'examinateurs de la mise en situation professionnelle du module 3 est de trois : un infirmier, enseignant permanent dans un institut de formation d'aides-soignants, un infirmier ou une puéricultrice titulaire ou non du diplôme de cadre de santé, et une sage-femme ou un aide-soignant ou une auxiliaire de puériculture.
 
 Les deux derniers examinateurs doivent justifier d'une expérience professionnelle d'au moins trois ans et exercer au sein de la structure dans laquelle se déroule la mise en situation professionnelle.
 
@@ -1171,7 +1173,8 @@ Les modalités d'évaluation et de validation de chaque module de formation sont
 <p>Une épreuve de MSP avec prise en charge d'une personne et réalisation de deux soins. </p>
 </td>
 <td valign="top" width="151">
-<p>Organisée par la DDASS. Se déroule en fin de formation. L'infirmier, enseignant permanent relève d'un autre l'institut que celui de l'élève. </p>
+<p>Organisée par la DDASS. </p>
+<p>Se déroule, sous le contrôle de la direction départementale des affaires sanitaires et sociales, en fin de formation. L'infirmier, enseignant permanent relève d'un autre institut que celui de l'élève.</p>
 </td>
 <td valign="top" width="151">
 <p>Sur 30 points : </p>
