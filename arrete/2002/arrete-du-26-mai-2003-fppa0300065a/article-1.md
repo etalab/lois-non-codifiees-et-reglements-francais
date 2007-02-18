@@ -16,7 +16,7 @@ Les montants moyens annuels de l'indemnité forfaitaire pour travaux supplément
 </tr>
 <tr>
 <td>
-<p>Secrétaire administratif de classe normale à partir du 8e échelon</p>
+<p>Secrétaire administratif de classe normale dont l'indice brut est supérieur à 380 </p>
 </td>
 <td>
 <p align="center">1 683, 68 </p>
