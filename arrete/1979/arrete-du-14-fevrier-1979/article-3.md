@@ -17,3 +17,5 @@ Pour chaque exercice le montant maximal du prélèvement correspondant au c ci-d
 0, 5 p. 100 pour la tranche des sommes recueillies comprise entre 7 720 000 euros et 15 440 000 euros ;
 
 0, 2 p. 100 pour la tranche des sommes recueillies comprise entre 15 440 000 euros et 23 160 000 euros ;
+
+d) Des dépenses de gestion de l'assistance logement des salariés d'entreprises assujetties à la participation des employeurs à l'effort de construction en difficulté dans leur parcours résidentiel, supportées par les organismes collecteurs mentionnés à l'article R. 313-9 (2°, a et b), dans la limite de 400 euros par engagement réciproque signé par l'organisme et le salarié bénéficiaire. Ces dépenses comprennent, le cas échéant, la couverture des dépenses mentionnées au a et au b de l'article 3 du présent arrêté et peuvent être assimilées à celles qui sont mentionnées au premier alinéa de l'article 4-2 dans la mesure où la limite de 2 % fixée au troisième alinéa du même article est respectée.
