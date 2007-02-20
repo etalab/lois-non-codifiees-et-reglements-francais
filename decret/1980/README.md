@@ -15,7 +15,6 @@
 - [Décret n°80-966 du 2 décembre 1980](decret-n80-966-du-2-decembre-1980)
 - [Décret n°79-291 du 3 avril 1979](decret-n79-291-du-3-avril-1979)
 - [Décret n°80-241 du 3 avril 1980](decret-n80-241-du-3-avril-1980)
-- [Décret n°80-243 du 3 avril 1980](decret-n80-243-du-3-avril-1980)
 - [Décret n°80-247 du 3 avril 1980](decret-n80-247-du-3-avril-1980)
 - [Décret n°80-253 du 3 avril 1980](decret-n80-253-du-3-avril-1980)
 - [Décret n°80-263 du 3 avril 1980](decret-n80-263-du-3-avril-1980)
