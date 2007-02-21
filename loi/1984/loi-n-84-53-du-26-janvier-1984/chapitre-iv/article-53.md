@@ -6,13 +6,13 @@ Ces dispositions s'appliquent aux emplois :
 
 de directeur général des services et, lorsque l'emploi est créé, de directeur général adjoint des services des départements et des régions ;
 
-de directeur général des services, directeur général adjoint des services des communes de plus de 3 500 habitants ;
+- de directeur général des services, de directeur général adjoint des services des communes de plus de 2 000 habitants ;
 
-de directeur général des services techniques ou de directeur des services techniques des communes de plus de 20 000 habitants ;
+de directeur général des services techniques ou de directeur des services techniques des communes de plus de 10 000 habitants ;
 
-- de directeur général, de directeur général adjoint des établissements publics de coopération intercommunale à fiscalité propre de plus de 20 000 habitants ;
+- de directeur général, de directeur général adjoint des établissements publics de coopération intercommunale à fiscalité propre de plus de 10 000 habitants ;
 
-- de directeur général des services techniques des établissements publics de coopération intercommunale à fiscalité propre de plus de 80 000 habitants ;.
+- de directeur général des services techniques des établissements publics de coopération intercommunale à fiscalité propre de plus de 10 000 habitants ;
 
 de directeur général, directeur général adjoint d'établissements publics dont la liste est fixée par décret ainsi que de directeur général, directeur général adjoint et directeur de délégation du centre national de la fonction publique territoriale.
 

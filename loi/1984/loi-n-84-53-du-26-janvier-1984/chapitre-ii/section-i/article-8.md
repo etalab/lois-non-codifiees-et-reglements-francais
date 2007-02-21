@@ -1,6 +1,6 @@
 # Article 8
 
-Il est créé un Conseil supérieur de la fonction publique territoriale.
+Il est créé un Conseil supérieur de la fonction publique territoriale, instance représentative de la fonction publique territoriale.
 
 Le Conseil supérieur est composé paritairement de représentants des organisations syndicales de fonctionnaires territoriaux et de représentants des collectivités territoriales. Il est présidé par un représentant des collectivités territoriales, élu en son sein.
 

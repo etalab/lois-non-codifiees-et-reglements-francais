@@ -1,0 +1,13 @@
+# Article 26
+
+Les centres de gestion peuvent, par convention, organiser des concours et examens propres aux collectivités ou établissements non affiliés et ouvrir à ces derniers les concours et examens organisés pour les collectivités et établissements affiliés, et, le cas échéant établir des listes d'aptitude communes avec ces collectivités et établissements pour l'application de l'avant-dernier alinéa de l'article 39. Les collectivités et établissements non affiliés remboursent aux centres départementaux de gestion la part des dépenses correspondantes effectuées à leur profit.
+
+Lorsqu'une collectivité territoriale non affiliée sollicite le centre de gestion de son département pour l'organisation d'un concours décentralisé de sa compétence et si celui-ci n'organise pas ce concours lui-même ou par convention avec un autre centre de gestion, la collectivité territoriale pourra conventionner l'organisation de ce concours avec le centre de gestion de son choix.
+
+Les centres de gestion peuvent également, par convention, ouvrir et organiser des concours communs et, le cas échéant, établir des listes d'aptitude communes pour l'application de l'avant-dernier alinéa de l'article 39. La convention détermine le centre de gestion qui fixe le nombre de postes, la composition du jury et la date des épreuves, et arrête les listes d'aptitude. Les centres de gestion lui remboursent la part des dépenses correspondantes exposées à leur profit.
+
+En l'absence d'une convention passée en application du premier alinéa, les collectivités et établissements qui nomment un candidat inscrit sur une liste d'aptitude établie par un centre de gestion auquel ils ne sont pas affiliés lui remboursent, pour chaque candidat nommé, une somme égale aux frais d'organisation du concours ou de l'examen rapportés au nombre de candidats déclarés aptes par le jury. Cette disposition n'est pas applicable aux collectivités et établissements affiliés lorsque le centre de gestion qui a établi la liste d'aptitude a passé convention, en application du deuxième alinéa, avec le centre de gestion dont ils relèvent.
+
+Les centres de gestion peuvent souscrire, pour le compte des collectivités et établissements du département qui le demandent, des contrats d'assurance les garantissant contre les risques financiers découlant des dispositions des articles L. 416-4 du code des communes et 57 de la présente loi, ainsi que des dispositions équivalentes couvrant les risques applicables aux agents non titulaires. Dans ce cas, les communes et établissements intéressés sont tenus de rembourser aux centres le montant des primes d'assurance dont ceux-ci sont redevables.
+
+Un décret en Conseil d'Etat fixe les conditions d'application du présent article.

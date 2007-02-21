@@ -1,3 +1,5 @@
 # Article 51
 
 Les mutations sont prononcées par l'autorité territoriale d'accueil. Sauf accord entre cette autorité et l'autorité qui emploie le fonctionnaire, la mutation prend effet trois mois après la notification de la décision par l'autorité d'accueil à l'autorité d'origine.
+
+Lorsque la mutation intervient dans les trois années qui suivent la titularisation de l'agent, la collectivité territoriale ou l'établissement public d'accueil verse à la collectivité territoriale ou à l'établissement public d'origine une indemnité au titre, d'une part, de la rémunération perçue par l'agent pendant le temps de formation obligatoire prévu au 1° de l'article 1er de la loi n° 84-594 du 12 juillet 1984 précitée et, d'autre part, le cas échéant, du coût de toute formation complémentaire suivie par l'agent au cours de ces trois années. A défaut d'accord sur le montant de cette indemnité, la collectivité territoriale ou l'établissement public d'accueil rembourse la totalité des dépenses engagées par la collectivité territoriale ou l'établissement public d'origine.

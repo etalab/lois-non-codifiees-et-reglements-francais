@@ -12,4 +12,5 @@
 - [Chapitre IX : Cessation de fonctions et perte d'emploi](chapitre-ix)
 - [Chapitre X : De l'exercice du droit syndical.](chapitre-x)
 - [Chapitre XII : Dispositions applicables aux fonctionnaires territoriaux nommés dans des emplois permanents à temps non complet.](chapitre-xii)
-- [Chapitre XIII : Dispositions diverses et transitoires.](chapitre-xiii)
+- [Chapitre XIII : Hygiène, sécurité et médecine préventive](chapitre-xiii)
+- [Chapitre XIV : Dispositions diverses et transitoires.](chapitre-xiv)
