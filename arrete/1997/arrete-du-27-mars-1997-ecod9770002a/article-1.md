@@ -2,68 +2,126 @@
 
 Le contingent d'exportation de rhum de la Martinique de 32 645 hectolitres d'alcool pur de rhum traditionnel agricole et de 9 205 hectolitres d'alcool pur de rhum traditionnel de sucrerie produit à partir de mélasse est réparti entre les producteurs de rhum ainsi qu'il suit :
 
-GROUPE Bardinet
-
-NOM OU RAISON SOCIALE de la distillerie
-
-Distillerie Dillon SA, à Fort-de-France
-
-CONTINGENT DE RHUM traditionnel agricole
-
-7 431
-
-NOM OU RAISON SOCIALE de la distillerie
-
-Distillerie Depaz SA, à Saint-Pierre
-
-CONTINGENT DE RHUM traditionnel agricole
-
-2 958
-
-NOM OU RAISON SOCIALE de la distillerie
-
-Distillerie des rhums martiniquais Saint-James SA, à Saint-Marie
-
-CONTINGENT DE RHUM traditionnel agricole
-
-7 835
-
-NOM OU RAISON SOCIALE de la distillerie
-
-Distillerie du Simon SA, à Le François
-
-CONTINGENT DE RHUM traditionnel agricole
-
-6 404
-
-NOM OU RAISON SOCIALE de la distillerie
-
-Distillerie SCA Héritiers Crassous de Médeuil, à Macouba
-
-CONTINGENT DE RHUM traditionnel agricole
-
-394
-
-NOM OU RAISON SOCIALE de la distillerie
-
-Distillerie Neisson, au Carbet
-
-CONTINGENT DE RHUM traditionnel agricole
-
-300
-
-NOM OU RAISON SOCIALE de la distillerie
-
-SAEM de production sucrière et rhumière de la Martinique du Galion, à Trinité
-
-CONTINGENT DE RHUM traditionnel de sucrerie
-
-9 205.
-
-NOM OU RAISON SOCIALE de la distillerie
-
-Distillerie Bellonie et Bourdillon Successeurs SA, à Rivière-Pilote
-
-CONTINGENT DE RHUM traditionnel agricole
-
-7323.
+<table>
+<tbody>
+<tr>
+<td>GROUPE</td>
+<td>
+<p align="center">NOM OU RAISON SOCIALE de la distillerie </p>
+</td>
+<td>
+<p align="center">CONTINGENT DE RHUM traditionnel agricole</p>
+</td>
+<td>
+<p align="center">CONTINGENT DE RHUM </p>
+<p align="center">traditionnel de sucrerie</p>
+</td>
+</tr>
+<tr>
+<td>Bardinet</td>
+<td>Distillerie Dillon SA, à Fort-de-France</td>
+<td>
+<p align="center">7 431</p>
+</td>
+<td>
+<p align="center">-</p>
+</td>
+</tr>
+<tr>
+<td/>
+<td>Distillerie Depaz SA, à Saint-Pierre</td>
+<td>
+<p align="center">2 958</p>
+</td>
+<td>
+<p align="center">-</p>
+</td>
+</tr>
+<tr>
+<td/>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>
+<p align="center">-</p>
+</td>
+<td>
+<p>Distillerie Bellonie et Bourdillon Successeurs SA, à Rivière-Pilote</p>
+</td>
+<td>
+<p align="center">7 323</p>
+</td>
+<td>
+<p align="center">-</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">-</p>
+</td>
+<td>Distillerie des rhums martiniquais Saint-James SA, à Saint-Marie</td>
+<td>
+<p align="center">7 835</p>
+</td>
+<td>
+<p align="center">-</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">-</p>
+</td>
+<td>
+<p>Distillerie du Simon SA, à Le François</p>
+</td>
+<td>
+<p align="center">6 404</p>
+</td>
+<td>
+<p align="center">-</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">-</p>
+</td>
+<td>
+<p>Distillerie SCA Héritiers Crassous de Médeuil, à Macouba</p>
+</td>
+<td>
+<p align="center">394</p>
+</td>
+<td>
+<p align="center">-</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">-</p>
+</td>
+<td>Distillerie Neisson, au Carbet</td>
+<td>
+<p align="center">300</p>
+</td>
+<td>
+<p align="center">-</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">-</p>
+</td>
+<td>
+<p>SAEM de production sucrière et rhumière de la Martinique du Galion, à Trinité</p>
+</td>
+<td>
+<p align="center">-</p>
+</td>
+<td>
+<p align="center">9 205</p>
+</td>
+</tr>
+</tbody>
+</table>
