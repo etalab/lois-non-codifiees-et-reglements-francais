@@ -6,4 +6,4 @@ Les internes prennent une inscription administrative annuelle auprès de l'unive
 
 Pour pouvoir s'inscrire à un diplôme d'études spécialisées complémentaires du groupe II, les internes doivent avoir effectué, au plus tard avant la fin du cinquième stage de l'internat, un stage spécifique à ce diplôme.
 
-L'inscription à plusieurs diplômes d'études spécialisées complémentaires n'est pas autorisée.
+L'inscription à deux diplômes d'études spécialisées complémentaires du groupe I ou à un diplôme d'études spécialisées complémentaires du groupe II et à un diplôme d'études spécialisées complémentaires du groupe I est autorisée sous réserve de l'accord des coordonnateurs des diplômes d'études spécialisées complémentaires concernés.

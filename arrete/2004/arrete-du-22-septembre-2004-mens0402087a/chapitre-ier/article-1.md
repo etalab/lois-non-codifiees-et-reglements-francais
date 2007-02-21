@@ -18,6 +18,8 @@ Foetopathologie.
 
 Hémobiologie-transfusion.
 
+Médecine de la douleur et médecine palliative
+
 Médecine de la reproduction.
 
 Médecine légale et expertises médicales.
