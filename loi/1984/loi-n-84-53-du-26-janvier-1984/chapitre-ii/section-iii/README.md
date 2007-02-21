@@ -1,7 +1,5 @@
 # Section III : Les centres de gestion.
 
-- [Sous-Section I : Commissions administratives paritaires.](sous-section-i)
-- [Sous-Section II : Comités techniques paritaires.](sous-section-ii)
 - [Article 13](article-13.md)
 - [Article 14](article-14.md)
 - [Article 15](article-15.md)
