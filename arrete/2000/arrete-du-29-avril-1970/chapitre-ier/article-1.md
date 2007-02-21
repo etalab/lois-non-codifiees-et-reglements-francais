@@ -1,14 +1,14 @@
 # Article 1
 
-Pour l'application du tableau B figurant au 1 de l'article 265 du code des douanes et sous réserve des dispositions de l'article 2 ci-après, le gazole "sous conditions d'emploi" dénommé fioul domestique n° 1, admis au bénéfice du taux réduit de la taxe intérieure de consommation, est le gazole visé à l'indice 20 de ce tableau et classé aux positions n° 27 10 00 66 et 27 10 00 67 du tarif douanier, utilisé :
+Pour l'application du tableau B figurant au 1 de l'article 265 du code des douanes et sous réserve des dispositions de l'article 2 ci-après, le gazole " sous conditions d'emploi " dénommé fioul domestique n° 1, admis au bénéfice du taux réduit de la taxe intérieure de consommation, est le gazole visé à l'indice 20 de ce tableau et classé aux positions n° 27 10 00 66 et 27 10 00 67 du tarif douanier, utilisé :
 
-A. - Comme carburants pour l'alimentation des moteurs désignés ci-après :
+A.-Comme carburants pour l'alimentation des moteurs désignés ci-après :
 
-I. - Les moteurs fixes (y compris les moteurs au banc) ;
+I.-Les moteurs fixes (y compris les moteurs au banc) ;
 
-II. - Les moteurs, autres que les moteurs de propulsion, montés sur des machines ou appareils qu'ils ont pour fonction d'actionner ;
+II.-Les moteurs, autres que les moteurs de propulsion, montés sur des machines ou appareils qu'ils ont pour fonction d'actionner ;
 
-III. - Les moteurs de propulsion :
+III.-Les moteurs de propulsion :
 
 a) De locomotives, locotracteurs, automotrices et draisines, y compris las aéroglisseurs sur rails ;
 
@@ -38,10 +38,44 @@ g) De tombereaux et camions automobiles appartenant à l'une des trois catégori
 
 Les caractéristiques de largeur des bennes basculantes visées dans la 3ème catégorie ci-dessus sont fixées par la direction générale des douanes et de droits indirects ;
 
-h) De véhicules automobiles à usages spéciaux relevant du numéro 87-03 du tarif des douanes et comportant un moteur unique assurant alternativement la propulsion du véhicule et le fonctionnement des appareils qui y sont montés. L'utilisation de fuel domestique dans ces moteurs n'est autorisée que pour le fonctionnement des appareils montés sur le véhicule, sous réserve de la présence d'un double réservoir de carburant et d'un dispositif de sélection automatique empêchant, lors de la propulsion du véhicule, l'alimentation du moteur unique à partir du réservoir contenant le fuel domestique. Les dispositifs de sélection automatique sont agréés par l'administration des douanes et droits indirects à la demande du fabricant. La date de cession, les nom et adresse des cessionnaires ainsi que le numéro d'agrément doivent figurer sur la facture établie pour chaque cession d'un dispositif. Cette facture doit être conservée cinq ans par le cédant. Tout détenteur d'un tel dispositif doit, à la demande des agents des douanes, justifier que cet équipement est agréé.
+h) De véhicules automobiles, d'une part, relevant des numéros 87-04 et 87-05 du tarif des douanes et, d'autre part, comportant un moteur unique assurant alternativement la propulsion du véhicule et le fonctionnement, à l'arrêt du véhicule, des appareils suivants :
+
+-pompes à béton ;
+
+-pompes alimentaires ;
+
+-pompes à hydrocarbures ;
+
+-tapis à béton ;
+
+-grues de manutention ;
+
+-grues forestières ;
+
+-compresseurs ;
+
+-surpresseurs ;
+
+-nacelles élévatrices ou bennes ;
+
+-treuils et autres mécanismes nécessaires au sondage et au forage ;
+
+-hydrocureurs.
+
+Les véhicules de l'espèce doivent être équipés de deux réservoirs distincts munis de leur circuit d'alimentation indépendant et d'un dispositif de sélection automatique empêchant, lors de la propulsion des véhicules, l'alimentation du moteur unique à partir du réservoir contenant le fioul domestique.
+
+Les dispositifs de sélection automatique, dits de " bicarburation ", sont agréés pour une période de cinq ans par :
+
+-le directeur général des douanes et droits indirects, lorsque le dispositif est destiné à être commercialisé ;
+
+-le directeur régional territorialement compétent, dans les autres cas.
+
+Ces agréments sont renouvelables à la demande des bénéficiaires.
+
+Tout détenteur d'un dispositif de bicarburation doit, à la demande des agents des douanes, justifier que cet équipement est agréé. Les constructeurs dont les dispositifs sont agréés doivent fournir à l'administration des douanes et droits indirects, avant le 10 du mois suivant chaque trimestre, la liste des utilisateurs par type d'agrément.
 
 Les moteurs de propulsion des tracteurs, camions et autres véhicules ou engins ne figurant pas dans la liste limitative ci-dessus ne peuvent être alimentés avec du fioul domestique admis au bénéfice du régime fiscal privilégié établi par le tableau B de l'article 265-1 du code des douanes.
 
-B. - Comme combustible de chauffage ;
+B.-Comme combustible de chauffage ;
 
-C. - Pour tous les usages autres que carburant ou combustible de chauffage.
+C.-Pour tous les usages autres que carburant ou combustible de chauffage.
