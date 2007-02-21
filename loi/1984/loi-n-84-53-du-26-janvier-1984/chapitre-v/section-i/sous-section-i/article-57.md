@@ -52,6 +52,10 @@ A l'expiration de chacun des congés mentionnés aux deux alinéas précédents,
 
 6° Au congé de formation professionnelle ;
 
+6° bis Au congé pour validation des acquis de l'expérience ;
+
+6° ter Au congé pour bilan de compétences ;
+
 7° Au congé pour formation syndicale avec traitement d'une durée maximum de douze jours ouvrables par an ;
 
 8° Au congé d'une durée de six jours ouvrables par an accordé, sur sa demande, au fonctionnaire de moins de vingt-cinq ans, pour participer aux activités des organisations de jeunesse et d'éducation populaire, des fédérations et des associations sportives et de plein air légalement constituées, destinées à favoriser la préparation, la formation ou le perfectionnement de cadres et animateurs. Ce congé non rémunéré peut être pris en une ou deux fois, à la demande du bénéficiaire. La durée du congé est assimilée à une période de travail effectif. Elle ne peut être imputée sur la durée du congé annuel ;

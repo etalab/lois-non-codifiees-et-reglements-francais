@@ -1,0 +1,7 @@
+# Article 22-1
+
+I. - Les charges résultant, pour chaque centre de gestion, du transfert par la loi n° 2007-209  du 19 février 2007 précitée des missions jusque-là assumées par le Centre national de la fonction publique territoriale et énumérées aux 1°, 5° et 6° du II de l'article 23 font l'objet d'une compensation financière à la charge du Centre national de la fonction publique territoriale, pour un montant équivalent aux dépenses qu'il exposait au titre des attributions transférées.
+
+II. - Des conventions conclues entre le Centre national de la fonction publique territoriale et, pour le compte des centres de gestion, les centres de gestion coordonnateurs déterminent les modalités des transferts des missions énumérés au I ainsi que des transferts de personnels les accompagnant. Elles fixent la compensation financière qui découle de ces différents transferts. Ces conventions prennent également en compte les charges résultant des précédents transferts de compétences réalisés en application de l'article 11 de la loi n° 94-1134 du 27 décembre 1994 modifiant certaines dispositions relatives à la fonction publique territoriale. Ces conventions sont transmises dans le délai de deux mois suivant leur signature au ministre chargé des collectivités territoriales.
+
+En l'absence de transmission dans le délai d'un an à compter de la publication d'un décret prévoyant une convention type, les modalités du transfert et le montant des compensations financières à la charge du Centre national de la fonction publique territoriale sont déterminés par décret.

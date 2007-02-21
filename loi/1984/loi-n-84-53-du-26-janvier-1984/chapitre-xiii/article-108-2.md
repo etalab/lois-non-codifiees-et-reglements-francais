@@ -1,0 +1,5 @@
+# Article 108-2
+
+Les services des collectivités et des établissements mentionnés à l'article 2 doivent disposer d'un service de médecine préventive, soit en créant leur propre service, soit en adhérant aux services de santé au travail interentreprises ou assimilés, à un service commun à plusieurs collectivités ou au service créé par le centre de gestion. Les dépenses résultant de l'application du présent alinéa sont à la charge des collectivités et établissements intéressés. Le service est consulté par l'autorité territoriale sur les mesures de nature à améliorer l'hygiène générale des locaux, la prévention des accidents et des maladies professionnelles et l'éducation sanitaire.
+
+Le service de médecine préventive a pour mission d'éviter toute altération de l'état de santé des agents du fait de leur travail, notamment en surveillant les conditions d'hygiène du travail, les risques de contagion et l'état de santé des agents. A cet effet, les agents font l'objet d'une surveillance médicale et sont soumis à un examen médical au moment de l'embauche ainsi qu'à un examen médical périodique dont la fréquence est fixée par décret en Conseil d'Etat.

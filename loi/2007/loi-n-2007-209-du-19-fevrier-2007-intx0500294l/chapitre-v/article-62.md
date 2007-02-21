@@ -1,0 +1,3 @@
+# Article 62
+
+Le transfert aux centres de gestion des missions jusque-là assumées par le Centre national de la fonction publique territoriale et énumérées aux 1°, 5° et 6° du II de l'article 23 de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale entre en vigueur le premier jour du troisième mois qui suit la transmission au ministre chargé des collectivités territoriales de la dernière des conventions prévues à l'article 22-1 de la même loi ou, à défaut, la publication du décret pris en son absence. Au plus tard, ce transfert entre en vigueur le premier jour de la troisième année qui suit la publication de la présente loi.
