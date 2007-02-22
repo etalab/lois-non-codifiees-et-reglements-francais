@@ -4,6 +4,8 @@ Les partis et groupements politiques peuvent utiliser les émissions du service 
 
 Une durée d'émission de deux heures est mise à la disposition des partis et groupements représentés par des groupes parlementaires de l'Assemblée nationale ou du Sénat. Cette durée est répartie également entre les partis et groupements.
 
+Les partis et groupements qui présentent une liste dans la circonscription outre-mer disposent, dans les programmes diffusés outre-mer par la société nationale chargée du service public de la communication audiovisuelle outre-mer, d'une durée de deux heures d'émission radiodiffusée et de deux heures d'émission télévisée. Cette durée est également répartie entre les partis et groupements.
+
 Une durée d'émission d'une heure est mise à la disposition des autres partis et groupements auxquels se sont rattachées des listes de candidats dans au moins cinq circonscriptions. Cette durée est répartie également entre eux sans que chacun d'entre eux puisse disposer de plus de cinq minutes.
 
 Afin de procéder à la répartition prévue à l'alinéa précédent, il est indiqué, s'il y a lieu, dans la déclaration de candidature, au sein d'une liste de partis et groupements politiques établie par arrêté du ministre de l'intérieur, publié au Journal officiel de la République française au plus tard le cinquième vendredi précédant le scrutin, celui auquel se rattache la liste.

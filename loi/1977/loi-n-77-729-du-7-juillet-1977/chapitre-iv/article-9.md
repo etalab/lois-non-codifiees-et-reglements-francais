@@ -1,6 +1,6 @@
 # Article 9
 
-La déclaration de candidature résulte du dépôt au ministère de l'intérieur d'une liste dont le nombre de candidats est fixé conformément au décret visé au III de l'article 4. Le nombre de candidats par circonscription est égal au double du nombre de sièges à pourvoir dans la circonscription. La liste est composée alternativement d'un candidat de chaque sexe.
+La déclaration de candidature résulte du dépôt au ministère de l'intérieur ou, pour la circonscription outre-mer, auprès des services du représentant de l'Etat d'une liste dont le nombre de candidats est fixé conformément au décret visé au III de l'article 4. Le nombre de candidats par circonscription est égal au double et, pour la circonscription outre-mer, au triple du nombre de sièges à pourvoir dans la circonscription. La liste est composée alternativement d'un candidat de chaque sexe.
 
 La déclaration de candidature est faite collectivement pour chaque liste par le candidat tête de liste ou par un mandataire désigné par lui.
 

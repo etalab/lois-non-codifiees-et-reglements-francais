@@ -1,0 +1,5 @@
+# Article 20
+
+A l'exception des bénéficiaires de la législation sur les emplois réservés et sauf pour les emplois prévus au septième alinéa de l'article 21, nul ne peut être nommé à un emploi permanent à temps complet, dans les services communaux, s'il a dépassé trente ans au 1er janvier de l'année en cours, pour les communes de plus de 2 500 habitants. Cette limite d'âge sera reculée d'une période égale à la durée des services militaires ou à celle des empêchements à l'exercice de la fonction publique prévus par l'ordonnance du 15 juin 1915 modifiée ; elle sera également reculée de la durée des services accomplis en qualité de titulaire ou d'auxiliaire soit au compte de l'Etat, soit au compte d'une collectivité locale. Cette limite d'âge sera reculée également d'une année par enfant à charge au profit des pères et mères de famille.
+
+Toutefois, aucune limite d'âge n'est fixée pour le personnel enseignant dans les conservatoires de musique à caractère communal, de même que pour le personnel des écoles régionales des beaux-arts qui sont régies sur le plan communal.

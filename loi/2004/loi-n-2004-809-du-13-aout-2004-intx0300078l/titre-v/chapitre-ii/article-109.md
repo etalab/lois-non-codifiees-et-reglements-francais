@@ -16,6 +16,10 @@ Les fonctionnaires qui, à l'expiration du délai mentionné au I du présent ar
 
 Les dispositions de l'article 41 de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale ne sont pas applicables à la nomination des fonctionnaires mentionnés au I du présent article à des emplois des services ou parties de services transférés en application de la présente loi à une collectivité territoriale ou à un groupement de collectivités territoriales.
 
+III bis. - Dans les départements et régions d'outre-mer, les fonctionnaires de l'Etat affectés dans les services ou parties de service exerçant les compétences transférées relatives aux routes départementales et nationales, qui ont vocation à exercer leurs fonctions auprès du syndicat mixte mentionné au deuxième alinéa de l'article 105 et qui ont opté pour le maintien de leur statut ou qui, à l'expiration du délai mentionné au I du présent article, n'ont pas fait usage du droit d'option mentionné au même I, sont placés en position de détachement sans limitation de durée auprès de ce syndicat mixte dans les conditions prévues par l'article 147 de la loi n° 2005-1719 du 30 décembre 2005 de finances pour 2006.
+
+En cas de dissolution du syndicat mixte, les agents détachés auprès de lui sont placés de plein droit en position de détachement sans limitation de durée auprès du conseil régional ou du conseil général, selon la collectivité à laquelle leurs services ou parties de service ont été transférés en application de la présente loi.
+
 IV. - Les dispositions des I à III sont applicables aux fonctionnaires de l'Etat mis à disposition du département en application de l'article 42 de la loi n° 2003-1200 du 18 décembre 2003 portant décentralisation en matière de revenu minimum d'insertion et créant un revenu minimum d'activité.
 
 Un décret en Conseil d'Etat précise les modalités d'application du présent article.

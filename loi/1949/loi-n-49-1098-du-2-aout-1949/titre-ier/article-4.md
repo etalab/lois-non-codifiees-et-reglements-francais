@@ -1,0 +1,3 @@
+# Article 4
+
+Il est ouvert au ministre des finances et des affaires économiques, au titre du budget général (services civils) pour l'exercice 1949, en addition aux crédits ouverts par la loi n° 48-1992 du 31 décembre 1948 portant fixation du budget général pour l'exercice 1949 (dépenses ordinaires civiles) modifiée par la loi n° 49-539 du 20 avril 1949 et par des textes spéciaux, un crédit de 500 millions de francs applicable au chapitre 087-1 (nouveau) "Majoration des rentes viagères constituées auprès des compagnies d'assurances et de la caisse nationale des retraites pour la vieillesse", du budget des finances et des affaires économiques (I. - Finances).

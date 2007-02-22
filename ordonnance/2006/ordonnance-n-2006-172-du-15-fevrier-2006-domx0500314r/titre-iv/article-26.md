@@ -1,6 +1,6 @@
 # Article 26
 
-L'établissement public d'incendie et de secours de Nouvelle-Calédonie est administré par un conseil d'administration composé de représentants des collectivités territoriales et des établissements publics de coopération intercommunale compétents en matière de secours et de lutte contre l'incendie. Chaque titulaire peut être représenté par un suppléant. Pour les maires, le suppléant peut également avoir la qualité d'adjoint au maire ou de conseiller municipal.
+L'établissement public d'incendie et de secours de Nouvelle-Calédonie est administré par un conseil d'administration composé de représentants des collectivités territoriales et des établissements publics de coopération intercommunale compétents en matière de secours et de lutte contre l'incendie et, le cas échéant, de la Nouvelle-Calédonie. Chaque titulaire peut être représenté par un suppléant. Pour les maires, le suppléant peut également avoir la qualité d'adjoint au maire ou de conseiller municipal.
 
 Le président du conseil d'administration est élu par celui-ci à la majorité des deux tiers parmi ses membres pour une durée de trois ans. Si le président du conseil d'administration perd avant cette date le mandat au titre duquel il est membre de ce conseil, il est procédé à une nouvelle élection pour la durée du mandat restant à courir.
 

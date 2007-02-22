@@ -6,4 +6,3 @@
 - [Titre IV : Du développement de la culture et des identités outre-mer](titre-iv)
 - [Titre VI : De l'approfondissement de la décentralisation](titre-vi)
 - [Titre VIII : Dispositions relatives à Saint-Pierre-et-Miquelon](titre-viii)
-- [Titre IX : De la transparence et de l'évaluation des politiques publiques](titre-ix)

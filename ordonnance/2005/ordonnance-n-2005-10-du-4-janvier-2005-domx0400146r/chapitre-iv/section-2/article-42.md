@@ -6,4 +6,6 @@ a) Par voie des emplois réservés aux personnes reconnues travailleurs handicap
 
 b) Lors de la constitution initiale d'un cadre d'emplois dans les conditions énoncées au chapitre VI ;
 
-c) Pour le recrutement au grade le moins élevé de la filière concernée de fonctionnaires du niveau " exécution ", le cas échéant, selon les conditions d'aptitude prévues par les cadres d'emplois.
+c) Pour le recrutement de fonctionnaires du niveau "exécution", le cas échéant, selon les conditions d'aptitude prévues par les cadres d'emplois ;
+
+d) Pour le recrutement au grade le moins élevé des fonctionnaires des cadres d'emplois de la catégorie "application", le cas échéant selon les conditions d'aptitude prévues par les cadres d'emplois.

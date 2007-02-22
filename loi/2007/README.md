@@ -8,3 +8,4 @@
 - [Loi n° 2007-210 du 19 février 2007 (ECOX0709966L)](loi-n-2007-210-du-19-fevrier-2007-ecox0709966l)
 - [Loi n° 2007-211 du 19 février 2007 (JUSX0609640L)](loi-n-2007-211-du-19-fevrier-2007-jusx0609640l)
 - [Loi n° 2007-212 du 20 février 2007 (ECOX0609632L)](loi-n-2007-212-du-20-fevrier-2007-ecox0609632l)
+- [Loi n° 55-1052 du 6 août 1955](loi-n-55-1052-du-6-aout-1955)

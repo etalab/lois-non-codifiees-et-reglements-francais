@@ -14,4 +14,4 @@ Les jugements rendus en dernier ressort par la juridiction de droit local peuven
 
 Un décret en Conseil d'Etat règle l'organisation de la juridiction de droit commun. A dater de la promulgation de ce décret dans le territoire, les dispositions des articles 1er à 16 du décret du 8 août 1933 sont abrogées.
 
-Un arrêté du haut-commissaire de la République dans l'océan Pacifique organise la juridiction de droit local.
+Un arrêté de l'administrateur supérieur organise la juridiction de droit local.

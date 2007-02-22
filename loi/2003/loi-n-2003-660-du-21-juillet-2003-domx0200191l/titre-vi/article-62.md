@@ -1,6 +1,6 @@
 # Article 62
 
-I. - Dans les conditions prévues à l'article 38 de la Constitution, le Gouvernement est autorisé à prendre, par ordonnance, les mesures nécessaires, en tant qu'elles concernent les compétences de l'Etat, à l'actualisation et à l'adaptation du droit applicable dans les départements d'outre-mer, à Saint-Pierre-et-Miquelon, à Mayotte, en Nouvelle-Calédonie, en Polynésie française, dans les îles Wallis et Futuna et les Terres australes et antarctiques françaises dans les domaines suivants :
+I.-Dans les conditions prévues à l'article 38 de la Constitution, le Gouvernement est autorisé à prendre, par ordonnance, les mesures nécessaires, en tant qu'elles concernent les compétences de l'Etat, à l'actualisation et à l'adaptation du droit applicable dans les départements d'outre-mer, à Saint-Pierre-et-Miquelon, à Mayotte, en Nouvelle-Calédonie, en Polynésie française, dans les îles Wallis et Futuna et les Terres australes et antarctiques françaises dans les domaines suivants :
 
 1° Pour l'ensemble des collectivités précitées :
 
@@ -92,7 +92,7 @@ b) Procédure civile et voies d'exécution ;
 
 pêche.
 
-II. - Les projets d'ordonnance sont soumis pour avis :
+II.-Les projets d'ordonnance sont soumis pour avis :
 
 1° Lorsque leurs dispositions sont relatives à la Polynésie française ou à la Nouvelle-Calédonie, aux institutions compétentes prévues respectivement par la loi organique n° 2004-192 du 27 février 2004 portant statut d'autonomie de la Polynésie française et par la loi organique n° 99-209 du 19 mars 1999 relative à la Nouvelle-Calédonie ;
 
@@ -102,14 +102,14 @@ II. - Les projets d'ordonnance sont soumis pour avis :
 
 4° Lorsque leurs dispositions sont relatives à Mayotte, au conseil général de Mayotte, dans les conditions prévues à l'article L. 3551-12 du même code ;
 
-5° Lorsque leurs dispositions sont relatives à Saint-Pierre-et-Miquelon, au conseil général de Saint-Pierre-et-Miquelon dans les conditions prévues à l'article 28 de la loi n° 85-595 du 11 juin 1985 relative au statut de l'archipel de Saint-Pierre-et-Miquelon ;
+5° Lorsque leurs dispositions sont relatives à Saint-Pierre-et-Miquelon, au conseil général de Saint-Pierre-et-Miquelon dans les conditions prévues à l'article LO. 6413-3 du code général des collectivités territoriales ;
 
 6° Lorsque leurs dispositions sont relatives aux Terres australe et antarctiques françaises, au conseil consultatif du territoire.
 
-III. - Les ordonnances prévues au 1° du I seront prises au plus tard le dernier jour du dix-huitième mois suivant la promulgation de la présente loi. Les autres ordonnances prévues au I seront prises au plus tard le dernier jour du vingt-quatrième mois suivant la promulgation de la présente loi.
+III.-Les ordonnances prévues au 1° du I seront prises au plus tard le dernier jour du dix-huitième mois suivant la promulgation de la présente loi. Les autres ordonnances prévues au I seront prises au plus tard le dernier jour du vingt-quatrième mois suivant la promulgation de la présente loi.
 
 Toutefois, l'ordonnance prévue au f du 7° du I sera prise au plus tard le dernier jour du trentième mois suivant la promulgation de la présente loi.
 
 Les projets de loi portant ratification de ces ordonnances seront déposés devant le Parlement au plus tard six mois à compter de leur publication.
 
-IV. - Les rapports de présentation des ordonnances mentionnées au présent article sont publiés au Journal officiel de la République française.
+IV.-Les rapports de présentation des ordonnances mentionnées au présent article sont publiés au Journal officiel de la République française.

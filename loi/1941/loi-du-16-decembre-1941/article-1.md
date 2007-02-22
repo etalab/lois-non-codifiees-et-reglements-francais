@@ -1,0 +1,7 @@
+# Article 1
+
+Sans préjudice des approbations ou autorisations prescrites par Les lois et règlements en vigueur, et notamment sous réserve des dispositions de la loi du 6 avril 1941, relative à l'équipement national, les projets d'équipement sportif, autres que ceux qui sont à réaliser par des particuliers et destinés à l'usage familial, qu'ils concernent l'acquisition, la construction, l'extension ou l'aménagement de stades, terrains d'éducation physique et de jeux, piscines, gymnases, et, d'une manière générale, de toutes installations destinées à la pratique de l'éducation physique et des sports, ne peuvent être mis à exécution qu'après avoir été approuvés par une décision du secrétaire d'Etat à l'éducation nationale et à la jeunesse, prise sur la proposition du commissaire général à l'éducation générale et aux sports, après avis d'une commission centrale.
+
+Toutefois, les projets rentrant dans les catégories désignées par arrêté du secrétaire d'Etat à l'éducation nationale et à la jeunesse peuvent être approuvés par décision du préfet, prise sur la proposition du chef des services de l'éducation générale et des sports de la circonscription intéressée, après avis d'une commission départementale.
+
+Aucune subvention de premier établissement ne peut être allouée par une collectivité publique pour la réalisation d'un projet d'équipement sportif quelconque si elle n'a été préalablement soumise à l'examen des commissions prévues aux alinéas 16, et 2 ci-dessus.

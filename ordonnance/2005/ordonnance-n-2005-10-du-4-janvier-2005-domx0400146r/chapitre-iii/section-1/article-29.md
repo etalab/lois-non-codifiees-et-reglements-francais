@@ -12,4 +12,4 @@ II. - Les comités techniques paritaires connaissent des questions relatives :
 
 3° Aux conditions d'hygiène et de sécurité. Ils sont réunis par leur président à la suite de tout accident mettant en cause l'hygiène ou la sécurité ou ayant pu entraîner des conséquences graves.
 
-III. - Un décret en Conseil d'Etat détermine la composition des comités techniques paritaires, la durée des mandats de leurs membres et leur mode de désignation ainsi que les règles de fonctionnement de ces organismes.
+III. - Un décret détermine la composition des comités techniques paritaires, la durée des mandats de leurs membres et leur mode de désignation ainsi que les règles de fonctionnement de ces organismes.
