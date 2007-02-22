@@ -4,3 +4,4 @@
 - [Titre IV : Dispositions relatives aux sociétés coopératives ouvrières de production.](titre-iv)
 - [Titre VI : Dispositions relatives aux sociétés d'assurance à forme mutuelle et aux sociétés mutuelles d'assurance.](titre-vi)
 - [Titre VIII : Modalités d'application.](titre-viii)
+- [Titre IX : Modalités d'application.](titre-ix)

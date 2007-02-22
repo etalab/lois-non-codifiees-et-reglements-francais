@@ -1,0 +1,3 @@
+# Article 80-2
+
+Dans l'attente des élections des représentants du personnel aux commissions administratives paritaires prévues au troisième alinéa de l'article 27, les représentants des organisations syndicales représentatives de fonctionnaires en Polynésie française au Conseil supérieur de la fonction publique des communes de la Polynésie française prévus aux deuxième et quatrième alinéas de l'article 25 sont désignés par arrêté du haut-commissaire de la République en Polynésie française sur proposition des organisations syndicales représentatives des personnels des communes, des groupements de communes ainsi que de leurs établissements publics.

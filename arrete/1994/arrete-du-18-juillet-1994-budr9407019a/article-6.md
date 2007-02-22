@@ -8,4 +8,6 @@ Des liaisons informatisées sont mises en place avec :
 
 - les préfectures pour les oppositions au fichier des cartes grises et leur mainlevée ;
 
-- les services de la direction générale des impôts pour la consultation des informations enregistrées dans les fichiers Ficoba, Fip et Sir et la communication des réponses qui y sont apportées.
+- les services de la direction générale des impôts pour la consultation des informations enregistrées dans les fichiers Ficoba, Fip et Sir et la communication des réponses qui y sont apportées ;
+
+Le traitement informatisé "télépaiement des amendes" de la DGCP.
