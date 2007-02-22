@@ -1,7 +1,11 @@
 # Article 5
 
-Ont la qualité d'électeur les personnes physiques immatriculées à ce répertoire, les dirigeants sociaux des personnes morales immatriculées ainsi que les conjoints collaborateurs tels que définis à l'article 14 du décret du 2 avril 1998 susvisé mentionnés à ce répertoire, depuis au moins six mois à la date de clôture du scrutin.
+I. - Sont électeurs, sous réserve d'être immatriculés ou mentionnés, selon les cas, au répertoire des métiers depuis au moins six mois à la date de clôture du scrutin :
 
-Les électeurs doivent être de nationalité française ou ressortissants d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen. ;
+1° Les personnes physiques ainsi que les dirigeants sociaux des personnes morales immatriculées à ce répertoire ;
 
-Les personnes de nationalité française doivent remplir les conditions requises pour participer aux élections au suffrage universel. Les ressortissants d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen, âgés de dix-huit ans accomplis, doivent jouir de leurs droits civils et politiques. Ces personnes ne doivent pas avoir fait l'objet de condamnations qui, si elles avaient été prononcées par une juridiction française, feraient obstacle à l'inscription sur la liste électorale établie conformément aux dispositions du code électoral.
+2° Les conjoints collaborateurs mentionnés à ce répertoire.
+
+II. - Les personnes de nationalité française doivent remplir les conditions requises pour participer aux élections au suffrage universel.
+
+Les personnes qui n'ont pas la nationalité française doivent être âgées de dix-huit ans accomplis, jouir de leurs droits civils et politiques et ne pas avoir fait l'objet de condamnations qui, prononcées par une juridiction française ou étrangère, feraient, selon la législation française, obstacle à l'inscription sur la liste électorale établie conformément aux dispositions du code électoral.
