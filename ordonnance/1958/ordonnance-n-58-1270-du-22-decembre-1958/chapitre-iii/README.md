@@ -9,5 +9,6 @@
 - [Article 28-3](article-28-3.md)
 - [Article 30](article-30.md)
 - [Article 31](article-31.md)
+- [Article 32](article-32.md)
 - [Article 33](article-33.md)
 - [*intitulé modifié : loi organique 67-130 1967-02-20 art. 3 JORF 21 février 1967*.](intitule-modifie-loi)
