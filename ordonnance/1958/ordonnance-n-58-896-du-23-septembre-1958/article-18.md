@@ -1,0 +1,3 @@
+# Article 18
+
+Les opérations relatives à l'exécution du protocole financier conclu le 24 décembre 1954 entre le Gouver­nement français et le Gouvernement roumain sont retracées aux comptes de règlement avec les gouvernements étrangers ouverts par la loi n° 52-852 du 21 juillet 1952 et l'article 10 de la loi n° 53-75 du 6 février 1953, dont les intitulés sont modifiés respectivement comme suit : "Exécution de divers accords conclus avec des gouvernements étrangers relatifs à l'indemnisation d'intérêts français (créances financières)" et "Exécution de divers accords conclus avec des gouvernements étrangers relatifs à l'indemnisation d'intérêts français (natio­nalisation et mesures similaires)".

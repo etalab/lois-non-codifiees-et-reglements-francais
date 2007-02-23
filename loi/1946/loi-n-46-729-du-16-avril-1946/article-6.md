@@ -1,0 +1,3 @@
+# Article 6
+
+Pendant un délai de six mois à compter de la promulgation de la présente loi, pourront demander à être admises, par décret, au bénéfice de l'amnistie, les personnes poursuivies ou condamnées pour toutes infractions pénales, quelle que soit la qualification et quelle que soit la juridiction appelée à en connaître, civile ou militaire, commises antérieurement au 8 mai 1945 pour l'ensemble du territoire, ou à la date du 18 août 1945 pour les départements du Haut-Rhin, Bas-Rhin et Moselle, à condition que les actes reprochés aient été accomplis avec l'esprit de servir la cause de la libération définitive de la France.
