@@ -1,8 +1,8 @@
 # Article Annexe
 
-A N N E X E
+INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL
 
-INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
+AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
 Intitulé :
 
@@ -14,17 +14,15 @@ Code NSF : 227 s.
 
 Résumé du référentiel d'emploi
 
-L'installateur(trice) en thermique et sanitaire réalise des installations de chauffage central et de sanitaire. Les travaux qui lui sont confiés concernent aussi bien des installations neuves, dans des immeubles neufs ou anciens, que la modification d'installations existantes. Il (elle) prépare, assemble, fixe et pose tous les éléments nécessaires à la mise en place d'un équipement sanitaire, d'une installation de production et de distribution d'eau chaude sanitaire, d'une ventilation mécanique contrôlée (VMC) individuelle, ou d'un dispositif de chauffage central. Il (elle) effectue le raccordement, le réglage et la mise en service de ces installations et procède aux réparations éventuelles de divers éléments défectueux (remplacement de pompes, de parties de tuyauteries, de robinetteries et d'accessoires n'assurant plus leur fonction). Lorsque le dépannage à réaliser porte sur les appareils de production de chaleur (chaudière, chauffe-bain,...), il est confié à un spécialiste.
+L'installateur en thermique et sanitaire réalise des installations de chauffage central et de sanitaire. Les travaux qui lui sont confiés concernent aussi bien des installations neuves, dans des immeubles neufs ou anciens, que la modification d'installations existantes.
 
-L'installateur(trice) en thermique et sanitaire travaille généralement seul(e), et presque exclusivement sur chantier où il(elle) intervient fréquemment en même temps que d'autres professionnels du bâtiment (électriciens, maçons, plâtriers, peintres, ...). Il (elle) est en relation avec les clients, notamment lorsqu'il (elle) effectue des travaux dans des logements habités.
+Il prépare, assemble, fixe et pose tous les éléments nécessaires à la mise en place d'un équipement sanitaire, d'une installation de production et de distribution d'eau chaude sanitaire, d'une ventilation mécanique contrôlée (VMC) individuelle, ou d'un dispositif de chauffage central. Il effectue le raccordement, le réglage et la mise en service de ces installations et procède aux réparations éventuelles de divers éléments défectueux (remplacement de pompes, de parties de tuyauteries, de robinetteries et d'accessoires n'assurant plus leur fonction). Lorsque le dépannage à réaliser porte sur les appareils de production de chaleur (chaudière, chauffe-bain, etc.), il est confié à un spécialiste.
 
-Capacités attestées et descriptif
+L'installateur en thermique et sanitaire travaille généralement seul, et presque exclusivement sur chantier où il intervient fréquemment en même temps que d'autres professionnels du bâtiment (électriciens, maçons, plâtriers, peintres, etc.). Il est en relation avec les clients, notamment lorsqu'il effectue des travaux dans des logements habités.
 
-des composantes de la certification
+Capacités attestées et descriptif des composantes de la certification
 
-1. Réaliser des éléments d'installations
-
-de chauffage et de sanitaire
+1. Réaliser des éléments d'installations de chauffage et de sanitaire
 
 Réaliser l'assemblage et l'équipement des émetteurs de chaleur.
 
@@ -46,9 +44,7 @@ Réaliser l'engravement des tuyauteries.
 
 Poser en incorporation des réseaux hydrocâblés en PER (polyéthylène réticulé) ou cuivre recuit.
 
-2. Réaliser des installations collectives neuves
-
-de chauffage et de sanitaire
+2. Réaliser des installations collectives neuves de chauffage et de sanitaire
 
 Réaliser l'assemblage et l'équipement des émetteurs de chaleur.
 
@@ -74,9 +70,7 @@ Assembler par soudo-brasage des éléments de tuyauteries en acier galvanisé.
 
 Assembler, en position par soudage oxyacéthylénique, des éléments de tuyauteries en acier noir.
 
-3. Réaliser des installations individuelles neuves
-
-de chauffage et de sanitaire
+3. Réaliser des installations individuelles neuves de chauffage et de sanitaire
 
 Réaliser l'assemblage et l'équipement des émetteurs de chaleur.
 
@@ -114,19 +108,33 @@ Installer un plancher chauffant en PER (polyéthylène réticulé) pour un logem
 
 Organiser un chantier de chauffage, de sanitaire et de VMC (ventilation mécanique contrôlée) d'un pavillon neuf.
 
-Secteurs d'activités ou types d'emploi accessibles
+Certificat complémentaire de spécialisation (CCS)
 
-par le détenteur du titre
+1. Installer des systèmes de chauffage et de production
+
+d'eau chaude sanitaire utilisant les énergies renouvelables
+
+Installer un chauffe-eau solaire individuel (CESI).
+
+Installer un système solaire combiné (SSC).
+
+Installer une pompe à chaleur géothermique (eau/eau).
+
+Installer une pompe à chaleur aérothermique (air/eau).
+
+Installer une chaudière bois automatique de petite puissance.
+
+Secteurs d'activités ou types d'emploi accessibles par le détenteur du titre :
 
 Entreprises de petite, moyenne et grosse importance en chauffage et sanitaire.
 
-Entreprises d'intérim.
+Les entreprises d'intérim.
 
-Service maintenance et travaux neufs de grosses structures : collectivités, industries, hôpitaux.
+Service maintenance et travaux neufs de grosses structures : collectivités, industries, hôpitaux, etc.
 
 Code ROME :
 
-42212 - Installateur d'équipements sanitaires et thermiques.
+42212 - Installateur(trice) d'équipements sanitaires et thermiques.
 
 Réglementation de l'activité :
 
@@ -140,8 +148,6 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
+Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
 
-Décret n° 2002-1029 du 2 août 2002 ;
-
-Arrêté du 25 novembre 2002.
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.
