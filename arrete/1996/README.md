@@ -127,7 +127,6 @@
 - [Arrêté du 5 avril 1996 (DEFD9601594A)](arrete-du-5-avril-1996-defd9601594a)
 - [Arrêté du 5 avril 1996 (EQUZ9600004A)](arrete-du-5-avril-1996-equz9600004a)
 - [Arrêté du 5 décembre 1995 (INTC9500759A)](arrete-du-5-decembre-1995-intc9500759a)
-- [Arrêté du 5 décembre 1996 (PRMX9601751A)](arrete-du-5-decembre-1996-prmx9601751a)
 - [Arrêté du 5 décembre 1996 (TASG9624153A)](arrete-du-5-decembre-1996-tasg9624153a)
 - [Arrêté du 5 février 1996 (AGRA9502421A)](arrete-du-5-fevrier-1996-agra9502421a)
 - [Arrêté du 5 février 1996 (ENVE9650031A)](arrete-du-5-fevrier-1996-enve9650031a)

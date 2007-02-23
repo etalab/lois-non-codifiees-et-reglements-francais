@@ -609,7 +609,6 @@
 - [Arrêté du 18 juillet 2003 (JUSB0310368A)](arrete-du-18-juillet-2003-jusb0310368a)
 - [Arrêté du 18 juillet 2003 (SPRK0370068A)](arrete-du-18-juillet-2003-sprk0370068a)
 - [Arrêté du 18 juin 2003 (AGRA0300713A)](arrete-du-18-juin-2003-agra0300713a)
-- [Arrêté du 18 juin 2003 (DEFN0301700A)](arrete-du-18-juin-2003-defn0301700a)
 - [Arrêté du 18 juin 2003 (ECOP0300310A)](arrete-du-18-juin-2003-ecop0300310a)
 - [Arrêté du 18 juin 2003 (EQUP0300207A)](arrete-du-18-juin-2003-equp0300207a)
 - [Arrêté du 18 juin 2003 (INTC0300352A)](arrete-du-18-juin-2003-intc0300352a)
