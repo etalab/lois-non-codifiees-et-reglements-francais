@@ -280,7 +280,6 @@
 - [Arrêté du 9 septembre 1996 (MCCL9600457A)](arrete-du-9-septembre-1996-mccl9600457a)
 - [Arrêté du 9 septembre 1996 (TASH9623372A)](arrete-du-9-septembre-1996-tash9623372a)
 - [Arrêté du 9 septembre 1996 (TASH9623373A)](arrete-du-9-septembre-1996-tash9623373a)
-- [Arrêté du 9 septembre 1996 (TASP9623502A)](arrete-du-9-septembre-1996-tasp9623502a)
 - [Arrêté du 9 mai 1996 (BUDL9600026A)](arrete-du-9-mai-1996-budl9600026a)
 - [Arrêté du 9 mai 1996 (INTC9600221A)](arrete-du-9-mai-1996-intc9600221a)
 - [Arrêté du 10 avril 1996 (DEFD9601383A)](arrete-du-10-avril-1996-defd9601383a)

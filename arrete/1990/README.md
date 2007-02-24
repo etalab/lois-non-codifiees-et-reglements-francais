@@ -800,7 +800,6 @@
 - [Arrêté du 31 juillet 1989 (PRME8961363A)](arrete-du-31-juillet-1989-prme8961363a)
 - [Arrêté du 31 juillet 1990 (BUDR9005040A)](arrete-du-31-juillet-1990-budr9005040a)
 - [Arrêté du 31 juillet 1990 (SPSP9001626A)](arrete-du-31-juillet-1990-spsp9001626a)
-- [Arrêté du 31 juillet 1990 (SPSP9001628A)](arrete-du-31-juillet-1990-spsp9001628a)
 - [Arrêté du 31 octobre 1990 (BUDB9030039A)](arrete-du-31-octobre-1990-budb9030039a)
 - [Arrêté du 31 octobre 1990 (BUDF9010071A)](arrete-du-31-octobre-1990-budf9010071a)
 - [Arrêté du 31 mai 1990 (BUDR9005029A)](arrete-du-31-mai-1990-budr9005029a)

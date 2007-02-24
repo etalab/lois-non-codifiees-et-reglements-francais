@@ -8,7 +8,6 @@
 - [Titre VI : Des traités et accords internationaux](titre-vi)
 - [Titre VII : Le Conseil constitutionnel](titre-vii)
 - [Titre VIII : De l'autorité judiciaire](titre-viii)
-- [Titre IX : La Haute Cour de Justice.](titre-ix)
 - [Titre XI : Le Conseil économique et social.](titre-xi)
 - [Titre XII : Des collectivités territoriales](titre-xii)
 - [Titre XV : Des Communautés européennes et de l'Union européenne](titre-xv)

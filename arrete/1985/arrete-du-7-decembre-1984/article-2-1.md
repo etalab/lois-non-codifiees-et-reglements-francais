@@ -1,3 +1,0 @@
-# Article 2-1
-
-Lorsqu'une sage-femme présente des diplômes, certificats ou autres titres de sage-femme délivrés par les Etats membres des communautés européennes ne répondant pas aux dénominations figurant pour cet Etat membre aux articles 1 et 2 du présent arrêté, elle doit produire un certificat délivré par les autorités compétentes attestant que ces diplômes, certificats ou autres titres de sage- femme sanctionnent une formation conforme aux obligations communautaires et sont assimilés par l'Etat membre qui les a délivrés à ceux dont les dénominations figurent aux articles 1 et 2 du présent arrêté.
