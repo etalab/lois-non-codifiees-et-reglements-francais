@@ -1,6 +1,6 @@
 # Article 4
 
-Chaque demande d'autorisation de récolte devra porter sur une seule espèce et préciser :
+Chaque demande d'autorisation de récolte [*contenu*] devra porter sur une seule espèce et préciser :
 
 Le nom scientifique et éventuellement le nom vernaculaire ;
 

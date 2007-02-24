@@ -1,4 +1,4 @@
-# Article ANNEXE
+# Article Annexe
 
 A.1. Règles relatives à la présence éventuelle d'alcool
 
@@ -18,13 +18,19 @@ b) Les éthylomètres portatifs doivent fonctionner selon le cycle de mesurage d
 
 3. Il est autorisé d'interrompre le cycle de mesurage dès qu'un résultat d'un mesurage individuel inférieur à 0,25 mg/l est détecté. Ce résultat est alors affiché.
 
-4. Si les deux résultats sont supérieurs ou égaux à 0,25 mg/l, les règles suivantes s'appliquent :
+4. Si les deux résultats sont supérieurs ou égaux à 0,25 mg/l, dans les cas prévus aux 4.1 et 4.2 ci-après, l'instrument peut, au choix du fabricant ou de l'utilisateur :
 
-4.1. Le plus petit des résultats individuels de mesurage est affiché si le quotient P12 tel que défini en I.2.1 de l'annexe I de R. 126 est, en valeur absolue, inférieur à 15 micro g.L-1.min-1 et si le plus petit résultat individuel est inférieur à 0,5 mg/l.
+- soit n'indiquer que le plus petit résultat ;
 
-4.2. Le plus petit des résultats individuels de mesurage est affiché si la différence entre les deux résultats individuels est inférieure ou égale à 7 % du plus petit résultat et si ce plus petit résultat individuel est supérieur ou égal à 0,5 mg/l.
+- soit indiquer les deux résultats.
 
-4.3. Le cycle doit être invalidé dans les autres cas ;
+S'il indique les deux résultats, le rang de mesurage doit être associé à chacun d'eux sans ambiguïté.
+
+Le cycle doit être invalidé dans les autres cas.
+
+4.1. Le plus petit résultat individuel est inférieur à 0,5 mg/l et le quotient P12 tel que défini en I.2.1 de l'annexe I de R. 126 est, en valeur absolue, inférieur à 15 micro g.1-1.min-1.
+
+4.2. Le plus petit résultat individuel est supérieur ou égal à 0,5 mg/l et la différence entre les deux résultats individuels est inférieure ou égale à 7 % du plus petit résultat.
 
 c) Le texte du message correspondant aux cycles invalidés doit être le suivant :
 

@@ -1,3 +1,3 @@
 # CONDITIONS PARTICULIÈRES D'APPLICATION DE LA RECOMMANDATION R. 126.
 
-- [Article ANNEXE](article-annexe.md)
+- [Article Annexe](article-annexe.md)
