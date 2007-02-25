@@ -66,6 +66,7 @@
 - [Décret n°2004-1419 du 23 décembre 2004 (SANS0424266D)](decret-n2004-1419-du-23-decembre-2004-sans0424266d)
 - [Décret n°2005-693 du 23 juin 2005 (MPEX0508523D)](decret-n2005-693-du-23-juin-2005-mpex0508523d)
 - [Décret n°2005-696 du 23 juin 2005 (MENB0501195D)](decret-n2005-696-du-23-juin-2005-menb0501195d)
+- [Décret n°2005-1070 du 24 août 2005 (EQUA0500692D)](decret-n2005-1070-du-24-aout-2005-equa0500692d)
 - [Décret n°2005-701 du 24 juin 2005 (EQUX0500011D)](decret-n2005-701-du-24-juin-2005-equx0500011d)
 - [Décret n°2005-703 du 24 juin 2005 (MCCX0500075D)](decret-n2005-703-du-24-juin-2005-mccx0500075d)
 - [Décret du 25 octobre 2005 (AGRP0501894D)](decret-du-25-octobre-2005-agrp0501894d)
