@@ -23,6 +23,7 @@
 - [Décret n°2005-662 du 9 juin 2005 (AGRX0500138D)](decret-n2005-662-du-9-juin-2005-agrx0500138d)
 - [Décret n°2005-118 du 10 février 2005 (SANA0520177D)](decret-n2005-118-du-10-fevrier-2005-sana0520177d)
 - [Décret n°2005-977 du 10 août 2005 (SANS0522310D)](decret-n2005-977-du-10-aout-2005-sans0522310d)
+- [Décret n°2005-988 du 10 août 2005 (SANP0522839D)](decret-n2005-988-du-10-aout-2005-sanp0522839d)
 - [Décret n°2005-122 du 11 février 2005 (ECOP0401126D)](decret-n2005-122-du-11-fevrier-2005-ecop0401126d)
 - [Décret n°2005-24 du 11 janvier 2005 (DOMB0400015D)](decret-n2005-24-du-11-janvier-2005-domb0400015d)
 - [Décret n°2005-772 du 11 juillet 2005 (MATK0500001D)](decret-n2005-772-du-11-juillet-2005-matk0500001d)
