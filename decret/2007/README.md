@@ -56,6 +56,7 @@
 - [Décret n° 2007-164 du 6 février 2007 (EQUT0700151D)](decret-n-2007-164-du-6-fevrier-2007-equt0700151d)
 - [Décret n°2006-1533 du 6 décembre 2006 (MENR0602902D)](decret-n2006-1533-du-6-decembre-2006-menr0602902d)
 - [Décret n°2006-1538 du 6 décembre 2006 (INTA0600270D)](decret-n2006-1538-du-6-decembre-2006-inta0600270d)
+- [Décret n°98-347 du 6 mai 1998 (ECOP9800091D)](decret-n98-347-du-6-mai-1998-ecop9800091d)
 - [Décret n° 2007-170 du 7 février 2007 (INDI0709647D)](decret-n-2007-170-du-7-fevrier-2007-indi0709647d)
 - [Décret n° 2007-171 du 7 février 2007 (INDI0709648D)](decret-n-2007-171-du-7-fevrier-2007-indi0709648d)
 - [Décret n° 2007-172 du 7 février 2007 (EQUP0602442D)](decret-n-2007-172-du-7-fevrier-2007-equp0602442d)
