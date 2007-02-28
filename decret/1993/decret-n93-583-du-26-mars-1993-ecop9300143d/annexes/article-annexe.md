@@ -16,8 +16,6 @@ Tableau VIII. - Emplois du service de la promotion des échanges extérieurs et 
 
 Tableau IX. - Emplois de la direction générale de la concurrence, de la consommation et de la répression des fraudes.
 
-Tableau X. - Emplois de la direction des Monnaies et médailles.
+Tableau X. - Emplois de l'établissement public La Monnaie de Paris.
 
 Tableau XI. - Emplois de l'Imprimerie nationale.
-
-*Tableaux non reproduits cf JORF 28 mars 1993 p. 5223.*

@@ -1,6 +1,6 @@
 # Article 14
 
-Les insignes de la médaille d'honneur agricole qui sont frappés et gravés par l'administration des Monnaies et médailles aux frais des titulaires ou de leurs employeurs, en cas d'accord de ces derniers, sont du module de 27 millimètres, portant d'un côté l'effigie de la République avec les mots "République française", de l'autre côté "Ministère de l'agriculture" avec la devise "Honneur et travail", ainsi que le nom et le prénom du titulaire et le millésime.
+Les insignes de la médaille d'honneur agricole qui sont frappés et gravés par l'établissement public La Monnaie de Paris aux frais des titulaires ou de leurs employeurs, en cas d'accord de ces derniers, sont du module de 27 millimètres, portant d'un côté l'effigie de la République avec les mots "République française", de l'autre côté "Ministère de l'agriculture" avec la devise "Honneur et travail", ainsi que le nom et le prénom du titulaire et le millésime.
 
 La médaille d'argent est en argent et est suspendue à un ruban de 30 millimètres de largeur comportant cinq bandes verticales égales de 6 millimètres présentant une bande médiane blanche bordée à droite d'une bande rouge, à gauche d'une bande bleue, encadrées par deux bandes latérales vertes.
 

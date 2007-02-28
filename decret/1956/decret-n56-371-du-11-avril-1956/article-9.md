@@ -1,6 +1,6 @@
 # Article 9
 
-Cette croix, conforme au modèle déposé à l'administration des Monnaies et médailles, est en bronze, d'un module d'environ 36 millimètres.
+Cette croix, conforme au modèle déposé à l'établissement public La Monnaie de Paris, est en bronze, d'un module d'environ 36 millimètres.
 
 Elle porte à l'avers l'effigie de la République avec les mots "REPUBLIQUE FRANCAISE" et au revers l'inscription "CROIX DE LA VALEUR MILITAIRE".
 

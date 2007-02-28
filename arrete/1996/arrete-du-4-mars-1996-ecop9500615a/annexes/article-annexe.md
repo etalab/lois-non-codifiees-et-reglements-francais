@@ -102,7 +102,7 @@ Direction générale des douanes et droits indirects :
 
 - techniciens des laboratoires des douanes.
 
-Administration des Monnaies et médailles :
+Etablissement public La Monnaie de Paris :
 
 - adjoints techniques mécaniciens ;
 

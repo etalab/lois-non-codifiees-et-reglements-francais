@@ -8,4 +8,4 @@ Cathédrale de Strasbourg survolée d'alérions ou coiffes alsacienne et lorrain
 
 Sur le revers est portée l'inscription PRAF 1940-1945. L'insigne est suspendu à une bélière ne comportant aucune inscription.
 
-Le modèle réglementaire dudit insigne est déposé à l'administration des Monnaies et médailles.
+Le modèle réglementaire dudit insigne est déposé à l'établissement public La Monnaie de Paris.

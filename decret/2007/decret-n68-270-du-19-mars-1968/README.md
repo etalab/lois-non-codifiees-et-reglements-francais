@@ -2,3 +2,4 @@
 
 - [CHAPITRE II : Dispositions générales relatives au statut particulier des fonctionnaires techniques de l'établissement public La Monnaie de Paris.](chapitre-ii)
 - [CHAPITRE III : Recrutement.](chapitre-iii)
+- [CHAPITRE V : Dispositions transitoires.](chapitre-v)

@@ -4,7 +4,9 @@ La sous-direction des banques et des financements d'intérêt général comprend
 
 Le bureau des affaires bancaires et monétaires
 
-Il suit les activités des établissements de crédit et des entreprises d'investissement (autres que les sociétés de gestion de portefeuille) et leurs organismes professionnels. Il traite les questions relatives à la gestion de leur bilan et aux rapports avec la clientèle. Il participe, en liaison avec la Banque de France et les institutions régies par le livre VI du code monétaire et financier, à la préparation de la réglementation bancaire et financière, à sa mise en oeuvre et au contrôle des établissements. Il participe aux travaux du comité consultatif pour la législation et la réglementation financière (CCLRF). Il représente, le cas échéant, la direction générale au collège de la Commission bancaire.
+Il suit les activités des établissements de crédit et des entreprises d'investissement (autres que les sociétés de gestion de portefeuille) et leurs organismes professionnels. Il traite les questions relatives à la gestion de leur bilan et aux rapports avec la clientèle. Il participe, en liaison avec la Banque de France et les institutions régies par le livre VI du code monétaire et financier, à la préparation de la réglementation bancaire et financière, à sa mise en oeuvre et au contrôle des établissements.
+
+Il participe aux travaux du comité consultatif pour la législation et la réglementation financière (CCLRF). Il représente, le cas échéant, la direction générale au collège de la Commission bancaire.
 
 Il participe au suivi des questions relatives aux moyens de paiement et aux relations entre les établissements de crédit et leurs clientèles. Il participe aux travaux du comité consultatif du secteur financier (CCSF).
 
@@ -12,7 +14,7 @@ Il prépare la réglementation des réseaux régis par les chapitres II à IV du
 
 Il prépare et participe aux négociations européennes et internationales concernant les établissements de crédit et les entreprises d'investissement.
 
-Il assure la gestion du compte d'émission des monnaies métalliques. Il est chargé des relations avec la direction des Monnaies et médailles.
+Il assure la gestion du compte d'émission des monnaies métalliques. Il est chargé des relations avec l'établissement public La Monnaie de Paris.
 
 Il exerce les fonctions de l'Etat actionnaire auprès de la Banque de France et assure le suivi des relations de l'Etat avec la Banque de France.
 

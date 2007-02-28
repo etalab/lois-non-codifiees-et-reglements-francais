@@ -30,7 +30,7 @@ I. - Le ministre de l'économie, des finances et de l'industrie a autorité sur 
 
 - la direction générale de l'Institut national de la statistique et des études économiques ;
 
-- la direction des Monnaies et médailles ;
+- la direction de l'établissement public La Monnaie de Paris ;
 
 - la direction générale des entreprises ;
 

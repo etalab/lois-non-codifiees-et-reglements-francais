@@ -6,7 +6,7 @@ La médaille d'Afrique du Nord est constituée par un module circulaire de 34 mm
 
 La médaille est suspendue à un ruban de couleur sable comportant des chevrons bleu indigo d'une largeur de 3 mm.
 
-Elle est conforme au modèle déposé à l'administration des Monnaies et médailles.
+Elle est conforme au modèle déposé à l'établissement public La Monnaie de Paris.
 
 La barrette est composée d'un ruban de couleur sable avec trois chevrons bleu indigo d'une largeur de 2 mm.
 
