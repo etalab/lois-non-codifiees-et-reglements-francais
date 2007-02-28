@@ -46,4 +46,4 @@ Ces informations doivent être conformes au contenu du dossier du patient.
 
 II. - Par exception au I.1 ci-dessus, si la personne a été soignée sous le couvert de l'anonymat, les informations d'identité sont limitées à l'année de naissance, au sexe et numéro d'hospitalisation.
 
-III. - Par exception au I.2 ci-dessus, pour les traitements de nature itérative constitués chacun d'une série de séances semblables concernant le même malade, il peut être fait un RSS unique pour plusieurs séances réalisées dans le même trimestre civil. Dans ce cas, la date d'entrée portée sur le RSS correspond à la première séance et la date de sortie à la dernière séance de la période considérée.
+III. - Par exception au I.2 ci-dessus, pour les traitements de nature itérative constitués chacun d'une série de séances semblables concernant le même malade, il peut être fait un RSS unique pour plusieurs séances réalisées dans le même mois. Dans ce cas, la date d'entrée portée sur le RSS correspond à la première séance et la date de sortie à la dernière séance du mois considéré.

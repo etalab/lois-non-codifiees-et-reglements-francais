@@ -4,7 +4,7 @@ Peuvent percevoir une indemnité de panier les personnels des administrations de
 
 1° Ministère de l'économie et des finances.
 
-Agents du service intérieur qui exercent les fonctions de veilleur de nuit dans les locaux de l'administration centrale des finances et de la direction des monnaies et médailles.
+Agents du service intérieur qui exercent les fonctions de veilleur de nuit dans les locaux de l'administration centrale des finances et de l'établissement public La Monnaie de Paris.
 
 Veilleurs de nuit de l'institut national de la statistique et des études économiques chargés de la surveillance des bureaux et des ateliers mécanographiques.
 

@@ -1,0 +1,3 @@
+# Article 3
+
+Jusqu'au 1er janvier 2014, les dépendances du domaine public routier de l'Etat situées à l'intérieur du périmètre du quartier de La Défense et nécessaires à la mise en oeuvre des orientations générales d'urbanisme prévue à l'article L. 141-3 du code de l'urbanisme sont apportées à titre gratuit à l'établissement public pour l'aménagement de la région dite de "La Défense", lorsqu'elles font l'objet d'un déclassement, à l'exception de celles qui ont vocation à être utilisées par un service de l'Etat dont la liste et les affectataires sont fixés par un décret en Conseil d'Etat. L'apport est réalisé par l'acte administratif constatant le déclassement.

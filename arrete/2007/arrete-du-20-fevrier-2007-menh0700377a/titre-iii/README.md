@@ -1,0 +1,3 @@
+# TITRE III : FORMATION ORGANISÉE SUITE À UN DÉTACHEMENT.
+
+- [Article 5](article-5.md)

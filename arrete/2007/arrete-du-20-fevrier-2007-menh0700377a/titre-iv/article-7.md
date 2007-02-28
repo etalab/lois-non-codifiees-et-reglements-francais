@@ -1,0 +1,3 @@
+# Article 7
+
+L'arrêté du 10 juillet 1992 modifié fixant la composition de la commission de validation prévue à l'article 6 (1°) du décret n° 91-1195 du 27 novembre 1991 portant dispositions statutaires applicables au corps des médecins de l'éducation nationale et à l'emploi de médecin de l'éducation nationale-conseiller technique, l'arrêté du 17 janvier 1994 modifié relatif à la formation des médecins de l'éducation nationale et l'arrêté du 24 mars 1999 fixant la composition de la commission chargée d'élaborer le contenu pédagogique et les modalités d'organisation de la formation des médecins de l'éducation nationale sont abrogés.

@@ -1,0 +1,5 @@
+# Article 2
+
+Les commissions administratives paritaires compétentes à l'égard des fonctionnaires régis par le décret du 19 mars 1968 susvisé sont instituées par un arrêté conjoint du ministre chargé de l'économie et du ministre chargé de la fonction publique. Elles sont placées auprès du président-directeur général de l'établissement public La Monnaie de Paris. A ce titre, celui-ci, ou son représentant, les préside et assure la convocation de leurs membres.
+
+Par dérogation aux dispositions du premier alinéa de l'article 10 du décret du 28 mai 1982 susvisé, les représentants de l'administration, titulaires et suppléants, au sein de ces commissions administratives paritaires peuvent être choisis parmi les fonctionnaires du ministère de l'économie, des finances et de l'industrie appartenant à un corps classé dans la catégorie A ou assimilé et parmi les personnels de La Monnaie de Paris exerçant des fonctions hiérarchiques équivalentes. Ils sont nommés par arrêté du ministre chargé de l'économie, sur proposition du président-directeur général de l'établissement public s'ils appartiennent à celui-ci.
