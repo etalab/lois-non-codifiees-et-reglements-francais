@@ -444,7 +444,6 @@
 - [Décret n°92-92 du 14 janvier 1992 (MJSK9170149D)](decret-n92-92-du-14-janvier-1992-mjsk9170149d)
 - [Décret n°92-989 du 14 septembre 1992 (SPSS9201562D)](decret-n92-989-du-14-septembre-1992-spss9201562d)
 - [Décret n°92-990 du 14 septembre 1992 (MENB9200046D)](decret-n92-990-du-14-septembre-1992-menb9200046d)
-- [Décret n°92-991 du 14 septembre 1992 (ECOP9200172D)](decret-n92-991-du-14-septembre-1992-ecop9200172d)
 - [Décret n°92-992 du 14 septembre 1992 (BUDF9220536D)](decret-n92-992-du-14-septembre-1992-budf9220536d)
 - [Décret n°92-998 du 14 septembre 1992 (INDB9200616D)](decret-n92-998-du-14-septembre-1992-indb9200616d)
 - [Décret n°91-479 du 14 mai 1991 (JUSG9160022D)](decret-n91-479-du-14-mai-1991-jusg9160022d)
