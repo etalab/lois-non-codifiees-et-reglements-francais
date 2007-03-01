@@ -188,7 +188,7 @@ a) Soit à celle fixée à l'annexe I de l'arrêté du 20 avril 1994 modifié po
 
 b) Soit à celle fixée dans la partie B de la présente annexe (tableau 5) lorsque la ou les substances ne figurent pas à l'annexe I de l'arrêté du 20 avril 1994 modifié ou y figurent sans limites de concentration ;
 
-2. Et sont affectées de la phrase de risque R 59 :
+2. (Paragraphe supprimé)
 
 2.1. Les préparations contenant une ou plusieurs substances classées comme dangereuses pour l'environnement et affectées de la phrase de risque R 59 pour une concentration individuelle supérieure ou égale :
 
@@ -220,71 +220,179 @@ I. - Pour l'environnement aquatique
 
 Les limites de concentration fixées dans les tableaux suivants et exprimées en pourcentage poids/poids déterminent la classification de la préparation en fonction de la concentration individuelle de la ou des substances présentes, dont la classification est aussi indiquée.
 
-Tableau 1
+Tableau 1 a
 
-TOXICITÉ AQUATIQUE AIGUË ET EFFETS NÉFASTES À LONG TERME
+Toxicité aquatique aiguë et effets néfastes à long terme
 
 <table>
 <tbody>
 <tr>
-<td rowspan="2" width="214">
-<p align="center">CLASSIFICATION DE LA SUBSTANCE</p>
+<td rowspan="2" width="179">
+<p align="center">CLASSIFICATION</p>
+<p align="center">de la substance</p>
 </td>
-<td colspan="3" width="466">
+<td colspan="3" width="501">
 <p align="center">CLASSIFICATION DE LA PRÉPARATION</p>
 </td>
 </tr>
 <tr>
-<td width="124">
+<td width="167">
 <p align="center">N, R 50-53</p>
 </td>
-<td width="189">
+<td width="166">
 <p align="center">N, R 51-53</p>
 </td>
-<td width="153">
+<td width="168">
 <p align="center">R 52-53</p>
 </td>
 </tr>
 <tr>
-<td width="214">
+<td width="179">
 <p align="center">N, R 50-53</p>
 </td>
-<td width="124">
+<td width="167">
+<p align="center">Voir le tableau 1b</p>
+</td>
+<td width="166">
+<p align="center">Voir le tableau 1b</p>
+</td>
+<td width="168">
+<p align="center">Voir le tableau 1b</p>
+</td>
+</tr>
+<tr>
+<td width="179">
+<p align="center">N, R 51-53</p>
+</td>
+<td width="167">
+<br/>
+</td>
+<td width="166">
 <p align="center">C<sub>n</sub> ≥ 25 %</p>
 </td>
-<td width="189">
-<p align="center">2,5 % ≤ C<sub>n</sub> &lt; 25 %</p>
+<td width="168">
+<p align="center">2,5 % ≤ C<sub>n</sub> &lt;25 %</p>
 </td>
-<td width="153">
+</tr>
+<tr>
+<td width="179">
+<p align="center">R 52-53</p>
+</td>
+<td width="167">
+<br/>
+</td>
+<td width="166">
+<br/>
+</td>
+<td width="168">
+<p align="center">C<sub>n</sub> ≥ 25 %</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Pour les préparations contenant une substance classée N, R 50-53, il y a lieu d'appliquer les limites de concentration et la classification qui en résulte comme indiqué au tableau 1b.
+
+Tableau 1 b
+
+Toxicité aquatique aiguë et effets néfastes à long terme des substances qui sont très toxiques pour l'environnement aquatique
+
+<table>
+<tbody>
+<tr>
+<td rowspan="2" width="179">
+<p align="center">VALEUR CL<sub>50</sub> ou CE<sub>50</sub>
+</p>
+<p align="center">[ CL(E)<sub>50</sub> ] d'une substance classée N, R 50-53 (mg/l)</p>
+</td>
+<td colspan="3" width="502">
+<p align="center">CLASSIFICATION DE LA PRÉPARATION</p>
+</td>
+</tr>
+<tr>
+<td width="167">
+<p align="center">N, R 50-53</p>
+</td>
+<td width="166">
+<p align="center">N, R 51-53</p>
+</td>
+<td width="169">
+<p align="center">R 52-53</p>
+</td>
+</tr>
+<tr>
+<td width="179">
+<p align="center">0,1 &lt; CL(E)<sub>50</sub> ≤ 1</p>
+</td>
+<td width="167">
+<p align="center">C<sub>n</sub> ≥ 25 %</p>
+</td>
+<td width="166">
+<p align="center">2,5 % ≤ C<sub>n</sub> &lt;25 %</p>
+</td>
+<td width="169">
+<p align="center">0,25 ≤ C<sub>n</sub> &lt;2,5 %</p>
+</td>
+</tr>
+<tr>
+<td width="179">
+<p align="center">0,01 &lt; CL(E)<sub>50</sub> ≤ 0,1</p>
+</td>
+<td width="167">
+<p align="center">C<sub>n</sub> ≥ 2,5 %</p>
+</td>
+<td width="166">
 <p align="center">0,25 % ≤ C<sub>n</sub> &lt; 2,5 %</p>
 </td>
-</tr>
-<tr>
-<td width="214">
-<p align="center">N, R 51-53</p>
-</td>
-<td width="124">
-<br/>
-</td>
-<td width="189">
-<p align="center">C<sub>n</sub> ≥ 25 %</p>
-</td>
-<td width="153">
-<p align="center">2,5 % ≤ C<sub>n</sub> &lt; 25 %</p>
+<td width="169">
+<p align="center">0,025 % ≤ C<sub>n</sub> &lt; 0,25 %</p>
 </td>
 </tr>
 <tr>
-<td width="214">
-<p align="center">R 52-53</p>
+<td width="179">
+<p align="center">0,001 &lt; CL(E)<sub>50</sub> ≤ 0,01</p>
 </td>
-<td width="124">
-<br/>
+<td width="167">
+<p align="center">C<sub>n</sub> ≥ 0,25 %</p>
 </td>
-<td width="189">
-<br/>
+<td width="166">
+<p align="center">0,025 % ≤ C<sub>n</sub> &lt; 0,25 %</p>
 </td>
-<td width="153">
-<p align="center">C<sub>n</sub> ≥ 25 %</p>
+<td width="169">
+<p align="center">0,002 5 % ≤ C<sub>n</sub> &lt; 0,025 %</p>
+</td>
+</tr>
+<tr>
+<td width="179">
+<p align="center">0,000 1 &lt; CL(E)<sub>50</sub> ≤ 0,001</p>
+</td>
+<td width="167">
+<p align="center">C<sub>n</sub> ≥ 0,025 %</p>
+</td>
+<td width="166">
+<p align="center">0,002 5 % ≤ C<sub>n</sub> &lt; 0,025 %</p>
+</td>
+<td width="169">
+<p align="center">0,000 25 % ≤ C<sub>n</sub> &lt; 0,002 5 %</p>
+</td>
+</tr>
+<tr>
+<td width="179">
+<p align="center">0,000 01 &lt; CL(E)<sub>50</sub> ≤ 0,000 1</p>
+</td>
+<td width="167">
+<p align="center">C<sub>n</sub> ≥ 0,002 5 %</p>
+</td>
+<td width="166">
+<p align="center">0,000 25 % ≤ C<sub>n</sub> &lt; 0,0025 %</p>
+</td>
+<td width="169">
+<p align="center">0,000 025 % ≤ C<sub>n</sub> &lt; 0,000 25 %</p>
+</td>
+</tr>
+<tr>
+<td colspan="4" valign="top" width="680">
+<p>Pour les préparations contenant des substances de valeur CL<sub>50</sub> ou CE<sub>50</sub> inférieure à 0,000 01 mg/l, les limites de concentration correspondantes sont calculées en conséquence (à des intervalles de facteur 10). </p>
 </td>
 </tr>
 </tbody>
@@ -292,34 +400,61 @@ TOXICITÉ AQUATIQUE AIGUË ET EFFETS NÉFASTES À LONG TERME
 
 Tableau 2
 
-TOXICITÉ AQUATIQUE AIGUË
+Toxicité aquatique aiguë
 
 <table>
 <tbody>
 <tr>
-<td width="341">
-<p align="center">CLASSIFICATION</p>
-<p align="center">de la substance</p>
-</td>
 <td width="340">
-<p align="center">CLASSIFICATION</p>
-<p align="center">de la préparation N, R 50</p>
+<p align="center">Valeur CL<sub>50</sub> ou CE<sub>50</sub> [ CL(E)<sub>50</sub> ] d'une substance classée N, R 50 ou N, R 50-53 (mg/l)</p>
+</td>
+<td width="341">
+<p align="center">Classification de la préparation N, R 50</p>
 </td>
 </tr>
 <tr>
-<td width="341">
-<p align="center">N, R 50</p>
-</td>
 <td width="340">
+<p align="center">0,1 &lt; CL(E)<sub>50</sub> ≤ 1</p>
+</td>
+<td width="341">
 <p align="center">C<sub>n</sub> ≥ 25 %</p>
 </td>
 </tr>
 <tr>
-<td width="341">
-<p align="center">N, R 50-53</p>
-</td>
 <td width="340">
-<p align="center">C<sub>n</sub> ≥ 25 %</p>
+<p align="center">0,01 &lt; CL(E)<sub>50</sub> ≤ 0,1</p>
+</td>
+<td width="341">
+<p align="center">C<sub>n</sub> ≥ 2,5 %</p>
+</td>
+</tr>
+<tr>
+<td width="340">
+<p align="center">0,001 &lt; CL(E)<sub>50</sub> ≤ 0,01</p>
+</td>
+<td width="341">
+<p align="center">C<sub>n</sub> ≥ 0,25 %</p>
+</td>
+</tr>
+<tr>
+<td width="340">
+<p align="center">0,000 1 &lt; CL(E)<sub>50</sub> ≤ 0,001</p>
+</td>
+<td width="341">
+<p align="center">C<sub>n</sub> ≥ 0,025 %</p>
+</td>
+</tr>
+<tr>
+<td width="340">
+<p align="center">0,000 01 &lt; CL(E)<sub>50</sub> ≤ 0,0001</p>
+</td>
+<td width="341">
+<p align="center">C<sub>n</sub> ≥ 0,002 5 %</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top" width="680">
+<p>Pour les préparations contenant des substances de valeur CL<sub>50</sub> ou CE<sub>50</sub> inférieure à 0,000 01 mg/l, les limites de concentration correspondantes sont calculées en conséquence (à des intervalles de facteur 10).</p>
 </td>
 </tr>
 </tbody>
@@ -409,7 +544,7 @@ Les limites de concentration fixées dans les tableaux suivants et exprimées en
 
 Tableau 5
 
-DANGEREUX POUR LA COUCHE D'OZONE
+Dangereux pour la couche d'ozone
 
 <table>
 <tbody>
@@ -419,8 +554,8 @@ DANGEREUX POUR LA COUCHE D'OZONE
 <p align="center">de la substance</p>
 </td>
 <td width="371">
-<p align="center">CLASSIFICATION</p>
-<p align="center">de la préparation N, R 59</p>
+<p align="center">CLASSIFICATION DE LA</p>
+<p align="center">préparation N, R 59</p>
 </td>
 </tr>
 <tr>
@@ -428,28 +563,6 @@ DANGEREUX POUR LA COUCHE D'OZONE
 <p align="center">N et R 59</p>
 </td>
 <td width="371">
-<p align="center">C<sub>n</sub> ≥ 0,1 %</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table>
-<tbody>
-<tr>
-<td width="320">
-<p align="center">CLASSIFICATION</p>
-<p align="center">de la substance</p>
-</td>
-<td width="360">
-<p align="center">CLASSIFICATION</p>
-<p align="center">de la préparation R 59</p>
-</td>
-</tr>
-<tr>
-<td width="320">
-<p align="center">R 59</p>
-</td>
-<td width="360">
 <p align="center">C<sub>n</sub> ≥ 0,1 %</p>
 </td>
 </tr>

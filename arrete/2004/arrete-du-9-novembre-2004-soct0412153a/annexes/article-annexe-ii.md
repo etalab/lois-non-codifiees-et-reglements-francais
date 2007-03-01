@@ -88,7 +88,9 @@ PT est le pourcentage en poids ou en volume de chaque substance toxique contenue
 
 LT est la limite toxique respective fixée pour chaque substance très toxique ou toxique, exprimée en pourcentage en poids ou en volume.
 
-2.2. Sur la base de leurs effets irréversibles non létaux après une seule exposition et affectées du symbole "T", de l'indication de danger "toxique" et des phrases de risque R. 39/voie d'exposition : Les préparations contenant une ou plusieurs substances dangereuses classées comme très toxiques ou toxiques qui produisent de tels effets à une concentration individuelle égale ou supérieure :
+2.2. Sur la base de leurs effets irréversibles non létaux après une seule exposition et affectées du symbole "T", de l'indication de danger "toxique" et des phrases de risque R. 39/voie d'exposition :
+
+Les préparations contenant une ou plusieurs substances dangereuses classées comme très toxiques ou toxiques qui produisent de tels effets à une concentration individuelle égale ou supérieure :
 
 a) Soit à celle fixée à l'annexe I de l'arrêté du 20 avril 1994 modifié pour la ou les substances considérées ;
 
@@ -166,7 +168,9 @@ LC, R 35 est la limite de corrosion R 35 fixée pour chaque substance corrosive 
 
 4.2. Et affectées du symbole "C", de l'indication de danger "corrosif" et de la phrase de risque R 34 :
 
-4.2.1. Les préparations contenant une ou plusieurs substances classées comme corrosives et affectées de la phrase de risque R 35 ou R 34 à une concentration individuelle égale ou supérieure : a) Soit à celle fixée à l'annexe I de l'arrêté du 20 avril 1994 modifié pour la ou les substances considérées ;
+4.2.1. Les préparations contenant une ou plusieurs substances classées comme corrosives et affectées de la phrase de risque R 35 ou R 34 à une concentration individuelle égale ou supérieure :
+
+a) Soit à celle fixée à l'annexe I de l'arrêté du 20 avril 1994 modifié pour la ou les substances considérées ;
 
 b) Soit à celle fixée au point 4 de la partie B de la présente annexe (tableau IV et IV A) lorsque la ou les substances ne figurent pas à l'annexe I de l'arrêté du 20 avril 1994 modifié ou qu'elles y figurent sans limites de concentration ;
 
@@ -882,7 +886,7 @@ Tableau IV
 </tr>
 <tr>
 <td colspan="5" valign="top" width="680">
-<p>(*) Selon l'annexe VI de l'arrêté du 20 avril 1994 modifié, les substances corrosives affectées des phrases de risque R 35 et R 34 doivent être considérées comme également affectées de la phrase de risque R 41. En conséquence, si la préparation contient des substances corrosives avec R 35 ou R 34 à des concentrations inférieures aux limites de concentration pour une classification de la préparation comme corrosive, de telles substances peuvent contribuer à la classification de la préparation comme irritante avec R 41 ou irritante avec R 36. Nota. - La simple application de la méthode conventionnelle aux préparations contenant des substances classées comme corrosives ou irritantes peut entraîner une sous-classification ou une sur-classification du danger si d'autres facteurs pertinents (par exemple le pH de la préparation) ne sont pas pris en considération. Pour la classification de la corrosivité, il y a donc lieu de tenir compte des indications données au point 3.2.5 de l'annexe VI de l'arrêté du 20 avril 1994 modifié et à l'article 17 du présent arrêté. </p>
+<p>(*) Selon l'annexe VI de l'arrêté du 20 avril 1994 modifié, les substances corrosives affectées des phrases de risque R 35 et R 34 doivent être considérées comme également affectées de la phrase de risque R 41. En conséquence, si la préparation contient des substances corrosives avec R 35 ou R 34 à des concentrations inférieures aux limites de concentration pour une classification de la préparation comme corrosive, de telles substances peuvent contribuer à la classification de la préparation comme irritante avec R 41 ou irritante avec R 36. <br/>Nota. - La simple application de la méthode conventionnelle aux préparations contenant des substances classées comme corrosives ou irritantes peut entraîner une sous-classification ou une sur-classification du danger si d'autres facteurs pertinents (par exemple le pH de la préparation) ne sont pas pris en considération. Pour la classification de la corrosivité, il y a donc lieu de tenir compte des indications données au point 3.2.5 de l'annexe VI de l'arrêté du 20 avril 1994 modifié et à l'article 17 du présent arrêté. </p>
 </td>
 </tr>
 </tbody>
@@ -1139,108 +1143,96 @@ Tableau VI
 <table>
 <tbody>
 <tr>
-<td rowspan="2" width="241">
-<p align="center">CLASSIFICATION</p>
-<p align="center">de la substance</p>
+<td rowspan="2" width="254">
+<p align="center">CLASSIFICATION DE LA SUBSTANCE</p>
 </td>
-<td colspan="2" width="440">
+<td colspan="2" width="427">
 <p align="center">CLASSIFICATION DE LA PRÉPARATION</p>
 </td>
 </tr>
 <tr>
-<td width="220">
+<td width="213">
 <p align="center">Catégories 1 et 2</p>
 </td>
-<td width="220">
+<td width="214">
 <p align="center">Catégorie 3</p>
 </td>
 </tr>
 <tr>
-<td width="241">
+<td valign="top" width="254">
 <p>Substances cancérogènes de catégorie 1 ou 2 et R 45 ou R 49.</p>
 </td>
-<td width="220">
-<p align="center">Concentration ≥ 0,1 % cancérogène R 45, R 49 obligatoire selon le cas</p>
+<td valign="top" width="213">
+<p>Concentration ≥ 0,1 % cancérogène R 45, R 49 obligatoire selon le cas.</p>
 </td>
-<td width="220">
-<br/>
-</td>
+<td valign="top" width="214"/>
 </tr>
 <tr>
-<td width="241">
+<td valign="top" width="254">
 <p>Substances cancérogènes de catégorie 3 et R 40.</p>
 </td>
-<td width="220">
-<br/>
-</td>
-<td width="220">
-<p align="center">Concentration ≥ 1 % cancérogène R 40 obligatoire</p>
+<td valign="top" width="213"/>
+<td valign="top" width="214">
+<p>Concentration ≥ 1 % cancérogène R 40 obligatoire [sauf si R 45 déjà attribué (*)].</p>
 </td>
 </tr>
 <tr>
-<td width="241">
+<td valign="top" width="254">
 <p>Substances mutagènes de catégorie 1 ou 2 et R 46.</p>
 </td>
-<td width="220">
-<p align="center">Concentration ≥ 0,1 % mutagène R 46 obligatoire.</p>
+<td valign="top" width="213">
+<p>Concentration ≥ 0,1 % mutagène R 46 obligatoire.</p>
 </td>
-<td width="220">
-<br/>
-</td>
+<td valign="top" width="214"/>
 </tr>
 <tr>
-<td width="241">
+<td valign="top" width="254">
 <p>Substances mutagènes de catégorie 3 et R 68.</p>
 </td>
-<td width="220">
-<br/>
-</td>
-<td width="220">
-<p align="center">Concentration ≥ 1 % mutagène R 68 obligatoire</p>
+<td valign="top" width="213"/>
+<td valign="top" width="214">
+<p>Concentration ≥ 1 % mutagène R 68 obligatoire (sauf si R 46 déjà attribué).</p>
 </td>
 </tr>
 <tr>
-<td width="241">
-<p>Substances toxiques pour la reproduction de catégorie 1 ou 2 avec R 60 (fertilité).</p>
+<td valign="top" width="254">
+<p>Substances "toxiques pour la reproduction" de catégorie 1 ou 2 avec R 60 (fertilité).</p>
 </td>
-<td width="220">
-<p align="center">Concentration ≥ 0,5 % toxique pour la reproduction (fertilité) R 60 obligatoire</p>
+<td valign="top" width="213">
+<p>Concentration ≥ 0,5 % toxique pour la reproduction (fertilité) R 60 obligatoire.</p>
 </td>
-<td width="220">
-<br/>
+<td valign="top" width="214"/>
+</tr>
+<tr>
+<td valign="top" width="254">
+<p>Substances "toxiques pour la reproduction" de catégorie 3 avec R 62 (fertilité).</p>
+</td>
+<td valign="top" width="213"/>
+<td valign="top" width="214">
+<p>Concentration ≥ 5 % toxique pour la reproduction (fertilité) R 62 obligatoire (sauf si R 60 déjà attribué).</p>
 </td>
 </tr>
 <tr>
-<td width="241">
-<p>Substances toxiques pour la reproduction de catégorie 3 avec R 62 (fertilité).</p>
+<td valign="top" width="254">
+<p>Substances "toxiques pour la reproduction" de catégorie 1 ou 2 avec R 61 (développement).</p>
 </td>
-<td width="220">
-<br/>
+<td valign="top" width="213">
+<p>Concentration ≥ 0,5 % toxique pour la reproduction (développement) R 61 obligatoire.</p>
 </td>
-<td width="220">
-<p align="center">Concentration ≥ 5 % toxique pour la reproduction (fertilité) R 62 obligatoire</p>
+<td valign="top" width="214"/>
+</tr>
+<tr>
+<td valign="top" width="254">
+<p>Substances "toxiques pour la reproduction" de catégorie 3 avec R 63 (développement).</p>
+</td>
+<td valign="top" width="213"/>
+<td valign="top" width="214">
+<p>Concentration ≥ 5 % toxique pour la reproduction (développement) R 63 obligatoire (sauf si R 61 déjà attribué).</p>
 </td>
 </tr>
 <tr>
-<td width="241">
-<p>Substances toxiques pour la reproduction de catégorie 1 ou 2 avec R 61 (développement).</p>
-</td>
-<td width="220">
-<p align="center">Concentration ≥ 0,5 % toxique pour la reproduction (développement) R 61 obligatoire</p>
-</td>
-<td width="220">
-<br/>
-</td>
-</tr>
-<tr>
-<td width="241">
-<p>Substances toxiques pour la reproduction de catégorie 3 avec R 63 (développement).</p>
-</td>
-<td width="220">
-<br/>
-</td>
-<td width="220">
-<p align="center">Concentration ≥ 5 % toxique pour la reproduction (développement) R 63 obligatoire</p>
+<td colspan="3" valign="top" width="680">
+<p>(*) Dans les cas où la préparation est affectée des phrases R 49 et R 40, il convient de garder ces deux phrases de risque, car R 40 ne fait pas de distinction entre les voies d'exposition, tandis que R 49 est uniquement attribué pour l'exposition par inhalation.</p>
 </td>
 </tr>
 </tbody>
@@ -1271,108 +1263,96 @@ Tableau VI A
 <table>
 <tbody>
 <tr>
-<td rowspan="2" width="241">
-<p align="center">CLASSIFICATION</p>
-<p align="center">de la substance (gaz)</p>
+<td rowspan="2" width="253">
+<p align="center">CLASSIFICATION DE LA SUBSTANCE</p>
 </td>
-<td colspan="2" width="440">
-<p align="center">CLASSIFICATION DE LA PRÉPARATION GAZEUSE</p>
+<td colspan="2" width="427">
+<p align="center">CLASSIFICATION DE LA PRÉPARATION</p>
 </td>
 </tr>
 <tr>
-<td width="220">
+<td width="213">
 <p align="center">Catégories 1 et 2</p>
 </td>
-<td width="220">
+<td width="215">
 <p align="center">Catégorie 3</p>
 </td>
 </tr>
 <tr>
-<td width="241">
-<p>Substances cancérogènes de catégorie 1 ou 2 affectées de R 45 ou R 49. </p>
+<td valign="top" width="253">
+<p>Substances cancérogènes de catégorie 1 ou 2 et R 45 ou R 49.</p>
 </td>
-<td width="220">
-<p align="center">Concentration ≥ 0,1 % cancérogène R 45, R 49 obligatoire selon le cas</p>
+<td valign="top" width="213">
+<p>Concentration ≥ 0,1 % cancérogène R 45, R 49 obligatoire selon le cas.</p>
 </td>
-<td width="220">
-<br/>
+<td valign="top" width="215"/>
+</tr>
+<tr>
+<td valign="top" width="253">
+<p>Substances cancérogènes de catégorie 3 et R 40.</p>
+</td>
+<td valign="top" width="213"/>
+<td valign="top" width="215">
+<p>Concentration ≥ 1 % cancérogène R 40 obligatoire [sauf si R 45 déjà attribué (*)].</p>
 </td>
 </tr>
 <tr>
-<td width="241">
-<p>Substances cancérogènes de catégorie 3 et R 40. </p>
+<td valign="top" width="253">
+<p>Substances mutagènes de catégorie 1 ou 2 et R 46.</p>
 </td>
-<td width="220">
-<br/>
+<td valign="top" width="213">
+<p>Concentration ≥ 0,1 % mutagène R 46 obligatoire.</p>
 </td>
-<td width="220">
-<p align="center">Concentration ≥ 1 % cancérogène R 40 obligatoire</p>
+<td valign="top" width="215"/>
+</tr>
+<tr>
+<td valign="top" width="253">
+<p>Substances mutagènes de catégorie 3 et R 68.</p>
+</td>
+<td valign="top" width="213"/>
+<td valign="top" width="215">
+<p>Concentration ≥ 1 % mutagène R 68 obligatoire (sauf si R 46 déjà attribué).</p>
 </td>
 </tr>
 <tr>
-<td width="241">
-<p>Substances mutagènes de catégorie 1 ou 2 et R 46. </p>
+<td valign="top" width="253">
+<p>Substances "toxiques pour la reproduction" de catégorie 1 ou 2 avec R 60 (fertilité.)</p>
 </td>
-<td width="220">
-<p align="center">Concentration ≥ 0,1 % mutagène R 46 obligatoire</p>
+<td valign="top" width="213">
+<p>concentration ≥ 0,2 % toxique pour la reproduction (fertilité) R 60 obligatoire.</p>
 </td>
-<td width="220">
-<br/>
+<td valign="top" width="215"/>
+</tr>
+<tr>
+<td valign="top" width="253">
+<p>Substances "toxiques pour la reproduction" de catégorie 3 avec R 62 (fertilité).</p>
+</td>
+<td valign="top" width="213"/>
+<td valign="top" width="215">
+<p>Concentration ≥ 1 % toxique pour la reproduction (fertilité) R 62 obligatoire (sauf si R 60 déjà attribué).</p>
 </td>
 </tr>
 <tr>
-<td width="241">
-<p>Substances mutagènes de catégorie 3 et R 68. </p>
+<td valign="top" width="253">
+<p>Substances "toxiques pour la reproduction" de catégorie 1 ou 2 avec R 61 (développement).</p>
 </td>
-<td width="220">
-<br/>
+<td valign="top" width="213">
+<p>Concentration ≥ 0,2 % toxique pour la reproduction (développement) R 61 obligatoire.</p>
 </td>
-<td width="220">
-<p align="center">Concentration ≥ 1 % mutagène R 68 obligatoire</p>
+<td valign="top" width="215"/>
+</tr>
+<tr>
+<td valign="top" width="253">
+<p>Substances "toxiques pour la reproduction" de catégorie 3 avec R 63 (développement).</p>
+</td>
+<td valign="top" width="213"/>
+<td valign="top" width="215">
+<p>Concentration ≥ 1 % toxique pour la reproduction (développement) R 63 obligatoire (sauf si R 61 déjà attribué).</p>
 </td>
 </tr>
 <tr>
-<td width="241">
-<p>Substances toxiques pour la reproduction de catégorie 1 ou 2 et R 60 (fertilité). </p>
-</td>
-<td width="220">
-<p align="center">Concentration ≥ 0,2 % toxique pour la reproduction (fertilité) R 60 obligatoire</p>
-</td>
-<td width="220">
-<br/>
-</td>
-</tr>
-<tr>
-<td width="241">
-<p>Substances toxiques pour la reproduction de catégorie 3 avec R 62 (fertilité). </p>
-</td>
-<td width="220">
-<br/>
-</td>
-<td width="220">
-<p align="center">concentration ≥ 1 % toxique pour la reproduction (fertilité) R 62 obligatoire</p>
-</td>
-</tr>
-<tr>
-<td width="241">
-<p>Substances toxiques pour la reproduction de catégorie 1 ou 2 avec R 61 (développement). </p>
-</td>
-<td width="220">
-<p align="center">Concentration ≥ 0,2 % toxique pour la reproduction (développement) R 61 obligatoire</p>
-</td>
-<td width="220">
-<br/>
-</td>
-</tr>
-<tr>
-<td width="241">
-<p>Substances toxiques pour la reproduction de catégorie 3 avec R 63 (développement). </p>
-</td>
-<td width="220">
-<br/>
-</td>
-<td width="220">
-<p align="center">Concentration ≥ 1 % toxique pour la reproduction (développement) R 63 obligatoire</p>
+<td colspan="3" valign="top" width="680">
+<p>(*) Dans les cas où la préparation est affectée des phrases R 49 et R 40, il convient de garder ces deux phrases de risque, car R 40 ne fait pas de distinction entre les voies d'exposition, tandis que R 49 est uniquement attribué pour l'exposition par inhalation.</p>
 </td>
 </tr>
 </tbody>
