@@ -4,4 +4,10 @@ Un institut universitaire de formation des maîtres est créé dans les universi
 
 Aix-Marseille-I ;
 
-Cergy-Pontoise.
+Cergy-Pontoise ;
+
+Grenoble-I ;
+
+Limoges ;
+
+Paris-XII.
