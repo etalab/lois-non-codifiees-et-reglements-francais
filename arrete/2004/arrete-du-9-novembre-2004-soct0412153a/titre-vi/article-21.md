@@ -1,6 +1,6 @@
 # Article 21
 
-Pour les préparations de composition connue, à l'exception de celles visées par l'article R. 253-1 du code rural, classées selon la méthode mentionnée à l'article 19, point b, une nouvelle évaluation du danger pour l'environnement par la méthode visée à l'article 19, point a, ou par celle visée à l'article 19, point b, est effectuée lorsque :
+Pour les préparations de composition connue, à l'exception des produits phytopharmaceutiques définis à l'article L. 253-1 du code rural, classées selon la méthode mentionnée à l'article 19, point b, une nouvelle évaluation du danger pour l'environnement par la méthode visée à l'article 19, point a, ou par celle visée à l'article 19, point b, est effectuée lorsque :
 
 - le fabricant modifie la composition en remplaçant ou en ajoutant un ou plusieurs composants, qu'il s'agisse ou non de composants dangereux ;
 

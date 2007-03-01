@@ -1,6 +1,6 @@
 # Article 37
 
-En outre, à l'exception des produits antiparasitaires à usage agricole visés à l'article L. 253-1 du code rural :
+En outre, à l'exception des produits phytopharmaceutiques définis à l'article L. 253-1 du code rural :
 
 a) Sur les emballages qui sont soit trop petits, soit mal adaptés à un étiquetage conforme aux articles 29 et 30 du présent arrêté, l'étiquetage imposé par les articles 24 à 28 dudit arrêté peut être effectué d'une autre façon appropriée ;
 

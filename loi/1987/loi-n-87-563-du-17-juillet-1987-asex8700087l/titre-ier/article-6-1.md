@@ -1,0 +1,3 @@
+# Article 6-1
+
+L'âge prévu au premier alinéa de l'article 6 est abaissé, pour les assurés qui ont commencé leur activité avant un âge et dans des conditions déterminés par décret et ont accompli une durée totale d'assurance et de périodes reconnues équivalentes dans le régime d'assurance vieillesse de base de Saint-Pierre-et-Miquelon et, le cas échéant, dans un ou plusieurs régimes obligatoires au moins égale à une limite définie par décret, tout ou partie de cette durée totale ayant donné lieu à cotisations à la charge de l'assuré. Un décret précise les modalités d'application du présent article.

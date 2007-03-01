@@ -1,5 +1,3 @@
 # Article 11-1
 
-Les dispositions des articles L. 541-1 à L. 541-3 du code de la sécurité sociale relatifs à l'allocation d'éducation spéciale sont applicables à toute personne qui assume la charge d'un enfant handicapé.
-
-Toutefois, l'allocation en faveur des personnes handicapées continue à être versée aux enfants auxquels elle a été attribuée avant la date d'entrée en vigueur de la loi n° 88-1264 du 30 décembre 1988 relative à la protection sociale et portant dispositions diverses relatives à la collectivité territoriale de Saint-Pierre-et-Miquelon, sans pouvoir se cumuler avec l'allocation d'éducation spéciale.
+Le versement des prestations familiales prévues à l'article 11 est subordonné à la justification préalable du paiement par les exploitants agricoles des cotisations prévues à l'article L. 731-10 du code rural, et par les employeurs et les travailleurs indépendants des cotisations prévues au 2° de l'article L. 241-6 et à l'article L. 242-11 du code de la sécurité sociale.

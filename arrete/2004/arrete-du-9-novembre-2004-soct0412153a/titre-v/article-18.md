@@ -1,6 +1,6 @@
 # Article 18
 
-Pour les préparations de composition connue, à l'exception de celles visées par l'article R. 253-1 du code rural, classées selon la méthode mentionnée à l'article 15, point b, une nouvelle évaluation du danger pour la santé par les méthodes décrites à l'article 15, point a, ou point b, est effectuée lorsque :
+Pour les préparations de composition connue, à l'exception des produits phytopharmaceutiques définis à l'article L. 253-1 du code rural, classées selon la méthode mentionnée à l'article 15, point b, une nouvelle évaluation du danger pour la santé par les méthodes décrites à l'article 15, point a, ou point b, est effectuée lorsque :
 
 - le fabricant modifie leur composition en remplaçant ou en ajoutant un ou plusieurs composants, qu'il s'agisse ou non de composants dangereux ;
 
