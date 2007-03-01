@@ -21,5 +21,3 @@ Trésorier principal du Trésor public : un échelon ;
 Receveur-percepteur du Trésor public : deux échelons ;
 
 Inspecteur du Trésor public : douze échelons :
-
-Inspecteur stagiaire du Trésor public.

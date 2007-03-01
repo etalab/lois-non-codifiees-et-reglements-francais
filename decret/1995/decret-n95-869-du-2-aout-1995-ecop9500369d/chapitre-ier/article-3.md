@@ -1,11 +1,13 @@
 # Article 3
 
-Les personnels de la catégorie A du Trésor public exercent leurs fonctions dans des postes comptables dont le ressort est fixé par :
+Les personnels de la catégorie A du Trésor public exercent leurs fonctions dans les services déconcentrés du Trésor, à l'administration centrale du ministère de l'économie et des finances, dans les services à compétence nationale rattachés à la direction générale de la comptabilité publique, ainsi que dans les services de contrôle budgétaire et comptable ministériels.
 
-- décret contresigné par le ministre chargé du budget en ce qui concerne les trésoreries générales et les recettes des finances ;
+Les services déconcentrés du Trésor sont implantés en métropole, dans les départements d'outre-mer, dans les collectivités d'outre-mer et la Nouvelle-Calédonie, ainsi qu'à l'étranger.
 
-- arrêté du ministre chargé du budget en ce qui concerne les autres postes comptables.
+Le ressort des postes comptables implantés dans ces services est fixé par :
 
-Ces postes comptables peuvent, selon leur importance, être organisés en départements, divisions et services par décision du directeur de la comptabilité publique.
+1° Décret pris sur le rapport du ministre chargé du budget en ce qui concerne les trésoreries générales et les recettes des finances ;
 
-Le comité technique paritaire central des services déconcentrés du Trésor et, le cas échéant, les comités techniques paritaires locaux connaissent de toute question dont ils sont saisis relativement à l'organisation de ces postes comptables.
+2° Arrêté du ministre chargé du budget en ce qui concerne les autres postes comptables.
+
+L'organisation des postes comptables est fixée par décision du directeur général de la comptabilité publique.

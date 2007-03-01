@@ -2,7 +2,7 @@
 
 La nomination n'est parfaite et définitive qu'après l'installation de l'intéressé dans sa fonction dans les conditions prévues à l'article 32 ci-dessous.
 
-Sous réserve des dispositions des articles 16, 18, 31, 39, 44 et 45 du présent décret, l'ancienneté dans le grade, la classe et l'échelon a pour point de départ la date d'effet de la nomination s'il n'en résulte aucun changement d'emploi ou si l'installation a lieu à la date fixée dans les conditions prévues aux deux premiers alinéas de l'article 32 ci-dessous.
+Sous réserve des dispositions des articles 14, 16, 31, 39 et 45 du présent décret, l'ancienneté dans le grade, la classe et l'échelon a pour point de départ la date d'effet de la nomination s'il n'en résulte aucun changement d'emploi ou si l'installation a lieu à la date fixée dans les conditions prévues aux deux premiers alinéas de l'article 32 ci-dessous.
 
 L'ancienneté ne part que du jour de l'installation dans la fonction lorsque celle-ci est différée à la demande du fonctionnaire.
 

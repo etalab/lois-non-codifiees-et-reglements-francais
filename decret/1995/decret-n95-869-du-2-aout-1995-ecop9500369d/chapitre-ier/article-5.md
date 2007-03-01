@@ -1,99 +1,41 @@
 # Article 5
 
-Les personnels de la catégorie A du Trésor public exercent les fonctions correspondant à leur grade, telles que prévues ci-après :
+Les personnels régis par le présent décret exercent des fonctions comptables ou non comptables dans les conditions définies ci-après :
 
-GRADE : Inspecteur du Trésor public.
+1° La fonction comptable de chef de poste s'exerce :
 
-FONCTIONS :
+a) S'agissant des inspecteurs du Trésor public : dans une perception ou, le cas échéant, par nécessité de service, dans plusieurs perceptions simultanément ;
 
-Chef de poste dans les perceptions (1).
+b) S'agissant des receveurs-percepteurs du Trésor public : dans une recette-perception ou, le cas échéant, par nécessité de service, dans une recette-perception et une ou plusieurs perceptions simultanément ;
 
-Chef de service dans les trésoreries générales.
+c) S'agissant des trésoriers principaux du Trésor public et des trésoriers principaux du Trésor public de 1re catégorie : dans une trésorerie principale ou, le cas échéant, par nécessité de service, dans une trésorerie principale et une ou plusieurs perceptions simultanément ;
 
-Adjoint dans les recettes des finances.
+d) S'agissant des receveurs des finances : dans une recette des finances.
 
-Adjoint dans les trésoreries principales.
+2° Les fonctions non comptables s'exercent à tous les niveaux de grade, dans l'une des structures mentionnées à l'article 3.
 
-Adjoint dans les recettes-perceptions.
+Les inspecteurs du Trésor public peuvent se voir confier des missions d'encadrement, d'expertise ou toute autre fonction de responsabilité. A ce titre, ils peuvent notamment assurer la direction et l'animation d'une unité fonctionnelle.
 
-Chargé de mission dans les trésoreries générales.
+Les inspecteurs du Trésor public peuvent également être chargés des fonctions d'huissier. Ces fonctions s'exercent dans les conditions prévues par le décret n° 2007-260 du 27 février 2007 relatif à l'exercice des poursuites par les agents du Trésor public pour le recouvrement des créances publiques.
 
-GRADE : Receveur-percepteur du Trésor public.
+Les receveurs-percepteurs du Trésor public, les trésoriers principaux du Trésor public et les trésoriers principaux du Trésor public de 1re catégorie assurent des fonctions d'expertise approfondie. Ils peuvent également assurer la direction, l'animation et la coordination d'une ou plusieurs unités fonctionnelles.
 
-FONCTIONS :
+Les trésoriers principaux du Trésor public et les trésoriers principaux du Trésor public de 1re catégorie se voient confier les missions comportant les enjeux techniques et financiers les plus élevés.
 
-Chef de poste dans les recettes-perceptions (2).
+Les inspecteurs principaux du Trésor public sont chargés des audits des postes et unités fonctionnelles du Trésor public et des organismes réglementairement soumis à son contrôle.
 
-Chef de division dans les trésoreries générales.
+Ils peuvent également exercer les fonctions de fondé de pouvoir du trésorier-payeur général dont ils relèvent, ou accomplir tous travaux, enquêtes ou expertises présentant des difficultés spéciales.
 
-Chargé de mission spéciale dans les trésoreries générales.
+Les directeurs départementaux du Trésor public assurent des missions d'encadrement supérieur. A ce titre, ils peuvent exercer les fonctions de fondé de pouvoir du trésorier-payeur général.
 
-Chef de division dans les recettes des finances de 1re catégorie.
+Ils peuvent également se voir confier toute activité d'audit et d'expertise nécessaire à la mise en oeuvre des missions confiées au Trésor public, à l'évaluation ainsi qu'à l'amélioration du fonctionnement des services.
 
-Adjoint dans les recettes des finances de 1re catégorie.
+Les receveurs des finances et les receveurs des finances de 1re catégorie assurent l'expertise, le pilotage stratégique et l'animation des missions budgétaires, comptables et financières incombant au Trésor public.
 
-Adjoint au chef du département informatique.
+Ils peuvent également :
 
-GRADE : Inspecteur principal du Trésor public.
+a) Diriger un service, un bureau, une mission, un pôle ou toute autre structure à compétence nationale ;
 
-FONCTIONS :
+b) Assister le trésorier-payeur général en qualité de fondé de pouvoir dans les trésoreries générales ;
 
-Fondé de pouvoir du trésorier-payeur général.
-
-Chef de département.
-
-Chef de centre de formation professionnelle et universitaire (3).
-
-Chargé des vérifications.
-
-Chargé de mission spéciale dans les trésoreries générales.
-
-GRADE : Directeur départemental du Trésor public.
-
-FONCTIONS :
-
-Fondé de pouvoir du trésorier-payeur général.
-
-Chef de département.
-
-Chargé des vérifications.
-
-Chargé de mission spéciale dans les trésoreries générales.
-
-GRADE : Trésorier principal du Trésor public.
-
-FONCTIONS :
-
-Chef de poste dans les trésoreries principales (4).
-
-GRADE : Trésorier principal du Trésor public de 1re catégorie.
-
-FONCTIONS :
-
-Chargé de mission spéciale dans les trésoreries générales.
-
-GRADE : Receveur des finances.
-
-FONCTIONS :
-
-Chef de poste dans les recettes des finances de 2e catégorie.
-
-Chargé de mission spéciale dans les trésoreries générales.
-
-GRADE : Receveur des finances de 1re catégorie.
-
-FONCTIONS :
-
-Fondé de pouvoir du trésorier-payeur général.
-
-Chargé de mission auprès du trésorier-payeur général.
-
-(1) Cette fonction peut être exercée simultanément dans plusieurs perceptions.
-
-(2) Cette fonction peut être exercée simultanément dans une recette-perception et une ou plusieurs perceptions.
-
-(3) Cette fonction peut être exercée concurremment avec d'autres fonctions relevant du grade d'inspecteur principal du Trésor public.
-
-(4) Cette fonction peut être exercée simultanément dans une trésorerie principale et une ou plusieurs perceptions.
-
-Les personnels de la catégorie A du Trésor public peuvent également être chargés de fonctions à l'administration centrale du ministère de l'économie et des finances.
+c) Etre en charge de l'animation et de la coordination de la politique d'audit au niveau régional.
