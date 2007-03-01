@@ -104,7 +104,11 @@ rédaction de lettre recommandée (en cas de formalité obligatoire), 1/4 taux d
 
 les émoluments alloués aux greffiers sont égaux à ceux qui sont prévus au paragraphe C pour des actes ou formalités analogues en cas de nantissement de fonds de commerce.
 
-H. - Gage des stocks.
+G. - Gage sans dépossession pris pris pour l'application de l'article 2338 du code civil :
+
+Les émoluments alloués aux greffiers des tribunaux de commerce sont égaux à ceux prévus pour des actes ou formalités analogues en cas de nantissement de fonds de commerce.
+
+H. - Gage des stocks :
 
 Les émoluments alloués aux greffiers des tribunaux de commerce sont égaux à ceux prévus pour des actes ou formalités analogues en cas de nantissement de fonds de commerce.
 
