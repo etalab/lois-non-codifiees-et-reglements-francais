@@ -6,6 +6,6 @@ Conformément à l'article 1er, alinéa 3, du décret du 25 août 2000 susvisé,
 
 - services des bureaux de la garantie (direction générale des douanes et droits indirects) : 1 572 heures ;
 
-- ateliers centraux du monnayage-conditionnement de l'établissement monétaire de Pessac et ateliers annexes (direction des Monnaies et médailles) : 1 526 heures ;
+- ateliers centraux du monnayage-conditionnement de l'établissement monétaire de Pessac et ateliers annexes (établissement public La Monnaie de Paris) : 1 526 heures ;
 
-- ateliers de fabrication de flans (fours de recuit, ligne de cuivrage et découpe) de l'établissement monétaire de Pessac (direction des Monnaies et médailles) : 1 482 heures.
+- ateliers de fabrication de flans (fours de recuit, ligne de cuivrage et découpe) de l'établissement monétaire de Pessac (établissement public La Monnaie de Paris) : 1 482 heures.

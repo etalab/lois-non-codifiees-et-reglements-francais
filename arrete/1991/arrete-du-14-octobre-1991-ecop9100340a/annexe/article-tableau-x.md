@@ -1,6 +1,6 @@
 # Article TABLEAU  X
 
-Attribution de la nouvelle bonification indiciaire à la direction des Monnaies et médailles
+Attribution de la nouvelle bonification indiciaire à l'établissement public La Monnaie de Paris
 
 <table>
 <tbody>
