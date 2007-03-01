@@ -177,7 +177,6 @@
 - [Décret n°2006-1618 du 18 décembre 2006 (BUDB0630046D)](decret-n2006-1618-du-18-decembre-2006-budb0630046d)
 - [Décret n°2006-1619 du 18 décembre 2006 (EQUR0602057D)](decret-n2006-1619-du-18-decembre-2006-equr0602057d)
 - [Décret n°2006-1620 du 18 décembre 2006 (SANP0624015D)](decret-n2006-1620-du-18-decembre-2006-sanp0624015d)
-- [Décret n°2006-1621 du 18 décembre 2006 (AGRP0602354D)](decret-n2006-1621-du-18-decembre-2006-agrp0602354d)
 - [Décret n°2006-1627 du 18 décembre 2006 (SANS0623403D)](decret-n2006-1627-du-18-decembre-2006-sans0623403d)
 - [Décret n°2006-1628 du 18 décembre 2006 (AGRF0601313D)](decret-n2006-1628-du-18-decembre-2006-agrf0601313d)
 - [Décret n°2006-1629 du 18 décembre 2006 (MJSK0670272D)](decret-n2006-1629-du-18-decembre-2006-mjsk0670272d)

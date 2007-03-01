@@ -689,7 +689,6 @@
 - [Décret du 27 août 1997 (ECOC9700108D)](decret-du-27-aout-1997-ecoc9700108d)
 - [Décret du 27 août 1997 (ECOC9700109D)](decret-du-27-aout-1997-ecoc9700109d)
 - [Décret du 27 août 1997 (ECOC9700110D)](decret-du-27-aout-1997-ecoc9700110d)
-- [Décret n°64-96 du 27 janvier 1964](decret-n64-96-du-27-janvier-1964)
 - [Décret n°95-1344 du 27 décembre 1995 (FPPA9510000D)](decret-n95-1344-du-27-decembre-1995-fppa9510000d)
 - [Décret n°96-1178 du 27 décembre 1996 (MIPP9600482D)](decret-n96-1178-du-27-decembre-1996-mipp9600482d)
 - [Décret n°96-1250 du 27 décembre 1996 (MIPP9600512D)](decret-n96-1250-du-27-decembre-1996-mipp9600512d)

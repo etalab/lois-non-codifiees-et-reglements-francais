@@ -462,7 +462,6 @@
 - [Arrêté du 14 octobre 1997 (MAEC9710070A)](arrete-du-14-octobre-1997-maec9710070a)
 - [Arrêté du 14 octobre 1997 (MENL9703043A)](arrete-du-14-octobre-1997-menl9703043a)
 - [Arrêté du 14 octobre 1997 (MENL9703044A)](arrete-du-14-octobre-1997-menl9703044a)
-- [Arrêté du 14 mai 1996 (TAST9610752A)](arrete-du-14-mai-1996-tast9610752a)
 - [Arrêté du 14 mai 1997 (ACVP9720026A)](arrete-du-14-mai-1997-acvp9720026a)
 - [Arrêté du 14 mai 1997 (ECOT9710302A)](arrete-du-14-mai-1997-ecot9710302a)
 - [Arrêté du 14 mai 1997 (ENVN9760101A)](arrete-du-14-mai-1997-envn9760101a)
