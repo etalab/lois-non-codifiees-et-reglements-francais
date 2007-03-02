@@ -1,0 +1,3 @@
+# Article 9
+
+Les établissements soumis aux normes IFRS peuvent appliquer des retraitements aux encours repris au dénominateur avant pondération, par symétrie avec les retraitements opérés sur le numérateur du ratio de solvabilité. Ces retraitements sont détaillés par une instruction de la Commission bancaire. Le choix de retraiter le dénominateur est irréversible et doit être appliqué à l'ensemble des instruments concernés par un retraitement sur le numérateur. Les établissements sont tenus d'informer le secrétariat général de la Commission bancaire dès qu'ils optent pour un retraitement du dénominateur.

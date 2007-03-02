@@ -1,0 +1,3 @@
+# Article 126-2
+
+Les établissements assujettis utilisent les estimations de pertes en cas de défaut qui s'appliqueraient en cas de ralentissement économique, si ces estimations sont plus prudentes que la moyenne calculée sur longue période. Dans la mesure où il est attendu que les valeurs des taux de pertes en cas de défaut par note ou par lot soient relativement stables dans le temps, les établissements assujettis apportent à leurs estimations des paramètres de risque par note ou par lot, les ajustements nécessaires pour limiter l'impact d'un ralentissement économique sur leurs fonds propres.

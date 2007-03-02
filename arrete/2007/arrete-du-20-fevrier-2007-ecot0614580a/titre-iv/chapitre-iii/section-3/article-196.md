@@ -1,0 +1,5 @@
+# Article 196
+
+Lorsque les établissements assujettis bénéficient d'une protection de crédit pour un panier d'expositions sous la forme de dérivés de crédit au premier défaut, le traitement suivant s'applique : le calcul du montant d'exposition pondérée et, le cas échéant, des pertes attendues, pour l'exposition au sein du panier qui, en l'absence de protection, serait associée au montant d'exposition pondérée le plus faible en application des titres II ou III selon l'approche retenue, peut être modifié conformément aux dispositions du présent chapitre uniquement lorsque la valeur de l'exposition est inférieure ou égale à la valeur de la protection.
+
+Lorsque les établissements assujettis bénéficient d'une protection de crédit pour un panier d'expositions sous la forme de dérivés de crédit au n-ième défaut, les effets de la protection peuvent être traités conformément aux dispositions de l'alinéa précédent dans le calcul des montants d'expositions pondérées et, le cas échéant, des pertes attendues lorsque l'établissement bénéficie d'une protection pour tout défaut de 1 à n - 1, ou lorsque n - 1 défauts ont déjà été constatés.

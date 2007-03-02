@@ -1,0 +1,3 @@
+# Article 58-3
+
+Les établissements assujettis utilisant la méthode de pondération simple peuvent tenir compte de sûretés personnelles et des dérivés de crédit non financés dans les conditions prévues au titre IV. Pour l'application de l'article 195-4, ils retiennent par substitution, la probabilité de défaut du fournisseur de protection pour la partie de l'exposition faisant l'objet de la protection, une durée (M) de 5 ans, une perte en cas de défaut de 65 % pour les expositions sous la forme de capital investissement détenues dans des portefeuilles suffisamment diversifiés et de 90 % pour toutes les autres expositions sur actions.

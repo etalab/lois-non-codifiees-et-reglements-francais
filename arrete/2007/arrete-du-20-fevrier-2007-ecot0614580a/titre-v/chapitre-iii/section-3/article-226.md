@@ -1,0 +1,5 @@
+# Article 226
+
+Sous réserve qu'ils aient connaissance, à tout moment, de la composition du portefeuille d'expositions titrisées, les établissements assujettis peuvent appliquer la moyenne pondérée des pondérations qui auraient été appliquées conformément aux dispositions du titre II aux expositions titrisées, multipliée par un ratio de concentration. Ce ratio de concentration est égal au rapport entre la somme des montants nominaux de toutes les tranches de la titrisation et la somme des montants nominaux des tranches de rang inférieur ou égal à celui de la tranche dans laquelle la position considérée est détenue, y compris ladite tranche. La pondération qui résulte de ce calcul ne peut être inférieure à celle applicable à une tranche de rang supérieur bénéficiant d'une évaluation externe de crédit. Cette pondération ne peut dépasser 1 250 %.
+
+Lorsqu'ils ne peuvent déterminer les pondérations qui seraient applicables aux expositions titrisées, les établissements assujettis appliquent une pondération de 1 250 % à la position de titrisation.

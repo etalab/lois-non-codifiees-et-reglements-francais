@@ -1,0 +1,15 @@
+# Chapitre III :   La reconnaissance des organismes externes   d'évaluation de crédit
+
+- [Article 28](article-28.md)
+- [Article 29-1](article-29-1.md)
+- [Article 29-2](article-29-2.md)
+- [Article 30-1](article-30-1.md)
+- [Article 30-2](article-30-2.md)
+- [Article 31-1](article-31-1.md)
+- [Article 31-2](article-31-2.md)
+- [Article 31-3](article-31-3.md)
+- [Article 32](article-32.md)
+- [Article 33-1](article-33-1.md)
+- [Article 33-2](article-33-2.md)
+- [Article 34](article-34.md)
+- [Article 35](article-35.md)

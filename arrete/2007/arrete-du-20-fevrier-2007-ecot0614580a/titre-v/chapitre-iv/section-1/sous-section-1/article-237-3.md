@@ -1,0 +1,3 @@
+# Article 237-3
+
+Les établissements assujettis originateurs ou sponsors qui ne sont pas en mesure de calculer KIRB et qui n'ont pas été autorisés à utiliser l'approche évaluation interne pour leurs positions dans des programmes de papier commercial adossé à des actifs, ainsi que les établissements assujettis n'ayant pas été autorisés à utiliser la méthode de la formule réglementaire ou, pour leurs positions dans des programmes de papier commercial adossé à des actifs, l'approche évaluation interne, appliquent une pondération de 1 250 % aux positions de titrisation ne bénéficiant pas d'une évaluation externe de crédit et pour lesquelles une notation implicite ne peut être utilisée.

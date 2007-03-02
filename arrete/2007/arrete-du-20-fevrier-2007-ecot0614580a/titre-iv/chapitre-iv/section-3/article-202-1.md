@@ -1,0 +1,3 @@
+# Article 202-1
+
+Pour prendre en compte les effets des accords-cadres de novation ou des conventions-cadres de compensation portant sur les opérations de pensions, de prêts ou emprunts de titres ou de produits de base, ou d'autres opérations ajustées aux conditions de marché, les établissements assujettis calculent la valeur de l'exposition totalement ajustée conformément aux dispositions ci-après en utilisant pour le calcul des ajustements de volatilité l'approche fondée sur les paramètres réglementaires ou l'approche fondée sur les estimations internes visées à la section 2 du chapitre II. Lorsque les établissements assujettis utilisent l'approche fondée sur les estimations internes, les conditions et exigences énoncées à l'article 178-4 doivent être respectées.

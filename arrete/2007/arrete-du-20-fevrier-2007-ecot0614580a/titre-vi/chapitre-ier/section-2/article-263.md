@@ -1,0 +1,3 @@
+# Article 263
+
+La valeur exposée au risque des opérations à règlement différé peut être déterminée en appliquant l'une des méthodes visées au présent titre, indépendamment de celle retenue pour le traitement du risque de contrepartie des instruments dérivés de gré à gré, des opérations de pensions, des opérations de prêt ou emprunt de titres ou de produits de base et des opérations de prêt sur marge. Pour le calcul des exigences de fonds propres des opérations à règlement différé, les établissements assujettis qui utilisent les approches notations internes du risque de crédit peuvent utiliser les pondérations de l'approche standard du risque de crédit de manière permanente, quelle que soit l'importance de ces opérations.

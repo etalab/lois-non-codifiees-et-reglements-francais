@@ -1,0 +1,3 @@
+# Article 198
+
+Sous réserve du respect des exigences minimales visées à la section 2, lorsque les établissements assujettis utilisent la méthode générale pour la prise en compte des effets des sûretés financières définie à la section 3 du chapitre II, les accords bilatéraux de novation ou conventions bilatérales de compensation, conclus avec une même contrepartie et portant sur les opérations de pensions, de prêts ou emprunts de titres ou de produits de base, ou d'autres opérations ajustées aux conditions de marché, sont reconnus en tant que techniques de réduction du risque crédit. Sans préjudice des dispositions du chapitre V du titre VII, les titres de créance ou produits de base faisant l'objet des opérations susvisées sont ceux énoncés aux articles 164-1 et 165.

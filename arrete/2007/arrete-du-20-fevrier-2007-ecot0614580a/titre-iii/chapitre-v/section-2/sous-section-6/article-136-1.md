@@ -1,0 +1,3 @@
+# Article 136-1
+
+Pour les expositions sur la clientèle de détail et pour les expositions sur les entreprises, les établissements, les administrations centrales et les banques centrales lorsque l'établissement assujetti utilise ses estimations de pertes en cas de défaut, les exigences de la présente sous-section ne s'appliquent pas aux sûretés personnelles fournies par des établissements, des administrations centrales et des banques centrales lorsque l'établissement assujetti a été autorisé à appliquer l'approche standard du risque de crédit aux expositions sur ces entités. Dans ce cas, les exigences visées au titre IV s'appliquent.

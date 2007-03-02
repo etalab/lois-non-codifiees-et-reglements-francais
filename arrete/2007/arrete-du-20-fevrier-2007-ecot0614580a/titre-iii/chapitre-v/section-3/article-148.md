@@ -1,0 +1,3 @@
+# Article 148
+
+Les établissements assujettis disposent de règles internes robustes pour tenir compte des situations où les écarts entre les valeurs réalisées des probabilités de défaut, des pertes en cas de défaut, des facteurs de conversion et des pertes totales et les estimations sont suffisamment significatifs pour remettre en cause la validité des estimations. Ces règles internes tiennent compte des cycles d'activité et de toute autre fluctuation similaire des taux de défaut observés. Lorsque les valeurs réalisées restent supérieures aux valeurs estimées, les établissements assujettis revoient à la hausse leurs estimations pour tenir compte des taux de défaut et de perte observés.

@@ -1,0 +1,3 @@
+# Article 58-2
+
+Les positions courtes sur actions et les instruments dérivés appartenant au portefeuille bancaire peuvent compenser des positions longues portant sur les mêmes titres, ligne à ligne, sous réserve d'avoir été explicitement affectés à la couverture de ces positions et d'avoir une échéance résiduelle d'au moins un an. Les autres positions courtes sont traitées comme des positions longues, avec application des pondérations adéquates à la valeur absolue de chaque position. Dans le cas de positions faisant l'objet d'asymétrie d'échéance, la méthode qui s'applique est celle de la catégorie des expositions sur les entreprises telle que visée à l'article 90.

@@ -1,0 +1,3 @@
+# Article 139
+
+Les exigences minimales visées à la présente sous-section s'appliquent aux dérivés de crédit portant sur un seul nom. En cas d'asymétrie entre l'engagement sous-jacent et l'actif de référence visé dans le contrat de dérivé de crédit ou entre l'engagement sous-jacent et l'actif utilisé pour déterminer si un événement de crédit s'est produit, les exigences visées à l'article 192-3 s'appliquent. Dans le cas des expositions sur la clientèle de détail et des créances achetées relevant de la clientèle de détail, le présent alinéa s'applique au procédé de notation ou d'affectation des expositions par lot.
