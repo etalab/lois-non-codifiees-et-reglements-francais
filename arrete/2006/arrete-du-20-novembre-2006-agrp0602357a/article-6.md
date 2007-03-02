@@ -15,3 +15,11 @@
 - le montant moyen perçu au titre d'un engagement agro-environnemental calculé conformément à l'article 4 du présent arrêté ;
 
 - et la somme du montant moyen annuel sur les trois années de la période de référence des aides définies conformément à l'article 5 du présent arrêté, et du montant moyen annuel perçu sur les trois années de la période de référence au titre d'un engagement agro-environnemental calculé conformément à l'article 4 du présent arrêté.
+
+5. Lorsqu'un agriculteur répond aux conditions fixées au quatrième alinéa de l'article 1er du décret n° 2006-710 susvisé et que la part du montant de la MAE de cet agriculteur est au moins égale à 6,6 %, alors un montant égal au tiers du montant moyen perçu au titre d'un engagement agroenvironnemental calculé conformément à l'article 4 du présent arrêté est ajouté à son montant de référence, au sens de l'article 37 du règlement (CE) n° 1782/2003 du Conseil du 29 septembre 2003 susvisé.
+
+6. Pour l'application du 5 du présent article, la part du montant de la MAE correspond au rapport entre :
+
+- le tiers du montant moyen perçu au titre d'un engagement agroenvironnemental calculé conformément à l'article 4 du présent arrêté ;
+
+- et la somme du montant de référence, au sens de l'article 37 du règlement (CE) n° 1782/2003 du Conseil du 29 septembre 2003 susvisé, et du tiers du montant moyen perçu au titre d'un engagement agroenvironnemental calculé conformément à l'article 4 du présent arrêté.
