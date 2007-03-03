@@ -1,0 +1,3 @@
+# Article 8
+
+La mise en oeuvre des traitements mentionnés à l'article 1er par le ministère de l'intérieur, le ministère de la défense et le ministère des finances, de l'économie et de l'industrie est subordonnée à l'envoi préalable à la Commission nationale de l'informatique et des libertés, en application du IV de l'article 26 de la loi du 6 janvier 1978 susvisée, d'un engagement de conformité faisant référence au présent arrêté qui précise le nombre de dispositifs de contrôle automatisé des données signalétiques des véhicules, la désignation du service utilisateur, les mesures de sécurité et de confidentialité des données du traitement embarqué mises en oeuvre.
