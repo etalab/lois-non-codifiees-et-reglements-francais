@@ -283,7 +283,6 @@
 - [Arrêté du 13 octobre 2005 (SANH0523849A)](arrete-du-13-octobre-2005-sanh0523849a)
 - [Arrêté du 13 septembre 2005 (EQUI0500354A)](arrete-du-13-septembre-2005-equi0500354a)
 - [Arrêté du 13 septembre 2005 (EQUR0500654A)](arrete-du-13-septembre-2005-equr0500654a)
-- [Arrêté du 13 mai 2005 (AGRP0402377A)](arrete-du-13-mai-2005-agrp0402377a)
 - [Arrêté du 13 mai 2005 (BUDF0500027A)](arrete-du-13-mai-2005-budf0500027a)
 - [Arrêté du 13 mai 2005 (EQUP0500854A)](arrete-du-13-mai-2005-equp0500854a)
 - [Arrêté du 13 mai 2005 (INTC0500141A)](arrete-du-13-mai-2005-intc0500141a)
