@@ -33,3 +33,5 @@ l) Les informations publiées en application de l'article 223-21 ;
 Lorsque l'émetteur n'a aucun instrument financier admis aux négociations sur un marché réglementé, le terme : "information réglementée désigne les documents et informations mentionnés aux points d, e, h et i.
 
 3° Le terme : "personne désigne une personne physique ou une personne morale.
+
+Les dispositions du présent titre sont également applicables aux dirigeants de l'émetteur, de l'entité ou de la personne morale concernés.
