@@ -1,57 +1,47 @@
 # Article 2
 
-Ce comité comprend :
+Ce conseil comprend :
 
-Des membres de droit ;
+1. Des membres issus du monde associatif :
 
-Le Médiateur de la République ;
+- le président ou le représentant de l'association Croix-Rouge française ;
 
-La directrice générale de la Caisse nationale d'allocations familiales ;
+- le président ou le représentant de l'association Emmaüs ;
 
-Le directeur général de l'administration et de la fonction publique, délégué interministériel à la réforme de l'Etat ;
+- le président ou le représentant de l'association Secours catholique ;
 
-La déléguée générale à la langue française ;
+- le président ou le représentant de l'association Secours populaire ;
 
-Le directeur général de l'Agence nationale pour l'emploi ;
+- le président ou le représentant de l'association UFC-Que choisir ;
 
-Le directeur général des impôts ;
+- le président ou le représentant de l'Union nationale des associations de sauvegarde de l'enfance.
 
-Le directeur général de l'Agence centrale des organismes de sécurité sociale ;
+2. Des personnalités qualifiées issues notamment du monde de l'art, des lettres, de la linguistique et des médias qui sont nommées conjointement par le ministre chargé de la réforme de l'État et le ministre chargé de la culture.
 
-Le directeur général de la Caisse nationale d'assurance vieillesse des travailleurs salariés ;
+3. Des membres choisis parmi les autorités administratives indépendantes :
 
-Le directeur général de l'UNEDIC ;
+- le Médiateur de la République ou son représentant ;
 
-Le rapporteur général de la commission pour les simplifications administratives ;
+- le Défenseur des enfants ou son représentant.
 
-Le directeur général de la Caisse nationale de l'assurance maladie des travailleurs salariés ;
+4. Des membres issus de l'administration et des organismes sociaux :
 
-Le directeur des libertés publiques et des affaires juridiques ;
+- le directeur général de la Caisse nationale d'allocations familiales ou son représentant ;
 
-Le chef du service de l'inspection générale de l'administration du ministère de l'éducation nationale ;
+- le directeur général de l'administration et de la fonction publique ou son représentant ;
 
-Le directeur général de l'administration du ministère de l'intérieur ;
+- le délégué général à la langue française et aux langues de France ou son représentant ;
 
-La directrice des affaires civiles et du sceau ;
+- le directeur de l'École nationale d'administration ou son représentant ;
 
-La présidente de l'UFC - Que choisir ;
+- le directeur de l'École nationale de la magistrature ou son représentant ;
 
-Le président de l'Union des centres communaux d'action sociale ;
+- un représentant du ministère de l'intérieur ;
 
-Le président du Haut Comité pour le logement des personnes défavorisées ;
+- un représentant du ministère chargé de la santé ;
 
-La présidente d'Emmaüs ;
+- un représentant du ministère chargé de l'emploi ;
 
-Le président de l'Agence nationale pour l'information sur le logement ;
+- un représentant du ministère de l'éducation nationale ;
 
-Le président de la Sauvegarde de l'adolescence ;
-
-La présidente de l'Association pour le droit à l'initiative économique ;
-
-Le président du Secours populaire ;
-
-Le président du Secours catholique ;
-
-Le président de la Croix-Rouge française ;
-
-17 personnalités qualifiées.
+- un représentant du ministère de la justice.
