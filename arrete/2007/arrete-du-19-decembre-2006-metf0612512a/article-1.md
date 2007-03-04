@@ -47,7 +47,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </td>
 <td align="center"> 5 ans</td>
 <td align="center">
-<p> GROUPEMENT D'ETABLISSEMENTS DE FORMATION DE </p>
+<p> GROUPEMENT D'ETABLISSEMENTS DE FORMATION A </p>
 <p>L'ENERGIE (GEFEN). - LYCEE MAXIMILIEN PERRET. </p>
 </td>
 </tr>
@@ -61,7 +61,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </td>
 <td align="center"> 5 ans</td>
 <td align="center">
-<p> GROUPEMENT D'ETABLISSEMENTS DE FORMATION DE </p>L'ENERGIE (GEFEN). - LYCEE MAXIMILIEN PERRET.</td>
+<p> GROUPEMENT D'ETABLISSEMENTS DE FORMATION A </p>L'ENERGIE (GEFEN). - LYCEE MAXIMILIEN PERRET.</td>
 </tr>
 <tr>
 <td align="center"> IV</td>
@@ -71,7 +71,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </td>
 <td align="center"> 5 ans</td>
 <td align="center">
-<p> GROUPEMENT D'ETABLISSEMENTS DE FORMATION DE </p>L'ENERGIE (GEFEN). - LYCEE MAXIMILIEN PERRET. </td>
+<p> GROUPEMENT D'ETABLISSEMENTS DE FORMATION A </p>L'ENERGIE (GEFEN). - LYCEE MAXIMILIEN PERRET. </td>
 </tr>
 <tr>
 <td align="center"> IV</td>
@@ -180,7 +180,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </td>
 <td align="center"> 5 ans</td>
 <td align="center">
-<p> GROUPEMENT D'ETABLISSEMENTS DE FORMATION DE </p>L'ENERGIE (GEFEN). - LYCEE MAXIMILIEN PERRET. </td>
+<p> GROUPEMENT D'ETABLISSEMENTS DE FORMATION A</p>L'ENERGIE (GEFEN). - LYCEE MAXIMILIEN PERRET. </td>
 </tr>
 <tr>
 <td align="center"> III</td>
