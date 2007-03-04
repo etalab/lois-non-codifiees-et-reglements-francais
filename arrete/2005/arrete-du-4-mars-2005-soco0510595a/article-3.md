@@ -1,8 +1,8 @@
 # Article 3
 
-Le comité de suivi du plan de cohésion est composé :
+Le comité de suivi du plan de cohésion sociale est composé :
 
-1° De quatorze élus locaux ;
+1° De huit élus locaux ;
 
 2° Du président du Conseil national de lutte contre l'exclusion, ou son représentant ;
 
@@ -18,4 +18,4 @@ Le comité de suivi du plan de cohésion est composé :
 
 8° De neuf personnalités qualifiées.
 
-Les membres du comité prévus aux 1°, 6°, 7° et 8° sont nommés pour deux ans renouvelables.
+Les membres du comité prévus aux 1°, 6°, 7° et 8° sont nommés pour deux ans.
