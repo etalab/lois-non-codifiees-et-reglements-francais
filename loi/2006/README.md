@@ -9,6 +9,7 @@
 - [Loi n° 2006-1770 du 30 décembre 2006 (SOCX0600085L)](loi-n-2006-1770-du-30-decembre-2006-socx0600085l)
 - [Loi n° 2006-1771 du 30 décembre 2006 (ECOX0600190L)](loi-n-2006-1771-du-30-decembre-2006-ecox0600190l)
 - [Loi n° 2006-1772 du 30 décembre 2006 (DEVX0400302L)](loi-n-2006-1772-du-30-decembre-2006-devx0400302l)
+- [Loi n° 2006-339 du 23 mars 2006 (SOCX0500260L)](loi-n-2006-339-du-23-mars-2006-socx0500260l)
 - [Loi n° 2006-872 du 13 juillet 2006 (SOCX0500245L)](loi-n-2006-872-du-13-juillet-2006-socx0500245l)
 - [Loi n° 2006-888 du 19 juillet 2006 (ECOX0600081L)](loi-n-2006-888-du-19-juillet-2006-ecox0600081l)
 - [Loi n° 2006-911 du 24 juillet 2006 (INTX0600037L)](loi-n-2006-911-du-24-juillet-2006-intx0600037l)
