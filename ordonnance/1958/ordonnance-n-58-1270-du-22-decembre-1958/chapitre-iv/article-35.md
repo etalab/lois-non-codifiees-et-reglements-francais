@@ -8,6 +8,6 @@ La commission d'avancement comprend, outre le premier président de la Cour de c
 
 3° Deux premiers présidents et deux procureurs généraux de cour d'appel, élus respectivement par l'ensemble des premiers présidents et l'ensemble des procureurs généraux de cour d'appel ;
 
-4° Dix magistrats du corps judiciaire, trois du premier grade et sept du second grade, élus par le collège des magistrats dans les conditions prévues au chapitre Ier bis.
+4° Dix magistrats des cours et tribunaux, sept du premier grade et trois du second grade, élus par le collège des magistrats dans les conditions prévues au chapitre Ier bis.
 
 Lors de l'élection de chacun des membres titulaires visés aux 2°, 3° et 4°, il est procédé, selon les mêmes modalités, à l'élection d'un membre suppléant.
