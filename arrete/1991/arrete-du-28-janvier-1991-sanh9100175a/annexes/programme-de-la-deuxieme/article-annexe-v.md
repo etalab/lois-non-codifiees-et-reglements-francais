@@ -2,89 +2,99 @@
 
 Santé publique
 
-I. - Epidémiologie
+1. Epidémiologie
 
-Grands principes de base.
+Grands principes de base :
 
 Collecte, codage, standardisation et utilisation des données de natalité, morbidité, invalidité, mortalité.
 
 Registres et principales sources d'information en santé.
 
-Indicateurs de santé.
+Indicateurs de santé : mortalité, santé, incidence, prévalence, indicateurs de qualité de vie.
 
-Notion de risque.
+Notion de risque, risque relatif.
 
-II. - Économie de la santé et systèmes de santé
+2. Economie de la santé et système de santé
 
-1. Les grandes composantes du système de santé
+2.1. Généralités :
 
-- notion d'état de santé (indicateurs) ;
+Notion de système de santé, typologie des systèmes de santé et de protection sociale.
 
-- notion de " production " de santé ;
+Indicateurs de besoins, de moyens, de couverture, de production, de résultats, etc.
 
-- notion de produit du système de santé ;
+Evaluation économique : notion d'efficacité, d'efficience, de productivité.
 
-- financement et couverture des dépenses de santé.
+Principes des études : coût/efficacité, coût/bénéfice, coût/avantage.
 
-2. Analyse macro-économique
+Santé, économie, éthique : principaux débats actuels.
 
-- comptabilité nationale ;
+2.2. Analyse macroéconomique :
 
-- comptes de la santé ;
+Comptabilité nationale.
 
-- évolution des dépenses de santé en France et à l'étranger.
+Comptes de la santé.
 
-3. Analyse micro-économique
+Principaux postes de la consommation médicale.
 
-- comportement des agents économiques : hôpital, médecins, malades, financeurs ;
+Evolution des dépenses de santé en France et à l'étranger.
 
-- formation des prix ;
+Financement des dépenses de santé.
 
-- particularités des biens et services médicaux.
+2.3. Analyse microéconomique :
 
-4. Les actes de prévention et de soins et la consommation médicale
+Comportement des agents économiques : hôpital, médecins, malades, financeurs.
 
-- définitions ;
+Formation des prix.
 
-- évolution ;
+Particularités des biens et services médicaux.
 
-- facteurs d'évolution au niveau de l'offre de prévention et de soins (démographie des professions de santé, institutions de prévention, progrès techniques et équipements).
+Analyse des facteurs individuels et collectifs influençant l'évolution des dépenses de santé.
 
-5. Gestion des unités de production de soins
+2.4. Gestion des unités de production de soins :
 
-- financement, tarification des biens et services ;
+Mesures de l'activité, PMSI.
 
-- mesure de l'activité ;
+Comptabilité analytique et contrôle de gestion.
 
-- comptabilité analytique ;
+Le projet d'établissement et la démarche stratégique.
 
-- contrôle de gestion - audit.
+Audit.
 
-6. Allocations de ressources
+L'évaluation à l'hôpital : évaluation des techniques, évaluation de la qualité des soins, évaluation des établissements (certification) et accréditation des médecins.
 
-- techniques de coût/efficacité, coût/bénéfice, analyses multicritères.
+La politique de gestion des risques.
 
-7. Eléments du système français
+L'informatisation des process de production et le DMP.
 
-- le système hospitalier en France ;
+2.5. Allocation de ressources et planification sanitaire :
 
-- les alternatives à l'hospitalisation, les soins à domicile ;
+Analyse des disparités géographiques et sociologiques en matière de santé.
 
-- les institutions de promotion de la santé, d'éducation pour la santé, les observations régionaux de la santé ;
+Les schémas régionaux d'organisation sanitaire.
 
-- la coopération internationale dans le domaine de la santé ;
+Modalités de financement des établissements hospitaliers.
 
-- santé et société : principaux débats actuels ;
+Tarification des biens et services médicaux.
 
-- évaluation à l'hôpital :
+2.6. Eléments du système français :
 
-- évaluation des techniques, soins et services rendus, principes de bases ;
+Les personnels de santé.
 
-- évaluation des institutions.
+Le système hospitalier en France.
 
-III. - Santé et prévention
+Les alternatives à hospitalisation, les soins à domicile.
 
-Approches par population.
+L'industrie pharmaceutique et biomédicale.
+
+L'administration de la santé.
+
+3. Santé et prévention
+
+Définitions des modèles de représentations de la santé.
+
+Actions de prévention : éducation pour la santé, promotion de la santé, vaccinations, dépistage.
+
+Approches par populations spécifiques :
 
 - le nourrisson et le jeune enfant ;
 
@@ -96,12 +106,16 @@ Approches par population.
 
 - les migrants.
 
-IV. - Hygiène et hôpital
+4. Hygiène et environnement hospitalier
 
-- les eaux d'alimentation, adduction, traitement, contrôle ;
+Les eaux d'alimentation, d'adduction, traitement, contrôle.
 
-- assainissement, eaux usées, déchets hospitaliers ;
+Assainissement, eaux usées, déchets hospitaliers.
 
-- hygiène alimentaire collective ;
+Hygiène alimentaire collective.
 
-- éléments d'organisation contre les infections hospitalières (architecture, circuits, méthodes d'organisation).
+Eléments d'organisation contre les infections hospitalières (architecture, circuits, méthodes d'organisation).
+
+La gestion des risques sanitaires.
+
+5. Les plans de santé publique (loi du 9 août 2004)

@@ -2,43 +2,55 @@
 
 Droit public
 
-A. - Institutions politiques et droit constitutionnel
+1. Sources du droit
 
-L'élaboration des constitutions ; les différents types de constitutions.
+La Constitution et le bloc de constitutionnalité.
 
-La hiérarchie des actes juridiques et le contrôle de constitutionnalité des lois.
+Les traités et autres sources de droit international.
 
-La souveraineté politique et ses modes d'expression.
+Les traités et autres sources de droit communautaire.
 
-La représentation et les régimes électoraux.
+La loi et le principe de légalité.
 
-L'agencement des institutions. Les exécutifs (monisme et dualisme gouvernemental). Les Parlements (monocaméralisme et bicaméralisme). Les cours suprêmes. Confusion, collaboration et séparation des pouvoirs.
+Le pouvoir réglementaire.
 
-Les différents types de régime politique. Les institutions politiques des Etats-Unis, de l'U.R.S.S. et de Grande-Bretagne.
+La jurisprudence constitutionnelle et administrative.
 
-Les institutions politiques actuelles de la France : la Constitution du 4 octobre 1958, l'organisation des pouvoirs, les rapports entre les pouvoirs.
+2. Le régime constitutionnel
 
-B. - Institutions administratives et droit administratif
+2.1. Théorie constitutionnelle et institutions politiques comparées :
 
-1. L'organisation administrative :
+La souveraineté et ses modes d'expression.
+
+Les régimes électoraux.
+
+Les institutions politiques de la démocratie libérale.
+
+2.2. Le régime politique français :
+
+Evolution des institutions politiques depuis 1789.
+
+Le régime politique issu de la Constitution du 4 octobre 1958.
+
+3. Droit administratif
+
+3.1. L'organisation administrative :
 
 L'Etat et les collectivités territoriales ; déconcentration et décentralisation ; contractualisation.
 
 Le secteur public et parapublic ; les démembrements de l'administration.
 
-Les relations de l'administration et des administrés. La participation ; la consultation ; l'administration consultative ; la procédure administrative non contentieuse.
+Les relations de l'administration et des administrés ; la participation ; la consultation ; l'administration consultative ; la procédure administrative non contentieuse.
 
 Les administrations centrales de l'Etat ; la coordination interministérielle.
 
-Les circonscriptions territoriales de l'Etat et les services extérieurs, le préfet.
-
-Les collectivités territoriales : la région, le département, la commune.
+Les circonscriptions territoriales : la région, le département, la commune.
 
 Les établissements publics.
 
 Les autorités administratives indépendantes.
 
-2. La justice administrative :
+3.2. La justice administrative :
 
 L'organisation de la juridiction administrative.
 
@@ -48,26 +60,44 @@ Les recours en annulation et les recours de pleine juridiction.
 
 Les principes généraux du contentieux administratif.
 
-3. L'activité administrative :
+3.3. L'activité administrative :
 
-Le principe de l'égalité et la hiérarchie des actes administratifs.
+Le service public ; notion ; différents types de service public.
 
-Le contrôle de la légalité.
+La police administrative.
 
-L'acte administratif unilatéral : les actes réglementaires, les actes individuels.
+L'acte administratif unilatéral : les actes réglementaires, les actes individuels ; hiérarchie des actes administratifs.
 
 Les contrats administratifs, les marchés publics.
 
-Les biens : expropriation, domaines, travaux publics.
+Les biens : expropriation, domaine public, domaine privé, travaux publics.
 
 Les principes généraux de l'intervention économique.
 
+Les principes de légalité et le contrôle de la légalité.
+
 La responsabilité de l'administration.
 
-La notion de service public ; les différents types de service public.
+3.4. La fonction publique :
 
-4. La fonction publique :
+Le statut de la fonction publique de l'Etat ; la fonction publique territoriale et hospitalière.
 
-Le statut général de la fonction publique de l'Etat ; la fonction publique territoriale et hospitalière.
+Les diverses catégories d'agents de l'Etat et des collectivités publiques ; les problèmes généraux de la fonction publique ; statut, recrutement, obligations, responsabilités et droits des fonctionnaires, procédures de participation et de consultation.
 
-Les diverses catégories d'agents de l'Etat et des collectivités publiques. Les problèmes généraux de la fonction publique ; statut, recrutement, obligations, responsabilités et droit des fonctionnaires, procédure de participation et de consultation.
+4. Droit communautaire
+
+Les institutions.
+
+Les processus décisionnels.
+
+L'ordre juridique communautaire.
+
+Les recours juridictionnels.
+
+5. Droits fondamentaux et libertés publiques
+
+Régime juridique.
+
+Protection interne et internationale.
+
+L'Etat de droit.

@@ -1,18 +1,18 @@
 # Article ANNEXE III
 
-Macro-économie
+Macro économie
 
-I. - Caractéristiques de l'économie française
+1. Caractéristiques de l'économie française
 
-1. Les structures démographiques de la France.
+1.1. Les structures démographiques de la France.
 
-2. L'appareil de production français.
+1.2. L'appareil de production français.
 
-3. Le financement de l'activité : monnaie, création de la monnaie, intermédiaires financiers, marché monétaire, marché financier.
+1.3. Le financement de l'activité : monnaie, création de la monnaie, intermédiaires financiers, marché monétaire, marché financier.
 
-4. La mesure de l'activité et la prévision économique :
+1.4. La mesure de l'activité et la prévision économique :
 
-Le système élargi de comptabilité nationale (cadre central, tableaux de synthèse).
+Le système élargi de la comptabilité nationale (cadre central, tableaux de synthèse).
 
 Les agrégats.
 
@@ -20,42 +20,46 @@ Les comptes satellites.
 
 Les budgets économiques.
 
-La modélisation macro-économique.
+La modélisation macroéconomique.
 
 La planification française.
 
-II. - Relations économiques internationales
+1.5. La place du secteur de la santé dans l'économie financière.
 
-1. La balance des paiements.
+2. Relations économiques internationales
 
-2. Les relations commerciales internationales :
+2.1. La balance des paiements.
 
-Théories du commerce international ;
+2.2. Les relations commerciales internationales :
 
-Organisation et structure internationales des échanges.
+Théories du commerce international.
 
-3. Marché des changes, convertibilité des monnaies et mécanismes d'ajustement des balances des paiements.
+Organisation et structure internationale des échanges.
 
-4. Les institutions et les relations monétaires internationales depuis 1944.
+2.3. Marché des changes, convertibilités des monnaies et mécanismes d'ajustement des balances des paiements.
 
-III. - Equilibre et déséquilibres macro-économiques
+2.4. Les institutions et relations monétaires internationales depuis 1944.
 
-1. Principales variables de l'activité économique : consommation, épargne, investissement, dépenses publiques, exportations, importations.
+3. Equilibre et déséquilibres macroéconomiques
 
-2. L'équilibre macro-économique.
+3.1. Principales variables de l'activité économique :
 
-3. La répartition des revenus ; les inégalités de revenus.
+consommation, épargne, investissement, dépenses publiques, exportations, importations.
 
-4. Le chômage, l'inflation, la croissance économique, les déséquilibres extérieurs. Relations macro-économiques fondamentales :
+3.2. L'équilibre macroéconomique.
 
-loi d'Okun, relation de Phillips, contrainte externe.
+3.3. La répartition des revenus : les inégalités des revenus.
 
-IV. - Politiques économiques
+3.4. Le chômage, l'inflation, la croissance économique, les déséquilibres extérieurs : relations macroéconomiques fondamentales :
 
-1. La politique conjoncturelle : politique budgétaire, politique monétaire, politique des changes, politique du commerce extérieur.
+loi d'Okun, relation de Philips, contrainte externe.
 
-2. La politique des revenus, la redistribution.
+4. Politiques économiques
 
-3. La politique industrielle.
+4.1. La politique conjoncturelle : politique budgétaire, politique monétaire, politique des changes, politique du commerce extérieur.
 
-4. Les politiques communautaires.
+4.2. La politique des revenus, la redistribution.
+
+4.3. La politique industrielle.
+
+4.4. Les politiques communautaires.
