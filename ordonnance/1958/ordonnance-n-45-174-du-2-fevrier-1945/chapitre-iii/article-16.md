@@ -8,4 +8,8 @@ Si la prévention est établie à l'égard d'un mineur âgé de plus de treize a
 
 3° Placement dans un établissement médical ou médico-pédagogique habilité ;
 
-4° Placement dans une institution publique d'éducation surveillée ou d'éducation corrective.
+4° Placement dans une institution publique d'éducation surveillée ou d'éducation corrective ;
+
+5° Avertissement solennel ;
+
+6° Mesure d'activité de jour, dans les conditions définies à l'article 16 ter.
