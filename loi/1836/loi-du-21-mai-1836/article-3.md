@@ -1,6 +1,6 @@
 # Article 3
 
-La violation de ces interdictions est punie de deux ans d'emprisonnement et de 30 000 Euros d'amende.
+La violation de ces interdictions est punie de deux ans d'emprisonnement et de 60 000 euros d'amende.
 
 La confiscation des appareils de jeux ou de loterie est obligatoire ; leur destruction peut être ordonnée par le tribunal.
 

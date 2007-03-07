@@ -8,7 +8,7 @@ Il pourra décerner tous mandats utiles ou prescrire le contrôle judiciaire en 
 
 Il recueillera, par une enquête sociale, des renseignements sur la situation matérielle et morale de la famille, sur le caractère et les antécédents du mineur, sur sa fréquentation scolaire, son attitude à l'école, sur les conditions dans lesquelles il a vécu ou a été élevé.
 
-Le juge des enfants ordonnera un examen médical et, s'il y a lieu un examen médico-psychologique. Il décidera, le cas échéant, le placement du mineur dans un centre d'accueil ou dans un centre d'observation.
+Le juge des enfants ordonnera un examen médical et, s'il y a lieu un examen médico-psychologique. Il décidera, le cas échéant, le placement du mineur dans un centre d'accueil ou dans un centre d'observation ou prescrira une mesure d'activité de jour dans les conditions définies à l'article 16 ter.
 
 Toutefois, il pourra, dans l'intérêt du mineur, n'ordonner aucune de ces mesures ou ne prescrire que l'une d'entre elles. Dans ce cas, il rendra une ordonnance motivée.
 
@@ -30,7 +30,11 @@ Il pourra également, par jugement rendu en chambre du conseil :
 
 - 5° Soit prononcer, à titre principal, sa mise sous protection judiciaire pour une durée n'excédant pas cinq années dans les conditions définies à l'article 16 bis ;
 
-- 6° Soit le placer dans l'un des établissements visés aux articles 15 et 16, et selon la distinction établie par ces articles.
+- 6° Soit le placer dans l'un des établissements visés aux articles 15 et 16, et selon la distinction établie par ces articles ;
+
+- 7° Soit prescrire une mesure d'activité de jour dans les conditions définies à l'article 16 ter.
+
+Les mesures prévues aux 3° et 4° ne peuvent être seules ordonnées si elles ont déjà été prononcées à l'égard du mineur pour une infraction identique ou assimilée au regard des règles de la récidive commise moins d'un an avant la commission de la nouvelle infraction.
 
 Dans tous les cas, il pourra, le cas échéant, prescrire que le mineur sera placé jusqu'à un âge qui n'excèdera pas celui de sa majorité sous le régime de la liberté surveillée.
 

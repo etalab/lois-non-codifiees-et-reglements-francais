@@ -6,4 +6,6 @@ Toutefois, l'ajournement du prononcé de la mesure éducative ou de la peine pou
 
 Le tribunal pour enfants qui ajourne le prononcé de la mesure éducative ou de la peine peut ordonner à l'égard du mineur, à titre provisoire, son placement dans un établissement public ou habilité à cet effet, une mesure de liberté surveillée préjudicielle ou une mesure ou une activité d'aide ou de réparation dans les conditions prévues à l'article 12-1.
 
+Lorsque l'ajournement du prononcé de la mesure éducative ou de la peine est ordonné, le tribunal pour enfants peut ordonner au mineur d'accomplir une mesure d'activité de jour, dans les conditions définies à l'article 16 ter.
+
 Les dispositions des articles 132-66 à 132-70 du code pénal ne sont pas applicables aux mineurs.

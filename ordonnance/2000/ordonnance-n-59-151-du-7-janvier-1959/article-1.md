@@ -6,7 +6,7 @@ Cet établissement public, dénommé Syndicat des transports d'Ile-de-France, es
 
 L'ensemble des transferts prévus ci-dessus est réalisé à titre gratuit et ne donne lieu à aucun versement, salaire ou honoraires, ni à aucune indemnité ou perception de droit ou de taxe.
 
-II. - Ce syndicat fixe, conformément aux règles de coordination des transports, les relations à desservir, désigne les exploitants, définit les modalités techniques d'exécution ainsi que les conditions générales d'exploitation et de financement des services et veille à la cohérence des programmes d'investissement. Il est responsable de la politique tarifaire. Il favorise le transport des personnes à mobilité réduite. En outre, il peut organiser des services de transport à la demande.
+II. - Ce syndicat fixe, conformément aux règles de coordination des transports, les relations à desservir, désigne les exploitants, définit les modalités techniques d'exécution ainsi que les conditions générales d'exploitation et de financement des services et veille à la cohérence des programmes d'investissement. Il est responsable de la politique tarifaire. Il concourt, dans des conditions fixées par décret en Conseil d'Etat, aux actions de prévention de la délinquance et de sécurisation des personnels et des usagers. Il favorise le transport des personnes à mobilité réduite. En outre, il peut organiser des services de transport à la demande.
 
 Le syndicat est responsable de l'organisation et du fonctionnement des transports scolaires et consulte à leur sujet, au moins une fois par an, le conseil interacadémique d'Ile-de-France.
 

@@ -1,7 +1,13 @@
 # Article 34
 
-Les documents mentionnés à l'article 32 reproduisant des oeuvres cinématographiques auxquelles s'appliquent les articles 11 et 12 de la loi de finances pour 1976 (n° 75-1278 du 30 décembre 1975) sont soumis de plein droit à l'interdiction prévue au 1° dudit article.
+Le fait de ne pas se conformer aux obligations et interdictions fixées au premier alinéa de l'article 32 et à l'article 33 est puni d'un an d'emprisonnement et d'une amende de 15 000 Euros.
 
-L'autorité administrative peut, en outre, prononcer à l'égard de ces documents, après avis de la commission mentionnée à l'article 33, l'interdiction prévue au 2° de l'article 32.
+Le fait, par des changements de titres ou de supports, par des artifices de présentation ou de publicité ou par tout autre moyen, d'éluder ou de tenter d'éluder l'application du premier alinéa de l'article 32 et de l'article 33 est puni de deux ans d'emprisonnement et d'une amende de 30 000 Euros.
 
-L'éditeur ou le producteur ou l'importateur ou le distributeur chargé de la diffusion en France du support soumis à l'interdiction de plein droit prévue au premier alinéa peut demander à en être relevé. L'autorité administrative se prononce après avis de la commission mentionnée à l'article 33.
+Les personnes physiques coupables des infractions prévues aux deux premiers alinéas encourent également la peine complémentaire de confiscation de la chose qui a servi à commettre l'infraction ou était destinée à la commettre ou de la chose qui en est le produit.
+
+Les personnes morales déclarées pénalement responsables des infractions prévues aux deux premiers alinéas encourent les peines suivantes :
+
+- l'amende, dans les conditions fixées par l'article 131-38 du code pénal ;
+
+- la confiscation prévue par le 8° de l'article 131-39 du même code.

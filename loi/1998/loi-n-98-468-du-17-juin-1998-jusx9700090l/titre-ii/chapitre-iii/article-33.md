@@ -1,7 +1,9 @@
 # Article 33
 
-Il est institué une commission administrative chargée de donner un avis sur les mesures d'interdiction envisagées.
+L'autorité administrative peut en outre interdire :
 
-Cette commission comprend, outre son président choisi parmi les membres du Conseil d'Etat ou de la Cour de cassation, des représentants de l'administration, des professionnels des secteurs concernés et des personnes chargées de la protection de la jeunesse. La composition et les modalités de fonctionnement de cette commission sont fixées par décret en Conseil d'Etat.
+1° De proposer, de donner, de louer ou de vendre à des mineurs les documents mentionnés à l'article 32 ;
 
-La commission a également qualité pour signaler à l'autorité administrative les documents mentionnés à l'article précédent qui lui paraissent justifier une interdiction.
+2° D'exposer les documents mentionnés à l'article 32 à la vue du public en quelque lieu que ce soit. Toutefois, l'exposition demeure possible dans les lieux dont l'accès est interdit aux mineurs ;
+
+3° De faire, en faveur de ces documents, de la publicité par quelque moyen que ce soit. Toutefois, la publicité demeure possible dans les lieux dont l'accès est interdit aux mineurs.

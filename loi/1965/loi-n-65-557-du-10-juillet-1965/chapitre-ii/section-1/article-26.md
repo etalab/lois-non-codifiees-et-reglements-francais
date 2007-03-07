@@ -8,7 +8,9 @@ b) La modification, ou éventuellement l'établissement, du règlement de coprop
 
 c) Les travaux comportant transformation, addition ou amélioration, à l'exception de ceux visés aux e, g, h, i, j, m et n de l'article 25 ;
 
-d) La demande d'individualisation des contrats de fourniture d'eau et la réalisation des études et travaux nécessaires à cette individualisation prévus par l'article 93 de la loi n° 2000-1208 du 13 décembre 2000 relative à la solidarité et au renouvellement urbains.
+d) La demande d'individualisation des contrats de fourniture d'eau et la réalisation des études et travaux nécessaires à cette individualisation prévus par l'article 93 de la loi n° 2000-1208 du 13 décembre 2000 relative à la solidarité et au renouvellement urbains ;
+
+e) Les modalités d'ouverture des portes d'accès aux immeubles. En cas de fermeture totale de l'immeuble, celle-ci doit être compatible avec l'exercice d'une activité autorisée par le règlement de copropriété. La décision d'ouverture est valable jusqu'à la tenue de l'assemblée générale suivante.
 
 L'assemblée générale ne peut, à quelque majorité que ce soit, imposer à un copropriétaire une modification à la destination de ses parties privatives ou aux modalités de leur jouissance, telles qu'elles résultent du règlement de copropriété.
 

@@ -1,7 +1,5 @@
 # Article 35
 
-Les interdictions prévues aux articles 32 et 34 doivent être mentionnées de façon apparente sur chaque unité de conditionnement des exemplaires édités et diffusés.
+Les dispositions du présent chapitre ne s'appliquent pas aux documents qui constituent la reproduction intégrale d'une oeuvre cinématographique ayant obtenu le visa prévu à l'article 19 du code de l'industrie cinématographique.
 
-La mention de l'interdiction résultant du premier alinéa de l'article 34 est en outre insérée dans le document lui-même, quel que soit son support. De plus, lorsque le document présente un caractère pornographique, est également inséré le rappel des dispositions de l'article 227-22 du code pénal.
-
-Un décret en Conseil d'Etat détermine les modalités d'application du présent article, et notamment le délai dans lequel la mesure prévue doit être mise en oeuvre et les sanctions en cas d'inexécution de cette obligation.
+Toutefois, les documents reproduisant des oeuvres cinématographiques auxquelles s'appliquent les articles 11 et 12 de la loi de finances pour 1976 (n° 75-1278 du 30 décembre 1975) sont soumis de plein droit à l'interdiction prévue au premier alinéa de l'article 32 de la présente loi.
