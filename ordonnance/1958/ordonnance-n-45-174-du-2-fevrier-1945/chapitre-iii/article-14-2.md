@@ -1,14 +1,16 @@
 # Article 14-2
 
-I. - Les mineurs de seize à dix-huit ans qui ont été déférés devant le procureur de la République peuvent être poursuivis devant le tribunal pour enfants selon la procédure de jugement à délai rapproché dans les cas et selon les modalités prévues par le présent article.
+I. - Les mineurs de seize à dix-huit ans qui ont été déférés devant le procureur de la République peuvent être poursuivis devant le tribunal pour enfants selon la procédure de présentation immédiate devant la juridiction pour mineurs dans les cas et selon les modalités prévues par le présent article.
 
-II. - La procédure de jugement à délai rapproché est applicable aux mineurs qui encourent une peine d'emprisonnement supérieure ou égale à trois ans en cas de flagrance, ou supérieure ou égale à cinq ans dans les autres cas. Elle ne peut être engagée que si des investigations sur les faits ne sont pas nécessaires et que si des investigations sur la personnalité du mineur ont été accomplies, le cas échéant, à l'occasion d'une procédure antérieure de moins d'un an.
+II. - La procédure de présentation immédiate devant la juridiction pour mineurs est applicable aux mineurs qui encourent une peine d'emprisonnement supérieure ou égale à un an en cas de flagrance, ou supérieure ou égale à trois ans dans les autres cas. Elle ne peut être engagée que si des investigations sur les faits ne sont pas nécessaires et que si des investigations sur la personnalité du mineur ont été accomplies, le cas échéant, à l'occasion d'une procédure antérieure de moins d'un an.
 
 III. - Après avoir versé au dossier de la procédure les éléments de personnalité résultant des investigations mentionnées au II, le procureur de la République vérifie l'identité du mineur qui lui est déféré et lui notifie les faits qui lui sont reprochés en présence de l'avocat de son choix ou d'un avocat désigné par le bâtonnier à la demande du procureur de la République si le mineur ou ses représentants légaux n'ont pas fait le choix d'un avocat. Dès sa désignation, l'avocat peut consulter le dossier et communiquer librement avec le mineur.
 
 Après avoir recueilli ses observations éventuelles et celles de son avocat, le procureur de la République informe le mineur qu'il est traduit devant le tribunal pour enfants pour y être jugé, à une audience dont il lui notifie la date et l'heure et qui doit avoir lieu dans un délai qui ne peut être inférieur à dix jours ni supérieur à un mois.
 
-A peine de nullité de la procédure, les formalités mentionnées aux deux alinéas précédents font l'objet d'un procès-verbal dont copie est remise au mineur et qui saisit le tribunal pour enfants.
+Toutefois, il est procédé au jugement du mineur à la première audience du tribunal pour enfants qui suit sa présentation, sans que le délai de dix jours soit applicable, lorsque le mineur et son avocat y consentent expressément, sauf si les représentants légaux du mineur, dûment convoqués, font connaître leur opposition.
+
+A peine de nullité de la procédure, les formalités mentionnées aux trois alinéas précédents font l'objet d'un procès-verbal dont copie est remise au mineur et qui saisit le tribunal pour enfants.
 
 IV. - Aussitôt après avoir procédé aux formalités prévues au III, le procureur de la République fait comparaître le mineur devant le juge des enfants afin qu'il soit statué sur ses réquisitions tendant soit au placement sous contrôle judiciaire, soit au placement en détention provisoire du mineur jusqu'à l'audience de jugement.
 
