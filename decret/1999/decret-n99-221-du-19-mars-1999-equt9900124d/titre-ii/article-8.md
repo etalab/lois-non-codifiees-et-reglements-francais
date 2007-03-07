@@ -16,7 +16,7 @@ Le directeur des transports terrestres ou son représentant ;
 
 Le délégué à l'aménagement du territoire et à l'action régionale ou son représentant ;
 
-Le commissaire au Plan ou son représentant ;
+Le directeur général du Centre D'analyse stratégique ou son représentant ;
 
 Le directeur général de l'Agence des participations de l'Etat ou son représentant ;
 
