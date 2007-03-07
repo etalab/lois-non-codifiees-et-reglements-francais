@@ -1,6 +1,6 @@
 # Article 29-1
 
-Sous réserve de l'article 26, la diffusion de services de radio par voie hertzienne terrestre en mode numérique est soumise aux dispositions qui suivent lorsque ces services utilisent une même ressource radioélectrique.
+Sous réserve des articles 26 et 30-7, la diffusion de services de radio par voie hertzienne terrestre en mode numérique est soumise aux dispositions qui suivent lorsque ces services utilisent une même ressource radioélectrique.
 
 I. - Pour les zones géographiques et les catégories de services qu'il a préalablement déterminées, le Conseil supérieur de l'audiovisuel publie une liste de fréquences disponibles ainsi qu'un appel aux candidatures. Il fixe le délai dans lequel les déclarations de candidatures doivent être déposées ainsi que les informations qui doivent lui être fournies par les candidats. Il indique les conditions dans lesquelles les déclarations de candidatures peuvent porter sur une partie des zones géographiques de l'appel.
 
@@ -15,6 +15,8 @@ II. - Le Conseil supérieur de l'audiovisuel accorde les autorisations d'usage d
 Le Conseil supérieur de l'audiovisuel accorde le droit d'usage aux services de radio diffusés par voie hertzienne terrestre en mode numérique en tenant également compte de la cohérence des propositions formulées par les candidats en matière de regroupement technique et commercial avec d'autres services. Dans la limite de la disponibilité des ressources radioélectriques, il autorise en priorité les services de radio préalablement autorisés en mode analogique sur la base de l'article 29 qui sont reçus dans la même zone géographique.
 
 Dans la mesure de la ressource radioélectrique disponible et au vu des propositions de regroupement formulées par les candidats, le Conseil supérieur de l'audiovisuel précise sur quelle fréquence s'exerce le droit d'usage accordé à chaque service en veillant à la cohérence technique et commerciale des regroupements ainsi constitués.
+
+Le Conseil supérieur de l'audiovisuel attribue une part significative des ressources hertziennes disponibles ou rendues disponibles par l'extinction du service analogique de télévision en bande III et en bande L pour la diffusion du service de radio numérique terrestre, conformément aux accords internationaux souscrits par la France.
 
 Les sociétés chargées de faire assurer les opérations techniques nécessaires à la transmission et à la diffusion des services autorisés sur une même fréquence auprès du public sont désignées et autorisées dans les conditions définies à l'article 30-2.
 

@@ -1,0 +1,3 @@
+# Article 98
+
+Lorsque la ressource radioélectrique n'est pas suffisante pour permettre, dans certaines zones géographiques, la diffusion de l'ensemble des services de télévision préalablement autorisés par application des articles 26 et 30-1, le Conseil supérieur de l'audiovisuel peut retirer, dans des zones géographiques limitées et selon des modalités fixées par décret, la ressource radioélectrique en mode analogique assignée à un ou plusieurs services de télévision nationale préalablement autorisés, à la condition de leur accorder, sans interruption du service, le droit d'usage de la ressource radioélectrique en mode numérique permettant une couverture au moins équivalente.

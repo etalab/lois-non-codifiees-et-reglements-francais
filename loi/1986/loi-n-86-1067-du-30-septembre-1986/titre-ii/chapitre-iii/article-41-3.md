@@ -20,4 +20,4 @@ b) Constitue un réseau de diffusion à caractère national tout réseau qui des
 
 6° bis Tout service diffusé par voie hertzienne terrestre en mode numérique, autorisé après appel aux candidatures et consistant pour l'outre-mer en la reprise intégrale d'un programme national autorisé sur le territoire métropolitain, édité par la même personne morale, est regardé comme un seul service diffusé par voie hertzienne terrestre ;
 
-7° L'audience potentielle d'un service de communication audiovisuelle s'entend de la population recensée dans les communes ou parties de communes situées dans la zone de desserte de ce service.
+7° L'audience potentielle d'un service de communication audiovisuelle s'entend de la population recensée dans les communes ou parties de communes situées dans la zone de desserte de ce service. Pour le calcul de l'audience potentielle des services diffusé s en télévision mobile personnelle, les programmes consistant, dans les conditions prévues au 14° de l'article 28, en la rediffusion intégrale ou partielle d'un même service de télévision sont regardés comme des services distincts.

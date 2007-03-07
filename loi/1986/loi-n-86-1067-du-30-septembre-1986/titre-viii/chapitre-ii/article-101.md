@@ -1,0 +1,3 @@
+# Article 101
+
+Un ou plusieurs groupements d'intérêt public peuvent être créés pour la mise en oeuvre des mesures propres à permettre l'extinction de la diffusion des services de télévision par voie hertzienne terrestre en mode analogique et la continuité de la réception de ces services par les téléspectateurs dans les départements, régions et territoires d'outre-mer. Ils sont régis par l'article 100, à l'exception de son deuxième alinéa. Ils sont constitués, sans capital, entre l'Etat et les éditeurs de services de télévision diffusés par voie hertzienne terrestre en mode analogique dans chacun de ces territoires.

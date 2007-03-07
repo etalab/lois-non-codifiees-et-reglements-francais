@@ -1,5 +1,7 @@
-# TITRE VIII : DISPOSITIONS TRANSITOIRES ET FINALES.
+# TITRE VIII : DISPOSITIONS RELATIVES A LA MODERNISATION DE LA DIFFUSION AUDIOVISUELLE
 
+- [Chapitre Ier : Extension de la couverture de la télévision numérique.](chapitre-ier)
+- [Chapitre II : Extinction de la diffusion hertzienne terrestre analogique.](chapitre-ii)
 - [Article 96](article-96.md)
 - [Article 97](article-97.md)
 - [Article 98](article-98.md)
@@ -9,10 +11,6 @@
 - [Article 103](article-103.md)
 - [Article 104](article-104.md)
 - [Article 105](article-105.md)
-- [Article 105-1](article-105-1.md)
 - [Article 106](article-106.md)
-- [Article 107](article-107.md)
 - [Article 108](article-108.md)
-- [Article 109](article-109.md)
-- [Article 110](article-110.md)
 - [Article 111](article-111.md)
