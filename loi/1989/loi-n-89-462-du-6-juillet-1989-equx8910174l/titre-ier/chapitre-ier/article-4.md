@@ -14,7 +14,7 @@ e) Qui prévoit la responsabilité collective des locataires en cas de dégradat
 
 f) Par laquelle le locataire s'engage par avance à des remboursements sur la base d'une estimation faite unilatéralement par le bailleur au titre des réparations locatives ;
 
-g) Qui prévoit la résiliation de plein droit du contrat en cas d'inexécution des obligations du locataire pour un motif autre que le non-paiement du loyer, des charges, du dépôt de garantie, la non-souscription d'une assurance des risques locatifs ;
+g) Qui prévoit la résiliation de plein droit du contrat en cas d'inexécution des obligations du locataire pour un motif autre que le non-paiement du loyer, des charges, du dépôt de garantie, la non-souscription d'une assurance des risques locatifs ou le non-respect de l'obligation d'user paisiblement des locaux loués, résultant de troubles de voisinage constatés par une décision de justice passée en force de chose jugée ;
 
 h) Qui autorise le bailleur à diminuer ou à supprimer, sans contrepartie équivalente, des prestations stipulées au contrat ;
 

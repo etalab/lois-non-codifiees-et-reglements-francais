@@ -1,0 +1,9 @@
+# Article 98-1
+
+Les éditeurs de services nationaux en clair diffusés par voie hertzienne terrestre en mode numérique mettent ensemble leur offre de programmes terrestres à disposition d'un même distributeur de services par voie satellitaire ou d'un même opérateur de réseau satellitaire, pour une couverture au moins équivalente à celle de la diffusion analogique terrestre des services de télévision nationaux en clair, dans un délai de trois mois à compter de la promulgation de la loi n° 2007-309 du 5 mars 2007 relative à la modernisation de la diffusion audiovisuelle et à la télévision du futur.
+
+Tout distributeur de services par voie satellitaire dont l'offre de programmes comprend l'ensemble des services nationaux de télévision diffusés en clair par voie hertzienne terrestre en mode numérique, y compris le service spécifiquement destiné au public métropolitain édité par la société mentionnée au 4° du I de l'article 44, peut, nonobstant toutes dispositions ou stipulations contraires, mettre gratuitement ces programmes à la disposition du public, pour une couverture et une qualité technique au moins équivalentes à celles de la diffusion analogique terrestre des services de télévision nationaux en clair.
+
+Toute offre consistant en la mise à disposition par voie satellitaire de l'ensemble des services nationaux de télévision diffusés en clair par voie hertzienne terrestre en mode numérique n'est conditionnée ni à la location d'un terminal de réception, ni à la souscription d'un abonnement. Elle propose ces services avec la même numérotation que celle utilisée pour la diffusion par voie hertzienne terrestre.
+
+Une de ces offres permet d'assurer sur tout le territoire métropolitain la réception simultanée de l'ensemble des programmes régionaux de la société nationale de programme mentionnée au 2° du I de l'article 44, moyennant compensation de l'Etat à la société mentionnée au premier alinéa du I de l'article 44.

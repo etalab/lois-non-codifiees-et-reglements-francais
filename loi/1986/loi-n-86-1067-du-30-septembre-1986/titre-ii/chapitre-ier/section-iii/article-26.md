@@ -4,13 +4,13 @@ I. - Nonobstant toute disposition contraire des autorisations de droits d'usage 
 
 Si les contraintes techniques l'exigent, le Conseil supérieur de l'audiovisuel peut cependant leur retirer tout ou partie de cette ressource à la condition de leur assigner, sans interruption du service, l'usage de la ressource radioélectrique attribuée à des usages de radiodiffusion permettant une réception de qualité équivalente.
 
-Il peut également leur retirer l'usage de la ressource radioélectrique qui n'est plus nécessaire à l'accomplissement des missions définies à l'article 43-11 et par leurs cahiers des missions et des charges.
+A la demande du Gouvernement, il leur retire l'usage de la ressource radioélectrique lorsque cela s'avère nécessaire à la mise en oeuvre du schéma national d'arrêt de la diffusion analogique et de basculement vers le numérique institué à l'article 99. A la demande du Gouvernement, il peut également leur retirer l'usage de la ressource radioélectrique qui n'est plus nécessaire à l'accomplissement des missions définies à l'article 43-11 et par leurs cahiers des missions et des charges.
 
-II. - Le Conseil supérieur de l'audiovisuel et l'Autorité de régulation des communications électroniques et des postes, respectivement pour les ressources radioélectriques de radiodiffusion et de transmission, accordent en priorité aux sociétés mentionnées à l'article 44 le droit d'usage de la ressource radioélectrique nécessaire à l'accomplissement de leurs missions de service public.
+II. - A la demande du Gouvernement, le Conseil supérieur de l'audiovisuel et l'Autorité de régulation des communications électroniques et des postes, respectivement pour les ressources radioélectriques de radiodiffusion et de transmission, accordent en priorité aux sociétés mentionnées à l'article 44 le droit d'usage de la ressource radioélectrique nécessaire à l'accomplissement de leurs missions de service public. Pour la continuité territoriale des sociétés nationales de programme métropolitaines dans les collectivités françaises d'outre-mer et en Nouvelle-Calédonie, ce droit d'usage est accordé à la société Réseau France outre-mer.
 
 Dans les mêmes conditions, le Conseil supérieur de l'audiovisuel accorde en priorité à la chaîne culturelle européenne issue du traité signé le 2 octobre 1990 le droit d'usage de la ressource radioélectrique nécessaire à l'accomplissement des missions qui lui sont confiées par ce traité.
 
-Dans les mêmes conditions, le Conseil supérieur de l'audiovisuel accorde en priorité à la chaîne visée à l'article 45-2 le droit d'usage de la ressource radioélectrique nécessaire à la diffusion de ses programmes en mode numérique.
+Le Conseil supérieur de l'audiovisuel accorde en priorité à la chaîne visée à l'article 45-2 le droit d'usage de la ressource radioélectrique nécessaire à la diffusion de ses programmes en mode numérique.
 
 Le Conseil supérieur de l'audiovisuel veille à regrouper sur une ou plusieurs fréquences les services des sociétés diffusés en mode numérique qui bénéficient des dispositions des trois alinéas précédents.
 
