@@ -10,4 +10,6 @@ Si la prévention est établie a l'égard du mineur de treize ans, le tribunal p
 
 4° Remise au service de l'assistance à l'enfance ;
 
-5° Placement dans un internat approprié aux mineurs délinquants d'âge scolaire.
+5° Placement dans un internat approprié aux mineurs délinquants d'âge scolaire ;
+
+6° Mesure d'activité de jour, dans les conditions définies à l'article 16 ter.
