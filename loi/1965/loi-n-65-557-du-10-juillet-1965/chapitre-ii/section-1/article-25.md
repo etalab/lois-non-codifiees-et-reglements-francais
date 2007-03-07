@@ -24,7 +24,7 @@ h) La pose dans les parties communes de canalisations, de gaines, et la réalisa
 
 i) La suppression des vide-ordures pour des impératifs d'hygiène ;
 
-j) L'installation ou la modification d'une antenne collective ou d'un réseau interne à l'immeuble dès lors qu'elle porte sur des parties communes ;
+j) L'installation ou la modification d'une antenne collective ou d'un réseau de communications électroniques interne à l'immeuble dès lors qu'elle porte sur des parties communes ;
 
 k) L'autorisation permanente accordée à la police ou à la gendarmerie nationale de pénétrer dans les parties communes;
 
@@ -33,5 +33,3 @@ l) L'installation ou la modification d'un réseau de distribution d'électricit�
 m) L'installation de compteurs d'eau froide divisionnaires.
 
 n) Les travaux à effectuer sur les parties communes en vue de prévenir les atteintes aux personnes et aux biens.
-
-Lorsque l'assemblée générale a décidé d'installer un dispositif de fermeture en application du précédent alinéa, elle détermine aussi, à la même majorité que celle prévue au premier alinéa, les périodes de fermeture totale de l'immeuble compatibles avec l'exercice d'une activité autorisée par le règlement de copropriété. En dehors de ces périodes, la fermeture totale est décidée à la majorité des voix de tous les copropriétaires si le dispositif permet une ouverture à distance et à l'unanimité en l'absence d'un tel dispositif.
