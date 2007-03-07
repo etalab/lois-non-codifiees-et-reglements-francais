@@ -1,3 +1,5 @@
 # Article 9-1
 
-Dans les communes non inscrites au schéma départemental, le maire peut, par voie d'assignation délivrée aux occupants et, le cas échéant, au propriétaire du terrain ou au titulaire d'un droit réel d'usage, saisir le président du tribunal de grande instance aux fins de faire ordonner l'évacuation forcée des résidences mobiles installées sur un terrain privé n'appartenant pas à la commune, lorsque le stationnement est de nature à porter atteinte à la salubrité, la sécurité ou la tranquillité publiques.
+Dans les communes non inscrites au schéma départemental et non mentionnées à l'article 9, le préfet peut mettre en oeuvre la procédure de mise en demeure et d'évacuation prévue au II du même article, à la demande du maire, du propriétaire ou du titulaire du droit d'usage du terrain, en vue de mettre fin au stationnement non autorisé de résidences mobiles de nature à porter atteinte à la salubrité, la sécurité ou la tranquillité publiques.
+
+Ces dispositions ne sont pas applicables aux personnes mentionnées au IV de l'article 9. Les personnes objets de la décision de mise en demeure bénéficient des voies de recours mentionnées au II bis du même article.
