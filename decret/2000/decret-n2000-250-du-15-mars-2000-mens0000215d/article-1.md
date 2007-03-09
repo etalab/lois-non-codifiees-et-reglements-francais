@@ -164,13 +164,9 @@ Tours.
 
 Valenciennes.
 
-Versailles-Saint-Quentin-
-
-en-Yvelines.
+Versailles-Saint-Quentin-en-Yvelines.
 
 2. Instituts nationaux polytechniques
-
-Grenoble.
 
 Lorraine.
 
