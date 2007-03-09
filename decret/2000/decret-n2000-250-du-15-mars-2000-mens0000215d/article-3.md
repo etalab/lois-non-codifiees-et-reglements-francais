@@ -26,10 +26,12 @@ Institut national d'histoire de l'art ;
 
 Institut national des langues et civilisations orientales ;
 
+Institut polytechnique de Grenoble ;
+
 Muséum national d'histoire naturelle ;
 
 Observatoire de Paris ;
 
-Palais de la Découverte.
+Palais de la Découverte ;
 
 Université de technologie en sciences des organisations et de la décision de Paris-Dauphine.
