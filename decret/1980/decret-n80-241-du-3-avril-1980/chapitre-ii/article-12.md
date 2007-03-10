@@ -12,4 +12,4 @@ La caisse de prévoyance sociale de Saint-Pierre-et-Miquelon retrace dans des co
 
 5. Le fonds de la gestion administrative ;
 
-6. Le fonds d'action sociale publique.
+6. Le fonds d'action sanitaire et sociale .
