@@ -1,0 +1,3 @@
+# Article 4
+
+Les conditions d'éligibilité mentionnées aux articles 2 et 3 sont examinées par la caisse d'allocations familiales du lieu de résidence de l'intéressé. Une demande d'attestation d'éligibilité à l'aide mentionnée à l'article 1er doit être déposée à la caisse d'allocations familiales dans les trois mois suivant la date de titularisation dans la fonction publique ou de signature du contrat de travail ou de la lettre de promesse d'embauche. Si les conditions sont réunies, la caisse d'allocations familiales remet au demandeur ladite attestation. Cette attestation a une durée de validité de trois mois.
