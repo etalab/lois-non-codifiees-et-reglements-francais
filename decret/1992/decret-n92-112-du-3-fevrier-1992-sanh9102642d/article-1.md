@@ -28,8 +28,8 @@ Une nouvelle bonification indiciaire dont le montant est pris en compte et soumi
 
 11° Conducteurs ambulanciers affectés, à titre permanent, à la conduite des véhicules d'intervention des unités mobiles hospitalières agissant dans le cadre d'un service d'aide médicale urgente ou d'un service mobile d'urgence et de réanimation :
 
-10 points majorés ;
+20 points majorés ;
 
 12° Agents nommés pour exercer les fonctions de gérant de tutelle : 10 points majorés ;
 
-13° Agents chargés, à titre exclusif, de la sécurité incendie dans les établissements répondant aux dispositions relatives aux immeubles de grande hauteur : 10 points majorés.
+13° Agents chargés, à titre exclusif, de la sécurité incendie dans les établissements répondant aux dispositions relatives aux immeubles de grande hauteur ou aux établissements de 1re catégorie accueillant du public  : 10 points majorés.
