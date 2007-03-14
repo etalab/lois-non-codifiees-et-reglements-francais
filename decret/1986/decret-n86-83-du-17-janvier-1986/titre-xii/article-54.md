@@ -4,6 +4,6 @@ L'indemnité de licenciement est égale à la moitié de la rémunération de ba
 
 En cas de rupture avant son terme d'un contrat à durée déterminée, le nombre d'années pris en compte ne peut excéder le nombre de mois qui restait à couvrir jusqu'au terme normal de l'engagement.
 
-Pour les agents qui ont atteint l'âge de soixante ans révolus, l'indemnité de licenciement subit une réduction de 1,67 p. 100 par mois de service au-delà du soixantième anniversaire.
+Pour les agents qui ont atteint l'âge de 60 ans mais ne justifient pas d'une durée d'assurance tous régimes de retraite de base confondus au moins égale à celle exigée pour obtenir une retraite au taux plein, l'indemnité de licenciement subit une réduction de 1,67 % par mois de service au-delà du soixantième anniversaire.
 
 Pour l'application de cet article, toute fraction de services supérieure ou égale à six mois sera comptée pour un an ; toute fraction de services inférieure à six mois sera négligée.

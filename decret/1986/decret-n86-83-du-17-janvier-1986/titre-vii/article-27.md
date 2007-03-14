@@ -4,4 +4,4 @@ Pour la détermination de la durée de services requise pour l'ouverture des dro
 
 Les congés non énumérés à l'alinéa ci-dessus ne font pas perdre l'ancienneté acquise avant leur octroi.
 
-Lorsque l'agent est recruté par contrat à durée déterminée, les congés prévus aux titres III, IV, V et VI ne peuvent être attribués au-delà de la période d'engagement restant à courir.
+Lorsque le contrat est conclu pour une durée déterminée, les congés prévus aux titres III, IV, V et VI ne peuvent être attribués au-delà de la période d'engagement restant à courir.

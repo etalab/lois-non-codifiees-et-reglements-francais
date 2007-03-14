@@ -8,7 +8,7 @@ Aucun agent non titulaire ne peut être engagé :
 
 3° Si, étant de nationalité française, il ne se trouve en position régulière au regard du code du service national ;
 
-4° S'il ne possède les conditions d'aptitude physique requises.
+4° S'il ne remplit pas les conditions d'aptitude physique exigées pour l'exercice des fonctions compte tenu des possibilités de compensation du handicap.
 
 Les mêmes certificats médicaux que ceux exigés pour être nommé à un emploi de fonctionnaire titulaire par la réglementation en vigueur doivent être produits au moment de l'engagement.
 

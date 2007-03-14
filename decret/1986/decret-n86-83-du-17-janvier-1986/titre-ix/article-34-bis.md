@@ -1,8 +1,12 @@
 # Article 34 bis
 
-L'autorisation d'accomplir un service à temps partiel selon les quotités de 50 %, 60 %, 70 % et 80 % est accordée de plein droit aux agents non titulaires employés depuis plus d'un an à temps complet ou en équivalent temps plein à l'occasion de chaque naissance jusqu'au troisième anniversaire de l'enfant ou de chaque adoption jusqu'à l'expiration d'un délai de trois ans à compter de l'arrivée au foyer de l'enfant adopté.
+L'autorisation d'accomplir un service à temps partiel selon les quotités de 50 %, 60 %, 70 % et 80 % est accordée de plein droit aux agents non titulaires :
 
-L'autorisation d'accomplir un service à temps partiel est également accordée de plein droit à l'agent non titulaire pour donner des soins à son conjoint, à un enfant à charge ou à un ascendant atteint d'un handicap nécessitant la présence d'une tierce personne, ou victime d'un accident ou d'une maladie grave.
+1° Lorsqu'ils sont employés depuis plus d'un an à temps complet ou en équivalent temps plein à l'occasion de chaque naissance jusqu'au troisième anniversaire de l'enfant ou de chaque adoption jusqu'à l'expiration d'un délai de trois ans à compter de l'arrivée au foyer de l'enfant adopté ;
+
+2° Lorsqu'ils relèvent des catégories visées aux 1°, 2°, 3°, 4°, 9°, 10 et 11 de l'article L. 323-3 du code du travail, après avis du médecin de prévention. Cet avis est réputé rendu lorsque ce médecin ne s'est pas prononcé au terme d'un délai de deux mois à compter de la date de la saisine ;
+
+3° Pour donner des soins à leur conjoint, à un enfant à charge ou à un ascendant atteint d'un handicap nécessitant la présence d'une tierce personne, ou victime d'un accident ou d'une maladie grave.
 
 Pour les personnels enseignants, les personnels d'éducation et de documentation des écoles et des établissements d'enseignement ainsi que pour les personnels d'orientation en service dans les centres d'information et d'orientation, le bénéfice du temps partiel de droit pour raisons familiales ne peut être accordé en cours d'année scolaire qu'à l'issue du congé de maternité, du congé de paternité ou du congé d'adoption prévus à l'article 15 du présent décret, soit après la naissance ou l'arrivée au foyer de l'enfant adopté ou lors de la survenance des événements prévus au deuxième alinéa du présent article ou du congé parental prévu à l'article 19. Sauf cas d'urgence, la demande doit être présentée au moins deux mois avant le début de la période d'exercice à temps partiel de droit.
 

@@ -6,6 +6,8 @@ Lorsque l'agent non titulaire est recruté par un contrat à durée déterminée
 
 - au début du mois précédant le terme de l'engagement pour l'agent recruté pour une durée supérieure ou égale à six mois et inférieure à deux ans ;
 
-- au début du deuxième mois précédant le terme de l'engagement pour l'agent recruté pour une durée supérieure ou égale à deux ans.
+- au début du deuxième mois précédant le terme de l'engagement pour l'agent recruté pour une durée supérieure ou égale à deux ans ;
+
+- au début du troisième mois précédant le terme de l'engagement pour le contrat susceptible d'être reconduit pour une durée indéterminée. Dans ce cas, la notification de la décision doit être précédée d'un entretien.
 
 Lorsqu'il est proposé de renouveler le contrat, l'agent non titulaire dispose d'un délai de huit jours pour faire connaître, le cas échéant, son acceptation. En cas de non-réponse dans ce délai, l'intéressé est présumé renoncer à l'emploi.

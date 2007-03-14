@@ -2,9 +2,9 @@
 
 I. - Pour l'agent non titulaire employé de manière continue et justifiant d'une ancienneté minimale d'un an à la date de naissance de son enfant ou de l'arrivée au foyer d'un enfant qui est adopté ou confié en vue de son adoption et qui n'a pas encore atteint l'âge de la fin de l'obligation scolaire, le congé parental est accordé de droit sur sa demande :
 
-- à la mère, après un congé de maternité, après un congé d'adoption ou à l'arrivée au foyer de l'enfant adopté ;
+- soit à la mère, après un congé de maternité, après un congé d'adoption ou à l'arrivée au foyer de l'enfant adopté ;
 
-- au père, après la naissance ou après un congé de paternité ou à l'arrivée au foyer de l'enfant adopté.
+- soit au père, après la naissance ou après un congé de paternité ou à l'arrivée au foyer de l'enfant adopté.
 
 Il prend fin au plus tard au troisième anniversaire de l'enfant ou, en cas d'adoption à l'expiration d'un délai de trois ans, à compter de l'arrivée au foyer de l'enfant de moins de trois ans, ou à l'expiration d'un délai d'un an à compter de l'arrivée au foyer d'un enfant âgé de trois ans ou plus qui n'a pas atteint l'âge de la fin de l'obligation scolaire.
 

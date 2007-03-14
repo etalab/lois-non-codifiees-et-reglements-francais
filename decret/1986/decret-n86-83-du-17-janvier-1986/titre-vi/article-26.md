@@ -4,7 +4,7 @@ L'agent non titulaire qui accomplit les obligations du service national actif es
 
 L'agent non titulaire qui accomplit une période d'instruction obligatoire est mis en congé avec traitement pour la durée de cette période.
 
-L'agent non titulaire qui exerce une activité dans la réserve opérationnelle est placé en congé avec traitement lorsque la durée de cette activité est inférieure ou égale à trente jours par année civile et en congé sans traitement pour la période excédant cette durée.
+L'agent non titulaire qui accomplit soit une période d'activité dans la réserve opérationnelle sur son temps de travail pour une durée inférieure ou égale à trente jours cumulés par année civile, soit une période d'activité dans la réserve de sécurité civile d'une durée inférieure ou égale à quinze jours cumulés par année civile est mis en congé avec traitement pour la durée de la période considérée et en congé sans traitement pour la période excédant ces durées.
 
 Au terme d'une période d'activité dans la réserve opérationnelle, l'agent est réemployé sur son précédent emploi ou un emploi équivalent, dans les conditions de réemploi définies aux articles 32 et 33 ci-dessous.
 

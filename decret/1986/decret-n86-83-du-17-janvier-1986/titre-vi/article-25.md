@@ -1,3 +1,5 @@
 # Article 25
 
-L'agent non titulaire relevant de l'incompatibilité visée à l'article 12 de l'ordonnance n° 58-998 du 24 octobre 1958 portant loi organique relative aux conditions d'éligibilité et aux incompatibilités parlementaires est placé en congé sans traitement pour la durée de son mandat ; au terme de son mandat, il est réemployé s'il est physiquement apte dans les conditions définies à l'article 32 ci-dessous.
+L'agent non titulaire appelé à exercer les fonctions de membre du Gouvernement ou à remplir un mandat de membre de l'Assemblée nationale ou du Sénat ou du Parlement européen est placé en congé sans traitement pendant l'exercice de ses fonctions ou pour la durée de son mandat.
+
+Au terme de ses fonctions ou de son mandat, l'agent est réintégré à sa demande, dans son précédent emploi ou un emploi analogue assorti d'une rémunération identique, dans les deux mois suivant la date à laquelle il a avisé son employeur.
