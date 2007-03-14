@@ -45,7 +45,6 @@
 - [Décret du 3 avril 1991 (ENVN9161927D)](decret-du-3-avril-1991-envn9161927d)
 - [Décret n°90-786 du 3 septembre 1990 (SPSS9000752D)](decret-n90-786-du-3-septembre-1990-spss9000752d)
 - [Décret n°90-787 du 3 septembre 1990 (SPSS9000753D)](decret-n90-787-du-3-septembre-1990-spss9000753d)
-- [Décret n°91-1216 du 3 décembre 1991 (SANP9102635D)](decret-n91-1216-du-3-decembre-1991-sanp9102635d)
 - [Décret n°91-1230 du 3 décembre 1991 (ECOC9100104D)](decret-n91-1230-du-3-decembre-1991-ecoc9100104d)
 - [Décret n°91-340 du 3 avril 1991 (ECOC9100022D)](decret-n91-340-du-3-avril-1991-ecoc9100022d)
 - [Décret n°91-503 du 3 juin 1991 (PRMX9100088D)](decret-n91-503-du-3-juin-1991-prmx9100088d)

@@ -11,7 +11,6 @@
 - [Titre IX : Travail à temps partiel](titre-ix)
 - [Titre IX bis : Cessation progressive d'activité.](titre-ix-bis)
 - [Titre IX ter : Cessation totale d'activité.](titre-ix-ter)
-- [Titre X : Discipline.](titre-x)
 - [Titre XI : Fin du contrat - Licenciement](titre-xi-fin)
 - [Titre XII : Indemnité de licenciement](titre-xii)
 - [Titre XIII : Dispositions diverses](titre-xiii)
