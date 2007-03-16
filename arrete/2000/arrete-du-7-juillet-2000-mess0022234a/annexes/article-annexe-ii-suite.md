@@ -444,7 +444,7 @@ Construction et réparation terrestres et maritimes (CRTM), quartier du Perroque
 
 Constructions et Installations électriques du littoral, 18, rue Anatole-France, 83000 Toulon, puis 1, boulevard Albert-Ier, 83500 La Seyne-sur-Mer, puis ZI Camp Laurent, 83500 La Seyne-sur-Mer : depuis 1946.
 
-Contrôle mesure régulation (CMR), technopole du Château-Gombert, 7, rue John-Maynard-Keynes, BP 85, 13381 Marseille Cedex 13 : de 1958 à 2002
+Contrôle Mesure Régulation (CMR), 12, rue Traverse-Magnan, 13003 Marseille Cedex, de 1958 à 1994, puis 7, rue John-Maynard-Keynes, technopôle de Château-Gombert, BP 85, 13381 Marseille Cedex, de 1995 à 2002.
 
 Coopérative des travaux industriels 113, boulevard de Paris, 13002 Marseille. De 1934 à 1970
 
@@ -946,7 +946,7 @@ SIREP :
 
 SMPN Société méridionale de peinture et nettoyage Enceinte portuaire, forme 7, local 15, 13002 Marseille. De 1985 à 1997.
 
-SNEF Electric Flux : 87, boulevard des Aygalades, 13015 Marseille, impasse de l'Espérance, 13006 Marseille, ZI du Camp Laurent, chemin Robert-Brun, 83500 La Seyne-sur-Mer : depuis 1951
+SNEF ELECTRIC FLUX, impasse de l'Espérance, 13006 Marseille, de 1951 à 1975, puis, 87, avenue des Aygalades, 13015 Marseille, de 1975 à 1985, ZI du Camp-Laurent, chemin Robert-Brun, 83500 La Seyne-sur-Mer, depuis 1951.
 
 SNM :
 
@@ -1086,7 +1086,7 @@ SOTRASUD :
 
 SOVAGAME. 140, avenue Louis-Lagrange, ZI Toulon Est, La Garde, 83088 Toulon. De 1995 à 1997.
 
-SOVAMEC. 423, avenue A.-Gance, 83130 La Garde. De 1991 à 1995.
+SOVAMEC, 423, avenue A.-Gance, 83130 La Garde, de 1983 à 1995.
 
 SRPAM, quai de la Lecque, BP 205, 13528 Port-de-Bouc Cedex, et les quais, forme 10, L'Estaque, 13016 Marseille : de 1966 à 1997.
 

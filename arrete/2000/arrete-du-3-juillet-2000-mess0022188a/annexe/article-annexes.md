@@ -778,13 +778,15 @@ Société lilloise de matériaux enrobés (SLME), Port fluvial, 59211 Santes : d
 
 Basse-Normandie
 
-Moulinex, 2, rue de l'Industrie, 14123 Cormelles-le-Royal, de 1964 à 1988, 25, avenue Jean-Mantelet, 61000 Alençon, de 1969 à 1986 ;
+Moulinex/Socam/Socamec, 2, rue de l'Industrie, 14123 Cormelles-le-Royal, de 1964 à 1988 ;
+
+le Moulin Légume/Moulinex/Mecanor,  25, avenue Jean-Mantelet, 61000 Alençon, de 1969 à 1986 ;
 
 Moulinex société Marbo, ZI Le Bois Launay, BP 19, 61700 Domfront, de 1973 à 1988 ;
 
 Moulinex, ZI de la Capelle, 50008 Saint-Lô, de 1973 à 1993 ;
 
-Moulinex, 25, rue du Commerce, 61200 Argentan : de 1962 à 1986 ;
+Moulinex/Soconel, 25, rue du Commerce, 61200 Argentan : de 1962 à 1986 ;
 
 Moulinex/Famelec, 14700 Falaise : de 1965 à 1993 ;
 
@@ -822,11 +824,11 @@ Isotherma, ZA du Bon-Marais, 76530 Grand-Couronne : de 1952 à 1999.
 
 Lebrun Albert, rue du Clos-au-Blé, 76530 Grand-Couronne, puis rue raspail, BP 23, 76140 Saint-aubin-lès-Elbeuf : de 1960 à 1996 ;
 
-les Fours Gouet SA, rue Edmond-Lavernot, 76260 Eu : depuis 1963 ;
+les Fours Gouet SA, rue Edmond-Lavernot, 76260 Eu : de 1963 à 1996 ;
 
 Lincoln Electric France, avenue Franklin-Roosevelt, BP 214, 76121 Le Grand-Quevilly Cedex : de 1947 à 1990 ;
 
-Normandie Isolation, 76830 Dieppedalle-Croisset : de 1954 à 1985.
+Normandie Isolation, 76830 Dieppedalle-Croisset : de 1954 à 1985 ;
 
 Ouest-Isol, rue Grande-Epine, 76800 Saint-Etienne-de-Rouvray : de 1973 à 1996 ;
 

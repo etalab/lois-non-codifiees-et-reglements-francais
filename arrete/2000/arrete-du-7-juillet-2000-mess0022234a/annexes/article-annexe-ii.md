@@ -1048,9 +1048,7 @@ Caillard Normandie/AFO (Ateliers français de l'Ouest) :
 
 CGT/CGM/SPIN/CMA-CGM/ARNO/COGER/SIREN (Société industrielle de réparation et d'entretien de navires), rue Bellot, BP 534, 76068 Le Havre, quai de l'Europe, 76600 Le Havre, et route du Môle-Central, 76600 Le Havre : depuis 1955, puis SORENI, route du Môle-Central, 76600 Le Havre : à partir du 1er novembre 2001.
 
-Chambre de commerce et d'industrie de Dieppe, 4, boulevard du Général-de-Gaulle, 76374 Dieppe Cedex,
-
-de 1956 à 1986.
+Chambre de commerce et d'industrie de Dieppe, 4, boulevard du Général-de-Gaulle, 76374 Dieppe Cedex, quai du Maroc, 76200 Dieppe, de 1956 à 1986.
 
 Chantier de Normandie/Chantiers réunis Dubigeon Normandie/AFO/ARNO/Ateliers de la Manche/Manche industrie marine/Manche SA :
 
@@ -1428,9 +1426,7 @@ Béliard/France Dunkerque/Flandres Industrie/Béliard Crichton et Cie/Ateliers e
 
 Blitz Electricité, 32-36, quai Gustave-Lamarle, 62100 Calais : de 1963 à 1993.
 
-Boccard SA :
-
-- rue Armand-Carrel, 59140 Dunkerque : depuis 1981.
+Boccard SA, rue Armand-Carrel, 59140 Dunkerque, de 1976 à 1978.
 
 Boulogne électronique marine (BEM), 17-19, rue A.-Lavocat, 62200 Boulogne-sur-Mer : depuis 1999.
 
@@ -1602,9 +1598,7 @@ Etablissement Vandersluys, 34, rue de Bergues, 59210 Coudekerque-Branche : de 19
 
 FDR France Dunkerque Rosendaël, 1, rue des Oyats, 59140 Dunkerque : de 1980 à 1998
 
-Fives Cail Babcock (FCB), route de l'Ecluse-Watier, 59140 Dunkerque, puis FCB, BP 5307, 59379 Dunkerque Cedex 01, puis FCB, 5, rue de l'Abbé-Grégoire, 59760 Grande-Synthe, puis CMI Service Nord, rue de l'Industrie, 59820 Gravelines : depuis 1960.
-
-- BP 5307, 59379 Dunkerque, puis 5, rue de l'Abbé-Grégoire, 59760 Grande-Synthe, puis ZAE La Semeuse, rue de l'Industrie, 59820 Gravelines : depuis 1960.
+Fives Cail Babcock (FCB), route de l'Ecluse-Watier, 59140 Dunkerque, puis FCB, BP 5307, 59379 Dunkerque Cedex 1, puis FCB, 5, rue de l'Abbé-Grégoire, 59760 Grande-Synthe, puis CMI Service Nord, rue de l'Industrie, 59820 Gravelines, de 1960 à 2001.
 
 Ateliers Rogliano, cale de Radoub :
 
@@ -1640,7 +1634,7 @@ HRC, 140, avenue Sarraz-Bournet, 62480 Le Portel : depuis 1995.
 
 Ingénieries-réalisation, 11, route de Saint-Omer, Le Klap-Hoek, 59380 Quaedypre : depuis 1984.
 
-Injection et régulation marime (IRM), 243, avenue Maurice-Berteaux, BP 6, 59430 Saint-Pol-sur-Mer : depuis 1980.
+Injection et régulation marine (IRM), 243, avenue Maurice-Berteaux, BP 6, 59430 Saint-Pol-sur-Mer, de 1980 à 2001.
 
 Jackie Defosse/Defosse industrie SARL, 7, rue Roger-Salengro, 62230 Outreau : de 1982 à 2001
 
