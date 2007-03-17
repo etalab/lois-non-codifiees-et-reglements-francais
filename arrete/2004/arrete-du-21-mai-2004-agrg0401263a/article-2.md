@@ -1,6 +1,6 @@
 # Article 2
 
-L'autorisation d'exercer la médecine et la chirurgie des animaux en France peut être accordée par une commission ad hoc aux ressortissants mentionnés à l'article 1er du présent arrêté. Cette commission examine, d'une part, les diplômes, certificats ou autres titres de vétérinaire acquis hors de l'Union européenne ou de la Suisse lorsqu'ils sont reconnus dans un Etat membre de l'Union européenne ou en Suisse et, d'autre part, la formation et/ou l'expérience professionnelle acquises dans un Etat membre de l'Union européenne ou en Suisse. La demande de l'intéressé doit être accompagnée des pièces justificatives suivantes :
+L'autorisation d'exercer la médecine et la chirurgie des animaux en France peut être accordée par une commission ad hoc aux ressortissants mentionnés à l'article 1er du présent arrêté. Cette commission examine, d'une part, les diplômes, certificats ou autres titres de vétérinaire acquis hors de l'Union européenne ou de la Suisse lorsqu'ils sont reconnus dans un Etat membre de l'Union européenne ou en Suisse et, d'autre part, la formation et/ou l'expérience professionnelle acquises dans un Etat membre de l'Union européenne, en Suisse ou dans un pays tiers. La demande de l'intéressé doit être accompagnée des pièces justificatives suivantes :
 
 - curriculum vitae ;
 

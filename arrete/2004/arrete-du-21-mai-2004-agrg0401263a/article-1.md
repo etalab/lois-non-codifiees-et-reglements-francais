@@ -62,6 +62,19 @@ La liste des diplômes, certificats ou titres de vétérinaire mentionnée à l'
 <td valign="top" width="159"/>
 </tr>
 <tr>
+<td align="left" valign="top">
+<p align="left">Bulgarie</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Диплома за висше образование на образователно-квалификационна</p>
+<p>степен магистър по специалност Ветеринарна медицина с профес-<br/>ионална квалификация</p>
+<p>Ветеринарен</p>лекар</td>
+<td align="left" valign="top">
+<p align="left">1. Лесотехнически университет - Факултет по ветеринарна медицина2. Тракийски университет - Факултет по ветеринарна медицина</p>
+</td>
+<td align="left" valign="top"/>
+</tr>
+<tr>
 <td valign="top" width="102">
 <p>Chypre.</p>
 </td>
@@ -279,6 +292,18 @@ La liste des diplômes, certificats ou titres de vétérinaire mentionnée à l'
 <td valign="top" width="159"/>
 </tr>
 <tr>
+<td align="left" valign="top">
+<p align="left">Roumanie</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Diplomă de licenţă de doctor medic veterinar</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Universităţi</p>
+</td>
+<td align="left" valign="top"/>
+</tr>
+<tr>
 <td rowspan="6" valign="top" width="102">
 <p>Royaume-Uni.</p>
 </td>
@@ -294,42 +319,46 @@ La liste des diplômes, certificats ou titres de vétérinaire mentionnée à l'
 <td>
 <p align="left">2. Bachelor of Veterinary Science (BVSc).</p>
 </td>
-<td>2. University of Liverpool.</td>
+<td>
+<p align="left">2. University of Liverpool.</p>
+</td>
 <td/>
 </tr>
 <tr>
-<td>
-<p align="left">3. Bachelor of Veterinary Medicine (BvetMB).</p>
+<td align="left" valign="top">
+<p>3. Bachelor of Veterinary Medicine (BvetMB).</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="left">3. University of Cambridge.</p>
 </td>
-<td/>
+<td align="left" valign="top"/>
 </tr>
 <tr>
-<td>
+<td align="left" valign="top">
 <p align="left">4. Bachelor of Veterinary Medicine and Surgery (BVM&amp;S).</p>
 </td>
-<td>4. University of Edinburgh.</td>
-<td/>
+<td align="left" valign="top">
+<p align="left">4. University of Edinburgh.</p>
+</td>
+<td align="left" valign="top"/>
 </tr>
 <tr>
-<td>
+<td align="left" valign="top">
 <p align="left">5. Bachelor of Veterinary Medicine and Surgery (BVM&amp;S).</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="left">5. University of Glasgow.</p>
 </td>
-<td/>
+<td align="left" valign="top"/>
 </tr>
 <tr>
-<td>
-<p>6. Bachelor of Veterinary Medicine (BvetMed).</p>
+<td align="left" valign="top">
+<p align="left">6. Bachelor of Veterinary Medicine (BvetMed).</p>
 </td>
-<td>
-<p>6. University of London.</p>
+<td align="left" valign="top">
+<p align="left">6. University of London.</p>
 </td>
-<td/>
+<td align="left" valign="top"/>
 </tr>
 <tr>
 <td valign="top" width="102">
