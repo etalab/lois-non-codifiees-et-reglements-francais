@@ -14,7 +14,7 @@ On entend par lot :
 
 - la production de cordes réalisée au cours d'une semaine ;
 
-- la production d'un broyage de poudre au minimum et de 120 kg au maximum ;
+- la production d'un broyage de poudre au minimum et de 180 kg au maximum ;
 
 - pour la poudre conditionnée, un lot ou partie de lot de poudre ayant préalablement obtenu un certificat d'agrément et conditionné par un même opérateur.
 

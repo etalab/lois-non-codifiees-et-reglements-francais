@@ -4,7 +4,7 @@ La déclaration d'aptitude doit être adressée par l'opérateur aux services de
 
 La demande d'identification des parcelles doit être adressée par le producteur aux services de l'Institut national de l'origine et de la qualité avant le 1er février précédant la mise en culture.
 
-La déclaration annuelle de plantation est adressée par le producteur aux services de l'Institut national de l'origine et de la qualité avant le 15 juillet.
+La déclaration de plantation est adressée par le producteur aux services de l'Institut national de l'origine et de la qualité dans les huit jours suivant la plantation de chaque parcelle.
 
 La déclaration annuelle de début de récolte doit être adressée par tout producteur aux services de l'Institut national de l'origine et de la qualité au plus tard 48 heures avant le début de la récolte de piment.
 

@@ -10,6 +10,6 @@ Les seuls apports de matières organiques autorisés sont ceux d'origine agricol
 
 Les traitements phytosanitaires systématiques sont interdits.
 
-L'irrigation est interdite hors période de repiquage. Toutefois, en cas de sécheresse persistante, les services de l'Institut national de l'origine et de la qualité peuvent autoriser cette pratique sur proposition du syndicat de défense de l'appellation.
+Au-delà d'une période maximale d'un mois à compter du début de la plantation de la parcelle et au plus tard au 15 juillet, l'irrigation est interdite. Toutefois, en cas de sécheresse persistante, les services de l'Institut national de l'origine et de la qualité peuvent prévoir des dérogations sur demande du syndicat de défense de l'appellation.
 
 Les parcelles peuvent faire l'objet d'une protection contre le gel du 1er avril au 31 mai et en fin de culture à partir du 25 octobre.
