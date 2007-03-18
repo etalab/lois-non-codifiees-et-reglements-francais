@@ -8,13 +8,9 @@ Attaché de direction de l'Institution nationale des invalides ;
 
 Agents assurant les fonctions d'encadrement des services des admissions et soins externes et du personnel ;
 
-Chef des services économiques ;
-
 Agents assurant les fonctions de correspondant informatique ;
 
 Maître ouvrier ou maître ouvrier principal exerçant les fonctions de chef d'atelier chargé de l'entretien du patrimoine immobilier et mobilier de l'Institution nationale des invalides ;
-
-Agents assurant la responsabilité d'unités administratives ;
 
 Agents exerçant à temps complet des tâches budgétaires et comptables avec utilisation de l'informatique.
 
@@ -28,6 +24,10 @@ Agent assurant les fonctions d'adjoint au chef des ateliers ;
 
 Agent assurant les fonctions d'adjoint au chef du service général ;
 
-Agent assurant les fonctions d'encadrement de la section des marchés publics.
+Agent assurant les fonctions de responsable en matière d'hygiène et de sécurité du travail ;
 
-Agent assurant les fonctions  de responsable en matière d'hygiène et de sécurité du travail.
+- agent assurant les fonctions d'encadrement du service du budget ;
+
+- agent assurant les fonctions d'encadrement du service des achats et de l'approvisionnement ;
+
+- agent assurant les fonctions de responsable du service d'information hospitalière.
