@@ -778,9 +778,11 @@ Société lilloise de matériaux enrobés (SLME), Port fluvial, 59211 Santes : d
 
 Basse-Normandie
 
+Cegedur puis Tréfimétaux : 37 et 39, rue Georges-Landry, 14160 Dives-sur-Mer, de 1946 à 1986 ;
+
 Moulinex/Socam/Socamec, 2, rue de l'Industrie, 14123 Cormelles-le-Royal, de 1964 à 1988 ;
 
-le Moulin Légume/Moulinex/Mecanor,  25, avenue Jean-Mantelet, 61000 Alençon, de 1969 à 1986 ;
+le Moulin Légume/Moulinex/Mecanor, 25, avenue Jean-Mantelet, 61000 Alençon, de 1969 à 1986 ;
 
 Moulinex société Marbo, ZI Le Bois Launay, BP 19, 61700 Domfront, de 1973 à 1988 ;
 
