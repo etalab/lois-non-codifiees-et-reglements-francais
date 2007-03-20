@@ -503,7 +503,6 @@
 - [Décret n°96-834 du 20 septembre 1996 (TASS9623352D)](decret-n96-834-du-20-septembre-1996-tass9623352d)
 - [Décret n°96-835 du 20 septembre 1996 (TASS9622941D)](decret-n96-835-du-20-septembre-1996-tass9622941d)
 - [Décret n°96-836 du 20 septembre 1996 (BUDF9620656D)](decret-n96-836-du-20-septembre-1996-budf9620656d)
-- [Décret n°96-850 du 20 septembre 1996 (ENVP9640024D)](decret-n96-850-du-20-septembre-1996-envp9640024d)
 - [Décret n°98-193 du 20 mars 1998 (MESG9810117D)](decret-n98-193-du-20-mars-1998-mesg9810117d)
 - [Décret n°96-430 du 20 mai 1996 (TAST9610596D)](decret-n96-430-du-20-mai-1996-tast9610596d)
 - [Décret n°96-436 du 20 mai 1996 (MAEJ9630011D)](decret-n96-436-du-20-mai-1996-maej9630011d)
