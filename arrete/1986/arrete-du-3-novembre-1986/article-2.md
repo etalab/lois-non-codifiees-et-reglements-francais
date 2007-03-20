@@ -62,6 +62,8 @@ II. - Classes terminales :
 
 8. Russe : 5 heures
 
+9. Chinois : 5 heures
+
 6. Classes terminales S.T.I. :
 
 1. Génie mécanique (quelle que soit l'option) (*)

@@ -1,0 +1,3 @@
+# Article 29
+
+Les dispositions du premier alinéa de l'article 2, de l'article 8, de l'article 10, des deuxième et troisième alinéas de l'article 11, de l'article 13, de l'article 14 et des articles 18 à 21 du présent décret ne sont pas applicables aux demandes d'autorisation à des fins de recherches biomédicales réalisées dans les conditions prévues au titre  II du livre Ier de la partie I du code de la santé publique et portant soit sur des produits mentionnés à l'article L. 5311-1 du code de la santé publique composés en tout ou en partie d'organismes génétiquement modifiés, soit sur les produits composés en tout ou partie d'organismes génétiquement modifiés autres que les produits mentionnés à L. 5311-1 du code de la santé publique.
