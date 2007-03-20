@@ -26,17 +26,11 @@ b) Produits de nettoyage, autres que ceux destinés au rinçage de la vaisselle,
 
 2. Des constituants présentant des effets désinfectants, ou conservateurs, qui sont autorisés dans les produits de nettoyage autres que ceux mentionnés au a et au b du 1 précité ;
 
-3. Des constituants qui sont des organismes génétiquement modifiés mentionnés à l'avant-dernier alinéa du présent article ;
+3. Des constituants qui sont des organismes génétiquement modifiés au sens de l'article L. 531-1 du code de l'environnement ;
 
 4. Des constituants qui appartiennent à la 1re ou à la 2e catégorie des substances classées cancérogène, ou mutagène, ou toxique pour la reproduction et qui, par dérogation au deuxième alinéa du I du présent article, sont autorisés, en très faibles concentrations ne dépassant pas celles qui sont nécessaires pour leur faire jouer un rôle de catalyseur.
 
 Cet arrêté précise, le cas échéant, pour tous les constituants susmentionnés leurs critères de pureté, leurs concentrations maximales et minimales dans les produits de nettoyage, et leurs conditions d'utilisation.
-
-Lorsque les constituants sont des organismes génétiquement modifiés au sens de la loi n° 92-654 du 13 juillet 1992 relative au contrôle de l'utilisation et de la dissémination des organismes génétiquement modifiés et modifiant la loi n° 76-663 du 19 juillet 1976 relative aux installations classées pour la protection de l'environnement, le même arrêté fixe également :
-
-a) L'identification de l'organisme génétiquement modifié autorisé ;
-
-b) Les conditions d'emploi de l'organisme, complétées, le cas échéant, par des dispositions relatives à l'emballage, à l'étiquetage et au mode d'emploi du produit de nettoyage dans lequel il a été introduit, y compris des conditions concernant des écosystèmes ou environnements particuliers.
 
 Ce même arrêté détermine les conditions de concentration auxquelles doivent satisfaire tous les produits destinés au rinçage de la vaisselle.
 

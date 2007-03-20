@@ -4,6 +4,6 @@ Le ministre de l'agriculture tient un catalogue comportant la liste limitative d
 
 L'inscription sur le catalogue est subordonnée à la triple condition que la variété soit distincte, stable et suffisamment homogène.
 
-Pour les espèces qui ne répondent pas aux conditions d'inscription à ce catalogue, le ministre chargé de l'agriculture peut tenir des registres annexes de variétés. L'inscription sur ces registres est faite sur proposition du comité technique permanent de la sélection des plantes cultivées et quand il y a lieu dans le respect de la procédure prévue aux articles 6 et 6-1 pour les plantes génétiquement modifiées.
+Pour les espèces qui ne répondent pas aux conditions d'inscription à ce catalogue, le ministre chargé de l'agriculture peut tenir des registres annexes de variétés. L'inscription d'une variété au catalogue ou aux registres annexes de variétés est faite sur proposition du comité technique permanent de la sélection des plantes cultivées et, le cas échéant, pour les plantes génétiquement modifiées, à l'issue de l'une des procédures mentionnées au deuxième alinéa de l'article 4-1.
 
 Le catalogue peut comporter des listes particulières, notamment une liste des variétés, dont les semences ou les plants peuvent être multipliés en France en vue de leur exportation en dehors de la Communauté économique européenne.

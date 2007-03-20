@@ -20,7 +20,9 @@ Autorisations d'importation de produits issus de l'agriculture biologique proven
 
 Approbation des enregistreurs de température (agriculture, économie et finances) : Décret n° 64-949 du 9 septembre 1964 modifié portant règlement d'administration publique en ce qui concerne les produits surgelés, art. 2-1.
 
-Autorisation d'utilisation, de dissémination et de mise sur le marché des organismes génétiquement modifiés (consommation, agriculture) : Décret n° 94-46 du 5 janvier 1994 fixant les conditions de dissémination volontaire des organismes génétiquement modifiés destinés à l'alimentation humaine autres que les plantes, les semences, les plants ou les animaux ou entrant dans la composition des produits de nettoyage des matériaux et des objets destinés à entrer en contact avec des denrées, produits ou boissons destinés à l'alimentation de l'homme ou des animaux, art. 1er, 13 et 21 ; Décret n° 97-685 du 30 mai 1997 relatif au contrôle de l'utilisation et de la dissémination volontaire d'organismes génétiquement modifiés destinés à entrer dans l'alimentation animale, art. 1er.
+Autorisation de mise sur le marché d'organismes génétiquement modifiés.
+
+Décret n° 73-138 du 12 février 1973 portant application de la loi du 1er août 1905 sur les fraudes et falsifications en ce qui concerne les procédés et les produits utilisés pour le nettoyage des matériaux et objets destinés à entrer en contact avec des denrées, produits et boissons pour l'alimentation de l'homme et des animaux (art. 11-1) - ministres de l'agriculture, de la consommation et de l'industrie.
 
 Agrément des organismes certificateurs de produits agricoles et alimentaires et du mode de production en agriculture biologique (agriculture, alimentation et consommation) : Décret n° 96-193 du 12 mars 1996 relatif à la certification des denrées alimentaires et des produits agricoles non alimentaires et non transformés, art. 8.
 
@@ -92,9 +94,7 @@ Autorisation d'utilisation, de dissémination et de mise sur le marché des orga
 
 - Décret n° 95-487 du 28 avril 1995 fixant les conditions de dissémination volontaire des animaux d'élevage génétiquement modifiés, art. 2, 13, 20-II et 25 ;
 
-- Décret n° 95-1173 du 6 novembre 1995 fixant les procédures particulières applicables aux organismes génétiquement modifiés destinés à entrer dans les médicaments à usage vétérinaires, art. 1er et 9 ;
-
-- Décret n° 97-685 du 30 mai 1997 relatif au contrôle de l'utilisation et de la dissémination volontaire d'organismes génétiquement modifiés destinés à entrer dans l'alimentation animale, art. 16 et 17.
+Décret n° 2007-358 du 19 mars 2007 relatif à la dissémination volontaire à toute autre fin que la mise sur le marché de produits composés en tout ou partie d'organismes génétiquement modifiés (art. 23, 25, 27).
 
 Agrément pour la réalisation d'essais officiellement reconnus des produits phytopharmaceutiques : article R.* 253-11 du code rural.
 
