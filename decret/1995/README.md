@@ -160,7 +160,6 @@
 - [Décret n°95-1162 du 6 novembre 1995 (MCCT9500563D)](decret-n95-1162-du-6-novembre-1995-mcct9500563d)
 - [Décret n°95-1163 du 6 novembre 1995 (DOME9500036D)](decret-n95-1163-du-6-novembre-1995-dome9500036d)
 - [Décret n°95-1169 du 6 novembre 1995 (EQUU9500631D)](decret-n95-1169-du-6-novembre-1995-equu9500631d)
-- [Décret n°95-1172 du 6 novembre 1995 (SANP9502594D)](decret-n95-1172-du-6-novembre-1995-sanp9502594d)
 - [Décret n°95-1173 du 6 novembre 1995 (SANP9502593D)](decret-n95-1173-du-6-novembre-1995-sanp9502593d)
 - [Décret n°95-1174 du 6 novembre 1995 (ECOK9500033D)](decret-n95-1174-du-6-novembre-1995-ecok9500033d)
 - [Décret n°95-1176 du 6 novembre 1995 (REFB9500332D)](decret-n95-1176-du-6-novembre-1995-refb9500332d)
