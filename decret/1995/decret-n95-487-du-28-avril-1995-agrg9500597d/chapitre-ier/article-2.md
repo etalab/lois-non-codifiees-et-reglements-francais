@@ -1,3 +1,3 @@
 # Article 2
 
-L'autorisation prévue par l'article 11 de la loi du 13 juillet 1992 susvisée est délivrée par le ministre chargé de l'agriculture après accord du ministre chargé de l'environnement.
+L'autorité administrative compétente, mentionnée par le décret n° 2007-358 du 19 mars 2007 relatif à la dissémination volontaire à toute autre fin que la mise sur le marché de produits composés en tout ou partie d'organismes génétiquement modifiés, est le ministre chargé de l'agriculture.
