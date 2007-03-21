@@ -20,7 +20,7 @@ Sont également membres de droit de l'observatoire :
 
 - le directeur du budget ou son représentant ;
 
-- le directeur du personnel, de la modernisation et de l'administration du ministère de l'économie, des finances et de l'industrie ou son représentant ;
+- le directeur des personnels et de l'adaptation de l'environnement professionnel du ministère de l'économie, des finances et de l'industrie ou son représentant ;
 
 - le directeur du commerce, de l'artisanat, des services et des professions libérales ou son représentant ;
 
@@ -36,11 +36,13 @@ Sont également membres de droit de l'observatoire :
 
 - le délégué général pour l'armement ou son représentant ;
 
-- le directeur de l'hospitalisation et de l'organisation des soins ou son représentant.
+- le directeur de l'hospitalisation et de l'organisation des soins ou son représentant ;
+
+- le délégué général à l'emploi et à la formation professionnelle.
 
 III. - L'observatoire comprend également les membres suivants :
 
-- les représentants de dix-huit organisations professionnelles, dont au moins deux représentatives des petites et moyennes entreprises ;
+- les représentants de vingt-deux organisations professionnelles, dont au moins deux représentatives des petites et moyennes entreprises ;
 
 - les représentants de deux entreprises publiques constituant des entités adjudicatrices ;
 

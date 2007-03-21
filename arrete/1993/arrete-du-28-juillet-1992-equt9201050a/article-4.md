@@ -1,12 +1,14 @@
 # Article 4
 
-Le président de V.N.F. peut soumettre les dossiers qui lui sont adressés à l'avis d'une commission consultative composée :
+Le président de VNF peut soumettre les dossiers qui lui sont adressés à l'avis d'une commission consultative composée :
 
-a) De deux représentants du ministre chargé des transports, dont le président dont la voix en cas de partage est prépondérante ;
+a) D'un représentant du ministre chargé des transports, président de la commission, dont la voix est prépondérante en cas de partage ;
 
-b) De deux représentants des associations de formation professionnelle liées par une convention avec le ministre chargé des transports ;
+b) D'un représentant de VNF ;
 
-c) De deux représentants des organisations professionnelles de transporteurs les plus représentatives sur le plan national ; ceux-ci, lorsqu'ils sont appelés à siéger, doivent avoir qualité pour représenter la profession de transporteur public de marchandises par bateau de navigation intérieure.
+c) De deux représentants des associations de formation professionnelle dans le secteur du transport fluvial ;
+
+d) De deux représentants des organisations professionnelles de transporteurs fluviaux les plus représentatives sur le plan national : ceux-ci, lorsqu'ils sont appelés à siéger, doivent avoir qualité pour représenter la profession de transporteur public de marchandises par bateau de navigation intérieure.
 
 La commission comprend également des membres suppléants, à raison d'un par membre titulaire.
 

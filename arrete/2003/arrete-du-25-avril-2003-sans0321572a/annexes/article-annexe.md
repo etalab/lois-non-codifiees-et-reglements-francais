@@ -108,7 +108,9 @@ Lorsque la commission, au vu des observations de l'expert, estime que le dossier
 
 Article 14
 
-Lorsque le dossier est jugé recevable, le président désigne aux fins d'expertise soit un collège d'experts, soit, s'il l'estime suffisant, un seul expert. Il fixe la mission du ou des experts sur la base d'une mission type approuvée par la commission, s'assure de leur acceptation et détermine le délai impératif dans lequel le rapport doit être déposé.
+Lorsque le dossier est considéré comme recevable, la commission ou le président, ou un président adjoint, sur délégation de la commission, désigne aux fins d'expertise soit un collège d'experts, soit un seul expert si la commission l'estime suffisant, en application de l'article R. 1142-15-1 du code de la santé publique.
+
+La commission ou le président, sur délégation de la commission, fixe la mission du ou des experts sur la base d'une mission type établie à cet effet par la Commission nationale des accidents médicaux et, le cas échéant, complétée et approuvée par la commission régionale.
 
 Article 15
 
