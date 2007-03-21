@@ -6,7 +6,7 @@ a) "Conservateurs" les substances qui prolongent la durée de conservation des d
 
 b) "Antioxygènes" les substances qui prolongent la durée de conservation des denrées alimentaires en les protégeant des altérations provoquées par l'oxydation, telles que le rancissement des matières grasses et les modifications de la couleur ;
 
-c) "Supports", y compris les solvants porteurs, les substances utilisées pour dissoudre, diluer, disperser ou modifier physiquement de toute autre manière un additif alimentaire sans modifier sa fonction technologique (et sans avoir elles-mêmes de rôle technologique) afin de faciliter son maniement, son application ou son utilisation ;
+c) "supports, y compris les solvants porteurs, les substances utilisées pour dissoudre, diluer, disperser ou modifier physiquement de toute autre manière un additif alimentaire ou un arôme sans modifier sa fonction (et sans avoir elles-mêmes de rôle technologique) afin de faciliter son maniement, son application ou son utilisation ;
 
 d) "Acidifiants" les substances qui augmentent l'acidité d'une denrée alimentaire et/ou lui donnent un goût acide ;
 
