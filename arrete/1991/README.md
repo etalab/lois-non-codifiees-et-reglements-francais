@@ -604,7 +604,6 @@
 - [Arrêté du 22 novembre 1991 (SANP9102580A)](arrete-du-22-novembre-1991-sanp9102580a)
 - [Arrêté du 22 octobre 1980](arrete-du-22-octobre-1980)
 - [Arrêté du 22 octobre 1991 (AGRS9001253A)](arrete-du-22-octobre-1991-agrs9001253a)
-- [Arrêté du 23 août 1991 (SANP9101921A)](arrete-du-23-aout-1991-sanp9101921a)
 - [Arrêté du 23 août 1991 (SANP9101934A)](arrete-du-23-aout-1991-sanp9101934a)
 - [Arrêté du 23 août 1991 (SANP9101935A)](arrete-du-23-aout-1991-sanp9101935a)
 - [Arrêté du 23 avril 1991 (BUDR9105020A)](arrete-du-23-avril-1991-budr9105020a)
