@@ -12,6 +12,6 @@ Le secrétariat général pour l'administration du ministère de la défense con
 
 5° Un code permettant d'identifier l'organisme fournisseur de données ;
 
-6° Les caractéristiques individuelles, au terme de l'année de référence de l'échantillon mentionnée à l'article 1er : situation administrative vis-à-vis du régime, état matrimonial, catégorie socioprofessionnelle, durée totale de carrière, durée totale d'affiliation, dernier département ou territoire de résidence, nombre d'enfants et durée de bonifications des retraites ;
+6° Les caractéristiques individuelles, au terme de l'année de référence de l'échantillon mentionnée à l'article 1er : situation administrative vis-à-vis du régime, état matrimonial, catégorie socioprofessionnelle, durée totale de carrière, durée totale d'affiliation, dernier département ou territoire de résidence, mois et année de naissance de chaque enfant et durée de bonifications des retraites ;
 
 7° Pour chaque année de présence depuis 1945 et jusqu'au terme de ladite année de référence de l'échantillon, la situation administrative de la personne vis-à-vis du régime, les caractéristiques professionnelles (statut civil ou militaire, conditions d'emploi), la durée de cotisation et la rémunération détaillée.

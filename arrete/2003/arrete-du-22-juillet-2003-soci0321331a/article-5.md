@@ -14,4 +14,4 @@ A partir des fichiers de paie de la comptabilité publique, la direction génér
 
 6° Les caractéristiques individuelles, au terme de l'année de référence de l'échantillon mentionnée à l'article 1er, notamment le département ou territoire de résidence ;
 
-7° Pour chaque année de présence depuis 1945 et jusqu'au terme de ladite année de référence de l'échantillon, les caractéristiques professionnelles (catégorie statutaire, catégorie socioprofessionnelle, conditions d'emploi), la rémunération détaillée, le domaine d'emploi, le secteur d'activité, la catégorie juridique de l'organisation, le type de budget regroupé de l'organisme employeur et le nombre d'enfants.
+7° Pour chaque année de présence depuis 1945 et jusqu'au terme de ladite année de référence de l'échantillon, les caractéristiques professionnelles (catégorie statutaire, catégorie socioprofessionnelle, conditions d'emploi), la rémunération détaillée, le domaine d'emploi, le secteur d'activité, la catégorie juridique de l'organisation, le type de budget regroupé de l'organisme employeur et le mois et l'année de naissance de chaque enfant.

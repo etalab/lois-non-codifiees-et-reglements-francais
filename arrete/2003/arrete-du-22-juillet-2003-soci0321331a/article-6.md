@@ -14,4 +14,6 @@ A partir des déclarations annuelles de données sociales, l'Institut national d
 
 6° Les caractéristiques individuelles, au terme de l'année de référence de l'échantillon mentionnée à l'article 1er, notamment le département ou territoire de résidence ;
 
-7° Pour chaque année de présence et organisme employeur depuis 1945 et jusqu'au terme de ladite année de référence, les caractéristiques de la période travaillée, les conditions d'emploi et la catégorie socioprofessionnelle, la rémunération et la catégorie d'employeur.
+7° Pour chaque année de présence et organisme employeur depuis 1945 et jusqu'au terme de ladite année de référence, les caractéristiques de la période travaillée, les conditions d'emploi et la catégorie socioprofessionnelle, la rémunération et la catégorie d'employeur ;
+
+8° L'Institut national de la statistique et des études économiques complète les informations du fichier ainsi obtenu par les données relatives au mois et à l'année de naissance des enfants, au statut matrimonial et à la catégorie socio-professionnelle.
