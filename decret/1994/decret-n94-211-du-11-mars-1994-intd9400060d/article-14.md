@@ -1,5 +1,0 @@
-# Article 14
-
-Les ressortissants des Etats membres de l'Union européenne, des autres Etats parties à l'Espace économique européen et de la Confédération suisse ainsi que les membres de leur famille qui ne peuvent justifier d'un droit au séjour en application de l'article 1er ou dont le comportement constitue une menace pour l'ordre public peuvent faire l'objet, selon le cas, d'une décision de refus de séjour, d'un refus de délivrance ou de renouvellement de la carte de séjour, d'un retrait de cette carte ainsi que d'une mesure d'éloignement. Les motifs de la décision sont portés à la connaissance de l'intéressé. Lorsque cette décision se rapporte à une personne mentionnée à l'article 1er, elle ne peut être prise qu'après avis de la commission du titre de séjour prévue au chapitre II du titre Ier du livre III du code de l'entrée et du séjour des étrangers et du droit d'asile.
-
-La notification des décisions mentionnées au premier alinéa comporte l'indication du délai imparti pour quitter le territoire. Sauf urgence, ce délai ne peut être inférieur à quinze jours lorsque l'intéressé n'a pas reçu de titre de séjour et à un mois dans les autres cas.

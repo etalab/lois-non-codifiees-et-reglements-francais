@@ -1,5 +1,0 @@
-# Article 16
-
-Les membres de la famille visés au n de l'article 1er n'ayant pas la nationalité d'un Etat membre de l'Union européenne, d'un autre Etat partie à l'accord sur l'Espace économique européen ou de la Confédération suisse qui, sans excuse valable, auront omis de solliciter dans les délais réglementaires, selon la catégorie à laquelle ils appartiennent, la délivrance ou le renouvellement de la carte de séjour prévue pour les personnes mentionnées à cet article, seront punis des peines d'amende de la contravention de 5e classe.
-
-Seront punis des mêmes peines les membres de la famille non ressortissants d'un Etat membre de l'Union européenne, d'un autre Etat partie à l'accord sur l'Espace économique européen ou de la Confédération suisse à qui la carte de séjour susmentionnée aura été refusée ou retirée et qui séjourneront sur le territoire national sans ce document ou qui seront porteurs d'un document ou d'un récépissé de demande non valable en infraction aux dispositions réglementaires.

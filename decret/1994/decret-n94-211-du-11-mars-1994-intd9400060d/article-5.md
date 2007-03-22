@@ -1,3 +1,0 @@
-# Article 5
-
-Les ressortissants des Etats membres de l'Union européenne, des autres Etats parties à l'Espace économique européen et de la Confédération suisse ainsi que les membres de leur famille mentionnés à l'article 1er ont le droit de séjourner sur le territoire français aussi longtemps qu'ils appartiennent à l'une des catégories prévues par cet article et sous réserve qu'ils ne constituent pas une menace pour l'ordre public ou ne sont pas atteints d'une des maladies ou infirmités pouvant mettre en danger l'ordre public ou la sécurité publique figurant sur la liste annexée au présent décret.
