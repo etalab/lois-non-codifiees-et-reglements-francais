@@ -606,7 +606,6 @@
 - [Arrêté du 27 mai 1999 (INTC9900309A)](arrete-du-27-mai-1999-intc9900309a)
 - [Arrêté du 27 mai 1999 (MESP9921435A)](arrete-du-27-mai-1999-mesp9921435a)
 - [Arrêté du 27 mai 1999 (MJSK9970045A)](arrete-du-27-mai-1999-mjsk9970045a)
-- [Arrêté du 28 avril 1999 (AGRG9900895A)](arrete-du-28-avril-1999-agrg9900895a)
 - [Arrêté du 28 avril 1999 (EQUU9900503A)](arrete-du-28-avril-1999-equu9900503a)
 - [Arrêté du 28 avril 1999 (MESS9921372A)](arrete-du-28-avril-1999-mess9921372a)
 - [Arrêté du 28 décembre 1998 (DEFD9901009A)](arrete-du-28-decembre-1998-defd9901009a)
