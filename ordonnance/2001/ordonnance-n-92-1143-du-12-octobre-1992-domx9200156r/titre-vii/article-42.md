@@ -12,4 +12,4 @@ Un décret en Conseil d'Etat détermine les modalités d'application de la prés
 
 5° Les modalités de recouvrement des sommes avancées par l'Etat ;
 
-6° Les modalités d'application de l'article 40-1.
+6° Les modalités d'application des articles 40-1 et 40-2.
