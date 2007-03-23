@@ -928,6 +928,14 @@ Sanction envers la société Aéroports de Paris en cas de manquement constaté 
 
 Article 65
 
+Code de l'environnement
+
+1
+
+Décision relative à la délivrance et le retrait des certificats de réception par type pour les moteurs destinés aux autorails, locomotives et bateaux de la navigation intérieure.
+
+Article R. 224-12.
+
 C. - Autres décisions
 
 1

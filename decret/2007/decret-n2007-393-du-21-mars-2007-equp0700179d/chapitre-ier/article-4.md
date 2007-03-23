@@ -1,0 +1,3 @@
+# Article 4
+
+Peuvent être nommés dans l'emploi de directeur général adjoint les fonctionnaires appartenant à un des corps recrutés par la voie de l'Ecole nationale d'administration ou de l'Ecole polytechnique, les fonctionnaires relevant de la fonction publique de l'Etat, de la fonction publique territoriale ou de la fonction publique hospitalière et appartenant à un corps ou à un cadre d'emplois classé dans la catégorie A ou assimilée, dont l'indice terminal est supérieur à l'indice brut 1015, et les magistrats de l'ordre judiciaire. Ils doivent en outre justifier d'au moins dix années de services effectifs accomplis dans un ou plusieurs de ces corps ou cadres d'emplois ou accomplis en position de détachement dans un emploi fonctionnel.

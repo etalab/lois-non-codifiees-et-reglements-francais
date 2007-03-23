@@ -1,6 +1,6 @@
 # Article 10
 
-Sous réserve des dispositions de l'article 11 ci-après, ne peuvent être destinataires des informations contenues dans le système de gestion informatisée que les fonctionnaires et agents chargés de :
+Sous réserve des dispositions des articles 11 et 11-1 ci-après, ne peuvent être destinataires des informations contenues dans le système de gestion informatisée que les fonctionnaires et agents chargés de :
 
 1° L'application de la réglementation relative à la carte nationale d'identité au ministère de l'intérieur ;
 

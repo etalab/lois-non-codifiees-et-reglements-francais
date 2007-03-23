@@ -1,6 +1,6 @@
 # Article 12
 
-Les informations nominatives contenues dans le système de gestion informatisée ne peuvent faire l'objet d'aucune interconnexion avec un autre fichier ni d'aucune cession à des tiers.
+Les données à caractère personnel contenues dans le système de gestion informatisée ne peuvent faire l'objet d'aucune interconnexion avec un autre fichier ni d'aucune cession à des tiers.
 
 La lecture de la carte nationale d'identité à l'aide de procédés optiques ne peut être utilisée pour accéder à tout autre fichier ou pour y mettre en mémoire des informations mentionnées sur la carte. Toutefois, la lecture à l'aide de procédés optiques peut être utilisée pour :
 
