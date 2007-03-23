@@ -6,3 +6,4 @@
 - [Troisième partie : Aide à l'intervention de l'avocat au cours de la garde à vue, en matière de médiation pénale et de composition pénale ainsi que pour l'assistance aux détenus au cours de procédures disciplinaires](troisieme-partie)
 - [Quatrième partie](quatrieme-partie)
 - [Cinquième partie : Dispositions transitoires et diverses.](cinquieme-partie)
+- [Sixième partie : Dispositions transitoires et diverses.](sixieme-partie)
