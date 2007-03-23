@@ -1,8 +1,3 @@
 # Décret n°92-258 du 20 mars 1992 portant modification du code de la route et application de la loi n° 91-2 du 3 janvier 1991 relative à la circulation des véhicules terrestres dans les espaces naturels et portant modification du code des communes
 
-- [Article 1](article-1.md)
-- [Article 2](article-2.md)
-- [Article 3](article-3.md)
-- [Article 4](article-4.md)
-- [Article 5](article-5.md)
 - [Article 9](article-9.md)

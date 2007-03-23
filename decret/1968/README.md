@@ -27,7 +27,6 @@
 - [Décret n°68-986 du 14 novembre 1968](decret-n68-986-du-14-novembre-1968)
 - [Décret n°68-207 du 16 février 1968](decret-n68-207-du-16-fevrier-1968)
 - [Décret n°68-669 du 18 juillet 1968](decret-n68-669-du-18-juillet-1968)
-- [Décret n°68-915 du 18 octobre 1968](decret-n68-915-du-18-octobre-1968)
 - [Décret n°68-253 du 19 mars 1968](decret-n68-253-du-19-mars-1968)
 - [Décret n°68-351 du 19 avril 1968](decret-n68-351-du-19-avril-1968)
 - [Décret n°68-65 du 19 janvier 1968](decret-n68-65-du-19-janvier-1968)

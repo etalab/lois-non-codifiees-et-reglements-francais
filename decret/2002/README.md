@@ -1,5 +1,6 @@
 # 2002
 
+- [Décret n°2002-1027 du 1 août 2002 (DEVE0200047D)](decret-n2002-1027-du-1-aout-2002-deve0200047d)
 - [Décret n°85-390 du 1 avril 1985](decret-n85-390-du-1-avril-1985)
 - [Décret n°2002-1029 du 2 août 2002 (SOCF0211131D)](decret-n2002-1029-du-2-aout-2002-socf0211131d)
 - [Décret n°2002-451 du 2 avril 2002 (AGRS0200584D)](decret-n2002-451-du-2-avril-2002-agrs0200584d)
@@ -32,6 +33,7 @@
 - [Décret n°2002-1434 du 4 décembre 2002 (INDI0200715D)](decret-n2002-1434-du-4-decembre-2002-indi0200715d)
 - [Décret n°2002-22 du 4 janvier 2002 (MAEA0120362D)](decret-n2002-22-du-4-janvier-2002-maea0120362d)
 - [Décret n°2002-9 du 4 janvier 2002 (MESH0124422D)](decret-n2002-9-du-4-janvier-2002-mesh0124422d)
+- [Décret n°2002-1341 du 5 novembre 2002 (DEVD0200077D)](decret-n2002-1341-du-5-novembre-2002-devd0200077d)
 - [Décret n°2002-465 du 5 avril 2002 (MESH0220982D)](decret-n2002-465-du-5-avril-2002-mesh0220982d)
 - [Décret n°2002-466 du 5 avril 2002 (MESH0220983D)](decret-n2002-466-du-5-avril-2002-mesh0220983d)
 - [Décret n°2002-470 du 5 avril 2002 (EQUT0200191D)](decret-n2002-470-du-5-avril-2002-equt0200191d)

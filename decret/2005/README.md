@@ -1,5 +1,6 @@
 # 2005
 
+- [Décret n°2005-82 du 1 février 2005 (DEVP0420080D)](decret-n2005-82-du-1-fevrier-2005-devp0420080d)
 - [Décret du 2 février 2005 (AGRP0500004D)](decret-du-2-fevrier-2005-agrp0500004d)
 - [Décret du 2 février 2005 (AGRP0500006D)](decret-du-2-fevrier-2005-agrp0500006d)
 - [Décret n°2005-1096 du 2 septembre 2005 (MCCT0500408D)](decret-n2005-1096-du-2-septembre-2005-mcct0500408d)
@@ -40,6 +41,7 @@
 - [Décret n°2005-123 du 14 février 2005 (INDI0504588D)](decret-n2005-123-du-14-fevrier-2005-indi0504588d)
 - [Décret n°2005-30 du 14 janvier 2005 (SANH0424404D)](decret-n2005-30-du-14-janvier-2005-sanh0424404d)
 - [Décret n°91-1066 du 14 octobre 1991 (AGRA9101922D)](decret-n91-1066-du-14-octobre-1991-agra9101922d)
+- [Décret n°2005-134 du 15 février 2005 (DEVP0420070D)](decret-n2005-134-du-15-fevrier-2005-devp0420070d)
 - [Décret n°2005-797 du 15 juillet 2005 (DEFP0500937D)](decret-n2005-797-du-15-juillet-2005-defp0500937d)
 - [Décret n°2005-1412 du 16 novembre 2005 (JUSC0520859D)](decret-n2005-1412-du-16-novembre-2005-jusc0520859d)
 - [Décret n°2005-669 du 16 juin 2005 (INTX0500150D)](decret-n2005-669-du-16-juin-2005-intx0500150d)
@@ -82,6 +84,7 @@
 - [Décret n°96-1028 du 27 novembre 1996 (DOMX9600104D)](decret-n96-1028-du-27-novembre-1996-domx9600104d)
 - [Décret du 27 mai 2005 (AGRP0500985D)](decret-du-27-mai-2005-agrp0500985d)
 - [Décret n° 2005-556 du 27 mai 2005 (INTD0500133D)](decret-n-2005-556-du-27-mai-2005-intd0500133d)
+- [Décret n°2005-613 du 27 mai 2005 (DEVD0530031D)](decret-n2005-613-du-27-mai-2005-devd0530031d)
 - [Décret n°2005-1220 du 28 septembre 2005 (AGRP0501561D)](decret-n2005-1220-du-28-septembre-2005-agrp0501561d)
 - [Décret n°2005-1718 du 28 décembre 2005 (MJSK0570250D)](decret-n2005-1718-du-28-decembre-2005-mjsk0570250d)
 - [Décret n°2005-1054 du 29 août 2005 (SOCF0511451D)](decret-n2005-1054-du-29-aout-2005-socf0511451d)
