@@ -2,7 +2,7 @@
 
 La carte nationale d'identité est délivrée sans condition d'âge par les préfets et sous-préfets à tout Français qui en fait la demande dans l'arrondissement dans lequel il est domicilié ou a sa résidence, ou, le cas échéant, dans lequel se trouve sa commune de rattachement. Elle est renouvelée dans les mêmes conditions.
 
-A l'étranger, elle est délivrée ou renouvelée par les agents diplomatiques et consulaires aux Français immatriculés dans leur circonscription.
+A l'étranger, elle est délivrée ou renouvelée par le chef de poste consulaire aux personnes inscrites au registre des Français établis hors de France.
 
 La preuve du domicile ou de la résidence est établie par tous moyens, notamment par la production d'un titre de propriété, d'un certificat d'imposition ou de non-imposition, d'une quittance de loyer, de gaz, d'électricité ou de téléphone ou d'une attestation d'assurance du logement.
 

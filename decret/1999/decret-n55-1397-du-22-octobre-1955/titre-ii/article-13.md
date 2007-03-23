@@ -1,6 +1,6 @@
 # Article 13
 
-Le droit d'accès prévu aux articles 34 et suivants de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés s'exerce :
+Les droits d'accès et de rectification prévus aux articles 39 et 40 de la loi n° 78-17 du 6 janvier 1978 s'exercent :
 
 1° Pour les personnes résidant dans un département, auprès du bureau chargé de l'établissement des cartes nationales d'identité de la préfecture ou de la sous-préfecture ;
 
