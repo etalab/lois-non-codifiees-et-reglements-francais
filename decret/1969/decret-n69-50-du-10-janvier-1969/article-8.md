@@ -1,3 +1,0 @@
-# Article 8
-
-Il est procédé, tous les cinq ans et dans les mêmes conditions, à la revision générale des fiches et documents ci-dessus définis. En outre, lorsqu'il est constaté, notamment au moyen d'une station permanente d'observation des eaux mentionnée à l'article 2 du présent décret, qu'un changement exceptionnel ou imprévu affecte l'état des eaux, il est procédé, à la diligence du préfet, à une revision partielle de l'inventaire sous la direction et le contrôle des services mentionnés à l'article 5 et à l'établissement de fiches et documents complémentaires pour les points caractéristiques des zones concernées.

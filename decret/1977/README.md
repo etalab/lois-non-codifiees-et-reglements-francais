@@ -26,7 +26,6 @@
 - [Décret n°77-759 du 7 juillet 1977](decret-n77-759-du-7-juillet-1977)
 - [Décret du 8 septembre 1977](decret-du-8-septembre-1977)
 - [Décret n°77-222 du 8 mars 1977](decret-n77-222-du-8-mars-1977)
-- [Décret n°77-254 du 8 mars 1977](decret-n77-254-du-8-mars-1977)
 - [Décret n°77-794 du 8 juillet 1977](decret-n77-794-du-8-juillet-1977)
 - [Décret n°77-795 du 8 juillet 1977](decret-n77-795-du-8-juillet-1977)
 - [Décret n°77-796 du 8 juillet 1977](decret-n77-796-du-8-juillet-1977)

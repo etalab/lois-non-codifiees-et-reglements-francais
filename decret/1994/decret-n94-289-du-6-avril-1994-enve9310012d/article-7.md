@@ -1,9 +1,0 @@
-# Article 7
-
-Lorsque le schéma d'aménagement et de gestion des eaux a été modifié ou révisé en application de l'article 10 du décret du 24 septembre 1992 susvisé, l'arrêté préfectoral approuvant la modification ou la révision est notifié aux communautés locales de l'eau incluses dans le périmètre de ce schéma.
-
-Si cette modification ou cette révision rend nécessaire la modification du programme pluriannuel d'intervention, la communauté locale de l'eau en est informée par la commission locale de l'eau. La communauté locale de l'eau présente alors à cette commission, dans un délai de trois mois à compter de la réception de l'information adressée par la commission locale de l'eau, le projet de modification du programme pluriannuel d'intervention qui est adopté dans les conditions fixées à l'article 5.
-
-Dans le cas où la communauté locale de l'eau ne présente pas les modifications du programme pluriannuel d'intervention dans ce délai de trois mois, la réalisation de ce programme est suspendue jusqu'à ce que la commission locale de l'eau ait été saisie de ces modifications. Il en est de même lorsque les modifications proposées par la communauté locale de l'eau n'ont pas été adoptées dans les conditions fixées par l'article 5. Cette suspension ne concerne pas les opérations déjà engagées dont l'interruption se heurte à de graves obstacles matériels ou financiers. La communauté locale de l'eau communique une liste de ces opérations à la commission locale de l'eau.
-
-Lorsque la modification ou la révision du schéma d'aménagement et de gestion des eaux rend nécessaire un changement de l'organisation de la communauté locale de l'eau, la modification de la décision instituant cette communauté est effectuée dans les conditions prévues, selon le cas, par le titre VI du livre Ier du code des communes ou par le titre VII de la loi du 10 août 1871 susvisée et par le décret du 10 juin 1983 susvisé.

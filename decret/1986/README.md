@@ -80,7 +80,6 @@
 - [Décret n°86-21 du 7 janvier 1986](decret-n86-21-du-7-janvier-1986)
 - [Décret n°86-340 du 7 mars 1986](decret-n86-340-du-7-mars-1986)
 - [Décret n°86-36 du 7 janvier 1986](decret-n86-36-du-7-janvier-1986)
-- [Décret n°86-38 du 7 janvier 1986](decret-n86-38-du-7-janvier-1986)
 - [Décret n°86-62 du 7 janvier 1986](decret-n86-62-du-7-janvier-1986)
 - [Décret n°86-65 du 7 janvier 1986](decret-n86-65-du-7-janvier-1986)
 - [Décret n°86-66 du 7 janvier 1986](decret-n86-66-du-7-janvier-1986)

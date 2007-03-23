@@ -100,7 +100,7 @@ Décret n° 2001-143 du 15 février 2001 concernant la mise en œuvre des dispos
 <p align="left">Décisions désignant l'installation fabriquant à des fins médicales, pharmaceutiques, de recherche ou de protection des produits chimiques inscrits au tableau 1 annexé à la convention du 13 janvier 1993 sur l'interdiction de la mise au point, de la fabrication, du stockage et de l'emploi des armes chimiques et sur leur destruction.</p>
 </td>
 <td valign="top" width="189">
-<p align="left">Article 2 </p>
+<p align="left">Article 2</p>
 </td>
 </tr>
 <tr>
@@ -111,7 +111,7 @@ Décret n° 2001-143 du 15 février 2001 concernant la mise en œuvre des dispos
 <p align="left">Décisions portant désignation et autorisation d'une installation pouvant fabriquer, en quantité limitée, à des fins de protection, des produits chimiques inscrits au tableau 1 annexé à la convention.</p>
 </td>
 <td valign="top" width="189">
-<p align="left">Article 2</p>
+<p align="left">Article 2 </p>
 </td>
 </tr>
 <tr>
@@ -122,7 +122,7 @@ Décret n° 2001-143 du 15 février 2001 concernant la mise en œuvre des dispos
 <p align="left">Décisions relatives aux agréments préalables à l'exportation pour la présentation, la négociation et la vente de produits chimiques inscrits au tableau 1 annexé à la convention.</p>
 </td>
 <td valign="top" width="189">
-<p align="left">Article 17, II </p>
+<p align="left">Article 17, II</p>
 </td>
 </tr>
 <tr>
@@ -130,10 +130,10 @@ Décret n° 2001-143 du 15 février 2001 concernant la mise en œuvre des dispos
 <p align="center">4</p>
 </td>
 <td valign="top" width="473">
-<p align="left">Décisions d'autorisation d'exportation de produits chimiques inscrits au tableau 1 annexé à la convention dans le cas où le dossier est examiné préalablement par la commission interministérielle pour l'étude des exportations de matériels de guerre.</p>
+<p>Décisions d'autorisation d'exportation de produits chimiques inscrits au tableau 1 annexé à la convention dans le cas où le dossier est examiné préalablement par la commission interministérielle pour l'étude des exportations de matériels de guerre.</p>
 </td>
 <td valign="top" width="189">
-<p align="left">Article 17, II </p>
+<p>Article 17, II</p>
 </td>
 </tr>
 </tbody>
@@ -289,6 +289,35 @@ Décret n° 82-453 du 28 mai 1982 modifié relatif à l'hygiène et à la sécur
 <p align="left">Décisions amiables d'indemnisation résultant de la mise en cause de la responsabilité de l'Etat à l'occasion des activités des services du Premier ministre.</p>
 </td>
 <td valign="top" width="189"/>
+</tr>
+</tbody>
+</table>
+
+Code de l'environnement
+
+<table>
+<tbody>
+<tr>
+<td valign="top" width="57">
+<p align="center">1</p>
+</td>
+<td valign="top" width="473">
+<p align="left">Opposition du Premier ministre aux délibérations des conseils d'administration des agences de l'eau.</p>
+</td>
+<td valign="top" width="189">
+<p align="left">Article R. 213-41</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="57">
+<p align="center">2</p>
+</td>
+<td valign="top" width="473">
+<p align="left">Nomination du directeur d'une agence de l'eau.</p>
+</td>
+<td valign="top" width="189">
+<p align="left">Article R. 213-42</p>
+</td>
 </tr>
 </tbody>
 </table>

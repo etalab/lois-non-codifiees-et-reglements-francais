@@ -1,3 +1,0 @@
-# Article 1
-
-Sans préjudice, le cas échéant, de l'application des peines prévues par les dispositions législatives ou réglementaires en vigueur, notamment par la loi du 19 décembre 1917 modifiée relative aux établissements dangereux, insalubres et incommodes et le titre II du livre III du code rural ou les textes pris pour leur exécution, quiconque aura contrevenu aux dispositions prévues par le titre Ier de la loi n° 64-1245 du 16 décembre 1964 relatif à la lutte contre la pollution des eaux et à leur régénération ou aux textes pris pour leur exécution sera puni de l'amende prévue par le 5° de l'article 131-13 du code pénal pour les contraventions de la cinquième classe.
