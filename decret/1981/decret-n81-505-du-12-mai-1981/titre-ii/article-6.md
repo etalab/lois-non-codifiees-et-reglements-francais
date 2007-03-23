@@ -10,4 +10,4 @@ Il représente l'établissement en justice et dans les actes de la vie civile.
 
 Il a autorité sur l'ensemble des personnels de l'établissement.
 
-Il peut déléguer sa signature aux chefs de service de l'établissement.
+Il peut déléguer sa signature au directeur général adjoint, au secrétaire général et aux directeurs ainsi que, dans la limite de leurs attributions, à leurs subordonnés.
