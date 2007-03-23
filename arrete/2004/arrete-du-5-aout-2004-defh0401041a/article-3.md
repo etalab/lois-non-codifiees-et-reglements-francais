@@ -34,4 +34,6 @@ Les destinataires des informations enregistrées sont, en fonction de leurs attr
 
 - l'Institut national de la statistique et des études économiques, en vue de l'inscription d'office sur les listes électorales des Français âgés de dix-huit ans ;
 
-- les membres des corps d'inspection.
+- les membres des corps d'inspection ;
+
+- L'établissement public d'insertion de la défense dans le cadre de l'aide à l'insertion.
