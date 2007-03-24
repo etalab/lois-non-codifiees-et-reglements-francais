@@ -147,5 +147,4 @@
 - [Décret n°79-289 du 30 mars 1979](decret-n79-289-du-30-mars-1979)
 - [Décret n°79-559 du 30 juin 1979](decret-n79-559-du-30-juin-1979)
 - [Décret n°79-423 du 30 mai 1979](decret-n79-423-du-30-mai-1979)
-- [Décret n°79-108 du 31 janvier 1979](decret-n79-108-du-31-janvier-1979)
 - [Décret n°79-431 du 31 mai 1979](decret-n79-431-du-31-mai-1979)
