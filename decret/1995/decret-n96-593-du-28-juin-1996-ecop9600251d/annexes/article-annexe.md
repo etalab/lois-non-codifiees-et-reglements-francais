@@ -12,7 +12,7 @@ Directeur départemental.
 
 Direction générale des douanes et des droits indirects.
 
-Directeur régional de classe normale.
+Directeur régional ou directeur fonctionnel.
 
 Direction générale de la concurrence, de la consommation et de la répression des fraudes.
 
