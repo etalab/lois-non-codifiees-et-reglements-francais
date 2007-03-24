@@ -18,6 +18,8 @@ La date extrême d'exigibilité ;
 
 La somme totale conservée (principal de la créance et total des accessoires évalués) ;
 
+La somme maximale pour laquelle l'hypothèque pourra être affectée à la garantie d'autres créances lorsque l'hypothèque est rechargeable ;
+
 La désignation individuelle, conformément à l'article 39, des immeubles grevés, au besoin par simple référence à la réquisition ;
 
 Eventuellement, l'existence d'une clause de réévaluation, la date et l'analyse succincte des mentions marginales.
