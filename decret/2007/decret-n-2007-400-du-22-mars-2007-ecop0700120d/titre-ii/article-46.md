@@ -1,0 +1,3 @@
+# Article 46
+
+A la date d'effet du présent décret, les chefs de services interrégionaux et les directeurs régionaux de classe fonctionnelle sont reclassés, par arrêté du ministre chargé du budget, dans le grade de directeur des services douaniers de 1re classe à l'échelon comportant un indice égal ou, à défaut, immédiatement supérieur à celui qu'ils détenaient auparavant. Dans la limite de l'ancienneté moyenne exigée pour une promotion à l'échelon supérieur, ils conservent l'ancienneté qu'ils avaient acquise dans l'échelon de leur ancien grade lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle que leur aurait procuré un avancement d'échelon dans leur ancien grade.

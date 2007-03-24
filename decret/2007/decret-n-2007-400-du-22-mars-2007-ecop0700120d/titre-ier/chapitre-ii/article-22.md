@@ -1,0 +1,3 @@
+# Article 22
+
+Il peut être mis fin à l'affectation à la tête d'un poste comptable de la direction générale des douanes et droits indirects d'un fonctionnaire soumis au présent statut, soit à la demande du titulaire de l'emploi, soit dans l'intérêt du service. Lorsqu'un poste comptable est déclassé ou supprimé, en vertu du classement des postes comptables déterminé par arrêté du ministre chargé du budget, l'agent qui en assure la direction peut être mis en demeure par le directeur général de rejoindre un emploi correspondant à son grade dans un délai de trois ans. Si, six mois avant l'expiration de ce délai, il n'a pas présenté de demande d'affectation à une fonction qui pourrait lui être attribuée, sa mutation est prononcée d'office dans l'intérêt du service.

@@ -1,0 +1,9 @@
+# Article 45
+
+I. - L'application des dispositions de l'article 23 du présent décret ne peut avoir pour effet de conférer, à la date de leur nomination, aux inspecteurs nommés au grade d'inspecteur régional de 3e classe au 3e échelon une ancienneté d'échelon supérieure à celle détenue à cette même date par les inspecteurs régionaux de 3e classe au 3e échelon résultant du reclassement des intéressés opéré lors de l'entrée en vigueur du présent décret.
+
+Tant que ces dispositions trouveront à s'appliquer, les conditions de reclassement définies à l'article 23 pour les inspecteurs aux 11e et 12e échelons s'appliqueront dans la limite de l'ancienneté minimale détenue par les inspecteurs régionaux de 3e classe au 3e échelon visés à l'alinéa précédent.
+
+II. - L'application des dispositions de l'article 26 du présent décret ne peut avoir pour effet de conférer, à la date de leur nomination, aux inspecteurs nommés au grade d'inspecteur principal de 2e classe après leur réussite au concours professionnel un échelon et une ancienneté d'échelon supérieurs à ceux détenus à cette même date par les inspecteurs qui, lauréats du concours professionnel, ont été nommés inspecteurs principaux avant le 4 août 2001. Lorsque l'application des dispositions précédentes aboutit à accorder aux fonctionnaires intéressés un indice inférieur à celui qu'ils détenaient dans le grade d'inspecteur, ils conservent, à titre personnel, le bénéfice de leur indice antérieur jusqu'au jour où ils bénéficient dans leur nouveau grade d'un indice au moins égal.
+
+Par dérogation aux dispositions de l'article 26 du présent décret et tant que les dispositions de l'alinéa précédent trouveront à s'appliquer, le concours professionnel n'est ouvert qu'aux inspecteurs qui, remplissant les autres conditions fixées par ledit article 26, ne comptent, au 1er janvier de l'année au titre de laquelle est organisé le concours, pas plus de trois ans d'ancienneté dans le 10e échelon de leur grade.

@@ -1,0 +1,5 @@
+# Article 50
+
+Les commissions administratives paritaires compétentes à l'égard des chefs de services interrégionaux, des directeurs régionaux, des directeurs adjoints, des inspecteurs principaux, des receveurs principaux de 1re classe et des receveurs principaux de 2e classe demeurent compétentes jusqu'à la désignation des représentants des nouveaux grades créés par le présent décret, à l'égard des fonctionnaires relevant antérieurement de ces corps et grades et reclassés dans les grades d'inspecteur régional de 1re, 2e et 3e classe et de directeur des services douaniers de 1re et 2e classe et nommés dans ces grades en application des articles 43 à 48 ci-dessus.
+
+Les agents nommés dans ces nouveaux grades à partir de l'entrée en vigueur du présent décret relèvent, jusqu'à la désignation des représentants des nouveaux grades, des commissions administratives paritaires compétentes à l'égard des corps et grades à partir desquels se sont effectués les reclassements aux nouveaux grades prévus aux mêmes articles.
