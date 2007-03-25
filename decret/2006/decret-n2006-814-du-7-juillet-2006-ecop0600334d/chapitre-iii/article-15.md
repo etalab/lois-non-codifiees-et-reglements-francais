@@ -2,15 +2,15 @@
 
 Peuvent être nommés chefs de service comptable de 2e catégorie à la direction générale des douanes et droits indirects :
 
-1° Les chefs de service interrégional de la direction générale des douanes et droits indirects ;
+1° Les directeurs interrégionaux de la direction générale des douanes et droits indirects ;
 
 2° Les directeurs régionaux de la direction générale des douanes et droits indirects ;
 
-3° Les directeurs adjoints de la direction générale des douanes et droits indirects ayant atteint le 4e échelon de leur grade ;
+3° Les directeurs des services douaniers de la direction générale des douanes et droits indirects ayant atteint le 4e échelon de leur grade ;
 
 4° Les inspecteurs principaux de 1re classe de la direction générale des douanes et droits indirects ayant atteint le 2e échelon de leur grade ;
 
-5° Les receveurs principaux de 1re classe de la direction générale des douanes et droits indirects ayant atteint le 2e échelon de leur grade ;
+5° Les inspecteurs régionaux de 1re classe de la direction générale des douanes et droits indirects ayant atteint le 2e échelon de leur grade ;
 
 6° Les administrateurs civils hors classe justifiant de trois années de services effectifs accomplis en cette qualité dans les services centraux du ministère de l'économie, des finances et de l'industrie ;
 
