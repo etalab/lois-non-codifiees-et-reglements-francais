@@ -321,7 +321,6 @@
 - [Décret n°89-37 du 24 janvier 1989 (MAEJ8930001D)](decret-n89-37-du-24-janvier-1989-maej8930001d)
 - [Décret n°89-38 du 24 janvier 1989 (MAEJ8930000D)](decret-n89-38-du-24-janvier-1989-maej8930000d)
 - [Décret n°89-43 du 24 janvier 1989 (MAEJ8930004D)](decret-n89-43-du-24-janvier-1989-maej8930004d)
-- [Décret n°89-512 du 24 juillet 1989 (DOMP8900018D)](decret-n89-512-du-24-juillet-1989-domp8900018d)
 - [Décret n°89-513 du 24 juillet 1989 (DOMP8900019D)](decret-n89-513-du-24-juillet-1989-domp8900019d)
 - [Décret n°89-521 du 24 juillet 1989 (ECOA8900028D)](decret-n89-521-du-24-juillet-1989-ecoa8900028d)
 - [Décret n°89-526 du 24 juillet 1989 (SPSS8900827D)](decret-n89-526-du-24-juillet-1989-spss8900827d)
