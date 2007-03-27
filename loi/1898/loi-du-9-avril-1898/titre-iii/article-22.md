@@ -1,3 +1,0 @@
-# Article 22
-
-Les chambres de commerce et d'industrie peuvent être autorisées, par arrêtés du ministre de l'industrie, à contracter des emprunts pour subvenir ou concourir aux dépenses résultant de leur action dans tous les domaines où s'exercent leurs attributions, à l'exclusion de leurs dépenses ordinaires prévues à l'article L. 712-1 du code de commerce ; ceux de ces emprunts qui concernent leurs activités de concessionnaires d'outillage public dans les ports maritimes et fluviaux et les aéroports sont autorisés dans la même forme, après avis du ministre des travaux publics et des transports.
