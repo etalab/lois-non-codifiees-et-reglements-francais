@@ -15,3 +15,4 @@
 - [CHAPITRE XIII : Réforme.](chapitre-xiii)
 - [CHAPITRE XV : Dispositions diverses.](chapitre-xv)
 - [CHAPITRE XIV : Retraites et assurances.](chapitre-xiv)
+- [Article 43](article-43.md)

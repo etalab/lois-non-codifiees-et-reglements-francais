@@ -1,0 +1,3 @@
+# Article 7
+
+Lorsque la formation de l'intéressé porte sur des matières substantiellement différentes de celles qui figurent au programme de l'un des diplômes mentionnés à l'article 4 du présent décret ou lorsqu'une ou plusieurs des activités professionnelles dont l'exercice est subordonné au diplôme précité ne sont pas réglementées par l'Etat d'origine ou de provenance ou sont réglementées de manière substantiellement différente, l'autorité compétente pour délivrer l'autorisation peut exiger, après avoir apprécié la formation suivie et les acquis professionnels, que l'intéressé choisisse soit de se soumettre à une épreuve d'aptitude, soit d'accomplir un stage d'adaptation dont la durée ne peut excéder trois ans et qui fait l'objet d'une évaluation.

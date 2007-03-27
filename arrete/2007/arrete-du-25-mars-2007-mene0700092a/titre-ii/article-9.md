@@ -1,0 +1,3 @@
+# Article 9
+
+L'épreuve de l'attestation de sécurité routière est organisée pour les apprentis dans les centres de formation d'apprentis et, pour les personnes de plus de seize ans qui ne sont pas scolarisées, dans les groupements d'établissements de l'éducation nationale. Celle-ci est organisée tout au long de l'année sur l'ensemble du territoire sous la responsabilité des recteurs d'académie par les chefs d'établissements, présidents des groupements d'établissements de l'éducation nationale, sous la responsabilité des directeurs de centres de formation d'apprentis ou sous la responsabilité des autorités administratives compétentes pour les autres départements ministériels.

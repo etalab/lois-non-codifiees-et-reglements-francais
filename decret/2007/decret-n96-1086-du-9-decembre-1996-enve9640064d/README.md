@@ -10,3 +10,4 @@
 - [Chapitre VIII : Cessation de fonctions.](chapitre-viii)
 - [Chapitre IX : Formation professionnelle continue.](chapitre-ix)
 - [Chapitre X : Dispositions transitoires.](chapitre-x)
+- [Article 55](article-55.md)

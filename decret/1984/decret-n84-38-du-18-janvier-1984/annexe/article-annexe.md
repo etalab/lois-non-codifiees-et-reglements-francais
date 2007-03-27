@@ -18,7 +18,7 @@ Emplois de catégories A, B, C et D
 
 ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
 
-Agences financières de bassin
+Agences de l'eau
 
 EMPLOIS OU CATEGORIES D'EMPLOIS concernés
 
@@ -347,3 +347,19 @@ Office de protection contre les rayonnements ionisants
 EMPLOIS OU CATEGORIES D'EMPLOIS concernés
 
 Emplois scientifiques et techniques de catégorie A et B
+
+ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
+
+Etablissement public du parc amazonien de Guyane.
+
+EMPLOIS OU CATEGORIES D'EMPLOIS concernés
+
+Emplois de catégories B et C requérant des connaissances pratiques du milieu forestier tropical humide ainsi que de la culture et des savoir-faire des communautés d'habitants.
+
+ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
+
+Etablissement public du parc national de la Réunion.
+
+EMPLOIS OU CATEGORIES D'EMPLOIS concernés
+
+Emplois de catégories B et C nécessaires à l'information, la médiation, l'aménagement et la mise en valeur du patrimoine requérant des connaissances spécialisées du patrimoine naturel et culturel réunionnais.
