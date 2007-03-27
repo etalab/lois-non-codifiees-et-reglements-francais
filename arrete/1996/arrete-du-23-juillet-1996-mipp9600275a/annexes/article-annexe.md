@@ -30,7 +30,7 @@ Conditions générales de l'autorisation
 
 La durée de l'autorisation est fixée jusqu'au 1er janvier 2001.
 
-Au plus tard, deux ans avant la date d'expiration de l'autorisation, le ministre chargé des télécommunications, sur proposition du directeur général des postes et télécommunications, peut faire connaître son intention de la renouveler dans des conditions et termes qui seront, alors, à définir.
+Au plus tard, deux ans avant la date d'expiration de l'autorisation, le ministre chargé des télécommunications, sur proposition du directeur général des postes et communications électroniques, peut faire connaître son intention de la renouveler dans des conditions et termes qui seront, alors, à définir.
 
 1.2. Caractère intuitu personae de l'autorisation
 
@@ -46,7 +46,7 @@ L'exploitant doit fournir périodiquement à l'administration des éléments chi
 
 1.4. Utilisateurs
 
-Le réseau autorisé est à usage partagé et ouvert aux services de l'Office national de la chasse, des fédérations départementales de la chasse, du Conseil supérieur de la pêche, des fédérations départementales de la pêche, du ministère de l'environnement et des établissements publics dont il a la tutelle.
+Le réseau autorisé est à usage partagé et ouvert aux services de l'Office national de la chasse, des fédérations départementales de la chasse, de l'Office national de l'eau et des milieux aquatiques, des fédérations départementales de la pêche, du ministère de l'environnement et des établissements publics dont il a la tutelle.
 
 1.5. Description du réseau radioélectrique et attestation de licence
 
@@ -64,7 +64,7 @@ Les équipements radioélectriques terminaux fixes sont dispensés de l'attestat
 
 et d'exploitation du service
 
-Les équipements radioélectriques du réseau de l'exploitant et les équipements terminaux radioélectriques (fixes, mobiles et portatifs) qui y sont raccordés sont les installations radioélectriques telles que définies dans le code des postes et télécommunications.
+Les équipements radioélectriques du réseau de l'exploitant et les équipements terminaux radioélectriques (fixes, mobiles et portatifs) qui y sont raccordés sont les installations radioélectriques telles que définies dans le code des postes et communications électroniques.
 
 1.6. Défense nationale et sécurité publique
 
@@ -80,7 +80,7 @@ Caractéristiques techniques d'établissement des réseaux
 
 L'exploitant doit rechercher une utilisation la plus intensive possible des fréquences.
 
-Dans l'hypothèse où l'établissement public Office national de la chasse exploite des installations radioélectriques fonctionnant sur des canaux radioélectriques ne faisant pas l'objet du présent cahier des charges, ces installations radioélectriques doivent préalablement à leurs établissement et exploitation faire l'objet d'une demande de licence d'autorisation individuelle. Pour ces installations, l'exploitant est soumis aux dispositions de l'article 3 du décret du 20 juillet 1995 modifiant le décret du 3 février 1993 relatif aux redevances de mise à disposition de fréquences radioélectriques et de gestion dues par les titulaires des autorisations délivrées en application des articles L. 33-1 et L. 33-2 du code des postes et télécommunications.
+Dans l'hypothèse où l'établissement public Office national de la chasse exploite des installations radioélectriques fonctionnant sur des canaux radioélectriques ne faisant pas l'objet du présent cahier des charges, ces installations radioélectriques doivent préalablement à leurs établissement et exploitation faire l'objet d'une demande de licence d'autorisation individuelle. Pour ces installations, l'exploitant est soumis aux dispositions de l'article 3 du décret du 20 juillet 1995 modifiant le décret du 3 février 1993 relatif aux redevances de mise à disposition de fréquences radioélectriques et de gestion dues par les titulaires des autorisations délivrées en application des articles L. 33-1 et L. 33-2 du code des postes et communications électroniques.
 
 2.1.1. Fréquences utilisables sur le territoire métropolitain
 
@@ -114,7 +114,7 @@ Relais Mobile
 
 2.1.2. Conditions d'attribution ou de retrait de nouveaux canaux
 
-Les canaux radioélectriques supplémentaires pourront être attribués sur sa demande à l'exploitant après analyse par la direction générale des postes et télécommunications de l'intensité de l'utilisation des canaux déjà attribués et de la disponibilité des ressources hertziennes.
+Les canaux radioélectriques supplémentaires pourront être attribués sur sa demande à l'exploitant après analyse par la direction générale des postes et communications électroniques de l'intensité de l'utilisation des canaux déjà attribués et de la disponibilité des ressources hertziennes.
 
 L'exploitant peut restituer certains canaux radioélectriques mis à sa disposition.
 
@@ -132,7 +132,7 @@ Les zones où les assignations de fréquences sont soumises à une coordination 
 
 2.2. Agrément des équipements
 
-Conformément à l'article L. 34-9 du code des postes et télécommunications, les stations radioélectriques fixes, mobiles et portatives, utilisées dans le réseau doivent être agréées par le ministre chargé des télécommunications.
+Conformément à l'article L. 34-9 du code des postes et communications électroniques, les stations radioélectriques fixes, mobiles et portatives, utilisées dans le réseau doivent être agréées par le ministre chargé des télécommunications.
 
 2.3. Protocoles
 
@@ -154,7 +154,7 @@ Chapitre III
 
 Redevances et contributions financières
 
-L'exploitant titulaire de l'autorisation acquitte au budget de l'Etat des redevances, conformément aux dispositions de l'article 3 bis du décret du 20 juillet 1995 modifiant le décret du 3 février 1993 relatif aux redevances de mise à disposition de fréquences radioélectriques et de gestion dues par les titulaires des autorisations délivrées en application des articles L. 33-1 et L. 33-2 du code des postes et télécommunications.
+L'exploitant titulaire de l'autorisation acquitte au budget de l'Etat des redevances, conformément aux dispositions de l'article 3 bis du décret du 20 juillet 1995 modifiant le décret du 3 février 1993 relatif aux redevances de mise à disposition de fréquences radioélectriques et de gestion dues par les titulaires des autorisations délivrées en application des articles L. 33-1 et L. 33-2 du code des postes et communications électroniques.
 
 3.1. Contribution aux frais de gestion
 
@@ -206,4 +206,4 @@ Les modalités pratiques sont précisées au C.C.T.P.
 
 Inobservations des conditions de l'autorisation
 
-En cas d'inobservation des conditions de l'autorisation, et notamment celles relatives à la fourniture d'un descriptif technique à jour des stations fixes du réseau suivant les modalités définies au chapitre IV du présent cahier des charges, le titulaire de l'autorisation encourt l'application des sanctions prévues à l'article L. 34-7 du code des postes et télécommunications.
+En cas d'inobservation des conditions de l'autorisation, et notamment celles relatives à la fourniture d'un descriptif technique à jour des stations fixes du réseau suivant les modalités définies au chapitre IV du présent cahier des charges, le titulaire de l'autorisation encourt l'application des sanctions prévues à l'article L. 34-7 du code des postes et communications électroniques.

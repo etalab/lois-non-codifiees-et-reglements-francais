@@ -1,6 +1,6 @@
 # Article 1
 
-Dans la limite des crédits prévus à cet effet, des indemnités pour frais de déplacement et exceptionnellement pour perte de salaire peuvent être allouées, dans les conditions fixées aux articles suivants, aux membres des commissions dépendant du ministère de l'agriculture ci-après énumérées [*liste*] :
+Dans la limite des crédits prévus à cet effet, des indemnités pour frais de déplacement et exceptionnellement pour perte de salaire peuvent être allouées, dans les conditions fixées aux articles suivants, aux membres des commissions dépendant du ministère de l'agriculture ci-après énumérées :
 
 1° Conseil supérieur de l'enseignement, de la formation professionnelle, de la promotion sociale agricoles et de la jeunesse rurale, commission et sections en dépendant.
 
@@ -134,7 +134,7 @@ rattachées.
 
 65° Commission d'essais des appareils ou instruments d'étourdissement des animaux.
 
-66° Conseil d'administration du conseil supérieur de la pêche et commissions en dépendant.
+66° Conseil d'administration de l'Office national de l'eau et des milieux aquatiques et commissions en dépendant.
 
 67° Commission de discipline nationale des praticiens conseils ;
 

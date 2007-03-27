@@ -6,7 +6,7 @@ Disposent du pouvoir de notation :
 
 - le directeur général de l'Office national de la chasse et de la faune sauvage ;
 
-- le directeur général du Conseil supérieur de la pêche ;
+- le directeur général de l'Office national de l'eau et des milieux aquatiques ;
 
 - le directeur du Conservatoire de l'espace littoral et des rivages lacustres ;
 

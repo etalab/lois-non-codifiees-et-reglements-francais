@@ -12,7 +12,7 @@ A ce titre :
 
 - elle organise la coordination des ministères intéressés et prépare la programmation des crédits d'intervention non déconcentrés de l'Etat dans le domaine de l'eau et des milieux aquatiques ;
 
-- elle assure la tutelle des agences de l'eau et du Conseil supérieur de la pêche ;
+- elle assure la tutelle des agences de l'eau et de l'Office national de l'eau et des milieux aquatiques ;
 
 - elle assure le secrétariat de la mission interministérielle de l'eau et du Comité national de l'eau.
 

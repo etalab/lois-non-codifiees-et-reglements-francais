@@ -1,0 +1,3 @@
+# Article 2
+
+Les agents de l'Office national de l'eau et des milieux aquatiques mentionnés à l'article 1er ci-dessus se répartissent en trois catégories : les personnels de conception et d'encadrement, les personnels d'application et les personnels d'exécution. Chacune de ces catégories comporte un ou plusieurs groupes comprenant une filière administrative dont relèvent les agents employés à la gestion administrative, budgétaire, financière et juridique de l'établissement et une filière technique dans laquelle sont classés les agents occupant des emplois de nature scientifique, technique ou contribuant aux missions de police prévues par la loi.
