@@ -45,7 +45,6 @@
 - [Décret n°95-128 du 2 février 1995 (EQUU9401978D)](decret-n95-128-du-2-fevrier-1995-equu9401978d)
 - [Décret n°95-129 du 2 février 1995 (EQUU9401977D)](decret-n95-129-du-2-fevrier-1995-equu9401977d)
 - [Décret n°95-236 du 2 mars 1995 (SPSH9500560D)](decret-n95-236-du-2-mars-1995-spsh9500560d)
-- [Décret n°95-237 du 2 mars 1995 (TEFT9500113D)](decret-n95-237-du-2-mars-1995-teft9500113d)
 - [Décret n°95-238 du 2 mars 1995 (SPSS9500371D)](decret-n95-238-du-2-mars-1995-spss9500371d)
 - [Décret n°95-239 du 2 mars 1995 (MCCB9400697D)](decret-n95-239-du-2-mars-1995-mccb9400697d)
 - [Décret n°95-247 du 2 mars 1995 (SPSS9403983D)](decret-n95-247-du-2-mars-1995-spss9403983d)

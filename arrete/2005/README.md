@@ -231,7 +231,6 @@
 - [Arrêté du 12 août 2005 (SOCF0511619A)](arrete-du-12-aout-2005-socf0511619a)
 - [Arrêté du 12 avril 2005 (AGRE0500966A)](arrete-du-12-avril-2005-agre0500966a)
 - [Arrêté du 12 avril 2005 (DOMB0500009A)](arrete-du-12-avril-2005-domb0500009a)
-- [Arrêté du 12 avril 2005 (SANH0521417A)](arrete-du-12-avril-2005-sanh0521417a)
 - [Arrêté du 12 décembre 1986](arrete-du-12-decembre-1986)
 - [Arrêté du 12 décembre 2005 (DEVN0540472A)](arrete-du-12-decembre-2005-devn0540472a)
 - [Arrêté du 12 décembre 2005 (SANH0524553A)](arrete-du-12-decembre-2005-sanh0524553a)

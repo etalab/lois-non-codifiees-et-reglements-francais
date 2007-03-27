@@ -792,7 +792,6 @@
 - [Décret n°98-320 du 28 avril 1998 (MESF9810269D)](decret-n98-320-du-28-avril-1998-mesf9810269d)
 - [Décret n°98-324 du 28 avril 1998 (ATEN9860042D)](decret-n98-324-du-28-avril-1998-aten9860042d)
 - [Décret n°98-52 du 28 janvier 1998 (MESP9723639D)](decret-n98-52-du-28-janvier-1998-mesp9723639d)
-- [Décret n°98-58 du 28 janvier 1998 (ECOA9730014D)](decret-n98-58-du-28-janvier-1998-ecoa9730014d)
 - [Décret n°98-656 du 28 juillet 1998 (INTB9800207D)](decret-n98-656-du-28-juillet-1998-intb9800207d)
 - [Décret n°98-758 du 28 août 1998 (MESS9822253D)](decret-n98-758-du-28-aout-1998-mess9822253d)
 - [Décret n°98-761 du 28 août 1998 (EQUU9800882D)](decret-n98-761-du-28-aout-1998-equu9800882d)

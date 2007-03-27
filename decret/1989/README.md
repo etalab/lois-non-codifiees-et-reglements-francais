@@ -181,7 +181,6 @@
 - [Décret n°89-398 du 14 juin 1989 (MAEJ8930055D)](decret-n89-398-du-14-juin-1989-maej8930055d)
 - [Décret n°89-885 du 14 décembre 1989 (BUDF8900011D)](decret-n89-885-du-14-decembre-1989-budf8900011d)
 - [Décret n°89-886 du 14 décembre 1989 (BUDF8910044D)](decret-n89-886-du-14-decembre-1989-budf8910044d)
-- [Décret n°89-888 du 14 décembre 1989 (ECOT8920119D)](decret-n89-888-du-14-decembre-1989-ecot8920119d)
 - [Décret n°89-898 du 14 décembre 1989 (PRME8961102D)](decret-n89-898-du-14-decembre-1989-prme8961102d)
 - [Décret n°90-487 du 14 juin 1990 (EQUP8901081D)](decret-n90-487-du-14-juin-1990-equp8901081d)
 - [Décret du 15 novembre 1989 (SPSH8901841D)](decret-du-15-novembre-1989-spsh8901841d)

@@ -379,7 +379,6 @@
 - [Décret n°97-491 du 16 mai 1997 (AGRM9700943D)](decret-n97-491-du-16-mai-1997-agrm9700943d)
 - [Décret n°97-494 du 16 mai 1997 (TASP9720681D)](decret-n97-494-du-16-mai-1997-tasp9720681d)
 - [Décret n°97-496 du 16 mai 1997 (BUDF9700007D)](decret-n97-496-du-16-mai-1997-budf9700007d)
-- [Décret n°97-497 du 16 mai 1997 (COMK9704004D)](decret-n97-497-du-16-mai-1997-comk9704004d)
 - [Décret n°97-498 du 16 mai 1997 (FPPA9700046D)](decret-n97-498-du-16-mai-1997-fppa9700046d)
 - [Décret n°97-500 du 16 mai 1997 (FPPA9710008D)](decret-n97-500-du-16-mai-1997-fppa9710008d)
 - [Décret n°95-1131 du 17 octobre 1995 (INTC9500312D)](decret-n95-1131-du-17-octobre-1995-intc9500312d)

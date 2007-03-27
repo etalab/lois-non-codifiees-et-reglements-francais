@@ -1,3 +1,0 @@
-# ANNEXE I : LISTE DES THÈMES TRAITÉS DANS L'ÉPREUVE DE L'ATTESTATION DE SÉCURITÉ ROUTIÈRE (ASR).
-
-- [Article Annexe I](article-annexe-i.md)
