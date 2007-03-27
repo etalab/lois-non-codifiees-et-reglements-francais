@@ -1,0 +1,3 @@
+# Article 7
+
+A défaut d'approbation des schémas de développement commercial à l'expiration des délais fixés à l'article 6, le préfet en ce qui concerne le département et le préfet de région en ce qui concerne la région Ile-de-France publient au recueil des actes administratifs de l'Etat un constat de carence. Le préfet ou le préfet de région dresse un inventaire de tous les équipements commerciaux mentionnés à l'article 1er existant dans le département ou le cas échéant dans la partie du département non couverte par un schéma approuvé ou dans la région Ile-de-France, qui comporte l'indication des densités commerciales par secteur d'activité, rapprochées de celles constatées au niveau national. Cet inventaire tient lieu de schéma de développement commercial.

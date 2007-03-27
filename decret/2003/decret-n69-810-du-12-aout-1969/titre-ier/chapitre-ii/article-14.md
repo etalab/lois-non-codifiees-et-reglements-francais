@@ -1,7 +1,0 @@
-# Article 14
-
-La liste arrêtée annuellement, conformément aux articles 13, 13-1 et 13-2 du présent décret, par la commission est affichée, avant le 31 janvier de chaque année, dans les locaux du greffe de la cour d'appel, par le greffier en chef.
-
-Dans le même délai, le greffier en chef adresse [*communication*] copie de la liste au greffier de chaque tribunal de grande instance ou tribunal de commerce et au président de chaque chambre de commerce et d'industrie du ressort de la cour d'appel, aux fins d'affichage dans les locaux du greffe et de la chambre ainsi qu'au président de la compagnie nationale et de la compagnie régionale des commissaires aux comptes. Copie de la liste est également immédiatement adressée au Haut Conseil du commissariat aux comptes. Les modifications faites en application du deuxième alinéa de l'article 13-3 sont communiquées sans délai au Haut Conseil du commissariat aux comptes, ainsi qu'à la Compagnie nationale des commissaires aux comptes et à la compagnie régionale intéressée.
-
-La compagnie nationale des commissaires aux comptes publie au plus tard le 1er mars de chaque année l'annuaire national des commissaires aux comptes. Cet annuaire reproduit par compagnies régionales les listes établies conformément aux dispositions des articles 13, 13-1 et 13-2 du présent décret. La compagnie nationale assure sans délai la mise à jour et la publication de ces informations par voie électronique.

@@ -1,0 +1,3 @@
+# Article 39
+
+Par dérogation aux dispositions de l'article 24 du décret du 27 mai 1999 susvisé, le représentant de l'Etat à Mayotte convoque les électeurs par arrêté publié et affiché, au plus tard dans la cinquième semaine précédant la date du scrutin, à la préfecture, au siège de la chambre professionnelle de Mayotte ainsi que dans chacune des mairies de Mayotte. L'arrêté détermine l'emplacement des bureaux de vote, leur organisation, les heures d'ouverture et de fermeture du scrutin. La durée du scrutin ne peut être inférieure à six heures. La campagne électorale débute quinze jours avant la date du scrutin et s'achève la veille de la date du scrutin à minuit.

@@ -19,7 +19,6 @@
 - [Décret n°58-1239 du 17 décembre 1958](decret-n58-1239-du-17-decembre-1958)
 - [Décret n°58-757 du 20 août 1958](decret-n58-757-du-20-aout-1958)
 - [Décret n°58-1316 du 23 décembre 1958](decret-n58-1316-du-23-decembre-1958)
-- [Décret n°58-1345 du 23 décembre 1958](decret-n58-1345-du-23-decembre-1958)
 - [Décret n°58-1010 du 24 octobre 1958](decret-n58-1010-du-24-octobre-1958)
 - [Décret n°58-1152 du 25 novembre 1958](decret-n58-1152-du-25-novembre-1958)
 - [Décret n°58-1034 du 28 octobre 1958](decret-n58-1034-du-28-octobre-1958)

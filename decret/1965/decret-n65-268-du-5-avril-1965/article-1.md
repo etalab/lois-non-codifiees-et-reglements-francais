@@ -1,5 +1,0 @@
-# Article 1
-
-Les décisions d'assemblées générales d'actionnaires, relatives au regroupement d'actions, prévues aux articles 1er, 2 et 7 de la loi susvisée du 10 juillet 1964 sont prises, dans les conditions prévues pour la modification des statuts, sur la proposition d'un gérant ou du conseil d'administration ; cette proposition porte notamment sur le prix de négociation des rompus et les engagements relatifs à cette négociation prévus à l'article 2 de ladite loi.
-
-Le conseil de surveillance ou les commissaires aux comptes donnent, dans un rapport spécial à l'assemblée, leur avis sur les propositions du gérant ou du conseil d'administration [*attributions* ; ils indiquent si le prix proposé leur paraît normal et si les engagements pris pour l'application de l'article 2 de la loi susvisée du 10 juillet 1964 leur paraissent de nature à assurer en toute hypothèse la contrepartie prévue à cet article *]contrôle*.    L'assemblée générale fixe les bases du regroupement et arrête le prix prévu à l'article 2 de la loi susvisée.

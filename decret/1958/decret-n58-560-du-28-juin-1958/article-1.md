@@ -1,3 +1,0 @@
-# Article 1
-
-La vente aux enchères en gros des produits et denrées provenant de l'agriculture ou de la pêche destinés ou non à l'alimentation humaine peut être autorisée, sous les conditions précisées aux articles 2 et 3 ci-après, dans les marchés d'intérêt national et, en outre, dans tous les lieux où la vente est autorisée par arrêté municipal. L'autorisation est donnée pour les marchés de gros d'intérêt national par le décret qui prononce le classement du marché ou par un décret ultérieur et, pour les lieux où un arrêté municipal autorise la vente en gros, par un arrêté préfectoral pris à la demande de la municipalité intéressée.

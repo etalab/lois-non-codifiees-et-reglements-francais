@@ -1,5 +1,0 @@
-# Article 51
-
-Dans les sociétés à responsabilité limitée et dans les sociétés mentionnées au troisième alinéa de l'article 223 de la loi sur les sociétés commerciales dans sa rédaction antérieure à la loi du 1er mars 1984 relative à la prévention et au règlement amiable des difficultés des entreprises, il est vérifié, lors de la prochaine assemblée générale appelée à statuer sur les comptes, que ces sociétés sont tenues, en application des nouvelles dispositions des articles L. 223-35, alinéa 2 et L. 225-228, alinéa 3, du code de commerce et de l'article 12 du décret du 23 mars 1967 précité, soit de désigner un ou plusieurs commissaires aux comptes, soit de maintenir ceux dont le mandat est en cours ; dans ce dernier cas, le mandat expire au terme initialement prévu.
-
-Dans toutes les sociétés, la première assemblée, qui se réunit postérieurement à l'entrée en vigueur de la loi du 1er mars 1984 précitée, nomme, le cas échéant, un ou plusieurs commissaires aux comptes suppléants, dont la durée du mandat est celle du commissaire aux comptes titulaire.

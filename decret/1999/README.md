@@ -5,7 +5,6 @@
 - [Décret n°99-1009 du 1 décembre 1999 (ECOP9900725D)](decret-n99-1009-du-1-decembre-1999-ecop9900725d)
 - [Décret n°99-1010 du 1 décembre 1999 (ECOP9900726D)](decret-n99-1010-du-1-decembre-1999-ecop9900726d)
 - [Décret n°99-1011 du 1 décembre 1999 (ECOP9900727D)](decret-n99-1011-du-1-decembre-1999-ecop9900727d)
-- [Décret n°99-1017 du 1 décembre 1999 (JUSX9900121D)](decret-n99-1017-du-1-decembre-1999-jusx9900121d)
 - [Décret n°99-1021 du 1 décembre 1999 (INTM9900041D)](decret-n99-1021-du-1-decembre-1999-intm9900041d)
 - [Décret n°99-1022 du 1 décembre 1999 (INTM9900043D)](decret-n99-1022-du-1-decembre-1999-intm9900043d)
 - [Décret n°99-1023 du 1 décembre 1999 (INTM9900045D)](decret-n99-1023-du-1-decembre-1999-intm9900045d)

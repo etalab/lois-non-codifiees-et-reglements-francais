@@ -1,3 +1,0 @@
-# Article 5
-
-Les contrats de location-gérance conclus entre la date de publication du décret n° 53-874 du 22 septembre 1953 relatif à la location-gérance de fonds de commerce, et celle de la publication du présent décret, demeureront soumis, jusqu'à leur expiration ou leur renouvellement quant à leurs conditions de validité, aux dispositions du décret n° 53-874 susvisé modifié par le décret n° 53-963 du 30 septembre 1953, sous réserve des décisions de justice passées en force de chose jugée intervenues, en vertu du décret du 22 septembre 1953 entre le 23 septembre 1953 et la date d'application de la loi du 28 décembre 1954, modifiée par la loi n° 55-348 du 2 avril 1955.

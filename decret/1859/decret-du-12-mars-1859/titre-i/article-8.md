@@ -1,3 +1,0 @@
-# Article 8
-
-Les tarifs établis par les exploitants, afin de fixer la rétribution due pour le magasinage, la manutention, la location de la salle, la vente et généralement pour les divers services qui peuvent être rendus au public, doivent être imprimés et transmis avant l'ouverture des établissements, au préfet et aux corps entendus sur la demande d'autorisation. Tous les changements apportés aux tarifs doivent être d'avance annoncés par des affiches et communiqués aux préfets et aux corps ci-dessus désignés. Si ces changements ont pour objet de relever les tarifs, ils ne deviennent exécutoires que trois mois après qu'ils ont été annoncés et communiqués comme il vient d'être dit. La perception des taxes doit avoir lieu indistinctement et sans aucune faveur.

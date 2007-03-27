@@ -59,6 +59,7 @@
 - [Décret n°88-136 du 9 février 1988 (MCCT8800049D)](decret-n88-136-du-9-fevrier-1988-mcct8800049d)
 - [Décret n°88-753 du 9 juin 1988 (COPX8800069D)](decret-n88-753-du-9-juin-1988-copx8800069d)
 - [Décret n°88-921 du 9 septembre 1988 (EQUC8800572D)](decret-n88-921-du-9-septembre-1988-equc8800572d)
+- [Décret n°88-694 du 9 mai 1988 (COMK8806003D)](decret-n88-694-du-9-mai-1988-comk8806003d)
 - [Décret n°88-697 du 9 mai 1988 (MCCK8800295D)](decret-n88-697-du-9-mai-1988-mcck8800295d)
 - [Décret n°88-1033 du 10 novembre 1988 (MCCB8800655D)](decret-n88-1033-du-10-novembre-1988-mccb8800655d)
 - [Décret n°88-1035 du 10 novembre 1988 (SPSS8801153D)](decret-n88-1035-du-10-novembre-1988-spss8801153d)
