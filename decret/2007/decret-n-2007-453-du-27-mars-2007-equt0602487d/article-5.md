@@ -1,0 +1,3 @@
+# Article 5
+
+Sur les infrastructures réalisées par le délégataire, l'octroi de capacités d'infrastructure, leur utilisation effective et, le cas échéant, les prestations complémentaires ou connexes réalisées par le délégataire donnent lieu à la perception par Réseau ferré de France, pour le compte du délégataire, de redevances, dans les conditions et selon les modalités prévues par le décret du 5 mai 1997 susvisé. Une convention entre Réseau ferré de France et le délégataire précise les modalités selon lesquelles Réseau ferré de France reverse à ce dernier les sommes ainsi perçues, après déduction d'une quote-part représentative des frais exposés.

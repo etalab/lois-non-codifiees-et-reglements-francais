@@ -1,0 +1,3 @@
+# Article 3
+
+A l'exception des titulaires des entrepôts fiscaux de produits énergétiques, tout distributeur doit se déclarer auprès de la direction régionale des douanes et droits indirects territorialement compétente au regard de son lieu d'implantation. Cette déclaration, qui fait l'objet d'un modèle enregistré sous un numéro CERFA, doit comporter la raison sociale et le numéro SIREN de l'opérateur et, s'il y a lieu, la localisation et la description des installations de stockage d'huiles végétales pures. Le directeur régional des douanes et droits indirects territorialement compétent délivre une décision d'enregistrement, valable cinq ans, et renouvelable sur demande du distributeur.

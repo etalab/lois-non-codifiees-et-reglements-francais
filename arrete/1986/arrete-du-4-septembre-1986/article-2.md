@@ -6,7 +6,7 @@ Pour les établissements ou organismes relevant du délégué général pour l'a
 
 Pour les établissements ou organismes relevant du chef d'état-major de l'armée de terre, par le directeur central du matériel de l'armée de terre.
 
-Pour les établissements ou organismes relevant du chef d'état-major de la marine, par le directeur central du service de soutien de la flotte pour la pyrotechnie de Toulon et la pyrotechnie Saint-Nicolas-de-Brest ; par l'amiral commandant les forces sous-marines et la force océanique stratégique pour la pyrotechnie de l'Ile Longue et par le sous-chef d'état-major opérations logistiques pour tous les autres établissements et organismes.
+Pour les établissements ou organismes relevant du chef d'état-major de la marine, par le directeur central du service de soutien de la flotte pour la pyrotechnie de Toulon et la pyrotechnie Saint-Nicolas-de-Brest ; par l'amiral commandant les forces sous-marines et la force océanique stratégique pour la pyrotechnie de l'Ile Longue et par le coordonnateur central pour les affaires nucléaires, la prévention et la protection de l'environnement pour tous les autres établissements et organismes.
 
 Pour les établissements ou organismes relevant du chef d'état-major de l'armée de l'air, par le directeur central du matériel de l'armée de l'air.
 
