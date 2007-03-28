@@ -43,7 +43,6 @@
 - [Décret n°91-1066 du 14 octobre 1991 (AGRA9101922D)](decret-n91-1066-du-14-octobre-1991-agra9101922d)
 - [Décret n°2005-1421 du 15 novembre 2005 (SANH0523732D)](decret-n2005-1421-du-15-novembre-2005-sanh0523732d)
 - [Décret n°2005-797 du 15 juillet 2005 (DEFP0500937D)](decret-n2005-797-du-15-juillet-2005-defp0500937d)
-- [Décret n°2005-1412 du 16 novembre 2005 (JUSC0520859D)](decret-n2005-1412-du-16-novembre-2005-jusc0520859d)
 - [Décret n°2005-669 du 16 juin 2005 (INTX0500150D)](decret-n2005-669-du-16-juin-2005-intx0500150d)
 - [Décret n°2005-670 du 16 juin 2005 (SOCX0500151D)](decret-n2005-670-du-16-juin-2005-socx0500151d)
 - [Décret n°2005-671 du 16 juin 2005 (ECOX0500134D)](decret-n2005-671-du-16-juin-2005-ecox0500134d)
