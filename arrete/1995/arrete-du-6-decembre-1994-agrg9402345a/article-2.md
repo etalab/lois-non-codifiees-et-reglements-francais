@@ -12,7 +12,7 @@ c) De prévenir son apparition et sa propagation et de le combattre en vue de so
 
 d) De rechercher son origine probable.
 
-Les recherches sont effectuées sur la base d'analyses d'échantillons réalisées par les laboratoires de la protection des végétaux ou par les laboratoires placés sous son contrôle, selon la méthode décrite à l'annexe I du présent arrêté.
+Les recherches sont effectuées sur la base d'analyses d'échantillons réalisées par les laboratoires de la protection des végétaux ou par les laboratoires agréés, selon la méthode décrite à l'annexe I du présent arrêté.
 
 Les échantillons sont principalement constitués de tubercules de pomme de terre prélevés en cours de stockage.
 

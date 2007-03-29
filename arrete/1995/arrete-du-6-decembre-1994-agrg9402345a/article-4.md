@@ -1,6 +1,6 @@
 # Article 4
 
-I. - Lorsque des cas d'apparition suspectée ont été signalés, les tests sont effectués par les laboratoires de la protection des végétaux ou dans les laboratoires placés sous son contrôle, selon la méthode décrite à l'annexe I du présent arrêté et conformément aux conditions énumérées au point 1 de l'annexe II de ce même arrêté, afin de confirmer ou d'infirmer ladite apparition.
+I. - Lorsque des cas d'apparition suspectée ont été signalés, les tests sont effectués par les laboratoires de la protection des végétaux ou dans les laboratoires agréés, selon la méthode décrite à l'annexe I du présent arrêté et conformément aux conditions énumérées au point 1 de l'annexe II de ce même arrêté, afin de confirmer ou d'infirmer ladite apparition.
 
 Si la présence de l'organisme est confirmée, les dispositions du point 2 de l'annexe II précitée s'appliquent.
 
