@@ -1,4 +1,0 @@
-# Section 4 : Dispositions relatives à la réserve citoyenne.
-
-- [Article 19](article-19.md)
-- [Article 20](article-20.md)
