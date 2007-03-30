@@ -450,6 +450,20 @@ Décisions concernant une société anonyme de coordination d'organismes d'habit
 
 Mesures prises par le ministre chargé des transports
 
+Code des ports maritimes :
+
+1
+
+Habilitation des organismes de sûreté.
+
+Articles R. 321-8 et R. 321-9
+
+2
+
+Retrait et suspension de l'habilitation des organismes de sûreté
+
+Article R. 321-11
+
 Décret n° 2001-386 du 3 mai 2001 relatif aux équipements sous pression transportables et pris pour l'application du 1° de l'article 2 du décret n° 97-34 du 15 janvier 1997 relatif à la déconcentration des décisions administratives individuelles
 
 1

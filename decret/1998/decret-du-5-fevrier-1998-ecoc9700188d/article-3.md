@@ -2,7 +2,7 @@
 
 Les variétés cultivées doivent être des variétés de pommes de terre de consommation et de consommation à chair ferme, des groupes culinaires A et B, inscrites au Catalogue officiel des espèces et variétés des plants cultivés :
 
-- variétés de consommation : alcmaria, goulvena, pénélope, starlette ;
+- variétés de consommation : alcmaria, goulvena, pénélope, starlette, carrera ;
 
 - variétés de consommation à chair ferme : amandine, BF 15, charlotte, roseval.
 
