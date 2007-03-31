@@ -1,0 +1,3 @@
+# Article 1
+
+Les chambres de commerce et d'industrie qui souhaitent que leur budget soit abondé dans les conditions prévues à l'article L. 712-5 du code de commerce susvisé en présentent la demande à la chambre régionale de commerce et d'industrie dont elles relèvent. Cette demande justifie des dépenses exceptionnelles ou des circonstances particulières nécessitant l'abondement. Elle est approuvée par l'assemblée générale de la chambre de commerce et d'industrie puis transmise pour approbation à la chambre régionale de commerce et d'industrie et, pour information, au préfet de région et au préfet du département du siège de la chambre de commerce et d'industrie.

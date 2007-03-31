@@ -1,0 +1,3 @@
+# Article 64
+
+Les fonctionnaires et agents affectés à la direction générale de la sûreté nucléaire et de la radioprotection ou dans les divisions de la sûreté nucléaire et de la radioprotection des directions régionales de l'industrie, de la recherche et de l'environnement ou mis à leur disposition à la date mentionnée à l'article 63 sont, à compter de cette date, affectés à l'Autorité de sûreté nucléaire ou mis à sa disposition dans les mêmes conditions. Ces derniers pourront, dans les conditions habituelles de gestion, retourner dans leur administration ou établissement d'origine à partir de la date visée à l'article 63.

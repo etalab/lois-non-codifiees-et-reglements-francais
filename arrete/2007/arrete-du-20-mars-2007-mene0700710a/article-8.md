@@ -1,0 +1,5 @@
+# Article 8
+
+Les candidats préparant le brevet des métiers d'art de la dentelle soit par la voie scolaire dans un établissement public ou privé sous contrat, soit par la voie de l'apprentissage dans un centre de formation d'apprentis ou une section d'apprentissage habilités par le recteur, soit par la voie de la formation professionnelle continue dans un établissement public passent l'examen en cinq épreuves sous forme ponctuelle et trois épreuves évaluées par contrôle en cours de formation.
+
+Les candidats préparant le brevet des métiers d'art de la dentelle soit par la voie scolaire dans un établissement privé, soit par la voie de l'apprentissage dans un centre de formation d'apprentis ou une section d'apprentissage non habilités, soit par la voie de la formation professionnelle continue dans un établissement privé, les candidats ayant suivi la préparation par la voie de l'enseignement à distance ainsi que ceux qui se présentent au titre de l'expérience professionnelle passent l'examen en huit épreuves ponctuelles.
