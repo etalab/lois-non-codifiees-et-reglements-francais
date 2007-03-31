@@ -20,6 +20,40 @@ En cas de dissolution du conseil d'administration de la caisse centrale d'activi
 
 Sous réserve des dispositions du présent article, les dispositions du paragraphe 6 sont applicables à l'administration du budget d'activités sociales gérées par la caisse centrale d'activités sociales. Le contrôleur auprès de cette caisse est nommé par décision conjointe des directeurs généraux d'Electricité de France et de Gaz de France.
 
+Paragraphe 1-1.
+
+Les caisses mutuelles complémentaires et d'action sociale, sont dotées de la personnalité morale. Elles administrent les activités sociales instituées en faveur du personnel soumis au statut telles qu'elles sont définies au présent article, et peuvent accepter des dons et legs. Elles sont constituées dans chaque exploitation ou service d'Electricité de France et de Gaz de France, à raison d'une caisse par unité particulière d'exploitation ou de service. Cependant, lorsque les circonstances le justifient, il peut n'être établi qu'une seule caisse pour plusieurs unités particulières d'exploitation ou de service.
+
+Une caisse mutuelle complémentaire et d'action sociale peut en outre être constituée avec l'accord du personnel intéressé dans toute entreprise non nationalisée employant un nombre suffisant d'agents statutaires.
+
+Les caisses mutuelles complémentaires et d'action sociale sont soumises à un règlement commun établi par le comité de coordination. Ce règlement définit notamment les bénéficiaires des activités sociales qui sont affiliés par les caisses mutuelles complémentaires et d'action sociale ainsi que les règles relatives au contrôle de gestion interne, au respect des règles applicables en matière de marchés et à la certification des comptes et aux conditions d'approbation par le comité de coordination des règlements particuliers de chaque caisse. Ce règlement et ses modifications sont transmis aux présidents des organisations professionnelles des industries électriques et gazières et au directeur de la demande et des marchés énergétiques. Cette transmission a lieu dans les quinze jours suivant son adoption ou chaque modification.
+
+Les caisses mutuelles complémentaires et d'action sociale constituées au sein d'Electricité de France et de Gaz de France regroupent tous les agents statutaires en activité ayant leur lieu de travail dans le ressort territorial de chacune de ces caisses, ainsi que les pensionnés ayant leur domicile dans le même ressort.
+
+Les caisses mutuelles complémentaires et d'action sociale constituées au sein d'entreprises non nationalisées regroupent le personnel statutaire en activité de l'entreprise, ainsi que les pensionnés au titre de l'entreprise, ces derniers pouvant toutefois être rattachés, sur leur demande, à la caisse mutuelle complémentaire et d'action sociale la plus proche de leur domicile. Les agents des entreprises non nationalisées, auprès desquelles une caisse mutuelle complémentaire et d'action sociale ne pourra être instituée, sont rattachés collectivement, sous la réserve prévue ci-dessus pour les pensionnés, et à leur choix, soit à la caisse mutuelle complémentaire et d'action sociale d'Electricité de France ou de Gaz de France la plus voisine, soit à une caisse mutuelle complémentaire et d'action sociale constituée au sein d'une autre entreprise non nationalisée.
+
+Paragraphe 1-2.
+
+Les caisses mutuelles complémentaires et d'action sociale sont administrées par des conseils d'administration composés de 18 membres si la caisse compte moins de 500 agents, et de 24 membres si la caisse compte au moins 500 agents ; ces membres sont élus pour trois ans par les agents statutaires regroupés dans chaque caisse. Les élections ont lieu à bulletin secret au scrutin de liste avec représentation proportionnelle suivant la règle de la plus forte moyenne. Les modalités des élections des membres des conseils d'administration des caisses mutuelles complémentaires et d'action sociale sont déterminées par accord collectif de branche.
+
+Dans chaque caisse mutuelle complémentaire et d'action sociale, ne peuvent être candidats à un mandat d'administrateur que les agents statutaires depuis au moins un an. Les membres sortants sont rééligibles.
+
+Lorsqu'un membre est dans l'impossibilité d'achever son mandat, le premier des candidats non élus figurant sur la même liste le remplace jusqu'au prochain renouvellement.
+
+Chaque conseil d'administration élit un président parmi ses membres, au scrutin secret.
+
+Les membres des conseils d'administration des caisses mutuelles complémentaires et d'action sociale sont considérés comme étant en service lorsqu'ils sont appelés à siéger ; les frais résultant pour eux de leur participation aux travaux de ces conseils leur sont remboursés par les caisses.
+
+Paragraphe 1-3.
+
+Le comité de coordination, doté de la personnalité morale, représente les caisses mutuelles complémentaires et d'action sociale sur le plan national. Il exprime son avis et formule des propositions sur les questions d'ordre général intéressant ces caisses.
+
+a) Le comité de coordination est composé de 30 membres, élus au scrutin secret pour trois ans, par l'ensemble des membres desdits conseils, à la représentation proportionnelle, suivant la règle de la plus forte moyenne. Le comité de coordination élit son président parmi les membres de ce comité, au scrutin secret.
+
+Le règlement du comité de coordination des caisses mutuelles complémentaires et d'action sociale est établi par arrêté du ministre chargé de l'énergie sur proposition du comité de coordination. Le comité de coordination établit la liste des caisses mutuelles complémentaires et d'action sociale et la transmet, ainsi que chacune de ses modifications, aux présidents des organisations professionnelles des industries électriques et gazières et au directeur de la demande et des marchés énergétiques dans les quinze jours suivant son établissement ou chaque modification.
+
+b) Il est constitué une assemblée générale des caisses mutuelles complémentaires et d'action sociale chargée de la détermination et du suivi des principes directeurs des budgets de la gestion administrative applicables à l'ensemble des caisses. L'assemblée générale se réunit au moins une fois par an. Elle établit, lors de sa première réunion, son règlement intérieur et examine les bilans du Fonds national d'action sanitaire et sociale. Elle peut définir un cadre de cohérence pour les projets d'action envisagés par les caisses mutuelles complémentaires et d'action sociale.
+
 Paragraphe 2.
 
 Les activités sociales instituées en faveur du personnel soumis au statut, et définies par ce dernier, sont gérées par les caisses mutuelles complémentaires et d'action sociale à l'exception de celles dont le caractère général ou l'importance exige qu'elles soient gérées sur le plan national. Ces dernières relèvent de la caisse centrale d'activités sociales. Les dépenses y afférentes sont imputées au budget d'activités sociales administré par celles-ci. Ce sont notamment :
@@ -38,11 +72,13 @@ Les caravanes en ligne et les sports d'hiver ;
 
 L'organisation des épreuves sportives, des manifestations littéraires, artistiques, scientifiques, sur le plan national ou international.
 
-Le comité de coordination, institué au paragraphe 6 de l'article 23, répartit, entre la caisse centrale d'activités sociales et les caisses mutuelles complémentaires et d'action sociale, les ressources du budget des activités sociales du personnel des industries électriques et gazières, dans les conditions précisées au paragraphe 7 du présent article. Le comité de coordination, à la majorité des deux tiers, peut proposer de confier à la caisse centrale d'activités sociales, la création et la gestion d'oeuvres sociales n'entrant pas dans l'énumération ci-dessus, mais répondant à la définition du premier alinéa du présent paragraphe.
+Le comité de coordination, institué au paragraphe 1-3 du présent article, répartit, entre la caisse centrale d'activités sociales et les caisses mutuelles complémentaires et d'action sociale, les ressources du budget des activités sociales du personnel des industries électriques et gazières, dans les conditions précisées au paragraphe 7 du présent article. Le comité de coordination, à la majorité des deux tiers, peut proposer de confier à la caisse centrale d'activités sociales, la création et la gestion d'oeuvres sociales n'entrant pas dans l'énumération ci-dessus, mais répondant à la définition du premier alinéa du présent paragraphe.
 
 Le comité de coordination peut aussi, à la même majorité, proposer de charger la caisse centrale d'activités sociales d'assurer la compensation de tout ou partie des dépenses imposées aux caisses mutuelles complémentaires et d'action sociale par la gestion de certaines activités d'intérêt général mais dont la charge se trouve inégalement répartie entre les caisses mutuelles complémentaires et d'action sociale.
 
 Au cas où le commissaire du Gouvernement estimerait insuffisamment justifiées les propositions du comité de coordination visées aux deux alinéas précédents, il saisirait de ces propositions le ministre chargé du gaz et de l'électricité, à qui il appartiendrait de prendre la décision.
+
+Dans un souci d'égalité de traitement sur le territoire national et par dérogation aux dispositions du paragraphe 1 du présent article, le comité de coordination peut également, à la majorité, décider le niveau, la nature et les modalités des dépenses à engager au titre du d du paragraphe 5 du présent article et gérer les fonds qui y sont destinés.
 
 Les conseils d'administration des caisses mutuelles complémentaires et d'action sociale peuvent décider, à la majorité des deux tiers de leurs membres, de passer entre eux des accords particuliers pour la gestion de certaines oeuvres, dans la mesure où cette gestion commune permet une utilisation plus rationnelle des ressources des caisses intéressées.
 
@@ -92,7 +128,7 @@ f) Couvrir les dépenses de fonctionnement des cantines, déduction faite de la 
 
 Paragraphe 6.
 
-Les caisses mutuelles complémentaires et d'action sociale gèrent un budget d'activités sociales concernant la création et le fonctionnement des activités sociales prévues au présent article ; ces budgets sont établis annuellement, l'exercice budgétaire s'étendant du 1er avril d'une année au 31 mars de l'année suivante. L'action sanitaire et sociale des caisses mutuelles complémentaires et d'action sociale, ainsi que les frais de gestion y afférents, sont financés sur le produit du prélèvement prévu au paragraphe 4 du présent article.
+Les caisses mutuelles complémentaires et d'action sociale gèrent un budget d'activités sociales concernant la création et le fonctionnement des activités sociales prévues au présent article ; ces budgets sont établis annuellement, l'exercice budgétaire s'étendant à compter du 1er janvier 2009, du 1er janvier au 31 décembre. L'action sanitaire et sociale des caisses mutuelles complémentaires et d'action sociale, ainsi que les frais de gestion y afférents, sont financés sur le produit du prélèvement prévu au paragraphe 4 du présent article et sous réserve des prérogatives du comité de coordination définies au paragraphe 2 du présent article.
 
 A ce titre, un contrôleur, désigné par les directeurs généraux des établissements publics nationaux, est placé auprès de chaque caisse mutuelle complémentaire et d'action sociale ; en ce qui concerne les caisses constituées dans les entreprises exclues de la nationalisation, le contrôleur est désigné par le directeur de l'entreprise.
 
@@ -122,13 +158,15 @@ Ces budgets sont divisés en deux parties correspondant, l'une aux dépenses de 
 
 Les fonds nécessaires à la caisse centrale d'activités sociales pour la couverture des dépenses de premier établissement et de fonctionnement des activités gérées par cette caisse, sont fournis par un prélèvement sur les ressources mises à la disposition des caisses mutuelles complémentaires et d'action sociale dans les conditions prévues au paragraphe 4 du présent article.
 
-A cet effet, le conseil d'administration de la caisse centrale prépare, pour le 1er janvier de chaque année au plus tard, son projet de budget des activités sociales pour l'année suivante et le communique aux caisses mutuelles complémentaires et d'action sociale et au comité de coordination, ainsi qu'au commissaire du Gouvernement.
+A cet effet, le conseil d'administration de la caisse centrale prépare, pour le 1er octobre de chaque année au plus tard, son projet de budget des activités sociales pour l'année suivante et le communique aux caisses mutuelles complémentaires et d'action sociale et au comité de coordination, ainsi qu'au commissaire du Gouvernement.
 
-Le comité de coordination, réuni dans la deuxième quinzaine de janvier, fixe le taux du prélèvement à effectuer sur les ressources attribuées aux caisses mutuelles complémentaires et d'action sociale au titre des activités sociales.
+Le comité de coordination, réuni dans la deuxième quinzaine d'octobre, fixe le taux du prélèvement à effectuer sur les ressources attribuées aux caisses mutuelles complémentaires et d'action sociale au titre des activités sociales.
 
 La caisse centrale d'activités sociales soumet alors son projet de budget, modifié s'il y a lieu pour tenir compte du taux fixé par le comité de coordination au commissaire du Gouvernement qui, dans un délai de quinze jours rend le budget exécutoire après s'être assuré que toutes les dépenses prévues concernent bien des activités placées dans les attributions de la caisse centrale d'activités sociales.
 
 Si, en application des dispositions qui précèdent, le commissaire du Gouvernement refuse de rendre exécutoires certaines prévisions de dépenses, les sommes ainsi rendues disponibles sont réparties, par le comité de coordination, entre la caisse centrale d'activités sociales et les caisses mutuelles complémentaires et d'action sociale, au moyen d'une modification du taux primitif. La partie desdites sommes affectée à la caisse centrale fait l'objet d'un budget additionnel rendu exécutoire dans les mêmes conditions que ci-dessus.
+
+Pour l'exercice allant du 1er avril au 31 décembre 2008, le projet de budget doit être préparé avant le 1er janvier 2008 et la réunion du comité de coordination se tenir dans la seconde quinzaine du même mois.
 
 Lorsque les dépenses de premier établissement destinées à des colonies de vacances, maisons de cure, de repos ou de retraite, des préventoriums ou des sanatoriums sont trop élevées pour être couvertes par les ressources d'un seul exercice, les fonds nécessaires peuvent être avancés par les établissements publics nationaux sur décision des directeurs généraux prises après avis conforme du président du conseil d'administration desdits établissements et avis du membre du corps du contrôle général économique et financier ; cette avance est amortie sur les ressources d'exercices successifs suivant un tableau d'amortissement conforme aux usages industriels.
 

@@ -14,6 +14,6 @@ Paragraphe 3.
 
 Sur le plan administratif : par les commissions du personnel.
 
-Paragraphe 4.
+Paragraphe 4 (1).
 
-Sur le plan de la sécurité sociale : par les caisses mutuelles complémentaires et d'action sociale.
+Sur le plan de la sécurité sociale : par la Caisse nationale des industries électriques et gazières et la caisse d'assurance maladie des industries électriques et gazières.
