@@ -1,3 +1,0 @@
-# Article 7
-
-Le propriétaire dispose d'un délai d'un mois, à compter de la notification prévue à l'article 6 ci-dessus, pour demander au préfet d'engager la procédure d'expropriation prévue à l'article 9-I (4e alinéa) de la loi susvisée du 31 décembre 1913 modifiée ; sa demande est faite par lettre recommandée avec avis de réception ; elle comporte l'indication du prix demandé par le propriétaire pour la cession de son immeuble. Le préfet instruit la demande dans les conditions prévues aux articles R. 10 et suivants du code du domaine de l'Etat ; le ministre des affaires culturelles statue dans un délai maximum de six mois à compter de la réception de la demande.

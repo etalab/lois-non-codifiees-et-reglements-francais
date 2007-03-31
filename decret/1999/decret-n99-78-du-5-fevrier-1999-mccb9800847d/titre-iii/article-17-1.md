@@ -6,7 +6,7 @@ Dans chacune des régions mentionnées à l'article 17, la délégation permanen
 
 a) Le directeur régional des affaires culturelles ;
 
-b) Les trois fonctionnaires mentionnés au 1 du b de l'article 17 ;
+b) Les trois fonctionnaires mentionnés au a du 2° de l'article 17 ;
 
 c) Le chef du service départemental de l'architecture et du patrimoine.
 

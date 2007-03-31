@@ -2,9 +2,11 @@
 
 La commission régionale du patrimoine et des sites, placée auprès du préfet de région, est chargée d'émettre un avis :
 
-- sur les propositions de classement parmi les monuments historiques et d'inscription sur l'inventaire supplémentaire des monuments historiques qui lui sont soumises en application de l'article 5 du décret du 18 mars 1924 susvisé ;
+- sur les demandes de classement ou d'inscription d'immeubles au titre des monuments historiques ainsi que sur les propositions de classement ou d'inscription dont le préfet de région prend l'initiative ;
 
-- sur les projets de création de zone de protection du patrimoine architectural, urbain et paysager qui lui sont soumis en application du deuxième alinéa de l'article L. 642-2 du code du patrimoine.
+- sur les projets de création de zones de protection du patrimoine architectural, urbain et paysager ;
+
+- sur les propositions de création de périmètres de protection adaptés prévues au deuxième alinéa de l'article L. 621-30-1 du code du patrimoine. Dans ce cas, l'avis est donné conjointement à l'avis sur la proposition d'inscription ou de classement de l'immeuble non protégé auquel se rapporte ce périmètre. Elle peut aussi donner un avis sur les propositions de modification des périmètres de protection existants prévue au troisième alinéa du même article.
 
 Le préfet de région peut recueillir l'avis de la commission régionale du patrimoine et des sites sur toute question intéressant l'étude, la protection et la conservation du patrimoine de la région.
 

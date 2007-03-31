@@ -1,6 +1,6 @@
 # Article 3
 
-La commission départementale des objets mobiliers est composée :
+I. - Dans les départements autres que la Haute-Corse et la Corse-du-Sud, la commission départementale des objets mobiliers comprend vingt-cinq membres. Elle est composée :
 
 a) De membres de droit :
 
@@ -8,13 +8,13 @@ a) De membres de droit :
 
 2. Le directeur régional des affaires culturelles ou son représentant ;
 
-3. Le conservateur du patrimoine, chargé de mission d'inspection des monuments historiques pour les objets mobiliers du département ;
+3. Le conservateur du patrimoine, chargé des monuments historiques territorialement compétent ;
 
 4. Le conservateur régional des monuments historiques ou son représentant ;
 
-5. Le conservateur régional de l'inventaire général ou son représentant ;
+5.  Le chef de service des opérations d'inventaire du patrimoine culturel ou son représentant ;
 
-6. Le conservateur des antiquités et objets d'art ou son délégué ;
+6. Le conservateur des antiquités et objets d'art et l'un de ses délégués ou leurs représentants ;
 
 7. L'architecte des Bâtiments de France ou son représentant ;
 
@@ -34,6 +34,10 @@ b) De membres désignés :
 
 4. Trois maires ou leurs suppléants désignés par le préfet ;
 
-5. Sept personnalités désignées par le préfet.
+5. Cinq personnalités désignées par le préfet ;
 
-Les membres de la commission départementale des objets mobiliers désignés par le préfet ou par le conseil général sont nommés pour une durée de quatre ans renouvelable.
+6. Deux représentants d'associations ou fondations ayant pour objet de favoriser la connaissance, la protection et la conservation du patrimoine ou leurs suppléants.
+
+II. - Dans les départements de Haute-Corse et de Corse-du-Sud, la commission départementale des objets mobiliers comprend les membres susmentionnés à l'exception de ceux prévus au 3 du b. Elle comprend en outre un conseiller général ou son suppléant désigné par le conseil général et trois représentants de la collectivité territoriale de Corse ou leurs suppléants désignés par l'Assemblée de Corse.
+
+III. - Les membres de la commission départementale des objets mobiliers sont nommés pour une durée de quatre ans renouvelable quelle que soit l'autorité qui les a désignés.

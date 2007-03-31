@@ -1,3 +1,0 @@
-# Article 10
-
-Lorsqu'une personne morale de droit public qui avait acquis un immeuble classé par la voie de l'expropriation cède cet immeuble à une personne privée en vertu des dispositions de la loi susvisée au 31 décembre 1913 modifiée, le ministre des affaires culturelles adresse au propriétaire exproprié, préalablement à la cession, une lettre recommandée avec demande d'avis de réception l'informant de la cession envisagée, des conditions dans lesquelles cette cession est prévue, conformément au cahier des charges annexé à l'acte de cession, et l'invitant à lui présenter éventuellement ses observations écrites dans un délai de deux mois.

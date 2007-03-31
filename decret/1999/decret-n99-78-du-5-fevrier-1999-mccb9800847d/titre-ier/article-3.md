@@ -1,6 +1,6 @@
 # Article 3
 
-La commission régionale du patrimoine et des sites comprend trente membres :
+La commission régionale du patrimoine et des sites comprend trente-deux membres :
 
 a) Sept membres de droit :
 
@@ -16,9 +16,9 @@ a) Sept membres de droit :
 
 6. Le conservateur régional de l'archéologie ;
 
-7. Le conservateur régional de l'inventaire général ;
+7. Le chef du service chargé des opérations d'inventaire du patrimoine culturel ;
 
-b) Vingt-trois membres nommés par le préfet de région pour une durée de quatre ans :
+b) Vingt-cinq membres nommés par le préfet de région pour une durée de quatre ans :
 
 1. Un conservateur du patrimoine relevant de la spécialité des monuments historiques ;
 
@@ -32,7 +32,7 @@ b) Vingt-trois membres nommés par le préfet de région pour une durée de quat
 
 6. Huit personnalités qualifiées dans le domaine de l'architecture, de l'urbanisme, du paysage, du patrimoine ou de l'ethnologie ;
 
-7. Trois représentants d'associations ayant pour objet de favoriser la connaissance, la protection et la conservation du patrimoine.
+7. Cinq représentants d'associations ou fondations ayant pour objet de favoriser la connaissance, la protection et la conservation du patrimoine.
 
 Les membres de droit peuvent se faire représenter. Pour chacun des membres nommés autres que les personnalités qualifiées, un suppléant est désigné dans les mêmes conditions ; il siège en cas d'absence ou d'empêchement du titulaire.
 
