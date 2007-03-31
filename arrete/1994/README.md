@@ -83,7 +83,6 @@
 - [Arrêté du 3 mai 1994 (JUSE9440090A)](arrete-du-3-mai-1994-juse9440090a)
 - [Arrêté du 3 mai 1994 (JUSE9440091A)](arrete-du-3-mai-1994-juse9440091a)
 - [Arrêté du 4 août 1994 (EQUA9401428A)](arrete-du-4-aout-1994-equa9401428a)
-- [Arrêté du 4 août 1994 (JUSA9400248A)](arrete-du-4-aout-1994-jusa9400248a)
 - [Arrêté du 4 août 1994 (SPSH9402549A)](arrete-du-4-aout-1994-spsh9402549a)
 - [Arrêté du 4 août 1994 (TEFE9400904A)](arrete-du-4-aout-1994-tefe9400904a)
 - [Arrêté du 4 février 1994 (BUDR9405007A)](arrete-du-4-fevrier-1994-budr9405007a)
