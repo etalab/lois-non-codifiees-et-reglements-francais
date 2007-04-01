@@ -359,7 +359,6 @@
 - [Décret n°94-979 du 14 novembre 1994 (SPSH9403405D)](decret-n94-979-du-14-novembre-1994-spsh9403405d)
 - [Décret n°94-980 du 14 novembre 1994 (JUSC9420900D)](decret-n94-980-du-14-novembre-1994-jusc9420900d)
 - [Décret n°94-982 du 14 novembre 1994 (SPSS9403093D)](decret-n94-982-du-14-novembre-1994-spss9403093d)
-- [Décret n°69-444 du 14 mai 1969](decret-n69-444-du-14-mai-1969)
 - [Décret n°90-414 du 14 mai 1990 (MENT9000432D)](decret-n90-414-du-14-mai-1990-ment9000432d)
 - [Décret n°94-376 du 14 mai 1994 (ECOT9436519D)](decret-n94-376-du-14-mai-1994-ecot9436519d)
 - [Décret n°67-1007 du 15 novembre 1967](decret-n67-1007-du-15-novembre-1967)
