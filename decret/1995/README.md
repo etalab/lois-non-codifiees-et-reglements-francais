@@ -889,7 +889,6 @@
 - [Décret n°95-85 du 26 janvier 1995 (COMK9504002D)](decret-n95-85-du-26-janvier-1995-comk9504002d)
 - [Décret n°95-86 du 26 janvier 1995 (SPSH9403841D)](decret-n95-86-du-26-janvier-1995-spsh9403841d)
 - [Décret n°95-746 du 26 mai 1995 (MAEX9500066D)](decret-n95-746-du-26-mai-1995-maex9500066d)
-- [Décret n°97-526 du 26 mai 1997 (JUSF9750005D)](decret-n97-526-du-26-mai-1997-jusf9750005d)
 - [Décret du 27 avril 1995 (INTA9500068D)](decret-du-27-avril-1995-inta9500068d)
 - [Décret n°93-958 du 27 juillet 1993 (TEFE9300777D)](decret-n93-958-du-27-juillet-1993-tefe9300777d)
 - [Décret n°94-1140 du 27 décembre 1994 (SPSS9403734D)](decret-n94-1140-du-27-decembre-1994-spss9403734d)
