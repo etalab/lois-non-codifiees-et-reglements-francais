@@ -3,5 +3,4 @@
 - [Article 1](article-1.md)
 - [Titre Ier : Adjoints administratifs pénitentiaires.](titre-ier)
 - [Article 2](article-2.md)
-- [Titre III : Attachés d'administration et d'intendance](titre-iii)
 - [Titre IV : Dispositions transitoires.](titre-iv)
