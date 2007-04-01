@@ -94,7 +94,7 @@ Corps de fonctionnaires
 
 - ingénieurs de l'industrie et des mines régis par le décret n° 88-507 du 29 avril 1988 modifié ;
 
-- professeurs, maîtres-assistants et assistants des écoles nationales supérieures des mines et des écoles nationales supérieures des techniques industrielles et des mines régis par le décret n° 69-444 du 14 mai 1969 modifié ;
+- professeurs, maîtres-assistants et assistants des écoles nationales supérieures des mines et des écoles nationales supérieures des techniques industrielles et des mines régis par le décret n° 2007-468 du 28 mars 2007 ;
 
 - techniciens de laboratoire affectés dans les écoles nationales supérieures des mines et dans les écoles nationales supérieures des techniques industrielles et des mines et régis par le décret n° 96-273 du 26 mars 1996 modifié ;
 
