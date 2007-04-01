@@ -1,0 +1,3 @@
+# Article 3
+
+Les contrôleurs généraux des services actifs de la police nationale assurent notamment, en matière de sécurité intérieure, des missions de direction opérationnelle des services ou des missions de contrôle et d'audit. Ils peuvent se voir confier les fonctions de sous-directeurs des services actifs de la police nationale ainsi que la direction ou la coordination des services déconcentrés ou territoriaux de la police nationale comportant des responsabilités particulières. Ils peuvent également assurer des fonctions de direction d'un établissement public placé sous la tutelle du ministre de l'intérieur lorsque cet établissement concourt aux missions qui relèvent des services actifs de la police nationale.
