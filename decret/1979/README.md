@@ -96,7 +96,6 @@
 - [Décret n°79-63 du 23 janvier 1979](decret-n79-63-du-23-janvier-1979)
 - [Décret n°79-636 du 23 juillet 1979](decret-n79-636-du-23-juillet-1979)
 - [Décret n°79-637 du 23 juillet 1979](decret-n79-637-du-23-juillet-1979)
-- [Décret n°79-64 du 23 janvier 1979](decret-n79-64-du-23-janvier-1979)
 - [Décret n°79-65 du 23 janvier 1979](decret-n79-65-du-23-janvier-1979)
 - [Décret n°79-66 du 23 janvier 1979](decret-n79-66-du-23-janvier-1979)
 - [Décret n°79-71 du 23 janvier 1979](decret-n79-71-du-23-janvier-1979)
