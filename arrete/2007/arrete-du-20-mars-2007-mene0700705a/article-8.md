@@ -1,0 +1,3 @@
+# Article 8
+
+Par dérogation aux dispositions de l'article 2 de l'arrêté du 29 juillet 1992 modifié susvisé, fixant les modalités d'organisation et de prise en compte des épreuves organisées sous forme d'un contrôle en cours de formation en établissement ou en centre de formation d'apprentis et en entreprise pour la délivrance des brevets d'études professionnelles et certificats d'aptitude professionnelle, les candidats scolaires, en établissements publics ou privés sous contrat, les apprentis en centre de formation d'apprentis ou sections d'apprentissage habilités et les candidats relevant de la formation professionnelle continue en établissements publics sont évalués intégralement, pour les épreuves professionnelles, sous forme d'un contrôle en cours de formation.
