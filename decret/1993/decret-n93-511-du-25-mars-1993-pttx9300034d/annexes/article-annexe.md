@@ -32,17 +32,17 @@ Agent technique et de gestion de second niveau : 384-592 (612)
 
 Echelon exceptionnel.
 
-Agent technique et de gestion de premier niveau : 298-544 (592-612)
+Agent technique et de gestion de premier niveau : 384-592 (612)
 
 Echelons exceptionnels.
 
-Agent professionnel qualifié de second niveau : 279-474
+Agent professionnel qualifié de second niveau : 290-479
 
-Agent professionnel qualifié de premier niveau : 259-449
+Agent professionnel qualifié de premier niveau : 287-449
 
-Agent professionnel: 244-365
+Agent professionnel: 281-388
 
-II. - EXPLOITANT PUBLIC FRANCE TELECOM
+II. - FRANCE TELECOM
 
 Cadre supérieur de second niveau : 427-966 (1015) (HE A)
 
@@ -64,12 +64,12 @@ Collaborateur de second niveau : 384-592 (612)
 
 Echelon exceptionnel.
 
-Collaborateur de premier niveau : 298-544 (592-612)
+Collaborateur de premier niveau : 384-592 (612)
 
 Echelons exceptionnels.
 
-Agent professionnel qualifié de second niveau : 279-474
+Agent professionnel qualifié de second niveau : 290-479
 
-Agent professionnel qualifié de premier niveau : 259-449
+Agent professionnel qualifié de premier niveau : 287-449
 
-Agent professionnel : 244-365
+Agent professionnel : 281-388
