@@ -22,13 +22,15 @@ Au sens du présent arrêté, les termes ci-après ont le sens qui leur est donn
 
 - anomalie : observation qui n'entraîne pas de contre-visite en application de l'annexe I du présent arrêté ;
 
+- Commentaire : libellé codifié "C" à l'annexe I du présent arrêté ;
+
 - procès-verbal de contrôle technique : document remis à l'issue du contrôle technique à la personne qui présente le véhicule conformément aux dispositions de l'article 8 du présent arrêté, listant notamment les observations relevées en application de l'annexe I du présent arrêté ;
 
 - carte grise : certificat d'immatriculation délivré en application de l'article R. 322-2 du code de la route et de l'arrêté du 5 novembre 1984 relatif à l'immatriculation des véhicules ;
 
 - centre de contrôle de véhicules lourds : centre de contrôle agréé pour le contrôle de véhicules lourds.
 
-Les catégories de contrôle techniques sont les suivantes :
+Les catégories de contrôles techniques sont les suivantes :
 
 - contrôle technique des véhicules légers ;
 

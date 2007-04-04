@@ -20,6 +20,6 @@ h) L'OTC centralise et maintient à jour l'ensemble des éléments techniques n�
 
 i) L'OTC élabore et tient à jour les informations prévues aux III des articles R. 323-14 et R. 323-18 du code de la route ;
 
-j) L'OTC contrôle la conformité aux spécifications fonctionnelles et au protocole de communication prévu à l'article 38 de l'outil informatique des réseaux et installations de contrôle.
+j) L'OTC contrôle la conformité de l'outil informatique des réseaux et installations de contrôle par rapport aux spécifications fonctionnelles et au protocole de communication prévus à l'article 38.
 
 L'ensemble des informations est mis à disposition du ministère chargé des transports et des administrations chargées de la surveillance administrative des réseaux, des installations de contrôle et des contrôleurs.
