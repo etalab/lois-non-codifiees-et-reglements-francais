@@ -1,0 +1,3 @@
+# Article 8
+
+L'arrêté du 28 juin 2004 fixant la liste des caisses mutuelles complémentaires et d'action sociale des industries électriques et gazières est abrogé le 1er avril 2007. Le comité de coordination des caisses mutuelles complémentaires et d'action sociale transmet à cette date au directeur de la demande et des marchés énergétiques au ministère chargé de l'énergie la liste des caisses mutuelles complémentaires et d'action sociale établie dans les conditions prévues au § 1-3 de l'article 25 du statut national du personnel des industries électriques et gazières dans sa rédaction issue du décret du 30 mars 2007 susvisé.

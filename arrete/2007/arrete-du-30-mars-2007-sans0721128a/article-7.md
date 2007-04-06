@@ -1,0 +1,3 @@
+# Article 7
+
+Le règlement du comité de coordination des caisses mutuelles complémentaires et d'action sociale annexé à l'arrêté du 28 septembre 1956 est abrogé à compter du 1er avril 2007 en ses dispositions relatives à la gestion du régime spécial d'assurance maladie et maternité. Le comité de coordination des caisses mutuelles complémentaires et d'action sociale soumet une proposition de nouveau règlement au ministre chargé de l'énergie au plus tard le 1er avril 2007, conformément au § 1-3 de l'article 25 du statut national du personnel des industries électriques et gazières dans sa rédaction issue du décret du 30 mars 2007 susvisé.
