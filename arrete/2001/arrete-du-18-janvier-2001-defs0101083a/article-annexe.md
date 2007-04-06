@@ -107,3 +107,9 @@
 51. Général commandant la 6e brigade légère blindée.
 
 52. Général commandant la 2e brigade blindée.
+
+53. Général commandant les forces françaises stationnées à Djibouti ;
+
+54. Général commandant les forces françaises au Gabon ;
+
+55. Général commandant les forces françaises du Cap-Vert.
