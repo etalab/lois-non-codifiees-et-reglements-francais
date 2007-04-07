@@ -35,3 +35,7 @@ VI. - Elle participe à l'action internationale dans les domaines de l'industrie
 VII. - Elle assure, pour le compte du ministre chargé de l'industrie, et sous réserve des attributions de la direction générale du Trésor et de la politique économique, la tutelle et, le cas échéant, le contrôle des établissements publics et des entreprises publiques relevant de ses compétences.
 
 Dans son champ de compétence, elle exerce la tutelle des comités professionnels et des centres techniques industriels et apporte son concours à l'exercice de la tutelle de l'assemblée des chambres françaises de commerce et d'industrie et des chambres de commerce et d'industrie.
+
+VIII. - Elle participe aux missions de l'Etat en matière de sûreté nucléaire et de radioprotection, en application de la loi n° 2006-686 du 13 juin 2006 relative à la transparence et à la sécurité en matière nucléaire.
+
+En particulier, elle propose, en liaison avec l'Autorité de sûreté nucléaire, la politique du Gouvernement en matière de sûreté nucléaire et de radioprotection, à l'exclusion de ce qui concerne les installations et activités nucléaires intéressant la défense et la protection des travailleurs contre les rayonnements ionisants.

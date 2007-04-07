@@ -22,6 +22,4 @@ a) La direction des ressources énergétiques et minérales ;
 
 b) La direction de la demande et des marchés énergétiques.
 
-5. La direction générale de la sûreté nucléaire et de la radioprotection.
-
 Elle s'appuie en outre sur la direction générale du Trésor et de la politique économique du ministère de l'économie pour l'exercice des compétences du ministre en matière de commerce extérieur.
