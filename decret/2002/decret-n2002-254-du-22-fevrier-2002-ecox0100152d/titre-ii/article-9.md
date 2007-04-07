@@ -9,3 +9,5 @@ Les membres appartenant à l'une des catégories définies à l'article 4 peuven
 Le commissaire du Gouvernement, le membre du corps du contrôle général économique et financier, le directeur général, le directeur général adjoint mentionné à l'article 14 assistent aux séances avec voix consultative. L'agent comptable y assiste dans les conditions prévues au dernier alinéa de l'article 195 du décret du 29 décembre 1962 susvisé. En cas d'empêchement, le commissaire du Gouvernement, le membre du corps du contrôle général économique et financier et l'agent comptable peuvent se faire représenter par une personne placée sous leur autorité.
 
 Le président peut appeler à participer à une partie ou à la totalité d'une séance, avec voix consultative, toute personne dont il juge la présence utile pour l'étude d'une question inscrite à l'ordre du jour.
+
+Le président de l'Autorité de sûreté nucléaire a accès en tant que de besoin, lorsqu'il l'estime utile pour compléter l'information nécessaire à l'exercice de ses missions, aux réunions du conseil d'administration. Le conseil d'administration peut demander à entendre le président de l'Autorité de sûreté nucléaire.
