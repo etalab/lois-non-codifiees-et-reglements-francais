@@ -4,7 +4,7 @@ Le comité de l'énergie atomique peut être saisi des problèmes généraux de 
 
 Ce comité comprend, sous la présidence du Premier ministre, ou d'un ministre ayant reçu à cet effet délégation de celui-ci ou, à défaut, sous la présidence l'administrateur général :
 
-- treize membres de droit :
+- douze membres de droit :
 
 - l'administrateur général ;
 
@@ -22,13 +22,11 @@ Ce comité comprend, sous la présidence du Premier ministre, ou d'un ministre a
 
 - le directeur du budget ;
 
-- le directeur général de la sûreté nucléaire et de la radioprotection ;
-
 - le délégué à la sûreté nucléaire et à la radioprotection pour les activités et installations intéressant la défense ;
 
-- le directeur de la recherche ;
+- le directeur général de la recherche et de l'innovation ;
 
-- le directeur de la technologie ;
+- le directeur général de l'enseignement supérieur ;
 
 - le président du conseil d'administration du centre national de la recherche scientifique ;
 
@@ -41,3 +39,5 @@ Ce comité comprend, sous la présidence du Premier ministre, ou d'un ministre a
 Le haut commissaire ainsi que les autres membres du comité qui ne sont pas membres de droit sont nommés pour trois ans par décret en conseil des ministres.
 
 Le nombre des membres du comité, autres que les membres de droit, qui ont dépassé l'âge de soixante-cinq ans, doit être inférieur à quatre. Si ce nombre est atteint, le plus âgé de ces membres est réputé démissionnaire d'office.
+
+Le président de l'Autorité de sûreté nucléaire a accès en tant que de besoin lorsqu'il l'estime utile pour compléter l'information nécessaire à l'exercice de ses missions aux réunions du comité. Le comité peut demander à entendre le président de l'Autorité de sûreté nucléaire.
