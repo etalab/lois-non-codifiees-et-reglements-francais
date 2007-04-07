@@ -14,7 +14,7 @@ L'inspecteur général du travail des transports.
 
 La directrice générale du personnel et de l'administration.
 
-Le directeur général de l'urbanisme, de l'habitat et de la construction.
+L'adjoint aux directeurs, direction générale de l'urbanisme, de l'habitat et de la construction.
 
 Le directeur général des routes.
 
@@ -22,7 +22,7 @@ Le directeur général de la mer et des transports.
 
 Le directeur général de l'aviation civile.
 
-La directrice de la sécurité et de la circulation routières.
+La présidente de la deuxième section du conseil général des ponts et chaussées.
 
 Le directeur du tourisme.
 
@@ -44,9 +44,9 @@ Le secrétaire général de la direction générale de l'aviation civile.
 
 La directrice des affaires juridiques, informatiques et logistiques.
 
-Le chef du service du pilotage des services et de la modernisation du secrétariat général.
+Le chef de la mission pilotage des services.
 
-Le chef du service du personnel, adjoint à la directrice générale du personnel et de l'administration.
+Le chef du service des effectifs et du budget, adjoint à la directrice générale du personnel et de l'administration.
 
 Le directeur des affaires maritimes.
 
@@ -56,7 +56,7 @@ La chargée du département des relations sociales de la direction générale du
 
 Un directeur régional des affaires maritimes.
 
-Un chef de service navigation.
+L'adjointe à la chargée du département des relations sociales.
 
 Deux directrices départementales ou directrices départementales déléguées ou adjointes aux directeurs départementaux de l'équipement.
 
