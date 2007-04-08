@@ -1,7 +1,9 @@
 # Article 20
 
-Le conseil d'administration de la Caisse nationale des monuments historiques et des sites en fonction à la date de publication du décret n° 2000-357 du 21 avril 2000 relatif au Centre des monuments nationaux et modifiant le décret n° 95-462 du 26 avril 1995 exerce les attributions du conseil d'administration du Centre des monuments nationaux jusqu'à ce que les nouveaux administrateurs soient nommés dans les conditions définies par l'article 8.
+Jusqu'à leur remise en dotation, les monuments historiques figurant sur la liste des sites gérés par le Centre des monuments nationaux établie par arrêté du ministre chargé de la culture demeurent régis par les dispositions suivantes :
 
-Toutefois, les deux membres du conseil d'administration de la Caisse nationale des monuments historiques et des sites représentant le personnel demeurent en fonction jusqu'à l'élection des trois représentants du personnel du Centre des monuments nationaux, qui interviendra au plus tard dans les huit mois suivant la date de publication du décret précité.
+1° Les travaux d'entretien et de conservation sont pris en charge et réalisés par les services de l'Etat ;
 
-Jusqu'à la nomination du président et du directeur du Centre des monuments nationaux, le président et le directeur de la Caisse nationale des monuments historiques et des sites en fonction à la date de publication du décret précité exercent respectivement les attributions du président et du directeur du Centre des monuments nationaux dans les conditions définies par les articles 12 et 13 du présent décret.
+2° Le Centre des monuments nationaux supporte la charge des dépenses de fonctionnement courant de ces immeubles. Il réalise ou fait réaliser les aménagements mobiliers ou immobiliers d'accueil, de sécurité et de confort nécessaires à l'exécution de sa mission. Il est consulté par les services de l'Etat préalablement à l'établissement de la programmation des travaux d'entretien et de conservation dans ces monuments ;
+
+3° La gestion domaniale de ces immeubles demeure confiée au Centre des monuments nationaux dans le cadre de la convention passée en application des articles L. 2123-2 du code général de la propriété des personnes publiques et R. 128-1 à R. 128-7 du code du domaine de l'Etat.

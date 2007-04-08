@@ -4,15 +4,15 @@ Les dépenses de l'établissement comprennent :
 
 1° Les frais de personnel de l'établissement ;
 
-2° Les frais de fonctionnement et d'équipement du siège ;
+2° Les frais de fonctionnement ;
 
-3° Les dépenses d'acquisition des objets mobiliers mentionnés au troisième alinéa de l'article 4 ;
+3° Les dépenses d'acquisition des biens culturels mentionnés à l'article 4 ;
 
-4° Les dépenses de fonctionnement des monuments mentionnés aux articles 2 et 3 ;
+4° Alinéa supprimé
 
-5° Les dépenses liées aux aménagements mobiliers et immobiliers rendus nécessaires par l'accueil du public et la sécurité des monuments ;
+5° Les dépenses liées aux équipements, aux travaux d'aménagement, d'entretien et de restauration ;
 
-6° Les frais du contrôle financier ;
+6° Alinéa supprimé
 
 7° La rémunération de l'agent comptable et, le cas échéant, des agents comptables secondaires ;
 

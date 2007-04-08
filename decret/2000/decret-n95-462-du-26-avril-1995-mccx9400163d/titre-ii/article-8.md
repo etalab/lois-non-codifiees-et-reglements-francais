@@ -1,6 +1,6 @@
 # Article 8
 
-Le Centre des monuments nationaux est administré par un conseil d'administration et dirigé par le président du conseil d'administration, nommé par décret sur proposition du ministre chargé de la culture pour une durée de trois ans renouvelable.
+L'établissement est dirigé par un président, nommé par décret sur proposition du ministre chargé de la culture pour une durée de trois ans renouvelable. Il est administré par un conseil d'administration présidé par le président de l'établissement.
 
 Le conseil d'administration comprend, outre son président :
 
@@ -20,7 +20,7 @@ Le conseil d'administration comprend, outre son président :
 
 8° Trois représentants du personnel élus selon des modalités fixées par arrêté du ministre chargé de la culture.
 
-Le directeur, le membre du corps du contrôle général économique et financier ou son représentant et l'agent comptable assistent également aux séances du conseil d'administration avec voix consultative.
+Le directeur général, le membre du corps du contrôle général économique et financier ou son représentant et l'agent comptable assistent également aux séances du conseil d'administration avec voix consultative.
 
 Le président peut appeler à participer aux séances du conseil d'administration avec voix consultative toute personne dont il juge la présence utile.
 

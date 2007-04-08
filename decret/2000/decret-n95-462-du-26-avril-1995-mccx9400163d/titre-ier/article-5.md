@@ -8,6 +8,14 @@ Pour l'exécution de sa mission, le Centre des monuments nationaux peut :
 
 3° Organiser des visites-conférences, des expositions, des spectacles et toutes autres manifestations à caractère pédagogique, culturel ou de loisir se rapportant aux immeubles mentionnés aux articles 2 et 3, le cas échéant en dehors de leur emprise ;
 
-4° Faire réaliser des études historiques et scientifiques destinées à améliorer la connaissance des monuments nationaux et de leurs collections.
+4° Faire réaliser des études historiques et scientifiques destinées à améliorer la connaissance des monuments nationaux et de leurs collections ;
 
-Les activités définies au présent article peuvent, le cas échéant, et après approbation par arrêté conjoint des ministres chargés de l'économie, du budget et de la culture, être exercées à travers des filiales, constituées sous forme de société anonyme, de groupement d'intérêt économique ou de groupement d'intérêt public, ou de société d'économie mixte, ou être concédées à d'autres opérateurs publics ou privés.
+5° Concéder des activités, passer des baux et délivrer à des personnes publiques ou privées des autorisations d'occupation du domaine public sur les immeubles reçus en dotation ;
+
+6° Réaliser ou coordonner l'ensemble des études, consultations ou concours à caractère national ou international et des travaux nécessaires à l'exercice de ses missions ;
+
+7° Prendre des participations financières et créer des filiales, participer à des groupements d'intérêt économique, à des groupements d'intérêt public, à des sociétés d'économie mixte ou à d'autres groupements de personnes morales publiques ou privées ;
+
+8° Apporter son concours technique et coopérer selon toute modalité utile avec des collectivités publiques, avec toute personne de droit public ou privé, française ou étrangère poursuivant des objectifs répondant à ses missions ou contribuant à ses activités ;
+
+9° Développer, le cas échéant conjointement avec des personnes publiques ou privées, en France ou à l'étranger, les actions d'information et de promotion utiles à l'exécution de sa mission.
