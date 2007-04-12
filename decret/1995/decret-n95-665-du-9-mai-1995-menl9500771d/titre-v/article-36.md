@@ -1,3 +1,7 @@
 # Article 36
 
-Les dispositions du présent décret s'appliquent à l'ensemble des spécialités de brevet de technicien supérieur à compter du 1er septembre 1996 sous réserve des dispositions de l'article 37 ci-dessous.
+Lorsque la section de technicien supérieur est implantée dans un établissement public ou privé sous contrat, le chef d'établissement délivre aux étudiants, après consultation du conseil de classe, une attestation descriptive du parcours de formation qu'ils ont suivi et des connaissances et aptitudes qu'ils ont acquises.
+
+L'attestation descriptive est établie conformément aux référentiel de certification de la spécialité mentionné à l'article 3, dans le respect des conditions prévues pour la description des parcours de formation dans la mise en oeuvre du système de crédits européens définie à l'article 5 du décret n° 2002-482 du 8 avril 2002 modifié portant application au système français d'enseignement supérieur de la construction de l'Espace européen de l'enseignement supérieur.
+
+En outre, lorsqu'une ou plusieurs unités constitutives du référentiel de certification ont été validées sous forme ponctuelle ou par contrôle en cours de formation, l'attestation descriptive mentionne pour chaque épreuve les crédits définis en fonction de leur coefficient à l'examen.
