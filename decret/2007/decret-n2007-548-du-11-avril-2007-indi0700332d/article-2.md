@@ -1,0 +1,3 @@
+# Article 2
+
+Sont abrogées les décisions ministérielles n° 68-7 du 12 juillet 1968 et n° 77-4 du 18 mai 1977 relatives notamment à la mise en place des institutions représentatives du personnel au sein des entreprises électriques et gazières non nationalisées ainsi que la décision ministérielle n° 96-4 du 21 octobre 1996 relative à l'extension aux entreprises électriques et gazières non nationalisées de la circulaire d'EDF-GDF relative à l'hygiène, à la sécurité et aux conditions de travail. Cette abrogation prend effet à la date d'installation des institutions représentatives du personnel constituées conformément aux dispositions du présent décret.
