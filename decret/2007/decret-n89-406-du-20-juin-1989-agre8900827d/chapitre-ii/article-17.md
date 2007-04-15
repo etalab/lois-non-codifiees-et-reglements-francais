@@ -1,0 +1,3 @@
+# Article 17
+
+La qualification pédagogique des enseignants classés en 1re ou en 3e catégorie est attestée, dans des conditions fixées par arrêté du ministre chargé de l'agriculture, par une inspection pédagogique favorable qui doit intervenir après l'expiration de la période d'essai prévue à l'article 5 du présent décret et au plus tard dans un délai de deux ans à compter de l'entrée en vigueur du contrat. En cas d'inspection défavorable, l'enseignant peut, dans les deux mois à compter de la date de notification du rapport d'inspection, demander à subir une autre inspection ; celle-ci doit être effectuée dans un délai maximum d'un an.

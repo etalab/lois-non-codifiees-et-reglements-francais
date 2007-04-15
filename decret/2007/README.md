@@ -305,6 +305,7 @@
 - [Décret n°2005-1309 du 20 octobre 2005 (JUSC0520586D)](decret-n2005-1309-du-20-octobre-2005-jusc0520586d)
 - [Décret n°2007-229 du 20 février 2007 (BUDR0708005D)](decret-n2007-229-du-20-fevrier-2007-budr0708005d)
 - [Décret n°2007-232 du 20 février 2007 (PMEA0620144D)](decret-n2007-232-du-20-fevrier-2007-pmea0620144d)
+- [Décret n°89-406 du 20 juin 1989 (AGRE8900827D)](decret-n89-406-du-20-juin-1989-agre8900827d)
 - [Décret du 21 février 2007 (AGRP0602468D)](decret-du-21-fevrier-2007-agrp0602468d)
 - [Décret du 21 février 2007 (AGRP0700214D)](decret-du-21-fevrier-2007-agrp0700214d)
 - [Décret du 21 février 2007 (AGRP0700215D)](decret-du-21-fevrier-2007-agrp0700215d)

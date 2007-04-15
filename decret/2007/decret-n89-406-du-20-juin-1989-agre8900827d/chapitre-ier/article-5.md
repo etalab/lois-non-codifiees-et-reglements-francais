@@ -1,0 +1,3 @@
+# Article 5
+
+La première année suivant la date d'effet d'un premier contrat conclu en application des articles 7 et 9 constitue une période d'essai. Si la période d'essai d'un contrat précédent n'a pas été accomplie en totalité, la première année d'un nouveau contrat constitue également une période d'essai. Au cours de la période d'essai, le ministre chargé de l'agriculture peut, soit de sa propre initiative après avis du chef d'établissement, soit sur proposition du chef d'établissement, résilier le contrat au terme d'un préavis de huit jours dans les trois premiers mois et d'un préavis d'un mois dans les neuf mois suivants. L'enseignant peut, dans le même délai de préavis, demander la résiliation de son contrat.
