@@ -1,3 +1,0 @@
-# Article 18
-
-La qualification pédagogique des enseignants classés en 2e ou en 4e catégorie, qui figurent sur une des listes prévues à l'article 15 ci-dessus, est attestée par un certificat d'aptitude pédagogique. Ce certificat est délivré aux candidats qui ont subi avec succès les épreuves d'un examen de qualification professionnelle organisé au terme d'un stage, selon des modalités définies par un arrêté du ministre de l'agriculture et de la forêt. Les candidats dont les résultats à cet examen de qualification professionnelle ne sont pas jugés satisfaisants peuvent être autorisés par le ministre de l'agriculture et de la forêt à effectuer un nouveau stage et à se présenter une deuxième fois à l'examen de qualification professionnelle.
