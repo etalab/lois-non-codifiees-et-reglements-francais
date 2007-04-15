@@ -14,6 +14,6 @@ Ne peuvent être pratiqués que par les docteurs en médecine, conformément à 
 
 6° Toute abrasion instrumentale des téguments à l'aide d'un matériel susceptible de provoquer l'effusion du sang (rabotage, meulage, fraisage).
 
-7° Le maniement des appareils servant à déterminer la réfraction oculaire.
+7° (supprimé)
 
 8° Audiométrie tonale et vocale à l'exclusion des mesures pratiquées pour l'appareillage des déficients de l'ouïe, en application des dispositions de l'article L. 510-1 du code de la santé publique.
