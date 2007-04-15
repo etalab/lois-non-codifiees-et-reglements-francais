@@ -1,0 +1,3 @@
+# Article 3
+
+L'inscription des élèves de l'Institut national agronomique Paris-Grignon, de l'Ecole nationale supérieure des industries agricoles et alimentaires et de l'Ecole nationale supérieure agronomique de Montpellier aux concours d'ingénieur-élève organisés au titre de l'année 2007 en application du 3 et du a du 4 de l'article 6 du décret du 22 février 2002 susvisé dans sa rédaction antérieure au présent décret vaut inscription aux concours d'ingénieur-élève organisés au titre de l'année 2007 en application du 3 et du a du 4 de l'article 6 du décret du 22 février 2002 susvisé dans sa rédaction issue du présent décret.

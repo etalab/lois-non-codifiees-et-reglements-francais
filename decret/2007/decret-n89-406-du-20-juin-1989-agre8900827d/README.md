@@ -9,4 +9,5 @@
 - [CHAPITRE VII : Gestion des emplois.](chapitre-vii)
 - [CHAPITRE VIII : Contractuels de remplacement.](chapitre-viii)
 - [CHAPITRE IX : Commission consultative mixte et conseil de discipline.](chapitre-ix)
+- [Article 70](article-70.md)
 - [Annexes](annexes)

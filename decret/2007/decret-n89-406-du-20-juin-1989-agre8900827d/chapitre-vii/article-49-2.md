@@ -1,0 +1,3 @@
+# Article 49-2
+
+Les vacances d'emploi survenant en cours d'année scolaire sont déclarées sans délai au ministre chargé de l'agriculture lorsque le chef d'établissement estime qu'il y a lieu d'y pourvoir par le recrutement d'un agent contractuel régi par le présent décret avant la rentrée suivante. En cas d'absence de candidature qualifiée relevant des priorités mentionnées au 1° de l'article 49, ou d'un lauréat de concours mentionné au 3° de cet article si la vacance d'emploi survient au cours du premier trimestre de l'année scolaire, il y est pourvu par la nomination d'un contractuel de remplacement. Dans ce dernier cas, cet emploi est déclaré vacant l'année suivante.
