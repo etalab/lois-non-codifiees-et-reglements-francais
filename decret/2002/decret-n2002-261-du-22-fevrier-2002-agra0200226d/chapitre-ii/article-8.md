@@ -8,4 +8,4 @@ Il est astreint au même versement en cas de démission ou d'exclusion définiti
 
 Les ingénieurs-élèves sont nommés par arrêté du ministre chargé de l'agriculture.
 
-Ils reçoivent un enseignement dispensé par l'Ecole nationale du génie rural, des eaux et des forêts. Ils participent dans le cadre de cet enseignement aux études et aux recherches qui peuvent leur être confiées.
+Ils reçoivent un enseignement dispensé par l'Ecole nationale du génie rural, des eaux et des forêts de l'Institut des sciences et industries du vivant et de l'environnement. Ils participent dans le cadre d e cet enseignement aux études et aux recherches qui peuvent leur être confiées.

@@ -4,7 +4,7 @@ Les ingénieurs du génie rural, des eaux et des forêts sont nommés par décre
 
 Ils sont recrutés :
 
-I. - 1° Pour 90 %, parmi les ingénieurs-élèves qui ont suivi le cycle complet de l'enseignement de l'Ecole nationale du génie rural, des eaux et des forêts et ont satisfait aux examens de sortie de cette école ;
+I. - 1° Pour 90 %, parmi les ingénieurs-élèves qui ont suivi le cycle complet de l'enseignement de l'Ecole nationale du génie rural, des eaux et des forêts de l'Institut des sciences et industries du vivant et de l'environnement et ont satisfait aux examens de sortie de cette école ;
 
 2° Pour 10 %, parmi les fonctionnaires justifiant de douze ans de services effectifs dans un ou plusieurs des corps suivants :
 

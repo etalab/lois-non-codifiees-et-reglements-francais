@@ -1,6 +1,6 @@
 # Article 6
 
-Le nombre maximum des ingénieurs-élèves pouvant être admis à l'Ecole nationale du génie rural, des eaux et des forêts est fixé chaque année par arrêté conjoint des ministres chargés de l'agriculture et de la fonction publique, dans le cadre et les limites des dispositions prévues à l'article 5.
+Le nombre maximum des ingénieurs-élèves pouvant être admis à l'Ecole nationale du génie rural, des eaux et des forêts de l'Institut des sciences et industries du vivant et de l'environnement est fixé chaque année par arrêté conjoint des ministres chargés de l'agriculture et de la fonction publique, dans le cadre et les limites des dispositions prévues à l'article 5.
 
 Leur recrutement a lieu exclusivement :
 
@@ -8,11 +8,11 @@ Leur recrutement a lieu exclusivement :
 
 2. Pour 5 % des places, par concours ouvert aux élèves des sections scientifiques des écoles normales supérieures qui, admis en troisième année de scolarité, préparent le diplôme sanctionnant celle-ci ;
 
-3. Pour 25 % des places, par concours ouvert aux élèves de l'Institut national agronomique Paris-Grignon qui, titulaires du diplôme d'agronomie générale, ont été admis en troisième année de scolarité et préparent le diplôme d'agronomie approfondie sanctionnant celle-ci ;
+3. Pour 25 % des places, par concours ouvert aux élèves de l'Institut des sciences et industries du vivant et de l'environnement qui, titulaires du diplôme d'agronomie générale, ont été admis en troisième année de scolarité et préparent le diplôme d'agronomie approfondie sanctionnant celle-ci ;
 
 4. Pour 20 % des places, par concours ouvert :
 
-a) Aux élèves des écoles nationales supérieures agronomiques mentionnées à l'article R. 812-14 du code rural à l'exception de son a, de l'Ecole nationale supérieure des industries agricoles et alimentaires et de l'Ecole nationale supérieure de l'horticulture et de l'aménagement du paysage, qui, titulaires du diplôme sanctionnant la deuxième année de scolarité de ces écoles, ont été admis en troisième année de scolarité et préparent le diplôme sanctionnant celle-ci ;
+a) Aux élèves des écoles nationales supérieures agronomiques mentionnées aux b, c, d et e de l'article R. 812-33 du code rural, de l'Institut des sciences et industries du vivant et de l'environnement en formation d'ingénieurs pour les industries agricoles et alimentaires et de l'Ecole nationale supérieure de l'horticulture et de l'aménagement du paysage de l'Institut national d'horticulture, qui, titulaires du diplôme sanctionnant la deuxième année de scolarité de ces écoles, ont été admis en troisième année de scolarité et préparent le diplôme sanctionnant celle-ci ;
 
 b) Aux élèves des écoles nationales vétérinaires qui, admis en dernière année du deuxième cycle d'études de ces écoles, préparent le diplôme d'études fondamentales vétérinaires.
 
