@@ -215,7 +215,6 @@
 - [Arrêté du 9 janvier 1990 (JUSA9000004A)](arrete-du-9-janvier-1990-jusa9000004a)
 - [Arrêté du 9 juillet 1990 (CPTP9000008A)](arrete-du-9-juillet-1990-cptp9000008a)
 - [Arrêté du 9 juillet 1990 (ECOT9010078A)](arrete-du-9-juillet-1990-ecot9010078a)
-- [Arrêté du 9 juillet 1990 (EQUS9000956A)](arrete-du-9-juillet-1990-equs9000956a)
 - [Arrêté du 9 juillet 1990 (MENK9070099A)](arrete-du-9-juillet-1990-menk9070099a)
 - [Arrêté du 9 juillet 1990 (SPSN9001453A)](arrete-du-9-juillet-1990-spsn9001453a)
 - [Arrêté du 9 juillet 1990 (SPSS9001431A)](arrete-du-9-juillet-1990-spss9001431a)
