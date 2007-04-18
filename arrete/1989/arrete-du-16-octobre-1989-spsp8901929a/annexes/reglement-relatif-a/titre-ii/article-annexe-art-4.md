@@ -1,3 +1,0 @@
-# Article Annexe, art. 4
-
-Lorsqu'un médecin présente des diplômes, certificats ou autres titres de médecin spécialiste délivrés par les Etats membres des communautés européennes ne répondant pas aux dispositions figurant pour cet Etat membre aux dénominations visées aux articles 2 et 3 du présent règlement, il doit produire devant le conseil départemental un certificat délivré par les autorités compétentes attestant que ces diplômes, certificats et autres titres de médecin spécialiste sanctionnent une formation conforme aux obligations communautaires et assimilée par l'Etat membre qui les a délivrés à ceux dont les dénominations figurent aux articles 2 et 3 du présent règlement.

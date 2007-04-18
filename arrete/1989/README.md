@@ -286,7 +286,6 @@
 - [Arrêté du 16 octobre 1989 (BUDL8900122A)](arrete-du-16-octobre-1989-budl8900122a)
 - [Arrêté du 16 octobre 1989 (BUDL8900123A)](arrete-du-16-octobre-1989-budl8900123a)
 - [Arrêté du 16 octobre 1989 (DEFP8901977A)](arrete-du-16-octobre-1989-defp8901977a)
-- [Arrêté du 16 octobre 1989 (SPSP8901929A)](arrete-du-16-octobre-1989-spsp8901929a)
 - [Arrêté du 16 mai 1989 (PTTP8900438A)](arrete-du-16-mai-1989-pttp8900438a)
 - [Arrêté du 17 août 1989 (PRME8961371A)](arrete-du-17-aout-1989-prme8961371a)
 - [Arrêté du 17 août 1989 (PRME8961372A)](arrete-du-17-aout-1989-prme8961372a)
