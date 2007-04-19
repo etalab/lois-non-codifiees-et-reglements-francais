@@ -1,6 +1,6 @@
 # Article 1
 
-Est interdite sur le territoire métropolitain et en tous temps, dans les conditions fixées par les articles R. 211-1 à R. 211-15 du code rural, la destruction des mollusques des espèces suivantes :
+Est interdite sur le territoire métropolitain et en tous temps, la destruction des mollusques des espèces suivantes :
 
 GASTÉROPODES
 

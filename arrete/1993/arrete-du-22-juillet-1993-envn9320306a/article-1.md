@@ -1,6 +1,6 @@
 # Article 1
 
-Sont interdits en tout temps, sur le territoire de la région Ile-de-France, la destruction ou l'enlèvement des oeufs, des larves et des nymphes, la destruction, la capture, l'enlèvement, la préparation aux fins de collections des insectes suivants ou, qu'ils soient vivants ou morts, leur transport, leur colportage, leur utilisation, leur mise en vente, leur vente ou leur achat :
+Sont interdits en tout temps, sur le territoire de la région Ile-de-France, la destruction ou l'enlèvement des oeufs, des larves et des nymphes, la destruction, la capture, l'enlèvement, la perturbation intentionnelle, la préparation aux fins de collections des insectes suivants ou, qu'ils soient vivants ou morts, leur transport, leur colportage, leur utilisation, leur mise en vente, leur vente ou leur achat :
 
 Odonates
 

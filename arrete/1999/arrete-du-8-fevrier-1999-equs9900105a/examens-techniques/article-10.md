@@ -2,7 +2,7 @@
 
 Sont considérées comme nulles les épreuves subies par un candidat dans les cas suivants :
 
-1° Pendant la période où le candidat est privé du droit de conduire par une décision d'annulation ou de suspension d'un permis antérieur ou d'interdiction de solliciter un permis ;
+1° Pendant la période où le candidat est privé du droit de conduire par une décision d'annulation ou de suspension d'un permis antérieur ou d'interdiction de solliciter un permis, toutefois, les candidats dont le permis de conduire a perdu sa validité pour solde de points nul peuvent, pendant la période d'interdiction de conduire, se présenter aux épreuves du permis de conduire ;
 
 2° Sur de fausses indications d'identité, substitution ou tentative de substitution de personnes à l'examen ;
 

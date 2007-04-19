@@ -32,4 +32,14 @@ Le candidat tenu de subir un examen médical demande préalablement au préfet u
 
 9° Pour les candidats titulaires d'un permis de conduire français depuis moins de cinq ans, la photocopie de leur titre. Pour les candidats titulaires d'un permis de conduire obtenu dans un autre Etat membre de l'Union européenne ou dans un Etat appartenant à l'Espace économique européen, jointe à la photocopie du titre, si elle est nécessaire, la justification de l'obtention de la dernière catégorie depuis cinq ans au plus par les autorités ayant délivré le titre initial. Cette justification devra être rédigée en français ou accompagnée d'une traduction officielle ;
 
-10° Pour les candidats âgés de seize à vingt-cinq ans, les photocopies de l'attestation de recensement et du certificat individuel de participation à l'appel de préparation à la défense, prévus par la loi n° 97-1019 du 28 octobre 1997 portant réforme du service national.
+10° Pour les candidats âgés de seize à vingt-cinq ans, les photocopies de l'attestation de recensement et du certificat individuel de participation à l'appel de préparation à la défense, prévus par la loi n° 97-1019 du 28 octobre 1997 portant réforme du service national ;
+
+11° Pour les candidats dont le permis de conduire a perdu sa validité pour solde de points nul, une copie de l'injonction de restitution de leur titre de conduite ;
+
+12° Pour les candidats aux catégories C, D, E(B), E(C) et E(D) qui se présentent aux épreuves suite à la perte de validité pour solde de points nul de leur permis de conduire et qui ne sont pas encore en possession de leur permis de conduire, une copie du certificat d'examen du permis de conduire attestant de la réussite à l'épreuve pratique de la catégorie :
+
+- B s'ils sollicitent les catégorie E(B), C et D ;
+
+- C s'ils sollicitent la catégorie E(C) ;
+
+- D s'ils sollicitent la catégorie E(D).
