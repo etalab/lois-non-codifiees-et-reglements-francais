@@ -483,7 +483,6 @@
 - [Arrêté du 22 décembre 1998 (MESS9824075A)](arrete-du-22-decembre-1998-mess9824075a)
 - [Arrêté du 22 décembre 1998 (MESS9824124A)](arrete-du-22-decembre-1998-mess9824124a)
 - [Arrêté du 22 décembre 1998 (MESS9824136A)](arrete-du-22-decembre-1998-mess9824136a)
-- [Arrêté du 22 décembre 1999 (ATEN9980364A)](arrete-du-22-decembre-1999-aten9980364a)
 - [Arrêté du 22 février 1999 (ECOR9806015A)](arrete-du-22-fevrier-1999-ecor9806015a)
 - [Arrêté du 22 février 1999 (ECOS9950009A)](arrete-du-22-fevrier-1999-ecos9950009a)
 - [Arrêté du 22 février 1999 (EQUU9900031A)](arrete-du-22-fevrier-1999-equu9900031a)
