@@ -47,6 +47,7 @@
 - [Arrêté du 10 octobre 2006 (DEFG0601483A)](arrete-du-10-octobre-2006-defg0601483a)
 - [Arrêté du 11 décembre 2006 (DEFP0601671A)](arrete-du-11-decembre-2006-defp0601671a)
 - [Arrêté du 11 décembre 2006 (ECOP0600612A)](arrete-du-11-decembre-2006-ecop0600612a)
+- [Arrêté du 12 avril 2006 (EQUA0600918A)](arrete-du-12-avril-2006-equa0600918a)
 - [Arrêté du 12 décembre 2006 (EQUT0602485A)](arrete-du-12-decembre-2006-equt0602485a)
 - [Arrêté du 12 octobre 2006 (JUSK0640193A)](arrete-du-12-octobre-2006-jusk0640193a)
 - [Arrêté du 12 octobre 2006 (JUSK0640194A)](arrete-du-12-octobre-2006-jusk0640194a)
