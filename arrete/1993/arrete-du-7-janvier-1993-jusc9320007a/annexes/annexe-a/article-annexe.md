@@ -98,7 +98,7 @@ Les commerçants et les sociétés commerciales ;
 
 Le fonds de commerce et les contrats dont il peut faire l'objet ;
 
-Redressement et liquidation judiciaires.
+Droit des entreprises en difficulté.
 
 Oral.
 

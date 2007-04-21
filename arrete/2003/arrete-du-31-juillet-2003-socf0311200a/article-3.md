@@ -1,15 +1,13 @@
 # Article 3
 
-Le titre professionnel de technicien de maintenance industrielle est composé de cinq unités constitutives dont la liste suit :
+Le titre professionnel de technicien(ne) de maintenance industrielle est composé des quatre unités constitutives dont la liste suit :
 
-1. Effectuer un diagnostic et définir les actions correctives sur une installation industrielle ;
+1. Assurer la maintenance corrective d'équipements industriels ;
 
-2. Echanger ou remettre en état des organes ou des sous-ensembles industriels ;
+2. Assurer la maintenance préventive de systèmes de production industrielle ;
 
-3. Assurer la maintenance préventive de systèmes de production industriels ;
+3. Installer et procéder aux essais de nouveaux équipements industriels ;
 
-4. Installer et procéder aux essais de nouveaux équipements industriels ;
+4. Instruire et mettre en oeuvre des modifications sur des équipements industriels.
 
-5. Réaliser et mettre en service des modifications sur des équipements industriels.
-
-Elles peuvent être sanctionnées par des certificats de compétences professionnelles (CCP) dans les conditions prévues par l'arrêté du 25 novembre 2002 susvisé.
+Elles sont sanctionnées par des certificats de compétences professionnelles (CCP) dans les conditions prévues par l'arrêté du 9 mars 2006 susvisé.
