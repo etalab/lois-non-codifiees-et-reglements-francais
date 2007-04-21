@@ -659,7 +659,6 @@
 - [Arrêté du 22 avril 2004 (ECOT0491206A)](arrete-du-22-avril-2004-ecot0491206a)
 - [Arrêté du 22 avril 2004 (MCCB0400385A)](arrete-du-22-avril-2004-mccb0400385a)
 - [Arrêté du 22 décembre 2003 (SOCF0312093A)](arrete-du-22-decembre-2003-socf0312093a)
-- [Arrêté du 22 décembre 2003 (SOCF0312094A)](arrete-du-22-decembre-2003-socf0312094a)
 - [Arrêté du 22 décembre 2003 (SOCF0312095A)](arrete-du-22-decembre-2003-socf0312095a)
 - [Arrêté du 22 décembre 2003 (SOCF0312096A)](arrete-du-22-decembre-2003-socf0312096a)
 - [Arrêté du 22 décembre 2003 (SOCF0312097A)](arrete-du-22-decembre-2003-socf0312097a)
