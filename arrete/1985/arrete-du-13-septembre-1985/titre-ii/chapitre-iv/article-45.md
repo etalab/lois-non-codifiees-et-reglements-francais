@@ -6,6 +6,8 @@ Les parieurs peuvent enregistrer leurs paris soit sur le tableau "Couplé gagnan
 
 Ils peuvent également enregistrer leurs paris "Couplé" soit sous forme de combinaisons unitaires, combinant deux des chevaux déclarés partants, soit sous forme de formules dites "combinées ou "champ".
 
+Dans ce dernier cas, si les parieurs ont à désigner les deux premiers chevaux de la course, dans l'ordre exact d'arrivée, et si, cumulativement, le pari est enregistré par l'intermédiaire de formulaires visés au chapitre 4 bis du titre IV du présent arrêté, le nombre maximum de chevaux pouvant être désigné par formule est porté à la connaissance des parieurs.
+
 1. Les formules combinées :
 
 Les formules combinées englobent l'ensemble des paris "Couplé combinant entre eux, deux à deux, un certain nombre de chevaux sélectionnés par le parieur.
@@ -14,7 +16,7 @@ a) Dans le cas d'un pari "Couplé", soit "Gagnant sans ordre d'arrivée stipulé
 
 K x (K - 1)
 
-________________
+_____________
 
 2
 
@@ -24,7 +26,7 @@ b) Dans le cas d'un pari "Couplé gagnant avec ordre d'arrivée stipulé, le par
 
 K x (K - 1)
 
-____________
+_____________
 
 2
 

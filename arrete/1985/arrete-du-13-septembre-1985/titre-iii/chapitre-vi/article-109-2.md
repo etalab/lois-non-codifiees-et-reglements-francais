@@ -1,8 +1,8 @@
 # Article 109-2
 
-Les personnes physiques, détentrices d'une carte de paiement à leur nom, en cours de validité, ont également la faculté, si le site de prise de paris du pari mutuel urbain offre ce service, de demander l'ouverture d'un compte en ligne au pari mutuel urbain selon les phases et procédures indiquées sur leur écran.
+Pour les vecteurs offrant ce service, les personnes physiques, détentrices d'une carte de paiement à leur nom, en cours de validité, ont également la faculté, si le site de prise de paris du pari mutuel urbain offre ce service, de demander l'ouverture d'un compte en ligne au pari mutuel urbain selon les phases et procédures indiquées sur leur écran pour internet ou par l'employé du Pari mutuel urbain pour le terminal mobile.
 
-Si leur demande est acceptée, le pari mutuel urbain communique au parieur, par incrustation sur l'écran, son numéro de compte et son code confidentiel.
+Si leur demande est acceptée, le pari mutuel urbain communique au parieur son numéro de compte et son code confidentiel.
 
 Le compte est considéré comme ouvert pour une durée déterminée, portée à la connaissance des parieurs, dans l'attente de la réception par le Pari mutuel urbain de l'imprimé spécial d'ouverture de compte, accompagné de l'ensemble des documents s'y rapportant et, lorsque le parieur a fait un versement initial, par télépaiement, exclusivement par carte de paiement, à titre de provision, dont les montants minimum et maximum sont portés à sa connaissance par un message sur l'écran lors de sa demande d'ouverture de compte.
 

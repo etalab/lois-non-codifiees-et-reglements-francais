@@ -8,9 +8,9 @@ Ce numéro de compte et ce code sont strictement personnels et le Pari mutuel ur
 
 Le compte est considéré comme ouvert lorsque le Pari mutuel urbain a reçu l'imprimé spécial d'ouverture de compte courant dûment complété, accompagné de l'intégralité des documents cités sur l'imprimé et que le parieur a fait un versement initial, à titre de provision, dont le montant minimum est porté à sa connaissance lors de sa demande d'ouverture.
 
-A l'exception d'un compte par téléphone, les personnes physiques détentrices d'une carte de paiement, acceptée par le Pari mutuel urbain, à leur nom, en cours de validité, ont également la faculté de demander l'ouverture, à titre temporaire, d'un compte en ligne au Pari mutuel urbain selon les phases et procédures indiquées sur leur écran.
+Pour les vecteurs offrant ce service, les personnes physiques détentrices d'une carte de paiement, acceptée par le Pari mutuel urbain, à leur nom, en cours de validité, ont également la faculté de demander l'ouverture, à titre temporaire, d'un compte en ligne au Pari mutuel urbain selon les phases et procédures indiquées sur leur écran.
 
-Si la demande est acceptée, le Pari mutuel urbain communique au parieur, par incrustation sur l'écran, son numéro de compte et lui demande de choisir son code confidentiel.
+Si la demande est acceptée, le Pari mutuel urbain communique au parieur intéressé, selon le vecteur concerné, soit son numéro de compte et lui demande de choisir son code confidentiel, soit son numéro de compte.
 
 Le compte est considéré comme ouvert pour une durée déterminée, portée à la connaissance des parieurs, dans l'attente de la réception par le Pari mutuel urbain de l'imprimé spécial d'ouverture de compte, accompagné de l'ensemble des documents s'y rapportant et, lorsque le parieur a fait un versement initial, par télépaiement, exclusivement par carte de paiement, à titre de provision, dont les montants minimum et maximum sont portés à sa connaissance par un message sur l'écran lors de sa demande d'ouverture de compte.
 

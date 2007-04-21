@@ -10,6 +10,8 @@ En s'appuyant sur une surface unie, le parieur appose les marques sur le formula
 
 Ces marques, constituées par des traits verticaux ou par des croix, à l'exclusion de tout autre signe, doivent être faites à l'intérieur des cases préimprimées.
 
+Pour certains types de paris définis au titre II du présent arrêté, les formulaires peuvent comporter un nombre maximum de chevaux pouvant être désigné par les parieurs. Ce maximum est porté à la connaissance du public.
+
 2. Enregistrement du pari.
 
 Le parieur, après avoir marqué le formulaire comme indiqué ci-dessus, le remet au préposé pour son enregistrement.
