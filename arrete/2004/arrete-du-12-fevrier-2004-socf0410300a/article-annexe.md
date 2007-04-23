@@ -1,7 +1,5 @@
 # Article Annexe
 
-A N N E X E
-
 INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
 Intitulé :
@@ -28,9 +26,7 @@ Son activité lui demande une forte implication et une mobilité géographique p
 
 L'emploi s'exerce majoritairement sur les chantiers, même si une part se déroule au bureau, à l'agence ou au siège de l'entreprise.
 
-Capacités attestées et descriptif
-
-des composantes de la certification
+Capacités attestées et descriptif des composantes de la certification
 
 1. Préparer un chantier de bâtiment
 
@@ -64,9 +60,7 @@ Réaliser ou vérifier les métrés des ouvrages ou parties d'ouvrages de bâtim
 
 Quantifier les matériaux à commander pour un ouvrage de bâtiment.
 
-2. Organiser la bonne exécution d'un chantier
-
-de bâtiment et en assurer le suivi
+2. Organiser la bonne exécution d'un chantier de bâtiment et en assurer le suivi
 
 Respecter les procédures internes à l'entreprise et le cadre légal.
 
@@ -160,9 +154,7 @@ Présenter les résultats de ses activités.
 
 Participer à la gestion des moyens matériels d'une entreprise de bâtiment.
 
-5. S'inscrire dans une démarche commerciale
-
-pour un projet de bâtiment
+5. S'inscrire dans une démarche commerciale pour un projet de bâtiment
 
 Respecter les procédures internes à l'entreprise et le cadre légal.
 
@@ -178,9 +170,7 @@ Finaliser un marché négocié de bâtiment.
 
 Etablir un devis de bâtiment adapté aux besoins au client.
 
-Secteurs d'activités ou types d'emploi accessibles
-
-par le détenteur du titre
+Secteurs d'activités ou types d'emploi accessibles par le détenteur du titre
 
 Entreprises de bâtiment tous corps d'état.
 
