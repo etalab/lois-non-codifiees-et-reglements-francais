@@ -38,6 +38,4 @@
 - [Décret n°62-725 du 27 juin 1962](decret-n62-725-du-27-juin-1962)
 - [Décret n°63-752 du 27 juillet 1963](decret-n63-752-du-27-juillet-1963)
 - [Décret n°63-779 du 27 juillet 1963](decret-n63-779-du-27-juillet-1963)
-- [Décret n°63-892 du 28 août 1963](decret-n63-892-du-28-aout-1963)
 - [Décret n°63-1104 du 30 octobre 1963](decret-n63-1104-du-30-octobre-1963)
-- [Décret n°63-789 du 31 juillet 1963](decret-n63-789-du-31-juillet-1963)

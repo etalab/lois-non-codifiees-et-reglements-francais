@@ -868,7 +868,6 @@
 - [Décret n°98-879 du 29 septembre 1998 (ECOC9800061D)](decret-n98-879-du-29-septembre-1998-ecoc9800061d)
 - [Décret n°98-961 du 29 octobre 1998 (DEFA9851026D)](decret-n98-961-du-29-octobre-1998-defa9851026d)
 - [Décret n°98-962 du 29 octobre 1998 (DEFA9851027D)](decret-n98-962-du-29-octobre-1998-defa9851027d)
-- [Décret n°98-963 du 29 octobre 1998 (PRMD9850013D)](decret-n98-963-du-29-octobre-1998-prmd9850013d)
 - [Décret n°98-972 du 29 octobre 1998 (FPPA9800145D)](decret-n98-972-du-29-octobre-1998-fppa9800145d)
 - [Décret n°98-985 du 29 octobre 1998 (MESN9822813D)](decret-n98-985-du-29-octobre-1998-mesn9822813d)
 - [Décret n°99-248 du 29 mars 1999 (EQUA9801610D)](decret-n99-248-du-29-mars-1999-equa9801610d)

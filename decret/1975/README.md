@@ -25,7 +25,6 @@
 - [Décret n°75-173 du 17 mars 1975](decret-n75-173-du-17-mars-1975)
 - [Décret n°75-958 du 17 octobre 1975](decret-n75-958-du-17-octobre-1975)
 - [Décret n°75-1102 du 18 novembre 1975](decret-n75-1102-du-18-novembre-1975)
-- [Décret n°75-201 du 19 mars 1975](decret-n75-201-du-19-mars-1975)
 - [Décret n°76-803 du 19 août 1976](decret-n76-803-du-19-aout-1976)
 - [Décret n°68-906 du 21 octobre 1968](decret-n68-906-du-21-octobre-1968)
 - [Décret n°75-785 du 21 août 1975](decret-n75-785-du-21-aout-1975)

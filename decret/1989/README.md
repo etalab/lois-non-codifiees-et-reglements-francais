@@ -256,7 +256,6 @@
 - [Décret n°89-144 du 20 février 1989 (PRME8861199D)](decret-n89-144-du-20-fevrier-1989-prme8861199d)
 - [Décret n°89-251 du 20 avril 1989 (FPPX8900051D)](decret-n89-251-du-20-avril-1989-fppx8900051d)
 - [Décret n°89-255 du 20 avril 1989 (BUDB8960012D)](decret-n89-255-du-20-avril-1989-budb8960012d)
-- [Décret n°89-258 du 20 avril 1989 (PRMX8900040D)](decret-n89-258-du-20-avril-1989-prmx8900040d)
 - [Décret n°89-405 du 20 juin 1989 (EQUT8900289D)](decret-n89-405-du-20-juin-1989-equt8900289d)
 - [Décret n°89-418 du 20 juin 1989 (PRMZ8905047D)](decret-n89-418-du-20-juin-1989-prmz8905047d)
 - [Décret n°89-420 du 20 juin 1989 (AGRE8900868D)](decret-n89-420-du-20-juin-1989-agre8900868d)

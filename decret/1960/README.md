@@ -18,7 +18,6 @@
 - [Décret n°60-379 du 15 avril 1960](decret-n60-379-du-15-avril-1960)
 - [Décret n°60-703 du 15 juillet 1960](decret-n60-703-du-15-juillet-1960)
 - [Décret n°60-73 du 15 janvier 1960](decret-n60-73-du-15-janvier-1960)
-- [Décret n°60-1154 du 18 octobre 1960](decret-n60-1154-du-18-octobre-1960)
 - [Décret n°60-1362 du 19 décembre 1960](decret-n60-1362-du-19-decembre-1960)
 - [Décret n°60-1390 du 19 décembre 1960](decret-n60-1390-du-19-decembre-1960)
 - [Décret n°60-619 du 20 juin 1960](decret-n60-619-du-20-juin-1960)
@@ -34,4 +33,3 @@
 - [Décret n° 60-746 du 28 juillet 1960](decret-n-60-746-du-28-juillet-1960)
 - [Décret n°60-652 du 28 juin 1960](decret-n60-652-du-28-juin-1960)
 - [Décret n°58-1431 du 30 décembre 1958](decret-n58-1431-du-30-decembre-1958)
-- [Décret n°59-1565 du 31 décembre 1959](decret-n59-1565-du-31-decembre-1959)

@@ -83,7 +83,6 @@
 - [Décret n°84-446 du 12 juin 1984](decret-n84-446-du-12-juin-1984)
 - [Décret n°84-447 du 12 juin 1984](decret-n84-447-du-12-juin-1984)
 - [Décret n°84-494 du 12 juin 1984](decret-n84-494-du-12-juin-1984)
-- [Décret n°84-996 du 12 novembre 1984](decret-n84-996-du-12-novembre-1984)
 - [Décret n°84-105 du 13 février 1984](decret-n84-105-du-13-fevrier-1984)
 - [Décret n°84-147 du 13 février 1984](decret-n84-147-du-13-fevrier-1984)
 - [Décret n°84-276 du 13 avril 1984](decret-n84-276-du-13-avril-1984)
