@@ -12,7 +12,7 @@ Outre le secrétariat de la direction et la cellule études et recherches, la di
 
 - le bureau de la nationalité (C4).
 
-2. La sous-direction du droit économique composée de quatre bureaux et d'une mission :
+2. La sous-direction du droit économique composée de quatre bureaux :
 
 - le bureau du droit commercial (D1) ;
 
@@ -20,9 +20,7 @@ Outre le secrétariat de la direction et la cellule études et recherches, la di
 
 - le bureau de l'entraide civile et commerciale internationale (D3) ;
 
-- le bureau du droit de l'économie des entreprises (D4) ;
-
-- la mission d'aide à la médiation internationale pour les familles.
+- le bureau du droit de l'économie des entreprises (D4).
 
 3. La sous-direction des professions judiciaires et juridiques composée de trois bureaux :
 
