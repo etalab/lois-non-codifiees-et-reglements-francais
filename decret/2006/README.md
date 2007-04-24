@@ -363,6 +363,7 @@
 - [Décret n°2006-1827 du 23 décembre 2006 (FPPA0600168D)](decret-n2006-1827-du-23-decembre-2006-fppa0600168d)
 - [Décret n°2006-1828 du 23 décembre 2006 (MCCB0600971D)](decret-n2006-1828-du-23-decembre-2006-mccb0600971d)
 - [Décret n°2006-1830 du 23 décembre 2006 (MJSK0670301D)](decret-n2006-1830-du-23-decembre-2006-mjsk0670301d)
+- [Décret n°2006-212 du 23 février 2006 (PRMX0500312D)](decret-n2006-212-du-23-fevrier-2006-prmx0500312d)
 - [Décret du 24 novembre 2006 (AGRP0602025D)](decret-du-24-novembre-2006-agrp0602025d)
 - [Décret du 24 novembre 2006 (AGRP0602026D)](decret-du-24-novembre-2006-agrp0602026d)
 - [Décret n°2006-1299 du 24 octobre 2006 (JUSC0620751D)](decret-n2006-1299-du-24-octobre-2006-jusc0620751d)
