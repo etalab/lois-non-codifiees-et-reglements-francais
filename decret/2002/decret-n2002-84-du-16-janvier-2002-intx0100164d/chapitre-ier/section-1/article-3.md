@@ -1,5 +1,0 @@
-# Article 3
-
-Le préfet de zone dirige l'action des préfets de région et de département ainsi que celle des délégués de zone des services déconcentrés des administrations civiles en ce qui concerne les mesures de défense de caractère non militaire.
-
-Il veille à la continuité des relations de l'Etat avec les responsables des établissements et organismes publics et les opérateurs chargés d'une mission de service public.
