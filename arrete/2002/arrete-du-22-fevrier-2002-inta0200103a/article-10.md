@@ -2,7 +2,7 @@
 
 L'état de vigilance renforcée est prononcé :
 
-- par le représentant de l'Etat dans les situations prévues à l'article 2 de l'ordonnance du 7 janvier 1959 ;
+- par le représentant de l'Etat dans les situations prévues à l'article L. 1111-2 du code de la défense ;
 
 - à l'initiative de l'exploitant qui prévient sans délai le préfet, dans les circonstances suivantes :
 
