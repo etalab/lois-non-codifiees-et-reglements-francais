@@ -38,6 +38,7 @@
 - [Décret n°2001-295 du 4 avril 2001 (MENS0003290D)](decret-n2001-295-du-4-avril-2001-mens0003290d)
 - [Décret n°2001-297 du 4 avril 2001 (DEFP0002512D)](decret-n2001-297-du-4-avril-2001-defp0002512d)
 - [Décret n°2001-305 du 4 avril 2001 (AGRR0002544D)](decret-n2001-305-du-4-avril-2001-agrr0002544d)
+- [Décret n°2001-308 du 4 avril 2001 (DEFD0101313D)](decret-n2001-308-du-4-avril-2001-defd0101313d)
 - [Décret n°2001-801 du 4 septembre 2001 (EQUT0101287D)](decret-n2001-801-du-4-septembre-2001-equt0101287d)
 - [Décret n°2001-802 du 4 septembre 2001 (ECOT0151991D)](decret-n2001-802-du-4-septembre-2001-ecot0151991d)
 - [Décret n°2001-828 du 4 septembre 2001 (MJSK0170111D)](decret-n2001-828-du-4-septembre-2001-mjsk0170111d)

@@ -181,6 +181,7 @@
 - [Décret n°2002-677 du 29 avril 2002 (MCCB0200300D)](decret-n2002-677-du-29-avril-2002-mccb0200300d)
 - [Décret n°2002-679 du 29 avril 2002 (AGRR0200057D)](decret-n2002-679-du-29-avril-2002-agrr0200057d)
 - [Décret n°2002-682 du 29 avril 2002 (FPPA0200037D)](decret-n2002-682-du-29-avril-2002-fppa0200037d)
+- [Décret n°2002-702 du 29 avril 2002 (DEFD0201157D)](decret-n2002-702-du-29-avril-2002-defd0201157d)
 - [Décret n°2002-707 du 29 avril 2002 (MJSK0270082D)](decret-n2002-707-du-29-avril-2002-mjsk0270082d)
 - [Décret n°85-382 du 29 mars 1985](decret-n85-382-du-29-mars-1985)
 - [Décret n°2001-681 du 30 juillet 2001 (INTE0100184D)](decret-n2001-681-du-30-juillet-2001-inte0100184d)
