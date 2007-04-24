@@ -59,6 +59,7 @@
 - [Décret n°2005-1304 du 19 octobre 2005 (INTA0500292D)](decret-n2005-1304-du-19-octobre-2005-inta0500292d)
 - [Décret n°2005-368 du 19 avril 2005 (AGRD0500695D)](decret-n2005-368-du-19-avril-2005-agrd0500695d)
 - [Décret n°2005-819 du 19 juillet 2005 (JUSK0540002D)](decret-n2005-819-du-19-juillet-2005-jusk0540002d)
+- [Décret n°2005-506 du 19 mai 2005 (DEFX0500109D)](decret-n2005-506-du-19-mai-2005-defx0500109d)
 - [Décret du 20 octobre 2005 (AGRP0502060D)](decret-du-20-octobre-2005-agrp0502060d)
 - [Décret n°2005-1298 du 20 octobre 2005 (ECOX0500205D)](decret-n2005-1298-du-20-octobre-2005-ecox0500205d)
 - [Décret n°2005-1308 du 20 octobre 2005 (ECOM0520014D)](decret-n2005-1308-du-20-octobre-2005-ecom0520014d)

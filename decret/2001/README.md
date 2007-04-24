@@ -67,6 +67,7 @@
 - [Décret n°2001-583 du 5 juillet 2001 (INTD0100161D)](decret-n2001-583-du-5-juillet-2001-intd0100161d)
 - [Décret n°2001-585 du 5 juillet 2001 (ATEG0190028D)](decret-n2001-585-du-5-juillet-2001-ateg0190028d)
 - [Décret n°2001-586 du 5 juillet 2001 (ATEG0190029D)](decret-n2001-586-du-5-juillet-2001-ateg0190029d)
+- [Décret n°2001-592 du 5 juillet 2001 (DEFX0100096D)](decret-n2001-592-du-5-juillet-2001-defx0100096d)
 - [Décret n°2001-803 du 5 septembre 2001 (MESF0111002D)](decret-n2001-803-du-5-septembre-2001-mesf0111002d)
 - [Décret n°2001-823 du 5 septembre 2001 (ECOP0100667D)](decret-n2001-823-du-5-septembre-2001-ecop0100667d)
 - [Décret n°2001-910 du 5 octobre 2001 (MESP0123486D)](decret-n2001-910-du-5-octobre-2001-mesp0123486d)
