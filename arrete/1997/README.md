@@ -1010,7 +1010,6 @@
 - [Arrêté du 28 mai 1997 (BUDF9700025A)](arrete-du-28-mai-1997-budf9700025a)
 - [Arrêté du 28 mai 1997 (ENVN9760134A)](arrete-du-28-mai-1997-envn9760134a)
 - [Arrêté du 28 mai 1997 (FCEC9700092A)](arrete-du-28-mai-1997-fcec9700092a)
-- [Arrêté du 28 mai 1997 (FCEZ9700003A)](arrete-du-28-mai-1997-fcez9700003a)
 - [Arrêté du 28 mai 1997 (FPPA9700086A)](arrete-du-28-mai-1997-fppa9700086a)
 - [Arrêté du 28 mai 1997 (LOGC9700042A)](arrete-du-28-mai-1997-logc9700042a)
 - [Arrêté du 28 mai 1997 (MIPP9700122A)](arrete-du-28-mai-1997-mipp9700122a)
