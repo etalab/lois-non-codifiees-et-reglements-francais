@@ -69,3 +69,7 @@ Communes en totalité :
 Aniane, Arboras, Argelliers, Bosc (Le), Brissac, Causse-de-la-Selle, Ceyras, Jonquières, Lagamas, Lauroux, Mérifons, Montoulieu, Montpeyroux, Moulès-et-Baucels, Murles, Octon, Pégairolles-de-Buègues, Pégairolles-de-l'Escalette, Poujols, Puéchabon, Saint-André-de-Buègues, Saint-André-de-Sangonis, Saint-Félix-de-Lodez, Saint-Guiraud, Saint-Jean-de-Buèges, Saint-Jean-de-Fos, Saint-Jean-de-la-Blaquière, Saint-Privat, Saint-Saturnin, Soubès, Usclas-du-Bosc.
 
 Communes en partie, pour lesquelles il est fait référence aux plans cadastraux déposés en mairie : Gignac.
+
+8. Pour avoir droit à l'appellation d'origine contrôlée "Coteaux du Languedoc" complétée du nom "Pézenas", les vins rouges proviennent de raisins issus de parcelles ayant fait l'objet d'une procédure d'identification et situées dans l'aire géographique de production approuvée par le comité national des vins et eaux-de-vie de l'Institut national de l'origine et de la qualité en sa séance des 6 et 7 septembre 2006 et constituée par le territoire des communes suivantes dans le département de l'Hérault :
+
+Adissan, Aspiran, Caux, Fontès, Fouzilhon, Gabian, Lieuran-Cabrières, Montesquieu, Neffiès, Nizas, Paulhan, Péret, Pézenas, Roujan, Vailhan.

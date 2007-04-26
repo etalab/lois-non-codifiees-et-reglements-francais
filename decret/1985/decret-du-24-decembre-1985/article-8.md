@@ -13,3 +13,7 @@ Toutefois, sont interdits pour l'élaboration de ces vins la thermovinification,
 Les vins ayant droit à l'appellation d'origine contrôlée "Coteaux du Languedoc" suivie de la dénomination "Grès de Montpellier" ne peuvent être livrés à la consommation qu'après une durée d'élevage qui prend fin au plus tôt le 1er juin de l'année suivant celle de la récolte.
 
 Pour avoir droit à l'appellation d'origine contrôlée "Coteaux du Languedoc" complétée du nom "Terrasses du Larzac", les vins ne peuvent présenter, après fermentation, une teneur en sucres fermentescibles supérieure à 1,5 gramme par litre.
+
+Pour avoir droit à l'appellation d'origine contrôlée "Coteaux du Languedoc" complétée du nom "Pézenas", les vins ne peuvent présenter, après fermentation, une teneur en sucres fermentescibles supérieure à 3 grammes par litre.
+
+Les vins ayant droit à l'appellation d'origine contrôlée "Coteaux du Languedoc" complétée du nom "Pézenas" ne peuvent être livrés à la consommation qu'après une durée d'élevage qui prend fin au plus tôt le 1er septembre de l'année suivant celle de la récolte.

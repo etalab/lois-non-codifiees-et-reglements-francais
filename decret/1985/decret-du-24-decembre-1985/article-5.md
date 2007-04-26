@@ -9,3 +9,5 @@ Pour avoir droit à l'appellation d'origine contrôlée "Coteaux du Languedoc" s
 Pour avoir droit à l'appellation d'origine contrôlée "Coteaux du Languedoc" suivie de la dénomination "Grès de Montpellier", les vins doivent provenir de raisins récoltés à bonne maturité et présenter un titre alcoométrique volumique naturel supérieur à 12,0 %.
 
 Pour avoir droit à l'appellation d'origine contrôlée "Coteaux du Languedoc" complétée du nom "Terrasses du Larzac", les vins proviennent de raisins récoltés à bonne maturité et présentent un titre alcoométrique volumique naturel minimum de 12 %. Ne peut être considéré comme à bonne maturité tout lot unitaire de vendange présentant une richesse en sucres inférieure à 202 grammes par litre de moût.
+
+Pour avoir droit à l'appellation d'origine contrôlée "Coteaux du Languedoc" complétée du nom "Pézenas", les vins proviennent de raisins récoltés à bonne maturité et présentent un titre alcoométrique volumique naturel minimum de 12,5 %. Ne peut être considéré comme à bonne maturité tout lot unitaire de vendange présentant une richesse en sucres inférieure à 202 grammes par litre de moût.

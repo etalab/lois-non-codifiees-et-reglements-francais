@@ -101,3 +101,13 @@ La proportion du cépage cinsaut N ne peut être supérieure à 30 % de l'encép
 Les vins proviennent de l'assemblage de raisins ou de vins issus de deux au moins des cépages visés au présent paragraphe.
 
 Lorsqu'ils sont vinifiés séparément, les vins issus des différents cépages sont assemblés dans les récipients vinaires préalablement au prélèvement prévu à l'article R. 641-96 du code rural.
+
+8. Pour avoir droit à l'appellation d'origine contrôlée "Coteaux du Languedoc" complété du nom "Pézenas", les vins rouges proviennent des cépages grenache N, mourvèdre N, syrah N, carignan N, cinsaut N.
+
+La proportion de l'ensemble des trois cépages grenache N, mourvèdre N et syrah N ne peut être inférieure à 70 % de l'encépagement. La proportion de chacun des trois cépages grenache N, mourvèdre N, syrah N ne peut être supérieure à 75 % de l'encépagement. La proportion des cépages mourvèdre N et syrah N, ensemble ou séparément, ne peut être inférieure à 20 % de l'encépagement.
+
+Si l'encépagement comporte le cépage carignan N, la proportion du cépage grenache N ne peut être inférieure à 20 % de l'encépagement.
+
+Les vins proviennent de l'assemblage de raisins ou de vins issus de deux au moins des cépages visés au présent paragraphe.
+
+Lorsqu'ils sont vinifiés séparément, les vins issus des différents cépages sont assemblés dans les récipients vinaires préalablement au prélèvement prévu à l'article D. 641-96 du code rural.

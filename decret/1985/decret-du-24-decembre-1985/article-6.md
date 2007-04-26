@@ -31,3 +31,7 @@ Le bénéfice de l'appellation d'origine contrôlée "Coteaux du Languedoc" suiv
 Pour les vins d'appellation d'origine contrôlée "Coteaux du Languedoc" complétée du nom "Terrasses du Larzac", le rendement de base visé à l'article D. 641-73 du code rural est fixé à 45 hectolitres à l'hectare. Le rendement butoir visé à l'article D. 641-76 du code rural est fixé à 66 hectolitres à l'hectare. Le rendement agronomique maximum à la parcelle visé à l'article D. 641-82 du code rural est fixé à 8500 kilogrammes par hectare.
 
 Le bénéfice de l'appellation d'origine contrôlée "Coteaux du Languedoc" complétée du nom "Terrasses du Larzac" ne peut être accordé aux vins provenant de jeunes vignes qu'à partir de la quatrième année suivant celle au cours de laquelle la plantation a été réalisée en place avant le 31 juillet.
+
+Pour les vins d'appellation d'origine contrôlée "Coteaux du Languedoc" complétée du nom "Pézenas", le rendement de base visé à l'article D. 641-73 du code rural est fixé à 45 hectolitres à l'hectare. Le rendement butoir visé à l'article D. 641-76 du code rural est fixé à 60 hectolitres à l'hectare. La charge maximale moyenne à la parcelle visée à l'article D. 641-82 du code rural est fixée à 8 500 kilogrammes par hectare.
+
+Le bénéfice de l'appellation d'origine contrôlée "Coteaux du Languedoc" complétée du nom "Pézenas" ne peut être accordé aux vins provenant de jeunes vignes qu'à partir de la sixième année suivant celle au cours de laquelle la plantation a été réalisée en place avant le 31 juillet.
