@@ -216,13 +216,13 @@ a) Les produits comprenant notamment :
 
 Son montant de base est arrêté chaque année par l'assemblée générale de la fédération nationale, sur proposition de son conseil d'administration, selon les catégories de cartes de pêche suivantes :
 
-- carte annuelle  personne majeure  pour la pêche aux lignes et la pêche aux engins et aux filets, valable du 1er janvier au 31 décembre de l'année civile ;
+- carte annuelle  "personne majeure"  pour la pêche aux lignes et la pêche aux engins et aux filets, valable du 1er janvier au 31 décembre de l'année civile ;
 
 - carte de pêche temporaire vacances ;
 
 - carte de pêche temporaire journalière ;
 
-- carte de pêche annuelle  personne mineure , valable du 1er janvier au 31 décembre de l'année civile ;
+- carte de pêche annuelle  "personne mineure", valable du 1er janvier au 31 décembre de l'année civile ;
 
 Chaque fédération départementale ou interdépartementale certifie, au plus tard avant la fin du premier mois de l'exercice suivant, ses effectifs dans les différentes catégories de cartes de pêche susvisées.
 
@@ -253,6 +253,14 @@ b) Les charges comprennent notamment :
 a) Les produits comprenant notamment :
 
 - la part de la CPMA affectée à la péréquation.
+
+b) Les charges comprenant notamment :
+
+Les versements effectués au profit des fédérations départementales et interdépartementales des associations agréées de pêche et de protection du milieu aquatique et notamment ceux versés aux associations pour les poissons migrateurs.
+
+Les comptes sont obligatoirement certifiés chaque année par un commissaire aux comptes inscrit à la compagnie des commissaires aux comptes.
+
+La Fédération nationale a la libre utilisation de ses réserves conformément à son objet social.
 
 Assemblée générale
 
