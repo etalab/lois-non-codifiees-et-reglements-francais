@@ -12,6 +12,8 @@ Cette commission comprend :
 
 4° Le représentant des chargés de formation au conseil d'administration ;
 
-5° Un membre de la commission pédagogique n'ayant pas la qualité de magistrat ni d'auditeur de justice, désigné par le directeur de l'école.
+5° Un membre de la commission pédagogique n'ayant pas la qualité de magistrat ni d'auditeur de justice, désigné par le directeur de l'école ;
+
+6° Deux membres du conseil d'administration n'ayant pas la qualité de chargé de formation ni d'auditeur de justice, désignés par le conseil.
 
 En cas d'indisponibilité d'un membre de la commission, le directeur de l'école lui désigne un remplaçant qui sera choisi, selon le cas, soit parmi les personnels de direction ou d'enseignement de l'école, soit parmi les membres de la commission pédagogique.

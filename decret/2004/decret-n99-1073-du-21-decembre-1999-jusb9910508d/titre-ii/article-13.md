@@ -1,29 +1,86 @@
 # Article 13
 
-L'emploi de chargé de formation à l'Ecole nationale de la magistrature comporte sept échelons.
+L'emploi de chargé de formation à l'Ecole nationale de la magistrature comporte huit échelons, le huitième échelon n'étant accessible qu'aux magistrats placés hors hiérarchie nommés dans un emploi de chargé de formation.
 
 Le temps passé dans chacun des échelons de l'emploi de chargé de formation à l'Ecole nationale de la magistrature est fixé comme suit :
 
-ECHELONS : 6e ;
-
-DUREE DE L'ECHELON : 3 ans ;
-
-ECHELONS : 5e ;
-
-DUREE DE L'ECHELON : 2 ans ;
-
-ECHELONS : 4e ;
-
-DUREE DE L'ECHELON : 18 mois ;
-
-ECHELONS : 3e ;
-
-DUREE DE L'ECHELON : 18 mois ;
-
-ECHELONS : 2e ;
-
-DUREE DE L'ECHELON : 18 mois ;
-
-ECHELONS : 1er ;
-
-DUREE DE L'ECHELON : 18 mois.
+<table>
+<tbody>
+<tr>
+<td align="left" valign="middle">
+<p align="center">
+<strong>ECHELONS</strong>
+</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">
+<strong>DUREE DE L'ECHELON</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="justify">8e échelon</p>
+</td>
+<td align="left" valign="middle">
+<pre> </pre>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">7e échelon</p>
+</td>
+<td align="left" valign="middle">
+<pre> </pre>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">6e échelon </p>
+</td>
+<td align="left" valign="middle">
+<p align="center">3 ans </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">5e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">2 ans </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">4e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">18 mois </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">3e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">18 mois </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">2e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">18 mois </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">1er échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">18 mois </p>
+</td>
+</tr>
+</tbody>
+</table>
