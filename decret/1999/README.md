@@ -424,8 +424,6 @@
 - [Décret n°98-611 du 17 juillet 1998 (INTM9800004D)](decret-n98-611-du-17-juillet-1998-intm9800004d)
 - [Décret n°99-111 du 17 février 1999 (MCCI9900025D)](decret-n99-111-du-17-fevrier-1999-mcci9900025d)
 - [Décret n°99-113 du 17 février 1999 (PRMX9900015D)](decret-n99-113-du-17-fevrier-1999-prmx9900015d)
-- [Décret n°99-199 du 17 mars 1999 (PRMX9903476D)](decret-n99-199-du-17-mars-1999-prmx9903476d)
-- [Décret n°99-200 du 17 mars 1999 (PRMX9903477D)](decret-n99-200-du-17-mars-1999-prmx9903477d)
 - [Décret n°99-208 du 17 mars 1999 (FPPX9900026D)](decret-n99-208-du-17-mars-1999-fppx9900026d)
 - [Décret n°99-211 du 17 mars 1999 (MESX9900027D)](decret-n99-211-du-17-mars-1999-mesx9900027d)
 - [Décret n°99-498 du 17 juin 1999 (MESC9910971D)](decret-n99-498-du-17-juin-1999-mesc9910971d)

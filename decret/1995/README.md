@@ -600,7 +600,6 @@
 - [Décret n°95-1231 du 17 novembre 1995 (INDX9501190D)](decret-n95-1231-du-17-novembre-1995-indx9501190d)
 - [Décret n°95-166 du 17 février 1995 (SPSX9500001D)](decret-n95-166-du-17-fevrier-1995-spsx9500001d)
 - [Décret n°95-167 du 17 février 1995 (FPPX9500016D)](decret-n95-167-du-17-fevrier-1995-fppx9500016d)
-- [Décret n°95-168 du 17 février 1995 (PRMX9400170D)](decret-n95-168-du-17-fevrier-1995-prmx9400170d)
 - [Décret n°95-171 du 17 février 1995 (ECOS9540007D)](decret-n95-171-du-17-fevrier-1995-ecos9540007d)
 - [Décret n°95-172 du 17 février 1995 (BUDF9500003D)](decret-n95-172-du-17-fevrier-1995-budf9500003d)
 - [Décret n°95-299 du 17 mars 1995 (FPPA9500039D)](decret-n95-299-du-17-mars-1995-fppa9500039d)

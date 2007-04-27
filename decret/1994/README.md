@@ -744,7 +744,6 @@
 - [Décret n°94-555 du 28 juin 1994 (ENVE9420032D)](decret-n94-555-du-28-juin-1994-enve9420032d)
 - [Décret n°94-668 du 28 juillet 1994 (MAEJ9430045D)](decret-n94-668-du-28-juillet-1994-maej9430045d)
 - [Décret n°94-838 du 28 septembre 1994 (AGRS9401074D)](decret-n94-838-du-28-septembre-1994-agrs9401074d)
-- [Décret n°94-87 du 28 janvier 1994 (MCCB9300362D)](decret-n94-87-du-28-janvier-1994-mccb9300362d)
 - [Décret n°94-936 du 28 octobre 1994 (TEFF9401016D)](decret-n94-936-du-28-octobre-1994-teff9401016d)
 - [Décret n°94-942 du 28 octobre 1994 (EQUP9401379D)](decret-n94-942-du-28-octobre-1994-equp9401379d)
 - [Décret n°94-958 du 28 octobre 1994 (RESK9401460D)](decret-n94-958-du-28-octobre-1994-resk9401460d)
