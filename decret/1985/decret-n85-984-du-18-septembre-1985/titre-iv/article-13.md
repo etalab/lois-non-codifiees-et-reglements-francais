@@ -1,21 +1,21 @@
 # Article 13
 
-Le conseil scientifique comprend [*composition*] :
+Le conseil scientifique comprend :
 
-a) Dix personnalités choisies en raison de leur compétence dans les domaines d'activité de l'institut nommées pour une durée [*du mandat*] de quatre ans, par arrêté conjoint du ministre chargé des transports et du ministre chargé de la recherche [*autorités compétentes*. Ces personnalités ne peuvent pas remplir plus de deux mandats consécutifs.
+a) Quatorze personnalités extérieures à l'institut, dont au moins deux ressortissants de pays membres de l'Union européenne autres que la France, choisies en raison de leur compétence dans les domaines d'activité de l'institut, notamment dans celui de la sécurité routière. Ces personnalités sont nommées, pour une durée de quatre ans, par arrêté conjoint du ministre chargé de la recherche et du ministre chargé des transports ;
 
-Elles sont renouvelables par moitié tous les deux ans. Pour le premier renouvellement du conseil, les noms des membres sortants seront désignés par tirage au sort *]mode de désignation*.
+b) Quatre représentants des personnels de l'institut élus pour une durée de quatre ans. Deux sont choisis parmi les personnels appartenant aux corps de chercheurs, deux parmi les personnels appartenant aux corps d'ingénieurs, de personnels techniques et d'administration de la recherche. Leurs suppléants sont élus dans les mêmes conditions. Les modalités d'organisation des élections ainsi que les modalités de remplacement des membres élus sont fixées par le règlement intérieur de l'institut.
 
-b) Trois représentants des personnels de recherche, élus pour deux ans, selon des modalités fixées par le conseil d'administration.
+Le président du conseil scientifique est désigné pour une durée de quatre ans parmi les membres du conseil par arrêté conjoint du ministre chargé de la recherche et du ministre chargé des transports.
 
-Le président du conseil scientifique est désigné parmi les membres du conseil par arrêté conjoint du ministre chargé des transports et du ministre chargé de la recherche.
+Les membres du conseil scientifique ne peuvent exercer plus de deux mandats consécutifs.
 
-Les membres démissionnaires ou décédés doivent être remplacés. Dans ce cas, le mandat des nouveaux membres expire à la date à laquelle aurait normalement pris fin celui de leurs prédécesseurs.
+Toute vacance survenant, pour quelque cause que ce soit, plus de six mois avant l'expiration du mandat donne lieu à remplacement pour la durée du mandat restant à courir.
 
-Les membres du conseil scientifique bénéficient du remboursement de leurs frais de déplacement ou de séjour dans les mêmes conditions que les membres du conseil d'administration.
+Les membres du conseil scientifique exercent leurs fonctions à titre gratuit. Toutefois, leurs frais de déplacement et de séjour peuvent leur être remboursés dans les conditions prévues par la réglementation applicable aux fonctionnaires de l'Etat.
 
-Le directeur général de l'établissement assiste aux réunions du conseil scientifique.
+Le directeur général assiste aux réunions du conseil scientifique.
 
 Le président du conseil scientifique peut également appeler à participer aux séances toute personne dont il juge la présence utile.
 
-Le conseil scientifique se réunit en séance plénière au moins trois fois par an [*périodicité*] sur convocation de son président.
+Le conseil scientifique se réunit au moins trois fois par an sur convocation de son président.

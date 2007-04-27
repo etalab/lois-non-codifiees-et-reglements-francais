@@ -1,10 +1,10 @@
 # Article 12
 
-Le conseil scientifique est l'instance de réflexion, d'évaluation et de proposition en matière de politique scientifique *attributions*.
+Le conseil scientifique est l'instance de réflexion, d'évaluation et de proposition en matière de politique scientifique.
 
-Il étudie la situation et les perspectives de la recherche et du développement technologique dans le domaine des transports. Il participe à l'orientation scientifique de l'établissement.
+Il étudie la situation et les perspectives de la recherche et du développement technologique dans le domaine des transports et de leur sécurité. Il participe à l'orientation scientifique de l'établissement.
 
-Il procède à l'évaluation des programmes et des travaux. Il procède à l'évaluation des personnels chercheurs et des équipes de recherche de l'institut dans les conditions prévues par les statuts des intéressés.
+Il procède à l'évaluation des programmes et des travaux. Il procède à l'évaluation des personnels chercheurs et des équipes de recherche de l'institut dans les conditions prévues par les statuts des intéressés. Il mène ces évaluations conformément aux dispositions de l'article 11 du décret n° 2006-1334 du 3 novembre 2006 relatif à l'organisation et au fonctionnement de l'Agence d'évaluation de la recherche et de l'enseignement supérieur.
 
 Le conseil scientifique est consulté par le directeur général sur :
 

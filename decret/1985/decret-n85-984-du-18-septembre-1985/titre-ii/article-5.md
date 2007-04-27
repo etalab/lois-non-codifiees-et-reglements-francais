@@ -1,6 +1,6 @@
 # Article 5
 
-Le conseil d'administration délibère notamment sur *attributions* :
+Le conseil d'administration délibère notamment sur :
 
 1° Les orientations, les programmes généraux et les mesures générales relatives à l'organisation et au fonctionnement de l'institut ;
 
@@ -24,7 +24,9 @@ Le conseil d'administration délibère notamment sur *attributions* :
 
 11° Les orientations générales en matière d'action sociale et de formation ;
 
-12° Les actions en justice, les transactions ainsi que le recours à l'arbitrage en cas de litiges nés de l'exécution de contrats de recherche passés avec des organismes étrangers.
+12° Les actions en justice, les transactions ainsi que le recours à l'arbitrage en cas de litiges nés de l'exécution de contrats de recherche passés avec des organismes étrangers ;
+
+13° Le règlement intérieur de l'institut.
 
 Le conseil d'administration se prononce en outre sur les questions qui lui sont soumises par son président, le ministre chargé de la recherche et le ministre chargé des transports.
 

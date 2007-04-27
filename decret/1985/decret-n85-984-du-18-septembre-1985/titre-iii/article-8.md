@@ -1,12 +1,12 @@
 # Article 8
 
-Le directeur général, choisi parmi les personnalités compétentes sur le plan scientifique et technique, est nommé par décret *mode de désignation* sur proposition conjointe du ministre chargé de la recherche et du ministre chargé des transports *autorité compétente*.    Ses fonctions, d'une durée de trois ans, sont renouvelables.
+Le directeur général, choisi en raison de sa compétence dans le domaine scientifique et technique, est nommé par décret sur proposition conjointe du ministre chargé de la recherche et du ministre chargé des transports. Ses fonctions sont d'une durée de quatre ans. Il ne peut exercer plus de deux mandats consécutifs.
 
-Il prépare les délibérations du conseil d'administration et assure leur exécution *attributions*.
+Il prépare les délibérations du conseil d'administration et assure leur exécution.
 
 Il a autorité sur l'ensemble des services de l'institut, dont il fixe l'organisation et gère le personnel.
 
-Il nomme le secrétaire général, les directeurs et, notamment, les directeurs des unités de recherche.
+Il nomme le secrétaire général, les directeurs, les directeurs des unités de recherche et les directeurs des unités de service et les chefs de projets de recherche.
 
 Il est ordonnateur principal des dépenses et des recettes. Il peut désigner des ordonnateurs secondaires qui peuvent déléguer leur signature.
 

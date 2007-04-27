@@ -2,18 +2,18 @@
 
 L'institut est administré par un conseil d'administration composé de vingt et un membres :
 
-1. Huit membres représentant les ministres respectivement chargés de la recherche, des transports, de la sécurité routière, du budget, de la santé, de l'industrie, de la défense et de l'intérieur ;
+1° Huit membres représentant les ministres respectivement chargés de la recherche, de l'enseignement supérieur, des transports, de la sécurité routière, de la santé, de l'industrie, de la défense et de l'intérieur nommés, pour une durée de quatre ans par arrêté conjoint du ministre chargé de la recherche et du ministre chargé des transports ; un suppléant est désigné dans les mêmes conditions pour chacun de ces membres ;
 
-2. Neuf personnalités extérieures à l'institut choisies pour leur compétence et nommées pour trois ans, par arrêté conjoint du ministre chargé des transports et du ministre chargé de la recherche ;
+2° Neuf personnalités extérieures à l'institut choisies en raison de leur compétence en matière de transports et de leur sécurité et nommées pour une durée de quatre ans par arrêté conjoint du ministre chargé de la recherche et du ministre chargé des transports ;
 
-3. Quatre représentants des personnels de l'institut élus pour une durée de trois ans *durée du mandat* : ils devront représenter le personnel de recherche, le personnel technique et le personnel administratif de l'établissement. Les modalités d'élection sont fixées par arrêté du ministre chargé de la recherche et du ministre chargé des transports.
+3° Quatre représentants des personnels de l'institut élus pour une durée de quatre ans. Deux sont choisis parmi les personnels appartenant aux corps de chercheurs, deux parmi les personnels appartenant aux corps d'ingénieurs, de personnels techniques et d'administration de la recherche. Des suppléants sont élus dans les mêmes conditions. Les modalités d'organisation des élections ainsi que les modalités de remplacement des membres élus sont fixées par arrêté conjoint du ministre chargé de la recherche et du ministre chargé des transports.
 
-Le président du conseil d'administration, choisi parmi les personnalités nommées au titre du 2 ci-dessus, et le vice-président, choisi parmi les membres nommés au titre du 1 ou 2 ci-dessus, sont nommés par arrêté conjoint du ministre chargé des transports et du ministre chargé de la recherche.
+Les membres mentionnés aux 2° et 3° ne peuvent exercer plus de deux mandats consécutifs.
 
-Les membres décédés ou démissionnaires, ou qui n'exercent plus les fonctions au titre desquelles ils avaient été désignés ou élus, doivent être remplacés. Dans ce cas, le mandat des nouveaux membres expire à la date à laquelle aurait normalement pris fin celui de leur prédécesseur.
+Toute vacance survenant, pour quelque cause que ce soit, plus de six mois avant l'expiration du mandat donne lieu à remplacement pour la durée du mandat restant à courir.
 
-Le président du conseil scientifique, le directeur général, le secrétaire général, le membre du corps du contrôle général économique et financier et l'agent comptable assistent aux séances avec voix consultative.
+Le président du conseil scientifique, le directeur général, le secrétaire général, l'autorité chargée du contrôle financier et l'agent comptable assistent aux séances avec voix consultative.
 
 Le président peut également appeler à participer aux séances, avec voix consultative, toute personne dont il juge la présence utile.
 
-Les fonctions de membre du conseil d'administration sont gratuites. Elles ouvrent droit aux indemnités de déplacement et de séjour prévues par le décret du 10 août 1966 susvisé.
+Les membres du conseil d'administration exercent leurs fonctions à titre gratuit. Toutefois, leurs frais de déplacement et de séjour peuvent leur être remboursés dans les conditions prévues par la réglementation applicable aux fonctionnaires de l'Etat.
