@@ -2,9 +2,9 @@
 
 La demande est accompagnée des pièces suivantes :
 
-1° Une  copie intégrale de l'acte de naissance ;
+1° Une copie intégrale de l'acte de naissance ;
 
-2° La justification par tous moyens de la résidence habituelle en France du demandeur pendant les cinq années qui précèdent le dépôt de la demande sous réserve des réductions ou dispenses de stage prévues aux articles 21-18 à 21-20 du code civil ;
+2° La justification par tous moyens de la résidence habituelle en France du demandeur pendant les cinq années qui précèdent le dépôt de la demande sous réserve des réductions ou dispenses de stage prévues aux articles 21-18 à 21-20 du code civil et, lorsque la demande est présentée au nom d'un mineur, la justification de la résidence habituelle de ce dernier pendant les cinq années qui précèdent le dépôt de la demande avec le parent qui a acquis la nationalité française ;
 
 3° Tous documents justifiant qu'il a sa résidence en France à la date de la demande ;
 
@@ -20,4 +20,4 @@ Tous les documents rédigés en langue étrangère doivent être accompagnés de
 
 Dès la production des pièces prévues ci-dessus, l'autorité auprès de laquelle la demande a été déposée délivre le récépissé prévu à l'article 21-25-1 du code civil constatant cette production.
 
-Le demandeur doit signaler à l'autorité qui a reçu sa demande tout changement de résidence et toute modification intervenue dans sa situation familiale.
+Le demandeur doit signaler à l'autorité qui a reçu sa demande tout changement de résidence et toute modification intervenue dans sa situation familiale en transmettant auprès de cette autorité le document prévu à cet effet joint au formulaire de demande d'acquisition de la nationalité française. Il sera délivré récépissé du dépôt de ce document.
