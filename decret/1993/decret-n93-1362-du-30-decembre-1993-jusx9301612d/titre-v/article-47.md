@@ -4,4 +4,4 @@ Dès réception du dossier, le ministre chargé des naturalisations procède à 
 
 Le ministre chargé des naturalisations examine si les conditions requises par la loi sont remplies.
 
-Dans la négative, il déclare la demande irrecevable. Cette décision motivée conformément à l'article 27 de la loi n° 98-170 du 16 mars 1998 relative à la nationalité est notifiée à l'intéressé dans le délai fixé par l'article 21-25-1 du code civil, par l'intermédiaire de l'autorité auprès de laquelle a été déposée la demande. Si les motifs de l'irrecevabilité disparaissent, l'intéressé peut déposer une nouvelle demande.
+Dans la négative, il déclare la demande irrecevable. Cette décision motivée conformément à l'article 27 de la loi n° 98-170 du 16 mars 1998 relative à la nationalité est notifiée à l'intéressé dans les délais fixés par l'article 21-25-1 du code civil, par l'intermédiaire de l'autorité auprès de laquelle a été déposée la demande. Si les motifs de l'irrecevabilité disparaissent, l'intéressé peut déposer une nouvelle demande.
