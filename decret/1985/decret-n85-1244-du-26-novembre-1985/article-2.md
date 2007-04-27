@@ -14,10 +14,6 @@ Lyon-I :
 
 Institut de science financière et d'assurances (ISFA).
 
-Montpellier-III :
-
-Institut des technosciences de l'information et de la communication.
-
 Paris-III :
 
 Ecole supérieure d'interprètes et de traducteurs.

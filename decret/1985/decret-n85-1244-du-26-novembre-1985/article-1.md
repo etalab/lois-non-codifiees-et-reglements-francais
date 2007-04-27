@@ -90,6 +90,10 @@ Institut francilien d'ingénierie des services.
 
 Institut francilien des sciences appliquées.
 
+Montpellier-III
+
+Institut des technosciences de l'information et de la communication.
+
 Nancy-II :
 
 Centre universitaire d'études politiques.
