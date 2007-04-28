@@ -2,7 +2,7 @@
 
 a) Elimination :
 
-Outre les cas visés à l'article 35 ci-dessous, est éliminé tout candidat qui, pour l'une des épreuves écrites visées à l'article 18 ci-dessus, ne remet pas de copie, remet une copie blanche ou se borne à recopier l'énoncé des questions posées.
+Outre les cas visés à l'article 35 ci-dessous, est éliminé tout candidat qui, pour l'une des épreuves écrites d'admissibilité, ne remet pas de copie, remet une copie blanche ou se borne à recopier l'énoncé des questions posées.
 
 b) Exclusion :
 

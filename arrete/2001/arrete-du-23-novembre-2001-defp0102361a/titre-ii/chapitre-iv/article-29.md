@@ -10,8 +10,4 @@ Elles comprennent :
 
 - une course de 1 000 mètres (candidats) ou de 600 mètres (candidates) ;
 
-- un saut en hauteur avec élan ;
-
-- un lancer de poids de 5 kg (candidats) ou de 3 kg (candidates) ;
-
 - une épreuve de natation de 50 mètres (nage libre).

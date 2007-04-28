@@ -16,7 +16,7 @@ a) Pour la filière MP :
 
 - une interrogation de langue vivante obligatoire (durée : trente minutes) ;
 
-- une interrogation de langue vivante facultative (durée : vingt minutes).
+- une interrogation de langue vivante facultative (durée : quinze minutes).
 
 b) Pour la filière PC :
 
@@ -36,7 +36,7 @@ b) Pour la filière PC :
 
 - une interrogation de langue vivante obligatoire (durée : trente minutes) ;
 
-- une interrogation de langue vivante facultative (durée : vingt minutes).
+- une interrogation de langue vivante facultative (durée : quinze minutes).
 
 La liste des langues vivantes autorisées aux épreuves orales est la même que celle qui figure à l'article 14 pour les épreuves écrites de langue vivante.
 

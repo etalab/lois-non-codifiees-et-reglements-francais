@@ -6,4 +6,4 @@ Pour être autorisés à concourir, les candidats français doivent :
 
 2. Avoir acquitté les droits d'inscription dont le montant est fixé par arrêté conjoint du ministre de la défense et du ministre chargé du budget ;
 
-3. Avoir signé la déclaration dont le modèle est donné en annexe au présent arrêté.
+3. Avoir signé une déclaration suivant le modèle etabli par le directeur général de l'Ecole polytechnique.

@@ -22,7 +22,7 @@ Le dossier d'inscription comprend les documents suivants :
 
 4° Le règlement des droits d'inscription dont le montant est fixé par arrêté conjoint du ministre de la défense et du ministre chargé du budget ;
 
-5° Une déclaration signée du candidat suivant un modèle établi annuellement par le directeur général de l'Ecole polytechnique.
+5° Une déclaration signée du candidat suivant un modèle établi par le directeur général de l'Ecole polytechnique.
 
 Les candidats sont personnellement responsables de l'exactitude de tous les renseignements donnés.
 

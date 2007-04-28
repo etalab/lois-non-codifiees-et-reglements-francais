@@ -94,6 +94,6 @@ La liste des épreuves écrites d'admissibilité est indiquée ci-après ainsi q
 
 Il s'y ajoute les épreuves écrites suivantes qui n'interviennent que pour l'admission finale :
 
-a) Une épreuve de langue vivante étrangère (durée : trois heures ; coefficient 6). Cette langue est choisie dans la liste suivante : allemand, anglais, arabe, espagnol, italien, portugais et russe ;
+- une épreuve de langue vivante étrangère (durée : trois heures ; coefficient 6). Cette langue est choisie parmi l'allemand, l'anglais, l'arabe, l'espagnol et l'italien ;
 
-b) Une épreuve d'informatique (durée : deux heures ; coefficient 4) ; pour les concours organisés en 2002 et 2003 uniquement, cette épreuve est facultative.
+- une épreuve d'informatique (durée : trois heures ; coefficient 4).

@@ -1,6 +1,6 @@
 # Article 9
 
-Les candidats déclarés admissibles passent les épreuves orales du groupe 2 de la banque filière PT, qui comportent :
+Les candidats déclarés admissibles passent les épreuves orales de la banque filière PT définies ci-après :
 
 1° Les épreuves obligatoires figurant dans le tableau suivant, affectées des coefficients indiqués :
 

@@ -48,7 +48,7 @@ Première partie : en laboratoire, le candidat écoute trois fois un texte ou un
 
 Deuxième partie : le candidat doit analyser puis commenter dans la langue étrangère qu'il a choisie parmi les langues autorisées un texte de cette langue ; ce texte emprunté par l'examinateur à un journal ou à une revue de l'année en cours n'exige pas une connaissance spécialisée de la civilisation étrangère.
 
-Le candidat dispose d'une demi-heure pour préparer ce travail et conserve l'article sous ses yeux comme soutien de mémoire pendant son exposé. Il doit, dans celui-ci, s'affranchir de la présentation matérielle de l'article et prouver qu'il est capable de la repenser, d'en dégager les points essentiels et les détails significatifs et de mesurer leur importance.
+Le candidat dispose d'une demi-heure pour préparer ce travail et conserve le texte sous ses yeux comme soutien de mémoire pendant son exposé. Il doit, dans celui-ci, s'affranchir de la présentation matérielle de l'article et prouver qu'il est capable de la repenser, d'en dégager les points essentiels et les détails significatifs et de mesurer leur importance.
 
 Le candidat peut élargir son commentaire par des remarques appropriées et l'examinateur peut également orienter le candidat vers une discussion plus générale. Il appartient à celui-ci de montrer ainsi son aptitude à exposer et développer des idées et à dialoguer en langue étrangère avec un interlocuteur.
 
@@ -56,13 +56,7 @@ Le candidat est jugé globalement sur sa compréhension de la langue étrangère
 
 III. - Epreuve orale de langue vivante facultative
 
-Le candidat doit analyser puis commenter dans la langue étrangère qu'il a choisie parmi les langues autorisées un texte de cette langue. Ce texte se rapporte à une question d'intérêt général.
-
-Le candidat dispose de vingt minutes pour préparer ce travail et conserve le texte sous les yeux comme soutien de mémoire pendant son exposé. Il doit, dans celui-ci, prouver qu'il est capable de dégager les points essentiels et les détails significatifs du texte et d'en mesurer l'importance. Des détails de traduction peuvent lui être demandés, afin de vérifier ses connaissances des structures grammaticales et des nuances de la langue étrangère.
-
-Le candidat peut élargir son commentaire par des remarques appropriées ; l'examinateur peut également orienter le candidat sur une discussion plus générale.
-
-Le candidat est jugé globalement sur sa compréhension de la langue étrangère, son aisance à l'utiliser et ses facultés d'analyse et de synthèse.
+L'épreuve orale de langue vivante facultative se déroule dans les mêmes conditions que la deuxième partie de l'épreuve orale de langue vivante obligatoire.
 
 B. - Programme scientifique
 
