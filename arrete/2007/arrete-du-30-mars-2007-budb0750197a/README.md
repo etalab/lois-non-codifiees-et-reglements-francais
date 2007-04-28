@@ -1,4 +1,4 @@
-# Arrêté du 27 novembre 2001 relatif aux conditions d'admission à l'Ecole polytechnique par la filière physique et sciences de l'ingénieur (PSI)
+# Arrêté du 30 mars 2007 relatif aux modalités d'exercice du contrôle financier sur le Centre national des oeuvres universitaires et scolaires et les centres régionaux des oeuvres universitaires et scolaires
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -8,7 +8,4 @@
 - [Article 6](article-6.md)
 - [Article 7](article-7.md)
 - [Article 8](article-8.md)
-- [Article 8-1](article-8-1.md)
 - [Article 9](article-9.md)
-- [Article 10](article-10.md)
-- [Article 11](article-11.md)
