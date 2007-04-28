@@ -1,5 +1,5 @@
 # Article 4
 
-Le président et le vice-président sont nommés par arrêté du ministre chargé des transports parmi les membres de la commission.
+Le président et le vice-président sont nommés parmi les membres de la commission par arrêté conjoint des ministres chargés des transports, des ports maritimes et de la marine marchande.
 
-Le secrétaire général est nommé par arrêté du ministre chargé des transports parmi les membres de la mission du transport des matières dangereuses de la direction des transports terrestres ; il a voix consultative.
+Le secrétaire général est nommé par arrêté conjoint des ministres susmentionnés ; il a voix consultative.
