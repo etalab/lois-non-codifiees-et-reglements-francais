@@ -20,6 +20,10 @@ Lorsque le nombre de sièges attribués à une liste dépasse le nombre de candi
 
 Lorsque le panachage est autorisé, les sièges revenant à une liste sont attribués dans l'ordre décroissant des suffrages obtenus par chaque candidat. En cas d'égalité entre deux candidats, le siège est alors attribué selon l'ordre de présentation de la liste.
 
-Lorsque l'élection a lieu sans panachage, les sièges sont attribués aux candidats d'après l'ordre de présentation.
+Lorsque l'élection a lieu sans panachage, les sièges sont attribués aux candidats d'après l'ordre de présentation de la liste.
 
-Lorsqu'un membre d'un conseil élu selon un mode de scrutin prévoyant le panachage perd la qualité au titre de laquelle il a été élu ou lorsque son siège devient vacant, il est remplacé, pour la durée du mandat restant à courir, par le candidat de la même liste non élu ayant obtenu le plus de voix. Si le panachage n'est pas autorisé, il est remplacé, dans les mêmes conditions par le candidat de la même liste venant immédiatement après le dernier candidat élu. En cas d'impossibilité, il est procédé à un renouvellement partiel dans les conditions fixées par les statuts.
+Lorsqu'un membre d'un conseil élu selon un mode de scrutin prévoyant le panachage perd la qualité au titre de laquelle il a été élu ou lorsque son siège devient vacant, il est remplacé, pour la durée du mandat restant à courir, par le candidat de la même liste non élu ayant obtenu le plus de voix. Si le panachage n'est pas autorisé, il est remplacé, dans les mêmes conditions par le candidat de la même liste venant immédiatement après le dernier candidat élu. En cas d'impossibilité, il est procédé à un renouvellement partiel.
+
+Lorsqu'il y a un seul siège à pourvoir pour un collège déterminé dans le cadre du renouvellement partiel prévu à l'alinéa précédent, l'élection a lieu au scrutin majoritaire à un tour.
+
+Les représentants des usagers qui changent de secteur électoral ou de cycle d'études en cours de mandat accomplissent leur mandat jusqu'à son terme, sous réserve de remplir les conditions prévues à l'article 14.

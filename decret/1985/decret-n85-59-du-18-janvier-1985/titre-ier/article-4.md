@@ -8,7 +8,7 @@ Les professeurs et personnels assimilés, d'une part, les autres enseignants-che
 
 2 - USAGERS.
 
-Ce collège comprend les personnels mentionnés à l'article 3-2.
+Ce collège comprend les personnes mentionnées au 2° de l'article 3.
 
 3 - PERSONNELS ADMINISTRATIFS, TECHNIQUES, OUVRIERS ET DE SERVICE.
 
