@@ -1,0 +1,3 @@
+# Article 1
+
+Les personnels enseignants des premier et second degrés et les personnels d'éducation et d'orientation titulaires appartenant aux corps des professeurs des écoles, des instituteurs, des professeurs certifiés, des professeurs agrégés, des professeurs d'éducation physique et sportive, des chargés d'enseignement d'éducation physique et sportive, des professeurs de lycée professionnel, des adjoints d'enseignement, des professeurs d'enseignement général de collège, des conseillers d'orientation-psychologues et des conseillers principaux d'éducation, lorsqu'ils sont confrontés à une altération de leur état de santé, peuvent solliciter un aménagement de leur poste de travail ou une affectation sur un poste adapté, dans les conditions prévues au présent décret.

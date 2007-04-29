@@ -1,0 +1,3 @@
+# Décret n°2007-620 du 27 avril 2007 fixant les modalités d'intégration des agents régis par le décret n° 73-312 du 14 mars 1973 fixant les dispositions applicables à certains personnels contractuels techniques de l'Ecole polytechnique dans les catégories créées par le décret n° 2003-1006 du 21 octobre 2003 portant dispositions applicables aux personnels contractuels scientifiques, techniques et administratifs de recherche de l'Ecole polytechnique et modifiant le décret n° 2003-1006 du 21 octobre 2003.
+
+- [TITRE Ier : DISPOSITIONS RELATIVES À L'INTÉGRATION DES AGENTS RÉGIS PAR LE DÉCRET N° 73-312 DU 14 MARS 1973 DANS LES CATÉGORIES PRÉVUES PAR LE DÉCRET N° 2003-1006 DU 21 OCTOBRE 2003.](titre-ier)

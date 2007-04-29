@@ -1,0 +1,3 @@
+# Article 9
+
+En application des articles 10 du règlement (CE) n° 183/2005 susvisé et L. 235-1 du code rural, un agrément spécifique peut être délivré aux établissements de fabrication d'aliments composés destinés aux troupeaux de plus de 250 volailles de reproduction de l'espèce Gallus gallus. Il a pour objet de garantir le respect d'éléments de maîtrise du danger Salmonella dans la fabrication et la distribution d'aliments composés destinés aux reproducteurs de l'espèce Gallus gallus dans le cadre du programme national de contrôle de Salmonella prévu à l'article 5 du règlement (CE) n° 2160/2003 susvisé.

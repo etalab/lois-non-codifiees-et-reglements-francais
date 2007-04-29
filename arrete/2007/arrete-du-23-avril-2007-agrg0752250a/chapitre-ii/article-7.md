@@ -1,0 +1,3 @@
+# Article 7
+
+A tout moment conformément à l'article L. 235-1 du code rural, en cas de constat de manquement aux dispositions des législations communautaire, nationale ou de réglementations prises pour leur application, en termes d'hygiène, de commercialisation des aliments pour animaux notamment, ou en l'absence d'actualisation des pièces essentielles constitutives du plan de maîtrise sanitaire mentionné à l'annexe II du présent arrêté, l'agrément peut être, après mise en demeure, suspendu, voire retiré, selon les dispositions prévues aux articles 14 et 15 du règlement (CE) n° 183/2005 susvisé, par l'autorité administrative compétente du département d'implantation sur proposition du directeur départemental des services vétérinaires.

@@ -1,6 +1,6 @@
 # Article 3
 
-Pour l'élection des membres des conseils d'unités de formation et de recherche et, sous réserve de dispositions réglementaires prévues au dernier alinéa de l'article 39 de la loi n° 84-52 du 26 janvier 1984, des membres des conseils des instituts et écoles internes, les électeurs des différentes catégories sont répartis dans les collèges électoraux sur les bases suivantes :
+Pour l'élection des membres des conseils d'unités de formation et de recherche et, sous réserve de dispositions réglementaires prévues au dernier alinéa de l'article L. 719-2 du code de l'éducation, des membres des conseils des instituts et écoles internes, les électeurs des différentes catégories sont répartis dans les collèges électoraux sur les bases suivantes :
 
 1 - PERSONNELS ENSEIGNANTS-CHERCHEURS, ENSEIGNANTS ET CHERCHEURS.
 
@@ -22,7 +22,7 @@ Collège B des autres enseignants-chercheurs, des enseignants et personnels assi
 
 1° Les enseignants-chercheurs ou assimilés et les enseignants associés ou invités qui n'appartiennent pas au collège A ;
 
-2° Les chargés d'enseignement définis à l'article 54 de la loi du 26 janvier 1984 susvisée ;
+2° Les chargés d'enseignement définis à l'article L. 952-1 du code de l'éducation ;
 
 3° Les autres enseignants ;
 

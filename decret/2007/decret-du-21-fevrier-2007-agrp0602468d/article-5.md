@@ -6,4 +6,4 @@ La hauteur de feuillage palissé est égale au minimum à 0,6 fois l'écartement
 
 Les vignes sont taillées avec au maximum 12 yeux francs par cep et 4 yeux francs sur le long bois.
 
-La charge maximale moyenne à la parcelle de vigne, telle que prévue à l'article D. 641-82 du code rural, est de 7 800 kg de raisins à l'hectare avant concentration due à la surmaturation.
+La charge maximale moyenne à la parcelle de vigne telle que prévue à l'article D. 641-82 du code rural est de 7 500 kg de raisins à l'hectare avant concentration due à la surmaturation.
