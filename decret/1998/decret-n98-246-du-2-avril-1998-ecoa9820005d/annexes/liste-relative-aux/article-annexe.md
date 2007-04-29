@@ -12,7 +12,7 @@ III. - Mise en place, entretien et réparation des réseaux et des équipements 
 
 IV. - Ramonage : ramoneur.
 
-V. - Soins esthétiques à la personne autres que médicaux et paramédicaux : esthéticien.
+V. - Soins esthétiques à la personne autres que médicaux et paramédicaux et modelages esthétiques de confort sans finalité médicale : esthéticien.
 
 VI. - Réalisation de prothèses dentaires : prothésiste dentaire.
 
