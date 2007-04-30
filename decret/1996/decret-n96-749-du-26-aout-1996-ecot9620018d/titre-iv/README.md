@@ -1,3 +1,0 @@
-# TITRE IV : DISPOSITIONS FINALES ET TRANSITOIRES.
-
-- [Article 9](article-9.md)
