@@ -12,4 +12,14 @@ Introduction de l'hexafluorure d'uranium, soutirage de l'hexafluorure d'uranium 
 
 Une partie dite "unités auxiliaires" comprenant principalement le système de refroidissement de l'usine, ainsi que les centrales calorifique et frigorifique et les alimentations en fluides divers.
 
-L'ensemble des équipements constituant l'installation nucléaire de base sera implanté dans le périmètre fixé sur le plan annexé au présent décret (1).
+Le périmètre de l'usine de séparation des isotopes de l'uranium par diffusion gazeuse exploitée par la société Eurodif-Production est modifié conformément au plan annexé au présent décret (1). La modification du périmètre permet l'implantation de l'unité Sud de l'usine Georges Besse-II exploitée par la Société d'enrichissement du Tricastin.
+
+La société Eurodif-Production est autorisée à réaliser des prestations pour le compte de l'exploitant de l'usine Georges Besse-II encadrées par des conventions établies entre les entités concernées et définissant le cadre de leur exécution et les responsabilités correspondantes, notamment en ce qui concerne :
+
+- les opérations de réception, de contrôle, d'analyse, de transfert et d'entreposage de conteneurs d'hexafluorure d'uranium ;
+
+- le traitement des eaux usées ;
+
+- le tri et le conditionnement des déchets industriels banals et des déchets dangereux ;
+
+- la fourniture d'eau potable et d'eau d'incendie.
