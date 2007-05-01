@@ -1,3 +1,3 @@
 # Article 20
 
-Les services effectués dans les corps de l'inspection générale de la sécurité sociale, de l'inspection générale de la santé et de la population et comme inspecteur général du travail et de la main-d'oeuvre sont assimilés à des services effectués dans le corps de l'inspection générale des affaires sociales.
+Lorsque des textes prévoient la participation d'un membre de l'inspection générale des affaires sociales à une commission, à un conseil ou à un jury, l'autorité chargée de la désignation peut porter son choix sur un ancien membre de l'inspection générale de rang au moins égal ou un membre étant ou ayant été placé en service extraordinaire, après avis du chef de l'inspection générale des affaires sociales.

@@ -1,3 +1,0 @@
-# Article 15
-
-Les inspecteurs généraux des affaires sociales ne peuvent recevoir aucune affectation administrative permanente en dehors des missions effectuées sous l'autorité du chef du service de l'inspection générale des affaires sociales, ni être placés en position de service détaché ou de disponibilité en application des dispositions des articles 44, 45 et 46 du décret du 16 septembre 1985 susvisé, s'ils n'ont accompli, à compter de leur nomination, deux ans de services dans le corps consacrés à des missions effectuées sous l'autorité directe du chef du service."
