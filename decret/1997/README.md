@@ -268,7 +268,6 @@
 - [Décret n°97-16 du 13 janvier 1997 (TASF9611560D)](decret-n97-16-du-13-janvier-1997-tasf9611560d)
 - [Décret n°97-17 du 13 janvier 1997 (TASG9611683D)](decret-n97-17-du-13-janvier-1997-tasg9611683d)
 - [Décret n°97-18 du 13 janvier 1997 (TASG9611685D)](decret-n97-18-du-13-janvier-1997-tasg9611685d)
-- [Décret n°97-19 du 13 janvier 1997 (TASH9623744D)](decret-n97-19-du-13-janvier-1997-tash9623744d)
 - [Décret n°97-21 du 13 janvier 1997 (INTA9700004D)](decret-n97-21-du-13-janvier-1997-inta9700004d)
 - [Décret n°97-221 du 13 mars 1997 (TASP9720452D)](decret-n97-221-du-13-mars-1997-tasp9720452d)
 - [Décret n°97-222 du 13 mars 1997 (TASF9710298D)](decret-n97-222-du-13-mars-1997-tasf9710298d)
