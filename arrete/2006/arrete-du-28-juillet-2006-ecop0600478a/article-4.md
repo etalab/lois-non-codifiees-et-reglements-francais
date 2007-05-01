@@ -1,55 +1,51 @@
 # Article 4
 
-I. - La sous-direction des politiques sociales et des conditions de travail élabore, anime et met en oeuvre la politique d'action sociale conduite pour l'ensemble des agents en activité ou retraités du ministère.
+I. - La sous-direction des politiques sociales et d es conditions de travail élabore la politique d'action sociale conduite pour l'ensemble des agents en activité ou retraités du ministère ainsi que la politique d'hygiène, de sécurité et de prévention médicale pour l'ensemble des agents en activité du ministère. Elle anime ces politiques ; elle concourt et veille à leur mise en oeuvre.
 
-Elle anime et coordonne l'action du conseil national et des conseils départementaux d'administration de l'action sociale ainsi que des organes de liaison propres à l'action sociale.
+A ce titre, elle anime et coordonne l'action du conseil national et des conseils départementaux de l'action sociale, des organes de liaison propres à l'action sociale des directions à réseau du ministère, du comité d'hygiène et de sécurité ministériel, des comités d'hygiène et de sécurité départementaux interdirectionnels et des comités d'hygiène et de sécurité spéciaux. Elle assure également la représentation du ministère au sein des instances interministérielles compétentes en matière d'action sociale, d'hygiène et de sécurité ainsi que le suivi des relations dans ces domaines avec le ministère chargé de la fonction publique.
 
-Elle met en oeuvre les prestations d'action sociale interministérielles et ministérielles, en particulier dans les domaines de la médecine, du service social, de la petite enfance, de la restauration, du logement, des vacances et des loisirs.
+Elle concourt et veille à la mise en oeuvre des prestations d'action sociale interministérielles et ministérielles, en particulier dans les domaines du service social, de la petite enfance, de la restauration, du logement, des vacances et des loisirs et assure la tutelle des associations régies par la loi du 1er juillet 1901 auxquelles le ministère décide de confier, à titre exclusif, la gestion de tout ou partie desdites prestations.
 
-Elle gère l'ensemble des personnels chargés de la mise en oeuvre des prestations sociales et assure le fonctionnement et l'animation du réseau de l'action sociale.
+Elle gère l'ensemble des personnels chargés de la mise en oeuvre des politiques mentionnées au premier alinéa. Elle assure le pilotage et le fonctionnement des réseaux de l'action sociale - délégations départementales et service social ministériel -, du réseau des fonctionnaires chargés d'une mission d'inspection en matière d'hygiène et de sécurité et du réseau de médecine de prévention.
 
-Elle gère le budget d'action sociale du ministère et en assure le contrôle de gestion.
+Elle gère le budget d'action sociale du ministère et assure le contrôle de gestion en la matière ainsi que la direction d'investissement sur les projets immobiliers la concernant. Elle assure la répartition et le suivi des crédits relatifs à l'hygiène, à la sécurité et à la prévention médicale.
 
-Elle assure la représentation du ministère au sein des instances interministérielles compétentes en matière d'action sociale.
-
-Elle élabore, anime et met en oeuvre la politique d'hygiène et de sécurité et de prévention médicale conduite pour l'ensemble des agents du ministère. Elle anime et coordonne dans ces domaines l'action du comité d'hygiène et de sécurité ministériel, des comités d'hygiène et de sécurité départementaux interdirectionnels et des comités d'hygiène et de sécurité spéciaux. Elle anime le réseau des fonctionnaires chargés d'une mission d'inspection en matière d'hygiène et de sécurité et le réseau de médecine de prévention.
-
-Elle assure la répartition et le suivi des crédits relatifs à l'hygiène, à la sécurité et à la prévention médicale.
+Elle est chargée de la mise en oeuvre, pour les agents du ministère, du dispositif de protection complémentaire de santé, et en assure le suivi.
 
 II. - La sous-direction des politiques sociales et des conditions de travail comprend :
 
-- le bureau " politiques sociales ".
+Le bureau "politiques sociales".
 
-Il assure le fonctionnement général des structures de l'action sociale ainsi que des instances de concertation au niveau national et local. Il veille à la cohérence des actions et des prestations servies.
+Il est chargé de l'élaboration et du suivi des politiques sociales.
 
-Il est chargé de la préparation et de l'exécution du budget alloué aux politiques ministérielles d'action sociale, d'hygiène et de sécurité et de prévention médicale. Il gère les personnels administratifs et techniques de la sous-direction ainsi que l'ensemble de ses moyens de fonctionnement.
+Il assure le fonctionnement général des structures de l'action sociale ainsi que des instances de concertation aux niveaux national et local et veille à la cohérence des actions et des prestations servies.
 
-Il assure l'animation et le suivi du réseau de l'action sociale et coordonne les actions déconcentrées. Il met en oeuvre les politiques de service social et attribue les aides et prêts à caractère social.
+Il prépare et exécute le budget alloué aux politiques ministérielles d'action sociale, d'hygiène, de sécurité et de prévention médicale. Il gère les personnels administratifs et techniques de la sous-direction ainsi que ses moyens de fonctionnement courant.
 
-Il assure les relations avec les mutuelles du ministère ;
+Il contrôle la bonne exécution des conventions d'objectifs et de moyens passées avec les associations dont la sous-direction assure la tutelle.
 
-- le bureau " hygiène et sécurité-prévention médicale ".
+Il assure le suivi, pour les agents du ministère, du dispositif de protection complémentaire de santé.
 
-Il élabore et propose la politique ministérielle d'hygiène et de sécurité et de prévention médicale, qu'il anime en concertation avec les partenaires sociaux, les directions et les présidents des comités d'hygiène et de sécurité départementaux interdirectionnels et des comités d'hygiène et de sécurité spéciaux.
+Le bureau "hygiène et sécurité - prévention médicale".
 
-Il anime le réseau des fonctionnaires chargés d'une mission d'inspection en matière d'hygiène et de sécurité ainsi que le réseau des médecins de prévention et des infirmiers.
+Il est chargé de l'élaboration de la politique ministérielle d'hygiène, de sécurité et de prévention médicale.
 
-Il anime et coordonne les actions en matière d'hygiène et de sécurité et de prévention médicale pour les services de l'administration centrale ;
+Il met en oeuvre cette politique en concertation avec les partenaires sociaux, les directions et les présidents des comités d'hygiène et de sécurité, avec l'appui des secrétaires animateurs des comités d'hygiène et de sécurité.
 
-- le bureau " restauration-logement ".
+Il pilote le réseau des fonctionnaires chargés d'une mission d'inspection en matière d'hygiène et de sécurité, le réseau des médecins de prévention et des infirmiers.
 
-Il élabore et met en oeuvre les politiques et les prestations sociales en matière de restauration et de logement social.
+Il initie et coordonne des démarches en matière d'ergonomie.
 
-Il coordonne la politique de restauration. Il exerce une mission d'assistance, de conseil et d'expertise en matière de restauration collective auprès des directions et services et des organes de gestion de leurs restaurants ; il assure la gestion du dispositif du titre-restaurant.
+Il anime et coordonne les actions en matière d'hygiène, de sécurité et de prévention médicale pour les services de l'administration centrale.
 
-Il est responsable de la gestion directe des restaurants administratifs parisiens.
+Le bureau "réseaux de l'action sociale".
 
-Il est chargé de la politique du logement pour les agents du ministère. Il élabore et met en oeuvre un dispositif d'aides et de prêts au logement et assure dans ce domaine une mission de conseil auprès des agents ;
+Il concourt à l'élaboration des politiques sociales.
 
-- le bureau " enfance-loisirs ".
+Il met en oeuvre les politiques de restauration, de petite enfance et de service social.
 
-Il élabore et met en oeuvre la politique sociale dans le domaine des vacances et des loisirs.
+Il pilote les réseaux de l'action sociale et coordonne leurs actions.
 
-Il assure, directement ou indirectement, des prestations pour les vacances des enfants, des adultes, des retraités et de leur famille ; il gère les centres de vacances et les résidences familiales du ministère.
+Il exerce une mission d'expertise et de suivi de la gestion des biens immobiliers affectés à la mise en oeuvre des prestations d'action sociale.
 
-Il met en oeuvre la politique sociale pour la petite enfance.
+Il assure la communication de la sous-direction et gère ses moyens informatiques.

@@ -1,0 +1,3 @@
+# Article 21
+
+La commission administrative paritaire compétente à l'égard du corps de l'inspection générale des affaires sociales demeure compétente jusqu'à la désignation des représentants des nouveaux grades créés par le présent décret, qui interviendra dans un délai de six mois à compter de la date d'entrée en vigueur du présent décret. Les représentants des inspecteurs adjoints et les représentants des inspecteurs à la commission administrative paritaire exercent, respectivement, les compétences des représentants des nouvelles classes d'inspecteur de 2e classe et d'inspecteur de 1re classe créées par le présent décret jusqu'à l'installation de la nouvelle commission administrative paritaire.
