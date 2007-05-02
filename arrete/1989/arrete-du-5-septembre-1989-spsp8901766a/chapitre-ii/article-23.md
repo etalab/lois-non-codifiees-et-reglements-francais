@@ -14,4 +14,4 @@ Sont reçus au diplôme d'Etat de masseur-kinésithérapeute les candidats qui o
 
 Total général 120
 
-Si un module est scindé entre la deuxième et troisième année de scolarité, il convient d'additionner les notes obtenues en deuxième et troisième année dans ce module et de les diviser par deux pour obtenir la note du module. Lorsqu'un module a donné lieu à l'examen de rattrapage la note prise en compte pour le calcul de la moyenne est celle calculée dans les conditions prévues à l'article 7 de l'arrêté du 5 septembre 1989 susvisé. Toute note inférieure à 15 points à une mise en situation professionnelle est éliminatoire.
+Si un module est scindé entre la deuxième et troisième année de scolarité, il convient d'additionner les notes obtenues en deuxième et troisième année dans ce module et de les diviser par deux pour obtenir la note du module. Toute note inférieure à 15 points à une mise en situation professionnelle est éliminatoire.

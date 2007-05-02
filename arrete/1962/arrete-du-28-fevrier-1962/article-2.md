@@ -1,3 +1,5 @@
 # Article 2
 
-Le délégué à l'aménagement du territoire et à l'action régionale ou son représentant assure la présidence du comité interministériel des parcs nationaux. Chacun des ministres mentionnés à l'article R. 241-1 du livre II (nouveau) du code rural désigne par voie d'arrêt son représentant permanent à ce comité ainsi qu'un suppléant.
+Le délégué interministériel à l'aménagement et à la compétitivité des territoires ou son représentant assure la présidence du comité interministériel des parcs nationaux. Il est assisté du secrétaire général de la mer ou de son représentant lorsque l'ordre du jour de la séance concerne un parc national comprenant un espace maritime.
+
+Le directeur de la nature et des paysages ou son représentant assure le secrétariat du comité.
