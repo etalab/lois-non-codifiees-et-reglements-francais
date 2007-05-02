@@ -176,6 +176,7 @@
 - [Arrêté du 30 novembre 2006 (INTE0600951A)](arrete-du-30-novembre-2006-inte0600951a)
 - [Arrêté du 30 novembre 2006 (MENT0602397A)](arrete-du-30-novembre-2006-ment0602397a)
 - [Arrêté du 30 octobre 2006 (DEVP0630182A)](arrete-du-30-octobre-2006-devp0630182a)
+- [Arrêté du 30 mai 2006 (SANS0621944A)](arrete-du-30-mai-2006-sans0621944a)
 - [Arrêté du 31 décembre 1990 (AGRG9002163A)](arrete-du-31-decembre-1990-agrg9002163a)
 - [Arrêté du 31 décembre 1998 (ECOT9820095A)](arrete-du-31-decembre-1998-ecot9820095a)
 - [Arrêté du 31 octobre 2006 (DEVP0630181A)](arrete-du-31-octobre-2006-devp0630181a)
