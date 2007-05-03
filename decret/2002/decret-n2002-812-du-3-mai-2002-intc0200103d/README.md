@@ -4,5 +4,4 @@
 - [Chapitre II : Recrutement.](chapitre-ii)
 - [Chapitre III : Avancement.](chapitre-iii)
 - [Chapitre IV : Dispositions particulières.](chapitre-iv)
-- [Chapitre V : Dispositions transitoires.](chapitre-v)
 - [Article 19](article-19.md)
