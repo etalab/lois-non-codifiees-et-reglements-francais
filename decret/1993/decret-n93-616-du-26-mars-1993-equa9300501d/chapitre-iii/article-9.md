@@ -1,5 +1,3 @@
 # Article 9
 
-Peuvent être inscrits au tableau d'avancement en vue de leur nomination au grade d'adjoint d'administration de 1re classe, au choix, les adjoints d'administration de l'aviation civile de 2e classe qui ont atteint au moins le 5e échelon de leur grade.
-
-Les agents promus sont classés à l'échelon numériquement égal à celui détenu dans leur précédent grade, en conservant l'ancienneté acquise.
+Peuvent être promus au grade d'adjoint principal d'administration de 2e classe par voie d'inscription à un tableau annuel d'avancement établi, au choix, après avis de la commission administrative paritaire, les adjoints d'administration de 1re classe ayant atteint le 5e échelon de leur grade et comptant au moins six ans de services effectifs dans leur grade.
