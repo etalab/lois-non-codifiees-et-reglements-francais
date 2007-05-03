@@ -1,3 +1,0 @@
-# Article 20
-
-Pendant une période de quatre ans à compter de la date de publication du présent décret, peuvent également être intégrés dans le corps des bibliothécaires adjoints spécialisés, sous réserve d'avoir subi les épreuves d'un examen professionnel dont les modalités sont fixées par arrêté du ministre chargé de l'enseignement supérieur, les bibliothécaires adjoints régis par le décret du 5 avril 1950 susvisé justifiant d'au moins cinq ans de services effectifs dans les services techniques ou bibliothèques mentionnés à l'article 2 ci-dessus ou dans une bibliothèque relevant des collectivités territoriales.

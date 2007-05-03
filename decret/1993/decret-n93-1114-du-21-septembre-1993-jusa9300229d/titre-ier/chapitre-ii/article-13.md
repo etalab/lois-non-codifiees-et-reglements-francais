@@ -1,3 +1,3 @@
 # Article 13
 
-Lors de leur titularisation, les conseillers d'insertion et de probation de 2e classe stagiaires sont classés au 2e échelon de leur grade sans ancienneté conservée.
+Au moment de la titularisation, la durée du stage n'est prise en compte pour l'avancement d'échelon que dans la limite d'une année.

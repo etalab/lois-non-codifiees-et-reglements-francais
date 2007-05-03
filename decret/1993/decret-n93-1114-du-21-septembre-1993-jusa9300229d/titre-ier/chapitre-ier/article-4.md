@@ -5,5 +5,3 @@ Le corps des conseillers d'insertion et de probation de l'administration pénite
 a) Un grade de conseiller d'insertion et de probation de 2e classe, qui comporte, outre un échelon d'élève, 10 échelons ;
 
 b) Un grade de conseiller d'insertion et de probation de 1re classe, qui comporte 7 échelons.
-
-L'effectif du grade de conseiller d'insertion et de probation de 1re classe ne peut excéder 25 p. 100 de l'effectif total du corps.

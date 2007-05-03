@@ -5,5 +5,4 @@
 - [CHAPITRE III : Dispositions relatives au classement.](chapitre-iii)
 - [CHAPITRE IV : Avancement.](chapitre-iv)
 - [CHAPITRE V : Détachement.](chapitre-v)
-- [CHAPITRE VI : Dispositions transitoires.](chapitre-vi)
 - [Article 27](article-27.md)

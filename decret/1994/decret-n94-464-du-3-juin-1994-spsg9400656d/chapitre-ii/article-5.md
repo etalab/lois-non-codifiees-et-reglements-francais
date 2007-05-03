@@ -1,5 +1,7 @@
 # Article 5
 
-Pour six nominations prononcées au titre de l'article 3, il est procédé à une nomination au choix parmi les personnes figurant sur une liste d'aptitude établie après avis de la commission administrative paritaire.
+Des nominations peuvent être prononcées par inscription sur une liste d'aptitude après avis de la commission administrative paritaire, dans une proportion comprise entre un cinquième et deux cinquièmes des nominations prononcées par concours externe et interne en application du a et du b de l'article 3 et des détachements prononcés dans les conditions fixées au 2° de l'article 19 du décret n° 85-986 du 16 septembre 1985 relatif au régime particulier de certaines positions des fonctionnaires et à certaines modalités de cessation définitive de fonctions.
 
 Peuvent figurer sur cette liste les fonctionnaires de l'Etat, des collectivités territoriales et des établissements publics qui en dépendent, justifiant, au 31 décembre de l'année d'établissement de ladite liste, de dix années de services publics au ministère chargé des affaires sociales ou dans des activités à caractère sanitaire ou social et possédant le diplôme d'Etat d'éducateur spécialisé.
+
+Le nombre des nominations susceptibles d'être prononcées au titre de la liste d'aptitude peut être calculé en appliquant la proportion d'un cinquième à 5 % de l'effectif des fonctionnaires en position d'activité et de détachement dans le corps des éducateurs spécialisés au 31 décembre de l'année précédant celle au titre de laquelle sont prononcées les nominations lorsque ce mode de calcul permet un nombre de nominations plus élevé que celui résultant de l'application des dispositions de l'alinéa précédent.

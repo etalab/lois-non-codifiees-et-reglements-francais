@@ -8,8 +8,6 @@ Chargé d'éducation de classe supérieure ;
 
 Chargé d'éducation de classe exceptionnelle.
 
-Le nombre des emplois de chargé d'éducation de classe supérieure ne peut comprendre plus de 25 % de l'effectif total des deux premiers grades.
-
 Le grade de chargé d'éducation de classe normale comprend treize échelons.
 
 Le grade de chargé d'éducation de classe supérieure comprend huit échelons.

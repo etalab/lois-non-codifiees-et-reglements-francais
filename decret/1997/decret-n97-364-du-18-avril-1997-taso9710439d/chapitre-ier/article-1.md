@@ -1,6 +1,6 @@
 # Article 1
 
-I. - Les contrôleurs du travail constituent un corps interministériel classé dans la catégorie B prévue à l'article 29 de la loi du 11 janvier 1984 susvisée.
+I. - Le corps des contrôleurs du travail, classé dans la catégorie B prévue à l'article 29 de la loi du 11 janvier 1984 susvisée, est soumis aux dispositions du présent décret et à celles du décret du 18 novembre 1994 susvisé.
 
 II. - Les contrôleurs du travail dont la gestion est assurée par le ministre chargé du travail, de l'emploi et de la formation professionnelle, sont placés sous l'autorité des ministres chargés respectivement du travail, de l'emploi et de la formation professionnelle, de l'agriculture et des transports.
 

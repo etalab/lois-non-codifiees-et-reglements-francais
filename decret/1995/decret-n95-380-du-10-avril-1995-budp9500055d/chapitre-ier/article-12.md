@@ -1,6 +1,6 @@
 # Article 12
 
-Les candidats admis aux concours prévus à l'article 8 du présent décret ou recrutés au titre des emplois réservés qui remplissent les conditions d'aptitude physique exigées sont nommés en qualité de contrôleur de 2e classe stagiaire dans l'une des deux branches. Ils sont rémunérés par référence au 1er échelon du grade de contrôleur de 2e classe. Toutefois, lorsqu'ils avaient la qualité de fonctionnaire ou d'agent non titulaire, ils sont rémunérés, pendant la durée de leur stage, par référence à l'échelon du grade de début déterminé en application des dispositions fixées aux articles 3 à 8 du décret du 18 novembre 1994 susvisé.
+Les candidats admis aux concours prévus à l'article 8 du présent décret ou recrutés au titre des emplois réservés qui remplissent les conditions d'aptitude physique exigées sont nommés en qualité de contrôleur de 2e classe stagiaire dans l'une des deux branches. Ils sont classés au 1er échelon du grade de contrôleur de 2e classe, sous réserve de l'application des articles 3 à 7 du décret du 18 novembre 1994 susvisé.
 
 Le directeur général des douanes et droits indirects fixe la date d'installation des candidats admis.
 

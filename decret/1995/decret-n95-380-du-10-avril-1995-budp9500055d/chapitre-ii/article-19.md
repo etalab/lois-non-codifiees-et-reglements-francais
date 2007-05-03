@@ -2,7 +2,7 @@
 
 A l'issue des épreuves du concours d'accès au grade de contrôleur principal, le jury établit par ordre de mérite la liste des candidats retenus.
 
-Pour remplacer les candidats qui n'entreraient pas en fonctions, une liste complémentaire d'admission peut être établie dans la limite de 30 p. 100 du nombre des candidats figurant sur la liste principale. Cette liste complémentaire cesse d'être valable au 31 décembre de l'année au titre de laquelle elle a été établie.
+Pour remplacer les candidats qui n'entreraient pas en fonctions, une liste complémentaire d'admission peut être établie. Cette liste complémentaire cesse d'être valable au 31 décembre de l'année au titre de laquelle elle a été établie.
 
 Le directeur général des douanes et droits indirects arrête la liste d'admission.
 

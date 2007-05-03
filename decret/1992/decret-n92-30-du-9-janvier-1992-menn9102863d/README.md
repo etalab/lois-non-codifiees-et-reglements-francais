@@ -7,5 +7,4 @@
 - [Article 3](article-3.md)
 - [CHAPITRE III : Avancement.](chapitre-iii)
 - [CHAPITRE IV : Détachement.](chapitre-iv)
-- [CHAPITRE V : Dispositions transitoires et diverses.](chapitre-v)
 - [Article 25](article-25.md)

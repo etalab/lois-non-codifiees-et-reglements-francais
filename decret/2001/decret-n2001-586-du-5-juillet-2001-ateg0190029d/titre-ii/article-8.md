@@ -6,9 +6,7 @@ L'examen psychotechnique mentionné à l'alinéa précédent est destiné à dé
 
 Les agents qui avaient précédemment la qualité d'agent technique de l'environnement sont dispensés des épreuves de l'examen psychotechnique.
 
-Lors de leur nomination en qualité de technicien stagiaire, les intéressés sont classés à l'échelon de début de leur grade.
-
-Ceux d'entre eux qui, à la date de leur nomination, possédaient la qualité de fonctionnaire ou d'agent non titulaire de l'Etat, des collectivités territoriales ou des établissements publics qui en dépendent sont rémunérés par référence à l'échelon du grade de technicien déterminé en application des dispositions des articles 3 à 7 du décret du 18 novembre 1994 susvisé.
+Lors de leur nomination en qualité de technicien stagiaire, les intéressés sont classés à l'échelon de début de leur grade, sous réserve de l'application des articles 3 à 7 du décret du 18 novembre 1994 susvisé.
 
 Les techniciens stagiaires dont le stage est jugé satisfaisant sont titularisés en qualité de technicien. Ceux qui ne sont pas titularisés peuvent être autorisés à effectuer un stage complémentaire d'une durée maximale d'un an.
 

@@ -14,13 +14,13 @@ Diplôme de biologiste, chimiste, physicien, psychotechnicien, statisticien ou c
 
 Diplôme délivré par un établissement d'enseignement public ou privé, ou diplôme délivré ou reconnu dans un Etat membre de la Communauté européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen autre que la France, dont l'équivalence avec le baccalauréat aura été reconnue, pour l'application du présent décret, par la commission prévue à l'article 18 ci-dessus ;
 
-Ces concours sont également ouverts aux candidats titulaires d'un diplôme du niveau IV et aux candidats possédant une qualification professionnelle jugée équivalente à l'un des diplômes cités ci-dessus par la commission prévue à l'article 18.
+Ces concours sont également ouverts aux candidats titulaires d'un diplôme du niveau IV et aux candidats possédant une qualification professionnelle jugée équivalente à l'un des diplômes cités ci-dessus par la commission prévue à l'article 18 qui, à cet effet, peut prendre l'avis d'experts figurant sur la liste prévue à l'article 76 ;
 
 2° Des concours internes sont ouverts :
 
-a) Aux adjoints techniques de formation et de recherche, aux agents techniques de formation et de recherche et aux agents des services techniques de formation et de recherche justifiant de cinq années de services effectués en position d'activité dans leur corps ou en position de détachement ;
+a) Aux adjoints techniques de formation et de recherche justifiant de cinq années de services effectués en position d'activité dans leur corps ou en position de détachement ;
 
-b) Aux fonctionnaires régis par des statuts particuliers pris en application du code de la recherche, appartenant à un corps d'adjoints techniques, d'agents techniques ou d'agents des services techniques et remplissant les conditions de services fixées au a ;
+b) Aux fonctionnaires régis par des statuts particuliers pris en application du code de la recherche, appartenant à un corps d'adjoints techniques et remplissant les conditions de services fixées au a ;
 
 c) Aux fonctionnaires appartenant à un corps dont l'échelonnement indiciaire est équivalent à celui d'un corps de catégorie C et remplissant les conditions de services fixées au a ;
 

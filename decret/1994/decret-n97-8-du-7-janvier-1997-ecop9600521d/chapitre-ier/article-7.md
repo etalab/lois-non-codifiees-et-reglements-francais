@@ -1,13 +1,9 @@
 # Article 7
 
-Dans la limite du sixième des nominations prononcées en application des dispositions de l'article 6 ci-dessus, peuvent être nommés techniciens-géomètres, après inscription sur une liste d'aptitude établie après avis de la commission administrative paritaire du corps des géomètres du cadastre, les fonctionnaires de catégorie C des services déconcentrés de la direction générale des impôts remplissant les quatre conditions suivantes :
+Dans la limite des deux cinquièmes du nombre total des nominations prononcées en application des dispositions de l'article 6 ci-dessus et des détachements prononcés dans les conditions fixées au 2° de l'article 19 du décret n° 85-986 du 16 septembre 1985 modifié relatif au régime particulier de certaines positions des fonctionnaires de l'Etat et à certaines modalités de cessation définitive de fonctions, peuvent être nommés techniciens géomètres, après inscription sur une liste d'aptitude établie après avis de la commission administrative paritaire, les fonctionnaires de catégorie C des services déconcentrés de la direction générale des impôts remplissant les conditions suivantes :
 
-1° Etre âgé de plus de trente-sept ans et de moins de quarante-cinq ans au 31 décembre de l'année au titre de laquelle la liste d'aptitude est établie ;
+1° Justifier à la date fixée ci-dessus de quinze années au moins de services effectifs accomplis en qualité de fonctionnaire. Le temps du service national actif effectivement accompli vient en déduction de la durée de service exigée ;
 
-2° Justifier, à la date fixée ci-dessus, de quinze années au moins de services effectifs accomplis en qualité de fonctionnaire. Le temps effectivement accompli au titre du service national actif vient en déduction de la durée des services exigée ;
+2° Etre titulaire de deux des prébrevets mentionnés à l'article 17.
 
-3° Etre titulaire de deux des prébrevets mentionnés à l'article 17 ci-dessous ;
-
-4° Etre reconnu apte à un service actif.
-
-Le nombre de postes offerts chaque année au titre du présent article est calculé, lorsque l'application de cette disposition ne permet aucune promotion, en appliquant la proportion du sixième des nominations à 3,5 p. 100 de l'effectif budgétaire du corps au 1er janvier de l'année au titre de laquelle sont prononcées les nominations.
+Le nombre de nominations susceptibles d'être prononcées au titre du présent article peut être calculé en appliquant une proportion d'un cinquième à 5 % de l'effectif des fonctionnaires en position d'activité et de détachement dans le corps au 31 décembre de l'année précédant celle au titre de laquelle sont prononcées les nominations, lorsque ce mode de calcul permet un nombre de nominations plus élevé que celui résultant de l'application des dispositions ci-dessus.

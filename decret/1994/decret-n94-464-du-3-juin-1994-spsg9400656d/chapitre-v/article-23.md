@@ -1,3 +1,0 @@
-# Article 23
-
-Pour la constitution initiale du corps des éducateurs spécialisés des instituts nationaux de jeunes sourds et de l'Institut national des jeunes aveugles, sont intégrés sur leur demande et suivant les modalités fixées ci-après les fonctionnaires titulaires des collectivités territoriales mis à disposition de l'Etat en application de l'article 125 de la loi du 26 janvier 1984 susvisée, exerçant des fonctions d'éducateur, qui justifient du diplôme d'Etat d'éducateur spécialisé, et qui ont opté pour la fonction publique de l'Etat dans les conditions fixées aux articles 122 et 123 de cette même loi.

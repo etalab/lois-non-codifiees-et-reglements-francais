@@ -1,3 +1,5 @@
 # Article 10
 
-Les fonctionnaires appartenant à un corps, cadre d'emplois ou emploi de catégories C et D et les agents non titulaires sont classés dans les conditions prévues par les articles 5 et 6 du décret n° 73-910 du 20 septembre 1973 modifié fixant les dispositions statutaires communes applicables à divers corps de fonctionnaires de la catégorie B.
+Sous réserve de l'application des dispositions de l'article 9, les bibliothécaires adjoints spécialisés stagiaires sont classés dans les conditions prévues aux articles 3 à 7 du décret du 18 novembre 1994 susmentionné.
+
+Lors du classement, il est tenu compte de la durée moyenne fixée à l'article 13 pour chaque avancement d'échelon.

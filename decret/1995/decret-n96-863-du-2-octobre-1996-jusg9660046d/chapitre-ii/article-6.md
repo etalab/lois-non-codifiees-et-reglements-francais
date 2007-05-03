@@ -2,7 +2,7 @@
 
 Les candidats reçus aux concours interne et externe sont nommés chargés d'éducation de classe normale stagiaires par arrêté du grand chancelier de la Légion d'honneur et accomplissent un stage d'une durée d'une année au cours duquel ils peuvent recevoir une formation particulière.
 
-Pendant la durée du stage, ceux qui n'avaient pas la qualité de fonctionnaire ou d'agent non titulaire perçoivent la rémunération afférente au 1er échelon du grade de début du corps, et ceux qui avaient auparavant la qualité de fonctionnaire ou d'agent non titulaire sont rémunérés dans les conditions fixées au chapitre II du décret du 18 novembre 1994 susvisé.
+Ils sont classés conformément aux dispositions prévues au chapitre II du décret du 18 novembre 1994 susvisé.
 
 L'organisation de la période de stage est fixée par arrêté du grand chancelier de la Légion d'honneur.
 

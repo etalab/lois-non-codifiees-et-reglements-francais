@@ -1,17 +1,166 @@
 # Article 46
 
-I. - Les fonctionnaires appartenant à un corps, cadre d'emploi ou emploi classé dans les catégories C ou D ou de même niveau, nommés dans le corps des techniciens de recherche soit au choix, soit à la suite d'un concours ou d'un examen professionnel, sont classés lors de leur titularisation dans le grade de début de ce corps sur la base de la durée moyenne fixée à l'article 51 ci-dessous pour chaque avancement d'échelon en prenant en compte une fraction de leur ancienneté dans leur grade d'origine.
+Les techniciens de la recherche recrutés en application de l'article 40 sont classés, lors de leur nomination, au premier échelon du grade de début, sous réserve des dispositions du présent article, de l'article 47 et des II à IV de l'article 3, de l'article 4 et des articles 4-2 à 7 du décret du 18 novembre 1994 susmentionné.
 
-L'ancienneté dans le grade d'origine correspond, dans la limite maximale de vingt-huit ans pour un grade de la catégorie D ou C, au temps nécessaire pour parvenir, sur la base des durées moyennes fixées par le statut particulier du corps, à l'échelon occupé par l'intéressé, augmenté de l'ancienneté acquise dans cet échelon.
+Lors du classement, est prise en compte la durée moyenne fixée à l'article 51 pour chaque avancement d'échelon.
 
-Cette ancienneté est retenue à raison de :
+Toutefois, les fonctionnaires de catégorie C ou de même niveau qui détiennent un grade situé en échelle 6 sont classés conformément au tableau de correspondance ci-après :
 
-- six douzièmes, s'il s'agit d'un grade classé dans la catégorie D ;
-
-- huit douzièmes pour les douze premières années et sept douzièmes pour le surplus s'il s'agit d'un grade classé dans la catégorie C.
-
-II. - Les fonctionnaires appartenant à un corps, cadre d'emploi ou emploi classé dans la catégorie C ou de même niveau, appartenant à un grade dont l'indice brut terminal est au moins égal à 449 sont classés à l'échelon du grade de début doté de l'indice égal ou, à défaut, immédiatement supérieur à celui détenu dans leur corps d'origine. Dans la limite de l'ancienneté moyenne exigée à l'article 51 ci-dessous pour une promotion à l'échelon supérieur, ils conservent l'ancienneté d'échelon qu'ils avaient acquise dans leur précédent grade lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle que leur aurait procurée un avancement d'échelon dans leur ancienne situation.
-
-Les fonctionnaires nommés alors qu'ils ont atteint l'échelon le plus élevé de leur précédent grade conservent leur ancienneté d'échelon dans les mêmes conditions et limites lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle que leur avait procurée leur nomination audit échelon.
-
-L'application des dispositions du II ci-dessus ne peut avoir pour effet de placer les intéressés dans une situation moins favorable que celle qui aurait été la leur s'ils étaient demeurés dans l'échelle 5 de rémunération.
+<table>
+<tbody>
+<tr>
+<td align="left" valign="middle">
+<p align="center">SITUATION DANS L'ECHELLE 6 <br/>
+<br/>de la catégorie C</p>
+</td>
+<td align="left" colspan="2" valign="middle">
+<p align="center">SITUTION DANS LE CORPS DE LA CATEGORIE B</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<pre> </pre>
+</td>
+<td align="left" valign="middle">
+<p align="center">Classe normale <br/>
+<br/>Echelons</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">Ancienneté conservée <br/>
+<br/>dans la limite de la durée d'échelon</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="justify">Echelon spécial</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">12e</p>
+</td>
+<td align="left" valign="middle">
+<p align="justify">Ancienneté acquise.</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="justify">7e </p>
+</td>
+<td align="left" valign="middle">
+<p align="center">11e</p>
+</td>
+<td align="left" valign="middle">
+<p align="justify">Ancienneté acquise.</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="justify">6e </p>
+</td>
+<td align="left" valign="middle">
+<p align="center">11e</p>
+</td>
+<td align="left" valign="middle">
+<p align="justify">Sans ancienneté.</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="justify">5e </p>
+</td>
+<td align="left" valign="middle">
+<p align="center">9e</p>
+</td>
+<td align="left" valign="middle">
+<p align="justify">2/3 de l'ancienneté acquise.</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="justify">4e </p>
+</td>
+<td align="left" valign="middle">
+<p align="center">8e</p>
+</td>
+<td align="left" valign="middle">
+<p align="justify">1/3 de l'ancienneté acquise plus 1 an.</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="justify">3e</p>
+</td>
+<td align="left" valign="middle">
+<pre> </pre>
+</td>
+<td align="left" valign="middle">
+<pre> </pre>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="justify">- à partir de 2 ans</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">8e</p>
+</td>
+<td align="left" valign="middle">
+<p align="justify">Ancienneté acquise au-delà de 2 ans.</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="justify">- avant 2 ans</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">7e</p>
+</td>
+<td align="left" valign="middle">
+<p align="justify">1/3 de l'ancienneté acquise plus 1 an.</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="justify">2e</p>
+</td>
+<td align="left" valign="middle">
+<pre> </pre>
+</td>
+<td align="left" valign="middle">
+<pre> </pre>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="justify">- à partir de 1 an</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">7e</p>
+</td>
+<td align="left" valign="middle">
+<p align="justify">Ancienneté acquise au-delà de 1 an.</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="justify">- avant 1 an</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">6e</p>
+</td>
+<td align="left" valign="middle">
+<p align="justify">Ancienneté acquise plus 1 an.</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="justify">1er</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">5e</p>
+</td>
+<td align="left" valign="middle">
+<p align="justify">Ancienneté acquise.</p>
+</td>
+</tr>
+</tbody>
+</table>

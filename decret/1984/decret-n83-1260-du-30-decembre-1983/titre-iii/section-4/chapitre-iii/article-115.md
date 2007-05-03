@@ -1,6 +1,6 @@
 # Article 115
 
-Les avancements au grade de technicien de classe exceptionnelle s'effectuent pour les deux tiers par la voie de l'examen professionnel, pour un tiers au choix.
+Les avancements au grade de technicien de classe exceptionnelle s'effectuent, par la voie de l'examen professionnel dans une proportion comprise entre un tiers et deux tiers et, pour la proportion restante, au choix.
 
 Ils sont prononcés par le directeur général de l'établissement dans les conditions précisées ci-après :
 
@@ -19,5 +19,3 @@ Un arrêté conjoint du ministre chargé de la recherche, du ou des ministres ch
 Les délibérations de la commission administrative paritaire peuvent être précédées de la consultation d'experts prévue à l'article 235 du titre V.
 
 Les experts peuvent assister aux débats de la commission administrative paritaire dans les conditions fixées à l'article 31 du décret du 28 mai 1982 susvisé.
-
-Lorsque le nombre des promotions à prononcer au titre du présent article n'est pas un multiple de trois, le reste est ajouté aux nominations à prononcer au cours de l'année suivante pour le calcul des nominations pouvant intervenir au cours de la nouvelle année au titre du présent article.

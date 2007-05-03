@@ -1,7 +1,5 @@
 # Article 48
 
-Les agents nommés dans le corps des techniciens qui avaient auparavant la qualité d'agents non titulaires sont classés lors de leur titularisation dans le grade de début à un échelon déterminé en prenant en compte les services accomplis dans un emploi de niveau au moins équivalent à celui de la catégorie B à raison des trois quarts de leur durée, et ceux accomplis dans un emploi de niveau inférieur à raison de la moitié de leur durée.
+Pour le classement des lauréats des concours prévus à l'article 46 du présent décret, l'ancienneté acquise dans des services privés, en France ou à l'étranger, dans des fonctions équivalentes à celles de technicien, par les agents qui, antérieurement à leur nomination, n'avaient pas la qualité de fonctionnaire, est prise en compte à raison de la moitié de sa durée.
 
-L'ancienneté acquise dans des services privés, en France ou à l'étranger, dans des fonctions équivalentes à celles de technicien, est prise en compte à raison de la moitié de sa durée.
-
-Les intéressés perçoivent, pendant la durée de leur stage, la rémunération afférente à l'échelon du grade de début de ce corps déterminé en application du présent article.
+Les dispositions de l'alinéa qui précède sont cumulables avec celles de l'article 4 du décret du 18 novembre 1994 susmentionné.

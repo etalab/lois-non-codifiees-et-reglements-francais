@@ -1,6 +1,6 @@
 # Article 21
 
-Peuvent seuls être détachés dans le corps des conseillers d'insertion et de probation les fonctionnaires de l'Etat, des collectivités territoriales et des établissements publics qui en dépendent, qui appartiennent à un corps, cadre d'emplois ou emploi classé en catégorie B et qui justifient d'au moins cinq ans de services dans des activités à caractère éducatif ou social.
+Peuvent seuls être détachés dans le corps des conseillers d'insertion et de probation les fonctionnaires de l'Etat, des collectivités territoriales et des établissements publics qui en dépendent, qui appartiennent à un corps, cadre d'emplois ou emploi classé en catégorie B ou de même niveau.
 
 Les intéressés sont classés au grade correspondant et à un échelon comportant un indice égal ou, à défaut, immédiatement supérieur à celui qu'ils détenaient dans leur corps, cadre d'emplois ou emploi d'origine.
 
