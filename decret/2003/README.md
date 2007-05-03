@@ -120,6 +120,7 @@
 - [Décret n°91-871 du 5 septembre 1991 (SANH9101417D)](decret-n91-871-du-5-septembre-1991-sanh9101417d)
 - [Décret n°2003-411 du 5 mai 2003 (INTC0300083D)](decret-n2003-411-du-5-mai-2003-intc0300083d)
 - [Décret n°2003-428 du 5 mai 2003 (JUSD0330014D)](decret-n2003-428-du-5-mai-2003-jusd0330014d)
+- [Décret n°2003-22 du 6 janvier 2003 (PRMG0270972D)](decret-n2003-22-du-6-janvier-2003-prmg0270972d)
 - [Décret n°2003-484 du 6 juin 2003 (MENF0301099D)](decret-n2003-484-du-6-juin-2003-menf0301099d)
 - [Décret n°2003-412 du 6 mai 2003 (INTA0300079D)](decret-n2003-412-du-6-mai-2003-inta0300079d)
 - [Décret n°2003-1065 du 7 novembre 2003 (ECOP0300751D)](decret-n2003-1065-du-7-novembre-2003-ecop0300751d)
