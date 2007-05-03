@@ -2,7 +2,7 @@
 
 Peuvent concourir pour l'obtention de cette médaille les agents appartenant aux corps :
 
-- des agents d'exploitation des travaux publics de l'Etat ;
+- des personnels d'exploitation des travaux publics de l'Etat ;
 
 - des chefs d'équipe d'exploitation des travaux publics de l'Etat ;
 

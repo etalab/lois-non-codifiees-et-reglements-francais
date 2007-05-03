@@ -9,6 +9,7 @@
 - [Décret n°77-1017 du 1 septembre 1977](decret-n77-1017-du-1-septembre-1977)
 - [Décret du 2 février 2000 (ECOC9900055D)](decret-du-2-fevrier-2000-ecoc9900055d)
 - [Décret du 2 juin 2000 (AGRP0000284D)](decret-du-2-juin-2000-agrp0000284d)
+- [Décret n°85-1060 du 2 octobre 1985](decret-n85-1060-du-2-octobre-1985)
 - [Décret n°2001-401 du 2 mai 2001 (RECF0100080D)](decret-n2001-401-du-2-mai-2001-recf0100080d)
 - [Décret n°2002-828 du 3 mai 2002 (MENF0200402D)](decret-n2002-828-du-3-mai-2002-menf0200402d)
 - [Décret n°2000-1178 du 4 décembre 2000 (DEFD0002365D)](decret-n2000-1178-du-4-decembre-2000-defd0002365d)

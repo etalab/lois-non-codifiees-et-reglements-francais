@@ -1,0 +1,3 @@
+# Article 81
+
+Les avis des instances d'évaluation de l'institut concernant les recrutements et les promotions de chercheurs donnés conformément aux dispositions des décrets du 7 janvier 1959 susvisés mentionnés à l'article 67 ci-dessus et du décret du 17 janvier 1980 susvisé sont valables, si la décision du directeur général n'est pas intervenue à la date de publication du présent décret, pour l'accès à l'échelon ou au grade des corps de chargés de recherche ou de directeurs de recherche créés par le présent décret et correspondant, en application des tableaux de la section II du chapitre Ier du titre II et de l'article 66 de ce décret, aux catégories de chercheurs au titre desquelles ces avis ont été recueillis.

@@ -81,6 +81,7 @@
 - [Décret n°2002-893 du 15 mai 2002 (ECOX0200086D)](decret-n2002-893-du-15-mai-2002-ecox0200086d)
 - [Décret n°2002-895 du 15 mai 2002 (DEVX0200082D)](decret-n2002-895-du-15-mai-2002-devx0200082d)
 - [Décret n°2002-532 du 16 avril 2002 (EQUP0200349D)](decret-n2002-532-du-16-avril-2002-equp0200349d)
+- [Décret n°2002-534 du 16 avril 2002 (EQUP0200355D)](decret-n2002-534-du-16-avril-2002-equp0200355d)
 - [Décret n°2002-90 du 16 janvier 2002 (MCCB0200030D)](decret-n2002-90-du-16-janvier-2002-mccb0200030d)
 - [Décret n°2002-78 du 17 janvier 2002 (INTC0100358D)](decret-n2002-78-du-17-janvier-2002-intc0100358d)
 - [Décret n°2002-999 du 17 juillet 2002 (INTX0205743D)](decret-n2002-999-du-17-juillet-2002-intx0205743d)
