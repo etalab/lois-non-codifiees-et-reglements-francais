@@ -1,17 +1,13 @@
 # Article 133
 
-Les candidats reçus aux concours externes d'accès aux corps régis par le présent décret ainsi que les personnels recrutés comme agents des services techniques en application de l'article 65-2 du présent décret sont nommés stagiaires. Ils sont assujettis, en cette qualité, à un stage d'un an.
+I. - Les candidats reçus aux concours externes d'accès aux corps régis par le présent décret et aux concours prévus au 3° des articles 26 et 35, ainsi que les adjoints techniques de 2e classe recrutés, en application des articles 52 à 52-3, sont nommés en qualité de stagiaire.
 
-Sont également astreints à un stage d'un an les candidats admis au concours prévus au 3° des articles 26 et 35, les candidats admis aux concours d'accès au corps des chargés d'administration ouverts, en application du 1° de l'article 78, aux fonctionnaires appartenant à un corps de catégorie A, ainsi que les candidats admis aux concours internes de recrutement d'attachés d'administration.
+Ils accomplissent un stage d'une durée d'un an, qui fait l'objet d'un rapport établi par l'autorité chargée de la direction de l'établissement.
 
-Toutefois, les candidats au concours d'agent d'administration ou recrutés comme agents des services techniques, qui étaient précédemment, depuis un an au moins, fonctionnaires ou agents de l'Etat, des collectivités territoriales et des établissements publics qui en dépendent sont titularisés dès leur nomination. En outre, si l'application des dispositions des articles 3, 4 et du I du 5 du décret du 29 septembre 2005 susmentionné leur est moins favorable, ils conservent dans la limite de deux années l'ancienneté de services qu'ils ont acquise en cette qualité.
+II. - A l'issue du stage, les stagiaires dont les services ont donné satisfaction sont titularisés.
 
-Le stage fait l'objet d'un rapport établi par le président, le directeur ou le responsable de l'établissement d'affectation.
+Les autres stagiaires peuvent, compte tenu des appréciations portées sur leur manière de servir durant le stage et après avis de la commission administrative paritaire compétente, être autorisés à accomplir un stage complémentaire d'une durée maximale d'un an. Si le stage complémentaire a été jugé satisfaisant, les intéressés sont titularisés.
 
-Les stagiaires dont les services ont donné satisfaction sont titularisés. Les stagiaires non titularisés peuvent compte tenu des appréciations porté" sur leur manière de servir durant le stage, et après avis de la commission administrative paritaire compétente, être autorisés à effectuer un nouveau et dernier stage d'une année.
+Les stagiaires qui n'ont pas été autorisés à effectuer un stage complémentaire ou dont le stage complémentaire n'a pas été jugé satisfaisant sont, après avis de la commission administrative paritaire compétente, soit licenciés s'ils n'avaient pas préalablement la qualité de fonctionnaire, soit réintégrés dans leur corps, cadre d'emplois ou emploi d'origine.
 
-Ceux qui n'ont pas obtenu l'autorisation de recommencer le stage ou ceux qui n'ont pas été titularisés à l'issue de la seconde année de stage sont, après avis de la commission administrative paritaire, soit réintégrés dans leur corps ou catégorie d'origine, s'ils avaient la qualité de fonctionnaire ou d'agent non titulaire de l'Etat, soit licenciés.
-
-La durée du stage ne peut être prise en compte dans l'ancienneté pour l'avancement qu'à concurrence d'une durée d'un an.
-
-Sous réserve des dispositions de l'article 87 ci-dessus et de l'article 7 du décret du 29 septembre 2005 susmentionné, les stagiaires sont rémunérés, pendant la durée de leur stage, par référence à un échelon du grade de début du corps dans lequel ils ont été nommés comme stagiaire, déterminé en application des dispositions prévues par le présent décret pour le classement dans le corps correspondant.
+III. - La durée du stage est prise en compte pour l'avancement dans la limite d'une année.
