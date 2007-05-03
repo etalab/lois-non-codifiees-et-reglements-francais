@@ -4,4 +4,4 @@ En cas d'avancement de grade à l'intérieur de l'un des corps de catégorie A o
 
 Les fonctionnaires promus alors qu'ils ont atteint l'échelon le plus élevé de leur précédent grade conservent leur ancienneté d'échelon dans les mêmes limites lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle résultant d'une élévation au dernier échelon de leur ancien grade.
 
-Les fonctionnaires appartenant à un corps de catégorie C qui bénéficient d'un avancement de grade à l'intérieur de leur corps sont classés dans leur nouveau grade conformément aux dispositions de l'article 5 du décret du 27 janvier 1970 susvisé, sous réserve des dispositions de l'article 58 ci-dessus.
+Les fonctionnaires appartenant à un corps de catégorie C qui bénéficient d'un avancement de grade à l'intérieur de leur corps sont classés dans leur nouveau grade conformément aux dispositions du décret du 29 septembre 2005 susmentionné.
