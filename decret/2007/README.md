@@ -23,6 +23,7 @@
 - [Décret n°2007-140 du 1 février 2007 (INTA0700018D)](decret-n2007-140-du-1-fevrier-2007-inta0700018d)
 - [Décret n° 2007-284 du 2 mars 2007 (BUDJ0700001D)](decret-n-2007-284-du-2-mars-2007-budj0700001d)
 - [Décret n° 2007-286 du 2 mars 2007 (DEVP0710013D)](decret-n-2007-286-du-2-mars-2007-devp0710013d)
+- [Décret n° 70-606 du 2 juillet 1970](decret-n-70-606-du-2-juillet-1970)
 - [Décret n°2007-279 du 2 mars 2007 (SOCT0710270D)](decret-n2007-279-du-2-mars-2007-soct0710270d)
 - [Décret n°2007-500 du 2 avril 2007 (DEFX0600226D)](decret-n2007-500-du-2-avril-2007-defx0600226d)
 - [Décret n°2007-649 du 2 mai 2007 (PRMX0710192D)](decret-n2007-649-du-2-mai-2007-prmx0710192d)
