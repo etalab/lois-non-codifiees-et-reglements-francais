@@ -1,7 +1,7 @@
 # Article 52
 
-Les adjoints techniques sont recrutés :
+I. - Les recrutements sans concours d'accès au grade d'adjoint technique de 2e classe sont organisés par branche d'activité professionnelle ou par emploi type.
 
-Par voie de concours organisés dans les conditions fixées à l'article 53 ci-dessous ;
+II. - Ces recrutements font l'objet d'un avis de recrutement, dans les conditions prévues à l'article 52-1.
 
-2° Au choix, dans la limite du cinquième des nominations prononcées en application des dispositions du présent article, par voie d'inscription sur une liste d'aptitude annuelle établie sur proposition des présidents, directeurs ou responsables d'établissement, après avis de la commission administrative paritaire compétente, parmi les agents techniques de recherche et de formation justifiant de neuf années de services publics.
+III. - Les candidats aux recrutements établissent un dossier de candidature comportant une lettre de candidature et un curriculum vitae détaillé indiquant le niveau d'étude ainsi que, le cas échéant, le contenu et la durée des formations suivies et des emplois occupés.
