@@ -1,14 +1,12 @@
 # Article 6
 
-1° Le concours externe est ouvert aux candidats âgés de moins de quarante-cinq ans au 1er janvier de l'année du concours, titulaires du baccalauréat, d'un diplôme homologué au niveau IV en application des dispositions du décret n° 92-23 du 8 janvier 1992 relatif à l'homologation des titres et diplômes de l'enseignement technologique ou d'un diplôme ou titre équivalent figurant sur une liste arrêtée par le ministre chargé du budget et le ministre chargé de la fonction publique.
+1° Le concours externe est ouvert aux candidats titulaires d'un baccalauréat ou d'un titre ou diplôme classé au moins au niveau IV ou d'une qualification reconnue comme équivalente à l'un de ces titres ou diplômes dans les conditions fixées par le décret n° 2007-196 du 13 février 2007 relatif aux équivalences de diplômes requises pour se présenter aux concours d'accès aux corps et cadres d'emplois de la fonction publique ;
 
-Peuvent être autorisés à concourir les candidats remplissant les conditions d'âge et titulaires d'un diplôme équivalent délivré par un des Etats membres de la Communauté européenne autre que la France et dont l'assimilation au baccalauréat aura été reconnue par la commission prévue par le décret du 30 août 1994 susvisé.
+2° Le concours interne est ouvert aux fonctionnaires et agents de l'Etat des collectivités territoriales et des établissements publics qui en dépendent, y compris ceux mentionnés à l'article 2 de la loi n° 86-33 du 9 janvier 1986 portant dispositions statutaires relatives à la fonction publique hospitalière, aux militaires ainsi qu'aux agents en fonction dans une organisation internationale intergouvernementale à la date de clôture des inscriptions, comptant au moins quatre ans de services publics au 1er janvier de l'année au titre de laquelle le concours est organisé.
 
-Les candidats qui atteignent la limite d'âge indiquée ci-dessus au cours d'une année au titre de laquelle aucun concours n'est ouvert peuvent faire acte de candidature au concours suivant.
+Ce concours est également ouvert aux candidats justifiant de quatre ans de services auprès d'une administration, un organisme ou un établissement mentionnés au troisième alinéa du 2° de l'article 19 de la loi du 11 janvier 1984 susvisée, dans les conditions fixées par cet alinéa ;
 
-2° Le concours interne est ouvert aux fonctionnaires et aux agents publics des ministères de l'économie et du budget comptant trois ans six mois au moins de services publics effectifs au 1er janvier de l'année du concours, le temps effectivement accompli au titre du service national venant, le cas échéant, en déduction de ces trois ans six mois.
-
-3° Dans la limite de 40 p. 100, les emplois mis au concours au titre du 2° du présent article peuvent être offerts à un concours spécial, ouvert aux fonctionnaires titulaires de catégorie C des services déconcentrés du Trésor, âgés de trente-cinq ans au moins au 1er janvier de l'année du concours et justifiant, à la même date, de sept ans six mois au moins de services publics effectifs.
+3° Dans la limite de 40 %, les emplois mis au concours au titre du 2° du présent article peuvent être offerts à un concours spécial, ouvert aux agents d'administration et aux adjoints techniques du Trésor public justifiant d'au moins sept ans six mois de services publics au 1er janvier de l'année au titre de laquelle le concours est organisé.
 
 Les emplois non pourvus au titre de ce concours peuvent être attribués aux candidats visés au 2° du présent article.
 

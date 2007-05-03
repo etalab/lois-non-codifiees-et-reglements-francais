@@ -1,6 +1,6 @@
 # Article 8
 
-Les stagiaires dont le stage a donné satisfaction sont titularisés après avis de la commission administrative paritaire dans le grade d'assistant de service social et classés au 2e échelon, sous réserve des articles 9 à 12 ci-après.
+Les stagiaires dont le stage a donné satisfaction sont titularisés après avis de la commission administrative paritaire dans le grade d'assistant de service social.
 
 Les autres stagiaires peuvent être autorisés, après avis de la commission administrative paritaire, à effectuer un stage complémentaire d'une durée maximale d'un an. Si le stage complémentaire a été jugé satisfaisant, les intéressés sont titularisés.
 

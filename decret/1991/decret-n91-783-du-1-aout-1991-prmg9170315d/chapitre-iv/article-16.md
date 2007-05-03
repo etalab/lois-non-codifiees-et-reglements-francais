@@ -1,6 +1,6 @@
 # Article 16
 
-Peuvent seuls être détachés dans l'un des corps régis par le présent décret les fonctionnaires appartenant à un corps ou à un cadre d'emplois ou occupant un emploi classé en catégorie B et remplissant les conditions prévues à l'article 218 du code de la famille et de l'aide sociale pour avoir droit au titre et pouvoir exercer l'activité d'assistant de service social.
+Peuvent seuls être détachés dans l'un des corps régis par le présent décret les fonctionnaires appartenant à un corps ou à un cadre d'emplois ou occupant un emploi classé en catégorie B et remplissant les conditions prévues aux articles L. 411-1 et L. 411-6 du code de l'action sociale et des familles pour avoir droit au titre et pouvoir exercer l'activité d'assistant de service social.
 
 Le détachement est prononcé à équivalence de grade à l'échelon comportant un indice égal ou, à défaut, immédiatement supérieur à celui dont les intéressés bénéficiaient dans leur grade ou emploi d'origine.
 

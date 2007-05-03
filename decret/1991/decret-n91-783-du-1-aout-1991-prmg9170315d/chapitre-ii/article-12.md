@@ -1,3 +1,0 @@
-# Article 12
-
-Les agents non titulaires sont classés dans le grade d'assistant de service social à un échelon déterminé en prenant en compte, sur la base des durées moyennes fixées à l'article 15 pour chaque avancement d'échelon, les services accomplis dans un emploi du niveau de la catégorie B à raison des trois quarts de leur durée et ceux accomplis dans un emploi de niveau inférieur à raison de la moitié de leur durée. Le reclassement ne doit pas aboutir à des situations plus favorables que celle qui résulterait d'un classement à un échelon comportant un traitement égal ou, à défaut, immédiatement supérieur à celui prévu dans l'ancien emploi.

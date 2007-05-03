@@ -3,5 +3,4 @@
 - [TITRE Ier : DISPOSITIONS GÉNÉRALES.](titre-ier)
 - [TITRE II : RECRUTEMENT.](titre-ii)
 - [TITRE III : AVANCEMENT.](titre-iii)
-- [TITRE IV : DISPOSITIONS TRANSITOIRES ET FINALES.](titre-iv)
 - [Article 22](article-22.md)

@@ -2,9 +2,11 @@
 
 Les inspecteurs de 3e classe sont recrutés :
 
-1° Pour les 4/5 des postes à pourvoir, par la voie d'un concours externe ouvert aux candidats âgés de quarante-cinq ans au plus au 1er janvier de l'année du concours et titulaires soit du baccalauréat de l'enseignement secondaire, soit d'un des titres ou diplômes admis en équivalence et figurant sur une liste établie par arrêté conjoint du ministre chargé de l'équipement et du ministre chargé de la fonction publique ;
+1° Par la voie d'un concours externe ouvert aux candidats titulaires du baccalauréat, d'un titre ou diplôme classé au moins au niveau IV ou d'une qualification reconnue comme équivalente à l'un de ces titres ou diplômes dans les conditions fixées par arrêté des ministres chargés de la fonction publique et des transports ;
 
-2° Pour 1/5 des postes à pourvoir, par la voie d'un concours interne ouvert aux fonctionnaires et aux agents publics de l'Etat, de ses établissements publics, des collectivités territoriales et des établissements publics locaux, aux militaires ainsi qu'aux agents en fonction dans une organisation internationale intergouvernementale à la date de clôture des inscriptions, comptant au moins quatre ans de services publics au 1er janvier de l'année au titre de laquelle est organisé le concours.
+2° Par la voie d'un concours interne ouvert aux fonctionnaires et aux agents publics de l'Etat, des collectivités territoriales et des établissements publics qui en dépendent, y compris ceux mentionnés à l'article 2 de la loi n° 86-33 du 9 janvier 1986 portant dispositions statutaires relatives à la fonction publique hospitalière, aux militaires ainsi qu'aux agents en fonctions dans une organisation internationale intergouvernementale, comptant au moins quatre ans de services publics au 1er janvier de l'année au titre de laquelle est organisé le concours.
+
+Le nombre de postes offerts à chacun des deux concours est compris entre un cinquième et quatre cinquièmes du nombre total de postes offerts aux deux concours.
 
 Les emplois mis au concours qui n'ont pas été pourvus par la nomination des candidats à l'un des concours peuvent être attribués aux candidats de l'autre concours.
 

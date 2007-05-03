@@ -6,9 +6,7 @@ Ces candidats ne peuvent être installés en qualité de technicien supérieur f
 
 Les modalités du stage, effectué en partie dans un centre de formation professionnelle forestière, sont fixées par le directeur général de l'Office national des forêts.
 
-Lors de leur nomination en qualité de technicien stagiaire, les intéressés, qui n'avaient pas la qualité de fonctionnaire ou d'agent non titulaire, sont rémunérés par référence au 1er échelon du grade de technicien. Après un an de stage, les techniciens stagiaires astreints à un stage de deux années perçoivent la rémunération afférente au 2e échelon du grade de technicien.
-
-Ceux d'entre eux qui, antérieurement à leur nomination en qualité de technicien supérieur forestier stagiaire, possédaient la qualité de fonctionnaire ou d'agent non titulaire de l'Etat, des collectivités territoriales ou des établissements publics qui en dépendent, sont rémunérés par référence à l'échelon du grade de technicien déterminé en application des dispositions des articles 3 à 7 du décret du 18 novembre 1994 susvisé.
+Lors de leur nomination en qualité de technicien forestier stagiaire, les intéressés sont classés à l'échelon du grade de technicien forestier déterminé en application des dispositions des articles 3 à 7 du décret du 18 novembre 1994 susvisé.
 
 Les agents dont les services ont donné satisfaction sont titularisés à l'issue du stage.
 

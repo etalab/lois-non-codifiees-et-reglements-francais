@@ -2,8 +2,6 @@
 
 Les candidats reçus à l'un des concours mentionnés à l'article 4 sont nommés fonctionnaires stagiaires et accomplissent un stage d'une durée d'une année au cours duquel ils peuvent recevoir une formation particulière.
 
-Pendant la durée du stage ceux qui n'avaient pas la qualité de fonctionnaire ou d'agent non titulaire perçoivent la rémunération afférente au premier échelon du grade de début du corps, et ceux qui avaient auparavant la qualité de fonctionnaire ou d'agent non titulaire sont rémunérés dans les conditions fixées au chapitre II du décret du 18 novembre 1994 susvisé.
-
 L'organisation de la période de stage est fixée par arrêté du ministre dont relève le corps de fonctionnaires.
 
 Les nominations sont prononcées par le ministre dont relève le corps des fonctionnaires.

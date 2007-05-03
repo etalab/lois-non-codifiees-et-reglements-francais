@@ -1,5 +1,7 @@
 # Article 7
 
-Les techniciens supérieurs d'études et de fabrications stagiaires sont classés au 1er échelon de la 3e classe ou, s'ils avaient précédemment la qualité de fonctionnaire ou d'agent de l'Etat, des collectivités territoriales et des établissements publics qui en dépendent, à l'échelon de ce grade déterminé dans les conditions fixées par les articles 7-1 à 7-3 ci-après.
+Les personnes nommées dans le corps des techniciens supérieurs d'études et de fabrications sont classées au 1er échelon du grade de début, sous réserve des dispositions prévues par les II à IV de l'article 3 et les articles 4 à 7 du décret n° 94-1016 du 18 novembre 1994 fixant les dispositions statutaires communes applicables à divers corps de fonctionnaires de la catégorie B.
 
-Les services accomplis par les fonctionnaires et les agents des collectivités territoriales ou des établissements publics qui en dépendent sont pour l'application de ces dispositions assimilés à des services accomplis dans des emplois de l'Etat de même niveau hiérarchique.
+Le II de l'article 3 du décret du 18 novembre 1994 susmentionné s'applique à l'ensemble des fonctionnaires de catégorie C classés dans le corps régi par le présent décret ; toutefois, pour l'application de cet article, l'ancienneté dans le grade d'origine est retenue dans la limite maximale de trente-deux ans.
+
+Lors du classement, il est tenu compte de la durée moyenne fixée à l'article 9 pour chaque avancement d'échelon fixé par le présent décret.

@@ -5,5 +5,4 @@
 - [CHAPITRE III : Avancement.](chapitre-iii)
 - [CHAPITRE IV : Détachements.](chapitre-iv)
 - [CHAPITRE V : Dispositions transitoires.](chapitre-v)
-- [CHAPITRE VI : Dispositions concernant les retraites.](chapitre-vi)
 - [Article 21](article-21.md)

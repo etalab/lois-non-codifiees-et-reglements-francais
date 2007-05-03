@@ -4,5 +4,4 @@
 - [TITRE II : RECRUTEMENT.](titre-ii)
 - [TITRE III : AVANCEMENT.](titre-iii)
 - [TITRE III bis : DETACHEMENT.](titre-iii-bis)
-- [TITRE IV : DISPOSITIONS TRANSITOIRES ET FINALES.](titre-iv)
 - [Article 34](article-34.md)

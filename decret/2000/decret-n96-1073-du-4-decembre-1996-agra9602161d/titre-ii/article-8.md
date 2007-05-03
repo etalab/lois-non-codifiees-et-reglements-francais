@@ -4,4 +4,4 @@ Un arrêté conjoint du ministre chargé de l'agriculture et du ministre chargé
 
 Les conditions d'organisation des concours et de l'examen professionnel ainsi que la composition des jurys sont fixées par décision du directeur général de l'Office national des forêts.
 
-Pour chaque concours, le jury dresse, par ordre de mérite, la liste des candidats admis. Il établit dans le même ordre une liste complémentaire. Le nombre de nominations de candidats inscrits sur les listes complémentaires ne peut excéder le nombre total des emplois offerts.
+Pour chaque concours, le jury dresse, par ordre de mérite, la liste des candidats admis. Il établit dans le même ordre une liste complémentaire.

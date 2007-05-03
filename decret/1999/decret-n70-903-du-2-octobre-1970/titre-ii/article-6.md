@@ -1,7 +1,5 @@
 # Article 6
 
-Les emplois mis aux concours mentionnés à l'article 5, qui n'ont pas été pourvus par la nomination des candidats de la catégorie correspondante, peuvent être attribués aux candidats de l'autre catégorie. Toutefois, le nombre total des candidats nommés au titre du second concours ne devra en aucun cas excéder 20 % du nombre des emplois à pourvoir.
+Les emplois mis à l'un des concours mentionnés au 1° du I de l'article 5 qui n'ont pas été pourvus peuvent être attribués aux candidats de l'autre concours. Toutefois, le nombre total des candidats nommés au titre du concours interne ne peut excéder 30 % du nombre des nominations prévu au titre des deux concours.
 
-Les emplois demeurés vacants à la suite de l'examen professionnel mentionné à l'article 5 (2°) sont reportés sur la liste d'aptitude sans que la proportion des emplois ainsi offerts à ce titre puisse excéder 15 % des emplois à pourvoir. Lorsque cette proportion est atteinte, les emplois disponibles sont alors reportés sur le premier concours.
-
-Seuls peuvent bénéficier des dispositions précédentes les candidats figurant sur la liste complémentaire établie par le jury des concours.
+Les emplois demeurés vacants à la suite de l'examen professionnel mentionné au 2° du I de l'article 5 peuvent être reportés à due concurrence sur la liste d'aptitude et sur le concours externe mentionné au 1° du I de l'article 5. Toutefois, le nombre total de postes pourvus par la voie de la liste d'aptitude ne peut pas être supérieur, après report, à 45 % du total des nominations effectuées au titre du 2° du I de l'article 5.

@@ -1,5 +1,7 @@
 # Article 9
 
-Les fonctionnaires appartenant à un corps ou à un cadre d'emplois classé dans la catégorie B sont nommés dans le grade d'assistant de service social à un échelon comportant un indice égal ou, à défaut, immédiatement supérieur à celui qu'ils détenaient dans leur grade d'origine.
+Les personnes nommées dans l'un des corps régis par le présent décret sont classées, lors de leur nomination, au 1er échelon du grade de début, sous réserve des dispositions des II à IV de l'article 3, de l'article 4, des articles 4-3 à 7 du décret du 18 novembre 1994 susmentionné et de l'article 13 du présent décret.
 
-Dans la limite de l'ancienneté moyenne exigée à l'article 15 pour une promotion à l'échelon supérieur, ils conservent l'ancienneté d'échelon acquise dans leur précédent grade lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle qui résulterait d'un avancement d'échelon dans leur ancienne situation. Les candidats nommés alors qu'ils ont atteint l'échelon terminal de leur précédent grade conservent leur ancienneté d'échelon dans les mêmes conditions et limites, lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle résultant d'une promotion audit échelon.
+Le II de l'article 3 du décret du 18 novembre 1994 susmentionné s'applique à l'ensemble des fonctionnaires de catégorie C classés dans l'un des corps régis par le présent décret ; toutefois, pour l'application de cet article, l'ancienneté dans le grade d'origine est retenue dans la limite maximale de trente-deux ans.
+
+Lors du classement, il est tenu compte de la durée moyenne fixée à l'article 15 pour chaque avancement d'échelon dans le corps des assistants de service social.

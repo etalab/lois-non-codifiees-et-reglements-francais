@@ -6,10 +6,8 @@ Ce corps est régi par les dispositions du décret n° 94-1016 du 18 novembre 19
 
 Il comprend trois grades ainsi dénommés :
 
-- technicien de classe normale, comportant treize échelons ;
+-technicien de classe normale, comportant treize échelons ;
 
-- technicien de classe supérieure, comportant huit échelons ;
+-technicien de classe supérieure, comportant huit échelons ;
 
-- technicien de classe exceptionnelle, comportant sept échelons.
-
-Le nombre des emplois de technicien de classe supérieure ne peut comprendre plus de 25 p. 100 de l'effectif total des deux premiers grades.
+-technicien de classe exceptionnelle, comportant sept échelons.

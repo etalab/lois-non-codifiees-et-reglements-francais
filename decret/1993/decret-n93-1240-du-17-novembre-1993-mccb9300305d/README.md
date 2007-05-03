@@ -4,5 +4,4 @@
 - [TITRE II : RECRUTEMENT.](titre-ii)
 - [TITRE III : AVANCEMENT.](titre-iii)
 - [TITRE IV : DÉTACHEMENT.](titre-iv)
-- [TITRE V : MESURES TRANSITOIRES.](titre-v)
 - [Article 20](article-20.md)

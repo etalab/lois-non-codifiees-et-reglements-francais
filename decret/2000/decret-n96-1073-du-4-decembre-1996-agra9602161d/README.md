@@ -4,5 +4,4 @@
 - [TITRE II : RECRUTEMENT.](titre-ii)
 - [TITRE III : AVANCEMENT.](titre-iii)
 - [TITRE IV : DISPOSITIONS DIVERSES.](titre-iv)
-- [TITRE V : DISPOSITIONS TRANSITOIRES.](titre-v)
 - [Article 29](article-29.md)

@@ -1,5 +1,7 @@
 # Article 9
 
-Le nombre de places offertes à chacun des concours prévus aux articles 7 et 8 ci-dessus ne peut être inférieur à 40 % du nombre total des places offertes aux deux concours. Il est fixé par le ministre de l'intérieur.
+Le nombre de places offertes au concours externe ou au concours interne ne peut être inférieur à 40 % du nombre total de places offertes aux deux concours.
 
-Les emplois mis aux concours qui n'auraient pas été pourvus par la nomination des candidats à l'un des concours peuvent être attribués à l'autre concours. Ce report ne peut avoir pour effet que le nombre des emplois offerts à l'un des concours soit supérieur aux deux tiers du nombre total de places offertes aux deux concours.
+Le nombre de places offertes au troisième concours ne peut être supérieur à 10 % du nombre total de places offertes aux trois concours.
+
+Les postes offerts au titre de l'un des trois concours qui ne sont pas pourvus par la nomination de candidats à ce concours peuvent être attribués aux candidats des autres concours.

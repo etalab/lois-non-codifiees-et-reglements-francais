@@ -22,9 +22,7 @@ a) Corps des services déconcentrés des administrations de l'Etat :
 
 - secrétaires administratifs de la protection judiciaire de la jeunesse ;
 
-- secrétaires d'administration et d'intendance des services déconcentrés de l'administration pénitentiaire ;
-
-- contrôleurs de la Caisse nationale de crédit agricole.
+- secrétaires d'administration et d'intendance des services déconcentrés de l'administration pénitentiaire.
 
 Les personnels appartenant aux corps des services déconcentrés des ministères mentionnés ci-dessus peuvent être affectés dans les établissements publics administratifs placés sous leur tutelle.
 
@@ -57,5 +55,7 @@ Les personnels appartenant aux corps communs aux services déconcentrés et à l
 - secrétaires d'administration scolaire et universitaire du ministère de l'agriculture.
 
 5. Corps des secrétaires de chancellerie : les fonctionnaires de ce corps ont vocation à servir à l'administration centrale et à l'étranger dans les services relevant du ministre des affaires étrangères.
+
+Relèvent également des dispositions du présent décret les corps de secrétaires administratifs du Conseil d'Etat, de secrétaires administratifs du Conseil économique et social et de secrétaires administratifs des juridictions financières. Les membres de ce dernier corps ont vocation à servir à la Cour des comptes, dans les chambres régionales et territoriales des comptes ainsi que dans les institutions associées à la Cour des comptes.
 
 Ces corps sont classés dans la catégorie B prévue à l'article 29 de la loi du 11 janvier 1984 susvisée, à l'exception du corps des secrétaires administratifs des services déconcentrés de l'administration pénitentiaire, corps placé sous statut spécial en application de l'article 4 de l'ordonnance n° 58-696 du 6 août 1958 relative au statut spécial des personnels des services extérieurs de l'administration pénitentiaire.

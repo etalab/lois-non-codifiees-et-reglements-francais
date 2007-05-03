@@ -1,6 +1,6 @@
 # Article 17
 
-Les conditions d'accès au grade de contrôleur de 1re classe ainsi qu'au grade de contrôleur principal sont fixées par l'article 11 du décret du 18 novembre 1994 susvisé.
+Les conditions d'accès au grade de contrôleur de 1re classe ainsi qu'au grade de contrôleur principal sont fixées par l'article 11 et le I de l'article 11-1 du décret du 18 novembre 1994 susvisé.
 
 Pour l'application du I et du b du II de l'article 11 susvisé, les conditions d'ancienneté exigées sont appréciées au 31 décembre de l'année au cours de laquelle sont établis les tableaux d'avancement.
 

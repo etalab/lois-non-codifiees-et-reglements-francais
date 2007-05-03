@@ -8,38 +8,75 @@ Les corps de fonctionnaires visés par le présent décret comprennent trois gra
 
 - secrétaire administratif de classe exceptionnelle.
 
-Toutefois, les grades des corps figurant dans le tableau ci-après prennent les dénominations suivantes :
-
-CORPS
-
-SECRÉTAIRE ADMINISTRATIF de classe normale
-
-SECRÉTAIRE ADMINISTRATIF de classe supérieure
-
-SECRÉTAIRE ADMINISTRATIF de classe exceptionnelle
-
-Secrétaire de chancellerie.
-
-Secrétaire de chancellerie de classe normale.
-
-Secrétaire de chancellerie de classe supérieure.
-
-Secrétaire de chancellerie de classe exceptionnelle.
-
-Assistant d'administration de l'aviation civile.
-
-Assistant d'administration de l'aviation civile de classe normale.
-
-Assistant d'administration de l'aviation civile de classe supérieure.
-
-Assistant d'administration de l'aviation civile de classe exceptionnelle.
-
-Secrétaire d'administration de la Caisse des dépôts et consignations.
-
-Secrétaire d'administration de la Caisse des dépôts  et consignations de classe normale.
-
-Secrétaire d'administration de la Caisse des dépôts et consignations de classe supérieure.
-
-Secrétaire d'administration de la Caisse des dépôts et consignations de classe exceptionnelle.
-
-Le nombre des emplois de secrétaire administratif de classe supérieure ou du grade assimilé ne peut comprendre plus de 25 % de l'effectif total des deux premiers grades.
+Toutefois, les grades des corps figurant dans le tableau ci-après prennent les dénominations suivantes : <table>
+<tbody>
+<tr>
+<td align="left" valign="middle">
+<p align="center">
+<strong>CORPS</strong>
+</p>
+</td>
+<td align="left" colspan="3" valign="middle">
+<p align="center">
+<strong>SECRETAIRE ADMINISTRATIF</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<pre> </pre>
+</td>
+<td align="left" valign="middle">
+<p align="center">de classe normale</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">de classe supérieure</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">de classe exceptionnelle</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">Secrétaire de chancellerie</p>
+</td>
+<td align="left" valign="middle">
+<p align="left">Secrétaire de chancellerie de classe normale</p>
+</td>
+<td align="left" valign="middle">
+<p align="left">Secrétaire de chancellerie de classe supérieure</p>
+</td>
+<td align="left" valign="middle">
+<p align="left">Secrétaire de chancellerie de classe exceptionnelle </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">Assistant d'administration de l'aviation civile</p>
+</td>
+<td align="left" valign="middle">
+<p align="left">Assistant d'administration de l'aviation civile de classe normale</p>
+</td>
+<td align="left" valign="middle">
+<p align="left">Assistant d'administration de l'aviation civile de classe supérieure</p>
+</td>
+<td align="left" valign="middle">
+<p align="left">Assistant d'administration de l'aviation civile de classe exceptionnelle </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">Secrétaire d'administration de la Caisse des dépôts</p>
+</td>
+<td align="left" valign="middle">
+<p align="left">Secrétaire d'administration de la Caisse des dépôts de classe normale</p>
+</td>
+<td align="left" valign="middle">
+<p align="left">Secrétaire d'administration de la Caisse des dépôts de classe supérieure</p>
+</td>
+<td align="left" valign="middle">
+<p align="left">Secrétaire d'administration de la Caisse des dépôts de classe exceptionnelle</p>
+</td>
+</tr>
+</tbody>
+</table>

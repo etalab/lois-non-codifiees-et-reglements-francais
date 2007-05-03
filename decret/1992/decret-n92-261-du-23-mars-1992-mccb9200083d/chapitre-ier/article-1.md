@@ -6,12 +6,10 @@ Ce corps est régi par le décret n° 94-1016 du 18 novembre 1994 fixant les dis
 
 Ce corps comprend trois grades ainsi dénommés :
 
-- technicien d'art de classe normale comprenant treize échelons ;
+-technicien d'art de classe normale comprenant treize échelons ;
 
-- technicien d'art de classe supérieure comprenant huit échelons ;
+-technicien d'art de classe supérieure comprenant huit échelons ;
 
-- technicien d'art de classe exceptionnelle comprenant sept échelons.
-
-Le nombre des emplois de technicien d'art de classe supérieure ne peut comprendre plus de 25 p. 100 de l'effectif total des deux premiers grades.
+-technicien d'art de classe exceptionnelle comprenant sept échelons.
 
 La gestion de ce corps est assurée par le ministre chargé de la culture.

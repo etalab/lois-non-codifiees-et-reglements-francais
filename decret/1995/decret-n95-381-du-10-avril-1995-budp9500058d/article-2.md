@@ -2,6 +2,6 @@
 
 Le corps des contrôleurs du Trésor public comprend trois grades :
 
-contrôleur du Trésor public de 2e classe, contrôleur du Trésor public de 1re classe et contrôleur principal du Trésor public. Ces grades correspondent respectivement à la classe normale, à la classe supérieure et à la classe exceptionnelle prévues par le décret du 18 novembre 1994 susvisé.
+contrôleur du Trésor public de 2e classe, contrôleur du Trésor public de 1re classe et contrôleur principal du Trésor public. Ces grades correspondent respectivement aux premier, deuxième et troisième grades prévus par le décret n° 2009-1388 du 11 novembre 2009 portant dispositions statutaires communes à divers corps de fonctionnaires de la catégorie B de la fonction publique de l'Etat.
 
-Le nombre des emplois de contrôleur du Trésor public de 1re classe ne peut être supérieur à 25 p. 100 de l'effectif total des deux premiers grades.
+Le nombre maximum de contrôleurs du Trésor public de 2e classe pouvant être promus au grade de contrôleur du Trésor public de 1re classe et le nombre maximum de contrôleurs du Trésor public de 1re classe pouvant être promus au grade de contrôleur principal du Trésor public sont déterminés en application des dispositions du I de l'article 27 du décret du 11 novembre 2009 susmentionné.

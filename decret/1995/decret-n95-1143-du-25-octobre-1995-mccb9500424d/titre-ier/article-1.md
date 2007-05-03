@@ -8,6 +8,4 @@ Il est créé un corps de secrétaire de documentation de la culture et de l'arc
 
 - secrétaire de documentation de classe exceptionnelle, comprenant sept échelons.
 
-Le nombre des emplois de secrétaire de documentation de classe supérieure ne peut comprendre plus de 25 p. 100 de l'effectif total des deux premiers grades.
-
 La gestion de ce corps est assurée par le ministre chargé de la culture.

@@ -4,5 +4,4 @@
 - [TITRE II : RECRUTEMENT.](titre-ii)
 - [TITRE III : AVANCEMENT.](titre-iii)
 - [TITRE IV : DETACHEMENT ET DISPONIBILITE.](titre-iv)
-- [TITRE V : DISPOSITIONS TRANSITOIRES.](titre-v)
 - [TITRE VI : RETRAITES.](titre-vi)
