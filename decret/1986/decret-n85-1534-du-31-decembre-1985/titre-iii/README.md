@@ -6,4 +6,3 @@
 - [Section IV : Dispositions statutaires relatives au corps des adjoints administratifs de recherche et de formation du ministère de l'éducation nationale](section-iv)
 - [Section V : Dispositions statutaires applicables au corps des agents d'administration de recherche et de formation du ministère de l'éducation nationale](section-v)
 - [Article 73](article-73.md)
-- [Article 74](article-74.md)
