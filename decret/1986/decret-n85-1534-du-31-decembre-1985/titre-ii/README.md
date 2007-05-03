@@ -5,7 +5,5 @@
 - [Section III : Dispositions statutaires relatives au corps des assistants ingénieurs du ministère de l'éducation nationale](section-iii)
 - [Section IV : Dispositions statutaires relatives au corps des techniciens de recherche et de formation du ministère de l'éducation nationale](section-iv)
 - [Section V : Dispositions statutaires relatives au corps des adjoints techniques de recherche et de formation du ministère de l'éducation nationale](section-v)
-- [Section VI : Dispositions statutaires relatives au corps des agents techniques de recherche et de formation du ministère de l'éducation nationale](section-vi)
-- [Section VI bis : Dispositions relatives au corps des agents des services techniques de recherche et de formation du ministère de l'éducation nationale](section-vi-bis)
 - [Article 8](article-8.md)
 - [Article 9](article-9.md)
