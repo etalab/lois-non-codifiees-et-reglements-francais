@@ -674,6 +674,7 @@
 - [Décret n°2007-646 du 30 avril 2007 (MCCB0751490D)](decret-n2007-646-du-30-avril-2007-mccb0751490d)
 - [Décret n°2007-647 du 30 avril 2007 (SANS0721103D)](decret-n2007-647-du-30-avril-2007-sans0721103d)
 - [Décret n°2007-648 du 30 avril 2007 (SANS0721538D)](decret-n2007-648-du-30-avril-2007-sans0721538d)
+- [Décret n°92-1437 du 30 décembre 1992 (SPSG9202936D)](decret-n92-1437-du-30-decembre-1992-spsg9202936d)
 - [Décret n°97-583 du 30 mai 1997 (INTA9700124D)](decret-n97-583-du-30-mai-1997-inta9700124d)
 - [Décret n° 2007-138 du 31 janvier 2007 (SOCK0710042D)](decret-n-2007-138-du-31-janvier-2007-sock0710042d)
 - [Décret n°2008-102 du 1er février 2008 (DEFH0773375D)](decret-n2008-102-du-1er-fevrier-2008-defh0773375d)
