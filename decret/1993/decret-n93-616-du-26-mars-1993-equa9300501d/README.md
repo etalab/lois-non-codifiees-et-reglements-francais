@@ -4,5 +4,4 @@
 - [CHAPITRE II : Recrutement.](chapitre-ii)
 - [CHAPITRE III : Avancement de grade.](chapitre-iii)
 - [CHAPITRE IV : Détachement.](chapitre-iv)
-- [CHAPITRE V : Dispositions transitoires.](chapitre-v)
 - [Article 20](article-20.md)
