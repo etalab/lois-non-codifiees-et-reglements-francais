@@ -2,8 +2,11 @@
 
 - [CHAPITRE Ier : DISPOSITIONS GÉNÉRALES.](chapitre-ier)
 - [TITRE Ier : DISPOSITIONS GÉNÉRALES.](titre-ier)
+- [CHAPITRE II : RECRUTEMENT.](chapitre-ii)
 - [TITRE II : RECRUTEMENT.](titre-ii)
+- [CHAPITRE III : Avancement de grade.](chapitre-iii)
 - [TITRE III : AVANCEMENT.](titre-iii)
+- [CHAPITRE IV : Détachement.](chapitre-iv)
 - [TITRE IV : DISPOSITIONS DIVERSES.](titre-iv)
 - [TITRE V : DISPOSITIONS TRANSITOIRES ET FINALES.](titre-v)
 - [Article 25](article-25.md)
