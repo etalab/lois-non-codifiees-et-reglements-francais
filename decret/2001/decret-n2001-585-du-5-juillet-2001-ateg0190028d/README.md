@@ -4,6 +4,7 @@
 - [TITRE Ier : DISPOSITIONS GÉNÉRALES.](titre-ier)
 - [TITRE II : RECRUTEMENT.](titre-ii)
 - [TITRE III : AVANCEMENT.](titre-iii)
+- [Chapitre IV : Dispositions diverses.](chapitre-iv)
 - [TITRE IV : DISPOSITIONS PARTICULIÈRES.](titre-iv)
 - [TITRE V : DISPOSITIONS TRANSITOIRES.](titre-v)
 - [Article 27](article-27.md)
