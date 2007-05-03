@@ -2,6 +2,7 @@
 
 - [CHAPITRE Ier : DISPOSITIONS GENERALES.](chapitre-ier)
 - [TITRE Ier : DISPOSITIONS GENERALES.](titre-ier)
+- [CHAPITRE II : RECRUTEMENT.](chapitre-ii)
 - [TITRE II : RECRUTEMENT.](titre-ii)
 - [TITRE III : AVANCEMENT.](titre-iii)
 - [CHAPITRE IV : DÉTACHEMENT.](chapitre-iv)
