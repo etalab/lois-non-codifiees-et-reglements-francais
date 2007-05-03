@@ -4,6 +4,4 @@ Le détachement prononcé en application de l'article 142 s'effectue à équival
 
 Lorsque l'application des dispositions qui précèdent aboutit à classer le fonctionnaire à un échelon doté d'un indice inférieur à celui qu'il détenait dans son corps d'origine, l'intéressé conserve, à titre personnel, son indice jusqu'au jour où il bénéficie dans son nouveau corps d'un indice au moins égal.
 
-Le nombre de fonctionnaires placés en position de détachement dans l'un des corps régis par le présent décret ne peut excéder le cinquième de l'effectif budgétaire du corps.
-
 Pendant leur détachement, ils concourent pour l'avancement de grade et d'échelon avec les fonctionnaires du corps dans lequel ils sont détachés.
