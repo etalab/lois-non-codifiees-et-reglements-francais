@@ -1,5 +1,6 @@
 # Décret n°2000-572 du 26 juin 2000 portant statut particulier du corps des syndics des gens de mer.
 
+- [CHAPITRE Ier : DISPOSITIONS GÉNÉRALES.](chapitre-ier)
 - [TITRE Ier : DISPOSITIONS GÉNÉRALES.](titre-ier)
 - [TITRE II : RECRUTEMENT.](titre-ii)
 - [TITRE III : AVANCEMENT.](titre-iii)
