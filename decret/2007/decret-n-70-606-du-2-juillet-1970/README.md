@@ -4,3 +4,4 @@
 - [Chapitre II : Recrutement.](chapitre-ii)
 - [Chapitre III : Avancement de grade.](chapitre-iii)
 - [Chapitre IV : Détachement.](chapitre-iv)
+- [Chapitre V : Dispositions finales](chapitre-v)
