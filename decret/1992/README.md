@@ -969,7 +969,6 @@
 - [Décret n°92-1433 du 30 décembre 1992 (SPSS9203003D)](decret-n92-1433-du-30-decembre-1992-spss9203003d)
 - [Décret n°92-1434 du 30 décembre 1992 (SPSS9203136D)](decret-n92-1434-du-30-decembre-1992-spss9203136d)
 - [Décret n°92-1435 du 30 décembre 1992 (SPSG9202937D)](decret-n92-1435-du-30-decembre-1992-spsg9202937d)
-- [Décret n°92-1437 du 30 décembre 1992 (SPSG9202936D)](decret-n92-1437-du-30-decembre-1992-spsg9202936d)
 - [Décret n°92-1438 du 30 décembre 1992 (SPSG9202938D)](decret-n92-1438-du-30-decembre-1992-spsg9202938d)
 - [Décret n°92-295 du 30 mars 1992 (SPSS9200254D)](decret-n92-295-du-30-mars-1992-spss9200254d)
 - [Décret n°92-297 du 30 mars 1992 (MENN9200514D)](decret-n92-297-du-30-mars-1992-menn9200514d)

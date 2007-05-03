@@ -4,5 +4,3 @@
 - [Section 2 : Dispositions relatives aux recrutements sur concours](section-2)
 - [Section 3 : Dispositions communes](section-3)
 - [Article 3-10](article-3-10.md)
-- [Article 3-11](article-3-11.md)
-- [Article 3-12](article-3-12.md)

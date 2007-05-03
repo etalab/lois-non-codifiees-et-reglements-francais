@@ -2,7 +2,6 @@
 
 - [Décret n°76-203 du 1 mars 1976](decret-n76-203-du-1-mars-1976)
 - [Décret n°77-789 du 1 juillet 1977](decret-n77-789-du-1-juillet-1977)
-- [Décret n°70-606 du 2 juillet 1970](decret-n70-606-du-2-juillet-1970)
 - [Décret n°76-303 du 2 avril 1976](decret-n76-303-du-2-avril-1976)
 - [Décret n°76-304 du 2 avril 1976](decret-n76-304-du-2-avril-1976)
 - [Décret n°76-478 du 2 juin 1976](decret-n76-478-du-2-juin-1976)
@@ -78,7 +77,6 @@
 - [Décret n°76-492 du 28 mai 1976](decret-n76-492-du-28-mai-1976)
 - [Décret n°76-1085 du 29 novembre 1976](decret-n76-1085-du-29-novembre-1976)
 - [Décret n°76-1102 du 29 novembre 1976](decret-n76-1102-du-29-novembre-1976)
-- [Décret n°76-1110 du 29 novembre 1976](decret-n76-1110-du-29-novembre-1976)
 - [Décret n°78-507 du 29 mars 1978](decret-n78-507-du-29-mars-1978)
 - [Décret n°75-1370 du 31 décembre 1975](decret-n75-1370-du-31-decembre-1975)
 - [Décret n°76-288 du 31 mars 1976](decret-n76-288-du-31-mars-1976)

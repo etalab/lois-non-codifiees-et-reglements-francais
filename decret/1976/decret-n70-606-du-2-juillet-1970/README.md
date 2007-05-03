@@ -1,5 +1,0 @@
-# Décret n°70-606 du 2 juillet 1970 portant statut particulier du corps des dessinateurs de l'équipement.
-
-- [TITRE I : Dispositions permanentes.](titre-i)
-- [TITRE II : Dispositions diverses.](titre-ii)
-- [TITRE III : Dispositions concernant les retraites.](titre-iii)

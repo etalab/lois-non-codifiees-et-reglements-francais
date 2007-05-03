@@ -37,7 +37,6 @@
 - [Décret n°68-905 du 21 octobre 1968](decret-n68-905-du-21-octobre-1968)
 - [Décret n°67-1165 du 22 décembre 1967](decret-n67-1165-du-22-decembre-1967)
 - [Décret n°68-934 du 22 octobre 1968](decret-n68-934-du-22-octobre-1968)
-- [Décret n°68-464 du 22 mai 1968](decret-n68-464-du-22-mai-1968)
 - [Décret n°68-536 du 23 mai 1968](decret-n68-536-du-23-mai-1968)
 - [Décret n°68-845 du 24 septembre 1968](decret-n68-845-du-24-septembre-1968)
 - [Décret n°69-376 du 24 avril 1969](decret-n69-376-du-24-avril-1969)

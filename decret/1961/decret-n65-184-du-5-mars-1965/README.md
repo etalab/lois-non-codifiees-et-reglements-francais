@@ -3,5 +3,4 @@
 - [TITRE I : DISPOSITIONS GENERALES.](titre-i)
 - [TITRE II : RECRUTEMENT.](titre-ii)
 - [TITRE III : AVANCEMENT.](titre-iii)
-- [TITRE IV : DISPOSITIONS TRANSITOIRES.](titre-iv)
 - [DISPOSITIONS CONCERNANT LES RETRAITES.](dispositions-concernant-les-retraites)

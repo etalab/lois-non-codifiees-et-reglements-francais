@@ -729,7 +729,6 @@
 - [Décret n°93-613 du 26 mars 1993 (LOGC9300023D)](decret-n93-613-du-26-mars-1993-logc9300023d)
 - [Décret n°93-614 du 26 mars 1993 (EQUU9300410D)](decret-n93-614-du-26-mars-1993-equu9300410d)
 - [Décret n°93-616 du 26 mars 1993 (EQUA9300501D)](decret-n93-616-du-26-mars-1993-equa9300501d)
-- [Décret n°93-617 du 26 mars 1993 (EQUA9300502D)](decret-n93-617-du-26-mars-1993-equa9300502d)
 - [Décret n°93-625 du 26 mars 1993 (INDA9300147D)](decret-n93-625-du-26-mars-1993-inda9300147d)
 - [Décret n°93-631 du 26 mars 1993 (TEFE9300384D)](decret-n93-631-du-26-mars-1993-tefe9300384d)
 - [Décret n°93-632 du 26 mars 1993 (TEFF9300383D)](decret-n93-632-du-26-mars-1993-teff9300383d)

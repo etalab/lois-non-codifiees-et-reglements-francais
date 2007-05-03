@@ -44,7 +44,6 @@
 - [Décret n°67-290 du 28 mars 1967](decret-n67-290-du-28-mars-1967)
 - [Décret n°67-1039 du 29 novembre 1967](decret-n67-1039-du-29-novembre-1967)
 - [Décret n°67-1044 du 30 novembre 1967](decret-n67-1044-du-30-novembre-1967)
-- [Décret n°67-1055 du 30 novembre 1967](decret-n67-1055-du-30-novembre-1967)
 - [Décret n°67-278 du 30 mars 1967](decret-n67-278-du-30-mars-1967)
 - [Décret n°67-513 du 30 juin 1967](decret-n67-513-du-30-juin-1967)
 - [Décret n°67-519 du 30 juin 1967](decret-n67-519-du-30-juin-1967)
