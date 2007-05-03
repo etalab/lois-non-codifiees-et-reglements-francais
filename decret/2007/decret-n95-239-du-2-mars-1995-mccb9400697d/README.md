@@ -1,3 +1,4 @@
 # Décret n°95-239 du 2 mars 1995 portant statut particulier du corps des adjoints techniques d'accueil, de surveillance et de magasinage du ministère de la culture
 
 - [CHAPITRE Ier : Dispositions générales.](chapitre-ier)
+- [CHAPITRE II : Recrutement.](chapitre-ii)
