@@ -5,5 +5,4 @@
 - [CHAPITRE II : Corps des magasiniers en chef.](chapitre-ii)
 - [CHAPITRE III : Corps des magasiniers spécialisés.](chapitre-iii)
 - [Article 4](article-4.md)
-- [CHAPITRE IV : Dispositions communes.](chapitre-iv)
 - [Article 28](article-28.md)
