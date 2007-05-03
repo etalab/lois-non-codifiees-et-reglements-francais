@@ -3,6 +3,7 @@
 - [Titre Ier : Dispositions générales.](titre-ier)
 - [Chapitre II : Recrutement](chapitre-ii)
 - [Titre II : Recrutement.](titre-ii)
+- [Chapitre III : Avancement de grade.](chapitre-iii)
 - [Titre III : Avancement.](titre-iii)
 - [Titre IV : Dispositions particulières.](titre-iv)
 - [Article 28](article-28.md)
