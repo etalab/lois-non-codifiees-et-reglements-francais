@@ -1,7 +1,5 @@
 # Article 53
 
-Le corps des adjoints techniques de formation et de recherche, classé dans la catégorie C prévue à l'article 29 de la loi du 11 janvier 1984 susvisée, est régi par les dispositions du décret du 27 janvier 1970 susvisé à l'exception de celles du deuxième alinéa de l'article 6 et par les dispositions du présent décret.
+Le corps des adjoints techniques de formation et de recherche, classé dans la catégorie C prévue à l'article 29 de la loi du 11 janvier 1984 susvisée, est régi par les dispositions du décret n° 2005-1228 du 29 septembre 2005 relatif à l'organisation des carrières des fonctionnaires de catégorie C et par celles du présent décret.
 
-Ce corps comporte deux grades : le grade d'adjoint technique et le grade d'adjoint technique principal.
-
-Le nombre des emplois d'adjoint technique principal ne peut excéder 20 % de l'effectif total des deux grades du corps.
+Ce corps comporte quatre grades : le grade d'adjoint technique de 2e classe, le grade d'adjoint technique de 1re classe, le grade d'adjoint technique principal de 2e classe et le grade d'adjoint technique principal de 1re classe.
