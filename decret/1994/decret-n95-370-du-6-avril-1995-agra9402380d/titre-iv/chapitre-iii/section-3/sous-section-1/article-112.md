@@ -1,3 +1,0 @@
-# Article 112
-
-Les bibliothécaires contractuels des établissements d'enseignement supérieur relevant du ministre chargé de l'agriculture, titulaires d'une licence ou d'un titre ou diplôme d'un niveau équivalent à celui exigé pour l'accès au corps d'ingénieur d'études par la voie du concours externe, recrutés dans les conditions fixées par l'arrêté interministériel du 7 février 1957 relatif à la rémunération et aux conditions de recrutement de personnels contractuels dans les établissements d'enseignement supérieur agricole, sont classés dans le corps des ingénieurs d'études conformément au tableau suivant (tableau non reproduit, consulter le fac-similé)

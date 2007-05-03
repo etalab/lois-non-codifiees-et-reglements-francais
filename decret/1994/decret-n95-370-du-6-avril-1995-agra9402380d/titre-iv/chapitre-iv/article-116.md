@@ -1,3 +1,0 @@
-# Article 116
-
-Par dérogation aux dispositions de l'article 73 ci-dessus, pendant une période de cinq ans à compter de la date de publication du présent décret, le nombre maximal d'emplois susceptibles d'être réservés aux concours internes de recrutement par rapport au nombre total des postes à pourvoir annuellement par la voie des concours externes et internes est fixé à 50 p. 100 dans le corps des ingénieurs d'études, à 75 p. 100 dans le corps des assistants ingénieurs et dans celui des techniciens de formation et de recherche et à 66 p. 100 dans les corps d'adjoints techniques, d'agents techniques et d'agents des services techniques de formation et de recherche du ministère de l'agriculture et de la pêche.
