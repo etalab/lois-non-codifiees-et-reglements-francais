@@ -1,20 +1,6 @@
 # Article 60
 
-Les ingénieurs et les personnels techniques de la recherche de chaque établissement public scientifique et technologique sont répartis en sept corps :
-
-- le corps des ingénieurs de recherche ;
-
-le corps des ingénieurs d'études ;
-
-le corps des assistants ingénieurs ;
-
-le corps des techniciens de la recherche ;
-
-- le corps des adjoints techniques de la recherche ;
-
-- le corps des agents techniques de la recherche ;
-
-le corps des agents des services techniques de la recherche.
+Les ingénieurs et les personnels techniques de la recherche de chaque établissement public scientifique et technologique sont répartis en cinq corps : le corps des ingénieurs de recherche, le corps des ingénieurs d'études, le corps des assistants ingénieurs, le corps des techniciens de la recherche et le corps des adjoints techniques de la recherche.
 
 Toutefois, certains de ces corps peuvent être communs à deux ou plusieurs établissements publics scientifiques et technologiques.
 
