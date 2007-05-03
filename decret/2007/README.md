@@ -26,6 +26,7 @@
 - [Décret n° 70-606 du 2 juillet 1970](decret-n-70-606-du-2-juillet-1970)
 - [Décret n°2007-279 du 2 mars 2007 (SOCT0710270D)](decret-n2007-279-du-2-mars-2007-soct0710270d)
 - [Décret n°2007-500 du 2 avril 2007 (DEFX0600226D)](decret-n2007-500-du-2-avril-2007-defx0600226d)
+- [Décret n°95-239 du 2 mars 1995 (MCCB9400697D)](decret-n95-239-du-2-mars-1995-mccb9400697d)
 - [Décret n°2007-649 du 2 mai 2007 (PRMX0710192D)](decret-n2007-649-du-2-mai-2007-prmx0710192d)
 - [Décret n°2007-671 du 2 mai 2007 (SANG0720686D)](decret-n2007-671-du-2-mai-2007-sang0720686d)
 - [Décret n°2006-1208 du 3 octobre 2006 (PRMX0600121D)](decret-n2006-1208-du-3-octobre-2006-prmx0600121d)
