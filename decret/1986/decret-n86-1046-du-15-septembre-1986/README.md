@@ -3,6 +3,7 @@
 - [TITRE Ier : DISPOSITIONS GENERALES.](titre-ier)
 - [TITRE II : RECRUTEMENT.](titre-ii)
 - [TITRE III : AVANCEMENT.](titre-iii)
+- [CHAPITRE IV : DÉTACHEMENT.](chapitre-iv)
 - [TITRE IV : DISPOSITIONS DIVERSES.](titre-iv)
 - [Chapitre V : Dispositions finales.](chapitre-v)
 - [TITRE V : DISPOSITIONS TRANSITOIRES.](titre-v)
