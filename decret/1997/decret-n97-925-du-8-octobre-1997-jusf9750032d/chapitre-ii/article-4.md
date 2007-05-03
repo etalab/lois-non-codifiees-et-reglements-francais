@@ -1,7 +1,7 @@
 # Article 4
 
-Les agents techniques d'éducation sont recrutés :
+I. - Les agents techniques d'éducation de la protection judiciaire de la jeunesse sont recrutés sans concours dans le grade d'agent technique d'éducation de 2e classe dans les conditions prévues à la section 1 du présent chapitre.
 
-1° Par voie de concours sur épreuves dans les conditions définies aux articles 5 et suivants du présent décret ;
+Ils sont recrutés par concours sur épreuves dans le grade d'agent technique d'éducation de 1re classe dans les conditions prévues à la section 2.
 
-2° Au choix, dans la limite du cinquième des nominations prononcées au titre du présent article, par voie d'inscription sur une liste d'aptitude établie après avis de la commission administrative paritaire parmi les fonctionnaires des services déconcentrés de la protection judiciaire de la jeunesse appartenant à un corps classé dans la catégorie C. Les intéressés doivent justifier d'au moins neuf années de services publics.
+II. - Les fonctionnaires recrutés dans l'un des grades d'agent technique d'éducation sont classés dans leur grade respectif conformément aux articles 3 à 7 bis du décret du 29 septembre 2005 susmentionné.
