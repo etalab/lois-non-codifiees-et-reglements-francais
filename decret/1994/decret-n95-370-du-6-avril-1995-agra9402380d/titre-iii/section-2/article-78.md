@@ -4,14 +4,12 @@ Sont nommés stagiaires :
 
 a) Les candidats reçus aux concours d'accès aux corps d'ingénieurs de recherche, d'ingénieurs d'études, d'assistants ingénieurs et de techniciens régis par le présent décret ;
 
-b) Les candidats reçus aux concours externe d'accès aux corps de catégorie C. Ils sont assujettis, en cette qualité, à un stage d'un an.
+b) Les candidats reçus au concours externe d'accès au grade d'adjoint technique principal de 2e classe et les personnels recrutés comme adjoints techniques de 2e classe en application de l'article 55-1. Ils sont assujettis, en cette qualité, à un stage d'un an.
 
 Le stage fait l'objet d'un rapport établi par le responsable de l'établissement d'affectation.
 
-Les stagiaires dont les services ont donné satisfaction sont titularisés. Les stagiaires non titularisés peuvent, compte tenu des appréciations portées sur leur manière de servir durant le stage, et après avis de la commission administrative paritaire compétente, être autorisés à effectuer un nouveau et dernier stage d'une année.
+A l'issue du stage, les stagiaires dont les services ont donné satisfaction sont titularisés. Les autres stagiaires peuvent, compte tenu des appréciations portées sur leur manière de servir durant le stage et après avis de la commission administrative paritaire, être autorisés à effectuer un stage complémentaire d'une durée maximale d'un an. Si le stage complémentaire a été jugé satisfaisant, les intéressés sont titularisés.
 
-Ceux qui n'ont pas obtenu l'autorisation de renouveler le stage et ceux qui n'ont pas été titularisés à l'issue de la seconde année de stage sont, après avis de la commission administrative paritaire compétente, soit réintégrés dans leur coprs, cadre d'emplois, emploi ou catégorie d'origine, s'ils avaient la qualité de fonctionnaire ou d'agent non titulaire, soit licenciés.
+Les stagiaires qui n'ont pas été autorisés à effectuer un stage complémentaire ou dont le stage complémentaire n'a pas donné satisfaction sont, après avis de la commission administrative paritaire compétente, soit licenciés s'ils n'avaient pas préalablement la qualité de fonctionnaire, soit réintégrés dans leur corps, cadre d'emplois ou emploi d'origine.
 
 La durée du stage ne peut être prise en compte dans l'ancienneté pour l'avancement qu'à concurrence d'une durée d'un an.
-
-Les stagiaires sont rémunérés, pendant la durée de leur stage, par référence à un échelon du grade de début du corps dans lequel ils ont été nommés comme stagiaire, déterminé en application des dispositions prévues par le présent décret pour le classement dans le corps correspondant.
