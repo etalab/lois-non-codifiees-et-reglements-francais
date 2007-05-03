@@ -1,0 +1,7 @@
+# Article 4
+
+I. - Les agents d'exploitation des travaux publics de l'Etat et les agents d'exploitation spécialisés des travaux publics de l'Etat de la branche "routes, bases aériennes" sont chargés de l'exécution de tous travaux de construction, d'entretien, de réparation et d'exploitation du réseau routier national et des bases aériennes.
+
+II. - Les agents d'exploitation des travaux publics de l'Etat et les agents d'exploitation spécialisés des travaux publics de l'Etat de la branche "voies navigables, ports maritimes" sont chargés de l'exécution de tous travaux d'entretien, de grosses réparations et d'équipement sur les voies navigables, dans les ports maritimes, ainsi que dans les dépendances de ces voies et ports. Ils sont chargés de la manoeuvre des ouvrages, de la conduite des engins et de l'exécution de toutes les opérations relatives à l'exploitation des voies navigables et des ports maritimes. Ils assurent également l'entretien et participent à la réparation des ouvrages et engins dont la manoeuvre ou la conduite leur est confiée.
+
+III. - Les agents d'exploitation spécialisés des travaux publics de l'Etat des deux branches exercent des fonctions exigeant une formation technique spéciale portant sur la conduite, le fonctionnement et l'entretien courant des engins. Ils sont chargés de travaux nécessitant une qualification particulière. Ils peuvent être chargés de coordonner le travail des agents d'exploitation des travaux publics de l'Etat.
