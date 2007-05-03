@@ -1,7 +1,13 @@
 # Article 12
 
-Peuvent être placés en position de détachement dans le corps des agents spécialisés de police technique et scientifique de la police nationale, après avis de la commission administrative paritaire compétente, les fonctionnaires de l'Etat, des collectivités territoriales ou de la fonction publique hospitalière et de leurs établissements publics, sous réserve qu'ils relèvent de corps ou de cadre d'emplois ou emplois de même niveau en catégorie C. Les intéressés doivent être titulaires dans leur corps, cadre d'emplois ou emplois d'origine depuis trois ans au moins.
+I. - Peuvent seuls être détachés dans le corps des agents spécialisés de police technique et scientifique de la police nationale les fonctionnaires de catégorie C de la fonction publique de l'Etat, de la fonction publique territoriale et de la fonction publique hospitalière titulaires d'un grade ou occupant un emploi dont l'indice brut de début est au moins égal à l'indice afférent au 1er échelon du grade d'agent spécialisé de police technique et scientifique.
 
-Le détachement est prononcé à équivalence de grade et à l'échelon comportant un indice égal ou, à défaut, immédiatement supérieur à celui dont l'intéressé bénéficiait dans son corps d'origine. Le fonctionnaire détaché conserve, dans la limite de la durée moyenne exigée pour l'accès à l'échelon supérieur de son nouveau grade, l'ancienneté d'échelon acquise dans son corps d'origine, lorsque le détachement ne lui procure pas un traitement supérieur à celui qui aurait résulté de sa nomination audit échelon, si ce dernier était le plus élevé de son corps d'origine.
+Les fonctionnaires titulaires d'un grade ou occupant un emploi dont l'indice brut de début est au moins égal à l'indice afférent au 1er échelon du grade d'agent spécialisé de police technique et scientifique sont détachés dans le grade d'agent spécialisé de police technique et scientifique.
 
-Les fonctionnaires détachés concourent pour l'avancement dans le corps d'accueil dans les mêmes conditions que les fonctionnaires du corps d'accueil.
+Les fonctionnaires titulaires d'un grade ou occupant un emploi dont l'indice brut de début est au moins égal à l'indice afférent au 1er échelon du grade d'agent spécialisé principal de police technique et scientifique sont détachés dans le grade d'agent spécialisé principal de police technique et scientifique.
+
+II. - Les fonctionnaires détachés dans le corps des agents spécialisés de police technique et scientifique sont soumis à l'obligation de suivre la formation mentionnée au deuxième alinéa du I de l'article 7.
+
+III. - Le détachement est prononcé soit à l'échelon que les intéressés ont atteint dans leur grade ou emploi d'origine lorsque ce grade ou cet emploi relève de l'une des échelles 5 ou 6, soit à l'échelon comportant un indice égal ou, à défaut, immédiatement supérieur lorsqu'ils relèvent d'une autre grille indiciaire. Dans les deux cas, les fonctionnaires détachés conservent l'ancienneté d'échelon acquise dans leur grade d'origine, dans la limite de la durée de l'échelon du grade d'accueil.
+
+IV. - Pendant leur détachement, les fonctionnaires détachés concourent pour l'avancement de grade et d'échelon avec les fonctionnaires du corps des agents spécialisés de police technique et scientifique de la police nationale.
