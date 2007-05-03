@@ -1,0 +1,5 @@
+# Article 39
+
+I.-Par dérogation à l'article 12 du décret du 8 octobre 1997 susvisé dans sa rédaction issue de l'article 38 du présent décret, et pendant une durée de trois ans à compter de la date d'entrée en vigueur du présent décret, peuvent être promus au grade d'agent technique d'éducation de 1re classe par voie d'inscription à un tableau annuel d'avancement établi au choix, après avis de la commission administrative paritaire, les agents techniques d'éducation de 2e classe ayant atteint le 4e échelon de leur grade et comptant au moins trois ans de services effectifs dans leur grade.
+
+II.-Par dérogation à l'article 14 du décret du 8 octobre 1997 susvisé dans sa rédaction issue du présent décret, et jusqu'au 31 décembre 2008, peuvent être promus au grade d'agent technique d'éducation principal de 1re classe, par voie d'inscription à un tableau annuel d'avancement établi au choix après avis de la commission administrative paritaire, les agents techniques d'éducation principaux de 2e classe ayant au moins deux ans d'ancienneté dans le 7e échelon de leur grade et comptant au moins cinq ans de services effectifs dans leur grade.

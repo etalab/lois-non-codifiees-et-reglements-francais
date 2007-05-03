@@ -1,3 +1,5 @@
 # Article 19
 
-Le décret n° 55-1471 du 12 novembre 1955, modifié par le décret n° 63-1139 du 14 novembre 1963, est abrogé.
+Les adjoints de contrôle de la concurrence, de la consommation et de la répression des fraudes affectés à des formations d'enquête disposent d'une carte professionnelle de service avec photographie qu'ils sont tenus de présenter à la première réquisition.
+
+L'adjoint de contrôle quittant définitivement son emploi est tenu de remettre sans délai sa carte professionnelle de service à l'administration.

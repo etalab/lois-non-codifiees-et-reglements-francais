@@ -5,3 +5,4 @@
 - [Chapitre III : Avancement de grade.](chapitre-iii)
 - [Chapitre IV : Détachement](chapitre-iv)
 - [Chapitre V : Dispositions diverses](chapitre-v)
+- [Article 25](article-25.md)

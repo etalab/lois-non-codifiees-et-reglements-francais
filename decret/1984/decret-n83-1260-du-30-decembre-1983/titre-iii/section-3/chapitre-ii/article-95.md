@@ -8,13 +8,13 @@ Diplômes universitaires de technologie ou brevet de technicien supérieur ou di
 
 Diplôme délivré par un établissement public ou privé dont l'équivalence avec l'un des diplômes ci-dessus pour l'application du présent décret aura été déterminée par la commission prévue à l'article 67 ci-dessus.
 
-En outre peuvent se présenter à ces concours des candidats titulaires d'un diplôme homologué au niveau III en application des dispositions du décret du 8 janvier 1992 précité et des candidats justifiant qu'ils possèdent une qualification professionnelle jugée équivalente, pour l'application du présent décret, à l'un des diplômes mentionnés ci dessus par la commission prévue à l'article 67.
+En outre peuvent se présenter à ces concours des candidats titulaires d'un diplôme de niveau III et des candidats justifiant qu'ils possèdent une qualification professionnelle jugée équivalente, pour l'application du présent décret, à l'un des diplômes mentionnés ci dessus par la commission prévue à l'article 67 qui, à cet effet, peut prendre l'avis d'experts figurant sur la liste prévue à l'article 235.
 
 2° Des concours internes sont ouverts :
 
-a) Aux techniciens de la recherche et aux secrétaires d'administration de la recherche justifiant de cinq années de services effectués en position d'activité dans leur corps ou en position de détachement de ce corps ainsi qu'aux adjoints techniques de la recherche, aux adjoints administratifs de la recherche, aux agents techniques de la recherche et aux agents d'administration de la recherche justifiant de huit années de services effectués en position d'activité dans leur corps ou en position de détachement de ce corps ;
+a) Aux techniciens de la recherche et aux secrétaires d'administration de la recherche justifiant de cinq années de services effectués en position d'activité dans leur corps ou en position de détachement de ce corps ainsi qu'aux adjoints techniques de la recherche justifiant de huit années de services effectués en position d'activité dans leur corps ou en position de détachement de ce corps ;
 
-b) Aux fonctionnaires régis par des statuts particuliers pris en application de la loi du 15 juillet 1982 susvisée appartenant à un corps de techniciens, d'adjoints techniques, de secrétaires d'administration ou d'adjoints administratifs et remplissant les conditions de services fixées au a) ;
+b) Aux fonctionnaires régis par des statuts particuliers pris en application de la loi du 15 juillet 1982 susvisée appartenant à un corps de techniciens, de secrétaires d'administration ou d'adjoints techniques et remplissant les conditions de services fixées au a) ;
 
 c) Aux fonctionnaires appartenant à un corps dont l'échelonnement indiciaire est au moins équivalent à celui d'un corps de catégorie C et remplissant les conditions de services fixées au a) ;
 

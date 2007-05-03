@@ -4,3 +4,4 @@
 - [CHAPITRE II : Recrutement.](chapitre-ii)
 - [CHAPITRE III : Avancement de grade.](chapitre-iii)
 - [CHAPITRE IV : Détachement.](chapitre-iv)
+- [Article 26](article-26.md)

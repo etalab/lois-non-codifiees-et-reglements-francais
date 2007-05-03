@@ -4,8 +4,6 @@ Le corps des secrétaires des systèmes d'information et de communication compre
 
 Les grades de secrétaire des systèmes d'information et de communication de 2e classe, de secrétaire des systèmes d'information et de communication de 1ère classe et de secrétaire des systèmes d'information et de communication hors classe sont assimilés respectivement aux grades de classe normale, de classe supérieure et de classe exceptionnelle prévus par l'article 1er du décret n° 94-1016 du 18 novembre 1994 modifié fixant les dispositions statutaires applicables à divers corps de fonctionnaires de la catégorie B.
 
-L'effectif des secrétaires des systèmes d'information et de communication de 1ère classe ne peut excéder 25 p. 100 de l'effectif total des deux premiers grades.
-
 La durée moyenne et la durée minimale du temps passé dans chacun des échelons des grades du corps des secrétaires des systèmes d'information et de communication sont fixées ainsi qu'il suit :
 
 GRADE : Secrétaire des systèmes d'information et de communication hors classe

@@ -76,6 +76,7 @@
 - [Arrêté du 15 mai 2006 (SOCT0611077A)](arrete-du-15-mai-2006-soct0611077a)
 - [Arrêté du 16 janvier 2006 (SANP0620362A)](arrete-du-16-janvier-2006-sanp0620362a)
 - [Arrêté du 16 novembre 2006 (MENS0602787A)](arrete-du-16-novembre-2006-mens0602787a)
+- [Arrêté du 17 août 2006 (ECOP0600460A)](arrete-du-17-aout-2006-ecop0600460a)
 - [Arrêté du 17 novembre 2006 (BUDB0630162A)](arrete-du-17-novembre-2006-budb0630162a)
 - [Arrêté du 17 novembre 2006 (EQUP0601897A)](arrete-du-17-novembre-2006-equp0601897a)
 - [Arrêté du 17 novembre 2006 (EQUP0601899A)](arrete-du-17-novembre-2006-equp0601899a)

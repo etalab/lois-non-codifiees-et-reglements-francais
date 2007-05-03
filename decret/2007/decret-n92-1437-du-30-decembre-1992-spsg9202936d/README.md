@@ -4,3 +4,4 @@
 - [CHAPITRE II : Recrutement.](chapitre-ii)
 - [CHAPITRE III : Avancement de grade.](chapitre-iii)
 - [CHAPITRE IV : Détachement.](chapitre-iv)
+- [Article 19](article-19.md)

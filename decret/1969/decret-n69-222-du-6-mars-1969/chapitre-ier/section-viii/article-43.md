@@ -4,8 +4,8 @@ Les secrétaires des systèmes d'information et de communication sont recrutés 
 
 1° Par la voie de concours externe et interne, sur épreuves qui sont prévues aux articles 44 et 45 ci-après ;
 
-2° Au choix, dans la limite du cinquième des nominations prononcées en application du présent article, parmi les fonctionnaires du ministère des affaires étrangères, de catégorie C, justifiant d'au moins neuf années de services publics.
+2° Au choix, dans la limite de deux cinquièmes du nombre total des nominations prononcées en application du 1° du présent article et des détachements prononcés dans les conditions fixées au 2° de l'article 19 du décret n° 85-986 du 16 septembre 1985 relatif au régime particulier de certaines positions des fonctionnaires de l'Etat et à certaines modalités de cessation définitive de fonctions. Ces nominations sont prononcées après inscription sur une liste d'aptitude établie après avis de la commission administrative paritaire, parmi les fonctionnaires de catégorie C du ministère des affaires étrangères, justifiant d'au moins neuf années de services publics.
 
-Les candidats recrutés en application du 2° ci-dessus sont immédiatement titularisés.
+Les candidats recrutés en application du 2° sont immédiatement titularisés.
 
-Lorsque l'application du 2° ci-dessus ne permet aucune nomination, le nombre de postes offerts chaque année au titre de la promotion interne est calculé en appliquant la proportion du cinquième des nominations à 3,5 p. 100 de l'effectif du corps considéré au 1er janvier de l'année au titre de laquelle sont prononcées les nominations.
+Le nombre de nominations susceptibles d'être prononcées au titre du 2° peut être calculé en appliquant une proportion d'un cinquième à 5 % de l'effectif des fonctionnaires en position d'activité et de détachement dans le corps considéré au 31 décembre de l'année précédant celle au titre de laquelle sont prononcées les nominations, lorsque ce mode de calcul permet un nombre de nominations plus élevé que celui résultant de l'application des dispositions du 2°.
