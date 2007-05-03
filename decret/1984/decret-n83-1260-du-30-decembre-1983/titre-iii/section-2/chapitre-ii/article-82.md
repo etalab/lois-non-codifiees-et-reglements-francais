@@ -30,7 +30,7 @@ Peuvent en outre se présenter aux concours externes :
 
 des candidats titulaires d'un titre universitaire étranger jugé, par la commission mentionnée à l'article 67, équivalent pour l'application du présent décret à un diplôme d'ingénieur.
 
-des candidats titulaires d'un diplôme homologué au niveau II en application des dispositions du décret n° 92 23 du 8 janvier 1992 relatif à l'homologation des titres et diplômes de l'enseignement technologique ou justifiant qu'ils possèdent déjà une qualification professionnelle jugée équivalente, pour l'application du présent décret, à un diplôme d'ingénieur par la commission mentionnée à l'article 67.
+des candidats titulaires d'un diplôme de niveau II ou justifiant qu'ils possèdent déjà une qualification professionnelle jugée équivalente, pour l'application du présent décret, à un diplôme d'ingénieur par la commission mentionnée à l'article 67 qui, à cet effet, peut prendre l'avis d'experts figurant sur la liste prévue à l'article 235 ;
 
 2° Des concours internes sont ouverts :
 
@@ -44,4 +44,4 @@ d) Aux agents non titulaires assurant des fonctions du niveau de la catégorie A
 
 Pour l'ensemble du corps, le nombre des emplois réservés au candidats des concours internes ne peut être supérieur au tiers du nombre des postes à pourvoir, par voie de concours.
 
-Dans chaque branche d'activité professionnelle, les emplois mis en compétition soit au concours externe, soit au concours interne qui ne sont pas pourvus par la nomination de candidats à l'un de ces concours peuvent être attribués aux candidats de l'autre concours dans la limite de 50 p. 100 du total des emplois offerts aux deux concours.
+Dans chaque branche d'activité professionnelle, les emplois mis en compétition soit au concours externe, soit au concours interne qui ne sont pas pourvus par la nomination de candidats à l'un de ces concours peuvent être attribués aux candidats de l'autre concours.

@@ -4,35 +4,35 @@ Les concours mentionnés au 1° de l'article 25 sont organisés dans les conditi
 
 1° Des concours externes sur titres et travaux sont ouverts aux candidats titulaires soit d'un des titres d'ingénieur reconnus par l'Etat autres que ceux exigés pour l'accès au corps des ingénieurs de recherche, soit de l'un des diplômes suivants :
 
-- diplôme d'études approfondies ;
+-diplôme d'études approfondies ;
 
-- diplôme d'études supérieures spécialisées ;
+-diplôme d'études supérieures spécialisées ;
 
-- maîtrise ;
+-maîtrise ;
 
-- licence ;
+-licence ;
 
-- diplôme d'un institut d'études politiques ;
+-diplôme d'un institut d'études politiques ;
 
-- diplôme de l'Institut national de langues et civilisations orientales ;
+-diplôme de l'Institut national de langues et civilisations orientales ;
 
-- diplôme de l'Ecole pratique des hautes études ;
+-diplôme de l'Ecole pratique des hautes études ;
 
-- diplôme de l'Ecole des hautes études en sciences sociales ;
+-diplôme de l'Ecole des hautes études en sciences sociales ;
 
-- diplôme d'Etat de conseiller d'orientation professionnelle ;
+-diplôme d'Etat de conseiller d'orientation professionnelle ;
 
-- diplôme supérieur de l'Ecole du Louvre ;
+-diplôme supérieur de l'Ecole du Louvre ;
 
-- diplôme délivré par un établissement d'enseignement supérieur public ou privé et dont l'équivalence avec le diplôme d'ingénieur pour l'application du présent décret aura été reconnue par la commission mentionnée à l'article 15.
+-diplôme délivré par un établissement d'enseignement supérieur public ou privé et dont l'équivalence avec le diplôme d'ingénieur pour l'application du présent décret aura été reconnue par la commission mentionnée à l'article 15.
 
 Ces concours sont également ouverts :
 
--Aux candidats titulaires d'un diplôme homologué au niveau II en application des dispositions du décret n° 92-23 du 8 janvier 1992 relatif à l'homologation des titres et des diplômes de l'enseignement technologique ;
+-Aux candidats titulaires d'un diplôme de niveau II ;
 
-- aux candidats titulaires d'un titre universitaire étranger jugé équivalent, pour l'application du présent décret, par la commission mentionnée à l'article 15, à l'un des diplômes ci-dessus ;
+-aux candidats titulaires d'un titre universitaire étranger jugé équivalent, pour l'application du présent décret, par la commission mentionnée à l'article 15, à l'un des diplômes ci-dessus ;
 
-- aux candidats justifiant qu'ils possèdent une qualification professionnelle jugée équivalente, par la commission mentionnée prévue au dernier alinéa du 1 de l'article 15, à un diplôme d'ingénieur.
+-aux candidats justifiant qu'ils possèdent une qualification professionnelle jugée équivalente, par la commission mentionnée à l'article 15 qui, à cet effet, peut prendre l'avis d'experts figurant sur la liste prévue au 2° de l'article 131 du présent décret, à un diplôme d'ingénieur.
 
 2° Des concours internes sont ouverts :
 

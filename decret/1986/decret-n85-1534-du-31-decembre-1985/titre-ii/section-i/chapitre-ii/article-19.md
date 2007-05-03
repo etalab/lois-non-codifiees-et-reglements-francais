@@ -1,13 +1,7 @@
 # Article 19
 
-Les agents nommés dans l'un des grades du corps des ingénieurs de recherche qui, antérieurement à leur nomination dans ce corps, n'avaient pas la qualité de fonctionnaire, sont classés à un échelon déterminé en prenant en compte une fraction de leur ancienneté de service, sur la base des durées moyennes de service fixées à l'article 22 pour chaque avancement d'échelon.
+I.-Le classement des fonctionnaires de catégorie B est prononcé en appliquant les dispositions de l'article 4 du décret du 23 décembre 2006 susmentionné à la situation qui serait la leur si, préalablement à leur nomination en qualité d'ingénieur de recherche, ils avaient été nommés et classés, en application des dispositions de l'article 5 du même décret, dans le corps d'assistants ingénieurs relevant du présent décret.
 
-Les services accomplis dans un emploi du niveau de la catégorie A sont retenus à raison de la moitié jusqu'à douze ans et des trois quarts au-delà de douze ans.
+II.-Pour le classement des lauréats des concours prévus aux articles 15 à 17, l'ancienneté acquise dans des services privés, dans des fonctions équivalentes à celles d'ingénieur de recherche, par les agents qui, antérieurement à leur nomination, n'avaient pas la qualité de fonctionnaire est prise en compte à raison du tiers jusqu'à douze ans et de la moitié au-delà de douze ans.
 
-Les services accomplis dans un emploi du niveau de la catégorie B sont retenus à raison de six seizièmes pour la fraction comprise entre sept ans et seize ans et à raison de neuf seizièmes pour l'ancienneté acquise au-delà de seize ans.
-
-Les services accomplis dans un emploi du niveau des catégories C et D sont retenus à raison de six seizièmes de leur durée excédant dix ans.
-
-Les agents de l'Etat qui ont occupé antérieurement des emplois d'un niveau inférieur à celui qu'ils occupent au moment de leur nomination peuvent demander à ce que leur ancienneté de service soit prise en compte dans les conditions fixées ci-dessus pour les emplois du niveau inférieur.
-
-L'ancienneté acquise dans des services privés, dans des fonctions équivalentes à celles d'ingénieurs de recherche ou d'ingénieur d'études ou à celles de chargé d'administration ou d'attaché d'administration de recherche et de formation, est retenue à raison du tiers jusqu'à douze ans et de la moitié au-delà de douze ans.
+Les dispositions de l'alinéa qui précède sont cumulables avec celles de l'article 7 du décret du 23 décembre 2006 susmentionné.

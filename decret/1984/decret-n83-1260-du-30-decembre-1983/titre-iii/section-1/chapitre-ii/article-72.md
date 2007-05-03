@@ -1,3 +1,3 @@
 # Article 72
 
-Les fonctionnaires recrutés dans l'un des grades du corps d'ingénieurs de recherche sont classés, dans les mêmes conditions que celles prévues à l'article 25 pour les chargés de recherche, sur la base des durées moyennes de service fixées à l'article 78.
+Les ingénieurs de recherche sont classés conformément aux dispositions de l'article 73 du présent décret et des articles 2 à 8 et 10 à 12 du décret n° 2006-1827 du 23 décembre 2006 relatif aux règles du classement d'échelon consécutif à la nomination dans certains corps de catégorie A de la fonction publique de l'Etat. Toutefois, la règle posée au III de l'article 2 du décret du 23 décembre 2006 susmentionné n'est pas applicable aux ingénieurs de recherche recrutés en application de l'article 70 du présent décret.

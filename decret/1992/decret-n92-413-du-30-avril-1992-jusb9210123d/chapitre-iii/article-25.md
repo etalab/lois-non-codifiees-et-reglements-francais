@@ -6,4 +6,4 @@ La condition d'ancienneté fixée au premier alinéa s'apprécie au 31 décembre
 
 Les intéressés sont reclassés conformément aux dispositions du tableau de l'article 24.
 
-Les greffiers en chef promus en application du présent article ne doivent pas représenter un effectif supérieur à 10 % de l'effectif budgétaire global du premier grade.
+La proportion des promotions prononcées en application du présent article ne peut être supérieure au tiers du total des promotions.

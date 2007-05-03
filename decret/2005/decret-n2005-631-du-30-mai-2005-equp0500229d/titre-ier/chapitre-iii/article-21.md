@@ -1,8 +1,8 @@
 # Article 21
 
-I. - Les fonctionnaires qui appartenaient à un corps ou à un cadre d'emplois de catégorie B ou de niveau équivalent sont titularisés et classés dans le grade d'ingénieur des travaux publics de l'Etat à un échelon déterminé sur la base des durées moyennes fixées à l'article 29 pour chaque avancement d'échelon, en prenant en compte leur ancienneté dans cette catégorie dans les conditions définies aux alinéas suivants.
+I. - Les fonctionnaires qui appartenaient à un corps ou à un cadre d'emplois de catégorie B ou de niveau équivalent sont titularisés et classés dans le grade d'ingénieur des travaux publics de l'Etat à un échelon déterminé sur la base des durées moyennes fixées à l'article 28 pour chaque avancement d'échelon, en prenant en compte leur ancienneté dans cette catégorie dans les conditions définies aux alinéas suivants.
 
-Cette ancienneté est égale à la durée de carrière nécessaire pour accéder au grade et à l'échelon que les fonctionnaires intéressés ont atteint à la date de leur nomination en qualité d'ingénieur stagiaire, augmentée, le cas échéant, de l'ancienneté dans leur corps ou cadre d'emplois d'origine acquise dans cet échelon.
+Cette ancienneté de carrière est calculée sur la base, d'une part, de la durée statutaire moyenne du temps passé dans les échelons du dernier grade détenu, augmenté, le cas échéant, de l'ancienneté acquise dans l'échelon détenu dans ce grade, d'autre part, pour les fonctionnaires titulaires d'un grade d'avancement, de l'ancienneté qu'il est nécessaire de détenir au minimum dans le ou les grades inférieurs pour accéder au dernier grade détenu, en tenant compte de la durée statutaire moyenne fixée pour chaque avancement d'échelon. Toutefois, cette ancienneté ne peut être inférieure à celle qui aurait été retenue pour ce fonctionnaire dans le grade inférieur s'il n'avait pas obtenu de promotion de grade.
 
 L'ancienneté ainsi déterminée n'est pas retenue en ce qui concerne les quatre premières années ; elle est prise en compte à raison des deux tiers pour la fraction comprise entre quatre et dix ans et des trois quarts pour celle excédant dix ans.
 

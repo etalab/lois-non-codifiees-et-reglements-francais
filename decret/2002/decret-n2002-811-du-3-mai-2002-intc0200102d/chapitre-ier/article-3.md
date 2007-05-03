@@ -7,5 +7,3 @@ Le corps des ingénieurs de police technique et scientifique comprend les grades
 2° Ingénieur principal de police technique et scientifique, qui comporte sept échelons ;
 
 3° Ingénieur de police technique et scientifique, qui comporte dix échelons.
-
-Le nombre d'emplois d'ingénieur en chef ne peut excéder 25 % du nombre total des emplois du corps.

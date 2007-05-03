@@ -8,7 +8,7 @@ L'examen professionnel de sélection est ouvert aux greffiers en chef remplissan
 
 La liste des fonctionnaires admis à se présenter à l'examen de sélection est arrêtée par le garde des sceaux, ministre de la justice.
 
-Par dérogation aux dispositions du titre III du décret n° 59-308 du 14 février 1959 relatif aux conditions générales de notation et d'avancement des fonctionnaires, peuvent être inscrits au tableau d'avancement d'une année, outre les greffiers en chef figurant sur la liste de l'année en cours, les greffiers en chef figurant sur la liste d'une des deux années précédentes.
+Par dérogation aux dispositions du décret n° 2002-682 du 29 avril 2002 relatif aux conditions générales d'évaluation, de notation et d'avancement des fonctionnaires de l'Etat, peuvent être inscrits au tableau d'avancement d'une année, outre les greffiers en chef figurant sur la liste de l'année en cours, les greffiers en chef figurant sur la liste d'une des deux années précédentes.
 
 L'organisation générale, la nature des épreuves et le programme de l'examen de sélection sont fixés par arrêté conjoint du garde des sceaux, ministre de la justice, et du ministre chargé de la fonction publique.
 

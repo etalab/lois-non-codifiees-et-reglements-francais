@@ -18,7 +18,7 @@ Diplôme délivré par un établissement d'enseignement public ou privé et dont
 
 Peuvent en outre se présenter aux concours externes des candidats titulaires d'un titre universitaire étranger jugé équivalent pour l'application du présent décret à un diplôme d'ingénieur de grandes écoles de l'Etat par la commission ci dessus.
 
-Peuvent enfin se présenter aux concours externes des candidats possédant une qualification professionnelle jugée équivalente à l'un des diplômes mentionnés dans le présent article par la commission prévue ci dessus qui à cet effet, peut prendre l'avis d'experts figurant sur la liste prévue au 2° de l'article 235 du présent décret.
+Peuvent enfin se présenter aux concours externes des candidats possédant une qualification professionnelle jugée équivalente à l'un des diplômes mentionnés dans le présent article par la commission prévue ci dessus qui à cet effet, peut prendre l'avis d'experts figurant sur la liste prévue à l'article 235 du présent décret.
 
 2° Des concours internes sont ouverts :
 
@@ -32,4 +32,4 @@ d) Aux agents non titulaires assurant des fonctions du niveau de la catégorie A
 
 Pour l'ensemble de ces corps, le nombre total des emplois réservés aux candidats des concours internes mentionnés ci dessus ne peut être supérieur au tiers du nombre total des postes à pourvoir par voie de concours.
 
-Dans chaque branche d'activité professionnelle, les emplois mis en compétition soit au concours externe, soit au concours interne qui ne sont pas pourvus par la nomination des candidats à l'un de ces concours peuvent être attribués aux candidats de l'autre concours dans la limite de 50 p. 100 du total des emplois offerts au deux concours.
+Dans chaque branche d'activité professionnelle, les emplois mis en compétition soit au concours externe, soit au concours interne qui ne sont pas pourvus par la nomination des candidats à l'un de ces concours peuvent être attribués aux candidats de l'autre concours.

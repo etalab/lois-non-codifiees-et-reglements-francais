@@ -2,8 +2,6 @@
 
 Les candidats reçus aux concours externe et interne sont nommés attachés des systèmes d'information et de communication stagiaires et accomplissent un stage d'une durée d'une année.
 
-Toutefois, les candidats visés au 1° de l'article 33-1 ci-dessus admis au concours ne sont nommés attachés des systèmes d'information et de communication stagiaires qu'à partir de la date à laquelle ils justifient de la condition de diplôme. Ceux qui ne peuvent présenter, au 31 décembre de l'année du concours, l'un des diplômes exigés, perdent le bénéfice de leur admission à ce concours.
-
 Pendant la durée de leur stage, les attachés des systèmes d'information et de communication sont classés au 1er échelon du grade d'attaché des systèmes d'information et de communication sous réserve de l'application des dispositions de l'article 34.
 
 L'organisation de la période de stage est fixée par le ministre des affaires étrangères.

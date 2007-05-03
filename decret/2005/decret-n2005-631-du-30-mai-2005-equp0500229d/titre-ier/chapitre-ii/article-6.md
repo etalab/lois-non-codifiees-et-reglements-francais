@@ -2,7 +2,7 @@
 
 Les élèves ingénieurs des travaux publics de l'Etat sont recrutés :
 
-1° Par la voie d'un concours externe organisé par filières ouvert aux candidats âgés de trente ans au plus au 1er janvier de l'année du concours ;
+1° Par la voie d'un concours externe organisé par filières ;
 
 2° Par la voie d'un concours interne ouvert aux fonctionnaires et agents non titulaires de droit public des trois fonctions publiques ainsi qu'aux militaires qui, au 1er janvier de l'année du concours, justifient de trois années de services publics. Les lauréats sont astreints à un stage probatoire.
 

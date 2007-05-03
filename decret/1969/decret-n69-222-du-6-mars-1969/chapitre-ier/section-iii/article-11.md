@@ -6,21 +6,7 @@ Le nombre de places offertes à l'un des concours ne peut être inférieur à 30
 
 Le nombre de places offertes, par section, aux concours externe et interne est fixé par arrêté du ministre des affaires étrangères.
 
-II. - Le concours externe est ouvert aux candidats âgés de moins de trente ans au 1er janvier de l'année au titre de laquelle le concours est organisé et qui :
-
-- soit sont titulaires de l'un des titres ou diplômes exigés des candidats au concours externe d'entrée à l'Ecole nationale d'administration ou de l'un des titres, diplômes ou certificats attestant l'accomplissement d'une formation ou d'un cycle d'études de niveau comparable, dont la liste est arrêtée par le ministre des affaires étrangères et par le ministre chargé de la fonction publique ;
-
-- soit justifient d'une formation de niveau comparable et sont autorisés, à titre exceptionnel, à participer au concours après avis d'une commission qui statue, au vu du dossier personnel des intéressés, sur leur capacité à concourir ; cette commission peut entendre les candidats si elle le juge utile. La commission mentionnée ci-dessus est composée :
-
-a) d'un membre du Conseil d'Etat ou de la Cour des comptes, président ;
-
-b) d'un représentant du ministre chargé de la fonction publique ;
-
-c) d'un représentant du ministre chargé de l'enseignement supérieur ;
-
-d) d'un représentant du ministre des affaires étrangères.
-
-Les règles de saisine et les modalités de fonctionnement de cette commission sont arrêtées par le ministre des affaires étrangères et par le ministre chargé de la fonction publique.
+II. - Le concours externe est ouvert aux candidats titulaires d'une licence, d'un autre titre ou diplôme classé au moins au niveau II ou d'une qualification reconnue comme équivalente à l'un de ces titres ou diplômes dans les conditions fixées par arrêté du ministre des affaires étrangères et du ministre chargé de la fonction publique, au plus tard à la date de clôture des inscriptions au concours.
 
 III. - Le concours interne est ouvert aux fonctionnaires et agents de l'Etat, des collectivités territoriales et des établissements publics qui en dépendent. Ce concours est également ouvert aux candidats en fonction dans une organisation internationale intergouvernementale.
 
@@ -37,10 +23,6 @@ La liste des candidats autorisés à prendre part aux épreuves est arrêtée pa
 Nul ne peut concourir plus de trois fois à l'un des deux concours prévus aux II et III du présent article, ni plus de cinq fois au total à ces deux concours.
 
 Les règles d'organisation générale des concours, la nature et le programme des épreuves ainsi que la liste des sections sont fixés par arrêté du ministre des affaires étrangères. Les conditions d'organisation des concours et la composition du jury sont fixées par arrêté du ministre des affaires étrangères.
-
-La limite d'âge supérieure prévue pour se présenter au concours externe s'entend sans préjudice de l'application des dispositions en vigueur en matière de report des âges limites.
-
-Les candidats qui atteignent la limite d'âge supérieure mentionnée à l'alinéa précédent durant les années au cours desquelles aucun concours n'est ouvert peuvent faire acte de candidature au concours suivant.
 
 V. - Les conseillers des affaires étrangères (cadre d'Orient) recrutés dans les conditions prévues au présent article sont nommés en qualité de stagiaire par arrêté du ministre des affaires étrangères pour une durée d'un an. A l'expiration de cette période, ceux dont les services ont donné satisfaction sont titularisés au 1er échelon de leur grade.
 

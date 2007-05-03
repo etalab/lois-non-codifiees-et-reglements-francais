@@ -3,7 +3,7 @@
 - [TITRE Ier : Dispositions générales.](titre-ier)
 - [TITRE II : Recrutement.](titre-ii)
 - [TITRE III : Stage et titularisation.](titre-iii)
-- [TITRE IV : Reclassement lors de la titularisation.](titre-iv)
+- [TITRE IV : Classement.](titre-iv)
 - [TITRE  V : Avancement.](titre-v)
 - [TITRE VI : Dispositions diverses.](titre-vi)
 - [TITRE VII : Mesures transitoires.](titre-vii)

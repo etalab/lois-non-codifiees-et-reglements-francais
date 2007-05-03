@@ -1,5 +1,3 @@
 # Article 4
 
-Les ingénieurs en chef de police technique et scientifique responsables de service exercent leur autorité sur les membres du corps qui y sont affectés.
-
-Les fonctionnaires du corps des ingénieurs de police technique et scientifique peuvent se voir confier la responsabilité d'encadrer des personnels actifs, scientifiques, techniques et administratifs dans les services chargés de missions de police technique et scientifique.
+Les fonctionnaires du corps des ingénieurs de police technique et scientifique de la police nationale peuvent se voir confier la direction d'un service ou d'une unité chargés de missions de police technique et scientifique. Ils ont alors autorité sur tous les personnels actifs, scientifiques, techniques et administratifs affectés à ce service ou à cette unité.

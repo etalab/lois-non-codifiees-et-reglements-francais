@@ -2,7 +2,7 @@
 
 Les concours mentionnés au 1° de l'article 17 ci-dessus sont organisés dans les conditions suivantes :
 
-1° Des concours externes, sur titres et travaux, sont ouverts aux candidats titulaires de l'un des titres ou diplômes ci-après :
+1° Des concours externes, sur titres et travaux, éventuellement complétés d'une ou plusieurs épreuves, sont ouverts aux candidats titulaires de l'un des titres ou diplômes ci-après :
 
 Doctorat prévu à l'article L. 612-7 du code de l'éducation ;
 

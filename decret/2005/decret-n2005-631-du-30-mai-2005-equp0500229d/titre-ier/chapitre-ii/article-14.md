@@ -6,6 +6,4 @@ Les élèves ingénieurs des travaux publics de l'Etat mentionnés à l'alinéa 
 
 Les dispositions de l'alinéa précédent ne peuvent toutefois avoir pour effet d'assurer aux intéressés un traitement supérieur à celui auquel ils auraient droit s'ils étaient nommés dans le grade d'ingénieur des travaux publics de l'Etat en application de l'article 20.
 
-Les ingénieurs des travaux publics de l'Etat stagiaires perçoivent un traitement correspondant à l'indice afférent au 1er échelon du grade d'ingénieur des travaux publics de l'Etat.
-
-Toutefois, les ingénieurs des travaux publics de l'Etat stagiaires qui avaient, avant leur nomination en qualité d'élève ingénieur, la qualité de fonctionnaire ou d'agent non titulaire perçoivent pendant la durée du stage la rémunération correspondant à l'application des articles 20 à 24.
+Les ingénieurs des travaux publics de l'Etat stagiaires sont classés au 1er échelon du grade d'ingénieurs des travaux publics de l'Etat, sous réserve de l'application des dispositions de l'article 19.

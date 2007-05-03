@@ -23,3 +23,5 @@ b) Après inscription sur une liste d'aptitude établie après avis de la commis
 Lorsque le nombre de candidats reçus à l'examen professionnel est inférieur au nombre de postes offerts à ce titre, le nombre de candidats inscrits sur la liste d'aptitude peut être augmenté à due concurrence.
 
 Un arrêté du ministre chargé de l'industrie fixe le nombre des emplois offerts au recrutement au titre de l'examen professionnel et au titre de la liste d'aptitude.
+
+3° Le nombre de nominations susceptibles d'être prononcées au titre du 2° peut être calculé en appliquant une proportion d'un cinquième à 5 p. cent de l'effectif des fonctionnaires en position d'activité et de détachement dans le corps considéré au 31 décembre de l'année précédant celle au titre de laquelle sont prononcées les nominations, lorsque ce mode de calcul permet un nombre de nominations plus élevé que celui résultant de l'application des dispositions du 2°.

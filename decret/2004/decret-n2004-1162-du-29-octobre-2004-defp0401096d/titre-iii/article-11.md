@@ -8,6 +8,4 @@ Sous réserve de l'article 9, les agents non titulaires sont classés dans le gr
 
 3° Les services accomplis dans un emploi du niveau de la catégorie C sont retenus à raison des six seizièmes de leur durée excédant dix ans.
 
-Les agents non titulaires qui ont occupé antérieurement des emplois d'un niveau inférieur à celui qu'ils occupent au moment de leur nomination peuvent demander que leur ancienneté de service soit prise en compte dans les conditions fixées ci-dessus pour un emploi du niveau inférieur.
-
-Les dispositions qui précèdent ne peuvent avoir pour conséquence de placer les intéressés dans une situation plus favorable que celle qui résulterait d'un classement à un échelon comportant un traitement égal ou, à défaut, immédiatement supérieur à celui perçu dans l'ancien emploi avec conservation de l'ancienneté d'échelon dans la limite de l'ancienneté maximale de service exigée pour l'accès à l'échelon supérieur du grade.
+Les agents non titulaires qui ont occupé des fonctions de différents niveaux peuvent demander que la totalité de leur ancienneté de service soit prise en compte, dans les conditions fixées au présent article, comme si elle avait été accomplie dans les fonctions du niveau le moins élevé.

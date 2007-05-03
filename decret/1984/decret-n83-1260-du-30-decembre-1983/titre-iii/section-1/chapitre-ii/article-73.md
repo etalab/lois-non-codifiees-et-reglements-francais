@@ -1,5 +1,7 @@
 # Article 73
 
-Les agents nommés dans l'un des grades du corps des ingénieurs de recherche qui antérieurement à leur nomination dans ce corps n'avaient pas la qualité de fonctionnaire, sont classés dans les mêmes conditions que celles définies à L'article 27 ci dessus pour les chargés de recherche, sur la base des durées moyennes de service fixées à l'article 78.
+I. - Le classement des fonctionnaires de catégorie B est prononcé en appliquant les dispositions de l'article 4 du décret du 23 décembre 2006 susmentionné à la situation qui serait la leur si, préalablement à leur nomination en qualité d'ingénieur de recherche, ils avaient été nommés et classés, en application des dispositions de l'article 5 du même décret, dans un corps d'assistant ingénieur relevant du présent décret.
 
-La détermination du caractère équivalent des corps et des fonctions prévues au dernier alinéa de l'article 27 est effectuée par référence au corps des ingénieurs de recherche.
+II. - Pour le classement des lauréats des concours prévus aux articles 67 à 70, l'ancienneté acquise dans des services privés, dans des fonctions équivalentes à celles d'ingénieur de recherche, par les agents qui, antérieurement à leur nomination, n'avaient pas la qualité de fonctionnaire, est prise en compte à raison de la moitié jusqu'à douze ans et des deux tiers au-delà de douze ans.
+
+Les dispositions de l'alinéa qui précède sont cumulables avec celles de l'article 7 du décret du 23 décembre 2006 susmentionné.

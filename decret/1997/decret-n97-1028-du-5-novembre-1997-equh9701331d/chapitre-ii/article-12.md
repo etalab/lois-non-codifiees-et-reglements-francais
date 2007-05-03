@@ -4,7 +4,7 @@ Les candidats reçus aux concours sont nommés inspecteurs stagiaires par arrêt
 
 Toutefois, les candidats admis au concours externe ne sont nommés stagiaires qu'à partir de la date à laquelle ils justifient de la condition de diplôme. Ceux qui ne peuvent présenter au 31 décembre de l'année du concours l'un des diplômes exigés perdent le bénéfice de leur admission à ce concours.
 
-Les stagiaires qui avaient déjà la qualité de fonctionnaire ou d'agent non titulaire peuvent pendant la durée de leur stage opter pour le traitement indiciaire correspondant à leur situation antérieure. Cette disposition ne peut, toutefois, avoir pour effet d'assurer aux intéressés un traitement supérieur à celui auquel ils auraient droit s'ils étaient reclassés en application des articles 16 à 22 ci-après.
+Les stagiaires sont classés à l'échelon d'inspecteur stagiaire sous réserve de l'application des dispositions de l'article 16.
 
 Les stagiaires qui proviennent de la marine marchande peuvent, sur leur demande, rester affiliés à l'établissement national des invalides de la marine pour la durée du stage.
 

@@ -1,3 +1,3 @@
 # Article 86
 
-Les fonctionnaires nommés dans le grade d'ingénieur d'études de 2e classe sont classés dans les mêmes conditions que celles prévues à l'article 25 pour les chargés de recherche, sur la base des durées moyennes de service fixées à l'article 91.
+Les ingénieurs d'études sont classés conformément aux dispositions de l'article 87 du présent décret et des articles 2 à 8 et 10 à 12 du décret du 23 décembre 2006 mentionné à l'article 72.

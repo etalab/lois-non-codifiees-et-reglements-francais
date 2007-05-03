@@ -2,7 +2,7 @@
 
 Les attachés économiques sont recrutés par la voie de deux concours distincts :
 
-1° Le concours externe est ouvert aux candidats titulaires de l'un des titres ou diplômes exigés pour se présenter au concours externe d'accès aux instituts régionaux d'administration, ou susceptibles d'en justifier la possession au 31 décembre de l'année du concours.
+1° Le concours externe est ouvert aux candidats titulaires de l'un des titres, diplômes ou qualifications exigés pour se présenter au concours externe d'accès aux instituts régionaux d'administration ou susceptibles d'en justifier la possession au 31 décembre de l'année du concours ;
 
 Le concours est ouvert aux candidats titulaires d'un diplôme délivré dans un des Etats membres de la Communauté européenne et dont l'assimilation avec un diplôme de deuxième cycle de l'enseignement supérieur pour l'application du présent décret aura été reconnue par la commission prévue par le décret n° 94-741 du 30 août 1994 relatif à l'assimilation, pour l'accès aux concours de la fonction publique de l'Etat, des diplômes délivrés dans d'autres Etats membres de la Communauté européenne.
 

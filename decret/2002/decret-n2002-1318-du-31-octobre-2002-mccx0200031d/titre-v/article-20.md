@@ -1,0 +1,3 @@
+# Article 20
+
+Les agents détachés dans le corps des inspecteurs de la création et des enseignements artistiques à la date de publication du présent décret sont maintenus dans cette position jusqu'à l'expiration de leur période de détachement. Ils peuvent, à l'issue de cette période, demander le renouvellement de leur détachement, sans que puissent leur être opposées les conditions figurant au premier alinéa de l'article 17 du présent décret. Ils peuvent demander leur intégration dans le nouveau corps des inspecteurs et conseillers de la création, des enseignements artistiques et de l'action culturelle dans les conditions définies à l'article 18.

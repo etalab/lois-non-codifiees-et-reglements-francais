@@ -1,5 +1,5 @@
 # Article 7
 
-Les médecins de l'éducation nationale stagiaires perçoivent, pendant la durée de leur stage, la rémunération afférente au 1er échelon du grade de médecin de l'éducation nationale de 2e classe.
+Les médecins de l'éducation nationale stagiaires sont classés, lors de leur nomination en application des articles 8-1 à 10-2, à un échelon du grade de médecin de l'éducation nationale de 2e classe déterminé sur la base des durées moyennes du temps passé dans chaque échelon fixées à l'article 12.
 
-Les médecins de l'éducation nationale stagiaires qui avaient précédemment la qualité de titulaire sont placés en position de détachement dans leur corps, cadre d'emplois ou emploi d'origine. Ils peuvent opter entre le traitement afférent au 1er échelon du grade de médecin de l'éducation nationale de 2e classe et le traitement indiciaire auquel ils avaient droit dans leur situation d'origine. Cette disposition ne peut toutefois avoir pour effet de placer les intéressés dans une situation plus favorable que celle qui résulterait de leur classement en application des dispositions de l'article 9 ci-dessous.
+Ceux d'entre eux qui avaient précédemment la qualité de fonctionnaire titulaire sont placés par leur administration en position de détachement pendant la durée du stage.

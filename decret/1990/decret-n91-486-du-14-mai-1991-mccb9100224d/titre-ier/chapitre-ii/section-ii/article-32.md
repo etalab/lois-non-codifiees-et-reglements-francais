@@ -1,3 +1,3 @@
 # Article 32
 
-Les fonctionnaires nommés dans le grade d'ingénieur d'études de 2e classe sont classés dans les mêmes conditions que celles prévues à l'article 19 pour les ingénieurs de recherche sur la base des durées moyennes de service fixées à l'article 36 ci-après.
+Les ingénieurs d'études sont classés lors de leur nomination en application des dispositions de l'article 33 et des articles 2 à 8 et 10 à 12 du décret du 23 décembre 2006 mentionné à l'article 19.

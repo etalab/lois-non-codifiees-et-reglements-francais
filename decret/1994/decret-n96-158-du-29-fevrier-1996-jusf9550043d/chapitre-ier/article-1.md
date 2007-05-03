@@ -7,5 +7,3 @@ Ce corps comporte les deux grades suivants :
 - le grade de psychologue de classe normale divisé en onze échelons ;
 
 - le grade de psychologue hors classe divisé en six échelons.
-
-Les effectifs du grade de psychologue hors classe sont fixés à 15 p. 100 de l'effectif total du corps.

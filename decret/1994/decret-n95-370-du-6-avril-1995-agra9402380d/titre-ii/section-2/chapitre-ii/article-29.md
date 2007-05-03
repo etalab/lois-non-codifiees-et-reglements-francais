@@ -2,7 +2,7 @@
 
 Les concours mentionnés au 1° de l'article 28 ci-dessus sont organisés dans les conditions précisées ci-après :
 
-1° Des concours externes sur titres et travaux sont ouverts aux candidats titulaires soit de l'un des titres d'ingénieur reconnus par l'Etat autres que ceux exigés pour l'accès au corps des ingénieurs de recherche, soit de l'un des diplômes suivants :
+1° Des concours externes sur titres et travaux, éventuellement complétés d'une ou plusieurs épreuves, sont ouverts aux candidats titulaires soit de l'un des titres d'ingénieur reconnus par l'Etat autres que ceux exigés pour l'accès au corps des ingénieurs de recherche, soit de l'un des diplômes suivants :
 
 Diplôme d'études approfondies ;
 
@@ -28,11 +28,11 @@ Diplôme délivré par un établissement d'enseignement supérieur public ou pri
 
 Ces concours sont également ouverts :
 
-- aux candidats titulaires d'un diplôme du niveau II ;
+-aux candidats titulaires d'un diplôme du niveau II ;
 
-- aux candidats titulaires d'un titre universitaire étranger jugé équivalent, pour l'application du présent décret, à l'un des diplômes mentionnés ci-dessus, par la commission prévue à l'article 18 ci-dessus ;
+-aux candidats titulaires d'un titre universitaire étranger jugé équivalent, pour l'application du présent décret, à l'un des diplômes mentionnés ci-dessus, par la commission prévue à l'article 18 ci-dessus ;
 
-- aux candidats justifiant qu'ils possèdent une qualification professionnelle considérée par la commission prévue à l'article 18 ci-dessus comme équivalente à un diplôme d'ingénieur.
+-aux candidats justifiant qu'ils possèdent une qualification professionnelle considérée comme équivalente à un diplôme d'ingénieur par la commission prévue à l'article 18 qui, à cet effet, peut prendre l'avis d'experts figurant sur la liste prévue à l'article 76 ;
 
 2° Des concours internes sont ouverts :
 
@@ -42,11 +42,11 @@ b) Aux fonctionnaires régis par des statuts particuliers pris en application du
 
 c) Aux fonctionnaires appartenant à un corps dont l'échelonnement indiciaire est équivalent à celui d'un corps de catégorie B et remplissant les conditions de services fixées au a ;
 
-d) Aux agents non titulaires assurant des fonctions du niveau de la catégorie A ou B, dotés d'une rémunération au moins équivalente à celle des corps mentionnés au a  et remplissant les mêmes conditions de services ;
+d) Aux agents non titulaires assurant des fonctions du niveau de la catégorie A ou B, dotés d'une rémunération au moins équivalente à celle des corps mentionnés au a et remplissant les mêmes conditions de services ;
 
 Un agent ayant appartenu successivement à différents corps ou catégories mentionnées aux a, b, c et d est considéré comme satisfaisant aux conditions de durée de services mentionnées au a dès lors qu'il les remplirait s'il était demeuré dans son corps ou sa catégorie d'origine.
 
-3° Des troisièmes concours, sur titres et travaux, sont ouverts aux candidats qui justifient, au 1er septembre de l'année du concours, de l'exercice durant quatre ans au moins, d'une ou plusieurs des activités ou d'un ou plusieurs des mandats mentionnés au 3° de l'article 19 de la loi du 11 janvier 1984 susvisée ;
+3° Des troisièmes concours, sur titres et travaux, éventuellement complétés d'une ou plusieurs épreuves, sont ouverts aux candidats qui justifient, au 1er septembre de l'année du concours, de l'exercice durant quatre ans au moins, d'une ou plusieurs des activités ou d'un ou plusieurs des mandats mentionnés au 3° de l'article 19 de la loi du 11 janvier 1984 susvisée ;
 
 Les activités professionnelles prises en compte doivent avoir été exercées dans le domaine de l'éducation, de la formation ou de la recherche ;
 

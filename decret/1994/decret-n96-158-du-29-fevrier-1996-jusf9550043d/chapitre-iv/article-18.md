@@ -1,6 +1,6 @@
 # Article 18
 
-Peuvent être détachés dans le corps des psychologues de la protection judiciaire de la jeunesse les fonctionnaires de l'Etat, des collectivités territoriales et des établissements publics qui en dépendent, qui appartiennent à un corps, cadre d'emplois ou emploi classé dans la même catégorie et justifiant de l'un des titres ou diplômes requis pour pouvoir se présenter aux concours d'accès au corps régi par le présent décret.
+Peuvent être détachés dans le corps des psychologues de la protection judiciaire de la jeunesse les fonctionnaires de l'Etat, des collectivités territoriales et des établissements publics qui en dépendent, qui appartiennent à un corps, cadre d'emplois ou emploi classé dans la même catégorie et justifiant des conditions requises pour pouvoir se présenter aux concours d'accès au corps régi par le présent décret.
 
 Ils sont classés à équivalence de grade à un échelon comportant un indice égal ou à défaut immédiatement supérieur avec conservation de l'ancienneté acquise dans les conditions définies ci-après.
 

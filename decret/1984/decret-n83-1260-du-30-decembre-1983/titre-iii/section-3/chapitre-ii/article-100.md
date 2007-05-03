@@ -1,5 +1,5 @@
 # Article 100
 
-Les agents nommés dans le corps des assistants ingénieurs qui antérieurement à leur nomination dans ce corps n'avaient pas la qualité de fonctionnaire sont classés dans les mêmes conditions que celles définies à l'article 27 ci dessus pour les chargés de recherche sur la base des durées de service fixées à l'article 102.
+Pour le classement des lauréats des concours prévus à l'article 95, l'ancienneté acquise dans des services privés, dans des fonctions équivalentes à celles d'assistant ingénieur, par les agents qui, antérieurement à leur nomination, n'avaient pas la qualité de fonctionnaire est prise en compte à raison de la moitié jusqu'à douze ans et des deux tiers au-delà de douze ans.
 
-La détermination du caractère équivalent des corps et des fonctions prévues au dernier alinéa de l'article 27 est effectuée par référence au corps des assistants ingénieurs.
+Les dispositions de l'alinéa qui précède sont cumulables avec celles de l'article 7 du décret du 23 décembre 2006 susmentionné.

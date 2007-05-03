@@ -1,3 +1,3 @@
 # Article 9
 
-Les chefs de service éducatif recrutés au choix sont nommés chefs de service éducatif et classés dans les conditions fixées à l'article 8 ci-dessus.
+Les chefs de service éducatif recrutés au choix sont titularisés dès leur nomination et classés dans les conditions définies à l'article 8.

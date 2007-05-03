@@ -1,5 +1,7 @@
 # Article 87
 
-Les agents nommés dans le grade d'ingénieur d'études de 2e classe qui, antérieurement à leur nomination dans ce corps, n'avaient pas la qualité de fonctionnaire sont classés dans les mêmes conditions que celles définies à l'article 27 ci dessus, pour les chargés de recherche, sur la base des durées de service fixées à l'article 91.
+I. - Le classement des fonctionnaires de catégorie B est prononcé en appliquant les dispositions de l'article 4 du décret du 23 décembre 2006 susmentionné à la situation qui serait la leur si, préalablement à leur nomination en qualité d'ingénieur d'études, ils avaient été nommés et classés, en application des dispositions de l'article 5 du même décret, dans un corps d'assistants-ingénieurs relevant du présent décret.
 
-La détermination du caractère équivalent des corps et des fonctions prévus au dernier alinéa de l'article 27 est effectuée par référence au corps des ingénieurs d'études.
+II. - Pour le classement des lauréats des concours prévus à l'article 82, l'ancienneté acquise dans des services privés, dans des fonctions équivalentes à celles d'ingénieur d'études, par les agents qui, antérieurement à leur nomination, n'avaient pas la qualité de fonctionnaire, est prise en compte à raison de la moitié jusqu'à douze ans et des deux tiers au-delà de douze ans.
+
+Les dispositions de l'alinéa qui précède sont cumulables avec celles de l'article 7 du décret du 23 décembre 2006 susmentionné.

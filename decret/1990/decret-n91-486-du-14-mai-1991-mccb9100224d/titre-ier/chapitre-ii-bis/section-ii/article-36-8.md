@@ -1,3 +1,3 @@
 # Article 36-8
 
-Les fonctionnaires nommés dans le corps des assistants ingénieurs sont classés dans les mêmes conditions que celles prévues à l'article 19 ci-dessus du présent décret pour les ingénieurs de recherche, sur la base des durées moyennes de service fixées à l'article 36-10.
+Les assistants ingénieurs sont classés lors de leur nomination en application des dispositions de l'article 36-9 et des articles 2 à 8 et 10 à 12 du décret du 23 décembre 2006 mentionné à l'article 19.

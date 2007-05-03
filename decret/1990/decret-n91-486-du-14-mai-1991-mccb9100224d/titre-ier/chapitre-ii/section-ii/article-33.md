@@ -1,5 +1,5 @@
 # Article 33
 
-Les agents nommés dans le grade d'ingénieur d'études de 2e classe qui, antérieurement à leur nomination dans ce corps, n'avaient pas la qualité de fonctionnaire sont classés dans les mêmes conditions que celles définies à l'article 20 ci-dessus pour les ingénieurs de recherche, sur la base des durées de service fixées à l'article 36 ci-après.
+I.-Le classement des fonctionnaires de catégorie B est prononcé en appliquant les dispositions de l'article 4 du décret du 23 décembre 2006 susmentionné à la situation qui serait la leur si, préalablement à leur nomination en qualité d'ingénieur d'études, ils avaient été nommés et classés, en application des dispositions de l'article 5 du même décret, dans le corps d'assistants ingénieurs relevant du présent décret.
 
-L'ancienneté acquise dans des services privés, mentionnée au dernier alinéa de l'article 20, s'effectue par référence aux fonctions équivalentes à celles des ingénieurs d'études.
+II.-L'ancienneté acquise dans des services privés, dans des fonctions équivalentes à celles des ingénieurs d'études, est prise en compte dans les mêmes conditions que celles prévues au II de l'article 20 pour les ingénieurs de recherche.

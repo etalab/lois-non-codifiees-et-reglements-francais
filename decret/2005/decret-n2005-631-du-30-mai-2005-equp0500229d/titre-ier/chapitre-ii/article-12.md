@@ -14,6 +14,8 @@ Les postes non pourvus à l'un des trois concours peuvent être reportés sur l'
 
 II. - Le nombre des emplois offerts au recrutement au titre de l'examen professionnel et de la liste d'aptitude prévus au 3° et au 4° de l'article 5 est égal au tiers du nombre de fonctionnaires nommés dans le corps des ingénieurs des travaux publics de l'Etat à la suite de leur réussite à l'un des concours mentionnés au I et du nombre de fonctionnaires détachés dans ce corps pour une période de longue durée.
 
+Le nombre de postes offerts chaque année au titre de la promotion interne peut être calculé en appliquant une proportion maximale d'un cinquième à 5 % de l'effectif des fonctionnaires en position d'activité et de détachement dans le corps des ingénieurs des travaux publics de l'Etat au 31 décembre de l'année précédant celle au titre de laquelle sont prononcées les nominations, lorsque ce mode de calcul permet un nombre de nominations plus élevé que celui résultant de l'application de l'alinéa précédent.
+
 Lorsque le nombre de candidats reçus à l'examen professionnel est inférieur au nombre de postes offerts à ce titre, le nombre de candidats inscrits sur la liste d'aptitude peut être augmenté à due concurrence.
 
 Un arrêté du ministre chargé de l'équipement fixe le nombre des emplois offerts au recrutement au titre de l'examen professionnel et au titre de la liste d'aptitude.

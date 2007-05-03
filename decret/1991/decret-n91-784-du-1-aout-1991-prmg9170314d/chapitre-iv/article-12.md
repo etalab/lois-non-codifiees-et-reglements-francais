@@ -1,3 +1,3 @@
 # Article 12
 
-Peuvent seuls être détachés dans l'un des corps régis par le présent décret les membres des corps ou cadres d'emplois ou titulaires d'un emploi remplissant les conditions prévues par l'article 218 du code de la famille et de l'aide sociale pour avoir droit au titre et pouvoir exercer l'activité d'assistant de service social et dont l'indice est au moins égal à l'indice brut 481.
+Peuvent seuls être détachés dans les corps régis par le présent décret les fonctionnaires appartenant à un corps ou cadre d'emplois classé dans la même catégorie, exerçant des fonctions équivalentes à celles des conseillers techniques de service social et remplissant les conditions prévues par les articles L. 411-1 et L. 411-2 du code de l'action sociale et des familles.

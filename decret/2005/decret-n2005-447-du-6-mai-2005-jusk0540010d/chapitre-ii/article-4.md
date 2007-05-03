@@ -8,4 +8,4 @@ a) Les chefs des services d'insertion et de probation parvenus au moins au 4e é
 
 b) Les conseillers techniques de service social parvenus au moins au 4e échelon de leur grade et justifiant d'au moins dix ans de services effectifs dans les corps d'assistant de service social ou de conseiller technique de service social du ministère de la justice.
 
-Lorsque l'application de cette disposition ne permet aucune nomination, le nombre de postes offerts chaque année à ce titre est calculé en appliquant la proportion du sixième des nominations à 3,5 % de l'effectif du corps au 1er janvier de l'année au titre de laquelle sont prononcées les nominations.
+La proportion d'un cinquième peut être appliquée à 5 % de l'effectif des fonctionnaires en position d'activité et de détachement dans le corps régi par le présent décret au 31 décembre de l'année précédant celle au titre de laquelle sont prononcées les nominations lorsque ce mode de calcul permet un nombre de nominations plus élevé que celui résultant de l'application des alinéas précédents.

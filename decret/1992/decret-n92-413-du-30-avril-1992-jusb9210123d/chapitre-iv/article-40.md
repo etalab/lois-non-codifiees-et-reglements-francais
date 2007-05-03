@@ -8,4 +8,4 @@ Les greffiers en chef affectés dans les conseils de prud'hommes sont notés par
 
 Ce dernier est noté par les chefs de la cour d'appel sur proposition des chefs du tribunal de grande instance dans le ressort duquel se trouve le conseil de prud'hommes.
 
-La procédure de notation comporte un entretien d'évaluation avec l'intéressé préalable à l'établissement de la fiche de notation prévue par les dispositions de l'article 3 du décret n° 59-308 du 14 février 1959 relatif aux conditions générales de notation et d'avancement des fonctionnaires.
+La procédure de notation comporte un entretien d'évaluation avec l'intéressé préalable à l'établissement de la fiche de notation prévue par les dispositions de l'article 3 du décret n° 2002-682 du 29 avril 2002 relatif aux conditions générales d'évaluation, de notation et d'avancement des fonctionnaires.

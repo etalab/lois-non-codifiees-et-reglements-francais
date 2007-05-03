@@ -1,3 +1,3 @@
 # Article 28
 
-Les fonctionnaires nommés dans le grade d'ingénieur d'études de 2° classe sont classés dans les mêmes conditions que celles prévues à l'article 18 pour les ingénieurs de recherche, sur la base des durées moyennes de services fixées à l'article 31.
+Les ingénieurs d'études sont classés conformément aux dispositions de l'article 29 et des articles 2 à 8 et 10 à 12 du décret du 23 décembre 2006 mentionné à l'article 18.
