@@ -5,4 +5,3 @@
 - [Section 3 : Dispositions statutaires relatives au corps des assistants ingénieurs](section-3)
 - [Section 4 : Dispositions statutaires relatives au corps des techniciens de formation et de recherche](section-4)
 - [Section 5 : Dispositions statutaires relatives au corps des adjoints techniques de formation et de recherche](section-5)
-- [Section 6 : Dispositions statutaires relatives au corps des agents techniques de formation et de recherche](section-6)
