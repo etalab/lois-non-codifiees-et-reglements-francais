@@ -78,7 +78,7 @@ b) Equipements d'emport, de largage ou de lancement de bombes, grenades, torpill
 
 c) Matériels de transmission et de télécommunication destinés aux besoins militaires ou à la mise en oeuvre des forces ; matériels de contre mesures électroniques.
 
-d) Moyens de cryptologie : matériels ou logiciels permettant la transformation à l'aide de conventions secrètes des informations ou signaux clairs en informations ou signaux inintelligibles pour des tiers ou réalisant l'opération inverse lorsqu'ils sont spécialement conçus ou modifiés pour permettre ou faciliter l'utilisation ou la mise en oeuvre des armes.
+d) Moyens de cryptologie : matériels ou logiciels permettant la transformation à l'aide de conventions secrètes des informations ou signaux clairs en informations ou signaux inintelligibles pour des tiers ou réalisant l'opération inverse lorsqu'ils sont spécialement conçus ou modifiés pour porter, utiliser ou mettre en oeuvre les armes, soutenir ou mettre en oeuvre les forces armées, ainsi que ceux spécialement conçus ou modifiés pour le compte du ministère de la défense en vue de protéger les secrets de la défense nationale.
 
 e) Equipements de brouillage, leurres et leurs systèmes de lancement.
 

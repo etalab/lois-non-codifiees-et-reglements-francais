@@ -1,0 +1,3 @@
+# Article 4
+
+Le dossier de sécurité est mis à jour chaque année, à l'exception de l'étude prévisionnelle du trafic, des pièces justifiant les dispositifs particuliers prévus pour le transport des marchandises dangereuses et de l'étude spécifique de dangers. Les mises à jour tiennent notamment compte des enseignements tirés des exercices organisés en application de l'article R. 118-3-8 du code de la voirie routière et des incidents ou accidents survenus dans le tunnel ainsi que des modifications survenues dans les modalités d'exploitation de l'ouvrage ou dans l'organisation des différents services.
