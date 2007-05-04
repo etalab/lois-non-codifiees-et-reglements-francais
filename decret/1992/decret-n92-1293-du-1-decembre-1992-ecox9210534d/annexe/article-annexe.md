@@ -1,161 +1,123 @@
-# Article ANNEXE
+# Article Annexe
 
-FONCTIONS EXERCÉES OUVRANT DROIT AU VERSEMENT D'UNE NOUVELLE BONIFICATION INDICIAIRE À LA CAISSE DES DÉPÔTS ET CONSIGNATIONS POUR LES SEPT TRANCHES
+**FONCTIONS EXERCÉES OUVRANT DROIT AU VERSEMENT D'UNE NOUVELLE BONIFICATION INDICIAIRE À LA CAISSE DES DÉPOTS ET CONSIGNATIONS**
 
-Responsable de la gestion statutaire et/ou des affaires générales d'une direction ou d'un département ;
-
-Assistant marketing ;
-
-Gestionnaire de clientèle ;
-
-Développeur d'applications sur Info Service ;
+Actuaire responsable de l'unité inventaire du portefeuille de la CNP Assurances ;
 
 Agent assurant, par délégation d'un chef d'unité, la gestion d'un secteur d'activité comportant une technicité particulièrement étendue en termes de connaissance bancaire ou des marchés financiers ;
 
-Opérateur de marchés ;
+Agent ayant un pouvoir de décision, d'animation et de coordination du niveau d'un responsable d'unité ou assistant d'un chef de service ;
 
-Gestionnaire de transferts de prêts ;
+Animateur de groupe ;
 
-Chargé de clientèle exerçant des responsabilités particulières dans le domaine commercial ou financier ;
-
-Technicien d'actuariat informatique ;
-
-Comptable responsable d'un service opérationnel (S.O.P.) important ;
-
-Comptable de production bancaire ou d'opérations fournisseurs au niveau d'une direction ;
-
-Gestionnaire de plusieurs systèmes d'information ;
-
-Assistant de direction ;
+Analyste financier ;
 
 Assistant de contrôle budgétaire et/ou de gestion pour une direction, un département, un site, ou chargé d'une responsabilité fonctionnelle particulière ;
 
-Responsable de la gestion des indemnités de caractère social et
+Assistant de direction ;
 
-culturel au niveau fédéral ;
+Assistant de gestion statutaire et/ou financière et/ou de formation des personnels au niveau d'une branche ou au niveau fédéral ;
 
-Conducteur d'opérations B.T.P. (site parisien) ;
+Assistant juridique et fiscal au niveau fédéral ou au niveau d'une direction ;
 
-Responsable Exploitation transport ;
+Assistant marketing ;
 
-Gestionnaire expert ;
+Chargé de clientèle exerçant des responsabilités particulières dans le domaine commercial ou financier ;
 
-Gestionnaire logistique polyvalent ;
+Chargé d'études et de coordination ;
 
-Responsable de la réglementation paie.
+Chargé d'études financières et/ou analyste de contreparties ;
 
-Chargé de gestion statutaire ou financière au niveau fédéral dans le domaine administratif ou informatique.
+Chargé d'étude pour l'établissement du bilan social du Groupe ;
 
-Secrétaire du conseil d'administration de la Caisse nationale de retraite des agents des collectivités locales (C.N.R.A.C.L.) ;
+Chargé de gestion statutaire ou financière au niveau fédéral dans le domaine administratif ou informatique ;
 
-Analyste de presse ;
-
-Gestionnaire du service intérim interne au niveau fédéral ;
-
-Responsable de la gestion de l'encouragement à la prévoyance individuelle (E.P.I.) au niveau fédéral ;
-
-Responsable du contentieux et des affaires générales au sein d'une unité administrative chargée de la gestion d'un fonds de la branche Caisse de retraites de Bordeaux (B.C.R.B.) ;
-
-Développeur micro-informatique pour le réseau habitat de l'ensemble des directions régionales et pour le reseau équipement ;
-
-Responsable de l'unité chargée de la gestion du fonds d'action sociale de la Caisse nationale de retraite des agents des collectivités locales ;
-
-Chef de projet utilisateur ;
-
-Assistant de gestion de portefeuille des fonds d'épargne ;
+Chargé de la communication d'un département ou d'une direction ;
 
 Chargé de production bancaire ;
 
 Chargé du recrutement et/ou des carrières et/ou de la mobilité et/ou d'orientation professionnelle au niveau fédéral ou au niveau d'une direction ;
 
-Technicien de maintenance des installations de climatisation et de chauffage (site parisien) ou du dispositif téléphonique (site bordelais) ;
-
-Responsable de l'antenne de la branche Caisses de retraites de Bordeaux à La Rochelle pour le fonds spécial des pensions des ouvriers des établissements industriels de l'Etat (F.S.P.O.E.I.E.);
-
-Documentaliste spécialisée au niveau fédéral ou au niveau d'une direction ;
-
-Responsable de la communication du département des marchés ;
-
-Responsable du guichet de la C.N.P. Assurances ;
-
-Responsable comptable au sein du service de production bancaire ou au sein du service comptable de la Caisse nationale de retraite des agents des collectivités locales ;
-
-Assistant juridique et fiscal au niveau fédéral ou au niveau d'une direction ;
-
-Chargé de la communication d'un département ou d'une direction ;
-
-Technicien de production bancaire exerçant des responsabilités particulières dans les évolutions "systèmes" ;
-
-Responsable de la fonction correspondant informatique ou de la fonction correspondant réseau ou de la coordination des projets informatiques au sein de la branche Caisses de retraites de Bordeaux ;
-
-A COMPTER DU 1ER AOÛT 1997, SONT RAJOUTES LES EMPLOIS SUIVANTS :
-
-Actuaire responsable de l'unité inventaire du portefeuille de la CNP Assurances ;
-
-juriste de contentieux au niveau fédéral ou au niveau d'une direction ;
-
-Contrôleur de gestion de plusieurs filiales CNP Assurances ;
-
-Technicien des opérations post-marché ou d'opérations bancaires et/ou financières sur secteurs prioritaires ;
-
-A COMPTER DU 1ER AOÛT 1998, SONT AJOUTES LES EMPLOIS SUIVANTS :
-
-chef d'unité opérationnelle ou fonctionnelle dans le domaine des assurances ou responsable du service aux assurés B ;
-
-agent ayant un pouvoir de décision, d'animation et de coordination du niveau d'un responsable d'unité ou assistant d'un chef de service ;
-
-A COMPTER DU 1ER AOÛT 1999, SONT AJOUTES LES EMPLOIS SUIVANTS :
-
-Directeur de centre de loisirs ;
-
-Responsable audiovisuel.
-
-A COMPTER DU 1ER AOÛT 2000, SONT AJOUTES LES EMPLOIS SUIVANTS :
-
-Responsable de l'exploitation d'un restaurant de l'Association de gestion des restaurants (AGR) ou d'une société de vente et de diffusion.
-
-A COMPTER DU 1ER AOÛT 2001, SONT AJOUTES LES EMPLOIS SUIVANTS :
-
-Responsable du budget et/ou du contrôle de gestion et/ou des moyens généraux et/ou du service du personnel et/ou du contentieux d'une direction et/ou responsable recrutement carrières à la CNP Assurances ;
-
-Responsable du secteur des affaires générales ou directeurs administratifs adjoints du comité social d'établissement ;
-
-Responsable de l'accueil téléphonique ou gestionnaire de l'autocommutateur à la branche caisses de retraites de Bordeaux et/ou responsable du standard de Paris ;
-
-Responsable d'un secteur d'activité comportant une technicité et une responsabilité particulière dans le domaine bancaire et/ou dans le domaine des prestations de service.
-
-A COMPTER DU 1ER AOUT 2002, SONT AJOUTES LES EMPLOIS SUIVANTS :
-
-- chargé d'études financières et/ou analyste de contreparties ;
-
-- assistant de gestion statutaire et/ou financière et/ou de for tion des personnels au niveau d'une branche ou au niveau fédéral ;
-
-- chargé d'étude pour l'établissement du bilan social du Groupe ;
-
-- responsable d'une unité de gestion ou de production de contrats d'assurance ;
-
-- chargé d'études et de coordination ;
-
-- analyste financier ;
-
-- animateur de groupe.
-
-A COMPTER DU 1ER AOÛT 2002, SONT SUPPRIMES LES EMPLOIS SUIVANTS :
-
-Responsable de l'exploitation d'un restaurant de l'Association de gestion des restaurants (AGR) ou d'une société de vente et de diffusion.
-
-A COMPTER DU 1ER AOÛT 2003, SONT SUPPRIMES LES EMPLOIS SUIVANTS :
-
-Directeur de centre de loisirs ;
+Chef de projet ;
 
 Chef de projet utilisateur ;
 
-Responsable de l'antenne de la branche caisses de retraites de Bordeaux à La Rochelle pour le fonds spécial des pensions des ouvriers des établissements industriels de l'Etat (FSPOEIE) ;
+Chef d'unité opérationnelle ou fonctionnelle dans le domaine des assurances ou responsable du service aux assurés B ;
 
-Chargé de production bancaire ;
+Comptable de production bancaire ou d'opérations fournisseurs au niveau d'une direction ;
 
-Responsable du guichet de la CNP Assurances.
+Comptable responsable d'un service opérationnel (SOP) important ;
 
-A COMPTER DU 1ER AOÛT 2004, EST SUPPRIME L'EMPLOI SUIVANT :
+Conducteur d'opérations BTP (site parisien) ;
 
-Responsable comptable au sein du service de production bancaire ou au sein du service comptable de la Caisse nationale de retraite des agents des collectivités locales.
+Développeur d'applications sur Info Service ;
+
+Développeur micro-informatique pour le réseau habitat de l'ensemble des directions régionales et pour le réseau équipement ;
+
+Directeur de centre de loisirs ;
+
+Documentaliste spécialisée au niveau fédéral ou au niveau d'une direction ;
+
+Gestionnaire de clientèle ;
+
+Gestionnaire de plusieurs systèmes d'information ;
+
+Gestionnaire de transferts de prêts ;
+
+Gestionnaire du service intérim interne au niveau fédéral ;
+
+Gestionnaire expert ;
+
+Gestionnaire logistique polyvalent ;
+
+Juriste de contentieux au niveau fédéral ou au niveau d'une direction ;
+
+Opérateur de marchés ;
+
+Responsable audiovisuel ;
+
+Responsable comptable au sein du service de production bancaire ou au sein du service comptable de la Caisse nationale de retraite des agents des collectivités locales ;
+
+Responsable d'un secteur d'activité comportant une technicité et une responsabilité particulière dans le domaine bancaire et/ou dans le domaine des prestations de service
+
+Responsable de l'accueil téléphonique ou gestionnaire de l'autocommutateur à la branche caisses de retraites de Bordeaux et/ou responsable du standard de Paris
+
+Responsable de l'exploitation d'un restaurant de l'Association de gestion des restaurants (AGR) ou d'une société de vente et de diffusion.
+
+Responsable de la fonction correspondant informatique ou de la fonction correspondant réseau ou de la coordination des projets informatiques au sein de la branche Caisses de retraites de Bordeaux ;
+
+Responsable de la gestion de l'encouragement à la prévoyance individuelle (EPI) au niveau fédéral ;
+
+Responsable de la gestion des indemnités de caractère social et culturel au niveau fédéral ;
+
+Responsable de la gestion statutaire et/ou des affaires générales d'une direction ou d'un département ;
+
+Responsable de la réglementation paie ;
+
+Responsable de l'antenne de la branche Caisses de retraites de Bordeaux à La Rochelle pour le fonds spécial des pensions des ouvriers des établissements industriels de l'Etat (FSPOEIE) ;
+
+Responsable du budget et/ou du contrôle de gestion et/ou des moyens généraux et/ou du service du personnel et/ou du contentieux d'une direction et/ou responsable recrutement carrières à la CNP Assurances
+
+Responsable du contentieux et des affaires générales au sein d'une unité administrative chargée de la gestion d'un fonds de la branche Caisse de retraites de Bordeaux (BCRB) ;
+
+Responsable du guichet de la CNP Assurances ;
+
+Responsable d'une unité de gestion ou de production de contrats d'assurance ;
+
+Responsable du secteur des affaires générales ou directeurs administratifs adjoints du comité social d'établissement
+
+Responsable Exploitation transport ;
+
+Secrétaire du conseil d'administration de la Caisse nationale de retraite des agents des collectivités locales (CNRACL) ;
+
+Secrétaire du conseil d'administration de l'Etablissement de retraite additionnelle de la fonction publique (ERAFP) ;
+
+Secrétaire du conseil d'administration de l'Institution de retraite complémentaire des agents non titulaires de l'Etat et des collectivités publiques (IRCANTEC) ;
+
+Technicien d'actuariat informatique ;
+
+Technicien de maintenance des installations de climatisation et de chauffage (site parisien) ou du dispositif téléphonique (site bordelais) ;
+
+Technicien de production bancaire exerçant des responsabilités particulières dans les évolutions systèmes ;
+
+Technicien des opérations post-marché ou d'opérations bancaires et/ou financières sur secteurs prioritaires.
