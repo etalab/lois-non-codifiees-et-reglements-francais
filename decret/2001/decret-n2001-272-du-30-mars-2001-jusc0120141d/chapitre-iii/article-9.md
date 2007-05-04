@@ -1,6 +1,6 @@
 # Article 9
 
-I. - Au titre de la déclaration de fourniture de prestations de cryptologie effectuée conformément aux dispositions de l'article 28 de la loi du 29 décembre 1990 susvisée, le prestataire de services de certification électronique doit, quand il entend délivrer des certificats électroniques qualifiés, l'indiquer.
+I. - Au titre de la déclaration de fourniture de prestations de cryptologie effectuée conformément aux dispositions de l'article 31 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique, le prestataire de services de certification électronique doit, quand il entend délivrer des certificats électroniques qualifiés, l'indiquer.
 
 II. - Le contrôle des prestataires visés au I est effectué par la direction centrale de la sécurité des systèmes d'information.
 
