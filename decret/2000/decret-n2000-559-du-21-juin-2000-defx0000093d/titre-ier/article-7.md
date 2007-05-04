@@ -2,13 +2,9 @@
 
 Les services de l'armée de terre sont :
 
-1° (Abrogé)
+1° Le matériel de l'armée de terre ;
 
-2° Les télécommunications et l'informatique de l'armée de terre ;
-
-3° Le matériel de l'armée de terre ;
-
-4° Le commissariat de l'armée de terre.
+2° Le commissariat de l'armée de terre.
 
 Leurs attributions sont fixées par décret.
 
