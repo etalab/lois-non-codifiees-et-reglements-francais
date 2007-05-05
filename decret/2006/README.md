@@ -28,6 +28,7 @@
 - [Décret n°2006-1527 du 4 décembre 2006 (AGRP0601523D)](decret-n2006-1527-du-4-decembre-2006-agrp0601523d)
 - [Décret n°2006-1529 du 4 décembre 2006 (PMEA0620019D)](decret-n2006-1529-du-4-decembre-2006-pmea0620019d)
 - [Décret n°2006-8 du 4 janvier 2006 (AGRS0502639D)](decret-n2006-8-du-4-janvier-2006-agrs0502639d)
+- [Décret n°2006-1221 du 5 octobre 2006 (SANH0623065D)](decret-n2006-1221-du-5-octobre-2006-sanh0623065d)
 - [Décret n°2006-1524 du 5 décembre 2006 (MENH0602548D)](decret-n2006-1524-du-5-decembre-2006-menh0602548d)
 - [Décret n°2006-1525 du 5 décembre 2006 (MENH0602547D)](decret-n2006-1525-du-5-decembre-2006-menh0602547d)
 - [Décret n°2006-1535 du 5 décembre 2006 (SANH0624105D)](decret-n2006-1535-du-5-decembre-2006-sanh0624105d)
