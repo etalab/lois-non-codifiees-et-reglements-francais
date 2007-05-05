@@ -6,4 +6,4 @@ Les médecins généralistes ou spécialistes français, andorrans ou ressortiss
 
 - soit après avoir subi les épreuves d'un concours spécial d'accès au diplôme d'études spécialisées de médecine du travail dont le programme est différent de celui défini à l'article 5 du présent décret.
 
-Pour pouvoir se présenter à ces concours spéciaux, les candidats doivent justifier d'au moins trois années d'activité professionnelle en qualité de docteur en médecine, selon des modalités prévues par arrêté du ministre chargé de la santé.
+Pour pouvoir se présenter à ces concours spéciaux, les candidats doivent justifier d'au moins trois années d'activité professionnelle en qualité de docteur en médecine, selon des modalités prévues par arrêté du directeur général du Centre national de gestion des praticiens hospitaliers et des personnels de direction de la fonction publique hospitalière.

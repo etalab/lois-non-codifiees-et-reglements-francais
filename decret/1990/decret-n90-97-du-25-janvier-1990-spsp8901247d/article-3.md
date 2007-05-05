@@ -1,6 +1,6 @@
 # Article 3
 
-Le ministre chargé de la santé :
+Le directeur général du Centre national de gestion des praticiens hospitaliers et des personnels de direction de la fonction publique hospitalière :
 
 a) Assure l'organisation et le déroulement des épreuves du concours ;
 

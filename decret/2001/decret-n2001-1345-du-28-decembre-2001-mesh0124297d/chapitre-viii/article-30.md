@@ -12,6 +12,6 @@ Les personnels de direction relevant du chapitre Ier du présent décret peuvent
 
 5° Des groupements d'intérêt public.
 
-De plus, les personnels de direction peuvent être mis à disposition d'un autre établissement ou d'un syndicat interhospitalier mentionné à l'article 2 de la loi du 9 janvier 1986 susvisée par leur établissement d'origine pour une partie de leur activité, sous réserve de leur accord préalable et de la conclusion d'une convention entre les deux structures concernées portant sur les modalités de leur activité, sur le remboursement de tout ou partie de leur rémunération. Cette mise à disposition fait l'objet d'un arrêté du ministre chargé de la santé.
+De plus, les personnels de direction peuvent être mis à disposition d'un autre établissement ou d'un syndicat interhospitalier mentionné à l'article 2 de la loi du 9 janvier 1986 susvisée par leur établissement d'origine pour une partie de leur activité, sous réserve de leur accord préalable et de la conclusion d'une convention entre les deux structures concernées portant sur les modalités de leur activité, sur le remboursement de tout ou partie de leur rémunération. Cette mise à disposition fait l'objet d'un arrêté du directeur général du Centre national de gestion des praticiens hospitaliers et des personnels de direction de la fonction publique hospitalière.
 
 Les conditions, la durée et les règles particulières applicables aux personnels susvisés mis à disposition sont celles fixées par le décret du 13 octobre 1988 susvisé.

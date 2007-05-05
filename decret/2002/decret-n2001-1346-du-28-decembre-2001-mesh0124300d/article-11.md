@@ -1,3 +1,3 @@
 # Article 11
 
-La décision confiant l'intérim de l'un des emplois de directeur d'établissement mentionnés à l'article 1er du présent décret est prise par le ministre chargé de la santé.
+Pour les postes de chef d'établissement, la décision confiant l'intérim est prise par le ministre chargé de la santé, pour les autres postes, elle est prise par le directeur général du centre national de gestion.

@@ -18,7 +18,7 @@ Les candidats admis au titre de la première catégorie suivent un cycle d'étud
 
 Tous les candidats ayant suivi un cycle préparatoire sont tenus de se présenter, à l'expiration de leur période d'études, au concours interne d'admission aux cycles de formation ; à défaut ils doivent rembourser les frais de la scolarité qu'ils ont suivie. Nul ne peut renouveler sa période d'études au cycle préparatoire.
 
-L'organisation du cycle préparatoire, les modalités du concours d'accès et de report éventuel des places entre les deux catégories, ainsi que la composition du jury sont fixées par arrêté du ministre chargé de la santé.
+L'organisation du cycle préparatoire, les modalités du concours d'accès et de report éventuel des places entre les deux catégories, ainsi que la composition du jury sont fixées par arrêté du ministre chargé de la santé. Le directeur général du centre national de gestion assure l'organisation matérielle du concours d'accès et arrête la liste nominative des membres du jury.
 
 III. - Les fonctionnaires titulaires admis aux concours susvisés sont détachés auprès de l'Ecole nationale de la santé publique en tant que stagiaires du cycle préparatoire pour la durée de celui-ci. A l'issue de ce détachement, ils sont réintégrés de droit dans leur établissement d'origine.
 

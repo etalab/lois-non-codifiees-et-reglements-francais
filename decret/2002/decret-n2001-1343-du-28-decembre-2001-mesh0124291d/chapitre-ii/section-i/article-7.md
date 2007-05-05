@@ -14,7 +14,7 @@ La commission peut entendre les candidats si elle le juge utile.
 
 Elle est composée :
 
-- du directeur de l'hospitalisation et de l'organisation des soins ou de son représentant ;
+- du directeur général du centre national de gestion ou de son représentant ;
 
 - d'un membre de l'inspection générale des affaires sociales ;
 
@@ -26,4 +26,4 @@ Elle est composée :
 
 Sa présidence est assurée par le membre de l'inspection générale des affaires sociales.
 
-Les membres de la commission sont nommés par arrêté du ministre chargé de la santé.
+Le directeur général du centre national de gestion arrête la liste nominative des membres de la commission.

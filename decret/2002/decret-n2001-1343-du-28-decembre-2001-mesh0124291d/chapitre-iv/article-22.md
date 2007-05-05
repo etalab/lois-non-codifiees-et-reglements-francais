@@ -1,6 +1,6 @@
 # Article 22
 
-La nomination à chaque emploi est prononcée par le ministre chargé de la santé, après avis de la commission administrative paritaire nationale. Pour les directeurs, celle-ci prend connaissance des observations orales ou écrites du président de l'organe délibérant de l'établissement intéressé ou de l'avis du directeur ou du secrétaire général du syndicat interhospitalier concerné pour les emplois de directeur adjoint.
+La nomination à chaque emploi est prononcée par le ministre chargé de la santé pour les chefs d'établissement et par le directeur général du centre national de gestion pour les autres personnels de direction, après avis de la commission administrative paritaire nationale. Pour les directeurs, celle-ci prend connaissance des observations orales ou écrites du président de l'organe délibérant de l'établissement intéressé ou de l'avis du directeur ou du secrétaire général du syndicat interhospitalier concerné pour les emplois de directeur adjoint.
 
 Toutefois, ne sont pas soumises à l'avis de la commission administrative paritaire nationale les affectations offertes aux élèves directeurs en application de l'article 13 ci-dessus.
 

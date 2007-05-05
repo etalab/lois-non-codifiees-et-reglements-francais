@@ -1,6 +1,6 @@
 # Article 9
 
-Après publication des résultats du concours, chaque candidat reçoit individuellement notification de son classement par le ministre chargé de la santé.
+Après publication des résultats du concours, chaque candidat reçoit individuellement notification de son classement par le directeur général du Centre national de gestion des praticiens hospitaliers et des personnels de direction de la fonction publique hospitalière.
 
 Les candidats sont appelés à choisir, selon leur rang de classement et dans la limite du nombre de postes ouverts au concours, leur centre hospitalier universitaire de rattachement dans des conditions fixées par arrêté des ministres chargés de la santé et de l'enseignement supérieur.
 

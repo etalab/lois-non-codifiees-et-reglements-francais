@@ -1,0 +1,3 @@
+# Article 32
+
+Le directeur d'un établissement relevant de l'article 2 (1°, 2° et 3°) de la loi du 9 janvier 1986 susvisée constitué à la suite de la fusion de deux ou plusieurs de ces établissements peut être désigné par arrêté du ministre chargé de la santé après avis du directeur de l'agence régionale de l'hospitalisation et du président du conseil d'administration, parmi les directeurs desdits établissements. Dans ce cas, la nomination intervient sans publication préalable de la vacance de l'emploi de directeur. A défaut de nomination selon cette procédure, il est fait application des articles 15 à 19 du présent décret.

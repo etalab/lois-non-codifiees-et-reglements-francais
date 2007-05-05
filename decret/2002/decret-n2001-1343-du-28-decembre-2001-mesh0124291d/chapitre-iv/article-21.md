@@ -6,4 +6,4 @@ La liste des emplois vacants ou susceptibles d'être vacants accessibles aux per
 
 La publication indique pour chaque emploi la ou les classes auxquelles les personnels de direction intéressés doivent appartenir, et s'il est accessible par mutation ou par détachement ou par application des dispositions de l'article 16 du présent décret.
 
-Toute mutation dans l'intérêt du service est prononcée par le ministre chargé de la santé, après avis de la commission administrative paritaire nationale. Le poste sur lequel est affecté un personnel de direction à la suite d'une mutation dans l'intérêt du service ne fait pas l'objet d'une publication préalable au Journal officiel.
+Toute mutation dans l'intérêt du service est prononcée, après avis de la commission administrative paritaire nationale, par le ministre chargé de la santé pour les chefs d'établissement et par le directeur général du centre national de gestion pour les autres personnels de direction. Le poste sur lequel est affecté un personnel de direction à la suite d'une mutation dans l'intérêt du service ne fait pas l'objet d'une publication préalable au Journal officiel.
