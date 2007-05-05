@@ -1,6 +1,6 @@
 # Article 1
 
-Délégation permanente de pouvoirs est donnée aux inspecteurs d'académie, directeurs des services départementaux de l'éducation nationale pour prononcer à l'égard des personnels appartenant au corps des professeurs des écoles les décisions relatives:
+Délégation permanente de pouvoirs est donnée aux inspecteurs d'académie, directeurs des services départementaux de l'éducation nationale pour prononcer à l'égard des personnels appartenant au corps des professeurs des écoles les décisions relatives :
 
 1. A la nomination ;
 
@@ -10,25 +10,25 @@ Délégation permanente de pouvoirs est donnée aux inspecteurs d'académie, dir
 
 4. A la notation ;
 
-5. A l'avancement d'échelon;
+5. A l'avancement d'échelon ;
 
-6. A l'octroi et au renouvellement des congés prévus par l'article 34 de la loi du 11 janvier 1984 susvisée:
+6. A l'octroi et au renouvellement des congés prévus par l'article 34 de la loi du 11 janvier 1984 susvisée :
 
-- congé annuel ;
+-congé annuel ;
 
-- congé de maladie ;
+-congé de maladie ;
 
-- congé de longue maladie (sauf pour les cas où l'avis du comité médical supérieur est requis) ;
+-congé de longue maladie (sauf pour les cas où l'avis du comité médical supérieur est requis) ;
 
-- congé de longue durée (sauf pour les cas où l'avis du comité médical supérieur est requis) ;
+-congé de longue durée (sauf pour les cas où l'avis du comité médical supérieur est requis) ;
 
-- congé pour maternité ou pour adoption ;
+-congé pour maternité ou pour adoption ;
 
-- congé de formation professionnelle ;
+-congé de formation professionnelle ;
 
-- congé pour formation syndicale ;
+-congé pour formation syndicale ;
 
-- congé pour participer aux activités des organisations de jeunesse et d'éducation populaire, des fédérations et des associations sportives et de plein air légalement constituées, destinées à favoriser la préparation, la formation ou le perfectionnement des cadres ou animateurs ;
+-congé pour participer aux activités des organisations de jeunesse et d'éducation populaire, des fédérations et des associations sportives et de plein air légalement constituées, destinées à favoriser la préparation, la formation ou le perfectionnement des cadres ou animateurs ;
 
 7. A l'autorisation d'exercer des fonctions à temps partiel ;
 
@@ -46,7 +46,7 @@ Délégation permanente de pouvoirs est donnée aux inspecteurs d'académie, dir
 
 14. A l'octroi et au versement de la majoration pour tierce personne ;
 
-15. A la mise en position "accomplissement du service national" ;
+15. A la mise en position " accomplissement du service national " ;
 
 16. A la mise en position de congé parental ;
 
@@ -66,4 +66,6 @@ Délégation permanente de pouvoirs est donnée aux inspecteurs d'académie, dir
 
 24. A l'ouverture des droits à remboursement des frais occasionnés par les déplacements ;
 
-25. A la mise en position de détachement dans un emploi conduisant à pension du code des pensions civiles et militaires de retraite et relevant du ministre chargé de l'éducation.
+25. A la mise en position de détachement dans un emploi conduisant à pension du code des pensions civiles et militaires de retraite et relevant du ministre chargé de l'éducation ;
+
+26. A la mise à disposition dans les conditions prévues à l'article 13 du décret n° 2007-632 du 27 avril 2007 relatif à l'adaptation du poste de travail de certains personnels enseignants, d'éducation et d'orientation.
