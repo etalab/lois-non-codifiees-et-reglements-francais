@@ -112,4 +112,6 @@ Ecole nationale supérieure d'ingénieurs sud Alsace, Mulhouse ;
 
 Ecole nationale supérieure de chimie de Mulhouse, Mulhouse ;
 
-Institut des sciences et techniques de l'ingénieur d'Angers.
+Institut des sciences et techniques de l'ingénieur d'Angers ;
+
+Ecole nationale supérieure d'ingénieurs de Bretagne Sud.

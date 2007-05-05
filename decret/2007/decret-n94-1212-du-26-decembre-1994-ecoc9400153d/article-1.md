@@ -1,0 +1,3 @@
+# Article 1
+
+Les dispositions de l'article 5, à l'exception des 7, 8 et 9 de cet article ; de l'article 6 ; de l'article 7, à l'exception du 3 et du 4 de cet article ; du 1 de l'article 8 ; du 1 et du 2 de l'article 10 ; du 1, du 3 et du 6 a de l'article 11 du règlement (C.E.E.) n° 2092/91 du 24 juin 1991 susvisé constituent les mesures d'exécution prévues à l'article L. 214-1 du code de la consommation. Il en est de même des dispositions ayant le même objet des règlements communautaires qui les modifieraient ou seraient pris pour leur application, dans la mesure où elles entrent dans les prévisions dudit article L. 214-1.
