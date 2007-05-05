@@ -289,7 +289,6 @@
 - [Décret n°99-23 du 12 janvier 1999 (DEFP9802152D)](decret-n99-23-du-12-janvier-1999-defp9802152d)
 - [Décret n°99-273 du 12 avril 1999 (MENS9802754D)](decret-n99-273-du-12-avril-1999-mens9802754d)
 - [Décret n°99-275 du 12 avril 1999 (MESF9910483D)](decret-n99-275-du-12-avril-1999-mesf9910483d)
-- [Décret n°99-278 du 12 avril 1999 (ECOI9900166D)](decret-n99-278-du-12-avril-1999-ecoi9900166d)
 - [Décret n°99-279 du 12 avril 1999 (ECOC9900016D)](decret-n99-279-du-12-avril-1999-ecoc9900016d)
 - [Décret n°99-280 du 12 avril 1999 (ECOC9900015D)](decret-n99-280-du-12-avril-1999-ecoc9900015d)
 - [Décret n°99-281 du 12 avril 1999 (DEFD9901135D)](decret-n99-281-du-12-avril-1999-defd9901135d)

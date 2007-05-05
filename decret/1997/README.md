@@ -868,7 +868,6 @@
 - [Décret n°97-620 du 30 mai 1997 (TASP9721873D)](decret-n97-620-du-30-mai-1997-tasp9721873d)
 - [Décret n°97-654 du 30 mai 1997 (ECOT9713924D)](decret-n97-654-du-30-mai-1997-ecot9713924d)
 - [Décret n°97-655 du 30 mai 1997 (ECOD9770011D)](decret-n97-655-du-30-mai-1997-ecod9770011d)
-- [Décret n°97-656 du 30 mai 1997 (ECOR9704328D)](decret-n97-656-du-30-mai-1997-ecor9704328d)
 - [Décret n°97-679 du 30 mai 1997 (INDD9700262D)](decret-n97-679-du-30-mai-1997-indd9700262d)
 - [Décret n°97-680 du 30 mai 1997 (INDD9700260D)](decret-n97-680-du-30-mai-1997-indd9700260d)
 - [Décret n°97-683 du 30 mai 1997 (MIPP9700101D)](decret-n97-683-du-30-mai-1997-mipp9700101d)

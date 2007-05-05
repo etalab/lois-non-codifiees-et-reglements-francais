@@ -193,7 +193,6 @@
 - [Décret n°2006-1283 du 19 octobre 2006 (FPPX0600176D)](decret-n2006-1283-du-19-octobre-2006-fppx0600176d)
 - [Décret n°2006-1284 du 19 octobre 2006 (INTB0600199D)](decret-n2006-1284-du-19-octobre-2006-intb0600199d)
 - [Décret n°2006-1285 du 19 octobre 2006 (INTB0600225D)](decret-n2006-1285-du-19-octobre-2006-intb0600225d)
-- [Décret n°2006-1288 du 19 octobre 2006 (DEFD0601168D)](decret-n2006-1288-du-19-octobre-2006-defd0601168d)
 - [Décret n°2006-1289 du 19 octobre 2006 (MAEF0610071D)](decret-n2006-1289-du-19-octobre-2006-maef0610071d)
 - [Décret n°2006-1290 du 19 octobre 2006 (ECOC0600099D)](decret-n2006-1290-du-19-octobre-2006-ecoc0600099d)
 - [Décret n°2006-1623 du 19 décembre 2006 (SOCC0612484D)](decret-n2006-1623-du-19-decembre-2006-socc0612484d)
