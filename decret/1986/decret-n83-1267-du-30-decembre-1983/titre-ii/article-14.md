@@ -10,6 +10,6 @@ Pour chacune des catégories, le recrutement peut se faire selon l'une ou plusie
 
 4° Au choix par voie d'inscription sur une liste d'aptitude, réservée aux agents âgés de quarante ans au moins et ayant accompli une certaine durée de services dans l'un des établissements dont le personnel est soumis au présent statut.
 
-Pour chacune des catégories, les diplômes, titres professionnels et autres conditions exigées pour le recrutement, ainsi que la proportion des emplois à affecter aux recrutements externe et interne, sont fixés par décisions du directeur de l'agence centrale.
+Pour chacune des catégories, les diplômes, titres professionnels et autres conditions exigées pour le recrutement sont fixés par arrêté du ministre chargé de l'agriculture. La proportion des emplois à affecter aux recrutements externe et interne est fixée par décision du comité des directeurs.
 
-Le directeur de l'agence centrale assure la publicité préalable des emplois vacants proposés aux recrutements externe et interne.
+Le président du comité des directeurs assure la publicité préalable des emplois vacants proposés aux recrutements externe et interne.

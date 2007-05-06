@@ -4,7 +4,7 @@ Tout candidat à un premier emploi doit produire :
 
 1° Un extrait de son acte de naissance ;
 
-2° Une pièce prouvant qu'il possède la nationalité française ;
+2° Une pièce prouvant qu'il possède la nationalité d'un des Etats membres de l'Union européenne ;
 
 3° Un extrait de casier judiciaire datant de moins de trois mois ;
 

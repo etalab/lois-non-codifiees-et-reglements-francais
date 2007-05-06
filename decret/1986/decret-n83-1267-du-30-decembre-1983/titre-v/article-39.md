@@ -1,6 +1,6 @@
 # Article 39
 
-1° Les agents peuvent de droit, sur leur demande, bénéficier d'un congé parental dont la durée et les modalités d'application sont définies par une décision du directeur de l'agence centrale, par référence aux dispositions applicables aux agents de l'Etat.
+1° Les agents peuvent de droit, sur leur demande, bénéficier d'un congé parental dont la durée et les modalités d'application sont définies par une décision du comité des directeurs, par référence aux dispositions applicables aux agents de l'Etat.
 
 Dans cette position, les intéressés cessent de bénéficier de leur salaire mais conservent leurs droits à l'avancement d'échelon ; leur ancienneté est prise en compte pour la moitié seulement de sa durée réelle.
 

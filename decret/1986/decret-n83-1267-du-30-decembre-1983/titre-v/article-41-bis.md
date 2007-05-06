@@ -34,4 +34,4 @@ L'agent qui refuse successivement trois postes qui lui sont proposés peut être
 
 Pour cette dernière disposition, ne sont pas pris en compte les refus de postes qui ne sont pas situés dans le département de résidence de l'agent ou dans un département limitrophe.
 
-La mise en disponibilité d'un agent statutaire pour occuper un emploi au sein d'un organisme assurant une mission d'intérêt général peut être accordée à la demande de l'agent pour une durée maximale de deux années, renouvelable deux fois. L'agent peut demander sa réintégration au directeur de l'agence centrale des organismes d'intervention dans le secteur agricole deux mois avant l'expiration de la période de disponibilité en cours.
+La mise en disponibilité d'un agent statutaire pour occuper un emploi au sein d'un organisme assurant une mission d'intérêt général peut être accordée à la demande de l'agent pour une durée maximale de deux années, renouvelable deux fois. L'agent peut demander sa réintégration au président du comité des directeurs deux mois avant l'expiration de la période de disponibilité en cours.

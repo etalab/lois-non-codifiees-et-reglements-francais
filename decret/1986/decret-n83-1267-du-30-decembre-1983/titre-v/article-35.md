@@ -10,4 +10,4 @@ Des autorisations spéciales ne s'imputant pas sur les congés annuels sont acco
 
 4° Aux agents en activité, pour suivre un stage de formation syndicale, dans la limite de 12 jours ouvrables par an, dans les conditions fixées par les dispositions de la loi n° 82-977 du 23 novembre 1982 relative à l'attribution aux agents de l'Etat du congé pour formation syndicale ;
 
-5° Aux agents en session de formation professionnelle, dans le cadre de l'éducation permanente. Les conditions dans lesquelles est assurée la formation professionnelle sont fixées par une décision du directeur de l'agence centrale.
+5° Aux agents en session de formation professionnelle, dans le cadre de l'éducation permanente. Les conditions dans lesquelles est assurée la formation professionnelle sont fixées par une décision du comité des directeurs.
