@@ -62,7 +62,7 @@ Institut national de la statistique et des études économiques :
 
 - administrateurs de l'Institut national de la statistique et des études économiques ;
 
-- attachés de l'Institut national de la statistique et des études économiques ;
+- attachés statisticiens de l'Institut national de la statistique et des études économiques ;
 
 - contrôleurs de l'Institut national de la statistique et des études économiques.
 

@@ -34,7 +34,7 @@ Fonctionnaires de la catégorie A des services déconcentrés de la direction g�
 
 Fonctionnaires de la catégorie A des services déconcentrés du Trésor ;
 
-Corps des attachés de l'institut national de la statistique et des études économiques.
+Corps des attachés statisticiens de l'institut national de la statistique et des études économiques.
 
 Ministère de l'éducation nationale :
 

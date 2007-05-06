@@ -518,7 +518,6 @@
 - [Décret n°96-938 du 21 octobre 1996 (MENL9601833D)](decret-n96-938-du-21-octobre-1996-menl9601833d)
 - [Décret n°96-431 du 21 mai 1996 (ECOT9626154D)](decret-n96-431-du-21-mai-1996-ecot9626154d)
 - [Décret n°96-443 du 21 mai 1996 (DOMP9600015D)](decret-n96-443-du-21-mai-1996-domp9600015d)
-- [Décret n°97-510 du 21 mai 1997 (ECOP9700263D)](decret-n97-510-du-21-mai-1997-ecop9700263d)
 - [Décret n°96-1005 du 22 novembre 1996 (INTE9600287D)](decret-n96-1005-du-22-novembre-1996-inte9600287d)
 - [Décret n°96-1006 du 22 novembre 1996 (DOMP9600032D)](decret-n96-1006-du-22-novembre-1996-domp9600032d)
 - [Décret n°96-1007 du 22 novembre 1996 (DOMP9600031D)](decret-n96-1007-du-22-novembre-1996-domp9600031d)

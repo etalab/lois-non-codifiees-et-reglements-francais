@@ -4,7 +4,7 @@ Dans chaque école, les élèves fonctionnaires de l'Institut national de la sta
 
 Un certificat de scolarité est délivré aux élèves attachés au moment de leur nomination dans le corps des attachés.
 
-Pour chaque école, le comité d'enseignement donne son avis au directeur de l'école sur le cas des élèves fonctionnaires de l'Institut national de la statistique et des études économiques qui n'ont pas satisfait à leurs obligations scolaires avec des résultats conformes aux conditions requises, compte tenu des dispositions prévues à l'article 13 du décret du 31 mars 1967 susvisé et à l'article 13 du décret n° 95-875 du 2 août 1995 modifié fixant le statut particulier des attachés de l'Institut national de la statistique et des études économiques.
+Pour chaque école, le comité d'enseignement donne son avis au directeur de l'école sur le cas des élèves fonctionnaires de l'Institut national de la statistique et des études économiques qui n'ont pas satisfait à leurs obligations scolaires avec des résultats conformes aux conditions requises, compte tenu des dispositions prévues à l'article 13 du décret du 31 mars 1967 susvisé et au décret n° 2007-710 du 3 mai 2007 portant dispositions statutaires relatives au corps des attachés statisticiens de l'Institut national de la statistique et des études économiques.
 
 Le directeur de l'école, après avis du comité d'enseignement, peut autoriser certains élèves à redoubler, en cours de scolarité, une année d'études. Il peut aussi autoriser des reports de scolarité, notamment pour raison de service national, de congé de maternité ou de maladie.
 

@@ -1,81 +1,51 @@
 # Article ANNEXE
 
-I. - Liste des corps exclus de l'application des articles 1er et 2
+III. - Liste des corps
 
-Ministère de l'agriculture et de la forêt
+exclus de l'application des articles 1er, 2 et 3
 
-Ingénieurs du génie rural, des eaux et des forêts.
+Corps recrutés par la voie
 
-Ingénieurs d'agronomie.
+de l'Ecole nationale d'administration
 
-Ingénieurs des travaux ruraux.
+Ministère de l'équipement, du logement,
 
-Ingénieurs des travaux des eaux et forêts.
+des transports et de la mer
 
-Ingénieurs des travaux agricoles.
+Syndics des gens de mer.
 
-Ministère de l'éducation nationale, de la jeunesse et des sports
+Officiers de port.
 
-Infirmiers et infirmières des services médicaux des administrations centrales de l'Etat, des services déconcentrés qui en dépendent et des établissements publics de l'Etat.
+Ingénieurs des ponts et chaussées.
 
-Assistants et assistantes de service social.
+Ingénieurs des travaux publics de l'Etat.
 
-Professeurs de lycées professionnels de 2e grade.
+Urbanistes de l'Etat.
 
-Professeurs de l'enseignement technique (certificat d'aptitude).
+Ingénieurs géographes.
 
-Professeurs d'éducation physique et sportive.
-
-Professeurs de lycée professionnel (pour le cycle préparatoire au concours d'accès au corps).
-
-Professeurs de sport.
-
-Ministère de l'équipement, du logement, des transports et de la mer
-
-Techniciens de la météorologie.
-
-Ingénieurs des travaux de la météorologie.
-
-Ingénieurs de la météorologie.
-
-Techniciens des travaux publics de l'Etat.
-
-Experts techniques des services techniques.
-
-Dessinateurs (service de l'équipement).
-
-Géomètres de l'Institut géographique national.
-
-Ingénieurs de l'aviation civile.
-
-Ingénieurs des études et de l'exploitation de l'aviation civile.
-
-Techniciens de l'aviation civile.
-
-Electroniciens de la sécurité aérienne.
-
-Ministère de la justice
-
-Educateurs des services déconcentrés de la protection judiciaire de la jeunesse.
-
-Ministère de la culture, de la communication, des grands travaux et du Bicentenaire
-
-Corps recrutés par la voie de l'Institut national du patrimoine.
-
-Inspecteurs de surveillance et de magasinage.
-
-Ministère de la solidarité, de la santé,
-
-et de la protection sociale
-
-Assistants et assistantes de service social.
+Officiers contrôleurs de la circulation aérienne.
 
 Ministère de l'économie, des finances et du budget
 
-Administrateurs de l'Institut national de la statistique et des études économiques.
+Inspecteurs du Trésor.
 
-Inspecteurs des douanes.
+Inspecteurs des impôts.
 
-Adjoints administratifs.
+Attachés statisticiens de l'Institut national de la statistique et des études économiques.
 
-Agents de constatation des douanes.
+Agents de recouvrement du Trésor.
+
+Agents de constatation des impôts.
+
+Ministère de l'industrie et de l'aménagement du territoire
+
+Ingénieurs des mines.
+
+Ingénieurs de l'industrie et des mines.
+
+Ministère de la solidarité, de la santé
+
+et de la protection sociale
+
+Médecins inspecteurs de la santé.
