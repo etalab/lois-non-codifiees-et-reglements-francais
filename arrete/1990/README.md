@@ -776,7 +776,6 @@
 - [Arrêté du 30 décembre 1989 (AGRA9000098A)](arrete-du-30-decembre-1989-agra9000098a)
 - [Arrêté du 30 janvier 1990 (TEFX9010038A)](arrete-du-30-janvier-1990-tefx9010038a)
 - [Arrêté du 30 juillet 1990 (FPPA9000105A)](arrete-du-30-juillet-1990-fppa9000105a)
-- [Arrêté du 30 juillet 1990 (PRME9061400A)](arrete-du-30-juillet-1990-prme9061400a)
 - [Arrêté du 30 mars 1990 (AGRS9000801A)](arrete-du-30-mars-1990-agrs9000801a)
 - [Arrêté du 30 mars 1990 (PRME9061196A)](arrete-du-30-mars-1990-prme9061196a)
 - [Arrêté du 30 novembre 1990 (BUDR9004024A)](arrete-du-30-novembre-1990-budr9004024a)
