@@ -1,0 +1,5 @@
+# Article 30
+
+I. - Dans tous les textes où il est fait mention des termes " attaché de l'Institut national de la statistique et des études économiques " ou " attachés de l'Institut national de la statistique et des études économiques " ou " attaché principal de l'Institut national de la statistique et des études économiques " ou " attachés principaux de l'Institut national de la statistique et des études économiques ", ces termes sont respectivement remplacés par " attaché statisticien de l'Institut national de la statistique et des études économiques ", " attachés statisticiens de l'Institut national de la statistique et des études économiques ", " attaché statisticien principal de l'Institut national de la statistique et des études économiques " et " attachés statisticiens principaux de l'Institut national de la statistique et des études économiques ".
+
+II. - Dans tous les textes où il est fait mention du décret du 2 août 1995 susmentionné ou du décret du 21 mai 1997 susmentionné, ces références sont remplacées par celles du présent décret.

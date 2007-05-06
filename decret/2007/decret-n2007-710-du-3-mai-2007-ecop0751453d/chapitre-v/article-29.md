@@ -1,0 +1,7 @@
+# Article 29
+
+Jusqu'à l'installation de la commission administrative paritaire du corps des attachés statisticiens de l'Institut national de la statistique et des études économiques créé par le présent décret, qui interviendra dans un délai d'un an à compter de sa date d'entrée en vigueur ou dans les délais fixés par les dispositions du décret n° 82-451 du 28 mai 1982 susvisé, les membres des commissions administratives paritaires compétentes pour le corps des attachés de l'Institut national de la statistique et des études économiques et pour le corps des chargés de mission de l'Institut national de la statistique et des études économiques sont maintenus en fonction et siègent en formation commune :
+
+1° Les représentants des grades d'attaché de l'Institut national de la statistique et des études économiques et de chargé de mission de classe normale de l'Institut national de la statistique et des études économiques représentent le grade d'attaché statisticien de l'Institut national de la statistique et des études économiques créé par le présent décret ;
+
+2° Les représentants des grades d'attaché principal de l'Institut national de la statistique et des études économiques de 1re et de 2e classe et du grade de chargé de mission de classe exceptionnelle de l'Institut national de la statistique et des études économiques représentent le grade d'attaché statisticien principal de l'Institut national de la statistique et des études économiques créé par le présent décret.

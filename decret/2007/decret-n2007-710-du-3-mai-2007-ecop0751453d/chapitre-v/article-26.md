@@ -1,0 +1,3 @@
+# Article 26
+
+Les attachés de l'Institut national de la statistique et des études économiques qui, à la date d'entrée en vigueur du présent décret, appartenaient au grade de début de leur corps d'origine et remplissaient les conditions requises pour bénéficier d'une promotion au grade supérieur ou auraient rempli ces conditions au cours de la période de deux ans suivant cette date d'entrée en vigueur, sont réputés remplir, pendant cette même période de deux ans, les conditions requises pour être promus attaché statisticien principal, soit par la voie prévue à l'article 18, soit par celle prévue à l'article 19, selon qu'ils remplissaient dans leur corps d'origine les conditions requises pour une promotion au grade supérieur par la voie de l'article 18 ou de l'article 19.
