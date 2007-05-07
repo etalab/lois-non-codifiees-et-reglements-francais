@@ -359,7 +359,7 @@
 <p>Marais et prés salés atlantiques et continentaux</p>
 </td>
 <td valign="top" width="58">
-<p align="center">13</p>
+<p align="center">14</p>
 </td>
 <td valign="top" width="38">
 <br/>
@@ -558,7 +558,7 @@
 <br/>
 </td>
 <td valign="top" width="96">
-<br/>
+<p align="center">X</p>
 </td>
 </tr>
 <tr>
@@ -828,7 +828,7 @@
 <br/>
 </td>
 <td valign="top" width="98">
-<br/>
+<p align="center">X</p>
 </td>
 <td valign="top" width="96">
 <br/>
@@ -1103,7 +1103,7 @@
 <br/>
 </td>
 <td valign="top" width="96">
-<br/>
+<p align="center">X</p>
 </td>
 <td valign="top" width="96">
 <p align="center">X</p>
@@ -1203,7 +1203,7 @@
 </tr>
 <tr>
 <td valign="top" width="211">
-<p>Lacs et mares dystrophes naturels</p>
+<p>Mares et lacs dystrophes naturels</p>
 </td>
 <td valign="top" width="58">
 <p align="center">3160</p>
@@ -1215,7 +1215,7 @@
 <p align="center">X</p>
 </td>
 <td valign="top" width="98">
-<p align="center">X</p>
+<br/>
 </td>
 <td valign="top" width="96">
 <p align="center">X</p>
@@ -1241,7 +1241,7 @@
 <p align="center">X</p>
 </td>
 <td valign="top" width="96">
-<p align="center">X</p>
+<br/>
 </td>
 <td valign="top" width="96">
 <p align="center">X</p>
@@ -1249,7 +1249,7 @@
 </tr>
 <tr>
 <td valign="top" width="211">
-<p>Eaux courantes, tronçons de cours d'eaux à dynamique naturelle et semi-naturelle (lits mineurs, moyens et majeurs) dont la qualité de l'eau ne présente pas d'altération significative</p>
+<p>Eaux courantes - tronçons de cours d'eaux à dynamique naturelle et semi-naturelle (lits mineurs, moyens et majeurs) dont la qualité de l'eau ne présente pas d'altération significative</p>
 </td>
 <td valign="top" width="58">
 <p align="center">32</p>
@@ -1284,7 +1284,7 @@
 <p align="center">X</p>
 </td>
 <td valign="top" width="98">
-<br/>
+<p align="center">X</p>
 </td>
 <td valign="top" width="96">
 <br/>
@@ -1612,6 +1612,29 @@
 <br/>
 </td>
 <td valign="top" width="96">
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Fourrés de Salix spp. subarctiques</p>
+</td>
+<td>
+<p align="center">4080</p>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<p align="center">X</p>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<p align="center">X</p>
+</td>
+<td>
 <br/>
 </td>
 </tr>
@@ -1997,7 +2020,7 @@
 <p align="center">X</p>
 </td>
 <td valign="top" width="98">
-<br/>
+<p align="center">X</p>
 </td>
 <td valign="top" width="96">
 <br/>
@@ -2138,7 +2161,7 @@
 <p align="center">X</p>
 </td>
 <td valign="top" width="96">
-<p align="center">X</p>
+<br/>
 </td>
 <td valign="top" width="96">
 <p align="center">X</p>
@@ -2710,7 +2733,7 @@
 <p align="center">X</p>
 </td>
 <td valign="top" width="98">
-<br/>
+<p align="center">X</p>
 </td>
 <td valign="top" width="96">
 <br/>
@@ -3498,7 +3521,7 @@
 <p align="center">X</p>
 </td>
 <td valign="top" width="96">
-<p align="center">X</p>
+<br/>
 </td>
 </tr>
 <tr>
@@ -3610,7 +3633,7 @@
 <p align="center">X</p>
 </td>
 <td valign="top" width="96">
-<p align="center">X</p>
+<br/>
 </td>
 <td valign="top" width="96">
 <p align="center">X</p>

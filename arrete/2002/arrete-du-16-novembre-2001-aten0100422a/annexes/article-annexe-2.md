@@ -894,6 +894,51 @@
 </td>
 </tr>
 <tr>
+<td>
+<p align="center">Crustacea</p>
+</td>
+<td/>
+<td/>
+<td/>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>
+<p align="center">Decapoda</p>
+</td>
+<td/>
+<td/>
+<td/>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Ecrevisse des torrents<br/>(Austropotamobius torrentium)</p>
+</td>
+<td align="left" valign="top">
+<p align="center">1093</p>
+</td>
+<td align="left" valign="top">
+<p align="center">*</p>
+</td>
+<td align="left" valign="top">
+<br/>
+</td>
+<td align="left" valign="top">
+<br/>
+</td>
+<td align="left" valign="top">
+<p align="center">X</p>
+</td>
+<td align="left" valign="top">
+<br/>
+</td>
+</tr>
+<tr>
 <td valign="top" width="213">
 <p align="center">Reptiles</p>
 </td>
@@ -1819,7 +1864,7 @@
 <br/>
 </td>
 <td valign="top" width="99">
-<p align="center">X</p>
+<br/>
 </td>
 <td valign="top" width="96">
 <p align="center">X</p>
@@ -1934,7 +1979,7 @@
 <br/>
 </td>
 <td valign="top" width="99">
-<p align="center">X</p>
+<br/>
 </td>
 <td valign="top" width="96">
 <p align="center">X</p>
@@ -2116,6 +2161,23 @@
 </td>
 </tr>
 <tr>
+<td>
+<p align="left">Carabe variolé (Carabus variolosus)</p>
+</td>
+<td>
+<p align="center">4014</p>
+</td>
+<td/>
+<td>
+<p align="center">X</p>
+</td>
+<td/>
+<td>
+<p align="center">X</p>
+</td>
+<td/>
+</tr>
+<tr>
 <td valign="top" width="213">
 <p>Grand Capricorne (Cerambyx cerdo)</p>
 </td>
@@ -2208,6 +2270,55 @@
 </td>
 </tr>
 <tr>
+<td>Rhysodes sulcatus </td>
+<td>
+<p align="center">4026</p>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<p align="center">X</p>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<p align="center">X</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>Stephanopachys linearis</td>
+<td>
+<p align="center">1926</p>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<p align="center">X</p>
+</td>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>Stephanopachys substriatus</td>
+<td>
+<p align="center">1927</p>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<p align="center">X</p>
+</td>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
 <td valign="top" width="213">
 <p>Taupin violacé (Limoniscus violaceus)</p>
 </td>
@@ -2298,6 +2409,27 @@
 <td valign="top" width="95">
 <p align="center">X</p>
 </td>
+</tr>
+<tr>
+<td>
+<p align="left">Cuivré de la Bistorte (Lycaena helle)</p>
+</td>
+<td>
+<p align="center">4038</p>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<p align="center">X</p>
+</td>
+<td>
+<p align="center">X</p>
+</td>
+<td/>
 </tr>
 <tr>
 <td valign="top" width="213">
@@ -2415,6 +2547,25 @@
 </td>
 </tr>
 <tr>
+<td>
+<p align="left">Gortyna borelii lunata </p>
+</td>
+<td>
+<p align="center">4035 </p>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<p align="center">X</p>
+</td>
+<td>
+<p align="center">X</p>
+</td>
+<td/>
+<td/>
+</tr>
+<tr>
 <td valign="top" width="213">
 <p>Isabelle de France (Graellsia isabellae)</p>
 </td>
@@ -2528,6 +2679,25 @@
 <td valign="top" width="95">
 <p align="center">X</p>
 </td>
+</tr>
+<tr>
+<td>Agrion orné (Coenagrion ornatum)</td>
+<td>
+<p align="center">4045</p>
+</td>
+<td>
+<p align="center">*</p>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<p align="center">X</p>
+</td>
+<td/>
 </tr>
 <tr>
 <td valign="top" width="213">
@@ -2667,6 +2837,27 @@
 <td valign="top" width="95"/>
 </tr>
 <tr>
+<td>Anisus vorticulus</td>
+<td>
+<p align="center">4056</p>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<p align="center">X</p>
+</td>
+<td>
+<p align="center">X</p>
+</td>
+</tr>
+<tr>
 <td valign="top" width="213">
 <p>Escargot de Quimper (Elona quimperiana)</p>
 </td>
@@ -2703,7 +2894,7 @@
 <br/>
 </td>
 <td valign="top" width="99">
-<p align="center">X</p>
+<br/>
 </td>
 <td valign="top" width="96">
 <p align="center">X</p>
@@ -3506,6 +3697,25 @@
 </td>
 </tr>
 <tr>
+<td align="left" valign="top">
+<p align="left">Serratule à feuilles de chanvre d'eau<br/>(Serratula lycopifolia)</p>
+</td>
+<td align="left" valign="top">
+<p align="center">4087</p>
+</td>
+<td align="left" valign="top">
+<p align="center">*</p>
+</td>
+<td align="left" valign="top">
+<br/>
+</td>
+<td align="left" valign="top">
+<p align="center">X</p>
+</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+</tr>
+<tr>
 <td valign="top" width="213">
 <p align="center">Cruciferae</p>
 </td>
@@ -3711,6 +3921,38 @@
 <td valign="top" width="95">
 <p align="center">X</p>
 </td>
+</tr>
+<tr>
+<td>
+<p align="center">Iridaceae</p>
+</td>
+<td/>
+<td/>
+<td/>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Glaïeul des marais (Gladiolus<br/>palustris) </p>
+</td>
+<td align="left" valign="top">
+<p align="center">4096</p>
+</td>
+<td align="left" valign="top">
+<br/>
+</td>
+<td align="left" valign="top">
+<p align="center">X</p>
+</td>
+<td align="left" valign="top">
+<br/>
+</td>
+<td align="left" valign="top">
+<p align="center">X</p>
+</td>
+<td align="left" valign="top"/>
 </tr>
 <tr>
 <td valign="top" width="213">
@@ -4748,7 +4990,7 @@
 <br/>
 </td>
 <td valign="top" width="96">
-<br/>
+<p align="center">X</p>
 </td>
 <td valign="top" width="95">
 <br/>
