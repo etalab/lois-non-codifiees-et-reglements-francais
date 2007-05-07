@@ -14,9 +14,7 @@
 <td valign="top" width="339">
 <p align="center">GAVIIDAE</p>
 </td>
-<td valign="top" width="341">
-<br/>
-</td>
+<td valign="top" width="341"/>
 </tr>
 <tr>
 <td valign="top" width="339">
@@ -58,10 +56,12 @@
 <td valign="top" width="339">
 <p>Puffin cendré</p>
 <p>Puffin des Baléares</p>
+<p>Puffinus Yellkouan.</p>
 </td>
 <td valign="top" width="341">
 <p>Calonectris diomedea.</p>
 <p>Puffinus mauretanicus.</p>
+<p>Puffin yelkouan.</p>
 </td>
 </tr>
 <tr>
@@ -75,9 +75,11 @@
 <tr>
 <td valign="top" width="339">
 <p>Océanite tempête</p>
+<p>Oceanodroma leuchorhoa</p>
 </td>
 <td valign="top" width="341">
 <p>Hydrobates pelagicus.</p>
+<p>Océanite culblanc.</p>
 </td>
 </tr>
 <tr>
@@ -146,9 +148,7 @@
 <td valign="top" width="339">
 <p align="center">THRESKIORNITHIDAE</p>
 </td>
-<td valign="top" width="341">
-<br/>
-</td>
+<td valign="top" width="341"/>
 </tr>
 <tr>
 <td valign="top" width="339">
@@ -164,9 +164,7 @@
 <td valign="top" width="339">
 <p align="center">PHOENICOPTERIDAE</p>
 </td>
-<td valign="top" width="341">
-<br/>
-</td>
+<td valign="top" width="341"/>
 </tr>
 <tr>
 <td valign="top" width="339">
@@ -180,9 +178,7 @@
 <td valign="top" width="339">
 <p align="center">ANATIDAE</p>
 </td>
-<td valign="top" width="341">
-<br/>
-</td>
+<td valign="top" width="341"/>
 </tr>
 <tr>
 <td valign="top" width="339">
@@ -206,9 +202,7 @@
 <td valign="top" width="339">
 <p align="center">ACCIPITRIDAE</p>
 </td>
-<td valign="top" width="341">
-<br/>
-</td>
+<td valign="top" width="341"/>
 </tr>
 <tr>
 <td valign="top" width="339">
@@ -284,12 +278,14 @@
 <p>Faucon émerillon</p>
 <p>Faucon d'Eléonore</p>
 <p>Faucon pèlerin</p>
+<p>Falco vespertinus</p>
 </td>
 <td valign="top" width="341">
 <p>Falco naumanni.</p>
 <p>Falco columbarius.</p>
 <p>Falco eleonorae.</p>
 <p>Falco peregrinus.</p>
+<p>Faucon Kobez.</p>
 </td>
 </tr>
 <tr>
@@ -450,10 +446,12 @@
 <td valign="top" width="339">
 <p>Pluvier guignard</p>
 <p>Pluvier doré</p>
+<p>Charadrius alexandrinus</p>
 </td>
 <td valign="top" width="341">
 <p>Eudromias morinellus.</p>
 <p>Pluvialis apricaria.</p>
+<p>Gravelot à collier interrompu.</p>
 </td>
 </tr>
 <tr>
@@ -486,29 +484,27 @@
 <td valign="top" width="339">
 <p align="center">LARIDAE</p>
 </td>
-<td valign="top" width="341">
-<br/>
-</td>
+<td valign="top" width="341"/>
 </tr>
 <tr>
 <td valign="top" width="339">
 <p>Mouette mélanocéphale</p>
 <p>Goéland railleur</p>
 <p>Goéland d'Audouin</p>
+<p>Larus minutus.</p>
 </td>
 <td valign="top" width="341">
 <p>Larus melanocephalus.</p>
 <p>Larus genei.</p>
 <p>Larus audouinii.</p>
+<p>Mouette pygmée.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="339">
 <p align="center">STERNIDAE</p>
 </td>
-<td valign="top" width="341">
-<br/>
-</td>
+<td valign="top" width="341"/>
 </tr>
 <tr>
 <td valign="top" width="339">
@@ -538,9 +534,7 @@
 <td valign="top" width="339">
 <p align="center">PTEROCLIDIDAE</p>
 </td>
-<td valign="top" width="341">
-<br/>
-</td>
+<td valign="top" width="341"/>
 </tr>
 <tr>
 <td valign="top" width="339">
@@ -592,9 +586,7 @@
 <td valign="top" width="339">
 <p align="center">ALCEDINIDAE</p>
 </td>
-<td valign="top" width="341">
-<br/>
-</td>
+<td valign="top" width="341"/>
 </tr>
 <tr>
 <td valign="top" width="339">
@@ -608,9 +600,7 @@
 <td valign="top" width="339">
 <p align="center">CORACIIDAE</p>
 </td>
-<td valign="top" width="341">
-<br/>
-</td>
+<td valign="top" width="341"/>
 </tr>
 <tr>
 <td valign="top" width="339">
@@ -702,9 +692,7 @@
 <td valign="top" width="339">
 <p align="center">SYLVIIDAE</p>
 </td>
-<td valign="top" width="341">
-<br/>
-</td>
+<td valign="top" width="341"/>
 </tr>
 <tr>
 <td valign="top" width="339">
@@ -724,9 +712,7 @@
 <td valign="top" width="339">
 <p align="center">MUSCICAPIDAE</p>
 </td>
-<td valign="top" width="341">
-<br/>
-</td>
+<td valign="top" width="341"/>
 </tr>
 <tr>
 <td valign="top" width="339">
@@ -742,9 +728,7 @@
 <td valign="top" width="339">
 <p align="center">SITTIDAE</p>
 </td>
-<td valign="top" width="341">
-<br/>
-</td>
+<td valign="top" width="341"/>
 </tr>
 <tr>
 <td valign="top" width="339">
@@ -758,9 +742,7 @@
 <td valign="top" width="339">
 <p align="center">LANIIDAE</p>
 </td>
-<td valign="top" width="341">
-<br/>
-</td>
+<td valign="top" width="341"/>
 </tr>
 <tr>
 <td valign="top" width="339">
@@ -776,9 +758,7 @@
 <td valign="top" width="339">
 <p align="center">CORVIDAE</p>
 </td>
-<td valign="top" width="341">
-<br/>
-</td>
+<td valign="top" width="341"/>
 </tr>
 <tr>
 <td valign="top" width="339">
@@ -792,9 +772,7 @@
 <td valign="top" width="339">
 <p align="center">EMBERIZIDAE</p>
 </td>
-<td valign="top" width="341">
-<br/>
-</td>
+<td valign="top" width="341"/>
 </tr>
 <tr>
 <td valign="top" width="339">
