@@ -81,7 +81,6 @@
 - [Décret n°74-449 du 15 mai 1974](decret-n74-449-du-15-mai-1974)
 - [Décret n°2002-893 du 15 mai 2002 (ECOX0200086D)](decret-n2002-893-du-15-mai-2002-ecox0200086d)
 - [Décret n°2002-895 du 15 mai 2002 (DEVX0200082D)](decret-n2002-895-du-15-mai-2002-devx0200082d)
-- [Décret n°2002-521 du 16 avril 2002 (MENS0200791D)](decret-n2002-521-du-16-avril-2002-mens0200791d)
 - [Décret n°2002-532 du 16 avril 2002 (EQUP0200349D)](decret-n2002-532-du-16-avril-2002-equp0200349d)
 - [Décret n°2002-534 du 16 avril 2002 (EQUP0200355D)](decret-n2002-534-du-16-avril-2002-equp0200355d)
 - [Décret n°2002-90 du 16 janvier 2002 (MCCB0200030D)](decret-n2002-90-du-16-janvier-2002-mccb0200030d)
