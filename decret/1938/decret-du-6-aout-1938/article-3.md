@@ -4,13 +4,13 @@ Par. 1er - Les agents commissionnés, confirmés et à l'essai, ont droit pour l
 
 Par. 2 - Les anciens agents et les veuves affiliés dans les conditions fixées à l'article 1er (par. 6 et 7) bénéficient pour eux-mêmes et pour leurs ayants droit d'avantages analogues à ceux qui sont accordés aux ayants droit des agents du cadre permanent en activité de service.
 
-Par. 3 - Les prestations visées aux alinéas ci-dessus sont assurées par une caisse de prévoyance à instituer à cet effet par la Société nationale des chemins de fer français. Cette caisse possède la personnalité financière autonome dans le cadre de la Société nationale des chemins de fer français et est administrée par un conseil d'administration composé d'un président désigné par la Société nationale des chemins de fer français, de seize membres titulaires et de seize membres suppléants. Huit membres titulaires et huit membres suppléants sont désignés par la Société nationale des chemins de fer français. Six membres titulaires et six membres suppléants représentant le personnel affilié sont choisis par les agents délégués auprès de la direction générale et parmi les agents ayant au moins cinq ans de services commissionnés, à raison d'un membre titulaire et d'un membre suppléant au minimum par région. Deux membres titulaires et deux membres suppléants sont choisis parmi les anciens agents du cadre permanent titulaires d'une pension de réforme ou de retraite normale, un titulaire et un suppléant par la fédération nationale des retraités des chemins de fer français, un titulaire et un suppléant par la fédération nationale des travailleurs des chemins de fer (section des retraités).
+Par. 3 - (Abrogé)
 
-Par. 4 - Le règlement de la caisse est arrêté par la Société nationale des chemins de fer français, sur la proposition du conseil d'administration de la caisse ; il est soumis à l'homologation du secrétaire d'Etat aux communications, du secrétaire d'Etat au travail et au ministre secrétaire d'Etat à l'économie nationale et aux finances.
+Par. 4 - Le règlement de prévoyance du personnel de la Société nationale des chemins de fer français, ainsi que son tarif, est arrêté par le conseil d'administration de la caisse de prévoyance et de retraite du personnel de la Société nationale des chemins de fer français, et transmis au ministre chargé de la sécurité sociale, au ministre chargé du budget et au ministre chargé des transports, ainsi qu'à la Société nationale des chemins de fer français.
 
 Par. 5 - La caisse reçoit les retenues sur les salaires des agents commissionnés confirmés et à l'essai, et les cotisations patronales au moins égales nécessaires pour assurer le service des prestations visées ci-dessus.
 
-Par. 6 - Les cotisations des anciens agents et des veuves ainsi que des orphelins affiliés à la caisse de prévoyance sont précomptées sur les arrérages de la pension.
+Par. 6 - Les cotisations des anciens agents et des veuves ainsi que des orphelins affiliés à la caisse de prévoyance et de retraite du personnel de la Société nationale des chemins de fer français sont précomptées sur les arrérages de la pension.
 
 La Société nationale des chemins de fer français verse à la caisse une contribution assise sur le montant des pensions.
 

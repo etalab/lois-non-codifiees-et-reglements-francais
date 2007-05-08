@@ -6,7 +6,7 @@ Peuvent bénéficier des prêts les particuliers, les copropriétés (telles que
 
 II. - Travaux éligibles
 
-Les travaux d'économie d'énergie doivent être réalisés sur des logements individuels ou collectifs à usage d'habitation principale ou secondaire achevés depuis plus de deux ans à la date d'entrée en vigueur du présent arrêté.
+Les travaux d'économie d'énergie doivent être réalisés sur des logements individuels ou collectifs à usage d'habitation principale ou secondaire achevés avant le 1er janvier 2005.
 
 Les équipements, matériaux et appareils éligibles sont ceux visés à l'article 200 quater du code général des impôts dont la liste est fixée à l'article 18 bis de l'annexe IV du même code.
 
@@ -26,6 +26,6 @@ Les établissements et organismes cités à l'article L. 221-27 du code monétai
 
 - le lieu de réalisation des travaux.
 
-L'attestation est signée par l'entreprise qui réalise les travaux, qui appose son cachet comportant au minimum sa raison sociale et son numéro ORCF. La signature est obligatoirement précédée de la mention suivante :
+L'attestation est signée par l'entreprise qui réalise les travaux, qui appose son cachet comportant au minimum sa raison sociale et son numéro au registre du commerce et des sociétés ou au répertoire des métiers. La signature est obligatoirement précédée de la mention suivante :
 
-" Je soussigné... certifie sur l'honneur que le ou les équipements, appareils, matériaux visés par la présente attestation sont conformes aux critères d'éligibilité prévus au II de l'annexe A de l'arrêté du 6 février 2007 relatif au livret de développement durable.
+" Je soussigné... certifie sur l'honneur que le ou les équipements, appareils, matériaux visés par la présente attestation sont conformes aux critères d'éligibilité prévus à l'annexe A de l'arrêté du 6 février 2007 relatif au livret de développement durable.

@@ -1,0 +1,3 @@
+# Article 27
+
+Le transfert par la Société nationale des chemins de fer français à titre gratuit à la caisse nationale du personnel de la Société nationale des chemins de fer français des biens, droits, obligations et de tous contrats conclus par la Société nationale des chemins de fer français et relevant de l'activité du service dénommé Caisses de prévoyance et de retraites de la SNCF, sans préjudice du droit des tiers, s'opère par voie de convention et, le cas échéant, par acte authentique, dont la signature est autorisée par le conseil d'administration de la Société nationale des chemins de fer français.
