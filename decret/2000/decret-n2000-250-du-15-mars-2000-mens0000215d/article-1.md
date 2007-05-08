@@ -102,6 +102,8 @@ Nantes.
 
 Nice.
 
+Nîmes.
+
 Orléans.
 
 Paris-I.
