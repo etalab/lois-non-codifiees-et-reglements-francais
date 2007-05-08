@@ -1,3 +1,3 @@
 # Article 2
 
-Lorsque les communes consultées à l'occasion de l'enquête publique mentionnée à l'article 8 de la loi du 30 décembre 1991 susvisée se trouvent sur le territoire de plusieurs départements ou régions, siègent au titre des membres de droit mentionnés à l'article 1er (1°) les représentants des administrations et des institutions de chaque département ou région concerné.
+Lorsque les communes consultées à l'occasion de l'enquête publique préalable à l'autorisation d'installation et d'exploitation du laboratoire ou concernées par les travaux de recherche préliminaires à l'autorisation d'un centre de stockage prévus à l'article L. 542-6 du code de l'environnement sont situées dans plusieurs départements ou régions, siègent au titre du 1° de l'article 1er les préfets et directeurs régionaux de l'industrie, de la recherche et de l'environnement de chacun de ces départements ou régions.

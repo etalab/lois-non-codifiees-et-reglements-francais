@@ -1,3 +1,5 @@
 # Article 5
 
-Le comité local d'information et de suivi est destinataire du rapport annuel de la Commission nationale d'évaluation relatif à la recherche sur la gestion des déchets radioactifs à haute activité et à vie longue mentionné à l'article 4 de la loi du 30 décembre 1991 susvisée.
+Pour accomplir sa mission, le comité local d'information et de suivi a accès à tout moment aux installations du laboratoire souterrain, sur demande de son président.
+
+Un arrêté du ministre chargé de l'industrie et du ministre des finances fixe la liste des entreprises concernées par l'activité de stockage des déchets radioactifs en couche géologique profonde devant concourir, en application de l'article L. 542-13 du code de l'environnement, à la couverture des frais d'établissement et de fonctionnement du comité.

@@ -1,3 +1,3 @@
 # Article 4
 
-Pour accomplir sa mission, le comité local d'information et de suivi a accès à tout moment aux installations du laboratoire souterrain, sur demande de son président.
+Après la publication de l'arrêté prévu à l'article 3, le ou les présidents des conseils généraux compétents nomment le président du comité, qui procède aux convocations de celui-ci.
