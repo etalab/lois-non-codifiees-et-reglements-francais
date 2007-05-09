@@ -7,24 +7,24 @@ A. - Emplois en administration centrale
 <table>
 <tbody>
 <tr>
-<td>
+<td width="406">
 <p align="center">Désignation de l'emploi</p>
 </td>
-<td>
+<td width="89">
 <p align="center">Nombre d'emplois</p>
 </td>
-<td>
+<td width="111">
 <p align="center">Nombre de points par emploi</p>
 </td>
 </tr>
 <tr>
-<td>
-<p>Secrétaire général des ministères chargés des affaires sociale</p>
+<td width="406">
+<p>Secrétaire général des ministères chargés des affaires sociales</p>
 </td>
-<td>
+<td width="89">
 <p align="center">1</p>
 </td>
-<td>
+<td width="111">
 <p align="center">180</p>
 </td>
 </tr>
@@ -65,252 +65,237 @@ A. - Emplois en administration centrale
 <table>
 <tbody>
 <tr>
-<td width="352">
+<td width="411">
 <p align="center">Désignation de l'emploi</p>
 </td>
-<td width="105">
+<td width="88">
 <p align="center">Nombre d'emplois</p>
 </td>
-<td width="148">
+<td width="106">
 <p align="center">Nombre de points par emploi</p>
 </td>
 </tr>
 <tr>
-<td width="352">
-<p>Délégué général :</p>
+<td width="411">
+<p>Délégué général à l'emploi et à la formation professionnelle </p>
 </td>
-<td width="105">
-<br/>
-<br/>
-</td>
-<td width="148">
-<br/>
-<br/>
-</td>
-</tr>
-<tr>
-<td width="352">
-<p>Délégué général à l'emploi et à la formation professionnelle</p>
-</td>
-<td width="105">
+<td width="88">
 <p align="center">1</p>
 </td>
-<td width="148">
+<td width="106">
 <p align="center">180</p>
 </td>
 </tr>
 <tr>
-<td width="352">
-<p>Directeur général d'administration centrale :</p>
-</td>
-<td width="105">
-<br/>
-<br/>
-</td>
-<td width="148">
-<br/>
-<br/>
+<td colspan="3" width="411">
+<p align="center">                                      Directeur général d'administration centrale :</p>
 </td>
 </tr>
 <tr>
-<td width="352">
+<td width="411">
+<p>Directeur général du travail (à compter du 22 août 2006)</p>
+</td>
+<td width="88">
+<p align="center">1</p>
+</td>
+<td width="106">
+<p align="center">180</p>
+</td>
+</tr>
+<tr>
+<td width="411">
 <p>Directeur général de la santé</p>
 </td>
-<td width="105">
+<td width="88">
 <p align="center">1</p>
 </td>
-<td width="148">
+<td width="106">
 <p align="center">180</p>
 </td>
 </tr>
 <tr>
-<td width="352">
+<td width="411">
 <p>Directeur général de l'action sociale</p>
 </td>
-<td width="105">
+<td width="88">
 <p align="center">1</p>
 </td>
-<td width="148">
+<td width="106">
 <p align="center">180</p>
 </td>
 </tr>
 <tr>
-<td width="352">
+<td width="411">
 <p>Délégué général adjoint à l'emploi et à la formation professionnelle</p>
 </td>
-<td width="105">
+<td width="88">
 <p align="center">1</p>
 </td>
-<td width="148">
+<td width="106">
 <p align="center">150</p>
 </td>
 </tr>
 <tr>
-<td width="352">
-<p>Directeur d'administration centrale :</p>
-</td>
-<td width="105">
-<br/>
-<br/>
-</td>
-<td width="148">
-<br/>
-<br/>
+<td colspan="3" width="411">
+<p align="center">Directeur d'administration centrale :</p>
 </td>
 </tr>
 <tr>
-<td width="352">
+<td width="411">
 <p>Directeur de l'animation de la recherche, des études et des statistiques</p>
 </td>
-<td width="105">
+<td width="88">
 <p align="center">1</p>
 </td>
-<td width="148">
+<td width="106">
 <p align="center">150</p>
 </td>
 </tr>
 <tr>
-<td width="352">
-<p>Directeur des relations du travail</p>
+<td width="411">
+<p>Directeur , adjoint au directeur général du travail (à compter du 22 août 2006)</p>
 </td>
-<td width="105">
+<td width="88">
 <p align="center">1</p>
 </td>
-<td width="148">
+<td width="106">
 <p align="center">150</p>
 </td>
 </tr>
 <tr>
-<td width="352">
+<td width="411">
 <p>Directeur de l'administration générale et de la modernisation des services</p>
 </td>
-<td width="105">
+<td width="88">
 <p align="center">1</p>
 </td>
-<td width="148">
+<td width="106">
 <p align="center">150</p>
 </td>
 </tr>
 <tr>
-<td width="352">
+<td width="411">
 <p>Directeur de l'hospitalisation et de l'organisation des soins</p>
 </td>
-<td width="105">
+<td width="88">
 <p align="center">1</p>
 </td>
-<td width="148">
+<td width="106">
 <p align="center">150</p>
 </td>
 </tr>
 <tr>
-<td width="352">
+<td width="411">
 <p>Directeur de la population et des migrations</p>
 </td>
-<td width="105">
+<td width="88">
 <p align="center">1</p>
 </td>
-<td width="148">
+<td width="106">
 <p align="center">150</p>
 </td>
 </tr>
 <tr>
-<td width="352">
+<td width="411">
 <p>Directeur de la sécurité sociale</p>
 </td>
-<td width="105">
+<td width="88">
 <p align="center">1</p>
 </td>
-<td width="148">
+<td width="106">
 <p align="center">150</p>
 </td>
 </tr>
 <tr>
-<td width="352">
+<td width="411">
 <p>Directeur de l'administration générale, du personnel et du budget</p>
 </td>
-<td width="105">
+<td width="88">
 <p align="center">1</p>
 </td>
-<td width="148">
+<td width="106">
 <p align="center">150</p>
 </td>
 </tr>
 <tr>
-<td width="352">
+<td width="411">
 <p>Directeur de la recherche, des études, de l'évaluation et des statistiques</p>
 </td>
-<td width="105">
+<td width="88">
 <p align="center">1</p>
 </td>
-<td width="148">
+<td width="106">
 <p align="center">150</p>
 </td>
 </tr>
 <tr>
-<td width="352">
-<p>Délégué :</p>
-</td>
-<td width="105">
-<br/>
-<br/>
-</td>
-<td width="148">
-<br/>
-<br/>
+<td colspan="3" width="411">
+<p align="center">Délégué :</p>
 </td>
 </tr>
 <tr>
-<td width="352">
+<td width="411">
 <p>Délégué interministériel à l'insertion professionnelle et sociale des jeunes en difficulté</p>
 </td>
-<td width="105">
+<td width="88">
 <p align="center">1</p>
 </td>
-<td width="148">
+<td width="106">
 <p align="center">140</p>
 </td>
 </tr>
 <tr>
-<td width="352">
+<td width="411">
 <p>Délégué interministériel à la lutte contre le travail illégal</p>
 </td>
-<td width="105">
+<td width="88">
 <p align="center">1</p>
 </td>
-<td width="148">
+<td width="106">
 <p align="center">140</p>
 </td>
 </tr>
 <tr>
-<td width="352">
+<td width="411">
 <p>Délégué aux affaires européennes et internationales</p>
 </td>
-<td width="105">
+<td width="88">
 <p align="center">1</p>
 </td>
-<td width="148">
+<td width="106">
 <p align="center">140</p>
 </td>
 </tr>
 <tr>
-<td width="352">
+<td width="411">
+<p>Délégué interministériel à l'innovation, à l'expérimentation sociale et à l'économie sociale (à compter du 13 février 2006)</p>
+</td>
+<td width="88">
+<p align="center">1</p>
+</td>
+<td width="106">
+<p align="center">140</p>
+</td>
+</tr>
+<tr>
+<td width="411">
 <p>Délégué interministériel à la famille</p>
 </td>
-<td width="105">
+<td width="88">
 <p align="center">1</p>
 </td>
-<td width="148">
+<td width="106">
 <p align="center">140</p>
 </td>
 </tr>
 <tr>
-<td width="352">
+<td width="411">
 <p>Délégué interministériel aux personnes handicapées</p>
 </td>
-<td width="105">
+<td width="88">
 <p align="center">1</p>
 </td>
-<td width="148">
+<td width="106">
 <p align="center">140</p>
 </td>
 </tr>
@@ -322,13 +307,13 @@ A. - Emplois en administration centrale
 <table>
 <tbody>
 <tr>
-<td width="413">
+<td width="472">
 <p align="center">Désignation de l'emploi</p>
 </td>
-<td width="86">
+<td width="71">
 <p align="center">Nombre d'emplois</p>
 </td>
-<td width="106">
+<td width="63">
 <p align="center">Nombre de points par emploi</p>
 </td>
 </tr>
@@ -338,101 +323,101 @@ A. - Emplois en administration centrale
 </td>
 </tr>
 <tr>
-<td width="413">
-<p>Chef de service, direction de l'animation de la recherche, des études et des statistiques</p>
+<td width="472">
+<p>Chef de service, direction générale du travail (à compter du 22 août 2006)</p>
 </td>
-<td width="86">
+<td width="71">
 <p align="center">1</p>
 </td>
-<td width="106">
+<td width="63">
 <p align="center">120</p>
 </td>
 </tr>
 <tr>
-<td width="413">
-<p>Chef de service, direction des relations du travail</p>
+<td width="472">
+<p>Chef de service, direction de l'animation, de la recherche, des études et des statistiques</p>
 </td>
-<td width="86">
+<td width="71">
 <p align="center">1</p>
 </td>
-<td width="106">
+<td width="63">
 <p align="center">120</p>
 </td>
 </tr>
 <tr>
-<td width="413">
+<td width="472">
 <p>Chef de service, direction de l'administration générale et de la modernisation des services</p>
 </td>
-<td width="86">
+<td width="71">
 <p align="center">1</p>
 </td>
-<td width="106">
+<td width="63">
 <p align="center">120</p>
 </td>
 </tr>
 <tr>
-<td width="413">
+<td width="472">
 <p>Chef de service, direction générale de la santé</p>
 </td>
-<td width="86">
+<td width="71">
 <p align="center">2</p>
 </td>
-<td width="106">
+<td width="63">
 <p align="center">120</p>
 </td>
 </tr>
 <tr>
-<td width="413">
+<td width="472">
 <p>Chef de service, direction générale de l'action sociale</p>
 </td>
-<td width="86">
+<td width="71">
 <p align="center">2</p>
 </td>
-<td width="106">
+<td width="63">
 <p align="center">120</p>
 </td>
 </tr>
 <tr>
-<td width="413">
+<td width="472">
 <p>Chef de service, direction de l'hospitalisation et de l'organisation des soins</p>
 </td>
-<td width="86">
+<td width="71">
 <p align="center">2</p>
 </td>
-<td width="106">
+<td width="63">
 <p align="center">120</p>
 </td>
 </tr>
 <tr>
-<td width="413">
+<td width="472">
 <p>Chef de service, direction de la population et des migrations</p>
 </td>
-<td width="86">
+<td width="71">
 <p align="center">1</p>
 </td>
-<td width="106">
+<td width="63">
 <p align="center">120</p>
 </td>
 </tr>
 <tr>
-<td width="413">
-<p>Chef de service, direction de la sécurité sociale</p>
+<td width="472">
+<p>Chef de service, direction de la sécurité sociale (à compter du 3 janvier 2006)</p>
 </td>
-<td width="86">
-<p align="center">1</p>
+<td width="71">
+<p align="center">2</p>
 </td>
-<td width="106">
+<td width="63">
 <p align="center">120</p>
 </td>
 </tr>
 <tr>
-<td width="413">
+<td width="472">
 <p>Chef de service, direction de la recherche, des études, de l'évaluation et des statistiques</p>
 </td>
-<td width="86">
+<td width="71">
 <p align="center">1</p>
 </td>
-<td width="106">
+<td width="63">
 <p align="center">120</p>
 </td>
 </tr>
@@ -442,217 +427,227 @@ A. - Emplois en administration centrale
 </td>
 </tr>
 <tr>
-<td width="413">
+<td width="472">
 <p>Chef de service, délégation générale à l'emploi et à la formation professionnelle</p>
 </td>
-<td width="86">
+<td width="71">
 <p align="center">2</p>
 </td>
-<td width="106">
+<td width="63">
 <p align="center">120</p>
 </td>
 </tr>
 <tr>
-<td width="413">
+<td width="472">
 <p>Chef du service des ressources humaines, direction de l'administration générale, du personnel et du budget</p>
 </td>
-<td width="86">
+<td width="71">
 <p align="center">1</p>
 </td>
-<td width="106">
+<td width="63">
 <p align="center">120</p>
 </td>
 </tr>
 <tr>
-<td width="413">
+<td width="472">
 <p>Chef du service des droits des femmes et de l'égalité</p>
 </td>
-<td width="86">
+<td width="71">
 <p align="center">1</p>
 </td>
-<td width="106">
+<td width="63">
 <p align="center">120</p>
 </td>
 </tr>
 <tr>
-<td width="413">
-<p>Chef du service de l'information et de la communication</p>
+<td width="472">
+<p>Chef du service, de l'information et de la communication </p>
 </td>
-<td width="86">
+<td width="71">
 <p align="center">1</p>
 </td>
-<td width="106">
+<td width="63">
 <p align="center">120</p>
 </td>
 </tr>
 <tr>
-<td width="413">
-<p>Délégation générale à l'emploi et à la formation professionnelle : sous-directeur au développement de l'activité et de l'emploi</p>
+<td width="472">
+<p>Délégation générale à l'emploi et à la formation professionnelle : sous-directeur de l'insertion et de la cohésion sociale (à compter du 12 octobre 2005)</p>
 </td>
-<td width="86">
+<td width="71">
 <p align="center">1</p>
 </td>
-<td width="106">
+<td width="63">
 <p align="center">110</p>
 </td>
 </tr>
 <tr>
-<td width="413">
-<p>Délégation générale à l'emploi et à la formation professionnelle : sous-directeur des marchés de l'emploi et de la formation professionnelle</p>
+<td width="472">
+<p>Délégation générale à l'emploi et à la formation professionnelle : sous-directeur des politiques de formation et du contrôle (à compter du 12 octobre 2005)</p>
 </td>
-<td width="86">
+<td width="71">
 <p align="center">1</p>
 </td>
-<td width="106">
+<td width="63">
 <p align="center">110</p>
 </td>
 </tr>
 <tr>
-<td width="413">
-<p>Délégation générale à l'emploi et à la formation professionnelle : sous-directeur des branches et entreprises</p>
+<td width="472">
+<p>Délégation générale à l'emploi et à la formation professionnelle : sous-directeur des mutations économiques (à compter du 12 octobre 2005)</p>
 </td>
-<td width="86">
+<td width="71">
 <p align="center">1</p>
 </td>
-<td width="106">
+<td width="63">
 <p align="center">110</p>
 </td>
 </tr>
 <tr>
-<td width="413">
-<p>Direction des relations du travail : sous-directeur de la négociation collective</p>
+<td width="472">
+<p>Délégation générale à l'emploi et à la formation professionnelle : sous-directeur du service public de l'emploi (à compter du 12 octobre 2005)</p>
 </td>
-<td width="86">
+<td width="71">
 <p align="center">1</p>
 </td>
-<td width="106">
+<td width="63">
 <p align="center">110</p>
 </td>
 </tr>
 <tr>
-<td width="413">
-<p>Direction des relations du travail : sous-directeur des conditions de travail et de la protection contre les risques du travail</p>
+<td width="472">
+<p>Direction générale du travail, sous-directeur des relations individuelles et collectives du travail (à compter du 22 août 2006)</p>
 </td>
-<td width="86">
+<td width="71">
 <p align="center">1</p>
 </td>
-<td width="106">
+<td width="63">
 <p align="center">110</p>
 </td>
 </tr>
 <tr>
-<td width="413">
+<td width="472">
+<p>Direction générale du travail, sous-directeur des conditions de travail, de la santé et de la sécurité au travail (à compter du 22 août 2006)</p>
+</td>
+<td width="71">
+<p align="center">1</p>
+</td>
+<td width="63">
+<p align="center">110</p>
+</td>
+</tr>
+<tr>
+<td width="472">
 <p>Direction de l'animation de la recherche, des études et des statistiques : sous-directeur du suivi et de l'évaluation des politiques de l'emploi et de la formation professionnelle</p>
 </td>
-<td width="86">
+<td width="71">
 <p align="center">1</p>
 </td>
-<td width="106">
+<td width="63">
 <p align="center">110</p>
 </td>
 </tr>
 <tr>
-<td width="413">
+<td width="472">
 <p>Direction de l'administration générale et de la modernisation des services : sous-directeur des carrières et des compétences (à compter du 25 avril 2003)</p>
 </td>
-<td width="86">
+<td width="71">
 <p align="center">1</p>
 </td>
-<td width="106">
+<td width="63">
 <p align="center">110</p>
 </td>
 </tr>
 <tr>
-<td width="413">
+<td width="472">
 <p>Direction de l'administration générale et de la modernisation des services : sous-directeur des finances et du dialogue de gestion (à compter du 25 avril 2003)</p>
 </td>
-<td width="86">
+<td width="71">
 <p align="center">1</p>
 </td>
-<td width="106">
+<td width="63">
 <p align="center">110</p>
 </td>
 </tr>
 <tr>
-<td width="413">
+<td width="472">
 <p>Direction générale de la santé : sous-directeur pathologies et santé</p>
 </td>
-<td width="86">
+<td width="71">
 <p align="center">1</p>
 </td>
-<td width="106">
+<td width="63">
 <p align="center">110</p>
 </td>
 </tr>
 <tr>
-<td width="413">
+<td width="472">
 <p>Direction générale de la santé : sous-directeur gestion des risques des milieux</p>
 </td>
-<td width="86">
+<td width="71">
 <p align="center">1</p>
 </td>
-<td width="106">
+<td width="63">
 <p align="center">110</p>
 </td>
 </tr>
 <tr>
-<td width="413">
+<td width="472">
 <p>Direction générale de la santé : sous-directeur de la politique des produits de santé</p>
 </td>
-<td width="86">
+<td width="71">
 <p align="center">1</p>
 </td>
-<td width="106">
+<td width="63">
 <p align="center">110</p>
 </td>
 </tr>
 <tr>
-<td width="413">
+<td width="472">
 <p>Direction générale de l'action sociale : sous-directeur des institutions, des affaires juridiques et financières</p>
 </td>
-<td width="86">
+<td width="71">
 <p align="center">1</p>
 </td>
-<td width="106">
+<td width="63">
 <p align="center">110</p>
 </td>
 </tr>
 <tr>
-<td width="413">
+<td width="472">
 <p>Direction générale de l'action sociale : sous-directeur des politiques d'insertion et de lutte contre les exclusions</p>
 </td>
-<td width="86">
+<td width="71">
 <p align="center">1</p>
 </td>
-<td width="106">
+<td width="63">
 <p align="center">110</p>
 </td>
 </tr>
 <tr>
-<td width="413">
+<td width="472">
 <p>Direction de l'hospitalisation et de l'organisation des soins : sous-directeur de l'organisation des systèmes de soins</p>
 </td>
-<td width="86">
+<td width="71">
 <p align="center">1</p>
 </td>
-<td width="106">
+<td width="63">
 <p align="center">110</p>
 </td>
 </tr>
 <tr>
-<td width="413">
+<td width="472">
 <p>Direction de l'hospitalisation et de l'organisation des soins : sous-directeur des professions paramédicales et des personnels hospitaliers</p>
 </td>
-<td width="86">
+<td width="71">
 <p align="center">1</p>
 </td>
-<td width="106">
+<td width="63">
 <p align="center">110</p>
 </td>
 </tr>
 </tbody>
 </table>
-
 <table>
 <tbody>
 <tr>
@@ -723,7 +718,7 @@ A. - Emplois en administration centrale
 </tr>
 <tr>
 <td width="454">
-<p>Délégation générale à l'emploi et à la formation professionnelle : sous-directeur de la formation tout au long de la vie</p>
+<p>Délégation générale à l'emploi et à la formation professionnelle : sous-directeur du Fonds social européen (à compter du 12 octobre 2005)</p>
 </td>
 <td width="76">
 <p align="center">1</p>
@@ -734,29 +729,7 @@ A. - Emplois en administration centrale
 </tr>
 <tr>
 <td width="454">
-<p>Délégation générale à l'emploi et à la formation professionnelle : sous-directeur des formations en alternance et de l'insertion des jeunes</p>
-</td>
-<td width="76">
-<p align="center">1</p>
-</td>
-<td width="76">
-<p align="center">80</p>
-</td>
-</tr>
-<tr>
-<td width="454">
-<p>Délégation générale à l'emploi et à la formation professionnelle : sous-directeur du contrôle national de la formation professionnelle (à compter du 25 avril 2003)</p>
-</td>
-<td width="76">
-<p align="center">1</p>
-</td>
-<td width="76">
-<p align="center">80</p>
-</td>
-</tr>
-<tr>
-<td width="454">
-<p>Direction des relations du travail : sous-directeur du droit des salariés</p>
+<p>Direction générale du travail, sous-directeur des conseils des prud'hommes et du support (à compter du 22 août 2006)</p>
 </td>
 <td width="76">
 <p align="center">1</p>
@@ -1085,16 +1058,8 @@ A. - Emplois en administration centrale
 </td>
 </tr>
 <tr>
-<td width="454">
-<p>Directeur de projet :</p>
-</td>
-<td width="76">
-<br/>
-<br/>
-</td>
-<td width="76">
-<br/>
-<br/>
+<td colspan="3" width="454">
+<p align="center">Directeur de projet :</p>
 </td>
 </tr>
 <tr>
@@ -1110,10 +1075,10 @@ A. - Emplois en administration centrale
 </tr>
 <tr>
 <td width="454">
-<p>Délégation générale à l'emploi et à la formation professionnelle</p>
+<p>Délégation générale à l'emploi et à la formation professionnelle (à compter du 3 mai 2006)</p>
 </td>
 <td width="76">
-<p align="center">1</p>
+<p align="center">2</p>
 </td>
 <td width="76">
 <p align="center">80</p>
@@ -1132,7 +1097,7 @@ A. - Emplois en administration centrale
 </tr>
 <tr>
 <td width="454">
-<p>Direction de l'animation de la recherche, des études et des statistiques (à compter du 1er janvier 2003)</p>
+<p>Direction de l'animation de la recherche, des études et des statistiques (à compter du 1<sup>er</sup> janvier 2003)</p>
 </td>
 <td width="76">
 <p align="center">1</p>
@@ -1154,17 +1119,6 @@ A. - Emplois en administration centrale
 </tr>
 <tr>
 <td width="454">
-<p>Délégation générale à l'emploi et à la formation professionnelle / direction de l'animation de la recherche, des études et des statistiques (à compter du 30 décembre 2004)</p>
-</td>
-<td width="76">
-<p align="center">1</p>
-</td>
-<td width="76">
-<p align="center">80</p>
-</td>
-</tr>
-<tr>
-<td width="454">
 <p>Direction générale de la santé</p>
 </td>
 <td width="76">
@@ -1176,18 +1130,7 @@ A. - Emplois en administration centrale
 </tr>
 <tr>
 <td width="454">
-<p>Direction générale de l'action sociale (à compter du 23 juin 2003)</p>
-</td>
-<td width="76">
-<p align="center">1</p>
-</td>
-<td width="76">
-<p align="center">80</p>
-</td>
-</tr>
-<tr>
-<td width="454">
-<p>Direction de l'administration générale, du personnel et du budget (à compter du 23 juin 2003)</p>
+<p>Direction générale de l'action sociale (à compter du 12 août 2005)</p>
 </td>
 <td width="76">
 <p align="center">2</p>
@@ -1198,10 +1141,10 @@ A. - Emplois en administration centrale
 </tr>
 <tr>
 <td width="454">
-<p>Direction de l'hospitalisation et de l'organisation des soins</p>
+<p>Direction de l'administration générale, du personnel et du budget (à compter du 28 mai 2006)</p>
 </td>
 <td width="76">
-<p align="center">4</p>
+<p align="center">3</p>
 </td>
 <td width="76">
 <p align="center">80</p>
@@ -1209,7 +1152,18 @@ A. - Emplois en administration centrale
 </tr>
 <tr>
 <td width="454">
-<p>Direction de la sécurité sociale</p>
+<p>Direction de l'hospitalisation et de l'organisation des soins (à compter du 12 août 2005)</p>
+</td>
+<td width="76">
+<p align="center">3</p>
+</td>
+<td width="76">
+<p align="center">80</p>
+</td>
+</tr>
+<tr>
+<td width="454">
+<p>Direction de la sécurité sociale </p>
 </td>
 <td width="76">
 <p align="center">2</p>
@@ -1226,37 +1180,29 @@ A. - Emplois en administration centrale
 <table>
 <tbody>
 <tr>
-<td width="412">
+<td width="406">
 <p align="center">Désignation de l'emploi</p>
 </td>
 <td width="89">
 <p align="center">Nombre d'emplois</p>
 </td>
-<td width="112">
+<td width="111">
 <p align="center">Nombre de points par emploi</p>
 </td>
 </tr>
 <tr>
-<td width="412">
-<p align="center">Chef de mission :</p>
-</td>
-<td width="89">
-<br/>
-<br/>
-</td>
-<td width="112">
-<br/>
-<br/>
+<td colspan="3" width="406">
+<p align="right">Chef de mission :</p>
 </td>
 </tr>
 <tr>
-<td width="412">
+<td width="406">
 <p>Direction de l'administration générale et de la modernisation des services : chef de la mission centrale d'appui et de coordination des services déconcentrés</p>
 </td>
 <td width="89">
 <p align="center">1</p>
 </td>
-<td width="112">
+<td width="111">
 <p align="center">80</p>
 </td>
 </tr>
@@ -1268,24 +1214,24 @@ A. - Emplois en administration centrale
 <table>
 <tbody>
 <tr>
-<td width="292">
+<td width="406">
 <p align="center">Désignation de l'emploi</p>
 </td>
-<td width="126">
+<td width="89">
 <p align="center">Nombre d'emplois</p>
 </td>
-<td width="187">
+<td width="111">
 <p align="center">Nombre de points par emploi</p>
 </td>
 </tr>
 <tr>
-<td width="292">
+<td width="406">
 <p>Président de la mission interministérielle aux rapatriés</p>
 </td>
-<td width="126">
+<td width="89">
 <p align="center">1</p>
 </td>
-<td width="187">
+<td width="111">
 <p align="center">140</p>
 </td>
 </tr>
@@ -1847,894 +1793,816 @@ B. - Fonctions exercées en service déconcentré
 <p align="center">90</p>
 </td>
 </tr>
-<tr>
-<td width="233">
-<p>Corse</p>
-</td>
-<td width="168">
-<p align="center">1</p>
-</td>
-<td width="204">
-<p align="center">90</p>
-</td>
-</tr>
-<tr>
-<td width="233">
-<p>Franche-Comté</p>
-</td>
-<td width="168">
-<p align="center">1</p>
-</td>
-<td width="204">
-<p align="center">90</p>
-</td>
-</tr>
-<tr>
-<td width="233">
-<p>Haute-Normandie</p>
-</td>
-<td width="168">
-<p align="center">1</p>
-</td>
-<td width="204">
-<p align="center">90</p>
-</td>
-</tr>
-<tr>
-<td width="233">
-<p>Limousin</p>
-</td>
-<td width="168">
-<p align="center">1</p>
-</td>
-<td width="204">
-<p align="center">90</p>
-</td>
-</tr>
-<tr>
-<td width="233">
-<p>Lorraine</p>
-</td>
-<td width="168">
-<p align="center">1</p>
-</td>
-<td width="204">
-<p align="center">90</p>
-</td>
-</tr>
-<tr>
-<td width="233">
-<p>Picardie</p>
-</td>
-<td width="168">
-<p align="center">1</p>
-</td>
-<td width="204">
-<p align="center">90</p>
-</td>
-</tr>
-<tr>
-<td width="233">
-<p>Poitou-Charentes</p>
-</td>
-<td width="168">
-<p align="center">1</p>
-</td>
-<td width="204">
-<p align="center">90</p>
-</td>
-</tr>
 </tbody>
 </table>
 <table>
 <tbody>
 <tr>
-<td width="233">
-<p align="center">
-<br/>Directeur départemental des affaires sanitaires et sociales</p>
+<td width="230">
+<br/>
+<p align="center">Directeur départemental des affaires sanitaires et sociales</p>
 </td>
-<td width="169">
+<td width="166">
 <p align="center">Nombre d'emplois</p>
 </td>
-<td width="213">
+<td width="209">
 <p align="center">Nombre de points par emploi</p>
 </td>
 </tr>
 <tr>
-<td width="233">
+<td width="230">
 <p>Bouches-du-Rhône</p>
 </td>
-<td width="169">
+<td width="166">
 <p align="center">1</p>
 </td>
-<td width="213">
+<td width="209">
 <p align="center">110</p>
 </td>
 </tr>
 <tr>
-<td width="233">
+<td width="230">
 <p>Nord</p>
 </td>
-<td width="169">
+<td width="166">
 <p align="center">1</p>
 </td>
-<td width="213">
+<td width="209">
 <p align="center">110</p>
 </td>
 </tr>
 <tr>
-<td width="233">
+<td width="230">
 <p>Paris</p>
 </td>
-<td width="169">
+<td width="166">
 <p align="center">1</p>
 </td>
-<td width="213">
+<td width="209">
 <p align="center">110</p>
 </td>
 </tr>
 <tr>
-<td width="233">
+<td width="230">
 <p>Rhône</p>
 </td>
-<td width="169">
+<td width="166">
 <p align="center">1</p>
 </td>
-<td width="213">
+<td width="209">
 <p align="center">110</p>
 </td>
 </tr>
 <tr>
-<td width="233">
+<td width="230">
 <p>Seine-Saint-Denis</p>
 </td>
-<td width="169">
+<td width="166">
 <p align="center">1</p>
 </td>
-<td width="213">
+<td width="209">
 <p align="center">110</p>
 </td>
 </tr>
 <tr>
-<td width="233">
+<td width="230">
 <p>Alpes-Maritimes</p>
 </td>
-<td width="169">
+<td width="166">
 <p align="center">1</p>
 </td>
-<td width="213">
+<td width="209">
 <p align="center">90</p>
 </td>
 </tr>
 <tr>
-<td width="233">
+<td width="230">
 <p>Bas-Rhin</p>
 </td>
-<td width="169">
+<td width="166">
 <p align="center">1</p>
 </td>
-<td width="213">
+<td width="209">
 <p align="center">90</p>
 </td>
 </tr>
 <tr>
-<td width="233">
+<td width="230">
 <p>Essonne</p>
 </td>
-<td width="169">
+<td width="166">
 <p align="center">1</p>
 </td>
-<td width="213">
+<td width="209">
 <p align="center">90</p>
 </td>
 </tr>
 <tr>
-<td width="233">
+<td width="230">
 <p>Finistère</p>
 </td>
-<td width="169">
+<td width="166">
 <p align="center">1</p>
 </td>
-<td width="213">
+<td width="209">
 <p align="center">90</p>
 </td>
 </tr>
 <tr>
-<td width="233">
+<td width="230">
 <p>Gard</p>
 </td>
-<td width="169">
+<td width="166">
 <p align="center">1</p>
 </td>
-<td width="213">
+<td width="209">
 <p align="center">90</p>
 </td>
 </tr>
 <tr>
-<td width="233">
+<td width="230">
 <p>Gironde</p>
 </td>
-<td width="169">
+<td width="166">
 <p align="center">1</p>
 </td>
-<td width="213">
+<td width="209">
 <p align="center">90</p>
 </td>
 </tr>
 <tr>
-<td width="233">
+<td width="230">
 <p>Haute-Garonne</p>
 </td>
-<td width="169">
+<td width="166">
 <p align="center">1</p>
 </td>
-<td width="213">
+<td width="209">
 <p align="center">90</p>
 </td>
 </tr>
 <tr>
-<td width="233">
+<td width="230">
 <p>Haut-Rhin</p>
 </td>
-<td width="169">
+<td width="166">
 <p align="center">1</p>
 </td>
-<td width="213">
+<td width="209">
 <p align="center">90</p>
 </td>
 </tr>
 <tr>
-<td width="233">
+<td width="230">
 <p>Hauts-de-Seine</p>
 </td>
-<td width="169">
+<td width="166">
 <p align="center">1</p>
 </td>
-<td width="213">
+<td width="209">
 <p align="center">90</p>
 </td>
 </tr>
 <tr>
-<td width="233">
+<td width="230">
 <p>Hérault</p>
 </td>
-<td width="169">
+<td width="166">
 <p align="center">1</p>
 </td>
-<td width="213">
+<td width="209">
 <p align="center">90</p>
 </td>
 </tr>
 <tr>
-<td width="233">
+<td width="230">
 <p>Isère</p>
 </td>
-<td width="169">
+<td width="166">
 <p align="center">1</p>
 </td>
-<td width="213">
+<td width="209">
 <p align="center">90</p>
 </td>
 </tr>
 <tr>
-<td width="233">
+<td width="230">
 <p>Loire-Atlantique</p>
 </td>
-<td width="169">
+<td width="166">
 <p align="center">1</p>
 </td>
-<td width="213">
+<td width="209">
 <p align="center">90</p>
 </td>
 </tr>
 <tr>
-<td width="233">
+<td width="230">
 <p>Meurthe-et-Moselle</p>
 </td>
-<td width="169">
+<td width="166">
 <p align="center">1</p>
 </td>
-<td width="213">
+<td width="209">
 <p align="center">90</p>
 </td>
 </tr>
 <tr>
-<td width="233">
+<td width="230">
 <p>Moselle</p>
 </td>
-<td width="169">
+<td width="166">
 <p align="center">1</p>
 </td>
-<td width="213">
+<td width="209">
 <p align="center">90</p>
 </td>
 </tr>
 <tr>
-<td width="233">
+<td width="230">
 <p>Pas-de-Calais</p>
 </td>
-<td width="169">
+<td width="166">
 <p align="center">1</p>
 </td>
-<td width="213">
+<td width="209">
 <p align="center">90</p>
 </td>
 </tr>
 <tr>
-<td width="233">
+<td width="230">
 <p>Seine-et-Marne</p>
 </td>
-<td width="169">
+<td width="166">
 <p align="center">1</p>
 </td>
-<td width="213">
+<td width="209">
 <p align="center">90</p>
 </td>
 </tr>
 <tr>
-<td width="233">
+<td width="230">
 <p>Val-de-Marne</p>
 </td>
-<td width="169">
+<td width="166">
 <p align="center">1</p>
 </td>
-<td width="213">
+<td width="209">
 <p align="center">90</p>
 </td>
 </tr>
 <tr>
-<td width="233">
+<td width="230">
 <p>Val-d'Oise</p>
 </td>
-<td width="169">
+<td width="166">
 <p align="center">1</p>
 </td>
-<td width="213">
+<td width="209">
 <p align="center">90</p>
 </td>
 </tr>
 <tr>
-<td width="233">
+<td width="230">
 <p>Var</p>
 </td>
-<td width="169">
+<td width="166">
 <p align="center">1</p>
 </td>
-<td width="213">
+<td width="209">
 <p align="center">90</p>
 </td>
 </tr>
 <tr>
-<td width="233">
+<td width="230">
 <p>Yvelines</p>
 </td>
-<td width="169">
+<td width="166">
 <p align="center">1</p>
 </td>
-<td width="213">
+<td width="209">
 <p align="center">90</p>
 </td>
 </tr>
 <tr>
-<td width="233">
+<td width="230">
 <p>Calvados</p>
 </td>
-<td width="169">
+<td width="166">
 <p align="center">1</p>
 </td>
-<td width="213">
+<td width="209">
 <p align="center">80</p>
 </td>
 </tr>
 <tr>
-<td width="233">
+<td width="230">
 <p>Charente-Maritime</p>
 </td>
-<td width="169">
+<td width="166">
 <p align="center">1</p>
 </td>
-<td width="213">
+<td width="209">
 <p align="center">80</p>
 </td>
 </tr>
 <tr>
-<td width="233">
+<td width="230">
 <p>Drôme</p>
 </td>
-<td width="169">
+<td width="166">
 <p align="center">1</p>
 </td>
-<td width="213">
+<td width="209">
 <p align="center">80</p>
 </td>
 </tr>
 <tr>
-<td width="233">
+<td width="230">
 <p>Ille-et-Vilaine</p>
 </td>
-<td width="169">
+<td width="166">
 <p align="center">1</p>
 </td>
-<td width="213">
+<td width="209">
 <p align="center">80</p>
 </td>
 </tr>
 <tr>
-<td width="233">
+<td width="230">
 <p>Indre-et-Loire</p>
 </td>
-<td width="169">
+<td width="166">
 <p align="center">1</p>
 </td>
-<td width="213">
+<td width="209">
 <p align="center">80</p>
 </td>
 </tr>
 <tr>
-<td width="233">
+<td width="230">
 <p>Loire</p>
 </td>
-<td width="169">
+<td width="166">
 <p align="center">1</p>
 </td>
-<td width="213">
+<td width="209">
 <p align="center">80</p>
 </td>
 </tr>
 <tr>
-<td width="233">
+<td width="230">
 <p>Maine-et-Loire</p>
 </td>
-<td width="169">
+<td width="166">
 <p align="center">1</p>
 </td>
-<td width="213">
+<td width="209">
 <p align="center">80</p>
 </td>
 </tr>
 <tr>
-<td width="233">
+<td width="230">
 <p>Mayotte</p>
 </td>
-<td width="169">
+<td width="166">
 <p align="center">1</p>
 </td>
-<td width="213">
+<td width="209">
 <p align="center">80</p>
 </td>
 </tr>
 <tr>
-<td width="233">
+<td width="230">
 <p>Morbihan</p>
 </td>
-<td width="169">
+<td width="166">
 <p align="center">1</p>
 </td>
-<td width="213">
+<td width="209">
 <p align="center">80</p>
 </td>
 </tr>
 <tr>
-<td width="233">
+<td width="230">
 <p>Puy-de-Dôme</p>
 </td>
-<td width="169">
+<td width="166">
 <p align="center">1</p>
 </td>
-<td width="213">
+<td width="209">
 <p align="center">80</p>
 </td>
 </tr>
 <tr>
-<td width="233">
+<td width="230">
 <p>Pyrénées-Atlantiques</p>
 </td>
-<td width="169">
+<td width="166">
 <p align="center">1</p>
 </td>
-<td width="213">
+<td width="209">
 <p align="center">80</p>
 </td>
 </tr>
 <tr>
-<td width="233">
+<td width="230">
 <p>Saône-et-Loire</p>
 </td>
-<td width="169">
+<td width="166">
 <p align="center">1</p>
 </td>
-<td width="213">
+<td width="209">
 <p align="center">80</p>
 </td>
 </tr>
 <tr>
-<td width="233">
+<td width="230">
 <p>Seine-Maritime</p>
 </td>
-<td width="169">
+<td width="166">
 <p align="center">1</p>
 </td>
-<td width="213">
+<td width="209">
 <p align="center">80</p>
 </td>
 </tr>
 <tr>
-<td width="233">
+<td width="230">
 <p>Somme</p>
 </td>
-<td width="169">
+<td width="166">
 <p align="center">1</p>
 </td>
-<td width="213">
+<td width="209">
 <p align="center">80</p>
 </td>
 </tr>
 <tr>
-<td width="233">
+<td width="230">
 <p>Ain</p>
 </td>
-<td width="169">
+<td width="166">
 <p align="center">1</p>
 </td>
-<td width="213">
+<td width="209">
 <p align="center">80</p>
 </td>
 </tr>
 <tr>
-<td width="233">
+<td width="230">
 <p>Aisne</p>
 </td>
-<td width="169">
+<td width="166">
 <p align="center">1</p>
 </td>
-<td width="213">
+<td width="209">
 <p align="center">80</p>
 </td>
 </tr>
 <tr>
-<td width="233">
+<td width="230">
 <p>Allier</p>
 </td>
-<td width="169">
+<td width="166">
 <p align="center">1</p>
 </td>
-<td width="213">
+<td width="209">
 <p align="center">80</p>
 </td>
 </tr>
 <tr>
-<td width="233">
+<td width="230">
 <p>Ardennes</p>
 </td>
-<td width="169">
+<td width="166">
 <p align="center">1</p>
 </td>
-<td width="213">
+<td width="209">
 <p align="center">80</p>
 </td>
 </tr>
 <tr>
-<td width="233">
+<td width="230">
 <p>Aude</p>
 </td>
-<td width="169">
+<td width="166">
 <p align="center">1</p>
 </td>
-<td width="213">
+<td width="209">
 <p align="center">80</p>
 </td>
 </tr>
 <tr>
-<td width="233">
+<td width="230">
 <p>Aveyron</p>
 </td>
-<td width="169">
+<td width="166">
 <p align="center">1</p>
 </td>
-<td width="213">
+<td width="209">
 <p align="center">80</p>
 </td>
 </tr>
 <tr>
-<td width="233">
+<td width="230">
 <p>Charente</p>
 </td>
-<td width="169">
+<td width="166">
 <p align="center">1</p>
 </td>
-<td width="213">
+<td width="209">
 <p align="center">80</p>
 </td>
 </tr>
 <tr>
-<td width="233">
+<td width="230">
 <p>Corrèze (à compter du 12 août 2003)</p>
 </td>
-<td width="169">
+<td width="166">
 <p align="center">1</p>
 </td>
-<td width="213">
+<td width="209">
 <p align="center">80</p>
 </td>
 </tr>
 <tr>
-<td width="233">
+<td width="230">
 <p>Côte-d'Or</p>
 </td>
-<td width="169">
+<td width="166">
 <p align="center">1</p>
 </td>
-<td width="213">
+<td width="209">
 <p align="center">80</p>
 </td>
 </tr>
 <tr>
-<td width="233">
+<td width="230">
 <p>Côtes-d'Armor</p>
 </td>
-<td width="169">
+<td width="166">
 <p align="center">1</p>
 </td>
-<td width="213">
+<td width="209">
 <p align="center">80</p>
 </td>
 </tr>
 <tr>
-<td width="233">
+<td width="230">
 <p>Dordogne</p>
 </td>
-<td width="169">
+<td width="166">
 <p align="center">1</p>
 </td>
-<td width="213">
+<td width="209">
 <p align="center">80</p>
 </td>
 </tr>
 <tr>
-<td width="233">
+<td width="230">
 <p>Doubs</p>
 </td>
-<td width="169">
+<td width="166">
 <p align="center">1</p>
 </td>
-<td width="213">
+<td width="209">
 <p align="center">80</p>
 </td>
 </tr>
 <tr>
-<td width="233">
+<td width="230">
 <p>Eure</p>
 </td>
-<td width="169">
+<td width="166">
 <p align="center">1</p>
 </td>
-<td width="213">
+<td width="209">
 <p align="center">80</p>
 </td>
 </tr>
 <tr>
-<td width="233">
+<td width="230">
 <p>Eure-et-Loir</p>
 </td>
-<td width="169">
+<td width="166">
 <p align="center">1</p>
 </td>
-<td width="213">
+<td width="209">
 <p align="center">80</p>
 </td>
 </tr>
 <tr>
-<td width="233">
+<td width="230">
 <p>Haute-Corse</p>
 </td>
-<td width="169">
+<td width="166">
 <p align="center">1</p>
 </td>
-<td width="213">
+<td width="209">
 <p align="center">80</p>
 </td>
 </tr>
 <tr>
-<td width="233">
+<td width="230">
 <p>Haute-Savoie</p>
 </td>
-<td width="169">
+<td width="166">
 <p align="center">1</p>
 </td>
-<td width="213">
+<td width="209">
 <p align="center">80</p>
 </td>
 </tr>
 <tr>
-<td width="233">
+<td width="230">
 <p>Hautes-Pyrénées</p>
 </td>
-<td width="169">
+<td width="166">
 <p align="center">1</p>
 </td>
-<td width="213">
+<td width="209">
 <p align="center">80</p>
 </td>
 </tr>
 <tr>
-<td width="233">
+<td width="230">
 <p>Haute-Vienne</p>
 </td>
-<td width="169">
+<td width="166">
 <p align="center">1</p>
 </td>
-<td width="213">
+<td width="209">
 <p align="center">80</p>
 </td>
 </tr>
 <tr>
-<td width="233">
+<td width="230">
 <p>Loiret</p>
 </td>
-<td width="169">
+<td width="166">
 <p align="center">1</p>
 </td>
-<td width="213">
+<td width="209">
 <p align="center">80</p>
 </td>
 </tr>
 <tr>
-<td width="233">
+<td width="230">
 <p>Manche</p>
 </td>
-<td width="169">
+<td width="166">
 <p align="center">1</p>
 </td>
-<td width="213">
+<td width="209">
 <p align="center">80</p>
 </td>
 </tr>
 <tr>
-<td width="233">
+<td width="230">
 <p>Marne</p>
 </td>
-<td width="169">
+<td width="166">
 <p align="center">1</p>
 </td>
-<td width="213">
+<td width="209">
 <p align="center">80</p>
 </td>
 </tr>
 <tr>
-<td width="233">
+<td width="230">
 <p>Nièvre (à compter du 12 août 2003)</p>
 </td>
-<td width="169">
+<td width="166">
 <p align="center">1</p>
 </td>
-<td width="213">
+<td width="209">
 <p align="center">80</p>
 </td>
 </tr>
 <tr>
-<td width="233">
+<td width="230">
 <p>Oise</p>
 </td>
-<td width="169">
+<td width="166">
 <p align="center">1</p>
 </td>
-<td width="213">
+<td width="209">
 <p align="center">80</p>
 </td>
 </tr>
 <tr>
-<td width="233">
+<td width="230">
 <p>Orne (à compter du 12 août 2003)</p>
 </td>
-<td width="169">
+<td width="166">
 <p align="center">1</p>
 </td>
-<td width="213">
+<td width="209">
 <p align="center">80</p>
 </td>
 </tr>
 <tr>
-<td width="233">
+<td width="230">
 <p>Pyrénées-Orientales</p>
 </td>
-<td width="169">
+<td width="166">
 <p align="center">1</p>
 </td>
-<td width="213">
+<td width="209">
 <p align="center">80</p>
 </td>
 </tr>
 <tr>
-<td width="233">
+<td width="230">
 <p>Sarthe</p>
 </td>
-<td width="169">
+<td width="166">
 <p align="center">1</p>
 </td>
-<td width="213">
+<td width="209">
 <p align="center">80</p>
 </td>
 </tr>
 <tr>
-<td width="233">
+<td width="230">
 <p>Savoie</p>
 </td>
-<td width="169">
+<td width="166">
 <p align="center">1</p>
 </td>
-<td width="213">
+<td width="209">
 <p align="center">80</p>
 </td>
 </tr>
 <tr>
-<td width="233">
+<td width="230">
 <p>Tarn</p>
 </td>
-<td width="169">
+<td width="166">
 <p align="center">1</p>
 </td>
-<td width="213">
+<td width="209">
 <p align="center">80</p>
 </td>
 </tr>
 <tr>
-<td width="233">
+<td width="230">
 <p>Vaucluse</p>
 </td>
-<td width="169">
+<td width="166">
 <p align="center">1</p>
 </td>
-<td width="213">
+<td width="209">
 <p align="center">80</p>
 </td>
 </tr>
 <tr>
-<td width="233">
+<td width="230">
 <p>Vendée</p>
 </td>
-<td width="169">
+<td width="166">
 <p align="center">1</p>
 </td>
-<td width="213">
+<td width="209">
 <p align="center">80</p>
 </td>
 </tr>
 <tr>
-<td width="233">
+<td width="230">
 <p>Vienne</p>
 </td>
-<td width="169">
+<td width="166">
 <p align="center">1</p>
 </td>
-<td width="213">
+<td width="209">
 <p align="center">80</p>
 </td>
 </tr>
 <tr>
-<td width="233">
+<td width="230">
 <p>Vosges</p>
 </td>
-<td width="169">
+<td width="166">
 <p align="center">1</p>
 </td>
-<td width="213">
+<td width="209">
 <p align="center">80</p>
 </td>
 </tr>
 <tr>
-<td width="233">
+<td width="230">
 <p>Yonne</p>
 </td>
-<td width="169">
+<td width="166">
 <p align="center">1</p>
 </td>
-<td width="213">
+<td width="209">
 <p align="center">80</p>
 </td>
 </tr>
 </tbody>
 </table>
-
 <table>
 <tbody>
 <tr>
