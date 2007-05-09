@@ -8,4 +8,14 @@ Institut d'études politiques de Paris (I.E.P.) ;
 
 Institut national des langues et civilisations orientales ;
 
-Université de technologie de Compiègne.
+Université de technologie de Compiègne ;
+
+Ecole pratique des hautes études ;
+
+Ecole normale supérieure ;
+
+Ecole normale supérieure de Cachan ;
+
+Ecole normale supérieure de Lyon ;
+
+Ecole normale supérieure de Fontenay - Saint-Cloud (localisée à Lyon).
