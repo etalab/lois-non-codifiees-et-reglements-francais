@@ -22,15 +22,15 @@ Soit d'une condamnation prononcée par une juridiction française et inscrite au
 
 Soit de plus d'une condamnation mentionnée au bulletin n° 2 du casier judiciaire pour l'un ou l'autre des délits suivants :
 
-a) Infractions mentionnées aux articles L. 1er, L. 2, L. 4, L. 7, L. 9, L. 9-1, L. 12 et L.19 du code de la route ;
+a) Infractions mentionnées aux articles L. 221-2, L. 223-5, L. 224-16 à L. 224-18, L. 231-1, L. 233-1, L. 233-2, L. 234-1, L. 234-8, L. 317-1 à L. 317-4, L. 325-3-1 et L. 412-1 du code de la route ;
 
-b) Infractions mentionnées aux articles L. 125-1, L. 125-3, L. 324-9, L. 324-10 et L. 341-6 du code du travail ;
+b) Infractions mentionnées aux articles L. 125-1, L. 125-3, L. 324-9, L. 324-10, L. 341-6 et L. 631-1 du code du travail ;
 
 c) Infractions aux dispositions de l'article 25 de la loi du 14 avril 1952 susvisée ;
 
 d) Infractions aux dispositions des articles 3 et 3 bis de l'ordonnance du 23 décembre 1958 susvisée ;
 
-e) Infractions mentionnées à l'article 24 de la loi du 15 juillet 1975 susvisée ;
+e) Infractions mentionnées à l'article L. 541-46-5° du code de l'environnement ;
 
 f) Infractions aux dispositions des articles 4 et 5 de la loi du 31 décembre 1975 susvisée ;
 

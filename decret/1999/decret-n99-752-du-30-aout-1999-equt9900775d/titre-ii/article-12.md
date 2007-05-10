@@ -8,6 +8,6 @@ b) La lettre de voiture nationale ou internationale ;
 
 c) Le cas échéant, le document justificatif de la location du véhicule avec ou sans conducteur ;
 
-d) Un document établi par l'employeur attestant la relation d'emploi existant entre l'entreprise et le conducteur du véhicule.
+d) L'attestation de conducteur prévue par les règlements du Conseil du 26 mars 1992 et du 25 octobre 1993 susvisés modifiés par le règlement (CE) n° 484/2002 du Parlement européen et du Conseil du 1er mars 2002, lorsque le transport international ou de cabotage est exécuté sous le couvert d'une licence communautaire et que le conducteur est ressortissant d'un Etat non partie à l'accord sur l'Espace économique européen.
 
 L'entreprise doit conserver pendant deux ans, afin d'être en mesure de la présenter à toute réquisition des agents des services de contrôle de l'Etat, la lettre de voiture mentionnée au b.

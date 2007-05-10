@@ -16,7 +16,7 @@ Un arrêté du ministre chargé des transports fixe les modalités selon lesquel
 
 2° Transports exécutés à l'intérieur d'une zone de 100 kilomètres de rayon autour de la commune dans laquelle ce transport a son origine :
 
-a) Au moyen de véhicules et appareils agricoles définis par le A de l'article R. 138 du code de la route pour les besoins d'une exploitation agricole ;
+a) Au moyen de véhicules et matériels agricoles tels que définis à l'article R. 311-1 du code de la route pour les besoins d'une exploitation agricole ;
 
 b) A titre occasionnel et gracieux, pour les besoins d'une exploitation agricole, au moyen de véhicules appartenant à une autre exploitation agricole ;
 
@@ -34,7 +34,7 @@ c) Le transport n'est que l'accessoire et le complément de l'activité du group
 
 4° Transports de marchandises exécutés par des transporteurs publics routiers de personnes au moyen de véhicules destinés au transport de personnes, à l'occasion de services réguliers ou à la demande ;
 
-5° Transports exécutés au moyen de certains véhicules affectés à des emplois très spéciaux, dont l'intervention est nécessaire pour la mise en oeuvre des matériaux qu'ils transportent. Ces véhicules sont ceux qui sont mentionnés aux articles R. 138, R. 167 et R. 168 du code de la route ;
+5° Transports exécutés au moyen de véhicules et matériels agricoles, matériels forestiers, matériels de travaux publics et engins spéciaux mentionnés à l'article R. 311-1 du code de la route, dont l'intervention est nécessaire pour la mise en oeuvre des matériaux qu'ils transportent ;
 
 6° Transports de véhicule accidentés ou en panne par véhicule spécialisé entre le lieu de l'accident ou de la panne et le lieu de réparation ;
 

@@ -16,4 +16,4 @@ c) Pour les trains routiers, la plus petite des deux valeurs suivantes :
 
 - somme des poids totaux autorisés en charge du véhicule à moteur et de la remorque.
 
-Les poids totaux autorisés en charge mentionnés ci-dessus sont éventuellement relevés des poids correspondant aux dérogations mentionnées au 2 de l'article R. 55 du code de la route.
+Les poids totaux autorisés en charge mentionnés ci-dessus sont éventuellement relevés des poids correspondant aux dérogations mentionnées au IV de l'article R. 312-4 du code de la route.
