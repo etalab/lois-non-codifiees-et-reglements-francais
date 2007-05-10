@@ -153,7 +153,6 @@
 - [Arrêté du 7 septembre 1999 (MESP9922895A)](arrete-du-7-septembre-1999-mesp9922895a)
 - [Arrêté du 7 septembre 1999 (MESP9922896A)](arrete-du-7-septembre-1999-mesp9922896a)
 - [Arrêté du 7 mai 1999 (AGRP9900815A)](arrete-du-7-mai-1999-agrp9900815a)
-- [Arrêté du 7 mai 1999 (INTD9900220A)](arrete-du-7-mai-1999-intd9900220a)
 - [Arrêté du 8 avril 1999 (ECOB9960010A)](arrete-du-8-avril-1999-ecob9960010a)
 - [Arrêté du 8 avril 1999 (ECOB9960011A)](arrete-du-8-avril-1999-ecob9960011a)
 - [Arrêté du 8 avril 1999 (ECOC9900043A)](arrete-du-8-avril-1999-ecoc9900043a)

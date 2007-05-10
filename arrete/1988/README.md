@@ -317,7 +317,6 @@
 - [Arrêté du 19 février 1988 (COMA8800006A)](arrete-du-19-fevrier-1988-coma8800006a)
 - [Arrêté du 19 février 1988 (ECOC8700142A)](arrete-du-19-fevrier-1988-ecoc8700142a)
 - [Arrêté du 19 février 1988 (MENE8800219A)](arrete-du-19-fevrier-1988-mene8800219a)
-- [Arrêté du 19 janvier 1988 (ASEP8800103A)](arrete-du-19-janvier-1988-asep8800103a)
 - [Arrêté du 19 janvier 1988 (ECOT8711017A)](arrete-du-19-janvier-1988-ecot8711017a)
 - [Arrêté du 19 janvier 1988 (ECOT8750067A)](arrete-du-19-janvier-1988-ecot8750067a)
 - [Arrêté du 19 juillet 1988 (PRME8861159A)](arrete-du-19-juillet-1988-prme8861159a)

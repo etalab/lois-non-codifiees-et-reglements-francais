@@ -1036,7 +1036,6 @@
 - [Arrêté du 29 juillet 1994 (INDD9400862A)](arrete-du-29-juillet-1994-indd9400862a)
 - [Arrêté du 29 juillet 1994 (SPSP9402809A)](arrete-du-29-juillet-1994-spsp9402809a)
 - [Arrêté du 29 juin 1994 (ENVN9430235A)](arrete-du-29-juin-1994-envn9430235a)
-- [Arrêté du 29 juin 1994 (EQUA9401495A)](arrete-du-29-juin-1994-equa9401495a)
 - [Arrêté du 29 juin 1994 (SPSS9401959A)](arrete-du-29-juin-1994-spss9401959a)
 - [Arrêté du 29 mars 1994 (AGRG9400685A)](arrete-du-29-mars-1994-agrg9400685a)
 - [Arrêté du 29 mars 1994 (EQUA9400659A)](arrete-du-29-mars-1994-equa9400659a)

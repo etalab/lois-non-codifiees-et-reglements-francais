@@ -421,7 +421,6 @@
 - [Arrêté du 24 janvier 1989 (AGRS8900138A)](arrete-du-24-janvier-1989-agrs8900138a)
 - [Arrêté du 24 janvier 1989 (ECOC8900010A)](arrete-du-24-janvier-1989-ecoc8900010a)
 - [Arrêté du 24 janvier 1989 (TEFT8903104A)](arrete-du-24-janvier-1989-teft8903104a)
-- [Arrêté du 24 juillet 1989 (EQUA8900812A)](arrete-du-24-juillet-1989-equa8900812a)
 - [Arrêté du 24 juillet 1989 (SPSS8901584A)](arrete-du-24-juillet-1989-spss8901584a)
 - [Arrêté du 24 mars 1989 (PTTT8900275A)](arrete-du-24-mars-1989-pttt8900275a)
 - [Arrêté du 24 novembre 1988 (PRME8861197A)](arrete-du-24-novembre-1988-prme8861197a)
