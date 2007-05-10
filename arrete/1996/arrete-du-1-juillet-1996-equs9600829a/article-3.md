@@ -1,6 +1,6 @@
 # Article 3
 
-Le numéro d'immatriculation des véhicules immatriculés en séries spéciales W et WW, ainsi que ceux mis pour la première fois en circulation ou faisant l'objet d'un changement d'immatriculation (ou d'un changement de plaques) en série normale et en série spéciale DF, est reproduit sur chaque plaque d'immatriculation en caractères noirs non rétroréfléchissants sur fond rétroréfléchissant blanc vers l'avant et jaune vers l'arrière. Toutefois, le numéro d'immatriculation des cyclomoteurs doit être reproduit sur la plaque arrière en caractères noirs non rétroréfléchissants sur fond rétroréfléchissant blanc.
+Le numéro d'immatriculation des véhicules immatriculés en séries spéciales W et WW, ainsi que ceux mis pour la première fois en circulation ou faisant l'objet d'un changement d'immatriculation (ou d'un changement de plaques) en série normale et en série spéciale DF, est reproduit sur chaque plaque d'immatriculation en caractères noirs non rétroréfléchissants sur fond rétroréfléchissant blanc vers l'avant et jaune ou blanc vers l'arrière. Toutefois, le numéro d'immatriculation des cyclomoteurs doit être reproduit sur la plaque arrière en caractères noirs non rétroréfléchissants sur fond rétroréfléchissant blanc.
 
 Cette disposition s'applique également aux véhicules de l'Etat, à l'exception des véhicules militaires, qui font l'objet d'une immatriculation particulière.
 

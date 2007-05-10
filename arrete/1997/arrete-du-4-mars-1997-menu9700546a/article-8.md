@@ -4,7 +4,7 @@ La formation clinique comporte une participation à l'activité hospitalière et
 
 I. - Participation à l'activité hospitalière
 
-a) Les fonctions hospitalières occupées par les étudiants pendant la deuxième partie du deuxième cycle des études médicales, définies à l'article 1-1 du décret du 8 octobre 1970 susvisé, comportent trente-six mois de stages et trente-six gardes. Les stages ont une durée de deux à quatre mois. Quatre stages doivent nécessairement se faire dans les spécialités suivantes :
+a) Les fonctions hospitalières occupées par les étudiants pendant la deuxième partie du deuxième cycle des études médicales, définies à l'article R. 6153-47 du code de la santé publique comportent trente-six mois de stages et trente-six gardes. Les stages ont une durée de deux à quatre mois. Quatre stages doivent nécessairement se faire dans les spécialités suivantes :
 
 - pédiatrie ;
 
@@ -24,7 +24,7 @@ Ces exposés ont pour objet de développer les capacités d'analyse, de synthès
 
 c) Les validations des stages d'une année sont prononcées par le directeur de l'unité de formation et de recherche médicale, sur avis des responsables des structures médicales ou médico-techniques ayant accueilli l'étudiant.
 
-Les règles de validation des stages, définies aux articles 1-1 et 7 du décret du 8 octobre 1970 susvisé, sont précisées par le conseil de l'unité de formation et de recherche.
+Les règles de validation des stages, définies aux articles R. 6153-47 et R. 6153-56 du code de la santé publique, sont précisées par le conseil de l'unité de formation et de recherche.
 
 La note de stage tient compte :
 
@@ -38,4 +38,4 @@ La validation de la totalité des stages afférents à une année d'études cond
 
 II. - Stage chez le médecin généraliste
 
-Chaque étudiant doit effectuer pendant la deuxième partie du deuxième cycle des études médicales un stage d'initiation à la médecine générale dont la durée et les modalités sont fixées par arrêté. Ce stage est réalisé sur la base d'un projet pédagogique, élaboré par le conseil de l'unité de formation et de recherche de médecine sur les propositions du département de médecine générale ou de la commission de coordination et d'évaluation du troisième cycle de médecine générale visés à l'article 6 du décret du 7 avril 1988 susvisé. Ce projet fait l'objet d'un contrat entre le directeur de l'unité de formation et de recherche de médecine, le médecin généraliste et le directeur du centre hospitalier régional et universitaire quand il s'agit des étudiants de troisième et quatrième années de deuxième cycle.
+Chaque étudiant doit effectuer pendant la deuxième partie du deuxième cycle des études médicales un stage d'initiation à la médecine générale dont la durée et les modalités sont fixées par arrêté. Ce stage est réalisé sur la base d'un projet pédagogique, élaboré par le conseil de l'unité de formation et de recherche de médecine sur les propositions du département de médecine générale ou de la commission de coordination et d'évaluation du troisième cycle de médecine générale visés à l'article 23 du décret du 16 janvier 2004 susvisé. Ce projet fait l'objet d'un contrat entre le directeur de l'unité de formation et de recherche de médecine, le médecin généraliste et le directeur du centre hospitalier régional et universitaire.

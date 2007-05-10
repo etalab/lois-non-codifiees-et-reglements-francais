@@ -8,6 +8,6 @@ Le directeur de l'unité de formation et de recherche de médecine désigne un e
 
 - à la réalisation du stage chez le praticien, défini à l'article 8-II ci-dessus ;
 
-- à la cohérence entre les enseignements du deuxième cycle et le résidanat.
+- à la cohérence entre les enseignements du deuxième cycle et la formation spécialisée de 3è cycle en médecine générale.
 
-Cet enseignant peut être l'enseignant coordonnateur du troisième cycle de médecine générale mentionné à l'article 6 du décret du 7 avril 1988 susvisé, ou doit travailler en liaison étroite avec lui.
+Cet enseignant peut être l'enseignant coordonnateur du troisième cycle de médecine générale mentionné à l'article 23 du décret du 16 janvier 2004 susvisé, ou doit travailler en liaison étroite avec lui.

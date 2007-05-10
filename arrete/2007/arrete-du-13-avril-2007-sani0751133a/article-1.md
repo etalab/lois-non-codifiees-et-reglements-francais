@@ -1,0 +1,3 @@
+# Article 1
+
+Il est créé à la direction de la recherche, des études, de l'évaluation et des statistiques un traitement automatisé de données à caractère personnel relatif à une enquête dont l'objet est l'étude statistique des recours à l'interruption volontaire de grossesse. L'enquête concerne 13 500 femmes et 600 praticiens opérant dans 250 établissements répartis sur l'ensemble du territoire français. Des extensions régionales sont prévues en Guadeloupe, à la Réunion, dans le Nord - Pas-de-Calais, en Midi-Pyrénées, dans le Centre, en Provence-Alpes-Côte d'Azur, en Corse et en Alsace. Une extension départementale est prévue dans le Rhône.

@@ -1,0 +1,3 @@
+# Article 6
+
+Le directeur des libertés publiques et des affaires juridiques au ministère de l'intérieur et de l'aménagement du territoire, le directeur de la sécurité et de la circulation routières au ministère des transports, de l'équipement, du tourisme et de la mer, le directeur des affaires politiques, administratives et financières au ministère de l'outre-mer, les préfets et les représentants de l'Etat dans les collectivités d'outre-mer et en Nouvelle-Calédonie sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.

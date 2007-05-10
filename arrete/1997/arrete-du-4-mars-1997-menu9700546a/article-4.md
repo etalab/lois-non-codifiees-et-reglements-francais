@@ -1,6 +1,6 @@
 # Article 4
 
-Le projet pédagogique mentionné à l'article 1-2 du décret du 8 octobre 1970 susvisé définit les objectifs pédagogiques des stages et des gardes et les caractéristiques auxquelles doivent répondre les services formateurs. Il comporte notamment des propositions concernant :
+Le projet pédagogique mentionné à l'article R. 6153-48 du code de la santé publique définit les objectifs pédagogiques des stages et des gardes et les caractéristiques auxquelles doivent répondre les services formateurs. Il comporte notamment des propositions concernant :
 
 a) Les modalités pratiques d'organisation des stages et gardes ;
 

@@ -1,0 +1,3 @@
+# Article 9
+
+Si toutes les mesures d'effarouchement demeurent sans effet, l'exploitant d'aérodrome peut procéder au prélèvement des animaux. Un arrêté du préfet précise les modalités de capture des animaux, les espèces d'animaux sauvages dont le tir est autorisé, ainsi que les modalités de restitution des animaux domestiques, apprivoisés ou tenus en captivité. La mise en oeuvre des dispositions du présent article se fait dans le respect des conditions prévues par les dispositions du code rural et du code de l'environnement ou par les dispositions ayant le même objet, applicables à Mayotte, dans les îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie.

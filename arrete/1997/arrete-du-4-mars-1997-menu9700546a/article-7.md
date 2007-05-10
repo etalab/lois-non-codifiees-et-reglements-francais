@@ -1,6 +1,6 @@
 # Article 7
 
-1. Les enseignements théoriques de la deuxième partie du deuxième cycle des études médicales comprennent des conférences, des enseignements dirigés et des séminaires. Leur volume horaire global ne doit pas être inférieur à 900 heures, ni supérieur à 1 000 heures. L'enseignement du certificat de synthèse clinique et thérapeutique, organisé au cours de la dernière année du deuxième cycle, conformément aux dispositions de l'article 2 du décret du 7 avril 1988 susvisé, doit représenter au moins 60 heures.
+1. Les enseignements théoriques de la deuxième partie du deuxième cycle des études médicales comprennent des conférences, des enseignements dirigés et des séminaires. Leur volume horaire global ne doit pas être inférieur à 900 heures, ni supérieur à 1 000 heures.
 
 2. L'enseignement est organisé par modules. Il porte sur un ensemble de thèmes dont la liste est établie après avis de la commission pédagogique nationale des études médicales prévue à l'article 10 de l'arrêté du 18 mars 1992 susvisé. Cette liste est annexée au présent arrêté et fait l'objet d'une révision quadriennale.
 
@@ -8,7 +8,7 @@ Pour chacun de ces thèmes, l'enseignement porte notamment sur les mécanismes f
 
 3. Dans la limite de l'horaire global d'enseignement indiqué au 1 ci-dessus, chaque étudiant doit valider au cours de la deuxième partie du deuxième cycle des enseignements optionnels interdisciplinaires dont le volume horaire ne doit pas être inférieur à 60 heures par année.
 
-Ces enseignements optionnels peuvent porter en partie sur les certificats de la maîtrise en sciences biologiques et médicales ou sur un ou plusieurs autres domaines mentionnés au premier alinéa de l'article 19 de l'arrêté du 18 mars 1992 susvisé.
+Ces enseignements optionnels peuvent porter en partie sur des unités d'enseignement de première année de master ou sur un ou plusieurs autres domaines mentionnés au 1er alinéa de l'article 19 de l'arrêté du 18 mars 1992 susvisé.
 
 La liste de ces enseignements est fixée chaque année par le
 
@@ -34,6 +34,6 @@ D'autres séminaires peuvent être organisés par l'unité de formation et de re
 
 5. La validation des enseignements théoriques comporte un examen écrit, dont l'objet est la vérification des connaissances afférentes à un ou plusieurs modules et une interrogation orale par un jury de trois membres comportant au moins un professeur des universités-praticien hospitalier, dont l'objet est l'analyse des comportements de l'étudiant en face d'une situation donnée, notamment de sa capacité à justifier ses choix et à informer ses interlocuteurs des risques et avantages des examens et traitements qu'il prescrit.
 
-Le certificat de synthèse clinique et thérapeutique, mentionné au 1 ci-dessus, doit faire l'objet d'une validation indépendante, dans les conditions prévues aux articles 2 et 3 du décret du 7 avril 1988 susvisé.
+L'enseignement du certificat de synthèse clinique et thérapeutique, dont le programme est défini au module 11 figurant en annexe du présent arrêté, est organisé au cours de la dernière année du deuxième cycle. Il doit représenter au moins 60 heures et fait l'objet d'une validation indépendante. Il comporte d'une part des épreuves théoriques et, d'autre part, une épreuve d'examen clinique comptant pour au moins 20 % de la note totale, destinée à évaluer l'acquisition des connaissances cliniques au cours des stages pratiques et des séminaires suivis pendant la deuxième partie du deuxième cycle des études médicales. Deux sessions annuelles sont prévues pour ces deux catégories d'épreuves. Les objectifs pédagogiques spécifiques de ce certificat, la composition du jury, la nature, la cotation, la durée et les modalités des épreuves sont fixés par le ou les conseils de l'UFR et approuvés par le ou les présidents d'université. Les évaluateurs de l'épreuve d'examen clinique ne doivent pas être les responsables des stages que les étudiants effectuent au moment des épreuves du certificat de synthèse clinique et thérapeutique.
 
 Les conditions dans lesquelles un étudiant à qui a fait défaut un ou plusieurs modules est admis à passer dans l'année supérieure sont définies par le conseil de l'unité de formation et de recherche et approuvées par le président de l'université.

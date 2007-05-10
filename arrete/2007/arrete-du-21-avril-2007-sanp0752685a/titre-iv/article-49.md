@@ -1,0 +1,3 @@
+# Article 49
+
+Sont abrogées toutes dispositions contraires au présent arrêté, et notamment l'arrêté du 19 janvier 1988 modifié relatif aux conditions de fonctionnement des instituts de formation paramédicaux, les articles 2, 17 et 18 de l'arrêté du 5 septembre 1989 susvisé, les articles 4, 8, 9 et 9 bis de l'arrêté du 1er août 1990 modifié susvisé, les articles 4, 6 et 7 de l'arrêté du 24 septembre 1990 modifié susvisé, les articles 2, 3 et 6 bis de l'arrêté du 2 octobre 1991 modifié susvisé, les articles 2, 6, 7 et 8 de l'arrêté du 21 août 1996 susvisé et les articles 21 à 25 de l'arrêté du 6 septembre 2001 modifié susvisé.

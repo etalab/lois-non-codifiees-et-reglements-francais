@@ -1,6 +1,12 @@
 # Article 11
 
-Le directeur du budget est assisté d'un chef de service.
+I. - La Mission des normes comptables est directement rattachée au directeur du budget.
+
+Elle participe, notamment, au développement de l'utilisation de la comptabilité générale dans les travaux budgétaires, à l'établissement d'un corpus de règles de comptabilité budgétaire qui soit en cohérence avec le référentiel de comptabilité générale, aux travaux de mise en oeuvre d'un nouveau système d'information budgétaire et comptable et aux évolutions de la nomenclature budgétaro-comptable.
+
+En outre, sous l'autorité directe et exclusive du président du comité des normes de comptabilité publique prévu par l'article 136 de la loi de finances pour 2002, elle assure le secrétariat dudit comité ainsi que celui du comité d'interprétation des normes de comptabilité publique institué par arrêté du 21 mai 2004. Elle prépare et suit les travaux et avis de ces deux comités.
+
+II. - Le directeur du budget est assisté d'un chef de service.
 
 Sont directement rattachés au chef de service :
 

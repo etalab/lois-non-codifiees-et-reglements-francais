@@ -1,0 +1,3 @@
+# Article 3
+
+La direction de la recherche, des études, de l'évaluation et des statistiques est seule destinataire des informations indirectement nominatives. Elle transmet un fichier des résultats de l'enquête rendu anonyme selon des modalités identiques à celles mentionnées à l'article 2 aux directions centrales et déconcentrées du ministère chargé de la santé pour les données de leur ressort territorial, à l'Institut national de la santé et de la recherche médicale, à l'Institut national d'études démographiques, à l'Institut national de prévention et d'éducation pour la santé et à tout organisme susceptible de réaliser des études sur le thème de l'enquête.
