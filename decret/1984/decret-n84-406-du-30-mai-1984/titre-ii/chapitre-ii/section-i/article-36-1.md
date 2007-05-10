@@ -39,3 +39,15 @@ Sont mentionnées d'office au registre les déclarations de cessation des paieme
 18° Décidant la reprise de la procédure de liquidation ;
 
 19° Prononçant la suspension provisoire des poursuites en application de l'article L. 611-4 du code de commerce. Cette mention est radiée d'office à l'expiration de la durée de la suspension.
+
+Sont radiées d'office les mentions des décisions énumérées ci-dessus, lorsqu'il a été constaté l'achèvement de l'exécution du plan de redressement judiciaire.
+
+Sont en outre radiées d'office les mentions des décisions prévues au 16° lorsque, selon le cas :
+
+1° Intervient une décision de réhabilitation, de relevé d'incapacité ou d'amnistie faisant disparaître l'incapacité ou l'interdiction ;
+
+2° Arrive le terme de l'interdiction fixé par la juridiction en application de l'article L. 653-11 du code de commerce ;
+
+3° Le dirigeant qui en fait l'objet n'exerce plus ses fonctions.
+
+Ces radiations sont également effectuées d'office aux lieux des immatriculations secondaires sur notification par le greffier de l'immatriculation principale ; cette notification doit être faite dans le délai de quinze jours à compter de la date de la radiation à titre principal.
