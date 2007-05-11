@@ -116,9 +116,11 @@ III. - En ce qui concerne les zones protégées en raison de l'activité qui s'y
 
 3° Aux établissements, installations ou ouvrages d'importance vitale, mentionnés aux articles L. 1332-1 et L. 1332-2 du code de la défense ;
 
-4° Aux zones non librement accessibles des aérodromes, aux zones d'accès restreint, délimitées à l'intérieur des zones portuaires de sûreté et aux installations de la navigation aérienne ;
+4° Aux zones non librement accessibles des aérodromes, aux zones d'accès restreint, délimitées à l'intérieur des zones portuaires de sûreté et aux installations à usage aéronautique ou d'assistance météorologique mentionnées à l'article L. 213-1 du code de l'aviation civile ;
 
-5° Aux établissements pénitentiaires, pour les personnes autres que les conseils des détenus.
+5° Aux lieux de préparation, de traitement, de conditionnement et de stockage des expéditions de fret et de colis postaux ainsi que des biens et produits destinés à être utilisés à bord des aéronefs, au sein des entreprises ou organismes agréés au sens des articles L. 213-4 et L. 321-7 du code de l'aviation civile ;
+
+6° Aux établissements pénitentiaires, pour les personnes autres que les conseils des détenus.
 
 IV. - En ce qui concerne les matériels, produits ou activités présentant un danger pour la sécurité publique, les autorisations ou agréments :
 
