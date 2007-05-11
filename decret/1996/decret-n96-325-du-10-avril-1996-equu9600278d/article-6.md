@@ -1,33 +1,37 @@
 # Article 6
 
-L'établissement est administré par un conseil de dix-huit membres composé comme suit :
+L'établissement est administré par un conseil de vingt-sept membres composé comme suit :
 
-1° Neuf membres représentant l'Etat, désignés à raison de :
+1° Neuf membres représentant l'Etat :
 
-a) Deux membres par le ministre chargé de l'urbanisme ;
+a) Deux membres désignés par le ministre chargé de l'urbanisme ;
 
-b) Deux membres par le ministre chargé de la ville ;
+b) Un membre désigné par le ministre chargé du logement ;
 
-c) Un membre par le ministre chargé du budget ;
+c) Un membre désigné par le ministre chargé du budget ;
 
-d) Un membre par le ministre chargé de l'économie ;
+d) Un membre désigné par le ministre chargé de l'aménagement du territoire ;
 
-e) Un membre par le ministre chargé du logement ;
+e) Un membre désigné par le ministre chargé de l'environnement ;
 
-f) Un membre par le ministre chargé des collectivités locales ;
+f) Un membre désigné par le ministre chargé de la politique de la ville ;
 
-g) Un membre par le ministre chargé des transports ;
+g) Un membre désigné par le ministre chargé des collectivités locales ;
 
-2° Neuf membres représentant les collectivités territoriales et l'établissement public de coopération intercommunale intéressés ;
+h) Le trésorier-payeur général du département des Yvelines ou son représentant.
 
-a) Le président du conseil régional d'Ile-de-France ou son représentant désigné par lui au sein du conseil régional ;
+2° Dix-huit membres représentant les collectivités territoriales ou leurs établissements :
 
-b) Deux représentants du département des Yvelines désignés en son sein par le conseil général de ce département ;
+a) Trois représentants de la région d'Ile-de-France désignés en son sein par le conseil régional ;
 
-c) Un représentant de la commune de Limay désigné en son sein par le conseil municipal de cette commune ;
+b) Trois représentants du département des Yvelines désignés en son sein par le conseil général ;
 
-d) Un représentant de la commune de Chanteloup-les-Vignes désigné en son sein par le conseil municipal de cette commune ;
+c) Trois représentants de la communauté d'agglomération de Mantes-en-Yvelines désignés en son sein par le conseil de la communauté ;
 
-e) Quatre représentants de la communauté d'agglomération de Mantes-en-Yvelines, désignés en son sein par le conseil de la communauté d'agglomération.
+d) Un représentant de chacune des communautés de communes des Deux Rives de la Seine, des Portes de l'Ile-de-France, Seine-Mauldre et Vexin-Seine, désignés en leur sein par chaque conseil de la communauté ;
 
-Le préfet des Yvelines constate, par arrêté publié au recueil des actes administratifs de la préfecture, la composition nominative du conseil d'administration.
+e) Un représentant de chacune des communes de Chanteloup-les-Vignes, Conflans-Sainte-Honorine, Les Mureaux et Poissy désigné en son sein par le conseil municipal ;
+
+f) Un membre désigné par l'assemblée spéciale prévue à l'article 7 ci-après.
+
+Le préfet des Yvelines constate, par arrêté publié au recueil des actes administratifs de la préfecture, la composition du conseil d'administration.
