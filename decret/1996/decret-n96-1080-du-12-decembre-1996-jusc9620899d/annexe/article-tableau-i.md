@@ -1,7 +1,5 @@
 # Article Tableau I
 
-ACTES
-
 I. - Acte portant convocation à comparaître en justice ou signification de décisions de justice ou de titres exécutoires
 
 <table>
@@ -785,7 +783,7 @@ II. - Actes ayant pour but d'informer les parties et les tiers
 </td>
 </tr>
 <tr>
-<td rowspan="6" valign="top" width="154">
+<td valign="top" width="154">
 <p>Autres procédures.</p>
 </td>
 <td valign="top" width="63">
@@ -808,6 +806,7 @@ II. - Actes ayant pour but d'informer les parties et les tiers
 </td>
 </tr>
 <tr>
+<td/>
 <td valign="top" width="63">
 <p align="center">35</p>
 </td>
@@ -828,6 +827,7 @@ II. - Actes ayant pour but d'informer les parties et les tiers
 </td>
 </tr>
 <tr>
+<td/>
 <td valign="top" width="63">
 <p align="center">36</p>
 </td>
@@ -848,6 +848,7 @@ II. - Actes ayant pour but d'informer les parties et les tiers
 </td>
 </tr>
 <tr>
+<td/>
 <td valign="top" width="63">
 <p align="center">37</p>
 </td>
@@ -868,6 +869,7 @@ II. - Actes ayant pour but d'informer les parties et les tiers
 </td>
 </tr>
 <tr>
+<td/>
 <td valign="top" width="63">
 <p align="center">38</p>
 </td>
@@ -888,6 +890,7 @@ II. - Actes ayant pour but d'informer les parties et les tiers
 </td>
 </tr>
 <tr>
+<td/>
 <td valign="top" width="63">
 <p align="center">39</p>
 </td>
@@ -904,6 +907,27 @@ II. - Actes ayant pour but d'informer les parties et les tiers
 <p align="center">Non</p>
 </td>
 <td valign="top" width="86">
+<p align="center">Non</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="center">39 bis</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Signification d'une<br/>proposition de<br/>redressements.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Articles L. 57 et<br/>L. 76 du livre des<br/>procédures fiscales.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">15,5</p>
+</td>
+<td align="left" valign="top">
+<p align="center">Non</p>
+</td>
+<td align="left" valign="top">
 <p align="center">Non</p>
 </td>
 </tr>
@@ -1655,18 +1679,81 @@ IV. - Actes ayant pour but l'indisponibilité de biens ou de créances; actes ay
 <p align="center">69</p>
 </td>
 <td valign="top" width="119">
-<p>Commandement aux fins de saisie immobilière.</p>
+<p align="left">Commandement de<br/>payer valant saisie. </p>
 </td>
 <td valign="top" width="105">
-<p>Art. 673 du code de procédure civile ancien.</p>
+<p align="left">Art. 13 et 17 du décret n° 2006-936 du 27 juillet 2006.</p>
 </td>
 <td valign="top" width="69">
-<p align="center">21</p>
+<p align="center">30</p>
 </td>
 <td valign="top" width="83">
 <p align="center">Oui</p>
 </td>
 <td valign="top" width="87">
+<p align="center">Non</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="center">69-1</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Commandement de<br/>payer au débiteur<br/>principal avec mention<br/>du commandement<br/>valant saisie délivré<br/>au tiers détenteur. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Art. 17 du décret<br/>n° 2006-936 du<br/>27 juillet 2006.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">21</p>
+</td>
+<td align="left" valign="top">
+<p align="center">Non</p>
+</td>
+<td align="left" valign="top">
+<p align="center">Non</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="center">69-2</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Dénonciation au<br/>conjoint lorsque le<br/>bien est le siège du<br/>logement de la<br/>famille et qu'il<br/>appartient en propre<br/>à l'un des époux. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Art. 17 du décret<br/>n° 2006-936<br/>du 27 juillet 2006.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">18,5</p>
+</td>
+<td align="left" valign="top">
+<p align="center">Non</p>
+</td>
+<td align="left" valign="top">
+<p align="center">Non</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="center">69-3</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Saisie des fruits,<br/>outre l'indication<br/>figurant à l'art. 15 (7°)<br/>du décret.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Art. 30 du décret<br/>n° 2006-936<br/>du 27 juillet 2006.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">18,5</p>
+</td>
+<td align="left" valign="top">
+<p align="center">Non</p>
+</td>
+<td align="left" valign="top">
 <p align="center">Non</p>
 </td>
 </tr>
@@ -1993,10 +2080,10 @@ V. - Actes portant mise en demeure ou commandement d'exécuter une obligation de
 <p align="center">83</p>
 </td>
 <td valign="top" width="117">
-<p>Sommation de prendre communication du<br/>cahier des charges.</p>
+<p align="left">Assignation du<br/>débiteur saisi à<br/>comparaître devant<br/>le juge de l'exécution<br/>à une audience<br/>d'orientation.</p>
 </td>
 <td valign="top" width="104">
-<p>Art. 689 du code de procédure civile ancien.</p>
+<p align="left">Art. 38 du décret n° 2006-936 du 27 juillet 2006.</p>
 </td>
 <td valign="top" width="70">
 <p align="center">12,5</p>
@@ -2005,6 +2092,27 @@ V. - Actes portant mise en demeure ou commandement d'exécuter une obligation de
 <p align="center">Non</p>
 </td>
 <td valign="top" width="86">
+<p align="center">Oui</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="center">83-1</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Dénonciation aux créanciers inscrits valant assignation à comparaître.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Art. 40 du décret n° 2006-936 du 27 juillet 2006.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">12,5</p>
+</td>
+<td align="left" valign="top">
+<p align="center">Non</p>
+</td>
+<td align="left" valign="top">
 <p align="center">Oui</p>
 </td>
 </tr>
@@ -2028,6 +2136,29 @@ V. - Actes portant mise en demeure ou commandement d'exécuter une obligation de
 <p align="center">Non</p>
 </td>
 <td valign="top" width="86">
+<p align="center">Oui</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Successions.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">84-1</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Sommation de prendre parti.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Art. 771 du code civil.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">15</p>
+</td>
+<td align="left" valign="top">
+<p align="center">Non </p>
+</td>
+<td align="left" valign="top">
 <p align="center">Oui</p>
 </td>
 </tr>
@@ -2141,10 +2272,10 @@ VI. - Actes relatifs à la mise en vente forcée des biens saisis
 <p align="center">88</p>
 </td>
 <td valign="top" width="119">
-<p>Procès-verbal d'apposition de placards.</p>
+<p>Procès-verbal d'apposition d'avis.</p>
 </td>
 <td valign="top" width="104">
-<p>Art. 4 du décret<br/>n° 2002-77 du 11 janvier 2002 pris pour l'application de l'article 697 du code de procédure civile (ancien) et réformant les modalités de la publicité en matière de saisie immobilière.</p>
+<p align="left">Art. 65 et 66 du décret n° 2006-936 du 27 juillet 2006.</p>
 </td>
 <td valign="top" width="70">
 <p align="center">21,5</p>
@@ -2488,7 +2619,7 @@ VIII. - Actes divers
 </td>
 <td valign="top" width="104">
 <p>Art. 1736 du code civil, loi n° 48-1360 du 1er septembre1948.</p>
-<p>Art. 15 de la loi n° 89-462 du 6 juillet 1989.</p>
+<p>Art. 15 de la loi<br/>n° 89-462 du 6 juillet 1989.</p>
 <p>Art. 57A de la loi n° 86-1290 du 23 décembre 1986.</p>
 </td>
 <td valign="top" width="70">
@@ -2509,7 +2640,7 @@ VIII. - Actes divers
 <p>Congés et demandes de renouvellement de bail commercial.</p>
 </td>
 <td valign="top" width="104">
-<p>Art. 3-1, 5-6 du décret n° 53-960 du 30 septembre1953.</p>
+<p>Art. 3-1, 5-6 du décret n° 53-960 du 30 septembre<br/>1953.</p>
 </td>
 <td valign="top" width="70">
 <p align="center">36,5</p>
@@ -2573,10 +2704,10 @@ VIII. - Actes divers
 <p align="center">105</p>
 </td>
 <td valign="top" width="119">
-<p>Description de l'immeuble à saisir.</p>
+<p align="left">Procès-verbal de<br/>description des lieux.</p>
 </td>
 <td valign="top" width="104">
-<p>Art. 673 du code de procédure civile ancien.</p>
+<p align="left">Art. 35 à 37 du décret n° 2006-936 du 27 juillet 2006.</p>
 </td>
 <td valign="top" width="70">
 <p align="center">51,5</p>
@@ -2636,19 +2767,19 @@ VIII. - Actes divers
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Actes en provenance d'un Etat<br/>membre de la Communauté<br/>européenne autre que le<br/>Danemark.</p>
+<p align="left">Actes en provenance d'un autre<br/>Etat.</p>
 </td>
 <td align="left" valign="top">
 <p align="center">108</p>
 </td>
 <td align="left" valign="top">
-<p align="left">Saisine de la<br/>chambre nationale<br/>des huissiers de<br/>justice aux fins de<br/>signification d'un<br/>acte transmis par<br/>un Etat membre en<br/>application du<br/>règlement (CE)<br/>n° 1348/2000 du 29 mai<br/>2000.</p>
+<p align="left">Signification en<br/>provenance d'un autre<br/>Etat.</p>
 </td>
 <td align="left" valign="top">
-<p align="left">Règlement (CE)<br/>n° 1348/2000 du<br/>Conseil du 29 mai<br/>2000.</p>
+<p align="left">- règlement (CE)<br/>n° 1348/2000 du<br/>Conseil du 29 mai 2000.<br/>- article 688-2 du<br/>NCPC. </p>
 </td>
 <td align="left" valign="top">
-<p align="center">14</p>
+<p align="center">50 € *</p>
 </td>
 <td align="left" valign="top">
 <p align="center">Non</p>
@@ -2659,41 +2790,14 @@ VIII. - Actes divers
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Actes en provenance d'un Etat<br/>membre de la Communauté<br/>européenne autre que le<br/>Danemark.</p>
+<p align="left">Actes à destination d'un autre<br/>Etat.</p>
 </td>
 <td align="left" valign="top">
 <p align="center">109</p>
 </td>
+<td align="left" valign="top">Transmission de la<br/>demande de<br/>signification ou de<br/>notification dans un<br/>autre Etat étranger. </td>
 <td align="left" valign="top">
-<p align="left">Signification d'un<br/>acte transmis par<br/>un Etat membre en<br/>application du règlement<br/>(CE) n° 1348/2000<br/>du 29 mai 2000.</p>
-</td>
-<td align="left" valign="top">
-<p align="left">Règlement (CE)<br/>n° 1348/2000 du<br/>Conseil du 29 mai<br/>2000.</p>
-<br/>
-</td>
-<td align="left" valign="top">
-<p align="center">29</p>
-</td>
-<td align="left" valign="top">
-<p align="center">Non</p>
-</td>
-<td align="left" valign="top">
-<p align="center">Non</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">Actes à destination d'un Etat<br/>membre de la Communauté<br/>européenne autre que le<br/>Danemark.</p>
-</td>
-<td align="left" valign="top">
-<p align="center">110</p>
-</td>
-<td align="left" valign="top">
-<p align="left">Transmission de la<br/>demande de signification<br/>ou de notification dans un<br/>autre Etat membre en<br/>application du règlement<br/>(CE) n° 1348/2000<br/>du 29 mai 2000.</p>
-</td>
-<td align="left" valign="top">
-<p align="left">Règlement (CE)<br/>n° 1348/2000 du<br/>Conseil du 29 mai<br/>2000.</p>
-<br/>
+<p align="left">- règlement (CE)<br/>n° 1348/2000 du<br/>Conseil du<br/>29 mai 2000.<br/>- article 684 du<br/>NCPC. </p>
 </td>
 <td align="left" valign="top">
 <p align="center">16,5</p>
@@ -2703,6 +2807,11 @@ VIII. - Actes divers
 </td>
 <td align="left" valign="top">
 <p align="center">Non</p>
+</td>
+</tr>
+<tr>
+<td colspan="7">
+<p align="left">(*) Forfaitaire, y compris en cas d'obligation pécuniaire déterminée, au sens de l'article 7 du décret. </p>
 </td>
 </tr>
 </tbody>
