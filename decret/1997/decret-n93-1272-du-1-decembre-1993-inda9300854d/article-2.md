@@ -1,6 +1,6 @@
 # Article 2
 
-1. Le Conseil général des mines donne ses avis au ministre, conformément aux dispositions du décret du 2 novembre 1979 susvisé.
+1. Le Conseil général des mines donne ses avis au ministre, conformément aux dispositions du décret du 9 mai 2007.
 
 Il assure, avec le concours des services compétents, la tutelle sur les écoles nationales supérieures des mines de Paris et de Saint-Etienne et les écoles nationales supérieures des techniques industrielles et des mines d'Albi-Carmaux, d'Alès, de Douai et de Nantes.
 
