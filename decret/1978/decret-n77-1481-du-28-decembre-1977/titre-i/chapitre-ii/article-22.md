@@ -1,10 +1,8 @@
 # Article 22
 
-Chaque année, le conseil régional après avoir révisé le tableau des personnes inscrites l'arrête à la date du 31 décembre de l'année précédente.
+Le tableau et son annexe sont établis sur le même modèle pour toutes les régions et comportent pour chaque inscrit :
 
-Le tableau établi sur le même modèle pour toutes les régions comporte pour chaque inscrit :
-
-1° Les nom et prénom ou la raison sociale ou dénomination sociale ;
+1° Les nom et prénom ou la raison sociale ou la dénomination sociale ;
 
 2° L'adresse du domicile professionnel ou du siège social ;
 
@@ -14,4 +12,10 @@ Le tableau établi sur le même modèle pour toutes les régions comporte pour c
 
 5° Le ou les modes d'exercice ;
 
-6° La mention des diplômes pris en considération pour l'inscription.
+6° La mention des diplômes pris en considération pour l'inscription ;
+
+7° Le cas échéant, la mention de la suspension du tableau ou de son annexe pour non-production de l'attestation d'assurance pour l'année en cours.
+
+Le tableau et son annexe sont mis à jour par le conseil régional qui en informe le conseil national.
+
+Seuls font foi le tableau et son annexe ainsi tenus à jour.

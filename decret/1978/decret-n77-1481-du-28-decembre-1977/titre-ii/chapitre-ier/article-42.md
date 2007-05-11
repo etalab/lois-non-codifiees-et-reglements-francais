@@ -1,13 +1,7 @@
 # Article 42
 
-La chambre régionale de discipline fixe sont siège.
+Le conseil régional assure le secrétariat et le fonctionnement et de la chambre régionale de discipline. Les audiences se tiennent soit au conseil régional, soit au tribunal administratif dans le ressort duquel la chambre a son siège.
 
-Elle est présidée par le président du tribunal administratif dans le ressort duquel se trouve le siège du conseil régional.
+Le président et son suppléant sont désignés pour trois ans à chaque renouvellement du conseil régional.
 
-Le conseiller du tribunal administratif est désigné par le président.
-
-Le conseiller de cour d'appel est désigné par le premier président de la cour d'appel dans le ressort de laquelle est établi le siège du conseil régional.
-
-Les deux membres du conseil régional sont élus par ce conseil lors de chaque renouvellement.
-
-Le conseiller du tribunal administratif et le conseiller de cour d'appel sont désignés pour deux ans à compter du 1er janvier.
+Les architectes désignés par le conseil régional de l'ordre cessent de plein droit de faire partie de la chambre régionale de discipline s'ils ne sont plus inscrits à l'ordre ou s'ils font l'objet d'une sanction disciplinaire. Dans ces cas, il est procédé à leur remplacement dans les conditions prévues pour leur désignation, pour la durée restant à courir jusqu'au prochain renouvellement du conseil régional.

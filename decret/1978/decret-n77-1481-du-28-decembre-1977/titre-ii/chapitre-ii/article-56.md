@@ -1,5 +1,3 @@
 # Article 56
 
-Le rapporteur a qualité pour procéder à l'audition de l'architecte poursuivi et, d'une façon générale, recueillir tous témoignages et procéder ou faire procéder à toutes constatations nécessaires à la manifestation de la vérité.
-
-Lorsqu'il a achevé l'instruction, le rapporteur transmet le dossier accompagné de son rapport, au président de la chambre nationale.
+Les décisions de la Chambre nationale de discipline sont susceptibles de recours en cassation devant le Conseil d'Etat. Ce recours, qui doit être introduit dans un délai de deux mois à compter de la notification de la décision, n'est pas suspensif.

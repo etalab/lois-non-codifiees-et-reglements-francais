@@ -1,6 +1,8 @@
 # Article 4
 
-L'avertissement entraîne l'inéligibilité pendant une période de trois ans à dater de la notification de la sanction disciplinaire.
+L'avertissement entraîne l'inéligibilité pendant une période de deux ans à compter de la notification de la sanction disciplinaire.
+
+Le blâme entraîne l'inéligibilité pendant une période de trois ans.
 
 La suspension entraîne l'inéligibilité pendant une période de six ans.
 

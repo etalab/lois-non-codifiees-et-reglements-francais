@@ -1,17 +1,9 @@
 # Article 52
 
-La chambre nationale de discipline est la juridiction d'appel des chambres régionales. Son siège est à Paris.
+La Chambre nationale de discipline est la juridiction d'appel des chambres régionales. Son siège est fixé au conseil national de l'ordre, qui en assure le secrétariat et le fonctionnement.
 
-Le conseiller d'Etat, président, est désigné par le vice-président du Conseil d'Etat.
+Les audiences de la chambre peuvent se tenir en dehors du siège du conseil national de l'ordre.
 
-Le président de chambre de cour d'appel de Paris est désigné par le premier président de la cour d'appel.
+Le conseiller d'Etat, président, est désigné par le vice-président du Conseil d'Etat pour trois ans à chaque renouvellement du conseil national.
 
-Le conseiller à la cour des comptes est désigné par le premier président de la Cour des comptes.
-
-Les deux membres du conseil national sont élus par le conseil lors de chaque renouvellement.
-
-Le conseiller d'Etat, le président de chambre à la cour d'appel et le conseiller à la Cour des comptes sont désignés pour une durée de deux ans à compter du 1er janvier.
-
-Un président et des membres suppléants sont également désignés dans les mêmes conditions.
-
-Le secrétariat de la chambre nationale de discipline est assuré par un fonctionnaire désigné par arrêté du ministre chargé de la culture.
+Les trois architectes, désignés par le conseil national, cessent de plein droit de faire partie de la Chambre nationale de discipline s'ils ne sont plus inscrits à l'ordre ou s'ils font l'objet d'une sanction disciplinaire. Dans ce cas, il est procédé à leur remplacement dans les conditions prévues pour leur désignation, pour la durée restant à courir jusqu'au prochain renouvellement du conseil national.

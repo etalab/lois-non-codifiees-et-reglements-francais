@@ -1,7 +1,5 @@
 # Article 23
 
-Le tableau arrêté annuellement conformément à l'article précédent est rendu public.
+Le tableau et son annexe établis conformément à l'article 22 sont mis à la disposition permanente du public par voie électronique.
 
-Il est notamment adressé dans la circonscription, au préfet de région et aux préfets de la circonscription.
-
-Il est en outre adressé aux présidents du conseil national et du conseil régional.
+Le tableau et son annexe arrêtés au 31 décembre de l'année précédente sont adressés au préfet de région et aux préfets de département.

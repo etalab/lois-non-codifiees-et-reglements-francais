@@ -1,5 +1,7 @@
 # Article 50
 
-La chambre de discipline ne peut statuer que si la majorité des membres en exercice assistent à la séance.
+Les décisions de la chambre régionale de discipline sont rendues en formation collégiale.
 
-Si le quorum n'est pas atteint, le président procède à une nouvelle convocation.
+Tous les membres doivent être présents.
+
+Le rapporteur ne participe pas au délibéré.

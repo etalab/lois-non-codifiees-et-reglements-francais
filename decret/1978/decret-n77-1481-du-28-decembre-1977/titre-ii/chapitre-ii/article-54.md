@@ -1,7 +1,7 @@
 # Article 54
 
-Le président de la chambre nationale accuse réception de l'appel et le notifie aux parties.
+La procédure devant la Chambre nationale de discipline est écrite et contradictoire.
 
-Il en avise également le président de la chambre régionale de première instance et lui demande de lui adresser le dossier de l'affaire.
+Le secrétaire de la Chambre nationale de discipline procède à l'enregistrement de l'appel et, en dehors des cas d'application du troisième alinéa du présent article, le notifie aux parties sous le contrôle du président. Il en avise également le président du conseil régional, le commissaire du Gouvernement auprès du conseil régional et le président de la chambre régionale de première instance, en demandant à ce dernier de lui adresser le dossier de l'affaire.
 
-Le dossier, qui est transmis par la chambre régionale, doit comporter, cotées, toutes les pièces sans exception qui ont été en possession des premiers juges.
+Le président de la Chambre nationale de discipline peut rejeter sans instruction, par ordonnance motivée, les recours qui sont manifestement irrecevables et donner acte des désistements.
