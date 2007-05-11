@@ -1,6 +1,6 @@
 # Article 6
 
-Le maire peut déléguer à un ou plusieurs agents communaux majeurs et titularisés dans un emploi permanent les fonctions qu'il exerce en tant qu'officier de l'état civil pour la réception des déclarations de naissance et de décès, pour la transcription ou la mention en marge de tous actes ou jugements sur les registres de l'état civil, de même que pour dresser tous actes relatifs aux déclarations ci-dessus. Les actes ainsi dressés comportent la seule signature du fonctionnaire municipal délégué.
+Le maire peut déléguer à un ou plusieurs agents communaux majeurs et titularisés dans un emploi permanent les fonctions qu'il exerce en tant qu'officier de l'état civil pour la réalisation de l'audition commune ou des entretiens séparés, préalables au mariage ou à sa transcription la réception des déclarations de naissance et de décès, pour la transcription ou la mention en marge de tous actes ou jugements sur les registres de l'état civil, de même que pour dresser tous actes relatifs aux déclarations ci-dessus. Les actes ainsi dressés comportent la seule signature du fonctionnaire municipal délégué.
 
 Cette délégation est exercée sous la surveillance et la responsabilité du maire.
 
