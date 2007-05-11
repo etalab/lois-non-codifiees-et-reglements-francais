@@ -1,3 +1,0 @@
-# Article 3
-
-L'ambassadeur de France aux Etats-Unis peut donner délégation de signature, en ce qui concerne sa compétence d'ordonnateur secondaire, à l'attaché d'armement à Washington (Etats-Unis) pour les dépenses relatives aux prestations de service, d'acquisitions de rechanges destinées au maintien en condition opérationnelle des matériels aéronautiques et aux prestations qui y sont associées inscrites sur le budget du ministère de l'intérieur et de l'aménagement du territoire et du ministère de l'économie, des finances et de l'industrie. Le délégataire peut subdéléguer sa signature à un ou plusieurs agents de l'Etat relevant de son service.
