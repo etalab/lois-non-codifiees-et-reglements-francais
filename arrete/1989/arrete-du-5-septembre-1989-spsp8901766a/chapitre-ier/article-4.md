@@ -2,7 +2,7 @@
 
 Chaque module est validé sous forme d'un ou plusieurs contrôles obligatoires tels que définis en annexe I du présent arrêté.
 
-Ces contrôles sont écrits et anonymes. Ils peuvent être accompagnés d'épreuves orales ou pratiques. Les modalités de ces contrôles de validation sont déterminées par le directeur de l'école après avis du conseil technique.
+Ces contrôles sont écrits et anonymes. Ils peuvent être accompagnés d'épreuves orales ou pratiques. Les modalités de ces contrôles de validation sont déterminées par le directeur de l'école après avis du conseil pédagogique.
 
 L'absence d'un étudiant à un contrôle entraîne la note 0, sauf en cas de force majeure appréciée par le directeur de l'institut. En ce cas, un contrôle de remplacement est organisé avant la fin de l'année scolaire.
 
