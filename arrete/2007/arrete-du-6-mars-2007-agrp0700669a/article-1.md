@@ -1,0 +1,3 @@
+# Article 1
+
+L'opération d'enrichissement des raisins frais, des moûts de raisins frais et des vins de la récolte 2006 destinés à l'élaboration des vins à appellation d'origine Champagne, Coteaux champenois et Rosé des Riceys ne peut en aucun cas avoir pour effet d'augmenter le volume de moût en fermentation mis en oeuvre de plus de 1,12 % pour une hausse d'un degré du titre alcoométrique volumique. Les volumes obtenus au-delà de cette limite devront être expédiés obligatoirement à la distillation avant le 15 décembre 2007, sans que ces envois puissent être imputés au titre des obligations communautaires.

@@ -34,6 +34,6 @@ c) Le président du Centre des monuments nationaux ou son représentant ;
 
 4° Trois personnalités françaises ou étrangères, désignées en raison de leur compétence dans les domaines d'activité de l'établissement par un arrêté conjoint des ministres chargés de l'agriculture, de la culture et de l'environnement ;
 
-5° Trois représentants du personnel de l'établissement, dont un représentant du personnel administratif, un représentant du personnel technique et un représentant des cadres, élus par application des dispositions du chapitre II du titre II de la loi du 26 juillet 1983 susvisée.
+5° Trois représentants du personnel de l'établissement élus par application des dispositions du chapitre II du titre II de la loi du 26 juillet 1983 susvisée.
 
 Des suppléants sont désignés dans les mêmes conditions que les titulaires mentionnés aux 4° et 5°, afin de remplacer ces derniers en cas d'empêchement.

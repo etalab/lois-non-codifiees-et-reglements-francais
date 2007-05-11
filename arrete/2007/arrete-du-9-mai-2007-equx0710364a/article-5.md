@@ -1,0 +1,3 @@
+# Article 5
+
+La direction des transports maritimes, routiers et fluviaux veille à organiser l'assistance mutuelle pour clarifier une situation qui ferait apparaître, à l'occasion d'un contrôle, la nécessité d'obtenir des informations complémentaires. Elle est responsable de l'aide fournie aux autorités compétentes des autres Etats membres lors de la commission d'infractions par leurs ressortissants. Elle est chargée des échanges bilatéraux d'informations prévus à l'article 19, paragraphe 3, du règlement (CEE) n° 3821/85 et à l'article 22, paragraphe 2, du règlement (CE) n° 561/2006. Ces échanges se font au moins tous les six mois, et à la demande spécifique d'un Etat membre dans des cas particuliers.
