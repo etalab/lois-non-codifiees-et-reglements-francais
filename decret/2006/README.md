@@ -444,7 +444,6 @@
 - [Décret n°2006-1497 du 29 novembre 2006 (SANP0622637D)](decret-n2006-1497-du-29-novembre-2006-sanp0622637d)
 - [Décret n°2006-1498 du 29 novembre 2006 (SANS0624662D)](decret-n2006-1498-du-29-novembre-2006-sans0624662d)
 - [Décret n°2006-1499 du 29 novembre 2006 (SANS0624679D)](decret-n2006-1499-du-29-novembre-2006-sans0624679d)
-- [Décret n°2006-1500 du 29 novembre 2006 (DEFF0601007D)](decret-n2006-1500-du-29-novembre-2006-deff0601007d)
 - [Décret n°2006-1501 du 29 novembre 2006 (SOCK0612074D)](decret-n2006-1501-du-29-novembre-2006-sock0612074d)
 - [Décret n°2006-1503 du 29 novembre 2006 (DEVN0630167D)](decret-n2006-1503-du-29-novembre-2006-devn0630167d)
 - [Décret n°92-1366 du 29 décembre 1992 (INDE9200931D)](decret-n92-1366-du-29-decembre-1992-inde9200931d)

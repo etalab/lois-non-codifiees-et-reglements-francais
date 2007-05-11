@@ -602,7 +602,6 @@
 - [Décret n°95-172 du 17 février 1995 (BUDF9500003D)](decret-n95-172-du-17-fevrier-1995-budf9500003d)
 - [Décret n°95-299 du 17 mars 1995 (FPPA9500039D)](decret-n95-299-du-17-mars-1995-fppa9500039d)
 - [Décret n°95-300 du 17 mars 1995 (JUSE9540004D)](decret-n95-300-du-17-mars-1995-juse9540004d)
-- [Décret n°95-319 du 17 mars 1995 (EQUA9500331D)](decret-n95-319-du-17-mars-1995-equa9500331d)
 - [Décret n°95-322 du 17 mars 1995 (BUDB9560005D)](decret-n95-322-du-17-mars-1995-budb9560005d)
 - [Décret n°95-54 du 17 janvier 1995 (ACVA9410116D)](decret-n95-54-du-17-janvier-1995-acva9410116d)
 - [Décret n°95-841 du 17 juillet 1995 (ECOT9551448D)](decret-n95-841-du-17-juillet-1995-ecot9551448d)

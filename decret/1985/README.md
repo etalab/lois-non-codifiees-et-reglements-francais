@@ -141,7 +141,6 @@
 - [Décret n°85-378 du 27 mars 1985](decret-n85-378-du-27-mars-1985)
 - [Décret n°85-910 du 27 août 1985](decret-n85-910-du-27-aout-1985)
 - [Décret n°85-108 du 28 janvier 1985](decret-n85-108-du-28-janvier-1985)
-- [Décret n°85-1145 du 28 octobre 1985](decret-n85-1145-du-28-octobre-1985)
 - [Décret n°85-1146 du 28 octobre 1985](decret-n85-1146-du-28-octobre-1985)
 - [Décret n°85-1150 du 29 octobre 1985](decret-n85-1150-du-29-octobre-1985)
 - [Décret n°85-1251 du 29 novembre 1985](decret-n85-1251-du-29-novembre-1985)
