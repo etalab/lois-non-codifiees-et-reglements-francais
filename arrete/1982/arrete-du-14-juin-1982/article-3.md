@@ -20,7 +20,7 @@ La DGI utilise le fichier SIRENE pour certifier les éléments d'identification 
 
 Ces données sont conservées trois ans révolus après l'enregistrement de la clôture du compte pour les comptes dont le titulaire est une personne physique et dix ans révolus après l'enregistrement de la clôture du compte pour les comptes dont le titulaire est une personne morale.
 
-II. - Les informations nominatives utilisées pour permettre l'accès aux agents de la DGI et la DGDDI sont issues de l'application "Annuaire DGI". Ces informations sont les suivantes :
+II. - Les informations nominatives utilisées pour permettre l'accès aux agents de la DGI, de la DGDDI et de l'ORGANIC sont issues de l'application "Annuaire DGI". Ces informations sont les suivantes :
 
 - nom, prénom ;
 
