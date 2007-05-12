@@ -774,7 +774,6 @@
 - [Décret n°99-666 du 29 juillet 1999 (JUSC9920360D)](decret-n99-666-du-29-juillet-1999-jusc9920360d)
 - [Décret n°99-682 du 29 juillet 1999 (ECOB9950030D)](decret-n99-682-du-29-juillet-1999-ecob9950030d)
 - [Décret n°99-856 du 29 septembre 1999 (INTM9900026D)](decret-n99-856-du-29-septembre-1999-intm9900026d)
-- [Décret du 30 décembre 1998 (ECOC9800135D)](decret-du-30-decembre-1998-ecoc9800135d)
 - [Décret n°70-1094 du 30 novembre 1970](decret-n70-1094-du-30-novembre-1970)
 - [Décret n°98-1309 du 30 décembre 1998 (MESS9823032D)](decret-n98-1309-du-30-decembre-1998-mess9823032d)
 - [Décret n°98-679 du 30 juillet 1998 (ATEP9860005D)](decret-n98-679-du-30-juillet-1998-atep9860005d)

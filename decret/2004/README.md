@@ -1058,7 +1058,6 @@
 - [Décret n°2004-1323 du 29 novembre 2004 (INDI0403843D)](decret-n2004-1323-du-29-novembre-2004-indi0403843d)
 - [Décret n°2004-1324 du 29 novembre 2004 (INDI0403844D)](decret-n2004-1324-du-29-novembre-2004-indi0403844d)
 - [Décret n°2004-1325 du 29 novembre 2004 (INDI0403845D)](decret-n2004-1325-du-29-novembre-2004-indi0403845d)
-- [Décret n°2004-1488 du 29 décembre 2004 (INTB0400365D)](decret-n2004-1488-du-29-decembre-2004-intb0400365d)
 - [Décret n°2004-295 du 29 mars 2004 (INTD0400056D)](decret-n2004-295-du-29-mars-2004-intd0400056d)
 - [Décret n°2004-296 du 29 mars 2004 (INTD0400057D)](decret-n2004-296-du-29-mars-2004-intd0400057d)
 - [Décret n°2004-300 du 29 mars 2004 (SOCA0421024D)](decret-n2004-300-du-29-mars-2004-soca0421024d)
