@@ -3231,7 +3231,7 @@ A complete checklist of the birds of the world, édition de 1980)
 
 (*) Toutefois l'obligation d'autorisation et de marquage ne s'applique pas :
 
-- aux animaux autres que ceux prélevés dans la nature et appartenant à des espèces pour lesquelles les arrêtés pris en application des articles L. 411-1 et L. 411-2 du code de l'environnement ne prévoient pas d'interdiction d'activités applicables à ce type d'animaux ;
+- aux oiseaux nés et élevés en captivité appartenant aux espèces figurant à l'article 4 de l'arrêté du 17 avril 1981 modifié fixant la liste des oiseaux protégés sur l'ensemble du territoire ;
 
 - en ce qui concerne les espèces pour lesquelles les arrêtés pris en application des articles L. 411-1 et L. 411-2 du code de l'environnement fixent des interdictions de transport sur une partie seulement du territoire national, aux animaux des espèces considérées qui ne sont pas détenus sur cette partie du territoire national.
 

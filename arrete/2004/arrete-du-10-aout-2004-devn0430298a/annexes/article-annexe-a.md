@@ -162,11 +162,11 @@ La bague est conçue selon le déroulé ci-après. Elle porte les inscriptions s
 
 - le diamètre de la bague en 1/10 de millimètre jusqu'à 10 mm, en millimètres au-delà ;
 
-- le numéro d'ordre de l'oiseau comportant trois chiffres ;
+- le numéro d'ordre de l'oiseau comportant trois ou quatre chiffres ;
 
 - le sigle de l'organisation qui a délivré la bague ;
 
-- le numéro de l'éleveur comportant quatre chiffres.
+- le numéro de l'éleveur comportant quatre chiffres, ou une lettre suivie de trois chiffres, ou deux lettres suivies de deux chiffres.
 
 Vous pouvez consulter le schéma dans le JO
 

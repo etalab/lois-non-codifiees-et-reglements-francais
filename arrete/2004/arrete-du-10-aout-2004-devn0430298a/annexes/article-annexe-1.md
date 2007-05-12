@@ -256,7 +256,7 @@ Les signes (*) (**) et (***) renvoient aux précisions figurant à la fin de la 
 
 (**) L'autorisation et le marquage ne concernent que les animaux appartenant aux espèces du taxon indiqué sur la liste, reprises sur les listes établies pour l'application des articles L. 411-1 et L. 411-2 du code de l'environnement. Toutefois :
 
-- en ce qui concerne les animaux autres que ceux prélevés dans la nature, l'autorisation et le marquage ne s'appliquent qu'à ceux appartenant à des espèces pour lesquelles les arrêtés pris en application des articles précités du code de l'environnement prévoient des interdictions d'activités applicables à ce type d'animaux.
+- l'autorisation et le marquage ne s'appliquent pas aux oiseaux nés et élevés en captivité appartenant aux espèces figurant à l'article 4 de l'arrêté du 17 avril 1981 modifié fixant la liste des oiseaux protégés sur l'ensemble du territoire ;
 
 - en ce qui concerne les espèces pour lesquelles les arrêtés pris en application des articles précités du code de l'environnement fixent des interdictions de transport sur une partie seulement du territoire national, l'autorisation et le marquage ne s'appliquent qu'aux animaux des espèces considérées, détenus sur cette partie du territoire national.
 
