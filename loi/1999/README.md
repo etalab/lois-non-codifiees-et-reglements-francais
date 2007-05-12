@@ -39,4 +39,3 @@
 - [Loi n° 99-944 du 15 novembre 1999 (JUSX9803236L)](loi-n-99-944-du-15-novembre-1999-jusx9803236l)
 - [Loi n° 99-957 du 22 novembre 1999 (JUSX9903598L)](loi-n-99-957-du-22-novembre-1999-jusx9903598l)
 - [Loi n°99-243 du 29 mars 1999 (EQUX9800060L)](loi-n99-243-du-29-mars-1999-equx9800060l)
-- [Loi n°99-929 du 10 novembre 1999 (JUSX9600164L)](loi-n99-929-du-10-novembre-1999-jusx9600164l)
