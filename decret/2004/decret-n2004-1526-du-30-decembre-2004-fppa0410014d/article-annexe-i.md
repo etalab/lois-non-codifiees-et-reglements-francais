@@ -7,12 +7,12 @@
 <tbody>
 <tr>
 <td align="left" valign="middle">
-<p align="center">AGENTS TITULAIRES DE LA COLLECTIVITÉ DEPARTEMENTALE</p>
-<p align="center">de Mayotte régis par l'arrêté préfectoral 066 PEL </p>
+<p align="center">AGENTS TITULAIRES DE LA COLLECTIVITÉ TERRITORIALE </p>
+<p>de Mayotte régis par l'arrêté préfectoral 066 PEL </p>
 <p>du 3 février 1984 portant organisation, classement hiérarchique et échelonnement indiciaire des cadres des fonctionnaires de la collectivité départementale de Mayotte</p>
 </td>
 <td align="left" valign="middle">
-<p align="center">LES FONCTIONS CORRESPONDANT </p>
+<p align="center">FONCTIONS CORRESPONDANT </p>
 <p>à celles dévolues au cadre d'emplois d'accueil</p>
 </td>
 <td align="left" valign="middle">
@@ -74,11 +74,12 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
+<td align="left" rowspan="3" valign="middle">
 <p align="justify">Agents classés : </p>
 <p>- au moins au 2e échelon de la 2e classe du principalat de la catégorie I ; </p>
 <p>- au 7e, 8e, 9e, 10e, 11e ou 12e échelon de la classe normale de la catégorie I ; </p>
 <p>- au 7e échelon du principalat de la catégorie II</p>
+<br/>
 </td>
 <td align="left" valign="middle">
 <p align="justify">Fonctions de direction d'équipes, d'adjoint d'agents de catégorie A, d'expertise particulière</p>
@@ -90,37 +91,27 @@
 </tr>
 <tr>
 <td align="left" valign="middle">
-<p align="center">d°</p>
-</td>
-<td align="left" valign="middle">
 <p align="justify">Fonctions d'encadrement d'un groupe d'agents d'exécution</p>
 </td>
 <td align="left" valign="middle">
-<p align="justify">Adjoint administratif. </p>
-<p>Agent technique. </p>
-<p>Agent qualifié du patrimoine de 2e classe.</p>
+<p align="justify">Adjoint administratif territorial de 1re classe. </p>
+<p>Adjoint technique territorial de 1re classe. </p>
+<p>Adjoint territorial du patrimoine de 1re classe</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="middle">
-<p align="center">d°</p>
-</td>
-<td align="left" valign="middle">
 <p align="justify">Fonctions d'exécution</p>
 </td>
 <td align="left" valign="middle">
-<p align="justify">Agent administratif. </p>
-<p>Agent d'entretien.</p>
-<p>Agent de salubrité. </p>
-<p>Agent du patrimoine de 2e classe.</p>
-<p>Aide opérateur des activités physiques et sportives. </p>
-<p>Agent social. </p>
-<p>Auxiliaire de soins.</p>
-<p>Auxiliaire de puériculture.</p>
-<p>Agent d'animation.</p>
-<p>Conducteur.</p>
-<p>Gardien d'immeubles.</p>
-<p>Agent spécialisé de 2e classe des écoles maternelles.</p>
+<p align="justify">Adjoint administratif territorial de 2e classe. </p>
+<p>Adjoint technique territorial de 2e classe. </p>
+<p>Adjoint territorial du patrimoine de 2e classe. </p>
+<p>Opérateur territorial des activités physiques et sportives de 2e classe. </p>
+<p>Agent social territorial de 2e classe. Auxiliaire de soins territorial de 1re classe. </p>
+<p>Auxiliaire de puériculture territorial de 1re classe. </p>
+<p>Adjoint territorial d'animation de 2e classe. </p>
+<p>Agent territorial spécialisé de 1re classe des écoles maternelles.</p>
 </td>
 </tr>
 </tbody>
@@ -128,4 +119,64 @@
 
 .
 
+<table>
+<tbody>
+<tr>
+<td align="left" valign="middle">
+<p align="center">AGENTS TITULAIRES DE LA COLLECTIVITÉ DÉPARTEMENTALE </p>
+<p>de Mayotte régis par l'arrêté préfectoral 069 PEL du 3 février 1984 modifié portant organisation, classement hiérarchique et échelonnement indiciaire du corps médical et paramédical diplômé d'Etat</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">FONCTIONS CORRESPONDANT </p>
+<p>à celles dévolues au cadre d'emplois d'accueil</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">GRADE D'INTÉGRATION </p>
+<p>dans un cadre d'emplois de la fonction publique territoriale</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">Infirmier.</p>
+</td>
+<td align="left" valign="middle">
+<p align="left">Fonctions correspondant à celles dévolues aux membres du cadre d'emplois d'accueil.</p>
+</td>
+<td align="left" valign="middle">
+<p align="left">Infirmier territorial de classe normale et de classe supérieure.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
 .
+
+<table>
+<tbody>
+<tr>
+<td align="left" valign="middle">
+<p align="center">AGENTS TITULAIRES DE LA COLLECTIVITÉ DÉPARTEMENTALE </p>
+<p>de Mayotte régis par l'arrêté préfectoral 068 PEL du 3 février 1984 modifié portant organisation, classement hiérarchique et échelonnement indiciaire des médecins, pharmaciens chimistes et vétérinaires biologistes</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">FONCTIONS CORRESPONDANT </p>
+<p>à celles dévolues au cadre d'emplois d'accueil</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">GRADE D'INTÉGRATION </p>
+<p>dans un cadre d'emplois de la fonction publique territoriale</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">Médecin.</p>
+</td>
+<td align="left" valign="middle">
+<p align="left">Fonctions correspondant à celles dévolues aux membres du cadre d'emplois d'accueil.</p>
+</td>
+<td align="left" valign="middle">
+<p align="left">Médecin territorial de 1re classe.</p>
+</td>
+</tr>
+</tbody>
+</table>
