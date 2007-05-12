@@ -1,0 +1,3 @@
+# Article 6
+
+Dans le cas où, au cours de l'année précédant celle de la constatation de la perte de produit de la taxe professionnelle ou de ressources de redevance des mines, une commune adhère à un établissement public de coopération intercommunale soumis au régime fiscal prévu par l'article 1609 nonies C du code général des impôts, seul cet établissement public, sous réserve de respecter les conditions prévues au 2° de l'article 1er du présent décret, peut bénéficier, à compter de l'année de constatation de la perte, de la compensation définie au I de l'article 53 de la loi de finances pour 2004 susvisée.
