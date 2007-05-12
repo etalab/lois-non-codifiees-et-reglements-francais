@@ -1,5 +1,0 @@
-# Article 119
-
-Sous réserve du règlement, dans les conditions prévues aux articles 20 à 23 du décret du 30 décembre 1959 susvisé, des créances privilégiées énumérées à l'article 63 du code de l'industrie cinématographique, les entreprises de production titulaires d'un compte ouvert à leur nom conformément à l'article 12 ont la faculté d'investir les sommes inscrites sur ce compte pour couvrir les dépenses de promotion à l'étranger des oeuvres cinématographiques de longue durée qu'elles produisent.
-
-Ces oeuvres doivent avoir donné lieu à la délivrance de l'agrément des investissements prévu aux articles 30 à 39. Elles doivent en outre être réalisées intégralement ou principalement en version originale en langue française ou dans une langue régionale en usage en France. Toutefois, cette dernière condition ne s'applique pas lorsqu'il s'agit d'oeuvres de fiction tirées d'opéras et réalisées dans la langue du livret, d'oeuvres documentaires réalisées dans une langue dont l'emploi est justifié par le sujet traité ou d'oeuvres d'animation.

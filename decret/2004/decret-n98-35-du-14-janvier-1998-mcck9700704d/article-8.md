@@ -8,4 +8,6 @@ II. - Pour l'octroi des aides mentionnées à l'article 3 du présent décret, l
 
 2° Ne pas être contrôlées, au sens de l'article L. 233-3 du code de commerce, par une ou plusieurs personnes physiques ou morales ressortissantes d'Etats autres que les Etats européens mentionnés au 1°.
 
+En outre, les entreprises de production doivent assurer la production des oeuvres audiovisuelles dans des conditions conformes à la législation sociale et notamment dans le respect de leurs obligations vis-à-vis des organismes de protection sociale.
+
 III. - Pour l'octroi des aides mentionnées aux articles 5 et 6 du présent décret, les entreprises ou organismes concernés doivent également être indépendants de tout éditeur de service de télévision au sens du II de l'article 11 du décret n° 2001-609 du 9 juillet 2001 relatif à la contribution des éditeurs de services de télévision diffusés en clair par voie hertzienne terrestre en mode analogique au développement de la production d'oeuvres cinématographiques et audiovisuelles.

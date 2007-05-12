@@ -4,6 +4,6 @@ Le montant total du soutien financier accordé en application des dispositions d
 
 1° Etre supérieur à 50 % du coût définitif de production de cette oeuvre et, en cas de coproduction internationale, à plus de 50 % de la participation française ;
 
-2° Avoir pour effet de porter à plus de 50 % du coût définitif de production de cette oeuvre et, en cas de coproduction internationale à plus de 50 % de la participation française, le montant total des aides financières accordées par l'Etat.
+2° Avoir pour effet de porter à plus de 50 % du coût définitif de production de cette oeuvre et, en cas de coproduction internationale à plus de 50 % de la participation française, le montant total des aides publiques accordées.
 
 Toutefois, eu égard aux caractéristiques artistiques et aux conditions économiques de production des oeuvres cinématographiques, des dérogations aux seuils précités peuvent être accordées par le directeur général du Centre national de la cinématographie.

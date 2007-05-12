@@ -40,4 +40,4 @@ Toute somme portée au compte d'une entreprise de production, au titre d'une oeu
 
 VI. - Sur décision du directeur général du Centre national de la cinématographie, les sommes inscrites sur le compte d'une entreprise de production peuvent être reportées sur le compte d'une autre entreprise de production, soit en totalité en cas de reprise complète de l'activité de production, soit en partie en cas de reprise complète d'une branche autonome de l'activité de production.
 
-En cas de cessation définitive de l'activité d'une entreprise de production, il est procédé à la clôture de son compte.
+En cas de cessation définitive de l'activité d'une entreprise de production ou lorsque celle-ci ne satisfait plus aux conditions prévues aux 1° et 2° du premier alinéa du paragraphe II de l'article 8 du décret n° 98-35 du 14 janvier 1998 relatif au soutien financier de l'industrie audiovisuelle, il est procédé à la clôture de son compte.

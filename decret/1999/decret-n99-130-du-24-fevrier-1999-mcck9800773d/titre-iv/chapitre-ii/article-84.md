@@ -1,3 +1,3 @@
 # Article 84
 
-Les sommes allouées aux entreprises de production sont versées sur un compte bancaire ouvert spécialement pour chaque oeuvre cinématographique.
+Les sommes allouées en application de l'article 81 sont versées à l'entreprise de production qui assure la production de l'oeuvre cinématographique de courte durée sur un compte bancaire ouvert spécialement pour cette oeuvre.
