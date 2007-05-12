@@ -293,7 +293,6 @@
 - [Arrêté du 17 août 1989 (PRME8961375A)](arrete-du-17-aout-1989-prme8961375a)
 - [Arrêté du 17 août 1989 (PRME8961376A)](arrete-du-17-aout-1989-prme8961376a)
 - [Arrêté du 17 avril 1989 (DEFD8901364A)](arrete-du-17-avril-1989-defd8901364a)
-- [Arrêté du 17 avril 1989 (MENU8900393A)](arrete-du-17-avril-1989-menu8900393a)
 - [Arrêté du 17 avril 1989 (MENU8900394A)](arrete-du-17-avril-1989-menu8900394a)
 - [Arrêté du 17 février 1989 (PRME8961313A)](arrete-du-17-fevrier-1989-prme8961313a)
 - [Arrêté du 17 février 1989 (PRME8961314A)](arrete-du-17-fevrier-1989-prme8961314a)
