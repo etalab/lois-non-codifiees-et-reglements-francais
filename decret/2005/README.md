@@ -37,6 +37,7 @@
 - [Décret du 12 septembre 2005 (AGRP0501554D)](decret-du-12-septembre-2005-agrp0501554d)
 - [Décret du 12 septembre 2005 (AGRP0501555D)](decret-du-12-septembre-2005-agrp0501555d)
 - [Décret n°2005-1270 du 12 octobre 2005 (INTR0500290D)](decret-n2005-1270-du-12-octobre-2005-intr0500290d)
+- [Décret n°2005-1290 du 12 octobre 2005 (BUDB0570021D)](decret-n2005-1290-du-12-octobre-2005-budb0570021d)
 - [Décret du 13 septembre 2005 (AGRP0500336D)](decret-du-13-septembre-2005-agrp0500336d)
 - [Décret n° 2005-789 du 13 juillet 2005 (MAEA0520189D)](decret-n-2005-789-du-13-juillet-2005-maea0520189d)
 - [Décret n°2005-1150 du 13 septembre 2005 (INTE0500266D)](decret-n2005-1150-du-13-septembre-2005-inte0500266d)
