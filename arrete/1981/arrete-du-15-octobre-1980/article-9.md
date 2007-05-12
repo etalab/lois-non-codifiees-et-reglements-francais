@@ -1,6 +1,6 @@
 # Article 9
 
-Annexe n° I *tableau non reproduit*
+Annexe n° I (tableau non reproduit - consulter le fac-similé)
 
 Analyses physico-chimiques sur l'eau
 
@@ -12,7 +12,7 @@ Analyse des éléments toxiques ou indésirables
 
 Inventaire P.C.-B.
 
-Annexe n° II *tableau non reproduit*
+Annexe n° II (tableau non reproduit - consulter le fac-similé)
 
 Analyse des métaux sur les sédiments
 
@@ -20,13 +20,13 @@ Inventaire
 
 Annexe n° III
 
-Recherche des biocides sur les poissons *tableau non reproduit*
+Recherche des biocides sur les poissons (tableau non reproduit - consulter le fac-similé)
 
 Inventaire
 
 Annexe n° IV
 
-Analyse bactériologique *tableau non reproduit*.
+Analyse bactériologique (tableau non reproduit - consulter le fac-similé)
 
 Annexe n° V.
 
@@ -76,7 +76,7 @@ p) Institut Bouisson-Bertrand à Montpellier ;
 
 q) Laboratoire municipal de Bordeaux ;
 
-r) Laboratoire de l'agence financière de bassin Adour-Garonne.
+r) Laboratoire de l'agence de l'eau Adour-Garonne.
 
 2° De biocides dans les poissons.
 

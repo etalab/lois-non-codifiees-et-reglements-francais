@@ -1,3 +1,3 @@
 # Article 1
 
-Les grades et emplois des personnels d'exécution des établissements mentionnés à l'article 2 de la loi du 9 janvier 1986 susvisée sont répartis dans les cinq échelles de rémunération visées à l'article 1er du décret du 21 décembre 1982 susvisé, conformément au tableau 1 figurant à l'article 4 du présent arrêté.
+La perception de la contre-valeur de la redevance pour détérioration de la qualité de l'eau émise par les agences financières de bassin fait l'objet d'une rémunération prévue à l'article 18 de l'arrêté du 28 octobre 1975 modifié du ministre de l'environnement et du cadre de vie pris pour l'application des articles 3, 5, 6, 10, 11 et 15 du décret du 28 octobre 1975 susvisé.

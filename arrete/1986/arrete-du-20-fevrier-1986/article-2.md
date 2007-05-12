@@ -1,7 +1,3 @@
 # Article 2
 
-Les revalorisations des coefficients de majoration des salaires servant de base à la liquidation des droits à pension prévus par l'article 1er (par. 1) de l'arrêté du 22 décembre 1983 qui s'appliquent aux coefficients résultant de l'arrêté du 5 avril 1985 sont fixées dans les conditions suivantes :
-
-Pour les pensions dont l'entrée en jouissance est postérieure au 31 décembre 1985 et antérieure au 1er octobre 1986, la revalorisation est de 2% ; le coefficient applicable aux salaires de l'année 1985 est fixé à 1 ;
-
-Pour les pensions dont l'entrée en jouissance est postérieure au 30 septembre 1986, une revalorisation de 0,5% est appliquée ; le coefficient applicable aux salaires de l'année 1985 est fixé à 1,005.
+Le montant maximal de la rémunération des services publics de distribution d'eau, par facture portant perception de la contre-valeur de la redevance de l'agence de l'eau, est fixé à 1,294 F hors taxe pour l'année 1986.

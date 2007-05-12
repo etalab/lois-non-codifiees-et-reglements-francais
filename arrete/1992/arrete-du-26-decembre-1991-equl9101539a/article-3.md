@@ -14,7 +14,7 @@ Ministère de l'agriculture et de la forêt ;
 
 Direction de l'eau et de la prévention des pollutions et des risques ;
 
-Agence financière de bassin Seine-Normandie ;
+Agence de l'eau de Seine-Normandie ;
 
 Direction départementale de l'équipement de la Seine-Saint-Denis ;
 
