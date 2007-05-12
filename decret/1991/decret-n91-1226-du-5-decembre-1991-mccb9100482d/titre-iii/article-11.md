@@ -1,6 +1,6 @@
 # Article 11
 
-Par arrêté motivé pris sur avis conforme du Conseil national de la recherche archéologique, le ministre chargé de la culture prononce le retrait de l'autorisation accordée en vertu de l'article 7 :
+Par arrêté motivé pris sur avis conforme de la commission interrégionale de la recherche archéologique territorialement compétente, le ministre chargé de la culture prononce le retrait de l'autorisation accordée en vertu de l'article 7 :
 
 1° En cas d'inobservation grave ou répétée des prescriptions imposées pour l'exécution des recherches, la déclaration ou la conservation des découvertes ;
 
