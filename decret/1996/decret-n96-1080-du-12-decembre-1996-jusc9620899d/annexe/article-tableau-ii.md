@@ -413,7 +413,7 @@ FORMALITÉS, REQUÊTES ET DILIGENCES
 <p align="left">Information au représentant de l'Etat de l'assignation aux fins de constat de résiliation du bail.</p>
 </td>
 <td valign="top" width="211">
-<p align="left">Article 24 de la loi n° 89-462 du 6 juillet 1989, modifiée par<br/>la loi n° 98-657 du 29 juillet 1998.</p>
+<p align="left">Article 24 de la loi n° 89-462 du 6 juillet 1989, modifiée par la loi n° 98-657 du 29 juillet 1998.</p>
 </td>
 <td valign="top" width="98">
 <p align="center">14</p>
@@ -442,7 +442,7 @@ FORMALITÉS, REQUÊTES ET DILIGENCES
 <p>Notification à la personne expulsée de la consignation du produit de la vente.</p>
 </td>
 <td valign="top" width="211">
-<p>Art. 206, alinéa 3, du décret n° 92-755 du 31 juillet 1992.</p>
+<p>Art. 206, alinéa 3, du décret<br/>n° 92-755 du 31 juillet 1992.</p>
 </td>
 <td valign="top" width="98">
 <p align="center">5</p>
@@ -456,7 +456,7 @@ FORMALITÉS, REQUÊTES ET DILIGENCES
 <p>Notification à la personne expulsée de la mise sous enveloppe scellée des papiers et documents de nature personnelle.</p>
 </td>
 <td valign="top" width="211">
-<p>Art. 207, alinéa 2, du décret n° 92-755 du 31 juillet 1992.</p>
+<p>Art. 207, alinéa 2, du décret<br/>n° 92-755 du 31 juillet 1992.</p>
 </td>
 <td valign="top" width="98">
 <p align="center">5</p>
@@ -487,7 +487,7 @@ FORMALITÉS, REQUÊTES ET DILIGENCES
 <p>Requête aux fins de pratiquer une mesure conservatoire.</p>
 </td>
 <td valign="top" width="211">
-<p>Art. 210 du décret n° 92-755 du 31 juillet 1992.</p>
+<p>Art. 210 du décret n° 92-755 du<br/>31 juillet 1992.</p>
 </td>
 <td valign="top" width="98">
 <p align="center">25</p>
@@ -504,7 +504,7 @@ FORMALITÉS, REQUÊTES ET DILIGENCES
 <p>Projet de répartition du prix en matière de distribution de deniers.</p>
 </td>
 <td valign="top" width="211">
-<p>Art. 284 du décret n° 92-755 du 31 juillet 1992.</p>
+<p>Art. 284 du décret n° 92-755 du<br/>31 juillet 1992.</p>
 </td>
 <td valign="top" width="98">
 <p align="center">25</p>
@@ -578,13 +578,13 @@ FORMALITÉS, REQUÊTES ET DILIGENCES
 <p align="center">34</p>
 </td>
 <td valign="top" width="215">
-<p>Préparation et rédaction du pouvoir aux fins de saisie immobilière.</p>
+<p align="left">Rédaction du bordereau en vue de la publication du commandement.</p>
 </td>
 <td valign="top" width="211">
-<p>Art. 673 du code de procédure civile ancien.</p>
+<p align="left">Art. 18 du décret n° 2006-936 du 27 juillet 2006.</p>
 </td>
 <td valign="top" width="98">
-<p align="center">25</p>
+<p align="center">20</p>
 </td>
 </tr>
 <tr>
@@ -592,10 +592,10 @@ FORMALITÉS, REQUÊTES ET DILIGENCES
 <p align="center">35</p>
 </td>
 <td valign="top" width="215">
-<p>Rédaction du bordereau en vue de la publication d'un commandement valant saisie immobilière.</p>
+<p align="left">Mention en marge au bureau des hypothèques.</p>
 </td>
 <td valign="top" width="211">
-<p>Art. 674 du code de procédure civile ancien.</p>
+<p align="left">Art. 43 du décret n° 2006-936 du 27 juillet 2006.</p>
 </td>
 <td valign="top" width="98">
 <p align="center">20</p>
@@ -700,7 +700,7 @@ FORMALITÉS, REQUÊTES ET DILIGENCES
 </td>
 </tr>
 <tr>
-<td rowspan="3" valign="top" width="97">
+<td valign="top" width="97">
 <p>Paiement direct des pensions alimentaires.</p>
 </td>
 <td valign="top" width="57">
@@ -718,6 +718,7 @@ FORMALITÉS, REQUÊTES ET DILIGENCES
 </td>
 </tr>
 <tr>
+<td/>
 <td valign="top" width="57">
 <p align="center">44</p>
 </td>
@@ -733,11 +734,12 @@ FORMALITÉS, REQUÊTES ET DILIGENCES
 </td>
 </tr>
 <tr>
+<td/>
 <td valign="top" width="57">
 <p align="center">45</p>
 </td>
 <td valign="top" width="215">
-<p>Notification de la modification ou de la mainlevée de la demande.</p>
+<p>Notification de la modification ou<br/>de la mainlevée de la demande.</p>
 </td>
 <td valign="top" width="211">
 <p>Art. 6 de la loi n° 73-5 du 2 janvier 1973.</p>
@@ -745,6 +747,38 @@ FORMALITÉS, REQUÊTES ET DILIGENCES
 </td>
 <td valign="top" width="98">
 <p align="center">7</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Inventaire estimatif de l'actif<br/>et du passif des successions<br/>vacantes. </p>
+</td>
+<td align="left" valign="top">
+<p align="center">46</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Inventaire en cas de succession vacante.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Art. 809-2 du code civil.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">25</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="center">47</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Délivrance d'une copie de l'inventaire<br/>dressé en cas de succession vacante. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Art. 1345 du NCPC. </p>
+</td>
+<td align="left" valign="top">
+<p align="center">10</p>
 </td>
 </tr>
 </tbody>
