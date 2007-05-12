@@ -1,8 +1,8 @@
 # Article 3
 
-Les déclarations relatives aux changements survenus dans l'administration ou la direction de l'association mentionnent :
+Les déclarations relatives aux changements survenus dans l'administration de l'association mentionnent :
 
-1° Les changements de personnes chargées de l'administration ou de la direction ;
+1° Les changements de personnes chargées de l'administration ;
 
 2° Les nouveaux établissements fondés ;
 
