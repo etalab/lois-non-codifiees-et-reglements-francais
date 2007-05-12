@@ -40,7 +40,7 @@ d) Abrogé ;
 
 e) Abrogé ;
 
-f) Le service hydrographique et océanographique de la marine ;
+f) Abrogé ;
 
 g) Le service des systèmes d'information de la marine.
 
