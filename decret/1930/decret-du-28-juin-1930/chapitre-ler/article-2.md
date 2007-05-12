@@ -1,3 +1,7 @@
 # Article 2
 
-L'officier local des eaux et forêts procède ou fait procéder par son délégué à la reconnaissance du bois et adresse par lettre recommandée au demandeur, dans le délai d'un mois, un certificat constatant que le bois dont il s'agit est ou n'est pas susceptible d'aménagement ou d'exploitation régulière.
+Le certificat est établi par le directeur départemental de l'agriculture et de la forêt après, en tant que de besoin, reconnaissance des biens concernés par l'autorité administrative chargée de l'application de la législation concernée.
+
+Il est adressé au demandeur, par courrier simple ou par tout moyen télématique homologué, dans les deux mois de la réception de la demande.
+
+Le certificat, qui comporte les coordonnées du demandeur et la liste des parcelles concernées par commune, avec l'indication de la surface concernée, peut être délivré en plusieurs exemplaires originaux lorsque la demande émane d'un groupement.

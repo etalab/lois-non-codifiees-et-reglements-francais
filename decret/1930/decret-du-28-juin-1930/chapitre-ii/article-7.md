@@ -1,17 +1,15 @@
 # Article 7
 
-Le régime d'exploitation normale, applicable aux bois et forêts ayant fait l'objet d'une mutation à droits réduits est le suivant :
+Le régime d'exploitation normale applicable pendant le délai nécessaire à la présentation de l'une des garanties de gestion durable prévues à l'article L. 8 du code forestier aux bois et forêts qui ont fait l'objet d'une exonération de droits de mutation ou d'impôt de solidarité sur la fortune est le suivant :
 
-Les propriétaires de ces bois ou forêts soumettent en principe à l'officier local des eaux et forêts les règlements d'exploitation résultant soit d'un usage constant, soit d'un aménagement régulier. Les propriétaires peuvent alors, sans autre formalité, procéder aux coupes prévues par ces règlements lorsque ceux-ci ont été approuvés.
+1° Sont soumises à autorisation de la direction départementale de l'agriculture et de la forêt toutes les coupes qui n'entrent pas dans les catégories définies par l'arrêté préfectoral prévu au huitième alinéa de l'article L. 130-1 du code de l'urbanisme, autres que celles réalisées pour la satisfaction directe de la consommation rurale et domestique du propriétaire ;
 
-Une autorisation spéciale est nécessaire pour effectuer les coupes non prévues.
+2° Sont dispensées de cette autorisation les coupes nécessitant une autre demande d'autorisation ou déclaration, lorsque celle-ci a été formulée au titre de l'une des réglementations suivantes :
 
-Les propriétaires dont les règlements d'exploitations n'obtiennent pas l'approbation de l'officier local des eaux et forêts et ceux qui s'abstiennent d'en présenter, sont soumis aux règles suivantes :
+-régime spécial d'autorisation administrative prévu à l'article L. 222-5 du code forestier ;
 
-1° Dans les forêts de 50 hectares d'un seul tenant et au-dessus toutes les coupes doivent faire l'objet d'une autorisation préalable de l'officier local des eaux et forêts ;
+-autorisation de coupe en application de l'article L. 10 du code forestier ;
 
-2° Dans les bois de 50 hectares d'un seul tenant, les coupes qui, par l'étendue et l'importance de leurs produits, s'écartent des usages locaux, sont seules soumises à l'autorisation préalable de l'officier local des eaux et forêts ; toutes les autres sont libres.
+-déclaration préalable de coupe en application de l'article L. 130-1 du code de l'urbanisme.
 
-Toute coupe rase devra être suivie, dans un délai maximum de cinq ans, de travaux de reboisement si la régénération naturelle fait défaut.
-
-Les propriétaires devront prendre des mesures pour éviter les abus de pâturages et les dégâts du gibier de nature à compromettre l'état boisé.
+Aucune autorisation n'est nécessaire pour procéder à l'enlèvement des chablis, bois morts et arbres dangereux.

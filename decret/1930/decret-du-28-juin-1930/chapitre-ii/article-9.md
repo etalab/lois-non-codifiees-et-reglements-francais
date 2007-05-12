@@ -1,7 +1,11 @@
 # Article 9
 
-Toute infraction au mode de jouissance fixé ci-dessus dont il résulterait soit le non reboisement d'une coupe à blanc étoc dans le délai imparti, soit pour les futaies un dépassement de 25 % ou plus de la possibilité fixée par le règlement d'exploitation, soit pour les taillis une réduction de 25 % ou plus du nombre d'une catégorie des réserves dont le maintien a été prévu, entraînera de plein droit la sanction de l'article 15 de la loi du 16 avril 1930.
+Tout manquement aux engagements prévus au b du 2° du 2, au b du 3° du 1 et au b du 7° du 2 de l'article 793 du code général des impôts, précisés à l'article 1er du présent décret, entraîne de plein droit la déchéance du régime de faveur dans les conditions prévues aux articles 1840 G et 1840 G ter du code général des impôts.
 
-Les infractions de moindre importance donneront lieu à un avertissement ; deux de ces infractions commises dans un laps de temps de dix années entraîneront de plein droit la sanction.
+Le manquement aux engagements prévus au b du 2° du 2 et au b du 3° du 1 de l'article 793 du code général des impôts est constaté par procès-verbal dans les conditions prévues aux articles L. 342-1 à L. 342-3 et aux articles R. 342-1 à R. 342-3 du code forestier.
 
-Les infractions seront constatées par procès-verbaux des officiers des eaux et forêts. Le procès-verbal sera notifié dans le mois de sa clôture. Le propriétaire aura un délai d'un mois à compter de la notification pour présenter ses explications.
+Le manquement aux engagements prévus au b du 7° du 2 de l'article 793 du code général des impôts est constaté par procès-verbal dressé par les agents mentionnés à l'article L. 342-1 du code forestier, aux articles L. 331-18, L. 331-20, L. 332-20 et L. 341-19 et R. 414-12-1 du code de l'environnement et par les agents mentionnés à l'article L. 480-1 du code de l'urbanisme.
+
+Le procès-verbal constatant le manquement est notifié dans le mois de sa clôture à la ou aux personnes ayant pris l'engagement, qui peuvent présenter leurs observations dans le délai de deux mois à compter de la notification.
+
+Si, à l'expiration de ce délai, le directeur départemental de l'agriculture et de la forêt estime le manquement bien caractérisé et de nature à justifier le recouvrement des droits complémentaires, prévus par les articles 1840 G et 1840 G ter du code général des impôts, il transmet le procès-verbal à la direction des services fiscaux où l'acte de donation, la déclaration de succession ou la déclaration d'impôt de solidarité sur la fortune a été déposé.
