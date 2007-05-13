@@ -10,7 +10,7 @@ A ce titre :
 
 - elle est chargée de la préparation et de l'exécution du budget, de l'organisation de la tenue de la comptabilité des recettes et des dépenses et du suivi de la gestion des crédits ; elle coordonne les procédures de répartition des ressources inscrites dans la loi de finances ;
 
-- elle exerce la tutelle administrative et financière des établissements publics et organismes relevant du budget des services de santé et de solidarité du ministère ;
+- elle fournit les moyens nécessaires au fonctionnement de la Cour nationale de la tarification sanitaire et sociale ;
 
 - elle concourt à l'amélioration de l'organisation et de la modernisation des services.
 
