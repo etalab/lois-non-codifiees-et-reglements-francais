@@ -208,7 +208,7 @@ Les conditions de prise en charge pour l'admission en hospitalisation à domicil
 <p>Il s'agit d'une prise en charge quotidienne au total supérieure à deux heures, à raison d'au moins deux passages par jour chez des malades très dépendants (Karnofsky ≤ 50 %).</p>
 </td>
 <td valign="top" width="235">
-<p>Les soins de nursing lourds peuvent être assurés par la structure d'HAD si elle est associée à au moins une autre prise en charge par l'HAD en EHPA.</p>
+<p>Les soins de nursing lourds peuvent être assurés par la structure d'HAD s'ils sont associés à au moins une autre prise en charge par l'HAD en EHPA.</p>
 </td>
 </tr>
 <tr>
