@@ -384,6 +384,7 @@
 - [Décret n°2006-1452 du 24 novembre 2006 (SANG0623874D)](decret-n2006-1452-du-24-novembre-2006-sang0623874d)
 - [Décret n°2006-1453 du 24 novembre 2006 (MCCA0600854D)](decret-n2006-1453-du-24-novembre-2006-mcca0600854d)
 - [Décret n°2006-1454 du 24 novembre 2006 (DEVP0640024D)](decret-n2006-1454-du-24-novembre-2006-devp0640024d)
+- [Décret n°2006-227 du 24 février 2006 (SANH0620210D)](decret-n2006-227-du-24-fevrier-2006-sanh0620210d)
 - [Décret n°2006-228 du 24 février 2006 (SANH0620214D)](decret-n2006-228-du-24-fevrier-2006-sanh0620214d)
 - [Décret n°2006-358 du 24 mars 2006 (JUSD0630025D)](decret-n2006-358-du-24-mars-2006-jusd0630025d)
 - [Décret n°2006-1304 du 25 octobre 2006 (EQUA0601772D)](decret-n2006-1304-du-25-octobre-2006-equa0601772d)
