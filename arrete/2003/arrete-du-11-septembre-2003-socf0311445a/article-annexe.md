@@ -4,7 +4,7 @@ INFORMATIONS REQUISES POUR L'INSCRIPTION AU RÉPERTOIRE NATIONAL DES CERTIFICATI
 
 Intitulé :
 
-Titre professionnel d'agent de montage et de câblage en électronique.
+Titre professionnel d'agent(e) de montage et de câblage en électronique.
 
 Niveau : V.
 
@@ -14,17 +14,17 @@ Résumé du référentiel d'emploi
 
 Le métier d'agent de montage et de câblage en électronique se situe dans la filière de la construction électronique professionnelle.
 
-L'agent de montage et de câblage en électronique réalise le montage et l'interconnexion des composants électroniques sur tout type de support (circuit imprimé, châssis intermédiaires) entrant dans un ensemble plus important. Ses réalisations sont destinées à des matériels industriels, aéronautiques, médicaux, télécommunications, automobiles, etc., construits à l'unité ou en petite série à partir de documents, schémas, plans, listings.
+L'agent(e) de montage et de câblage en électronique réalise le montage et l'interconnexion des composants électroniques sur tout type de supports (circuit imprimé, châssis intermédiaires) entrant dans un ensemble plus important. Ses réalisations sont destinées à des matériels industriels, aéronautiques, médicaux, télécommunications, automobiles, etc., construits à l'unité ou en petite série à partir de documents, schémas, plans, listings.
 
-Il peut aussi approvisionner, surveiller, régler, auto-contrôler les postes ou machines d'une ligne de fabrication électronique de grande série.
+Il (elle) peut aussi approvisionner, surveiller, régler, autocontrôler les postes ou machines d'une ligne de fabrication électronique de grande série.
 
-Cet ouvrier qualifié peut travailler dans l'une ou l'autre des branches de l'industrie électronique : électronique grand public, électronique professionnelle, électronique militaire.
+Cet(te) ouvrier(ère) qualifié(e) peut travailler dans l'une ou l'autre des branches de l'industrie électronique : électronique grand public, électronique professionnelle, électronique militaire.
 
-Il peut indifféremment travailler dans une petite ou une grande entreprise. Avec le développement de la sous-traitance, il exerce souvent dans des PME sous-traitantes des grosses entreprises. Il travaillera principalement en station assise dans des ateliers de fabrication. La station debout peut être requise pour monter ou câbler de gros équipements.
+Il (elle) peut indifféremment travailler dans une petite ou une grande entreprise. Avec le développement de la sous-traitance, il (elle) exerce souvent dans des PME sous-traitantes des grosses entreprises. Il (elle) travaillera principalement en station assise dans des ateliers de fabrication. La station debout peut être requise pour monter ou câbler de gros équipements.
 
-L'agent de montage et de câblage en électronique est responsable de son travail, du bon montage des composants, de l'interconnexion des ensembles et sous-ensembles. La réalisation peut se faire en auto-contrôle, suivant une procédure définie dans un cahier des charges. Le travail est exécuté à partir des documents de fabrication comportant les plans de montage, les schémas, les listings de raccordement, les données de réglage et les spécifications.
+L'agent(e) de montage et de câblage en électronique est responsable de son travail, du bon montage des composants, de l'interconnexion des ensembles et sous-ensembles. La réalisation peut se faire en autocontrôle, suivant une procédure définie dans un cahier des charges. Le travail est exécuté à partir des documents de fabrication comportant les plans de montage, les schémas, les listings de raccordement, les données de réglage et les spécifications.
 
-Capacités attestées et descriptif des composantes de la certification
+Capacités attestées et descriptif des composants de la certification
 
 1. Equiper des cartes électroniques imprimées
 
@@ -44,7 +44,7 @@ Retoucher et/ou braser des composants électroniques de reprise.
 
 Préparer les fils et câbles en vue de réaliser des interconnexions d'ensembles et/ou de sous-ensembles électroniques.
 
-Réaliser le cheminement de fils et câbles sous forme de torons.
+Réaliser le cheminement de fils et câbles sous formes de torons.
 
 Raccorder les connecteurs et les composants de câblage d'ensembles électroniques.
 
@@ -58,19 +58,33 @@ Contrôler en fonction d'une norme client la conformité d'un produit (cartes, c
 
 Régler et tester fonctionnellement avec des procédures simples un sous-ensemble et/ou un ensemble électronique.
 
+Certificat complémentaire de spécialisation (CCS)
+
+Câbler et interconnecter des ensembles et/ou sous-ensembles électroniques à destination des industries aéronautiques ou militaire
+
+Réaliser un toron de type aéronautique/militaire.
+
+Réaliser l'intégration et les interconnexions d'un ensemble et/ou sous-ensemble électronique de type aéronautique/militaire.
+
+Préparer les fils et câbles en vue de réaliser des interconnexions d'ensembles et/ou de sous-ensembles électroniques.
+
+Réaliser le cheminement de fils et câbles sous forme de torons.
+
+Raccorder les connecteurs et les composants de câblage d'ensembles électroniques.
+
 Secteurs d'activités ou types d'emploi accessibles par le détenteur du titre
 
-Entreprise de construction électronique grand public, professionnelle à destination de l'industrie, de l'aéronautique ou d'applications militaires ou médicales.
+Entreprises de construction électronique grand public ou professionnelle à destination de l'industrie, de l'aéronautique ou d'applications militaires ou médicales.
 
-Sous-traitants des entreprises citées plus haut.
+Codes ROME :
 
-Code(s) ROME :
+44211 - Opérateur/opératrice sur machines automatiques en production électrique et électronique.
 
-44211 - Opérateur sur machines automatiques en production électrique et électronique.
+44213 - Interconnecteur/interconnectrice en électronique.
 
-44213 - Inter-connecteur en électronique.
+44221 - Contrôleur/contrôleuse en électricité et électronique.
 
-44221 - Contrôleur en électricité et électronique.
+44212 - Interconnecteur/interconnectrice en matériel électrique et électromécanique.
 
 Réglementation de l'activité :
 
@@ -82,8 +96,6 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
+Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
 
-Décret n° 2002-1029 du 2 août 2002 ;
-
-Arrêté du 25 novembre 2002.
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.

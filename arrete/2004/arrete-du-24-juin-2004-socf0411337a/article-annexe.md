@@ -1,44 +1,52 @@
 # Article Annexe
 
-A N N E X E
+INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL
 
-INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
+AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
 Intitulé :
 
-Titre professionnel : technicien(ne) administratif(ve) sanitaire et social(e).
+Titre professionnel : technicien(ne) administratif(ve) sanitaire et social(e)
 
-Niveau : IV.
+Niveau : IV
 
-Code NSF : 314 t.
+Code NSF : 314 t comptabilité gestion.
 
 Résumé du référentiel d'emploi
 
-Le (la) technicien(ne) administratif(ve) sanitaire et social(e) intervient dans les domaines de l'accueil et l'admission des usagers, de la gestion administrative des ressources humaines, de la gestion comptable et financière des structures sanitaires, sociales ou médico-sociales.
+Le (la) technicien(ne) administratif(ve) sanitaire et social(e) exerce des activités de gestion et de suivi administratif au sein des structures sanitaires et sociales.
 
-Dans un centre hospitalier public ou privé, il (elle) est chargé(e) de l'accueil des patients, de la création et du suivi des dossiers d'admission. Dans le secteur social et médico-social, il (elle) accueille les usagers, élabore les dossiers de prise en charge pour les diverses prestations et assure le soutien des dossiers en commission d'admission, puis leur suivi.
+Il (elle) assure les travaux relatifs à la gestion comptable courante, à la paie, à la gestion administrative des ressources humaines, à la gestion des dossiers d'usagers et des dossiers administratifs.
 
-Le (la) technicien(ne) administratif(ve) sanitaire et social(e) traite les opérations comptables courantes, en utilisant soit le plan comptable commercial (établissements sanitaires ou sociaux privés), soit le plan comptable hospitalier (établissements hospitaliers et assimilés).
+Il (elle) est notamment amené(e) à produire des états comptables courants, à suivre la trésorerie au quotidien, à traiter la paie et à actualiser les dossiers des salariés, à créer et actualiser les dossiers des usagers, à traiter des données en lien avec la gestion des prises en charge sanitaires et sociales, à participer à l'élaboration des travaux comptables de fin d'exercice et des budgets prévisionnels.
 
-Dans les grandes structures, cet emploi est exercé dans un service spécialisé (ressources humaines, admission des patients,...), par contre le (la) technicien(ne) administratif(ve) sanitaire et social(e) doit faire preuve de polyvalence dans les établissements de petite ou moyenne dimension.
+Il (elle) participe à la préparation et au suivi des marchés publics. Dans de grandes unités comme les établissements hospitaliers, le (la) technicien(ne) administratif(ve) sanitaire et social(e) exerce sa fonction sous la responsabilité d'un cadre intermédiaire dans un service spécialisé (admissions, personnel, économique et comptable).
+
+Dans de petites unités comme les établissements pour personnes âgées ou établissements spécialisés pour personnes handicapées, le (la) technicien(ne) administratif(ve) sanitaire et sociale exerce sa fonction sous la responsabilité du directeur de l'établissement.
 
 Capacités attestées et descriptif
 
 des composantes de la certification
 
-1. Assurer le suivi administratif du personnel
+1. Assurer les travaux courants de comptabilité
 
-et élaborer la paie dans les structures sanitaires et sociales
+Identifier, vérifier, comptabiliser les documents commerciaux pour produire des états comptables.
 
-Suivre administrativement le recrutement du personnel sanitaire et social.
+Etablir et comptabiliser les déclarations de TVA.
 
-Organiser le suivi administratif du personnel sanitaire et social.
+Comptabiliser les documents bancaires et suivre la trésorerie au quotidien.
 
-Etablir des bulletins de salaire et les déclarations sociales périodiques et annuelles.
+Justifier le solde des comptes et rectifier les anomalies.
 
-2. Accueillir les usagers et gérer
+2. Etablir la paie et les déclarations sociales courantes
 
-les prises en charge sanitaires et sociales
+Réaliser des paies après la collecte des informations sociales et des données variables.
+
+Etablir les déclarations sociales périodiques.
+
+3. Instruire des dossiers administratifs comptables
+
+et budgétaires du secteur sanitaire et social
 
 Accueillir et renseigner le public sur ses droits sociaux et sur les prestations sanitaires et sociales.
 
@@ -46,27 +54,27 @@ Elaborer et suivre un dossier de prise en charge sanitaire et sociale.
 
 Traiter et présenter les données d'aide à la gestion sanitaire et sociale.
 
-3. Assurer la gestion comptable et participer à la préparation et au suivi des marchés publics dans les structures sanitaires et sociales
+Préparer et comptabiliser les opérations de fin d'exercice conformément à la réglementation du secteur sanitaire et social.
 
-Enregistrer les opérations comptables courantes.
+Préparer les éléments pour l'élaboration et le suivi du budget conformément à la réglementation du secteur sanitaire et social.
 
-Participer à la préparation des appels d'offre et au suivi de la réalisation des marchés publics.
+Participer à la préparation et au suivi de la réalisation des marché publics.
 
-Préparer et comptabiliser les opérations de fin d'exercice.
+Secteurs d'activités ou types d'emploi accessibles
 
-Préparer et suivre le budget annuel d'une structure sanitaire et sociale.
+par le détenteur du titre
 
-Secteurs d'activités ou types d'emploi
+Cet emploi s'exerce dans :
 
-accessibles par le détenteur du titre
+- les établissements hospitaliers (publics ou privés) au service des admissions et d'accueil ou au service des ressources humaines ou aux services économiques et comptables ;
 
-Secteur sanitaire, social ou médico-social.
+- les maisons de retraite, les centres communaux d'action sociale, les établissements hébergeant des personnes âgées dépendantes, les instituts d'éducation motrice.
 
 Codes ROME :
 
 12141 - Technicien(ne) des services administratifs.
 
-12163 - Technicien(ne) administratif(ve) des services au public.
+12163 - Technicien(ne) administratif(ve) des services publics.
 
 Réglementation de l'activité :
 
@@ -78,8 +86,6 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
+Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
 
-Décret n° 2002-1029 du 2 août 2002 ;
-
-Arrêté du 25 novembre 2002.
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.

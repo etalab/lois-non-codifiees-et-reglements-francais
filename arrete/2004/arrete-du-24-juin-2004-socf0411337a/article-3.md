@@ -1,11 +1,11 @@
 # Article 3
 
-Le titre professionnel de technicien(ne) administratif(ve) sanitaire et social(e) est composé de trois unités constitutives dont la liste suit :
+Le titre professionnel de technicien (ne) administratif (ve) sanitaire et social (e) est composé des trois unités constitutives dont la liste suit :
 
-1. Assurer le suivi administratif du personnel et élaborer la paie dans les structures sanitaires et sociales ;
+1. Assurer les travaux courants de comptabilité ;
 
-2. Accueillir les usagers et gérer les prises en charge sanitaires et sociales ;
+2. Etablir la paie et les déclarations sociales courantes ;
 
-3. Assurer la gestion comptable dans les structures sanitaires et sociales et participer à la préparation et au suivi des marchés publics.
+3. Instruire des dossiers administratifs, comptables et budgétaires du secteur sanitaire et social.
 
-Elles peuvent être sanctionnées par des certificats de compétences professionnelles (CCP) dans les conditions prévues par l'arrêté du 25 novembre 2002 susvisé.
+Elles peuvent être sanctionnées par des certificats de compétences professionnelles (CCP) dans les conditions prévues par l'arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.
