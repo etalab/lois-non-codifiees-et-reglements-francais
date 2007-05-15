@@ -1,19 +1,21 @@
 # Article 5
 
-Le Conseil supérieur de la recherche et de la technologie comprend quarante membres nommés par arrêté du ministre chargé de la recherche et dont le mandat est de trois ans renouvelable une fois :
+Le Conseil supérieur de la recherche et de la technologie comprend quarante-quatre membres nommés par arrêté du ministre chargé de la recherche et dont le mandat est de trois ans renouvelable une fois :
 
-1° Vingt membres représentatifs des communautés scientifiques et techniques et des différents secteurs de la recherche.
+1° Vingt-deux membres représentatifs des communautés scientifiques et techniques et des différents secteurs de la recherche :
 
-a) Dix membres choisis pour quatre d'entre eux sur proposition des sections du comité national de la recherche scientifique, pour quatre d'entre eux sur proposition des conseils scientifiques des établissements de recherche et de développement technologique et pour deux d'entre eux d'une instance nationale d'évaluation de la recherche universitaire désignée par le ministre de l'éducation nationale ;
+a) Dix membres choisis sur proposition, pour trois d'entre eux des sections du Comité national de la recherche scientifique, pour trois d'entre eux des conseils scientifiques des établissements publics de recherche et pour quatre d'entre eux de l'Agence d'évaluation de la recherche et de l'enseignement supérieur ;
 
-b) Dix personnalités choisies en fonction de leurs compétences dans le domaine des sciences, de la technologie et de l'innovation, dont deux en qualité de membres des sociétés savantes.
+b) Dix personnalités choisies en fonction de leurs compétences dans le domaine des sciences, de la technologie et de l'innovation, dont deux en qualité de membres des sociétés savantes ;
 
-2° Vingt membres choisis parmi les personnalités représentatives du monde du travail, des secteurs productifs, sociaux et culturels et des régions.
+c) Deux membres nommés sur proposition du Haut Conseil de la science et de la technologie ;
 
-a) Dix membres nommés sur proposition des organisations syndicales nationales représentatives des salariés et des employeurs.
+2° Vingt-deux membres choisis parmi les personnalités représentatives du monde du travail, des secteurs productifs, sociaux et culturels et des régions :
 
-b) Dix membres représentant le monde économique, social et culturel dont cinq personnalités choisies en qualité de membres de comités consultatifs régionaux de la recherche et de la technologie dans des conditions fixées par arrêté du ministre chargé de la recherche.
+a) Dix membres nommés sur proposition des organisations syndicales représentatives des salariés et employeurs ;
 
-Les membres décédés, démissionnaires ou qui n'exercent plus les fonctions au titre desquelles ils avaient été désignés ou élus doivent être remplacés. Dans ce cas, le mandat des nouveaux membres expire à la date à laquelle aurait normalement pris fin celui de leur prédécesseur.
+b) Douze membres représentant le monde économique, social et culturel dont cinq choisis parmi les membres des comités consultatifs régionaux de la recherche et de la technologie ou parmi les personnalités exerçant des responsabilités en matière de politique régionale de recherche et d'innovation.
 
-Les membres du conseil élisent un vice-président parmi les membres désignés au titre du 1er du présent article.
+Les membres décédés, démissionnaires ou qui n'exercent plus les fonctions au titre desquelles ils avaient été désignés doivent être remplacés. Dans ce cas, le mandat des nouveaux membres expire à la date à laquelle aurait normalement pris fin celui de leur prédécesseur.
+
+Les membres du conseil élisent un vice-président parmi les membres désignés au titre du 1° du présent article.

@@ -1,13 +1,13 @@
 # Article 3
 
-Le conseil peut également être consulté par le ministre chargé de la recherche ;
+Le conseil peut être consulté par le ministre chargé de la recherche sur :
 
-Sur les projets de réformes concernant l'organisation de la recherche et les statuts des établissements de recherche et de développement technologique ;
+1° Les projets de réformes concernant l'organisation de la recherche ;
 
-Sur les projets de réformes relatives à l'emploi scientifique ;
+2° Les statuts des établissements et organismes publics placés sous la tutelle du ministre chargé de la recherche et ceux des fondations de recherche ;
 
-Sur la mise à jour annuelle de la programmation des grands équipements scientifiques ;
+3° Les projets de réformes relatives à l'emploi scientifique ;
 
-Sur la stratégie d'utilisation des fonds d'intervention relevant du ministre chargé de la recherche,
+4° La mise à jour annuelle de la programmation des grands équipements scientifiques ;
 
-et sur toutes autres questions que le ministre chargé de la recherche juge utile de lui soumettre.
+5° La stratégie d'utilisation des crédits d'intervention alloués par l'Agence nationale de la recherche et sur toutes autres questions que le ministre chargé de la recherche juge utile de lui soumettre.
