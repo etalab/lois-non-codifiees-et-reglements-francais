@@ -1,0 +1,3 @@
+# Article 10
+
+Une unité d'expérimentation d'un organisme candidat à l'agrément, ou pour laquelle un organisme agréé a demandé une extension d'agrément, peut engager des essais, en vue de leur reconnaissance officielle, préalablement à la décision d'agrément, sous réserve des déclarations prévues à l'article 9 du présent arrêté et d'une demande d'évaluation faite auprès de l'organisme d'accréditation mentionné à l'article 5. La reconnaissance officielle de ces essais n'interviendra, le cas échéant, qu'à l'issue de la décision d'agrément du ministre chargé de l'agriculture sur le secteur d'activité ou le secteur spécifique concerné.

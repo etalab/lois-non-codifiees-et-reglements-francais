@@ -778,47 +778,39 @@ Code de l'aviation civile
 
 1
 
-Autorisation spéciale et temporaire accordée aux aéronefs étrangers pour circuler au-dessus du territoire français.
+Autorisation spéciale et temporaire accordée aux aéronefs étrangers pour circuler au-dessus du territoire français, sauf lorsqu'elle porte sur l'utilisation d'aéronefs pour du travail aérien.
 
-Article L. 131-1.
+Article R. 131-6.
 
 2
 
-Amendes administratives à l'encontre du responsable du vol, propriétaire, exploitant ou exploitant commercial de l'aéronef.
+Sanctions administratives prises après avis de la commission administrative de l'aviation civile.
 
-Articles R. 226-1, R. 226-3 et R. 226-4.
+Articles R. 160-1, R. 330-20 et R. 330-22.
 
 3
 
-Octroi, renouvellement ou retrait de la licence d'exploitation de transporteur aérien sauf pour les entreprises qui n'exploitent que des appareils de moins de 10 tonnes et/ou de moins de 20 sièges lorsque leur chiffre d'affaires est inférieur à 3 millions d'écus et qu'elles n'exploitent pas de services réguliers.
+Délivrance, transformation en licence temporaire, suspension et retrait de la licence d'exploitation de transporteur aérien, sauf pour les entreprises exploitant exclusivement des aéronefs d'une masse maximale au décollage inférieure à 10 tonnes ou d'une capacité de moins de 20 sièges et n'exploitant pas de services réguliers internationaux.
 
-Règlement CEE n° 2407/92 du 23 juillet 1992.
-
-Article L. 330-1.
+Article R. 330-1.
 
 4
 
-Approbation préalable des programmes d'exploitation des services aériens au départ, à destination ou à l'intérieur du territoire national.
+Approbation préalable des programmes d'exploitation des services aériens au départ, à destination ou à l'intérieur du territoire national, sauf pour les transporteurs aériens français exploitant exclusivement des aéronefs d'une masse maximale au décollage inférieure à 10 tonnes ou d'une capacité de moins de 20 sièges et n'exploitant pas de services réguliers internationaux.
 
-Article L. 330-2.
-
-5
-
-Dépôt ou homologation des tarifs de passagers.
-
-Article L. 330-8.
+Article R. 330-8.
 
 6
 
-Autorisation (pour les transporteurs aériens établis en France) d'exploiter un aéronef immatriculé à l'étranger ou d'affréter un aéronef d'un autre transporteur aérien sauf pour les entreprises qui n'exploitent que des appareils de moins de 10 tonnes et/ou de moins de 20 sièges lorsque leur chiffre d'affaires est inférieur à 3 millions d'écus et qu'elles n'exploitent pas de services réguliers.
+Autorisation, pour les transporteurs titulaires d'une licence d'exploitation délivrée par la France, d'exploiter un aéronef immatriculé à l'étranger ou des services aériens au départ, à destination ou à l'intérieur du territoire national, dans le cadre d'accords commerciaux aux termes desquels le transporteur contractuel n'est pas le transporteur de fait, sauf pour les entreprises exploitant exclusivement des aéronefs d'une masse maximale au décollage inférieure à 10 tonnes ou d'une capacité de moins de 20 sièges et n'exploitant pas de services réguliers internationaux.
 
-Règlement CEE n° 2407/92 du 23 juillet 1992 concernant les licences des transporteurs aériens.
+Articles R. 330-4 et R. 330-9.
 
 7
 
-Octroi, renouvellement ou retrait de l'autorisation d'exploiter certains services aériens intérieurs ou internationaux (extracommunautaires) pour les transporteurs établis en France, sauf pour les entreprises qui n'exploitent que des appareils de moins de 10 tonnes et/ou de moins de 20 sièges lorsque leur chiffre d'affaires est inférieur à 3 millions d'écus et qu'elles n'exploitent pas de services réguliers.
+Octroi, renouvellement ou retrait de l'autorisation d'exploiter certains services intérieurs ou internationaux (extracommunautaires) pour les transporteurs établis en France, sauf pour les entreprises exploitant exclusivement des aéronefs d'une masse maximale au décollage inférieure à 10 tonnes ou d'une capacité de moins de 20 sièges et n'exploitant pas de services réguliers internationaux.
 
-Article L. 330-2.
+Article R. 330-6.
 
 8
 
@@ -908,6 +900,14 @@ Autorisation d'un régime répartissant le temps de vol et d'arrêt du personnel
 
 Article R. 423-88
 
+22
+
+Nomination d'un coordonnateur pour l'attribution des créneaux horaires sur un aéroport coordonné ou d'un facilitateur d'horaires sur un aéroport à facilitation d'horaires.
+
+Nomination du comité de coordination.
+
+Article R. 221-12.
+
 24
 
 Sanction pécuniaire prononcée à l'encontre de l'exploitant de l'aérodrome.
@@ -916,9 +916,15 @@ Article R. 224-4-3
 
 25
 
-Délivrance des titres de circulation prévus au V de l'article R. 213-4 du code de l'aviation civile.
+Délivrance de la licence de maintenance d'aéronefs.
 
-Article R. 213-6 (II)
+Article R. 133-17.
+
+26
+
+Délivrance de la qualification permettant l'exercice des fonctions assurant le service d'information de vol et d'alerte.
+
+Article R. 133-18.
 
 Article 8.
 

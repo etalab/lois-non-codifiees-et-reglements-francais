@@ -1,0 +1,3 @@
+# Article 18
+
+La cession de l'exploitation à un tiers pendant la période des engagements se traduit par le remboursement des aides selon les modalités définies à l'article 19. En cas d'évolution de la forme juridique de l'exploitation, l'aide initiale est transférée à la nouvelle forme juridique sans procéder à un nouveau calcul de cette aide et sous réserve de la continuité du respect des engagements. Les modifications statutaires d'un groupement agricole d'exploitation en commun (GAEC) conduisant à la diminution du nombre d'exploitations regroupées ont pour conséquence le recalcul de l'aide.

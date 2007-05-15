@@ -1,6 +1,6 @@
 # Article 25
 
-Le diplôme professionnel d'aide-soignant est délivré, par le préfet de la région dans laquelle la scolarité a été accomplie, sur leur demande, aux étudiants infirmiers qui ont interrompu leurs études après avoir été admis en deuxième année ou à ceux qui ont échoué au diplôme d'Etat.
+Le diplôme professionnel d'aide-soignant est délivré, par le préfet de la région dans laquelle la scolarité a été accomplie, sur leur demande, aux étudiants infirmiers titulaires de l'attestation de formation aux gestes et soins d'urgence de niveau 2 en cours de validité, qui ont interrompu leurs études après avoir été admis en deuxième année ou à ceux qui ont échoué au diplôme d'Etat.
 
 Le diplôme professionnel d'aide-soignant est également délivré, dans les mêmes conditions, aux élèves infirmiers de secteur psychiatrique qui ont réussi l'examen de passage en deuxième année prévu par l'arrêté du 16 février 1973 modifié relatif à la formation professionnelle du personnel soignant du secteur psychiatrique.
 

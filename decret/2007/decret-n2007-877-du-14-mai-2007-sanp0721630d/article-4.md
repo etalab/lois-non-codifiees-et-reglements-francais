@@ -1,0 +1,3 @@
+# Article 4
+
+Les articles D. 3411-1 à D. 3411-10 du code de la santé publique, l'article D. 312-153 du code de l'action sociale et des familles et les articles D. 385 et D. 390-1 du code de procédure pénale dans leur rédaction antérieure à la publication du présent décret restent applicables aux centres spécialisés de soins aux toxicomanes et centres de cure ambulatoire en alcoologie bénéficiant à la date du 1er janvier 2007 de l'autorisation prévue à l'article L. 313-1 du code de l'action sociale et des familles jusqu'à leur autorisation en tant que centres de soins, d'accompagnement et de prévention en addictologie.
