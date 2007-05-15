@@ -1,3 +1,3 @@
 # Article 6
 
-Lorsque la convention régie par les dispositions du titre II prévoit que la ligue professionnelle exerce par délégation de la fédération un pouvoir disciplinaire en première instance, les règles de fonctionnement de l'organe disciplinaire de la ligue doivent être conformes aux dispositions prévues à l'annexe II du décret n° 2002-648 du 29 avril 2002 susvisé.
+Lorsque la convention régie par les dispositions du titre II prévoit que la ligue professionnelle exerce par délégation de la fédération un pouvoir disciplinaire en première instance, les règles de fonctionnement de l'organe disciplinaire de la ligue doivent être conformes aux dispositions prévues à l'annexe II du décret n° 2004-22 du 7 janvier 2004 pris pour l'application de l'article 16 de la loi n° 84-610 du 16 juillet 1984 et relatif à l'agrément des fédérations sportives, aux dispositions obligatoires des statuts des fédérations sportives agréées et à leur règlement disciplinaire type.

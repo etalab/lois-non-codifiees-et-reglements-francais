@@ -2,7 +2,7 @@
 
 L'assemblée générale de la ligue professionnelle se compose des représentants des personnes morales qui sont membres de celle-ci.
 
-Peuvent également participer à l'assemblée générale, dans les conditions prévues par les statuts, des personnalités qualifiées, des représentants de la fédération ainsi que des représentants des joueurs, des entraîneurs, des arbitres, des médecins et des personnels administratifs de la ligue et de ses membres.
+Peuvent également participer à l'assemblée générale, dans les conditions prévues par les statuts, des personnalités qualifiées, des représentants de la fédération ainsi que des représentants des sportifs, des entraîneurs, des arbitres et juges, des médecins et des personnels administratifs de la ligue et de ses membres.
 
 L'assemblée générale se réunit au moins une fois par an.
 
