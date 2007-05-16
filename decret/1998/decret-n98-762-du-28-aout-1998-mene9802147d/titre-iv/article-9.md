@@ -2,10 +2,12 @@
 
 Le montant de la bourse est fixé forfaitairement selon trois taux déterminés en pourcentage de la base mensuelle des allocations familiales, arrondis, pour chaque paiement dû au titre d'un trimestre, au multiple entier de trois le plus proche.
 
-La base retenue pour l'année scolaire 1998-1999 est la suivante :
+Les taux retenus à compter de l'année scolaire 2007-2008 sont les suivants :
 
-Premier taux : 16,40 % de la base mensuelle de calcul des allocations familiales lorsque les ressources de la famille ou du responsable légal pour l'année 1996 sont au plus égales à un plafond de référence de 36 333 F majoré, compte tenu du nombre d'enfants à charge, en application de l'article 8 ;
+Premier taux : 20,48 % de la base mensuelle de calcul des allocations familiales lorsque les ressources de la famille ou du représentant légal pour l'année 2005 sont au plus égales à un plafond de référence de 7 690 Euros majoré, compte tenu du nombre d'enfants à charge, en application de l'article 8 ;
 
-Deuxième taux : 52,57 % de la base mensuelle de calcul des allocations familiales lorsque les ressources de la famille ou du responsable légal pour l'année 1996 sont au plus égales à un plafond de référence de 19 648 F majoré, compte tenu du nombre d'enfants à charge, en application de l'article 8 ;
+Deuxième taux : 56,73 % de la base mensuelle de calcul des allocations familiales lorsque les ressources de la famille ou du représentant légal pour l'année 2005 sont au plus égales à un plafond de référence de 4 157 Euros majoré, compte tenu du nombre d'enfants à charge, en application de l'article 8 ;
 
-Troisième taux : 84,44 % de la base mensuelle de calcul des allocations familiales lorsque les ressources de la famille ou du responsable légal pour l'année 1996 sont au plus égales à un plafond de référence de 6 923 F majoré, compte tenu du nombre d'enfants à charge, en application de l'article 8.
+Troisième taux : 88,60 % de la base mensuelle de calcul des allocations familiales lorsque les ressources de la famille ou du représentant légal pour l'année 2005 sont au plus égales à un plafond de référence de 1 466 Euros majoré, compte tenu du nombre d'enfants à charge, en application de l'article 8.
+
+Les montants des plafonds de référence mentionnés aux alinéas précédents sont fixés pour l'année scolaire 2007-2008 et sont revalorisés chaque année conformément à l'article 8 du présent décret.
