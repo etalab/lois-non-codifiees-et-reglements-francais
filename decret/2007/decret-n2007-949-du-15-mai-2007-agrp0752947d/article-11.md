@@ -1,0 +1,3 @@
+# Article 11
+
+Pour permettre le contrôle de la qualité et de l'origine des fromages, les entreprises de transformation et d'affinage et les producteurs fermiers, et d'une manière générale toute entreprise intervenant dans les conditions de production, tiennent une comptabilité matière détaillée des laits, des fromages et des plaques d'identification et effectuent des inventaires réguliers. En outre, ces différentes entreprises doivent communiquer trimestriellement à l'organisme agréé les éléments statistiques mensuels se rapportant à leur activité (nombre de meules et quantités produites, nombre de meules en cours d'affinage, stockées, vendues, et déclassées).

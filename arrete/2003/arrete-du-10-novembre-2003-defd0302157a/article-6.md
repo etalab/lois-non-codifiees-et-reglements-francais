@@ -16,14 +16,6 @@ La sous-direction du soutien du personnel est chargée :
 
 - d'assurer, à l'exception des congés annuels, des congés de formation professionnelle et des congés de formation syndicale, la gestion des congés du personnel civil de l'administration centrale prévus par le statut général des fonctionnaires de l'Etat ;
 
-- de mettre en oeuvre les actions de formation professionnelle pour le personnel civil de l'administration centrale ;
-
-- d'assurer la gestion des restaurants :
-
-- de la maison du ministre ;
-
-- de la maison du secrétaire d'Etat aux anciens combattants ;
-
-- de la maison du ministre délégué aux anciens combattants ;
+- d'assurer la gestion directe ou la surveillance administrative, technique et financière des cercles et restaurants relevant du secrétaire général pour l'administration et de ceux dont il assure le soutien et, notamment, d'assurer ou de faire assurer le soutien nécessaire au bon fonctionnement de ces établissements, d'apporter son expertise dans tout projet de modification structurelle et de conseiller les responsables des organismes de restauration pour l'exercice de leur mission ;
 
 - d'assurer la surveillance administrative des cercles et restaurants autonomes de l'administration centrale relevant du secrétariat général pour l'administration.

@@ -1,0 +1,3 @@
+# Article 6
+
+Les fonctionnaires appartenant à un corps ou à un cadre d'emplois de catégorie C ou de même niveau sont classés, lors de leur nomination dans l'un des corps régis par le présent décret, en appliquant les dispositions de l'article 5 à la situation qui serait la leur si, préalablement à leur nomination dans un corps de catégorie A, ils avaient été nommés et classés, en application des 1° à 4° de l'article 2 du décret du 11 mai 2007 susvisé qui leur sont applicables, dans le corps des adjoints des cadres hospitaliers régi par la section II du titre Ier du décret du 21 septembre 1990 susvisé.

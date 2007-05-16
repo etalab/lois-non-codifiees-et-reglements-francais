@@ -1,0 +1,3 @@
+# Article 10
+
+Dans le cas où le budget du comité n'est pas voté à l'ouverture de l'exercice, afin de garantir la continuité de ses missions, les dépenses relatives au fonctionnement courant et à ses engagements d'intervention sont effectuées jusqu'à ce vote, après accord du contrôleur, sur la base des comptes et du budget de l'exercice précédent, déduction faite des dépenses non renouvelables. Toutefois, en cas de nécessité, il peut être tenu compte, pour la détermination des limites de dépenses, de l'incidence des engagements pris et des mesures acquises précédemment et régulièrement approuvés.

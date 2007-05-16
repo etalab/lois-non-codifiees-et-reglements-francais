@@ -1,0 +1,3 @@
+# Article 19
+
+Les fonctionnaires titulaires du grade d'agent technique territorial des établissements d'enseignement appartenant au cadre d'emplois régi par le décret n° 2005-1483 du 30 novembre 2005, intégrés, en application de l'article 17, dans le grade d'adjoint technique territorial de 2e classe des établissements d'enseignement sont reclassés dans le grade d'adjoint technique territorial de 1re classe des établissements d'enseignement à identité d'échelon et conservation de leur ancienneté dans cet échelon. Ce reclassement est opéré en trois tranches annuelles, après avis de la commission administrative paritaire compétente, à partir du 1er janvier 2007, la dernière tranche devant se terminer au plus tard d'ici au 31 décembre 2009.

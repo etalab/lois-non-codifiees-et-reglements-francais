@@ -660,6 +660,56 @@ Décision prise sur recours administratif préalable.
 
 Article 28
 
+Décret n° 2007-937 du 15 mai 2007 relatif à la sûreté des navires :
+
+1
+
+Approbation du plan de sûreté.
+
+Article 2
+
+2
+
+Délivrance et renouvellement du certificat international de sûreté.
+
+Article 4
+
+3
+
+Délivrance et renouvellement du certificat international de sûreté provisoire.
+
+Article 5
+
+4
+
+Délivrance et renouvellement du certificat d'exemption.
+
+Article 6
+
+5
+
+Approbation des modifications du plan de sûreté approuvé.
+
+Article 7
+
+6
+
+Retrait du certificat international de sûreté.
+
+Article 8
+
+7
+
+Retrait de l'approbation du plan de sûreté.
+
+Article 9
+
+8
+
+Recours contre les décisions de retrait du certificat international de sûreté.
+
+Article 10
+
 Mesures prises par le ministre chargé de la mer
 
 Décret n° 84-810 du 30 août 1984 modifié relatif à la sauvegarde de la vie humaine, à l'habitabilité à bord des navires et à la prévention de la pollution
@@ -773,6 +823,24 @@ Délivrance, suspension et retrait de l'agrément national délivré à des orga
 Articles R.* 412-1 et R.* 412-7.
 
 Mesures prises par le ministre chargé de l'aviation civile
+
+4
+
+Délivrance, suspension et retrait de l'agrément pour effectuer les fonctions de maître d'oeuvre prévues à l'article R. 342-5
+
+R. 342-5
+
+5
+
+Délivrance, suspension et retrait de l'agrément pour effectuer les vérifications prévues à l'article R. 342-13
+
+R. 342-15
+
+6
+
+Suspension ou arrêt d'installations défectueuses situées dans plusieurs départements
+
+R. 342-18
 
 Code de l'aviation civile
 

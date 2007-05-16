@@ -1,18 +1,18 @@
-# Article Annexe  K
+# Article Annexe K'
 
-DIPLÔME D'ÉTUDES SPÉCIALISÉES D'ONCOLOGIE - DURÉE : CINQ ANS
+DIPLÔME D'ÉTUDES SPÉCIALISÉES D'ONCOLOGIE - Durée : cinq ans
 
-(Pour les internes nommés avant le 1er novembre 2007)
+Pour les internes nommés après le 1er novembre 2007
 
 Le diplôme d'études spécialisées d'oncologie comporte trois options :
 
-- oncologie médicale ;
+a) Oncologie médicale ;
 
-- oncologie radiothérapique ;
+b) Oncologie radiothérapique ;
 
-- onco-hématologie.
+c) Onco-hématologie.
 
-**I - Enseignements (trois cents heures environ)**
+**I - Enseignements** (trois cents heures environ)
 
 **A) Enseignements généraux**
 
@@ -44,11 +44,11 @@ Le diplôme d'études spécialisées d'oncologie comporte trois options :
 
 - Aspects psychologiques et sociaux.
 
-**C) Enseignements spécifiques**
+**C) Enseignements spécifiques :**
 
 a) de l'option oncologie médicale
 
-- Facteurs de croissance, cytokines et anticorps monoclonaux, immunophénotypage ;
+Facteurs de croissance, cytokines et anticorps monoclonaux, immunophénotypage ;
 
 - Approfondissement de l'étude des tumeurs solides mentionnées au paragraphe précédent (enseignements de base communs aux trois options) ;
 
@@ -60,9 +60,9 @@ a) de l'option oncologie médicale
 
 - Autogreffes ;
 
-- Innovations thérapeutiques.
+_- Innovations thérapeutiques._
 
-b) de l'option oncologie radiothérapique
+_b) de l'option oncologie radiothérapique_
 
 - Notions physiques de base ;
 
@@ -80,7 +80,7 @@ c) de l'option onco-hématologie
 
 - Exploration, diagnostic, prévention et traitement des maladies du sang : maladie de Hodgkin, lymphomes non-hodgkiniens, myélomes, syndromes myélo- et lymphoprolifératifs ; myélodysplasies, leucémies aiguës, syndromes paranéoplasiques ;
 
-- Innovation et pharmacologie des chimiothérapies ;
+- Innovation et pharmacologie des chimiothérapie.
 
 - Autogreffes et allogreffes ;
 
@@ -90,26 +90,34 @@ c) de l'option onco-hématologie
 
 **II - Formation pratique**
 
-**A) Formation commune de base**
+**A) Option oncologie médicale**
 
-a) trois semestres dans des services agréés pour le diplôme d'études spécialisées d'oncologie, dont deux dans des services cliniques agréés pour l'option oncologie médicale et un dans un service agréé pour l'option oncologie radiothérapique. Deux au moins de ces semestres doivent être effectués dans des services hospitalo-universitaires ou conventionnés. Ces semestres doivent être effectués dans deux services ou départements différents ;
+_a)_ Quatre semestres dans des services agréés pour le diplôme d'études spécialisées d'oncologie. Deux au moins de ces semestres doivent être effectués dans des services hospitalo-universitaires ou conventionnés. Ces semestres doivent être effectués dans deux services ou départements différents ;
 
-b) un semestre dans un laboratoire d'anatomie pathologique ou biologie des tumeurs agréé pour le diplôme d'études spécialisées d'anatomie et cytologie pathologiques.
+_b)_ Un semestre dans des services agréés pour le diplôme d'études spécialisées d'oncologie (option oncologie radiothérapique).
 
-**B) Option oncologie médicale**
+_c)_ Un semestre dans des services agréés pour le diplôme d'études spécialisées d'hématologie.
 
-a) un semestre dans un service agréé pour le diplôme d'études spécialisées d'oncologie (option oncologie médicale), deux semestres dans des services agréés pour le diplôme d'études spécialisées complémentaires de cancérologie, et un semestre dans un service agréé pour le diplôme d'études spécialisées de radiodiagnostic et imagerie médicale ;
+_d)_ Quatre semestres libres dans au moins deux disciplines dans des services agréés pour d'autres diplômes d'études spécialisées ou diplômes d'études spécialisées complémentaires autres que ceux de l'option oncologie médicale.
 
-b) deux semestres dans des services agréés pour d'autres diplômes d'études spécialisées ou diplômes d'études spécialisées complémentaires que ceux d'anatomie et cytologie pathologiques, d'oncologie (trois options), de radiodiagnostic et imagerie médicale, et de cancérologie.
+**B) Option oncologie radiothérapique**
 
-**C) Option oncologie radiothérapique**
+_a)_ Quatre semestres dans des services agréés pour le diplôme d'études spécialisées d'oncologie pour l'option oncologie radiothérapique.
 
-a) deux semestres dans des services agréés pour le diplôme d'études spécialisées d'oncologie (option oncologie radiothérapique), un semestre dans un service agréé pour le diplôme d'études spécialisées complémentaires de cancérologie, et un semestre dans un service agréé pour le diplôme d'études spécialisées de radiodiagnostic et imagerie médicale ;
+_b)_ Deux semestres dans des services agréés pour le diplôme d'études spécialisées d'oncologie (option oncologie médicale).
 
-b) deux semestres dans des services agréés pour d'autres diplômes d'études spécialisées ou diplômes d'études spécialisées complémentaires que ceux mentionnés au paragraphe b) de l'option oncologie médicale.
+_c)_ Quatre semestres libres dans au moins deux disciplines dans des services agréés pour d'autres diplômes d'études spécialisées ou diplômes d'études spécialisées complémentaires que ceux de l'option oncologie radiothérapique.
 
-**D) Option onco-hématologie**
+**C) Option onco-hématologie**
 
-a) deux semestres dans des services agréés pour le diplôme d'études spécialisées d'hématologie (option maladies du sang), un semestre dans un centre de transfusion sanguine agréé pour le diplôme d'études spécialisées complémentaires d'hémobiologie-transfusion, et un semestre dans un laboratoire d'hématologie agréé pour le diplôme d'études spécialisées de biologie médicale ;
+_a)_ Trois semestres dans des services agréés pour le diplôme d'études spécialisées d'oncologie (option oncologie médicale).
 
-b) deux semestres dans des services agréés pour d'autres diplômes d'études spécialisées ou diplômes d'études spécialisées complémentaires que ceux d'anatomie et cytologie pathologiques, d'hématologie, d'oncologie, de cancérologie et d'hémobiologie-transfusion.
+_b)_ Un semestre dans un des services agréés pour le diplôme d'études spécialisées d'oncologie (option oncologie radiothérapique).
+
+_c)_ Trois semestres dans des services agréés pour le diplôme d'études spécialisées d'hématologie.
+
+_d)_ Un semestre dans un des services agréés pour le diplôme d'études spécialisées de biologie médicale.
+
+_e)_ Deux semestres dans des services agréés pour d'autres diplômes d'études spécialisées.
+
+(_BO_ n°22 du 7 juin 2007.)

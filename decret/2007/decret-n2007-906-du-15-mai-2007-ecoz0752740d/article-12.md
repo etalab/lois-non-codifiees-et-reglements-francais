@@ -1,0 +1,3 @@
+# Article 12
+
+L'implantation d'un débit de tabac ordinaire permanent se fait en priorité par le transfert d'un débit existant de même nature. A défaut, elle se fait par voie d'adjudication. Dans les communes de moins de 1 500 habitants, le directeur régional des douanes et droits indirects peut, après avis de l'organisation professionnelle citée au e du 6 de l'article 1er, mettre en place les deux procédures de manière simultanée. La procédure d'adjudication n'est menée à son terme qu'en cas d'absence de candidat à la procédure de transfert dans le délai de trois mois à compter de la date de publication de l'avis prévu au 1 de l'article 15.

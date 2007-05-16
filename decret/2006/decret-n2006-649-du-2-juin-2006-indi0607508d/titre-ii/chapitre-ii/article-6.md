@@ -8,7 +8,7 @@ I. - Le demandeur d'une autorisation présentée au titre de l'article 3 constit
 
 3° Un exposé relatif, selon le cas, aux méthodes de recherches ou d'exploitation envisagées ;
 
-4° L'étude d'impact définie à l'article R. 122-3 du code de l'environnement ;
+4° L'étude d'impact définie à l'article R. 122-3 du code de l'environnement pour les injections de gaz naturel ou de gaz de pétrole liquéfié (GPL) en nappe aquifère contenant ou en contact avec de l'eau potable ou qui peut être rendue potable, l'étude d'impact doit, notamment, démontrer que l'injection est effectuée de manière à éviter tout risque présent ou futur de détérioration de la qualité des eaux souterraines concernées ;
 
 5° Le document de sécurité et de santé prévu à l'article 28 ;
 
@@ -40,7 +40,7 @@ II. - Le dossier comprend également :
 
 - un plan d'opération interne en cas de sinistre. Etabli par l'exploitant, ce plan définit les mesures d'organisation, les méthodes d'intervention et les moyens nécessaires dont l'exploitant doit disposer et qu'il doit pouvoir mettre en oeuvre pour protéger le personnel, les populations et l'environnement ;
 
-- les renseignements nécessaires à l'institution des servitudes d'utilité publique mentionnées au III de l'article 104-3 du code minier ;
+- les renseignements nécessaires à l'institution des servitudes d'utilité publique mentionnées au II de l'article 104-3 du code minier ;
 
 4° Pour les travaux énumérés au 7° de l'article 3 :
 
@@ -50,11 +50,13 @@ II. - Le dossier comprend également :
 
 - la périodicité prévue des vérifications des équipements d'exploitation et de sécurité, tant en ce qui concerne leur fonctionnement que leur adaptation à l'exploitation et à la sécurité.
 
-En outre, pour les stockages souterrains de gaz naturel en nappe aquifère ou en gisement déplété :
+En outre, pour les stockages souterrains de gaz naturel ou de gaz de pétrole liquéfié (GPL) en nappe aquifère ou en gisement déplété :
 
 - le calendrier prévisionnel et les caractéristiques essentielles des différentes opérations d'injection et de soutirage ;
 
 - la capacité maximale envisagée et son dispositif associé de contrôle et d'alerte de dépassement.
+
+- lorsque la nappe aquifère contient ou est en contact avec de l'eau potable ou qui peut être rendue potable, un document indiquant les mesures dont la mise en oeuvre est prévue pour évaluer et, si nécessaire, compenser les impacts sur les caractéristiques physiques et chimiques des eaux souterraines concernées ;
 
 Enfin, pour les stockages souterrains en gisement déplété :
 

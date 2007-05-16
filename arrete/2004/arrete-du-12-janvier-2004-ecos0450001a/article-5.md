@@ -9,3 +9,5 @@ b) Le contrôle sur échantillon de la saisie des données donnant lieu à la cr
 II. - Ce fichier de saisie est utilisé par l'INSEE pour mettre à jour l'échantillon démographique permanent par les données du fichier de saisie défini à l'article 2. Il est détruit au plus tard à la fin de l'année suivant celle de sa réception définitive par l'INSEE.
 
 III. - La base d'images de l'échantillon et le fichier-échantillon EDP qui lui correspond sont détruits par l'INSEE dans le délai mentionné à l'article 7, sous réserve des dispositions résultant de l'application de l'article 8 du présent arrêté.
+
+IV. - Au cours de l'année 2007, le traitement décrit dans les alinéas précédents sera réalisé en vue de constituer un échantillon pour une enquête statistique.

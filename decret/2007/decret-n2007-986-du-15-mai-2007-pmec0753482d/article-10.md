@@ -1,0 +1,3 @@
+# Article 10
+
+Le ministre des affaires étrangères, le ministre de l'économie, des finances et de l'industrie, le ministre des transports, de l'équipement, du tourisme et de la mer, la ministre de l'écologie et du développement durable, le ministre des petites et moyennes entreprises, du commerce, de l'artisanat et des professions libérales, la ministre déléguée à la coopération, au développement et à la francophonie, le ministre délégué au tourisme, le ministre délégué à l'industrie et la ministre déléguée au commerce extérieur sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.

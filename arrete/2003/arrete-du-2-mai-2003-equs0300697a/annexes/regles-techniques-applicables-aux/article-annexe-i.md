@@ -6,7 +6,7 @@ Les règles techniques auxquelles sont soumis les véhicules visés au présent 
 
 En particulier, les systèmes et équipements doivent, pour être réceptionnés par type CE, être conformes aux dispositions correspondantes contenues dans ce tableau, et les véhicules doivent, pour être réceptionnés (par type CE, par type national ou à titre isolé), être conformes à l'ensemble des dispositions qui y sont contenues.
 
-(Tableau non reproduit, voir JO).
+(Tableau non reproduit, consulter le fac-similé)
 
 2° Pièces utilisables pour l'évaluation de la conformité
 
@@ -54,4 +54,10 @@ Entités techniques :
 
 - entités techniques indépendantes électriques et électromagnétiques (a).
 
-- convertisseurs catalytiques de remplacement (**).
+- convertisseurs catalytiques de remplacement (1).
+
+4° Liste des équipements dont la vente est interdite s'ils ne sont pas conformes aux dispositions du tableau ci-dessus :
+
+Entités techniques :
+
+- convertisseurs catalytiques de remplacement(2).
