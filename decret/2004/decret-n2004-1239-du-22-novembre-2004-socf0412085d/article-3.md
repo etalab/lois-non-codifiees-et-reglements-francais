@@ -8,4 +8,6 @@ Les transmissions de documents prévues au présent article doivent intervenir a
 
 Les formulaires d'actualisation relatifs aux trimestres antérieurs au 1er janvier 2006 doivent être valablement déposés auprès de l'organisme gestionnaire au plus tard le 30 septembre 2006 pour donner lieu à paiement.
 
-Les formulaires d'actualisation relatifs aux trimestres postérieurs au 1er janvier 2006 doivent être valablement déposés auprès de l'organisme gestionnaire au plus tard le 30 septembre 2007 pour donner lieu à paiement.
+Les formulaires d'actualisation relatifs aux trimestres de l'année 2006 doivent être valablement déposés auprès de l'organisme gestionnaire au plus tard le 30 septembre 2007 pour donner lieu à paiement.
+
+Les formulaires d'actualisation relatifs aux trimestres de l'année 2007 doivent être valablement déposés auprès de l'organisme gestionnaire dans les trois mois qui suivent le trimestre pour lequel l'aide est demandée pour donner lieu à paiement.
