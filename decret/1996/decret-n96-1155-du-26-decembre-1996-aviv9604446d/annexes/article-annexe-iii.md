@@ -28,6 +28,20 @@ Charbonnière, centre-bourg
 
 - parcelle section AI n° 8 ;
 
+- rue de Balaté jusqu'à la rue Christophe-Colomb ;
+
+- rue Christophe-Colomb jusqu'à l'allée du Lac-Bleu ;
+
+- allée du Lac-Bleu jusqu'à la route des Vampires ;
+
+- route des Vampires jusqu'aux parcelles section AL n° 471, 472 incluses ;
+
+- allée du Lac-Bleu jusqu'à la rue Christophe-Colomb ;
+
+- rue Christophe-Colomb jusqu'à la rue de Balaté ;
+
+- rue de Balaté jusqu'à la parcelle section AI n° 8 ;
+
 - parcelle section AI n° 363 (village Balaté) de 30 mètres à l'Est de l'allée des Maripas jusqu'au fleuve Maroni ;
 
 - ensemble des autres parcelles en façade sur les berges du fleuve Maroni, du village Balaté au Sud à l'avenue du Lieutenant-Colonel-Chandon au Nord, à l'exclusion de la parcelle section AD n° 2 (météo)

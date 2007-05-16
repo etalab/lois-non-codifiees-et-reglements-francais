@@ -24,11 +24,11 @@ Partie principale :
 
 - canal Leblond jusqu'à la parcelle section BR n° 163 ;
 
-- parcelles section BR n° 163, section BH n°s 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 206, 205, 125, 126, 127, 263, 201, 200, 202, 139, 171, 170, 254, 252, 195, 248, 251, 169 ;
+- parcelles section BR n°s 163, 79, 77 75, section BH n°s 139, 171, 170, 254, 252, 195, 248, 251, 169 incluses jusqu'à la rocade ;
 
-- rocade ;
+- rocade jusqu'au rond-point de la Madeleine ;
 
-- parcelles section BD n° 6, 5, 4, 3, 2, 1, section AZ n°s 167, 165, 164, 162, 161, 50, 49, 48, 47, 46, 45, 44, 167, 22, 21, 20, 19, section BD n°s 28, 33, 215, 288, 121, 120, section AY n°s 395, 140, 270, 269, 268, 267, 184, 185, 186, 187, 193 ;
+- parcelles section BD n°s 98, section AZ n°s 166, 164, 162, 160, 161, 44 à 50, 167, 17 section BD n°s 288, 120, 121, section AY n°s 395, 140, 270, 269, 533, 532, 267, 184, 185, 186, 187, 543, 542 incluses.
 
 - rue de Mana jusqu'à la rue des Sapotilles ;
 
@@ -42,9 +42,9 @@ Partie principale :
 
 - route de la Madeleine jusqu'au canal Leblond ;
 
-- canal Leblond jusqu'à la RN 1 ;
+- canal Leblond jusqu'à la parcelle section BC n° 460 incluse ;
 
-- RN 1 jusqu'à l'avenue Jean-Galmot ;
+- parcelles section BC n°s 256, 459, 460, 461, 462 incluses jusqu'à l'avenue Jean-Galmot ;
 
 - avenue Jean-Galmot ;
 
