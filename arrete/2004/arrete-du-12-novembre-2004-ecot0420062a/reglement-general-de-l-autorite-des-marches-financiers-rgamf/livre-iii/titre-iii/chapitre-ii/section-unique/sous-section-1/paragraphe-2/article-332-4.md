@@ -6,7 +6,9 @@ Le teneur de compte conservateur respecte, en toutes circonstances, les obligati
 
 2° Le teneur de compte conservateur ne peut ni faire usage des instruments financiers inscrits en compte et des droits qui y sont attachés, ni en transférer la propriété sans l'accord exprès de leur titulaire. Il organise ses procédures internes de manière à garantir que tout mouvement affectant la conservation d'instruments financiers pour compte de tiers qu'il a en charge est justifié par une opération régulièrement enregistrée dans un compte de titulaire.
 
-3° Le teneur de compte conservateur a l'obligation de restituer les instruments financiers qui lui sont confiés.
+3° Le teneur de compte conservateur a l'obligation de restituer les instruments financiers inscrits en compte, dans ses livres.
+
+Les instruments financiers nominatifs administrés font l'objet d'une inscription en compte dans les livres de l'émetteur au nom de leur titulaire conformément aux informations transmises par le teneur de compte conservateur qui administre ces instruments.
 
 Si ces instruments n'ont pas d'autre support que scriptural, le teneur de compte conservateur responsable de leur inscription en compte les vire au teneur de compte conservateur que le titulaire désigne. Ce virement est effectué dans les meilleurs délais, sous réserve que le titulaire du compte ait rempli ses propres obligations.
 
