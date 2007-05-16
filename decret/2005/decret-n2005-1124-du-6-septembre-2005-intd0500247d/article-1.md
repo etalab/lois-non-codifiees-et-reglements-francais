@@ -80,7 +80,9 @@ l) Des agents des exploitants de transports publics de personnes habilités à r
 
 m) Des préposés du titulaire d'une autorisation individuelle d'exploitation d'un dépôt, débit ou installation mobile de produits explosifs, des personnes intervenant dans ces établissements en vue de l'entretien des équipements de sûreté, ainsi que des organismes chargés des études de sûreté ;
 
-n) Des agents de sûreté portuaires, des agents de sûreté des installations portuaires et des personnes exécutant les missions prévues à l'article R. 321-12 du code des ports maritimes, mentionnés au livre III du code des ports maritimes.
+n) Des agents de sûreté portuaires, des agents de sûreté des installations portuaires et des personnes exécutant les missions prévues à l'article R. 321-12 du code des ports maritimes, mentionnés au livre III du code des ports maritimes ;
+
+o) Des agents de sûreté de compagnie et de navire mentionnés dans le décret n° 2007-937 du 15 mai 2007 relatif à la sûreté des navires.
 
 II. - En ce qui concerne les emplois privés ou activités privées réglementées relevant des domaines des jeux, paris et courses :
 
