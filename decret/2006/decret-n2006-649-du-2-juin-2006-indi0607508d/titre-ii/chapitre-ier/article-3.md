@@ -10,7 +10,7 @@ Sont soumis à l'autorisation prévue par l'article 83 du code minier :
 
 4° L'ouverture de travaux de création et d'aménagement de cavités de stockage souterrain mentionnées à l'article 3-1 du code minier ;
 
-5° Pour les stockages souterrains de gaz naturel en nappe aquifère ou en gisement déplété, l'ouverture de travaux de forage de puits, à l'exception de ceux de forage des puits de contrôle remplissant les conditions prévues au 3° de l'article 4 du présent décret ;
+5° Pour les stockages souterrains, l'ouverture de travaux de forage de puits, à l'exception de ceux de forage des puits de contrôle remplissant les conditions prévues au 3° de l'article 4 du présent décret ;
 
 6° Pour les stockages souterrains, les essais d'injection et de soutirage de substances lorsque ceux-ci portent sur des quantités qui, dans le décret du 20 mai 1953 susvisé, nécessitent une autorisation avec possibilité d'institution de servitudes d'utilité publique ;
 

@@ -34,7 +34,7 @@ III. - Dans le cas des concessions de stockage souterrain, le bilan de l'exploit
 
 8° Pour les cavités salines exploitées par balancement de saumure, le bilan du sel extrait de la cavité par dissolution ;
 
-9° Pour les stockages en nappe aquifère ou gisement déplété, le bilan de la surveillance de la qualité des eaux souterraines ;
+9° Pour les stockages en nappe aquifère ou gisement déplété, le bilan de la surveillance de la qualité des eaux souterraines portant notamment sur les caractéristiques physiques et chimiques des eaux souterraines concernées par le stockage ;
 
 10° Pour les stockages en cavité minée, les quantités d'eau d'exhaure, par mois, et par cavité pour les stockages en comportant plus d'une ;
 
