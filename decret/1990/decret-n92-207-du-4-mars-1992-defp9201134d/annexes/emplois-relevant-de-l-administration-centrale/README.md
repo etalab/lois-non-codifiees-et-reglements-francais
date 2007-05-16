@@ -1,3 +1,0 @@
-# EMPLOIS RELEVANT DE L'ADMINISTRATION CENTRALE
-
-- [Article ANNEXE I](article-annexe-i.md)
