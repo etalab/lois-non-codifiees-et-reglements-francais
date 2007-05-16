@@ -10,4 +10,4 @@ Un système de transport public guidé comprend l'ensemble des éléments qui co
 
 - des principes et règles d'exploitation, d'entretien ou de maintenance.
 
-Son fonctionnement est assuré de manière permanente par des personnels d'exploitation.
+Constituent notamment de tels systèmes les métros, automatiques ou non, les tramways, les autobus guidés par caméra optique ou par un système magnétique ainsi que les appareils dénommés remontées mécaniques à l'article L. 342-7 du code du tourisme situés hors des zones de montagne définies à l'article 3 de la loi du 9 janvier 1985 susvisée.
