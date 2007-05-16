@@ -2,38 +2,46 @@
 
 La commission de récolement des dépôts d'oeuvres d'art est composée ainsi qu'il suit :
 
-1° Un magistrat de la Cour des comptes, désigné par le premier président de la Cour des comptes, président ;
+1° Un magistrat de la Cour des comptes, président, désigné par le ministre chargé de la culture sur proposition du premier président de la Cour des comptes ;
 
-2° Sept représentants du ministère de la culture :
+2° Dix représentants du ministère de la culture :
 
-- le chef du service de l'inspection générale de l'administration ou son représentant ;
+- le chef du service de l'inspection générale de l'administration des affaires culturelles ou son représentant ;
+
+- le secrétaire général du ministère de la culture ou son représentant ;
 
 - le directeur des musées de France ou son représentant ;
+
+- le directeur de l'architecture et du patrimoine ou son représentant ;
 
 - le délégué aux arts plastiques ou son représentant ;
 
 - l'administrateur général du Mobilier national ou son représentant ;
 
-- le directeur du Musée national d'art moderne, centre de création industrielle, ou son représentant ;
+- le président du Centre des monuments nationaux ou son représentant ;
 
-- le directeur de l'architecture et du patrimoine ou son représentant ;
+- le directeur du Fonds national d'art contemporain ou son représentant ;
 
-- le directeur de l'Union centrale des arts décoratifs ou son représentant.
+- le directeur du Musée national d'art moderne, centre de création industrielle du Centre national d'art et de culture Georges Pompidou ou son représentant ;
 
-3° Un représentant du garde des sceaux, ministre de la justice ;
+- le directeur général des Arts décoratifs ou son représentant ;
 
-4° Un représentant du ministre de la défense ;
+3° Le secrétaire général du ministère des affaires étrangères ou son représentant ;
 
-5° Un représentant du ministre des affaires étrangères ;
+4° Le secrétaire général du ministère de la justice ou son représentant ;
 
-6° Un représentant du ministre de l'intérieur ;
+5° Le secrétaire général du ministère de l'intérieur ou son représentant ;
 
-7° Un représentant du ministre chargé du budget ;
+6° Le secrétaire général du ministère de l'économie, des finances et de l'industrie ou son représentant ;
 
-8° Un représentant du ministre chargé de l'enseignement et de la recherche.
+7° Le secrétaire général pour l'administration du ministère de la défense ou son représentant ;
+
+8° Le secrétaire général du ministère de l'éducation nationale ou son représentant.
 
 Lorsque la commission examine des questions concernant un département ministériel qui n'est pas représenté en son sein, elle invite un représentant du ministre intéressé. Ce représentant siège avec voix délibérative.
 
 Le président de la commission peut autoriser des experts à siéger avec voix consultative.
 
-Les fonctions de membre et de président de la commission sont gratuites. Toutefois, elles peuvent donner lieu au remboursement des frais de déplacement et de séjour dans les conditions prévues par le décret du 28 mai 1990 susvisé.
+Les fonctions de président et de membre de la commission peuvent donner lieu au remboursement des frais de déplacement et de séjour dans les conditions prévues par la réglementation applicable aux personnels civils de l'Etat.
+
+Le président perçoit une indemnité forfaitaire dont le montant est fixé par un arrêté conjoint du ministre de la culture et du ministre chargé du budget.
