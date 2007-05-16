@@ -459,7 +459,6 @@
 - [Décret n°85-1115 du 16 octobre 1985](decret-n85-1115-du-16-octobre-1985)
 - [Décret n°96-643 du 16 juillet 1996 (COMX9600046D)](decret-n96-643-du-16-juillet-1996-comx9600046d)
 - [Décret du 17 mars 2004 (AGRP0400236D)](decret-du-17-mars-2004-agrp0400236d)
-- [Décret n°2003-906 du 17 septembre 2003 (MENE0301739D)](decret-n2003-906-du-17-septembre-2003-mene0301739d)
 - [Décret n°2004-1219 du 17 novembre 2004 (SANP0423508D)](decret-n2004-1219-du-17-novembre-2004-sanp0423508d)
 - [Décret n°2004-1220 du 17 novembre 2004 (EQUH0401490D)](decret-n2004-1220-du-17-novembre-2004-equh0401490d)
 - [Décret n°2004-1221 du 17 novembre 2004 (ECOF0420154D)](decret-n2004-1221-du-17-novembre-2004-ecof0420154d)
