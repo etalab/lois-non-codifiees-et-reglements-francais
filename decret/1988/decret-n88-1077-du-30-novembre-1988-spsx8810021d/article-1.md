@@ -8,4 +8,4 @@ Le présent décret s'applique aux personnels infirmiers des établissements men
 
 3° Le corps des puéricultrices,
 
-et un corps classé en catégorie B, le corps des infirmiers.
+et un corps classé en catégorie B, le corps des infirmiers auquel s'appliquent également les dispositions du décret n° 2007-837 du 11 mai 2007 fixant les dispositions statutaires communes applicables aux corps de fonctionnaires de la catégorie B de la fonction publique hospitalière.
