@@ -21,3 +21,5 @@ Au cours des deux premières années d'exercice professionnel, cette formation i
 A l'issue d'une période de cinq ans d'exercice professionnel, les titulaires d'une ou plusieurs mentions de spécialisation prévues à l'article 86 doivent avoir consacré le quart de la durée de leur formation continue à ce ou ces domaines de spécialisation.
 
 Les modalités de mise en oeuvre des dispositions du présent article sont fixées par le Conseil national des barreaux.
+
+Les décisions déterminant les modalités selon lesquelles s'accomplit l'obligation de formation continue, prises par le Conseil national des barreaux en application du second alinéa de l'article 14-2 de la loi du 31 décembre 1971 susvisée sont, dans le délai de trente jours de leur date, notifiées par lettre recommandée avec demande d'avis de réception au garde des sceaux, ministre de la justice, et au conseil de l'ordre de chacun des barreaux. Elles sont publiées au Journal officiel de la République française.

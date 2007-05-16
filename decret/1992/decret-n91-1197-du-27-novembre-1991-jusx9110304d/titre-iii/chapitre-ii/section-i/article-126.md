@@ -1,3 +1,5 @@
 # Article 126
 
-Dans la quinzaine de la conclusion du contrat ou de l'acte modificatif *délai - mise en conformité*, un exemplaire en est remis contre récépissé ou expédié par lettre recommandée avec demande d'avis de réception au conseil de l'ordre, qui peut, dans un délai d'un mois, mettre en demeure, par lettre recommandée avec demande d'avis de réception, les avocats de modifier la convention de façon qu'elle soit en conformité avec les règles professionnelles.
+Après accomplissement des formalités prévues à l'article 125, la constitution de l'association fait l'objet de l'insertion d'un avis dans un journal habilité à recevoir les annonces légales dans le département du lieu d'inscription au tableau de l'ordre de chacun des associés.
+
+L'avis contient la dénomination, la liste des associés, le nom du barreau auquel ils appartiennent et, s'il y a lieu, la mention indiquant que l'association s'est placée sous le régime de la responsabilité professionnelle de chacun des associés.

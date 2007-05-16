@@ -6,5 +6,3 @@
 - [Sous-section 4 : Dissolution par suite du décès des associés.](sous-section-4)
 - [Sous-section 5 : Dissolution par suite du retrait de la société demandé par tous les associés.](sous-section-5)
 - [Sous-section 6 : Dissolution de la société dans le cas où il ne subsiste qu'un associé.](sous-section-6)
-- [Sous-section 7 : Dissolution de la société pour cause de fusion.](sous-section-7)
-- [Sous-section 8 : Dissolution de la société pour cause de scission.](sous-section-8)
