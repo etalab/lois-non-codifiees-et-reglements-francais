@@ -46,6 +46,7 @@
 - [Décret n°2001-1076 du 16 novembre 2001 (MJSK0170163D)](decret-n2001-1076-du-16-novembre-2001-mjsk0170163d)
 - [Décret n°99-1060 du 16 décembre 1999 (ECOX9900106D)](decret-n99-1060-du-16-decembre-1999-ecox9900106d)
 - [Décret n°2000-670 du 17 juillet 2000 (MAEA0020233D)](decret-n2000-670-du-17-juillet-2000-maea0020233d)
+- [Décret n°2000-676 du 17 juillet 2000 (AGRB0001236D)](decret-n2000-676-du-17-juillet-2000-agrb0001236d)
 - [Décret n°95-1115 du 17 octobre 1995 (ENVP9530043D)](decret-n95-1115-du-17-octobre-1995-envp9530043d)
 - [Décret n°2000-1234 du 18 décembre 2000 (INTX0004553D)](decret-n2000-1234-du-18-decembre-2000-intx0004553d)
 - [Décret n°2000-1239 du 18 décembre 2000 (AGRA0002251D)](decret-n2000-1239-du-18-decembre-2000-agra0002251d)
