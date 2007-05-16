@@ -10,12 +10,14 @@ Ouvrent droit aux allocations dont le montant est défini au paragraphe II de l'
 
 4° Accidents survenus au cours d'exercices ou manoeuvres terrestres d'entraînement au combat, de protection des points sensibles et de sauvetage ;
 
-5° Accidents survenus en cours d'opération de recherche, neutralisation, destruction de munitions et engins explosifs de toutes sortes, de manutention, manipulation et transport de munitions, de produits toxiques et de matières dangereuses (matières fissiles, produits radioactifs, explosifs de toutes sortes, agressifs bactériologiques, biologiques et chimiques) ;
+5° Accidents survenus en cours d'opération de recherche, neutralisation, destruction de munitions et engins explosifs de toutes sortes, de manutention, manipulation et transport de munitions, de produits toxiques et de matières dangereuses (matières fissiles, produits radioactifs, explosifs de toutes sortes, agressifs bactériologiques, biologiques et chimiques, hydrocarbures ) ;
 
 6° Accidents dus à l'exposition aux rayonnements radioactifs ;
 
-7° Accidents survenus au cours de l'expérimentation de matériels militaires nouveaux ;
+7° Accidents survenus au cours d'expertise, d'essai ou d'expérimentation de matériels militaires ;
 
 8° Accidents survenus au cours de l'exercice du service spécial à la gendarmerie et aux sapeurs-pompiers ;
 
-9° Accidents survenus au cours d'opérations d'assistance à des personnes en situation difficile et dangereuse, de maintien de l'ordre et de lutte contre les sinistres.
+9° Accidents survenus au cours d'opérations d'assistance à des personnes en situation difficile et dangereuse, de maintien de l'ordre et de lutte contre les sinistres ;
+
+10° Accidents survenus au cours d'opérations extérieures.
