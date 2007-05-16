@@ -736,6 +736,7 @@
 - [Décret n° 2007-253 du 26 février 2007 (MENS0700299D)](decret-n-2007-253-du-26-fevrier-2007-mens0700299d)
 - [Décret n° 2007-257 du 26 février 2007 (ECOC0600143D)](decret-n-2007-257-du-26-fevrier-2007-ecoc0600143d)
 - [Décret n° 2007-265 du 26 février 2007 (AGRF0700399D)](decret-n-2007-265-du-26-fevrier-2007-agrf0700399d)
+- [Décret n°2004-86 du 26 janvier 2004 (EQUR0301437D)](decret-n2004-86-du-26-janvier-2004-equr0301437d)
 - [Décret n°2007-1139 du 26 juillet 2007 (PRMG0756035D)](decret-n2007-1139-du-26-juillet-2007-prmg0756035d)
 - [Décret n°2007-1908 du 26 décembre 2007 (ESRF0771650D)](decret-n2007-1908-du-26-decembre-2007-esrf0771650d)
 - [Décret n°2007-1920 du 26 décembre 2007 (DEFH0771901D)](decret-n2007-1920-du-26-decembre-2007-defh0771901d)
