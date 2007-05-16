@@ -9,4 +9,3 @@
 - [Article 65](article-65.md)
 - [Article 66](article-66.md)
 - [Article 67](article-67.md)
-- [Dispositions particulières aux différents cas de nullité ou de dissolution de la société](dispositions-particulieres-aux)

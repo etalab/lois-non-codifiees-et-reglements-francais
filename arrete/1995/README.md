@@ -1021,7 +1021,6 @@
 - [Arrêté du 25 septembre 1995 (DEFP9502030A)](arrete-du-25-septembre-1995-defp9502030a)
 - [Arrêté du 25 septembre 1995 (MENF9502259A)](arrete-du-25-septembre-1995-menf9502259a)
 - [Arrêté du 25 septembre 1995 (REFB9500522A)](arrete-du-25-septembre-1995-refb9500522a)
-- [Arrêté du 25 septembre 1995 (SANG9502715A)](arrete-du-25-septembre-1995-sang9502715a)
 - [Arrêté du 26 avril 1995 (AGRE9500817A)](arrete-du-26-avril-1995-agre9500817a)
 - [Arrêté du 26 avril 1995 (AGRE9500819A)](arrete-du-26-avril-1995-agre9500819a)
 - [Arrêté du 26 avril 1995 (AGRP9500888A)](arrete-du-26-avril-1995-agrp9500888a)

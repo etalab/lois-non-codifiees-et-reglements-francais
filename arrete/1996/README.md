@@ -494,7 +494,6 @@
 - [Arrêté du 14 mai 1996 (BUDL9600069A)](arrete-du-14-mai-1996-budl9600069a)
 - [Arrêté du 14 mai 1996 (FPPA9610076A)](arrete-du-14-mai-1996-fppa9610076a)
 - [Arrêté du 14 mai 1996 (MIPP9600172A)](arrete-du-14-mai-1996-mipp9600172a)
-- [Arrêté du 14 mai 1996 (TAST9610753A)](arrete-du-14-mai-1996-tast9610753a)
 - [Arrêté du 15 avril 1996 (DOMP9600028A)](arrete-du-15-avril-1996-domp9600028a)
 - [Arrêté du 15 avril 1996 (ECOT9610268A)](arrete-du-15-avril-1996-ecot9610268a)
 - [Arrêté du 15 avril 1996 (EQUS9600534A)](arrete-du-15-avril-1996-equs9600534a)

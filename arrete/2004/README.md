@@ -131,7 +131,6 @@
 - [Arrêté du 5 mai 2004 (SOCF0410885A)](arrete-du-5-mai-2004-socf0410885a)
 - [Arrêté du 5 mai 2004 (SOCF0410886A)](arrete-du-5-mai-2004-socf0410886a)
 - [Arrêté du 5 mai 2004 (SOCF0410887A)](arrete-du-5-mai-2004-socf0410887a)
-- [Arrêté du 5 mai 2004 (SOCF0410888A)](arrete-du-5-mai-2004-socf0410888a)
 - [Arrêté du 5 mai 2004 (SOCF0410889A)](arrete-du-5-mai-2004-socf0410889a)
 - [Arrêté du 5 mai 2004 (SOCF0410890A)](arrete-du-5-mai-2004-socf0410890a)
 - [Arrêté du 5 mai 2004 (SOCF0410891A)](arrete-du-5-mai-2004-socf0410891a)
