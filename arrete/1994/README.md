@@ -521,7 +521,6 @@
 - [Arrêté du 16 juin 1994 (ECOC9400062A)](arrete-du-16-juin-1994-ecoc9400062a)
 - [Arrêté du 16 juin 1994 (ECOC9400063A)](arrete-du-16-juin-1994-ecoc9400063a)
 - [Arrêté du 16 juin 1994 (MJSK9470104A)](arrete-du-16-juin-1994-mjsk9470104a)
-- [Arrêté du 16 mars 1994 (BUDR9406048A)](arrete-du-16-mars-1994-budr9406048a)
 - [Arrêté du 16 mars 1994 (EQUT9400450A)](arrete-du-16-mars-1994-equt9400450a)
 - [Arrêté du 16 mars 1994 (SPSS9401152A)](arrete-du-16-mars-1994-spss9401152a)
 - [Arrêté du 16 mars 1994 (TEFE9400151A)](arrete-du-16-mars-1994-tefe9400151a)

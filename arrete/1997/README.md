@@ -327,7 +327,6 @@
 - [Arrêté du 11 août 1997 (ECOT9720026A)](arrete-du-11-aout-1997-ecot9720026a)
 - [Arrêté du 11 août 1997 (MENT9702119A)](arrete-du-11-aout-1997-ment9702119a)
 - [Arrêté du 11 avril 1997 (AGRM9700686A)](arrete-du-11-avril-1997-agrm9700686a)
-- [Arrêté du 11 avril 1997 (AGRM9700687A)](arrete-du-11-avril-1997-agrm9700687a)
 - [Arrêté du 11 avril 1997 (AGRM9700688A)](arrete-du-11-avril-1997-agrm9700688a)
 - [Arrêté du 11 avril 1997 (MENF9700991A)](arrete-du-11-avril-1997-menf9700991a)
 - [Arrêté du 11 avril 1997 (TASS9721421A)](arrete-du-11-avril-1997-tass9721421a)
