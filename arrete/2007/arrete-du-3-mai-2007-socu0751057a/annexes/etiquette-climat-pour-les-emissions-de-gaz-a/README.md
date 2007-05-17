@@ -1,0 +1,3 @@
+# ÉTIQUETTE CLIMAT POUR LES ÉMISSIONS DE GAZ À EFFET DE SERRE.
+
+- [Article ANNEXE 4](article-annexe-4.md)

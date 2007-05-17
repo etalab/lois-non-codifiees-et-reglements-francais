@@ -22,11 +22,11 @@ Les organismes extérieurs suivants dont l'organisation et le fonctionnement son
 
 - les directions régionales du génie et les établissements du génie qui leur sont rattachés ;
 
-- les directions locales des travaux maritimes ;
+- les directions des travaux maritimes :
+
+- la direction régionale du service d'infrastructure de la défense "Ile-de-France", les établissements du génie et le service technique des travaux immobiliers et maritimes qui lui sont rattachés ;
 
 - le service technique des bâtiments, fortifications et travaux ;
-
-- le service technique des travaux immobiliers et maritimes ;
 
 - l'Ecole nationale des travaux maritimes ;
 

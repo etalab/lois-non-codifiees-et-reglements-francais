@@ -1,0 +1,3 @@
+# Article 6
+
+Les travaux d'isolation des murs par l'extérieur ne doivent pas entraîner de modifications de l'aspect de la construction en contradiction avec les protections prévues pour les secteurs sauvegardés, les zones de protection du patrimoine architectural, urbain et paysager, les abords des monuments historiques, les sites inscrits et classés, les sites inscrits sur la liste du patrimoine mondial de l'humanité de l'UNESCO ou tout autre préservation édictée par les collectivités territoriales, ainsi que pour les immeubles bénéficiant du label patrimoine du XXe siècle et les immeubles désignés par l'alinéa 7 de l'article L. 123-1 du code de l'urbanisme.

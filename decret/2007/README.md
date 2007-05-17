@@ -459,6 +459,7 @@
 - [Décret n°2007-890 du 15 mai 2007 (DEFD0751780D)](decret-n2007-890-du-15-mai-2007-defd0751780d)
 - [Décret n°2007-891 du 15 mai 2007 (SOCU0753164D)](decret-n2007-891-du-15-mai-2007-socu0753164d)
 - [Décret n°2007-892 du 15 mai 2007 (SOCU0752960D)](decret-n2007-892-du-15-mai-2007-socu0752960d)
+- [Décret n°2007-894 du 15 mai 2007 (SOCV0753856D)](decret-n2007-894-du-15-mai-2007-socv0753856d)
 - [Décret n°2007-895 du 15 mai 2007 (SOCV0754196D)](decret-n2007-895-du-15-mai-2007-socv0754196d)
 - [Décret n°2007-896 du 15 mai 2007 (SOCU0750795D)](decret-n2007-896-du-15-mai-2007-socu0750795d)
 - [Décret n°2007-897 du 15 mai 2007 (SOCU0750491D)](decret-n2007-897-du-15-mai-2007-socu0750491d)

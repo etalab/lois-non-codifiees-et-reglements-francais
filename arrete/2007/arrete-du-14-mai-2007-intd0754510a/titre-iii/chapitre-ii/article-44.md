@@ -1,0 +1,9 @@
+# Article 44
+
+Fonctionnement des jeux.
+
+Dans le cas où le casino n'est plus en mesure d'assurer la contrepartie, le fonctionnement des jeux dits de contrepartie est arrêté séance tenante. L'autorisation de pratiquer ces jeux est suspendue de ce fait. Le directeur responsable du casino en avise immédiatement le préfet et le fonctionnaire de police présent dans l'établissement ou, à défaut, le commissaire de police, chef du service des renseignements généraux de la circonscription où se trouve le casino ainsi que le trésorier-payeur général ou son représentant et le comptable du Trésor, chef de poste.
+
+La suspension de l'autorisation de pratiquer les jeux dits de contrepartie est levée lorsque le casino est à nouveau en mesure d'assurer la contrepartie.
+
+Le directeur responsable du casino en avise immédiatement les personnes visées à l'alinéa 1 du présent article.

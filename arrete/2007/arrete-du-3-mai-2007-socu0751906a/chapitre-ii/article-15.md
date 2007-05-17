@@ -1,0 +1,3 @@
+# Article 15
+
+Les exigences visées aux articles 8 à 13 peuvent ne pas être satisfaites lorsque les modifications en résultant sur l'aspect de la construction sont en contradiction avec les protections prévues pour les secteurs sauvegardés, les zones de protection du patrimoine architectural, urbain et paysager, les abords des monuments historiques, les sites inscrits et classés, les sites inscrits sur la liste du Patrimoine mondial de l'humanité de l'UNESCO ou toute autre préservation édictée par les collectivités territoriales, ainsi que pour les immeubles bénéficiant du label Patrimoine du XXe siècle et les immeubles désignés par l'alinéa 7 de l'article L. 123-1 du code de l'urbanisme.

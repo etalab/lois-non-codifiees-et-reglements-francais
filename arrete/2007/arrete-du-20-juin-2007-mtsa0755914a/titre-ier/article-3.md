@@ -1,0 +1,3 @@
+# Article 3
+
+Une commission d'admission est instituée dans chaque établissement. Elle est composée du directeur de l'établissement de formation ou de son représentant, du responsable de la formation préparant au diplôme d'Etat de moniteur-éducateur et d'un professionnel titulaire du diplôme d'Etat de moniteur-éducateur extérieur à l'établissement de formation. Elle arrête la liste des candidats admis à suivre la formation. Cette liste précisant, par voie de formation, le nombre des candidats admis et la durée de leur parcours de formation est transmise à la direction régionale des affaires sanitaires et sociales.
