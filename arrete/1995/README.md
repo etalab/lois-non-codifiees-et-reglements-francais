@@ -952,7 +952,6 @@
 - [Arrêté du 24 août 1995 (MIPP9500838A)](arrete-du-24-aout-1995-mipp9500838a)
 - [Arrêté du 24 août 1995 (MIPP9500839A)](arrete-du-24-aout-1995-mipp9500839a)
 - [Arrêté du 24 août 1995 (SANS9502621A)](arrete-du-24-aout-1995-sans9502621a)
-- [Arrêté du 24 août 1995 (SANS9502622A)](arrete-du-24-aout-1995-sans9502622a)
 - [Arrêté du 24 avril 1995 (AGRB9500812A)](arrete-du-24-avril-1995-agrb9500812a)
 - [Arrêté du 24 avril 1995 (BUDR9505007A)](arrete-du-24-avril-1995-budr9505007a)
 - [Arrêté du 24 avril 1995 (ECOM9500324A)](arrete-du-24-avril-1995-ecom9500324a)

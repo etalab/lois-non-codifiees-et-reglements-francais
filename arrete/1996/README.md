@@ -902,7 +902,6 @@
 - [Arrêté du 25 juin 1996 (TASG9610988A)](arrete-du-25-juin-1996-tasg9610988a)
 - [Arrêté du 25 mars 1996 (MIPP9600125A)](arrete-du-25-mars-1996-mipp9600125a)
 - [Arrêté du 25 mars 1996 (PRMA9601430A)](arrete-du-25-mars-1996-prma9601430a)
-- [Arrêté du 25 mars 1996 (TASS9620999A)](arrete-du-25-mars-1996-tass9620999a)
 - [Arrêté du 25 novembre 1996 (ECOS9650046A)](arrete-du-25-novembre-1996-ecos9650046a)
 - [Arrêté du 25 novembre 1996 (ENVE9650402A)](arrete-du-25-novembre-1996-enve9650402a)
 - [Arrêté du 25 novembre 1996 (EQUP9601210A)](arrete-du-25-novembre-1996-equp9601210a)

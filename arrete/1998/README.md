@@ -1027,7 +1027,6 @@
 - [Arrêté du 30 octobre 1998 (EQUS9801433A)](arrete-du-30-octobre-1998-equs9801433a)
 - [Arrêté du 30 octobre 1998 (MENF9802869A)](arrete-du-30-octobre-1998-menf9802869a)
 - [Arrêté du 30 octobre 1998 (MESS9823438A)](arrete-du-30-octobre-1998-mess9823438a)
-- [Arrêté du 30 octobre 1998 (MESS9823439A)](arrete-du-30-octobre-1998-mess9823439a)
 - [Arrêté du 30 septembre 1998 (ECOC9800079A)](arrete-du-30-septembre-1998-ecoc9800079a)
 - [Arrêté du 30 septembre 1998 (ECOI9800889A)](arrete-du-30-septembre-1998-ecoi9800889a)
 - [Arrêté du 31 août 1998 (AGRH9801752A)](arrete-du-31-aout-1998-agrh9801752a)
