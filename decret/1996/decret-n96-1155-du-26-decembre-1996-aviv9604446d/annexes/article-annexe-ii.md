@@ -30,13 +30,31 @@ Basse-Terre (département de la Guadeloupe) : rivière des Pères, centre-ville
 
 - rue Maurice-Marie-Claire (ensemble des parcelles situées de chaque côté de la rue) jusqu'à la rue du Docteur-Cabre ;
 
-- rue du Docteur-Cabre (ensemble des parcelles situées de chaque côté de la rue) jusqu'à la rue Léonard ;
+- rue du Docteur-Cabre (ensemble des parcelles situées de chaque côté de la rue) jusqu'à la rivière aux Herbes ;
 
-- rue Léonard (ensemble des parcelles situées de chaque côté de la rue) jusqu'à la rue de la République ;
+- rivière aux Herbes jusqu'à la limite ouest de la parcelle section AM n° 316 (exclue) ;
 
-- rue de la République (ensemble des parcelles situées de chaque côté de la rue) jusqu'au boulevard Félix-Eboué ;
+- limite nord-est de la parcelle section AM n° 334 (incluse), puis allée Tony Blancourt, puis limite nord-est de la parcelle section AK n° 96 jusqu'à la rivière ravine de l'Espérance ;
 
-- boulevard Félix-Eboué jusqu'au littoral ;
+- ravine de l'Espérance jusqu'à la limite nord-est de la parcelle section AK n° 200 ;
+
+- limite sud-est des parcelles section AK n°s 200 et 119 ;
+
+- traversée de la parcelle section AK n° 279 (au droit de l'angle sud-est de la parcelle section AK n° 119 jusqu'à l'angle nord-est de la parcelle section AK n° 127 ;
+
+- limite nord-est de la parcelle section AK n° 127 jusqu'au chemin du stade ;
+
+- chemin du stade jusqu'à la rue de Lardenoy ;
+
+- rue de Lardenoy jusqu'à l'avenue Paul-Lacave ;
+
+- avenue Paul-Lacave jusqu'à la limite nord de la parcelle section AE n° 188 ;
+
+- limite nord des parcelles section AE n°s 188 (parcelle contiguë section AE n° 178 incluse), 192 et 193, puis limite sud des parcelles section AE n°s 193 et 194 ;
+
+- rue de Lardenoy jusqu'à la limite communale avec Courbeyre ;
+
+- limite communale avec Courbeyre jusqu'au littoral,
 
 - le littoral jusqu'à la rivière des Pères ;
 
