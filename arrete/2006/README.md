@@ -126,6 +126,7 @@
 - [Arrêté du 20 novembre 2006 (MJSK0670242A)](arrete-du-20-novembre-2006-mjsk0670242a)
 - [Arrêté du 20 novembre 2006 (SOCG0612295A)](arrete-du-20-novembre-2006-socg0612295a)
 - [Arrêté du 20 novembre 2006 (SOCG0612296A)](arrete-du-20-novembre-2006-socg0612296a)
+- [Arrêté du 21 avril 2006 (DEFP0600459A)](arrete-du-21-avril-2006-defp0600459a)
 - [Arrêté du 21 décembre 2005 (METF0610002A)](arrete-du-21-decembre-2005-metf0610002a)
 - [Arrêté du 21 décembre 2006 (SANH0625026A)](arrete-du-21-decembre-2006-sanh0625026a)
 - [Arrêté du 21 novembre 2006 (SOCU0611885A)](arrete-du-21-novembre-2006-socu0611885a)
