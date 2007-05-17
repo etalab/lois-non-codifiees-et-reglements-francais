@@ -1,6 +1,12 @@
 # Article 4
 
-Pour les candidats mentionnés à l'article 3, le diplôme est attribué sur la base des notes obtenues à un examen et des résultats acquis en classe de troisième.
+Le diplôme national du brevet est attribué aux candidats mentionnés à l'article 3 ayant obtenu :
+
+1. Une note moyenne égale ou supérieure à 10 résultant de la division de la somme des notes de contrôle continu et des notes des épreuves écrites par le total des coefficients attribués à chacune de ces notes.
+
+2. Le brevet informatique et internet (B2i) niveau collège.
+
+3. Le niveau A2 dans une langue vivante étrangère, tel qu'il est précisé par l'annexe à l'article D. 312-16. Le candidat a le choix entre les langues vivantes étudiées.
 
 L'examen comporte trois épreuves écrites :
 

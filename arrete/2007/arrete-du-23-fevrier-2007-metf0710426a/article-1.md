@@ -98,7 +98,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </td>
 <td align="center"> 5 ans</td>
 <td align="center">
-<p> Ministère de la défense. - Formations interarmes. - </p>
+<p> Ministère de la défense. - </p>
 <p>Centre de formation et d'interprétation interarmées</p>
 <p>de l'image. </p>
 </td>
@@ -505,7 +505,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </td>
 <td align="center"> 5 ans</td>
 <td align="center">
-<p> Ministère de la défense. - Formations interarmes. - </p>
+<p> Ministère de la défense. - </p>
 <p>Centre de formation et d'interprétation interarmées</p>
 <p>de l'image. </p>
 </td>
@@ -631,7 +631,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 <p>maintenance de radars, de systèmes</p>
 <p>acoustiques et d'armes navales. </p>
 </td>
-<td align="center"> 255 s<br/>
+<td align="center"> 255 r<br/>
 </td>
 <td align="center"> 5 ans</td>
 <td align="center">
