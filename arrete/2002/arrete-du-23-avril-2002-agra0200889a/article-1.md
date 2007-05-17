@@ -4,7 +4,7 @@ Le comité de sélection consulté au titre de l'article 5 (I, 2°) du décret d
 
 -le chef de service des ressources humaines ou son représentant, président ;
 
--le vice-président du Conseil général du génie rural, des eaux et des forêts ou son représentant ;
+-le chef du corps des corps des ingénieurs du génie rural, des eaux et des forêts ou son représentant ;
 
 -le directeur général de l'enseignement et de la recherche ou son représentant ;
 
