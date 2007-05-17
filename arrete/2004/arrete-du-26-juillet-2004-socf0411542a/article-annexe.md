@@ -1,96 +1,86 @@
 # Article Annexe
 
-A N N E X E
-
 INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
 Intitulé :
 
-Titre professionnel : technicien(ne) médiation services.
+Titre professionnel : technicien(ne) médiation services
 
-Niveau : IV.
+Niveau : IV
 
-Code NSF : 340 m.
+Code NSF : 330 m Spécialités plurivalentes des services aux personnes
+
+340 m Spécialités plurivalentes des services à la collectivité
 
 Résumé du référentiel d'emploi
 
-Le (la) technicien(ne) médiation services a pour mission essentielle de faciliter l'accès aux services et aux droits de toutes les personnes, qu'elles soient en simple recherche d'information - ne sachant pas comment s'adresser aux administrations, aux structures en charge d'un service public - ou confrontées à des situations conflictuelles récurrentes ou même en grande difficulté. Il (elle) travaille à partir d'une observation d'un territoire et du projet de la structure, pour cela, le (la) technicien(ne) médiation services :
+Le (la) technicien(ne) médiation services a pour mission essentielle de faciliter l'accès aux services et aux droits de toutes les personnes, qu'elles soient en simple recherche d'information, ne sachant pas comment s'adresser aux administrations, aux structures récurrentes ou même en grande difficulté.
+
+Le (la) technicien(ne) médiation services :
 
 - met en oeuvre des processus de médiation entre des personnes, ou entre des personnes et des professionnels spécialisés, ou encore entre des personnes et des structures ;
 
 - organise des activités temporaires qui contribuent au renforcement du lien social ;
 
-- articule son action avec celle d'autres acteurs (au sein d'administrations, d'associations, de services sociaux...) concernés par les mêmes problèmes et dysfonctionnements.
+- agit en articulation, concertation et complémentarité avec de nombreux professionnels (travailleurs sociaux notamment) et divers organismes ou services (administrations, association, structures en charge d'un service public...).
 
 Cet emploi s'exerce dans un local de la structure qui emploie le (la) technicien(ne) médiation services, ou dans un espace public.
 
-Les statuts juridiques des employeurs sont divers : associations, groupements d'employeurs, collectivités territoriales, administrations...
+Les employeurs peuvent être des associations, des collectivités territoriales, des services publics, des entreprises, des groupements d'employeurs, des bailleurs sociaux...
 
-La spécificité de l'environnement peut amener à valoriser la connaissance d'une langue ou d'un milieu d'intervention (hospitalier, scolaire...).
+Capacités attestées et descriptif des composantes de la certification :
 
-Capacités attestées et descriptif
+1. Participer à des réseaux institutionnels et développer ses propres réseaux, en fonction de sa mission.
 
-des composantes de la certification
-
-1. Participer à des réseaux institutionnels et développer
-
-ses propres réseaux, en fonction de son contexte d'emploi
-
-S'approprier l'histoire de la vie du territoire d'activité.
+S'approprier l'histoire et la vie du territoire d'activité géographique ou lié à une problématique sociale identifiée.
 
 Identifier les acteurs du territoire en lien avec son activité.
 
-Créer, entretenir et développer son réseau.
+S'inscrire dans des réseaux existants, entretenir et développer ses propres réseaux.
 
 Assurer une veille permanente sur le territoire d'activité.
 
-Utiliser un outil de recherche d'information, les fonctions de base bureautiques et une procédure de classement.
-
-2. Assurer un service de médiation
-
-Enrichir une documentation pour l'équipe.
-
-Utiliser un outil de recherche d'information, les fonctions de base bureautiques et une procédure de classement.
-
-Assurer un premier niveau d'information et d'aide technique.
+2. Assurer un service de médiation.
 
 Etablir et maintenir une relation de confiance.
 
-Analyser la demande, le besoin.
+Faire émerger le besoin à partir de l'expression de la demande.
+
+Assurer un premier niveau d'information ou d'aide à la communication.
+
+Analyser les différentes composantes d'une situation.
 
 Accompagner les personnes dans la construction de leurs réponses.
 
-Mener une action de médiation auprès d'une structure.
+Etablir ou rétablir par une demarche de médiation, la relation entre des personnes ou entre une personne et une structure.
 
-Evaluer et rendre compte sur les services rendus par le (la) technicien(ne) médiation services.
+Contribuer par une démarche de médiation à la résolution de situations conflictuelles entre deux parties.
 
-Analyser sa pratique de technicien(ne) médiation services.
+Evaluer les actions menées et rendre compte de son activité.
 
-Se protéger et protéger l'autre dans un cadre légal.
+Confronter et analyser sa pratique de TMS.
 
-3. Organiser des activités supports à la médiation sociale
+3. Promouvoir et organiser des activités supports à la médiation sociale.
 
-Utiliser un outil de recherche d'information, les fonctions de base bureautiques et une procédure de classement.
+Concevoir un projet d'activité support à la médiation sociale, correspondant à son niveau de responsabilité.
 
-Concevoir ou participer à la conception d'un projet d'activité support à la médiation sociale.
+Construire une activité support à la médiation sociale, correspondant à son niveau de responsabilité.
 
-Conduire ou participer à la conduite d'un projet d'activité support à la médiation sociale.
+Mettre en oeuvre une activité support à la médiation sociale, correspondant à son niveau de responsabilité.
 
-Mettre en oeuvre ou participer à la mise en oeuvre d'un projet d'activité support à la médiation sociale.
+Evaluer les actions menées et rendre compte de son activité.
 
-Evaluer et rendre compte sur les services rendus par le (la) technicien(ne) médiation services.
+Secteurs d'activités ou types d'emploi accessibles par le détenteur du titre
 
-Secteurs d'activités ou types d'emploi
+Le (la) technicien(ne) médiation services est un généraliste qui intervient dans des contextes d'emploi très variés :
 
-accessibles par le détenteur du titre
+Publics rencontrés : jeunes, parents, personnes âgées, personnes parlant une langue étrangère, gens du voyage, SDF...
 
-Le (la) technicien(ne) médiation services intervient de manière généraliste et peut aussi être spécialisé(e) sur des problématiques telles que la prévention santé, la parentalité, l'interculturalité.
+Problématiques particulières : prévention santé, interculturalité, relations intergénérationnelles, médiation scolaire...
 
-Codes ROME :
+Code ROME :
 
-...... (en cours).
-
-23112 - Intervenant d'action sociale.
+23111.
 
 Réglementation de l'activité :
 
@@ -102,8 +92,6 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
+Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
 
-Décret n° 2002-1029 du 2 août 2002 ;
-
-Arrêté du 25 novembre 2002.
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.
