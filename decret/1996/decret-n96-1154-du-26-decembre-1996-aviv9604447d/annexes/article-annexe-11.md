@@ -46,10 +46,20 @@ Sur Creil :
 
 - parcelle cadastrée section AB n° 184 pour partie (rue de Gournay) ;
 
-- parcelles cadastrées section AB n°s 110 et 121 pour partie, 120 pour partie.
+- parcelles cadastrées section AB n°s 110 et 121 pour partie, 120 pour partie ;
+
+- limite sud des parcelles AB 217, AB 11, AB 85.
 
 Sur Montataire :
 
-- parcelles cadastrées section AV n° 356 a pour partie, 125 pour partie, 476 pour partie, 354, 356 a et 358 ;
+- parcelles cadastrées section AV n° 356 a pour partie, AV n°s 641 en totalité, 125 pour partie, 476 pour partie, 354, 356 a et 358 ;
+
+- limite sud des parcelles AV 641, AT 226, AV 544 ;
+
+- limite ouest et nord de la parcelle AV 299 ;
+
+- limite nord de la parcelle AV 544 ;
+
+- limite nord de la parcelle AV 641 ;
 
 - parcelles cadastrées section AX n°s 91, 90, 89, 92, 519, 518, 520, 522, 523, 290, 88 et 89.

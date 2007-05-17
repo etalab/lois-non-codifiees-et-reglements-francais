@@ -8,7 +8,21 @@ Clichy-sous-Bois :
 
 -  mail du Petit-Tonneau jusqu'à l'allée Maurice-Audin ;
 
-- allée Maurice-Audin, résidence Sévigné, groupe scolaire Paul-Langevin, résidence Vallée des Anges inclus jusqu'au chemin des Postes, CES Louise-Michel inclus ;
+- allée Maurice-Audin jusqu'au rond-point Charles-de-Gaulle ;
+
+- rond-point Charles-de-Gaulle et boulevard Gagarine jusqu'à la limite sud-est de la parcelle section AR n° 67 ;
+
+- limite sud-est des parcelles section AR n°s 67 et 63 ;
+
+- limite sud des parcelles section AR 63 et AR 62 jusqu'à l'allée Pasteur ;
+
+- allée Pasteur (direction nord) jusqu'à l'allée Francis ;
+
+- allée Francis jusqu'à la limite sud-ouest de la parcelle section AP n° 355 ;
+
+- limite ouest des parcelles section AP n°s 355, 171, 356, 49 et 50 jusqu'à l'allée Pasteur ;
+
+- allée Pasteur jusqu'au chemin des Postes (limite communale avec Livry-Gargan) ;
 
 -  chemin des Postes (limite de commune) jusqu'à la limite de la parcelle section AT n° 47 ;
 
@@ -86,7 +100,71 @@ Partie principale :
 
 -  chemin de la Grosse-Borne ;
 
--  (limite communale avec Clichy-sous-Bois sur l'aqueduc de dérivation des eaux de la Dhuys).
+- limite communale avec Clichy-sous-Bois jusqu'à l'avenue des Sept-Iles ;
+
+- avenue des Sept-Iles jusqu'à la limite nord-est de la parcelle section R n° 712 ;
+
+- limite nord-est de la parcelle section R n° 712 jusqu'à l'avenue des Géraniums ;
+
+- avenue des Géraniums jusqu'à l'avenue Jean-Jaurès ;
+
+- avenue Jean-Jaurès jusqu'à l'allée des Lys ;
+
+- allée des Lys jusqu'à la limite sud de la parcelle section R n° 278 ;
+
+- limite sud des parcelles section R n°s 278, 276, 902 et 778 ;
+
+- limite ouest des parcelles section R n°s 778 et 779 ;
+
+- limite sud des parcelles section R n°s 598 (franchissement de l'avenue des Pâquerettes), 917, 961, 706, 705, 611, 625 (franchissement de l'avenue des Rosiers), 121, 881, 114, 898, 667 (franchissement de l'avenue des Violettes) et 46 ;
+
+- limites est et sud de la parcelle section R n° 737 ;
+
+- limite sud de la parcelle section R n° 736 et CD n° 136 avenue de la Maison-Rouge jusqu'au carrefour des Sept-Iles ;
+
+- (limite communale de Montfermeil, Clichy-sous-Bois et Gagny).
+
+Commune de Gagny
+
+- allée de la Dhuys jusqu'à la limite sud-ouest de la parcelle section BE n° 554 ;
+
+- limite sud-ouest des parcelles section BE n°s 554 et 208 ;
+
+- limite sud des parcelles section BE n°s 206, 203, 201, 199, 198, 191, 189, 188, 187 (franchissement de l'allée Louis-Le-Grand), 123, 119, 118, 112, 98, 97, 96, 93 (franchissement de l'allée Laguilhonie), 92 et 40 ;
+
+- franchissement de l'allée Gay ;
+
+- limite sud-ouest de la parcelle section BE n° 38 ;
+
+- allée de Montfermeil ;
+
+- (limite communale de Gagny et Clichy-sous-Bois) ;
+
+Commune de Clichy-sous-Bois
+
+- allée de Montfermeil jusqu'à l'allée de Recy ;
+
+- allée de Recy jusqu'à la limite nord de la parcelle section AN n° 315 ;
+
+- limite nord des parcelles section AN n°s 315, 314, 313, 312, 311, 310, 309 ;
+
+- parcelle section AN n° 322 ;
+
+- limite nord des parcelles section AN n°s 307, 564, 514, 303 et 301 ;
+
+- franchissement de l'allée de Castillon ;
+
+- limites ouest et nord de la parcelle section AN n° 298 ;
+
+- limite nord des parcelles section AN n°s 296 et 295 ;
+
+- limites ouest et nord de la parcelle section AN n° 278 ;
+
+- limite nord des parcelles section AN n°s 512, 272, 269, 268, 266, 265, 264, 260, 258, 256, 255 et 254 ;
+
+- allée Angel-Testa jusqu'au carrefour des Sept-Iles ;
+
+- limite communale avec Montfermeil (limite ouest de la parcelle section R n° 712) jusqu'à l'allée du Chêne-Pointu.
 
 Extension 1 :
 

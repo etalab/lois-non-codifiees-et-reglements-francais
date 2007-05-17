@@ -32,9 +32,15 @@ Montpellier (département de l'Hérault) : La Paillade
 
 - rue du Professeur-Blayac jusqu'à la rue Marius-Petipa ;
 
-- rue Marius-Petipa jusqu'aux limites Sud des parcelles section TY n°s 38, 39 (collège Villeneuve) pour rejoindre la rue du Pilory ;
+- rue Marius-Petipa jusqu'à la limite sud de la parcelle section TY n° 19 (exclue) ;
 
-- rue du Pilory, de la limite Nord de la parcelle section TY n° 37 jusqu'à l'avenue de la Liberté ;
+- limite sud de la parcelle section TY n° 19 jusqu'à la rue Favre-de-Saint-Castor ;
+
+- rue Favre-de-Saint-Castor jusqu'au rond-point de Stalingrad ;
+
+- contournement nord du rond-point de Stalingrad jusqu'à la rue du Pilory ;
+
+- rue du Pilory jusqu'à l'avenue de la Liberté ;
 
 - avenue de la Liberté jusqu'au rond-point Robert-Schuman ;
 

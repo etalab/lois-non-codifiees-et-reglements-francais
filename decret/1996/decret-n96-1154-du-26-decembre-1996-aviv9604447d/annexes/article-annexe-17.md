@@ -40,9 +40,15 @@ Le Mans (département de la Sarthe) : Les Sablons
 
 - rue Copernic jusqu'au boulevard Winston-Churchill ;
 
-- boulevard Winston-Churchill jusqu'aux limites intérieures rond-point Churchill - Jean-Jaurès ;
+- boulevard Winston-Churchill, jusqu'à la limite nord de la parcelle section ER n° 197 exclue ;
 
-- des limites intérieures rond-point Churchill - Jean-Jaurès jusqu'à l'avenue Jean-Jaurès ;
+- limites nord des parcelles section EZ n°s 107, 109, 110, 111 exclues ;
+
+- limites ouest des parcelles section EZ n°s 187, 176, 178 incluses ;
+
+- limites ouest et nord de la parcelle section EZ n° 185, traversée de la rue des Tilleuls ;
+
+- limites nord des parcelles section EZ n°s 184, 197, 189 incluses, jusqu'à l'avenue Jean-Jaurès ;
 
 - avenue Jean-Jaurès jusqu'aux limites Nord des parcelles section EW n°s 41, 44, 46 ;
 
@@ -74,17 +80,19 @@ Le Mans (département de la Sarthe) : Les Sablons
 
 - limites Ouest des parcelles section DW n°s 345, 308, 344, 52 jusqu'à la rue des Marais ;
 
-- rue des Marais jusqu'aux limites Ouest des parcelles section n°s DX 99, 152 ;
+- rue des Marais jusqu'aux limites ouest des parcelles section DX n°s 99, 182 incluses (anciennement 152) ;
 
-- limites Ouest des parcelles section DX n°s 99, 152 jusqu'aux limites Nord des parcelles section DX n°s 152, 151 ;
+- limites ouest des parcelles section DX n°s 99, 182 incluses (anciennement 152) ;
 
-- limites Nord des parcelles section DX n°s 152, 151 jusqu'aux limites Est des parcelles section DX n°s 151, 87 ;
+- limite sud de la parcelle section DX n° 85 incluse, jusqu'à la rue des Résistants-Internés ;
 
-- limites Est des parcelles section DX n°s 51, 87 jusqu'à la rue des Marais ;
+- rue des Résistants-Internés, jusqu'à la limite nord de la parcelle section DX n° 136 incluse ;
 
-- rue des Marais jusqu'aux limites Ouest et Nord de la parcelle section DY n° 162 ;
+- limite nord, puis est de la parcelle section DX n° 136 incluse,
 
-- limites Ouest et Nord de la parcelle section DY n° 162 jusqu'à la rue de Monthéard ;
+- limite est de la parcelle section DX n° 136 ;
+
+- limites sud des parcelles section DY n°s 159 et 208 exclues, jusqu'à la rue de Monthéard ;
 
 - rue de Monthéard jusqu'à la rue Molière ;
 

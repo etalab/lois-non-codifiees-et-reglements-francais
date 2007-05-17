@@ -120,7 +120,13 @@ Saint-Dizier (département de la Haute-Marne) : Le Vert-Bois, Le Grand-Lachat
 
 -	limite Sud des parcelles section DV n°s 11, 12 et 8 jusqu'à la R.N. 4 ;
 
--	R.N. 4 jusqu'à la R.N. 35 ;
+- RN 4 jusqu'à la RN 35 ;
+
+- RN 35 jusqu'à la limite sud de la parcelle section AL n° 19, puis limite sud de la parcelle section AL n° 62 ;
+
+- limite sud des parcelles section A n°s 286 et 290, limite est de la parcelle section A n° 292, limite sud de la parcelle section A n° 303, limite ouest de la parcelle section A n° 332, limites sud et ouest de la parcelle section A n° 309, limite ouest et nord de la parcelle section A n° 311, limites nord des parcelles section A n°s 313, 314, 326, limites est des parcelles section A n°s 326, 325, 316, 323, 319, 322, 321, 330, limites sud des parcelles section A n°s 329 et 288, limite est de la parcelle section A n° 284, limites nord des parcelles section A n°s 292, 290 et 286 ;
+
+- limites nord des parcelles section AN n°s 62 et 19 jusqu'à la RN 35 ;
 
 -	R.N. 35 jusqu'à l'avenue de la Loubert ;
 

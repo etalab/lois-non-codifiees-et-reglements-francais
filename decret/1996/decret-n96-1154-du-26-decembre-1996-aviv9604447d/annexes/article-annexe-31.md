@@ -28,10 +28,42 @@ Reims (département de la Marne): Croix Rouge
 
 -	rue de Rilly-la-Montagne jusqu'aux limites cadastrales section HS/IS : entre la rue de Rilly-la-Montagne et l'avenue du Général-Eisenhower ;
 
--	limites cadastrales sections HS/IS: entre la rue de Rilly-la-Montagne et l'avenue du Général-Eisenhower ;
+- avenue du Général-Eisenhower jusqu'à la limite est de la parcelle HT 93 ;
 
--	avenue du Général-Eisenhower jusqu'aux limites Ouest des parcelles section HT n°s 201 et 202 ;
+- jonction avenue du Général-Eisenhower, boulevard Franchet-d'Espérey (domaine public) ;
 
--	limites Ouest des parcelles section HT n°s 201, 202 à l'avenue d'Epernay ;
+- boulevard Franchet-d'Esperey (domaine public) ;
+
+- boulevard du Président-Wilson côté pair jusqu'à la limite SE des parcelles section DT 468, 469, 470, 471, 472 (boulevard du Docteur-Roux) ;
+
+- rue du Docteur-Roux jusqu'à la rue Jean-de-Foigny ;
+
+- la rue Jean-de-Foigny jusqu'à la rue du Docteur-Lefort ;
+
+- rue du Docteur-Lefort jusqu'au boulevard du Président-Wilson ;
+
+- boulevard du Président-Wilson jusqu'à la limite SE des parcelles section DO 844, 862 ;
+
+- limite ouest des parcelles section DO 852 et 851 jusqu'à la rue Maurice-Ravel ;
+
+- rue Maurice-Ravel jusqu'à la place Mozart ;
+
+- place Mozart ;
+
+- allée Jean-Sébastien-Bach jusqu'à l'allée Georges-Bizet ;
+
+- allée Georges-Bizet jusqu'à la limite SE de la parcelle section DO 414 ;
+
+- limite SE de le parcelle section DO 414 jusqu'à l'allée Charles-Gounod ;
+
+- allée Charles-Gounod ;
+
+- rue Hector-Berlioz jusqu'au boulevard Franchet-d'Espérey ;
+
+- boulevard Franchet-d'Espérey (domaine public) ;
+
+- jonction boulevard Franchet-d'Espérey, avenue du Général-Eisenhower jusqu'à la limite ouest de la parcelle HT 201 ;
+
+- limites ouest et nord de la parcelle section HT 201 puis limite est de la parcelle section HT 202 à l'avenue d'Epernay ;
 
 -	(avenue d'Epernay).

@@ -4,7 +4,7 @@ Roubaix/Tourcoing (département du Nord) : La Bourgogne, Alma, Cul-de-Four, Foss
 
 Tourcoing
 
--	voie ferrée depuis la limite communale avec Roubaix jusqu'à l'avenue du Maréchal-Joffre ;
+- avenue Lefrançois du n° 10 à l'avenue du Maréchal-Joffre  ;
 
 -	avenue du Maréchal-Joffre jusqu'à la rue du Haut-Vinage ;
 
@@ -84,9 +84,47 @@ Roubaix :
 
 -	rue Racine (ensemble des parcelles situées de chaque côté de la rue) jusqu'au quai de Boulogne ;
 
--	quai de Boulogne jusqu'à la voie ferrée ;
+- avenue Boileau (jonction) : du quai de Boulogne jusqu'à la limite communale de Roubaix ;
 
--	(voie ferrée jusqu'à la limite communale avec Tourcoing).
+- boulevard Constantin-Descat : de la limite communale de Tourcoing jusqu'à la rue Edgar-Quinet ;
+
+- rue Edgar-Quinet : du boulevard Constantin-Descat à la limite communale de Roubaix (parcelles IM 0462 et MP 0003) ;
+
+- rue Corneille (n° 1 au n° 23 exclus) : de la limite communale de Tourcoing jusqu'au boulevard d'Armentières ;
+
+- boulevard d'Armentières (n° 1 au n° 75 inclus) en limite de parcelles jusqu'à la rue du Capitaine-Aubert ;
+
+- rue du Capitaine-Aubert (côté pair) en limite de parcelles : du boulevard d'Armentières à la limite communale de Roubaix ;
+
+- rue du Fresnoy : de la limite communale de Tourcoing jusqu'à l'angle de la rue du Fresnoy et du boulevard Constantin-Descat (uniquement côté impair) ;
+
+- boulevard Constantin-Descat : de la rue du Fresnoy à la limite communale de Tourcoing ;
+
+- avenue Boileau (jonction) : de la limite communale de Roubaix au quai de Boulogne ;
+
+- quai de Boulogne jusqu'à la voie ferrée ;
+
+- voie ferrée : du quai de Boulogne au quai de Gravelines ;
+
+- quai de Gravelines : de la voie ferrée (limite sud des parcelles NP 67 et 61, limite ouest de la parcelle NP 61 jusqu'à la limite communale de Tourcoing) au boulevard de la République ;
+
+- boulevard de la République : du quai de Gravelines à la limite communale de Roubaix ;
+
+- boulevard Gambetta : limite ouest des parcelles BI 503 et 457 ;
+
+- limite Nord de la parcelle BI 457 jusqu'à la limite de Roubaix ;
+
+- limite extérieure (sud) des parcelles NP 70 et NP 71 jusqu'à la limite communale de Roubaix ;
+
+- limite nord de la parcelle NP 67 jusqu'à la voie ferrée en limite communale de Tourcoing ;
+
+- voie ferrée jusqu'à la rue de Roubaix ;
+
+- rue de Roubaix côté impair jusqu'à la limite nord de la parcelle BM 0040 (incluse) ;
+
+- limite ouest de la parcelle MI 49 jusqu'à l'avenue Lefrançois ;
+
+- avenue Lefrançois du n° 10 à l'avenue du Maréchal-Joffre.
 
 Tourcoing : La Bourgogne
 

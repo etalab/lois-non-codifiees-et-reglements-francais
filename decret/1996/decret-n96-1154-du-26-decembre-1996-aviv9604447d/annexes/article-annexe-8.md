@@ -10,7 +10,9 @@ Partie principale :
 
 - rue Félicien-Wautelet jusqu'à la rue Carnot ;
 
-- avenue Carnot jusqu'à la rue des Pivoines ;
+- avenue Carnot jusqu'à la limite nord de la parcelle 436 incluse (carrefour desservant le parc d'activités du Val-de-Vence) ;
+
+- parcelles section CY 288, 289, 331, 332, 333, 334, 343, 345, 347, 350, 436 et 519 incluses. Limite sud parcelle 342 incluse (carrefour desservant le parc d'activités du Val-de-Vence) jusqu'à l'avenue Carnot, puis la rue des Pivoines ;
 
 - rue des Pivoines jusqu'au boulevard Louis-Aragon ;
 

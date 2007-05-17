@@ -1,6 +1,6 @@
 # Article ANNEXE 12
 
-Dreux-Sainte-Gemme-Moronval (département d'Eure-et-Loir): plateau Est: Chamards, Croix-Tiénac, Lièvre-d'Or, Le Moulec, Haricot, Feilleuses
+Dreux-Sainte-Gemme-Moronval (département d'Eure-et-Loir): plateau Est : Chamards, Croix-Tiénac, Lièvre-d'Or, Le Moulec, Haricot, Feilleuses
 
 -	limite de la parcelle section AO n° 93 (collège de Comteville inclus) jusqu'à la limite d'emprise de la future voie de contournement (commune de Sainte-Gemme-Moronval) ;
 
@@ -54,7 +54,21 @@ Dreux-Sainte-Gemme-Moronval (département d'Eure-et-Loir): plateau Est: Chamards
 
 -	traversée de la voie de contournement jusqu'à la voie S.N.C.F. ;
 
--	voie S.N.C.F. jusqu'au chemin de Comteville ;
+- voie SNCF jusqu'à la parcelle section AO n° 5 ;
+
+- limite de la parcelle section AO n° 5 (incluse) jusqu'à la RN 12 Paris-Brest ;
+
+- traversée de la RN 12 Paris-Brest ;
+
+- limite de la parcelle section CK n° 40 (incluse) jusqu'à la parcelle section CK n° 42 ;
+
+- limite de la parcelle section CK n° 42 (incluse) de la voie SNCF jusqu'à la limite communale (Dreux/Chérisy) ;
+
+- limite communale (Dreux/Chérisy) jusqu'à la RN 12 Paris-Brest ;
+
+- RN 12 Paris-Brest jusqu'à la parcelle section AO n° 5 ;
+
+- limite de la parcelle section AO n° 5 (incluse) jusqu'au chemin de Comteville ;
 
 -	chemin de Comteville jusqu'à la rue du Docteur-Durand ;
 

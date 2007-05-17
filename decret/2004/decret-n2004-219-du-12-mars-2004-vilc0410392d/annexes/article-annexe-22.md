@@ -28,9 +28,9 @@ Limite nord de la parcelle I 49.
 
 Boulevard Edouard-Baratier jusqu'au boulevard Anatole-de-la-Forge.
 
-Boulevard Anatole-de-la-Forge jusqu'au chemin de Sainte-Marthe-au-Merlan (ex-rue Alexandre-Ansaldi).
+Boulevard Anatole-de-la-Forge, puis le chemin de Sainte-Marthe au Merlan (ex. rue Alexandre-Ansaldi) jusqu'à la limite sud de la parcelle section n° 83.
 
-Limite sud des parcelles A 82 et A 83 (quartier Saint-Barthélémy), puis limites est et sud des parcelles A 76 et A 84 jusqu'à l'avenue Raimu.
+Parcelle section A n° 57, quartier Saint-Barthélemy ; parcelles section A n°s 47, 79, 80, 118, 126 et 127, quartier Malpassé ; parcelles section L n°s 13, 22, 33, 35 et 36, quartier Malpassé ; puis limite sud des parcelles section A n°s 83 et 82, quartier Saint-Barthélemy et les limites est et sud des parcelles section A n°s 84 et 76, quartier Saint-Barthélemy jusqu'à l'avenue Raimu.
 
 Avenue Raimu du numéro 226 inclus jusqu'à l'avenue Salvador-Allende.
 
@@ -66,19 +66,19 @@ Rue Lavie jusqu'au boulevard des Peintures.
 
 Boulevard des Peintures jusqu'au boulevard Danielle-Casanova, y compris les parcelles section I n°s 4, 5, 6, 7, 8, 9, 10, 11, 12, 33, 14, 15 et 16 (quartier du Canet).
 
-Boulevard Danielle-Casanova jusqu'au boulevard de la Maison-Blanche, y compris les parcelles section K n°s 23, 24, 25, 26, 42, 43, 44, 28, 29, 41.
+Boulevard Danielle-Casanova jusqu'au boulevard de la Maison Blanche, y compris les parcelles section K n°s 23, 24, 25, 26, 28, 29, 41, 42, 43, 44 et 114 A, quartier Canet.
 
 Boulevard de la Maison-Blanche jusqu'au boulevard du Capitaine-Gèze.
 
 Boulevard du Capitaine-Gèze limité à la chaussée, à l'exclusion des parcelles riveraines depuis le boulevard de la Maison-Blanche jusqu'à la rue de Lyon.
 
-Avenue du Cap-Pinède de la rue de Lyon jusqu'au chemin de la Madrague-Ville.
+Avenue du Cap-Pinède, de la rue de Lyon jusqu'au chemin de la Madrague-Ville, puis chemin de la Madrague-Ville, limité à la chaussée, à l'exclusion des parcelles riveraines depuis l'avenue du Cap-Pinède jusqu'à la rue André-Allar, puis y compris la parcelle section I n° 10, quartier les Crottes.
 
-Chemin de la Madrague-Ville jusqu'à la traverse Mardirossian, y compris les parcelles section B n°s 63, 64, 95 et 96 (quartier d'Arenc) et les parcelles section L n°s 1, 88 et 90 (quartier de La Cabucelle).
+Chemin de la Madrague-Ville jusqu'à la traverse Mardirossian, y compris les parcelles section B n°s 14, 63, 64, 95 et 96, quartier Arenc, et les parcelles section L n°s 1, 8, 88 et 90, quartier Cabucelle.
 
 Traverse Mardirossian jusqu'à la rue de Lyon.
 
-Rue de Lyon jusqu'au boulevard du Capitaine-Gèze, y compris les parcelles section H n°s 147, 35 à 43 (quartier de la Cabucelle).
+Rue de Lyon jusqu'au boulevard du Capitaine-Gèze, y compris les parcelles section H ns° 35 à 43, 146 et 147, quartier Cabucelle.
 
 Boulevard du Capitaine-Gèze limité à la chaussée, à l'exclusion des parcelles riveraines depuis la rue de Lyon jusqu'à l'autoroute Nord.
 

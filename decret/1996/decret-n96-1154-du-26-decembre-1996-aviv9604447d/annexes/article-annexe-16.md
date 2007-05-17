@@ -30,13 +30,47 @@ Mont-Gaillard, La Forêt (Bois-de-Bléville), Mare-Rouge
 
 - limites Sud et Ouest de la parcelle section TE n° 66 ;
 
-- limites Sud et Ouest des parcelles section TE n°s 178 et 180 ;
+- limite sud des parcelles section TE n° 214, TE n° 212, TE n° 211 (ex-parcelle section TE n° 66) ;
 
-- chemin rural n° 43 depuis la rue Irène-Joliot-Curie jusqu'à la limite Est de la parcelle section TE n° 178 ;
+- limites est et sud de la parcelle section TE n° 193 ;
 
-- limite Est de la parcelle section TE n° 178 ;
+- traversée de la rue Irène-Joliot-Curie ;
 
-- limites Ouest et Nord de la parcelle section TE n° 196 ;
+- limite sud de la parcelle section TD n° 18, sud et ouest de la parcelle section TD n° 17, ouest de la parcelle section TD n° 16 jusqu'à la rue des Moteaux ;
+
+- rue des Moteaux jusqu'à la rue Irène-Joliot-Curie ;
+
+- traversée de la rue Irène-Joliot-Curie ;
+
+- limite ouest de la parcelle section TE n° 178 ;
+
+- limites sud et ouest de la parcelle section TE n° 180 ;
+
+- rue Irène-Joliot-Curie ;
+
+- limite sud de la parcelle section TB n° 40 ;
+
+- traversée du chemin rural n° 18 ;
+
+- limites sud et ouest de la parcelle section TB n° 99 ;
+
+- limites ouest et nord de la parcelle section TB n° 78 ;
+
+- limite ouest des parcelles section TB n° 39 et TB n° 38 ;
+
+- limite nord des parcelles section TB n° 38 et TB n° 36 ;
+
+- traversée du chemin rural n° 18 ;
+
+- limite nord de la parcelle section TB n° 35 ;
+
+- traversée de la rue Irène-Joliot-Curie ;
+
+- limite nord des parcelles section TE n° 184, TE n° 185, TE n° 186 ;
+
+- limites nord et est de la parcelle section TE n° 195 ;
+
+- limite nord de la parcelle section TE n° 210 (ex-parcelle section TE n° 196) ;
 
 - rue de la Bigne-à-Fosse depuis le prolongement de la limite Nord de la parcelle TE n° 196 jusqu'au prolongement de la limite Sud de la parcelle section TE n° 4 (centre médical sis 151, rue de la Bigne-à-Fosse)
 

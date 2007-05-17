@@ -92,10 +92,20 @@ Extension 3 :
 
 3) Kilomètre Delta :
 
+- chemin du Mas-de-Devèze (limite nord-est de la parcelle section KI n° 331 incluse) jusqu'à l'avenue Amédée-Bollée ;
+
 -	de l'avenue Amédée-Bollé à la rue Rudolf-Diesel ;
 
 -	de la rue Rudolf-Diesel jusqu'au chemin du Perdigal ;
 
--	du chemin du Perdigal au chemin de Font-Granado.
+-	du chemin du Perdigal au chemin de Font-Granado ;- chemin du Font-Granado (incluant toutes les parcelles intérieures) jusqu'au chemin du Moulin-Vedel (limite sud-ouest de la parcelle section KI n° 280 incluse) ;
+
+- chemin du Moulin-Vedel jusqu'à la limite nord-ouest de la parcelle section KI n° 326 (incluse) ;
+
+- limite nord de la parcelle section KI n° 326 jusqu'au chemin du Mas-de-Cheylon ;
+
+- chemin du Mas-de-Cheylon (direction nord) jusqu'au chemin du Mas-Coquillard (limite nord-ouest de la parcelle section KI n° 328, incluse) ;
+
+- chemin du Mas-Coquillard jusqu'au chemin du Mas-de-Devèze.
 
 (Carte annexée plan cadastral 30.0.189 Nîmes section KI.)

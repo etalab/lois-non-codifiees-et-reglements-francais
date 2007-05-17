@@ -6,15 +6,31 @@ Mulhouse (département du Haut-Rhin) : Les Coteaux
 
 - chemin rural jusqu'à la limite communale de Didenheim ;
 
-- limite communale de Didenheim jusqu'au chemin de la Bannière ;
+Commune de Didenheim
 
-- chemin de la Bannière jusqu'à la limite Ouest de la parcelle Ouest de la parcelle IC n° 39 (limite communale de Didenheim) ;
+- limite communale de Didenheim jusqu'à la limite nord-est de la parcelle n° 153 incluse ;
 
-- limite communale de Didenheim jusqu'à la limite communale de Morschwiller-le-Bas ;
+- limite est de la parcelle 22 n° 153 incluse ;
 
-- limite communale de Morschwiller-le-Bas à l'intersection avec le chemin du Pont au chemin de la Croix puis couper en diagonale au travers des parcelles section IC n°s 3, 1, 2, 94 jusqu'au chemin de la Croix (conformément au plan joint) ;
+- limites nord de la parcelle 22 n°s 151 et 152 incluses ;
 
-- chemin de la Croix jusqu'à la limite communale de Morschwiller-le-Bas ;
+- limite est de la parcelle 22 n° 152 incluse ;
+
+- limite sud de la parcelle 22 n° 152 incluse, puis traversée du chemin rural dit Kinzingerweg jusqu'à la limite nord-est de la parcelle 22 n° 24 incluse ;
+
+- limites est, sud et ouest de la parcelle 22 n° 24 incluse, puis traversée du chemin rural dit Kinzingerweg jusqu'à la limite sud de la parcelle 22 n° 17 incluse ;
+
+- limite sud des parcelles 22 n°s 17, 16, 15, 14 et 162 jusqu'à la limite est de la voie rapide ouest ;
+
+- de la limite est de la voie rapide ouest jusqu'à la limite communale de Morschwiller-le-Bas.
+
+Commune de Morschwiller-le-Bas
+
+- limites ouest des parcelles 20 n°s 132, 131 et 130 incluses ;
+
+- limite nord des parcelles 20 n°s 130, 129, 128, 127, 126, 125 incluses jusqu'à la limite nord-est de la parcelle 20 n° 125 incluse ;
+
+- limite est de la parcelle 20 n° 125 puis limite nord de la parcelle 20 n° 139 incluse jusqu'à la limite communale de Mulhouse ;
 
 - limite communale de Morschwiller-le-Bas jusqu'à la rue de Belfort ;
 

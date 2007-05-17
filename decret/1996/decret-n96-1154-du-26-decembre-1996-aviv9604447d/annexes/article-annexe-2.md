@@ -44,7 +44,7 @@ Les Résidences
 
 - rue du Faubourg-de-Lyon jusqu'à la limite communale de Bavilliers ;
 
-- limite communale de Bavilliers jusqu'à la parcelle section BR n° 48, en incluant la totalité de l'emprise du lycée professionnel industriel ;
+- limite communale de Bavilliers jusqu'à la parcelle section BR n°  48, en incluant la totalité de l'emprise du lycée professionnel  industriel ;
 
 - limite Ouest de la parcelle section BR n° 48 jusqu'à la rue de Vienne ;
 
@@ -66,6 +66,32 @@ Les Résidences
 
 - rue Louis-Marchal jusqu'au boulevard Anatole-France (parcelle section BT n° 46 incluse) ;
 
-- parcelle section BT n° 46 jusqu'au boulevard Anatole-France ;
+- boulevard Anatole-France jusqu'à la rue Ernest-Thierry-Mieg avec traversée de la parcelle section BT n° 84 ;
 
-- à partir du boulevard Anatole-France, se référer au plan n° 1 ci-joint.
+- rue Thierry-Mieg jusqu'à la rue Branly puis limites est et nord de la parcelle section BX 9 (non incluse) ;
+
+- avenue du Maréchal-Juin, limites ouest des parcelles section BX n°s 10, 70, 22, 23 ;
+
+- avenue des Sciences-et-de-l'Industrie (voirie de liaison) jusqu'au carrefour avec la rue des Commandos-d'Afrique (à Belfort) et de la rue des Ailettes (à Cravanche, voie souterraine) ;
+
+- parcelles section BY n°s 10, 11, 13 à Belfort incluses et parcelle section A n° 1 513 à Cravanche ;
+
+- parcelles section BY n°s 15 et 16 incluses ;
+
+- rue de la Découverte, côté pair, jusqu'à l'avenue des Sciences-et-de-l'Industrie ;
+
+- avenue des Sciences-et-de-l'Industrie (voirie de liaison) ;
+
+- avenue des Trois-Chênes, côté impair, limites de la parcelle section BX n° 23 incluse ;
+
+- avenue du Maréchal-Juin, limite ouest de la parcelle section BX n° 22 (exclue) jusqu'à la rue Maurice-et-Louis-Ducs-de-Broglie ;
+
+- limite Sud des parcelles section BX n°s 22, 25, 24, 17, 18 (exclues) jusqu'à l'avenue Louis-Lacaille ;
+
+- avenue Louis-Lacaille jusqu'à la rue Maurice-et-Louis-Ducs-de-Broglie ;
+
+- rue Maurice-et-Louis-Ducs-de-Broglie (côté pair) jusqu'à la limite nord-ouest de l'Etang (parcelle section BX n° 70) puis limite ouest de l'Etang (parcelle section BX n° 70) jusqu'à la rue Belin ;
+
+- rue de l'Etang jusqu'à la limite nord-est de la parcelle BX n° 36 (incluse) ;
+
+- limite est des parcelles section BX n°s 36, 68, 55 (incluses) jusqu'à la rue Thierrry-Mieg.

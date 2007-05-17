@@ -8,7 +8,7 @@ Nice/Saint-André
 
 - limite de la commune jusqu'à la rue Guiglionda-de-Sainte-Agathe (usine d'incinération exclue ; l'ensemble HLM Le Manoir situé sur la commune de Saint-André cadastré section AR n° 96 est inclus) ;
 
-- rue Guiglionda-de-Saint-Agathe jusqu'à la rue Coste ;
+- puis rue Eugène-Coste parcelles section AE n° 99 comprise et AE n° 100 incluse, parcelle AE n° 98 et n° 97 exclue (commune de Saint-André) ;
 
 - rue Eugène-Coste jusqu'à l'avenue du Général-Olry ;
 
@@ -32,4 +32,6 @@ Nice/Saint-André
 
 - le Paillon (torrent) jusqu'au chemin rural n° 45 ;
 
-- (chemin rural n° 45).
+- boulevard de l'Ariane (uniquement axe central), puis pont du Lion (uniquement axe central), route de Turin (uniquement axe central), parcelles section HM n° 44, n° 45, n° 105, n° 106, n° 42, n° 41, n° 47, n° 163, n° 164, n° 165, n° 166, n° 167, n° 168 incluses ;
+
+- le long de la route de Turin (uniquement axe central) parcelles section HY n°s 60, 51 incluses et parcelle section IO n° 24 incluse (à hauteur du 50, boulevard Verany).

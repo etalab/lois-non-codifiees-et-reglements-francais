@@ -10,13 +10,31 @@ Sarcelles :
 
 -	limite communale avec Montmagny jusqu'à la limite communale avec Groslay ;
 
-- limite communale avec Groslay jusqu'aux limites nord et ouest des parcelles section BD n°s 122, 118, 109, 110, 112, 113, 105, 104, 103, 204, 102 et 581 ;
+- chemin rural dit des Postes du nord de la limite de l'emprise des lignes électriques HT en limite nord de Groslay à la parcelle section BD n° 818 ;
 
-- limite nord des parcelles section BD n°s 581, 583, 584, 570, 786 jusqu'à l'avenue Charles-Péguy ;
+- les fonds de parcelles section BD n°s 818, 820, 822, 97, 83, 84, 842, 840, 835, 837, 78 jusqu'au chemin rural dit des Postes (renommée rue Claude-Chappe) ;
 
-- avenue Charles-Péguy, ensemble des parcelles situées de chaque côté de la rue (y compris les parcelles section BD n°s 698, 711, 697, 710, 696, 688, 653, 785, 690, 782, 784, 783, 694, 693) jusqu'à l'avenue Koenig ;
+- le long de l'avenue de la Division-Leclerc de la parcelle section BD n° 62 à la parcelle section BD n° 587 ;
 
--	avenue Koenig, parcelles section AW n°s 16, 31, 32 et 33 ;
+- les fonds de parcelles section BD n°s 587, 853, 32, 849, 847, 845, 41 ;
+
+- le long du chemin rural des Cailloutis-de-Groslay de la parcelle section BD n° 41 à la parcelle section BD n° 42 ;
+
+- des fonds de parcelles section BD n°s 831, 829, 826, 828 jusqu'au chemin rural des Cailloutis-de-Groslay ;
+
+- de la parcelle section BD n° 828 jusqu'à la parcelle section BD n° 790 au nord ;
+
+- route de Groslay numéros impairs de la limite communale de Groslay jusqu'à la limite ouest de la RD 316 ;
+
+- limite ouest de la RD 316 : fonds des parcelles section BE n°s 1, 410, 3, 404, 402, 397, 395, 398, 393, 392, 391, 389, 387, 385, 18, 19, 187, 21 ;
+
+- fonds des parcelles section BE n°s 189, 187, 195, 193, 191, 197, 196, 201, 205, 228, 230, 235, 242, 251, 247, 475, 477, 470, 480, 481, 484, 483 ;
+
+- du fond des parcelles section BE n°s 486, 484, 300, 301 ;
+
+- du fond des parcelles section BE n°s 279, 276, 274, 272, 181, 179, 178, 177, 449, 446, 343, 347, 348 ;
+
+- avenue Paul-Langevin, côté numéros impairs (à partir de la parcelle section BD n° 348 jusqu'au n° 1 ;
 
 - avenue Koenig, ensemble des parcelles situées de chaque côté de la rue (y compris les parcelles section AX n°s 320, 321, 323 et 216) à partir du boulevard Carpeaux jusqu'à la limite communale avec Garges-lès-Gonesse ;
 
@@ -46,9 +64,13 @@ Garges-lès-Gonesse :
 
 -	rue Philibert-Delorme, fonds de parcelles section ZI n°s 478, 479, 480 et 486 jusqu'à l'avenue de la Division-Leclerc ;
 
--	avenue de la Division-Leclerc jusqu'à la limite Est du collège H.-Wallon (parcelle Z3 n° 1842) jusqu'à la rue du Tiers-Pot ;
+- chemin rural n° 16 ;
 
--	rue du Tiers-Pot jusqu'à la rue de l'Argentière ;
+- limite entre les parcelles AS n° 2 et AS n° 81 ;
+
+- ligne droite de l'angle nord-est de la parcelle AS n° 2 et de l'angle nord est de la parcelle AS n° 67 (anciennement AC 129) ;
+
+- fonds de parcelles section AC n°s 129, 76, 74, 73, 72, 71, 70, 69, 68, 257, 258, 259, 66, 65, 64, 63, 62, 209, 143, 111, 109, 107, 105, 103, 147, 141 et 150 jusqu'au CD 84 ;
 
 -	rue de l'Argentière jusqu'à la rue des Doucettes ;
 
@@ -56,6 +78,6 @@ Garges-lès-Gonesse :
 
 -	de la limite Sud-Ouest du lycée Arthur-Rimbaud (parcelle AL n° 654) jusqu'à l'avenue de la Division-Leclerc ;
 
--	avenue de la Division-Leclerc jusqu'à la limite communale avec Sarcelles ;
+- avenue de la Division-Leclerc jusqu'à la limite est du collège H.-Wallon (parcelle Z3 n° 1842) jusqu'à la rue du Tiers-Pot ;
 
 -	(limite communale avec Sarcelles).

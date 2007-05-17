@@ -22,7 +22,27 @@ Lille-Sud, Faubourg-de-Béthune, Moulins
 
 - rue Gustave-Courbet jusqu'au chemin des Postes ;
 
-- chemin des Postes (commune de Loos-lès-Lille) jusqu'à la rue du Capitaine-Michel ;
+- chemin des Postes (commune de Loos-lès-Lille) jusqu'à la limite nord de la parcelle AO 299 ;
+
+- limite nord de la parcelle AO 299 jusqu'à la rue Paul-Doumer ;
+
+- rue Paul-Doumer jusqu'à la limite nord de la parcelle AO 22 ;
+
+- limite nord de la parcelle AO 22 jusqu'à la parcelle AZ 75 incluse ;
+
+- limite nord des parcelles AZ 77 et AZ 182 ;
+
+- limite ouest de la parcelle AZ 182 jusqu'à la rue Ambroise-Paré ;
+
+- rue Ambroise-Paré jusqu'à la limite ouest de la parcelle AT 07 ;
+
+- limite ouest de la parcelle AT 07 jusqu'à la parcelle AT 04 incluse ;
+
+- limite est de la parcelle AT 05 jusqu'à la limite sud de la parcelle AT 77 ;
+
+- limite sud de la parcelle AT 77 jusqu'à la rue Paul-Doumer ;
+
+- rue Paul-Doumer jusqu'à la rue du Capitaine-Michel.
 
 - rue du Capitaine-Michel (commune de Loos-lès-Lille) jusqu'à la limite communale ;
 

@@ -16,11 +16,15 @@ Valence-le-Haut (Fonbarlette, Le Plan)
 
 - de la limite Nord de la parcelle section AP n° 338 suivre la limite des sections cadastrales DW/AP jusqu'au chemin départemental n° 119 de Valence à Saint-Vincent-la-Commanderie ;
 
-- du chemin départemental n° 119 (de Valence à Saint-Vincent-la-Commanderie) jusqu'à la limite Est de la parcelle section EL n° 207 ;
+- du chemin départemental n° 119 (de Valence à Saint-Vincent-la-Commanderie) jusqu'à la limite est des parcelles de la section ZN n°s 86 et 84 ;
 
-- de la limite Est de la parcelle section EL n° 207 jusqu'à la limite Sud des parcelles EL n°s 207, 223, 217 et 338 ;
+- limite sud des parcelles section ZN n°s 84, EL 26 et EL 25, puis limites ouest de la parcelle section EL n° 25, puis limites sud des parcelles section ZN n° 84 et EL n° 12, puis limite ouest de la parcelle section EL n° 12, puis limite sud des parcelles section EL n°s 431, 432, 436, 437, 419, 418, 417, puis limite est de la parcelle section EL n° 422, puis limite sud de la parcelle EL n° 422, puis limite est des parcelles section EL n°s 426, 425, 205 ;
 
-- limite Sud de la parcelle section EL n° 338 jusqu'aux limites Est des parcelles section EL n°s 208, 204 et 205 puis suivre la limite cadastrale des sections AW/EL jusqu'à la limite Sud de la parcelle section EL n° 191
+- voie communale 15 (chemin de Thabor),
+
+- limite est des parcelles section AW n°s 209, 208, puis limites nord, est, puis sud de la parcelle section EL n° 383 ;
+
+- suivre la limite cadastrale des sections AW/EL jusqu'à la limite sud de la parcelle section EL n° 191 ;
 
 - limite Sud de la parcelle section EL n° 191 jusqu'à la limite Ouest de la parcelle EL n° 182 ;
 

@@ -66,9 +66,9 @@ Haut-Vernet : site 2
 
 -	rue Pierre-Vidal jusqu'à la rue de la Tour-de-Madeloc ;
 
--	rue de la Tour-de-Madeloc jusqu'à la limite Nord-Ouest de la parcelle section CV n° 224 ;
+- rue de la Tour-de-Madeloc jusqu'à la limite Nord-Ouest de la parcelle section CL n° 791 ;
 
--	limites Nord-Ouest et Nord de la parcelle section CV n° 224 jusqu'à la rue de la Sardane ;
+- limite nord-ouest et nord de la parcelle section CL n° 791, jusqu'à la rue de la Sardagne ;
 
 -	rue de la Sardane jusqu'à l'avenue de l'Aérodrome ;
 
@@ -94,21 +94,17 @@ Haut-Vernet : site 2
 
 -	limite Nord de la parcelle section CH n° 1 jusqu'à l'avenue de Salanque ;
 
--	avenue de Salanque jusqu'au chemin départemental n° 76 ;
+- avenue de la Salanque jusqu'à l'avenue de l'Industrie (RD 76) ;
 
-- chemin départemental n° 76 jusqu'à la limite sud de la parcelle section DE 428, puis longer la limite sud-ouest jusqu'à la limite nord-ouest de la parcelle section DE 428 ;
+- avenue de l'Industrie (RD 76) jusqu'à la limite nord de la parcelle section DE n° 428 ;
 
 - limite nord-ouest des parcelles section DE n°s 428, 432, 434, 436, 126 et 438 en incluant linéairement pour partie la parcelle n° 430, jusqu'à la limite est de la parcelle DE n° 438 ;
 
--	limite Est de la parcelle section DE n° 438 jusqu'au CD n° 76 ;
+- limite est de la parcelle section DE n° 438 jusqu'à l'avenue de l'Industrie (RD 76) ;
 
--	chemin départemental n° 76 jusqu'à la limite Nord-Est de la section DH n° 452 ;
+- avenue de l'Industrie (RD 76) jusqu'à la limite nord de la parcelle section DH n° 453 ;
 
--	limite Nord-Est de la parcelle section DH n° 452 jusqu'à la limite Ouest de la parcelle section DH n° 396 ;
-
--	limite Ouest de la parcelle section DH n° 396 jusqu'à la limite Nord de la parcelle section DH n° 32 ;
-
--	limite Nord de la parcelle section DH n° 32 à la limite Ouest des parcelles section DH n°s 450, 73, 90, 88, 87 et 85 ;
+- limite nord de la parcelle section DH n° 453, limite nord de la parcelle section DH 638, jusqu'à la limite ouest des parcelles section DH n°s 643, 73, 90, 88, 87, 85 ;
 
 -	limite Ouest de la parcelle DH n° 85 jusqu'à la limite Nord des parcelles section DH n°s 85, 86, 410, 101, 102 et 114 ;
 
@@ -116,11 +112,19 @@ Haut-Vernet : site 2
 
 -	limite Nord de la parcelle section DH n° 115 jusqu'au canal du Vernet-et-Pia ;
 
-- 	canal du Vernet-et-Pia, limite Sud de la parcelle section DH n° 115,  limites Est et Sud de la parcelle DH n° 123 et limites Sud et Est des  parcelles section DH n°s 123, 124 et 121 jusqu'au chemin départemental  d'Estagel à la R.N. 9 c ;
+- canal du Vernet-et-Pia, limites est et sud de la parcelle section DH n° 647, limites sud des parcelles section DH n°s 655, 652, jusqu'à l'avenue de la Salanque (RD 1) ;
 
--	chemin départemental n° 1 d'Estagel à la R.N. n° 9 c jusqu'à la limite Est de la parcelle section DI n° 241 ;
+- avenue de la Salanque (RD 1) puis traversée de la voie jusqu'à la limite nord de la parcelle section DI n° 57 incluse ;
 
-- 	limite Est de la section DI n° 241, limites Sud et Ouest de la parcelle  section DI n° 241 jusqu'aux limites Sud des parcelles section DI n°s  99, 175, 176, 105, 106 et CI 32, 33, 43, 44, 169, 170, 171, 172, 203,  204, 74, 75, 207, 227, 219 jusqu'à la rue Charles-Bordes ;
+- limite est de la parcelle section DI n° 57 incluse, puis traversée du chemin de la Poudrière jusqu'à la limite nord-est de la parcelle DH n° 191 ;
+
+- limites est des parcelles sections DH n°s 191, 192, 203, 205, 206, 334 incluses, limite sud des parcelles section DH 253, 252, 209, 228, 521, 425, 427 incluses, jusqu'au chemin de la Poudrière (VC 101) ;
+
+- chemin de la Poudrière, parcelle section DI n° 058 exclue, jusqu'à la parcelle section DH n° 195 ;
+
+- traversée du chemin de la Poudrière jusqu'à la parcelle DI n° 57 incluse ;
+
+- limite sud des parcelles section DI n°s 251, 244, 246, 99, 175, 176, 105, 106, CI 32, 33, 43, 44, 169, 170, 171, 172, 203, 204, 74, 75, 207, 227, 219 incluses, jusqu'à la rue Charles-Bordes ;
 
 -	rue Charles-Bordes jusqu'à la rue Paul-Gauguin ;
 

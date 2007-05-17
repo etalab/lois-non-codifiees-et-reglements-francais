@@ -52,7 +52,9 @@ Partie principale :
 
 - rue Paul-Margueritat jusqu'à l'avenue du Général-de-Gaulle ;
 
-- avenue du Général-de-Gaulle jusqu'à la rue Jean-Moulin ;
+- avenue du Général-de-Gaulle jusqu'à la limite sud de la parcelle section BC n° 346 ;
+
+- limite sud de la parcelle section BC n° 346, limite sud puis ouest de la parcelle section BC n° 394 (y compris la parcelle BC n° 395) jusqu'à la rue Jean-Moulin ;
 
 - rue Jean-Moulin jusqu'à la rue de la Sente-aux-Loups ;
 
@@ -72,19 +74,35 @@ Partie principale :
 
 - limite Sud des parcelles section BE n° 72 et 71 jusqu'à la rue Félix-Chédin ;
 
-- rue Félix-Chédin jusqu'à la limite Sud de la parcelle section BE n° 271 ;
+- rue Félix-Chédin jusqu'à la limite sud de la parcelle section HS n° 231 (parcelles section HS n° 7 et n° 8 exclues) ;
 
-- limite Sud des parcelles section BE n° 271 et 270 jusqu'à la rivière le Moulon (limite communale) ;
+- limite sud des parcelles section HS n° 231 et n° 9 jusqu'à la rivière du Moulon (limite communale) ;
 
-- rivière le Moulon jusqu'à la limite Nord de la parcelle BE n° 1 ;
+- rivière du Moulon jusqu'à la limite nord-ouest de la parcelle section BD n° 272 ;
 
-- limite Nord de la parcelle section  BE n° 1 jusqu'à la rue Félix-Chédin ;
+- limite nord-ouest puis nord de la parcelle section BD n° 272 jusqu'à la rue du Moulon ;
 
-- rue Félix-Chédin jusqu'à la parcelle section BD no 217 ;
+- rue du Moulon jusqu'au chemin rural dit de la Moulonnière ;
 
-- parcelle BD no 217 jusqu'à la rue Félix-Chédin ;
+- limite sud-ouest des parcelles section BD n° 354, n° 368 et n° 369 jusqu'à la limite sud-est de la parcelle section BD n° 256 (parcelles section BD n° 353 et n° 355 exclues) ;
 
-- rue Félix-Chédin jusqu'à la parcelle section BD no 50 ;
+- limite sud-est de la parcelle section BD n° 256 jusqu'à la limite sud-ouest de la parcelle section AR n° 337 ;
+
+- parcelle section AR n° 337 ;
+
+- limite sud de la parcelle section AR n° 337 et n° 446 (exclue) jusqu'à la limite nord-ouest de la parcelle BD n° 369 (exclue) ;
+
+- limite nord-ouest de la parcelle section BD n° 369 jusqu'au droit de la limite nord-est de la parcelle section BD n° 368 ;
+
+- limite nord-est de la parcelle section BD n° 368 jusqu'à la rivière du Moulon ;
+
+- rivière du Moulon jusqu'à la limite sud-ouest des parcelles section BD n° 336 et n° 335 (exclues) ;
+
+- limite sud-ouest de la parcelle section BD n° 335 jusqu'au chemin rural dit de la Moulonnière ;
+
+- chemin rural dit de la Moulonnière jusqu'à la rue du Moulon ;
+
+- rue du Moulon jusqu'à la limite nord de la parcelle section BD n° 217 ;
 
 - parcelle section BD no 50 jusqu'à la rue Félix-Chédin ;
 
@@ -126,4 +144,4 @@ Extension n° 2 :
 
 Extension n° 3 - Site de Port-Sec Nord :
 
-- parcelle section BN n° 21 pour partie, conformément au plan n° 1 joint (extrait planche section BN du cadastre).
+- parcelle section BN n° 21 pour partie, conformément au plan n° 1 joint (extrait planche section BN du cadastre) et parcelle section BN n° 107.

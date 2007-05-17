@@ -4,15 +4,33 @@ Calais (département du Pas-de-Calais) : Beau-Marais
 
 - avenue Toumaniantz jusqu'à la rocade Est ;
 
-- rocade est jusqu'au carrefour des rues Costes-et-Bellonte et Louis-Bréguet ;
+- de la rocade est jusqu'à la parcelle section BY n° 247 exclue ;
 
-- rue Louis-Bréguet du carrefour avec la rue Costes-et-Bellonte jusqu'à la limite est de la parcelle section BY n° 237 incluse ;
+- de la parcelle section BY n° 247 exclue jusqu'au chemin rural dit  chemin de Halage  ;
 
-- limite est de la parcelle section BY n° 237 jusqu'à la limite nord de la parcelle section BY n° 120 ;
+- du chemin rural dit  chemin de Halage  jusqu'à la limite est de la parcelle section BY n° 430 incluse (limite communale) ;
 
-- limite nord des parcelles section BY n°s 120, 95 et 85 jusqu'à la limite est de la parcelle section BY n° 85 ;
+- la limite est de la parcelle section BY n° 430 incluse (limite communale) jusqu'à la limite sud de la parcelle section BY n° 429 incluse ;
 
-- limite est des parcelles section BY n°s 85 et 14 jusqu'à la rue M.-Doret ;
+- de la limite sud de la parcelle section BY n° 429 incluse jusqu'à la limite sud-est de la parcelle BY n° 427 incluse ;
+
+- de la limite sud-est de la parcelle section BY n° 427 incluse jusqu'à la limite sud des parcelles section BY n°s 428, 284 ;
+
+- de la limite sud des parcelles section BY n°s 428, 284 jusqu'à la rue Costes-et-Bellonte, parcelle section BY n° 283 exclue ;
+
+- de la rue Costes-et-Bellonte, parcelle section BY n° 283 exclue jusqu'à l'intersection avec la rue Louis-Bréguet au niveau des parcelles section BY n°s 231 et 201 ;
+
+- de l'intersection de la rue Costes-et-Bellonte avec la rue Louis-Bréguet au niveau des parcelles section BY n°s 231 et 201 jusqu'à la limite nord de la parcelle section BY n° 347 exclue ;
+
+- de la limite nord de la parcelle section BY n° 347 exclue jusqu'à la limite nord de la parcelle section BY n° 452 ;
+
+- la limite nord de la parcelle section BY n° 452 jusqu'à la rue Louis-Bréguet au niveau de la parcelle section BY n° 413 exclue ;
+
+- de la rue Louis-Bréguet au niveau de la parcelle section BY n° 413 exclue jusqu'à la limite nord-est de la parcelle section BY n° 415 incluse ;
+
+- de la limite nord-est de la parcelle section BY n° 415 incluse à la limite sud de la parcelle section BY n° 16 incluse ;
+
+- de la limite sud de la parcelle section BY n° 16 incluse à la rue Marcel-Doret.
 
 - rue M.-Doret jusqu'à la rocade Est ;
 

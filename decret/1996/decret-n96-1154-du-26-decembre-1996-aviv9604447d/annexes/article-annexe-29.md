@@ -28,7 +28,11 @@ Les Provinces
 
 - avenue de Bremerhaven jusqu'à l'avenue Henri-Poincaré ;
 
-- avenue Henri-Poincaré jusqu'à la parcelle section AN n° 120 ;
+- axe central de l'avenue Henri-Poincaré jusqu'à l'avenue de Bremerhaven ;
+
+- au droit de l'avenue Henri-Poincaré, parcelle section AI n° 340 avenue de Bremerhaven incluse ;
+
+- axe central de l'avenue Henri-Poincaré jusqu'à la limite sud-est de la parcelle section AN n° 120 ;
 
 - limite des parcelles section AN n°s 120 et 103 à l'avenue Etienne-Lecarpentier ;
 
@@ -82,7 +86,7 @@ Les Provinces
 
 - avenue de Normandie jusqu'au boulevard de l'Atlantique ;
 
-- boulevard de l'Atlantique jusqu'à la rue des Tanneries ;
+- boulevard de l'Atlantique jusqu'à la rue des Tanneries, parcelles section 383 AI n°s 581, 580, 578, 576, 575, 112, 577, 579, 511 et 98 incluses (de l'autre côté de la voie) ;
 
 - rue des Tanneries jusqu'à la voie Ouest du faisceau ferroviaire S.N.C.F. Cherbourg-Paris ;
 

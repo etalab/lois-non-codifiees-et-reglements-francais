@@ -52,7 +52,43 @@ Partie principale : quartiers Nord :
 
 - chemin de la Flaque jusqu'à la rue Emile-Lesot ;
 
-- rue Emile-Lesot jusqu'à la rue Terral (place Serge-Chrétien) ;
+- rue Emile-Lesot jusqu'à la rue Terral (place Serge-Chrétien) et parcelles section BS n° 108, 385 pour partie (treize segments).
+
+Description des treize segments de la parcelle 385 :
+
+2 premiers segments : limite Est de la parcelle BS n° 385 partie (confondus avec les 2 segments de la limite Ouest de la parcelle BS n° 108).
+
+Le 1er segment intersecte la limite de domaine public de la partie Sud de la rue Emile-Lesot, en face du numéro de voirie 125.
+
+Le 12e segment intersecte la limite de domaine public de la partie Sud de la rue Emile-Lesot.
+
+Le 13e segment est confondu avec une partie de la limite Nord de la parcelle BS n° 385 elle-même limite Sud de domaine public de la rue Emile-Lesot.
+
+Le gisement du 1er segment est de 202,3 grades et sa longueur est de 20,8 mètres.
+
+Le gisement du 2e segment est de 153,0 grades et sa longueur est de 19,6 mètres.
+
+Le gisement du 3e segment est de 290,5 grades et sa longueur est de 52,4 mètres.
+
+Le gisement du 4e segment est de 188,9 grades et sa longueur est de 21,2 mètres.
+
+Le gisement du 5e segment est de 288,7 grades et sa longueur est de 35,0 mètres.
+
+Le gisement du 6e segment est de 386,9 grades et sa longueur est de 24,8 mètres.
+
+Le gisement du 7e segment est de 317,4 grades et sa longueur est de 10,4 mètres.
+
+Le gisement du 8e segment est de 388,7 grades et sa longueur est de 30,4 mètres.
+
+Le gisement du 9e segment est de 87,5 grades et sa longueur est de 5,7 mètres.
+
+Le gisement du 10e segment est de 382,1 grades et sa longueur est de 1,1 mètre.
+
+Le gisement du 11e segment est de 85,6 grades et sa longueur est de 5,6 mètres.
+
+Le gisement du 12e segment est de 390,5 grades et sa longueur est de 10,6 mètres.
+
+Le gisement du 13e segment est de 100,6 grades et sa longueur est de 81,5 mètres.
 
 - rue Terral jusqu'à la rue Franklin-Roosevelt ;
 

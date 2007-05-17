@@ -18,7 +18,7 @@ Lormont :
 
 - limite de sections AD/AH à la rocade rive droite jusqu'à l'avenue de Paris ;
 
-- avenue de Paris jusqu'à la rue François-Villon ;
+- avenue de Paris jusqu'à la rue François-Villon, parcelles section AL n°s 178, 199 et 200 et section n°s AO 226, 228, 306, 307 et 308 au nord de l'allée René-Cassagne (incluses) ;
 
 - rue François-Villon jusqu'à la rue Edouard-Herriot ;
 
@@ -56,7 +56,13 @@ Cenon :
 
 Floirac :
 
-- chemin des Noyers jusqu'à la bretelle de sortie de la rocade (parcelle section AL 117 exclue) ;
+- chemin des Noyers jusqu'à la bretelle de la sortie de la rocade (limite est de la parcelle section AL n° 117) ;
+
+- déviation départementale 936 (direction est) jusqu'à l'angle nord-est de la parcelle section AM n° 38 (exclue) ;
+
+- parcelles section AM n°s 304, 258, 279, 281, 61, 251, 252, 128, 127, 132, 218, 247, 277, 274, 245 et 216 (toutes incluses) ;
+
+- déviation départementale 936 (direction ouest) jusqu'à la limite ouest de la parcelle section AM n° 208 (incluse) ;
 
 - limite des parcelles section AM 208, 211, 213, 20, 19, 18, 17, 82 jusqu'au chemin des Plateaux ;
 
@@ -126,9 +132,11 @@ Lormont :
 
 - rive de Garonne jusqu'aux limites de sections AV/AX ;
 
-- limite de section AV/AX jusqu'aux limites des parcelles section AV 125, 277, 54, 276, 258 ;
+- limite de sections AV / AX jusqu'aux limites nord et est de la parcelle AV n° 128 ;
 
-- limites des parcelles section AV 125, 277, 54, 276, 258, 44 jusqu'à la rue Gabriel-Dedieu ;
+- limite nord des parcelles AV n°s 277 et 60 ;
+
+- limite est des parcelles section AV n°s 60, 61, 258 et 44 jusqu'à la rue Gabriel-Dedieu ;
 
 - rue Gabriel-Dedieu jusqu'au chemin de fer de Paris à Bordeaux ;
 
@@ -150,7 +158,13 @@ Cenon :
 
 - limite des parcelles section AC 58 a et b, 7 a jusqu'à la rue du Président-Vincent-Auriol ;
 
-- limite de la rue du Président-Vincent-Auriol jusqu'au pont des Collines.
+- rue du Président-Vincent-Auriol et limite sud de la parcelle section BC n° 1 jusqu'à l'avenue Jean-Jaurès ;
+
+- avenue Jean-Jaurès jusqu'à l'angle nord-est de la parcelle section BC n° 13 ;
+
+- limite est de la parcelle section BC n° 13 jusqu'à la rue du Président-Vincent-Auriol ;
+
+- rue du Président-Vincent-Auriol jusqu'au pont des Collines ;
 
 Lormont :
 
@@ -164,9 +178,11 @@ Lormont :
 
 - rue de Fingues jusqu'à la rue Lavergne ;
 
-- rue Lavergne jusqu'à la limite de la parcelle section AY 374 exclue ;
+- rue Lavergne jusqu'à la limite sud de la parcelle section AY n° 374 ;
 
-- limite de la parcelle section AY 374 exclue jusqu'à la rue de Bordeaux puis traverser la rue de Bordeaux et prendre la rue des Terres-Rouges ;
+- limite sud de la parcelle section AY n° 374 (incluse) jusqu'à la rue de Bordeaux ;
+
+- franchissement de la rue de Bordeaux pour rejoindre la rue des Terres-Rouges ;
 
 - rue des Terres-Rouges jusqu'aux limites des parcelles section AZ 399, 398, 397, 396, 394, 395, 393 (parcelles exclues) ;
 
