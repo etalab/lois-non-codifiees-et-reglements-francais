@@ -2,7 +2,7 @@
 
 Le responsable de la conformité pour les services d'investissement a notamment pour missions :
 
-1° L'identification des procédures nécessaires au respect des obligations professionnelles définies par les lois, règlements et règles professionnelles applicables à l'exercice des services mentionnés à l'article 311-1, ainsi que des décisions prises par l'organe de direction ;
+1° L'identification des procédures nécessaires au respect des obligations professionnelles définies par les lois, règlements et règles professionnelles applicables à l'exercice des services mentionnés à l'article 311-1 et de l'activité d'analyse financière, ainsi que des décisions prises par l'organe de direction ;
 
 2° Le suivi de la mise en place d'un recueil de l'ensemble de ces procédures que doivent observer le prestataire habilité, ses dirigeants, ses salariés, les personnes physiques agissant pour son compte, et ses mandataires mentionnés au 1° de l'article 312-1 ;
 

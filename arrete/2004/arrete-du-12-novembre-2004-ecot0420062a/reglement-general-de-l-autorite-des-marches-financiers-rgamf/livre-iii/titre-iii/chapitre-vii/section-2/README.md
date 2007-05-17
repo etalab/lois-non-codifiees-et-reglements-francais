@@ -1,4 +1,5 @@
-# Section 2 : Diffusion des analyses produites par des tiers
+# Section 2 : Production des analyses et diffusion desdites analyses
 
-- [Article 337-7](article-337-7.md)
-- [Article 337-8](article-337-8.md)
+- [Sous-section 1 : Elaboration de l'analyse : l'indépendance de l'analyste et la gestion des conflits d'intérêts](sous-section-1)
+- [Sous-section 2 : Mise en place d'une charte d'éthique](sous-section-2)
+- [Sous-section 3 : Reconnaissance des associations représentatives](sous-section-3)
