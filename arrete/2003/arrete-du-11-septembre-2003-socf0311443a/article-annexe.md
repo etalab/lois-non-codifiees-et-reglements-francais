@@ -1,12 +1,10 @@
 # Article Annexe
 
-A N N E X E
-
 INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
 Intitulé :
 
-Titre professionnel de canalisateur.
+Titre professionnel : canalisateur.
 
 Niveau : V.
 
@@ -20,77 +18,69 @@ Le canalisateur exerce principalement dans les entreprises de canalisations de r
 
 L'activité s'exerce parfois en hauteur (ponts, viaducs) ou en ouvrages souterrains (égouts, galeries, tunnels) mais généralement à l'extérieur ; elle est donc soumise aux aléas climatiques (pluie, chaleur, etc.). Les horaires de travail peuvent être adaptés à un chantier particulier (délai, circulation, travaux de réparation, recherche de fuite).
 
-Les chantiers se situent en site dégagé (campagne) ou en milieu encombré (ville, zones industrielles...) avec la présence d'autres réseaux existants.
-
-Les déplacements sont fréquents pour des chantiers éloignés et le travail implique parfois des horaires adaptés (journée continue).
+Les chantiers se situent en site dégagé (campagne) ou en milieu encombré (ville, zones industrielles, ...) avec la présence d'autres réseaux existants. Les déplacements sont fréquents pour des chantiers éloignés et le travail implique parfois des horaires adaptés (journée continue).
 
 Capacités attestées et descriptif
 
 des composantes de la certification
 
-1. Réaliser les opérations préalables à la pose de canalisations
+1. Réaliser les petits travaux de voirie annexes
 
-Mettre en place la signalisation temporaire pour des travaux de pose de canalisations.
+à un chantier de pose de canalisations
 
-Réaliser un repérage à partir des plans de réseaux existants pour des travaux de canalisations.
+Participer à la mise en place et à la dépose de la signalisation temporaire pour des travaux de pose de canalisations.
 
-Implanter un réseau de canalisations enterrées.
+Participer aux implantations pour des travaux de voirie.
 
-Terrasser manuellement une fouille pour la pose de canalisations.
+Participer au repérage des réseaux existants pour des travaux de canalisations.
 
-Suivre un engin de terrassement pour la réalisation du lit de pose.
-
-2. Construire et entretenir un réseau d'assainissement
-
-(tous diamètres) en tranchée blindée ou non blindée
-
-Participer à la pose d'un blindage dans une tranchée.
-
-Poser manuellement ou à l'aide d'un engin de levage un regard préfabriqué sur un réseau d'assainissement d'eaux usées ou d'eaux pluviales.
-
-Poser manuellement ou à l'aide d'un engin de levage des canalisations d'assainissement d'eaux usées ou d'eaux pluviales en tranchée blindée ou non.
-
-Réaliser le calage des reins de la conduite, le remblaiement et le compactage de la tranchée blindée ou non.
-
-Réaliser les branchements particuliers, eaux usées et eaux pluviales.
-
-Participer aux essais sur un réseau d'assainissement eaux usées ou eaux pluviales.
-
-Réaliser le boisage d'une tranchée.
-
-3. Construire, raccorder et entretenir
-
-un réseau d'adduction d'eau potable
-
-Construire et entretenir un réseau d'adduction d'eau potable en PVC et en fonte.
-
-Construire et entretenir un réseau de distribution d'eau potable en PEHD (polyéthylène haute densité).
-
-Poser et entretenir les appareillages et les accessoires de fontainerie, de robinetterie et de réparation sur un réseau d'adduction d'eau potable.
-
-Réaliser les différents types de branchements d'adduction d'eau potable.
-
-Réaliser des butées béton sur un réseau d'adduction d'eau potable.
-
-Réaliser le calage des reins de la conduite, le remblaiement et le compactage de la tranchée blindée ou non.
-
-Réaliser les essais d'étanchéité d'un réseau d'adduction d'eau potable.
-
-4. Réaliser les petits travaux de maçonnerie et de réfections
-
-provisoires de tranchées après la pose des canalisations
-
-Réaliser les ouvrages annexes pour un chantier de pose de canalisations (regard coulé en place, cunette, avaloir...).
-
-Reposer des bordures ou des pavés après travaux.
+Reposer des bordures ou des pavés après travaux de construction de réseaux enterrés.
 
 Sceller des fontes de voirie.
 
-Réaliser les réfections provisoires de tranchées.
+Réaliser les réfections provisoires de chaussées (noirs, blancs).
 
-Secteurs d'activités ou types d'emploi
+2. Participer à la construction d'un réseau
 
-accessibles par le détenteur du titre
+d'assainissement en travaux publics
+
+Participer à l'implantation d'un réseau d'assainissement.
+
+Participer à la pose d'un blindage dans une tranchée.
+
+Poser (manuellement ou à l'aide d'un engin de levage) des canalisations d'assainissement d'eaux usées ou d'eaux pluviales en tranchée (blindée ou non).
+
+Poser (manuellement ou à l'aide d'un engin de levage) un regard préfabriqué sur un réseau d'assainissement d'eaux usées ou d'eaux pluviales.
+
+Réaliser les branchements particuliers, eaux usées et eaux pluviales.
+
+Réaliser les ouvrages annexes pour un chantier de pose de canalisations (regard coulé en place, cunette, avaloir, etc.).
+
+Réaliser le calage des reins de la conduite, le remblaiement et le compactage de la tranchée (blindée ou non).
+
+Participer aux essais sur un réseau d'assainissement eaux usées ou eaux pluviales.
+
+3. Participer à la construction d'un réseau d'adduction
+
+d'eau potable en travaux publics
+
+Construire un réseau d'adduction d'eau potable en PVC et en fonte.
+
+Construire un réseau de distribution d'eau potable en PEHD (Polyéthylène haute densité).
+
+Poser et entretenir les appareillages et les accessoires de fontainerie, de robinetterie et de réparation sur un réseau d'adduction d'eau potable.
+
+Réaliser les différents types de branchement sur un réseau d'adduction d'eau potable enterré.
+
+Réaliser des butées béton sur un réseau d'adduction d'eau potable.
+
+Réaliser le calage des reins de la conduite, le remblaiement et le compactage de la tranchée (blindée ou non).
+
+Participer aux essais d'un réseau d'adduction d'eau potable.
+
+Secteurs d'activités ou types d'emploi accessibles
+
+par le détenteur du titre
 
 Les entreprises du secteur travaux publics dont l'activité principale est la canalisation.
 
@@ -102,7 +92,7 @@ Les services des eaux et d'assainissement des collectivités locales et territor
 
 Code ROME :
 
-42112 - Ouvrier/ouvrière des travaux publics.
+42112 : Ouvrier(ère) des travaux publics.
 
 Réglementation de l'activité :
 
@@ -114,8 +104,6 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
+Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation.
 
-Décret n° 2002-1029 du 2 août 2002 ;
-
-Arrêté du 25 novembre 2002.
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.

@@ -152,7 +152,7 @@ b) Engins tractés :
 
 Etre capable de :
 
-- Tracter de manière autonome deux types d'engins tractés (deux bouées ensemble et un ski bus) sur un parcours défini et en réalisant des évolutions imposées, avec un bateau tracteur de  type ski nautique .
+- Tracter de manière autonome deux types d'engins tractés (deux bouées ensemble et un ski bus) sur un parcours défini et en réalisant des évolutions imposées, avec un bateau tracteur de type ski nautique .
 
 • Pour le parcours avec les deux bouées, les évolutions imposées sont les mêmes que celles demandées à l'entrée en formation.
 
@@ -277,3 +277,35 @@ Etre capable de :
 2/ Dispenses et équivalences :
 
 Le diplôme de "moniteur fédéral" de parachutisme ascensionnel nautique, tel que défini dans le règlement des formations, diplômes et qualifications de la fédération française de parachutisme, dispense du test de capacités et connaissances, préalable à la mise en situation pour le support "parachutisme ascensionnel nautique" de la spécialité "activités nautiques" du B.P. J.E.P.S.
+
+Mention surf.
+
+Les objectifs correspondant aux exigences minimales permettant la mise en situation pédagogique prévue à l'article 14 de l'arrêté du 18 avril 2002 susvisé, sont définis pour la mention "surf.
+
+1. Exigences préalables à la mise en situation pédagogique.
+
+Le candidat doit être capable, en situation tutorée :
+
+- de proposer aux pratiquants des situations favorisant l'apprentissage d'une sécurité active ;
+
+- de gérer la zone de pratique au regard des contraintes de sécurité ;
+
+- d'intervenir de manière adaptée pour gérer la sécurité du groupe ;
+
+- d'identifier les éléments météorologiques et naturels pour permettre d'adapter les projets d'animation ;
+
+- d'appliquer les règlements liés à l'encadrement des activités nautiques ;
+
+- de respecter les réglementations relatives aux lieux de pratique ;
+
+- d'identifier les risques spécifiques liés aux comportements et aux sites de pratique ;
+
+- d'appliquer les principes d'hygiène et de sécurité relatifs aux équipements et matériels ;
+
+- de gérer les moyens de sécurité des pratiquants ;
+
+- de mettre en oeuvre les actions de secours et d'assistance en milieu nautique.
+
+2. Dispenses et équivalences.
+
+Les candidats titulaires du brevet d'initiateur fédéral de surf délivré par la Fédération française de surf sont dispensés de la vérification des exigences préalables à la mise en situation pédagogique.

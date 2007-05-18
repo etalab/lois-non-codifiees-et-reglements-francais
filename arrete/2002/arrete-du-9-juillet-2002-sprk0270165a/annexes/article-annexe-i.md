@@ -52,6 +52,8 @@ Dans certaines conditions, des unités capitalisables complémentaires, regroup�
 
 - Voile : le moniteur de voile encadre les activités de multicoque, dériveur, croisière (jusqu'à 12 milles d'un abri) et planche à voile pour tout public et sur tout lieu de pratique de l'activité. Au-delà de 12 milles d'un abri, le moniteur peut encadrer en croisière au sein d'une flottille et sous la responsabilité d'un chef de flottille, possédant les diplômes requis.
 
+- Surf : le moniteur de surf encadre des activités surf (shortboard, longboard, bodyboard, bodysurf, kneeboard, skimboard), pour tout public et sur tout lieu de pratique de l'activité.
+
 2/ Supports constitutifs d'une mention plurivalente (composé de deux supports choisis dans des groupes différents) :
 
 Groupe A :
@@ -62,9 +64,9 @@ Groupe A :
 
 Groupe B :
 
-- Canoë-kayak  eau calme, mer et vagues  : le moniteur encadre les activités du canoë-kayak et les disciplines associées pour tout public, en eau calme et en mer, dans la limite de la navigation en 6ème catégorie sur des parcours connus et reconnus, au maximum par vent de force 4 sur le site d'évolution. Il conduit des séances d'initiation en kayak de vagues.
+- Canoë-kayak eau calme, mer et vagues : le moniteur encadre les activités du canoë-kayak et les disciplines associées pour tout public, en eau calme et en mer, dans la limite de la navigation en 6ème catégorie sur des parcours connus et reconnus, au maximum par vent de force 4 sur le site d'évolution. Il conduit des séances d'initiation en kayak de vagues.
 
-- Canoë-kayak  eau calme et rivière d'eau vive  : le moniteur encadre les activités du canoë-kayak et les disciplines associées pour tout public, en eau calme et en rivière jusqu'en classe III incluse.
+- Canoë-kayak eau calme et rivière d'eau vive : le moniteur encadre les activités du canoë-kayak et les disciplines associées pour tout public, en eau calme et en rivière jusqu'en classe III incluse.
 
 Groupe C :
 
@@ -100,9 +102,9 @@ Groupe G :
 
 - Aviron d'initiation et de découverte : le moniteur encadre les activités de découverte et d'initiation de l'aviron sur tous types de bateaux, pour tous publics sur des plan d'eau calme, abrités et délimités.
 
-- Canoë-kayak  eau calme, mer et vagues  : le moniteur encadre les activités du canoë-kayak et les disciplines associées pour tout public, en eau calme et en mer, dans la limite de la navigation en 6ème catégorie sur des parcours connus et reconnus, au maximum par vent de force 4 sur le site d'évolution. Il conduit des séances d'initiation en kayak de vagues.
+- Canoë-kayak eau calme, mer et vagues : le moniteur encadre les activités du canoë-kayak et les disciplines associées pour tout public, en eau calme et en mer, dans la limite de la navigation en 6ème catégorie sur des parcours connus et reconnus, au maximum par vent de force 4 sur le site d'évolution. Il conduit des séances d'initiation en kayak de vagues.
 
-- Canoë-kayak  eau calme et rivière d'eau vive  : le moniteur encadre les activités du canoë-kayak et les disciplines associées pour tout public, en eau calme et en rivière jusqu'en classe III incluse.
+- Canoë-kayak eau calme et rivière d'eau vive : le moniteur encadre les activités du canoë-kayak et les disciplines associées pour tout public, en eau calme et en rivière jusqu'en classe III incluse.
 
 - Char à voile d'initiation et de découverte : le moniteur encadre les activités d'initiation et de découverte du char à voile sur tous supports (à l'exception des activités tractées) pour tout public, sur parcours école aménagés (mille mètres maximum).
 
@@ -290,7 +292,7 @@ Il anime et encadre des activités de découverte, d'initiation, d'apprentissage
 
 1/ D'initiation (cycle de leçons individuelles ou collectives qui ont pour objectif d'enseigner les techniques afférentes à la discipline),
 
-2/ De loisir (par exemple : Prestation de type  itinérance , prestation individualisée, mise à disposition de matériel,...).
+2/ De loisir (par exemple : Prestation de type itinérance , prestation individualisée, mise à disposition de matériel,...).
 
 - De l'enfant à l'adulte dans le cadre d'initiation à la compétition.
 

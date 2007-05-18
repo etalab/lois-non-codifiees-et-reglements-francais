@@ -685,3 +685,31 @@ préalable à l'entrée en formation au B.P.J.E.P.S. spécialité "activités na
 - Une note supérieure ou égale à huit sur vingt, délivrée par le directeur technique national de la fédération française de voile à l'issue d'une compétition ou d'une saison de course ou d'une épreuve de notation réalisée par le candidat, dispense du test technique préalable à l'entrée en formation au B.P.J.E.P.S. spécialité "activités nautiques" pour un des supports de la mention "voile".
 
 - Le brevet de patron plaisance à la voile (BPPV), dispense du test de maîtrise technique préalable à l'entrée en formation au B.P.J.E.P.S.mention "croisière côtière".
+
+Mention surf.
+
+L'attestation de réussite aux exigences préalables prévue à l'article 5 est établie pour la mention "surf.
+
+1. Exigences préalables à l'entrée en formation :
+
+- être titulaire de l'attestation de formation complémentaire aux premiers secours avec matériel ou son équivalent ;
+
+- être capable de réaliser une prestation sur un support au choix du candidat : shortboard, longboard, bodyboard ;
+
+- être capable de démontrer une aisance de nage en milieu marin.
+
+Il est procédé à la vérification de ces exigences préalables au moyen :
+
+- de la production de l'attestation mentionnée ;
+
+- d'un test composé :
+
+a) D'une épreuve consistant à effectuer une ou plusieurs manoeuvres sur une vague en exploitant sa hauteur et sa longueur fonctionnelle, réalisée sur un support au choix du candidat parmi les suivants : shortboard, longboard, bodyboard. Les modalités de l'épreuve, évaluée par la direction technique nationale de la Fédération française de surf, sont définies en fonction des conditions de mer ;
+
+b) D'une épreuve consistant à effectuer un parcours de 400 m minimum en mer à partir du bord, comportant un ou plusieurs franchissements de barre en bodysurf. Les modalités sont définies par le jury en fonction des conditions de mer. L'usage de palmes et d'une combinaison, à l'exception de tout autre matériel, est autorisé.
+
+2. Dispenses et équivalences :
+
+Les candidats titulaires du brevet national de sécurité et de sauvetage aquatique ou son équivalent sont dispensés de l'épreuve consistant à effectuer un parcours de 400 m minimum en mer.
+
+Les candidats pouvant justifier d'un niveau régional dans les classements fédéraux nationaux en shortboard, bodyboard et longboard sont dispensés du test.
