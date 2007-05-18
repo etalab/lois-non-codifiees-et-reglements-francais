@@ -10,7 +10,7 @@ Le troisième collège comprend le président, un vice-président et onze autres
 
 Les trois collèges siègent séparément. Chacun des collèges ne peut siéger valablement en séance plénière que lorsque quatre membres au moins sont présents.
 
-Le président, les vice-présidents et les autres membres des trois collèges sont nommés pour une durée d'un an, renouvelable, par décision du directeur général du Centre national de la cinématographie.
+Le président, les vice-présidents et les autres membres des trois collèges sont nommés pour une durée d'un an à compter du 1er janvier de chaque année par décision du directeur général du Centre national de la cinématographie.
 
 En cas d'empêchement temporaire, les membres de la commission peuvent être remplacés par des suppléants choisis sur une liste établie par décision du directeur général du Centre national de la cinématographie.
 
