@@ -4,6 +4,7 @@
 - [TITRE II :   CONTENU ET ORGANISATION PÉDAGOGIQUE   DE LA FORMATION](titre-ii)
 - [TITRE III :   ORGANISATION DES ÉPREUVES DE CERTIFICATION](titre-iii)
 - [TITRE IV :   MODALITÉS DE FONCTIONNEMENT DES INSTITUTS   DE FORMATION D'AMBULANCIERS](titre-iv)
+- [Article 55](article-55.md)
 - [Ambulanciers](ambulanciers)
 - [Annexes](annexes)
 - [Auxiliaires ambulanciers](auxiliaires-ambulanciers)
