@@ -157,6 +157,7 @@
 - [Arrêté du 25 avril 2006 (INDI0607334A)](arrete-du-25-avril-2006-indi0607334a)
 - [Arrêté du 25 octobre 2006 (EQUA0601771A)](arrete-du-25-octobre-2006-equa0601771a)
 - [Arrêté du 26 décembre 2006 (EQUA0602482A)](arrete-du-26-decembre-2006-equa0602482a)
+- [Arrêté du 26 janvier 2006 (SANP0620487A)](arrete-du-26-janvier-2006-sanp0620487a)
 - [Arrêté du 26 juillet 2006 (EQUP0601571A)](arrete-du-26-juillet-2006-equp0601571a)
 - [Arrêté du 27 décembre 2006 (JUSA0600409A)](arrete-du-27-decembre-2006-jusa0600409a)
 - [Arrêté du 27 décembre 2006 (soco0612612a)](arrete-du-27-decembre-2006-soco0612612a)

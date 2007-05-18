@@ -1,0 +1,9 @@
+# Article 26
+
+1. En cas de suivi du cursus complet de formation, l'élève qui ne remplit pas les conditions de validation des compétences professionnelles acquises au cours des stages cliniques dispose de cinq années pour effectuer un stage pour chacune des compétences non validées. La durée du stage pour les unités de formation 1, 2, 4 et 6 est conforme au référentiel de formation défini en annexe III du présent arrêté et, pour les unités de formation 3, 5, 7 et 8 la durée du stage est fixée à 2 semaines pour chacune d'elles.
+
+Au-delà de ce délai, l'élève perd le bénéfice des unités de formation validées ainsi que celui des épreuves de sélection.
+
+2. En cas de suivi partiel du cursus, dans le cadre d'une dispense de formation prévue à l'article 18 ou à l'article 19 du présent arrêté ou dans le cadre de l'obtention du diplôme par la voie de la validation des acquis de l'expérience, le candidat qui ne remplit pas les conditions de validation des compétences professionnelles acquises au cours des stages cliniques dispose de cinq années pour effectuer un stage pour chacune des compétences non validées. La durée de chaque stage est conforme au référentiel de formation défini en annexe I du présent arrêté.
+
+Au-delà de ce délai, le candidat perd le bénéfice des unités de formation validées dans le cadre du cursus partiel.
