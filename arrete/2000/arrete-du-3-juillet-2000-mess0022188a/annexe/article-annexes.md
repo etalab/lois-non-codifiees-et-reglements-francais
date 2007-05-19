@@ -440,6 +440,8 @@ Compagnie des signaux de l'entreprise électrique (CSEE), caserne Dombrowski, 15
 
 Compagnie des signaux de l'entreprise électrique (CSEE), rue de l'Ambème, 63200 Riom, de 1977 à 1991, puis CS MECATRONIC, rue de l'Ambème, 63200 Riom, de 1991 à 1997, et CS Défense, rue de l'Ambème, 63200 Riom, de 1994 à 1997 ;
 
+SA Centre Protection, usine de la Mathurette, 20, rue des dagneaux, BP 183, 63203 Riom : de 1955 à 1988 ;
+
 Soma Europe-Transmissions/Sog David/Sonomev (Société nouvelle de mécanique du Velay), Oudreych, 43200 Lapte : de 1972 à 1996.
 
 Bourgogne
