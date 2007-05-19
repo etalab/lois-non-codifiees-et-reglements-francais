@@ -1,7 +1,6 @@
 # 2002
 
 - [Arrêté du 1 août 2002 (AGRG0201771A)](arrete-du-1-aout-2002-agrg0201771a)
-- [Arrêté du 1 août 2002 (AGRR0201551A)](arrete-du-1-aout-2002-agrr0201551a)
 - [Arrêté du 1 août 2002 (INDI0200442A)](arrete-du-1-aout-2002-indi0200442a)
 - [Arrêté du 1 août 2002 (INDI0200443A)](arrete-du-1-aout-2002-indi0200443a)
 - [Arrêté du 1 août 2002 (INDI0200444A)](arrete-du-1-aout-2002-indi0200444a)
