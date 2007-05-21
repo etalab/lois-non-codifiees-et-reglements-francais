@@ -14,8 +14,6 @@ a) Corps des services déconcentrés des administrations de l'Etat :
 
 - secrétaires administratifs des services déconcentrés des affaires sanitaires et sociales ;
 
-- secrétaires administratifs des services déconcentrés du ministère de l'agriculture ;
-
 - secrétaires administratifs de police ;
 
 - secrétaires administratifs de l'intérieur et de l'outre-mer ;
@@ -50,11 +48,13 @@ Les personnels appartenant aux corps communs aux services déconcentrés et à l
 
 4. Corps d'administration scolaire et universitaire :
 
-- secrétaires d'administration scolaire et universitaire du ministère de l'éducation nationale ;
-
-- secrétaires d'administration scolaire et universitaire du ministère de l'agriculture.
+- secrétaires d'administration scolaire et universitaire du ministère de l'éducation nationale.
 
 5. Corps des secrétaires de chancellerie : les fonctionnaires de ce corps ont vocation à servir à l'administration centrale et à l'étranger dans les services relevant du ministre des affaires étrangères.
+
+6. Corps communs aux services déconcentrés, à l'administration centrale et à l'administration scolaire et universitaire :
+
+- secrétaires administratifs du ministère de l'agriculture et de la pêche.
 
 Relèvent également des dispositions du présent décret les corps de secrétaires administratifs du Conseil d'Etat, de secrétaires administratifs du Conseil économique et social et de secrétaires administratifs des juridictions financières. Les membres de ce dernier corps ont vocation à servir à la Cour des comptes, dans les chambres régionales et territoriales des comptes ainsi que dans les institutions associées à la Cour des comptes.
 
