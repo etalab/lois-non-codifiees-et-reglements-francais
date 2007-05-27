@@ -396,7 +396,6 @@
 - [Décret n°2004-1200 du 15 novembre 2004 (PRMX0400198D)](decret-n2004-1200-du-15-novembre-2004-prmx0400198d)
 - [Décret n°2004-1203 du 15 novembre 2004 (ECOP0400825D)](decret-n2004-1203-du-15-novembre-2004-ecop0400825d)
 - [Décret n°2004-1204 du 15 novembre 2004 (EGAX0407729D)](decret-n2004-1204-du-15-novembre-2004-egax0407729d)
-- [Décret n°2004-1205 du 15 novembre 2004 (LOGX0407730D)](decret-n2004-1205-du-15-novembre-2004-logx0407730d)
 - [Décret n°2004-1206 du 15 novembre 2004 (SANX0407731D)](decret-n2004-1206-du-15-novembre-2004-sanx0407731d)
 - [Décret n°2004-1210 du 15 novembre 2004 (INDI0403646D)](decret-n2004-1210-du-15-novembre-2004-indi0403646d)
 - [Décret n°2004-1229 du 15 novembre 2004 (INTB0400306D)](decret-n2004-1229-du-15-novembre-2004-intb0400306d)
