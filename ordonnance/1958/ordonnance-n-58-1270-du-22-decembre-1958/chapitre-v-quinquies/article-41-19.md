@@ -4,7 +4,9 @@ Les juges de proximité sont nommés pour une durée de sept ans non renouvelabl
 
 L'article 27-1 ne leur est pas applicable.
 
-Avant de rendre son avis, la formation compétente du Conseil supérieur de la magistrature peut décider de soumettre l'intéressé à une formation probatoire organisée par l'Ecole nationale de la magistrature et comportant un stage en juridiction effectué selon les modalités prévues à l'article 19. Le deuxième alinéa de l'article 25-3 est applicable aux stagiaires.
+Avant de rendre son avis, la formation compétente du Conseil supérieur de la magistrature soumet l'intéressé à une formation probatoire organisée par l'Ecole nationale de la magistrature et comportant un stage en juridiction effectué selon les modalités prévues à l'article 19. Le troisième alinéa de l'article 25-3 est applicable aux stagiaires.
+
+La formation compétente du Conseil supérieur de la magistrature peut, à titre exceptionnel et au vu de l'expérience professionnelle du candidat, le dispenser de la formation probatoire prévue au troisième alinéa.
 
 Le directeur de l'Ecole nationale de la magistrature établit, sous forme d'un rapport, le bilan du stage probatoire du candidat, qu'il adresse à la formation compétente du Conseil supérieur de la magistrature et au garde des sceaux, ministre de la justice.
 

@@ -2,7 +2,7 @@
 
 Sont placés hors hiérarchie :
 
-1° Les magistrats de la Cour de cassation, à l'exception des conseillers référendaires ;
+1° Les magistrats de la Cour de cassation, à l'exception des conseillers référendaires et des avocats généraux référendaires ;
 
 2° Les premiers présidents des cours d'appel et les procureurs généraux près lesdites cours ;
 

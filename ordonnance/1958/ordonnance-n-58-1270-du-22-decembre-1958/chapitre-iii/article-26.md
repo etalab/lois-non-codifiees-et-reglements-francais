@@ -2,7 +2,7 @@
 
 Le Président de la République nomme les auditeurs de justice aux postes du second degré de la hiérarchie judiciaire sur les propositions du garde des sceaux, ministre de la justice.
 
-Suivant leur rang de classement et en fonction de la liste qui leur est proposée, les auditeurs font connaître au garde des sceaux, ministre de la justice, le poste auquel ils souhaitent être nommés.
+Suivant leur rang de classement, à l'exclusion des fonctions visées par les réserves du jury prévues à l'article 21 et en fonction de la liste qui leur est proposée, les auditeurs font connaître au garde des sceaux, ministre de la justice, le poste auquel ils souhaitent être nommés.
 
 Un auditeur de justice qui n'a pas exprimé de choix fait d'office l'objet d'une proposition de nomination et, s'il refuse cette proposition, il est considéré comme démissionnaire.
 

@@ -1,6 +1,6 @@
 # Article 40-2
 
-Les conseillers et les avocats généraux en service extraordinaire sont nommés pour une durée de cinq ans non renouvelable, dans les formes respectivement prévues pour la nomination des magistrats du siège de la Cour de cassation et pour la nomination des magistrats du parquet de ladite cour.
+Les conseillers et les avocats généraux en service extraordinaire sont nommés pour une durée de huit ans non renouvelable, dans les formes respectivement prévues pour la nomination des magistrats du siège de la Cour de cassation et pour la nomination des magistrats du parquet de ladite cour.
 
 Un décret en Conseil d'Etat détermine les conditions de recueil et d'instruction des dossiers de candidature à l'exercice de fonctions judiciaires en service extraordinaire.
 
