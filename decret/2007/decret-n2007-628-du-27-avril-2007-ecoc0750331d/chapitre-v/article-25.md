@@ -1,0 +1,3 @@
+# Article 25
+
+Les produits entrant dans le champ d'application du présent décret légalement fabriqués ou commercialisés et conformes aux usages loyaux dans les autres Etats membres de la Communauté européenne, les Etats parties à l'accord sur l'Espace économique européen et la Turquie peuvent être commercialisés sur le territoire français. Toutefois, pour ces produits, il est interdit d'utiliser l'une des dénominations prévues au présent décret et à son annexe pour désigner un produit qui s'écarte tellement, quant à sa composition ou à sa fabrication, du produit tel que défini au présent décret, qu'il ne saurait être considéré comme relevant de la même catégorie de produits.

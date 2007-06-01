@@ -4,6 +4,7 @@
 - [Ordonnance n° 2006-1547 du 7 décembre 2006 (AGRX0600138R)](ordonnance-n-2006-1547-du-7-decembre-2006-agrx0600138r)
 - [Ordonnance n° 2007-42 du 11 janvier 2007 (SOCX0600219R)](ordonnance-n-2007-42-du-11-janvier-2007-socx0600219r)
 - [Ordonnance n° 92-1147 du 12 octobre 1992 (DOMX9200165R)](ordonnance-n-92-1147-du-12-octobre-1992-domx9200165r)
+- [Ordonnance n° 2005-1278 du 13 octobre 2005 (ECOX0500216R)](ordonnance-n-2005-1278-du-13-octobre-2005-ecox0500216r)
 - [Ordonnance n°2007-571 du 19 avril 2007 (ECOX0700040R)](ordonnance-n2007-571-du-19-avril-2007-ecox0700040r)
 - [Ordonnance n° 2006-461 du 21 avril 2006 (JUSX0600046R)](ordonnance-n-2006-461-du-21-avril-2006-jusx0600046r)
 - [Ordonnance n° 2007-235 du 22 février 2007 (SANX0600224R)](ordonnance-n-2007-235-du-22-fevrier-2007-sanx0600224r)
