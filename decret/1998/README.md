@@ -854,7 +854,6 @@
 - [Décret n°98-334 du 29 avril 1998 (ECOF9800008D)](decret-n98-334-du-29-avril-1998-ecof9800008d)
 - [Décret n°98-59 du 29 janvier 1998 (EQUX9800004D)](decret-n98-59-du-29-janvier-1998-equx9800004d)
 - [Décret n°98-64 du 29 janvier 1998 (MENN9703512D)](decret-n98-64-du-29-janvier-1998-menn9703512d)
-- [Décret n°98-655 du 29 juillet 1998 (JUSE9840035D)](decret-n98-655-du-29-juillet-1998-juse9840035d)
 - [Décret n°98-661 du 29 juillet 1998 (AGRA9800868D)](decret-n98-661-du-29-juillet-1998-agra9800868d)
 - [Décret n°98-662 du 29 juillet 1998 (AGRA9800869D)](decret-n98-662-du-29-juillet-1998-agra9800869d)
 - [Décret n°98-664 du 29 juillet 1998 (ECOX9800079D)](decret-n98-664-du-29-juillet-1998-ecox9800079d)
