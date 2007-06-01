@@ -36,7 +36,7 @@ Sous-directeur de l'état-major de sécurité de la direction de l'administratio
 
 B. - Fonctions exercées dans les services territoriaux
 
-1. Directeur régional des services pénitentiaires.
+1. Directeur interrégional des services pénitentiaires.
 
 2. Coordonnateur de service administratif régional de cour d'appel.
 

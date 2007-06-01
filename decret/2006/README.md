@@ -273,6 +273,7 @@
 - [Décret n°2006-1714 du 22 décembre 2006 (AGRP0602261D)](decret-n2006-1714-du-22-decembre-2006-agrp0602261d)
 - [Décret n°2006-1715 du 22 décembre 2006 (AGRP0602262D)](decret-n2006-1715-du-22-decembre-2006-agrp0602262d)
 - [Décret n°2006-1716 du 22 décembre 2006 (AGRP0602308D)](decret-n2006-1716-du-22-decembre-2006-agrp0602308d)
+- [Décret n°2006-208 du 22 février 2006 (JUSG0660018D)](decret-n2006-208-du-22-fevrier-2006-jusg0660018d)
 - [Décret n°98-844 du 22 septembre 1998 (INTM9800014D)](decret-n98-844-du-22-septembre-1998-intm9800014d)
 - [Décret n°99-314 du 22 avril 1999 (DEFP9901093D)](decret-n99-314-du-22-avril-1999-defp9901093d)
 - [Décret du 23 novembre 2006 (AGRP0602137D)](decret-du-23-novembre-2006-agrp0602137d)

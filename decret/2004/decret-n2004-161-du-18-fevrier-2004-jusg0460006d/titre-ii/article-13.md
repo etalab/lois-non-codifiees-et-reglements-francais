@@ -12,7 +12,7 @@ d) Le commandant de la légion de gendarmerie mobile d'Ile-de-France ou son repr
 
 e) Le chef du service immobilier du palais de justice de Paris ;
 
-f) Le directeur régional des services pénitentiaires de Paris ;
+f) Le directeur interrégional des services pénitentiaires de Paris ;
 
 g) Le maire de Paris ou son représentant ;
 

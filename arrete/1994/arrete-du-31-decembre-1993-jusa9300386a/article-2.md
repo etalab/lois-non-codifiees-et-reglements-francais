@@ -12,6 +12,6 @@ II. Les préfets de région visés à l'article 1er (II) peuvent, pour l'exécut
 
 1° A un magistrat ou à un fonctionnaire de catégorie A délégués auprès des chefs de la cour d'appel de Paris pour l'exécution des recettes et des dépenses relative à l'activité de ladite cour ;
 
-2° Aux directeurs régionaux des services pénitentiaires, au directeur régional, directeur de l'Ecole nationale de l'administration pénitentiaire, ainsi qu'au directeur régional chargé de la mission des services pénitentiaires de l'outre-mer ;
+2° Aux directeurs interrégionaux des services pénitentiaires, au directeur régional, directeur de l'Ecole nationale de l'administration pénitentiaire, ainsi qu'au directeur régional chargé de la mission des services pénitentiaires de l'outre-mer ;
 
 3° Aux directeurs régionaux de la protection judiciaire de la jeunesse.

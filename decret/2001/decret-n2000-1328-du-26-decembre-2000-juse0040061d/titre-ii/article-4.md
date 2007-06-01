@@ -18,7 +18,7 @@ a) Six membres de droit :
 
 b) Quatre fonctionnaires des services déconcentrés de l'administration pénitentiaire :
 
-- un directeur régional des services pénitentiaires ;
+- un directeur interrégional des services pénitentiaires ;
 
 - un directeur des services pénitentiaires d'insertion et de probation ;
 
