@@ -1,6 +1,6 @@
 # Article 75-2
 
-Les sociétés de courses habilitées à organiser des opérations de prises de paris collectés ou regroupés en France sur les courses étrangères peuvent organiser pour certaines épreuves, désignées sur le programme officiel, des paris dénommés "Trio ordre international".
+Les sociétés de courses habilitées à organiser des opérations de prises de paris collectés ou regroupés en France sur les courses françaises ou étrangères peuvent organiser pour certaines épreuves, désignées sur le programme officiel, des paris dénommés "Trio ordre international".
 
 Un pari "Trio ordre international" consiste à désigner trois chevaux d'une même course et à préciser leur ordre de classement à l'arrivée.
 
