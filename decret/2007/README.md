@@ -211,6 +211,7 @@
 - [Décret n°2006-1129 du 8 septembre 2006 (ECOC0600084D)](decret-n2006-1129-du-8-septembre-2006-ecoc0600084d)
 - [Décret n°2006-1353 du 8 novembre 2006 (JUSK0640237D)](decret-n2006-1353-du-8-novembre-2006-jusk0640237d)
 - [Décret n°2006-1562 du 8 décembre 2006 (SOCU0612361D)](decret-n2006-1562-du-8-decembre-2006-socu0612361d)
+- [Décret n°2007-1004 du 8 juin 2007 (MAEX0710422D)](decret-n2007-1004-du-8-juin-2007-maex0710422d)
 - [Décret n° 2007-179 du 9 février 2007 (JUSC0720068D)](decret-n-2007-179-du-9-fevrier-2007-jusc0720068d)
 - [Décret n° 2007-183 du 9 février 2007 (SOCF0710192D)](decret-n-2007-183-du-9-fevrier-2007-socf0710192d)
 - [Décret n° 2007-184 du 9 février 2007 (BUDB0630179D)](decret-n-2007-184-du-9-fevrier-2007-budb0630179d)
