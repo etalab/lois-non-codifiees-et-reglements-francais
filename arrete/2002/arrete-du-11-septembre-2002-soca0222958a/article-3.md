@@ -54,7 +54,7 @@ Dix personnalités qualifiées :
 
 - le vice-président du Conseil supérieur du travail social (CSTS) ;
 
-- un représentant de l'Association des régions de France (ARF) ;
+- deux représentants de l'Association des régions de France (ARF) ;
 
 - un représentant de l'Union interfédérale des oeuvres et organismes privés sanitaires et sociaux (UNIOPSS) ;
 
@@ -68,9 +68,7 @@ Dix personnalités qualifiées :
 
 - un représentant du Groupement national des instituts du travail social (GNI) ;
 
-- un représentant de l'Association française des organismes de formation et de recherche en travail social (AFORTS) ;
-
-- un représentant du Mouvement national des étudiants en travail social.
+- un représentant de l'Association française des organismes de formation et de recherche en travail social (AFORTS).
 
 En même temps que chaque titulaire, un suppléant chargé de le remplacer en cas d'absence ou d'incapacité est désigné.
 
