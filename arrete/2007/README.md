@@ -635,6 +635,7 @@
 - [Arrêté du 30 mars 2007 (SANS0721128A)](arrete-du-30-mars-2007-sans0721128a)
 - [Arrêté du 30 novembre 1998 (AGRP9802432A)](arrete-du-30-novembre-1998-agrp9802432a)
 - [Arrêté du 30 novembre 2006 (MJSK0670294A)](arrete-du-30-novembre-2006-mjsk0670294a)
+- [Arrêté du 30 mai 2007 (MAEA0755385A)](arrete-du-30-mai-2007-maea0755385a)
 - [Arrêté du 31 janvier 2007 (BUDD0770001A)](arrete-du-31-janvier-2007-budd0770001a)
 - [Arrêté du 31 janvier 2007 (SOCK0710043A)](arrete-du-31-janvier-2007-sock0710043a)
 - [Arrêté du 31 juillet 2003 (SOCF0311186A)](arrete-du-31-juillet-2003-socf0311186a)
