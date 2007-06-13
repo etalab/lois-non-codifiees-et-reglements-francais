@@ -8,8 +8,8 @@ Des grilles sont mises en place sur les fosses de réception. La maille est dét
 
 Les aires de chargement et de déchargement sont :
 
-- soit suffisamment ventilées de manière à éviter la création d'une atmosphère explosive (cette solution ne peut être adoptée que si elle ne crée pas de gêne pour le voisinage ou de nuisance pour les milieux sensibles) ;
+- soit suffisamment ventilées de manière à éviter une concentration de poussières de 50 g/m³ (cette solution ne peut être adoptée que si elle ne crée pas de gêne pour le voisinage ou de nuisance pour les milieux sensibles) ;
 
 - soit munies de systèmes de captage de poussières, de dépoussiérage et de filtration.
 
-Ces aires doivent être nettoyées.
+Ces aires doivent être régulièrement nettoyées.
