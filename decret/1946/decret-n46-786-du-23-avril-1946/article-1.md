@@ -6,4 +6,4 @@ L'agent comptable de la Comédie-Française est nommé par arrêté conjoint des
 
 L'état prévisionnel de recettes et de dépenses de la Comédie-Française est préparé chaque année sous l'autorité de l'administrateur général par le directeur général des services.
 
-L'état prévisionnel de recettes et de dépenses, les décisions modificatives et le compte financier sont arrêtés par les ministres chargés de la culture et du budget après que le comité d'administration les a approuvés et que l'assemblée générale s'est prononcée.
+L'état prévisionnel de recettes et de dépenses, les décisions modificatives et le compte financier, après que le comité d'administration les a approuvés et que l'assemblée générale s'est prononcée, sont exécutoires de plein droit quinze jours après leur réception par le ministre chargé de la culture et le ministre chargé du budget s'ils n'ont pas fait connaître d'observations dans ce délai.
