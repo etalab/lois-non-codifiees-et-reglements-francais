@@ -1,6 +1,6 @@
 # Article 1
 
-Présentation et instruction des demandes.
+Pour la campagne 2007, la demande de reconnaissance du caractère de catastrophe naturelle grave peut être présentée à compter du 4 juin.
 
 La demande de reconnaissance du caractère de catastrophe naturelle grave ne peut être présentée qu'après la date limite de dépôt des modifications de la demande unique visée à l'article 21, point 2, du règlement (CE) n° 796/2004 susvisé.
 
