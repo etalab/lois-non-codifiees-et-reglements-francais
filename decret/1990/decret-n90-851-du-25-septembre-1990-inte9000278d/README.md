@@ -5,5 +5,4 @@
 - [CHAPITRE III : Nomination, formation initiale et titularisation.](chapitre-iii)
 - [CHAPITRE IV : Avancement.](chapitre-iv)
 - [CHAPITRE IV bis : Détachement.](chapitre-iv-bis)
-- [CHAPITRE V : Constitution initiale du cadre d'emplois et autres dispositions transitoires.](chapitre-v)
 - [Article 27](article-27.md)
