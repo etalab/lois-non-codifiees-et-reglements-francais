@@ -23,10 +23,10 @@
 <p>Repas ou fractions de repas composés des catégories de produits listées à l'annexe 3 </p>
 </td>
 <td valign="top" width="201">
-<p align="center">400 repas par semaine</p>
+<p align="left">400 repas par semaine</p>
 </td>
 <td valign="top" width="201">
-<p align="center">150 repas par semaine</p>
+<p align="left">150 repas par semaine</p>
 </td>
 </tr>
 </tbody>

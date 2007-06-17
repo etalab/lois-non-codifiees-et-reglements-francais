@@ -23,10 +23,10 @@
 <p>Laits traités thermiquement </p>
 </td>
 <td valign="top" width="198">
-<p align="center">800 litres par semaine</p>
+<p align="left">800 litres par semaine</p>
 </td>
 <td valign="top" width="201">
-<p align="center">250 litres par semaine</p>
+<p align="left">250 litres par semaine</p>
 </td>
 </tr>
 <tr>
@@ -34,32 +34,32 @@
 <p>Produits laitiers </p>
 </td>
 <td valign="top" width="198">
-<p align="center">250 kilogrammes par semaine</p>
+<p align="left">250 kilogrammes par semaine</p>
 </td>
 <td valign="top" width="201">
-<p align="center">100 kilogrammes par semaine</p>
+<p align="left">100 kilogrammes par semaine</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="281">
-<p>Viandes fraîches de boucherie à l'exclusion des viandes hachées </p>
+<p>Viandes fraîches de boucherie, à l'exclusion des viandes hachées </p>
 </td>
 <td valign="top" width="198">
-<p align="center">800 kilogrammes par semaine</p>
+<p align="left">800 kilogrammes par semaine</p>
 </td>
 <td valign="top" width="201">
-<p align="center">250 kilogrammes par semaine</p>
+<p align="left">250 kilogrammes par semaine</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="281">
-<p>Produits à base de viande, plats cuisinés, saucisses crues, chair à saucisse et préparations de viandes ne contenant pas de viandes hachées, viandes fraîches des autres espèces que boucherie à l'exclusion des viandes hachées </p>
+<p>Produits à base de viande, plats cuisinés, saucisses crues, chair à saucisse et préparations de viandes ne contenant pas de viandes hachées, viandes fraîches des autres espèces que boucherie, à l'exclusion des viandes hachées </p>
 </td>
 <td valign="top" width="198">
-<p align="center">250 kilogrammes par semaine</p>
+<p align="left">250 kilogrammes par semaine</p>
 </td>
 <td valign="top" width="201">
-<p align="center">100 kilogrammes par semaine</p>
+<p align="left">100 kilogrammes par semaine</p>
 </td>
 </tr>
 <tr>
@@ -67,10 +67,10 @@
 <p>Produits non transformés de la pêche (réfrigéré ou congelé, préparé ou entier) </p>
 </td>
 <td valign="top" width="198">
-<p align="center">250 kilogrammes par semaine</p>
+<p align="left">250 kilogrammes par semaine</p>
 </td>
 <td valign="top" width="201">
-<p align="center">100 kilogrammes par semaine</p>
+<p align="left">100 kilogrammes par semaine</p>
 </td>
 </tr>
 <tr>
@@ -78,21 +78,21 @@
 <p>Produits transformés de la pêche (salé, fumé, plat cuisiné...) </p>
 </td>
 <td valign="top" width="198">
-<p align="center">250 kilogrammes par semaine</p>
+<p align="left">250 kilogrammes par semaine</p>
 </td>
 <td valign="top" width="201">
-<p align="center">100 kilogrammes par semaine</p>
+<p align="left">100 kilogrammes par semaine</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="281">
-<p>Escargots (entiers, préparés ou transformés)</p>
+<p>Escargots (entiers, préparés ou transformés) </p>
 </td>
 <td valign="top" width="198">
-<p align="center">100 kilogrammes par semaine</p>
+<p align="left">100 kilogrammes par semaine</p>
 </td>
 <td valign="top" width="201">
-<p align="center">30 kilogrammes par semaine</p>
+<p align="left">30 kilogrammes par semaine</p>
 </td>
 </tr>
 </tbody>
