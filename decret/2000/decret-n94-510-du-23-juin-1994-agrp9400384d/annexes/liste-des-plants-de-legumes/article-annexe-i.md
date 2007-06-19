@@ -1,179 +1,145 @@
 # Article Annexe I
 
-Allium ascalonicum.
+1. Allium cepa L.
 
-Echalote.
+1.1. Groupe cepa - Oignon, échalion.
 
-Allium cepa L..
+1.2. Groupe aggregatum - Echalote.
 
-Oignon.
+2. Allium fistulosum L. - Ciboule.
 
-Allium fistulosum L..
+3. Allium porrum L. - Poireau.
 
-Ciboulette.
+4. Allium sativum L. - Ail.
 
-Allium porrum L..
+5. Allium schoenoprasum L. - Ciboulette.
 
-Poireau.
+6. Anthriscus cerefolium (L.) Hoffm - Cerfeuil.
 
-Allium sativum.
+7. Apium graveolens L.
 
-Ail.
+7.1. Céleri branche.
 
-Anthriscus cerefolium (L.) Hoffm..
+7.2. Céleri-rave.
 
-Cerfeuil.
+8. Asparagus officinalis L. - Asperge.
 
-Apium graveolens L..
+9. Beta vulgaris L.
 
-Céleri.
+9.1. Betterave potagère, betterave rouge.
 
-Asparagus officinalis L..
+9.2. Poirée.
 
-Asperge.
+10. Brassica oleracea L.
 
-Beta vulgaris L. var. vulgaris.
+10.1. Chou frisé.
 
-Poirée.
+10.2. Chou-fleur.
 
-Beta vulgaris L. var. conditiva Alef..
+10.3. Brocoli.
 
-Betterave rouge.
+10.4. Chou de Bruxelles.
 
-Brassica oleracea L. convar. acephala (DC) Alef. var. sabellica L..
+10.5. Chou de Milan.
 
-Chou frisé.
+10.6. Chou cabus.
 
-Brassica oleracea L. convar. botrytis (L.) Alef. var. botrytis L..
+10.7. Chou rouge.
 
-Chou-fleur.
+10.8. Chou-rave.
 
-Brassica oleracea L. convar. botrytis (L.) Alef. var. cymosa    Duch.
+11. Brassica rapa L.
 
-Brocoli.
+11.1. Chou de Chine.
 
-Brassica oleracea L. convar. oleracea var. gemmifera DC.
+11.2. Navet.
 
-Chou de Bruxelles.
+12. Capsicum annuum L. - Piment, poivron.
 
-Brassica oleracea L. convar. capitata (L.) Alef. var. sabauda L..
+13. Cichorium endivia L.
 
-Chou de Milan.
+13.1. Chicorée frisée.
 
-Brassica oleracea L. convar. capitata (L.) Alef. var. alba DC.
+13.2. Chicorée scarole.
 
-Chou cabus.
+14. Cichorium intybus L.
 
-Brassica oleracea L. convar. capitata (L.) Alef. var. rubra DC.
+14.1. Endive, chicorée witloof.
 
-Chou rouge.
+14.2. Chicorée à larges feuilles, chicorée italienne.
 
-Brassica oleracea L. convar. acephala (DC) Alef. var. gongylodes.
+15. Citrullus lanatus (Thunb.) Matsum et Nakai. - Pastèque, melon d'eau.
 
-Chou rave.
+16. Cucumis melo L. - Melon.
 
-Brassica pekinensis L..
+17. Cucumis sativus L.
 
-Chou chinois.
+17.1. Concombre.
 
-Brassica rapa L. var. rapa.
+17.2. Cornichon.
 
-Navet de printemps.
+18. Cucurbita maxima Duchesne - Potiron, citrouille.
 
-Navet d'automne.
+19. Cucurbita pepo L. - Courgette, pâtisson.
 
-Capsicum annuum L..
+20. Cynara cardunculus L.
 
-Piment, poivron.
+20.1. Artichaut.
 
-Chicorium endivia L..
+20.2. Cardon.
 
-Chicorée frisée.
+21. Daucus carota L. - Carotte, carotte fourragère.
 
-Chicorée scarole.
+22. Foeniculum vulgare Mill. - Fenouil.
 
-Chicorium intybus L. (partim).
+23. Lactuca sativa L. - Laitue.
 
-Chicorée witloof (endive).
+24. Lycopersicum esculentum Mill. - Tomate.
 
-Citrullus lanatus (Thunb.) Matsum et Nakai.
+25. Petroselinum crispum (Mill.) Nyman ex A. W. Hill - Persil.
 
-Melon d'eau.
+26. Phaseolus coccineus L. - Haricot d'Espagne.
 
-Cucumis melo L..
+27. Phaseolus vulgaris L.
 
-Melon.
+27.1. Haricot nain.
 
-Cucumis sativus L..
+27.2. Haricot à rames.
 
-Concombre, cornichon.
+28. Pisum sativum L. (partim).
 
-Cucurbita maxima Duchesne.
+28.1. Pois ridé.
 
-Potiron.
+28.2. Pois lisse, pois rond.
 
-Cucurbita pepo L..
+28.3. Pois mange-tout.
 
-Courgette.
+29. Raphanus sativus L.
 
-Cynara Cardunculus.
+29.1. Radis de tous les mois.
 
-Cardon.
+29.2. Radis rave.
 
-Cynara scolymus.
+30. Rheum rhabarbarum L. - Rhubarbe.
 
-Artichaut.
+31. Scorzonera hispanica L. - Scorsonère.
 
-Daucus carota L..
+32. Solanum melongena L. - Aubergine.
 
-Carotte.
+33. Spinacia oleracea L. - Epinard.
 
-Foeniculum vulgare Miller.
+34. Valerianella locusta (L.) Laterr. - Mâche.
 
-Fenouil.
+35. Vicia faba L. (partim) - Fève.
 
-Lactuca sativa L..
+36. Zea mays L. (partim).
 
-Laitue.
+36.1. Maïs doux.
 
-Lycopersicon lycopersicum (L.) Karsten ex Farw.
+36.2. Maïs à éclater.
 
-Tomate.
+101. Cicer arietinum L. - Pois chiche.
 
-Petroselinum crispum (Miller) Nyman ex A. W. Hill.
+102. Fragaria ananassa X. - Fraisier.
 
-Persil.
-
-Phaseolus coccineus L..
-
-Haricot d'Espagne.
-
-Phaseolus vulgaris L..
-
-Haricot.
-
-Pisum sativum L. (partim).
-
-Pois, à l'exclusion des pois fourragers.
-
-Raphanus sativus L..
-
-Radis.
-
-Rheum
-
-Rhubarbe.
-
-Scorzonera hispanica L..
-
-Scorsonère.
-
-Solanum melongena L..
-
-Aubergine.
-
-Spinacia oleracea L..
-
-Epinard.
-
-Valerianelle locusta (L.) Laterr..
+103. Lens culinaris Med. - Lentille.
