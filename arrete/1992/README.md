@@ -454,7 +454,6 @@
 - [Arrêté du 13 mars 1992 (EQUA9200468A)](arrete-du-13-mars-1992-equa9200468a)
 - [Arrêté du 13 mars 1992 (EQUA9200469A)](arrete-du-13-mars-1992-equa9200469a)
 - [Arrêté du 13 mars 1992 (EQUA9200470A)](arrete-du-13-mars-1992-equa9200470a)
-- [Arrêté du 13 mars 1992 (EQUA9200471A)](arrete-du-13-mars-1992-equa9200471a)
 - [Arrêté du 13 mars 1992 (EQUA9200472A)](arrete-du-13-mars-1992-equa9200472a)
 - [Arrêté du 13 mars 1992 (MERG9200048A)](arrete-du-13-mars-1992-merg9200048a)
 - [Arrêté du 13 novembre 1990 (BUDR9007001A)](arrete-du-13-novembre-1990-budr9007001a)
