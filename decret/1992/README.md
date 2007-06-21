@@ -433,8 +433,6 @@
 - [Décret n°92-1138 du 14 octobre 1992 (AGRX9200121D)](decret-n92-1138-du-14-octobre-1992-agrx9200121d)
 - [Décret n°92-1152 du 14 octobre 1992 (MAEJ9230053D)](decret-n92-1152-du-14-octobre-1992-maej9230053d)
 - [Décret n°92-1153 du 14 octobre 1992 (MAEJ9230056D)](decret-n92-1153-du-14-octobre-1992-maej9230056d)
-- [Décret n°92-1298 du 14 décembre 1992 (INTD9200503D)](decret-n92-1298-du-14-decembre-1992-intd9200503d)
-- [Décret n°92-1299 du 14 décembre 1992 (INTD9200504D)](decret-n92-1299-du-14-decembre-1992-intd9200504d)
 - [Décret n°92-1300 du 14 décembre 1992 (INTA9200505D)](decret-n92-1300-du-14-decembre-1992-inta9200505d)
 - [Décret n°92-1304 du 14 décembre 1992 (SPSS9202985D)](decret-n92-1304-du-14-decembre-1992-spss9202985d)
 - [Décret n°92-141 du 14 février 1992 (INDG9100988D)](decret-n92-141-du-14-fevrier-1992-indg9100988d)
