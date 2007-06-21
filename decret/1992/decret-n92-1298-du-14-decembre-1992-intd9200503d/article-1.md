@@ -1,3 +1,0 @@
-# Article 1
-
-Pour l'application de la loi du 15 janvier 1990 et de la loi organique du 10 mai 1990 susvisées, la Commission nationale des comptes de campagne et des financements politiques est autorisée à collecter, conserver et traiter, dans le fichier informatisé ayant pour finalité la gestion des reçus délivrés aux personnes physiques ou morales ayant apporté leur soutien financier aux candidats aux élections législatives, européennes, régionales, cantonales et municipales et aux partis ou groupements politiques, des données nominatives faisant, directement ou indirectement, apparaître les opinions politiques de ces personnes physiques ou des dirigeants de ces personnes morales.
