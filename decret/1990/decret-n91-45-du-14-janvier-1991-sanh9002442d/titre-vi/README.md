@@ -1,5 +1,6 @@
-# TITRE VI : DISPOSITIONS DIVERSES.
+# TITRE VI : DISPOSITIONS TRANSITOIRES.
 
+- [Chapitre 1er : Dispositions transitoires relatives au corps des agents chefs.](chapitre-1er)
 - [Article 51](article-51.md)
 - [Article 52](article-52.md)
 - [Article 53](article-53.md)

@@ -4,18 +4,18 @@ Le classement indiciaire applicable au corps des ingénieurs hospitaliers est fi
 
 Indices bruts :
 
-- ingénieur subdivisionnaire : 379, 750 ;
+- ingénieur hospitalier : 379-750 ;
 
-- ingénieur en chef : 541,966 ;
+- ingénieur hospitalier principal : 541-966 ;
 
-- ingénieur en chef de 1re catégorie de seconde classe : 450, 771 ;
+- ingénieur hospitalier en chef de classe normale : 450-966 ;
 
-- ingénieur en chef de 1re catégorie de 1re classe : 750, 966 ;
+- ingénieur hospitalier en chef de classe exceptionnelle :
 
-- ingénieur en chef de 1re catégorie hors classe : 946, 1015 (1).
+750-1015 (1).
 
-Le classement indiciaire applicable à l'emploi d'ingénieur général est fixé comme suit :
+Le classement indiciaire applicable à l'emploi d'ingénieur général hospitalier est fixé comme suit :
 
-Indices bruts : 830, 1015 (1).
+Indices bruts : 830-HEB.
 
-(1) La carrière se poursuit hors échelle.
+(1) La carrière se poursuit jusqu'en hors-échelle B, conformément aux dispositions de l'article 4 du décret n° 91-868 du 5 septembre 1991.

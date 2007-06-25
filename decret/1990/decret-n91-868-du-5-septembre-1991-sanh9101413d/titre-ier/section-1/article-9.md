@@ -6,7 +6,7 @@ Les ingénieurs généraux hospitaliers sont chargés de la coordination et du c
 
 L'emploi d'ingénieur général hospitalier comporte trois échelons. L'ancienneté moyenne pour être nommé à l'échelon supérieur est de trois ans dans chacun des deux premiers échelons.
 
-Les emplois d'ingénieur général hospitalier sont pourvus par voie de détachement des ingénieurs hospitaliers en chef de 1re catégorie ayant atteint un indice brut de rémunération au moins égal à celui du 8e échelon de la 2e classe.
+Les emplois d'ingénieur général hospitalier sont pourvus par voie de détachement des ingénieurs hospitaliers en chef de 1re catégorie ayant atteint un indice brut de rémunération au moins égal à celui du 7e échelon de la 2e classe.
 
 Le détachement est prononcé pour une durée de cinq ans renouvelable à un échelon comportant un indice égal ou, à défaut, immédiatement supérieur à celui détenu antérieurement par l'agent détaché.
 

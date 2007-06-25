@@ -1,161 +1,217 @@
 # Article 26-1
 
-I. - A compter du 1er août 1996, les ingénieurs hospitaliers en chef sont reclassés dans le corps des ingénieurs hospitaliers au grade d'ingénieur hospitalier en chef suivant le tableau de correspondance ci-dessous :
+I. - A compter du 1er août 1996, les ingénieurs hospitaliers principaux sont reclassés dans le corps des ingénieurs hospitaliers au grade d'ingénieur hospitalier principal suivant le tableau de correspondance ci-dessous :
 
-SITUATION Ancienne :
-
-7e échelon :
-
-- après 1 an
-
-SITUATION Nouvelle :
-
-7e échelon
-
-ANCIENNETE CONSERVEE dans l'échelon, dans la limite de la durée de l'échelon :
-
-Ancienneté acquise diminuée d'un an.
-
-SITUATION Ancienne :
-
-7e échelon :
-
-- avant 1 an
-
-SITUATION Nouvelle :
-
-6e échelon
-
-ANCIENNETE CONSERVEE dans l'échelon, dans la limite de la durée de l'échelon :
-
-Ancienneté acquise majorée de deux ans.
-
-SITUATION Ancienne :
-
-6e échelon
-
-SITUATION Nouvelle :
-
-6e échelon
-
-ANCIENNETE CONSERVEE dans l'échelon, dans la limite de la durée de l'échelon :
-
-4/5 de l'ancienneté acquise.
-
-SITUATION Ancienne :
-
-5e échelon
-
-SITUATION Nouvelle :
-
-5e échelon
-
-ANCIENNETE CONSERVEE dans l'échelon, dans la limite de la durée de l'échelon :
-
-Ancienneté acquise.
-
-SITUATION Ancienne :
-
-4e échelon
-
-SITUATION Nouvelle :
-
-4e échelon
-
-ANCIENNETE CONSERVEE dans l'échelon, dans la limite de la durée de l'échelon :
-
-Ancienneté acquise.
-
-SITUATION Ancienne :
-
-3e échelon
-
-SITUATION Nouvelle :
-
-3e échelon
-
-ANCIENNETE CONSERVEE dans l'échelon, dans la limite de la durée de l'échelon :
-
-Ancienneté acquise majorée de six mois.
-
-SITUATION Ancienne :
-
-2e échelon
-
-SITUATION Nouvelle :
-
-2e échelon
-
-ANCIENNETE CONSERVEE dans l'échelon, dans la limite de la durée de l'échelon :
-
-Ancienneté acquise.
-
-SITUATION Ancienne :
-
-1er échelon
-
-SITUATION Nouvelle :
-
-1er échelon
-
-ANCIENNETE CONSERVEE dans l'échelon, dans la limite de la durée de l'échelon :
-
-Ancienneté acquise.
+<table>
+<tbody>
+<tr>
+<td colspan="2">
+<p align="center">SITUATION</p>
+</td>
+<td>
+<p align="center">ANCIENNETÉ CONSERVÉE </p>
+<br/>
+<p align="center">dans la limite de la durée de l'échelon</p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p align="center">Ancienne</p>
+</td>
+<td>
+<p align="center">Nouvelle</p>
+</td>
+<td>
+<pre> </pre>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p>7e échelon :</p>
+</td>
+<td>
+<pre> </pre>
+</td>
+<td>
+<pre> </pre>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p>- après 1 an</p>
+</td>
+<td>
+<p align="center">7e échelon</p>
+</td>
+<td>
+<p align="center">Ancienneté acquise diminuée d'1 an</p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p>- avant 1 an</p>
+</td>
+<td>
+<p align="center">6e échelon</p>
+</td>
+<td>
+<p align="center">Ancienneté acquise majorée de 2 ans</p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p>6e echelon</p>
+</td>
+<td>
+<p align="center">6e échelon</p>
+</td>
+<td>
+<p align="center">4/5 de l'ancienneté acquise</p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p>5e echelon</p>
+</td>
+<td>
+<p align="center">5e échelon</p>
+</td>
+<td>
+<p align="center">Ancienneté acquise</p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p>4e echelon</p>
+</td>
+<td>
+<p align="center">4e échelon</p>
+</td>
+<td>
+<p align="center">Ancienneté acquise</p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p>3e echelon</p>
+</td>
+<td>
+<p align="center">3e échelon</p>
+</td>
+<td>
+<p align="center">Ancienneté acquise majorée de 6 mois</p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p>2e echelon</p>
+</td>
+<td>
+<p align="center">2e échelon</p>
+</td>
+<td>
+<p align="center">Ancienneté acquise</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" valign="top">
+<p>1er échelon</p>
+</td>
+<td rowspan="2">
+<p align="center">1er </p>
+</td>
+<td rowspan="2">
+<p align="center">Ancienneté acquise</p>
+</td>
+</tr>
+</tbody>
+</table>
 
 II. - Pour l'application de l'article 16 ter du décret du 9 septembre 1965 susvisé, les assimilations prévues pour fixer les nouveaux indices de traitement mentionnés à l'article 15 dudit décret sont faites suivant le tableau de correspondance ci-après :
 
 <table>
+<tbody>
 <tr>
-<td> :-----------------------------:</td>
+<td>
+<p align="center">SITUATION ANCIENNE</p>
+</td>
+<td>
+<p align="center">SITUATION NOUVELLE</p>
+</td>
 </tr>
 <tr>
-<td> :  SITUATION   :  SITUATION   :</td>
+<td>
+<p>7e échelon :</p>
+</td>
+<td>
+<pre> </pre>
+</td>
 </tr>
 <tr>
-<td> :  ANCIENNE    :  NOUVELLE    :</td>
+<td>
+<p>- après 1 an</p>
+</td>
+<td>
+<p align="center">7e échelon</p>
+</td>
 </tr>
 <tr>
-<td> :--------------:--------------:</td>
+<td>
+<p>- avant 1 an</p>
+</td>
+<td>
+<p align="center">6e échelon</p>
+</td>
 </tr>
 <tr>
-<td> :  7e échelon  :              :</td>
+<td>
+<p>6e echelon</p>
+</td>
+<td>
+<p align="center">6e échelon</p>
+</td>
 </tr>
 <tr>
-<td> :  après 1 an  :  7e échelon  :</td>
+<td>
+<p>5e echelon</p>
+</td>
+<td>
+<p align="center">5e échelon</p>
+</td>
 </tr>
 <tr>
-<td> :--------------:--------------:</td>
+<td>
+<p>4e echelon</p>
+</td>
+<td>
+<p align="center">4e échelon</p>
+</td>
 </tr>
 <tr>
-<td> :  7e échelon  :              :</td>
+<td>
+<p>3e echelon</p>
+</td>
+<td>
+<p align="center">3e échelon</p>
+</td>
 </tr>
 <tr>
-<td> :  avant 1 an  :  6e échelon  :</td>
+<td>
+<p>2e echelon</p>
+</td>
+<td>
+<p align="center">2e échelon</p>
+</td>
 </tr>
 <tr>
-<td> :--------------:--------------:</td>
+<td rowspan="2">
+<p>1er échelon</p>
+</td>
+<td rowspan="2">
+<p align="center">1er </p>
+</td>
 </tr>
-<tr>
-<td> :  6e échelon  :  6e échelon  :</td>
-</tr>
-<tr>
-<td> :  5e échelon  :  5e échelon  :</td>
-</tr>
-<tr>
-<td> :  4e échelon  :  4e échelon  :</td>
-</tr>
-<tr>
-<td> :  3e échelon  :  3e échelon  :</td>
-</tr>
-<tr>
-<td> :  2e échelon  :  2e échelon  :</td>
-</tr>
-<tr>
-<td> : 1er échelon  : 1er échelon  :</td>
-</tr>
-<tr>
-<td> :-----------------------------:</td>
-</tr>
+</tbody>
 </table>
 
 Les pensions de fonctionnaires retraités ainsi que celles de leurs ayants cause sont révisées en application des dispositions ci-dessus à compter du 1er août 1996.

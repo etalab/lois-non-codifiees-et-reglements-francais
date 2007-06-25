@@ -6,7 +6,7 @@ Ces fonctionnaires concourent pour l'avancement de grade et d'échelon avec les 
 
 II. - Toutefois, lorsqu'ils sont détachés dans le corps des ingénieurs hospitaliers :
 
-1° Les fonctionnaires appartenant à un corps, cadre d'emploi ou emploi accessible aux ingénieurs de l'Ecole polytechnique ou de ses écoles d'application et les urbanistes de l'Etat sont classés dans le grade d'ingénieur en chef de 1re catégorie :
+1° Les fonctionnaires appartenant à un corps, cadre d'emplois ou emploi accessible aux ingénieurs de l'Ecole polytechnique ou de ses écoles d'application et les urbanistes de l'Etat sont classés dans le grade d'ingénieur hospitalier en chef à la classe exceptionnelle s'ils sont titulaires d'un grade ou d'un emploi dont l'indice brut terminal est supérieur à 966 et à la classe normale pour les autres fonctionnaires ;
 
 a) Hors classe, s'ils ont atteint dans leur corps d'origine un échelon doté d'un indice brut égal ou supérieur à 1015 ;
 
@@ -18,4 +18,4 @@ c) De 2e classe, s'ils ont atteint un échelon doté d'un indice brut inférieur
 
 3° Les fonctionnaires ayant atteint un grade dont l'indice brut terminal est inférieur à 801 sont classés dans le grade d'ingénieur subdivisionnaire.
 
-III. - Les fonctionnaires détachés depuis trois ans au moins peuvent être intégrés dans leur corps de détachement après avis de la commission administrative paritaire compétente. L'intégration est prononcée par l'autorité investie du pouvoir de nomination dans les grade et échelon atteints dans le corps d'accueil avec conservation de l'ancienneté acquise dans l'échelon. Les services accomplis dans les corps d'origine sont assimilés à des services accomplis dans les corps d'intégration.
+III. - Les fonctionnaires détachés dans le corps des ingénieurs hospitaliers et le corps des techniciens supérieurs depuis trois ans au moins ainsi que les fonctionnaires détachés dans le corps des dessinateurs depuis un an au moins peuvent être intégrés dans leur corps de détachement après avis de la commission administrative paritaire compétente. L'intégration est prononcée par l'autorité investie du pouvoir de nomination dans les grade et échelon atteints dans le corps d'accueil avec conservation de l'ancienneté acquise dans l'échelon. Les services accomplis dans les corps d'origine sont assimilés à des services accomplis dans les corps d'intégration.
