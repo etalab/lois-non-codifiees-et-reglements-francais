@@ -205,6 +205,7 @@
 - [Arrêté du 12 février 2007 (SANH0720822A)](arrete-du-12-fevrier-2007-sanh0720822a)
 - [Arrêté du 12 janvier 2007 (BUDB0750006A)](arrete-du-12-janvier-2007-budb0750006a)
 - [Arrêté du 12 janvier 2007 (INDI0609264A)](arrete-du-12-janvier-2007-indi0609264a)
+- [Arrêté du 12 juin 2007 (DEFD0756605A)](arrete-du-12-juin-2007-defd0756605a)
 - [Arrêté du 12 mars 2007 (AGRF0700632A)](arrete-du-12-mars-2007-agrf0700632a)
 - [Arrêté du 12 mars 2007 (BUDB0630232A)](arrete-du-12-mars-2007-budb0630232a)
 - [Arrêté du 12 mars 2007 (ECOM0720001A)](arrete-du-12-mars-2007-ecom0720001a)
