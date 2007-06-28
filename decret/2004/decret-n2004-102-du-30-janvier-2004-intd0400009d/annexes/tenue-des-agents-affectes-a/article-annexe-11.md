@@ -10,7 +10,7 @@ Haut de survêtement de couleur bleu foncé, avec trois bandes de couleur bleu g
 
 3. Polos
 
-Polo blanc avec trois bandes de couleur bleu gitane autour de la poitrine et l'inscription "police municipale" en bleu foncé sur la face avant et dans le dos.
+Polo ou maillot à manches courtes blanc avec trois bandes de couleur bleu gitane autour de la poitrine et l'inscription "police municipale" en bleu foncé sur la face avant et dans le dos.
 
 4. Pantalons et chaussures
 

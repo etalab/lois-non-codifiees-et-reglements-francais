@@ -18,7 +18,7 @@ Chemisette de couleur bleu ciel à col ouvert et à manches courtes, avec l'insc
 
 ou polo bleu foncé, à manches courtes, avec trois bandes de couleur bleu gitane autour de la poitrine et l'inscription "police municipale" en blanc sur la face avant et dans le dos.
 
-Les agents du cadre d'emplois des chefs de service de police municipale ont la possibilité de porter une chemisette ou un polo blanc, à manches courtes, avec les motifs et inscriptions prévus respectivement aux deux alinéas précédents.
+Les agents du cadre d'emplois des chefs de service de police municipale et du cadre d'emplois des directeurs de police municipale ont la possibilité de porter une chemisette ou un polo blanc, à manches courtes, avec les motifs et inscriptions prévus respectivement aux deux alinéas précédents.
 
 4. Pantalons, jupes, chaussettes, collants et chaussures
 

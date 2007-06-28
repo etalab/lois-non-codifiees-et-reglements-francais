@@ -26,7 +26,7 @@ Chemise de couleur bleu ciel, à manches longues, avec l'inscription "police mun
 
 ou polo de couleur bleu foncé, à manches longues, avec trois bandes de couleur bleu gitane autour de la poitrine et l'inscription "police municipale" en blanc sur la face avant et dans le dos.
 
-Les agents du cadre d'emplois des chefs de service de police municipale ont la possibilité de porter une chemise ou un polo blanc, à manches longues, avec les motifs et les inscriptions prévus respectivement aux deux alinéas précédents.
+Les agents du cadre d'emplois des chefs de service de police municipale et du cadre d'emplois des directeurs de police municipale ont la possibilité de porter une chemise ou un polo blanc, à manches longues, avec les motifs et les inscriptions prévus respectivement aux deux alinéas précédents.
 
 5. Pantalons, jupes, chaussettes, collants et chaussures
 

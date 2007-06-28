@@ -33,3 +33,11 @@ Chef de service de police municipale de classe supérieure : deux barrettes blan
 Chef de service de police municipale de classe exceptionnelle :
 
 trois barrettes blanches ou grises.
+
+Cadre d'emplois des directeurs de police municipale
+
+(catégorie A)
+
+Directeur de police municipale stagiaire : trois barrettes blanches ou grises et une barrette jaune à l'extrémité extérieure.
+
+Directeur de police municipale : quatre barrettes blanches ou grises.
