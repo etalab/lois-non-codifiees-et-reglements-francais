@@ -1,0 +1,3 @@
+# Article 113-14
+
+Pour remplir leurs missions dans des conditions optimales, il importe que les fonctionnaires actifs des services de la police nationale se maintiennent au meilleur niveau de leur qualification professionnelle et de leur aptitude physique. A cet effet, ils suivent les actions de formation et d'entraînement physique organisées par l'administration à leur intention, en application, notamment, des dispositions de l'arrêté ministériel du 28 août 2000 et de sa circulaire d'application du même jour, modifiée. Un dispositif spécifique est prévu à l'intention des personnels motocyclistes, par arrêté en date du 3 mars 2003 complété par deux instructions du même jour.

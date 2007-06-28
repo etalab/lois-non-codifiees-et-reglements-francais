@@ -1,0 +1,3 @@
+# Article 123-27
+
+L'exercice du droit syndical par les personnels concernés par le présent titre intervient dans le respect des dispositions législatives relatives à la protection du secret professionnel et du secret de l'enquête et de l'instruction, ainsi que dans le cadre des dispositions du décret n° 82-447 du 28 mai 1982 relatif à l'exercice du droit syndical dans la fonction publique, et de celles de sa circulaire d'application. L'exercice de ce droit est également soumis aux règles posées par le décret n° 86-592 du 18 mars 1986 portant code de déontologie de la police nationale. Une circulaire ministérielle précise les principes applicables en matière d'affichage de documents d'origine syndicale dans les locaux de police.

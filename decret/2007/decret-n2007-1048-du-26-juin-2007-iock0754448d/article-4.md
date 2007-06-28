@@ -1,0 +1,5 @@
+# Article 4
+
+Les maires des communes et les présidents des établissements publics de coopération intercommunale qui mettent en oeuvre des actions financées par le fonds dans les conditions prévues à l'article précédent présentent chaque année au conseil local ou intercommunal de sécurité et de prévention de la délinquance ou, à défaut, au conseil municipal ou à l'organe délibérant de l'établissement public de coopération intercommunale un rapport qui retrace les actions de prévention de la délinquance entreprises et les conditions de leur financement. Ce rapport est transmis au préfet du département.
+
+Le préfet présente chaque année au conseil départemental de prévention de la délinquance, d'aide aux victimes et de lutte contre la drogue, les dérives sectaires et les violences faites aux femmes, avant sa transmission au secrétaire général du comité interministériel de prévention de la délinquance et au directeur général de l'Agence nationale pour la cohésion sociale et l'égalité des chances, le rapport prévu au premier alinéa de l'article 2.
