@@ -10,7 +10,7 @@ La commission est présidée par un officier général de la 1re section en acti
 
 Les membres de la commission sont nommés par arrêté du ministre de la défense pour une durée de deux ans, renouvelable deux fois. Pour chacun d'eux, à l'exception du directeur chargé de la fonction militaire, un suppléant est nommé dans les mêmes conditions. Le mandat de l'officier général admis dans la 2e section n'est renouvelable qu'une fois.
 
-Les membres mentionnés aux 1° et 3° sont choisis parmi les officiers généraux en activité ou admis dans la 2e section depuis moins de dix-huit mois.
+Les membres mentionnés aux 1° et 3° sont choisis parmi les officiers généraux en activité ou admis dans la 2e section depuis moins de dix-huit mois. Cette condition de dix-huit mois n'est pas exigible en cas de renouvellement de mandat.
 
 Pour le membre mentionné au 3°, le suppléant est un officier général en activité si le titulaire nommé est un officier général en 2e section.
 
