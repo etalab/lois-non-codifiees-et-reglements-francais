@@ -2,7 +2,7 @@
 
 Les concours externe et interne de secrétaires de chancellerie prévus aux I et II de l'article 5 du décret du 18 novembre 1994 susvisé comportent les épreuves écrites d'admissibilité et orales d'admission suivantes dont le programme est annexé au présent arrêté ainsi qu'une épreuve orale facultative.
 
-A. - Epreuves écrites d'admissibilité
+A.-Epreuves écrites d'admissibilité
 
 Epreuve n° 1
 
@@ -32,9 +32,9 @@ a) La réponse à un questionnaire à choix multiples portant sur la grammaire, 
 
 b) La traduction sans dictionnaire en français d'un texte en anglais et en anglais d'un texte en français (durée totale : deux heures ; coefficient 2).
 
-Toute note inférieure à 12 sur 20 est éliminatoire. Toute note éliminatoire à cette épreuve entraînera la non-correction des autres épreuves écrites d'admissibilité.
+Toute note inférieure à 12 sur 20 est éliminatoire.
 
-B. - Epreuves orales d'admission
+B.-Epreuves orales d'admission
 
 Epreuve n° 1
 
@@ -56,30 +56,30 @@ Interrogation (d'une durée de quinze minutes après une préparation de quinze 
 
 Groupe A :
 
-- soit à l'organisation constitutionnelle de la France et aux institutions communautaires ;
+-soit à l'organisation constitutionnelle de la France et aux institutions communautaires ;
 
-- soit à l'organisation administrative de la France ;
+-soit à l'organisation administrative de la France ;
 
 Groupe B :
 
-- soit aux problèmes économiques ;
+-soit aux problèmes économiques ;
 
-- soit aux finances publiques ;
+-soit aux finances publiques ;
 
 Groupe C :
 
-- soit à l'histoire contemporaine ;
+-soit à l'histoire contemporaine ;
 
-- soit à la géographie de la France et des grandes puissances économiques.
+-soit à la géographie de la France et des grandes puissances économiques.
 
 Concours interne :
 
-- questions consulaires (préparation : quinze minutes ; durée : quinze minutes ; coefficient 2).
+-questions consulaires (préparation : quinze minutes ; durée : quinze minutes ; coefficient 2).
 
 Epreuve n° 3
 
 Epreuve commune aux deux concours consistant en une conversation à partir d'un texte rédigé en anglais (préparation : quinze minutes ; conversation : quinze minutes ; coefficient 2).
 
-C. - Epreuve orale facultative
+C.-Epreuve orale facultative
 
-Epreuve commune aux deux concours consistant en une conversation à partir d'un texte rédigé dans une des langues suivantes : allemand, arabe oriental, chinois, espagnol, grec, italien, japonais, portugais ou turc (préparation : quinze minutes ; conversation : quinze minutes ; coefficient 1).
+Epreuve commune aux deux concours consistant en une conversation à partir d'un texte rédigé dans une des langues suivantes : allemand, arabe oriental, chinois, espagnol, grec, italien, japonais, portugais, russe ou turc (préparation : quinze minutes ; conversation : quinze minutes ; coefficient 1).

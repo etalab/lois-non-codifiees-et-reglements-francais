@@ -28,8 +28,6 @@ b) Rédaction en anglais d'une note à partir de documents ou d'informations en 
 
 c) Rédaction en français d'une fiche de synthèse à partir de documents en anglais (durée totale : trois heures ; coefficient 3 ; toute note inférieure à 12 sur 20 est éliminatoire).
 
-Toute note éliminatoire à cette épreuve entraînera la non-correction des autres épreuves écrites d'admissibilité.
-
 6° Epreuve de deuxième langue étrangère :
 
 Au moment de son inscription, le candidat au cadre général choisira une deuxième langue étrangère parmi les langues suivantes : espagnol, italien ou portugais.

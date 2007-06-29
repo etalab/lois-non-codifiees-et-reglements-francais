@@ -2,7 +2,7 @@
 
 Lors de leur inscription, les candidats aux concours externe et interne peuvent demander à subir une épreuve facultative portant sur une troisième langue étrangère sélectionnée parmi les langues suivantes et non choisie à l'épreuve écrite d'admissibilité :
 
-- section Europe centrale et orientale : polonais, roumain, grec, bulgare, hongrois, serbo-croate, suédois, norvégien, allemand, russe ou néerlandais ;
+- section Europe centrale et orientale : polonais, roumain, grec, bulgare, hongrois, serbo-croate, suédois, norvégien, allemand, russe, néerlandais ou tchèque.
 
 - section Asie méridionale et Extrême-Orient : coréen, vietnamien, thaï, malais-indonésien, birman, cambodgien, ourdou, laotien, chinois, japonais ou hindi ;
 

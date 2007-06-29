@@ -20,6 +20,8 @@ Rédaction d'une note de synthèse à partir d'un dossier relatif aux questions 
 
 4° Composition portant sur la civilisation, l'histoire, les institutions, la vie politique, économique et sociale des pays de la section choisie (durée : quatre heures ; coefficient 4 ; toute note inférieure à 6 sur 20 est éliminatoire).
 
+Pour la section Méditerranée orientale, Maghreb, Afrique, les candidats se verront proposer deux sujets, l'un portant sur la Méditerranée orientale et le Maghreb, l'autre sur l'Afrique subsaharienne. Ils composeront sur le sujet de leur choix.
+
 5° Epreuve d'anglais :
 
 a) Réponse à un questionnaire à choix multiples portant sur la grammaire, les structures et les usages de la langue anglaise (durée : une heure trente) ;
@@ -27,8 +29,6 @@ a) Réponse à un questionnaire à choix multiples portant sur la grammaire, les
 b) Rédaction en anglais d'une note à partir de documents ou d'informations en anglais ;
 
 c) Rédaction en français d'une fiche de synthèse à partir de documents en anglais (durée totale : trois heures ; coefficient 3 ; toute note inférieure à 12 sur 20 est éliminatoire).
-
-Toute note éliminatoire à cette épreuve entraînera la non-correction des autres épreuves écrites d'admissibilité.
 
 6° Epreuve de deuxième langue étrangère :
 
