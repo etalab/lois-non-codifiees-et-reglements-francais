@@ -12,11 +12,11 @@ Par. 5 - La caisse reçoit les retenues sur les salaires des agents commissionn�
 
 Par. 6 - Les cotisations des anciens agents et des veuves ainsi que des orphelins affiliés à la caisse de prévoyance et de retraite du personnel de la Société nationale des chemins de fer français sont précomptées sur les arrérages de la pension.
 
-La Société nationale des chemins de fer français verse à la caisse une contribution assise sur le montant des pensions.
-
 Par. 6 bis - Le taux des cotisations prévues au paragraphe 5 à la charge des agents est fixé à 0,15 %.
 
-Le taux des cotisations prévues au paragraphe 5 à la charge de la Société nationale des chemins de fer français est fixé à 7,30 %.
+Le taux de la cotisation patronale prévue au paragraphe 5 à la charge de la Société nationale des chemins de fer français est fixé à 9,60 %.
+
+Ce taux évolue par indexation sur celui de la cotisation patronale d'assurance maladie des entreprises relevant du régime général de sécurité sociale. Il est libératoire de tout engagement pour la Société nationale des chemins de fer français.
 
 Le taux des cotisations prévues au paragraphe 6 à la charge des pensionnés relevant de la loi du 21 juillet 1909 susvisée et qui ne peuvent se prévaloir des dispositions de l'article R. 711-15 du code de la sécurité sociale est fixé à 0,70 % du montant de la pension de retraite inférieur à un plafond fixé par le conseil d'administration de la Société nationale des chemins de fer français.
 
