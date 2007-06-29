@@ -28,7 +28,7 @@ Le programme figure en annexe III au présent arrêté et fera l'objet d'une pub
 
 Le programme figure en annexe IV au présent arrêté et fera l'objet d'une publication au Journal officiel (durée : quatre heures ; coefficient 5). Toute note inférieure à 8 sur 20 est éliminatoire.
 
-4° Composition portant sur la civilisation, l'histoire, les institutions, la vie politique, les faits sociaux, la géographie économique et humaine et la culture des pays de la section choisie (durée : cinq heures ; coefficient 6). Toute note inférieure à 8 sur 20 est éliminatoire.
+4° Composition portant sur la civilisation, l'histoire, les institutions, la vie politique, les faits sociaux, la géographie économique et humaine et la culture des pays de la section choisie (durée : cinq heures ; coefficient 6). Pour la section Méditerranée orientale, Maghreb, Afrique, les candidats se verront proposer deux sujets, l'un portant sur la Méditerranée orientale et le Maghreb, l'autre sur l'Afrique subsaharienne. Ils composeront sur le sujet de leur choix. Toute note inférieure à 8 sur 20 est éliminatoire.
 
 5° Epreuve d'anglais :
 
@@ -41,8 +41,6 @@ c) Rédaction en français d'une fiche de synthèse à partir de documents en an
 Durée totale de l'épreuve : trois heures ; coefficient 3.
 
 Toute note inférieure à 12 sur 20 est éliminatoire.
-
-Toute note éliminatoire à cette épreuve entraînera la non-correction des autres épreuves écrites d'admissibilité.
 
 6° Epreuve de langue obligatoire de la section choisie :
 

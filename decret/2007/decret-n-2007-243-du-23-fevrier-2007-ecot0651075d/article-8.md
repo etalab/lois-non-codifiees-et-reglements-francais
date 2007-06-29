@@ -1,0 +1,3 @@
+# Article 8
+
+Tout exploitant doit procéder, selon une fréquence adaptée qu'il détermine et au moins annuellement, à une évaluation de ses risques financiers, en effectuant notamment des simulations de l'impact de la variation des taux d'intérêt et des cours boursiers sur les actifs de couverture et les provisions mentionnées à l'article 3, des estimations comparées de la liquidité desdits actifs et de l'exigibilité des charges afférentes auxdites provisions, ainsi qu'une évaluation de sa capacité à faire face aux charges mentionnées à l'article 2 dans des conditions détériorées de marché. Les résultats de cette évaluation figurent dans le rapport mentionné à l'article 12.
