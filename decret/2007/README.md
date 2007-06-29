@@ -937,7 +937,6 @@
 - [Décret n°2007-1056 du 28 juin 2007 (BCFB0755397D)](decret-n2007-1056-du-28-juin-2007-bcfb0755397d)
 - [Décret n°2007-468 du 28 mars 2007 (ECOP0700046D)](decret-n2007-468-du-28-mars-2007-ecop0700046d)
 - [Décret n°2007-474 du 28 mars 2007 (MENF0700572D)](decret-n2007-474-du-28-mars-2007-menf0700572d)
-- [Décret n°77-347 du 28 mars 1977](decret-n77-347-du-28-mars-1977)
 - [Décret n° 2007-106 du 29 janvier 2007 (SOCT0710004D)](decret-n-2007-106-du-29-janvier-2007-soct0710004d)
 - [Décret n° 2007-107 du 29 janvier 2007 (TOUZ0700043D)](decret-n-2007-107-du-29-janvier-2007-touz0700043d)
 - [Décret n° 2007-108 du 29 janvier 2007 (INTB0600286D)](decret-n-2007-108-du-29-janvier-2007-intb0600286d)
