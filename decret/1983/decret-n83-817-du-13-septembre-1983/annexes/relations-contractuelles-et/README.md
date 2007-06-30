@@ -2,7 +2,6 @@
 
 - [Article 28, annexe](article-28-annexe.md)
 - [Article 29, annexe](article-29-annexe.md)
-- [Article 30, annexe](article-30-annexe.md)
 - [Article 32, annexe](article-32-annexe.md)
 - [Article 34, annexe](article-34-annexe.md)
 - [Article 35, annexe](article-35-annexe.md)

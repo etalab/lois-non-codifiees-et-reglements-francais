@@ -6,8 +6,4 @@ L'harmonisation des conditions d'exploitation des différents modes de transport
 
 La contribution du transport ferroviaire à la vie économique et sociale de la nation, à l'aménagement équilibré du territoire et au développement régional, notamment en vue de la mise en oeuvre progressive du droit au transport.
 
-Le concours de l'Etat comprend les différentes contributions suivantes :
-
-La contribution aux charges de retraite, versée au compte retraites ;
-
-La contribution associée aux tarifs sociaux mis en oeuvre par la S.N.C.F à la demande de l'Etat pour les services d'intérêt national.
+Le concours de l'Etat comprend la contribution associée aux tarifs sociaux mis en oeuvre par la SNCF, à la demande de l'Etat pour les services d'intérêt national.
