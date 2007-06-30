@@ -1,5 +1,7 @@
 # Article 15
 
+Les modalités pratiques du permis de conduire de la sous-catégorie B 1 et de la catégorie B sont fixées par arrêté du ministre en charge des transports.
+
 Les modalités pratiques du permis de conduire de la sous-catégorie A 1 et de la catégorie A sont fixées en annexe n° 2 du présent arrêté (1).
 
 Les modalités pratiques du permis de conduire de la catégorie E (B) sont fixées en annexe n° 3 du présent arrêté (1).
