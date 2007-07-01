@@ -1,3 +1,5 @@
 # Article 28
 
-La présidence des commissions locales appartient au chef de la circonscription locale correspondante ou, en cas d'empêchement, au représentant de l'administration au sein de la commission qui est le plus ancien dans le grade le plus élevé.
+La présidence de la commission administrative paritaire locale est exercée par l'autorité auprès de laquelle cette commission est placée.
+
+En cas d'empêchement, le président désigne, pour le remplacer, un autre représentant de l'administration, membre de la commission administrative paritaire. Il en est fait mention au procès-verbal de la réunion.

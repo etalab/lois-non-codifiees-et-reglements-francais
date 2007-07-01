@@ -2,4 +2,4 @@
 
 Les commissions administratives paritaires sont présidées par le directeur général, directeur ou chef de service auprès duquel elles sont placées.
 
-Le président est, en cas d'empêchement, remplacé par le représentant de l'administration le plus ancien dans l'emploi hiérarchiquement le plus élevé.
+En cas d'empêchement, le président désigne, pour le remplacer, un autre représentant de l'administration, membre de la commission administrative paritaire. Il en est fait mention au procès-verbal de la réunion.

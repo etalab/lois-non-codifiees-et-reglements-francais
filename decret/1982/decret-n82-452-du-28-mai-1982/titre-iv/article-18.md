@@ -2,4 +2,4 @@
 
 Les comités techniques centraux, spéciaux, régionaux ou départementaux sont présidés par le directeur général, le directeur ou le chef de service auprès duquel ils sont placés.
 
-Le président peut toutefois, en cas d'empêchement, se faire remplacer par le représentant de l'Administration le plus ancien dans l'emploi hiérarchiquement le plus élevé.
+En cas d'empêchement, le président désigne, pour le remplacer, un autre représentant de l'administration, membre du comité technique paritaire. Il en est fait mention au procès-verbal de la réunion.
