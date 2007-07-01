@@ -6,40 +6,40 @@ Pour l'évaluation du loyer minimal, les pourcentages et les tranches de ressour
 
 - lorsque la date de signature du contrat de prêt ou de location-accession est antérieure au 1er juillet 1987 :
 
-26 % pour la tranche de ressources inférieure ou égale à 5 844,58 Euros ;
+20,80 % pour la tranche de ressources inférieures ou égales à 7 305,73 euros ;
 
-46 % pour la tranche de ressources supérieure à 5 844,58 Euros ;
+36,80 % pour la tranche de ressources supérieures à 7 305,73 euros ;
 
 - lorsque la date de signature du contrat de prêt ou de location-accession est postérieure au 30 juin 1987 et antérieure au 1er juillet 1988 :
 
-26 % pour la tranche de ressources inférieure ou égale à 4 480,68 Euros ;
+20,80 % pour la tranche de ressources inférieures ou égales à 5 600,85 euros ;
 
-52 % pour la tranche de ressources supérieure à 4 480,68 Euros ;
+41,60 % pour la tranche de ressources supérieures à 5 600,85 euros ;
 
 - lorsque la date de signature du contrat de prêt ou de location-accession est postérieure au 30 juin 1988 et antérieure au 1er juillet 1992 :
 
-26 % pour la tranche de ressources inférieure ou égale à 4 480,68 Euros ;
+20,80 % pour la tranche de ressources inférieures ou égales à 5 600,85 euros ;
 
-60 % pour la tranche de ressources supérieure à 4 480,68 Euros ;
+48,00 % pour la tranche de ressources supérieures à 5 600,85 euros ;
 
 - lorsque la date de signature du contrat de prêt ou de location-accession est postérieure au 30 juin 1992 :
 
-26 % pour la tranche de ressources inférieure ou égale à 4 480,68 Euros ;
+20,80 % pour la tranche de ressources inférieures ou égales à 5 600,85 euros ;
 
-52 % pour la tranche de ressources supérieure à 4 480,68 Euros.
+41,60 % pour la tranche de ressources supérieures à 5 600,85 euros.
 
 2. Logements améliorés et occupés par leur propriétaire :
 
-5 % pour la tranche de ressources inférieure ou égale à 1 558,48 Euros ;
+4,00 % pour la tranche de ressources inférieures ou égales à 1 948,10 euros ;
 
-13 % pour la tranche de ressources comprise entre 1 558,48 Euros et 2 142,97 Euros ;
+10,40 % pour la tranche de ressources comprises entre 1 948,10 euros et 2 678,71 euros ;
 
-27 % pour la tranche de ressources comprise entre 2 142,97 Euros et 3 116,94 Euros ;
+21,60 % pour la tranche de ressources comprises entre 2 678,71 euros et 3 896,18 euros ;
 
-33 % pour la tranche de ressources comprise entre 3 116,94 Euros et 4 285,95 Euros ;
+26,40 % pour la tranche de ressources comprises entre 3 896,18 euros et 5 357,44 euros ;
 
-40 % pour la tranche de ressources comprise entre 4 285,95 Euros et 5 065,03 Euros ;
+32,00 % pour la tranche de ressources comprises entre 5 357,44 euros et 6 331,29 euros ;
 
-60 % pour la tranche de ressources supérieure à 5 065,03 Euros.
+48,00 % pour la tranche de ressources supérieures à 6 331,29 euros.
 
-La valeur numérique prévue au troisième alinéa de l'article R. 351-21 est fixée à 45,57 Euros.
+La valeur numérique prévue au troisième alinéa de l'article R. 351-21 est fixée à 45,57 euros.

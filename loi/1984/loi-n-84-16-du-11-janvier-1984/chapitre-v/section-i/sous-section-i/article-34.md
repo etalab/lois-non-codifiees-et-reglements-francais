@@ -30,6 +30,10 @@ A l'expiration de chacun des congés mentionnés aux deux alinéas précédents,
 
 6° Au congé de formation professionnelle ;
 
+6° bis Au congé pour validation des acquis de l'expérience ;
+
+6° ter Au congé pour bilan de compétences ;
+
 7° Au congé pour formation syndicale avec traitement d'une durée maximale de douze jours ouvrables par an.
 
 La formation ouvrant droit au bénéfice de ce congé et placée sous la responsabilité des organisations syndicales de fonctionnaires représentées au Conseil supérieur de la fonction publique de l'Etat peut faire l'objet d'une aide financière de l'Etat ;

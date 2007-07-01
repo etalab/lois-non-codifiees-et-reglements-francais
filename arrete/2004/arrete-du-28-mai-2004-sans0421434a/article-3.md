@@ -6,6 +6,8 @@ I. - Pour l'application de l'article D. 755-28 du même code :
 
 BÉNÉFICIAIRES :
 
+TF (en %) :
+
 Personne isolée ;
 
 Couple sans personne à charge ;
@@ -20,25 +22,23 @@ Personne seule ou couple ayant quatre personnes à charge ;
 
 Personne seule ou couple ayant cinq personnes à charge ;
 
-Personne seule ou couple ayant six personnes à charge ;
+Personne seule ou couple ayant six personnes à charge ou plus ;
 
-TF (en Euros) :
+2,81 ;
 
-3,51 ;
+2,99 ;
 
-3,74 ;
+2,38 ;
 
-2,98 ;
+2,17 ;
 
-2,71 ;
+1,94 ;
 
-2,43 ;
+1,80 ;
 
-2,25 ;
+1,69 ;
 
-2,11 ;
-
-2,03 ;
+1,62 ;
 
 2° Le loyer plafond prévu au premier alinéa ainsi que le loyer plafond de référence pris en compte pour le calcul de TL est défini selon le tableau suivant :
 

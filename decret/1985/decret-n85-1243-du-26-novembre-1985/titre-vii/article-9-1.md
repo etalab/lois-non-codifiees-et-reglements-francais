@@ -10,4 +10,10 @@ Grenoble-I ;
 
 Limoges ;
 
-Paris-XII.
+Paris-XII ;
+
+Lyon-I ;
+
+Reims ;
+
+Nantes.

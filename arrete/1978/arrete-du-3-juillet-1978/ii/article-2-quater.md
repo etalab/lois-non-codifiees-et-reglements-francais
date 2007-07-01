@@ -1,12 +1,12 @@
 # Article 2 quater
 
-Pour l'application de l'article R. 351-17-5, le taux de participation personnelle (TP) du ménage, exprimé en pourcentage, est calculé selon la formule suivante :
+Pour l'application de l'article R. 351-17-5, le taux de participation personnelle (Tp) du ménage, exprimé en pourcentage, est calculé selon la formule suivante :
 
-TP = TF + TL,
+Tp = TF + TL
 
 dans laquelle :
 
-TF représente un taux fonction de la taille de la famille, donné par le tableau suivant :
+TF représente un taux fonction de la taille de la famille donné par le tableau suivant :
 
 <table>
 <tbody>
@@ -15,7 +15,8 @@ TF représente un taux fonction de la taille de la famille, donné par le tablea
 <p align="center">BÉNÉFICIAIRES</p>
 </td>
 <td width="302">
-<p align="center">T<sub>F</sub> A COMPTER DU 1ER JANVIER 2002 <br/>(en pourcentage)</p>
+<p align="center">T<sub>F</sub>
+<br/>(en pourcentage)</p>
 </td>
 </tr>
 <tr>
@@ -23,7 +24,7 @@ TF représente un taux fonction de la taille de la famille, donné par le tablea
 <p>Personne seule</p>
 </td>
 <td width="302">
-<p align="center">3,54</p>
+<p align="center">2,83</p>
 </td>
 </tr>
 <tr>
@@ -31,7 +32,7 @@ TF représente un taux fonction de la taille de la famille, donné par le tablea
 <p>Couple sans personne à charge</p>
 </td>
 <td width="302">
-<p align="center">3,94</p>
+<p align="center">3,15</p>
 </td>
 </tr>
 <tr>
@@ -39,7 +40,7 @@ TF représente un taux fonction de la taille de la famille, donné par le tablea
 <p>Personne seule ou couple avec une personne à charge</p>
 </td>
 <td width="302">
-<p align="center">3,38</p>
+<p align="center">2,70</p>
 </td>
 </tr>
 <tr>
@@ -47,7 +48,7 @@ TF représente un taux fonction de la taille de la famille, donné par le tablea
 <p>Personne seule ou couple avec deux personnes à charge</p>
 </td>
 <td width="302">
-<p align="center">2,97</p>
+<p align="center">2,38</p>
 </td>
 </tr>
 <tr>
@@ -55,7 +56,7 @@ TF représente un taux fonction de la taille de la famille, donné par le tablea
 <p>Personne seule ou couple avec trois personnes à charge</p>
 </td>
 <td width="302">
-<p align="center">2,51</p>
+<p align="center">2,01</p>
 </td>
 </tr>
 <tr>
@@ -63,7 +64,7 @@ TF représente un taux fonction de la taille de la famille, donné par le tablea
 <p>Personne seule ou couple ayant quatre personnes à charge</p>
 </td>
 <td width="302">
-<p align="center">2,31</p>
+<p align="center">1,85</p>
 </td>
 </tr>
 <tr>
@@ -71,7 +72,7 @@ TF représente un taux fonction de la taille de la famille, donné par le tablea
 <p>Par personne à charge supplémentaire</p>
 </td>
 <td width="302">
-<p align="center">0,07</p>
+<p align="center">-0,06</p>
 </td>
 </tr>
 </tbody>
@@ -128,8 +129,8 @@ Pour la détermination de TL, les taux et tranches sont fixés comme suit :
 
 0 % pour la tranche de RL inférieure à 45 % ;
 
-0,56 % pour la tranche de RL entre 45 % et 75 % ;
+0,45 % pour la tranche de RL entre 45 % et 75 % ;
 
-0,85 % pour la tranche de RL au-dessus de 75 %.
+0,68 % pour la tranche de RL supérieure à 75 %.
 
-TL exprimé en % est arrondi à la troisième décimale.
+TL exprimé en pourcentage est arrondi à la troisième décimale.

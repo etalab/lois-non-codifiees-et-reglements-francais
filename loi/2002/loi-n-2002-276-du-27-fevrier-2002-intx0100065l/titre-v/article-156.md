@@ -22,7 +22,7 @@ V. - Lorsque l'établissement public de coopération intercommunale a reçu des 
 
 Dans le cas où une commune ou un établissement public de coopération intercommunale refuserait ou négligerait d'accomplir cette mission, le représentant de l'Etat dans le département peut, après l'en avoir requis, y pourvoir d'office.
 
-Les enquêtes de recensement sont effectuées par des agents recenseurs, agents de la commune ou de l'établissement public de coopération intercommunale affectés à cette tâche ou recrutés par eux à cette fin. Lorsque l'activité exercée par un agent recenseur présente un caractère accessoire, elle est exclue de l'interdiction prévue à l'article L. 324-1 du code du travail. L'inéligibilité prévue au douzième alinéa de l'article L. 231 du code électoral s'applique à tous les agents recenseurs, quel que soit le nombre d'habitants de la commune.
+Les enquêtes de recensement sont effectuées par des agents recenseurs, agents de la commune ou de l'établissement public de coopération intercommunale affectés à cette tâche ou recrutés par eux à cette fin. Lorsque l'activité exercée par un agent recenseur présente un caractère accessoire, elle est exclue de l'interdiction prévue par l'article 25 de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires. L'inéligibilité prévue au douzième alinéa de l'article L. 231 du code électoral s'applique à tous les agents recenseurs, quel que soit le nombre d'habitants de la commune.
 
 VI. - Les dates des enquêtes de recensement peuvent être différents selon les communes.
 

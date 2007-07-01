@@ -1,5 +1,7 @@
 # Article 11
 
-Sauf le cas de renouvellement anticipé d'une commission, les élections aux commissions administratives paritaires ont lieu quatre mois au plus et deux mois au moins avant la date d'expiration du mandat de leurs membres en exercice, telle que cette date est déterminée à l'article 7 ci-dessus. La date de ces élections est fixée par le ministre intéressé.
+Sauf le cas de renouvellement anticipé d'une commission, les élections aux commissions administratives paritaires ont lieu quatre mois au plus et deux mois au moins avant la date d'expiration du mandat de leurs membres en exercice, telle que cette date est déterminée à l'article 7 ci-dessus.
 
-Toutefois, l'arrêté visé à l'article 2 peut prévoir que la date des élections aux commissions locales est fixée par le chef du service déconcentré auprès duquel ces commissions sont constituées, sous réserve de l'application éventuelle des dispositions du deuxième alinéa de l'article 7.
+En cas de renouvellement général des commissions administratives paritaires, la date est fixée par le ministre intéressé.
+
+En cas d'élections partielles ou d'élections aux commissions administratives paritaires locales qui ne sont pas concomitantes au renouvellement général, la date est fixée par l'autorité auprès de laquelle la commission est placée.

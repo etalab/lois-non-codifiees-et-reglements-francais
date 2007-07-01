@@ -4,8 +4,6 @@ Pour l'application de l'article R. 351-7-2, le montant auquel sont réputées é
 
 1° Pour les demandes antérieures au 1er juillet 1999 :
 
-3 700 Euros ;
+4 600 euros ;
 
-2° Pour les demandes postérieures au 30 juin 1999 : 4 200 Euros, minoré de 500 Euros lorsque le demandeur est titulaire d'une bourse de l'enseignement supérieur qui n'est pas assujettie à l'impôt sur le revenu.
-
-Les montants fixés aux 1° et 2° ci-dessus sont majorés de 2 000 Euros lorsque les deux membres d'un couple poursuivent des études.
+2° Pour les demandes postérieures au 30 juin 1999 : 5 300 euros, minoré de 700 euros lorsque le demandeur est titulaire d'une bourse de l'enseignement supérieur qui n'est pas assujettie à l'impôt sur le revenu.

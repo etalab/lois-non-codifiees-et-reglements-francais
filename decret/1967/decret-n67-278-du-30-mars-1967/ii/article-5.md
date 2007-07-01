@@ -4,6 +4,8 @@ Dans chaque circonscription d'action régionale, il est créé un service régio
 
 Le chef du service régional de l'équipement est notamment chargé :
 
+D'assurer la maîtrise d'ouvrage des opérations d'investissement routier à l'exception de celles relevant de la compétence des directions interdépartementales des routes telle qu'elle est fixée par le décret n° 2006-304 du 16 mars 2006 portant création et organisation des directions interdépartementales des routes.
+
 De préparer la programmation des études d'aménagements urbains et la répartition des crédits d'études dans la région ;
 
 De préparer la programmation des zones d'aménagement concerté et, plus généralement, de coopérer à la mise en oeuvre de la politique générale d'aménagement urbain ;

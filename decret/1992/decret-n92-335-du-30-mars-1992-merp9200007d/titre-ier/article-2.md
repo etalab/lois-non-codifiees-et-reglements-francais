@@ -14,6 +14,6 @@ e) De fournir une assistance technique aux activités de la pêche maritime et d
 
 f) De contribuer à des expérimentations, des travaux de recherche, des études socio-économiques, ainsi qu'à leurs applications dans le domaine de la mise en valeur de la ressource marine et aquacole ;
 
-g) De réaliser des actions en matière sociale, de gérer le service social des pêches maritimes et de participer à la création et au fonctionnement des caisses de garantie contre les intempéries et avaries ;
+g) De réaliser des actions en matière sociale et de participer à la création et au fonctionnement des caisses de garantie contre les intempéries et avaries ;
 
 h) De coordonner l'action des comités régionaux et locaux des pêches maritimes et des élevages marins.

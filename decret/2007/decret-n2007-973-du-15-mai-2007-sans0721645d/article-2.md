@@ -1,0 +1,9 @@
+# Article 2
+
+A la date d'entrée en vigueur du présent décret, les crédits non consommés au titre de la dotation nationale de développement des réseaux ou de la dotation du fonds d'aide à la qualité des soins de ville, à l'exception de ceux relatifs au financement de l'évaluation des pratiques professionnelles, sont transférés au fonds d'intervention pour la qualité et la coordination des soins.
+
+La part de ces crédits déjà répartis dans le cadre de la détermination pour 2007 des dotations régionales de développement des réseaux en application de l'article L. 162-43 du code de la sécurité sociale dans sa version antérieure à l'entrée en vigueur du présent décret ou affectés aux comités régionaux de gestion du fonds d'aide à la qualité des soins de ville dans le cadre de la gestion de ce fonds en 2007 sont transférés à l'union régionale des caisses d'assurance maladie correspondante au titre du fonds d'intervention pour la qualité et la coordination des soins.
+
+L'ensemble des droits et obligations liés aux décisions de financement et à toutes leurs conditions de mise en oeuvre, qui ont commencé à s'exécuter dans le cadre du Fonds d'aide à la qualité des soins de ville ou de la dotation nationale de développement des réseaux avant l'entrée en vigueur du présent décret, continuent à s'exécuter dans leurs conditions normales de conclusion.
+
+Dès l'entrée en vigueur du présent décret, le comité national de gestion et les missions régionales de santé établissent, chacun en ce qui le concerne, un budget de liaison en vue de l'exécution des seules dépenses liées aux droits et obligations mentionnées au troisième alinéa. Ces budgets de liaison sont repris, pour y être intégrés, dans les budgets pour 2007 élaborés conformément aux articles D. 221-6 et D. 221-15 du code de la sécurité sociale.

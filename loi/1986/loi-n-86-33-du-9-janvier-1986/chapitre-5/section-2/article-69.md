@@ -2,7 +2,7 @@
 
 Sauf pour les emplois mentionnés à l'article 3, l'avancement de grade a lieu, selon les proportions définies par les statuts particuliers, suivant l'une ou plusieurs des modalités ci-après :
 
-1° Au choix, par voie d'inscription à un tableau annuel d'avancement établi après avis de la commission administrative paritaire par appréciation de la valeur professionnelle des agents ;
+1° Au choix, par voie d'inscription à un tableau annuel d'avancement établi après avis de la commission administrative paritaire, par appréciation de la valeur professionnelle et des acquis de l'expérience professionnelle des agents ;
 
 2° Par voie d'inscription à un tableau annuel d'avancement établi après avis de la commission administrative paritaire après une sélection par voie d'examen professionnel. Les statuts particuliers peuvent prévoir que le jury complète son appréciation résultant des épreuves de l'examen par la consultation du dossier individuel de tous les candidats ;
 

@@ -91,4 +91,4 @@ où R1 et R2, sont respectivement un pourcentage du montant du revenu minimum d'
 
 Les montants du revenu minimum d'insertion et de la base mensuelle des allocations familiales sont ceux en vigueur au 1er janvier de l'année civile précédant la période de paiement.
 
-Le résultat multiplié par douze est arrondi à l'euro le plus proche et affecté d'un abattement calculé suivant les règles applicables en matière d'imposition aux traitements et salaires prévues au deuxième alinéa du 3° de l'article 83 et au quatrième alinéa du 5 (a) de l'article 158 du code général des impôts.
+Le résultat, multiplié par douze, est arrondi à l'euro le plus proche et affecté d'un abattement calculé suivant les règles applicables en matière d'imposition aux traitements et salaires prévues au deuxième alinéa du 3° de l'article 83 du code général des impôts.

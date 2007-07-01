@@ -16,7 +16,7 @@ a) Par les gestionnaires des réseaux publics de transport ou de distribution qu
 
 b) Par les fournisseurs d'électricité qui la perçoivent en addition de leur prix de vente auprès des consommateurs éligibles ayant exercé les droits accordés au III de l'article 22 de la loi n° 2000-108 du 10 février 2000 précitée, lorsque ces fournisseurs ont conclu un contrat d'accès aux réseaux en application du septième alinéa de l'article 23 de la même loi pour alimenter ces consommateurs ;
 
-c) Par les fournisseurs d'électricité qui la perçoivent en addition des tarifs de vente aux clients non éligibles mentionnés à l'article 4 de la loi n° 2000-108 du 10 février 2000 précitée, auprès des consommateurs non éligibles et des consommateurs éligibles qui n'ont pas exercé les droits accordés au III de l'article 22 de la même loi ;
+c) Par les fournisseurs d'électricité qui la perçoivent en addition des tarifs réglementés de vente mentionnés à l'article 4 de la loi n° 2000-108 du 10 février 2000 précitée, auprès des consommateurs non éligibles et des consommateurs éligibles qui n'ont pas exercé les droits accordés au III de l'article 22 de la même loi ;
 
 2° Pour le gaz naturel :
 
@@ -24,7 +24,7 @@ a) Par les gestionnaires des réseaux de transport ou de distribution qui la per
 
 b) Par les fournisseurs qui la perçoivent en addition de leur prix de vente, auprès des clients éligibles ayant exercé les droits accordés à l'article 3 de la loi n° 2003-8 du 3 janvier 2003 précitée qu'ils alimentent, lorsque les fournisseurs ont conclu un contrat d'accès aux réseaux pour alimenter ces clients ;
 
-c) Par les fournisseurs qui la perçoivent, en addition des tarifs de vente aux clients non éligibles, auprès des consommateurs finals non éligibles et des consommateurs finals éligibles qui n'ont pas exercé les droits accordés à l'article 3 de la loi n° 2003-8 du 3 janvier 2003 précitée.
+c) Par les fournisseurs qui la perçoivent, en addition des tarifs réglementés de vente, auprès des consommateurs finals non éligibles et des consommateurs finals éligibles qui n'ont pas exercé les droits accordés à l'article 3 de la loi n° 2003-8 du 3 janvier 2003 précitée.
 
 III. - La contribution tarifaire est assise :
 
@@ -34,7 +34,7 @@ III. - La contribution tarifaire est assise :
 
 - sur la part fixe hors taxes de la part relative à l'utilisation des réseaux, comprise dans le prix de vente de l'électricité, lorsque la contribution tarifaire est due en application du b du 1° du II ;
 
-- sur la part fixe hors taxes de la part relative à l'utilisation des réseaux, comprise dans les tarifs de vente de l'électricité aux clients non éligibles, lorsque la contribution tarifaire est due en application du c du 1° du II ;
+- sur la part fixe hors taxes de la part relative à l'utilisation des réseaux, comprise dans les tarifs réglementés de vente de l'électricité, lorsque la contribution tarifaire est due en application du c du 1° du II ;
 
 2° Pour le gaz naturel :
 
@@ -42,7 +42,7 @@ III. - La contribution tarifaire est assise :
 
 - sur la quote-part hors taxes de la part relative à l'utilisation des réseaux de transport et de distribution liée au soutirage et indépendante de la consommation effective, comprise dans le prix de vente, lorsque la contribution tarifaire est due en application du b du 2° du II ;
 
-- sur la quote-part hors taxes de la part relative à l'utilisation des réseaux de transport et de distribution liée au soutirage et indépendante de la consommation effective, comprise dans les tarifs de vente aux consommateurs non éligibles, lorsque la contribution tarifaire est due en application du c du 2° du II.
+- sur la quote-part hors taxes de la part relative à l'utilisation des réseaux de transport et de distribution liée au soutirage et indépendante de la consommation effective, comprise dans les tarifs réglementés de vente, lorsque la contribution tarifaire est due en application du c du 2° du II.
 
 IV. - La contribution tarifaire est due, à raison des contrats conclus par les personnes mentionnées au II pour la réalisation des prestations mentionnées au I, lors de l'encaissement des acomptes ou du prix par le redevable ou, sur option de ce dernier, au moment du débit ; dans ce cas, elle est due en tout état de cause lors de l'encaissement des acomptes ou du prix s'il précède le débit.
 
