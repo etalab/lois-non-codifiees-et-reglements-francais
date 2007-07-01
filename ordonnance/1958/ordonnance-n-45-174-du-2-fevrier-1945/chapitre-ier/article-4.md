@@ -22,12 +22,14 @@ Aucune mesure de garde à vue ne peut être prolongée sans présentation préal
 
 VI - Les interrogatoires des mineurs placés en garde à vue visés à l'article 64 du code de procédure pénale font l'objet d'un enregistrement audiovisuel.
 
-L'enregistrement original est placé sous scellés et sa copie est versée au dossier.
+L'enregistrement ne peut être consulté, au cours de l'instruction ou devant la juridiction de jugement, qu'en cas de contestation du contenu du procès-verbal d'interrogatoire, sur décision du juge d'instruction, du juge des enfants ou de la juridiction de jugement, à la demande du ministère public ou d'une des parties. Les huit derniers alinéas de l'article 114 ne sont pas applicables. Lorsqu'une partie demande la consultation de l'enregistrement, cette demande est formée et le juge d'instruction statue conformément aux deux premiers alinéas de l'article 82-1 du code de procédure pénale.
 
-L'enregistrement ne peut être visionné qu'avant l'audience de jugement, en cas de contestation du contenu du procès-verbal d'interrogatoire, sur décision, selon le cas, du juge d'instruction ou du juge des enfants saisi par l'une des parties. Les huit derniers alinéas de l'article 114 ne sont pas applicables.
+Le fait, pour toute personne, de diffuser un enregistrement original ou une copie réalisée en application du présent article est puni d'un an d'emprisonnement et de 15000 euros d'amende.
 
-Le fait, pour toute personne, de diffuser un enregistrement original ou une copie réalisée en application du présent article est puni d'un an d'emprisonnement et de [*taux*] 15000 euros d'amende.
+Lorsque l'enregistrement ne peut être effectué en raison d'une impossibilité technique, il en est fait mention dans le procès-verbal d'interrogatoire qui précise la nature de cette impossibilité. Le procureur de la République ou le juge d'instruction en est immédiatement avisé.
 
 A l'expiration d'un délai de cinq ans à compter de la date de l'extinction de l'action publique, l'enregistrement original et sa copie sont détruits dans le délai d'un mois.
+
+Un décret précise en tant que de besoin les modalités d'application du présent VI.
 
 VII. - Les dispositions de l'article 706-88 du code de procédure pénale, à l'exception de celles de la deuxième phrase de son dernier alinéa, sont applicables au mineur de plus de seize ans lorsqu'il existe une ou plusieurs raisons plausibles de soupçonner qu'une ou plusieurs personnes majeures ont participé, comme auteurs ou complices, à la commission de l'infraction.
