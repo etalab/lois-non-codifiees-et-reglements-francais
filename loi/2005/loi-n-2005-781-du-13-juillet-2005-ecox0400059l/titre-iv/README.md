@@ -2,3 +2,4 @@
 
 - [Article 56](article-56.md)
 - [Article 66](article-66.md)
+- [Article 66-2](article-66-2.md)
