@@ -1,5 +1,7 @@
 # Article 48
 
-La mise à disposition [*définition*] est la situation du fonctionnaire qui demeure dans son corps d'origine, est réputé occuper son emploi, continue à percevoir la rémunération correspondante, mais qui effectue son service dans une autre administration que la sienne. Elle ne peut avoir lieu qu'en cas de nécessité de service, avec l'accord du fonctionnaire, au profit des établissements mentionnés à l'article 2. L'intéressé doit remplir des fonctions d'un niveau hiérarchique comparable à celui des fonctions exercées dans son administration d'origine.
+La mise à disposition est la situation du fonctionnaire qui demeure dans son corps d'origine, est réputé occuper son emploi, continue à percevoir la rémunération correspondante, mais qui exerce ses fonctions hors du service où il a vocation à servir.
 
-Un décret en Conseil d'Etat fixe les conditions d'application du présent article.
+Elle ne peut avoir lieu qu'avec l'accord du fonctionnaire et doit être prévue par une convention conclue entre l'administration d'origine et l'organisme d'accueil.
+
+Le fonctionnaire peut être mis à disposition auprès d'un ou de plusieurs organismes pour y effectuer tout ou partie de son service.

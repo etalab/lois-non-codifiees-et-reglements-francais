@@ -1,7 +1,3 @@
 # Article 62
 
-La mise à disposition est également possible auprès des organismes d'intérêt général.
-
-Un décret en Conseil d'Etat fixe les cas, les conditions et la durée de la mise à disposition lorsqu'elle intervient auprès de tels organismes.
-
-L'organe délibérant de la collectivité territoriale ou de l'établissement est informé préalablement de la mise à disposition.
+L'application des articles 61, 61-1 et 61-2 fait l'objet d'un rapport annuel de l'exécutif de la collectivité territoriale, du président de l'établissement public ou du président du centre de gestion au comité technique paritaire compétent pour l'ensemble des services de la collectivité ou de l'établissement ou l'ensemble des collectivités et établissements affiliés, précisant le nombre de fonctionnaires mis à disposition, les organismes bénéficiaires de ces mises à disposition, ainsi que le nombre des personnels de droit privé mis à disposition.

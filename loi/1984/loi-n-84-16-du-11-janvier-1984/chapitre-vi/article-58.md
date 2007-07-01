@@ -1,12 +1,14 @@
 # Article 58
 
-L'avancement de grade [*définition*] a lieu de façon continue d'un grade au grade immédiatement supérieur. Il peut être dérogé à cette règle dans les cas où l'avancement est subordonné à une sélection professionnelle.
+L'avancement de grade a lieu de façon continue d'un grade au grade immédiatement supérieur. Il peut être dérogé à cette règle dans les cas où l'avancement est subordonné à une sélection professionnelle.
 
 L'avancement de grade peut être subordonné à la justification d'une durée minimale de formation professionnelle au cours de la carrière.
 
 Sauf pour les emplois laissés à la décision du Gouvernement, l'avancement de grade a lieu, selon les proportions définies par les statuts particuliers, suivant l'une ou plusieurs des modalités ci-après :
 
-1° Soit au choix, par voie d'inscription à un tableau annuel d'avancement, établi après avis de la commission administrative paritaire, par appréciation de la valeur professionnelle des agents ;    2° Soit par voie d'inscription à un tableau annuel d'avancement, établi après avis de la commission administrative paritaire, après une sélection par voie d'examen professionnel.
+1° Soit au choix, par voie d'inscription à un tableau annuel d'avancement, établi après avis de la commission administrative paritaire, par appréciation de la valeur professionnelle et des acquis de l'expérience professionnelle des agents ;
+
+2° Soit par voie d'inscription à un tableau annuel d'avancement, établi après avis de la commission administrative paritaire, après une sélection par voie d'examen professionnel.
 
 Les statuts particuliers peuvent prévoir que le jury complète son appréciation résultant des épreuves de l'examen par la consultation du dossier individuel de tous les candidats ;
 

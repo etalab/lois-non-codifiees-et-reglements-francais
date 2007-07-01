@@ -4,7 +4,7 @@ Les formations organisées par le centre national de la fonction publique territ
 
 1° Les organismes suivants :
 
-a) Les administrations et les établissements publics de l'Etat, et notamment ceux visés à l'article L. 970-4 du code du travail ;
+a) Les administrations et les établissements publics de l'Etat ;
 
 b) Les établissements participant à la formation du personnel relevant des titres Ier et IV du statut général des fonctionnaires de l'Etat et des collectivités territoriales ;
 

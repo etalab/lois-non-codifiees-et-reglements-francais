@@ -4,6 +4,6 @@ En vue de favoriser la promotion interne, les statuts particuliers fixent une pr
 
 1° Examen professionnel ;
 
-2° Liste d'aptitude établie après avis de la commission paritaire du corps d'accueil.
+2° Liste d'aptitude établie après avis de la commission administrative paritaire du corps d'accueil, par appréciation de la valeur professionnelle et des acquis de l'expérience professionnelle des agents.
 
 Chaque statut particulier peut prévoir l'application des deux modalités ci-dessus, sous réserve qu'elles bénéficient à des agents placés dans des situations différentes.

@@ -4,4 +4,4 @@ Le comité d'entreprise ou, à défaut, les délégués du personnel sont consul
 
 Les dispositions de l'alinéa précédent sont applicables aux organismes qui tiennent lieu de comité d'entreprise en vertu soit de dispositions législatives ou réglementaires autres que celles du code du travail, soit de stipulations contractuelles.
 
-En ce qui concerne les collectivités locales et leurs établissements publics administratifs, les organes paritaires prévus à l'article L. 970-5 du code du travail sont substitués au comité d'entreprise.
+En ce qui concerne les collectivités locales et leurs établissements publics administratifs, les organes paritaires prévus à l'article 32 de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale sont substitués au comité d'entreprise.

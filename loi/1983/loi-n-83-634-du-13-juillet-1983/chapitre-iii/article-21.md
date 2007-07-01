@@ -10,4 +10,8 @@ Les fonctionnaires ont droit à :
 
 - des congés de formation professionnelle ;
 
+- des congés pour validation des acquis de l'expérience ;
+
+- des congés pour bilan de compétences ;
+
 - des congés pour formation syndicale.

@@ -1,5 +1,6 @@
 # Section II Détachement.
 
+- [Article 44 bis](article-44-bis.md)
 - [Article 45](article-45.md)
 - [Article 45 bis](article-45-bis.md)
 - [Article 46](article-46.md)
