@@ -1,11 +1,12 @@
-# Arrêté du 23 mai 1984 relatif à la définition de l'échantillon démographique permanent de l'I.N.S.E.E. et des dispositions prises pour assurer la sécurité des traitements.
+# Arrêté du 23 mai 1984 relatif au piégeage des populations animales.
 
 - [Article 1](article-1.md)
-- [Article 2](article-2.md)
-- [Article 3](article-3.md)
-- [Article 4](article-4.md)
+- [Chapitre I : Catégorie de pièges autorisés](chapitre-i)
+- [Chapitre II : homologation de certains pièges](chapitre-ii)
+- [Chapitre III : Agrément des piégeurs](chapitre-iii)
+- [Chapitre IV : Déclaration des opérations de piégeage](chapitre-iv)
 - [Titre IV : Dispositions relatives aux affiliés teneurs de comptes conservateurs.](titre-iv)
-- [Article 5](article-5.md)
-- [Article 6](article-6.md)
-- [Article 7](article-7.md)
+- [Chapitre V : Prescriptions générales pour le piégeage](chapitre-v)
+- [Chapitre VI : Dispositions diverses](chapitre-vi)
+- [Chapitre VII : Dispositions transitoires](chapitre-vii)
 - [Annexes](annexes)
