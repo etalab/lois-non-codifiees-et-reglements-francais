@@ -812,7 +812,6 @@
 - [Décret n°99-256 du 31 mars 1999 (MESX9900024D)](decret-n99-256-du-31-mars-1999-mesx9900024d)
 - [Décret n°99-259 du 31 mars 1999 (ATEX9900010D)](decret-n99-259-du-31-mars-1999-atex9900010d)
 - [Décret n°99-746 du 31 août 1999 (MESS9922152D)](decret-n99-746-du-31-aout-1999-mess9922152d)
-- [Décret n°99-756 du 31 août 1999 (EQUR9901065D)](decret-n99-756-du-31-aout-1999-equr9901065d)
 - [Décret n°61-555 du 31 mai 1961](decret-n61-555-du-31-mai-1961)
 - [Décret n°97-607 du 31 mai 1997 (EQUA9700921D)](decret-n97-607-du-31-mai-1997-equa9700921d)
 - [Décret n°99-444 du 31 mai 1999 (MESH9921473D)](decret-n99-444-du-31-mai-1999-mesh9921473d)

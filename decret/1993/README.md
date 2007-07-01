@@ -586,7 +586,6 @@
 - [Décret n°93-1128 du 24 septembre 1993 (FPPX9300138D)](decret-n93-1128-du-24-septembre-1993-fppx9300138d)
 - [Décret n°93-1135 du 24 septembre 1993 (MAEJ9330034D)](decret-n93-1135-du-24-septembre-1993-maej9330034d)
 - [Décret n°93-1136 du 24 septembre 1993 (MAEJ9330035D)](decret-n93-1136-du-24-septembre-1993-maej9330035d)
-- [Décret n°93-1260 du 24 novembre 1993 (AGRS9301689D)](decret-n93-1260-du-24-novembre-1993-agrs9301689d)
 - [Décret n°93-1261 du 24 novembre 1993 (AGRS9301772D)](decret-n93-1261-du-24-novembre-1993-agrs9301772d)
 - [Décret n°93-1265 du 24 novembre 1993 (MAEJ9330042D)](decret-n93-1265-du-24-novembre-1993-maej9330042d)
 - [Décret n°93-1266 du 24 novembre 1993 (MAEJ9330043D)](decret-n93-1266-du-24-novembre-1993-maej9330043d)

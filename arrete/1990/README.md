@@ -587,7 +587,6 @@
 - [Arrêté du 22 mars 1991 (MAEA9020341A)](arrete-du-22-mars-1991-maea9020341a)
 - [Arrêté du 22 novembre 1989 (LOGC8900038A)](arrete-du-22-novembre-1989-logc8900038a)
 - [Arrêté du 22 novembre 1989 (TEFT8903889A)](arrete-du-22-novembre-1989-teft8903889a)
-- [Arrêté du 22 novembre 1990 (AGRE9002358A)](arrete-du-22-novembre-1990-agre9002358a)
 - [Arrêté du 22 novembre 1990 (AGRS9002405A)](arrete-du-22-novembre-1990-agrs9002405a)
 - [Arrêté du 22 novembre 1990 (SPSP9002475A)](arrete-du-22-novembre-1990-spsp9002475a)
 - [Arrêté du 22 octobre 1979](arrete-du-22-octobre-1979)

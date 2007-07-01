@@ -46,7 +46,6 @@
 - [Arrêté du 12 juillet 2000 (AGRG0001418A)](arrete-du-12-juillet-2000-agrg0001418a)
 - [Arrêté du 12 octobre 2000 (AGRB0001902A)](arrete-du-12-octobre-2000-agrb0001902a)
 - [Arrêté du 12 mai 2000 (MESP0021515A)](arrete-du-12-mai-2000-mesp0021515a)
-- [Arrêté du 13 décembre 1999 (INTA9900571A)](arrete-du-13-decembre-1999-inta9900571a)
 - [Arrêté du 13 décembre 2000 (MENF0002900A)](arrete-du-13-decembre-2000-menf0002900a)
 - [Arrêté du 13 juillet 2000 (ECOI0000357A)](arrete-du-13-juillet-2000-ecoi0000357a)
 - [Arrêté du 13 mars 2000 (AGRA0000382A)](arrete-du-13-mars-2000-agra0000382a)
