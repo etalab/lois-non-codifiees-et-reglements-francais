@@ -1,0 +1,3 @@
+# Article 5
+
+Les opérations proposées par le préfet de région au titre du plan d'aide à la modernisation 2006, confirmées par ordre de priorité dans le cadre du plan de modernisation 2007 et n'ayant pas bénéficié d'un financement au titre de l'année 2006 pour des motifs de dépassement de l'enveloppe régionale, sont réputées avoir fait l'objet de la procédure mentionnée aux alinéas I à IV de l'article 4 du présent arrêté. Sur la base des propositions d'opérations 2006 confirmées par le préfet de région, le directeur de la Caisse nationale de solidarité pour l'autonomie répartit tout ou partie des enveloppes régionales d'aide à l'investissement.

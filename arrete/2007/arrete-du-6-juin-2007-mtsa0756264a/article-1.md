@@ -1,0 +1,3 @@
+# Article 1
+
+Les opérations d'investissement et d'équipement immobilier nécessaires à la mise aux normes techniques et de sécurité et la modernisation des locaux des établissements et des services, mentionnés à l'article L. 314-3-1 du code de l'action sociale et des familles, de ceux des établissements relevant conjointement du 6° du I de l'article L. 312-1 dudit code et de l'article L. 633-1 du code de la construction et de l'habitation ainsi que de ceux relevant du 2° de l'article L. 6111-2 du code de la santé publique sont financées en application des dispositions prévues aux articles 2 à 4 du présent arrêté.
