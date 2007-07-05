@@ -44,6 +44,7 @@
 - [Décret n°2007-675 du 2 mai 2007 (DEVO0751327D)](decret-n2007-675-du-2-mai-2007-devo0751327d)
 - [Décret n°2006-1208 du 3 octobre 2006 (PRMX0600121D)](decret-n2006-1208-du-3-octobre-2006-prmx0600121d)
 - [Décret n°2007-1059 du 3 juillet 2007 (MCCT0750257D)](decret-n2007-1059-du-3-juillet-2007-mcct0750257d)
+- [Décret n°2007-1060 du 3 juillet 2007 (IOCB0752587D)](decret-n2007-1060-du-3-juillet-2007-iocb0752587d)
 - [Décret n°2007-1194 du 3 août 2007 (SJSH0757529D)](decret-n2007-1194-du-3-aout-2007-sjsh0757529d)
 - [Décret n°2007-1196 du 3 août 2007 (SJSH0757408D)](decret-n2007-1196-du-3-aout-2007-sjsh0757408d)
 - [Décret n°2007-504 du 3 avril 2007 (BUDF0700016D)](decret-n2007-504-du-3-avril-2007-budf0700016d)
