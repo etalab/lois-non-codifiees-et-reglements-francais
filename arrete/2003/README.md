@@ -1027,7 +1027,6 @@
 - [Arrêté du 30 avril 2003 (MENS0300991A)](arrete-du-30-avril-2003-mens0300991a)
 - [Arrêté du 30 avril 2003 (SANH0321568A)](arrete-du-30-avril-2003-sanh0321568a)
 - [Arrêté du 30 avril 2003 (SANI0321653A)](arrete-du-30-avril-2003-sani0321653a)
-- [Arrêté du 30 décembre 2002 (AGRP0300246A)](arrete-du-30-decembre-2002-agrp0300246a)
 - [Arrêté du 30 décembre 2002 (DEVP0320005A)](arrete-du-30-decembre-2002-devp0320005a)
 - [Arrêté du 30 décembre 2002 (ECOC0200163A)](arrete-du-30-decembre-2002-ecoc0200163a)
 - [Arrêté du 30 décembre 2002 (MENF0300049A)](arrete-du-30-decembre-2002-menf0300049a)
