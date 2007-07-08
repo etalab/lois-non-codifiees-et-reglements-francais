@@ -154,6 +154,7 @@
 - [Décret n°2006-1538 du 6 décembre 2006 (INTA0600270D)](decret-n2006-1538-du-6-decembre-2006-inta0600270d)
 - [Décret n°2007-1071 du 6 juillet 2007 (IOCM0759230D)](decret-n2007-1071-du-6-juillet-2007-iocm0759230d)
 - [Décret n°2007-1072 du 6 juillet 2007 (IOCM0759242D)](decret-n2007-1072-du-6-juillet-2007-iocm0759242d)
+- [Décret n°2007-1077 du 6 juillet 2007 (SJSP0757322D)](decret-n2007-1077-du-6-juillet-2007-sjsp0757322d)
 - [Décret n°2007-312 du 6 mars 2007 (JUSG0760022D)](decret-n2007-312-du-6-mars-2007-jusg0760022d)
 - [Décret n°2007-522 du 6 avril 2007 (ECOP0700195D)](decret-n2007-522-du-6-avril-2007-ecop0700195d)
 - [Décret n°2007-523 du 6 avril 2007 (ECOT0737161D)](decret-n2007-523-du-6-avril-2007-ecot0737161d)
