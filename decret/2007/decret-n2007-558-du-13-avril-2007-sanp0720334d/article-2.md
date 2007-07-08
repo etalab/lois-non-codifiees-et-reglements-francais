@@ -81,3 +81,5 @@ Deux représentants d'associations de consommateurs.
 Un représentant d'une association de personnes obèses.
 
 Huit personnalités qualifiées.
+
+Pour chacun des membres mentionnés au 2, à l'exception des personnalités qualifiées, un suppléant est désigné dans les mêmes conditions.
