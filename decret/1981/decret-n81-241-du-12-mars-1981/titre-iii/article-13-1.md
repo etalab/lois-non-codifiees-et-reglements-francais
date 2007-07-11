@@ -1,3 +1,3 @@
 # Article 13-1
 
-Les inspecteurs ne peuvent être promus au grade d'inspecteur général en application des dispositions de l'article 10 ci-dessus s'ils n'ont accompli, de manière consécutive ou non, quatre ans de services dans le corps consacrés à des missions accomplies sous l'autorité directe du chef du service.
+Sous réserve des cas de détachement de plein droit, les inspecteurs généraux de l'administration nommés en application des I et II de l'article 11 ne peuvent recevoir aucune affectation administrative permanente en dehors des missions effectuées sous l'autorité du chef du service, ni être mis à disposition, ni être placés en position de service détaché, hors cadres ou de disponibilité en application des dispositions des articles 44 et 46 du décret du 16 septembre 1985 susmentionné, s'ils n'ont accompli, à compter de leur nomination, deux ans de services à l'inspection générale consacrés à des missions effectuées sous l'autorité directe du chef du service.

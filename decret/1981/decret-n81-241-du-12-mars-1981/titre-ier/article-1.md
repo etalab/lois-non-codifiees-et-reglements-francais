@@ -2,7 +2,7 @@
 
 Le corps de l'inspection générale de l'administration est classé dans la catégorie A prévue par les dispositions de l'article 29 de la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat. Il est placé sous l'autorité directe du ministre de l'intérieur.
 
-Outre les missions et attributions qui lui sont dévolues par la loi, il exerce une mission générale de contrôle, d'audit, d'étude et de conseil à l'égard des services centraux et déconcentrés qui relèvent du ministre de l'intérieur. Il assume également des missions d'évaluation des politiques publiques, de formation et de coopération internationale.
+Outre les missions et attributions qui lui sont dévolues par la loi et par les textes réglementaires, il exerce une mission générale de contrôle, d'audit, d'étude, de conseil et d'évaluation à l'égard des services centraux et déconcentrés de l'Etat qui relèvent du ministre de l'intérieur. Il assume également des missions d'évaluation des politiques publiques, de formation et de coopération internationale.
 
 Ses membres exercent, au nom du ministre, le contrôle supérieur de tous les personnels, services, établissements, institutions et organismes qui relèvent du ministre de l'intérieur.
 
