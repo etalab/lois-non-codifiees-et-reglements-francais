@@ -1,0 +1,3 @@
+# Article 24
+
+Les inspecteurs de l'administration sont reclassés, à la date de publication du présent décret, dans la 1re classe du grade d'inspecteur de l'administration, à l'échelon comportant un indice égal ou, à défaut, immédiatement supérieur à celui qu'ils détenaient dans le grade d'inspecteur de l'administration, à l'exception des inspecteurs classés au 2e échelon qui sont reclassés au 2e échelon de la 1re classe avec conservation de leur ancienneté d'échelon. Lorsque le reclassement intervient à indice égal, ils conservent dans cette position l'ancienneté acquise dans leur échelon d'origine, dans la limite de la durée de l'échelon d'accueil.
