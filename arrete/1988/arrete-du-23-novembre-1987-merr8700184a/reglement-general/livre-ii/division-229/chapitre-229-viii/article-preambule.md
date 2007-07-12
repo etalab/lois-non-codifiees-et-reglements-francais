@@ -1,0 +1,3 @@
+# Article Préambule
+
+En vertu du paragraphe 1 de l'article 9 de la directive 2000/59/CE, telle qu'amendée, sur les installations de réception portuaires pour les déchets d'exploitation des navires et les résidus de cargaison, lorsque des navires visés par la présente division effectuent des transports maritimes réguliers assortis d'escales fréquentes et régulières dans un ou plusieurs ports équipés d'installations de réception des déchets d'exploitation, ils peuvent être exemptés des obligations visées à l'article 6, à l'article 7, paragraphe 1 et à l'article 8 de ladite directive, dans les conditions prévues par l'article R212-21 du Code des Ports Maritimes.

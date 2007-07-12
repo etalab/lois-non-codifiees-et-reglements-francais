@@ -14,6 +14,7 @@
 - [Division 226 : Navires de pêche de longueur égale ou supérieure à 12 mètres et inférieure à 24 mètres.](division-226)
 - [Division 227 : Navires de pêche de longueur inférieure à 12 mètres.](division-227)
 - [Division 228 : Navires de pêche de longueur égale ou supérieure à 24 mètres.](division-228)
+- [Division 229 : Navires de charge de jauge brute égale ou supérieure à 500 effectuant une navigation nationale en 4e ou en 5e catégorie.](division-229)
 - [Division 231 : Engins de dragage et engins porteurs de   déblais.](division-231)
 - [Division 232 : Unités mobiles de forage au large.](division-232)
 - [Division 233 : Navires sous-marins.](division-233)
