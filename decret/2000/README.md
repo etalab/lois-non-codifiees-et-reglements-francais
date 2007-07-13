@@ -35,7 +35,6 @@
 - [Décret n°2000-326 du 12 avril 2000 (DEFD0001317D)](decret-n2000-326-du-12-avril-2000-defd0001317d)
 - [Décret n°2000-240 du 13 mars 2000 (AGRA0000386D)](decret-n2000-240-du-13-mars-2000-agra0000386d)
 - [Décret n°2000-663 du 13 juillet 2000 (FPPA0000071D)](decret-n2000-663-du-13-juillet-2000-fppa0000071d)
-- [Décret n°2000-890 du 13 septembre 2000 (DEFP0001980D)](decret-n2000-890-du-13-septembre-2000-defp0001980d)
 - [Décret n°2000-893 du 13 septembre 2000 (RECG0071541D)](decret-n2000-893-du-13-septembre-2000-recg0071541d)
 - [Décret du 14 mars 2000 (ECOC9900189D)](decret-du-14-mars-2000-ecoc9900189d)
 - [Décret n°2000-118 du 14 février 2000 (EQUT0000218D)](decret-n2000-118-du-14-fevrier-2000-equt0000218d)
