@@ -329,6 +329,7 @@
 - [Décret n°2002-1169 du 11 septembre 2002 (BUDB0270003D)](decret-n2002-1169-du-11-septembre-2002-budb0270003d)
 - [Décret n°2007-1005 du 11 juin 2007 (MCCX0700050D)](decret-n2007-1005-du-11-juin-2007-mccx0700050d)
 - [Décret n°2007-1079 du 11 juillet 2007 (AGRM0753516D)](decret-n2007-1079-du-11-juillet-2007-agrm0753516d)
+- [Décret n°2007-1088 du 11 juillet 2007 (DEFH0753555D)](decret-n2007-1088-du-11-juillet-2007-defh0753555d)
 - [Décret n°2007-538 du 11 avril 2007 (ECOT0750664D)](decret-n2007-538-du-11-avril-2007-ecot0750664d)
 - [Décret n°2007-540 du 11 avril 2007 (MENS0700672D)](decret-n2007-540-du-11-avril-2007-mens0700672d)
 - [Décret n°2007-545 du 11 avril 2007 (ECOT0737153D)](decret-n2007-545-du-11-avril-2007-ecot0737153d)

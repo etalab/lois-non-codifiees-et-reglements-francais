@@ -12,6 +12,8 @@ Hépatite B ;
 
 Infections à Haemophilus influenzae B ;
 
+Infection à papillomavirus humains ;
+
 Infections à pneumocoque ;
 
 Oreillons ;
