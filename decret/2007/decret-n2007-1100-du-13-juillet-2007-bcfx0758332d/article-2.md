@@ -1,0 +1,3 @@
+# Article 2
+
+Pour l'exercice de ses attributions, le secrétaire d'Etat chargé de la fonction publique dispose, en tant que de besoin, des services placés sous l'autorité du ministre du budget, des comptes publics et de la fonction publique ainsi que de la direction générale de l'administration et de la fonction publique, de la direction générale des collectivités locales et de la direction de l'hospitalisation et de l'organisation des soins et des autres services et corps mis à disposition du ministre du budget, des comptes publics et de la fonction publique pour l'exercice de ses attributions en matière de fonction publique. Il peut faire appel à la Caisse nationale de retraites des agents des collectivités locales.

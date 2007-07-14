@@ -1,0 +1,3 @@
+# Article 24
+
+L'arrêté du 22 décembre 1994 modifié fixant les prescriptions techniques relatives aux ouvrages de collecte et de traitement des eaux usées mentionnées aux articles L. 372-1-1 et L. 372-3 du code des communes, l'arrêté du 22 décembre 1994 relatif à la surveillance des ouvrages de collecte et de traitement des eaux usées mentionnées aux articles L. 372-1-1 et L. 372-3 du code des communes et l'arrêté du 21 juin 1996 modifié fixant les prescriptions techniques relatives aux ouvrages de collecte et de traitement des eaux usées mentionnées aux articles L. 2224-8 et L. 2224-10 du code général des collectivités territoriales, dispensés d'autorisation au titre du décret n° 93-743 du 29 mars 1993 modifié, sont abrogés.
