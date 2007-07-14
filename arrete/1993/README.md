@@ -868,7 +868,6 @@
 - [Arrêté du 26 mars 1993 (MENZ9304972A)](arrete-du-26-mars-1993-menz9304972a)
 - [Arrêté du 26 mars 1993 (MJSK9370062A)](arrete-du-26-mars-1993-mjsk9370062a)
 - [Arrêté du 26 mars 1993 (MJSK9370071A)](arrete-du-26-mars-1993-mjsk9370071a)
-- [Arrêté du 26 mars 1993 (MJSK9370072A)](arrete-du-26-mars-1993-mjsk9370072a)
 - [Arrêté du 26 mars 1993 (RESY9300180A)](arrete-du-26-mars-1993-resy9300180a)
 - [Arrêté du 26 mars 1993 (SANH9301144A)](arrete-du-26-mars-1993-sanh9301144a)
 - [Arrêté du 26 mars 1993 (SANH9301156A)](arrete-du-26-mars-1993-sanh9301156a)
