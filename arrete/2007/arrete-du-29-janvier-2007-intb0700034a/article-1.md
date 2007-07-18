@@ -1,6 +1,6 @@
 # Article 1
 
-Le programme des matières de l'épreuve facultative d'admission des concours pour le recrutement des adjoints techniques territoriaux de 1re classe prévue au b du 3° du B de l'article 3 du décret du 29 janvier 2007 susvisé est le suivant :
+Le programme des matières de l'épreuve facultative d'admission des concours pour le recrutement des adjoints administratifs territoriaux de 1re classe prévue au b du 3° du B de l'article 3 du décret du 29 janvier 2007 susvisé est le suivant :
 
 1. Notions générales de droit public
 

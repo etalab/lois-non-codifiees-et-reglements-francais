@@ -16,6 +16,8 @@ a) Corps des services déconcentrés des administrations de l'Etat :
 
 - secrétaires administratifs de police ;
 
+- secrétaires administratifs des services judiciaires ;
+
 - secrétaires administratifs de l'intérieur et de l'outre-mer ;
 
 - secrétaires administratifs de la protection judiciaire de la jeunesse ;
