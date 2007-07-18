@@ -44,6 +44,8 @@ Secrétaires administratifs de l'équipement.
 
 Secrétaires administratifs des services déconcentrés des anciens combattants et des victimes de guerre.
 
+Secrétaires administratifs des services judiciaires.
+
 Secrétaires administratifs du ministère de la culture et de la communication.
 
 Secrétaires administratifs des affaires sanitaires et sociales.
