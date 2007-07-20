@@ -1,6 +1,6 @@
 # Article 2
 
-Le comité directeur de la DIRISI comprend onze membres :
+Le comité directeur de la DIRISI comprend douze membres :
 
 - le chef d'état-major des armées, président du comité, ou son représentant ;
 
@@ -19,6 +19,8 @@ Le comité directeur de la DIRISI comprend onze membres :
 - le directeur général de la sécurité extérieure ou son représentant ;
 
 - le directeur de la protection et de la sécurité de la défense ou son représentant ;
+
+- le directeur général des systèmes d'information et de communication ou son représentant ;
 
 - le directeur central du service de santé des armées ou son représentant ;
 

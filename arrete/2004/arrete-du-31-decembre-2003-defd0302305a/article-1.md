@@ -1,6 +1,6 @@
 # Article 1
 
-Le conseil de gestion de la direction interarmées des réseaux d'infrastructure et des systèmes d'information de la défense (DIRISI) comprend douze membres :
+Le conseil de gestion de la direction interarmées des réseaux d'infrastructure et des systèmes d'information de la défense (DIRISI) comprend treize membres :
 
 - le chef d'état-major des armées, président du conseil, ou son représentant ;
 
@@ -19,6 +19,8 @@ Le conseil de gestion de la direction interarmées des réseaux d'infrastructure
 - le directeur général de la sécurité extérieure ou son représentant ;
 
 - le directeur de la protection et de la sécurité de la défense ou son représentant ;
+
+- le directeur général des systèmes d'information et de communication ou son représentant ;
 
 - le directeur central du service de santé des armées ou son représentant ;
 
