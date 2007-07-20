@@ -800,7 +800,6 @@
 - [Décret n°92-276 du 26 mars 1992 (MENL9200171D)](decret-n92-276-du-26-mars-1992-menl9200171d)
 - [Décret n°92-290 du 26 mars 1992 (EQUL9200367D)](decret-n92-290-du-26-mars-1992-equl9200367d)
 - [Décret n°92-561 du 26 juin 1992 (TEFC9204914D)](decret-n92-561-du-26-juin-1992-tefc9204914d)
-- [Décret n°92-587 du 26 juin 1992 (INDD9200429D)](decret-n92-587-du-26-juin-1992-indd9200429d)
 - [Décret n°92-588 du 26 juin 1992 (SPSS9201053D)](decret-n92-588-du-26-juin-1992-spss9201053d)
 - [Décret n°92-825 du 26 août 1992 (LOGC9200035D)](decret-n92-825-du-26-aout-1992-logc9200035d)
 - [Décret n°92-829 du 26 août 1992 (SPSS9201753D)](decret-n92-829-du-26-aout-1992-spss9201753d)
