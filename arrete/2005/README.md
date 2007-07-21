@@ -397,7 +397,6 @@
 - [Arrêté du 17 juin 2005 (AGRF0501469A)](arrete-du-17-juin-2005-agrf0501469a)
 - [Arrêté du 17 mars 2005 (DEFP0500290A)](arrete-du-17-mars-2005-defp0500290a)
 - [Arrêté du 17 octobre 2005 (EQUS0501626A)](arrete-du-17-octobre-2005-equs0501626a)
-- [Arrêté du 17 mai 2005 (BUDR0507070A)](arrete-du-17-mai-2005-budr0507070a)
 - [Arrêté du 17 mai 2005 (BUDR0507071A)](arrete-du-17-mai-2005-budr0507071a)
 - [Arrêté du 17 mai 2005 (EQUP0500756A)](arrete-du-17-mai-2005-equp0500756a)
 - [Arrêté du 18 août 2005 (DEFG0501164A)](arrete-du-18-aout-2005-defg0501164a)
