@@ -16,4 +16,4 @@ Une personne physique ne peut être inscrite ou réinscrite sur une liste d'expe
 
 7° Sous réserve des dispositions de l'article 18, être âgé de moins de soixante-dix ans ;
 
-8° Pour les candidats à l'inscription sur une liste dressée par une cour d'appel, exercer son activité professionnelle principale dans le ressort de cette cour ou, pour ceux qui n'exercent plus d'activité professionnelle, y avoir sa résidence.
+8° Pour les candidats à l'inscription sur une liste dressée par une cour d'appel, dans une rubrique autre que la traduction, exercer son activité professionnelle principale dans le ressort de cette cour ou, pour ceux qui n'exercent plus d'activité professionnelle, y avoir sa résidence.

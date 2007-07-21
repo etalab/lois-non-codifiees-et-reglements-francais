@@ -1,6 +1,6 @@
 # Article 10
 
-Les demandes de réinscription pour une durée de cinq ans sont envoyées avant le 1er mars de chaque année au procureur de la République près le tribunal de grande instance dans le ressort duquel le candidat exerce son activité professionnelle ou possède sa résidence.
+Les demandes de réinscription pour une durée de cinq ans sont envoyées avant le 1er mars de chaque année au procureur de la République près le tribunal de grande instance dans le ressort duquel le candidat exerce son activité professionnelle ou possède sa résidence ou, pour les demandes d'inscription dans la rubrique traduction, au procureur de la République près le tribunal de grande instance du siège de la cour d'appel.
 
 La demande est assortie de tous documents permettant d'évaluer :
 

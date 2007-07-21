@@ -10,7 +10,7 @@ En vue de l'inscription d'une personne morale sur une liste d'experts, il doit �
 
 4° Que la personne morale dispose des moyens techniques et du personnel qualifié approprié ;
 
-5° Pour l'inscription sur une liste dressée par une cour d'appel, qu'elle a son siège social, une succursale ou un établissement technique en rapport avec sa spécialité, dans le ressort de la cour d'appel.
+5° Pour l'inscription sur une liste dressée par une cour d'appel, dans une rubrique autre que la traduction, qu'elle a son siège social, une succursale ou un établissement technique en rapport avec sa spécialité, dans le ressort de la cour d'appel.
 
 En outre, il y a lieu à la production des statuts et à l'indication du nom de chacune des personnes détenant une fraction d'au moins 10 % du capital social.
 
