@@ -50,13 +50,9 @@ L'utilisation des appelants pour la chasse au gibier d'eau est interdite à part
 
 4. Mesures particulières relatives aux pigeons voyageurs et aux oiseaux utilisés à des fins de sécurité civile ou militaire :
 
-Les lâchers de pigeons voyageurs avec départ ou survol d'un pays où au moins un cas d'influenza aviaire à caractère hautement pathogène est apparu sont interdits dès le niveau faible du risque épizootique.
+Les mesures spécifiques relatives aux pigeons voyageurs sont précisées dans l'annexe 4.
 
-Les lâchers de pigeons voyageurs sont interdits dans les 46 premières zones à risque particulier dès le niveau modéré du risque épizootique et sur la totalité de la France métropolitaine dès le niveau élevé du risque épizootique.
-
-Les sorties des pigeons voyageurs à proximité immédiate du pigeonnier et des autres oiseaux utilisés à des fins de sécurité civile ou militaire sous la supervision directe de leur détenteur restent autorisées.
-
-Les conditions sanitaires relatives aux lâchers de pigeons voyageurs sont précisées par instruction du ministre en charge de l'agriculture.
+Les sorties de pigeons voyageurs ou autres pigeons de sport à proximité immédiate de leur pigeonnier et des autres oiseaux utilisés à des fins de sécurité civile ou militaire sous la supervision directe de leur détenteur sont autorisées et ce, quel que soit le niveau de risque.
 
 5. Mesures de vaccination préventive :
 
