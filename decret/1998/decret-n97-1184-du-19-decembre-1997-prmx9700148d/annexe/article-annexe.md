@@ -59,30 +59,30 @@ Décret n° 87-995 du 10 décembre 1987 portant création de l'institution des c
 </tbody>
 </table>
 
-Décret n° 97-817 du 5 septembre 1997 érigeant l'Institut des hautes études de défense nationale en établissement public
+Code de la défense
 
 <table>
 <tbody>
 <tr>
-<td valign="top" width="57">
-<p align="center">1</p>
+<td valign="top" width="76">
+<p align="center">1 </p>
 </td>
-<td valign="top" width="473">
-<p align="left">Décisions portant admission aux sessions nationales et régionales de l'institut.</p>
+<td valign="top" width="378">
+<p>Décisions portant admission aux sessions nationales et régionales de l'institut. </p>
 </td>
-<td valign="top" width="189">
-<p align="left">Article 4</p>
+<td valign="top" width="151">
+<p>Article R. 1132-15 </p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="57">
-<p align="center">2</p>
+<td valign="top" width="76">
+<p align="center">2 </p>
 </td>
-<td valign="top" width="473">
-<p align="left">Décisions portant attribution du titre d'ancien auditeur.</p>
+<td valign="top" width="378">
+<p>Décisions portant attribution du titre d'ancien auditeur. </p>
 </td>
-<td valign="top" width="189">
-<p align="left">Article 7</p>
+<td valign="top" width="151">
+<p>Article R. 1132-18</p>
 </td>
 </tr>
 </tbody>
