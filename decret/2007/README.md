@@ -825,6 +825,7 @@
 - [Décret n°2006-1818 du 23 décembre 2006 (SANG0625075D)](decret-n2006-1818-du-23-decembre-2006-sang0625075d)
 - [Décret n°2006-1829 du 23 décembre 2006 (MCCT0601017D)](decret-n2006-1829-du-23-decembre-2006-mcct0601017d)
 - [Décret n°2006-66 du 23 janvier 2006 (AGRF0600016D)](decret-n2006-66-du-23-janvier-2006-agrf0600016d)
+- [Décret n°2007-1125 du 23 juillet 2007 (IOCX0759183D)](decret-n2007-1125-du-23-juillet-2007-iocx0759183d)
 - [Décret n°2007-1657 du 23 novembre 2007 (ECEA0754250D)](decret-n2007-1657-du-23-novembre-2007-ecea0754250d)
 - [Décret n°2007-583 du 23 avril 2007 (DEFX0700019D)](decret-n2007-583-du-23-avril-2007-defx0700019d)
 - [Décret n°2007-584 du 23 avril 2007 (DEFX0700018D)](decret-n2007-584-du-23-avril-2007-defx0700018d)
