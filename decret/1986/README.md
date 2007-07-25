@@ -131,7 +131,6 @@
 - [Décret n°86-208 du 11 février 1986](decret-n86-208-du-11-fevrier-1986)
 - [Décret n°86-364 du 11 mars 1986](decret-n86-364-du-11-mars-1986)
 - [Décret n°86-366 du 11 mars 1986](decret-n86-366-du-11-mars-1986)
-- [Décret n°86-408 du 11 mars 1986](decret-n86-408-du-11-mars-1986)
 - [Décret n°86-409 du 11 mars 1986](decret-n86-409-du-11-mars-1986)
 - [Décret n°85-885 du 12 août 1985](decret-n85-885-du-12-aout-1985)
 - [Décret n°85-886 du 12 août 1985](decret-n85-886-du-12-aout-1985)

@@ -1,4 +1,3 @@
 # TITRE II : LA SURVEILLANCE MEDICALE SPECIFIQUE A CERTAINES CATEGORIES DE SPORTIFS.
 
 - [Article 7](article-7.md)
-- [Article 8](article-8.md)

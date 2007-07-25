@@ -1,3 +1,0 @@
-# Article 7
-
-Le propriétaire d'une enceinte sportive ouverte au public à la date du 1er janvier 1996 transmet au préfet avant le 24 juillet 1996, si l'enceinte sportive possède une capacité d'accueil supérieure à 30 000 places pour les établissements de plein air ou supérieure à 8 000 places pour les établissements couverts, et avant le 24 janvier 1997 lorsqu'il s'agit d'une enceinte sportive ayant une capacité d'accueil comprise entre 3 000 places et 30 000 places pour les établissements de plein air ou comprise entre 500 places et 8 000 places pour les établissements couverts, une demande d'homologation conformément aux dispositions de l'article 2.

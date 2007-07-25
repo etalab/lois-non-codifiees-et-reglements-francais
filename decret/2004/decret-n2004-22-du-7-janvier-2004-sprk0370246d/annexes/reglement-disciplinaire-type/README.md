@@ -1,3 +1,0 @@
-# RÈGLEMENT DISCIPLINAIRE TYPE : DES FÉDÉRATIONS SPORTIVES AGRÉÉES.
-
-- [Article ANNEXE II](article-annexe-ii.md)
