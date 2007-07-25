@@ -1,6 +1,6 @@
 # Article 16 bis
 
-Si la confirmation mentionnée à l'article 7 implique un virus de l'influenza aviaire du sous-type H5N1 hautement pathogène, les mesures prévues aux paragraphes 3 à 8 de l'article 13 et aux paragraphes 2 à 7 de l'article 15 du présent arrêté sont remplacées par celles prévues par la décision 2006/135/CE. En outre, les mesures complémentaires suivantes doivent être mises en oeuvre à l'intérieur des zones réglementées établies au titre de cette décision :
+Si la confirmation mentionnée à l'article 7 implique un virus de l'influenza aviaire hautement pathogène, les mesures prévues aux paragraphes 3 à 8 de l'article 13 et aux paragraphes 2 à 7 de l'article 15 du présent arrêté sont remplacées par celles prévues par la décision 2006/415/CE de la Commission du 14 juin 2006 concernant certaines mesures de protection relatives à l'influenza aviaire hautement pathogène du sous-type H5N1 chez les volailles dans la Communauté et abrogeant la décision 2006/135/CE et les mesures du chapitre IV de la directive 2005/94/CE du Conseil du 20 décembre 2005 concernant des mesures communautaires de lutte contre l'influenza aviaire et abrogeant la directive 92/40/CEE doivent alors être appliquées. En outre, les mesures complémentaires suivantes doivent être mises en oeuvre à l'intérieur des zones réglementées établies au titre de cette décision :
 
 - obligation pour tout détenteur de gibier à plumes de maintenir ses oiseaux à l'intérieur de bâtiments fermés ;
 
