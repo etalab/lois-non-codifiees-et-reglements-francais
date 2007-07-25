@@ -296,7 +296,6 @@
 - [Décret n°98-814 du 11 septembre 1998 (JUSB9810184D)](decret-n98-814-du-11-septembre-1998-jusb9810184d)
 - [Décret n°98-816 du 11 septembre 1998 (ECOT9810347D)](decret-n98-816-du-11-septembre-1998-ecot9810347d)
 - [Décret n°98-818 du 11 septembre 1998 (MESA9822679D)](decret-n98-818-du-11-septembre-1998-mesa9822679d)
-- [Décret n°98-82 du 11 février 1998 (MJSK9770113D)](decret-n98-82-du-11-fevrier-1998-mjsk9770113d)
 - [Décret n°98-835 du 11 septembre 1998 (DEFE9755015D)](decret-n98-835-du-11-septembre-1998-defe9755015d)
 - [Décret n°86-616 du 12 mars 1986](decret-n86-616-du-12-mars-1986)
 - [Décret n°98-1023 du 12 novembre 1998 (MESF9811114D)](decret-n98-1023-du-12-novembre-1998-mesf9811114d)
