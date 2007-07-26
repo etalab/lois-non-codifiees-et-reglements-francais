@@ -67,7 +67,6 @@
 - [Décret n°77-855 du 19 juillet 1977](decret-n77-855-du-19-juillet-1977)
 - [Décret n°77-1167 du 20 octobre 1977](decret-n77-1167-du-20-octobre-1977)
 - [Décret n°77-1171 du 20 octobre 1977](decret-n77-1171-du-20-octobre-1977)
-- [Décret n°77-1177 du 20 octobre 1977](decret-n77-1177-du-20-octobre-1977)
 - [Décret n°77-1084 du 21 septembre 1977](decret-n77-1084-du-21-septembre-1977)
 - [Décret n°77-1133 du 21 septembre 1977](decret-n77-1133-du-21-septembre-1977)
 - [Décret n°77-1134 du 21 septembre 1977](decret-n77-1134-du-21-septembre-1977)
