@@ -19,7 +19,3 @@ L'usage d'un dictionnaire est interdit, sauf pour :
 - l'arabe, le chinois et l'hébreu, pour lesquels l'usage d'un dictionnaire unilingue est autorisé ;
 
 - le japonais, pour lequel l'usage de deux dictionnaires unilingues, dont un en langue japonaise de caractères chinois, est autorisé.
-
-2.2. Epreuve de latin :
-
-L'usage d'un ou plusieurs dictionnaires latin-français est autorisé, à l'exception de tout autre recueil de vocabulaire.
