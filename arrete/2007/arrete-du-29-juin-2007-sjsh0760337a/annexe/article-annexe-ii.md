@@ -1,0 +1,5 @@
+# Article Annexe II
+
+FORMULAIRE D'INSCRIPTION AUX ÉPREUVES DU CONCOURS NATIONAL DE PRATICIEN DES ÉTABLISSEMENTS PUBLICS DE SANTÉ
+
+(Formulaire non reproduit, consulter le fac-similé)
