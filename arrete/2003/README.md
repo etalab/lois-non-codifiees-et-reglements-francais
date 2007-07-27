@@ -18,7 +18,6 @@
 - [Arrêté du 2 avril 2003 (ECOL0300050A)](arrete-du-2-avril-2003-ecol0300050a)
 - [Arrêté du 2 avril 2003 (EQUS0300291A)](arrete-du-2-avril-2003-equs0300291a)
 - [Arrêté du 2 avril 2003 (INDI0301320A)](arrete-du-2-avril-2003-indi0301320a)
-- [Arrêté du 2 avril 2003 (SANH0321206A)](arrete-du-2-avril-2003-sanh0321206a)
 - [Arrêté du 2 avril 2003 (SANH0321207A)](arrete-du-2-avril-2003-sanh0321207a)
 - [Arrêté du 2 avril 2003 (SANS0321228A)](arrete-du-2-avril-2003-sans0321228a)
 - [Arrêté du 2 avril 2003 (SOCN0321325A)](arrete-du-2-avril-2003-socn0321325a)
