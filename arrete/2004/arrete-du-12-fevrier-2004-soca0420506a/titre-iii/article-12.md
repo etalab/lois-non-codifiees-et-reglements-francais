@@ -9,3 +9,5 @@ Le rapport direct avec le diplôme de médiateur familial est établi lorsque le
 - soit au moins une activité de la fonction " médiation/gestion de conflits/construction/reconstruction de liens " figurant au référentiel d'activités.
 
 La durée totale d'activité cumulée exigée est de trois ans et peut être prise en compte jusqu'à dix ans après la cessation de cette activité.
+
+A compter du 1er septembre 2007, la décision de recevabilité de la demande de validation des acquis de l'expérience mentionnée à l'article R. 451-70 du code de l'action sociale et des familles demeure acquise au candidat dans la limite de trois années à compter de la date de sa notification par le préfet de région.
