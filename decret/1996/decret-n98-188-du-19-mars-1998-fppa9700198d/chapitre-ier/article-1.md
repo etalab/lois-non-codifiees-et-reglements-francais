@@ -1,8 +1,6 @@
 # Article 1
 
-Trois corps de chargés d'études documentaires sont constitués :
-
-- le corps des chargés d'études documentaires du secrétariat général du Gouvernement ;
+Deux corps de chargés d'études documentaires sont constitués :
 
 - le corps des chargés d'études documentaires des ministères chargés de la culture et de l'éducation nationale, dont la gestion est confiée au ministre chargé de la culture ;
 

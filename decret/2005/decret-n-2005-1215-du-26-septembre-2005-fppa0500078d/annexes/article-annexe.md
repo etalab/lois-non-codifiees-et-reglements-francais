@@ -19,3 +19,5 @@ Corps des attachés d'administration des affaires sociales.
 Corps des attachés d'administration du ministère de la justice.
 
 Corps des attachés d'administration du ministère de l'économie, des finances et de l'industrie.
+
+Corps des attachés d'administration des services du Premier ministre.
