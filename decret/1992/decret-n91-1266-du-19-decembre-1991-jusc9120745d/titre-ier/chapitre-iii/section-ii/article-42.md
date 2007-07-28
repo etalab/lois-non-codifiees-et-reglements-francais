@@ -4,9 +4,9 @@ Le bureau peut faire recueillir tous renseignements et faire procéder à toutes
 
 Il peut entendre ou faire entendre les intéressés.
 
-Si le requérant est dans l'impossibilité de fournir les pièces nécessaires, le bureau ou la section de bureau peut demander la production, même en original, de tous documents de nature à justifier que l'intéressé satisfait aux conditions exigées pour bénéficier de l'aide juridictionnelle. Il en est de même si le requérant demeure hors de France ou est de nationalité étrangère, sous réserve des conventions internationales.
+Si le requérant ne produit pas les pièces nécessaires, le bureau ou la section du bureau peut lui enjoindre de fournir, dans un délai qu'il fixe et qui ne saurait excéder deux mois à compter de la réception de la demande qui lui est faite, tout document mentionné à l'article 34, même en original, ou tout renseignement de nature à justifier qu'il satisfait aux conditions exigées pour bénéficier de l'aide juridictionnelle. A défaut de production dans ce délai, la demande d'aide est caduque. Il en est de même lorsque le requérant demeure hors de France ou est de nationalité étrangère, sous réserve des conventions internationales.
 
-Le bureau peut tirer toute conséquence du défaut par le demandeur, sans motif légitime, de communiquer dans le délai imparti les documents ou les renseignements demandés.
+La décision constatant la caducité de la demande d'aide juridictionnelle n'est pas susceptible de recours.
 
 Lorsque l'aide juridictionnelle a été précédemment accordée au requérant par un autre bureau pour le même différend, le bureau saisi en second demande au premier la copie de la décision d'admission et des éléments du dossier.
 

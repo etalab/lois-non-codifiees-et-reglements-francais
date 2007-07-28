@@ -1,6 +1,6 @@
 # Article 58
 
-Les recours prévus au quatrième alinéa de l'article 23 de la loi du 10 juillet 1991 susvisée sont exercés :
+Les recours prévus au troisième alinéa de l'article 23 de la loi du 10 juillet 1991 susvisée sont exercés :
 
 1° Lorsque la décision du bureau, de la section du bureau ou de leur président est relative à une affaire portée ou susceptible d'être portée devant une juridiction du premier degré de l'ordre judiciaire ou une cour d'assises, par le procureur de la République près le tribunal de grande instance auprès duquel le bureau est institué, par le bâtonnier de l'ordre des avocats dont relève l'avocat choisi ou désigné au titre de l'aide juridictionnelle ou, en l'absence de choix ou de désignation, par le bâtonnier de l'ordre des avocats établi près ce tribunal ;
 

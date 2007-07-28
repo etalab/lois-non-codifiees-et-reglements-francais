@@ -4,4 +4,4 @@ Lorsqu'une décision est déférée, le dossier est transmis à l'autorité comp
 
 Le demandeur à l'aide juridictionnelle est informé du dépôt du recours lorsqu'il n'en est pas l'auteur. Il peut présenter des observations écrites.
 
-Le président statue par ordonnance.
+Il est statué par voie d'ordonnance.
