@@ -3,8 +3,6 @@
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
 - [Article 3](article-3.md)
-- [Article 7](article-7.md)
-- [Article 8](article-8.md)
 - [Article 9-1](article-9-1.md)
 - [Article 9-2](article-9-2.md)
 - [Article 9-3](article-9-3.md)
