@@ -11,3 +11,5 @@ Le rapport direct avec le diplôme est établi lorsque le candidat justifie avoi
 - concevoir et conduire l'action éducative au sein d'une équipe pluriprofessionnelle.
 
 Le représentant de l'Etat dans la région décide de la recevabilité de la demande de validation des acquis de l'expérience.
+
+A compter du 1er septembre 2007, la décision de recevabilité de la demande de validation des acquis de l'expérience demeure acquise au candidat dans la limite de trois années, à compter de la date de sa notification par le préfet de région.
