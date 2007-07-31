@@ -2,13 +2,13 @@
 
 TABLEAU I.
 
-Fonctions interarmées
+FONCTIONS INTERARMÉES
 
-Désignation de l'emploi
+DÉSIGNATION DE L'EMPLOI
 
 Chef d'état-major des armées.
 
-Major général de l'état-major des armées.
+Major général des armées.
 
 Directeur de la protection et de la sécurité de la défense.
 
@@ -16,7 +16,13 @@ Directeur du service national.
 
 Directeur du renseignement militaire.
 
-Commandant supérieur outre-mer.
+Inspecteur des forces en opérations et de la défense du territoire.
+
+Directeur central du service d'infrastructure de la défense.
+
+Directeur de l'enseignement militaire supérieur.
+
+Directeur central adjoint du service d'infrastructure de la défense.
 
 Officier général de zone de défense.
 
@@ -30,7 +36,7 @@ Chef de cabinet militaire au cabinet du ministre de la défense.
 
 Chef de cabinet du chef d'état-major des armées.
 
-Chef de l'état major interarmées de force et d'entraînement.
+Chef de l'état-major interarmées de force et d'entraînement.
 
 Directeur du collège interarmées de défense.
 
@@ -42,13 +48,9 @@ Sous-chef d'état-major opérations.
 
 Sous-chef d'état-major relations internationales.
 
-Chef du bureau des officiers généraux.
+Sous-chef d'état-major organisation.
 
 Chef du service historique de la défense.
-
-Directeur central du service d'infrastructure de la défense (à compter du 12 septembre 2005).
-
-Directeur central adjoint du service d'infrastructure de la défense (à compter du 12 septembre 2005).
 
 Chef du centre de planification et de conduite des opérations.
 
@@ -64,21 +66,21 @@ Chef de division maîtrise des armements.
 
 Chef de division plans programmes et évaluation.
 
-Chef de division espace et systèmes d'information et de communication.
+Chef de division programmes interarmées.
 
-Chef de division organisation et logistique.
+Chef de division soutien logistique interarmées.
 
-Général adjoint relations internationales.
+Chef de division organisation des ressources humaines.
 
-Général chef du bureau études et stratégie militaire générale-adjoint au major général.
+Chef de division capacité et équipement.
 
-Inspecteur des forces en opérations et de la défense du territoire.
+Chef de division études, stratégie militaire générale et pilotage - adjoint au major général.
+
+Commandant supérieur outre-mer.
 
 Commandant des opérations spéciales.
 
-Secrétaire général du préconseil des systèmes de forces.
-
-Secrétaire général des officiers de cohérence opérationnelle.
+Général adjoint relations internationales.
 
 Directeur adjoint à la délégation aux affaires stratégiques.
 
@@ -89,6 +91,26 @@ Directeur de cabinet du directeur général de la sécurité extérieure.
 Directeur adjoint à la direction du renseignement militaire.
 
 Adjoint au directeur de la fonction militaire et du personnel civil.
+
+Chef du bureau des officiers généraux.
+
+Directeur central adjoint de la direction interarmées des réseaux d'infrastructures et des systèmes d'information de la défense.
+
+Directeur du centre interarmées de concepts, de doctrines et d'expérimentations.
+
+Secrétaire général du pré-conseil des systèmes de forces.
+
+Directeur adjoint ressources humaines et budgétaires de la direction interarmées des réseaux d'infrastructures et des systèmes d'information de la défense.
+
+Directeur adjoint planification - études à long terme de la direction interarmées des réseaux d'infrastructures et des systèmes d'information de la défense.
+
+Adjoint au chef du centre de planification et de conduite des opérations chargé de la planification des opérations.
+
+Adjoint au chef du centre de planification et de conduite des opérations chargé de la conduite des opérations.
+
+Sous-directeur exploitation de la direction du renseignement militaire.
+
+Sous-directeur opérations de la direction du renseignement militaire.
 
 TABLEAU II
 
@@ -162,15 +184,15 @@ Directeur local du service de soutien de la flotte.
 
 TABLEAU III
 
-Fonctions relevant de l'armée de terre
+FONCTIONS RELEVANT DE L'ARMÉE DE TERRE
 
-Désignation de l'emploi
+DÉSIGNATION DE L'EMPLOI
 
 Chef d'état-major de l'armée de terre.
 
 Major général de l'armée de terre.
 
-Général d'armée (terre), inspecteur général des armées.
+Général d'armée (terre) inspecteur général des armées.
 
 Commandant de région terre.
 
@@ -180,13 +202,9 @@ Commandant de la force logistique terrestre.
 
 Directeur du personnel militaire de l'armée de terre.
 
-Directeur central du génie (jusqu'au 11 septembre 2005).
-
 Directeur central du matériel de l'armée de terre.
 
 Directeur central du commissariat de l'armée de terre.
-
-Directeur central des télécommunications et de l'informatique.
 
 Commandant de la formation de l'armée de terre.
 
@@ -218,15 +236,11 @@ Commandant de la légion étrangère.
 
 Directeur adjoint à la direction du personnel militaire de l'armée de terre.
 
-Directeur adjoint à la direction centrale du génie (jusqu'au 11 septembre 2005).
-
 Directeur adjoint à la direction centrale du matériel de l'armée de terre.
-
-Directeur adjoint à la direction centrale des télécommunications et de l'informatique.
 
 Directeur adjoint à la direction centrale du commissariat de l'armée de terre.
 
-Sous-directeur gestion de la direction du personnel militaire de l'armée de terre.
+Sous-directeur Gestion de la direction du personnel militaire de l'armée de terre.
 
 Adjoint au général commandant de la force logistique terrestre.
 
@@ -240,29 +254,29 @@ Adjoint au commandant de la formation de l'armée de terre.
 
 Chef d'état-major du général commandant de la formation de l'armée de terre.
 
-Commandant de division au commandement de la force d'action terrestre, division environnement opérationnel.
+Commandant de division au commandement de la force d'action terrestre - Division environnement opérationnel.
 
-Commandant de division au commandement de la force d'action terrestre, division plans.
+Commandant de division au commandement de la force d'action terrestre - Division plans.
 
-Commandant de division au commandement de la force d'action terrestre, division emploi.
+Commandant de division au commandement de la force d'action terrestre - Division emploi.
 
-Commandant de division au commandement de la force d'action terrestre, division systèmes d'information et de communications.
+Commandant de division au commandement de la force d'action terrestre - Division systèmes d'information et de communications.
 
-Commandant de division au commandement de la force d'action terrestre, division renseignement, relations internationales.
+Commandant de division au commandement de la force d'action terrestre - Division renseignement - relations internationales.
 
-Commandant de division au commandement de la force logistique terrestre, division opérations.
+Commandant de division au commandement de la force logistique terrestre - Division opérations.
 
-Commandant de division au commandement de la force logistique terrestre, division mouvement transit transport.
+Commandant de division au commandement de la force logistique terrestre - Division mouvement transit transport.
 
-Commandant de division au commandement de la force logistique terrestre, division entraînement études.
+Commandant de division au commandement de la force logistique terrestre - Division entraînement études.
 
-Commandant de division au commandement de la force logistique terrestre, division soutien ressources.
+Commandant de division au commandement de la force logistique terrestre - Division soutien ressources.
 
 TABLEAU IV
 
-Fonctions relevant de la marine nationale
+FONCTIONS RELEVANT DE LA MARINE NATIONALE
 
-Désignation de l'emploi
+DÉSIGNATION DE L'EMPLOI
 
 Chef d'état-major de la marine.
 
@@ -280,7 +294,7 @@ Directeur du personnel militaire de la marine.
 
 Directeur central du commissariat de la marine.
 
-Directeur central des travaux immobiliers et maritimes (jusqu'au 11 septembre 2005).
+Officier général coordonnateur central pour les affaires nucléaires, la prévention et la protection de l'environnement.
 
 Commandant l'aviation navale.
 
@@ -288,11 +302,9 @@ Commandant la force maritime des fusiliers marins et commandos.
 
 Commandant de la zone maritime océan Indien.
 
-Sous-chef d'état-major plans.
+Sous-chef d'état-major opérations aéronavales.
 
-Sous-chef d'état-major opérations-logistique.
-
-Sous-chef d'état-major programmes.
+Sous-chef d'état-major plans et programmes.
 
 Président de la commission permanente des programmes et des essais des bâtiments de la flotte.
 
@@ -316,13 +328,11 @@ Directeur local du service de soutien de la flotte.
 
 Sous-directeur " compétences " de la direction du personnel militaire de la marine.
 
-Sous-directeur technique de la direction centrale des travaux immobiliers et maritimes (jusqu'au 11 septembre 2005).
-
 TABLEAU V
 
-Fonctions relevant de l'armée de l'air
+FONCTIONS RELEVANT DE L'ARMÉE DE L'AIR
 
-Désignation de l'emploi
+DÉSIGNATION DE L'EMPLOI
 
 Chef d'état-major de l'armée de l'air.
 
@@ -342,8 +352,6 @@ Directeur central du commissariat de l'air.
 
 Directeur central du matériel de l'armée de l'air.
 
-Directeur central de l'infrastructure de l'air (jusqu'au 11 septembre 2005).
-
 Directeur central de la structure intégrée du maintien en condition opérationnelle des matériels aéronautiques du ministère de la défense.
 
 Commandant des écoles de l'armée de l'air.
@@ -356,13 +364,13 @@ Commandant des systèmes de surveillance, d'information et de communications.
 
 Commandant des forces de protection et de sécurité de l'armée de l'air.
 
-Sous-chef d'état-major plans-finances.
+Sous-chef d'état-major plans - programmes.
 
-Sous-chef d'état-major programmes-matériels.
+Sous-chef d'état-major emploi - soutien.
 
-Sous-chef d'état-major relations internationales.
+Délégué aux relations extérieures de l'état-major de l'armée de l'air.
 
-Sous-chef d'état-major emploi-logistique.
+Sous-chef d'état-major performance - synthèse.
 
 Directeur de la circulation aérienne militaire.
 
@@ -377,8 +385,6 @@ Directeur adjoint du personnel militaire de l'armée de l'air.
 Directeur adjoint du commissariat de l'air.
 
 Directeur central adjoint du matériel de l'armée de l'air.
-
-Directeur central adjoint à la direction centrale de l'infrastructure de l'air (jusqu'au 11 septembre 2005).
 
 Commandant en second de région aérienne.
 
@@ -396,19 +402,13 @@ Commandant en second des systèmes de surveillance, d'information et de communic
 
 TABLEAU VI
 
-Fonctions relevant de la gendarmerie nationale
+FONCTIONS RELEVANT DE LA GENDARMERIE NATIONALE
 
-Désignation de l'emploi
+DÉSIGNATION DE L'EMPLOI
 
 Major général de la gendarmerie nationale.
 
 Général d'armée (gendarmerie) inspecteur général des armées.
-
-Commandant de région gendarmerie.
-
-Commandant de gendarmerie outre-mer.
-
-Commandant des écoles de la gendarmerie.
 
 Chef de service opérations et emploi.
 
@@ -416,11 +416,19 @@ Chef de service ressources humaines.
 
 Chef de service plans et moyens.
 
-Chef de cabinet du directeur général de la gendarmerie nationale.
+Commandant de région de gendarmerie, commandant la gendarmerie pour une zone de défense.
+
+Commandant de gendarmerie outre-mer.
+
+Commandant des écoles de la gendarmerie.
 
 Délégué aux réserves militaires pour la gendarmerie.
 
+Commandant de région gendarmerie.
+
 Commandant du centre d'enseignement supérieur de la gendarmerie et adjoint au général commandant les écoles de la gendarmerie nationale.
+
+Chef de cabinet du directeur général de la gendarmerie nationale.
 
 Sous-directeur de l'organisation et de l'évaluation à la direction de la gendarmerie nationale.
 
