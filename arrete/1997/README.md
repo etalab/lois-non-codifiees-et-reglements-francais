@@ -559,7 +559,6 @@
 - [Arrêté du 17 octobre 1997 (ECOT9751634A)](arrete-du-17-octobre-1997-ecot9751634a)
 - [Arrêté du 17 octobre 1997 (INTD9700476A)](arrete-du-17-octobre-1997-intd9700476a)
 - [Arrêté du 17 octobre 1997 (MESH9723296A)](arrete-du-17-octobre-1997-mesh9723296a)
-- [Arrêté du 17 septembre 1997 (AGRP9701951A)](arrete-du-17-septembre-1997-agrp9701951a)
 - [Arrêté du 17 septembre 1997 (MESP9722905A)](arrete-du-17-septembre-1997-mesp9722905a)
 - [Arrêté du 17 septembre 1997 (SCOG9702596A)](arrete-du-17-septembre-1997-scog9702596a)
 - [Arrêté du 18 août 1997 (EQUA9701358A)](arrete-du-18-aout-1997-equa9701358a)
