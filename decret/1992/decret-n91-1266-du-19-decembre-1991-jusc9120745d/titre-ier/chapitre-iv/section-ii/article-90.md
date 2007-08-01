@@ -550,7 +550,9 @@ I- PROCÉDURES : IX. - Procédures contraventionnelles
 
 II- COEFFICIENTS
 
-I- Assistance d'un prévenu devant le tribunal de police ou le juge de proximité (contraventions de police de la 5e classe)
+IX-1. Assistance d'un prévenu majeur devant le tribunal de police (contraventions de police de la 5e classe) ;
+
+IX-2. Assistance d'un prévenu mineur devant le tribunal de police ou le juge de proximité (contraventions de police de la 1re à la 5e classe).
 
 II- 2 (3)
 
@@ -588,15 +590,15 @@ II- 2
 
 I- PROCÉDURES : XII. - Rubrique supprimée par l'article 8 du décret du 2 avril 2003
 
-I- PROCÉDURES : XIII. - Procédures prévues par l'ordonnance n° 45-2658 du 2 novembre 1945 relative aux conditions d'entrée et de séjour des étrangers en France
+I- PROCÉDURES : XIII. - Procédures devant le juge des libertés et de la détention relatives à l'entrée et au séjour des étrangers.
 
 II- COEFFICIENTS
 
-I- XIII.1. Article 35 bis
+I- XIII.1. Prolongation de la rétention dans des locaux ne relevant pas de l'administration pénitentiaire.
 
 II- 4
 
-I- XIII.2. Article 35 quater
+I- XIII.2. Prolongation du maintien en zone d'attente.
 
 II- 4 (7)
 
@@ -676,7 +678,7 @@ Assistance ou représentation d'un condamné devant la commission de la Cour de 
 
 II- COEFFICIENTS : 17
 
-(1) Majoration possible : 16 UV par jour supplémentaire.
+(1) Majoration possible : 8 UV par demi-journée d'audience supplémentaire.
 
 (2) Une seule contribution est due pour l'assistance de la partie lors de l'ensemble de la phase procédurale visée, que la chambre de l'instruction ait été ou non saisie.
 

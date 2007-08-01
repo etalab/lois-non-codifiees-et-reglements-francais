@@ -1,10 +1,10 @@
 # Article 5
 
-L'examen du brevet national de moniteur des premiers secours comprend une épreuve permettant d'apprécier l'aptitude du candidat à mettre en oeuvre une partie de la procédure d'apprentissage correspondant à un objectif spécifique, tiré au sort dans les recommandations pédagogiques du guide national de référence de la formation aux premiers secours.
+L'examen du brevet national de moniteur des premiers secours comprend une épreuve permettant d'apprécier l'aptitude du candidat à mettre en oeuvre une partie de la procédure d'apprentissage correspondant à un objectif spécifique, tiré au sort dans les recommandations pédagogiques du référentiel national de la formation à l'unité d'enseignement "PSC 1".
 
-Le guide national de référence de formation du moniteur des premiers secours, qui figure en annexe I du présent arrêté, précise la liste des sujets et leur grille d'évaluation.
+Le référentiel national relatif à la formation de moniteur des premiers secours, qui figure en annexe I du présent arrêté, précise la liste des sujets et leur grille d'évaluation.
 
-La durée maximale de cette épreuve est de trente minutes. Le candidat est seul devant les membres du jury et dispose d'un groupe d'auditeurs titulaires au minimum de l'attestation de formation aux premiers secours et de matériels pédagogiques mis à sa disposition ; il peut utiliser ses propres documents.
+La durée maximale de cette épreuve est de trente minutes. Le candidat est seul devant les membres du jury et dispose d'un groupe d'auditeurs titulaires au minimum de l'attestation de formation à l'unité d'enseignement "PSC 1" et de matériels pédagogiques mis à sa disposition ; il peut utiliser ses propres documents.
 
 Pour la préparation de cette épreuve, le candidat dispose de trente minutes. Toute assistance pédagogique par un tiers est proscrite pendant cette préparation.
 

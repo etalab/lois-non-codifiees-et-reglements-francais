@@ -8,7 +8,7 @@ Le requérant doit joindre à cette demande :
 
 3° La justification de la nationalité déclarée par la production de tout document approprié ;
 
-4° S'il est de nationalité étrangère et non ressortissant d'un Etat membre de la Communauté européenne, les pièces et documents sous le couvert desquels il est autorisé à résider en France et une justification du caractère habituel de cette résidence, sous réserve des dispositions du quatrième alinéa de l'article 3 de la loi du 10 juillet 1991 susvisée ;
+4° S'il est de nationalité étrangère et non ressortissant d'un Etat membre de l'Union européenne, les pièces et documents sous le couvert desquels il est autorisé à résider en France et une justification du caractère habituel de cette résidence, sous réserve des dispositions du quatrième alinéa de l'article 3 de la loi du 10 juillet 1991 susvisée ;
 
 5° Le cas échéant, la justification de sa situation familiale dans les conditions prévues à l'article 2 du décret n° 2000-1277 du 26 décembre 2000 portant simplification de formalités administratives ou, s'il est ressortissant étranger, par la production de toute pièce équivalente reconnue par les lois de son pays d'origine ou de résidence ;
 

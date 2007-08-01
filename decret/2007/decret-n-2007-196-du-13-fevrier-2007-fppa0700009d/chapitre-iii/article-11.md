@@ -1,0 +1,5 @@
+# Article 11
+
+Le candidat qui justifie de l'exercice d'une activité professionnelle salariée ou non salariée, exercée de façon continue ou non, pendant une durée totale cumulée d'au moins trois ans à temps plein dans l'exercice d'une profession comparable par sa nature et son niveau à celle à laquelle la réussite au concours permet l'accès peut également demander à la commission l'autorisation de s'inscrire au concours. Les périodes de formation initiale ou continue, quel que soit le statut de la personne, ainsi que les stages et les périodes de formation en milieu professionnel accomplis pour la préparation d'un diplôme ou d'un titre ne sont pas pris en compte dans le calcul de la durée d'expérience requise.
+
+Lorsque la commission constate que l'expérience professionnelle n'a pas été acquise dans une profession comparable, elle peut proposer au candidat de se soumettre, après en avoir défini le contenu soit à un stage d'adaptation d'une durée maximale de trois ans, soit à une épreuve d'aptitude préalablement au concours.

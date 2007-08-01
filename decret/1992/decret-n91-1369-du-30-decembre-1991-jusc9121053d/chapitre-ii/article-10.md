@@ -1,6 +1,6 @@
 # Article 10
 
-La contribution de l'Etat à la rétribution des agréés qui exercent les attributions de l'avoué est déterminée en fonction du produit de l'unité de valeur prévue par la loi de finances (UV) et des coefficients ci-après :
+La contribution de l'Etat à la rétribution des avocats ou agréés qui exercent les attributions de l'avoué est déterminée en fonction du produit de l'unité de valeur prévue par la loi de finances (UV) et des coefficients ci-après :
 
 <table>
 <tr>

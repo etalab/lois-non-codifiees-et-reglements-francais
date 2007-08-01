@@ -1,6 +1,6 @@
 # Article 6
 
-Au cours de l'épreuve, le candidat est évalué sur son aptitude à enseigner les gestes de premiers secours conformément aux recommandations du guide national de référence de formation aux premiers secours, à savoir :
+Au cours de l'épreuve, le candidat est évalué sur son aptitude à enseigner les gestes de premiers secours conformément aux recommandations du référentiel national de formation à l'unité d'enseignement "PSC 1", à savoir :
 
 - respecter les références techniques ;
 

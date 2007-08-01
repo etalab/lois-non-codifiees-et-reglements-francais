@@ -6,7 +6,7 @@ Chaque dossier individuel comprend :
 
 - une demande écrite mentionnant les nom, prénoms, date et lieu de naissance et adresse du candidat ;
 
-- la copie de son attestation de formation aux premiers secours ou de son équivalent.
+- la copie de son attestation de formation à l'unité d'enseignement "PSC 1" ou de son équivalent.
 
 L'attestation certifiant la réalisation de la formation préparatoire, établie par l'organisme habilité ou l'association agréée qui l'a assurée, est remise au président du jury le jour de l'examen.
 
