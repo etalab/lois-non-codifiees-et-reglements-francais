@@ -509,7 +509,6 @@
 - [Arrêté du 18 août 1993 (ECOC9300096A)](arrete-du-18-aout-1993-ecoc9300096a)
 - [Arrêté du 18 août 1993 (SANP9302322A)](arrete-du-18-aout-1993-sanp9302322a)
 - [Arrêté du 18 décembre 1992 (INDB9201037A)](arrete-du-18-decembre-1992-indb9201037a)
-- [Arrêté du 18 décembre 1992 (INTE9200571A)](arrete-du-18-decembre-1992-inte9200571a)
 - [Arrêté du 18 décembre 1992 (SPSA9203315A)](arrete-du-18-decembre-1992-spsa9203315a)
 - [Arrêté du 18 décembre 1992 (TEFT9205581A)](arrete-du-18-decembre-1992-teft9205581a)
 - [Arrêté du 18 décembre 1992 (TEFT9205582A)](arrete-du-18-decembre-1992-teft9205582a)

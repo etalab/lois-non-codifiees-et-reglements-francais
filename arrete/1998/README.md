@@ -369,7 +369,6 @@
 - [Arrêté du 12 mars 1998 (JUSE9840027A)](arrete-du-12-mars-1998-juse9840027a)
 - [Arrêté du 12 mars 1998 (MESH9820941A)](arrete-du-12-mars-1998-mesh9820941a)
 - [Arrêté du 12 mars 1998 (MESP9821151A)](arrete-du-12-mars-1998-mesp9821151a)
-- [Arrêté du 12 novembre 1998 (ATEE9870411A)](arrete-du-12-novembre-1998-atee9870411a)
 - [Arrêté du 12 novembre 1998 (MJSK9870157A)](arrete-du-12-novembre-1998-mjsk9870157a)
 - [Arrêté du 12 octobre 1998 (DEFI9853004A)](arrete-du-12-octobre-1998-defi9853004a)
 - [Arrêté du 12 octobre 1998 (DEFI9853005A)](arrete-du-12-octobre-1998-defi9853005a)

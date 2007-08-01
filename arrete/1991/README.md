@@ -219,7 +219,6 @@
 - [Arrêté du 8 mars 1991 (INTB9100173A)](arrete-du-8-mars-1991-intb9100173a)
 - [Arrêté du 8 mars 1991 (SPSS9100781A)](arrete-du-8-mars-1991-spss9100781a)
 - [Arrêté du 8 novembre 1991 (EQUS9101654A)](arrete-du-8-novembre-1991-equs9101654a)
-- [Arrêté du 8 novembre 1991 (INTE9100463A)](arrete-du-8-novembre-1991-inte9100463a)
 - [Arrêté du 8 novembre 1991 (SPSG9102535A)](arrete-du-8-novembre-1991-spsg9102535a)
 - [Arrêté du 8 novembre 1991 (SPSS9102208A)](arrete-du-8-novembre-1991-spss9102208a)
 - [Arrêté du 8 octobre 1990 (TEFT9003882A)](arrete-du-8-octobre-1990-teft9003882a)
