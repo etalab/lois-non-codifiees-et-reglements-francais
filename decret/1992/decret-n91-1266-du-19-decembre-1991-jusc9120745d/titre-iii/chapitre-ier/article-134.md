@@ -30,4 +30,4 @@ Il comprend en outre :
 
 13. Deux représentants d'associations oeuvrant dans le domaine de l'aide juridique ;
 
-14. Un représentant des Français établis hors de France désigné sur proposition du Conseil supérieur des Français de l'étranger.
+14. Un représentant des Français établis hors de France désigné sur proposition de l'Assemblée des Français de l'étranger.

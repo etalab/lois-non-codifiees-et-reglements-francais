@@ -4,7 +4,7 @@ La demande d'aide juridictionnelle est déposée ou adressée par l'intéressé 
 
 Elle contient les indications suivantes :
 
-1° Nom, prénoms, profession, nationalité et domicile du requérant ou, si celui-ci est une personne morale, ses dénomination, forme, objet et siège social ;
+1° Nom, prénoms, profession, nationalité, domicile et, le cas échéant, numéro d'allocataire attribué par la caisse d'allocations familiales du requérant ou, si celui-ci est une personne morale, ses dénomination, forme, objet et siège social ;
 
 2° Selon le cas :
 

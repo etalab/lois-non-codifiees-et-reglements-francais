@@ -48,7 +48,13 @@ II. 6. Assistance d'un prévenu devant le tribunal correctionnel ou le tribunal 
 
 III. Procédures contraventionnelles
 
-III. 1. Assistance d'un prévenu devant le tribunal de police (5e classe)
+III. 1. Assistance d'un prévenu majeur devant le tribunal de police (contraventions de police de la 5e classe).
+
+2
+
+III-2. Assistance d'un prévenu mineur devant le tribunal de police ou le juge de proximité (contraventions de police de la 1re à la 5e classe).
+
+2
 
 2
 
@@ -119,3 +125,5 @@ VII-4 Article 52 : maintien en zone d'attente
 (1) Y compris appels formés devant la chambre de l'instruction.
 
 La valeur de la lettre clé est égale au montant de l'unité de valeur de référence fixée en application de l'article 27 de la loi n° 91-647 du 10 juillet 1991 relative à l'aide juridique.
+
+(2) Majoration en cas de présence d'une partie civile assistée ou représentée par un avocat : 3 UV.

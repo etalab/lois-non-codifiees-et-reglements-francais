@@ -148,9 +148,15 @@ VII.8. Assistance d'un prévenu devant le tribunal correctionnel ou le tribunal 
 
 VIII. - Procédures contraventionnelles
 
-VIII.1. Assistance d'un prévenu devant le tribunal de police ou le juge de proximité (contraventions de police de la 5e classe)
+VIII.1. Assistance d'un prévenu majeur devant le tribunal de police (contraventions de police de la 5e classe).
 
 2
+
+VIII-2. Assistance d'un prévenu mineur devant le tribunal de police ou le juge de proximité (contraventions de police de la 1re à la 5e classe).
+
+2
+
+8
 
 IX. - Procédures d'appel et procédures devant la chambre de l'instruction
 
@@ -221,3 +227,5 @@ XIV.1. Commission d'expulsion des étrangers prévue à l'article 32 de l'ordonn
 (7) Majoration par jour supplémentaire d'audience :
 
 coefficient 12.
+
+(8) Majoration en cas de présence d'une partie civile assistée ou représentée par un avocat : 3 UV.

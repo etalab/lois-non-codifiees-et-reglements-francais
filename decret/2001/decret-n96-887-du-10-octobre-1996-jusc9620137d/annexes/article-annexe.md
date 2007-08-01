@@ -122,8 +122,6 @@ La rétribution finale due à l'avocat ayant accompli une mission d'aide juridic
 
 - d'une attestation de fin de mission transactionnelle délivrée par le président du bureau d'aide juridictionnelle.
 
-Dans l'hypothèse où le juge a condamné une partie à payer à l'autre une somme au titre des frais non compris dans les dépens et s'il s'est écoulé plus de six mois depuis la date du jugement, l'avocat doit justifier par tous moyens que le délai fixé par le dernier alinéa de l'article 37 de la loi du 10 juillet 1991 n'est pas expiré.
-
 Article 14
 
 Toutefois, lorsqu'un mineur demande, conformément aux dispositions de l'article 388-1 du code civil, à être entendu avec un avocat dans le cadre d'une procédure à laquelle il n'est pas partie, la Carpa rétribue l'avocat sur la seule présentation d'une attestation de mission remise par le greffe.
@@ -154,11 +152,13 @@ Il est procédé, le cas échéant, à la déduction :
 
 1° Des provisions versées par le client, telles qu'elles sont indiquées dans la décision rendue par le bureau d'aide juridictionnelle conformément aux dispositions de l'article 102 du décret du 19 décembre 1991 précité ; en cas d'admission à l'aide juridictionnelle partielle, la provision versée par le client est déduite de l'honoraire complémentaire et, le cas échéant, pour le solde, de la contribution due par l'Etat ; à cet effet, l'avocat doit remettre au préalable la convention d'honoraires ;
 
-2° Des provisions versées à l'avocat par la Carpa.
+2° Des provisions versées à l'avocat par la Carpa ;
+
+3° Des sommes recouvrées sur le fondement de l'article 37 de la loi du 10 juillet 1991 et mentionnées sur l'attestation de mission délivrée par le greffe ou le secrétariat de la juridiction.
 
 Article 18
 
-[* Abrogé *]
+(Abrogé)
 
 Section 2
 

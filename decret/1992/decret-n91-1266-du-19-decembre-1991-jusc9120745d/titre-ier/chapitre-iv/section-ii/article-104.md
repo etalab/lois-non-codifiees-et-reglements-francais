@@ -8,6 +8,6 @@ Cette attestation mentionne la nature de la procédure, les diligences effectué
 
 - ou la somme à régler à l'officier public ou ministériel.
 
-L'attestation est délivrée ou remise à l'auxiliaire de justice au moment où le juge rend sa décision ou, au plus tard, en même temps que lui en est adressée une expédition.
+L'attestation est délivrée ou remise à l'auxiliaire de justice au moment où le juge rend sa décision ou, au plus tard, en même temps que lui en est adressée une expédition, sous réserve des dispositions du premier alinéa de l'article 108.
 
 Les difficultés auxquelles donne lieu l'application du présent article sont tranchées sans forme par le président de la juridiction.
