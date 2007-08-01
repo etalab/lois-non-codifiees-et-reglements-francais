@@ -2,7 +2,7 @@
 
 L'aptitude à porter les premiers secours aux personnes en situation de détresse physique est reconnue :
 
-1° Par une attestation de formation aux premiers secours, délivrée aux personnes ayant suivi avec succès cette formation ;
+1° Par l'unité d'enseignement "prévention et secours civiques de niveau 1", délivrée aux personnes ayant suivi avec succès cette formation ;
 
 2° Abrogé
 
