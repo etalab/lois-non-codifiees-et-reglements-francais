@@ -20,6 +20,7 @@
 - [Décret n° 2007-3 du 1 janvier 2007 (BUDB0630176D)](decret-n-2007-3-du-1-janvier-2007-budb0630176d)
 - [Décret n° 2007-4 du 1 janvier 2007 (SANS0624893D)](decret-n-2007-4-du-1-janvier-2007-sans0624893d)
 - [Décret n°2006-963 du 1 août 2006 (MENX0600086D)](decret-n2006-963-du-1-aout-2006-menx0600086d)
+- [Décret n°2007-1166 du 1 août 2007 (SJSS0761720D)](decret-n2007-1166-du-1-aout-2007-sjss0761720d)
 - [Décret n°2007-140 du 1 février 2007 (INTA0700018D)](decret-n2007-140-du-1-fevrier-2007-inta0700018d)
 - [Décret n° 2007-284 du 2 mars 2007 (BUDJ0700001D)](decret-n-2007-284-du-2-mars-2007-budj0700001d)
 - [Décret n° 2007-286 du 2 mars 2007 (DEVP0710013D)](decret-n-2007-286-du-2-mars-2007-devp0710013d)
