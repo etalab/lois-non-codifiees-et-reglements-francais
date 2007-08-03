@@ -979,7 +979,6 @@
 - [Arrêté du 28 octobre 1993 (ECOT9351300A)](arrete-du-28-octobre-1993-ecot9351300a)
 - [Arrêté du 28 octobre 1993 (INDB9300583A)](arrete-du-28-octobre-1993-indb9300583a)
 - [Arrêté du 28 octobre 1993 (INTE9300653A)](arrete-du-28-octobre-1993-inte9300653a)
-- [Arrêté du 28 octobre 1993 (SPSS9303152A)](arrete-du-28-octobre-1993-spss9303152a)
 - [Arrêté du 28 septembre 1993 (AGRR9301690A)](arrete-du-28-septembre-1993-agrr9301690a)
 - [Arrêté du 28 septembre 1993 (BUDB9330069A)](arrete-du-28-septembre-1993-budb9330069a)
 - [Arrêté du 28 septembre 1993 (COPC9300092A)](arrete-du-28-septembre-1993-copc9300092a)

@@ -179,7 +179,6 @@
 - [Arrêté du 7 septembre 2004 (ECOF0400045A)](arrete-du-7-septembre-2004-ecof0400045a)
 - [Arrêté du 7 septembre 2004 (ECOP0400570A)](arrete-du-7-septembre-2004-ecop0400570a)
 - [Arrêté du 7 septembre 2004 (INDI0403590A)](arrete-du-7-septembre-2004-indi0403590a)
-- [Arrêté du 7 septembre 2004 (SOCF0411815A)](arrete-du-7-septembre-2004-socf0411815a)
 - [Arrêté du 7 septembre 2004 (SOCF0411816A)](arrete-du-7-septembre-2004-socf0411816a)
 - [Arrêté du 7 septembre 2004 (SOCF0411817A)](arrete-du-7-septembre-2004-socf0411817a)
 - [Arrêté du 7 septembre 2004 (SOCF0411818A)](arrete-du-7-septembre-2004-socf0411818a)

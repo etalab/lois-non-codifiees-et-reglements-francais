@@ -908,7 +908,6 @@
 - [Arrêté du 26 octobre 1992 (BUDB9230095A)](arrete-du-26-octobre-1992-budb9230095a)
 - [Arrêté du 26 octobre 1992 (EQUT9201478A)](arrete-du-26-octobre-1992-equt9201478a)
 - [Arrêté du 26 octobre 1992 (SANH9202631A)](arrete-du-26-octobre-1992-sanh9202631a)
-- [Arrêté du 26 octobre 1992 (SPSS9202629A)](arrete-du-26-octobre-1992-spss9202629a)
 - [Arrêté du 26 mai 1992 (ECOT9210147A)](arrete-du-26-mai-1992-ecot9210147a)
 - [Arrêté du 26 mai 1992 (ECOT9210150A)](arrete-du-26-mai-1992-ecot9210150a)
 - [Arrêté du 26 mai 1992 (MENK9200105A)](arrete-du-26-mai-1992-menk9200105a)

@@ -899,8 +899,6 @@
 - [Arrêté du 28 août 1998 (MESI9823699A)](arrete-du-28-aout-1998-mesi9823699a)
 - [Arrêté du 28 août 1998 (MEST9810935A)](arrete-du-28-aout-1998-mest9810935a)
 - [Arrêté du 28 août 1998 (MEST9810943A)](arrete-du-28-aout-1998-mest9810943a)
-- [Arrêté du 28 août 1998 (MESX9803139A)](arrete-du-28-aout-1998-mesx9803139a)
-- [Arrêté du 28 août 1998 (MESX9803140A)](arrete-du-28-aout-1998-mesx9803140a)
 - [Arrêté du 28 avril 1998 (DEFL9801475A)](arrete-du-28-avril-1998-defl9801475a)
 - [Arrêté du 28 avril 1998 (ECOB9840011A)](arrete-du-28-avril-1998-ecob9840011a)
 - [Arrêté du 28 avril 1998 (ECOC9700238A)](arrete-du-28-avril-1998-ecoc9700238a)
