@@ -1241,7 +1241,7 @@ Le siège et le ressort des bureaux des hypothèques sont fixés conformément a
 <tr>
 <td valign="top" width="132"/>
 <td valign="top" width="132">
-<p>Nanterre (4e bureau)</p>
+<p>Vanves (1er bureau)</p>
 </td>
 <td valign="top" width="416">
 <p>Communes de Boulogne-Billancourt, Chaville, Garches, Marnes-la-Coquette, Meudon, Saint-Cloud, Sèvres, Vaucresson, Ville-d'Avray.</p>
@@ -1250,7 +1250,7 @@ Le siège et le ressort des bureaux des hypothèques sont fixés conformément a
 <tr>
 <td valign="top" width="132"/>
 <td valign="top" width="132">
-<p>Nanterre (5e bureau)</p>
+<p>Vanves (2e bureau)</p>
 </td>
 <td valign="top" width="416">
 <p>Communes d'Antony, Bagneux, Bourg-la-Reine, Châtenay-Malabry, Châtillon-sous-Bagneux, Clamart, Fontenay-aux-Roses, Issy-les-Moulineaux, Malakoff, Montrouge, Le Plessis-Robinson, Sceaux, Vanves.</p>
