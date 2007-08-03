@@ -1,0 +1,5 @@
+# Article 1
+
+Les concours prévus pour le recrutement des praticiens-conseils chargés du service du contrôle médical du régime général de la sécurité sociale et du régime social des travailleurs indépendants sont communs à ces deux régimes.
+
+Sont organisés chaque année, en tant que de besoin, des concours distincts pour le recrutement des médecins-conseils, des chirurgiens-dentistes-conseils et des pharmaciens-conseils. Le directeur général de la Caisse nationale d'assurance maladie des travailleurs salariés, après accord du directeur général de la Caisse nationale du régime social des travailleurs indépendants, fixe le nombre des postes mis au concours, la date d'ouverture des épreuves et la date limite de dépôt des candidatures. L'avis de concours est publié au Journal officiel au moins trois mois avant la date d'ouverture des épreuves.

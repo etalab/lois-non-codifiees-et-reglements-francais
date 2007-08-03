@@ -44,9 +44,13 @@ N'est pas considérée comme un rassemblement la présentation d'oiseaux par un 
 
 Les conditions sanitaires pour les expositions et concours d'oiseaux d'agrément sont définies par instruction du ministre en charge de l'agriculture.
 
-3. Mesures particulières relatives aux appelants :
+3. Mesures particulières aux appelants :
 
-L'utilisation des appelants pour la chasse au gibier d'eau est interdite à partir du niveau modéré, sauf si une analyse du risque prouve que dans certaines zones géographiques cette interdiction ne s'avère pas utile .
+Le transport des appelants entre le site de chasse et leur site habituel de détention est interdit à partir du niveau faible. Si une analyse du risque détermine que dans certaines zones géographiques, l'interdiction ne s'avère pas utile à la maîtrise du risque ou si le maintien en permanence sur le site de chasse n'est pas praticable, cette interdiction peut y être rapportée.
+
+L'utilisation des appelants pour la chasse au gibier d'eau est interdite à partir du niveau modéré, sauf si une analyse de risque prouve que dans certaines zones géographiques cette interdiction ne s'avère pas utile à la maîtrise du risque.
+
+Les zones géographiques dans lesquelles le transport et l'utilisation des appelants pour la chasse au gibier d'eau sont autorisés en application des alinéas précédents sont définies par arrêté des ministres chargés de l'agriculture et de la chasse.
 
 4. Mesures particulières relatives aux pigeons voyageurs et aux oiseaux utilisés à des fins de sécurité civile ou militaire :
 
