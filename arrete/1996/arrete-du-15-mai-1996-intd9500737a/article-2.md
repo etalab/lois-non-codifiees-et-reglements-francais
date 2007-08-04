@@ -6,7 +6,7 @@ I. - Doivent être inscrites dans le traitement les personnes recherchées au ti
 
 - les obligations ou interdictions visées aux 1°, 2°, 3°, 8°, 9°, 12° et 14° de l'article 138 du code de procédure pénale et à l'article 10-2 de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante ;
 
-- les interdictions prononcées en application des dispositions des 1°, 2°, 3°, 11°, 12°, 13° et 14° de l'article 131-6 du code pénal relatif aux peines alternatives à l'emprisonnement ;
+- les interdictions prononcées en application des dispositions des 1°, 2°, 3°, 6°, 11°, 12°, 13°, 14° de l'article 131-6 du code pénal relatif aux peines alternatives à l'emprisonnement ;
 
 - lorsqu'elle est prononcée à titre de peine complémentaire, l'interdiction de conduire certains véhicules terrestres à moteur, y compris ceux pour la conduite desquels le permis de conduire n'est pas exigé en application des dispositions de l'article L. 223-5 du code de la route et de l'article 131-16 du code pénal ;
 
@@ -46,7 +46,7 @@ II. - Peuvent être inscrites dans le traitement les personnes faisant l'objet d
 
 3° A la demande des autorités administratives :
 
-- étrangers faisant l'objet d'une mesure d'expulsion prise en application des articles 23 et suivants de l'ordonnance n° 45-2658 du 2 novembre 1945 relative aux conditions d'entrée et de séjour en France des étrangers ;
+- étrangers faisant l'objet d'une mesure d'expulsion prise en application des articles L. 521-1 à L. 521-3 du code de l'entrée et du séjour des étrangers et du droit d'asile ;
 
 - oppositions à l'entrée sur le territoire prises à l'encontre d'étrangers dont la présence en France constituerait une menace pour l'ordre public ;
 
@@ -70,6 +70,8 @@ II. - Peuvent être inscrites dans le traitement les personnes faisant l'objet d
 
 - recherches effectuées en vue de la notification de mesures administratives relatives au permis de conduire ;
 
-- recherches de personnes pour prévenir des menaces pour la sécurité publique ou la sûreté de l'Etat, dès lors que des informations ou des indices réels ont été recueillis à leur égard.
+- recherches de personnes pour prévenir des menaces pour la sécurité publique ou la sûreté de l'Etat, dès lors que des informations ou des indices réels ont été recueillis à leur égard ;
+
+- personnes faisant l'objet d'une mesure administrative d'interdiction de stade en vertu de l'article L. 332-16 du code du sport.
 
 III. - En tant que de besoin et dans le cadre des engagements internationaux, le fichier est également constitué des données à caractère personnel issues des traitements gérés par des organismes de coopération internationale en matière de police judiciaire ou des services de police étrangers qui présentent un niveau de protection suffisant de la vie privée, des libertés et des droits fondamentaux des personnes à l'égard du traitement dont ces données font l'objet ou peuvent faire l'objet.
