@@ -266,7 +266,7 @@ Greffier mis à disposition ou affecté à l'administration centrale ou à l'Eco
 
 Greffier placé.
 
-Régisseur d'avances et de recettes dont le montant de l'avance est supérieur à 400 000 F.
+Régisseur d'avances et de recettes dont le montant de l'avance est supérieur à 60 980 euros.
 
 Greffier responsable du centre de préarchivage de Paris ;
 
@@ -274,7 +274,7 @@ Greffier responsable de l'audiovisuel Ecole nationale des greffes.
 
 Moniteur Ecole nationale des greffes.
 
-Adjoint et agent administratifs placés.
+Adjoint administratif placé.
 
 Responsable de la gestion budgétaire adjoint.
 
