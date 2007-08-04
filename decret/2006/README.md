@@ -449,6 +449,7 @@
 - [Décret n°2005-1795 du 30 décembre 2005 (MJSK0570251D)](decret-n2005-1795-du-30-decembre-2005-mjsk0570251d)
 - [Décret n°2006-1100 du 30 août 2006 (DEVG0630021D)](decret-n2006-1100-du-30-aout-2006-devg0630021d)
 - [Décret n°2006-1319 du 30 octobre 2006 (JUSC0620779D)](decret-n2006-1319-du-30-octobre-2006-jusc0620779d)
+- [Décret n°2006-1321 du 30 octobre 2006 (JUSB0610638D)](decret-n2006-1321-du-30-octobre-2006-jusb0610638d)
 - [Décret n°2006-1322 du 30 octobre 2006 (EQUT0602132D)](decret-n2006-1322-du-30-octobre-2006-equt0602132d)
 - [Décret n°2006-1323 du 30 octobre 2006 (SANH0624002D)](decret-n2006-1323-du-30-octobre-2006-sanh0624002d)
 - [Décret n°2006-1489 du 30 novembre 2006 (DEFP0601560D)](decret-n2006-1489-du-30-novembre-2006-defp0601560d)
