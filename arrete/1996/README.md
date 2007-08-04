@@ -419,7 +419,6 @@
 - [Arrêté du 13 août 1996 (AGRS9601930A)](arrete-du-13-aout-1996-agrs9601930a)
 - [Arrêté du 13 août 1996 (MENF9601807A)](arrete-du-13-aout-1996-menf9601807a)
 - [Arrêté du 13 août 1996 (TASG9623139A)](arrete-du-13-aout-1996-tasg9623139a)
-- [Arrêté du 13 août 1996 (TAST9611280A)](arrete-du-13-aout-1996-tast9611280a)
 - [Arrêté du 13 décembre 1996 (AGRE9602691A)](arrete-du-13-decembre-1996-agre9602691a)
 - [Arrêté du 13 décembre 1996 (AGRE9602692A)](arrete-du-13-decembre-1996-agre9602692a)
 - [Arrêté du 13 décembre 1996 (ECOT9610286A)](arrete-du-13-decembre-1996-ecot9610286a)
