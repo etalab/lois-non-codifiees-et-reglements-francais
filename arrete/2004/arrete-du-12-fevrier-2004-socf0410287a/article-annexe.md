@@ -1,10 +1,10 @@
 # Article Annexe
 
-A N N E X E
+INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
-INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES Intitulé :
+Intitulé :
 
-Titre professionnel : conducteur(trice) d'appareils de l'industrie chimique.
+Titre professionnel de conducteur (trice) d'appareils de l'industrie chimique.
 
 Niveau : V.
 
@@ -12,111 +12,77 @@ Code NSF : 222 r.
 
 Résumé du référentiel d'emploi
 
-Le (la) conducteur(trice) d'appareils de l'industrie chimique est un(e) opérateur(trice) de production qui conduit des appareils qui réalisent des transformations physiques (malaxage, granulation...) ou chimiques (distillation, séparation, polymérisation...) des matières travaillées (liquides, gazeuses, solides) ou de production d'énergie.
+Le conducteur d'appareils de l'industrie chimique (CAIC) assure la conduite du cycle de fabrication de produits chimiques selon un programme défini et des consignes précises.
 
-Il (elle) surveille et régule les paramètres de fabrication et le circuit des matières en fonction des consignes, sur un appareillage qui peut être automatique et informatisé.
+Pour cela, il doit :
 
-Il (elle) corrige les écarts des paramètres par rapport aux valeurs de consigne.
+-participer aux opérations de démarrage et d'arrêt de l'installation ;
 
-Il (elle) procède ou participe aux opérations de préparation des fabrications et au démarrage et à l'arrêt des appareils.
+-lire et interpréter les indications fournies par des appareils de mesure et de contrôle ;
 
-En outre, il (elle) effectue un diagnostic de premier niveau et réalise les opérations correctives.
+-assurer l'alimentation, le déplacement et l'évacuation des matières à son poste de travail ;
 
-Dans le cas d'anomalies d'origine matérielle, il (elle) met en sécurité l'installation avant de faire procéder au remplacement de l'élément repéré défectueux par le service maintenance.
+-procéder à des échantillonnages et à des analyses chimiques simples ;
 
-Dans le cas d'anomalies élémentaires, et s'il (elle) est autorisé(e) à le faire, il (elle) peut procéder au remplacement de pièces défectueuses dans des conditions préalablement définies.
+-corriger la marche de l'installation pour la maintenir dans les limites des valeurs de consigne, en fonction des résultats des analyses et des mesures ;
 
-Enfin, il (elle) doit vérifier la conformité des produits fabriqués par rapport à un cahier des charges.
+-déceler toute anomalie de fonctionnement et, en fonction de la gravité de l'anomalie, soit intervenir en effectuant les manoeuvres appropriées, soit mettre l'installation en sécurité avant intervention du service maintenance ;
 
-La tendance actuelle, notamment dans le cas de production continue, est de commander les appareils à distance depuis une salle de contrôle. De ce fait, le (la) conducteur(trice) d'appareils de l'industrie chimique est beaucoup moins en contact avec les appareils et a une approche plus abstraite de ceux-ci, par écrans interposés, en visualisant les installations sur des synoptiques. Il (elle) se rend néanmoins sur place pour des tâches ponctuelles : prise d'échantillon, vérification d'un capteur, manipulation manuelle d'une « commande » (telle une vanne...) en cas de défaillance...
+-prendre des mesures immédiates en cas d'accident ;
 
-L'emploi est souvent posté en semi-continu (2 x 8 ou 3 x 8) ou en continu (3 x 8, 7 jours). Mais il peut aussi être réalisé de jour. Une vigilance permanente et une réactivité à l'événement (dérive des paramètres, incidents...) sont indispensables dans cette activité compte tenu des matières traitées (produits explosifs, corrosifs, radioactifs, toxiques, contaminants...).
+-collaborer avec un technicien ou un ingénieur de fabrication à la conduite d'une installation pilote.
 
-Capacités attestées et descriptif
+Capacités attestées et descriptif des composantes de la certification
 
-des composantes de la certification
+1. Conduire une installation de l'industrie chimique
 
-1. Préparer une opération de production et réaliser
+Surveiller les paramètres et les équipements du process sur une installation de l'industrie chimique.
 
-la mise en route et l'arrêt d'appareils de l'industrie chimique
+Agir sur les réglages, les transferts et les flux matières d'une installation de l'industrie chimique dans le cadre d'un mode opératoire.
 
-Dans le cadre d'une industrie chimique, planifier les différentes opérations à effectuer du début à la fin de la production (ordre, procédure, précautions).
+Prélever des échantillons de matières selon des instructions et en vérifier certaines caractéristiques dans le cadre d'une production chimique.
 
-S'assurer pour l'opération de production prévue (dans le cadre d'une industrie chimique) que les installations sont propres, en bon état de marche et conformes aux normes de sécurité exigées.
+S'approprier des consignes et les appliquer dans le cadre de la conduite d'une installation chimique.
 
-S'assurer - quantitativement et qualitativement - de la disponibilité des produits à utiliser ou du moins de leur approvisionnement en temps utile pour une production dans l'industrie chimique.
+Transcrire les informations nécessaires à la traçabilité et rendre compte de son activité dans le cadre d'une production chimique.
 
-Gérer la transition entre l'état de fonctionnement stabilisé du processus - ou de la réaction - et l'état d'arrêt, et réciproquement dans le cadre d'une production de l'industrie chimique.
+Ajuster son intervention aux exigences de qualité, de sécurité et d'environnement dans le cadre d'une production chimique.
 
-Satisfaire à toutes les règles relatives à l'hygiène, la sécurité et la protection de l'environnement, en vigueur dans l'industrie chimique.
+Effectuer les opérations de maintenance productive sur des équipements de l'industrie chimique.
 
-2. Surveiller et réguler les paramètres de fabrication d'installations de l'industrie chimique et assurer l'alimentation et l'évacuation des matières
+2. Préparer, démarrer et arrêter une opération de production de l'industrie chimique en respectant les consignes
 
-Surveiller - sensoriellement et techniquement - les paramètres de fabrication d'une production en chimie.
+Veiller au bon approvisionnement des produits (quantité, qualité, disponibilité...) dans le cadre d'une production chimique.
 
-Surveiller et assurer l'alimentation des matières dans le cadre d'une production en chimie.
+Organiser les différentes tâches à effectuer du début à la fin de la production (ordre, procédure, précautions) dans le cadre d'une industrie chimique.
 
-Réagir rapidement et efficacement aux anomalies et dysfonctionnements constatés dans le cadre d'une production en chimie.
+Vérifier le bon état de marche et la conformité de l'installation de production chimique et en assurer la propreté.
 
-Interpréter les paramètres de fabrication recueillis en salle de contrôle d'une installation de l'industrie chimique pour en déduire les procédures à appliquer.
+Assurer les étapes de démarrage et d'arrêt d'une production chimique en respectant toutes les règles relatives à l'hygiène, à la sécurité et à la protection de l'environnement.
 
-Recueillir toutes les informations et les consigner afin d'assurer la traçabilité du produit chimique fabriqué.
+3. Repérer et caractériser un dysfonctionnement sur une opération de l'industrie chimique et agir en conséquence
 
-Satisfaire à toutes les règles relatives à l'hygiène, la sécurité et la protection de l'environnement, en vigueur dans l'industrie chimique.
+Détecter une anomalie de fonctionnement dans une installation de l'industrie chimique.
 
-3. Effectuer un diagnostic de dysfonctionnement sur des installations de l'industrie chimique et réaliser les opérations correctives
+Décrire l'anomalie de fonctionnement repérée sur une installation de l'industrie chimique et en informer sa hiérarchie.
 
-Situer avec précision l'origine d'une anomalie de fonctionnement dans une installation de production chimique.
+Appliquer les mesures appropriées pour remédier au dysfonctionnement constaté dans une installation de l'industrie chimique.
 
-Déterminer la cause du déclenchement d'alarmes dans le cadre d'une installation de l'industrie chimique.
+Mettre en sécurité la partie de l'installation de l'industrie chimique concernée par le dysfonctionnement avant intervention des services compétents.
 
-Prendre dans l'immédiat les mesures nécessaires appropriées pour remédier au dysfonctionnement constaté dans l'installation de production chimique.
+Secteurs d'activités ou types d'emploi accessibles par le détenteur du titre
 
-Transmettre, le cas échéant, les informations nécessaires et suffisantes au service compétent chargé de remédier à l'anomalie constatée dans l'installation de production chimique.
+Le CAIC peut travailler dans toute industrie de procédés : chimie, chimie fine, pétrochimie, agroalimentaire, cosmétologie, pharmacie, ciments, verre, textile, peintures, colles, énergie...
 
-Satisfaire à toutes les règles relatives à l'hygiène, la sécurité et la protection de l'environnement, en vigueur dans l'industrie chimique.
-
-4. Mettre l'appareillage en sécurité avant de faire procéder au remplacement de pièces défectueuses sur des installations de l'industrie chimique
-
-Repérer dans une installation de production chimique un élément défectueux en s'assurant auparavant que l'anomalie ou le dysfonctionnement constaté est d'origine matérielle.
-
-Dans une installation de l'industrie chimique, isoler un élément défectueux avant intervention en tenant compte des risques liés à l'implantation et à l'utilisation de cet élément.
-
-Transmettre les informations nécessaires et suffisantes au service maintenance chargé de remplacer un élément défectueux dans une installation de l'industrie chimique.
-
-Vérifier que l'installation de production chimique est opérationnelle après changement (ou modification) de l'élément défectueux.
-
-Satisfaire à toutes les règles relatives à l'hygiène, la sécurité et la protection de l'environnement, en vigueur dans l'industrie chimique.
-
-5. Prélever des échantillons de matière et en vérifier
-
-certaines caractéristiques dans le cadre d'une production chimique
-
-Prélever un échantillon significatif de matière, dans le cadre d'une opération de production chimique, selon des consignes précises afin de procéder (ou faire procéder) à une analyse.
-
-Vérifier que les caractéristiques physico-chimiques des matières premières et/ou des produits élaborés, dans le cadre d'une production chimique, ainsi que le milieu réactionnel sont conformes au cahier des charges et aux consignes.
-
-Interpréter les informations recueillies pour éventuellement intervenir (ou faire intervenir) sur les réglages de l'installation d'une production chimique.
-
-Transmettre les informations relatives aux analyses réalisées et aux éventuels incidents dans le cadre d'une production chimique.
-
-Satisfaire à toutes les règles relatives à l'hygiène, la sécurité et la protection de l'environnement, en vigueur dans l'industrie chimique.
-
-Secteurs d'activités ou types d'emploi accessibles
-
-par le détenteur du titre
-
-Le (la) conducteur(trice) d'appareils de l'industrie chimique intervient dans le secteur chimie au sens large, donc également dans l'agroalimentaire, la pétrochimie, la pharmacie, la chimie fine, la verrerie, le nucléaire,... c'est-à-dire dans de nombreuses industries de process.
-
-Codes ROME :
-
-45112 - Opérateur(trice) sur appareils de transformation physiques ou chimiques ;
-
-45111 - Pilote d'installation des industries chimiques et de production d'énergie.
+L'emploi est situé en atelier de production ou sur site. Il peut également se dérouler depuis une salle de contrôle d'où le CAIC commande les appareils à distance.
 
 Réglementation de l'activité :
 
 Néant.
+
+Code ROME :
+
+45112-Opérateur (trice) sur appareils de transformation physique ou chimique.
 
 Autorité responsable de la certification :
 
@@ -124,8 +90,6 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
+Articles L. 335 et suivants et R. 338-1 et suivants du code de l'éducation ;
 
-Décret n° 2002-1029 du 2 août 2002 ;
-
-Arrêté du 25 novembre 2002.
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.
