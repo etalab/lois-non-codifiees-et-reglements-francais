@@ -10,6 +10,6 @@ Délivrée pour une durée maximale de cinq ans, l'autorisation de détention pa
 
 L'autorisation de détention est renouvelée dans les mêmes conditions que l'autorisation initiale.
 
-Dans le cas où l'autorisation de détention est rapportée ou non renouvelée, la commune est tenue de céder, dans un délai de trois mois, à une personne régulièrement autorisée à acquérir et détenir des armes de cette catégorie, l'arme et les munitions dont la détention n'est plus autorisée. Le maire informe le préfet des dispositions prises pour se dessaisir de ces armes.
+Dans le cas où l'autorisation de détention est rapportée ou non renouvelée, la commune est tenue de céder, dans un délai de trois mois, à une personne régulièrement autorisée à acquérir et détenir des armes de cette catégorie, l'arme et les munitions dont la détention n'est plus autorisée. Le maire informe le préfet des dispositions prises pour se dessaisir de ces armes. La même procédure est applicable après mise en demeure du préfet, et sans préjudice de l'application des sanctions pénales prévues au chapitre 9 du titre III du livre III de la deuxième partie du code de la défense, lorsque l'arme a été acquise sans autorisation.
 
 A défaut de cession dans le délai prévu, la garde de ces armes et munitions est confiée aux services de la police nationale ou de la gendarmerie nationale territorialement compétents.
