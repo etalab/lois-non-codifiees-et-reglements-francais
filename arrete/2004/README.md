@@ -362,7 +362,6 @@
 - [Arrêté du 12 juillet 2004 (MJSK0470110A)](arrete-du-12-juillet-2004-mjsk0470110a)
 - [Arrêté du 12 mars 2004 (DEFD0400209A)](arrete-du-12-mars-2004-defd0400209a)
 - [Arrêté du 12 mars 2004 (SANH0420952A)](arrete-du-12-mars-2004-sanh0420952a)
-- [Arrêté du 12 mars 2004 (SANH0420953A)](arrete-du-12-mars-2004-sanh0420953a)
 - [Arrêté du 12 novembre 2004 (ECOT0420062A)](arrete-du-12-novembre-2004-ecot0420062a)
 - [Arrêté du 12 novembre 2004 (MJSK0470212A)](arrete-du-12-novembre-2004-mjsk0470212a)
 - [Arrêté du 12 novembre 2004 (RECR0400126A)](arrete-du-12-novembre-2004-recr0400126a)
