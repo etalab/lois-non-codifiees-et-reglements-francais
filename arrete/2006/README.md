@@ -22,6 +22,7 @@
 - [Arrêté du 5 janvier 2006 (JUSK0540170A)](arrete-du-5-janvier-2006-jusk0540170a)
 - [Arrêté du 6 décembre 1999 (MENT9902140A)](arrete-du-6-decembre-1999-ment9902140a)
 - [Arrêté du 6 juillet 2006 (EQUP0601457A)](arrete-du-6-juillet-2006-equp0601457a)
+- [Arrêté du 6 juillet 2006 (SANH0622809A)](arrete-du-6-juillet-2006-sanh0622809a)
 - [Arrêté du 6 juin 2006 (INTC0600544A)](arrete-du-6-juin-2006-intc0600544a)
 - [Arrêté du 6 novembre 2006 (AGRE0602362A)](arrete-du-6-novembre-2006-agre0602362a)
 - [Arrêté du 6 novembre 2006 (BUDR0607086A)](arrete-du-6-novembre-2006-budr0607086a)
