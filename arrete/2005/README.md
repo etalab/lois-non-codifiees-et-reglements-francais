@@ -726,7 +726,6 @@
 - [Arrêté du 29 juin 2005 (SOCN0510939A)](arrete-du-29-juin-2005-socn0510939a)
 - [Arrêté du 29 mars 2005 (DEFP0500410A)](arrete-du-29-mars-2005-defp0500410a)
 - [Arrêté du 29 mars 2005 (MAEF0510027A)](arrete-du-29-mars-2005-maef0510027a)
-- [Arrêté du 29 mars 2005 (SANH0521309A)](arrete-du-29-mars-2005-sanh0521309a)
 - [Arrêté du 29 novembre 2005 (AGRG0502646A)](arrete-du-29-novembre-2005-agrg0502646a)
 - [Arrêté du 29 novembre 2005 (INTE0500833A)](arrete-du-29-novembre-2005-inte0500833a)
 - [Arrêté du 29 novembre 2005 (MAEF0510085A)](arrete-du-29-novembre-2005-maef0510085a)

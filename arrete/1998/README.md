@@ -24,7 +24,6 @@
 - [Arrêté du 2 décembre 1998 (AGRS9802411A)](arrete-du-2-decembre-1998-agrs9802411a)
 - [Arrêté du 2 décembre 1998 (ECOT9851751A)](arrete-du-2-decembre-1998-ecot9851751a)
 - [Arrêté du 2 décembre 1998 (EQUP9800903A)](arrete-du-2-decembre-1998-equp9800903a)
-- [Arrêté du 2 décembre 1998 (MAEC9800106A)](arrete-du-2-decembre-1998-maec9800106a)
 - [Arrêté du 2 décembre 1998 (MEST9811273A)](arrete-du-2-decembre-1998-mest9811273a)
 - [Arrêté du 2 décembre 1998 (MEST9811274A)](arrete-du-2-decembre-1998-mest9811274a)
 - [Arrêté du 2 février 1998 (ATEN9870031A)](arrete-du-2-fevrier-1998-aten9870031a)
