@@ -1,6 +1,6 @@
 # Article 4
 
-Lorsque pour l'obtention de la certification professionnelle une formation comportant un stage dans une entreprise mentionnée à l'article 1er est dispensée, le dirigeant de l'entreprise adresse au préfet et, à Paris, au préfet de police, le nom du stagiaire, par lettre recommandée avec accusé de réception, deux mois avant le début du stage, en vue de la réalisation d'une enquête administrative.
+Lorsque pour l'obtention de la certification professionnelle ou du certificat de qualification professionnelle une formation comportant un stage dans une entreprise mentionnée à l'article 1er est dispensée, le dirigeant de l'entreprise adresse au préfet et, à Paris, au préfet de police, le nom du stagiaire, par lettre recommandée avec accusé de réception, deux mois avant le début du stage, en vue de la réalisation d'une enquête administrative.
 
 Celle-ci porte sur la compatibilité du comportement ou de la moralité du stagiaire avec l'accomplissement du stage pratique. Il est tenu compte :
 
