@@ -8,7 +8,7 @@ Une nouvelle bonification indiciaire dont le montant est pris en compte et soumi
 
 3° Adjoints des cadres hospitaliers exerçant leurs fonctions dans les établissements de moins de cent lits : 25 points majorés ;
 
-4° Contremaîtres encadrant, dans les établissements de plus de deux cents lits, une équipe d'au moins cinq agents ou deux contremaîtres et, dans les autres établissements, encadrant des agents d'au moins trois qualifications différentes : 13 points majorés ;
+4° Fonctionnaires appartenant au corps de la maîtrise ouvrière et exerçant les fonctions de contremaître encadrant, dans les établissements de plus de deux cents lits, une équipe d'au moins cinq agents ou deux contremaîtres et, dans les autres établissements, encadrant des agents d'au moins trois qualifications différentes : 15 points majorés ;
 
 5° Educateurs spécialisés, animateurs et moniteurs-éducateurs exerçant dans les maisons d'accueil spécialisées, les centres d'hébergement et de réadaptation sociale et les foyers de vie :
 
