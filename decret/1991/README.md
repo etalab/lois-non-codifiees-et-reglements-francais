@@ -653,7 +653,6 @@
 - [Décret n°91-819 du 26 août 1991 (MENN9101644D)](decret-n91-819-du-26-aout-1991-menn9101644d)
 - [Décret n°91-989 du 26 septembre 1991 (PTTS9100168D)](decret-n91-989-du-26-septembre-1991-ptts9100168d)
 - [Décret n°93-661 du 26 mars 1993 (SPSX9300200D)](decret-n93-661-du-26-mars-1993-spsx9300200d)
-- [Décret n°93-666 du 26 mars 1993 (SPSX9300205D)](decret-n93-666-du-26-mars-1993-spsx9300205d)
 - [Décret n°91-1006 du 27 septembre 1991 (MCCB9100326D)](decret-n91-1006-du-27-septembre-1991-mccb9100326d)
 - [Décret n°91-1194 du 27 novembre 1991 (MENG9102072D)](decret-n91-1194-du-27-novembre-1991-meng9102072d)
 - [Décret n°91-1195 du 27 novembre 1991 (MENF9102174D)](decret-n91-1195-du-27-novembre-1991-menf9102174d)
