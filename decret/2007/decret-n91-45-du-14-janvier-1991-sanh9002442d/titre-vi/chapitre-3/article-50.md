@@ -1,0 +1,3 @@
+# Article 50
+
+Par dérogation à l'article 19-I, pendant une durée de trois ans calculée à compter de la date d'entrée en vigueur du décret n° 2007-1185 du 3 août 2007 modifiant le décret n° 91-45 du 14 janvier 1991 portant statuts particuliers des personnels ouvriers, des conducteurs d'automobile, des conducteurs ambulanciers et des personnels d'entretien et de salubrité de la fonction publique hospitalière, peuvent être promus au grade de conducteur ambulancier de 1re catégorie, par voie d'inscription à un tableau annuel d'avancement établi, au choix, après avis de la commission administrative paritaire compétente, les agents titulaires du grade de conducteur ambulancier de 2e catégorie ayant atteint au moins le 4e échelon de leur grade.

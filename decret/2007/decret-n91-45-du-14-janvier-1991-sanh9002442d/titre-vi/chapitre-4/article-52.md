@@ -1,0 +1,3 @@
+# Article 52
+
+A titre dérogatoire et nonobstant les dispositions du décret n° 2007-1185 du 3 août 2007 modifiant le décret n° 91-45 du 14 janvier 1991 portant statuts particuliers des personnels ouvriers, des conducteurs ambulanciers et des personnels d'entretien et de salubrité de la fonction publique hospitalière, pendant une durée de trois ans calculée à compter de la date d'entrée en vigueur du même décret, les agents d'entretien qualifiés qui auraient rempli les conditions requises pour se présenter au concours interne sur épreuves d'agent technique d'entretien pourront se présenter au concours interne sur épreuves d'agent de maîtrise.
