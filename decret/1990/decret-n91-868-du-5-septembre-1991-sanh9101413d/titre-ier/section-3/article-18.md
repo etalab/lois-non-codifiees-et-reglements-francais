@@ -1,15 +1,9 @@
 # Article 18
 
-I. - Les dessinateurs chefs de groupe comptant au moins deux ans d'ancienneté dans le 8e échelon de leur grade peuvent être promus au grade de dessinateur principal dans les conditions prévues au 1° de l'article 69 de la loi du 9 janvier 1986 susvisée.
+I. - Peuvent être promus au grade de dessinateur chef de groupe, après inscription au tableau d'avancement, dans les conditions prévues au 1° de l'article 69 de la loi du 9 janvier 1986 précitée, les dessinateurs ayant atteint au moins le 5e échelon de leur grade et comptant au moins six ans de services effectifs dans ce grade.
 
-Les dessinateurs chefs de groupe promus au grade de dessinateur principal sont reclassés dans ce grade conformément au tableau ci-dessous :
+Le nombre de promotions dans le grade de dessinateur chef de groupe est calculé pour chaque année, par établissement, dans les conditions fixées par le décret n° 2007-1191 du 3 août 2007 relatif à l'avancement de grade dans certains corps de la fonction publique hospitalière.
 
-Tableau non reproduit, consulter le fac-similé
+II. - Peuvent être promus au grade de dessinateur principal, après inscription au tableau d'avancement, dans les conditions prévues au 1° de l'article 69 de la loi du 9 janvier 1986 précitée, les dessinateurs chefs de groupe ayant au moins deux ans d'ancienneté dans le 6e échelon de leur grade et comptant au moins cinq ans de services effectifs dans leur grade.
 
-Dans le grade de dessinateur principal, l'ancienneté moyenne pour accéder à l'échelon supérieur est de trois ans dans le 1er échelon et de quatre ans dans le 2e échelon.
-
-Le nombre de promotions dans le grade de dessinateur principal est calculé chaque année, dans chaque établissement, dans les conditions fixées à l'article 1er du décret n° 2002-782 du 3 mai 2002.
-
-II. - Peuvent être nommés au grade de dessinateur chef de groupe, dans les conditions prévues au 1° de l'article 69 du titre IV du statut général des fonctionnaires, les dessinateurs comptant deux ans d'ancienneté dans le 5e échelon de leur grade.
-
-Le nombre de promotions dans le grade de dessinateur chef de groupe est calculé chaque année, dans chaque établissement, dans les conditions fixées à l'article 1er du décret n° 2002-782 du 3 mai 2002.
+Le nombre de promotions dans le grade de dessinateur principal est calculé pour chaque année, par établissement, dans les conditions fixées par le décret n° 2007-1191 du 3 août 2007 relatif à l'avancement de grade dans certains corps de la fonction publique hospitalière.
