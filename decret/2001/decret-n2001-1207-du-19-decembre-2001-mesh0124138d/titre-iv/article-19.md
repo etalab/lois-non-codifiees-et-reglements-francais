@@ -1,63 +1,178 @@
 # Article 19
 
-I. - Les chefs de bureau sont reclassés dans le grade d'attaché du corps des attachés d'administration hospitalière selon le tableau de correspondance, les modalités et le calendrier précisés ci-après :
+I.-Les attachés principaux de 2e et de 1re classe sont reclassés dans le grade d'attaché principal à la date du 1er juillet 2007 conformément au tableau suivant :
 
-(a) SITUATION ANTÉRIEURE, Chef de bureau : (b) SITUATION NOUVELLE, Attaché d'administration hospitalière, ancienneté conservée dans la limite de la durée moyenne de l'échelon
+<table>
+<tbody>
+<tr>
+<td align="left" valign="middle">
+<p align="center">
+<strong>SITUATION ANTÉRIEURE </strong>
+</p>
+</td>
+<td align="left" colspan="2" valign="middle">
+<p align="center">
+<strong>SITUATION NOUVELLE </strong>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="center">Grades et échelons </p>
+</td>
+<td align="left" valign="middle">
+<p align="center">Grades et échelons </p>
+</td>
+<td align="left" valign="middle">
+<p align="center">Ancienneté conservée <br/>
+<br/>dans la limite de la durée d'échelon </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="center">
+<i>Attaché principal <br/>
+<br/>de 2e classe </i>
+</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">
+<i>Attaché principal </i>
+</p>
+</td>
+<td align="left" valign="middle">
+<pre/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="center">1er échelon 2e classe </p>
+</td>
+<td align="left" valign="middle">
+<p align="center">2e échelon </p>
+</td>
+<td align="left" valign="middle">
+<p align="left">Ancienneté acquise. </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="center">2e échelon 2e classe </p>
+</td>
+<td align="left" valign="middle">
+<p align="center">3e échelon </p>
+</td>
+<td align="left" valign="middle">
+<p align="left">Ancienneté acquise. </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="center">3e échelon 2e classe </p>
+</td>
+<td align="left" valign="middle">
+<p align="center">4e échelon </p>
+</td>
+<td align="left" valign="middle">
+<p align="left">2 / 3 de l'ancienneté acquise </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="center">4e échelon 2e classe </p>
+</td>
+<td align="left" valign="middle">
+<p align="center">5e échelon </p>
+</td>
+<td align="left" valign="middle">
+<p align="left">2 / 3 de l'ancienneté acquise </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="center">5e échelon 2e classe </p>
+</td>
+<td align="left" valign="middle">
+<p align="center">6e échelon </p>
+</td>
+<td align="left" valign="middle">
+<p align="left">2 / 3 de l'ancienneté acquise </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="center">6e échelon 2e classe </p>
+</td>
+<td align="left" valign="middle">
+<p align="center">7e échelon </p>
+</td>
+<td align="left" valign="middle">
+<p align="left">Ancienneté acquise. </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="center">
+<i>Attaché principal <br/>
+<br/>de 1re classe </i>
+</p>
+</td>
+<td align="left" valign="middle">
+<pre/>
+</td>
+<td align="left" valign="middle">
+<pre/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="center">1er échelon 1re classe </p>
+</td>
+<td align="left" valign="middle">
+<p align="center">8e échelon </p>
+</td>
+<td align="left" valign="middle">
+<p align="left">5 / 4 de l'ancienneté acquise. </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="center">2e échelon 1re classe </p>
+</td>
+<td align="left" valign="middle">
+<p align="center">9e échelon </p>
+</td>
+<td align="left" valign="middle">
+<p align="left">6 / 5 de l'ancienneté acquise. </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="center">3e échelon 1re classe </p>
+</td>
+<td align="left" valign="middle">
+<p align="center">10e échelon </p>
+</td>
+<td align="left" valign="middle">
+<p align="left">Sans ancienneté. </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="center">4e échelon 1re classe </p>
+</td>
+<td align="left" valign="middle">
+<p align="center">10e échelon </p>
+</td>
+<td align="left" valign="middle">
+<p align="left">Ancienneté acquise. </p>
+</td>
+</tr>
+</tbody>
+</table>
 
-(a) 8e échelon avec 5 ans et plus d'ancienneté : (b) 11e échelon Ancienneté acquise moins 5 ans.
+II.-Les attachés qui, à la date d'entrée en vigueur du décret n° 2007-1187 du 3 août 2007 modifiant le décret n° 2001-1207 du 19 décembre 2001 portant statut particulier du corps des attachés d'administration hospitalière, remplissaient les conditions requises pour bénéficier d'une promotion au grade supérieur ou auraient rempli ces conditions au cours de la période de deux ans suivant cette date d'entrée en vigueur, sont réputés remplir, pendant cette même période de deux ans, les conditions requises pour être promus attaché principal par la voie prévue à l'article 11.
 
-(a) 8e échelon avec moins de 5 ans d'ancienneté : (b) 10e échelon 1/2 de l'ancienneté acquise.
+III.-Les attachés stagiaires dont le stage est en cours à la date d'entrée en vigueur du décret n° 2007-1187 du 3 août 2007 modifiant le décret n° 2001-1207 du 19 décembre 2001 portant statut particulier du corps des attachés d'administration hospitalière sont classés à cette même date en application de l'article 9.
 
-(a) 7e échelon : (b) 9e échelon 5/6 de l'ancienneté acquise.
-
-(a) 6e échelon : (b) 8e échelon 5/6 de l'ancienneté acquise.
-
-(a) 5e échelon : (b) 7e échelon 5/4 de l'ancienneté acquise.
-
-(a) 4e échelon : (b) 6e échelon 5/4 de l'ancienneté acquise.
-
-(a) 3e échelon : (b) 5e échelon ancienneté acquise.
-
-(a) 2e échelon : (b) 3e échelon ancienneté acquise.
-
-(a) 1er échelon : (b) 2e échelon ancienneté acquise.
-
-Le reclassement se fait, à compter de la date de publication du présent décret :
-
-1° Pendant une période de deux ans, chaque année, à raison du tiers de l'effectif du corps des chefs de bureau de l'établissement :
-
-- pour les 2/3 par inscription sur liste d'aptitude après examen du dossier individuel ;
-
-- pour 1/3 par inscription sur liste d'aptitude après examen professionnel organisé par l'établissement d'affectation.
-
-Dans les établissements dont l'effectif total du corps des chefs de bureau est inférieur à 3, le reclassement s'opérera par la voie de l'inscription sur la liste d'aptitude après examen du dossier individuel ;
-
-2° La troisième année pour l'effectif restant par inscription sur liste d'aptitude après examen du dossier individuel.
-
-La nomination dans le corps des attachés d'administration hospitalière au titre du 1° et du 2° du présent article est prononcée avec effet à la date de publication du présent décret la première année et à la date anniversaire de publication pour les deux années suivantes.
-
-Un arrêté du ministre chargé de la santé fixe la composition du jury, le programme, la nature des épreuves et les modalités d'organisation de l'examen professionnel.
-
-II. - Les assimilations prévues pour fixer les nouveaux indices de traitement mentionnés à l'article 15 du décret du 9 septembre 1965 susvisé sont effectuées conformément au tableau suivant :
-
-(a) SITUATION ANTÉRIEURE Chef de bureau : (b) SITUATION NOUVELLE Attaché d'administration hospitalière
-
-(a) 8e échelon avec 5 ans et plus d'ancienneté : (b) 11e échelon
-
-(a) 8e échelon avec moins de 5 ans d'ancienneté : (b) 10e échelon
-
-(a) 7e échelon : (b) 9e échelon
-
-(a) 6e échelon : (b) 8e échelon
-
-(a) 5e échelon : (b) 7e échelon
-
-(a) 4e échelon : (b) 6e échelon
-
-(a) 3e échelon : (b) 5e échelon
-
-(a) 2e échelon : (b) 3e échelon
-
-(a) 1er échelon : (b) 2e échelon
-
-Les pensions des fonctionnaires retraités avant l'intervention des dispositions qui précèdent ainsi que celles de leurs ayants cause sont révisées dans les conditions fixées ci-dessus à la fin des opérations de reclassement des personnels actifs.
+Toutefois, les agents en cours de prolongation de stage en application des dispositions de l'article 10 à la date d'entrée en vigueur du décret n° 2007-1187 du 3 août 2007 sont classés à cette même date selon les dispositions en vigueur à la date correspondant au terme normal du stage.
