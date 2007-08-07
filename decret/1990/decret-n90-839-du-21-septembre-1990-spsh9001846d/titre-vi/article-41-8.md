@@ -1,0 +1,3 @@
+# Article 41-8
+
+Jusqu'à l'installation des commissions administratives paritaires propres aux corps régis par le décret n° 2007-1184 du 3 août 2007, qui interviendra dans le délai d'un an à compter de la date d'entrée en vigueur du présent décret ou dans les délais fixés par le décret n° 2003-655 du 18 juillet 2003 relatif aux commissions administratives paritaires locales et départementales de la fonction publique hospitalière, les commissions administratives paritaires composées des représentants des corps de fonctionnaires faisant l'objet de l'intégration demeurent compétentes à l'égard des corps d'intégration et siègent en formation commune.

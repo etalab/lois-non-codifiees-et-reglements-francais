@@ -1,6 +1,6 @@
 # Article 10
 
-Outre les connaissances et savoir-faire prévus à l'article 2, la certification professionnelle atteste notamment de savoir-faire relatifs :
+Outre les connaissances et savoir-faire prévus à l'article 2, la certification professionnelle et le certificat de qualification professionnelle attestent notamment de savoir-faire relatifs :
 
 - aux gestes élémentaires de premier secours ;
 
@@ -8,7 +8,7 @@ Outre les connaissances et savoir-faire prévus à l'article 2, la certification
 
 - au compte rendu, par oral et par écrit, aux services de police et de gendarmerie nationales.
 
-Elle atteste également de compétences portant notamment :
+Ils attestent également de compétences portant notamment :
 
 - pour les personnes participant à une activité de surveillance et de gardiennage : sur le filtrage et le contrôle des accès, sur les rondes de surveillance, sur les dispositions du code pénal relatives aux atteintes aux intérêts fondamentaux de la nation et à l'autorité de l'Etat, sur les conditions d'interpellation énoncées à l'article 73 du code de procédure pénale et, le cas échéant, sur l'utilisation des systèmes électroniques de sécurité ;
 

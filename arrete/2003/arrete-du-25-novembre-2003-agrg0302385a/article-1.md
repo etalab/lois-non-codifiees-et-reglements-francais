@@ -1,5 +1,3 @@
 # Article 1
 
-a) La liste des animaux vivants soumis au contrôle dans les postes d'inspection frontaliers est fixée en annexe I du présent arrêté.
-
-b) La liste des produits d'origine animale, des agents pathogènes pour les animaux et des produits susceptibles de les véhiculer sousmis au contrôle dans les postes d'inspection frontaliers est fixée en annexe II du présent arrêté.
+La liste des animaux vivants, des produits et sous-produits d'origine animale, des micro-organismes pathogènes pour les animaux et des produits susceptibles de les véhiculer, soumis au contrôle dans les postes d'inspection frontaliers, en vertu des directives 91/496/CEE et 97/78/CE, est fixée par la décision 2007/275/CE.

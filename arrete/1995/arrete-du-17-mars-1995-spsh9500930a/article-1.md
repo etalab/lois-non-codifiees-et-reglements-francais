@@ -1,6 +1,6 @@
 # Article 1
 
-Les concours sur épreuves pour l'accès au corps des adjoints administratifs hospitaliers sont ouverts :
+Les concours sur épreuves pour l'accès au grade d'adjoint administratif de 1re classe sont ouverts :
 
 a) Pour le compte de plusieurs établissements d'un même département, par décision du directeur de l'établissement du département comptant le plus grand nombre de lits dans ce département,
 
@@ -12,7 +12,7 @@ c) Pour le compte de plusieurs établissements situés dans des départements di
 
 En ce qui concerne l'Assistance publique - hôpitaux de Paris, ils sont ouverts par le directeur général.
 
-Dans tous les cas, la décision d'ouverture doit préciser la nature des concours et le nombre de postes mis au concours dans chacune des branches : administrative ou dactylographie.
+Dans tous les cas, la décision d'ouverture doit préciser la nature des concours et le nombre de postes mis au concours dans chacune des branches : administrative ou bureautique.
 
 Elle doit, en outre, indiquer les établissements où les postes sont à pourvoir et désigner le centre où se dérouleront les épreuves du concours.
 

@@ -14,7 +14,7 @@ b) Epreuves d'admission :
 
 2° Entretien avec le jury après une préparation de dix minutes à partir d'un texte relatif à l'actualité sanitaire et sociale, choisi de façon à permettre au jury d'apprécier les qualités de réflexion du candidat et, éventuellement, son expérience professionnelle (durée maximum : quinze minutes ; coefficient 2).
 
-B. - Branche Dactylographie
+B. - Branche Bureautique
 
 a) Epreuve écrite et anonyme d'admissibilité :
 

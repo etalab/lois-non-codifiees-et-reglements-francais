@@ -1,0 +1,5 @@
+# Article 1
+
+I. - A compter du 1er janvier 2008, le nombre maximum d'avancements de grade au sein des corps de la fonction publique hospitalière est, dans les établissements mentionnés à l'article 2 de la loi du 9 janvier 1986 susvisée et lorsque les statuts particuliers de ces corps le prévoient, déterminé pour chaque année par application d'un taux de promotion. Ce taux s'applique à l'effectif des fonctionnaires remplissant les conditions pour un avancement de grade au 31 décembre de l'année précédant celle au titre de laquelle sont prononcées les promotions. Un arrêté du ministre chargé de la santé fixe le taux de promotion et comprend une annexe dans laquelle figure la liste des corps relevant de ce dispositif.
+
+II. - Avant sa signature par le ministre chargé de la santé, le projet d'arrêté portant fixation du taux de promotion est transmis, pour avis conforme, au ministre chargé de la fonction publique et au ministre chargé du budget. Cet avis est réputé acquis en l'absence d'observation dans un délai de dix jours ouvrables à compter de la réception de la saisine.

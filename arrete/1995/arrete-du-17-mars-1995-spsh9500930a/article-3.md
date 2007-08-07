@@ -10,11 +10,9 @@ A l'appui de cette demande et, au plus tard, à la date de publication des résu
 
 A. - Concours externe
 
-1° Les diplômes et certificats dont ils sont titulaires ou une copie dûment certifiée conforme à ces documents.
+1° Le cas échéant, un état signalétique et des services militaires ou une copie dûment certifiée conforme à ce document ou à la première page du livret militaire.
 
-2° Le cas échéant, un état signalétique et des services militaires ou une copie dûment certifiée conforme à ce document ou à la première page du livret militaire.
-
-3° Un curriculum vitae établi par le candidat sur papier libre.
+2° Un curriculum vitae établi par le candidat sur papier libre.
 
 B. - Concours interne
 
