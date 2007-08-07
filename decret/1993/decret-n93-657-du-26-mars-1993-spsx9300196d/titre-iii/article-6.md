@@ -1,3 +1,3 @@
 # Article 6
 
-Pendant la durée du stage, les agents sont classés au 1er échelon du corps régi par le présent décret ou, le cas échéant, à un échelon déterminé dans les conditions prévues aux articles-7, 7-1 et 8 ci-après.
+Les agents nommés dans le corps des moniteurs-éducateurs sont classés selon les dispositions prévues par le décret n° 2007-837 du 11 mai 2007 fixant les dispositions statutaires communes applicables aux corps de fonctionnaires de la catégorie B de la fonction publique hospitalière sous réserve du bénéfice des dispositions prévues à l'article 7 du présent décret.

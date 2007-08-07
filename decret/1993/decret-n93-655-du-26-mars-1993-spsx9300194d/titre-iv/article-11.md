@@ -1,5 +1,3 @@
 # Article 11
 
-Le corps des éducateurs techniques spécialisés comporte un grade comprenant dix échelons. L'ancienneté moyenne pour accéder à l'échelon supérieur est de deux ans dans les quatre premiers échelons, de trois ans du 5e au 7e échelon et de quatre ans dans les 8e et 9e échelons.
-
-A compter du 1er août 1994, le corps des éducateurs techniques spécialisés comprend un 11e échelon. L'ancienneté moyenne pour accéder à cet échelon est de quatre ans dans le 10e échelon.
+La durée maximale et la durée minimale du temps passé dans chaque échelon sont respectivement égales à la durée moyenne majorée ou réduite d'un quart.

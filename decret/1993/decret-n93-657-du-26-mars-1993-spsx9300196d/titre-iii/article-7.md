@@ -1,9 +1,5 @@
 # Article 7
 
-Les agents nommés dans le corps régi par le présent décret et qui ont eu auparavant la qualité d'agent non titulaire sont classés à un échelon déterminé en prenant en compte, sur la base des durées moyennes fixées pour chaque avancement d'échelon, une fraction de l'ancienneté totale acquise à la date de leur nomination, dans les conditions suivantes :
+Les fonctionnaires régis par le présent décret qui, antérieurement à leur recrutement, ont été employés et rémunérés en qualité de fonctionnaire ou d'agent public dans un établissement de soins public ou dans un établissement social ou médico-social public, ou en qualité de salarié dans un établissement privé de soins ou dans un établissement social ou médico-social privé, dans des fonctions correspondant à celles dans lesquelles ils sont nommés bénéficient, lors de leur nomination dans un emploi, d'une bonification d'ancienneté égale à la totalité de la durée des services visés ci-dessus, sous réserve qu'ils justifient de la possession des titres, diplômes ou autorisations exigés pour l'exercice desdites fonctions antérieures. La demande de reprise d'ancienneté, accompagnée de toutes les pièces justificatives, devra être présentée dans un délai de six mois à compter de la nomination.
 
-a) Les services accomplis dans un emploi de niveau au moins équivalent à celui de la catégorie B sont retenus à raison des trois quarts de leur durée ;
-
-b) Les services accomplis dans un emploi de niveau inférieur sont retenus à raison de la moitié de leur durée.
-
-Les dispositions de l'alinéa précédent ne peuvent avoir pour conséquence de placer les intéressés dans une situation plus favorable que celle qui résulterait d'un classement à un échelon comportant un traitement égal ou, à défaut, immédiatement supérieur à celui perçu dans l'ancien emploi avec conservation de l'ancienneté moyenne fixée au titre IV du présent décret pour le passage à l'échelon supérieur.
+Cette bonification ne peut être attribuée qu'une fois au cours de la carrière des intéressés.
