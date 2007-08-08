@@ -8,6 +8,6 @@ Le jury du concours sur titres est composé comme suit :
 
 A défaut, il est fait appel à des fonctionnaires hospitaliers de catégorie A en fonctions dans un département limitrophe ;
 
-3° Un ingénieur hospitalier en fonctions dans la région concernée ou dans les régions voisines, choisi par le directeur de l'établissement organisateur du concours.
+3° Un ingénieur hospitalier ou, le cas échéant, une personne au moins de même niveau de qualification en fonctions dans la région concernée ou dans les régions voisines, choisi par le directeur de l'établissement organisateur du concours.
 
-4° Un technicien supérieur hospitalier principal au moins en fonctions dans le département ou les départements voisins, choisi par le directeur de l'établissement organisateur du concours.
+4° Un technicien supérieur hospitalier principal au moins ou, le cas échéant, une personne au moins de même niveau de qualification en fonctions en fonctions dans le département ou les départements voisins, choisi par le directeur de l'établissement organisateur du concours.

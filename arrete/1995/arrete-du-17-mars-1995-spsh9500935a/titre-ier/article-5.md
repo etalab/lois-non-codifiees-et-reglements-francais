@@ -8,9 +8,9 @@ Le jury du concours interne(s) est composé comme suit :
 
 A défaut, il est fait appel à un fonctionnaire hospitalier de catégorie A en fonctions dans un département limitrophe ;
 
-3° Un ingénieur hospitalier en fonctions dans la région concernée ou dans les régions voisines, choisi par le directeur de l'établissement organisateur du concours, extérieur à l'établissement ou aux établissements où les postes sont à pourvoir et relevant de l'une des branches au titre de laquelle est ouvert le concours ;
+3° Un ingénieur hospitalier ou, le cas échéant, une personne au moins de même niveau de qualification en fonctions dans la région concernée ou dans les régions voisines, choisi par le directeur de l'établissement organisateur du concours, extérieur à l'établissement ou aux établissements où les postes sont à pourvoir et relevant de l'une des branches au titre de laquelle est ouvert le concours ;
 
-4° Un technicien supérieur hospitalier principal au moins en fonctions dans le département concerné ou dans les départements voisins ou, à défaut, dans un autre département, choisi par le directeur de l'établissement organisateur du concours, extérieur à l'établissement ou aux établissements où les postes sont à pourvoir et relevant de l'une des branches au titre de laquelle est ouvert le concours.
+4° Un technicien supérieur hospitalier principal au moins ou, le cas échéant, une personne au moins de même niveau de qualification en fonctions dans le département concerné ou dans les départements voisins ou, à défaut, dans un autre département, choisi par le directeur de l'établissement organisateur du concours, extérieur à l'établissement ou aux établissements où les postes sont à pourvoir et relevant de l'une des branches au titre de laquelle est ouvert le concours.
 
 5° Un professeur en fonctions dans une école d'ingénieurs ou dans un établissement d'enseignement délivrant l'un des titres requis pour le recrutement par voie de concours sur titres des techniciens supérieurs, choisi par le directeur de l'établissement organisateur du concours ;
 
