@@ -16,7 +16,13 @@ Peuvent organiser la partie pratique du brevet de sécurité routière et assure
 
 Dans les deux cas doit être également fournie, pour chaque véhicule utilisé lors de la formation au brevet de sécurité routière, la justification de l'attestation couvrant sans limite les dommages pouvant résulter d'accidents causés aux tiers dans les conditions prévues par l'article L. 211-1 du code des assurances. Si la formation est assurée sur un véhicule n'appartenant pas à l'établissement, le titulaire de l'agrément devra vérifier, avant que ne débute la formation, que l'assureur du véhicule couvre bien la période d'apprentissage.
 
-Lorsque les conditions énumérées ci-dessus sont remplies, le préfet délivre un agrément valable pour la formation pratique du brevet de sécurité routière dont la durée de validité est liée à la durée de validité de l'agrément principal.
+Lorsque les conditions énumérées ci-dessus sont remplies, le préfet délivre un agrément valable pour la formation pratique du brevet de sécurité routière :
+
+- par arrêté modifiant l'arrêté de délivrance de l'agrément principal pour les responsables des établissements et associations mentionnés au 1° du présent article ; la durée de validité de l'agrément est liée à la durée de validité de l'agrément principal ;
+
+- par arrêté délivré pour une durée de cinq ans pour les personnes mentionnées au 2° du présent article.
+
+Au moins deux mois avant la fin de la validité de l'agrément, son titulaire doit adresser au préfet du département du lieu de la formation une demande de renouvellement de l'agrément accompagnée des pièces énumérées au présent article.
 
 Les délégués et inspecteurs du permis de conduire et de la sécurité routière sont chargés de contrôler le respect du programme et de l'organisation de la formation.
 

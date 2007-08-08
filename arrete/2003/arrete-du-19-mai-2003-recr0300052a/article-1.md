@@ -46,13 +46,13 @@ Section 21. - Bases moléculaires et structurales des fonctions du vivant ;
 
 Section 22. - Organisation, expression et évolution des génomes ;
 
-Section 23. - Biologie cellulaire : organisation et fonctions de la cellule ; pathogènes et relations hôte/pathogène ;
+Section 23 (1). - Biologie cellulaire : organisation et fonctions de la cellule ; processus infectieux et relations hôte/pathogène ;
 
 Section 24. - Interactions cellulaires ;
 
 Section 25. - Physiologie moléculaire et intégrative ;
 
-Section 26. - Développement, évolution, reproduction, vieillissement ;
+Section 26 (1). - Développement, évolution, reproduction, cellules souches ;
 
 Section 27. - Comportement, cognition, cerveau ;
 
@@ -62,9 +62,7 @@ Section 29. - Biodiversité, évolution et adaptations biologiques :
 
 des macromolécules aux communautés ;
 
-Section 30. - Thérapeutique, médicaments et bio-ingénierie :
-
-concepts et moyens ;
+Section 30 (1). - Thérapeutique, pharmacologie et bio-ingénierie ;
 
 Section 31. - Hommes et milieux : évolution, interactions ;
 

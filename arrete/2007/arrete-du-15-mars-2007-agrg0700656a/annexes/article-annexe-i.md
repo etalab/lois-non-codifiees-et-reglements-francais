@@ -80,4 +80,4 @@ Le prélèvement de 58 semaines peut être remplacé par celui à réaliser au c
 
 2.4. Les prélèvements à effectuer au couvoir, conformément aux dispositions de la présente annexe, doivent être réalisés toutes les seize semaines par le vétérinaire sanitaire.
 
-Les prélèvements à effectuer dans l'exploitation avant 26 semaines ou au cours des huit semaines précédant la fin du cycle de production sont réalisés par le vétérinaire sanitaire. La direction départementale des services vétérinaires peut réaliser à ces mêmes périodes des prélèvements identiques qui se substituent alors à ceux effectués par le vétérinaire sanitaire.
+Les prélèvements à effectuer dans l'exploitation avant vingt-six semaines et au cours des huit semaines précédant la fin du cycle de production sont réalisés par le vétérinaire sanitaire lui-même. Les services vétérinaires départementaux peuvent réaliser à ces mêmes périodes des prélèvements identiques qui se substituent alors à ceux effectués par le vétérinaire sanitaire.

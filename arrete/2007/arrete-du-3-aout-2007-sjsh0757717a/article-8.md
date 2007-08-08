@@ -1,0 +1,3 @@
+# Article 8
+
+La phase d'admission consiste en un entretien ayant pour point de départ un exposé du candidat sur son expérience professionnelle. Cette épreuve vise ensuite, à partir de la description d'une situation de travail exposée par les membres du jury, à apprécier les aptitudes des candidats, notamment dans les domaines de l'encadrement, des techniques de base de gestion et des grands principes d'organisation de l'institution dans laquelle il exerce ainsi que sa motivation à exercer les missions qui peuvent être confiées à un agent chef (durée : 30 minutes, dont 10 minutes au plus d'exposé ; coefficient 4).
