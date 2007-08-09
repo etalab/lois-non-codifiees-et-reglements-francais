@@ -452,6 +452,8 @@ Fonderies et ateliers du Rhône, Lacanche, 21230 Arnay-le-Duc : de 1940 à 1980 
 
 Résines et vernis artificiels (RVA)/Progil/Rhône Progil/Rhône poulenc/Rhodia HP CIL, usine de Clamecy, 58501 Clamecy Cedex : de 1928 à 1985 ;
 
+Roclaine Industries SA puis Saint-Gobain Industries SA puis Saint-Gobain Isover ,Isover Saint-Gobain, 19, rue Paul-Sabatier, ZI Nord, BP 15, 71102 Chalon-sur-Saône : de 1967 à 1984 ;
+
 Saim/teroson France/Henkel/Caourep/CFPI, 66, rue Saint-Aignan, 58200 Cosne-sur-Loire puis 82, avenue du 85e-de-Ligne, 58200 Cosne-sur-Loire puis ZI, route Villechaud/rue Lafayette, 58200 Cosne-sur-Loire : de 1951 à 1992 ;
 
 SA SNPLF/SA Borden France/ Lambiotte SA/Enseigne Mydrin Lambiotte/Bostik SA/Usines Lambiotte/TRL, 58700 Prémery, de 1972 à 1994 ;
@@ -1083,6 +1085,8 @@ Janique et Cie, Sté FY Joints Janiques, 16, rue du Crépet, puis 37, rue Bancel
 JMF/JMF Curty/Société Baud/Joint métalloplastique français, 01300 Belley : de 1916 à 1967 ;
 
 JST/Vatech, 84, avenue Paul-Santy, 69008 Lyon : de 1949 à 1988 ;
+
+Loire Fonte Industrie (LFI, ex-Fonderie Jurine), 97, rue de la République, 42500 Le Chambon-Feugerolles : de 1920 à 1995 ;
 
 Pavailler Equipement, Pavailler BVP, 555, rue Benoît-Frachon, 26800 Portes-lès-Valence, de 1950 à 1996 ;
 
