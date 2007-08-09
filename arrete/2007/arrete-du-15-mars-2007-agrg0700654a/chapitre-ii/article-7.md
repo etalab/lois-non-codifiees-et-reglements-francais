@@ -8,4 +8,4 @@ Les prélèvements sont effectués par ou sous la responsabilité du vétérinai
 
 Les modalités de l'établissement de la délégation et de son encadrement par le vétérinaire sanitaire, prévues à l'alinéa précédent, ainsi que celles du contrôle des conditions de cette délégation par le directeur départemental des services vétérinaires, sont détaillées par instruction du ministre chargé de l'agriculture.
 
-Les analyses bactériologiques officielles effectuées sur les prélèvements réalisés par le vétérinaire sanitaire ou leurs délégataires dans le cadre de ce dépistage sont réalisées dans des laboratoires agréés répondant aux conditions précisées à l'annexe II du présent arrêté.
+Les analyses bactériologiques officielles effectuées sur les prélèvements réalisés par les vétérinaires sanitaires ou leurs délégataires dans le cadre de ce dépistage sont réalisées dans des laboratoires agréés répondant aux conditions précisées à l'annexe II du présent arrêté.

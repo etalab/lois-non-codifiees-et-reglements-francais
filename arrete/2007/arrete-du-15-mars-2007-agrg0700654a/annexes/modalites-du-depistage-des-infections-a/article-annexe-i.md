@@ -1,4 +1,4 @@
-# Article ANNEXE I
+# Article Annexe I
 
 1. Troupeaux de volailles de reproduction
 
@@ -82,7 +82,7 @@ Les prélèvements sont constitués pour chaque troupeau :
 
 1.2.4. Les prélèvements à effectuer au couvoir conformément aux dispositions de la présente annexe doivent être réalisés, toutes les seize semaines, par le vétérinaire sanitaire.
 
-Les prélèvements à effectuer dans l'exploitation avant 24 semaines ou au cours des huit semaines précédant la fin du cycle de production sont réalisés par le vétérinaire sanitaire lui-même. La direction départementale des services vétérinaires peut réaliser à ces mêmes périodes des prélèvements identiques qui se substituent alors à ceux effectués par le vétérinaire sanitaire.
+Les prélèvements à effectuer dans l'exploitation avant vingt-quatre semaines et au cours des huit semaines précédant la fin du cycle de production sont réalisés par le vétérinaire sanitaire lui-même. Les services vétérinaires départementaux peuvent réaliser à ces mêmes périodes des prélèvements identiques qui se substituent alors à ceux effectués par le vétérinaire sanitaire.
 
 2. Troupeaux de volailles de rente
 
@@ -92,7 +92,7 @@ Les prélèvements à effectuer dans l'exploitation avant 24 semaines ou au cour
 
 Cinq autres garnitures de fonds de boîtes sont également prélevées pour être conservées pendant 8 semaines au laboratoire.
 
-2.1.2. Quand les oiseaux ont l'âge de quatre semaines, puis moins de quatre semaines avant la date d'entrée en ponte ou de transfert, le résultat de l'analyse des prélèvements devant être connu avant le départ des animaux, les prélèvements sont constitués pour chaque troupeau :
+2.1.2.  Quand les oiseaux ont l'âge de quatre semaines, puis deux semaines avant la date d'entrée en ponte ou de transfert, le résultat de l'analyse des prélèvements devant être connu avant le départ des animaux, les prélèvements sont constitués, pour chaque troupeau.
 
 Lorsque les troupeaux sont élevés au sol :
 
