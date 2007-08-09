@@ -4,30 +4,32 @@ Les produits et les charges de l'institut sont retracés dans un compte spécifi
 
 Les produits comprennent notamment :
 
-- les droits de scolarité, de bibliothèque et d'examen des élèves ;
+Les droits de scolarité, de bibliothèque et d'examen des élèves ;
 
-- les subventions de l'Etat, des collectivités publiques, des personnes privées, des établissements ou des groupements professionnels, des organismes internationaux ;
+Les subventions de l'Etat, des collectivités publiques, des personnes privées, des établissements ou des groupements professionnels, des organismes internationaux ;
 
-- les dons et legs ;
+Les dons et legs ;
 
-- les remboursements des services rendus par l'institut ;
+Les remboursements des services rendus par l'institut ;
 
-- les contrats de recherche ;
+Les contrats de recherche ;
 
-- la participation des employeurs au financement des premières formations technologiques et professionnelles ou de la formation permanente ;
+La participation des employeurs au financement des premières formations technologiques et professionnelles ;
 
-- les produits divers.
+La participation des employeurs au financement de la formation continue et de la professionnalisation ;
+
+Les produits divers.
 
 Les charges comprennent notamment :
 
-- la rémunération des personnels affectés à l'institut et des enseignants de l'institut ;
+La rémunération des personnels affectés à l'institut et des enseignants de l'institut ;
 
-- la rémunération des corrections des travaux, des jurys d'examen des élèves et des documents pédagogiques utilisés par l'institut ;
+La rémunération des corrections des travaux, des jurys d'examen des élèves et des documents pédagogiques utilisés par l'institut ;
 
-- l'acquisition des matériels ou fournitures nécessaires aux activités de l'institut ;
+L'acquisition des matériels ou fournitures nécessaires aux activités de l'institut ;
 
-- les frais divers de fonctionnement ;
+Les frais divers de fonctionnement ;
 
-- les frais de publication des études et travaux effectués par l'institut ;
+Les frais de publication des études et travaux effectués par l'institut ;
 
-- la participation aux charges générales du Conservatoire national des arts et métiers.
+La participation aux charges générales du Conservatoire national des arts et métiers.
