@@ -1,10 +1,10 @@
 # Article 2
 
-L'attaché qui demande à bénéficier des dispositions de l'article 18 du décret susvisé doit fournir à l'appui de sa demande, et pour toute période dont il demande la prise en compte, un descriptif détaillé de l'emploi tenu, portant notamment sur le domaine d'activité, le positionnement de l'emploi au sein de l'organisme employeur, le niveau de qualification nécessaire et les principales fonctions attachées à cet emploi. Il doit en outre produire :
+L'attaché qui demande à bénéficier des dispositions de l'article 9 du décret du 23 décembre 2006 susvisé doit fournir à l'appui de sa demande, et pour toute période dont il demande la prise en compte, un descriptif détaillé de l'emploi tenu, portant notamment sur le domaine d'activité, le positionnement de l'emploi au sein de l'organisme employeur, le niveau de qualification nécessaire et les principales fonctions attachées à cet emploi. Il doit en outre produire :
 
-- une copie du contrat de travail ;
+-une copie du contrat de travail ;
 
-- pour les périodes d'activité relevant du droit français, un certificat de l'employeur délivré dans les conditions prévues à l'article L. 122-16 du code du travail.
+-pour les périodes d'activité relevant du droit français, un certificat de l'employeur délivré dans les conditions prévues à l'article L. 122-16 du code du travail.
 
 A défaut des documents mentionnés aux deux précédents alinéas, il peut produire tout document établi par un organisme habilité attestant de la réalité de l'exercice effectif d'une activité salariée dans la profession pendant la période considérée.
 
