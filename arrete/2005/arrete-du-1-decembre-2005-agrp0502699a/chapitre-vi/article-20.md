@@ -18,15 +18,15 @@ Les demandes d'aide financière ou de solde déposées après le 31 décembre pe
 
 - un relevé d'identité bancaire original ;
 
-- l'engagement écrit du président de l'organisation de producteurs de ne bénéficier, pour son organisation de producteurs, ni directement, ni indirectement, d'un double financement communautaire ou national pour les mesures et/ou actions ayant droit à un financement communautaire au titre du règlement (CE) n° 1433/2003. Chaque adhérent bénéficiaire d'une prise en charge par le fonds dans son exploitation signe un engagement de même nature dans lequel il s'engage en plus à restituer à l'organisation de producteurs, s'il la quitte, l'investissement ou la valeur résiduelle de l'investissement pris en charge par le fonds opérationnel. Cet engagement reste au siège de l'organisation de producteurs. Un modèle de convention entre le producteur et son organisation de producteurs est annexé au présent arrêté. La convention est présentée avec l'ensemble des pièces justificatives ;
+- l'engagement écrit du président de l'organisation de producteurs de ne bénéficier, pour son organisation de producteurs, ni directement, ni indirectement, d'un double financement communautaire ou national pour les mesures et/ou actions ayant droit à un financement communautaire au titre du règlement (CE) n° 1433/2003. Chaque adhérent bénéficiaire d'une prise en charge par le fonds dans son exploitation signe un engagement de même nature dans lequel il s'engage en plus à restituer à l'organisation de producteurs, s'il la quitte, l'investissement ou la valeur résiduelle de l'investissement pris en charge par le fonds opérationnel. Cet engagement reste au siège de l'organisation de producteurs. Un modèle de convention entre le producteur et son organisation de producteurs est annexé au présent arrêté ;
 
-- le formulaire présentant d'une part la partie "dépenses" de l'état extra-comptable et d'autre part la partie "ressources" du document extra-comptable, dont le modèle est joint en annexe VIII et VIII bis ; dans l'annexe VIII, l'état récapitulatif peut être complété au niveau des paiements effectués par les dates d'acquittement des factures et/ou les dates de débit des factures accompagnées des numéros de relevés de compte bancaire ;
+- le formulaire présentant d'une part la partie "dépenses" de l'état extra-comptable et, d'autre part, la partie "ressources" du document extra-comptable, dont les modèles sont joints en annexe VIII et VIII bis ;
 
 - le rapport annuel ou le rapport final dont le modèle est joint en annexe IX ;
 
 - la liste des adhérents de l'organisation de producteurs présents au 1er janvier de l'année du fonds faisant apparaître les départs et les arrivées intervenus au cours de l'année écoulée ;
 
-- la liste des adhérents de l'OP ayant passé une convention et un ou plusieurs exemplaires de conventions ;
+- la liste des adhérents de l'OP ayant passé une convention et un ou plusieurs exemplaires par type de convention ;
 
 - les tableaux 3, 4 et 5 de l'annexe VI dument complétés sur le fichier Excel mis à disposition par la direction départementale de l'agriculture et de la forêt (DDAF) (art. 25 du présent arrêté) ;
 

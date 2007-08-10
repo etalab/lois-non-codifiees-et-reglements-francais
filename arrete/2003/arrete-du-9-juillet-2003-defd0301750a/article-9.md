@@ -7,3 +7,11 @@ Elle prépare le budget annuel et suit son exécution. Elle établit le budget e
 Elle coordonne, en liaison avec la direction des affaires financières, les opérations de gestion des crédits dont la direction centrale est gestionnaire.
 
 Elle met en oeuvre le contrôle de gestion et développe les indicateurs permettant de rendre compte de la réalisation des objectifs assignés au service.
+
+La sous-direction "budget et finances" comprend :
+
+- le bureau "programmation et préparation du budget" ;
+
+- le bureau "gestion financière et suivi des projets" ;
+
+- le bureau "comptabilités et analyse financière".

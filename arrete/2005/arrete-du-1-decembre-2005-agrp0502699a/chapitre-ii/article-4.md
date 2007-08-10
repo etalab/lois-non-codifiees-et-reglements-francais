@@ -36,7 +36,9 @@ e) Pour le calcul de la valeur de la production commercialisée, sont pris en co
 
 - lorsqu'un producteur rejoint une organisation de producteurs avant le 1er janvier de l'année de mise en oeuvre du fonds opérationnel, la valeur de la production commercialisée de référence de l'organisation de producteurs d'accueil est établie par ajout de la valeur de la production de l'adhérent arrivant, attestée par un commissaire aux comptes, un centre de gestion agréé ou un expert-comptable.
 
-Pour le calcul de la VPC, le producteur adhérent a la possibilité de ne pas apporter pendant 3 ans maximum de production à l'OP ; il reste cependant membre de l'OP et, en tant que tel, comptabilisé pour le calcul de la VPC.
+Pour le calcul de la VPC, le producteur adhérent a la possibilité de ne pas apporter pendant trois ans de production à l'OP lorsqu'il ne cultive pendant ces trois années aucun des produits pour lesquels l'organisation de producteurs est reconnue ; il reste cependant membre de l'OP et, en tant que tel, comptabilisé pour le calcul de la VPC.
+
+f) La valeur de la production commercialisée au cours de l'année N prend en compte les compléments de prix payés l'année N pour des produits commercialisés l'année N - 1.
 
 3. La valeur de la production commercialisée de référence est établie par l'organisation de producteurs sur la base de données comptables issues de la comptabilité générale et/ou analytique.
 

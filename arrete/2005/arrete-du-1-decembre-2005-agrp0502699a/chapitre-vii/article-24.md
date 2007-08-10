@@ -2,7 +2,7 @@
 
 Rapport des organisations de producteurs.
 
-La mise en oeuvre du programme opérationnel et les opérations de retrait éligibles à un financement communautaire au titre d'un fonds opérationnel font l'objet d'un rapport annuel, selon le modèle joint en annexe IX, qui :
+La mise en oeuvre du programme opérationnel et les opérations de retrait éligibles à un financement communautaire au titre d'un fonds opérationnel font l'objet d'un rapport annuel qui :
 
 a) Accompagne les demandes d'aide financière ou, selon le cas, la demande de solde ;
 

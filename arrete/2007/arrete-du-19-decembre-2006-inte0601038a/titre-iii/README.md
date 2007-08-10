@@ -1,3 +1,4 @@
 # TITRE III : FORMATION D'ADAPTATION À L'EMPLOI DE LIEUTENANT DE SAPEURS-POMPIERS PROFESSIONNELS.
 
 - [Article 6](article-6.md)
+- [Article 6 bis](article-6-bis.md)

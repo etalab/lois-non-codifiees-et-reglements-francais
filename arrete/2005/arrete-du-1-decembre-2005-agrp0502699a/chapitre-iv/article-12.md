@@ -2,13 +2,15 @@
 
 Actions éligibles aux programmes opérationnels.
 
-1. Sont éligibles les coûts et dépenses figurant à l'annexe II du présent arrêté, sous réserve, pour les investissements éligibles au titre du plan de développement rural national (PDRN) ou des documents uniques de programmation (DOCUP), du respect des seuils fixés par le PDRN. Ainsi, sont éligibles au financement des fonds opérationnels :
+1. Sont éligibles les coûts et dépenses figurant à l'annexe II du présent arrêté, sous réserve, pour les investissements éligibles au titre du plan de développement rural (PDR) 2007-2013 qu'il n'y ait aucun double financement :
 
-- les investissements d'un montant de dépenses éligibles inférieur à 230 000 euros ou à 20 % du fonds opérationnel approuvé, pour les actions collectives d'amélioration des conditions de commercialisation ;
+- pour les investissements collectifs de l'organisation de producteurs avec la mesure "123 investissements" (et plus particulièrement le dispositif A en ce qui concerne le PDR Hexagonal) ;
 
-- les investissements d'un montant inférieur à 76 225 euros par exploitation pour les investissements sur les exploitations particulières.
+- pour les investissements sur les exploitations particulières avec la mesure "121 modernisations" (et plus particulièrement les dispositifs B et C en ce qui concerne le PDR Hexagonal).
 
-Ces montants sont appréciés par tranche fonctionnelle des investissements en cause : une tranche fonctionnelle est une opération ou une tranche d'opération constituant un ensemble cohérent pouvant être mise en service sans adjonction.
+Le choix de l'articulation avec le PDR se fait au niveau de l'organisation de producteurs et non au niveau de chaque producteur.
+
+Si un acompte permettant de réserver un investissement est versé en année N - 1 à un fournisseur, mais que l'investissement est bien réalisé en année N et que la facture finale (récapitulant l'acompte + le solde) date de l'année N, le débit relatif à l'acompte (N - 1) est accepté pour le fonds opérationnel de l'année N.
 
 Sauf lorsqu'ils sont couverts par l'annexe II, les coûts et dépenses figurant en annexe III du présent arrêté ne sont pas éligibles.
 
@@ -40,19 +42,19 @@ Le dispositif de contrôle interne de l'OP pourra faire l'objet de contrôles pa
 
 L'ensemble des sommes forfaitaires prises en compte ne doit pas dépasser 20 % du fonds opérationnel approuvé.
 
-Ce montant est porté à 70 % pour les organisations de producteurs mettant en oeuvre l'un des forfaits suivants :
+Ce montant est porté à 50 % pour les organisations de producteurs mettant en oeuvre l'un des forfaits suivants :
 
-- traçabilité des produits (mesure 2.4 visée à l'annexe I du présent arrêté) ;
+- traçabilité des produits ;
 
-- production intégrée (mesure 3.4 visée à l'annexe I du présent arrêté) ;
+- production intégrée ;
 
-- amélioration du potentiel variétal (mesure 1.1 visée à l'annexe I du présent arrêté) ;
+- amélioration du potentiel variétal ;
 
-- systèmes de conduite et de taille (mesure 1.13 visée à l'annexe I du présent arrêté) ;
+- obtention et/ou maintien de la certification ;
 
-- obtention et/ou maintien de la certification (mesure 2.2 visée à l'annexe I du présent arrêté).
+- système de conduite et de taille.
 
-Dans ce cas-là, sont incluses dans le calcul du montant des forfaits les sommes calculées dans le cadre des coûts spécifiques (points 6 et 7 ci-dessous) :
+Seuls des montants forfaitaires se rapportant à une ou plusieurs des cinq actions prioritaires listées ci-dessus peuvent être imputés au-delà du plafond de 20 % (2).
 
 6. Dans le cadre des coûts spécifiques, une base forfaitaire peut être retenue pour déterminer le montant des surcoûts. Cette base forfaitaire est établie selon les modalités suivantes :
 
@@ -68,4 +70,4 @@ Concernant les plants, semences et mycéliums, les surcoûts liés à l'utilisat
 
 7. Les coûts spécifiques de gestion environnementale des emballages de commercialisation, hors palettes, peuvent être pris en compte sur la base d'un taux forfaitaire correspondant à 17 % maximum du coût des emballages, sur présentation par l'OP des factures acquittées d'achat ou de location.
 
-(1) Le texte de l'encadrement national peut être consulté à l'Office national interprofessionnel des fruits, des légumes, des vins et de l'horticulture (VINIFLHOR), 164, rue de Javel, 75015 Paris au bureau des fruits et légumes, de l'horticulture et des productions végétales spéciales au ministère de l'agriculture et de la pêche, 3, rue Barbet-de-Jouy, 75007 Paris, auprès des comités économiques agricoles et des directions départementales de l'agriculture et de la forêt.
+La prise en compte du coût spécifique de 17 % pour les dépenses éligibles liées à la gestion environnementale des emballages de commercialisation est exclusive de toute autre prise en charge par le programme opérationnel d'autres frais réels concernant la gestion environnementale des emballages de commercialisation et vice versa.

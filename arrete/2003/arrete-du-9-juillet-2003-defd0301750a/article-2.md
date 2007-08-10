@@ -14,7 +14,7 @@ Le directeur central est secondé par un directeur adjoint, officier général d
 
 Relève directement de l'autorité du directeur adjoint :
 
-- le bureau études et prospective.
+- le bureau études et pilotage.
 
 Il dispose d'inspecteurs techniques, dont les attributions sont fixées par arrêté du ministre de la défense.
 

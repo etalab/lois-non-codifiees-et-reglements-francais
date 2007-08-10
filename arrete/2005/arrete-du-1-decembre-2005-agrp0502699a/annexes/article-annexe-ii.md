@@ -2,7 +2,7 @@
 
 LISTE DES ACTIONS, DES COÛTS ET DES DÉPENSES ÉLIGIBLES
 
-1. Coûts liés aux plants dans le cas des cultures pérennes (plantes vivaces, arbres, arbustes), y compris les coûts de plantation dans le cadre d'un forfait approuvé en application de l'article 12 du présent arrêté.
+1. Coûts liés aux plants certifiés dans le cas des cultures pérennes (plantes vivaces, arbres, arbustes), y compris les coûts de plantation dans le cadre d'un forfait approuvé en application de l'article 12 du présent arrêté, en cohérence avec les orientations contenues dans la circulaire des aides nationales à la rénovation du verger.
 
 2. Coûts spécifiques (surcoûts) des semences certifiées, mycéliums certifiés et plants certifiés, dans le cadre d'une amélioration de la qualité.
 
@@ -38,6 +38,12 @@ Sont éligibles :
 
 - aux mesures d'amélioration de la qualité. L'agréage à la production et à l'entrée en station doit aller au-delà de la norme de commercialisation.
 
+Si l'OP choisit de ne pas appliquer le taux spécifique de 60 % et de présenter les dépenses réelles :
+
+- si un salarié de l'OP est à temps plein sur la mesure agréage, seuls 60 % de son salaire est éligible (la présentation de fiche horaire n'est pas exigée) ;
+
+- si le salarié n'est pas à temps plein sur la mesure, l'OP pourra présenter au maximum 60 % des dépenses liées à son salaire (en présentant comme justificatifs les fiches d'enregistrement horaires).
+
 4. Frais généraux liés au fonds ou au programme opérationnel (y compris les frais de gestion et de personnel, les rapports et les études d'évaluation ainsi que les frais de tenue des comptes bancaires ou financiers liés au fonds opérationnel) par l'inscription d'une somme forfaitaire représentant 2 % du montant total des mesures et retraits du fonds opérationnel approuvé lors de la dernière décision d'éligibilité et plafonnée à 180 000 euros. Dans le cas des associations d'organisations de producteurs visées à l'article 2 du présent arrêté, cette somme forfaitaire est multipliée par le nombre d'organisations de producteurs de l'association, jusqu'à concurrence de 1 250 000 euros.
 
 5. Frais de personnel (y compris les coûts liés aux salaires ou aux traitements supportés par l'organisation de producteurs incluant les frais de déplacement professionnels) résultant de mesures visant à atteindre ou à maintenir un haut niveau de qualité ou de protection de l'environnement et à améliorer le niveau de commercialisation.
@@ -52,7 +58,7 @@ L'organisation de producteurs peut retenir un montant forfaitaire inférieur au 
 
 Dans tous les cas, les obligations prévues par le forfait agréé doivent être entièrement remplies et les organisations de producteurs apportent la preuve de la mise en oeuvre de l'action forfaitisée en fournissant les justificatifs listés dans chaque forfait agréé.
 
-Le temps de travail du chef d'exploitation non salarié est pris en compte sur une base forfaitaire de 11,43 euros/h et doit être enregistré conformément à l'article 12, paragraphe 4.
+Le temps de travail du chef d'exploitation non salarié est pris en compte sur une base forfaitaire de 16,54 euros/h (1)
 
 6. Véhicules frigorifiques ou atmosphère contrôlée.
 
@@ -68,7 +74,7 @@ Seules peuvent être prises en compte les réunions ou formations concernant la 
 
 Lorsque les frais pris en charge couvrent les indemnités journalières et les frais de transport des participants, ceux-ci sont évalués sur la base applicable aux agents publics.
 
-9. Promotion générique et/ou promotion de signes officiels de qualité, promotion de marques collectives.
+9. Promotion générique et/ou promotion de signes officiels de qualité.
 
 Les mentions géographiques sont autorisées :
 
@@ -116,11 +122,13 @@ Les actions financées par un crédit-bail sont éligibles dans les conditions s
 
 - en cas de crédit-bail ne contenant pas de clause de rachat et dont la durée est inférieure à la période correspondant à la durée de vie utile du bien, les loyers sont éligibles proportionnellement à la période de l'opération éligible.
 
-15. Les frais financiers conformément aux conditions fixées par la règle n° 3 du règlement (CE) n° 1685/2000 de la Commission. Sont notamment éligibles :
+15. Les frais financiers conformément aux conditions fixées par la règle n° 3 du règlement (CE) n° 1685/2000 de la Commission. Sont ainsi éligibles :
 
 - les coûts des garanties fournies lors de demandes d'avances, calculés en fonction de la date de libération de la caution et au plus tard le 31 janvier de l'année suivant la mise en oeuvre du fonds opérationnel ;
 
 - les frais financiers nets relatifs aux prêts relais contractés par l'organisation de producteurs dans l'attente de la réception de la subvention dans le cadre de mesures financées par le fonds opérationnel. Les frais financiers facturés après le 31 janvier de l'année suivant la réalisation de la mesure peuvent être pris en charge par le fonds opérationnel de l'année suivante.
+
+Par contre, les frais financiers des emprunts finançant les investissements du fonds opérationnel sont inéligibles.
 
 16. Location plutôt qu'achat lorsqu'elle est justifiée économiquement. La location d'équipement éligible est autorisée lorsque celui-ci n'est pas disponible à la vente ou lorsque cet équipement n'est pas utilisé pendant une durée suffisante pour justifier son achat.
 

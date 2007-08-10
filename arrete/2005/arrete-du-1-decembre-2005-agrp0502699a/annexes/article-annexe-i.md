@@ -102,6 +102,8 @@ La correspondance des mesures avec les fiches de l'encadrement national est donn
 
 3.24. Autres (mesures à étudier au cas par cas : intérêt environnemental à détailler pour évaluation par le centre technique compétent, puis avis DGPEI).
 
+(La correspondance des mesures avec les fiches de l'encadrement environnemental est donnée entre parenthèses ...), la prise en compte du coût spécifique de 17 % pour les dépenses éligibles liées à la gestion environnementale des emballages de commercialisation ne nécessitant pas de mise en oeuvre de fiche particulière.
+
 b) Contrôles internes du respect des dispositions phytosanitaires et des teneurs maximales autorisées de résidus, moyens techniques et humains de ce contrôle (volet obligatoire) :
 
 3.21. Contrôles internes du respect des dispositions phytosanitaires et des teneurs maximales autorisées de résidus, moyens techniques et humains de ce contrôle (analyses de résidus...).

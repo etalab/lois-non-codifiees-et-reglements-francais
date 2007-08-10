@@ -8,7 +8,7 @@ Financement du fonds opérationnel.
 
 et/ou
 
-- tout ou partie des ressources propres des organisations de producteurs,
+- tout ou partie des ressources propres des organisations de producteurs issues des ventes des produits de leurs adhérents pour lesquels elles sont reconnues
 
 et
 

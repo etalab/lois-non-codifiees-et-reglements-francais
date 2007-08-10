@@ -10,7 +10,7 @@ II. - Des organismes extérieurs dont les attributions, l'organisation et le fon
 
 - les directions locales implantées sur le territoire métropolitain ;
 
-- la direction des approvisionnements et des établissements centraux, à laquelle sont subordonnés la pharmacie centrale, l'établissement central des matériels et les établissements de ravitaillement sanitaire ;
+- la direction des approvisionnements en produits de santé, à laquelle sont subordonnés la pharmacie centrale, l'établissement central des matériels et les établissements de ravitaillement sanitaire ;
 
 - les hôpitaux implantés sur le territoire métropolitain ;
 
