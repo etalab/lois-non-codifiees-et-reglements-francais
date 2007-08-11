@@ -1,3 +1,3 @@
 # Article 9
 
-Les dispositions du présent arrêté sont applicables dans les territoires d'outre-mer et la collectivité territoriale de Mayotte.
+L'arrêté du 16 juillet 1985 relatif aux modalités d'inscription aux registres du personnel navigant professionnel de l'aéronautique civile est abrogé à la date d'entrée en vigueur du présent arrêté.

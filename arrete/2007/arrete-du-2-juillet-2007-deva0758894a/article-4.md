@@ -1,0 +1,7 @@
+# Article 4
+
+A l'issue de la formation, et lorsqu'il s'est assuré que l'élève a atteint un niveau satisfaisant, l'instructeur habilité, à l'exception des instructeurs mentionnés au paragraphe 1.325 de l'annexe à l'arrêté du 29 mars 1999 susvisé, délivre une attestation de formation portant la mention "Apte à la pratique de la voltige élémentaire" ou "Apte à la pratique de la voltige avancée", ou les deux. Il y porte ses références, la date et la signe. Cette attestation indique que le candidat a suivi de manière complète et satisfaisante la formation théorique et pratique requise par le présent arrêté ; elle lui permet d'exercer les privilèges correspondants pendant six mois.
+
+Durant cette période, la mention correspondante est apposée sur la licence du pilote, par un service des licences de la direction générale de l'aviation civile sur présentation de l'attestation de formation.
+
+Lorsqu'elle est délivrée comme autorisation additionnelle à la licence de base de pilote d'avion, elle est portée dans les mêmes délais et selon les modalités prévues par le paragraphe 4.6.2, alinéa 2, de l'annexe à l'arrêté du 31 juillet 1981 susvisé et les articles 2 et 3.6, alinéa 2, de l'instruction du 7 octobre 1985 relative à la délivrance des autorisations additionnelles au brevet et à la licence de base de pilote d'avion.
