@@ -1,12 +1,10 @@
 # Article Annexe
 
-A N N E X E
-
 INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
 Intitulé :
 
-Titre professionnel de peintre en décors.
+Titre professionnel : peintre en décors.
 
 Niveau : V.
 
@@ -14,25 +12,23 @@ Code NSF : 233 v.
 
 Résumé du référentiel d'emploi
 
-Le peintre en décors effectue des travaux de peinture intérieure et extérieure, seul ou en équipe, selon l'importance des ouvrages. Il met en dimensions, trace et réalise ces peintures à partir de dessins d'architecte, du décorateur (d'intérieur, de cinéma, de théâtre...), du client ou d'une reproduction d'un modèle existant selon le commanditaire. Il utilise toutes les techniques de la peinture en vue d'effets décoratifs, d'imitation des différents matériaux, de décors peints en trompe l'oeil. Son action contribue à l'aménagement esthétique du cadre de vie et de l'environnement culturel et urbain.
+Le peintre en décors effectue des travaux de peinture décorative, en intérieur et extérieur, seul ou en équipe, selon l'importance des ouvrages. Il trace et réalise ces peintures à partir de dessins d'architecte, du décorateur (d'intérieur, de cinéma, de théâtre...), du client ou à partir d'une reproduction d'un modèle existant selon le commanditaire. Il utilise toutes les techniques de la peinture en vue d'effets décoratifs, d'imitation de différents matériaux, de décors peints en trompe-l'oeil. Son action contribue à l'aménagement esthétique du cadre de vie et de l'environnement culturel et urbain.
 
-Il exerce sur divers types de chantiers et rencontre une large gamme de situations où il met en oeuvre ses compétences et savoir-faire : bâtiment traditionnel, conservation du patrimoine, réalisation de décors de spectacles, réalisation de décors intérieurs ou extérieurs pour des commerces divers, pour des particuliers, etc.
+Il exerce sur divers types de chantiers et rencontre une large gamme de situations où il met en oeuvre ses compétences et savoir-faire : peinture en décors haut de gamme dans un bâtiment traditionnel, travaux de conservation de peintures murales inscrites au patrimoine, réalisation de décors de spectacles, de décors intérieurs ou extérieurs pour des locaux commerciaux ou des résidences hôtelières, finition décor pour des particuliers, etc.
 
-L'activité peut s'exercer sur site ou en atelier, sur des supports neufs et à rénover, en site occupé ou non.
+L'activité peut s'exercer sur site ou en atelier, sur des supports neufs et à rénover, en site occupé ou non. Les conditions de travail sont fréquemment caractérisées par la flexibilité des horaires (décors de spectacles, lieux publics...), l'organisation complexe des tâches, la nécessité de déplacements et la mobilité géographique, la condition physique s'ajoutant à la disponibilité.
 
-Les conditions de travail sont fréquemment caractérisées par la flexibilité des horaires (décors de spectacles, lieux publics...), l'organisation complexe des tâches, la nécessité de déplacements et la mobilité géographique, la condition physique s'ajoutant à la disponibilité.
+Le peintre en décors exécute les travaux courants de sa spécialité, à partir de directives générales et sous contrôle ponctuel du responsable hiérarchique. Il dispose d'une certaine initiative dans le choix des moyens lui permettant d'accomplir ces travaux.
 
-Le peintre en décors exécute les travaux courants de sa spécialité à partir de directives générales et sous contrôle ponctuel du hiérarchique. Il dispose d'une certaine initiative dans le choix des moyens lui permettant d'accomplir ces travaux.
+Capacités attestées et descriptif des composantes
 
-Capacités attestées et descriptif
-
-des composantes de la certification
+de la certification
 
 1. Réaliser des effets décoratifs et des ornementations
 
 pour des travaux de peinture et décors
 
-Réparer et appliquer peintures et glacis décoratifs en vue d'effets de matières et de jeux de fond.
+Préparer et appliquer peintures et glacis décoratifs en vue d'effets de matières et de jeux de fond.
 
 Réaliser des patines pour imiter par la peinture le vieillissement naturel de la matière.
 
@@ -42,23 +38,27 @@ Confectionner et utiliser un pochoir et un poncif comme procédé de reproductio
 
 Tracer et peindre des imitations d'appareillages de pierres et de briques.
 
-2. Imiter le bois et le marbre pour des travaux
+Réaliser par application de peinture et glacis des décors d'effets nuagés évoquant les ciels.
 
-de peinture et décors
+Peindre des filets secs à la brosse et à la règle pour produire des encadrements, des tableaux, des frises.
+
+2. Imiter le bois, le marbre et peindre un décor architectural
+
+en trompe-l'oeil pour des travaux de peinture et décors
+
+Tracer et réaliser des décors peints imitant les bois de frisage : bois de rose, bois de violette.
 
 Réaliser des décors peints imitant les marbres veinés, bréchés, nuagés.
 
 Réaliser des décors peints imitant les essences communes de bois : chêne, noyer, acajou.
-
-3. Peindre un décor architectural en trompe l'oeil
-
-pour des travaux de peinture et décors
 
 Imiter des moulures dans une composition décorative peinte, en effectuant le tracé et en donnant du relief par le jeu des ombres et des lumières.
 
 Simuler le relief sur un ornement dans une composition décorative peinte.
 
 Peindre un drapé simple en effectuant le tracé et en donnant du relief par le jeu des ombres et des lumières.
+
+Effectuer des retouches et des raccords sur des décors peints neufs ou anciens.
 
 Secteurs d'activités ou types d'emploi
 
@@ -68,13 +68,13 @@ Petites et moyennes entreprises de peinture du bâtiment exerçant dans le domai
 
 Entreprises spécialisées en décors dans le domaine des arts et du spectacle.
 
-Services des collectivités territoriales travaillant sur les domaines de la culture, des arts, du spectacle et de la  décoration.
+Services des collectivités territoriales travaillant sur les domaines de la culture, des arts, du spectacle et de la décoration.
 
-Code(s) ROME :
+Codes ROME :
 
-42233 - Peintre en bâtiment ;
+42233 - peintre en bâtiment.
 
-21224 - Professionnel/professionnelle du décor et des accessoires.
+21224 - professionnel/professionnelle du décor et des accessoires.
 
 Réglementation de l'activité :
 
@@ -86,8 +86,6 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
+Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
 
-décret n° 2002-1029 du 2 août 2002 ;
-
-Arrêté du 25 novembre 2002.
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.
