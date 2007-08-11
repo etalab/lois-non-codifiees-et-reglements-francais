@@ -1,3 +1,3 @@
-# Section 1 : Sapeur-pompier de 2e classe.
+# Section 1 : Sapeur.
 
 - [Article 4](article-4.md)
