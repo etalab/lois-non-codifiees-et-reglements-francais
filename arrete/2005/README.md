@@ -593,7 +593,6 @@
 - [Arrêté du 24 juin 2005 (EQUP0501056A)](arrete-du-24-juin-2005-equp0501056a)
 - [Arrêté du 24 juin 2005 (MENS0501257A)](arrete-du-24-juin-2005-mens0501257a)
 - [Arrêté du 24 mars 2005 (DEVN0540114A)](arrete-du-24-mars-2005-devn0540114a)
-- [Arrêté du 24 mars 2005 (ECOS0550011A)](arrete-du-24-mars-2005-ecos0550011a)
 - [Arrêté du 24 novembre 2005 (SANH0522785A)](arrete-du-24-novembre-2005-sanh0522785a)
 - [Arrêté du 24 octobre 2005 (AGRG0502384A)](arrete-du-24-octobre-2005-agrg0502384a)
 - [Arrêté du 24 octobre 2005 (DEFP0501464A)](arrete-du-24-octobre-2005-defp0501464a)
