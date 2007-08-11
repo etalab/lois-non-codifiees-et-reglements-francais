@@ -12,7 +12,9 @@ I. - Pour la gestion du personnel civil et militaire (d'active, de réserve et a
 
 - les supérieurs hiérarchiques des intéressés ;
 
-- les membres des corps d'inspection.
+- les membres des corps d'inspection ;
+
+- le bureau condition du personnel de la marine.
 
 II. - Pour le suivi du temps de travail :
 
