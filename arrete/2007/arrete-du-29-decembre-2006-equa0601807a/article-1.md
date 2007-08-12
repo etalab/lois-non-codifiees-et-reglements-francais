@@ -72,4 +72,6 @@ Chef du bureau de la communication et des affaires générales de la direction d
 
 Chef du bureau des personnels aéronautiques de la direction des affaires stratégiques et techniques (DAST/SEA 2) ;
 
-Chef du département gestion des personnes à l'Ecole nationale de l'aviation civile.
+Chef du département gestion des personnes à l'Ecole nationale de l'aviation civile ;
+
+Adjoint au chef du pôle immobilier et finances de la sous-direction de la modernisation, de l'informatique et de la formation du secrétariat général (SG/SDMIF).
