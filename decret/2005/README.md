@@ -16,6 +16,7 @@
 - [Décret n°99-555 du 2 juillet 1999 (AGRA9900465D)](decret-n99-555-du-2-juillet-1999-agra9900465d)
 - [Décret du 3 février 1993 (PTTR9200690D)](decret-du-3-fevrier-1993-pttr9200690d)
 - [Décret n°2005-1261 du 3 octobre 2005 (INDX0508743D)](decret-n2005-1261-du-3-octobre-2005-indx0508743d)
+- [Décret n°2005-98 du 3 février 2005 (INTB0500030D)](decret-n2005-98-du-3-fevrier-2005-intb0500030d)
 - [Décret n°2005-215 du 4 mars 2005 (SOCN0510296D)](decret-n2005-215-du-4-mars-2005-socn0510296d)
 - [Décret n°2005-1122 du 6 septembre 2005 (INTD0500243D)](decret-n2005-1122-du-6-septembre-2005-intd0500243d)
 - [Décret n°2005-1123 du 6 septembre 2005 (INTD0500244D)](decret-n2005-1123-du-6-septembre-2005-intd0500244d)
