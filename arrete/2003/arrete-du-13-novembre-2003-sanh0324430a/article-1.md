@@ -108,6 +108,8 @@ Hôpital local, à Vallon-Pont-d'Arc (Ardèche).
 
 Hôpital local, à Vernoux-en-Vivarais (Ardèche).
 
+Centre hospitalier, à Tournon-sur-Rhône (Ardèche).
+
 Maisons de retraite, à Bazeilles, à Donchéry et à Mouzon (Ardennes).
 
 Maisons de retraite, à Château-Porcien et à Saint-Germainmont (Ardennes).
@@ -116,11 +118,9 @@ Hôpital local, à Nouzonville (Ardennes).
 
 Hôpital local, à Ax-les-Thermes (Ariège).
 
-Centre hospitalier, à Lavelanet (Ariège).
-
 Maisons de retraite, à Saint-Lizier et à Erce (Ariège).
 
-Maisons de retraite, à Saverdun et à Mazères (Ariège).
+Maisons de retraite, à Saverdun (Ariège).
 
 Hôpital local, à Tarascon-sur-Ariège (Ariège).
 
@@ -138,6 +138,8 @@ Maison de retraite, à Belpech (Aude).
 
 Centre de long et moyen séjour, à Port-la-Nouvelle (Aude).
 
+Maisons de retraite, aux Riceys et à Chaource (Aube).
+
 Hôpital local, à Saint-Geniez-d'Olt (Aveyron).
 
 Hôpital local, à Salles-la-Source (Aveyron).
@@ -152,7 +154,7 @@ Maison de retraite, à Eyragues (Bouches-du-Rhône).
 
 Maisons de retraite, à Lambesc et à Saint-Cannat (Bouches-du-Rhône).
 
-Maison de retraite, à Noves (Bouches-du-Rhône).
+Maison de retraite, à Maillane (Bouches-du-Rhône).
 
 Maisons de retraite, à Roquevaire et à Auriol (Bouches-du-Rhône).
 
@@ -200,7 +202,7 @@ Hôpital local, à Sancerre (Cher).
 
 Maison de retraite, à Sancoins (Cher).
 
-Maisons de retraite, à Allassac et à Donzenac (Corrèze).
+Maison de retraite, à Allassac (Corrèze).
 
 Hôpital local, à Bort-les-Orgues (Corrèze).
 
@@ -212,7 +214,7 @@ Maison de retraite, à Treignac (Corrèze).
 
 Hôpital local, à Bonifacio (Corse-du-Sud).
 
-Centre hospitalier intercommunal, à Corté-Tattone (Haute-Corse).
+Centre hospitalier, à Corte-Tattone (Haute-Corse).
 
 Hôpital local, à Arnay-le-Duc (Côte-d'Or).
 
@@ -222,15 +224,13 @@ Maison de retraite, à Nolay (Côte-d'Or).
 
 Maisons de retraite, à Pouilly-en-Auxois et à Bligny-sur-Ouche (Côte-d'Or).
 
+Hôpital local, à Saulieu (Côte-d'Or).
+
 Hôpital local, à Seurre (Côte-d'Or).
 
 Hôpital local, à Vitteaux (Côte-d'Or).
 
 Hôpital local, à Quintin (Côtes-d'Armor).
-
-Centre de long séjour, à Ajain (Creuse).
-
-Hôpital local, à Aubusson (Creuse).
 
 Centre hospitalier, à Evaux-les-Bains (Creuse).
 
@@ -276,7 +276,7 @@ Maison de retraite, à Terrasson (Dordogne).
 
 Maison de retraite, à Thiviers (Dordogne).
 
-Hôpital local, à Baume-les-Dames (Doubs).
+**Art. 1er (suite).**- Hôpital local, à Baume-les-Dames (Doubs).
 
 Centre de long séjour, à Besançon (Doubs).
 
@@ -320,6 +320,8 @@ Hôpital local, à Rugles (Eure).
 
 Hôpital local, à Verneuil-sur-Avre (Eure).
 
+Maison de retraite à Pont-Authou (Eure).
+
 Hôpital local, à Illers-Combray (Eure-et-Loir).
 
 Maisons de retraite, à La Ferté-Villeneuil et à Cloyes-sur-le-Loir (Eure-et-Loir).
@@ -328,13 +330,13 @@ Hôpital local, à La Loupe (Eure-et-Loir).
 
 Maison de retraite, à Châteaulin (Finistère).
 
+Maison de retraite, à Huelgoat (Finistère).
+
 Maison de retraite, à Ploudalmezeau (Finistère).
 
 Hôpital local, à Saint-Renan (Finistère).
 
 Hôpital local, à Vigan, et maison de retraite, à Sumène (Gard).
-
-Hôpital local, à Pont-Saint-Esprit (Gard).
 
 Centre hospitalier, à Ponteils (Gard).
 
@@ -342,9 +344,9 @@ Maison de retraite, à Saint-Ambroix (Gard).
 
 Maison de retraite, à Saint-Hippolyte-du-Fort (Gard).
 
-Hôpital local, à Uzès (Gard).
-
 Maison de retraite, à Villeneuve-lès-Avignon (Gard).
+
+Hôpitaux de Luchon, à Bagnères-de-Luchon (Haute-Garonne).
 
 Maison de retraite, à Boulogne-sur-Gesse (Haute-Garonne).
 
@@ -355,6 +357,8 @@ Maison de retraite, à Grenade-sur-Garonne (Haute-Garonne).
 Hôpital local, à Revel (Haute-Garonne).
 
 Maisons de retraite, à Villemur-sur-Tarn et à Fronton (Haute-Garonne).
+
+Maison de retraite, à Cazères-sur-Garonne (Haute-Garonne).
 
 Centre hospitalier, à Condom (Gers).
 
@@ -374,6 +378,10 @@ Hôpital local, à Nogaro (Gers).
 
 Hôpital local, à Vic-Fezensac (Gers).
 
+Hôpital local, à Monségur (Gironde).
+
+Centre hospitalier, à Bazas (Gironde).
+
 Maison de retraite, à Vertheuil-Médoc (Gironde).
 
 Hôpital local, à Bédarieux (Hérault).
@@ -388,11 +396,9 @@ Hôpital local, à Lunel (Hérault).
 
 Hôpital local, à Pézenas (Hérault).
 
-Hôpital local, à Saint-Pons-de-Thomières (Hérault).
+Hôpital local, à Saint-Pons-de-Thomières(Hérault).
 
 Maisons de retraite, à Saint-Chinian et à Cazouls-lès-Béziers (Hérault).
-
-Hôpital local, à Antrain (Ille-et-Vilaine).
 
 Hôpital local, à Janze (Ille-et-Vilaine).
 
@@ -401,8 +407,6 @@ Hôpital local, au Grand-Fougeray (Ille-et-Vilaine).
 Hôpital local, à Montfort-sur-Meu (Ille-et-Vilaine).
 
 Maison de retraite, à Pipriac (Ille-et-Vilaine).
-
-Hôpital local, à Saint-Brice-en-Coglès (Ille-et-Vilaine).
 
 Hôpital local, à Buzançais (Indre).
 
@@ -416,11 +420,15 @@ Maison de retraite, à Abilly-sur-Claise (Indre-et-Loire).
 
 Maison de retraite, à Bléré (Indre-et-Loire).
 
+Etablissement d'hébergement pour personnes âgées dépendantes, à Bléré (Indre-et-Loire) ;
+
 Maison de retraite, à Ligueil (Indre-et-Loire).
 
 Maisons de retraite, à Preuilly-sur-Claise et à La Celle-Guenand (Indre-et-Loire).
 
 Maison de retraite intercommunale, à Semblançay (Indre-et-Loire).
+
+Etablissements d'hébergement pour personnes âgées dépendantes à Preuilly-sur-Claise et à La Celle-Guénan (Indre-et-Loire) ;
 
 Hôpital local, à Beaurepaire (Isère).
 
@@ -524,7 +532,11 @@ Maisons de retraite, à Fay-aux-Loges et à Jargeau (Loiret).
 
 Maisons de retraite, à Puiseaux et à Auxy (Loiret).
 
+Maisons de retraites à Olivet et Saint-Denis-en Val (Loiret).
+
 Hôpital local, à Sully-sur-Loire (Loiret).
+
+Maisons de retraite à Châtillon-sur-Loire et à Coulons (Loiret).
 
 Hôpital local, à Casteljaloux (Lot-et-Garonne).
 
@@ -533,6 +545,8 @@ Maison de retraite, à Castelmoron-sur-Lot (Lot-et-Garonne).
 Hôpital local, à Fumel et maison de retraite à Tournon-d'Agenais (Lot-et-Garonne).
 
 Hôpital local, à Penne-d'Agenais (Lot-et-Garonne).
+
+Maisons de retraite, à Montcuq et à Castelnau-Montratier (Lot).
 
 Hôpital local, à Florac (Lozère).
 
@@ -562,8 +576,6 @@ Hôpital local, à Martigne-Briand (Maine-et-Loire).
 
 Maison de retraite, à Maulévrier (Maine-et-Loire).
 
-Maisons de retraite, à Montjean-sur-Loire et à Champtocé-sur-Loire (Maine-et-Loire).
-
 Hôpital local, à Saint-Georges-sur-Loire (Maine-et-Loire).
 
 Maisons de retraite, à Savennières et à La Possonnière (Maine-et-Loire).
@@ -574,7 +586,7 @@ Maison de retraite, à Ducey (Manche).
 
 Maisons de retraite, à Teilleul et à Barenton (Manche).
 
-Maison de retraite, à Iviontebourg (Manche).
+Maison de retraite, à Montebourg (Manche).
 
 Hôpital local, à Mortain (Manche).
 
@@ -591,6 +603,8 @@ Maisons de retraite, à Sartilly et à La Haye-Pesnel (Manche).
 Maison de retraite, à Torigni-sur-Vire (Manche).
 
 Hôpital local, à Villedieu-les-Poêles (Manche).
+
+Centre hospitalier, à Sézanne (Marne).
 
 Maison de retraite, à Ay-Champagne (Marne).
 
@@ -654,11 +668,13 @@ Maison de retraite, à Stenay (Meuse).
 
 Hôpital local, à Carentoir (Morbihan).
 
-Maison de retraite, à Guern (Morbihan).
+Maison de retraite, à Guer (Morbihan).
 
-Hôpital local, à La Roche-Bernard, et maison de retraite, à Ferel (Morbihan).
+Hôpital local, à La Roche-Bernard (Morbihan).
 
 Hôpital local, au Faouët (Morbihan).
+
+Hôpital local, à Guéméné-sur-Scorff (Morbihan).
 
 Hôpital local, à Palais (Morbihan).
 
@@ -678,9 +694,13 @@ Maison de retraite Saint-Paulin, à Saint-Epvre (Moselle).
 
 Maison de retraite Sainte-Marie, à Vic-sur-Seille (Moselle).
 
+Centre de réadaptation spécialisée Saint-Luc, à Abreschviller (Moselle).
+
 Hôpital local, à Lormes (Nièvre).
 
 Maison de retraite, à Saint-Pierre-le-Moûtier (Nièvre).
+
+Centre hospitalier, à La Bassée (Nord).
 
 Maison de retraite, à Bergues (Nord).
 
@@ -716,7 +736,7 @@ Hôpital local, à Crépy-en-Valois (Oise).
 
 Hôpital, à Pont-Sainte-Maxence (Oise).
 
-Hôpital local, à Bellème (Orne).
+Maison de retraite, à Liancourt (Oise).
 
 Maison de retraite, à Bretoncelles (Orne).
 
@@ -736,9 +756,15 @@ Maisons de retraite, à Arlanc et à Viverols (Puy-de-Dôme).
 
 Maison de retraite, à Cunlhat (Puy-de-Dôme).
 
+Centre hospitalier Etienne Clémentel, à Enval (Puy-de-Dôme).
+
 Hôpital local - Centre médico-thermal, au Mont-Dore (Puy-de-Dôme).
 
 Maison de retraite, à Maringues (Puy-de-Dôme).
+
+Hôpital local, à Brassac-les-Mines (Puy-de-Dôme).
+
+Maison de retraite, à Tauve et à La Tour-d'Auvergne (Puy-de-Dôme).
 
 Hôpital local, à Mauléon (Pyrénées-Atlantiques).
 
@@ -759,6 +785,8 @@ Maisons de retraite, à Millas et à Vinca (Pyrénées-Orientales).
 Hôpital local, à Prades (Pyrénées-Orientales).
 
 Maisons de retraite, à Prats-de-Mollo et à Arles-sur-Tech (PyrénéesOrientales).
+
+Maison de retraite publique, à Toulouges (Pyrénées-Orientales).
 
 Centre de long et moyen séjour, à Barr (Bas-Rhin).
 
@@ -781,6 +809,8 @@ Hôpital local, à Rosheim (Bas-Rhin).
 Hôpital local, à Sarre-Union (Bas-Rhin).
 
 Hôpital local, à Wasselonne (Bas-Rhin).
+
+Hôpital local, à Marckolsheim (Bas-Rhin).
 
 Maisons de retraite, à Bergheim et à Saint-Hippolyte (Haut-Rhin).
 
@@ -806,6 +836,8 @@ Hôpital local, à Sierentz (Haut-Rhin).
 
 Hôpitaux locaux, à Soultz et à Issenheim (Haut-Rhin).
 
+Centre hospitalier, à Cernay (Haut-Rhin).
+
 Hôpital local, à Amplepuis, et maison de retraite, à Cublize (Rhône).
 
 Hôpital local, à Beaujeu (Rhône).
@@ -814,7 +846,7 @@ Hôpital local, à Bourg-de-Thizy (Rhône).
 
 Hôpital local, à Condrieu (Rhône).
 
-Hôpital local, à Grandris, et maison de retraite, à Létra (Rhône).
+Hôpital intercommunal de Grandris et Létra (Rhône).
 
 Maison de retraite, à Mornant (Rhône).
 
@@ -854,6 +886,8 @@ Hôpital local, à Tramayes (Saône-et-Loire).
 
 Maisons de retraite, à Ballon et à Sainte-Jamme-sur-Sarthe (Sarthe).
 
+Etablissement public intercommunal, à Brûlon (Sarthe).
+
 Maison de retraite, à La Chartre-sur-le-Loir (Sarthe).
 
 Hôpital local, à Lude (Sarthe).
@@ -886,13 +920,21 @@ Hôpital départemental Dufresne-Sommeiller, à La Tour (Haute-Savoie).
 
 Maisons d'accueil pour personnes âgées dépendantes de la vallée d'Aulps à Saint-Jean-d'Aulps et de la vallée d'Abondance, à Vacheresse (Haute-Savoie).
 
+Maison de retraite Joseph Avet, à Thônes (Haute-Savoie) ;
+
 Maisons de retraite, à Aumale et à Gaillefontaine (Seine-Maritime).
+
+Centre hospitalier, à Barentin (Seine-Maritime).
+
+Centre hospitalier du Bois-Petit, à Sotteville-lès-Rouen (Seine-Maritime).
 
 Maison de retraite, à Caudebec-en-Caux (Seine-Maritime).
 
 Centre hospitalier, à Caudebec-lès-Elbeuf (Seine-Maritime).
 
 Centre hospitalier, à Déville-lès-Rouen (Seine-Maritime).
+
+Centre hospitalier, à Eu (Seine-Maritime).
 
 Maison de retraite, à Fauville-en-Caux (Seine-Maritime).
 
@@ -909,6 +951,8 @@ Maison de retraite, au Tréport (Seine-Maritime).
 Maison de retraite, à Luneray (Seine-Maritime).
 
 Maison de retraite, à Maromme (Seine-Maritime).
+
+Maisons de retraite, à Montville et à Doudeville (Seine-Maritime).
 
 Maisons de retraite, à Pavilly et à Saint-Crespin (Seine-Maritime).
 
@@ -942,6 +986,8 @@ Hôpital local, à Mauléon (Deux-Sèvres).
 
 Maison de retraite, à Oiron (Deux-Sèvres).
 
+Etablissement d'hébergement pour personnes âgées dépendantes à Saint-Pardoux (Deux-Sèvres).
+
 Maisons de retraite, à Airanes, à Oisemont, et à Poix-de-Picardie (Somme).
 
 Centre hospitalier, à Ham (Somme).
@@ -970,11 +1016,17 @@ Maison de retraite, à Carces (Var).
 
 Maisons de retraite, à Cogolin et à Grimaud (Var).
 
+Maison de retraite publique, à La Garde (Var).
+
 Maison de retraite, à Pignans (Var).
 
 Maison de retraite, à Salernes (Var).
 
+Hôpital local, à Pierrefeu (Var).
+
 Maisons de retraite, à Beaumes-de-Venise et à Aubignan (Vaucluse).
+
+Centre gériatrique intercommunal de l'Ouvèze, à Bédarrides (Vaucluse).
 
 Hôpital local, à Bollène (Vaucluse).
 
@@ -984,17 +1036,21 @@ Maisons de retraite, à Courthezon et à Jonquières (Vaucluse).
 
 Hôpital local, à Gordes (Vaucluse).
 
-Hôpital local, à Isle-sur-la-Sorgue (Vaucluse).
-
 Maison de retraite, à Thor (Vaucluse).
+
+Maison de retraite, à Sarrians (Vaucluse).
 
 Hôpital local, à Beauvoir-sur-Mer (Vendée).
 
 Hôpital local, à Bouin (Vendée).
 
+Maison de retraite Payraudeau, à La Chaize-le-Vicomte (Vendée).
+
 Hôpital local, à Mortagne-sur-Sèvre (Vendée).
 
 Centre de long séjour, à Noirmoutier-en-l'Ile (Vendée).
+
+Maison de retraite Paul Chauvin, à Saint-Fulgent (Vendée).
 
 Hôpital local, à Saint-Jean-de-Monts (Vendée).
 
@@ -1006,13 +1062,17 @@ Maisons de retraite, à Ambazac et à Nieul (Haute-Vienne).
 
 Maison de retraite, à Chalus, et maison d'accueil pour personnes âgées, à Nexon (Haute-Vienne).
 
-Maisons de retraite, à Châteauneuf-la-Forêt et à Eymontiers (Haute-Vienne).
+Maisons de retraite, à Châteauneuf-la-Forêt et à Eymoutiers (Haute-Vienne).
+
+Etablissement d'hébergement pour personnes âgées dépendantes, à Couzeix (Haute-Vienne).
 
 Maisons de retraite, à Feytiat et à Palais-sur-Vienne (Haute-Vienne).
 
-Maison d'accueil médicalisée, à Nantiat et maison de retraite médicalisée, à Bessines-sur-Gartemp (Haute-Vienne).
+Maison d'accueil médicalisée, à Nantiat et maison de retraite médicalisée, à Bessines-sur-Gartempe (Haute-Vienne).
 
 Maisons de retraite, à Pierre-Buffière et à Saint-Germain-les-Belles (Haute-Vienne).
+
+Hôpital intercommunal Monts et Barrages, à Saint-Léonard-de-Noblat (Haute-Vienne).
 
 Hôpital local, à Bussang (Vosges).
 
@@ -1040,7 +1100,7 @@ Maisons de retraite, à Isle-sur-Serein, à Thizy et à Noyers-sur-Serein (Yonne
 
 Maison de retraite, à Migennes (Yonne).
 
-Maison de retraite, à Saint-Sauver-en-Puisaye (Yonne).
+Maison de retraite, à Saint-Sauveur-en-Puisaye (Yonne).
 
 Maison de retraite, à Saint-Bris-le-Vineux (Yonne).
 
@@ -1051,6 +1111,8 @@ Maisons de retraite, à Cerny et à La Ferté-Alais (Essonne).
 Maison de retraite, à Verrières-le-Buisson (Essonne).
 
 Maison de retraite, à Asnières-sur-Seine (Hauts-de-Seine).
+
+Maison de retraite Sainte-Emilie, à Clamart (Hauts-de-Seine).
 
 Maison de retraite, à Issy-les-Moulineaux (Hauts-de-Seine).
 
