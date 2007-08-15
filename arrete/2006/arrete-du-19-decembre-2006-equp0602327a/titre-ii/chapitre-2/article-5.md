@@ -6,4 +6,6 @@ L'indemnité journalière susceptible d'être allouée à l'occasion d'une missi
 
 Le taux de l'indemnité de mission allouée pour l'hébergement est de 65 % du montant forfaitaire et le taux de l'indemnité de mission allouée pour chaque repas est de 17,5 % du montant forfaitaire.
 
+Pour les missions inférieures à une journée dans les villes de Bruxelles et Luxembourg effectuées dans le cadre de l'Union européenne, l'indemnité journalière prévue par la réglementation est réduite de 50 % lorsque l'agent est défrayé d'un de ses repas ou bénéficie d'un repas gratuit.
+
 Lorsque les contraintes de la mission le justifient, le chef de service peut autoriser le versement de l'indemnité de mission aux agents tenus d'arriver une journée avant le début de la mission et tenus de repartir une journée après la fin de la mission.

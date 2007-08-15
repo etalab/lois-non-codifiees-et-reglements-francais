@@ -2,7 +2,7 @@
 
 I. - Toute action de recherche et développement de production pouvant impliquer ou entraîner un rejet dans l'environnement, tout essai ou toute expérimentation portant sur des substances actives biocides exclusivement utilisées dans des produits biocides ou sur des produits biocides qui n'ont pas déjà bénéficié d'une autorisation de mise sur le marché est soumis à autorisation préalable.
 
-II. - La demande d'autorisation de la substance active biocide ou du produit biocide est adressée au ministre chargé de l'environnement (direction de la prévention des pollutions et des risques). Le demandeur fournit les informations telles que définies à l'annexe VII du présent arrêté, en trois exemplaires. Le ministre chargé de l'environnement notifie sa décision concernant l'autorisation dans un délai maximum de quatre mois, après avis de l'Agence française de sécurité sanitaire environnementale.
+II. - La demande d'autorisation de la substance active biocide ou du produit biocide est adressée au ministre chargé de l'environnement (direction de la prévention des pollutions et des risques). Le demandeur fournit les informations telles que définies à l'annexe VII du présent arrêté, en trois exemplaires. Le ministre chargé de l'environnement notifie sa décision concernant l'autorisation dans un délai maximum de quatre mois, après avis de l'Agence française de sécurité sanitaire de l'environnement et du travail.
 
 Si aucune donnée physico-chimique, toxicologique ou écotoxicologique n'est disponible dans le dossier du demandeur, le ministre détermine, au cas par cas, les informations à fournir en tenant compte des éléments suivants :
 

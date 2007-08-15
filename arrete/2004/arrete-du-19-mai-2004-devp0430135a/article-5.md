@@ -1,6 +1,6 @@
 # Article 5
 
-I. - Les dossiers mentionnés aux articles 3 et 9 du décret du 26 février 2004 susvisé sont adressés au ministre chargé de l'environnement et à l'Agence française de sécurité sanitaire environnementale sous forme papier et sous forme électronique. Ils comportent une description détaillée et complète des études effectuées et des méthodes utilisées ou une référence bibliographique à ces méthodes. Les informations fournies dans les dossiers doivent suffire pour évaluer les effets, les risques et les propriétés visées à l'article L. 522-4 I et II du code de l'environnement.
+I. - Les dossiers mentionnés aux articles 3 et 9 du décret du 26 février 2004 susvisé sont adressés au ministre chargé de l'environnement et à l'Agence française de sécurité sanitaire de l'environnement et du travail sous forme papier et sous forme électronique. Ils comportent une description détaillée et complète des études effectuées et des méthodes utilisées ou une référence bibliographique à ces méthodes. Les informations fournies dans les dossiers doivent suffire pour évaluer les effets, les risques et les propriétés visées à l'article L. 522-4 I et II du code de l'environnement.
 
 II. - Sous réserve qu'une justification soit présentée et acceptée :
 
