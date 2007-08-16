@@ -1,433 +1,473 @@
 # Article Annexe IV
 
-**A N N E X E I V A
+ANNEXE IV A
 
-ENSEMBLE DE DONNÉES POUR LES SUBSTANCES ACTIVES**
+ENSEMBLE DE DONNÉES POUR LES SUBSTANCES ACTIVES
 
-Champignons, micro-organismes et virus
+Micro-organismes, y compris virus et champignons
 
-1. Les dossiers relatifs aux substances actives doivent au moins comporter tous les points énumérés sous l'intitulé Données requises pour le dossier . Les réponses doivent être étayées par des données. Les données requises pour le dossier doivent être adaptées à l'évolution technologique.
+1. Aux fins de la présente annexe, le terme " micro-organismes couvre également les virus et les champignons. Les dossiers relatifs aux micro-organismes doivent au moins comporter tous les points énumérés sous l'intitulé " Données requises pour le dossier ci-après. Pour tous les micro-organismes faisant l'objet d'une demande d'inscription à l'annexe I ou I A, il y a lieu de faire état de toutes les connaissances pertinentes et de toutes les informations utiles fournies par la littérature. Les informations relatives à l'identification et à la caractérisation d'un micro-organisme, y compris son mode d'action, sont particulièrement importantes et doivent être indiquées dans les sections I à IV ; elles servent de base à l'évaluation des incidences possibles sur la santé humaine ainsi que des effets sur l'environnement.
 
-2. Les informations qui ne sont pas nécessaires en raison de la nature du produit biocide ou de ses utilisations prévues ne doivent pas être fournies. Il en va de même lorsqu'il est scientifiquement superflu ou techniquement impossible de fournir ces informations. Dans tous les cas, une justification doit être communiquée au ministre chargé de l'environnement qui en apprécie l'acceptabilité. L'existence d'une formulation-cadre à laquelle le demandeur a un droit d'accès peut suffire à cet égard.
+2. Lorsque ces informations ne sont pas nécessaires compte tenu de la nature du micro-organisme, l'article 5, paragraphe 2, du présent arrêté s'applique.
+
+3. Un dossier, au sens de l'article 3 du décret n° 2004-187 du 26 février 2004 et de l'article 2 du présent arrêté, est établi concernant la souche du micro-organisme, à moins que des informations montrant que l'espèce est suffisamment homogène du point de vue de l'ensemble de ses caractéristiques ne soient présentées ou que le demandeur ne fournisse d'autres arguments conformément à l'article 5, paragraphe 2, du présent arrêté.
+
+4. Si le micro-organisme a été génétiquement modifié au sens de l'article 2, paragraphe 2, de la directive 2001/18/CE, il y a également lieu de fournir une copie de l'évaluation des données du point de vue des risques pour l'environnement, conformément aux dispositions de l'article 4, paragraphe 2, de cette même directive.
+
+5. S'il est notoire que l'action du produit biocide est en partie ou totalement due à l'effet d'une toxine ou d'un métabolite, ou si des résidus significatifs de toxines ou métabolites sans rapport avec l'effet du micro-organisme actif sont à prévoir, il y a lieu de présenter un dossier relatif à la toxine ou au métabolite qui satisfasse aux exigences de l'annexe II A et, le cas échéant, des parties pertinentes de l'annexe III A.
 
 Données requises pour le dossier
 
-I. - Détails concernant le demandeur.
+Sections
 
-II. - Identité de l'organisme actif.
+I. - Identité du micro-organisme.
 
-III. - Source de l'organisme actif.
+II. - Propriétés biologiques du micro-organisme.
 
-IV. - Méthodes de détection et d'identification.
+III. - Informations complémentaires sur le micro-organisme.
 
-V. - Propriétés biologiques de l'organisme actif, y compris la pathogénicité et l'infectiosité pour des organismes cibles et non cibles, y compris l'homme.
+IV. - Méthodes d'analyse.
 
-VI. - Efficacité et utilisations projetées.
+V. - Effets sur la santé humaine.
 
-VII. - Profil toxicologique pour l'homme et les animaux, y compris le métabolisme des toxines.
+VI. - Résidus dans ou sur les matériaux traités, les denrées alimentaires et les aliments pour animaux.
 
-VIII. - Profil toxicologique, y compris le sort et le comportement dans l'environnement des organismes et des toxines qu'ils produisent.
+VII. - Devenir et comportement dans l'environnement.
 
-IX. - Mesures nécessaires pour protéger l'homme, les organismes non cibles et l'environnement.
+VIII. - Effets sur les organismes non cibles.
 
-X. - Classification et étiquetage.
+IX. - Classification et étiquetage.
 
-XI. - Résumé et évaluation des sections II à X.
+X. - Résumé et évaluation des sections I à IX, y compris des conclusions de l'évaluation des risques et des recommandations.
 
-Les données et informations suivantes doivent étayer les points susmentionnés.
+Les données ci-après sont nécessaires pour étayer les informations fournies concernant les points susmentionnés.
 
-I. - Demandeur
+I. - Identité du micro-organisme
 
-1.1. Demandeur (nom, adresse, etc.).
+1.1. Demandeur.
 
-1.2. Fabricant (nom, adresse y compris celle du site de l'installation).
+1.2. Fabricant.
 
-II. - Identités de l'organisme
+1.3. Nom et description de l'espèce, caractérisation de la souche.
 
-2.1. Nom commun de l'organisme (y compris les dénominations alternatives et anciennes).
+1.3.1. Nom commun du micro-organisme (y compris dénominations alternatives et anciennes).
 
-2.2. Nom taxinomique et souche indiquant s'il s'agit d'une variante ou d'une souche mutante ; pour les virus, la désignation taxinomique de l'agent, du sérotype, de la souche ou du mutant.
+1.3.2. Nom taxinomique et souche indiquant s'il s'agit d'une variante, d'une souche mutante ou d'un organisme génétiquement modifié (OGM) ; pour les virus, désignation taxinomique de l'agent, sérotype, souche ou mutant.
 
-2.3. Si la culture est déposée, numéro de référence de la culture et du prélèvement.
+1.3.3. Numéro de référence du prélèvement et de la culture, si la culture est déposée.
 
-2.4. Méthodes, procédures et critères servant à établir la présence et l'identité de l'organisme (par exemple : morphologie, biochimie, sérologie, etc.).
+1.3.4. Méthodes, procédures et critères servant à établir la présence et l'identité du micro-organisme (par exemple morphologie, biochimie, sérologie, etc.).
 
-III. - Source de l'organisme
+1.4. Spécification du matériel utilisé pour la fabrication de préparations.
 
-3.1. Présence dans la nature ou non.
+1.4.1. Teneur en micro-organismes.
 
-3.2. Méthodes d'isolement de l'organisme ou de la souche active.
+1.4.2. Teneur en impuretés, en additifs et en micro-organismes contaminants et identité de ces éléments.
 
-3.3. Méthodes de culture.
+1.4.3. Profil analytique des lots.
 
-3.4. Méthodes de production, avec des détails sur le confinement et les procédures utilisées pour maintenir la qualité et garantir une source uniforme de l'organisme actif. Dans le cas d'un mutant, il y a lieu de fournir des informations détaillées sur sa production et son isolation, en indiquant toutes les différences connues entre le mutant et les souches initiales et naturelles.
+II. - Propriétés biologiques du micro-organisme
 
-3.5. Composition du matériau de l'organisme actif fini, c'est-à-dire nature, pureté, identité, propriétés, teneur en impuretés et en organismes étrangers.
+2.1. Historique du micro-organisme et de ses utilisations. Présence naturelle et répartition géographique.
 
-3.6. Méthodes permettant d'éviter une contamination et une perte de virulence du stock d'organismes d'origine.
+2.1.1. Historique.
 
-3.7. Procédures de gestion des déchets.
+2.1.2. Origine et présence naturelle.
 
-IV. - Méthodes de détection et d'identification
+2.2. Informations sur le ou les organismes cibles.
 
-4.1. Méthodes utilisées pour établir la présence et l'identité de l'organisme.
+2.2.1. Description du ou des organismes cibles.
 
-4.2. Méthodes utilisées pour établir l'identité et la pureté du stock d'organismes d'origine à partir duquel des lots sont produits ; résultats obtenus et informations sur la variabilité.
+2.2.2. Mode d'action.
 
-4.3. Méthodes utilisées pour démontrer la pureté microbiologique du produit fini, prouvant que les contaminants ont été maîtrisés à un niveau acceptable ; résultats obtenus et informations sur la variabilité.
+2.3. Plage de spécificité vis-à-vis de l'hôte et effets sur les espèces autres que l'organisme cible.
 
-4.4. Méthodes utilisées pour démontrer que l'organisme actif est exempt d'agents contaminants pathogènes pour l'homme et les mammifères, et comprenant, pour les protozoaires et les champignons, une évaluation des effets de la température (à 35 °C et à d'autres températures pertinentes).
+2.4. Stades de développement/cycle de vie du micro-organisme.
 
-4.5. Méthodes de détermination des résidus viables et non viables (par exemple : les toxines) dans ou sur les produits traités, les denrées alimentaires, les aliments pour animaux, les fluides et tissus corporels animaux et humains, le sol, l'eau et l'air, le cas échéant.
+2.5. Pouvoir infectieux, capacité de dispersion et de colonisation.
 
-V. - Propriétés biologiques de l'organisme
+2.6. Liens avec des agents pathogènes végétaux, animaux ou humains connus.
 
-5.1. Historique de l'organisme et de ses utilisations et, si ces indications sont connues, historique générale de son apparition naturelle et, le cas échéant, de sa répartition géographique.
+2.7. Stabilité génétique et facteurs la compromettant.
 
-5.2. Liens avec des agents pathogènes existants d'espèces vertébrées, d'espèces invertébrées, de végétaux ou d'autres organismes.
+2.8. Informations concernant la production de métabolites (en particulier de toxines).
 
-5.3. Effets sur l'organisme cible. Pathogénicité ou type d'antagonisme de l'organisme actif à l'organisme cible. Il y a lieu d'inclure des détails sur la gamme de spécificité vis-à-vis de l'organisme actif.
+2.9. Antibiotiques et autres agents antimicrobiens.
 
-5.4. Transmissibilité, dose infectieuse et mode d'action, y compris des informations sur la présence, l'absence ou la production de toxines, avec, le cas échéant, des informations sur leur nature, identité, structure chimique, stabilité et puissance.
+2.10. Résistance aux facteurs environnementaux.
 
-5.5. Effets possibles sur les organismes non cibles étroitement liés à l'organisme cible, y compris l'infectiosité, la pathogénicité, la transmissibilité.
+2.11. Effets sur les matériaux, les substances et les produits.
 
-5.6. Transmissibilité à d'autres organismes non cibles.
+III. - Informations complémentaires sur le micro-organisme
 
-5.7. Tout autre effet biologique sur les organismes non cibles, en cas d'utilisation correcte.
+3.1. Rôle.
 
-5.8. Infectiosité et stabilité physique en cas d'utilisation correcte.
+3.2. Domaine d'utilisation envisagé.
 
-5.9. Stabilité génétique dans des conditions environnementales de l'utilisation proposée.
+3.3. Type(s) de produits et catégorie d'utilisateurs pour lesquels le micro-organisme devrait figurer à l'annexe I, I A ou I B.
 
-5.10. Toute pathogénicité pour l'homme et les animaux sous immunosuppression.
+3.4. Méthode de production et contrôle de qualité.
 
-5.11. Pathogénicité et infectuosité pour des parasites ou des prédateurs connus des espèces cibles.
+3.5. Informations concernant l'apparition ou la possibilité de développement d'une résistance du ou des organismes cibles.
 
-VI. - Efficacité et utilisation envisagées
+3.6. Méthodes pour empêcher la perte de virulence du stock de semences du micro-organisme.
 
-6.1. Organismes nuisibles combattus et matériaux, substances, organismes ou produits à traiter ou protéger.
+3.7. Méthodes et précautions recommandées en matière de manutention, d'entreposage et de transport, ou en cas d'incendie.
 
-6.2. Utilisations envisagées (par exemple : insecticide, désinfectant, biocide antisalissure, etc.).
+3.8. Procédures de destruction ou de décontamination.
 
-6.3. Informations ou observations sur les effets secondaires indésirables ou non recherchés.
+3.9. Mesures en cas d'accident.
 
-6.4. Informations sur l'apparition ou l'apparition possible du développement d'une résistance et stratégies de réaction possibles.
+3.10. Procédures de gestion des déchets.
 
-6.5. Effets sur les organismes cibles.
+3.11. Plan de surveillance à utiliser pour le micro-organisme actif, notamment en matière de manutention, d'entreposage, de transport et d'utilisation.
 
-6.6. Catégorie d'utilisateur.
+IV. - Méthodes d'analyse
 
-VII. - Etudes de toxicité et de métabolisme
+4.1. Méthodes permettant l'analyse du micro-organisme tel qu'il est produit.
 
-7.1. Toxicité aiguë :
+4.2. Méthodes permettant de déterminer et de quantifier les résidus (viables ou non viables).
 
-Dans les cas où une dose unique s'avère inadéquate, des essais de détection de la concentration doivent être effectués pour détecter les agents hautement toxiques et l'infectiosité.
+V. - Effets sur la santé humaine
 
-1. Voie orale.
+Niveau I
 
-2. Voie percutanée.
+5.1. Informations de base.
 
-3. Inhalation.
+5.1.1. Données médicales.
 
-4. Irritation de la peau et, le cas échéant, irritation des yeux.
+5.1.2. Surveillance médicale du personnel des installations de fabrication.
 
-5. Sensibilisation de la peau et, le cas échéant, sensibilisation des voies respiratoires.
+5.1.3. Observations en rapport avec la sensibilisation/le pouvoir allergisant.
 
-6. Pour les virus et les viroïdes, études de cultures cellulaires utilisant un virus infectieux purifié et des cultures de cellules primaires de mammifères, d'oiseaux et de poissons.
+5.1.4. Observation directe (cas cliniques, par exemple).
 
-7.2. Toxicité subchronique :
+5.2. Etudes de base.
 
-Étude de 40 jours, deux espèces : un rongeur, un non rongeur.
+5.2.1. Sensibilisation.
 
-1. Administration par voie orale.
+5.2.2. Toxicité aiguë, pouvoir pathogène et pouvoir infectieux.
 
-2. Autres voies (inhalation, percutanée), le cas échéant, et
+5.2.2.1. Toxicité aiguë, pouvoir pathogène et pouvoir infectieux par voie orale.
 
-3. Pour les virus et les viroïdes, le test d'infectiosité est effectué sous forme de bio-essais ou sur une culture cellulaire appropriée, au moins 7 jours après la dernière administration aux animaux de laboratoire.
+5.2.2.2. Toxicité aiguë, pouvoir pathogène et pouvoir infectieux par inhalation.
 
-7.3. Toxicité chronique :
+5.2.2.3. Dose unique intrapéritonéale/sous-cutanée.
 
-Les essais de toxicité chronique sont effectués sur un rongeur et un autre mammifère avec une administration par voie orale, à moins qu'une autre voie ne s'avère plus adéquate.
+5.2.3. Essais de génotoxicité in vitro.
 
-7.4. Etude de pathogénicité :
+5.2.4. Etude sur cultures cellulaires.
 
-Cette étude peut être combinée avec des études prévues au point 7.3. Un rongeur et un autre mammifère.
+5.2.5. Informations concernant la toxicité et le pouvoir pathogène à court terme.
 
-7.5. Etudes de mutagénicité :
+5.2.5.1. Effets sur la santé d'une exposition répétée par inhalation.
 
-Comme précisées à l'annexe II A, section VI, point 6.6.
+5.2.6. Traitement proposé : premiers soins, traitement médical.
 
-7.6. Toxicité et reproduction :
+5.2.7. Pouvoir pathogène et pouvoir infectieux éventuels pour l'homme et pour d'autres mammifères en cas d'immunosuppression.
 
-Les essais de tératogénicité sont effectués sur le lapin et sur une autre espèce de rongeur.
+Fin du niveau I
 
-L'étude de fertilité porte sur une espèce, mâle et femelle, sur au moins deux générations.
+Niveau II
 
-7.7. Etudes du métabolisme :
+5.3. Etudes spécifiques de la toxicité, du pouvoir pathogène et du pouvoir infectieux.
 
-Toxicocinétique de base, absorption (y compris l'absorption par voie percutanée), distribution et excrétion chez les mammifères ; explication du cheminement métabolique.
+5.4. Génotoxicité - études in vivo sur cellules somatiques.
 
-7.8. Etudes de neurotoxicité :
+5.5. Génotoxicité - études in vivo sur cellules germinales.
 
-Ces études sont requises en présence d'une activité anticholinestérasique ou d'autres effets neurotoxiques. Des tests de neurotoxicité différée doivent, le cas échéant, être effectués sur des poules adultes.
+Fin du niveau II
 
-7.9. Etudes d'immunotoxicité (par exemple : allergénicité).
+5.6. Résumé de la toxicité, du pouvoir pathogène et du pouvoir infectieux pour les mammifères, et évaluation globale.
 
-7.10. Etudes de l'exposition accidentelle :
+VI. - Résidus dans ou sur les matériaux traités,
 
-Ces études sont requises lorsque la substance active se retrouve dans des produits utilisés dans des lieux ou des locaux où des denrées alimentaires ou des aliments pour animaux sont préparés, consommés ou entreposés, et lorsque des hommes, des animaux d'élevage ou des animaux familiers sont susceptibles d'être exposés à des zones ou à des matériaux traités.
+les denrées alimentaires et les aliments pour animaux
 
-7.11. Les données relatives à l'exposition de l'homme comprennent :
+6.1. Persistance et possibilité de multiplication sur ou dans des matériaux traités, des denrées alimentaires ou des aliments pour animaux.
 
-1. Des données médicales sous forme anonyme (le cas échéant).
+6.2. Informations complémentaires requises.
 
-2. Des fiches de santé, des données de surveillance médicale, du personnel des installations de fabrication (le cas échéant).
+6.2.1. Résidus non viables.
 
-3. Des données épidémiologiques (le cas échéant).
+6.2.2. Résidus viables.
 
-4. Des données sur les cas d'empoisonnement.
+6.3. Résumé et évaluation concernant les résidus dans ou sur les matériaux traités, les denrées alimentaires et les aliments pour animaux.
 
-5. Le diagnostic de l'empoisonnement (signes, symptômes) et les détails des tests d'analyse.
+VII. - Devenir et comportement dans l'environnement
 
-6. Le pronostic et le traitement proposé contre l'empoisonnement.
+7.1. Persistance et multiplication.
 
-7.12. Le résumé de la toxicologie sur les mammifères et les conclusions (y compris NOAEL, NOEL et, le cas échéant, DJA). Evaluation globale sur la base de l'ensemble des données toxicologiques de pathogénicité et d'infectiosité et des autres informations concernant l'organisme actif. Si possible, il y a lieu d'inclure, sous une forme succincte, les mesures suggérées pour la protection des utilisateurs.
+7.1.1. Sol.
 
-VIII. - Etudes écotoxicologiques
+7.1.2. Eau.
 
-8.1. Toxicité aiguë pour les poissons.
+7.1.3. Air.
 
-8.2. Toxicité aiguë pour la daphnie.
+7.2. Mobilité.
 
-8.3. Effets sur la croissance des algues (essai d'inhibition).
+7.3. Résumé et évaluation concernant le devenir et le comportement dans l'environnement.
 
-8.4. Toxicité aiguë sur un autre organisme non cible non aquatique.
+VIII. - Effets sur les organismes non ciblés
 
-8.5. Pathogénicité et infectiosité pour les abeilles communes et les vers de terre.
+8.1. Effets sur les oiseaux.
 
-8.6. Toxicité aiguë et/ou pathogénicité et infectiosité pour d'autres organismes non cibles susceptibles d'être menacés.
+8.2. Effets sur les organismes aquatiques.
 
-8.7. Effets (éventuels) sur le reste de la flore et de la faune.
+8.2.1. Effets sur les poissons.
 
-8.8. Au cas où des toxines sont produites, il y a lieu de fournir les données prévues à l'annexe II A, section VII, points 7.1 à 7.5.
+8.2.2. Effets sur les invertébrés d'eau douce.
 
-Devenir et comportement dans l'environnement.
+8.2.3. Effets sur la croissance des algues.
 
-8.9. Diffusion, mobilité, multiplication et persistance dans l'air, l'eau et le sol.
+8.2.4. Effets sur les végétaux autres que les algues.
 
-8.10. Au cas où des toxines sont produites, il y a lieu de fournir les données prévues à l'annexe II A, section VII, points 7.6 à 7.8.
+8.3. Effets sur les abeilles.
 
-IX. - Mesures nécessaires pour protéger l'homme,
+8.4. Effets sur les arthropodes autres que les abeilles.
 
-les organismes non cibles et l'environnement
+8.5. Effets sur les vers de terre.
 
-9.1. Méthodes et précautions à prendre en matière d'entreposage, de manutention, de transport et d'utilisation ou en cas d'incendie ou d'un autre incident envisageable.
+8.6. Effets sur les micro-organismes du sol.
 
-9.2. Toute circonstance ou condition environnementale dans laquelle l'organisme actif ne doit pas être utilisé.
+8.7. Etudes complémentaires.
 
-9.3. Possibilité de rendre l'organisme actif non infectieux et toute méthode pour y parvenir.
+8.7.1. Végétaux terrestres.
 
-9.4. Conséquences de la contamination de l'air, du sol et de l'eau, en particulier de l'eau potable.
+8.7.2. Mammifères.
 
-9.5. Mesures d'urgence en cas d'accident
+8.7.3. Autres espèces et processus concernés.
 
-9.6. Procédures pour la gestion des déchets de l'organisme actif, y compris les caractéristiques de lixiviation pendant l'élimination.
+8.8. Résumé et évaluation concernant les effets sur les organismes non ciblés.
 
-9.7. Possibilité de destruction ou de décontamination à la suite d'une dissémination dans les éléments suivants : air, eau, sol ou autres, le cas échéant.
+IX. - Classification et étiquetage
 
-X. - Classification et étiquetage
+Le dossier doit être accompagné d'une proposition motivée concernant le classement d'une substance active qui se trouve être un micro-organisme dans l'un des groupes de risques définis à l'article 2 de la directive 2000/54/CE du Parlement européen et du Conseil du 18 septembre 2000 concernant la protection des travailleurs contre les risques liés à l'exposition à des agents biologiques au travail, ainsi que d'indications en ce qui concerne la nécessité d'apposer sur les produits le signe de danger biologique décrit à l'annexe II de cette directive.
 
-Propositions motivées de classement dans l'un des groupes de risques indiqués à l'article 2, point d, de la directive 90/679/CEE, en indiquant la nécessité de déterminer pour les produits concernés les signes de risques biologiques précisés à l'annexe II de la directive 90/679/CEE.
+X. - Résumé et évaluation des sections I à IX, y compris des conclusions de l'évaluation des risques et des recommandations
 
-XI. - Résumé et évaluation des sections II à X
+ANNEXE IV B
 
-**A N N E X E I V B
+ENSEMBLE DE DONNÉES POUR LES PRODUITS BIOCIDES
 
-ENSEMBLE DE DONNÉES POUR LES PRODUITS BIOCIDES**
+Micro-organismes, y compris virus et champignons
 
-Champignons, micro-organismes et virus
+1. Aux fins de la présente annexe, le terme " micro-organismes couvre également les virus et les champignons. La présente annexe précise les données requises en vue de l'autorisation d'un produit biocide à base de préparations de micro-organismes. Pour tous les produits biocides à base de préparations de micro-organismes qui font l'objet d'une demande d'autorisation, il y a lieu de faire état de toutes les connaissances pertinentes et de toutes les informations utiles fournies par la littérature. Les informations relatives à l'identification et à la caractérisation de tous les constituants d'un produit biocide sont particulièrement importantes et doivent être indiquées dans les sections I à IV ; elles servent de base à l'évaluation des incidences possibles sur la santé humaine et des effets sur l'environnement.
 
-1. Les dossiers relatifs aux produits biocides doivent au moins comporter tous les points énumérés sous l'intitulé Données requises pour le dossier . Les réponses doivent être étayées par des données. Les données requises pour le dossier doivent être adaptées à l'évolution technologique.
+2. Lorsque ces informations ne sont pas nécessaires compte tenu de la nature du produit biocide, l'article 5, paragraphe 2, du présent arrêté s'applique.
 
-2. Les informations qui ne sont pas nécessaires en raison de la nature du produit biocide ou de ses utilisations projetées ne doivent pas être fournies. Il en va de même lorsqu'il est scientifiquement superflu ou techniquement impossible de fournir ces informations. Dans tous les cas, une justification doit être communiquée au ministre chargé de l'environnement qui en apprécie l'acceptabilité. L'existence d'une formulation-cadre à laquelle le demandeur a un droit d'accès peut suffire à cet égard.
+3. Les informations peuvent être tirées de données existantes si une justification acceptable pour l'autorité compétente est fournie. En particulier, les dispositions de l'arrêté du 20 avril 1994 modifié et de l'arrêté du 9 novembre 2004 modifié définissant les critères de classification et les conditions d'étiquetage et d'emballage des préparations dangereuses doivent être appliquées chaque fois que possible afin de réduire au minimum l'expérimentation animale.
 
-3. Les informations peuvent provenir de données existantes si une justification est communiquée au ministre chargé de l'environnement qui en apprécie l'acceptabilité. En particulier, il convient de recourir chaque fois que possible aux dispositions communautaires relatives à la classification des préparations dangereuses pour réduire à un minimum l'expérimentation animale.
+4. Lorsque des essais sont réalisés, il convient de fournir une description détaillée (spécification) du matériel utilisé et de ses impuretés, conformément aux dispositions de la section II. Si nécessaire, les données précisées dans les annexes II B et III B seront exigées pour tous les constituants chimiques du produit biocide qui sont importants du point de vue toxicologique-écotoxicologique, en particulier si ces constituants sont des substances préoccupantes au sens de l'article 10 du décret n° 2004-187.
+
+5. Dans le cas d'une nouvelle préparation, une extrapolation à partir de l'annexe IV A est acceptable, à condition que tous les effets possibles des constituants, notamment en ce qui concerne le pouvoir pathogène et le pouvoir infectieux, aient été évalués.
 
 Données requises pour le dossier
 
-I. - Demandeur.
+Sections
 
-II. - Identité et composition du produit biocide.
+I. - Identité du produit biocide.
 
-III. - Propriétés techniques du produit biocide et toute propriété biocide supplémentaire à celles de l'organisme actif.
+II. - Propriétés physiques, chimiques et techniques du produit biocide.
 
-IV. - Méthodes d'identification et d'analyse du produit biocide.
+III. - Données relatives à l'application.
 
-V. - Utilisations envisagées et efficacité en vue de ces utilisations.
+IV. - Informations complémentaires sur le produit biocide.
 
-VI. - Informations toxicologiques (en plus de celles concernant l'organisme actif).
+V. - Méthodes d'analyse.
 
-VII. - Informations écotoxicologiques (en plus de celles concernant l'organisme actif).
+VI. - Données relatives à l'efficacité.
 
-VIII. - Mesures à prendre pour protéger l'homme, les organismes non cibles et l'environnement.
+VII. - Effets sur la santé humaine.
 
-IX. - Classification, emballage et étiquetage du produit biocide.
+VIII. - Résidus dans ou sur les matériaux traités, les denrées alimentaires et les aliments pour animaux.
 
-X. - Résumé des sections II à IX.
+IX. - Devenir et comportement dans l'environnement.
 
-Les données et informations suivantes doivent étayer les points susmentionnés.
+X. - Effets sur les organismes non ciblés.
 
-I. - Demandeur
+XI. - Classification, emballage et étiquetage du produit biocide.
 
-1.1. Nom, adresse, etc.
+XII. - Résumé et évaluation des sections I à XI, y compris des conclusions de l'évaluation des risques et des recommandations.
 
-1.2. Nom et adresse des fabricants des produits biocides et des organismes actifs, y compris l'adresse des installations.
+Les données ci-après sont nécessaires pour étayer les informations fournies concernant les points susmentionnés.
 
-II. - Identité du produit biocide
+I. - Identité du produit biocide
 
-2.1. Nom commercial ou nom commercial proposé et, le cas échéant, numéro de code de développement attribué au fabricant pour le produit biocide.
+1.1. Demandeur.
 
-2.2. Informations détaillées d'ordre quantitatif et qualitatif sur la composition du produit biocide (organismes actifs, constituants inertes, organismes étrangers, etc.).
+1.2. Fabricant du produit biocide et du ou des micro-organismes.
 
-2.3. Etat physique et nature du produit biocide (par exemple : concentré émulsionnable, poudre mouillable, etc.).
+1.3. Nom commercial ou nom commercial proposé et numéro de code de développement du fabricant pour le produit biocide.
 
-2.4. Concentration de l'organisme actif dans le matériau utilisé.
+1.4. Informations quantitatives et qualitatives détaillées sur la composition du produit biocide.
 
-III. - Propriétés techniques et biologiques
+1.5. Etat physique et nature du produit biocide.
 
-3.1. Aspect (couleur et odeur).
+1.6. Fonction.
 
-3.2. Stockage ; stabilité et durée de conservation. Incidence de la température, des méthodes d'emballage et de stockage, etc., sur le maintien de l'activité biologique.
+II. - Propriétés physiques, chimiques et techniques
 
-3.3. Méthodes permettant d'établir la stabilité en stockage et en conservation.
+du produit biocide
 
-3.4. Caractéristiques techniques de la préparation :
+2.1. Aspect (couleur et odeur).
 
-3.4.1. Mouillabilité.
+2.2. Stabilité durant le stockage et durée de conservation.
 
-3.4.2. Formation d'une mousse persistante.
+2.2.1. Effets de la lumière, de la température et de l'humidité sur les caractéristiques techniques du produit biocide.
 
-3.4.3. Faculté de passer en suspension et stabilité de la suspension.
+2.2.2. Autres facteurs compromettant la stabilité.
 
-3.4.4. Test du tamis humide et test du tamis sec.
+2.3. Explosibilité et propriétés oxydantes.
 
-3.4.5. Distribution granulométrique, teneur en poussières et en particules fines, usure et friabilité.
+2.4. Point d'éclair et autres indications sur l'inflammabilité ou l'ignition spontanée.
 
-3.4.6. Lorsqu'il s'agit de granules : le test du tamis est effectué ; la répartition granulométrique des granules, du moins dans les fractions contenant des particules de plus d'un millimètre est indiquée.
+2.5. Acidité, alcalinité et pH.
 
-3.4.7. Quantité de la substance active dans ou sur les particules d'appât, les granules ou le matériau traité.
+2.6. Viscosité et tension superficielle.
 
-3.4.8. Faculté d'émulsification, de réémulsification ; stabilité de l'émulsion.
+2.7. Caractéristiques techniques du produit biocide.
 
-3.4.9. Faculté d'écoulement, de déversement et de transformation en poussières.
+2.7.1. Mouillabilité.
 
-3.5. Compatibilité physique et chimique avec d'autres produits, y compris d'autres produits biocides, avec lesquels son utilisation sera autorisée.
+2.7.2. Formation d'une mousse persistante.
 
-3.6. Mouillage, adhérence et diffusion à la suite de l'application.
+2.7.3. Tenue en suspension et stabilité de la suspension.
 
-3.7. Toute modification des propriétés biologiques de l'organisme à la suite de la préparation, en particulier les changements de pathogénicité ou d'infectiosité.
+2.7.4. Test du tamis sec et test du tamis humide.
 
-IV. - Méthode d'identification et d'analyse
+2.7.5. Distribution granulométrique (poudres fines et mouillables, granules), teneur en poussières/en particules fines (granules), usure et friabilité (granules).
 
-4.1. Méthodes d'analyse permettant de déterminer la composition du produit biocide.
+2.7.6. Faculté d'émulsification, de réémulsification ; stabilité de l'émulsion.
 
-4.2. Méthodes permettant de déterminer les résidus (par exemple : bio-essai).
+2.7.7. Faculté d'écoulement, de déversement (rinçage) et de transformation en poussières.
 
-4.3. Méthodes utilisées pour démontrer la pureté microbiologique du produit biocide.
+2.8. Compatibilité physique, chimique et biologique avec d'autres produits, y compris d'autres produits biocides, avec lesquels son utilisation doit être autorisée ou enregistrée.
 
-4.4. Méthodes utilisées pour démontrer que le produit biocide est exempt d'agents pathogènes pour l'homme et les autres mammifères ou, le cas échéant, d'agents pathogènes nuisibles pour les organismes non cibles et l'environnement.
+2.8.1. Compatibilité physique.
 
-4.5. Techniques utilisées pour garantir un produit uniforme et méthodes d'essai en vue de sa normalisation.
+2.8.2. Compatibilité chimique.
 
-V. - Utilisations envisagées et efficacité
+2.8.3. Compatibilité biologique.
 
-dans le cadre de ces utilisations
+2.9. Résumé et évaluation des propriétés physiques, chimiques et techniques du produit biocide.
 
-5.1. Utilisation :
+III. - Données relatives à l'application
 
-Type de produit (par exemple : produit de protection du bois, insecticide, etc.).
+3.1. Domaine d'utilisation envisagé.
 
-5.2. Modalités de l'utilisation envisagée (par exemple : types d'organismes nuisibles combattus, matériaux à traiter, etc.).
+3.2. Mode d'action.
 
-5.3. Taux d'application.
+3.3. Précisions sur l'utilisation envisagée.
 
-5.4. Le cas échéant, d'après les résultats des tests, les conditions spécifiques ou environnementales dans lesquelles le produit peut ou ne peut pas être utilisé.
+3.4. Taux d'application.
 
-5.5. Méthode d'application.
+3.5. Teneur en micro-organismes du matériel utilisé (par exemple dans le dispositif d'application ou l'appât).
 
-5.6. Nombre et calendrier des applications.
+3.6. Méthode d'application.
 
-5.7. Instructions d'utilisation proposées.
+3.7. Nombre et fréquence des applications, et durée de la protection.
 
-Données relatives à l'efficacité.
+3.8. Périodes d'attente nécessaires ou autres précautions à prendre pour éviter des effets néfastes pour la santé humaine et animale et pour l'environnement.
 
-5.8. Essais préliminaires visant à déterminer la concentration.
+3.9. Instructions d'utilisation proposées.
 
-5.9. Expériences sur le terrain.
+3.10. Catégorie d'utilisateurs.
 
-5.10. Informations sur l'apparition éventuelle du développement d'une résistance.
+3.11. Informations concernant la possibilité de développement d'une résistance.
 
-5.11. Incidence sur la qualité des matériaux ou des produits traités.
+3.12. Effets sur les matériaux ou produits traités avec le produit biocide.
 
-VI. - Informations sur la toxicité complémentaires
+IV. - Informations complémentaires sur le produit biocide
 
-aux informations requises pour l'organisme actif
+4.1. Emballage et compatibilité du produit biocide avec les matériaux d'emballage proposés.
 
-6.1. Dose unique par voie orale.
+4.2. Procédures de nettoyage de l'équipement utilisé pour les applications.
 
-6.2. Dose unique par voie sous-cutanée.
+4.3. Périodes de réintroduction, périodes d'attente nécessaires ou autres précautions à prendre pour protéger l'homme, le bétail et l'environnement.
 
-6.3. Inhalation.
+4.4. Méthodes et précautions recommandées en matière de manutention, d'entreposage et de transport, ou en cas d'incendie.
 
-6.4. Irritation de la peau et, le cas échéant, des yeux.
+4.5. Mesures en cas d'accident.
 
-6.5. Sensibilisation de la peau.
+4.6. Procédures de destruction ou de décontamination du produit biocide et de son emballage.
 
-6.6. Données toxicologiques disponibles relatives aux substances non actives.
+4.6.1. Incinération contrôlée.
 
-6.7. Exposition de l'opérateur :
+4.6.2. Autres.
 
-6.7.1. Absorption par voie sous-cutanée/inhalation en fonction de la préparation et de la méthode d'application.
+4.7. Plan de surveillance à utiliser pour le micro-organisme actif et les autres micro-organismes contenus dans le produit biocide, notamment en ce qui concerne la manutention, l'entreposage, le transport et l'utilisation.
 
-6.7.2. Exposition probable de l'opérateur dans des conditions réelles, y compris, le cas échéant, analyse quantitative de cette exposition.
+V. - Méthodes d'analyse
 
-VII. - Informations sur l'écotoxicité complémentaires
+5.1. Méthodes permettant l'analyse du produit biocide.
 
-aux informations requises pour l'organisme actif
+5.2. Méthodes permettant de déterminer et de quantifier les résidus.
 
-7.1. Observations sur les effets secondaires indésirables ou non recherchés (par exemple : effets sur les organismes utiles et d'autres organismes non cibles ou persistance dans l'environnement).
+VI. - Données relatives à l'efficacité
 
-VIII. - Mesures à adopter pour protéger l'homme,
+VII. - Effets sur la santé humaine
 
-les organismes non cibles et l'environnement
+7.1. Etudes de base de toxicité aiguë.
 
-8.1. Méthodes et précautions recommandées en matière de manipulation, d'entreposage, de transport et d'utilisation.
+7.1.1. Toxicité orale aiguë.
 
-8.2. Périodes de réintroduction, périodes d'attente nécessaires ou autres précautions à prendre pour protéger l'homme et les animaux.
+7.1.2. Toxicité aiguë par inhalation.
 
-8.3. Mesures d'urgence en cas d'accident.
+7.1.3. Toxicité percutanée aiguë.
 
-8.4. Procédures de destruction ou de décontamination du produit biocide et de son emballage.
+7.2. Etudes supplémentaires de toxicité aiguë.
 
-IX. - Classification, emballage et étiquetage
+7.2.1. Irritation de la peau.
 
-9.1. Propositions, y compris une justification des propositions, en matière de classification et d'étiquetage :
+7.2.2. Irritation des yeux.
 
-a) En ce qui concerne les composants non biologiques du produit conformément à la directive 88/379/CEE :
+7.2.3. Sensibilisation cutanée.
 
-- symboles des dangers ;
+7.3. Données relatives à l'exposition.
 
-- indications du danger ;
+7.4. Données toxicologiques disponibles relatives aux substances non actives.
 
-- phrases de risque ;
+7.5. Etudes supplémentaires pour les associations de produits biocides.
 
-- conseils de prudence.
+7.6. Résumé et évaluation concernant les effets sur la santé humaine.
 
-b) En ce qui concerne les organismes actifs, étiquetage en fonction du groupe de risques comme précisés à l'article 2, point d, de la directive 90/679/CEE accompagné, le cas échéant, du signe de risque biologique prévu dans cette directive.
+VIII. - Résidus dans ou sur les matériaux traités,
 
-9.2. Emballage (type, matériaux, dimensions, etc.), compatibilité de la préparation avec les matériaux d'emballage proposés.
+les denrées alimentaires et les aliments pour animaux
 
-9.3. Spécimens de l'emballage proposé.
+IX. - Devenir et comportement dans l'environnement
 
-X. - Résumé des sections II à IX
+X. - Effets sur les organismes non ciblés
+
+10.1. Effets sur les oiseaux.
+
+10.2. Effets sur les organismes aquatiques.
+
+10.3. Effets sur les abeilles.
+
+10.4. Effets sur les arthropodes autres que les abeilles.
+
+10.5. Effets sur les vers de terre.
+
+10.6. Effets sur les micro-organismes du sol.
+
+10.7. Etudes supplémentaires portant sur d'autres espèces ou études à un niveau supérieur telles que des études sur certains organismes non ciblés.
+
+10.7.1. Végétaux terrestres.
+
+10.7.2. Mammifères.
+
+10.7.3. Autres espèces et processus concernés.
+
+10.8. Résumé et évaluation concernant les effets sur les organismes non cibles.
+
+XI. - Classification, emballage et étiquetage du produit biocide
+
+Des propositions motivées de classification et d'étiquetage du produit biocide conformément aux dispositions de l'arrêté du 20 avril 1994 modifié et de l'arrêté du 9 novembre 2004 modifié définissant les critères de classification et les conditions d'étiquetage et d'emballage des préparations dangereuses doivent être présentées.
+
+La classification consiste en la description de la ou des catégories de danger et en l'attribution de phrases de risques pour toutes les propriétés dangereuses. En fonction de la classification, une proposition d'étiquetage doit être présentée, comprenant le ou les symboles de danger et les indications de danger, les phrases de risques et les conseils de prudence appropriés. La classification et l'étiquetage se rapportent aux substances chimiques contenues dans le produit biocide. Si nécessaire, des spécimens de l'emballage proposé seront présentés aux autorités compétentes de l'État membre concerné.
+
+Le dossier doit être accompagné d'une proposition motivée concernant le classement dans l'un des groupes de risques définis à l'article 2 de la directive 2000/54/CE, ainsi que d'indications en ce qui concerne la nécessité d'apposer sur les produits le signe de danger biologique décrit à l'annexe II de cette directive.
+
+XII. - Résumé et évaluation des sections I à XI, y compris des conclusions de l'évaluation des risques et des recommandations
