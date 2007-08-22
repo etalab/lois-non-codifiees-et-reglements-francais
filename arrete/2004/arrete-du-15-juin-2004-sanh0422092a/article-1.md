@@ -30,8 +30,6 @@ Hôpital local, à Vallon-Pont-d'Arc (Ardèche).
 
 Hôpital local, à Ax-les-Thermes (Ariège).
 
-Maisons de retraite, à Saverdun et à Mazères (Ariège).
-
 Hôpital local, à Tarascon-sur-Ariège (Ariège).
 
 Maison de retraite, à Arcis-sur-Aube (Aube).
@@ -46,6 +44,10 @@ Hôpital local, à Saint-Pierre-d'Oléron (Charente-Maritime).
 
 Maison de retraite, à Sancoins (Cher).
 
+Hôpital local, à Saulieu (Côte-d'Or) ;
+
+Maison de retraite, à Mainsat, et centre hospitalier, à Auzances (Creuse) ;
+
 Hôpital local, à Belves, et maison de retraite, à Villefranche-du-Périgord (Dordogne).
 
 Hôpital local, à Saint-Astier (Dordogne).
@@ -58,6 +60,8 @@ Centre de soins des Tilleroyes, à Besançon (Doubs).
 
 Maison de retraite, à Mamirolle (Doubs).
 
+Centre de réadaptation de Quingey (Doubs).
+
 Hôpital local, à Dieulefit (Drôme).
 
 Maisons de retraite, à Saint-Paul-Trois-Châteaux et à Tulette (Drôme).
@@ -66,17 +70,19 @@ Hôpital local, au Vigan, et maison de retraite, à Sumène (Gard).
 
 Maison de retraite, à Saint-Ambroix (Gard).
 
-Hôpital local, à Pont-Saint-Esprit (Gard).
-
 Maison de retraite, à Villeneuve-lès-Avignon (Gard).
 
 Centre hospitalier, à Ponteils (Gard).
 
 Hôpital local, à Nogaro (Gers).
 
+Hôpital local, à Lectoure (Gers).
+
 Hôpital local, au Grand-Fougeray (Ille-et-Vilaine).
 
-Hôpital local, à Saint-Brice-en-Cogles (Ille-et-Vilaine).
+Établissement d'hébergement pour personnes âgées dépendantes, à Bléré (Indre-et-Loire).
+
+Etablissements d'hébergement pour personnes âgées dépendantes à Preuilly-sur-Claise et à La Celle-Guenand (Indre-et-Loire) ;
 
 Hôpital local, à La Tour-du-Pin (Isère).
 
@@ -118,13 +124,19 @@ Centre hospitalier, à Sézanne (Marne).
 
 Maison de retraite, à Ligny-en-Barrois (Meuse).
 
+Hôpital local intercommunal 3 H Santé, à Badonviller (Meurthe-et-Moselle).
+
 Hôpital local, à Carentoir (Morbihan).
 
 Hôpital local, à Guémené-sur-Scorff (Morbihan).
 
 Hôpital local, au Palais (Morbihan).
 
+Centre hospitalier de Port-Louis (Morbihan).
+
 Hôpital, à Comines (Nord).
+
+Etablissement d'hébergement pour personnes âgées dépendantes de Rabastens-de-Bigorre (Hautes-Pyrénées).
 
 Maisons de retraite, à Millas et à Vinca (Pyrénées-Orientales).
 
@@ -162,9 +174,9 @@ Hôpital local, à Négrepelisse (Tarn-et-Garonne).
 
 Maisons de retraite, à Châteauneuf-la-Forêt et à Eymoutiers (Haute-Vienne).
 
-Hôpital local, au Thillot (Vosges).
+Hôpital intercommunal Monts et Barrages, à Saint-Léonard-de-Noblat (Haute-Vienne).
 
-Maison de retraite, à Saint-Sauveur-en-Puisaye (Yonne).
+Hôpital local, au Thillot (Vosges).
 
 Hôpital local, à Villeneuve-sur-Yonne (Yonne).
 
