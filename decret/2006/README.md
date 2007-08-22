@@ -78,6 +78,7 @@
 - [Décret n°2006-1371 du 9 novembre 2006 (AGRP0602015D)](decret-n2006-1371-du-9-novembre-2006-agrp0602015d)
 - [Décret n°2006-1366 du 10 novembre 2006 (SOCU0611880D)](decret-n2006-1366-du-10-novembre-2006-socu0611880d)
 - [Décret n°2006-1370 du 10 novembre 2006 (SANS0624118D)](decret-n2006-1370-du-10-novembre-2006-sans0624118d)
+- [Décret n°2006-534 du 10 mai 2006 (EQUT0600631D)](decret-n2006-534-du-10-mai-2006-equt0600631d)
 - [Décret du 11 juillet 2006 (AGRP0600940D)](decret-du-11-juillet-2006-agrp0600940d)
 - [Décret du 11 juillet 2006 (AGRP0600941D)](decret-du-11-juillet-2006-agrp0600941d)
 - [Décret n°2006-1244 du 11 octobre 2006 (INTA0600221D)](decret-n2006-1244-du-11-octobre-2006-inta0600221d)
