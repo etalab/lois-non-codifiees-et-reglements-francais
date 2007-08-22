@@ -6,7 +6,7 @@ Sont dispensés de la condition de l'article 3 (6°) sous réserve d'une certain
 
 2° Les professeurs et anciens professeurs ainsi que les maîtres de conférences et anciens maîtres de conférences de droit ou de sciences économiques ;
 
-3° Les maîtres-assistants et anciens maîtres-assistants ainsi que les chargés de cours et anciens chargés de cours, docteurs en droit, ayant accompli cinq années au moins d'enseignement juridique dans un établissement d'enseignement supérieur ;
+3° Les anciens maîtres-assistants, docteurs en droit, ayant accompli postérieurement à leur doctorat cinq années au moins d'enseignement juridique dans un établissement d'enseignement du second degré ou supérieur ;
 
 4° Les anciens avocats à la Cour de cassation et au Conseil d'Etat ayant au moins deux ans de fonctions ;
 
@@ -22,4 +22,4 @@ Sont dispensés de la condition de l'article 3 (6°) sous réserve d'une certain
 
 10° Les anciens syndics et administrateurs judiciaires, les anciens administrateurs judiciaires et mandataires liquidateurs ayant exercé leurs fonctions pendant deux ans au moins.
 
-11° Les anciens huissiers de justice et les anciens greffiers des tribunaux de commerce ayant exercé leurs fonctions pendant au moins cinq ans *durée*.
+11° Les anciens huissiers de justice et les anciens greffiers des tribunaux de commerce ayant exercé leurs fonctions pendant au moins cinq ans.

@@ -8,4 +8,4 @@ L'un ou l'autre des deux professeurs de droit ;
 
 Deux notaires que choisissent parmi eux les notaires membres du conseil d'administration ;
 
-Deux clercs que choisissent parmi eux les clercs membres du conseil d'administration.
+Deux collaborateurs que choisissent parmi eux les collaborateurs membres du conseil d'administration.

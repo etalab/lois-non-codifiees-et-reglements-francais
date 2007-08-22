@@ -12,7 +12,7 @@ b) Soit par un pays tiers, à condition que soit fournie une attestation émanan
 
 Sauf si les connaissances qu'il a acquises au cours de son expérience professionnelle sont de nature à rendre cette vérification inutile, l'intéressé doit subir devant le jury prévu à l'article 6 un examen d'aptitude dont le programme et les modalités sont fixés par arrêté du garde des sceaux, ministre de la justice :
 
-1° Lorsque sa formation porte sur des matières substantiellement différentes de celles qui figurent aux programmes des diplômes et des examens professionnels mentionnés à l'article 1er ;
+1° Lorsque sa formation porte sur des matières substantiellement différentes de celles qui figurent aux programmes des diplômes et des examens professionnels mentionnés à l'article 3 ;
 
 2° Ou lorsqu'une ou plusieurs des activités professionnelles dont l'exercice est subordonné à la possession de ces diplômes et examens ne sont pas réglementées dans l'Etat membre d'origine ou de provenance ou sont réglementées de manière différente et que cette différence est caractérisée par une formation spécifique requise dans l'Etat membre d'accueil portant sur des matières substantiellement différentes de celles couvertes par le diplôme dont le demandeur fait état.
 

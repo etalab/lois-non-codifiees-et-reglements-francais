@@ -2,9 +2,9 @@
 
 Il est institué un centre national de l'enseignement professionnel notarial chargé d'exercer, outre les attributions particulières énoncées dans les titres Ier, II III et V, les attributions générales ci-après :
 
-1° Orienter, coordonner et contrôler les diverses actions de formation des centres de formation professionnelle et des écoles de notariat ;
+1° Orienter, coordonner et contrôler les diverses actions de formation des centres de formation professionnelle et des instituts des métiers du notariat ;
 
-2° Aménager les relations entre les centres de formation professionnelle et les écoles de notariat, d'une part, la profession notariale, les universités et les professions dont les activités sont en rapport avec celles de la profession notariale, d'autre part ;
+2° Aménager les relations entre les centres de formation professionnelle et les instituts des métiers du notariat, d'une part, la profession notariale, les universités et les professions dont les activités sont en rapport avec celles de la profession notariale, d'autre part ;
 
 3° Gérer l'école d'enseignement par correspondance et organiser, le cas échéant, tous autres modes de formation ;
 

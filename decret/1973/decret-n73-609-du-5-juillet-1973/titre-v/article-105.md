@@ -1,6 +1,6 @@
 # Article 105
 
-Les recettes des centres de formation professionnelle, des écoles de notariat, du Centre national de l'enseignement professionnel notarial et de l'Ecole nationale d'enseignement par correspondance comprennent :
+Les recettes des centres de formation professionnelle, des instituts des métiers du notariat, du Centre national de l'enseignement professionnel notarial et de l'Ecole nationale d'enseignement par correspondance comprennent :
 
 1° Le montant des droits de scolarité et d'examen ;
 

@@ -10,7 +10,7 @@ Après le 1er octobre 1973 pourront être nommés notaire, dans un office situé
 
 Trois ans si les intéressés remplissent la condition prévue à l'article 3 (5°) ou s'ils sont titulaires du diplôme de premier clerc du nouveau régime ;
 
-Quatre ans si les intéressés sont titulaires du diplôme d'une école de notariat prévue par le décret du 1er mai 1905 ;
+Quatre ans si les intéressés sont titulaires du diplôme d'un institut des métiers du notariat prévue par le décret du 1er mai 1905 ;
 
 Six ans dans les autres cas.
 
