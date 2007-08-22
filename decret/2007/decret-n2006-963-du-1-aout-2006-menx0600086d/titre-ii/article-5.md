@@ -20,4 +20,4 @@ nommés, ainsi que leurs suppléants, par arrêté du ministre chargé de la rec
 
 Leur mandat est de trois ans renouvelable une fois.
 
-En cas de vacance par décès, démission ou pour toute autre cause que ce soit, de l'un des membres du conseil d'administration, il est pourvu à son remplacement. Les membres nommés au titre du 2° le sont pour la durée restant à courir du mandat de leur prédécesseur.
+En cas de vacance par décès, démission ou pour toute autre cause que ce soit, de l'un des membres du conseil d'administration, il est pourvu à son remplacement. Les membres nommés au titre du 3° le sont pour la durée restant à courir du mandat de leur prédécesseur.

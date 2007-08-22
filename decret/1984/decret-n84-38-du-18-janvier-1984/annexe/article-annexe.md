@@ -367,3 +367,5 @@ Emplois de catégories B et C nécessaires à l'information, la médiation, l'am
 ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
 
 Agence nationale des titres sécurisés : emplois de catégories A et B requérant des compétences spécialisées dans les domaines des technologies et des systèmes d'information indispensables à la conception et à la gestion des titres sécurisés.
+
+Agence nationale de la recherche : emplois de catégorie A et B nécessaires à l'expertise scientifique et juridique ainsi qu'à l'assistance technique dans tous les domaines de la science fondamentale et appliquée.
