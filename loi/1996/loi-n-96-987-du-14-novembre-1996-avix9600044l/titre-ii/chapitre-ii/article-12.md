@@ -1,6 +1,6 @@
 # Article 12
 
-I. - Les gains et rémunérations, au sens de l'article L. 242-1 du code de la sécurité sociale ou de l'article 1031 du code rural, versés au cours d'un mois civil aux salariés employés par un établissement implanté dans une des zones franches urbaines mentionnées au B du 3 de l'article 42 de la loi n° 95-115 du 4 février 1995 précitée, lequel doit disposer d'éléments d'exploitation ou de stocks nécessaires à l'activité de ces salariés, sont, dans les conditions fixées aux II, III et IV, exonérés des cotisations à la charge de l'employeur au titre des assurances sociales, des allocations familiales, des accidents du travail ainsi que du versement de transport et des contributions et cotisations au Fonds national d'aide au logement, dans la limite du produit du nombre d'heures rémunérées par le montant du salaire minimum de croissance majoré de 50 p. 100 jusqu'au 31 décembre 2005 inclus et, pour les gains et rémunérations versés à compter du 1er janvier 2006, dans la limite du produit du nombre d'heures rémunérées par le montant du salaire minimum de croissance majoré de 40 %.
+I. - Les gains et rémunérations, au sens de l'article L. 242-1 du code de la sécurité sociale ou de l'article 1031 du code rural, versés au cours d'un mois civil aux salariés employés par un établissement implanté dans une des zones franches urbaines mentionnées au B du 3 de l'article 42 de la loi n° 95-115 du 4 février 1995 précitée, lequel doit disposer d'éléments d'exploitation ou de stocks nécessaires à l'activité de ces salariés, sont, dans les conditions fixées aux II, III et IV, exonérés des cotisations à la charge de l'employeur au titre des assurances sociales, des allocations familiales, des accidents du travail ainsi que du versement de transport et des contributions et cotisations au Fonds national d'aide au logement, dans la limite du produit du nombre d'heures rémunérées par le montant du salaire minimum de croissance majoré de 50 % jusqu'au 31 décembre 2005 inclus et, pour les gains et rémunérations versés à compter du 1er janvier 2006, dans la limite du produit du nombre d'heures rémunérées par le montant du salaire minimum de croissance majoré de 40 %.
 
 L'exonération est ouverte au titre de l'emploi de salariés dont l'activité réelle, régulière et indispensable à l'exécution du contrat de travail s'exerce en tout ou partie dans une zone franche urbaine.
 
@@ -8,7 +8,7 @@ II. - Dans les zones franches urbaines figurant sur la liste indiquée au I de l
 
 1° Soit leur activité relève des secteurs dont la liste, définie selon la nomenclature des activités françaises, est annexée à la présente loi ;
 
-2° Soit, si leur activité relève d'autres secteurs que ceux mentionnés au 1°, la part du chiffre d'affaires afférent aux livraisons intracommunautaires et à l'exportation réalisé au cours de la période du 1er janvier 1994, ou de la date de début d'activité si celle-ci est postérieure, au 31 décembre 1996 n'excède pas 15 p. 100 du chiffre d'affaires total hors taxes réalisé pendant la même période.
+2° Soit, si leur activité relève d'autres secteurs que ceux mentionnés au 1°, la part du chiffre d'affaires afférent aux livraisons intracommunautaires et à l'exportation réalisé au cours de la période du 1er janvier 1994, ou de la date de début d'activité si celle-ci est postérieure, au 31 décembre 1996 n'excède pas 15 % du chiffre d'affaires total hors taxes réalisé pendant la même période.
 
 Les conditions visées aux deux précédents alinéas ne sont pas opposables aux établissements situés dans les zones franches urbaines des communes des départements d'outre-mer. Ces dispositions cessent d'être applicables le 31 décembre 2007.
 
@@ -52,7 +52,7 @@ V ter. - Par dérogation aux dispositions du V, l'exonération prévue au I est 
 
 Pour les implantations ou créations intervenues entre le 1er janvier et le 31 décembre 2002, l'exonération prévue au I est applicable pendant cinq ans à compter du 1er janvier 2003 pour les salariés mentionnés au IV présents à cette date, sans préjudice de l'application des dispositions du III bis, celles prévues au dernier alinéa du III étant applicables aux emplois transférés à compter du 1er janvier 2003. ;
 
-V quater. -  L'exonération est applicable aux gains et rémunérations versés par les entreprises mentionnées au II bis qui exercent, s'implantent, ou sont créées ou créent un établissement dans l'une des zones franches urbaines définies au B du 3 de l'article 42 de la loi n° 95-115 du 4 février 1995 précitée et figurant sur la liste arrêtée au I bis de l'annexe à la présente loi entre le 1er janvier 2004 et le 31 décembre 2011 inclus.
+V quater  -  L'exonération est applicable aux gains et rémunérations versés par les entreprises mentionnées au II bis qui exercent, s'implantent, ou sont créées ou créent un établissement dans l'une des zones franches urbaines définies au B du 3 de l'article 42 de la loi n° 95-115 du 4 février 1995 précitée et figurant sur la liste arrêtée au I bis de l'annexe à la présente loi entre le 1er janvier 2004 et le 31 décembre 2011 inclus.
 
 L'exonération est applicable pour les salariés mentionnés au IV pendant une période de cinq ans à compter du 1er janvier 2004 ou de la création ou implantation de l'entreprise si elle est postérieure.
 
@@ -70,8 +70,6 @@ Sous réserve de l'application du quatrième alinéa du III et des dispositions 
 
 VI. - Le droit à l'exonération prévue au I est subordonné à la condition que l'employeur soit à jour de ses obligations à l'égard de l'organisme de recouvrement des cotisations de sécurité sociale et d'allocations familiales ou ait souscrit un engagement d'apurement progressif de ses dettes.
 
-Le bénéfice de l'exonération ne peut être cumulé, pour l'emploi d'un même salarié, avec celui d'une aide de l'Etat à l'emploi ou d'une autre exonération totale ou partielle de cotisations patronales de sécurité sociale ou l'application de taux spécifiques, d'assiettes ou montants forfaitaires de cotisations.
+Le bénéfice de l'exonération ne peut être cumulé, pour l'emploi d'un même salarié, avec celui d'une aide de l'Etat à l'emploi ou d'une autre exonération totale ou partielle de cotisations patronales de sécurité sociale ou l'application de taux spécifiques, d'assiettes ou montants forfaitaires de cotisations, à l'exception de la déduction forfaitaire prévue à l'article L. 241-18 du code de la sécurité sociale.
 
 Pour bénéficier de l'exonération prévue au I, l'employeur doit adresser à l'autorité administrative désignée par décret et à l'organisme de recouvrement des cotisations une déclaration des mouvements de main-d'oeuvre intervenus au cours de l'année précédente, ainsi que de chaque embauche. A défaut de réception de la déclaration dans les délais fixés par décret, le droit à l'exonération n'est pas applicable au titre des gains et rémunérations versés pendant la période comprise, selon les cas, entre le 1er janvier de l'année ou la date de l'embauche, et l'envoi de la déclaration ; cette période étant imputée sur la période de cinq ans mentionnée au V..
-
-VII. Abrogé

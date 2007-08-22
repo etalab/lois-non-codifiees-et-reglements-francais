@@ -20,7 +20,7 @@ En cas d'implantation, d'extension ou de création dans une zone d'aide à final
 
 Le droit à l'exonération prévue au premier alinéa est subordonné à la condition que l'employeur soit à jour de ses obligations à l'égard de l'organisme de recouvrement des cotisations patronales de sécurité sociale et d'allocations familiales ou ait souscrit un engagement d'apurement progressif de ses dettes.
 
-Le bénéfice de l'exonération ne peut être cumulé, pour l'emploi d'un même salarié, avec celui d'une aide de l'Etat à l'emploi ou d'une exonération totale ou partielle de cotisations patronales de sécurité sociale ou l'application de taux spécifiques d'assiettes ou montants de cotisations.
+Le bénéfice de l'exonération ne peut être cumulé, pour l'emploi d'un même salarié, avec celui d'une aide de l'Etat à l'emploi ou d'une exonération totale ou partielle de cotisations patronales de sécurité sociale ou l'application de taux spécifiques d'assiettes ou montants de cotisations, à l'exception de la déduction forfaitaire prévue à l'article L. 241-18 du code de la sécurité sociale.
 
 Les conditions de mise en oeuvre du présent VII, notamment s'agissant des obligations déclaratives des employeurs, sont fixées par décret.
 
