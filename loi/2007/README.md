@@ -4,6 +4,8 @@
 - [Loi n° 2006-728 du 23 juin 2006 (JUSX0500024L)](loi-n-2006-728-du-23-juin-2006-jusx0500024l)
 - [Loi n° 2007-1198 du 10 août 2007 (JUSX0755260L)](loi-n-2007-1198-du-10-aout-2007-jusx0755260l)
 - [Loi n° 2007-1199 du 10 août 2007 (ESRX0757893L)](loi-n-2007-1199-du-10-aout-2007-esrx0757893l)
+- [Loi n° 2007-1223 du 21 août 2007 (ECEX0755909L)](loi-n-2007-1223-du-21-aout-2007-ecex0755909l)
+- [Loi n° 2007-1224 du 21 août 2007 (MTSX0757838L)](loi-n-2007-1224-du-21-aout-2007-mtsx0757838l)
 - [Loi n° 2007-127 du 30 janvier 2007 (SANX0500266L)](loi-n-2007-127-du-30-janvier-2007-sanx0500266l)
 - [Loi n° 2007-131 du 31 janvier 2007 (ECOX0600174L)](loi-n-2007-131-du-31-janvier-2007-ecox0600174l)
 - [Loi n° 2007-148 du 2 février 2007 (FPPX0600067L)](loi-n-2007-148-du-2-fevrier-2007-fppx0600067l)

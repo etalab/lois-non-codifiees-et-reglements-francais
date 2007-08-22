@@ -10,7 +10,7 @@ IV. - L'avis exprès ou tacite délivré par l'administration fiscale, saisie pa
 
 V. - L'exonération prévue au I est applicable au plus jusqu'au dernier jour de la septième année suivant celle de la création de l'entreprise. Toutefois, si au cours d'une année l'entreprise ne satisfait plus à l'une des conditions requises pour bénéficier du statut de jeune entreprise innovante réalisant des projets de recherche et de développement et fixées par l'article 44 sexies-0 A du code général des impôts, elle perd définitivement le bénéfice de l'exonération prévue au I.
 
-VI. - Le bénéfice des dispositions du présent article ne peut être cumulé, pour l'emploi d'un même salarié, ni avec une aide d'Etat à l'emploi, ni avec une autre exonération totale ou partielle de cotisations patronales, ni avec l'application de taux spécifiques, d'assiettes ou de montants forfaitaires de cotisations.
+VI. - Le bénéfice des dispositions du présent article ne peut être cumulé, pour l'emploi d'un même salarié, ni avec une aide d'Etat à l'emploi, ni avec une autre exonération totale ou partielle de cotisations patronales, ni avec l'application de taux spécifiques, d'assiettes ou de montants forfaitaires de cotisations, à l'exception de la déduction forfaitaire prévue à l'article L. 241-18 du code de la sécurité sociale.
 
 VII. - Le droit à l'exonération est subordonné à la condition que l'entreprise ait rempli ses obligations de déclaration et de paiement à l'égard de l'organisme de recouvrement des cotisations de sécurité sociale et d'allocations familiales.
 

@@ -1,0 +1,5 @@
+# Article 6
+
+I.-Dès le début de la grève, les parties au conflit peuvent décider de désigner un médiateur, choisi d'un commun accord, aux fins de favoriser le règlement amiable de leurs différends. Le médiateur dispose, pour exercer sa mission, des pouvoirs mentionnés à l'article L. 524-2 du code du travail. Il veille à la loyauté et à la sincérité de la consultation éventuellement organisée en application du II du présent article.
+
+II.-Au-delà de huit jours de grève, l'employeur, une organisation syndicale représentative ou le médiateur éventuellement désigné peut décider l'organisation par l'entreprise d'une consultation, ouverte aux salariés concernés par les motifs figurant dans le préavis, et portant sur la poursuite de la grève. Les conditions du vote sont définies, par l'employeur, dans les vingt-quatre heures qui suivent la décision d'organiser la consultation. L'employeur en informe l'inspecteur du travail. La consultation est assurée dans des conditions garantissant le secret du vote. Son résultat n'affecte pas l'exercice du droit de grève.

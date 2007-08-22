@@ -1,0 +1,7 @@
+# Article 2
+
+Pendant la période de dépôt des demandes d'autorisation ouverte, conformément à l'article R. 6122-29 du code de la santé publique, dans les six mois suivant la publication des dispositions du schéma interrégional d'organisation sanitaire applicable, les établissements de santé qui, à la date de publication du présent décret, exercent l'activité de soins mentionnée au 9° de l'article R. 6122-25 du code de la santé publique, doivent demander l'autorisation prévue à l'article R. 6123-112 du même code. Les demandeurs peuvent poursuivre leurs activités jusqu'à ce qu'il ait été statué sur leur demande dans les conditions prévues à l'article L. 6122-9.
+
+Sous réserve que soient remplies les conditions prévues aux 1° et 2° de l'article L. 6122-2 du code de la santé publique, cette autorisation leur est accordée à condition qu'ils se mettent en conformité, dans un délai de trois ans, à compter de la date de publication du présent décret, avec les dispositions des articles R. 6123-111 à R. 6123-117 du code de la santé publique, ainsi qu'avec les conditions techniques de fonctionnement fixées en application de l'article L. 6124-1 du même code.
+
+Si, à l'expiration de ces délais, il est constaté que l'établissement de santé ne s'est pas mis en conformité avec les dispositions du code de la santé publique mentionnées à l'alinéa précédent, l'autorisation fait l'objet des mesures prévues à l'article L. 6122-13 du code de la santé publique.

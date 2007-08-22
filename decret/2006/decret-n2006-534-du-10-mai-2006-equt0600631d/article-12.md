@@ -1,6 +1,6 @@
 # Article 12
 
-Les jeunes âgés de moins de dix-huit ans, les apprentis, les élèves des établissements d'enseignement professionnel, publics ou privés, peuvent être autorisés, au cours de leur formation professionnelle, à effectuer les travaux ou utiliser les machines ou appareils dont l'usage est proscrit aux articles 11 et 12 dans les conditions définies par le présent article.
+Les jeunes âgés de moins de dix-huit ans, les apprentis, les élèves des établissements d'enseignement professionnel, publics ou privés, peuvent être autorisés, au cours de leur formation professionnelle, à effectuer les travaux ou utiliser les machines ou appareils dont l'usage est proscrit aux articles 10 et 11 dans les conditions définies par le présent article.
 
 Cette autorisation est accordée par l'inspecteur du travail maritime, après avis favorable du médecin du service de santé des gens de mer, du médecin du travail ou du médecin chargé de la surveillance des élèves ainsi que du professeur ou du moniteur d'atelier responsable.
 
