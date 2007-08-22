@@ -297,7 +297,6 @@
 - [Décret n°92-1198 du 9 novembre 1992 (INTB9200468D)](decret-n92-1198-du-9-novembre-1992-intb9200468d)
 - [Décret n°92-1301 du 9 décembre 1992 (INDA9200833D)](decret-n92-1301-du-9-decembre-1992-inda9200833d)
 - [Décret n°92-238 du 9 mars 1992 (DOMP9200008D)](decret-n92-238-du-9-mars-1992-domp9200008d)
-- [Décret n°92-28 du 9 janvier 1992 (MENN9102861D)](decret-n92-28-du-9-janvier-1992-menn9102861d)
 - [Décret n°92-29 du 9 janvier 1992 (MENN9102862D)](decret-n92-29-du-9-janvier-1992-menn9102862d)
 - [Décret n°92-30 du 9 janvier 1992 (MENN9102863D)](decret-n92-30-du-9-janvier-1992-menn9102863d)
 - [Décret n°92-32 du 9 janvier 1992 (MENN9102865D)](decret-n92-32-du-9-janvier-1992-menn9102865d)
