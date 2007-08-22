@@ -105,6 +105,7 @@
 - [Décret n° 2007-17 du 4 janvier 2007 (JUSB0610751D)](decret-n-2007-17-du-4-janvier-2007-jusb0610751d)
 - [Décret n° 2007-20 du 4 janvier 2007 (MCCB0600990D)](decret-n-2007-20-du-4-janvier-2007-mccb0600990d)
 - [Décret n° 2007-21 du 4 janvier 2007 (DEVN0640070D)](decret-n-2007-21-du-4-janvier-2007-devn0640070d)
+- [Décret n°2002-1247 du 4 octobre 2002 (PRMG0270625D)](decret-n2002-1247-du-4-octobre-2002-prmg0270625d)
 - [Décret n°2007-1176 du 4 août 2007 (PRMX0701886D)](decret-n2007-1176-du-4-aout-2007-prmx0701886d)
 - [Décret n°2007-510 du 4 avril 2007 (MCCB0700270D)](decret-n2007-510-du-4-avril-2007-mccb0700270d)
 - [Décret n°2007-515 du 4 avril 2007 (BUDF0720517D)](decret-n2007-515-du-4-avril-2007-budf0720517d)
