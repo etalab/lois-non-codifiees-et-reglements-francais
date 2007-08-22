@@ -1,3 +1,3 @@
 # Article 19
 
-Les conservateurs stagiaires qui démissionnent à l'issue de leur scolarité ou ne souscrivent pas l'engagement prévu à l'article précédent et les conservateurs qui démissionnent dans le délai de dix ans à compter de la date de leur nomination dans le corps sont tenus de reverser à l'Etat une indemnité équivalente au montant des traitements et indemnités perçus lors de cette scolarité. Le montant de cette indemnité peut être réduit en fonction de la durée de service effectuée dans le corps.
+Le montant de l'indemnité due, en cas de démission d'un conservateur ou d'un conservateur en chef, en application de l'engagement souscrit par les conservateurs stagiaires conformément à l'article 12, peut être réduit par arrêté du ministre en charge de la culture, en fonction notamment de la durée des services effectués dans le corps.

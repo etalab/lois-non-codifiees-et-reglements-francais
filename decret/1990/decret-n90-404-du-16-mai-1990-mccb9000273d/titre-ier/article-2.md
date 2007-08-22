@@ -1,13 +1,11 @@
 # Article 2
 
-Le corps des conservateurs du patrimoine comporte les grades suivants :
+Le corps des conservateurs du patrimoine comprend deux grades :
 
-- conservateur en chef comprenant six échelons ;
+1° Conservateur en chef comprenant 6 échelons ;
 
-- conservateur de 1re classe comprenant cinq échelons ;
+2° Conservateur comprenant 7 échelons et deux échelons de stage.
 
-- conservateur de 2e classe comprenant un échelon de stage et trois échelons.
-
-Les conservateurs du patrimoine sont nommés dans les conditions prévues à l'article 10 ci-dessous.
+Les conservateurs du patrimoine sont nommés dans les conditions prévues au titre II du présent décret.
 
 Le Premier ministre prononce les sanctions disciplinaires des troisième et quatrième groupes sur le rapport du ministre chargé de la culture. Celui-ci prend toutes les décisions relatives à la gestion des intéressés. Les mesures d'affectation dans un autre ministère sont prononcées par arrêté conjoint du ministre chargé de la culture et du ministre affectataire.

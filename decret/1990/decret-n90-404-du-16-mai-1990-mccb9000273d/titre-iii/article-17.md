@@ -1,5 +1,5 @@
 # Article 17
 
-Les conservateurs stagiaires qui ne terminent pas leur scolarité ne peuvent se prévaloir de la qualité d'ancien élève de l'Institut national du patrimoine et doivent rembourser le montant des traitements et indemnités qu'ils ont perçus au cours de leur scolarité.
+Par arrêté du ministre chargé de la culture pris sur proposition du directeur de l'Institut national du patrimoine, les conservateurs stagiaires qui ne terminent pas leur scolarité ou ne sont pas titularisés peuvent être dispensés de tout ou partie du remboursement des traitements et indemnités qu'ils ont perçus au cours de leur scolarité découlant de l'engagement prévu à l'article 12.
 
-Ils peuvent être dispensés de tout ou partie de ce remboursement par arrêté du ministre chargé de la culture pris sur proposition du directeur de l'Institut national du patrimoine et après avis du conseil d'administration de celle-ci. Les élèves dont la scolarité a été interrompue pour une cause qui ne leur est pas imputable en sont dispensés de plein droit.
+Les conservateurs stagiaires qui ne terminent pas leur scolarité et ceux qui n'ont pas obtenu leur diplôme ne peuvent se prévaloir de la qualité d'ancien élève de l'Institut national du patrimoine.
