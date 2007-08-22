@@ -54,11 +54,17 @@ Moyens de transport et organisation du service
 
 4.5. L'opérateur de transport peut demander au sous-traitant de s'équiper en matériels et logiciels compatibles avec ceux dont il est lui-même doté afin d'assurer la continuité de la circulation des informations nécessaires à la bonne exécution du contrat de transport.
 
-4.6. L'opérateur de transport peut demander au sous-traitant, conformément aux pratiques commerciales courantes, que le personnel et/ou le matériel de ce dernier portent ses couleurs et sa marque ou celles de l'un de ses clients. Il lui appartient de formuler cette demande par écrit et de prévoir, en accord avec le sous-traitant, les conditions et modalités de fourniture des tenues et de la mise aux couleurs. De même devront être prévues les modalités de restitution des tenues et du retour à l'état initial du matériel.
+4.6. Afin d'assurer la prévention et la protection contre les risques d'atteinte aux personnes et aux marchandises, l'opérateur de transport peut demander au sous-traitant d'installer les matériels de géolocalisation permettant de situer le ou les véhicules et les marchandises. Le sous-traitant gère la géolocalisation mise en place.
 
-4.7. Dans tous les cas, le sous-traitant a le choix de ses clients et la libre utilisation de ses moyens sans que l'opérateur de transport ne puisse s'y opposer d'une façon quelconque.
+Il appartient au donneur d'ordre de formuler cette demande par écrit et de prévoir, en accord avec le sous-traitant, les conditions et modalités de fourniture, à titre de prêt, des matériels visés ci-dessus. De même, devront être prévues les modalités de restitution desdits matériels.
 
-4.8. En tout état de cause, l'opérateur de transport s'interdit toute immixtion dans la gestion de l'entreprise sous-traitante.
+4.7. Dans le but de faciliter l'identification de l'opérateur de transport, d'assurer la sécurité et la sûreté des personnes et des marchandises, celui-ci peut aussi, à cette fin, demander au sous-traitant, conformément aux pratiques commerciales courantes, que le personnel et/ou le matériel de ce dernier portent ses couleurs et sa marque ou celles de l'un de ses clients.
+
+Il lui appartient de formuler cette demande par écrit et de prévoir, en accord avec le sous-traitant, les conditions et les modalités de fourniture des tenues et de la mise aux couleurs. De même devront être prévues les modalités de restitution des tenues et du retour à l'état initial du matériel de transport.
+
+4.8. Dans tous les cas, le sous-traitant a le choix de ses clients et la libre utilisation de ses moyens sans que l'opérateur de transport ne puisse s'y opposer d'une façon quelconque.
+
+4.9. En tout état de cause, l'opérateur de transport s'interdit toute immixtion dans la gestion de l'entreprise sous-traitante.
 
 Article 5
 
@@ -86,31 +92,55 @@ Obligations de l'opérateur de transport
 
 6.1.1. Obligations administratives.
 
-Conformément aux dispositions de l'article 8 du décret n° 90-200 du 5 mars 1990 modifié ou à celles de l'article 16 du décret n° 99-752 du 30 août 1999, l'opérateur de transport s'assure, préalablement à la conclusion du contrat, que le sous-traitant auquel il s'adresse est habilité à exécuter les opérations qui vont lui être confiées.
+Conformément aux dispositions de l'article 8 du décret n° 90-200 du 5 mai 1990 modifié ou à celles de l'article 16 du décret n° 99-752 du 30 août 1999 modifié, l'opérateur du transport s'assure préalablement à la conclusion du contrat que le sous-traitant auquel il s'adresse est habilité à exécuter les opérations qui vont lui être confiées.
 
 A cet effet, l'opérateur de transport se fait remettre par le sous-traitant :
 
-1. Les documents apportant la preuve qu'il est régulièrement inscrit au registre des transporteurs et qu'il dispose des titres d'exploitation des véhicules qu'il utilise (photocopie de la licence communautaire ou de la licence de transport intérieur ou d'un autre titre d'exploitation) ;
+6.1.1.1. Les documents apportant la preuve de ce qu'il est régulièrement inscrit au registre des transporteurs et des loueurs, et de ce qu'il dispose des titres d'exploitation des véhicules qu'il utilise (photocopie de la licence communautaire ou de la licence de transport intérieur, ou d'un autre titre d'exploitation).
 
-2. Tout autre document exigé par la réglementation en vigueur.
+6.1.1.2. Tout autre document exigé par la réglementation en vigueur.
 
 6.1.2. Obligations sociales et fiscales.
 
-L'opérateur de transport procède également aux vérifications exigées par les articles L. 324-14 et R. 324-4 du code du travail relatif à la lutte contre le travail dissimulé dès lors que le contrat porte sur une obligation dont le montant est au moins égal au seuil fixé par lesdits articles.
+L'opérateur de transport procède également, avant la conclusion du contrat et tous les six mois jusqu'à la fin de l'exécution, aux vérifications exigées par les articles L. 324-14 et R. 324-4 du code du travail relatifs à la lutte contre le travail dissimulé, dès lors que le contrat porte sur l'obligation dont le montant est au moins égal au seuil fixé par lesdits articles.
 
 En conséquence, l'opérateur de transport se fait délivrer par le sous-traitant :
 
-1. Un extrait K bis de son inscription au registre du commerce datant de moins de trois mois (ou éventuellement un certificat d'inscription au répertoire des métiers) ou un récépissé de dépôt de déclaration auprès d'un centre de formalités des entreprises pour les personnes physiques ou morales ayant commencé leur activité depuis moins d'un an ;
+6.1.2.1. L'un des documents suivants :
 
-2. L'un des deux documents suivants :
+a) Un extrait K bis de son inscription au registre du commerce et des sociétés datant de moins de trois mois, ou éventuellement une carte d'identification justifiant de son inscription au répertoire des métiers ;
 
-a) Une attestation de fourniture de déclarations sociales émanant de l'organisme de protection sociale chargé du recouvrement des cotisations sociales incombant au sous-traitant et datant de moins d'un an ;
+b) Un récépissé de dépôt de déclaration auprès d'un centre de formalités des entreprises pour les personnes physiques ou morales en cours d'inscription ;
 
-b) L'avis d'imposition afférent à la taxe professionnelle pour l'exercice précédent.
+c) Un devis, un document publicitaire ou une correspondance professionnelle, à condition qu'y soient mentionnés le nom ou la dénomination sociale, l'adresse complète et le numéro d'immatriculation au registre du commerce et des sociétés ou au répertoire des métiers.
 
-Il se fait remettre également par le sous-traitant une attestation sur l'honneur d'employer de façon régulière des salariés eux-mêmes autorisés à exercer une activité professionnelle sur le territoire français.
+6.1.2.2. Dans tous les cas, les documents suivants :
 
-Les directives générales données par l'opérateur de transport au conducteur du sous-traitant concernant les opérations de transport, notamment les points de chargement et de déchargement, les délais de livraison, les itinéraires, doivent être compatibles avec le respect des durées de travail ainsi que des temps de conduite et de repos. Les manquements qui sont imputables à l'opérateur de transport engagent sa responsabilité conformément aux dispositions de l'article 9 de la loi n° 82-1153 du 30 décembre 1982.
+a) Une attestation de fournitures de déclarations sociales émanant de l'organisme de protection sociale chargé du recouvrement des cotisations et des contributions sociales incombant au sous-traitant et datant de moins de six mois ;
+
+b) L'avis d'imposition afférent à la taxe professionnelle pour l'exercice précédent ;
+
+c) Lorsque des salariés sont employés par le sous-traitant, une attestation sur l'honneur - établie par ce dernier à la date de signature du contrat et tous les six mois jusqu'à la fin de l'exécution de celui-ci - de la réalisation du travail, soit par lesdits salariés employés régulièrement au regard des articles L. 320, L. 143-3 et R. 143-2 du code du travail, soit par des salariés eux-mêmes autorisés à exercer une activité professionnelle sur le territoire français.
+
+6.1.2.3. Lorsque le sous-traitant n'est pas établi en France, l'opérateur de transport est considéré comme ayant procédé aux vérifications imposées par l'article L. 324-142 du code du travail quand il s'est fait remettre par le sous-traitant, lors de la conclusion du contrat et tous les six mois jusqu'à la fin de l'exécution de celui-ci :
+
+a) Un document mentionnant son numéro individuel d'identification attribué en application de l'article 286 ter du code général des impôts ou, si le sous-traitant n'est pas tenu d'avoir un tel numéro, un document mentionnant soit son identité et son adresse, soit, le cas échéant, les coordonnées de son représentant fiscal ponctuel en France ;
+
+b) Un document attestant la régularité de la situation sociale du sous-traitant, au regard soit du règlement (CEE) n° 1408/71 du 14 janvier 1971, soit d'une convention internationale de sécurité sociale, ou, à défaut, une attestation de déclarations sociales émanant de l'organisation française de protection sociale chargée du recouvrement des cotisations sociales incombant au sous-traitant, et datant de moins de six mois ;
+
+c) Par ailleurs, lorsque l'immatriculation du sous-traitant à un registre professionnel est obligatoire dans le pays d'établissement ou de domiciliation :
+
+i) soit un document émanant des autorités tenant le registre professionnel ou un document équivalent certifiant cette inscription ;
+
+ii) soit un devis, un document publicitaire ou une correspondance professionnelle, à condition qu'y soient mentionnés le nom ou la dénomination sociale, l'adresse complète et la nature de l'inscription au registre professionnel ;
+
+iii) soit, pour les entreprises en cours de création, un document datant de moins de six mois émanant de l'autorité habilitée à recevoir l'inscription au registre professionnel et attestant de la demande d'immatriculation audit registre ;
+
+d) Lorsque des salariés sont employés par le sous-traitant pour effectuer une prestation de service d'une durée supérieure à un mois, une attestation sur l'honneur établie par celui-ci, à la date de signature du contrat et tous les six mois jusqu'à la fin de son exécution, certifiant la fourniture à ses salariés du bulletin de paye comportant les mentions prévues à l'article R. 143-2 du code du travail, ou de documents équivalents.
+
+Les documents et attestations énumérés ci-dessus (art. 6.1.2.3) doivent être rédigés en langue française ou être accompagnés d'une traduction en langue française.
+
+Les directives générales données par l'opérateur de transport au conducteur du sous-traitant concernant les opérations de transport, notamment les points de chargement et de déchargement, les délais de livraison, les itinéraires, doivent être compatibles avec le respect des durées de travail ainsi que des temps de conduite et de repos. Les manquements qui sont imputables à l'opérateur de transport engagent sa responsabilité, conformément aux dispositions de l'article 9 de la loi n° 82-1153 du 30 décembre 1982.
 
 L'opérateur de transport se fait aussi communiquer le numéro d'identification intracommunautaire du sous-traitant.
 
@@ -182,7 +212,7 @@ Prix
 
 10.4. Le prix est renégocié au moins chaque année à la date anniversaire de la conclusion du contrat.
 
-10.5. Le prix de transport initialement convenu est révisé en cas de variations significatives des charges de l'entreprise de transport sous-traitante, qui tiennent à des conditions extérieures à cette dernière, tel notamment le prix des carburants, et dont la partie demanderesse justifie par tout moyen.
+10.5. Sans préjudice des dispositions des paragraphes II et III de l'article 24 de la loi n° 95-96 du 1er février 1995, le prix du transport initialement convenu est révisé en cas de variations significatives des charges de l'entreprise de transport qui tiennent à des conditions extérieures à cette dernière.
 
 10.6. Lorsque le sous-traitant est conduit à engager des frais supplémentaires, du fait des mesures prises en accord avec l'opérateur de transport, pour limiter les inconvénients résultant d'incidents survenus dans l'exécution des prestations convenues (cf. art. 7.4), ces frais font l'objet d'un complément de facturation dans les conditions fixées dans les contrats types en vigueur.
 
@@ -200,9 +230,9 @@ Facturation et modalités de paiement
 
 11.3. Toute imputation unilatérale du montant des dommages allégués sur le prix des services rendus est interdite.
 
-11.4. Le paiement est exigible à la réception de la facture. Si un délai différent est convenu, il ne peut jamais excéder 30 jours après la date de réception de la facture par l'opérateur de transport.
+11.4. Conformément aux dispositions de l'article L. 441-6, alinéa 9, du code de commerce, les parties ne peuvent convenir d'un délai de paiement supérieur à trente jours à compter de la date d'émission de la facture.
 
-11.5. Tout retard de paiement entraîne de plein droit, après mise en demeure, le versement de pénalités d'un montant au moins équivalent à une fois et demie le taux d'intérêt légal, conformément à l'article L. 441-6, alinéa 3, du code de commerce.
+11.5. Le paiement est exigible à la réception de la facture et à son lieu d'émission. Tout retard dans le paiement entraîne de plein droit, après mise en demeure, le versement de pénalités d'un montant au moins équivalent à une fois et demie le taux légal, conformément à l'article L. 441-6, alinéa 10, du code de commerce, sans préjudice de la réparation, dans les conditions du droit commun, de tout autre dommage résultant de ce retard.
 
 11.6. Le non-paiement total ou partiel d'une facture à une seule échéance emporte, sans formalité, déchéance du terme entraînant l'exigibilité immédiate du règlement, sans mise en demeure, de toutes sommes dues, même à terme. Ce manquement autorise le sous-traitant à rompre immédiatement le contrat en cours, sans préavis et sans que l'opérateur de transport puisse lui réclamer une quelconque indemnité.
 
