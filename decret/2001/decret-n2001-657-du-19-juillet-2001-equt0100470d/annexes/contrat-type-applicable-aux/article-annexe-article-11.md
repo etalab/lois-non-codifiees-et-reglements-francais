@@ -6,7 +6,7 @@ Le prix du transport proprement dit de l'envoi est calculé en tenant compte not
 
 Ce prix est réajusté quand les circonstances, auxquelles le transporteur est étranger, imposent, au cours du transport, des modalités d'exécution nouvelles entraînant des frais supplémentaires.
 
-Le prix de transport initialement convenu est révisé en cas de variations significatives des charges de l'entreprise de transport, qui tiennent à des conditions extérieures à cette dernière, tel, notamment, le prix des carburants, et dont la partie demanderesse justifie par tous moyens.
+Sans préjudice des dispositions des paragraphes II et III de l'article 24 de la loi n° 95-96 du 1er février 1995 modifiée, le prix du transport initialement convenu est révisé en cas de variations significatives des charges de l'entreprise de transport qui tiennent à des conditions extérieures à cette dernière.
 
 Les prestations supplémentaires ou accessoires sont rémunérées en sus et font l'objet d'une facturation distincte.
 
