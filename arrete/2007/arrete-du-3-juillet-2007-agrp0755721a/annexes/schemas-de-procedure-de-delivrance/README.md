@@ -1,0 +1,3 @@
+# SCHÉMAS DE PROCÉDURE DE DÉLIVRANCE : D'UN CERTIFICAT DE CONFORMITÉ.
+
+- [Article ANNEXE 3](article-annexe-3.md)

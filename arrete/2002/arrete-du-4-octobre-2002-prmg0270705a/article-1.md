@@ -4,24 +4,20 @@ En application de l'article 2 du décret du 4 octobre 2002 susvisé, les montant
 
 En administration centrale :
 
--conducteurs automobiles de 2e catégorie : 910 EUR ;
+-adjoint technique 2e classe : 930 euros ;
 
--conducteurs automobiles de 1re catégorie : 930 EUR ;
+-adjoint technique 1re classe : 950 euros ;
 
--conducteurs automobiles hors catégorie : 950 EUR ;
+-adjoint technique principal 2e classe : 970 euros ;
 
--chefs de garage : 970 EUR ;
-
--chefs de garage principaux : 990 EUR.
+-adjoint technique principal 1re classe : 990 euros.
 
 En services déconcentrés :
 
--conducteurs automobiles de 2e catégorie : 700 EUR ;
+- adjoint technique 2e classe : 750 € ;
 
--conducteurs automobiles de 1re catégorie : 750 EUR ;
+- adjoint technique 1re classe : 800 € ;
 
--conducteurs automobiles hors catégorie : 800 EUR ;
+- adjoint technique principal 2e classe : 850 € ;
 
--chefs de garage : 850 EUR ;
-
--chefs de garage principaux : 900 EUR.
+- adjoint technique principal 1re classe : 900 €.

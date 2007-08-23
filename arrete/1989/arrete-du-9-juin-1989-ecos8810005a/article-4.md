@@ -1,37 +1,39 @@
 # Article 4
 
-La direction des statistiques démographiques et sociales est organisée comme suit :
-
-Sont rattachées au directeur des statistiques démographiques et sociales :
-
--la division des méthodes statistiques et des sondages ;
-
--la division des études sociales.
+- La direction des statistiques démographiques et sociales est organisée comme suit :
 
 Le département de la démographie comprend :
 
--la division du mouvement de la population et des études démographiques ;
+- la division de l'organisation du recensement et des relations extérieures ;
 
--la division des répertoires des personnes physiques ;
+- la division des méthodes et des traitements des recensements.
 
--la division des recensements de la population ;
+Le département de l'emploi et des revenus d'activité comprend :
 
--la division des statistiques communales et locales.
+- la division de l'emploi ;
 
-Le département de l'emploi et des ressources des ménages comprend [*composition* :
+- la division de l'exploitation des fichiers administratifs sur l'emploi et les revenus ;
 
--la division d'exploitation des fichiers administratifs sur l'emploi et les revenus ;
+- la division des salaires et des revenus d'activité.
 
--la division de l'emploi ;
+Le département des prix à la consommation, des ressources et des conditions de vie des ménages comprend :
 
--la division des revenus ;
+- la division des prix à la consommation ;
 
--la division du patrimoine des ménages.
+- la division du logement ;
 
-Le département des conditions de vie des ménages et des prix de détail comprend *]composition* :
+- la division des conditions de vie des ménages ;
 
--la division des prix de détail ;
+- la division des revenus et du patrimoine des ménages.
 
--la division du logement ;
+L'unité des méthodes statistiques comprend :
 
--la division des conditions de vie de ménages.
+- la division de l'échantillonnage et du traitement statistique des données ;
+
+- la division de la coordination des activités d'enquête et des méthodes de collecte.
+
+L'unité des études démographiques et sociales comprend :
+
+- la division des études sociales ;
+
+- la division des enquêtes et des études démographiques.
