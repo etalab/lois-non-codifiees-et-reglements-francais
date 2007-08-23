@@ -2,6 +2,8 @@
 
 La direction de la coopération européenne comprend :
 
+- la sous-direction des affaires générales et de l'avenir de l'Union ;
+
 - la sous-direction des affaires communautaires internes ;
 
 - la sous-direction des relations extérieures de la Communauté ;

@@ -10,13 +10,15 @@ La direction générale des affaires politiques et de sécurité est composée :
 
 - la sous-direction des droits de l'homme et des affaires humanitaires et sociales ;
 
+- la sous-direction des affaires budgétaires et des contributions internationales ;
+
 - la mission des fonctionnaires internationaux.
 
 2° De la direction des affaires stratégiques, de sécurité et du désarmement, qui comprend :
 
 - la sous-direction du désarmement et de la non-prolifération nucléaires ;
 
-- la sous-direction du désarmement chimique et biologique et de la maîtrise des armements classiques ;
+- la sous-direction des questions multilatérales et du désarmement ;
 
 - la sous-direction des affaires stratégiques ;
 
@@ -29,3 +31,5 @@ La direction générale des affaires politiques et de sécurité est composée :
 - la sous-direction de la coopération de défense.
 
 4° Du service de la politique étrangère et de sécurité commune.
+
+5° De la mission de coordination financière et administrative.
