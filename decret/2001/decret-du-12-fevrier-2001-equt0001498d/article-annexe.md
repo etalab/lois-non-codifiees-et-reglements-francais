@@ -284,9 +284,9 @@ Ces durées prennent fin au moment où est consignée sur le document de suivi l
 
 Les durées totales de mise à disposition du véhicule sont au maximum :
 
-1o Pour les envois inférieurs à cent kilogrammes composés de moins de vingt colis : de quinze minutes ;
+1° Pour les envois inférieurs à cent kilogrammes composés de moins de vingt colis : de quinze minutes ;
 
-2o Pour les autres envois : de trente minutes.
+2° Pour les autres envois : de trente minutes.
 
 En cas de dépassement non imputable au transporteur des durées ainsi fixées, le transporteur perçoit du donneur d'ordre ou du destinataire, selon le cas, un complément de rémunération pour frais d'immobilisation du véhicule et / ou de l'équipage, facturé séparément, conformément aux dispositions de l'article 17 ci-après.
 
@@ -294,7 +294,7 @@ En cas de dépassement non imputable au transporteur des durées ainsi fixées, 
 
 Les durées totales de mise à disposition du véhicule sont au maximum :
 
-1o Pour les envois compris entre trois et dix tonnes et n'excédant pas trente mètres cubes :
+1° Pour les envois compris entre trois et dix tonnes et n'excédant pas trente mètres cubes :
 
 a) D'une heure en cas de rendez-vous respecté ;
 
@@ -302,7 +302,7 @@ b) D'une heure trente en cas de plage horaire respectée ;
 
 c) De deux heures dans tous les autres cas ;
 
-2o Pour les envois de plus de dix tonnes ou supérieurs à trente mètres cubes :
+2° Pour les envois de plus de dix tonnes ou supérieurs à trente mètres cubes :
 
 a) D'une heure en cas de rendez-vous respecté ;
 
@@ -396,7 +396,7 @@ La rémunération du transporteur comprend le prix du transport stricto sensu, c
 
 Le prix du transport est établi en fonction du type de véhicule utilisé, de ses équipements, de la nature de la marchandise, de son poids, de son volume, du nombre de colis, de la distance du transport, des délais d'acheminement, de la relation assurée, des caractéristiques du trafic, des sujétions particulières de circulation, de la durée de mise à disposition du véhicule et de l'équipage, plus généralement des coûts engendrés par la prestation demandée, conformément aux dispositions de la loi n° 95-96 du 1er février 1995, ainsi que de la qualité de la prestation rendue.
 
-Le prix de transport initialement convenu est révisé en cas de variations significatives des charges de l'entreprise de transport, qui tiennent à des conditions extérieures à cette dernière, tel notamment le prix des carburants, et dont la partie demanderesse justifie par tous moyens.
+Sans préjudice des dispositions des paragraphes II et III de l'article 24 de ladite loi, le prix du transport initialement convenu est révisé en cas de variations significatives des charges de l'entreprise de transport qui tiennent à des conditions extérieures à cette dernière.
 
 Toute prestation annexe ou complémentaire est rémunérée au prix convenu. Tel est le cas notamment :
 
@@ -440,11 +440,13 @@ S'il n'a pas été encaissé au moment de l'enlèvement ou de la livraison, ce p
 
 18. 3. Lorsque le transporteur consent à son débiteur des délais de paiement, la facture établie par le transporteur mentionne la date à laquelle le paiement doit intervenir. Elle précise les conditions d'escompte applicables en cas de paiement à une date antérieure à celle mentionnée sur ladite facture. Cette dernière doit être réglée au plus tard à la date indiquée.
 
-18. 4. Tout retard dans le paiement entraîne de plein droit, après mise en demeure, le versement de pénalités d'un montant au moins équivalent à une fois et demie le taux d'intérêt légal, conformément à l'article L. 441-6, alinéa 3, du code de commerce, sans préjudice de la réparation, dans les conditions du droit commun, de tout autre dommage résultant de ce retard.
+18. 4. Conformément aux dispositions de l'article L. 441-6, alinéa 9, du code de commerce, les parties ne peuvent convenir d'un délai de paiement supérieur à trente jours à compter de la date d'émission de la facture.
 
-18. 5. Le non-paiement total ou partiel d'une facture à une seule échéance emporte, sans formalité, déchéance du terme entraînant l'exigibilité immédiate du règlement, sans mise en demeure, de toutes les sommes dues, même à terme, à la date de ce manquement et autorise le transporteur à exiger le paiement comptant avant l'exécution de toute nouvelle opération.
+18. 5. Le paiement est exigible à la réception de la facture et à son lieu d'émission. Tout retard dans le paiement entraîne de plein droit, après mise en demeure, le versement de pénalités d'un montant au moins équivalent à une fois et demie le taux légal, conformément à l'article L. 441-6, alinéa 10, du code de commerce, sans préjudice de la réparation, dans les conditions du droit commun, de tout autre dommage résultant de ce retard.
 
-18. 6. En cas de perte ou d'avarie partielles ou totales de la marchandise, le transporteur a droit au paiement du prix du transport, sous réserve qu'il règle l'indemnité correspondante.
+18. 6. Le non-paiement total ou partiel d'une facture à une seule échéance emporte, sans formalité, déchéance du terme entraînant l'exigibilité immédiate du règlement, sans mise en demeure, de toutes les sommes dues, même à terme, à la date de ce manquement et autorise le transporteur à exiger le paiement comptant avant l'exécution de toute nouvelle opération.
+
+18. 7. En cas de perte ou d'avarie partielles ou totales de la marchandise, le transporteur a droit au paiement du prix du transport, sous réserve qu'il règle l'indemnité correspondante.
 
 Article 19
 
