@@ -1,12 +1,6 @@
 # Article 9
 
-I. - Une allocation de préretraite peut être allouée aux chefs d'exploitation agricole âgés de cinquante-cinq ans au moins, ayant exercé une activité à titre principal pendant une durée fixée par décret, s'ils cessent définitivement leur activité agricole suite à des difficultés économiques ou à de graves problèmes de santé mettant en cause le fonctionnement de leur entreprise et rendant leurs terres et bâtiments d'exploitation disponibles à des fins de restructuration.
-
-L'allocation de préretraite est servie à l'intéressé jusqu'à l'âge de soixante ans.
-
-Les agriculteurs remplissant les conditions pour bénéficier de l'allocation de préretraite peuvent en faire la demande à compter du 1er janvier 1998.
-
-Un décret fixe le montant de cette allocation, ses conditions d'attribution et les obligations de restructuration des terres libérées ainsi que les conditions de cumul avec la poursuite d'activités à temps partiel autres qu'agricoles.
+I. - Une allocation de préretraite peut être allouée aux chefs d'exploitation agricole.
 
 Cette allocation n'est pas cumulable avec la perception d'un avantage de retraite d'un régime de base, d'une allocation aux travailleurs âgés servie en application de l'article L. 322-4 du code du travail ou d'un revenu de remplacement servi en application de l'article L. 351-2 de ce code.
 
