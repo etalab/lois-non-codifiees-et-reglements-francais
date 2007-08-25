@@ -465,3 +465,4 @@
 - [Décret n°2006-1330 du 31 octobre 2006 (JUSD0630113D)](decret-n2006-1330-du-31-octobre-2006-jusd0630113d)
 - [Décret n°2006-1331 du 31 octobre 2006 (SANA0623023D)](decret-n2006-1331-du-31-octobre-2006-sana0623023d)
 - [Décret n°2006-634 du 31 mai 2006 (AGRP0600979D)](decret-n2006-634-du-31-mai-2006-agrp0600979d)
+- [Décret n°2006-647 du 31 mai 2006 (PMEA0610004D)](decret-n2006-647-du-31-mai-2006-pmea0610004d)
