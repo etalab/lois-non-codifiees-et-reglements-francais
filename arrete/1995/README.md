@@ -1248,5 +1248,4 @@
 - [Arrêté du 31 mars 1995 (SPSS9500945A)](arrete-du-31-mars-1995-spss9500945a)
 - [Arrêté du 31 octobre 1995 (INDB9501115A)](arrete-du-31-octobre-1995-indb9501115a)
 - [Arrêté du 31 octobre 1995 (INDD9501111A)](arrete-du-31-octobre-1995-indd9501111a)
-- [Arrêté du 31 octobre 1995 (INTF9500631A)](arrete-du-31-octobre-1995-intf9500631a)
 - [Arrêté du 31 mai 1995 (MENL9500885A)](arrete-du-31-mai-1995-menl9500885a)
