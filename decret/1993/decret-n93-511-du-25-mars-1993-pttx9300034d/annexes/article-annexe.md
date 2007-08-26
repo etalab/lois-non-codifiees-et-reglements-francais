@@ -32,7 +32,7 @@ Agent technique et de gestion de second niveau : 384-592 (612)
 
 Echelon exceptionnel.
 
-Agent technique et de gestion de premier niveau : 384-592 (612)
+Agent technique et de gestion de premier niveau : 306-544 (592) (612)
 
 Echelons exceptionnels.
 
@@ -64,7 +64,7 @@ Collaborateur de second niveau : 384-592 (612)
 
 Echelon exceptionnel.
 
-Collaborateur de premier niveau : 384-592 (612)
+Collaborateur de premier niveau : 306-544 (592) (612)
 
 Echelons exceptionnels.
 
