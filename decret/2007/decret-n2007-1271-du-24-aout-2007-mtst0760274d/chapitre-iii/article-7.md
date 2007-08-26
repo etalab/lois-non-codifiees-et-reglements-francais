@@ -1,0 +1,3 @@
+# Article 7
+
+Par dérogation à l'article 4 du présent décret, les portefeuilles titres constitués en application du b du troisième alinéa de l'article R. 211-10 du code du travail dans sa rédaction en vigueur avant la date de publication du présent décret sont maintenus jusqu'à la date de leur liquidation dans les conditions prévues à l'article R. 211-11 du même code. A la liquidation, la Caisse des dépôts et consignations restitue le solde du compte à son titulaire. Si l'enfant concerné est devenu majeur après la date de publication du présent décret, ce solde ne peut être inférieur au montant des dépôts effectués, déduction faite des prélèvements autorisés en application de l'article L. 211-8 du code du travail.
