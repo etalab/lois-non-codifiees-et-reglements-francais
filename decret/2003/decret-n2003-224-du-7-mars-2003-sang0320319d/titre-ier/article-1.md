@@ -18,6 +18,8 @@ Le présent décret s'applique aux agents contractuels recrutés par contrat de 
 
 8° L'Institut de veille sanitaire ;
 
-9° L'Office national d'indemnisation des accidents médicaux, des affections iatrogènes et des infections nosocomiales.
+9° L'Office national d'indemnisation des accidents médicaux, des affections iatrogènes et des infections nosocomiales ;
+
+10° L'Etablissement de préparation et de réponse aux urgences sanitaires.
 
 Des agents peuvent être recrutés par contrat de droit public à durée déterminée par les établissements mentionnés ci-dessus, lorsque la nature des fonctions ou les besoins des établissements le justifient. Les dispositions du présent décret, à l'exception des titres IV et V, sont applicables aux agents recrutés par contrat à durée déterminée.
