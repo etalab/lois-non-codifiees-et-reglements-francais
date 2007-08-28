@@ -1,0 +1,3 @@
+# Article 3
+
+Le contrôleur suit la préparation du budget et de ses décisions modificatives. A cette fin, l'établissement lui communique les informations nécessaires en temps utile. Il reçoit, à l'appui du projet de budget avec ses annexes, les éléments prévisionnels relatifs à la performance, un état retraçant les grandes composantes de la masse salariale et les perspectives la concernant, un état prévisionnel des mouvements du personnel permanent et des besoins globaux du personnel non permanent. Il est informé des perspectives financières pluriannuelles et reçoit à ce titre une présentation détaillée des opérations d'investissement permettant de le renseigner sur la capacité d'engagement de l'établissement.
