@@ -28,6 +28,6 @@ Directeur et directeur adjoint d'un centre d'enseignement du Centre national d'e
 
 Directeur adjoint d'un institut universitaire de formation des maîtres ;
 
-Directeur d'une unité pédagogique régionale des services pénitentiaires ;
+Directeur et directeur adjoint d'une unité pédagogique régionale des services pénitentiaires ;
 
 Proviseur vie scolaire.
