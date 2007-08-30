@@ -4,8 +4,8 @@ Les cotisations sont constituées, d'une part par une fraction du montant des sa
 
 Les entreprises dotées d'un comité d'hygiène, de sécurité et des conditions de travail peuvent être admises à cotiser à taux réduit par décision du comité régional de prévention dont elles relèvent, compte tenu de leurs résultats en matière de prévention tels qu'ils ressortent, notamment, des documents mentionnés aux premier et troisième alinéas de l'article L. 236-4 du code du travail.
 
-Un arrêté du ministre chargé du travail, pris après avis du comité national de l'organisme, fixe le taux plein et le taux réduit des cotisations. Il fixe le salaire de référence de la contribution due au titre de l'emploi de travailleurs temporaires, ainsi que les taux qui lui sont applicables.
+Un arrêté du ministre chargé du travail, pris après avis du conseil du comité national de l'organisme, fixe le taux plein et le taux réduit des cotisations. Il fixe le salaire de référence de la contribution due au titre de l'emploi de travailleurs temporaires, ainsi que les taux qui lui sont applicables.
 
 Le recouvrement des cotisations est assuré par les caisses de congés payés instituées dans la branche d'activité dans les mêmes conditions que celui des cotisations de congés payés. Le recouvrement de la contribution est assuré par trimestre civil sur la base des heures effectuées au cours du trimestre précédant la date du recouvrement. Le montant des frais de recouvrement et de gestion des fonds est fixé par convention entre le comité national et les caisses intéressées.
 
-Le montant des cotisations recouvrées est versé à la Caisse nationale de surcompensation du bâtiment et des travaux publics et porté au crédit de l'organisme.
+Le montant des cotisations recouvrées est versé à l'Union des caisses de France - Congés intempéries BTP et porté au crédit de l'organisme.

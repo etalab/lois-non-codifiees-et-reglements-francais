@@ -1,7 +1,7 @@
 # Article 7
 
-Les comités régionaux de prévention sont notamment chargés de conduire les actions en vue de l'amélioration de l'hygiène, de la sécurité et des conditions de travail sur les lieux mêmes du travail.
+Les comités régionaux de prévention sont notamment chargés de conduire les actions en vue de l'amélioration de l'hygiène, de la santé, de la sécurité et des conditions de travail sur tous les lieux où interviennent les entreprises adhérentes.
 
-Sous le contrôle du comité national, ils mettent en oeuvre le programme d'action de l'organisme dans ses régions.
+Sous le contrôle du comité national, ils mettent en oeuvre les programmes d'actions de l'organisme dans leur champ de compétence territorial, conformément au programme d'actions adopté par le conseil du comité national.
 
-Le comité national fixe le nombre et la circonscription des comités régionaux de prévention ainsi que le chef-lieu de région auquel ils se rattachent.
+Le conseil du comité national fixe le nombre des comités régionaux de prévention.
