@@ -128,8 +128,6 @@ Exemption :
 
 Les aéronefs d'Etat, capables de communiquer sur des fréquences UHF, sont exemptés de cette obligation. Ils se conforment alors à des procédures particulières établies avec l'autorité compétente des services de la circulation aérienne.
 
-(- X OACI. - Annexe 10. - Volume III. - § 2.3.3. - Les aéronefs en vol IFR ont obligation depuis le 1er janvier 1998 de disposer d'équipements de communication conformes aux normes d'immunité FM.)
-
 1.2.2. Aéronefs en vol VFR
 
 1.2.2.1. Généralités :
@@ -152,9 +150,15 @@ Tout aéronef dispose de l'équipement de communication permettant une liaison b
 
 Lorsqu'il est obligatoire, tout équipement de communication VHF installé à bord d'un aéronef est capable d'utiliser toutes les fréquences radioélectriques, espacées de 25 kHz, dans la bande de fréquences du service mobile aéronautique (R) (3).
 
-(- X OACI. - Annexe 10. - Volume III. - § 2.3.3. - Les aéronefs en vol VFR ont obligation depuis le 1er janvier 1998 de disposer d'équipements de communication conformes aux normes d'immunité FM.)
-
 Les équipements de communication VHF ne répondant pas à cette exigence mais dont l'installation a été autorisée, sous certaines conditions d'utilisation, avant l'entrée en vigueur des dispositions ci-dessus, peuvent être utilisés, dans les mêmes conditions, jusqu'au 31 mars 2003.
+
+1.2.3. Immunité FM
+
+a) Définition : Immunité FM : Immunité des équipements récepteurs de bord embarqués vis-à-vis des brouillages générés par les stations de radiodiffusion en modulation de fréquences (FM).
+
+b) Performances d'immunité des équipements de communication VHF à l'égard du brouillage : A partir du 1er janvier 2008 et conformément aux normes OACI - § 2.3.3 du Volume III, Partie 2, de l'Annexe 10, toute nouvelle installation d'un équipement de communication VHF embarqué assure une immunité suffisante à l'égard du brouillage FM.
+
+c) Exemption : les aéronefs d'Etat sont exemptés des dispositions ci-dessus. Ils se conforment alors à des procédures particulières prévues à cet effet.
 
 2. Equipements de navigation
 
