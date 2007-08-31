@@ -1,4 +1,4 @@
-# Article ANNEXE
+# Article Annexe
 
 I. - Au titre de fonctions d'encadrement assorties de contraintes et de responsabilités particulières
 
@@ -56,6 +56,6 @@ Agent exerçant des fonctions requérant une forte technicité dans un domaine l
 
 IV. - Au titre de la rénovation des statuts dans le cadre du contrat d'objectifs :
 
-Poste de technicien supérieur comportant un niveau de technicité et des compétences particulièrement importantes ;
+Poste de cadre technique comportant un niveau de responsabilité et requérant une qualification particulière ;
 
-Poste d'adjoint administratif nécessitant des compétences et des responsabilités spécifiques.
+Poste de technicien supérieur comportant un niveau de technicité et des compétences particulièrement importantes.

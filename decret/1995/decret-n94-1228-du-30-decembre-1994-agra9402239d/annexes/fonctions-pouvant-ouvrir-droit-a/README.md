@@ -1,3 +1,3 @@
 # FONCTIONS POUVANT OUVRIR DROIT À L'ATTRIBUTION DE LA NOUVELLE BONIFICATION INDICIAIRE
 
-- [Article ANNEXE](article-annexe.md)
+- [Article Annexe](article-annexe.md)
