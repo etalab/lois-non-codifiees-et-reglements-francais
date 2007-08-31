@@ -1,0 +1,3 @@
+# Article 28
+
+Les personnels qui intègrent le corps des instituteurs régi par le présent décret selon les modalités prévues au présent chapitre ou à l'article 4 peuvent être, par dérogation aux dispositions du décret du 24 février 1989 susvisé, nommés dans l'emploi de directeur d'école maternelle ou élémentaire de deux classes et plus ou dans la fonction de directeur d'école maternelle ou élémentaire à classe unique après avis de la commission administrative paritaire, s'ils occupaient ou ont occupé l'emploi correspondant, ou s'ils exerçaient la fonction correspondante lors de leur intégration, ou s'ils l'ont exercée pendant au moins trois années scolaires au cours des dix années précédant leur intégration.

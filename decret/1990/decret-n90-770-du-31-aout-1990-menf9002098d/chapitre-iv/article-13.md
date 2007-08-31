@@ -1,6 +1,6 @@
 # Article 13
 
-Sont électeurs au titre d'une commission administrative paritaire déterminée les fonctionnaires en position d'activité ou en position de congé parental appartenant aux deux corps représentés par cette commission.
+Sont électeurs au titre d'une commission administrative paritaire déterminée les fonctionnaires en position d'activité ou en position de congé parental appartenant à l'un des corps représentés par cette commission.
 
 Les fonctionnaires en position de détachement sont électeurs à la fois dans leur corps d'origine et dans le corps dans lequel ils sont détachés.
 
