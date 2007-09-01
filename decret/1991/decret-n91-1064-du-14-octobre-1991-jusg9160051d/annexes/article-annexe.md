@@ -356,130 +356,22 @@ Responsable de filière au Centre national de formation et d'études et responsa
 
 GRANDE CHANCELLERIE DE LA LEGION D'HONNEUR.
 
-Fonction exercée pouvant ouvrir droit au versement d'une nouvelle bonification indiciaire.
+A. - Fonctions exercées à l'administration centrale pouvant ouvrir droit au versement d'une nouvelle bonification indiciaire :
 
-Adjoint au chef du bureau chargé du service Gestion de l'ordre national du Mérite ;
+1. Fonctions d'encadrement ou à responsabilités particulières dans le domaine des décorations.
 
-Adjoint au chef du bureau chargé du service proposition de la Légion d'honneur ;
+2. Fonctions budgétaires, comptables ou dans le domaine des marchés publics.
 
-Adjoint au chef du bureau de gestion de la Légion d'honneur.
+3. Fonctions de secrétariat à responsabilités importantes.
 
-Adjoint au responsable du budget.
+4. Fonctions dans le domaine des ressources humaines.
 
-Adjoint au système informatique des ordres nationaux.
+5. Fonctions dans les domaines de l'accueil, la sécurité, l'informatique ou l'intendance.
 
-Agent d'accueil et de sécurité.
+B. - Fonctions exercées dans les maisons d'éducation pouvant ouvrir droit au versement d'une nouvelle bonification indiciaire :
 
-Chargé des affaires générales et des interventions.
+1. Fonctions dans les domaines de l'accueil, la sécurité, la santé ou l'intendance.
 
-Chef du bureau chargé de la gestion informatisée des membres des ordres nationaux.
+2. Fonctions de secrétariat à responsabilités importantes.
 
-Fondé de pouvoir de l'agence comptable ;
-
-Gestionnaire des dossiers des membres des ordres nationaux.
-
-Responsable de la comptabilité et du secrétariat du service Bâtiments.
-
-Responsable de la paie et de la comptabilité des personnels.
-
-Responsable de l'entretien du palais et des services techniques.
-
-Responsable du matériel et de la comptabilité Matériel.
-
-Secrétaire au cabinet du grand chancelier.
-
-Secrétaire du grand chancelier de la Légion d'honneur ;
-
-Secrétaire en poste auprès du secrétaire général ;
-
-Secrétaire en poste auprès du secrétaire général adjoint ;
-
-A compter du 1er août 1995 :
-
-Adjoint au chef de bureau de la médaille militaire.
-
-Adjoint au chef de bureau des maisons d'éducation.
-
-Responsable des autorisations de port des ordres étrangers.
-
-Responsable des décorations françaises données aux étrangers.
-
-Responsable des marchés et du contrôle de gestion ;
-
-A compter du 1er août 1996 :
-
-Adjoint au chef de bureau chargé du contingent du grand chancelier ;
-
-Adjoint au chef de bureau chargé du service des propositions de l'ordre national du Mérite ;
-
-Coursier ;
-
-Responsable de la gestion et du suivi du compte courant de la grande chancellerie.
-
-Responsable de l'administration des élèves dans les maisons d'éducation.
-
-Responsable du service intérieur.
-
-MAISONS D'EDUCATION DE LA LEGION D'HONNEUR.
-
-Fonction exercée pouvant ouvrir droit au versement d'une nouvelle bonification indiciaire.
-
-Agent chef des agents d'entretien.
-
-Agent d'accueil et de sécurité.
-
-Chef cuisinier (Les Loges).
-
-Chef cuisinier de la maison d'éducation de Saint-Denis ;
-
-Chef d'équipe d'ouvriers d'entretien de la maison d'éducation de Saint-Denis.
-
-Chef d'équipe d'ouvriers d'entretien de la maison d'éducation des Loges.
-
-Chef magasinier.
-
-Infirmière de la maison d'éducation de Saint-Denis.
-
-Infirmière responsable de la maison d'éducation des Loges.
-
-Responsable de la gestion de la maison d'éducation de Saint-Denis.
-
-Responsable de la gestion de la maison d'éducation des Loges.
-
-Responsable de la gestion des personnels des maisons d'éducation.
-
-Responsable de la lingerie de la maison d'éducation de Saint-Denis.
-
-Responsable de la lingerie de la maison d'éducation des Loges.
-
-Responsable de l'entretien (Saint-Denis).
-
-Responsable de l'entretien des jardins de la maison d'éducation des Loges.
-
-Secrétaire en poste auprès de la surintendante de la maison d'éducation de Saint-Denis ;
-
-Secrétaire en poste auprès de l'intendante générale de la maison d'éducation des Loges.
-
-Veilleur de nuit de la maison d'éducation des Loges ;
-
-A compter du 1er août 1995 :
-
-Responsable des traitements, Les Loges ;
-
-Responsable des traitements, Saint-Denis ;
-
-Secrétaire d'intendance, Les Loges.
-
-Veilleur de nuit de la maison d'éducation de Saint-Denis.
-
-A compter du 1er août 1996 :
-
-Secrétariat censeur, Les Loges ;
-
-Secrétariat censeur, Saint-Denis ;
-
-Secrétariat des inspectrices, Les Loges ;
-
-Secrétariat des inspectrices, Saint-Denis ;
-
-Secrétariat intendance, Saint-Denis.
+3. Fonctions dans le domaine des ressources humaines.
