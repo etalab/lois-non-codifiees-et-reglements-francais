@@ -17,4 +17,3 @@
 - [Chapitre V : De la procédure.](chapitre-v)
 - [Chapitre VI : Des sanctions.](chapitre-vi)
 - [Chapitre VII : Dispositions diverses.](chapitre-vii)
-- [Chapitre VIII : Dispositions financières.](chapitre-viii)

@@ -922,7 +922,6 @@
 - [Arrêté du 26 mai 1994 (LOGC9400038A)](arrete-du-26-mai-1994-logc9400038a)
 - [Arrêté du 26 mai 1994 (SPSP9401425A)](arrete-du-26-mai-1994-spsp9401425a)
 - [Arrêté du 27 décembre 1993 (ACVE9350004A)](arrete-du-27-decembre-1993-acve9350004a)
-- [Arrêté du 27 décembre 1993 (AGRS9302511A)](arrete-du-27-decembre-1993-agrs9302511a)
 - [Arrêté du 27 décembre 1994 (ECOT9451388A)](arrete-du-27-decembre-1994-ecot9451388a)
 - [Arrêté du 27 décembre 1994 (ECOT9451389A)](arrete-du-27-decembre-1994-ecot9451389a)
 - [Arrêté du 27 janvier 1994 (ENVE9430036A)](arrete-du-27-janvier-1994-enve9430036a)

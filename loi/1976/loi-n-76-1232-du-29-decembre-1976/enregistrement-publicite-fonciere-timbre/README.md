@@ -1,3 +1,0 @@
-# ENREGISTREMENT, PUBLICITE FONCIERE, TIMBRE
-
-- [MONTANT DE L'ABATTEMENT PREVU EN FAVEUR DE CERTAINES SUCCESSIONS ENTRE FRERES ET SOEURS](montant-de-l-abattement-prevu-en-faveur-de-certaines-successions-entre-freres-et)

@@ -1,6 +1,7 @@
 # 1982
 
 - [Loi n° 81-1160 du 30 décembre 1981](loi-n-81-1160-du-30-decembre-1981)
+- [Loi n° 81-1179 du 31 décembre 1981](loi-n-81-1179-du-31-decembre-1981)
 - [Loi n° 81-766 du 10 août 1981](loi-n-81-766-du-10-aout-1981)
 - [Loi n° 82-1021 du 3 décembre 1982](loi-n-82-1021-du-3-decembre-1982)
 - [Loi n° 82-1152 du 30 décembre 1982](loi-n-82-1152-du-30-decembre-1982)
@@ -18,4 +19,3 @@
 - [Loi n° 82-652 du 29 juillet 1982](loi-n-82-652-du-29-juillet-1982)
 - [Loi n° 82-653 du 29 juillet 1982](loi-n-82-653-du-29-juillet-1982)
 - [Loi n° 82-939 du 4 novembre 1982](loi-n-82-939-du-4-novembre-1982)
-- [Loi n°82-6 du 7 janvier 1982](loi-n82-6-du-7-janvier-1982)

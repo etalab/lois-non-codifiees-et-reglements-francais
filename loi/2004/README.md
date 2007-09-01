@@ -35,7 +35,6 @@
 - [Loi n° 2004-810 du 13 août 2004 (SANX0400122L)](loi-n-2004-810-du-13-aout-2004-sanx0400122l)
 - [Loi n° 2004-811 du 13 août 2004 (INTX0300211L)](loi-n-2004-811-du-13-aout-2004-intx0300211l)
 - [Loi n° 82-471 du 7 juin 1982](loi-n-82-471-du-7-juin-1982)
-- [Loi n° 86-1115 du 15 octobre 1986](loi-n-86-1115-du-15-octobre-1986)
 - [Loi n° 90-384 du 10 mai 1990 (ETRX9010154L)](loi-n-90-384-du-10-mai-1990-etrx9010154l)
 - [Loi n° 90-568 du 2 juillet 1990 (PTTX9000053L)](loi-n-90-568-du-2-juillet-1990-pttx9000053l)
 - [Loi n° 91-646 du 10 juillet 1991 (JUSX9100068L)](loi-n-91-646-du-10-juillet-1991-jusx9100068l)

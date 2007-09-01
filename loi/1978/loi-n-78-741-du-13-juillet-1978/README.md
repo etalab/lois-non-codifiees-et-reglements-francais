@@ -5,4 +5,3 @@
 - [Fiscalité des fonds propres des entreprises.](fiscalite-des-fonds-propres-des-entreprises)
 - [Prêts participatifs accordés par l'Etat.](prets-participatifs-accordes-par)
 - [Prêts participatifs.](prets-participatifs)
-- [Adaptation de certaines dispositions fiscales en vue de favoriser les investissements productifs.](adaptation-de-certaines-dispositions-fiscales-en-vue)

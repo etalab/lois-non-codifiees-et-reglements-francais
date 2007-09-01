@@ -1,7 +1,6 @@
 # Loi n° 75-1242 du 27 décembre 1975 DE FINANCES RECTIFICATIVE POUR 1975 (1).
 
 - [Article 1](article-1.md)
-- [Article 2](article-2.md)
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)
 - [Article 5](article-5.md)

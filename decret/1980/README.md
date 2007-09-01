@@ -134,7 +134,6 @@
 - [Décret n°80-479 du 27 juin 1980](decret-n80-479-du-27-juin-1980)
 - [Décret n°80-845 du 27 octobre 1980](decret-n80-845-du-27-octobre-1980)
 - [Décret n°80-961 du 27 novembre 1980](decret-n80-961-du-27-novembre-1980)
-- [Décret n°79-1136 du 28 décembre 1979](decret-n79-1136-du-28-decembre-1979)
 - [Décret n°79-1205 du 28 décembre 1979](decret-n79-1205-du-28-decembre-1979)
 - [Décret n°79-846 du 28 septembre 1979](decret-n79-846-du-28-septembre-1979)
 - [Décret n°80-183 du 28 février 1980](decret-n80-183-du-28-fevrier-1980)

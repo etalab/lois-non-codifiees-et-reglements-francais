@@ -1,5 +1,0 @@
-# Article 2
-
-Le ministre de la culture et de la communication, porte-parole du Gouvernement, assure le contrôle de la qualité et de l'esthétique de l'art urbain et des espaces protégés autres que les sites naturels. Il participe avec le ministre de l'équipement, du logement, des transports et de l'espace aux actions d'amélioration de la qualité architecturale aux niveaux national et international. Il est associé par le ministre de l'équipement, du logement, des transports et de l'espace à la politique générale de l'enseignement de l'architecture.
-
-Pour l'exercice de ces attributions, le ministre de la culture et de la communication, porte-parole du Gouvernement, dispose, en tant que de besoin, des services compétents de la direction de l'architecture et de l'urbanisme du ministère de l'équipement, du logement, des transports et de l'espace, notamment de la mission de l'architecture et de l'art urbain et de la mission interministérielle pour la qualité des constructions publiques. Il peut donner toutes instructions aux services départementaux de l'architecture.

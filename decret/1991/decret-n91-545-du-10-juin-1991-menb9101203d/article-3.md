@@ -1,3 +1,0 @@
-# Article 3
-
-M. Jacques Guyard reçoit délégation du ministre d'Etat, ministre de l'éducation nationale, pour signer tous actes, arrêtés et décisions, dans la limite des attributions mentionnées ci-dessus. Il contresigne les décrets relatifs à ces attributions.

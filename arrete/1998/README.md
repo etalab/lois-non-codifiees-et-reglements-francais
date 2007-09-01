@@ -731,7 +731,6 @@
 - [Arrêté du 24 août 1998 (DEFD9802007A)](arrete-du-24-aout-1998-defd9802007a)
 - [Arrêté du 24 avril 1998 (ECOT9851682A)](arrete-du-24-avril-1998-ecot9851682a)
 - [Arrêté du 24 avril 1998 (PRMX9802967A)](arrete-du-24-avril-1998-prmx9802967a)
-- [Arrêté du 24 décembre 1997 (AGRS9702589A)](arrete-du-24-decembre-1997-agrs9702589a)
 - [Arrêté du 24 décembre 1997 (DEFD9702259A)](arrete-du-24-decembre-1997-defd9702259a)
 - [Arrêté du 24 décembre 1997 (ECOI9700801A)](arrete-du-24-decembre-1997-ecoi9700801a)
 - [Arrêté du 24 décembre 1997 (ECOI9700823A)](arrete-du-24-decembre-1997-ecoi9700823a)

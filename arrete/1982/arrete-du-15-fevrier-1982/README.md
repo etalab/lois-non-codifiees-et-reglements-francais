@@ -1,4 +1,4 @@
-# Arrêté du 15 février 1982 relatif aux commissions paritaires consultatives départementales et locales des établissements d'hospitalisation publics et de certains établissements à caractère social.
+# Arrêté du 15 février 1982 RELATIF A LA FIXATION TEMPORAIRE DE CERTAINES CONDITIONS D'APPLICATION DE L'ARTICLE R. 351-18 DU CODE DU TRAVAIL.
 
 - [Titre Ier : Champ d'application](titre-ier)
 - [Titre II : Constitution des commissions paritaires consultatives](titre-ii)

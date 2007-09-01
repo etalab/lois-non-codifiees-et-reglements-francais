@@ -1,8 +1,6 @@
 # 3. Mesures diverses
 
 - [Article 94](article-94.md)
-- [Article 103](article-103.md)
-- [Article 104](article-104.md)
 - [Article 108](article-108.md)
 - [Article 109](article-109.md)
 - [Article 114](article-114.md)

@@ -45,7 +45,6 @@
 - [Loi n° 96-507 du 11 juin 1996 (MAEX9500128L)](loi-n-96-507-du-11-juin-1996-maex9500128l)
 - [Loi n° 96-542 du 19 juin 1996 (INDX9500023L)](loi-n-96-542-du-19-juin-1996-indx9500023l)
 - [Loi n° 96-543 du 19 juin 1996 (MAEX9600005L)](loi-n-96-543-du-19-juin-1996-maex9600005l)
-- [Loi n° 96-559 du 24 juin 1996 (ECOX9601558L)](loi-n-96-559-du-24-juin-1996-ecox9601558l)
 - [Loi n° 96-575 du 28 juin 1996 (MAEX9600064L)](loi-n-96-575-du-28-juin-1996-maex9600064l)
 - [Loi n° 96-585 du 1 juillet 1996 (JUSX9500185L)](loi-n-96-585-du-1-juillet-1996-jusx9500185l)
 - [Loi n° 96-588 du 1 juillet 1996 (ECOX9600012L)](loi-n-96-588-du-1-juillet-1996-ecox9600012l)

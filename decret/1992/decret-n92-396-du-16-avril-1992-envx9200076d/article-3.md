@@ -1,3 +1,0 @@
-# Article 3
-
-Le ministre de l'environnement assure la tutelle du Conservatoire de l'espace littoral et des rivages lacustres, ainsi que des autres organismes et établissements publics qui exercent leurs activités dans le domaine de l'environnement. Il assure la tutelle de l'Office national des forêts, conjointement avec le ministre de l'agriculture et de la forêt ; conjointement avec le ministre de l'industrie et du commerce extérieur et le ministre de la recherche et de l'espace, il assure la tutelle de l'Agence de l'environnement et de la maîtrise de l'énergie ; il assure la tutelle du Muséum national d'histoire naturelle, conjointement avec le ministre d'Etat, ministre de l'éducation nationale et de la culture.

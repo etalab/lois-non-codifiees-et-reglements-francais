@@ -1,3 +1,0 @@
-# SANTE PUBLIQUE
-
-- [AIDE SOCIALE AUX HANDICAPES](aide-sociale-aux)

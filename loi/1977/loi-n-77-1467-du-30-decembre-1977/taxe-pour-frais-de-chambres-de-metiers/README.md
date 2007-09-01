@@ -1,3 +1,0 @@
-# TAXE POUR FRAIS DE CHAMBRES DE METIERS
-
-- [D.O.M..](d-o-m)

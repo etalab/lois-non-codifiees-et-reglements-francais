@@ -1,3 +1,0 @@
-# Article 10
-
-Le taux de cotisation applicable aux élèves des établissements d'enseignement technique et de formation professionnelle agricoles (y compris Haut-Rhin, Bas-Rhin et Moselle) est fixé à 0,38 p. 100 à compter du 1er octobre 1991.

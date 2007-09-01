@@ -3,7 +3,6 @@
 - [Article 1](article-1.md)
 - [Titre Ier : Des missions.](titre-ier)
 - [Titre II : De l'organisation.](titre-ii)
-- [Titre III : De recrutement.](titre-iii)
 - [Titre IV : De la formation](titre-iv)
 - [Titre V : De l'administration et du régime financier.](titre-v)
 - [Titre VI : Dispositions diverses et transitoires.](titre-vi)

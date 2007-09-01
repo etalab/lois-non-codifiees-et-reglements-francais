@@ -61,7 +61,6 @@
 - [Arrêté du 2 mai 2002 (EQUP0200817A)](arrete-du-2-mai-2002-equp0200817a)
 - [Arrêté du 2 mai 2002 (EQUP0200818A)](arrete-du-2-mai-2002-equp0200818a)
 - [Arrêté du 2 mai 2002 (MCCB0200273A)](arrete-du-2-mai-2002-mccb0200273a)
-- [Arrêté du 2 mai 2002 (MENF0200704A)](arrete-du-2-mai-2002-menf0200704a)
 - [Arrêté du 2 mai 2002 (MENS0201136A)](arrete-du-2-mai-2002-mens0201136a)
 - [Arrêté du 2 mai 2002 (MESO0210699A)](arrete-du-2-mai-2002-meso0210699a)
 - [Arrêté du 2 mai 2002 (MESS0221672A)](arrete-du-2-mai-2002-mess0221672a)

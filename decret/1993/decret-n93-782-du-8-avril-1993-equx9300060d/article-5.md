@@ -1,3 +1,0 @@
-# Article 5
-
-Le ministre de l'équipement, des transports et du tourisme exerce la tutelle des organismes et établissements publics relevant précédemment de la tutelle du ministre de l'équipement, du logement et des transports en application du décret du 16 avril 1992 susvisé, à l'exception de ceux qui relèvent de la tutelle des ministres du logement, d'une part, et de l'agriculture et de la pêche, d'autre part. Il exerce également la tutelle des organismes et établissements publics relevant précédemment de la tutelle du ministre de l'industrie et du commerce extérieur et exerçant une activité dans le domaine du tourisme.

@@ -3,6 +3,5 @@
 - [Titre Ier : Réglementation de la préparation et de la vente de produits laitiers.](titre-ier)
 - [Titre II : Réglementation du marché des corps gras.](titre-ii)
 - [Titre III : Organisation administrative.](titre-iii)
-- [Titre IV : Dispositions financières.](titre-iv)
 - [Titre V : Organisation du marché des produits résineux.](titre-v)
 - [Titre VI : Dispositions diverses.](titre-vi)

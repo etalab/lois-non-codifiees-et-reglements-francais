@@ -1,3 +1,0 @@
-# II : OPERATIONS A CARACTERE TEMPORAIRE.
-
-- [Article 13](article-13.md)

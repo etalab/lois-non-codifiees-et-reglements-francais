@@ -1,5 +1,0 @@
-# Article 5
-
-Le montant du chiffre d'affaires pris en compte pour l'application des dispositions de l'article 1er du présent arrêté est, pour chaque entreprise de distribution, celui qui a été réalisé au cours de l'exercice qui précède l'établissement de la liste annuelle prévue à l'article 3 ci-dessus. Ne peuvent faire l'objet d'une inscription sur la liste que les entreprises de distribution qui ont exercé leur activité pendant un exercice complet.
-
-Il convient d'entendre par chiffre d'affaires le montant annuel des parts de recettes, telles que définies à l'article 4 ci-dessus, encaissé par les entreprises de distribution en contrepartie de concessions des droits de représentation publique d'oeuvres cinématographiques en salles. Toutefois, s'agissant des entreprises de distribution visées à l'article suivant, le chiffre d'affaires pris en compte pour l'application du présent arrêté est celui qui résulte des facturations effectuées directement et pour son propre compte par chaque entreprise concernée.

@@ -13,6 +13,7 @@
 - [Loi n° 84-578 du 9 juillet 1984](loi-n-84-578-du-9-juillet-1984)
 - [Loi n° 84-594 du 12 juillet 1984](loi-n-84-594-du-12-juillet-1984)
 - [Loi n° 84-595 du 12 juillet 1984](loi-n-84-595-du-12-juillet-1984)
+- [Loi n° 84-600 du 13 juillet 1984](loi-n-84-600-du-13-juillet-1984)
 - [Loi n° 84-603 du 13 juillet 1984](loi-n-84-603-du-13-juillet-1984)
 - [Loi n° 84-609 du 16 juillet 1984](loi-n-84-609-du-16-juillet-1984)
 - [Loi n° 84-622 du 17 juillet 1984](loi-n-84-622-du-17-juillet-1984)

@@ -1,3 +1,5 @@
 # Article 3
 
-Les dispositions de l'article 3 de l'arrêté du 25 septembre 1965 sont abrogées en ce qui concerne les substances H.E.O.D. et H.H.D.N..
+L'examen est organisé dans le cadre académique. Toutefois, après accord entre les recteurs intéressés, un centre d'examen inter-académique peut regrouper les candidats de deux ou plusieurs académies.
+
+Les sujets des épreuves sont choisis par le ministre de l'éducation nationale.
