@@ -1,5 +1,5 @@
 # Article 40
 
-Les dépenses comprennent les frais de fonctionnement et d'équipement et d'une manière générale, toutes celles nécessaires à l'activité de l'établissement.
+L'agent comptable de chaque instituts et nommé par arrêté conjoint du Premier ministre et du ministre de l'économie, des finances et du budget. Il est recruté parmi les fonctionnaires des services extérieurs du Trésor appartenant aux catégories A ou B.
 
-Le paiement des rémunérations et des indemnités des élèves est pris en charges par chaque institut.
+Il est mis fin à ces fonctions dans les mêmes formes.

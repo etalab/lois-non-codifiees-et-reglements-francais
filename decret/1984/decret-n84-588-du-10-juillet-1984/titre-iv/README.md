@@ -1,4 +1,4 @@
-# Titre IV : De la scolarité
+# Titre IV : De la formation
 
 - [Article 20](article-20.md)
 - [Article 21](article-21.md)
@@ -11,4 +11,3 @@
 - [Article 28](article-28.md)
 - [Article 29](article-29.md)
 - [Article 30](article-30.md)
-- [Article 31](article-31.md)

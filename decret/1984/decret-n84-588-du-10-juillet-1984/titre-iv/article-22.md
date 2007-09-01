@@ -1,5 +1,3 @@
 # Article 22
 
-Le personnel enseignant dans les instituts régionaux d'administration comprend des membres des personnels enseignants de l'enseignants de l'enseignement public et des personnes choisies en raison de leur compétence.
-
-Les membres du personnel enseignant sont désignés par le directeur de l'institut dans les conditions prévues à l'article 35.
+La formation peut, par ailleurs, être complétée à la sortie des instituts à l'initiative des différents départements ministériels par une formation spécialisée destinée à mieux réaliser l'adaptation à l'emploi. Les instituts peuvent prêter leur concours à cette formation spécialisée selon des modalités qui seront fixées par des conventions passées avec les administrations intéressées.

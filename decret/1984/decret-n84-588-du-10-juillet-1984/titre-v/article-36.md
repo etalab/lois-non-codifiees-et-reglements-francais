@@ -1,7 +1,5 @@
 # Article 36
 
-Le directeur de chaque institut assure le fonctionnement de celui-ci, en vertu des dispositions des décrets du 10 décembre 1953 et du 29 décembre 1962 susindiqués et en application des délibérations du conseil d'administration.
+En cas d'absence momentanée ou d'empêchement, le directeur peut se faire suppléer par un ou plusieurs agents désignés par lui à cet effet.
 
-Il représente l'institut en justice et dans tous les actes de la vie civile.
-
-Il est ordonnateur des recettes et des dépenses de l'institut.
+Lorsque l'absence ou l'empêchement est d'une durée supérieure à trente jours, en dehors des périodes de congé annuel, le ministre chargé de la fonction publique désigne le fonctionnaire chargé d'assurer l'intérim du directeur, après avis du président du conseil d'administration. Le conseil d'administration en est informé à l'occasion de sa prochaine réunion.

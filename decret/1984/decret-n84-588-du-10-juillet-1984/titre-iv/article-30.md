@@ -1,3 +1,3 @@
 # Article 30
 
-Sous réserve des exigences de la scolarité, les élèves bénéficient des dispositions du décret n° 82-447 du 28 mai 1982 relatif au droit syndical.
+Une commission paritaire de formation composée de représentants de l'administration et des élèves selon des modalités fixées par le règlement intérieur est chargée, dans chaque institut, d'examiner les questions concernant la vie des élèves.
