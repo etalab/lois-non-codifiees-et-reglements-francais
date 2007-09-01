@@ -63,7 +63,7 @@
 <p>I.-Administration centrale (y compris le ministère chargé de la jeunesse et des sports et le ministère chargé de l'enseignement supérieur) </p>
 </td>
 <td valign="top" width="74">
-<br/>
+<p align="center">f</p>
 </td>
 <td valign="top">
 <br/>
@@ -478,7 +478,7 @@
 </tr>
 <tr>
 <td valign="top" width="149">
-<p>Chefs des services administratifs (sauf lorsque ces fonctions sont exercées par des secrétaires généraux d'administration scolaire et universitaire) </p>
+<p>Chefs des services administratifs (sauf lorsque ces fonctions sont exercées par des Administrateurs de l'éducation nationale, de l'enseignement supérieur et de la recherche) </p>
 </td>
 <td valign="top" width="74">
 <p align="center">A </p>
@@ -592,7 +592,7 @@
 </tr>
 <tr>
 <td valign="top" width="149">
-<p>Secrétaire général et chef de division (sauf lorsque ces fonctions sont exercées par des secrétaires généraux d'administration scolaire et universitaire) </p>
+<p>Secrétaire général et chef de division (sauf lorsque ces fonctions sont exercées par des Administrateurs de l'éducation nationale, de l'enseignement supérieur et de la recherche)</p>
 </td>
 <td valign="top" width="74">
 <p align="center">A </p>
@@ -668,7 +668,7 @@
 </tr>
 <tr>
 <td valign="top" width="149">
-<p>4. Personnels nommés dans l'emploi de secrétaire général d'administration scolaire et universitaire </p>
+<p>4. Personnels nommés dans l'emploi d' administrateur de l'éducation nationale, de l'enseignement supérieur et de la recherche </p>
 </td>
 <td valign="top" width="74">
 <p align="center">A </p>

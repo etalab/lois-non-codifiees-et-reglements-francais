@@ -2,7 +2,7 @@
 
 Les dispositions du présent arrêté s'appliquent aux fonctionnaires titulaires appartenant à l'un des corps suivants, ou détachés dans l'un d'eux sauf en qualité de stagiaires :
 
-1. Conseillers d'administration scolaire et universitaire, régis par le décret n° 83-1033 du 3 décembre 1983 modifié portant statuts particuliers des corps de l'administration scolaire et universitaire et fixant les dispositions applicables à l'emploi de secrétaire général d'administration scolaire et universitaire ;
+1. Conseillers d'administration scolaire et universitaire, régis par le décret n° 83-1033 du 3 décembre 1983 modifié portant statuts particuliers des corps de l'administration scolaire et universitaire et fixant les dispositions applicables à l'emploi d'administrateur de l'éducation nationale, de l'enseignement supérieur et de la recherche ;
 
 2. Attachés d'administration de l'éducation nationale et de l'enseignement supérieur, régis par le décret n° 2006-1732 du 23 décembre 2006 portant dispositions statutaires relatives au corps des attachés d'administration de l'éducation nationale et de l'enseignement supérieur ;
 

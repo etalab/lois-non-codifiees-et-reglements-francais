@@ -161,7 +161,7 @@ Dès lors qu'ils exercent leurs fonctions en administration centrale, les foncti
 <pre/>
 </td>
 <td>
-<p>Personnel de direction de 1re et de 2e classe </p>
+<p>Personnel de direction de 1re et de 2e classe.</p>
 </td>
 </tr>
 <tr>
@@ -177,7 +177,7 @@ Dès lors qu'ils exercent leurs fonctions en administration centrale, les foncti
 <pre/>
 </td>
 <td>
-<p>Secrétaire général d'administration scolaire et universitaire. </p>
+<p>Administrateur de l'éducation nationale, de l'enseignement supérieur et de la recherche. </p>
 </td>
 </tr>
 <tr>

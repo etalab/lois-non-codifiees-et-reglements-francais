@@ -12,7 +12,7 @@ b) Dans un emploi de secrétaire général d'établissement public d'enseignemen
 
 c) Dans l'emploi de directeur adjoint ou dans un emploi de sous-directeur du Centre national des oeuvres universitaires et scolaires ;
 
-d) Dans un emploi de secrétaire général d'administration scolaire et universitaire ;
+d) Dans un emploi d'administrateur de l'éducation nationale, de l'enseignement supérieur et de la recherche ;
 
 3° Les conseillers d'administration scolaire et universitaire ayant accompli au moins dix ans de services effectifs en catégorie A et soit appartenant à la hors-classe, soit ayant atteint au moins le 5e échelon de la classe normale ;
 

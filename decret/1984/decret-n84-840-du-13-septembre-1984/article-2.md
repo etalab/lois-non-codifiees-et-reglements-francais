@@ -14,4 +14,4 @@ Les conseillers d'administration scolaire et universitaire hors classe, ou ayant
 
 Les fonctionnaires nommés depuis deux ans au moins dans l'emploi de secrétaire général d'université ;
 
-Les fonctionnaires nommés dans l'emploi de secrétaire général d'administration scolaire et universitaire.
+Les fonctionnaires nommés dans l'emploi d'administrateur de l'éducation nationale, de l'enseignement supérieur et de la recherche.

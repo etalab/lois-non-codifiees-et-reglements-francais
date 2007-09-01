@@ -8,7 +8,7 @@ Le jury comprend huit membres au minimum. Il est composé d'au moins :
 
 - un secrétaire général d'académie ;
 
-- un secrétaire général d'administration scolaire et universitaire ;
+- un administrateur de l'éducation nationale, de l'enseignement supérieur et de la recherche ;
 
 - un secrétaire général d'établissement public d'enseignement supérieur ;
 

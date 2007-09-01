@@ -122,7 +122,7 @@ Dès lors qu'ils exercent leurs fonctions en administration centrale, les foncti
 </tr>
 <tr>
 <td valign="top">
-<p>Secrétaire général d'administration scolaire et universitaire. </p>
+<p>Administrateur de l'éducation nationale, de l'enseignement supérieur et de la recherche. </p>
 </td>
 </tr>
 <tr>

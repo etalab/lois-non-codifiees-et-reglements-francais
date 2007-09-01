@@ -1,0 +1,3 @@
+# Article 6
+
+Chacune des deux périodes de formation définies à l'article 3 du présent arrêté comprend un stage dont la durée est de sept semaines pour le tronc commun et de huit semaines pour la période d'approfondissement. Les stages doivent permettre, d'une part, l'insertion dans une organisation publique et l'apprentissage du fonctionnement administratif et, d'autre part, la mise en pratique des savoirs et des méthodes acquis à l'institut par le biais des travaux qui sont confiés aux élèves pendant le stage. Les maîtres de stage sont informés de ces objectifs par le directeur de l'institut et contribuent à leur réalisation.

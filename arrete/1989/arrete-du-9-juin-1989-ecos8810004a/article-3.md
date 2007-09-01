@@ -2,11 +2,11 @@
 
 Le secrétariat général prépare et met en oeuvre les programmes d'action relatifs à la politique du personnel, au développement et à l'emploi des moyens. Il organise les procédures de programmation et de gestion de l'I.N.S.E.E. et gère l'ensemble des moyens. Il coordonne les relations avec les organisations syndicales.
 
-Le secrétariat général comprend le département de la programmation et de la gestion, le département du personnel, le département des services généraux, le département de l'informatique et le département de l'organisation et des méthodes de la production.
+Le secrétariat général comprend le département de la programmation et de la gestion, le département des ressources humaines, le département des services généraux, le département de l'informatique et le département de l'organisation et des méthodes de la production.
 
 Le département de la programmation et de la gestion prévoit les ressources, notamment budgétaires, et leurs emplois, prépare les arbitrages de répartition, met en place les ressources et en suit l'emploi à court terme et de façon rétrospective et assure la comptabilité générale de l'INSEE.
 
-Le département du personnel propose et applique les orientations de la politique et de la gestion de personnel de l'I.N.S.E.E. élabore et met en oeuvre les actions de mise en valeur des ressources humaines et de formation des personnels.
+Le département des ressources humaines propose et applique les orientations de la politique et de la gestion de personnel de l'INSEE, élabore et met en oeuvre les actions de mise en valeur des ressources humaines, de formation des personnels et d'information interne.
 
 Le département des services généraux assure la gestion du parc immobilier, les achats centralisés de matériels, de mobiliers et de prestations de services, l'appui logistique et les activités de service social pour la direction générale.
 

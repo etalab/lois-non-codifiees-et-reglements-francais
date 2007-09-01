@@ -1,7 +1,9 @@
 # Article 60
 
-Les nominations dans l'emploi de secrétaire général d'administration scolaire et universitaire sont prononcées par arrêté du ministre chargé de l'éducation nationale. Les fonctionnaires ainsi nommés sont placés dans leur corps d'origine en position de détachement.
+Les administrateurs de l'éducation nationale, de l'enseignement supérieur et de  la recherche sont nommés pour une durée maximale de cinq ans, renouvelable une  fois sur le même emploi, par arrêté du ou des ministres intéressés, le cas  échéant, sur proposition du président ou du directeur de l'établissement public  d'affectation.
 
-Les nominations dans l'emploi de secrétaire général d'administration scolaire et universitaire sont prononcées pour une période maximale de cinq ans renouvelable. Nul ne peut exercer consécutivement dans le même service ou établissement plus de dix ans.
+Les fonctionnaires nommés dans cet emploi  sont placés en position de détachement de leur corps ou cadre d'emplois  d'origine.
 
-Tout fonctionnaire nommé dans un emploi de secrétaire général d'administration scolaire et universitaire peut se voir retirer cet emploi dans l'intérêt du service.
+Ils peuvent se voir retirer cet emploi dans  l'intérêt du service.
+
+Lorsqu'un fonctionnaire en fin de  détachement se trouve dans la situation de solliciter la liquidation de ses  droits à pension dans le délai de deux ans maximum, une prolongation  exceptionnelle de détachement dans le même emploi peut lui être accordée, sur sa  demande, pour une période de deux ans maximum.

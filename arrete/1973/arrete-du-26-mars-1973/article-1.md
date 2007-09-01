@@ -156,7 +156,7 @@ Secrétaire général d'université, mentionné dans le décret n° 70-1094 du 3
 
 Secrétaire général de la Bibliothèque nationale, mentionné dans le décret n° 69-1265 du 31 décembre 1969.
 
-Proviseur, directrice et censeur des études de lycée, principal et sous- directeur de collège d'enseignement secondaire, directeur de collège d'enseignement technique (sauf directeur de collège d'enseignement technique en fonctions à la date de la rentrée scolaire 1969-1970, corps d'extinction), directeur de collège d'enseignement général, directeur et sous-directeur d'école normale nationale d'apprentissage, directeur d'école normale primaire, directeur de centre national de formation de maîtres de l'enfance inadaptée, mentionnés dans le décret n° 69-494 du 30 mai 1969.
+Proviseur, directrice et censeur des études de lycée, principal et sous-directeur de collège d'enseignement secondaire, directeur de collège d'enseignement technique (sauf directeur de collège d'enseignement technique en fonctions à la date de la rentrée scolaire 1969-1970, corps d'extinction), directeur de collège d'enseignement général, directeur et sous-directeur d'école normale nationale d'apprentissage, directeur d'école normale primaire, directeur de centre national de formation de maîtres de l'enfance inadaptée, mentionnés dans le décret n° 69-494 du 30 mai 1969.
 
 Directeur de centre de formation de professeurs techniques adjoints de lycée technique, directeur du centre national de préparation au professorat des travaux manuels éducatifs et de l'enseignement ménager, directeur du centre national de formation et de perfectionnement des professeurs d'enseignement ménager et ménager agricole et des maîtres de classe de transition et de classe pratique, mentionnés dans le décret n° 71-59 du 6 janvier 1971.
 
@@ -186,7 +186,7 @@ Administrateur délégué du centre national d'enseignement par correspondance.
 
 Directeur du service interacadémique des examens et concours des académies de Créteil, Paris et Versailles.
 
-Secrétaire général d'administration scolaire et universitaire mentionné dans le décret n° 83-1033 du 3 décembre 1983.
+administrateur de l'éducation nationale, de l'enseignement supérieur et de la recherche mentionné dans le décret n° 83-1033 du 3 décembre 1983.
 
 Aménagement du territoire, équipement, logement et tourisme
 
@@ -256,9 +256,9 @@ Directeur régional du travail, de l'emploi et de la formation professionnelle.
 
 P.T.T.
 
-Chef de service régional des postes et chef de service départemental des postes, mentionné dans les décrets n°s 79-495 et 79-496 du 20 juin 1979 ;
+Chef de service régional des postes et chef de service départemental des postes, mentionné dans les décrets n° s 79-495 et 79-496 du 20 juin 1979 ;
 
-Directeur d'établissement principal de 1re et de 2e classe des postes et directeur d'établissement principal de 1re et de 2e classe des télécommunications, mentionnés dans les décrets n°s 78-934 et 78-935 du 30 août 1978 modifiant respectivement les décrets n°s 76-118 et 76-119 du 29 janvier 1976.
+Directeur d'établissement principal de 1re et de 2e classe des postes et directeur d'établissement principal de 1re et de 2e classe des télécommunications, mentionnés dans les décrets n° s 78-934 et 78-935 du 30 août 1978 modifiant respectivement les décrets n° s 76-118 et 76-119 du 29 janvier 1976.
 
 Chef de service régional (direction générale des postes et directions relevant des services généraux) et chef de service régional (direction générale des télécommunications) mentionnés dans les décrets n° 79-495 du 20 juin 1979 et n° 84-151 du 27 février 1984 ;
 

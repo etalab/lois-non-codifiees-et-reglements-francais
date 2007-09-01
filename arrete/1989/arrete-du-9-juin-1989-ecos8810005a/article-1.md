@@ -12,13 +12,17 @@ Le département de la programmation et de la gestion comprend :
 
 -la division du plan de charge et du suivi des travaux.
 
-Le département du personnel comprend :
+Le département des ressources humaines comprend :
 
--la division de gestion du personnel ;
+- la division du développement et de la valorisation des ressources humaines ;
 
--l'unité de mise en valeur des ressources humaines ;
+- la division des parcours professionnels et du dialogue social ;
 
--la division de la formation et perfectionnement.
+- la division de la gestion statutaire ;
+
+- la division de l'administration et de la rémunération centrales ;
+
+- la division du système de gestion et d'information du personnel.
 
 Le département des services généraux comprend :
 

@@ -2,6 +2,6 @@
 
 - [Titre Ier : Dispositions communes.](titre-ier)
 - [Titre II : Dispositions relatives aux corps de l'administration scolaire et universitaire](titre-ii)
-- [Titre III : Dispositions applicables à l'emploi de secrétaire général d'administration scolaire et universitaire.](titre-iii)
+- [Titre III : Dispositions applicables à l'emploi d'administrateur de l'éducation nationale, de l'enseignement supérieur et de la recherche.](titre-iii)
 - [Titre IV : Dispositions finales.](titre-iv)
 - [Article 64](article-64.md)

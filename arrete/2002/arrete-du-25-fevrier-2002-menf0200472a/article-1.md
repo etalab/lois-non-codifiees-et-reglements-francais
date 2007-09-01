@@ -16,7 +16,7 @@ Dès lors qu'ils exercent en services déconcentrés, dans les établissements p
 </tr>
 <tr>
 <td>
-<p>Secrétaires généraux d'administration scolaire et universitaire ; </p>
+<p>Administrateurs de l'éducation nationale, de l'enseignement supérieur et de la recherche ; </p>
 </td>
 </tr>
 <tr>
