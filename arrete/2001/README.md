@@ -171,7 +171,6 @@
 - [Arrêté du 9 février 2001 (DEFD0101209A)](arrete-du-9-fevrier-2001-defd0101209a)
 - [Arrêté du 9 février 2001 (MENF0100172A)](arrete-du-9-fevrier-2001-menf0100172a)
 - [Arrêté du 9 janvier 2001 (ECOS0150001A)](arrete-du-9-janvier-2001-ecos0150001a)
-- [Arrêté du 9 janvier 2001 (EQUA0001725A)](arrete-du-9-janvier-2001-equa0001725a)
 - [Arrêté du 9 janvier 2001 (EQUE0100096A)](arrete-du-9-janvier-2001-eque0100096a)
 - [Arrêté du 9 janvier 2002 (MENF0102574A)](arrete-du-9-janvier-2002-menf0102574a)
 - [Arrêté du 9 janvier 2002 (MENF0102575A)](arrete-du-9-janvier-2002-menf0102575a)
