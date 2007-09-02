@@ -1,3 +1,0 @@
-# Article 20
-
-Les personnes titulaires du certificat d'aptitude aux fonctions d'aide médico-psychologique qui souhaitent obtenir le diplôme professionnel d'auxiliaire de puériculture sont dispensées des modules de formation 4, 5, 7 et 8. Elles doivent suivre les modules de formation 1, 2, 3 et 6 ainsi que les stages correspondant à ces derniers. Parmi ces stages, un doit se dérouler en service de maternité, un en structure accueillant des enfants malades, un autre dans une structure accueillant des enfants en situation de handicap ou dans un service de pédopsychiatrie ou dans une structure d'aide sociale à l'enfance et un dans une structure accueillant des enfants de moins de six ans.

@@ -736,7 +736,6 @@
 - [Arrêté du 24 août 2004 (EQUP0400841A)](arrete-du-24-aout-2004-equp0400841a)
 - [Arrêté du 24 août 2004 (MENA0401645A)](arrete-du-24-aout-2004-mena0401645a)
 - [Arrêté du 24 août 2004 (MJSK0470184A)](arrete-du-24-aout-2004-mjsk0470184a)
-- [Arrêté du 24 août 2004 (SANP0422922A)](arrete-du-24-aout-2004-sanp0422922a)
 - [Arrêté du 24 décembre 2003 (ECOC0300122A)](arrete-du-24-decembre-2003-ecoc0300122a)
 - [Arrêté du 24 décembre 2003 (SOCF0312091A)](arrete-du-24-decembre-2003-socf0312091a)
 - [Arrêté du 24 décembre 2003 (SOCF0312092A)](arrete-du-24-decembre-2003-socf0312092a)
