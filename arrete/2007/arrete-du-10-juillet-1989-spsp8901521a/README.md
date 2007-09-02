@@ -6,3 +6,4 @@
 - [Chapitre III : fonctionnement du centre](chapitre-iii)
 - [Chapitre IV : Dispositions diverses](chapitre-iv)
 - [Article 6](article-6.md)
+- [Article 15](article-15.md)

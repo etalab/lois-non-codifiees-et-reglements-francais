@@ -6,4 +6,5 @@
 - [Chapitre II : Dossier à fournir et présélection](chapitre-ii)
 - [Chapitre III : Contrôle des connaissances](chapitre-iii)
 - [Chapitre IV : Dispositions diverses](chapitre-iv)
+- [Article 22](article-22.md)
 - [Annexes](annexes)

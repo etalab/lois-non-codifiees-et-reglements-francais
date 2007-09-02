@@ -2,7 +2,7 @@
 
 Les aides-soignants sont recrutés en qualité d'aide-soignant, d'auxiliaire de puériculture ou d'aide médico-psychologique :
 
-1° Parmi les élèves aides-soignants, titulaires soit du diplôme professionnel d'aide-soignant, soit du diplôme professionnel d'auxiliaire de puériculture, soit du diplôme d'Etat d'aide médico-psychologique ainsi que parmi les titulaires d'une attestation d'aptitude aux fonctions d'aide-soignant ou d'auxiliaire de puériculture, délivrée dans les conditions prévues aux articles R. 4383-7, R. 4383-8, R. 4383-9, R. 4383-13, R. 4383-14 et R. 4383-15 du code de la santé publique ;
+1° Parmi les élèves aides-soignants, titulaires soit du diplôme d'Etat d'aide-soignant, soit du diplôme d'Etat d'auxiliaire de puériculture, soit du diplôme d'Etat d'aide médico-psychologique ainsi que parmi les titulaires d'une attestation d'aptitude aux fonctions d'aide-soignant ou d'auxiliaire de puériculture, délivrée dans les conditions prévues aux articles R. 4383-7, R. 4383-8, R. 4383-9, R. 4383-13, R. 4383-14 et R. 4383-15 du code de la santé publique ;
 
 2° Dans la limite des emplois qui ne pourront être pourvus au titre des dispositions des 1°, 3° et 4° du présent article, par concours sur titres ouverts aux candidats titulaires de l'un des titres mentionnés au 1° ci-dessus ;
 
