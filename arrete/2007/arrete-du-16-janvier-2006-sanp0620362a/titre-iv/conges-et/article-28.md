@@ -1,0 +1,3 @@
+# Article 28
+
+Tout congé de maladie ou congé pour enfant malade doit être justifié par un certificat médical. Pour la durée totale de la formation, une franchise maximale de cinq jours ouvrés peut être accordée aux élèves, pendant laquelle ils sont dispensés des cours, des travaux dirigés, des travaux de groupe, des séances d'apprentissages pratiques et gestuels et des stages. Ils devront toutefois présenter les épreuves de validation des modules de formation. Au-delà de cinq jours d'absence, les stages non effectués doivent faire l'objet d'un rattrapage. Cette disposition s'applique à l'ensemble des élèves, quelles que soient les modalités de suivi de la formation.

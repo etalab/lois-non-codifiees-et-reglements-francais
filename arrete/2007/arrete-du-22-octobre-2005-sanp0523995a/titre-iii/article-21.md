@@ -1,6 +1,6 @@
 # Article 21
 
-Le jury du diplôme professionnel d'aide-soignant est nommé par le préfet de région, sur proposition du directeur régional des affaires sanitaires et sociales. Il est présidé par ce dernier ou son représentant et comprend :
+Le jury du diplôme d'Etat d'aide-soignant est nommé par le préfet de région, sur proposition du directeur régional des affaires sanitaires et sociales. Il est présidé par ce dernier ou son représentant et comprend :
 
 - un directeur d'un institut de formation d'aides-soignants ;
 

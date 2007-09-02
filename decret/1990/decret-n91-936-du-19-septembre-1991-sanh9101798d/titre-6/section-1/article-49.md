@@ -12,7 +12,7 @@ b) Les machinistes, les magasiniers de 3e catégorie, les égoutiers et les coif
 
 2° Au grade de maître ouvrier : les maîtres ouvriers, les maîtres ouvriers principaux, les maîtres ouvriers de pharmacie et les maîtres ouvriers principaux de pharmacie. Ces agents sont reclassés à égalité d'échelon avec maintien de l'ancienneté acquise dans cet échelon ;
 
-3° Au grade de maître ouvrier principal, les chefs de groupe automobile non titulaires du certificat de capacité d'ambulancier.
+3° Au grade de maître ouvrier principal, les chefs de groupe automobile non titulaires du diplôme d'Etat d'ambulancier.
 
 Nonobstant les dispositions de l'article 58, ces agents sont reclassés conformément au tableau ci-dessous :
 

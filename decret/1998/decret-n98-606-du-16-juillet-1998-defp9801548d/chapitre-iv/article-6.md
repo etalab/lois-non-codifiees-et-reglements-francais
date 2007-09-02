@@ -1,6 +1,6 @@
 # Article 6
 
-Peuvent seuls être détachés dans le corps régi par le présent décret les fonctionnaires de catégorie C titulaires du diplôme professionnel d'aide-soignant ou de tout titre requis pour l'exercice de la profession par le ministre chargé de la santé publique.
+Peuvent seuls être détachés dans le corps régi par le présent décret les fonctionnaires de catégorie C titulaires du diplôme d'Etat d'aide-soignant ou de tout titre requis pour l'exercice de la profession par le ministre chargé de la santé publique.
 
 Le détachement est prononcé à équivalence de grade et à un échelon comportant un indice égal ou, à défaut, immédiatement supérieur à celui dont les intéressés bénéficiaient dans leur corps, cadre d'emplois ou emploi d'origine.
 

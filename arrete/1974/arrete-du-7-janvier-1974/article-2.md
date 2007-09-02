@@ -4,7 +4,7 @@ Le comité des études visé à l'article 1er ci-dessus comprend, sous la prési
 
 Huit membres de droit représentant les administrations ou services intéressés par la formation des ambulanciers ;
 
-Huit représentants des enseignants assurant l'enseignement préparatoire au certificat de capacité d'ambulancier ;
+Huit représentants des enseignants assurant l'enseignement préparatoire au diplôme d'Etat d'ambulancier ;
 
 Huit personnes qualifiées désignées en raison de leur compétence particulière ou représentants de la profession d'ambulancier ;
 

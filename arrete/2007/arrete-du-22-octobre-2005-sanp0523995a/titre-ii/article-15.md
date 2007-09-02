@@ -1,6 +1,6 @@
 # Article 15
 
-La formation conduisant au diplôme professionnel d'aide-soignant comporte 1 435 heures d'enseignement théorique et clinique, en institut et en stage. Elle est organisée conformément au référentiel de formation joint en annexes I et II (non reproduit) du présent arrêté.
+La formation conduisant au diplôme d'Etat d'aide-soignant comporte 1 435 heures d'enseignement théorique et clinique, en institut et en stage. Elle est organisée conformément au référentiel de formation joint en annexes I et II (non reproduit) du présent arrêté.
 
 L'enseignement en institut comprend huit modules, dispensés sous forme de cours magistraux, de travaux dirigés, de travaux de groupe et de séances d'apprentissages pratiques et gestuels.
 

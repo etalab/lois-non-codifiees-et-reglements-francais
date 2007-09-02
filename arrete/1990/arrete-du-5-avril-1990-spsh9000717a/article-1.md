@@ -52,9 +52,9 @@ Les diplômes et certificats du secteur sanitaire et social acquis en fin d'étu
 
 - diplôme de préparateur en pharmacie hospitalière ;
 
-- diplôme professionnel d'aide-soignant ;
+- diplôme d'Etat d'aide-soignant ;
 
-- diplôme professionnel d'auxiliaire de puériculture ;
+- diplôme d'Etat d'auxiliaire de puériculture ;
 
 - diplôme d'Etat d'aide médico-psychologique ;
 
