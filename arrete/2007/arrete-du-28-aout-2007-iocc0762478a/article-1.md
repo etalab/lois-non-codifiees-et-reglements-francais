@@ -1,0 +1,3 @@
+# Article 1
+
+La direction générale de la police nationale est autorisée à mettre en oeuvre un traitement automatisé de données à caractère personnel ayant pour finalité de prévenir et de lutter contre les violences lors de manifestations sportives, notamment en garantissant la pleine exécution des mesures d'interdictions administratives et judiciaires de stade, en facilitant les contrôles aux abords et dans les enceintes sportives, en facilitant le suivi et la surveillance des supporteurs à risque ayant déjà fait l'objet d'une mesure d'interdiction, en permettant à l'autorité préfectorale, le cas échéant, de mieux apprécier le comportement d'ensemble adopté par les intéressés à l'occasion de différentes manifestations sportives et en réalisant des statistiques.
