@@ -1,3 +1,17 @@
 # Article 2
 
-Le directeur de l'Ecole nationale supérieure des mines de Paris, le directeur de l'Ecole nationale supérieure des mines de Saint-Etienne, le directeur de l'Ecole nationale supérieure des techniques industrielles et des mines d'Alès, le directeur de l'Ecole nationale supérieure des techniques industrielles et des mines de Douai, le directeur de l'Ecole nationale supérieure des techniques industrielles et des mines de Nantes, le directeur de l'Ecole nationale supérieure des techniques industrielles et des mines d'Albi-Carmaux sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+Le présent arrêté s'applique aux agents mentionnés à l'article 1er travaillant au sein de l'un des établissements suivants :
+
+Ecole nationale supérieure des mines de Paris ;
+
+Ecole nationale supérieure des mines de Saint-Etienne ;
+
+Ecole nationale supérieure des techniques industrielles et des mines d'Alès ;
+
+Ecole nationale supérieure des techniques industrielles et des mines de Douai ;
+
+Ecole nationale supérieure des techniques industrielles et des mines de Nantes ;
+
+Ecole nationale supérieure des techniques industrielles et des mines d'Albi-Carmaux ;
+
+Institut national de la propriété industrielle.
