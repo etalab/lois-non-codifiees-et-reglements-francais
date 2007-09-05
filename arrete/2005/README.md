@@ -48,7 +48,6 @@
 - [Arrêté du 2 mai 2005 (AGRF0501188A)](arrete-du-2-mai-2005-agrf0501188a)
 - [Arrêté du 2 mai 2005 (DEFP0500636A)](arrete-du-2-mai-2005-defp0500636a)
 - [Arrêté du 2 mai 2005 (INTE0500351A)](arrete-du-2-mai-2005-inte0500351a)
-- [Arrêté du 3 août 2005 (AGRG0501832A)](arrete-du-3-aout-2005-agrg0501832a)
 - [Arrêté du 3 août 2005 (DEFP0500942A)](arrete-du-3-aout-2005-defp0500942a)
 - [Arrêté du 3 août 2005 (ECOT0514486A)](arrete-du-3-aout-2005-ecot0514486a)
 - [Arrêté du 3 août 2005 (ECOT0514487A)](arrete-du-3-aout-2005-ecot0514487a)
