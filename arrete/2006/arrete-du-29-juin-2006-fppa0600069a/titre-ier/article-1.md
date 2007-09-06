@@ -6,7 +6,7 @@ La composition du comité interministériel consultatif d'action sociale des adm
 
 2° Neuf représentants titulaires et neuf représentants suppléants de l'administration ;
 
-3° a) Douze représentants titulaires du personnel, membres des organisations syndicales représentées au Conseil supérieur de la fonction publique de l'Etat, dont :
+3° a) Treize représentants titulaires du personnel, membres des organisations syndicales représentées au Conseil supérieur de la fonction publique de l'Etat, dont :
 
 -deux représentants de l'Union générale des fédérations de fonctionnaires CGT ;
 
@@ -21,6 +21,8 @@ La composition du comité interministériel consultatif d'action sociale des adm
 -un représentant de la Fédération française des cadres de la fonction publique CGC ;
 
 -un représentant de la Fédération générale des fonctionnaires CFTC ;
+
+-un représentant de l'Union syndicale Solidaires-fonctions publiques et assimilés ;
 
 b) Chacune de ces organisations syndicales dispose d'un nombre de représentants suppléants égal au nombre de ses représentants titulaires, destinés à siéger en l'absence du représentant titulaire correspondant.
 

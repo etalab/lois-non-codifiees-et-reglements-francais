@@ -1,3 +1,5 @@
 # Article 5
 
-Le passeport ne peut être remis qu'aux vétérinaires titulaires d'un mandat sanitaire et seulement par un éditeur enregistré au Journal officiel de la République française conformément à l'arrêté du 8 avril 2004 susvisé. Les éditeurs doivent vérifier, lors de chaque commande, que les vétérinaires effectuant les commandes sont investis du mandat sanitaire.
+Le passeport ne peut être remis qu'aux vétérinaires titulaires d'un mandat sanitaire conformément aux dispositions de l'article R. 221-4 du code rural ainsi qu'aux vétérinaires ou enseignants des écoles nationales vétérinaires mentionnés à l'article R. 221-11 du code rural, et seulement par un éditeur enregistré au Journal officiel de la République française conformément à l'arrêté du 8 avril 2004 susvisé.
+
+Les éditeurs doivent vérifier, lors de chaque commande, que les vétérinaires effectuant les commandes répondent aux conditions fixées au présent article.

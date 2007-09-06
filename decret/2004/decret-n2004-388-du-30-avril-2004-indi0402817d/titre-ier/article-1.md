@@ -1,6 +1,6 @@
 # Article 1
 
-Tout opérateur qui souhaite s'installer sur le territoire national pour exercer l'activité d'achat d'électricité pour revente aux clients éligibles adresse, par lettre recommandée avec accusé de réception postal, une déclaration au ministre chargé de l'énergie. Cette déclaration comporte :
+Tout opérateur qui souhaite exercer l'activité d'achat d'électricité pour revente aux clients éligibles adresse, par lettre recommandée avec accusé de réception postal, une déclaration au ministre chargé de l'énergie. Cette déclaration comporte :
 
 1° Le nom ou la raison sociale du déclarant et la qualité du signataire de la déclaration ;
 

@@ -1,0 +1,5 @@
+# Article 6
+
+Tout producteur titulaire d'un certificat ouvrant droit à l'obligation d'achat d'électricité délivré avant le 15 juillet 2007, ainsi que du document attestant du dépôt, avant le 15 juillet 2007, de la demande de permis de construire lorsque celui-ci est requis, a droit, à sa demande, à un contrat d'achat pour l'électricité produite par une installation d'une puissance installée inférieure ou égale à 12 mégawatts utilisant l'énergie mécanique du vent implantée dans une zone interconnectée au réseau métropolitain continental et se trouvant en dehors du périmètre d'une zone de développement de l'éolien.
+
+Pour l'application du présent article, la puissance installée d'une installation de production d'électricité est définie comme la somme des puissances électriques unitaires maximales des machines électrogènes qui sont susceptibles de fonctionner simultanément dans un même établissement, identifié par son numéro d'identité au répertoire national des entreprises et des établissements, tel que défini par l'article R. 123-221 du code de commerce.

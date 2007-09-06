@@ -8,7 +8,7 @@ Toutes facilités sont accordées au président pour l'exercice de son mandat ;
 
 2° Douze représentants titulaires et douze représentants suppléants de l'administration, nommés parmi les chefs des services déconcentrés des administrations de l'Etat ou leurs collaborateurs responsables de la mise en oeuvre d'une politique ministérielle d'action sociale ;
 
-3° Douze représentants titulaires et douze représentants suppléants du personnel, membres des organisations syndicales représentées au comité interministériel consultatif d'action sociale des administrations de l'Etat, nommés sur proposition desdites organisations syndicales, selon la répartition des sièges prévue à l'article 1er (3°, a) de l'arrêté du 29 juin 2006 fixant la composition et le fonctionnement du comité interministériel consultatif d'action sociale des administrations de l'Etat ;
+3° Treize représentants titulaires et treize représentants suppléants du personnel, membres des organisations syndicales représentées au comité interministériel consultatif d'action sociale des administrations de l'Etat, nommés sur proposition desdites organisations syndicales, selon la répartition des sièges prévue à l'article 1er (3°, a) de l'arrêté du 29 juin 2006 modifié fixant la composition et le fonctionnement du comité interministériel consultatif d'action sociale des administrations de l'Etat ;
 
 4° S'agissant de la section de la région Corse, les sièges des représentants du personnel sont répartis, par arrêté du préfet de région, entre les organisations syndicales de fonctionnaires représentatives dans les services implantés dans cette région ;
 
