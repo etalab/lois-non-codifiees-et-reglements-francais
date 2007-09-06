@@ -1,0 +1,3 @@
+# Article 1
+
+Sans préjudice des dispositions du quatrième alinéa de l'article 10 de la loi du 10 février 2000 susvisée, pour l'application du présent décret, la puissance installée d'une installation de production d'électricité est définie comme la somme des puissances électriques unitaires maximales des machines électrogènes qui appartiennent à une même catégorie telle que définie aux articles 2 et 3 du présent décret et qui sont susceptibles de fonctionner simultanément dans un même établissement, identifié par son numéro d'identité au répertoire national des entreprises et des établissements, tel que défini par le décret du 14 mars 1973 susvisé.

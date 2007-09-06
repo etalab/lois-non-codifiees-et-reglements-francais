@@ -1,6 +1,6 @@
 # Article 2
 
-I. - Le ministre chargé de l'énergie communique à la Commission de régulation de l'énergie les conditions de l'appel d'offres qu'il a définies, accompagnées de l'avis du gestionnaire du réseau public de transport et, le cas échéant, de chaque gestionnaire de réseau public de distribution concerné. Ces avis sont rendus publics par la commission, sous réserve des secrets protégés par la loi.
+I. - Le ministre chargé de l'énergie communique à la Commission de régulation de l'énergie les conditions de l'appel d'offres qu'il a définies.
 
 II. - La commission rédige le cahier des charges de l'appel d'offres dans un délai fixé par le ministre. Ce délai, qui court de la date de réception des documents adressés par le ministre, ne peut être inférieur à un mois ni supérieur à six mois.
 

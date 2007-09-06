@@ -1,8 +1,8 @@
 # Article 5
 
-I. - Le ministre chargé de l'énergie adresse un avis d'appel d'offres à l'Office des publications officielles des Communautés européennes pour publication au Journal officiel des Communautés européennes.
+I. - Le ministre chargé de l'énergie adresse un avis d'appel d'offres à l'Office des publications officielles des Communautés européennes pour publication au Journal officiel de l'Union européenne.
 
-II. - Le délai d'envoi des dossiers de candidature à l'appel d'offres est calculé à compter de la date de publication de l'avis au Journal officiel des Communautés européennes. Ce délai ne peut être inférieur à six mois.
+II. - Le délai d'envoi des dossiers de candidature à l'appel d'offres est calculé à compter de la date de publication de l'avis au Journal officiel de l'Union européenne. Ce délai ne peut être inférieur à six mois.
 
 III. - L'avis d'appel d'offres mentionne :
 
