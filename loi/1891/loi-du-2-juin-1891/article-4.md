@@ -1,6 +1,6 @@
 # Article 4
 
-Quiconque aura en quelque lieu et sous quelque forme que ce soit, offert de recevoir ou reçu des paris sur les courses de chevaux, soit directement, soit par intermédiaire, sera puni d'un emprisonnement de trois ans et d'une amende de 45000 euros. Les peines sont portées à sept ans d'emprisonnement et à 100 000 Euros d'amende lorsque l'infraction est commise en bande organisée.
+Quiconque aura en quelque lieu et sous quelque forme que ce soit, offert de recevoir ou reçu des paris sur les courses de chevaux, soit directement, soit par intermédiaire, sera puni d'un emprisonnement de trois ans et d'une amende de 90000 euros. Les peines sont portées à sept ans d'emprisonnement et à 200 000 Euros d'amende lorsque l'infraction est commise en bande organisée.
 
 L'interdiction des droits énumérés à l'article 131-26 du code pénal pendant cinq à dix ans, pourra être prononcée.
 
@@ -25,3 +25,5 @@ Indépendamment de l'amende pénale, des confiscations et des réparations civil
 Sur le produit des amendes, saisies et confiscations prononcées en vertu des dispositions qui précèdent, il sera réparti des récompenses, pouvant atteindre au maximum 25 % au total, aux agents verbalisateurs ou saisissants.
 
 Un arrêté conjoint des ministres de l'intérieur, de l'agriculture et de l'économie et des finances fixera les modalités de cette répartition.
+
+Quiconque aura fait de la publicité, par quelque moyen que ce soit, en faveur des paris sur les courses dechevaux visés au présent article est puni de 30 000 euros d'amende. Le tribunal peut porter le montant de l'amende au quadruple du montant des dépenses publicitaires consacrées à l'opération illégale.

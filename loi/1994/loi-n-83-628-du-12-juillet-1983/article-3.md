@@ -1,6 +1,6 @@
 # Article 3
 
-Les personnes physiques coupables des infractions prévues par la présente loi encourent également les peines complémentaires suivantes :
+Les personnes physiques coupables des infractions prévues par la présente loi, à l'exception de celle prévue au deuxième alinéa de l'article 1er, encourent également les peines complémentaires suivantes :
 
 1° L'interdiction, suivant les modalités prévues par l'article 131-26 du code pénal, des droits civiques, civils et de famille ;
 

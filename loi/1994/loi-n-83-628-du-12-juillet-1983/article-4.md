@@ -1,6 +1,6 @@
 # Article 4
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal, des infractions prévues par la présente loi.
+Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal, des infractions prévues par la présente loi, à l'exception de celle prévue au deuxième alinéa de l'article 1er.
 
 Les peines encourues par les personnes morales sont :
 
