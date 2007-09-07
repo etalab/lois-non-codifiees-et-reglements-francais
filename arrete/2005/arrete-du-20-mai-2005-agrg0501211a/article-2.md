@@ -15,3 +15,5 @@ Expédition : l'expédition à partir du territoire français de carnivores dome
 Etat membre expéditeur : l'Etat membre à partir duquel les carnivores domestiques sont expédiés vers un autre Etat membre ;
 
 Etat membre destinataire : l'Etat membre à destination duquel sont expédiés les carnivores domestiques provenant d'un autre Etat membre.
+
+Vétérinaires habilités par l'autorité compétente : les vétérinaires titulaires d'un mandat sanitaire conformément aux dispositions de l'article R. 221-4 du code rural et les vétérinaires ou enseignants des écoles nationales vétérinaires mentionnés à l'article R. 221-11 du code rural.

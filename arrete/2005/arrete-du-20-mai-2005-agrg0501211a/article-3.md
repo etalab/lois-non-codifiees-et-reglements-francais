@@ -10,4 +10,4 @@ b) Avoir été soumis à une vaccination antirabique, en cours de validité, sel
 
 Dans le cas d'une primo-injection, la vaccination est considérée en cours de validité après un délai reconnu par l'Etat membre qui ne peut être inférieur à 21 jours ;
 
-c) Etre accompagnés d'un passeport, conforme au modèle défini par la décision de la Commission 2003 / 803 / CE susvisée, délivré par un vétérinaire habilité par l'autorité compétente (en France, un vétérinaire titulaire d'un mandat sanitaire ou un vétérinaire biologiste des armées conformément à l'article R. 221-11 du code rural) attestant de l'identification et de la vaccination antirabique de l'animal.
+c) Etre accompagnés d'un passeport, conforme au modèle défini par la décision de la Commission 2003 / 803 / CE susvisée, délivré par un vétérinaire habilité par l'autorité compétente attestant de l'identification et de la vaccination antirabique de l'animal.

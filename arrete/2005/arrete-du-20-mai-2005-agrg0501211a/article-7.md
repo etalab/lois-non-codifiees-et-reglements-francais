@@ -12,9 +12,9 @@ b) Etre acheminés par un moyen de transport reconnu par l'Etat membre de destin
 
 c) Etre accompagnés d'un passeport délivré par un vétérinaire habilité par l'autorité compétente (en France, le vétérinaire titulaire d'un mandat sanitaire ou un vétérinaire biologiste des armées conformément à l'article R. 221-11 du code rural) attestant de l'identification et de la vaccination antirabique de l'animal.
 
-d) Dans le cadre des échanges commerciaux, être accompagnés d'un certificat établi par un vétérinaire habilité par l'autorité compétente (en France, un vétérinaire titulaire d'un mandat sanitaire ou un vétérinaire biologiste des armées conformément à l'article R. 221-11 du code rural) attestant d'un examen clinique réalisé vingt-quatre heures avant l'expédition et concluant que les animaux sont en bonne santé et aptes à supporter le transport à destination.
+d) Dans le cadre des échanges commerciaux, être accompagnés d'un certificat établi par un vétérinaire habilité par l'autorité compétente attestant d'un examen clinique réalisé vingt-quatre heures avant l'expédition et concluant que les animaux sont en bonne santé et aptes à supporter le transport à destination.
 
-Le certificat est intégré dans la rubrique IX du passeport intitulée  Examen clinique .
+Le certificat est intégré dans la rubrique IX du passeport intitulée Examen clinique .
 
 e) Avoir été soumis à un traitement antiparasitaire contre les tiques et l'échinococcose.
 
