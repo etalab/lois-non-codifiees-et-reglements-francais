@@ -1,0 +1,3 @@
+# Article 10
+
+Les fonctionnaires maintenus dans leurs fonctions et détachés dans un emploi de conseiller d'administration de l'écologie, du développement et de l'aménagement durables, en application des dispositions de l'article 9, ne peuvent être, à l'issue de leur détachement, renouvelés dans le même emploi que pour une nouvelle période de cinq ans. A l'issue de cette nouvelle période, ceux qui se trouvent dans la position de solliciter la liquidation de leur droit à pension dans un délai de deux ans peuvent bénéficier d'une prolongation exceptionnelle de détachement dans le même emploi pour une durée de deux ans maximum.

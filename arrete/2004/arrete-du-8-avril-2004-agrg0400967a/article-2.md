@@ -1,6 +1,6 @@
 # Article 2
 
-Le vétérinaire investi du mandat sanitaire doit enregistrer les données relatives à chaque passeport délivré, et notamment :
+Le vétérinaire doit enregistrer les données relatives à chaque passeport délivré, et notamment :
 
 - le numéro unique du passeport tel que mentionné à l'article 3 ;
 
