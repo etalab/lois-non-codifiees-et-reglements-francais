@@ -521,7 +521,6 @@
 - [Arrêté du 30 juin 1989 (SPSI8901336A)](arrete-du-30-juin-1989-spsi8901336a)
 - [Arrêté du 30 mars 1989 (ECOC8900046A)](arrete-du-30-mars-1989-ecoc8900046a)
 - [Arrêté du 30 mars 1989 (RESZ8800920A)](arrete-du-30-mars-1989-resz8800920a)
-- [Arrêté du 30 mars 1989 (SPSS8900129A)](arrete-du-30-mars-1989-spss8900129a)
 - [Arrêté du 30 novembre 1989 (BUDZ8900015A)](arrete-du-30-novembre-1989-budz8900015a)
 - [Arrêté du 30 novembre 1989 (INDI8900787A)](arrete-du-30-novembre-1989-indi8900787a)
 - [Arrêté du 30 octobre 1989 (BUDF8900008A)](arrete-du-30-octobre-1989-budf8900008a)
