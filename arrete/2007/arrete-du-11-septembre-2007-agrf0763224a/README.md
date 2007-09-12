@@ -1,4 +1,4 @@
-# Décret n°98-923 du 14 octobre 1998 portant création de l'Etablissement public foncier de l'Ouest Rhône-Alpes (EPORA)
+# Arrêté du 11 septembre 2007 pris en application du décret n° 2007-1334 du 11 septembre 2007 fixant les conditions d'attribution des indemnités compensatoires de handicaps naturels permanents dans le cadre de l'agriculture de montagne et des autres zones défavorisées et modifiant le code rural
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -14,10 +14,4 @@
 - [Article 12](article-12.md)
 - [Article 13](article-13.md)
 - [Article 14](article-14.md)
-- [Article 15](article-15.md)
-- [Article 16](article-16.md)
-- [Article 17](article-17.md)
-- [Article 18](article-18.md)
-- [Article 19](article-19.md)
-- [Article 20](article-20.md)
-- [Annexe](annexe)
+- [Annexes](annexes)
