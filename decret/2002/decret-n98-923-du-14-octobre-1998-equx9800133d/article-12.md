@@ -1,5 +1,27 @@
 # Article 12
 
-Le régime financier et comptable applicable à l'établissement est celui qui résulte des dispositions des articles 190 à 225 du décret du 29 décembre 1962 susvisé.
+Le conseil d'administration règle par ses délibérations les affaires de l'établissement.
 
-En application de l'article R. 321-7 du code de l'urbanisme susvisé, l'agent comptable est désigné par le préfet de région, après avis du trésorier-payeur général de région.
+A cet effet, notamment :
+
+1° Il détermine l'orientation de la politique à suivre et fixe le programme pluriannuel et les tranches annuelles ;
+
+2° Il fixe le montant de la taxe spéciale d'équipement prévue par le code général des impôts ;
+
+3° Il approuve l'état prévisionnel des recettes et des dépenses ;
+
+4° Il autorise les emprunts ;
+
+5° Il arrête le compte financier et se prononce sur l'affectation des résultats ;
+
+6° Il approuve les conventions de mise en oeuvre des articles 2 et 3 du présent décret ;
+
+7° Il Approuve les acquisitions des participations visées à l'article 6 du présent décret ;
+
+8° Il détermine les conditions de recrutement du personnel placé sous l'autorité du directeur ;
+
+9° Il approuve les transactions ou autorise le directeur général à transiger dans les conditions qu'il détermine ;
+
+10° Il adopte le règlement intérieur, qui définit notamment la composition et les conditions de fonctionnement du bureau.
+
+Il peut déléguer au bureau les pouvoirs prévus aux 6° et 8° du présent article.

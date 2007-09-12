@@ -1,23 +1,11 @@
 # Article 9
 
-Le conseil d'administration règle par ses délibérations les affaires de l'établissement. A cet effet, notamment :
+Les membres du conseil d'administration sont désignés pour six ans. Leurs fonctions cessent avec le mandat électif dont ils sont investis.
 
-1° Il détermine l'orientation de la politique à suivre et fixe le programme pluriannuel et les tranches annuelles ;
+En cas de vacance pour quelque cause que ce soit, il est procédé dans les trois mois au remplacement des membres qui ont cessé de faire partie du conseil par de nouveaux membres désignés selon les mêmes modalités que ceux qu'ils remplacent. Le mandat du nouveau membre expire à la date à laquelle aurait normalement pris fin celui de son prédécesseur.
 
-2° Il fixe le montant de la taxe spéciale d'équipement prévue par le code général des impôts ;
+A défaut de désignation d'un ou plusieurs représentants mentionnés à l'article 7, le préfet de la région Rhône-Alpes, préfet du Rhône, procède à cette désignation.
 
-3° Il approuve l'état prévisionnel des recettes et des dépenses ;
+Le mandat de membre du conseil d'administration est renouvelable.
 
-4° Il autorise les emprunts ;
-
-5° Il arrête le compte financier et se prononce sur l'affectation des résultats ;
-
-6° Il approuve les conventions de mise en oeuvre de l'article 2 ;
-
-7° Il détermine les conditions de recrutement du personnel placé sous l'autorité du directeur ;
-
-8° Il approuve les transactions ou autorise le directeur à transiger dans les conditions qu'il détermine ;
-
-9° Il adopte le règlement intérieur, qui définit notamment la composition et les conditions de fonctionnement du bureau ;
-
-Il peut déléguer ses pouvoirs au bureau, à l'exception de ceux définis aux 1°, 2°, 3°, 4°, 5°, 8° et 9° ci-dessus.
+Les membres du conseil d'administration ne peuvent prendre ou conserver aucun intérêt, occuper aucune fonction dans les entreprises traitant avec l'établissement pour des marchés de travaux ou de fournitures, ou assurer des prestations pour ces entreprises. Ils ne peuvent en aucun cas prêter leur concours à titre onéreux à l'établissement.

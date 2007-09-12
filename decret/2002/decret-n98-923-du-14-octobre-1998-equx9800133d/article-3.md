@@ -1,3 +1,3 @@
 # Article 3
 
-Les activités de l'établissement public foncier s'exercent dans le cadre d'un programme pluriannuel d'interventions réalisé par tranches annuelles.
+L'établissement public foncier est habilité, sur les territoires des départements de l'Ardèche, de la Drôme et du Rhône non mentionnés à l'article 2, à procéder pour le compte de l'Etat, des collectivités territoriales et de leurs groupements, à toutes les acquisitions foncières et opérations immobilières et foncières de nature à faciliter l'aménagement au sens de l'article L. 300-1 du code de l'urbanisme.

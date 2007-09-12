@@ -1,19 +1,7 @@
 # Article 14
 
-Les ressources de l'établissement comprennent :
+Le directeur général de l'établissement public est nommé par arrêté du ministre chargé de l'urbanisme, après consultation du préfet de région et du président du conseil d'administration. Les fonctions de directeur général sont incompatibles avec celles de membre du conseil d'administration.
 
-1° Toute ressource fiscale spécifique, autorisée par la loi ;
+Le directeur général est chargé de l'instruction préalable des affaires qui sont de la compétence de l'établissement. Il assiste de droit aux réunions du conseil d'administration et du bureau. Il en prépare et exécute les décisions. En particulier, il prépare et présente le programme pluriannuel et les tranches annuelles d'intervention, l'état prévisionnel des recettes et des dépenses.
 
-2° Les dotations, subventions, avances, fonds de concours ou participations ;
-
-3° Le produit des emprunts ;
-
-4° Les subventions obtenues au lieu et place des collectivités territoriales, établissements publics et sociétés intéressés en exécution des conventions passées avec ceux-ci ;
-
-5° Le produit de la vente des biens meubles et immeubles ;
-
-6° Les revenus nets de ses biens meubles et immeubles ;
-
-7° Les dons et legs ;
-
-8° Les rémunérations de prestations de service et les remboursements d'avances et de préfinancements divers consentis par l'établissement.
+Il gère l'établissement, le représente dans les actes de la vie civile, passe les contrats, este en justice, prépare et conclut les transactions dans les conditions fixées par le conseil d'administration. Il est ordonnateur des recettes et des dépenses. Il recrute le personnel et a autorité sur lui. Il peut déléguer sa signature.

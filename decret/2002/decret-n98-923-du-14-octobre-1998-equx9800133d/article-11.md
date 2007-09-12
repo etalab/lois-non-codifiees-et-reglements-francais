@@ -1,9 +1,25 @@
 # Article 11
 
-Le directeur de l'établissement public est nommé par arrêté du ministre chargé de l'urbanisme, après consultation du préfet de région et du président du conseil d'administration.
+Le conseil d'administration se réunit au moins deux fois par an.
 
-Les fonctions de directeur sont incompatibles avec celles de membre du conseil d'administration.
+Le conseil d'administration est convoqué par son président qui fixe l'ordre du jour et dirige les débats.
 
-Le directeur est chargé de l'instruction préalable des affaires qui sont de la compétence de l'établissement. Il assiste de droit aux réunions du conseil d'administration et du bureau. Il en prépare et exécute les décisions. En particulier, il prépare et présente le programme pluriannuel et les tranches annuelles d'intervention, l'état prévisionnel des recettes et des dépenses.
+Le conseil d'administration peut également être convoqué à la demande du préfet de région.
 
-Il gère l'établissement, le représente, passe les contrats, este en justice et conclut les transactions dans les conditions fixées par le conseil d'administration. Il est ordonnateur des recettes et des dépenses. Il recrute le personnel et a autorité sur lui. Il peut déléguer sa signature.
+Sa convocation est de droit si les deux tiers des membres au moins en adressent la demande écrite à son président.
+
+Le préfet de la région Rhône-Alpes, préfet du Rhône, le préfet de la Loire, le préfet de l'Ardèche, le préfet de la Drôme et le préfet de l'Isère assistent de droit aux séances du conseil d'administration et y sont entendus chaque fois qu'ils le demandent.
+
+Le membre du corps du contrôle économique et financier et l'agent comptable de l'établissement assistent de droit aux séances du conseil d'administration.
+
+Les procès-verbaux et délibérations leur sont adressés.
+
+Le préfet de la région Rhône-Alpes peut soumettre au conseil d'administration toute question dont l'examen lui paraît utile. Le président est tenu de l'inscrire à l'ordre du jour. Le conseil d'administration peut inviter toute personne dont l'audition lui paraît utile. L'ordre du jour des séances doit être porté à la connaissance des membres du conseil, au moins dix jours à l'avance.
+
+Le conseil d'administration délibère valablement lorsque la moitié des membres au moins participent à la séance ou sont représentés.
+
+Quand, après une première convocation régulièrement faite, le conseil d'administration ne s'est pas réuni en nombre suffisant, la délibération est prise valablement sans condition de quorum après seconde convocation.
+
+Un membre du conseil d'administration absent peut se faire représenter par un autre membre. Chaque membre du conseil d'administration ne peut représenter qu'un seul de ses collègues.
+
+Les décisions sont prises à la majorité absolue des suffrages exprimés. En cas de partage égal des voix, la voix du président est prépondérante.
