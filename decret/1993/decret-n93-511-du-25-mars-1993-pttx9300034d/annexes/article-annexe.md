@@ -1,6 +1,6 @@
 # Article ANNEXE
 
-(Classement prenant effet à compter de la date d'effet des statuts particuliers correspondants)
+(Classement prenant effet à compter de la date d'effet des dispositions statutaires)
 
 GRADES
 
@@ -8,13 +8,11 @@ CLASSEMENT hiérarchique (indices bruts)
 
 OBSERVATIONS
 
-I. - EXPLOITANT PUBLIC LA POSTE
+I. - LA POSTE
 
-Cadre supérieur de second niveau : 427-966 (1015) (HE A)
+Cadre supérieur 379-966 (1015) (HEA)
 
 Echelons fonctionnels.
-
-Cadre supérieur de premier niveau : 379-904
 
 Cadre de second niveau : 440-841
 
@@ -26,7 +24,7 @@ Echelon exceptionnel.
 
 Technicien supérieur : 323-638
 
-Agent de maîtrise : 425-638
+Agent technique et de gestion de niveau supérieur : 425-638
 
 Agent technique et de gestion de second niveau : 384-592 (612)
 
