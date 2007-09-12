@@ -877,7 +877,6 @@
 - [Arrêté du 28 avril 2004 (SOCF0410654A)](arrete-du-28-avril-2004-socf0410654a)
 - [Arrêté du 28 décembre 2003 (DOMG0300064A)](arrete-du-28-decembre-2003-domg0300064a)
 - [Arrêté du 28 juillet 2004 (AGRA0401212A)](arrete-du-28-juillet-2004-agra0401212a)
-- [Arrêté du 28 juillet 2004 (AGRF0401664A)](arrete-du-28-juillet-2004-agrf0401664a)
 - [Arrêté du 28 juillet 2004 (DEFF0400866A)](arrete-du-28-juillet-2004-deff0400866a)
 - [Arrêté du 28 juillet 2004 (EQUA0401055A)](arrete-du-28-juillet-2004-equa0401055a)
 - [Arrêté du 28 juillet 2004 (MENF0401190A)](arrete-du-28-juillet-2004-menf0401190a)
