@@ -10,8 +10,4 @@ Les ex aequo éventuels sont départagés par la meilleure des notes obtenues :
 
 2° Pour le recrutement des techniciens de recherche et de formation : à l'épreuve orale d'admission ;
 
-3° Pour le recrutement des adjoints techniques de recherche et de formation : à l'épreuve professionnelle d'admission ;
-
-4° Pour le recrutement des agents techniques de recherche et de formation : à l'épreuve d'admission ;
-
-5° Pour le recrutement des chargés d'administration de recherche et de formation, des attachés d'administration de recherche et de formation, des secrétaires d'administration de recherche et de formation, des adjoints administratifs de recherche et de formation et des agents d'administration de recherche et de formation : à l'ensemble des épreuves d'admission, pondérées par les coefficients s'y rapportant.
+3° Pour le recrutement des adjoints techniques de recherche et de formation : à l'épreuve professionnelle d'admission.
