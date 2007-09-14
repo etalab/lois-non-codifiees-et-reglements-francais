@@ -1032,9 +1032,7 @@ Atelier Duchêne Bossiere et Augustin Normand :
 
 - Société nouvelle des ateliers et chantiers du Havre (SNACH) : de 1971 à 1996.
 
-Ateliers et chantiers de Normandie AFO/ARNO, 76120 Le Grand-Quevilly,
-
-depuis 1955.
+Ateliers et chantiers de Normandie AFO/ARNO Normandie, boulevard de Stalingrad, 76120 Le Grand-Quevilly, puis hangar 106, quai Jean-de-Béthencourt, 76100 Rouen : depuis 1955.
 
 Ateliers et chantiers du Havre Duchêne Boissière et Augustin Normand/Ateliers et chantiers du Havre/Société nouvelle des ateliers et chantiers du Havre/ACH Construction navale, 76000 Le Havre : depuis 1966.
 
@@ -1418,9 +1416,11 @@ Ateliers Willemsoone, 166, boulevard de la République, 59140 Dunkerque-Rosendae
 
 Baude Jean-Claude, puis Baude Electronique, 1, rue Albert-Ier, 59153 Grand-Fort-Philippe : de 1957 à 1994.
 
-Béliard/France Dunkerque/Flandres Industrie/Béliard Crichton et Cie/Ateliers et Chantiers Ziegler Frères : depuis sa création à 1987 ;
+Beliard/France Dunkerque/Flandres Industrie/Beliard Crichton et Cie/Ateliers et chantiers Ziegler frères/Etablissements dunkerquois des AFO/Ateliers réunis Nord et Ouest (ARNO), route des Docks-Flottants, quai de la Câle sèche n° 4, rue Félix-Coquelle ; bassin de l'arrière Port, 2, quai de Mardyck, route de l'Ecluse-Watier, 59140 Dunkerque : depuis sa création à 1987.
 
-- Etablissements dunkerquois des AFO/Société ARNO Dunkerque : depuis 1987.
+Société ARNO Dunkerque, route des Docks-Flottants, 59376 Dunkerque.
+
+Cedex 1 : depuis 1987 .
 
 - route des Docks-Flottants, 59376 Dunkerque Cedex 1 : depuis sa création à 1987.
 
@@ -1554,7 +1554,7 @@ Etablissements Bomy :
 
 - 78, rue de l'Ecole-Maternelle, 59140 Dunkerque : depuis 1966.
 
-Etablissements Decanter, 50-52, rue de Constantine, 62202 Boulogne-sur-Mer : depuis 1980.
+Decanter Maurice, puis Etablissements Decanter, 50-52, rue de Constantine, 62202 Boulogne-sur-Mer : de 1955 à 1986.
 
 Etablissements Degans Gustave :
 
@@ -1800,9 +1800,7 @@ Société Dutilleul Jean-Pierre (SDJP). 140, avenue Sarraz-Bournet, 62480 Le Por
 
 Société européenne de mécanique, rue Vancauwenberghe, ZI de Petite Synthe, 59640 Dunkerque, Petite-Synthe, de 1989 à 1993.
 
-SERMIN/Société d'exploitation des établissements SERMIN/Société nouvelle SERMIN :
-
-- 54, route de Bourbourg, 59210 Coudekerque-Branche : depuis 1962.
+SERMIN/Société d'exploitation des établissements SERMIN/Société nouvelle SERMIN, 54 route de Bourbourg, 59210 Coudekerque-Branche : de 1962 à 1995.
 
 SICER/Société nouvelle SICER/Electricité industrielle cournevienne (ELINCO)/Société de constructions industrielles du Boulonnais (SCIB)/Chaudronnerie industrielle du Boulonnais (CIB)/Ateliers chaudronnerie du Boulonnais (ACB), 30-34, boulevard de Châtillon, 62202 Boulogne-sur-Mer : depuis 1913.
 

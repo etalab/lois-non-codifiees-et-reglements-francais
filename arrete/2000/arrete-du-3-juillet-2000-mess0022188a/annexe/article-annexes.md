@@ -766,7 +766,7 @@ Olifan, rue d'Amsterdam et 1, rue de Harlem, 59200 Tourcoing, de 1951 à 1987 ;
 
 Ripolin Georget Freitag, puis Ripolin SA, usine de Ruitz, 62620 Barlin : de 1973 à 1981 ;
 
-SA Ateliers Bouchez, entreprise M. Bouchez, 80, rue du 29 juillet, 62100 Calais, de 1958 à 1993.
+SA Ateliers Bouchez, entreprise M. Bouchez, 2, rue Jeanne-d'Arc et 80, rue du 29- juillet, 62100 Calais, de 1958 à 1993 ;
 
 SCREG, avenue de la Gironde, 59640 Petite-Synthe Dunkerque : de 1974 à 1993 ;
 
@@ -854,7 +854,7 @@ SITUB, BP 123, 76430 Tancarville : de 1960 à 1996 ;
 
 Société Capel/Cape/Cape contracts/Socap, ZI La Métairie, 76170 Lillebonne : de 1965 à 1990 ; BP 15, 76330 Notre-Dame-de-Gravenchon : de 1967 à 1994.
 
-Roclaine, rue Michel-Poulmarch, 76800 Saint-Etienne-du-Rouvray : de 1950 à 1973 ; Isover Saint-Gobain : depuis 1973.
+Roclaine, rue Michel-Poulmarch, 76800 Saint-Etienne-du-Rouvray : de 1950 à 1973 ; Isover Saint-Gobain : de 1973 à 1981 ;
 
 SNIFI/EFI, 3, rue Marc-Seguin, 76100 Rouen : de 1968 à 1994.
 
