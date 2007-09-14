@@ -2,7 +2,7 @@
 
 Le Comité national technique de l'échographie de dépistage prénatal est composé de :
 
-1. Six membres de droit :
+1. Sept membres de droit :
 
 - le directeur général de la santé ou son représentant ;
 
@@ -13,6 +13,8 @@ Le Comité national technique de l'échographie de dépistage prénatal est comp
 - le directeur de l'Agence nationale d'accréditation et d'évaluation en santé ou son représentant ;
 
 - le directeur de l'Agence française de sécurité sanitaire des produits de santé ou son représentant ;
+
+- la directrice générale de l'Agence de la biomédecine ou son représentant ;
 
 - le directeur de la Caisse nationale d'assurance maladie des travailleurs salariés ou son représentant.
 
