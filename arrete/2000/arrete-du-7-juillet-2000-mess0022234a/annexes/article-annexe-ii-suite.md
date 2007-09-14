@@ -18,9 +18,7 @@ Ateliers français de l'Ouest/ARNO/AFO :
 
 Ateliers Lefebvre, quai de la Chabaude, La Chaume, 85100 Les Sables-d'Olonne, de 1945 à 1998.
 
-Baudet :
-
-- boulevard des Apprentis, 44600 Saint-Nazaire : de 1960 à 1982.
+Baudet, boulevard des Apprentis, 44600 Saint-Nazaire, de 1960 à 1996.
 
 Busson Jotereau :
 
@@ -70,9 +68,7 @@ Dubigeon :
 
 - boulevard de la Prairie-du-Duc, 44200 Nantes : de 1945 à 1987.
 
-EGT (Entreprise générale de travaux maritimes) :
-
-- cité Blanchard, 44000 Nantes : de 1960 à 1975.
+EGT (Entreprise générale de travaux maritimes), cité Blanchard, puis route de Pontpierre, puis 16, rue Robert-Schuman, 44800 Saint-Herblain : de 1960 à 1975.
 
 EGTIM :
 
@@ -346,19 +342,17 @@ Ateliers phocéens de la réparation navale :
 
 - bassin de Radoub, Cap Pinède, 13002 Marseille : de 1950 à 1978.
 
-Ateliers provençaux, 2, boulevard de Radoub, cap Pinède, 13002 Marseille : de 1958 à 1978
+Ateliers provençaux, 2, boulevard de Radoub, cap Pinède, 13002 Marseille : de 1958 à 1978.
 
-Azur Montage :
-
-- ZI Les Bartavelles - Les Négadoux, 83140 Six-Fours-les-Plages : depuis 1989.
+Azur Montage, ZI Les Bartavelles-les Négadoux, 83140 Six-Fours-les-Plages : de 1989 à 2004.
 
 Balazuc chaudronnerie constructions métalligues méridionales (BALZUC CCMM) Enceinte portuaire, bassin de radoub, bâtiment est, Marseille. De 1987 à 1992.
 
 Bouygues Offshore, 167, plage de l'Estaque, 13016 Marseille : en 1980.
 
-Burg Industrie Lotissement industriel du Capitaine-Geze, 13014 Marseille, De 1977 à 1983
+Burg Industrie Lotissement industriel du Capitaine-Geze, 13014 Marseille, De 1977 à 1983.
 
-Burg Industrie 139, rue de Laurens-PA Aix-les-Milles, 13791 Aix-en-Provence Cedex. De 1983 à 1992
+Burg Industrie 139, rue de Laurens-PA Aix-les-Milles, 13791 Aix-en-Provence Cedex. De 1983 à 1992.
 
 Carénage du port :
 
@@ -752,7 +746,7 @@ Navigair :
 
 - 15, avenue Mirabeau, 06600 Antibes : depuis 1970.
 
-Nérée électronique Microméga, 58, rue Paul-Langevin, 13454 Marseille Cedex 13 : depuis 1997.
+Nérée Electronique SARL, immeuble Microméga, 58, rue Paul-Langevin, 13454 Marseille Cedex 13, puis 1, quartier de la Rouvière, 13124 Peypin : depuis 1997
 
 Nouvelle société provençale de remorquage :
 
@@ -800,9 +794,13 @@ Risolo :
 
 Riviera yacht services/SA chantier naval de Saint-Laurent-du-Var/SA Monaco marine France, port de plaisance, 06310 Beaulieu-sur-Mer : depuis 1969.
 
-Société anonyme Vaugrenier. ZI, route de Draguignan, 83490 Le Muy. De 1975 à 1986.
+SA Vaugrenier Industrie (SAVI)/Société nouvelle d'Exploitation de la SAVI (SNES), 1580, avenue Aristide-Briand, quartier Lagoubran, 83500 La Seyne-sur-Mer, et 1580, avenue Aristide-Briand,
+
+83200 Toulon, de 1985 à 1991.
 
 SA Baumier frères, puis SA Baumier, avenue de Font-Pré prolongée, puis 1600, avenue de Draguignan, ZI Toulon-Est, 83079 Toulon Cedex : de 1970 à 1984.
+
+SA Compagnie Marseille Réparation - CMR, puis Union Naval Marseille SAS, porte 4, terrain de Mourepiane, 13016 Marseille : depuis 1954.
 
 SA des anciens établissements Groignard/Ateliers provençaux de réparation navale/Ateliers provençaux de réparation navale et industrielle/Ateliers provençaux :
 
@@ -850,7 +848,7 @@ SMET CEBS/société méditerranéenne d'entretien et de travaux 171, chemin de l
 
 SNI (Sud navires industries), boulevard Philippe-Giovannini, 83500 La Seyne-sur-Mer : de 1996 à 1999.
 
-Société AGIR ZI Camp Laurent, 83500 La Seyne puis 1ère Armée française, zone portuaire de Brésaillon, 83500 La Seyne. Depuis 1987.
+Société AGIR, ZI Camp Laurent, puis Armée française, zone portuaire de Brégaillon, puis 865, avenue de Bruxelles, ZE Jean Monnet Nord, 83500 La Seyne-sur-Mer : depuis 1987 à 2003.
 
 Société d'applications électroniques et de télécommunications, 14, rue de la Loge, 13002 Marseille : de 1979 à 1981, puis 36, rue de la Loge, 13002 Marseille : de 1981 à 1983, puis 25, rue de la Loge, 13002 Marseille : de 1983 à 1987, puis porte 114 A, digue du Large, Port autonome de Marseille, 13002 Marseille : de 1987 à 1998.
 
@@ -870,7 +868,7 @@ Société industrielle de Provence/Chaudronnerie mécanique de Provence, 32, ave
 
 Société Les Abeilles Le Bois Sacré, puis ZI de Brégaillon 83500 La Seyne-sur-Seyne De 1950 à 1980
 
-Société méridionale de rectification (Somere), 33, chemin de Saint-Henri, ZAC de Saumaty-Séon, 13016 Marseille, depuis 1987.
+Société méridionale de rectification (SOMERE), traverse Santi, La Calade, 13015 Marseille : de 1987 à 1992, puis ZAC de Saumaty Séon, 33, chemin de Saint-Henri, 13016 Marseille : de 1992 à 1995.
 
 Société navale et industrielle de chaudronnerie (SONIC), ZI Plaine Brunette, 13703 La Ciotat Cedex : de 1977 à 1985.
 
@@ -1016,9 +1014,7 @@ Société méditerranéenne de carénage (SOMECAR) :
 
 - centre de réparation navale Mourepiane, 13016 Marseille : de 1981 à 1992.
 
-Société nationale Corse-Méditerranée (SNCM) :
-
-- 61, boulevard des Dames, 13002 Marseille : depuis 1950.
+Société nationale Corse-Méditerranée (SNCM) 61, boulevard des Dames, 18, rue Mazenod, 17, avenue Robert-Schuman, 13002 Marseille : depuis 1950
 
 Société nouvelle de constructions métalliques navales et ferroviaires, puis Société La Provençale de chaudronnerie mécanique puis SCOP La Provençale métallurgique puis Société provençale de constructions métalliques navales et ferroviaires : route de la Gare, 83500 La Seyne-sur-Mer et avenue d'Estienne-d'Orves, 83500 La Seyne-sur-Mer : de 1956 à 1985.
 
