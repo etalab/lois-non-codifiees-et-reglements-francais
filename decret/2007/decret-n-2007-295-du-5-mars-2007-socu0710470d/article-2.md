@@ -4,9 +4,11 @@ Le comité comprend :
 
 a) Les membres et le secrétaire général du Haut Comité pour le logement des personnes défavorisées institué par le décret du 22 décembre 1992 susvisé ;
 
-b) Un membre du Conseil économique et social ;
+b) Le président du Conseil national de l'habitat ;
 
-c) Six membres représentant respectivement :
+c) Un membre du Conseil économique et social ;
+
+d) Six membres représentant respectivement :
 
 - l'Association des maires de France ;
 
@@ -20,7 +22,7 @@ c) Six membres représentant respectivement :
 
 - l'Association des communautés urbaines de France ;
 
-d) Douze membres représentant respectivement :
+e) Vingt et un membres représentant respectivement :
 
 - l'Union d'économie sociale pour le logement ;
 
@@ -44,4 +46,22 @@ d) Douze membres représentant respectivement :
 
 - l'Union nationale des centres communaux d'action sociale ;
 
-- la Fédération des comités et organismes d'aide aux chômeurs par l'emploi.
+- la Fédération des comités et organismes d'aide aux chômeurs par l'emploi ;
+
+- la Confédération nationale du logement ;
+
+- la Confédération générale du logement ;
+
+- la Confédération syndicale des familles ;
+
+- la Confédération syndicale du cadre de vie ;
+
+- l'association Force ouvrière consommateurs ;
+
+- l'association Droit au logement ;
+
+- la Fédération des associations pour la promotion et l'insertion par le logement ;
+
+- la Fondation Abbé Pierre ;
+
+- le collectif Droit au logement.
