@@ -1,0 +1,3 @@
+# Article 1
+
+Pour justifier des conditions prévues au III de l'article 1er du décret du 14 septembre 2007 susvisé, les ressortissants des Etats membres de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen doivent produire une attestation émanant des autorités compétentes de l'Etat dans lequel le diplôme, titre ou certificat a été obtenu ou l'expérience professionnelle acquise. Cette attestation doit indiquer le niveau de formation requis et le programme d'enseignement dispensé pour l'obtention du diplôme, titre ou certificat. Les documents non établis en français doivent être accompagnés d'une traduction certifiée conforme à l'original par un traducteur assermenté.
