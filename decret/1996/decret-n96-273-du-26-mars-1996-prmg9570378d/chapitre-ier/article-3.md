@@ -6,7 +6,7 @@ D'une manière générale, ils sont responsables du bon fonctionnement des diff�
 
 En outre :
 
-1° Les techniciens de laboratoire du ministère de l'économie, des finances et de l'industrie assistent, au sein des laboratoires des douanes, les ingénieurs dans leurs tâches et participent, dans leur spécialité, au sein des laboratoires de la concurrence, de la consommation et de la répression des fraudes, sous la direction des personnels scientifiques, à l'exécution des travaux confiés à ces derniers, notamment aux contrôles spécialisés et aux activités de recherche ;
+1° Les techniciens de laboratoire du ministère de l'économie, des finances et de l'industrie, au sein du service commun des laboratoires de ce ministère, assistent les personnels scientifiques et participent sous leur direction aux contrôles spécialisés et aux activités de recherche ;
 
 2° Les techniciens de laboratoire des établissements d'enseignement du ministère chargé de l'éducation nationale et du ministère chargé de l'agriculture préparent, sous la direction du responsable de laboratoire, les expériences et les documents des cours et travaux pratiques. Ils assistent les professeurs des disciplines scientifiques dans le déroulement des travaux pratiques. Ils ont vocation à titre prioritaire à exercer leurs fonctions dans des établissements comportant des classes préparatoires aux grandes écoles ou des sections de techniciens supérieurs ;
 
