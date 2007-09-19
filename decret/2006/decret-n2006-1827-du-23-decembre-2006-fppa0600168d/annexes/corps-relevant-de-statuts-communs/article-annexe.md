@@ -32,6 +32,8 @@ Corps des agents de catégorie A des services déconcentrés de la direction gé
 
 Corps des attachés économiques.
 
+Corps des personnels scientifiques de laboratoire du ministère de l'économie, des finances et de l'industrie.
+
 Ministère de l'éducation nationale, de l'enseignement supérieur
 
 et de la recherche
