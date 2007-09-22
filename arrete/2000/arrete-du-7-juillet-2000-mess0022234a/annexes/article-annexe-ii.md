@@ -28,7 +28,11 @@ Capendeguy et Cie :
 
 - quai Elissalt, Les Recollets, 64500 Ciboure : de 1966 à 1982.
 
+Chantier naval hendayais Quai de la Floride, 64700 Hendaye. De 1992 à 1996.
+
 Chantiers Barde Aquitaine, quai de la Floride, 64700 Hendaye : de 1988 à 1990.
+
+Coopérative maritime ITASOKOA, Avenue Mariella, 64500 Ciboure. De 1963 à 1977. puis Coopérative maritime GUREA. De 1978 à 1995.
 
 COROPAINT Face au 105, quai des Queyries, 33100 Bordeaux : Depuis sa création à 1986.
 
@@ -368,6 +372,8 @@ Chantiers Rameau/Rameau André :
 
 Charpentiers Marine Camaretois. La Pointe de Rocamandour, 29570 Camaret-sur-mer. Depuis 1990
 
+CHATELAIS et LE GALL. 8 _bis,_avenue Louis-Martin, BP 94, 35407 Saint-Malo Cedex. De 1952 à 1996.
+
 Chaudronnerie lorientaise, rue Ingénieur-Verrière, 56100 Lorient : depuis 1978.
 
 Chaudronnerie tôlerie lorientaise :
@@ -417,6 +423,8 @@ DCN/Schneider Electrique :
 - 56100 Lorient : de 1970 à 1994.
 
 Diougoant, 181, rue Lucien-Larnicol, 29760 Penmarc'h, et port de pêche, terre-plein Ouest, 29750 Loctudy : depuis 1977.
+
+DOUGNAC Electricité. 14, quai du Val, 35400 Saint-Malo. De 1975 à 1996.
 
 Dubigeon Normandie :
 
@@ -479,6 +487,8 @@ Etablissements J. Michel et C. Le Scoul, puis Cornouaille moteurs C. Le Scoul, p
 Etablissements Le Rhun-Cossec, Saint-Guénolé, 29760 Penmarc'h, de 1944 à 1965.
 
 Etablissements Meunier FSA, rue de Kerpont, ZI Kerpont, 56850 Caudan : depuis 1965.
+
+Etablissements Meunier FSA. 9, boulevard Nail, 56100 Lorient. De 1965 à 1996.
 
 Etablissements Monfort :
 
@@ -782,6 +792,8 @@ SIMEG (Société industrielle de mécanique générale). ZI de Kersalé, 29900 C
 
 SLEN (Société lorientaise d'entretien naval), 15, quai du Pourquoi-Pas, 56100 Lorient : depuis 1977.
 
+SLTIM (Société lorientaise de techniques industrielles et marines Rue de Seignelelay, puis 8 B, rue Emile-Marcesche, puis 27, rue Ingénieur-Verrière, 56100 Lorient. De 1990 à 1996.
+
 SMCPO, 42, quai de la Douane, 29200 Brest, et 71, rue de la Porte, 29200 Brest : de 1960 à 1996.
 
 SMCTO.B :
@@ -1040,6 +1052,8 @@ Bichet :
 
 - 76600 Le Havre : de 1920 à 1980.
 
+BOGA SA. 39 à 45, quai Bérigny, 76400 Fécamp. Depuis sa création à 1986.
+
 Caillard Normandie/AFO (Ateliers français de l'Ouest) :
 
 - 76600 Le Havre : depuis 1928.
@@ -1273,6 +1287,8 @@ CEMAT (construction et de montage d'appareils et de tuyauterie) :
 - 22, rue Achille-Pierre, 77130 La Grande-Paroisse : de 1965 à 1970.
 
 Chantier naval d'Achères. La Croix d'Achères, 78260 Achères. Depuis 1973.
+
+Chantier naval VANDENBOSSCHE. 60, quai Alfred-Sisley, 92390 Villeneuve-la-Garenne. De 1968 à 1996.
 
 Chantiers de la Haute-Seine, rue des Voeux-de-Saint-Georges, 94290 Villeneuve-le-Roi : depuis sa création à 1995.
 
@@ -1637,6 +1653,10 @@ Ingénieries-réalisation, 11, route de Saint-Omer, Le Klap-Hoek, 59380 Quaedypr
 Injection et régulation marine (IRM), 243, avenue Maurice-Berteaux, BP 6, 59430 Saint-Pol-sur-Mer, de 1980 à 2001.
 
 Jackie Defosse/Defosse industrie SARL, 7, rue Roger-Salengro, 62230 Outreau : de 1982 à 2001
+
+Jacques Kohl Bobinages. ZI des dunes, rue des Garennes, 62100 Calais.
+
+De 1982 à 1994.
 
 Chantiers Jean Lefevre/Lefevre Menuiserie : boulevard Bigot-Descelers, 62630 Etaples : depuis 1971
 

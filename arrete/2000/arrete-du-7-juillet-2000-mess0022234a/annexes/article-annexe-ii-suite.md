@@ -6,6 +6,10 @@ ACB/Alsthom Fluides et Mécaniques :
 
 - boulevard de la Prairie-au-Duc, 44945 Nantes Cedex 9 : de 1945 à 1997.
 
+Antirouille, puis CERI (Compagnie européenne de revêtement industriel) - Antirouille. Boulevard des Apprentis, 44550 Montoir-de-
+
+Bretagne. De sa création à 1996.
+
 Atelier marine Service, SARL Calloch, Diesel marine, zone artisanale de la Marjolaine, 44420 La Turballe, de sa création à 1992.
 
 Ateliers Bollore, 14, rue du Grand-Lin, Le Croisic, de sa création à 1995.
@@ -442,6 +446,8 @@ Contrôle Mesure Régulation (CMR), 12, rue Traverse-Magnan, 13003 Marseille Ced
 
 Coopérative des travaux industriels 113, boulevard de Paris, 13002 Marseille. De 1934 à 1970
 
+COMPAGNIE DE SIGNAUX ET D'ENTREPRISES ÉLECTRIQUES (CSEE), Résidence La Grande Prairie, avenue Mirasouléou, 83100 Toulon puis COMPAGNIE DE SIGNAUX ET D'ÉQUIPEMENTS ÉLECTRONIQUES (CSEE), Rue André-Ampère , ZI Sainte-Claire, 83160 La Valette-du-Var puis CSEE DÉFENSE. 230, rue Marcelin-Berthelot, ZI de Toulon Est, 83087 Toulon Cedex. De 1953 à 1996.
+
 Cotre :
 
 - traverse de l'Aqueduc, puis 108, avenue de Saint-Louis au Rove, 13015 Marseille : depuis 1950.
@@ -650,6 +656,8 @@ Jean Quaranta, 21, rue Forest, 13007 Marseille : de 1957 à 1973, puis Jean Quar
 
 Joly Jean-Yves, 324, chemin Bouillabaye, 83140 Six-Fours-les-Plages, puis route de Peypin, 13112 La Destrousse : depuis 1981.
 
+MÉCANIQUE ÉLECTRIQUE. 4 1 , boulevard Camille-Flammarion , 13001 Marseille. 15a, rue Louis-Grobet, 13001 Marseille. De 1948 à 1983.
+
 La Phocéenne du froid, 86, boulevard de Bonnes-Grâces, 13003 Marseille, de 1979 à 1990.
 
 Lexmar, 45, quai de Stalingrad, 13600 La Ciotat, de 1990 à 1991.
@@ -681,6 +689,8 @@ Maintenance et applications techniques, ZI Les Paluds, 13400 Aubagne : de 1980 �
 MAK Méditerranée :
 
 - rue Gaston-Castel, ZAC Somtay-Seon, 13016 Marseille : depuis 1978.
+
+MARCELIN AUGUSTE, 10, boulevard d'Athènes, 13001 Marseille. De 1942 à 1967. Mourepiane, port de Marseille, 13016 Marseille. De 1953 à 1967. puis ENTREPRISE AUGUSTE MARCELLIN OCEAN INDIEN. 10, boulevard d'Athènes, 13001 Marseille. Mourepiane, port de Marseille, 13016 Marseille. De 1966 à 1976.
 
 Marine Diesel Services :
 
@@ -814,6 +824,8 @@ SA Garbarino :
 
 - 1 bis, rue Malaval, 13002 Marseille : de 1967 à 1977.
 
+SA VAUGRENIER. Quartier Vaugrenier, route de Trans, 83490 Le Muy. De 1975 à 1986.
+
 Salvamar industrie, La Pignatelle, Le Passagat-Mimet, 13120 Gardanne, et quai de la Lave, route du Rove, 13016 Marseille : de 1989 à 1990.
 
 SAMIC/SPRS/SNPRS :
@@ -923,6 +935,8 @@ SERT, société d'étude et réalisations techniques :
 Setton Boat :
 
 - 6, allée des Morettes, ZI La Frayère, 06150 Cannes-la-Bocca : depuis 1982.
+
+SICOMECAP. ZI Vaugrenier, route de Draguignan, 83490 Le Muy. De 1977 à 1991
 
 Simar :
 
