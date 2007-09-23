@@ -730,6 +730,14 @@ Jusqu'au 31 décembre 1998, délivrance des permis et des duplicatas de permis d
 
 Article 5, 1er alinéa.
 
+Décret n° 99-439 du 25 mai 1999 modifié relatif à la délivrance des titres de formation professionnelle maritime et aux conditions d'exercice de fonctions à bord des navires de commerce et de pêche ainsi que des navires de plaisance armés avec un rôle d'équipage.
+
+1
+
+Décision accordant une équivalence de tout ou partie des formations ou des temps de navigation requis pour la délivrance des titres de formation professionnelle maritime, ou des conditions nécessaires à l'entrée en formation, à des personnes justifiant de certaines qualifications.
+
+Article 14 bis
+
 Mesures prises par le ministre chargé de la marine marchande
 
 Code des douanes
