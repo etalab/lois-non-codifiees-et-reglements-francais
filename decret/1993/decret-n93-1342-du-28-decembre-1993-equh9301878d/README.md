@@ -6,3 +6,4 @@
 - [Article 6](article-6.md)
 - [Article 7](article-7.md)
 - [TABLEAU II  : CONDITIONS D'EXERCICE DES FONCTIONS DE CAPITAINE OU DE PATRON ET D'OFFICIER À BORD DES NAVIRES DE PÊCHE.](tableau-ii)
+- [Annexes](annexes)

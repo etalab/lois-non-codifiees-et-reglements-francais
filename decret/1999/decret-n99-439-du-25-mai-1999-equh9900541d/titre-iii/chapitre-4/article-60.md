@@ -6,6 +6,4 @@ Le brevet d'aptitude à l'exploitation des embarcations et radeaux de sauvetage 
 
 2° Satisfaire aux normes d'aptitude médicale pour la navigation dans des conditions fixées par arrêté du ministre chargé de la mer ;
 
-3° Avoir accompli douze mois de navigation effective ou être titulaires de l'un des titres de formation professionnelle maritime permettant d'embarquer en qualité de matelot sur un navire de commerce tel que défini par arrêté du ministre chargé de la mer et avoir accompli neuf mois de navigation effective ;
-
-4° Avoir suivi une formation dont les conditions sont fixées par arrêté du ministre chargé de la mer.
+3° Avoir suivi une formation et effectué un temps de navigation dans les conditions fixées par arrêté du ministre chargé de la mer.
