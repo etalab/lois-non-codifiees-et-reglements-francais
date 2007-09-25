@@ -1,14 +1,14 @@
 # Article 2
 
-1. Les pertes naturelles résultant du séjour des huiles minérales sous le régime de l'entrepôt fiscal de stockage, à l'exception des pertes visées à l'article 3, ne sont pas taxables dans les conditions et dans les limites forfaitaires figurant au tableau ci-après :
+1. Les pertes naturelles résultant du séjour des produits énergétiques sous le régime de l'entrepôt fiscal de stockage, à l'exception des pertes visées à l'article 3, ne sont pas taxables dans les conditions et dans les limites forfaitaires figurant au tableau ci-après :
 
 MOYENS de transport à la sortie
 
-PRODUITS   BÉNÉFICIAIRES
+PRODUITS BENEFICIAIRES
 
-Essences pour moteurs
+Essences pour moteurs, superéthanol E 85, white spirit et biocarburants incorporés dans les essences
 
-Huiles moyennes, gazole et fioul domestique
+Huiles moyennes, pétrole lampant, gazole, fioul domestique et biocarburants incorporés dans le gazole et le fioul domestique
 
 Fioul lourd
 

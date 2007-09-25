@@ -1,14 +1,14 @@
 # Article 1
 
-1. Les pertes naturelles résultant de la circulation en suspension de taxes des huiles minérales ne sont pas taxables, dans les conditions et dans les limites forfaitaires figurant au tableau ci-après :
+1. Les pertes naturelles résultant de la circulation en suspension de taxes des produits énergétiques ne sont pas taxables, dans les conditions et dans les limites forfaitaires figurant au tableau ci-après :
 
 MOYENS de transport à l'arrivée
 
-PRODUITS   BÉNÉFICIAIRES
+PRODUITS BENEFICIAIRES
 
-Essences pour moteurs
+Essences pour moteurs, superéthanol E 85, white spirit et biocarburants incorporés dans les essences
 
-Huiles moyennes, gazole et fioul domestique
+Huiles moyennes, pétrole lampant, gazole, fioul domestique et biocarburants incorporés dans le gazole et le fioul domestique
 
 Fioul lourd
 
@@ -22,15 +22,17 @@ Néant
 
 Wagons, chalands, barges et autres bateaux que ceux visés ci-dessous.
 
-1,2 p. 1 000    1 p. 1 000
+1,2 p. 1 000
+
+1 p. 1 000
 
 0,2 p. 1000
 
 Navires d'une capacité en huiles minérales supérieure à 2 500 m3.
 
-3,5 p. 1 000    2,6 p. 1 000
+3,5 p. 1 000
 
-0,2 p. 1000
+2,6 p. 1 000
 
 2. Pour l'application du 1 ci-dessus, les pertes non taxables sont calculées à partir des quantités expédiées figurant sur le document d'accompagnement des huiles minérales.
 
