@@ -998,6 +998,7 @@
 - [Décret n°2007-1270 du 24 août 2007 (ECEI0752167D)](decret-n2007-1270-du-24-aout-2007-ecei0752167d)
 - [Décret n°2007-1271 du 24 août 2007 (MTST0760274D)](decret-n2007-1271-du-24-aout-2007-mtst0760274d)
 - [Décret n°2007-1380 du 24 septembre 2007 (BCFS0765012D)](decret-n2007-1380-du-24-septembre-2007-bcfs0765012d)
+- [Décret n°2007-1381 du 24 septembre 2007 (DEVO0751677D)](decret-n2007-1381-du-24-septembre-2007-devo0751677d)
 - [Décret n°2007-588 du 24 avril 2007 (ECOC0751260D)](decret-n2007-588-du-24-avril-2007-ecoc0751260d)
 - [Décret n°2007-589 du 24 avril 2007 (INTA0750385D)](decret-n2007-589-du-24-avril-2007-inta0750385d)
 - [Décret n°2007-592 du 24 avril 2007 (AGRS0700440D)](decret-n2007-592-du-24-avril-2007-agrs0700440d)
