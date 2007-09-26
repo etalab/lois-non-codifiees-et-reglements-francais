@@ -14,4 +14,6 @@ Minimum d'enjeux pour les paris 2 sur 4, multi et quinté plus spécial : 3 euro
 
 Minimum d'enjeux pour les paris couplé international et trio international : 1,5 euro ;
 
-Minimum d'enjeux pour un pari Quadrio : 1,50 euro.
+Minimum d'enjeux pour un pari Quadrio : 1,50 euro ;
+
+Minimum d'enjeux pour un pari Trio Ordre : 1,50 euro.
