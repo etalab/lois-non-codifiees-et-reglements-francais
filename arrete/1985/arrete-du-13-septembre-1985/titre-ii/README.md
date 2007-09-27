@@ -9,6 +9,7 @@
 - [Chapitre VII : Pari tiercé](chapitre-vii)
 - [Chapitre VIII : Pari triplet](chapitre-viii)
 - [Chapitre IX : Pari trio](chapitre-ix)
+- [Chapitre IX bis : Pari Trio Ordre](chapitre-ix-bis)
 - [Chapitre X : Pari trio urbain](chapitre-x)
 - [Chapitre X bis : Pari "Trio ordre international"](chapitre-x-bis)
 - [Chapitre XI : Pari quarté](chapitre-xi)
