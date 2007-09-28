@@ -14,4 +14,4 @@ Canalisations des installations "normal-remplacement"
 
 § 6. Les canalisations alimentant les ERP ne doivent pas traverser des tiers sauf si elles sont placées dans des cheminements techniques protégés avec des parois de degré coupe-feu une heure et si elles sont sans connexions sur leur parcours.
 
-§ 7. Les canalisations électriques ne doivent pas être installées dans les mêmes gaines que les canalisations de gaz sauf dans les cas fixés à l'article GZ 17, § 4.
+§ 7. Les canalisations électriques ne doivent pas être installées dans les mêmes gaines que les canalisations de gaz.

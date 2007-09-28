@@ -2,6 +2,7 @@
 
 - [Chapitre Ier : Généralités.](chapitre-ier)
 - [Chapitre II : Construction.](chapitre-ii)
+- [Chapitre III : Aménagements intérieurs, décoration et mobilier.](chapitre-iii)
 - [Chapitre IV : Désenfumage.](chapitre-iv)
 - [Chapitre V : Chauffage, ventilation, réfrigération, climatisation, conditionnement d'air et installation d'eau chaude sanitaire.](chapitre-v)
 - [Chapitre VII : Installations électriques](chapitre-vii)
