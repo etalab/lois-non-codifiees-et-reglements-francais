@@ -19,7 +19,6 @@
 - [Arrêté du 9 mars 1978](arrete-du-9-mars-1978)
 - [Arrêté du 9 mai 1978](arrete-du-9-mai-1978)
 - [Arrêté du 10 octobre 1978](arrete-du-10-octobre-1978)
-- [Arrêté du 11 janvier 1978](arrete-du-11-janvier-1978)
 - [Arrêté du 11 octobre 1977](arrete-du-11-octobre-1977)
 - [Arrêté du 11 mai 1978](arrete-du-11-mai-1978)
 - [Arrêté du 13 juillet 1978](arrete-du-13-juillet-1978)

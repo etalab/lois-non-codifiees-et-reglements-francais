@@ -823,7 +823,6 @@
 - [Arrêté du 29 avril 1991 (EQUS9100765A)](arrete-du-29-avril-1991-equs9100765a)
 - [Arrêté du 29 janvier 1991 (AGRE9100189A)](arrete-du-29-janvier-1991-agre9100189a)
 - [Arrêté du 29 janvier 1991 (AGRS9100214A)](arrete-du-29-janvier-1991-agrs9100214a)
-- [Arrêté du 29 janvier 1991 (BUDB9030096A)](arrete-du-29-janvier-1991-budb9030096a)
 - [Arrêté du 29 janvier 1991 (ECOC9100020A)](arrete-du-29-janvier-1991-ecoc9100020a)
 - [Arrêté du 29 janvier 1991 (EQUC9100087A)](arrete-du-29-janvier-1991-equc9100087a)
 - [Arrêté du 29 janvier 1991 (EQUC9100088A)](arrete-du-29-janvier-1991-equc9100088a)
