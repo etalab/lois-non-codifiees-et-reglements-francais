@@ -22,7 +22,7 @@ b) Sur l'ensemble du territoire métropolitain, aux niveaux faible, modéré, é
 
 - tout détenteur d'oiseaux doit prendre les mesures nécessaires afin de prévenir tout contact direct ou indirect avec les oiseaux vivant à l'état sauvage. Il doit notamment lorsqu'il entre dans son élevage porter une tenue vestimentaire et des chaussures exclusivement réservées à cet effet.
 
-c) Dans les 46 premières zones à risque particulier, au niveau modéré :
+c) Dans les zones à risque particulier propriétaire, au niveau modéré :
 
 - tout détenteur d'oiseaux est tenu de confiner ses oiseaux ou de les protéger par des filets conformément aux prescriptions techniques figurant en annexe 4. Les parcs zoologiques et les détenteurs d'oiseaux d'agrément peuvent déroger à cette obligation dès lors qu'ils mettent en oeuvre la vaccination dans les conditions prévues par arrêté et précisées par instruction du ministre en charge de l'agriculture ;
 
@@ -34,9 +34,9 @@ d) Sur l'ensemble du territoire métropolitain, aux niveaux élevé et très él
 
 2. Interdiction des rassemblements :
 
-Les rassemblements d'oiseaux organisés à l'occasion des foires, marchés, expositions, concours ou diverses démonstrations publiques sont interdits dans les 46 premières zones à risque particulier dont la liste figure en partie 1 de l'annexe 5 (Annexe non reproduite - Voir fac-similé) à partir du niveau modéré du risque épizootique et sur l'ensemble du territoire métropolitain à partir du niveau élevé.
+Les rassemblements d'oiseaux organisés à l'occasion des foires, marchés, expositions, concours ou diverses démonstrations publiques sont interdits dans les zones à risque particulier propriétaire dont la liste figure en partie 1 de l'annexe 5 (Annexe non reproduite - Voir fac-similé) à partir du niveau modéré du risque épizootique et sur l'ensemble du territoire métropolitain à partir du niveau élevé.
 
-Quand l'interdiction des rassemblements ne touche que les 46 zones à risque, la participation des oiseaux provenant d'élevages situés dans ces zones à des rassemblements ayant lieu sur le reste du territoire est interdite.
+Quand l'interdiction des rassemblements ne touche que les zones à risque particulier propriétaires, la participation des oiseaux provenant d'élevages situés dans ces zones à des rassemblements ayant lieu sur le reste du territoire est interdite.
 
 Par dérogation aux dispositions figurant aux deux alinéas précédents, la participation aux rassemblements des oiseaux appartenant à des espèces réputées élevées de manière systématique en volière est permise. La liste des ordres auxquels appartiennent ces espèces figure en annexe 6 (Annexe non reproduite - Voir fac-similé).
 
