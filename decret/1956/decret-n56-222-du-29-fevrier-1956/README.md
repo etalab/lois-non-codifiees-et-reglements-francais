@@ -2,4 +2,5 @@
 
 - [Chapitre Ier : Statut personnel des huissiers de justice](chapitre-ier)
 - [Chapitre II : De l'organisation professionnelle des huissiers de justice.](chapitre-ii)
+- [Chapitre III : Inspections des études d'huissier de justice](chapitre-iii)
 - [Article 97](article-97.md)
