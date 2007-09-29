@@ -4,4 +4,6 @@ Saisie par le garde des sceaux, la commission donne son avis sur tout projet de 
 
 Les chambres départementales et régionales d'huissiers de justice sont préalablement consultées. A défaut de réponse de leur part dans les quarante-cinq jours, leur avis est réputé favorable.
 
+Le procureur de la République et le procureur général sont également consultés.
+
 Si dans les six mois de sa saisine par le garde des sceaux, ministre de la justice, la commission ne s'est pas prononcée sur le projet envisagé, son avis est réputé favorable.
