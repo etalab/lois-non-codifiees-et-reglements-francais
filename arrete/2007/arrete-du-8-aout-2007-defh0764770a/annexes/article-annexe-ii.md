@@ -1,0 +1,5 @@
+# Article Annexe II
+
+TABLEAU RELATIF À LA COMPOSITION DES COMMISSIONS ADMINISTRATIVES PARITAIRES LOCALES
+
+Vous pouvez consulter le tableau dans le JO N° 225 du 28/09/2007 texte numéro 28.
