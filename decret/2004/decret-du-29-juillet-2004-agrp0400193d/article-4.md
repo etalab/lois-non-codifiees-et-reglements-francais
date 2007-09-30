@@ -13,3 +13,5 @@ b) Taille :
 Taille Guyot : un long bois à huit yeux francs au maximum et deux coursons à deux yeux francs.
 
 Cordon de Royat : six coursons au maximum à deux yeux francs.
+
+c) La charge maximale moyenne à la parcelle mentionnée à l'article D. 641-82 du code rural est fixée à 13 000 kilogrammes de raisins par hectare.

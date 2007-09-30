@@ -21,3 +21,9 @@ II. - Les vins blancs proviennent de vignes taillées selon l'un des modes suiva
 2° Cordon de Royat : chaque pied comporte quatre coursons portant chacun un maximum de deux yeux francs. Chaque pied ne peut porter plus de huit yeux francs. Les rajeunissements totaux ou partiels de cordon dans une parcelle ne peuvent porter sur plus de 15 % des pieds ;
 
 3° Taille à queue du Mâconnais : chaque pied comporte un long bois portant au maximum douze yeux francs dont la pointe est attachée sur le fil inférieur du palissage. Chaque pied ne peut porter plus de quatorze yeux francs. Toutefois, pour les vignes en place avant le 31 août 1975, chaque pied peut porter deux baguettes de douze yeux francs chacune, chaque pied ne pouvant alors porter plus de vingt-huit yeux francs.
+
+III. - La charge maximale moyenne à la parcelle mentionnée à l'article D. 641-82 du code rural est fixée à :
+
+1° 10 000 kilogrammes de raisins par hectare pour les vins rouges et rosés pour l'appellation "Mâcon" complétée d'un nom de commune ;
+
+2° 11 000 kilogrammes de raisins par hectare pour les vins blancs pour les appellations "Mâcon" complétée d'un nom de commune et "Mâcon Village".

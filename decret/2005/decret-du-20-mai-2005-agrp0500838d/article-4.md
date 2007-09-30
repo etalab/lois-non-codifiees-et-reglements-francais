@@ -23,3 +23,5 @@ Toutefois, les vignes de cépage syrah N peuvent être conduites en taille longu
 - soit 8 yeux maximum sur la baguette et 1 courson de rappel à 2 yeux maximum.
 
 Pour les vignes de cépage grenache N sujettes à la coulure, 2 à 3 coursons peuvent être remplacés par une baguette à 4 ou 5 yeux, à condition que le producteur ait adressé une demande à cet effet au centre local de l'Institut national de l'origine et de la qualité, avant de procéder à l'opération de taille.
+
+3° La charge maximale moyenne à la parcelle mentionnée à l'article D. 641-82 du code rural est fixée à 8 000 kilogrammes de raisins par hectare.

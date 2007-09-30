@@ -20,4 +20,6 @@ Les vignes sont conduites en taille Guyot simple ou double avec un maximum de 10
 
 4° Mesure transitoire :
 
-Ces règles de densité, d'architecture du feuillage et de taille, à l'exception de la règle relative à l'écartement entre fil porteur et fil d'attache, ne s'appliquent pas aux vignes plantées avant le 1er septembre 2000. Pour ces vignes, le nombre maximal de bourgeons par pied est fixé à 22. Le vin issu de ces vignes peut, jusqu'à l'arrachage de celles-ci et au plus tard jusqu'à la récolte 2025 incluse, bénéficier de l'appellation "Alsace grand cru".
+Ces règles de densité, d'architecture du feuillage et de taille, à l'exception de la règle relative à l'écartement entre fil porteur et fil d'attache, ne s'appliquent pas aux vignes plantées avant le 1er septembre 2000. Pour ces vignes, le nombre maximal de bourgeons par pied est fixé à 22. Le vin issu de ces vignes peut, jusqu'à l'arrachage de celles-ci et au plus tard jusqu'à la récolte 2025 incluse, bénéficier de l'appellation "Alsace grand cru" ;
+
+5° La charge maximale moyenne à la parcelle mentionnée à l'article D. 641-82 du code rural est fixée à 10 000 kilogrammes de raisins par hectare.

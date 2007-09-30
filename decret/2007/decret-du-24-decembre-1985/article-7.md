@@ -33,3 +33,9 @@ Depuis le 5 septembre 2002, pour toute nouvelle plantation ou replantation de c�
 7. Pour avoir droit à l'appellation d'origine contrôlée "Languedoc" suivie du nom "Pic-Saint-Loup", les vins doivent provenir de vignes conduites en taille courte (gobelet ou cordon de royat), à 8 coursons maximum et à 1 oeil franc au maximum par courson.
 
 8. Pour avoir droit à l'appellation d'origine contrôlée "Languedoc" complétée du nom "Terrasses du Larzac", les vins proviennent de vignes conduites en taille courte qui ne peuvent présenter plus de 10 yeux francs par pied.
+
+III. - La charge maximale moyenne à la parcelle mentionnée à l'article D. 641-82 du code rural est fixée :
+
+- pour les vins rouges et rosés, à 9 000 kilogrammes de raisins par hectare pour l'appellation "Languedoc" complétée ou non des noms "Pic Saint-Loup" ou "La Clape" et à 8 500 kilogrammes de raisins par hectare pour l'appellation "Languedoc" complétée des noms "Grès de Montpellier" ou "Terrasse du Larzac" ou "Pézenas" ;
+
+- pour les vins blancs, à 11 000 kilogrammes de raisins par hectare pour l'appellation "Languedoc" complétée ou non des noms "La Clape" ou "Picpoul de Pinet".

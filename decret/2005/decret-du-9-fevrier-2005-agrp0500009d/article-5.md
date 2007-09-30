@@ -9,3 +9,9 @@ Les vignes présentent une densité de plantation se traduisant par une superfic
 b) Taille.
 
 Les vignes sont conduites en taille courte à coursons à deux yeux soit en gobelet, soit en cordon de Royat. Toutefois, pour les vignes produisant le vin à appellation d'origine contrôlée "Côtes de Provence" sans adjonction de nom géographique complémentaire, les cépages cabernet-sauvignon N et syrah N peuvent être conduits en taille longue, avec huit yeux francs au plus par pied et six yeux francs au plus sur le long bois.
+
+c) La charge maximale moyenne à la parcelle mentionnée à l'article D. 641-82 du code rural est fixée à :
+
+- 9 500 kilogrammes de raisins par hectare pour l'appellation "Côtes de Provence" ;
+
+- 8 500 kilogrammes de raisins par hectare pour l'appellation "Côtes de Provence" complétée des noms "Sainte-Victoire" ou "Fréjus".

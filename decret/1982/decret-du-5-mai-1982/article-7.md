@@ -7,3 +7,5 @@ La taille de ces vignes doit être effectuée en taille courte, avec un maximum 
 Les vignes produisant les vins blancs à appellation d'origine contrôlée "Faugères" présentent une densité minimale de plantation de 4000 pieds à l'hectare. L'écartement entre les rangs ne peut excéder 2,50 mètres.
 
 Ces vignes sont conduites en taille courte et ne peuvent présenter plus de dix yeux francs par pied. Elles sont palissées. Toutefois, le palissage n'est pas obligatoire pour les cépages grenache blanc B, carignan blanc B et macabeu B lorsqu'ils sont conduits en taille gobelet.
+
+La charge maximale moyenne à la parcelle mentionnée à l'article D. 641-82 du code rural est fixée à 9 000 kilogrammes de raisins par hectare pour les vins rouges et rosés et à 8 500 kilogrammes de raisins par hectare pour les vins blancs.

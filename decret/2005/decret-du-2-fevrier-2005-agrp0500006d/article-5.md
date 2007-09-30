@@ -29,3 +29,11 @@ Les vignes en place à compter du 4 février 2005 présentent une densité minim
 b) Taille.
 
 Les vignes sont conduites en taille courte et ne peuvent présenter plus de dix yeux francs par pied. Elles sont palissées. Toutefois, le palissage n'est pas obligatoire pour les cépages carignan blanc B, grenache blanc B et macabeu B lorsqu'ils sont conduits en taille gobelet.
+
+4° La charge maximale moyenne à la parcelle mentionnée à l'article D. 641-82 du code rural est fixée à :
+
+a) 9 000 kilogrammes de raisins par hectare pour les vins rouges et rosés pour l'appellation "Saint-Chinian" ;
+
+b) 7 500 kilogrammes de raisins par hectare pour l'appellation "Saint-Chinian" complétée des noms "Berlou" ou "Roquebrun" ;
+
+c) 8 500 kilogrammes de raisins par hectare pour les vins blancs.

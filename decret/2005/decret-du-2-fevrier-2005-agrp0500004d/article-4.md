@@ -11,3 +11,5 @@ Les vignes en place à compter de la récolte 2004 présentent un écartement en
 b) Taille.
 
 Les vignes sont taillées court à deux yeux francs.
+
+c) La charge maximale moyenne à la parcelle mentionnée à l'article D. 641-82 du code rural est fixée à 6 500 kilogrammes de raisins par hectare.
