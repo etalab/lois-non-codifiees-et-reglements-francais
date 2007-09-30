@@ -4,4 +4,4 @@ L'organisme d'assurance gestionnaire d'un plan d'épargne retraite populaire peu
 
 Les traités de réassurance définis au premier alinéa prévoient que les cessionnaires acceptent de se soumettre aux contrôles et aux expertises sur pièces et sur place diligentés par le comité de surveillance du plan et que les dirigeants et les commissaires aux comptes des cessionnaires sont tenus de répondre à toute demande de renseignement formulée par ce comité.
 
-Les conventions de substitution définies à l'article L. 211-5 du code de la mutualité ne peuvent porter sur tout ou partie des opérations mentionnées à l'article 108 de la loi du 21 août 2003 susvisée.
+Les conventions de substitution définies à l'article L. 211-5 du code de la mutualité ne peuvent porter sur tout ou partie des opérations mentionnées à l'article L. 144-2 du code des assurances.

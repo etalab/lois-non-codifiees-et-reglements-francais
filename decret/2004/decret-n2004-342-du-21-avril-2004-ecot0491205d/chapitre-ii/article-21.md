@@ -4,9 +4,9 @@ Le comité de surveillance d'un plan d'épargne retraite populaire :
 
 a) Etablit chaque année le budget du plan en précisant notamment les conditions et les limites dans lesquelles le comité de surveillance peut engager des dépenses au-delà des montants prévus ;
 
-b) Tient à la disposition des participants du plan le rapport mentionné au deuxième alinéa du II de l'article 108 de la loi du 21 août 2003 susvisée et en adresse un exemplaire à l'organisme d'assurance gestionnaire du plan ;
+b) Tient à la disposition des participants du plan le rapport mentionné au deuxième alinéa du II de l'article L. 144-2 du code des assurances et en adresse un exemplaire à l'organisme d'assurance gestionnaire du plan ;
 
-c) Emet un avis sur le rapport prévu au III de l'article 108 de cette même loi ;
+c) Emet un avis sur le rapport prévu au III de l'article L. 144-2 du même code ;
 
 d) Décide les expertises juridiques, comptables, actuarielles et financières du plan et en assure le suivi. Il désigne les personnes chargées de ces expertises, notamment du point de vue de leurs qualifications professionnelles et de leur indépendance à l'égard de l'organisme d'assurance gestionnaire du plan et veille au bon déroulement de ces expertises ;
 

@@ -1,6 +1,6 @@
 # Article 58
 
-Le rapport annuel mentionné au III de l'article 108 de la loi du 21 août 2003 susvisée rend compte notamment :
+Le rapport annuel mentionné au III de l'article L. 144-2 du code des assurances rend compte notamment :
 
 a) Des nouvelles adhésions au plan, ainsi que des flux de cotisations et de prestations versées au cours de l'exercice ;
 

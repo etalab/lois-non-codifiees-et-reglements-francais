@@ -10,7 +10,7 @@ L'association a pour objet, en qualité de groupement d'épargne retraite popula
 
 3° D'assurer le secrétariat et le financement de chaque comité de surveillance et de chaque assemblée de participants.
 
-L'association est tenue de mettre en oeuvre les décisions, y compris celles d'ester en justice, prises, en application des dispositions des II, VIII, IX et XII de l'article 108 de la loi n° 2003-775 du 21 août 2003 et des articles 11 et 21 du décret n° 2004-342 du 21 avril 2004 relatif au plan d'épargne retraite populaire, par les assemblées des participants des plans d'épargne retraite populaire souscrits par l'association et par les comités de surveillance desdits plans.
+L'association est tenue de mettre en oeuvre les décisions, y compris celles d'ester en justice, prises, en application des dispositions des II, VIII, IX et XII de l'article L. 144-2 du code des assurances et des articles 11 et 21 du décret n° 2004-342 du 21 avril 2004 relatif au plan d'épargne retraite populaire, par les assemblées des participants des plans d'épargne retraite populaire souscrits par l'association et par les comités de surveillance desdits plans.
 
 Tout participant d'un plan d'épargne retraite populaire souscrit par l'association est de droit membre de l'association et dispose d'un droit de vote à l'assemblée générale.
 
