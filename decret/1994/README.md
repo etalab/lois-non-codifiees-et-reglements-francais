@@ -718,7 +718,6 @@
 - [Décret n°94-931 du 27 octobre 1994 (ECOT9451377D)](decret-n94-931-du-27-octobre-1994-ecot9451377d)
 - [Décret n°94-421 du 27 mai 1994 (TEFO9400425D)](decret-n94-421-du-27-mai-1994-tefo9400425d)
 - [Décret n°94-422 du 27 mai 1994 (MCCX9400009D)](decret-n94-422-du-27-mai-1994-mccx9400009d)
-- [Décret n°94-423 du 27 mai 1994 (MCCE9400188D)](decret-n94-423-du-27-mai-1994-mcce9400188d)
 - [Décret n°94-440 du 27 mai 1994 (BUDR9404194D)](decret-n94-440-du-27-mai-1994-budr9404194d)
 - [Décret n°94-447 du 27 mai 1994 (EQUS9400480D)](decret-n94-447-du-27-mai-1994-equs9400480d)
 - [Décret n°71-631 du 28 juillet 1971](decret-n71-631-du-28-juillet-1971)
