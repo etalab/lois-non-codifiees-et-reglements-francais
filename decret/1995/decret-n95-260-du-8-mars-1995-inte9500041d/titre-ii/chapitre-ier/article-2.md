@@ -29,3 +29,5 @@ La commission consultative départementale pour la sécurité et l'accessibilit�
 6. Les prescriptions d'information, d'alerte et d'évacuation permettant d'assurer la sécurité des occupants des terrains de camping et de stationnement de caravanes, conformément aux dispositions de l'article R. 125-15 du code de l'environnement.
 
 7. La sécurité des infrastructures et systèmes de transport conformément aux dispositions des articles L. 118-1 et L. 118-2 du code de la voirie routière, 13-1 et 13-2 de la loi n° 82-1153 du 30 décembre 1982, L. 445-1 et L. 445-4 du code de l'urbanisme, L. 155-1 du code des ports maritimes et 30 du code du domaine public fluvial et de la navigation intérieure.
+
+8. Les études de sécurité publique, conformément aux articles R. 111-48, R. 111-49, R. 311-5-1, R. 311-6 et R. 424-5-1 du code de l'urbanisme, et à l'article R. 123-45 du code de la construction et de l'habitation.
