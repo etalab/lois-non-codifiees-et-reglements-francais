@@ -1,0 +1,3 @@
+# Article 42
+
+Le Premier ministre, le ministre d'Etat, ministre de l'intérieur et de l'aménagement du territoire, la ministre de la défense, le ministre de l'emploi, de la cohésion sociale et du logement, le ministre de l'économie, des finances et de l'industrie, le garde des sceaux, ministre de la justice, le ministre des transports, de l'équipement, du tourisme et de la mer, le ministre de l'agriculture et de la pêche, le ministre de la culture et de la communication, la ministre de l'écologie et du développement durable et le ministre de l'outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.

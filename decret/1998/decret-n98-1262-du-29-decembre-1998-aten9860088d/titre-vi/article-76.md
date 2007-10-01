@@ -1,0 +1,3 @@
+# Article 76
+
+Par dérogation à l'article 41 dans sa rédaction résultant du décret n° 2007-1338 du 11 septembre 2007 modifiant le décret n° 98-1262 du 29 décembre 1998 portant statut des personnels de l'Office national de la chasse et de la faune sauvage et pendant une durée de deux ans calculée à compter de la date d'entrée en vigueur du présent décret, peuvent être promus à la hors-classe du groupe 3, au choix, par voie d'inscription sur le tableau annuel d'avancement établi après avis de la commission consultative paritaire, les agents de la 1re classe ayant deux ans d'ancienneté dans le 7e échelon et comptant au moins cinq ans de services effectifs dans la 1re classe.

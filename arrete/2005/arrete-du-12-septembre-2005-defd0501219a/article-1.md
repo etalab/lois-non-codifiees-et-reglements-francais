@@ -10,10 +10,10 @@ Le délégué général pour l'armement exerce au nom du ministre de la défense
 
 4. L'Ecole polytechnique ;
 
-5. L'Ecole nationale supérieure de l'aéronautique et de l'espace ;
+5. L'Institut supérieur de l'aéronautique et de l'espace ;
 
 6. L'Ecole nationale supérieure de techniques avancées ;
 
-7. L'Ecole nationale supérieure d'ingénieurs des constructions aéronautiques ;
+7. Paragraphe abrogé
 
 8. L'Ecole nationale supérieure des ingénieurs des études et techniques d'armement.

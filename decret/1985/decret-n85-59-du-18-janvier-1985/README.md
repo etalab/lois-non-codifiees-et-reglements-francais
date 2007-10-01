@@ -4,6 +4,7 @@
 - [TITRE Ier : Composition des collèges électoraux.](titre-ier)
 - [Article 2](article-2.md)
 - [TITRE II : Conditions d'exercice du droit de suffrage.](titre-ii)
+- [Article 2-1](article-2-1.md)
 - [TITRE III : Conditions d'éligibilité - Mode de scrutin.](titre-iii)
 - [TITRE IV : Déroulement et régularité des scrutins.](titre-iv)
 - [TITRE V : Modalités de recours contre les élections.](titre-v)

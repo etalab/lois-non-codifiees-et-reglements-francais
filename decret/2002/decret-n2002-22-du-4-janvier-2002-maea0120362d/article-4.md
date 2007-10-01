@@ -2,7 +2,7 @@
 
 Les émoluments des personnels visés à l'article 2 sont versés par l'AEFE en France, en euros. Ils sont exclusifs de tout autre élément de rémunération. Ils comportent :
 
-A. - Pour les personnels expatriés
+A.-Pour les personnels expatriés
 
 a) Le traitement brut soumis à retenue pour pension civile correspondant à l'indice hiérarchique que les agents détiennent dans leur corps d'origine à la date du début de contrat. Cet indice ne peut être modifié avant le renouvellement éventuel du contrat. Pour les personnels relevant des décrets du 26 janvier 1983 et du 11 avril 1988 susvisés, l'indice d'échelon dans le grade est complété par la bonification indiciaire soumise à retenue pour pension attachée à la catégorie d'établissement d'affectation déterminée par arrêté du ministre des affaires étrangères et du ministre chargé du budget.
 
@@ -16,11 +16,11 @@ d) Une indemnité mensuelle d'expatriation dont le montant annuel est fixé, pou
 
 Le montant de l'indemnité d'expatriation varie en fonction de la durée des services continus dans une même localité d'affectation ; ce montant est réduit :
 
-- au-delà de six années révolues, de 25 % ;
+-au-delà de six années révolues, de 25 % ;
 
-- au-delà de neuf années révolues, de 55 % ;
+-au-delà de neuf années révolues, de 55 % ;
 
-- au-delà de douze années révolues, de 85 %.
+-au-delà de douze années révolues, de 85 %.
 
 Les taux d'ajustement de l'indemnité d'expatriation, pour tenir compte notamment des variations des changes et du coût de la vie à l'étranger, sont fixés par arrêté conjoint du ministre des affaires étrangères et du ministre chargé du budget.
 
@@ -42,7 +42,7 @@ f) Les rémunérations supplémentaires tenant compte des obligations hebdomadai
 
 g) Le cas échéant, les indemnités prévues par le décret du 12 juin 1956 susvisé pour les personnels assurant à titre d'occupation accessoire le fonctionnement de jurys d'examen.
 
-B. - Pour les personnels résidents
+B.-Pour les personnels résidents
 
 a) Le traitement brut soumis à retenue pour pension correspondant à l'indice hiérarchique que les agents détiennent dans leur corps d'origine. Pour les personnels relevant des décrets du 26 janvier 1983 et du 11 avril 1988 susvisés, l'indice d'échelon dans le grade est complété par la bonification indiciaire soumise à retenue pour pension attachée à la catégorie d'établissement d'affectation déterminée par arrêté du ministre des affaires étrangères et du ministre chargé du budget.
 
@@ -56,9 +56,15 @@ d) Une indemnité spécifique liée aux conditions de vie locale dont le montant
 
 Le classement des personnels résidents entre les différents groupes de l'indemnité spécifique liée aux conditions de vie locale fait l'objet d'un arrêté du ministre des affaires étrangères et du ministre chargé du budget.
 
-e) Le cas échéant, un avantage familial attribué en lieu et place des avantages familiaux accordés aux personnels en service en France. L'avantage familial est attribué quel que soit le lieu de résidence des enfants, déduction faite des avantages de même nature dont peut bénéficier l'agent, son conjoint, au titre des mêmes enfants et qui sont dus au titre de la législation ou de la réglementation française ou de tout accord communautaire ou international.
+e) Le cas échéant, un avantage familial attribué au titre des enfants à charge, à raison d'un seul droit par enfant. Il est destiné à prendre en compte les charges de famille des agents.
 
-Pour le calcul de l'avantage familial, il est fait application des dispositions relatives aux majorations familiales attribuées aux personnels expatriés dans les conditions fixées à l'article 4 (A, e), alinéas 2 à 6, du présent décret, après abattement de 60 % des coefficients par pays fixés au A du tableau annexé à l'arrêté prévu à l'alinéa 3 de ce même article.
+La notion d'enfant à charge est celle prévue au e du A du présent article.
+
+Le montant de cet avantage familial est déterminé par pays et zone de résidence de l'agent en fonction de l'âge des enfants, par arrêté conjoint des ministres chargés des affaires étrangères et du budget.
+
+Il ne peut en tout état de cause être inférieur, par enfant, aux montants des frais de scolarité rapportés à des tranches d'âge, correspondant à ceux des établissements français d'enseignement primaire et secondaire de référence au sein du pays ou de la zone d'affectation des agents.
+
+L'avantage familial est exclusif, au titre des mêmes enfants, de la perception d'avantages de même nature ou de la prise en charge de frais de scolarité, accordés par l'employeur, ainsi que des majorations familiales versées aux personnels expatriés en application du présent décret ou du décret du 28 mars 1967 susvisé, dont peut bénéficier l'agent ou tout autre ayant droit.
 
 f) Les rémunérations supplémentaires tenant compte des obligations hebdomadaires maximales d'enseignement, telles qu'elles sont définies par les statuts particuliers de ces fonctionnaires et par les décrets du 25 mai 1950 susvisés.
 

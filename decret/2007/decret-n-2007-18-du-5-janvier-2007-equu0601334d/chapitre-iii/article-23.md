@@ -1,0 +1,3 @@
+# Article 23
+
+Les dispositions de l'article R. 111-15 du code de l'urbanisme, dans sa rédaction antérieure à l'entrée en vigueur du présent décret demeurent applicables à l'intérieur des territoires couverts par les schémas directeurs intéressant les agglomérations nouvelles approuvés avant le 1er octobre 1983 ou approuvés entre le 1er octobre 1983 et le 1er avril 2001 dans les conditions prévues au b du deuxième alinéa de l'article R. 122-22 dans sa rédaction antérieure au décret n° 2001-260 du 27 mars 2001, jusqu'à l'abrogation, en application de l'article L. 5341-1 du code général des collectivités territoriales, du périmètre d'urbanisation de l'agglomération nouvelle.

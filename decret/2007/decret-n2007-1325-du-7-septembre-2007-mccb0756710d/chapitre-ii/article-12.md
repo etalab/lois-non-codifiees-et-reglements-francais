@@ -1,0 +1,7 @@
+# Article 12
+
+Les agents contractuels du Centre national de la cinématographie recrutés dans une catégorie ou une classe supérieure à celle dont ils relevaient ou dans un emploi ou un échelon fonctionnels ou dans des échelons exceptionnels sont classés à un échelon comportant un indice égal ou, à défaut, immédiatement supérieur à celui qu'ils détenaient dans leur catégorie d'origine. Dans la limite de la durée exigée à l'article 14 pour accéder à l'échelon supérieur dans leur nouvelle catégorie, ils conservent l'ancienneté d'échelon acquise dans leur précédente situation, lorsque l'augmentation de traitement consécutive à leur nomination est inférieure ou égale à celle que leur aurait procurée un avancement d'échelon dans leur ancienne catégorie.
+
+Les agents nommés alors qu'ils ont atteint l'échelon le plus élevé de leur catégorie d'origine conservent leur ancienneté d'échelon, dans les mêmes conditions et limites, lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle résultant d'un avancement à ce dernier échelon.
+
+Les agents du Centre national de la cinématographie qui sont classés aux échelons fonctionnels de la catégorie 1 et qui cessent d'occuper les emplois de chef de service qui justifient ce classement sont réintégrés dans leur catégorie d'origine à l'échelon détenu avant l'exercice de ces fonctions, augmenté de l'ancienneté acquise pendant la période où ils les ont assurées.
