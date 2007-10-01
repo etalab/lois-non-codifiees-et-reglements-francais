@@ -6,19 +6,29 @@ Entrent dans le champ de l'article 1er :
 
 a) A un permis de construire en application de l'article L. 421-1 du code de l'urbanisme ;
 
-b) A un permis de démolir en application des articles L. 430-1 et L. 430-2 du même code ;
+b) A un permis d'aménager en application de l'article L. 421-2 du même code ;
 
-c) A une autorisation d'installations ou de travaux divers en application des articles R. 442-1 et R. 442-2 du même code ;
+c) A un permis de démolir en application de l'article L. 421-3 du même code ;
 
-d) A une autorisation de lotir en application des articles R. 315-1 et suivants du même code ;
-
-e) A une décision de réalisation de zone d'aménagement concerté en application des articles R. 311-7 et suivants du même code ;
+d) A une décision de réalisation de zone d'aménagement concerté en application des articles R. 311-7 et suivants du même code.
 
 2° La réalisation de zones d'aménagement concerté créées conformément à l'article L. 311-1 du code de l'urbanisme et affectant une superficie supérieure ou égale à 3 hectares ;
 
-3° Les opérations de lotissement régies par les articles R. 315-1 et suivants du code de l'urbanisme, affectant une superficie supérieure ou égale à 3 hectares ;
+3° Les opérations de lotissement régies par les articles R. 442-1 et suivants du code de l'urbanisme, affectant une superficie supérieure ou égale à 3 hectares ;
 
-4° Les travaux soumis à déclaration préalable en application de l'article R. 442-3-1 du code de l'urbanisme ;
+4° Les travaux énumérés ci-après :
+
+a) Les travaux d'affouillement, de nivellement ou d'exhaussement de sol liés à des opérations d'aménagement d'une superficie supérieure à 10 000 m² et affectant le sol sur une profondeur de plus de 0,50 mètre ;
+
+b) Les travaux de préparation du sol ou de plantation d'arbres ou de vignes, affectant le sol sur une profondeur de plus de 0,50 mètre et sur une surface de plus de 10 000 m² ;
+
+c) Les travaux d'arrachage ou de destruction de souches ou de vignes sur une surface de plus de 10 000 m² ;
+
+d) Les travaux de création de retenues d'eau ou de canaux d'irrigation d'une profondeur supérieure à 0,5 mètre et portant sur une surface de plus de 10 000 m².
+
+Lorsque la présomption de la présence de vestiges en sous-sol le justifie, les seuils de 10 000 m² et de 0,50 mètre peuvent être réduits par arrêté du préfet de région dans tout ou partie des zones délimitées en application de l'article 5.
+
+Les travaux mentionnés aux cinq alinéas précédents doivent, lorsqu'ils ne sont pas soumis à permis de construire ou d'aménager en application du code de l'urbanisme, faire l'objet d'une déclaration préalable auprès du préfet de région.
 
 5° Les aménagements et ouvrages dispensés d'autorisation d'urbanisme, soumis ou non à une autre autorisation administrative, qui doivent être précédés d'une étude d'impact en application de l'article L. 122-1 du code de l'environnement ;
 
