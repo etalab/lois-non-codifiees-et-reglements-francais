@@ -26,7 +26,7 @@ i) Un représentant du ministre chargé du budget.
 
 2° Sept personnalités :
 
-a) Le directeur de l'Ecole nationale supérieure d'ingénieurs de constructions aéronautiques ;
+a) le directeur général de l'Institut supérieur de l'aéronautique et de l'espace ;
 
 b) Quatre personnalités qualifiées, désignées en raison de leur compétence dans les branches professionnelles correspondant aux activités de l'école ;
 
