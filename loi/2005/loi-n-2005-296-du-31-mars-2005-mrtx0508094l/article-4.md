@@ -1,10 +1,6 @@
 # Article 4
 
-I. - Dans l'attente de la convention ou de l'accord collectif fixant, conformément à l'article L. 212-5 du code du travail, le taux de majoration applicable aux heures supplémentaires :
-
-- le taux de majoration des quatre premières heures supplémentaires applicable aux entreprises de vingt salariés au plus est fixé, par dérogation aux dispositions de cet article, à 10 % ;
-
-- le seuil défini au troisième alinéa de l'article L. 212-6 du même code est fixé, pour ces mêmes entreprises, à trente-six heures.
+I. - Paragraphe abrogé
 
 II. - Dans l'attente de la convention ou de l'accord collectif de branche, de groupe, d'entreprise ou d'établissement prévu à l'article L. 227-1 du code du travail et directement applicable dans les entreprises de vingt salariés au plus, le salarié, lorsqu'il ne s'agit pas d'une femme enceinte, peut, en accord avec le chef d'entreprise, décider de renoncer à une partie des journées ou demi-journées de repos accordées en application de l'article L. 212-9 ou du III de l'article L. 212-15-3 du même code dans la limite de dix jours par an ou d'effectuer des heures au-delà de la durée prévue par la convention de forfait conclue en application du I ou du II de l'article L. 212-15-3 du même code dans la limite de soixante-dix heures par an. Les heures, demi-journées ou journées effectuées à ce titre donnent lieu à une majoration de salaire au moins égale à 10 %. Elles ne s'imputent pas sur le contingent légal ou conventionnel d'heures supplémentaires prévu à l'article L. 212-6 du même code.
 
