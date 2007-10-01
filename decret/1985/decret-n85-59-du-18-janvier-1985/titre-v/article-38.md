@@ -1,12 +1,12 @@
 # Article 38
 
-La commission de contrôle des opérations électorales exerce les attributions prévues par les articles 8, 18, 25 et 36 du présent décret.
+La commission de contrôle des opérations électorales exerce les attributions prévues par les articles 8 et 18 du présent décret.
 
 La commission de contrôle des opérations électorales connaît de toutes les contestations présentées par les électeurs, par le président de l'établissement ou par le recteur, sur la préparation et le déroulement des opérations de vote, ainsi que sur la proclamation des résultats du scrutin.
 
 Elle est saisie au plus tard le cinquième jour suivant la proclamation des résultats.
 
-Elle doit statuer dans un délai de dix jours.
+Elle doit statuer dans un délai de quinze jours.
 
 La commission de contrôle des opérations électorales peut :
 
