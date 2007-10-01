@@ -1,9 +1,11 @@
 # Article 39
 
-Les agents du groupe 3 sont recrutés :
+Les agents du groupe 3 sont recrutés par concours dans la 2e classe et par une commission de sélection dans la 3e classe, dans les conditions suivantes :
 
-1° Par concours externe, ouvert pour 50 % des emplois à pourvoir aux candidats âgés de moins de quarante-cinq ans au 1er janvier de l'année du concours ;
+1° Les agents de la 2e classe sont recrutés par un concours externe ouvert sans condition de diplôme et par un concours interne ouvert aux fonctionnaires et aux personnels contractuels des trois fonctions publiques ainsi qu'aux agents en fonction à l'Office national de la chasse et de la faune sauvage comptant au moins un an de services effectifs au 1er janvier de l'année du concours.
 
-2° Par concours interne, ouvert pour 50 % des emplois à pourvoir aux agents de l'Office national de la chasse et qui comptent au 1er janvier de l'année du concours au moins une année de services effectifs dans l'établissement ;
+Le pourcentage du nombre total des postes à pourvoir soit par le concours externe, soit par le concours interne, est compris entre 25 % et 75 % de ce nombre. Il est fixé par décision du directeur général de l'Office national de la chasse et de la faune sauvage.
 
-3° Au choix, dans la limite du cinquième des nominations prononcées au titre des 1° et 2° du présent article, par voie d'inscription sur une liste d'aptitude arrêtée par le directeur de l'Office national de la chasse après avis de la commission consultative paritaire parmi les agents de l'Office national de la chasse ayant au moins dix années de services effectifs dans l'établissement et appartenant à la 1re classe du groupe 4.
+Les postes non attribués à l'un des concours peuvent être reportés sur l'autre.
+
+2° Les agents de la 3e classe sont recrutés par une commission de sélection dans les conditions définies à la section I du décret n° 2006-1760 du 23 décembre 2006 relatif aux dispositions statutaires communes applicables aux corps d'adjoints administratifs des administrations de l'Etat.

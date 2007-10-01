@@ -1,35 +1,120 @@
 # Article 38
 
-La catégorie des agents d'exécution comporte deux groupes :
+1° La catégorie des agents d'exécution compose le groupe 3 qui comporte les quatre classes suivantes :
 
-1° Le groupe 3, dont relèvent les agents exerçant des fonctions d'adjoint administratif. Ils effectuent des travaux de gestion administrative et comptable et peuvent se voir confier l'encadrement d'agents qui exercent des tâches d'agent administratif.
+a) Les 1re, 2e et 3e classes qui comptent chacune onze échelons ;
 
-Ce groupe comporte trois classes : une hors-classe, qui compte trois échelon, une 1re classe et une 2e classe, qui comptent chacune onze échelons.
+b) La hors-classe qui compte sept échelons.
 
-Le nombre des emplois de la hors-classe ne peut excéder 10 % de l'effectif total du groupe 3. Le nombre des emplois de la 1re classe ne peut excéder 25 % de l'effectif des 1re et 2e classes.
+Les agents appartenant à ce groupe exercent des fonctions d'adjoint administratif. Ils sont chargés de travaux de gestion administrative et comptable ; les agents ayant atteint la 1re classe et la hors-classe peuvent se voir confier l'encadrement d'autres agents.
 
-La durée moyenne et la durée minimale du temps passé dans chaque échelon de la hors-classe du groupe 3 sont fixées ainsi qu'il suit :
+2° La durée moyenne et la durée minimale du temps passé dans chaque échelon de la hors-classe sont fixées conformément au tableau suivant :
 
-CLASSE, GROUPE, ÉCHELONS : Hors-classe du groupe 3 ;
+<table>
+<tbody>
+<tr>
+<td align="left" valign="middle">
+<p align="center">
+<strong>CLASSES ET ECHELONS</strong>
+</p>
+</td>
+<td align="left" colspan="2" valign="middle">
+<p align="center">
+<strong>DUREE</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<pre> </pre>
+</td>
+<td align="left" valign="middle">
+<p align="center">Moyenne</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">Minimale</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">7e échelon</p>
+</td>
+<td align="left" valign="middle">
+<pre> </pre>
+</td>
+<td align="left" valign="middle">
+<pre> </pre>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">6e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">4 ans</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">3 ans </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">5e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">3 ans</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">2 ans</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">4e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">3 ans</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">2 ans</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">3e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">3 ans</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">2 ans</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">2e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">2 ans</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">1 an 6 mois</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">1er échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">2 ans</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">1 an 6 mois</p>
+</td>
+</tr>
+</tbody>
+</table>
 
-1er échelon
+La durée moyenne et la durée minimale du temps passé dans chaque échelon des 1re, 2e et 3e classes sont les mêmes que celles figurant au I de l'article 2 du décret du 29 septembre 2005 susmentionné.
 
-DURÉE Moyenne : 3 ans
-
-DURÉE Minimale : 2 ans
-
-CLASSE, GROUPE, ÉCHELONS : Hors-classe du groupe 3 ;
-
-2e échelon
-
-DURÉE Moyenne : 4 ans
-
-DURÉE Minimale : 3 ans
-
-2° Le groupe 4, dont relèvent les agents exerçant des tâches d'agent administratif. Ils sont chargés de tâches administratives pouvant impliquer la connaissance et l'application de règles comptables et administratives.
-
-Ce groupe comporte deux classes : une 1re classe et une 2e classe qui comptent chacune onze échelons.
-
-Le nombre des emplois de la 1re classe ne peut excéder 25 % de l'effectif total du groupe 4.
-
-En ce qui concerne la 1re et la 2e classe des groupes 3 et 4, l'organisation des carrières, et notamment les durées d'échelon et les modalités d'avancement d'échelon et de classe, relèvent des mêmes règles que celles fixées pour les corps de fonctionnaires de catégorie C classés, respectivement, dans les échelles 5, 4, 3 et 2 de rémunération prévues par le décret du 27 janvier 1970 susvisé.
+3° Les modalités de classement et d'avancement de classe dans le groupe 3 sont les mêmes que celles prévues au I de l'article 3 du décret du 29 septembre 2005 susmentionné pour les agents relevant de la 1re, de la 2e et de la 3e classes ; elles sont les mêmes que celles prévues au II du même article 3 pour l'avancement de la 1re classe à la hors-classe.

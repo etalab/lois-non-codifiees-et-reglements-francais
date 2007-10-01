@@ -1,6 +1,6 @@
 # Article 10
 
-Les candidats admis à un concours sont, sous réserve des dispositions particulières prévues pour le recrutement des gardes nationaux de la chasse et de la faune sauvage, nommés stagiaires par le directeur de l'Office national de la chasse et accomplissent un stage d'une durée d'un an.
+Les candidats admis à un concours sont, sous réserve des dispositions particulières prévues pour le recrutement des personnels ouvriers, nommés stagiaires par le directeur de l'Office national de la chasse et accomplissent un stage d'une durée d'un an.
 
 S'il présente des justifications, l'installation d'un candidat en qualité de stagiaire peut être reportée à une date ultérieure. Si celle-ci ne peut intervenir dans le délai maximum d'un an ou si les justifications ne sont pas jugées suffisantes, le candidat perd le bénéfice de son admission au concours.
 
