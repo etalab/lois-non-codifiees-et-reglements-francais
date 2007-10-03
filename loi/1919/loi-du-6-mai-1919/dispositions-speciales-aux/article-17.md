@@ -20,7 +20,7 @@ Les seuls raisins propres à la champagnisation sont ceux qui proviennent des c�
 
 Indépendamment des autres conditions de production ci-dessus prévues, l'appellation d'origine contrôlée "Champagne" n'est attribuée qu'aux conditions suivantes :
 
-1. Vins issus de rendements inférieurs ou égaux à 13000 kilogrammes de raisins par hectare de vigne en production ;
+1. Vins issus de rendements inférieurs ou égaux à 15500 kilogrammes de raisins par hectare de vigne en production ;
 
 2. Dans le cas de jeunes vignes, vins obtenus à partir de la deuxième année suivant celle au cours de laquelle la plantation a été effectuée avant le 31 août ;
 
