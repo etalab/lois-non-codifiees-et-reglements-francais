@@ -747,6 +747,8 @@
 - [Arrêté du 24 avril 2007 (INTC0753469A)](arrete-du-24-avril-2007-intc0753469a)
 - [Arrêté du 24 avril 2007 (JUSB0710154A)](arrete-du-24-avril-2007-jusb0710154a)
 - [Arrêté du 24 avril 2007 (MJSS0752370A)](arrete-du-24-avril-2007-mjss0752370a)
+- [Arrêté du 24 janvier 1992 (MENF9200080A)](arrete-du-24-janvier-1992-menf9200080a)
+- [Arrêté du 24 janvier 1992 (MENF9200081A)](arrete-du-24-janvier-1992-menf9200081a)
 - [Arrêté du 24 janvier 2007 (EQUT0700037A)](arrete-du-24-janvier-2007-equt0700037a)
 - [Arrêté du 24 juillet 2007 (AGRG0761515A)](arrete-du-24-juillet-2007-agrg0761515a)
 - [Arrêté du 24 juillet 2007 (AGRP0761162A)](arrete-du-24-juillet-2007-agrp0761162a)

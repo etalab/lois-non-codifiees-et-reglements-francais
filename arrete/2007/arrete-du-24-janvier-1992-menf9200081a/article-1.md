@@ -1,0 +1,3 @@
+# Article 1
+
+En application des dispositions de l'article 10 du décret du 14 mai 1991 fixant les dispositions statutaires applicables au corps des adjoints techniques des établissements d'enseignement du ministère de l'éducation nationale et au corps des techniciens de l'éducation nationale, les adjoints techniques principaux des établissements d'enseignement du ministère de l'éducation nationale sont recrutés dans la spécialité professionnelle espaces verts et installations sportives, prévue à l'article 2 de l'arrêté du 3 août 2007 fixant la liste des spécialités des adjoints techniques et des adjoints techniques principaux des établissements d'enseignement du ministère chargé de l'éducation nationale susvisé, dans les conditions définies ci-après.
