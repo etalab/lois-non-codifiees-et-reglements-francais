@@ -1,4 +1,4 @@
-# Décret du 14 novembre 1936 relatif à l'appellation d'origine contrôlée « Médoc »
+# Décret du 14 novembre 1936 relatif à l'appellation d'origine contrôlée « Haut-Médoc »
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
