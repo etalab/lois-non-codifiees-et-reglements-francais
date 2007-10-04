@@ -947,7 +947,6 @@
 - [Décret n°92-732 du 30 juillet 1992 (MAEC9200011D)](decret-n92-732-du-30-juillet-1992-maec9200011d)
 - [Décret n°94-257 du 30 mars 1994 (DEFP9301534D)](decret-n94-257-du-30-mars-1994-defp9301534d)
 - [Décret n°79-104 du 31 janvier 1979](decret-n79-104-du-31-janvier-1979)
-- [Décret n°86-1169 du 31 octobre 1986](decret-n86-1169-du-31-octobre-1986)
 - [Décret n°89-59 du 31 janvier 1989 (JUSG8860064D)](decret-n89-59-du-31-janvier-1989-jusg8860064d)
 - [Décret n°91-1388 du 31 décembre 1991 (SPSS9102801D)](decret-n91-1388-du-31-decembre-1991-spss9102801d)
 - [Décret n°91-1409 du 31 décembre 1991 (DEFP9102145D)](decret-n91-1409-du-31-decembre-1991-defp9102145d)
