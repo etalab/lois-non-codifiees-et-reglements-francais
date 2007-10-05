@@ -2,7 +2,7 @@
 
 Cette commission est composée :
 
-- du directeur de l'administration générale du ministère de la culture et de la communication, président ;
+- du secrétaire général du ministère de la culture et de la communication, président, ou son représentant ;
 
 - du directeur de la musique, de la danse, du théâtre et des spectacles du ministère de la culture et de la communication ;
 
