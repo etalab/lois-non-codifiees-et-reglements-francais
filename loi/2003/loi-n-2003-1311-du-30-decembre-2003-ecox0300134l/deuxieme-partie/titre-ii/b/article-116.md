@@ -6,8 +6,6 @@ V. - Les collectivités territoriales et les organismes mentionnés aux I, II, I
 
 VI. - 1. Les articles L. 1618-1, L. 1618-2 et L. 2221-5-1 du code général des collectivités territoriales sont applicables :
 
-- aux communes de la Polynésie française et à leurs établissements publics ;
-
 - aux communes de la Nouvelle-Calédonie et à leurs établissements publics ;
 
 - aux communes de Saint-Pierre-et-Miquelon et à leurs établissements publics.
