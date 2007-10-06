@@ -1,0 +1,3 @@
+# Article 14
+
+Le droit au cumul et à la prime forfaitaire prévu en application des dispositions de l'article R. 262-10 du code de l'action sociale et des familles se poursuit, le cas échéant, pour les anciens titulaires des prestations mentionnées au II de l'article 20 et au 1° du I de l'article 19 de la loi du 21 août 2007 susvisée, ainsi qu'au 1° du III de l'article 142 de la loi du 21 décembre 2006 de finances pour 2007, dans les conditions et limites définies aux articles R. 262-10 à R. 262-11-3 du code de l'action sociale et des familles. Les périodes d'attribution desdites prestations sont alors déduites de la durée maximum de douze mois mentionnée au deuxième alinéa de l'article R. 262-10 du même code.
