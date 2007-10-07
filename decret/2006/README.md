@@ -93,7 +93,6 @@
 - [Décret n°2006-1576 du 11 décembre 2006 (SANS0624437D)](decret-n2006-1576-du-11-decembre-2006-sans0624437d)
 - [Décret n°2006-1577 du 11 décembre 2006 (SANS0623786D)](decret-n2006-1577-du-11-decembre-2006-sans0623786d)
 - [Décret n°2006-1578 du 11 décembre 2006 (SANS0623787D)](decret-n2006-1578-du-11-decembre-2006-sans0623787d)
-- [Décret n°2006-1579 du 11 décembre 2006 (SANS0623677D)](decret-n2006-1579-du-11-decembre-2006-sans0623677d)
 - [Décret n°2007-838 du 11 mai 2007 (SANH0721616D)](decret-n2007-838-du-11-mai-2007-sanh0721616d)
 - [Décret n°2007-841 du 11 mai 2007 (SANH0721619D)](decret-n2007-841-du-11-mai-2007-sanh0721619d)
 - [Décret n°2007-842 du 11 mai 2007 (SANH0721622D)](decret-n2007-842-du-11-mai-2007-sanh0721622d)
