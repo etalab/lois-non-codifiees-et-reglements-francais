@@ -1,0 +1,3 @@
+# Article 10
+
+Nonobstant les dispositions des articles 8 et 9, les personnes titulaires d'un certificat de sécurité sauvetage qui ont effectué, antérieurement à l'entrée en vigueur du présent arrêté, une formation à la gestion des ressources de l'équipage et aux marchandises dangereuses, au sein d'un exploitant de transport aérien public, dont l'autorité reconnaît la conformité aux exigences du présent arrêté, sont réputées satisfaire aux exigences desdits articles. L'exploitant délivre une attestation justifiant l'accomplissement de cette formation en vue de la délivrance du certificat de formation à la sécurité.
