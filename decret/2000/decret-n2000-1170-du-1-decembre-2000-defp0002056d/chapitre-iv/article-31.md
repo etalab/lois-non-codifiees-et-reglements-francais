@@ -1,3 +1,7 @@
 # Article 31
 
-Dans la limite d'un contingent annuel qu'il fixe par arrêté, le ministre de la défense peut, à titre honorifique, accorder à des réservistes de la réserve citoyenne dont les activités contribuent directement au renom des armées, au maintien de l'esprit de défense et au renforcement du lien entre la nation et ses forces armées, le droit au port des insignes d'un grade supérieur à celui qu'ils détiennent et à l'appellation correspondante. Cette distinction ne permet en aucun cas d'occuper un emploi militaire, d'exercer le commandement et d'être admis à ce grade dans la réserve opérationnelle ou l'armée professionnelle.
+Les réservistes de la réserve citoyenne sont agréés par l'autorité militaire en qualité d'officiers, d'aspirants, de sous-officiers ou d'officiers mariniers, ou de militaires du rang de la réserve citoyenne.
+
+Le droit au port des insignes d'un grade, attribué à titre honorifique, dans une des catégories de la réserve citoyenne ne permet pas d'occuper un emploi militaire, d'exercer un commandement et d'être admis à ce grade dans la réserve opérationnelle ou l'armée d'active.
+
+Pour les anciens militaires d'active et les anciens réservistes de la réserve opérationnelle, le port de grade autorisé ne peut être inférieur à celui antérieurement détenu.
