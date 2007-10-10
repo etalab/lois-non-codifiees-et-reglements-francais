@@ -1,6 +1,5 @@
 # 2° : Prévention des risques d'incendie.
 
-- [Article 7](article-7.md)
 - [Article 8](article-8.md)
 - [Article 9](article-9.md)
 - [Article 10](article-10.md)
@@ -13,3 +12,4 @@
 - [Article 17](article-17.md)
 - [Article 18](article-18.md)
 - [Article 18 bis](article-18-bis.md)
+- [Article 18 ter](article-18-ter.md)

@@ -228,9 +228,7 @@ L'extincteur devant être disposé à proximité du chauffeur, en application de
 <td valign="top" width="416">
 <p align="center">Autocars et autobus de faible capacité</p>
 </td>
-<td valign="top" width="227">
-<br/>
-</td>
+<td valign="top" width="227"/>
 </tr>
 <tr>
 <td valign="top" width="416">
@@ -296,6 +294,6 @@ Lorsque le véhicule est doté d'extincteurs supplémentaires, ces derniers peuv
 
 A titre d'exemple, les extincteurs conformes aux dispositions de l'arrêté du 24 octobre 1984 susvisé, dans sa version visant la norme NF S 61 900, homologués dans la catégorie Transports, portent, dans le cas d'un seul extincteur sur un véhicule autre que de faible capacité, les mentions suivantes : NF-MIC (matériel incendie certifié), 21 A - 144 B (au minimum).
 
-A l'intérieur des compartiments réservés aux voyageurs, l'utilisation d'extincteurs ou d'aérosols à hydrocarbures halogénés est prohibée.
+A l'intérieur des compartiments réservés aux passagers, l'utilisation d'extincteurs ou d'aérosols à hydrocarbures halogénés est prohibée.
 
 L'extincteur doit pouvoir être retiré facilement de son support et doit faire l'objet d'une vérification annuelle et être entretenu selon les règles de l'art. La date limite à laquelle doit avoir lieu la prochaine vérification doit être portée sur l'extincteur, la première vérification devant intervenir au plus tard un an après la mise en circulation du véhicule.
