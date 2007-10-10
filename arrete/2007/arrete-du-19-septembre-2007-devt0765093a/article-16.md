@@ -1,0 +1,5 @@
+# Article 16
+
+A titre transitoire, pendant un délai maximum d'un an et dans le cas des licences A et B, s'il ne lui est pas possible de désigner deux patrons munis d'une licence de patron-pilote d'un niveau au moins égal à celle demandée par le candidat, le préfet de la Seine-Maritime peut choisir, pour former la commission locale, un ou deux patrons titulaires de la licence de patron-pilote délivrée en application de l'arrêté du 28 décembre 1970 mentionné à l'article 14. Ce ou ces patrons, qui sont choisis en fonction de leur qualification professionnelle sur une liste établie par les principales organisations professionnelles, patronales ou ouvrières, doivent conduire habituellement dans la zone concernée des bateaux, convois ou engins flottants fluviaux du même type que celui pour la conduite duquel une licence est demandée.
+
+Aussi longtemps qu'il ne lui est pas possible de désigner deux patrons munis d'une licence C, le préfet de la Seine-Maritime peut constituer la commission locale sans les représentants des principales organisations professionnelles, patronales ou ouvrières.
