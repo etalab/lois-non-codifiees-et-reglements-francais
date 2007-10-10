@@ -272,7 +272,6 @@
 - [Arrêté du 10 décembre 2007 (DEFH0772556A)](arrete-du-10-decembre-2007-defh0772556a)
 - [Arrêté du 10 décembre 2007 (DEFH0772560A)](arrete-du-10-decembre-2007-defh0772560a)
 - [Arrêté du 10 décembre 2007 (DEFH0772563A)](arrete-du-10-decembre-2007-defh0772563a)
-- [Arrêté du 10 janvier 2007 (EQUT0700082A)](arrete-du-10-janvier-2007-equt0700082a)
 - [Arrêté du 10 janvier 2007 (EQUT0700095A)](arrete-du-10-janvier-2007-equt0700095a)
 - [Arrêté du 10 juillet 1989 (SPSP8901521A)](arrete-du-10-juillet-1989-spsp8901521a)
 - [Arrêté du 10 juillet 2007 (MTSS0758033A)](arrete-du-10-juillet-2007-mtss0758033a)

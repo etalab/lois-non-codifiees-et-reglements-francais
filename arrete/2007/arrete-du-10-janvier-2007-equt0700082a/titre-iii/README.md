@@ -1,3 +1,0 @@
-# TITRE III : DISPOSITIONS TRANSITOIRES.
-
-- [Article 14](article-14.md)
