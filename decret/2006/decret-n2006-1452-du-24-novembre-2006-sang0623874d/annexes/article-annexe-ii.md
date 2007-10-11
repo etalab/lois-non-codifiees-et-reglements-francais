@@ -74,7 +74,7 @@ TABLEAU DE CORRESPONDANCE
 <p>Fonctions administratives correspondant à celles dévolues au corps d'accueil. </p>
 </td>
 <td valign="top" width="257">
-<p>Secrétaires administratifs des services déconcentrés des affaires sanitaires et sociales. </p>
+<p>Secrétaires administratifs relevant des ministres chargés des affaires sociales.</p>
 </td>
 </tr>
 <tr>
@@ -100,7 +100,7 @@ TABLEAU DE CORRESPONDANCE
 <p>Fonctions administratives correspondant à celles dévolues au corps d'accueil. </p>
 </td>
 <td valign="top" width="257">
-<p>Adjoints administratifs des services déconcentrés. </p>
+<p>Adjoints administratifs des administrations de l'Etat.</p>
 </td>
 </tr>
 <tr>
@@ -111,7 +111,7 @@ TABLEAU DE CORRESPONDANCE
 <p>Fonctions techniques correspondant à celles dévolues au corps d'accueil. </p>
 </td>
 <td valign="top" width="257">
-<p>Agents sanitaires. </p>
+<p>Adjoints sanitaires.</p>
 </td>
 </tr>
 <tr>
@@ -126,7 +126,7 @@ TABLEAU DE CORRESPONDANCE
 <p>Fonctions administratives correspondant à celles dévolues au corps d'accueil. </p>
 </td>
 <td valign="top" width="257">
-<p>Agents administratifs des services déconcentrés. </p>
+<p>Adjoints administratifs des administrations de l'Etat.</p>
 </td>
 </tr>
 </tbody>

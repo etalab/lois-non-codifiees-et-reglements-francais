@@ -1,0 +1,7 @@
+# Article 9
+
+Pour l'application des dispositions du titre II du livre II du code rural relatives à la lutte contre les maladies des animaux, et notamment celles de l'article R. 221-11 du code rural, le vétérinaire des armées, qui exécute les opérations de prophylaxie collective dirigées par l'Etat et les opérations de police sanitaire sur les animaux appartenant au ministère de la défense, est tenu informé, par le commandant de la formation administrative dont relève l'enceinte militaire, de toute détention d'animaux appartenant ou non à des unités relevant du ministère de la défense.
+
+Pour les animaux assujettis à des mesures de prophylaxie collective, séjournant de manière permanente ou occasionnelle à l'intérieur des enceintes militaires mais n'appartenant pas à une unité relevant du ministère de la défense, la réalisation des opérations de prophylaxie collective est assurée par le vétérinaire sanitaire habilité par l'éleveur ou le détenteur des animaux en application de l'article R. 221-9 du code rural. Ces opérations restent à la charge de l'éleveur ou du détenteur des animaux.
+
+Lorsque, dans une enceinte militaire, est suspectée ou mise en évidence une des maladies des animaux mentionnées à l'article L. 223-2 ou à l'article L. 223-4 du code rural, nonobstant les obligations de déclaration au préfet qui lui incombent par ailleurs, le commandant de la formation administrative dont relève cette enceinte informe, sans délai, le vétérinaire des armées territorialement compétent.
