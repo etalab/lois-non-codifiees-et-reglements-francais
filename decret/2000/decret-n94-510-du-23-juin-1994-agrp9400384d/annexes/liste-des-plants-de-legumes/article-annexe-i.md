@@ -94,7 +94,7 @@
 
 23. Lactuca sativa L. - Laitue.
 
-24. Lycopersicum esculentum Mill. - Tomate.
+24. Lycopersicon esculentum Mill. - Tomate.
 
 25. Petroselinum crispum (Mill.) Nyman ex A. W. Hill - Persil.
 
@@ -140,6 +140,6 @@
 
 101. Cicer arietinum L. - Pois chiche.
 
-102. Fragaria ananassa X. - Fraisier.
+102. Supprimée
 
 103. Lens culinaris Med. - Lentille.

@@ -1,0 +1,7 @@
+# Article 5
+
+Les membres titulaires ou suppléants du comité technique paritaire qui, au cours de leur mandat, par suite de démission, de mise en congé de longue durée au titre de l'article 34 de la loi du 11 janvier 1984 susvisée, de mise en disponibilité, d'interruption ou d'expiration du contrat de travail, de fin de mise à disposition par un établissement public ou pour toute autre cause que l'avancement cessent d'exercer les fonctions au titre desquelles ils ont été désignés, sont remplacés dans les formes prévues aux articles 2, 3 et 4.
+
+Il en est de même des agents frappés d'une des incapacités prononcées par les articles L. 5 à L. 7 du code électoral ainsi que des agents frappés d'une rétrogradation ou ayant fait l'objet d'une exclusion temporaire de fonctions figurant dans le troisième groupe des sanctions disciplinaires énumérées par l'article 66 de la loi du 11 janvier 1984 susvisée et de ceux ayant fait l'objet d'une sanction prévue au 3° de l'article 43-2 du décret du 17 janvier 1986 susvisé ou d'une sanction de niveau équivalent pour les agents mis à disposition par les établissements publics, à moins qu'ils n'aient été amnistiés ou qu'ils n'aient bénéficié d'une décision acceptant leur demande tendant à ce qu'aucune trace de la sanction prononcée ne subsiste à leur dossier.
+
+Le mandat des remplaçants prend fin en même temps que celui des autres membres du comité technique paritaire.
