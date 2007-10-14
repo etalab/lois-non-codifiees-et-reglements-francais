@@ -26,8 +26,6 @@ Institut d'administration des entreprises, Poitiers ;
 
 Institut de gestion, Rennes-I ;
 
-Institut d'administration des entreprises, Strasbourg-III ;
-
 Institut d'administration des entreprises, Pau ;
 
 Institut d'administration des entreprises, Perpignan ;
