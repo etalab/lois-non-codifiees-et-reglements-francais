@@ -87,3 +87,9 @@ Paris-Puerto Plata (République dominicaine) ;
 Paris-Samana (République dominicaine) ;
 
 Paris-Dakar (Sénégal).
+
+Jusqu'au 30 septembre 2012 :
+
+- Paris-Cancún (Mexique)
+
+- Paris-Mexico (Mexique)
