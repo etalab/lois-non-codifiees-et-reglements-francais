@@ -1035,7 +1035,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </tr>
 <tr>
 <td align="center"> II</td>
-<td> Responsable de commerce et gestion.<br/>
+<td> Responsable d'activités.<br/>
 </td>
 <td align="center">312 p <br/>
 </td>
@@ -1414,8 +1414,8 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 <td align="center">5 ans <br/>
 </td>
 <td align="center">
-<p>Ministère de la défense - Centre de formation</p>
-<p>et d'interprétation interarmées de l'image. </p>
+<p>Groupe Ecole supérieure des sciences </p>
+<p>économiques et commerciales (ESSEC). </p>
 </td>
 </tr>
 <tr>
@@ -1525,9 +1525,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </td>
 <td align="center">2 ans <br/>
 </td>
-<td align="center">
-<p>Institut méditerranéen d'informatique, d'intelligence</p>
-<p>artificielle et de robotique (IMERIR). </p>
+<td align="center">CCI de Perpignan et des Pyrénées-Orientales. <br/>
 </td>
 </tr>
 <tr>

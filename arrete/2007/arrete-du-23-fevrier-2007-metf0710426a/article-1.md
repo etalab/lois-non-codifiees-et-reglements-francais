@@ -100,7 +100,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 <td align="center">
 <p> Ministère de la défense. - </p>
 <p>Centre de formation et d'interprétation interarmées</p>
-<p>de l'image. </p>
+<p>de l'imagerie. </p>
 </td>
 </tr>
 <tr>
@@ -354,7 +354,10 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </tr>
 <tr>
 <td align="center"> IV</td>
-<td align="center"> Encadrant technique d'insertion.<br/>
+<td align="center">
+<p> Encadrant technique d'activités d'insertion par</p>
+<p>l'économique (ETAIE).<br/>
+</p>
 </td>
 <td align="center"> 332 t<br/>
 </td>
@@ -507,7 +510,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 <td align="center">
 <p> Ministère de la défense. - </p>
 <p>Centre de formation et d'interprétation interarmées</p>
-<p>de l'image. </p>
+<p>de l'imagerie. </p>
 </td>
 </tr>
 <tr>
@@ -1089,8 +1092,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 <td align="center"> 312 t</td>
 <td align="center"> 5 ans</td>
 <td align="center">
-<p> CCI de l'Eure. - Espace consulaire de formation pour </p>
-<p>l'industrie et le commerce (ECOFIC)/CCI de </p>
+<p> CCI de l'Eure. - Ecole supérieure / CCI de </p>
 <p>Rochefort-sur-Mer et de Saintonge. </p>
 </td>
 </tr>

@@ -100,8 +100,8 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 <td align="center"> Chargé d'insertion et du développement local.<br/>
 </td>
 <td align="center">
-<p> 322n,</p>
-<p>322t </p>
+<p> 332n,</p>
+<p>332t </p>
 </td>
 <td align="center"> 5 ans</td>
 <td align="center"> Centre de formation et de promotion (CFP) Rhône-Alpes.</td>

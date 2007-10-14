@@ -548,11 +548,10 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 <p> GROUPEMENT D'INTERET PUBLIC FORMATION</p>
 <p>CONTINUE ET INSERTION PROFESSIONNELLE (GIP</p>
 <p>FCIP) ALSACE. - GROUPEMENT D'INTERET PUBLIC </p>
-<p>FORMATION CONTINUE ET INSERTION</p>
+<p>FORMATION ET INSERTION</p>
 <p>PROFESSIONNELLE (GIP FCIP) FRANCHE-COMTE. -  </p>
-<p>GROUPEMENT D'INTERET PUBLIC FORMATION </p>
-<p>CONTINUE ET INSERTION PROFESSIONNELLE (GIP </p>
-<p>FCIP) FORMAVIE MONTPELLIER.</p>
+<p>GROUPEMENT D'INTERET PUBLIC (GIP) </p>
+<p>FORMAVIE MONTPELLIER.</p>
 </td>
 </tr>
 <tr>
@@ -613,7 +612,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 <td align="center"> III</td>
 <td align="center"> Animateur formateur conseiller en beauté.<br/>
 </td>
-<td align="center"> 3366w<br/>
+<td align="center"> 336w<br/>
 </td>
 <td align="center"> 2 ans<br/>
 </td>
