@@ -1,3 +1,0 @@
-# Article 5
-
-Le garde des sceaux, ministre de la justice, le ministre de l'intérieur, le ministre de l'équipement, du logement, des transports et de la mer, le ministre de la culture, de la communication, des grands travaux et du Bicentenaire, le secrétaire d'Etat auprès du Premier ministre, chargé de l'environnement et de la prévention des risques technologiques et naturels majeurs, et le secrétaire d'Etat auprès du ministre de l'équipement, du logement, des transports et de la mer, chargé des transports routiers et fluviaux, sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.

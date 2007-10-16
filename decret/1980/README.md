@@ -100,7 +100,6 @@
 - [Décret n°80-912 du 21 novembre 1980](decret-n80-912-du-21-novembre-1980)
 - [Décret n°80-921 du 21 novembre 1980](decret-n80-921-du-21-novembre-1980)
 - [Décret n°80-922 du 21 novembre 1980](decret-n80-922-du-21-novembre-1980)
-- [Décret n°80-923 du 21 novembre 1980](decret-n80-923-du-21-novembre-1980)
 - [Décret n°80-366 du 21 mai 1980](decret-n80-366-du-21-mai-1980)
 - [Décret n°80-372 du 21 mai 1980](decret-n80-372-du-21-mai-1980)
 - [Décret n°80-759 du 22 septembre 1980](decret-n80-759-du-22-septembre-1980)
