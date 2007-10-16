@@ -1,6 +1,6 @@
 # Article 1
 
-Tout appareil visé à l'article 4 (1°) du décret du 2 février 1987 susvisé comporte une étiquette fixée sur l'appareil, portant la mention indélébile, de dimension non inférieure à 50  75 mm, suivante : " Cet appareil contient des P.C.B. qui pourraient contaminer l'environnement et dont l'élimination est réglementée. "
+Tout appareil visé à l'article R543-21 du code de l'environnement comporte une étiquette fixée sur l'appareil, portant la mention indélébile, de dimension non inférieure à 50 75 mm, suivante : " Cet appareil contient des P.C.B. qui pourraient contaminer l'environnement et dont l'élimination est réglementée. "
 
 Si l'étiquette d'un transformateur n'est pas visible de l'accès principal du local dans lequel il est implanté, une étiquette identique est apposée sur la face intérieure de la porte de cet accès.
 
