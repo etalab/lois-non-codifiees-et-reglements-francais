@@ -1,3 +1,0 @@
-# Article 39
-
-Des arrêtés conjoints des ministres chargés de l'environnement, des transports, de la mer et du budget fixent les conditions d'application du présent décret, notamment la forme de la demande d'autorisation et du certificat d'autorisation, la forme de la déclaration préalable, du document de suivi, et celle sous laquelle le préfet ou le ministre chargé de l'environnement fait connaître son opposition à une importation, une exportation ou un transit, ainsi que la nature et la forme des transmissions d'information entre le préfet compétent ou le ministre chargé de l'environnement et l'administration des douanes.

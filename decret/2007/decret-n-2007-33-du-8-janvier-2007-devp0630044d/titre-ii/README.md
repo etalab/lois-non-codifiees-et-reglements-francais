@@ -1,3 +1,0 @@
-# TITRE II : MISE SUR LE MARCHÉ ET UTILISATION DU TRICHLOROBENZÈNE.
-
-- [Article 2](article-2.md)

@@ -1,10 +1,4 @@
 # Décret n°2007-737 du 7 mai 2007 relatif à certains fluides frigorigènes utilisés dans les équipements frigorifiques et climatiques.
 
-- [TITRE Ier : DISPOSITIONS GÉNÉRALES.](titre-ier)
-- [TITRE II : DISPOSITIONS RELATIVES À LA PRÉVENTION DES FUITES DE FLUIDES FRIGORIGÈNES.](titre-ii)
-- [TITRE III : DISPOSITIONS RELATIVES À LA CESSION, L'ACQUISITION ET LA RÉCUPÉRATION DES FLUIDES FRIGORIGÈNES ET DE LEURS EMBALLAGES.](titre-iii)
-- [TITRE IV : DISPOSITIONS RELATIVES AUX OPÉRATEURS.](titre-iv)
-- [TITRE V : DISPOSITIONS RELATIVES AUX ORGANISMES AGRÉÉS.](titre-v)
-- [TITRE VI : SANCTIONS PÉNALES.](titre-vi)
 - [TITRE VII : DISPOSITIONS DIVERSES.](titre-vii)
 - [Article 25](article-25.md)
