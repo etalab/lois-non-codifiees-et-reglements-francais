@@ -238,7 +238,7 @@ Décret n° 87-347 du 21 mai 1987 relatif à la création et aux conditions de d
 <p>Habilitation d'établissements scolaires à assurer les formations conduisant aux diplômes des métiers d'art.</p>
 </td>
 <td valign="top" width="189">
-<p>Article 3. </p>
+<p>Article 3.</p>
 </td>
 </tr>
 </tbody>
@@ -310,7 +310,7 @@ Arrêté du 6 janvier 1995 modifié relatif au concours général des métiers
 <p>Décisions d'attribution des récompenses du concours général des métiers.</p>
 </td>
 <td valign="top" width="189">
-<p>Article 3 (8).</p>
+<p>Article 3 (8). </p>
 </td>
 </tr>
 </tbody>
@@ -345,7 +345,7 @@ Arrêté du 13 octobre 1995 portant création du diplôme de compétence en lang
 </tbody>
 </table>
 
-Code de l'éducation.
+Code de l'éducation
 
 <table>
 <tbody>
@@ -559,7 +559,7 @@ Décret n° 91-291 du 20 mars 1991 portant création du diplôme d'Etat de conse
 <p>Agrément des établissements habilités à dispenser une formation en vue de la préparation au diplôme d'Etat de conseiller d'orientation-psychologue.</p>
 </td>
 <td valign="top" width="189">
-<p>Article 2.</p>
+<p>Article 2. </p>
 </td>
 </tr>
 </tbody>
@@ -577,7 +577,7 @@ Arrêté du 4 octobre 1988 relatif à l'obtention du diplôme d'Etat de docteur 
 <p>Jusqu'au 31 décembre 1998, dispenses partielles d'études, en vue de l'obtention du diplôme d'Etat de docteur en pharmacie, pour les étudiants justifiant d'une ou plusieurs années d'études pharmaceutiques accomplies à l'étranger ou d'un diplôme de pharmacien délivré à l'étranger.</p>
 </td>
 <td valign="top" width="189">
-<p>Article 2.</p>
+<p>Article 2. </p>
 </td>
 </tr>
 </tbody>
@@ -595,7 +595,7 @@ Arrêté du 2 juillet 1991 relatif au contenu et à la validation des formations
 <p>Agrément des plans de formation des instituts universitaires de formation des maîtres.</p>
 </td>
 <td valign="top" width="189">
-<p>Article 1er. </p>
+<p>Article 1er.</p>
 </td>
 </tr>
 <tr>
@@ -670,7 +670,7 @@ Décret n° 71-742 du 6 septembre 1971 et décret n° 74-899 du 17 octobre 1974 
 <p>Attribution du titre de docteur honoris causa.</p>
 </td>
 <td valign="top" width="189">
-<p>Article 3 (décret de 1971).</p>
+<p>Article 3 (décret de 1971). </p>
 <p>Article 1er (décret de 1974).</p>
 </td>
 </tr>
@@ -707,7 +707,7 @@ Décret n° 85-402 du 3 avril 1985 modifié relatif aux allocations de recherche
 <p>Décisions d'attribution d'allocations de recherche et de bourses d'information scientifique et technique.</p>
 </td>
 <td valign="top" width="189">
-<p>Article 7 du décret.</p>
+<p>Article 7 du décret. </p>
 <p>Articles 1er et 2 de l'arrêté.</p>
 </td>
 </tr>
@@ -769,6 +769,17 @@ Décret n° 82-453 du 28 mai 1982 modifié relatif à l'hygiène et à la sécur
 </td>
 <td valign="top" width="189">
 <br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="76">
+<p align="center">3</p>
+</td>
+<td valign="top" width="416">
+<p>Agrément pris par le ministre chargé de la recherche en vue de l'utilisation confinée d'organismes génétiquement modifiés à des fins de recherche, de développement ou d'enseignement.</p>
+</td>
+<td valign="top" width="189">
+<p>Article R. 532-1 du code de l'environnement </p>
 </td>
 </tr>
 </tbody>
