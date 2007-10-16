@@ -1,0 +1,9 @@
+# Article 15
+
+I. - Les périodes de professionnalisation sont des périodes d'une durée maximale de six mois comportant une activité de service et des actions de formation en alternance. Elles ont pour objet de prévenir les risques d'inadaptation des fonctionnaires à l'évolution des méthodes et des techniques et de favoriser leur accès à des emplois exigeant des compétences nouvelles ou correspondant à des qualifications différentes. Elles sont adaptées aux spécificités de l'emploi auquel se destine l'agent et peuvent se dérouler dans un emploi différent de son affectation antérieure.
+
+II. - Les périodes de professionnalisation peuvent en outre donner accès à un autre corps ou cadre d'emplois de même niveau et classé dans la même catégorie. Pour bénéficier de cette voie d'accès, les fonctionnaires doivent être en position d'activité dans leur corps.
+
+Après avoir accompli la période de professionnalisation et avoir satisfait à l'évaluation qui établit son aptitude à servir dans le corps ou cadre d'emplois considéré, le fonctionnaire fait l'objet, après avis de la commission administrative paritaire ou de l'organisme paritaire compétent, d'une décision de détachement dans ce corps ou cadre d'emplois, nonobstant toutes dispositions contraires du statut particulier le régissant. Les modalités de l'évaluation préalable à cette décision sont définies par un arrêté du ministre chargé de la fonction publique.
+
+Après deux années de services effectifs dans cette position de détachement, le fonctionnaire est, sur sa demande, intégré dans le corps ou cadre d'emplois d'accueil, nonobstant toute disposition contraire du statut particulier applicable audit corps ou cadre d'emplois. Cette intégration n'est prise en compte au titre d'aucune des voies d'accès au corps ou cadre d'emplois énumérées dans le statut particulier.

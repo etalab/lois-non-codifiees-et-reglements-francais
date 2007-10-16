@@ -1,0 +1,7 @@
+# Article 31
+
+Chaque ministre établit, après concertation avec les organisations représentatives du personnel, un document d'orientation à moyen terme de la formation des agents des administrations relevant de son autorité ou des établissements publics placés sous son contrôle. Ce document d'orientation, qui prend en compte les orientations fixées au plan interministériel dans les conditions définies à l'article 34, est soumis pour avis aux organismes paritaires compétents. Il est révisé dans les mêmes formes, au moins tous les trois ans.
+
+Le document d'orientation à moyen terme est établi en application du schéma stratégique de gestion des ressources humaines et du plan de gestion prévisionnelle des ressources humaines de l'administration concernée. Il constitue le cadre stratégique des plans annuels de formation des administrations. Il est fondé sur l'analyse de l'évolution des missions, des compétences, des emplois et des effectifs du ministère ou de l'établissement public. Il énonce les priorités, les objectifs et les moyens de la formation professionnelle des agents au regard de ces évolutions. Il prend également en compte l'analyse de la situation comparée des hommes et des femmes et celle de l'accès de toutes les catégories d'agents à la formation.
+
+Le ministre s'assure que les plans de formation établis par chaque direction, service de son administration et de chaque établissement public placé sous sa tutelle, après avis des organismes paritaires compétents, se conforment aux objectifs énoncés dans le document d'orientation à moyen terme.
