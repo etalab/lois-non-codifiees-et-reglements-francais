@@ -64,6 +64,7 @@
 - [Décret du 20 octobre 2005 (AGRP0502060D)](decret-du-20-octobre-2005-agrp0502060d)
 - [Décret n°2005-1298 du 20 octobre 2005 (ECOX0500205D)](decret-n2005-1298-du-20-octobre-2005-ecox0500205d)
 - [Décret n°2005-1308 du 20 octobre 2005 (ECOM0520014D)](decret-n2005-1308-du-20-octobre-2005-ecom0520014d)
+- [Décret n°2005-378 du 20 avril 2005 (DEVO0530000D)](decret-n2005-378-du-20-avril-2005-devo0530000d)
 - [Décret n°2005-813 du 20 juillet 2005 (INTB0500193D)](decret-n2005-813-du-20-juillet-2005-intb0500193d)
 - [Décret n°2005-814 du 20 juillet 2005 (INTB0500194D)](decret-n2005-814-du-20-juillet-2005-intb0500194d)
 - [Décret n°2005-840 du 20 juillet 2005 (SANP0522707D)](decret-n2005-840-du-20-juillet-2005-sanp0522707d)
