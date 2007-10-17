@@ -1,6 +1,5 @@
 # 1re partie : Dispositions générales
 
-- [Article 222-7.01](article-222-7-01.md)
 - [Article 222-7.02](article-222-7-02.md)
 - [Article 222-7.04](article-222-7-04.md)
 - [Article 222-7.05](article-222-7-05.md)
