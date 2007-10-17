@@ -26,7 +26,7 @@ En application des dispositions de l'article 1er du décret du 13 juin 2005 susv
 
 - le commandant de la garde républicaine ;
 
-- le commandant de la force de gendarmerie mobile et d'intervention (à l'exception des militaires affectés au Groupement de sécurité et d'intervention de la gendarmerie nationale) ;
+- le commandant de la force de gendarmerie mobile et d'intervention ;
 
 - les commandants d'école de formation ;
 
@@ -44,4 +44,6 @@ En application des dispositions de l'article 1er du décret du 13 juin 2005 susv
 
 - le commandant de la gendarmerie de la Polynésie française ;
 
-- le commandant de la gendarmerie de Saint-Pierre-et-Miquelon.
+- le commandant de la gendarmerie de Saint-Pierre-et-Miquelon ;
+
+- le commandant du groupe d'intervention de la gendarmerie nationale.

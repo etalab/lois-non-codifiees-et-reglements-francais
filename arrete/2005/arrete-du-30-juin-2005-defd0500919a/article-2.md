@@ -12,6 +12,8 @@ b) Les mutations dans une autre formation administrative que celle dont relève 
 
 - des mouvements entraînant changement de subdivision d'arme ou déplacement d'office dans l'intérêt du service par voie de changement de branche ;
 
+- des mouvements à destination et en provenance du groupe d'intervention de la gendarmerie nationale qui sont prononcés par la DGGN.
+
 c) Les mutations à destination ou en provenance de l'état-major du commandement de la gendarmerie outre-mer, des unités directement rattachées, des départements et des régions d'outre-mer, de Mayotte, de Saint-Pierre-et-Miquelon, de Wallis et Futuna, des Terres australes et antarctiques françaises, de la Polynésie française ou de la Nouvelle-Calédonie, ainsi que des formations prévôtales, de l'assistance militaire technique, ou d'une ambassade pour un retour en métropole, sont prononcées au terme ou avant l'expiration du temps de présence par le commandant de la gendarmerie outre-mer à l'exception :
 
 - des mouvements entraînant changement de subdivision d'arme ;
