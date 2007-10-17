@@ -6,7 +6,7 @@ Lors des épreuves d'entretien et d'exposé-discussion, à l'admission, le jury 
 
 - un psychologue,
 
-et au moins deux examinateurs choisis, en fonction de leur disponibilité, parmi les personnels suivants :
+et deux examinateurs choisis parmi les fonctionnaires suivants :
 
 - un fonctionnaire d'un corps administratif de catégorie A appartenant à la fonction publique de l'Etat ;
 
