@@ -4,4 +4,4 @@ Les opérations effectuées dans les installations nucléaires de base mentionn�
 
 Sont soumis à autorisation les rejets dans l'atmosphère d'effluents gazeux, radioactifs ou non radioactifs, provenant des installations nucléaires de base lorsqu'ils sont susceptibles de provoquer des pollutions atmosphériques ou des odeurs telles que définies à l'article 1er de la loi du 2 août 1961 susvisée.
 
-Les opérations mentionnées aux deux alinéas précédents qui sont effectuées dans des installations classées pour la protection de l'environnement incluses dans le périmètre d'une installation nucléaire de base sont soumises à autorisation ou à déclaration en vertu de la nomenclature annexée au décret du 20 mai 1953 susvisé.
+Les opérations mentionnées aux deux alinéas précédents qui sont effectuées dans des installations classées pour la protection de l'environnement incluses dans le périmètre d'une installation nucléaire de base sont soumises à autorisation ou à déclaration en vertu de la nomenclature annexée à l'article R. 511-9 du code de l'environnement.

@@ -138,7 +138,6 @@
 - [Décret n°2002-1558 du 24 décembre 2002 (JUSB0210649D)](decret-n2002-1558-du-24-decembre-2002-jusb0210649d)
 - [Décret n°2002-1560 du 24 décembre 2002 (BUDF0224214D)](decret-n2002-1560-du-24-decembre-2002-budf0224214d)
 - [Décret n°2002-1561 du 24 décembre 2002 (BUDB0240044D)](decret-n2002-1561-du-24-decembre-2002-budb0240044d)
-- [Décret n°2002-1563 du 24 décembre 2002 (DEVP0200010D)](decret-n2002-1563-du-24-decembre-2002-devp0200010d)
 - [Décret n°2002-1568 du 24 décembre 2002 (SANS0223923D)](decret-n2002-1568-du-24-decembre-2002-sans0223923d)
 - [Décret n°2002-1569 du 24 décembre 2002 (SANG0223568D)](decret-n2002-1569-du-24-decembre-2002-sang0223568d)
 - [Décret n°2002-1570 du 24 décembre 2002 (SANS0223593D)](decret-n2002-1570-du-24-decembre-2002-sans0223593d)
