@@ -1,13 +1,3 @@
 # Article 3
 
-Les épreuves facultatives du baccalauréat général sont les suivantes :
-
-Série E.S. : langue vivante étrangère, langue régionale, arts (pratiques artistiques et histoire des arts), enseignement scientifique, latin, grec ancien, lettres.
-
-Série L : langue vivante étrangère, langue régionale, arts (pratiques artistiques et histoire des arts), latin, grec ancien.
-
-Série S : langue vivante étrangère, langue régionale, latin, grec ancien, technologie industrielle, arts (pratiques artistiques et histoire des arts).
-
-Conformément aux dispositions du décret du 15 septembre 1993 susvisé, les candidats peuvent s’inscrire au plus à trois épreuves facultatives ou à deux lorsqu’ils sont par ailleurs évalués â un atelier de pratique.
-
-L’épreuve facultative de technologie industrielle de la série S est réservée aux candidats qui n’ont pas choisi la technologie industrielle en épreuve obligatoire.
+Les épreuves facultatives correspondant à des options du cycle terminal de la série concernée du baccalauréat général sont les suivantes :  Série ES : langue vivante étrangère, langue régionale, latin, grec ancien, arts, éducation physique et sportive, langue des signes française ; Série L : langue vivante étrangère, langue régionale, latin, grec ancien, arts, éducation physique et sportive, langue des signes française ; Série S : langue vivante étrangère, langue régionale, latin, grec ancien, arts, éducation physique et sportive, hippologie et équitation, pratiques sociales et culturelles, langue des signes française. Les épreuves facultatives hippologie et équitation et pratiques sociales et culturelles de la série S correspondent à des enseignements assurés dans les établissements relevant du ministre chargé de l'agriculture. L'épreuve facultative d'arts des séries ES, L et S porte au choix du candidat sur l'un des domaines suivants : arts plastiques ou cinéma-audiovisuel ou histoire des arts ou musique ou théâtre-expression dramatique ou danse. Pour les élèves scolarisés dans les sections européennes ou de langues orientales des différentes séries, l'une des épreuves facultatives énumérées aux alinéas précédents peut, au choix du candidat, être remplacée par l'évaluation spécifique prévue par^l'arrêté du 9 mai 2003 relatif aux conditions d'attribution de l'indication "section européenne" ou "section de langue orientale" sur les diplômes du baccalauréat général et du baccalauréat technologique.
