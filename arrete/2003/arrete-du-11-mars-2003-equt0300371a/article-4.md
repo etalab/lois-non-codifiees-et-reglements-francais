@@ -1,6 +1,6 @@
 # Article 4
 
-Lorsque la demande est établie conformément au formulaire CERFA n° 12168, le préfet de région délivre à l'entreprise une attestation pour chaque conducteur ressortissant d'un Etat tiers, ainsi qu'une photocopie certifiée conforme de celle-ci.
+Lorsque la demande est établie conformément au formulaire CERFA n° 12726, le préfet de région délivre à l'entreprise une attestation pour chaque conducteur ressortissant d'un Etat tiers, ainsi qu'une photocopie certifiée conforme de celle-ci.
 
 L'attestation de conducteur est délivrée à l'entreprise de transport lorsque le conducteur est utilisé par elle en tant qu'intérimaire.
 

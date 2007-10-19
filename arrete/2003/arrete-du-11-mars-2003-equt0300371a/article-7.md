@@ -1,3 +1,5 @@
 # Article 7
 
-Le formulaire CERFA n° 12168, sa notice explicative n° 50944 et le modèle d'attestation de conducteur font l'objet d'une publication au Bulletin officiel du ministère de l'équipement, des transports, du logement, du tourisme et de la mer.
+Le formulaire et la notice CERFA mentionnés au présent arrêté sont disponibles auprès des directions régionales de l'équipement et sur le site du ministère chargé des transports à l'adresse suivante :  www.transports.equipement.gouv.fr.
+
+Les formulaires CERFA peuvent être transmis aux directions régionales de l'équipement sous forme papier ou sous forme électronique, via internet.
