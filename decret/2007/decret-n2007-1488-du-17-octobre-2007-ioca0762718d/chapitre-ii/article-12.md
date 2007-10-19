@@ -1,0 +1,5 @@
+# Article 12
+
+A compter de la date d'entrée en vigueur du présent décret, les fonctionnaires détachés dans un emploi de directeur des services de préfecture régis par les dispositions du décret n° 2004-671 du 8 juillet 2004 relatif aux emplois de directeur des services de préfecture, qui occupent un des emplois prévus à l'article 2, sont maintenus dans ces fonctions, placés jusqu'au terme de leur détachement dans l'emploi de conseiller d'administration et classés dans cet emploi à l'échelon comportant un indice égal ou à défaut immédiatement supérieur à celui dont ils bénéficiaient précédemment. Ils conservent leur ancienneté d'échelon dans les mêmes conditions et limites que celles fixées aux troisième et quatrième alinéas de l'article 6.
+
+Un arrêté conjoint du ministre de l'intérieur et du ministre chargé du budget détermine les conditions du reclassement au même échelon indiciaire de fonctionnaires détachés dans un emploi de directeur des services de préfecture ayant un échelon différent.
