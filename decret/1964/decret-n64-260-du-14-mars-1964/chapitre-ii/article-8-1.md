@@ -1,6 +1,6 @@
 # Article 8-1
 
-I. - Les sous-préfets recrutés au choix par application de l'article 8 qui, antérieurement à leur nomination, avaient la qualité de fonctionnaire sont classés, lors de leur nomination, à l'échelon du grade de sous-préfet comportant un indice égal ou, à défaut, immédiatement supérieur à celui qu'ils détenaient dans leur corps ou cadre d'emplois d'origine.
+I. - Les sous-préfets recrutés au choix par application de l'article 8 qui, antérieurement à leur nomination, avaient la qualité de fonctionnaire sont classés, lors de leur nomination, à l'échelon du grade de sous-préfet comportant un indice égal ou, à défaut, immédiatement supérieur à celui qu'ils détenaient dans leur corps ou cadre d'emplois d'origine ou dans l'emploi de conseiller d'administration de l'intérieur et de l'outre-mer à la condition qu'ils aient occupé cet emploi pendant au moins six mois à la date de leur nomination.
 
 Dans la limite de l'ancienneté exigée à l'article 14 pour une promotion à l'échelon supérieur, ils conservent l'ancienneté d'échelon acquise dans leur précédent grade, classe ou emploi lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle qui résulterait d'un avancement d'échelon dans leur ancienne situation.
 
