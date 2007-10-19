@@ -764,7 +764,6 @@
 - [Arrêté du 23 décembre 1992 (BUDF9200020A)](arrete-du-23-decembre-1992-budf9200020a)
 - [Arrêté du 23 décembre 1992 (BUDR9206038A)](arrete-du-23-decembre-1992-budr9206038a)
 - [Arrêté du 23 décembre 1992 (INTD9200566A)](arrete-du-23-decembre-1992-intd9200566a)
-- [Arrêté du 23 décembre 1992 (MERR9200205A)](arrete-du-23-decembre-1992-merr9200205a)
 - [Arrêté du 23 janvier 1992 (DEFD9201077A)](arrete-du-23-janvier-1992-defd9201077a)
 - [Arrêté du 23 janvier 1992 (DEFD9201078A)](arrete-du-23-janvier-1992-defd9201078a)
 - [Arrêté du 23 janvier 1992 (DEFD9201079A)](arrete-du-23-janvier-1992-defd9201079a)
