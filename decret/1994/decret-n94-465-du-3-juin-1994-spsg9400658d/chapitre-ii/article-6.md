@@ -1,7 +1,7 @@
 # Article 6
 
-A l'issue de leur stage, les stagiaires dont les services ont donné satisfaction sont titularisés après avis de la commission administrative paritaire.
+Les stagiaires, lors de leur nomination, sont classés à l'échelon comportant un indice égal ou, à défaut, immédiatement supérieur à celui qu'ils détenaient dans leur grade d'origine.
 
-Les stagiaires dont les services n'ont pas donné satisfaction sont soit autorisés à poursuivre leur stage pour une durée maximale d'un an non renouvelable, soit réintégrés dans leur corps d'origine, au grade et à l'échelon qu'ils y détenaient.
+Dans la limite de l'ancienneté moyenne définie à l'article 9 pour une promotion à l'échelon supérieur, ils conservent l'ancienneté d'échelon acquise dans leur précédent grade lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle qui résulterait d'un avancement d'échelon dans leur ancienne situation.
 
-La durée du stage est prise en compte pour l'avancement dans la limite d'un an.
+Les candidats nommés alors qu'ils ont atteint l'échelon terminal de leur précédent grade conservent leur ancienneté d'échelon dans les mêmes conditions et limites lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle résultant d'une promotion audit échelon.

@@ -1,7 +1,9 @@
 # Article 7
 
-Lors de leur titularisation, les stagiaires sont classés à un échelon comportant un indice égal ou, à défaut, immédiatement supérieur à celui qu'ils détenaient dans leur corps d'origine.
+I. - Les stagiaires dont le stage a donné satisfaction sont titularisés en qualité de conseiller technique d'éducation spécialisée.
 
-Dans la limite de l'ancienneté moyenne exigée à l'article 9 ci-dessous pour une promotion à l'échelon supérieur, ils conservent l'ancienneté acquise dans leur précédent grade lorsque l'augmentation du traitement consécutive à leur nomination est inférieure à celle qui aurait résulté d'un avancement d'échelon dans leur ancienne situation.
+II. - Les stagiaires dont le stage n'a pas donné satisfaction peuvent être autorisés à effectuer un stage complémentaire d'une durée maximale d'un an. Si ce stage complémentaire a été jugé satisfaisant, les intéressés sont titularisés en qualité de conseiller technique d'éducation spécialisée.
 
-Les candidats nommés alors qu'ils ont atteint le dernier échelon de leur précédent grade conservent leur ancienneté d'échelon dans les mêmes conditions et limites, lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle que procure l'élévation audit échelon.
+Les conseillers techniques d'éducation spécialisée stagiaires qui n'ont pas été autorisés à effectuer un stage complémentaire ou dont le stage n'a pas donné satisfaction sont réintégrés dans leur grade d'origine.
+
+III. - La durée du stage est prise en compte pour l'avancement dans la limite d'une année.
