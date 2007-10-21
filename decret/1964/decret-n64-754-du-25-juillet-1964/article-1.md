@@ -1,6 +1,6 @@
 # Article 1
 
-L'administration centrale du ministère de la justice comprend, outre le cabinet du ministre et le bureau du cabinet qui lui est rattaché :
+L'administration centrale du ministère de la justice comprend, outre le cabinet du ministre, le bureau du cabinet et le porte-parole du ministre :
 
 - le secrétariat général ;
 
