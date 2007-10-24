@@ -1,9 +1,3 @@
 # Article 2
 
-Pour avoir droit à la dénomination "Vin de pays d'Aigues", les vins doivent être issus des vendanges récoltées sur les territoires suivants :
-
-Département de Vaucluse :
-
-Cantons : Pertuis, Cadenet, Bonnieux, Gordes, Apt ;
-
-Communes : Saumane, Lagnes, L'Isle-sur-la-Sorgue, Cavaillon, Cheval-Blanc, Les Taillades, Robion, Maubec, Cabrières-d'Avignon.
+Pour avoir droit à la dénomination "vin de pays d'Aigues", les vins doivent être issus de vendanges récoltées sur le territoire des communes suivantes dans le département de Vaucluse : Ansouis, Apt, Auribeau, Bastide-des-Jourdan (La), Bastidonne (La), Beaumettes (Les), Beaumont-de-Pertuis, Bonnieux, Buoux, Cabrières-d'Aigues, Cabrières-d'Avignon, Cadenet, Caseneuve, Castellet, Cavaillon, Cheval-Blanc, Cucuron, Gargas, Gignac, Gordes, Goult, Grambois, Isle-sur-la-Sorgue (L'), Joucas, Lacoste, Lagarde-d'Apt, Lagnes, Lauris, Lioux, Lourmarin, Maubec, Ménerbes, Mérindol, Mirabeau, Motte-d'Aigues (La), Murs, Oppède, Pertuis, Peypin-d'Aigues, Puget, Puyvert, Robion, Roussillon, Rustrel, Saignon, Saint-Martin-de-Castillon, Saint-Martin-de-la-Brasque, Saint-Pantaléon, Saint-Saturnin-d'Apt, Sannes, Saumane, Sivergues, Taillades (Les), Tour-d'Aigues (La), Vaugines, Viens, Villars, Villelaure, Vitrolles.
