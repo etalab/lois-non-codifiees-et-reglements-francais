@@ -1,0 +1,5 @@
+# Article 22
+
+Le plan de modernisation des bâtiments d'élevage est l'un des dispositifs de la mesure 121 de l'axe 1 du programme de développement rural hexagonal 2007-2013 (PDRH) approuvé par la Commission européenne et, à ce titre, l'aide mentionnée à l'article 2 du présent arrêté peut faire l'objet d'un cofinancement de 50 % par le Fonds européen agricole pour le développement rural (FEADER). L'aide peut être complétée par d'autres financeurs qui interviennent dans le cadre de ce plan. Le programme approuvé ainsi que les documents régionaux de développement rural (DRDR) indiquent les modalités d'intervention des financeurs publics nationaux en vue de l'obtention de la contrepartie FEADER par l'Union européenne.
+
+Les demandes déposées en 2006 et en instance d'engagement au 31 décembre 2006 sont éligibles au cofinancement européen si les opérations ne sont pas achevées à la date du 1er janvier 2007. Elles sont instruites conformément au règlement (CE) n° 1968/2005 du Conseil du 20 septembre 2005 susvisé.

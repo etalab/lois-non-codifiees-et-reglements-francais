@@ -1,0 +1,11 @@
+# Article 20
+
+En cas de non-respect, sauf cas de force majeure défini par le règlement n° 1974/2006, des conditions d'octroi et des engagements fixés à l'article 12, le bénéficiaire doit rembourser le montant d'aide versé majoré des intérêts au taux légal en vigueur et assorti d'une pénalité.
+
+Lorsque le bénéficiaire ne respecte pas les engagements relatifs aux conditions minimales requises dans les domaines de l'hygiène, du bien-être des animaux et de l'environnement, le préfet met en demeure l'exploitant de régulariser sa situation à l'issue du délai octroyé. En cas de non-régularisation constatée, le bénéficiaire doit rembourser, le cas échéant, le montant d'aide versé majoré des intérêts au taux légal en vigueur et assorti d'une pénalité égale à 3 % du montant d'aide perçu ou à percevoir, dans la limite du montant de l'amende prévu à l'article 131-13 du code pénal pour les contraventions de 5e classe.
+
+Lorsque l'exploitant n'a pas maintenu dans un bon état fonctionnel et pour un usage identique les constructions ayant bénéficié des aides, a revendu le matériel de mécanisation subventionné, a cessé l'activité agricole ou d'élevage, il doit rembourser le montant d'aide versé, majoré des intérêts au taux légal en vigueur et assorti d'une pénalité égale à 5 % du montant d'aide perçu, dans la limite du montant de l'amende prévu à l'article 131-13 du code pénal pour les contraventions de 5e classe.
+
+En cas de refus de se soumettre à un contrôle administratif ou sur place effectué au titre de ce présent dispositif, le bénéficiaire doit rembourser, le cas échéant, le montant d'aide versé majoré des intérêts au taux légal en vigueur et assorti d'une pénalité égale à 5 % du montant d'aide perçu, dans la limite du montant de l'amende prévu à l'article 131-13 du code pénal pour les contraventions de 5e classe.
+
+Pour la mécanisation en zone de montagne, lorsque l'exploitant ou la CUMA n'a pas conservé son siège social en zone de montagne ou lorsque la CUMA n'a pas conservé au moins 60 % des adhérents ayant participé au projet aidé dans cette zone, le bénéficiaire doit rembourser, le cas échéant, le montant d'aide versé, majoré des intérêts au taux légal en vigueur et assorti d'une pénalité égale à 3 % du montant d'aide perçu, dans la limite du montant de l'amende prévu à l'article 131-13 du code pénal pour les contraventions de 5e classe.

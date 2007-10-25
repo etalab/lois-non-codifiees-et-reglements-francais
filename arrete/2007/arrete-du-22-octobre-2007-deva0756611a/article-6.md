@@ -1,0 +1,3 @@
+# Article 6
+
+Il est délivré, sur leur demande, une licence de contrôleur de la circulation aérienne aux personnels visés à l'article 1er qui, n'étant pas titulaire d'une autorisation d'exercer une qualification de contrôle valide, justifient avoir rendu de manière effective les services du contrôle de la circulation aérienne auprès d'un des organismes de la direction générale de l'aviation civile. La licence de contrôleur de la circulation aérienne délivrée est assortie des qualifications détenues et de la qualification de contrôle statutaire du dernier organisme dans lequel les services du contrôle de la circulation aérienne ont été rendus.

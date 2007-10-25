@@ -1,0 +1,3 @@
+# Article 14
+
+Le directeur des libertés publiques et des affaires juridiques au ministère de l'intérieur, de l'outre-mer et des collectivités territoriales, le directeur des affaires économiques et financières au ministère des affaires étrangères et européennes, le directeur général des entreprises au ministère de l'économie, des finances et de l'emploi, l'inspecteur de l'armement pour les poudres et explosifs au ministère de la défense et le directeur général des douanes et droits indirects au ministère du budget, des comptes publics et de la fonction publique sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.

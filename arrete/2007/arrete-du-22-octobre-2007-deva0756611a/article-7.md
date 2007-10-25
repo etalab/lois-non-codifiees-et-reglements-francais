@@ -1,0 +1,3 @@
+# Article 7
+
+Pour l'application des articles 1er à 6 ci-dessus et jusqu'au 16 mai 2008, les titulaires d'un certificat d'aptitude médicale délivré dans les conditions et pour la périodicité prévues par l'arrêté du 24 avril 2002, relatif aux conditions médicales particulières requises des ingénieurs du contrôle de la navigation aérienne et aux modalités de leur contrôle, ou par l'arrêté du 7 mars 2003, définissant les conditions médicales particulières requises des techniciens des études et de l'exploitation assurant les fonctions de contrôle de la circulation aérienne sur les aérodromes ainsi que leurs modalités de contrôle, sont réputés satisfaire à l'obligation de détenir une attestation d'aptitude médicale prévue par l'arrêté du 22 octobre 2007 susvisé.

@@ -25,3 +25,5 @@ La liste des diplômes admis en équivalence de la maîtrise de sciences biologi
 - certificat d'études supérieures de chirurgie dentaire du groupe B ;
 
 - attestation d'études approfondies en chirurgie dentaire.
+
+- attestation d'obtention des soixante premiers crédits européens acquis après la licence, accordée par le président de l'université, sur proposition du directeur de l'unité de formation et de recherche d'odontologie, après avis du conseil de cette dernière.
