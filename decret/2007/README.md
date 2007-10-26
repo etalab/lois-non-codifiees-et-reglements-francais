@@ -884,6 +884,7 @@
 - [Décret n° 2007-370 du 20 mars 2007 (INTB0700055D)](decret-n-2007-370-du-20-mars-2007-intb0700055d)
 - [Décret n° 2007-377 du 20 mars 2007 (INDI0750082D)](decret-n-2007-377-du-20-mars-2007-indi0750082d)
 - [Décret n° 2007-390 du 20 mars 2007 (DEVO0640062D)](decret-n-2007-390-du-20-mars-2007-devo0640062d)
+- [Décret n°2002-1493 du 20 décembre 2002 (DEFP0202410D)](decret-n2002-1493-du-20-decembre-2002-defp0202410d)
 - [Décret n°2005-1309 du 20 octobre 2005 (JUSC0520586D)](decret-n2005-1309-du-20-octobre-2005-jusc0520586d)
 - [Décret n°2007-1041 du 20 juin 2007 (IOCA0753958D)](decret-n2007-1041-du-20-juin-2007-ioca0753958d)
 - [Décret n°2007-1042 du 20 juin 2007 (IOCA0753756D)](decret-n2007-1042-du-20-juin-2007-ioca0753756d)
