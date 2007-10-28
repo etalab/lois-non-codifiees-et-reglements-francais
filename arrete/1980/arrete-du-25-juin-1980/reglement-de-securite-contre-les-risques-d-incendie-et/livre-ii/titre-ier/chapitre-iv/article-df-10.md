@@ -2,9 +2,9 @@
 
 Vérifications techniques
 
-§ 1. Les installations de désenfumage doivent être vérifiées dans les conditions prévues aux articles GE 6 à GE 8.
+§ l. Les installations de désenfumage doivent être vérifiées dans les conditions prévues aux articles GE 6 à GE 10.
 
-§ 2. La périodicité des visites est de un an. Les vérifications concement :
+§ 2. La périodicité des vérifications est de un an. Elles concernent :
 
 - le fonctionnement des commandes manuelles et automatiques ;
 
@@ -17,3 +17,5 @@ Vérifications techniques
 - le fonctionnement des ventilateurs de désenfumage ;
 
 - les mesures de pression, de débit et de vitesse, dans le cas du désenfumage mécanique.
+
+§ 3. Lorsque existent une installation de désenfumage mécanique et un système de sécurité incendie de catégorie A ou B, les vérifications sont effectuées tous les trois ans par un organisme agréé.
