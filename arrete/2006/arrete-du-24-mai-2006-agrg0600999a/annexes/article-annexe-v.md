@@ -4,13 +4,7 @@ ORGANISMES NUISIBLES DONT L'INTRODUCTION ET LA DISSÉMINATION SONT INTERDITES
 
 Partie A
 
-Chapitre 1er
-
-Organismes nuisibles mentionnés à l'annexe I, partie A, chapitre 1er, de la directive 2000/29/CE du 8 mai 2000 dans sa rédaction issue de la directive 2005/16/CE de la Commission du 2 mars 2005.
-
-Chapitre 2
-
-Organismes nuisibles mentionnés à l'annexe I, partie A, chapitre 2, de la directive 2000/29/CE du 8 mai 2000 dans sa rédaction issue de la directive 2005/16/CE de la Commission du 2 mars 2005.
+Végétaux, produits végétaux et autres objets mentionnés à la partie A de l'annexe V de la directive 2000/29/CE du 8 mai 2000 dans sa rédaction issue de la directive 2007/41/CE de la Commission du 28 juin 2007.
 
 Partie B
 
