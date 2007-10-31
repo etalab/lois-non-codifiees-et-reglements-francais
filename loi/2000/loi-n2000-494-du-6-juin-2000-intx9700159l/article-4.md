@@ -6,7 +6,7 @@ La réclamation est adressée à un député ou à un sénateur. Celui-ci la tra
 
 La commission adresse au parlementaire auteur de la saisine un accusé de réception.
 
-Le Premier ministre, le Médiateur de la République, le président de la Haute autorité de lutte contre les disciminations et pour l'égalité et les membres du Parlement peuvent, en outre, saisir de leur propre chef la commission de faits mentionnés au premier alinéa. La commission peut également être saisie directement par le Défenseur des enfants.
+Le Premier ministre, le Médiateur de la République, le président de la Haute Autorité de lutte contre les disciminations et pour l'égalité, le Contrôleur général des lieux de privation de liberté et les membres du Parlement peuvent, en outre, saisir de leur propre chef la commission de faits mentionnés au premier alinéa. La commission peut également être saisie directement par le Défenseur des enfants.
 
 La commission ne peut être saisie par les parlementaires qui en sont membres.
 
