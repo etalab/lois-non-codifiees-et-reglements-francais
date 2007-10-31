@@ -10,6 +10,7 @@
 - [Loi n° 2007-131 du 31 janvier 2007 (ECOX0600174L)](loi-n-2007-131-du-31-janvier-2007-ecox0600174l)
 - [Loi n° 2007-148 du 2 février 2007 (FPPX0600067L)](loi-n-2007-148-du-2-fevrier-2007-fppx0600067l)
 - [Loi n° 2007-1544 du 29 octobre 2007 (ECEX0600189L)](loi-n-2007-1544-du-29-octobre-2007-ecex0600189l)
+- [Loi n° 2007-1545 du 30 octobre 2007 (JUSX0758488L)](loi-n-2007-1545-du-30-octobre-2007-jusx0758488l)
 - [Loi n° 2007-209 du 19 février 2007 (INTX0500294L)](loi-n-2007-209-du-19-fevrier-2007-intx0500294l)
 - [Loi n° 2007-210 du 19 février 2007 (ECOX0709966L)](loi-n-2007-210-du-19-fevrier-2007-ecox0709966l)
 - [Loi n° 2007-211 du 19 février 2007 (JUSX0609640L)](loi-n-2007-211-du-19-fevrier-2007-jusx0609640l)
