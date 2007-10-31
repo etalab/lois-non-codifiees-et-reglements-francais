@@ -10,7 +10,7 @@ Elle doit statuer dans un délai de quinze jours.
 
 La commission de contrôle des opérations électorales peut :
 
-Constater l'inéligibilité d'un candidat et substituer au candidat inéligible le candidat suivant de la même liste, ayant obtenu le plus de voix ;
+Constater l'inéligibilité d'un candidat et substituer au candidat inéligible le candidat suivant de la même liste ;
 
 Rectifier le nombre de voix obtenues par les listes ou les candidats ;
 

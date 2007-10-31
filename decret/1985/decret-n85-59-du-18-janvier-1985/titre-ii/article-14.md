@@ -6,4 +6,6 @@ Sont également électeurs dans ces collèges les personnes bénéficiant de la 
 
 Sont également électeurs les auditeurs, sous réserve qu'ils soient régulièrement inscrits à ce titre, qu'ils suivent les mêmes formations que les étudiants et qu'ils en fassent la demande.
 
+Les étudiants recrutés en application de l'article L. 811-2 du code de l'éducation sont électeurs dans ces collèges dans l'établissement dans lequel ils sont inscrits.
+
 Chaque usager ne peut être électeur que dans une unité de formation et de recherche, sauf s'il est inscrit dans une unité, un institut ou une école figurant sur une liste établie par décret lui permettant de voter dans une autre unité.

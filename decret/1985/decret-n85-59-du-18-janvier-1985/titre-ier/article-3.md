@@ -14,7 +14,9 @@ Ce collège comprend les catégories suivantes :
 
 3° Personnels d'autres corps de l'enseignement supérieur, assimilés aux professeurs par les arrêtés prévus à l'article 6 du décret n° 92-70 du 16 janvier 1992 modifié relatif au Conseil national des universités ou à l'article 5 du décret n° 87-31 du 20 janvier 1987 modifié relatif au Conseil national des universités pour les disciplines médicales et odontologiques ainsi que les enseignants associés ou invités de même niveau régis par le décret n° 91-267 du 6 mars 1991 modifié relatif aux enseignants associés ou invités dans certains établissements d'enseignement supérieur relevant du ministre chargé de l'enseignement supérieur ;
 
-4° Chercheurs du niveau des directeurs de recherche des établissements publics scientifiques et technologiques ou de tout autre établissement public ou reconnu d'utilité publique de recherche, et chercheurs remplissant des fonctions analogues.
+4° Chercheurs du niveau des directeurs de recherche des établissements publics scientifiques et technologiques ou de tout autre établissement public ou reconnu d'utilité publique de recherche, et chercheurs remplissant des fonctions analogues ;
+
+5° Les agents contractuels recrutés en application de l'article L. 954-3 du code de l'éducation pour assurer des fonctions d'enseignement, de recherche ou d'enseignement et de recherche du niveau des personnels mentionnés aux 1°, 2°, 3° et 4° ci-dessus.
 
 Les chercheurs mentionnés au 4° ci-dessus peuvent constituer un collège séparé dès lors que les électeurs de cette catégorie représentent au moins 10 % de l'effectif des personnels relevant du collège A.
 
@@ -28,7 +30,9 @@ Collège B des autres enseignants-chercheurs, des enseignants et personnels assi
 
 4° Les chercheurs des établissements publics scientifiques et technologiques ou de tout autre établissement public, ou reconnu d'utilité publique de recherche ;
 
-5° Les personnels scientifiques des bibliothèques.
+5° Les personnels scientifiques des bibliothèques ;
+
+6° Les agents contractuels recrutés en application de l'article L. 954-3 du code de l'éducation pour assurer des fonctions d'enseignement, de recherche ou d'enseignement et de recherche qui n'appartiennent pas au collège A.
 
 Des collèges séparés peuvent être constitués pour les chargés d'enseignement mentionnés au 2° ci-dessus, pour les chercheurs mentionnés au 4° ci-dessus ou pour les personnels scientifiques des bibliothèques mentionnés au 5° ci-dessus, lorsque les électeurs de l'une de ces trois catégories représentent au moins 10 % de l'effectif des personnels relevant du collège B.
 
