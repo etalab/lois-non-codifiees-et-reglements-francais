@@ -1,0 +1,3 @@
+# Article 1
+
+Sont dispensés, à leur demande, de l'épreuve obligatoire de langue vivante 2, étrangère ou régionale, en séries économique et sociale, littéraire, scientifique, sciences et technologies de la gestion, ou de l'épreuve obligatoire de latin en série littéraire, les candidats qui se présentent à l'examen du baccalauréat après avoir changé de série à l'issue de la classe de première ou après un échec à l'examen dans une autre série et qui peuvent justifier qu'ils ont suivi l'enseignement d'une seule langue vivante en classe de première ou en classe terminale. Les candidats bénéficiant de cette dispense ne sont pas autorisés à choisir une langue vivante en épreuve facultative.

@@ -1,0 +1,3 @@
+# Article 315-9
+
+Le prestataire de services d'investissement publie trimestriellement la part que représentent les recommandations diffusées d'" acheter, de " conserver, de " vendre ou les recommandations formulées en des termes équivalents dans l'ensemble des recommandations du prestataire de services d'investissement ainsi que la proportion des recommandations diffusées de même type portant sur les seuls émetteurs auxquels il a fourni des services d'investissement mentionnés aux 3,6-1 et 6-2 de l'article L. 321-1 du code monétaire et financier ou des services connexes mentionnés aux 3 et 5 de l'article L. 321-2 dudit code importants au cours des douze derniers mois.

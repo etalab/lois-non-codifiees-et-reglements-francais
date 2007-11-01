@@ -2,3 +2,4 @@
 
 - [Article 522-3](article-522-3.md)
 - [Article 522-6](article-522-6.md)
+- [Article 522-7](article-522-7.md)

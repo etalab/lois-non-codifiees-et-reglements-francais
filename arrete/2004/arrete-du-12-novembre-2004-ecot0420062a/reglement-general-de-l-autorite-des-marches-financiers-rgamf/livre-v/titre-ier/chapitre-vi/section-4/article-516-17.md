@@ -1,0 +1,3 @@
+# Article 516-17
+
+Sans préjudice des dispositions réglementaires particulières, lorsque des ventes obligatoires portant sur des instruments financiers mentionnés aux 1° à 3° du I de l'article L. 211-1 du code monétaire et financier ainsi que sur des instruments financiers équivalents émis sur le fondement de droits étrangers sont effectuées par l'intermédiaire d'un prestataire de services d'investissement, ce dernier publie, quinze jours au moins avant la vente, dans un journal d'annonces légales, un avis précisant la date de la vente, la nature et le nombre d'instruments financiers mis en vente, le prix de vente, ainsi que les modalités de la vente.

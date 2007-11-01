@@ -1,0 +1,3 @@
+# Article 315-5
+
+La recommandation d'investissement diffusée présente les relations et circonstances concernant l'analyste ou le prestataire de services d'investissement, dont on peut raisonnablement penser qu'elles sont de nature à porter atteinte à l'objectivité de la recommandation, en particulier lorsque le prestataire ou l'analyste ou toute personne qui a participé à l'élaboration de la recommandation a un intérêt financier significatif portant sur un ou plusieurs instruments financiers faisant l'objet de la recommandation ou un conflit d'intérêts significatif avec un émetteur auquel se rapporte la recommandation.

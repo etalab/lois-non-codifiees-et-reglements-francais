@@ -1,6 +1,7 @@
 # Chapitre Ier : Reconnaissance des marchés réglementés
 
 - [Section 1 : Modalités de reconnaissance des marchés réglementés](section-1)
+- [Section 2 : Modification des conditions de reconnaissance des marchés réglementés](section-2)
 - [Article 511-1](article-511-1.md)
 - [Article 511-2](article-511-2.md)
 - [Article 511-3](article-511-3.md)
