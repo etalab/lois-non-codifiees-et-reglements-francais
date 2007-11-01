@@ -1,3 +1,0 @@
-# Paragraphe 3 : Opérations portant sur des instruments financiers comportant un élément constitué de titres de créance
-
-- [Article 212-35](article-212-35.md)
