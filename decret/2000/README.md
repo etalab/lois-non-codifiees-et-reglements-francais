@@ -11,7 +11,6 @@
 - [Décret du 2 juin 2000 (AGRP0000284D)](decret-du-2-juin-2000-agrp0000284d)
 - [Décret n°85-1060 du 2 octobre 1985](decret-n85-1060-du-2-octobre-1985)
 - [Décret n°2001-401 du 2 mai 2001 (RECF0100080D)](decret-n2001-401-du-2-mai-2001-recf0100080d)
-- [Décret n°2000-613 du 3 juillet 2000 (EQUU0000780D)](decret-n2000-613-du-3-juillet-2000-equu0000780d)
 - [Décret n°2002-828 du 3 mai 2002 (MENF0200402D)](decret-n2002-828-du-3-mai-2002-menf0200402d)
 - [Décret n°2000-1178 du 4 décembre 2000 (DEFD0002365D)](decret-n2000-1178-du-4-decembre-2000-defd0002365d)
 - [Décret n°2000-1180 du 4 décembre 2000 (DEFD0002362D)](decret-n2000-1180-du-4-decembre-2000-defd0002362d)
