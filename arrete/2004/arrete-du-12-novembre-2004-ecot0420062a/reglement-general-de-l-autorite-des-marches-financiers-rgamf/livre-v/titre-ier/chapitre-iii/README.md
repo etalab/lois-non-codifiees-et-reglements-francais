@@ -1,4 +1,4 @@
-# Chapitre III : Délivrance d'une carte professionnelle à certains collaborateurs de l'entreprise de marché et conditions d'exercice de leurs fonctions
+# Chapitre III : Les membres des marchés réglementés
 
 - [Article 513-1](article-513-1.md)
 - [Article 513-2](article-513-2.md)

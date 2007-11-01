@@ -1,3 +1,3 @@
 # Article 312-4
 
-Exerce une activité de négociation pour compte propre tout prestataire habilité qui achète ou vend des instruments financiers pour son propre compte. Cette activité ne constitue un service d'investissement que lorsqu'elle est exercée en dehors des opérations de trésorerie ou de prise de participation du prestataire.
+Les placements réalisés pour les besoins de la gestion des fonds propres ne doivent pas être de nature à mettre en cause le respect des dispositions relatives aux fonds propres minimum définies à l'article 312-3. Pour la part relevant des fonds propres minimum, ces placements doivent être prudents et ne peuvent comporter des positions spéculatives dans des conditions précisées dans une instruction de l'AMF.

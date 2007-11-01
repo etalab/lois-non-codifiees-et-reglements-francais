@@ -1,9 +1,9 @@
 # Article 312-1
 
-Exerce l'activité de réception et transmission d'ordres pour compte de tiers tout prestataire de services d'investissement qui, pour le compte d'un donneur d'ordres, transmet à un prestataire habilité, en vue de leur exécution, des ordres portant sur la négociation d'instruments financiers.
+L'AMF requiert l'avis des autorités compétentes d'un autre État partie à l'accord sur l'Espace économique européen lorsque la société de gestion de portefeuille qui répond aux exigences de la directive 85/611/CEE du 20 décembre 1985 est :
 
-Par dérogation aux dispositions ci-dessus :
+1° La filiale d'une société de gestion de portefeuille répondant aux exigences de la directive 85/611/CEE du 20 décembre 1985 agréée dans un autre État partie à l'accord sur l'Espace économique européen ;
 
-1° Lorsqu'un prestataire de services d'investissement confie à un mandataire agissant à titre exclusif au nom et sous la responsabilité de ce prestataire, le soin de recevoir pour lui transmettre les ordres émis par les clients du prestataire, l'activité du mandataire s'exerce dans le cadre du service d'investissement exercé par ledit prestataire ;
+2° La filiale de l'entreprise mère d'une autre société de gestion de portefeuille répondant aux exigences de la directive 85/611/CEE du 20 décembre 1985 dans un autre État partie à l'accord sur l'Espace économique européen ;
 
-2° Une société ayant la qualité d'émetteur peut effectuer pour le compte de ses actionnaires une activité de transmission d'ordres, dans la mesure où les titres desdits actionnaires sont inscrits sous la forme nominative dans ses livres.
+3° Contrôlée par les mêmes personnes physiques ou morales qu'une autre société de gestion de portefeuille répondant aux exigences de la directive 85/611/CEE du 20 décembre 1985 agréée dans un autre Etat partie à l'accord sur l'Espace économique européen.

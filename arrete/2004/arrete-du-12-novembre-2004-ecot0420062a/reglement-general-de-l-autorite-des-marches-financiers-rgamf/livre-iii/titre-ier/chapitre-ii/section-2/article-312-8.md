@@ -1,3 +1,5 @@
 # Article 312-8
 
-Exerce une activité de compensation d'instruments financiers tout organisme mentionné à l'article L. 442-2 du code monétaire et financier qui, en qualité d'adhérent d'une chambre de compensation, tient et dénoue les positions enregistrées par ladite chambre.
+La société de gestion de portefeuille dispose d'un programme d'activité conforme aux dispositions du chapitre III, à l'exception de celles prévues à la sous-section 5 de la section 1 dudit chapitre qui ne lui sont pas applicables.
+
+Dès lors qu'elle gère au moins un OPCVM conforme à la directive 85/611/ CEE du 20 décembre 1985, la société de gestion de portefeuille ne peut exercer d'autres services d'investissement que le service de gestion de portefeuille mentionné au 4° de l'article L. 321-1 du code monétaire et financier et le service de conseil en investissement mentionné au 5° de l'article L. 321-1 du même code.

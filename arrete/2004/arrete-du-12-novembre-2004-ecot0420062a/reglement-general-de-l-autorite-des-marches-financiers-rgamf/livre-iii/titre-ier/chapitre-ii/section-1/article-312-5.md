@@ -1,7 +1,5 @@
 # Article 312-5
 
-Exerce une activité de placement tout prestataire de services d'investissement qui recherche des souscripteurs ou des acquéreurs pour le compte d'un émetteur ou d'un cédant d'instruments financiers.
+La société de gestion de portefeuille fournit l'identité de ses actionnaires directs ou indirects ainsi que le montant de leur participation. L'AMF apprécie la qualité de l'actionnariat au regard de la nécessité de garantir une gestion saine et prudente et du bon exercice de sa propre mission de surveillance. Elle procède au même examen s'agissant des associés et des membres d'un groupement d'intérêt économique.
 
-Exerce une activité de placement garanti tout prestataire de services d'investissement qui recherche des souscripteurs ou des acquéreurs pour le compte d'un émetteur ou d'un cédant et garantit à ce dernier un montant minimal de souscriptions ou d'achats en s'engageant à souscrire ou acquérir lui-même les instruments financiers non placés.
-
-Exerce une activité de prise ferme tout prestataire de services d'investissement qui souscrit ou acquiert directement auprès de l'émetteur ou du cédant des instruments financiers, en vue de procéder à leur placement auprès de clients.
+Une instruction de l'AMF précise les liens de capital ou de contrôle direct ou indirect entre la société de gestion de portefeuille et d'autres personnes physiques ou morales susceptibles d'entraver la mission de surveillance de l'AMF.

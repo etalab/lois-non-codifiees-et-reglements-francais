@@ -1,13 +1,9 @@
-# TITRE Ier : Marchés réglementés
+# TITRE Ier : Marchés réglementés et entreprises de marché
 
-- [Chapitre Ier : Approbation et publication des règles des marchés réglementés](chapitre-ier)
-- [Chapitre II :  Règles de déontologie applicables 
-à l'entreprise de marché et à ses collaborateurs](chapitre-ii)
-- [Chapitre III : Délivrance d'une carte professionnelle à certains collaborateurs de l'entreprise de marché et conditions d'exercice de leurs fonctions](chapitre-iii)
-- [Chapitre IV : Les membres des marchés réglementés](chapitre-iv)
-- [Chapitre V : Les transactions sur les marchés réglementés](chapitre-v)
-- [Chapitre VI : La centralisation des ordres
-sur les marchés réglementés](chapitre-vi)
-- [Chapitre VII : Dispositions particulières aux marchés réglementés d'instruments financiers mentionnés aux 1°, 2° et 3° du I de l'article L. 211-1 du code monétaire et financier et des instruments financiers équivalents émis sur le fondement de droits étrangers](chapitre-vii)
-- [Chapitre VIII : Dispositions particulières aux marchés réglementés d'instruments financiers à terme](chapitre-viii)
-- [Chapitre IX : Autres dispositions](chapitre-ix)
+- [Chapitre Ier : Reconnaissance des marchés réglementés](chapitre-ier)
+- [Chapitre II :  Règles d'organisation applicables
+aux entreprises de marché et règles de déontologie](chapitre-ii)
+- [Chapitre III : Les membres des marchés réglementés](chapitre-iii)
+- [Chapitre IV : Principes de négociation sur les marchés réglementés et règles de transparence](chapitre-iv)
+- [Chapitre V : Admission des instruments financiers aux négociations sur un marché réglementé](chapitre-v)
+- [Chapitre VI : Dispositions particulières applicables à certains marchés](chapitre-vi)

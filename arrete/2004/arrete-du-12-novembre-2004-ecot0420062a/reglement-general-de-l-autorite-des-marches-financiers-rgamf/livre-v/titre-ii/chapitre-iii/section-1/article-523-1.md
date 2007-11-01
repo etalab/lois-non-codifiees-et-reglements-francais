@@ -1,9 +1,11 @@
 # Article 523-1
 
-Les prestataires de services d'investissement et les entreprises de marché gestionnaires de systèmes multilatéraux de négociation veillent au respect des règles du système par les participants. Ils mettent en place à cet effet des moyens et des procédures appropriés.
+Le gestionnaire du système désigne le ou les responsables des fonctions suivantes :
 
-Ils concluent avec chacun des participants une convention d'admission prévoyant notamment :
+1° La surveillance des négociations ;
 
-1° L'obligation pour le participant de respecter en permanence les règles du système et leurs dispositions d'application, de répondre à toute demande d'information du gestionnaire, de se soumettre aux contrôles sur place diligentés par ce dernier et de régulariser sa situation à la demande du gestionnaire ;
+2° Le contrôle des membres du système.
 
-2° L'engagement du gestionnaire de prendre, en cas de mauvaise exécution ou d'inexécution de la convention d'admission ou d'adhésion, des mesures qui peuvent aller jusqu'à la suspension du participant ou la résiliation de la convention.
+Lorsque le prestataire de services d'investissement n'a pas pour activité exclusive la gestion d'un système multilatéral de négociation, il désigne, pour exercer les fonctions mentionnées au 1° et au 2°, une personne autre que le responsable de la conformité.
+
+L'entreprise de marché qui gère un système multilatéral de négociation peut désigner la ou les personnes mentionnées à l'article 512-9 pour exercer ces fonctions au titre de la gestion d'un système multilatéral de négociation.

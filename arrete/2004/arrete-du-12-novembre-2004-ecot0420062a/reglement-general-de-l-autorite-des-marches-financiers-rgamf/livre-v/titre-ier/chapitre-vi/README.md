@@ -1,6 +1,6 @@
-# Chapitre VI : La centralisation des ordres
-sur les marchés réglementés
+# Chapitre VI : Dispositions particulières applicables à certains marchés
 
+- [Section 1 : Ordres avec service de règlement et de livraison différés](section-1)
 - [Article 516-1](article-516-1.md)
 - [Article 516-2](article-516-2.md)
 - [Article 516-3](article-516-3.md)

@@ -1,5 +1,6 @@
-# Chapitre Ier : Approbation et publication des règles des marchés réglementés
+# Chapitre Ier : Reconnaissance des marchés réglementés
 
+- [Section 1 : Modalités de reconnaissance des marchés réglementés](section-1)
 - [Article 511-1](article-511-1.md)
 - [Article 511-2](article-511-2.md)
 - [Article 511-3](article-511-3.md)

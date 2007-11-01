@@ -1,3 +1,3 @@
 # Article 513-6
 
-L'entreprise de marché qui, dans le cadre de son devoir de contrôle défini au présent titre, constate qu'un de ses membres ne respecte pas les règles établies par l'AMF, en informe cette dernière.
+Les membres du marché réglementé appliquent les obligations prévues aux dispositions de la section 6 du chapitre IV du titre Ier du livre III lorsque, en agissant pour le compte de leurs clients, ils exécutent leurs ordres sur un marché réglementé.

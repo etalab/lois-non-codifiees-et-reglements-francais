@@ -1,5 +1,5 @@
 # Article 513-2
 
-Les responsables mentionnés à l'article 513-1 doivent disposer de l'autonomie de décision appropriée ainsi que des moyens humains et techniques nécessaires à l'exercice de leurs fonctions.
+L'entreprise de marché s'assure que le membre de marché dispose de l'agrément correspondant aux services d'investissement qu'il entend exercer, le cas échéant, sur le marché réglementé.
 
-Ces moyens sont adaptés à l'importance du ou des marchés gérés par l'entreprise de marché.
+Lorsque les règles du marché prévoient plusieurs catégories de membres du marché, elles précisent les conditions d'admission applicables à chacune de ces catégories.

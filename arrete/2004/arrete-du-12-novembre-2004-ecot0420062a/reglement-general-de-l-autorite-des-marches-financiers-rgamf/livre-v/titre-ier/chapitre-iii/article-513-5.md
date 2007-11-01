@@ -1,13 +1,13 @@
 # Article 513-5
 
-Les responsables mentionnés à l'article 513-1 élaborent chaque année un rapport sur les conditions dans lesquelles ils ont exercé leurs fonctions. Ce rapport est transmis à l'organe exécutif de l'entreprise de marché, ainsi qu'à l'AMF, au plus tard quatre mois après la clôture de l'exercice.
+L'entreprise de marché veille au respect des règles du marché par les membres de celui-ci.
 
-Ce rapport d'activité comporte :
+Elle conclut une convention d'admission avec chacun des membres du marché. Aux termes de cette convention, les membres s'engagent notamment à :
 
-1° La description de l'organisation de la surveillance ou du contrôle ;
+1° Respecter en permanence les règles du marché ;
 
-2° Le recensement des tâches accomplies dans l'exercice de la mission ;
+2° Répondre à toute demande d'information de l'entreprise de marché ;
 
-3° Les observations que le responsable a été conduit à formuler ;
+3° Se soumettre aux contrôles sur place diligentés par l'entreprise de marché ;
 
-4° Les mesures adoptées à la suite de ces observations.
+4° Régulariser leur situation à la demande de l'entreprise de marché, si celle-ci constate qu'ils ne respectent plus les conditions d'admission.

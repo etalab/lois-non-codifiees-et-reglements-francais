@@ -1,7 +1,3 @@
 # Article 515-2
 
-Les règles du marché peuvent prévoir les conditions dans lesquelles certaines transactions, qui ne sont pas conclues dans le cadre du mécanisme de confrontation directe ou indirecte des ordres, sont néanmoins effectuées sur le marché réglementé.
-
-Lorsque les règles du marché prévoient la possibilité mentionnée au premier alinéa, elles déterminent les limites dans lesquelles il peut être dérogé au mécanisme de confrontation directe ou indirecte des ordres, notamment en matière de prix.
-
-Les règles du marché précisent également que les membres du marché rendent compte immédiatement à l'entreprise de marché des transactions mentionnées au premier alinéa, en indiquant notamment, pour chaque transaction, le prix et la quantité négociés.
+L'entreprise de marché se dote de procédures efficaces afin de vérifier que les émetteurs des instruments financiers mentionnés aux 1° à 3° du I de l'article L. 211-1 du code monétaire et financier et de tout instrument équivalent émis sur le fondement de droits étrangers admis aux négociations sur un marché réglementé qu'elle gère se conforment aux dispositions du titre II du livre II qui leurs sont applicables.
