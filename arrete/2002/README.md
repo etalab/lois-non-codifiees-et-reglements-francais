@@ -561,7 +561,6 @@
 - [Arrêté du 20 mars 2002 (JUSG0260031A)](arrete-du-20-mars-2002-jusg0260031a)
 - [Arrêté du 20 novembre 2001 (AGRG0102262A)](arrete-du-20-novembre-2001-agrg0102262a)
 - [Arrêté du 20 novembre 2002 (EQUH0201599A)](arrete-du-20-novembre-2002-equh0201599a)
-- [Arrêté du 20 novembre 2002 (SANH0223775A)](arrete-du-20-novembre-2002-sanh0223775a)
 - [Arrêté du 20 septembre 2001 (ECOO0191153A)](arrete-du-20-septembre-2001-ecoo0191153a)
 - [Arrêté du 20 septembre 2002 (DEVP0210351A)](arrete-du-20-septembre-2002-devp0210351a)
 - [Arrêté du 20 septembre 2002 (DEVP0210352A)](arrete-du-20-septembre-2002-devp0210352a)
