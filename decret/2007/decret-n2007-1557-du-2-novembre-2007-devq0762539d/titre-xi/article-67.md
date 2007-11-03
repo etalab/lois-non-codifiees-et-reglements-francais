@@ -1,0 +1,3 @@
+# Article 67
+
+Les installations nucléaires de base qui ont été déclarées en application de l'article 14 du décret du 11 décembre 1963 sans avoir depuis lors fait l'objet d'un décret d'autorisation de création ou de mise à l'arrêt définitif sur le fondement du même décret, sont enregistrées selon les modalités prévues au I et au II de l'article 47 du présent décret sans production de la déclaration prévue à l'article 46. L'enregistrement intervient au plus tard à l'issue du premier réexamen de sûreté effectué sur l'installation. L'Autorité de sûreté nucléaire peut demander à l'exploitant de lui communiquer toute information nécessaire à cet enregistrement. Les dispositions de l'article 48 ne sont pas applicables à cet enregistrement.

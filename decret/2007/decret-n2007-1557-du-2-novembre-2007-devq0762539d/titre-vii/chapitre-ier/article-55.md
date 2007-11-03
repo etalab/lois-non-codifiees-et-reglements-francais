@@ -1,0 +1,5 @@
+# Article 55
+
+En cas de défaillance d'un exploitant d'une installation nucléaire de base, les ministres chargés de la sûreté nucléaire ou l'Autorité de sûreté nucléaire, dans l'exercice de leurs compétences respectives, communiquent au propriétaire du terrain les mesures qu'ils envisagent de prendre à son encontre en application de l'article 44 de la loi du 13 juin 2006. La lettre de communication vise l'attestation établie par l'intéressé en application des articles 8, 28, 37, 40 ou 43 ou, à défaut, mentionne tous éléments de nature à justifier que le propriétaire a été dûment informé des obligations pouvant être mises à sa charge à raison de l'installation implantée sur son terrain. Le propriétaire dispose de deux mois pour présenter ses observations.
+
+Les mesures sont prises selon les modalités prévues pour l'application du V, du IX ou du X de l'article 29 ou des articles 33, 34, 41 ou 42 de la loi du 13 juin 2006, le propriétaire étant substitué à l'exploitant lors de la mise en oeuvre des procédures applicables.

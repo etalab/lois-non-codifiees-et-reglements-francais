@@ -2,20 +2,18 @@
 
 Le conseil d'administration de l'établissement public Antoine-Koenigswarter comprend dix-huit membres, nommés par arrêté du ministre chargé de l'action sociale :
 
-1 - Un représentant de l'Etat, président ;
+1° Une personnalité qualifiée désignée par le ministre chargé de l'action sociale ;
 
-2 - Trois personnalités qualifiées désignées par le préfet de l'Essonne ;
+2° Un représentant de l'Etat désigné par le ministre chargé de l'action sociale ;
 
-3 - Trois personnalités qualifiées désignées par le préfet de l'Yonne ;
+3° Trois personnalités qualifiées désignées par le préfet de l'Essonne ;
 
-4 - Un représentant du département de l'Essonne désigné par le président de son conseil général ;
+4° Trois personnalités qualifiées désignées par le préfet de l'Yonne ;
 
-5 - Un représentant du département de l'Yonne désigné par le président de son conseil général ;
+5° Un représentant du département de l'Essonne désigné par le président du conseil général ;
 
-6 - Un membre de la famille Koenigswarter ;
+6° Un représentant du département de l'Yonne désigné par le président du conseil général ;
 
-7 - Quatre représentants des usagers dont deux au moins désignés sur proposition des associations nationales représentatives des personnes handicapées ou des parents d'enfants handicapés ;
+7° Quatre représentants des usagers, dont deux au moins désignés sur proposition des associations nationales représentatives des personnes handicapées ou des parents d'enfants handi capés ;
 
-8 - Quatre membres élus par le personnel dans les conditions fixées par l'article 4.
-
-En cas de partage égal, la voix du président est prépondérante.
+8° Quatre membres élus par le personnel dans les conditions fixées par l'article 4.
