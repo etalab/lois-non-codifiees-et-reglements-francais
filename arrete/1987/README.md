@@ -569,7 +569,6 @@
 - [Arrêté du 30 juillet 1987 (ASES8701140A)](arrete-du-30-juillet-1987-ases8701140a)
 - [Arrêté du 30 juillet 1987 (ASEX8798339A)](arrete-du-30-juillet-1987-asex8798339a)
 - [Arrêté du 30 juillet 1987 (ECOC8700050A)](arrete-du-30-juillet-1987-ecoc8700050a)
-- [Arrêté du 30 juillet 1987 (JUSF8750100A)](arrete-du-30-juillet-1987-jusf8750100a)
 - [Arrêté du 30 juillet 1987 (MEND8700367A)](arrete-du-30-juillet-1987-mend8700367a)
 - [Arrêté du 30 juillet 1987 (PTTP8700540A)](arrete-du-30-juillet-1987-pttp8700540a)
 - [Arrêté du 30 juillet 1987 (PTTP8700541A)](arrete-du-30-juillet-1987-pttp8700541a)
