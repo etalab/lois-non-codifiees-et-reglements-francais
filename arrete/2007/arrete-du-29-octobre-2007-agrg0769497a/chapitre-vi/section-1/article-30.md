@@ -1,0 +1,9 @@
+# Article 30
+
+Dérogations concernant certaines exploitations.
+
+1. Par dérogation aux points 2 et 4 de l'article 28, le directeur départemental des services vétérinaires peut décider de ne pas ordonner la mise à mort ou l'abattage des volailles et autres oiseaux captifs ainsi que la destruction des oeufs à couver lorsque l'exploitation atteinte est une exploitation non commerciale, un cirque, un parc zoologique, un magasin de vente d'oiseaux de compagnie, une réserve naturelle, un établissement détenant des oiseaux à des fins scientifiques ou pour des raisons de conservation des espèces et des races. Dans ce cas, les oiseaux de l'exploitation atteinte doivent être maintenus à l'intérieur de bâtiments fermés et soumis à une surveillance et doivent faire l'objet de tests. Une instruction du ministre chargé de l'agriculture précise les modalités d'application et de levée des mesures prescrites par le présent paragraphe.
+
+2. Par dérogation au point 2 de l'article 28 et lorsque l'exploitation atteinte comporte des unités de production distinctes, le directeur départemental des services vétérinaires peut décider de ne pas ordonner la mise à mort ou l'abattage des volailles et autres oiseaux captifs appartenant aux troupeaux non atteints. Une instruction du ministre chargé de l'agriculture précise les modalités de mise en oeuvre du présent paragraphe en fixant les mesures propres à éviter la propagation de la maladie.
+
+3. Le préfet peut accorder, par arrêté et après avoir recueilli l'avis de la direction générale de l'alimentation, des dérogations à toutes ou partie des mesures prévues aux articles 28 et 29 si l'exploitation atteinte est un couvoir. Une instruction du ministre chargé de l'agriculture précise les conditions d'application du présent article.
