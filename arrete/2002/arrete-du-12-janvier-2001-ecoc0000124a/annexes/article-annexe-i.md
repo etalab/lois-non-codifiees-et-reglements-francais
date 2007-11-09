@@ -634,7 +634,7 @@
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td rowspan="9" valign="top" width="151">
 <p>1. Aflatoxine B 1.</p>
 </td>
 <td valign="top" width="340">
@@ -645,7 +645,6 @@
 </td>
 </tr>
 <tr>
-<td valign="top" width="151"/>
 <td valign="top" width="340">
 <p>Aliments complets pour bovins, ovins et caprins, à l'exception de :</p>
 </td>
@@ -654,7 +653,6 @@
 </td>
 </tr>
 <tr>
-<td valign="top" width="151"/>
 <td valign="top" width="340">
 <p>- aliments complets pour bétail laitier</p>
 </td>
@@ -663,7 +661,6 @@
 </td>
 </tr>
 <tr>
-<td valign="top" width="151"/>
 <td valign="top" width="340">
 <p>- aliments complets pour veaux, agneaux et chevreaux</p>
 </td>
@@ -672,7 +669,6 @@
 </td>
 </tr>
 <tr>
-<td valign="top" width="151"/>
 <td valign="top" width="340">
 <p>Aliments complets pour porcs et volailles (à l'exception des jeunes animaux)</p>
 </td>
@@ -681,7 +677,6 @@
 </td>
 </tr>
 <tr>
-<td valign="top" width="151"/>
 <td valign="top" width="340">
 <p>Autres aliments complets</p>
 </td>
@@ -690,7 +685,6 @@
 </td>
 </tr>
 <tr>
-<td valign="top" width="151"/>
 <td valign="top" width="340">
 <p>Aliments complémentaires pour bovins, ovins et caprins (à l'exception des aliments complémentaires pour bétail laitier, veaux, agneaux et chevreaux)</p>
 </td>
@@ -699,7 +693,6 @@
 </td>
 </tr>
 <tr>
-<td valign="top" width="151"/>
 <td valign="top" width="340">
 <p>Aliments complémentaires pour porc et volailles (à l'exception des jeunes animaux)</p>
 </td>
@@ -708,7 +701,6 @@
 </td>
 </tr>
 <tr>
-<td valign="top" width="151"/>
 <td valign="top" width="340">
 <p>Autres aliments complémentaires</p>
 </td>
@@ -768,7 +760,7 @@
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td rowspan="7" valign="top" width="151">
 <p>3. Gossypol libre.</p>
 </td>
 <td valign="top" width="340">
@@ -779,7 +771,6 @@
 </td>
 </tr>
 <tr>
-<td valign="top" width="151"/>
 <td valign="top" width="340">
 <p>- graines de coton</p>
 </td>
@@ -788,7 +779,6 @@
 </td>
 </tr>
 <tr>
-<td valign="top" width="151"/>
 <td valign="top" width="340">
 <p>- tourteaux de graines de coton et farine de graines de coton</p>
 </td>
@@ -797,7 +787,6 @@
 </td>
 </tr>
 <tr>
-<td valign="top" width="151"/>
 <td valign="top" width="340">
 <p>Aliments complets, à l'exception de :</p>
 </td>
@@ -806,7 +795,6 @@
 </td>
 </tr>
 <tr>
-<td valign="top" width="151"/>
 <td valign="top" width="340">
 <p>- aliments complets pour bovins, ovins et caprins</p>
 </td>
@@ -815,7 +803,6 @@
 </td>
 </tr>
 <tr>
-<td valign="top" width="151"/>
 <td valign="top" width="340">
 <p>- aliments complets pour volailles (à l'exception des volailles de ponte) et aliments complets pour veaux</p>
 </td>
@@ -824,7 +811,6 @@
 </td>
 </tr>
 <tr>
-<td valign="top" width="151"/>
 <td valign="top" width="340">
 <p>- aliments complets pour lapins et porcs (à l'exception des porcelets)</p>
 </td>
@@ -987,24 +973,32 @@
 </tr>
 <tr>
 <td valign="top" width="151">
-<p>11. Aldrine. Isolément ou ensemble calculé</p>
+<p>11. Aldrine (j).</p>
 </td>
 <td valign="top" width="340">
-<p>Tous les aliments, à l'exception de:</p>
+<p>Tous les aliments, à l'exception :</p>
 </td>
 <td valign="top" width="151">
-<p align="center">0,01</p>
+<p align="center">0,01 (k)</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<p>12. Dieldrine. sous forme de dieldrine.</p>
+<td rowspan="2" valign="top" width="151">
+<p>12. Dieldrine.</p>
 </td>
 <td valign="top" width="340">
-<p>- matières grasses</p>
+<p>- des matières grasses et huiles ;</p>
 </td>
 <td valign="top" width="151">
-<p align="center">0,2</p>
+<p align="center">0,1 (k)</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>- des aliments pour poissons.</p>
+</td>
+<td valign="top" width="151">
+<p align="center">0,02 (k)</p>
 </td>
 </tr>
 <tr>
@@ -1039,7 +1033,7 @@
 <p>14. Chlordane (somme des isomères cis et trans et de l'oxychlordane, calculée sous forme de chlordane).</p>
 </td>
 <td valign="top" width="340">
-<p>Tous les aliments, à l'exception de:</p>
+<p>Tous les aliments, à l'exception :</p>
 </td>
 <td valign="top" width="151">
 <p align="center">0,02</p>
@@ -1047,7 +1041,7 @@
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>- matières grasses</p>
+<p>- des matières grasses et huiles.</p>
 </td>
 <td valign="top" width="151">
 <p align="center">0,05</p>
@@ -1058,7 +1052,7 @@
 <p>15. DDT (somme des isomères de DDT, TDE et DDE, calculée sous forme de DDT).</p>
 </td>
 <td valign="top" width="340">
-<p>Tous les aliments, à l'exception de :</p>
+<p>Tous les aliments, à l'exception :</p>
 </td>
 <td valign="top" width="151">
 <p align="center">0,05</p>
@@ -1066,18 +1060,18 @@
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>- matières grasses</p>
+<p>- des matières grasses et des huiles.</p>
 </td>
 <td valign="top" width="151">
 <p align="center">0,5</p>
 </td>
 </tr>
 <tr>
-<td rowspan="4" valign="top" width="151">
-<p>16. Endosulfan (somme des isomères alpha et bêta et du sulfate d'endosulfan, calculée sous forme d'endosulfan).</p>
+<td rowspan="5" valign="top" width="151">
+<p>16. Endosulfan (somme des isomères alpha et bêta et de l'endosulfansulfate, calculée sous forme d'endosulfan).</p>
 </td>
 <td valign="top" width="340">
-<p>Tous les aliments, à l'exception de :</p>
+<p>Tous les aliments, à l'exception :</p>
 </td>
 <td valign="top" width="151">
 <p align="center">0,1</p>
@@ -1085,7 +1079,7 @@
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>- maïs et produits dérivés de sa transformation</p>
+<p>- du maïs et des produits dérivés de sa transformation ;</p>
 </td>
 <td valign="top" width="151">
 <p align="center">0,2</p>
@@ -1093,7 +1087,7 @@
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>- graines oléagineuses et produits dérivés de leur transformation</p>
+<p>- des graines oléagineuses et des produits dérivés de leur transformation, à l'exception de l'huile végétale brute ;</p>
 </td>
 <td valign="top" width="151">
 <p align="center">0,5</p>
@@ -1101,7 +1095,15 @@
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>- aliments complets pour poisson</p>
+<p>- de l'huile végétale brute ;</p>
+</td>
+<td valign="top" width="151">
+<p align="center">1,0</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>- des aliments complets pour poissons.</p>
 </td>
 <td valign="top" width="151">
 <p align="center">0,005</p>
@@ -1112,7 +1114,7 @@
 <p>17. Endrine (somme de l'endrine et de la delta-cétoendrine, calculée sous forme d'endrine).</p>
 </td>
 <td valign="top" width="340">
-<p>Tous les aliments, à l'exception de :</p>
+<p>Tous les aliments, à l'exception :</p>
 </td>
 <td valign="top" width="151">
 <p align="center">0,01</p>
@@ -1120,7 +1122,7 @@
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>- matières grasses</p>
+<p>- des matières grasses et des huiles.</p>
 </td>
 <td valign="top" width="151">
 <p align="center">0,05</p>
@@ -1128,10 +1130,10 @@
 </tr>
 <tr>
 <td rowspan="2" valign="top" width="151">
-<p>18. Heptathlon (somme de l'heptathlon et de l'heptachloreépoxyde, calculée sous forme d'heptachlore).</p>
+<p>18. Heptachlore (somme de l'heptachlore et de l'époxyde d'heptachlore, calculée sous forme d'heptachlore).</p>
 </td>
 <td valign="top" width="340">
-<p>Tous les aliments, à l'exception de :</p>
+<p>Tous les aliments, à l'exception :</p>
 </td>
 <td valign="top" width="151">
 <p align="center">0,01</p>
@@ -1139,7 +1141,7 @@
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>- matières grasses</p>
+<p>- des matières grasses et des huiles.</p>
 </td>
 <td valign="top" width="151">
 <p align="center">0,2</p>
@@ -1150,7 +1152,7 @@
 <p>19. Hexachlorobenzène (HCB).</p>
 </td>
 <td valign="top" width="340">
-<p>Tous les aliments, à l'exception de :</p>
+<p>Tous les aliments, à l'exception :</p>
 </td>
 <td valign="top" width="151">
 <p align="center">0,01</p>
@@ -1158,7 +1160,7 @@
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>- matières grasses</p>
+<p>- des matières grasses et des huiles.</p>
 </td>
 <td valign="top" width="151">
 <p align="center">0,2</p>
@@ -1166,7 +1168,7 @@
 </tr>
 <tr>
 <td valign="top" width="151">
-<p>20. Hexachlorocyclohexane (HCH) :</p>
+<p>20. Hexachlorocyclohexane (HCH).</p>
 </td>
 <td valign="top" width="340"/>
 <td valign="top" width="151">
@@ -1178,7 +1180,7 @@
 <p>20.1. Isomères alpha.</p>
 </td>
 <td valign="top" width="340">
-<p>Tous les aliments, à l'exception de :</p>
+<p>Tous les aliments, à l'exception :</p>
 </td>
 <td valign="top" width="151">
 <p align="center">0,02</p>
@@ -1186,7 +1188,7 @@
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>- matières grasses</p>
+<p>- des matières grasses et des huiles.</p>
 </td>
 <td valign="top" width="151">
 <p align="center">0,2</p>
@@ -1197,7 +1199,7 @@
 <p>20.2. Isomères bêta.</p>
 </td>
 <td valign="top" width="340">
-<p>Aliments composés, à l'exception de :</p>
+<p>Toutes les matières premières des aliments pour animaux, à l'exception :</p>
 </td>
 <td valign="top" width="151">
 <p align="center">0,01</p>
@@ -1205,26 +1207,26 @@
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>- aliments pour bétail laitier</p>
-</td>
-<td valign="top" width="151">
-<p align="center">0,005</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="340">
-<p>Matières premières, pour aliments des animaux, à l'exception de :</p>
-</td>
-<td valign="top" width="151">
-<p align="center">0,01</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="340">
-<p>matières grasses</p>
+<p>- des matières grasses et des huiles.</p>
 </td>
 <td valign="top" width="151">
 <p align="center">0,1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>Tous les aliments composés, à l'exception :</p>
+</td>
+<td valign="top" width="151">
+<p align="center">0,01</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>- des aliments composés pour le bétail laitier.</p>
+</td>
+<td valign="top" width="151">
+<p align="center">0,005</p>
 </td>
 </tr>
 <tr>
@@ -1232,7 +1234,7 @@
 <p>20.3. Isomères gamma.</p>
 </td>
 <td valign="top" width="340">
-<p>Tous les aliments, à l'exception de :</p>
+<p>Tous les aliments, à l'exception :</p>
 </td>
 <td valign="top" width="151">
 <p align="center">0,2</p>
@@ -1240,7 +1242,7 @@
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>- matières grasses</p>
+<p>- des matières grasses et des huiles.</p>
 </td>
 <td valign="top" width="151">
 <p align="center">2,0</p>
@@ -1537,7 +1539,6 @@
 </tr>
 </tbody>
 </table>
-
 <table>
 <tbody>
 <tr>
@@ -1854,7 +1855,7 @@
 
 (d) Les teneurs maximales renvoient à une détermination analytique du cadmium, l'extraction s'effectuant dans de l'acide nitrique (5 % p/p) pendant trente minutes à la température d'ébullition. Des méthodes d'extraction équivalentes peuvent être utilisées s'il peut être démontré qu'elles ont une efficacité d'extraction égale.
 
-(e) Système de numérotation selon Parlar, avec préfixe  CHB  ou  Parlar n°
+(e) Système de numérotation selon Parlar, avec préfixe CHB ou Parlar n°
 
 - CHB 26 : 2-endo,3-exo,5-endo, 6-exo, 8,8,10,10-octochlorobornane
 
@@ -1869,3 +1870,7 @@
 (h) La teneur maximale distincte pour les dioxines (PCDD/F) reste applicable pendant une période limitée. Les produits destinés aux aliments pour animaux mentionnés au point 21 doivent satisfaire, pendant cette période, tant aux teneurs maximales fixées pour les dioxines qu'à celles établies pour la somme des dioxines et des PCB de type dioxine.
 
 (i) Le poisson frais fourni et utilisé directement sans traitement intermédiaire pour la production d'aliments pour animaux à fourrure n'est pas soumis aux teneurs maximales, tandis que le poisson frais utilisé pour l'alimentation directe des animaux familiers et des animaux de zoo et de cirque est soumis à des teneurs maximales de 4,0 ng OMS-PCDD/F-TEQ/kg et de 8,0 ng OMS-PCDD/F-PCB-TEQ/kg. Les produits et protéines animales transformées issus de ces animaux (animaux à fourrure, animaux familiers, animaux de zoo et de cirque) ne peuvent entrer dans la chaîne alimentaire, et leur utilisation est interdite dans l'alimentation des animaux d'élevage gardés, engraissés ou élevés pour la production de denrées alimentaires.
+
+(j) Isolément ou ensemble, exprimée en dieldrine.
+
+(k) Teneur maximale pour l'aldrine et la dieldrine, prises isolément ou ensemble, exprimée en dieldrine.
