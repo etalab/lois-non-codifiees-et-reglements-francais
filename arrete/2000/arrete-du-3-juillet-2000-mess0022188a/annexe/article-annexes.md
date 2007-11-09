@@ -1002,6 +1002,8 @@ Alpha Isolation, ZI Les Estroublans, 1, rue No-5, 13127 Vitrolles : depuis 1976.
 
 Atofina, site de Fos, Carrefour du Caban, RN 568, BP 111, 13773 Fos-sur-Mer : de 1975 à 2001 ;
 
+ATOFINA, établissement de Port-de-Bouc, carrefour du Caban, RN 268, BP 111, 13773 Fos-sur-Mer : de 1940 à 1995 ;
+
 Babcock Sacom, 775, rue André-Ampère, 13852 Aix-en-Provence : de 1929 à 1996 ;
 
 BP Chemicals, BP 6, 13117 Lavera, de 1970 à 1977 ;
