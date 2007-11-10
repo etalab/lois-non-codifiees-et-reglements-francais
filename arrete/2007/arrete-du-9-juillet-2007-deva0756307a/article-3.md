@@ -10,6 +10,8 @@ Egypte :
 
 Paris-Louqsor.
 
+Paris-Hourghada.
+
 Maroc :
 
 Paris-Agadir ;
