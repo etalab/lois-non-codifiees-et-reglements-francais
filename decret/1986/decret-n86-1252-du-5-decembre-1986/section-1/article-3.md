@@ -8,4 +8,4 @@ Il mentionne les projets d'équipement et d'aménagement liés à la mer tels qu
 
 Il précise les mesures de protection du milieu marin. Il peut prescrire des sujétions particulières portant sur des espaces maritime, fluvial et terrestre attenant, si elles sont nécessaires à la préservation du milieu marin et littoral et particulièrement au maintien des équilibres biologiques.
 
-Il indique les conditions dans lesquelles le schéma en projet respecte les prescriptions édictées en application de l'article L. 111-1-1 du code de l'urbanisme.
+Il précise les modalités de suivi et d'évaluation dont fait l'objet le schéma une fois approuvé.

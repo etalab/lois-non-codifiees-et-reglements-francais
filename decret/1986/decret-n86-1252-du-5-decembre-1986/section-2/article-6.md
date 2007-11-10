@@ -1,7 +1,7 @@
 # Article 6
 
-Un arrêté du préfet, préfet, pris avec l'accord du préfet maritime, détermine la liste des communes intéressées par l'élaboration d'un schéma *autorité compétente*.
+Un arrêté du préfet, pris après accord du préfet maritime, détermine la liste des communes incluses dans le périmètre du schéma.
 
-Cet arrêté est précédé de la consultation des conseils municipaux de ces communes ainsi que des communes limitrophes, des conseils généraux et régionaux concernés.
+Cet arrêté est précédé de la consultation des conseils municipaux de ces communes et, le cas échéant, des organes délibérants des groupements de communes compétents en matière de schéma de cohérence territoriale ou de plan local d'urbanisme situés dans le même périmètre, des conseils municipaux des communes limitrophes, des conseils généraux et des conseils régionaux concernés.
 
-Un avis *tacite* est réputé favorable passé un délai de deux mois à compter de la réception de la demande par le conseil intéressé.
+L'avis est réputé favorable passé un délai de deux mois à compter de la réception de la demande par l'organe délibérant compétent.

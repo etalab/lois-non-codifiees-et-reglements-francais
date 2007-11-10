@@ -1,3 +1,3 @@
 # Article 9
 
-L'élaboration et l'instruction du projet de schéma sont conduites, sous l'autorité du préfet, préfet compétent, [*autorité*] par le responsable d'un service d'Etat qu'il désigne à cet effet. Le préfet maritime est tenu informé de l'exécution de cette mission.
+Le schéma de mise en valeur de la mer fait l'objet de l'évaluation environnementale prescrite par les articles L. 122-4 à L. 122-11 et R. 122-17 à R. 122-24 du code de l'environnement.

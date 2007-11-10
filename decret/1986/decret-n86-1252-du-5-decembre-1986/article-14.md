@@ -1,3 +1,3 @@
 # Article 14
 
-Le ministre de la défense, le ministre de l'intérieur, le ministre de l'équipement, du logement, de l'aménagement du territoire et des transports, le ministre délégué auprès du ministre de l'intérieur, chargé des collectivités locales, et le secrétaire d'Etat à la mer sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.
+Les schémas de mise en valeur de la mer sont mis en révision par arrêté du préfet publié au recueil des actes administratifs de la préfecture de chacun des départements concernés, notifié aux maires des communes concernées, et, le cas échéant, aux présidents des groupements de communes compétents en matière de schéma de cohérence territoriale ou de plan local d'urbanisme, et mentionné dans un journal régional ou local diffusé dans ces départements. La révision s'effectue dans les conditions prévues par les articles 9 à 13 du présent décret.
