@@ -607,6 +607,7 @@
 - [Décret n°2007-1355 du 13 septembre 2007 (MCCB0756711D)](decret-n2007-1355-du-13-septembre-2007-mccb0756711d)
 - [Décret n°2007-1356 du 13 septembre 2007 (BCFL0759413D)](decret-n2007-1356-du-13-septembre-2007-bcfl0759413d)
 - [Décret n°2007-1607 du 13 novembre 2007 (MEND0761846D)](decret-n2007-1607-du-13-novembre-2007-mend0761846d)
+- [Décret n°2007-1608 du 13 novembre 2007 (SJSH0768733D)](decret-n2007-1608-du-13-novembre-2007-sjsh0768733d)
 - [Décret n°2007-343 du 13 mars 2007 (BUDB0660012D)](decret-n2007-343-du-13-mars-2007-budb0660012d)
 - [Décret n°2007-550 du 13 avril 2007 (SANS0721467D)](decret-n2007-550-du-13-avril-2007-sans0721467d)
 - [Décret n°2007-551 du 13 avril 2007 (SANS0721551D)](decret-n2007-551-du-13-avril-2007-sans0721551d)

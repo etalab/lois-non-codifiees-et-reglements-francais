@@ -22,7 +22,7 @@ Le directeur général du centre national de gestion assure, au nom du ministre 
 
 10° La publicité des déclarations de vacance des postes ;
 
-11° L'organisation des concours des personnels de direction, des attachés d'administration hospitalière, des directeurs des soins, des concours de l'internat, ainsi que de ceux concernant les épreuves classantes nationales, les procédures d'autorisation d'exercice des professions de médecin, chirurgien-dentiste, sage-femme et pharmacien dans le respect des règles prévues par les articles L. 4111-2 du code de la santé publique, à l'exclusion de tout acte relatif à la détermination des programmes, aux conditions d'admission à concourir, au nombre de places offertes aux concours et à l'ouverture de ceux-ci ;
+11° L'organisation des concours des personnels de direction, de praticiens des établissements publics de santé, des attachés d'administration hospitalière, des directeurs des soins, des concours de l'internat, ainsi que de ceux concernant les épreuves classantes nationales, les procédures d'autorisation d'exercice des professions de médecin, chirurgien-dentiste, sage-femme et pharmacien dans le respect des règles prévues par les articles L. 4111-2 et L. 4221-12 du code de la santé publique, à l'exclusion de tout acte relatif à la détermination des programmes, aux conditions d'admission à concourir, au nombre de places offertes aux concours et à l'ouverture de ceux-ci ;
 
 12° La définition des actions de formation des personnels de direction et des praticiens hospitaliers.
 
