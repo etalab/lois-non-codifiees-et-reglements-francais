@@ -122,7 +122,7 @@ Les pièces à fournir sont :
 
 1. Celles énumérées au paragraphe 8-A ou 8-A bis ci-dessus.
 
-2. Soit un certificat de carrossage conforme à l'annexe VII de l'arrêté du 19 juillet 1954 relatif à la réception des véhicules dans le cas où le véhicule a été carrossé par un carrossier-constructeur inscrit sous le numéro 34.2 A du code NAF, soit un certificat de conformité initial conforme à l'annexe 2 ou 3 de l'arrêté du 18 novembre 2005 relatif au contrôle de conformité initial prévu à l'article R. 323-25 du code de la route.
+2. Soit un certificat de carrossage conforme à l'annexe VII de l'arrêté du 19 juillet 1954 relatif à la réception des véhicules établi dans les limites d'utilisation et les conditions fixées par cette annexe, soit un certificat de conformité initial conforme à l'annexe III de l'arrêté du 18 novembre 2005 relatif au contrôle de conformité initial prévu à l'article R. 323-25 du code de la route.
 
 Pour les véhicules équipés d'une benne amovible, carrosserie BEN AMO, il doit être joint à ce certificat de carrossage un certificat conforme à l'annexe IX de l'arrêté précité :
 
