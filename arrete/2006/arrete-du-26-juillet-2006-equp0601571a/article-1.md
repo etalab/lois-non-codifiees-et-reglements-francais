@@ -10,7 +10,7 @@ Le secrétaire général.
 
 Le haut fonctionnaire de défense.
 
-L'inspecteur général du travail des transports.
+Le chef du service des effectifs et du budget, adjoint à la directrice générale du personnel et de l'administration.
 
 La directrice générale du personnel et de l'administration.
 
@@ -24,7 +24,7 @@ Le directeur général de l'aviation civile.
 
 La directrice de la sécurité et de la circulation routières.
 
-Le directeur du tourisme.
+Le directeur des transports maritimes, routiers et fluviaux.
 
 La directrice de la recherche et de l'animation scientifique et technique, du secrétariat général.
 
@@ -38,7 +38,7 @@ Le président de la première section du Conseil général des ponts et chaussé
 
 L'inspecteur général des services des affaires maritimes.
 
-Le directeur général de l'administration du ministère de l'écologie, du développement et de l'aménagement durables.
+Le directeur général adjoint de la direction générale de l'administration.
 
 Le secrétaire général de la direction générale de l'aviation civile.
 
