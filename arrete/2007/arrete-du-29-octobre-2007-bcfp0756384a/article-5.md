@@ -1,0 +1,3 @@
+# Article 5
+
+Un conseil national du recrutement et de la formation professionnelle, présidé par le directeur général des douanes et droits indirects, est chargé de définir les orientations de la politique de formation professionnelle et de faire des propositions dans ce domaine. Ce conseil, qui se réunit au moins une fois par an, est composé du chef de service et des sous-directeurs de la direction générale des douanes et droits indirects, du directeur de la DNRFP, des responsables des établissements composant la DNRFP ainsi que d'un directeur interrégional et d'un directeur régional des douanes désignés par le directeur général des douanes et droits indirects. En tant que de besoin, il peut s'adjoindre des experts désignés par le président.
