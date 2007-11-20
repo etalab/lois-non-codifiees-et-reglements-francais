@@ -13,3 +13,5 @@ RAR dispose de liaisons informatisées avec applications suivantes :
 L'application RAR et l'application Gestion des informations du recouvrement (GIR) de la direction générale de la comptabilité publique échangent les informations nominatives nécessaires à la constitution et à la mise à jour de leurs fichiers respectifs.
 
 L'application RAR et l'application redevance audiovisuelle de la direction générale de la comptabilité publique échangent les informations nécessaires à la mise à jour de leurs fichiers respectifs.
+
+L'application RAR fournit à la direction générale des impôts l'ensemble des informations nécessaires à la mise à jour des fichiers des applications ADÉLIE et SIRIUS-REC.

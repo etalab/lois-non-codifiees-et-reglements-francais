@@ -6,6 +6,8 @@ Au sens du présent arrêté, on entend par :
 
 "Campagne de mesure" : une action qui consiste à mesurer de manière temporaire la qualité de l'air en un point ou sur une aire géographique en vue de disposer d'une information sur les niveaux de la qualité de l'air ;
 
+"Dépôt total (ou global)" signifie la masse totale de polluants qui est transférée aux surfaces (c'est-à-dire sol, végétation, eau, bâtiments, etc.) sur une zone donnée dans une période donnée ;
+
 "Evaluation" : résultat obtenu par la mise en oeuvre de toute méthode utilisée pour mesurer, calculer, prévoir ou estimer le niveau d'un polluant dans l'air ambiant ;
 
 "Estimation objective" : résultat obtenu par la mise en oeuvre de toute méthode formalisée permettant d'estimer l'ordre de grandeur des concentrations en polluants en un point donné ou sur une aire géographique sans nécessairement recourir à des outils mathématiques complexes ou aux équations de la physique ;
@@ -18,7 +20,7 @@ Au sens du présent arrêté, on entend par :
 
 "Modélisation" : ensemble des méthodes et outils qui permettent d'obtenir une information sur la qualité de l'air en dehors des points où sont réalisées les mesures. Il peut s'agir d'estimation objective ou d'outils mathématiques ;
 
-"Niveau" : la concentration d'un polluant dans l'air ambiant ou son dépôt sur les surfaces en un temps donné ;
+"Niveau" : la concentration d'un polluant dans l'air ambiant ou son dépôt total sur les surfaces en un temps donné ;
 
 "Prélèvement en continu" : ensemble de prélèvements qui forme un support temporel continu quelle que soit la durée des prélèvements individuels (quart-horaire, horaire, journalier, hebdomadaire, toutes les deux semaines, mensuel ...) ;
 
