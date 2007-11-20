@@ -8,6 +8,6 @@ Un membre du conseil d'administration qui n'est pas suppléé peut donner, par �
 
 Le directeur général de l'établissement, l'autorité chargée du contrôle financier et l'agent comptable assistent au conseil d'administration avec voix consultative.
 
-Il en est de même pour le président du conseil de surveillance de l'Agence de l'innovation industrielle ou son représentant et le président du conseil d'administration de l'établissement public OSEO ou son représentant.
+Il en est de même pour le président du conseil d'administration de l'établissement public OSEO ou son représentant.
 
 Le président du conseil d'administration peut inviter à assister à une séance toute autre personne dont il juge la présence utile.
