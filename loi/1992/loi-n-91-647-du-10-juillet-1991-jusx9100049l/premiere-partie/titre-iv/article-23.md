@@ -1,6 +1,6 @@
 # Article 23
 
-Les décisions du bureau d'aide juridictionnelle, de la section du bureau ou de leur premier président peuvent être déférées, selon le cas, au président de la cour d'appel ou de la Cour de cassation, au président de la cour administrative d'appel, au président de la section du contentieux du Conseil d'Etat, au vice-président du Tribunal des conflits, au président de la Commission des recours des réfugiés ou au membre de la juridiction qu'ils ont délégué. Ces autorités statuent sans recours.
+Les décisions du bureau d'aide juridictionnelle, de la section du bureau ou de leur premier président peuvent être déférées, selon le cas, au président de la cour d'appel ou de la Cour de cassation, au président de la cour administrative d'appel, au président de la section du contentieux du Conseil d'Etat, au vice-président du Tribunal des conflits, au président de la Cour nationale du droit d'asile ou au membre de la juridiction qu'ils ont délégué. Ces autorités statuent sans recours.
 
 Les recours contre les décisions du bureau d'aide juridictionnelle peuvent être exercés par l'intéressé lui-même lorsque le bénéfice de l'aide juridictionnelle lui a été refusé, ne lui a été accordé que partiellement ou lorsque ce bénéfice lui a été retiré.
 
