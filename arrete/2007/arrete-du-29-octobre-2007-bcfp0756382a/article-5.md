@@ -1,0 +1,3 @@
+# Article 5
+
+Un conseil national de la lutte contre la fraude, présidé par le directeur général des douanes et droits indirects, est chargé d'orienter la politique de lutte contre la fraude et de faire des propositions en la matière. Ce conseil, qui se réunit au moins une fois par an, est composé du chef de service et des sous-directeurs de la direction générale des douanes et droits indirects, du magistrat responsable du service national de douane judiciaire, du directeur de la DNRED, des responsables de la DOD, de la DED et de la DRD ainsi que d'un directeur interrégional et d'un directeur régional des douanes désignés par le directeur général des douanes et droits indirects. En tant que de besoin, le conseil peut s'adjoindre des experts désignés par le président.
