@@ -1,6 +1,6 @@
 # Article 3
 
-S'agissant des personnels appartenant aux corps des adjoints techniques de recherche et de formation, des agents techniques de recherche et de formation et des agents des services techniques de recherche et de formation affectés dans les services déconcentrés du ministère de l'éducation nationale, outre les pouvoirs énumérés à l'article 2 du présent arrêté, les pouvoirs délégués aux recteurs d'académie sont les suivants :
+S'agissant des personnels appartenant au corps des adjoints techniques de recherche et de formation affectés dans les services déconcentrés du ministère de l'éducation nationale et au sein des établissements énumérés à l'article 2.1 ci-dessus, outre les pouvoirs énumérés à l'article 2 du présent arrêté, les pouvoirs délégués aux recteurs d'académie sont les suivants :
 
 1. Avancement d'échelon ;
 
