@@ -80,7 +80,6 @@
 - [Arrêté du 4 février 1999 (INTE9900076A)](arrete-du-4-fevrier-1999-inte9900076a)
 - [Arrêté du 4 février 1999 (INTE9900077A)](arrete-du-4-fevrier-1999-inte9900077a)
 - [Arrêté du 4 février 1999 (MENF9900231A)](arrete-du-4-fevrier-1999-menf9900231a)
-- [Arrêté du 4 février 1999 (MESP9920440A)](arrete-du-4-fevrier-1999-mesp9920440a)
 - [Arrêté du 4 février 1999 (MESP9920450A)](arrete-du-4-fevrier-1999-mesp9920450a)
 - [Arrêté du 4 janvier 1999 (ECOS9850062A)](arrete-du-4-janvier-1999-ecos9850062a)
 - [Arrêté du 4 janvier 1999 (MESP9920128A)](arrete-du-4-janvier-1999-mesp9920128a)
