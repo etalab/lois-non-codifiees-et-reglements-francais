@@ -1,14 +1,14 @@
 # Article 12
 
-Les jurys d'examen du certificat de formation aux activités de premiers secours en équipe sont constitués dans chaque département par arrêté du préfet.
+Les jurys d'examen du certificat de compétences de sécurité civile donnant la qualification d' Equipier secouriste  sont constitués dans chaque département par arrêté du préfet.
 
-Les jurys d'examen du certificat de formation aux activités de premier secours en équipe sont constitués dans chaque département.
+Les jurys d'examen du certificat de compétences de sécurité civile donnant la qualification d' Equipier secouriste  sont constitués dans chaque département.
 
 Chaque jury est composé de cinq membres désignés par le préfet :
 
 - un médecin ;
 
-- trois titulaires du brevet national d'instructeur de secourisme ou du brevet national de moniteur des premiers secours et du certificat de formation aux activités de premiers secours en équipe ;
+- trois titulaires du brevet national d'instructeur de secourisme ou du brevet national de moniteur des premiers secours et du certificat de compétences de sécurité civile donnant la qualification d' Equipier secouriste  ;
 
 - une personnalité qualifiée dans le département dans le domaine du secourisme.
 

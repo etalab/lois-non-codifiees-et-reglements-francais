@@ -253,7 +253,7 @@ Les candidats à l'examen pour l'obtention du diplôme d'élève officier de la 
 
 La note 0 est éliminatoire ainsi qu'une note inférieure à 10 à l'épreuve de règles de barre, balisage, signaux de port et une note inférieure à 8 à l'épreuve d'application d'anglais.
 
-Les candidats ayant obtenu pour l'ensemble des épreuves une note moyenne au moins égale à 12 sur 20 sont déclarés admis, sous réserve de ne pas avoir obtenu de note éliminatoire et d'être titulaires du certificat de formation aux activités de premiers secours en équipe.
+Les candidats ayant obtenu pour l'ensemble des épreuves une note moyenne au moins égale à 12 sur 20 sont déclarés admis, sous réserve de ne pas avoir obtenu de note éliminatoire et d'être titulaires du certificat de compétences de sécurité civile donnant la qualification d'"Equipier secouriste".
 
 Les candidats qui, ayant échoué à la session de juin, se présentent à la session suivante de septembre :
 

@@ -1,6 +1,6 @@
 # Article 11
 
-La formation complémentaire des sapeurs-pompiers auxiliaires comprend un module permettant l'obtention du certificat de formation aux activités de premiers secours en équipe.
+La formation complémentaire des sapeurs-pompiers auxiliaires comprend un module permettant l'obtention du certificat de compétences de sécurité civile donnant la qualification d'"Equipier secouriste".
 
 La durée de cet enseignement est de quarante-huit heures. Son contenu est défini à l'annexe VII (1).
 

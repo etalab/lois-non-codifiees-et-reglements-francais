@@ -6,7 +6,7 @@ Nul ne peut être admis à subir les épreuves de l'examen du brevet national d'
 
 2° Etre titulaire du brevet national de moniteur des premiers secours ;
 
-3° Etre titulaire du certificat de formation aux activités de premiers secours en équipe ;
+3° Etre titulaire du certificat de compétences de sécurité civile donnant la qualification d'"Equipier secouriste" ;
 
 4° Justifier de trois années d'expérience pédagogique dans le domaine de la formation aux premiers secours ;
 
