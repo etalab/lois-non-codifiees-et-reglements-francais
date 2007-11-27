@@ -42,7 +42,6 @@
 - [Décret n°2002-325 du 7 mars 2002 (DEFP0201120D)](decret-n2002-325-du-7-mars-2002-defp0201120d)
 - [Décret n°2001-213 du 8 mars 2001 (INTX0100031D)](decret-n2001-213-du-8-mars-2001-intx0100031d)
 - [Décret n°2002-155 du 8 février 2002 (ECOP0100525D)](decret-n2002-155-du-8-fevrier-2002-ecop0100525d)
-- [Décret n°2002-349 du 8 mars 2002 (JUSB0210079D)](decret-n2002-349-du-8-mars-2002-jusb0210079d)
 - [Décret n°2002-41 du 8 janvier 2002 (MJSK0170206D)](decret-n2002-41-du-8-janvier-2002-mjsk0170206d)
 - [Décret n°2002-477 du 8 avril 2002 (EQUU0200569D)](decret-n2002-477-du-8-avril-2002-equu0200569d)
 - [Décret n°2002-483 du 8 avril 2002 (DEFP0201334D)](decret-n2002-483-du-8-avril-2002-defp0201334d)
