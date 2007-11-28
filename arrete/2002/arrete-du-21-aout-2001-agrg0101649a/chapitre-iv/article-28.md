@@ -1,3 +1,3 @@
 # Article 28
 
-La sortie des animaux des espèces sensibles, de leurs ovules, sperme et embryons, ainsi que, sauf autorisation particulière délivrée par le ministre de l'agriculture et de la pêche, des cadavres des animaux de ces espèces en provenance des départements de la Haute-Corse et de la Corse-du-Sud est interdite sauf à destination des zones de protection instituées par la décision 2001/783/CE de la Commission du 9 novembre 2001.
+La liste des zones réglementées du territoire français, incluant les zones de protection et de surveillance prévues à l'article 15, est fixée en annexe du présent arrêté, en fonction des sérotypes viraux identifiés.
