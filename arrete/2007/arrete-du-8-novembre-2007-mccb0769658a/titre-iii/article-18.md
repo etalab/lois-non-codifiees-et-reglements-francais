@@ -1,0 +1,3 @@
+# Article 18
+
+A l'issue des épreuves d'admission et à partir du total des points obtenus à l'écrit et à l'oral, le jury arrête, dans la limite des postes ouverts aux concours et pour chaque spécialité, une liste d'admission distincte pour chacun des concours précisant la spécialité dans laquelle le candidat est admis. Lorsqu'un candidat remplit les conditions pour être admis dans deux spécialités, il est déclaré admis au titre d'une seule spécialité, en tenant compte de l'ordre dans lequel il a classé les spécialités lors de son inscription aux concours. Ces listes sont établies par ordre de mérite. Le jury peut établir une liste complémentaire par spécialité.
