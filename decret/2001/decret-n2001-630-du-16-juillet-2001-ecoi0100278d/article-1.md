@@ -8,7 +8,7 @@ Les informations dont la confidentialité doit être préservée par les gestion
 
 3° Les dispositions des contrats et protocoles d'achat d'électricité conclus par le gestionnaire du réseau public de transport mentionnés au III de l'article 15 de la loi du 10 février 2000 susvisée, ainsi que les informations échangées en vue de leur préparation et de leur application, relatives aux prix de transaction de l'électricité, aux données financières relatives à l'équilibre des transactions, aux caractéristiques de la production ou de la fourniture, à la durée des contrats et protocoles d'achat, aux pénalités et sanctions contractuelles ;
 
-4° Les informations issues des comptages mentionnés au IV de l'article 15 et au III de l'article 19 de la loi du 10 février 2000 susvisée ou issues de toutes autres mesures physiques effectuées par les gestionnaires des réseaux concernés sur les ouvrages de raccordement et les installations d'un utilisateur de ces réseaux ;
+4° Les informations relatives aux puissances enregistrées, aux volumes d'énergie consommée ou produite ainsi qu'à la qualité de l'électricité, issues des comptages mentionnés au IV de l'article 15 et au III de l'article 19 de la loi du 10 février 2000 susvisée ou issues de toutes autres mesures physiques effectuées par les gestionnaires des réseaux concernés sur les ouvrages de raccordement et les installations d'un utilisateur de ces réseaux ;
 
 5° Les niveaux des écarts constatés par rapport aux programmes d'appel, d'approvisionnement et de consommation, ainsi que les montants des compensations financières demandées ou attribuées par le gestionnaire du réseau public de transport aux utilisateurs concernés, mentionnés au IV de l'article 15 de la loi du 10 février 2000 susvisée ;
 

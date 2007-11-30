@@ -270,9 +270,9 @@ II. - Sauf disposition contraire du présent cahier des charges, le concessionna
 
 III. - Le concessionnaire peut proposer des prestations techniques complémentaires. Ces prestations, ainsi que les engagements spécifiques mentionnés au II du présent article, font l'objet d'un catalogue de prix.
 
-IV. - Le concessionnaire peut refuser ou interrompre l'accès au réseau :
+IV. - Le concessionnaire peut refuser ou interrompre l'accès au réseau d'un utilisateur :
 
-- en cas de non-respect des dispositions réglementaires ou contractuelles visant à limiter les perturbations générées par ses installations ;
+- en cas de non-respect des dispositions réglementaires ou contractuelles visant à limiter les perturbations générées par les installations de cet utilisateur ;
 
 - en cas de risque grave et immédiat pour la sécurité du personnel du concessionnaire ou des tiers ou pour la sûreté du réseau ;
 
