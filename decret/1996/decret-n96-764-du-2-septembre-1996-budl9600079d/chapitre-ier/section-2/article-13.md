@@ -2,7 +2,7 @@
 
 Les membres qui ne remplissent plus les conditions d'éligibilité cessent de plein droit de faire partie des conseils de l'ordre.
 
-Sans préjudice de l'action disciplinaire dont il peut éventuellement être l'objet pour le même motif par application des dispositions du code des devoirs professionnels, est réputé démissionnaire de ses fonctions de membre d'un conseil de l'ordre :
+Sans préjudice de l'action disciplinaire dont il peut éventuellement être l'objet pour le même motif par application des dispositions du code de déontologie, est réputé démissionnaire de ses fonctions de membre d'un conseil de l'ordre :
 
 1. Tout membre qui, sans raison valable, refuse ou s'abstient de remplir les obligations ou d'effectuer les travaux que lui imposent les fonctions pour lesquelles il a été élu ou désigné au sein, soit du conseil, soit à l'une des commissions de ce conseil, soit de la chambre de discipline, soit du Comité national du tableau ;
 

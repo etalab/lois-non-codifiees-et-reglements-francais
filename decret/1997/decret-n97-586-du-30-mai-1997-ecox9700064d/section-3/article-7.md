@@ -2,7 +2,7 @@
 
 Le Conseil supérieur a pour mission :
 
-1° De préparer le code des devoirs professionnels dont les dispositions sont édictées sous la forme d'un décret en Conseil d'Etat pris sur le rapport du ministre chargé du budget, d'en faire respecter les prescriptions et de prendre toutes mesures nécessaires à cet effet ; d'établir un règlement intérieur ;
+1° De préparer le code de déontologie dont les dispositions sont édictées sous la forme d'un décret en Conseil d'Etat pris sur le rapport du ministre chargé du budget, d'en faire respecter les prescriptions et de prendre toutes mesures nécessaires à cet effet ; d'établir un règlement intérieur ;
 
 2° D'assurer l'administration de l'ordre et la gestion de son patrimoine ;
 
