@@ -4,37 +4,27 @@ Les recteurs d'académie reçoivent, dans les limites fixées aux articles 2 à 
 
 1. Corps de catégorie C
 
-a) Agents administratifs des services déconcentrés régis par le décret n° 90-712 du 1er août 1990.
+a) Adjoints administratifs des services déconcentrés régis par le décret n° 2006-1760 du 23 décembre 2006.
 
-b) Adjoints administratifs des services déconcentrés régis par le décret n° 90-713 du 1er août 1990.
+b) Adjoints techniques des établissements d'enseignement du ministère chargé de l'éducation nationale régis par le décret n° 91-462 du 14 mai 1991.
 
-c) Agents de service régis par le décret n° 65-923 du 2 novembre 1965.
-
-d) Agents des services techniques des services déconcentrés régis par le décret n° 90-715 du 1er août 1990.
-
-e) Ouvriers d'entretien et d'accueil, ouvriers professionnels et maîtres ouvriers régis par le décret n° 91-462 du 14 mai 1991.
-
-f) Conducteurs d'automobile et chefs de garage régis par le décret n° 70-251 du 21 mars 1970.
-
-g) Agents techniques de laboratoire, aides de laboratoire et aides techniques de laboratoire régis par le décret n° 92-980 du 10 septembre 1992.
+c) Adjoints techniques de laboratoire régis par le décret n° 2006-1762 du 23 décembre 2006.
 
 2. Corps de catégorie B
 
 a) Secrétaires d'administration scolaire et universitaire régis par le décret n° 94-1017 du 18 novembre 1994.
 
-b) Secrétaires de documentation de l'éducation nationale régis par le décret n° 96-533 du 14 juin 1996.
+b) Infirmières et infirmiers du ministère chargé de l'éducation nationale régis par le décret n° 94-1020 du 23 novembre 1994.
 
-c) Infirmières et infirmiers du ministère chargé de l'éducation nationale régis par le décret n° 94-1020 du 23 novembre 1994.
+c) Assistants de service social du ministère chargé de l'éducation nationale régis par le décret n° 91-783 du 1er août 1991.
 
-d) Assistants de service social du ministère chargé de l'éducation nationale régis par le décret n° 91-783 du 1er août 1991.
+d) Techniciens de laboratoire des établissements d'enseignement du ministère chargé de l'éducation nationale régis par le décret n° 96-273 du 26 mars 1996.
 
-e) Techniciens de laboratoire des établissements d'enseignement du ministère chargé de l'éducation nationale régis par le décret n° 96-273 du 26 mars 1996.
-
-f) Techniciens de l'éducation nationale régis par le décret n° 91-462 du 14 mai 1991.
+e) Techniciens de l'éducation nationale régis par le décret n° 91-462 du 14 mai 1991.
 
 3. Corps et emploi de catégorie A
 
-a) Attachés d'administration scolaire et universitaire régis par le décret n° 83-1033 du 3 décembre 1983.
+a) Attachés d'administration de l'éducation nationale et de l'enseignement supérieur régis par le décret n° 2006-1732 du 23 décembre 2006.
 
 b) Conseillers techniques de service social régis par le décret n° 91-784 du 1er août 1991.
 

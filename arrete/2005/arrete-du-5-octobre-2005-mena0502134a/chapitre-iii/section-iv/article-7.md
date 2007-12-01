@@ -1,6 +1,6 @@
 # Article 7
 
-Les pouvoirs délégués aux recteurs d'académie en matière de recrutement et de gestion des personnels appartenant au corps des attachés d'administration scolaire et universitaire mentionnés au 3 de l'article 1er sont les suivants :
+Les pouvoirs délégués aux recteurs d'académie en matière de recrutement et de gestion des personnels appartenant au corps des attachés d'administration de l'éducation nationale et de l'enseignement supérieur mentionnés au 3 de l'article 1er sont les suivants :
 
 I. - En matière de recrutement
 
@@ -16,13 +16,13 @@ II. - En matière de modalités d'exercice des fonctions
 
 1° Octroi des congés prévus à l'article 34 de la loi du 11 janvier 1984 susvisée, sauf dans les cas où l'avis du Comité médical supérieur est requis.
 
-2° Octroi du mi-temps thérapeutique prévu à l'article 34 bis de la loi du 11 janvier 1984 susvisée, sauf pour les cas où l'avis du Comité médical supérieur est requis.
+2° Octroi du temps partiel pour raison thérapeutique prévu à l'article 34 bis de la loi du 11 janvier 1984 susvisée, sauf pour les cas où l'avis du comité médical supérieur est requis.
 
 3° Octroi du bénéfice d'un temps partiel conformément aux dispositions de la loi du 11 janvier 1984 et du décret du 20 juillet 1982 susvisés.
 
 4° Octroi du congé parental prévu à l'article 54 de la loi du 11 janvier 1984 susvisée.
 
-5° Octroi du congé de présence parentale prévu à l'article 54 bis de la loi du 11 janvier 1984 susvisée.
+5° Octroi du congé de présence parentale prévu à l'article 40 bis de la loi du 11 janvier 1984 susvisée.
 
 6° Octroi du congé bonifié prévu par le décret du 20 mars 1978 susvisé.
 
@@ -36,7 +36,7 @@ II. - En matière de modalités d'exercice des fonctions
 
 11° Autorisations spéciales d'absence accordées pour la participation aux activités institutionnelles des syndicats, en application des articles 12, 13 et 14 du décret n° 82-447 du 28 mai 1982 susvisé.
 
-12° Autorisation de cumul d'emplois et de rémunérations prévue par le décret-loi du 29 octobre 1936 susvisé.
+12° Autorisation de cumul d'activités prévue par le décret n° 2007-658 du 2 mai 2007 relatif au cumul d'activités des fonctionnaires, des agents non titulaires de droit public et des ouvriers des établissements industriels de l'Etat.
 
 13° Reconnaissance de l'état d'invalidité temporaire et ouverture du droit au versement de l'allocation d'invalidité temporaire et, le cas échéant, de la majoration pour tierce personne.
 
@@ -52,11 +52,11 @@ II. - En matière de modalités d'exercice des fonctions
 
 III. - En matière de déroulement de carrière
 
-1° Etablissement de la liste des candidats autorisés à prendre part aux épreuves des examens professionnels préalables à l'avancement de grade.
+1° Etablissement de la liste des candidats autorisés à prendre part à l'épreuve de l'examen professionnel préalable à l'avancement de grade.
 
-2° Etablissement du tableau d'avancement au choix pour l'accès au grade d'attaché principal de 2e classe.
+2° Etablissement du tableau d'avancement au choix pour l'accès au grade d'attaché principal.
 
-3° Etablissement du tableau d'avancement et nomination au grade d'attaché principal de 1re classe.
+3° (Abrogé).
 
 4° Classement dans le grade.
 
@@ -72,12 +72,12 @@ III. - En matière de déroulement de carrière
 
 10° Mise en cessation progressive d'activité.
 
-11° Octroi du congé de fin d'activité.
-
-12° Instruction des demandes de validation pour la retraite des services de non-titulaires.
+11° Instruction des demandes de validation pour la retraite des services de non-titulaires.
 
 IV. - En matière de mutation
 
 1° Ouverture du droit à la prise en charge des frais de changement de résidence.
 
 2° Ouverture du droit à l'attribution de l'indemnité d'éloignement, de la prime spécifique d'installation et de l'indemnité particulière de sujétion et d'installation.
+
+3° Opérations de mutations intra-académiques.
