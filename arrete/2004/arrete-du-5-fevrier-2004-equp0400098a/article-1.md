@@ -2,28 +2,30 @@
 
 Pour l'application des dispositions des articles 1er et 3 du décret du 21 décembre 2001 susvisé, les postes définis ci-après ouvrent aux inspecteurs principaux des affaires maritimes qui les occupent ou viennent à les occuper la vocation à l'emploi de conseiller des affaires maritimes dans lequel ils peuvent être nommés, à concurrence des emplois inscrits au budget :
 
-I. - En services déconcentrés :
+I.-En services déconcentrés :
 
-- directeur régional adjoint des affaires maritimes ;
+-directeur régional adjoint des affaires maritimes ;
 
-- directeur départemental ou interdépartemental des affaires maritimes ;
+-directeur départemental ou interdépartemental des affaires maritimes ;
 
-- directeur départemental ou interdépartemental délégué des affaires maritimes ;
+-directeur départemental ou interdépartemental délégué des affaires maritimes ;
 
-- chef des services des affaires maritimes de Polynésie française et de Nouvelle-Calédonie ;
+-chef des services des affaires maritimes de Polynésie française et de Nouvelle-Calédonie ;
 
-- chef des centres de sécurité des navires de Marseille, du Havre, de Saint-Nazaire, de Dunkerque et de Lorient ;
+-chef des centres de sécurité des navires de Marseille, du Havre, de Saint-Nazaire, de Dunkerque et de Lorient ;
 
-- chef des services des moyens des services déconcentrés à la direction régionale des affaires maritimes de Bretagne, de Haute-Normandie et de Provence-Alpes-Côte d'Azur ;
+-chef des services des moyens des services déconcentrés à la direction régionale des affaires maritimes de Haute-Normandie, de Bretagne, des Pays de la Loire, d'Aquitaine et de Provence-Alpes-Côte d'Azur ;
 
-- directeur d'établissement secondaire d'enseignement maritime.
+-directeur d'établissement secondaire d'enseignement maritime.
 
-II. - En administration centrale :
+II.-En administration centrale :
 
-- chargé de mission à l'inspection générale des services des affaires maritimes et à l'inspection générale de l'enseignement maritime ;
+-chef de bureau dont l'importance le justifie ;
 
-- chef du centre de liquidation des prestations d'assurance maladie de la direction de l'Etablissement national des invalides de la marine de Saint-Malo.
+-chargé de mission ou de projet de haut niveau auprès d'un directeur d'administration centrale, d'un sous-directeur, d'un chef de service, ou en cabinet ministériel ;
 
-III. - En représentation diplomatique :
+-chef du centre de liquidation des prestations d'assurance maladie de la direction de l'Etablissement national des invalides de la marine de Saint-Malo.
 
-- conseiller maritime dans une ambassade de France.
+III.-En représentation diplomatique :
+
+-conseiller maritime dans une ambassade de France.
