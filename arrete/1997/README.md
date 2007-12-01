@@ -18,7 +18,6 @@
 - [Arrêté du 1 juillet 1997 (DEFD9701675A)](arrete-du-1-juillet-1997-defd9701675a)
 - [Arrêté du 1 juillet 1997 (EQUP9700547A)](arrete-du-1-juillet-1997-equp9700547a)
 - [Arrêté du 1 juillet 1997 (INTB9700299A)](arrete-du-1-juillet-1997-intb9700299a)
-- [Arrêté du 1 juillet 1997 (MCCE9700575A)](arrete-du-1-juillet-1997-mcce9700575a)
 - [Arrêté du 1 octobre 1997 (AGRG9702001A)](arrete-du-1-octobre-1997-agrg9702001a)
 - [Arrêté du 1 octobre 1997 (ATEN9760425A)](arrete-du-1-octobre-1997-aten9760425a)
 - [Arrêté du 1 octobre 1997 (ATEN9760426A)](arrete-du-1-octobre-1997-aten9760426a)
