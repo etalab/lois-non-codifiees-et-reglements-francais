@@ -1,6 +1,6 @@
 # Article 1
 
-Les présidents des universités et les présidents ou directeurs des autres établissements publics d'enseignement supérieur, dont la liste est fixée à l'article 5 ci-dessous, reçoivent, dans les limites fixées aux articles 2, 3, 4 et 4-1 ci-dessous, délégation de pouvoirs du ministre chargé de l'enseignement supérieur pour la gestion des personnels suivants affectés dans leur établissement :
+Les présidents des universités et les présidents ou directeurs des autres établissements publics d'enseignement supérieur, dont la liste est fixée à l'article 5 ci-dessous, reçoivent, dans les limites fixées aux articles 2, 3 et 4-1 ci-dessous, délégation de pouvoirs du ministre chargé de l'enseignement supérieur pour la gestion des personnels suivants affectés dans leur établissement :
 
 I. - Ingénieurs et personnels techniques et administratifs de recherche et de formation, stagiaires et titulaires, régis par le décret du 31 décembre 1985 susvisé, affectés dans lesdits établissements.
 
