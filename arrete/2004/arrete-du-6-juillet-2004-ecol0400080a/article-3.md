@@ -36,21 +36,23 @@ Le cas échéant :
 
 - nature de la déclaration (initiale, rectificative...) ;
 
-- mode de dépôt (EDI, EFI, ou papier pour les déclarations de TVA, TDFC ou papier pour les déclarations de résultat) ;
+- mode de dépôt (EDI, EFI ou papier pour les déclarations de TVA, TDFC ou papier pour les déclarations de résultat) ;
 
 - données fiscales et comptables portées sur la déclaration de résultats, la liasse fiscale et les annexes, et notamment quand il y a lieu :
 
-1° Identité, qualité, adresse des associés et modalités de répartition entre ces derniers des résultats de l'entreprise ;
+- 1° Identité, qualité, adresse des associés et modalités de répartition entre ces derniers des résultats de l'entreprise ;
 
-2° Identité, adresse et nombre de parts ou actions des personnes détenant directement au moins 10 % du capital de la société ;
+- 2° Identité, adresse et nombre de parts ou actions des personnes détenant directement au moins 10 % du capital de la société ;
 
-3° Identité, qualité et adresse des personnes bénéficiant de l'affectation d'une voiture de tourisme ;
+- 3° Identité, qualité et adresse des personnes bénéficiant de l'affectation d'une voiture de tourisme ;
 
-4° Identité et adresse du propriétaire du fonds ;
+- 4° Identité et adresse du propriétaire du fonds ;
 
-5° Identité, adresse, emploi, rémunération et frais alloués aux personnes les mieux rémunérées par l'entreprise ;
+- 5° Identité, adresse, emploi, rémunération et frais alloués aux personnes les mieux rémunérées par l'entreprise ;
 
-- total à payer pour les déclarations de TVA ; résultat pour les déclarations de résultat.
+- total à payer pour les déclarations de TVA, résultat pour les déclarations de résultat ;
+
+- pour les redevables de la redevance audiovisuelle, le montant de redevance déclaré et la qualité de loueur professionnel le cas échéant.
 
 4. Pour les données relatives aux paiements :
 
@@ -74,8 +76,6 @@ Le cas échéant :
 
 - type de paiement ;
 
-- détail et suivi des demandes de remboursement de TVA ;
-
 - numéro de facture ;
 
 - numéro de rôle.
@@ -88,7 +88,7 @@ Le cas échéant, pour les entreprises ayant opté pour le paiement de l'impôt 
 
 - compte bancaire ;
 
-- échéancier ;
+- échéancier.
 
 - montant du remboursement éventuel.
 
@@ -105,6 +105,24 @@ Le cas échéant, pour les entreprises ayant opté pour le paiement de l'impôt 
 - date et période de la liquidation définitive ;
 
 - détail de la liquidation.
+
+6. Pour les données relatives aux demandes de remboursement de crédit de TVA : détail et suivi des demandes de remboursement de TVA :
+
+- relevé des factures d'achats ou de services limité aux cinq informations suivantes :
+
+- nom et adresse des fournisseurs ou prestataires de services ;
+
+- date et montant de chaque facture ;
+
+- montant des taxes correspondantes.
+
+- période visée :
+
+- remboursement demandé ;
+
+- crédit à reporter ;
+
+- procédure spéciale exportateur.
 
 II. - Les informations et catégories d'informations nominatives suivantes sont également traitées afin de permettre le suivi des accès :
 

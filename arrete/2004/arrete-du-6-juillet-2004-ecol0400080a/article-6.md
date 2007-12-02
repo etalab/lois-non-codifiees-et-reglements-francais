@@ -1,6 +1,6 @@
 # Article 6
 
-I. - Les déclarations restituées par la base ADÉLIE sont accessibles en consultation directe jusqu'au 31 décembre de la 4e année suivant l'année d'imposition à laquelle elles se rapportent. Au-delà de ce délai, elles ne sont plus consultables en ligne. Elles sont alors conservées dans les centres de services informatiques en tant qu'archives intermédiaires pendant cinq ans et communiquées aux destinataires habilités qui en font la demande.
+I. - Les déclarations restituées par la base ADÉLIE sont accessibles en consultation directe jusqu'au 31 décembre de la quatrième année suivant l'année d'imposition à laquelle elles se rapportent. Ce délai est porté à cinq ans en cas de déclaration de TVA créditrice. Au-delà de ce délai, elles ne sont plus consultables en ligne. Elles sont alors conservées dans les centres de services informatiques en tant qu'archives intermédiaires pendant cinq ans et communiquées aux destinataires habilités qui en font la demande.
 
 Les créances et l'ensemble des paiements qui s'y rapportent sont accessibles en consultation directe jusqu'au 31 décembre de la troisième année suivant celle au cours de laquelle elles sont intégralement soldées ou de la quatrième année suivant la période d'imposition, le délai le plus long s'appliquant.
 
