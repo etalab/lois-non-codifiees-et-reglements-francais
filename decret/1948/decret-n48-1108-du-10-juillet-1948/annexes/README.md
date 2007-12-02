@@ -6,6 +6,7 @@
 - [CULTURE](culture)
 - [DEFENSE NATIONALE](defense-nationale)
 - [ENVIRONNEMENT](environnement)
+- [CORPS ET EMPLOIS A STATUT COMMUN](corps-et)
 - [ECONOMIE, FINANCES ET BUDGET](economie-finances-et)
 - [EDUCATION NATIONALE ET RECHERCHE](education-nationale-et)
 - [EQUIPEMENT, LOGEMENT ET TOURISME](equipement-logement-et)
