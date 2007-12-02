@@ -630,6 +630,10 @@ Lorient Naval et industries :
 
 - ZI du Rohu, 56600 Lanester, puis 32, rue de l'Ingénieur-Verrière, 56100 Lorient : de 1990 à 1997.
 
+Louis Carrouër. Anse du Lin, terre-plein, quai est, 29900 Concarneau. De 1956 à 1975.
+
+SARL Carrouër Patrick. Anse du Lin, terre-plein, quai est, 29900 Concarneau. De 1976 à 1996.
+
 Maison Grouhel Camaret :
 
 - Le Sillon, 29570 Camaret-sur-Mer : de 1958 à 1978, puis Société Mecamar Camaret : depuis 1978.
