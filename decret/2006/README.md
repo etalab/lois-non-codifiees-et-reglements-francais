@@ -411,6 +411,7 @@
 - [Décret n°2006-1466 du 27 novembre 2006 (SANH0624235D)](decret-n2006-1466-du-27-novembre-2006-sanh0624235d)
 - [Décret n°2006-237 du 27 février 2006 (INTE0600032D)](decret-n2006-237-du-27-fevrier-2006-inte0600032d)
 - [Décret n°2006-379 du 27 mars 2006 (DOMB0600002D)](decret-n2006-379-du-27-mars-2006-domb0600002d)
+- [Décret n°2006-743 du 27 juin 2006 (MENF0601139D)](decret-n2006-743-du-27-juin-2006-menf0601139d)
 - [Décret n°2007-621 du 27 avril 2007 (DEFH0751219D)](decret-n2007-621-du-27-avril-2007-defh0751219d)
 - [Décret n°85-1390 du 27 décembre 1985](decret-n85-1390-du-27-decembre-1985)
 - [Décret n°92-835 du 27 août 1992 (MENB9200267D)](decret-n92-835-du-27-aout-1992-menb9200267d)
