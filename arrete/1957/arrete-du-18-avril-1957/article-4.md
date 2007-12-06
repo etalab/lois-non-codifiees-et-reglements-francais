@@ -2,31 +2,31 @@
 
 Il est alloué aux saisissants et intervenants une rémunération globale forfaitaire fixée à :
 
-- 4,5 euros pour les affaires dont le produit net est compris entre 15 et 30 euros ;
+- 4,5 euros pour les affaires dont la base nette est compris entre 15 et 30 euros ;
 
-- 6 euros pour les affaires dont le produit net est compris entre 30 et 75 euros inclus ;
+- 6 euros pour les affaires dont la base nette est compris entre 30 et 75 euros inclus ;
 
-- 12 euros pour les affaires dont le produit net est compris entre 75,01 et 150 euros inclus ;
+- 12 euros pour les affaires dont la base nette est compris entre 75,01 et 150 euros inclus ;
 
-- 18 euros pour ses affaires dont le produit net est compris entre 150,01 et 300 euros inclus ;
+- 18 euros pour ses affaires dont la base nette est compris entre 150,01 et 300 euros inclus ;
 
-- 23 euros pour les affaires dont le produit net est compris entre 300,01 et 450 euros inclus ;
+- 23 euros pour les affaires dont la base nette est compris entre 300,01 et 450 euros inclus ;
 
-- 27 euros pour les affaires dont le produit net est compris entre 450,01 et 600 euros inclus ;
+- 27 euros pour les affaires dont la base nette est compris entre 450,01 et 600 euros inclus ;
 
-- 32 euros pour les affaires dont le produit net est compris entre 600,01 et 750 euros inclus :
+- 32 euros pour les affaires dont la base nette est compris entre 600,01 et 750 euros inclus :
 
-- 37 euros pour les affaires dont le produit net est compris entre 750,01 et 900 euros inclus ;
+- 37 euros pour les affaires dont la base nette est compris entre 750,01 et 900 euros inclus ;
 
-- 41 euros pour les affaires dont le produit net est compris entre 900,01 et 1 200 inclus ;
+- 41 euros pour les affaires dont la base nette est compris entre 900,01 et 1 200 inclus ;
 
-- 45 euros pour les affaires dont le produit net est compris entre 1200,01 et 1 500 inclus ;
+- 45 euros pour les affaires dont la base nette est compris entre 1200,01 et 1 500 inclus ;
 
-- 53 euros pour les affaires dont le produit net est compris entre 1.500,01 et 2.300 euros inclus ;
+- 53 euros pour les affaires dont la base nette est compris entre 1.500,01 et 2.300 euros inclus ;
 
-- 61 euros pour les affaires dont le produit net est compris entre 2.300,01 et 3.000 euros inclus ;
+- 61 euros pour les affaires dont la base nette est compris entre 2.300,01 et 3.000 euros inclus ;
 
-- 69 euros pour les affaires dont le produit net est compris entre 3.000,01 et 4 500 d'euros inclus,
+- 69 euros pour les affaires dont la base nette est compris entre 3.000,01 et 4 500 d'euros inclus,
 
 et ainsi de suite, la rémunération étant augmentée de 8 euros par tranche de 1.500 euros.
 
