@@ -1,8 +1,8 @@
 # Article 4
 
-Le ministre chargé de la culture nomme le président et trois vice-présidents choisis parmi les membres du comité d'histoire.
+Le ministre chargé de la culture nomme le président et quatre vice-présidents choisis parmi les membres du comité d'histoire.
 
-Deux vice-présidents sont choisis parmi les membres nommés du comité, le troisième est l'inspecteur général de l'administration des affaires culturelles désigné selon les modalités prévues à l'article précédent.
+Trois vice-présidents sont choisis parmi les membres nommés du comité, le quatrième est l'inspecteur général de l'administration des affaires culturelles désigné selon les modalités prévues à l'article précédent.
 
 Le président du comité désigne le secrétaire général.
 
