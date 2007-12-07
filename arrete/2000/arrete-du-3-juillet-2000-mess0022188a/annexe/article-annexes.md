@@ -562,6 +562,8 @@ Franche-Comté
 
 Allied Signal, 25790 Les Gras : de 1976 à 1993 ;
 
+ALSTHOM puis ALSTHOM ATLANTIQUE puis ALSTHOM, 3 avenue des Trois-Chênes, 90018 Belfort : de 1960 à 1985 ;
+
 Bendix, zone industrielle, 39150 Saint-Pierre-en-Grandvaux : de 1980 à 1985 ;
 
 Bosch systèmes de freinage, ZI de Levier, BP 11, 25270 Levier : de 1982 à 1996.
