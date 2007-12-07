@@ -12,7 +12,7 @@ Toutefois, pour l'année 2004, cette disposition s'applique à la date du 1er no
 
 - les gestionnaires d'aéroports coordonnés français ;
 
-- l'Union des chambres de commerce et des établissements gestionnaires d'aéroports (UCCEGA) ;
+- l'Union des aéroports français (UAF) ;
 
 - l'autorité responsable du contrôle du trafic aérien.
 
