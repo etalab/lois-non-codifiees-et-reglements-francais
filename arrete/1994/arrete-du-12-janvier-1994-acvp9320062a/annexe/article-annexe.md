@@ -1,187 +1,401 @@
 # Article ANNEXE
 
-Afghanistan :
-
-Etat ou territoire concerné : Afghanistan Pays et eaux avoisinants
-
-Début de période : 3 octobre 2001
-
-Fin de période : 2 octobre 2005
-
-Cambodge :
-
-Cambodge et ses pays limitrophes, leurs approches maritimes et aériennes.
-
-Début de période : 1er novembre 1991
-
-Fin de période : En cours
-
-Cameroun :
-
-Régions de Wouri, Mungo, N'Kam, Bamiléké, Kribi, N'Tem, Sanaga maritime, Nyong et Kéllé, Nyong et Sanaga, Djà et Lobo.
-
-1re période
-
-Début de période : 17 décembre 1956
-
-Fin de période : 31 décembre 1958
-
-2e période
-
-Début de période : 1er juin 1959
-
-Fin de période : 28 mars 1963
-
-Congo :
-
-Etat ou Territoire concerné : Territoire du Congo et pays limitrophes
-
-Début de période : 19 mars 1997
-
-Fin de période : 18 mars 2000
-
-Côte d'ivoire :
-
-Etat ou Territoire concerné : Côte d'ivoire Et ses approches maritimes, opération LICORNE et opération ONUCI
-
-Début de période : 19 septembre 2002
-
-Fin de période : 18 septembre 2006
-
-Gabon :
-
-Etat ou Territoire concerné : Gabon
-
-Début de période : 2 juin 2003
-
-Fin de période : 1er juin 2005
-
-Golfe Persique et golfe d'Oman :
-
-Opérations maritimes du golfe Persique et du golfe d'Oman.
-
-Début de période : 30 juillet 1987
-
-Fin de période : En cours
-
-Régions du golfe Persique et du golfe d'Oman.
-
-Début de période : 30 juillet 1990
-
-Fin de période : En cours
-
-Irak :
-
-Frontières irano-irakienne (opération Ramure) et turko-irakienne (opération Libage).
-
-A compter du 1er avril 1991 et jusqu'à cessation des hostilités
-
-Liban.
-
-Etat ou Territoire concerné : Liban
-
-Début de période : 22 mars 1978
-
-Fin de période : 22 mars 2005
-
-Madagascar.
-
-Début de période : 30 mars 1947
-
-Fin de période : 1er octobre 1949
-
-Mauritanie.
-
-1re période
-
-Début de période : 1er janvier 1957
-
-Fin de période : 31 décembre 1959
-
-2e période
-
-Début de période : 1er novembre 1977
-
-Fin de période : 30 octobre 1980
-
-Méditerranée orientale (Suez).
-
-Début de période : 30 octobre 1956
-
-Fin de période : 31 décembre 1956
-
-Ouganda
-
-Etat ou Territoire concerné : Ouganda
-
-Début de période : 2 juin 2003
-
-Fin de période : 1er juin 2005
-
-République centrafricaine.
-
-Etat ou Territoire concerné : République centrafricaine
-
-1re période
-
-Début de période : 20 septembre 1979
-
-Fin de période : 19 septembre 1982
-
-2e période
-
-Début de période : 18 mai 1996
-
-Fin de période : 17 mai 1999
-
-3e période
-
-Début de période : 3 décembre 2002
-
-Fin de période : 2 décembre 2004
-
-République démocratique du Congo
-
-Etat ou Territoire concerné : République démocratique du Congo
-
-Début de période : 2 juin 2003
-
-Fin de période : 1er juin 2005
-
-Somalie :
-
-Somalie et ses approches maritimes et aériennes.
-
-Début de période : 3 décembre 1992
-
-Fin de période : En cours
-
-Tchad.
-
-Etat ou territoire concerné : Tchad
-
-Début de période : 15 mars 1969
-
-Fin de période : 31 décembre 2005
-
-Timor.
-
-Etat ou Territoire concerné : Timor Oriental
-
-Début de période : 16 septembre 1999
-
-Fin de période : 15 septembre 2001
-
-Yougoslavie :
-
-Etat ou Territoire concerné : Pays limitrophes et eaux avoisinantes
-
-Début de période : 1er janvier 1992
-
-Fin de période : 31 décembre 2005
-
-Zaïre (ex-Congo belge).
-
-Début de période : 13 mai 1978
-
-Fin de période : 12 mai 1981
+<table>
+<tbody>
+<tr>
+<td>
+<p align="center">
+<font size="2">
+<strong>
+<font size="3">Etat ou territoires concernés</font>
+</strong>
+</font>
+</p>
+</td>
+<td>
+<p align="center">
+<font size="3">
+<strong>
+<font size="1">Début de période</font>
+</strong>
+</font>
+</p>
+</td>
+<td>
+<p align="center">
+<strong>
+<font size="3">Fin de période</font>
+</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>Afghanistan Pays et eaux avoisinants, opération Héraclès, Pamir et Epidote</td>
+<td>
+<p align="center">3 octobre 2001</p>
+</td>
+<td>
+<p align="center">2 octobre 2007</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Cambodge et ses pays limitrophes, leurs approches maritimes et aériennes.</p>
+</td>
+<td>
+<p align="center">1er novembre 1991</p>
+</td>
+<td>
+<p align="center">En cours</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Régions de Wouri, Mungo, N'Kam, Bamiléké, Kribi, N'Tem, Sanaga maritime, Nyong et Kéllé, Nyong et Sanaga, Djà et Lobo.</p>
+</td>
+<td>
+<p align="center">
+<em>
+<font size="2">1re période</font>
+</em>
+</p>
+<p align="center">17 décembre 1956</p>
+</td>
+<td>
+<br/>
+<p align="center">
+<em>
+<font size="2">1re période</font>
+</em>
+</p>
+<p align="center">31 décembre 1958</p>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+<p align="center">
+<font size="2">
+<em>2e période</em>
+</font>
+</p>
+<p align="center">1er juin 1959</p>
+</td>
+<td>
+<br/>
+<p align="center">
+<font size="2">
+<em>2e période</em>
+</font>
+</p>
+<p align="center">28 mars 1963</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Territoire du Congo et pays limitrophes</p>
+</td>
+<td>
+<p align="center">19 mars 1997</p>
+</td>
+<td>
+<p align="center">18 mars 2000</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Côte d'ivoire, ses approches maritimes et le territoire du Togo, opération Licorne et Calao (ONUCI)</p>
+</td>
+<td>
+<p align="center">19 septembre 2002</p>
+</td>
+<td>
+<p align="center">18 septembre 2008</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Gabon</p>
+</td>
+<td>
+<p align="center">2 juin 2003</p>
+</td>
+<td>
+<p align="center">1er juin 2007</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Opérations maritimes du golfe Persique et du golfe d'Oman</p>
+</td>
+<td>
+<p align="center">30 juillet 1987</p>
+</td>
+<td>
+<p align="center">En cours</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Régions du golfe Persique et du golfe d'Oman </p>
+</td>
+<td>
+<p align="center">30 juillet 1990</p>
+</td>
+<td>
+<p align="center">En cours</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Irak</p>
+</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>
+<p align="center">Frontières irano-irakienne (opération Ramure) et turko-irakienne (opération Libage).</p>
+</td>
+<td>
+<br/>
+<p align="center">A compter du 1er avril 1991 et jusqu'à cessation des hostilités</p>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Liban</p>
+</td>
+<td>
+<p align="center">22 mars 1978</p>
+</td>
+<td>
+<p align="center">22 mars 2005</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">République du Liban et Isarël, et leurs eaux avoisinantes, opérations Daman (FINUL) et Baliste </p>
+</td>
+<td>
+<p align="center">2 septembre 2006</p>
+</td>
+<td>
+<p align="center">1er septembre 2008</p>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+<p align="center">Madagascar </p>
+</td>
+<td>
+<p align="center">30 mars 1947</p>
+</td>
+<td>
+<p align="center">1er octobre 1949</p>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+<p align="center">Mauritanie </p>
+</td>
+<td>
+<p align="center">
+<font size="2">
+<em>1re période :</em>
+</font>
+</p>
+<p align="center">1er janvier 1957</p>
+</td>
+<td>
+<p align="center">
+<font size="2">
+<em>1re période</em> :</font>
+</p>
+<p align="center">31 décembre 1959</p>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+</td>
+<td>
+<p align="center">
+<font size="2">
+<em>2e période</em>
+</font>
+</p>
+<p align="center">1er novembre 1977</p>
+</td>
+<td>
+<p align="center">
+<em>
+<font size="2">2e période</font>
+</em>
+</p>
+<p align="center">30 octobre 1980</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Méditerranée orientale (Suez) </p>
+</td>
+<td>
+<p align="center">30 octobre 1956</p>
+</td>
+<td>
+<p align="center">31 décembre 1956</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Ouganda </p>
+</td>
+<td>
+<p align="center">2 juin 2003</p>
+</td>
+<td>
+<p align="center">1er juin 2007</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">République centrafricaine, opération Boali</p>
+</td>
+<td>
+<p align="center">
+<font size="2">
+<em>1re période</em>
+</font>
+</p>
+<p align="center">20 septembre 1979</p>
+</td>
+<td>
+<p align="center">
+<font size="2">
+<em>1re période</em>
+</font>
+</p>
+<p align="center">19 septembre 1982</p>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+</td>
+<td>
+<p align="center">
+<font size="2">
+<em>2e période</em>
+</font>
+</p>
+<p align="center">18 mai 1996</p>
+</td>
+<td>
+<p align="center">
+<font size="2">
+<em>2e période</em>
+</font>
+</p>
+<p align="center">17 mai 1999</p>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+</td>
+<td>
+<p align="center">
+<font size="2">
+<em>3e période</em>
+</font>
+</p>
+<p align="center">3 décembre 2002</p>
+</td>
+<td>
+<p align="center">
+<font size="2">
+<em>3e période</em>
+</font>
+</p>
+<p align="center">2 décembre 2008</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">République démocratique du Congo</p>
+</td>
+<td>
+<p align="center">2 juin 2003</p>
+</td>
+<td>
+<p align="center">1er juin 2007</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Somalie et ses approches maritimes et aériennes.</p>
+</td>
+<td>
+<p align="center">3 décembre 1992</p>
+</td>
+<td>
+<p align="center">En cours</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Tchad, pays avoisinants.</p>
+</td>
+<td>
+<p align="center">15 mars 1969</p>
+</td>
+<td>
+<p align="center">31 décembre 2007</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Timor Oriental</p>
+</td>
+<td>
+<p align="center">16 septembre 1999</p>
+</td>
+<td>
+<p align="center">15 septembre 2001</p>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+<p align="center">Yougoslavie : Pays limitrophes et eaux avoisinantes.</p>
+</td>
+<td>
+<p align="center">1er janvier 1992</p>
+</td>
+<td>
+<p align="center">31 décembre 2007</p>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+<p align="center">Zaïre (ex-Congo belge) </p>
+</td>
+<td>
+<p align="center">13 mai 1978</p>
+</td>
+<td>
+<p align="center">12 mai 1981</p>
+</td>
+</tr>
+</tbody>
+</table>
