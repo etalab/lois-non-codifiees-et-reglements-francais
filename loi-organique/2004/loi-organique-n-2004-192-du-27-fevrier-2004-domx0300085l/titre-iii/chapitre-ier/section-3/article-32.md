@@ -8,7 +8,7 @@ Le décret qui porte refus d'approbation est motivé ; il est notifié, selon le
 
 Le décret portant approbation est transmis, selon le cas, au président de la Polynésie française ou à l'assemblée de la Polynésie française. Le projet ou la proposition d'acte ne peut être adopté par l'assemblée de la Polynésie française que dans les mêmes termes.
 
-Les décrets mentionnés au deuxième alinéa du présent I deviennent caducs s'ils n'ont pas été ratifiés par la loi (Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 2004-490 DC du 12 février 2004)
+Lorsqu'ils portent sur un acte prévu à l'article 140, dénommé " loi du pays ", intervenant dans le domaine de la loi, les décrets prévus au deuxième alinéa du présent I ne peuvent entrer en vigueur avant leur ratification par la loi.
 
 II. - Les arrêtés du conseil des ministres de la Polynésie française intervenant pour l'application des actes prévus à l'article 140 dénommés "lois du pays" prévus au I du présent article, et les arrêtés du conseil des ministres intervenant dans le domaine du règlement dans l'une des matières visées à l'article précédent, sont adoptés dans les conditions suivantes.
 

@@ -8,7 +8,7 @@ Sous réserve du domaine des actes prévus par l'article 140 dénommés "lois du
 
 3° Enseignement des langues locales dans tous les établissements d'enseignement ;
 
-4° Bourses, subventions, primes ou prix à l'occasion de concours ou de compétition, secours et allocations d'enseignement alloués sur les fonds du budget de la Polynésie française ;
+4° Bourses, primes ou prix à l'occasion de concours ou de compétition, secours et allocations d'enseignement alloués sur les fonds du budget de la Polynésie française ;
 
 5° Organisation générale des foires et marchés ;
 
@@ -22,7 +22,7 @@ Sous réserve du domaine des actes prévus par l'article 140 dénommés "lois du
 
 10° Ouverture, organisation et programmes des concours d'accès aux emplois publics de la Polynésie française et de ses établissements publics ; modalités d'application de la rémunération des agents de la fonction publique de la Polynésie française ; régime de rémunération des personnels des cabinets ministériels ;
 
-11° Sécurité de la circulation et de la navigation dans les eaux intérieures (Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 2004-490 DC du 12 février 2004) ; pilotage des navires ;
+11° Sécurité de la circulation et de la navigation dans les eaux intérieures ; pilotage des navires ;
 
 12° Conduite des navires, immatriculation des navires, activités nautiques ;
 

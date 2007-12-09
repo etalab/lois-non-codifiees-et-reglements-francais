@@ -1,6 +1,6 @@
 # Article 9
 
-L'exercice des fonctions de magistrat est incompatible avec l'exercice d'un mandat au Parlement, au Parlement européen ou au Conseil économique et social, ainsi que de membre du congrès ou d'une assemblée de province de la Nouvelle-Calédonie, de représentant à l'assemblée de la Polynésie française, de membre de l'assemblée territoriale des îles Wallis et Futuna, de conseiller territorial de Saint-Barthélemy, de conseiller territorial de Saint-Martin, de conseiller général de Mayotte ou de conseiller territorial de Saint-Pierre-et-Miquelon ou avec la fonction de membre du gouvernement de la Nouvelle-Calédonie.
+L'exercice des fonctions de magistrat est incompatible avec l'exercice d'un mandat au Parlement, au Parlement européen ou au Conseil économique et social, ainsi que de membre du congrès ou d'une assemblée de province de la Nouvelle-Calédonie, de représentant à l'assemblée de la Polynésie française, de membre de l'assemblée territoriale des îles Wallis et Futuna, de conseiller territorial de Saint-Barthélemy, de conseiller territorial de Saint-Martin, de conseiller général de Mayotte ou de conseiller territorial de Saint-Pierre-et-Miquelon ou avec la fonction de membre du gouvernement de la Nouvelle-Calédonie ou du gouvernement de la Polynésie française .
 
 Nul ne peut être nommé magistrat ni le demeurer dans une juridiction dans le ressort de laquelle se trouve tout ou partie du département dont son conjoint est député ou sénateur.
 

@@ -10,8 +10,12 @@ L'assemblée de la Polynésie française est consultée :
 
 L'assemblée dispose d'un délai d'un mois pour rendre son avis. Ce délai est réduit à quinze jours, en cas d'urgence, à la demande du haut-commissaire de la République. Le délai expiré, l'avis est réputé avoir été donné.
 
-En dehors des sessions, l'avis sur les projets d'ordonnance est émis par la commission permanente. Celle-ci peut également être habilitée par l'assemblée à émettre les avis sur les projets et propositions de loi autres que ceux modifiant la présente loi organique. Les avis sont émis dans les délais prévus à l'alinéa précédent.
+Sauf lorsqu'est en cause la définition du statut de la Polynésie française prévue par l'article 74 de la Constitution, l'avis peut être émis par la commission permanente si elle y a été habilitée par l'assemblée de la Polynésie française.
 
-Les consultations mentionnées aux alinéas précédents doivent intervenir, au plus tard, avant l'adoption du projet de loi ou de la proposition de loi en première lecture par la première assemblée saisie.
+Les consultations mentionnées aux alinéas précédents doivent intervenir, au plus tard, avant l'adoption du projet de loi ou de la proposition de loi en première lecture par la première assemblée saisie. Les avis portant sur les projets de loi qui, dès l'origine, comportent des dispositions relatives à l'organisation particulière de la Polynésie française sont rendus de façon implicite ou expresse avant l'avis du Conseil d'Etat.
 
 Les avis émis au titre du présent article sont publiés au Journal officiel de la Polynésie française.
+
+Lorsque l'assemblée de la Polynésie française fait usage de la faculté qui lui est ouverte par l'article 133, les résolutions par lesquelles elle présente des propositions de modification des dispositions législatives et réglementaires applicables en Polynésie française ont valeur d'avis au sens du présent article lorsque le Parlement ou le Gouvernement décident de suivre, en tout ou partie, ces propositions.
+
+A la demande du président de l'Assemblée nationale ou du président du Sénat, le haut-commissaire est tenu de consulter l'assemblée de la Polynésie française sur les propositions de loi mentionnées au présent article.

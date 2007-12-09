@@ -4,6 +4,6 @@ Les représentants à l'assemblée de la Polynésie française perçoivent mensu
 
 Cette indemnité peut se cumuler avec celle de membre du Parlement dans le respect des conditions fixées par l'article 4 de l'ordonnance n° 58-1210 du 13 décembre 1958 portant loi organique relative à l'indemnité des membres du Parlement.
 
-L'assemblée de la Polynésie française fixe également les conditions de remboursement des frais de transport et de mission et le régime de protection sociale des représentants à l'assemblée de la Polynésie française, ainsi que le montant de l'indemnité forfaitaire pour frais de représentation éventuellement allouée au président de l'assemblée et au président de la commission permanente.
+L'assemblée de la Polynésie française détermine les garanties accordées aux membres qui la composent en ce qui concerne les autorisations d'absence ou le crédit d'heures, la formation et la protection sociale, ainsi que celles accordées dans l'exercice d'une activité professionnelle ou à l'issue du mandat. Ces garanties sont au moins équivalentes à celles prévues par le droit commun applicable aux autres collectivités territoriales de la République.
 
 L'assemblée de la Polynésie française prévoit, par son règlement intérieur, les conditions dans lesquelles tout ou partie de l'indemnité mentionnée au premier alinéa sera retenue lorsqu'un représentant à l'assemblée de la Polynésie française aura été absent sans excuses valables à un nombre déterminé de séances de l'assemblée ou de ses commissions.

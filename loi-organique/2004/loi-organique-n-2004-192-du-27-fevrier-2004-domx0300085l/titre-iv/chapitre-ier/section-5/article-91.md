@@ -38,7 +38,7 @@ Dans la limite des compétences de la Polynésie française, le conseil des mini
 
 18° Prend les arrêtés de déclaration d'utilité publique et de cessibilité lorsque l'expropriation est poursuivie pour le compte de la Polynésie française ;
 
-19° Prend tous les actes d'administration et de disposition des intérêts patrimoniaux et domaniaux de la Polynésie française dans les conditions et limites fixées par l'assemblée de la Polynésie française ;
+19° Prend tous les actes d'administration et de disposition des intérêts patrimoniaux et domaniaux de la Polynésie française, notamment les transactions foncières, dans les conditions et limites fixées par l'assemblée de la Polynésie française ;
 
 20° Exerce le droit de préemption prévu à l'article 19 ;
 
@@ -58,4 +58,8 @@ Dans la limite des compétences de la Polynésie française, le conseil des mini
 
 28° Autorise l'ouverture des cercles et des casinos dans les conditions fixées à l'article 24 ;
 
-29° Constate l'état de catastrophe naturelle.
+29° Constate l'état de catastrophe naturelle ;
+
+30° Approuve les conventions conclues avec des personnes morales en application d'actes prévus à l'article 140 dénommés " lois du pays " o u de délibérations de l'assemblée de la Polynésie française ;
+
+31° Approuve, au vu de demandes motivées, dans les conditions et selon les critères définis par l'assemblée de la Polynésie française, l'attribution d'aides financières ou l'octroi de garanties d'emprunt aux personnes morales.

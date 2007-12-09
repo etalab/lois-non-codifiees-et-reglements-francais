@@ -2,7 +2,7 @@
 
 I. - La Polynésie française peut créer des entreprises de production et de diffusion d'émissions audiovisuelles.
 
-II. - Une convention conclue entre le Conseil supérieur de l'audiovisuel et le gouvernement de la Polynésie française associe la Polynésie française à la politique de communication audiovisuelle.
+II. - Une convention conclue entre le Conseil supérieur de l'audiovisuel et le gouvernement de la Polynésie française associe la Polynésie française à la politique de communication audiovisuelle. Cette convention doit être soumise à l'avis de l'assemblée de la Polynésie française.
 
 III. - Le gouvernement de la Polynésie française est consulté en matière de communication audiovisuelle :
 
