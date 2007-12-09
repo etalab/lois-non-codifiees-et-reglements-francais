@@ -90,6 +90,7 @@
 - [Arrêté du 15 décembre 2006 (MCCB0600807A)](arrete-du-15-decembre-2006-mccb0600807a)
 - [Arrêté du 15 décembre 2006 (MJSK0670299A)](arrete-du-15-decembre-2006-mjsk0670299a)
 - [Arrêté du 15 décembre 2006 (PRMX0609775A)](arrete-du-15-decembre-2006-prmx0609775a)
+- [Arrêté du 15 décembre 2006 (SANG0625049A)](arrete-du-15-decembre-2006-sang0625049a)
 - [Arrêté du 15 mai 2006 (SOCT0611077A)](arrete-du-15-mai-2006-soct0611077a)
 - [Arrêté du 16 février 2006 (METF0610390A)](arrete-du-16-fevrier-2006-metf0610390a)
 - [Arrêté du 16 janvier 2006 (SANP0620363A)](arrete-du-16-janvier-2006-sanp0620363a)
