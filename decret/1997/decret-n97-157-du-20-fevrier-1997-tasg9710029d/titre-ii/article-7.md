@@ -1,11 +1,30 @@
 # Article 7
 
-Peuvent être nommés dans un emploi de directeur départemental des affaires sanitaires et sociales :
+<font size="1">Peuvent être nommés dans un emploi de directeur départemental des affaires sanitaires et sociales : </font>
 
-1° Les directeurs adjoints parvenus au 2e échelon de l'emploi ;
+<font size="1">1° Les directeurs adjoints parvenus au moins au 3e échelon de l'emploi ; </font>
 
-2° Les membres du corps de l'inspection de l'action sanitaire et sociale régis par le décret n° 2002-1569 du 24 décembre 2002 ayant atteint au moins le 5e échelon du grade d'inspecteur principal ;
+<font size="1">2° Les membres du corps de l'inspection de l'action sanitaire et sociale régi par le </font>
+<font size="1"/>
+<font size="1">
+décret du 24 décembre 2002
+</font>
+<font size="1"/>
+<font size="1"/>
+<font size="1">susmentionné ayant atteint au moins le 6e échelon du grade d'inspecteur principal ; </font>
 
-3° Les autres fonctionnaires de l'Etat appartenant à un corps dont l'indice terminal est au moins égal à l'indice brut 966 et ayant atteint dans ce corps un échelon doté d'un indice au moins égal à l'indice brut 712 ;
+<font size="1">3° Les fonctionnaires appartenant à un des corps ou cadres d'emplois mentionnés au </font>
+<font size="1">premier alinéa de </font>
+<font size="1">
+l'article 1er du décret du 18 juin 2001
+</font>
+<font size="1"/>
+<font size="1">susmentionné et détenant dans leur corps ou cadre d'emplois l'indice brut 750 ; </font>
 
-4° Les personnels de direction des établissements énumérés aux 1°, 2° et 3° de l'article 2 de la loi du 9 janvier 1986 susvisée appartenant au moins à la 2e classe, à la condition qu'ils aient atteint au moins le 3e échelon de la 2e classe et justifiant d'un minimum de deux ans de services effectifs dans leur corps.
+<font size="1">4° Les membres du corps des personnels de direction régi par le </font>
+<font size="1"/>
+<font size="1">
+décret du 2 août 2005
+</font>
+<font size="1"/>
+<font size="1">susmentionné appartenant à la classe normale, ayant atteint au moins le 5e échelon et justifiant d'un minimum de deux ans de services effectifs dans leur corps.</font>

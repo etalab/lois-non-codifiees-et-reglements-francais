@@ -8,6 +8,6 @@ La durée du temps de services effectifs passé dans chaque échelon pour accéd
 
 - trois ans pour le 4e échelon.
 
-Les directions régionales des affaires sanitaires et sociales sont classées en deux groupes I et II par arrêté du ou des ministres chargés de la santé, de la protection sociale et de l'action sociale.
+Les directions régionales des affaires sanitaires et sociales sont classées en deux groupes I et II  par arrêté conjoint du ou des ministres chargés de la santé, de la protection sociale et de l'action sociale, du ministre chargé du budget et du ministre chargé de la fonction publique.
 
 Peuvent seuls accéder au 5e échelon les directeurs régionaux affectés à une direction classée dans le groupe I.
