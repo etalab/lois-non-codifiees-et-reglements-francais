@@ -4,6 +4,6 @@ Tous les porcins doivent être identifiés avant toute sortie d'un site d'éleva
 
 Tous les porcins importés devront être identifiés dans les 30 jours suivant leur arrivée conformément aux dispositions qui figurent à la partie 3 de l'annexe du présent arrêté.
 
-Le marquage des porcins ne pourra être réalisé qu'avec un matériel autorisé par le ministre chargé de l'agriculture, conformément à la partie 4 de l'annexe du présent arrêté. La liste du matériel autorisé est intégrée dans la partie 4 de l'annexe du présent arrêté.
+Le marquage des porcins ne pourra être réalisé qu'avec un matériel autorisé par le ministre chargé de l'agriculture, conformément à la partie 4 de l'annexe du présent arrêté. La liste du matériel autorisé dans sa version d'octobre 2007 est intégrée dans la partie 4 de l'annexe du présent arrêté.
 
 Par dérogation au présent article, les sangliers d'élevage (Sus scrofa scrofa) sont identifiés selon d'autres méthodes définies par arrêté du ministre chargé de l'agriculture.
