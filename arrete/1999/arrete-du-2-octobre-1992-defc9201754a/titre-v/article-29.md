@@ -1,8 +1,8 @@
 # Article 29
 
-La durée de validité des accords préalables, permis et agréments de transfert est fixée comme suit :
+La durée maximale de validité des accords préalables, permis et agréments de transfert est fixée comme suit :
 
-- accord préalable de transfert : un an ;
+- accord préalable de transfert : un an maximum pour les particuliers mentionnés au 2° des paragraphes 1 et 2 de l'article 28 et deux ans pour les professionnels mentionnés au 1° des paragraphes 1 et 2 du même article ;
 
 - permis de transfert : six mois ;
 
