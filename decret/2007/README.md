@@ -441,6 +441,7 @@
 - [Décret n°2007-1454 du 10 octobre 2007 (IMIN0754426D)](decret-n2007-1454-du-10-octobre-2007-imin0754426d)
 - [Décret n°2007-1455 du 10 octobre 2007 (BCFP0762446D)](decret-n2007-1455-du-10-octobre-2007-bcfp0762446d)
 - [Décret n°2007-1456 du 10 octobre 2007 (BCFP0764371D)](decret-n2007-1456-du-10-octobre-2007-bcfp0764371d)
+- [Décret n°2007-1732 du 10 décembre 2007 (PRMX0773101D)](decret-n2007-1732-du-10-decembre-2007-prmx0773101d)
 - [Décret n°2007-534 du 10 avril 2007 (INDI0700460D)](decret-n2007-534-du-10-avril-2007-indi0700460d)
 - [Décret n°2007-535 du 10 avril 2007 (DOMB0700013D)](decret-n2007-535-du-10-avril-2007-domb0700013d)
 - [Décret n°2007-536 du 10 avril 2007 (DEFD0700390D)](decret-n2007-536-du-10-avril-2007-defd0700390d)
