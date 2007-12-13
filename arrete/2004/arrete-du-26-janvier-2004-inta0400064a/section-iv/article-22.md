@@ -1,3 +1,3 @@
 # Article 22
 
-Le service central des systèmes d'information et de communication est chargé d'équiper les services de l'administration centrale en matériels et logiciels informatiques et de communication, de conseiller et d'assister leurs utilisateurs. Il exploite également les systèmes et applications informatiques nationales nécessaires au fonctionnement opérationnel des services du ministère.
+La sous-direction de l'exploitation et du soutien assure la disponibilité et la chaîne de soutien des systèmes informatiques et de télécommunication nationaux dans le respect de la stratégie ministérielle des systèmes d'information et de communication, de l'état de l'art et des engagements de coûts, délais et qualité.

@@ -1,3 +1,3 @@
 # Article 21
 
-La sous-direction de l'ingénierie, de l'équipement et de l'exploitation est chargée de la conception des réseaux, de leur déploiement, de leur exploitation, et de la mise en oeuvre des infrastructures distribuées. Elle veille à la cohérence d'équipement des services utilisateurs du ministère en matériels et logiciels, et à la sécurité des systèmes d'information dans le cadre des orientations définies par le haut fonctionnaire de défense.
+La sous-direction des études et des projets a pour mission de conduire les projets de réalisation et de déploiement des nouveaux services dans le respect de la stratégie ministérielle des systèmes d'information et de communication, de l'état de l'art et des engagements de coûts, délais et qualité.

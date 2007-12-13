@@ -1,3 +1,5 @@
 # Article 20
 
-La sous-direction des études et des logiciels définit et veille à la mise en oeuvre des principes et des normes d'architecture technique et fonctionnelle garantissant la cohérence et l'évolutivité des systèmes d'information du ministère. Elle est chargée de conduire, en liaison avec les autres directions du ministère, les projets d'applications informatiques et de téléservices depuis leur conception jusqu'à leur mise en exploitation.
+La sous-direction de l'administration générale et de l'achat organise, pilote et met en oeuvre la logistique, la politique des achats, des marchés publics et des finances, en support des activités de la direction des systèmes d'information et de communication et en liaison avec la direction de l'évaluation de la performance et des affaires financières et immobilières.
+
+Concernant les ressources humaines, la sous-direction de l'administration générale et de l'achat, dans le cadre des orientations fixées par la direction des ressources humaines et en liaison étroite avec celle-ci, assure le pilotage opérationnel des ressources humaines de la direction.

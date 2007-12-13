@@ -2,14 +2,14 @@
 
 La direction des systèmes d'information et de communication comprend :
 
-- la mission de la stratégie et du système de pilotage ;
+- le service de la gouvernance des systèmes d'information et de communication ;
 
-- la sous-direction de l'administration générale ;
+- le service de coordination de l'action territoriale ;
 
-- la sous-direction des études et des logiciels ;
+- la sous-direction de l'administration générale et de l'achat ;
 
-- la sous-direction de l'ingénierie, de l'équipement et de l'exploitation ;
+- la sous-direction des études et des projets ;
 
-- le service central des systèmes d'information et de communication.
+- la sous-direction de l'exploitation et du soutien.
 
-Le directeur des systèmes d'information et de communication est assisté d'un adjoint qui le remplace en cas d'absence ou d'empêchement.
+Le directeur des systèmes d'information et de communication est assisté d'un adjoint qui le remplace en cas d'absence ou d'empêchement. Il dispose d'un cabinet.
