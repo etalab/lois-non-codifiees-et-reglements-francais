@@ -406,6 +406,8 @@ Isoroy établissement de Casteljaloux, route du Cocumont, BP 25, 47700 Castel : 
 
 Kaeffer SA Abidos, BP 25, 64170 Lacq : de 1980 à 1999 ;
 
+PONTICELLI agence Sud-Ouest? Lieudit Les Isards, 33810 Ambes / DE 1956 0 1996 ;
+
 Sadefa Industries, 1, avenue de l'Usine, BP 21, 47500 Fumel, de 1847 à 1997 ;
 
 SITUB, chemin des Pardies, 64170 Abidos : de 1958 à 1996 ;
@@ -1064,6 +1066,8 @@ Binet Feutres, Annonay, BP 130, 07430 Davezieux : de 1952 à 1977 ;
 
 Bourrin, 18, Grande-Rue, 42406 Saint-Chamond Cedex : depuis sa création jusqu'en 1996 ;
 
+CARTONNERIES réunies VOISIN ET PASCAL, Usine du Moulin, rue de l'Etissey, 38300 Bourgoin-Jallieu : De 1948 à 1991 ;
+
 Carborundum, 17, rue Antoine-Durafour, 42420 Lorette : de 1964 à 1977.
 
 CECA Saint-Bauzille, CECA, 07210 Saint-Bauzille : de 1960 à 1970.
@@ -1099,6 +1103,8 @@ Loire Fonte Industrie (LFI, ex-Fonderie Jurine), 97, rue de la République, 4250
 Pavailler Equipement, Pavailler BVP, 555, rue Benoît-Frachon, 26800 Portes-lès-Valence, de 1950 à 1996 ;
 
 Prost, puis Prost Lafarge groupe CEC, puis Lafarge réfractaire, puis Piral SA, zone industrielle, 07210 Alissas, de 1969 à 1980 ;
+
+SAVIEM puis RVI, Avenue Ferdinand-Janvier, 07100 Annonay : de 1962 à 1993 ;
 
 Silisol/Omerin, division Silisol SAS, 8, rue Bossuet, puis 11, allée du Couchant, ZI du Bevey, 42100 Saint-Etienne : de 1960 à 1996 ;
 

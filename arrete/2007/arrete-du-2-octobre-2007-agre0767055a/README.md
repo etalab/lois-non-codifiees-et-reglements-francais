@@ -12,4 +12,6 @@
 - [Article 10](article-10.md)
 - [Article 11](article-11.md)
 - [Article 12](article-12.md)
+- [Article Annexe I](article-annexe-i.md)
+- [Article Annexe II](article-annexe-ii.md)
 - [Article Annexe III](article-annexe-iii.md)
