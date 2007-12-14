@@ -644,7 +644,6 @@
 - [Décret n°95-1056 du 21 septembre 1995 (SPSS9502389D)](decret-n95-1056-du-21-septembre-1995-spss9502389d)
 - [Décret n°95-1240 du 21 novembre 1995 (ENVN9530030D)](decret-n95-1240-du-21-novembre-1995-envn9530030d)
 - [Décret n°95-177 du 21 février 1995 (INTB9500038D)](decret-n95-177-du-21-fevrier-1995-intb9500038d)
-- [Décret n°95-182 du 21 février 1995 (AGRS9500097D)](decret-n95-182-du-21-fevrier-1995-agrs9500097d)
 - [Décret n°95-207 du 21 février 1995 (MAEJ9530009D)](decret-n95-207-du-21-fevrier-1995-maej9530009d)
 - [Décret n°95-208 du 21 février 1995 (MAEJ9530007D)](decret-n95-208-du-21-fevrier-1995-maej9530007d)
 - [Décret n°95-209 du 21 février 1995 (MAEJ9530008D)](decret-n95-209-du-21-fevrier-1995-maej9530008d)
