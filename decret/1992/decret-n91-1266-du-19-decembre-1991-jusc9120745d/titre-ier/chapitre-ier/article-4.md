@@ -4,7 +4,7 @@ Sont considérés comme à charge :
 
 1° Le conjoint ou le concubin ou le partenaire d'un pacte civil de solidarité dépourvu de ressources personnelles ;
 
-2° Le descendant qui, au 1er janvier de l'année en cours, est âgé de moins de dix-huit ans ou, s'il poursuit ses études, de moins de vingt-cinq ans, ou qui est titulaire de la carte d'invalidité prévue à l'article 173 du code de la famille et de l'aide sociale et vit sous le toit du demandeur à l'aide juridictionnelle ;
+2° Le descendant qui, au 1er janvier de l'année en cours, est âgé de moins de dix-huit ans ou, s'il poursuit ses études, de moins de vingt-cinq ans, ou qui est titulaire de la carte d'invalidité prévue à l'article L. 241-3 du code de l'action sociale et des familles et vit sous le toit du demandeur à l'aide juridictionnelle ;
 
 3° L'ascendant qui habite avec le demandeur à l'aide juridictionnelle et dont les ressources n'excèdent pas le montant de l'allocation de solidarité aux personnes âgées mentionnée à l'article L. 815-4 du code de la sécurité sociale ou, dans l'hypothèse mentionnée à l'article 2 de l'ordonnance n° 2004-605 du 24 juin 2004, le montant cumulé de l'allocation spéciale vieillesse et de l'allocation supplémentaire mentionnées à cet article ou, s'il ne peut prétendre à ces allocations, le montant du revenu minimum d'insertion.
 
