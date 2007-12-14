@@ -143,7 +143,6 @@
 - [Décret n°2006-1385 du 15 novembre 2006 (EQUA0601805D)](decret-n2006-1385-du-15-novembre-2006-equa0601805d)
 - [Décret n°2006-1387 du 15 novembre 2006 (ECOP0600617D)](decret-n2006-1387-du-15-novembre-2006-ecop0600617d)
 - [Décret n°2006-1599 du 15 décembre 2006 (PRMX0609782D)](decret-n2006-1599-du-15-decembre-2006-prmx0609782d)
-- [Décret n°2006-1609 du 15 décembre 2006 (SOCT0612271D)](decret-n2006-1609-du-15-decembre-2006-soct0612271d)
 - [Décret n°2006-1610 du 15 décembre 2006 (MENF0602670D)](decret-n2006-1610-du-15-decembre-2006-menf0602670d)
 - [Décret n°2006-1611 du 15 décembre 2006 (SANS0624269D)](decret-n2006-1611-du-15-decembre-2006-sans0624269d)
 - [Décret n°2006-1612 du 15 décembre 2006 (SANS0624091D)](decret-n2006-1612-du-15-decembre-2006-sans0624091d)
