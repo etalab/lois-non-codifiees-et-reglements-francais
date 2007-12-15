@@ -9,4 +9,3 @@
 - [TITRE VI : TARIFS](titre-vi)
 - [TITRE VII : CONTROLE - DISPOSITIONS FINALES](titre-vii)
 - [Article 50](article-50.md)
-- [EXERCICE DE LA PROFESSION DE TRANSPORTEUR PUBLIC ROUTIER DES PERSONNES](exercice-de-la-profession-de-transporteur-public-routier-des-personnes)
