@@ -1,0 +1,3 @@
+# Article 7
+
+Jusqu'à la constitution de la nouvelle commission administrative paritaire du corps des secrétaires des affaires étrangères, qui interviendra dans un délai d'un an à compter de la date d'entrée en vigueur du présent décret, les représentants à la commission administrative paritaire du corps des secrétaires des affaires étrangères sont maintenus en fonction. Durant cette période, les représentants des classes de secrétaire des affaires étrangères principal de 1re classe et de secrétaire des affaires étrangères principal de 2e classe représentent le grade de secrétaire des affaires étrangères principal.
