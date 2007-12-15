@@ -1,3 +1,3 @@
 # Article 20
 
-Le classement lors de la nomination dans le corps des secrétaires des affaires étrangères est prononcé conformément aux dispositions du décret n° 2006-1827 du 23 décembre 2006 relatif aux règles du classement d'échelon consécutif à la nomination dans certains corps de catégorie A de la fonction publique de l'Etat.
+Les promotions au grade de secrétaire des affaires étrangères principal prononcées au titre du tableau d'avancement prévu à l'article 24 du décret du 26 septembre 2005 précité représentent au maximum un tiers des promotions prononcées dans ce grade en application des dispositions des articles 23 et 24 du même décret.

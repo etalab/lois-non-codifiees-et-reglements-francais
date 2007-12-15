@@ -1,3 +1,4 @@
 # Article 18
 
-Le corps des secrétaires des affaires étrangères est classé dans la catégorie A prévue à l'article 29 de la loi n° 84-16 du 11 janvier 1984 modifiée portant dispositions statutaires relatives à la fonction publique de l'Etat.
+Le corps des secrétaires des affaires étrangères est régi par les dispositions du
+décret n° 2005-1215 du 26 septembre 2005 portant dispositions statutaires communes applicables aux corps des attachés d'administration et à certains corps analogues et par celles du présent décret.

@@ -1,7 +1,5 @@
 # Article 18-2
 
-Le corps des secrétaires des affaires étrangères comprend :
+Les secrétaires des affaires étrangères exercent leurs fonctions à l'administration centrale et à l'étranger.
 
-- le grade de secrétaire des affaires étrangères principal qui comporte une 1re classe divisée en trois échelons et une 2e classe divisée en sept échelons ;
-
-- le grade de secrétaire des affaires étrangères qui comporte douze échelons.
+Outre les missions prévues à l'article 2 du décret du 26 septembre 2005 précité, les secrétaires des affaires étrangères participent, sous l'autorité des ministres plénipotentiaires et des conseillers des affaires étrangères, à la mise en oeuvre, dans leurs domaines de compétence, de la politique extérieure de la France.

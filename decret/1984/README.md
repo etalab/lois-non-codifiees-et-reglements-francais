@@ -39,7 +39,6 @@
 - [Décret n°84-1090 du 7 décembre 1984](decret-n84-1090-du-7-decembre-1984)
 - [Décret n°84-1111 du 7 décembre 1984](decret-n84-1111-du-7-decembre-1984)
 - [Décret n°84-1118 du 7 décembre 1984](decret-n84-1118-du-7-decembre-1984)
-- [Décret n°84-1127 du 7 décembre 1984](decret-n84-1127-du-7-decembre-1984)
 - [Décret n°84-1147 du 7 décembre 1984](decret-n84-1147-du-7-decembre-1984)
 - [Décret n°80-331 du 7 mai 1980](decret-n80-331-du-7-mai-1980)
 - [Décret n°84-344 du 7 mai 1984](decret-n84-344-du-7-mai-1984)
