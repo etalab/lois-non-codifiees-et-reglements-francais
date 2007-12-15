@@ -1,6 +1,6 @@
 # Article 32
 
-Sont soumis à autorisation les services occasionnels suivants :
+Les services occasionnels de transport public routier de personnes sont les suivants :
 
 - les circuits à la place : il s'agit de services dont chaque place est vendue séparément et qui ramènent, sauf dispositions particulières, les voyageurs à leur point de départ ;
 
