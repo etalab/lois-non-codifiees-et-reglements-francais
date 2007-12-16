@@ -6,7 +6,7 @@ Le conseil d'administration ne peut valablement délibérer que si la moitié de
 
 Lés délibérations du conseil d'administration sont prises à la majorité des membres présents ou représentés. En cas de partage égal des voix, celle du président est prépondérante.
 
-A l'exception de ceux qui peuvent se faire suppléer, les membres du conseil d'administration qui ne peuvent assister à une réunion peuvent donner pouvoir à un autre membre du conseil pour voter en leur nom. Nul ne peut détenir plus de deux pouvoirs.
+A l'exception de ceux qui peuvent se faire suppléer, les membres du conseil d'administration qui ne peuvent assister à une réunion peuvent donner pouvoir à un autre membre du conseil pour voter en leur nom. Nul ne peut détenir plus d'un pouvoir.
 
 Le directeur, l'agent comptable et le membre du corps du contrôle général économique et financier de l'établissement assistent au conseil d'administration avec voix consultative.
 

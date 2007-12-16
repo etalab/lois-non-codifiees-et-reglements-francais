@@ -5,3 +5,7 @@ Le Centre national des arts plastiques a pour mission de soutenir et de promouvo
 Il concourt à l'enrichissement et à la valorisation du patrimoine artistique contemporain de l'Etat par des acquisitions et commandes d'oeuvres d'art plastique et la diffusion de celles-ci.
 
 Il contribue, pour la création contemporaine, à la valorisation et à la transmission des techniques anciennes des métiers d'art et à l'application des technologies et matériaux nouveaux.
+
+Il apporte son soutien aux artistes plasticiens, aux professionnels du secteur de l'art contemporain et au développement de leurs activités.
+
+Il met en oeuvre des actions de formation du public et des professionnels dans son domaine d'activité.
