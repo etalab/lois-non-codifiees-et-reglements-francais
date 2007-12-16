@@ -490,7 +490,6 @@
 - [Arrêté du 12 janvier 1995 (MCCB9500017A)](arrete-du-12-janvier-1995-mccb9500017a)
 - [Arrêté du 12 janvier 1995 (MCCB9500018A)](arrete-du-12-janvier-1995-mccb9500018a)
 - [Arrêté du 12 janvier 1995 (SPSS9500100A)](arrete-du-12-janvier-1995-spss9500100a)
-- [Arrêté du 12 janvier 1995 (TEFE9401285A)](arrete-du-12-janvier-1995-tefe9401285a)
 - [Arrêté du 12 juillet 1995 (AGRP9501382A)](arrete-du-12-juillet-1995-agrp9501382a)
 - [Arrêté du 12 juillet 1995 (DEFT9501820A)](arrete-du-12-juillet-1995-deft9501820a)
 - [Arrêté du 12 juillet 1995 (MENL9501425A)](arrete-du-12-juillet-1995-menl9501425a)
