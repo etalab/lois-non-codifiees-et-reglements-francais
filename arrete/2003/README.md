@@ -347,7 +347,6 @@
 - [Arrêté du 10 octobre 2003 (JUSG0360066A)](arrete-du-10-octobre-2003-jusg0360066a)
 - [Arrêté du 10 octobre 2003 (MENF0302190A)](arrete-du-10-octobre-2003-menf0302190a)
 - [Arrêté du 10 septembre 2003 (ECOT0391191A)](arrete-du-10-septembre-2003-ecot0391191a)
-- [Arrêté du 11 août 2003 (AGRA0301635A)](arrete-du-11-aout-2003-agra0301635a)
 - [Arrêté du 11 août 2003 (AGRA0301636A)](arrete-du-11-aout-2003-agra0301636a)
 - [Arrêté du 11 août 2003 (ECOC0300157A)](arrete-du-11-aout-2003-ecoc0300157a)
 - [Arrêté du 11 août 2003 (MCCB0300576A)](arrete-du-11-aout-2003-mccb0300576a)
