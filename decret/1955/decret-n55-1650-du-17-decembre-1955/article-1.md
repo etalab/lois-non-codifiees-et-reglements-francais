@@ -68,7 +68,7 @@ Haute-Garonne, 1.800 : Toulouse (1.400), Muret (400), Saint-Gaudens (500).
 
 Gers, 1.400 : Auch (700), Condom (800), Mirande (500).
 
-Gironde, 4.700 : Bordeaux (2.100), Blaye et Sainte-Luce (500), Langon (500), Lesparre (500), Libourne (600).
+Gironde, 4.700 : Bordeaux (1.500), Arcachon (600).
 
 Hérault, 1.600 : Montpellier (900), Béziers (900), Lodève (300).
 
