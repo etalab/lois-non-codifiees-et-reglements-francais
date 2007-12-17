@@ -4,7 +4,7 @@ Les vins à appellations d'origine contrôlées "Alsace" et "Alsace grand cru" p
 
 a) Etre issus de raisins récoltés manuellement ;
 
-b) Etre issus d'un cépage unique et être déclarés et vendus avec mention du nom de ce cépage ;
+b) Etre issus d'un cépage unique et être déclarés et vendus avec mention du nom de ce cépage ; Toutefois, les vins à appellation d'origine contrôlées " Alsace " et " Alsace grand cru " issus de vendanges récoltées dans l'aire de production du lieu-dit Kaefferkopf et provenant du cépage Pinot gris G ne peuvent pas être déclarés et présentés avec l'une des mentions particulières " vendanges tardives " ou " sélection de grains nobles ".
 
 c) Etre issus de vendanges de l'un des cépages ci-dessous présentant les richesses naturelles minimales respectives spécifiques suivantes en sucre par litre de moût :
 
@@ -32,7 +32,7 @@ Muscat,
 
 - Mention vendanges tardives : 220 g/l
 
-- Mention Sélection de grains nobles : 246 g/l.
+- Mention Sélection de grains nobles : 256 g/l.
 
 d) N'avoir fait l'objet d'aucun enrichissement, cette condition impliquant la constatation systématique de la richesse en sucre prévue au c ci-dessus de la matière première par l'Institut national de l'origine et de la qualité ;
 
