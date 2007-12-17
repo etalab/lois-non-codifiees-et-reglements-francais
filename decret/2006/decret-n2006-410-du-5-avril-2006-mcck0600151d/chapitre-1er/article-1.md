@@ -1,0 +1,3 @@
+# Article 1
+
+Les inscriptions ou publications mentionnées aux articles 33,33-2 et 33-3 du code de l'industrie cinématographique sont réalisées par le dépôt d'un exemplaire, d'une expédition ou d'une copie de l'acte, de la convention ou du jugement. Le dépôt en vue d'une inscription mentionne le numéro d'ordre attribué à l'oeuvre cinématographique ou audiovisuelle ou au projet dont il s'agit. La copie est certifiée conforme au document original par le requérant. Le conservateur délivre au requérant une copie de l'acte, de la convention ou du jugement inscrit ou publié complétée des références de l'inscription ou de la publication.
