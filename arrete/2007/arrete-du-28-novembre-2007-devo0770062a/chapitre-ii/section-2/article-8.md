@@ -1,0 +1,3 @@
+# Article 8
+
+En cas d'incident lors des travaux, susceptible de provoquer une pollution ou un désordre dans l'écoulement des eaux à l'aval ou à l'amont du site, le déclarant doit prendre toutes les mesures possibles pour y mettre fin, en évaluer les conséquences et y remédier. Les travaux sont interrompus jusqu'à ce que les dispositions nécessaires soient prises pour en éviter le renouvellement. Il en informe dans les meilleurs délais le préfet, le service chargé de la police de l'eau et le maire, intéressés soit du fait du lieu de l'incident, soit du fait des conséquences potentielles de l'incident, notamment en cas de proximité d'une zone de captage pour l'alimentation en eau potable ou d'une zone de baignade.

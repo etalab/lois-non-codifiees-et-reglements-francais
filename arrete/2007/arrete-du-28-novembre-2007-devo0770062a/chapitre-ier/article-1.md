@@ -1,0 +1,3 @@
+# Article 1
+
+Le déclarant d'une opération relevant de la rubrique 3.1.2.0 de la nomenclature annexée au tableau de l'article R. 214-1 du code de l'environnement, relative aux installations, ouvrages, travaux ou activités conduisant à modifier le profil en long ou le profil en travers du lit mineur d'un cours d'eau, à l'exclusion de ceux visés à la rubrique 3.1.4.0, ou conduisant à la dérivation d'un cours d'eau, est tenu de respecter les prescriptions du présent arrêté, sans préjudice de l'application des prescriptions fixées au titre d'autres rubriques de la nomenclature précitée et d'autres législations.

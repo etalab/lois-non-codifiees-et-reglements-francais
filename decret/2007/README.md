@@ -921,6 +921,7 @@
 - [Décret n°2007-1499 du 18 octobre 2007 (AGRF0766935D)](decret-n2007-1499-du-18-octobre-2007-agrf0766935d)
 - [Décret n°2007-1500 du 18 octobre 2007 (MTSS0761662D)](decret-n2007-1500-du-18-octobre-2007-mtss0761662d)
 - [Décret n°2007-1502 du 18 octobre 2007 (SJSG0757938D)](decret-n2007-1502-du-18-octobre-2007-sjsg0757938d)
+- [Décret n°2007-1779 du 18 décembre 2007 (PRMX0773988D)](decret-n2007-1779-du-18-decembre-2007-prmx0773988d)
 - [Décret n°2007-572 du 18 avril 2007 (MENP0700495D)](decret-n2007-572-du-18-avril-2007-menp0700495d)
 - [Décret n°2007-573 du 18 avril 2007 (SANS0720965D)](decret-n2007-573-du-18-avril-2007-sans0720965d)
 - [Décret n° 2007-208 du 19 février 2007 (SOCF0710003D)](decret-n-2007-208-du-19-fevrier-2007-socf0710003d)
