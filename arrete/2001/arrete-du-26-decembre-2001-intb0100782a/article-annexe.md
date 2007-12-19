@@ -858,6 +858,10 @@ CLASSE 6. - COMPTES DE CHARGES
 
 622. Rémunérations d'intermédiaires et honoraires.
 
+6215. Personnel affecté par la collectivité de rattachement.
+
+6218. Autre personnel extérieur.
+
 6225. Indemnités au comptable et aux régisseurs.
 
 6226. Honoraires.
@@ -865,6 +869,8 @@ CLASSE 6. - COMPTES DE CHARGES
 6227. Frais d'actes et de contentieux.
 
 6228. Diverses rémunérations d'intermédiaires.
+
+6287. Remboursements de frais.
 
 623. Publicité, publications, relations publiques.
 
@@ -909,6 +915,10 @@ CLASSE 6. - COMPTES DE CHARGES
 627. Services bancaires et assimilés.
 
 628. Divers.
+
+62871. A la collectivité de rattachement
+
+62872. Au budget annexe.
 
 6281. Concours divers (cotisations).
 
@@ -1044,6 +1054,14 @@ CLASSE 6. - COMPTES DE CHARGES
 
 651. Redevances pour brevets, licences, procédés, droits et valeurs similaires.
 
+652. Déficit ou excédent des budgets annexes à caractère administratif.
+
+6521. Déficits des budgets annexes à caractère administratif.
+
+6522. Reversement de l'excédent des budgets annexes à caractère administratif au budget principal.
+
+6523. Déficit du budget annexe Formation des sapeurs-pompiers professionnels.
+
 653. Indemnités et frais de mission et de formation aux administrateurs et délégués.
 
 6531. Indemnités aux administrateurs et délégués.
@@ -1164,7 +1182,11 @@ CLASSE 7. - COMPTES DE PRODUITS
 
 7083. Locations diverses (autres qu'immeubles).
 
-7084. Mise à disposition de personnel.
+7084. Mise à disposition de personnel facturée.
+
+70841. Au budget annexe.
+
+70848. Autres mise à disposition de personnel.
 
 7085. Contribution des collectivités aux personnels territoriaux privés d'emploi.
 
@@ -1173,6 +1195,10 @@ CLASSE 7. - COMPTES DE PRODUITS
 7087. Remboursements de frais.
 
 7088. Autres produits d'activités (abonnements et ventes d'ouvrages).
+
+70871. Par la collectivité de rattachement.
+
+70872. Par les budgets annexes.
 
 71. Production stockée (ou déstockage).
 
@@ -1211,6 +1237,14 @@ Compte réservé au budget annexe de l'IRL..
 751. Redevances pour concessions, brevets, licences, marques, procédés, droits et valeurs similaires.
 
 752. Revenus des immeubles.
+
+755. Excédent ou déficit des budgets annexes à caractère administratif.
+
+7551. Excédent des budgets annexes à caractère administratif.
+
+7552. Prise en charge du déficit des budgets annexes à caractère administratif par le budget principal.
+
+7553. prise en charge du déficit du budget annexe Formation des sapeurs-pompiers professionnels.
 
 758. Produits divers de gestion courante.
 
