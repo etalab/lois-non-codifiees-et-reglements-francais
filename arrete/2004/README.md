@@ -667,7 +667,6 @@
 - [Arrêté du 22 janvier 2004 (BUDR0404043A)](arrete-du-22-janvier-2004-budr0404043a)
 - [Arrêté du 22 janvier 2004 (BUDR0404044A)](arrete-du-22-janvier-2004-budr0404044a)
 - [Arrêté du 22 janvier 2004 (MAEA0420009A)](arrete-du-22-janvier-2004-maea0420009a)
-- [Arrêté du 22 juillet 1993 (ENVN9320304A)](arrete-du-22-juillet-1993-envn9320304a)
 - [Arrêté du 22 juillet 2004 (AGRP0401699A)](arrete-du-22-juillet-2004-agrp0401699a)
 - [Arrêté du 22 juillet 2004 (DEVP0430272A)](arrete-du-22-juillet-2004-devp0430272a)
 - [Arrêté du 22 juillet 2004 (ECOR0460118A)](arrete-du-22-juillet-2004-ecor0460118a)
