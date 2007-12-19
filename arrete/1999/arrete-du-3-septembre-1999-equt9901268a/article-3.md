@@ -1,13 +1,15 @@
 # Article 3
 
-Les cautions visées à l'article 7 du décret du 5 mars 1990 modifié susvisé sont des garanties accordées :
+Lors de sa demande d'inscription au registre des commissionnaires de transport, l'entreprise établit sa déclaration de capacité financière à l'aide de la fiche de calcul insérée dans le formulaire CERFA n° 12724.
 
-1. Par les banques et établissements de crédit figurant sur la liste établie par le comité des établissements de crédit en application de l'article 15 de la loi n° 84-46 du 24 janvier 1984 relative à l'activité et au contrôle des établissements de crédits.
+Cette fiche est signée par le représentant légal de l'entreprise ainsi que par l'expert-comptable, le commissaire aux comptes ou le centre de gestion agréé. Le cas échéant, elle est accompagnée de la ou des attestations délivrées par le ou les organismes habilités accordant leurs garanties, selon le modèle inséré dans la notice explicative générale CERFA n° 50666.
 
-Dans le cas où une entreprise ressortissante d'un Etat membre de l'Union européenne présente, en application de l'article 14 du décret du 5 mars 1990 modifié susvisé, une garantie d'une banque ou d'un établissement de crédit de l'Union européenne ne figurant pas dans la liste précitée, le préfet de région instructeur du dossier sollicite l'avis des services du ministère chargé de l'économie ;
+Chaque année, dans les trois mois de la clôture de l'exercice comptable, l'entreprise adresse à la direction régionale de l'équipement qui tient le registre des commissionnaires de transport dans laquelle elle est inscrite la fiche de calcul de la condition de capacité financière, selon le formulaire CERFA n° 11415, accompagnée, le cas échéant, de la ou des attestations de garanties, selon le modèle inséré dans la notice explicative générale indiquée à l'alinéa précédent.
 
-2. Par les entreprises d'assurance, en application des articles L. 321, L. 321-9, L. 362-1 et L. 362-2 du code des assurances.
+Les renseignements portés sur cette déclaration sont certifiés exacts par l'expert-comptable, le centre de gestion agréé ou le commissaire aux comptes de l'entreprise.
 
-Les garanties doivent être souscrites pour un montant et une durée déterminés, cette dernière ne pouvant être inférieure à une année.
+Le responsable légal de l'entreprise atteste dans le formulaire CERFA n° 11415 que les éléments reportés dans la fiche de calcul sont visés par une de ces personnes ou par cet organisme.
 
-Les garanties ne peuvent être mises en jeu que suite à la liquidation judiciaire de l'entreprise, par le liquidateur, par lettre recommandée auprès des organismes ayant garanti le commissionnaire de transport. Cet appel de fonds doit intervenir avant la date d'expiration des garanties. Le liquidateur ne peut demander le versement des garanties qu'après constatation de l'insuffisance des actifs réalisés.
+Sur demande écrite de la direction régionale de l'équipement précitée, l'entreprise communique la fiche de calcul dûment visée. De même, elle communique les liasses fiscales (bilans, comptes de résultat et annexes) des trois derniers exercices.
+
+Pour la vérification des éléments indiqués dans la fiche de calcul, l'entreprise met à disposition des agents de l'Etat chargés du contrôle les éléments comptables justificatifs nécessaires.
