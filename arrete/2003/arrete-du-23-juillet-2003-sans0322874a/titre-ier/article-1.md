@@ -1,8 +1,8 @@
 # Article 1
 
-La commission prévue à l'article R. 123-51 du code de la sécurité sociale est composée de deux représentants des agents de direction ou des agents comptables, deux représentants des conseils d'administration et deux représentants du ou des ministres chargés du contrôle.
+La commission prévue à l'article R. 123-51 du code de la sécurité sociale est composée de deux représentants des agents de direction ou des agents comptables, deux représentants des conseils ou des conseils d'administration et deux représentants du ou des ministres chargés du contrôle.
 
-Les représentants des agents de direction ou des agents comptables et ceux des conseils d'administration comprennent des membres titulaires et des membres suppléants. Les membres suppléants sont appelés à siéger en l'absence des membres titulaires et à remplacer ceux dont le siège deviendrait vacant.
+Les représentants des agents de direction ou des agents comptables et ceux des conseils ou des conseils d'administration comprennent des membres titulaires et des membres suppléants. Les membres suppléants sont appelés à siéger en l'absence des membres titulaires et à remplacer ceux dont le siège deviendrait vacant.
 
 Les représentants des agents de direction ou des agents comptables sont répartis en trois groupes, qui sont, respectivement, celui des directeurs, celui des directeurs adjoints et sous-directeurs, et celui des agents comptables. Ne peuvent être appelés à délibérer que les membres représentant le groupe auquel appartient l'agent mis en cause.
 
