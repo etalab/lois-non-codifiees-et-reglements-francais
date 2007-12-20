@@ -4,3 +4,4 @@
 - [Section 2 : Opérations sur titres](section-2)
 - [Section 3 : Dispositions particulières applicables aux marchés à terme](section-3)
 - [Section 4 : Autres dispositions](section-4)
+- [Section 5 : Dispositions applicables à certains compartiments](section-5)
