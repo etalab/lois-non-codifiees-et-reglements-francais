@@ -6,4 +6,4 @@ Lorsque l'émetteur établit des comptes consolidés, ces honoraires sont ceux v
 
 Le communiqué mentionné au premier alinéa est publié selon les modalités fixées à l'article 221-3.
 
-II. - Les dispositions du I ne s'appliquent pas aux émetteurs qui ont réalisé une opération d'admission aux négociations sur un marché réglementé portant sur des instruments financiers mentionnés au 2° du I de l'article L. 211-1 du code monétaire et financier.
+II. - Les dispositions du I ne s'appliquent pas aux émetteurs qui ont réalisé une opération d'admission aux négociations sur un marché réglementé portant sur des instruments financiers mentionnés au 2° du I de l'article L. 211-1 du code monétaire et financier ou d'admission des instruments financiers sur le compartiment mentionné à l'article 516-18.

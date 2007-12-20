@@ -13,3 +13,5 @@ Lorsqu'une ou des personnes morales ou entités, prestataires de services d'inve
 Dans le cas mentionné à l'alinéa précédent, lorsque les diligences professionnelles d'usage sont effectuées par des personnes ou entités qui n'ont pas la qualité de prestataires de services d'investissement, les prestataires de services d'investissement qui sont susceptibles d'intervenir dans l'opération ne sont pas tenus d'attester auprès de l'AMF que ces diligences ont été effectuées.
 
 L'attestation est remise à l'AMF préalablement à la délivrance du visa.
+
+Les dispositions du présent article ne s'appliquent pas au prospectus établi en vue de l'admission d'instruments financiers sur le compartiment mentionné à l'article 516-18.

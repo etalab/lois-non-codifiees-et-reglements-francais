@@ -6,4 +6,4 @@ La signature des personnes physiques ou morales qui assument la responsabilité 
 
 Cette attestation indique également que l'émetteur a obtenu de ses contrôleurs légaux des comptes une lettre de fin de travaux, dans laquelle ils indiquent qu'ils ont mis en oeuvre leur norme professionnelle relative à la vérification des prospectus, comportant une lecture d'ensemble du document. Le cas échéant, l'émetteur mentionne les observations significatives des contrôleurs légaux.
 
-Les dispositions du troisième alinéa du présent article ne s'appliquent pas au prospectus établi en vue de l'admission sur un marché réglementé des instruments financiers mentionnés au 2° du I de l'article L. 211-1 du code monétaire et financier.
+Les dispositions du troisième alinéa du présent article ne s'appliquent pas au prospectus établi en vue de l'admission sur un marché réglementé des instruments financiers mentionnés au 2° du I de l'article L. 211-1 du code monétaire et financier ou en vue de l'admission d'instruments financiers sur le compartiment mentionné à l'article 516-18.

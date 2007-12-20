@@ -26,6 +26,6 @@ c) Pour les instruments financiers non mentionnés au b et admis pour la premiè
 
 d) L'émetteur a satisfait, sur cet autre marché réglementé, à l'ensemble de ses obligations d'information périodique et permanente ;
 
-e) La personne qui sollicite l'admission établit un résumé en français publié et diffusé conformément à l'article 212-27. Dans ce cas, le résumé précise également à quel endroit le prospectus le plus récent peut être obtenu et à quel endroit les informations financières publiées par l'émetteur en application du d sont disponibles.
+e) La personne qui sollicite l'admission établit un résumé en français publié et diffusé conformément à l'article 212-27. La traduction du résumé en français n'est pas nécessaire lorsque l'admission est sollicitée sur le compartiment mentionné à l'article 516-18. Le résumé précise également à quel endroit le prospectus le plus récent peut être obtenu et à quel endroit les informations financières publiées par l'émetteur en application du d sont disponibles.
 
 Une instruction de l'AMF précise, le cas échéant, la nature des renseignements mentionnés au présent article.
