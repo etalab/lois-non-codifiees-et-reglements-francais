@@ -1,3 +1,3 @@
 # Article 4
 
-A l'expiration de chaque exercice, le comptable principal du budget annexe établit le compte financier unique du budget annexe auquel sont annexés les comptes financiers de chacun des comptables secondaires.
+A l'expiration de chaque exercice, le comptable du budget annexe établit le compte financier unique du budget annexe constitué des états financiers de la direction des Journaux officiels et de la direction de la Documentation française.
