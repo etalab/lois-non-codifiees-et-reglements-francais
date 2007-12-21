@@ -20,17 +20,21 @@ La direction de l'administration pénitentiaire comprend :
 
 - le bureau de l'action juridique et du droit pénitentiaire.
 
-3. La sous-direction de l'organisation et du fonctionnement des services déconcentrés, dont les attributions sont réparties en cinq bureaux :
+3. La sous-direction de l'organisation et du fonctionnement des services déconcentrés, dont les attributions sont réparties en cinq bureaux et deux missions :
 
 - le bureau du budget, de la comptabilité et des finances ;
 
 - le bureau de l'organisation des services ;
 
-- le bureau des équipements ;
+- le bureau des affaires immobilières ;
 
-- le bureau de l'informatique ;
+- le bureau des systèmes d'information ;
 
-- le bureau de l'évaluation et du contrôle de gestion.
+- le bureau de l'évaluation, du contrôle de gestion et des achats ;
+
+- la mission pour la gestion déléguée des établissements pénitentiaires ;
+
+- la mission de coordination pour l'ouverture des nouveaux établissements.
 
 4. La sous-direction des ressources humaines et des relations sociales, dont les attributions sont réparties en cinq bureaux :
 
@@ -44,4 +48,4 @@ La direction de l'administration pénitentiaire comprend :
 
 - le bureau de la gestion personnalisée des cadres ;
 
-5.  Le bureau des affaires générales.
+5. Le bureau des affaires générales.
