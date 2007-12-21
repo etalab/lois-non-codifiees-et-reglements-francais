@@ -4,6 +4,8 @@
 
 2.2. Nul ne peut exercer les fonctions d'un membre de l'équipage d'essais ou de réceptions s'il n'est en mesure de justifier qu'il est titulaire d'une licence en cours de validité, comportant toutes qualifications nécessaires.
 
+Ces dispositions ne s'appliquent pas aux personnels mandatés par l'Agence européenne de la sécurité aérienne (EASA) ou toute autre administration nationale étrangère chargée de l'aviation civile qui prennent part, en tant que membres d'équipage, à un vol de certification ou de préparation à la certification, en application de l'article 21A. 33 du règlement (CE) n° 1702 / 2003 de la Commission européenne du 24 septembre 2003.
+
 Les licences et qualifications nécessaires à chacun des membres de l'équipage d'essais ou de réceptions sont déterminées selon l'aéronef, la nature des opérations envisagées et les fonctions exercées à bord.
 
 Elles sont expressément mentionnées dans le manuel d'opérations de l'entreprise ou du service public, fixant notamment la composition des équipages d'essais ou de réceptions.
@@ -37,6 +39,8 @@ Des dérogations aux dispositions du premier alinéa ci-dessus peuvent être acc
 Dans le cas d'aéronefs particuliers ne relevant pas clairement des catégories ci-dessus, le ministre de la défense décide du brevet ou de la licence appropriés.
 
 Les modèles de brevets et licences mentionnés au présent paragraphe sont fixés par décision du ministre de la défense.
+
+2.3. bis. Les brevets et licences des personnels navigants techniques professionnels peuvent cependant permettre l'exercice des fonctions de membre d'équipage, hors commandant de bord, lors de certains vols de classe B, compte tenu de la nature et du niveau de technicité de ces vols.
 
 2.4. Les candidats aux brevets et licences énumérés au paragraphe 2.3 ci-dessus doivent être détenteurs d'un certificat d'aptitude physique et mentale justifiant qu'ils satisfont aux conditions médicales fixées par arrêté conjoint du ministre de la défense et du ministre chargé de l'aviation civile.
 
