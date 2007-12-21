@@ -22,7 +22,6 @@
 - [Arrêté du 1 juin 1999 (DEFD9901597A)](arrete-du-1-juin-1999-defd9901597a)
 - [Arrêté du 1 juin 1999 (DEFD9901598A)](arrete-du-1-juin-1999-defd9901598a)
 - [Arrêté du 1 juin 1999 (MAEF9910033A)](arrete-du-1-juin-1999-maef9910033a)
-- [Arrêté du 1 mars 1999 (ECOU9900005A)](arrete-du-1-mars-1999-ecou9900005a)
 - [Arrêté du 1 mars 1999 (MAEA9920115A)](arrete-du-1-mars-1999-maea9920115a)
 - [Arrêté du 1 mars 2000 (EQUA0000302A)](arrete-du-1-mars-2000-equa0000302a)
 - [Arrêté du 1 septembre 1999 (EQUA9901248A)](arrete-du-1-septembre-1999-equa9901248a)
