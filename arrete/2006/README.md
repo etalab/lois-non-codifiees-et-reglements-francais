@@ -5,7 +5,6 @@
 - [Arrêté du 1 août 2006 (SOCU0611478A)](arrete-du-1-aout-2006-socu0611478a)
 - [Arrêté du 1 décembre 2006 (AGRS0602471A)](arrete-du-1-decembre-2006-agrs0602471a)
 - [Arrêté du 1 mars 2006 (ECOT0526355A)](arrete-du-1-mars-2006-ecot0526355a)
-- [Arrêté du 1 novembre 2006 (ECOP0600719A)](arrete-du-1-novembre-2006-ecop0600719a)
 - [Arrêté du 1 novembre 2006 (ECOP0600722A)](arrete-du-1-novembre-2006-ecop0600722a)
 - [Arrêté du 2 août 2006 (SANH0623119A)](arrete-du-2-aout-2006-sanh0623119a)
 - [Arrêté du 2 août 2006 (SOCA0623232A)](arrete-du-2-aout-2006-soca0623232a)

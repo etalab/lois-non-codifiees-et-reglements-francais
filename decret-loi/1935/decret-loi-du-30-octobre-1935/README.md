@@ -2,7 +2,6 @@
 
 - [Titre Ier : Emission](titre-ier)
 - [Titre II : Masse des obligataires ou porteurs de titres d'emprunts](titre-ii)
-- [Article 3](article-3.md)
 - [Titre III : Dispositions d'ordre pénal.](titre-iii)
 - [Titre IV : Dispositions diverses.](titre-iv)
 - [Article 10](article-10.md)
