@@ -2,7 +2,7 @@
 
 I. - Paragraphe modificateur
 
-II. - Les dispositions du I, à l'exception de celles de l'avant-dernière phrase du troisième alinéa et de celles du quatrième alinéa, du II et du troisième alinéa du D du V de l'article 33 de la loi de financement de la sécurité sociale pour 2004 (n° 2003-1199 du 18 décembre 2003) demeurent applicables, au plus tard jusqu'au 31 décembre 2008, selon des modalités et un calendrier fixés par arrêté des ministres chargés de la santé et de la sécurité sociale.
+II. - Paragraphe abrogé
 
 III.à VI. - Paragraphes modificateurs
 

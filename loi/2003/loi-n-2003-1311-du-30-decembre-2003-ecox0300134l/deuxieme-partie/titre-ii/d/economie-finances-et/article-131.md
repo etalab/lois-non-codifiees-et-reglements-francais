@@ -1,6 +1,6 @@
 # Article 131
 
-I. - Les gains et rémunérations, au sens de l'article L. 242-1 du code de la sécurité sociale et de l'article L. 741-10 du code rural, versés au cours d'un mois civil aux personnes mentionnées au II appartenant aux jeunes entreprises innovantes réalisant des projets de recherche et de développement définies à l'article 44 sexies-0 A du code général des impôts sont exonérés des cotisations à la charge de l'employeur au titre des assurances sociales, des allocations familiales, des accidents du travail et des maladies professionnelles.
+I. - Les gains et rémunérations, au sens de l'article L. 242-1 du code de la sécurité sociale et de l'article L. 741-10 du code rural, versés au cours d'un mois civil aux personnes mentionnées au II appartenant aux jeunes entreprises innovantes réalisant des projets de recherche et de développement définies à l'article 44 sexies-0 A du code général des impôts sont exonérés des cotisations à la charge de l'employeur au titre des assurances sociales et des allocations familiales.
 
 II. - Les cotisations exonérées sont celles qui sont dues au titre, d'une part, des salariés énumérés au III et au titre desquels l'employeur est soumis à l'obligation édictée par l'article L. 351-4 du code du travail et, d'autre part, des mandataires sociaux qui participent, à titre principal, au projet de recherche et de développement de l'entreprise.
 

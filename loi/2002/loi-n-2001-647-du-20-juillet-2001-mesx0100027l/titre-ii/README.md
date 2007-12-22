@@ -1,6 +1,5 @@
 # TITRE II : DISPOSITIONS DIVERSES ET TRANSITOIRES.
 
-- [Article 5](article-5.md)
 - [Article 9](article-9.md)
 - [Article 15](article-15.md)
 - [Article 16](article-16.md)
