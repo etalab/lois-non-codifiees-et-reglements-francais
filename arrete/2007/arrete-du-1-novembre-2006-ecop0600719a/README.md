@@ -5,4 +5,5 @@
 - [II - Missions, tournées et intérims à l'étranger et outre-mer](ii)
 - [III - Stages de formation.](iii)
 - [IV - Dispositions communes.](iv)
+- [Article 32](article-32.md)
 - [Annexes](annexes)

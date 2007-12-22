@@ -32,7 +32,7 @@ n) Qui interdit au locataire d'héberger des personnes ne vivant pas habituellem
 
 o) Qui impose au locataire le versement, lors de l'entrée dans les lieux, de sommes d'argent en plus de celles prévues aux articles 5 et 22 ;
 
-p) Qui fait supporter au locataire des frais de relance ou d'expédition de la quittance ainsi que les frais de procédure en plus des sommes versées au titre des dépens et de l'article 700 du nouveau code de procédure civile ;
+p) Qui fait supporter au locataire des frais de relance ou d'expédition de la quittance ainsi que les frais de procédure en plus des sommes versées au titre des dépens et de l'article 700 du code de procédure civile ;
 
 q) Qui prévoit que le locataire est automatiquement responsable des dégradations constatées dans le logement ;
 

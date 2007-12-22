@@ -17,6 +17,8 @@
 - [LOI n° 2007-1773 du 17 décembre 2007 (DEVX0764674L)](loi-n-2007-1773-du-17-decembre-2007-devx0764674l)
 - [LOI n° 2007-1774 du 17 décembre 2007 (ECEX0763468L)](loi-n-2007-1774-du-17-decembre-2007-ecex0763468l)
 - [LOI n° 2007-1775 du 17 décembre 2007 (ECEX0710947L)](loi-n-2007-1775-du-17-decembre-2007-ecex0710947l)
+- [LOI n° 2007-1786 du 19 décembre 2007 (BCFX0766311L)](loi-n-2007-1786-du-19-decembre-2007-bcfx0766311l)
+- [LOI n° 2007-1787 du 20 décembre 2007 (BCFX0710942L)](loi-n-2007-1787-du-20-decembre-2007-bcfx0710942l)
 - [Loi n° 2007-209 du 19 février 2007 (INTX0500294L)](loi-n-2007-209-du-19-fevrier-2007-intx0500294l)
 - [Loi n° 2007-210 du 19 février 2007 (ECOX0709966L)](loi-n-2007-210-du-19-fevrier-2007-ecox0709966l)
 - [Loi n° 2007-211 du 19 février 2007 (JUSX0609640L)](loi-n-2007-211-du-19-fevrier-2007-jusx0609640l)
