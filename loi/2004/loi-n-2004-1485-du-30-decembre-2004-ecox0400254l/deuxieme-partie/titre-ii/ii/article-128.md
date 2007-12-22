@@ -1,6 +1,6 @@
 # Article 128
 
-I. - Lorsque le comptable du Trésor public est autorisé par des dispositions législatives ou réglementaires à procéder au recouvrement forcé d'une créance ou d'une condamnation pécuniaire, il peut, préalablement à la mise en oeuvre de toute procédure coercitive, demander à un huissier de justice d'obtenir du débiteur ou du condamné qu'il s'acquitte entre ses mains du montant de sa dette ou de sa condamnation pécuniaire.
+I.-Lorsque le comptable du Trésor public est autorisé par des dispositions législatives ou réglementaires à procéder au recouvrement forcé d'une créance ou d'une condamnation pécuniaire, il peut, préalablement à la mise en oeuvre de toute procédure coercitive, demander à un huissier de justice d'obtenir du débiteur ou du condamné qu'il s'acquitte entre ses mains du montant de sa dette ou de sa condamnation pécuniaire.
 
 Les frais de recouvrement sont versés directement par le débiteur ou le condamné à l'huissier de justice.
 
@@ -8,9 +8,9 @@ Le montant des frais, qui restent acquis à l'huissier de justice, est calculé 
 
 Le montant des frais bancaires afférents à cette opposition, perçu par les banques, ne peut dépasser 10 % du montant dû au Trésor public.
 
-II. - Le recouvrement par le Trésor public des amendes et condamnations pécuniaires peut être assuré par voie d'opposition administrative adressée aux personnes physiques ou morales qui détiennent des fonds pour le compte du redevable, qui ont une dette envers lui ou qui lui versent une rémunération.
+II.-Le recouvrement par le Trésor public des amendes et condamnations pécuniaires peut être assuré par voie d'opposition administrative adressée aux personnes physiques ou morales qui détiennent des fonds pour le compte du redevable, qui ont une dette envers lui ou qui lui versent une rémunération.
 
-1. Le Trésor public notifie cette opposition administrative au redevable en même temps qu'elle est adressée au tiers détenteur.
+1. Le Trésor public notifie cette opposition administrative au redevable en même temps qu'elle est adressée au tiers détenteur.L'exemplaire de l'opposition administrative qui est destiné au redevable doit comporter, à peine de nullité, la nature de l'amende ainsi que la date de l'infraction s'il s'agit d'une amende forfaitaire majorée, ou la date de la décision de justice dans les autres cas.
 
 2. Le destinataire de l'opposition administrative est tenu de rendre les fonds qu'il détient indisponibles à concurrence du montant de l'amende ou de la condamnation pécuniaire.
 
@@ -18,7 +18,7 @@ L'opposition administrative emporte l'effet d'attribution immédiate prévu à l
 
 Les fonds doivent être reversés, dans les trente jours qui suivent la réception de l'opposition administrative, par le tiers détenteur au Trésor public sous peine de se voir réclamer cette somme majorée du taux d'intérêt légal. Le paiement consécutif à une opposition administrative libère à due concurrence la personne qui l'a effectué à l'égard du redevable de l'amende ou de la condamnation pécuniaire.
 
-3. L'effet de l'opposition administrative s'étend aux créances conditionnelles ou à terme. Dans ce cas, les fonds sont versés au Trésor public lorsque ces créances deviennent exigibles.
+3.L'effet de l'opposition administrative s'étend aux créances conditionnelles ou à terme. Dans ce cas, les fonds sont versés au Trésor public lorsque ces créances deviennent exigibles.
 
 Lorsqu'une personne est simultanément destinataire de plusieurs oppositions administratives établies au nom du redevable, elle doit, en cas d'insuffisance des fonds, exécuter ces demandes en proportion de leurs montants respectifs. Si les fonds détenus ou dus par le destinataire de l'opposition administrative sont indisponibles entre ses mains, il doit en aviser le Trésor public dès sa réception.
 

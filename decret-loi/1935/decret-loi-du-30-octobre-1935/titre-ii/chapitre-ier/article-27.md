@@ -1,0 +1,3 @@
+# Article 27
+
+Les représentants de la masse peuvent être désignés ou remplacés en cas d'urgence par le président du tribunal de grande instance statuant par voie d'ordonnance non susceptible de recours, à la requête de la société ou de la collectivité débitrice dans le cas où l'assemblée générale des obligataires régulièrement convoquée n'a pas désigné de représentant, ou à la requête d'un ou plusieurs obligataires ou porteurs de titres d'emprunt, possédant soit 1/30e du montant des titres émis ou introduits en France, soit 1/20e des titres en circulation en France ou à la requête du conseil des bourses de valeurs.

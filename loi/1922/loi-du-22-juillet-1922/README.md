@@ -1,4 +1,4 @@
-# Loi du 22 juillet 1922 relative aux retraites des agents des chemins de fer secondaires d'intérêt général, des chemins de fer d'intérêt local et des tramways.
+# Loi du 22 juillet 1922 supprimant dans les actes de naissance des enfants naturels les mentions relatives au père ou à la mère, lorsque ceux-ci sont inconnus ou non dénommés.
 
 - [Paragraphe 1er : Principes généraux](paragraphe-1er)
 - [Paragraphe II : Affiliation.](paragraphe-ii)

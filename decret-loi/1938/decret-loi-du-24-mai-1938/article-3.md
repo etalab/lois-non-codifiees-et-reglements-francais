@@ -1,7 +1,0 @@
-# Article 3
-
-Le total [*maximum*] des avances pouvant être consenties par l'Etat au crédit d'équipement des petites et moyennes entreprises en vertu du présent décret ne pourra excéder 65 millions de francs, somme représentant la différence entre le montant global de 100 millions et le montant des ressources déjà accordées par l'article 65 de la loi de finances du 31 décembre 1937 susvisée.
-
-Le ministre des finances est autorisé à se procurer les fonds nécessaires au moyen d'avances qui pourront être faites au Trésor par la Caisse des dépôts et consignations, soit sur les fonds de ses comptes propres, soit sur ceux des caisses dont elle a la gestion. Ces avances amortissables dans un délai de 10 ans au maximum seront représentées par des titres d'annuités dont les intérêts seront réglés trimestriellement au taux moyen du revenu ressortant de l'ensemble des placements de fonds effectués par la Caisse des dépôts et consignations pour son propre compte et pour le compte de la Caisse nationale des retraites pour la vieillesse, de la Caisse nationale d'assurance en cas de décès, de la Caisse nationale d'Epargne et des Caisses d'épargne ordinaires pendant le trimestre précédant la réalisation des prêts à l'exception des emplois à court terme.
-
-Les annuités prévues au paragraphe précédent seront inscrites au budget du ministère des finances sous la rubrique : "Dette remboursable par annuités".

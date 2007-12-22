@@ -1,5 +1,5 @@
 # Article 11
 
-Les conflits entre la législation commerciale française et la législation commerciale locale, maintenue en vigueur par la présente loi, continuent à être réglés par la loi du 24 juillet 1921.
+Les déterminations en marks dans les textes législatifs du droit local maintenus en vigueur sont remplacées par des déterminations en francs sur la base d'équivalence : 1 Mark égale 1,25 F.
 
-Toutefois, ne peuvent être stipulées, même par voie d'option pour la législation française, des clauses prohibées par le droit local maintenu en vigueur.
+Sont remplacées les expressions "territoire allemand" par "territoire français", "nationalité allemande" par "nationalité française", "président de département" par "préfet", "directeur d'arrondissement" par "sous-préfet", "Banque d'Empire" par "Banque de France" et "établissements allemands" par "établissements français". La mention des Etats allemands est supprimée. Les formes judiciaires sont remplacées par les formes notariées.
