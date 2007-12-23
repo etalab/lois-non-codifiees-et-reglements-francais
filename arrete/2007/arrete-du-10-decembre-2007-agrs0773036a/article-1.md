@@ -1,0 +1,3 @@
+# Article 1
+
+Les présidents des conseils de direction pléniers de l'Office national interprofessionnel des grandes cultures (ONIGC), de l'Office national interprofessionnel de l'élevage et de ses productions (Office de l'élevage) et de l'Office national interprofessionnel des fruits, des légumes, des vins et de l'horticulture (VINIFLHOR), ainsi que les présidents des conseils de direction de l'Office national interprofessionnel des produits de la mer et de l'aquaculture (OFIMER), de l'Office national interprofessionnel des plantes à parfum, aromatiques et médicinales (ONIPPAM) et de l'Office de développement de l'économie agricole des départements d'outre-mer (ODEADOM) reçoivent une indemnité de fonction d'un montant brut et forfaitaire de 8 086  par an.
