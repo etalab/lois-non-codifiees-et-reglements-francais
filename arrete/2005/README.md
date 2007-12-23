@@ -581,7 +581,6 @@
 - [Arrêté du 24 février 2005 (SOCF0510316A)](arrete-du-24-fevrier-2005-socf0510316a)
 - [Arrêté du 24 février 2005 (SOCF0510317A)](arrete-du-24-fevrier-2005-socf0510317a)
 - [Arrêté du 24 janvier 2005 (AGRG0500231A)](arrete-du-24-janvier-2005-agrg0500231a)
-- [Arrêté du 24 janvier 2005 (EQUA0500177A)](arrete-du-24-janvier-2005-equa0500177a)
 - [Arrêté du 24 janvier 2005 (FPPA0400150A)](arrete-du-24-janvier-2005-fppa0400150a)
 - [Arrêté du 24 janvier 2005 (MENF0500035A)](arrete-du-24-janvier-2005-menf0500035a)
 - [Arrêté du 24 janvier 2005 (MENF0500036A)](arrete-du-24-janvier-2005-menf0500036a)
