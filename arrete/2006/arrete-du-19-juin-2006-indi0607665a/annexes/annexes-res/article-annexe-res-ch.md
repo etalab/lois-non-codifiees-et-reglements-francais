@@ -1,40 +1,89 @@
 # Article Annexe RES-CH
 
-Certificats d'économies d'énergie
-
-Opération n° RES-CH-01
-
-Production de chaleur renouvelable en réseau
-
-(France métropolitaine)
+<div align="left">Certificats d'économies d'énergie <p>Opération n° RES-CH-01</p>
+<p>Production de chaleur renouvelable en réseau<br/>(France métropolitaine)<br/>
+</p>
+</div>
 
 1. Secteur d'application :
 
-Bâtiment résidentiel collectif et bâtiment tertiaire en France métropolitaine.
+Bâtiment résidentiel collectif et  bâtiment tertiaire existant en France métropolitaine.
 
-2. Dénomination :
+2.  Dénomination :
 
-Mise  en place d'un système de production de chaleur renouvelable  (géothermie, incinération, bois-énergie, biogaz, chaleur  industrielle...) sur un réseau de chaleur.
+Mise  en place d'un système de production de chaleur  renouvelable  (géothermie, incinération, bois-énergie, biogaz, chaleur   industrielle...) sur un réseau de chaleur.
 
-3. Conditions pour la délivrance de certificats :
+3. Conditions pour la  délivrance de certificats :
 
-Cette  fiche s'applique aux installations non soumises à la directive  2003/87/CE établissant un système d'échange de quotas d'émissions de gaz  à effet de serre.
+Cette  opération s'applique aux  installations non soumises à la directive  2003/87/CE établissant un système  d'échange de quotas d'émissions de  gaz à effet de serre.
 
-On utilise pour la chaleur renouvelable nette  la définition retenue dans le décret n° 99-360 du 5 mai 1999 portant sur  les réseaux classés de distribution de chaleur et de froid qui intègre à  la fois les énergies renouvelables et de récupération.
+Le réseau  de chaleur peut  alimenter également des bâtiments neufs, non concernés par cette   opération. Le pourcentage de bâtiments existants alimentés par le réseau  doit  être fourni.
 
-La chaleur  renouvelable nette sera déterminée par une étude spécifique. Le terme  kWhth est égal au nombre de kWh renouvelables net produits et valorisés  par an par l'installation.
+On utilise pour la chaleur renouvelable nette la  définition retenue dans le décret n° 99-360 du 5 mai 1999  portant sur les réseaux classés de distribution  de chaleur et de froid  qui intègre à la fois les énergies renouvelables et de  récupération.
 
-4. Durée de vie conventionnelle :
+La  chaleur renouvelable nette sera déterminée par  une étude spécifique.  Le terme kWhth est égal au nombre de kWh renouvelables net  produits et  valorisés par an par l'installation.
 
-Pour les sources d'énergie bois-énergie et biogaz : 15 ans.
+4. Durée de vie  conventionnelle :
 
-Pour les sources d'énergie UIOM-déchets, géothermie et autres : 20 ans.
+Pour les sources d'énergie bois-énergie et  biogaz : 15 ans.
 
-5. Montant de certificats en kWh cumac :
+Pour les sources d'énergie UIOM-déchets,  géothermie et autres : 20 ans.
 
-Vous pouvez consulter le tableau dans le JO
+5. Montant de certificats en kWh  cumac :
 
-n° 156 du 07/07/2006 texte numéro 28
+<div align="center">
+
+<table>
+<tbody>
+<tr>
+<th>SOURCE D'ÉNERGIE<br/>
+</th>
+<th>COEFFICIENT cumac<br/>
+</th>
+<th>
+<br/>
+</th>
+<th>CHALEUR RENOUVELABLE<br/>nette/an<br/>
+</th>
+<th>
+<br/>
+</th>
+<th>
+<br/>
+</th>
+</tr>
+<tr>
+<td align="center">Bois-Energie ― Biogaz<br/>
+</td>
+<td align="center">11,563<br/>
+</td>
+<td align="center" rowspan="2">
+<b>X<br/>
+</b>
+</td>
+<td align="center">kWhth<br/>
+</td>
+<td align="center" rowspan="2">
+<b>X<br/>
+</b>
+</td>
+<td align="center">C<br/>
+</td>
+</tr>
+<tr>
+<td align="center">UIOM ― Déchets ― Géothermie ― Autres<br/>
+</td>
+<td align="center">14,134<br/>
+</td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+</tbody>
+</table>
+
+</div>
+
+C = pourcentage de la surface des bâtiments existants alimentés sur  l'ensemble des bâtiments alimentés par le réseau.
 
 Certificats d'économies d'énergie
 
@@ -149,7 +198,3 @@ Vous pouvez consulter le tableau dans le JO
 n° 303 du 31/12/2006 texte numéro 60
 
 (1) Le facteur correctif est déterminé à partir soit du nombre de pièces principales, soit de la surface habitable.
-
-<div align="left">
-<br/>
-</div>
