@@ -402,7 +402,6 @@
 - [Décret n°93-400 du 18 mars 1993 (INTB9300130D)](decret-n93-400-du-18-mars-1993-intb9300130d)
 - [Décret n°93-403 du 18 mars 1993 (INTB9300133D)](decret-n93-403-du-18-mars-1993-intb9300133d)
 - [Décret n°93-411 du 18 mars 1993 (MENB9300045D)](decret-n93-411-du-18-mars-1993-menb9300045d)
-- [Décret n°93-414 du 18 mars 1993 (EQUP9300064D)](decret-n93-414-du-18-mars-1993-equp9300064d)
 - [Décret n°93-424 du 18 mars 1993 (BUDF9200056D)](decret-n93-424-du-18-mars-1993-budf9200056d)
 - [Décret n°93-426 du 18 mars 1993 (SPSS9300370D)](decret-n93-426-du-18-mars-1993-spss9300370d)
 - [Décret n°93-429 du 18 mars 1993 (MENZ9304597D)](decret-n93-429-du-18-mars-1993-menz9304597d)
