@@ -1,5 +1,5 @@
 # Article 2
 
-Les superficies des territoires communaux ayant vocation à être classés en coeur du parc national de la Réunion et en coeur du parc amazonien de Guyane seront calculées à partir de la délimitation figurant sur la carte devant être annexée au décret de création du parc national.
+Les superficies classées en coeur du parc national de la Réunion sont calculées par l'Institut géographique national à partir de sa base de données BD TOPO.
 
-Le calcul des superficies des territoires communaux ayant vocation à être classés en coeur du parc amazonien de Guyane prendra en compte les effets de la sphéricité de la Terre.
+Les superficies classées en coeur du parc amazonien de Guyane sont calculées par l'Institut géographique national à partir de sa base de données BD CARTO en prenant en compte les effets de la sphéricité de la Terre.

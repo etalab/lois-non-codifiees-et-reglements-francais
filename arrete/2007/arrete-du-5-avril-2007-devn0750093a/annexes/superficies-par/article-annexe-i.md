@@ -1125,9 +1125,7 @@
 </tr>
 <tr>
 <td colspan="3">
-<div align="center">
 <br/>
-</div>
 <div align="center">Savoie</div>
 </td>
 </tr>
@@ -1433,6 +1431,230 @@
 </td>
 <td align="center">
 <p>2 403,00 </p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<br/>
+<div align="center"> Guyane</div>
+</td>
+</tr>
+<tr>
+<td> 97 352 </td>
+<td> Saul. <br/>
+</td>
+<td align="center"> 103 425,00 </td>
+</tr>
+<tr>
+<td> 97 353 </td>
+<td> Maripasoula.</td>
+<td align="center"> 800 552,00 </td>
+</tr>
+<tr>
+<td> 97 356 </td>
+<td> Camopi. <br/>
+</td>
+<td align="center"> 856 686,00 </td>
+</tr>
+<tr>
+<td> 97 358 </td>
+<td> Saint-Elie. <br/>
+</td>
+<td align="center"> 127 371,00 </td>
+</tr>
+<tr>
+<td> 97 362 </td>
+<td> Papaichton. </td>
+<td align="center"> 77 869,00 <br/>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<br/>
+<div align="center"> Réunion </div>
+</td>
+</tr>
+<tr>
+<td> 97 401 </td>
+<td> Les Avirons.</td>
+<td align="center"> 984,84 </td>
+</tr>
+<tr>
+<td> 97 402 </td>
+<td> Bras-Panon. </td>
+<td align="center"> 5 174,47 </td>
+</tr>
+<tr>
+<td> 97 403 </td>
+<td> Entre-Deux. <br/>
+</td>
+<td align="center"> 2 834,83 <br/>
+</td>
+</tr>
+<tr>
+<td> 97 404 <br/>
+</td>
+<td> L'Etang-Salé. <br/>
+</td>
+<td>
+<div align="center"> 642,23 </div>
+<br/>
+</td>
+</tr>
+<tr>
+<td> 97 405 <br/>
+</td>
+<td> Petite-Ile.<br/>
+</td>
+<td align="center"> 162,81 <br/>
+</td>
+</tr>
+<tr>
+<td> 97 406 <br/>
+</td>
+<td> La Plaine-des-Palmistes. <br/>
+</td>
+<td align="center"> 5 654,53 <br/>
+</td>
+</tr>
+<tr>
+<td> 97 408 <br/>
+</td>
+<td> La Possession. <br/>
+</td>
+<td align="center"> 8 215,67 <br/>
+</td>
+</tr>
+<tr>
+<td> 97 409 <br/>
+</td>
+<td> Saint-André.<br/>
+</td>
+<td>
+<div align="center"> 245,06 </div>
+<br/>
+</td>
+</tr>
+<tr>
+<td> 97 410 <br/>
+</td>
+<td> Saint-Benoît.<br/>
+</td>
+<td align="center"> 13 495,02 <br/>
+</td>
+</tr>
+<tr>
+<td> 97 411 <br/>
+</td>
+<td> Saint-Denis.<br/>
+</td>
+<td>
+<div align="center"> 6 064,10 </div>
+<br/>
+</td>
+</tr>
+<tr>
+<td> 97 412 <br/>
+</td>
+<td> Saint-Joseph.<br/>
+</td>
+<td align="center"> 8 402,42 <br/>
+</td>
+</tr>
+<tr>
+<td> 97 413 <br/>
+</td>
+<td> Saint-Leu. <br/>
+</td>
+<td align="center"> 1 909,90 <br/>
+</td>
+</tr>
+<tr>
+<td> 97 414 <br/>
+</td>
+<td> Saint-Louis. <br/>
+</td>
+<td align="center"> 3 157,26 <br/>
+</td>
+</tr>
+<tr>
+<td> 97 415 <br/>
+</td>
+<td> Saint-Paul. <br/>
+</td>
+<td align="center"> 5 783,21 <br/>
+</td>
+</tr>
+<tr>
+<td> 97 416 <br/>
+</td>
+<td> Saint-Pierre. <br/>
+</td>
+<td align="center"> 171,84 <br/>
+</td>
+</tr>
+<tr>
+<td> 97 417 <br/>
+</td>
+<td> Saint-Philippe.<br/>
+</td>
+<td align="center"> 11 700,47 <br/>
+</td>
+</tr>
+<tr>
+<td> 97 418 <br/>
+</td>
+<td> Sainte-Marie.<br/>
+</td>
+<td align="center"> 2 728,77 <br/>
+</td>
+</tr>
+<tr>
+<td> 97 419 <br/>
+</td>
+<td> Sainte-Rose.<br/>
+</td>
+<td align="center"> 13 355,80 <br/>
+</td>
+</tr>
+<tr>
+<td> 97 420 <br/>
+</td>
+<td> Sainte-Suzanne. <br/>
+</td>
+<td align="center"> 801,19 <br/>
+</td>
+</tr>
+<tr>
+<td> 97 421 <br/>
+</td>
+<td> Salazie.<br/>
+</td>
+<td align="center"> 5 178,15 <br/>
+</td>
+</tr>
+<tr>
+<td> 97 422 <br/>
+</td>
+<td> Le Tampon. <br/>
+</td>
+<td align="center"> 3 360,85 <br/>
+</td>
+</tr>
+<tr>
+<td> 97 423 <br/>
+</td>
+<td> Les Trois-Bassins. <br/>
+</td>
+<td align="center"> 1 066,47 <br/>
+</td>
+</tr>
+<tr>
+<td> 97 424 <br/>
+</td>
+<td> Cilaos.<br/>
+</td>
+<td align="center"> 4 294,48<br/>
 </td>
 </tr>
 </tbody>

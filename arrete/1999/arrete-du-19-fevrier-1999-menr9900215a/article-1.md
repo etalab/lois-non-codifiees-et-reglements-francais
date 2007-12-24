@@ -11,3 +11,5 @@ Les électeurs à chacune des commissions de gestion de la recherche et de ses a
 Chacune de ces commissions est composée de quatre membres élus appartenant au collège I, trois membres élus appartenant au collège II, six membres élus appartenant au collège III et de treize membres nommés par le directeur général de l'institut.
 
 Le mandat de ces membres est d'une durée de quatre ans, non renouvelable dans l'une quelconque des commissions de la mandature suivante.
+
+Le mandat des membres élus débute à la date de nomination des membres nommés.
