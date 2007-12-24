@@ -8,15 +8,13 @@ Le conseil d'administration comprend, outre le président :
 
 1° Quatre représentants de l'Etat :
 
-- un représentant du ministre chargé des mines ;
+- le directeur des ressources énergétiques et minérales ou son représentant ;
 
-- un représentant du ministre chargé du budget ;
+- le directeur du budget ou son représentant ;
 
-- un représentant du ministre chargé de la sécurité sociale ;
+- le directeur de la sécurité sociale ou son représentant ;
 
-- un représentant du ministre chargé du logement.
-
-Les représentants de l'Etat sont nommés par arrêtés des ministres compétents.
+- le directeur général de l'urbanisme, de l'habitat et de la construction ou son représentant.
 
 2° Cinq représentants des anciens mineurs et ardoisiers désignés par leurs organisations syndicales représentatives. Pour chaque siège de cette catégorie de membres, un suppléant est désigné en même temps que le titulaire.
 
