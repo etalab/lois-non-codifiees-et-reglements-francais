@@ -1,7 +1,7 @@
 # Article 3 bis
 
-La commission de réforme compétente peut émettre un avis favorable à la réintégration d'un ouvrier après une période de congé de longue maladie ou de travail à mi-temps, afin de favoriser soit l'amélioration de son état de santé, soit sa rééducation ou sa réadaptation professionnelle.
+La commission de réforme compétente peut émettre un avis favorable à la réintégration à temps partiel d'un ouvrier après une période de six mois consécutifs de congé de maladie pour une même affection, après un congé de longue maladie ou un congé de longue durée, afin de favoriser soit l'amélioration de son état de santé, soit sa rééducation ou sa réadaptation professionnelle.
 
-L'ouvrier est alors réintégré à mi-temps pour une durée de trois mois renouvelable une fois.
+L'ouvrier est alors réintégré à temps partiel pour une période de trois mois renouvelable dans la limite d'un an pour une même affection et perçoit pendant cette période l'intégralité de son salaire.
 
-Il perçoit dans cette situation l'intégralité de son salaire. Cette possibilité de travail à mi-temps ne peut être donnée que pour une durée totale d'un an sur l'ensemble de la carrière, par maladie ayant ouvert le droit au congé de longue durée ou de longue maladie.
+Ce temps partiel thérapeutique ne peut, en aucun cas, être inférieur au mi-temps.
