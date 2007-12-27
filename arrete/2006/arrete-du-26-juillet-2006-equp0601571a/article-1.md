@@ -12,7 +12,7 @@ Le haut fonctionnaire de défense.
 
 Le chef du service des effectifs et du budget, adjoint à la directrice générale du personnel et de l'administration.
 
-La directrice générale du personnel et de l'administration.
+L'inspecteur général du travail des transports.
 
 Le directeur général de l'urbanisme, de l'habitat et de la construction.
 
@@ -38,7 +38,7 @@ Le président de la première section du Conseil général des ponts et chaussé
 
 L'inspecteur général des services des affaires maritimes.
 
-Le directeur général adjoint de la direction générale de l'administration.
+La chef du service des affaires financières et du contrôle de gestion de la direction générale de l'administration.
 
 Le secrétaire général de la direction générale de l'aviation civile.
 
