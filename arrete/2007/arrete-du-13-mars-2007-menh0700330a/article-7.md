@@ -1,6 +1,6 @@
 # Article 7
 
-L'épreuve pratique d'admission du concours externe est la suivante :
+L'épreuve pratique d'admission du concours externe, d'une durée de quatre heures, est la suivante :
 
 Spécialité A. - Sciences de la vie et de la Terre et biotechnologie
 
