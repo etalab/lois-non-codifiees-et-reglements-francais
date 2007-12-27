@@ -4,13 +4,13 @@ Actions éligibles aux programmes opérationnels.
 
 1. Sont éligibles les coûts et dépenses figurant à l'annexe II du présent arrêté, sous réserve, pour les investissements éligibles au titre du plan de développement rural (PDR) 2007-2013 qu'il n'y ait aucun double financement :
 
-- pour les investissements collectifs de l'organisation de producteurs avec la mesure "123 investissements" (et plus particulièrement le dispositif A en ce qui concerne le PDR Hexagonal) ;
+-pour les investissements collectifs de l'organisation de producteurs avec la mesure " 123 investissements " (et plus particulièrement le dispositif A en ce qui concerne le PDR Hexagonal) ;
 
-- pour les investissements sur les exploitations particulières avec la mesure "121 modernisations" (et plus particulièrement les dispositifs B et C en ce qui concerne le PDR Hexagonal).
+-pour les investissements sur les exploitations particulières avec la mesure " 121 modernisations " (et plus particulièrement les dispositifs B et C en ce qui concerne le PDR Hexagonal).
 
-Le choix de l'articulation avec le PDR se fait au niveau de l'organisation de producteurs et non au niveau de chaque producteur.
+Le choix de l'articulation avec le PDR se fait au niveau de l'organisation de producteurs et non au niveau de chaque producteur.L'organisation de producteurs peut cependant, pour des raisons dûment justifiées, adapter l'articulation par groupe d'adhérents appartenant à une même circonscription administrative (région, voire département).
 
-Si un acompte permettant de réserver un investissement est versé en année N - 1 à un fournisseur, mais que l'investissement est bien réalisé en année N et que la facture finale (récapitulant l'acompte + le solde) date de l'année N, le débit relatif à l'acompte (N - 1) est accepté pour le fonds opérationnel de l'année N.
+Si un acompte permettant de réserver un investissement est versé en année N-1 à un fournisseur, mais que l'investissement est bien réalisé en année N et que la facture finale (récapitulant l'acompte + le solde) date de l'année N, le débit relatif à l'acompte (N-1) est accepté pour le fonds opérationnel de l'année N.
 
 Sauf lorsqu'ils sont couverts par l'annexe II, les coûts et dépenses figurant en annexe III du présent arrêté ne sont pas éligibles.
 
@@ -44,25 +44,25 @@ L'ensemble des sommes forfaitaires prises en compte ne doit pas dépasser 20 % d
 
 Ce montant est porté à 50 % pour les organisations de producteurs mettant en oeuvre l'un des forfaits suivants :
 
-- traçabilité des produits ;
+-traçabilité des produits ;
 
-- production intégrée ;
+-production intégrée ;
 
-- amélioration du potentiel variétal ;
+-amélioration du potentiel variétal ;
 
-- obtention et/ou maintien de la certification ;
+-obtention et / ou maintien de la certification ;
 
-- système de conduite et de taille.
+-système de conduite et de taille.
 
 Seuls des montants forfaitaires se rapportant à une ou plusieurs des cinq actions prioritaires listées ci-dessus peuvent être imputés au-delà du plafond de 20 % (2).
 
 6. Dans le cadre des coûts spécifiques, une base forfaitaire peut être retenue pour déterminer le montant des surcoûts. Cette base forfaitaire est établie selon les modalités suivantes :
 
-- elle est proposée par le comité économique agricole ;
+-elle est proposée par le comité économique agricole ;
 
-- validée par le centre technique compétent ;
+-validée par le centre technique compétent ;
 
-- et agréée par le ministère de l'agriculture (direction générale des politiques économique, européene et internationale).
+-et agréée par le ministère de l'agriculture (direction générale des politiques économique, européene et internationale).
 
 Concernant l'agréage tant au stade production qu'à la station, les surcoûts liés à l'application d'un cahier des charges allant au-delà de la norme de commercialisation peuvent être pris en charge par le fonds opérationnel sur la base d'un taux forfaitaire correspondant à 60 % maximum des dépenses totales relatives à l'agréage.
 

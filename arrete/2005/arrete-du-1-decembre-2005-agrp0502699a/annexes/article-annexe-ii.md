@@ -2,7 +2,7 @@
 
 LISTE DES ACTIONS, DES COÛTS ET DES DÉPENSES ÉLIGIBLES
 
-1. Coûts liés aux plants certifiés dans le cas des cultures pérennes (plantes vivaces, arbres, arbustes), y compris les coûts de plantation dans le cadre d'un forfait approuvé en application de l'article 12 du présent arrêté, en cohérence avec les orientations contenues dans la circulaire des aides nationales à la rénovation du verger.
+1. Coûts liés aux plants dans le cas des cultures pérennes (plantes vivaces, arbres, arbustes), y compris les coûts de plantation dans le cadre d'un forfait approuvé en application de l'article 12 du présent arrêté, en cohérence avec les orientations contenues dans la circulaire des aides nationales à la rénovation du verger.
 
 2. Coûts spécifiques (surcoûts) des semences certifiées, mycéliums certifiés et plants certifiés, dans le cadre d'une amélioration de la qualité.
 
@@ -88,7 +88,7 @@ Par ailleurs, le logo de la Communauté européenne (dans le cas des médias vis
 
 La marque doit être utilisée collectivement par les adhérents de l'organisation de producteurs et appartenir à celle-ci, directement ou par l'intermédiaire d'une structure contrôlée par une ou plusieurs organisations de producteurs.
 
-11.  Coûts administratifs et juridiques des fusions ou acquisitions d'organisations de producteurs ou création d'organisations de producteurs transnationales ou d'associations transnationales d'organisations de producteurs ; études de faisabilité et propositions relatives demandées par les organisations de producteurs.
+11. Coûts administratifs et juridiques des fusions ou acquisitions d'organisations de producteurs ou création d'organisations de producteurs transnationales ou d'associations transnationales d'organisations de producteurs ; études de faisabilité et propositions relatives demandées par les organisations de producteurs.
 
 12. Matériel d'occasion.
 
@@ -110,7 +110,7 @@ L'achat de terrain non bâti nécessaire pour la réalisation d'un investissemen
 
 - une certification doit être obtenue auprès d'un expert qualifié indépendant ou d'un organisme officiel agréé confirmant que le prix d'achat n'est pas supérieur à la valeur marchande.
 
-14.  Crédit-bail.
+14. Crédit-bail.
 
 Les actions financées par un crédit-bail sont éligibles dans les conditions suivantes :
 
