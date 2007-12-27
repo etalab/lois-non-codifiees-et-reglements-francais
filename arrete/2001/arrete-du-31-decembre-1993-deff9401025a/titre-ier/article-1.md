@@ -14,4 +14,14 @@ e) Taxes ou redevances se rapportant à des communications téléphoniques priv�
 
 f) Droits divers et taxes perçues à l'occasion de la délivrance de documents ou de reproductions de documents appartenant à l'Etat ou conservés par ses soins ;
 
-g) Encaissement après contrôle des redevances dues par les sociétés mettant à disposition de distributeurs de boissons et de confiseries.
+g) Encaissement après contrôle des redevances dues par les sociétés mettant à disposition de distributeurs de boissons et de confiseries ;
+
+h) Droit d'utilisation de dispositifs d'aide à la visite de lieux culturels ou de lieux de mémoires ;
+
+i) Remboursement des charges liées à l'occupation par un militaire d'un logement concédé par nécessité absolue de service ;
+
+j) Ventes de denrées et de repas ;
+
+k) Récupération de TVA ;
+
+l) Taxe d'apprentissage.

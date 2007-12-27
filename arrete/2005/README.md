@@ -326,7 +326,6 @@
 - [Arrêté du 15 avril 2005 (SANS0521462A)](arrete-du-15-avril-2005-sans0521462a)
 - [Arrêté du 15 décembre 2004 (SANS0424218A)](arrete-du-15-decembre-2004-sans0424218a)
 - [Arrêté du 15 décembre 2005 (BUDD0550006A)](arrete-du-15-decembre-2005-budd0550006a)
-- [Arrêté du 15 décembre 2005 (BUDD0550007A)](arrete-du-15-decembre-2005-budd0550007a)
 - [Arrêté du 15 décembre 2005 (INTA0500894A)](arrete-du-15-decembre-2005-inta0500894a)
 - [Arrêté du 15 décembre 2005 (JUSF0550144A)](arrete-du-15-decembre-2005-jusf0550144a)
 - [Arrêté du 15 février 2005 (DEVO0540088A)](arrete-du-15-fevrier-2005-devo0540088a)
