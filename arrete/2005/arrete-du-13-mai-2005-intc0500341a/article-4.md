@@ -12,6 +12,4 @@ La sous-direction de la logistique comprend :
 
 - le bureau informatique et méthodes ;
 
-- l'atelier central automobile de Limoges ;
-
-- le magasin central de la police nationale.
+- l'établissement central logistique de la police nationale.
