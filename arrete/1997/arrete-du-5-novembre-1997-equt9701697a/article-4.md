@@ -2,7 +2,7 @@
 
 La commission comprend, outre son président et son président délégué :
 
-- cinq représentants désignés par le ministre chargé des transports, dont trois représentants de la direction des transports ferroviaires et collectifs, un représentant de l'inspection générale du travail des transports et un représentant des services extérieurs ;
+- six représentants désignés par le ministre chargé des transports, dont trois représentants de la direction des transports ferroviaires et collectifs, un représentant de l'inspection générale du travail des transports, un représentant d'une mission d'inspection générale intervenant sur des zones de montagne et un représentant des services déconcentrés ;
 
 - un représentant désigné par le ministre chargé du tourisme ;
 
@@ -14,16 +14,16 @@ La commission comprend, outre son président et son président délégué :
 
 - deux représentants des associations représentatives des élus de la montagne ;
 
-- trois représentants des associations représentatives des exploitants de remontées mécaniques ;
+- trois représentants des exploitants de remontées mécaniques ;
 
-- deux représentants des associations représentatives des constructeurs de remontées mécaniques ;
+- deux représentants des constructeurs de remontées mécaniques ;
 
-- un représentant des associations représentatives des maîtres d'oeuvre de remontées mécaniques ;
+- un représentant des maîtres d'oeuvre de remontées mécaniques ;
 
-- un représentant des associations représentatives des bureaux de contrôle technique ;
+- un représentant des bureaux de contrôle technique ;
 
 - trois représentants des syndicats représentatifs au plan national des salariés des exploitants de remontées mécaniques ;
 
 - deux représentants des associations des usagers ;
 
-- trois personnalités qualifiées désignées par le ministre chargé des transports.
+- deux personnalités qualifiées désignées par le ministre chargé des transports.
