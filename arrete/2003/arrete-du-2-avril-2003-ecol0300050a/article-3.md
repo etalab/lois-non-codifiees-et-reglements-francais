@@ -62,9 +62,9 @@ I. - Les informations traitées, relatives aux données cadastrales et issues de
 
 - identifiant foncier (numéro d'identification dans l'application MAJIC 2 utilisé pour la requête uniquement).
 
-II. - L'accès des utilisateurs au serveur s'effectue après identification auprès de "l'annuaire DGI".
+II. - L'accès des utilisateurs au serveur s'effectue après identification auprès de "Annuaire DGI".
 
-Pour les notaires et leurs collaborateurs, les données transmises à l'annuaire sont : le nom, le prénom, l'adresse électronique, la nature de la profession et ses conditions et lieu d'exercice.
+Pour les notaires et les géomètres experts ainsi que leurs collaborateurs, les données transmises à l'annuaire sont : le nom, le prénom, l'adresse électronique, la nature de la profession et ses conditions et lieu d'exercice.
 
 III. - Le traitement "Annuaire DGI" enregistre les informations relatives à la nature et aux conditions d'accès à SPDC. Les informations relatives à l'identité et à la localisation des professionnels connectés peuvent être consultées par l'application de gestion des populations externes de ce même traitement. Le nom de la structure ayant confectionné un extrait cadastral modèle 1 figure sur celui-ci.
 
