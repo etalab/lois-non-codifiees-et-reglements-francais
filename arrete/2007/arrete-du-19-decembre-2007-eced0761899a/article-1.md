@@ -1,0 +1,3 @@
+# Article 1
+
+L'annexe au présent arrêté fixe les caractéristiques, d'une part, du chèque emploi-service universel ayant la nature d'un titre spécial de paiement, ou « chèque emploi-service universel préfinancé », émis sur support papier par les organismes et établissements habilités par l'Agence nationale des services à la personne dans les conditions fixées par l'article D. 129-7 du code du travail, et, d'autre part, des chèques emploi-service universels préfinancés émis sous forme dématérialisée pouvant être émis par ces organismes et établissements habilités, si leur habilitation est étendue à cet effet, en application des dispositions du quatrième alinéa de l'article D. 129-1 du même code.

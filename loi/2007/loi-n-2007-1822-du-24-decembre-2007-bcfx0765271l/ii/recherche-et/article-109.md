@@ -1,0 +1,3 @@
+# Article 109
+
+Dans un délai de six mois suivant la promulgation de la présente loi, le Gouvernement présente un rapport aux commissions chargées des finances de chacune des assemblées parlementaires pour déterminer les conditions dans lesquelles les personnels titulaires des établissements publics scientifiques et technologiques de recherche peuvent percevoir des rémunérations complémentaires financées sur les ressources autres que celles provenant de la subvention pour charges de service public, ainsi que les modalités selon lesquelles le conseil d'administration desdits établissements fixe les critères d'attribution de ces rémunérations complémentaires.
