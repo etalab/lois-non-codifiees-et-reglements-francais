@@ -3,5 +3,6 @@
 - [Chapitre Ier : Dispositions permanentes.](chapitre-ier)
 - [Chapitre II : Mesures en cas de suspicion.](chapitre-ii)
 - [Chapitre III : Mesures en cas de confirmation.](chapitre-iii)
+- [Chapitre V : Dispositions finales.](chapitre-v)
 - [Article 29](article-29.md)
 - [Article Annexe](article-annexe.md)
