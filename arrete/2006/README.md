@@ -22,7 +22,6 @@
 - [Arrêté du 5 décembre 2006 (SANP0624911A)](arrete-du-5-decembre-2006-sanp0624911a)
 - [Arrêté du 5 décembre 2006 (SOCF0612450A)](arrete-du-5-decembre-2006-socf0612450a)
 - [Arrêté du 5 décembre 2006 (SOCF0612451A)](arrete-du-5-decembre-2006-socf0612451a)
-- [Arrêté du 5 janvier 2006 (JUSK0540170A)](arrete-du-5-janvier-2006-jusk0540170a)
 - [Arrêté du 6 décembre 1999 (MENT9902140A)](arrete-du-6-decembre-1999-ment9902140a)
 - [Arrêté du 6 juillet 2006 (EQUP0601457A)](arrete-du-6-juillet-2006-equp0601457a)
 - [Arrêté du 6 juillet 2006 (SANH0622809A)](arrete-du-6-juillet-2006-sanh0622809a)
