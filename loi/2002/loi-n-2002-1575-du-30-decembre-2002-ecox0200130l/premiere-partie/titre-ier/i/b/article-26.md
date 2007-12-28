@@ -2,9 +2,9 @@
 
 A. Paragraphe modificateur
 
-B. - I. - Il est institué un prélèvement sur les recettes de l'Etat destiné à compenser, à chaque collectivité locale et établissement public de coopération intercommunale à fiscalité propre, la perte de recettes résultant de la réduction progressive prévue au A.
+B.-I.-Il est institué un prélèvement sur les recettes de l'Etat destiné à compenser, à chaque collectivité locale et établissement public de coopération intercommunale à fiscalité propre, la perte de recettes résultant de la réduction progressive prévue au A.
 
-II. - A compter de 2003, la compensation prévue au I est égale, chaque année, au produit obtenu en multipliant la perte de base résultant, pour chaque collectivité locale et établissement public de coopération intercommunale à fiscalité propre, de la réduction de la fraction imposable des recettes visée au 2° de l'article 1467 du code général des impôts par le taux de taxe professionnelle de la collectivité et de l'établissement public de coopération intercommunale pour 2002.
+II.-A compter de 2003, la compensation prévue au I est égale, chaque année, au produit obtenu en multipliant la perte de base résultant, pour chaque collectivité locale et établissement public de coopération intercommunale à fiscalité propre, de la réduction de la fraction imposable des recettes visée au 2° de l'article 1467 du code général des impôts par le taux de taxe professionnelle de la collectivité et de l'établissement public de coopération intercommunale pour 2002.
 
 La perte de base visée au premier alinéa est égale, pour chaque collectivité ou établissement public de coopération intercommunale à fiscalité propre, à la différence entre les bases nettes imposables au titre de 2003 telles qu'elles auraient été fixées sans réduction de la fraction imposable des recettes prévue au 2° de l'article 1467 précité et les bases nettes imposables au titre de 2003 tenant compte de la fraction mentionnée au deuxième alinéa du 2° de l'article 1467 précité applicable à l'année concernée.
 
@@ -16,6 +16,8 @@ Pour les établissements publics de coopération intercommunale soumis pour la p
 
 Au titre des années 2004 et suivantes, la compensation est actualisée, chaque année, en fonction du taux d'évolution de la dotation globale de fonctionnement entre 2003 et l'année de versement.
 
-III. - La compensation prévue au I fait l'objet de versements mensuels.
+En 2008, la compensation est actualisée selon le taux d'évolution résultant de l'application du II de l'article 36 de la loi n° 2007-1822 du 24 décembre 2007 de finances pour 2008.
+
+III.-La compensation prévue au I fait l'objet de versements mensuels.
 
 C. Paragraphe modificateur

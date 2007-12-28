@@ -1,6 +1,6 @@
 # Article 15
 
-Les crédits nécessaires à l'accomplissement de la mission du Médiateur de la République sont inscrits au programme intitulé "Coordination du travail gouvernemental". Les dispositions de la loi du 10 août 1922 relative au contrôle financier ne sont pas applicables à leur gestion.
+Les crédits nécessaires à l'accomplissement de la mission du Médiateur de la République sont inscrits au programme intitulé "Coordination du travail gouvernemental". Les dispositions de la loi du 10 août 1922 relative au contrôle financier ne sont pas applicables à leur gestion. Le Médiateur de la République est ordonnateur principal de l'Etat ; il peut donner délégation de sa signature par décision publiée au Journal officiel.
 
 Le Médiateur de la République présente ses comptes au contrôle de la Cour des comptes.
 

@@ -13,3 +13,5 @@ III. - Le délai de deux ans prévu au I est prorogé de deux ans, à compter de
 - soit par la réalisation d'une étude préalable.
 
 Le délai d'exécution de la décision d'attribution de subvention, qu'il s'agisse d'un acte unilatéral ou d'une convention, concernant les communes ou établissements publics de coopération intercommunale qui se trouvent dans la situation ci-dessus est prorogé de deux ans.
+
+IV. - Un délai supplémentaire est accordé, jusqu'au 31 décembre 2008 à compter de la date d'expiration du délai prévu au III, à la commune ou à l'établissement public de coopération intercommunale qui a manifesté, dans les conditions fixées au III, la volonté de se conformer à ses obligations et qui, au terme de ce délai, n'a pu néanmoins s'en acquitter.

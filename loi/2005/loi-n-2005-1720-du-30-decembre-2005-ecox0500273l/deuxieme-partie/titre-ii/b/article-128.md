@@ -24,7 +24,9 @@ Ces documents sont relatifs aux politiques suivantes :
 
 10° Lutte contre le changement climatique ;
 
-11° Orientation et insertion professionnelle des jeunes.
+11° Orientation et insertion professionnelle des jeunes ;
+
+12° Politique française de l'immigration et de l'intégration.
 
 Le document relatif à la politique mentionnée au 7° comporte également :
 

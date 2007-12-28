@@ -4,7 +4,7 @@ I. - Il est ouvert dans les écritures du Trésor un compte d'affectation spéci
 
 Ce compte retrace :
 
-1° En recettes : une fraction égale à 60 % du produit des amendes perçues par la voie de systèmes automatiques de contrôle et sanction, dans la limite de 140 millions d'euros ;
+1° En recettes : une fraction du produit des amendes perçues par la voie de systèmes automatiques de contrôle et sanction, dans les conditions mentionnées au II ;
 
 2° En dépenses :
 
@@ -14,6 +14,12 @@ b) Les dépenses effectuées au titre des frais d'impression, de personnalisatio
 
 Il est autorisé un découvert de 30 millions d'euros durant les trois mois suivant la création du compte d'affectation spéciale.
 
-II. - Par dérogation aux dispositions de l'article L. 2334-24 du code général des collectivités territoriales, le produit des amendes perçues par la voie de systèmes automatiques de contrôle et sanction est affecté au compte d'affectation spéciale Contrôle et sanction automatisés des infractions au code de la route dans les conditions mentionnées au I et à l'Agence de financement des infrastructures de transport de France dans les conditions fixées à l'article 62 de la présente loi. Le solde éventuel est affecté aux collectivités territoriales dans les conditions mentionnées à l'article L. 2334-24 du code précité.
+II. - Par dérogation à l'article L. 2334-24 du code général des collectivités territoriales, le produit des amendes perçues par la voie de systèmes automatiques de contrôle et sanction est affecté successivement :
 
-III. - Paragraphe modificateur.
+1° Au compte d'affectation spéciale " Contrôle et sanction automatisés des infractions au code de la route , dans la limite de 194 millions d'euros ;
+
+2° Aux bénéficiaires de la répartition de recettes prévue à l'article L. 2334-24 du code général des collectivités territoriales, dans les conditions prévues par cet article, dans la limite de 100 millions d'euros ;
+
+3° Aux départements, à la collectivité territoriale de Corse et aux régions d'outre-mer, dans la limite de 30 millions d'euros, afin de financer des opérations contribuant à la sécurisation de leur réseau routier. Cette part est répartie proportionnellement à la longueur de la voirie appartenant à chaque collectivité territoriale concernée. Les investissements qui peuvent être financés par la recette constituée par cette part du produit des amendes sont définis par décret.
+
+Le solde de ce produit est affecté à l'Agence de financement des infrastructures de transport de France.

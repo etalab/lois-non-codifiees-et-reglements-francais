@@ -1,7 +1,12 @@
 # Article 141
 
-I. - Des ensembles d'actifs immobiliers appartenant à l'Etat et ses établissements publics qui sont devenus inutiles aux missions qu'ils assument peuvent, en vue de leur valorisation dans des conditions adaptées à leurs caractéristiques particulières, être transférés en pleine propriété à la société mentionnée à l'article 63 de la loi n° 2005-1719 du 30 décembre 2005 de finances pour 2006, pour un montant, fixé par arrêté conjoint des ministres concernés, égal à la valeur comptable.
+I.-Des ensembles d'actifs immobiliers appartenant à l'Etat ou à ses établissements publics peuvent être transférés en pleine propriété à une société détenue par l'Etat chargée d'en assurer la valorisation dans des conditions adaptées à leurs caractéristiques particulières, pour un montant, fixé par arrêté conjoint des ministres concernés, égal à leur valeur nette comptable ou, à défaut, à leur valeur évaluée par le ministre chargé des domaines. Dans les conditions prévues par voie de convention, ces transferts peuvent être effectués afin que les actifs immobiliers soient cédés par ladite société à l'Etat ou ses établissements publics.
 
-II. - Les transferts ne donnent lieu à aucun versement de salaire ou honoraires au profit d'agents de l'Etat, ni à aucune indemnité ou perception d'impôts, de droits ou de taxes de quelque nature que ce soit.
+Ces transferts peuvent également être effectués au profit d'une société appartenant au secteur public et sur laquelle la société mentionnée au précédent alinéa exerce son contrôle au sens du I de l'article L. 233-3 du code de commerce
+.
 
-III. - La société mentionnée à l'article 63 de la loi n° 2005-1719 du 30 décembre 2005 précitée peut rétrocéder aux établissements publics dont proviennent les biens transférés tout ou partie des plus-values réalisées à travers leur cession.
+Ces transferts sont réalisés soit par arrêté des ministres intéressés, soit par acte notarié.
+
+II.-Les transferts ne donnent lieu à aucun versement de salaire ou honoraires au profit d'agents de l'Etat, ni à aucune indemnité ou perception d'impôts, de droits ou de taxes de quelque nature que ce soit.
+
+III.-La société mentionnée au I du présent article peut rétrocéder aux établissements publics dont proviennent les biens transférés tout ou partie des plus-values réalisées à travers leur cession.

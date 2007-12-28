@@ -14,11 +14,11 @@ II. 1. - Paragraphe modificateur.
 
 2. Les dispositions du 1 sont également applicables aux recettes non recouvrées au titre des exercices antérieurs à 2006.
 
-III. - 1. A compter du 1er janvier 2006, un prélèvement de 1,78 % est effectué chaque année sur les sommes misées sur les jeux exploités en France métropolitaine et dans les départements d'outre-mer par La Française des jeux. Le produit de ce prélèvement est affecté à l'établissement public chargé du développement du sport dans la limite de 150 millions d'euros. Le montant de ce plafond est indexé, chaque année, sur la prévision de l'indice des prix à la consommation hors tabac, retenue dans le projet de loi de finances.
+III. - 1. A compter du 1er janvier 2006, un prélèvement de 1,78 % est effectué chaque année sur les sommes misées sur les jeux exploités en France métropolitaine et dans les départements d'outre-mer par La Française des jeux. Le produit de ce prélèvement est affecté à l'établissement public chargé du développement du sport dans la limite de 150 millions d'euros. A compter du 1er janvier 2008, le taux et le plafond du prélèvement mentionnés précédemment sont portés respectivement à 1,8 % et à 163 millions d'euros. Le montant de ce plafond est indexé, chaque année, sur la prévision de l'indice des prix à la consommation hors tabac, retenue dans le projet de loi de finances.
 
 Un prélèvement complémentaire de 0,22 % est effectué en 2006, 2007 et 2008, sur les sommes misées sur les jeux exploités en France métropolitaine et dans les départements d'outre-mer par La Française des jeux. Ce prélèvement complémentaire est plafonné à 23 millions d'euros par an. Son produit est affecté à l'établissement public chargé du développement du sport pour le financement sur l'ensemble du territoire d'actions agréées par le ministre chargé des sports.
 
-En 2007, le taux et le plafond du prélèvement complémentaire mentionnés à l'alinéa précédent sont portés respectivement à 0,45 % et à 43 millions d'euros.
+En 2007, le taux et le plafond du prélèvement complémentaire mentionnés à l'alinéa précédent sont portés respectivement à 0,45 % et à 43 millions d'euros. En 2008, ce taux et ce plafond sont portés respectivement à 0,7 % et à 63 millions d'euros.
 
 IV. - L'établissement public chargé du développement du sport est autorisé à percevoir en recettes le solde du boni de liquidation de l'association dénommée "Comité français d'organisation de la coupe du monde de football".
 

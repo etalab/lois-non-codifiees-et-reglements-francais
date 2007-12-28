@@ -8,7 +8,9 @@ III. - Les salariés mentionnés au II sont les chercheurs, les techniciens, les
 
 IV. - L'avis exprès ou tacite délivré par l'administration fiscale, saisie par une entreprise dans les conditions prévues au 4° de l'article L. 80 B du livre des procédures fiscales, est opposable à l'organisme chargé du recouvrement des cotisations de sécurité sociale compétent.
 
-V. - L'exonération prévue au I est applicable au plus jusqu'au dernier jour de la septième année suivant celle de la création de l'entreprise. Toutefois, si au cours d'une année l'entreprise ne satisfait plus à l'une des conditions requises pour bénéficier du statut de jeune entreprise innovante réalisant des projets de recherche et de développement et fixées par l'article 44 sexies-0 A du code général des impôts, elle perd définitivement le bénéfice de l'exonération prévue au I.
+V. - L'exonération prévue au I est applicable au plus jusqu'au dernier jour de la septième année suivant celle de la création de l'entreprise. Toutefois, si au cours d'une année l'entreprise ne satisfait plus à l'une des conditions requises pour bénéficier du dispositif relatif aux jeunes entreprises innovantes réalisant des projets de recherche et de développement et fixées par l'article 44 sexies-0 A du code général des impôts, elle perd le bénéfice de l'exonération prévue au I pour l'année considérée et pour les années suivantes tant qu'elle ne satisfait pas à l'ensemble de ces conditions.
+
+Pour bénéficier à nouveau du dispositif, elle doit obtenir l'avis exprès ou tacite prévu au IV du présent article.
 
 VI. - Le bénéfice des dispositions du présent article ne peut être cumulé, pour l'emploi d'un même salarié, ni avec une aide d'Etat à l'emploi, ni avec une autre exonération totale ou partielle de cotisations patronales, ni avec l'application de taux spécifiques, d'assiettes ou de montants forfaitaires de cotisations, à l'exception de la déduction forfaitaire prévue à l'article L. 241-18 du code de la sécurité sociale.
 

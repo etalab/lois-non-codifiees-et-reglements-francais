@@ -98,7 +98,7 @@ Le recouvrement de ce titre s'effectue alors dans les conditions prévues au cin
 
 Le droit de reprise du comité s'exerce jusqu'au 31 décembre de la troisième année qui suit celle au cours de laquelle la taxe est devenue exigible.
 
-XII. -  Lorsqu'il ne s'agit pas de produits importés, les réclamations contentieuses relatives à l'assiette de la taxe sont traitées par le directeur du comité. Elles sont présentées, instruites et jugées selon les règles applicables aux taxes sur le chiffre d'affaires.
+XII. - Lorsqu'il ne s'agit pas de produits importés, les réclamations contentieuses relatives à l'assiette de la taxe sont traitées par le directeur du comité. Elles sont présentées, instruites et jugées selon les règles applicables aux taxes sur le chiffre d'affaires.
 
 B. - I. - Il est institué une taxe pour le développement des industries du cuir, de la maroquinerie, de la ganterie et de la chaussure.
 
@@ -108,7 +108,7 @@ Elle a pour objet de financer les missions dévolues à ces organismes par la lo
 
 Les opérations financées au moyen du produit de la taxe font l'objet d'une comptabilité distincte tenue par chaque organisme.
 
-II. -  La taxe est due par les fabricants établis en France des produits du secteur du cuir, de la maroquinerie, de la ganterie et de la chaussure et, à l'importation, par la personne désignée comme destinataire réel des biens sur la déclaration en douane ou, solidairement, par le déclarant en douane qui agit dans le cadre d'un mandat de représentation indirecte, tel que défini par l'article 5 du code des douanes communautaire. Ces produits sont recensés par voie réglementaire et par référence au décret n° 2002-1622 du 31 décembre 2002 portant approbation des nomenclatures d'activités et de produits.
+II. - La taxe est due par les fabricants établis en France des produits du secteur du cuir, de la maroquinerie, de la ganterie et de la chaussure et, à l'importation, par la personne désignée comme destinataire réel des biens sur la déclaration en douane ou, solidairement, par le déclarant en douane qui agit dans le cadre d'un mandat de représentation indirecte, tel que défini par l'article 5 du code des douanes communautaire. Ces produits sont recensés par voie réglementaire et par référence au décret n° 2002-1622 du 31 décembre 2002 portant approbation des nomenclatures d'activités et de produits.
 
 Constituent des fabricants, au sens de l'alinéa précédent, les entreprises qui :
 
@@ -182,7 +182,7 @@ Lorsqu'elle est due sur des produits importés, la taxe est recouvrée par l'adm
 
 La taxe n'est pas mise en recouvrement lorsque son montant annuel est inférieur ou égal à 20 euros.
 
-XI. -  Le comité contrôle, pour son propre compte et pour celui du Centre technique cuir chaussure maroquinerie, les déclarations prévues au VIII. A cette fin, son directeur ou les agents qu'il a dûment habilités peuvent demander aux redevables de la taxe tous renseignements, justifications ou éclaircissements relatifs à ces déclarations sous les garanties du secret professionnel tel qu'il est défini à l'article L. 103 du livre des procédures fiscales.
+XI. - Le comité contrôle, pour son propre compte et pour celui du Centre technique cuir chaussure maroquinerie, les déclarations prévues au VIII. A cette fin, son directeur ou les agents qu'il a dûment habilités peuvent demander aux redevables de la taxe tous renseignements, justifications ou éclaircissements relatifs à ces déclarations sous les garanties du secret professionnel tel qu'il est défini à l'article L. 103 du livre des procédures fiscales.
 
 Lorsque les agents mentionnés ci-dessus constatent une insuffisance, une inexactitude ou une omission dans les éléments servant de base au calcul de la taxe, les rectifications correspondantes sont notifiées au redevable, qui dispose d'un délai de trente jours à compter de la date de réception de la notification pour présenter ses observations. Une réponse motivée à ces observations est adressée au redevable. Les droits notifiés sont assortis d'une majoration de 10 % exclusive de tout intérêt de retard.
 
@@ -194,7 +194,7 @@ Le recouvrement de ce titre s'effectue alors dans les conditions prévues au cin
 
 Le droit de reprise du comité s'exerce jusqu'au 31 décembre de la troisième année qui suit celle au cours de laquelle la taxe est devenue exigible.
 
-XII. -  Lorsqu'il ne s'agit pas de produits importés, les réclamations contentieuses relatives à l'assiette de la taxe sont traitées par le directeur du comité. Elles sont présentées, instruites et jugées selon les règles applicables aux taxes sur le chiffre d'affaires.
+XII. - Lorsqu'il ne s'agit pas de produits importés, les réclamations contentieuses relatives à l'assiette de la taxe sont traitées par le directeur du comité. Elles sont présentées, instruites et jugées selon les règles applicables aux taxes sur le chiffre d'affaires.
 
 C. - I. - Il est institué une taxe pour le développement des industries de l'horlogerie, bijouterie, joaillerie et orfèvrerie ainsi que des arts de la table.
 
@@ -252,7 +252,7 @@ VIII. - 1. Lorsque le montant de la taxe dû au titre d'une année est supérieu
 
 IX. - Le paiement de la taxe intervient au moment du dépôt des déclarations. Celles-ci sont conformes à un modèle établi par le comité.
 
-X. -  Le comité recouvre la taxe, pour son propre compte et pour celui du Centre technique de l'industrie horlogère, à l'exception de celle qui est due sur les produits importés.
+X. - Le comité recouvre la taxe, pour son propre compte et pour celui du Centre technique de l'industrie horlogère, à l'exception de celle qui est due sur les produits importés.
 
 Les redevables lui adressent leurs déclarations selon les modalités prévues au VIII.
 
@@ -272,7 +272,7 @@ Lorsqu'elle est due sur des produits importés, la taxe est recouvrée par l'adm
 
 La taxe n'est pas mise en recouvrement lorsque son montant annuel est inférieur ou égal à 20 euros.
 
-XI. -  Le comité contrôle, pour son propre compte et pour celui du Centre technique de l'industrie horlogère, les déclarations prévues au VIII. A cette fin, son directeur ou les agents qu'il a dûment habilités peuvent demander aux redevables de la taxe tous renseignements, justifications ou éclaircissements relatifs à ces déclarations sous les garanties du secret professionnel tel qu'il est défini par l'article L. 103 du livre des procédures fiscales.
+XI. - Le comité contrôle, pour son propre compte et pour celui du Centre technique de l'industrie horlogère, les déclarations prévues au VIII. A cette fin, son directeur ou les agents qu'il a dûment habilités peuvent demander aux redevables de la taxe tous renseignements, justifications ou éclaircissements relatifs à ces déclarations sous les garanties du secret professionnel tel qu'il est défini par l'article L. 103 du livre des procédures fiscales.
 
 Lorsque les agents mentionnés ci-dessus constatent une insuffisance, une inexactitude ou une omission dans les éléments servant de base au calcul de la taxe, les rectifications correspondantes sont notifiées au redevable, qui dispose d'un délai de trente jours à compter de la date de réception de la notification pour présenter ses observations. Une réponse motivée à ces observations est adressée au redevable. Les droits notifiés sont assortis d'une majoration de 10 % exclusive de tout intérêt de retard.
 
@@ -284,7 +284,7 @@ Le recouvrement s'effectue alors dans les conditions prévues au cinquième alin
 
 Le droit de reprise du comité s'exerce jusqu'au 31 décembre de la troisième année qui suit celle au cours de laquelle la taxe est devenue exigible.
 
-XII. -  Lorsqu'il ne s'agit pas de produits importés, les réclamations contentieuses relatives à l'assiette de la taxe sont traitées par le directeur du comité. Elles sont présentées, instruites et jugées selon les règles applicables aux taxes sur le chiffre d'affaires.
+XII. - Lorsqu'il ne s'agit pas de produits importés, les réclamations contentieuses relatives à l'assiette de la taxe sont traitées par le directeur du comité. Elles sont présentées, instruites et jugées selon les règles applicables aux taxes sur le chiffre d'affaires.
 
 D. - I. - Il est institué une taxe pour le développement des industries de l'habillement.
 
@@ -308,7 +308,7 @@ b) Soit en lui imposant des techniques faisant l'objet de brevets, des procédé
 
 c) Soit en lui faisant apposer des griffes ou des marques dont elles ont la jouissance ou l'exclusivité ;
 
-3°  Réalisent des prestations de services ou des opérations à façon sur les produits mentionnés au premier alinéa.
+3° Réalisent des prestations de services ou des opérations à façon sur les produits mentionnés au premier alinéa.
 
 III. - 1. La taxe est assise sur le chiffre d'affaires hors taxes réalisé au titre des opérations suivantes :
 
@@ -320,7 +320,7 @@ c) Pour les ventes réalisées directement au détail par les fabricants, la tax
 
 2. La taxe est assise sur la valeur en douane appréciée au moment de l'importation sur le territoire national pour les importations.
 
-IV. -  Les opérations suivantes sont exonérées de la taxe :
+IV. - Les opérations suivantes sont exonérées de la taxe :
 
 1° Les reventes en l'état ;
 
@@ -384,7 +384,7 @@ Le recouvrement s'effectue alors dans les conditions prévues au cinquième alin
 
 Le droit de reprise du comité s'exerce jusqu'au 31 décembre de la troisième année qui suit celle au cours de laquelle la taxe est devenue exigible.
 
-XII. -  Lorsqu'il ne s'agit pas de produits importés, les réclamations contentieuses relatives à l'assiette de la taxe sont traitées par le directeur du comité. Elles sont présentées, instruites et jugées selon les règles applicables aux taxes sur le chiffre d'affaires.
+XII. - Lorsqu'il ne s'agit pas de produits importés, les réclamations contentieuses relatives à l'assiette de la taxe sont traitées par le directeur du comité. Elles sont présentées, instruites et jugées selon les règles applicables aux taxes sur le chiffre d'affaires.
 
 E. - I. - Il est institué une taxe pour le développement des industries des secteurs d'activités suivants :
 
@@ -440,13 +440,13 @@ La circonstance qu'un produit ou une prestation qui est pris en compte pour le c
 
 VII. - Le taux de la taxe est fixé comme suit :
 
-1° Pour les produits des secteurs de la mécanique, des matériels et consommables de soudage, et du décolletage : 0,1 % ;
+1° Pour les produits des secteurs de la mécanique : 0,1 % ;
 
-2° Pour les produits du secteur de la construction métallique :
+2° Pour les matériels et consommables de soudage et les produits du décolletage : 0,112 % ;
 
-0,275 % ;
+3° Pour les produits du secteur de la construction métallique : 0,3 % ;
 
-3° Pour les produits du secteur des matériels aérauliques et thermiques : 0,14 %.
+4° Pour les produits du secteur des matériels aérauliques et thermiques : 0,14 %.
 
 VIII. - Le Comité de coordination des centres de recherche en mécanique recouvre la taxe.
 

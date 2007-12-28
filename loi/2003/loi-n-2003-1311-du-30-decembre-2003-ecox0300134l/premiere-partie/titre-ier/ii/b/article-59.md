@@ -6,11 +6,9 @@ Ces ressources sont composées d'une part du produit de la taxe intérieure de c
 
 La fraction de tarif mentionnée à l'alinéa précédent, calculée de sorte qu'appliquée aux quantités de carburants vendues sur l'ensemble du territoire en 2003 elle conduise à un produit égal au montant des dépenses exécutées par l'Etat en 2003 au titre de l'allocation de revenu minimum d'insertion et de l'allocation de revenu de solidarité et au montant des dépenses exécutées par les départements en 2004 au titre de l'allocation de revenu minimum d'activité, s'élève à :
 
-- 12,50 euros par hectolitre s'agissant des supercarburants sans plomb ;
+- 13,02 euros par hectolitre s'agissant des supercarburants sans plomb ;
 
-- 13,56 euros par hectolitre s'agissant du supercarburant sans plomb contenant un additif améliorant les caractéristiques antirécession de soupape ou tout autre additif reconnu de qualité équivalente dans un autre Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace économique européen ;
-
-- 8,31 euros par hectolitre s'agissant du gazole présentant un point d'éclair inférieur à 120 °C.
+- 8,67 euros par hectolitre s'agissant du gazole présentant un point d'éclair inférieur à 120 °C.
 
 Le niveau définitif de cette fraction est arrêté par la plus prochaine loi de finances après la connaissance des montants définitifs de dépenses exécutées par les départements en 2004 au titre de l'allocation de revenu minimum d'insertion et du revenu minimum d'activité. Il tient compte du coût supplémentaire résultant pour les départements, d'une part, de la création d'un revenu minimum d'activité, et, d'autre part, de l'augmentation du nombre d'allocataires du revenu minimum d'insertion résultant de la limitation de la durée de versement de l'allocation de solidarité spécifique.
 
