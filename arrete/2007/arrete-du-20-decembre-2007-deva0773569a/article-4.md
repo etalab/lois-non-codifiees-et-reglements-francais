@@ -1,0 +1,3 @@
+# Article 4
+
+Sans préjudice de dispositions conventionnelles applicables, les organismes qui sollicitent une expertise du groupement pour la sécurité de l'aviation civile (GSAC) prévue par l'arrêté susvisé doivent acquitter une redevance dont le montant est établi en fonction du temps passé à la mission. La valeur du taux horaire est fixée dans les conditions prévues par l'arrêté du 28 décembre 2005 modifié relatif aux redevances pour services rendus par l'Etat pour la sécurité et la sûreté de l'aviation civile et pris pour l'application des articles R. 611-3, R. 611-4 et R. 611-5 du code de l'aviation civile. La redevance est acquittée auprès du GSAC.

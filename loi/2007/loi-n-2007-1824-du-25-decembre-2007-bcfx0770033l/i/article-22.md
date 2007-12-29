@@ -1,0 +1,5 @@
+# Article 22
+
+Aux fins de recherche et de prévention des atteintes aux intérêts fondamentaux de la Nation en matière de sécurité publique et de sûreté de l'Etat, les agents individuellement désignés et dûment habilités des services de renseignement spécialisés, placés sous l'autorité des ministres chargés de la défense et de l'intérieur, peuvent demander aux administrations chargées de l'assiette, du recouvrement ou du contrôle des impôts et des recettes douanières de toutes sortes, sans qu'elles puissent leur opposer le secret professionnel, de leur communiquer tout document utile à l'exercice de leurs missions.
+
+Un décret en Conseil d'Etat détermine les modalités de désignation et d'habilitation des agents des services de renseignement du ministère de la défense et du ministère de l'intérieur autorisés à formuler les demandes de transmission des documents précités, la liste des documents accessibles strictement nécessaires à la poursuite des finalités poursuivies par le présent article, ainsi que la durée de leur conservation.

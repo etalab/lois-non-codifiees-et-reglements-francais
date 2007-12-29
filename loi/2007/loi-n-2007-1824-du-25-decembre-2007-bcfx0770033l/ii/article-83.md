@@ -1,0 +1,5 @@
+# Article 83
+
+La dette contractée au nom ou pour le compte du fonds de financement des prestations sociales des non-salariés agricoles, sous forme d'ouvertures de crédits à court terme consenties, par voie de convention, par plusieurs établissements bancaires en 2007 est transférée à l'Etat, au plus tard le 31 décembre 2007, dans la limite d'un montant en capital de 618 665 252,70 euros portant intérêts et correspondant au reliquat du résultat déficitaire constaté au bilan de sortie du compte de gestion du budget annexe des prestations sociales agricoles au 31 décembre 2004.
+
+Ce transfert emporte de plein droit substitution de débiteur et substitution pure et simple de l'Etat dans l'ensemble des droits et obligations de l'emprunteur ayant agi au nom ou pour le compte du fonds de financement des prestations sociales des non-salariés agricoles, au titre de la convention transférée et dans la limite du montant en capital indiqué au premier alinéa et des intérêts correspondants. Cette substitution de débiteur emporte de plein droit l'extinction des créances correspondantes pour le fonds de financement des prestations sociales des non-salariés agricoles.

@@ -1,0 +1,15 @@
+# Article 85
+
+I. ― La garantie de l'Etat est accordée au titre des compensations versées en application des contrats d'assurance souscrits par des bailleurs contre le risque de loyers impayés respectant le cahier des charges social mentionné au g de l'article L. 313-1 du code de la construction et de l'habitation. Ces contrats sont proposés par des entreprises d'assurance de dommages qui ont conclu une convention avec l'Union d'économie sociale du logement.
+
+L'assiette de la garantie de l'Etat est constituée par les sinistres indemnisés.
+
+II. ― La garantie de l'Etat est accordée au titre des garanties de loyers versées aux bailleurs des secteurs locatifs mentionnés au neuvième alinéa de l'article L. 313-20 du code de la construction et de l'habitation qui ne souscrivent pas de contrats d'assurance contre les risques de loyers impayés. Ces garanties de loyers et de charges interviennent dans le cadre de conventions conclues avec l'Union d'économie sociale du logement.
+
+L'assiette de la garantie de l'Etat est constituée par les sinistres constatés.
+
+III. ― L'octroi de la garantie de l'Etat prévue aux I et II est subordonné au respect de conditions d'éligibilité, notamment en termes de solvabilité, des locataires des logements concernés.
+
+La garantie de l'Etat couvre la fraction des sinistres qui excède un seuil qui ne saurait être inférieur à 1,1 % du montant des revenus locatifs concernés, dans la limite d'un plafond.
+
+IV. ― Un décret fixe les modalités d'application du présent article, et notamment les conditions d'éligibilité des locataires des logements concernés, ainsi que le seuil et le plafond d'intervention de la garantie de l'Etat.

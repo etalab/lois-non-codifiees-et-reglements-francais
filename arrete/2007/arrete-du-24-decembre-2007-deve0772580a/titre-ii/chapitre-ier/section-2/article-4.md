@@ -1,0 +1,5 @@
+# Article 4
+
+Un dysfonctionnement en un point particulier de connexion autre qu'un point utilisé uniquement par un producteur d'électricité est réputé constaté en application des dispositions de l'article 10 du décret du 24 décembre 2007 susvisé lorsqu'au moins une mesure effectuée selon une méthode conforme aux prescriptions de la norme CEI 61000-4-30 ou selon toute autre méthode jugée équivalente par l'autorité organisatrice met en évidence une tension efficace, moyennée sur 10 minutes, inférieure à 90 % de la valeur de la tension nominale correspondante mentionnée à l'article 1er du présent arrêté ou supérieure à 110 % de cette tension nominale.
+
+En outre, un dysfonctionnement en un point particulier de connexion en BT autre qu'un point utilisé uniquement par un producteur d'électricité est également réputé constaté lorsque le gradient de tension dépasse 2 %, ce gradient étant défini comme la chute de tension supplémentaire qui serait constatée en ce point de connexion si une charge monophasée supplémentaire de 1 kW y était raccordée.
