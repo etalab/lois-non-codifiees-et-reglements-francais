@@ -2,7 +2,7 @@
 
 La compensation financière des transferts de compétences prévue au II de l'article 119 de la loi n° 2004-809 du 13 août 2004 relative aux libertés et responsabilités locales s'opère dans les conditions suivantes :
 
-I. - Les ressources attribuées aux régions et à la collectivité territoriale de Corse au titre de cette compensation sont composées d'une part du produit de la taxe intérieure de consommation sur les produits pétroliers. Cette part est obtenue, pour l'ensemble des régions et de la collectivité territoriale de Corse, par application d'une fraction du tarif de la taxe intérieure de consommation sur les produits pétroliers aux quantités de carburants vendues chaque année sur l'ensemble du territoire national.
+I.-Les ressources attribuées aux régions et à la collectivité territoriale de Corse au titre de cette compensation sont composées d'une part du produit de la taxe intérieure de consommation sur les produits pétroliers. Cette part est obtenue, pour l'ensemble des régions et de la collectivité territoriale de Corse, par application d'une fraction du tarif de la taxe intérieure de consommation sur les produits pétroliers aux quantités de carburants vendues chaque année sur l'ensemble du territoire national.
 
 La fraction de tarif mentionnée à l'alinéa précédent est calculée de sorte qu'appliquée aux quantités de carburants vendues sur l'ensemble du territoire en 2004, elle conduise à un produit égal au droit à compensation de l'ensemble des régions et de la collectivité territoriale de Corse tel que défini au I de l'article 119 de la loi n° 2004-809 du 13 août 2004 précitée.
 
@@ -22,9 +22,9 @@ A compter du 1er janvier 2006, les ressources susmentionnées sont constituées 
 
 Un décret fixe les conditions d'application de ce dispositif. Il définit notamment les obligations déclaratives imposées aux redevables de la taxe, ainsi que celles des personnes physiques ou morales qui procèdent à la vente de carburants ayant déjà supporté ladite taxe.
 
-II. - Les transferts de compétence prévus à l'article 73 de la loi n° 2004-809 du 13 août 2004 précitée entrent en vigueur au 1er juillet 2005, à l'exception de ceux résultant des dispositions de l'article L. 4383-4 et de l'article L. 4151-8 du code de la santé publique qui entrent en vigueur au 1er janvier 2005.
+II.-Les transferts de compétence prévus à l'article 73 de la loi n° 2004-809 du 13 août 2004 précitée entrent en vigueur au 1er juillet 2005, à l'exception de ceux résultant des dispositions de l'article L. 4383-4 et de l'article L. 4151-8 du code de la santé publique qui entrent en vigueur au 1er janvier 2005.
 
-III. - Les ressources attribuées aux départements au titre de cette compensation sont composées de la totalité du produit de la taxe sur les conventions d'assurance perçue en application des 1° et 3° de l'article 1001 du code général des impôts, d'une part du produit de la taxe sur les conventions d'assurance perçue en application du 5° bis dudit article et d'une part du produit de la taxe intérieure de consommation sur les produits pétroliers. La part concernant ledit 5° bis est obtenue, pour l'ensemble des départements, par application d'une fraction de tarif à l'assiette nationale correspondant aux conventions d'assurance mentionnées audit 5° bis. La part concernant le produit de la taxe intérieure de consommation sur les produits pétroliers est obtenue pour l'ensemble des départements par application d'une fraction du tarif de cette taxe aux quantités de carburants vendues chaque année sur l'ensemble du territoire national.
+III.-Les ressources attribuées aux départements au titre de cette compensation sont composées de la totalité du produit de la taxe sur les conventions d'assurance perçue en application des 1° et 3° de l'article 1001 du code général des impôts, d'une part du produit de la taxe sur les conventions d'assurance perçue en application du 5° bis dudit article et d'une part du produit de la taxe intérieure de consommation sur les produits pétroliers. La part concernant ledit 5° bis est obtenue, pour l'ensemble des départements, par application d'une fraction de tarif à l'assiette nationale correspondant aux conventions d'assurance mentionnées audit 5° bis. La part concernant le produit de la taxe intérieure de consommation sur les produits pétroliers est obtenue pour l'ensemble des départements par application d'une fraction du tarif de cette taxe aux quantités de carburants vendues chaque année sur l'ensemble du territoire national.
 
 Pour tenir compte de la suppression totale de la taxe différentielle sur les véhicules à moteur, la part du produit de la taxe intérieure de consommation sur les produits pétroliers est calculée de sorte que, appliquée à l'assiette nationale 2004, elle conduise à un produit égal au droit à compensation de l'ensemble des départements tel que défini au I de l'article 119 de la loi n° 2004-809 du 13 août 2004 précitée, augmenté du produit reçu en 2004 par l'ensemble des départements au titre de la taxe différentielle sur les véhicules à moteur et diminué du montant du produit de la taxe sur les conventions d'assurance perçue en application des 1° et 3° et du 5° bis mentionné au premier alinéa du présent III ;
 
@@ -32,18 +32,17 @@ En 2006, en 2007 et en 2008 la participation des familles prévue au deuxième a
 
 A compter de 2006, le montant de la compensation servant au calcul de la fraction de taux mentionnée au premier alinéa du présent III est minoré du montant, constaté en 2004, de la participation des familles prévue au deuxième alinéa de l'article 2 du décret n° 85-934 du 4 septembre 1985 précité.
 
-A compter de 2008, la fraction de tarif de la taxe sur les conventions d'assurance perçue en application du 5° bis de l'article 1001 du code général des impôts est fixée à 11,550 %. En 2008, la fraction de tarif de la taxe intérieure de consommation sur les produits pétroliers est fixée à 0,456 EUR par hectolitre s'agissant des supercarburants sans plomb et 0,323 EUR par hectolitre s'agissant du gazole présentant un point éclair inférieur à 120 °C.
+A compter de 2008, la fraction de tarif de la taxe sur les conventions d'assurance perçue en application du 5° bis de l'article 1001 du code général des impôts est fixée à 11,550 %. En 2008, la fraction de tarif de la taxe intérieure de consommation sur les produits pétroliers est fixée à 0,456 euros par hectolitre s'agissant des supercarburants sans plomb et 0,323 euros par hectolitre s'agissant du gazole présentant un point éclair inférieur à 120° C.
 
 Le niveau définitif de la fraction mentionnée au premier alinéa du présent III est arrêté par la plus prochaine loi de finances après la connaissance des montants définitifs des droits à compensation.
 
-<div>Chaque département reçoit un produit de taxe correspondant à un pourcentage de la somme des produits de la taxe sur les conventions d'assurance et de la taxe intérieure de consommation sur les produits pétroliers mentionnés au premier alinéa du présent III. Ce pourcentage est fixé, pour chaque département, en rapportant, d'une part, le droit à compensation de ce département, augmenté du produit reçu en 2004 par ce département au titre de la taxe différentielle sur les véhicules à moteur et minoré du montant, constaté en 2004 dans ce même département, de la participation des familles prévue au deuxième alinéa de l'article 2 du décret n° 85-934 du 4 septembre 1985 précité et, d'autre part, le montant de la compensation de l'ensemble des départements calculé selon les modalités prévues aux deuxième et quatrième alinéas du présent III. En 2008, ces pourcentages sont fixés comme suit :<br/>
-<br/>
+Chaque département reçoit un produit de taxe correspondant à un pourcentage de la somme des produits de la taxe sur les conventions d'assurance et de la taxe intérieure de consommation sur les produits pétroliers mentionnés au premier alinéa du présent III. Ce pourcentage est fixé, pour chaque département, en rapportant, d'une part, le droit à compensation de ce département, augmenté du produit reçu en 2004 par ce département au titre de la taxe différentielle sur les véhicules à moteur et minoré du montant, constaté en 2004 dans ce même département, de la participation des familles prévue au deuxième alinéa de l'article 2 du décret n° 85-934 du 4 septembre 1985 précité et, d'autre part, le montant de la compensation de l'ensemble des départements calculé selon les modalités prévues aux deuxième et quatrième alinéas du présent III. En 2008, ces pourcentages sont fixés comme suit :
 
 <table>
 <tbody>
 <tr>
 <th>
-<br/>DÉPARTEMENTS<br/>
+<br/>DÉPARTEMENTS <br/>
 </th>
 <th>
 <br/>
@@ -51,578 +50,578 @@ Le niveau définitif de la fraction mentionnée au premier alinéa du présent I
 </tr>
 <tr>
 <td align="center">
-<br/>Ain<br/>
+<br/>Ain <br/>
 </td>
 <td align="center">
-<br/>0,989536 %<br/>
+<br/>0,989536 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Aisne<br/>
+<br/>Aisne <br/>
 </td>
 <td align="center">
-<br/>0,826700 %<br/>
+<br/>0,826700 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Allier<br/>
+<br/>Allier <br/>
 </td>
 <td align="center">
-<br/>0,805046 %<br/>
+<br/>0,805046 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Alpes-de-Haute-Provence<br/>
+<br/>Alpes-de-Haute-Provence <br/>
 </td>
 <td align="center">
-<br/>0,433678 %<br/>
+<br/>0,433678 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Hautes-Alpes<br/>
+<br/>Hautes-Alpes <br/>
 </td>
 <td align="center">
-<br/>0,345878 %<br/>
+<br/>0,345878 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Alpes-Maritimes<br/>
+<br/>Alpes-Maritimes <br/>
 </td>
 <td align="center">
-<br/>1,738731 %<br/>
+<br/>1,738731 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Ardèche<br/>
+<br/>Ardèche <br/>
 </td>
 <td align="center">
-<br/>0,752362 %<br/>
+<br/>0,752362 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Ardennes<br/>
+<br/>Ardennes <br/>
 </td>
 <td align="center">
-<br/>0,723098 %<br/>
+<br/>0,723098 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Ariège<br/>
+<br/>Ariège <br/>
 </td>
 <td align="center">
-<br/>0,353848 %<br/>
+<br/>0,353848 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Aube<br/>
+<br/>Aube <br/>
 </td>
 <td align="center">
-<br/>0,749004 %<br/>
+<br/>0,749004 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Aude<br/>
+<br/>Aude <br/>
 </td>
 <td align="center">
-<br/>0,840593 %<br/>
+<br/>0,840593 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Aveyron<br/>
+<br/>Aveyron <br/>
 </td>
 <td align="center">
-<br/>0,759038 %<br/>
+<br/>0,759038 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Bouches-du-Rhône<br/>
+<br/>Bouches-du-Rhône <br/>
 </td>
 <td align="center">
-<br/>2,599947 %<br/>
+<br/>2,599947 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Calvados<br/>
+<br/>Calvados <br/>
 </td>
 <td align="center">
-<br/>0,905006 %<br/>
+<br/>0,905006 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Cantal<br/>
+<br/>Cantal <br/>
 </td>
 <td align="center">
-<br/>0,325326 %<br/>
+<br/>0,325326 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Charente<br/>
+<br/>Charente <br/>
 </td>
 <td align="center">
-<br/>0,647028 %<br/>
+<br/>0,647028 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Charente-Maritime<br/>
+<br/>Charente-Maritime <br/>
 </td>
 <td align="center">
-<br/>1,067830 %<br/>
+<br/>1,067830 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Cher<br/>
+<br/>Cher <br/>
 </td>
 <td align="center">
-<br/>0,664057 %<br/>
+<br/>0,664057 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Corrèze<br/>
+<br/>Corrèze <br/>
 </td>
 <td align="center">
-<br/>0,771269 %<br/>
+<br/>0,771269 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Corse-du-Sud<br/>
+<br/>Corse-du-Sud <br/>
 </td>
 <td align="center">
-<br/>0,208677 %<br/>
+<br/>0,208677 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Haute-Corse<br/>
+<br/>Haute-Corse <br/>
 </td>
 <td align="center">
-<br/>0,265195 %<br/>
+<br/>0,265195 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Côte-d'Or<br/>
+<br/>Côte-d'Or <br/>
 </td>
 <td align="center">
-<br/>1,253588 %<br/>
+<br/>1,253588 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Côtes-d'Armor<br/>
+<br/>Côtes-d'Armor <br/>
 </td>
 <td align="center">
-<br/>1,009610 %<br/>
+<br/>1,009610 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Creuse<br/>
+<br/>Creuse <br/>
 </td>
 <td align="center">
-<br/>0,295361 %<br/>
+<br/>0,295361 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Dordogne<br/>
+<br/>Dordogne <br/>
 </td>
 <td align="center">
-<br/>0,748234 %<br/>
+<br/>0,748234 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Doubs<br/>
+<br/>Doubs <br/>
 </td>
 <td align="center">
-<br/>0,921717 %<br/>
+<br/>0,921717 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Drôme<br/>
+<br/>Drôme <br/>
 </td>
 <td align="center">
-<br/>0,916108 %<br/>
+<br/>0,916108 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Eure<br/>
+<br/>Eure <br/>
 </td>
 <td align="center">
-<br/>0,941435 %<br/>
+<br/>0,941435 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Eure-et-Loir<br/>
+<br/>Eure-et-Loir <br/>
 </td>
 <td align="center">
-<br/>0,672427 %<br/>
+<br/>0,672427 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Finistère<br/>
+<br/>Finistère <br/>
 </td>
 <td align="center">
-<br/>1,120733 %<br/>
+<br/>1,120733 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Gard<br/>
+<br/>Gard <br/>
 </td>
 <td align="center">
-<br/>1,192760 %<br/>
+<br/>1,192760 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Haute-Garonne<br/>
+<br/>Haute-Garonne <br/>
 </td>
 <td align="center">
-<br/>1,857569 %<br/>
+<br/>1,857569 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Gers<br/>
+<br/>Gers <br/>
 </td>
 <td align="center">
-<br/>0,512908 %<br/>
+<br/>0,512908 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Gironde<br/>
+<br/>Gironde <br/>
 </td>
 <td align="center">
-<br/>1,799213 %<br/>
+<br/>1,799213 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Hérault<br/>
+<br/>Hérault <br/>
 </td>
 <td align="center">
-<br/>1,368875 %<br/>
+<br/>1,368875 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Ille-et-Vilaine<br/>
+<br/>Ille-et-Vilaine <br/>
 </td>
 <td align="center">
-<br/>1,316291 %<br/>
+<br/>1,316291 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Indre<br/>
+<br/>Indre <br/>
 </td>
 <td align="center">
-<br/>0,362819 %<br/>
+<br/>0,362819 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Indre-et-Loire<br/>
+<br/>Indre-et-Loire <br/>
 </td>
 <td align="center">
-<br/>0,931667 %<br/>
+<br/>0,931667 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Isère<br/>
+<br/>Isère <br/>
 </td>
 <td align="center">
-<br/>1,986293 %<br/>
+<br/>1,986293 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Jura<br/>
+<br/>Jura <br/>
 </td>
 <td align="center">
-<br/>0,578420 %<br/>
+<br/>0,578420 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Landes<br/>
+<br/>Landes <br/>
 </td>
 <td align="center">
-<br/>0,752133 %<br/>
+<br/>0,752133 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Loir-et-Cher<br/>
+<br/>Loir-et-Cher <br/>
 </td>
 <td align="center">
-<br/>0,562341 %<br/>
+<br/>0,562341 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Loire<br/>
+<br/>Loire <br/>
 </td>
 <td align="center">
-<br/>1,166232 %<br/>
+<br/>1,166232 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Haute-Loire<br/>
+<br/>Haute-Loire <br/>
 </td>
 <td align="center">
-<br/>0,591460 %<br/>
+<br/>0,591460 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Loire-Atlantique<br/>
+<br/>Loire-Atlantique <br/>
 </td>
 <td align="center">
-<br/>1,667144 %<br/>
+<br/>1,667144 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Loiret<br/>
+<br/>Loiret <br/>
 </td>
 <td align="center">
-<br/>0,997362 %<br/>
+<br/>0,997362 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Lot<br/>
+<br/>Lot <br/>
 </td>
 <td align="center">
-<br/>0,619071 %<br/>
+<br/>0,619071 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Lot-et-Garonne<br/>
+<br/>Lot-et-Garonne <br/>
 </td>
 <td align="center">
-<br/>0,421441 %<br/>
+<br/>0,421441 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Lozère<br/>
+<br/>Lozère <br/>
 </td>
 <td align="center">
-<br/>0,353119 %<br/>
+<br/>0,353119 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Maine-et-Loire<br/>
+<br/>Maine-et-Loire <br/>
 </td>
 <td align="center">
-<br/>1,081335 %<br/>
+<br/>1,081335 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Manche<br/>
+<br/>Manche <br/>
 </td>
 <td align="center">
-<br/>0,889798 %<br/>
+<br/>0,889798 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Marne<br/>
+<br/>Marne <br/>
 </td>
 <td align="center">
-<br/>0,929746 %<br/>
+<br/>0,929746 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Haute-Marne<br/>
+<br/>Haute-Marne <br/>
 </td>
 <td align="center">
-<br/>0,531745 %<br/>
+<br/>0,531745 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Mayenne<br/>
+<br/>Mayenne <br/>
 </td>
 <td align="center">
-<br/>0,523467 %<br/>
+<br/>0,523467 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Meurthe-et-Moselle<br/>
+<br/>Meurthe-et-Moselle <br/>
 </td>
 <td align="center">
-<br/>1,176378 %<br/>
+<br/>1,176378 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Meuse<br/>
+<br/>Meuse <br/>
 </td>
 <td align="center">
-<br/>0,459266 %<br/>
+<br/>0,459266 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Morbihan<br/>
+<br/>Morbihan <br/>
 </td>
 <td align="center">
-<br/>1,012946 %<br/>
+<br/>1,012946 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Moselle<br/>
+<br/>Moselle <br/>
 </td>
 <td align="center">
-<br/>1,301975 %<br/>
+<br/>1,301975 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Nièvre<br/>
+<br/>Nièvre <br/>
 </td>
 <td align="center">
-<br/>0,687106 %<br/>
+<br/>0,687106 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Nord<br/>
+<br/>Nord <br/>
 </td>
 <td align="center">
-<br/>3,511758 %<br/>
+<br/>3,511758 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Oise<br/>
+<br/>Oise <br/>
 </td>
 <td align="center">
-<br/>1,123399 %<br/>
+<br/>1,123399 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Orne<br/>
+<br/>Orne <br/>
 </td>
 <td align="center">
-<br/>0,713348 %<br/>
+<br/>0,713348 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Pas-de-Calais<br/>
+<br/>Pas-de-Calais <br/>
 </td>
 <td align="center">
-<br/>2,328084 %<br/>
+<br/>2,328084 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Puy-de-Dôme<br/>
+<br/>Puy-de-Dôme <br/>
 </td>
 <td align="center">
-<br/>1,523941 %<br/>
+<br/>1,523941 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Pyrénées-Atlantiques<br/>
+<br/>Pyrénées-Atlantiques <br/>
 </td>
 <td align="center">
-<br/>0,921523 %<br/>
+<br/>0,921523 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Hautes-Pyrénées<br/>
+<br/>Hautes-Pyrénées <br/>
 </td>
 <td align="center">
-<br/>0,556167 %<br/>
+<br/>0,556167 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Pyrénées-Orientales<br/>
+<br/>Pyrénées-Orientales <br/>
 </td>
 <td align="center">
-<br/>0,703192 %<br/>
+<br/>0,703192 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Bas-Rhin<br/>
+<br/>Bas-Rhin <br/>
 </td>
 <td align="center">
-<br/>1,492799 %<br/>
+<br/>1,492799 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Haut-Rhin<br/>
+<br/>Haut-Rhin <br/>
 </td>
 <td align="center">
-<br/>1,009120 %<br/>
+<br/>1,009120 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Rhône<br/>
+<br/>Rhône <br/>
 </td>
 <td align="center">
-<br/>2,079691 %<br/>
+<br/>2,079691 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Haute-Saône<br/>
+<br/>Haute-Saône <br/>
 </td>
 <td align="center">
-<br/>0,416004 %<br/>
+<br/>0,416004 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Saône-et-Loire<br/>
+<br/>Saône-et-Loire <br/>
 </td>
 <td align="center">
-<br/>1,125480 %<br/>
+<br/>1,125480 % <br/>
 </td>
 </tr>
 <tr>
@@ -630,234 +629,234 @@ Le niveau définitif de la fraction mentionnée au premier alinéa du présent I
 <br/>Sarthe <br/>
 </td>
 <td align="center">
-<br/>1,044489 %<br/>
+<br/>1,044489 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Savoie<br/>
+<br/>Savoie <br/>
 </td>
 <td align="center">
-<br/>1,160302 %<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Haute-Savoie<br/>
-</td>
-<td align="center">
-<br/>1,408087 %<br/>
+<br/>1,160302 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Paris<br/>
+<br/>Haute-Savoie <br/>
 </td>
 <td align="center">
-<br/>2,671567 %<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Seine-Maritime<br/>
-</td>
-<td align="center">
-<br/>1,764476 %<br/>
+<br/>1,408087 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Seine-et-Marne<br/>
+<br/>Paris <br/>
 </td>
 <td align="center">
-<br/>1,776027 %<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Yvelines<br/>
-</td>
-<td align="center">
-<br/>1,666751 %<br/>
+<br/>2,671567 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Deux-Sèvres<br/>
+<br/>Seine-Maritime <br/>
 </td>
 <td align="center">
-<br/>0,729285 %<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Somme<br/>
-</td>
-<td align="center">
-<br/>0,825497 %<br/>
+<br/>1,764476 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Tarn<br/>
+<br/>Seine-et-Marne <br/>
 </td>
 <td align="center">
-<br/>0,723370 %<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Tarn-et-Garonne<br/>
-</td>
-<td align="center">
-<br/>0,454615 %<br/>
+<br/>1,776027 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Var<br/>
+<br/>Yvelines <br/>
 </td>
 <td align="center">
-<br/>1,423457 %<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Vaucluse<br/>
-</td>
-<td align="center">
-<br/>0,819437 %<br/>
+<br/>1,666751 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Vendée<br/>
+<br/>Deux-Sèvres <br/>
 </td>
 <td align="center">
-<br/>0,968616 %<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Vienne<br/>
-</td>
-<td align="center">
-<br/>0,704029 %<br/>
+<br/>0,729285 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Haute-Vienne<br/>
+<br/>Somme <br/>
 </td>
 <td align="center">
-<br/>0,641264 %<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Vosges<br/>
-</td>
-<td align="center">
-<br/>0,848088 %<br/>
+<br/>0,825497 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Yonne<br/>
+<br/>Tarn <br/>
 </td>
 <td align="center">
-<br/>0,716105 %<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Territoire de Belfort<br/>
-</td>
-<td align="center">
-<br/>0,219243 %<br/>
+<br/>0,723370 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Essonne<br/>
+<br/>Tarn-et-Garonne <br/>
 </td>
 <td align="center">
-<br/>1,654780 %<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Hauts-de-Seine<br/>
-</td>
-<td align="center">
-<br/>2,053375 %<br/>
+<br/>0,454615 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Seine-Saint-Denis<br/>
+<br/>Var <br/>
 </td>
 <td align="center">
-<br/>1,661365 %<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Val-de-Marne<br/>
-</td>
-<td align="center">
-<br/>1,397520 %<br/>
+<br/>1,423457 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Val-d'Oise<br/>
+<br/>Vaucluse <br/>
 </td>
 <td align="center">
-<br/>1,449906 %<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Guadeloupe<br/>
-</td>
-<td align="center">
-<br/>0,337371 %<br/>
+<br/>0,819437 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Martinique<br/>
+<br/>Vendée <br/>
 </td>
 <td align="center">
-<br/>0,467447 %<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Guyane<br/>
-</td>
-<td align="center">
-<br/>0,259298 %<br/>
+<br/>0,968616 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>La Réunion<br/>
+<br/>Vienne <br/>
 </td>
 <td align="center">
-<br/>0,367786 %<br/>
+<br/>0,704029 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Total<br/>
+<br/>Haute-Vienne <br/>
 </td>
 <td align="center">
-<br/>100 %<br/>
+<br/>0,641264 % <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Vosges <br/>
+</td>
+<td align="center">
+<br/>0,848088 % <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Yonne <br/>
+</td>
+<td align="center">
+<br/>0,716105 % <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Territoire de Belfort <br/>
+</td>
+<td align="center">
+<br/>0,219243 % <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Essonne <br/>
+</td>
+<td align="center">
+<br/>1,654780 % <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Hauts-de-Seine <br/>
+</td>
+<td align="center">
+<br/>2,053375 % <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Seine-Saint-Denis <br/>
+</td>
+<td align="center">
+<br/>1,661365 % <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Val-de-Marne <br/>
+</td>
+<td align="center">
+<br/>1,397520 % <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Val-d'Oise <br/>
+</td>
+<td align="center">
+<br/>1,449906 % <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Guadeloupe <br/>
+</td>
+<td align="center">
+<br/>0,337371 % <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Martinique <br/>
+</td>
+<td align="center">
+<br/>0,467447 % <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Guyane <br/>
+</td>
+<td align="center">
+<br/>0,259298 % <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>La Réunion <br/>
+</td>
+<td align="center">
+<br/>0,367786 % <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Total <br/>
+</td>
+<td align="center">
+<br/>100 % <br/>
 </td>
 </tr>
 </tbody>
 </table>
 
-</div>
+Si le produit de la taxe spéciale sur les conventions d'assurance attribué pour une année donnée à un département en application du pourcentage de la fraction de taux applicable à ce département pour cette même année représente un montant inférieur à son droit à compensation pour l'année considérée, tel que défini au I de l'article 119 de la loi n° 2004-809 du 13 août 2004 précitée, la différence fait l'objet d'une attribution à due concurrence d'une part du produit de la taxe spéciale sur les conventionsd'assurance revenant à l'Etat.

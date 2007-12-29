@@ -28,6 +28,14 @@ Ces documents sont relatifs aux politiques suivantes :
 
 12° Politique française de l'immigration et de l'intégration.
 
+Le document relatif à la politique mentionnée au 2° comporte également :
+
+- une information détaillée sur les remises de dettes consenties à titre multilatéral et bilatéral sur le fondement de l'article 64 de la loi de finances rectificative pour 1991 (n° 91-1323 du 30 décembre 1991) ;
+
+- une présentation détaillée des ressources budgétaires et extra-budgétaires de l'Agence française de développement, de l'emploi de ces ressources et des activités de l'agence prises en compte dans les dépenses d'aide publique au développement ;
+
+- la répartition géographique et sectorielle des concours octroyés par l'Agence française de développement, et la ventilation de ces concours par catégorie, en particulier entre prêts, dons, garanties et prises de participation.
+
 Le document relatif à la politique mentionnée au 7° comporte également :
 
 - un état récapitulatif, par mission, de l'effort budgétaire et financier consacré à chaque département ou région d'outre-mer, à chaque collectivité d'outre-mer, à la Nouvelle-Calédonie et aux Terres australes et antarctiques françaises ;
@@ -42,6 +50,6 @@ Le document relatif à la politique mentionnée au 7° comporte également :
 
 - tous les deux ans, une appréciation des différences de salaires et de prix à la consommation entre les collectivités territoriales ultramarines et la métropole.
 
-II. - Les relations financières entre la France et l'Union européenne font l'objet d'une présentation détaillée dans une annexe générale jointe au projet de loi de finances de l'année intitulée : "Relations financières avec l'Union européenne".
+II. - Les relations financières entre la France et l'Union européenne font l'objet d'une présentation détaillée dans une annexe générale jointe au projet de loi de finances de l'année intitulée : " Relations financières avec l'Union européenne ".
 
 III. Paragraphe modificateur

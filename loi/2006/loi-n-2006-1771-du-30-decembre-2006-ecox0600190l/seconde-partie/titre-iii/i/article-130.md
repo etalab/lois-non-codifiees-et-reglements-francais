@@ -16,7 +16,9 @@ L'exonération est applicable pendant une période de sept ans à compter de la 
 
 En cas d'embauche de salariés dans les sept années suivant la date de l'implantation ou de la création, l'exonération est applicable, pour ces salariés, dans les conditions prévues à l'alinéa précédent, à compter de la date d'effet du contrat de travail.
 
-En cas d'implantation, d'extension ou de création dans une zone d'aide à finalité régionale, l'exonération s'applique dans les conditions et limites prévues par le règlement (CE) n° 1628 / 2006 de la Commission, du 24 octobre 2006, concernant l'application des articles 87 et 88 du traité CE aux aides nationales à l'investissement à finalité régionale. Dans les autres cas, elle s'applique dans les conditions et limites prévues par le règlement (CE) n° 69 / 2001 de la Commission, du 12 janvier 2001, concernant l'application des articles 87 et 88 du traité CE aux aides de minimis.
+Le bénéfice de l'exonération mentionnée au premier alinéa du présent VII est subordonné au respect du règlement (CE) n° 1998 / 2006 de la Commission du 15 décembre 2006 concernant l'application des articles 87 et 88 du traité aux aides de minimis (1).
+
+Toutefois, lorsque le bénéfice des exonérations fiscales figurant aux articles 44 duodecies,1383 H et au I quinquies A de l'article 1466 A du code général des impôts est subordonné au respect du règlement (CE) n° 1628 / 2006 de la Commission du 24 octobre 2006 concernant l'application des articles 87 et 88 du traité CE aux aides nationales à l'investissement à finalité régionale, le bénéfice de l'exonération mentionnée au premier alinéa du présent VII est subordonné au respect du même règlement (1).
 
 Le droit à l'exonération prévue au premier alinéa est subordonné à la condition que l'employeur soit à jour de ses obligations à l'égard de l'organisme de recouvrement des cotisations patronales de sécurité sociale et d'allocations familiales ou ait souscrit un engagement d'apurement progressif de ses dettes.
 

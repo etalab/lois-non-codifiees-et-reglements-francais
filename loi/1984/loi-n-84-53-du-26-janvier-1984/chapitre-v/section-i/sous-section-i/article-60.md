@@ -18,6 +18,4 @@ Toutefois, dans le cas de services représentant 80 ou 90 p. 100 du temps plein,
 
 Les fonctionnaires autorisés à travailler à temps partiel perçoivent, le cas échéant, des indemnités pour frais de déplacement. Le supplément familial de traitement ne peut être inférieur au montant minimum versé aux fonctionnaires travaillant à temps plein ayant le même nombre d'enfants à charge.
 
-Le Gouvernement déposera tous les deux ans sur le bureau des assemblées parlementaires un rapport établi après avis du Conseil supérieur de la fonction publique territoriale dressant le bilan de l'application des dispositions relatives au temps partiel dans les emplois concernés par la présente loi.
-
 Un décret en Conseil d'Etat fixe les conditions d'application du présent article.

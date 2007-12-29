@@ -5,5 +5,3 @@ Les fonctionnaires titulaires, en activité ou en service détaché, qui occupen
 Les refus opposés à une demande de travail à temps partiel doivent être précédés d'un entretien et motivés dans les conditions définies par la loi n° 79-587 du 11 juillet 1979 relative à la motivation des actes administratifs et à l'amélioration des relations entre l'administration et le public.
 
 Il est procédé globalement dans chaque département ministériel, par le recrutement de fonctionnaires titulaires, à la compensation du temps de travail perdu du fait des autorisations mentionnées au premier alinéa. L'affectation des personnes ainsi recrutées se fera par priorité dans les services où auront été données les autorisations de travail à temps partiel.
-
-Le Gouvernement déposera tous les deux ans [*périodicité*] sur le bureau des assemblées parlementaires un rapport, établi après avis du Conseil supérieur de la fonction publique de l'Etat, dressant le bilan de l'application des dispositions relatives au temps partiel dans les emplois concernés par la présente loi.

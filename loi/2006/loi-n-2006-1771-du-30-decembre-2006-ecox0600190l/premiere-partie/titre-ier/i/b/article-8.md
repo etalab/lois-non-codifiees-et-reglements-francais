@@ -1,6 +1,6 @@
 # Article 8
 
-Entre le 25 mars 2006 et le 31 mars 2007, les exploitants de réseaux de communications électroniques ouverts au public, dont les autorisations ont été attribuées en 2006, sont assujettis, pour les fréquences qui leur sont attribuées pour l'établissement de liaisons point à point du service fixe, au paiement :
+Entre le 25 mars 2006 et le 27 octobre 2007, les exploitants de réseaux de communications électroniques ouverts au public, dont les autorisations ont été attribuées en 2006 et en 2007, sont assujettis, pour les fréquences qui leur sont attribuées pour l'établissement de liaisons point à point du service fixe, au paiement :
 
 1° D'une redevance domaniale de mise à disposition, dont le montant, en euros, est égal :
 
