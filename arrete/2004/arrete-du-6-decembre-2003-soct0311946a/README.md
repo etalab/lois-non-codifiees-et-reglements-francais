@@ -4,4 +4,3 @@
 - [TITRE II : TRANSMISSION DES RÉSULTATS DE LA DOSIMÉTRIE.](titre-ii)
 - [TITRE III : PROCÉDURES.](titre-iii)
 - [TITRE IV : DISPOSITIONS TRANSITOIRES ET FINALES.](titre-iv)
-- [Article 11](article-11.md)
