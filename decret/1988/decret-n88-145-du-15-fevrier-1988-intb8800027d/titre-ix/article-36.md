@@ -1,11 +1,3 @@
 # Article 36
 
-Les sanctions disciplinaires susceptibles d'être appliquées aux agents non titulaires sont :
-
-1° L'avertissement ;
-
-2° Le blâme ;
-
-3° L'exclusion temporaire des fonctions avec retenue de traitement pour une durée maximale d'un mois ;
-
-4° Le licenciement sans préavis ni indemnité de licenciement.
+Tout manquement au respect des obligations auxquelles sont assujettis les agents publics, commis par un agent non titulaire dans l'exercice ou à l'occasion de l'exercice de ses fonctions est constitutif d'une faute l'exposant à une sanction disciplinaire, sans préjudice, le cas échéant, des peines prévues par le code pénal.

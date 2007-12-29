@@ -1,3 +1,3 @@
 # Article 32
 
-Lorsque l'agent est recruté par contrat à durée déterminée, aucun congé ne peut être attribué au-delà de la période d'engagement restant à courir.
+Lorsque le contrat est à durée déterminée, les congés prévus aux titres II, III, IV et V ne peuvent être attribués au-delà de la période d'engagement restant à courir.
