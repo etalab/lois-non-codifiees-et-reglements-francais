@@ -388,6 +388,7 @@
 - [Décret n°2006-228 du 24 février 2006 (SANH0620214D)](decret-n2006-228-du-24-fevrier-2006-sanh0620214d)
 - [Décret n°2006-358 du 24 mars 2006 (JUSD0630025D)](decret-n2006-358-du-24-mars-2006-jusd0630025d)
 - [Décret n°2006-361 du 24 mars 2006 (DEVP0640019D)](decret-n2006-361-du-24-mars-2006-devp0640019d)
+- [Décret n°2006-471 du 24 avril 2006 (BUDD0670009D)](decret-n2006-471-du-24-avril-2006-budd0670009d)
 - [Décret n°2006-1304 du 25 octobre 2006 (EQUA0601772D)](decret-n2006-1304-du-25-octobre-2006-equa0601772d)
 - [Décret n°2006-1307 du 25 octobre 2006 (SOCF0611986D)](decret-n2006-1307-du-25-octobre-2006-socf0611986d)
 - [Décret n°2006-1309 du 25 octobre 2006 (BUDF0600004D)](decret-n2006-1309-du-25-octobre-2006-budf0600004d)
