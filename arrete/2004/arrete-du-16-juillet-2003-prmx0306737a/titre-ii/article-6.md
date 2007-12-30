@@ -6,6 +6,8 @@ Le pouvoir de notation s'exerce dans les conditions suivantes :
 
 - le secrétaire général du Gouvernement ;
 
+- le directeur général du Centre d'analyse stratégique ;
+
 - le directeur au secrétariat général du Gouvernement ;
 
 - le directeur des services administratifs et financiers ;

@@ -1,19 +1,9 @@
 # Article ANNEXE
 
-Conducteurs d'automobile et chefs de garage.
+- adjoints administratifs ;
 
-Ouvriers professionnels.
+- adjoints techniques ;
 
-Maîtres ouvriers.
+- secrétaires administratifs et assistants de service social ;
 
-Agents des services techniques.
-
-Agents administratifs.
-
-Adjoints administratifs.
-
-Secrétaires administratifs et assistants de service social.
-
-Chargés d'études documentaires.
-
-Attachés d'administration centrale.
+- attachés d'administration.
