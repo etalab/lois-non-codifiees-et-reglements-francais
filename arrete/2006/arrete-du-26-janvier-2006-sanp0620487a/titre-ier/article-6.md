@@ -6,9 +6,7 @@
 
 - fournir un certificat médical de non contre-indication à la profession d'ambulancier délivré par un médecin agréé (absence de problèmes locomoteurs, psychiques, d'un handicap incompatible avec la profession : handicap visuel, auditif, amputation d'un membre...) ;
 
-- fournir un certificat médical de vaccinations conforme à la réglementation en vigueur fixant les conditions d'immunisation des professionnels de santé en France ;
-
-- fournir l'attestation, en cours de validité, de formation aux gestes et soins d'urgence de niveau 1 ou d'un certificat équivalent reconnu par le ministère chargé de la santé.
+- fournir un certificat médical de vaccinations conforme à la réglementation en vigueur fixant les conditions d'immunisation des professionnels de santé en France.
 
 2. En sus de ces conditions :
 
