@@ -6,7 +6,7 @@ La procédure d'implantation d'un débit de tabac ordinaire par transfert prévu
 
 2. Les débitants de tabac intéressés disposent d'un délai de trois mois à compter de la date de publication de l'avis prévue au 1 pour demander le transfert de leur débit dans le lieu d'implantation retenu.
 
-3. Lorsque plusieurs débitants de tabac demandent le transfert de leur point de vente dans le même lieu d'implantation, le directeur régional des douanes et droits indirects établit un classement en fonction de leur situation, suivant les critères suivants, par ordre de priorité décroissante :
+3. Lorsque plusieurs débitants de tabac demandent le transfert de leur point de vente dans le même lieu d'implantation, le directeur régional des douanes et droits indirects établit un classement en fonction de leur situation, selon les critères suivants, par ordre de priorité décroissante :
 
 a) Baisse significative du chiffre d'affaires tabac due à une perte de clientèle indépendante de la volonté du débitant ou perte involontaire du local commercial, résultant notamment du non-renouvellement du bail, d'une expulsion pour travaux, de la démolition de l'immeuble ou de la destruction du local ;
 

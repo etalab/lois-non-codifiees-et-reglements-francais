@@ -12,6 +12,6 @@ L'attribution du débit fait l'objet, dans les dix jours qui suivent la signatur
 
 3. Un débit de tabac spécial peut être exploité par le salarié de la société en nom collectif dont le gérant a la qualité de débitant de tabac.
 
-4. En cas de force majeure ou de circonstances exceptionnelles, un débit de tabac spécial peut être fermé ou déplacé sur décision du directeur général des douanes et droits indirects et sous réserve du respect des dispositions de l'article 21.
+4. En cas de force majeure ou de circonstances exceptionnelles, un débit de tabac spécial peut être fermé ou déplacé sur décision du directeur régional des douanes et droits indirects territorialement compétent et sous réserve du respect des dispositions de l'article 21.
 
 La décision de déplacement d'un débit de tabac saisonnier fait l'objet d'un affichage pendant deux mois dans les locaux de la direction régionale des douanes et droits indirects territorialement compétente et dans les locaux des bureaux de douane du département dans lequel est situé le lieu d'implantation.

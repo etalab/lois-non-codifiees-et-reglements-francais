@@ -1,6 +1,6 @@
 # Article 16
 
-I. - Lorsqu'aucun transfert ne peut être effectué en application des dispositions de l'article 15, la gérance du débit de tabac implanté est attribuée par voie d'adjudication selon la procédure suivante :
+I.-Lorsqu'aucun transfert ne peut être effectué en application des dispositions de l'article 15, la gérance du débit de tabac implanté est attribuée par voie d'adjudication selon la procédure suivante :
 
 1. Le candidat retenu est celui qui s'engage à payer, annuellement et pendant trois années consécutives, le montant le plus élevé du droit de licence auquel est tenu tout gérant de débit de tabac ordinaire, conformément au premier alinéa de l'article 568 du code général des impôts. Cet engagement est ci-après dénommé " soumission ".
 
@@ -12,7 +12,7 @@ Afin que toute personne intéressée puisse prendre connaissance notamment des c
 
 4. Toute personne qui souhaite participer à une adjudication doit apposer sa signature, en précisant ses nom, prénom et adresse complète, sur le cahier des charges déposé au service des douanes et droits indirects le plus proche de la commune d'implantation ou dans les locaux de la mairie de cette commune.
 
-5. Dans l'hypothèse où une société en nom collectif veut faire acte de candidature, seul est habilité à signer le cahier des charges le gérant de cette société ou un des associés de ladite société, dûment mandaté par le gérant à ce titre, selon un document produit au service et ayant date certaine antérieure à cette signature du cahier. L'associé en nom collectif non gérant qui a été mandaté pour signer le cahier des charges à la place du gérant de la société en nom collectif ne peut pas être candidat, seul le gérant peut faire acte de candidature à l'adjudication.
+5. Dans l'hypothèse où une société en nom collectif veut faire acte de candidature, seul est habilité à signer le cahier des charges le gérant de cette société ou un des associés de ladite société, dûment mandaté par le gérant à ce titre, selon un document produit au service et ayant date certaine antérieure à cette signature du cahier.L'associé en nom collectif non gérant qui a été mandaté pour signer le cahier des charges à la place du gérant de la société en nom collectif ne peut pas être candidat, seul le gérant peut faire acte de candidature à l'adjudication.
 
 6. Le signataire du cahier des charges ne peut pas se désister au profit de son conjoint, non signataire, ou de toute autre personne dont il ne serait pas le représentant mandaté, pour l'attribution de la gérance du débit.
 
@@ -20,7 +20,7 @@ Afin que toute personne intéressée puisse prendre connaissance notamment des c
 
 8. Le cas échéant, les candidats inscrivent au cahier des charges l'identité du suppléant qu'ils souhaitent présenter et précisent s'il est associé de la société en nom collectif ou s'il est son conjoint, son concubin ou lié par un pacte civil de solidarité. Le suppléant doit également signer le cahier des charges.
 
-II. - 1. Chaque signataire du cahier des charges doit adresser sa soumission, accompagnée d'un engagement écrit de verser la somme choisie au titre du droit de licence annuel, à l'administration des douanes et droits indirects, sous double enveloppe cachetée et en recommandé avec accusé de réception, au plus tard dans les deux mois à compter de la date du dépôt du cahier des charges.
+II.-1. Chaque signataire du cahier des charges doit adresser sa soumission, accompagnée d'un engagement écrit de verser la somme choisie au titre du droit de licence annuel, à l'administration des douanes et droits indirects, sous double enveloppe cachetée et en recommandé avec accusé de réception, au plus tard dans les deux mois à compter de la date du dépôt du cahier des charges.
 
 2. La soumission est établie sous une enveloppe fermée sur laquelle le candidat a mentionné ses nom et prénoms.
 
@@ -32,11 +32,11 @@ Si la soumission la plus forte est souscrite par plus d'un candidat, pour une so
 
 4. Le procès-verbal de séance est signé par l'ensemble des participants mentionnés au premier alinéa du 3.
 
-III. - 1. Le candidat retenu conformément au 1 du I doit fournir les renseignements et les documents suivants dans les dix jours ouvrés à compter de la date de notification du résultat de l'ouverture des plis :
+III.-1. Le candidat retenu conformément au 1 du I doit fournir les renseignements et les documents suivants dans les dix jours ouvrés à compter de la date de notification du résultat de l'ouverture des plis :
 
 a) Copie de sa carte d'identité ou de son passeport, ou autre justificatif de sa qualité de ressortissant d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen ou de la Confédération helvétique ;
 
-b) Certificat médical, établi aux frais du candidat, attestant l'aptitude à l'exercice de la profession de débitant de tabac, délivré par un médecin généraliste agréé par la direction départementale des affaires sanitaires et sociales ;
+b) Certificat médical, établi aux frais du candidat, attestant l'aptitude à l'exercice de la profession de débitant de tabac, délivré par un médecin agréé par la direction départementale des affaires sanitaires et sociales ;
 
 c) Activité du commerce associé au débit de tabac ;
 
@@ -44,7 +44,7 @@ d) Profession exercée jusqu'alors ;
 
 e) Engagement écrit sur l'honneur de respecter les règles de non-cumul d'emplois et de rémunérations définies par le décret du 29 octobre 1936 relatif aux cumuls d'emplois, de rémunérations et de retraites et par la loi n° 63-156 du 23 février 1963 ;
 
-f) Pour les agents titulaires de la fonction publique, justificatifs de mise en disponibilité, de cessation d'activité, ou de mise en oeuvre des conditions particulières prévues par l'article 7 du décret du 29 octobre 1936 ;
+f) Pour les agents titulaires de la fonction publique, justificatifs de mise en disponibilité, de cessation d'activité, ou de mise en oeuvre des conditions particulières prévues par le décret n° 2007-658 du 2 mai 2007 relatif au cumul d'activités des fonctionnaires, des agents non titulaires de droit public et des ouvriers des établissements industriels de l'Etat ;
 
 g) Déclaration écrite attestant sur l'honneur que le candidat n'est pas gérant d'un autre débit de tabac et s'engage à exploiter personnellement le débit de tabac et qu'il n'est pas associé dans une société en nom collectif propriétaire d'un commerce annexé à un débit de tabac ;
 
@@ -58,10 +58,11 @@ j) Une copie de l'acte de propriété du fonds de commerce auquel est associé l
 
 3. Lorsque, dans une commune de moins de 1 500 habitants, la procédure d'adjudication a été mise en place en même temps que la procédure de transfert, en application des dispositions de l'article 12, le candidat retenu est informé que sa candidature ne pourra être acceptée, selon les modalités prévues au 5, que si aucun débitant n'a demandé le transfert de son point de vente tabac.
 
-4. Le candidat retenu s'engage à verser, pendant ses trois premières années d'activité, une redevance annuelle correspondant, au minimum, au montant de la soumission cachetée offerte.
+4. Le candidat retenu s'engage à verser, pendant ses trois premières années d'activité, un droit de licence annuel correspondant, au minimum, au montant de la soumission cachetée offerte sans préjudice de l'application des dispositions relatives au seuil d'exonération du droit de licence visé à l'article 568 du code général des impôts
+.
 
 Si le gérant veut cesser l'exploitation du débit de tabac dont la gérance lui a été concédée avant l'expiration du délai de trois ans mentionné au premier alinéa, il verse à l'administration des douanes et droits indirects une indemnité déterminée au prorata du nombre de mois à courir depuis la date de cessation d'exploitation jusqu'à la date d'expiration dudit délai, excepté en cas de force majeure.
 
 5. Le candidat retenu qui remplit les conditions pour être débitant de tabac définies au 6 de l'article 1er, qui a fourni les renseignements et documents cités au 1 et qui respecte les obligations mentionnées au 3 du II de l'article 3, signe le contrat mentionné au deuxième alinéa du 1 de l'article 1er avec le directeur régional des douanes et droits indirects concerné. Ledit contrat est établi en deux exemplaires. Le premier est conservé par le directeur régional des douanes et droits indirects et le second par le débitant de tabac.
 
-6. L'attribution de la gérance du débit fait l'objet, dans les dix jours qui suivent la signature du contrat mentionné au deuxième alinéa du 1 de l'article 1er, d'un affichage pendant deux mois dans les locaux de la direction régionale des douanes et droits indirects territorialement compétente et dans les locaux des bureaux de douane du département où est implanté le débit. Cette information est simultanément transmise aux représentants départementaux concernés de l'organisation professionnelle citée au e du 6 de l'article 1er.
+6.L'attribution de la gérance du débit fait l'objet, dans les dix jours qui suivent la signature du contrat mentionné au deuxième alinéa du 1 de l'article 1er, d'un affichage pendant deux mois dans les locaux de la direction régionale des douanes et droits indirects territorialement compétente et dans les locaux des bureaux de douane du département où est implanté le débit. Cette information est simultanément transmise aux représentants départementaux concernés de l'organisation professionnelle citée au e du 6 de l'article 1er.
