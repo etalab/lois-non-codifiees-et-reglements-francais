@@ -7,4 +7,3 @@
 - [TITRE V](titre-v)
 - [TITRE VI](titre-vi)
 - [TITRE VII](titre-vii)
-- [Article 10](article-10.md)

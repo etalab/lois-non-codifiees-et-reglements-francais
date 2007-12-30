@@ -1,3 +1,0 @@
-# Article 1
-
-Les gérants d'un débit de tabac ordinaire au sens des dispositions de l'article 244 septies de l'annexe III au code général des impôts, situé dans un département frontalier ou assimilé et dont le montant annuel des livraisons de tabacs manufacturés a baissé de façon significative par rapport à 2002, peuvent bénéficier, sur leur demande, d'une indemnité de fin d'activité. Son montant est égal à trois fois celui de la remise nette définie à l'article 56 AC de l'annexe IV au même code et celui du complément de remise instauré par le décret n° 2006-157 du 13 février 2006 susvisé, perçus en 2002.
