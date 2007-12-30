@@ -961,6 +961,7 @@
 - [Arrêté du 24 août 2007 (IOCE0764374A)](arrete-du-24-aout-2007-ioce0764374a)
 - [Arrêté du 24 août 2007 (IOCE0764484A)](arrete-du-24-aout-2007-ioce0764484a)
 - [Arrêté du 24 août 2007 (MTST0764028A)](arrete-du-24-aout-2007-mtst0764028a)
+- [Arrêté du 24 avril 2006 (BUDD0670010A)](arrete-du-24-avril-2006-budd0670010a)
 - [Arrêté du 24 avril 2007 (DEFN0753012A)](arrete-du-24-avril-2007-defn0753012a)
 - [Arrêté du 24 avril 2007 (ECOC0751277A)](arrete-du-24-avril-2007-ecoc0751277a)
 - [Arrêté du 24 avril 2007 (EQUA0753329A)](arrete-du-24-avril-2007-equa0753329a)
