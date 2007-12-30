@@ -395,6 +395,7 @@
 - [Décret n°2006-1312 du 25 octobre 2006 (SANS0622991D)](decret-n2006-1312-du-25-octobre-2006-sans0622991d)
 - [Décret n°2006-1313 du 25 octobre 2006 (AGRF0602084D)](decret-n2006-1313-du-25-octobre-2006-agrf0602084d)
 - [Décret n°2006-1315 du 25 octobre 2006 (DOMB0600019D)](decret-n2006-1315-du-25-octobre-2006-domb0600019d)
+- [Décret n°90-94 du 25 janvier 1990 (MERP9000002D)](decret-n90-94-du-25-janvier-1990-merp9000002d)
 - [Décret n°2005-1204 du 26 septembre 2005 (INTC0500257D)](decret-n2005-1204-du-26-septembre-2005-intc0500257d)
 - [Décret n°2006-1306 du 26 octobre 2006 (INTE0600200D)](decret-n2006-1306-du-26-octobre-2006-inte0600200d)
 - [Décret n°2006-1308 du 26 octobre 2006 (SOCU0611858D)](decret-n2006-1308-du-26-octobre-2006-socu0611858d)
