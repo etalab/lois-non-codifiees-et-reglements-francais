@@ -720,7 +720,6 @@
 - [Décret n°99-435 du 28 mai 1999 (JUSA9900085D)](decret-n99-435-du-28-mai-1999-jusa9900085d)
 - [Décret n°99-437 du 28 mai 1999 (INTM9900017D)](decret-n99-437-du-28-mai-1999-intm9900017d)
 - [Décret n°99-443 du 28 mai 1999 (ECOM9900593D)](decret-n99-443-du-28-mai-1999-ecom9900593d)
-- [Décret n°99-455 du 28 mai 1999 (DEFP9901321D)](decret-n99-455-du-28-mai-1999-defp9901321d)
 - [Décret n°2000-833 du 29 août 2000 (PRMX0004289D)](decret-n2000-833-du-29-aout-2000-prmx0004289d)
 - [Décret n°2001-283 du 29 mars 2001 (MENF0100404D)](decret-n2001-283-du-29-mars-2001-menf0100404d)
 - [Décret n°98-1215 du 29 décembre 1998 (MESS9823863D)](decret-n98-1215-du-29-decembre-1998-mess9823863d)
