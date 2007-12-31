@@ -12,10 +12,6 @@ Commission numéro 4. - Ingénieurs d'études et attachés d'administration de l
 
 Commission numéro 5. - Assistants ingénieurs.
 
-Commission numéro 6. - Techniciens de la recherche.
+Commission numéro 6. - techniciens de la recherche et secrétaires d'administration de la recherche.
 
-Commission numéro 7. -  Adjoints techniques de la recherche et adjoints administratifs de la recherche.
-
-Commission numéro 8. - Agents techniques de la recherche.
-
-Commission numéro 9. - Secrétaires d'administration de la recherche.
+Commission numéro 7. - Adjoints techniques de la recherche.
