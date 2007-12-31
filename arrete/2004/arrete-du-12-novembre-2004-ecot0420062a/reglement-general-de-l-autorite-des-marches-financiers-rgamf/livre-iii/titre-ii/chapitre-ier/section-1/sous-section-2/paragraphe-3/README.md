@@ -1,5 +1,7 @@
 # Paragraphe 3 : Obligations relatives à la lutte contre le blanchiment de capitaux et le financement du terrorisme
 
+- [Article 321-31](article-321-31.md)
+- [Article 321-32](article-321-32.md)
 - [Article 321-33](article-321-33.md)
 - [Article 321-34](article-321-34.md)
 - [Article 321-35](article-321-35.md)
