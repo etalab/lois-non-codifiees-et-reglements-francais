@@ -14,15 +14,15 @@ La rente servie en application du présent a bénéficie, le cas échéant, d'un
 
 En ce qui concerne les salariés étrangers qui n'ont pas leur résidence en France, ils conservent le bénéfice des rentes prévues au présent a ; il en est de même s'ils cessent d'avoir leur résidence en France postérieurement à la date d'entrée en jouissance de la rente.
 
-Sont applicables aux prestations visées au présent a les dispositions des articles 175 à 180, 182 et 183.
+Sont applicables aux prestations visées au présent a les dispositions des articles 175 à 180,182 et 183.
 
-b) Pour les dépenses exposées par les assurés et leurs ayants droit qui ne sont pas mentionnées aux articles 186 à 188, les règles de remboursement pratiquées au 1er janvier 1993 restent provisoirement applicables, nonobstant les dispositions de l'article 184.
+b) Pour les dépenses exposées par les assurés et leurs ayants droit qui ne sont pas mentionnées aux articles 186 à 188, les règles de remboursement pratiquées au 1er janvier 1993 restent provisoirement applicables, nonobstant les dispositions de l'article 184. Le conseil d'administration d'une caisse régionale de la sécurité sociale dans les mines peut, après avis de celui de la Caisse autonome nationale, décider de mettre fin à une ou plusieurs dispositions dérogeant aux articles 184 et suivants.
 
 3° La date du 1er janvier 1993 s'entend de la manière suivante :
 
 Les dispositions de l'article 96 sont applicables aux cotisations dues au titre des rémunérations versées à compter de cette date.
 
-Les dispositions des articles 125 à 178, 194, 195, 197, 198 et 199 s'appliquent aux prestations liquidées à compter de cette date ; les pensions de vieillesse pour moins de quinze ans de services peuvent être liquidées dès lors que l'assuré a atteint l'âge de cinquante-cinq ans à compter de cette date ou occupait à cette date un emploi effectif donnant lieu à cotisations au présent régime ; les pensions de réversion et les pensions d'orphelin pour moins de quinze ans de services peuvent être liquidées dès lors que le décès de l'assuré est survenu à compter de la date précitée.
+Les dispositions des articles 125 à 178,194,195,197,198 et 199 s'appliquent aux prestations liquidées à compter de cette date ; les pensions de vieillesse pour moins de quinze ans de services peuvent être liquidées dès lors que l'assuré a atteint l'âge de cinquante-cinq ans à compter de cette date ou occupait à cette date un emploi effectif donnant lieu à cotisations au présent régime ; les pensions de réversion et les pensions d'orphelin pour moins de quinze ans de services peuvent être liquidées dès lors que le décès de l'assuré est survenu à compter de la date précitée.
 
 Les dispositions des articles 155 à 157 et 164 s'appliquent aux demandes de prestations formées à compter de cette date.
 
@@ -38,4 +38,4 @@ Parallèlement, les actes liant les organismes du régime minier aux praticiens 
 
 Les dispositions des articles 98 à 115 sont applicables à compter de l'exercice 1994, à l'exception des règles prévues aux articles D. 253-2 à D. 253-65 du code de la sécurité sociale qui sont applicables au 1er janvier 1993 ; il en va de même pour la tenue d'une comptabilité distincte des prestations mentionnées au b du 2° de l'article 2 du présent décret.
 
-Les dispositions des articles 24, 25, 26, premier alinéa, 27, 28, 30 à 38, 40 à 44 et 46 à 56 s'appliqueront pour le prochain renouvellement général des conseils d'administration.
+Les dispositions des articles 24,25,26, premier alinéa,27,28,30 à 38,40 à 44 et 46 à 56 s'appliqueront pour le prochain renouvellement général des conseils d'administration.

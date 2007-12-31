@@ -18,13 +18,13 @@ Il est institué un comité d'évaluation placé auprès de la Caisse autonome n
 
 Ce comité est présidé par un inspecteur général des affaires sociales désigné par le chef de l'inspection générale des affaires sociales pour une durée de cinq ans ; il comprend en outre les personnalités suivantes :
 
-- le directeur de la Caisse autonome nationale de la sécurité sociale dans les mines ;
+-le directeur de la Caisse autonome nationale de la sécurité sociale dans les mines ;
 
-- le directeur de Centre national d'études supérieures de sécurité sociale ;
+-le directeur de Centre national d'études supérieures de sécurité sociale ;
 
-- un ancien agent de direction du régime minier, y ayant exercé les fonctions de directeur ou d'agent comptable, et ayant fait valoir ses droits à la retraite depuis moins de trois ans, désigné par le président du conseil d'administration de la Caisse autonome nationale de la sécurité sociale dans les mines ;
+-un ancien agent de direction du régime minier, y ayant exercé les fonctions de directeur ou d'agent comptable, et ayant fait valoir ses droits à la retraite depuis moins de trois ans, désigné par le président du conseil d'administration de la Caisse autonome nationale de la sécurité sociale dans les mines ;
 
-- un directeur régional des affaires sanitaires et sociales désigné par le directeur de la sécurité sociale.
+-un directeur régional des affaires sanitaires et sociales désigné par le directeur de la sécurité sociale.
 
 Le comité ne peut valablement délibérer que si la moitié au moins de ses membres sont présents. Il rend ses avis à la majorité des suffrages exprimés ; en cas de partage des voix, le président a voix prépondérante.
 
@@ -40,11 +40,11 @@ Le comité se réunit sur convocation de son président, en tant que de besoin e
 
 Nomination des autres cadres de direction
 
-Les autres cadres de direction des caisses régionales de la sécurité sociale dans les mines sont nommés par le conseil d'administration, sur proposition du directeur de l'organisme parmi les personnes inscrites sur la liste d'aptitude visée à l'article R. 123-45 du code de la sécurité sociale.
+Les autres cadres de direction des caisses régionales de la sécurité sociale dans les mines sont nommés par le directeur de l'organisme parmi les personnes inscrites sur la liste d'aptitude visée à l'article R. 123-45 du code de la sécurité sociale, après avis conforme du conseil d'administration. En cas de divergence, le bureau de la caisse autonome nationale décide. Il est mis fin à leur fonction dans les mêmes conditions.
 
 Toutes les nominations susvisées sont soumises à l'agrément du préfet de région après avis, en ce qui concerne l'agent comptable, du trésorier-payeur général compétent pour la circonscription. Le refus d'agrément empêche les intéressés de continuer leurs fonctions ; son retrait met fin à celles-ci.
 
-Le directeur de la caisse autonome nationale est nommé par décret rendu sur le rapport du ministre chargé de la sécurité sociale. Son directeur adjoint est nommé par arrêté des ministres chargés de la sécurité sociale, du budget et des mines, son agent comptable par arrêté des ministres chargés de la sécurité sociale et du budget sur proposition du directeur. Les autres agents de direction sont nommés, sur proposition du directeur, par le conseil d'administration ; le refus d'agrément empêche les intéressés de continuer leurs fonctions ; son retrait met fin à celles-ci.
+Le directeur de la caisse autonome nationale est nommé par décret rendu sur le rapport du ministre chargé de la sécurité sociale. Son directeur adjoint est nommé par arrêté des ministres chargés de la sécurité sociale, du budget et des mines, son agent comptable par arrêté des ministres chargés de la sécurité sociale et du budget sur proposition du directeur. Les autres agents de direction sont nommés, par le directeur, après avis du conseil d'administration.
 
 Les directeurs et les agents comptables des organismes mentionnés à l'article 10 exercent leurs fonctions dans les conditions prévues par les articles D. 253-4 à D. 253-7, D. 253-9 à D. 253-13 et D. 253-64 à D. 253-83 du code de la sécurité sociale.
 

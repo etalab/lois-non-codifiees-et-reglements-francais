@@ -8,10 +8,10 @@ Toutefois, ils font l'avance de la totalité des frais pharmaceutiques et d'appa
 
 1° Lorsque les prestations leur sont dispensées par les pharmaciens couverts par les conventions collectives visées aux articles 76 et 77 ;
 
-2° Lorsqu'ils ne résident pas habituellement dans le rayon d'activité d'un tel pharmacien ;
+2° Lorsque les prestations leur sont dispensées par un pharmacien situé en dehors du rayon d'activité d'un pharmacien visé au 1° ;
 
 3° Lorsque la dispense d'avance des frais est prévue par une convention d'ouverture visée à l'article 189 dans sa rédaction applicable avant l'entrée en vigueur du décret du 2 novembre 2004 ;
 
-4° Lorsqu'ils résident dans le rayon d'activité d'une pharmacie de secours minière ouverte à tous les assurés sociaux.
+4° Lorsque les prestations leur sont dispensées par un pharmacien situé à l'intérieur du rayon d'activité d'un pharmacien visé au 1° lorsque la pharmacie de ce dernier est ouverte à tous les assurés sociaux.
 
 Lorsqu'ils résident habituellement dans le rayon d'activité d'une pharmacie de secours minière qui n'est pas ouverte à tous les assurés sociaux mais qu'ils ne peuvent s'y rendre en raison de l'urgence, dûment vérifiée par la suite par caisse, ils font, en tout état de cause, l'avance des frais pharmaceutiques et d'appareils engagés auprès d'officines mais en sont remboursés intégralement.

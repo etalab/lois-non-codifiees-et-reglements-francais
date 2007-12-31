@@ -2,6 +2,7 @@
 
 - [Décret du 2 février 2005 (AGRP0500004D)](decret-du-2-fevrier-2005-agrp0500004d)
 - [Décret du 2 février 2005 (AGRP0500006D)](decret-du-2-fevrier-2005-agrp0500006d)
+- [Décret n°2004-1172 du 2 novembre 2004 (SANS0422912D)](decret-n2004-1172-du-2-novembre-2004-sans0422912d)
 - [Décret n°2005-1096 du 2 septembre 2005 (MCCT0500408D)](decret-n2005-1096-du-2-septembre-2005-mcct0500408d)
 - [Décret n°2005-887 du 2 août 2005 (DEFD0501064D)](decret-n2005-887-du-2-aout-2005-defd0501064d)
 - [Décret n°2005-900 du 2 août 2005 (SANH0522858D)](decret-n2005-900-du-2-aout-2005-sanh0522858d)
