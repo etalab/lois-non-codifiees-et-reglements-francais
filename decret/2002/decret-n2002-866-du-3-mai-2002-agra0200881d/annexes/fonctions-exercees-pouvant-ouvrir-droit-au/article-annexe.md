@@ -6,9 +6,7 @@ Secrétaire général.
 
 Directeur général et directeur.
 
-Chef du service de l'inspection générale de l'agriculture.
-
-Vice-président de conseil général de corps.
+Vice-président du Conseil général de l'agriculture, de l'alimentation et des espaces ruraux.
 
 Haut fonctionnaire rattaché à un directeur général ou à un directeur d'administration centrale.
 
