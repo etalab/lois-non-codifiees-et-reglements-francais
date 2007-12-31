@@ -8,13 +8,13 @@ b) Les coûts de fonctionnement des missions régionales ou interrégionales d'a
 
 c) Le coût des audits réalisés, à la demande de la mission nationale d'expertise et d'audit hospitaliers, par les agences régionales d'hospitalisation pour les établissements de leur région.
 
-Une avance de trésorerie correspondant au quart des montants des dépenses remboursables au titre de l'année précédente au titre du fonctionnement des missions nationales, régionales et interrégionales mentionnées aux a et b ci-dessus est versée, chaque début d'année, aux agences concernées.
+Une avance de trésorerie correspondant au quart des montants des dépenses remboursables au titre de l'année précédente au titre du fonctionnement des missions nationales, régionales et interrégionales mentionnées aux a et b ci-dessus est versée, chaque début d'année, aux agences concernées ou à l'agence technique de l'information sur l'hospitalisation.
 
-Les coûts de fonctionnement mentionnés au a et au b sont remboursés trimestriellement aux agences concernées, sur présentation des justificatifs de dépenses.
+Les coûts de fonctionnement mentionnés au a et au b sont remboursés trimestriellement aux agences concernées ou à l'agence technique de l'information sur l'hospitalisation, sur présentation des justificatifs de dépenses.
 
 Lorsque les paiements atteignent les trois quarts de la dotation prévue pour l'année, le remboursement des dépenses de fonctionnement est imputé sur l'avance consentie en début d'année.
 
-Les frais d'études, expertises et audits réalisés à la demande des missions nationales sont remboursés aux agences concernées dès présentation des factures.
+Les frais d'études, expertises et audits réalisés à la demande des missions nationales sont remboursés aux agences concernées ou à l'agence technique de l'information sur l'hospitalisation dès présentation des factures.
 
 Pour les marchés passés par la mission nationale d'expertise et d'audit hospitalier, une avance de trésorerie correspondant à la moitié du montant du marché signé peut être versée par la Caisse des dépôts et consignations à l'agence régionale de l'hospitalisation d'Ile-de-France, sur présentation du contrat.
 

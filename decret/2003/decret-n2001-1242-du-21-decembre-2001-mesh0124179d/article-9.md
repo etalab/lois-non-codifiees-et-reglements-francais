@@ -1,3 +1,3 @@
 # Article 9
 
-Par dérogation aux dispositions prévues au deuxième alinéa de l'article 1er du présent décret, la participation des régimes obligatoires d'assurance maladie au titre de l'année 2001 est versée par l'ensemble des organismes débiteurs au plus tard le 31 décembre 2001.
+Le ministre de l'économie, des finances et de l'industrie, la ministre de l'emploi et de la solidarité, le ministre de l'agriculture et de la pêche, le ministre délégué à la santé et la secrétaire d'Etat au budget sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.
