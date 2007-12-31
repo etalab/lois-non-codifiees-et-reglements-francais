@@ -18,6 +18,4 @@ Le directeur assure la direction de l'établissement. A ce titre, il exerce les 
 
 8° Il exerce le pouvoir adjudicateur en matière de marchés et peut dans ce domaine déléguer sa signature au secrétaire général.
 
-Dans les autres domaines, le directeur peut déléguer sa signature au secrétaire général, au directeur des études, au directeur de la recherche et, pour les affaires relatives aux départements, instituts et services communs mentionnés à l'article 5, à leurs directeurs respectifs, ainsi qu'à tout autre agent placé sous leur autorité, dans la limite de leurs attributions.
-
-Il peut assister aux réunions des conseils des instituts, départements et services communs de l'école.
+Dans les autres domaines, le directeur peut déléguer sa signature au secrétaire général, au directeur des études, au directeur de la recherche et, pour les affaires relatives aux départements et services mentionnés à l'article 5, à leurs directeurs respectifs, ainsi qu'à tout autre agent placé sous leur autorité, dans la limite de leurs attributions.
