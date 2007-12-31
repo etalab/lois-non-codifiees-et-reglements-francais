@@ -1,3 +1,0 @@
-# Article 337-2
-
-Les dispositions des articles 321-37, 321-122, 321-123, du 3° de l'article 321-124, des articles 321-125 à 321-127, 321-129 à 321-135 sont applicables aux personnes qui, sans être prestataires de services d'investissement ou sans agir pour le compte d'un prestataire de services d'investissement, produisent et diffusent à titre de profession habituelle des analyses sur les personnes morales faisant appel public à l'épargne, en vue de formuler et de diffuser une opinion sur l'évolution prévisible desdites personnes morales et, le cas échéant, sur l'évolution prévisible du prix des instruments financiers qu'elles émettent.
