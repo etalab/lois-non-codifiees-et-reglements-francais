@@ -1,22 +1,6 @@
 # Article 7
 
-I. - A. - Pour les années 2005 à 2012, les ministres chargés de la santé et de la sécurité sociale arrêtent, dans les conditions prévues à l'article R. 162-42-1, les éléments suivants :
-
-1° La fraction du tarif des prestations d'hospitalisation mentionnée au 1° du A du V de l'article 33 de la loi du 18 décembre 2003 susvisée ;
-
-2° Le montant total et les montants régionaux des dotations annuelles complémentaires mentionnés respectivement au 1° du A et au C du V du même article ;
-
-3° Le taux moyen régional de convergence mentionné au IV de l'article 33 susmentionné.
-
-B. - Le montant total et les montants régionaux des dotations annuelles complémentaires mentionnés au C du V de l'article 33 susmentionné sont fixés chaque année en fonction d'un taux d'évolution établi par référence au taux d'évolution de l'objectif de dépenses mentionnés à l'article L. 162-22-9 du code de la sécurité sociale appliqué au montant des dotations de l'année précédente, corrigé le cas échéant des éléments suivants :
-
-1° L'évolution de la fraction mentionnée au A du V de l'article 33 susmentionné ;
-
-2° Les conséquences financières des modifications relatives aux capacités et à la nature des activités autorisés ;
-
-3° Les conséquences financières des modifications législatives et réglementaires relatives à la participation de l'assuré ;
-
-4° Les conséquences financières des modifications législatives et réglementaires relatives au financement des activités de médecine, chirurgie, obstétrique et odontologie.
+I. - Pour les années 2008 à 2012, les ministres chargés de la santé et de la sécurité sociale arrêtent, dans les conditions prévues à l'article R. 162-42-1 du code de la sécurité sociale, les taux moyens régionaux de convergence mentionnés au IV et au C du V de l'article 33 de la loi du 18 décembre 2003 susvisée.
 
 II. - Les règles générales relatives à la fixation, à partir du taux moyen régional de convergence, des coefficients de transition mentionnés au deuxième alinéa du IV de l'article 33 susmentionné sont arrêtées par le directeur de l'agence régionale de l'hospitalisation dans les conditions prévues à l'article R. 162-42-4.
 
