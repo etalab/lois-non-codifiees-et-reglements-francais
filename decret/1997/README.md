@@ -668,7 +668,6 @@
 - [Décret n°96-1259 du 27 décembre 1996 (INTA9600320D)](decret-n96-1259-du-27-decembre-1996-inta9600320d)
 - [Décret n°97-1001 du 27 octobre 1997 (MESS9722765D)](decret-n97-1001-du-27-octobre-1997-mess9722765d)
 - [Décret n°97-1096 du 27 novembre 1997 (MCCL9700673D)](decret-n97-1096-du-27-novembre-1997-mccl9700673d)
-- [Décret n°97-1097 du 27 novembre 1997 (MCCL9700674D)](decret-n97-1097-du-27-novembre-1997-mccl9700674d)
 - [Décret n°97-1116 du 27 novembre 1997 (ATEP9750044D)](decret-n97-1116-du-27-novembre-1997-atep9750044d)
 - [Décret n°97-194 du 27 février 1997 (AGRA9700031D)](decret-n97-194-du-27-fevrier-1997-agra9700031d)
 - [Décret n°97-195 du 27 février 1997 (AGRA9700032D)](decret-n97-195-du-27-fevrier-1997-agra9700032d)
