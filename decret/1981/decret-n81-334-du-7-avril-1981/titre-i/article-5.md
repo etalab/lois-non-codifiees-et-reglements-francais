@@ -1,5 +1,0 @@
-# Article 5
-
-L'accès des ouvriers aux cycles, stages et autres actions définis à l'article 2 ci-dessus, peut être subordonné, dans les conditions fixées par arrêté du ministre dont relèvent les intéressés, à l'engagement d'accomplir postérieurement au cycle, stage ou action une période de services effectifs dans l'administration. En cas de rupture de l'engagement du fait de l'intéressé, celui-ci doit rembourser sa quote-part des frais d'organisation du cycle, du stage ou de l'action de formation et le montant de la rémunération qui lui a été versée pendant la période correspondante.
-
-Les dispositions du présent article ne s'appliquent [*champ d'application*] qu'à des cycles, stages ou actions d'une durée supérieure à deux mois. L'engagement de servir dans l'administration ne peut excéder deux ans. Toutefois, la durée de l'engagement pourra être augmentée et portée jusqu'à cinq années par arrêté du ministre dont relèvent les intéressés pour certains stages d'une nature et d'un coût particuliers.
