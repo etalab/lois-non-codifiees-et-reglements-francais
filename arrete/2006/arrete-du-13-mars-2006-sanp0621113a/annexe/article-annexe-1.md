@@ -14,9 +14,9 @@ que (M.) (Mme) (Mlle) ,
 
 né(e) le à ,
 
-remplit les conditions mentionnées à l'article 14 (1°, B) de l'arrêté du 13 mars 2006 modifié susvisé.
+remplit les conditions mentionnées à l'article 14 (B) de l'arrêté du 13 mars 2006 modifié susvisé.
 
-La présente attestation est valable jusqu'au 31 décembre 2007.
+La présente attestation est valable jusqu'au 31 mai 2010.
 
 Fait à , le
 
