@@ -142,9 +142,9 @@ Emplois de catégories A, B, C et D
 
 ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
 
-Conseil supérieur de la pêche
+Office national de l'eau et des milieux aquatiques
 
-EMPLOIS OU CATEGORIES D'EMPLOIS concernés
+Emplois des catégories A, B et C, à l'exception des agents de catégorie B et C chargés de la surveillance des milieux aquatiques.
 
 Emplois de toutes catégories
 
