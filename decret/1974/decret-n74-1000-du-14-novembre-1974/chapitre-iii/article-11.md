@@ -1,6 +1,6 @@
 # Article 11
 
-Peuvent seuls être détachés dans le corps régi par le présent décret, dans la limite de 15 p. 100 de l'effectif budgétaire de ce corps, les fonctionnaires de l'Etat appartenant à un corps technique de catégorie C, titulaires depuis deux ans au moins d'un grade dont l'indice de début est au moins égal à celui afférent au 1er échelon, respectivement, du grade de chef de district forestier ou de chef de district forestier principal.
+Peuvent seuls être détachés dans le corps régi par le présent décret, dans la limite de 15 % de l'effectif budgétaire de ce corps, les fonctionnaires de l'Etat appartenant à un corps technique de catégorie C, titulaires depuis deux ans au moins d'un grade dont l'indice de début est au moins égal à celui afférent au 1er échelon, respectivement, du grade de chef de district forestier de 2e classe ou de 1re classe ou de celui de chef de district forestier principal de 2e classe ou de 1re classe.
 
 Le détachement est prononcé à équivalence de grade et à un échelon comportant un indice égal ou, à défaut, immédiatement supérieur à celui dont les intéressés bénéficiaient dans leur corps, cadre d'emplois ou emploi d'origine.
 
