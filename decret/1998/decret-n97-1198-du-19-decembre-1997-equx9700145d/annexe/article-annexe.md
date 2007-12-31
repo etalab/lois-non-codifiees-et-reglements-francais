@@ -30,9 +30,9 @@ Article R. 244-1, 5e alinéa.
 
 Décision de classement des aérodromes.
 
-Article R. 222-3
+Article
 
-3
+R. 222-3 3
 
 Autorisation d'outillage privé avec obligation de service public sur les aérodromes appartenant à l'Etat dans le cadre des concessions non conformes aux cahiers des charges types.
 
@@ -46,7 +46,7 @@ Article 5
 
 TITRE II DÉCISIONS ADMINISTRATIVES INDIVIDUELLES PRISES PAR LE MINISTRE CHARGÉ DE L'ÉQUIPEMENT, DES TRANSPORTS ET DU LOGEMENT
 
-A. - Décisions prises conjointement avec un ou plusieurs ministres Mesure prise par les ministres chargés des finances, de l'équipement et du logement
+A.-Décisions prises conjointement avec un ou plusieurs ministres Mesure prise par les ministres chargés des finances, de l'équipement et du logement
 
 Décret n° 83-252 du 29 mars 1983 relatif aux procédures d'homologation ou d'agrément technique applicables aux marchés publics de travaux et instituant trois procédures concernant respectivement les liants hydrauliques, les armatures pour béton armé et les armatures à haute résistance de précontrainte
 
@@ -74,7 +74,7 @@ Code de la construction et de l'habitation
 
 Autorisation donnée à une société anonyme d'habitations à loyer modéré de consentir des avances à d'autres sociétés HLM.
 
-Article R. 422-1 relatif aux statuts des SA d'HLM - Clause type n° 11 annexée.
+Article R. 422-1 relatif aux statuts des SA d'HLM-Clause type n° 11 annexée.
 
 2
 
@@ -284,7 +284,7 @@ Article D. 221-2.
 
 Mesures prises par les ministres chargés des transports et de l'industrie
 
-Décret n° 2001-129 du 8 février 2001 portant transposition de la directive 96/48/CE du Conseil du 23 juillet 1996 relative à l'interopérabilité du système ferroviaire transeuropéen à grande vitesse.
+Décret n° 2001-129 du 8 février 2001 portant transposition de la directive 96 / 48 / CE du Conseil du 23 juillet 1996 relative à l'interopérabilité du système ferroviaire transeuropéen à grande vitesse.
 
 1
 
@@ -304,7 +304,7 @@ Décret n° 2005-276 du 24 mars 2005 relatif à l'interopérabilité des systèm
 
 1
 
-Habilitation des organismes mettant en oeuvre la procédure d'évaluation de la conformité ou de l'aptitude à l'emploi des constituants d'interopérabilité et la procédure de vérification "CE" des sous-systèmes.
+Habilitation des organismes mettant en oeuvre la procédure d'évaluation de la conformité ou de l'aptitude à l'emploi des constituants d'interopérabilité et la procédure de vérification " CE " des sous-systèmes.
 
 Article 16
 
@@ -318,7 +318,7 @@ Habilitation des organismes à effectuer les tâches d'attestation de conformit�
 
 Article 1er III
 
-B. - Décisions prises par un ministre
+B.-Décisions prises par un ministre
 
 Mesures prises par le ministre chargé de l'équipement
 
@@ -454,6 +454,12 @@ Code des ports maritimes :
 
 1
 
+Approbation de la convention entre l'autorité portuaire et Réseau ferré de France fixant les conditions techniques et financières particulières du raccordement des voies ferrées portuaires au réseau ferré national.
+
+Article R. 411-4 du code des ports maritimes.
+
+1
+
 Habilitation des organismes de sûreté.
 
 Articles R. 321-8 et R. 321-9
@@ -504,21 +510,21 @@ Refus de transmission à la Commission européenne d'une demande de dérogation 
 
 Article 10
 
-I. - Décret n° 98-1190 du 23 décembre 1998 relatif à l'utilisation pour certains transports internationaux de l'infrastructure du réseau ferré national et portant transposition des directives du Conseil des Communautés européennes 91-440 du 29 juillet 1991, 95-18 et 95-19 du 19 juin 1995.
+I.-Décret n° 98-1190 du 23 décembre 1998 relatif à l'utilisation pour certains transports internationaux de l'infrastructure du réseau ferré national et portant transposition des directives du Conseil des Communautés européennes 91-440 du 29 juillet 1991,95-18 et 95-19 du 19 juin 1995.
 
 1
 
 Délivrance, suspension temporaire et retrait des licences d'entreprises ferroviaires.
 
-Art. 4, 5 et 13
+Art. 4,5 et 13
 
 2
 
 Délivrance, suspension temporaire et retrait des certificats de sécurité.
 
-Art. 4, 15 et 16
+Art. 4,15 et 16
 
-II. - Décret n° 2000-286 du 30 mars 2000 relatif à la sécurité du réseau ferré national.
+II.-Décret n° 2000-286 du 30 mars 2000 relatif à la sécurité du réseau ferré national.
 
 1
 
@@ -536,7 +542,7 @@ Art. 7 et 8
 
 Autorisation de mise en exploitation, suspension temporaire et retrait d'autorisations.
 
-Art. 12, 13 et 26
+Art. 12,13 et 26
 
 Règlement (CEE) n° 684-92 du Conseil du 16 mars 1992 établissant des règles communes pour les transports internationaux de voyageurs effectués par autocars et autobus
 
@@ -778,7 +784,7 @@ Article 14-I, paragraphe 2-1.
 
 Attestation de conformité des navires de commerce de plus de 500 tonneaux et des navires à passagers effectuant des voyages internationaux à la réglementation sur la sécurité des navires, après étude de leurs plans.
 
-Article 14-I, paragraphes 1-1, 1-2 et 2-1.
+Article 14-I, paragraphes 1-1,1-2 et 2-1.
 
 3
 
@@ -816,19 +822,19 @@ Code du tourisme
 
 Délivrance, modification, suspension et retrait de licences de libre prestation de services aux ressortissants d'un Etat membre de l'Union européenne.
 
-Articles R.* 212-42, R.* 212-45 et R.* 212-47.
+Articles R. * 212-42, R. * 212-45 et R. * 212-47.
 
 2
 
 Attribution de l'agrément national délivré à des organismes de promotion et de contrôle des meublés, représentatifs au plan national.
 
-Article R.* 324-9.
+Article R. * 324-9.
 
 3
 
 Délivrance, suspension et retrait de l'agrément national délivré à des organismes de tourisme social et familial.
 
-Articles R.* 412-1 et R.* 412-7.
+Articles R. * 412-1 et R. * 412-7.
 
 Mesures prises par le ministre chargé de l'aviation civile
 
@@ -940,11 +946,11 @@ Article D. 232-7.
 
 Décisions relatives :
 
-- à l'agrément des aptitudes techniques des entreprises assurant la conception, la production, l'entretien et l'exploitation des aéronefs sous réserves des dispositions de l'article R. 331-1-2 ;
+-à l'agrément des aptitudes techniques des entreprises assurant la conception, la production, l'entretien et l'exploitation des aéronefs sous réserves des dispositions de l'article R. 331-1-2 ;
 
-- à la navigabilité des aéronefs et la limitation des nuisances ;
+-à la navigabilité des aéronefs et la limitation des nuisances ;
 
-- à l'aptitude au vol, l'utilisation des aéronefs, à leurs équipements, à leurs équipages, à leurs chargements et aux passagers ;
+-à l'aptitude au vol, l'utilisation des aéronefs, à leurs équipements, à leurs équipages, à leurs chargements et aux passagers ;
 
 et sanctions correspondantes.
 
@@ -1038,7 +1044,7 @@ Décision relative à la délivrance et le retrait des certificats de réception
 
 Article R. 224-12.
 
-C. - Autres décisions
+C.-Autres décisions
 
 1
 
