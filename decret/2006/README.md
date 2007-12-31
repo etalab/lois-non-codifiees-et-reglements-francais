@@ -429,7 +429,6 @@
 - [Décret n°2006-1462 du 28 novembre 2006 (INTB0600261D)](decret-n2006-1462-du-28-novembre-2006-intb0600261d)
 - [Décret n°2006-1463 du 28 novembre 2006 (INTB0600262D)](decret-n2006-1463-du-28-novembre-2006-intb0600262d)
 - [Décret n°2006-1468 du 28 novembre 2006 (AGRP0601824D)](decret-n2006-1468-du-28-novembre-2006-agrp0601824d)
-- [Décret n°2006-1469 du 28 novembre 2006 (AGRS0602087D)](decret-n2006-1469-du-28-novembre-2006-agrs0602087d)
 - [Décret n°2006-1480 du 28 novembre 2006 (SANS0624226D)](decret-n2006-1480-du-28-novembre-2006-sans0624226d)
 - [Décret n°2006-369 du 28 mars 2006 (EQUT0600796D)](decret-n2006-369-du-28-mars-2006-equt0600796d)
 - [Décret n°2006-945 du 28 juillet 2006 (SOCC0611650D)](decret-n2006-945-du-28-juillet-2006-socc0611650d)

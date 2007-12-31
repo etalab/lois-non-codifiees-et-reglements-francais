@@ -2,7 +2,6 @@
 
 - [Article 1](article-1.md)
 - [I. - Déplacements en métropole à l'occasion d'une mission ou d'un intérim](i)
-- [II - Missions, tournées et intérims à l'étranger et outre-mer](ii)
 - [III - Stages de formation.](iii)
 - [IV - Dispositions communes.](iv)
 - [Article 32](article-32.md)

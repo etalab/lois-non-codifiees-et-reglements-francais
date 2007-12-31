@@ -3,5 +3,4 @@
 - [CHAPITRE Ier : Dispositions générales.](chapitre-ier)
 - [CHAPITRE II : Avancement.](chapitre-ii)
 - [CHAPITRE III : Dispositions particulières.](chapitre-iii)
-- [CHAPITRE V : Dispositions relatives aux retraités.](chapitre-v)
 - [Article 15](article-15.md)
