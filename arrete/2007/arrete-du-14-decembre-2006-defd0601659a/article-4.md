@@ -6,6 +6,6 @@ La sous-direction des affaires générales et de la qualité comprend :
 
 2. Le bureau de la sécurité ;
 
-3. Le bureau de l'hygiène, de la sécurité et des conditions de travail ;
+3. abrogé ;
 
 4. Le bureau des affaires générales.

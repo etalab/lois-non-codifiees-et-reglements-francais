@@ -1,13 +1,11 @@
 # Article 5
 
-La sous-direction de l'administration générale comprend :
+La sous-direction de la gestion et de la qualité comprend :
 
-1. Le bureau de l'organisation et des questions juridiques ;
+1° Le bureau du budget et de la gestion financière ;
 
-2. Le bureau du soutien et de la mutualisation des moyens ;
+2° Le bureau du contrôle de gestion, de la qualité interne et du contrôle interne ;
 
-3. Le bureau des affaires immobilières et domaniales ;
+3° Le bureau des ressources humaines ;
 
-4. Le bureau de la protection de l'environnement ;
-
-5. Le bureau des ressources humaines et de la qualité.
+4° Le bureau des affaires générales.

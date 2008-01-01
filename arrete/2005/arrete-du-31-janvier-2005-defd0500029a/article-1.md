@@ -8,6 +8,8 @@ Pour l'exercice des attributions fixées par le décret du 31 janvier 2005 susvi
 
 3. La sous-direction des achats ;
 
+3-1. La sous-direction des sites et de l'environnement ;
+
 4. La sous-direction de la gestion et de la qualité.
 
 Elle a autorité sur des organismes extérieurs dont les missions sont fixées par des textes particuliers.

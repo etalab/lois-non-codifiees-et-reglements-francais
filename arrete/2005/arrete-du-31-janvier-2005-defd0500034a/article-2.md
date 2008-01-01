@@ -4,6 +4,4 @@ La sous-direction des pôles et de la compétence techniques comprend, outre des
 
 1. Le bureau de la compétence technique ;
 
-2. Le bureau des pôles d'expertise technique ;
-
-3. Le bureau des investissements techniques.
+2. Le bureau des pôles d'expertise technique.
