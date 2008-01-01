@@ -9,8 +9,20 @@ I. - Décisions administratives individuelles prises par le ministre chargé de 
 <table>
 <tbody>
 <tr>
+<td align="left" valign="top">
+<p align="center">Livre II</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Agrément des organismes effectuant certaines tâches liées à la surveillance des barrages et des digues.</p>
+<p>Arrêté conjoint des ministres chargés de l'énergie et de l'environnement.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">R. 214-148</p>
+</td>
+</tr>
+<tr>
 <td valign="top" width="76">
-<p>Livre IV </p>
+<p align="center">Livre IV </p>
 </td>
 <td valign="top" width="378">
 <p>Dérogations définies au 4° de l'article L. 411-2 lorsqu'elles concernent les opérations suivantes réalisées sur des animaux appartenant à une espèce de vertébrés marins protégés au titre de l'article L. 411-1, menacée d'extinction en France en raison de la faiblesse, observée ou prévisible, de ses effectifs et dont l'aire de répartition excède le territoire d'un département : prélèvement ; capture ; destruction ; transport en vue d'une introduction dans le milieu naturel ; destruction, altération ou dégradation du milieu particulier de l'espèce. Décisions conjointes du ministre chargé de la protection de la nature et du ministre chargé des pêches maritimes. </p>
@@ -48,7 +60,7 @@ I. - Décisions administratives individuelles prises par le ministre chargé de 
 </tr>
 <tr>
 <td valign="top" width="76">
-<p>Livre V </p>
+<p align="center">Livre V </p>
 </td>
 <td width="378">
 <p>Désignation des organismes agréés prévus à l'article L. 522-13 pour recevoir les informations relatives aux produits biocides mis sur le marché. Arrêté conjoint des ministres chargés du travail, de l'agriculture, de l'environnement et de la santé. </p>
