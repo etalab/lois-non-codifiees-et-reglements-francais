@@ -4,7 +4,7 @@ Les destinataires des informations enregistrées sont, en fonction de leurs attr
 
 - la direction du personnel militaire de l'armée de l'air ;
 
-- la direction centrale du commissariat de l'air ;
+- la direction centrale du service de l'administration générale et des finances de l'armée de l'air ;
 
 - les services administratifs des bases aériennes ;
 

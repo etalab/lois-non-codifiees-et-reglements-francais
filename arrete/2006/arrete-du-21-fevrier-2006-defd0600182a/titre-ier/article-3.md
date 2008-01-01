@@ -4,7 +4,7 @@
 
 a) L'adjoint " ressources humaines " qui assure, par ailleurs, la fonction de directeur du personnel militaire de l'armée de l'air ;
 
-b) L'adjoint " administration générale et finances " qui assure, par ailleurs, la fonction de directeur central du commissariat de l'air.
+b) L'adjoint " administration générale et finances " qui assure, par ailleurs, la fonction de directeur central du service de l'administration générale et des finances de l'armée de l'air.
 
 2. L'état-major de l'armée de l'air comprend, en outre, trois sous-chefs d'état-major :
 

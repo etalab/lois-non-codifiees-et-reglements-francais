@@ -14,7 +14,6 @@
 - [Décret n°2002-828 du 3 mai 2002 (MENF0200402D)](decret-n2002-828-du-3-mai-2002-menf0200402d)
 - [Décret n°2000-1178 du 4 décembre 2000 (DEFD0002365D)](decret-n2000-1178-du-4-decembre-2000-defd0002365d)
 - [Décret n°2000-1180 du 4 décembre 2000 (DEFD0002362D)](decret-n2000-1180-du-4-decembre-2000-defd0002362d)
-- [Décret n°2000-1183 du 4 décembre 2000 (DEFD0002383D)](decret-n2000-1183-du-4-decembre-2000-defd0002383d)
 - [Décret n°92-213 du 4 mars 1992 (INDA9101030D)](decret-n92-213-du-4-mars-1992-inda9101030d)
 - [Décret n°96-1073 du 4 décembre 1996 (AGRA9602161D)](decret-n96-1073-du-4-decembre-1996-agra9602161d)
 - [Décret n°2000-1196 du 6 décembre 2000 (ECOI0000505D)](decret-n2000-1196-du-6-decembre-2000-ecoi0000505d)

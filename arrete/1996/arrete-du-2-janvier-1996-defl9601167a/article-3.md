@@ -12,6 +12,6 @@ Les destinataires des informations enregistrées sont, en fonction de leurs attr
 
 - le commandement des écoles de l'armée de l'air (division Ecoles du service général, section Etrangers) ;
 
-- la direction centrale du commissariat de l'air ;
+- la direction centrale du service de l'administration générale et des finances de l'armée de l'air ;
 
 - les membres des corps d'inspection.

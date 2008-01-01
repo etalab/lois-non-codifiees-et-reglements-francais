@@ -2,4 +2,6 @@
 
 L'état-major de l'armée de l'air est placé sous l'autorité du chef d'état-major de l'armée de l'air qui peut disposer d'inspecteurs pour exercer son contrôle hiérarchique.
 
-Les forces, les régions aériennes, les bases aériennes, les services et les organismes de formation du personnel sont subordonnés au chef d'état-major de l'armée de l'air dans les conditions définies par le décret du 8 février 1982 susvisé.
+Pour l'exercice de ses attributions, le chef d'état-major de l'armée de l'air est assisté du major général de l'armée de l'air. Sous les ordres du chef d'état-major de l'armée de l'air, le major général de l'armée de l'air exerce son autorité sur les formations de l'armée de l'air dans des conditions précisées par arrêté.
+
+Les forces, les bases aériennes, la direction des ressources humaines de l'armée de l'air et les services sont subordonnés au chef d'état-major de l'armée de l'air dans les conditions définies par le décret n° 2005-520 du 21 mai 2005 fixant les attributions des chefs d'état-major.

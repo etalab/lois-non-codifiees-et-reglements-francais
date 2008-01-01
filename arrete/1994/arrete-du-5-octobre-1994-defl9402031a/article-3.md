@@ -4,7 +4,7 @@ Les destinataires des informations enregistrées sont, en fonction de leurs attr
 
 - les organismes payeurs du commissariat de l'air ;
 
-- la direction centrale du commissariat de l'air ;
+- la direction centrale du service de l'administration générale et des finances de l'armée de l'air ;
 
 - les services de l'administration fiscale ;
 

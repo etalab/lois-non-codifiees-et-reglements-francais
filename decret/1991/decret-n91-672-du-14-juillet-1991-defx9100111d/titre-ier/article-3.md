@@ -2,14 +2,12 @@
 
 Ces formations sont réparties entre :
 
-- l'état-major de l'armée de l'air ;
+1° L'état-major de l'armée de l'air ;
 
-- les forces ;
+2° Les forces ;
 
-- les régions aériennes ;
+3° Les bases aériennes ;
 
-- les bases aériennes ;
+4° La direction des ressources humaines de l'armée de l'air ;
 
-- les services ;
-
-- les organismes de formation du personnel.
+5° Les services.

@@ -2,7 +2,7 @@
 
 Les réunions du comité de coordination des commissariats sont préparées par des sous-comités spécialisés, auxquels participe un représentant de la gendarmerie nationale. Les travaux de ces sous-comités font l'objet de procès-verbaux visés par tous les membres des sous-comités et sont soumis à l'approbation du comité de coordination des commissariats.
 
-Le nombre, la spécialisation et la composition des sous-comités sont fixés par instruction signée des trois directeurs centraux des services du commissariat.
+Le nombre, la spécialisation et la composition des sous-comités sont fixés par instruction signée des trois directeurs centraux des services du commissariat de l'armée de terre, du commissariat de la marine et service de l'administration générale et des finances de l'armée de l'air.
 
 Le cas échéant, des groupes de travail temporaires, fonctionnant dans les mêmes conditions que les sous-comités spécialisés, peuvent être constitués pour l'étude de questions ponctuelles.
 
