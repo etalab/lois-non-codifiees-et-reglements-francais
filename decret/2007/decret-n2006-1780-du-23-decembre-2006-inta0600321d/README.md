@@ -2,4 +2,3 @@
 
 - [Chapitre Ier : Délégation de pouvoir.](chapitre-ier)
 - [Chapitre II : Dispositions transitoires et finales.](chapitre-ii)
-- [Annexes](annexes)
