@@ -4,4 +4,4 @@ La carte de plaisance portant la mention "encadrement sportif" prévue dans l'ar
 
 La carte de plaisance d'encadrement sportif précise l'identité du conducteur, le nom et l'adresse de l'organisme affilié, les caractéristiques techniques du ou des bateaux autorisés et les aires d'évolution autorisées.
 
-La carte de plaisance d'encadrement sportif est délivrée gratuitement au conducteur par le président de la commission de surveillance territorialement compétente, sur présentation du label du bateau et d'une attestation de formation établie par le responsable de l'organisme sportif, certifiant la vérification, par ses soins, des connaissances du candidat dans les conditions fixées à l'annexe 4 du présent arrêté. Cette carte est valable un an.
+La carte de plaisance d'encadrement sportif est délivrée gratuitement au conducteur par l'autorité territorialement compétente, sur présentation du label du bateau et d'une attestation de formation établie par le responsable de l'organisme sportif, certifiant la vérification, par ses soins, des connaissances du candidat dans les conditions fixées à l'annexe 4 du présent arrêté. Cette carte est valable un an.

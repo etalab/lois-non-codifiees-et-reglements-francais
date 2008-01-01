@@ -12,6 +12,6 @@ L'expérience professionnelle acquise et attestée par le livret de service du r
 
 Pour être prise en compte, l'expérience professionnelle doit être acquise en tant que membre d'équipage de pont. Le ou les documents attestant de cette qualité sont présentés chaque année au président d'une des commissions de surveillance qui en porte mention sur le livret de service ou de formation.
 
-Le livret de service et le livret de formation sont délivrés par le président de la commission de surveillance. Ils sont remplis à chaque voyage et doivent être présentés pour validation au président d'une des commissions de surveillance, une fois par an, durant la durée d'acquisition de l'expérience professionnelle.
+Le livret de service et le livret de formation sont délivrés par l'autorité compétente. Ils sont remplis à chaque voyage et doivent être présentés pour validation au président d'une des commissions de surveillance, une fois par an, durant la durée d'acquisition de l'expérience professionnelle.
 
-Le président de la commission de surveillance peut procéder à des contrôles des renseignements portés sur le livret de service ou le livret de formation, notamment par la vérification des conditions dans lesquelles son titulaire participe à la conduite du bateau.
+L'autorité compétente peut procéder à des contrôles des renseignements portés sur le livret de service ou le livret de formation, notamment par la vérification des conditions dans lesquelles son titulaire participe à la conduite du bateau.

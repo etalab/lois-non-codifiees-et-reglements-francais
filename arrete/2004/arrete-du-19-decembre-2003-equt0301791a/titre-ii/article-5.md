@@ -8,6 +8,6 @@ Cet examen porte sur les conditions d'aptitude définies à l'annexe 1, deuxièm
 
 Le médecin chargé de la visite peut éventuellement demander des examens complémentaires à des médecins spécialistes.
 
-Le président de la commission de surveillance peut éventuellement exiger une contre-visite par un médecin de son choix.
+L'autorité compétente peut éventuellement exiger une contre-visite par un médecin de son choix.
 
-Le certificat médical que le titulaire du certificat de conduite doit présenter au président de la commission de surveillance pour proroger la validité de son titre de conduite est délivré dans les mêmes conditions et porte sur les mêmes aptitudes que le certificat médical établi pour être admis à se présenter à l'examen.
+Le certificat médical que le titulaire du certificat de conduite doit présenter à l'autorité compétente pour proroger la validité de son titre de conduite est délivré dans les mêmes conditions et porte sur les mêmes aptitudes que le certificat médical établi pour être admis à se présenter à l'examen.

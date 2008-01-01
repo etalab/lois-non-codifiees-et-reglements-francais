@@ -2,7 +2,7 @@
 
 Le propriétaire ou son représentant doit présenter le bateau à la visite à l'état lège, nettoyé et gréé ; il est tenu de prêter l'assistance nécessaire à la visite, par exemple de fournir un canot approprié et du personnel, de faciliter l'examen des parties de la coque ou des installations qui ne sont pas directement accessibles ou visibles.
 
-S'il existe pour ce faire des motifs spéciaux, le délégué de la commission de surveillance peut demander également les opérations suivantes :
+S'il existe pour ce faire des motifs spéciaux, l'autorité compétente peut demander également les opérations suivantes :
 
 a) Une visite à sec ;
 
