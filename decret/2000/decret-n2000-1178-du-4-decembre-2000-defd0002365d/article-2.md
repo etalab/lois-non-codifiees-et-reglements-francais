@@ -46,15 +46,13 @@ g) Le service des systèmes d'information de la marine.
 
 4° L'état-major de l'armée de l'air, dont dispose le chef d'état-major de l'armée de l'air. En outre, relèvent de celui-ci les organismes suivants :
 
-a) La direction du personnel militaire de l'armée de l'air ;
+a) La direction des ressources humaines de l'armée de l'air ;
 
 b) La direction centrale de la structure intégrée du maintien en condition opérationnelle des matériels aéronautiques du ministère de la défense ;
 
-c) La direction centrale du commissariat de l'air ;
+c) La direction centrale du service industriel de l'aéronautique ;
 
-d) La direction centrale du matériel de l'armée de l'air ;
-
-e) Abrogé.
+d) La direction centrale du service de l'administration générale et des finances de l'armée de l'air.
 
 II. - La direction générale de la gendarmerie nationale.
 
