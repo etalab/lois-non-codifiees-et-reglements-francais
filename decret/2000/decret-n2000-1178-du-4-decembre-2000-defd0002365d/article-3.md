@@ -22,7 +22,7 @@ g) La direction de la qualité et du progrès ;
 
 h) La direction des ressources humaines ;
 
-i) Le service de la maintenance aéronautique.
+i) abrogé
 
 II. - Le secrétariat général pour l'administration, sous l'autorité du secrétaire général pour l'administration.
 
