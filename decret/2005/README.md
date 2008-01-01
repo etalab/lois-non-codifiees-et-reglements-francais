@@ -14,7 +14,6 @@
 - [Décret n°2005-942 du 2 août 2005 (DEFP0500906D)](decret-n2005-942-du-2-aout-2005-defp0500906d)
 - [Décret n°96-292 du 2 avril 1996 (JUSC9620100D)](decret-n96-292-du-2-avril-1996-jusc9620100d)
 - [Décret n°99-555 du 2 juillet 1999 (AGRA9900465D)](decret-n99-555-du-2-juillet-1999-agra9900465d)
-- [Décret du 3 février 1993 (PTTR9200690D)](decret-du-3-fevrier-1993-pttr9200690d)
 - [Décret n°2005-1261 du 3 octobre 2005 (INDX0508743D)](decret-n2005-1261-du-3-octobre-2005-indx0508743d)
 - [Décret n°2005-98 du 3 février 2005 (INTB0500030D)](decret-n2005-98-du-3-fevrier-2005-intb0500030d)
 - [Décret n°2005-215 du 4 mars 2005 (SOCN0510296D)](decret-n2005-215-du-4-mars-2005-socn0510296d)
