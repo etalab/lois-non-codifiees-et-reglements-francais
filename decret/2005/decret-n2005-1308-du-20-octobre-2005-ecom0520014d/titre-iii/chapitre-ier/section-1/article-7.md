@@ -1,6 +1,6 @@
 # Article 7
 
-I. - Au-dessus du seuil de 420 000 Euros HT pour les marchés de fournitures et de services et du seuil de 5 270 000 Euros HT pour les marchés de travaux, les marchés et les accords-cadres sont passés selon l'une des procédures formalisées suivantes, librement choisie par l'entité adjudicatrice :
+I.-Au-dessus du seuil de 412 000 Euros HT pour les marchés de fournitures et de services et du seuil de 5 150 000 Euros HT pour les marchés de travaux, les marchés et les accords-cadres sont passés selon l'une des procédures formalisées suivantes, librement choisie par l'entité adjudicatrice :
 
 1° La procédure négociée avec mise en concurrence préalable ;
 
@@ -8,7 +8,7 @@ I. - Au-dessus du seuil de 420 000 Euros HT pour les marchés de fournitures et 
 
 3° La procédure du concours.
 
-II. - Les entités adjudicatrices peuvent également recourir à la procédure négociée sans mise en concurrence préalable dans les cas suivants :
+II.-Les entités adjudicatrices peuvent également recourir à la procédure négociée sans mise en concurrence préalable dans les cas suivants :
 
 1° Pour les marchés qui n'ont fait l'objet d'aucune offre ou d'aucune offre appropriée ou pour lesquels aucune candidature n'a été déposée dans le cadre d'une procédure formalisée, pour autant que les conditions initiales du marché ne soient pas substantiellement modifiées ;
 
@@ -40,4 +40,4 @@ Le premier marché doit avoir indiqué la possibilité de recourir à cette proc
 
 12° Pour les marchés de services qui sont attribués à un ou plusieurs lauréats d'un concours. Lorsqu'il y a plusieurs lauréats, ils sont tous invités à négocier.
 
-III. - Les marchés peuvent également être passés sur la base d'un accord-cadre ou d'un système d'acquisition dynamique conformément aux articles 42 et 43.
+III.-Les marchés peuvent également être passés sur la base d'un accord-cadre ou d'un système d'acquisition dynamique conformément aux articles 42 et 43.

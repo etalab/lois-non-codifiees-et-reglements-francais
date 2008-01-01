@@ -1,6 +1,6 @@
 # Article 7
 
-I. - Au-dessus du seuil de 210 000 Euros HT pour les marchés de fournitures et de services et du seuil de 5 270 000 Euros HT pour les marchés de travaux, les marchés et les accords-cadres sont passés selon l'une des procédures formalisées suivantes :
+I. - Au-dessus du seuil de 206 000 Euros HT pour les marchés de fournitures et de services et du seuil de 5 150 000 Euros HT pour les marchés de travaux, les marchés et les accords-cadres sont passés selon l'une des procédures formalisées suivantes :
 
 1° L'appel d'offres ouvert ou restreint ;
 
