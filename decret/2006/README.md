@@ -398,6 +398,7 @@
 - [Décret n°2006-1315 du 25 octobre 2006 (DOMB0600019D)](decret-n2006-1315-du-25-octobre-2006-domb0600019d)
 - [Décret n°90-94 du 25 janvier 1990 (MERP9000002D)](decret-n90-94-du-25-janvier-1990-merp9000002d)
 - [Décret n°2005-1204 du 26 septembre 2005 (INTC0500257D)](decret-n2005-1204-du-26-septembre-2005-intc0500257d)
+- [Décret n°2006-1183 du 26 septembre 2006 (BUDR0603003D)](decret-n2006-1183-du-26-septembre-2006-budr0603003d)
 - [Décret n°2006-1306 du 26 octobre 2006 (INTE0600200D)](decret-n2006-1306-du-26-octobre-2006-inte0600200d)
 - [Décret n°2006-1308 du 26 octobre 2006 (SOCU0611858D)](decret-n2006-1308-du-26-octobre-2006-socu0611858d)
 - [Décret n°2006-1316 du 26 octobre 2006 (EQUP0601924D)](decret-n2006-1316-du-26-octobre-2006-equp0601924d)
