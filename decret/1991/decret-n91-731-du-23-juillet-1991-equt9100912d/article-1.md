@@ -6,9 +6,7 @@ Pour l'application du présent décret, on entend :
 
 1° Par "bateau de marchandises" un bateau motorisé ou non, destiné à transporter, manipuler ou stocker des biens ;
 
-2° Par "bateau à passagers" un bateau motorisé ou non, construit et aménagé pour transporter ou recevoir à son bord plus de douze personnes non compris les membres de l'équipage ;
-
-3° Par "bateau de plaisance" un bateau motorisé ou non, construit et aménagé pour transporter ou recevoir à son bord au plus douze personnes non compris les membres de l'équipage.
+2° Par "bateaux à passagers", un bateau, autre qu'un bateau de plaisance, construit et aménagé pour transporter ou recevoir à son bord des personnes ne faisant partie ni de l'équipage ni du personnel de bord.
 
 Les "bateaux de marchandises" et les "bateaux à passagers" sont des bateaux de commerce.
 

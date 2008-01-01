@@ -459,7 +459,6 @@
 - [Décret n°93-928 du 20 juillet 1993 (PRMX9300533D)](decret-n93-928-du-20-juillet-1993-prmx9300533d)
 - [Décret n°93-97 du 20 janvier 1993 (DEFP9202248D)](decret-n93-97-du-20-janvier-1993-defp9202248d)
 - [Décret n°93-98 du 20 janvier 1993 (LOGC9200070D)](decret-n93-98-du-20-janvier-1993-logc9200070d)
-- [Décret n°92-1166 du 21 octobre 1992 (MERR9200030D)](decret-n92-1166-du-21-octobre-1992-merr9200030d)
 - [Décret n°93-102 du 21 janvier 1993 (MAEJ9230079D)](decret-n93-102-du-21-janvier-1993-maej9230079d)
 - [Décret n°93-1114 du 21 septembre 1993 (JUSA9300229D)](decret-n93-1114-du-21-septembre-1993-jusa9300229d)
 - [Décret n°93-1191 du 21 octobre 1993 (INTB9300543D)](decret-n93-1191-du-21-octobre-1993-intb9300543d)

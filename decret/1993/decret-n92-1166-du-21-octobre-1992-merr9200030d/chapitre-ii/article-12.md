@@ -1,3 +1,0 @@
-# Article 12
-
-La délivrance du " permis mer " assortie de la mention " surmotorisation " peut être faite aux détenteurs de titres de conduite délivrés sous l'empire de la réglementation antérieure sous réserve que la possession du titre, la propriété du navire ou la pratique d'une telle navigation, attestée par une fédération sportive agréée, remontent à trois ans au moins à la date d'entrée en vigueur du présent décret et que la demande en soit présentée dans l'année suivant cette dernière date. La délivrance de la " carte mer " ou du " permis mer " assortis de la mention " aéroglisseur " est faite dans les mêmes conditions.
