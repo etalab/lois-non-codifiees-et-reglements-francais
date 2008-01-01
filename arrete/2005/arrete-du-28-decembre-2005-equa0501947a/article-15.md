@@ -128,7 +128,7 @@ Son montant est fixé selon le tableau suivant :
 </tr>
 <tr>
 <td>
-<p align="left">Système automatique de suivi des bagages, Tab est la capacité annuelle de traitement au départ des bagages de la partie d'aérogare concernée par le système.</p>
+<p align="left">Système automatique de suivi des bagages, Tab est la capacité annuelle de traitement des bagages, au départ et en transit, de la partie d'aérogare concernée par le système.</p>
 </td>
 <td>
 <p align="center">0,02 × Tab €</p>

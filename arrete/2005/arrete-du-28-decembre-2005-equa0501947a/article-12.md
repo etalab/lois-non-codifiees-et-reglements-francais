@@ -65,8 +65,7 @@ Pour les autres aéronefs, le montant de la redevance (R) est établi selon les 
 </tr>
 <tr>
 <td rowspan="2" valign="top" width="265">
-<p align="left">Cycle d'examen de navigabilité inférieur à un</p>
-<p align="left">an.</p>
+<p align="left">Cycle d'examen de navigabilité inférieur à un an.</p>
 </td>
 <td valign="top" width="283">
 <p align="left">(R) = 50 + Rb si W ≤ 4 000.</p>
@@ -85,15 +84,15 @@ Pour les autres aéronefs, le montant de la redevance (R) est établi selon les 
 <p align="left">Cycle d'examen de navigabilité égal à un an.</p>
 </td>
 <td valign="top" width="283">
-<p align="left">(R) = 50 + 1,3 × Rb si W ≤ 4 000.</p>
+<p align="left">(R) = 50 + 1,5 × Rb si W ≤ 4 000.</p>
 </td>
 <td rowspan="2" valign="top" width="152">
-<p align="left">(R) = 50 + 1,1 × (16 × N).</p>
+<p align="left">(R) = 50 + 1,2 × (16 × N).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="left">(R) = 1,5 × Rb si W &gt; 4000.</p>
+<p align="left">(R) = 1,6 × Rb si W &gt; 4000.</p>
 </td>
 </tr>
 <tr>
@@ -101,7 +100,7 @@ Pour les autres aéronefs, le montant de la redevance (R) est établi selon les 
 <p align="left">Cycle d'examen de navigabilité supérieur à un an, pour un aéronef dont la gestion de navigabilité n'est pas assurée par un organisme agréé selon la sous-partie G de la partie M du règlement (CE) n° 2042/2003 susvisé.</p>
 </td>
 <td align="left" valign="top">
-<p align="left">(R) = 1,1 × Rb.</p>
+<p align="left">(R) = 1,3 × Rb.</p>
 </td>
 <td align="left" rowspan="3" valign="top">
 <p align="left">(R) = (16 × N).</p>
@@ -230,7 +229,7 @@ B. - Pour les certificats de navigabilité spéciaux d'aéronefs suivants : cert
 </tr>
 <tr>
 <td valign="top" width="548">
-<p align="center">CdN à cycle inférieur à un an</p>
+<p align="left">CdN à cycle inférieur à un an</p>
 </td>
 <td valign="top" width="151">
 <p align="center">(R) = 16 × N</p>
@@ -238,18 +237,26 @@ B. - Pour les certificats de navigabilité spéciaux d'aéronefs suivants : cert
 </tr>
 <tr>
 <td valign="top" width="548">
-<p align="center">CdN à cycle égal à un an</p>
+<p align="left">CdN à cycle égal à un an</p>
 </td>
 <td valign="top" width="151">
-<p align="center">(R) = 1,3 × 16 × N</p>
+<p align="center">(R) = 1,6 × 16 × N</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">CdN à cycle supérieur à un an, lorsque l'aéronef est entretenu dans un organisme assujetti à la redevance de maintenance de l'article 3 du présent arrêté</p>
+</td>
+<td>
+<p align="center">(R) = 1,5 × 16 × N</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="548">
-<p align="center">CdN à cycle supérieur à un an</p>
+<p align="left">CdN à cycle supérieur à un an dans les autres cas </p>
 </td>
 <td valign="top" width="151">
-<p align="center">(R) = 2 × 16 × N</p>
+<p align="center">(R) = 2,5 × 16 × N</p>
 </td>
 </tr>
 </tbody>
@@ -267,7 +274,7 @@ C. - Pour ce qui concerne le certificat de navigabilité restreint d'aéronef sa
 
 2. La redevance de renouvellement est établie sur une base forfaitaire et en fonction de la périodicité des renouvellements, selon le tableau figurant au B.2 du présent article.
 
-D. - Le montant des frais d'édition des documents de navigabilité est fixé en annexe au présent arrêté. Ces frais ne sont pas dus pour l'édition des documents de navigabilité mentionnés au F et au G du présent article.
+D. - Le montant des frais d'édition des documents de navigabilité est fixé en annexe au présent arrêté. Ces frais ne sont pas dus pour l'édition des documents de navigabilité mentionnés au F, au G et au H du présent article.
 
 E. - Les montants des redevances établies par le présent article s'appliquent aux contrôles effectuées en France métropolitaine sur les aérodromes inscrits sur la liste des centres de contrôle établie par le GSAC. En dehors des centres de contrôle, les frais de voyage et de séjour de l'expert du GSAC chargé du contrôle sont dus par le demandeur.
 
@@ -306,4 +313,97 @@ F. - Pour ce qui concerne les aéronefs ultra-légers motorisés (ULM), le monta
 
 La redevance est exigible à la délivrance du document et acquittée auprès de l'administration de l'aviation civile.
 
-G. - Pour ce qui concerne les laissez-passer délivrés en application du IV de l'article R. 133-1-1 du code de l'aviation civile ou de la partie 21 du règlement (CE) 1702/2003, le montant de la redevance d'aptitude au vol est fixé à 20 €. Elle est exigible à la délivrance du document et acquittée auprès de l'administration de l'aviation civile.
+G. - Pour ce qui concerne les laissez-passer délivrés en application du IV de l'article R. 133-1 du code de l'aviation civile ou de la sous-partie P de la partie 21 du règlement (CE) 1702/2003, le montant de la redevance d'aptitude au vol est déterminé selon les conditions d'instruction du laissez-passer et la catégorie d'aéronefs concernée. Il est établi selon le tableau suivant :
+
+<table>
+<tbody>
+<tr>
+<td width="244">
+<p align="center">CATÉGORIE D'AÉRONEFS<br/>Conditions d'instruction</p>
+</td>
+<td width="216">
+<p align="center">AÉRONEFS DONT LA MASSE MAXIMALE<br/>au décollage est supérieure à 5,7 t (en euros)</p>
+</td>
+<td width="124">
+<p align="center">AUTRES AÉRONEFS<br/>(en euros)</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="244">
+<p>Instruction du laissez-passer avec approbation simultanée des conditions de vol au sens de la sous-partie P </p>
+</td>
+<td valign="top" width="216">
+<p align="center">300</p>
+</td>
+<td valign="top" width="124">
+<p align="center">100</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="244">
+<p>Instruction du laissez-passer sans approbation simultanée des conditions de vol au sens de la sous-partie P </p>
+</td>
+<td valign="top" width="216">
+<p align="center">100</p>
+</td>
+<td valign="top" width="124">
+<p align="center">50</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="244">
+<p>Délivrance du laissez-passer sans instruction spécifique</p>
+</td>
+<td valign="top" width="216">
+<p align="center">30</p>
+</td>
+<td valign="top" width="124">
+<p align="center">30</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+La redevance est exigible à la délivrance du document et acquittée auprès de l'administration de l'aviation civile ou du GSAC pour les laissez-passer délivrés par cet organisme.
+
+H. - Le montant de la redevance d'aptitude au vol relative à la délivrance d'une dérogation en application du paragraphe 10.3 du règlement (CE) n° 1592/2002 du Parlement européen et du Conseil du 15 juillet 2002 est déterminé selon les conditions d'instruction de la dérogation et la catégorie d'aéronefs concernée. Il est établi selon le tableau suivant :
+
+<table>
+<tbody>
+<tr>
+<td width="292">
+<p align="center">CATÉGORIE D'AÉRONEFS<br/>Conditions d'instruction</p>
+</td>
+<td width="259">
+<p align="center">AÉRONEFS DONT LA MASSE MAXIMALE<br/>au décollage est supérieure à 5,7 t (en euros)</p>
+</td>
+<td width="148">
+<p align="center">AUTRES AÉRONEFS<br/>(en euros)</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="292">
+<p>Dérogation avec instruction spécifique</p>
+</td>
+<td valign="top" width="259">
+<p align="center">200</p>
+</td>
+<td valign="top" width="148">
+<p align="center">100</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="292">
+<p>Dérogation sans instruction spécifique</p>
+</td>
+<td valign="top" width="259">
+<p align="center">30</p>
+</td>
+<td valign="top" width="148">
+<p align="center">30</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+La redevance est exigible à la délivrance du document et acquittée auprès de l'administration de l'aviation civile ou du GSAC pour les dérogations délivrées par cet organisme.

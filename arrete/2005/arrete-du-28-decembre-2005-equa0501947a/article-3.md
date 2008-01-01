@@ -6,15 +6,15 @@ Les organismes assujettis à cette redevance sont tenus de déclarer au GSAC les
 
 Ces organismes sont :
 
-A. - Les organismes titulaires d'un agrément conformément à la partie 145 du règlement (CE) n° 2042/2003 susmentionné doivent acquitter une redevance due au titre du suivi de l'agrément dont le montant est calculé en appliquant la formule suivante :
+A. - Les organismes titulaires d'un agrément conformément à la partie 145 du règlement (CE) n<sup>o </sup>2042/2003 susvisé doivent acquitter une redevance due au titre du suivi de l'agrément dont le montant est calculé en appliquant la formule suivante :
 
 Pour les organismes de maintenance de classe A, au sens de la partie 145 du règlement précité :
 
-(R) = k<sub>2</sub> × [3,8 × (effectif)<sup>0,8</sup> + 15 × Nbase + 8 × Nligne + 15]
+(R) = k<sub>2 </sub>× 0,95 × [3,8 × (effectif)<sup>0,8</sup> + 15 × Nbase + 8 × Nligne + 15]
 
 Pour les autres organismes :
 
-(R) = k<sub>2</sub> × [3,8 × (effectif)<sup>0,8</sup> + 15 × Nbase + 8 × Nligne]
+(R) = k<sub>2</sub>× 0,95 × [3,8 × (effectif)<sup>0,8</sup> + 15 × Nbase + 8 × Nligne]
 
 où les paramètres "effectif", "Nbase" "Nligne" et "k<sub>2</sub>" sont définis comme suit :
 
@@ -42,9 +42,9 @@ où les paramètres "effectif", "Nbase" et "k<sub>2</sub>" sont définis comme s
 
 C. - Les autres organismes de maintenance doivent acquitter au titre du suivi de l'agrément une redevance (R) dont le montant est la combinaison de trois composantes (R 1), (R 2) et (R 3) :
 
-(R) = 0,7 × (R 1) + 0,3 × [(R 2) + (R 3) - 0,5 × min. (R 2) ; (R 3))],
+(R) = 0,3 × (R1) + 0,7 × [(R2) + (R3) - 0,5 × min. ((R2); (R3))],
 
-sans que (R) puisse être inférieur à (R 2)
+sans que (R) puisse être inférieur à (R 2) ;
 
 où min.((R 2) ; (R 3)) désigne le plus petit des montants (R 2) et (R 3) et où (R 1), (R 2) et (R 3) sont définis comme suit :
 
@@ -64,7 +64,7 @@ Son montant est égal à la somme pour ces aéronefs des termes 1,1 × Rb pour c
 
 où les paramètres "A", "M", "N<sub>APRS</sub>", "N<sub>SITES</sub>" et "k<sub>2</sub>" sont définis comme suit :
 
-"A" est la somme, pour tous les ensembles regroupant chacun les types d'aéronefs figurant dans le domaine d'agrément de l'organisme et faisant l'objet, le cas échéant, d'une même qualification de type conformément à la partie 66 du règlement (CE) n° 2042/2003 susvisé ou, à défaut, d'un même manuel de maintenance du constructeur, des coefficients "a" dont la valeur pour chaque ensemble est donnée par le tableau suivant en fonction de la catégorie d'aéronef :
+"A" est la somme, pour tous les types d'aéronefs figurant dans le domaine d'agrément de l'organisme, des coefficients "a" dont la valeur pour chaque type est donnée par le tableau suivant en fonction de la catégorie d'aéronef :
 
 <table>
 <tbody>
@@ -247,6 +247,8 @@ où les paramètres "A", "M", "N<sub>APRS</sub>", "N<sub>SITES</sub>" et "k<sub>
 </tbody>
 </table>
 
+Par "type d'aéronefs" on entend l'ensemble des aéronefs faisant l'objet d'une même qualification de type conformément à la partie 66 du règlement (CE) n<sup>o </sup>2042/2003 susvisé ou, à défaut, d'un même manuel de maintenance du constructeur ou, à défaut, présentant des caractéristiques similaires.
+
 "M" est la somme, pour tous les ensembles regroupant chacun les types de moteurs figurant dans le domaine d'agrément de l'organisme et faisant l'objet d'un même certificat de type, des coefficients "m" dont la valeur pour chaque ensemble est donnée par le tableau suivant en fonction de la catégorie de moteur :
 
 <table>
@@ -286,7 +288,7 @@ où les paramètres "A", "M", "N<sub>APRS</sub>", "N<sub>SITES</sub>" et "k<sub>
 </tbody>
 </table>
 
-"N<sub>APRS</sub>" est le nombre de personnes habilitées à délivrer l'approbation pour remise en service (quel que soit leur domaine d'habilitation) ; toutefois N<sub>APRS</sub> ne peut pas être inférieur à (A + M)/20, arrondi au nombre entier supérieur ;
+"N<sub>APRS</sub>" est le nombre de personnes habilitées à délivrer l'approbation pour remise en service quel que soit leur domaine d'habilitation, à l'exception des suppléants ; toutefois N<sub>APRS</sub> ne peut pas être inférieur à (A + M)/20, arrondi au nombre entier supérieur ;
 
 "N<sub>SITES</sub>" est le nombre de sites d'entretien identifiés dans le manuel d'organisme de maintenance ;
 
@@ -296,7 +298,7 @@ Le montant de (R 3) est égal à celui de la redevance de gestion de navigabilit
 
 Si l'organisme de maintenance n'est pas titulaire d'un agrément d'organisme de gestion du maintien de la navigabilité, (R 3) est calculé en prenant en compte les aéronefs dont le propriétaire a confié l'entretien à l'organisme de maintenance.
 
-Toutefois ni (R 2) ni (R 3) ne peuvent être inférieurs à (5 × k<sub>2</sub>).
+Toutefois ni (R 2) ni (R 3) ne peuvent être inférieurs à (4 × k<sub>2</sub>).
 
 D. - La redevance de suivi de l'agrément de maintenance est acquittée mensuellement, auprès du GSAC.
 

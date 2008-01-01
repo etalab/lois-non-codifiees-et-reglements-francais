@@ -1,12 +1,12 @@
 # Article 5
 
-Les paiements sont effectués, obligatoirement en francs français, auprès des agents comptables chargés du recouvrement de la redevance pour le budget annexe de l'aviation civile.
+Les paiements sont effectués, obligatoirement en euros, auprès des agents comptables chargés du recouvrement de la redevance pour le budget annexe de l'aviation civile.
 
 Les paiements par chèques sont réputés effectués à la date de réception du chèque par les agents visés à l'alinéa précédent, sous réserve que le chèque soit honoré par la banque du tireur.
 
 En cas de virement effectué au bénéfice du compte de l'établissement bancaire désigné au titre de perception, la date de paiement est réputée celle du jour où le paiement de la redevance a été porté à ce compte.
 
-Les paiements doivent être assortis d'une indication des références, dates et montants en francs français des titres de perception réglés.
+Les paiements doivent être assortis d'une indication des références, dates et montants en euros des titres de perception réglés.
 
 Lorsqu'un paiement n'est pas accompagné des indications précédentes, il peut être affecté d'abord aux majorations et intérêts de retard et ensuite aux plus anciens titres de perception impayés.
 

@@ -2,7 +2,7 @@
 
 Redevance d'exploitant d'aéronef. - Le mode de calcul et les conditions servant à l'établissement du montant de la redevance d'exploitant d'aéronef prévue par le V de l'article R. 611-3 du code de l'aviation civile ainsi que celles relatives à son paiement sont fixés ainsi qu'il suit :
 
-Les transporteurs aériens assujettis à la redevance d'exploitant d'aéronef sont tenus de déclarer à l'administration de l'aviation civile compétente les éléments relatifs au nombre de passagers et au tonnage de fret nécessaires au calcul du paramètre "epax", ci-après défini, de cette redevance au plus tard le 31 décembre de l'année N - 1 aux fins de déterminer le montant annuel de la redevance N de l'année suivante.
+A. - Les transporteurs aériens postulants ou titulaires du certificat de transporteur aérien assujettis à la redevance d'exploitant d'aéronef sont tenus de déclarer à l'administration de l'aviation civile compétente les éléments relatifs au nombre de passagers et au tonnage de fret nécessaires au calcul du paramètre "epax", ci-après défini, de cette redevance au plus tard le 31 décembre de l'année N - 1 aux fins de déterminer le montant annuel de la redevance de l'année N suivante.
 
 Pour l'année N, le montant de la redevance (R) due est calculé en appliquant la formule suivante :
 
@@ -12,7 +12,7 @@ où :
 
 - "M" est la somme, exprimée en tonnes, des masses maximales au décollage (MMD) des aéronefs enregistrés dans les spécifications d'agrément opérationnel du transporteur aérien ;
 
-- "epax" est un nombre, exprimé en milliers, de passagers ou équivalent, représentatif du nombre de passagers et de tonnes de fret ou de courrier embarqués, pendant une période de douze mois, une tonne de fret ou de courrier étant comptée pour 12 passagers embarqués ; en cas de vol exploité en franchise, de vol affrété, de vol en partage de codes, en cas d'arrangement de réservation de capacité, de service conjoint ou de service assuré par un aéronef loué, les passagers embarqués sont comptés par le transporteur dont le numéro de vol est utilisé aux fins du contrôle de la circulation aérienne ;
+- "epax" est un nombre, exprimé en milliers, de passagers ou équivalent, représentatif du nombre de passagers et de tonnes de fret ou de courrier embarqués au départ du territoire national, pendant une période de douze mois, une tonne de fret ou de courrier étant comptée pour 12 passagers embarqués ; en cas de vol exploité en franchise, de vol affrété, de vol en partage de codes, en cas d'arrangement de réservation de capacité, de service conjoint ou de service assuré par un aéronef loué, les passagers embarqués sont comptés par le transporteur dont le numéro de vol est utilisé aux fins du contrôle de la circulation aérienne ;
 
 - "P" est la somme, pour l'ensemble des types d'aéronefs enregistrés dans les spécifications d'agrément opérationnel du transporteur aérien, des coefficients "p" définis pour chaque type dans le tableau ci-après, le type étant, pour chaque aéronef, défini par la qualification de type qui lui correspond :
 
@@ -102,3 +102,5 @@ La redevance est exigible chaque mois de facturation échu. Chaque mensualité e
 Pour l'application du présent article, mois de facturation s'entend comme le mois au titre duquel l'activité surveillée est soumise à redevance.
 
 L'instruction effectuée en vue de la délivrance d'un certificat de transporteur aérien donne lieu à paiement d'une redevance égale au double de la redevance définie en application du présent article. Dans ce cas, le paramètre "epax" est évalué en retenant le nombre de passagers estimé pendant une période de douze mois par le postulant à l'occasion de la demande de licence d'exploitation prévue à l'article L. 330-1 du code de l'aviation civile. La redevance d'instruction est exigible mensuellement en fonction de l'avancement de l'instruction.
+
+B. - Le montant de la redevance des transporteurs aériens postulant à l'autorisation spéciale mentionnée à l'article R. 133-6 du code de l'aviation civile est fixé à 1 000 €. Cette redevance est exigible à la demande de l'autorisation.
