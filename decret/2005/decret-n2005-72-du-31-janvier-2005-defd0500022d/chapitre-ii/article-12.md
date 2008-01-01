@@ -8,4 +8,10 @@ La direction de la qualité et du progrès :
 
 3° Elabore, en liaison avec le secrétariat général pour l'administration, la politique de la délégation générale pour l'armement en matière d'achat et de contrôle des coûts ; assiste, en liaison avec le contrôle général des armées, les organismes de la délégation générale pour l'armement pour l'application de la réglementation relative aux marchés publics ;
 
-4° Est responsable, sous réserve des dispositions du décret du 8 mars 1999 et du décret du 30 décembre 1998 susvisés, du plan d'ensemble du système d'information et de communication de la délégation générale pour l'armement et de sa conformité à la réglementation en vigueur au sein du ministère de la défense.
+4° Est responsable, sous réserve des dispositions du décret du 8 mars 1999 et du décret du 30 décembre 1998 susvisés, du plan d'ensemble du système d'information et de communication de la délégation générale pour l'armement et de sa conformité à la réglementation en vigueur au sein du ministère de la défense ;
+
+5° Participe, en liaison avec le secrétariat général pour l'administration, à la définition du soutien matériel de la délégation générale pour l'armement et gère l'utilisation des moyens généraux ;
+
+6° Participe, en liaison avec le secrétariat général pour l'administration, au traitement des affaires immobilières, domaniales, de logement du personnel, d'aménagement du territoire, de protection de l'environnement et d'archivage ;
+
+7° Exerce, en liaison avec la direction des affaires juridiques, une mission de conseil et d'assistance auprès du délégué général pour l'armement sur les questions juridiques et contentieuses.
