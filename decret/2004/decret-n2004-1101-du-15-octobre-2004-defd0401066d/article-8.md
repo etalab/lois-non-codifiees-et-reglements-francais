@@ -16,7 +16,7 @@ Les honneurs ne sont rendus que pendant le jour. Ils peuvent toutefois l'être a
 
 1. Du ministre de la défense ;
 
-2. Du commandant de région ou du commandant d'arrondissement maritime compétent ou de l'autorité assimilée pour les formations rattachées ;
+2. Du commandant de région ou du commandant d'arrondissement maritime, ou du commandant de formation administrative pour l'armée de l'air, compétent ou de l'autorité assimilée pour les formations rattachées ;
 
 3. Du commandant supérieur dans les collectivités d'outre-mer ;
 
