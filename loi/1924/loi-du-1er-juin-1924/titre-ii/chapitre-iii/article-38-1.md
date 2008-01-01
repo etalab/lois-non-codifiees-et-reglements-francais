@@ -1,3 +1,3 @@
 # Article 38-1
 
-Les jugements ouvrant une procédure de redressement judiciaire ou prononçant une liquidation judiciaire font l'objet d'une simple mention au livre foncier à la diligence de l'administrateur, du mandataire judiciaire ou du liquidateur. Un décret précise les conditions de radiation de cette mention.
+Dès le dépôt de la requête en inscription et sous réserve de leur inscription, les droits et restrictions visés à l'article 38 ainsi que la prénotation prévue par l'article 39 sont opposables aux tiers qui ont des droits sur l'immeuble et qui les ont fait inscrire régulièrement.
