@@ -2,11 +2,11 @@
 
 Le ministre de la défense peut déléguer par arrête certains des pouvoirs que lui confère le présent décret, à l'exception de ceux prévus aux articles 2 et 16, alinéa 1er, ci-dessus, aux autorités suivantes :
 
-Commandants de régions militaires, maritimes ou aériennes ;
+Commandants de régions militaires ou maritimes, ou commandant du soutien des forces aériennes ;
 
 Commandants supérieurs des forces armées dans les départements et territoires d'outre-mer ;
 
-Commandant des forces françaises stationnées en Allemagne ;
+Commandant des forces françaises et de l'élément civil stationnés en Allemagne ;
 
 Commandants de divisions militaires territoires ou d'arrondissements maritimes ;
 
