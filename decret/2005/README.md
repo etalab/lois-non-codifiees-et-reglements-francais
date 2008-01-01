@@ -9,6 +9,7 @@
 - [Décret n°2005-904 du 2 août 2005 (INTX0500219D)](decret-n2005-904-du-2-aout-2005-intx0500219d)
 - [Décret n°2005-916 du 2 août 2005 (SOCF0511424D)](decret-n2005-916-du-2-aout-2005-socf0511424d)
 - [Décret n°2005-921 du 2 août 2005 (SANH0522477D)](decret-n2005-921-du-2-aout-2005-sanh0522477d)
+- [Décret n°2005-932 du 2 août 2005 (SANH0522491D)](decret-n2005-932-du-2-aout-2005-sanh0522491d)
 - [Décret n°2005-934 du 2 août 2005 (DEVX0500018D)](decret-n2005-934-du-2-aout-2005-devx0500018d)
 - [Décret n°2005-935 du 2 août 2005 (DEVG0530078D)](decret-n2005-935-du-2-aout-2005-devg0530078d)
 - [Décret n°2005-942 du 2 août 2005 (DEFP0500906D)](decret-n2005-942-du-2-aout-2005-defp0500906d)
