@@ -1,5 +1,0 @@
-# Article 10
-
-Les chefs de garage sont nommés au choix après avis de la commission administrative paritaire compétente, parmi les fonctionnaires de l'administration dont relève l'emploi à pourvoir, qui ont été inscrits sur une liste d'aptitude établie après une sélection par voie d'examen professionnel organisée selon des modalités fixées par arrêté du ministre chargé de la fonction publique. Sont admis à subir cette sélection les conducteurs hors catégorie et les conducteurs de première catégorie justifiant d'au moins neuf ans de services effectifs en qualité de conducteur d'automobile.
-
-En outre, dans la limite du quart des nominations prononcées en application de l'alinéa précédent, peuvent être nommés chefs de garage au choix, après inscription sur une liste d'aptitude établie après avis de la commission administrative du corps, les conducteurs d'automobile hors catégorie justifiant d'au moins neuf ans de services effectifs dans un corps de conducteur d'automobile régis par les dispositions du présent décret.
