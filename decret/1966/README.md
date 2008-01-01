@@ -13,8 +13,6 @@
 - [Décret n°67-54 du 12 janvier 1967](decret-n67-54-du-12-janvier-1967)
 - [Décret n°66-221 du 14 avril 1966](decret-n66-221-du-14-avril-1966)
 - [Décret n°66-678 du 14 septembre 1966](decret-n66-678-du-14-septembre-1966)
-- [Décret n°66-699 du 14 septembre 1966](decret-n66-699-du-14-septembre-1966)
-- [Décret n°66-700 du 14 septembre 1966](decret-n66-700-du-14-septembre-1966)
 - [Décret n°66-784 du 14 octobre 1966](decret-n66-784-du-14-octobre-1966)
 - [Décret n°66-850 du 15 novembre 1966](decret-n66-850-du-15-novembre-1966)
 - [Décret n°65-1116 du 17 décembre 1965](decret-n65-1116-du-17-decembre-1965)

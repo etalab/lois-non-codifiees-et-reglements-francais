@@ -992,7 +992,6 @@
 - [Arrêté du 28 novembre 1997 (ECOS9750049A)](arrete-du-28-novembre-1997-ecos9750049a)
 - [Arrêté du 28 novembre 1997 (ECOS9750050A)](arrete-du-28-novembre-1997-ecos9750050a)
 - [Arrêté du 28 novembre 1997 (MESP9723747A)](arrete-du-28-novembre-1997-mesp9723747a)
-- [Arrêté du 28 octobre 1975](arrete-du-28-octobre-1975)
 - [Arrêté du 28 octobre 1997 (ECOI9700695A)](arrete-du-28-octobre-1997-ecoi9700695a)
 - [Arrêté du 28 octobre 1997 (ECOT9791075A)](arrete-du-28-octobre-1997-ecot9791075a)
 - [Arrêté du 28 octobre 1997 (EQUS9701649A)](arrete-du-28-octobre-1997-equs9701649a)
