@@ -18,7 +18,19 @@ La liste des unités, formations et services visée à l'article 1er du décret 
 
 2o Armée de l'air:
 
-Groupement des fusiliers commandos de l'air et les unités qui lui sont organiquement rattachées.
+Structure de commandement du commandement des forces aériennes ;
+
+Etat-major opérationnel du commandement de la défense aérienne et des opérations aériennes ;
+
+Commandos parachutistes de l'air n°s 10, 20 et 30 ;
+
+Centre air de saut en vol (CASV):
+
+Centre de formation et d'entraînement des forces de protection, de sécurité et d'intervention de l'armée de l'air (personnel instructeur et d'encadrement pour l'entraînement et la préparation en vue, notamment, du stage de parachutiste ou d'une activité parachutiste) ;
+
+Unités d'encadrement des unités de protection en métropole ;
+
+Escadron de maintenance cynophile de l'armée de l'air.
 
 3o Gendarmerie:
 
