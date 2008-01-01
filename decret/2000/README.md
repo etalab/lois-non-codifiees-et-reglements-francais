@@ -106,7 +106,6 @@
 - [Décret n°2000-73 du 28 janvier 2000 (MESC0010117D)](decret-n2000-73-du-28-janvier-2000-mesc0010117d)
 - [Décret n°2000-818 du 28 août 2000 (ECOP0000639D)](decret-n2000-818-du-28-aout-2000-ecop0000639d)
 - [Décret n°2000-819 du 28 août 2000 (MESF0010794D)](decret-n2000-819-du-28-aout-2000-mesf0010794d)
-- [Décret n°2000-604 du 29 juin 2000 (JUSA0000158D)](decret-n2000-604-du-29-juin-2000-jusa0000158d)
 - [Décret n°99-1153 du 29 décembre 1999 (MAEA9920519D)](decret-n99-1153-du-29-decembre-1999-maea9920519d)
 - [Décret du 29 mai 2000 (AGRP0000329D)](decret-du-29-mai-2000-agrp0000329d)
 - [Décret n°2000-456 du 29 mai 2000 (ECOX0004146D)](decret-n2000-456-du-29-mai-2000-ecox0004146d)
