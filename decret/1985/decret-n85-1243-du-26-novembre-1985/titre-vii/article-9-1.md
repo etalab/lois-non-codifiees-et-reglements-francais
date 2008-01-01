@@ -16,4 +16,36 @@ Lyon-I ;
 
 Reims ;
 
-Nantes.
+Nantes ;
+
+Amiens ;
+
+Besançon ;
+
+Caen ;
+
+Nice ;
+
+Orléans ;
+
+Poitiers ;
+
+Brest ;
+
+Réunion ;
+
+Rouen ;
+
+Clermont-Ferrand-II ; Paris-IV ;
+
+Toulouse-II ;
+
+Bordeaux-IV ;
+
+Dijon ;
+
+Artois ;
+
+Montpellier-II ;
+
+Nancy-I.
