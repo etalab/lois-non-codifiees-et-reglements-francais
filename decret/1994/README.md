@@ -601,7 +601,6 @@
 - [Décret n°94-739 du 23 août 1994 (COMA9400005D)](decret-n94-739-du-23-aout-1994-coma9400005d)
 - [Décret n°94-824 du 23 septembre 1994 (MENF9401605D)](decret-n94-824-du-23-septembre-1994-menf9401605d)
 - [Décret n°95-191 du 23 février 1995 (ECOP9400556D)](decret-n95-191-du-23-fevrier-1995-ecop9400556d)
-- [Décret n°95-199 du 23 février 1995 (EQUA9401946D)](decret-n95-199-du-23-fevrier-1995-equa9401946d)
 - [Décret n°93-479 du 24 mars 1993 (EQUX9300043D)](decret-n93-479-du-24-mars-1993-equx9300043d)
 - [Décret n°94-184 du 24 février 1994 (ECOC9300223D)](decret-n94-184-du-24-fevrier-1994-ecoc9300223d)
 - [Décret n°94-185 du 24 février 1994 (INDP9400129D)](decret-n94-185-du-24-fevrier-1994-indp9400129d)

@@ -362,7 +362,6 @@
 - [Arrêté du 11 juin 2003 (ECOP0300456A)](arrete-du-11-juin-2003-ecop0300456a)
 - [Arrêté du 11 juin 2003 (INTC0300331A)](arrete-du-11-juin-2003-intc0300331a)
 - [Arrêté du 11 mars 2003 (AGRA0300397A)](arrete-du-11-mars-2003-agra0300397a)
-- [Arrêté du 11 mars 2003 (DEFD0301043A)](arrete-du-11-mars-2003-defd0301043a)
 - [Arrêté du 11 mars 2003 (DEFD0301239A)](arrete-du-11-mars-2003-defd0301239a)
 - [Arrêté du 11 mars 2003 (DEFD0301274A)](arrete-du-11-mars-2003-defd0301274a)
 - [Arrêté du 11 mars 2003 (EQUT0300371A)](arrete-du-11-mars-2003-equt0300371a)

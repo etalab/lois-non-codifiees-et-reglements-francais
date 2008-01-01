@@ -38,7 +38,6 @@
 - [Décret n°70-544 du 19 juin 1970](decret-n70-544-du-19-juin-1970)
 - [Décret n° 70-354 du 21 avril 1970](decret-n-70-354-du-21-avril-1970)
 - [Décret n° 70-360 du 21 avril 1970](decret-n-70-360-du-21-avril-1970)
-- [Décret n°70-251 du 21 mars 1970](decret-n70-251-du-21-mars-1970)
 - [Décret du 23 décembre 1970](decret-du-23-decembre-1970)
 - [Décret n°70-1096 du 23 novembre 1970](decret-n70-1096-du-23-novembre-1970)
 - [Décret n°70-1269 du 23 décembre 1970](decret-n70-1269-du-23-decembre-1970)

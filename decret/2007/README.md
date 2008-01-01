@@ -1181,7 +1181,6 @@
 - [Décret n°2006-1780 du 23 décembre 2006 (INTA0600321D)](decret-n2006-1780-du-23-decembre-2006-inta0600321d)
 - [Décret n°2006-1792 du 23 décembre 2006 (ECOP0600781D)](decret-n2006-1792-du-23-decembre-2006-ecop0600781d)
 - [Décret n°2006-1794 du 23 décembre 2006 (ECOP0600784D)](decret-n2006-1794-du-23-decembre-2006-ecop0600784d)
-- [Décret n°2006-1798 du 23 décembre 2006 (BUDB0630211D)](decret-n2006-1798-du-23-decembre-2006-budb0630211d)
 - [Décret n°2006-1804 du 23 décembre 2006 (JUSC0620985D)](decret-n2006-1804-du-23-decembre-2006-jusc0620985d)
 - [Décret n°2006-1805 du 23 décembre 2006 (JUSC0620984D)](decret-n2006-1805-du-23-decembre-2006-jusc0620984d)
 - [Décret n°2006-1806 du 23 décembre 2006 (JUSC0620996D)](decret-n2006-1806-du-23-decembre-2006-jusc0620996d)
