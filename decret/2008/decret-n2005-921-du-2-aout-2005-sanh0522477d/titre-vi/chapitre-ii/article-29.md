@@ -1,0 +1,7 @@
+# Article 29
+
+Dans le cas où plusieurs établissements sont gérés par une direction commune, la nomination du directeur intervient soit parmi les personnels de direction de ces établissements, par arrêté du ministre chargé de la santé pris après avis des présidents de conseil d'administration, sans publication préalable de la vacance de l'emploi de directeur, soit, dans le cas contraire, selon les dispositions des articles 15 à 19.
+
+Les directeurs adjoints, membres de la direction commune, sont nommés dans cette équipe par arrêté du directeur général du Centre national de gestion des praticiens hospitaliers et des personnels de direction de la fonction publique hospitalière, sans publication préalable de vacance d'emploi.
+
+Dans le cas où il est institué une direction commune entre, d'une part, des établissements publics de santé figurant sur la liste prévue à l'article 1er du décret du 26 décembre 2007 déjà mentionné et, d'autre part, des établissements mentionnés aux 2° à 6° de l'article 2 de la loi du 9 janvier 1986 susvisée, l'emploi de directeur est pourvu par un membre du corps des directeurs d'établissements sanitaires, sociaux et médico-sociaux, dans les conditions de nomination définies au premier alinéa du présent article. Les directeurs adjoints d'un établissement mentionnés aux 2° à 6° de l'article 2 de la même loi peuvent être nommés membres de la direction commune, dans les conditions définies au deuxième alinéa du présent article.
