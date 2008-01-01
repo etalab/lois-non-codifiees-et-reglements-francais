@@ -9,4 +9,5 @@
 - [Décret n°2005-930 du 2 août 2005 (SANH0522487D)](decret-n2005-930-du-2-aout-2005-sanh0522487d)
 - [Décret n°2005-931 du 2 août 2005 (SANH0522489D)](decret-n2005-931-du-2-aout-2005-sanh0522489d)
 - [Décret n°2005-932 du 2 août 2005 (SANH0522491D)](decret-n2005-932-du-2-aout-2005-sanh0522491d)
+- [Décret n°91-687 du 14 juillet 1991 (DEFM9101672D)](decret-n91-687-du-14-juillet-1991-defm9101672d)
 - [Décret n° 2007-406 du 23 mars 2007 (SANS0720915D)](decret-n-2007-406-du-23-mars-2007-sans0720915d)
