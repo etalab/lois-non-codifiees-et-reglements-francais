@@ -2,7 +2,7 @@
 
 Reçoivent délégation de pouvoirs du ministre de la défense pour prendre les décisions relatives aux opérations domaniales, énumérées à l'article 3 ci-après, concernant les immeubles du domaine militaire relevant de leur compétence, les autorités suivantes :
 
-- commandants de région terre, d'arrondissement maritime et de région aérienne ;
+- commandants de région terre, d'arrondissement maritime et du soutien des forces aériennes  ;
 
 - commandants supérieurs dans les départements et territoires d'outre-mer ;
 
