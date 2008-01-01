@@ -1,0 +1,3 @@
+# TITRE VI : DISPOSITIONS RELATIVES  AU CODE DE L'ÉDUCATION
+
+- [Article 7](article-7.md)

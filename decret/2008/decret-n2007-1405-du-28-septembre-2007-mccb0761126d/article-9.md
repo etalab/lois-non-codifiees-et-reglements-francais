@@ -1,0 +1,5 @@
+# Article 9
+
+La maîtrise d'oeuvre des travaux de restauration des monuments classés autres que ceux mentionnés au premier alinéa du III de l'article 3 peut également être assurée, sur une opération donnée, par un ressortissant d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen établi dans un autre Etat que la France, présentant les conditions requises pour se présenter aux épreuves du concours institué par le 2° du I de l'article 2 et celles requises pour être inscrit à un tableau régional de l'ordre des architectes en vertu des dispositions de l'article 10 de la loi du 3 janvier 1977 susvisée.
+
+Les services déconcentrés relevant du ministre chargé de la culture sont rendus destinataires par le maître d'ouvrage, préalablement au commencement des travaux, des justifications utiles de nature à établir que la formation et l'expérience professionnelle de ce maître d'oeuvre attestent des connaissances historiques, architecturales et techniques nécessaires à la conception et à la conduite des travaux sur l'immeuble faisant l'objet de l'opération de restauration.

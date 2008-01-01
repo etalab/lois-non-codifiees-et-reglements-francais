@@ -2,9 +2,9 @@
 
 La délégation de pouvoirs prévue à l'article 10 du décret du 14 février 1990 susvisé est accordée aux autorités énumérées ci-après :
 
-I. - Dans les armées :
+I.-Dans les armées :
 
-1. 1. Commandant de corps d'armée ;
+1. Commandant de corps d'armée ;
 
 Commandant de la force d'action rapide ;
 
@@ -26,7 +26,7 @@ Commandant de la marine outre-mer ;
 
 Commandant de force maritime indépendant ;
 
-3. Commandant de région aérienne ;
+3. Commandant du soutien des forces aériennes ;
 
 4. Commandant supérieur dans les départements et territoires d'outre-mer ;
 
@@ -34,23 +34,23 @@ Commandant interarmées ;
 
 5. Directeur local de service.
 
-II. - Gendarmerie nationale :
+II.-Gendarmerie nationale :
 
 Commandant de formation administrative de la gendarmerie nationale ;
 
 Commandant des écoles de la gendarmerie nationale.
 
-III. - Service de santé des armées :
+III.-Service de santé des armées :
 
 Directeur, ou chef, local de service ;
 
-Chef de formation hospitalière;
+Chef de formation hospitalière ;
 
 Directeur, commandant, ou chef d'école, d'institut ou de centre ;
 
 Chef du service de protection radiologique des armées.
 
-IV. - Service des essences des armées :
+IV.-Service des essences des armées :
 
 Directeur local du service ;
 
@@ -70,4 +70,4 @@ Directeur de centre de formation ;
 
 Chef du service de la qualité.
 
-VI. - Directeurs d'organisme ou d'établissement relevant directement d'une direction ou d'un service central.
+VI.-Directeurs d'organisme ou d'établissement relevant directement d'une direction ou d'un service central (s'agissant du service industriel de l'aéronautique : hors compte de commerce pour tous les matériels ; en compte de commerce pour les matériels approvisionnés sur crédits budgétaires).

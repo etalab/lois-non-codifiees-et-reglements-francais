@@ -1,0 +1,3 @@
+# Article 6
+
+Les établissements et les ouvrages d'épuration des eaux usées dont les dispositifs de suivi des rejets ont fait l'objet d'une validation technique par l'agence de l'eau ou par un organisme mandaté par elle à la date d'entrée en vigueur du présent décret en vue de la détermination de l'assiette de la redevance de pollution produisent dans un délai de trois années à compter de cette date un descriptif du suivi régulier des rejets aux fins d'agrément en application du deuxième alinéa du II de l'article L. 213-10-2 du code de l'environnement, le dispositif de suivi en place étant considéré comme agréé jusqu'au terme de ce délai sauf retrait motivé par l'agence.

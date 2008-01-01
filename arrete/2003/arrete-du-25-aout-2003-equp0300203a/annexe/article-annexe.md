@@ -4,831 +4,524 @@ Les coefficients de modulation par service du taux de base sont fixés ainsi :
 
 Pour les directions départementales de l'équipement (DDE) ou les directions de l'équipement (DE)
 
+Pour les directions départementales, sous la tutelle du ministère chargé de l'écologie
+
 <table>
 <tbody>
 <tr>
-<td align="left" valign="top">
-<p align="center">SERVICE</p>
-</td>
-<td align="left" valign="top">
-<p align="center">COEFFICIENT</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">1 DDE Ain </p>
-</td>
-<td align="left" valign="top">
-<p align="center">1,00</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">2 DDE Aisne </p>
-</td>
-<td align="left" valign="top">
-<p align="center">1,10</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">3 DDE Allier </p>
-</td>
-<td align="left" valign="top">
-<p align="center">0,95</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">4 DDE Alpes-de-Haute-Provence </p>
-</td>
-<td align="left" valign="top">
-<p align="center">0,85</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">5 DDE Hautes-Alpes </p>
-</td>
-<td align="left" valign="top">
-<p align="center">0,85</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">6 DDE Alpes-Maritimes </p>
-</td>
-<td align="left" valign="top">
-<p align="center">0,90</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">7 DDE Ardèche </p>
-</td>
-<td align="left" valign="top">
-<p align="center">0,95</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">8 DDE Ardennes </p>
-</td>
-<td align="left" valign="top">
-<p align="center">1,05</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">9 DDE Ariège </p>
-</td>
-<td align="left" valign="top">
-<p align="center">0,90</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">10 DDE Aube </p>
-</td>
-<td align="left" valign="top">
-<p align="center">1,05</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">11 DDE Aude </p>
-</td>
-<td align="left" valign="top">
-<p align="center">0,85</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">12 DDE Aveyron</p>
-</td>
-<td align="left" valign="top">
-<p align="center">0,95</p>
-</td>
+<td/>
+<td>SERVICE DÉPARTEMENTAL</td>
+<td>COEFFICIENT</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">13 DDE Bouches-du-Rhône </p>
-</td>
-<td align="left" valign="top">
-<p align="center">0,95</p>
-</td>
+<td>1</td>
+<td>AIN</td>
+<td>1,00</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">14 DDE Calvados </p>
-</td>
-<td align="left" valign="top">
-<p align="center">1,05</p>
-</td>
+<td>2 </td>
+<td>AISNE</td>
+<td>1,10</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">15 DDE Cantal </p>
-</td>
-<td align="left" valign="top">
-<p align="center">0,95</p>
-</td>
+<td>3 </td>
+<td>ALLIER</td>
+<td>0,95</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">16 DDE Charente </p>
-</td>
-<td align="left" valign="top">
-<p align="center">0,95</p>
-</td>
+<td>4 </td>
+<td>ALPES-DE-HAUTE-PROVENCE</td>
+<td>0,85</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">17 DDE Charente-Maritime </p>
-</td>
-<td align="left" valign="top">
-<p align="center">0,95</p>
-</td>
+<td>5 </td>
+<td>HAUTES-ALPES</td>
+<td>0,85</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">18 DDE Cher </p>
-</td>
-<td align="left" valign="top">
-<p align="center">0,95</p>
-</td>
+<td>6 </td>
+<td>ALPES-MARITIMES</td>
+<td>0,90</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">19 DDE Corrèze </p>
-</td>
-<td align="left" valign="top">
-<p align="center">0195</p>
-</td>
+<td>7 </td>
+<td>ARDECHE</td>
+<td>0,95</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">2A DDE Corse-du-Sud </p>
-</td>
-<td align="left" valign="top">
-<p align="center">0,95</p>
-</td>
+<td>8 </td>
+<td>ARDENNES</td>
+<td>1,05</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">2B DDE Haute-Corse </p>
-</td>
-<td align="left" valign="top">
-<p align="center">0,95</p>
-</td>
+<td>9 </td>
+<td>ARIEGE</td>
+<td>0,90</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">21 DDE Côte-d'Or </p>
-</td>
-<td align="left" valign="top">
-<p align="center">1,00</p>
-</td>
+<td>10 </td>
+<td>AUBE</td>
+<td>1,05</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">22 DDE Côtes-d'Armor </p>
-</td>
-<td align="left" valign="top">
-<p align="center">1,05</p>
-</td>
+<td>11 </td>
+<td>AUDE</td>
+<td>0,85</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">23 DDE Creuse </p>
-</td>
-<td align="left" valign="top">
-<p align="center">0,95</p>
-</td>
+<td>12 </td>
+<td>AVEYRON</td>
+<td>0,95</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">24 DDE Dordogne </p>
-</td>
-<td align="left" valign="top">
-<p align="center">0,90</p>
-</td>
+<td>13 </td>
+<td>BOUCHES-DU-RHONE</td>
+<td>0,95</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">25 DDE Doubs </p>
-</td>
-<td align="left" valign="top">
-<p align="center">1,00</p>
-</td>
+<td>14 </td>
+<td>CALVADOS</td>
+<td>1,05</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">26 DDE Drôme </p>
-</td>
-<td align="left" valign="top">
-<p align="center">0,95</p>
-</td>
+<td>15 </td>
+<td>CANTAL</td>
+<td>0,95</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">27 DDE Eure </p>
-</td>
-<td align="left" valign="top">
-<p align="center">1,05</p>
-</td>
+<td>16 </td>
+<td>CHARENTE</td>
+<td>0,95</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">28 DDE Eure-et-Loir </p>
-</td>
-<td align="left" valign="top">
-<p align="center">1,00</p>
-</td>
+<td>17 </td>
+<td>CHARENTE-MARITIME</td>
+<td>0,95</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">29 DDE Finistère</p>
-</td>
-<td align="left" valign="top">
-<p align="center">1,05</p>
-</td>
+<td>18 </td>
+<td>CHER</td>
+<td>0,95</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">30 DDE Gard </p>
-</td>
-<td align="left" valign="top">
-<p align="center">0,85</p>
-</td>
+<td>19 </td>
+<td>CORREZE</td>
+<td>0,95</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">31 DDE Haute-Garonne </p>
-</td>
-<td align="left" valign="top">
-<p align="center">0,90</p>
-</td>
+<td>2A </td>
+<td>CORSE-DU-SUD</td>
+<td>0,95</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">32 DDE Gers </p>
-</td>
-<td align="left" valign="top">
-<p align="center">0,85</p>
-</td>
+<td>2B </td>
+<td>HAUTE-CORSE</td>
+<td>0,95</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">33 DDE Gironde </p>
-</td>
-<td align="left" valign="top">
-<p align="center">0,90</p>
-</td>
+<td>21 </td>
+<td>COTE-D'OR</td>
+<td>1,00</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">34 DDE Hérault </p>
-</td>
-<td align="left" valign="top">
-<p align="center">0,85</p>
-</td>
+<td>22 </td>
+<td>COTES-D'ARMOR</td>
+<td>1,05</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">35 DDE Ille-et-Vilaine </p>
-</td>
-<td align="left" valign="top">
-<p align="center">1,00</p>
-</td>
+<td>23 </td>
+<td>CREUSE</td>
+<td>0,95</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">36 DDE Indre</p>
-</td>
-<td align="left" valign="top">
-<p align="center">0,95</p>
-</td>
+<td>24 </td>
+<td>DORDOGNE</td>
+<td>0,90</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">37 DDE Indre-et-Loire </p>
-</td>
-<td align="left" valign="top">
-<p align="center">1,00</p>
-</td>
+<td>25 </td>
+<td>DOUBS</td>
+<td>1,00</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">38 DDE Isère................</p>
-</td>
-<td align="left" valign="top">
-<p align="center">1,00</p>
-</td>
+<td>26 </td>
+<td>DROME</td>
+<td>0,95</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">39 DDE Jura </p>
-</td>
-<td align="left" valign="top">
-<p align="center">1,00</p>
-</td>
+<td>27 </td>
+<td>EURE</td>
+<td>1,05</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">40 DDE Landes </p>
-</td>
-<td align="left" valign="top">
-<p align="center">0,90</p>
-</td>
+<td>28 </td>
+<td>EURE-ET-LOIR</td>
+<td>1,00</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">41 DDE Loir-et-Cher</p>
-</td>
-<td align="left" valign="top">
-<p align="center">1,05</p>
-</td>
+<td>29 </td>
+<td>FINISTERE</td>
+<td>1,05</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">42 DDE Loire </p>
-</td>
-<td align="left" valign="top">
-<p align="center">0,95</p>
-</td>
+<td>30 </td>
+<td>GARD</td>
+<td>0,85</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">43 DDE Haute-Loire </p>
-</td>
-<td align="left" valign="top">
-<p align="center">0,95</p>
-</td>
+<td>31 </td>
+<td>HAUTE-GARONNE</td>
+<td>0,90</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">44 DDE Loire-Atlantique </p>
-</td>
-<td align="left" valign="top">
-<p align="center">1,00</p>
-</td>
+<td>32 </td>
+<td>GERS</td>
+<td>0,85</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">45 DDE Loiret </p>
-</td>
-<td align="left" valign="top">
-<p align="center">1,00</p>
-</td>
+<td>33 </td>
+<td>GIRONDE</td>
+<td>0,90</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">46 DDE Lot </p>
-</td>
-<td align="left" valign="top">
-<p align="center">0,90</p>
-</td>
+<td>34 </td>
+<td>HERAULT</td>
+<td>0,85</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">47 DDE Lot-et-Garonne </p>
-</td>
-<td align="left" valign="top">
-<p align="center">0,90</p>
-</td>
+<td>35 </td>
+<td>ILLE-ET-VILAINE</td>
+<td>1,00</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">48 DDE Lozère </p>
-</td>
-<td align="left" valign="top">
-<p align="center">0,95</p>
-</td>
+<td>36 </td>
+<td>INDRE</td>
+<td>0,95</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">49 DDE Maine-et-Loire</p>
-</td>
-<td align="left" valign="top">
-<p align="center">100</p>
-</td>
+<td>37 </td>
+<td>INDRE-ET-LOIRE</td>
+<td>1,00</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">50 DDE Manche </p>
-</td>
-<td align="left" valign="top">
-<p align="center">1,05</p>
-</td>
+<td>38 </td>
+<td>ISERE</td>
+<td>1,00</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">51 DDE Marne </p>
-</td>
-<td align="left" valign="top">
-<p align="center">1,05</p>
-</td>
+<td>39 </td>
+<td>JURA</td>
+<td>1,00</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">52 DDE Haute-Marne</p>
-</td>
-<td align="left" valign="top">
-<p align="center">105</p>
-</td>
+<td>40 </td>
+<td>LANDES</td>
+<td>0,90</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">53 DDE Mayenne </p>
-</td>
-<td align="left" valign="top">
-<p align="center">1,00</p>
-</td>
+<td>41 </td>
+<td>LOIR-ET-CHER</td>
+<td>1,05</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">54 DDE Meurthe-et-Moselle </p>
-</td>
-<td align="left" valign="top">
-<p align="center">1,10</p>
-</td>
+<td>42 </td>
+<td>LOIRE</td>
+<td>0,95</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">55 DDE Meuse </p>
-</td>
-<td align="left" valign="top">
-<p align="center">1,05</p>
-</td>
+<td>43 </td>
+<td>HAUTE-LOIRE</td>
+<td>0,95</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">56 DDE Morbihan </p>
-</td>
-<td align="left" valign="top">
-<p align="center">1,00</p>
-</td>
+<td>44 </td>
+<td>LOIRE-ATLANTIQUE</td>
+<td>1,00</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">57 DDE Moselle</p>
-</td>
-<td align="left" valign="top">
-<p align="center">1,10</p>
-</td>
+<td>45 </td>
+<td>LOIRET</td>
+<td>1,00</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">58 DDE Nièvre </p>
-</td>
-<td align="left" valign="top">
-<p align="center">1,00</p>
-</td>
+<td>46 </td>
+<td>LOT</td>
+<td>0,90</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">59 DDE Nord </p>
-</td>
-<td align="left" valign="top">
-<p align="center">1,15</p>
-</td>
+<td>47 </td>
+<td>LOT-ET-GARONNE</td>
+<td>0,90</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">60 DDE Oise </p>
-</td>
-<td align="left" valign="top">
-<p align="center">1,15</p>
-</td>
+<td>48 </td>
+<td>LOZERE</td>
+<td>0,95</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">61 DDE Orne </p>
-</td>
-<td align="left" valign="top">
-<p align="center">1,05</p>
-</td>
+<td>49 </td>
+<td>MAINE-ET-LOIRE</td>
+<td>1,00</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">62 DDE Pas-de-Calais </p>
-</td>
-<td align="left" valign="top">
-<p align="center">1,20</p>
-</td>
+<td>50 </td>
+<td>MANCHE</td>
+<td>1,05</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">63 DDE. Puy-de-Dôme </p>
-</td>
-<td align="left" valign="top">
-<p align="center">0,95</p>
-</td>
+<td>51 </td>
+<td>MARNE</td>
+<td>1,05</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">61 DDE rén es-Atlantiques </p>
-</td>
-<td align="left" valign="top">
-<p align="center">0,90</p>
-</td>
+<td>52 </td>
+<td>HAUTE-MARNE</td>
+<td>1,05</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">65 DDE Hautes-Pyrénées </p>
-</td>
-<td align="left" valign="top">
-<p align="center">0,90</p>
-</td>
+<td>53 </td>
+<td>MAYENNE</td>
+<td>1,00</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">66 DDE Pyrénées-Orientales </p>
-</td>
-<td align="left" valign="top">
-<p align="center">0,85</p>
-</td>
+<td>54 </td>
+<td>MEURTHE-ET-MOSELLE</td>
+<td>1,10</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">67 DDE Bas-Rhin </p>
-</td>
-<td align="left" valign="top">
-<p align="center">1,10</p>
-</td>
+<td>55 </td>
+<td>MEUSE</td>
+<td>1,05</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">68 DDE Haut-Rhin </p>
-</td>
-<td align="left" valign="top">
-<p align="center">1,10</p>
-</td>
+<td>56 </td>
+<td>MORBIHAN</td>
+<td>1,00</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">69 DDE Rhône </p>
-</td>
-<td align="left" valign="top">
-<p align="center">0,95</p>
-</td>
+<td>57 </td>
+<td>MOSELLE</td>
+<td>1,10</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">70 DDE Haute-Saône</p>
-</td>
-<td align="left" valign="top">
-<p align="center">1,00</p>
-</td>
+<td>58 </td>
+<td>NIEVRE</td>
+<td>1,00</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">71 DDE Saône-et-Loire ....</p>
-</td>
-<td align="left" valign="top">
-<p align="center">1,00</p>
-</td>
+<td>59 </td>
+<td>NORD</td>
+<td>1,15</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">72 DDE Sarthe </p>
-</td>
-<td align="left" valign="top">
-<p align="center">1,00</p>
-</td>
+<td>60 </td>
+<td>OISE</td>
+<td>1,15</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">73 DDE Savoie </p>
-</td>
-<td align="left" valign="top">
-<p align="center">1,05</p>
-</td>
+<td>61 </td>
+<td>ORNE</td>
+<td>1,05</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">74 DDE Haute-Savoie </p>
-</td>
-<td align="left" valign="top">
-<p align="center">1,05</p>
-</td>
+<td>62 </td>
+<td>PAS-DE-CALAIS</td>
+<td>1,20</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">76 DDE Seine-Maritime </p>
-</td>
-<td align="left" valign="top">
-<p align="center">1,10</p>
-</td>
+<td>63 </td>
+<td>PUY-DE-DOME</td>
+<td>0,95</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">77 DDE Seine-et-Marne </p>
-</td>
-<td align="left" valign="top">
-<p align="center">1,10</p>
-</td>
+<td>64 </td>
+<td>PYRENEES-ATLANTIQUES</td>
+<td>0,90</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">78 DDE Yvelines.</p>
-</td>
-<td align="left" valign="top">
-<p align="center">1,10</p>
-</td>
+<td>65 </td>
+<td>HAUTES-PYRENEES</td>
+<td>0,90</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">79 DDE Deux-Sèvres..</p>
-</td>
-<td align="left" valign="top">
-<p align="center">0,95</p>
-</td>
+<td>66 </td>
+<td>PYRENEES-ORIENTALES</td>
+<td>0,85</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">80 DDE Somme </p>
-</td>
-<td align="left" valign="top">
-<p align="center">1,10</p>
-</td>
+<td>67 </td>
+<td>BAS-RHIN</td>
+<td>1,10</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">81 DDE Tarn</p>
-</td>
-<td align="left" valign="top">
-<p align="center">0,85</p>
-</td>
+<td>68 </td>
+<td>HAUT-RHIN</td>
+<td>1,10</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">82 DDE Tarn-et-Garonne</p>
-</td>
-<td align="left" valign="top">
-<p align="center">0,90</p>
-</td>
+<td>69 </td>
+<td>RHONE</td>
+<td>0,95</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">83 DDE Var </p>
-</td>
-<td align="left" valign="top">
-<p align="center">0,90</p>
-</td>
+<td>70 </td>
+<td>HAUTE-SAONE</td>
+<td>1,00</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">84 DDE Vaucluse </p>
-</td>
-<td align="left" valign="top">
-<p align="center">0,90</p>
-</td>
+<td>71 </td>
+<td>SAONE-ET-LOIRE</td>
+<td>1,00</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">85 DDE Vendée </p>
-</td>
-<td align="left" valign="top">
-<p align="center">1,00</p>
-</td>
+<td>72 </td>
+<td>SARTHE</td>
+<td>1,00</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">86 DDE Vienne</p>
-</td>
-<td align="left" valign="top">
-<p align="center">0,95</p>
-</td>
+<td>73 </td>
+<td>SAVOIE</td>
+<td>1,05</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">87 DDE Haute-Vienne </p>
-</td>
-<td align="left" valign="top">
-<p align="center">0,95</p>
-</td>
+<td>74 </td>
+<td>HAUTE-SAVOIE</td>
+<td>1,05</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">88 DDE Vosges </p>
-</td>
-<td align="left" valign="top">
-<p align="center">1,05</p>
-</td>
+<td>76 </td>
+<td>SEINE-MARITIME</td>
+<td>1,10</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">89 DDE Yonne </p>
-</td>
-<td align="left" valign="top">
-<p align="center">1,00</p>
-</td>
+<td>77 </td>
+<td>SEINE-ET-MARNE</td>
+<td>1,10</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">90 DDE Territoire de Belfort</p>
-</td>
-<td align="left" valign="top">
-<p align="center">1,00</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">91 DDE Essonne </p>
-</td>
-<td align="left" valign="top">
-<p align="center">1,10</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">92 DDE Hauts-de-Seine </p>
-</td>
-<td align="left" valign="top">
-<p align="center">1,10</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">93 DDE Seine-Saint-Denis</p>
-</td>
-<td align="left" valign="top">
-<p align="center">1,10</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">94 DDE Val-de-Marne, </p>
-</td>
-<td align="left" valign="top">
-<p align="center">1,10</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">95 DDE Val-d'Oise </p>
-</td>
-<td align="left" valign="top">
-<p align="center">1,10</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">971 DDE Guadeloupe</p>
-</td>
-<td align="left" valign="top">
-<p align="center">0,85</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">972 DDE Martinique.</p>
-</td>
-<td align="left" valign="top">
-<p align="center">0,85</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">973 DDE Guyane </p>
-</td>
-<td align="left" valign="top">
-<p align="center">0,85</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">974 DDE Réunion </p>
-</td>
-<td align="left" valign="top">
-<p align="center">0,85</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">975 DE Saint-Pierre-et-Miquelon </p>
-</td>
-<td align="left" valign="top">
-<p align="center">0,85</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">976 DE Mayotte </p>
-</td>
-<td align="left" valign="top">
-<p align="center">0,85</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">Services d'Etat de l'aviation civile outre-mer</p>
-</td>
-<td align="left" valign="top">
-<p align="center">0.85</p>
-</td>
+<td>78 </td>
+<td>YVELINES</td>
+<td>1,10</td>
+</tr>
+<tr>
+<td>79 </td>
+<td>DEUX-SEVRES</td>
+<td>0,95</td>
+</tr>
+<tr>
+<td>80 </td>
+<td>SOMME</td>
+<td>1,10</td>
+</tr>
+<tr>
+<td>81 </td>
+<td>TARN</td>
+<td>0,85</td>
+</tr>
+<tr>
+<td>82 </td>
+<td>TARN-ET-GARONNE</td>
+<td>0,90</td>
+</tr>
+<tr>
+<td>83 </td>
+<td>VAR</td>
+<td>0,90</td>
+</tr>
+<tr>
+<td>84 </td>
+<td>VAUCLUSE</td>
+<td>0,90</td>
+</tr>
+<tr>
+<td>85 </td>
+<td>VENDEE</td>
+<td>1,00</td>
+</tr>
+<tr>
+<td>86 </td>
+<td>VIENNE</td>
+<td>0,95</td>
+</tr>
+<tr>
+<td>87 </td>
+<td>HAUTE-VIENNE</td>
+<td>0,95</td>
+</tr>
+<tr>
+<td>88 </td>
+<td>VOSGES</td>
+<td>1,05</td>
+</tr>
+<tr>
+<td>89 </td>
+<td>YONNE</td>
+<td>1,00</td>
+</tr>
+<tr>
+<td>90 </td>
+<td>TERRITOIRE DE BELFORT</td>
+<td>1,00</td>
+</tr>
+<tr>
+<td>91 </td>
+<td>ESSONNE</td>
+<td>1,10</td>
+</tr>
+<tr>
+<td>92 </td>
+<td>HAUTS-DE-SEINE</td>
+<td>1,10</td>
+</tr>
+<tr>
+<td>93 </td>
+<td>SEINE-SAINT-DENIS</td>
+<td>1,10</td>
+</tr>
+<tr>
+<td>94 </td>
+<td>VAL-DE-MARNE</td>
+<td>1,10</td>
+</tr>
+<tr>
+<td>95 </td>
+<td>VAL-D'OISE</td>
+<td>1,10</td>
+</tr>
+<tr>
+<td>971 </td>
+<td>GUADELOUPE</td>
+<td>0,85</td>
+</tr>
+<tr>
+<td>972 </td>
+<td>MARTINIQUE</td>
+<td>0,85</td>
+</tr>
+<tr>
+<td>973 </td>
+<td>GUYANE</td>
+<td>0,85</td>
+</tr>
+<tr>
+<td>974 </td>
+<td>REUNION</td>
+<td>0,85</td>
+</tr>
+<tr>
+<td>975 </td>
+<td>SAINT-PIERRE-ET-MIQUELON</td>
+<td>0,85</td>
+</tr>
+<tr>
+<td>976 </td>
+<td>MAYOTTE</td>
+<td>0,85</td>
+</tr>
+<tr>
+<td/>
+<td>DULE</td>
+<td>1,10</td>
 </tr>
 </tbody>
 </table>
@@ -837,719 +530,364 @@ Les directions régionales de l'environnement (DIREN), les directions interrégi
 
 Pour les directions régionales de l'équipement
 
+Pour les directions régionales, sous la tutelle du ministère chargé de l'écologie
+
 <table>
 <tbody>
 <tr>
-<td align="left" valign="top">
-<p align="center">SERVICE</p>
-</td>
-<td align="left" valign="top">
-<p align="center">COEFFICIENT</p>
-</td>
+<td>SERVICE RÉGIONAL</td>
+<td>COEFFICIENT</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="justify">DRE Alsace</p>
-</td>
-<td align="left" valign="top">
-<p align="center">1,10</p>
-</td>
+<td>ALSACE</td>
+<td>1,10</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="justify">DRE Aquitaine</p>
-</td>
-<td align="left" valign="top">
-<p align="center">0,90</p>
-</td>
+<td>AQUITAINE</td>
+<td>0,90</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="justify">DRE Auvergne</p>
-</td>
-<td align="left" valign="top">
-<p align="center">0,95</p>
-</td>
+<td>AUVERGNE</td>
+<td>0,95</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="justify">DRE Bourgogne</p>
-</td>
-<td align="left" valign="top">
-<p align="center">1,00</p>
-</td>
+<td>BOURGOGNE</td>
+<td>1,00</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="justify">DRE Bretagne</p>
-</td>
-<td align="left" valign="top">
-<p align="center">1,00</p>
-</td>
+<td>BRETAGNE</td>
+<td>1,00</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="justify">DRE Centre</p>
-</td>
-<td align="left" valign="top">
-<p align="center">1,00</p>
-</td>
+<td>CENTRE</td>
+<td>1,00</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="justify">DRE Champagne-Ardenne</p>
-</td>
-<td align="left" valign="top">
-<p align="center">1,05</p>
-</td>
+<td>CHAMPAGNE-ARDENNE</td>
+<td>1,05</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="justify">DRE Corse</p>
-</td>
-<td align="left" valign="top">
-<p align="center">0,95</p>
-</td>
+<td>CORSE</td>
+<td>0,95</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="justify">DRE Franche-Comté</p>
-</td>
-<td align="left" valign="top">
-<p align="center">1,00</p>
-</td>
+<td>FRANCHE-COMTE</td>
+<td>1,00</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="justify">DRE Languedoc-Roussillon</p>
-</td>
-<td align="left" valign="top">
-<p align="center">0,85</p>
-</td>
+<td>LANGUEDOC-ROUSSILLON</td>
+<td>0,85</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="justify">DRE Lorraine</p>
-</td>
-<td align="left" valign="top">
-<p align="center">1,10</p>
-</td>
+<td>LORRAINE</td>
+<td>1,10</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="justify">DRE Midi-Pyrénées</p>
-</td>
-<td align="left" valign="top">
-<p align="center">0,90</p>
-</td>
+<td>MIDI-PYRENEES</td>
+<td>0,90</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="justify">DRE Nord - Pas-de-Calais</p>
-</td>
-<td align="left" valign="top">
-<p align="center">1,15</p>
-</td>
+<td>NORD - PAS-DE-CALAIS</td>
+<td>1,15</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="justify">DRE Basse-Normandie</p>
-</td>
-<td align="left" valign="top">
-<p align="center">1,05</p>
-</td>
+<td>BASSE-NORMANDIE</td>
+<td>1,05</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="justify">DRE Haute-Normandie</p>
-</td>
-<td align="left" valign="top">
-<p align="center">1,10</p>
-</td>
+<td>HAUTE-NORMANDIE</td>
+<td>1,10</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="justify">DRE Pays de la Loire</p>
-</td>
-<td align="left" valign="top">
-<p align="center">1,00</p>
-</td>
+<td>PAYS DE LA LOIRE</td>
+<td>1,00</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="justify">DRE Picardie</p>
-</td>
-<td align="left" valign="top">
-<p align="center">1,10</p>
-</td>
+<td>PICARDIE</td>
+<td>1,10</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="justify">DRE Poitou-Charentes</p>
-</td>
-<td align="left" valign="top">
-<p align="center">0,95</p>
-</td>
+<td>POITOU-CHARENTES</td>
+<td>0,95</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="justify">DRE Provence-Alpes-Côte d'Azur</p>
-</td>
-<td align="left" valign="top">
-<p align="center">0,95</p>
-</td>
+<td>PROVENCE-ALPES-COTE D'AZUR</td>
+<td>0,95</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="justify">DRE Rhône-Alpes</p>
-</td>
-<td align="left" valign="top">
-<p align="center">0,95</p>
-</td>
+<td>RHONE-ALPES</td>
+<td>0,95</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="justify">DRE Ile-de-France</p>
-</td>
-<td align="left" valign="top">
-<p align="center">1,10</p>
-</td>
+<td>ILE-DE-FRANCE</td>
+<td>1,10</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="justify">DRE Limousin</p>
-</td>
-<td align="left" valign="top">
-<p align="center">0,95</p>
-</td>
+<td>LIMOUSIN</td>
+<td>0,95</td>
 </tr>
 </tbody>
 </table>
-_._
 
 Pour les directions interdépartementales des routes
 
 <table>
 <tbody>
 <tr>
-<td align="left" valign="top">
-<p align="center">SERVICE</p>
-</td>
-<td align="left" valign="top">
-<p align="center">COEFFICIENT</p>
-</td>
+<td valign="top">SERVICE</td>
+<td valign="top">COEFFICIENT</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="justify">DIR Ile-de-France</p>
-</td>
-<td align="left" valign="top">
-<p align="center">1,10</p>
-</td>
+<td valign="top">DIR Ile-de-France</td>
+<td valign="top">1,10</td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="justify">DIR Nord</p>
-</td>
-<td align="left" valign="top">
-<p align="center">1,15</p>
-</td>
+<td>DIR Nord</td>
+<td valign="top">1,15</td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="justify">DIR Est</p>
-</td>
-<td align="left" valign="top">
-<p align="center">1,10</p>
-</td>
+<td>DIR Est</td>
+<td valign="top">1,10</td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="justify">DIR Centre-Est</p>
-</td>
-<td align="left" valign="top">
-<p align="center">1</p>
-</td>
+<td>DIR Centre-Est</td>
+<td valign="top">1</td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="justify">DIR Méditerranée</p>
-</td>
-<td align="left" valign="top">
-<p align="center">0,95</p>
-</td>
+<td>DIR Méditerranée</td>
+<td valign="top">0,95</td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="justify">DIR Massif central</p>
-</td>
-<td align="left" valign="top">
-<p align="center">0,95</p>
-</td>
+<td>DIR Massif central</td>
+<td valign="top">0,95</td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="justify">DIR Sud-Ouest</p>
-</td>
-<td align="left" valign="top">
-<p align="center">0,90</p>
-</td>
+<td>DIR Sud-Ouest</td>
+<td valign="top">0,90</td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="justify">DIR Atlantique</p>
-</td>
-<td align="left" valign="top">
-<p align="center">0,95</p>
-</td>
+<td>DIR Atlantique</td>
+<td valign="top">0,95</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="justify">DIR Centre-Ouest</p>
-</td>
-<td align="left" valign="top">
-<p align="center">0,95</p>
-</td>
+<td valign="top">DIR Centre-Ouest</td>
+<td valign="top">0,95</td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="justify">DIR Ouest</p>
-</td>
-<td align="left" valign="top">
-<p align="center">1,05</p>
-</td>
+<td>DIR Ouest</td>
+<td valign="top">1,05</td>
 </tr>
 <tr>
-<td align="left" valign="bottom">
-<p align="justify">DIR Nord-Ouest</p>
-</td>
-<td align="left" valign="top">
-<p align="center">1,10</p>
-</td>
+<td valign="bottom">DIR Nord-Ouest</td>
+<td valign="top">1,10</td>
 </tr>
 </tbody>
 </table>
 
-_Pour les services déconcentrés de l'aviation civile_
+Pour les services déconcentrés de l'aviation civile
 
 <table>
 <tbody>
 <tr>
-<td align="left" colspan="2" valign="middle">
-<p align="center">SERVICE</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">COEFFICIENT</p>
-</td>
+<td colspan="2">SERVICE</td>
+<td>COEFFICIENT</td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="justify">DAC</p>
-</td>
-<td align="left" valign="middle">
-<p align="justify">Direction de l'aviation civile Nord</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">1,10</p>
-</td>
+<td>DAC</td>
+<td>Direction de l'aviation civile Nord</td>
+<td>1,10</td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="justify">DAC</p>
-</td>
-<td align="left" valign="middle">
-<p align="justify">Direction de l'aviation civile Nord-est </p>
-</td>
-<td align="left" valign="middle">
-<p align="center">1,10</p>
-</td>
+<td>DAC</td>
+<td>Direction de l'aviation civile Nord-est </td>
+<td>1,10</td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="justify">DAC</p>
-</td>
-<td align="left" valign="middle">
-<p align="justify">Direction de l'aviation civile Centre-Est</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">0,95</p>
-</td>
+<td>DAC</td>
+<td>Direction de l'aviation civile Centre-Est</td>
+<td>0,95</td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="justify">DAC</p>
-</td>
-<td align="left" valign="middle">
-<p align="justify">Direction de l'aviation civile Sud-Est</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">0,95</p>
-</td>
+<td>DAC</td>
+<td>Direction de l'aviation civile Sud-Est</td>
+<td>0,95</td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="justify">DAC</p>
-</td>
-<td align="left" valign="middle">
-<p align="justify">Direction de l'aviation civile Sud</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">0,90</p>
-</td>
+<td>DAC</td>
+<td>Direction de l'aviation civile Sud</td>
+<td>0,90</td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="justify">DAC</p>
-</td>
-<td align="left" valign="middle">
-<p align="justify">Direction de l'aviation civile Sud-Ouest</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">0,90</p>
-</td>
+<td>DAC</td>
+<td>Direction de l'aviation civile Sud-Ouest</td>
+<td>0,90</td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="justify">DAC</p>
-</td>
-<td align="left" valign="middle">
-<p align="justify">Direction de l'aviation civile Ouest</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">1,00</p>
-</td>
+<td>DAC</td>
+<td>Direction de l'aviation civile Ouest</td>
+<td>1,00</td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="justify">DAC</p>
-</td>
-<td align="left" valign="middle">
-<p align="justify">Direction de l'aviation civile Antilles-Guyane</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">0,85</p>
-</td>
+<td>DAC</td>
+<td>Direction de l'aviation civile Antilles-Guyane</td>
+<td>0,85</td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="justify">SEAC</p>
-</td>
-<td align="left" valign="middle">
-<p align="justify">Service d'Etat de l'aviation civile en Polynésie française, de Nouvelle-Calédonie et des dépendances</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">0,85</p>
-</td>
+<td>SEAC</td>
+<td>Service d'Etat de l'aviation civile en Polynésie française, de Nouvelle-Calédonie et des dépendances</td>
+<td>0,85</td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="justify">SAC</p>
-</td>
-<td align="left" valign="middle">
-<p align="justify">Service de l'aviation civile de SAint-Pierre-et-Miquelon, de la Réunion et des îles Eparses</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">0,85</p>
-</td>
+<td>SAC</td>
+<td>Service de l'aviation civile de SAint-Pierre-et-Miquelon, de la Réunion et des îles Eparses</td>
+<td>0,85</td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="justify">ADP</p>
-</td>
-<td align="left" valign="middle">
-<p align="justify">Aéroports de Paris</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">1,10</p>
-</td>
+<td>ADP</td>
+<td>Aéroports de Paris</td>
+<td>1,10</td>
 </tr>
 </tbody>
 </table>
 
-_Pour les services spécialisés_
-
-.
+Pour les services spécialisés
 
 <table>
 <tbody>
 <tr>
-<td align="left" valign="top">
-<p align="center">SERVICE</p>
-</td>
-<td align="left" valign="top">
-<p align="center">COEFFICIENT</p>
-</td>
+<td>SERVICE </td>
+<td>COEFFICIENT </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="justify">Service de la navigation du Sud-Ouest (Toulouse)</p>
-</td>
-<td align="left" valign="top">
-<p align="center">0,90</p>
-</td>
+<td>SERVICE DE LA NAVIGATION DU SUD-OUEST (TOULOUSE). </td>
+<td>0, 90 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="justify">Service de la navigation du Nord-Est (Nancy)</p>
-</td>
-<td align="left" valign="top">
-<p align="center">1,10</p>
-</td>
+<td>SERVICE DE LA NAVIGATION DU NORD-EST (NANCY). </td>
+<td>1, 10 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="justify">Service de la navigation de Nord-Pas-de-Calais</p>
-</td>
-<td align="left" valign="top">
-<p align="center">1,15</p>
-</td>
+<td>SERVICE DE LA NAVIGATION DE NORD-PAS-DE-CALAIS </td>
+<td>1, 15 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="justify">Service de la navigation de Strasbourg</p>
-</td>
-<td align="left" valign="top">
-<p align="center">1,10</p>
-</td>
+<td>SERVICE DE LA NAVIGATION DE STRASBOURG. </td>
+<td>1, 10 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="justify">Service de la navigation de Rhône-Saône (Lyon)</p>
-</td>
-<td align="left" valign="top">
-<p align="center">0,95</p>
-</td>
+<td>SERVICE DE LA NAVIGATION DE RHONE-SAONE (LYON). </td>
+<td>0, 95 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="justify">Service de la navigation de la Seine</p>
-</td>
-<td align="left" valign="top">
-<p align="center">1,05</p>
-</td>
+<td>SERVICE DE LA NAVIGATION DE LA SEINE. </td>
+<td>1, 05 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="justify">Service maritime et de navigation de Languedoc-Roussillon</p>
-</td>
-<td align="left" valign="top">
-<p align="center">0,90</p>
-</td>
+<td>SERVICE MARITIME ET DE NAVIGATION DE LANGUEDOC-ROUSSILLON. </td>
+<td>0, 90 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="justify">Service maritime du Nord (Dunkerque)</p>
-</td>
-<td align="left" valign="top">
-<p align="center">1,15</p>
-</td>
+<td>SERVICE MARITIME DU NORD (DUNKERQUE). </td>
+<td>1, 15 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="justify">Service maritime des ports de Boulogne-sur-Mer et Calais</p>
-</td>
-<td align="left" valign="top">
-<p align="center">1,20</p>
-</td>
+<td>SERVICE MARITIME DES PORTS DE BOULOGNE-SUR-MER ET CALAIS. </td>
+<td>1, 20 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="justify">Service maritime de la Seine-Maritime (Rouen)</p>
-</td>
-<td align="left" valign="top">
-<p align="center">1,10</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="justify">Service spécial des bases aériennes d'Ile-de-France</p>
-</td>
-<td align="left" valign="top">
-<p align="center">1,05</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="justify">Service spécial des bases aériennes Sud-Ouest</p>
-</td>
-<td align="left" valign="top">
-<p align="center">0,90</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="justify">Service spécial des bases aériennes Sud-Est</p>
-</td>
-<td align="left" valign="top">
-<p align="center">0,95</p>
-</td>
+<td>SERVICE MARITIME DE LA SEINE-MARITIME (ROUEN). </td>
+<td>1, 10</td>
 </tr>
 </tbody>
 </table>
 
-_Pour les services à compétence nationale_
+Pour les services à compétence nationale
 
 <table>
 <tbody>
 <tr>
-<td align="left" valign="top">
-<p align="center">SERVICE</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">COEFFICIENT</p>
-</td>
+<td>SERVICE </td>
+<td>COEFFICIENT </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">Service d'études techniques des routes et autoroutes</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">1,05</p>
-</td>
+<td>SERVICE D'ETUDES TECHNIQUES DES ROUTES ET AUTOROUTES. </td>
+<td>1, 05 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">Centre d'études des tunnels</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">1,05</p>
-</td>
+<td>CENTRE D'ETUDES DES TUNNELS. </td>
+<td>1, 05 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">Centre d'études techniques maritimes et fluviales</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">1,05</p>
-</td>
+<td>CENTRE D'ETUDES TECHNIQUES MARITIMES ET FLUVIALES. </td>
+<td>1, 05 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">Service technique de l'aviation civile</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">1,05</p>
-</td>
+<td>SERVICE TECHNIQUE DE L'AVIATION CIVILE. </td>
+<td>1, 05 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">Centre national des ponts de secours</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">1,05</p>
-</td>
+<td>CENTRE NATIONAL DES PONTS DE SECOURS. </td>
+<td>1, 05 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">Service technique des remontées mécaniques et des transports guidés</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">1,05</p>
-</td>
+<td>SERVICE TECHNIQUE DES REMONTEES MECANIQUES ET DES TRANSPORTS GUIDES. </td>
+<td>1, 05 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">Centre d'études sur les réseaux, les transports, l'urbanisme et les constructions publiques</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">0,95</p>
-</td>
+<td>CENTRE D'ETUDES SUR LES RESEAUX, LES TRANSPORTS, L'URBANISME ET LES CONSTRUCTIONS PUBLIQUES (CERTU). </td>
+<td>0, 95 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">Bureau d'enquêtes et d'analyse pour la sécurité de l'aviation civile</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">1,15</p>
-</td>
+<td>BUREAU D'ENQUETES ET D'ANALYSE POUR LA SECURITE DE L'AVIATION CIVILE. </td>
+<td>1, 15 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">Direction des services de la navigation aérienne, direction des opérations (échelon central)</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">1,10</p>
-</td>
+<td>DIRECTION DES SERVICES DE LA NAVIGATION AERIENNE, DIRECTION DES OPERATIONS (ECHELON CENTRAL). </td>
+<td>1, 10 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">Centre en route de la navigation aérienne Nord</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">1,10</p>
-</td>
+<td>CENTRE EN ROUTE DE LA NAVIGATION AERIENNE NORD. </td>
+<td>1, 10 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">Centre en route de la navigation aérienne Est</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">1,10</p>
-</td>
+<td>CENTRE EN ROUTE DE LA NAVIGATION AERIENNE EST. </td>
+<td>1, 10 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">Centre en route de la navigation aérienne Sud-Est</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">1,00</p>
-</td>
+<td>CENTRE EN ROUTE DE LA NAVIGATION AERIENNE SUD-EST. </td>
+<td>1, 00 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">Centre en route de la navigation aérienne Sud-Ouest</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">1,00</p>
-</td>
+<td>CENTRE EN ROUTE DE LA NAVIGATION AERIENNE SUD-OUEST. </td>
+<td>1, 00 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">Centre en route de la navigation aérienne Ouest</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">1,00</p>
-</td>
+<td>CENTRE EN ROUTE DE LA NAVIGATION AERIENNE OUEST. </td>
+<td>1, 00 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">Direction des services de la navigation aérienne, direction de la technique et de l'innovation Athis-Mons</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">1,10</p>
-</td>
+<td>DIRECTION DES SERVICES DE LA NAVIGATION AERIENNE, DIRECTION DE LA TECHNIQUE ET DE L'INNOVATION ATHIS-MONS. </td>
+<td>1, 10 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">Direction des services de la navigation aérienne, direction de la technique et de l'innovation Toulouse</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">1,05</p>
-</td>
+<td>DIRECTION DES SERVICES DE LA NAVIGATION AERIENNE, DIRECTION DE LA TECHNIQUE ET DE L'INNOVATION TOULOUSE. </td>
+<td>1, 05 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">Service de l'information aéronautique</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">0,90</p>
-</td>
+<td>SERVICE DE L'INFORMATION AERONAUTIQUE. </td>
+<td>0, 90 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">Service d'exploitation de la formation aéronautique</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">0,90</p>
-</td>
+<td>SERVICE D'EXPLOITATION DE LA FORMATION AERONAUTIQUE. </td>
+<td>0, 90 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">Centre d'exploitation, de développement et d'études du réseau d'information de gestion</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">1,10</p>
-</td>
+<td>CENTRE D'EXPLOITATION, DE DEVELOPPEMENT ET D'ETUDES DU RESEAU D'INFORMATION DE GESTION. </td>
+<td>1, 10 </td>
+</tr>
+<tr>
+<td>SERVICE NATIONAL D'INGENIERIE AEROPORTUAIRE. </td>
+<td>1, 05</td>
 </tr>
 </tbody>
 </table>
@@ -1567,79 +905,47 @@ Pour les directions, services d'administration centrale, écoles, centres interr
 <table>
 <tbody>
 <tr>
-<td>
-<p align="center">SERVICE</p>
-</td>
-<td>
-<p align="center">COEFFICIENT</p>
-</td>
+<td>SERVICE</td>
+<td>COEFFICIENT</td>
 <td/>
 </tr>
 <tr>
-<td>
-<p>Agents en position d'activité dans les directions générales, les directions et les services d'administration centrale du ministère des transports, de l'équipement, du tourisme et de la mer ainsi que dans les autres ministères</p>
-</td>
-<td>
-<p align="center">1,05</p>
-</td>
+<td>Agents en position d'activité dans les directions générales, les directions et les services d'administration centrale du ministère des transports, de l'équipement, du tourisme et de la mer ainsi que dans les autres ministères</td>
+<td>1,05</td>
 <td/>
 </tr>
 <tr>
-<td>
-<p>Agents en position d'activité à la direction des services de la navigation aérienne (état-major) de la direction générale de l'aviation civile</p>
-</td>
-<td>
-<p align="center">1,05</p>
-</td>
+<td>Agents en position d'activité à la direction des services de la navigation aérienne (état-major) de la direction générale de l'aviation civile</td>
+<td>1,05</td>
 <td/>
 </tr>
 <tr>
-<td>
-<p>Agents en position d'activité dans les services des directions générales et des directions centrales des établissements publics Météo-France et IGN (Institut géographique national), le siège et les centres de l'Institut national de recherche sur les transports et leur sécurité (INRETS), les écoles et les centres interrégionaux de formation professionnelle</p>
-</td>
-<td>
-<p align="center">1,05</p>
-</td>
+<td>Agents en position d'activité dans les services des directions générales et des directions centrales des établissements publics Météo-France et IGN (Institut géographique national), le siège et les centres de l'Institut national de recherche sur les transports et leur sécurité (INRETS), les écoles et les centres interrégionaux de formation professionnelle</td>
+<td>1,05</td>
 <td/>
 </tr>
 <tr>
-<td>
-<p>Agents affectés au département d'études et d'aménagement touristique de la montagne relevant du groupement d'intérêt public Observation, développement et ingénierie touristiques» (ODIT France)</p>
-</td>
-<td>
-<p align="center">1,05</p>
-</td>
+<td>Agents affectés au département d'études et d'aménagement touristique de la montagne relevant du groupement d'intérêt public Observation, développement et ingénierie touristiques (ODIT France)</td>
+<td>1,05</td>
 <td/>
 </tr>
 <tr>
-<td>
-<p>Agents affectés à l'Ecole nationale des techniciens de l'équipement de Valenciennes</p>
-</td>
-<td>
-<p align="center">1,15</p>
-</td>
+<td>Agents affectés à l'Ecole nationale des techniciens de l'équipement de Valenciennes</td>
+<td>1,15</td>
 <td/>
 </tr>
 <tr>
-<td>
-<p>Agents affectés au centre d'évaluation, de documentation et d'innovation pédagogiques (CEDIP)</p>
-</td>
-<td>
-<p align="center">0,85</p>
-</td>
+<td>Agents affectés au centre d'évaluation, de documentation et d'innovation pédagogiques (CEDIP)</td>
+<td>0,85</td>
 <td/>
 </tr>
 <tr>
-<td rowspan="2">
-<p>Ingénieurs des ponts et chaussées titulaires en formation initiale à l'Ecole nationale des ponts et chaussées</p>
-</td>
-<td rowspan="2">
-<p align="center">0,80</p>
-</td>
-<td height="19"/>
+<td rowspan="2">Ingénieurs des ponts et chaussées titulaires en formation initiale à l'Ecole nationale des ponts et chaussées</td>
+<td rowspan="2">0,80</td>
+<td/>
 </tr>
 <tr>
-<td height="19"/>
+<td/>
 </tr>
 </tbody>
 </table>

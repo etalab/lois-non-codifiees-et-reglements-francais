@@ -2,3 +2,6 @@
 
 - [TITRE Ier : DISPOSITIONS GENERALES.](titre-ier)
 - [TITRE II : NOMINATION.](titre-ii)
+- [TITRE III : DISPOSITIONS DIVERSES.](titre-iii)
+- [TITRE IV : DISPOSITIONS TRANSITOIRES.](titre-iv)
+- [Article 23](article-23.md)

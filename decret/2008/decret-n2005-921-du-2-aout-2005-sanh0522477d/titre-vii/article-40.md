@@ -1,0 +1,5 @@
+# Article 40
+
+Les dispositions du décret n° 88-163 du 19 février 1988 modifié portant statut particulier des grades et emplois des personnels de direction des établissements mentionnés à l'article 2 (1°,2° et 3°) de la loi n° 86-33 du 9 janvier 1986 modifiée portant dispositions statutaires relatives à la fonction publique hospitalière maintenues en vigueur par l'article 37 du décret n° 2000-232 du 13 mars 2000 portant statut particulier des grades et emplois des personnels de direction des établissements mentionnés à l'article 2 (1°,2° et 3°) de la loi n° 86-33 du 9 janvier 1986 modifiée portant dispositions statutaires relatives à la fonction publique hospitalière et celles de ce décret du 13 mars 2000, à l'exception du septième alinéa de l'article 1er, du premier et du deuxième alinéa de l'article 23, du premier alinéa de l'article 24 et de la première phrase du premier alinéa et du troisième alinéa de l'article 25, sont abrogées.
+
+Dans les textes réglementaires en vigueur, la référence audit décret du 13 mars 2000 est remplacée par la référence au présent décret.

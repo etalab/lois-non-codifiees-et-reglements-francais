@@ -1,0 +1,7 @@
+# Article 15
+
+I. ― Pour les concessions de force hydraulique en cours de validité au 1er janvier 2008 et non conformes aux dispositions des articles 16,20 et 30 du cahier des charges type annexé au décret du 11 octobre 1999 susvisé, le préfet peut fixer, le concessionnaire entendu, le délai dans lequel ces concessions sont rendues conformes par le concessionnaire. Ce délai ne peut dépasser le 30 juin 2008 pour un ouvrage de classe A ou le 31 décembre 2012 pour un ouvrage d'une autre classe.
+
+II. ― Pour les concessions de force hydraulique en cours de validité au 1er janvier 2008 et relevant du cahier des charges type approuvé par le décret du 5 septembre 1920 approuvant le cahier des charges type de concession de forces hydrauliques sur les cours d'eau et les lacs, le préfet, après avoir entendu le concessionnaire, approuve pour chaque barrage des consignes telles que prévues par les dispositions du I de l'article 20 du cahier des charges type annexé au décret du 11 octobre 1999 susvisé. En outre, lorsqu'il s'agit d'un barrage de classe A en service depuis plus de cinq ans, il arrête la première échéance de la revue de sûreté à laquelle ce barrage est soumis en application des dispositions du III de l'article 20 précité.
+
+Les dispositions de l'alinéa précédent sont également applicables aux concessions de force hydraulique octroyées en application de la loi du 27 mai 1921 relative au programme des travaux du Rhône de la frontière suisse à la mer.

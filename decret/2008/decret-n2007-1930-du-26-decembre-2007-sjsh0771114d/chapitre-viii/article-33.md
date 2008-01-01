@@ -1,0 +1,3 @@
+# Article 33
+
+Le directeur d'un établissement constitué à la suite de la fusion de deux ou plusieurs établissements mentionnés à l'article 1er peut être désigné, par arrêté du ministre chargé de la santé pris après avis des présidents du conseil d'administration de ces établissements ou des présidents de l'organe délibérant de la personne publique de rattachement pour les établissements n'ayant pas la personnalité morale, parmi les directeurs de ces établissements, si le nouvel établissement relève également de cet article 1er. Dans ce cas, la nomination intervient sans publication préalable de la vacance de l'emploi de directeur. A défaut de nomination du directeur selon cette procédure, il est fait application des dispositions des articles 20 et 21.

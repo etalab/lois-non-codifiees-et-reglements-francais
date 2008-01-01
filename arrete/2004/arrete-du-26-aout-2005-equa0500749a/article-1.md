@@ -69,37 +69,5 @@ Les montants annuels de référence de l'indemnité spéciale prévus à l'artic
 <p align="center">2 700, 36 </p>
 </td>
 </tr>
-<tr>
-<td valign="top" width="378">
-<p>Attaché d'administration de l'aviation civile </p>
-</td>
-<td width="227">
-<p align="center">2 731, 05 </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="378">
-<p>Attaché principal d'administration de 2e classe </p>
-</td>
-<td width="227">
-<p align="center">2 766, 31 </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="378">
-<p>Attaché principal d'administration de 1re classe </p>
-</td>
-<td width="227">
-<p align="center">3 165, 79 </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="378">
-<p>Conseiller d'administration de l'aviation civile </p>
-</td>
-<td width="227">
-<p align="center">3 165, 79</p>
-</td>
-</tr>
 </tbody>
 </table>

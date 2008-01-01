@@ -1,0 +1,5 @@
+# Article 2
+
+Les attachés d'administration de l'aviation civile exercent leurs fonctions dans l'administration centrale, les services à compétence nationale, les services déconcentrés de la direction générale de l'aviation civile et au sein du bureau d'enquêtes et d'analyses pour la sécurité de l'aviation civile. Ils peuvent également être affectés dans les établissements publics placés sous la tutelle du ministre chargé de l'aviation civile, ainsi que dans l'établissement public Météo-France.
+
+Outre les fonctions dévolues aux attachés d'administration en application de l'article 2 du décret du 26 septembre 2005 susvisé, ils peuvent être chargés, dans les services et organismes mentionnés à l'alinéa précédent, de missions de contrôle des compagnies aériennes et des gestionnaires d'aérodromes. Ils peuvent également exercer des fonctions de sélection, de formation et d'orientation des personnels de ces services et organismes et des élèves des établissements d'enseignement qui en relèvent.

@@ -1,0 +1,3 @@
+# Décret n° 2007-1927 du 26 décembre 2007 modifiant le décret n° 2005-921 du 2 août 2005 portant statut particulier des grades et emplois des personnels de direction des établissements mentionnés à l'article 2 (1°, 2° et 3°) de la loi n° 86-33 du 9 janvier 1986 portant dispositions statutaires relatives à la fonction publique hospitalière, le décret n° 89-920 du 21 décembre 1989 relatif aux comités consultatifs nationaux paritaires de la fonction publique hospitalière et le décret n° 91-790 du 14 août 1991 relatif aux commissions administratives paritaires nationales de la fonction publique hospitalière
+
+- [Article 22](article-22.md)

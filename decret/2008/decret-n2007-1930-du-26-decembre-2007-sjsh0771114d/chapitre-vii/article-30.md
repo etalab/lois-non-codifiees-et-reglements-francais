@@ -1,0 +1,7 @@
+# Article 30
+
+Dans le cas où il est institué une direction commune à plusieurs établissements, la nomination du directeur peut être prononcée, par arrêté du ministre chargé de la santé pris après avis des présidents des conseils d'administration ou des organes délibérants des personnes publiques de rattachement, parmi les personnels de direction de ces établissements. Cette désignation se fait sans publication préalable de la vacance de l'emploi de directeur. A défaut de nomination du directeur selon cette procédure, il est fait application des dispositions des articles 20 et 21.
+
+Les directeurs adjoints, membres de la direction commune, sont nommés, parmi ces personnels de direction, par arrêté du directeur général du Centre national de gestion, sans publication préalable des vacances d'emploi.
+
+Dans le cas où une direction commune est instituée entre des établissements mentionnés au 1° de l'article 2 de la loi du 9 janvier 1986 susvisée, qui ne figurent pas sur la liste prévue à l'article 1er du présent décret, et des établissements mentionnés aux 2° à 6° de l'article 2 de la même loi, l'emploi de directeur est pourvu par un membre du corps régi par le décret susvisé du 2 août 2005, dans les conditions de nomination définies au premier alinéa. Les directeurs adjoints d'un établissement mentionné au 1° ou au 7° de l'article 2 de la même loi peuvent être nommés membres de la direction commune, dans les conditions de nomination définies au deuxième alinéa.

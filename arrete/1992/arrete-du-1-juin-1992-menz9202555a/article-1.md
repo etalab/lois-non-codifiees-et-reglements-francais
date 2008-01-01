@@ -34,7 +34,7 @@ La Société nationale des chemins de fer français ;
 
 L'ensemble des administrations centrales de l'Etat ;
 
-La direction centrale du commissariat de l'air du ministère de la défense ;
+Le service de l'administration générale et des finances de l'armée de l'air du ministère de la défense ;
 
 E.D.F.-G.D.F. ;
 

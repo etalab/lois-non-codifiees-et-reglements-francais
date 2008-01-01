@@ -16,6 +16,8 @@ CRNA Ouest (niveau 6).
 
 Lyon - Saint-Exupéry (niveau 1).
 
+Marseille-Provence (niveau 1)
+
 Nice-Côte d'Azur (niveau 2).
 
 Paris - Charles-de-Gaulle (niveau 6).
@@ -23,8 +25,6 @@ Paris - Charles-de-Gaulle (niveau 6).
 Paris-Orly (niveau 6).
 
 Groupe B :
-
-Marseille-Provence.
 
 Toulouse-Blagnac.
 
@@ -38,11 +38,15 @@ Lille-Lesquin.
 
 Martinique-Aimé Césaire.
 
+Melun-Villaroche.
+
 Montpellier-Méditerranée.
 
 Nantes-Atlantique.
 
 Paris-Le Bourget.
+
+Pau-Pyrénées.
 
 Pointe-à-Pitre - Le Raizet.
 
@@ -54,23 +58,19 @@ Groupe D :
 
 Ajaccio-Napoléon Bonaparte.
 
+Bastia-Poretta.
+
 Biarritz-Bayonne - Anglet.
 
 Brest-Bretagne.
 
 Clermont-Ferrand - Auvergne.
 
-Melun-Villaroche.
-
-Pau-Pyrénées.
-
 Rennes - Saint-Jacques.
 
 Groupe E :
 
 Avignon-Caumont.
-
-Bastia-Poretta.
 
 Beauvais-Tillé.
 

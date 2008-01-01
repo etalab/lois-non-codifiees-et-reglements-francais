@@ -6,10 +6,6 @@ Niveaux A 1 et A 2 : 15 %.
 
 Niveau A 3 : 12 %.
 
-Les attributions individuelles de cette indemnité ne peuvent excéder le double des taux moyens ci-dessus.
+Le taux de l'indemnité spéciale est fixé au 1er janvier de chaque année par le ministre chargé de l'équipement, dans la limite des crédits disponibles.
 
-Exceptionnellement, et pour un cinquième au plus des agents des 1er, 2e, 3e et 4e échelons des niveaux A 2 et A 3, l'indemnité pourra atteindre 40 % du traitement budgétaire moyen du niveau considéré.
-
-Le taux de l'indemnité spéciale est fixé au 1er janvier de chaque année par le ministre de l'équipement et du logement compte tenu des services rendus par l'intéressé et dans la limite des crédits ouverts.
-
-Pour les agents nouvellement recrutés, le taux de l'indemnité fixé provisoirement lors de l'entrée en fonctions est révisé à l'expiration du stage probatoire prévu à l'article 10 ci-après.
+Les attributions individuelles de cette indemnité sont modulées pour tenir compte de la manière de servir des agents ainsi que l'importance des responsabilités et des sujétions auxquelles ils sont appelés à faire face dans l'exercice effectif de leurs fonctions. Le montant des attributions individuelles ne peut excéder le triple des taux moyens ci-dessus.

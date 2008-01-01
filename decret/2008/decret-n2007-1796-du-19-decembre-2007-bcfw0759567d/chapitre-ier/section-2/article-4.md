@@ -1,0 +1,3 @@
+# Article 4
+
+L'employeur d'accueil verse mensuellement au comptable unique désigné par arrêté du ministre chargé du budget, au plus tard le dernier jour du mois auquel elles se rapportent, la cotisation mentionnée à l'article 3 ainsi que la contribution employeur due pour les mêmes agents, au titre du financement des pensions et des allocations temporaires d'invalidité, en application des dispositions du 1° de l'article L. 61 du code des pensions civiles et militaires de retraite, de l'article L. 4138-8 du code de la défense, de l'article 46 de la loi du 11 janvier 1984 susvisée et de l'article 51 de la loi du 30 décembre 2005 susvisée.

@@ -64,15 +64,15 @@ Gestionnaire de plusieurs systèmes d'information ;
 
 Gestionnaire de transferts de prêts ;
 
-Gestionnaire du service intérim interne au niveau fédéral ;
-
 Gestionnaire expert ;
 
 Gestionnaire logistique polyvalent ;
 
-Juriste de contentieux au niveau fédéral ou au niveau d'une direction ;
+Juriste spécialisé ;
 
 Opérateur de marchés ;
+
+Recruteur et gestionnaire des personnels non permanents ;
 
 Responsable audiovisuel ;
 
@@ -80,15 +80,11 @@ Responsable comptable au sein du service de production bancaire ou au sein du se
 
 Responsable d'un secteur d'activité comportant une technicité et une responsabilité particulière dans le domaine bancaire et/ou dans le domaine des prestations de service
 
-Responsable de l'accueil téléphonique ou gestionnaire de l'autocommutateur à la branche caisses de retraites de Bordeaux et/ou responsable du standard de Paris
-
 Responsable de l'exploitation d'un restaurant de l'Association de gestion des restaurants (AGR) ou d'une société de vente et de diffusion.
 
 Responsable de la fonction correspondant informatique ou de la fonction correspondant réseau ou de la coordination des projets informatiques au sein de la branche Caisses de retraites de Bordeaux ;
 
 Responsable de la gestion de l'encouragement à la prévoyance individuelle (EPI) au niveau fédéral ;
-
-Responsable de la gestion des indemnités de caractère social et culturel au niveau fédéral ;
 
 Responsable de la gestion statutaire et/ou des affaires générales d'une direction ou d'un département ;
 
@@ -96,7 +92,7 @@ Responsable de la réglementation paie ;
 
 Responsable de l'antenne de la branche Caisses de retraites de Bordeaux à La Rochelle pour le fonds spécial des pensions des ouvriers des établissements industriels de l'Etat (FSPOEIE) ;
 
-Responsable du budget et/ou du contrôle de gestion et/ou des moyens généraux et/ou du service du personnel et/ou du contentieux d'une direction et/ou responsable recrutement carrières à la CNP Assurances
+Responsable du budget, du contrôle de gestion, des moyens généraux, du service du personnel ou du contentieux d'une direction ;
 
 Responsable du contentieux et des affaires générales au sein d'une unité administrative chargée de la gestion d'un fonds de la branche Caisse de retraites de Bordeaux (BCRB) ;
 
@@ -104,19 +100,17 @@ Responsable du guichet de la CNP Assurances ;
 
 Responsable d'une unité de gestion ou de production de contrats d'assurance ;
 
-Responsable du secteur des affaires générales ou directeurs administratifs adjoints du comité social d'établissement
+Responsable du secteur des affaires générales ou directeurs administratifs adjoints du comité social du groupe (COSOG) ;
+
+Responsable du standard de Paris ;
 
 Responsable Exploitation transport ;
 
 Secrétaire du conseil d'administration de la Caisse nationale de retraite des agents des collectivités locales (CNRACL) ;
 
-Secrétaire du conseil d'administration de l'Etablissement de retraite additionnelle de la fonction publique (ERAFP) ;
-
-Secrétaire du conseil d'administration de l'Institution de retraite complémentaire des agents non titulaires de l'Etat et des collectivités publiques (IRCANTEC) ;
-
 Technicien d'actuariat informatique ;
 
-Technicien de maintenance des installations de climatisation et de chauffage (site parisien) ou du dispositif téléphonique (site bordelais) ;
+Technicien de maintenance des installations de climatisation et de chauffage (site parisien) ;
 
 Technicien de production bancaire exerçant des responsabilités particulières dans les évolutions systèmes ;
 

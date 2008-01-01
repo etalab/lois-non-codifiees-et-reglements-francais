@@ -1,0 +1,15 @@
+# Décret n° 2007-1930 du 26 décembre 2007 portant statut particulier du corps des directeurs d'établissements sanitaires, sociaux et médico-sociaux de la fonction publique hospitalière
+
+- [Chapitre Ier : Dispositions générales](chapitre-ier)
+- [Chapitre II : Recrutement, formation et titularisation](chapitre-ii)
+- [Chapitre III : Formation professionnelle continue et formation d'adaptation à l'emploi](chapitre-iii)
+- [Chapitre IV : Nomination](chapitre-iv)
+- [Chapitre V : Avancement](chapitre-v)
+- [Chapitre VI : Détachement](chapitre-vi)
+- [Chapitre VII : Direction commune](chapitre-vii)
+- [Chapitre VIII : Fusion d'établissements](chapitre-viii)
+- [Chapitre IX : Mise à disposition](chapitre-ix)
+- [Chapitre X : Recherche d'affectation](chapitre-x)
+- [Chapitre XI : Evaluation](chapitre-xi)
+- [Chapitre XII : Dispositions diverses](chapitre-xii)
+- [Chapitre XIII : Dispositions transitoires](chapitre-xiii)

@@ -1,6 +1,6 @@
 # Article 1
 
-Les taux des bourses d'enseignement supérieur du ministère de l'enseignement supérieur et de la recherche pour l'année universitaire 2007-2008 sont fixés à compter du 1er septembre 2007 ainsi qu'il suit :
+Les taux des bourses d'enseignement supérieur du ministère de l'enseignement supérieur et de la recherche pour l'année universitaire 2007-2008 sont fixés à compter du 1er janvier 2008 ainsi qu'il suit :
 
 <table>
 <tbody>
@@ -67,6 +67,14 @@ Les taux des bourses d'enseignement supérieur du ministère de l'enseignement s
 </td>
 <td width="227">
 <p align="center">3 753</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="378">
+<p>6e échelon</p>
+</td>
+<td width="227">
+<p align="center">2 614</p>
 </td>
 </tr>
 <tr>
