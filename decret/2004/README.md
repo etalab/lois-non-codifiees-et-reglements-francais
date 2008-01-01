@@ -431,7 +431,6 @@
 - [Décret n°2004-998 du 16 septembre 2004 (EQUS0401150D)](decret-n2004-998-du-16-septembre-2004-equs0401150d)
 - [Décret n°2004-999 du 16 septembre 2004 (FPPA0400069D)](decret-n2004-999-du-16-septembre-2004-fppa0400069d)
 - [Décret n°71-618 du 16 juillet 1971](decret-n71-618-du-16-juillet-1971)
-- [Décret n°85-1115 du 16 octobre 1985](decret-n85-1115-du-16-octobre-1985)
 - [Décret n°96-643 du 16 juillet 1996 (COMX9600046D)](decret-n96-643-du-16-juillet-1996-comx9600046d)
 - [Décret du 17 mars 2004 (AGRP0400236D)](decret-du-17-mars-2004-agrp0400236d)
 - [Décret n°2004-1219 du 17 novembre 2004 (SANP0423508D)](decret-n2004-1219-du-17-novembre-2004-sanp0423508d)
