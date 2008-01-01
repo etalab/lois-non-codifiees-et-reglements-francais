@@ -1,6 +1,6 @@
 # Article 1
 
-Sont instituées auprès du directeur des personnels administratifs, techniques et d'encadrement du ministre de l'éducation nationale, de la recherche et de la technologie des commissions administratives paritaires nationales compétentes à l'égard des corps des attachés d'administration scolaire et universitaire et des secrétaires d'administration scolaire et universitaire.
+Est instituée auprès du chef du service des personnels ingénieurs, administratifs, techniques, ouvriers, sociaux et de santé, des bibliothèques et des musées du ministère de l'éducation nationale une commission administrative paritaire nationale compétente à l'égard du corps des secrétaires d'administration scolaire et universitaire.
 
 Des commissions administratives paritaires académiques sont, par ailleurs, créées auprès de chaque recteur d'académie pour les corps des attachés d'administration scolaire et universitaire et des secrétaires d'administration scolaire et universitaire.
 
