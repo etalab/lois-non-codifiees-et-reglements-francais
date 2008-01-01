@@ -4,4 +4,4 @@ Les fonctionnaires ayant le grade d'ingénieur peuvent exercer leurs fonctions d
 
 Ils sont chargés, suivant le cas, de la gestion d'un service technique, d'une partie du service ou même d'une section à laquelle sont confiées les attributions relevant de plusieurs services techniques.
 
-En outre, ils peuvent occuper l'emploi de directeur des services techniques des villes de 20 000 à 40 000 habitants.
+En outre, ils peuvent occuper les emplois de directeur des services techniques des villes et de directeur général des services techniques des établissements publics de coopération intercommunale à fiscalité propre de 10 000 à 40 000 habitants.

@@ -4,4 +4,4 @@ Les fonctionnaires ayant le grade d'ingénieur principal exercent leurs fonction
 
 Dans les collectivités et les établissements mentionnés à l'alinéa précédent, les ingénieurs principaux sont placés à la tête d'un service technique, d'un laboratoire d'analyses chimiques ou d'analyses des eaux, ou d'un groupe de services techniques dont ils coordonnent l'activité et assurent le contrôle.
 
-En outre, ils peuvent occuper l'emploi de directeur des services techniques des villes de 20 000 à 40 000 habitants ainsi que l'emploi de directeur général des services techniques des villes de 40 000 à 80 000 habitants.
+En outre, ils peuvent occuper les emplois de directeur des services techniques des villes et de directeur général des services techniques des établissements publics de coopération intercommunale à fiscalité propre de 10 000 à 40 000 habitants ainsi que l'emploi de directeur général des services techniques des villes et des établissements publics de coopération intercommunale à fiscalité propre de 40 000 à 80 000 habitants.

@@ -12,4 +12,6 @@ d) Offices publics d'habitations à loyer modéré de plus de 15 000 logements ;
 
 e) Caisses de crédit municipal ayant le statut d'un établissement public industriel et commercial ou caisses de crédit municipal habilitées à exercer les activités de crédit mentionnées au second alinéa de l'article 1er du décret n° 55-622 du 20 mai 1955 ;
 
-f) Syndicats intercommunaux et syndicats mixtes composés exclusivement de collectivités territoriales ou de groupement de collectivités, sous réserve que les compétences desdits établissements publics, l'importance de leur budget, le nombre et la qualification des agents à encadrer permettent de les assimiler à des communes de plus de 80 000 habitants.
+f) Syndicats intercommunaux et syndicats mixtes composés exclusivement de collectivités territoriales ou de groupement de collectivités, sous réserve que les compétences desdits établissements publics, l'importance de leur budget, le nombre et la qualification des agents à encadrer permettent de les assimiler à des communes de plus de 80 000 habitants ;
+
+g) Centres communaux d'action sociale et centres intercommunaux d'action sociale, sous réserve que l'importance de leur budget de fonctionnement et le nombre et la qualification des agents à encadrer permettent de les assimiler à des communes de plus de 80 000 habitants.

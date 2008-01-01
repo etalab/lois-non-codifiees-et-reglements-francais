@@ -8,6 +8,6 @@ b) Les emplois de directeur général des services techniques des communes et de
 
 La durée du temps passé dans chaque échelon est fixée à l'annexe II bis.
 
-c) Les emplois de directeur général des services techniques des communes de 40 000 à 80 000 habitants et de directeur des services techniques des communes de 20 000 à 40 000 habitants comprennent onze échelons.
+c) Les emplois de directeur général des services techniques des communes et des établissements publics de coopération intercommunale à fiscalité propre de 40 000 à 80 000 habitants ainsi que ceux de directeur des services techniques des communes et de directeur général des services techniques des établissements publics de coopération intercommunale à fiscalité propre de 10 000 à 40 000 habitants comprennent onze échelons.
 
 La durée du temps passé dans chaque échelon est fixée à l'annexe III.
