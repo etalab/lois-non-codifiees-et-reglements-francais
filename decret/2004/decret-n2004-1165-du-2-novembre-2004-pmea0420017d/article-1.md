@@ -4,6 +4,8 @@ Les chambres régionales de métiers et de l'artisanat sont des établissements 
 
 Elles ont pour mission d'assurer la représentation de l'artisanat au plan régional. Elles réalisent des études, donnent des avis et formulent des propositions intéressant l'artisanat à l'échelon de la région.
 
+Elles contribuent au développement économique du territoire régional et déterminent les priorités en matière d'actions de formation, au sens des articles L. 900-2 et L. 920-1 du code du travail, en faveur des chefs d'entreprises inscrits au répertoire des métiers, de leurs conjoints collaborateurs ou associés, de leurs auxiliaires familiaux dans le seul domaine de la gestion et du développement des entreprises.
+
 Elles coordonnent dans chaque région l'exercice des missions des chambres de métiers et de l'artisanat de leur ressort.
 
 Elles déterminent les politiques qui, entrant dans le cadre des attributions des chambres de métiers et de l'artisanat, peuvent le mieux être mises en oeuvre à l'échelon de la région. Elles attribuent le titre de maître artisan dans les conditions prévues aux deuxième et quatrième alinéas de l'article 3 du décret n° 98-247 du 2 avril 1998 relatif à la qualification artisanale et au répertoire des métiers. Elles sont l'interlocuteur du conseil régional et des autres institutions régionales, pour ce qui concerne la formation professionnelle relevant du secteur des métiers et de l'artisanat et le développement économique.
@@ -12,8 +14,8 @@ Les chambres régionales de métiers et de l'artisanat peuvent également prête
 
 Elles peuvent être autorisées par le préfet de région, dans les domaines relevant de leur compétence, à :
 
-- adhérer à des syndicats mixtes créés en application des articles L. 5721 et suivants du code général des collectivités territoriales ;
+-adhérer à des syndicats mixtes créés en application des articles L. 5721 et suivants du code général des collectivités territoriales ;
 
-- participer à des sociétés d'économie mixte et, dans les conditions prévues par la loi n° 43-612 du 17 novembre 1943 sur la gestion des intérêts professionnels, à des sociétés professionnelles ou à des établissements professionnels ;
+-participer à des sociétés d'économie mixte et, dans les conditions prévues par la loi n° 43-612 du 17 novembre 1943 sur la gestion des intérêts professionnels, à des sociétés professionnelles ou à des établissements professionnels ;
 
-- souscrire des parts ou des actions de sociétés s'inscrivant dans leur domaine de spécialité.
+-souscrire des parts ou des actions de sociétés s'inscrivant dans leur domaine de spécialité.
