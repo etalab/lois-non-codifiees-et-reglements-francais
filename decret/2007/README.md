@@ -345,7 +345,6 @@
 - [Décret n° 2007-33 du 8 janvier 2007 (DEVP0630044D)](decret-n-2007-33-du-8-janvier-2007-devp0630044d)
 - [Décret n° 2007-34 du 8 janvier 2007 (MENS0603221D)](decret-n-2007-34-du-8-janvier-2007-mens0603221d)
 - [Décret n°2006-1129 du 8 septembre 2006 (ECOC0600084D)](decret-n2006-1129-du-8-septembre-2006-ecoc0600084d)
-- [Décret n°2006-1353 du 8 novembre 2006 (JUSK0640237D)](decret-n2006-1353-du-8-novembre-2006-jusk0640237d)
 - [Décret n°2006-1562 du 8 décembre 2006 (SOCU0612361D)](decret-n2006-1562-du-8-decembre-2006-socu0612361d)
 - [Décret n°2007-1004 du 8 juin 2007 (MAEX0710422D)](decret-n2007-1004-du-8-juin-2007-maex0710422d)
 - [Décret n°2007-1321 du 8 septembre 2007 (PRMX0710867D)](decret-n2007-1321-du-8-septembre-2007-prmx0710867d)
