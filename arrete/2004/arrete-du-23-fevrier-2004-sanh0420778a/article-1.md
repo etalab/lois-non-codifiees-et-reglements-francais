@@ -1,6 +1,6 @@
 # Article 1
 
-Les emplois de directeur des établissements sociaux et médico-sociaux énumérés ci-dessous cités sont des emplois fonctionnels au sens de l'article 1er du décret n° 2001-1346 du 28 décembre 2001 susvisé :
+Les emplois de directeur des établissements sociaux et médico-sociaux énumérés ci-dessous cités sont des emplois fonctionnels au sens de l'article 1er du décret n° 2007-1930 du 26 décembre 2007 susvisé :
 
 Etablissement public autonome de réinsertion par le milieu social, à Liesse (Aisne) ;
 

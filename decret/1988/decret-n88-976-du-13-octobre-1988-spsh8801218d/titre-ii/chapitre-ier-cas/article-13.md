@@ -26,13 +26,7 @@ a) Le décret n° 2000-231 du 13 mars 2000 relatif aux conditions de nomination 
 
 b) Le décret n° 2000-232 du 13 mars 2000 portant statut particulier des grades et emplois des personnels de direction des établissements mentionnés à l'article 2 (1°, 2° et 3°) de la loi n° 86-33 du 9 janvier 1986 modifiée portant dispositions statutaires relatives à la fonction publique hospitalière ;
 
-c) Le décret n° 2001-1343 portant statut particulier du corps des directeurs d'établissements sanitaires et sociaux de la fonction publique hospitalière ;
-
-d) Le décret n° 2001-1344 relatif aux conditions de nomination et d'avancement des emplois fonctionnels du corps des directeurs d'établissements sanitaires et sociaux de la fonction publique hospitalière ;
-
-e) Le décret n° 2001-1345 portant statut particulier du corps des directeurs d'établissements sociaux et médico-sociaux de la fonction publique hospitalière ;
-
-f) Le décret n° 2001-1346 du 28 décembre 2001 relatif aux conditions de nomination et d'avancement des emplois fonctionnels du corps des directeurs d'établissements sociaux et médico-sociaux de la fonction publique hospitalière ;
+c) Le décret n° 2007-1930 portant statut particulier du corps des directeurs d'établissements sanitaires, sociaux et médico-sociaux de la fonction publique hospitalière ;
 
 7° Détachement pour exercer les fonctions de membre du Gouvernement ou une fonction publique élective lorsque les obligations résultant de cette fonction empêchent l'intéressé d'assurer normalement les tâches qui lui incombent ;
 

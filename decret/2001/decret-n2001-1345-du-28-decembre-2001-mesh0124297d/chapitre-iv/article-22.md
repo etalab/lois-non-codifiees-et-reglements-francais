@@ -1,9 +1,0 @@
-# Article 22
-
-La nomination à chaque emploi est prononcée par le ministre chargé de la santé pour les chefs d'établissement et par le directeur général du centre national de gestion pour les autres personnels de direction, après avis de la commission administrative paritaire nationale. Pour les directeurs, celle-ci prend connaissance des observations orales ou écrites du président de l'organe délibérant de l'établissement intéressé ou par les établissements qui n'ont pas la personnalité morale du président de l'organe de la personne publique de rattachement ; pour les directeurs adjoints, la commission prend connaissance des observations orales ou écrites du directeur de l'établissement ou du secrétaire général de syndicat interhospitalier dans lequel le directeur adjoint devra exercer ses fonctions.
-
-Toutefois, ne sont pas soumises à l'avis de la commission administrative paritaire nationale les affectations offertes aux élèves directeurs en application de l'article 13 ci-dessus.
-
-Les nominations sont publiées au Journal officiel de la République française.
-
-Le préfet du département prend toute mesure nécessaire en vue de faire assurer l'intérim des fonctions de directeur. Lorsqu'elles ne peuvent être assurées par un fonctionnaire relevant d'un des corps de direction de la fonction publique hospitalière, ces fonctions peuvent alors être confiées à un fonctionnaire de catégorie A de cette même fonction publique.

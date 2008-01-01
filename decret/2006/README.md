@@ -190,6 +190,7 @@
 - [Décret n°2006-1627 du 18 décembre 2006 (SANS0623403D)](decret-n2006-1627-du-18-decembre-2006-sans0623403d)
 - [Décret n°2006-1628 du 18 décembre 2006 (AGRF0601313D)](decret-n2006-1628-du-18-decembre-2006-agrf0601313d)
 - [Décret n°2006-1629 du 18 décembre 2006 (MJSK0670272D)](decret-n2006-1629-du-18-decembre-2006-mjsk0670272d)
+- [Décret n°2006-900 du 18 juillet 2006 (SANH0622531D)](decret-n2006-900-du-18-juillet-2006-sanh0622531d)
 - [Décret n°2006-1279 du 19 octobre 2006 (EQUX0600135D)](decret-n2006-1279-du-19-octobre-2006-equx0600135d)
 - [Décret n°2006-1280 du 19 octobre 2006 (EQUU0601637D)](decret-n2006-1280-du-19-octobre-2006-equu0601637d)
 - [Décret n°2006-1281 du 19 octobre 2006 (EQUU0601638D)](decret-n2006-1281-du-19-octobre-2006-equu0601638d)
