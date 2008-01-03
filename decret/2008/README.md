@@ -12,6 +12,7 @@
 - [Décret n°2007-1168 du 2 août 2007 (DEVX0757181D)](decret-n2007-1168-du-2-aout-2007-devx0757181d)
 - [Décret n°2007-1563 du 2 novembre 2007 (MTSS0765199D)](decret-n2007-1563-du-2-novembre-2007-mtss0765199d)
 - [Décret n°2007-1566 du 2 novembre 2007 (BCFL0764337D)](decret-n2007-1566-du-2-novembre-2007-bcfl0764337d)
+- [Décret n°2008-1 du 2 janvier 2008 (PRMX0800062D)](decret-n2008-1-du-2-janvier-2008-prmx0800062d)
 - [Décret n°2007-703 du 3 mai 2007 (SANS0721585D)](decret-n2007-703-du-3-mai-2007-sans0721585d)
 - [Décret n°2007-1311 du 5 septembre 2007 (DEVO0751675D)](decret-n2007-1311-du-5-septembre-2007-devo0751675d)
 - [Décret n°2007-1716 du 5 décembre 2007 (BCFL0767080D)](decret-n2007-1716-du-5-decembre-2007-bcfl0767080d)
