@@ -888,7 +888,6 @@
 - [Arrêté du 22 juin 1995 (REFB9500322A)](arrete-du-22-juin-1995-refb9500322a)
 - [Arrêté du 22 juin 1995 (SPSS9502030A)](arrete-du-22-juin-1995-spss9502030a)
 - [Arrêté du 22 mars 1995 (BUDD9570001A)](arrete-du-22-mars-1995-budd9570001a)
-- [Arrêté du 22 mars 1995 (BUDL9500028A)](arrete-du-22-mars-1995-budl9500028a)
 - [Arrêté du 22 mars 1995 (DEFB9501356A)](arrete-du-22-mars-1995-defb9501356a)
 - [Arrêté du 22 mars 1995 (ECOT9594326A)](arrete-du-22-mars-1995-ecot9594326a)
 - [Arrêté du 22 mars 1995 (EQUH9500531A)](arrete-du-22-mars-1995-equh9500531a)
