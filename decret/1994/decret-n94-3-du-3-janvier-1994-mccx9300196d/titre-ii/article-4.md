@@ -6,7 +6,7 @@ Le conseil d'administration de la Bibliothèque nationale de France comprend, ou
 
 a) Le directeur chargé du livre au ministère chargé de la culture ou son représentant ;
 
-b) Le directeur chargé de l'administration générale au ministère chargé de la culture ou son représentant ;
+b) le secrétaire général du ministère chargé de la culture ou son représentant ;
 
 c) Le directeur chargé des archives au ministère chargé de la culture ou son représentant ;
 

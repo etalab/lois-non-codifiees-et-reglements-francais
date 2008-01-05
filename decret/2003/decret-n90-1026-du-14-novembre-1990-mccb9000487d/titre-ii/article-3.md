@@ -8,7 +8,7 @@ a) Un membre du Conseil d'Etat, un magistrat de la Cour des comptes et un membre
 
 b) Le directeur des musées de France ou son représentant ;
 
-c) Le directeur de l'administration générale au ministère chargé de la culture ou son représentant ;
+c)       le secrétaire général du ministère chargé de la culture ou son représentant ;
 
 d) Le directeur du budget ou son représentant ;
 

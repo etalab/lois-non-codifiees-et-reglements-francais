@@ -10,7 +10,7 @@ a) Le directeur des musées de France ou son représentant ;
 
 b) Le directeur de l'architecture et du patrimoine ou son représentant ;
 
-c) Le directeur de l'administration générale du ministère chargé de la culture ou son représentant ;
+c)      le secrétaire général du ministère chargé de la culture ou son représentant ;
 
 d) Le directeur du budget au ministère chargé du budget ou son représentant ;
 
