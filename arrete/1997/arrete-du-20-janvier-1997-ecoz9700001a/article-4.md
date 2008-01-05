@@ -30,7 +30,7 @@ Le directeur général de la concurrence, de la consommation et de la répressio
 
 Le directeur général de l'Institut national de la statistique et des études économiques ou son représentant ;
 
-Le chef du service de la communication ou son représentant ;
+Le     délégué à l'information et à la communication ou son représentant ;
 
 Le secrétaire général de la mission pour l'économie numérique ou son représentant ;
 

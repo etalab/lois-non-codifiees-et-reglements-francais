@@ -24,4 +24,4 @@ d) La direction des systèmes d'information et de communication ;
 
 e) Le centre d'études et de prospective ;
 
-f) Le service de la communication.
+f) La délégation à l'information et à la communication.
