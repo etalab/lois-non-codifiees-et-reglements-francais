@@ -2,7 +2,7 @@
 
 Le nombre de membres de chacun des comités de massif est le suivant :
 
-77 pour le Massif central ;
+83 pour le Massif central ;
 
 69 pour le massif des Alpes ;
 
@@ -12,4 +12,4 @@ Le nombre de membres de chacun des comités de massif est le suivant :
 
 49 pour le massif vosgien.
 
-L'annexe au présent décret précise la répartition des membres des comités de massif entre les catégories mentionnées à l'article 2.
+L'annexe au présent décret (annexe non publiée, consulter le fac-similé) précise la répartition des membres des comités de massif entre les catégories mentionnées à l'article 2.

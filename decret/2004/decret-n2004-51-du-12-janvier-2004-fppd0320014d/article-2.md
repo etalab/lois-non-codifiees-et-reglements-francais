@@ -1,6 +1,6 @@
 # Article 2
 
-Le comité de massif est composé, selon la superficie des massifs, de 49 à 77 membres, soit :
+Le comité de massif est composé, selon la superficie des massifs, de 49 à 83 membres, soit :
 
 1° D'un collège d'élus locaux dont l'effectif est égal à plus de la moitié des membres du comité ; il comprend :
 
@@ -14,11 +14,11 @@ c) Des représentants des communes situées dans le massif, proposés par l'Asso
 
 a) Des représentants des chambres d'agriculture, des chambres de commerce et d'industrie et des chambres de métiers et de l'artisanat ayant en tout ou partie le massif pour ressort, proposés par chacune des chambres consulaires, dans la limite de trois sièges pour chacune d'elles ;
 
-b)   Des représentants des organisations syndicales représentatives des secteurs de l'agriculture et de la sylviculture, de l'industrie, du sport ou du tourisme ayant en tout ou partie le massif pour ressort, proposés par ces organisations dans la limite de deux sièges pour chacun de ces trois secteurs ;
+b) Des représentants des organisations syndicales représentatives des secteurs de l'agriculture et de la sylviculture, de l'industrie, du sport ou du tourisme ayant en tout ou partie le massif pour ressort, proposés par ces organisations dans la limite de deux sièges pour chacun de ces trois secteurs ;
 
 c) Des représentants des organisations territoriales régionales ou départementales du tourisme ayant en tout ou partie le massif pour ressort, proposés par ces organisations dans la limite de trois sièges ;
 
-d)   Des représentants des organisations syndicales les plus représentatives de travailleurs salariés ayant en tout ou partie le massif pour ressort, proposés par ces organisations dans la limite de trois sièges.
+d) Des représentants des organisations syndicales les plus représentatives de travailleurs salariés ayant en tout ou partie le massif pour ressort, proposés par ces organisations dans la limite de trois sièges.
 
 3° D'un collège de représentants d'associations, d'organismes gestionnaires de parcs et de personnalités qualifiées dans le domaine de la montagne ; il comprend :
 
