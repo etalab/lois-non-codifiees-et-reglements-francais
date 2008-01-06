@@ -6,6 +6,6 @@ Ces agents doivent justifier de huit années de services effectifs, accomplis da
 
 L'emploi est également ouvert aux fonctionnaires de catégorie A justifiant de huit années de services effectifs accomplis dans un ou plusieurs emplois dotés d'un indice terminal supérieur à l'indice brut 1015 relevant d'un statut d'emploi de chef de services déconcentrés de l'Etat ou de secrétaire général d'académie ou d'université.
 
-Les agents appartenant aux corps auxquels donne accès l'Ecole nationale d'administration et les administrateurs des postes et télécommunications doivent avoir accompli la mobilité prévue par l'article 1er du décret n° 2004-708 du 16 juillet 2004.
+Les agents appartenant aux corps auxquels donne accès l'Ecole nationale d'administration et les administrateurs des postes et télécommunications doivent avoir accompli la mobilité prévue par l'article1er du décret n° 2008-15 du 4 janvier 2008.
 
 Les administrateurs territoriaux doivent avoir satisfait à l'obligation de mobilité prévue par le 2° de l'article 15 du décret n° 87-1097 du 30 décembre 1987.

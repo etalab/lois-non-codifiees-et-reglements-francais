@@ -1,6 +1,6 @@
 # Article 19
 
-I. - Changement de résidence d'un département d'outre-mer vers le territoire européen de la France, et vice versa, ainsi que d'un département d'outre-mer vers un autre département d'outre-mer.
+I.-Changement de résidence d'un département d'outre-mer vers le territoire européen de la France, et vice versa, ainsi que d'un département d'outre-mer vers un autre département d'outre-mer.
 
 L'agent a droit à la prise en charge de ses frais de changement de résidence dans les cas ci-après :
 
@@ -22,7 +22,7 @@ e) Par une nomination dans un autre corps de même catégorie ou de catégorie s
 
 f) Par une réintégration à l'expiration d'un congé de longue maladie ou de longue durée, conformément aux dispositions de l'article 46 du décret n° 86-442 du 14 mars 1986 relatif, notamment, au régime des congés de maladie des fonctionnaires ;
 
-g) Par l'accomplissement des obligations statutaires de mobilité prévues par les dispositions de l'article 39, alinéas 2 et 3, de l'ordonnance du 22 décembre 1958 susvisée et par les dispositions de l'article 1er du décret n°2004-708 du 16 juillet 2004 relatif à la mobilité des fonctionnaires des corps recrutés par la voie de l'Ecole nationale de l'administration et des administrateurs des postes et télécommunications ;
+g) Par l'accomplissement des obligations statutaires de mobilité prévues par les dispositions de l'article 39, alinéas 2 et 3, de l'ordonnance du 22 décembre 1958 susvisée et par les dispositions de l'article 1er du décret n° 2008-15 du 4 janvier 2008 relatif à la mobilité des fonctionnaires des corps recrutés par la voie de l'Ecole nationale de l'administration et des administrateurs des postes et télécommunications ;
 
 h) Par un retour au lieu de la résidence habituelle reconnu indispensable en raison de l'état de santé de l'agent par le comité médical prévu par le décret n° 86-442 du 14 mars 1986 ;
 
@@ -40,10 +40,10 @@ c) A une réintégration, au terme d'un détachement dans un emploi conduisant �
 
 La durée de service mentionnée aux a et c est réduite à deux ans pour les agents affectés à Mayotte pour une durée de séjour réglementée dans les conditions prévues respectivement à l'article 28 du décret n° 95-654 du 9 mai 1995 fixant les dispositions communes applicables aux fonctionnaires actifs des services de la police nationale et à l'article 2 du décret du 26 novembre 1996 précité.
 
-Dans les cas visés au 2 ci-dessus, les indemnités prévues aux articles 26 et 27 sont réduites de 20 p. 100 et la prise en charge des frais mentionnés à l'article 24 est limitée à 80 p. 100 du montant des sommes engagées. Il en est de même pour les remboursements effectués en application des articles 20, 21 et 22 du présent décret. Ces dispositions ne sont pas applicables aux indemnités et remboursements versés à l'occasion des changements de résidence entre Mayotte et un autre département d'outre-mer ou le territoire européen de la France aux agents affectés dans les conditions prévues par le décret du 9 mai 1995 et le décret du 26 novembre 1996 précités.
+Dans les cas visés au 2 ci-dessus, les indemnités prévues aux articles 26 et 27 sont réduites de 20 p. 100 et la prise en charge des frais mentionnés à l'article 24 est limitée à 80 p. 100 du montant des sommes engagées. Il en est de même pour les remboursements effectués en application des articles 20,21 et 22 du présent décret. Ces dispositions ne sont pas applicables aux indemnités et remboursements versés à l'occasion des changements de résidence entre Mayotte et un autre département d'outre-mer ou le territoire européen de la France aux agents affectés dans les conditions prévues par le décret du 9 mai 1995 et le décret du 26 novembre 1996 précités.
 
 Sous réserve des articles 20 et 21 ci-après, les agents n'ont droit à aucun remboursement ou indemnisation dans tous les autres cas, notamment dans celui de première nomination dans la fonction publique, de déplacement d'office prononcé après une procédure disciplinaire, ainsi que dans celui de mise en disponibilité, en service détaché dans un emploi ne conduisant pas à pension du code des pensions civiles et militaires de retraite ou en position hors cadre au sens des dispositions statutaires relatives à la fonction publique de l'Etat.
 
-Par exception aux dispositions précédentes relatives à la première nomination dans la fonction publique, l'agent contractuel nommé à un premier emploi de fonctionnaire peut être indemnisé de ses frais de changement de résidence, sous réserve d'avoir accompli la durée de services mentionnée au I, 2 (a) du présent article.
+Par exception aux dispositions précédentes relatives à la première nomination dans la fonction publique, l'agent contractuel nommé à un premier emploi de fonctionnaire peut être indemnisé de ses frais de changement de résidence, sous réserve d'avoir accompli la durée de services mentionnée au I,2 (a) du présent article.
 
-II. - Les droits des agents qui changent de résidence à l'intérieur d'un département d'outre-mer sont appréciés dans les conditions prévues par le décret n° 90-437 du 28 mai 1990 modifié fixant les conditions et les modalités de règlement des frais occasionnés par les déplacements des personnels civils sur le territoire métropolitain de la France lorsqu'ils sont à la charge des budgets de l'Etat, des établissements publics nationaux à caractère administratif et de certains organismes subventionnés.
+II.-Les droits des agents qui changent de résidence à l'intérieur d'un département d'outre-mer sont appréciés dans les conditions prévues par le décret n° 90-437 du 28 mai 1990 modifié fixant les conditions et les modalités de règlement des frais occasionnés par les déplacements des personnels civils sur le territoire métropolitain de la France lorsqu'ils sont à la charge des budgets de l'Etat, des établissements publics nationaux à caractère administratif et de certains organismes subventionnés.

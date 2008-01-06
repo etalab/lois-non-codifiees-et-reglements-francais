@@ -416,7 +416,6 @@
 - [Décret n°2004-67 du 16 janvier 2004 (MENS0302822D)](decret-n2004-67-du-16-janvier-2004-mens0302822d)
 - [Décret n°2004-69 du 16 janvier 2004 (FPPD0320006D)](decret-n2004-69-du-16-janvier-2004-fppd0320006d)
 - [Décret n°2004-704 du 16 juillet 2004 (MENX0400121D)](decret-n2004-704-du-16-juillet-2004-menx0400121d)
-- [Décret n°2004-708 du 16 juillet 2004 (FPPX0400114D)](decret-n2004-708-du-16-juillet-2004-fppx0400114d)
 - [Décret n°2004-709 du 16 juillet 2004 (MCCX0400138D)](decret-n2004-709-du-16-juillet-2004-mccx0400138d)
 - [Décret n°2004-71 du 16 janvier 2004 (MCCB0300779D)](decret-n2004-71-du-16-janvier-2004-mccb0300779d)
 - [Décret n°2004-714 du 16 juillet 2004 (FAMS0422150D)](decret-n2004-714-du-16-juillet-2004-fams0422150d)

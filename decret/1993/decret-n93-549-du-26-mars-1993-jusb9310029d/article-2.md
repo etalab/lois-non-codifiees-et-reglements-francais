@@ -1,6 +1,6 @@
 # Article 2
 
-Les magistrats de l'ordre judiciaire peuvent être détachés dans les mêmes conditions que celles qui sont prévues à l'article 1er du décret n° 2004-708 du 16 juillet 2004 susvisé, pour les membres des corps recrutés par la voie de l'Ecole nationale d'administration qui accomplissent leur obligation statutaire de mobilité, dans les corps suivants :
+Les magistrats de l'ordre judiciaire peuvent être détachés dans les mêmes conditions que celles qui sont prévues à l'article 1er du décret n° 2008-15 du 4 janvier 2008 susvisé, pour les membres des corps recrutés par la voie de l'Ecole nationale d'administration qui accomplissent leur obligation statutaire de mobilité, dans les corps suivants :
 
 1° Conseil d'Etat ;
 
