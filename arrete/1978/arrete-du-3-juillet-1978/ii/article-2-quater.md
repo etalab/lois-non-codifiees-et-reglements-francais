@@ -79,47 +79,47 @@ TF représente un taux fonction de la taille de la famille donné par le tableau
 </table>
 
 TL représente un taux complémentaire fixé ci-dessous en fonction de la valeur du rapport RL entre le loyer retenu dans la limite du plafond et un loyer de référence. RL est exprimé en pourcentage arrondi à la deuxième décimale. Le loyer de référence est défini selon le tableau suivant :
-
 <table>
 <tbody>
 <tr>
-<td>
-<p align="center">BENEFICIAIRE</p>
+<th>
+<br/>BÉNÉFICIAIRE <br/>
+</th>
+<th>
+<br/>VALEURS <p>(en euros) <br/>
+</p>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>Personne seule. <br/>
 </td>
-<td width="302">
-<p align="center">VALEURS <br/>(en euros)</p>
+<td align="center">
+<br/>235,39 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Personne seule </p>
+<td align="center">
+<br/>Couple sans personne à charge. <br/>
 </td>
-<td width="302">
-<p align="center">229,07</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Couple sans personne à charge</p>
-</td>
-<td width="302">
-<p align="center">280,38</p>
+<td align="center">
+<br/>288,12 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Personne seule ou couple ayant une personne à charge</p>
+<td align="center">
+<br/>Personne seule ou couple ayant une personne à charge. <br/>
 </td>
-<td width="302">
-<p align="center">315,50</p>
+<td align="center">
+<br/>324,21 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Par personne supplémentaire à charge</p>
+<td align="center">
+<br/>Par personne supplémentaire à charge. <br/>
 </td>
-<td width="302">
-<p align="center">45,91</p>
+<td align="center">
+<br/>47,18 <br/>
 </td>
 </tr>
 </tbody>

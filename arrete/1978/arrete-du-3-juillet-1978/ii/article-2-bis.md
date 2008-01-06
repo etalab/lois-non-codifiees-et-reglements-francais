@@ -2,9 +2,9 @@
 
 Pour l'application des articles R. 351-17-2 et R. 351-17-3 :
 
-I. - Le montant de l'aide personnalisée est calculée selon la formule :
+I.-Le montant de l'aide personnalisée est calculée selon la formule :
 
-APL = L + C - PP
+APL = L + C-PP
 
 dans laquelle :
 
@@ -16,76 +16,83 @@ C représente le montant forfaitaire des charges défini à l'article 11 ter de 
 
 PP représente la participation personnelle du ménage à la dépense de logement. Son montant est calculé selon les modalités définies aux articles 2 ter et 2 quater ci-dessous.
 
-II. - En application de l'article R. 351-22-1, les plafonds de loyers visés à l'article R. 351 sont fixés comme suit :
+II.-En application de l'article R. 351-22-1, les plafonds de loyers visés à l'article R. 351-17-3 sont fixés comme suit :
 
 <table>
 <tbody>
 <tr>
-<td width="64">
-<p align="center">ZONE</p>
+<th>
+<br/>ZONE <br/>
+</th>
+<th>
+<br/>PERSONNE SEULE <p>(en euros) <br/>
+</p>
+</th>
+<th>
+<br/>COUPLE SANS PERSONNE <p>à charge </p>
+<p>(en euros) <br/>
+</p>
+</th>
+<th>
+<br/>PERSONNE SEULE OU COUPLE <p>ayant une personne à charge </p>
+<p>(en euros) <br/>
+</p>
+</th>
+<th>
+<br/>PAR PERSONNE À CHARGE <p>supplémentaire </p>
+<p>(en euros) <br/>
+</p>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>I <br/>
 </td>
-<td width="119">
-<p align="center">PERSONNE SEULE<br/>(en euros)</p>
+<td align="center">
+<br/>270,09 <br/>
 </td>
-<td width="159">
-<p align="center">COUPLE SANS PERSONNE<br/>à charge<br/>(en euros)</p>
+<td align="center">
+<br/>325,75 <br/>
 </td>
-<td width="172">
-<p align="center">PERSONNE SEULE <br/>ou couple ayant une personne à charge<br/>(en euros)</p>
+<td align="center">
+<br/>368,17 <br/>
 </td>
-<td width="166">
-<p align="center">PAR PERSONNE À CHARGE<br/>supplémentaire<br/>(en euros)</p>
+<td align="center">
+<br/>53,39 <br/>
 </td>
 </tr>
 <tr>
-<td width="64">
-<p align="center">I</p>
+<td align="center">
+<br/>II <br/>
 </td>
-<td width="119">
-<p align="center">262,84</p>
+<td align="center">
+<br/>235,39 <br/>
 </td>
-<td width="159">
-<p align="center">317,00</p>
+<td align="center">
+<br/>288,12 <br/>
 </td>
-<td width="172">
-<p align="center">358,28</p>
+<td align="center">
+<br/>324,21 <br/>
 </td>
-<td width="166">
-<p align="center">51,96</p>
-</td>
-</tr>
-<tr>
-<td width="64">
-<p align="center">II</p>
-</td>
-<td width="119">
-<p align="center">229,07</p>
-</td>
-<td width="159">
-<p align="center">280,38</p>
-</td>
-<td width="172">
-<p align="center">315,50</p>
-</td>
-<td width="166">
-<p align="center">45,91</p>
+<td align="center">
+<br/>47,18 <br/>
 </td>
 </tr>
 <tr>
-<td width="64">
-<p align="center">III</p>
+<td align="center">
+<br/>III <br/>
 </td>
-<td width="119">
-<p align="center">214,69</p>
+<td align="center">
+<br/>220,62 <br/>
 </td>
-<td width="159">
-<p align="center">260,28</p>
+<td align="center">
+<br/>267,46 <br/>
 </td>
-<td width="172">
-<p align="center">291,82</p>
+<td align="center">
+<br/>299,87 <br/>
 </td>
-<td width="166">
-<p align="center">41,83</p>
+<td align="center">
+<br/>42,98 <br/>
 </td>
 </tr>
 </tbody>
