@@ -36,11 +36,11 @@ Dix représentants des pouvoirs publics :
 
 - un représentant du ministre chargé de l'agriculture ;
 
-- un représentant du ministre chargé de l'éducation nationale ;
+- un représentant du ministre chargé de l'enseignement scolaire ;
 
 - un représentant du ministre chargé de la jeunesse ;
 
-- un représentant du ministre chargé des collectivités locales ;
+- un représentant du ministre chargé des de l'enseignement supérieur ;
 
 - un représentant du ministre chargé de la santé ;
 
