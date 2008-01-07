@@ -1,12 +1,12 @@
 # Article Annexe
 
-INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL
+INFORMATIONS REQUISES POUR L'INSCRIPTION AU RÉPERTOIRE
 
-AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
+NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
 Intitulé :
 
-Titre professionnel : secrétaire assistant(e) spécialisé(e) médico-social(e).
+Titre professionnel : secrétaire-assistant (e) médico-social (e).
 
 Niveau : IV.
 
@@ -14,73 +14,71 @@ Code NSF : 324 t.
 
 Résumé du référentiel d'emploi
 
-Le (la) secrétaire assistant(e) spécialisé(e) médico-social(e) prend en charge, au sein des structures médicales et sociales (secteur privé, associatif ou public), les travaux administratifs et la logistique des différents services spécialisés en utilisant le vocabulaire et les techniques du secteur, dans le respect des procédures et de la réglementation et dans un environnement informatisé.
+Le (la) secrétaire-assistant (e) médico-social (e) prend en charge, au sein des structures médicales et sociales et dans un environnement informatisé, les travaux administratifs et la logistique des différents services spécialisés, en utilisant le vocabulaire et les techniques spécifiques au secteur, dans le respect du secret professionnel, des procédures et de la réglementation en vigueur.
 
-Il (elle) assure pour l'équipe des professionnels (médicaux, para-médicaux, travailleurs sociaux) l'appui logistique (organisation des manifestations, des réunions, des déplacements..., tenue des plannings, des agendas...) et administratif (production, traitement et transmission des documents, constitution et tenue des dossiers médicaux et sociaux, préparation de la codification et de la transmission des actes...).
+Il (elle) assure les tâches courantes habituellement dévolues aux secrétaires-assistant (e) s : assistance d'une équipe, rédaction de courriers, mise en forme de documents ou d'imprimés, frappe de comptes rendus, gestion des appels téléphoniques, etc., ainsi que l'accueil des patients ou usagers.
 
-Le (la) secrétaire médico-social(e) est un maillon relationnel central, en articulation permanente avec les autres personnels de l'équipe. Dans sa fonction d'accueil physique ou téléphonique, il (elle) fait une première analyse de la demande et renseigne ou oriente les interlocuteurs.
+Il (elle) assure également des tâches particulières au secteur : constitution et suivi de dossiers de patients ou d'usagers, saisie et transmission d'actes médicaux, de prestations ou de forfaits journaliers, en conformité avec le code d'action sociale et les nouvelles nomenclatures et réglementations (PMSI, T2A, etc.).
 
-Sa fonction le (la) plaçant au coeur de l'information, le respect rigoureux du secret professionnel, et plus généralement de l'éthique propre au secteur, est pour lui (elle) une préoccupation quotidienne.
+Les relations avec les publics, souvent fragilisés, accueillis au sein des structures sanitaires et sociales, la multiplicité des tâches administratives, la responsabilisation de plus en plus grande au regard du secret professionnel impliquent, de la part du (de la) secrétaire-assistant (e) médico-social (e), une grande adaptabilité et des qualités humaines prépondérantes.
 
 Capacités attestées et descriptif
 
 des composantes de la certification
 
-1. Organiser son poste bureautique et produire tout document à l'aide de logiciels de bureau, dans une structure médicale ou sociale
+1. Assurer les travaux courants de secrétariat
 
-Assurer le fonctionnement courant de son poste bureautique.
+et assister une équipe
 
-Saisir/modifier et présenter tout document à l'aide des applications bureautiques, selon les normes spécifiques du secteur, et dans le strict respect du secret professionnel.
+Produire des documents professionnels courants.
 
-Organiser et assurer un classement bureautique pour le partage et la conservation de l'information, en appliquant les règles de protection des données, dans le strict respect du secret professionnel.
+Assurer la communication des informations utiles à l'activité du service ou de la structure.
 
-2. Traiter et assurer le suivi d'événements et de dossiers
+Assurer le classement et l'archivage du service ou de la structure.
 
-dans une structure médicale ou sociale
+Accueillir et orienter un correspondant téléphonique et / ou un visiteur.
 
-Rédiger des écrits professionnels simples et à caractère répétitif en utilisant la terminologie spécifique du secteur, dans le strict respect du secret professionnel.
+Assurer le traitement du courrier.
 
-Recevoir, collecter, traiter l'information pour en assurer la transmission, dans le strict respect du secret professionnel.
+Coordonner le planning d'activités d'une équipe et fixer des rendez-vous.
 
-Concevoir des documents types et automatiser des tâches bureautiques pour optimiser le poste de travail.
+Organiser les déplacements et les réunions.
 
-Identifier, planifier les opérations et tâches pour la réalisation d'un événement ou d'un dossier.
+Gérer un stock de consommables.
 
-Contribuer à la gestion du temps de son responsable et d'une équipe de travail.
+2. Assurer le traitement administratif
 
-Gérer son temps et organiser son espace de travail.
+dans un service médical ou social
 
-Gérer les ressources matérielles courantes d'un service ou d'une structure.
+Constituer et organiser des dossiers administratifs de patients ou d'usagers.
 
-3. Assurer l'accueil et le suivi administratif
+Ecouter l'usager ou le patient et appréhender sa situation lors de l'accueil et de la prise en charge.
 
-dans une structure médicale ou sociale
+Actualiser des tableaux de suivi et présenter des statistiques en lien avec l'activité du service ou de l'entreprise.
 
-Accueillir, orienter et informer, en face à face et au téléphone, les patients ou usagers et les partenaires, dans le strict respect du secret professionnel.
+Unité de spécialisation complémentaire :
 
-Suivre administrativement les dossiers des patients ou des usagers, dans le strict respect du secret professionnel.
+Néant.
 
-Participer à la collecte, la codification et la transmission des actes médicaux, dans le strict respect du secret professionnel.
-
-Etablir des tableaux de suivi et des statistiques liés à l'activité du service.
-
-Secteurs d'activités ou types d'emploi
+Secteur d'activité ou types d'emploi
 
 accessibles par le détenteur du titre
 
-Le (la) secrétaire assistant(e) spécialisé(e) médico-social(e) peut exercer dans le secteur public, semi-public ou privé, dans deux environnements principaux :
+Les conditions d'exercice de l'emploi varient selon la taille et la typologie des structures dans lesquelles il (elle) est employé (e) :
 
-Le milieu médical : hôpitaux, cliniques, laboratoires de recherche, laboratoires d'analyses médicales, cabinets de médecins, centres de soins dentaires, centres de rééducation fonctionnelle, services médicaux d'entreprises.
+Le secteur sanitaire : en milieu hospitalier, privé ou public.
 
-Le milieu social et médico-social : caisses d'allocations familiales, caisses de sécurité sociale, services départementaux ou régionaux de l'action sanitaire et sociale, tribunaux pour enfants, services sociaux d'entreprises, centres médico-sociaux, maisons de retraite, santé scolaire, médecine du travail, dispensaires, services de protection maternelle et infantile.
+Le secteur social : centres d'hébergement de personnes en difficulté, foyers d'enfance, associations à but social, etc.
+
+Le secteur médico-social : médecine du travail, maisons de retraite, santé scolaire, etc.
 
 Code ROME :
 
-12132 - Secrétaire bureautique spécialisé(e).
+12132-Secrétaire bureautique spécialisé (e).
 
 Réglementation de l'activité :
 
-Secret professionnel (art. R. 4127-72 et L. 1110-4 du code de la santé publique, art. L. 162-2 du code de la sécurité sociale) dont le respect est garanti par le code pénal (art. 226-13).
+Néant.
 
 Autorité responsable de la certification :
 
@@ -88,8 +86,6 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
+Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
 
-Décret n° 2002-1029 du 2 août 2002 ;
-
-Arrêté du 25 novembre 2002.
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministre chargé de l'emploi.
