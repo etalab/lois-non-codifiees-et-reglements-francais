@@ -35,6 +35,7 @@
 - [Décret n°2008-532 du 5 juin 2008 (DEFH0812409D)](decret-n2008-532-du-5-juin-2008-defh0812409d)
 - [Décret n°2008-432 du 5 mai 2008 (SJSG0801014D)](decret-n2008-432-du-5-mai-2008-sjsg0801014d)
 - [Décret n°2007-1729 du 7 décembre 2007 (JUSC0771361D)](decret-n2007-1729-du-7-decembre-2007-jusc0771361d)
+- [Décret n°2008-22 du 7 janvier 2008 (MTSS0773915D)](decret-n2008-22-du-7-janvier-2008-mtss0773915d)
 - [Décret n°2007-1335 du 10 septembre 2007 (DEFD0753802D)](decret-n2007-1335-du-10-septembre-2007-defd0753802d)
 - [Décret n°2007-1735 du 11 décembre 2007 (DEVO0751165D)](decret-n2007-1735-du-11-decembre-2007-devo0751165d)
 - [Décret n°2007-1742 du 11 décembre 2007 (BCFB0765657D)](decret-n2007-1742-du-11-decembre-2007-bcfb0765657d)
