@@ -6,7 +6,7 @@ a) Une demande d'attestation de capacité professionnelle présentée par le can
 
 b) Une fiche décrivant de façon détaillée la nature et la durée d'exercice des fonctions justifiant la demande ;
 
-c) Une fiche individuelle d'état civil ;
+c) (supprimé)
 
 d) Un justificatif de domicile ;
 
@@ -16,7 +16,7 @@ f) Un certificat d'affiliation émanant soit, si le candidat est un travailleur 
 
 g) Le cas échéant, les photocopies de l'attestation des pouvoirs bancaires délivrée par la banque et des délégations de signature dont a pu disposer le candidat pour toute la durée de ses fonctions ;
 
-h) En application de la loi du 28 octobre 1997 susvisée, pour les personnes de nationalité française, l'attestation de recensement délivrée par la mairie (pour les jeunes hommes nés après le 31 décembre 1978 et les jeunes femmes nées après le 31 décembre 1982) et, le cas échéant, le certificat de participation à l'appel de préparation à la défense.
+h) Pour les personnes de nationalité française, le document justifiant leur situation au regard des obligations du service national, en application des articles L. 113-4 et L. 114-6 du code du service national.
 
 Chaque dossier dûment rempli est adressé par le candidat au préfet de la région (direction régionale de l'équipement) où il est domicilié.
 

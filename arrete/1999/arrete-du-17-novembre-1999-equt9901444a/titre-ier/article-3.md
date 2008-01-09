@@ -6,7 +6,7 @@ Leur composition est arrêtée, compte tenu des propositions des commissions con
 
 Ils comprennent notamment des personnes qualifiées de l'administration, des organisations professionnelles, des organismes de formation et des chefs d'entreprise.
 
-2. L'examen est annuel.
+2.L'examen est annuel.
 
 Il se déroule simultanément dans les différents centres d'examen. Les sujets de chaque session sont arrêtés par le ministre chargé des transports terrestres.
 
@@ -14,11 +14,11 @@ Il se déroule simultanément dans les différents centres d'examen. Les sujets 
 
 a) Une demande d'inscription à l'examen présentée par le candidat selon le formulaire CERFA n° 11414 ;
 
-b) Une fiche individuelle d'état civil ;
+b) (supprimé)
 
 c) Un justificatif de domicile ;
 
-d) En application de la loi du 28 octobre 1997 susvisée, pour les personnes de nationalité française, l'attestation de recensement délivrée par la mairie (pour les jeunes hommes nés après le 31 décembre 1978 et les jeunes femmmes nées après le 31 décembre 1982) et, le cas échéant, le certificat de participation à l'appel de préparation à la défense.
+d) Pour les personnes de nationalité française, le document justifiant leur situation au regard des obligations du service national, en application des articles L. 113-4 et L. 114-6 du code du service national.
 
 Chaque dossier dûment rempli doit être retourné au plus tard deux mois avant la date de l'examen auquel le candidat désire prendre part.
 
