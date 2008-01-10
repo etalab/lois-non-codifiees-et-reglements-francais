@@ -1,201 +1,376 @@
 # Article ANNEXE
 
-PRIX DE LA VOCATION SCIENTIFIQUE
-
-(RÉPARTITION RÉGIONALE)
-
-RÉGIONS : Alsace
-
-NOMBRE de prix :  17
-
-CRÉDITS alloués (en euros :  17 000
-
-RÉGIONS : Aquitaine
-
-NOMBRE de prix :  26
-
-CRÉDITS alloués (en euros):  26 000
-
-RÉGIONS : Auvergne
-
-NOMBRE de prix :  15
-
-CRÉDITS alloués (en euros): 15 000
-
-RÉGIONS : Bourgogne
-
-NOMBRE de prix : 16
-
-CRÉDITS alloués (en euros): 16 000
-
-RÉGIONS :Bretagne
-
-NOMBRE de prix : 31
-
-CRÉDITS alloués (en euros): 31 000
-
-RÉGIONS : Centre
-
-NOMBRE de prix : 23
-
-CRÉDITS alloués (en euros): 23 000
-
-RÉGIONS :Champagne-Ardenne
-
-NOMBRE de prix : 14
-
-CRÉDITS alloués (en euros): 14 000
-
-RÉGIONS : Corse
-
-NOMBRE de prix : 14
-
-7
-
-CRÉDITS alloués (en euros): 7 000
-
-RÉGIONS : Franche-Comté
-
-NOMBRE de prix : 14
-
-CRÉDITS alloués (en euros): 14 000
-
-RÉGIONS : Ile-de-France
-
-NOMBRE de prix :  88
-
-CRÉDITS alloués (en euros): 88 000
-
-RÉGIONS : Languedoc-Roussillon
-
-NOMBRE de prix :  21
-
-CRÉDITS alloués (en euros): 21 000
-
-RÉGIONS : Limousin
-
-NOMBRE de prix :  9
-
-CRÉDITS alloués (en euros):  9 000
-
-RÉGIONS : Lorraine
-
-NOMBRE de prix : 24
-
-CRÉDITS alloués (en euros): 24 000
-
-RÉGIONS : Midi-Pyrénées
-
-NOMBRE de prix : 25
-
-CRÉDITS alloués (en euros): 25 000
-
-RÉGIONS : Nord - Pas-de-Calais
-
-NOMBRE de prix : 42
-
-CRÉDITS alloués (en euros): 42 000
-
-RÉGIONS : Normandie (Basse)
-
-NOMBRE de prix : 16
-
-CRÉDITS alloués (en euros): 16 000
-
-RÉGIONS :Normandie (Haute)
-
-NOMBRE de prix : 18
-
-CRÉDITS alloués (en euros): 18 000
-
-RÉGIONS : Pays de la Loire
-
-NOMBRE de prix : 32
-
-CRÉDITS alloués (en euros): 32 000
-
-RÉGIONS : Picardie
-
-NOMBRE de prix :  18
-
-CRÉDITS alloués (en euros): 18 000
-
-RÉGIONS : Poitou-Charentes
-
-NOMBRE de prix :  17
-
-CRÉDITS alloués (en euros): 17 000
-
-RÉGIONS : Provence-Alpes-Côte d'Azur
-
-NOMBRE de prix :  41
-
-CRÉDITS alloués (en euros):  41 000
-
-RÉGIONS : Rhône-Alpes
-
-NOMBRE de prix : 50
-
-CRÉDITS alloués (en euros): 50 000
-
-RÉGIONS : Guadeloupe
-
-NOMBRE de prix :   6
-
-CRÉDITS alloués (en euros):  6 000
-
-RÉGIONS : Guyane
-
-NOMBRE de prix :   4
-
-CRÉDITS alloués (en euros):  4 000
-
-RÉGIONS : Martinique
-
-NOMBRE de prix :   7
-
-CRÉDITS alloués (en euros):  7 000
-
-RÉGIONS : Réunion
-
-NOMBRE de prix :   8
-
-CRÉDITS alloués (en euros):   8 000
-
-RÉGIONS : Mayotte
-
-NOMBRE de prix :  2
-
-CRÉDITS alloués (en euros):  2 000
-
-RÉGIONS : Nouvelle-Calédonie
-
-NOMBRE de prix :  4
-
-CRÉDITS alloués (en euros):  4 000
-
-RÉGIONS : Polynésie française
-
-NOMBRE de prix :  1
-
-CRÉDITS alloués (en euros):  1 000
-
-RÉGIONS : Saint-Pierre-et-Miquelon
-
-NOMBRE de prix :  2
-
-CRÉDITS alloués (en euros):  2 000
-
-RÉGIONS : Wallis-et-Futuna
-
-NOMBRE de prix :  2
-
-CRÉDITS alloués (en euros):  2 000
-
-Totaux
-
-NOMBRE de prix : 600
-
-Totaux
-
-CRÉDITS alloués (en euros): 600 000
+**PRIX DE LA VOCATION SCIENTIFIQUE ET TECHNIQUE**
+
+**(RÉPARTITION RÉGIONALE)**
+
+<table>
+<tbody>
+<tr>
+<th>
+<br/>RÉGIONS <br/>
+</th>
+<th>
+<br/>NOMBRE <p>de prix <br/>
+</p>
+</th>
+<th>
+<br/>CRÉDITS <p>alloués </p>
+<p>(en euros) <br/>
+</p>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>Alsace <br/>
+</td>
+<td align="center">
+<br/>20 <br/>
+</td>
+<td align="center">
+<br/>20 000 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Aquitaine <br/>
+</td>
+<td align="center">
+<br/>28 <br/>
+</td>
+<td align="center">
+<br/>28 000 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Auvergne <br/>
+</td>
+<td align="center">
+<br/>17 <br/>
+</td>
+<td align="center">
+<br/>17 000 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Bourgogne <br/>
+</td>
+<td align="center">
+<br/>17 <br/>
+</td>
+<td align="center">
+<br/>17 000 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Bretagne <br/>
+</td>
+<td align="center">
+<br/>35 <br/>
+</td>
+<td align="center">
+<br/>35 000 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Centre <br/>
+</td>
+<td align="center">
+<br/>24 <br/>
+</td>
+<td align="center">
+<br/>24 000 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Champagne-Ardenne <br/>
+</td>
+<td align="center">
+<br/>16 <br/>
+</td>
+<td align="center">
+<br/>16 000 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Corse <br/>
+</td>
+<td align="center">
+<br/>8 <br/>
+</td>
+<td align="center">
+<br/>8 000 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Franche-Comté <br/>
+</td>
+<td align="center">
+<br/>17 <br/>
+</td>
+<td align="center">
+<br/>17 000 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Ile-de-France <br/>
+</td>
+<td align="center">
+<br/>88 <br/>
+</td>
+<td align="center">
+<br/>88 000 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Languedoc-Roussillon <br/>
+</td>
+<td align="center">
+<br/>21 <br/>
+</td>
+<td align="center">
+<br/>21 000 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Limousin <br/>
+</td>
+<td align="center">
+<br/>10 <br/>
+</td>
+<td align="center">
+<br/>10 000 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Lorraine <br/>
+</td>
+<td align="center">
+<br/>27 <br/>
+</td>
+<td align="center">
+<br/>27 000 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Midi-Pyrénées <br/>
+</td>
+<td align="center">
+<br/>29 <br/>
+</td>
+<td align="center">
+<br/>29 000 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Nord-Pas-de-Calais <br/>
+</td>
+<td align="center">
+<br/>46 <br/>
+</td>
+<td align="center">
+<br/>46 000 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Basse-Normandie <br/>
+</td>
+<td align="center">
+<br/>17 <br/>
+</td>
+<td align="center">
+<br/>17 000 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Haute-Normandie <br/>
+</td>
+<td align="center">
+<br/>18 <br/>
+</td>
+<td align="center">
+<br/>18 000 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Pays de la Loire <br/>
+</td>
+<td align="center">
+<br/>36 <br/>
+</td>
+<td align="center">
+<br/>36 000 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Picardie <br/>
+</td>
+<td align="center">
+<br/>22 <br/>
+</td>
+<td align="center">
+<br/>22 000 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Poitou-Charentes <br/>
+</td>
+<td align="center">
+<br/>18 <br/>
+</td>
+<td align="center">
+<br/>18 000 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Provence-Alpes-Côte d'Azur <br/>
+</td>
+<td align="center">
+<br/>41 <br/>
+</td>
+<td align="center">
+<br/>41 000 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Rhône-Alpes <br/>
+</td>
+<td align="center">
+<br/>51 <br/>
+</td>
+<td align="center">
+<br/>51 000 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Guadeloupe <br/>
+</td>
+<td align="center">
+<br/>7 <br/>
+</td>
+<td align="center">
+<br/>7 000 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Guyane <br/>
+</td>
+<td align="center">
+<br/>5 <br/>
+</td>
+<td align="center">
+<br/>5 000 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Martinique <br/>
+</td>
+<td align="center">
+<br/>8 <br/>
+</td>
+<td align="center">
+<br/>8 000 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Réunion <br/>
+</td>
+<td align="center">
+<br/>8 <br/>
+</td>
+<td align="center">
+<br/>8 000 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Mayotte <br/>
+</td>
+<td align="center">
+<br/>3 <br/>
+</td>
+<td align="center">
+<br/>3 000 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Nouvelle-Calédonie <br/>
+</td>
+<td align="center">
+<br/>5 <br/>
+</td>
+<td align="center">
+<br/>5 000 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Polynésie française <br/>
+</td>
+<td align="center">
+<br/>4 <br/>
+</td>
+<td align="center">
+<br/>4 000 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Saint-Pierre-et-Miquelon <br/>
+</td>
+<td align="center">
+<br/>2 <br/>
+</td>
+<td align="center">
+<br/>2 000 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Wallis-et-Futuna <br/>
+</td>
+<td align="center">
+<br/>2 <br/>
+</td>
+<td align="center">
+<br/>2 000 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Totaux <br/>
+</td>
+<td align="center">
+<br/>650 <br/>
+</td>
+<td align="center">
+<br/>650 000<br/>
+</td>
+</tr>
+</tbody>
+</table>
