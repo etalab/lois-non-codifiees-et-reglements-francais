@@ -1,0 +1,3 @@
+# Article 10
+
+Sans préjudice de l'affectation, sur le fondement du second alinéa de l'article LO 6175-3 du code général des collectivités territoriales, d'une dotation à un établissement public de coopération communale, les ressources de la section de fonctionnement visées au 3° de l'article 9 sont réparties entre les communes, pour une part, qui ne peut être inférieure à 50 %, au prorata du nombre de leurs habitants et pour une autre part compte tenu de leurs charges appréciées selon des critères objectifs et mesurables prenant notamment en compte, pour chaque commune, sa superficie et le nombre d'élèves scolarisés dans les établissements d'enseignement primaire.
