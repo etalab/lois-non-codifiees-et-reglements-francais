@@ -1,0 +1,3 @@
+# Article 8
+
+Le secrétaire général du Conseil d'Etat, la secrétaire générale du ministère de l'intérieur, de l'outre-mer et des collectivités territoriales, le secrétaire général du ministère de l'immigration, de l'intégration, de l'identité nationale et du codéveloppement, les préfets, les représentants de l'Etat dans les collectivités d'outre-mer et en Nouvelle-Calédonie et les présidents des cours administratives d'appel et des tribunaux administratifs sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
