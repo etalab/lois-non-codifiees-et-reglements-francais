@@ -442,7 +442,6 @@
 - [Arrêté du 12 mars 2007 (MJSK0770065A)](arrete-du-12-mars-2007-mjsk0770065a)
 - [Arrêté du 12 novembre 2007 (DEFD0770429A)](arrete-du-12-novembre-2007-defd0770429a)
 - [Arrêté du 12 novembre 2007 (DEFD0770438A)](arrete-du-12-novembre-2007-defd0770438a)
-- [Arrêté du 12 octobre 2007 (AGRG0768199A)](arrete-du-12-octobre-2007-agrg0768199a)
 - [Arrêté du 12 octobre 2007 (MENE0767051A)](arrete-du-12-octobre-2007-mene0767051a)
 - [Arrêté du 12 octobre 2007 (PRMX0767883A)](arrete-du-12-octobre-2007-prmx0767883a)
 - [Arrêté du 12 septembre 2007 (AGRF0763230A)](arrete-du-12-septembre-2007-agrf0763230a)
