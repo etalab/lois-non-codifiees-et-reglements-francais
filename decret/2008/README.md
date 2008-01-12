@@ -43,6 +43,7 @@
 - [Décret n°2008-28 du 8 janvier 2008 (AGRP0757496D)](decret-n2008-28-du-8-janvier-2008-agrp0757496d)
 - [Décret n°2008-29 du 8 janvier 2008 (MLVU0762985D)](decret-n2008-29-du-8-janvier-2008-mlvu0762985d)
 - [Décret n°2008-25 du 9 janvier 2008 (PRMX0800636D)](decret-n2008-25-du-9-janvier-2008-prmx0800636d)
+- [Décret n°2008-32 du 9 janvier 2008 (SJSS0773634D)](decret-n2008-32-du-9-janvier-2008-sjss0773634d)
 - [Décret n°2007-1335 du 10 septembre 2007 (DEFD0753802D)](decret-n2007-1335-du-10-septembre-2007-defd0753802d)
 - [Décret n°2008-31 du 10 janvier 2008 (PRMX0800767D)](decret-n2008-31-du-10-janvier-2008-prmx0800767d)
 - [Décret n°2007-1735 du 11 décembre 2007 (DEVO0751165D)](decret-n2007-1735-du-11-decembre-2007-devo0751165d)
