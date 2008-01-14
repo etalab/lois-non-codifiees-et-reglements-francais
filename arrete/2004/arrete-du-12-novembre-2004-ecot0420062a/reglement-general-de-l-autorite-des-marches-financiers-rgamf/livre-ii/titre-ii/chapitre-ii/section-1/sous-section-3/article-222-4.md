@@ -1,6 +1,6 @@
 # Article 222-4
 
-I. - Le rapport financier semestriel mentionné au III de l'article L. 451-1-2 du code monétaire et financier comporte :
+Le rapport financier semestriel mentionné au III de l'article L. 451-1-2 du code monétaire et financier comporte :
 
 1° Des comptes condensés ou des comptes complets pour le semestre écoulé, présentés sous forme consolidée le cas échéant, établis soit en application de la norme IAS 34, soit conformément à l'article 222-5 ;
 

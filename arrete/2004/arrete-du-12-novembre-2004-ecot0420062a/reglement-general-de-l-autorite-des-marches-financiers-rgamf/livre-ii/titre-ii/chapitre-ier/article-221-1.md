@@ -26,9 +26,7 @@ i) L'information privilégiée publiée en application de l'article 223-2 ;
 
 j) Un communiqué qui précise les modalités de mise à disposition ou de consultation des informations mentionnées à l'article 135 du décret n° 67-236 du 23 mars 1967 ;
 
-k) Un communiqué mensuel regroupant les informations concernant les rachats d'actions mentionnées au 1° du I de l'article 241-4 qui ont été rendues publiques par l'émetteur au cours du mois écoulé ;
-
-l) Les informations publiées en application de l'article 223-21 ;
+k) Les informations publiées en application de l'article 223-21 ;
 
 Lorsque l'émetteur n'a aucun instrument financier admis aux négociations sur un marché réglementé, le terme : "information réglementée désigne les documents et informations mentionnés aux points d, e, h et i.
 

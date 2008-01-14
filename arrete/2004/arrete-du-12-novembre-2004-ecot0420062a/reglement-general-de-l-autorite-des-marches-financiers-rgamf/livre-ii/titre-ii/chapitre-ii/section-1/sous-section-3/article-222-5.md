@@ -14,6 +14,10 @@ I. - Lorsque l'émetteur n'est pas tenu d'établir des comptes consolidés ou d'
 
 Ces comptes peuvent être condensés et l'annexe peut ne comporter qu'une sélection des notes annexes les plus significatives.
 
+Le bilan et le compte de résultats condensés comportent la totalité des rubriques et sous-totaux figurant dans les derniers comptes annuels de l'émetteur. Des postes supplémentaires sont ajoutés si, à défaut, les comptes semestriels donnent une image trompeuse du patrimoine, de la situation financière et des résultats de l'émetteur.
+
+Les notes annexes comportent au moins suffisamment d'informations pour assurer la comparabilité des comptes semestriels condensés avec les comptes annuels et suffisamment d'informations et d'explications pour que le lecteur soit correctement informé de toute modification sensible des montants et des évolutions survenues durant le semestre concerné, figurant dans le bilan et dans le compte de résultats.
+
 II. - Pour assurer la comparabilité, les comptes semestriels comportent les éléments suivants :
 
 1° Le bilan à la fin de la période intermédiaire concernée et le bilan à la date de clôture de l'exercice précédent ;
