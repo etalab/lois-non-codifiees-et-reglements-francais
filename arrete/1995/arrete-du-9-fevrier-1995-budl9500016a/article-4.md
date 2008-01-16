@@ -64,4 +64,6 @@ Par ailleurs, les redevables français sont informés de leur numéro d'identifi
 
 - des agents du service commun de la direction générale des impôts et de la direction générale des douanes et droits indirects comprenant le bureau central de liaison et l'observatoire des échanges intracommunautaires ;
 
-- des agents des services fiscaux monégasques.
+- des agents des services fiscaux monégasques ;
+
+- l'application MEDOC fournit à l'application SYNFONIE (outil d'analyse du tissu économique et fiscal de la direction générale de impôts) les données afférentes aux déclarations de TVA et les éléments relatifs au recouvrement opéré sur les prises en charge suite à contrôle fiscal.

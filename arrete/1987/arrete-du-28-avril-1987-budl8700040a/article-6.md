@@ -23,3 +23,5 @@ Le traitement S.I.R. fournit à l'application "tiers déclarants et gestion de l
 L'application SIR communique à la Base nationale de données patrimoniales-BNDP les données permettant de déterminer la compétence géographique des agents habilités.
 
 L'application SIR communique au traitement automatisé relatif à la redevance de l'audiovisuel les coordonnées des tiers détenteurs.
+
+L'application SIR communique au traitement Synfonie les données issues des déclarations des honoraires versés et perçus ainsi que des rémunérations versées à l'étranger.
