@@ -8,5 +8,6 @@
 - [VI. Air, odeurs.](vi-air)
 - [VII. Déchets.](vii)
 - [IX. Remise en état en fin d'exploitation.](ix)
+- [Prescriptions à vérifier lors des contrôles périodiques.](prescriptions-a)
 - [Dispositions applicables aux installations existantes.](dispositions-applicables-aux)
 - [VIII. Bruit.](viii-bruit)

@@ -43,3 +43,7 @@ AU 1er OCTOBRE 2000
 AU 1er OCTOBRE 2001
 
 5.9. Eau-mesure périodique
+
+Au 30 juin 2008
+
+1. 8. Contrôles périodiques.
