@@ -1,0 +1,5 @@
+# Article 8
+
+Dans les cinq ans suivant la date de publication du présent arrêté, les titulaires du brevet d'Etat d'éducateur sportif du premier degré option « tir sportif » et les titulaires du brevet fédéral d'entraîneur deuxième degré obtiennent, sur demande auprès du directeur régional de la jeunesse, des sports et de la vie associative, le diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport spécialité « perfectionnement sportif », mention « tir sportif », s'ils ont exercé la fonction d'entraîneur pendant au moins deux saisons sportives soit au sein d'une structure d'entraînement ou de formation labellisée par la Fédération française de tir, soit au sein d'un pôle figurant sur la liste établie par le ministre chargé des sports, en application de l'article R. 221-26 du code du sport.
+
+Les titulaires du brevet fédéral d'entraîneur deuxième degré doivent, en outre, avoir suivi un stage de formation continue de trente heures au cours des cinq dernières années, attesté et validé par le directeur technique national du tir.
