@@ -20,11 +20,7 @@ La direction des Français à l'étranger et des étrangers en France comprend :
 
 - de la sous-direction des conventions et de l'entraide judiciaire.
 
-3° Le service des étrangers en France, composé de :
-
-- la sous-direction de la circulation des étrangers ;
-
-- la sous-direction de l'asile et de l'immigration.
+3° La mission pour la politique des visas.
 
 4° Le secrétariat général de l'Assemblée des Français de l'étranger.
 
