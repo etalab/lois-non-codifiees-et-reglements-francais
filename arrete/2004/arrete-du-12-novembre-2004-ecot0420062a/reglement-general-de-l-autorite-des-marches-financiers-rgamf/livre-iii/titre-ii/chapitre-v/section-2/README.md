@@ -7,4 +7,3 @@
 - [Article 325-7](article-325-7.md)
 - [Article 325-8](article-325-8.md)
 - [Article 325-9](article-325-9.md)
-- [Article 335-7](article-335-7.md)
