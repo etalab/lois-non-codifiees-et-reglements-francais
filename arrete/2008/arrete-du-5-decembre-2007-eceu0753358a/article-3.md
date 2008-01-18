@@ -1,0 +1,3 @@
+# Article 3
+
+Le contrôleur est informé de la préparation et de l'exécution du budget de l'établissement et de ses décisions modificatives. Les documents et les informations nécessaires lui sont adressés en temps utile, soit dans un délai de quinze jours pour les documents soumis à l'adoption du conseil et au fur et à mesure de leur élaboration pour les autres documents, et notamment ceux relatifs à la préparation et l'exécution du budget. Le projet de budget lui est communiqué accompagné de ses annexes. Outre les documents requis pour les membres du conseil d'administration, le contrôleur fixe, après consultation du directeur, la nature et le contenu des documents prévisionnels qui lui sont adressés à l'appui du projet de budget.
