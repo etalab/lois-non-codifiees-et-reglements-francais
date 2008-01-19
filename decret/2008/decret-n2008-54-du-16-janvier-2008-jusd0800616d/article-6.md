@@ -1,0 +1,5 @@
+# Article 6
+
+I. ― Les dispositions des articles 1er à 4 du présent décret entrent en vigueur le 1er mars 2008.
+
+II. - Les juges d'instruction des juridictions dans lesquelles ne sont pas institués de pôle de l'instruction demeurent compétents pour poursuivre jusqu'à leur terme les informations en cours à cette date lorsqu'il s'agit de procédures pour lesquelles il a été fait application, avant cette date, des dispositions relatives à la cosaisine du deuxième alinéa de l'article 83 du code de procédure pénale dans sa rédaction antérieure à la loi précitée du 5 mars 2007, y compris si, du fait de la suppression d'un poste de juge d'instruction, il n'y a plus qu'un seul juge d'instruction dans la juridiction. Dans ce cas, une nouvelle cosaisine peut être ordonnée conformément aux dispositions de l'article 83-1 du code de procédure pénale, et l'information sera alors poursuivie par plusieurs juges d'instruction du tribunal de grande instance où se trouve le pôle de l'instruction compétent.
