@@ -127,6 +127,7 @@
 - [Arrêté du 26 décembre 2007 (SJSH0773585A)](arrete-du-26-decembre-2007-sjsh0773585a)
 - [Arrêté du 26 décembre 2007 (SJSH0773589A)](arrete-du-26-decembre-2007-sjsh0773589a)
 - [Arrêté du 27 avril 2007 (EQUA0700536A)](arrete-du-27-avril-2007-equa0700536a)
+- [Arrêté du 27 décembre 1977](arrete-du-27-decembre-1977)
 - [Arrêté du 27 décembre 2007 (AGRP0773520A)](arrete-du-27-decembre-2007-agrp0773520a)
 - [Arrêté du 27 décembre 2007 (BCFR0774751A)](arrete-du-27-decembre-2007-bcfr0774751a)
 - [Arrêté du 27 décembre 2007 (BCFR0774770A)](arrete-du-27-decembre-2007-bcfr0774770a)
