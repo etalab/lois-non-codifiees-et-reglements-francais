@@ -1229,7 +1229,6 @@
 - [Arrêté du 29 novembre 2007 (DEVA0771953A)](arrete-du-29-novembre-2007-deva0771953a)
 - [Arrêté du 29 novembre 2007 (DEVT0766964A)](arrete-du-29-novembre-2007-devt0766964a)
 - [Arrêté du 29 novembre 2007 (SJSP0772087A)](arrete-du-29-novembre-2007-sjsp0772087a)
-- [Arrêté du 29 octobre 2007 (AGRG0769497A)](arrete-du-29-octobre-2007-agrg0769497a)
 - [Arrêté du 29 octobre 2007 (BCFP0756380A)](arrete-du-29-octobre-2007-bcfp0756380a)
 - [Arrêté du 29 octobre 2007 (BCFP0756382A)](arrete-du-29-octobre-2007-bcfp0756382a)
 - [Arrêté du 29 octobre 2007 (BCFP0756384A)](arrete-du-29-octobre-2007-bcfp0756384a)
