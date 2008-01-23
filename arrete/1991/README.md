@@ -838,7 +838,6 @@
 - [Arrêté du 29 mars 1991 (ENVN9161136A)](arrete-du-29-mars-1991-envn9161136a)
 - [Arrêté du 29 mars 1991 (SANH9100884A)](arrete-du-29-mars-1991-sanh9100884a)
 - [Arrêté du 29 mars 1991 (SPSS9100898A)](arrete-du-29-mars-1991-spss9100898a)
-- [Arrêté du 29 novembre 1991 (AGRG9100252A)](arrete-du-29-novembre-1991-agrg9100252a)
 - [Arrêté du 29 octobre 1991 (JUSA9100129A)](arrete-du-29-octobre-1991-jusa9100129a)
 - [Arrêté du 30 août 1991 (ACVE9150005A)](arrete-du-30-aout-1991-acve9150005a)
 - [Arrêté du 30 août 1991 (ACVE9150006A)](arrete-du-30-aout-1991-acve9150006a)
