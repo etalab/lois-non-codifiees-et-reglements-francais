@@ -57,7 +57,6 @@
 - [Arrêté du 25 août 1977](arrete-du-25-aout-1977)
 - [Arrêté du 25 juillet 1977](arrete-du-25-juillet-1977)
 - [Arrêté du 27 avril 1977](arrete-du-27-avril-1977)
-- [Arrêté du 27 décembre 1977](arrete-du-27-decembre-1977)
 - [Arrêté du 27 janvier 1977](arrete-du-27-janvier-1977)
 - [Arrêté du 27 juillet 1977](arrete-du-27-juillet-1977)
 - [Arrêté du 28 décembre 1977](arrete-du-28-decembre-1977)
