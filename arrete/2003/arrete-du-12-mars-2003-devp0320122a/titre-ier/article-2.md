@@ -6,9 +6,9 @@ Unité de fusion : unité technique comportant un ou plusieurs fours ou cubilots
 
 Installation : unité technique comportant :
 
-- une ou des unités de fusion du verre ou de fibres ;
+-une ou des unités de fusion du verre ou de fibres ;
 
-- une ou des unités de travail du verre ou de fibres tels que notamment le traitement à chaud des articles, les opérations de recuisson, le traitement de fibres, les postes de polissage à la flamme et de trempe thermique, le travail chimique du verre (réalisé par immersion ou aspersion), le conditionnement, à l'exclusion des activités relevant d'autres rubriques de la nomenclature des installations classées. Ces unités de travail du verre ou de fibres sont dénommées "activité hors fusion" dans le présent arrêté  ;
+-une ou des unités de travail du verre ou de fibres tels que notamment le traitement à chaud des articles, les opérations de recuisson, le traitement de fibres, les postes de polissage à la flamme et de trempe thermique, le travail chimique du verre (réalisé par immersion ou aspersion), le conditionnement, à l'exclusion des activités relevant d'autres rubriques de la nomenclature des installations classées. Ces unités de travail du verre ou de fibres sont dénommées " activité hors fusion " dans le présent arrêté ;
 
 Etablissement : ensemble des installations classées relevant d'un même exploitant situées sur un même site au sens de l'article 12 du décret du 21 septembre 1977 susvisé, y compris leurs équipements et activités connexes ;
 
@@ -24,9 +24,9 @@ Premier flot des eaux pluviales : eaux lessivant les aires imperméables et entr
 
 Four à oxygène : four pour lequel le comburant fait l'objet d'un enrichissement partiel ou total en oxygène ;
 
-Fours à bassin : fours généralement de grande taille, constitués d'une cuve de fusion, d'un bassin de travail ou d'une braise en matériaux réfractaires, associés à une récupération de chaleur des fumées. Ces fours fonctionnent généralement en tirée continue, mais certains plus petits peuvent être à tirée journalière. Ils sont souvent tri-énergie, pouvant être chauffés au gaz et/ou au fioul lourd avec un appoint électrique ;
+Fours à bassin : fours généralement de grande taille, constitués d'une cuve de fusion, d'un bassin de travail ou d'une braise en matériaux réfractaires, associés à une récupération de chaleur des fumées. Ces fours fonctionnent généralement en tirée continue, mais certains plus petits peuvent être à tirée journalière. Ils sont souvent tri-énergie, pouvant être chauffés au gaz et / ou au fioul lourd avec un appoint électrique ;
 
-Four à régénérateurs : fours à bassin réalisant un préchauffage du comburant sur des matériaux réfractaires. Ces équipements, encore appelés régénérateurs, fonctionnent par paires. Ils servent tour à tour à évacuer les gaz de combustion et à récupérer leur chaleur puis après inversion, c'est-à-dire chauffage du bain de verre à l'aide de la seconde série de brûleurs, à préchauffer le comburant jusqu'à des températures pouvant aller jusqu'à 1400 °C ;
+Four à régénérateurs : fours à bassin réalisant un préchauffage du comburant sur des matériaux réfractaires. Ces équipements, encore appelés régénérateurs, fonctionnent par paires. Ils servent tour à tour à évacuer les gaz de combustion et à récupérer leur chaleur puis après inversion, c'est-à-dire chauffage du bain de verre à l'aide de la seconde série de brûleurs, à préchauffer le comburant jusqu'à des températures pouvant aller jusqu'à 1400° C ;
 
 Fours électriques : ces fours sont constitués de réfractaires et d'une structure en acier. Le chauffage du bain de verre est assuré par effet Joule au moyen d'électrodes. Le courant traverse le bain de verre en fusion ;
 
@@ -46,35 +46,37 @@ Verres non spéciaux : tous les verres silico-sodo-calciques ou silico-potasso-c
 
 Cristal au plomb : verre contenant une teneur non négligeable en plomb tel que défini dans la norme NF 30-004 ;
 
-Verres techniques dits "spéciaux" : verres n'appartenant p as aux catégories précédentes. Sont rattachés aux verres techniques dits "spéciaux" les verres de la famille des borosilicates, verres à faible coefficient de dilatation, fibres de verre qui sont définies de manière non exhaustive ci-après :
+Verres techniques dits " spéciaux " : verres n'appartenant p as aux catégories précédentes. Sont rattachés aux verres techniques dits " spéciaux " les verres de la famille des borosilicates, verres à faible coefficient de dilatation, fibres de verre qui sont définies de manière non exhaustive ci-après :
 
-- vitrocéramiques ou verres à faibles coefficients de dilatation ;
+-vitrocéramiques ou verres à faibles coefficients de dilatation ;
 
-- verres techniques ;
+-verres techniques ;
 
-- verres au plomb non visés par la norme NF 30-004 ;
+-verres au plomb non visés par la norme NF 30-004 ;
 
-- verres spéciaux affinés à l'arsenic pour lesquels pour l'affinage du bain sont utilisées une ou plusieurs matières contenant des composés de l'arsenic ;
+-verres spéciaux affinés à l'arsenic pour lesquels pour l'affinage du bain sont utilisées une ou plusieurs matières contenant des composés de l'arsenic ;
 
-- verres opales ;
+-verres opales ;
 
-- verres opaques ;
+-verres opaques ;
 
-- verres colorés spéciaux ;
+-verres colorés spéciaux ;
 
-- verres pour tubes cathodiques ;
+-verres pour tubes cathodiques ;
 
-- verres pour l'électronique ;
+-verres pour l'électronique ;
 
-- verres de fibres optiques ;
+-verres de fibres optiques ;
 
-- verres pour fibres d'isolation et de renforcement ;
+-verres pour fibres d'isolation et de renforcement ;
+
+Fibres de verre : fibres issues de la fusion du verre, servant en particulier à la fabrication de matériaux d'isolation, de fibres de renforcement ou de fibres textiles.
 
 Laine de verre et laine de roche : matériaux d'isolation produits à partir de fours ou de cubilots ;
 
-Verres oxydés au sulfate : verres dont le rapport Fe2+/Fe total est inférieur à 50 % ou dont le taux de sulfate dans le mélange vitrifiable est supérieur à 0,45 % ;
+Verres oxydés au sulfate : verres dont le rapport Fe2 + / Fe total est inférieur à 50 % ou dont le taux de sulfate dans le mélange vitrifiable est supérieur à 0,45 % ;
 
-Verres réduits : verres dont le rapport Fe2+/Fe total est supérieur à 50 % ;
+Verres réduits : verres dont le rapport Fe2 + / Fe total est supérieur à 50 % ;
 
 Verres oxydés au nitrate : verres pour lesquels, pour l'oxydation du bain, sont utilisées une ou plusieurs matières premières à base de nitrate ;
 
@@ -86,7 +88,7 @@ Reconstruction d'un four : toute réparation concernant les superstructures, les
 
 Tour aéroréfrigérante : dispositif de refroidissement par pulvérisation d'eau dans un flux d'air ;
 
-Pare-gouttelettes ou "dévésiculeur" : équipement destiné à limiter l'émission de gouttelettes d'eau par la tour aéroréfrigérante ;
+Pare-gouttelettes ou " dévésiculeur " : équipement destiné à limiter l'émission de gouttelettes d'eau par la tour aéroréfrigérante ;
 
 Unité de fusion reconstruite : unité de fusion pour laquelle tous les fours ont fait l'objet d'une reconstruction depuis la publication du présent arrêté ;
 
