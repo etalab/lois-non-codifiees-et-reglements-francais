@@ -630,7 +630,6 @@
 - [Arrêté du 28 mai 1999 (EQUA9900770A)](arrete-du-28-mai-1999-equa9900770a)
 - [Arrêté du 28 mai 1999 (INTC9900267A)](arrete-du-28-mai-1999-intc9900267a)
 - [Arrêté du 28 mai 1999 (MESF9910881A)](arrete-du-28-mai-1999-mesf9910881a)
-- [Arrêté du 29 avril 1999 (ECOI9920129A)](arrete-du-29-avril-1999-ecoi9920129a)
 - [Arrêté du 29 avril 1999 (MENA9900957A)](arrete-du-29-avril-1999-mena9900957a)
 - [Arrêté du 29 avril 1999 (MESH9921582A)](arrete-du-29-avril-1999-mesh9921582a)
 - [Arrêté du 29 décembre 1998 (AGRM9802458A)](arrete-du-29-decembre-1998-agrm9802458a)
