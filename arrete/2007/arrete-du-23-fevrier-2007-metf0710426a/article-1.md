@@ -740,8 +740,10 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 <td align="center">5 ans <br/>
 </td>
 <td align="center">
-<p> CCI de Rouen. - Institut supérieur de préparation </p>
-<p>professionnelle (ISPP). </p>
+<br/>
+<p>CCI de Rouen. - Institut des formations en alternance (IFA).<br/>
+</p>
+<br/>
 </td>
 </tr>
 <tr>

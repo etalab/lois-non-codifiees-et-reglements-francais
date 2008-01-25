@@ -742,8 +742,11 @@ Les certifications professionnelles ci-dessous énumérées sont enregistrées a
 <td align="center">II <br/>
 </td>
 <td align="center">
-<p> Responsable de secteur en distribution, option </p>
-<p>alimentaire, jardinerie, animalerie. </p>
+<br/>
+<p>Responsable de secteur en distribution, option : </p>
+<p>alimentaire, jardinerie, animalerie, aménagement </p>
+<p>de l'habitat et de son environnement.</p>
+<br/>
 </td>
 <td align="center"> 312p</td>
 <td align="center"> 5 ans</td>
