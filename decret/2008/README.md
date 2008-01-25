@@ -101,6 +101,7 @@
 - [Décret n°2008-69 du 22 janvier 2008 (MTSS0774734D)](decret-n2008-69-du-22-janvier-2008-mtss0774734d)
 - [Décret n°2009-454 du 22 avril 2009 (DEVA0901439D)](decret-n2009-454-du-22-avril-2009-deva0901439d)
 - [Décret n° 2007-406 du 23 mars 2007 (SANS0720915D)](decret-n-2007-406-du-23-mars-2007-sans0720915d)
+- [Décret n°2008-72 du 23 janvier 2008 (ESRS0801321D)](decret-n2008-72-du-23-janvier-2008-esrs0801321d)
 - [Décret n°2007-1267 du 24 août 2007 (ECEA0760899D)](decret-n2007-1267-du-24-aout-2007-ecea0760899d)
 - [Décret n°2007-1268 du 24 août 2007 (ECEA0760871D)](decret-n2007-1268-du-24-aout-2007-ecea0760871d)
 - [Décret n°2007-1532 du 24 octobre 2007 (ECEI0753560D)](decret-n2007-1532-du-24-octobre-2007-ecei0753560d)
