@@ -6,29 +6,29 @@ a) Les viandes provenant d'animaux :
 
 i) Pour lesquels, il est constaté, après leur introduction à l'abattoir, soit qu'ils sont malades au sens de l'arrêté du 9 juin 2000 précité, soit qu'ils sont atteints de l'une des affections suivantes :
 
-- actinobacillose ou actinomycose généralisées ;
+-actinobacillose ou actinomycose généralisées ;
 
-- charbon bactéridien et charbon symptomatique ;
+-charbon bactéridien et charbon symptomatique ;
 
-- tuberculose généralisée ;
+-tuberculose généralisée ;
 
-- morve ;
+-morve ;
 
-- rage ;
+-rage ;
 
-- tétanos ;
+-tétanos ;
 
-- salmonellose aiguë ;
+-salmonellose aiguë ;
 
-- brucellose aiguë ;
+-brucellose aiguë ;
 
-- rouget ;
+-rouget ;
 
-- botulisme ;
+-botulisme ;
 
-- septicémie, pyohémie, toxémie et virémie ;
+-septicémie, pyohémie, toxémie et virémie ;
 
-- lymphadénite généralisée ;
+-lymphadénite généralisée ;
 
 ii) Qui présentaient des lésions aiguës, avec répercussions générales, de broncho-pneumonie, pleurésie, péritonite, métrite, mammite, arthrite, péricardite, entérite ou méningo-encéphalomyélite, confirmées par une inspection détaillée, complétée éventuellement par un examen bactériologique et la recherche de résidus de substances ayant une action pharmacologique.
 
@@ -60,13 +60,13 @@ Même si aucune de ces lésions n'a été constatée, les mamelles, le tractus g
 
 c) Les parties de carcasses présentant des infiltrations séreuses ou hémorragiques importantes, des abcès localisés ou des souillures localisées ;
 
-- les abats et viscères présentant des lésions pathologiques d'origine infectieuse, parasitaire ou traumatique.
+-les abats et viscères présentant des lésions pathologiques d'origine infectieuse, parasitaire ou traumatique.
 
 d) Les viandes :
 
-- à pH anormalement bas, dites fièvreuses ;
+-à pH anormalement bas, dites fièvreuses ;
 
-- présentant de graves anomalies en ce qui concerne la couleur, l'odeur, la consistance et la saveur.
+-présentant de graves anomalies en ce qui concerne la couleur, l'odeur, la consistance et la saveur.
 
 e) Lorsque le vétérinaire inspecteur constate qu'une carcasse ou un abat est atteint de lymphadénite caséeuse ou de toute autre affection suppurée, sans que cette affection soit généralisée ou accompagnée de cachexie :
 
@@ -104,25 +104,35 @@ Les matériels à risque spécifiés suivants :
 
 i) Pour l'espèce bovine (y compris les espèces Bubalus bubalus et Bison bison) ;
 
-- le crâne, à l'exclusion de la mandibule, y compris l'encéphale et les yeux, et la moelle épinière des bovins âgés de plus de douze mois ;
+-le crâne, à l'exclusion de la mandibule, y compris l'encéphale et les yeux, et la moelle épinière des bovins âgés de plus de douze mois ;
 
-- la colonne vertébrale, à l'exclusion des vertèbres caudales, des apophyses épineuses et transverses des vertèbres cervicales, thoraciques et lombaires et de la crête sacrée médiane et des ailes du sacrum, mais y compris les ganglions rachidiens, des bovins âgés de plus de vingt-quatre mois ;
+-la colonne vertébrale, à l'exclusion des vertèbres caudales, des apophyses épineuses et transverses des vertèbres cervicales, thoraciques et lombaires et de la crête sacrée médiane et des ailes du sacrum, mais y compris les ganglions rachidiens, des bovins âgés de plus de vingt-quatre mois ;
 
-- les amygdales, les intestins du duodénum au rectum, et le mésentère, des bovins de tous âges.
+-les amygdales, les intestins du duodénum au rectum, et le mésentère, des bovins de tous âges.
 
 L'élimination des amygdales des bovins de tous âges est effectuée en procédant à une coupe transversale de la langue en avant du processus lingual de l'os basihyoïde.
 
 ii) Pour les espèces ovine et caprine :
 
-- le crâne, y compris les yeux mais à l'exclusion de l'encéphale, des ovins et caprins âgés de moins de six mois ;
+-le crâne, y compris les yeux mais à l'exclusion de l'encéphale, des ovins et caprins âgés de moins de six mois ;
+
+-le crâne, y compris l'encéphale et les yeux, des ovins et caprins âgés de six mois et plus ;
+
+-les amygdales, la rate et l'iléon des ovins et caprins quel que soit leur âge ;
+
+-la moelle épinière des ovins et caprins âgés de plus de douze mois ou qui présentent une incisive permanente ayant percé la gencive ;
+
+-le crâne, y compris l'encéphale et les yeux, les amygdales des ovins et caprins nés ou élevés au Royaume-Uni, quel que soit leur âge.
+
+p) En plus de ceux listés au niveau communautaire, à l'annexe V du règlement (CE) n° 999 / 2001 susvisé, les matériels à risque spécifiés suivants :
+
+Pour les espèces ovine et caprine :
+
+- le crâne, y compris les yeux, mais à l'exclusion de l'encéphale, des ovins et caprins âgés de moins de six mois ;
 
 - le crâne, y compris l'encéphale et les yeux, des ovins et caprins âgés de six mois et plus ;
 
-- les amygdales, la rate et l'iléon des ovins et caprins quel que soit leur âge ;
-
-- la moelle épinière des ovins et caprins âgés de plus de douze mois ou qui présentent une incisive permanente ayant percé la gencive ;
-
-- le crâne, y compris l'encéphale et les yeux, les amygdales des ovins et caprins nés ou élevés au Royaume-Uni, quel que soit leur âge.
+- les amygdales des ovins et caprins de tout âge.
 
 q) Les viandes et tous les sous-produits, y compris le cuir, provenant d'animaux de l'espèce bovine âgés de plus de trente mois ou de plus de vingt-quatre mois dans les cas prévus à l'article 27 du présent arrêté, soumis à un test de dépistage de l'encéphalopathie spongiforme bovine avec résultat non négatif.
 
@@ -130,11 +140,11 @@ r) Les viandes et tous les sous-produits, y compris le cuir, provenant d'animaux
 
 s) Les viandes et tous les sous-produits, y compris le cuir, encore présents à l'abattoir, et consignés conformément à l'article 27 A, point 4, du présent arrêté provenant d'animaux de l'espèce bovine qui :
 
-- sont originaires de la même exploitation identifiée à risque et décrite à l'article 7 de l'arrêté du 3 décembre 1990 susvisé qu'un bovin soumis à un test de dépistage de l'encéphalopathie spongiforme bovine ayant obtenu un résultat non négatif au test de dépistage de l'ESB, confirmé par le laboratoire de référence français pour les recherches relatives au diagnostic et à l'épidémiologie animale de l'encéphalopathie spongiforme bovine et
+-sont originaires de la même exploitation identifiée à risque et décrite à l'article 7 de l'arrêté du 3 décembre 1990 susvisé qu'un bovin soumis à un test de dépistage de l'encéphalopathie spongiforme bovine ayant obtenu un résultat non négatif au test de dépistage de l'ESB, confirmé par le laboratoire de référence français pour les recherches relatives au diagnostic et à l'épidémiologie animale de l'encéphalopathie spongiforme bovine et
 
-- auraient été concernés par le marquage effectué conformément aux dispositions de l'article 9 de l'arrêté du 3 décembre 1990 susvisé s'ils avaient été présents dans l'exploitation identifiée à risque au moment de la confirmation du résultat du test de dépistage de l'ESB par le laboratoire de référence français pour les recherches relatives au diagnostic et à l'épidémiologie animale de l'encéphalopathie spongiforme bovine.
+-auraient été concernés par le marquage effectué conformément aux dispositions de l'article 9 de l'arrêté du 3 décembre 1990 susvisé s'ils avaient été présents dans l'exploitation identifiée à risque au moment de la confirmation du résultat du test de dépistage de l'ESB par le laboratoire de référence français pour les recherches relatives au diagnostic et à l'épidémiologie animale de l'encéphalopathie spongiforme bovine.
 
-t) Les viandes et tous les sous-produits, à l'exclusion du cuir, issus du bovin abattu avant et des deux bovins abattus après un bovin ayant présenté un résultat non négatif à un test de dépistage de l'encéphalopathie spongiforme bovine, en l'absence de réalisation du retrait de la moelle épinière préalablement à la fente longitudinale de la carcasse en deux demis, conformément aux dispositions de l'avant-dernier alinéa de l'article 15 du présent arrêté.
+t) Les viandes et tous les sous-produits, à l'exclusion du cuir, issus du bovin abattu avant et des deux bovins abattus après un bovin pour lequel le résultat de confirmation transmis par le laboratoire de référence français pour les recherches relatives au diagnostic et à l'épidémiologie animale de l'encéphalopathie spongiforme bovine est positif ou non conclusif, en l'absence de réalisation du retrait de la moelle épinière préalablement à la fente longitudinale de la carcasse en deux demis, conformément aux dispositions de l'article 15.
 
 u) Les viandes et tous les sous-produits, y compris la peau, des animaux des espèces ovine et caprine soumis à un test de dépistage des encéphalopathies spongiformes transmissibles et ayant fourni un résultat non négatif à ce test.
 
