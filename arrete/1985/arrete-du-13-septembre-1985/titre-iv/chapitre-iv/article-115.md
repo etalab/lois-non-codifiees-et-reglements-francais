@@ -42,7 +42,7 @@ Dans le cas où pour quelque raison que ce soit la bande journal ne parviendrait
 
 4. Formulaires 3 paris
 
-Les formulaires dénommés "formulaires 3 paris" permettent aux parieurs d'engager, à la fois, un pari Tiercé unitaire, un pari Quarté Plus unitaire et un pari Quinté Plus unitaire en désignant dans un ordre préférentiel cinq chevaux inscrits au programme.
+Les formulaires 3 paris dénommés "TIC 3" permettent aux parieurs d'engager, à la fois, un pari Tiercé unitaire, un pari Quarté Plus unitaire et un pari Quinté Plus unitaire en désignant dans un ordre préférentiel cinq chevaux inscrits au programme.
 
 Le "formulaire 3 paris" comprend alors un pari Quinté Plus composé des cinq chevaux désignés, un pari Quarté Plus composé des quatre premiers chevaux désignés et un pari Tiercé composé des trois premiers chevaux désignés.
 

@@ -1,6 +1,6 @@
 # Article 15-1
 
-L'enregistrement de certains paris, par l'intermédiaire d'un système d'aide au pari, peut être proposé aux parieurs dans les postes d'enregistrement du pari mutuel urbain, aux guichets des hippodromes connectés au système central du pari mutuel fonctionnant en temps réel et sur tout ou partie des moyens d'enregistrement visés au titre III.
+L'enregistrement de certains paris, par l'intermédiaire d'un système d'aide au pari dénommé "Pariez SpOt", peut être proposé aux parieurs dans les postes d'enregistrement du Pari mutuel urbain, aux guichets des hippodromes connectés au système central du Pari mutuel urbain fonctionnant en temps réel et sur tout ou partie des moyens d'enregistrement visés au titre III.
 
 Dans ce cas, pour un type de pari donné, les paris sont générés, en tout ou partie, par le système central du Pari mutuel urbain, en fonction des paris du même type, engagés par les parieurs sans l'intermédiaire de ce système d'aide au pari.
 

@@ -1,6 +1,6 @@
 # Article 59
 
-Pour certaines épreuves désignées sur le programme officiel, des paris dénommés "tiercé" peuvent être organisés.
+Pour certaines épreuves désignées sur le programme officiel, des paris "tiercé", pouvant être également dénommés "Classic tiercé", peuvent être organisés.
 
 Un pari "tiercé" consiste à désigner trois chevaux d'une même course et à préciser leur ordre de classement à l'arrivée.
 
