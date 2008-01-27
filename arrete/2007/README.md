@@ -1004,7 +1004,6 @@
 - [Arrêté du 25 octobre 2006 (EQUA0601771A)](arrete-du-25-octobre-2006-equa0601771a)
 - [Arrêté du 25 octobre 2007 (AGRP0766865A)](arrete-du-25-octobre-2007-agrp0766865a)
 - [Arrêté du 25 octobre 2007 (BCFL0768077A)](arrete-du-25-octobre-2007-bcfl0768077a)
-- [Arrêté du 25 octobre 2007 (DEVA0769249A)](arrete-du-25-octobre-2007-deva0769249a)
 - [Arrêté du 25 septembre 2007 (DEVA0759192A)](arrete-du-25-septembre-2007-deva0759192a)
 - [Arrêté du 25 septembre 2007 (DEVT0765320A)](arrete-du-25-septembre-2007-devt0765320a)
 - [Arrêté du 25 septembre 2007 (ESRF0758691A)](arrete-du-25-septembre-2007-esrf0758691a)
