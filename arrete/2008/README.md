@@ -47,7 +47,6 @@
 - [Arrêté du 10 avril 2008 (MENH0804096A)](arrete-du-10-avril-2008-menh0804096a)
 - [Arrêté du 10 décembre 2007 (DEVN0760101A)](arrete-du-10-decembre-2007-devn0760101a)
 - [Arrêté du 10 décembre 2008 (DEVK0822981A)](arrete-du-10-decembre-2008-devk0822981a)
-- [Arrêté du 10 janvier 2008 (AGRG0800770A)](arrete-du-10-janvier-2008-agrg0800770a)
 - [Arrêté du 10 janvier 2008 (DEFH0767069A)](arrete-du-10-janvier-2008-defh0767069a)
 - [Arrêté du 10 janvier 2008 (ECES0774334A)](arrete-du-10-janvier-2008-eces0774334a)
 - [Arrêté du 11 janvier 2008 (AGRS0800820A)](arrete-du-11-janvier-2008-agrs0800820a)
