@@ -1,0 +1,9 @@
+# Article 8
+
+Le concours interne d'adjoints techniques principaux de 2e classe de l'intérieur et de l'outre-mer comporte une épreuve d'admission dénommée « épreuve de reconnaissance des acquis de l'expérience professionnelle » (RAEP). Elle a pour objectif de permettre au jury d'analyser l'expérience du candidat au regard des exigences des missions exercées par un adjoint technique de l'intérieur et de l'outre-mer.
+
+Cette épreuve consiste en la présentation par le candidat, pendant une durée de dix minutes maximum, d'un dossier établi préalablement par ses soins illustrant les différentes étapes de la réalisation de deux prestations différentes que l'intéressé aura exécutées dans le cadre de ses fonctions (ouvrages, réparations, rénovations...), en relation avec la spécialité au sein de laquelle il concourt. Cette présentation orale du dossier au jury se poursuit par un entretien portant notamment sur les aptitudes et les connaissances que le candidat doit maîtriser ainsi que sur sa capacité d'adaptation aux différentes activités relevant de la spécialité pour laquelle il concourt. (Durée totale de l'épreuve orale : trente minutes).
+
+Le dossier à présenter comporte un curriculum vitae et tous documents tendant à identifier et à démontrer les aptitudes professionnelles, les compétences et le savoir-faire du candidat. Il peut s'agir notamment de photos, schémas, plans, graphiques, vidéos. Chaque document qui rend compte de l'étape de réalisation de l'une ou de l'autre des prestations choisies par le candidat est accompagné d'un descriptif de quinze lignes maximum, manuscrites, tendant à expliquer la situation de travail qui entoure cette étape et à mettre le jury en capacité d'apprécier les compétences, les aptitudes et le savoir-faire mobilisés à cet effet par le candidat.
+
+Le dossier de format 21 × 29,7 cm ne doit pas excéder dix pages. Il est transmis à l'organisateur du concours à une date mentionnée dans l'arrêté d'ouverture du concours.
