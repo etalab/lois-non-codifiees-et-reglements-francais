@@ -97,6 +97,7 @@
 - [Décret n°2007-1811 du 21 décembre 2007 (BCFS0764774D)](decret-n2007-1811-du-21-decembre-2007-bcfs0764774d)
 - [Décret n°2008-68 du 21 janvier 2008 (AGRP0761864D)](decret-n2008-68-du-21-janvier-2008-agrp0761864d)
 - [Décret n°2008-70 du 21 janvier 2008 (BCFP0773454D)](decret-n2008-70-du-21-janvier-2008-bcfp0773454d)
+- [Décret n°53-506 du 21 mai 1953](decret-n53-506-du-21-mai-1953)
 - [Décret n°2008-1446 du 22 décembre 2008 (DEVL0809064D)](decret-n2008-1446-du-22-decembre-2008-devl0809064d)
 - [Décret n°2008-69 du 22 janvier 2008 (MTSS0774734D)](decret-n2008-69-du-22-janvier-2008-mtss0774734d)
 - [Décret n°2009-454 du 22 avril 2009 (DEVA0901439D)](decret-n2009-454-du-22-avril-2009-deva0901439d)
