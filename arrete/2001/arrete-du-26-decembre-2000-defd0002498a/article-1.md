@@ -12,4 +12,4 @@ En application des dispositions du décret du 14 juillet 1991 susvisé, les dire
 
 En outre, conformément aux dispositions de l'article 23 du décret du 8 mars 1999 et de l'article 1er de l'arrêté du 8 mars 1999 susvisés, la direction des affaires juridiques peut se réserver d'assurer la défense du ministère de la défense dans certains des recours évoqués au présent article.
 
-La répartition des ressorts des tribunaux administratifs par direction régionale ou locale des commissariatsfigure en annexe jointe.
+La répartition des ressorts des tribunaux administratifs entre les directions régionales du commissariat de l'armée de terre, les directions locales du commissariat de la marine et le service des droits financiers individuels et des affaires contentieuses figure en annexe jointe.

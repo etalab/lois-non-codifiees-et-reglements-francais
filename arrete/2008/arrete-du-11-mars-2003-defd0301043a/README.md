@@ -1,4 +1,4 @@
-# Arrêté du 11 mars 2003 relatif à la protection juridique des agents militaires et civils du ministère de la défense assurée par les services du commissariat.
+# Arrêté du 11 mars 2003 relatif à la protection juridique des agents militaires et civils du ministère de la défense assurée par le service du commissariat de l'armée de terre, le service du commissariat de la marine et le service de l'administration générale et des finances de l'armée de l'air.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
