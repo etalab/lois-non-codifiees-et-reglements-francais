@@ -46,6 +46,12 @@ Lorsque l'installation change d'exploitant, le nouvel exploitant ou son représe
 
 Lorsqu'une installation cesse l'activité au titre de laquelle elle était déclarée, son exploitant doit en informer le préfet au moins un mois avant l'arrêt définitif. La notification de l'exploitant indique les mesures de remise en état prévues ou réalisées. (Référence : article 34-1 du décret du 21 septembre 1977.)
 
+1.8. Contrôles périodiques
+
+L'installation est soumise à des contrôles périodiques par des organismes agréés dans les conditions définies aux articles R. 512-55 à R. 512-60 du code de l'environnement. Ces contrôles ont pour objet de vérifier la conformité de l'installation aux prescriptions suivantes, éventuellement modifiées par arrêté préfectoral de prescriptions spéciales, lorsqu'elles lui sont applicables.
+
+L'exploitant conserve le rapport de visite que l'organisme agréé lui adresse dans le dossier prévu au point 1.4. Si le rapport fait apparaître des non-conformités aux prescriptions susvisées, l'exploitant met en œuvre les actions correctives nécessaires pour y remédier. Ces actions ainsi que leurs dates de mise en œuvre sont formalisées et conservées dans le dossier mentionné.
+
 2. Implantation - aménagement
 
 2.1. Règles d'implantation
