@@ -153,3 +153,4 @@
 - [Décret n°2007-1405 du 28 septembre 2007 (MCCB0761126D)](decret-n2007-1405-du-28-septembre-2007-mccb0761126d)
 - [Décret n°2008-1096 du 28 octobre 2008 (DEVA0810981D)](decret-n2008-1096-du-28-octobre-2008-deva0810981d)
 - [Décret n°2008-1097 du 28 octobre 2008 (DEVA0810982D)](decret-n2008-1097-du-28-octobre-2008-deva0810982d)
+- [Décret n°2008-88 du 28 janvier 2008 (BCFS0769172D)](decret-n2008-88-du-28-janvier-2008-bcfs0769172d)
