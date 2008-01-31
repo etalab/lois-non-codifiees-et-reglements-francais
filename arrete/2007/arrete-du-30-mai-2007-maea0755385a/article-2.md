@@ -160,7 +160,7 @@ La composition des commissions administratives paritaires instituées à l'artic
 </tr>
 <tr>
 <td valign="top" width="266">
-<p>Secrétaire des affaires étrangères principal de 1re classe</p>
+<p>Secrétaire des affaires étrangères principal et conseiller technique de service social</p>
 </td>
 <td valign="top" width="126">
 <p align="center">2</p>
@@ -168,29 +168,7 @@ La composition des commissions administratives paritaires instituées à l'artic
 <td valign="top" width="76">
 <p align="center">2</p>
 </td>
-<td rowspan="4" width="98">
-<p align="center">6</p>
-</td>
-<td rowspan="4" width="76">
-<p align="center">6</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="266">
-<p>Secrétaire des affaires étrangères principal de 2e classe</p>
-</td>
-<td valign="top" width="126">
-<br/>
-</td>
-<td valign="top" width="76">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="266">
-<p>et conseiller technique de service social</p>
-</td>
-<td valign="top" width="126">
+<td valign="top" width="98">
 <p align="center">2</p>
 </td>
 <td valign="top" width="76">
@@ -202,6 +180,12 @@ La composition des commissions administratives paritaires instituées à l'artic
 <p>Secrétaire des affaires étrangères</p>
 </td>
 <td valign="top" width="126">
+<p align="center">2</p>
+</td>
+<td valign="top" width="76">
+<p align="center">2</p>
+</td>
+<td valign="top" width="98">
 <p align="center">2</p>
 </td>
 <td valign="top" width="76">
