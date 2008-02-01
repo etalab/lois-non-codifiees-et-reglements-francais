@@ -3,774 +3,726 @@
 <table>
 <tbody>
 <tr>
-<td width="317">
-<p align="center">Désignation de l'emploi justifiant de l'obtention de la nouvelle bonification indiciaire</p>
+<th>DÉSIGNATION DE L'EMPLOI <p>justifiant de l'obtention </p>
+<p>de la nouvelle bonification indiciaire <br/>
+</p>
+</th>
+<th>
+<br/>NIVEAU DE L'EMPLOI <p>justifiant de l'obtention </p>
+<p>de la nouvelle bonification </p>
+<p>indiciaire <br/>
+</p>
+</th>
+<th>
+<br/>NOMBRE D'EMPLOIS <p>éligibles <br/>
+</p>
+</th>
+<th>
+<br/>NOMBRE DE POINTS <p>par emploi </p>
+<p>(points en indice majoré) <br/>
+</p>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>Responsable du budget et / ou du contrôle de gestion et / ou des moyens généraux et / ou du service du personnel et / ou du contentieux d'une direction <br/>
 </td>
-<td width="119">
-<p align="center">Niveau de l'emploi justifiant de l'obtention de la nouvelle bonification indiciaire</p>
+<td align="center">
+<br/>A <br/>
 </td>
-<td>
-<p align="center">Nombre d'emplois éligibles</p>
+<td align="center">
+<br/>2 <br/>
 </td>
-<td>
-<p align="center">Nombre de points par emploi (points en indice majoré)</p>
+<td align="center">
+<br/>40 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="317">
-<p>Responsable du budget et/ou du contrôle de gestion et/ou des moyens généraux et/ou du service du personnel et/ou du contentieux d'une direction et/ou responsable recrutement carrières à la CNP Assurances</p>
+<td align="center">
+<br/>Secrétaire du conseil d'administration de la Caisse nationale de retraite des agents des collectivités locales (CNRACL) <br/>
 </td>
-<td width="119">
-<p align="center">A</p>
+<td align="center">
+<br/>A <br/>
 </td>
-<td>
-<p align="center">2</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">40</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="317">
-<p>Secrétaire du conseil d'administration de la Caisse nationale de retraite des agents des collectivités locales (CNRACL)</p>
-</td>
-<td width="119">
-<p align="center">A</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">40</p>
+<td align="center">
+<br/>40 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="317">
-<p>Chargé d'études financières et/ou analyste de contreparties</p>
+<td align="center">
+<br/>Chargé d'études financières et / ou analyste de contreparties <br/>
 </td>
-<td width="119">
-<p align="center">A</p>
+<td align="center">
+<br/>A <br/>
 </td>
-<td>
-<p align="center">2</p>
+<td align="center">
+<br/>3 <br/>
 </td>
-<td>
-<p align="center">40</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="317">
-<p>Secrétaire du conseil d'administration de l'Etablissement de retraite additionnelle de la fonction publique (ERAFP)</p>
-</td>
-<td width="119">
-<p align="center">A</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">40</p>
+<td align="center">
+<br/>40 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="317">
-<p>Secrétaire du conseil d'administration de l'Institution de retraite complémentaire des agents non titulaires de l'Etat et des collectivités publiques (IRCANTEC)</p>
+<td align="center">
+<br/>Actuaire responsable de l'unité inventaire du portefeuille de la CNP Assurances <br/>
 </td>
-<td width="119">
-<p align="center">A</p>
+<td align="center">
+<br/>A <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">40</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="317">
-<p>Actuaire responsable de l'unité inventaire du portefeuille de la CNP Assurances</p>
-</td>
-<td width="119">
-<p align="center">A</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">30</p>
+<td align="center">
+<br/>30 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="317">
-<p>Juriste de contentieux au niveau fédéral ou au niveau d'une direction</p>
+<td align="center">
+<br/>Juriste spécialisé <br/>
 </td>
-<td width="119">
-<p align="center">A</p>
+<td align="center">
+<br/>A <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>2 <br/>
 </td>
-<td>
-<p align="center">30</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="317">
-<p>Contrôleur de gestion de plusieurs filiales de la CNP Assurances</p>
-</td>
-<td width="119">
-<p align="center">A</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">30</p>
+<td align="center">
+<br/>30 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="317">
-<p>Chef d'unité opérationnelle ou fonctionnelle dans le domaine des assurances ou responsable du service aux assurés B</p>
+<td align="center">
+<br/>Chef d'unité opérationnelle ou fonctionnelle dans le domaine des assurances ou responsable du service aux assurés B <br/>
 </td>
-<td width="119">
-<p align="center">A</p>
+<td align="center">
+<br/>A <br/>
 </td>
-<td>
-<p align="center">4</p>
+<td align="center">
+<br/>4 <br/>
 </td>
-<td>
-<p align="center">30</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="317">
-<p>Responsable de la gestion statutaire et/ou des affaires générales d'une direction ou d'un département</p>
-</td>
-<td width="119">
-<p align="center">A</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">30</p>
+<td align="center">
+<br/>30 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="317">
-<p>Agent ayant un pouvoir de décision, d'animation et de coordination du niveau d'un responsable d'unité ou assistant d'un chef de service</p>
+<td align="center">
+<br/>Responsable de la gestion statutaire et / ou des affaires générales d'une direction ou d'un département <br/>
 </td>
-<td width="119">
-<p align="center">A</p>
+<td align="center">
+<br/>A <br/>
 </td>
-<td>
-<p align="center">47</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">30</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="317">
-<p>Chef de projet</p>
-</td>
-<td width="119">
-<p align="center">A</p>
-</td>
-<td>
-<p align="center">2</p>
-</td>
-<td>
-<p align="center">30</p>
+<td align="center">
+<br/>30 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="317">
-<p>Assistant marketing</p>
+<td align="center">
+<br/>Agent ayant un pouvoir de décision, d'animation et de coordination du niveau d'un responsable d'unité ou assistant d'un chef de service <br/>
 </td>
-<td width="119">
-<p align="center">B</p>
+<td align="center">
+<br/>A <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>51 (1)<br/>
 </td>
-<td>
-<p align="center">25</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="317">
-<p>Gestionnaire de clientèle</p>
-</td>
-<td width="119">
-<p align="center">B</p>
-</td>
-<td>
-<p align="center">3</p>
-</td>
-<td>
-<p align="center">25</p>
+<td align="center">
+<br/>30 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="317">
-<p>Développeur d'applications sur Info Service</p>
+<td align="center">
+<br/>Chef de projet <br/>
 </td>
-<td width="119">
-<p align="center">B</p>
+<td align="center">
+<br/>A <br/>
 </td>
-<td>
-<p align="center">3</p>
+<td align="center">
+<br/>2 <br/>
 </td>
-<td>
-<p align="center">25</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="317">
-<p>Développeur micro-informatique pour le réseau habitat de l'ensemble des directions régionales et pour le réseau équipement</p>
-</td>
-<td width="119">
-<p align="center">B</p>
-</td>
-<td>
-<p align="center">2</p>
-</td>
-<td>
-<p align="center">25</p>
+<td align="center">
+<br/>30 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="317">
-<p>Agent assurant, par délégation d'un chef d'unité, la gestion d'un secteur d'activité comportant une technicité particulièrement étendue en terme de connaissance bancaire ou des marchés financiers</p>
+<td align="center">
+<br/>Assistant marketing <br/>
 </td>
-<td width="119">
-<p align="center">B</p>
+<td align="center">
+<br/>B <br/>
 </td>
-<td>
-<p align="center">17</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">25</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="317">
-<p>Chargé du recrutement et/ou des carrières et/ou de la mobilité et/ou d'orientation professionnelle au niveau fédéral ou au niveau d'une direction</p>
-</td>
-<td width="119">
-<p align="center">B</p>
-</td>
-<td>
-<p align="center">3</p>
-</td>
-<td>
-<p align="center">25</p>
+<td align="center">
+<br/>25 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="317">
-<p>Chargé de gestion statutaire ou financière au niveau fédéral dans le domaine administratif ou informatique</p>
+<td align="center">
+<br/>Gestionnaire de clientèle <br/>
 </td>
-<td width="119">
-<p align="center">B</p>
+<td align="center">
+<br/>B <br/>
 </td>
-<td>
-<p align="center">3</p>
+<td align="center">
+<br/>3 <br/>
 </td>
-<td>
-<p align="center">25</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="317">
-<p>Technicien de maintenance des installations de climatisation et de chauffage (site parisien) ou du dispositif téléphonique (site bordelais)</p>
-</td>
-<td width="119">
-<p align="center">B</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">25</p>
+<td align="center">
+<br/>25 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="317">
-<p>Responsable du secteur des affaires générales du comité social d'établissement ou directeurs administratifs adjoints du comité social d'établissement</p>
+<td align="center">
+<br/>Développeur d'applications sur Info Service <br/>
 </td>
-<td width="119">
-<p align="center">B</p>
+<td align="center">
+<br/>B <br/>
 </td>
-<td>
-<p align="center">3</p>
+<td align="center">
+<br/>2 <br/>
 </td>
-<td>
-<p align="center">25</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="317">
-<p>Opérateur de marchés</p>
-</td>
-<td width="119">
-<p align="center">B</p>
-</td>
-<td>
-<p align="center">2</p>
-</td>
-<td>
-<p align="center">20</p>
+<td align="center">
+<br/>25 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="317">
-<p>Technicien des opérations post-marché ou d'opérations bancaires et/ou financières sur secteurs prioritaires</p>
+<td align="center">
+<br/>Développeur micro-informatique pour le réseau habitat de l'ensemble des directions régionales et pour le réseau équipement <br/>
 </td>
-<td width="119">
-<p align="center">B</p>
+<td align="center">
+<br/>B <br/>
 </td>
-<td>
-<p align="center">35</p>
+<td align="center">
+<br/>2 <br/>
 </td>
-<td>
-<p align="center">20</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="317">
-<p>Gestionnaire de transfert de prêts</p>
-</td>
-<td width="119">
-<p align="center">B</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">20</p>
+<td align="center">
+<br/>25 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="317">
-<p>Chargé de clientèle exerçant des responsabilités particulières dans le domaine commercial et financier</p>
+<td align="center">
+<br/>Agent assurant, par délégation d'un chef d'unité, la gestion d'un secteur d'activité comportant une technicité particulièrement étendue en termes de connaissance bancaire ou des marchés financiers <br/>
 </td>
-<td width="119">
-<p align="center">B</p>
+<td align="center">
+<br/>B <br/>
 </td>
-<td>
-<p align="center">13</p>
+<td align="center">
+<br/>17 <br/>
 </td>
-<td>
-<p align="center">20</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="317">
-<p>Technicien d'actuariat informatique</p>
-</td>
-<td width="119">
-<p align="center">B</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">20</p>
+<td align="center">
+<br/>25 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="317">
-<p>Assistant juridique et fiscal au niveau fédéral ou au niveau d'une direction</p>
+<td align="center">
+<br/>Chargé du recrutement et / ou des carrières et / ou de la mobilité et / ou d'orientation professionnelle au niveau fédéral ou au niveau d'une direction <br/>
 </td>
-<td width="119">
-<p align="center">B</p>
+<td align="center">
+<br/>B <br/>
 </td>
-<td>
-<p align="center">5</p>
+<td align="center">
+<br/>3 <br/>
 </td>
-<td>
-<p align="center">20</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="317">
-<p>Comptable responsable de service opérationnel important</p>
-</td>
-<td width="119">
-<p align="center">B</p>
-</td>
-<td>
-<p align="center">2</p>
-</td>
-<td>
-<p align="center">20</p>
+<td align="center">
+<br/>25 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="317">
-<p>Comptable de production bancaire ou d'opérations fournisseurs au niveau d'une direction</p>
+<td align="center">
+<br/>Chargé de gestion statutaire ou financière au niveau fédéral dans le domaine administratif ou informatique <br/>
 </td>
-<td width="119">
-<p align="center">B</p>
+<td align="center">
+<br/>B <br/>
 </td>
-<td>
-<p align="center">6</p>
+<td align="center">
+<br/>4 <br/>
 </td>
-<td>
-<p align="center">20</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="317">
-<p>Gestionnaire de plusieurs systèmes d'information</p>
-</td>
-<td width="119">
-<p align="center">B</p>
-</td>
-<td>
-<p align="center">37</p>
-</td>
-<td>
-<p align="center">20</p>
+<td align="center">
+<br/>25 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="317">
-<p>Assistant de direction</p>
+<td align="center">
+<br/>Technicien de maintenance des installations de climatisation et de chauffage (site parisien) <br/>
 </td>
-<td width="119">
-<p align="center">B</p>
+<td align="center">
+<br/>B <br/>
 </td>
-<td>
-<p align="center">35</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">20</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="317">
-<p>Assistant de contrôle budgétaire et/ou de gestion pour une direction, un département, un site ou chargé d'une responsabilité fonctionnelle particulière</p>
-</td>
-<td width="119">
-<p align="center">B</p>
-</td>
-<td>
-<p align="center">41</p>
-</td>
-<td>
-<p align="center">20</p>
+<td align="center">
+<br/>25 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="317">
-<p>Responsable de la gestion des indemnités de caractère social et culturel au niveau fédéral</p>
+<td align="center">
+<br/>Responsable du secteur des affaires générales ou directeurs administratifs adjoints du comité social du groupe <br/>
 </td>
-<td width="119">
-<p align="center">B</p>
+<td align="center">
+<br/>B <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>2 <br/>
 </td>
-<td>
-<p align="center">20</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="317">
-<p>Documentaliste spécialisé au niveau fédéral ou au niveau d'une direction</p>
-</td>
-<td width="119">
-<p align="center">B</p>
-</td>
-<td>
-<p align="center">3</p>
-</td>
-<td>
-<p align="center">20</p>
+<td align="center">
+<br/>25 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="317">
-<p>Conducteur d'opérations BTP (site parisien)</p>
+<td align="center">
+<br/>Opérateur de marchés <br/>
 </td>
-<td width="119">
-<p align="center">B</p>
+<td align="center">
+<br/>B <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>2 <br/>
 </td>
-<td>
-<p align="center">20</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="317">
-<p>Responsable exploitation transport</p>
-</td>
-<td width="119">
-<p align="center">B</p>
-</td>
-<td>
-<p align="center">3</p>
-</td>
-<td>
-<p align="center">20</p>
+<td align="center">
+<br/>20 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="317">
-<p>Gestionnaire du service intérim interne au niveau fédéral</p>
+<td align="center">
+<br/>Technicien des opérations post-marché ou d'opérations bancaires et / ou financières sur secteurs prioritaires <br/>
 </td>
-<td width="119">
-<p align="center">B</p>
+<td align="center">
+<br/>B <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>34 <br/>
 </td>
-<td>
-<p align="center">20</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="317">
-<p>Responsable de la gestion de l'encouragement à la prévoyance individuelle (EPI) au niveau fédéral</p>
-</td>
-<td width="119">
-<p align="center">B</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">20</p>
+<td align="center">
+<br/>20 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="317">
-<p>Chargé de la communication d'un département ou d'une direction</p>
+<td align="center">
+<br/>Gestionnaire de transfert de prêts <br/>
 </td>
-<td width="119">
-<p align="center">B</p>
+<td align="center">
+<br/>B <br/>
 </td>
-<td>
-<p align="center">8</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">20</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="317">
-<p>Technicien de production bancaire exerçant des responsabilités particulières dans les évolutions système </p>
-</td>
-<td width="119">
-<p align="center">B</p>
-</td>
-<td>
-<p align="center">6</p>
-</td>
-<td>
-<p align="center">20</p>
+<td align="center">
+<br/>20 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="317">
-<p>Responsable de l'accueil téléphonique ou gestionnaire de l'autocommutateur à la branche Caisses de retraites de Bordeaux et/ou responsable du standard de Paris</p>
+<td align="center">
+<br/>Chargé de clientèle exerçant des responsabilités particulières dans le domaine commercial et financier <br/>
 </td>
-<td width="119">
-<p align="center">B</p>
+<td align="center">
+<br/>B <br/>
 </td>
-<td>
-<p align="center">3</p>
+<td align="center">
+<br/>15 <br/>
 </td>
-<td>
-<p align="center">20</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="317">
-<p>Responsable d'un secteur d'activité comportant une technicité et une responsabilité particulière dans le domaine bancaire et/ou dans le domaine des prestations de service</p>
-</td>
-<td width="119">
-<p align="center">B</p>
-</td>
-<td>
-<p align="center">4</p>
-</td>
-<td>
-<p align="center">20</p>
+<td align="center">
+<br/>20 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="317">
-<p>Responsable audiovisuel</p>
+<td align="center">
+<br/>Technicien d'actuariat informatique <br/>
 </td>
-<td width="119">
-<p align="center">B</p>
+<td align="center">
+<br/>B <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">20</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="317">
-<p>Responsable de la réglementation paie</p>
-</td>
-<td width="119">
-<p align="center">B</p>
-</td>
-<td>
-<p align="center">2</p>
-</td>
-<td>
-<p align="center">20</p>
+<td align="center">
+<br/>20 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="317">
-<p>Assistant de gestion statutaire et/ou financière et/ou de formation des personnels au niveau d'une branche ou au niveau fédéral</p>
+<td align="center">
+<br/>Assistant juridique et fiscal au niveau fédéral ou au niveau d'une direction <br/>
 </td>
-<td width="119">
-<p align="center">B</p>
+<td align="center">
+<br/>B <br/>
 </td>
-<td>
-<p align="center">21</p>
+<td align="center">
+<br/>5 <br/>
 </td>
-<td>
-<p align="center">20</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="317">
-<p>Chargé d'étude pour l'établissement du bilan social du groupe</p>
-</td>
-<td width="119">
-<p align="center">B</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">20</p>
+<td align="center">
+<br/>20 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="317">
-<p>Responsable d'une unité de gestion ou de production de contrats d'assurance</p>
+<td align="center">
+<br/>Comptable responsable de service opérationnel important <br/>
 </td>
-<td width="119">
-<p align="center">B</p>
+<td align="center">
+<br/>B <br/>
 </td>
-<td>
-<p align="center">12</p>
+<td align="center">
+<br/>3 <br/>
 </td>
-<td>
-<p align="center">20</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="317">
-<p>Chargé d'études et de coordination</p>
-</td>
-<td width="119">
-<p align="center">B</p>
-</td>
-<td>
-<p align="center">5</p>
-</td>
-<td>
-<p align="center">20</p>
+<td align="center">
+<br/>20 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="317">
-<p>Analyste financier</p>
+<td align="center">
+<br/>Comptable de production bancaire ou d'opérations fournisseurs au niveau d'une direction <br/>
 </td>
-<td width="119">
-<p align="center">B</p>
+<td align="center">
+<br/>B <br/>
 </td>
-<td>
-<p align="center">2</p>
+<td align="center">
+<br/>6 <br/>
 </td>
-<td>
-<p align="center">20</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="317">
-<p>Gestionnaire expert</p>
-</td>
-<td width="119">
-<p align="center">B</p>
-</td>
-<td>
-<p align="center">113</p>
-</td>
-<td>
-<p align="center">15</p>
+<td align="center">
+<br/>20 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="317">
-<p>Responsable du contentieux et des affaires générales au sein d'une unité administrative chargée de la gestion d'un fonds de la branche caisses de retraites de Bordeaux</p>
+<td align="center">
+<br/>Gestionnaire de plusieurs systèmes d'information <br/>
 </td>
-<td width="119">
-<p align="center">B</p>
+<td align="center">
+<br/>B <br/>
 </td>
-<td>
-<p align="center">3</p>
+<td align="center">
+<br/>38 <br/>
 </td>
-<td>
-<p align="center">15</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="317">
-<p>Responsable de la fonction correspondant informatique ou de la fonction correspondant réseau ou de la coordination des projets informatiques au sein de la branche caisses de retraites de Bordeaux</p>
-</td>
-<td width="119">
-<p align="center">B</p>
-</td>
-<td>
-<p align="center">16</p>
-</td>
-<td>
-<p align="center">15</p>
+<td align="center">
+<br/>20 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="317">
-<p>Animateur de groupe</p>
+<td align="center">
+<br/>Assistant de direction <br/>
 </td>
-<td width="119">
-<p align="center">B</p>
+<td align="center">
+<br/>B <br/>
 </td>
-<td>
-<p align="center">170</p>
+<td align="center">
+<br/>45 <br/>
 </td>
-<td>
-<p align="center">15</p>
+<td align="center">
+<br/>20 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="317">
-<p>Gestionnaire logistique polyvalent </p>
+<td align="center">
+<br/>Assistant de contrôle budgétaire et / ou de gestion pour une direction, un département, un site, ou chargé d'une responsabilité fonctionnelle particulière <br/>
 </td>
-<td width="119">
-<p align="center">C</p>
+<td align="center">
+<br/>B <br/>
 </td>
-<td>
-<p align="center">10</p>
+<td align="center">
+<br/>38 <br/>
 </td>
-<td>
-<p align="center">15</p>
+<td align="center">
+<br/>20 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Documentaliste spécialisé au niveau fédéral ou au niveau d'une direction <br/>
+</td>
+<td align="center">
+<br/>B <br/>
+</td>
+<td align="center">
+<br/>2 <br/>
+</td>
+<td align="center">
+<br/>20 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Conducteur d'opérations BTP (site parisien) <br/>
+</td>
+<td align="center">
+<br/>B <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>20 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Responsable exploitation transport <br/>
+</td>
+<td align="center">
+<br/>B <br/>
+</td>
+<td align="center">
+<br/>3 <br/>
+</td>
+<td align="center">
+<br/>20 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Recruteur et gestionnaire des personnels non permanents <br/>
+</td>
+<td align="center">
+<br/>B <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>20 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Responsable de la gestion de l'encouragement à la prévoyance individuelle (EPI) au niveau fédéral <br/>
+</td>
+<td align="center">
+<br/>B <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>20 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chargé de la communication d'un département ou d'une direction <br/>
+</td>
+<td align="center">
+<br/>B <br/>
+</td>
+<td align="center">
+<br/>8 (1)<br/>
+</td>
+<td align="center">
+<br/>20 </td>
+</tr>
+<tr>
+<td align="center">
+<br/>Technicien de production bancaire exerçant des responsabilités particulières dans les évolutions système <br/>
+</td>
+<td align="center">
+<br/>B <br/>
+</td>
+<td align="center">
+<br/>6 <br/>
+</td>
+<td align="center">
+<br/>20 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Responsable du standard de Paris <br/>
+</td>
+<td align="center">
+<br/>B <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>20 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Responsable d'un secteur d'activité comportant une technicité et une responsabilité particulière dans le domaine bancaire et / ou dans le domaine des prestations de services <br/>
+</td>
+<td align="center">
+<br/>B <br/>
+</td>
+<td align="center">
+<br/>4 <br/>
+</td>
+<td align="center">
+<br/>20 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Responsable audiovisuel <br/>
+</td>
+<td align="center">
+<br/>B <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>20 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Responsable de la réglementation paie <br/>
+</td>
+<td align="center">
+<br/>B <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>20 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Assistant de gestion statutaire et / ou financière et / ou de formation des personnels au niveau d'une branche ou au niveau fédéral <br/>
+</td>
+<td align="center">
+<br/>B <br/>
+</td>
+<td align="center">
+<br/>25 <br/>
+</td>
+<td align="center">
+<br/>20 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chargé d'étude pour l'établissement du bilan social du groupe <br/>
+</td>
+<td align="center">
+<br/>B <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>20 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Responsable d'une unité de gestion ou de production de contrats d'assurance <br/>
+</td>
+<td align="center">
+<br/>B <br/>
+</td>
+<td align="center">
+<br/>8 <br/>
+</td>
+<td align="center">
+<br/>20 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chargé d'études et de coordination <br/>
+</td>
+<td align="center">
+<br/>B <br/>
+</td>
+<td align="center">
+<br/>6 <br/>
+</td>
+<td align="center">
+<br/>20 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Analyste financier <br/>
+</td>
+<td align="center">
+<br/>B <br/>
+</td>
+<td align="center">
+<br/>2 <br/>
+</td>
+<td align="center">
+<br/>20 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Gestionnaire expert <br/>
+</td>
+<td align="center">
+<br/>B <br/>
+</td>
+<td align="center">
+<br/>103 (1)<br/>
+</td>
+<td align="center">
+<br/>15 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Responsable du contentieux et des affaires générales au sein d'une unité administrative chargée de la gestion d'un fonds de la branche caisses de retraites de Bordeaux <br/>
+</td>
+<td align="center">
+<br/>B <br/>
+</td>
+<td align="center">
+<br/>3 <br/>
+</td>
+<td align="center">
+<br/>15 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Responsable de la fonction correspondant informatique ou de la fonction correspondant réseau ou de la coordination des projets informatiques au sein de la branche caisses de retraites de Bordeaux <br/>
+</td>
+<td align="center">
+<br/>B <br/>
+</td>
+<td align="center">
+<br/>23 <br/>
+</td>
+<td align="center">
+<br/>15 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Animateur de groupe <br/>
+</td>
+<td align="center">
+<br/>B <br/>
+</td>
+<td align="center">
+<br/>159 (1)<br/>
+</td>
+<td align="center">
+<br/>15 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Gestionnaire logistique polyvalent <br/>
+</td>
+<td align="center">
+<br/>C <br/>
+</td>
+<td align="center">
+<br/>10 <br/>
+</td>
+<td align="center">
+<br/>15<br/>
 </td>
 </tr>
 </tbody>
 </table>
+
+(1) Le nombre d'emplois éligibles était pour chaque emploi désigné respectivement de 50, 7, 105, et 160 au 1er janvier 2008.
