@@ -1,3 +1,3 @@
 # Article 1
 
-Les préfets de région, les préfets de département, peuvent, après avis du trésorier-payeur général, créer et réviser, par arrêté, des régies d'avances auprès des directions régionales des impôts et des directions des services fiscaux, dans les conditions fixées par le décret du 20 juillet 1992.
+Le préfet de la région Ile-de-France, le préfet de Paris, les préfets de région et les préfets de département peuvent, après avis du trésorier-payeur général, créer et réviser, par arrêtés, des régies d'avances et de recettes auprès des directions des services fiscaux.

@@ -1,3 +1,5 @@
 # Article 8
 
-L'arrêté du 4 décembre 1991 habilitant les préfets à instituer ou à modifier des régies d'avances auprès des services territoriaux de la direction générale des impôts est abrogé.
+Le présent arrêté est applicable à compter du 1er janvier 1993.
+
+Les régies d'avances créées antérieurement à la parution du décret du 20 juillet 1992 peuvent continuer à fonctionner jusqu'au 31 décembre 1993, conformément à l'article 17, alinéa 2, dudit décret.

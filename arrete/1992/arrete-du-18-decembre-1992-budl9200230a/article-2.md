@@ -1,3 +1,3 @@
 # Article 2
 
-Le préfet de la région d'Ile-de-France, préfet de Paris, est également habilité à créer et réviser, par arrêté, des régies d'avances auprès de la délégation régionale pour la région d'Ile-de-France et des deux directions de vérifications de la région d'Ile-de-France (D.V.R.I.F.-Est et D.V.R.I.F.-Ouest) et auprès de la direction des services fonciers de Paris, dans les conditions fixées par le décret du 20 juillet 1992.
+Les régies de recettes ou d'avances et de recettes instituées auprès des directions des services fiscaux peuvent uniquement, en matière de recettes, encaisser la part agent des titres-restaurant pour le compte de la direction des personnes et de l'adaptation de l'environnement professionnel (DPAEP). Ces recettes sont transférées chaque fin de mois au trésorier-payeur général teneur du compte de dépôts de fonds au Trésor du régisseur.

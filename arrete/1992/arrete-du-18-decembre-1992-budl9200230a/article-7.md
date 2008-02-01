@@ -1,3 +1,3 @@
 # Article 7
 
-Les régisseurs d'avances nommés en application de l'article 4 du présent arrêté peuvent être habilités à effectuer le paiement des dépenses incombant aux services déconcentrés de la direction générale des impôts énumérées à l'article 10 du décret du 20 juillet 1992 susvisé, autres que celles relatives à l'activité des services sociaux payées pour le compte de la direction du personnel et des services généraux. Le montant maximal des dépenses susceptibles d'être payées par ces régies est fixé à 5 000 F par opération pour les dépenses de matériel et à 5 000 F par réception pour les dépenses exposées à l'occasion de réceptions.
+L'arrêté du 4 décembre 1991 habilitant les préfets à instituer ou à modifier des régies d'avances auprès des services territoriaux de la direction générale des impôts est abrogé.

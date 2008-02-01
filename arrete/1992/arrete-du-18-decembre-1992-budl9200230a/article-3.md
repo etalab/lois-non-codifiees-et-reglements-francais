@@ -1,3 +1,3 @@
 # Article 3
 
-Copie des arrêtés pris en application des dispositions des articles 1er et 2 précités est adressée à la direction générale des impôts.
+Le régisseur, choisi parmi les fonctionnaires titulaires de l'Etat, est nommé par arrêté du préfet après agrément du comptable assignataire. Copie de l'arrêté de nomination est adressée à la direction générale des impôts.

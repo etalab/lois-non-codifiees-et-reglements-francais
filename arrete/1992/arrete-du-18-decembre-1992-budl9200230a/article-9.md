@@ -1,5 +1,3 @@
 # Article 9
 
-Le présent arrêté est applicable à compter du 1er janvier 1993.
-
-Les régies d'avances créées antérieurement à la parution du décret du 20 juillet 1992 peuvent continuer à fonctionner jusqu'au 31 décembre 1993, conformément à l'article 17, alinéa 2, dudit décret.
+Le directeur de la comptabilité publique et le directeur général des impôts sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
