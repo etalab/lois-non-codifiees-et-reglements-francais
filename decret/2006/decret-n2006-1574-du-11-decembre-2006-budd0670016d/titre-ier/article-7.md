@@ -1,6 +1,6 @@
 # Article 7
 
-La fermeture de l'entrepôt fiscal de produits énergétiques fait l'objet d'une décision du directeur général des douanes et droits indirects, ou du directeur régional territorialement compétent s'agissant des entrepôts fiscaux de production d'huiles végétales pures, laquelle peut intervenir :
+La fermeture définitive ou temporaire de l'entrepôt fiscal de produits énergétiques fait l'objet d'une décision du directeur général des douanes et droits indirects, ou du directeur régional territorialement compétent s'agissant des entrepôts fiscaux de production ou de stockage d'huiles végétales pures, laquelle peut intervenir :
 
 - à la demande du titulaire de l'autorisation d'exploiter ;
 

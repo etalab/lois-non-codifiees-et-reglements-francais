@@ -1,13 +1,15 @@
 # Article 22
 
-L'autorisation constitutive de l'entrepôt est délivrée pour une durée de cinq ans au titulaire de l'entrepôt fiscal. Elle reprend, outre les éléments mentionnés à l'article 4 du présent décret :
+L'autorisation constitutive de l'entrepôt est délivrée pour une durée de cinq ans au titulaire de l'entrepôt fiscal de stockage ou de production d'huiles végétales pures. Elle reprend les éléments cités à l'article 4 du présent décret.
 
-- le numéro de série de chaque presse utilisée au sein de l'entrepôt ;
+S'agissant de l'entrepôt fiscal de production d'huiles végétales pures, cette autorisation doit par ailleurs mentionner :
 
-- le caractère fixe ou mobile de chaque presse ;
+-le numéro de série de chaque presse utilisée au sein de l'entrepôt ;
 
-- la liste des exploitants agricoles dont les plantes oléagineuses sont pressées au sein de l'entrepôt fiscal ;
+-le caractère fixe ou mobile de chaque presse ;
 
-- le ou les lieux d'utilisation de chaque presse.
+-la liste des exploitants agricoles dont les plantes oléagineuses sont pressées au sein de l'entrepôt fiscal ;
 
-Une copie de cette autorisation doit être détenue par chacun des exploitants agricoles, y compris en cas de modification prise en application de l'article 6.
+-le ou les lieux d'utilisation de chaque presse.
+
+Une copie de l'autorisation constitutive de l'entrepôt fiscal de production doit être détenue par chacun des exploitants agricoles, y compris en cas de modification prise en application de l'article 6.
