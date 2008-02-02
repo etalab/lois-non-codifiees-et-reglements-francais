@@ -438,6 +438,7 @@
 - [Décret n°2006-945 du 28 juillet 2006 (SOCC0611650D)](decret-n2006-945-du-28-juillet-2006-socc0611650d)
 - [Décret n°90-437 du 28 mai 1990 (PRMG9070213D)](decret-n90-437-du-28-mai-1990-prmg9070213d)
 - [Décret n°2006-1087 du 29 août 2006 (INTB0600194D)](decret-n2006-1087-du-29-aout-2006-intb0600194d)
+- [Décret n°2006-1093 du 29 août 2006 (MENS0602057D)](decret-n2006-1093-du-29-aout-2006-mens0602057d)
 - [Décret n°2006-1204 du 29 septembre 2006 (MJSK0670206D)](decret-n2006-1204-du-29-septembre-2006-mjsk0670206d)
 - [Décret n°2006-1478 du 29 novembre 2006 (JUSK0640263D)](decret-n2006-1478-du-29-novembre-2006-jusk0640263d)
 - [Décret n°2006-1479 du 29 novembre 2006 (EQUP0601981D)](decret-n2006-1479-du-29-novembre-2006-equp0601981d)
