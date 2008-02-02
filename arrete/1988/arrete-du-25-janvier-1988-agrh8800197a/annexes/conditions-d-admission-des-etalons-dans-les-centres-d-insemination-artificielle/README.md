@@ -1,3 +1,0 @@
-# CONDITIONS D'ADMISSION DES ÉTALONS DANS LES CENTRES D'INSÉMINATION ARTIFICIELLE
-
-- [Article Annexe IV bis](article-annexe-iv-bis.md)

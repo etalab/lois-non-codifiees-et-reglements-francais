@@ -236,7 +236,6 @@
 - [Arrêté du 8 juillet 1996 (INTC9600249A)](arrete-du-8-juillet-1996-intc9600249a)
 - [Arrêté du 8 juillet 1996 (TASS9622796A)](arrete-du-8-juillet-1996-tass9622796a)
 - [Arrêté du 8 juin 1996 (AGRG9601217A)](arrete-du-8-juin-1996-agrg9601217a)
-- [Arrêté du 8 mars 1996 (AGRG9600529A)](arrete-du-8-mars-1996-agrg9600529a)
 - [Arrêté du 8 mars 1996 (BUDZ9600005A)](arrete-du-8-mars-1996-budz9600005a)
 - [Arrêté du 8 mars 1996 (BUDZ9600006A)](arrete-du-8-mars-1996-budz9600006a)
 - [Arrêté du 8 mars 1996 (FCEC9600049A)](arrete-du-8-mars-1996-fcec9600049a)

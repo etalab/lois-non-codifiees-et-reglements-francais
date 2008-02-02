@@ -418,7 +418,6 @@
 - [Arrêté du 25 février 1988 (ASEA8800348A)](arrete-du-25-fevrier-1988-asea8800348a)
 - [Arrêté du 25 février 1988 (ECOX8810151A)](arrete-du-25-fevrier-1988-ecox8810151a)
 - [Arrêté du 25 février 1988 (TRSA8800167A)](arrete-du-25-fevrier-1988-trsa8800167a)
-- [Arrêté du 25 janvier 1988 (AGRH8800197A)](arrete-du-25-janvier-1988-agrh8800197a)
 - [Arrêté du 25 janvier 1988 (MEND8800084A)](arrete-du-25-janvier-1988-mend8800084a)
 - [Arrêté du 25 juillet 1988 (BUDZ8800007A)](arrete-du-25-juillet-1988-budz8800007a)
 - [Arrêté du 25 juillet 1988 (BUDZ8800008A)](arrete-du-25-juillet-1988-budz8800008a)
