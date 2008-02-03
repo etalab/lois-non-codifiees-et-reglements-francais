@@ -8,4 +8,4 @@ Les informations traitées sont issues :
 
 - des applications ILIAD, IR, MAJIC 2, télédéclaration IR, TH et SIR pour ce qui concerne les éléments d'imposition, les données de recoupement et les avis de taxation ;
 
-- des applications MEN/REC et GIR (module de paiement SATELIT) de la direction générale de la comptabilité publique pour ce qui concerne les données de paiement.
+- des applications MEN/REC, GIR (module de paiement SATELIT) et RAR de la direction générale de la comptabilité publique pour ce qui concerne les données de paiement.
