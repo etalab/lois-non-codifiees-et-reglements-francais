@@ -138,7 +138,6 @@
 - [Arrêté du 7 mai 1987](arrete-du-7-mai-1987)
 - [Arrêté du 7 mai 1987 (ECOT8750025A)](arrete-du-7-mai-1987-ecot8750025a)
 - [Arrêté du 8 août 1973](arrete-du-8-aout-1973)
-- [Arrêté du 8 décembre 1986](arrete-du-8-decembre-1986)
 - [Arrêté du 8 décembre 1987 (AGRE8702163A)](arrete-du-8-decembre-1987-agre8702163a)
 - [Arrêté du 8 décembre 1987 (MCCF8700525A)](arrete-du-8-decembre-1987-mccf8700525a)
 - [Arrêté du 8 janvier 1987](arrete-du-8-janvier-1987)

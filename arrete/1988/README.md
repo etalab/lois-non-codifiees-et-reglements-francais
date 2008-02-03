@@ -496,7 +496,6 @@
 - [Arrêté du 29 février 1988 (MDSD8800099A)](arrete-du-29-fevrier-1988-mdsd8800099a)
 - [Arrêté du 29 janvier 1988 (ECOC8700104A)](arrete-du-29-janvier-1988-ecoc8700104a)
 - [Arrêté du 29 janvier 1988 (ECOC8800003A)](arrete-du-29-janvier-1988-ecoc8800003a)
-- [Arrêté du 29 janvier 1988 (MCCB8800044A)](arrete-du-29-janvier-1988-mccb8800044a)
 - [Arrêté du 29 janvier 1988 (PTTT8800110A)](arrete-du-29-janvier-1988-pttt8800110a)
 - [Arrêté du 29 janvier 1988 (TRSA8800096A)](arrete-du-29-janvier-1988-trsa8800096a)
 - [Arrêté du 29 juillet 1977](arrete-du-29-juillet-1977)

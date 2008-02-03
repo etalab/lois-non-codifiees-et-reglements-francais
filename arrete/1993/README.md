@@ -389,7 +389,6 @@
 - [Arrêté du 15 décembre 1992 (LOGC9200006A)](arrete-du-15-decembre-1992-logc9200006a)
 - [Arrêté du 15 décembre 1993 (SPSA9303570A)](arrete-du-15-decembre-1993-spsa9303570a)
 - [Arrêté du 15 décembre 1993 (SPSS9303537A)](arrete-du-15-decembre-1993-spss9303537a)
-- [Arrêté du 15 février 1993 (BUDB9330004A)](arrete-du-15-fevrier-1993-budb9330004a)
 - [Arrêté du 15 février 1993 (BUDD9350003A)](arrete-du-15-fevrier-1993-budd9350003a)
 - [Arrêté du 15 février 1993 (EQUS9300261A)](arrete-du-15-fevrier-1993-equs9300261a)
 - [Arrêté du 15 février 1993 (SPSS9300490A)](arrete-du-15-fevrier-1993-spss9300490a)

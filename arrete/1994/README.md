@@ -821,7 +821,6 @@
 - [Arrêté du 24 février 1994 (INDB9400006A)](arrete-du-24-fevrier-1994-indb9400006a)
 - [Arrêté du 24 février 1994 (JUSB9410076A)](arrete-du-24-fevrier-1994-jusb9410076a)
 - [Arrêté du 24 février 1994 (JUSD9430010A)](arrete-du-24-fevrier-1994-jusd9430010a)
-- [Arrêté du 24 février 1994 (MCCB9400125A)](arrete-du-24-fevrier-1994-mccb9400125a)
 - [Arrêté du 24 février 1994 (SPSH9400748A)](arrete-du-24-fevrier-1994-spsh9400748a)
 - [Arrêté du 24 février 1994 (SPSS9400651A)](arrete-du-24-fevrier-1994-spss9400651a)
 - [Arrêté du 24 février 1994 (SPSS9400652A)](arrete-du-24-fevrier-1994-spss9400652a)
