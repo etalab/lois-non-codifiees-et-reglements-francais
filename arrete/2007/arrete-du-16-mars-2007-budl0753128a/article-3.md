@@ -32,6 +32,12 @@ En outre, pour les entrepreneurs individuels titulaires d'un certificat TéléIR
 
 - mention du certificat TéléIR.
 
+Pour les titulaires d'un certificat "DGI PRO" :
+
+- numéro SPI ;
+
+- numéro de télédéclarant.
+
 2. Pour les données relatives à la population des entreprises :
 
 - identifiant de l'entreprise (SIREN, NIC, NUMACT, NUMSEQ) ;
