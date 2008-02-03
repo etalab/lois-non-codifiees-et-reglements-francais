@@ -234,7 +234,6 @@
 - [Décret n°86-228 du 18 février 1986](decret-n86-228-du-18-fevrier-1986)
 - [Décret n°86-232 du 18 février 1986](decret-n86-232-du-18-fevrier-1986)
 - [Décret n°86-233 du 18 février 1986](decret-n86-233-du-18-fevrier-1986)
-- [Décret n°86-237 du 18 février 1986](decret-n86-237-du-18-fevrier-1986)
 - [Décret n°86-259 du 18 février 1986](decret-n86-259-du-18-fevrier-1986)
 - [Décret n°86-260 du 18 février 1986](decret-n86-260-du-18-fevrier-1986)
 - [Décret n°86-267 du 18 février 1986](decret-n86-267-du-18-fevrier-1986)
