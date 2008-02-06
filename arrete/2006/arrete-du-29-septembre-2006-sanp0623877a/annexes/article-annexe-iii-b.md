@@ -6,9 +6,13 @@ POUR LES RADIOLOGUES
 
 Table des matières
 
-TABLE DES MATIÈRES GLOSSAIRE
+TABLE DES MATIÈRES
 
-PRÉAMBULE INTRODUCTION
+GLOSSAIRE
+
+PRÉAMBULE
+
+INTRODUCTION
 
 CAHIER DES CHARGES
 
@@ -1449,7 +1453,7 @@ La décision du 27 mars 2003, et à compter du 31 décembre 2005 celle du 7 octo
 
 - une couleur de lumière doit être comprise entre 5 500 et 6 500 K.
 
-La décision du 27 mars 2003 fixe les critères d'acceptabilité des caractéristiques et performances qui font l'objet d'un contrôle de qualité. Pour la réalisation des contrôles internes prévus par cette décision, l'exploitant doit disposer:
+La décision du 27 mars 2003 fixe les critères d'acceptabilité des caractéristiques et performances qui font l'objet d'un contrôle de qualité. Pour la réalisation des contrôles internes prévus par cette décision, l'exploitant doit disposer :
 
 - d'un fantôme de type MTM 100 ;
 
@@ -1457,7 +1461,7 @@ La décision du 27 mars 2003 fixe les critères d'acceptabilité des caractéris
 
 - d'un densitomètre.
 
-De plus, l'examen de dépistage comprenant des incidences complémentaires devant être réalisées le même jour que l'acte de dépistage, le mammographe doit être équipé d'un système d'agran¬dissement opérationnel.
+De plus, l'examen de dépistage comprenant des incidences complémentaires devant être réalisées le même jour que l'acte de dépistage, le mammographe doit être équipé d'un système d'agrandissement opérationnel.
 
 ANNEXE 2
 
@@ -1485,7 +1489,9 @@ La classification BI-RADS/ACR mammographie
 
 Cette dernière présentation de la classification est plus explicite que la précédente dans sa terminologie mais ne modifie ni ses objectifs ni les modalités de son utilisation.
 
-Mammographie en attente d'un bilan de diagnostic (classée 0). Mammographie normale (classée 1).
+Mammographie en attente d'un bilan de diagnostic (classée 0).
+
+Mammographie normale (classée 1).
 
 Sont considérées comme bénignes (classées 2, VPP de cancer = 0 %) :
 
@@ -1507,7 +1513,7 @@ Sont considérées comme bénignes (classées 2, VPP de cancer = 0 %) :
 
 Sont considérées comme probablement bénignes (classées 3, VPP de cancer < 2 %) :
 
-- calcifications rondes ou amorphes, peu nombreuses, en petits amas ronds isolés;
+- calcifications rondes ou amorphes, peu nombreuses, en petits amas ronds isolés ;
 
 - petit(s) amas rond(s) ou ovale(s) de calcifications polymorphes, peu nombreuses, évoquant un début de calcification d'adénofibrome ;
 
@@ -1545,7 +1551,7 @@ Sont considérées comme malignes (classées 5, VPP > 95 %) :
 
 - masse de contour spiculé.
 
-A noter : cette édition introduit une septième classe, BI¬RADS/ACR 6 pour les images dont l'histologie maligne est déjà connue par prélèvement percutané, qui ne concerne donc pas les mammographies de dépistage. Elle propose également une subdivision facultative de la classe 4, qui recouvre un large éventail de VPP, en trois sous-catégories a, b et c, dont l'utilisation ne modifie pas la conduite à tenir. Ces modifications sont donc sans objet pour le programme français et ne modifient ni le classement des images ni l'utilisation de la fiche d'interprétation selon le modèle national.
+A noter : cette édition introduit une septième classe, BI-RADS/ACR 6 pour les images dont l'histologie maligne est déjà connue par prélèvement percutané, qui ne concerne donc pas les mammographies de dépistage. Elle propose également une subdivision facultative de la classe 4, qui recouvre un large éventail de VPP, en trois sous-catégories a, b et c, dont l'utilisation ne modifie pas la conduite à tenir. Ces modifications sont donc sans objet pour le programme français et ne modifient ni le classement des images ni l'utilisation de la fiche d'interprétation selon le modèle national.
 
 La classification de l'ACR de la densité mammaire
 
@@ -1569,7 +1575,7 @@ D'UN BILAN DE DIAGNOSTIC COMPLÉMENTAIRE
 
 Les examens de dépistage nécessitant un bilan de diagnostic peuvent être classés en attente BI-RADS ACR 0. Ce classement est provisoire.
 
-En première lecture, il est utilisé sur la fiche d'interprétation pour toute mammographie positive avant le bilan de diagnostic immédiat, au moins une échographie pour les masses et des agrandissements pour les calcifications. Une mammographie BI¬RADS/ACR 0 ne peut pas être adressée telle quelle en seconde lecture ; à la fin du bilan de diagnostic immédiat, le premier lecteur doit avoir donné un classement définitif de 1 à 5 en fonction duquel il adresse les films en seconde lecture (bilan de diagnostic immédiat négatif) ou propose une procédure de surveillance ou de prise en charge pour un diagnostic histologique (bilan de diagnostic immédiat positif). Dans tous les cas, il renseigne sur la fiche d'interprétation les résultats du bilan de diagnostic immédiat.
+En première lecture, il est utilisé sur la fiche d'interprétation pour toute mammographie positive avant le bilan de diagnostic immédiat, au moins une échographie pour les masses et des agrandissements pour les calcifications. Une mammographie BI-RADS/ACR 0 ne peut pas être adressée telle quelle en seconde lecture ; à la fin du bilan de diagnostic immédiat, le premier lecteur doit avoir donné un classement définitif de 1 à 5 en fonction duquel il adresse les films en seconde lecture (bilan de diagnostic immédiat négatif) ou propose une procédure de surveillance ou de prise en charge pour un diagnostic histologique (bilan de diagnostic immédiat positif). Dans tous les cas, il renseigne sur la fiche d'interprétation les résultats du bilan de diagnostic immédiat.
 
 Le classement 0 est en principe suivi extemporanément d'un classement définitif. Exceptionnellement, le bilan est fait en différé (nécessité de récupérer les documents de référence, patiente repartie avant que l'image ne soit vue, souhait de la femme de ne pas faire le bilan extemporanément, refus de l'échographie).
 
@@ -1587,17 +1593,15 @@ BI-RADS/ACR 2 : IMAGES SÛREMENT BÉNIGNES
 
 Ce classement n'entraîne aucune surveillance particulière, aucun examen complémentaire.
 
-Les mammographies classées 2 par le premier lecteur sont adressées en deuxième lecture. Lorsqu'une image est reclassée BI¬RADS/ACR 2 après bilan de diagnostic immédiat, le résultat de ce bilan est renseigné dans la fiche de lecture, des documents sont joints dans la mesure du possible.
+Les mammographies classées 2 par le premier lecteur sont adressées en deuxième lecture. Lorsqu'une image est reclassée BI-RADS/ACR 2 après bilan de diagnostic immédiat, le résultat de ce bilan est renseigné dans la fiche de lecture, des documents sont joints dans la mesure du possible.
 
 Si ce classement est confirmé par le second lecteur, la femme sera invitée deux ans plus tard pour une nouvelle mammographie de dépistage. Elle est informée qu'une consultation médicale dans les meilleurs délais est nécessaire en cas de découverte d'un symptôme clinique dans l'intervalle entre deux mammographies.
 
-A noter : lorsqu'une image probablement bénigne (BI¬RADS/ACR 3) est stable au terme de la surveillance de deux ans, elle est reclassée 2 et il n'est pas indiqué de surveiller, ni par des mammographies, ni par des échographies rapprochées.
+A noter : lorsqu'une image probablement bénigne (BI-RADS/ACR 3) est stable au terme de la surveillance de deux ans, elle est reclassée 2 et il n'est pas indiqué de surveiller, ni par des mammographies, ni par des échographies rapprochées.
 
 A noter : le classement BI-RADS/ACR 2 n'est pas utilisé pour les seins denses sans anomalie décelable.
 
-BI-RADS/ACR 3 : IMAGE PROBABLEMENT BÉNIGNE,
-
-UNE SURVEILLANCE À COURT TERME EST CONSEILLÉE
+BI-RADS/ACR 3 : IMAGE PROBABLEMENT BÉNIGNE, UNE SURVEILLANCE À COURT TERME EST CONSEILLÉE
 
 Ce classement n'est utilisé qu'après réalisation d'un bilan de diagnostic immédiat ou d'un bilan de diagnostic différé, au minimum une échographie pour les masses et des agrandissements de face et de profil pour les calcifications.
 
@@ -1613,9 +1617,7 @@ A noter : le classement BI-RADS/ACR 3 ne s'applique pas à une image d'apparitio
 
 Il ne s'applique pas aux seins denses sans anomalie mammographique y compris si une anomalie échographique est détectée (classement BI-RADS/ACR 1).
 
-BI-RADS/ACR 4 (IMAGE SUSPECTE)
-
-OU IMAGE ÉVOCATRICE D'UN CANCER
+BI-RADS/ACR 4 (IMAGE SUSPECTE) OU IMAGE ÉVOCATRICE D'UN CANCER
 
 Dans tous les cas, un examen histologique est indiqué.
 
@@ -1662,3 +1664,210 @@ La fiche d'interprétation est également un outil de communication entre le pre
 Au dos de chaque fiche, il est utile de faire figurer un rappel de la classification BI-RADS synthétique et de la classification des densités mammaires proposée par l'ACR, selon la deuxième édition du BI-RADS mammographique de la SFR.
 
 Une fiche du bilan de diagnostic différé (format A 4) à utiliser lorsque le bilan de diagnostic est réalisé en différé, ou éventuellement pour renseigner la structure de gestion lors du suivi des mammographies classées BI-RADS/ACR 3. Cette fiche, éditée en quantité réduite par rapport à la fiche d'interprétation double A 4, doit cependant être disponible dans les cabinets de radiologie.
+
+ANNEXE 3 BIS
+
+ANNEXE RELATIVE À L'UTILISATION DES SYSTÈMES DE MAMMOGRAPHIE NUMÉRIQUE DANS LE DÉPISTAGE ORGANISÉ DES CANCERS DU SEIN
+
+I. - Définition
+
+Les techniques de mammographie numérique sont : les mammographes plein champ, les plaques ERLM (écran radio-luminescent à mémoire) et les systèmes à balayage. L'utilisation ou la lecture sur console de films numérisés secondairement n'est pas autorisée.
+
+II. - Formation préalable des radiologues premiers et seconds lecteurs
+
+1. La formation dans le cadre du dépistage organisé comprend deux modalités
+
+a) Radiologue premier lecteur :
+
+Conformément au cahier des charges, les radiologues devront avoir effectué au préalable la formation spécifique de premier lecteur. Cette formation des premiers lecteurs comprend un module relatif au dépistage organisé (tronc commun) ainsi qu'un module de lecture sur film (module analogique) ou sur console (module numérique).
+
+Les radiologues déjà formés pratiquant la mammographie numérique s'engagent à effectuer le module numérique complémentaire de la formation sous deux ans (sans refaire l'intégralité du cursus). Faute de quoi, ils ne seront plus habilités à la première lecture d'images numériques dans le cadre du programme de dépistage organisé.
+
+b) Radiologue second lecteur :
+
+Tout second lecteur devra effectuer au préalable la formation à la seconde lecture comme précisée dans le cahier des charges. Cette formation des seconds lecteurs associera la pratique de la lecture de films issus de mammographes analogiques et de mammographes numériques. Cette formation intégrera l'enseignement des spécificités techniques liées à l'utilisation du numérique.
+
+Le seuil du nombre de lectures annuelles à effectuer reste inchangé.
+
+2. Suivi de l'obligation de formation
+
+Les radiologues s'engagent à transmettre aux structures de gestion les détails concernant les formations effectuées. Dans le cadre de leur mission d'assurance qualité, les structures de gestion sont responsables du suivi de ces formations et de la vérification des pré-requis ci-dessus.
+
+III. - Matériel
+
+Il est de la responsabilité de l'exploitant :
+
+- de s'assurer que l'ensemble de son matériel a été mis sur le marché pour la réalisation de mammographies numériques ;
+
+- d'en informer la structure de gestion.
+
+L'installation de mammographie numérique comprend : le mammographe (analogique ou numérique), les films, le reprographe laser, la console, les négatoscopes et, le cas échéant, le lecteur de plaques, les cassettes et les écrans ERLM.
+
+1. Type de matériel
+
+1.1. Taille du détecteur
+
+Les centres de radiologie doivent pouvoir réaliser des mammographies grand format (détecteur de dimensions supérieures ou égales à 21 × 26 centimètres).
+
+Les centres de radiologie possédant un mammographe numérique dont la taille du détecteur est inférieure ne sont autorisés à participer au dépistage organisé qu'à partir du moment où, sur le même site, ils ont la possibilité d'effectuer une mammographie grand format sur un autre appareil (analogique ou numérique).
+
+1.2. Agrandissement
+
+Le bilan diagnostique immédiat effectué par le radiologue premier lecteur suite à une mammographie de dépistage positive comprend un agrandissement pour les microcalcifications.
+
+Cet agrandissement doit garantir une qualité d'image minimale.
+
+Trois techniques sont possibles :
+
+- agrandissement géométrique direct en utilisant un système d'agrandissement avec porte-cassette sur le mammographe ;
+
+- zoom numérique sur console utilisant l'image native ;
+
+- détecteur dont la taille des pixels est inférieure ou égale à 50 microns.
+
+La seule utilisation du zoom numérique sur la console pour les appareils ayant une taille de pixel supérieure à 50 microns n'est pas autorisée au titre d'agrandissement.
+
+Les systèmes de mammographie numérique ne possédant pas de système d'agrandissement adéquat seront autorisés à participer au dépistage organisé si, sur le même site, il est possible d'effectuer un agrandissement sur un autre appareil (analogique ou numérique).
+
+1.3. Films et reprographe laser
+
+Le reprographe doit avoir été conçu et validé pour la mammographie numérique. La taille du pixel d'impression doit être inférieure ou égale à la taille du pixel d'acquisition.
+
+Les films laser doivent avoir été mis sur le marché pour la mammographie numérique.
+
+2. Contrôle de qualité
+
+Les modalités du contrôle de qualité interne et externe sont fixées par la décision de l'AFSSAPS du 30 janvier 2006 et le référentiel en annexe publiée au JO du 11 mars 2006. Cette décision est entrée en vigueur depuis le 11 septembre 2006. Le contrôle initial des installations de mammographie nouvellement mises en service doit être effectué avant la première utilisation clinique.
+
+Le contrôle de qualité externe est effectué tous les six mois par un organisme agréé par l'AFSSAPS.
+
+Avant d'autoriser un système de mammographie numérique dans le cadre du dépistage organisé, la structure de gestion vérifiera que le système a bien satisfait au contrôle de qualité (envoi par le centre de radiologie du certificat de passage semestriel de l'équipe de contrôle qualité externe agréée par l'AFSSAPS) et que les caractéristiques du matériel répondent aux recommandations du cahier des charges.
+
+Les modalités d'information des structures de gestion du dépistage en cas de non-conformité des installations définies par la circulaire DGS/SD5A n° 2004-456 du 16 septembre 2004 s'appliquent à l'utilisation de systèmes de mammographie numérique.
+
+IV. - Première lecture dans le centre de radiologie
+
+1. Technologies utilisées
+
+Les modalités utilisées (type d'appareil, console) seront renseignées dans la fiche d'interprétation annexée. Ces informations seront également consignées dans le compte-rendu de l'examen radiologique.
+
+2. Lecture des clichés sur console ou sur films laser
+
+Durant la phase transitoire, le premier lecteur a la possibilité d'interpréter les clichés soit :
+
+- sur console de lecture :
+
+La console de lecture devra permettre un affichage des images suivant la règle : 1 pixel affiché = 1 pixel acquis. Durant la procédure de lecture d'un examen de mammographie, le radiologue devra pouvoir visualiser une seule image par écran en mode 1:1 et ce pour l'ensemble des images.
+
+Seuls des moniteurs 5 mégapixels permettent une lecture adaptée à la mammographie ;
+
+- sur film laser, les modalités sont les mêmes que pour la lecture des mammographies analogiques.
+
+Le centre de radiologie veillera à respecter un ratio de 1 entre le format d'acquisition et le format d'impression : 1 pixel acquis = 1 pixel imprimé.
+
+Comme en analogique, une seule image sera imprimée par film.
+
+L'impression de deux images (ou plus) sur un seul film n'est pas autorisée.
+
+Le format du film d'impression devra correspondre au plus près au format d'acquisition. A savoir 20 × 25 (8 × 10 inches) pour le petit format et 25 × 30 (10 × 12 inches) pour le grand format.
+
+Le marquage de l'incidence et du côté devra être présent sur chaque film, ainsi que le nom de la patiente et la date d'examen.
+
+3. Eléments transmis au médecin coordonnateur de la structure de gestion
+
+Les clichés numériques transmis sont issus d'une impression laser directe (sans modification préalable des images par le radiologue sur la console) sur films dédiés à la mammographie.
+
+Le radiologue vérifie la qualité des clichés issus de l'impression laser.
+
+Si la manipulation de certaines images sur la console (zoom, fenêtrage, contraste, luminosité) a fourni des informations déterminantes pour faciliter le diagnostic, les clichés qui en sont issus devront être également transmis au médecin coordonnateur de la structure de gestion pour la seconde lecture.
+
+V. - Seconde lecture au sein de la structure de gestion
+
+Les négatoscopes déroulants doivent être adaptables aux films laser et doivent satisfaire au contrôle de qualité tel que défini par la décision de l'AFSSAPS du 7 octobre 2005.
+
+1. Support
+
+La seconde lecture sera réalisée au sein de la structure de gestion sur les clichés laser selon les mêmes modalités que pour la mammographie analogique. L'information concernant le type de mammographie (numérique ou analogique) sera indiquée en seconde lecture dans le champ réservé à cet effet (type de deuxième lecture) de la fiche de recueil de données.
+
+2. CTI
+
+Dans le cadre des clichés dits techniquement insuffisants (CTI), le second lecteur indiquera clairement le motif de ce CTI et la conduite à tenir :
+
+- défaut de positionnement : cliché à refaire ;
+
+- ou mauvaise qualité de l'impression : réimpression du cliché (si l'image a été archivée, sinon le refaire).
+
+VI. - Evaluation des dépistages réalisés en mammographie numérique
+
+La fiche technique d'interprétation doit comprendre les variables suivantes : le type de matériel utilisé en première lecture (mammographe analogique, mammographe numérique DR, système numérique CR, système à balayage), le type de première lecture (films analogiques, films numériques imprimés).
+
+Les structures de gestion s'engagent à communiquer les données figurant dans le tableau ci-dessous à l'Institut de veille sanitaire :
+
+<table>
+<tbody>
+<tr>
+<td>
+<p align="center">MAMMOGRAPHIE<br clear="none"/>analogique</p>
+</td>
+<td colspan="2">
+<p align="center">MAMMOGRAPHIE<br clear="none"/>numérique</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Nombre de mammographies effectuées.<br clear="none"/>
+</p>
+</td>
+<td align="center">
+<p align="left">Nombre de mammographies effectuées.<br clear="none"/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Nombre de mammographies positives (ACR 3-4-5-0) en première lecture avant bilan.<br clear="none"/>
+</p>
+</td>
+<td align="center">
+<p align="left">Nombre de mammographies positives (ACR 3-4-5-0) en première lecture avant bilan.<br clear="none"/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Nombre de mammographies reçues en seconde lecture.<br clear="none"/>
+</p>
+</td>
+<td align="center">
+<p align="left">Nombre de mammographies reçues en seconde lecture.<br clear="none"/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Nombre de CTI.<br clear="none"/>
+</p>
+</td>
+<td align="center">
+<p align="left">Nombre de CTI.<br clear="none"/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Nombre de clichés ACR 3-4-5-0 en seconde lecture.<br clear="none"/>
+</p>
+</td>
+<td align="center">
+<p align="left">Nombre de clichés ACR 3-4-5-0 en seconde lecture.<br clear="none"/>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Ces informations seront analysées afin de connaître les résultats des deux technologies par département. Cette première évaluation doit permettre d'analyser l'impact de l'introduction de la technologie numérique dans le programme. Par la suite, cette analyse sera complétée par les indicateurs de qualité concernant les résultats des bilans de diagnostic et les cancers détectés.
+
+Vous pouvez consulter les fiches d'interprétation dans le JO n° 30 du 05/02/2008 texte numéro 25 à l'adresse suivante :
+
+http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20061221&numTexte=00166&pageDebut=00166&pageFin=

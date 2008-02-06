@@ -2,7 +2,7 @@
 
 La liste des organismes visés au premier alinéa de l'article L. 990-8 du code du travail est fixée comme suit :
 
-A - Commissions, conseils ou comités administratifs.
+A-Commissions, conseils ou comités administratifs.
 
 Le conseil national de la formation professionnelle, de la promotion sociale et de l'emploi ainsi que sa délégation permanente ;
 
@@ -24,7 +24,7 @@ Les commissions professionnelles consultatives placées auprès du ministre de l
 
 Le conseil d'administration, les comités régionaux et les comités départementaux de l'agence nationale pour l'emploi ;
 
-La commission départementale chargée de donner son avis en cas de recours gracieux formé contre une décision d'exclusion du bénéfice des allocations aux travailleurs privés d'emploi (art. R. 351-10 du code du travail).
+La commission départementale chargée de donner son avis en cas de recours gracieux formé contre une décision d'exclusion du bénéfice des allocations aux travailleurs privés d'emploi (art.R. 351-10 du code du travail).
 
 Le conseil supérieur pour le reclassement professionnel et social des travailleurs handicapés ;
 
@@ -86,11 +86,11 @@ Les conseils d'établissement d'enseignement agricole ;
 
 Les conseils de centre des centres de formation professionnelle et de promotion agricoles (C.F.P.P.A.) ;
 
-Le conseil supérieur des professions paramédicales.    La commission nationale pour la formation à l'animation ;
+Le Haut Conseil des professions paramédicales. La commission nationale pour la formation à l'animation ;
 
 Les commissions régionales pour la formation à l'animation (COREFA).
 
-B - Commissions et comités paritaires.
+B-Commissions et comités paritaires.
 
 Les commissions paritaires de l'emploi ;
 
@@ -116,6 +116,6 @@ Les conseils d'administration des organismes paritaires chargés de financer les
 
 Les conseils paritaires de perfectionnement des associations de formation (Asfo) agréées au titre des formations professionnelles en alternance.
 
-C - Jurys d'examen.
+C-Jurys d'examen.
 
 Les jurys des examens visant à l'obtention des diplômes délivrés par le ministère de l'éducation nationale ainsi que des titres et diplômes de l'enseignement technologique homologués dans les conditions fixées aux alinéas 4 et 5 de l'article 8 de la loi n° 71-577 du 16 juillet 1971.
