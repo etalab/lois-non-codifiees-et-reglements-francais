@@ -10,7 +10,6 @@
 - [Titre VIII : De l'autorité judiciaire](titre-viii)
 - [Titre XI : Le Conseil économique et social.](titre-xi)
 - [Titre XII : Des collectivités territoriales](titre-xii)
-- [Titre XV : Des Communautés européennes et de l'Union européenne](titre-xv)
 - [Titre XIV : Des accords d'association.](titre-xiv)
 - [Titre XVI : De la révision](titre-xvi)
 - [Titre premier : De la souveraineté](titre-premier)
