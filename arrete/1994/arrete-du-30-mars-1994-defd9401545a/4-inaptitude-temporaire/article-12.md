@@ -1,5 +1,0 @@
-# Article 12
-
-Le titulaire d'une carte de stagiaire, d'une licence ou d'une qualification du personnel navigant d'essais et de réception doit s'abstenir d'en exercer les privilèges dès qu'il a conscience d'une déficience physique ou mentale de nature à le mettre dans l'incapacité de les exercer en sécurité. Il doit alors se présenter devant une autorité médicale agréée avant l'expiration de la validité de sa carte de stagiaire, de sa licence ou de sa qualification.
-
-Si les services compétents du ministère de la défense ont connaissance d'une déficience physique ou mentale dont souffrirait un des membres du personnel navigant d'essais ou de réception placé sous son autorité, ils doivent lui interdire d'exercer les privilèges de sa fonction jusqu'à ce qu'il ait satisfait à une consultation médicale effectuée par une autorité médicale agréée. Les chefs des services d'essais et de réception et les commandants de bord doivent exercer ces mêmes responsabilités vis-à-vis des personnels navigants placés sous leur autorité ou commandement.

@@ -1,5 +1,0 @@
-# Article ANNEXE
-
-Les personnels navigants d'essais et de réception appelés à voler sur avions munis de sièges éjectables, sur aéronefs à voilure tournante et les parachutistes d'essais font l'objet d'un examen particulier du rachis. Une radiographie complète du rachis est pratiquée à l'admission ; toute anomalie anatomique congénitale ou acquise est éliminatoire, ainsi que toute anomalie fonctionnelle ou trouble important de la statique vertébrale. Les scolioses ne sont compatibles avec l'aptitude que sous réserve que l'angle de scoliose soit inférieur ou égal à 15 degrés, avec une musculature satisfaisante. L'intégrité des quatre membres est vérifiée à l'admission pour les parachutistes d'essais.
-
-Au cours des visites révisionnelles, les anomalies acquises mineures et consolidées peuvent être compatibles avec le maintien de l'aptitude, sous réserve de ne pas entraîner de gêne fonctionnelle et d'être compatibles avec la sécurité. Elles sont considérées individuellement en tenant compte de la statique rachidienne et de la qualité de la musculature.

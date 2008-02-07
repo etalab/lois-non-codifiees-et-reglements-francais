@@ -1054,7 +1054,6 @@
 - [Arrêté du 30 juin 1994 (TEFT9400710A)](arrete-du-30-juin-1994-teft9400710a)
 - [Arrêté du 30 mars 1978](arrete-du-30-mars-1978)
 - [Arrêté du 30 mars 1994 (AGRG9400686A)](arrete-du-30-mars-1994-agrg9400686a)
-- [Arrêté du 30 mars 1994 (DEFD9401545A)](arrete-du-30-mars-1994-defd9401545a)
 - [Arrêté du 30 mars 1994 (ECOT9426109A)](arrete-du-30-mars-1994-ecot9426109a)
 - [Arrêté du 30 mars 1994 (MENA9400609A)](arrete-du-30-mars-1994-mena9400609a)
 - [Arrêté du 30 novembre 1994 (ACVP9420072A)](arrete-du-30-novembre-1994-acvp9420072a)
