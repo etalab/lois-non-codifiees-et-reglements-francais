@@ -1,0 +1,3 @@
+# Article 7
+
+Un certificat médical délivré par un Etat membre de la Communauté européenne ou par un Etat partie à l'accord sur l'Espace économique européen ou par la Confédération suisse et tel que prévu par l'article L. 410-6 du code de l'aviation civile, dans des conditions équivalentes à l'annexe FCL 3 de l'arrêté du 27 janvier 2005 susvisé, peut être reconnu valable et associé à une licence française du personnel navigant professionnel d'essais et de réceptions de l'aéronautique civile, sous réserve, le cas échéant, d'avoir été prorogé ou renouvelé pour la dernière fois selon des dispositions équivalentes, au minimum, à celles du présent arrêté.
