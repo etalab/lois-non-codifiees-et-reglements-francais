@@ -10,11 +10,11 @@ Ce document comporte notamment :
 
 - un schéma d'exploitation du réseau faisant apparaître son architecture générale.
 
-Il met en oeuvre des procédures garantissant sa mise à jour dès qu'intervient une modification de quelque nature que ce soit dans la configuration du réseau et des équipements ;
+Il met en oeuvre des procédures garantissant sa mise à jour dès qu'intervient une modification de quelque nature que ce soit dans     la configuration du réseau et des équipements ;
 
 - une cartographie du réseau qu'il exploite à une échelle permettant de localiser chaque organe de coupure et chaque branchement.
 
-La mise à jour de cette cartographie est réalisée à la suite de chaque intervention, dans le cadre de procédures précisées par un cahier des charges.
+La mise à jour de cette cartographie est réalisée à la suite de chaque intervention, dans le cadre de procédures précisées par les cahiers des charges particuliers correspondant à chaque catégorie de réseau concernée.
 
 L'opérateur doit également prendre les mesures nécessaires pour tenir à la disposition de l'autorité concédante et du directeur régional de l'industrie, de la recherche et de l'environnement territorialement compétent, les plans à jour du réseau de distribution et les extraits de plans qui leur seraient nécessaires.
 

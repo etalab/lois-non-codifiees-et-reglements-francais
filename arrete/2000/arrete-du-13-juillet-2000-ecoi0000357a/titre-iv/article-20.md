@@ -15,3 +15,9 @@ Il en est de même, quelle que soit leur longueur, des canalisations en acier po
 Les dispositifs de protection contre la corrosion sont conformes aux normes européennes appropriées ou à un cahier des charges particulier. Des contrôles de l'efficacité des dispositions mises en oeuvre par l'opérateur pour assurer la protection de son réseau sont réalisés aussi souvent que nécessaire et a minima une fois par an, par un organisme accrédité qui informera le directeur régional de l'industrie, de la recherche et de l'environnement concerné en cas de constat d'anomalie notable. Ce délai pourra être modulé, sans toutefois dépasser deux années, par l'opérateur en accord avec l'organisme précité en fonction des résultats des contrôles.
 
 Les parties de réseaux en service non équipées de protection cathodique à la date de parution du présent arrêté peuvent être conservées en l'état sous réserve de bénéficier d'un contrôle spécifique défini par un cahier des charges particulier.
+
+Les réseaux ne relevant pas des trois catégories définies à l'article 3 sont soumis aux prescriptions particulières suivantes :
+
+- l'absence de fuite est vérifiée au minimum tous les cinq ans ;
+
+- le gaz livré est odorisé.

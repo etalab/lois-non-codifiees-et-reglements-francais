@@ -18,6 +18,6 @@ L'organisation de l'opérateur doit tenir compte de la nécessaire proximité de
 
 En cas de fuite sur un élément du réseau de distribution ou sur une installation alimentée par ce dernier, l'opérateur doit intervenir directement ou indirectement sur la zone considérée dans les délais les plus brefs pour prendre les premières mesures destinées à assurer la sécurité des personnes et des biens ou avoir interrompu l'alimentation de la partie du réseau en cause.
 
-Les dispositions de sécurité mentionnées ci-dessus seront précisées dans un cahier des charges.
+Les dispositions de sécurité mentionnées ci-dessus seront précisées dans les cahiers des charges particuliers correspondant à chaque catégorie de réseau concernée.
 
 Le gaz distribué doit posséder une odeur suffisamment caractéristique pour que les fuites soient perceptibles à l'odorat. A cet effet, l'opérateur applique les dispositions du cahier des charges de concession ou d'un cahier des charges particulier.
