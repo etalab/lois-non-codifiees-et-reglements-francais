@@ -549,7 +549,6 @@
 - [Arrêté du 17 novembre 2004 (SOCF0412220A)](arrete-du-17-novembre-2004-socf0412220a)
 - [Arrêté du 17 septembre 2004 (ECOT0495152A)](arrete-du-17-septembre-2004-ecot0495152a)
 - [Arrêté du 17 septembre 2004 (INTD0400706A)](arrete-du-17-septembre-2004-intd0400706a)
-- [Arrêté du 17 mai 2004 (MCCB0400305A)](arrete-du-17-mai-2004-mccb0400305a)
 - [Arrêté du 17 mai 2004 (MENA0401035A)](arrete-du-17-mai-2004-mena0401035a)
 - [Arrêté du 17 mai 2004 (SANS0421840A)](arrete-du-17-mai-2004-sans0421840a)
 - [Arrêté du 18 août 2004 (ECOT0410509A)](arrete-du-18-aout-2004-ecot0410509a)
