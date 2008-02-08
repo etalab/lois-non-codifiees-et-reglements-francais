@@ -1,6 +1,6 @@
 # Article 9
 
-a) Le candidat au brevet de pilote d'essais d'avions légers est admis à subir le test final en vol mentionné en annexe après avoir satisfait aux conditions d'heures de vol exigées pour la spécialité.
+a) Le candidat au brevet de pilote d'essais d'avions légers est admis à subir le test final en vol, mentionné en annexe, sur autorisation du directeur de l'EPNER.
 
 b) Le candidat ayant échoué au test final en vol mais ayant obtenu une moyenne M supérieure ou égale à 12 sur 20 est autorisé à se représenter une seule fois à cette épreuve, sous réserve d'un complément d'entraînement.
 
