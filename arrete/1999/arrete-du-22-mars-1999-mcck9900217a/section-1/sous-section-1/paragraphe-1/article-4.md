@@ -1,5 +1,15 @@
 # Article 4
 
-La demande de subvention à l'écriture de scénarios peut exclusivement être présentée par l'auteur d'un scénario d'une oeuvre cinématographique. Celui-ci doit justifier, au titre de son expérience artistique, soit de l'écriture d'un premier scénario d'une oeuvre de longue durée déjà portée à l'écran, soit de la réalisation d'une première oeuvre de longue durée.
+I.-Une demande de subvention à l'écriture du scénario d'une œuvre cinématographique de longue durée ne peut être présentée que par l'auteur de ce scénario dans les conditions suivantes :
 
-La demande de subvention à la réécriture de scénarios peut être présentée soit par un auteur de scénario justifiant d'une expérience artistique dans le domaine cinématographique ou audiovisuel, soit par une entreprise de production.
+1° Lorsque la demande concerne l'écriture d'un premier scénario, l'auteur doit, au titre de son expérience artistique, justifier de l'écriture, dans les cinq ans précédant cette demande, soit de deux œuvres cinématographiques de courte durée ou de deux œuvres audiovisuelles, soit d'une œuvre cinématographique de courte durée et d'une œuvre audiovisuelle.
+
+Ces œuvres doivent répondre aux conditions suivantes :
+
+a) Les œuvres cinématographiques de courte durée doivent avoir été sélectionnées dans un festival figurant sur une liste établie par le directeur général du Centre national de la cinématographie ou avoir donné lieu à l'octroi des prix de qualité prévus à l'article 90 du décret n° 99-130 du 24 février 1999 modifié relatif au soutien financier de l'industrie cinématographique ;
+
+b) Les œuvres audiovisuelles doivent appartenir au genre de la fiction, de l'animation ou du documentaire de création, être d'une durée supérieure ou égale à vingt-six minutes et avoir fait l'objet d'une diffusion sur un service de télévision.
+
+2° Lorsque la demande concerne l'écriture d'un scénario qui n'est pas le premier scénario de son auteur, cet auteur doit, au titre de son expérience artistique, justifier de l'écriture d'au moins une œuvre cinématographique de longue durée portée à l'écran.
+
+II.-Une demande de subvention à la réécriture du scénario d'une œuvre cinématographique de longue durée peut être présentée soit par l'auteur d'un scénario justifiant d'une expérience artistique dans le domaine cinématographique ou audiovisuel, soit par une entreprise de production.

@@ -1,4 +1,4 @@
-# Paragraphe 1 : Aide aux scénarios
+# Paragraphe 1 : Subventions à l'écriture et à la réécriture de scénarios
 
 - [Article 2](article-2.md)
 - [Article 3](article-3.md)

@@ -1,6 +1,10 @@
 # Article 2
 
-La commission d'aide à l'écriture et à la réécriture de scénarios, prévue à l'article 52-1 du décret du 24 février 1999 susvisé, est composée de neuf membres dont un président et un vice-président.
+La commission prévue au II de l'article 52-1 du décret du 24 février 1999 susvisé comprend dix-sept membres dont un président et deux vice-présidents. Elle est formée de deux collèges.
+
+Le premier collège comprend le président, un vice-président et sept autres membres. Il est compétent pour examiner les demandes de subventions à l'écriture et à la réécriture des premiers scénarios d'œuvres cinématographiques de longue durée.
+
+Le deuxième collège comprend le président, un vice-président et sept autres membres. Il est compétent pour examiner les demandes de subventions à l'écriture et à la réécriture des scénarios d'œuvres cinématographiques de longue durée autres que ceux mentionnés à l'alinéa précédent.
 
 Les membres de la commission sont nommés pour une durée d'un an à compter du 1er septembre de chaque année par décision du directeur général du Centre national de la cinématographie.
 
