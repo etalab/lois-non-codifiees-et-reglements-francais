@@ -6,7 +6,7 @@ Il s'agit, notamment, des personnels administratifs de la police nationale, des 
 
 I. - Les personnels administratifs de la police nationale se répartissent en :
 
-- personnels d'encadrement et de direction, comprenant, au sein du corps des attachés de la police nationale, les grades :
+- personnels d'encadrement et de direction, comprenant, au sein du corps des attachés d'administration de l'intérieur et de l'outre-mer, les grades :
 
 a) D'attaché principal de la police nationale ;
 
@@ -26,9 +26,7 @@ a) D'adjoint administratif de la police nationale principal de première classe 
 
 b) D'adjoint administratif de la police nationale principal de deuxième classe ;
 
-c) D'adjoint administratif de la police nationale ;
-
-d) D'agent administratif de la police nationale.
+c) D'adjoint administratif de la police nationale.
 
 II. - Les personnels scientifiques de la police nationale se répartissent en :
 
@@ -70,7 +68,7 @@ c) Au sein des corps des adjoints techniques de la police nationale, les grades 
 
 3° D'inspecteur de service intérieur et du matériel de deuxième classe ;
 
-- personnels d'exécution, comprenant, au sein des corps des adjoints techniques de la police nationale, le grade d'ajoint technique.
+- personnels d'exécution, comprenant, au sein des corps des adjoints techniques de la police nationale, le grade d'agent des services techniques.
 
 Les dispositions du présent titre sont également applicables, à l'exception près mentionnée au premier alinéa ci-dessus du présent article, aux autres agents, quelle que soit leur position statutaire ou leur situation juridique, en fonction dans un service actif ou administratif de la police nationale.
 
