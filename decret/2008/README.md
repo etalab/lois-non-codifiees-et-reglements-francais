@@ -37,6 +37,7 @@
 - [Décret n°2008-109 du 5 février 2008 (SJSP0762724D)](decret-n2008-109-du-5-fevrier-2008-sjsp0762724d)
 - [Décret n°2008-532 du 5 juin 2008 (DEFH0812409D)](decret-n2008-532-du-5-juin-2008-defh0812409d)
 - [Décret n°2008-432 du 5 mai 2008 (SJSG0801014D)](decret-n2008-432-du-5-mai-2008-sjsg0801014d)
+- [Décret n°2008-110 du 6 février 2008 (MTSA0774715D)](decret-n2008-110-du-6-fevrier-2008-mtsa0774715d)
 - [Décret n°2007-1729 du 7 décembre 2007 (JUSC0771361D)](decret-n2007-1729-du-7-decembre-2007-jusc0771361d)
 - [Décret n°2008-22 du 7 janvier 2008 (MTSS0773915D)](decret-n2008-22-du-7-janvier-2008-mtss0773915d)
 - [Décret n°2008-23 du 7 janvier 2008 (IOCM0766398D)](decret-n2008-23-du-7-janvier-2008-iocm0766398d)
