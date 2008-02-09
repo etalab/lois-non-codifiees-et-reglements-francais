@@ -2,9 +2,9 @@
 
 Le concours professionnel pour l'emploi d'inspecteur principal du Trésor public comporte les épreuves suivantes :
 
-I. - Epreuves écrites d'admissibilité
+I. - Epreuves écrites d'admissibilité.
 
-Epreuve n° 1. - Note décisionnelle : rédaction d'une note de synthèse et réponse à une ou plusieurs questions à partir d'un dossier de nature économique, financière ou sociale (durée : cinq heures ; coefficient 1).
+Epreuve n° 1. Note décisionnelle : rédaction d'une note administrative comportant une proposition argumentée à partir de la synthèse d'un dossier (durée : 5 heures ; coefficient 1).
 
 Epreuve n° 2. - Expertise technique : composition sur un sujet technique se rapportant aux métiers du Trésor public (durée : quatre heures ; coefficient 1).
 
