@@ -10,7 +10,7 @@ I. - En ce qui concerne les règlements européens sur les temps de conduite et 
 
 4. La vitesse.
 
-II. - Le contrôle concerne la période de la semaine en cours et des quinze jours précédents où le conducteur a conduit.
+II. -  Le contrôle concerne la journée en cours et les vingt-huit jours précédents.
 
 III. - La vitesse peut être vérifiée dans les conditions suivantes :
 
