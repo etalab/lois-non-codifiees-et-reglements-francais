@@ -1,6 +1,6 @@
 # Article 22
 
-Lorsqu'un dépôt de garantie est prévu par le contrat de location pour garantir l'exécution de ses obligations locatives par le locataire, il ne peut être supérieur à deux mois de loyer en principal.
+Lorsqu'un dépôt de garantie est prévu par le contrat de location pour garantir l'exécution de ses obligations locatives par le locataire, il ne peut être supérieur à un mois de loyer en principal. Au moment de la signature du bail, le dépôt de garantie est versé au bailleur directement par le locataire ou par l'intermédiaire d'un tiers.
 
 Un dépôt de garantie ne peut être prévu lorsque le loyer est payable d'avance pour une période supérieure à deux mois ; toutefois, si le locataire demande le bénéfice du paiement mensuel du loyer, par application de l'article 7, le bailleur peut exiger un dépôt de garantie.
 
