@@ -10,4 +10,6 @@ Le bureau du contentieux général ;
 
 Le bureau de la gestion prévisionnelle, de l'évaluation et de la formation ;
 
-Le bureau des politiques de l'action sociale et des conditions de travail.
+Le bureau des politiques de l'action sociale et des conditions de travail ;
+
+La mission du système d'informations ressources humaines
