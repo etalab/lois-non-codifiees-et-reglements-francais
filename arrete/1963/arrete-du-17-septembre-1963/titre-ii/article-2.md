@@ -1,8 +1,14 @@
 # Article 2
 
-La commission prévue à l'alinéa II de l'article 19 du décret n° 60-452 du 12 mai 1960 et dont la composition est fixée par le même article comporte des membres titulaires et des membres suppléants.
+La commission prévue à l'article R. 123-51 du code de la sécurité sociale comprend :
 
-Les membres suppléants ne peuvent siéger que lorsqu'ils remplacent des membres titulaires.
+-deux titulaires et quatre suppléants représentants des agents de direction ou des agents comptables ;
+
+-deux titulaires et quatre suppléants représentants des conseils d'administration ;
+
+-deux représentants des ministres chargés du contrôle.
+
+Les membres suppléants sont appelés à siéger en l'absence des membres titulaires et à remplacer ceux dont le siège deviendrait vacant.
 
 Ne peuvent être appelés à délibérer que les membres titulaires et, éventuellement, leurs suppléants représentant le groupe auquel appartient l'agent déféré devant la commission.
 
