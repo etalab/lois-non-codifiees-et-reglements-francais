@@ -17,3 +17,5 @@ Elle assure la tutelle financière de l'établissement public de santé national
 Elle participe à l'exercice de la tutelle sur l'Etablissement français du sang, dont la mise en oeuvre est coordonnée par la direction générale de la santé, et elle conduit dans les domaines qui relèvent de ses attributions les relations avec cet établissement.
 
 Elle assure le secrétariat de la Commission nationale du contentieux de la tarification sanitaire et sociale.
+
+Elle assure la tutelle de l'agence technique de l'information sur l'hospitalisation.

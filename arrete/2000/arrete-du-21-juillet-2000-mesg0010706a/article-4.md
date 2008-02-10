@@ -14,8 +14,6 @@ Elle assure la prévention des risques iatrogènes et la lutte contre les infect
 
 Elle contribue à la modernisation des systèmes d'information hospitaliers des établissements de santé et au développement et à l'utilisation des technologies de l'information, notamment pour assurer la prise en charge médicale des patients.
 
-Elle assure la conception et la mise en oeuvre du programme de médicalisation des systèmes d'information hospitaliers.
-
 Elle est chargée des questions relatives aux investissements immobiliers et à la gestion du patrimoine, à la sécurité et à la gestion des installations et des fonctions hospitalières logistiques et techniques ainsi qu'à la prévention et au contrôle des risques environnementaux liés aux activités hospitalières.
 
 Elle participe à l'exercice de la tutelle sur l'Agence française de sécurité sanitaire des produits de santé et l'Institut de veille sanitaire, dont la mise en oeuvre est coordonnée par la direction générale de la santé et conduit dans les domaines qui relèvent de ses attributions les relations avec ces établissements.
