@@ -2,3 +2,4 @@
 
 - [Section 1 : Pétition des électeurs de la Polynésie française.](section-1)
 - [Section 2 : Référendum local en Polynésie française.](section-2)
+- [Section 3 :  Consultation des électeurs de la Polynésie française](section-3)

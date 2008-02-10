@@ -6,4 +6,4 @@ Si le quorum n'est pas atteint à l'ouverture de la séance, celle-ci est renvoy
 
 Dans les cas prévus aux deux précédents alinéas, les noms des absents sont inscrits au procès-verbal.
 
-Le vote par procuration est autorisé dans la limite d'une procuration par représentant à l'assemblée de la Polynésie française. Il est toutefois interdit pour l'élection du président de la Polynésie française, du président et du bureau de l'assemblée de la Polynésie française et pour le vote d'une motion de censure.
+Le vote par procuration est autorisé dans la limite d'une procuration par représentant à l'assemblée de la Polynésie française. Il est toutefois interdit pour l'élection du président de la Polynésie française, du président et du bureau de l'assemblée de la Polynésie française et pour le vote d'une motion de défiance ou de renvoi.

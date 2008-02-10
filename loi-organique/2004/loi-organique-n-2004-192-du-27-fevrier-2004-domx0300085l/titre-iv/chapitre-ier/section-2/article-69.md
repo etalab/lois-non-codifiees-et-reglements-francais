@@ -1,11 +1,15 @@
 # Article 69
 
-Le président de la Polynésie française est élu au scrutin secret par l'assemblée de la Polynésie française parmi ses membres.
+Le président de la Polynésie française est élu par l'assemblée de la Polynésie française parmi ses membres, au scrutin secret.
 
-Il peut également être élu par l'assemblée hors de son sein sur présentation de sa candidature par au moins un quart des représentants à l'assemblée de la Polynésie française, chaque représentant ne pouvant présenter qu'un seul candidat. Dans ce cas, les candidats doivent satisfaire aux conditions requises pour être éligibles à l'assemblée de la Polynésie française. En cas de doute sur l'éligibilité d'un candidat, le haut-commissaire de la République peut, dans les quarante-huit heures du dépôt des candidatures, saisir le tribunal administratif, qui se prononce dans les quarante-huit heures.
+L'assemblée de la Polynésie française ne peut valablement procéder à l'élection que si les trois cinquièmes des représentants sont présents. Si cette condition n'est pas remplie, la réunion se tient de plein droit trois jours plus tard, dimanche et jours fériés non compris, quel que soit le nombre des représentants présents.
 
-L'assemblée de la Polynésie française ne peut valablement procéder à l'élection que si les trois cinquièmes de ses membres sont présents. Si cette condition n'est pas remplie, la réunion se tient de plein droit trois jours plus tard, dimanche et jours fériés non compris, quel que soit le nombre des représentants à l'assemblée de la Polynésie française présents. Le vote est personnel.
+Le vote est personnel.
 
-Les candidatures sont remises au président de l'assemblée de la Polynésie française au plus tard le cinquième jour précédant la date fixée pour le scrutin. Chaque candidat expose son programme devant l'assemblée avant l'ouverture du premier tour de scrutin.
+Si, après deux tours de scrutin, aucun candidat n'obtient la majorité absolue des membres composant l'assemblée, il est procédé à un troisième tour et l'élection a lieu à la majorité absolue des suffrages exprimés. Seuls peuvent se présenter au troisième tour les deux candidats qui, le cas échéant après retrait de candidats plus favorisés, ont recueilli le plus grand nombre de suffrages exprimés au deuxième tour. En cas d'égalité des voix, la présentation au troisième tour est acquise au bénéfice de l'âge.
 
-Le président est élu à la majorité absolue des membres composant l'assemblée. Si celle-ci n'est pas obtenue au premier tour de scrutin, il est procédé à un second tour. Seuls peuvent s'y présenter les deux candidats qui, le cas échéant après retrait de candidats plus favorisés, se trouvent avoir recueilli le plus grand nombre de suffrages au premier tour. En cas d'égalité des voix au second tour, l'élection est acquise au bénéfice de l'âge.
+En cas d'égalité des voix, l'élection est acquise au bénéfice de l'âge.
+
+Pour le premier tour de scrutin, les candidatures sont remises au président de l'assemblée de la Polynésie française au plus tard la veille du jour fixé pour le scrutin. Des candidatures nouvelles peuvent être présentées au deuxième tour de scrutin. Les candidatures sont remises au président de l'assemblée de la Polynésie française au plus tard trois heures avant l'ouverture du deuxième tour de scrutin.
+
+Chaque candidat expose son programme devant l'assemblée avant l'ouverture de chaque tour de scrutin.

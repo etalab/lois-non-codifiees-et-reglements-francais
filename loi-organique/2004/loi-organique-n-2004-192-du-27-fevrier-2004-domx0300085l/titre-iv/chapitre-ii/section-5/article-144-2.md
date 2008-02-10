@@ -1,0 +1,3 @@
+# Article 144-2
+
+La commission de contrôle budgétaire et financier remet au président de la Polynésie française, aux autres membres du gouvernement et aux membres de l'assemblée de la Polynésie française, au plus tard le 31 mai de chaque année, un rapport dressant le bilan de son activité et comportant en annexe le compte rendu de ses débats, ainsi que les décisions qu'elle a prises, au cours de l'année précédente. Ce rapport est publié au Journal officiel de la Polynésie française dans un délai de cinq jours à compter de son dépôt. Dans le mois suivant son dépôt, ce rapport fait l'objet d'un débat à l'assemblée de la Polynésie française.

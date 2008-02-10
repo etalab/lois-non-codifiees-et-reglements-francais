@@ -1,0 +1,9 @@
+# Article 185-1
+
+Le président de la Polynésie française dépose le projet de budget de la Polynésie française sur le bureau de l'assemblée de la Polynésie française au plus tard le 15 novembre.
+
+Si le budget n'est pas exécutoire avant le 1er janvier de l'exercice auquel il s'applique, le président de la Polynésie française peut mettre en recouvrement les recettes et engager, liquider et mandater les dépenses de la section de fonctionnement dans la limite de celles inscrites au budget de l'année précédente.
+
+Dans les mêmes conditions, il peut mandater les dépenses de remboursement de la dette publique en capital venant à échéance avant que le budget ne devienne exécutoire.
+
+Si l'assemblée de la Polynésie française n'a pas adopté ou rejeté le budget avant le 31 mars de l'exercice auquel il s'applique, le haut-commissaire de la République en Polynésie française saisit sans délai la chambre territoriale des comptes qui, dans le mois, et par un avis public, formule des propositions pour le règlement du budget. Le haut-commissaire règle le budget et le rend exécutoire. Si le haut-commissaire s'écarte des propositions de la chambre territoriale des comptes, il assortit sa décision d'une motivation explicite. A compter de la saisine de la chambre territoriale des comptes et jusqu'au règlement du budget par le haut-commissaire, l'assemblée de la Polynésie française ne peut adopter de délibération sur le budget de l'exercice en cours. Les dispositions du présent alinéa ne sont pas applicables quand le défaut d'adoption résulte de l'absence de communication avant le 15 mars, à l'assemblée de la Polynésie française, d'informations indispensables à l'établissement du budget. La liste de ces informations est fixée par décret. Dans ce cas, l'assemblée de la Polynésie française dispose de quinze jours à compter de cette communication pour arrêter le budget.
