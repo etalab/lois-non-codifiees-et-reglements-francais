@@ -1,6 +1,6 @@
 # Article 1
 
-Il est institué au ministère de la défense dix-sept commissions administratives paritaires centrales compétentes à l'égard des corps suivants :
+Il est institué au ministère de la défense dix-huit commissions administratives paritaires centrales compétentes à l'égard des corps suivants :
 
 - administrateurs civils ;
 
@@ -34,4 +34,6 @@ Il est institué au ministère de la défense dix-sept commissions administrativ
 
 - techniciens paramédicaux civils du service de santé des armées ;
 
-- infirmiers civils de soins généraux du ministère de la défense.
+- infirmiers civils de soins généraux du ministère de la défense ;
+
+- directeurs des services déconcentrés du ministère de la défense.
