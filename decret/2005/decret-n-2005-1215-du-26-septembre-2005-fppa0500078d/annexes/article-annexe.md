@@ -24,4 +24,6 @@ Corps des attachés d'administration des services du Premier ministre.
 
 Corps des secrétaires des affaires étrangères.
 
-Corps des attachés d'administration des juridictions financières
+Corps des attachés d'administration des juridictions financières.
+
+Corps  des attachés d'administration du Conseil d'Etat.
