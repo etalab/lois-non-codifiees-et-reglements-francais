@@ -45,3 +45,5 @@ Ouvriers professionnels qualifiés.
 Ouvriers professionnels de l'Assistance publique - hôpitaux de Paris.
 
 Techniciens supérieurs hospitaliers.
+
+Agents chefs.
