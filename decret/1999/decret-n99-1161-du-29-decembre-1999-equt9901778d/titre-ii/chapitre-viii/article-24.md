@@ -6,6 +6,9 @@ Les tableaux de service et les tableaux de roulement, ainsi que les programmes s
 
 2. En cas de modification du tableau de roulement ou du programme semestriel, un préavis de dix jours calendaires doit être respecté.
 
+2 bis. En cas de grève ou autre perturbation prévisible au sens de l'article 4 de la loi du 21 août 2007
+déjà mentionnée, le tableau de roulement ou le programme semestriel peuvent être modifiés après information de chaque agent concerné au plus tard vingt-quatre heures avant la modification.
+
 3. Toute modification à la répartition des heures de travail du tableau de service donne lieu, avant sa mise en application, à une rectification de ce tableau, sauf s'il s'agit d'une modification valable pour une durée au plus égale à cinq journées de service consécutives.
 
 4. Ce tableau est affiché dans chacun des locaux de travail auxquels il s'applique ou, en cas de personnel occupé à l'extérieur, à l'unité d'affectation.
