@@ -6,6 +6,6 @@ La sous-direction de la qualité et du fonctionnement des établissements de san
 
 - le bureau de la qualité et de la sécurité des soins en établissements de santé ;
 
-- le bureau des systèmes d'information hospitaliers et du programme médicalisé des systèmes d'information (PMS) ;
+- le bureau des systèmes d'information hospitaliers ;
 
 - le bureau de l'ingénierie et des techniques hospitalières.
