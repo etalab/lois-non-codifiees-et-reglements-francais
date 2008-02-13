@@ -32,4 +32,24 @@ Dans le département d'Ille-et-Vilaine : les quartiers 3 et 9 de la commune de R
 
 Dans le département de l'Aisne : les arrondissements de Saint Quentin et de Vervins.
 
-II. - Les territoires du département d'Ille-et-Vilaine qui sont mentionnés dans le présent article sont autorisés à modifier le rythme de liquidation de l'allocation de revenu de solidarité active et de l'allocation de parent isolé dans les conditions fixées dans le II de l'article 3 du décret n° 2007-1433 du 5 octobre 2007 relatif à l'expérimentation du revenu de solidarité active mise en oeuvre en faveur des bénéficiaires de l'allocation de parent isolé et du revenu minimum d'insertion.
+Dans le département de la Haute-Corse.
+
+Dans le département du Gers : le territoire de l'unité territoriale d'action sociale de Condom correspondant également au territoire de la commission locale d'insertion de Condom et qui comprend les cantons de Condom, Montréal-du-Gers, Valence-sur-Baïse, Fleurance, Lectoure, Miradoux, Saint-Clar.
+
+Dans le département de la Seine-Maritime : le territoire de l'agglomération d'Elbeuf situé sur l'unité territoriale d'action sociale (UTAS 2).
+
+Dans le département du Doubs : le territoire de la communauté d'agglomération du pays de Montbéliard.
+
+Dans le département de la Haute-Marne : le territoire de l'arrondissement de Chaumont.
+
+Dans le département de l'Allier : le territoire de la commission locale Montluçon constitué des deux unités territoriales d'action sociale de Montluçon et de Montluçon-Ouest-Allier.
+
+Dans le département de la Charente-Maritime : la délégation territoriale d'action sociale du Pays rochefortais constituée du territoire de la communauté d'agglomération du Pays rochefortais et de la communauté de communes Sud-Charente ainsi que la délégation territoriale d'action sociale des Vals de Saintonge constituée du territoire du pays des Vals de Saintonge.
+
+Dans le département du Pas-de-Calais : le territoire de l'Arrageois, du Ternois et du Montreuillois relevant du ressort territorial des commissions locales d'insertion d'Arras, de Saint-Pol-sur-Ternoise et de Montreuil.
+
+Dans le département des Deux-Sèvres : le territoire d'intervention des commissions locales d'insertion de Niort, Bressuire et Thouars qui correspond aux cantons de Mauléon, de Bressuire, de Cerizay, d'Argenton-Château, de Thouars, de Saint-Varent, de Niort nord, de Niort ouest, de Prahecq, de Beauvoir-sur-Niort, de Mauzé-sur-le-Mignon et de Frontenay-Rohan-Rohan.
+
+Dans le département des Alpes-Maritimes : le territoire de la commission locale d'insertion n° 3 qui couvre les circonscriptions de l'Ariane, de Saint-André-de-la-Roche, de Pasteur et de Saint-Roch.
+
+II. - Les territoires du département d'Ille-et-Vilaine, du département de la Charente-Maritime qui sont mentionnés dans le présent article sont autorisés à modifier le rythme de liquidation de l'allocation de revenu de solidarité active et de l'allocation de parent isolé dans les conditions fixées dans le II de l'article 3 du décret n° 2007-1433 du 5 octobre 2007 relatif à l'expérimentation du revenu de solidarité active mise en oeuvre en faveur des bénéficiaires de l'allocation de parent isolé et du revenu minimum d'insertion.
