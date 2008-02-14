@@ -1,17 +1,11 @@
 # Article 23
 
-Le brevet est attribué par un jury départemental.
+Les membres du jury sont nommés par le président parmi les catégories suivantes :
 
-Le jury est présidé par l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, ou son représentant.
+- professeurs des établissements d'enseignement public et des établissements d'enseignement privés sous contrat ;
 
-Il est composé de membres des personnels enseignants de l'Etat et peut également comprendre des maîtres contractuels des établissements d'enseignement privés du second degré sous contrat d'association bénéficiant d'un contrat définitif.
+- personnels de direction ;
 
-Pour la composition du jury, il est fait appel à :
+- membres des corps d'inspection.
 
-- des enseignants exerçant dans les collèges et les lycées professionnels ;
-
-- des principaux de collège, des proviseurs de lycée professionnel ;
-
-- des membres des corps d'inspection à compétence pédagogique.
-
-Les membres du jury sont désignés par l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale.
+Les inspecteurs d'académie, directeurs des services départementaux de l'éducation nationale, sont membres de droit lorsque le jury est présidé par le recteur d'académie ou par un inspecteur d'académie, directeur des services départementaux de l'éducation nationale, désigné par le recteur d'académie.
