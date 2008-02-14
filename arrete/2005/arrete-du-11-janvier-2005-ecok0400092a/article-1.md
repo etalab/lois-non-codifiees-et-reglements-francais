@@ -10,7 +10,7 @@ Directeur des activités et de la protection sociales.
 
 Responsable des opérations de communication.
 
-Responsable du secteur administratif et budgétaire à la direction juridique et fiscale du groupe.
+Responsable du secteur des affaires générales et statutaires, droit public et coordination à la direction juridique et fiscale du groupe.
 
 Responsable des affaires générales du département achats, immobilier et logistique à la direction du budget, des systèmes d'information et des moyens généraux de la Caisse des dépôts et consignations.
 
