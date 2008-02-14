@@ -92,7 +92,6 @@
 - [Arrêté du 4 février 1998 (MESP9820553A)](arrete-du-4-fevrier-1998-mesp9820553a)
 - [Arrêté du 4 juin 1998 (DEFP9801556A)](arrete-du-4-juin-1998-defp9801556a)
 - [Arrêté du 4 juin 1998 (ECOT9851691A)](arrete-du-4-juin-1998-ecot9851691a)
-- [Arrêté du 4 mars 1998 (ECOD9820008A)](arrete-du-4-mars-1998-ecod9820008a)
 - [Arrêté du 4 mars 1998 (ECOF9800012A)](arrete-du-4-mars-1998-ecof9800012a)
 - [Arrêté du 4 mars 1998 (ECOT9851663A)](arrete-du-4-mars-1998-ecot9851663a)
 - [Arrêté du 4 mars 1998 (EQUG9800342A)](arrete-du-4-mars-1998-equg9800342a)

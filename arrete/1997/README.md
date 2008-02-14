@@ -612,7 +612,6 @@
 - [Arrêté du 19 mars 1997 (FPPA9710033A)](arrete-du-19-mars-1997-fppa9710033a)
 - [Arrêté du 19 mars 1997 (TASF9710444A)](arrete-du-19-mars-1997-tasf9710444a)
 - [Arrêté du 19 novembre 1997 (ECOB9710063A)](arrete-du-19-novembre-1997-ecob9710063a)
-- [Arrêté du 19 novembre 1997 (ECOB9740032A)](arrete-du-19-novembre-1997-ecob9740032a)
 - [Arrêté du 19 novembre 1997 (ECOT9710314A)](arrete-du-19-novembre-1997-ecot9710314a)
 - [Arrêté du 19 novembre 1997 (ECOT9710316A)](arrete-du-19-novembre-1997-ecot9710316a)
 - [Arrêté du 19 novembre 1997 (ECOT9710317A)](arrete-du-19-novembre-1997-ecot9710317a)
