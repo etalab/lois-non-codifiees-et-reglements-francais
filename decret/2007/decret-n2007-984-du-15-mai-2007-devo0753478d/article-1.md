@@ -24,7 +24,7 @@ II. - 1° Le directeur régional de l'environnement de Midi-Pyrénées, délégu
 
 9° Le directeur régional de l'équipement de Midi-Pyrénées ;
 
-10° Le directeur régional des affaires maritimes de Bordeaux ;
+10° Le directeur régional des affaires maritimes de Gironde ;
 
 11° Le délégué régional au tourisme de Midi-Pyrénées ;
 
@@ -144,7 +144,7 @@ II. - 1° Le directeur régional de l'environnement de Rhône-Alpes, délégué 
 
 9° Le directeur régional de l'équipement de Rhône-Alpes, du Languedoc-Roussillon et de Provence-Alpes-Côte d'Azur ;
 
-10° Le directeur régional des affaires maritimes de Marseille ;
+10° Le directeur régional des affaires maritimes de Provence-Alpes-Côte d'Azur ;
 
 11° Le délégué régional au tourisme de Provence-Alpes-Côte d'Azur ;
 
@@ -184,6 +184,10 @@ II. - 1° Le directeur régional de l'environnement d'Ile-de-France, délégué 
 
 12° Le directeur régional de la jeunesse et des sports d'Ile-de-France ;
 
-13° Le sous-directeur de l'environnement, direction des affaires économiques et financières, auprès du ministre chargé des affaires étrangères.
+13° Le sous-directeur de l'environnement, direction des affaires économiques et financières, auprès du ministre chargé des affaires étrangères ;
 
-III. - Au titre des établissements publics de l'Etat : le directeur général de Voies navigables de France (VNF), le directeur général délégué du Bureau de recherches géologiques et minières (BRGM), le directeur général adjoint de l'Institut français de recherche pour l'exploitation de la mer (IFREMER), le directeur général du Port autonome du Havre.
+14° L'ingénieur régional des affaires sanitaires chargé du bassin hydrographique Seine-Normandie ;
+
+15° Le chargé de mission auprès du préfet de la région Ile-de-France.
+
+III. - Au titre des établissements publics de l'Etat : le directeur général de Voies navigables de France (VNF), le directeur général délégué du Bureau de recherches géologiques et minières (BRGM), le directeur général adjoint de l'Institut français de recherche pour l'exploitation de la mer (IFREMER), le directeur général du Port autonome du Havre, le directeur général de l'Institut de recherche pour l'ingénierie de l'agriculture et de l'environnement (CEMAGREF).
