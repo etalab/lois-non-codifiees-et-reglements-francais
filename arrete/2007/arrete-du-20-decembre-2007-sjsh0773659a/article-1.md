@@ -2,7 +2,7 @@
 
 En application de l'article 5 du décret du 19 décembre 2001 susvisé, les deux concours organisés en vue du recrutement des attachés d'administration hospitalière comportent les épreuves suivantes :
 
-**A. - Epreuves d'admissibilité communes aux deux concours**
+**A.-Epreuves d'admissibilité communes aux deux concours**
 
 1° Au choix du candidat :
 
@@ -10,19 +10,19 @@ a) Une dissertation sur un sujet portant sur les grands problèmes politiques, �
 
 b) La rédaction d'une note à partir d'un dossier portant sur les problèmes d'organisation et de gestion dans le domaine sanitaire et social pouvant comporter des solutions à dégager (durée : quatre heures ; coefficient 4).
 
-2° Une composition, au choix du candidat exprimé avant la clôture des inscriptions, sur l'une des matières suivantes (durée : trois heures ; coefficient 3) :
+2° Une composition, au choix du candidat exprimé avant la clôture des inscriptions, sur l'une des matières suivantes (durée : trois heures ; coefficient 4) :
 
-- droit public ;
+-droit public ;
 
-- macroéconomie ;
+-macroéconomie ;
 
-- finances publiques ;
+-finances publiques ;
 
-- législation sociale et aide sociale ;
+-législation sociale et aide sociale ;
 
-- droit hospitalier.
+-droit hospitalier.
 
-**B. - Epreuves d'admission communes aux deux concours**
+**B.-Epreuves d'admission communes aux deux concours**
 
 1° Un entretien avec les membres du jury ayant pour point de départ, au choix du candidat au moment de l'épreuve, soit ses réflexions sur un sujet, soit le commentaire d'un texte portant sur les problèmes sanitaires, sociaux et de société contemporains (durée : vingt minutes, après une préparation de vingt minutes ; coefficient 4) ;
 

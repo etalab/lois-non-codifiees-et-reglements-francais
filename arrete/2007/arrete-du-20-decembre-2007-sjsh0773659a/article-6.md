@@ -16,18 +16,14 @@ d) Les candidats désirant bénéficier du recul ou de la suppression de la limi
 
 2° Pour les candidats déclarés admis à l'issue des épreuves :
 
-a) Une déclaration sur l'honneur exprimant leur volonté de suivre le cycle de formation ;
+a) Une photocopie du livret de famille ou de la carte nationale d'identité française ou de ressortissant de l'un des Etats membres de l'Union européenne ;
 
-b) Un engagement de servir d'une durée de dix ans à compter de la date de leur entrée en formation ;
+b) Une demande d'extrait de casier judiciaire (bulletin n° 2) ;
 
-c) Une photocopie du livret de famille ou de la carte nationale d'identité française ou de ressortissant de l'un des Etats membres de l'Union européenne ;
+c) Un certificat délivré par un médecin assermenté attestant, conformément aux indications mentionnées sur l'imprimé délivré au candidat, que celui-ci n'est atteint d'aucune maladie ou infirmité incompatible avec l'exercice des fonctions d'attaché d'administration hospitalière ; pour les candidats handicapés, un avis de la commission des droits et de l'autonomie des personnes handicapées compétente attestant que le handicap du candidat est compatible avec l'exercice des fonctions d'attaché d'administration hospitalière ;
 
-d) Une demande d'extrait de casier judiciaire (bulletin n° 2) ;
+d) Un état signalétique des services militaires ou une photocopie de ce document, ou, pour les candidats n'ayant pas accompli leur service national, une pièce attestant leur situation au regard du code du service national ;
 
-e) Un certificat délivré par un médecin assermenté attestant, conformément aux indications mentionnées sur l'imprimé délivré au candidat, que celui-ci n'est atteint d'aucune maladie ou infirmité incompatible avec l'exercice des fonctions d'attaché d'administration hospitalière ; pour les candidats handicapés, un avis de la commission des droits et de l'autonomie des personnes handicapées compétente attestant que le handicap du candidat est compatible avec l'exercice des fonctions d'attaché d'administration hospitalière ;
-
-f) Un état signalétique des services militaires ou une photocopie de ce document, ou, pour les candidats n'ayant pas accompli leur service national, une pièce attestant leur situation au regard du code du service national ;
-
-g) Pour les fonctionnaires de l'Etat, d'une collectivité territoriale ou d'un établissement public, la dernière décision indiciaire dont ils ont fait l'objet.
+e) Pour les fonctionnaires de l'Etat, d'une collectivité territoriale ou d'un établissement public, la dernière décision indiciaire dont ils ont fait l'objet.
 
 Pour obtenir les imprimés nécessaires à l'établissement de la demande d'admission à concourir, les candidats doivent s'adresser au directeur général du Centre national de gestion des praticiens hospitaliers et des personnels de direction de la fonction publique hospitalière, immeuble Le Ponant, 21, rue Leblanc, Paris 75015.
