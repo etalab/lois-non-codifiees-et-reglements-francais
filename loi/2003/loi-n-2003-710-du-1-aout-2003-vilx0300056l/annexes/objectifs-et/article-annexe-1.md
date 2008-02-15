@@ -20,13 +20,13 @@ Les contributions de la Caisse des dépôts et consignations ;
 
 Le cas échéant, les subventions de l'Union européenne, notamment celles relevant de l'objectif 2 et du programme d'initiative communautaire URBAN ;
 
-Les prêts sur fonds d'épargne consentis par la Caisse des dépôts et consignations. L'enveloppe pour la période 2004-2005 est fixée à 1,6 milliard d'euros sous la forme de prêts de renouvellement urbain. Une convention spécifique précisera l'enveloppe consacrée aux prêts pour la période 2006-2008 ;
+Les prêts sur fonds d'épargne consentis par la Caisse des dépôts et consignations.L'enveloppe pour la période 2004-2005 est fixée à 1, 6 milliard d'euros sous la forme de prêts de renouvellement urbain. Une convention spécifique précisera l'enveloppe consacrée aux prêts pour la période 2006-2008 ;
 
 Les contributions de solidarité versées par les organismes d'habitations à loyer modéré cités à l'article L. 452-4-1 du code de la construction et de l'habitation.
 
-1. L'objectif de réduction progressive des écarts constatés avec les autres villes ou quartiers, et de "retour au droit commun"
+1.L'objectif de réduction progressive des écarts constatés avec les autres villes ou quartiers, et de " retour au droit commun "
 
-La politique de la ville se justifie par l'objectif de réduction progressive des écarts constatés avec les autres villes ou quartiers, et de "retour au droit commun".
+La politique de la ville se justifie par l'objectif de réduction progressive des écarts constatés avec les autres villes ou quartiers, et de " retour au droit commun ".
 
 Ainsi, chacun des indicateurs mentionnés dans la présente annexe est accompagné de son évaluation pour les zones urbaines dans leur ensemble.
 
@@ -36,9 +36,9 @@ Ces indicateurs figurent dans le rapport au Parlement prévu par l'article 5.
 
 2. Emploi et développement économique : réduire les disparités territoriales et améliorer l'accès à l'emploi
 
-D'après les données des recensements, le taux de chômage a augmenté plus fortement dans les zones urbaines sensibles que dans l'ensemble de la France urbaine, pour atteindre 25,4 %, soit 491 601 chômeurs. Cette moyenne recouvre des écarts considérables entre les ZUS, certaines d'entre elles connaissant un taux de chômage supérieur à 40 %. Par ailleurs, le taux de chômage des jeunes dans l'ensemble des ZUS était en 1999 de 40 %, soit 15 points au-dessus de la moyenne nationale. Le faible niveau de qualification des habitants des ZUS constitue un handicap pour l'accès à l'emploi. En 1999, un habitant sur trois de plus de quinze ans déclarait n'avoir aucun diplôme, soit 1,8 fois plus que la moyenne nationale. Enfin, les données partielles sur la mise en oeuvre de la politique de l'emploi en 2000 et 2001 font apparaître globalement un déficit d'accès des publics visés par ces politiques en ZUS par rapport aux mêmes publics résidant dans d'autres territoires.
+D'après les données des recensements, le taux de chômage a augmenté plus fortement dans les zones urbaines sensibles que dans l'ensemble de la France urbaine, pour atteindre 25, 4 %, soit 491 601 chômeurs. Cette moyenne recouvre des écarts considérables entre les ZUS, certaines d'entre elles connaissant un taux de chômage supérieur à 40 %. Par ailleurs, le taux de chômage des jeunes dans l'ensemble des ZUS était en 1999 de 40 %, soit 15 points au-dessus de la moyenne nationale. Le faible niveau de qualification des habitants des ZUS constitue un handicap pour l'accès à l'emploi. En 1999, un habitant sur trois de plus de quinze ans déclarait n'avoir aucun diplôme, soit 1, 8 fois plus que la moyenne nationale. Enfin, les données partielles sur la mise en oeuvre de la politique de l'emploi en 2000 et 2001 font apparaître globalement un déficit d'accès des publics visés par ces politiques en ZUS par rapport aux mêmes publics résidant dans d'autres territoires.
 
-2.1. Les objectifs
+2. 1. Les objectifs
 
 Réduire d'un tiers le nombre de chômeurs dans les ZUS sur une période de cinq ans.
 
@@ -48,43 +48,43 @@ Mener des politiques prioritaires de formation professionnelle des habitants des
 
 Renforcer les politiques d'insertion par l'emploi des populations à faible qualification et de celles durablement exclues du marché de l'emploi.
 
-2.2. Les indicateurs de résultats
+2. 2. Les indicateurs de résultats
 
 Evolution annuelle du taux de chômage dans l'ensemble des zones urbaines sensibles et dans l'ensemble des agglomérations concernées par la politique de la ville.
 
 Evolution du même taux pour les actifs de faible niveau de formation, et pour les jeunes actifs de moins de vingt-cinq ans dans les ZUS et les agglomérations de référence.
 
-Evolution annuelle du nombre des demandeurs d'emploi de catégorie 1 inscrits à l'Agence nationale pour l'emploi (ANPE) dans les ZUS et des demandeurs d'emploi étrangers résidant en ZUS.
+Evolution annuelle du nombre des demandeurs d'emploi de catégorie 1 inscrits à l'intitution mentionnée à l'article L. 311-7 du code du travail (ANPE) dans les ZUS et des demandeurs d'emploi étrangers résidant en ZUS.
 
-2.3. Les indicateurs de mise en oeuvre des dispositifs
+2. 3. Les indicateurs de mise en oeuvre des dispositifs
 
 de la politique d'emploi et de développement économique
 
-2.3.1. Taux de couverture des différents dispositifs d'aide à l'emploi dans les ZUS comparé aux agglomérations :
+2. 3. 1. Taux de couverture des différents dispositifs d'aide à l'emploi dans les ZUS comparé aux agglomérations :
 
-- aides à l'embauche en entreprise ;
+-aides à l'embauche en entreprise ;
 
-- aides aux emplois des entreprises d'insertion ;
+-aides aux emplois des entreprises d'insertion ;
 
-- aides aux emplois d'utilité sociale ;
+-aides aux emplois d'utilité sociale ;
 
-- stages de formation et d'insertion ;
+-stages de formation et d'insertion ;
 
-- contrats en alternance.
+-contrats en alternance.
 
-2.3.2. Développement économique et emploi dans les ZUS et en particulier dans les zones franches urbaines (ZFU) :
+2. 3. 2. Développement économique et emploi dans les ZUS et en particulier dans les zones franches urbaines (ZFU) :
 
-- nombre d'entreprises existantes, créées ou transférées ;
+-nombre d'entreprises existantes, créées ou transférées ;
 
-- nombre d'emplois existants, transférés et créés dans les ZFU et nombre d'embauches réalisées par les entreprises implantées dans ces zones de personnes résidant en ZUS ;
+-nombre d'emplois existants, transférés et créés dans les ZFU et nombre d'embauches réalisées par les entreprises implantées dans ces zones de personnes résidant en ZUS ;
 
-- taux de suivi des demandeurs d'emploi en ZUS par le service public de l'emploi ;
+-taux de suivi des demandeurs d'emploi en ZUS par le service public de l'emploi ;
 
-- investissements publics réalisés dans chaque ZUS, zone de redynamisation urbaine (ZRU) et ZFU.
+-investissements publics réalisés dans chaque ZUS, zone de redynamisation urbaine (ZRU) et ZFU.
 
 3. Améliorer l'habitat et l'environnement urbain
 
-3.1. Les objectifs
+3. 1. Les objectifs
 
 Les objectifs visent sur une période de cinq ans :
 
@@ -112,7 +112,7 @@ La qualité de la gestion urbaine de proximité
 
 L'objectif est de développer les conventions de gestion urbaine de proximité pour toutes les ZUS de plus de 500 logements ainsi que pour les sites faisant l'objet d'opérations de rénovation urbaine. Dans tous les cas, ces conventions doivent se fonder sur des diagnostics précis, donner lieu à des engagements contractuels clairs, être dotées d'outils de suivi et d'évaluation et associer les habitants à tous les niveaux de mise en oeuvre, du diagnostic à l'évaluation.
 
-3.2. Les indicateurs
+3. 2. Les indicateurs
 
 Nombre annuel de logements sociaux réhabilités dans les ZUS.
 
@@ -142,23 +142,23 @@ Nombre de logements individuels destinés à l'habitation principale, réalisés
 
 Permettre à chacun d'accéder à une offre de soins de proximité et de qualité, à la fois curative et préventive, est l'ambition de notre système national de santé. En ZUS, celui-ci doit s'adapter pour tenir compte de la spécificité des populations qui y résident et améliorer ainsi sa performance et l'état sanitaire général de la population.
 
-4.1. Les objectifs
+4. 1. Les objectifs
 
-4.1.1. Favoriser l'installation des professionnels de la santé.
+4. 1. 1. Favoriser l'installation des professionnels de la santé.
 
 Compte tenu des carences constatées, il y a lieu de garantir pour chaque ZUS un bon niveau de démographie médicale. Le Gouvernement présentera au Parlement un rapport sur l'état de l'offre médicale et paramédicale en ZUS en un plan quinquennal de résorption des zones déficitaires identifiées.
 
 Ce plan favorisera l'installation de professions médicales et paramédicales et le développement à la fois des maisons de santé et des réseaux de santé publique, tels que définis par l'article L. 6321-1 du code de la santé publique. Les maisons de santé créées répondent au besoin d'une médecine de ville de proximité et permettent d'assurer dans de meilleures conditions la permanence des soins. Elles ont vocation à conduire des actions de prévention sanitaire, en particulier en direction des populations étrangères et des femmes. Le développement de la pédopsychiatrie en ZUS sera encouragé dans ce cadre.
 
-4.1.2. Accompagner les programmes de prévention.
+4. 1. 2. Accompagner les programmes de prévention.
 
-Les programmes régionaux d'accès à la prévention et aux soins (PRAPS) se concrétiseront dans les ZUS grâce à des instances locales de concertation, de déclinaison et d'élaboration de programmes de santé publique, notamment, les ateliers "santé-ville", qui réunissent les acteurs sanitaires et sociaux, les services déconcentrés de l'Etat, les collectivités territoriales et les associations concernées. Le développement de la médiation dans le domaine de la santé sera encouragé dans ce cadre et dans celui des maisons de santé, notamment par le programme adultes-relais. Pour apprécier les efforts en la matière, les systèmes d'information mis en place pour l'analyse du financement du programme de santé publique et des activités correspondantes permettront de distinguer les ZUS.
+Les programmes régionaux d'accès à la prévention et aux soins (PRAPS) se concrétiseront dans les ZUS grâce à des instances locales de concertation, de déclinaison et d'élaboration de programmes de santé publique, notamment, les ateliers " santé-ville ", qui réunissent les acteurs sanitaires et sociaux, les services déconcentrés de l'Etat, les collectivités territoriales et les associations concernées. Le développement de la médiation dans le domaine de la santé sera encouragé dans ce cadre et dans celui des maisons de santé, notamment par le programme adultes-relais. Pour apprécier les efforts en la matière, les systèmes d'information mis en place pour l'analyse du financement du programme de santé publique et des activités correspondantes permettront de distinguer les ZUS.
 
-4.1.3. Renforcer la santé scolaire.
+4. 1. 3. Renforcer la santé scolaire.
 
 Une optimisation des ressources médicales et paramédicales au niveau local confortera les efforts entrepris pour renforcer la santé scolaire et développer les programmes de prévention en direction des jeunes. Une attention particulière sera portée à la réalisation des prescriptions de soins à l'issue des bilans de santé.
 
-4.2. Les indicateurs
+4. 2. Les indicateurs
 
 Démographie médicale et paramédicale
 
@@ -190,65 +190,65 @@ La qualité de l'offre scolaire et éducative est un vecteur essentiel de requal
 
 Les efforts de discrimination positive accomplis depuis plus de vingt ans dans le cadre de l'éducation prioritaire, s'ils ont été importants, n'ont cependant pas permis de réduire notablement les écarts de réussite scolaire entre les établissements situés en ZUS et l'ensemble du territoire national. Si les difficultés scolaires ne sont pas spécifiques aux jeunes résidant en ZUS, elles revêtent un caractère particulièrement aigu dans ces quartiers et plus particulièrement dans les familles qui cumulent des difficultés économiques et sociales.
 
-5.1. Les objectifs
+5. 1. Les objectifs
 
 Pour réduire les écarts de niveau entre certains élèves et les autres élèves scolarisés en ZUS et leur garantir une formation adaptée, le système éducatif poursuivra son adaptation et sa coopération avec les collectivités territoriales et autres acteurs locaux. Une démarche de veille éducative, permettant de prévenir les interruptions des parcours éducatifs, sera systématiquement mise en oeuvre au plan local.
 
 L'objectif à atteindre d'ici à cinq ans est une augmentation significative de la réussite scolaire dans les établissements des réseaux d'éducation prioritaire et des ZUS pour rapprocher leurs résultats de ceux des autres établissements scolaires.
 
-5.1.1. Poursuivre les efforts en faveur de l'éducation prioritaire.
+5. 1. 1. Poursuivre les efforts en faveur de l'éducation prioritaire.
 
-Il revient aux acteurs locaux de se donner des objectifs précis dans le cadre d'une relance des contrats de réussite et d'élaborer des tableaux de bord avec des indicateurs de moyens et de performances. C'est sur la base du contrat de réussite que seront définis les engagements des autorités académiques. Au sein des réseaux d'éducation prioritaire, la lettre de mission des responsables et des coordonnateurs les mandatera pour assurer l'articulation entre le réseau d'éducation prioritaire et la ville.
+Il revient aux acteurs locaux de se donner des objectifs précis dans le cadre d'une relance des contrats de réussite et d'élaborer des tableaux de bord avec des indicateurs de moyens et de performances.C'est sur la base du contrat de réussite que seront définis les engagements des autorités académiques. Au sein des réseaux d'éducation prioritaire, la lettre de mission des responsables et des coordonnateurs les mandatera pour assurer l'articulation entre le réseau d'éducation prioritaire et la ville.
 
-5.1.2. Clarifier et simplifier les politiques éducatives.
+5. 1. 2. Clarifier et simplifier les politiques éducatives.
 
 La multiplicité des cadres de contractualisation, des dispositifs, des échelles d'intervention et des opérateurs n'assure ni la lisibilité ni la cohérence des actions éducatives sur un territoire. Les procédures et cadres contractuels seront simplifiés dès 2004. Ils seront organisés dans un cadre fédérateur regroupant tous les dispositifs existants dans et hors l'école, associant l'ensemble des partenaires concernés qui en détermineront localement les modalités. Ce cadre déterminera les enjeux stratégiques, les objectifs prioritaires et les moyens mobilisés.
 
-5.2. Les indicateurs
+5. 2. Les indicateurs
 
-5.2.1. Indicateurs nationaux de moyens dans les établissements en ZUS :
+5. 2. 1. Indicateurs nationaux de moyens dans les établissements en ZUS :
 
-- nombre d'enseignants pour cent élèves dans les écoles ;
+-nombre d'enseignants pour cent élèves dans les écoles ;
 
-- nombre moyen d'élèves par structure pédagogique au collège ;
+-nombre moyen d'élèves par structure pédagogique au collège ;
 
-- dotation totale horaire dans les collèges ;
+-dotation totale horaire dans les collèges ;
 
-- proportion d'enseignants en poste depuis deux ans ou moins dans le même collège ;
+-proportion d'enseignants en poste depuis deux ans ou moins dans le même collège ;
 
-- proportion d'enseignants de moins de trente ans dans les écoles ;
+-proportion d'enseignants de moins de trente ans dans les écoles ;
 
-- proportion d'enseignants de moins de trente ans dans les collèges ;
+-proportion d'enseignants de moins de trente ans dans les collèges ;
 
-- nombre de classes d'enseignement général de lycées ;
+-nombre de classes d'enseignement général de lycées ;
 
-- nombre d'établissements d'enseignement supérieur.
+-nombre d'établissements d'enseignement supérieur.
 
-5.2.2. Indicateurs de résultats :
+5. 2. 2. Indicateurs de résultats :
 
-- résultats aux évaluations nationales (considérés dans tous les cas à partir de l'écart aux moyennes nationales) ;
+-résultats aux évaluations nationales (considérés dans tous les cas à partir de l'écart aux moyennes nationales) ;
 
-- proportion d'élèves en retard au début du cycle 3 ;
+-proportion d'élèves en retard au début du cycle 3 ;
 
-- proportion d'élèves en retard à la fin du cycle 3 ;
+-proportion d'élèves en retard à la fin du cycle 3 ;
 
-- proportion d'élèves en retard de deux ans ou plus en 6e ;
+-proportion d'élèves en retard de deux ans ou plus en 6e ;
 
-- proportion d'élèves en retard de deux ans ou plus en 3e générale, sauf 3e d'insertion ;
+-proportion d'élèves en retard de deux ans ou plus en 3e générale, sauf 3e d'insertion ;
 
-- taux d'accès de 6e en 3e ;
+-taux d'accès de 6e en 3e ;
 
-- devenir des élèves de 3e en fin de seconde générale et technologique ;
+-devenir des élèves de 3e en fin de seconde générale et technologique ;
 
-- devenir des élèves de 3e en fin de seconde professionnelle ;
+-devenir des élèves de 3e en fin de seconde professionnelle ;
 
-- résultats au diplôme national du brevet des collèges ;
+-résultats au diplôme national du brevet des collèges ;
 
-- taux de réussite aux baccalauréats général, technologique et professionnel ;
+-taux de réussite aux baccalauréats général, technologique et professionnel ;
 
-- proportion d'élèves boursiers reçus au brevet des collèges ;
+-proportion d'élèves boursiers reçus au brevet des collèges ;
 
-- proportion d'élèves boursiers reçus au baccalauréat.
+-proportion d'élèves boursiers reçus au baccalauréat.
 
 Chaque fois que possible, on retiendra le taux d'évitement à l'entrée en 6e.
 
@@ -256,11 +256,11 @@ Chaque fois que possible, on retiendra le taux d'évitement à l'entrée en 6e.
 
 Les problèmes d'insécurité concernent l'ensemble du territoire national et s'accroissent dans les zones périurbaines. Les actes de délinquance et les atteintes à la tranquillité publique accentuent le sentiment d'abandon de la population des ZUS, souvent fragilisée et exposée à une insécurité économique et sociale. Le déficit de gestion urbaine de proximité, une présence souvent insuffisante des services et équipements publics, la forte visibilité des conflits d'usage des espaces ouverts au public et les tensions de la vie quotidienne entre générations, services publics et usagers confortent le sentiment de relégation et nourrissent le sentiment d'insécurité.
 
-Ainsi, il résulte de l'enquête INSEE "vie de quartier" (avril 2002) que la part des personnes trouvant leur quartier peu sûr est beaucoup plus importante pour les habitants des quartiers de la politique de la ville que pour les autres (habitants en ZUS : 46,4 %, comparé à 7,7 % pour les habitants de zones rurales et agglomérations sans ZUS et 17 % pour les habitants d'agglomérations avec ZUS).
+Ainsi, il résulte de l'enquête INSEE " vie de quartier " (avril 2002) que la part des personnes trouvant leur quartier peu sûr est beaucoup plus importante pour les habitants des quartiers de la politique de la ville que pour les autres (habitants en ZUS : 46, 4 %, comparé à 7, 7 % pour les habitants de zones rurales et agglomérations sans ZUS et 17 % pour les habitants d'agglomérations avec ZUS).
 
 Ces problèmes d'insécurité réduisent l'attractivité de ces territoires et peuvent mettre en péril les programmes de rénovation urbaine qui y sont engagés.
 
-6.1. Les objectifs
+6. 1. Les objectifs
 
 L'objectif est de réduire le niveau de délinquance et d'améliorer la tranquillité et la sécurité publiques afin de rétablir le sentiment de sécurité et la qualité de vie dans les quartiers en ZUS. Cela exige de prévenir et de lutter contre la délinquance sous toutes ses formes, mais également d'oeuvrer à la cohésion sociale et de garantir l'accès au droit des personnes habitant les territoires urbains qui connaissent aujourd'hui les plus grandes fractures.
 
@@ -268,94 +268,94 @@ Cela implique la mobilisation de tous : l'Etat, les maires animateurs des politi
 
 Plus précisément, il s'agit de poursuivre les objectifs suivants :
 
-6.1.1. Réduire le nombre des infractions portant le plus atteinte au sentiment de sécurité ainsi que celles qui ont des incidences criminogènes à long terme.
+6. 1. 1. Réduire le nombre des infractions portant le plus atteinte au sentiment de sécurité ainsi que celles qui ont des incidences criminogènes à long terme.
 
 Sont notamment concernés :
 
-- les atteintes aux personnes (coups et blessures, menaces et injures) ;
+-les atteintes aux personnes (coups et blessures, menaces et injures) ;
 
-- les atteintes aux biens privés (vols et dégradations de véhicules privés, cambriolages) ;
+-les atteintes aux biens privés (vols et dégradations de véhicules privés, cambriolages) ;
 
-- les atteintes aux services d'intérêt collectif (obstacles à l'intervention de services de sécurité ou de secours, atteintes aux professionnels de santé, atteintes au fonctionnement de services publics et à leurs agents) ;
+-les atteintes aux services d'intérêt collectif (obstacles à l'intervention de services de sécurité ou de secours, atteintes aux professionnels de santé, atteintes au fonctionnement de services publics et à leurs agents) ;
 
-- les agressions en milieu scolaire ;
+-les agressions en milieu scolaire ;
 
-- le trafic de stupéfiants ;
+-le trafic de stupéfiants ;
 
-- les mauvais traitements et abandons d'enfants.
+-les mauvais traitements et abandons d'enfants.
 
-6.1.2. Réduire le sentiment d'abandon et contribuer à la paix sociale.
+6. 1. 2. Réduire le sentiment d'abandon et contribuer à la paix sociale.
 
 Les actions suivantes peuvent notamment y concourir :
 
-- réduire les nuisances environnementales par des actions de veille, de prévention et de remise en état ;
+-réduire les nuisances environnementales par des actions de veille, de prévention et de remise en état ;
 
-- améliorer le cadre de vie notamment par le renouvellement urbain après réalisation d'un diagnostic de sécurité en relation avec les forces de police et de gendarmerie ;
+-améliorer le cadre de vie notamment par le renouvellement urbain après réalisation d'un diagnostic de sécurité en relation avec les forces de police et de gendarmerie ;
 
-- réduire les actes de racisme, les discriminations, notamment dans l'accès aux services publics ;
+-réduire les actes de racisme, les discriminations, notamment dans l'accès aux services publics ;
 
-- valoriser l'image et l'efficacité des services publics et mieux expliquer leur rôle, notamment pour la gendarmerie, la police et la justice ;
+-valoriser l'image et l'efficacité des services publics et mieux expliquer leur rôle, notamment pour la gendarmerie, la police et la justice ;
 
-- impliquer les habitants des ZUS dans l'élaboration des réponses en matière de tranquillité et de sécurité et leur mise en oeuvre ;
+-impliquer les habitants des ZUS dans l'élaboration des réponses en matière de tranquillité et de sécurité et leur mise en oeuvre ;
 
-- favoriser l'accès au droit.
+-favoriser l'accès au droit.
 
-6.2. Les indicateurs
+6. 2. Les indicateurs
 
 La construction de ces indicateurs nécessite l'établissement de statistiques pour chaque ZUS par les administrations concernées, en cohérence avec les agrégats réalisés par le dispositif national mis en place par l'Institut des hautes études de la sécurité intérieure à travers l'Observatoire national de la délinquance.
 
-6.2.1. Indicateurs de résultats :
+6. 2. 1. Indicateurs de résultats :
 
-- nombre de crimes et délits (commis dans les zones urbaines sensibles) enregistrés par les services de police et de gendarmerie par catégorie d'infraction (statistiques "état 4001" - coups et blessures volontaires criminels et délictuels sauf ceux suivis de mort, vols violents sans arme contre des femmes sur voie publique, destructions et dégradations de véhicules privés, cambriolages de locaux d'habitation principale, destructions et dégradations de biens publics, trafic et revente sans usage de stupéfiants, mauvais traitements et abandons d'enfants) ;
+-nombre de crimes et délits (commis dans les zones urbaines sensibles) enregistrés par les services de police et de gendarmerie par catégorie d'infraction (statistiques " état 4001 "-coups et blessures volontaires criminels et délictuels sauf ceux suivis de mort, vols violents sans arme contre des femmes sur voie publique, destructions et dégradations de véhicules privés, cambriolages de locaux d'habitation principale, destructions et dégradations de biens publics, trafic et revente sans usage de stupéfiants, mauvais traitements et abandons d'enfants) ;
 
-- taux d'élucidation (des faits précédents) ;
+-taux d'élucidation (des faits précédents) ;
 
-- nombre d'outrages et violences à agents de la force publique ("état 4001") ;
+-nombre d'outrages et violences à agents de la force publique (" état 4001 ") ;
 
-- nombre d'incidents scolaires signalés dans les collèges sur la base des données du système de recensement et de signalement des faits de violence ;
+-nombre d'incidents scolaires signalés dans les collèges sur la base des données du système de recensement et de signalement des faits de violence ;
 
-- exploitation de l'enquête annuelle INSEE (enquête permanente sur les conditions de vie des ménages, questions relatives au sentiment de sécurité).
+-exploitation de l'enquête annuelle INSEE (enquête permanente sur les conditions de vie des ménages, questions relatives au sentiment de sécurité).
 
-6.2.2. Indicateurs de moyens :
+6. 2. 2. Indicateurs de moyens :
 
-- nombre d'agents d'unités spécialisées (brigade des mineurs et brigade de prévention de la délinquance juvénile) affectés aux circonscriptions comprenant une ZUS ;
+-nombre d'agents d'unités spécialisées (brigade des mineurs et brigade de prévention de la délinquance juvénile) affectés aux circonscriptions comprenant une ZUS ;
 
-- nombre de lieux d'accueil d'aide aux victimes dans les communes comprenant une ZUS ;
+-nombre de lieux d'accueil d'aide aux victimes dans les communes comprenant une ZUS ;
 
-- nombre de dispositifs d'accès au droit et à la justice (maisons de la justice et du droit, point d'accès au droit) ;
+-nombre de dispositifs d'accès au droit et à la justice (maisons de la justice et du droit, point d'accès au droit) ;
 
-- nombre de contrats locaux de sécurité et de prévention de la délinquance ;
+-nombre de contrats locaux de sécurité et de prévention de la délinquance ;
 
-- nombre d'éducateurs de prévention spécialisée ;
+-nombre d'éducateurs de prévention spécialisée ;
 
-- nombre d'agents de médiation sociale.
+-nombre d'agents de médiation sociale.
 
 7. Mobiliser les services publics
 
 La proximité, la facilité d'accès et la simplicité d'usage des services publics, demandées par les Français, revêtent une importance particulière en ZUS où les services publics constituent un instrument de solidarité et de cohésion nationales. Le niveau et la qualité de leur présence, les conditions d'accès garanties à des publics divers et le soutien apporté à leur personnel constituent les orientations quinquennales qui seront mises en oeuvre.
 
-7.1. Les objectifs
+7. 1. Les objectifs
 
-7.1.1. Renforcer la présence et l'accessibilité des services publics.
+7. 1. 1. Renforcer la présence et l'accessibilité des services publics.
 
 Des schémas locaux des services publics en ZUS seront réalisés. Ils concerneront l'Etat, les collectivités territoriales et leurs groupements et leurs établissements publics respectifs. Ils viseront à déterminer le niveau d'engagement de chaque service public sur les sites concernés, les seuils minimaux de présence effective de ces services au regard des niveaux constatés au sein de l'agglomération de référence, le calendrier de remise à niveau des effectifs et des moyens humains et les modalités de résorption des vacances de postes constatées. Ils préciseront les modalités d'adaptation des services aux réalités locales et aux attentes des usagers, en particulier en ce qui concerne les horaires d'ouverture des services et la médiation interculturelle. Ils identifieront les équipements d'intérêt local ou départemental pouvant, dans le cadre des opérations de rénovation urbaine, être implantés en ZUS.
 
 Ces schémas comprendront un volet spécifique sur l'accueil et l'orientation des usagers en visant le regroupement des services notamment par la création de maisons des services publics.
 
-7.1.2. Développer les transports publics.
+7. 1. 2. Développer les transports publics.
 
 Le service public des transports collectifs est, pour nombre d'habitants des quartiers en difficulté, le moyen principal de déplacement.
 
 Son développement sera favorisé, notamment pour faciliter les déplacements vers les pôles d'emploi, les principaux équipements et services publics, les pôles de commerces et de loisirs et les centres-ville. Les caractéristiques de l'offre de transport devront s'adapter aux nouveaux rythmes urbains et prévenir ou réduire les situations d'exclusion générées par les obstacles à la mobilité.
 
-7.2. Les indicateurs
+7. 2. Les indicateurs
 
 Les indicateurs de résultats et les indicateurs de moyens sont précisés service public par service public, y compris pour les établissements publics à caractère industriel et commercial et les organismes paritaires. Les indicateurs de moyens suivants sont établis :
 
-- ratios effectifs-population pour les ZUS ;
+-ratios effectifs-population pour les ZUS ;
 
-- taux de vacances de postes ;
+-taux de vacances de postes ;
 
-- durée moyenne de présence dans le poste ;
+-durée moyenne de présence dans le poste ;
 
-- nombre de maisons des services publics.
+-nombre de maisons des services publics.

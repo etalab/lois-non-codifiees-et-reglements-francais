@@ -26,7 +26,7 @@ Outre les personnes mentionnées à l'article 2, bénéficient des dispositions 
 
 12° Les salariés accomplissant un stage de formation dans les conditions prévues par les articles L. 225-1 et L. 444-9 du code du travail applicable à Mayotte, pour les accidents survenus par le fait ou à l'occasion de cette formation ;
 
-13° Les demandeurs d'emploi, pour les accidents survenus par le fait ou à l'occasion de leur participation à des actions d'aide à la création d'entreprise ou d'orientation, d'évaluation ou d'accompagnement de la recherche d'emploi dispensées ou prescrites par l'Agence nationale pour l'emploi ;
+13° Les demandeurs d'emploi, pour les accidents survenus par le fait ou à l'occasion de leur participation à des actions d'aide à la création d'entreprise ou d'orientation, d'évaluation ou d'accompagnement de la recherche d'emploi dispensées ou prescrites par l'institution mentionnée à l'article L. 311-7 du code du travail ;
 
 14° Les salariés désignés pour siéger dans une instance, consultative ou non, instituée par une disposition législative ou réglementaire auprès d'une autorité de l'Etat pour les accidents survenus par le fait ou à l'occasion de leurs missions, dans la mesure où ils ne bénéficient pas à un autre titre des dispositions du présent article ;
 
