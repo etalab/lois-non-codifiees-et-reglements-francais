@@ -2,15 +2,15 @@
 
 Le Centre national de la chanson, des variétés et du jazz est administré par un conseil d'administration qui comprend :
 
-1° Cinq représentants du ministre chargé de la culture, dont :
+1° Six représentants du ministre chargé de la culture, dont :
 
 a) Le directeur chargé de la musique ;
 
-b) Le directeur chargé de l'administration générale ;
+b) Le secrétaire général ;
 
 c) Un directeur régional des affaires culturelles ;
 
-2° Trois représentants des collectivités territoriales :
+2° Quatre représentants des collectivités territoriales :
 
 a) Un maire ou un conseiller municipal, désigné par le président de l'Association des maires de France ;
 
@@ -18,7 +18,9 @@ b) Un président de conseil général ou un conseiller général, désigné par 
 
 c) Un président de conseil régional ou un conseiller régional, désigné par le président de l'Association des régions de France ;
 
-3° Douze représentants des professions du spectacle de variétés, dont six entrepreneurs de spectacles, cinq salariés et un auteur, désignés par le ministre chargé de la culture sur proposition des organisations professionnelles représentatives ;
+d) Un représentant élu d'une collectivité territoriale désigné par le président de la Fédération nationale des collectivités territoriales pour la culture ;
+
+3° Seize représentants des professions du spectacle de variétés, dont huit entrepreneurs de spectacles, sept salariés et un auteur, désignés par le ministre chargé de la culture sur proposition des organisations professionnelles représentatives ;
 
 4° Quatre personnalités qualifiées dans le domaine des spectacles de variétés désignées par le ministre chargé de la culture sur proposition des organisations professionnelles représentatives ;
 
@@ -28,4 +30,4 @@ La liste des organisations professionnelles représentatives mentionnées au 3°
 
 Pour chacun des membres mentionnés aux 1°, 2° et 5°, un suppléant est désigné dans les mêmes conditions que le titulaire.
 
-Le directeur, le président du conseil d'orientation, le membre du corps du contrôle général économique et financier et l'agent comptable, ainsi que toute personne dont le président souhaite recueillir l'avis, assistent aux séances du conseil d'administration avec voix consultative.
+Le directeur, le président du conseil d'orientation, l'autorité chargée du contrôle économique et financier et l'agent comptable, ainsi que toute personne dont le président souhaite recueillir l'avis, assistent aux séances du conseil d'administration avec voix consultative.

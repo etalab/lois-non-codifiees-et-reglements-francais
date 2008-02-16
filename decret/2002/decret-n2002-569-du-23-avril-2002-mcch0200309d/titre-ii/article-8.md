@@ -4,7 +4,7 @@ Le conseil d'administration règle par ses délibérations les affaires de l'ét
 
 1° Les mesures générales relatives à l'organisation et au fonctionnement de l'établissement ;
 
-2° Le contrat d'objectifs et de moyens qui peut être conclu avec le ministre chargé de la culture et le ministre chargé du budget ;
+2° Le contrat de performance qui peut être conclu avec l'Etat ;
 
 3° Le programme d'activités ;
 
@@ -12,9 +12,9 @@ Le conseil d'administration règle par ses délibérations les affaires de l'ét
 
 5° L'état prévisionnel de recettes et de dépenses et ses modifications ;
 
-6° La part des recettes de taxe parafiscale inscrite sur les comptes nominatifs visés à l'article 1er ;
+6° La part des recettes de taxe sur les spectacles de variétés inscrite sur les comptes nominatifs visés à l'article 1er ;
 
-7° L'octroi des subventions et des aides mentionnées à l'article 2 ;
+7° L'octroi des subventions et des aides mentionnées à l'article 1er ;
 
 8° La politique tarifaire de l'établissement ;
 

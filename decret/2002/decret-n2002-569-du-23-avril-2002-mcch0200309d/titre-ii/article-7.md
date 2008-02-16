@@ -4,6 +4,8 @@ Le conseil d'administration se réunit au moins deux fois par an sur convocation
 
 Un membre du conseil d'administration peut donner, par écrit, mandat à un autre membre de le représenter à une séance. Chaque membre ne peut recevoir qu'un seul mandat.
 
-Le conseil ne peut valablement délibérer que lorsque la moitié au moins de ses membres sont présents ou représentés. Si le quorum n'est pas atteint, le conseil est à nouveau convoqué dans un délai de quinze jours. Il délibère alors valablement, quel que soit le nombre de membres présents ou représentés.
+Le conseil ne peut valablement délibérer que lorsque la moitié au moins de ses membres sont présents ou représentés. Si le quorum n'est pas atteint, le conseil est à nouveau convoqué sur le même ordre du jour, dans un délai de quinze jours. Il délibère alors valablement, quel que soit le nombre de membres présents ou représentés.
 
 A l'exception des délibérations mentionnées aux 4° et 6° de l'article 8, acquises à la majorité des trois quarts, les délibérations du conseil d'administration sont prises à la majorité des votants. En cas de partage égal des voix, la voix du président est prépondérante.
+
+En cas d'absence ou d'empêchement de son président, le conseil d'administration peut être convoqué par le directeur de l'établissement. Le conseil d'administration est alors présidé par le directeur chargé de la musique au ministère chargé de la culture.

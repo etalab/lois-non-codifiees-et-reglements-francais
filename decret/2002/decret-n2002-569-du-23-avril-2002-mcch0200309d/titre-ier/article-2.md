@@ -1,6 +1,6 @@
 # Article 2
 
-Les subventions, aides financières et mesures de soutien économique mentionnées à l'article 2 sont accordées par le centre :
+Les subventions, aides financières et mesures de soutien économique mentionnées à l'article 1er sont accordées par le centre :
 
 1° Aux entreprises de spectacles, pour la création, la production, la diffusion et la promotion de spectacles de variétés ;
 

@@ -2,11 +2,13 @@
 
 Le Centre national de la chanson, des variétés et du jazz, créé par l'article 30 de la loi du 4 janvier 2002 susvisée, intervient conformément à son objet :
 
-- par le soutien aux entreprises de spectacles, sur les fonds collectés par la taxe parafiscale sur les spectacles ;
+-par le soutien aux entreprises de spectacles, sur les fonds collectés par la taxe sur les spectacles de variétés sur les spectacles ;
 
-- par le développement des activités commerciales dans l'intérêt collectif de la profession, en vue d'améliorer l'environnement économique du secteur de la chanson, des variétés et du jazz ;
+-par la réalisation de programmes d'intervention spécifiques financés au moyen de subventions de l'Etat, des collectivités territoriales ou des contributions de toutes autres personnes publiques ou privées ;
 
-- par la mise en oeuvre d'un centre de ressources sur l'environnement artistique, économique, social, technique et patrimonial du spectacle vivant dans le secteur de la chanson, des variétés et du jazz.
+-par le développement des activités commerciales dans l'intérêt collectif de la profession, en vue d'améliorer l'environnement économique du secteur de la chanson, des variétés et du jazz ;
+
+-par la mise en oeuvre d'un centre de ressources sur l'environnement artistique, économique, social, technique et patrimonial du spectacle vivant dans le secteur de la chanson, des variétés et du jazz.
 
 Pour l'accomplissement de sa mission, le Centre national de la chanson, des variétés et du jazz peut notamment :
 

@@ -2,7 +2,7 @@
 
 Les ressources de l'établissement comprennent :
 
-1° Le produit de la taxe parafiscale sur les spectacles due au titre d'un spectacle de variétés ;
+1° Le produit de la taxe sur les spectacles de variétés sur les spectacles due au titre d'un spectacle de variétés ;
 
 2° Les subventions de l'Etat, des collectivités territoriales et de toutes autres personnes publiques et privées ;
 
