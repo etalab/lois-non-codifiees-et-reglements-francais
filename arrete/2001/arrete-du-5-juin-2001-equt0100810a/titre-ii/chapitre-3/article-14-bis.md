@@ -22,11 +22,15 @@ Toutefois, les entreprises qui effectuent des opérations de déchargement dans 
 
 2. Désignation du conseiller.
 
-Le chef de toute entreprise concernée doit indiquer l'identité de son conseiller, ou, le cas échéant, de ses conseillers suivant le modèle de déclaration CERFA n° 12251-02 figurant en annexe D 9 de l'arrêté ADR, au préfet du département (direction régionale de l'équipement) où l'entreprise est domiciliée. Lorsqu'une entreprise désigne plusieurs conseillers, elle doit préciser le champ de compétence (géographique, thématique ou autre) de chacun d'eux.
+Le chef de toute entreprise concernée doit indiquer l'identité de son conseiller, ou, le cas échéant, de ses conseillers suivant le modèle de déclaration CERFA n° 12251-02 figurant en annexe D 9 de l'arrêté ADR, au préfet de région (direction régionale de l'équipement) où l'entreprise est domiciliée.
 
-Lorsque le conseiller n'est plus en mesure d'exercer ses fonctions, le chef de l'entreprise est tenu de désigner un nouveau conseiller, au plus tard dans le délai de deux mois. Le chef d'entreprise doit indiquer dans un délai de quinze jours ce changement au préfet du département (direction régionale de l'équipement) où l'entreprise est domiciliée.
+Le chef d'entreprise doit être en possession d'une copie du certificat du conseiller et, lorsque le conseiller est une personne extérieure à l'entreprise, d'une attestation de celui-ci indiquant qu'il accepte cette mission.
 
-Plus généralement, le chef d'entreprise doit déclarer au préfet du département (direction régionale de l'équipement) toutes modifications des données contenues dans la déclaration initiale du conseiller.
+Les entreprises ayant obtenu leur accréditation du préfet de région - direction régionale de l'équipement - peuvent accéder par internet au système des téléprocédures (DEMOSTEN) du ministère chargé des transports, pour y effectuer la déclaration du conseiller à la sécurité.
+
+Lorsqu'une entreprise désigne plusieurs conseillers, elle doit préciser le champ de compétence (géographique, thématique ou autre) de chacun d'eux.
+
+Lorsque le conseiller n'est plus en mesure d'exercer ses fonctions, le chef de l'entreprise est tenu de désigner un nouveau conseiller, au plus tard dans le délai de deux mois. Le chef d'entreprise doit indiquer dans un délai de quinze jours ce changement au préfet de région - direction régionale de l'équipement - où l'entreprise est domiciliée. Plus généralement, le chef d'entreprise doit déclarer au préfet de région (direction régionale de l'équipement) toutes modifications des données contenues dans la déclaration initiale du conseiller.
 
 3. Retrait du certificat.
 
@@ -34,21 +38,21 @@ Le certificat peut être retiré par décision du ministre compétent s'il s'av�
 
 4. Rapport d'accident.
 
-Sont tenus à l'obligation de rapport d'accident prévu au 1.8.3.6, chacun pour ce qui le concerne, les conseillers des entreprises qui ont effectué les opérations d'emballage, de chargement, de remplissage ou de transport. Le rapport doit être accompagné d'une analyse des causes et de recommandations écrites par le conseiller visant à éviter le renouvellement de tels accidents.
+Comme le stipule le 1. 8. 3. 6, le conseiller à la sécurité doit rédiger un rapport d'accident. Ce rapport d'accident est obligatoire dès lors que l'accident répond aux critères fixés au 1. 8. 5. 3, mais aussi dès qu'il y a perte accidentelle et anormale de produit (indépendamment des quantités " seuils " précisées au 1. 8. 5. 3) ou dès qu'il y a dégradation d'une fonction d'un contenant le rendant impropre à la poursuite du transport sans mesure de sécurité complémentaire.
 
-Lorsque l'accident a eu lieu durant le déchargement, le conseiller de l'entreprise qui a déchargé les marchandises est également tenu de rédiger un rapport.
+Ce rapport d'accident comprend une analyse des causes de l'accident ainsi que des recommandations écrites visant à éviter le renouvellement de tels accidents.
 
-Lorsque l'accident concerne des marchandises de la classe 7, les conseillers des entreprises impliquées dans les opérations d'emballage, de chargement, de remplissage ou de transport, et le cas échéant de déchargement, concourent, chacun pour ce qui le concerne, à la rédaction d'un rapport d'accident en commun.
+Le rapport d'accident est adressé par le conseiller au chef d'entreprise au plus tard quatre mois après l'accident.
 
-Lorsque l'accident s'est produit sur le territoire national et répond aux critères fixés au 1.8.5.3, les rapports correspondants sont transmis, par les chefs d'entreprise, au préfet du département (direction régionale de l'équipement) du lieu où est survenu l'accident, au ministère chargé des transports (mission des transports des marchandises dangereuses) ainsi qu'à l'Autorité de sûreté nucléaire pour les accidents concernant la classe 7 des marchandises dangereuses, au plus tard deux mois après l'accident. Les rapports doivent être établis suivant la forme précisée au 1.8.5.4 suivant le modèle CERFA n° 12252-01.
-
-Une copie du rapport est adressée par les chefs d'entreprise concernés au gestionnaire de l'infrastructure sur laquelle est survenu l'accident, lequel, le cas échéant, fait part de ses commentaires sur les causes de l'accident dans le délai d'un mois aux autorités citées précédemment.
+Les rapports d'accidents sont tenus à disposition de l'administration pendant cinq ans.
 
 5. Rapport annuel.
 
 Le rapport annuel mentionné au 1.8.3.3 quantifie les activités de l'entreprise entrant dans le champ de compétence du conseiller et doit également comporter un résumé de ses actions conformément aux taches reprises au 1.8.3.3 et des propositions faites pour l'amélioration de la sécurité, ainsi qu'un résumé des accidents survenus.
 
 Lorsque le chef de l'entreprise a désigné plusieurs conseillers, il doit établir un rapport de synthèse pour l'ensemble de l'entreprise, comportant en annexe les rapports de ses différents conseillers.
+
+Ce rapport annuel est établi en s'inspirant du " Guide pour l'élaboration du rapport annuel du conseiller à la sécurité pour les transports de marchandises dangereuses " publié au Bulletin officiel du ministère chargé des transports.
 
 Le rapport annuel doit être conservé par l'entreprise pendant cinq ans et être présenté à toute réquisition des agents de l'administration habilités à constater les infractions en matière de transport de marchandises dangereuses, à partir du 31 mars de l'année suivant celle concernée par le rapport.
 
