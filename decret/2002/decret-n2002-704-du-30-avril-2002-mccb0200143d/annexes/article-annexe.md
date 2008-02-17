@@ -4,7 +4,7 @@ A. Fonctions exercées en administration centrale :
 
 1° Directeur d'administration centrale ;
 
-2° Chef du service de l'inspection générale de l'administration des affaires culturelles ;
+2° Chef du service de          l'inspection générale des affaires culturelles  ;
 
 3° Délégué général, délégué ;
 
@@ -18,7 +18,7 @@ A. Fonctions exercées en administration centrale :
 
 8° Directeur de projet.
 
-B. - Fonctions de directeur ou d'administrateur général exercées dans les services à compétence nationale et services extérieurs à compétence nationale suivants :
+B.-Fonctions de directeur ou d'administrateur général exercées dans les services à compétence nationale et services extérieurs à compétence nationale suivants :
 
 1° Centre de recherche et de restauration des musées de France ;
 

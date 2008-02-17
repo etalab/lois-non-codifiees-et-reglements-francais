@@ -8,6 +8,6 @@ Peuvent être nommés dans l'emploi de directeur général de la Bibliothèque n
 
 3° Les fonctionnaires appartenant à l'un des corps recrutés par la voie de l'Ecole nationale d'administration et ayant satisfait à l'obligation de mobilité prévue par le décret du 16 juillet 2004 susvisé ;
 
-4° Les inspecteurs généraux de l'administration des affaires culturelles ;
+4° Les        inspecteurs généraux des affaires culturelles ;
 
 5° Les professeurs et maîtres de conférence des universités.
