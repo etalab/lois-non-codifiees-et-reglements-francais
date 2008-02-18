@@ -1,0 +1,5 @@
+# Article 5
+
+Par dérogation aux articles R. 721-5, R. 741-7, R. 743-159 et R. 743-160 du code de commerce, toutes les procédures en cours devant les tribunaux de commerce supprimés en application de l'article 1er ou devant les tribunaux de grande instance compétents en application de l'article L. 721-2 du code de commerce dans les matières attribuées aux tribunaux de commerce sont transférées en l'état aux tribunaux de commerce désormais compétents, sans qu'il y ait lieu de renouveler les actes, formalités et jugements intervenus antérieurement au 1er janvier 2009, à l'exception des assignations données aux parties et aux témoins à fin de comparution personnelle. Les archives et les minutes du greffe des tribunaux de commerce supprimés sont transférées au greffe des tribunaux de commerce désormais compétents. Les frais de transfert de ces archives et minutes sont pris sur le crédit ouvert à cet effet au budget du ministère de la justice.
+
+Le tribunal nouvellement saisi d'une procédure prévue par le livre VI du code de commerce procède au remplacement du juge-commissaire en application des articles L. 621-4 et L. 641-1 du même code.
