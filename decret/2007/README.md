@@ -515,7 +515,6 @@
 - [Décret n°2007-547 du 11 avril 2007 (SANA0721486D)](decret-n2007-547-du-11-avril-2007-sana0721486d)
 - [Décret n°2007-548 du 11 avril 2007 (INDI0700332D)](decret-n2007-548-du-11-avril-2007-indi0700332d)
 - [Décret n°2007-549 du 11 avril 2007 (INDI0700333D)](decret-n2007-549-du-11-avril-2007-indi0700333d)
-- [Décret n°70-1165 du 11 décembre 1970](decret-n70-1165-du-11-decembre-1970)
 - [Décret n°2007-797 du 11 mai 2007 (DEFD0750460D)](decret-n2007-797-du-11-mai-2007-defd0750460d)
 - [Décret n°2007-798 du 11 mai 2007 (DEFD0750494D)](decret-n2007-798-du-11-mai-2007-defd0750494d)
 - [Décret n°2007-799 du 11 mai 2007 (DEFD0750469D)](decret-n2007-799-du-11-mai-2007-defd0750469d)
