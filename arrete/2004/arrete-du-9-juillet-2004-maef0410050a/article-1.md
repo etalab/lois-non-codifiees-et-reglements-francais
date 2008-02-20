@@ -6,4 +6,6 @@ Le consul général de France à Alexandrie exerce, pour l'ensemble des Françai
 
 2. La nomination et le contrôle des consuls honoraires de sa circonscription ;
 
-3. L'organisation des opérations de vote pour l'élection du Président de la République, le référendum, l'élection de l'Assemblée des Français de l'étranger et l'établissement des procurations de vote.
+3. L'organisation des opérations de vote pour l'élection du Président de la République, le référendum, l'élection de l'Assemblée des Français de l'étranger et l'établissement des procurations de vote ;
+
+4. La légalisation d'actes dans les conditions fixées par le décret n° 2007-1205 du 10 août 2007 relatif aux attributions du ministre des affaires étrangères, des ambassadeurs et des chefs de poste consulaire en matière de légalisation d'actes.
