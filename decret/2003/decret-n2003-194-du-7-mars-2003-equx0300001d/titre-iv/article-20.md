@@ -8,4 +8,4 @@ L'accord-cadre peut prévoir des indemnisations en cas de non-respect des engage
 
 L'accord-cadre est conclu, sauf cas particulier justifié, pour une durée de cinq ans. En cas d'investissements importants et à long terme en relation avec l'objet de l'accord-cadre, celui-ci peut être conclu pour une durée supérieure à dix ans.
 
-La conclusion d'un accord-cadre ne dispense pas l'intéressé de présenter ses demandes de sillons selon les modalités prévues à l'article 21. Elle ne fait pas obstacle à l'utilisation par d'autres demandeurs de sillons de l'infrastructure qui fait l'objet de l'accord-cadre.
+la conclusion d'un accord-cadre , qui ne définit pas les sillons de manière détaillée, ne dispense pas l'intéressé de présenter ses demandes de sillons selon les modalités prévues à l'article 21. Elle ne fait pas obstacle à l'utilisation par d'autres demandeurs de sillons de l'infrastructure qui fait l'objet de l'accord-cadre.

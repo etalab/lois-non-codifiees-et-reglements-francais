@@ -10,6 +10,8 @@ La Société nationale des chemins de fer français prend, sous le contrôle de 
 
 A l'issue de l'instruction des demandes de sillons, Réseau ferré de France établit un projet d'horaire de service quatre mois au plus tard avant la date d'entrée en vigueur de celui-ci. Ce projet tient compte des demandes formulées, des priorités dans l'utilisation du réseau ferré national, des périodes nécessaires pour l'entretien programmé du réseau et les travaux d'investissement et, le cas échéant, de la nécessité de réserver des capacités suffisantes pour répondre aux demandes ponctuelles de sillons.
 
+Lorsque plusieurs demandes sont faites pour un même service, Réseau ferré de France peut mettre en réserve un sillon qui sera accordé à l'entreprise ferroviaire qui assurera le service. A cette fin il peut, pour l'instruction des demandes d'attribution de sillons, demander des informations complémentaires portant sur la nature du service projeté. Il respecte la confidentialité des informations à caractère commercial qui lui sont communiquées.
+
 Lorsque certaines demandes sont incompatibles entre elles, Réseau ferré de France peut proposer des sillons différents de ceux qui ont été demandés.
 
 Il communique le projet d'horaire de service aux demandeurs de sillons intéressés. Ceux-ci disposent d'un délai d'un mois pour présenter leurs observations. Ce délai expiré, Réseau ferré de France leur communique une proposition définitive de sillons.
