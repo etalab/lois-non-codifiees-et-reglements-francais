@@ -1,24 +1,8 @@
 # Article Annexe I
 
-Vérificateur
-
-Adresse
-
-Téléphone
-
-Fax
-
-Mail/ site web
-
-Date
-
-N° contrat
-
-N° rapport
-
 Annexe l
 
-à l'arrêté du 22 mars 2007
+à l'arrêté du 3 décembre 2007
 
 ATTESTATION DE VÉRIFICATION DE L'ACCESSIBILITÉ AUX PERSONNES HANDICAPÉES
 
@@ -48,7 +32,7 @@ Réf. du PC :
 
 Date du dépôt de demande de PC :
 
-Date du PC
+Date du PC :
 
 Modificatifs éventuels
 
@@ -261,6 +245,9 @@ Récapitulatif des commentaires particuliers
 </tr>
 </tbody>
 </table>
+
+.
+
 <table>
 <tbody>
 <tr>
@@ -552,52 +539,68 @@ Récapitulatif des commentaires particuliers
 <td valign="top" width="56"/>
 </tr>
 <tr>
-<td valign="top" width="226">
-<p>≤ 2 cm (ou 4 cm si pente &lt; 33 %)</p>
+<td>
+<p align="left">≥ 2 cm (ou 4 cm si pente &lt; 33 %)</p>
 </td>
-<td colspan="2" width="40">
+<td colspan="2">
 <p align="center">R</p>
 </td>
-<td colspan="2" width="37">
+<td colspan="2">
 <p align="center">NR</p>
 </td>
-<td width="38">
+<td>
 <p align="center">SO</p>
 </td>
-<td colspan="2" valign="top" width="207"/>
-<td valign="top" width="56"/>
+<td colspan="2"/>
+<td/>
 </tr>
 <tr>
-<td valign="top" width="226">
-<p>Arrondis ou chanfreinés</p>
+<td>
+<p align="left">Arrondis ou chanfreinés</p>
 </td>
-<td colspan="2" width="40">
+<td colspan="2">
 <p align="center">R</p>
 </td>
-<td colspan="2" width="37">
+<td colspan="2">
 <p align="center">NR</p>
 </td>
-<td width="38">
+<td>
 <p align="center">SO</p>
 </td>
-<td colspan="2" valign="top" width="207"/>
-<td valign="top" width="56"/>
+<td colspan="2"/>
+<td/>
 </tr>
 <tr>
-<td valign="top" width="226">
-<p>Pas d'âne interdits</p>
+<td>
+<p align="left">Distance entre 2 ressauts ≥ 2.50 m</p>
 </td>
-<td colspan="2" width="40">
+<td colspan="2">
 <p align="center">R</p>
 </td>
-<td colspan="2" width="37">
+<td colspan="2">
 <p align="center">NR</p>
 </td>
-<td width="38">
+<td>
 <p align="center">SO</p>
 </td>
-<td colspan="2" valign="top" width="207"/>
-<td valign="top" width="56"/>
+<td colspan="2"/>
+<td/>
+</tr>
+<tr>
+<td>
+<p align="left">Pas de ressauts successifs dans<br/>une pente</p>
+</td>
+<td colspan="2">
+<p align="center">R</p>
+</td>
+<td colspan="2">
+<p align="center">NR</p>
+</td>
+<td>
+<p align="center">SO</p>
+</td>
+<td colspan="2"/>
+<td/>
 </tr>
 <tr>
 <td colspan="6" valign="top" width="342">
@@ -1089,7 +1092,7 @@ Récapitulatif des commentaires particuliers
 </tr>
 <tr>
 <td colspan="6" width="342">
-<p align="center">3. Places de Stationnement (si la prestation stationnement est prévue)</p>
+<p align="left">3. Places de Stationnement (si la prestation stationnement est prévue)</p>
 </td>
 <td colspan="2" valign="top" width="207"/>
 <td valign="top" width="56"/>
@@ -1190,7 +1193,7 @@ Récapitulatif des commentaires particuliers
 </tr>
 <tr>
 <td valign="top" width="226">
-<p>Possibilité de sortir des places boxées pour des personnes en fauteuil roulant une fois le véhicule garé</p>
+<p>Possibilité de sortir des places "boxées" pour des personnes en fauteuil roulant une fois le véhicule garé</p>
 </td>
 <td width="38">
 <p align="center">R</p>
@@ -1213,7 +1216,7 @@ Récapitulatif des commentaires particuliers
 </tr>
 <tr>
 <td colspan="6" valign="top" width="342">
-<p align="center">Ressaut au droit des portes</p>
+<p align="left">Ressaut au droit des portes</p>
 </td>
 <td colspan="2" valign="top" width="207"/>
 <td valign="top" width="56"/>
@@ -1337,7 +1340,7 @@ Récapitulatif des commentaires particuliers
 </tr>
 <tr>
 <td valign="top" width="226">
-<p>extrémité de la poignée à plus de 40 cm d'un angle rentrant ou d'un obstacle au fauteuil</p>
+<p>extrémité de la poignée à plus de 40 cm d'un angle rentrant ou d'un obstacle au fauteuil (sauf portes ouvrant uniquement sur un escalier)</p>
 </td>
 <td width="38">
 <p align="center">R</p>

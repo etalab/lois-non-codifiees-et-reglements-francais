@@ -2,6 +2,10 @@
 
 Annexe 3
 
+à l'arrêté du 3 décembre 2007
+
+Annexe 3
+
 à l'arrêté du 22 mars 2007
 
 ATTESTATION DE VÉRIFICATION DE L'ACCESSIBILITÉ AUX PERSONNES HANDICAPÉES
@@ -151,7 +155,7 @@ Récapitulatif des commentaires particuliers
 </tbody>
 </table>
 
-3 - Stationnement automobile
+3 - Places de stationnement
 
 <table>
 <tbody>
@@ -442,6 +446,9 @@ Récapitulatif des commentaires particuliers
 </tr>
 </tbody>
 </table>
+
+.
+
 <table>
 <tbody>
 <tr>
@@ -806,7 +813,7 @@ Récapitulatif des commentaires particuliers
 </tr>
 <tr>
 <td valign="top" width="224">
-<p>pas d'âne interdits</p>
+<p>Distance entre 2 ressauts ≥ 2.50 m</p>
 </td>
 <td width="38">
 <p align="center">R</p>
@@ -819,6 +826,22 @@ Récapitulatif des commentaires particuliers
 </td>
 <td valign="top" width="206"/>
 <td valign="top" width="55"/>
+</tr>
+<tr>
+<td>
+<p align="left">pas de ressauts successifs dans une pente</p>
+</td>
+<td>
+<p align="center">R</p>
+</td>
+<td>
+<p align="center">NR</p>
+</td>
+<td>
+<p align="center">SO</p>
+</td>
+<td/>
+<td/>
 </tr>
 <tr>
 <td valign="top" width="224">
@@ -1073,11 +1096,83 @@ Récapitulatif des commentaires particuliers
 <td valign="top" width="55"/>
 </tr>
 <tr>
+<td>
+<p align="left">Largeur entre mains courantes ≥ 1,20 m</p>
+</td>
+<td>
+<p align="center">R</p>
+</td>
+<td>
+<p align="center">NR</p>
+</td>
+<td>
+<p align="center">SO</p>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Hauteur des marches ≤ 16 cm</p>
+</td>
+<td>
+<p align="center">R</p>
+</td>
+<td>
+<p align="center">NR</p>
+</td>
+<td>
+<p align="center">SO</p>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Giron des marches ≥ 28 cm</p>
+</td>
+<td>
+<p align="center">R</p>
+</td>
+<td>
+<p align="center">NR</p>
+</td>
+<td>
+<p align="center">SO</p>
+</td>
+<td/>
+<td/>
+</tr>
+<tr>
 <td colspan="4" valign="top" width="344">
-<p>1 main courante</p>
+<p>Mains courantes</p>
 </td>
 <td valign="top" width="206"/>
 <td valign="top" width="55"/>
+</tr>
+<tr>
+<td>
+<p align="left">de chaque côté</p>
+</td>
+<td>
+<p align="center">R</p>
+</td>
+<td>
+<p align="center">NR</p>
+</td>
+<td>
+<p align="center">SO</p>
+</td>
+<td/>
+<td/>
 </tr>
 <tr>
 <td valign="top" width="224">
@@ -1200,7 +1295,7 @@ Récapitulatif des commentaires particuliers
 </tr>
 <tr>
 <td valign="top" width="224">
-<p>Antidérapants</p>
+<p>Non glissant</p>
 </td>
 <td width="38">
 <p align="center">R</p>
@@ -1229,6 +1324,100 @@ Récapitulatif des commentaires particuliers
 </td>
 <td valign="top" width="206"/>
 <td valign="top" width="55"/>
+</tr>
+<tr>
+<td colspan="4">
+<p align="left">Volée d'escalier de moins de 3 marches :</p>
+</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Appel de vigilance pour les mal voyants à 50 cm en partie haute</p>
+</td>
+<td>
+<p align="center">R</p>
+</td>
+<td>
+<p align="center">NR</p>
+</td>
+<td>
+<p align="center">SO</p>
+</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Contremarche de 10 cm mini pour la 1re et la dernière marche</p>
+</td>
+<td>
+<p align="center">R</p>
+</td>
+<td>
+<p align="center">NR</p>
+</td>
+<td>
+<p align="center">SO</p>
+</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td colspan="4">
+<p>Nez de marches :</p>
+</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>
+<p>De couleur contrastée</p>
+</td>
+<td>
+<p align="center">R</p>
+</td>
+<td>
+<p align="center">NR</p>
+</td>
+<td>
+<p align="center">SO</p>
+</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Non glissant</p>
+</td>
+<td>
+<p align="center">R</p>
+</td>
+<td>
+<p align="center">NR</p>
+</td>
+<td>
+<p align="center">SO</p>
+</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Sans débord excessif</p>
+</td>
+<td>
+<p align="center">R</p>
+</td>
+<td>
+<p align="center">NR</p>
+</td>
+<td>
+<p align="center">SO</p>
+</td>
+<td/>
+<td/>
 </tr>
 <tr>
 <td valign="top" width="224">
@@ -1337,7 +1526,7 @@ Récapitulatif des commentaires particuliers
 </tr>
 <tr>
 <td valign="top" width="224">
-<p>Ressaut &lt; 2 cm</p>
+<p>Ressaut ≤ 2 cm</p>
 </td>
 <td width="38">
 <p align="center">R</p>
@@ -1392,7 +1581,7 @@ Récapitulatif des commentaires particuliers
 </tr>
 <tr>
 <td colspan="4" valign="top" width="344">
-<p align="center">ou</p>
+<p align="left">ou</p>
 </td>
 <td valign="top" width="206"/>
 <td valign="top" width="55"/>
@@ -1431,7 +1620,7 @@ Récapitulatif des commentaires particuliers
 </tr>
 <tr>
 <td valign="top" width="224">
-<p>Sortie en fauteuil des places boxées </p>
+<p>Sortie en fauteuil des places "boxées" </p>
 </td>
 <td width="38">
 <p align="center">R</p>
@@ -1547,6 +1736,22 @@ Récapitulatif des commentaires particuliers
 <td valign="top" width="55"/>
 </tr>
 <tr>
+<td>
+<p align="left">Espace de manœuvre avec possibilité de demi-tour devant l'entrée principale</p>
+</td>
+<td>
+<p align="center">R</p>
+</td>
+<td>
+<p align="center">NR</p>
+</td>
+<td>
+<p align="center">SO </p>
+</td>
+<td/>
+<td/>
+</tr>
+<tr>
 <td colspan="4" valign="top" width="344">
 <p>Dispositifs d'accès au bâtiment :</p>
 </td>
@@ -1610,7 +1815,7 @@ Récapitulatif des commentaires particuliers
 </tr>
 <tr>
 <td valign="top" width="224">
-<p>Hauteur comprise entre 0,90 et 1,30m</p>
+<p>Hauteur comprise entre 0,90 et 1,30 m</p>
 <p>Contrôle d'accès et de sortie</p>
 </td>
 <td width="38">
@@ -1643,7 +1848,7 @@ Récapitulatif des commentaires particuliers
 </tr>
 <tr>
 <td colspan="4" valign="top" width="344">
-<p align="center">Ou</p>
+<p align="left">Ou</p>
 </td>
 <td valign="top" width="206"/>
 <td valign="top" width="55"/>
@@ -2132,6 +2337,54 @@ Récapitulatif des commentaires particuliers
 <td valign="top" width="55"/>
 </tr>
 <tr>
+<td>
+<p align="left">Largeur entre mains courantes ≥ 1,20 m</p>
+</td>
+<td>
+<p align="center">R</p>
+</td>
+<td>
+<p align="center">NR</p>
+</td>
+<td>
+<p align="center">SO</p>
+</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>
+<p align="left">Hauteur des marches ≤ 16 cm</p>
+</td>
+<td>
+<p align="center">R</p>
+</td>
+<td>
+<p align="center">NR</p>
+</td>
+<td>
+<p align="center">SO</p>
+</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>
+<p align="left">Giron des marches ≥ 28 cm</p>
+</td>
+<td>
+<p align="center">R</p>
+</td>
+<td>
+<p align="center">NR</p>
+</td>
+<td>
+<p align="center">SO</p>
+</td>
+<td/>
+<td/>
+</tr>
+<tr>
 <td valign="top" width="224">
 <p>Appel de vigilance pour les mal voyants à 50 cm en partie haute</p>
 </td>
@@ -2188,7 +2441,7 @@ Récapitulatif des commentaires particuliers
 </tr>
 <tr>
 <td valign="top" width="224">
-<p>- antidérapants</p>
+<p>- non glissant</p>
 </td>
 <td width="38">
 <p align="center">R</p>
@@ -2220,10 +2473,26 @@ Récapitulatif des commentaires particuliers
 </tr>
 <tr>
 <td colspan="4" valign="top" width="344">
-<p>Une main courante :</p>
+<p>Mains courantes :</p>
 </td>
 <td valign="top" width="206"/>
 <td valign="top" width="55"/>
+</tr>
+<tr>
+<td>
+<p align="left">- de chaque côté</p>
+</td>
+<td>
+<p align="center">R</p>
+</td>
+<td>
+<p align="center">NR</p>
+</td>
+<td>
+<p align="center">SO</p>
+</td>
+<td/>
+<td/>
 </tr>
 <tr>
 <td valign="top" width="224">
@@ -2291,7 +2560,7 @@ Récapitulatif des commentaires particuliers
 </tr>
 <tr>
 <td colspan="4" valign="top" width="344">
-<p>Si marches menant à un escalier :</p>
+<p>Si moins de 3 marches :</p>
 </td>
 <td valign="top" width="206"/>
 <td valign="top" width="55"/>
@@ -2353,7 +2622,7 @@ Récapitulatif des commentaires particuliers
 </tr>
 <tr>
 <td valign="top" width="224">
-<p>- antidérapants</p>
+<p>- non glissant</p>
 </td>
 <td width="38">
 <p align="center">R</p>
@@ -2370,54 +2639,6 @@ Récapitulatif des commentaires particuliers
 <tr>
 <td valign="top" width="224">
 <p>- sans débord excessif</p>
-</td>
-<td width="38">
-<p align="center">R</p>
-</td>
-<td width="38">
-<p align="center">NR</p>
-</td>
-<td width="44">
-<p align="center">SO</p>
-</td>
-<td valign="top" width="206"/>
-<td valign="top" width="55"/>
-</tr>
-<tr>
-<td valign="top" width="224">
-<p>Largeur entre mains courantes ≥ 1,20 m</p>
-</td>
-<td width="38">
-<p align="center">R</p>
-</td>
-<td width="38">
-<p align="center">NR</p>
-</td>
-<td width="44">
-<p align="center">SO</p>
-</td>
-<td valign="top" width="206"/>
-<td valign="top" width="55"/>
-</tr>
-<tr>
-<td valign="top" width="224">
-<p>Hauteur des marches ≤ 16 cm</p>
-</td>
-<td width="38">
-<p align="center">R</p>
-</td>
-<td width="38">
-<p align="center">NR</p>
-</td>
-<td width="44">
-<p align="center">SO</p>
-</td>
-<td valign="top" width="206"/>
-<td valign="top" width="55"/>
-</tr>
-<tr>
-<td valign="top" width="224">
-<p>Giron des marches ≤ 28 cm</p>
 </td>
 <td width="38">
 <p align="center">R</p>
@@ -2657,7 +2878,7 @@ Récapitulatif des commentaires particuliers
 </tr>
 <tr>
 <td valign="top" width="224">
-<p>Antidérapants</p>
+<p>Non glissant</p>
 </td>
 <td width="38">
 <p align="center">R</p>
@@ -2712,7 +2933,7 @@ Récapitulatif des commentaires particuliers
 </tr>
 <tr>
 <td valign="top" width="224">
-<p>Tous les niveaux sont desservis</p>
+<p>Si ascenseur : Tous les étages comportant des locaux ouverts au public sont desservis</p>
 </td>
 <td width="38">
 <p align="center">R</p>
@@ -2848,23 +3069,10 @@ Récapitulatif des commentaires particuliers
 </tbody>
 </table>
 
+.
+
 <table>
 <tbody>
-<tr>
-<td width="224">
-<p align="center">Etablissements recevant du public</p>
-<p align="center">Points examinés</p>
-</td>
-<td colspan="6" width="120">
-<p align="center">Constat</p>
-</td>
-<td width="206">
-<p align="center">Commentaires</p>
-</td>
-<td width="55">
-<p align="center">N° du commentaire</p>
-</td>
-</tr>
 <tr>
 <td colspan="7" width="344">
 <p align="center">7. Tapis, escaliers et plans inclinés mécaniques</p>
@@ -3008,7 +3216,7 @@ Récapitulatif des commentaires particuliers
 </tr>
 <tr>
 <td valign="top" width="224">
-<p>pas de ressaut ≥ 2 cm</p>
+<p>pas de ressaut ≤ 2 cm</p>
 </td>
 <td colspan="3" width="38">
 <p align="center">R</p>
@@ -3132,7 +3340,7 @@ Récapitulatif des commentaires particuliers
 </tr>
 <tr>
 <td valign="top" width="224">
-<p>1,40 m pour les locaux ou zones recevant au moins 100 personnes.</p>
+<p>1,40 m pour les locaux ou zones recevant au moins 100 personnes</p>
 </td>
 <td colspan="3" width="38">
 <p align="center">R</p>
@@ -3164,7 +3372,7 @@ Récapitulatif des commentaires particuliers
 </tr>
 <tr>
 <td valign="top" width="224">
-<p>0,80 m pour les portiques de sécurité</p>
+<p>0,80 m pour les portiques de sécurité et les sanitaires, douches et cabines non adaptés</p>
 </td>
 <td colspan="3" width="38">
 <p align="center">R</p>
@@ -3203,7 +3411,7 @@ Récapitulatif des commentaires particuliers
 </tr>
 <tr>
 <td valign="top" width="224">
-<p>à plus de 40 cm d'un angle rentrant ou d'un obstacle au fauteuil</p>
+<p>extrémité à plus de 40 cm d'un angle rentrant ou d'un obstacle au fauteuil (sauf portes ouvrant uniquement sur un escalier et portes des sanitaires, douches et cabines non adaptés)</p>
 </td>
 <td colspan="3" width="38">
 <p align="center">R</p>
@@ -3219,7 +3427,7 @@ Récapitulatif des commentaires particuliers
 </tr>
 <tr>
 <td valign="top" width="224">
-<p>Effort pour ouvrir une porte ≤ 50 N</p>
+<p>Effort pour ouvrir une porte ≥ 50 N</p>
 </td>
 <td colspan="3" width="38">
 <p align="center">R</p>
@@ -3427,7 +3635,7 @@ Récapitulatif des commentaires particuliers
 </tr>
 <tr>
 <td colspan="7" valign="top" width="344">
-<p>commandes manuelles, dispositif de sécurité non réservé au personnel et fonctions voir, entendre, parler</p>
+<p>commandes manuelles et fonctions voir, lire, entendre, parler</p>
 </td>
 <td valign="top" width="206"/>
 <td valign="top" width="55"/>
@@ -3450,7 +3658,7 @@ Récapitulatif des commentaires particuliers
 </tr>
 <tr>
 <td colspan="7" valign="top" width="344">
-<p>guichets d'information, vente manuelle et tables ou tablettes si nécessaire de lire, écrire ou utiliser un clavier</p>
+<p>Element de mobilier permettant de lire, écrire ou utiliser un clavier</p>
 </td>
 <td valign="top" width="206"/>
 <td valign="top" width="55"/>
@@ -3768,22 +3976,6 @@ Récapitulatif des commentaires particuliers
 </tr>
 <tr>
 <td valign="top" width="224">
-<p>bord supérieur : H ≤ 0,80 m</p>
-</td>
-<td colspan="3" width="38">
-<p align="center">R</p>
-</td>
-<td width="38">
-<p align="center">NR</p>
-</td>
-<td colspan="2" width="44">
-<p align="center">SO</p>
-</td>
-<td valign="top" width="206"/>
-<td valign="top" width="55"/>
-</tr>
-<tr>
-<td valign="top" width="224">
 <p>vide en-dessous de 0,70 x 0,60 x 0,30 m (HxLxP)</p>
 </td>
 <td colspan="3" width="38">
@@ -3938,6 +4130,58 @@ Récapitulatif des commentaires particuliers
 </td>
 <td valign="top" width="206"/>
 <td valign="top" width="55"/>
+</tr>
+<tr>
+<td>
+<p align="left">50 lux pour les circulations piétonnes des parcs de stationnement </p>
+</td>
+<td colspan="3">
+<p align="center">R</p>
+</td>
+<td>
+<p align="center">NR</p>
+</td>
+<td colspan="2">
+<p align="center">SO</p>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">20 lux pour les parcs de stationnement (hors circulation piétonnes)</p>
+</td>
+<td colspan="3">
+<p align="center">R</p>
+</td>
+<td>
+<p align="center">NR</p>
+</td>
+<td colspan="2">
+<p align="center">SO</p>
+</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>
+<p align="left">Eblouissement/Reflet</p>
+</td>
+<td colspan="3">
+<p align="center">R</p>
+</td>
+<td>
+<p align="center">NR</p>
+</td>
+<td colspan="2">
+<p align="center">SO</p>
+</td>
+<td/>
+<td/>
 </tr>
 <tr>
 <td valign="top" width="224">
@@ -4516,23 +4760,7 @@ Récapitulatif des commentaires particuliers
 </tr>
 <tr>
 <td valign="top" width="224">
-<p>0,90 m sur les 2 grands côtés du lit</p>
-</td>
-<td colspan="3" width="38">
-<p align="center">R</p>
-</td>
-<td width="38">
-<p align="center">NR</p>
-</td>
-<td colspan="2" width="44">
-<p align="center">SO</p>
-</td>
-<td valign="top" width="206"/>
-<td valign="top" width="55"/>
-</tr>
-<tr>
-<td valign="top" width="224">
-<p>1,20 m au pied du lit</p>
+<p>0,90 m sur les 2 grands côtés du lit et 1,20 m au pied du lit ou 1,20 m sur les 2 grands côtés du lit et 0,90 m au pied du lit</p>
 </td>
 <td colspan="3" width="38">
 <p align="center">R</p>
@@ -5106,6 +5334,22 @@ Récapitulatif des commentaires particuliers
 </td>
 <td valign="top" width="206"/>
 <td valign="top" width="55"/>
+</tr>
+<tr>
+<td>
+<p align="left">Cheminement d'accès aux caisses adaptées ≥ 0,90 m</p>
+</td>
+<td colspan="3">
+<p align="center">R</p>
+</td>
+<td>
+<p align="center">NR</p>
+</td>
+<td colspan="2">
+<p align="center">SO</p>
+</td>
+<td/>
+<td/>
 </tr>
 <tr>
 <td valign="top" width="224">
