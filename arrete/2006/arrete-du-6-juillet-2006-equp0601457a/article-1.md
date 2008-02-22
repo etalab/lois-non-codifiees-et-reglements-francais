@@ -6,7 +6,7 @@ Représentants titulaires :
 
 - le secrétaire général ;
 
-- le directeur général de l'urbanisme, de l'habitat et de la construction ;
+- le directeur, adjoint au directeur général de l'urbanisme, de l'habitat et de la construction ;
 
 - le directeur général de la mer et des transports ;
 
