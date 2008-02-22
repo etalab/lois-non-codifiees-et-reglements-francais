@@ -14,7 +14,7 @@ Le chef du service des effectifs et du budget, adjoint à la directrice généra
 
 L'inspecteur général du travail des transports.
 
-Le directeur général de l'urbanisme, de l'habitat et de la construction.
+Le directeur, adjoint au directeur général de l'urbanisme, de l'habitat et de la construction.
 
 Le directeur général des routes.
 
@@ -46,7 +46,7 @@ La directrice des affaires juridiques, informatiques et logistiques.
 
 Le chef du service du pilotage des services et de la modernisation.
 
-Le chef du service du personnel, adjoint à la directrice générale du personnel et de l'administration.
+Un membre du conseil général des ponts et chaussées.
 
 Le directeur des affaires maritimes.
 
