@@ -123,6 +123,8 @@
 - [Décret n°2007-1795 du 19 décembre 2007 (DEFD0772113D)](decret-n2007-1795-du-19-decembre-2007-defd0772113d)
 - [Décret n°2007-1796 du 19 décembre 2007 (BCFW0759567D)](decret-n2007-1796-du-19-decembre-2007-bcfw0759567d)
 - [Décret n°2008-149 du 19 février 2008 (SJSP0766174D)](decret-n2008-149-du-19-fevrier-2008-sjsp0766174d)
+- [Décret n°2008-150 du 19 février 2008 (JUSD0770028D)](decret-n2008-150-du-19-fevrier-2008-jusd0770028d)
+- [Décret n°2008-151 du 19 février 2008 (SJSF0774660D)](decret-n2008-151-du-19-fevrier-2008-sjsf0774660d)
 - [Décret n°2003-446 du 19 mai 2003 (MCCX0300037D)](decret-n2003-446-du-19-mai-2003-mccx0300037d)
 - [Décret n°2007-1811 du 21 décembre 2007 (BCFS0764774D)](decret-n2007-1811-du-21-decembre-2007-bcfs0764774d)
 - [Décret n°2008-68 du 21 janvier 2008 (AGRP0761864D)](decret-n2008-68-du-21-janvier-2008-agrp0761864d)
