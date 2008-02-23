@@ -10,4 +10,4 @@ d'un service à temps complet x 4/7) + 40.
 
 Pour le calcul de cette fraction de rémunération, il est retenu un pourcentage exprimé avec un chiffre après la virgule.
 
-La durée de ce service à temps partiel peut être accomplie dans un cadre annuel sous réserve de l'intérêt du service.
+La durée de ce service à temps partiel peut être accomplie dans un cadre annuel sous réserve de l'intérêt du service. La rémunération est alors calculée dans les conditions prévues au deuxième alinéa de l'article 1er.
