@@ -4,7 +4,7 @@ Les commissions d'appel d'offres de la direction générale de l'aviation civile
 
 Membres à voix délibérative
 
-1. Administration centrale
+1. Administration centrale :
 
 1. 1. Ensemble des directions et services de l'administration centrale
 
@@ -64,13 +64,13 @@ L'agent représentant le service acheteur.
 
 1. 8. Service de la communication
 
-Le     délégué à l'information et à la communication ou son représentant, président.
+Le délégué à l'information et à la communication ou son représentant, président.
 
 Le chef du bureau des marchés et de la coordination de l'achat public ou son représentant.
 
 L'agent représentant le service acheteur.
 
-2. Services à compétence nationale (hors navigation aérienne)
+2. Services à compétence nationale (hors navigation aérienne) :
 
 2. 1. Service d'exploitation de la formation aéronautique
 
@@ -96,7 +96,15 @@ L'agent chargé de la procédure ou son représentant.
 
 Le responsable technique du dossier ou son représentant.
 
-3. Direction des services de la navigation aérienne
+2. 4. Service national d'ingénierie aéroportuaire :
+
+Le chef du service national d'ingénierie aéroportuaire ou son représentant.
+
+L'agent chargé de la procédure ou son représentant.
+
+Le responsable technique du dossier ou son représentant.
+
+3. Direction des services de la navigation aérienne :
 
 3. 1. Echelon central de la direction des services de la navigation aérienne
 
@@ -173,19 +181,3 @@ Le chef du service de la navigation aérienne ou son représentant, président.
 Le chef du département administratif de la direction de l'aviation civile ou du service de l'aviation civile, ou son représentant.
 
 L'agent chargé de la procédure ou son représentant.
-
-4. Services spéciaux des bases aériennes
-
-Le chef du service spécial des bases aériennes ou son représentant, président.
-
-L'agent chargé de la procédure ou son représentant.
-
-Le responsable technique du dossier ou son représentant.
-
-Membres à voix consultative
-
-Un représentant de la direction générale de la concurrence, de la consommation et de la répression des fraudes.
-
-Le cas échéant, le ou les experts désignés par le représentant du pouvoir adjudicateur ou de l'entité adjudicatrice en raison de leur compétence dans la matière faisant l'objet du marché.
-
-Le cas échéant, le chef du bureau planification et programmes de la direction des services de la navigation aérienne, ou son représentant, siège aux commissions d'appel d'offres constituées par la direction de la technique et de l'innovation de la direction des services de la navigation aérienne pour les marchés d'un montant supérieur à 3 000 000 d'euros HT.
