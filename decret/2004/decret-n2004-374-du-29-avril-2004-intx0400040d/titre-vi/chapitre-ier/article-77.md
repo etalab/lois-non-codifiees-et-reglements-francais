@@ -14,4 +14,6 @@ c) Aux agents en fonction à la préfecture de police ;
 
 d) Aux chefs des services déconcentrés des administrations civiles de l'Etat à compétence départementale et zonale ou à leurs subordonnés ;
 
+Ces chefs de service peuvent donner délégation pour signer les actes relatifs aux affaires pour lesquelles ils ont eux-mêmes reçu délégation aux agents placés sous leur autorité. Le préfet de police peut, par arrêté, mettre fin à tout ou partie de cette délégation. Il peut également fixer, par arrêté, la liste des compétences qu'il souhaite exclure de la délégation que peuvent consentir les chefs de service aux agents placés sous leur autorité.
+
 3° Pour prendre toute décision nécessitée par une situation d'urgence, au membre de son cabinet qui assure le service de permanence.

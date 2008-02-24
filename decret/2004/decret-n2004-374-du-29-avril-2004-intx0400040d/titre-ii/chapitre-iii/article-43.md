@@ -4,7 +4,7 @@ Le préfet de département peut donner délégation de signature :
 
 1° En toutes matières et notamment pour celles qui intéressent plusieurs chefs des services des administrations civiles de l'Etat dans le département, au secrétaire général et aux chargés de mission ;
 
-2° Pour les matières relevant de leurs attributions, aux chefs des services des administrations civiles de l'Etat dans le département ou à leurs subordonnés ; ces chefs de service peuvent recevoir délégation afin de signer les lettres d'observation valant recours gracieux adressées aux collectivités territoriales ou à leurs établissements publics ;
+2° Pour les matières relevant de leurs attributions, aux chefs des services des administrations civiles de l'Etat dans le département ; ces chefs de service peuvent recevoir délégation afin de signer les lettres d'observation valant recours gracieux adressées aux collectivités territoriales ou à leurs établissements publics ;
 
 3° Pour toutes les matières intéressant son arrondissement, au sous-préfet ;
 
