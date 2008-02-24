@@ -12,30 +12,30 @@ Ces commissions sont composées comme suit :
 <p align="center">de l'Institut national des jeunes aveugles </p>
 </td>
 <td colspan="2">
-<p align="center"> REPRESENTANTS </p>
+<p align="center">REPRESENTANTS </p>
 <p align="center">de l'administration </p>
 </td>
 <td colspan="2">
-<p align="center"> REPRESENTANTS</p>
+<p align="center">REPRESENTANTS</p>
 <p align="center">du personnel </p>
 </td>
 </tr>
 <tr>
-<td> Titulaires</td>
-<td>Suppléants   <br/>
+<td>Titulaires</td>
+<td>Suppléants <br/>
 </td>
-<td> Titulaires</td>
-<td>Suppléants   <br/>
+<td>Titulaires</td>
+<td>Suppléants <br/>
 </td>
 </tr>
 <tr>
 <td>
-<p> Professeurs d'enseignement général hors classe de l'Institut national des  </p>
+<p>Professeurs d'enseignement général hors classe de l'Institut national des </p>
 <p>jeunes aveugles. </p>
 <p>Professeurs d'enseignement général hors classe des instituts nationaux de </p>
 <p>jeunes sourds. </p>
 </td>
-<td align="center"> 2</td>
+<td align="center">2</td>
 <td align="center">2 <br/>
 </td>
 <td align="center">2 <br/>
@@ -45,10 +45,10 @@ Ces commissions sont composées comme suit :
 </tr>
 <tr>
 <td>
-<p> Professeurs d'enseignement général de classe normale de l'Institut national des  </p>
+<p>Professeurs d'enseignement général de classe normale de l'Institut national des </p>
 <p>jeunes aveugles. </p>
 <p>Professeurs d'enseignement général de classe normale des instituts nationaux de </p>jeunes sourds. </td>
-<td align="center"> 2</td>
+<td align="center">2</td>
 <td align="center">2 <br/>
 </td>
 <td align="center">2 <br/>
@@ -62,57 +62,57 @@ Ces commissions sont composées comme suit :
 <table>
 <tbody>
 <tr>
-<td align="center" rowspan="2">
-<p>COMMISSION ADMINISTRATIVE PARITAIRE</p>
-<p>des professeurs d'enseignement technique des instituts nationaux </p>
-<p>de jeunes sourds et de l'Institut national des jeunes aveugles</p>
-<p>et des professeurs techniques chefs d'atelier </p>
-<p>et des professeurs techniques</p>
-<p>des instituts nationaux de jeunes sourds</p>
-<p>et de l'Institut national des jeunes aveugles </p>
+<th colspan="5">NOMBRE DE REPRÉSENTANTS <br/>
+</th>
+</tr>
+<tr>
+<th>
+<br/>GRADE <br/>
+</th>
+<th colspan="2">
+<br/>Du personnel <br/>
+</th>
+<th colspan="2">
+<br/>De l'administration <p>Titulaires </p>
+<p>Suppléants </p>
+<p>Titulaires </p>
+<p>Suppléants <br/>
+</p>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>Professeurs d'enseignement technique hors classe <br/>
 </td>
-<td colspan="2">
-<p align="center"> REPRESENTANTS </p>
-<p align="center">de l'administration </p>
-<br/>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td colspan="2">
-<p align="center"> REPRESENTANTS</p>
-<p align="center">du personnel </p>
-<br/>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
 </td>
 </tr>
 <tr>
-<td> Titulaires</td>
-<td>Suppléants  <br/>
+<td align="center">
+<br/>Professeurs d'enseignement technique de classe normale <br/>
 </td>
-<td> Titulaires</td>
-<td>Suppléants    <br/>
+<td align="center">
+<br/>2 <br/>
 </td>
-</tr>
-<tr>
-<td> Professeurs d'enseignement technique hors classe.<br/>
+<td align="center">
+<br/>2 <br/>
 </td>
-<td align="center"> 1</td>
-<td align="center"> 1</td>
-<td align="center"> 1</td>
-<td align="center"> 1</td>
-</tr>
-<tr>
-<td> Professeurs d'enseignement technique de classe normale.<br/>
+<td align="center">
+<br/>2 <br/>
 </td>
-<td align="center"> 2</td>
-<td align="center"> 2</td>
-<td align="center"> 2</td>
-<td align="center"> 2</td>
-</tr>
-<tr>
-<td> Professeurs techniques chefs d'atelier et professeurs techniques.<br/>
+<td align="center">
+<br/>2<br/>
 </td>
-<td align="center"> 1</td>
-<td align="center"> 1</td>
-<td align="center"> 1</td>
-<td align="center"> 1</td>
 </tr>
 </tbody>
 </table>
