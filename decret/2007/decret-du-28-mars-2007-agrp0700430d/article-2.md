@@ -26,7 +26,7 @@ Les cantons de Amance, Combeaufontaine, Jussey, Noroy-le-Bourg, Port-sur-Saône,
 
 Dans le département de la Savoie
 
-Les cantons de Aix-les-Bains-Nord-Grésy, Aix-les-Bains-Sud, Albens, Chambéry, Chamoux-sur-Gelon, Le Chatelard, Cognin, Les Echelles, Grésy-sur-Isère, La Motte-Servolex, La Rochette, Ravoire, Ruffieux, Saint-Alban-Leysse, Saint-Pierre-d'Albigny, Yenne, ainsi que les communes de Aiguebelette-le-Lac, Aiton, Allondaz, Arbin, Ayn, La Chavanne, Dullin, Francin, Gerbaix, Gilly-sur-Isère, Grignon, Lepin-le-Lac, Marcieux, Marthod, Mercury, Monthion, Montmelian, Myans, Nances, Novalaise, Pallud, Planaise, Saint-Alban-de-Montbel, Sainte-Hélène-sur-Isère, Saint-Pierre-de-Soucy, Thénésol, Villard-d'Héry, Villaroux, et la parcelle n° 879 de la commune de La Bathie.
+Les cantons de Aix-les-Bains-Nord-Grésy, Aix-les-Bains-Sud, Albens, Chambéry, Chamoux-sur-Gelon, Le Chatelard, Cognin, Les Echelles, Grésy-sur-Isère, La Motte-Servolex, La Rochette, Ravoire, Ruffieux, Saint-Alban-Leysse, Saint-Pierre-d'Albigny, Yenne, ainsi que les communes de Aiguebelette-le-Lac, Aiton, Allondaz, Arbin, Ayn, La Chavanne, Dullin, Francin, Gerbaix, Gilly-sur-Isère, Grignon, Lepin-le-Lac, Marcieux, Marthod, Mercury, Monthion, Montmelian, Myans, Nances, Novalaise, Pallud, Planaise, Saint-Alban-de-Montbel, Sainte-Hélène-du-Lac, Saint-Pierre-de-Soucy, Thénésol, Villard-d'Héry, Villaroux, et la parcelle n° 3879 de la commune de La Bathie.
 
 Dans le département de la Haute-Savoie
 
