@@ -1,6 +1,6 @@
 # Article 27
 
-Pour l'application des articles 13 à 15 du présent décret dans les territoires d'outre-mer et en Nouvelle-Calédonie :
+Pour l'application des articles 13 à 15 du présent décret, en Nouvelle-Calédonie, en Polynésie française et aux îles Wallis et Futuna :
 
 "1° Le représentant de l'Etat prend toutes mesures pour que la commission de recensement soit en possession en temps utile des procès-verbaux et pièces annexes émanant des bureaux de vote ;
 
