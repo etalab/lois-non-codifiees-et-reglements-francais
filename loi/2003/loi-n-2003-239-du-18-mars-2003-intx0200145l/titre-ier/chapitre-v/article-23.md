@@ -1,6 +1,6 @@
 # Article 23
 
-I. - Sont inscrits dans le fichier des personnes recherchées au titre des décisions judiciaires :
+I.-Sont inscrits dans le fichier des personnes recherchées au titre des décisions judiciaires :
 
 1° Les mandats, ordres et notes de recherches émanant du procureur de la République, des juridictions d'instruction, de jugement ou d'application des peines, du juge des libertés et de la détention et du juge des enfants tendant à la recherche ou à l'arrestation d'une personne ;
 
@@ -26,8 +26,10 @@ I. - Sont inscrits dans le fichier des personnes recherchées au titre des déci
 
 11° Les interdictions de paraître dans certains lieux, de rencontrer certaines personnes, de quitter le territoire ou d'exercer certaines activités, ordonnées en application des dispositions de l'article 731 du code de procédure pénale en cas de libération conditionnelle ;
 
+11° bis Les interdictions prononcées en application de l'article 706-136 du code de procédure pénale ;
+
 12° Les personnes considérées comme insoumises ou déserteurs en application des dispositions des articles 397 à 404 du code de justice militaire ;
 
 13° La peine d'interdiction d'entrer et de séjourner dans l'enceinte d'une ou plusieurs infrastructures aéroportuaires ou portuaires, d'une gare ferroviaire ou routière, ou de leurs dépendances, sans y avoir été préalablement autorisé par les autorités de police territorialement compétentes, prévue par le 4° de l'article 2 ter de la loi n° 95-66 du 20 janvier 1995 relative à l'accès à l'activité de conducteur et à la profession d'exploitant de taxi.
 
-II. - Paragraphe modificateur
+II.-Paragraphe modificateur
