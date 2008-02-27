@@ -1,6 +1,6 @@
 # Article 1
 
-Est instituée auprès du chef du service des personnels ingénieurs, administratifs, techniques, ouvriers, sociaux et de santé, des bibliothèques et des musées une commission administrative paritaire nationale compétente à l'égard des attachés d'administration de l'éducation nationale et de l'enseignement supérieur.
+Est instituée auprès du directeur général des ressources humaines une commission administrative paritaire nationale compétente à l'égard des attachés d'administration de l'éducation nationale et de l'enseignement supérieur.
 
 Des commissions administratives paritaires académiques sont, par ailleurs, créées auprès de chaque recteur d'académie pour les attachés d'administration de l'éducation nationale et de l'enseignement supérieur.
 
