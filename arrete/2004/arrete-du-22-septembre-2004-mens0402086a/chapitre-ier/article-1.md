@@ -10,7 +10,7 @@ Cardiologie et maladies vasculaires.
 
 Dermatologie et vénéréologie.
 
-Endocrinologie et métabolisme.
+Endocrinologie, diabète, maladies métaboliques.
 
 Gastro-entérologie et hépatologie.
 
