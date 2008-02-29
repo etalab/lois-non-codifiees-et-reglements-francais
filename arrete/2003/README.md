@@ -1008,7 +1008,6 @@
 - [Arrêté du 29 juillet 2003 (BUDD0350011A)](arrete-du-29-juillet-2003-budd0350011a)
 - [Arrêté du 29 juillet 2003 (ECOT0326324A)](arrete-du-29-juillet-2003-ecot0326324a)
 - [Arrêté du 29 juillet 2003 (ECOT0351166A)](arrete-du-29-juillet-2003-ecot0351166a)
-- [Arrêté du 29 juillet 2003 (MCCB0300550A)](arrete-du-29-juillet-2003-mccb0300550a)
 - [Arrêté du 29 juillet 2003 (MENA0301573A)](arrete-du-29-juillet-2003-mena0301573a)
 - [Arrêté du 29 juillet 2003 (MENE0301603A)](arrete-du-29-juillet-2003-mene0301603a)
 - [Arrêté du 29 juillet 2003 (MENE0301630A)](arrete-du-29-juillet-2003-mene0301630a)
