@@ -1,3 +1,3 @@
 # Article 8
 
-Les articles 11 à 15 du décret du 19 décembre 1910 susvisé relatifs aux confitures, gelées et marmelades sont abrogés.
+Les dispositions du présent décret ne s'opposent pas à la mise sur le marché des produits mentionnés à l'article 1er légalement fabriqués ou commercialisés et conformes aux usages loyaux dans un autre Etat membre de la Communauté européenne, ou partie à l'accord sur l'Espace économique européen ou en Turquie.
