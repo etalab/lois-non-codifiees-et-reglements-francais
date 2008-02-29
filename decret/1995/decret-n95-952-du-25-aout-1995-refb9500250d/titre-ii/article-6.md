@@ -6,9 +6,9 @@ Peuvent être inscrits sur la liste d'aptitude prévue au 2° de l'article 4 :
 
 2° Les fonctionnaires du cadre d'emplois des adjoints techniques territoriaux admis à un examen professionnel ;
 
-3° Les fonctionnaires du cadre d'emplois des agents de maîtrise territoriaux des établissements d'enseignement ;
+3° Les fonctionnaires du cadre d'emplois des adjoints techniques territoriaux des établissements d'enseignement titulaires du grade d'adjoint technique territorial principal de 1re classe ou d'adjoint technique territorial principal de 2e classe ;
 
-4° Les fonctionnaires du cadre d'emplois des agents techniques territoriaux des établissements d'enseignement admis à un examen professionnel.
+4° Les fonctionnaires du cadre d'emplois des adjoints techniques territoriaux des établissements d'enseignement admis à un examen professionnel.
 
 Les fonctionnaires mentionnés aux 1° à 4° doivent compter au moins dix ans de services effectifs, en position d'activité ou de détachement dans un emploi d'une collectivité territoriale ou de l'Etat, dont cinq années au moins en qualité de fonctionnaire territorial dans leur cadre d'emplois.
 

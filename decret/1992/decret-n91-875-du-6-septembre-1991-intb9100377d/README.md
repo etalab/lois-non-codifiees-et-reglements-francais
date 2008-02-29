@@ -2,7 +2,6 @@
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
-- [Article 3](article-3.md)
 - [Article 6-1](article-6-1.md)
 - [Article 6-2](article-6-2.md)
 - [Article 6-3](article-6-3.md)
