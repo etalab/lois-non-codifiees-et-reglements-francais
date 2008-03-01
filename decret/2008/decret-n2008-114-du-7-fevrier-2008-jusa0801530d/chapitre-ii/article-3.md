@@ -1,0 +1,11 @@
+# Article 3
+
+Les membres du corps des chefs des services administratifs du Conseil d'Etat qui, à la date d'entrée en vigueur du présent décret, occupent les fonctions correspondant à l'un des emplois de chef de service inscrits sur la liste établie en application du sixième alinéa de l'article 11 du décret susvisé du 3 août 1999 dans sa rédaction issue du présent décret sont maintenus dans ces fonctions et détachés, par arrêté du vice-président du Conseil d'Etat, dans un emploi de chef de service du Conseil d'Etat.
+
+Les fonctionnaires qui, à la même date, sont en position de détachement dans le corps des chefs des services administratifs du Conseil d'Etat pour occuper l'une des fonctions mentionnées à l'alinéa précédent sont également maintenus dans leurs fonctions. Ils peuvent, sur leur demande et dans un délai maximal de trois ans, être détachés, par arrêté du vice-président du Conseil d'Etat, dans un emploi de chef de service du Conseil d'Etat.
+
+Les agents mentionnés aux deux alinéas qui précèdent sont classés dans leur nouvel emploi à l'échelon comportant un indice égal ou, à défaut, immédiatement supérieur à celui dont ils bénéficiaient précédemment.
+
+Dans la limite de l'ancienneté exigée par l'article 15 du décret susvisé du 3 août 1999 dans sa rédaction issue du présent décret pour un avancement à l'échelon supérieur, ils conservent l'ancienneté d'échelon acquise dans leur précédent grade ou emploi lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle qui résulterait d'un avancement d'échelon dans leur ancienne situation.
+
+Ils ne peuvent être, à l'issue de leur détachement d'une durée maximale de cinq ans, renouvelés dans le même emploi que dans la limite d'une durée maximale de dix ans.A l'issue de cette durée, ceux qui se trouvent dans la situation d'obtenir, dans un délai égal ou inférieur à deux ans, la liquidation de leurs droits à pension au taux maximum défini au I de l'article L. 13 du code des pensions civiles et militaires de retraite, peuvent bénéficier d'une prolongation exceptionnelle de détachement dans le même emploi pour une durée maximale de deux ans. Il en va de même pour ceux se trouvant à deux ans ou moins de la limite d'âge qui leur est applicable.

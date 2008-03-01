@@ -1,107 +1,77 @@
 # Article Annexe
 
-A N N E X E
+INFORMATIONS REQUISES POUR L'INSCRIPTION AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
-INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
+Intitulé : secrétaire assistant (e).
 
-Intitulé
-
-Titre professionnel de secrétaire assistant(e).
-
-Niveau IV.
+Niveau : IV.
 
 Code NSF : 324 t.
 
 Résumé du référentiel d'emploi
 
-Le (la) secrétaire prend en charge les travaux administratifs et la logistique de son service.
+Le (la) secrétaire assistant (e) prend en charge les travaux administratifs et la logistique du service, assure des fonctions de coordination et d'organisation au sein de l'unité.
 
-Il (elle) saisit, met en forme des documents à l'aide des outils bureautiques, a en charge la reproduction, la transmission et la mémorisation des informations, répond aux demandes d'information, filtre et transmet les communications, organise matériellement les réunions, les déplacements, les séminaires, etc.
+En fonction de l'activité de son service, il (elle) peut assurer le suivi administratif des opérations commerciales (achats/ ventes), le suivi administratif courant du personnel (congés et absences), le suivi des statistiques du service (tableaux et graphiques).
 
-Dans tous les cas, il (elle) rationalise, fait évoluer son poste de travail avec les outils bureautiques et télématiques et élabore des procédures d'organisation.
+Il (elle) est l'interface entre son service et l'extérieur et relaie l'information auprès de son unité.
 
-Le métier s'exerce avec un degré d'autonomie et de responsabilité qui varie selon l'organisation, la taille et le domaine d'activité de l'entreprise. La majeure partie de l'activité s'effectue en conversationnel avec un écran informatique et un clavier.
+Il (elle) organise, en tenant compte des contraintes de l'équipe, les réunions et les déplacements et tient les agendas. De façon générale, il (elle) facilite le travail de sa hiérarchie grâce à la préparation de dossiers, la mise en forme de tous types de documents, la rédaction de certains écrits et le classement des documents. L'organisation des tâches qui lui incombent relève de sa propre initiative, en gérant les priorités et les urgences.
 
-Cependant, les relations avec les autres services et les communications parfois nombreuses en provenance de l'extérieur influent sur le rythme de travail et imposent des interruptions fréquentes de l'activité en cours.
+Ses activités nécessitent de respecter procédures internes, chartes graphiques et normes. Il (elle) a une bonne maîtrise des outils bureautiques et des technologies de l'information et de la communication et s'adapte en permanence à leur évolution. Il (elle) est de plus en plus sollicité (e) pour apporter un appui technique au sein de sa structure.
 
-L'impact du secteur d'activité dans lequel exerce le (la) secrétaire n'a que peu d'influence sur son métier. Le fait que les secrétaires changent de secteur d'activité pratiquement chaque fois qu'ils (elles) changent d'entreprise nécessite une capacité d'adaptation en tant que savoir-faire spécifique du métier.
+Le (la) secrétaire assistant (e) valorise l'image du service et de l'entreprise. L'aspect relationnel de la fonction est de ce fait primordial.
 
-D'une manière générale, c'est la taille de l'entreprise qui est déterminante.
+L'autonomie, le sens du relationnel et de l'organisation, la réactivité, la capacité à assurer une multiplicité de tâches simultanément et la discrétion sont des atouts majeurs pour l'exercice du métier.
 
-Cela se traduit par :
+Capacités attestées et descriptif des composantes de la certification
 
-- un recentrage de l'activité des secrétaires sur les fonctions de secrétariat dans les grandes entreprises ;
+1. Assurer les travaux courants de secrétariat et assister une équipe
 
-- une plus grande polyvalence des secrétaires dans les structures PME-PMI ;
+Produire des documents professionnels courants.
 
-- une spécialisation des secrétaires dans le domaine d'activité de l'entreprise au sein des plus petites.
+Assurer la communication des informations utiles à l'activité du service ou de la structure.
 
-Le fait de travailler pour un encadrement et un personnel télétravailleur est également un facteur porteur d'incidences sur le métier :
+Assurer le classement et l'archivage des documents du service ou de la structure.
 
-- il contribue à renforcer la polyvalence, l'autonomie, le rôle de courroie d'informations dans l'entreprise ;
+Accueillir et orienter un correspondant téléphonique et/ ou un visiteur.
 
-- il implique une utilisation accrue des outils d'information et de communication et l'arrivée de nouvelles tâches directement liées à cette utilisation, en particulier le tri et le traitement des informations.
+Assurer le traitement du courrier.
 
-Capacités attestées et descriptif
+Coordonner le planning d'activités d'une équipe et fixer des rendez-vous.
 
-des composantes de la certification
+Organiser les déplacements et les réunions.
 
-1. Organiser son poste bureautique
+Gérer un stock de consommables.
 
-et produire tout document à l'aide de logiciels de bureau
+2. Réaliser le traitement administratif des différentes fonctions de l'entreprise
 
-Assurer le fonctionnement courant de son poste bureautique.
+Assurer l'administration des achats et des ventes.
 
-Saisir/modifier et présenter tout document à l'aide des applications bureautiques.
+Régler les litiges administratifs ou commerciaux de premier niveau.
 
-Organiser et assurer un classement bureautique pour le partage et la conservation de l'information.
+Assurer le suivi administratif courant du personnel.
 
-2. Traiter et assurer le suivi
+Actualiser des tableaux de suivi et présenter des statistiques en lien avec l'activité du service ou de l'entreprise.
 
-d'événements et de dossiers
+Unité de spécialisation complémentaire : néant.
 
-Rédiger des écrits professionnels simples et à caractère répétitif.
+Secteurs d'activités ou types d'emplois accessibles par le détenteur du titre
 
-Recevoir, collecter, traiter l'information pour en assurer la transmission.
+Cet emploi s'exerce dans tous les types d'entreprises (privées, publiques, associatives) et tous secteurs professionnels. Secrétaireassistant (e) est l'emploi type de référence pour tous les métiers du secrétariat.
 
-Concevoir des documents types et automatiser des tâches bureautiques pour optimiser le poste de travail.
+Code ROME :
 
-Identifier, planifier les opérations et tâches pour la réalisation d'un événement ou d'un dossier.
+2131-Secrétaire bureautique polyvalent (e).
 
-Contribuer à la gestion du temps de son responsable et d'une équipe de travail.
+Réglementation de l'activité : néant.
 
-Gérer son temps et organiser son espace de travail.
+Cette certification est accessible à compter du 1er mars 2008.
 
-Gérer les ressources matérielles courantes d'un service ou d'une entreprise.
+Autorité responsable de la certification : ministère chargé de l'emploi.
 
-3. Assurer le suivi administratif
+Bases légales et réglementaires :
 
-dans différents services
+Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
 
-Rédiger des écrits professionnels à caractère exceptionnel.
-
-Traiter des informations selon les procédures administratives achats/ventes.
-
-Régler les premiers niveaux de dysfonctionnement ou les litiges simples administratifs ou commerciaux.
-
-Etablir des tableaux de suivi et des statistiques liées à l'activité du service ou de l'entreprise pour faciliter une prise de décision.
-
-Assurer le suivi administratif du personnel.
-
-Secteurs d'activités ou types d'emploi
-
-accessibles par le détenteur du titre
-
-Tous secteurs.
-
-Code(s) ROME
-
-12132 - Secrétaire bureautique polyvalent.
-
-Réglementation de l'activité
-
-Néant.
-
-Autorité responsable de la certification
-
-Ministère chargé de l'emploi.
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministre chargé de l'emploi.
