@@ -959,7 +959,6 @@
 - [Arrêté du 31 décembre 2003 (EQUU0301862A)](arrete-du-31-decembre-2003-equu0301862a)
 - [Arrêté du 31 décembre 2003 (INTB0400078A)](arrete-du-31-decembre-2003-intb0400078a)
 - [Arrêté du 31 décembre 2003 (INTB0400079A)](arrete-du-31-decembre-2003-intb0400079a)
-- [Arrêté du 31 décembre 2003 (SANH0420068A)](arrete-du-31-decembre-2003-sanh0420068a)
 - [Arrêté du 31 décembre 2003 (SANP0420086A)](arrete-du-31-decembre-2003-sanp0420086a)
 - [Arrêté du 31 décembre 2003 (SANS0324995A)](arrete-du-31-decembre-2003-sans0324995a)
 - [Arrêté du 31 décembre 2003 (SOCF0312110A)](arrete-du-31-decembre-2003-socf0312110a)
