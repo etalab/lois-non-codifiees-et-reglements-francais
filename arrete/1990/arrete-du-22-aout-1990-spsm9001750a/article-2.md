@@ -26,8 +26,6 @@ Ferimon.
 
 Fibranova.
 
-Fibrimon 24.
-
 Fibrimon 56.
 
 Futura.
@@ -41,3 +39,5 @@ Santhica 23.
 Santhica 27.
 
 Uso 31.
+
+Santhica 70.
