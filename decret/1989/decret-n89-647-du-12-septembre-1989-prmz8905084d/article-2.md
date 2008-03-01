@@ -16,6 +16,8 @@ Des membres permanents :
 
 - un membre de la commission des lois du Sénat ;
 
+- deux professeurs agrégés des facultés de droit, en activité ou honoraires ;
+
 - le directeur des affaires civiles et du sceau ;
 
 - le directeur des affaires criminelles et des grâces ;

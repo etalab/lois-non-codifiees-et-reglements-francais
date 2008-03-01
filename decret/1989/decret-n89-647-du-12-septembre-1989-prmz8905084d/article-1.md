@@ -10,7 +10,7 @@ Susciter, animer et coordonner les groupes de travail chargés d'élaborer les p
 
 Recenser les textes législatifs et réglementaires applicables dans les territoires d'outre-mer, vérifier le champ d'application des textes à codifier en ce qui concerne ces mêmes territoires et signaler au Premier ministre les domaines pour lesquels il semble souhaitable d'étendre à ces territoires les textes applicables en métropole ;
 
-Adopter et transmettre au Gouvernement les projets de codes élaborés dans les conditions définies par l'article 3 de la loi n° 2000-321 du 12 avril 2000 relative aux droits des citoyens dans leurs relations avec les administrations.
+Adopter et transmettre au Gouvernement les projets de codes élaborés dans les conditions définies par l'article 3 de la loi n° 2000-321 du 12 avril 2000 relative aux droits des citoyens dans leurs relations avec les administrations ainsi que les projets qui lui sont soumis tendant à la refonte de codes existants.
 
 Elle peut également être consultée sur les projets de textes modifiant des codes existants.
 
