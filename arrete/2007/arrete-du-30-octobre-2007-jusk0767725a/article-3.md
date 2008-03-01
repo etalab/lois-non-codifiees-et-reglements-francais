@@ -2,7 +2,7 @@
 
 Le concours externe comporte des épreuves d'admissibilité et d'admission.
 
-a) Admissibilité.
+**a) Admissibilité.**
 
 Les épreuves d'admissibilité comportent :
 
@@ -22,9 +22,7 @@ Les épreuves écrites font l'objet d'une double correction.
 
 Les candidats doivent se présenter à l'ensemble des épreuves.
 
-Le choix du candidat qui doit être exprimé lors du dépôt de l'inscription est définitif.
-
-b) Admission.
+**b) Admission.**
 
 Les épreuves d'admission comportent :
 
