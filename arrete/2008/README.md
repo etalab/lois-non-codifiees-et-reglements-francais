@@ -111,6 +111,7 @@
 - [Arrêté du 11 janvier 2008 (AGRS0800820A)](arrete-du-11-janvier-2008-agrs0800820a)
 - [Arrêté du 11 janvier 2008 (ECES0800658A)](arrete-du-11-janvier-2008-eces0800658a)
 - [Arrêté du 11 janvier 2008 (ESRS0773556A)](arrete-du-11-janvier-2008-esrs0773556a)
+- [Arrêté du 11 mars 1992 (JUSF9150100A)](arrete-du-11-mars-1992-jusf9150100a)
 - [Arrêté du 11 mars 2003 (DEFD0301043A)](arrete-du-11-mars-2003-defd0301043a)
 - [Arrêté du 11 octobre 2011 (IOCV1112193A)](arrete-du-11-octobre-2011-iocv1112193a)
 - [Arrêté du 12 février 2008 (AGRF0803724A)](arrete-du-12-fevrier-2008-agrf0803724a)
