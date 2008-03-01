@@ -1,11 +1,3 @@
 # Article 11
 
-Dans les conditions prévues à l'article 38 de la Constitution, le Gouvernement est autorisé :
-
-1° A étendre par ordonnance aux communes de la Polynésie française et à leurs groupements, avec les adaptations nécessaires, les dispositions des première, deuxième et cinquième parties du code général des collectivités territoriales (partie Législative) ;
-
-2° A définir par ordonnance le statut des fonctionnaires civils des administrations des communes de la Polynésie française et de leurs établissements publics.
-
-Les ordonnances prévues au présent article doivent intervenir dans le délai de vingt-quatre mois à compter de la promulgation de la présente loi.
-
-Pour chaque ordonnance, un projet de loi de ratification devra être déposé devant le Parlement dans un délai de trois mois à compter de sa publication.
+Il est créé une commission consultative d'évaluation des charges des communes de la Polynésie française. Présidée par le président ou un magistrat de la chambre territoriale des comptes de la Polynésie française, elle est composée de représentants de l'Etat, du gouvernement de la Polynésie française, de l'assemblée de Polynésie française ainsi que des maires siégeant au comité des finances locales de la Polynésie française institué par l'article 52 de la loi organique n° 2004-192 du 27 février 2004 portant statut d'autonomie de la Polynésie française. La commission est consultée sur l'évaluation des charges correspondant aux compétences communales. Les modalités d'application du présent article sont fixées par décret.
