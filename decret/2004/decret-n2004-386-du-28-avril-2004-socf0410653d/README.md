@@ -3,7 +3,7 @@
 - [Article 1](article-1.md)
 - [Chapitre Ier : Prime de fonction.](chapitre-ier)
 - [Chapitre II : Primes liées à la manière de servir ou à la performance individuelle.](chapitre-ii)
-- [Chapitre III : Prime forfaitaire de direction.](chapitre-iii)
+- [Chapitre III : Primes de direction.](chapitre-iii)
 - [Chapitre IV : Prime liée aux compétences certifiées.](chapitre-iv)
 - [Chapitre V : Prime liée à l'affectation dans une unité desservant une zone urbaine sensible.](chapitre-v)
 - [Chapitre VI : Indemnités de mobilité.](chapitre-vi)
