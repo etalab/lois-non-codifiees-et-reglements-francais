@@ -2,15 +2,7 @@
 
 Au livre II, titre III "Recettes , sont applicables :
 
-1 - CHAPITRE I : Dispositions générales.
-
-- les articles L. 231-13 à L. 231-17.
-
-sous réserve de la modification ci-après :
-
-L'article L. 231-14 est applicable dans la rédaction suivante :
-
-"Art. L. 231-14 - Les créances non fiscales des communes et des établissements publics communaux, à l'exception des droits au comptant, ne sont pas mises en recouvrement par les ordonnateurs locaux lorsqu'elles n'atteignent pas 30 F." ;
+I - Paragraphe abrogé
 
 II - CHAPITRE III : Taxes, redevances ou versements autres que ceux prévus par le code général des impôts.
 
@@ -142,10 +134,4 @@ Un décret en Conseil d'Etat fixe les pénalités pour infraction à ces disposi
 
 "Les communes qui assurent le service de l'assainissement peuvent instituer une redevance calculée en fonction de l'importance du service rendu".
 
-III - CHAPITRE VI : Avances, emprunts et garanties d'emprunts.
-
-- les articles L. 236-1 à L. 236-3 ;
-
-- les articles L. 236-5 à L. 236-7 ;
-
-- les articles L. 236-9 à L. 236-12.
+III Paragraphe abrogé
