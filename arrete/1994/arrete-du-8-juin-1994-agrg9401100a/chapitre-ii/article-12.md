@@ -22,7 +22,7 @@ b) Un abattoir ;
 
 c) La zone de protection.
 
-Aucun camion ni véhicule ayant servi au transport des porcs ne peut quitter la zone de protection sans faire l'objet d'un contrôle.    4° Aucun animal d'une autre espèce ne peut pénétrer dans une exploitation de la zone ni la quitter sans autorisation du directeur des services vétérinaires.
+Aucun camion ni véhicule ayant servi au transport des porcs ne peut quitter la zone de protection sans faire l'objet d'un contrôle. 4° Aucun animal d'une autre espèce ne peut pénétrer dans une exploitation de la zone ni la quitter sans autorisation du directeur des services vétérinaires.
 
 5° Tous les porcs morts ou malades et se trouvant dans une exploitation doivent être déclarés au directeur des services vétérinaires, qui procède ou fait procéder à toute investigation nécessaire pour confirmer ou infirmer la présence de maladie vésiculeuse des suidés.
 
@@ -30,7 +30,7 @@ Aucun camion ni véhicule ayant servi au transport des porcs ne peut quitter la 
 
 a) Directement vers un abattoir désigné par le directeur des services vétérinaires, de préférence à l'intérieur de la zone de protection ou de surveillance, pour autant que :
 
-tous les porcs présents dans l'exploitation aient été inspectés ;    les porcs destinés à l'abattage aient subi un examen clinique avec un résultat favorable ;
+tous les porcs présents dans l'exploitation aient été inspectés ; les porcs destinés à l'abattage aient subi un examen clinique avec un résultat favorable ;
 
 chaque porc ait été muni d'une marque auriculaire ou identifié par tout autre moyen agréé ;
 
@@ -44,8 +44,26 @@ Pendant l'inspection ante et post morten effectuée à l'abattoir désigné, la 
 
 b) Dans des circonstances exceptionnelles, directement vers d'autres locaux situés à l'intérieur de la zone de protection, pour autant que :
 
-tous les porcs présents dans l'exploitation aient été inspectés ;    les porcs à transporter aient subi un examen clinique avec un résultat favorable ;
+tous les porcs présents dans l'exploitation aient été inspectés ; les porcs à transporter aient subi un examen clinique avec un résultat favorable ;
 
 chaque porc ait été muni d'une marque auriculaire ou identifié par tout autre moyen agréé.
 
-7° Les viandes fraîches issues des porcs visés au 6° sont identifiées au moyen d'une marque spéciale et ultérieurement traitées conformément aux dispositions de l'article 4 de l'arrêté interministériel du 14 octobre 2005 susvisé fixant les règles générales de police sanitaire relatives aux produits d'origine animale destinés à la consommation humaine. Ces viandes sont obtenues, manipulées, transportées et entreposées conformément aux exigences du même article. De plus, ces viandes sont expédiées dans un envoi scellé avant le départ vers l'établissement où elles seront traitées et pendant toute la durée du transport. Elles sont accompagnées d'un laissez-passer sanitaire établi par les services vétérinaires du département d'origine.
+7° a) Les viandes fraîches, les abats et les viscères issus des porcs visés au point 6 du présent article sont exclus des échanges intracommunautaires et internationaux.
+
+b) les viandes fraîches, les abats et les viscères portent la marque de salubrité ou la marque d'identification définie en annexe II de l'arrêté du 14 octobre 2005 susvisé. Ces produits sont obtenus, manipulés, transportés, entreposés et ultérieurement traités conformément aux dispositions de l'article 4 dudit arrêté.
+
+c) Par dérogation au b du point 7 du présent article, les carcasses de porcs visés au point 6 du présent article peuvent être revêtues d'une marque de salubrité carrée à angles arrondis, conforme au modèle présenté à l'annexe II du présent arrêté.
+
+d) Par dérogation au b du point 7 du présent article, les viandes fraîches issues de porcs visés au point 6 du présent article peuvent être revêtues d'une marque d'identification parfaitement lisible, carrée à angles arrondis comportant en partie supérieure les lettres FR et en partie centrale le numéro d'agrément de l'établissement.
+
+e) Les carcasses et viandes visées aux c et d du point 7 du présent article sont obtenues, découpées, transportées, et entreposées soit séparément, soit de façon non concomitante, des carcasses et viandes destinées aux échanges intracommunautaires et internationaux, et sont utilisées de manière à éviter leur introduction dans des produits à base de viande destinés auxdits échanges.
+
+Les conditions de transport de ces carcasses et viandes hors du territoire soumis à des restrictions de police sanitaire sont définies par instruction du ministre en charge de l'agriculture.
+
+f) Par dérogation au b du point 7 du présent article, les abats et viscères issus de porcs visés au point 6 du présent article peuvent être revêtues d'une marque d'identification parfaitement lisible, carrée à angles arrondis comportant en partie supérieure les lettres FR et en partie centrale le numéro d'agrément de l'établissement.
+
+Ces abats et viscères sont obtenus, découpés, transportés, et entreposés soit séparément, soit de façon non concomitante, de ceux destinés aux échanges intracommunautaires et internationaux, et sont utilisés de manière à éviter leur introduction dans des produits à base de viande destinés auxdits échanges.
+
+Les conditions de transport de ces abats et viscères hors du territoire soumis à des restrictions de police sanitaire sont définies par instruction du ministre en charge de l'agriculture.
+
+8° Lorsque les interdictions prévues au point 6 du présent article sont maintenues au-delà de trente jours, en raison de l'apparition de nouveaux cas de maladie, et créent des problèmes d'hébergement des animaux, le directeur départemental des services vétérinaires peut, sur demande justifiée du propriétaire, autoriser la sortie des animaux d'une exploitation située à l'intérieur de la zone de protection, pour autant que le vétérinaire sanitaire de l'exploitation ait constaté la réalité des faits. Le point 7 du présent article s'applique aux viandes fraîches, abats et viscères issus des porcs visés au présent point.
