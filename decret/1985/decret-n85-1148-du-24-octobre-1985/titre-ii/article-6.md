@@ -1,59 +1,147 @@
 # Article 6
 
-Les traitements et soldes annuels correspondant à chacun des groupes hors échelle sont fixés comme suit à compter du 1er février 2007 :
+Les traitements et soldes annuels correspondant à chacun des groupes hors échelle sont fixés comme suit à compter du 1er mars 2008 :
 
-TRAITEMENTS ET SOLDES ANNUELS BRUTS (EN EUROS) soumis à retenue pour pension à compter du 1er février 2007
-
-Groupes A
-
-CHEVRON I : 47 936,36
-
-CHEVRON II : 49 840,75
-
-CHEVRON III : 52 398,08
-
-Groupes B
-
-CHEVRON I : 52 398,08
-
-CHEVRON II : 54 628,95
-
-CHEVRON III : 57 567,16
-
-Groupes B bis
-
-CHEVRON I : 57 567,16
-
-CHEVRON II : 59 090,67
-
-CHEVRON III : 60 668,60
-
-Groupes C
-
-CHEVRON I : 60 668,60
-
-CHEVRON II : 61 974,47
-
-CHEVRON III : 63 334,75
-
-Groupes D
-
-CHEVRON I : 63 334,75
-
-CHEVRON II : 66 218,55
-
-CHEVRON III : 69 102,35
-
-Groupes E
-
-CHEVRON I : 69 102,35
-
-CHEVRON II : 71 822,92
-
-Groupes F
-
-CHEVRON I : 74 489,07
-
-Groupes G
-
-CHEVRON I : 81 671,36
+<table>
+<tbody>
+<tr>
+<th colspan="4">
+<br/>TRAITEMENTS ET SOLDES ANNUELS BRUTS <br/>
+<br/>soumis à retenue pour pension à compter du 1er mars 2008 <br/>
+<br/>(en euros) <br/>
+</th>
+</tr>
+<tr>
+<th>
+<br/>Groupes <br/>
+</th>
+<th colspan="3">
+<br/>Chevrons <br/>
+</th>
+</tr>
+<tr>
+<th/>
+<th>
+<br/>I <br/>
+</th>
+<th>
+<br/>II <br/>
+</th>
+<th>
+<br/>III <br/>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>A <br/>
+</td>
+<td align="center">
+<br/>48   176,08 <br/>
+</td>
+<td align="center">
+<br/>50   089,99 <br/>
+</td>
+<td align="center">
+<br/>52   660,11 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>B <br/>
+</td>
+<td align="center">
+<br/>52   660,11 <br/>
+</td>
+<td align="center">
+<br/>54   902,13 <br/>
+</td>
+<td align="center">
+<br/>57   855,04 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>B bis <br/>
+</td>
+<td align="center">
+<br/>57   855,04 <br/>
+</td>
+<td align="center">
+<br/>59   386,17 <br/>
+</td>
+<td align="center">
+<br/>60   971,99 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>C <br/>
+</td>
+<td align="center">
+<br/>60   971,99 <br/>
+</td>
+<td align="center">
+<br/>62   284,39 <br/>
+</td>
+<td align="center">
+<br/>63   651,48 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>D <br/>
+</td>
+<td align="center">
+<br/>63   651,48 <br/>
+</td>
+<td align="center">
+<br/>66   549,70 <br/>
+</td>
+<td align="center">
+<br/>69   447,92 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>E <br/>
+</td>
+<td align="center">
+<br/>69   447,92 <br/>
+</td>
+<td align="center">
+<br/>72   182,09 <br/>
+</td>
+<td align="center">
+<br/>- <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>F <br/>
+</td>
+<td align="center">
+<br/>74   861,57 <br/>
+</td>
+<td align="center">
+<br/>- <br/>
+</td>
+<td align="center">
+<br/>- <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>G <br/>
+</td>
+<td align="center">
+<br/>82   079,78 <br/>
+</td>
+<td align="center">
+<br/>- <br/>
+</td>
+<td align="center">
+<br/>-<br/>
+</td>
+</tr>
+</tbody>
+</table>
