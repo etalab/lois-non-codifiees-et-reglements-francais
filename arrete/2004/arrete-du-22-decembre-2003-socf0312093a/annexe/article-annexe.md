@@ -1,120 +1,102 @@
 # Article Annexe
 
-INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
+INFORMATIONS REQUISES POUR L'INSCRIPTION AU RÉPERTOIRE
 
-Intitulé :
+NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
-Titre professionnel : secrétaire comptable.
+Intitulé : secrétaire comptable.
 
 Niveau : IV.
 
-Code NSF : 324 t.
+Code NSF : 314 t secrétariat, bureautique.
 
 Résumé du référentiel d'emploi
 
-Il (elle) exerce des activités de secrétariat diversifiées qui couvrent toutes les fonctions de l'entreprise, des activités diversifiées de comptabilité portant sur la réalisation et le suivi des travaux comptables et assure le suivi administratif du personnel et l'établissement de la paie et des déclarations sociales.
+Le (la) secrétaire comptable exerce des activités diversifiées couvrant le secrétariat, la comptabilité et des tâches administratives.
 
-Une grande partie de ses activités s'effectue à l'aide de l'outil informatique.
+Il (elle) assure le secrétariat de toutes les fonctions de l'entreprise ainsi que le suivi administratif du personnel. Il (elle) réalise les paies et les déclarations sociales courantes, contrôle et comptabilise les documents commerciaux, comptables et sociaux de l'entreprise.
 
-En fonction des échéances légales et des priorités internes à l'entreprise, il (elle) assure les travaux de secrétariat, les travaux comptables courants et la paie.
+L'emploi requiert de l'autonomie et de la discrétion ainsi qu'une grande capacité à organiser seul (e) son travail et à communiquer avec l'ensemble des interlocuteurs internes et externes de l'entreprise.
 
-L'emploi de secrétaire comptable, de par sa polyvalence, nécessite la connaissance des différentes fonctions de l'entreprise, de son organisation, de ses produits ou de ses services.
+En raison de sa double compétence dans les domaines du secrétariat et de la comptabilité, l'emploi de secrétaire comptable répond particulièrement aux besoins des petites structures (TPE, associations, établissements secondaires de grandes entreprises, etc.).
 
-Le (la) secrétaire comptable est souvent l'interlocuteur(trice) direct des partenaires internes (responsables et autres salariés) et externes (clients, fournisseurs, organismes sociaux, conseils, etc.) de l'entreprise.
+Dans une PME, en fonction de sa taille et de sa complexité, il (elle) assure seul (e) ou sous les directives d'un responsable tout ou partie des activités types de l'emploi.
 
-Cependant, les relations et les communications parfois nombreuses à l'interne et en provenance de l'extérieur influent sur son rythme de travail et imposent des interruptions fréquentes de l'activité en cours.
-
-Dans une petite structure, il (elle) peut se retrouver seul(e) dans l'exercice de ses fonctions, ce qui requiert une grande autonomie et une capacité à organiser seul(e) son travail. Dans ce cas, il s'agit réellement d'une fonction d'assistance administrative complète du responsable de l'entreprise ou de l'établissement.
+Dans une entreprise de plus grande taille, ses activités sont souvent exercées dans un service administratif ou comptable.
 
 Capacités attestées et descriptif
 
 des composantes de la certification
 
-1. Organiser son poste bureautique et produire
+1. Assurer les travaux courants
 
-tout document à l'aide de logiciels de bureau
+de secrétariat et assister une équipe
 
-Assurer le fonctionnement courant de son poste bureautique.
+Produire des documents professionnels courants.
 
-Saisir/modifier et présenter tout document à l'aide des applications bureautiques dans le respect de normes graphiques.
+Assurer la communication des informations utiles à l'activité du service ou de la structure.
 
-Organiser et assurer un classement bureautique pour le partage et la conservation de l'information.
+Assurer le classement et l'archivage des documents du service ou de la structure.
 
-2. Assurer les travaux de gestion administrative
+Accueillir et orienter un correspondant téléphonique et / ou un visiteur.
 
-et commerciale d'une petite et moyenne entreprise
+Assurer le traitement du courrier.
 
-Rédiger des écrits professionnels pour traiter des situations exceptionnelles.
+Coordonner le planning d'activités d'une équipe et fixer des rendez-vous.
 
-Traiter des informations selon les procédures administratives achats/ventes.
+Organiser les déplacements et les réunions.
 
-Régler des premiers niveaux de dysfonctionnement ou des litiges simples, administratifs ou commerciaux.
+Gérer un stock de consommables.
 
-Etablir des tableaux de bord et des statistiques liés à l'activité du service ou de l'entreprise pour faciliter une prise de décision.
+2. Réaliser le traitement administratif
 
-Concevoir des documents types et automatiser des tâches bureautiques pour optimiser le poste de travail.
+des différentes fonctions de l'entreprise
 
-Gérer les ressources matérielles courantes d'un service ou d'une entreprise.
+Assurer l'administration des achats et des ventes.
 
-Identifier, planifier des opérations et tâches pour la réalisation d'un événement ou d'un dossier.
+Régler les litiges administratifs ou commerciaux de premier niveau.
 
-3. Assurer l'accueil dans une petite et moyenne entreprise
+Assurer le suivi administratif courant du personnel.
 
-Accueillir et orienter un correspondant téléphonique et/ou un visiteur.
+Actualiser des tableaux de suivi et présenter des statistiques en lien avec l'activité du service ou de l'entreprise.
 
-Répondre à une demande d'information émanant d'un correspondant téléphonique et/ou d'un visiteur.
+3. Etablir la paie et les déclarations sociales courantes
 
-Gérer un planning d'activités et tenir un agenda.
+Réaliser des paies après la collecte des informations sociales et des données variables
 
-4. Assurer le suivi administratif et la paie du personnel
+Etablir les déclarations sociales périodiques
 
-d'une petite et moyenne entreprise
+Unité de spécialisation complémentaire :
 
-Etablir les déclarations obligatoires liées au suivi du personnel.
+Néant.
 
-Mettre à jour le dossier individuel du salarié, les fichiers administratifs et les plannings de suivi du personnel.
+4. Assurer les travaux courants de comptabilité
 
-Répondre à une demande d'information en fonction de sa nature et du statut de l'interlocuteur.
+Identifier, vérifier, comptabiliser les documents commerciaux pour produire des états comptables.
 
-Recueillir les éléments nécessaires au calcul de la paie auprès de divers interlocuteurs.
+Etablir et comptabiliser les déclarations de TVA.
 
-Etablir et contrôler les bulletins de paie et les déclarations sociales d'une petite et moyenne entreprise.
+Comptabiliser les documents bancaires et suivre la trésorerie au quotidien.
 
-Participer à la réalisation des déclarations sociales annuelles d'une petite et moyenne entreprise.
+Justifier le solde des comptes et rectifier les anomalies.
 
-5. Assurer les travaux courants de comptabilité en facilitant
-
-les décisions de gestion d'une petite et moyenne entreprise
-
-Assurer les travaux courants de comptabilité d'une petite et moyenne entreprise.
-
-Assurer la fiabilité des comptes.
-
-Calculer et établir les déclarations de TVA.
-
-Préparer les interventions de l'expert-comptable.
-
-Traiter des informations comptables pour faciliter les décisions de gestion.
-
-Secteurs d'activités ou types d'emploi
+Secteur d'activité ou types d'emploi
 
 accessibles par le détenteur du titre
 
-Le (la) secrétaire peut exercer son emploi dans tous les secteurs d'activité.
-
-Sa polycompétence lui permet de répondre particulièrement aux besoins des petites structures (petite et moyenne entreprise des secteurs du commerce, des services, de l'industrie et de l'artisanat, établissements secondaires de grandes entreprises, d'associations...).
+Cet emploi s'exerce dans tous les secteurs d'activité économiques. Toutefois les secteurs qui concentrent le plus d'emplois sont ceux des services aux entreprises et du commerce (commerce de gros et distribution).
 
 Codes ROME :
 
-12131 - Secrétaire bureautique polyvalent.
+12132 : secrétaire bureautique spécialisé (e).
 
-12141 - Technicien des services administratifs.
-
-12142 - Technicien des services comptables.
+12131 : secrétaire bureautique polyvalent (e).
 
 Réglementation de l'activité :
 
 Néant.
+
+Cette certification est accessible à compter du 1er mars 2008.
 
 Autorité responsable de la certification :
 
@@ -122,8 +104,6 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
+Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation.
 
-Décret n° 2002-1029 du 2 août 2002 ;
-
-Arrêté du 25 novembre 2002.
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministre chargé de l'emploi.
