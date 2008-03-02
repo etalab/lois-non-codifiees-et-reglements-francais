@@ -5,3 +5,5 @@ La liste des diplômes admis en équivalence à la licence en sciences et techni
 Brevet d'Etat d'éducateur sportif du deuxième degré ;
 
 Diplôme de guide de haute montagne.
+
+Diplôme d'Etat supérieur de la jeunesse, de l'éducation populaire et du sport spécialité " performance sportive ".
