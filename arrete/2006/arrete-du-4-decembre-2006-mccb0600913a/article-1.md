@@ -46,3 +46,5 @@ Le taux maximal du remboursement des frais d'hébergement des personnels du mini
 </tr>
 </tbody>
 </table>
+
+Pour les missions à l'étranger, une avance peut être consentie, sur demande du missionnaire, à hauteur de 100 % du montant de l'indemnité susceptible de lui être servie. Toute mission non effectuée ayant fait l'objet d'une avance devra donner lieu à remboursement de la part de l'agent.
