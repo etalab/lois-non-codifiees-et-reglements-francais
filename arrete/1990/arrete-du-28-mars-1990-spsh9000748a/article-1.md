@@ -2,18 +2,14 @@
 
 En application des dispositions de l'article 35 du décret du 24 janvier 1990 susvisé, les taux annuels des émoluments hospitaliers des professeurs des universités-praticiens hospitaliers des centres de soins, d'enseignement et de recherche dentaires mentionnés au A (a) de l'article 1er du décret précité sont fixés comme suit :
 
-Taux au 1er-9-89
+Taux au 1er août 2007 (en euros) :
 
-Après 18 ans : 279 463
+Après 12 ans  : 54 337,22
 
-Après 15 ans : 260 053
+Après 9 ans : 47 881,98
 
-Après 12 ans : 241 839
+Après 6 ans : 40 351,03
 
-Après  9 ans : 223 625
+Après 3 ans : 37 123,43
 
-Après  6 ans : 205 586
-
-Après  3 ans : 187 198
-
-Avant  3 ans : 168 241
+Avant 3 ans : 32 820,10
