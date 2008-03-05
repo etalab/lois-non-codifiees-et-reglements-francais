@@ -1,0 +1,3 @@
+# Article 5
+
+En application du 6° du I de l'article R. 314-49 et du 5° du I de l'article R. 314-17 du code de l'action sociale et des familles, les données nécessaires au calcul des indicateurs définis par le présent arrêté sont transmises à l'autorité compétente de l'Etat mentionnée au quatrième alinéa de l'article L. 313-3 du même code avec le compte administratif et avec les propositions budgétaires selon un calendrier précisé à l'annexe 7 du présent arrêté pour les services relevant du 14° du I de l'article L. 312-1 du même code et à l'annexe 8 pour les services relevant du 15° du I du même article.
