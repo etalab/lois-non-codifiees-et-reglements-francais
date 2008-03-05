@@ -1,6 +1,6 @@
 # Article 1
 
-I. - Le revenu de solidarité active est expérimenté en faveur des allocataires de l'API dans les conditions prévues à l'article 20 de la loi du 21 août 2007 susvisée dans les territoires des départements suivants :
+I.-Le revenu de solidarité active est expérimenté en faveur des allocataires de l'API dans les conditions prévues à l'article 20 de la loi du 21 août 2007 susvisée dans les territoires des départements suivants :
 
 Dans le département de la Côte-d'Or : le territoire de l'agence solidarité et famille de Beaune, soit les cantons de Beaune Nord, Beaune Sud, Nolay, Arnay-le-Duc, Bligny-sur-Ouche, Liernais, Pouilly-en-Auxois, Gevrey-Chambertin, Nuits-Saint-Georges et Seurre.
 
@@ -12,7 +12,7 @@ Dans le département de Loir-et-Cher : le territoire des unités de prévention 
 
 Dans le département de la Vienne : le territoire des maisons départementales de la solidarité de Loudun, Jaunay-Clan et Chauvigny, soit les cantons des Trois-Moutiers, Loudun, Monts-sur-Guesnes, Mirebeau, Moncontour, Neuville-de-Poitou, Saint-Georges-les-Baillargeaux, Vouillé, Saint-Julien-l'Ars, Chauvigny et Saint-Savin ainsi que les communes de Buxerolles, Montamisé, Chasseneuil-du-Poitou, Migné-Auxances et Mignaloux-Beauvoir.
 
-Dans le département de l'Oise : les cantons de Liancourt et de Creil - Nogent-sur-Oise.
+Dans le département de l'Oise : les cantons de Liancourt et de Creil-Nogent-sur-Oise.
 
 Dans le département du Val-d'Oise : le territoire des circonscriptions d'action sociale d'Argenteuil et de Bezons.
 
@@ -52,4 +52,18 @@ Dans le département des Deux-Sèvres : le territoire d'intervention des commiss
 
 Dans le département des Alpes-Maritimes : le territoire de la commission locale d'insertion n° 3 qui couvre les circonscriptions de l'Ariane, de Saint-André-de-la-Roche, de Pasteur et de Saint-Roch.
 
-II. - Les territoires du département d'Ille-et-Vilaine, du département de la Charente-Maritime qui sont mentionnés dans le présent article sont autorisés à modifier le rythme de liquidation de l'allocation de revenu de solidarité active et de l'allocation de parent isolé dans les conditions fixées dans le II de l'article 3 du décret n° 2007-1433 du 5 octobre 2007 relatif à l'expérimentation du revenu de solidarité active mise en oeuvre en faveur des bénéficiaires de l'allocation de parent isolé et du revenu minimum d'insertion.
+Dans le département du Calvados : le territoire de la commission locale d'insertion du Pays d'Auge Nord, qui regroupe les cantons de Blangy-le-Château, Cambremer, Dozulé, Honfleur, Pont-l'Evêque et Trouville-sur-Mer.
+
+Dans le département de la Creuse.
+
+Dans le département de la Dordogne : les cantons d'Eymet, Sigoulès, Vélines, Issigeac et les communes de Boulazac et Trélissac.
+
+Dans le département du Gard : le territoire de la commission locale d'insertion 8 Nord-Est, qui regroupe des cantons de Bagnols-sur-Cèze, Lussan, Pont-Saint-Esprit et Roquemaure.
+
+Dans le département du Morbihan : le territoire de la commission locale d'insertion de Vannes, qui regroupe les communes situées dans les cantons de Vannes Centre, Vannes Ouest, Vannes Est, Grandchamp, Elven, Sarzeau, Muzillac et La Roche-Bernard.
+
+Dans le département de la Mayenne.
+
+Dans le département de la Seine-Saint-Denis : le territoire des communes d'Aulnay-sous-Bois, Le Blanc-Mesnil, Clichy-sous-Bois, Livry-Gargan, Montfermeil, Sevran.
+
+II.-Les territoires du département d'Ille-et-Vilaine, du département de la Charente-Maritime qui sont mentionnés dans le présent article sont autorisés à modifier le rythme de liquidation de l'allocation de revenu de solidarité active et de l'allocation de parent isolé dans les conditions fixées dans le II de l'article 3 du décret n° 2007-1433 du 5 octobre 2007 relatif à l'expérimentation du revenu de solidarité active mise en oeuvre en faveur des bénéficiaires de l'allocation de parent isolé et du revenu minimum d'insertion.
