@@ -4,6 +4,6 @@ Les sièges de représentants du personnel au sein des conseils départementaux 
 
 Dans les directions et services pour lesquels il n'existe pas de dépouillement départemental, il est tenu compte des voix obtenues au niveau le plus proche possible du niveau départemental.
 
-Les membres, titulaires et suppléants, représentant les personnels sont désignés librement, parmi les fonctionnaires titulaires et les agents non titulaires du ministère de l'économie, des finances et de l'industrie en fonction dans le ressort du conseil départemental de l'action sociale concerné, par les organisations syndicales disposant de sièges en application des alinéas précédents.
+Les membres, titulaires et suppléants, représentant les personnels sont désignés librement, parmi les fonctionnaires titulaires et les agents non titulaires du            ministère de l'économie, des finances et de l'emploi et ministère du budget, des comptes publics et de la fonction publique  en fonction dans le ressort du conseil départemental de l'action sociale concerné, par les organisations syndicales disposant de sièges en application des alinéas précédents.
 
 La durée du mandat des membres des conseils départementaux est fixée à trois ans.
