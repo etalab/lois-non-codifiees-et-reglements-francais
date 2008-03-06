@@ -1,0 +1,3 @@
+# Article 3
+
+Un exploitant qui assure ou envisage d'assurer le traitement de combustibles usés ou de déchets radioactifs provenant de l'étranger doit disposer d'un système de suivi des entrées de combustibles usés et de déchets radioactifs et des sorties de déchets radioactifs à expédier vers l'étranger. Ce système précise les quantités et la nature physique des substances par provenance, tient le décompte des déchets traités et organise leur attribution à chaque destinataire. Il enregistre les dates de réception de ces substances sur le territoire national, les périodes de leur traitement et les dates de sortie des déchets du territoire national. Il est adapté aux conditions d'application de chaque accord intergouvernemental.
