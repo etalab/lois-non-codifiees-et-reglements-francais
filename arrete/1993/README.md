@@ -542,7 +542,6 @@
 - [Arrêté du 18 mars 1993 (TEFT9300364A)](arrete-du-18-mars-1993-teft9300364a)
 - [Arrêté du 18 novembre 1992 (ENVE9250361A)](arrete-du-18-novembre-1992-enve9250361a)
 - [Arrêté du 18 novembre 1993 (COMA9300024A)](arrete-du-18-novembre-1993-coma9300024a)
-- [Arrêté du 18 novembre 1993 (ECOS9340011A)](arrete-du-18-novembre-1993-ecos9340011a)
 - [Arrêté du 18 novembre 1993 (EQUS9301724A)](arrete-du-18-novembre-1993-equs9301724a)
 - [Arrêté du 18 novembre 1993 (INDP9320542A)](arrete-du-18-novembre-1993-indp9320542a)
 - [Arrêté du 18 novembre 1993 (JUSE9340131A)](arrete-du-18-novembre-1993-juse9340131a)
