@@ -2,7 +2,7 @@
 
 **SPÉCIFICATIONS D'APPROBATION DE L'ORGANISME**Organisation
 
-Organisation financière et administrative de l'organisme démontrant un fonctionnement autonome et indépendant, notamment par rapport aux organismes de formation linguistique.
+Organisation financière et administrative de l'organisme démontrant un fonctionnement autonome et indépendant par rapport aux organismes de formation linguistique.
 
 Structure de l'organisme (organigramme détaillé).
 
