@@ -6,4 +6,6 @@ La liste des corps relevant des ministres chargés des affaires sociales dont le
 
 ― adjoints administratifs des administrations de l'Etat relevant des ministres chargés des affaires sociales ;
 
-― adjoints techniques des administrations de l'Etat relevant des ministres chargés des affaires sociales.
+― adjoints techniques des administrations de l'Etat relevant des ministres chargés des affaires sociales ;
+
+- inspection de l'action sanitaire et sociale.
