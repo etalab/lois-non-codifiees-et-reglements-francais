@@ -107,7 +107,6 @@
 - [Arrêté du 5 septembre 2005 (ECOS0570005A)](arrete-du-5-septembre-2005-ecos0570005a)
 - [Arrêté du 5 septembre 2005 (MENS0501810A)](arrete-du-5-septembre-2005-mens0501810a)
 - [Arrêté du 5 septembre 2005 (MENS0501811A)](arrete-du-5-septembre-2005-mens0501811a)
-- [Arrêté du 6 août 2005 (AGRG0501830A)](arrete-du-6-aout-2005-agrg0501830a)
 - [Arrêté du 6 avril 2005 (BUDF0500009A)](arrete-du-6-avril-2005-budf0500009a)
 - [Arrêté du 6 avril 2005 (EXTW0500018A)](arrete-du-6-avril-2005-extw0500018a)
 - [Arrêté du 6 décembre 2004 (JUSC0420929A)](arrete-du-6-decembre-2004-jusc0420929a)

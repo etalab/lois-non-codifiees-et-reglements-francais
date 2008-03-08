@@ -173,7 +173,6 @@
 - [Arrêté du 6 mai 1998 (ECOT9810337A)](arrete-du-6-mai-1998-ecot9810337a)
 - [Arrêté du 6 mai 1998 (INTD9800203A)](arrete-du-6-mai-1998-intd9800203a)
 - [Arrêté du 6 mai 1998 (MESS9821721A)](arrete-du-6-mai-1998-mess9821721a)
-- [Arrêté du 7 août 1998 (AGRG9801196A)](arrete-du-7-aout-1998-agrg9801196a)
 - [Arrêté du 7 août 1998 (ECOR9805010A)](arrete-du-7-aout-1998-ecor9805010a)
 - [Arrêté du 7 août 1998 (INTJ9800337A)](arrete-du-7-aout-1998-intj9800337a)
 - [Arrêté du 7 août 1998 (MESP9822667A)](arrete-du-7-aout-1998-mesp9822667a)
