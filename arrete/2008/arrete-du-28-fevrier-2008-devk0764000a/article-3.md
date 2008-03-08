@@ -1,0 +1,3 @@
+# Article 3
+
+Les entités en charge des bases aériennes militaires des directions départementales de l'équipement ou directions départementales de l'équipement et de l'agriculture des départements de l'Ain (Ambérieu-en-Bugey), de la Charente-Maritime (Rochefort et Saintes), d'Eure-et-Loir (Châteaudun), du Finistère (Brest), du Gard (Nîmes-Garons), de Loir-et-Cher (Romorantin-Lanthenay), de la Moselle (Metz-Frescaty), du Var (Le Luc) et de Vaucluse (Orange) sont rattachées à la direction départementale de l'équipement ou direction départementale de l'équipement et de l'agriculture compétente en matière d'ingénierie aéroportuaire militaire dans leur département.
