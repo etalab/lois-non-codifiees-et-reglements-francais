@@ -1,3 +1,0 @@
-# Article 4
-
-La responsabilité d'un régisseur se trouve engagée dès lors qu'un déficit en deniers ou en valeurs a été constatée, qu'une dépense a été irrégulièrement payée ou que, par faute du régisseur, une recette n'a pas été encaissée ou une indemnité a dû être versée par l'organisme public à un tiers ou à un autre organisme public.
