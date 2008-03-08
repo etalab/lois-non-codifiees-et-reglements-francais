@@ -18,27 +18,29 @@ f) Le président du conseil économique et social régional ;
 
 g) Quatre représentants de l'Etat :
 
-- le trésorier-payeur général de région ;
+-le trésorier-payeur général de région ;
 
-- le directeur régional ou interrégional de l'Institut national de la statistique et des études économiques ;
+-le directeur régional ou interrégional de l'Institut national de la statistique et des études économiques ;
 
-- le directeur régional ou départemental de la concurrence, de la consommation et de la répression des fraudes ;
+-le directeur régional ou départemental de la concurrence, de la consommation et de la répression des fraudes ;
 
-- le directeur du travail, de l'emploi et de la formation professionnelle ;
+-le directeur du travail, de l'emploi et de la formation professionnelle ;
 
 h) Trois représentants des chambres consulaires :
 
-- le président de la chambre de commerce et d'industrie ;
+-le président de la chambre de commerce et d'industrie ;
 
-- le président de la chambre des métiers ;
+-le président de la chambre des métiers ;
 
-- le président de la chambre d'agriculture ;
+-le président de la chambre d'agriculture ;
 
-i) Trois représentants des organisations syndicales des salariés du secteur privé et du secteur public désignées selon les modalités prévues à l'article R. 852-2 du code du travail ;
+i) Huit représentants des organisations syndicales des salariés du secteur privé et du secteur public désignées selon les modalités prévues à l'article R. 852-2 du code du travail ;
 
 j) Trois personnalités qualifiées à raison de leur compétence ou de leur connaissance en matière de formation des prix et des revenus ;
 
 k) Le directeur régional de l'Institut d'émission des départements d'outre-mer ;
+
+l) Trois représentants des organisations syndicales d'employeurs.
 
 2° A Mayotte :
 
@@ -54,19 +56,19 @@ e) Le président du conseil économique et social de Mayotte ;
 
 f) Trois représentants de l'Etat :
 
-- le trésorier-payeur général ;
+-le trésorier-payeur général ;
 
-- le représentant local de l'Institut national de la statistique et des études économiques ;
+-le représentant local de l'Institut national de la statistique et des études économiques ;
 
-- le directeur du travail de l'emploi et de la formation professionnelle ;
+-le directeur du travail de l'emploi et de la formation professionnelle ;
 
 g) Trois représentants des chambres consulaires :
 
-- le président de la chambre de commerce et d'industrie ;
+-le président de la chambre de commerce et d'industrie ;
 
-- le président de la chambre professionnelle des métiers ;
+-le président de la chambre professionnelle des métiers ;
 
-- le président de la chambre d'agriculture, de la pêche et de l'aquaculture ;
+-le président de la chambre d'agriculture, de la pêche et de l'aquaculture ;
 
 h) Trois représentants des organisations syndicales des salariés du secteur privé et du secteur public désignées selon les modalités prévues à l'article L. 412-3 du code du travail applicable à Mayotte ;
 
@@ -88,11 +90,11 @@ e) Le président du conseil économique, social et culturel ;
 
 f) Trois représentants de l'Etat :
 
-- le trésorier-payeur général ;
+-le trésorier-payeur général ;
 
-- le chef du service de la concurrence, de la consommation et de la répression des fraudes ;
+-le chef du service de la concurrence, de la consommation et de la répression des fraudes ;
 
-- le directeur départemental du travail, de l'emploi et de la formation professionnelle ;
+-le directeur départemental du travail, de l'emploi et de la formation professionnelle ;
 
 g) Le président de la chambre de commerce et d'industrie et des métiers ;
 
