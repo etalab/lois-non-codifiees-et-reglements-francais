@@ -1,7 +1,6 @@
 # Décret n°84-254 du 5 avril 1984 RENDANT OBLIGATOIRE LE REGIME DE PRESTATIONS SUPPLEMENTAIRES DE VIEILLESSE DES SAGES-FEMMES CONVENTIONNEES.
 
 - [Article 1](article-1.md)
-- [Article 2](article-2.md)
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)
 - [Article 5](article-5.md)
