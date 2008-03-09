@@ -101,6 +101,7 @@
 - [Arrêté du 9 janvier 2008 (IOCC0800697A)](arrete-du-9-janvier-2008-iocc0800697a)
 - [Arrêté du 9 janvier 2008 (PRMG0800149A)](arrete-du-9-janvier-2008-prmg0800149a)
 - [Arrêté du 9 janvier 2008 (SJSS0773635A)](arrete-du-9-janvier-2008-sjss0773635a)
+- [Arrêté du 9 mars 2004 (SOCF0410440A)](arrete-du-9-mars-2004-socf0410440a)
 - [Arrêté du 9 mars 2006 (SOCF0610650A)](arrete-du-9-mars-2006-socf0610650a)
 - [Arrêté du 9 novembre 2007 (DEVO0769728A)](arrete-du-9-novembre-2007-devo0769728a)
 - [Arrêté du 10 avril 2008 (MENH0804096A)](arrete-du-10-avril-2008-menh0804096a)
