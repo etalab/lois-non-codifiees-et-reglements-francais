@@ -1,0 +1,7 @@
+# Article 2
+
+Les procédures en cours devant les tribunaux pour enfants ou les juges des enfants des tribunaux pour enfants supprimés sont transférées en l'état, respectivement au tribunal pour enfants ou au juge des enfants désormais compétents, sans qu'il y ait lieu de renouveler les actes, formalités et jugements régulièrement intervenus antérieurement à la date de leur suppression, à l'exception des convocations, citations et assignations données aux parties et aux témoins à fin de comparution personnelle.
+
+Les informations en cours pour les infractions commises par des mineurs avec ou sans coauteurs ou complices âgés de plus de dix-huit ans, ouvertes par les juges d'instruction des tribunaux de grande instance dans le ressort desquels les tribunaux pour enfants supprimés ont leur siège, sont transférées en l'état aux juges d'instruction des tribunaux de grande instance dans le ressort desquels les tribunaux pour enfants désormais compétents ont leur siège, sans qu'il y ait lieu de renouveler les actes et formalités régulièrement intervenus antérieurement à la date de leur suppression, à l'exception des convocations données aux parties et aux témoins à fin de comparution personnelle.
+
+Les citations et assignations régulièrement intervenues avant la date d'entrée en vigueur du présent décret produisent leurs effets ordinaires interruptifs de prescription, même si elles n'ont pas été renouvelées.
