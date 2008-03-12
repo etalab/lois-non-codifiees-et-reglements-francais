@@ -6,7 +6,7 @@ Le préfet de région nomme les membres du jury, sur proposition du directeur r�
 
 - deux psychomotriciens.
 
-Deux des membres du jury doivent faire partie de l'équipe enseignante.
+Deux des membres du jury doivent faire partie de l'équipe enseignante ou assurer des fonctions de maître de stage auprès des étudiants.
 
 Par ailleurs, les membres du jury ne peuvent siéger lors de la soutenance d'un mémoire dont ils ont assuré la direction.
 
