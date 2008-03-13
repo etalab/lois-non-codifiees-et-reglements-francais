@@ -720,7 +720,6 @@
 - [Arrêté du 29 novembre 2005 (MAEF0510085A)](arrete-du-29-novembre-2005-maef0510085a)
 - [Arrêté du 29 novembre 2005 (SANS0524368A)](arrete-du-29-novembre-2005-sans0524368a)
 - [Arrêté du 29 septembre 2005 (DEVP0540371A)](arrete-du-29-septembre-2005-devp0540371a)
-- [Arrêté du 30 décembre 2004 (AGRB0402527A)](arrete-du-30-decembre-2004-agrb0402527a)
 - [Arrêté du 30 décembre 2004 (AGRB0402528A)](arrete-du-30-decembre-2004-agrb0402528a)
 - [Arrêté du 30 décembre 2004 (AGRB0402529A)](arrete-du-30-decembre-2004-agrb0402529a)
 - [Arrêté du 30 décembre 2004 (AGRB0402530A)](arrete-du-30-decembre-2004-agrb0402530a)
