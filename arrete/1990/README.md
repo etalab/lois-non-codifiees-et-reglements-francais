@@ -447,7 +447,6 @@
 - [Arrêté du 18 avril 1990 (ECOT9010072A)](arrete-du-18-avril-1990-ecot9010072a)
 - [Arrêté du 18 décembre 1989 (SPSP8902755A)](arrete-du-18-decembre-1989-spsp8902755a)
 - [Arrêté du 18 décembre 1989 (SPSS8902724A)](arrete-du-18-decembre-1989-spss8902724a)
-- [Arrêté du 18 décembre 1990 (BUDD9050009A)](arrete-du-18-decembre-1990-budd9050009a)
 - [Arrêté du 18 décembre 1990 (SPSS9002530A)](arrete-du-18-decembre-1990-spss9002530a)
 - [Arrêté du 18 décembre 1990 (SPSS9002531A)](arrete-du-18-decembre-1990-spss9002531a)
 - [Arrêté du 18 février 1986](arrete-du-18-fevrier-1986)

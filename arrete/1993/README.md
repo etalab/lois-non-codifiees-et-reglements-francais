@@ -442,7 +442,6 @@
 - [Arrêté du 16 février 1993 (ENVN9320111A)](arrete-du-16-fevrier-1993-envn9320111a)
 - [Arrêté du 16 février 1993 (SANH9300539A)](arrete-du-16-fevrier-1993-sanh9300539a)
 - [Arrêté du 16 juillet 1992 (ENVP9250115A)](arrete-du-16-juillet-1992-envp9250115a)
-- [Arrêté du 16 juillet 1993 (BUDD9350007A)](arrete-du-16-juillet-1993-budd9350007a)
 - [Arrêté du 16 juillet 1993 (JUSA9300206A)](arrete-du-16-juillet-1993-jusa9300206a)
 - [Arrêté du 16 juillet 1993 (MCCB9300067A)](arrete-du-16-juillet-1993-mccb9300067a)
 - [Arrêté du 16 juin 1993 (AGRG9301103A)](arrete-du-16-juin-1993-agrg9301103a)
