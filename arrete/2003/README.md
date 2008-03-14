@@ -781,7 +781,6 @@
 - [Arrêté du 24 décembre 2002 (BUDD0260249A)](arrete-du-24-decembre-2002-budd0260249a)
 - [Arrêté du 24 décembre 2002 (BUDD0260250A)](arrete-du-24-decembre-2002-budd0260250a)
 - [Arrêté du 24 décembre 2002 (DEVP0320000A)](arrete-du-24-decembre-2002-devp0320000a)
-- [Arrêté du 24 décembre 2002 (DEVP0320001A)](arrete-du-24-decembre-2002-devp0320001a)
 - [Arrêté du 24 décembre 2002 (EQUP0201998A)](arrete-du-24-decembre-2002-equp0201998a)
 - [Arrêté du 24 décembre 2002 (INTE0200710A)](arrete-du-24-decembre-2002-inte0200710a)
 - [Arrêté du 24 décembre 2002 (JUSB0210650A)](arrete-du-24-decembre-2002-jusb0210650a)
