@@ -54,6 +54,7 @@
 - [Arrêté du 9 septembre 1997 (ATEP9760348A)](arrete-du-9-septembre-1997-atep9760348a)
 - [Arrêté du 9 mai 2006 (AGRG0600915A)](arrete-du-9-mai-2006-agrg0600915a)
 - [Arrêté du 9 mai 2006 (ECOC0600052A)](arrete-du-9-mai-2006-ecoc0600052a)
+- [Arrêté du 10 janvier 2006 (INDI0606591A)](arrete-du-10-janvier-2006-indi0606591a)
 - [Arrêté du 10 octobre 2006 (DEFG0601483A)](arrete-du-10-octobre-2006-defg0601483a)
 - [Arrêté du 11 avril 2006 (SOCA0621478A)](arrete-du-11-avril-2006-soca0621478a)
 - [Arrêté du 11 décembre 2006 (DEFP0601671A)](arrete-du-11-decembre-2006-defp0601671a)
