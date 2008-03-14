@@ -1,0 +1,3 @@
+# Article 4
+
+Le directeur de l'évaluation de la performance, et des affaires financières et immobilières au ministère de l'intérieur, de l'outre-mer et des collectivités territoriales et le directeur général de la comptabilité publique au ministère du budget, des comptes publics et de la fonction publique, le chef de service de l'administration générale et des finances au ministère de l'immigration, de l'intégration, de l'identité nationale et du codéveloppement sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.

@@ -1,0 +1,3 @@
+# Article 3
+
+Le contrôleur fait connaître son avis au liquidateur dans un délai de dix jours ouvrés à compter de la réception des projets d'acte ou de décision, accompagnés des pièces justificatives. Ce délai est interrompu par toute demande écrite du contrôleur d'informations ou de documents complémentaires, jusqu'à leur réception. En l'absence de réponse de sa part à l'expiration de ce délai, son avis est réputé rendu. Si le liquidateur ne se conforme pas à l'avis du contrôleur, il lui en fait connaître les raisons, ainsi qu'au ministre chargé de l'économie, qui peut s'opposer dans un délai de quinze jours à l'exécution de l'acte ou de la décision.
