@@ -12,4 +12,4 @@ SNPE matériaux énergétiques (SME) ;
 
 Institut français du textile et de l'habillement (IFTH) ;
 
-Centre technique du bois et de l'ameublement (CTBA).
+Institut technologique FCBA (forêt, cellulose, bois - construction, ameublement).

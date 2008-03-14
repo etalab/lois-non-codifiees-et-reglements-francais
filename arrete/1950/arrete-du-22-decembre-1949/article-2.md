@@ -22,7 +22,7 @@ Le directeur de la Société nationale des poudres et explosifs, Matériaux éne
 
 Le directeur de l'Institut français du textile et de l'habillement ou son représentant ;
 
-Le directeur du centre technique du bois et de l'ameublement ou son représentant ;
+Le directeur de l'Institut technologique FCBA (forêt, cellulose, bois - construction, ameublement) ou son représentant ;
 
 Le directeur d'Efectis France ou son représentant ;
 
