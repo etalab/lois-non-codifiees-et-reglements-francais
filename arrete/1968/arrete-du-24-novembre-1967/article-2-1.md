@@ -18,11 +18,11 @@ PANONCEAUX DE POSITION OU DIRECTIONNELS M 3
 
 Un panonceau M3 indique la position ou la direction de la voie concernée par le panneau qu'il complète. On distingue les différents types suivants :
 
-- M3a qui indique la position de la voie concernée par le panneau qu'il complète ;
+-M3a qui indique la position de la voie concernée par le panneau qu'il complète ;
 
-- M3b qui indique la direction à suivre, et éventuellement sur quelle distance, pour rencontrer le service indiqué par le panneau ;
+-M3b qui indique la direction à suivre, et éventuellement sur quelle distance, pour rencontrer le service indiqué par le panneau ;
 
-- M3d qui indique que le panneau qu'il complète se rapporte à la voie au-dessus de laquelle il est implanté.
+-M3d qui indique que le panneau qu'il complète se rapporte à la voie au-dessus de laquelle il est implanté.
 
 PANONCEAU DE CATEGORIE M 4
 
@@ -88,13 +88,15 @@ Il donne des précisions concernant la réglementation relative au stationnement
 
 On distingue les différents types suivants :
 
-M6a qui indique que le stationnement et/ou l'arrêt est gênant au sens de l'article R. 417-10 du code de la route. Dans le cas de stationnement gênant, il complète le panneau B6a1 ou B6b1. Dans le cas de stationnement et d'arrêt gênants, il complète le panneau B6d.
+M6a qui indique que le stationnement et / ou l'arrêt est gênant au sens de l'article R. 417-10 du code de la route. Dans le cas de stationnement gênant, il complète le panneau B6a1 ou B6b1. Dans le cas de stationnement et d'arrêt gênants, il complète le panneau B6d.
 
 Dans les deux cas, un véhicule en infraction est susceptible d'une mise en fourrière.
 
 M 6 b qui indique que le stationnement est unilatéral à alternance semi-mensuelle.
 
-M 6 c qui indique que le stationnement est à durée limitée avec contrôle par disque.
+M6c qui indique la durée limite maximum du stationnement avec contrôle par disque, ainsi que les limites de la période d'application de la mesure.
+
+M 6 c-ancien qui indique que le stationnement est à durée limitée fixée à 1 h 30, avec contrôle par disque.
 
 M 6 d qui indique que le stationnement est payant avec parcmètre.
 
@@ -104,7 +106,7 @@ M 6 f qui donne des précisions concernant l'interdiction.
 
 M 6 g qui donne des indications diverses ne concernant pas les interdictions.
 
-M 6 h qui signale que le stationnement est réservé aux véhicules utilisés par les personnes handicapées à mobilité réduite : grands invalides civils, grands invalides de guerre ou titulaires des titres mentionnés à l'article L. 2213-2, 3°, du code général des collectivités territoriales.
+M 6 h qui signale que le stationnement est réservé aux véhicules utilisés par les personnes handicapées à mobilité réduite : grands invalides civils, grands invalides de guerre ou titulaires des titres mentionnés à l'article L. 2213-2,3°, du code général des collectivités territoriales.
 
 M 6 i qui signale que le stationnement est réservé aux véhicules électriques pendant la durée de recharge de leurs accumulateurs.
 
@@ -146,6 +148,10 @@ M9e indiquant que l'emplacement d'arrêt d'urgence est doté d'un poste d'appel 
 
 M 9 f indiquant que l'emplacement d'arrêt d'urgence est doté d'un poste d'appel d'urgence et d'un moyen de lutte contre l'incendie.
 
+M9j indiquant le risque de heurt de véhicules lents.
+
+M9v indiquant que la prescription donnée par le panneau associé ne s'applique pas aux cyclistes.
+
 Panonceaux d'identification M10 :
 
 Ils permettent d'identifier une autoroute, un échangeur ou un service et sont placés au-dessus de certains panneaux de signalisation d'indication ou de signalisation des services. On distingue les différents types suivants :
@@ -158,7 +164,7 @@ M10z indiquant le nom propre d'un site ou de certains services.
 
 Ces panonceaux sont placés au-dessus du panneau qu'ils complètent.
 
-Panonceaux signalant des dérogations ou des prescriptions M11:
+Panonceaux signalant des dérogations ou des prescriptions M11 :
 
 M11a signalant les dérogations aux prescriptions qui s'appliquent à une route à accès réglementé ;
 
@@ -170,12 +176,12 @@ Le fond des panonceaux est de couleur blanche.
 
 Les pictogrammes et inscriptions figurant sur les pannonceaux sont noirs, sauf :
 
-- le pictogramme du panonceau M1a qui reproduit soit le nom de la marque du distributeur de carburant, soit son logotype polychrome, soit les deux ensemble ;
+-le pictogramme du panonceau M1a qui reproduit soit le nom de la marque du distributeur de carburant, soit son logotype polychrome, soit les deux ensemble ;
 
-- les pictogrammes des pannonceaux M4k, M4l, M4m qui reprennent les couleurs des pictogrammes des panneaux B18a, B18b et B18c ;
+-les pictogrammes des pannonceaux M4k, M4l, M4m qui reprennent les couleurs des pictogrammes des panneaux B18a, B18b et B18c ;
 
-- le pictogramme du pannonceau M6h qui est de couleur bleue et blanche ;
+-le pictogramme du pannonceau M6h qui est de couleur bleue et blanche ;
 
-- l'éclair du panonceau M9b et l'extincteur du panonceau M9f qui sont de couleur rouge ;
+-l'éclair du panonceau M9b et l'extincteur du panonceau M9f qui sont de couleur rouge ;
 
-- l'encart du panonceau M10a qui reprend la couleur du cartouche d'identification d'une route ou d'une autoroute.
+-l'encart du panonceau M10a qui reprend la couleur du cartouche d'identification d'une route ou d'une autoroute.
