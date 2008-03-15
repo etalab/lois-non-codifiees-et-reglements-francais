@@ -1,0 +1,3 @@
+# Article 24
+
+Chaque installation nucléaire de base ayant fait l'objet à la date de publication du présent décret d'un décret d'autorisation de création ou bénéficiant des dispositions de l'article 33 de la loi du 13 juin 2006 ou autorisée en vertu de dispositions applicables antérieurement doit être dotée avant le 1er janvier 2009 d'une commission locale d'information dans le respect des dispositions de l'article 22 de la loi du 13 juin 2006 susvisée et du présent décret. Les commissions existant à la date de publication du présent décret doivent être mises en conformité avec ces dispositions dans le même délai.

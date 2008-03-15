@@ -1,0 +1,3 @@
+# Article 13
+
+La saisine, par la commission, de l'Autorité de sûreté nucléaire ou des ministres chargés de la sûreté nucléaire ou de la radioprotection, en application du sixième alinéa du V de l'article 22 de la loi du 13 juin 2006 susvisée, est décidée sur proposition du président par un vote de la commission réunie en séance plénière et votant à la majorité des suffrages exprimés ou, s'il en a reçu délégation, par le bureau. Les mêmes dispositions sont applicables à la saisine du Haut Comité pour la transparence et l'information sur la sécurité nucléaire en application de l'article 24 de la loi du 13 juin 2006 susvisée.
