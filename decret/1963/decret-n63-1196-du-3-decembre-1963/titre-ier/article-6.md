@@ -2,10 +2,10 @@
 
 Le conseil de l'ordre comprend :
 
-Le chancelier, président ;
+- le chancelier, président ;
 
-Huit membres choisis parmi les dignitaires et commandeurs de l'ordre ;
+- neuf membres choisis parmi les dignitaires et commandeurs de l'ordre ;
 
-Un membre titulaire du grade d'officier ;
+- un membre choisi parmi les officiers ;
 
-Un membre titulaire du grade de chevalier.
+- un membre choisi parmi les chevaliers.
