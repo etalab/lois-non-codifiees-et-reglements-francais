@@ -173,7 +173,6 @@
 - [Décret n°2002-423 du 29 mars 2002 (MESS0220838D)](decret-n2002-423-du-29-mars-2002-mess0220838d)
 - [Décret n°2002-647 du 29 avril 2002 (EQUX0200054D)](decret-n2002-647-du-29-avril-2002-equx0200054d)
 - [Décret n°2002-656 du 29 avril 2002 (MESP0221435D)](decret-n2002-656-du-29-avril-2002-mesp0221435d)
-- [Décret n°2002-665 du 29 avril 2002 (INTM0200010D)](decret-n2002-665-du-29-avril-2002-intm0200010d)
 - [Décret n°2002-677 du 29 avril 2002 (MCCB0200300D)](decret-n2002-677-du-29-avril-2002-mccb0200300d)
 - [Décret n°2002-679 du 29 avril 2002 (AGRR0200057D)](decret-n2002-679-du-29-avril-2002-agrr0200057d)
 - [Décret n°2002-682 du 29 avril 2002 (FPPA0200037D)](decret-n2002-682-du-29-avril-2002-fppa0200037d)

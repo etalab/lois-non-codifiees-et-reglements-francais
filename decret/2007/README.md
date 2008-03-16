@@ -738,8 +738,6 @@
 - [Décret n°2006-1386 du 15 novembre 2006 (SANX0609703D)](decret-n2006-1386-du-15-novembre-2006-sanx0609703d)
 - [Décret n°2007-1028 du 15 juin 2007 (PRMX0710487D)](decret-n2007-1028-du-15-juin-2007-prmx0710487d)
 - [Décret n°2007-1029 du 15 juin 2007 (DEVM0756517D)](decret-n2007-1029-du-15-juin-2007-devm0756517d)
-- [Décret n°2007-1468 du 15 octobre 2007 (IOCA0767314D)](decret-n2007-1468-du-15-octobre-2007-ioca0767314d)
-- [Décret n°2007-1469 du 15 octobre 2007 (IOCA0767371D)](decret-n2007-1469-du-15-octobre-2007-ioca0767371d)
 - [Décret n°2007-1470 du 15 octobre 2007 (BCFF0758784D)](decret-n2007-1470-du-15-octobre-2007-bcff0758784d)
 - [Décret n°2007-1610 du 15 novembre 2007 (PRMX0770849D)](decret-n2007-1610-du-15-novembre-2007-prmx0770849d)
 - [Décret n°2007-1614 du 15 novembre 2007 (DEVK0751650D)](decret-n2007-1614-du-15-novembre-2007-devk0751650d)
