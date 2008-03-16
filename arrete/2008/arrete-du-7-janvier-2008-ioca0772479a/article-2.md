@@ -62,7 +62,7 @@ Réintégration, après congé, mentionné au 15, dans les mêmes services, sans
 
 19. Reconnaissance de l'imputabilité au service des accidents et des maladies professionnelles.
 
-20. Reconnaissance de l'état d'invalidité temporaire et ouverture du droit au versement de l'allocation temporaire d'invalidité et, le cas échéant, de la majoration pour tierce personne.
+20. Reconnaissance de l'état d'invalidité temporaire et ouverture du droit au versement de l'allocation d'invalidité temporaire et, le cas échéant, de la majoration pour tierce personne.
 
 21. Bénéfice des prestations de l'assurance maladie et de l'assurance invalidité.
 

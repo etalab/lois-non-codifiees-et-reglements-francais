@@ -104,7 +104,7 @@ Sous réserve des dispositions prévues aux articles 3, 4 et 5, les décisions d
 
 14. Reconnaissance de l'imputabilité au service des accidents du travail et des maladies professionnelles.
 
-15. Reconnaissance de l'état d'invalidité temporaire et ouverture du droit au versement de l'allocation temporaire d'invalidité et, le cas échéant, de la majoration pour tierce personne.
+15. Reconnaissance de l'état d'invalidité temporaire et ouverture du droit au versement de l'allocation d'invalidité temporaire et, le cas échéant, de la majoration pour tierce personne.
 
 16. Bénéfice des prestations de l'assurance maladie et de l'assurance invalidité.
 
