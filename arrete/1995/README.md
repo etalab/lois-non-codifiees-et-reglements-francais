@@ -518,7 +518,6 @@
 - [Arrêté du 13 avril 1995 (SANP9501261A)](arrete-du-13-avril-1995-sanp9501261a)
 - [Arrêté du 13 décembre 1995 (JUSB9510414A)](arrete-du-13-decembre-1995-jusb9510414a)
 - [Arrêté du 13 février 1995 (BUDB9510014A)](arrete-du-13-fevrier-1995-budb9510014a)
-- [Arrêté du 13 février 1995 (SPSS9500524A)](arrete-du-13-fevrier-1995-spss9500524a)
 - [Arrêté du 13 janvier 1995 (DEFT9501048A)](arrete-du-13-janvier-1995-deft9501048a)
 - [Arrêté du 13 janvier 1995 (INDP9500040A)](arrete-du-13-janvier-1995-indp9500040a)
 - [Arrêté du 13 janvier 1995 (INDP9500041A)](arrete-du-13-janvier-1995-indp9500041a)
