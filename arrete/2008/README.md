@@ -340,6 +340,7 @@
 - [Arrêté du 22 février 2008 (ECED0804839A)](arrete-du-22-fevrier-2008-eced0804839a)
 - [Arrêté du 22 février 2008 (SJSH0804887A)](arrete-du-22-fevrier-2008-sjsh0804887a)
 - [Arrêté du 22 février 2008 (SJSH0804977A)](arrete-du-22-fevrier-2008-sjsh0804977a)
+- [Arrêté du 22 janvier 1992 (SANH9200213A)](arrete-du-22-janvier-1992-sanh9200213a)
 - [Arrêté du 22 janvier 2008 (AGRS0771828A)](arrete-du-22-janvier-2008-agrs0771828a)
 - [Arrêté du 22 janvier 2008 (DEVL0801337A)](arrete-du-22-janvier-2008-devl0801337a)
 - [Arrêté du 22 janvier 2008 (IOCC0801072A)](arrete-du-22-janvier-2008-iocc0801072a)
