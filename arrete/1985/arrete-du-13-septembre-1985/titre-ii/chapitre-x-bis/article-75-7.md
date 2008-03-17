@@ -4,9 +4,9 @@ Cas particuliers.
 
 a) Dans le cas d'arrivée "dead heat" dans une course, s'il n'y a aucune mise sur l'une des permutations payables, la fraction de la masse à partager afférente à cette permutation est :
 
-- soit répartie dans les mêmes proportions entre les autres permutations payables ;
+1. Soit répartie dans les mêmes proportions entre les autres permutations payables ;
 
-- soit réservée pour constituer une tirelire. La part constituée par les enjeux centralisés en France de cette tirelire est ajoutée à la masse à partager du premier pari "Trio ordre international suivant organisé en masse commune avec le même pays où la tirelire a été constituée.
+2. Soit réservée pour constituer une tirelire. La part constituée par les enjeux centralisés en France de cette tirelire est ajoutée à la masse à partager du premier pari "Trio Ordre International" suivant organisé en masse commune avec le même pays où la tirelire a été constituée.
 
 Ces modalités particulières selon le pays considéré sont portées à la connaissance des parieurs au plus tard lors du début des opérations d'enregistrement du pari considéré.
 

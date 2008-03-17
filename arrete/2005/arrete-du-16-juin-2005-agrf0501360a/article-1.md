@@ -16,4 +16,6 @@ Minimum d'enjeux pour les paris couplé international et trio international : 1,
 
 Minimum d'enjeux pour un pari Quadrio : 1,50 euro ;
 
-Minimum d'enjeux pour un pari Trio Ordre : 1,50 euro.
+Minimum d'enjeux pour un pari Trio Ordre : 1,50 euro ;
+
+Minimum d'enjeux pour un pari Trio Ordre Hippodrome : 1,50 euro.
