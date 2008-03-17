@@ -10,6 +10,7 @@
 - [Chapitre VIII : Pari triplet](chapitre-viii)
 - [Chapitre IX : Pari trio](chapitre-ix)
 - [Chapitre IX bis : Pari Trio Ordre](chapitre-ix-bis)
+- [Chapitre IX ter : Pari Trio Ordre Hippodrome](chapitre-ix-ter)
 - [Chapitre X : Pari trio urbain](chapitre-x)
 - [Chapitre X bis : Pari "Trio ordre international"](chapitre-x-bis)
 - [Chapitre XI : Pari quarté](chapitre-xi)
