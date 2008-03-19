@@ -1,7 +1,6 @@
 # 2002
 
 - [Décret n°85-390 du 1 avril 1985](decret-n85-390-du-1-avril-1985)
-- [Décret n°2002-1029 du 2 août 2002 (SOCF0211131D)](decret-n2002-1029-du-2-aout-2002-socf0211131d)
 - [Décret n°2002-451 du 2 avril 2002 (AGRS0200584D)](decret-n2002-451-du-2-avril-2002-agrs0200584d)
 - [Décret du 2 mai 2002 (AGRP0200183D)](decret-du-2-mai-2002-agrp0200183d)
 - [Décret du 2 mai 2002 (AGRP0200806D)](decret-du-2-mai-2002-agrp0200806d)
