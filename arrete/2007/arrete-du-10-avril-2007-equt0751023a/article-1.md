@@ -2,8 +2,6 @@
 
 La liste des ports mentionnée à l'article R. 321-15 du code des ports maritimes est la suivante :
 
-.
-
 <table>
 <tbody>
 <tr>
@@ -243,15 +241,17 @@ La liste des ports mentionnée à l'article R. 321-15 du code des ports maritime
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top" width="342">
-<p>Saint-Pierre-et-Miquelon.</p>
-</td>
-<td valign="top" width="339">
+<td colspan="2"> Saint-Pierre-et-Miquelon.</td>
+<td>
 <p>Saint-Pierre.</p>
 <p>Miquelon.</p>
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top" width="342">
+<p>Collectivité départementale de Mayotte.</p>
+</td>
+<td valign="top" width="339">Mayotte.</td>
+</tr>
 </tbody>
 </table>
-
-.
