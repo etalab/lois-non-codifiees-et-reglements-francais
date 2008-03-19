@@ -1,0 +1,3 @@
+# TITRE Ier : ORGANISATION ET FONCTIONNEMENT DES LYCÉES DE LA DÉFENSE.
+
+- [Article 3](article-3.md)

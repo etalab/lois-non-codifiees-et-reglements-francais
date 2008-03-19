@@ -671,7 +671,6 @@
 - [Décret n°85-260 du 22 février 1985](decret-n85-260-du-22-fevrier-1985)
 - [Décret n°95-1040 du 22 septembre 1995 (SANG9502474D)](decret-n95-1040-du-22-septembre-1995-sang9502474d)
 - [Décret n°95-1041 du 22 septembre 1995 (JUSB9510015D)](decret-n95-1041-du-22-septembre-1995-jusb9510015d)
-- [Décret n°95-1045 du 22 septembre 1995 (MENL9501606D)](decret-n95-1045-du-22-septembre-1995-menl9501606d)
 - [Décret n°95-1058 du 22 septembre 1995 (SPSS9502390D)](decret-n95-1058-du-22-septembre-1995-spss9502390d)
 - [Décret n°95-1062 du 22 septembre 1995 (REFB9500279D)](decret-n95-1062-du-22-septembre-1995-refb9500279d)
 - [Décret n°95-1232 du 22 novembre 1995 (PRMX9501160D)](decret-n95-1232-du-22-novembre-1995-prmx9501160d)

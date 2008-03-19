@@ -2,12 +2,4 @@
 
 La mission de formation continue des adultes du service public de l'éducation est assurée selon des modalités spécifiques.
 
-Conformément à l'article 19 de la loi d'orientation du 10 juillet 1989 susvisée et dans les conditions prévues par le décret n° 92-275 du 26 mars 1992 susvisé, les établissements scolaires publics s'associent en groupement d'établissements pour exercer leur mission. Ils peuvent constituer un groupement d'intérêt public, dans les conditions prévues par le décret n° 92-276 du 26 mars 1992 susvisé.
-
-L'action de ces groupements s'inscrit dans le réseau national et académique de formation continue de l'éducation nationale. Dans le cadre des orientations nationales, le recteur définit une stratégie académique de développement. Il arrête la carte des groupements et favorise le développement de l'activité du réseau académique, dans une logique de cohérence et de solidarité entre les groupements. Chaque groupement élabore un plan pluriannuel de développement en référence à la fois à la stratégie académique et à sa propre situation.
-
-L'action des établissements publics locaux et nationaux d'enseignement et de formation professionnelle agricole et notamment celle, au sein de ces établissements, des centres de formation professionnelle et de promotion agricoles ainsi que, conformément à l'article 18 du décret n° 92-276 du 26 mars 1992 susvisé, celle des groupements d'intérêt public constitués par ces établissements s'inscrivent dans le réseau d'offre de formation du ministère chargé de l'agriculture. Dans le cadre des orientations nationales, le directeur régional de l'agriculture et de la forêt définit une stratégie régionale de développement et favorise le développement de l'activité du réseau régional des établissements relevant de sa compétence dans une logique de cohérence et de solidarité entre ces établissements.
-
-Le recteur et le directeur régional de l'agriculture et de la forêt se concertent pour coordonner les stratégies de développement de la formation continue des adultes relevant de leur champ de compétences respectif.
-
-Ces stratégies se développent en cohérence avec la programmation régionale des interventions de l'Etat et le programme régional de formation professionnelle continue de la région. Le recteur et le directeur régional de l'agriculture et de la forêt apportent leur concours à la définition des programmes de formation décidés par l'Etat et les collectivités territoriales. Ils définissent les conditions dans lesquelles les réseaux qui relèvent de leur compétence participent à la mise en oeuvre de ces programmes.
+Ils peuvent constituer un groupement d'intérêt public, dans les conditions prévues par le décret n° 92-276 du 26 mars 1992 susvisé.

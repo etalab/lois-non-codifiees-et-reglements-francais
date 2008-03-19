@@ -1,15 +1,7 @@
 # Décret n°90-788 du 6 septembre 1990 relatif à l'organisation et au fonctionnement des écoles maternelles et élémentaires
 
-- [Article 9](article-9.md)
-- [Article 9-1](article-9-1.md)
 - [Article 10](article-10.md)
 - [Article 10-1](article-10-1.md)
 - [Article 10-2](article-10-2.md)
 - [Article 13](article-13.md)
-- [Article 14](article-14.md)
-- [Article 17](article-17.md)
-- [Article 18](article-18.md)
-- [Article 19](article-19.md)
-- [Article 20](article-20.md)
-- [Article 24](article-24.md)
 - [Article 28](article-28.md)

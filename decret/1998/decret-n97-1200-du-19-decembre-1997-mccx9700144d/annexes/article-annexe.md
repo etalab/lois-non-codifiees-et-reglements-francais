@@ -1,3 +1,3 @@
 # Article Annexe
 
-Annexe non reproduite, voir au Journal officiel.
+Annexe non reproduite, voir le Journal officiel.

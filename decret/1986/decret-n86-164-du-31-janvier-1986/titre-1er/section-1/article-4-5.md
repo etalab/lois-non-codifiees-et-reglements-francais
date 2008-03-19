@@ -5,5 +5,3 @@ L'obligation d'assiduité mentionnée à l'article L. 511-1 du code de l'éducat
 Les élèves doivent accomplir les travaux écrits et oraux qui leur sont demandés par les enseignants, respecter le contenu des programmes et se soumettre aux modalités de contrôle des connaissances qui leur sont imposées.
 
 Les élèves ne peuvent se soustraire aux contrôles et examens de santé organisés à leur intention.
-
-Le règlement intérieur de l'établissement détermine les modalités d'application du présent article.

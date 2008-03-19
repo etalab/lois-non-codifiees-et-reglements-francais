@@ -11,6 +11,7 @@
 - [Décret n°78-241 du 6 mars 1978](decret-n78-241-du-6-mars-1978)
 - [Décret n°78-1145 du 7 décembre 1978](decret-n78-1145-du-7-decembre-1978)
 - [Décret n° 78-252 du 8 mars 1978](decret-n-78-252-du-8-mars-1978)
+- [Décret n°78-254 du 8 mars 1978](decret-n78-254-du-8-mars-1978)
 - [Décret n°78-255 du 8 mars 1978](decret-n78-255-du-8-mars-1978)
 - [Décret n°78-262 du 8 mars 1978](decret-n78-262-du-8-mars-1978)
 - [Décret n°78-266 du 8 mars 1978](decret-n78-266-du-8-mars-1978)

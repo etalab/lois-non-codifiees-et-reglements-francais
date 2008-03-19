@@ -1,3 +1,0 @@
-# Article 7
-
-Sera puni de l'amende prévue pour les contraventions de la 5e classe quiconque ouvrira ou fera fonctionner un établissement où est dispensé un enseignement de la danse sans s'acquitter des obligations prévues à l'article 5 de la loi du 10 juillet 1989 susvisée, ainsi qu'aux articles 1er à 6 du présent décret, relatives à la déclaration, à l'hygiène, à la sécurité, au contrôle médical, à l'âge d'admission des élèves et à l'assurance ou maintiendra en activité un établissement où est dispensé un enseignement de la danse frappé d'une décision d'interdiction en application de l'article 8 de ladite loi.

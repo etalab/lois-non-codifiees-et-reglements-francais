@@ -1,7 +1,0 @@
-# Article 50
-
-Le conseil d'établissement des collèges et des lycées mentionnés à l'article 48 est composé conformément aux dispositions des articles 12 et 13. Toutefois la représentation des collectivités locales concerne exclusivement la collectivité qui assure la gestion financière de l'établissement. Cette représentation est fixée par la collectivité locale et est au plus égale à quatre ou trois membres selon que le conseil d'établissement doit comprendre 30 ou 24 membres. En outre lorsque le conseil d'établissement comprend une personnalité qualifiée celle-ci est désignée par la collectivité qui assure la gestion financière de l'établissement. Si le conseil d'établissement comprend deux personnalités qualifiées, l'une est désignée, sur proposition du chef d'établissement, par l'inspecteur d'académie, directeur des services départementaux de l'éducation l'autre par la collectivité qui assure la gestion financière de l'établissement.
-
-Les membres du conseil d'établissement sont désignés conformément aux dispositions des articles 17 à 24. Les dispositions de l'article 25 relatives à la convocation et à la réunion du conseil d'administration sont applicables au conseil d'établissement des établissements municipaux ou départementaux.
-
-La commission permanente et le conseil des délégués des élèves sont composés conformément aux articles 26 et 28 et exercent les compétences prévues aux articles 27 et 29.

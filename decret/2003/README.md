@@ -452,7 +452,6 @@
 - [Décret n°2003-1272 du 23 décembre 2003 (SANH0324135D)](decret-n2003-1272-du-23-decembre-2003-sanh0324135d)
 - [Décret n°2003-1274 du 23 décembre 2003 (AGRM0302539D)](decret-n2003-1274-du-23-decembre-2003-agrm0302539d)
 - [Décret n°2003-1275 du 23 décembre 2003 (AGRG0302515D)](decret-n2003-1275-du-23-decembre-2003-agrg0302515d)
-- [Décret n°2003-1288 du 23 décembre 2003 (MAEA0320498D)](decret-n2003-1288-du-23-decembre-2003-maea0320498d)
 - [Décret n°2003-1297 du 23 décembre 2003 (AGRP0301812D)](decret-n2003-1297-du-23-decembre-2003-agrp0301812d)
 - [Décret n°2003-1314 du 23 décembre 2003 (SOCA0324650D)](decret-n2003-1314-du-23-decembre-2003-soca0324650d)
 - [Décret n°2003-1317 du 23 décembre 2003 (MENF0302429D)](decret-n2003-1317-du-23-decembre-2003-menf0302429d)
