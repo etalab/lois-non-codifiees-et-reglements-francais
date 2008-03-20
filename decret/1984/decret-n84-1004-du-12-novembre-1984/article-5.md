@@ -1,6 +1,6 @@
 # Article 5
 
-Les instituts universitaires de technologie sont administrés dans les conditions prévues par l'article 33 de la loi du 26 janvier 1984 susvisée.
+Les instituts universitaires de technologie sont administrés dans les conditions prévues par l'article L. 713-9 du code de l'éducation.
 
 Le directeur est élu à la majorité absolue des membres composant le conseil.
 

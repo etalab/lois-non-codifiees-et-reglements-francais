@@ -1,6 +1,6 @@
 # Article 5 bis
 
-Les personnalités extérieures du conseil sont choisies conformément aux dispositions de l'article 40 de la loi du 26 janvier 1984 susvisée et dans le respect des règles ci-après.
+Les personnalités extérieures du conseil sont choisies conformément aux dispositions de l'article L. 719-3 du code de l'éducation et dans le respect des règles ci-après.
 
 Les statuts de l'institut, adoptés à la majorité des deux tiers des membres en exercice, élus nommés, du conseil, fixent le nombre et la répartition des sièges réservés aux personnalités extérieures ainsi que la durée, qui ne peut être supérieure à quatre ans, du mandat de ces personnalités. Le conseil doit comprendre au moins un représentant des collectivités territoriales. Lorsque les statuts prévoient la représentation d'organisations syndicales, les représentants des organisations syndicales d'employeurs et de salariés doivent être en nombre égal.
 
