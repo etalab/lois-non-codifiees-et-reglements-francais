@@ -164,6 +164,7 @@
 - [Décret n°2008-63 du 17 janvier 2008 (AGRP0773780D)](decret-n2008-63-du-17-janvier-2008-agrp0773780d)
 - [Décret n°2008-64 du 17 janvier 2008 (BCFL0770469D)](decret-n2008-64-du-17-janvier-2008-bcfl0770469d)
 - [Décret n°2008-65 du 17 janvier 2008 (BCFS0765979D)](decret-n2008-65-du-17-janvier-2008-bcfs0765979d)
+- [Décret n°86-1130 du 17 octobre 1986](decret-n86-1130-du-17-octobre-1986)
 - [Décret n°2008-148 du 18 février 2008 (DEVT0770579D)](decret-n2008-148-du-18-fevrier-2008-devt0770579d)
 - [Décret n°2008-267 du 18 mars 2008 (BCFS0805045D)](decret-n2008-267-du-18-mars-2008-bcfs0805045d)
 - [Décret n°2008-56 du 18 janvier 2008 (PRMX0801572D)](decret-n2008-56-du-18-janvier-2008-prmx0801572d)
