@@ -1,0 +1,3 @@
+# Article 7
+
+Lorsque la souscription de contrats d'assurance est subventionnée par des crédits publics émanant d'une autre source budgétaire que celle mentionnée à l'article 6 (crédits communautaires ou crédits en provenance des collectivités territoriales notamment), le montant total des aides publiques ne doit pas dépasser 50 % de la prime ou cotisation nette d'impôt et taxe acquittée par l'assuré, ce pourcentage étant calculé sur la prime ou cotisation afférente à la garantie subventionnable. Le cas échéant, l'aide versée par le Fonds national de garantie des calamités agricoles est réduite à due concurrence.
