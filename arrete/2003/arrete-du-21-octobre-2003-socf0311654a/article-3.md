@@ -1,13 +1,13 @@
 # Article 3
 
-Le titre professionnel de conseiller(ère) en insertion professionnelle est composé de quatre unités constitutives dont la liste suit :
+Le titre professionnel de conseiller (ère) en insertion professionnelle est composé de quatre unités constitutives dont la liste suit :
 
-1. Accueillir des personnes en difficulté d'insertion et analyser la demande pour favoriser la démarche d'accompagnement ;
+1. Accueillir des personnes en démarche d'insertion et analyser la demande pour favoriser l'accompagnement ;
 
-2. Accompagner les personnes dans leurs parcours d'insertion sociale et professionnelle ;
+2. Accompagner les personnes dans leur parcours d'insertion sociale et professionnelle ;
 
-3. Mettre en oeuvre des relations avec les employeurs en matière d'insertion ;
+3. Développer et mettre en œuvre des solutions d'insertion avec les employeurs ;
 
-4. Participer au montage et à la conduite de projets dans le champ de l'insertion.
+4. Contribuer au montage de projets ou à la réalisation d'actions dans le champ de l'insertion.
 
-Elles peuvent être sanctionnées par des certificats de compétences professionnelles (CCP) dans les conditions prévues par l'arrêté du 25 novembre 2002 susvisé.
+Elles peuvent être sanctionnées par des certificats de compétences professionnelles (CCP) dans les conditions prévues par l'arrêté du 9 mars 2006 susvisé.

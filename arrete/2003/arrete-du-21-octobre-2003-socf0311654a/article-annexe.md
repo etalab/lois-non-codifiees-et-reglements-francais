@@ -1,12 +1,8 @@
 # Article Annexe
 
-A N N E X E
-
 INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
-Intitulé :
-
-Titre professionnel de conseiller(ère) en insertion professionnelle.
+Intitulé : conseiller (ère) en insertion professionnelle.
 
 Niveau : III.
 
@@ -14,107 +10,109 @@ Code NSF : 332 t.
 
 Résumé du référentiel d'emploi
 
-Le/la conseiller(ère) en insertion professionnelle mobilise et développe l'ensemble des moyens, ressources et relations nécessaires à l'accueil, l'information, l'orientation et l'accompagnement des jeunes ou des adultes rencontrant des difficultés d'insertion ou de reconversion.
+Le (la) conseiller (ère) en insertion professionnelle aide des jeunes ou des adultes en démarche d'insertion ou de reconversion à :
 
-L'action du/de la conseiller(ère) en insertion professionnelle vise :
+-construire et s'approprier des parcours réalistes d'insertion, de réinsertion ou de transition professionnelle ;
 
-- à aider ces publics à construire et à s'approprier un parcours réaliste d'insertion, de réinsertion ou de transition sociale et professionnelle et à surmonter progressivement les difficultés rencontrées ;
+-surmonter progressivement les difficultés rencontrées ;
 
-- à accompagner la mise en oeuvre de parcours d'insertion et/ou de projet débouchant sur l'emploi ou l'activité.
+-mettre en œuvre les parcours d'insertion construits avec la personne et / ou les projets débouchant sur un emploi.
 
-Les activités professionnelles sont exercées sur une zone géographique déterminée, dans le cadre des missions relevant de sa structure, sous la responsabilité de son directeur ou de son chef de service.
+Le (la) conseiller (ère) en insertion professionnelle mobilise et développe l'ensemble des moyens, ressources et relations nécessaires à l'accueil, l'information, l'orientation et l'accompagnement vers et dans l'emploi des personnes.
 
-L'ensemble des activités professionnelles du/de la conseiller(ère) en insertion professionnelle est réalisé au regard d'un public, adulte ou jeune, composé de femmes et d'hommes, valides ou handicapés, de niveaux de formation initiale différents, et des origines sociales, ethniques et confessionnelles différentes.
+Dans le cadre des missions qui sont du ressort de sa structure, et sous la responsabilité de son directeur ou de son chef de service, le (la) conseiller (ère) en insertion professionnelle exerce son activité sur une zone géographique déterminée.
+
+L'accomplissement de ces missions présuppose l'instauration d'une relation de confiance, la capacité à appréhender la situation des personnes dans leur globalité, à faire des diagnostics et à utiliser des mesures et des dispositifs en fonction des besoins.
+
+Pour remplir ces missions, le (la) conseiller (ère) en insertion professionnelle s'appuie sur un réseau de structures partenaires et d'acteurs de son territoire d'intervention, ce qui implique des compétences en termes de communication et de négociation et une bonne connaissance des problématiques territoriales.
+
+Enfin, ces activités impliquent la capacité à assurer des tâches administratives (dossiers de suivi, saisie informatique, gestion de démarches administratives...).
+
+L'ensemble des activités professionnelles du / de la conseiller (ère) en insertion professionnelle est réalisé, avec une neutralité bienveillante, auprès d'une grande diversité de publics.
 
 Capacités attestées et descriptif
 
 des composantes de la certification
 
-1. Accueillir des personnes en difficulté d'insertion et analyser
+1. Accueillir des personnes en démarche d'insertion
 
-la demande pour favoriser la démarche d'accompagnement
+et analyser la demande pour favoriser l'accompagnement
 
-Analyser la demande et les besoins de la personne en appréciant le caractère d'urgence de la situation.
+Informer et orienter une personne ou un groupe de personnes sur les ressources en matière d'insertion.
 
-Informer et orienter une personne ou un groupe de personnes en difficulté sur les ressources en matière d'insertion sociale et professionnelle.
+Conduire un entretien pour identifier les besoins et analyser la demande en tenant compte du cadre institutionnel.
 
-Réguler les comportements et/ou situations problématiques en gérant les flux et les temps d'attente pour créer les conditions d'un accueil personnalisé.
+Réguler des comportements déstabilisants en situation d'accueil.
 
-Mettre à disposition des informations écrites et orales en fonction de la situation en respectant les règles de confidentialité.
+Mobiliser un réseau ou des partenaires pour optimiser la réponse aux besoins des personnes en lien avec l'environnement socio-économique.
 
-Rechercher et traiter l'information utile à la conduite des activités du/de la conseiller(ère) en insertion professionnelle (sur les mesures, les ressources, l'emploi et le territoire...).
+Exercer une veille informationnelle, documentaire, technique et prospective pour adapter ses activités aux publics et aux contextes.
 
-Assurer le montage et le suivi des dossiers administratifs (ou y participer) en utilisant les mesures en vigueur facilitant l'insertion.
+Traiter la dimension administrative liée à l'activité.
 
-Analyser et formaliser sa pratique de conseiller(ère) en insertion professionnelle dans l'activité concernée.
+Inscrire ses actes professionnels dans une démarche de responsabilité sociale et professionnelle.
 
-2. Accompagner les personnes dans leur parcours
+Analyser ses pratiques professionnelles.
 
-d'insertion sociale et professionnelle
+2. Accompagner les personnes dans leur parcours d'insertion sociale et professionnelle
 
-Construire et contractualiser avec la personne son parcours d'insertion sociale et/ou professionnelle.
+Conduire un entretien d'accompagnement centré sur la personne.
 
-Suivre la progression et évaluer avec la personne les objectifs propres à chacune des étapes du parcours (et en tant que de besoin avec les professionnels également concernés).
+Construire et contractualiser avec la personne son parcours d'insertion.
 
-Assurer une médiation efficace vers l'emploi, notamment dans le respect des pratiques non discriminantes.
+Suivre l'évolution du parcours d'insertion des personnes accompagnées.
 
-Mettre à disposition des informations écrites et orales en fonction de la situation en respectant les règles de confidentialité.
+Exercer une veille informationnelle, documentaire, technique et prospective pour adapter ses activités aux publics et aux contextes.
 
-Rechercher et traiter l'information utile à la conduite des activités du/de la conseiller(ère) en insertion professionnelle (sur les mesures, les ressources, l'emploi et le territoire...).
+Traiter la dimension administrative liée à l'activité.
 
-Assurer le montage et le suivi des dossiers administratifs (ou y participer) en utilisant les mesures en vigueur facilitant l'insertion.
+Inscrire ses actes professionnels dans une démarche de responsabilité sociale et professionnelle.
 
-Travailler en équipe, en réseau ou en partenariat pour proposer et assurer la mobilisation de ressources en fonction des besoins et des urgences.
+Analyser ses pratiques professionnelles.
 
-Analyser et formaliser sa pratique de conseiller(ère) en insertion professionnelle dans l'activité concernée.
+3. Développer et mettre en œuvre des relations
 
-3. Mettre en oeuvre des relations avec les employeurs
+avec les employeurs en matière d'insertion
 
-en matière d'insertion
+Exploiter les données socio-économiques territoriales pour rapprocher l'offre et la demande.
 
-Apporter un appui technique aux employeurs en matière d'insertion (recrutement, besoins en formation et qualification...).
+Apporter un appui technique aux employeurs en matière de recrutement.
 
-Assurer une médiation entre les logiques des publics en insertion et celles des employeurs pour rapprocher l'offre de la demande.
+Faciliter l'intégration du salarié dans son environnement professionnel.
 
-Négocier les modes de collaboration entre le/la conseiller(ère) en insertion professionnelle et les acteurs de l'entreprise.
+Exercer une veille informationnelle, documentaire, technique et prospective pour adapter ses activités aux publics et aux contextes.
 
-Mettre à disposition des informations écrites et orales en fonction de la situation en respectant les règles de confidentialité.
+Traiter la dimension administrative liée à l'activité.
 
-Rechercher et traiter l'information utile à la conduite des activités du/de la conseiller(ère) en insertion professionnelle (sur les mesures, les ressources, l'emploi et le territoire...).
+Inscrire ses actes professionnels dans une démarche de responsabilité sociale et professionnelle.
 
-Assurer le montage et le suivi des dossiers administratifs (ou y participer) en utilisant les mesures en vigueur facilitant l'insertion.
+Analyser ses pratiques professionnelles.
 
-Analyser et formaliser sa pratique de conseiller(ère) en insertion professionnelle dans l'activité concernée.
+4. Contribuer au montage de projets
 
-4. Participer au montage et à la conduite
+ou à la réalisation d'actions dans le champ de l'insertion
 
-de projets dans le champ de l'insertion
+S'impliquer dans un projet émergeant ou une action répondant à une problématique de territoire, de structure et / ou du public.
 
-Elaborer un projet et formaliser en équipe, réseau ou partenariat un cahier des charges, un plan d'action, une réponse à appel à projet à partir d'éléments de diagnostic dans le champ de l'insertion.
+Mettre en œuvre le plan d'actions d'un projet collectif d'insertion.
 
-Mettre en oeuvre les différentes étapes opérationnelles du projet (moyens, communication...) dans le cadre des missions confiées à un/une conseiller(ère) en insertion professionnelle.
+Exercer une veille informationnelle, documentaire, technique et prospective pour adapter ses activités aux publics et aux contextes.
 
-Elaborer et mettre en oeuvre le dispositif d'évaluation d'un projet en concertation avec l'équipe.
+Traiter la dimension administrative liée à l'activité
 
-Participer à des réunions de travail, rédiger les comptes rendus et les soumettre à la validation de l'équipe projet.
+Inscrire ses actes professionnels dans une démarche de responsabilité sociale et professionnelle
 
-Mettre à disposition des informations écrites et orales en fonction de la situation en respectant les règles de confidentialité.
+Analyser ses pratiques professionnelles.
 
-Rechercher et traiter l'information utile à la conduite des activités du/de la conseiller(ère) en insertion professionnelle (sur les mesures, les ressources, l'emploi et le territoire...).
-
-Travailler en équipe, en réseau ou en partenariat pour proposer et assurer la mobilisation de ressources en fonction des besoins et des urgences.
-
-Analyser et formaliser sa pratique de conseiller(ère) en insertion professionnelle dans l'activité concernée.
-
-Secteurs d'activités ou types d'emploi
+Secteur d'activité ou types d'emploi
 
 accessibles par le détenteur du titre
 
-L'emploi de conseiller(ère) en insertion professionnelle s'exerce dans des structures très diversifiées, notamment dans les missions locales et permanences d'accueil, d'information et d'orientation (PAIO), agences locales (ALE), plans locaux d'insertion par l'économique (PLIE), dans des structures d'accueil et d'orientation, dans des organismes d'insertion et de formation, collectivités locales, structures de développement par l'économique, dispositifs d'aide à l'insertion des travailleurs handicapés.
+Les conseillers (ères) en insertion professionnelle sont salariés des organismes ou des structures chargés de l'insertion sociale et / ou professionnelle des personnes en démarche d'insertion tels que missions locales et PAIO, ANPE, CHRS, foyers de jeunes travailleurs, régies de quartier, centres socioculturels....
 
-Code(s) ROME :
+Code ROME :
 
-23221 - Conseiller en emploi et insertion professionnelle.
+23221-Conseiller en emploi et insertion professionnelle.
 
 Réglementation de l'activité :
 
@@ -126,8 +124,6 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
+Articles L. 335-5, L. 335-6, R. 335-13 et R. 338-1 du code de l'éducation ;
 
-Décret n° 2002-1029 du 2 août 2002 ;
-
-Arrêté du 25 novembre 2002.
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministre chargé de l'emploi.
