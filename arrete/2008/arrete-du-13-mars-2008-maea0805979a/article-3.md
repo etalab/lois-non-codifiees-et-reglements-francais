@@ -1,0 +1,3 @@
+# Article 3
+
+L'entretien professionnel comprend l'entretien de formation, dans les conditions mentionnées à l'article 5 du décret du 15 octobre 2007 susvisé. Cet entretien doit, notamment, permettre à l'agent de rendre compte à son supérieur hiérarchique des formations dont il a bénéficié durant l'année écoulée, des formations qu'il souhaite suivre durant l'année en cours ainsi que celles qu'il souhaiterait voir inscrites au plan de formation de l'année future afin de pouvoir en bénéficier, au vu soit des missions et des objectifs qui lui sont assignés, soit de ses propres perspectives professionnelles.
