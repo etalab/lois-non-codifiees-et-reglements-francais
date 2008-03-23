@@ -12,4 +12,4 @@ La commission consultative paritaire se réunit au moins deux fois par an.
 
 Le secrétariat de la commission est assuré par la direction de l'administration générale compétente pour les personnels concernés par le ou les points inscrits à l'ordre du jour. Un secrétaire adjoint est désigné parmi les représentants du personnel siégeant à la commission.
 
-La commission élabore son règlement intérieur, qui doit être approuvé par le ministre chargé de l'emploi et de la solidarité.
+La commission élabore son règlement intérieur, qui doit être approuvé par les ministres chargés des affaires sociales.
