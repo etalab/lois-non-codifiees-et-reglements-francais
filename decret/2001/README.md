@@ -572,4 +572,3 @@
 - [Décret n°2001-796 du 31 août 2001 (AGRP0101122D)](decret-n2001-796-du-31-aout-2001-agrp0101122d)
 - [Décret n°2001-994 du 31 octobre 2001 (MESS0122570D)](decret-n2001-994-du-31-octobre-2001-mess0122570d)
 - [Décret n°2001-995 du 31 octobre 2001 (JUSE0140003D)](decret-n2001-995-du-31-octobre-2001-juse0140003d)
-- [Décret n°93-1425 du 31 décembre 1993 (JUSC9320854D)](decret-n93-1425-du-31-decembre-1993-jusc9320854d)
