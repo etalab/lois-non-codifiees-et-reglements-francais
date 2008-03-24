@@ -293,3 +293,4 @@
 - [Décret n°2008-101 du 31 janvier 2008 (SJSP0771850D)](decret-n2008-101-du-31-janvier-2008-sjsp0771850d)
 - [Décret n°2008-96 du 31 janvier 2008 (MTST0765681D)](decret-n2008-96-du-31-janvier-2008-mtst0765681d)
 - [Décret n°2008-99 du 31 janvier 2008 (PRMX0768723D)](decret-n2008-99-du-31-janvier-2008-prmx0768723d)
+- [Décret n°93-1425 du 31 décembre 1993 (JUSC9320854D)](decret-n93-1425-du-31-decembre-1993-jusc9320854d)
