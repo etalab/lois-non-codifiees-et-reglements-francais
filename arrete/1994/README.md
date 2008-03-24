@@ -500,7 +500,6 @@
 - [Arrêté du 15 novembre 1994 (EQUA9401890A)](arrete-du-15-novembre-1994-equa9401890a)
 - [Arrêté du 15 novembre 1994 (JUSE9440143A)](arrete-du-15-novembre-1994-juse9440143a)
 - [Arrêté du 15 novembre 1994 (SPSS9403488A)](arrete-du-15-novembre-1994-spss9403488a)
-- [Arrêté du 15 septembre 1993 (ENVP9320361A)](arrete-du-15-septembre-1993-envp9320361a)
 - [Arrêté du 15 septembre 1994 (MCCB9400469A)](arrete-du-15-septembre-1994-mccb9400469a)
 - [Arrêté du 16 août 1994 (AGRG9400903A)](arrete-du-16-aout-1994-agrg9400903a)
 - [Arrêté du 16 août 1994 (AGRG9401624A)](arrete-du-16-aout-1994-agrg9401624a)

@@ -1,3 +1,0 @@
-# Article 13
-
-Si l'installation de parois chauffantes est indispensable, le stockage des produits doit être aménagé de façon qu'aucune réaction dangereuse ne puisse être provoquée par la température. Un déflecteur empêche le jet d'air pulsé d'aller directement sur les colis. Des treillis métalliques ou dispositifs équivalents évitent de placer les colis au-dessus d'une bouche d'air ou d'un radiateur, ou à moins de 25 centimètres de ceux-ci. Un détecteur placé au centre du local coupe le chauffage dès que la température atteint un seuil fixé en fonction de la nature des peroxydes organiques stockés.
