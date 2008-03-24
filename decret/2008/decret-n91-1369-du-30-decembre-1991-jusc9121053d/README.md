@@ -4,3 +4,5 @@
 - [CHAPITRE Ier : Dispositions relatives aux départements d'outre-mer, à Saint-Barthélemy et Saint-Martin.](chapitre-ier)
 - [CHAPITRE II : Dispositions relatives à la collectivité territoriale de Saint-Pierre-et-Miquelon.](chapitre-ii)
 - [CHAPITRE II bis : Dispositions relatives à la Polynésie française.](chapitre-ii-bis)
+- [CHAPITRE III : Dispositions diverses et transitoires.](chapitre-iii)
+- [Article 20](article-20.md)
