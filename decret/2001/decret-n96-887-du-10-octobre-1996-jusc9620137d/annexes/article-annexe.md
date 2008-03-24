@@ -1,14 +1,14 @@
 # Article Annexe
 
-RÈGLEMENT TYPE PRIS POUR L'APPLICATION DE L'ARTICLE 29 DE LA LOI DU 10 JUILLET 1991 RELATIVE À L'AIDE JURIDIQUE
+**RÈGLEMENT TYPE PRIS POUR L'APPLICATION DE L'ARTICLE 29 DE LA LOI DU 10 JUILLET 1991 RELATIVE À L'AIDE JURIDIQUE**
 
-Chapitre Ier
+**Chapitre Ier**
 
 Dispositions générales
 
 Article 1er
 
-Conformément aux dispositions des articles 27, 64-1, 64-2 et 64-3 de la loi n° 91-647 du 10 juillet 1991 relative à l'aide juridique et des articles 118 et 132-1 du décret n° 91-1266 du 19 décembre 1991, la caisse de règlements pécuniaires des avocats (Carpa) reçoit des dotations annuelles correspondant à la contribution de l'Etat à la rétribution des avocats inscrits au barreau pour :
+Conformément aux dispositions des articles 27,64-1,64-2 et 64-3 de la loi n° 91-647 du 10 juillet 1991 relative à l'aide juridique et des articles 118 et 132-1 du décret n° 91-1266 du 19 décembre 1991, la caisse de règlements pécuniaires des avocats (Carpa) reçoit des dotations annuelles correspondant à la contribution de l'Etat à la rétribution des avocats inscrits au barreau pour :
 
 1° Les missions d'aide juridictionnelle qu'ils accomplissent ;
 
@@ -28,9 +28,9 @@ Il est procédé, dans les livres d'un établissement de crédit, à l'ouverture
 
 1° Au titre du compte spécial : quatre comptes distincts intitulés respectivement :
 
-a) Carpa - aide juridictionnelle ;
+a) Carpa-aide juridictionnelle ;
 
-b) Carpa - garde à vue ;
+b) Carpa-garde à vue ;
 
 c) Carpa-médiation et composition pénales et mesure prévue à l'article 12-1 de l'ordonnance du 2 février 1945 ;
 
@@ -46,7 +46,7 @@ c) (s'il y a lieu) protocole articles 91 et 132-6.
 
 Article 3
 
-Les fonds sont versés par l'Etat sur le compte Carpa - aid e juridictionnelle dont les références ont été communiquées au garde des sceaux, ministre de la justice. Ils sont ensuite, en fonction de leur destination fixée par l'arrêté attributif des dotations, répartis à l'initiative de la Carpa sur les comptes mentionnés à l'article 2, à l'exception du compte Emploi des produits financiers.
+Les fonds sont versés par l'Etat sur le compte Carpa-aid e juridictionnelle dont les références ont été communiquées au garde des sceaux, ministre de la justice. Ils sont ensuite, en fonction de leur destination fixée par l'arrêté attributif des dotations, répartis à l'initiative de la Carpa sur les comptes mentionnés à l'article 2, à l'exception du compte Emploi des produits financiers.
 
 Lorsque les fonds sont placés, ils le sont selon les dispositions prévues par le chapitre II.
 
@@ -68,9 +68,9 @@ Article 7
 
 Conformément à l'article 30 de la loi du 10 juillet 1991 précitée, un commissaire aux comptes et un suppléant sont désignés par le conseil d'administration de la Carpa, ou, lorsque celle-ci n'a pas la personnalité juridique, par le conseil de l'ordre.
 
-Chapitre II
+**Chapitre II**
 
-Placement des fonds - Charges du service de l'aide juridictionnelle et de l'aide à l'intervention de l'avocat prévue par les dispositions de la troisième partie de la loi du 10 juillet 1991.
+Placement des fonds-Charges du service de l'aide juridictionnelle et de l'aide à l'intervention de l'avocat prévue par les dispositions de la troisième partie de la loi du 10 juillet 1991.
 
 Article 8
 
@@ -100,7 +100,7 @@ Le montant des charges figurant sur l'état mentionné au premier alinéa, qui e
 
 L'ensemble de ces états et pièces doivent être communiqués au commissaire aux comptes.
 
-Chapitre III
+**Chapitre III**
 
 Rétribution finale due à l'avocat
 
@@ -116,11 +116,11 @@ La rétribution finale due à l'avocat ayant accompli une mission d'aide juridic
 
 2° Et, selon le cas :
 
-- d'une attestation de mission délivrée par le greffe ;
+-d'une attestation de mission délivrée par le greffe ;
 
-- d'une ordonnance du président de la juridiction saisie ;
+-d'une ordonnance du président de la juridiction saisie ;
 
-- d'une attestation de fin de mission transactionnelle délivrée par le président du bureau d'aide juridictionnelle.
+-d'une attestation de fin de mission transactionnelle délivrée par le président du bureau d'aide juridictionnelle.
 
 Article 14
 
@@ -144,7 +144,7 @@ Dans ces deux derniers cas, il est procédé à deux enregistrements distincts :
 
 Pour les missions d'aide juridictionnelle partielle, le montant de la rétribution due à l'avocat est égal à celui de la contribution due par l'Etat.
 
-Dans tous les cas, il prend en compte la situation fiscale de l'avocat au regard des dispositions législatives et réglementaires relatives à la T.V.A.
+Dans tous les cas, il prend en compte la situation fiscale de l'avocat au regard des dispositions législatives et réglementaires relatives à la T. V. A.
 
 Article 17
 
@@ -178,7 +178,7 @@ Le montant de la rétribution due à l'avocat est fixé sur la base de l'une ou 
 
 Dans le deuxième cas, il est procédé à deux enregistrements distincts : celui de la rétribution effectivement versée et celui de la contribution due par l'Etat lorsque la rétribution versée correspond à la contribution due par l'Etat.
 
-Dans tous les cas, il prend en compte la situation de l'avocat au regard de la T.V.A.
+Dans tous les cas, il prend en compte la situation de l'avocat au regard de la T. V. A.
 
 Section 3
 
@@ -214,7 +214,7 @@ Dispositions communes
 
 Article 21
 
-Chaque avocat fait connaître immédiatement à la Carpa tout changement de sa situation au regard de la TV.A. et de son mode d'exercice.
+Chaque avocat fait connaître immédiatement à la Carpa tout changement de sa situation au regard de la TV. A. et de son mode d'exercice.
 
 Il fournit les références du compte ouvert dans les livres d'un établissement de crédit sur lequel les rétributions lui seront versées. Dans le cas particulier d'avocats exerçant dans le cadre d'un groupement, d'une association ou d'une société, les rétributions peuvent être versées sur un compte unique ouvert par le groupement, l'association ou la société.
 
@@ -244,7 +244,7 @@ Article 25
 
 Toute contestation ayant trait à la rétribution des missions prévues à la première et à la troisième partie de la loi du 10 juillet 1991 est soumise au bâtonnier ou à son représentant.
 
-Chapitre IV
+**Chapitre IV**
 
 Organisation de la défense
 
@@ -260,7 +260,7 @@ Article 27
 
 Dans le cas particulier où les missions d'aide juridictionnelle sont effectuées dans le cadre de permanences organisées par le barreau et rétribuées selon des bases forfaitaires fixées par convention avec l'ordre, la Carpa peut, à titre de provision, procéder au versement immédiat de ces rétributions sur la seule production d'une fiche justifiant de la permanence accomplie, visée par le bâtonnier ou son représentant.
 
-Chapitre V
+**Chapitre V**
 
 Provisions versées à l'avocat
 
@@ -296,7 +296,7 @@ Dans le cas d'un changement d'avocat en cours de procédure, si une provision a 
 
 A défaut d'accord sur la répartition finale de la contribution de l'Etat, le bâtonnier peut être saisi conformément à l'article 103 du décret du 19 décembre 1991 précité.
 
-Chapitre VI
+**Chapitre VI**
 
 Dispositions diverses relatives à la gestion
 
@@ -308,7 +308,7 @@ La Carpa peut déduire des rétributions dues le trop-perçu par l'avocat à l'o
 
 Tout avocat quittant le barreau doit régulariser son compte Aide juridictionnelle et autres missions. Dans le cas où il serait débiteur envers la Carpa ou détenteur de provisions pour des missions devenues caduques, cette régularisation doit intervenir avant le départ de l'avocat du barreau.
 
-Chapitre VII
+**Chapitre VII**
 
 Transmission des états liquidatifs et comptables
 
@@ -335,3 +335,31 @@ La Carpa transmet au garde des sceaux, ministre de la justice, un état de trés
 3° Les montants des rétributions versées aux avocats pour l'aide à l'intervention en matière de médiation et de composition pénales ainsi qu'au titre de la mesure prévue à l'article 12-1 de l'ordonnance du 2 février 1945 précitée.
 
 4° Les montants des rétributions versées aux avocats pour l'assistance aux détenus au cours de procédures disciplinaires, de mesures d'isolement d'office, de prolongation de ces mesures, ou de levée, sans leur accord, de placements à l'isolement à leur demande.
+
+**Chapitre VIII**
+
+Dispositions applicables en Polynésie française
+
+Article 38
+
+Conformément aux dispositions de l'article 17-14 du décret du 30 décembre 1991, la caisse de règlements pécuniaires des avocats du barreau de Papeete reçoit une somme destinée à l'indemnisation des déplacements effectués par les avocats de ce barreau prêtant leur concours au bénéficiaire de l'aide juridictionnelle.
+
+Article 39
+
+Les comptes mentionnés à l'article 2 comprennent, au titre des comptes annexes, un compte distinct intitulé :
+
+Frais de déplacement article 17-14
+
+Article 40
+
+La caisse de règlements pécuniaires des avocats procède à l'enregistrement comptable de tous les mouvements affectant les fonds versés par l'Etat au titre des frais de déplacement.
+
+Ces fonds ne peuvent avoir d'autre destination finale que la rétribution des déplacements effectués par les avocats prêtant leur concours au bénéficiaire de l'aide juridictionnelle.
+
+Article 41
+
+En vue de l'indemnisation des frais de déplacement qu'ils ont exposés, les avocats produisent à la caisse de règlements pécuniaires des avocats, outre le document attestant de leur intervention au titre de l'aide juridictionnelle, tout document permettant de justifier des frais engagés.
+
+Article 42
+
+Pour les missions d'aide juridictionnelle et d'aides à l'intervention de l'avocat, le montant de la rétribution n'est dû qu'à l'avocat exerçant sa profession dans les conditions prévues par l'article 7 de la loi du 31 décembre 1971 susvisée.

@@ -216,7 +216,7 @@ Autres mesures d'instruction dont enquêtes sociales : 2
 
 PROCÉDURES : II.-Droit social
 
-II. 5 Tribunal des affaires de sécurité sociale
+II. 5 Contentieux général de la sécurité sociale
 
 COEFFICIENT de base : 14
 
