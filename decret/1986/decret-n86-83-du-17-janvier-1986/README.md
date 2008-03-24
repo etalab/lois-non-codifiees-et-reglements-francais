@@ -4,7 +4,7 @@
 - [Titre II : Modalités de recrutement](titre-ii)
 - [Titre IV : Congés pour raison de santé](titre-iv)
 - [Titre V : Congés non rémunérés pour raisons familiales ou personnelles](titre-v)
-- [Titre VI : Absences résultant d'une obligation légale et des activités dans la réserve opérationnelle.](titre-vi)
+- [Titre VI : Absences résultant d'une obligation légale et des activités dans une réserve](titre-vi)
 - [Titre VII : Condition d'ouverture des droits à congé.](titre-vii)
 - [Titre VIII : Condition de réemploi](titre-viii)
 - [Titre VIII bis : Mise à disposition et mobilité.](titre-viii-bis)

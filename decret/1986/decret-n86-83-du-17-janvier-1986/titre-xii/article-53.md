@@ -4,4 +4,4 @@ La rémunération servant de base au calcul de l'indemnité de licenciement est 
 
 Le montant de la rémunération servant de base au calcul de l'indemnité de licenciement d'un agent employé à temps partiel est égal au montant de la rémunération qu'il aurait perçue s'il avait été employé à temps complet, telle qu'elle est définie à l'alinéa précédent.
 
-En cas de licenciement après un congé sans traitement, la rémunération servant de base au calcul de l'indemnité de licenciement est celle effectivement perçue au cours du mois civil précédant la mise en congé sans traitement, telle qu'elle est définie au premier alinéa du présent article.
+Lorsque le dernier traitement de l'agent est réduit de moitié en raison d'un congé de maladie ou de grave maladie, le traitement servant de base au calcul de l'indemnité de licenciement est sa dernière rémunération à plein traitement. Il en est de même lorsque le licenciement intervient après un congé non rémunéré.
