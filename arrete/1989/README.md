@@ -364,7 +364,6 @@
 - [Arrêté du 21 février 1989 (DEFL8901197A)](arrete-du-21-fevrier-1989-defl8901197a)
 - [Arrêté du 21 février 1989 (DEFL8901198A)](arrete-du-21-fevrier-1989-defl8901198a)
 - [Arrêté du 21 janvier 1989 (SPSH8900440A)](arrete-du-21-janvier-1989-spsh8900440a)
-- [Arrêté du 21 juillet 1989 (AGRE8901202A)](arrete-du-21-juillet-1989-agre8901202a)
 - [Arrêté du 21 juin 1989 (INDG8900518A)](arrete-du-21-juin-1989-indg8900518a)
 - [Arrêté du 21 juin 1991 (AGRA9100719A)](arrete-du-21-juin-1991-agra9100719a)
 - [Arrêté du 21 mars 1989 (INTD8900168A)](arrete-du-21-mars-1989-intd8900168a)
