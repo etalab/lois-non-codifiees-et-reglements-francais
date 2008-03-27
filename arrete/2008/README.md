@@ -425,6 +425,7 @@
 - [Arrêté du 24 janvier 2008 (SJSH0802180A)](arrete-du-24-janvier-2008-sjsh0802180a)
 - [Arrêté du 24 janvier 2008 (SJSP0800469A)](arrete-du-24-janvier-2008-sjsp0800469a)
 - [Arrêté du 24 janvier 2008 (SJSP0802212A)](arrete-du-24-janvier-2008-sjsp0802212a)
+- [Arrêté du 24 mai 1974](arrete-du-24-mai-1974)
 - [Arrêté du 25 février 2008 (DEVA0771061A)](arrete-du-25-fevrier-2008-deva0771061a)
 - [Arrêté du 25 février 2008 (DEVT0800473A)](arrete-du-25-fevrier-2008-devt0800473a)
 - [Arrêté du 25 février 2008 (ECEP0803514A)](arrete-du-25-fevrier-2008-ecep0803514a)
