@@ -22,19 +22,21 @@ Un représentant des activités nautiques désignés par le préfet coordonnateu
 
 Vingt-cinq représentants de l'industrie désignés par un collège formé par :
 
-- les présidents des chambres régionales de commerce et d'industrie d'Auvergne, de Bourgogne, de Bretagne, du Centre, du Limousin-Poitou-Charentes, des Pays de la Loire et de Rhône-Alpes ;
+-les présidents des chambres régionales de commerce et d'industrie d'Auvergne, de Bourgogne, de Bretagne, du Centre, du Limousin-Poitou-Charentes, des Pays de la Loire et de Rhône-Alpes ;
 
-- les présidents du MEDEF régional (Mouvement des entreprises de France) d'Auvergne, de Bourgogne, de Bretagne, du Centre, du Limousin, des Pays de la Loire, de Poitou-Charentes, de Rhône-Alpes et le président de COOP de France ;
+-les présidents du MEDEF régional (Mouvement des entreprises de France) d'Auvergne, de Bourgogne, de Bretagne, du Centre, du Limousin, des Pays de la Loire, de Poitou-Charentes, de Rhône-Alpes et le président de COOP de France ;
 
 Deux représentant des producteurs d'électricité désignés par l'Union française de l'électricité ;
 
 Deux représentant des distributeurs d'eau désignés par la Fédération professionnelle des entreprises de l'eau ;
 
-Sept représentants des associations agréées de défense des consommateurs désignés par le préfet coordonnateur de bassin sur proposition des instances représentatives des consommateurs du bassin ;
+Six représentants des associations agréées de défense des consommateurs désignés par le préfet coordonnateur de bassin sur proposition des instances représentatives des consommateurs du bassin ;
 
-Six représentants des associations agréées de protection de la nature désignés par le préfet coordonnateur de bassin sur proposition de leurs instances représentatives dans le bassin ;
+Sept représentants des associations agréées de protection de la nature désignés par le préfet coordonnateur de bassin sur proposition de leurs instances représentatives dans le bassin ;
 
 Un représentant des organismes de protection des marais atlantiques désigné par le préfet coordonnateur de bassin, après consultation des autres préfets représentant l'Etat au comité.
+
+Un représentant des organismes d'irrigation désigné par le préfet coordonnateur de bassin, après consultation des autres préfets représentant l'Etat au comité.
 
 Le préfet coordonnateur de bassin invite chaque collège, association ou organisme ci-dessus mentionné à lui faire connaître le nom ou les noms des représentants qu'il a désignés.
 
