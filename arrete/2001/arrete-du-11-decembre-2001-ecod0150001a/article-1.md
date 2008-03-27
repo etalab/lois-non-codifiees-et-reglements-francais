@@ -22,9 +22,9 @@ Les objets de toute nature comportant l'image ou la représentation d'un mineur,
 
 Tout support comportant un message à caractère violent ou pornographique ou de nature à porter gravement atteinte à la dignité humaine, lorsque ce message est susceptible d'être vu ou perçu par un mineur, au sens de l'article 227-24 du code pénal.
 
-4. Marchandises contrefaites.
+4. Marchandises contrefaisantes
 
-Les marchandises présentées sous une marque contrefaite.
+Les marchandises présentées sous une marque contrefaisante ou incorporant un dessin ou modèle tel que mentionné à l'article L. 513-4 du code de la propriété intellectuelle et tel que visé par l'article 19 du règlement (CE) n° 6 / 2002 du Conseil du 12 décembre 2001 sur les dessins ou modèles communautaires.
 
 5. Marchandises prohibées au titre d'engagements internationaux.
 
@@ -36,15 +36,15 @@ Les spécimens d'espèces de la faune et de la flore sauvages menacées d'extinc
 
 L'alcool et les spiritueux, mentionnés au b de l'article 401 du code général des impôts, à l'exclusion :
 
-- des alcools et spiritueux détenus ou transportés par les particuliers dans les conditions définies à l'article 458 (9°) du code général des impôts ;
+-des alcools et spiritueux détenus ou transportés par les particuliers dans les conditions définies à l'article 458 (9°) du code général des impôts ;
 
-- des alcools et spiritueux détenus et transportés par les particuliers pour leurs besoins propres et transportés par eux-mêmes dans les conditions définies aux articles 302 D-I (1 4°) du code général des impôts, 8 et 9 de la directive 92/12/CEE du Conseil du 25 février 1992 relative au régime général, à la détention, à la circulation et au contrôle des produits soumis à accise.
+-des alcools et spiritueux détenus et transportés par les particuliers pour leurs besoins propres et transportés par eux-mêmes dans les conditions définies aux articles 302 D-I (1 4°) du code général des impôts, 8 et 9 de la directive 92 / 12 / CEE du Conseil du 25 février 1992 relative au régime général, à la détention, à la circulation et au contrôle des produits soumis à accise.
 
 Les tabacs manufacturés, à l'exclusion :
 
-- des tabacs manufacturés revêtus des marques et mentions réglementaires prévues par l'article 56 AQ de l'annexe IV au code général des impôts ;
+-des tabacs manufacturés revêtus des marques et mentions réglementaires prévues par l'article 56 AQ de l'annexe IV au code général des impôts ;
 
-- des tabacs manufacturés détenus et transportés par les particuliers pour leurs besoins propres et transportés par eux-mêmes dans les conditions définies aux articles 302 D-I (1 4°) du code général des impôts, 8 et 9 de la directive 92/12/CEE du Conseil du 25 février 1992 relative au régime général, à la détention, à la circulation et au contrôle des produits soumis à accise.
+-des tabacs manufacturés détenus et transportés par les particuliers pour leurs besoins propres et transportés par eux-mêmes dans les conditions définies aux articles 302 D-I (1 4°) du code général des impôts, 8 et 9 de la directive 92 / 12 / CEE du Conseil du 25 février 1992 relative au régime général, à la détention, à la circulation et au contrôle des produits soumis à accise.
 
 L'anéthol, en nature ou en mélange, concentré ou non.
 

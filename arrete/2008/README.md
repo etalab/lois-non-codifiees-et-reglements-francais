@@ -511,6 +511,7 @@
 - [Arrêté du 27 février 2008 (SJSS0805238A)](arrete-du-27-fevrier-2008-sjss0805238a)
 - [Arrêté du 27 mars 2008 (DEFD0807787A)](arrete-du-27-mars-2008-defd0807787a)
 - [Arrêté du 27 mars 2008 (DEFD0807820A)](arrete-du-27-mars-2008-defd0807820a)
+- [Arrêté du 28 août 1990 (MENE9002053A)](arrete-du-28-aout-1990-mene9002053a)
 - [Arrêté du 28 décembre 2007 (AGRG0772617A)](arrete-du-28-decembre-2007-agrg0772617a)
 - [Arrêté du 28 décembre 2007 (BCFL0773243A)](arrete-du-28-decembre-2007-bcfl0773243a)
 - [Arrêté du 28 décembre 2007 (BCFL0774350A)](arrete-du-28-decembre-2007-bcfl0774350a)

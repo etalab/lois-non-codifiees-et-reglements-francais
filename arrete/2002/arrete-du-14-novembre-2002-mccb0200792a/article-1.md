@@ -1,6 +1,6 @@
 # Article 1
 
-Les élèves du département des restaurateurs du patrimoine de l'Institut national du patrimoine sont admis sur concours. Ce concours est ouvert aux candidats français et étrangers, titulaires du baccalauréat ou d'un diplôme équivalent et âgés de plus de 20 ans et de moins de 30 ans révolus au 31 décembre de l'année qui précède l'année du concours.
+Les élèves du département des restaurateurs du patrimoine de l'Institut national du patrimoine sont admis sur concours. Ce concours est ouvert aux candidats français et étrangers, titulaires du baccalauréat ou d'un diplôme équivalent et âgés de moins de 30 ans révolus au 31 décembre de l'année qui précède l'année du concours.
 
 Sont admis comme équivalents au baccalauréat :
 
@@ -13,3 +13,5 @@ Sont admis comme équivalents au baccalauréat :
 Des dérogations peuvent être accordées par le directeur de l'Institut national du patrimoine aux conditions d'âge et de diplôme mentionnées au présent article au vu d'une expérience ou d'une situation spécifiques, et sur proposition du conseil des études du département des restaurateurs du patrimoine mentionné à l'article 4 du présent arrêté.
 
 Nul n'est autorisé à se présenter plus de cinq fois au concours d'admission.
+
+A titre complémentaire, peuvent être admis en cours de cursus des élèves justifiant d'un titre ou diplôme au moins égal à la licence et satisfaisant aux conditions d'admission définies par le règlement spécifique à ce mode d'admission. L'admission peut être prononcée en deuxième ou en troisième année, en fonction de l'appréciation du jury. Le candidat doit être âgé de moins de trente-cinq ans au 31 décembre de l'année précédant la session d'admission. Nul ne peut être candidat plus de deux fois à la procédure d'admission en cours de cursus. Les membres du jury ainsi que, le cas échéant, les rapporteurs associés sont nommés par le directeur de l'établissement.
