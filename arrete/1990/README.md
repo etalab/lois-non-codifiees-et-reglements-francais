@@ -716,7 +716,6 @@
 - [Arrêté du 27 septembre 1990 (DEFA9001979A)](arrete-du-27-septembre-1990-defa9001979a)
 - [Arrêté du 27 septembre 1990 (RESY9000221A)](arrete-du-27-septembre-1990-resy9000221a)
 - [Arrêté du 27 septembre 1990 (RESY9000267A)](arrete-du-27-septembre-1990-resy9000267a)
-- [Arrêté du 28 août 1990 (MENE9002053A)](arrete-du-28-aout-1990-mene9002053a)
 - [Arrêté du 28 août 1990 (SPSS9001793A)](arrete-du-28-aout-1990-spss9001793a)
 - [Arrêté du 28 août 1990 (SPSS9001817A)](arrete-du-28-aout-1990-spss9001817a)
 - [Arrêté du 28 décembre 1989 (MERF8900233A)](arrete-du-28-decembre-1989-merf8900233a)
