@@ -696,7 +696,6 @@
 - [Arrêté du 25 octobre 2002 (MENE0202490A)](arrete-du-25-octobre-2002-mene0202490a)
 - [Arrêté du 26 avril 2002 (MCCB0200351A)](arrete-du-26-avril-2002-mccb0200351a)
 - [Arrêté du 26 avril 2002 (MCCB0200352A)](arrete-du-26-avril-2002-mccb0200352a)
-- [Arrêté du 26 avril 2002 (MCCH0200342A)](arrete-du-26-avril-2002-mcch0200342a)
 - [Arrêté du 26 avril 2002 (MENA0201090A)](arrete-du-26-avril-2002-mena0201090a)
 - [Arrêté du 26 avril 2002 (MENA0201093A)](arrete-du-26-avril-2002-mena0201093a)
 - [Arrêté du 26 avril 2002 (MENF0200966A)](arrete-du-26-avril-2002-menf0200966a)
