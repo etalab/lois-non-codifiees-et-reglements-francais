@@ -24,7 +24,7 @@ c) Abrogé ;
 
 d) La direction centrale du matériel de l'armée de terre ;
 
-e) La direction centrale des télécommunications et de l'informatique ;
+e) (Abrogé) ;
 
 f) Le service de la trésorerie aux armées.
 
@@ -67,3 +67,5 @@ b) La direction de la protection et de la sécurité de la défense ;
 c) Le bureau des officiers généraux.
 
 V. - Le service de la poste interarmées, service à compétence nationale, relevant du chef d'état-major des armées.
+
+VI. - Le bureau enquêtes accidents défense transports terrestres, le bureau enquêtes accidents défense mer et le bureau enquêtes accidents défense air, services à compétence nationale, placés respectivement auprès des officiers généraux de l'armée de terre, de la marine nationale et de l'armée de l'air, inspecteurs généraux des armées.
