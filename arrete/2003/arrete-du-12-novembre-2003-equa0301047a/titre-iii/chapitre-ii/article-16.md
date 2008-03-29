@@ -4,7 +4,7 @@ Règles applicables au traitement des passagers. - L'exploitant d'aérodrome ou 
 
 a) De procéder à la vérification de la validité du document de transport du passager pour le secteur d'embarquement considéré ;
 
-b) D'effectuer, de manière aléatoire, des palpations de sécurité avec le consentement de la personne et en respectant des objectifs quantitatifs fixés par décision de l'autorité compétente,
+b) D'effectuer, de manière aléatoire, des palpations de sécurité avec le consentement de la personne et en respectant des objectifs quantitatifs fixés par une décision des ministres signataires du présent arrêté ;
 
 et, lorsque des équipements de détection sont utilisés :
 

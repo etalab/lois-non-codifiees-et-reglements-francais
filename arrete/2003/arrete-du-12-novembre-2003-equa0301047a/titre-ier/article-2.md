@@ -38,4 +38,10 @@ q) " trafic annuel " : la moyenne des trafics annuels des trois dernières anné
 
 r) " vérification de sûreté de l'aéronef " : une opération préventive consistant à inspecter les parties de la cabine auxquelles les passagers peuvent avoir accès, les soutes et les trappes accessibles depuis le sol sans appareillage particulier, effectuée dans le but de découvrir des articles prohibés.
 
+s)  zone délimitée » : une partie de la zone réservée d'un aérodrome :
+
+- n'ayant que des vols ou activités de vols d'aviation générale, ou
+
+- dont l'activité commerciale et, le cas échéant, les activités de maintenance, sont limitées à des aéronefs de moins de 10 tonnes de poids maximal au décollage ou moins de 20 sièges passagers.
+
 t) " inspection filtrage unique " : exemption d'inspection filtrage des passagers en correspondance ou en transit et ce qu'ils transportent lorsqu'ils ont déjà été soumis à cette mesure.

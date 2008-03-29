@@ -22,7 +22,7 @@ c) De soumettre chaque bagage de soute accompagné à un examen dit "primaire" �
 
 7. Equipement radioscopique classique, 10 % des bagages faisant par ailleurs l'objet d'une vérification supplémentaire à l'aide d'un des moyens 1, 2, 4 ou 5 ci-dessus ou, en l'absence de ces moyens, d'un contrôle sous deux angles différents par le même opérateur au même endroit ;
 
-d) De procéder, lorsque l'examen primaire ne lui permet pas de s'assurer dans le cadre des procédures établies que le bagage ne contient pas d'articles prohibés, à un examen dit "complémentaire" par un des moyens ci-dessus différent du premier et de performance supérieure selon une classification fixée par une décision du ministre des transports ;
+d) De procéder, lorsque l'examen primaire ne lui permet pas de s'assurer dans le cadre des procédures établies que le bagage ne contient pas d'articles prohibés, à un examen dit " complémentaire " par un des moyens ci-dessus différent du premier et de performance supérieure selon une classification fixée par une décision des ministres signataires du présent arrêté ;
 
 e) De soumettre chaque bagage de soute qui n'est pas accompagné à un examen à l'aide d'un des moyens suivants :
 

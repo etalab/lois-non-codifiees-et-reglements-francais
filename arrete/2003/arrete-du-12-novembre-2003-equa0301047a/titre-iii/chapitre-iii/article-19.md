@@ -10,4 +10,4 @@ b) L'exploitant d'un aérodrome dont le trafic annuel est compris entre 70 000 e
 
 - pour les autres bagages traités dans ces installations pendant les plages horaires où le service IFBS est assuré en vertu du point précédent.
 
-c) Pour les autres aérodromes, l'exploitant est tenu d'assurer le service IFBS selon les modalités particulières fixées par décision du ministre chargé des transports.
+c) Pour les autres aérodromes, l'exploitant est tenu d'assurer le service IFBS selon les modalités particulières fixées par une décision des ministres signataires du présent arrêté.

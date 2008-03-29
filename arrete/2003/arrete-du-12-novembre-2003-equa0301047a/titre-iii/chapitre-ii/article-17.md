@@ -4,4 +4,4 @@ Règles applicables au traitement des bagages de cabine. - Lorsque des équipeme
 
 a) De procéder, en cas d'alarme de l'équipement de détection ou d'absence de validation par l'opérateur, à la fouille du bagage ou de l'objet ;
 
-b) D'effectuer, de manière aléatoire, une fouille des bagages de cabine avec le consentement de la personne et en respectant des objectifs quantitatifs fixés par décision de l'autorité compétente.
+b) D'effectuer, de manière aléatoire, une fouille des bagages de cabine avec le consentement de la personne et en respectant des objectifs quantitatifs fixés par une décision des ministres signataires du présent arrêté.
