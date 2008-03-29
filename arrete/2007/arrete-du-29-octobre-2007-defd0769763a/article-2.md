@@ -26,7 +26,7 @@ distinction(s) honorifique(s), diplôme(s), certificat(s), attestation(s), forma
 
 - aux pensions : nature [ancien combattant, invalidité...], taux.
 
-Les données à caractère personnel ainsi enregistrées sont conservées cinq ans après le départ de l'intéressé.
+Les données à caractère personnel ainsi enregistrées sont conservées cinq ans après la rupture de tous liens avec la personne morale gestionnaire, à l'exception des données relatives aux contentieux, qui sont conservées jusqu'à épuisement de toutes les voies de recours.
 
 La conservation des données relatives aux motifs d'absence est limitée à une durée n'excédant pas deux ans, sauf dispositions législatives contraires, à l'exception des congés de formation syndicale qui sont détruites au 31 décembre de chaque année.
 
