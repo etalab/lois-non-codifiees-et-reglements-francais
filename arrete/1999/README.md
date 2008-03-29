@@ -252,7 +252,6 @@
 - [Arrêté du 11 juin 1999 (MESS9921716A)](arrete-du-11-juin-1999-mess9921716a)
 - [Arrêté du 11 mars 1999 (DEFC9901298A)](arrete-du-11-mars-1999-defc9901298a)
 - [Arrêté du 11 mars 1999 (DEFD9901303A)](arrete-du-11-mars-1999-defd9901303a)
-- [Arrêté du 11 mars 1999 (DEFP9901351A)](arrete-du-11-mars-1999-defp9901351a)
 - [Arrêté du 11 mars 1999 (ECOT9994725A)](arrete-du-11-mars-1999-ecot9994725a)
 - [Arrêté du 11 octobre 1999 (AGRG9902110A)](arrete-du-11-octobre-1999-agrg9902110a)
 - [Arrêté du 11 mai 1999 (AGRG9900972A)](arrete-du-11-mai-1999-agrg9900972a)
