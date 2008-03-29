@@ -1,0 +1,4 @@
+# Arrêté du 13 mars 2008 pris en application du décret n° 2005-1451 du 24 novembre 2005 fixant l'organisation générale, la nature et le programme des épreuves ainsi que la composition du jury de l'examen professionnel et du concours réservé sur épreuves organisés en faveur des préparateurs en pharmacie titulaires et non titulaires relevant jusqu'au 1er janvier 2004 de la collectivité départementale de Mayotte
+
+- [TITRE Ier   INTÉGRATION DES PRÉPARATEURS EN PHARMACIE TITULAIRES DE L'ÉTABLISSEMENT PUBLIC DE SANTÉ DE MAYOTTE ET DES DISPENSAIRES RELEVANT JUSQU'AU 1er JANVIER 2004 DE LA COLLECTIVITÉ DÉPARTEMENTALE DE MAYOTTE](titre-ier)
+- [TITRE II   INTÉGRATION DES PRÉPARATEURS EN PHARMACIE NON TITULAIRES DE L'ÉTABLISSEMENT PUBLIC DE SANTÉ DE MAYOTTE ET DES DISPENSAIRES RELEVANT JUSQU'AU 1er JANVIER 2004 DE LA COLLECTIVITÉ DÉPARTEMENTALE DE MAYOTTE](titre-ii)
