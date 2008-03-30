@@ -441,7 +441,6 @@
 - [Arrêté du 24 février 2008 (MTSA0805074A)](arrete-du-24-fevrier-2008-mtsa0805074a)
 - [Arrêté du 24 janvier 2008 (AGRF0805398A)](arrete-du-24-janvier-2008-agrf0805398a)
 - [Arrêté du 24 janvier 2008 (AGRG0802056A)](arrete-du-24-janvier-2008-agrg0802056a)
-- [Arrêté du 24 janvier 2008 (AGRG0802101A)](arrete-du-24-janvier-2008-agrg0802101a)
 - [Arrêté du 24 janvier 2008 (AGRG0802102A)](arrete-du-24-janvier-2008-agrg0802102a)
 - [Arrêté du 24 janvier 2008 (BCFB0759970A)](arrete-du-24-janvier-2008-bcfb0759970a)
 - [Arrêté du 24 janvier 2008 (BCFB0760404A)](arrete-du-24-janvier-2008-bcfb0760404a)
