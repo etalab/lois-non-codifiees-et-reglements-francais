@@ -2,6 +2,8 @@
 
 I. - Les personnes tenues à l'information mentionnée au I de l'article L. 233-7 du code de commerce informent l'AMF au plus tard dans un délai de cinq jours de négociation à compter du franchissement du seuil de participation.
 
+Pour l'application de l'alinéa précédent, l'AMF publie sur son site le calendrier des jours de négociation des différents marchés réglementés établis ou opérant en France.
+
 II. - L'information mentionnée au I comprend notamment :
 
 1° L'identité du déclarant ;
@@ -18,8 +20,10 @@ II. - L'information mentionnée au I comprend notamment :
 
 7° Le cas échéant, l'ensemble des sociétés contrôlées au sens de l'article L. 233-3 du code de commerce par l'intermédiaire desquelles les actions et les droits de vote sont détenus ;
 
-8° Le nombre de titres possédés par le déclarant donnant accès à terme au capital ainsi que les droits de vote qui y sont attachés.
+8° Le nombre de titres possédés par le déclarant donnant accès à terme au capital ainsi que les droits de vote qui y sont attachés ;
 
-III. - L'information mentionnée au I est rédigée en français ou dans une autre langue usuelle en matière financière.
+9° La signature de la personne tenue à déclaration.
 
-IV. - L'AMF peut demander aux sociétés dont le siège social n'est pas situé en France et dont les actions sont admises aux négociations sur un marché réglementé français des informations équivalentes.
+Elle prend la forme du modèle type de déclaration prévu dans une instruction de l'AMF.
+
+III. - La déclaration est transmise à l'AMF selon les modalités prévues dans une instruction de l'AMF. Elle est portée à la connaissance du public par l'AMF dans un délai de trois jours de négociation suivant la réception de la déclaration complète. Elle est rédigée en français ou dans une autre langue usuelle en matière financière.

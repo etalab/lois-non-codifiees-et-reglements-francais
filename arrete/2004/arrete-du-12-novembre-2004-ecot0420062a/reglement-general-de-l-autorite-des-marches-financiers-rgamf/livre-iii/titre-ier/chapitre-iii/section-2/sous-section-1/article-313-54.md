@@ -2,7 +2,7 @@
 
 I. - La société de gestion de portefeuille utilise en permanence des moyens, notamment matériels, financiers et humains adaptés et suffisants.
 
-II. - Elle établit et maintient opérationnelles des procédures de prise de décision et une structure organisationnelle précisant sous une forme claire et documentée les lignes hiérarchiques et la répartition des fonctions et responsabilités.
+II. - Elle établit et maintient opérationnelles des procédures de prise de décision et une structure organisationnelle précisant sous une forme claire et documentée les lignes hiérarchiques et la répartition des fonctions et responsabilités dans les conditions précisées par une instruction de l'AMF. Dans le cadre des activités de gestion collective de la société de gestion de portefeuille, ces procédures de prise de décision incluent en particulier les diligences qui président à la sélection, au suivi et au contrôle des risques associés aux instruments financiers dans lesquels l'OPCVM investit.
 
 III. - Elle s'assure que les personnes concernées sont bien au courant des procédures qui doivent être suivies en vue de l'exercice approprié de leurs responsabilités.
 

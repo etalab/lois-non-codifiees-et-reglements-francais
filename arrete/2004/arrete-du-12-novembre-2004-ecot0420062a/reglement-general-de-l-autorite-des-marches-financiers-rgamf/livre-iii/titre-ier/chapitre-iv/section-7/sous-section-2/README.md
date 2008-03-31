@@ -7,6 +7,5 @@
 - [Article 314-81](article-314-81.md)
 - [Article 314-82](article-314-82.md)
 - [Article 314-83](article-314-83.md)
-- [Article 314-84](article-314-84.md)
 - [Article 314-85](article-314-85.md)
 - [Article 314-85-1](article-314-85-1.md)
