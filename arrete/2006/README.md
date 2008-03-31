@@ -42,7 +42,6 @@
 - [Arrêté du 7 novembre 2006 (DEVO0650538A)](arrete-du-7-novembre-2006-devo0650538a)
 - [Arrêté du 7 novembre 2006 (ECOP0600361A)](arrete-du-7-novembre-2006-ecop0600361a)
 - [Arrêté du 7 novembre 2006 (PMEA0620009A)](arrete-du-7-novembre-2006-pmea0620009a)
-- [Arrêté du 8 décembre 2006 (ECOM0620016A)](arrete-du-8-decembre-2006-ecom0620016a)
 - [Arrêté du 8 décembre 2006 (FPPA0609776A)](arrete-du-8-decembre-2006-fppa0609776a)
 - [Arrêté du 8 décembre 2006 (JUSA0600335A)](arrete-du-8-decembre-2006-jusa0600335a)
 - [Arrêté du 8 décembre 2006 (SANS0624984A)](arrete-du-8-decembre-2006-sans0624984a)
