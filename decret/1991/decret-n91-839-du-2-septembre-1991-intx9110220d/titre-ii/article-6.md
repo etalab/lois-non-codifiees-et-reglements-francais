@@ -1,6 +1,6 @@
 # Article 6
 
-Le recrutement en qualité de conservateur territorial de 2e classe du patrimoine intervient après inscription sur les listes d'aptitude établies :
+Le recrutement en qualité de conservateur territorial du patrimoine intervient après inscription sur les listes d'aptitude établies :
 
 1° En application des dispositions de l'article 36 de la loi du 26 janvier 1984 précitée ;
 

@@ -6,7 +6,7 @@ Les membres du cadre d'emplois sont affectés, en fonction des formations qu'ils
 
 2 Archives ;
 
-3 Inventaire ;
+3 Monuments historiques et inventaire ;
 
 4 Musées.
 
