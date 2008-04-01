@@ -1,19 +1,5 @@
 # Article 17
 
-I. - Paragraphe abrogé
+I.-Les fonctionnaires appartenant à un cadre d'emplois ou à un corps de catégorie B ou titulaires d'un emploi de même niveau sont classés dans le cadre d'emplois des conservateurs en appliquant les dispositions de l'article 4 du décret n° 2006-1695 du 22 décembre 2006 fixant les dispositions statutaires communes applicables aux cadres d'emplois des fonctionnaires de la catégorie A de la fonction publique territoriale à la situation qui serait la leur si, préalablement à leur nomination en qualité de conservateur, ils avaient été nommés et classés, en application des dispositions de l'article 5 du même décret, dans le cadre d'emplois des attachés territoriaux de conservation du patrimoine.
 
-II. - Les fonctionnaires appartenant à un cadre d'emplois ou corps classé dans la catégorie B sont nommés au grade de conservateur du patrimoine à un échelon déterminé en prenant en compte, sur la base des durées maximales pour chaque avancement d'échelon, leur ancienneté dans cette catégorie, dans les conditions définies aux alinéas suivants.
-
-Cette ancienneté correspond à la durée de la carrière nécessaire pour accéder au grade et à l'échelon que les fonctionnaires intéressés ont atteints à la date de leur nomination comme stagiaire, augmentée, le cas échéant, de l'ancienneté acquise dans cet échelon.
-
-La durée de la carrière est calculée sur la base :
-
-D'une part, de la durée statutaire maximale du temps passé dans les échelons du grade détenu ;
-
-D'autre part, lorsqu'il y a lieu, de l'ancienneté en catégorie B qu'il est nécessaire d'acquérir au minimum dans le ou les grades inférieurs pour accéder au grade détenu en tenant compte pour les avancements d'échelon de la durée statutaire maximale.
-
-L'ancienneté ainsi déterminée n'est pas retenue en ce qui concerne les cinq premières années ; elle est prise en compte à raison de la moitié pour la fraction comprise entre cinq ans et douze ans et des trois quarts pour l'ancienneté excédant douze ans.
-
-L'application des dispositions qui précèdent ne peut avoir pour effet de classer un fonctionnaire dans une situation plus favorable que celle qui aurait été la sienne si, préalablement à sa nomination dans le cadre d'emplois des conservateurs du patrimoine, il avait été promu au grade supérieur.
-
-III. - Les fonctionnaires appartenant à un cadre d'emplois ou corps classé dans les catégories C et D sont nommés dans la 2e classe du grade de conservateur du patrimoine à un échelon déterminé en appliquant, à la date de leur nomination comme stagiaire, les modalités fixées au II ci-dessus à la fraction de l'ancienneté qui aurait été prise en compte pour le reclassement en catégorie B en application des dispositions de l'article R. 414-5-2 du code des communes.
+II.-Les fonctionnaires appartenant à un corps ou à un cadre d'emplois de catégorie C ou titulaires d'un emploi de même niveau sont classés dans le cadre d'emplois des conservateurs en appliquant les dispositions du I ci-dessus à la situation qui serait la leur s'ils avaient été préalablement nommés et classés, en application des dispositions de l'article 2 du décret n° 2002-870 du 3 mai 2002 fixant les dispositions statutaires communes applicables aux cadres d'emplois des fonctionnaires de la catégorie B de la fonction publique territoriale, à l'exception de son II, dans le cadre d'emplois des assistants territoriaux de conservation du patrimoine.
