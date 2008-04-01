@@ -538,7 +538,6 @@
 - [Décret n°92-1329 du 18 décembre 1992 (ACVE9150036D)](decret-n92-1329-du-18-decembre-1992-acve9150036d)
 - [Décret n°92-1330 du 18 décembre 1992 (COPX9200220D)](decret-n92-1330-du-18-decembre-1992-copx9200220d)
 - [Décret n°92-269 du 18 mars 1992 (EQUA9200333D)](decret-n92-269-du-18-mars-1992-equa9200333d)
-- [Décret n°92-537 du 18 juin 1992 (INTB9200211D)](decret-n92-537-du-18-juin-1992-intb9200211d)
 - [Décret n°92-543 du 18 juin 1992 (ACVA9210022D)](decret-n92-543-du-18-juin-1992-acva9210022d)
 - [Décret n°92-798 du 18 août 1992 (ENVP9200006D)](decret-n92-798-du-18-aout-1992-envp9200006d)
 - [Décret n°92-804 du 18 août 1992 (AGRS9200177D)](decret-n92-804-du-18-aout-1992-agrs9200177d)
