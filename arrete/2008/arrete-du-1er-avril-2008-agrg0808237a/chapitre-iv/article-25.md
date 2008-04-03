@@ -1,0 +1,5 @@
+# Article 25
+
+Lorsque la vaccination à titre prophylactique a un caractère obligatoire pour un ou plusieurs sérotype(s) ou pour une zone déterminée, cette obligation s'impose à tous les propriétaires ou détenteurs de bovins, d'ovins ou de caprins, et pour toutes ces espèces, dans la zone considérée et dans le respect des spécifications techniques d'utilisation du ou des vaccin(s) considéré(s) précisées par la ou les autorisation(s) de mise sur le marché ou par la ou les autorisation(s) temporaire(s) d'utilisation. Le ministre chargé de l'agriculture peut préciser par instruction les catégories d'animaux concernées par la vaccination.
+
+Par dérogation au paragraphe précédent, le directeur départemental des services vétérinaires peut autoriser des propriétaires ou détenteurs de bovins ou de petits ruminants à ne pas vacciner les animaux dont ils ont la charge. Cette autorisation ne peut cependant être accordée que sur demande expresse et motivée du propriétaire ou détenteur concerné, selon des modalités définies par instruction du ministre chargé de l'agriculture.
