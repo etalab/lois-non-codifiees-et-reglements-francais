@@ -385,7 +385,6 @@
 - [Arrêté du 20 avril 2001 (MESH0120779A)](arrete-du-20-avril-2001-mesh0120779a)
 - [Arrêté du 20 décembre 2000 (AGRG0002657A)](arrete-du-20-decembre-2000-agrg0002657a)
 - [Arrêté du 20 décembre 2000 (AGRG0100004A)](arrete-du-20-decembre-2000-agrg0100004a)
-- [Arrêté du 20 décembre 2001 (AGRG0102604A)](arrete-du-20-decembre-2001-agrg0102604a)
 - [Arrêté du 20 décembre 2001 (DEFP0102187A)](arrete-du-20-decembre-2001-defp0102187a)
 - [Arrêté du 20 décembre 2001 (DEFP0102188A)](arrete-du-20-decembre-2001-defp0102188a)
 - [Arrêté du 20 décembre 2001 (ECOR0105008A)](arrete-du-20-decembre-2001-ecor0105008a)

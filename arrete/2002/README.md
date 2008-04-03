@@ -562,7 +562,6 @@
 - [Arrêté du 20 septembre 2001 (ECOO0191153A)](arrete-du-20-septembre-2001-ecoo0191153a)
 - [Arrêté du 20 septembre 2002 (DEVP0210351A)](arrete-du-20-septembre-2002-devp0210351a)
 - [Arrêté du 20 septembre 2002 (DEVP0210352A)](arrete-du-20-septembre-2002-devp0210352a)
-- [Arrêté du 21 août 2001 (AGRG0101649A)](arrete-du-21-aout-2001-agrg0101649a)
 - [Arrêté du 21 août 2001 (INTA0100497A)](arrete-du-21-aout-2001-inta0100497a)
 - [Arrêté du 21 août 2002 (AGRA0201429A)](arrete-du-21-aout-2002-agra0201429a)
 - [Arrêté du 21 août 2002 (INTA0200493A)](arrete-du-21-aout-2002-inta0200493a)
