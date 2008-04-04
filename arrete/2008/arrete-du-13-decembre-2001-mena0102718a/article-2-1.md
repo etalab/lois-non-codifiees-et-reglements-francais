@@ -1,6 +1,6 @@
 # Article 2-1
 
-Les dispositions de l'article 2 du présent arrêté sont applicables aux personnels appartenant au corps des adjoints techniques de recherche et de formation en fonction dans les établissements publics et institutions suivants :
+Les établissements publics et institutions mentionnés à l'article 1er du présent arrêté sont les suivants :
 
 Académie de médecine.
 
@@ -16,7 +16,7 @@ Centre informatique national de l'enseignement supérieur.
 
 Centre international d'études pédagogiques de Sèvres.
 
-Centre national d'enseignement à distance.
+Centre antional d'enseignement à distance.
 
 Centre national de documentation pédagogique.
 
@@ -30,7 +30,7 @@ Centre technique du livre.
 
 Ecole nationale d'équitation de Saumur.
 
-Etablissemernt public du campus de Jussieu.
+Etablissement public du campus de Jussieu.
 
 Etablissement public du quai Branly.
 
