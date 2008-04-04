@@ -8,11 +8,9 @@ Il a notamment pour attributions :
 
 2° D'animer et de coordonner la lutte contre les trafics de toute nature, l'économie souterraine, les violences urbaines et la délinquance routière ;
 
-3° De suivre l'activité des conseils locaux de sécurité et de prévention de la délinquance ;
+3° De tenir les tableaux de bord départementaux de l'activité des services de l'Etat et d'évaluer les actions entreprises ;
 
-4° De tenir les tableaux de bord départementaux de l'activité des services de l'Etat et d'évaluer les actions entreprises ;
-
-5° D'établir le rapport sur l'état de la délinquance qui doit être adressé au conseil départemental institué à l'article 12.
+4° D'établir le rapport sur l'état de la délinquance qui doit être adressé au conseil départemental institué à l'article 12.
 
 II. - Le comité départemental de sécurité est présidé conjointement par le préfet, à Paris par le préfet de police, et par le procureur de la République près le tribunal de grande instance.
 
