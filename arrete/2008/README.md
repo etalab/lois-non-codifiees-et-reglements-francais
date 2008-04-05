@@ -615,6 +615,7 @@
 - [Arrêté du 29 février 2008 (SJSH0805487A)](arrete-du-29-fevrier-2008-sjsh0805487a)
 - [Arrêté du 29 janvier 2008 (DEVQ0802238A)](arrete-du-29-janvier-2008-devq0802238a)
 - [Arrêté du 29 juillet 2008 (DEVL0759896A)](arrete-du-29-juillet-2008-devl0759896a)
+- [Arrêté du 29 juin 1992 (MENN9202741A)](arrete-du-29-juin-1992-menn9202741a)
 - [Arrêté du 29 novembre 2007 (ECEC0768964A)](arrete-du-29-novembre-2007-ecec0768964a)
 - [Arrêté du 30 décembre 2008 (DEFH0828934A)](arrete-du-30-decembre-2008-defh0828934a)
 - [Arrêté du 30 décembre 2008 (DEFH0828937A)](arrete-du-30-decembre-2008-defh0828937a)
