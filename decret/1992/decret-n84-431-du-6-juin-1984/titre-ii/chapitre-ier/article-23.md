@@ -6,9 +6,9 @@ Les candidats à une inscription sur la liste de qualification aux fonctions de 
 
 Le doctorat d'Etat, le doctorat de troisième cycle et le diplôme de docteur ingénieur sont admis en équivalence du doctorat.
 
-Les titulaires de diplômes universitaires, qualifications et titres de niveau équivalent peuvent être dispensés de la possession du doctorat par le Conseil national des universités siégeant en application de l'article 24 ci-après ;
+Les titulaires de diplômes universitaires, qualifications et titres de niveau équivalent peuvent être dispensés de la possession du doctorat par le Conseil national des universités ou, dans les disciplines pharmaceutiques, par le Conseil national des universités pour les disciplines médicales, odontologiques et pharmaceutiques, siégeant en application de l'article 24 du présent décret.
 
-2° Justifier, au 1er janvier de l'année d'inscription, d'au moins trois ans d'activité professionnelle effective dans les six ans qui précèdent. Ne sont pas prises en compte les activités d'enseignant, les activités de chercheur dans les établissements publics à caractère scientifique et technologique, ou les activités mentionnées à l'article 3 du décret-loi du 29 octobre 1936 modifié relatif aux cumuls de retraites, de rémunérations et de fonctions ;
+2° Justifier, au 1er janvier de l'année d'inscription, d'au moins trois ans d'activité professionnelle effective dans les six ans qui précèdent. Ne sont pas prises en compte les activités d'enseignant, les activités de chercheur dans les établissements publics à caractère scientifique et technologique ou les activités mentionnées au III de l'article 25 de la loi du 13 juillet 1983 susvisée ou à l'article 2 du décret du 2 mai 2007 susmentionné.
 
 3° Etre enseignant associé à temps plein ;
 

@@ -14,4 +14,4 @@ Le jury arrête par ordre alphabétique la liste des candidats admis.
 
 La liste est publiée au Journal officiel de la République française.
 
-Dans le cas où la discipline hospitalière de l'emploi diffère de la discipline universitaire, un candidat ne peut être inscrit sur la liste d'admission qu'avec l'accord de la sous-section du conseil supérieur des universités compétente pour la discipline hospitalière.
+Dans le cas où la discipline hospitalière de l'emploi diffère de la discipline universitaire, un candidat ne peut être inscrit sur la liste d'admission qu'avec l'accord, selon le cas, de la sous-section ou de la section du Conseil national des universités pour les disciplines médicales, odontologiques et pharmaceutiques compétente pour la discipline hospitalière.

@@ -1,0 +1,7 @@
+# Article 1
+
+Le Conseil national des universités pour les disciplines médicales, odontologiques et pharmaceutiques se prononce sur les mesures individuelles relatives au recrutement et à la carrière des professeurs des universités et des maîtres de conférences des disciplines médicales, odontologiques et pharmaceutiques dans les conditions prévues par les dispositions du présent décret, du décret n° 84-135 du 24 février 1984 portant statut des personnels enseignants et hospitaliers des centres hospitaliers et universitaires et du décret n° 90-92 du 24 janvier 1990 portant statut des personnels enseignants et hospitaliers des centres de soins, d'enseignement et de recherche dentaires des centres hospitaliers et universitaires.
+
+Il se prononce sur les mesures individuelles relatives à la qualification, au recrutement et à la carrière des professeurs des universités et des maîtres de conférences relevant du groupe des disciplines pharmaceutiques dans les conditions prévues par les dispositions du présent décret et du décret n° 84-431 du 6 juin 1984 fixant les dispositions statutaires communes applicables aux enseignants-chercheurs et portant statut particulier du corps des professeurs des universités et du corps des maîtres de conférences.
+
+Il se prononce, dans les conditions prévues par les dispositions prévues par les statuts particuliers et par le présent décret, sur les mesures individuelles relatives à la carrière des professeurs du premier et du deuxième grade de chirurgie dentaire et des chefs de travaux des disciplines médicales.

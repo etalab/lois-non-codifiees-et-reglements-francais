@@ -2,7 +2,7 @@
 
 Pour l'élection des membres des conseils d'unités de formation et de recherche et, sous réserve de dispositions réglementaires prévues au dernier alinéa de l'article L. 719-2 du code de l'éducation, des membres des conseils des instituts et écoles internes, les électeurs des différentes catégories sont répartis dans les collèges électoraux sur les bases suivantes :
 
-1 - PERSONNELS ENSEIGNANTS-CHERCHEURS, ENSEIGNANTS ET CHERCHEURS.
+1-PERSONNELS ENSEIGNANTS-CHERCHEURS, ENSEIGNANTS ET CHERCHEURS.
 
 Collège A des professeurs et personnels assimilés.
 
@@ -10,13 +10,13 @@ Ce collège comprend les catégories suivantes :
 
 1° Professeurs des universités et professeurs des universités associés ou invités ;
 
-2° Professeurs des universités - praticiens hospitaliers et professeurs associés des universités ou invités dans les disciplines médicales ou odontologiques ;
+2° Professeurs des universités-praticiens hospitaliers et professeurs associés des universités ou invités dans les disciplines médicales ou odontologiques ;
 
-3° Personnels d'autres corps de l'enseignement supérieur, assimilés aux professeurs par les arrêtés prévus à l'article 6 du décret n° 92-70 du 16 janvier 1992 modifié relatif au Conseil national des universités ou à l'article 5 du décret n° 87-31 du 20 janvier 1987 modifié relatif au Conseil national des universités pour les disciplines médicales et odontologiques ainsi que les enseignants associés ou invités de même niveau régis par le décret n° 91-267 du 6 mars 1991 modifié relatif aux enseignants associés ou invités dans certains établissements d'enseignement supérieur relevant du ministre chargé de l'enseignement supérieur ;
+3° Personnels d'autres corps de l'enseignement supérieur, assimilés aux professeurs par les arrêtés prévus à l'article 6 du décret n° 92-70 du 16 janvier 1992 modifié relatif au Conseil national des universités ou à l'article 5 du décret n° 87-31 du 20 janvier 1987 modifié relatif au         Conseil national des universités pour les disciplines médicales, odontologiques et pharmaceutiques ainsi que les enseignants associés ou invités de même niveau régis par le décret n° 91-267 du 6 mars 1991 modifié relatif aux enseignants associés ou invités dans certains établissements d'enseignement supérieur relevant du ministre chargé de l'enseignement supérieur ;
 
 4° Chercheurs du niveau des directeurs de recherche des établissements publics scientifiques et technologiques ou de tout autre établissement public ou reconnu d'utilité publique de recherche, et chercheurs remplissant des fonctions analogues ;
 
-5° Les agents contractuels recrutés en application de l'article L. 954-3 du code de l'éducation pour assurer des fonctions d'enseignement, de recherche ou d'enseignement et de recherche du niveau des personnels mentionnés aux 1°, 2°, 3° et 4° ci-dessus.
+5° Les agents contractuels recrutés en application de l'article L. 954-3 du code de l'éducation pour assurer des fonctions d'enseignement, de recherche ou d'enseignement et de recherche du niveau des personnels mentionnés aux 1°,2°,3° et 4° ci-dessus.
 
 Les chercheurs mentionnés au 4° ci-dessus peuvent constituer un collège séparé dès lors que les électeurs de cette catégorie représentent au moins 10 % de l'effectif des personnels relevant du collège A.
 
@@ -40,13 +40,13 @@ Collège P des personnels concourant à la formation pratique des étudiants de 
 
 Ce collège comprend les praticiens hospitaliers responsables des services où une formation pratique est dispensée aux étudiants des second et troisième cycles des études médicales.
 
-2 - USAGERS.
+2-USAGERS.
 
 Ce collège comprend les étudiants régulièrement inscrits dans l'établissement.
 
 Il comprend également les personnes bénéficiant de la formation continue et les auditeurs.
 
-3 - PERSONNELS ADMINISTRATIFS, TECHNIQUES, OUVRIERS ET DE SERVICE.
+3-PERSONNELS ADMINISTRATIFS, TECHNIQUES, OUVRIERS ET DE SERVICE.
 
 Ce collège comprend les personnels ingénieurs, administratifs, techniques, ouvriers et de service.
 
