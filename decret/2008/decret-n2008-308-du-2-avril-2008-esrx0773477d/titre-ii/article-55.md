@@ -1,0 +1,3 @@
+# Article 55
+
+Les personnels susceptibles d'être intégrés en application des articles 35 et 36 du décret du 23 mai 2006 susvisé et des articles 49 et 50 du présent décret reçoivent une proposition de reclassement, le cas échéant, dans les conditions fixées par les dispositions de l'article 41 du décret du 23 mai 2006 précité. A compter de la date de réception de celle-ci, ils disposent d'un délai de deux mois pour accepter leur reclassement et leur nomination dans le corps des professeurs des universités-praticiens hospitaliers des disciplines pharmaceutiques et dans le corps des maîtres de conférences des universités-praticiens hospitaliers des disciplines pharmaceutiques.
