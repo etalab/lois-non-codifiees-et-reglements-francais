@@ -2,7 +2,7 @@
 
 **ZONES RÉGLEMENTÉES : ZONES GÉOGRAPHIQUES DU TERRITOIRE FRANÇAIS DANS LESQUELLES DES ZONES DE PROTECTION ET DE SURVEILLANCE SONT INSTITUÉES**
 
-Zone A (sérotypes 1, 2, 4 et 16)
+**Zone A (sérotypes 1, 2, 4 et 16)**
 
 Zone de protection :
 
@@ -10,165 +10,165 @@ Zone de protection :
 
 ― département de la Haute-Corse.
 
-Zone B (sérotype 8)
+**Zone B (sérotype 8)**
 
-Zone de protection :
+Zone réglementée :
 
-― département de l'Ain ;
+- département de l'Ain ;
 
-― département de l'Aisne ;
+- département de l'Aisne ;
 
-― département de l'Allier ;
+- département de l'Allier ;
 
-― département de l'Ardèche : arrondissements de Tournon-sur-Rhône, de Privas et cantons de Burzet, de Coucouron, de Largentière, de Montpezat-sous-Bauzon, de Saint-Etienne-de-Lugdarès, de Thueyts, de Vallon-Pont-d'Arc ;
+- département de l'Ardèche : arrondissements de Tournon-sur-Rhône, de Privas et cantons de Burzet, de Coucouron, de Largentière, de Montpezat-sous-Bauzon, de Saint-Etienne-de-Lugdarès, de Thueyts, de Vallon-Pont-d'Arc ;
 
-― département des Ardennes ;
+- département des Ardennes ;
 
-― département de l'Aube ;
+- département de l'Aube ;
 
-― département de l'Aveyron : arrondissement de Villefranche-de-Rouergue et cantons de Baraqueville-Sauveterre, de Bozouls, de Campagnac, de Cassagnes-Begonhès, de Conques, d'Entraygues-sur-Truyère, d'Espalion, d'Estaing, de Laguiole, de Laissac, de Marcillac-Vallon, de Mur-de-Barrez, de Naucelle, de Pont-de-Salars, de Rignac, de Rodez, de Rodez-Est, de Rodez-Nord, de Rodez-Ouest, de Saint-Amans-des-Cots, de Saint-Chély-d'Aubrac, de Sainte-Geneviève-sur-Argence, de Saint-Geniez-d'Olt, de La Salvetat-Peyralès ;
+- département de l'Aveyron : arrondissement de Villefranche-de-Rouergue et cantons de Baraqueville-Sauveterre, de Bozouls, de Campagnac, de Cassagnes-Begonhès, de Conques, d'Entraygues-sur-Truyère, d'Espalion, d'Estaing, de Laguiole, de Laissac, de Marcillac-Vallon, de Mur-de-Barrez, de Naucelle, de Pont-de-Salars, de Rignac, de Rodez, de Rodez-Est, de Rodez-Nord, de Rodez-Ouest, de Saint-Amans-des-Cots, de Saint-Chély-d'Aubrac, de Sainte-Geneviève-sur-Argence, de Saint-Geniez-d'Olt, de La Salvetat-Peyralès ;
 
-― département du Calvados ;
+- département du Calvados ;
 
-― département du Cantal ;
+- département du Cantal ;
 
-― département de la Charente : arrondissements d'Angoulême, de Coutolens et cantons de Jarnac, de Châteauneuf-sur-Charente ;
+- département de la Charente : arrondissements d'Angoulême, de Coutolens et cantons de Jarnac, de Châteauneuf-sur-Charente ;
 
-― département de la Charente-Maritime : arrondissement de La Rochelle et cantons d'Aigrefeuille-d'Aunis, d'Aulnay, de Loulay, de Matha, de Saint-Jean-d'Angély, de Surgères ;
+- département de la Charente-Maritime : arrondissement de La Rochelle et cantons d'Aigrefeuille-d'Aunis, d'Aulnay, de Loulay, de Matha, de Saint-Jean-d'Angély, de Surgères ;
 
-― département du Cher ;
+- département du Cher ;
 
-― département de la Corrèze ;
+- département de la Corrèze ;
 
-― département de la Côte-d'Or ;
+- département de la Côte-d'Or ;
 
-― département des Côtes-d'Armor : arrondissement de Dinan et cantons de Chèze, de Lamballe, de Langueux, de Loudéac, de Moncontour, de Pléneuf-Val-André, de Plœuc-sur-Lié, de Ploufragan, de Plouguenast, de Saint-Brieuc ;
+- département des Côtes-d'Armor : arrondissement de Dinan et cantons de Chèze, de Lamballe, de Langueux, de Loudéac, de Moncontour, de Pléneuf-Val-André, de Plœuc-sur-Lié, de Ploufragan, de Plouguenast, de Saint-Brieuc ;
 
-― département de la Creuse ;
+- département de la Creuse ;
 
-― département de la Dordogne ;
+- département de la Dordogne ;
 
-― département du Doubs ;
+- département du Doubs ;
 
-― département de la Drôme : arrondissements de Valence, de Die et cantons de Dieulefit, de Grignan, de Marsanne, de Nyons, de Pierrelatte, de Rémuzat, de Montélimar, de Montélimar (2e canton) ;
+- département de la Drôme : arrondissements de Valence, de Die et cantons de Dieulefit, de Grignan, de Marsanne, de Nyons, de Pierrelatte, de Rémuzat, de Montélimar, de Montélimar (2e canton) ;
 
-― département de l'Eure ;
+- département de l'Eure ;
 
-― département d'Eure-et-Loir ;
+- département d'Eure-et-Loir ;
 
-― département de la Gironde : cantons d'Auros, de Cadillac, de Castillon-la-Bataille, de Grignols, de Langon, de Monségur, de Pellegrue, de Podensac, de Pujols, de La Réole, de Sainte-Foy-la-Grande, de Saint-Macaire, de Sauveterre-de-Guyenne, de Targon ;
+- département de la Gironde : cantons d'Auros, de Cadillac, de Castillon-la-Bataille, de Grignols, de Langon, de Monségur, de Pellegrue, de Podensac, de Pujols, de La Réole, de Sainte-Foy-la-Grande, de Saint-Macaire, de Sauveterre-de-Guyenne, de Targon ;
 
-― département d'Ille-et-Vilaine ;
+- département d'Ille-et-Vilaine ;
 
-― département de l'Indre ;
+- département de l'Indre ;
 
-― département d'Indre-et-Loire ;
+- département d'Indre-et-Loire ;
 
-― département de l'Isère ;
+- département de l'Isère ;
 
-― département du Jura ;
+- département du Jura ;
 
-― département de Loir-et-Cher ;
+- département de Loir-et-Cher ;
 
-― département de la Loire ;
+- département de la Loire ;
 
-― département de la Haute-Loire ;
+- département de la Haute-Loire ;
 
-― département de la Loire-Atlantique ;
+- département de la Loire-Atlantique ;
 
-― département du Loiret ;
+- département du Loiret ;
 
-― département du Lot ;
+- département du Lot ;
 
-― département de Lot-et-Garonne : arrondissements de Marmande, Villeneuve-sur-Lot et cantons d'Agen - Nord-Est, d'Agen-Nord, d'Agen-Ouest, d'Agen, de Casteljaloux, de Damazan, de Houeillès, de Laplume, de Laroque-Timbaut, de Lavardac, de Nérac, de Port-Sainte-Marie, de Prayssas, d'Agen-Sud-Est ;
+- département de Lot-et-Garonne : arrondissements de Marmande, de Villeneuve-sur-Lot et cantons d'Agen-Nord-Est, d'Agen-Nord, d'Agen-Ouest, d'Agen, de Casteljaloux, de Damazan, de Houeillès, de Laplume, de Laroque-Timbaut, de Lavardac, de Nérac, de Port-Sainte-Marie, de Prayssas, d'Agen-Sud-Est ;
 
-― département de la Lozère : cantons d'Aumont-Aubrac, de Bleymard, de La Canourgue, de Chanac, de Châteauneuf-de-Randon, de Fournels, de Grandrieu, de Langogne, de Malzieu-Ville, de Marvejols, de Mende, de Mende-Nord, de Mende-Sud, de Nasbinals, de Saint-Alban-sur-Limagnole, de Saint-Amans, de Saint-Chély-d'Apcher, de Saint-Germain-du-Theil ;
+- département de la Lozère : cantons d'Aumont-Aubrac, du Bleymard, de La Canourgue, de Chanac, de Châteauneuf-de-Randon, de Fournels, de Grandrieu, de Langogne, de Malzieu-Ville, de Marvejols, de Mende, de Mende-Nord, de Mende-Sud, de Nasbinals, de Saint-Alban-sur-Limagnole, de Saint-Amans, de Saint-Chély-d'Apcher, de Saint-Germain-du-Theil ;
 
-― département de Maine-et-Loire ;
+- département de Maine-et-Loire ;
 
-― département de la Manche ;
+- département de la Manche ;
 
-― département de la Marne ;
+- département de la Marne ;
 
-― département de la Haute-Marne ;
+- département de la Haute-Marne ;
 
-― département de la Mayenne ;
+- département de la Mayenne ;
 
-― département de Meurthe-et-Moselle ;
+- département de Meurthe-et-Moselle ;
 
-― département de la Meuse ;
+- département de la Meuse ;
 
-― département du Morbihan : cantons de La Gacilly, de Guer, de Josselin, de Malestroit, de Mauron, de Ploërmel, de La Roche-Bernard, de La Trinité-Porhoët ;
+- département du Morbihan : cantons de La Gacilly, de Guer, de Josselin, de Malestroit, de Mauron, de Ploërmel, de La Roche-Bernard, de La Trinité-Porhoët ;
 
-― département de la Moselle ;
+- département de la Moselle ;
 
-― département de la Nièvre ;
+- département de la Nièvre ;
 
-― département du Nord ;
+- département du Nord ;
 
-― département de l'Oise ;
+- département de l'Oise ;
 
-― département de l'Orne ;
+- département de l'Orne ;
 
-― département du Pas-de-Calais ;
+- département du Pas-de-Calais ;
 
-― département du Puy-de-Dôme ;
+- département du Puy-de-Dôme ;
 
-― département du Bas-Rhin ;
+- département du Bas-Rhin ;
 
-― département du Haut-Rhin ;
+- département du Haut-Rhin ;
 
-― département du Rhône ;
+- département du Rhône ;
 
-― département de la Haute-Saône ;
+- département de la Haute-Saône ;
 
-― département de Saône-et-Loire ;
+- département de Saône-et-Loire ;
 
-― département de la Sarthe ;
+- département de la Sarthe ;
 
-― département de la Savoie : arrondissement de Chambéry et cantons d'Aiguebelle, de La Chambre, de Grésy-sur-Isère et de Saint-Jean-de-Maurienne ;
+- département de la Savoie ;
 
-― département de la Haute-Savoie : arrondissement d'Annecy, de Saint-Julien-en-Genevois, de Thonon-les-Bains et cantons de Bonneville, de La Roche-sur-Foron, de Saint-Jeoire, de Taninges ;
+- département de la Haute-Savoie ;
 
-― département de la ville de Paris ;
+- département de la ville de Paris ;
 
-― département de Seine-Maritime ;
+- département de la Seine-Maritime ;
 
-― département de Seine-et-Marne ;
+- département de Seine-et-Marne ;
 
-― département des Yvelines ;
+- département des Yvelines ;
 
-― département des Deux-Sèvres ;
+- département des Deux-Sèvres ;
 
-― département de la Somme ;
+- département de la Somme ;
 
-― département du Tarn : cantons de Cordes-sur-Ciel, de Monesties, de Pampelonne ;
+- département du Tarn : cantons de Cordes-sur-Ciel, de Monestiés, de Pampelonne ;
 
-― département de Tarn-et-Garonne : cantons de Caussade, de Caylus, de Montpezat-de-Quercy, de Saint-Antonin-Noble-Val, de Montaigu-de-Quercy ;
+- département de Tarn-et-Garonne : cantons de Caussade, de Caylus, de Montpezat-de-Quercy, de Saint-Antonin-Noble-Val, de Montaigu-de-Quercy ;
 
-― département de la Vendée ;
+- département de la Vendée ;
 
-― département de la Vienne ;
+- département de la Vienne ;
 
-― département de la Haute-Vienne ;
+- département de la Haute-Vienne ;
 
-― département des Vosges ;
+- département des Vosges ;
 
-― département de l'Yonne ;
+- département de l'Yonne ;
 
-― département du Territoire de Belfort ;
+- département du Territoire de Belfort ;
 
-― département de l'Essonne ;
+- département de l'Essonne ;
 
-― département des Hauts-de-Seine ;
+- département des Hauts-de-Seine ;
 
-― département de la Seine-Saint-Denis ;
+- département de la Seine-Saint-Denis ;
 
-― département du Val-de-Marne ;
+- département du Val-de-Marne ;
 
-― département du Val-d'Oise.
+- département du Val-d'Oise.
 
-Zone C. ― Zone d'outre-mer
+**Zone C. ― Zone d'outre-mer**
 
 Zone de protection :
 
@@ -180,17 +180,19 @@ Zone de protection :
 
 ― département de la Réunion.
 
-Zone D (sérotype 1)
+**Zone D (sérotype 1)**
 
-Zone de protection :
+Zone réglementée :
 
-― département du Gers : cantons de Cazaubon, de Nogaro, de Riscle ;
+- département du Gers ;
 
-― département des Landes : arrondissement de Dax et cantons de Geaune, d'Hagetmau, de Labrit, de Mimizan, de Mont-de-Marsan, de Mont-de-Marsan - Nord, de Mont-de-Marsan - Sud, de Morcenx, de Mugron, de Parentis-en-Born, de Sabres, de Saint-Sever, de Tartas, de Tartas-Est, de Tartas-Ouest, d'Aire-sur-l'Adour, de Gabarret, de Grenade-sur-l'Adour, de Villeneuve-de-Marsan ;
+- département des Landes : arrondissement de Dax et cantons de Geaune, d'Hagetmau, de Labrit, de Mimizan, de Mont-de-Marsan, de Mont-de-Marsan-Nord, de Mont-de-Marsan-Sud, de Morcenx, de Mugron, de Parentis-en-Born, de Sabres, de Saint-Sever, de Tartas, de Tartas-Est, de Tartas-Ouest, d'Aire-sur-l'Adour, de Gabarret, de Grenade-sur-l'Adour, de Villeneuve-de-Marsan ;
 
-― département des Pyrénées-Atlantiques : arrondissement de Bayonne et cantons d'Accous, d'Aramits, d'Arthez-de-Béarn, d'Arzacq-Arraziguet, de Jurançon, de Lacq, de Lagor, de Lasseube, de Lescar, de Mauléon-Licharre, de Monein, de Navarrenx, d'Oloron-Sainte-Marie, d'Oloron-Sainte-Marie - Est, d'Oloron-Sainte-Marie - Ouest, d'Orthez, de Salies-de-Béarn, de Sauveterre-de-Béarn, de Thèze, de Tardets-Sorholus.
+- département des Pyrénées-Atlantiques ;
 
-Zone E (sérotypes 1 et 8)
+- département des Hautes-Pyrénées.
+
+**Zone E (sérotypes 1 et 8)**
 
 Zone de protection :
 
