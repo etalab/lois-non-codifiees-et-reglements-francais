@@ -44,6 +44,7 @@
 - [Décret n°2008-307 du 3 avril 2008 (IOCA0808390D)](decret-n2008-307-du-3-avril-2008-ioca0808390d)
 - [Décret n°2008-309 du 3 avril 2008 (BCFP0806741D)](decret-n2008-309-du-3-avril-2008-bcfp0806741d)
 - [Décret n°2008-310 du 3 avril 2008 (BCFP0806742D)](decret-n2008-310-du-3-avril-2008-bcfp0806742d)
+- [Décret n°2008-312 du 3 avril 2008 (AGRF0804824D)](decret-n2008-312-du-3-avril-2008-agrf0804824d)
 - [Décret n°2008-7 du 3 janvier 2008 (IOCA0772341D)](decret-n2008-7-du-3-janvier-2008-ioca0772341d)
 - [Décret n°99-714 du 3 août 1999 (JUSA9900121D)](decret-n99-714-du-3-aout-1999-jusa9900121d)
 - [Décret n°2007-703 du 3 mai 2007 (SANS0721585D)](decret-n2007-703-du-3-mai-2007-sans0721585d)
