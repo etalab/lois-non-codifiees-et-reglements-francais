@@ -1,3 +1,3 @@
 # Article 10
 
-Les essais annuels sont réalisés par un organisme agréé par le ministre chargé des transports et choisi par l'exploitant.
+Les essais annuels sont réalisés par un vérificateur agréé par le service technique des remontées mécaniques et des transports guidés et choisi par l'exploitant.

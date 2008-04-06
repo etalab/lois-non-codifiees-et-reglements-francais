@@ -18,11 +18,11 @@ Maintenance, l'ensemble des opérations nécessaires pour le maintien et le rét
 
 Modification non substantielle, toute modification qui ne remet pas en cause de manière significative les caractéristiques principales de l'installation, l'emplacement et la nature des ouvrages ou la capacité de transport ;
 
-Plan d'évacuation des usagers, le plan visé à l'article R. 445-7 du code de l'urbanisme ;
+Plan d'évacuation des usagers, le plan visé à l'article R. 472-15 du code de l'urbanisme ;
 
-Règlement d'exploitation, le règlement d'exploitation visé à l'article R. 445-7 du code de l'urbanisme ;
+Règlement d'exploitation, le règlement d'exploitation visé à l'article R. 472-15 du code de l'urbanisme ;
 
-Règlement de police, le règlement de police visé à l'article R. 445-7 du code de l'urbanisme ;
+Règlement de police, le règlement de police visé à l'article R. 472-15 du code de l'urbanisme ;
 
 Téléphérique, toute installation dans laquelle les usagers sont transportés dans des véhicules suspendus à un ou plusieurs câbles ;
 
