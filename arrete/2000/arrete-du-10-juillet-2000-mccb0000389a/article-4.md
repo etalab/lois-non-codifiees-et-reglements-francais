@@ -26,7 +26,7 @@ Les représentants des ministres ci-dessus désignés sont nommés par les minis
 
 2° Huit personnalités qualifiées en matière de propriété littéraire et artistique nommées par arrêté du ministre chargé de la culture pour une durée de trois ans renouvelable, dont trois professeurs d'université et deux avocats à la cour.
 
-3° Trente-sept membres représentant les professionnels nommés par arrêté du ministre chargé de la culture pour une durée de trois ans renouvelable et ainsi répartis :
+3° Trente-huit membres représentant les professionnels nommés par arrêté du ministre chargé de la culture pour une durée de trois ans renouvelable et ainsi répartis :
 
 - dix représentants des auteurs ;
 
@@ -35,6 +35,8 @@ Les représentants des ministres ci-dessus désignés sont nommés par les minis
 - deux représentants des artistes-interprètes ;
 
 - deux représentants des producteurs de phonogrammes ;
+
+- un représentant des éditeurs de musique ;
 
 - deux représentants des éditeurs de presse ;
 
