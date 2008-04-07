@@ -579,7 +579,6 @@
 - [Décret n° 2007-57 du 12 janvier 2007 (SANS0625201D)](decret-n-2007-57-du-12-janvier-2007-sans0625201d)
 - [Décret n° 2007-59 du 12 janvier 2007 (CPTX0709913D)](decret-n-2007-59-du-12-janvier-2007-cptx0709913d)
 - [Décret n° 2007-60 du 12 janvier 2007 (FPPA0600171D)](decret-n-2007-60-du-12-janvier-2007-fppa0600171d)
-- [Décret n°2007-1006 du 12 juin 2007 (PRMX0710455D)](decret-n2007-1006-du-12-juin-2007-prmx0710455d)
 - [Décret n°2007-1007 du 12 juin 2007 (PRMX0710457D)](decret-n2007-1007-du-12-juin-2007-prmx0710457d)
 - [Décret n°2007-1008 du 12 juin 2007 (PRMX0710459D)](decret-n2007-1008-du-12-juin-2007-prmx0710459d)
 - [Décret n°2007-1009 du 12 juin 2007 (DEVX0710460D)](decret-n2007-1009-du-12-juin-2007-devx0710460d)
