@@ -1,0 +1,3 @@
+# Article 18
+
+Dans tous les textes réglementaires relatifs à l'Assistance publique-hôpitaux de Paris, les mots : « ingénieur(s) subdivisionnaire(s) », « ingénieurs(s) principal (principaux) », et les mots : « ingénieur(s) en chef de 2e classe » sont remplacés respectivement par les mots : « ingénieur(s) hospitalier(s) », « ingénieur(s) hospitalier(s) principal (principaux) » et « ingénieur(s) hospitalier(s) en chef de classe normale ». Les mots : « ingénieur(s) en chef de 1re classe » et les mots : « ingénieur(s) en chef hors classe » sont remplacés par les mots : « ingénieur(s) hospitalier(s) en chef de classe exceptionnelle ». Les mots : « ingénieur(s) général (généraux) » sont remplacés par les mots : « ingénieur(s) général (généraux) hospitalier(s) ».
