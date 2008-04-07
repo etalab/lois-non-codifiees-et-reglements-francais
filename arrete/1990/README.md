@@ -493,7 +493,6 @@
 - [Arrêté du 19 septembre 1990 (COMC9000007A)](arrete-du-19-septembre-1990-comc9000007a)
 - [Arrêté du 19 septembre 1990 (DEFD9001971A)](arrete-du-19-septembre-1990-defd9001971a)
 - [Arrêté du 19 septembre 1990 (SPSS9002008A)](arrete-du-19-septembre-1990-spss9002008a)
-- [Arrêté du 19 septembre 1991 (SANH9101800A)](arrete-du-19-septembre-1991-sanh9101800a)
 - [Arrêté du 20 août 1990 (EQUP9000818A)](arrete-du-20-aout-1990-equp9000818a)
 - [Arrêté du 20 avril 1990 (PRME9061064A)](arrete-du-20-avril-1990-prme9061064a)
 - [Arrêté du 20 décembre 1989 (SPSH8902798A)](arrete-du-20-decembre-1989-spsh8902798a)

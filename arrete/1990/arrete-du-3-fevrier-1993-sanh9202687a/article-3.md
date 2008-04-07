@@ -1,3 +1,3 @@
 # Article 3
 
-L'échelle indiciaire applicable au grade d'agent technique spécialisé hors classe est fixée conformément au tableau IV annexé au présent arrêté.
+Le présent arrêté sera publié au Journal officiel de la République française et prend effet au 1er janvier 1990.

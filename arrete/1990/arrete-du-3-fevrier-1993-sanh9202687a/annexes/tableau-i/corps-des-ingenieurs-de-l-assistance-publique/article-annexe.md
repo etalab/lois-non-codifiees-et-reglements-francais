@@ -1,139 +1,334 @@
 # Article Annexe
 
-Échelons / Indices bruts
-
-Ingénieur subdivisionnaire
-
-(A) : Situation antérieure.
-
-(B) : Situation nouvelle à compter du 1er août 1993.
-
-!------------------------!
-
-!        ! Indices bruts !
-
-!Echelons!---------------!
-
-!        !   A   !   B   !
-
-!--------!-------!-------!
-
-! 10e(+) !   -   !  750  !
-
-!  9e    !  701  !  710  !
-
-!  8e    !  659  !  668  !
-
-!  7e    !  612  !  621  !
-
-!  6e    !  579  !  588  !
-
-!  5e    !  528  !  540  !
-
-!  4e    !  482  !  492  !
-
-!  3e    !  448  !  458  !
-
-!  2e    !  420  !  430  !
-
-! 1er    !  379  !  379  !
-
-!--------!-------!-------!
-
-(+) : Echelon créé à compter du 1er août 1993.
-
-Ingénieurs principaux
-
-!--------!--------!
-
-!Echelons!Indices !
-
-!        ! bruts  !
-
-!--------!--------!
-
-!  9e    !   966  !
-
-!  8e    !   916  !
-
-!  7e    !   864  !
-
-!  6e    !   811  !
-
-!  5e    !   759  !
-
-!  4e    !   701  !
-
-!  3e    !   641  !
-
-!  2e    !   593  !
-
-! 1er    !   541  !
-
-!--------!--------!
-
-Ingénieur en chef de 2e classe
-
-!--------!--------!
-
-!Echelons!Indices !
-
-!        ! bruts  !
-
-!--------!--------!
-
-!  8e    !   771  !
-
-!  7e    !   732  !
-
-!  6e    !   681  !
-
-!  5e    !   635  !
-
-!  4e    !   581  !
-
-!  3e    !   530  !
-
-!  2e    !   480  !
-
-! 1er    !   450  !
-
-!--------!--------!
-
-Ingénieur en chef de 1re classe
-
-!--------!--------!
-
-!Echelons!Indices !
-
-!        ! bruts  !
-
-!--------!--------!
-
-!  4e    !   966  !
-
-!  3e    !   901  !
-
-!  2e    !   830  !
-
-! 1er    !   750  !
-
-!--------!--------!
-
-Ingénieur en chef hors classe
-
-!--------!--------!
-
-!Echelons!Indices !
-
-!        ! bruts  !
-
-!--------!--------!
-
-!  3e    !   HEA  !
-
-!  2e    !  1015  !
-
-! 1er    !   946  !
-
-!--------!--------!
+<table>
+<tbody>
+<tr>
+<th>
+<br/>ÉCHELONS<br/>
+</th>
+<th>
+<br/>INDICES BRUTS<br/>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>Ingénieur hospitalier en chef de classe exceptionnelle<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>7e échelon<br/>
+</td>
+<td align="center">
+<br/>HEB<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>6e échelon<br/>
+</td>
+<td align="center">
+<br/>HEA<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>5e échelon<br/>
+</td>
+<td align="center">
+<br/>1015<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>4e échelon<br/>
+</td>
+<td align="center">
+<br/>966<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>3e échelon<br/>
+</td>
+<td align="center">
+<br/>901<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>2e échelon<br/>
+</td>
+<td align="center">
+<br/>830<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>1er échelon<br/>
+</td>
+<td align="center">
+<br/>750<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Ingénieur hospitalier en chef de classe normale<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>10e échelon<br/>
+</td>
+<td align="center">
+<br/>966<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>9e échelon<br/>
+</td>
+<td align="center">
+<br/>901<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>8e échelon<br/>
+</td>
+<td align="center">
+<br/>852<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>7e échelon<br/>
+</td>
+<td align="center">
+<br/>772<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>6e échelon<br/>
+</td>
+<td align="center">
+<br/>701<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>5e échelon<br/>
+</td>
+<td align="center">
+<br/>655<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>4e échelon<br/>
+</td>
+<td align="center">
+<br/>612<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>3e échelon<br/>
+</td>
+<td align="center">
+<br/>562<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>2e échelon<br/>
+</td>
+<td align="center">
+<br/>513<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>1er échelon<br/>
+</td>
+<td align="center">
+<br/>450<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Ingénieur hospitalier principal<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>9e échelon<br/>
+</td>
+<td align="center">
+<br/>966<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>8e échelon<br/>
+</td>
+<td align="center">
+<br/>916<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>7e échelon<br/>
+</td>
+<td align="center">
+<br/>864<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>6e échelon<br/>
+</td>
+<td align="center">
+<br/>811<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>5e échelon<br/>
+</td>
+<td align="center">
+<br/>759<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>4e échelon<br/>
+</td>
+<td align="center">
+<br/>701<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>3e échelon<br/>
+</td>
+<td align="center">
+<br/>641<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>2e échelon<br/>
+</td>
+<td align="center">
+<br/>593<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>1er échelon<br/>
+</td>
+<td align="center">
+<br/>541<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Ingénieur hospitalier<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>10e échelon<br/>
+</td>
+<td align="center">
+<br/>750<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>9e échelon<br/>
+</td>
+<td align="center">
+<br/>710<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>8e échelon<br/>
+</td>
+<td align="center">
+<br/>668<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>7e échelon<br/>
+</td>
+<td align="center">
+<br/>621<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>6e échelon<br/>
+</td>
+<td align="center">
+<br/>588<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>5e échelon<br/>
+</td>
+<td align="center">
+<br/>540<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>4e échelon<br/>
+</td>
+<td align="center">
+<br/>492<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>3e échelon<br/>
+</td>
+<td align="center">
+<br/>458<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>2e échelon<br/>
+</td>
+<td align="center">
+<br/>430<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>1er échelon<br/>
+</td>
+<td align="center">
+<br/>379<br/>
+</td>
+</tr>
+</tbody>
+</table>
