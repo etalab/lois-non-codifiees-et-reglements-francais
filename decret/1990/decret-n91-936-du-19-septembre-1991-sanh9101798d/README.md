@@ -7,4 +7,3 @@
 - [Titre 4 : Dispositions communes.](titre-4)
 - [Titre 5 : Dispositions diverses.](titre-5)
 - [Titre 6 : Dispositions transitoires](titre-6)
-- [Titre 7 : Dispositions transitoires communes.](titre-7)
