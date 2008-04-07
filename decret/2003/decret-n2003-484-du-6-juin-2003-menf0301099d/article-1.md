@@ -10,10 +10,10 @@ Les assistants d'éducation accomplissent, en application de l'article L. 916-1 
 
 4° Aide à l'utilisation des nouvelles technologies ;
 
-5° Participation à toute activité éducative, sportive, sociale ou culturelle.
+5° Participation à toute activité éducative, sportive, sociale, artistique ou culturelle complémentaire aux enseignements ;
+
+6° Participation à l'aide aux devoirs et aux leçons.
 
 Le contrat précise les fonctions pour lesquelles l'assistant d'éducation est recruté ainsi que les établissements ou les écoles au sein desquels il exerce.
-
-Les assistants d'éducation recrutés pour accomplir les fonctions prévues au 2° ne peuvent exercer les autres fonctions mentionnées ci-dessus.
 
 Les assistants d'éducation exerçant les fonctions d'accompagnement des étudiants handicapés sont recrutés par les recteurs d'académie.
