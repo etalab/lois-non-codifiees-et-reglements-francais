@@ -208,6 +208,7 @@
 - [Décret n°2008-155 du 20 février 2008 (BCFF0771864D)](decret-n2008-155-du-20-fevrier-2008-bcff0771864d)
 - [Décret n°2008-273 du 20 mars 2008 (MAEX0806660D)](decret-n2008-273-du-20-mars-2008-maex0806660d)
 - [Décret n°87-31 du 20 janvier 1987](decret-n87-31-du-20-janvier-1987)
+- [Décret n°93-1334 du 20 décembre 1993 (RESM9300956D)](decret-n93-1334-du-20-decembre-1993-resm9300956d)
 - [Décret n°2007-1811 du 21 décembre 2007 (BCFS0764774D)](decret-n2007-1811-du-21-decembre-2007-bcfs0764774d)
 - [Décret n°2008-157 du 21 février 2008 (IOCM0802910D)](decret-n2008-157-du-21-fevrier-2008-iocm0802910d)
 - [Décret n°2008-165 du 21 février 2008 (ECET0770595D)](decret-n2008-165-du-21-fevrier-2008-ecet0770595d)
