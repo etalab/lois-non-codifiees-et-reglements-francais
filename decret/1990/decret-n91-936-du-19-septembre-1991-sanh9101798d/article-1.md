@@ -4,18 +4,14 @@ Sont régis par les dispositions du présent décret les personnels de l'Assista
 
 Catégorie B :
 
-Le corps des agents techniques de coordination ;
+Le corps des agents-chefs ;
 
 Catégorie C :
 
-a) Le corps des agents techniques ;
+Le corps de la maîtrise ouvrière ;
 
-b) Le corps des ouvriers d'état ;
+Le corps des personnels ouvriers ;
 
-c) Le corps des ouvriers professionnels ;
+Le corps des blanchisseurs ;
 
-d) Le corps des blanchisseurs ouvriers d'état ;
-
-e) Le corps des blanchisseurs ouvriers professionnels ;
-
-f) Le corps des conducteurs ambulanciers.
+Le corps des conducteurs ambulanciers.

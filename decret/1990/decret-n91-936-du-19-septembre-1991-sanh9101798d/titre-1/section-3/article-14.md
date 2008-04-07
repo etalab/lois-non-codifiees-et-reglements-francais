@@ -1,19 +1,25 @@
 # Article 14
 
-Les ouvriers d'état sont recrutés :
+I.-L'avancement au grade d'ouvrier professionnel qualifié s'effectue selon l'une des modalités suivantes :
 
-1° Par concours externe sur titres dans les conditions fixées au titre V du présent décret ; peuvent être admises à concourir soit les personnes titulaires d'un brevet d'études professionnelles ou de deux certificats d'aptitude professionnelle, soit les personnes titulaires d'un certificat d'aptitude professionnelle ou d'un diplôme de niveau au moins équivalent lorsqu'elles justifient d'une expérience professionnelle de deux ans minimum. Un arrêté du ministre chargé de la santé fixe, sur proposition du directeur général de l'Assistance publique - hôpitaux de Paris, la liste des diplômes admis en équivalence ;
+1° Par voie d'inscription à un tableau annuel d'avancement établi après avis de la commission administrative paritaire compétente, après une sélection par la voie d'un examen professionnel ouvert aux agents d'entretien qualifiés ayant atteint le 4e échelon et comptant au moins trois ans de services effectifs dans leur grade ;
 
-2° Par concours interne sur titres dans, les conditions fixées au titre V du présent décret.
+2° Par voie d'inscription à un tableau annuel d'avancement établi, au choix, après avis de la commission administrative paritaire compétente parmi les agents d'entretien qualifiés ayant atteint le 5e échelon et comptant au moins cinq ans de services effectifs dans leur grade.
 
-Ce concours est ouvert :
+L'avancement de grade s'effectue par chacune des deux voies indiquées ci-dessus dans une proportion variant d'un tiers à deux tiers.
 
-a) Aux agents relevant du corps des ouvriers professionnels de l'Assistance publique-hôpitaux de Paris,
+Lorsque le nombre de candidats admis à l'examen professionnel mentionné au 1° est inférieur au nombre de promotions à prononcer par l'une des voies, le nombre de promotions à prononcer au titre du 2° est augmenté à due concurrence.
 
-b) Aux agents relevant du corps des ouvriers professionnels des établissements mentionnés à l'article 2 de la loi n° 86-33 du 9 janvier 1986 modifiée portant dispositions statutaires relatives à la fonction publique hospitalière.
+Le nombre de promotions dans le grade d'ouvrier professionnel qualifié est calculé chaque année dans les conditions fixées par le décret du 3 août 2007 susmentionné.
 
-Ces agents doivent soit être titulaires d'un certificat d'aptitude professionnelle ou d'un brevet d'études professionnelles, ou d'un diplôme au moins équivalent et compter au minimum deux ans de services effectifs dans l'un des corps d'ouvriers professionnels mentionnés ci-dessus, soit compter cinq ans de services publics, dont au moins deux ans de services effectifs dans l'un de ces corps.
+II.-L'avancement au grade de maître ouvrier s'effectue selon les modalités suivantes :
 
-3° Par inscription sur une liste d'aptitude établie en application du 2° de l'article 35 de la loi n° 86-33 du 9 janvier 1986 modifiée portant dispositions statutaires relatives à la fonction publique hospitalière, dans la limite du tiers du nombre des titularisations prononcées au titre du présent article.
+1° Peuvent être promus au grade de maître ouvrier par voie d'inscription à un tableau annuel d'avancement établi, au choix, après avis de la commission administrative paritaire compétente, les ouvriers professionnels qualifiés ayant atteint au moins le 5e échelon de leur grade et comptant au moins six ans de services effectifs dans leur grade ;
 
-Peuvent être inscrits sur cette liste les ouvriers professionnels principaux comptant au moins deux ans d'ancienneté dans le 4e échelon de leur grade et les ouvriers professionnels comptant au moins neuf ans de services effectifs dans le corps.
+2° Le nombre de promotions dans le grade de maître ouvrier est calculé chaque année dans les conditions fixées par le décret du 3 août 2007 susmentionné.
+
+III.-L'avancement au grade de maître ouvrier principal s'effectue selon les modalités suivantes :
+
+1° Peuvent être promus au grade de maître ouvrier principal, par voie d'inscription à un tableau annuel d'avancement établi dans les conditions prévues au 1° de l'article 69 de la loi du 9 janvier 1986 susmentionnée, les maîtres ouvriers comptant au moins un an d'ancienneté dans le 5e échelon de leur grade et au moins cinq ans de services effectifs dans leur grade ;
+
+2° Le nombre de promotions dans le grade de maître ouvrier principal est calculé chaque année dans les conditions fixées par le décret du 3 août 2007 susmentionné.

@@ -1,4 +1,4 @@
-# Section 3 : Les ouvriers d'état.
+# Section 3 : Le corps des personnels ouvriers.
 
 - [Article 12](article-12.md)
 - [Article 13](article-13.md)

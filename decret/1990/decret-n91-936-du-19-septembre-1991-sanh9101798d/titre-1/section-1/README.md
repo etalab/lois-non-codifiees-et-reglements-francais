@@ -1,4 +1,4 @@
-# Section 1 : Les agents techniques de coordination.
+# Section 1 : Le corps des agents-chefs.
 
 - [Article 2](article-2.md)
 - [Article 3](article-3.md)

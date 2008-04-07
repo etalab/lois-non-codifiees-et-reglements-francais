@@ -1,4 +1,4 @@
-# Section 2 : Les agents techniques.
+# Section 2 :  Le corps de la maîtrise ouvrière.
 
 - [Article 7](article-7.md)
 - [Article 8](article-8.md)

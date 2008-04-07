@@ -1,5 +1,7 @@
 # Article 7
 
-Les agents techniques sont chargés de la réalisation et du contrôle de travaux relevant d'une même qualification ou de qualifications complémentaires. A ce titre, ils assurent l'encadrement des ouvriers placés sous leur autorité.
+Les agents de maîtrise sont chargés de missions de travaux techniques comportant notamment le contrôle de la bonne exécution des travaux confiés à un groupe d'ouvriers ou à des entreprises.
 
-Ils peuvent participer à la préparation des projets arrêtés dans leur domaine de compétence. En outre, ils peuvent être chargés de formations dispensées au personnel ouvrier.
+Ils peuvent encadrer, sous l'autorité de leur supérieur hiérarchique, un ou plusieurs ateliers, services ou pôles d'activités.
+
+Ils peuvent exercer leurs fonctions en qualité de contremaître, ainsi que dans les domaines de la climatique, de la blanchisserie, de la buanderie et de l'entretien textile.

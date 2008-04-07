@@ -1,11 +1,3 @@
 # Article 9
 
-Les agents techniques sont recrutés :
-
-1° Par concours interne sur épreuves dans les conditions fixées au titre V du présent décret ; peuvent être admis à concourir :
-
-a) Les personnels comptant au moins deux ans d'ancienneté dans le 4e échelon dans les grades suivants : ouvriers de 1re catégorie et ouvriers professionnels principaux mentionnés aux articles 13 et 19 du présent décret ; blanchisseurs ouvriers de 1re catégorie et blanchisseurs ouvriers professionnels principaux mentionnés aux articles 23 et 29 du présent décret ;
-
-b) Les maîtres ouvriers et les maîtres ouvriers principaux mentionnés à l'article 13, les blanchisseurs maîtres ouvriers et les blanchisseurs maîtres ouvriers principaux mentionnés à l'article 23 du présent décret.
-
-2° Par inscription sur une liste d'aptitude établie en application du 2° de l'article 35 de la loi n° 86-33 du 9 janvier 1986 modifiée portant dispositions statutaires relatives à la fonction publique hospitalière dans la limite du tiers du nombre des titularisations prononcées au titre du présent article ; peuvent être inscrits sur cette liste les maîtres ouvriers principaux ainsi que les maîtres ouvriers comptant au moins trois ans de services effectifs dans leur grade.
+Le corps de la maîtrise ouvrière comprend les grades d'agent de maîtrise et d'agent de maîtrise principal relevant respectivement des échelles de rémunération 5 et 6 prévues par le décret n° 2006-227 du 24 février 2006 modifié relatif à l'organisation des carrières des fonctionnaires hospitaliers de catégorie C.

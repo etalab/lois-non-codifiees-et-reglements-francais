@@ -1,0 +1,3 @@
+# Article 56
+
+Les agents techniques de coordination de 1re et de 2e catégories en fonctions au 12 novembre 2001 qui n'ont pas, à la date mentionnée à l'article 33, bénéficié de la mesure de reclassement prévue à l'article 6 du décret n° 2002-515 du 15 avril 2002 modifiant le décret n° 91-936 du 19 septembre 1991 portant statuts particuliers des personnels ouvriers, des blanchisseurs et des conducteurs ambulanciers de l'Assistance publique-hôpitaux de Paris sont, à compter de cette même date, respectivement reclassés dans les grades d'agents techniques de coordination de 1re et de 2e catégories à égalité d'échelon avec maintien de l'ancienneté acquise dans cet échelon.
