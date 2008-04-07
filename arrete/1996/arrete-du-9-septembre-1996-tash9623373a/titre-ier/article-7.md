@@ -2,21 +2,21 @@
 
 Les concours mentionnés à l'article 1er ci-dessus comprennent les épreuves énumérées ci-après :
 
-I. - Concours sur épreuves d'ingénieur en chef de 2e classe :
+I.-Concours sur épreuves d'ingénieur hospitalier en chef de classe normale :
 
 Epreuves écrites et anonymes :
 
 1° Rédaction d'une note de synthèse à partir de l'étude critique d'un dossier technique portant sur la spécialité au titre de laquelle le concours est ouvert (durée : cinq heures ; coefficient 5) ;
 
-2° Rédaction d'un rapport consistant en l'analyse de documents d'ordre administratif et technique ou scientifique faisant appel à l'expérience professionnelle et aux connaissances du candidat des missions de l'ingénieur en chef de 2e classe.
+2° Rédaction d'un rapport consistant en l'analyse de documents d'ordre administratif et technique ou scientifique faisant appel à l'expérience professionnelle et aux connaissances du candidat des missions de l'ingénieur hospitalier en chef de classe normale.
 
-Cette épreuve a pour objet de vérifier l'aptitude du candidat à assumer les fonctions mentionnées à l'article 2 du décret du 3 février 1993 à l'Assistance publique - hôpitaux de Paris (durée :
+Cette épreuve a pour objet de vérifier l'aptitude du candidat à assumer les fonctions mentionnées à l'article 2 du décret du 3 février 1993 à l'Assistance publique-hôpitaux de Paris (durée :
 
 quatre heures ; coefficient 5).
 
 Epreuves orales :
 
-1° Un entretien avec le jury permettant d'apprécier les connaissances générales du candidat ainsi que ses aptitudes à assurer des fonctions d'encadrement et de coordination d'un ou plusieurs services techniques ou scientifiques de l'Assistance publique - hôpitaux de Paris. Cet entretien pourra, le cas échéant, porter sur la deuxième épreuve d'admissibilité du candidat (durée :
+1° Un entretien avec le jury permettant d'apprécier les connaissances générales du candidat ainsi que ses aptitudes à assurer des fonctions d'encadrement et de coordination d'un ou plusieurs services techniques ou scientifiques de l'Assistance publique-hôpitaux de Paris. Cet entretien pourra, le cas échéant, porter sur la deuxième épreuve d'admissibilité du candidat (durée :
 
 trente minutes ; coefficient 5) ;
 
@@ -26,13 +26,13 @@ trente minutes ; coefficient 5) ;
 
 Pour cette épreuve, seuls sont pris en compte les points supérieurs à la moyenne.
 
-II. - Concours sur épreuves d'ingénieur subdivisionnaire :
+II.-Concours sur épreuves d'ingénieur hospitalier :
 
 Epreuves écrites et anonymes :
 
 1° Rédaction d'une note de synthèse à partir d'un dossier d'ordre administratif et technique ou scientifique faisant appel à l'expérience professionnelle du candidat.
 
-Cette épreuve a pour objet de vérifier l'aptitude du candidat à exercer les fonctions d'ingénieur subdivisionnaire à l'Assistance publique - hôpitaux de Paris (durée : quatre heures ; coefficient 5) ;
+Cette épreuve a pour objet de vérifier l'aptitude du candidat à exercer les fonctions d'ingénieur subdivisionnaire à l'Assistance publique-hôpitaux de Paris (durée : quatre heures ; coefficient 5) ;
 
 2° Etablissement ou étude critique d'un projet technique ou scientifique portant sur la spécialité au titre de laquelle le concours est ouvert (durée : huit heures ; coefficient 5) ;
 

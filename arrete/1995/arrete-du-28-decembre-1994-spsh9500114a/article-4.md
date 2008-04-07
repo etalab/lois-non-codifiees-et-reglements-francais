@@ -8,4 +8,4 @@ La commission est composée comme suit :
 
 - un représentant de l'enseignement supérieur du ministère de l'éducation nationale ;
 
-- trois ingénieurs de l'Assistance publique - hôpitaux de Paris dont un au moins relevant de la spécialité au titre de laquelle est ouvert le concours et dont l'un au moins des trois ingénieurs a la qualité d'ingénieur en chef hors classe.
+- trois ingénieurs de l'Assistance publique - hôpitaux de Paris dont un au moins relevant de la spécialité au titre de laquelle est ouvert le concours et dont l'un au moins des trois ingénieurs a la qualité d'ingénieur hospitalier en chef de classe exceptionnelle.

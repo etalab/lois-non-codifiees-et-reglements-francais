@@ -6,7 +6,7 @@ Ces fonctionnaires concourent pour l'avancement de grade et d'échelon avec les 
 
 II. - Toutefois, lorsqu'ils sont détachés dans le corps des ingénieurs mentionnés à l'article 1er :
 
-1° Les fonctionnaires appartenant à un corps, cadre d'emploi ou emploi accessible aux ingénieurs de l'Ecole polytechnique ou de ses écoles d'application et les urbanistes de l'Etat sont classés dans le grade d'ingénieur en chef :
+1° Les fonctionnaires appartenant à un corps, cadre d'emplois ou emploi accessible aux ingénieurs de l'Ecole polytechnique ou de ses écoles d'application et les urbanistes de l'Etat sont classés dans le grade d'ingénieur hospitalier en chef à la classe exceptionnelle s'ils sont titulaires d'un grade ou d'un emploi dont l'indice brut terminal est supérieur à 966 et à la classe normale pour les autres fonctionnaires :
 
 a) Hors classe s'ils ont atteint dans leur corps, cadre d'emploi ou emploi d'origine un échelon doté d'un indice brut supérieur ou égal à 1 015 ;
 
@@ -14,8 +14,8 @@ b) De 1re classe s'ils ont atteint un échelon doté d'un indice brut supérieur
 
 c) De 2e classe s'ils ont atteint un échelon doté d'un indice brut inférieur ou égal à 750.
 
-2° Les fonctionnaires ayant atteint un grade comportant un indice brut terminal égal ou supérieur à 801 sont classés dans le grade d'ingénieur principal ;
+2° Les fonctionnaires ayant atteint un grade comportant un indice brut terminal égal ou supérieur à 801 sont classés dans le grade d'ingénieur hospitalier principal ;
 
-3° Les fonctionnaires ayant atteint un grade dont l'indice brut terminal est inférieur à 801 sont classés dans le grade d'ingénieur subdivisionnaire.
+3° Les fonctionnaires ayant atteint un grade dont l'indice brut terminal est inférieur à 801 sont classés dans le grade d'ingénieur hospitalier.
 
-III. - Les fonctionnaires détachés depuis trois ans au moins peuvent être intégrés dans leur corps de détachement après avis de la commission administrative paritaire compétente. L'intégration est prononcée par le directeur général de l'Assistance publique-hôpitaux de Paris dans les grade et échelon atteints dans le corps d'accueil avec conservation de l'ancienneté acquise dans l'échelon. Les services accomplis dans les corps, cadres d'emploi ou emplois d'origine sont assimilés à des services accomplis dans les corps d'intégration.
+III. - Les fonctionnaires détachés dans le corps des ingénieurs de l'Assistance publique-hôpitaux de Paris et dans le corps des techniciens supérieurs de l'Assistance publique-hôpitaux de Paris depuis trois ans au moins, ainsi que les fonctionnaires détachés dans le corps des agents techniques spécialisés depuis un an au moins peuvent être intégrés dans leur corps de détachement après avis de la commission administrative paritaire compétente. L'intégration est prononcée par le directeur général de l'Assistance publique-hôpitaux de Paris dans les grade et échelon atteints dans le corps d'accueil avec conservation de l'ancienneté acquise dans l'échelon. Les services accomplis dans les corps d'origine sont assimilés à des services accomplis dans les corps d'intégration.

@@ -6,7 +6,7 @@ CAP n° 1 : personnels d'encadrement technique
 
 Groupe unique
 
-Sous-groupe unique : ingénieur général ; ingénieur en chef hors classe ; ingénieur en chef de 1re classe ; ingénieur en chef de 2e classe ; ingénieur principal ; ingénieur subdivisionnaire.
+Sous-groupe unique : ingénieur général ; ingénieur en chef hors classe; ingénieur hospitalier en chef de classe exceptionnelle ; ingénieur hospitalier en chef de classe normale ; ingénieur hospitalier.
 
 CAP n° 2 : personnels de catégorie A des services de soins,
 

@@ -8,7 +8,7 @@ Groupe 1 : Personnels techniques
 
 Sous-groupe unique
 
-Ingénieurs en chef hors classe, ingénieurs en chef de 1re classe, ingénieurs en chef de 2e classe, ingénieurs principaux, ingénieurs subdivisionnaires.
+Ingénieurs en chef hors classe, ingénieurs hospitaliers en chef de classe exceptionnelle, ingénieurs hospitaliers en chef de classe normale, ingénieurs hospitaliers principaux, ingénieurs hospitaliers.
 
 Groupe 2 : Psychologues, sages-femmes, personnels infirmiers, personnels de rééducation, personnels médico-techniques et personnels sociaux
 
