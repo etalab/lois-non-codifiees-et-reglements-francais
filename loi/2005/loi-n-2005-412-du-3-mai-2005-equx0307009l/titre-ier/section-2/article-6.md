@@ -1,6 +1,6 @@
 # Article 6
 
-Afin de promouvoir une filière nationale de formation maritime, chaque armateur assure la formation embarquée nécessaire au renouvellement des effectifs visés à l'article 5.
+Chaque armateur participe à l'embarquement des élèves des établissements français d'enseignement maritime.
 
 Une convention ou un accord de branche étendu détermine pour les navires immatriculés au registre international français :
 
