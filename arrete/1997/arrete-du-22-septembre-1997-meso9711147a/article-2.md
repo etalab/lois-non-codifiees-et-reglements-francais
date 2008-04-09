@@ -4,6 +4,4 @@ Sont rattachées au directeur et à son adjoint :
 
 - la mission "animation de la recherche" ;
 
-- la mission "analyse économique" ;
-
-- la mission " actions régionales".
+- la mission "analyse économique".

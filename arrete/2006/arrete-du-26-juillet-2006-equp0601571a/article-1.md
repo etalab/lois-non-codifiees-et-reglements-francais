@@ -16,7 +16,7 @@ L'inspecteur général du travail des transports.
 
 Le directeur, adjoint au directeur général de l'urbanisme, de l'habitat et de la construction.
 
-Le directeur général des routes.
+L'adjoint au directeur général des routes.
 
 Le directeur général de la mer et des transports.
 
@@ -44,7 +44,7 @@ Le secrétaire général de la direction générale de l'aviation civile.
 
 La directrice des affaires juridiques, informatiques et logistiques.
 
-Le chef du service du pilotage des services et de la modernisation.
+La directrice adjointe de la nature et des paysages.
 
 Un membre du conseil général des ponts et chaussées.
 
