@@ -1,262 +1,287 @@
 # Article 1
 
-<div>
-<br/>Sont inscrites au Catalogue officiel des espèces et variétés de plantes cultivées en France dont les semences peuvent être commercialisées en France (liste A), pour une durée de dix ans, les variétés désignées ci-après :<br/>
+Sont inscrites au Catalogue officiel des espèces et variétés de plantes cultivées en France dont les semences peuvent être commercialisées en France (liste A), pour une durée de dix ans, les variétés désignées ci-après :
+
 <div align="center">
 
 <table>
+<tbody>
 <tr>
-<th>
-<br/>ESPÈCE</th>
-<th>
-<br/>DÉNOMINATION</th>
-<th>
-<br/>OBTENTEUR(S)</th>
-<th>
-<br/>RESPONSABLE(S) DU MAINTIEN<br/>de la variété en sélection conservatrice</th>
+<th>ESPÈCE<br/>
+</th>
+<th>DÉNOMINATION<br/>
+</th>
+<th>OBTENTEUR(S)<br/>
+</th>
+<th>RESPONSABLE(S) DU MAINTIEN<br/>de la variété en sélection conservatrice<br/>
+</th>
+</tr>
+<tr>
+<td align="center">Tournesol<br/>
+</td>
+<td align="center">DKF2727 (1).<br/>
+</td>
+<td align="center">Monsanto Technology LLC (US).<br/>
+</td>
+<td align="center">Monsanto SAS (FR).<br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Tournesol</td>
-<td align="center">
-<br/>DKF2727 (1).</td>
-<td align="center">
-<br/>Monsanto Technology LLC (US).</td>
-<td align="center">
-<br/>Monsanto SAS (FR).</td>
+<br/>
+</td>
+<td align="center">DKF2824.<br/>
+</td>
+<td align="center">Asgrow Seed Company (US).<br/>
+</td>
+<td align="center">Monsanto SAS (FR).<br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/> </td>
-<td align="center">
-<br/>DKF2824.</td>
-<td align="center">
-<br/>Asgrow Seed Company (US).</td>
-<td align="center">
-<br/>Monsanto SAS (FR).</td>
+<br/>
+</td>
+<td align="center">DKF3552.<br/>
+</td>
+<td align="center">Dekalb Genetics Corporation (US).<br/>
+</td>
+<td align="center">Monsanto SAS (FR).<br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/> </td>
-<td align="center">
-<br/>DKF3552.</td>
-<td align="center">
-<br/>Dekalb Genetics Corporation (US).</td>
-<td align="center">
-<br/>Monsanto SAS (FR).</td>
+<br/>
+</td>
+<td align="center">DKF3955 (1).<br/>
+</td>
+<td align="center">Monsanto Technology LLC (US).<br/>
+</td>
+<td align="center">Monsanto SAS (FR).<br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/> </td>
-<td align="center">
-<br/>DKF3955 (1).</td>
-<td align="center">
-<br/>Monsanto Technology LLC (US).</td>
-<td align="center">
-<br/>Monsanto SAS (FR).</td>
+<br/>
+</td>
+<td align="center">ES Ethic (1).<br/>
+</td>
+<td align="center">Soltis (FR).<br/>
+</td>
+<td align="center">Euralis Semences (FR).<br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/> </td>
-<td align="center">
-<br/>ES Ethic (1).</td>
-<td align="center">
-<br/>Soltis (FR).</td>
-<td align="center">
-<br/>Euralis Semences (FR).</td>
+<br/>
+</td>
+<td align="center">ES Magnific (1).<br/>
+</td>
+<td align="center">Euralis Semences (FR).<br/>
+</td>
+<td align="center">Euralis Semences (FR).<br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/> </td>
-<td align="center">
-<br/>ES Magnific (1).</td>
-<td align="center">
-<br/>Euralis Semences (FR).</td>
-<td align="center">
-<br/>Euralis Semences (FR).</td>
+<br/>
+</td>
+<td align="center">ES Paloma.<br/>
+</td>
+<td align="center">Euralis Semences (FR).<br/>
+</td>
+<td align="center">Euralis Semences (FR).<br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/> </td>
-<td align="center">
-<br/>ES Paloma.</td>
-<td align="center">
-<br/>Euralis Semences (FR).</td>
-<td align="center">
-<br/>Euralis Semences (FR).</td>
+<br/>
+</td>
+<td align="center">Heliabut (1).<br/>
+</td>
+<td align="center">R 2n (FR).<br/>
+</td>
+<td align="center">R 2n (FR).<br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/> </td>
-<td align="center">
-<br/>Heliabut (1).</td>
-<td align="center">
-<br/>R 2n (FR).</td>
-<td align="center">
-<br/>R 2n (FR).</td>
+<br/>
+</td>
+<td align="center">Heliagras.<br/>
+</td>
+<td align="center">RAGT Génétique (FR).<br/>
+</td>
+<td align="center">R 2n (FR).<br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/> </td>
-<td align="center">
-<br/>Heliagras.</td>
-<td align="center">
-<br/>RAGT Génétique (FR).</td>
-<td align="center">
-<br/>R 2n (FR).</td>
+<br/>
+</td>
+<td align="center">Inesis.<br/>
+</td>
+<td align="center">Institut national de la recherche agronomique (FR),<br/>Agri Obtentions SA (FR).<br/>
+</td>
+<td align="center">Agri Obtentions SA (FR).<br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/> </td>
-<td align="center">
-<br/>Inesis.</td>
-<td align="center">
-<br/>Institut national de la recherche agronomique (FR),<br/>Agri Obtentions SA (FR).</td>
-<td align="center">
-<br/>Agri Obtentions SA (FR).</td>
+<br/>
+</td>
+<td align="center">Inosix.<br/>
+</td>
+<td align="center">Institut national de la recherche agronomique (FR),<br/>Agri Obtentions SA (FR).<br/>
+</td>
+<td align="center">Agri Obtentions SA (FR).<br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/> </td>
-<td align="center">
-<br/>Inosix.</td>
-<td align="center">
-<br/>Institut national de la recherche agronomique (FR),<br/>Agri Obtentions SA (FR).</td>
-<td align="center">
-<br/>Agri Obtentions SA (FR).</td>
+<br/>
+</td>
+<td align="center">Leora.<br/>
+</td>
+<td align="center">Maïsadour Semences (FR).<br/>
+</td>
+<td align="center">Maïsadour Semences (FR).<br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/> </td>
-<td align="center">
-<br/>Leora.</td>
-<td align="center">
-<br/>Maïsadour Semences (FR).</td>
-<td align="center">
-<br/>Maïsadour Semences (FR).</td>
+<br/>
+</td>
+<td align="center">Letizia.<br/>
+</td>
+<td align="center">Interdor (FR).<br/>
+</td>
+<td align="center">Maïsadour Semences (FR).<br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/> </td>
-<td align="center">
-<br/>Letizia.</td>
-<td align="center">
-<br/>Interdor (FR).</td>
-<td align="center">
-<br/>Maïsadour Semences (FR).</td>
+<br/>
+</td>
+<td align="center">LG5447.<br/>
+</td>
+<td align="center">Limagrain Verneuil Holding (FR).<br/>
+</td>
+<td align="center">Limagrain Verneuil Holding (FR).<br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/> </td>
-<td align="center">
-<br/>LG5447.</td>
-<td align="center">
-<br/>Limagrain Verneuil Holding (FR).</td>
-<td align="center">
-<br/>Limagrain Verneuil Holding (FR).</td>
+<br/>
+</td>
+<td align="center">LG5530.<br/>
+</td>
+<td align="center">Limagrain Verneuil Holding (FR).<br/>
+</td>
+<td align="center">Limagrain Verneuil Holding (FR).<br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/> </td>
-<td align="center">
-<br/>LG5530.</td>
-<td align="center">
-<br/>Limagrain Verneuil Holding (FR).</td>
-<td align="center">
-<br/>Limagrain Verneuil Holding (FR).</td>
+<br/>
+</td>
+<td align="center">MAS 91A.<br/>
+</td>
+<td align="center">Interdor (FR).<br/>
+</td>
+<td align="center">Maïsadour Semences (FR).<br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/> </td>
-<td align="center">
-<br/>MAS 91A.</td>
-<td align="center">
-<br/>Interdor (FR).</td>
-<td align="center">
-<br/>Maïsadour Semences (FR).</td>
+<br/>
+</td>
+<td align="center">NK Lambada.<br/>
+</td>
+<td align="center">Syngenta Crop Protection AG (CH).<br/>
+</td>
+<td align="center">Syngenta Seeds SAS (FR).<br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/> </td>
-<td align="center">
-<br/>NK Lambada.</td>
-<td align="center">
-<br/>Syngenta Crop Protection AG (CH).</td>
-<td align="center">
-<br/>Syngenta Seeds SAS (FR).</td>
+<br/>
+</td>
+<td align="center">NK Sinfoni (1).<br/>
+</td>
+<td align="center">Syngenta Crop Protection AG (CH).<br/>
+</td>
+<td align="center">Syngenta Seeds SAS (FR).<br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/> </td>
-<td align="center">
-<br/>NK Sinfoni (1).</td>
-<td align="center">
-<br/>Syngenta Crop Protection AG (CH).</td>
-<td align="center">
-<br/>Syngenta Seeds SAS (FR).</td>
+<br/>
+</td>
+<td align="center">NK Singi.<br/>
+</td>
+<td align="center">Syngenta Seeds AG (CH).<br/>
+</td>
+<td align="center">Syngenta Seeds SAS (FR).<br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/> </td>
-<td align="center">
-<br/>NK Singi.</td>
-<td align="center">
-<br/>Syngenta Seeds AG (CH).</td>
-<td align="center">
-<br/>Syngenta Seeds SAS (FR).</td>
+<br/>
+</td>
+<td align="center">NK Stradi.<br/>
+</td>
+<td align="center">Syngenta Crop Protection AG (CH).<br/>
+</td>
+<td align="center">Syngenta Seeds SAS (FR).<br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/> </td>
-<td align="center">
-<br/>NK Stradi.</td>
-<td align="center">
-<br/>Syngenta Crop Protection AG (CH).</td>
-<td align="center">
-<br/>Syngenta Seeds SAS (FR).</td>
+<br/>
+</td>
+<td align="center">PR 64A16.<br/>
+</td>
+<td align="center">Pioneer Overseas Corporation (US).<br/>
+</td>
+<td align="center">Pioneer génétique SARL (FR).<br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/> </td>
-<td align="center">
-<br/>PR 64A16.</td>
-<td align="center">
-<br/>Pioneer Overseas Corporation (US).</td>
-<td align="center">
-<br/>Pioneer génétique SARL (FR).</td>
+<br/>
+</td>
+<td align="center">PR 64A36.<br/>
+</td>
+<td align="center">Pioneer Overseas Corporation (US).<br/>
+</td>
+<td align="center">Pioneer génétique SARL (FR).<br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/> </td>
-<td align="center">
-<br/>PR 64A36.</td>
-<td align="center">
-<br/>Pioneer Overseas Corporation (US).</td>
-<td align="center">
-<br/>Pioneer génétique SARL (FR).</td>
+<br/>
+</td>
+<td align="center">PR 64A64.<br/>
+</td>
+<td align="center">Pioneer Overseas Corporation (US).<br/>
+</td>
+<td align="center">Pioneer génétique SARL (FR).<br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/> </td>
-<td align="center">
-<br/>PR 64A64.</td>
-<td align="center">
-<br/>Pioneer Overseas Corporation (US).</td>
-<td align="center">
-<br/>Pioneer génétique SARL (FR).</td>
+<br/>
+</td>
+<td align="center">Vellox.<br/>
+</td>
+<td align="center">RAGT génétique (FR).<br/>
+</td>
+<td align="center">R 2n (FR).<br/>
+</td>
 </tr>
-<tr>
-<td align="center">
-<br/> </td>
-<td align="center">
-<br/>Vellox.</td>
-<td align="center">
-<br/>RAGT génétique (FR).</td>
-<td align="center">
-<br/>R 2n (FR).</td>
-</tr>
+</tbody>
 </table>
 
 </div>
-<br/>
-</div>
+
+(1) Variété à haute teneur en acide oléique
