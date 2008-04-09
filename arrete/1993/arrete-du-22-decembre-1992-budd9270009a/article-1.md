@@ -2,37 +2,88 @@
 
 1. Les pertes naturelles résultant de la circulation en suspension de taxes des produits énergétiques ne sont pas taxables, dans les conditions et dans les limites forfaitaires figurant au tableau ci-après :
 
-MOYENS de transport à l'arrivée
-
-PRODUITS BENEFICIAIRES
-
-Essences pour moteurs, superéthanol E 85, white spirit et biocarburants incorporés dans les essences
-
-Huiles moyennes, pétrole lampant, gazole, fioul domestique et biocarburants incorporés dans le gazole et le fioul domestique
-
-Fioul lourd
-
-Camions et remorques.
-
-0,6 p. 1 000
-
-0,5 p. 1 000
-
-Néant
-
-Wagons, chalands, barges et autres bateaux que ceux visés ci-dessous.
-
-1,2 p. 1 000
-
-1 p. 1 000
-
-0,2 p. 1000
-
-Navires d'une capacité en huiles minérales supérieure à 2 500 m3.
-
-3,5 p. 1 000
-
-2,6 p. 1 000
+<table>
+<tbody>
+<tr>
+<th>
+<br/>MOYENS <p>de transports </p>
+<p>à l'arrivée <br/>
+</p>
+</th>
+<th colspan="3">
+<br/>PRODUITS BÉNÉFICIAIRES <br/>
+</th>
+</tr>
+<tr>
+<th>
+<br/>
+</th>
+<th>
+<br/>Essences pour <p>moteurs, superéthanol E85, white spirit </p>
+<p>et biocarburants destinés </p>
+<p>à être incorporés dans </p>
+<p>les essences <br/>
+</p>
+</th>
+<th>
+<br/>Huiles moyennes, <p>pétrole lampant, </p>
+<p>gazole, fioul domestique, </p>
+<p>et biocarburants destinés </p>
+<p>à être incorporés dans </p>
+<p>le gazole et le fioul </p>
+<p>domestique <br/>
+</p>
+</th>
+<th>
+<br/>Fioul lourd <br/>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>Camions et remorques. <br/>
+</td>
+<td align="center">
+<br/>0,6 ‰ <br/>
+</td>
+<td align="center">
+<br/>0,5 ‰ <br/>
+</td>
+<td align="center">
+<br/>Néant <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Wagons, chalands, barges et autres bateaux que ceux visés ci-dessous. <br/>
+</td>
+<td align="center">
+<br/>1,2 ‰ <br/>
+</td>
+<td align="center">
+<br/>1 ‰ <br/>
+</td>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">
+<p>0,2 ‰ <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Navires d'une capacité en huiles minérales supérieure à 2 500 m ³. <br/>
+</td>
+<td align="center">
+<br/>3,5 ‰ <br/>
+</td>
+<td align="center">
+<br/>2,6 ‰ <br/>
+</td>
+<td align="center"/>
+</tr>
+</tbody>
+</table>
 
 2. Pour l'application du 1 ci-dessus, les pertes non taxables sont calculées à partir des quantités expédiées figurant sur le document d'accompagnement des huiles minérales.
 
