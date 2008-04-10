@@ -109,6 +109,7 @@
 - [Décret n°2008-243 du 7 mars 2008 (MTSX0802347D)](decret-n2008-243-du-7-mars-2008-mtsx0802347d)
 - [Décret n°2008-244 du 7 mars 2008 (MTST0804938D)](decret-n2008-244-du-7-mars-2008-mtst0804938d)
 - [Décret n°2008-326 du 7 avril 2008 (ESRS0772525D)](decret-n2008-326-du-7-avril-2008-esrs0772525d)
+- [Décret n°2008-327 du 7 avril 2008 (BCFF0804677D)](decret-n2008-327-du-7-avril-2008-bcff0804677d)
 - [Décret n° 98-903 du 8 octobre 1998 (ECOP9800419D)](decret-n-98-903-du-8-octobre-1998-ecop9800419d)
 - [Décret n°2008-26 du 8 janvier 2008 (DEVN0770071D)](decret-n2008-26-du-8-janvier-2008-devn0770071d)
 - [Décret n°2008-27 du 8 janvier 2008 (AGRF0754547D)](decret-n2008-27-du-8-janvier-2008-agrf0754547d)
