@@ -2,8 +2,6 @@
 
 LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION DE L'INTÉRIEUR ET DE L'OUTRE-MER DANS LES SERVICES DE POLICE ET TAUX DE LA NOUVELLE BONIFIFICATION INDICIAIRE AFFECTÉE À CES EMPLOIS
 
-<div align="center">
-
 <table>
 <tbody>
 <tr>
@@ -13,32 +11,24 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION DE L'INTÉRIEUR ET DE L'
 <tr>
 <th>Localisation de l'emploi<br/>
 </th>
-<th>Nombre d'emplois<br/>
-<br/>
-</th>
-<th colspan="2">Nombre de points NBI<br/>
-<br/>
-</th>
+<th>Nombre d'emplois</th>
+<th colspan="2">Nombre de points NBI</th>
 </tr>
 <tr>
 <td align="center">13<br/>
 </td>
-<td align="center">SGAP de Marseille.<br/>
-</td>
+<td align="center">SGAP de la zone de défense Sud</td>
 <td align="center">2<br/>
 </td>
 <td align="center">60<br/>
 </td>
 </tr>
 <tr>
-<td align="center">21<br/>
+<td align="center">33</td>
+<td align="center">SGAP de la zone de défense Sud-Ouest</td>
+<td align="center">2<br/>
 </td>
-<td align="center">Délégation régionale de Dijon.<br/>
-</td>
-<td align="center">1<br/>
-</td>
-<td align="center">30<br/>
-</td>
+<td align="center">50</td>
 </tr>
 <tr>
 <td align="center">31<br/>
@@ -51,23 +41,11 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION DE L'INTÉRIEUR ET DE L'
 </td>
 </tr>
 <tr>
-<td align="center">33<br/>
-</td>
-<td align="center">SGAP du Sud-Ouest.<br/>
-</td>
-<td align="center">2<br/>
-</td>
-<td align="center">50<br/>
-</td>
-</tr>
-<tr>
 <td align="center">35<br/>
 </td>
-<td align="center">SGAP du Centre-Ouest.<br/>
+<td align="center">SGAP de la zone de défense Ouest.<br/>
 </td>
-<td align="center">
-<br/>
-</td>
+<td align="center"/>
 <td align="center">
 <br/>
 </td>
@@ -97,49 +75,93 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION DE L'INTÉRIEUR ET DE L'
 <tr>
 <td align="center">57<br/>
 </td>
-<td align="center">SGAP du Centre-Est.<br/>
-</td>
+<td align="center">SGAP de la zone de défense Est.</td>
 <td align="center">2<br/>
 </td>
 <td align="center">50<br/>
 </td>
 </tr>
 <tr>
+<td>
+<p align="center"> 21</p>
+</td>
+<td>
+<p align="center"> Délégation régionale de Dijon.<br/>
+</p>
+</td>
+<td>
+<p align="center"> 1</p>
+</td>
+<td>
+<p align="center"> 30</p>
+</td>
+</tr>
+<tr>
 <td align="center">59<br/>
 </td>
-<td align="center">SGAP du Nord.<br/>
+<td align="center">SGAP de la zone de défense Nord.</td>
+<td align="center">
+<br/>
 </td>
-<td align="center">2<br/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center">Directeur des ressources humaines.<br/>
 </td>
+<td align="center">1</td>
 <td align="center">60<br/>
+</td>
+</tr>
+<tr>
+<td/>
+<td>  Chargé de mission auprès du préfet délégué pour la sécurité et la défense.</td>
+<td>
+<p align="center"> 1</p>
+</td>
+<td>
+<p align="center">60 </p>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+</td>
+<td>
+<p align="center"> Directeur de l'administration générale et des finances.</p>
+</td>
+<td>
+<p align="center"> 1</p>
+</td>
+<td>
+<p align="center">50 </p>
 </td>
 </tr>
 <tr>
 <td align="center">69<br/>
 </td>
-<td align="center">SGAP de Lyon.<br/>
-</td>
+<td align="center">SGAP de la zone de défense Sud-Est</td>
 <td align="center">2<br/>
 </td>
 <td align="center">60<br/>
 </td>
 </tr>
 <tr>
-<td align="center">78<br/>
+<td>
+<p align="center"> 78</p>
 </td>
-<td align="center">SGAP de Versailles.<br/>
+<td>
+<p align="center"> SGAP de Versailles</p>
 </td>
-<td align="center">2<br/>
+<td>
+<p align="center"> 2</p>
 </td>
-<td align="center">60<br/>
+<td>
+<p align="center">60 </p>
 </td>
 </tr>
 </tbody>
 </table>
-
-</div>
-
-<div align="center">
 
 <table>
 <tbody>
@@ -152,9 +174,7 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION DE L'INTÉRIEUR ET DE L'
 </th>
 <th>Nombre d'emplois<br/>
 </th>
-<th colspan="2">Nombre de points NBI<br/>
-<br/>
-</th>
+<th colspan="2">Nombre de points NBI</th>
 </tr>
 <tr>
 <td align="center">13<br/>
@@ -239,8 +259,6 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION DE L'INTÉRIEUR ET DE L'
 </tbody>
 </table>
 
-</div>
-
 <div align="center">
 
 <table>
@@ -254,9 +272,7 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION DE L'INTÉRIEUR ET DE L'
 </th>
 <th>Nombre d'emplois<br/>
 </th>
-<th colspan="2">Nombre de points NBI<br/>
-<br/>
-</th>
+<th colspan="2">Nombre de points NBI</th>
 </tr>
 <tr>
 <td align="center">63 <br/>
