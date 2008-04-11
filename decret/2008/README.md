@@ -117,6 +117,7 @@
 - [Décret n°2008-29 du 8 janvier 2008 (MLVU0762985D)](decret-n2008-29-du-8-janvier-2008-mlvu0762985d)
 - [Décret n°2008-25 du 9 janvier 2008 (PRMX0800636D)](decret-n2008-25-du-9-janvier-2008-prmx0800636d)
 - [Décret n°2008-32 du 9 janvier 2008 (SJSS0773634D)](decret-n2008-32-du-9-janvier-2008-sjss0773634d)
+- [Décret n°2008-328 du 9 avril 2008 (PRMX0807483D)](decret-n2008-328-du-9-avril-2008-prmx0807483d)
 - [Décret n°2007-1335 du 10 septembre 2007 (DEFD0753802D)](decret-n2007-1335-du-10-septembre-2007-defd0753802d)
 - [Décret n°2008-242 du 10 mars 2008 (JUSC0803953D)](decret-n2008-242-du-10-mars-2008-jusc0803953d)
 - [Décret n°2008-245 du 10 mars 2008 (BCFR0804879D)](decret-n2008-245-du-10-mars-2008-bcfr0804879d)

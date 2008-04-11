@@ -17,12 +17,8 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 <tr>
 <th>Directions et services<br/>
 </th>
-<th>Fonctions<br/>
-<br/>
-</th>
-<th>Points NBI<br/>
-<br/>
-</th>
+<th>Fonctions</th>
+<th>Points NBI</th>
 </tr>
 <tr>
 <td align="center">Cabinet du ministre. <br/>
@@ -279,8 +275,7 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 <tr>
 <td align="center">Direction générale des collectivités locales. <br/>
 </td>
-<td align="center">Chef du bureau financement des transferts de compétences.<br/>
-</td>
+<td align="center">Chef du bureau de la domanialité, de l'urbanisme, de la voirie et de l'habitat. </td>
 <td align="center">30<br/>
 </td>
 </tr>
@@ -288,8 +283,7 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 <td align="center">
 <br/>
 </td>
-<td align="center">Chef du bureau de l'urbanisme, voirie et habitat. <br/>
-</td>
+<td align="center">Chef du bureau de l'emploi territorial et de la protection sociale.</td>
 <td align="center">30<br/>
 </td>
 </tr>
@@ -297,17 +291,7 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 <td align="center">
 <br/>
 </td>
-<td align="center">Chef du bureau de l'emploi territoriale et de la protection sociale.<br/>
-</td>
-<td align="center">30<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-</td>
-<td align="center">Chef de cabinet. <br/>
-</td>
+<td align="center">Chef de cabinet.</td>
 <td align="center">30<br/>
 </td>
 </tr>
@@ -414,7 +398,7 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 </td>
 <td align="center">Chef du bureau des affaires juridiques.<br/>
 </td>
-<td align="center">50<br/>
+<td align="center">30<br/>
 </td>
 </tr>
 <tr>
@@ -424,6 +408,15 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 <td align="center">Chef du bureau de la politique sociale du logement.<br/>
 </td>
 <td align="center">60<br/>
+</td>
+</tr>
+<tr>
+<td/>
+<td>
+<p align="center">Chef de la division des personnels et de la logistique. </p>
+</td>
+<td>
+<p align="center">30</p>
 </td>
 </tr>
 <tr>
