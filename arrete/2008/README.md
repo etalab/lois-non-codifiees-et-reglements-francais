@@ -626,7 +626,6 @@
 - [Arrêté du 28 janvier 2008 (SJSV0802868A)](arrete-du-28-janvier-2008-sjsv0802868a)
 - [Arrêté du 28 janvier 2008 (SJSV0803273A)](arrete-du-28-janvier-2008-sjsv0803273a)
 - [Arrêté du 28 janvier 2008 (SJSV0803279A)](arrete-du-28-janvier-2008-sjsv0803279a)
-- [Arrêté du 28 mars 2008 (AGRG0807818A)](arrete-du-28-mars-2008-agrg0807818a)
 - [Arrêté du 28 mars 2008 (AGRG0807982A)](arrete-du-28-mars-2008-agrg0807982a)
 - [Arrêté du 28 mars 2008 (AGRM0802569A)](arrete-du-28-mars-2008-agrm0802569a)
 - [Arrêté du 28 mars 2008 (BCFL0802976A)](arrete-du-28-mars-2008-bcfl0802976a)
