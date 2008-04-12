@@ -2,7 +2,7 @@
 
 La procédure de marquage électronique des équidés permettant l'attribution à chaque animal d'un numéro de marquage électronique, exclusif et non réutilisable, comporte les opérations suivantes :
 
-1° La vérification ou l'établissement du signalement de l'animal (ou de sa mère si l'acte est réalisé lors de la naissance de l'animal) par relevé des marques naturelles ;
+1° La vérification ou l'établissement du signalement de l'animal par relevé des marques naturelles ;
 
 2° La lecture préalable du numéro de marquage électronique contenu dans l'insert à implanter, permettant ainsi son contrôle ainsi que celui du matériel de lecture.
 
@@ -22,28 +22,28 @@ Toutes les dispositions sont prises pour réduire la douleur au moment de l'impl
 
 6° Le document de marquage électronique, établi en trois exemplaires, est complété par les informations suivantes :
 
-- l'emplacement de l'implantation de l'insert ;
+-l'emplacement de l'implantation de l'insert ;
 
-- le numéro d'identification SIRE ou le numéro de la fiche de signalement en cas de relevé des marques naturelles simultané ou, si l'animal est marqué dès la naissance et n'a pas de numéro SIRE, le numéro d'identification de la mère ;
+-le numéro d'identification SIRE ou le numéro de la fiche de signalement en cas de relevé des marques naturelles simultané ou, si l'animal est marqué dès la naissance et n'a pas de numéro SIRE, le numéro d'identification de la mère ;
 
-- la race ou type racial ;
+-la race ou type racial ;
 
-- le nom de l'équidé ;
+-le nom de l'équidé ;
 
-- l'adresse (facultativement le numéro de téléphone) du détenteur de l'animal ;
+-l'adresse (facultativement le numéro de téléphone) du détenteur de l'animal ;
 
-- le nom et l'adresse du propriétaire dans les cas où il n'est pas en même temps le détenteur de l'animal ;
+-le nom et l'adresse du propriétaire dans les cas où il n'est pas en même temps le détenteur de l'animal ;
 
-- le numéro de marquage électronique par apposition d'une étiquette autocollante ;
+-le numéro de marquage électronique par apposition d'une étiquette autocollante ;
 
-- le nom et les coordonnées de la personne habilitée ayant implanté l'insert ainsi que son numéro d'identificateur.
+-le nom et les coordonnées de la personne habilitée ayant implanté l'insert ainsi que son numéro d'identificateur.
 
 Un exemplaire du document de marquage est remis au propriétaire ou au détenteur de l'animal, le deuxième est conservé par la personne habilitée pendant au moins dix ans au-delà de l'année civile en cours, et le troisième est transmis par la personne habilitée au gestionnaire du marquage électronique dans les huit jours suivant l'acte d'implantation.
 
-Dans le cas où le marquage est postérieur à l'édition du document d'identification défini à l'article R.* 653-42 du code rural, l'exemplaire destiné au propriétaire ou au détenteur de l'animal est remplacé par la mention du numéro de marquage électronique dans le document d'identification de l'animal.
+Dans le cas où le marquage est postérieur à l'édition du document d'identification défini à l'article R. * 653-42 du code rural, l'exemplaire destiné au propriétaire ou au détenteur de l'animal est remplacé par la mention du numéro de marquage électronique dans le document d'identification de l'animal.
 
 Dans ce cas, la personne habilitée, après avoir indiqué le numéro de marquage électronique, signe et atteste son nom et sa qualité.
 
-Dans le cas où le marquage est antérieur à l'édition du document d'identification défini à l'article R.* 653-42 du code rural, toute personne habilitée peut, lors d'un contrôle d'identité de l'animal incluant la lecture du transpondeur électronique, remplacer l'exemplaire destiné au propriétaire ou au détenteur de l'animal par la mention du numéro de marquage électronique dans le document d'identification de l'animal.
+Dans le cas où le marquage est antérieur à l'édition du document d'identification défini à l'article R. * 653-42 du code rural, toute personne habilitée peut, lors d'un contrôle d'identité de l'animal incluant la lecture du transpondeur électronique, remplacer l'exemplaire destiné au propriétaire ou au détenteur de l'animal par la mention du numéro de marquage électronique dans le document d'identification de l'animal.
 
 Dans ce cas, la personne habilitée, après avoir indiqué le numéro de marquage électronique, signe et atteste son nom et sa qualité.
