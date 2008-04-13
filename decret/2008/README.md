@@ -125,6 +125,7 @@
 - [Décret n°2008-242 du 10 mars 2008 (JUSC0803953D)](decret-n2008-242-du-10-mars-2008-jusc0803953d)
 - [Décret n°2008-245 du 10 mars 2008 (BCFR0804879D)](decret-n2008-245-du-10-mars-2008-bcfr0804879d)
 - [Décret n°2008-31 du 10 janvier 2008 (PRMX0800767D)](decret-n2008-31-du-10-janvier-2008-prmx0800767d)
+- [Décret n°2008-333 du 10 avril 2008 (ESRX0800842D)](decret-n2008-333-du-10-avril-2008-esrx0800842d)
 - [Décret n°2008-39 du 10 janvier 2008 (AGRF0771417D)](decret-n2008-39-du-10-janvier-2008-agrf0771417d)
 - [Décret n°2007-1735 du 11 décembre 2007 (DEVO0751165D)](decret-n2007-1735-du-11-decembre-2007-devo0751165d)
 - [Décret n°2007-1742 du 11 décembre 2007 (BCFB0765657D)](decret-n2007-1742-du-11-decembre-2007-bcfb0765657d)

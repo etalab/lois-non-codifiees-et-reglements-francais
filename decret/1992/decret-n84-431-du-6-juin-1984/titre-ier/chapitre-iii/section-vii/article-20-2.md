@@ -1,0 +1,3 @@
+# Article 20-2
+
+Les enseignants-chercheurs titulaires et stagiaires de nationalité étrangère qui accomplissent les obligations de service national de l'Etat dont ils sont ressortissants sont placés, sur leur demande, en position de disponibilité. Les dispositions de l'article 20 ci-dessus sont applicables en ce qui concerne leur remplacement. Celles du b de l'article 44 du décret n° 85-986 du 16 septembre 1985 relatif au régime particulier de certaines positions des fonctionnaires et à certaines modalités de cessation définitive de fonctions ne sont pas applicables à la disponibilité prévue au présent article.

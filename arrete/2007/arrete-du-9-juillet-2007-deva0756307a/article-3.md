@@ -29,3 +29,7 @@ Paris-Djerba ;
 Paris-Monastir ;
 
 Paris-Tozeur.
+
+Jusqu'au 15 mai 2008 :
+
+Maroc : Paris-Marrakech.
