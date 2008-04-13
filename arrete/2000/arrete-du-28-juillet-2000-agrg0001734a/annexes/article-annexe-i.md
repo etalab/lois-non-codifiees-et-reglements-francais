@@ -144,19 +144,13 @@ Chapitre III : Conservation et transport des échantillons.
 
 1. Conservation.
 
-Les échantillons sont refroidis immédiatement après le prélèvement et jusqu'au moment de l'analyse à une température comprise entre 0 et + 4 °C. Si la température sort de ces limites, les échantillons ne devront pas être analysés ; il est alors nécessaire de refaire un prélèvement. En règle générale, l'analyse doit intervenir au plus tard le lendemain du prélèvement.
+Les échantillons sont refroidis immédiatement après le prélèvement et jusqu'au moment de l'analyse à une température comprise entre 0 et 4 °C. L'analyse doit être mise en œuvre au plus tard le lendemain du prélèvement. Toutefois, l'analyse peut être effectuée le surlendemain du prélèvement dans les deux cas suivants :
 
-Toutefois, l'analyse pourra être effectuée le surlendemain du jour de prélèvement si celui-ci est réalisé le samedi ou veille de jour férié. Dans ce cas, pour l'appréciation de la qualité bactériologique ou, de manière générale, des critères intervenant dans le paiement du lait et susceptibles d'être modifiés par l'allongement du délai entre le prélèvement et l'analyse, les échantillons devront impérativement être conservés dans la glace fondante ou tout système permettant leur maintien à 0 °C et ne risquant pas d'entraîner leur congélation.
+- le prélèvement est réalisé le samedi, le dimanche ou une veille de jour férié ;
 
-Dans le cas de l'utilisation d'un échantillon unique pour la détermination de la qualité et de la composition, l'utilisation d'un conservateur est proscrite.
+- le prélèvement est réceptionné par le laboratoire le lendemain du jour où il a été effectué.
 
-Si un conservateur est utilisé dans le cas d'un échantillon uniquement destiné à la détermination de la composition, le lait, dès le prélèvement, doit être introduit aux quatre cinquièmes du flacon prévu à cet effet. Ce flacon, préparé par le laboratoire, doit contenir le produit de conservation. Celui-ci peut être utilisé sous forme solide ou en solution. L'utilisation en solution implique :
-
-- soit une évaporation de la phase liquide du conservateur préalablement à l'utilisation du flacon ;
-
-- soit une correction du résultat d'analyse pour tenir compte de l'effet de dilution de l'échantillon introduit par le conservateur en solution. Pour que cette correction puisse s'effectuer, la quantité de conservateur ajoutée doit être exactement mesurée et le volume connu et constant.
-
-Le produit employé est le 2 bromo, 2 nitro, 1,3 propandiol, la concentration finale de ce produit dans le lait doit être égale à 0,02 %. La durée de conservation des échantillons ne doit pas excéder six jours.
+L'utilisation de conservateur dans l'échantillon est interdite.
 
 2. Transport.
 
