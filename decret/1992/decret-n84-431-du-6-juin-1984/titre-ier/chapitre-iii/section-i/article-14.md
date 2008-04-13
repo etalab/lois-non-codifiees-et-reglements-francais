@@ -1,0 +1,21 @@
+# Article 14
+
+La délégation peut être prononcée pour une durée maximale de quatre ans. Toutefois, pour l'application de l'article 25-1 de la loi n° 82-610 du 15 juillet 1982 d'orientation et de programmation pour la recherche et le développement technologique de la France, elle peut être prononcée pour une durée de deux ans renouvelable deux fois. Elle est subordonnée à la conclusion entre l'établissement d'origine et l'institution, l'établissement, l'entreprise ou l'organisme d'accueil, d'une convention qui en fixe l'objet et en détermine les modalités.
+
+Ces modalités peuvent être les suivantes :
+
+a) L'enseignant chercheur délégué continue à assurer dans son établissement d'origine le service d'enseignement exigé par son statut ;
+
+b) L'enseignant chercheur délégué est remplacé par un ou plusieurs enseignants ou chercheurs qui assurent l'ensemble des services d'enseignement et de recherche du bénéficiaire ;
+
+e) Une contribution permettant d'assurer le service d'enseignement de l'intéressé est versée au profit de l'établissement d'origine ;
+
+d) Une contribution au moins équivalente à l'ensemble de la rémunération de l'intéressé et des charges sociales qui y sont afférentes est versée au profit de l'établissement d'origine.
+
+La convention peut prévoir l'utilisation successive de plusieurs des modalités ci-dessus énumérées au cours d'une même période de délégation.
+
+Dans le cas d'une délégation auprès d'une entreprise ou d'un organisme privé le recours à la modalité prévue au d ci-dessus est obligatoire au-delà des six premiers mois.
+
+Lorsque la délégation est prononcée pour créer une entreprise, la convention est passée avec l'agence nationale pour la valorisation de la recherche.
+
+La délégation prévue à la première phrase du premier alinéa du présent article peut être renouvelée dans les conditions prévues à cet alinéa.
