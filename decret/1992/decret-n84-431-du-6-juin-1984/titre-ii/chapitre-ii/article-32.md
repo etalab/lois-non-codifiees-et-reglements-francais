@@ -4,15 +4,17 @@ Les maîtres de conférences sont nommés en qualité de stagiaire par arrêté 
 
 A l'issue du stage prévu à l'alinéa précédent, les maîtres de conférences stagiaires sont soit titularisés, soit maintenus en qualité de stagiaires pour une période d'un an, soit réintégrés dans leur corps d'origine, soit licenciés s'ils n'ont pas la qualité de fonctionnaire.
 
-Le président ou le directeur de l'établissement transmet l'avis du directeur de l'unité de formation et de recherche, ou celui du directeur de l'institut ou de l'école faisant partie de l'université, à la commission de spécialistes qui formule une proposition. La commission de spécialistes se prononce d'abord sur la titularisation puis, le cas échéant, sur la prolongation du stage.
+Le président ou le directeur de l'établissement transmet l'avis du conseil scientifique ou de l'organe en tenant lieu siégeant en formation restreinte aux enseignants-chercheurs.
 
-En cas de proposition défavorable de la commission de spécialistes, le maître de conférences stagiaire peut, dans un délai d'un mois à compter de la date à laquelle il en a reçu notification, saisir le conseil d'administration siégeant en formation restreinte aux enseignants-chercheurs d'un rang au moins égal au sien.
+Dans les instituts ou écoles faisant partie d'une université au sens de l'article L. 713-9 du code de l'éducation, la proposition du président ou du directeur relative à la titularisation doit recueillir l'avis du directeur de cet institut ou école. Cet avis est transmis au président ou au directeur dans un délai de quinze jours suivant sa demande.
 
-Le conseil d'administration désigne en son sein deux rapporteurs, l'un sur les activités d'enseignement, l'autre sur les activités de recherche, et sollicite l'avis du conseil des études et de la vie universitaire siégeant en formation restreinte aux enseignants-chercheurs d'un rang au moins égal à celui de l'intéressé. Il entend ce dernier sur sa demande.
+L'avis défavorable du conseil scientifique ou de l'organe en tenant lieu est communiqué dans les huit jours de son adoption au maître de conférences stagiaire qui peut, dans un délai d'un mois à compter de la date à laquelle il en a reçu notification, saisir le conseil d'administration siégeant en formation restreinte aux enseignants-chercheurs d'un rang au moins égal au sien. Le conseil d'administration entend l'intéressé à sa demande.
 
-La proposition du conseil d'administration se substitue à celle de la commission de spécialistes. Toute proposition défavorable fait l'objet d'un avis motivé.
+L'avis du conseil d'administration ainsi saisi se substitue à celui du conseil scientifique ou de l'organe en tenant lieu.
 
-Les décisions sont prononcées par arrêté du ministre chargé de l'enseignement supérieur, conformément à la proposition, selon le cas, de la commission de spécialistes ou du conseil d'administration.
+Tout avis défavorable est motivé.
+
+Les décisions sont prononcées par arrêté du ministre chargé de l'enseignement supérieur conformément à l'avis, selon le cas, du conseil scientifique ou de l'organe en tenant lieu, ou, s'il a été saisi, du conseil d'administration, instances siégeant, dans tous les cas, en formation restreinte aux enseignants-chercheurs.
 
 Lors de la titularisation, la durée du stage prévu au premier alinéa du présent article est prise ne considération pour l'avancement. Il n'est pas tenu compte de la prologation de stage prévue au deuxième alinéa.
 
