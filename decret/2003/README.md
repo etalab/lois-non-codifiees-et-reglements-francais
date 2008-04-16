@@ -222,6 +222,7 @@
 - [Décret n°2003-1089 du 13 novembre 2003 (MENS0301817D)](decret-n2003-1089-du-13-novembre-2003-mens0301817d)
 - [Décret n°2003-227 du 13 mars 2003 (MENF0300002D)](decret-n2003-227-du-13-mars-2003-menf0300002d)
 - [Décret n°2003-228 du 13 mars 2003 (MENF0300004D)](decret-n2003-228-du-13-mars-2003-menf0300004d)
+- [Décret n°2003-229 du 13 mars 2003 (INDI0301060D)](decret-n2003-229-du-13-mars-2003-indi0301060d)
 - [Décret n°2003-498 du 13 juin 2003 (INTA0300111D)](decret-n2003-498-du-13-juin-2003-inta0300111d)
 - [Décret n°2003-499 du 13 juin 2003 (SOCS0322096D)](decret-n2003-499-du-13-juin-2003-socs0322096d)
 - [Décret n°2003-980 du 13 octobre 2003 (INDI0320441D)](decret-n2003-980-du-13-octobre-2003-indi0320441d)
