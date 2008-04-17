@@ -1,11 +1,11 @@
 # Article 30-1
 
-Les dispositions du titre IX bis introduites dans le décret cité à l'article précédent par le décret n° 95-178 du 20 février 1995 relatif à la cessation progressive d'activité des agents non titulaires de l'Etat s'appliquent à ces mêmes enseignants dès lors qu'ils bénéficient d'un contrat définitif et sous réserve des adaptations suivantes :
+Pour bénéficier de la cessation progressive d'activité, les personnels enseignants et de documentation mentionnés à l'article L. 813-8 du code rural doivent justifier de la durée de vingt-cinq années de services prévue par l'article 2 de l'ordonnance n° 82-297 du 31 mars 1982 portant modification de certaines dispositions du code des pensions civiles et militaires de retraite et relative à la cessation d'activité des fonctionnaires et des agents de l'Etat et des établissements publics de l'Etat à caractère administratif.
 
-1° Les vingt-cinq années de services effectifs exigibles doivent avoir été accomplies soit en qualité d'agent public, soit dans les établissements ou classes mentionnés au a du 3° de l'article 38. Les périodes de congé parental obtenues au cours des services susmentionnés sont, le cas échéant, prises en compte pour la détermination de la durée de vingt-cinq années ;
+Sont pris en compte pour le calcul de cette durée :
 
-2° Sauf dans le cas où les enseignants ont demandé leur maintien en fonction jusqu'à la fin de l'année scolaire, la date à laquelle ils doivent cesser leur activité est fixée au plus tard à la fin du mois au cours duquel ils atteignent l'âge prévu à l'article R. 351-2 du code de la sécurité sociale ;
+1° Les services accomplis en qualité d'agent public et les services accomplis dans les établissements ou classes mentionnés au a du 3° de l'article 38 ;
 
-3° A l'issue de leur période de cessation progressive d'activité et jusqu'à la liquidation de leur pension, les intéressés ne peuvent reprendre aucune activité rémunérée dans un établissement d'enseignement privé lié à l'Etat par contrat ;
+2° Les services susceptibles d'être retenus au titre de l'avantage temporaire de retraite, constitué par l'allocation temporaire de cessation d'activité instituée en faveur de certains enseignants de l'enseignement agricole privé par le décret n° 2006-941 du 28 juillet 2006 relatif aux conditions de cessation d'activité des personnels enseignants et de documentation mentionnés à l'article L. 813-8 du code rural.
 
-4° L'indemnité exceptionnelle de 30 p. 100 versée en sus de la rémunération correspondant au mi-temps, instituée par l'article 5-2, introduit dans l'ordonnance n° 82-297 du 31 mars 1982 par l'article 9 de la loi n° 94-628 du 25 juillet 1994, est assujettie à la seule cotisation prévue au deuxième alinéa de l'article L. 131-2 du code de la sécurité sociale, dont le taux est fixé par l'article 1er du décret n° 82-445 du 28 mai 1982.
+Le bénéfice du régime de la cessation progressive d'activité ne peut être accordé aux personnes mentionnées à l'alinéa précédent lorsqu'elles remplissent les conditions requises pour bénéficier d'une pension du régime général de la sécurité sociale ou des assurances sociales agricoles liquidée au taux normalement applicable à l'âge de soixante-cinq ans ou de l'allocation temporaire de cessation d'activité.
