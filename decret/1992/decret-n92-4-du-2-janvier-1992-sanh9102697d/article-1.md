@@ -20,4 +20,6 @@ Les personnels énumérés ci-après, fonctionnaires et stagiaires, en activité
 
 9° Sages-femmes cadres ;
 
-10° Cadres de santé et surveillants du grade provisoire prévu à l'article 19 du titre IV du décret n° 2001-1375 du 31 décembre 2001 portant statut particulier du corps des cadres de santé de la fonction publique hospitalière.
+10° Cadres de santé et surveillants du grade provisoire prévu à l'article 19 du titre IV du décret n° 2001-1375 du 31 décembre 2001 portant statut particulier du corps des cadres de santé de la fonction publique hospitalière ;
+
+11° Cadres socio-éducatifs.
