@@ -1,6 +1,6 @@
 # Article 14
 
-Le service de médecine professionnelle et préventive conseille l'autorité territoriale, les agents et leurs représentants en ce qui concerne :
+Le     service de médecine préventive  conseille l'autorité territoriale, les agents et leurs représentants en ce qui concerne :
 
 1° L'amélioration des conditions de vie et de travail dans les services ;
 

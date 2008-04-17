@@ -1,4 +1,4 @@
-# CHAPITRE I : Organisation des services de médecine professionnelle et préventive.
+# CHAPITRE I : Organisation des services de médecine préventive.
 
 - [Article 11](article-11.md)
 - [Article 11-1](article-11-1.md)

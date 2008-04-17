@@ -12,4 +12,4 @@ Toutefois le nombre des membres titulaires de chaque catégorie de représentant
 
 Chacun des membres du comité d'hygiène et de sécurité a un suppléant. Les représentants de la collectivité peuvent se suppléer l'un l'autre. Des représentants du personnel suppléants peuvent suppléer les titulaires élus sur la même liste.
 
-Le médecin du service de médecine professionnelle et préventive assiste de plein droit aux séances du comité avec voix consultative.
+Le médecin du     service de médecine préventive  assiste de plein droit aux séances du comité avec voix consultative.
