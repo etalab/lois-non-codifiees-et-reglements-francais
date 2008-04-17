@@ -1,0 +1,5 @@
+# Article 2
+
+Dans les conditions prévues à l'article 38 de la Constitution, le Gouvernement est autorisé à prendre par ordonnances, dans un délai de quatre mois à compter de la date de publication de la présente loi, d'une part, les dispositions nécessaires à la transposition de la directive 2004 / 23 / CE du Parlement européen et du Conseil du 31 mars 2004 relative à l'établissement de normes de qualité et de sécurité pour le don, l'obtention, le contrôle, la transformation, la conservation, le stockage et la distribution des tissus et cellules humains et, d'autre part, les mesures requises pour harmoniser et compléter les dispositions pénales relatives aux produits mentionnés aux articles L. 5141-1 et L. 5311-1 du code de la santé publique, pour instaurer, en tant que de besoin, des sanctions administratives dans les domaines qui n'en disposent pas et pour harmoniser leur mise en œuvre avec les sanctions pénales.
+
+Le projet de loi portant ratification de ces ordonnances est déposé devant le Parlement au plus tard le dernier jour du deuxième mois suivant la publication de ces ordonnances.
