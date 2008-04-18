@@ -1,8 +1,5 @@
 # Décret du 15 novembre 1999 relatif à l'appellation d'origine contrôlée "Reblochon" ou "Reblochon de Savoie"
 
-- [Article 11](article-11.md)
-- [Article 12](article-12.md)
-- [Article 13](article-13.md)
 - [Agrément.](agrement)
 - [Aire de production.](aire-de-production)
 - [Conditionnement.](conditionnement)
