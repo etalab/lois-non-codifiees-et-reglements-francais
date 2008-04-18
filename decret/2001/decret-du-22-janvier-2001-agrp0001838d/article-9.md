@@ -2,7 +2,7 @@
 
 Les fromages de Roquefort mis en vente entiers ou découpés doivent être conditionnés dans des emballages portant le nom de l'appellation d'origine contrôlée "Roquefort" inscrit en caractères de dimensions au moins égales aux deux tiers de celles des caractères les plus grands figurant sur l'étiquetage.
 
-L'apposition du logo comportant le sigle "INOQ", la mention "appellation d'origine contrôlée" et le nom de l'appellation sont obligatoires dans l'étiquetage des fromages bénéficiant de l'appellation d'origine contrôlée.
+La mention "appellation d'origine contrôlée" et le nom de l'appellation sont obligatoires dans l'étiquetage des fromages bénéficiant de l'appellation d'origine contrôlée.
 
 Ces indications sont également apposées sur les caisses ou autres emballages contenant ces fromages.
 

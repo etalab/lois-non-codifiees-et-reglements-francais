@@ -2,8 +2,6 @@
 
 Indépendamment des mentions réglementaires applicables à tous les fromages et de celles prévues à l'article 7 ci-après, l'étiquetage des fromages bénéficiant de l'appellation d'origine "Langres" doit comporter le nom de l'appellation d'origine accompagné de la mention "Appellation d'origine", le tout inscrit en caractères de dimensions au moins égales aux deux tiers de celles des caractères les plus grands figurant sur l'étiquetage.
 
-L'apposition du sigle C.N.A.O.F. est obligatoire sur tous les étiquetages des fromages bénéficiant de l'appellation d'origine contrôlée.
-
 L'emploi de tout qualificatif ou autre mention accompagnant ladite appellation d'origine est interdit dans l'étiquetage, la publicité, les factures et papiers de commerce, à l'exception :
 
 - des marques de commerce ou de fabrique particulières ;

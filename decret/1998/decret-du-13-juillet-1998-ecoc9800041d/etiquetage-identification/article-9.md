@@ -2,8 +2,6 @@
 
 Chaque fromage d'appellation d'origine contrôlée "Valençay" est commercialisé muni d'un étiquetage individuel devant comporter le nom de l'appellation d'origine, inscrit en caractères de dimensions au moins égales à 1,3 fois celles des caractères les plus grands figurant sur l'étiquetage, et la mention "Appellation d'origine contrôlée".
 
-L'apposition du logo comportant le sigle "INOQ", la mention "Appellation d'origine contrôlée" et le nom de l'appellation sont obligatoires dans l'étiquetage des fromages bénéficiant de l'appellation d'origine contrôlée.
-
 Le nom de "Valençay" suivi de la mention "Appellation d'origine contrôlée" doit obligatoirement apparaître sur les factures et papiers de commerce.
 
 En outre sur l'étiquetage, sur les factures et papiers de commerce, le qualificatif "petit", lorsqu'il s'agit de fromages obtenus à partir de moules de petit format tels que définis dans le règlement d'application précité, doit obligatoirement être mentionné.

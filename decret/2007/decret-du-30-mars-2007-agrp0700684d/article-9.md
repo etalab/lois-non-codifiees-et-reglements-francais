@@ -4,7 +4,7 @@ Indépendamment des mentions réglementaires applicables à tous les fromages, c
 
 Tout fromage vendu par un intermédiaire devra porter une étiquette individuelle.
 
-L'étiquette doit comporter le nom de l'appellation d'origine inscrit en caractères de dimensions au moins égales aux deux tiers de celles des caractères les plus grands figurant sur l'étiquette, ainsi que le logo INAO et la mention Appellation d'origine contrôlée. L'apposition du logo comportant le signe INAO, la mention Appellation d'origine contrôlée et le nom de l'appellation sont obligatoires dans l'étiquetage des fromages bénéficiant de l'appellation d'origine contrôlée.
+L'étiquette doit comporter le nom de l'appellation d'origine inscrit en caractères de dimensions au moins égales aux deux tiers de celles des caractères les plus grands figurant sur l'étiquette, ainsi que la mention " Appellation d'origine contrôlée ".
 
 Le nom de Crottin de Chavignol ou Chavignol suivi de la mention Appellation d'origine contrôlée doit obligatoirement apparaître sur les factures et papiers de commerce.
 

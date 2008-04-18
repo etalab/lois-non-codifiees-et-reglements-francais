@@ -177,6 +177,7 @@
 - [Décret n°2006-1397 du 17 novembre 2006 (INTB0600251D)](decret-n2006-1397-du-17-novembre-2006-intb0600251d)
 - [Décret n°2006-1401 du 17 novembre 2006 (MCCB0600836D)](decret-n2006-1401-du-17-novembre-2006-mccb0600836d)
 - [Décret n°2006-1405 du 17 novembre 2006 (JUSG0660043D)](decret-n2006-1405-du-17-novembre-2006-jusg0660043d)
+- [Décret du 17 mai 2006 (AGRP0502365D)](decret-du-17-mai-2006-agrp0502365d)
 - [Décret du 18 octobre 2006 (ECOC0600102D)](decret-du-18-octobre-2006-ecoc0600102d)
 - [Décret du 18 octobre 2006 (ECOC0600103D)](decret-du-18-octobre-2006-ecoc0600103d)
 - [Décret n°2006-1270 du 18 octobre 2006 (SOCK0611666D)](decret-n2006-1270-du-18-octobre-2006-sock0611666d)

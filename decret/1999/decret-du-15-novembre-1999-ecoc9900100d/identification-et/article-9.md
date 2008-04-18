@@ -2,10 +2,6 @@
 
 Indépendamment des mentions réglementaires applicables à tous les fromages et celles prévues à l'article 6 du présent décret, l'étiquetage des fromages bénéficiant de l'appellation d'origine contrôlée "Reblochon" ou "Reblochon de Savoie" doit comporter le nom de l'appellation d'origine contrôlée inscrit en caractères de dimensions au moins égales aux deux tiers de celles des caractères les plus grands figurant sur l'étiquetage.
 
-L'apposition du logo comportant le sigle "INOQ", la mention :
-
-"Appellation d'origine contrôlée" et le nom de l'appellation est obligatoire dans l'étiquetage des fromages bénéficiant de l'appellation d'origine contrôlée.
-
 L'emploi de tout qualificatif ou autre mention accompagnant ladite appellation est interdit dans l'étiquetage, la publicité, les factures et papiers de commerce, à l'exception :
 
 - des marques de commerce ou de fabrique particulière ;

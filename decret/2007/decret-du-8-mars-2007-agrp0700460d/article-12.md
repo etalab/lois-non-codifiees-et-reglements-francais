@@ -2,8 +2,6 @@
 
 Indépendamment des mentions réglementaires applicables à tous les fromages et de celles prévues à l'article 13 ci-après, l'étiquetage des fromages bénéficiant de l'appellation Cantal ou Fourme de Cantal comporte le nom de l'appellation et la mention jeune, entre-deux ou vieux, telle que définie à l'article 3 du présent décret. Le tout est inscrit en caractères de dimensions au moins égales aux deux tiers de celles des caractères les plus grands figurant sur l'étiquetage.
 
-L'apposition du logo comportant le sigle INAO, la mention Appellation d'origine contrôlée et le nom de l'appellation est obligatoire dans l'étiquetage des fromages bénéficiant de l'appellation d'origine contrôlée.
-
 L'emploi de tout qualitatif ou autre mention accompagnant ladite appellation d'origine est interdit dans l'étiquetage, la publicité, la communication, les factures ou papiers de commerce, à l'exception :
 
 a) Des marques de commerce ou de fabrique particulières ;

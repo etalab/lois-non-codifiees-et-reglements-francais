@@ -4,8 +4,6 @@ Indépendamment des mentions réglementaires applicables à tous les fromages et
 
 L'étiquetage peut être remplacé par une impression directe sur la croûte du fromage.
 
-L'apposition du logo comportant le sigle "INOQ", la mention "appellation d'origine contrôlée" et le nom de l'appellation est obligatoire dans l'étiquetage des fromages bénéficiant de l'appellation d'origine contrôlée. Si ce logo est apposé au moyen d'un tampon encreur, il doit figurer au minimum deux fois sur la circonférence de chaque fromage.
-
 L'emploi de la mention "fromage fermier" ou de toute autre indication laissant entendre une origine fermière du fromage et l'emploi de la mention "buron" sont autorisés dans l'étiquetage, la publicité, les factures ou papiers de commerce dans les conditions précisées dans le règlement d'application.
 
 L'identification du fromage est assurée lors du montage de la pièce :
