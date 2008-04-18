@@ -20,6 +20,8 @@ Zone réglementée :
 
 - département de l'Allier ;
 
+- département des Hautes-Alpes : cantons de Grave, du Monêtier-les-Bains, de Saint-Firmin ;
+
 - département de l'Ardèche : arrondissements de Tournon-sur-Rhône, de Privas et cantons de Burzet, de Coucouron, de Largentière, de Montpezat-sous-Bauzon, de Saint-Etienne-de-Lugdarès, de Thueyts, de Vallon-Pont-d'Arc ;
 
 - département des Ardennes ;
