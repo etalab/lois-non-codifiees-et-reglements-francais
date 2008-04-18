@@ -8,5 +8,7 @@
 - [LOI n° 2008-3 du 3 janvier 2008 (ECEX0768213L)](loi-n-2008-3-du-3-janvier-2008-ecex0768213l)
 - [LOI n° 2008-324 du 7 avril 2008 (DEVX0760788L)](loi-n-2008-324-du-7-avril-2008-devx0760788l)
 - [LOI n° 2008-337 du 15 avril 2008 (SJSX0755912L)](loi-n-2008-337-du-15-avril-2008-sjsx0755912l)
+- [LOI n° 2008-351 du 16 avril 2008 (MTSX0807748L)](loi-n-2008-351-du-16-avril-2008-mtsx0807748l)
+- [LOI n° 2008-352 du 16 avril 2008 (IOCX0802962L)](loi-n-2008-352-du-16-avril-2008-iocx0802962l)
 - [LOI n° 2008-67 du 21 janvier 2008 (MTSX0700051L)](loi-n-2008-67-du-21-janvier-2008-mtsx0700051l)
 - [LOI n° 2008-89 du 30 janvier 2008 (MTSX0760738L)](loi-n-2008-89-du-30-janvier-2008-mtsx0760738l)
