@@ -39,6 +39,8 @@ L'exploitant doit établir et tenir à jour un dossier comportant les documents 
 
 - le récépissé de déclaration et les prescriptions générales ;
 
+- un registre à jour des effectifs d'animaux présents dans l'élevage, constitué, le cas échéant, du registre d'élevage tel que prévu par le code rural ;
+
 - les arrêtés préfectoraux relatifs à l'installation concernée, pris en application de la législation relative aux installations classées pour la protection de l'environnement, s'il y en a ;
 
 - les documents prévus aux 2.1.3.b, 4.1, 5.6.2, 5.8.2, 5.8.5, 5.9.1 et 5.9.2 de la présente annexe.
@@ -60,6 +62,14 @@ Lorsqu'une installation cesse l'activité au titre de laquelle elle était décl
 _1.8. Dispositions particulières_
 
 Dans les zones vulnérables, délimitées en application du décret n<sup>o</sup> 93-1038 du 27 août 1993, les dispositions fixées par les arrêtés relatifs aux programmes d'action, pris en application du décret n<sup>o</sup> 2001-34 du 10 janvier 2001, sont applicables à l'installation. En particulier, l'exploitant devra s'assurer de la possibilité de s'installer ou de s'étendre conformément à ces programmes ou à d'autres textes législatifs ou réglementaires.
+
+_1.9. Contrôles périodiques_
+
+Les installations classées au titre des rubriques 2101-1 (b) et 2111-2 sont soumises à des contrôles périodiques par des organismes agréés dans les conditions définies par les articles R. 512-55 à R. 512-60 du code de l'environnement.
+
+Ces contrôles ont pour objet de vérifier la conformité de l'installation aux prescriptions listées à l'annexe IV du présent arrêté, modifiées le cas échéant par arrêté préfectoral, lorsqu'elles lui sont applicables.
+
+L'exploitant conserve le rapport de visite que l'organisme agréé lui adresse dans le "dossier installation classée" prévu au point 1.4. Si le rapport fait apparaître des non-conformités aux dispositions faisant l'objet du contrôle, l'exploitant met en œuvre les actions correctives nécessaires pour y remédier. Ces actions ainsi que leur date de mise en œuvre sont formalisées et conservées dans le dossier susmentionné.
 
 **2. Implantation. - Aménagement**
 
@@ -545,6 +555,7 @@ Les bâtiments sont correctement ventilés.
 L'exploitant prend des dispositions pour atténuer les émissions d'odeurs, de gaz ou de poussières susceptibles de créer des nuisances de voisinage.
 
 **7. Déchets**
+
 _7.1. Déchets_
 
 Les déchets de l'exploitation, et notamment les emballages et les déchets de soins vétérinaires, sont stockés dans des conditions ne présentant pas de risques (prévention des envols, des infiltrations dans le sol et des odeurs, etc.) pour les populations avoisinantes humaines et animales et l'environnement.
@@ -572,13 +583,11 @@ Le niveau sonore des bruits en provenance de l'élevage ne doit pas compromettre
 Pour la période allant de 6 heures à 22 heures :
 
 <table>
-<thead>
+<tbody>
 <tr>
 <th>DURÉE CUMULÉE<br/>d'apparition du bruit particulier T</th>
 <th>ÉMERGENCE MAXIMALE<br/>admissible en db(A)</th>
 </tr>
-</thead>
-<tbody>
 <tr>
 <td align="center">T &lt; 20 minutes</td>
 <td align="center">10</td>
