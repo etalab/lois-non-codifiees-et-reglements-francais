@@ -8,9 +8,7 @@ La direction de l'administration générale, du personnel et du budget comprend 
 
 - la sous-direction des systèmes d'information et des télécommunications ;
 
-- la sous-direction de l'administration des services centraux ;
-
-- la sous-direction de la modernisation des services ;
+- la sous-direction des services généraux et de l'immobilier ;
 
 - la division juridique et contentieuse.
 

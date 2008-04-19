@@ -19,3 +19,5 @@ Elle est le correspondant du ministère des affaires étrangères pour les requ�
 Elle prépare les textes portant délégation de signature et participe à l'élaboration de ceux qui concernent l'organisation des directions et services du ministère ainsi que des établissements et organismes qui relèvent de l'administration sanitaire et sociale.
 
 Elle assure l'information sur l'actualité juridique, notamment les principales décisions de jurisprudence, et participe, en liaison avec le service des ressources humaines, à l'organisation de la formation des personnels en matière juridique.
+
+Elle est chargée de la qualité de la réglementation ainsi que du suivi de la mesure et de la simplification des normes.

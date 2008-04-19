@@ -8,11 +8,9 @@ Elle établit ou diffuse les normes et référentiels budgétaires et comptables
 
 Elle pilote la politique d'achat de l'administration sanitaire et sociale et veille à l'application de la réglementation en matière d'achat public par son rôle d'assistance et d'information.
 
-Elle assure pour le compte du directeur de l'administration générale, du personnel et du budget la coordination des travaux relatifs à la conception et à la gestion du programme « conduite et soutien des politiques sanitaires et sociales ». Elle est l'ordonnateur principal délégué pour les marchés formalisés de ce programme.
+Elle assure pour le compte du directeur de l'administration générale, du personnel et du budget la coordination des travaux relatifs à la conception et à la gestion du programme  conduite et soutien des politiques sanitaires et sociales ». Elle est l'ordonnateur principal délégué pour les marchés formalisés de ce programme.
 
 Elle répartit les crédits de fonctionnement des services déconcentrés, veille à l'optimisation de leurs ressources.
-
-Elle concourt, avec la sous-direction de l'administration des services centraux, à la mise en oeuvre de la politique patrimoniale de l'administration sanitaire et sociale.
 
 Elle assure la maîtrise d'ouvrage des systèmes d'information financière interne et participe aux travaux interministériels de définition du nouveau système d'information financier de l'Etat.
 

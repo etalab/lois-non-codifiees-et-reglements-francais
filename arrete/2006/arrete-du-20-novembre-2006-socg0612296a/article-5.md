@@ -1,6 +1,6 @@
 # Article 5
 
-La sous-direction de l'administration des services centraux comprend :
+La sous-direction des services généraux et de l'immobilier comprend :
 
 a) La division des affaires financières et de la commande publique comportant :
 
