@@ -1,6 +1,6 @@
 # Article 4
 
-Tout organisme agréé en application de l'article 15 du décret du 7 mai 2007 susvisé établit chaque année, pour chaque type de fluide énuméré à l'annexe I du décret du 7 mai 2007 susvisé, une déclaration consolidée des quantités de fluides frigorigènes que les opérateurs auxquels il a délivré une attestation de capacité ont déclaré :
+Tout organisme agréé en application de l'article R. 543-108 du code de l'environnement établit chaque année, pour chaque type de fluide énuméré à l'article R. 543-75 du code de l'environnement, une déclaration consolidée des quantités de fluides frigorigènes que les opérateurs auxquels il a délivré une attestation de capacité ont déclaré :
 
 ― avoir acheté ;
 
