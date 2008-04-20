@@ -230,6 +230,7 @@
 - [Décret n°2008-270 du 18 mars 2008 (AGRS0800733D)](decret-n2008-270-du-18-mars-2008-agrs0800733d)
 - [Décret n°2008-271 du 18 mars 2008 (SJSG0773208D)](decret-n2008-271-du-18-mars-2008-sjsg0773208d)
 - [Décret n°2008-272 du 18 mars 2008 (BCFP0800358D)](decret-n2008-272-du-18-mars-2008-bcfp0800358d)
+- [Décret n°2008-371 du 18 avril 2008 (BCFX0807962D)](decret-n2008-371-du-18-avril-2008-bcfx0807962d)
 - [Décret n°2008-56 du 18 janvier 2008 (PRMX0801572D)](decret-n2008-56-du-18-janvier-2008-prmx0801572d)
 - [Décret n°2007-1120 du 19 juillet 2007 (AGRF0759610D)](decret-n2007-1120-du-19-juillet-2007-agrf0759610d)
 - [Décret n°2007-1123 du 19 juillet 2007 (AGRF0759669D)](decret-n2007-1123-du-19-juillet-2007-agrf0759669d)
