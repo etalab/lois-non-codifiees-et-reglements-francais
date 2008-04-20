@@ -193,7 +193,6 @@
 - [Décret n°97-1139 du 11 décembre 1997 (ECOP9700473D)](decret-n97-1139-du-11-decembre-1997-ecop9700473d)
 - [Décret n°97-1140 du 11 décembre 1997 (ECOP9700474D)](decret-n97-1140-du-11-decembre-1997-ecop9700474d)
 - [Décret n°97-1141 du 11 décembre 1997 (ECOB9760046D)](decret-n97-1141-du-11-decembre-1997-ecob9760046d)
-- [Décret n°97-213 du 11 mars 1997 (TASX9700045D)](decret-n97-213-du-11-mars-1997-tasx9700045d)
 - [Décret n°97-219 du 11 mars 1997 (TASG9710201D)](decret-n97-219-du-11-mars-1997-tasg9710201d)
 - [Décret n°97-223 du 11 mars 1997 (INTX9700020D)](decret-n97-223-du-11-mars-1997-intx9700020d)
 - [Décret n°97-228 du 11 mars 1997 (PRMX9701935D)](decret-n97-228-du-11-mars-1997-prmx9701935d)
