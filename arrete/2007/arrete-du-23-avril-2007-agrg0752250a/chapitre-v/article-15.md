@@ -8,4 +8,4 @@ Lorsqu'un exploitant du secteur de l'alimentation animale représente plusieurs 
 
 Les dispositions du présent article s'appliquent sans préjudice des obligations auxquelles l'exploitant du secteur de l'alimentation animale visé au premier alinéa peut être soumis en tant qu'établissement au titre du présent arrêté.
 
-La liste des établissements autorisés des pays tiers et de leurs représentants français est rendue publique par le ministère en charge de l'agriculture (direction générale de l'alimentation). Les modifications, suspensions et retraits d'autorisation sont également rendus publics.
+La liste des établissements autorisés des pays tiers est rendue publique par le ministère en charge de l'agriculture (direction générale de l'alimentation). Les modifications, suspensions et retraits d'autorisation sont également rendus publics.
