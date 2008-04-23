@@ -1,115 +1,115 @@
 # Article Annexe
 
-**LISTE DES AUTORITES**
+**LISTE DES AUTORITÉS BÉNÉFICIANT
 
-**BENEFICIANT D'UN LOGEMENT DE REPRESENTATION**
+D'UN LOGEMENT DE REPRÉSENTATION**
 
-1. Chef d'état-major des armées.
+Chef d'état-major des armées.
 
-2. Délégué général pour l'armement.
+Délégué général pour l'armement.
 
-3. Chef d'état-major de l'armée de terre.
+Secrétaire général pour l'administration.
 
-4. Chef d'état-major de la marine.
+Chef d'état-major de l'armée de terre.
 
-5. Chef d'état-major de l'armée de l'air.
+Chef d'état-major de la marine.
 
-6. Directeur général de la gendarmerie nationale.
+Chef d'état-major de l'armée de l'air.
 
-7. Inspecteur général des armées - armée de terre.
+Directeur général de la gendarmerie nationale.
 
-8. Inspecteur général des armées - marine.
+Inspecteur général des armées, armée de terre.
 
-9. Inspecteur général des armées - armée de l'air.
+Inspecteur général des armées, marine.
 
-10. Inspecteur général des armées - armement.
+Inspecteur général des armées, armée de l'air.
 
-11. Général commandant la région terre Ile-de-France, officier général de zone de défense, gouverneur militaire de Paris.
+Inspecteur général des armées, armement.
 
-12. Major général de l'état-major des armées.
+Général commandant la région terre Ile-de-France, officier général de zone de défense, gouverneur militaire de Paris.
 
-13. Major général de l'armée de terre.
+Major général des armées.
 
-14. Major général de la marine.
+Major général de l'armée de terre.
 
-15. Major général de l'armée de l'air.
+Major général de la marine.
 
-16. Officier général directeur du Centre des hautes études militaires et de l'enseignement militaire supérieur.
+Major général de l'armée de l'air.
 
-17. Chef d'état-major interarmées de planification opérationnelle.
+Officier général, directeur du Centre des hautes études militaires et de l'enseignement militaire supérieur.
 
-18. Général commandant la région terre sud-est, officier général de zone de défense, gouverneur militaire de Lyon.
+Général, sous-chef relations internationales de l'état-major des armées.
 
-19. Général commandant la région terre nord-est, officier général de zone de défense, gouverneur militaire de Metz.
+Général commandant la région terre Sud-Est, officier général de zone de défense, gouverneur militaire de Lyon.
 
-20. Général commandant la région terre nord-ouest, officier général de zone de défense.
+Général commandant la région terre Nord-Est, officier général de zone de défense, gouverneur militaire de Metz.
 
-21. Général commandant la région terre sud-ouest, officier général de zone de défense.
+Général commandant la région terre Nord-Ouest, officier général de zone de défense.
 
-22. Amiral commandant la région maritime Atlantique.
+Général commandant la région terre Sud-Ouest, officier général de zone de défense.
 
-23. Amiral commandant l'arrondissement maritime de Cherbourg.
+Amiral commandant la région maritime Atlantique.
 
-24. Amiral commandant la région maritime Méditerranée.
+Amiral commandant la région maritime de Cherbourg.
 
-25. Général commandant la région aérienne nord.
+Amiral commandant la région maritime Méditerranée.
 
-26. Général commandant la région aérienne sud.
+Officier général de zone de défense de Lille, gouverneur militaire de Lille.
 
-27. Officier général de zone de défense de Lille, gouverneur militaire de Lille.
+Officier général de zone de défense de Marseille, gouverneur militaire de Marseille.
 
-28. Officier général de zone de défense de Marseille, gouverneur militaire de Marseille.
+Général commandant la force d'action terrestre.
 
-29. Général commandant la force d'action terrestre.
+Général commandant la force logistique terrestre.
 
-30. Général commandant la force logistique terrestre.
+Général commandant les organismes de formation de l'armée de terre.
 
-31. Général commandant la doctrine et l'enseignement militaire supérieur de l'armée de terre.
+Amiral commandant la force d'action navale.
 
-32. Général commandant les organismes de formation de l'armée de terre.
+Général commandant de la défense aérienne et des opérations aériennes.
 
-33. Amiral commandant la force d'action navale.
+Général commandant les forces aériennes.
 
-34. Directeur du renseignement militaire.
+Général commandant le soutien des forces aériennes.
 
-35. Directeur du collège interarmées de défense.
+Directeur du renseignement militaire.
 
-36. Général commandant les écoles de l'armée de l'air.
+Directeur du collège interarmées de défense.
 
-37. Commandant supérieur des forces armées aux Antilles.
+Commandant supérieur des forces armées aux Antilles.
 
-38. Commandant supérieur des forces armées en Guyane.
+Commandant supérieur des forces armées en Guyane.
 
-39. Commandant supérieur des forces armées dans la zone sud de l'océan Indien.
+Commandant supérieur des forces armées dans la zone Sud de l'océan Indien.
 
-40. Commandant supérieur des forces armées en Nouvelle-Calédonie.
+Commandant supérieur des forces armées en Nouvelle-Calédonie.
 
-41. Commandant supérieur des forces armées en Polynésie.
+Commandant supérieur des forces armées en Polynésie.
 
-42. Général commandant l'état-major des forces de Marseille.
+Général commandant l'état-major des forces de Marseille.
 
-43. Général commandant l'état-major des forces de Besançon.
+Général commandant l'état-major des forces de Besançon.
 
-44. Général commandant l'état-major des forces de Nantes.
+Général commandant l'état-major des forces de Nantes.
 
-45. Général commandant l'état-major des forces de Limoges.
+Général commandant l'état-major des forces de Limoges.
 
-46. Général commandant la brigade du génie, gouverneur militaire de Strasbourg.
+Général commandant la brigade du génie, gouverneur militaire de Strasbourg.
 
-47. Général commandant la 4e brigade aéromobile, gouverneur militaire de Nancy.
+Général commandant la 4e brigade aéromobile, gouverneur militaire de Nancy.
 
-48. Général commandant la 1re brigade mécanisée.
+Général commandant la 1re brigade mécanisée.
 
-49. Général commandant la 11e brigade parachutiste.
+Général commandant la 11e brigade parachutiste.
 
-50. Général commandant la 27e brigade d'infanterie de montagne.
+Général commandant la 27e brigade d'infanterie de montagne.
 
-51. Général commandant la 6e brigade légère blindée.
+Général commandant la 6e brigade légère blindée.
 
-52. Général commandant la 2e brigade blindée.
+Général commandant la 2e brigade blindée.
 
-53. Général commandant les forces françaises stationnées à Djibouti ;
+Général commandant les forces françaises stationnées à Djibouti.
 
-54. Général commandant les forces françaises au Gabon ;
+Général commandant les forces françaises au Gabon.
 
-55. Général commandant les forces françaises du Cap-Vert.
+Général commandant les forces françaises du Cap-Vert.
