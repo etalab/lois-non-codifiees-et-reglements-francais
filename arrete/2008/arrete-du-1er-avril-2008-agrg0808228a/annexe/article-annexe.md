@@ -12,7 +12,7 @@ Zone de protection :
 
 **Zone B (sérotype 8)**
 
-Zone réglementée :
+Zone de protection :
 
 - département de l'Ain ;
 
@@ -56,7 +56,7 @@ Zone réglementée :
 
 - département de l'Eure ;
 
-- département d'Eure-et-Loir ;
+- déppartement d'Eure-et-Loir ;
 
 - département de la Gironde : cantons d'Auros, de Cadillac, de Castillon-la-Bataille, de Grignols, de Langon, de Monségur, de Pellegrue, de Podensac, de Pujols, de La Réole, de Sainte-Foy-la-Grande, de Saint-Macaire, de Sauveterre-de-Guyenne, de Targon ;
 
@@ -146,7 +146,7 @@ Zone réglementée :
 
 - département du Tarn : cantons de Cordes-sur-Ciel, de Monestiés, de Pampelonne ;
 
-- département de Tarn-et-Garonne : cantons de Caussade, de Caylus, de Montpezat-de-Quercy, de Saint-Antonin-Noble-Val, de Montaigu-de-Quercy ;
+- département de Tarn-et-Garonne ;
 
 - département de la Vendée ;
 
@@ -184,15 +184,15 @@ Zone de protection :
 
 **Zone D (sérotype 1)**
 
-Zone réglementée :
+Zone de protection :
 
 - département du Gers ;
 
-- département des Landes : arrondissement de Dax et cantons de Geaune, d'Hagetmau, de Labrit, de Mimizan, de Mont-de-Marsan, de Mont-de-Marsan-Nord, de Mont-de-Marsan-Sud, de Morcenx, de Mugron, de Parentis-en-Born, de Sabres, de Saint-Sever, de Tartas, de Tartas-Est, de Tartas-Ouest, d'Aire-sur-l'Adour, de Gabarret, de Grenade-sur-l'Adour, de Villeneuve-de-Marsan ;
+- département des Landes : arrondissement de Dax et cantons de Geaune, de Hagetmau, de Labrit, de Mimizan, de Mont-de-Marsan, de Mont-de-Marsan-Nord, de Mont-de-Marsan-Sud, de Morcenx, de Mugron, de Parentis-en-Born, de Sabres, de Saint-Sever, de Tartas, de Tartas-Est, de Tartas-Ouest, d'Aire-sur-l'Adour, de Gabarret, de Grenade-sur-l'Adour, de Villeneuve-de-Marsan ;
 
 - département des Pyrénées-Atlantiques ;
 
-- département des Hautes-Pyrénées.
+- département des Hautes-Pyrénées**.**
 
 **Zone E (sérotypes 1 et 8)**
 
