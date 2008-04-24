@@ -266,6 +266,7 @@
 - [Décret n°2001-856 du 18 septembre 2001 (ECOP0100519D)](decret-n2001-856-du-18-septembre-2001-ecop0100519d)
 - [Décret n°2001-857 du 18 septembre 2001 (ECOP0100520D)](decret-n2001-857-du-18-septembre-2001-ecop0100520d)
 - [Décret n°2001-861 du 18 septembre 2001 (EQUG0100876D)](decret-n2001-861-du-18-septembre-2001-equg0100876d)
+- [Décret n°2001-873 du 18 septembre 2001 (ATEG0190059D)](decret-n2001-873-du-18-septembre-2001-ateg0190059d)
 - [Décret n°2001-948 du 18 octobre 2001 (INTA0100269D)](decret-n2001-948-du-18-octobre-2001-inta0100269d)
 - [Décret n°2001-952 du 18 octobre 2001 (MENX0100108D)](decret-n2001-952-du-18-octobre-2001-menx0100108d)
 - [Décret n°2001-965 du 18 octobre 2001 (ECOD0120000D)](decret-n2001-965-du-18-octobre-2001-ecod0120000d)

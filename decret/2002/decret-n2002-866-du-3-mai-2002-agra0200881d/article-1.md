@@ -4,7 +4,7 @@ Une nouvelle bonification indiciaire, prise en compte et soumise à cotisation p
 
 I.-A l'administration centrale du ministère de l'agriculture et de la pêche :
 
-a) Aux titulaires d'emplois supérieurs à la décision du Gouvernement, aux titulaires d'emplois de direction nommés dans les conditions prévues par le décret du 19 septembre 1955 susvisé ou aux titulaires d'emplois de directeur de projet inscrits au budget du ministère de l'agriculture et de la pêche exerçant l'une des fonctions en administration centrale figurant en annexe au présent décret ;
+a) Aux titulaires d'emplois supérieurs à la décision du Gouvernement, aux titulaires d'emplois de direction nommés dans les conditions prévues par le décret du 19 septembre 1955 susvisé ou aux titulaires d'emplois d'expert de haut niveau ou directeur de projet inscrits au budget du ministère de l'agriculture et de la pêche exerçant l'une des fonctions en administration centrale figurant en annexe au présent décret ;
 
 b) Aux personnels responsables d'un département ou d'une mission directement rattaché au secrétaire général, à un directeur général ou à un directeur, exerçant une des fonctions en administration centrale figurant en annexe du présent décret ;
 

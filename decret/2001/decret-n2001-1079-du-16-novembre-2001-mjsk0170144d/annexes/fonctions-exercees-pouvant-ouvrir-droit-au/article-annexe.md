@@ -1,6 +1,6 @@
 # Article ANNEXE
 
-A. - Fonctions exercées en administration centrale
+A.-Fonctions exercées en administration centrale
 
 1° Directeur d'administration centrale.
 
@@ -12,11 +12,11 @@ A. - Fonctions exercées en administration centrale
 
 5° Sous-directeur en charge d'une sous-direction d'administration centrale.
 
-6° Directeur de projet.
+6° Expert de haut niveau ou directeur de projet.
 
 7° Adjoint au délégué à l'emploi et aux formations.
 
-B. - Fonctions exercées dans les services déconcentrés
+B.-Fonctions exercées dans les services déconcentrés
 
 1° Directeur régional de la jeunesse, des sports et des loisirs.
 

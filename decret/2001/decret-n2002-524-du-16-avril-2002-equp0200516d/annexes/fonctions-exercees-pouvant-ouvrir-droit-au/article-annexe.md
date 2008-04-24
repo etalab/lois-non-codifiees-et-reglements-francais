@@ -1,6 +1,6 @@
 # Article ANNEXE
 
-A. - Fonctions exercées en administration centrale
+A.-Fonctions exercées en administration centrale
 
 1° Vice-président du conseil général des ponts et chaussées.
 
@@ -12,7 +12,7 @@ A. - Fonctions exercées en administration centrale
 
 5° Chef de service ou directeur adjoint, délégué interministériel adjoint.
 
-6° Directeur de projet.
+6° Expert de haut niveau ou directeur de projet.
 
 7° Sous-directeur.
 
@@ -20,7 +20,7 @@ A. - Fonctions exercées en administration centrale
 
 9° Secrétaire général.
 
-B. - Fonctions exercées dans un service déconcentré
+B.-Fonctions exercées dans un service déconcentré
 
 1° Directeur régional de l'équipement.
 
@@ -32,7 +32,7 @@ B. - Fonctions exercées dans un service déconcentré
 
 5° Directeur de centre d'études techniques de l'équipement.
 
-6° Contrôleur général ou directeur régional du travail des transports des régions Ile-de-France, Provence-Alpes-Côte d'Azur, Nord - Pas-de-Calais, Rhône-Alpes et Aquitaine.
+6° Contrôleur général ou directeur régional du travail des transports des régions Ile-de-France, Provence-Alpes-Côte d'Azur, Nord-Pas-de-Calais, Rhône-Alpes et Aquitaine.
 
 7° Directeur régional des affaires maritimes.
 
@@ -40,7 +40,7 @@ B. - Fonctions exercées dans un service déconcentré
 
 9° Directeur interdépartemental des routes.
 
-C. - Fonctions exercées dans un service à compétence
+C.-Fonctions exercées dans un service à compétence
 
 nationale ou dans un service technique central
 

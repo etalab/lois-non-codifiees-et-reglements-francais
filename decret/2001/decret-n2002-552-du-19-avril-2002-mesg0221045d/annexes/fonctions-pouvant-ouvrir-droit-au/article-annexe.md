@@ -1,6 +1,6 @@
 # Article ANNEXE
 
-A. - Fonctions exercées en administration centrale
+A.-Fonctions exercées en administration centrale
 
 1° Secrétaire général des ministères chargés des affaires sociales ;
 
@@ -12,13 +12,13 @@ A. - Fonctions exercées en administration centrale
 
 5° Chef de service ou sous-directeur en charge d'un service ou d'une sous-direction d'administration centrale ou d'un service à compétence nationale ;
 
-6° Directeur de projet ;
+6° Expert de haut niveau ou directeur de projet ;
 
 7° Chef de la mission centrale d'appui et de coordination des services déconcentrés ;
 
 8° Président de la mission interministérielle aux rapatriés.
 
-B. - Fonctions exercées en service déconcentré
+B.-Fonctions exercées en service déconcentré
 
 1° Directeur régional des affaires sanitaires et sociales.
 

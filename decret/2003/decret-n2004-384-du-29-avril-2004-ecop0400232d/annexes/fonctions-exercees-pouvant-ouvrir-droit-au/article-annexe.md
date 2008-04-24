@@ -1,6 +1,6 @@
 # Article ANNEXE
 
-I. - Fonctions exercées en administration centrale
+I.-Fonctions exercées en administration centrale
 
 1° Secrétaire général du ministère de l'économie, des finances et de l'industrie.
 
@@ -12,7 +12,7 @@ I. - Fonctions exercées en administration centrale
 
 5° Sous-directeur.
 
-6° Directeur de projet.
+6° Expert de haut niveau ou directeur de projet.
 
 7° Haut fonctionnaire de défense.
 
@@ -20,11 +20,11 @@ I. - Fonctions exercées en administration centrale
 
 9° Emplois d'encadrement supérieur à l'Institut national de la statistique et des études économiques.
 
-II. - Fonctions exercées dans un service à compétence nationale
+II.-Fonctions exercées dans un service à compétence nationale
 
 Directeur général, directeur, chef d'un service ou directeur général adjoint ou directeur adjoint.
 
-III. - Fonctions exercées en services déconcentrés
+III.-Fonctions exercées en services déconcentrés
 
 1° Directeur et délégué interrégional.
 

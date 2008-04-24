@@ -1,6 +1,6 @@
 # Article ANNEXE
 
-A. - Fonctions exercées en administration centrale, à la préfecture de police ou à la préfecture de Paris
+A.-Fonctions exercées en administration centrale, à la préfecture de police ou à la préfecture de Paris
 
 1° Chef du service de l'inspection générale de l'administration.
 
@@ -8,7 +8,7 @@ A. - Fonctions exercées en administration centrale, à la préfecture de police
 
 3° Chef de service, délégué ou directeur d'un service ou organisme de l'administration centrale du ministère de l'intérieur non rattaché à une direction générale ou à une direction d'administration centrale et mentionné dans le décret fixant l'organisation du ministère.
 
-4° Directeur de projet.
+4° Expert de haut niveau ou directeur de projet.
 
 5° Chef de service ou sous-directeur exerçant des fonctions d'adjoint à un directeur général ou à un directeur d'administration centrale, à un directeur de la préfecture de police (services administratifs) ou à un directeur de la préfecture de Paris.
 
@@ -16,7 +16,7 @@ A. - Fonctions exercées en administration centrale, à la préfecture de police
 
 7° Adjoint au haut fonctionnaire de défense.
 
-B. - Fonctions exercées en administration territoriale
+B.-Fonctions exercées en administration territoriale
 
 1° Fonctionnaires titulaires du corps des préfets ou détachés dans ce corps :
 
@@ -40,7 +40,7 @@ Préfet adjoint pour la sécurité en Corse ;
 
 Préfet délégué à la sécurité et à la défense ;
 
-Préfet délégué pour l'égalité des chances ;(2)
+Préfet délégué pour l'égalité des chances ; (2)
 
 Préfet délégué auprès du préfet de la Guadeloupe pour les îles de Saint-Barthélemy et de Saint-Martin.
 
@@ -52,10 +52,10 @@ a) Sous-préfet occupant un poste territorial classé en 1re catégorie au sens 
 
 b) Sous-préfet occupant l'un des postes territoriaux suivants :
 
-- secrétaire général de la préfecture des départements de la Haute-Corse et de Guyane ;
+-secrétaire général de la préfecture des départements de la Haute-Corse et de Guyane ;
 
-- sous-préfet des arrondissements suivants : Sartène, Corte et Calvi ;
+-sous-préfet des arrondissements suivants : Sartène, Corte et Calvi ;
 
-- directeur du cabinet des préfets de Corse-du-Sud et de Haute-Corse.
+-directeur du cabinet des préfets de Corse-du-Sud et de Haute-Corse.
 
 4° Secrétaire général de la représentation du Gouvernement dans un territoire d'outre-mer.

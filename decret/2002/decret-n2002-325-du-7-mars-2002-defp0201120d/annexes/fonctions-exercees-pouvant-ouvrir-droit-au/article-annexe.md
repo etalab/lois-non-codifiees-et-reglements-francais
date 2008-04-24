@@ -14,4 +14,4 @@
 
 7. Chef de service adjoint à un directeur de l'administration centrale, directeur adjoint, sous-directeur adjoint à un directeur de l'administration centrale ou à un chef de service en charge d'un service de l'administration centrale, sous-directeur en charge d'une sous-direction de l'administration centrale.
 
-8. Directeur de projet.
+8. Expert de haut niveau ou directeur de projet.

@@ -1,6 +1,6 @@
 # Article ANNEXE
 
-A. - Fonctions pouvant donner lieu au versement d'une nouvelle bonification indiciaire à l'administration centrale des ministères chargés de l'éducation nationale et de la recherche :
+A.-Fonctions pouvant donner lieu au versement d'une nouvelle bonification indiciaire à l'administration centrale des ministères chargés de l'éducation nationale et de la recherche :
 
 1° Directeur général et directeur d'administration centrale ;
 
@@ -18,9 +18,9 @@ A. - Fonctions pouvant donner lieu au versement d'une nouvelle bonification indi
 
 8° Responsable de la mission scientifique, technique et pédagogique ;
 
-9° Directeur de projet.
+9° Expert de haut niveau ou directeur de projet.
 
-B. - Fonctions pouvant donner lieu au versement d'une nouvelle bonification indiciaire dans les services déconcentrés du ministère chargé de l'éducation nationale :
+B.-Fonctions pouvant donner lieu au versement d'une nouvelle bonification indiciaire dans les services déconcentrés du ministère chargé de l'éducation nationale :
 
 1° Recteur d'académie ;
 
