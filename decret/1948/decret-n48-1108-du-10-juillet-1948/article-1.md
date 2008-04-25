@@ -1,5 +1,7 @@
 # Article 1
 
-Le classement hiérarchique des grades et emplois des personnels civils et militaires de l'Etat affiliés au régime général des retraites est défini par l'indice qui leur est affecté dans les tableaux annexés au présent décret.
+L'échelonnement indiciaire applicable aux corps et emplois des personnels civils et militaires de l'Etat relevant du code des pensions civiles et militaires de retraite est fixé par décrets pris sur proposition du ministre intéressé et des ministres chargés du budget et de la fonction publique. Lorsqu'ils concernent les personnels civils, ces décrets sont soumis à l'avis du comité technique paritaire compétent ou, s'agissant des décrets fixant l'échelonnement indiciaire applicable à plusieurs corps ou emplois, à l'avis du Conseil supérieur de la fonction publique de l'Etat.
 
-Les indices minimum et maximum de la hiérarchie générale sont respectivement égaux à 100 et à 800. Toutefois, certains emplois supérieurs dont la liste figure en annexe au présent décret sont affectés d'indices supérieurs à 800.
+Les arrêtés interministériels fixant l'échelonnement indiciaire des corps et emplois des personnels civils et militaires de l'Etat relevant du code des pensions civiles et militaires de retraite, en vigueur à la date de publication du décret n° 2008-385 du 23 avril 2008, le demeurent jusqu'à ce qu'ils aient été remplacés par un décret pris en la forme prévue au premier alinéa.
+
+Les dispositions de l'annexe au décret du décret du 10 juillet 1948 susvisé, en vigueur à la date de publication du décret n° 2008-385 du 23 avril 2008, le demeurent pour les corps et emplois dont l'échelonnement indiciaire n'est précisé par aucun autre texte réglementaire, jusqu'à ce qu'elles aient été remplacées par un décret pris en la forme prévue au premier alinéa.
