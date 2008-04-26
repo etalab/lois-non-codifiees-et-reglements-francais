@@ -2,3 +2,4 @@
 
 - [Chapitre Ier : Dispositions générales](chapitre-ier)
 - [CHAPITRE II : Recrutement](chapitre-ii)
+- [CHAPITRE III : Avancement de grade.](chapitre-iii)
