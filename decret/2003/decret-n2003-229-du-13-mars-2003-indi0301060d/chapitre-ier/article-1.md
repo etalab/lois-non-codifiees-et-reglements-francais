@@ -1,6 +1,6 @@
 # Article 1
 
-Le présent décret fixe les prescriptions techniques générales de conception et de fonctionnement, prévues à l'article 18 de la loi du 10 février 2000 susvisée, auxquelles doivent satisfaire les installations pour leur raccordement au réseau public de distribution de l'électricité.
+Le présent décret fixe les prescriptions techniques générales de conception et de fonctionnement, prévues à l'article 18 de la loi du 10 février 2000 susvisée, auxquelles doivent satisfaire les installations pour leur raccordement au réseau public de distribution de l'électricité, à l'exclusion des installations de production qui sont soumises aux dispositions du décret n° 2008-386 du 23 avril 2008 relatif aux prescriptions techniques générales de conception et de fonctionnement pour le raccordement d'installations de production aux réseaux publics d'électricité.
 
 Il s'applique aux installations devant faire l'objet d'un premier raccordement à un réseau public de distribution, en basse tension ou en HTA, ou qui font l'objet de modifications de leurs caractéristiques électriques justifiant une nouvelle convention de raccordement. Les seuils de modification des caractéristiques électriques sont fixés, par type d'installation, par arrêté du ministre chargé de l'énergie.
 

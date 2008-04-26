@@ -1,6 +1,6 @@
 # Article 2
 
-Sauf précision contraire, le terme : "installation" recouvre dans le présent décret : les installations des producteurs, les installations des consommateurs, les réseaux publics de distribution, les circuits d'interconnexion et les lignes directes définies à l'article 24 de la loi du 10 février 2000 susvisée.
+Sauf précision contraire, le terme : " installation " recouvre dans le présent décret : les installations des consommateurs, les réseaux publics de distribution, les circuits d'interconnexion et les lignes directes définies à l'article 24 de la loi du 10 février 2000 susvisée.
 
 Pour l'application du présent décret, les termes mentionnés ci-dessous ont les significations suivantes :
 
@@ -44,25 +44,19 @@ Installation de consommation :
 
 Unité ou ensemble d'unités de consommation de l'électricité installées sur un même site, exploitées par le même utilisateur et bénéficiant d'une convention de raccordement unique.
 
-Installation de production :
-
-Equipements destinés à la production d'énergie électrique qui comprennent un ou plusieurs groupes de production ainsi que des appareillages auxiliaires (poste d'évacuation, auxiliaires de production...). Au sens de ce décret, ces équipements sont regroupés sur un même site et exploités par le même producteur, qui bénéficie à ce titre d'une convention de raccordement unique.
-
-Nota - Les équipements constitutifs d'une installation de production peuvent différer en fonction de la nature de son énergie primaire (thermique, hydraulique, éolienne, marémotrice...).
-
 Qualité de l'électricité :
 
 Au sens de ce décret, la qualité de l'électricité se vérifie par le maintien dans les plages contractuelles, réglementaires ou normatives :
 
-- des paramètres caractéristiques des ondes de tension et de courant du réseau électrique ;
+-des paramètres caractéristiques des ondes de tension et de courant du réseau électrique ;
 
-- de la continuité et de la fiabilité de l'alimentation des utilisateurs.
+-de la continuité et de la fiabilité de l'alimentation des utilisateurs.
 
 Les perturbations relatives au déséquilibre en tension et aux courants harmoniques sont mesurées avec une durée d'intégration de 10 minutes.
 
 Liaison de raccordement :
 
-Liaison électrique entre une installation et un poste du réseau public de transport constituée normalement d'une cellule disjoncteur à chaque extrémité et de conducteurs (ligne aérienne et/ou câble souterrain) de liaison.
+Liaison électrique entre une installation et un poste du réseau public de transport constituée normalement d'une cellule disjoncteur à chaque extrémité et de conducteurs (ligne aérienne et / ou câble souterrain) de liaison.
 
 Plages normales de la tension :
 
@@ -76,7 +70,7 @@ de 200 kV à 245 kV pour le réseau 225 kV ;
 
 8 % de la tension contractuelle pour le réseau 63 kV.
 
-La tension contractuelle (Uc) est fixée dans une plage de  6 % de la tension nominale du réseau.
+La tension contractuelle (Uc) est fixée dans une plage de 6 % de la tension nominale du réseau.
 
 Plage exceptionnelle de la tension :
 
@@ -88,11 +82,11 @@ Au point de livraison d'une installation, lors des régimes exceptionnels, la te
 
 72 kV en valeur basse et 102 kV en valeur haute sur le réseau 90 kV ;
 
-50 kV en valeur basse et 73,5 kV en valeur haute sur le réseau 63 kV.
+50 kV en valeur basse et 73, 5 kV en valeur haute sur le réseau 63 kV.
 
 Plage normale de la fréquence :
 
-Quel que soit le niveau de tension, la fréquence du réseau peut varier en tout point du réseau public de transport dans la plage "49,5 Hz - 50,5 Hz".
+Quel que soit le niveau de tension, la fréquence du réseau peut varier en tout point du réseau public de transport dans la plage " 49, 5 Hz-50, 5 Hz ".
 
 Plage exceptionnelle de la fréquence :
 
@@ -122,21 +116,21 @@ Le régime normal d'un réseau :
 
 Régime au cours duquel :
 
-- les utilisateurs raccordés au réseau ont un régime normal d'alimentation ;
+-les utilisateurs raccordés au réseau ont un régime normal d'alimentation ;
 
-- aucun ouvrage n'est en régime de surcharge ;
+-aucun ouvrage n'est en régime de surcharge ;
 
-- les critères de sûreté de fonctionnement et de secours sont assurés.
+-les critères de sûreté de fonctionnement et de secours sont assurés.
 
 Le régime normal du système électrique :
 
 Le régime au cours duquel :
 
-- la fréquence et la tension sont maintenues à l'intérieur de leurs plages normales, réglementaires ou normatives, en tout point du système ;
+-la fréquence et la tension sont maintenues à l'intérieur de leurs plages normales, réglementaires ou normatives, en tout point du système ;
 
-- les réserves de production et de réglage sont disponibles ;
+-les réserves de production et de réglage sont disponibles ;
 
-- les critères de sûreté de fonctionnement et de secours sont assurés.
+-les critères de sûreté de fonctionnement et de secours sont assurés.
 
 Régime exceptionnel (d'alimentation, d'un réseau ou du système électrique) :
 
@@ -148,12 +142,8 @@ Pour des durées limitées les ouvrages de réseau peuvent être soumis à des i
 
 Réglage secondaire de tension :
 
-Réglage centralisé de la tension permettant la coordination de l'action des groupes de production qui y sont asservis au niveau régional ; ce réglage est effectué en employant le dispositif "Réglage secondaire de la tension" (RST) ou le dispositif > Réglage "secondaire coordonné de la tension" (RSCT).
-
-Services auxiliaires :
-
-Contributions élémentaires fournies par les installations de production qui permettent de constituer les services système. Il s'agit principalement des contributions au réglage de la fréquence et de la puissance active (réglage f/P) et au réglage de la tension et de la puissance réactive (réglage U/Q), ainsi que de la participation à la reconstitution du réseau suite à un incident.
+Réglage centralisé de la tension permettant la coordination de l'action des groupes de production qui y sont asservis au niveau régional ; ce réglage est effectué en employant le dispositif " Réglage secondaire de la tension " (RST) ou le dispositif > Réglage " secondaire coordonné de la tension " (RSCT).
 
 Utilisateur (du réseau public de transport) :
 
-Au sens du présent décret l'utilisateur est la personne physique ou morale qui demande ou dispose d'un accès au réseau public de transport (producteur, consommateur, gestionnaire d'un réseau de distribution...).
+Au sens du présent décret l'utilisateur est la personne physique ou morale qui demande ou dispose d'un accès au réseau public de transport (consommateur, gestionnaire d'un réseau de distribution...).

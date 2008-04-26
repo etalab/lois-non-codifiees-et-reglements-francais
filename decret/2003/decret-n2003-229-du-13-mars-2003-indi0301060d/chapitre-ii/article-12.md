@@ -1,4 +1,4 @@
-# Article 18
+# Article 12
 
 Les conventions de raccordement et d'exploitation ou, à défaut, le contrat de fourniture précisent les vérifications auxquelles sera soumise l'installation afin d'attester, préalablement à sa mise en service et durant son exploitation, de sa conformité aux prescriptions du présent décret et aux caractéristiques déclarées dans sa convention de raccordement.
 

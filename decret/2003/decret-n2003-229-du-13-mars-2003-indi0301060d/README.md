@@ -2,5 +2,3 @@
 
 - [Chapitre Ier : Champ d'application.](chapitre-ier)
 - [Chapitre II](chapitre-ii)
-- [Chapitre III : Règles d'exploitation.](chapitre-iii)
-- [Article 21](article-21.md)

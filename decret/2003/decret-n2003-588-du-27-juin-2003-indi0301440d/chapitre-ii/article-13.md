@@ -1,4 +1,4 @@
-# Article 17
+# Article 13
 
 Les conventions de raccordement et/ou d'exploitation précisent les vérifications auxquelles sera soumise l'installation afin d'attester, préalablement à sa mise en service et durant son exploitation, de sa conformité aux prescriptions du présent décret et aux caractéristiques précisées dans sa convention de raccordement.
 
