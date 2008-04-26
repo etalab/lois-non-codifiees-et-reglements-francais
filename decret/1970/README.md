@@ -27,7 +27,6 @@
 - [Décret n° 70-323 du 13 avril 1970](decret-n-70-323-du-13-avril-1970)
 - [Décret n° 70-43 du 13 janvier 1970](decret-n-70-43-du-13-janvier-1970)
 - [Décret n°70-1049 du 13 novembre 1970](decret-n70-1049-du-13-novembre-1970)
-- [Décret n°70-319 du 14 avril 1970](decret-n70-319-du-14-avril-1970)
 - [Décret n°70-326 du 14 avril 1970](decret-n70-326-du-14-avril-1970)
 - [Décret n°70-1056 du 16 novembre 1970](decret-n70-1056-du-16-novembre-1970)
 - [Décret n° 70-210 du 17 mars 1970](decret-n-70-210-du-17-mars-1970)

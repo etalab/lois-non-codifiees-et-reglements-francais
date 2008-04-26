@@ -47,7 +47,7 @@
 - [Décret n°2005-30 du 14 janvier 2005 (SANH0424404D)](decret-n2005-30-du-14-janvier-2005-sanh0424404d)
 - [Décret n°91-1066 du 14 octobre 1991 (AGRA9101922D)](decret-n91-1066-du-14-octobre-1991-agra9101922d)
 - [Décret n°2005-1421 du 15 novembre 2005 (SANH0523732D)](decret-n2005-1421-du-15-novembre-2005-sanh0523732d)
-- [Décret n°2005-797 du 15 juillet 2005 (DEFP0500937D)](decret-n2005-797-du-15-juillet-2005-defp0500937d)
+- [Décret n°2005-796 du 15 juillet 2005 (DEFP0500934D)](decret-n2005-796-du-15-juillet-2005-defp0500934d)
 - [Décret n°98-1057 du 16 novembre 1998 (DEFP9801941D)](decret-n98-1057-du-16-novembre-1998-defp9801941d)
 - [Décret du 16 mai 2005 (AGRP0500455D)](decret-du-16-mai-2005-agrp0500455d)
 - [Décret du 16 mai 2005 (AGRP0500456D)](decret-du-16-mai-2005-agrp0500456d)
