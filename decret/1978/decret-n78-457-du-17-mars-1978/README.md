@@ -9,3 +9,4 @@
 - [CHAPITRE VI : Horaires de travail - Discipline.](chapitre-vi)
 - [CHAPITRE VIII : Dispositions diverses.](chapitre-viii)
 - [CHAPITRE IX : Dispositions transitoires.](chapitre-ix)
+- [Article 1er bis](article-1er-bis.md)
