@@ -1,0 +1,7 @@
+# Article 2
+
+I. ― Il est établi une convention de raccordement et une convention d'exploitation pour une installation de production correspondant à un site exploité par un même producteur. Ces conventions sont nominatives.
+
+II. ― Toute modification de la consistance des équipements de l'installation ou des conditions d'exploitation d'une installation de production déjà raccordée, non conforme aux informations consignées dans les conventions visées au I, doit faire l'objet, avant sa mise en œuvre, d'une déclaration au gestionnaire du réseau public d'électricité auquel est raccordée cette installation. Le gestionnaire du réseau public d'électricité constate le cas échéant le caractère substantiel de cette modification au sens du I de l'article 1er. En l'absence d'une telle constatation, les conventions visées au I font l'objet d'un avenant pour préciser la modification intervenue.
+
+III. ― En cas de changement d'exploitant d'une installation de production déjà raccordée, une nouvelle convention de raccordement et une nouvelle convention d'exploitation doivent être établies préalablement à ce changement dans le respect des dispositions de l'article 9 du présent décret. Toutefois, un changement d'exploitant seul ne constitue pas en lui-même une modification substantielle de l'installation au sens du I de l'article 1er. Dans le cas ou ce changement d'exploitant s'accompagne d'une partition de l'installation, de nouvelles demandes de raccordement doivent être adressées au gestionnaire du réseau public d'électricité concerné.

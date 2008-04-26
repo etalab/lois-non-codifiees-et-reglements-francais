@@ -1,6 +1,6 @@
 # Article 11
 
-Les candidats admis aux concours organisés en application du 1° et du 2° de l'article 7 sont nommés contrôleurs de 2e classe stagiaires et classés dans les conditions prévues aux articles 3 à 7 du décret du 18 novembre 1994 susvisé.
+Les candidats admis aux concours organisés en application du 1° et du 2° de l'article 7 ou recrutés au titre des emplois réservés sont nommés contrôleurs de 2e classe stagiaires et classés dans les conditions prévues aux articles 3 à 7 du décret du 18 novembre 1994 susvisé.
 
 Tout candidat admis qui n'entre pas en fonctions à la date fixée perd le bénéfice de son tour de nomination et, s'il ne présente pas des excuses jugées valables, perd le bénéfice de son admission au concours.
 

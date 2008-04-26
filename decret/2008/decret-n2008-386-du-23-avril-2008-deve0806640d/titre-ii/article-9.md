@@ -1,0 +1,11 @@
+# Article 9
+
+I. ― La convention de raccordement, établie entre le producteur et le gestionnaire du réseau public d'électricité, définit le point de livraison, mentionne les caractéristiques et les performances déclarées de l'installation de production qui sera raccordée et contient un descriptif de la solution technique retenue pour ce raccordement.
+
+II. ― La convention d'exploitation, établie entre le producteur et le gestionnaire du réseau public d'électricité, identifie les personnes en charge de l'exploitation de l'installation de production ainsi que leurs interlocuteurs désignés par le gestionnaire du réseau public d'électricité et définit les relations d'exploitation qu'ils entretiennent. Elle peut porter sur les règles nécessaires pour permettre l'exploitation de l'installation de production en cohérence avec les règles d'exploitation des réseaux publics d'électricité ainsi que sur les dispositions prises par le producteur afin de maintenir dans le temps les performances de l'installation de production, en particulier sur les vérifications périodiques de ces performances.
+
+III. ― Un arrêté du ministre chargé de l'énergie fixe, en tant que de besoin, des clauses minimales pour les conventions de raccordement et d'exploitation visées aux I et II du présent article, qui peuvent être différenciées selon que l'installation de production est raccordée au réseau public de transport d'électricité ou à un réseau public de distribution d'électricité ou dans une zone du territoire non interconnectée au réseau métropolitain continental.
+
+Les clauses minimales mentionnées à l'alinéa précédent peuvent prévoir que le producteur tient une réserve d'énergie à la disposition du gestionnaire du réseau public d'électricité. La libération de cette énergie peut intervenir en fonction des impératifs de sûreté des réseaux publics d'électricité, soit automatiquement dans des conditions techniques prédéfinies, soit à la demande du gestionnaire du réseau public d'électricité auquel l'installation de production est raccordée.
+
+Les clauses minimales, fixées comme il est dit aux deux alinéas précédents, peuvent être détaillées dans la documentation technique de référence des gestionnaires des réseaux publics d'électricité.

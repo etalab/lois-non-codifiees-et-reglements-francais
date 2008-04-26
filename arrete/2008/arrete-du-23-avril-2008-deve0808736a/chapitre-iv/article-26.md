@@ -1,0 +1,3 @@
+# Article 26
+
+Le producteur règle les protections de son installation en conformité avec les prescriptions fournies par le gestionnaire du réseau public de transport d'électricité sur la base de sa documentation technique de référence qui prennent notamment en compte les conditions de fonctionnement des installations de production pendant des phases transitoires de courte durée. Le fonctionnement de ces protections ne doit pas conduire au découplage de cette installation par rapport au réseau public de transport d'électricité sur le seul critère de tension basse tant que la tension au point de livraison ne devient pas inférieure à 0,8 × Un pendant deux secondes.
