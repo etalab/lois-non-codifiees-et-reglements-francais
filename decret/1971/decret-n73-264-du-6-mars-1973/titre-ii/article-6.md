@@ -1,6 +1,6 @@
 # Article 6
 
-Les ingénieurs des travaux photographiques et cartographiques de l'Etat sont nommés par arrêté ministériel et recrutés :
+Les ingénieurs des travaux géographiques et cartographiques de l'Etat sont nommés par arrêté ministériel et recrutés :
 
 a) Parmi les élèves ingénieurs des travaux géographiques et cartographiques de l'Etat qui ont satisfait aux conditions exigées par le règlement de l'Ecole nationale des sciences géographiques et parmi les lauréats d'un concours externe sur titres recrutés dans les conditions fixées à l'article 6-1 ;
 
