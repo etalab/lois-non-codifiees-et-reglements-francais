@@ -2,75 +2,75 @@
 
 Les fonctionnaires nommés dans l'un des corps régis par le présent décret sont classés, lors de leur nomination, au 1er échelon du grade de début, sous réserve des dispositions ci-après et de celles des articles 4 à 7 :
 
-I. - Les fonctionnaires de catégorie C ou de même niveau qui détiennent un grade situé en échelle 6 sont classés conformément au tableau de correspondance ci-après :
+I.-Les fonctionnaires appartenant à un corps ou un cadre d'emplois de catégorie C ou de même niveau qui détiennent un grade situé en échelle 6 sont classés conformément au tableau de correspondance ci-après :
 
 <table>
 <tbody>
 <tr>
 <td align="left" valign="middle">
 <p align="center">
-<strong>SITUATION<br/>
-</strong>dans l'échelle 6<br/>de la catégorie C</p>
+<strong>SITUATION <br/>
+</strong>dans l'échelle 6 <br/>de la catégorie C </p>
 </td>
 <td align="left" colspan="2" valign="middle">
 <p align="center">
-<strong>SITUATION DANS LE CORPS D'INTEGRATION<br/>
-</strong>de catégorie B</p>
+<strong>SITUATION DANS LE CORPS D'INTEGRATION <br/>
+</strong>de catégorie B </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="middle">
-<pre> </pre>
+<pre/>
 </td>
 <td align="left" valign="middle">
-<p align="center">Classe normale<br/>Echelons</p>
+<p align="center">Classe normale <br/>Echelons </p>
 </td>
 <td align="left" valign="middle">
-<p align="center">Ancienneté conservée<br/>dans la limite<br/>de la durée d'échelon</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="left">Echelon spécial</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">12e</p>
-</td>
-<td align="left" valign="middle">
-<p align="left">Ancienneté acquise</p>
+<p align="center">Ancienneté conservée <br/>dans la limite <br/>de la durée d'échelon </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="middle">
-<p align="left">7e</p>
+<p align="left">Echelon spécial </p>
 </td>
 <td align="left" valign="middle">
-<p align="center">11e</p>
+<p align="center">12e </p>
 </td>
 <td align="left" valign="middle">
-<p align="left">Ancienneté acquise</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="left">6e</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">11e</p>
-</td>
-<td align="left" valign="middle">
-<p align="left">Sans ancienneté</p>
+<p align="left">Ancienneté acquise </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="middle">
-<p align="left">5e</p>
+<p align="left">7e </p>
 </td>
 <td align="left" valign="middle">
-<p align="center">9e</p>
+<p align="center">11e </p>
 </td>
 <td align="left" valign="middle">
-<p align="left">Ancienneté acquise</p>
+<p align="left">Ancienneté acquise </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">6e </p>
+</td>
+<td align="left" valign="middle">
+<p align="center">11e </p>
+</td>
+<td align="left" valign="middle">
+<p align="left">Sans ancienneté </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">5e </p>
+</td>
+<td align="left" valign="middle">
+<p align="center">9e </p>
+</td>
+<td align="left" valign="middle">
+<p align="left">Ancienneté acquise </p>
 </td>
 </tr>
 <tr>
@@ -78,18 +78,18 @@ I. - Les fonctionnaires de catégorie C ou de même niveau qui détiennent un gr
 <p align="left">4e échelon :</p>
 </td>
 <td align="left" valign="middle">
-<pre> </pre>
+<pre/>
 </td>
 <td align="left" valign="middle">
-<pre> </pre>
+<pre/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="middle">
-<p align="left">- à partir d'un an et huit mois</p>
+<p align="left">-à partir d'un an et huit mois </p>
 </td>
 <td align="left" valign="middle">
-<p align="center">9e</p>
+<p align="center">9e </p>
 </td>
 <td align="left" valign="middle">
 <p align="left">Sans ancienneté</p>
@@ -97,13 +97,13 @@ I. - Les fonctionnaires de catégorie C ou de même niveau qui détiennent un gr
 </tr>
 <tr>
 <td align="left" valign="middle">
-<p align="left">- avant un an et huit mois</p>
+<p align="left">-avant un an et huit mois </p>
 </td>
 <td align="left" valign="middle">
-<p align="center">8e</p>
+<p align="center">8e </p>
 </td>
 <td align="left" valign="middle">
-<p align="left">Ancienneté acquise majorée d'un an</p>
+<p align="left">Ancienneté acquise majorée d'un an </p>
 </td>
 </tr>
 <tr>
@@ -111,18 +111,18 @@ I. - Les fonctionnaires de catégorie C ou de même niveau qui détiennent un gr
 <p align="left">3e échelon :</p>
 </td>
 <td align="left" valign="middle">
-<pre> </pre>
+<pre/>
 </td>
 <td align="left" valign="middle">
-<pre> </pre>
+<pre/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="middle">
-<p align="left">- à partir de deux ans</p>
+<p align="left">-à partir de deux ans </p>
 </td>
 <td align="left" valign="middle">
-<p align="center">8e échelon</p>
+<p align="center">8e échelon </p>
 </td>
 <td align="left" valign="top">
 <p align="justify">Ancienneté acquise au-delà de deux ans</p>
@@ -130,13 +130,13 @@ I. - Les fonctionnaires de catégorie C ou de même niveau qui détiennent un gr
 </tr>
 <tr>
 <td align="left" valign="middle">
-<p align="left">- avant deux ans</p>
+<p align="left">-avant deux ans </p>
 </td>
 <td align="left" valign="middle">
-<p align="center">7e échelon</p>
+<p align="center">7e échelon </p>
 </td>
 <td align="left" valign="top">
-<p align="justify">Ancienneté acquise plus un an</p>
+<p align="justify">Ancienneté acquise plus un an </p>
 </td>
 </tr>
 <tr>
@@ -144,18 +144,18 @@ I. - Les fonctionnaires de catégorie C ou de même niveau qui détiennent un gr
 <p align="left">2e échelon :</p>
 </td>
 <td align="left" valign="middle">
-<pre> </pre>
+<pre/>
 </td>
 <td align="left" valign="middle">
-<pre> </pre>
+<pre/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="middle">
-<p align="left">- à partir d'un an</p>
+<p align="left">-à partir d'un an </p>
 </td>
 <td align="left" valign="middle">
-<p align="center">7e échelon</p>
+<p align="center">7e échelon </p>
 </td>
 <td align="left" valign="top">
 <p align="justify">Ancienneté acquise au-delà d'un an</p>
@@ -163,46 +163,60 @@ I. - Les fonctionnaires de catégorie C ou de même niveau qui détiennent un gr
 </tr>
 <tr>
 <td align="left" valign="middle">
-<p align="left">- avant un an</p>
+<p align="left">-avant un an </p>
 </td>
 <td align="left" valign="middle">
-<p align="center">6e échelon</p>
+<p align="center">6e échelon </p>
 </td>
 <td align="left" valign="top">
-<p align="justify">Ancienneté acquise plus un an</p>
+<p align="justify">Ancienneté acquise plus un an </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="middle">
-<p align="left">1er échelon</p>
+<p align="left">1er échelon </p>
 </td>
 <td align="left" valign="middle">
-<p align="center">5e échelon</p>
+<p align="center">5e échelon </p>
 </td>
 <td align="left" valign="middle">
-<p align="left">Ancienneté acquise</p>
+<p align="left">Ancienneté acquise </p>
 </td>
 </tr>
 </tbody>
 </table>
 
-II. - Les autres fonctionnaires de catégorie C ou de même niveau recrutés à partir du 1er octobre 2005 sont classés sur la base de la durée moyenne fixée, selon le cas, à l'article 9 ou à l'article 10, pour chaque avancement d'échelon, en prenant en compte leur ancienneté dans leur grade d'origine à raison des deux tiers de sa durée.
+II.-Les fonctionnaires autres que ceux mentionnés au I recrutés, soit dans un corps de catégorie C ou de même niveau de la fonction publique de l'Etat à partir du 1er octobre 2005, soit dans un cadre d'emplois de catégorie C ou de même niveau de la fonction publique territoriale à partir du 1er novembre 2005, soit dans un corps de catégorie C ou de même niveau de la fonction publique hospitalière à partir du 27 février 2006 sont classés sur la base de la durée moyenne d'avancement d'échelon fixée à l'article 9 ou à l'article 10, en prenant en compte l'ancienneté dans leur grade d'origine.
 
-L'ancienneté dans le grade d'origine correspond au temps nécessaire pour parvenir, sur la base des durées moyennes fixées par l'article 2 du décret n° 2005-1228 du 29 septembre 2005 relatif à l'organisation des carrières des fonctionnaires de catégorie C, à l'échelon occupé par l'intéressé, augmenté de l'ancienneté acquise dans cet échelon.
+L'ancienneté dans le grade d'origine correspond au temps nécessaire pour parvenir à l'échelon occupé par l'intéressé, augmenté de l'ancienneté acquise dans cet échelon. Elle est appréciée, selon le cas, en fonction des durées moyennes d'avancement d'échelon ou des durées maximales d'avancement d'échelon fixées par l'article 2 du décret n° 2005-1228 du 29 septembre 2005 relatif à l'organisation des carrières des fonctionnaires de catégorie C de la fonction publique de l'Etat, par l'article 4 du décret n° 87-1107 du 30 décembre 1987 portant organisation des carrières des fonctionnaires territoriaux de catégorie C ou par l'article 2 du décret n° 2006-227 du 24 février 2006 relatif à l'organisation des carrières des fonctionnaires hospitaliers de catégorie C.
 
-Cette ancienneté est prise en compte dans la limite maximale de la durée moyenne de services nécessaire pour parvenir au dernier échelon des échelles 3, 4 ou 5.
+L'ancienneté dans le grade d'origine est prise en compte à raison des deux tiers de sa durée, dans la limite de la durée moyenne ou, le cas échéant, de la durée maximale de services nécessaire pour parvenir au dernier échelon des échelles 3, 4 ou 5.
 
-III. - Pour les fonctionnaires appartenant à un corps de catégorie C reclassés en application des dispositions du titre II du décret du 29 septembre 2005 susmentionné, la durée d'ancienneté est égale, s'il est plus favorable, au résultat de la formule "A + B - C" explicitée ci-dessous :
+III.-Le classement des fonctionnaires autres que ceux mentionnés au I recrutés soit dans un corps de catégorie C ou de même niveau de la fonction publique de l'Etat avant le 1er octobre 2005, soit dans un cadre d'emplois de catégorie C ou de même niveau de la fonction publique territoriale avant le 1er novembre 2005, soit dans un corps de catégorie C ou de même niveau de la fonction publique hospitalière à partir du 27 février 2006 est opéré selon les modalités suivantes :
 
-a) A est l'ancienneté théorique détenue au 30 septembre 2005 dans l'une des échelles de rémunération de la catégorie C prévues par le décret n° 70-79 du 27 janvier 1970 relatif à l'organisation des carrières des fonctionnaires de catégories C et D ;
+1° L'ancienneté dans le grade d'origine des fonctionnaires concernés est calculée en application de la formule : " A + B-C ", dans laquelle :
 
-b) B est l'ancienneté théorique détenue dans l'une des échelles de rémunération de la catégorie C prévues par le décret du 29 septembre 2005 susmentionné à la date de nomination dans un des corps régis par le présent décret ;
+a) " A " est l'ancienneté théorique détenue, selon le cas :
 
-c) C est l'ancienneté théorique détenue dans l'une des échelles de rémunération de la catégorie C prévues par le décret du 29 septembre 2005 susmentionné au 1er octobre 2005.
+-au 30 septembre 2005, dans l'une des échelles de rémunération de la catégorie C de la fonction publique de l'Etat prévues par le décret n° 70-79 du 27 janvier 1970 relatif à l'organisation des carrières des fonctionnaires de catégories C et D, dans sa rédaction en vigueur à la date de publication du décret du 29 septembre 2005 susmentionné ;
 
-L'ancienneté théorique dans le grade d'origine correspond au temps nécessaire pour parvenir, sur la base des durées moyennes fixées par l'article 2 du décret du 29 septembre 2005 susmentionné, à l'échelon occupé par l'intéressé, augmenté de l'ancienneté acquise dans cet échelon.
+-au 31 octobre 2005, dans l'une des échelles de rémunération de la catégorie C de la fonction publique territoriale prévues par le décret du 30 décembre 1987 susmentionné, dans sa rédaction en vigueur au 31 octobre 2005 ;
 
-L'ancienneté résultant de la formule définie ci-dessus est prise en compte à raison des deux tiers de sa durée.
+-au 26 février 2006, dans l'une des échelles de rémunération de la catégorie C de la fonction publique hospitalière prévues par le décret n° 88-1081 du 30 novembre 1988 dans sa rédaction en vigueur à la date de publication du décret du 24 février 2006 susmentionné ;
+
+b) " B " est l'ancienneté théorique détenue à la date de nomination dans un des corps régis par le présent en décret, dans l'une des échelles de rémunération de la catégorie C prévues, selon le cas, par les décrets du 29 septembre 2005, du 30 décembre 1987 ou du 24 février 2006 susmentionnés ;
+
+c) " C " est l'ancienneté théorique détenue, selon le cas :
+
+-au 1er octobre 2005, dans l'une des échelles de rémunération de la catégorie C de la fonction publique de l'Etat prévues par le décret du 29 septembre 2005 susmentionné ;
+
+-au 1er novembre 2005, dans l'une des échelles de rémunération de la catégorie C de la fonction publique territoriale prévues par le décret du 30 décembre 1987 susmentionné ;
+
+-au 27 février 2006, dans l'une des échelles de rémunération de la catégorie C de la fonction publique hospitalière prévues par le décret du 24 février 2006 susmentionné.
+
+2° L'ancienneté dans le grade d'origine calculée en application des dispositions du 1° est prise en compte à raison des deux tiers de sa durée, dans la limite de la durée moyenne ou, le cas échéant, de la durée maximale de services nécessaire pour parvenir au dernier échelon des échelles 3, 4 ou 5.
+
+Toutefois, si les dispositions du II sont plus favorables aux fonctionnaires concernés, il en est fait application pour le calcul de l'ancienneté dans leur grade d'origine.
 
 IV. - Les fonctionnaires autres que ceux mentionnés au I, au II et au III sont classés à l'échelon du grade de début qui comporte un traitement égal ou, à défaut, immédiatement supérieur au traitement perçu en dernier lieu dans leur corps d'origine.
 
