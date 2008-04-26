@@ -106,7 +106,6 @@
 - [Décret n°78-1306 du 26 décembre 1978](decret-n78-1306-du-26-decembre-1978)
 - [Décret n°79-1127 du 26 décembre 1979](decret-n79-1127-du-26-decembre-1979)
 - [Décret n°79-153 du 26 février 1979](decret-n79-153-du-26-fevrier-1979)
-- [Décret n°79-845 du 26 septembre 1979](decret-n79-845-du-26-septembre-1979)
 - [Décret n°79-1012 du 27 novembre 1979](decret-n79-1012-du-27-novembre-1979)
 - [Décret n°79-1135 du 27 décembre 1979](decret-n79-1135-du-27-decembre-1979)
 - [Décret n°79-156 du 27 février 1979](decret-n79-156-du-27-fevrier-1979)

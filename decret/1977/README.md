@@ -81,7 +81,6 @@
 - [Décret n°77-1319 du 24 novembre 1977](decret-n77-1319-du-24-novembre-1977)
 - [Décret n°77-285 du 24 mars 1977](decret-n77-285-du-24-mars-1977)
 - [Décret n°77-286 du 24 mars 1977](decret-n77-286-du-24-mars-1977)
-- [Décret n°77-1448 du 27 décembre 1977](decret-n77-1448-du-27-decembre-1977)
 - [Décret n°77-907 du 27 juillet 1977](decret-n77-907-du-27-juillet-1977)
 - [Décret n°78-117 du 27 janvier 1978](decret-n78-117-du-27-janvier-1978)
 - [Décret n°77-699 du 27 mai 1977](decret-n77-699-du-27-mai-1977)

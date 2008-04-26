@@ -97,7 +97,6 @@
 - [Décret n°2001-820 du 7 septembre 2001 (ECOI0120167D)](decret-n2001-820-du-7-septembre-2001-ecoi0120167d)
 - [Décret n°2001-821 du 7 septembre 2001 (ECOI0120160D)](decret-n2001-821-du-7-septembre-2001-ecoi0120160d)
 - [Décret n°2001-825 du 7 septembre 2001 (MESH0122686D)](decret-n2001-825-du-7-septembre-2001-mesh0122686d)
-- [Décret n°2001-407 du 7 mai 2001 (DEFP0101359D)](decret-n2001-407-du-7-mai-2001-defp0101359d)
 - [Décret n°2001-1031 du 8 novembre 2001 (ATEN0190039D)](decret-n2001-1031-du-8-novembre-2001-aten0190039d)
 - [Décret n°2001-1033 du 8 novembre 2001 (MESH0123455D)](decret-n2001-1033-du-8-novembre-2001-mesh0123455d)
 - [Décret n°2001-1034 du 8 novembre 2001 (MESH0123452D)](decret-n2001-1034-du-8-novembre-2001-mesh0123452d)

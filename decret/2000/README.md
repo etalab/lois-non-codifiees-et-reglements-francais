@@ -1,6 +1,5 @@
 # 2000
 
-- [Décret n°2000-1170 du 1 décembre 2000 (DEFP0002056D)](decret-n2000-1170-du-1-decembre-2000-defp0002056d)
 - [Décret n°2000-738 du 1 août 2000 (ECOP0000190D)](decret-n2000-738-du-1-aout-2000-ecop0000190d)
 - [Décret n°2000-739 du 1 août 2000 (ECOD0070013D)](decret-n2000-739-du-1-aout-2000-ecod0070013d)
 - [Décret n°2000-762 du 1 août 2000 (MESD0022398D)](decret-n2000-762-du-1-aout-2000-mesd0022398d)

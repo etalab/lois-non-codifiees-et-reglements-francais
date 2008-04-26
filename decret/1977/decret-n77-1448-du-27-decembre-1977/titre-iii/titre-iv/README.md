@@ -1,3 +1,0 @@
-# TITRE IV : ORGANISATION ET FONCTIONNEMENT DU FONDS.
-
-- [Article 15](article-15.md)
