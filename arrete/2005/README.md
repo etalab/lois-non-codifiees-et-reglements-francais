@@ -166,7 +166,6 @@
 - [Arrêté du 8 septembre 2005 (JUSB0510459A)](arrete-du-8-septembre-2005-jusb0510459a)
 - [Arrêté du 8 septembre 2005 (JUSB0510461A)](arrete-du-8-septembre-2005-jusb0510461a)
 - [Arrêté du 9 décembre 2005 (MJSK0570252A)](arrete-du-9-decembre-2005-mjsk0570252a)
-- [Arrêté du 9 février 2005 (MENE0500220A)](arrete-du-9-fevrier-2005-mene0500220a)
 - [Arrêté du 9 mars 2006 (SANG0621330A)](arrete-du-9-mars-2006-sang0621330a)
 - [Arrêté du 9 novembre 2005 (AGRG0502501A)](arrete-du-9-novembre-2005-agrg0502501a)
 - [Arrêté du 9 novembre 2005 (BUDD0520055A)](arrete-du-9-novembre-2005-budd0520055a)
