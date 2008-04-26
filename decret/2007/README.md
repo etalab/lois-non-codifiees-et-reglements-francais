@@ -1122,7 +1122,6 @@
 - [Décret n°2008-172 du 22 février 2008 (ECEI0773814D)](decret-n2008-172-du-22-fevrier-2008-ecei0773814d)
 - [Décret n°57-811 du 22 juillet 1957](decret-n57-811-du-22-juillet-1957)
 - [Décret n°89-1018 du 22 décembre 1989 (MERP8900039D)](decret-n89-1018-du-22-decembre-1989-merp8900039d)
-- [Décret n°68-464 du 22 mai 1968](decret-n68-464-du-22-mai-1968)
 - [Décret du 23 décembre 2006 (INDI0609292D)](decret-du-23-decembre-2006-indi0609292d)
 - [Décret du 23 mars 2007 (AGRP0700353D)](decret-du-23-mars-2007-agrp0700353d)
 - [Décret n° 2007-243 du 23 février 2007 (ECOT0651075D)](decret-n-2007-243-du-23-fevrier-2007-ecot0651075d)

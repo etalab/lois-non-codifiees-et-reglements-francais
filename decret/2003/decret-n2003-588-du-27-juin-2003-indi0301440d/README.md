@@ -3,4 +3,3 @@
 - [Chapitre Ier : Champ d'application.](chapitre-ier)
 - [Chapitre II : Règles d'exploitation.](chapitre-ii)
 - [Chapitre III : Dispositions diverses.](chapitre-iii)
-- [Chapitre IV : Dispositions propres aux installations de consommation.](chapitre-iv)

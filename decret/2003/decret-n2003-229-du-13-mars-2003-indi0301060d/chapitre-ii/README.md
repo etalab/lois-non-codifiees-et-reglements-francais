@@ -1,7 +1,5 @@
 # Chapitre II
 
-- [Section 1 : Dispositions communes à toutes les installations.](section-1)
-- [Section 2 : Dispositions propres aux installations de production.](section-2)
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)
 - [Article 5](article-5.md)
