@@ -1,6 +1,6 @@
 # Article 7
 
-I. - Les agents qui justifient de services d'agent public non titulaire autres que des services d'élève ou de stagiaire, ou de services en tant qu'agent d'une organisation internationale intergouvernementale, sont classés à un échelon déterminé en prenant en compte une fraction de leur ancienneté de services publics civils dans les conditions suivantes :
+I. - Les agents qui justifient de services d'agent public non titulaire autres que des services d'élève, de stagiaire ou de services d'ancien fonctionnaire civil, ou de services en tant qu'agent d'une organisation internationale intergouvernementale, sont classés à un échelon déterminé en prenant en compte une fraction de leur ancienneté de services publics civils dans les conditions suivantes :
 
 1° Les services accomplis dans des fonctions du niveau de la catégorie A sont retenus à raison de la moitié de leur durée jusqu'à douze ans et des trois quarts de cette durée au-delà de douze ans ;
 
