@@ -448,7 +448,6 @@
 - [Arrêté du 14 août 2003 (SOCF0311337A)](arrete-du-14-aout-2003-socf0311337a)
 - [Arrêté du 14 août 2003 (SOCF0311338A)](arrete-du-14-aout-2003-socf0311338a)
 - [Arrêté du 14 août 2003 (SOCF0311339A)](arrete-du-14-aout-2003-socf0311339a)
-- [Arrêté du 14 avril 2003 (AGRG0300695A)](arrete-du-14-avril-2003-agrg0300695a)
 - [Arrêté du 14 avril 2003 (AGRP0300750A)](arrete-du-14-avril-2003-agrp0300750a)
 - [Arrêté du 14 avril 2003 (DEVP0320092A)](arrete-du-14-avril-2003-devp0320092a)
 - [Arrêté du 14 avril 2003 (ECOT0314333A)](arrete-du-14-avril-2003-ecot0314333a)
