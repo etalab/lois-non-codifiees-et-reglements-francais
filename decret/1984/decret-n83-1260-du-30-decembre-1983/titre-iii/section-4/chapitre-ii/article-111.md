@@ -6,76 +6,157 @@ Il est tenu compte, pour le classement, des durées moyennes d'avancement d'éch
 
 Les fonctionnaires de catégorie C ou de même niveau qui détiennent un grade situé en échelle 6 sont classés conformément au tableau de correspondance ci-après :
 
-SITUATION DANS L'ÉCHELLE 6 de la catégorie C
+<table>
+<tbody>
+<tr>
+<td rowspan="2" width="272">
+<p align="center">SITUATION DANS L'ÉCHELLE 6<br/>de la catégorie C</p>
+</td>
+<td colspan="2" width="409">
+<p align="center">SITUATION DANS LE CORPS D'INTÉGRATION DE CATÉGORIE B</p>
+</td>
+</tr>
+<tr>
+<td width="175">
+<p align="center">Classe normale<br/>Echelons</p>
+</td>
+<td width="234">
+<p align="center">Ancienneté conservée<br/>dans la limite<br/>de la durée d'échelon</p>
+</td>
+</tr>
+<tr>
+<td width="272">
+<p>Echelon spécial</p>
+</td>
+<td width="175">
+<p align="center">12e</p>
+</td>
+<td width="234">
+<p align="center">Ancienneté acquise</p>
+</td>
+</tr>
+<tr>
+<td width="272">
+<p>7e échelon</p>
+</td>
+<td width="175">
+<p align="center">11e</p>
+</td>
+<td width="234">
+<p align="center">Ancienneté acquise</p>
+</td>
+</tr>
+<tr>
+<td width="272">
+<p>6e échelon</p>
+</td>
+<td width="175">
+<p align="center">11e</p>
+</td>
+<td width="234">
+<p align="center">Sans ancienneté</p>
+</td>
+</tr>
+<tr>
+<td width="272">
+<p>5e échelon</p>
+</td>
+<td width="175">
+<p align="center">9e</p>
+</td>
+<td width="234">
+<p align="center">2/3 de l'ancienneté acquise</p>
+</td>
+</tr>
+<tr>
+<td width="272">
+<p>4e échelon</p>
+</td>
+<td width="175">
+<p align="center">8e</p>
+</td>
+<td width="234">
+<p align="center">1/3 de l'ancienneté acquise plus 1 an</p>
+</td>
+</tr>
+<tr>
+<td width="272">
+<p>3e échelon :</p>
+</td>
+<td width="175">
+<br/>
+</td>
+<td width="234">
+<br/>
+</td>
+</tr>
+<tr>
+<td width="272">
+<p>- à partir de 2 ans</p>
+</td>
+<td width="175">
+<p align="center">8e</p>
+</td>
+<td width="234">
+<p align="center">Ancienneté acquise au-delà de 2 ans</p>
+</td>
+</tr>
+<tr>
+<td width="272">
+<p>- avant 2 ans</p>
+</td>
+<td width="175">
+<p align="center">7e</p>
+</td>
+<td width="234">
+<p align="center">1/3 de l'ancienneté acquise plus 1 an</p>
+</td>
+</tr>
+<tr>
+<td width="272">
+<p>2e échelon :</p>
+</td>
+<td width="175">
+<br/>
+</td>
+<td width="234">
+<br/>
+</td>
+</tr>
+<tr>
+<td width="272">
+<p>- à partir de 1 an</p>
+</td>
+<td width="175">
+<p align="center">7e</p>
+</td>
+<td width="234">
+<p align="center">Ancienneté acquise au-delà de 1 an</p>
+</td>
+</tr>
+<tr>
+<td width="272">
+<p>- avant 1 an</p>
+</td>
+<td width="175">
+<p align="center">6e</p>
+</td>
+<td width="234">
+<p align="center">Ancienneté acquise plus 1 an</p>
+</td>
+</tr>
+<tr>
+<td width="272">
+<p>1er échelon</p>
+</td>
+<td width="175">
+<p align="center">5e</p>
+</td>
+<td width="234">
+<p align="center">Ancienneté acquise</p>
+</td>
+</tr>
+</tbody>
+</table>
 
-SITUATION DANS LE CORPS D'INTÉGRATION DE CATÉGORIE B
-
-Classe normale
-
-Echelons
-
-Ancienneté conservée dans la limite de la durée d'échelon
-
-Echelon spécial
-
-12e
-
-Ancienneté acquise
-
-7e
-
-11e
-
-Ancienneté acquise
-
-6e
-
-11e
-
-Sans ancienneté
-
-5e
-
-9e
-
-2/3 de l'ancienneté acquise
-
-4e
-
-8e
-
-1/3 de l'ancienneté acquise plus 1 an
-
-3e :
-
-- à partir de 2 ans
-
-8e
-
-Ancienneté acquise au-delà de 2 ans
-
-- avant 2 ans
-
-7e
-
-1/3 de l'ancienneté acquise plus 1 an
-
-2e :
-
-- à partir de 1 an
-
-7e
-
-Ancienneté acquise au-delà de 1 an
-
-- avant 1 an
-
-6e
-
-Ancienneté acquise plus 1 an
-
-1er
-
-5e
-
-Ancienneté acquise
+S'ils y ont intérêt, les fonctionnaires mentionnés au troisième alinéa sont classés en application des dispositions des premier et deuxième alinéas, en tenant compte de la situation qui aurait été la leur s'ils n'avaient cessé de détenir, jusqu'à la date de nomination dans le corps des techniciens de la recherche des établissements publics scientifiques et technologiques, un grade doté de l'échelle 5.

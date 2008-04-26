@@ -6,6 +6,8 @@ Lors du classement, il est tenu compte de la durée moyenne fixée à l'article 
 
 2° Toutefois, les fonctionnaires de catégorie C ou de même niveau qui détiennent un grade situé en échelle 6 sont classés à l'échelon comportant un indice égal ou, à défaut, immédiatement supérieur à celui détenu dans leur grade d'origine.
 
+3° S'ils y ont intérêt, les fonctionnaires mentionnés au 2° sont classés en application des dispositions du 1°, en tenant compte de la situation qui aurait été la leur s'ils n'avaient cessé de détenir, jusqu'à la date de nomination dans le corps des techniciens paramédicaux civils du ministère de la défense, un grade doté de l'échelle 5.
+
 Dans la limite de l'ancienneté moyenne fixée à l'article 12, pour une promotion à l'échelon supérieur, ils conservent l'ancienneté d'échelon qu'ils avaient acquise dans leur précédent grade lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle que leur aurait procurée un avancement d'échelon dans leur ancienne situation.
 
 Les fonctionnaires mentionnés ci-dessus, nommés alors qu'ils ont atteint l'échelon le plus élevé de leur précédent grade, conservent leur ancienneté d'échelon dans la même limite lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle résultant de leur nomination audit échelon.

@@ -7,3 +7,5 @@ Toutefois, les fonctionnaires de catégorie C ou de même niveau qui détiennent
 Dans la limite de l'ancienneté moyenne fixée à l'article 17, pour une promotion à l'échelon supérieur, ils conservent l'ancienneté d'échelon qu'ils avaient acquise dans leur précédent grade lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle que leur aurait procurée un avancement d'échelon dans leur ancienne situation.
 
 Les fonctionnaires mentionnés ci-dessus, nommés alors qu'ils ont atteint l'échelon le plus élevé de leur précédent grade, conservent leur ancienneté d'échelon dans la même limite lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle résultant de leur nomination audit échelon.
+
+S'ils y ont intérêt, ces agents sont classés en application des dispositions du premier alinéa, en tenant compte de la situation qui aurait été la leur s'ils n'avaient cessé de détenir, jusqu'à la date de nomination dans l'un des corps des infirmières et infirmiers des services médicaux de l'Etat régis par le présent décret, un grade doté de l'échelle 5.

@@ -2,7 +2,7 @@
 
 Dans la limite des deux cinquièmes du nombre total des nominations prononcées en application des dispositions de l'article 6 ci-dessus et des détachements prononcés dans les conditions fixées au 2° de l'article 19 du décret n° 85-986 du 16 septembre 1985 modifié relatif au régime particulier de certaines positions des fonctionnaires de l'Etat et à certaines modalités de cessation définitive de fonctions, peuvent être nommés techniciens géomètres, après inscription sur une liste d'aptitude établie après avis de la commission administrative paritaire, les fonctionnaires de catégorie C des services déconcentrés de la direction générale des impôts remplissant les conditions suivantes :
 
-1° Justifier à la date fixée ci-dessus de quinze années au moins de services effectifs accomplis en qualité de fonctionnaire. Le temps du service national actif effectivement accompli vient en déduction de la durée de service exigée ;
+1° Justifier au 31 décembre de l'année au titre de laquelle la liste d'aptitude est établie de quinze années au moins de services effectifs accomplis en qualité de fonctionnaire. Le temps du service national actif effectivement accompli vient en déduction de la durée de service exigée ;
 
 2° Etre titulaire de deux des prébrevets mentionnés à l'article 17.
 

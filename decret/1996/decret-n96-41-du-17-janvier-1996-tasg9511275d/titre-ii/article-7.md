@@ -2,7 +2,7 @@
 
 Les techniciens recrutés en application de l'article 5 ci-dessus sont nommés techniciens stagiaires par arrêté du ministre chargé de la santé.
 
-Lors de leur nomination, les techniciens stagiaires sont classés au 1er échelon du grade de technicien sanitaire de 2e classe, sous réserve des dispositions prévues aux articles 3 à 4-1 et 4-3 à 7 du décret du 18 novembre 1994 susvisé.
+Lors de leur nomination, les techniciens stagiaires sont classés au 1er échelon du grade de technicien sanitaire, sous réserve des dispositions prévues aux articles 3 à 4-1 et 4-3 à 7 du décret du 18 novembre 1994 susvisé.
 
 Lors du classement, est prise en compte la durée moyenne fixée à l'article 11 pour chaque avancement d'échelon dans le corps des techniciens sanitaires.
 

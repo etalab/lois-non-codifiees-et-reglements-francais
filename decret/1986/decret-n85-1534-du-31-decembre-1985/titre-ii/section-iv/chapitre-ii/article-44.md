@@ -11,35 +11,35 @@ Les fonctionnaires de catégorie C ou de même niveau qui détiennent un grade s
 <tr>
 <td align="left" valign="middle">
 <p align="center">
-<strong>SITUATION DANS L'ECHELLE 6<br/>
-</strong>de la catégorie C</p>
+<strong>SITUATION DANS L'ECHELLE 6 <br/>
+</strong>de la catégorie C </p>
 </td>
 <td align="left" colspan="2" valign="middle">
 <p align="center">
-<strong>SITUTION DANS LE CORPS DE LA CATEGORIE B</strong>
+<strong>SITUTION DANS LE CORPS DE LA CATEGORIE B </strong>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="middle">
-<pre> </pre>
+<pre/>
 </td>
 <td align="left" valign="middle">
-<p align="center">Classe normale<br/>Echelons</p>
+<p align="center">Classe normale <br/>Echelons </p>
 </td>
 <td align="left" valign="middle">
-<p align="center">Ancienneté conservée<br/>dans la limite de la durée d'échelon</p>
+<p align="center">Ancienneté conservée <br/>dans la limite de la durée d'échelon </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="middle">
-<p align="justify">Echelon spécial</p>
+<p align="justify">Echelon spécial </p>
 </td>
 <td align="left" valign="middle">
-<p align="center">12e</p>
+<p align="center">12e </p>
 </td>
 <td align="left" valign="middle">
-<p align="justify">Ancienneté acquise.</p>
+<p align="justify">Ancienneté acquise. </p>
 </td>
 </tr>
 <tr>
@@ -47,10 +47,10 @@ Les fonctionnaires de catégorie C ou de même niveau qui détiennent un grade s
 <p align="justify">7e </p>
 </td>
 <td align="left" valign="middle">
-<p align="center">11e</p>
+<p align="center">11e </p>
 </td>
 <td align="left" valign="middle">
-<p align="justify">Ancienneté acquise.</p>
+<p align="justify">Ancienneté acquise. </p>
 </td>
 </tr>
 <tr>
@@ -58,10 +58,10 @@ Les fonctionnaires de catégorie C ou de même niveau qui détiennent un grade s
 <p align="justify">6e </p>
 </td>
 <td align="left" valign="middle">
-<p align="center">11e</p>
+<p align="center">11e </p>
 </td>
 <td align="left" valign="middle">
-<p align="justify">Sans ancienneté.</p>
+<p align="justify">Sans ancienneté. </p>
 </td>
 </tr>
 <tr>
@@ -69,10 +69,10 @@ Les fonctionnaires de catégorie C ou de même niveau qui détiennent un grade s
 <p align="justify">5e </p>
 </td>
 <td align="left" valign="middle">
-<p align="center">9e</p>
+<p align="center">9e </p>
 </td>
 <td align="left" valign="middle">
-<p align="justify">2/3 de l'ancienneté acquise.</p>
+<p align="justify">2 / 3 de l'ancienneté acquise. </p>
 </td>
 </tr>
 <tr>
@@ -80,10 +80,10 @@ Les fonctionnaires de catégorie C ou de même niveau qui détiennent un grade s
 <p align="justify">4e </p>
 </td>
 <td align="left" valign="middle">
-<p align="center">8e</p>
+<p align="center">8e </p>
 </td>
 <td align="left" valign="middle">
-<p align="justify">1/3 de l'ancienneté acquise plus 1 an.</p>
+<p align="justify">1 / 3 de l'ancienneté acquise plus 1 an. </p>
 </td>
 </tr>
 <tr>
@@ -91,18 +91,18 @@ Les fonctionnaires de catégorie C ou de même niveau qui détiennent un grade s
 <p align="justify">3e</p>
 </td>
 <td align="left" valign="middle">
-<pre> </pre>
+<pre/>
 </td>
 <td align="left" valign="middle">
-<pre> </pre>
+<pre/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="middle">
-<p align="justify">- à partir de 2 ans</p>
+<p align="justify">-à partir de 2 ans </p>
 </td>
 <td align="left" valign="middle">
-<p align="center">8e</p>
+<p align="center">8e </p>
 </td>
 <td align="left" valign="middle">
 <p align="justify">Ancienneté acquise au-delà de 2 ans.</p>
@@ -110,13 +110,13 @@ Les fonctionnaires de catégorie C ou de même niveau qui détiennent un grade s
 </tr>
 <tr>
 <td align="left" valign="middle">
-<p align="justify">- avant 2 ans</p>
+<p align="justify">-avant 2 ans </p>
 </td>
 <td align="left" valign="middle">
-<p align="center">7e</p>
+<p align="center">7e </p>
 </td>
 <td align="left" valign="middle">
-<p align="justify">1/3 de l'ancienneté acquise plus 1 an.</p>
+<p align="justify">1 / 3 de l'ancienneté acquise plus 1 an. </p>
 </td>
 </tr>
 <tr>
@@ -124,18 +124,18 @@ Les fonctionnaires de catégorie C ou de même niveau qui détiennent un grade s
 <p align="justify">2e</p>
 </td>
 <td align="left" valign="middle">
-<pre> </pre>
+<pre/>
 </td>
 <td align="left" valign="middle">
-<pre> </pre>
+<pre/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="middle">
-<p align="justify">- à partir de 1 an</p>
+<p align="justify">-à partir de 1 an </p>
 </td>
 <td align="left" valign="middle">
-<p align="center">7e</p>
+<p align="center">7e </p>
 </td>
 <td align="left" valign="middle">
 <p align="justify">Ancienneté acquise au-delà de 1 an.</p>
@@ -143,25 +143,27 @@ Les fonctionnaires de catégorie C ou de même niveau qui détiennent un grade s
 </tr>
 <tr>
 <td align="left" valign="middle">
-<p align="justify">- avant 1 an</p>
+<p align="justify">-avant 1 an </p>
 </td>
 <td align="left" valign="middle">
-<p align="center">6e</p>
+<p align="center">6e </p>
 </td>
 <td align="left" valign="middle">
-<p align="justify">Ancienneté acquise plus 1 an.</p>
+<p align="justify">Ancienneté acquise plus 1 an. </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="middle">
-<p align="justify">1er</p>
+<p align="justify">1er </p>
 </td>
 <td align="left" valign="middle">
-<p align="center">5e</p>
+<p align="center">5e </p>
 </td>
 <td align="left" valign="middle">
-<p align="justify">Ancienneté acquise.</p>
+<p align="justify">Ancienneté acquise. </p>
 </td>
 </tr>
 </tbody>
 </table>
+
+S'ils y ont intérêt, les fonctionnaires mentionnés au troisième alinéa sont classés en application des dispositions des premier et deuxième alinéas, en tenant compte de la situation qui aurait été la leur s'ils n'avaient cessé de détenir, jusqu'à la date de nomination dans le corps des techniciens de recherche et de formation du ministère de l'éducation nationale, un grade doté de l'échelle 5.

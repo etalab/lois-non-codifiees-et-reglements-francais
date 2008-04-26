@@ -4,7 +4,7 @@ Les techniciens des services culturels et des Bâtiments de France sont recruté
 
 1° Par la voie d'un concours externe ou d'un concours interne dans les conditions ci-après :
 
-a) Un concours externe est ouvert aux candidats titulaires d'un baccalauréat ou d'un titre ou diplôme classé au moins au niveau IV, ou d'une qualification reconnue comme équivalente à l'un de ces titres ou diplômes, dans les conditions fixées par du ministre de la culture et de la communication et du ministre de la fonction publique.
+a) Un concours externe est ouvert aux candidats titulaires d'un baccalauréat ou d'un titre ou diplôme classé au moins au niveau IV, ou d'une qualification reconnue comme équivalente à l'un de ces titres ou diplômes, dans les conditions fixées par arrêté du ministre de la culture et de la communication et du ministre de la fonction publique.
 
 b) Le concours interne est ouvert, pour chaque spécialité, aux fonctionnaires et agents publics de l'Etat, des collectivités territoriales et des établissements publics qui en dépendent, aux militaires ainsi qu'aux agents en fonctions dans une organisation internationale intergouvernementale à la date de clôture des inscriptions, comptant au moins quatre ans de services publics au 1er janvier de l'année au titre de laquelle est organisé le concours.
 

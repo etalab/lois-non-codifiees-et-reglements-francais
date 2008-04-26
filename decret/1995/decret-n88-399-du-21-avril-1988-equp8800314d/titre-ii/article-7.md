@@ -12,7 +12,7 @@ Le nombre de postes offerts à chacun des deux concours est fixé par arrêté d
 
 a) Par examen professionnel ouvert aux fonctionnaires des corps suivants du ministère chargé de l'équipement : conducteurs des travaux publics de l'Etat, agents et chefs d'équipe d'exploitation des travaux publics de l'Etat, dessinateurs et experts techniques des services techniques. Les agents doivent justifier au 1er janvier de l'année de l'examen professionnel de dix ans de services publics, dont au moins cinq ans de services effectifs dans l'un ou l'autre de ces corps ;
 
-b) Au choix, par voie d'inscription sur une liste d'aptitude après avis de la commission administrative paritaire du corps des contrôleurs des travaux publics de l'Etat, parmi les chefs d'équipe d'exploitation et les chefs d'équipe d'exploitation principaux des travaux publics de l'Etat qui, au 1er janvier de l'année pour laquelle la liste est établie, justifient de dix ans de services effectifs dans l'un ou l'autre de ces grades.
+b) Au choix, par voie d'inscription sur une liste d'aptitude établie après avis de la commission administrative paritaire du corps des contrôleurs des travaux publics de l'Etat, parmi les chefs d'équipe d'exploitation et les chefs d'équipe d'exploitation principaux des travaux publics de l'Etat qui, au 1er janvier de l'année pour laquelle la liste est établie, justifient de dix ans de services effectifs dans l'un ou l'autre de ces grades.
 
 Les nominations au titre du 2° s'effectuent dans chacune des voies indiquées dans une proportion variant de deux à trois cinquièmes. Lorsque le nombre de candidats reçus au titre du a est inférieur au nombre de postes offerts à ce titre, le nombre de nominations prononcées au titre du b peut être augmenté à due concurrence.
 
