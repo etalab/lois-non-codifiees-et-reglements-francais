@@ -26,4 +26,6 @@ Corps des secrétaires des affaires étrangères.
 
 Corps des attachés d'administration des juridictions financières.
 
-Corps  des attachés d'administration du Conseil d'Etat.
+Corps des attachés d'administration du Conseil d'Etat.
+
+Corps des attachés d'administration de l'aviation civile.
