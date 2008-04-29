@@ -1,7 +1,5 @@
 # Article Annexe
 
-A N N E X E
-
 INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
 Intitulé :
@@ -14,25 +12,23 @@ Code NSF : 233 s.
 
 Résumé du référentiel d'emploi
 
-Le plâtrier construit des cloisons et des plafonds avec des produits à base de briques et de plâtre pour aménager les espaces intérieurs de bâtiments. Il enduit les ouvrages réalisés lors des travaux de finition.
+Le plâtrier construit des cloisons et des plafonds avec des produits à base de briques et de plâtre, pour aménager les espaces intérieurs de bâtiments. Il enduit les ouvrages réalisés lors des travaux de finition.
 
 Il intervient dans les chantiers de construction et de rénovation de tous types de bâtiments publics et privés, parfois en site occupé. Il exerce son activité dans des locaux couverts et fermés, parfois sur des échafaudages, et se trouve très souvent amené à soulever et transporter des charges.
 
-Il travaille au sein d'entreprises comportant le plus souvent moins de 20 salariés, généralement en équipe de 2 à 3 personnes, sous la responsabilité d'un chef d'équipe. Il applique et adapte les consignes transmises en tenant compte de l'état des supports et des contraintes de l'environnement. Les problèmes qu'il doit résoudre sont liés au respect des normes de qualité et de productivité des ouvrages. L'atteinte de ces résultats est conditionnée par une bonne organisation, la connaissance des modes opératoires et des critères de recevabilité.
+Il travaille au sein d'entreprises comportant, le plus souvent, moins de vingt salariés, généralement en équipes de deux ou trois personnes, sous la responsabilité d'un chef d'équipe. Il applique et adapte les consignes transmises en tenant compte de l'état des supports et des contraintes de l'environnement. Les problèmes qu'il doit résoudre sont liés au respect des normes de qualité et de productivité des ouvrages. L'atteinte de ces résultats est conditionnée par une bonne organisation, la connaissance des modes opératoires et des critères de recevabilité.
 
 L'activité comporte des déplacements, des contraintes de productivité et nécessite parfois des horaires adaptés liés aux délais de prise du plâtre et aux problèmes de reprise d'ouvrages.
 
-Capacités attestées et descriptif
+Capacités attestées et descriptif des composantes de la certification
 
-des composantes de la certification
+1. Réaliser l'aménagement intérieur de locaux
 
-1. Réaliser l'aménagement intérieur de locaux à usage
-
-d'habitation en plaques de plâtre de technicité courante
+à usage d'habitation en plaques de plâtre de technicité courante
 
 Démolir des ouvrages d'agencement intérieur en vue de la rénovation de bâtiments.
 
-Mettre en oeuvre un plafond sur ossature métallique type fourrure, avec pose d'isolants.
+Poser un plafond sur ossature métallique type fourrure, avec pose d'isolants.
 
 Poser et coller des plaques, des complexes de doublages isolants.
 
@@ -40,31 +36,21 @@ Réaliser un doublage sur ossature métallique type rails et montants, avec pose
 
 Construire des cloisons de distribution avec ossature métallique, comportant la pose de menuiseries et un liaisonnement en L et en T.
 
-Réaliser le traitement des joints et les travaux de finition sur des ouvrages en plaques de plâtre de technicité courante.
-
-Organiser au quotidien ses activités d'aménagement intérieur en produits à base de plaques de plâtre de technicité courante.
+Réaliser le traitement des joints et les travaux de finition sur des ouvrages en plaques de plâtre.
 
 2. Construire des ouvrages en briques hourdées au plâtre
 
 et en carreaux assemblés à la colle
 
-Démolir des ouvrages d'agencement intérieur en vue de la rénovation de bâtiments.
+Construire des plafonds en briques hourdées au plâtre, avec pose d'isolants.
 
-Construire des plafonds suspendus en briques hourdées au plâtre, avec pose d'isolants.
+Construire des cloisons de doublage et de distribution en briques plâtrières hourdées au plâtre.
 
-Construire des cloisons de doublage en briques plâtrières hourdées au plâtre, avec pose d'isolants.
+Construire des cloisons et des gaines techniques verticales en carreaux de plâtre comportant la pose de tout type de menuiseries.
 
-Construire des cloisons de distribution en briques plâtrières hourdées au plâtre, comportant la pose de tout type de menuiseries.
+Construire des cloisons en carreaux de brique comportant la pose de tout type de menuiseries.
 
-Construire des cloisons et des gaines techniques verticales en carreaux de plâtre, comportant la pose de tout type de menuiseries.
-
-Construire des cloisons en carreaux de brique, comportant la pose de tout type de menuiseries.
-
-Organiser, au quotidien, ses activités de briquetage.
-
-3. Enduire au plâtre manuellement et mécaniquement
-
-tous supports horizontaux et verticaux
+3. Enduire au plâtre manuellement et mécaniquement tous supports horizontaux et verticaux
 
 Enduire des plafonds manuellement, à la volée, en une seule couche de plâtre, normal ou allégé.
 
@@ -74,35 +60,27 @@ Enduire manuellement des supports verticaux, à la volée, en une seule couche d
 
 Enduire manuellement, sur nus, des supports verticaux au plâtre normal ou allégé.
 
-Organiser au quotidien ses activités d'enduisage.
+Enduire mécaniquement au plâtre tout type de support.
 
-CCS :
-
-Fabriquer et réaliser des ouvrages en staff.
+CCS : Réaliser des ouvrages en staff
 
 Fabriquer des plaques en staff et des éléments par traînage droit et circulaire.
 
-Réaliser des éléments en staff après fabrication de moules en plâtre ou en élastomère.
+Fabriquer des éléments en staff après fabrication de moules en plâtre ou en élastomère.
 
 Poser des plaques et des éléments en staff.
 
 Réaliser une protection incendie avec des éléments en staff.
 
-Secteurs d'activités ou types d'emploi
+Secteurs d'activités ou types d'emploi accessibles par le détenteur du titre
 
-accessibles par le détenteur du titre
+Petites et moyennes entreprises du second œuvre bâtiment intervenant dans le domaine de l'aménagement finitions.
 
-Petites et moyennes entreprises du second oeuvre intervenant dans le domaine de l'aménagement-finitions.
+Codes ROME :
 
-Entreprises de travail temporaire.
+42114-Ouvrier / ouvrière de la maçonnerie.
 
-Services d'entretien de sociétés et de services publics.
-
-Code(s) ROME :
-
-42114 - Ouvrier/ouvrière de la maçonnerie ;
-
-42222 - Monteur/monteuse plaquiste en agencements.
+42222-Monteur / monteuse plaquiste en agencements.
 
 Réglementation de l'activité :
 
@@ -114,8 +92,6 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
+Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
 
-Décret n° 2002-1029 du 2 août 2002 ;
-
-Arrêté du 25 novembre 2002.
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.
