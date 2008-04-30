@@ -8,9 +8,9 @@ il est de 30 jours ou égal au solde restant à courir à la date de la suspensi
 
 Lorsque l'ordonnateur et le comptable ne relèvent pas de la même personne morale et sont convenus d'un délai de règlement conventionnel dans les conditions prévues à l'article 7, ce nouveau délai global ne peut être inférieur à 15 jours augmentés du délai maximum prévu pour l'intervention du comptable dans le cadre de ce délai de règlement conventionnel.
 
-II. - Dans le cas particulier où notification ou signification d'une cession ou d'un nantissement a été faite au comptable et où celui-ci ne dispose pas de l'exemplaire unique du marché en même temps que de l'ordonnance ou du mandat et des autres pièces justificatives, le comptable suspend le délai global selon les modalités décrites ci-dessus.
+II. - Dans le cas particulier où notification ou signification d'une cession ou d'un nantissement a été faite au comptable et où celui-ci ne dispose pas de l'exemplaire unique ou du certificat de cessibilité du marché en même temps que de l'ordonnance ou du mandat et des autres pièces justificatives, le comptable suspend le délai global selon les modalités décrites ci-dessus.
 
-Le solde du délai global court à dater de la réception de l'exemplaire unique par le comptable. Il ne peut être inférieur à 7 jours.
+Le solde du délai global court à dater de la réception de l'exemplaire unique ou du certificat de cessibilité par le comptable. Il ne peut être inférieur à 7 jours.
 
 Il en va de même s'agissant du nantissement intervenu après le jugement d'ouverture de la procédure collective, qui ne peut être exécuté sans l'accord de l'administrateur judiciaire. Le courrier par lequel le comptable sollicite cet accord suspend le délai global de paiement et indique à l'administrateur le délai dans lequel il doit faire connaître sa réponse.
 
