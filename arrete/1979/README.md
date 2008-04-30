@@ -72,4 +72,3 @@
 - [Arrêté du 30 août 1979](arrete-du-30-aout-1979)
 - [Arrêté du 30 juillet 1979](arrete-du-30-juillet-1979)
 - [Arrêté du 30 juin 1979](arrete-du-30-juin-1979)
-- [Arrêté du 30 mars 1979](arrete-du-30-mars-1979)

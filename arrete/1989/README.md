@@ -68,7 +68,6 @@
 - [Arrêté du 4 juillet 1989 (BUDR8905033A)](arrete-du-4-juillet-1989-budr8905033a)
 - [Arrêté du 4 mars 1989 (SPSG8900404A)](arrete-du-4-mars-1989-spsg8900404a)
 - [Arrêté du 4 novembre 1989 (TEFT8903862A)](arrete-du-4-novembre-1989-teft8903862a)
-- [Arrêté du 4 octobre 1989 (MENK8970122A)](arrete-du-4-octobre-1989-menk8970122a)
 - [Arrêté du 4 septembre 1989 (ECOC8900093A)](arrete-du-4-septembre-1989-ecoc8900093a)
 - [Arrêté du 5 avril 1989 (EQUA8900340A)](arrete-du-5-avril-1989-equa8900340a)
 - [Arrêté du 5 décembre 1989 (ECOC8900150A)](arrete-du-5-decembre-1989-ecoc8900150a)

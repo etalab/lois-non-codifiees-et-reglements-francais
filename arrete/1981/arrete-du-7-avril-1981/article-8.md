@@ -1,6 +1,6 @@
 # Article 8
 
-Les déclarations visées à l'article 7 sont transmises au ministère chargé de la santé qui consulte l'Agence française de sécurité sanitaire de l'environnement et du travail, en vue d'une évaluation de l'efficacité et des risques que les produits ou les procédés peuvent directement ou indirectement entraîner pour la santé.
+Les déclarations visées à l'article 7 sont transmises au ministère chargé de la santé qui consulte le Conseil supérieur d'hygiène publique de France, en vue d'une évaluation de l'efficacité et des risques que les produits ou les procédés peuvent directement ou indirectement entraîner pour la santé.
 
 L'évaluation est effectuée en considérant :
 
@@ -16,6 +16,6 @@ L'évaluation est effectuée en considérant :
 
 6. Les réactions éventuelles avec les autres composés chimiques habituellement présents dans les établissements de natation comme les produits de nettoyage et de désinfection des sols, les produits additifs de traitement de l'eau (algicides,...) et les matières organiques ;
 
-7. Les résultats d'essais en vraie grandeur selon un protocole validé par l'Agence française de sécurité sanitaire de l'environnement et du travail.
+7. Les résultats d'essais en vraie grandeur selon un protocole validé par le CSHPF.
 
 Le dossier joint à la demande doit être établi selon les dispositions de l'annexe du présent arrêté et notamment être accompagné des éléments descriptifs du mode de contrôle par l'Etat membre, en particulier de la procédure d'évaluation utilisée.

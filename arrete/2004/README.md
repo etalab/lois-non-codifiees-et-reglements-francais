@@ -320,7 +320,6 @@
 - [Arrêté du 11 février 2004 (INTC0400126A)](arrete-du-11-fevrier-2004-intc0400126a)
 - [Arrêté du 11 février 2004 (INTC0400127A)](arrete-du-11-fevrier-2004-intc0400127a)
 - [Arrêté du 11 février 2004 (PRMX0407124A)](arrete-du-11-fevrier-2004-prmx0407124a)
-- [Arrêté du 11 février 2004 (SPRK0470013A)](arrete-du-11-fevrier-2004-sprk0470013a)
 - [Arrêté du 11 juin 2004 (DEFC0400651A)](arrete-du-11-juin-2004-defc0400651a)
 - [Arrêté du 11 juin 2004 (EQUI0400879A)](arrete-du-11-juin-2004-equi0400879a)
 - [Arrêté du 11 juin 2004 (EQUN0400454A)](arrete-du-11-juin-2004-equn0400454a)
