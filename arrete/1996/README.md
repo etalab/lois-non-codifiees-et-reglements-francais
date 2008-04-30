@@ -248,7 +248,6 @@
 - [Arrêté du 8 octobre 1996 (DEFB9602041A)](arrete-du-8-octobre-1996-defb9602041a)
 - [Arrêté du 8 octobre 1996 (DEFE9601942A)](arrete-du-8-octobre-1996-defe9601942a)
 - [Arrêté du 8 octobre 1996 (DEFP9602005A)](arrete-du-8-octobre-1996-defp9602005a)
-- [Arrêté du 8 octobre 1996 (MJSK9670126A)](arrete-du-8-octobre-1996-mjsk9670126a)
 - [Arrêté du 9 août 1996 (EQUA9601064A)](arrete-du-9-aout-1996-equa9601064a)
 - [Arrêté du 9 août 1996 (TASP9623144A)](arrete-du-9-aout-1996-tasp9623144a)
 - [Arrêté du 9 août 1996 (TASS9623121A)](arrete-du-9-aout-1996-tass9623121a)
