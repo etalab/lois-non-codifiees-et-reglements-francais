@@ -1,10 +1,10 @@
 # Article Annexe
 
-A N N E X E
+INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
-INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES Intitulé :
+Intitulé :
 
-Titre professionnel : formateur(trice) professionnel(le) d'adultes.
+Formateur (trice) professionnel (le) d'adultes.
 
 Niveau : III.
 
@@ -12,67 +12,65 @@ Code NSF : 333 t.
 
 Résumé du référentiel d'emploi
 
-Le/la formateur(trice) professionnel(le) d'adultes conduit en autonomie des dispositifs de formation d'adultes et anime des interventions relatives à son champ de compétences professionnelles. Il (elle) contribue, par la formation et à partir de son expertise technique, à la qualification (sociale et/ou professionnelle) des adultes qui lui sont confiés, pour leur permettre notamment l'accès ou le maintien dans une situation d'activité ou d'emploi.
+Par sa double expertise, pédagogique et technique, le (la) formateur (trice) contribue au développement des compétences favorisant l'insertion sociale et professionnelle, l'acquisition d'une qualification et / ou la professionnalisation des personnes pour leur permettre l'accès ou le maintien dans une situation d'activité ou d'emploi.
 
-L'emploi s'exerce généralement dans des organismes de formation publics et/ou privés opérant dans le champ de la qualification et/ou de l'insertion ou dans des entreprises, tous secteurs confondus, sur site ou en intégré. Les conditions d'exercice dépendent étroitement des types de structures et des organisations du travail, très diversifiées, et peuvent varier très sensiblement. Les interventions s'effectuent dans le cadre d'horaires généralement réguliers ; elles s'effectuent de manière relativement autonome tout en respectant les orientations de la structure et des objectifs de la formation concernée. Le/la formateur(trice) peut être salarié(e), intervenir à la vacation ou comme travailleur(euse) indépendant(e). Il (elle) travaille souvent en équipe et entretient des relations avec l'environnement professionnel et institutionnel local. L'emploi exige disponibilité et mobilité.
+Pour cela, il (elle) participe à la conception, prépare, anime des actions de formation. Il (elle) évalue les acquis et réalise un bilan. Il (elle) contribue à l'élaboration de dispositifs de formation, adapte éventuellement des parcours aux besoins des personnes et aux contraintes. Il (elle) accompagne ces personnes durant leur parcours et participe à l'évaluation du dispositif.
 
-Capacités attestées et descriptif
+L'emploi s'exerce généralement dans des organismes de formation, centres ou établissements publics et / ou privés opérant dans le champ de la qualification et / ou de l'insertion ou dans des entreprises, tous secteurs confondus. Les conditions d'exercice dépendent étroitement des types de structures et des organisations du travail, très diversifiées, et peuvent varier très sensiblement. Les interventions s'effectuent dans le cadre d'horaires généralement réguliers ; elles s'effectuent de manière relativement autonome tout en respectant la législation en matière de discrimination, de sécurité, les orientations de la structure, les objectifs de la formation concernée ainsi que les procédures institutionnelles, réglementaires et administratives. Le (la) formateur (trice) peut être salarié (e), salarié occasionnel ou travailleur indépendant. Il (elle) travaille souvent en équipe et entretient des relations avec l'environnement professionnel et institutionnel local. L'emploi peut exiger disponibilité et mobilité.
 
-des composantes de la certification
+Capacités attestées et descriptif des composantes de la certification
 
-1. Animer des actions de formation
+1. Préparer et animer des actions de formation
 
-Préparer l'animation d'une formation collective ou individualisée, en présentiel ou en formation assistée par ordinateur (FOAD), en centre de formation ou sur poste de travail (Ingénierie pédagogique).
+Construire le déroulement d'une action de formation, à partir de la demande ou du référentiel.
 
-Animer des séances en format collectif à partir d'un scénario (toutes situations d'apprentissages en groupe : formations collectives, regroupements de formations individualisées ou à distance).
+Préparer le scénario pédagogique détaillé d'une animation et les ressources nécessaires.
 
-Animer des séances de formation en format individualisé, en présentiel, en formation assistée par ordinateur (FOAD) ou sur le poste de travail.
+Animer une séance de formation collective.
 
-Accompagner et évaluer les apprentissages dans une formation collective ou individualisée, en présentiel ou en formation assistée par ordinateur (FOAD), et en centre de formation ou sur le poste de travail.
+Evaluer les acquis des apprenants.
 
-Assurer la conduite administrative et pédagogique d'une action de formation.
+Remédier aux difficultés individuelles constituant des freins à l'apprentissage.
 
-Contribuer à la valorisation et au développement de dispositifs ou d'actions de formation par l'activité d'animation.
+Evaluer l'action de formation et en réaliser le bilan.
 
-2. Accompagner des personnes en formation
+Assurer la logistique de formation.
 
-et suivre des parcours et des projets
+Participer à la veille pédagogique, technique, commerciale et environnementale de la formation professionnelle.
 
-Orienter, positionner et construire des parcours individuels de formation combinant différentes modalités.
+Analyser ses pratiques professionnelles.
 
-Suivre les projets professionnels et gérer l'alternance en formation/emploi.
+Inscrire ses actes professionnels dans une démarche de responsabilité sociale et professionnelle.
 
-Accompagner les personnes isolées ou en difficulté dans leur parcours et leurs apprentissages.
+2. Contribuer à l'élaboration de dispositifs et accompagner des parcours de formation
 
-Conduire des entretiens individuels dans le cadre d'une formation.
+Mobiliser un réseau pour optimiser la réponse aux besoins des personnes (liés à la formation, à la professionnalisation, à la certification).
 
-Contribuer à la valorisation et au développement de dispositifs ou d'actions de formation par l'activité d'accompagnement.
+Contribuer à l'élaboration de dispositifs pouvant combiner diverses modalités et situations pédagogiques.
 
-3. Construire et conduire des actions spécifiques de formation
+Contribuer à l'optimisation des parcours et des flux.
 
-Construire le scénario pédagogique global d'une action spécifique de formation dans sa spécialité.
+Accompagner les apprenants dans leur projet et leurs démarches d'insertion professionnelle.
 
-Construire un projet d'action spécifique de formation dans sa spécialité à partir du cahier des charges de la demande.
+Accompagner la construction et la mise en œuvre des parcours.
 
-Conduire et évaluer un projet et/ou une action spécifique de formation dans sa spécialité.
+Contribuer à l'évaluation d'un dispositif.
 
-Evaluer et/ou valider les acquis professionnels et/ou de l'expérience dans sa spécialité.
+Assurer la logistique de formation.
 
-Contribuer à la valorisation et au développement de dispositifs ou d'actions de formation par l'activité d'ingénierie.
+Participer à la veille pédagogique, technique, commerciale et environnementale de la formation professionnelle.
 
-Secteurs d'activités ou types d'emploi
+Analyser ses pratiques professionnelles.
 
-accessibles par le détenteur du titre
+Inscrire ses actes professionnels dans une démarche de responsabilité sociale et professionnelle.
+
+Secteurs d'activités ou types d'emploi accessibles par le détenteur du titre
 
 Organismes de formation d'adultes.
 
-Services de formation.
+Code ROME :
 
-Code(s) ROME :
-
-22211 - Formateur ;
-
-22212 - Conseiller en formation.
+22211-Formateur (trice) professionnel (le) d'adultes.
 
 Réglementation de l'activité :
 
@@ -84,8 +82,6 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
+Articles L. 335-5, L. 335-6 et R. 335-13, R. 338-1 du code de l'éducation ;
 
-Décret n° 2002-1029 du 2 août 2002 ;
-
-Arrêté du 25 novembre 2002.
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministre chargé de l'emploi.
