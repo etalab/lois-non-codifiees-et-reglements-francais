@@ -710,7 +710,6 @@
 - [Décret n°96-256 du 28 mars 1996 (ECOS9550036D)](decret-n96-256-du-28-mars-1996-ecos9550036d)
 - [Décret n°96-257 du 28 mars 1996 (ECOS9550035D)](decret-n96-257-du-28-mars-1996-ecos9550035d)
 - [Décret n°96-259 du 28 mars 1996 (ECOS9650008D)](decret-n96-259-du-28-mars-1996-ecos9650008d)
-- [Décret n°96-261 du 28 mars 1996 (PRMX9600030D)](decret-n96-261-du-28-mars-1996-prmx9600030d)
 - [Décret n°96-284 du 28 mars 1996 (MCCB9500710D)](decret-n96-284-du-28-mars-1996-mccb9500710d)
 - [Décret n°96-286 du 28 mars 1996 (DOMP9600002D)](decret-n96-286-du-28-mars-1996-domp9600002d)
 - [Décret n°96-578 du 28 juin 1996 (TASF9610827D)](decret-n96-578-du-28-juin-1996-tasf9610827d)
