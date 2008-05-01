@@ -8,4 +8,4 @@ La mise en oeuvre des dispositions relatives à la sécurité contre les risques
 
 Les vérifications et contrôles techniques réglementaires sont effectués par des organismes désignés par le ministre de la défense.
 
-Les décisions d'ouverture et de fermeture des établissements sont prises, après avis de la commission militaire de sécurité et du service constructeur, par les généraux commandants de région ou les préfets maritimes pour les armées, et pas les directeurs centraux ou régionaux des services dans les autres cas.
+Les décisions d'ouverture et de fermeture des établissements sont prises, après avis de la commission militaire de sécurité et du service constructeur, par les généraux commandants de région, les préfets maritimes ou le général commandant du soutien des forces aériennes, pour les armées, et par les directeurs centraux ou régionaux des services dans les autres cas.

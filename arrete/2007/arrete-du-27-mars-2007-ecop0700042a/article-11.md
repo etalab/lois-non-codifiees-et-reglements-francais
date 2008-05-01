@@ -20,6 +20,10 @@ Le bureau " documentation, archives et courrier " :
 
 Il est chargé de la diffusion de l'information au sein de la direction. Il réalise une veille et une analyse documentaire à destination des bureaux. Il assure l'archivage de la production administrative et la gestion du courrier de la direction.
 
+Le bureau "informatique et infrastructures " :
+
+Il est chargé de l'informatique, des systèmes d'information, de la logistique, de la reprographie et de la bureautique pour la direction du budget.
+
 La cellule " communication " :
 
 Elle assure la coordination de la communication interne et externe de la direction.
