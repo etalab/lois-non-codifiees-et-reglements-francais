@@ -1,3 +1,0 @@
-# Article 14
-
-Le ministre d'Etat chargé de la défense nationale, le ministre d'Etat chargé des affaires sociales, le ministre de l'économie et des finances, le secrétaire d'Etat auprès du Premier ministre, chargé de la fonction publique et des services de l'information, le secrétaire d'Etat auprès du ministre d'Etat chargé des affaires sociales et le secrétaire d'Etat auprès du ministre de l'économie et des finances, chargé du budget, sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui prend effet au 23 octobre 1972 et sera publié au Journal officiel de la République française.
