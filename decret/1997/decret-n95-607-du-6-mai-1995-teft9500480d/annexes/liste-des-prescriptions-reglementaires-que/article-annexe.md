@@ -1,14 +1,8 @@
 # Article Annexe
 
-I. - Dispositions du code du travail
+I. (Abrogé)
 
-(Deuxième partie. - Décrets en Conseil d'Etat)
-
-Articles R. 231-54-1 à 231-54-4, R. 231-54-6 à R. 231-54-8 et R. 231-56 à R. 231-56-3.
-
-Articles R. 233-1, R. 233-1-1, R. 233-1-3, R. 233-4, R. 233-5, R. 233-11, R. 233-11-1, R. 233-11-2, R. 233-13, R. 233-13-1, R. 233-13-2, R. 233-13-3, R. 233-13-4, R. 233-13-5 (alinéas 1 et 2), R. 233-13-7, R. 233-13-11, R. 233-13-12, R. 233-13-13, R. 233-13-14, R. 233-13-15, R. 233-13-17 (alinéa 2), R. 233-13-19 (alinéa 1), R. 233-13-20 à R. 233-13-37, R. 233-42-1, alinéa 2, et R. 233-42-2.
-
-II. - Dispositions de décrets non codifiés
+II.-Dispositions de décrets non codifiés
 
 Décret n° 65-48 du 8 janvier 1965 modifié portant règlement d'administration publique pour l'exécution des dispositions du livre II du code du travail (titre III : Hygiène et sécurité des travailleurs) en ce qui concerne les mesures particulières de protection et de salubrité applicables aux établissements dont le personnel exécute des travaux de bâtiment, des travaux publics et tous autres travaux concernant les immeubles, étendu aux établissements agricoles par le décret n° 81-183 du 24 février 1981 modifié, et arrêtés pris en application dudit décret.
 
@@ -26,7 +20,7 @@ Décret n° 88-1056 du 14 novembre 1988 pris pour l'exécution des dispositions 
 
 Décret n° 90-277 du 28 mars 1990 relatif à la protection des travailleurs intervenant en milieu hyperbare.
 
-III. - Dispositions d'arrêtés ministériels
+III.-Dispositions d'arrêtés ministériels
 
 Arrêté du 18 décembre 1992 relatif aux coefficients d'épreuves et aux coefficients d'utilisation applicables aux machines, accessoires de levage et autres équipements de travail soumis à l'article L. 233-5 du code du travail pour la prévention des risques liés aux opérations de levage.
 

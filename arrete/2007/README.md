@@ -520,7 +520,6 @@
 - [Arrêté du 14 septembre 2007 (ECEA0754374A)](arrete-du-14-septembre-2007-ecea0754374a)
 - [Arrêté du 14 septembre 2007 (MENA0765855A)](arrete-du-14-septembre-2007-mena0765855a)
 - [Arrêté du 14 septembre 2007 (MENA0765914A)](arrete-du-14-septembre-2007-mena0765914a)
-- [Arrêté du 14 mai 1996 (TAST9610752A)](arrete-du-14-mai-1996-tast9610752a)
 - [Arrêté du 14 mai 2007 (DEFX0710149A)](arrete-du-14-mai-2007-defx0710149a)
 - [Arrêté du 14 mai 2007 (INTD0754510A)](arrete-du-14-mai-2007-intd0754510a)
 - [Arrêté du 14 mai 2007 (MENE0754088A)](arrete-du-14-mai-2007-mene0754088a)

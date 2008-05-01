@@ -1,3 +1,0 @@
-# SECTION 2 : LOCAUX AFFECTES AU COUCHAGE.
-
-- [Article 196](article-196.md)

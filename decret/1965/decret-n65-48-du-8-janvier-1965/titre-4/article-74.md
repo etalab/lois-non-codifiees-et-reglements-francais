@@ -1,9 +1,0 @@
-# Article 74
-
-Des mesures (telles que le creusement de cunettes, l'exécution de drainages) doivent être prises pour limiter les infiltrations provenant des eaux de ruissellement.
-
-Sans préjudice des dispositions de l'alinéa précédent, des mesures (telles que la mise en service de pompes) doivent être prévues pour remédier aux effets des infiltrations qui pourraient se produire.
-
-Après une période de pluie ou de gel, il doit être procédé à un examen du talus des fouilles en excavation ou en tranchée. S'il y a lieu, le blindage doit être consolidé.
-
-Le chef d'établissement fait procéder à l'examen prévu à l'alinéa précédent par une personne compétente ; le nom et la qualité de cette personne doivent être consignés sur le registre prévu par l'article 22 du présent décret.

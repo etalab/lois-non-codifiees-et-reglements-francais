@@ -252,6 +252,7 @@
 - [Décret n°2006-720 du 21 juin 2006 (SANH0621937D)](decret-n2006-720-du-21-juin-2006-sanh0621937d)
 - [Décret n°2006-909 du 21 juillet 2006 (SANH0622118D)](decret-n2006-909-du-21-juillet-2006-sanh0622118d)
 - [Décret n°2005-1613 du 22 décembre 2005 (MAEX0500293D)](decret-n2005-1613-du-22-decembre-2005-maex0500293d)
+- [Décret n°2006-1033 du 22 août 2006 (SOCT0611444D)](decret-n2006-1033-du-22-aout-2006-soct0611444d)
 - [Décret n°2006-1420 du 22 novembre 2006 (PRMX0609721D)](decret-n2006-1420-du-22-novembre-2006-prmx0609721d)
 - [Décret n°2006-1424 du 22 novembre 2006 (JUSC0620817D)](decret-n2006-1424-du-22-novembre-2006-jusc0620817d)
 - [Décret n°2006-1426 du 22 novembre 2006 (EQUP0601626D)](decret-n2006-1426-du-22-novembre-2006-equp0601626d)

@@ -178,7 +178,6 @@
 - [Décret n°97-28 du 10 janvier 1997 (ENVE9640047D)](decret-n97-28-du-10-janvier-1997-enve9640047d)
 - [Décret n°97-29 du 10 janvier 1997 (ENVE9640048D)](decret-n97-29-du-10-janvier-1997-enve9640048d)
 - [Décret n°97-326 du 10 avril 1997 (TASX9700052D)](decret-n97-326-du-10-avril-1997-tasx9700052d)
-- [Décret n°97-331 du 10 avril 1997 (TAST9710199D)](decret-n97-331-du-10-avril-1997-tast9710199d)
 - [Décret n°97-354 du 10 avril 1997 (MAEJ9730028D)](decret-n97-354-du-10-avril-1997-maej9730028d)
 - [Décret n°97-757 du 10 juillet 1997 (PRMX9700070D)](decret-n97-757-du-10-juillet-1997-prmx9700070d)
 - [Décret n°97-758 du 10 juillet 1997 (MENX9700065D)](decret-n97-758-du-10-juillet-1997-menx9700065d)

@@ -922,7 +922,6 @@
 - [Arrêté du 27 juillet 1992 (SPSG9201276A)](arrete-du-27-juillet-1992-spsg9201276a)
 - [Arrêté du 27 juillet 1992 (SPSG9201278A)](arrete-du-27-juillet-1992-spsg9201278a)
 - [Arrêté du 27 juillet 1992 (TEFE9205150A)](arrete-du-27-juillet-1992-tefe9205150a)
-- [Arrêté du 27 juin 1991 (AGRS9101283A)](arrete-du-27-juin-1991-agrs9101283a)
 - [Arrêté du 27 mars 1992 (AGRG9200600A)](arrete-du-27-mars-1992-agrg9200600a)
 - [Arrêté du 27 mars 1992 (COMG9100008A)](arrete-du-27-mars-1992-comg9100008a)
 - [Arrêté du 27 mars 1992 (ENVN9250096A)](arrete-du-27-mars-1992-envn9250096a)
