@@ -10,4 +10,4 @@ III. - Paragraphe modificateur
 
 IV. - Paragraphe modificateur
 
-V. - Les personnes admises au bénéfice des dispositions de l'article L. 351-24 du code du travail et qui perçoivent l'allocation de revenu minimum d'insertion, l'allocation de parent isolé, l'allocation d'insertion ou l'allocation de veuvage ont droit au maintien du versement de leur allocation dans des conditions prévues par décret.
+V. (Abrogé)
