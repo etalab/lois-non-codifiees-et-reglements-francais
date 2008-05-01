@@ -3,6 +3,5 @@
 - [Article 14](article-14.md)
 - [Article 21](article-21.md)
 - [Article 60](article-60.md)
-- [Article 64](article-64.md)
 - [Article 65](article-65.md)
 - [OPERATIONS A CARACTERE DEFINITIF.](operations-a)

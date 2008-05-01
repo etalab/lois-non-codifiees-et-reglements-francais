@@ -582,7 +582,6 @@
 - [Arrêté du 19 mars 1993 (SPSS9301135A)](arrete-du-19-mars-1993-spss9301135a)
 - [Arrêté du 19 mars 1993 (SPSS9301136A)](arrete-du-19-mars-1993-spss9301136a)
 - [Arrêté du 19 mars 1993 (SPSS9301137A)](arrete-du-19-mars-1993-spss9301137a)
-- [Arrêté du 19 mars 1993 (TEFT9300368A)](arrete-du-19-mars-1993-teft9300368a)
 - [Arrêté du 19 mars 1993 (TEFT9300378A)](arrete-du-19-mars-1993-teft9300378a)
 - [Arrêté du 19 novembre 1993 (MCCK9300345A)](arrete-du-19-novembre-1993-mcck9300345a)
 - [Arrêté du 19 novembre 1993 (MCCK9300347A)](arrete-du-19-novembre-1993-mcck9300347a)
