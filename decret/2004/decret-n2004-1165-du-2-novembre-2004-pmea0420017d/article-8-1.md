@@ -4,7 +4,7 @@ Les fonds provenant du droit additionnel prévu au c de l'article 1601 du code g
 
 a) Des actions de formation prévues au troisième alinéa de l'article 1er du présent décret ;
 
-b) Des actions prévues au L. 953-5 du code du travail ;
+b) Des actions prévues au 12° de l'article L. 6313-1 et en application de l'article L. 6361-2 du code du travail ;
 
 c) Des actions d'information, de sensibilisation et de conseil des chefs d'entreprise inscrits au répertoire des métiers, de leurs conjoints collaborateurs ou associés, de leurs auxiliaires familiaux relatives aux besoins et aux moyens de formation ;
 

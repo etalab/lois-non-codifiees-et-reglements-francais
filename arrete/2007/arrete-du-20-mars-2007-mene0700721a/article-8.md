@@ -12,4 +12,6 @@ Les titulaires du baccalauréat professionnel spécialité " technicien d'étude
 
 Les titulaires du brevet professionnel spécialité " maçon ", régi par les dispositions de l'arrêté du 20 mars 2007, et les titulaires du brevet professionnel spécialité " construction maçonnerie béton armé ", institué par les dispositions de l'arrêté du 2 octobre 1996 peuvent demander à être dispensés de l'unité U32 du baccalauréat professionnel spécialité " technicien du bâtiment : organisation et réalisation du gros oeuvre ", régi par les dispositions du présent arrêté.
 
+Les titulaires du baccalauréat professionnel spécialité " interventions sur le patrimoine bâti " régi par les dispositions de l'arrêté du 11 avril 2008 peuvent demander à être dispensés de l'unité U 11 du baccalauréat professionnel spécialité " technicien du bâtiment : organisation et réalisation du gros œuvre " régi par les dispositions du présent arrêté.
+
 Le baccalauréat professionnel spécialité " technicien du bâtiment : organisation et réalisation du gros oeuvre " est délivré aux candidats ayant passé avec succès l'examen défini par le présent arrêté, conformément aux dispositions des articles D. 337-67 à D. 337-88 du code de l'éducation.
