@@ -10,7 +10,7 @@ Représentants titulaires :
 
 - le directeur général de la mer et des transports ;
 
-- le directeur général des routes ;
+- l'adjoint au directeur général des routes ;
 
 - la directrice de la sécurité et de la circulation routières ;
 
@@ -24,13 +24,13 @@ Représentants titulaires :
 
 Représentants suppléants :
 
-- l'adjoint au directeur général des routes ;
+- L'adjoint aux directeurs, direction générale de l'urbanisme, de l'habitat et de la construction  ;
 
 - le chef du service du personnel, adjoint à la directrice générale du personnel et de l'administration ;
 
 - l'adjoint au directeur de la sécurité et de la circulation routières ;
 
-- l'adjoint au directeur de l'Etablissement national des invalides de la marine ;
+- la directrice du service de l'information et de la communication  ;
 
 - le chef du service du personnel et de l'administration, secrétariat général ;
 
