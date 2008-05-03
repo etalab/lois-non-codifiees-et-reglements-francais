@@ -829,7 +829,6 @@
 - [Décret n°2007-974 du 15 mai 2007 (SANH0721631D)](decret-n2007-974-du-15-mai-2007-sanh0721631d)
 - [Décret n°2007-975 du 15 mai 2007 (SANA0721681D)](decret-n2007-975-du-15-mai-2007-sana0721681d)
 - [Décret n°2007-976 du 15 mai 2007 (DEVN0753753D)](decret-n2007-976-du-15-mai-2007-devn0753753d)
-- [Décret n°2007-977 du 15 mai 2007 (DEVO0752708D)](decret-n2007-977-du-15-mai-2007-devo0752708d)
 - [Décret n°2007-978 du 15 mai 2007 (DEVO0753051D)](decret-n2007-978-du-15-mai-2007-devo0753051d)
 - [Décret n°2007-979 du 15 mai 2007 (DEVP0753717D)](decret-n2007-979-du-15-mai-2007-devp0753717d)
 - [Décret n°2007-980 du 15 mai 2007 (DEVO0753356D)](decret-n2007-980-du-15-mai-2007-devo0753356d)
