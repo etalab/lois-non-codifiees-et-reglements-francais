@@ -1,0 +1,3 @@
+# Article 2
+
+Toute personne souhaitant obtenir la délivrance, la modification ou le renouvellement de la partie A ou de la partie B du certificat de sécurité adresse à l'EPSF, sous pli recommandé avec accusé de réception, le formulaire de demande figurant à l'annexe III du règlement du 13 juin 2007 susvisé et ses pièces annexes mentionnées à l'article 4 du présent arrêté, dûment renseignés et établis en trois exemplaires rédigés en français, deux en version papier et une en version électronique. Le demandeur adresse un formulaire pour chaque type de services sollicités qui, au sens du présent arrêté, s'entendent de ceux mentionnés aux points 2.6, 2.7, 2.10, 2.11 et 2.14 de l'annexe III du règlement du 13 juin 2007 susvisé.
