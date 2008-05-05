@@ -380,7 +380,6 @@
 - [Décret du 18 mars 1993 (LOGC9300018D)](decret-du-18-mars-1993-logc9300018d)
 - [Décret n°93-1008 du 18 août 1993 (JUSB9310259D)](decret-n93-1008-du-18-aout-1993-jusb9310259d)
 - [Décret n°93-1009 du 18 août 1993 (AGRR9300859D)](decret-n93-1009-du-18-aout-1993-agrr9300859d)
-- [Décret n°93-1011 du 18 août 1993 (DEFD9301642D)](decret-n93-1011-du-18-aout-1993-defd9301642d)
 - [Décret n°93-1177 du 18 octobre 1993 (AGRG9301596D)](decret-n93-1177-du-18-octobre-1993-agrg9301596d)
 - [Décret n°93-1179 du 18 octobre 1993 (SPSA9302151D)](decret-n93-1179-du-18-octobre-1993-spsa9302151d)
 - [Décret n°93-1183 du 18 octobre 1993 (MJSK9370172D)](decret-n93-1183-du-18-octobre-1993-mjsk9370172d)
