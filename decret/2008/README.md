@@ -414,6 +414,7 @@
 - [Décret n°2008-91 du 29 janvier 2008 (ECEL0774451D)](decret-n2008-91-du-29-janvier-2008-ecel0774451d)
 - [Décret n°2008-93 du 29 janvier 2008 (BCFD0765846D)](decret-n2008-93-du-29-janvier-2008-bcfd0765846d)
 - [Décret n°68-619 du 29 juin 1968](decret-n68-619-du-29-juin-1968)
+- [Décret n°2005-1726 du 30 décembre 2005 (INTD0500343D)](decret-n2005-1726-du-30-decembre-2005-intd0500343d)
 - [Décret n°2008-417 du 30 avril 2008 (DEVL0809672D)](decret-n2008-417-du-30-avril-2008-devl0809672d)
 - [Décret n°2008-418 du 30 avril 2008 (DEVT0772202D)](decret-n2008-418-du-30-avril-2008-devt0772202d)
 - [Décret n°2008-423 du 30 avril 2008 (ECEL0807313D)](decret-n2008-423-du-30-avril-2008-ecel0807313d)
