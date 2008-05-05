@@ -2,7 +2,9 @@
 
 La contribution de l'Etat à la rétribution des avocats qui prêtent leur concours au bénéficiaire de l'aide juridictionnelle totale est déterminée en fonction du produit de l'unité de valeur prévue par la loi de finances (UV) et des coefficients ci-après :
 
-PROCÉDURES : I.-Droits des personnes
+PROCÉDURES :
+
+**I.-Droits des personnes**
 
 I. 1. Divorce par consentement mutuel
 
@@ -22,8 +24,6 @@ Vérifications personnelles du juge : 5
 
 Autres mesures d'instruction dont enquêtes sociales : 2
 
-PROCÉDURES : I.-Droits des personnes
-
 I. 2. Autres cas de divorce
 
 COEFFICIENT de base : 34 (8)
@@ -41,8 +41,6 @@ Expertises Avec déplacement : 9
 Vérifications personnelles du juge : 5
 
 Autres mesures d'instruction dont enquêtes sociales : 2
-
-PROCÉDURES : I.-Droits des personnes
 
 I. 3. Procédure après divorce devant le juge aux affaires familiales (JAF)
 
@@ -62,8 +60,6 @@ Vérifications personnelles du juge : 5
 
 Autres mesures d'instruction dont enquêtes sociales : 2
 
-PROCÉDURES : I.-Droits des personnes
-
 I. 4. Autres instances devant le JAF
 
 COEFFICIENT de base : 16
@@ -81,8 +77,6 @@ Expertises Avec déplacement : 9
 Vérifications personnelles du juge : 5
 
 Autres mesures d'instruction dont enquêtes sociales : 2
-
-PROCÉDURES : I.-Droits des personnes
 
 I. 5. Incapacités
 
@@ -102,8 +96,6 @@ Vérifications personnelles du juge : 5
 
 Autres mesures d'instruction dont enquêtes sociales : 2
 
-PROCÉDURES : I.-Droits des personnes
-
 I. 6. Assistance éducative
 
 COEFFICIENT de base : 16
@@ -121,8 +113,6 @@ Expertises Avec déplacement :
 Vérifications personnelles du juge :
 
 Autres mesures d'instruction dont enquêtes sociales :
-
-PROCÉDURES : I.-Droits des personnes
 
 I. 7. Autres demandes (cf. IV)
 
@@ -142,7 +132,9 @@ Vérifications personnelles du juge :
 
 Autres mesures d'instruction dont enquêtes sociales :
 
-PROCÉDURES : II.-Droit social
+PROCÉDURES :
+
+**II.-Droit social**
 
 II. 1 Prud'hommes
 
@@ -160,8 +152,6 @@ Vérifications personnelles du juge : 5
 
 Autres mesures d'instruction dont enquêtes sociales : 2
 
-PROCÉDURES : II.-Droit social
-
 II. 2 Prud'hommes avec départage
 
 COEFFICIENT de base : 36
@@ -177,8 +167,6 @@ Expertises Avec déplacement : 9
 Vérifications personnelles du juge : 5
 
 Autres mesures d'instruction dont enquêtes sociales : 2
-
-PROCÉDURES : II.-Droit social
 
 II. 3 Référé prud'homal
 
@@ -196,8 +184,6 @@ Vérifications personnelles du juge : 5
 
 Autres mesures d'instruction dont enquêtes sociales : 2
 
-PROCÉDURES : II.-Droit social
-
 II. 4 Référé prud'homal avec départage
 
 COEFFICIENT de base : 24
@@ -213,8 +199,6 @@ Expertises Avec déplacement : 9
 Vérifications personnelles du juge : 5
 
 Autres mesures d'instruction dont enquêtes sociales : 2
-
-PROCÉDURES : II.-Droit social
 
 II. 5 Contentieux général de la sécurité sociale
 
@@ -232,8 +216,6 @@ Vérifications personnelles du juge : 5
 
 Autres mesures d'instruction dont enquêtes sociales : 2
 
-PROCÉDURES : II.-Droit social
-
 II. 6 Autres demandes (cf. IV)
 
 COEFFICIENT de base :
@@ -250,7 +232,9 @@ Vérifications personnelles du juge :
 
 Autres mesures d'instruction dont enquêtes sociales :
 
-PROCÉDURES : III.-Baux d'habitation
+PROCÉDURES :
+
+**III.-Baux d'habitation**
 
 III. 1. Instance au fond
 
@@ -268,8 +252,6 @@ Vérifications personnelles du juge : 5
 
 Autres mesures d'instruction dont enquêtes sociales : 2
 
-PROCÉDURES : III.-Baux d'habitation
-
 III. 2. Référé
 
 COEFFICIENT de base : 16
@@ -286,7 +268,9 @@ Vérifications personnelles du juge : 5
 
 Autres mesures d'instruction dont enquêtes sociales : 2
 
-PROCÉDURES : IV.-Autres matières civiles
+PROCÉDURES :
+
+**IV.-Autres matières civiles**
 
 IV. 1. Tribunal de grande instance et tribunal de commerce, instance au fond (3)
 
@@ -304,8 +288,6 @@ Vérifications personnelles du juge : 5
 
 Autres mesures d'instruction dont enquêtes sociales : 2
 
-PROCÉDURES : IV.-Autres matières civiles
-
 IV. 2. Autres juridictions, instance au fond (5)
 
 COEFFICIENT de base : 16
@@ -321,8 +303,6 @@ Expertises Avec déplacement : 9
 Vérifications personnelles du juge : 5
 
 Autres mesures d'instruction dont enquêtes sociales : 2
-
-PROCÉDURES : IV.-Autres matières civiles
 
 IV. 3. Référés
 
@@ -340,8 +320,6 @@ Vérifications personnelles du juge : 5
 
 Autres mesures d'instruction dont enquêtes sociales : 2
 
-PROCÉDURES : IV.-Autres matières civiles
-
 IV. 4. Matière gracieuse
 
 COEFFICIENT de base : 8
@@ -357,8 +335,6 @@ Expertises Avec déplacement :
 Vérifications personnelles du juge :
 
 Autres mesures d'instruction dont enquêtes sociales :
-
-PROCÉDURES : IV.-Autres matières civiles
 
 IV. 5. Requête
 
@@ -376,8 +352,6 @@ Vérifications personnelles du juge :
 
 Autres mesures d'instruction dont enquêtes sociales :
 
-PROCÉDURES : IV.-Autres matières civiles
-
 IV. 6. Difficultés d'exécution devant le juge de l'exécution
 
 COEFFICIENT de base : 4
@@ -393,8 +367,6 @@ Expertises Avec déplacement :
 Vérifications personnelles du juge :
 
 Autres mesures d'instruction dont enquêtes sociales :
-
-PROCÉDURES : IV.-Autres matières civiles
 
 IV. 7. Demande de réparation d'une détention provisoire
 
@@ -412,7 +384,9 @@ Vérifications personnelles du juge :
 
 Autres mesures d'instruction dont enquêtes sociales :
 
-PROCÉDURES : V.-Appel
+PROCÉDURES :
+
+**V.-Appel**
 
 V. 1. Appel et contredit
 
@@ -429,8 +403,6 @@ Expertises Avec déplacement : 9
 Vérifications personnelles du juge : 5
 
 Autres mesures d'instruction dont enquêtes sociales : 2
-
-PROCÉDURES : V.-Appel
 
 V. 2. Appel avec référé
 
@@ -464,13 +436,15 @@ Autres mesures d'instruction dont enquêtes sociales : 2
 
 (8) Ce coefficient est porté à 36 UV en cas de projet d'acte notarié de liquidation du régime matrimonial homologué par le juge aux affaires familiales lors du prononcé du divorce.
 
-I-PROCÉDURES : VI.-Partie civile
+I-PROCÉDURES :
+
+**VI.-Partie civile**
 
 II-COEFFICIENTS
 
 I-VI. 1. Assistance d'une partie civile ou d'un civilement responsable devant une juridiction de jugement de premier degré, à l'exception des procédures mentionnées aux VI-2 et VI-4
 
-II-8
+II-8 (10)
 
 I-VI. 2. Assistance d'une partie civile ou d'un civilement responsable devant le tribunal de police ou le juge de proximité (contraventions de police de la 1re à la 4e classe)
 
@@ -482,11 +456,11 @@ II-13
 
 I-VI. 4. Assistance d'une partie civile ou d'un civilement responsable devant la cour d'assises, la cour d'assises des mineurs ou le tribunal pour enfants statuant au criminel
 
-II-35 (1)
+II-35 (1) (11)
 
 I-VI. 5. Assistance d'une partie civile pour une instruction correctionnelle (2)
 
-II-8
+II-8 (12)
 
 I-VI. 6. Assistance d'une partie civile pour une instruction criminelle (2)
 
@@ -494,41 +468,43 @@ II-2
 
 En cas de pluralité d'avocats commis ou désignés d'office pour assister une personne à l'occasion des procédures pénales prévues dans la présente rubrique, une seule contribution est due.
 
-I-PROCÉDURES : VII.-Procédures criminelles
+**VII.-Procédures criminelles**
 
 II-COEFFICIENTS
 
 I-VII. 1. Instruction criminelle
 
-II-50
+II-50 (12)
 
 I-VII. 2. Assistance d'un accusé devant la cour d'assises, la cour d'assises des mineurs ou le tribunal pour enfants statuant au criminel
 
-II-50 (1)
+II-50 (1) (11)
 
-I-PROCÉDURES : VIII.-Procédures correctionnelles
+I-PROCÉDURES :
+
+**VIII.-Procédures correctionnelles**
 
 II-COEFFICIENTS
 
 I-VIII. 1. Première comparution devant le juge d'instruction ou le juge des enfants ou présentation du mineur devant le procureur de la République dans le cadre d'un jugement à délai rapproché
 
-II-3
+II-3 (13)
 
 I-VIII. 2. Débat contradictoire relatif au placement en détention provisoire
 
-II-2
+II-2 (13)
 
 I-VIII. 3. Première comparution devant le juge d'instruction ou le juge des enfants ou présentation du mineur devant le procureur de la République dans le cadre d'un jugement à délai rapproché et débat contradictoire relatif à la détention provisoire lorsqu'ils sont assurés par le même avocat
 
-II-4
+II-4 (13)
 
 I-VIII. 4. Instruction correctionnelle avec détention provisoire (JI ou JE)
 
-II-20
+II-20 (12)
 
 I-VIII. 5. Instruction correctionnelle sans détention provisoire (JI)
 
-II-12
+II-12 (12)
 
 I-VIII. 6. Instruction correctionnelle sans détention provisoire (JE) avec renvoi devant le tribunal pour enfants
 
@@ -540,13 +516,15 @@ II-6 (3)
 
 I-VIII. 8. Assistance d'un prévenu devant le tribunal correctionnel ou le tribunal pour enfants
 
-II-8 (3) (4)
+II-8 (3) (4) (10)
 
 I-VIII. 9. Assistance d'une personne faisant l'objet de la procédure de comparution sur reconnaissance préalable de culpabilité.
 
 II-5 (3)
 
-I-PROCÉDURES : IX.-Procédures contraventionnelles
+I-PROCÉDURES :
+
+**IX.-Procédures contraventionnelles**
 
 II-COEFFICIENTS
 
@@ -562,7 +540,9 @@ I-IX-3. Assistance d'un prévenu, majeur protégé, devant le tribunal de police
 
 II-2 (3)
 
-I-PROCÉDURES : X.-Procédures d'appel et procédures devant la chambre de l'instruction
+I-PROCÉDURES :
+
+**X.-Procédures d'appel et procédures devant la chambre de l'instruction**
 
 II-COEFFICIENTS
 
@@ -578,7 +558,7 @@ Les missions d'assistance pour les phases d'instruction et de jugement devant le
 
 Les prestations devant la chambre de l'instruction et les tribunaux des forces armées sont rétribuées de la même façon que pour la phase procédurale à l'occasion de laquelle ils sont amenés à statuer.
 
-I-PROCÉDURES : XI.-Procédures d'application des peines
+**XI.-Procédures d'application des peines**
 
 II-COEFFICIENTS
 
@@ -594,9 +574,11 @@ I-XI. 3. Assistance d'un condamné lors du recueil de son consentement pour le p
 
 II-2
 
-I-PROCÉDURES : XII.-Rubrique supprimée par l'article 8 du décret du 2 avril 2003
+**XII.-Rubrique supprimée par l'article 8 du décret du 2 avril 2003**
 
-I-PROCÉDURES : XIII.-Procédures devant le juge des libertés et de la détention relatives à l'entrée et au séjour des étrangers.
+I-PROCÉDURES :
+
+**XIII.-Procédures devant le juge des libertés et de la détention relatives à l'entrée et au séjour des étrangers.**
 
 II-COEFFICIENTS
 
@@ -608,7 +590,9 @@ I-XIII. 2. Prolongation du maintien en zone d'attente.
 
 II-4 (7)
 
-I-PROCÉDURES : XIV.-Tribunal administratif et cour administrative d'appel
+I-PROCÉDURES :
+
+**XIV.-Tribunal administratif et cour administrative d'appel**
 
 II-COEFFICIENTS
 
@@ -640,11 +624,15 @@ I-XIV. 7. Contentieux du titre de séjour assorti d'une obligation de quitter le
 
 II-20
 
-PROCÉDURES : XV.-Commission des recours des réfugiés
+PROCÉDURES :
+
+**XV.-Commission des recours des réfugiés**
 
 COEFFICIENTS : 8
 
-PROCÉDURES : XVI.-Assistance d'un requérant devant le tribunal départemental des pensions ou la cour régionale des pensions et les autres juridictions administratives, sauf le Conseil d'Etat.
+PROCÉDURES :
+
+**XVI.-Assistance d'un requérant devant le tribunal départemental des pensions ou la cour régionale des pensions et les autres juridictions administratives, sauf le Conseil d'Etat.**
 
 COEFFICIENTS :-
 
@@ -656,7 +644,9 @@ I-XVI. 2 Autres juridictions administratives
 
 II-14
 
-I-PROCÉDURES : XVII.-Commissions administratives
+I-PROCÉDURES :
+
+**XVII.-Commissions administratives**
 
 II-COEFFICIENTS : I-XVII. 1. Commissions d'expulsion des étrangers
 
@@ -666,11 +656,15 @@ I-XVII. 2. Commission de séjour des étrangers
 
 II-6
 
-PROCÉDURES : XVIII.-Audition de l'enfant en justice
+PROCÉDURES :
+
+**XVIII.-Audition de l'enfant en justice**
 
 COEFFICIENTS : 3 (9)
 
-I-PROCÉDURES : XIX.-Procédure de révision
+I-PROCÉDURES :
+
+**XIX.-Procédure de révision**
 
 II-COEFFICIENTS : I-IX. 1. Assistance ou représentation du requérant devant la commission de révision
 
@@ -684,7 +678,9 @@ I-XIX. 3. Assistance ou représentation de la partie civile devant la cour
 
 II-7
 
-I-PROCÉDURES : XX.-Réexamen d'une décision pénale consécutif au prononcé d'un arrêt de la Cour européenne des droits de l'homme
+I-PROCÉDURES :
+
+**XX.-Réexamen d'une décision pénale consécutif au prononcé d'un arrêt de la Cour européenne des droits de l'homme**
 
 Assistance ou représentation d'un condamné devant la commission de la Cour de cassation
 
@@ -711,3 +707,11 @@ II-COEFFICIENTS : 17
 -visite des lieux ou enquêtes : 5 UV.
 
 (9) Majoration possible : 1 UV par audition supplémentaire décidée par le juge dans la limite de trois majorations.
+
+(10) Majoration de 2 UV lorsque l'avocat ayant assisté la partie civile ou le prévenu au cours de l'information devant le pôle de l'instruction appartient au barreau établi près le tribunal de grande instance au sein duquel est établi le pôle et que l'audience a lieu en dehors du ressort de compétence territoriale de ce tribunal.
+
+(11) Majoration de 2 UV, dans la limite de 4 UV, lorsque l'avocat ayant assisté la partie civile ou l'accusé au cours de l'information devant le pôle de l'instruction appartient au barreau établi près le tribunal de grande instance au sein duquel est établi le pôle et que l'audience a lieu en dehors du ressort de compétence territoriale de ce tribunal.
+
+(12) Majoration de 2 UV pour chaque acte d'instruction nécessitant l'assistance de l'avocat devant le pôle de l'instruction lorsque cet avocat appartient au barreau établi près le tribunal de grande instance initialement compétent.
+
+(13) Majoration de 2 UV lorsque l'interrogatoire de première comparution et le débat contradictoire ont lieu au pôle de l'instruction et que l'avocat appartient au barreau établi près le tribunal de grande instance initialement compétent.
