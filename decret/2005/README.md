@@ -116,7 +116,6 @@
 - [Décret n°2005-1723 du 30 décembre 2005 (INTC0500340D)](decret-n2005-1723-du-30-decembre-2005-intc0500340d)
 - [Décret n°2005-1724 du 30 décembre 2005 (INTB0500351D)](decret-n2005-1724-du-30-decembre-2005-intb0500351d)
 - [Décret n°2005-1725 du 30 décembre 2005 (INTB0500376D)](decret-n2005-1725-du-30-decembre-2005-intb0500376d)
-- [Décret n°2005-1726 du 30 décembre 2005 (INTD0500343D)](decret-n2005-1726-du-30-decembre-2005-intd0500343d)
 - [Décret n°2005-1728 du 30 décembre 2005 (INTB0500359D)](decret-n2005-1728-du-30-decembre-2005-intb0500359d)
 - [Décret n°2005-1732 du 30 décembre 2005 (SOCF0512627D)](decret-n2005-1732-du-30-decembre-2005-socf0512627d)
 - [Décret n°2005-1739 du 30 décembre 2005 (ECOX0508949D)](decret-n2005-1739-du-30-decembre-2005-ecox0508949d)
