@@ -153,6 +153,7 @@
 - [Décret n°2005-732 du 30 juin 2005 (ECOX0500093D)](decret-n2005-732-du-30-juin-2005-ecox0500093d)
 - [Décret n°2005-617 du 30 mai 2005 (INTD0500139D)](decret-n2005-617-du-30-mai-2005-intd0500139d)
 - [Décret n°2005-631 du 30 mai 2005 (EQUP0500229D)](decret-n2005-631-du-30-mai-2005-equp0500229d)
+- [Décret n°2005-632 du 30 mai 2005 (EQUP0500230D)](decret-n2005-632-du-30-mai-2005-equp0500230d)
 - [Décret n°2005-636 du 30 mai 2005 (DEVO0530036D)](decret-n2005-636-du-30-mai-2005-devo0530036d)
 - [Décret du 31 août 2005 (AGRP0501417D)](decret-du-31-aout-2005-agrp0501417d)
 - [Décret du 31 août 2005 (AGRP0501418D)](decret-du-31-aout-2005-agrp0501418d)
