@@ -142,7 +142,6 @@
 - [Décret n°2001-500 du 11 juin 2001 (INTM0100025D)](decret-n2001-500-du-11-juin-2001-intm0100025d)
 - [Décret n°2001-827 du 11 septembre 2001 (PRMX0105078D)](decret-n2001-827-du-11-septembre-2001-prmx0105078d)
 - [Décret n°2001-830 du 11 septembre 2001 (ECOR0103025D)](decret-n2001-830-du-11-septembre-2001-ecor0103025d)
-- [Décret n°2001-847 du 11 septembre 2001 (INTM0100036D)](decret-n2001-847-du-11-septembre-2001-intm0100036d)
 - [Décret n°2001-935 du 11 octobre 2001 (MENF0102032D)](decret-n2001-935-du-11-octobre-2001-menf0102032d)
 - [Décret n°2001-940 du 11 octobre 2001 (MESS0122853D)](decret-n2001-940-du-11-octobre-2001-mess0122853d)
 - [Décret n°2001-946 du 11 octobre 2001 (MENF0101925D)](decret-n2001-946-du-11-octobre-2001-menf0101925d)
