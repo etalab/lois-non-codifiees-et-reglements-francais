@@ -323,6 +323,7 @@
 - [Arrêté du 14 mars 2008 (DEFL0804608A)](arrete-du-14-mars-2008-defl0804608a)
 - [Arrêté du 15 avril 2008 (ECEL0806496A)](arrete-du-15-avril-2008-ecel0806496a)
 - [Arrêté du 15 avril 2008 (IOCC0806468A)](arrete-du-15-avril-2008-iocc0806468a)
+- [Arrêté du 15 avril 2008 (JUSB0811028A)](arrete-du-15-avril-2008-jusb0811028a)
 - [Arrêté du 15 février 2008 (BCFB0772980A)](arrete-du-15-fevrier-2008-bcfb0772980a)
 - [Arrêté du 15 février 2008 (BCFB0773016A)](arrete-du-15-fevrier-2008-bcfb0773016a)
 - [Arrêté du 15 février 2008 (DEFD0804843A)](arrete-du-15-fevrier-2008-defd0804843a)
