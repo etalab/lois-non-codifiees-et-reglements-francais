@@ -28,7 +28,7 @@ Zone de protection :
 
 - département de l'Aube ;
 
-- département de l'Aveyron : arrondissement de Villefranche-de-Rouergue et cantons de Baraqueville-Sauveterre, de Bozouls, de Campagnac, de Cassagnes-Begonhès, de Conques, d'Entraygues-sur-Truyère, d'Espalion, d'Estaing, de Laguiole, de Laissac, de Marcillac-Vallon, de Mur-de-Barrez, de Naucelle, de Pont-de-Salars, de Rignac, de Rodez, de Rodez-Est, de Rodez-Nord, de Rodez-Ouest, de Saint-Amans-des-Cots, de Saint-Chély-d'Aubrac, de Sainte-Geneviève-sur-Argence, de Saint-Geniez-d'Olt, de La Salvetat-Peyralès ;
+- département de l'Aveyron ;
 
 - département du Calvados ;
 
@@ -56,7 +56,9 @@ Zone de protection :
 
 - département de l'Eure ;
 
-- déppartement d'Eure-et-Loir ;
+- département d'Eure-et-Loir ;
+
+- département de la Haute-Garonne : cantons de Cadours, de Caraman, de Castanet-Tolosan, de Fronton, de Grenade, de Lanta, de Léguevin, de Monastruc-la-Conseillère, de Montgiscard, de Muret, de Revel, de Saint-Lys, de Verfeil, de Villemur-sur-Tarn, de Toulouse (8e canton), de Toulouse (9e canton), de Toulouse (13e canton), de Toulouse (14e canton), de Toulouse (15e canton), de Toulouse, de Blagnac, de Portet-sur-Garonne, de Tournefeuille ;
 
 - département de la Gironde : cantons d'Auros, de Cadillac, de Castillon-la-Bataille, de Grignols, de Langon, de Monségur, de Pellegrue, de Podensac, de Pujols, de La Réole, de Sainte-Foy-la-Grande, de Saint-Macaire, de Sauveterre-de-Guyenne, de Targon ;
 
@@ -82,9 +84,9 @@ Zone de protection :
 
 - département du Lot ;
 
-- département de Lot-et-Garonne : arrondissements de Marmande, de Villeneuve-sur-Lot et cantons d'Agen-Nord-Est, d'Agen-Nord, d'Agen-Ouest, d'Agen, de Casteljaloux, de Damazan, de Houeillès, de Laplume, de Laroque-Timbaut, de Lavardac, de Nérac, de Port-Sainte-Marie, de Prayssas, d'Agen-Sud-Est ;
+- département de Lot-et-Garonne ;
 
-- département de la Lozère : cantons d'Aumont-Aubrac, du Bleymard, de La Canourgue, de Chanac, de Châteauneuf-de-Randon, de Fournels, de Grandrieu, de Langogne, de Malzieu-Ville, de Marvejols, de Mende, de Mende-Nord, de Mende-Sud, de Nasbinals, de Saint-Alban-sur-Limagnole, de Saint-Amans, de Saint-Chély-d'Apcher, de Saint-Germain-du-Theil ;
+- département de la Lozère ;
 
 - département de Maine-et-Loire ;
 
@@ -144,7 +146,7 @@ Zone de protection :
 
 - département de la Somme ;
 
-- département du Tarn : cantons de Cordes-sur-Ciel, de Monestiés, de Pampelonne ;
+- département du Tarn : arrondissement d'Albi, et cantons de Brassac, de Cuq-Toulza, de Dourgne, de Graulhet, de Labruguière, de Lautrec, de Lavaur, de Mazamet - Nord-Est, de Mazamet - Sud-Ouest, de Mazamet, de Montredon-Labessonnié, de Puylaurens, de Roquecourbe, de Saint-Paul-Cap-de-Joux, de Vabre, de Vielmur-sur-Agout, de Castres-Ouest, de Castres-Nord, de Castres ;
 
 - département de Tarn-et-Garonne ;
 
