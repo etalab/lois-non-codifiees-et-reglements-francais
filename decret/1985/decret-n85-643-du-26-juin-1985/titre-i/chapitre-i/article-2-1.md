@@ -1,5 +1,3 @@
 # Article 2-1
 
-Sont affiliés à titre obligatoire au centre départemental pour la gestion de leurs fonctionnaires titulaires et stagiaires de catégorie B à temps complet ou à temps non complet, sous réserve des dispositions de l'article 93 du présent décret, les collectivités et établissements publics administratifs mentionnés à l'article 2 de la loi n° 84-53 du 26 janvier 1984 et ayant leur siège dans le département.
-
-Les collectivités et établissements publics administratifs mentionnés ci-dessus peuvent s'affilier à titre volontaire, lorsqu'ils n'emploient aucun fonctionnaire de catégorie B.
+Les départements et les régions peuvent s'affilier aux centres de gestion pour les seuls fonctionnaires relevant des cadres d'emplois constitués pour l'application de l'article 109 de la loi n° 2004-809 du 13 août 2004 relative aux libertés et responsabilités locales en vue de l'accueil des personnels ouvriers et de service exerçant leurs missions dans les collèges ou les lycées.

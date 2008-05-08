@@ -4,7 +4,7 @@ Les ressources du centre départemental de gestion sont constitués par :
 
 1° Les cotisations définies à l'article 22 de la loi du 26 janvier 1984 précitée et arrêtées pour les collectivités et établissements affiliés par le conseil d'administration du centre ;
 
----2° Les redevances et les remboursements pour prestations de service prévues aux articles 25 et 26 de la loi du 26 janvier 1984 précitée ;
+2° Les redevances et les remboursements pour prestations de service prévues aux articles 25 et 26 de la loi du 26 janvier 1984 précitée ;
 
 3° Les dons et legs ;
 
@@ -18,8 +18,6 @@ Les ressources du centre départemental de gestion sont constitués par :
 
 8° Les remboursements du fonds de compensation de la taxe sur la valeur ajoutée ;
 
-9° La première part de la dotation globale d'équipement des départements, conformément à l'article L. 3334-11 du code général des collectivités territoriales.
+9° Le transfert de ressources du Centre national de la fonction publique territoriale en application de l'article 62 de la loi n° 94-1134 du 27 décembre 1994 jusqu'à l'entrée en vigueur du II de l'article 22-1 de la loi n° 84-53 du 26 janvier 1984 susvisée ;
 
-10° Le transfert de ressources du Centre national de la fonction publique territoriale en application de l'article 62 de la loi n° 94-1134 du 27 décembre 1994.
-
-11° Les contreparties financières des conventions prévues au sixième alinéa de l'article 22 de la loi du 26 janvier 1984 précitée.
+10° Les contreparties financières des conventions prévues au septième alinéa de l'article 22 de la loi du 26 janvier 1984 précitée.
