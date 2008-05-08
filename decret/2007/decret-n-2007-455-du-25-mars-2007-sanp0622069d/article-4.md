@@ -2,7 +2,7 @@
 
 Le répertoire des spécialités pharmaceutiques comprend également l'ensemble des spécialités faisant l'objet d'une autorisation délivrée par la Commission européenne en application du règlement du Parlement et du Conseil du 31 mars 2004 susvisé en cours de validité. Il mentionne à ce titre :
 
-1° La dénomination de la spécialité au sens de l'article R. 5121-2 du code de la santé publique ;
+1° Le nom de la spécialité au sens de l'article R. 5121-2 du code de la santé publique ;
 
 2° La composition qualitative et quantitative en substances actives ;
 

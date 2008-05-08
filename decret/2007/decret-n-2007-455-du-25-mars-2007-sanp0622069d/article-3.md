@@ -2,7 +2,7 @@
 
 Le répertoire des spécialités pharmaceutiques comprend l'ensemble des spécialités faisant l'objet d'une autorisation de mise sur le marché délivrée par l'Agence française de sécurité sanitaire des produits de santé en cours de validité. Il mentionne à ce titre :
 
-1° La dénomination de la spécialité au sens de l'article R. 5121-2 du code de la santé publique ;
+1° Le nom de la spécialité au sens de l'article R. 5121-2 du code de la santé publique ;
 
 2° La composition qualitative et quantitative en substances actives ;
 
@@ -14,7 +14,7 @@ Le répertoire des spécialités pharmaceutiques comprend l'ensemble des spécia
 
 6° Les différentes présentations accompagnées de la date de la déclaration de leur commercialisation ;
 
-7° Le résumé des caractéristiques du produit prévu à l'article R. 5121-23 du code de la santé publique ;
+7° Le résumé des caractéristiques du produit ;
 
 8° La notice prévue à l'article R. 5121-148 du code de la santé publique ;
 
