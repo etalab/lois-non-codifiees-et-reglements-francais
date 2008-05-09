@@ -51,3 +51,21 @@ Accord relatif à l'accueil des adhérents mutualistes du 24 octobre 2002 entre 
 Protocole du 11 février 2003 relatif aux mesures d'accompagnement de la fin de l'activité de Charbonnages de France et de Houillères de bassin, entre CDF, HB et organisations syndicales.
 
 Convention des Mines d'or de Salsigne du 16 avril 2004 entre le ministère chargé des mines (direction des ressources énergétiques et minérales "DIREM") et l'Association nationale pour la gestion des retraites et les Mines d'or de Salsigne.
+
+règlement du plan d'épargne entreprise de Charbonnages de France signé le 30 juillet 1984, protocole d'accord du 26 avril 1996 relatif à l'épargne individuelle, ainsi que les avenants modificatifs du 23 janvier 2006 et 29 novembre 2007 relatifs au plan d'épargne entreprise et les modifications contractuelles futures qui permettront d'améliorer financièrement pour leurs bénéficiaires les conditions de ces deux dispositifs ou de celles plus favorables qui leur seront substituées ;
+
+- protocole d'accord du 8 juin 2000 relatif au plan social d'Agglonord et son avenant n° 1 du 12 février 2008 ;
+
+- protocole d'accord du 12 novembre 2001 relatif aux mesures d'accompagnement social liées à l'arrêt de l'activité de Cokes de Drocourt SA, et ses avenants n° 1 du 24 février 2003 et n° 2 du 12 février 2008 ;
+
+- accord de préretraite Agglocentre du 22 janvier 2003 ;
+
+- lettre du 29 juin 2005 du directeur des ressources humaines de Charbonnages de France, relative aux anciens agents des Houillères du Nord - Pas-de-Calais convertis auprès de l'Association pour l'emploi des travailleurs handicapés en ateliers protégés (ETHAP) puis repris en congé charbonnier de fin de carrière ;
+
+- plan de sauvegarde de l'emploi (PSE) post-Charbonnages de France pour lequel les informations et consultations du comité central d'entreprise (CE) de Charbonnages de France ont été réalisés les 24 septembre et 16 octobre 2007, ainsi que les comptes rendus des réunions extraordinaires du CCE approuvés en séance du 27 novembre 2007 ;
+
+- accord du 27 septembre 2007 sur les évolutions de carrière des agents de CDF applicables après dissolution des Charbonnages de France ;
+
+- protocole d'accord du 27 novembre 2007 relatif au statut du personnel de Charbonnages de France affecté à l'établissement situé en région parisienne ;
+
+- protocole d'accord du 30 novembre 2007 relatif aux mesures particulières d'accompagnement social liées à la dissolution du comité d'entreprise du Centre-Midi.
