@@ -1,0 +1,3 @@
+# Article 1
+
+Dans le cadre des orientations définies par le conseil de politique nucléaire et en vue d'aider des Etats étrangers à préparer l'environnement institutionnel, humain et technique nécessaire à la mise en place d'une filière nucléaire civile dans des conditions de sûreté, de sécurité et de non-prolifération, le Commissariat à l'énergie atomique est autorisé à créer en son sein un service doté de l'autonomie administrative et budgétaire dénommé « Agence France Nucléaire International » dans les conditions définies par la délibération de son conseil d'administration en date du 9 avril 2008 (1).

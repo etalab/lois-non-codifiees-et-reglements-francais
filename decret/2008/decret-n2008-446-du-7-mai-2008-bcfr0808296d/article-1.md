@@ -1,0 +1,3 @@
+# Article 1
+
+Les comptables directs du Trésor et les comptables d'une administration financière, dirigeant un service commun dans les conditions fixées à l'article 5 du décret du 3 avril 2008 susvisé, sont soumis aux dispositions des articles 426 à 445 de l'annexe III au code général des impôts, au titre du recouvrement des impôts directs relevant des services du Trésor public, ainsi qu'aux dispositions du décret n° 77-1017 du 1er septembre 1977 et des articles D. 131-8 à D. 131-11 du code des juridictions financières, au titre du recouvrement des autres impôts, droits et taxes relevant des services de la direction générale des impôts.
