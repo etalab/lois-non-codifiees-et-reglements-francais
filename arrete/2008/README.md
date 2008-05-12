@@ -753,7 +753,6 @@
 - [Arrêté du 28 janvier 2008 (IOCE0802289A)](arrete-du-28-janvier-2008-ioce0802289a)
 - [Arrêté du 28 janvier 2008 (MENF0801742A)](arrete-du-28-janvier-2008-menf0801742a)
 - [Arrêté du 28 janvier 2008 (MTSW0807330A)](arrete-du-28-janvier-2008-mtsw0807330a)
-- [Arrêté du 28 janvier 2008 (SJSV0802868A)](arrete-du-28-janvier-2008-sjsv0802868a)
 - [Arrêté du 28 janvier 2008 (SJSV0803273A)](arrete-du-28-janvier-2008-sjsv0803273a)
 - [Arrêté du 28 janvier 2008 (SJSV0803279A)](arrete-du-28-janvier-2008-sjsv0803279a)
 - [Arrêté du 28 mars 2008 (AGRG0807982A)](arrete-du-28-mars-2008-agrg0807982a)
