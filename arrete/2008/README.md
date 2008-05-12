@@ -95,7 +95,6 @@
 - [Arrêté du 5 mars 2008 (BCFR0772443A)](arrete-du-5-mars-2008-bcfr0772443a)
 - [Arrêté du 5 mars 2008 (DEVE0801107A)](arrete-du-5-mars-2008-deve0801107a)
 - [Arrêté du 5 mars 2008 (JUSF0806013A)](arrete-du-5-mars-2008-jusf0806013a)
-- [Arrêté du 5 mars 2008 (SJSP0805973A)](arrete-du-5-mars-2008-sjsp0805973a)
 - [Arrêté du 5 novembre 1991 (DEFD9102008A)](arrete-du-5-novembre-1991-defd9102008a)
 - [Arrêté du 5 novembre 2007 (DEVA0766561A)](arrete-du-5-novembre-2007-deva0766561a)
 - [Arrêté du 5 mai 2008 (SJSG0801015A)](arrete-du-5-mai-2008-sjsg0801015a)
