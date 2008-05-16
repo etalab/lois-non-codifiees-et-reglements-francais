@@ -214,7 +214,6 @@
 - [Arrêté du 7 janvier 1997 (ECOP9600523A)](arrete-du-7-janvier-1997-ecop9600523a)
 - [Arrêté du 7 janvier 1997 (ECOT9710290A)](arrete-du-7-janvier-1997-ecot9710290a)
 - [Arrêté du 7 janvier 1997 (FPPA9700004A)](arrete-du-7-janvier-1997-fppa9700004a)
-- [Arrêté du 7 janvier 1997 (TASH9720025A)](arrete-du-7-janvier-1997-tash9720025a)
 - [Arrêté du 7 janvier 1997 (TAST9710168A)](arrete-du-7-janvier-1997-tast9710168a)
 - [Arrêté du 7 juillet 1992 (MENN9202784A)](arrete-du-7-juillet-1992-menn9202784a)
 - [Arrêté du 7 juillet 1997 (INTE9700329A)](arrete-du-7-juillet-1997-inte9700329a)
