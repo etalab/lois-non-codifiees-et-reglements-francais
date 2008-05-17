@@ -22,3 +22,4 @@
 - [Division 235 : Navires ravitailleurs et de servitude au large.](division-235)
 - [Division 236 : Vedettes de surveillance, d'assistance et de sauvetage.](division-236)
 - [Division 240 : Navires de plaisance à usage personnel et de formation, de longueur de coque inférieure à 24 M.](division-240)
+- [Division 241 : Navires de plaisance de longueur de coque inférieure à 24 m, à utilisation collective.](division-241)
