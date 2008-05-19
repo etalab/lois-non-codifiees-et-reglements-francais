@@ -1,0 +1,7 @@
+# Article 4
+
+Si les comptes annuels du dernier exercice contrôlé par le comité d'examen mentionné à l'article R. 134-8 du code des juridictions financières, dans sa rédaction au 1er janvier 2007, ont fait l'objet d'un avis favorable, les comptes annuels des organismes de sécurité sociale des exercices antérieurs à la date d'application des mesures du présent décret sont considérés comme approuvés.
+
+Si les comptes annuels du dernier exercice contrôlé par le comité d'examen mentionné à l'article R. 134-8 du code des juridictions financières, dans sa rédaction au 1er janvier 2007, ont fait l'objet d'un avis défavorable, ou si les comptes n'ont jamais été contrôlés, les comptes annuels des organismes de sécurité sociale des exercices antérieurs à la date d'application des mesures du présent décret sont considérés comme approuvés, à condition que les comptes annuels du premier exercice faisant l'objet d'une validation ou d'une certification soient certifiés ou validés par l'organisme national dans le cadre de la procédure prévue par les articles LO 132-2-1 du code des juridictions financières, L. 114-6 et L. 114-8 du code de la sécurité sociale.
+
+L'approbation implicite résultant des deux alinéas précédents ouvre au comptable concerné le droit de demander l'octroi d'un quitus pour les exercices en cause à l'autorité comptétente de l'Etat visée aux articles R. 151-1, R. 152-1 et R. 152-2 du code de sécurité sociale.
