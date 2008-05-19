@@ -6,13 +6,13 @@ DES INSTALLATIONS D'ÉLEVAGE D'AGRÉMENT D'ANIMAUX D'ESPÈCES NON DOMESTIQUES
 
 Liste des espèces non domestiques dont la détention ne peut être autorisée, sauf dérogation accordée pour certaines à titre transitoire, qu'au sein d'un établissement d'élevage ou de présentation au public d'animaux d'espèces non domestiques autorisé conformément aux articles L. 413-2 et L. 413-3 du code de l'environnement à détenir des animaux de l'espèce considérée
 
-(Pour les mammifères, la taxonomie de référence est celle de Wilson et Reeder :
+Pour la taxonomie, les références bibliographiques sont :
 
-Mammal species of the world, édition de 1993)
+1. Pour les mammifères : Mammal Species of the World de Wilson et Reeder, édition de 2005 ;
 
-(Pour les oiseaux, la taxonomie de référence est celle de Howard et Moore :
+2. Pour les oiseaux : The Howard and Moore complete Checklist of the Birds of the World de Howard et Moore, édition de 2003 ;
 
-A complete checklist of the birds of the world, édition de 1980)
+3. Pour les amphibiens et les reptiles : The completely illustrated Atlas of Reptiles and Amphibians for the Terrarium de Obst, Richter et Jacob, édition de 1988 ;
 
 <table>
 <tbody>
@@ -27,22 +27,22 @@ A complete checklist of the birds of the world, édition de 1980)
 <tr>
 <td rowspan="4" valign="top" width="237"/>
 <td colspan="2" valign="top" width="444">
-<p>- Toutes les espèces reprises à l'annexe A du règlement du Conseil des Communautés européennes n° 338/97 du 9 décembre 1996 modifié relatif à la protection des espèces de faune et de flore sauvages par le contrôle de leur commerce, à l'exception des espèces inscrites en annexe 1 au présent arrêté.</p>
+<p>1. Toutes les espèces reprise à l'annexe A du règlement du Conseil des Communautés européennes n° 338/97 du 9 décembre 1996 modifié relatif à la protection des espèces de faune et de flore sauvages par le contrôle de leur commerce, à l'exception de celles de ces espèces inscrites en annexe 1 au présent arrêté, ou figurant en annexe X du règlement (CE) n° 865/2006 susvisé, ou dont la chasse est autorisée.</p>
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top" width="444">
-<p>- Toutes les espèces figurant sur les listes établies pour l'application des articles L. 411-1 et L. 411-2 du code de l'environnement (*), à l'exception des espèces inscrites en annexe 1 au présent arrêté.</p>
+<p>2. Toutes les espèces figurant sur les listes établies pour l'application des articles L. 411-1 et L. 411-2 du code de l'environnement (*) à l'exception de celles de ces espèces inscrites en annexe 1 au présent arrêté, ou dont la chasse est autorisée.</p>
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top" width="444">
-<p>- Toutes les espèces considérées comme dangereuses au sens de l'arrêté du 21 novembre 1997 définissant deux catégories d'établissements autres que les établissements d'élevage, de vente et de transit des espèces de gibier dont la chasse est autorisée, détenant des animaux d'espèces non domestiques, à l'exception des espèces inscrites en annexe 1 au présent arrêté et des espèces figurant au (**) de la présente annexe.</p>
+<p>3. Toutes les espèces considérées comme dangereuses dont la liste est établie en annexe 3 au présent arrêté, à l'exception des espèces inscrites en annexe 1 au présent arrêté et de Boa constrictor.</p>
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top" width="444">
-<p>- Toutes les espèces suivantes :</p>
+<p>4. Toutes les espèces suivantes non reprises aux points 1, 2 ou 3 ci-dessus :</p>
 </td>
 </tr>
 <tr>
@@ -2054,7 +2054,7 @@ A complete checklist of the birds of the world, édition de 1980)
 <p>Piciformes.</p>
 </td>
 <td valign="top" width="219">
-<p>Ramphastidés spp.</p>
+<p>Ramphastinés spp.</p>
 </td>
 <td valign="top" width="224">
 <p>Toucans, toucanets.</p>
@@ -2121,7 +2121,7 @@ A complete checklist of the birds of the world, édition de 1980)
 </tr>
 <tr>
 <td valign="top" width="219">
-<p>Nectaridés spp.</p>
+<p>Nectariniidés spp.</p>
 </td>
 <td valign="top" width="224">
 <p>Souimangas.</p>
@@ -3247,12 +3247,6 @@ A complete checklist of the birds of the world, édition de 1980)
 
 (*) Toutefois, l'obligation d'autorisation et de marquage ne s'applique pas :
 
-- aux oiseaux nés et élevés en captivité appartenant aux espèces figurant à l'article 4 de l'arrêté du 17 avril 1981 modifié fixant la liste des oiseaux protégés sur l'ensemble du territoire ;
+- aux animaux autres que ceux prélevés dans la nature et appartenant à des espèces pour lesquelles les arrêtés pris en application des articles L. 411-1 et L. 411-2 du code de l'environnement ne prévoient pas d'interdiction d'activités applicables à ce type d'animaux ;
 
 - en ce qui concerne les espèces pour lesquelles les arrêtés pris en application des articles L. 411-1 et L. 411-2 du code de l'environnement fixent des interdictions de transport sur une partie seulement du territoire national, aux animaux des espèces considérées qui ne sont pas détenus sur cette partie du territoire national.
-
-(**) Espèces concernées :
-
-- Sus scrofa ;
-
-- Boa constrictor.
