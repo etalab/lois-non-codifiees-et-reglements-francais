@@ -64,7 +64,6 @@
 - [Décret n°2000-44 du 20 janvier 2000 (FPPA9910020D)](decret-n2000-44-du-20-janvier-2000-fppa9910020d)
 - [Décret n°2000-45 du 20 janvier 2000 (FPPA9910021D)](decret-n2000-45-du-20-janvier-2000-fppa9910021d)
 - [Décret n°2000-51 du 20 janvier 2000 (FPPA0010006D)](decret-n2000-51-du-20-janvier-2000-fppa0010006d)
-- [Décret du 21 juillet 2000 (AGRP0000856D)](decret-du-21-juillet-2000-agrp0000856d)
 - [Décret n°2000-141 du 21 février 2000 (MESH0020488D)](decret-n2000-141-du-21-fevrier-2000-mesh0020488d)
 - [Décret n°2000-559 du 21 juin 2000 (DEFX0000093D)](decret-n2000-559-du-21-juin-2000-defx0000093d)
 - [Décret n°2000-685 du 21 juillet 2000 (MESG0010702D)](decret-n2000-685-du-21-juillet-2000-mesg0010702d)
