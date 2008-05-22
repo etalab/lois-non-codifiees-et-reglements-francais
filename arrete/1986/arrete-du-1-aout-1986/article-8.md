@@ -26,7 +26,7 @@ Haute-Savoie, Vosges.
 
 2. Pour la chasse du mouflon :
 
-- la chasse en battue ou traque, sauf dans les départements suivants : Alpes-Maritimes, Aveyron, Cantal, Dordogne, Gard, Hérault, Vosges ;
+- la chasse en battue ou traque, sauf dans les départements suivants : Alpes-Maritimes, Aveyron, Cantal, Dordogne, Gard, Hérault, Pyrénées-Orientales, Vosges ;
 
 - l'emploi des chiens, sauf dans les départements suivants :
 
