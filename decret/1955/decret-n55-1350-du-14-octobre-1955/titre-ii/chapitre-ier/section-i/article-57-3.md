@@ -4,7 +4,7 @@
 
 L'exemplaire du bordereau conservé au bureau des hypothèques est établi dans les conditions et sous la sanction prévues à l'article 56 ; il est rédigé sur une formule spéciale fournie par l'administration ou reproduite selon des normes fixées par instruction publiée au Bulletin officiel des impôts.
 
-2° Chaque bordereau commence par la réquisition suivante, portée en lettres majuscules d'imprimerie : "Inscription d'hypothèque conventionnelle rechargeable par avenant ayant effet jusqu'au..."
+2° Chaque bordereau commence par la réquisition suivante, portée en lettres majuscules d'imprimerie : " Inscription d'hypothèque conventionnelle rechargeable par avenant ayant effet jusqu'au... "
 
 Outre le certificat de conformité, chaque bordereau contient exclusivement, sous peine de rejet de la formalité :
 
@@ -18,7 +18,9 @@ d) La somme maximale, en capital, pour laquelle l'hypothèque peut être affect�
 
 e) En cas de changement dans la personne ou l'état civil du créancier, son identification faite conformément au premier alinéa de l'article 5 et au 1 de l'article 6 du décret du 4 janvier 1955, en énonçant sommairement les causes et titres en vertu desquels il est devenu titulaire de la créance. L'identification du créancier est certifiée dans les conditions prévues par les deuxième à cinquième alinéas de l'article 5 et par le 2 de l'article 6 du même décret ;
 
-f) Si l'étendue de la garantie se trouve diminuée par l'inscription de l'avenant, la désignation actuelle de chacun des immeubles restant grevés, conformément aux premier et troisième alinéas de l'article 7 du décret du 4 janvier 1955.
+f) Si l'étendue de la garantie se trouve diminuée par l'inscription de l'avenant, la désignation actuelle de chacun des immeubles restant grevés, conformément aux premier et troisième alinéas de l'article 7 du décret du 4 janvier 1955 ;
+
+g) Le cas échéant, la mention de la clause prévoyant que le créancier hypothécaire impayé deviendra propriétaire de l'immeuble hypothéqué.
 
 3° Le dépôt est refusé :
 
