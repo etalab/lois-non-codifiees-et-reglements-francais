@@ -28,8 +28,10 @@ Les émissions diffuses sont prises en compte.
 
 Les exploitants qui participent à un réseau de mesure de la qualité de l'air qui comporte des mesures du polluant concerné peuvent être dispensés de cette obligation si le réseau existant permet de surveiller correctement les effets de leurs rejets.
 
-II. - Afin de permettre une meilleure prévention et un meilleur suivi des nuisances olfactives, les exploitants des installations qui rejettent une concentration d'odeurs à l'émission supérieure à 100 000 UO/m3 ou qui font l'objet de nombreuses plaintes de gêne olfactive mettent en place un observatoire des odeurs, permanent ou temporaire, permettant :
+II. - Afin de permettre une meilleure prévention et un meilleur suivi des nuisances olfactives, l'exploitant d'une installation qui rejette une concentration d'odeurs à l'émission supérieure à 100 000 uoE / m ³ pour au moins une source ou qui fait l'objet de nombreuses plaintes pour gêne olfactive met en place une surveillance, permanente ou temporaire, permettant :
 
-- soit de suivre un indice de gêne ou de confort olfactif perçu par la population au voisinage de l'installation, conformément à l'annexe III ;
+- soit de suivre un indice de nuisance (indice de Köster), de gêne ou de confort olfactif perçu par la population au voisinage de l'installation, conformément à l'annexe III ;
 
-- soit de qualifier l'évolution du niveau global de l'impact olfactif de l'installation.
+- soit de qualifier l'évolution du niveau global de l'impact olfactif de l'installation par des mesures d'intensité odorante dans l'environnement du site, selon la norme NFX43-103.
+
+Un suivi en continu peut également être mis en place, sur la base de mesures en continu des concentrations d'odeurs à la source couplées à un modèle de dispersion.
