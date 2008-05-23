@@ -559,7 +559,6 @@
 - [Décret n°96-759 du 23 août 1996 (BUDF9610032D)](decret-n96-759-du-23-aout-1996-budf9610032d)
 - [Décret n°96-841 du 23 septembre 1996 (MENL9602293D)](decret-n96-841-du-23-septembre-1996-menl9602293d)
 - [Décret n°96-843 du 23 septembre 1996 (BUDF9610029D)](decret-n96-843-du-23-septembre-1996-budf9610029d)
-- [Décret du 23 mai 1996 (ENVN9640032D)](decret-du-23-mai-1996-envn9640032d)
 - [Décret n°96-444 du 23 mai 1996 (MENU9601554D)](decret-n96-444-du-23-mai-1996-menu9601554d)
 - [Décret n°96-447 du 23 mai 1996 (TASS9620010D)](decret-n96-447-du-23-mai-1996-tass9620010d)
 - [Décret n°96-449 du 23 mai 1996 (PRMX9600018D)](decret-n96-449-du-23-mai-1996-prmx9600018d)
