@@ -6,7 +6,7 @@ Aquitaine
 
 Alain Le Marc 33750 Camarsac : Travailleurs indépendant, de 1982 à 1986.
 
-AMA/Chantiers AMA/SAREM, 10, avenue de l'Adour, 64600 Anglet, depuis sa création.
+AMA/Chantiers AMA/SAREM, 10, avenue de l'Adour, 64600 Anglet, depuis sa création à 2007.
 
 Aquitaine marine 162, quai de Brazza, 33100 Bordeaux : De 1985 à 1986.
 
@@ -816,6 +816,8 @@ SMCT (Société de montage en chaudronnerie et tuyauterie de Brest) :
 
 - 71, rue de la Porte, 29200 Brest : depuis 1992.
 
+SMCT (Société de montage en chaudronnerie et tuyauterie), de 1984 à 1992, puis SMCTL (Société de montage en chaudronnerie et tuyauterie de Lorient), 27, quai des Indes, 56100 Lorient, de 1993 à 1995, puis 12, boulevard Abbé-Le-Cam, 56100 Lorient, depuis 1995.
+
 SMPO (Société métallurgique des peinture de l'Ouest), 11, rue Amiral-Troude, 29200 Brest : de 1969 à 1989.
 
 SNEF, 18, rue Saint-Pierre, 56100 Lorient : depuis sa création.
@@ -920,6 +922,8 @@ Société peinture navale :
 
 Société concarnoise d'entretien naval, Le Passage, 29110 Concarneau : de 1956 à 1978.
 
+Société POËNOT. Terre-plein du Port, 29100 Douarnenez. De 1987 à 1996.
+
 Société Polyform, puis Société nouvelle Polyform, usine de Kerglaw, ZI des Forges, 56650 Inzinzac-Lochrist : depuis 1973.
 
 SOCOMA, Arsenal, 29200 Brest : depuis sa création
@@ -930,9 +934,9 @@ SOFREG :
 
 - rue Amiral-Nicol, 29200 Brest : de 1980 à 1997.
 
-SOLORPEC, 10, boulevard Jean-Pierre-Calloch, 56100 Lorient, depuis 1969, puis rue Maurice-Le Léon, port de pêche, 56100 Lorient, à partir de 2003.
+SOLORPEC, 10, boulevard Jean-Pierre-Calloch, 56100 Lorient, depuis 1969, puis rue Maurice-Le-Léon, port de pêche, 56100 Lorient, à partir de 2003, ZA du Pendreff, rue Gérard-Philipe, 56600 Lanester, de sa création à 1996
 
-SOLORPEC/SLPN, 42, quai de la Douane, puis 3, rue Alain-Colas, puis 485, rue Alain-Colas, 29200 Brest, depuis 1979.
+SLPN, 42, quai de la Douane, puis 3, rue Alain-Colas, puis 485, rue Alain-Colas, 29200 Brest, depuis 1979, 17, rue Amiral-Nielly, 29200 Brest, de 1984 à 1985
 
 SONOCAR, 13, place Napoléon-III, 29200 Brest : de 1980 à 1990.
 
@@ -1066,9 +1070,7 @@ CGT/CGM/SPIN/CMA-CGM/ARNO/COGER/SIREN (Société industrielle de réparation et 
 
 Chambre de commerce et d'industrie de Dieppe, 4, boulevard du Général-de-Gaulle, 76374 Dieppe Cedex, quai du Maroc, 76200 Dieppe, de 1956 à 1986.
 
-Chantier de Normandie/Chantiers réunis Dubigeon Normandie/AFO/ARNO/Ateliers de la Manche/Manche industrie marine/Manche SA :
-
-- 76200 Dieppe : depuis 1919.
+Chantier de Normandie/Chantiers réunis Dubigeon Normandie/AFO/ARNO, rue Edouard-Lavoine, 76200 Dieppe, de 1919 jusqu'à 1996, Ateliers de la Manche/Manche SA, rue Charles-Bloud, 76200 Dieppe, de 1956 à 1987, Manche Industrie Marine (MIM), rue Charles-Bloud, 76200 Dieppe, de 1988 à 1996.
 
 Chantier Dubigeon Normandie/Chantier de Normandie :
 
@@ -1216,7 +1218,7 @@ SERMI :
 
 service des bacs et passage d'eau du conseil général de la Seine-Maritime, hôtel du département, quai Jean-Moulin, 76101 Rouen Cedex 1, de 1947 à 1996
 
-Service technique de l'outillage, des ateliers et centre d'activité de la réparation navale et du dragage du Port autonome de Rouen, 34, boulevard , BP 4075, 76100 Rouen : de 1947 à 1997.
+Service technique de l'outillage, des ateliers et centre d'activité de la réparation navale et du dragage du Port autonome de Rouen, 34, boulevard Boisguilbert, BP 4075, 76100 Rouen : de 1947 à 1997.
 
 Service technique de l'outillage, des ateliers et centre d'activité de la réparation navale et du dragage du Port autonome du Havre, 76600 Le Havre : depuis 1947.
 
@@ -1652,7 +1654,7 @@ Hivart Daniel, Jules :
 
 HRC, 140, avenue Sarraz-Bournet, 62480 Le Portel : depuis 1995.
 
-Ingénieries-réalisation, 11, route de Saint-Omer, Le Klap-Hoek, 59380 Quaedypre : depuis 1984.
+Ingénieries-réalisations, 5, rue de la Batellerie, 59140 Dunkerque : depuis 1987 à 1983.
 
 Injection et régulation marine (IRM), 243, avenue Maurice-Berteaux, BP 6, 59430 Saint-Pol-sur-Mer, de 1980 à 2001.
 
