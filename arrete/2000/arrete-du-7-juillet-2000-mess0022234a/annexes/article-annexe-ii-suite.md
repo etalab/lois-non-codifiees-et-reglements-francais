@@ -280,9 +280,7 @@ AMTIM (Ateliers métropolitains de travaux industriels et maritimes), 9, bouleva
 
 Antirouille/CERI antirouille ZI. 1re rue n° 18, BP 2003, Vitrolles. Depuis 1982.
 
-APEX :
-
-- ZI Le Sylvain, route de la Gare, 83123 Sanary : depuis 1989.
+APEX, ZI Le Sylvain, route de la Gare, 83123 Sanary, de 1989 à 1996.
 
 Applications techniques maritimes (ATM), 34, rue Ruffi, 13002 Marseille, depuis 1991.
 
@@ -321,8 +319,6 @@ Ateliers Arnaud 8, rue Melchior, 13003 Marseille. De 1983 à 1999.
 Ateliers d'ARENC :
 
 - 274, chemin du Littoral, 13015 Marseille : depuis 1979.
-
-ATC (Atelier de tuyautage et chaudronnerie), puis Société nouvelle ATC SARL, 87, rue d'Alger, 13006 Marseille, puis forme 9, enceinte portuaire, BP 56, 13315 Marseille Cedex 15 : de 1968 à 1989.
 
 Atelier phocéen de mécanique, lot 103, port d'activité Mourrepiane, 467, chemin du Littoral, 13016 Marseille : depuis 1998.
 
@@ -479,6 +475,10 @@ Degreane :
 Delattre Levivier, village Entreprise, 13770 Fos-sur-Mer, de 1979 à 1984.
 
 Dewco Provence, 54, boulevard du Capitaine-Gèze, 13014 Marseille : de 1995 à 2002, puis Dewco international, 54, boulevard du Capitaine-Gèze, 13014 Marseille : à partir de 2002.
+
+DI MARSILIO Marius, ATCIM, 108, chemin du Littoral, 13002 Marseille, de 1968 à 1969, puis 146, chemin de la Madrague-Ville, 13015 Marseille, de 1970 à 1976, puis ATC (Atelier de tuyauterie et de chaudronnerie), forme 8, puis forme 9, enceinte portuaire, 13002 Marseille, de 1976 à 1983.
+
+DIMAR. Forme 7, enceinte portuaire, 13002 Marseille. De 1973 à 1976. Forme 8, enceinte portuaire, 13002 Marseille. De 1976 à 1980. Forme 9, enceinte portuaire, 13002 Marseille. De 1980 à 1996.
 
 Durbec et Cie/Ateliers Durbex et nouvel établissement, 22, boulevard Mouren, 13005 Marseille, Marseille, de 1950 à 1972.
 
@@ -836,6 +836,8 @@ SAMIC/SPRS/SNPRS :
 
 - ZI camp Laurent, 83500 La Seyne-sur-Mer impasse Noël-Verlaque, 83500 La Seyne-sur-Mer, zone portuaire de Bregaillon, 83500 La Seyne-sur-Mer : de 1960 à 1990.
 
+SARL BIANCHI Mécanique générale moderne. ZI de Toulon-Est, 83078 Toulon Cedex. De 1975 à 1981.
+
 SARL CTIM ZI d'Avon 13120 Gardanne Depuis 1994.
 
 SARL Industrie marine, 40, quai Hoche, 83500 La Seyne-sur-Mer, de 1969 à 1983.
@@ -854,7 +856,7 @@ SARL SOTER. 1, avenue Kennedy, 13600 La Ciotat. De 1973 à 1978.
 
 Satim industrie, 146, chemin de la Madrague ville, 13015 Marseille : de 1993 à 1994.
 
-Servaux SAS, anse de Saumaty, chemin du Littoral, 13016 Marseille : depuis 1912.
+SERVAUX, 173, chemin de la Madrague-Ville, 13002 Marseille, de 1912 à 1997, puis anse de Saumaty, 710, chemin du Littoral, 13016 Marseille, depuis 1997
 
 Service d'exploitation gestion de l'outillage et des engins de radoub (GOER) et service de maintenance Gestion technique de l'outillage de Marseille (GTOM), puis service réparation navale du Port autonome de Marseille, 23, place de la Joliette, BP 1965, 13226 Marseille : de 1947 à 1999.
 
@@ -1166,7 +1168,7 @@ Var Industrie :
 
 Var isolation 25 bis rue Jean-Louis-Mabily 83500 La Seyne-sur-Mer De 1974 à 1989
 
-Wartsila Diesel Normed/Wartsila Diesel France/SACM Diesel/Wartsila SACM Diesel/Wartsila France/Wartsila NSD France, RN 8, Les Baux, 13420 Gemenos : depuis 1985.
+Wartsila Diesel Normed/Wartsila Diesel France/SACM Diesel/Wartsila SACM Diesel/Wartsila France/Wartsila NSD France/Wartsila France SAS, lieudit Les Baux, RN 8, 13420 Gemenos, de 1985 à 2003, enceinte portuaire, porte 4, 13344 Marseille Cedex 15, depuis 2003
 
 Yacht Land 16, quai de Rive-Neuve, 13001 Marseille. De 1959 à 1995.
 
