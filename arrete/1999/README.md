@@ -264,7 +264,6 @@
 - [Arrêté du 12 janvier 1999 (ECOC9900007A)](arrete-du-12-janvier-1999-ecoc9900007a)
 - [Arrêté du 12 janvier 1999 (INTC9900033A)](arrete-du-12-janvier-1999-intc9900033a)
 - [Arrêté du 12 janvier 1999 (JUSG9960002A)](arrete-du-12-janvier-1999-jusg9960002a)
-- [Arrêté du 12 janvier 1999 (MESP9920284A)](arrete-du-12-janvier-1999-mesp9920284a)
 - [Arrêté du 12 juillet 1999 (DEFM9901774A)](arrete-du-12-juillet-1999-defm9901774a)
 - [Arrêté du 12 juillet 1999 (EQUA9900498A)](arrete-du-12-juillet-1999-equa9900498a)
 - [Arrêté du 12 juillet 1999 (EQUH9901059A)](arrete-du-12-juillet-1999-equh9901059a)
