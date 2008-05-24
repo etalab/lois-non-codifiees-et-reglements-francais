@@ -1,5 +1,5 @@
 # Article 11
 
-Les agents contractuels régis par le décret susvisé du 16 juin 1948 en fonctions à la date d'effet du présent décret dans les services de la météorologie nationale peuvent être intégrés, sur leur demande, dans le corps des aides-techniciens de la météorologie par décision ministérielle prise après avis d'une commission administrative paritaire dont la composition sera fixée par arrêté ministériel.
+Le détachement est prononcé soit à l'échelon que les intéressés ont atteint dans leur grade ou emploi d'origine, lorsque ce grade ou cet emploi relève de l'une des échelles 4, 5 ou 6, soit à l'échelon comportant un indice égal ou, à défaut, immédiatement supérieur lorsqu'ils relèvent d'une autre grille indiciaire. Dans les deux cas, les fonctionnaires détachés conservent l'ancienneté d'échelon acquise dans leur grade ou situation d'origine, dans la limite de la durée de l'échelon de leur grade d'accueil.
 
-Les agents contractuels intégrés sont reclassés au 1er échelon. Toutefois les agents contractuels en fonctions depuis plus de sept ans dans les services de la météorologie nationale à la date de leur nomination bénéficieront d'un rappel d'ancienneté égal au temps des services qu'ils ont accompli en sus des sept années précitées.
+Pendant leur détachement, les fonctionnaires détachés concourent, pour l'avancement de grade et d'échelon, avec les fonctionnaires du corps des aides-techniciens de la météorologie.

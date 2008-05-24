@@ -1,3 +1,3 @@
 # Article 3
 
-L'effectif des aides-techniciens de la météorologie en position de détachement ne peut excéder 10 p. 100 de l'effectif budgétaire du corps. Peuvent seuls être placés en position de détachement les aides-techniciens qui ont satisfait à l'engagement de service prévu à l'article 9 ci-dessous.
+Le corps des aides-techniciens de la météorologie comprend les grades d'aide-technicien, d'aide-technicien principal de 2e classe et d'aide-technicien principal de 1re classe.

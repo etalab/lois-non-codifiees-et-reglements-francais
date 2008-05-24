@@ -1,15 +1,21 @@
 # Article 1
 
-Les aides-techniciens de la météorologie constituent un corps de fonctionnaires chargés des fonctions d'opérateurs, notamment dans les domaines suivants :
+Les aides-techniciens de la météorologie constituent un corps de fonctionnaires qui sont nommés et titularisés par décision du président-directeur général de Météo-France. Ils ont vocation à exercer leurs fonctions au sein de l'établissement public Météo-France.
 
-Préparation des cartes et diagrammes.
+Ils sont chargés d'exercer des fonctions d'opérateurs, notamment dans les domaines suivants :
 
-Télécommunications météorologiques.
+1° Préparation des cartes et diagrammes ;
 
-Préparation des données climatologiques.
+2° Télécommunications météorologiques ;
 
-Assistance à l'observation.
+3° Préparation des données climatologiques ;
 
-Approvisionnement, stockage et répartition des matériels.
+4° Assistance à l'observation ;
 
-Ils peuvent en outre remplir des tâches d'aide de laboratoire.
+5° Radiosondage ;
+
+6° Maintenance de premier niveau sur les équipements techniques des stations météorologiques ;
+
+7° Approvisionnement, stockage et répartition des matériels.
+
+Ils peuvent également être chargés de toute opération technique courante au sein de l'établissement public.
