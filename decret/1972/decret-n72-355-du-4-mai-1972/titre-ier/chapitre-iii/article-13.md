@@ -4,7 +4,7 @@ Les dépenses de l'école comprennent notamment :
 
 1° Les frais de fonctionnement de l'école ;
 
-2° Les traitements et indemnités des auditeurs de justice et les vacations versés aux étudiants visés à l'article 13-1 ;
+2° Les traitements et indemnités des auditeurs de justice et les vacations versés aux étudiants visés à l'article 13-1 ainsi que les bourses attribuées aux élèves de la classe préparatoire mentionnés à l'article 17-2 ;
 
 3° Les acquisitions des biens meubles et immeubles ;
 
@@ -16,4 +16,6 @@ Les dépenses de l'école comprennent notamment :
 
 7° Les dépenses afférentes à la formation probatoire des candidats aux fonctions de magistrat à titre temporaire prévues par l'article 41-12 de l'ordonnance du 22 décembre 1958 ;
 
-8° Les dépenses afférentes aux actions de formation mentionnées à l'article 41-2.
+8° Les dépenses afférentes aux actions de formation mentionnées à l'article 41-2 ;
+
+9° Les dépenses afférentes à la classe préparatoire mentionnée à l'article 17-2.
