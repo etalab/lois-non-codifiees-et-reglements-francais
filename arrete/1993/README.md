@@ -795,7 +795,6 @@
 - [Arrêté du 24 septembre 1993 (SPSS9302914A)](arrete-du-24-septembre-1993-spss9302914a)
 - [Arrêté du 24 mai 1993 (JUSF9350019A)](arrete-du-24-mai-1993-jusf9350019a)
 - [Arrêté du 24 mai 1993 (JUSF9350029A)](arrete-du-24-mai-1993-jusf9350029a)
-- [Arrêté du 25 août 1992 (JUSF9250044A)](arrete-du-25-aout-1992-jusf9250044a)
 - [Arrêté du 25 février 1993 (INTF9300174A)](arrete-du-25-fevrier-1993-intf9300174a)
 - [Arrêté du 25 janvier 1993 (BUDD9367678A)](arrete-du-25-janvier-1993-budd9367678a)
 - [Arrêté du 25 janvier 1993 (DEFT9301153A)](arrete-du-25-janvier-1993-deft9301153a)
