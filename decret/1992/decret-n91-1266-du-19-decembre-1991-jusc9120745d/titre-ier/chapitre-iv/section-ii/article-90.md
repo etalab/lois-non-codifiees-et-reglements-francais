@@ -420,7 +420,7 @@ Vérifications personnelles du juge : 5
 
 Autres mesures d'instruction dont enquêtes sociales : 2
 
-(1) Ces incidents sont ceux qui donnent lieu, après discussion contradictoire, à une décision du magistrat chargé de l'instruction de l'affaire, dans les cas prévus aux 1° à 4° de l'article 771 du nouveau code de procédure civile et aux articles 911,912 et 944 du même code.
+(1) Ces incidents sont ceux qui donnent lieu, après discussion contradictoire, à une décision du magistrat chargé de l'instruction de l'affaire, dans les cas prévus aux 1° à 4° de l'article 771 du code de procédure civile et aux articles 911, 912 et 944 du même code.
 
 (2) Porté à 50 UV quand le même avocat représente deux époux et que ceux-ci ont tous deux l'aide juridictionnelle.
 
@@ -464,7 +464,7 @@ II-8 (12)
 
 I-VI. 6. Assistance d'une partie civile pour une instruction criminelle (2)
 
-II-2
+II-18
 
 En cas de pluralité d'avocats commis ou désignés d'office pour assister une personne à l'occasion des procédures pénales prévues dans la présente rubrique, une seule contribution est due.
 

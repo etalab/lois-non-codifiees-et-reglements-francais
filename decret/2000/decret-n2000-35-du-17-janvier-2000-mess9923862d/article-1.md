@@ -4,7 +4,7 @@ Pour l'application du 21° des dispositions de l'article L. 311-3 du code de la 
 
 1° Les personnes mentionnées au 3° et au 6° de l'article R. 92 du code de procédure pénale ;
 
-2° Les experts désignés par le juge en application de l'article 264 du nouveau code de procédure civile ;
+2° Les experts désignés par le juge en application de l'article 264 du code de procédure civile ;
 
 3° (Abrogé) ;
 
@@ -14,7 +14,7 @@ Pour l'application du 21° des dispositions de l'article L. 311-3 du code de la 
 
 6° Les enquêteurs sociaux mentionnés à l'article 287-2 du code civil ;
 
-7° Les médiateurs civils désignés dans les conditions définies aux articles 131-1 et suivants du nouveau code de procédure civile ;
+7° Les médiateurs civils désignés dans les conditions définies aux articles 131-1 et suivants du code de procédure civile ;
 
 8° Les administrateurs ad hoc nommés par le juge des tutelles en application du deuxième alinéa de l'article 389-3 du code civil et ceux désignés par le procureur de la République ou le juge d'instruction en application de l'article 706-50 du code de procédure pénale ;
 

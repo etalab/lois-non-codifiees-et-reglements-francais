@@ -1,6 +1,6 @@
 # Article 39
 
-Outre les mentions prescrites par l'article 56 du nouveau code de procédure civile, l'assignation comprend, à peine de nullité :
+Outre les mentions prescrites par l'article 56 du    code de procédure civile, l'assignation comprend, à peine de nullité :
 
 1° L'indication des lieu, jour et heure de l'audience d'orientation du juge de l'exécution ;
 

@@ -6,7 +6,7 @@ L'organisation judiciaire et la compétence ;
 
 Notions sur les juridictions communautaires européennes ;
 
-Les matières qui font l'objet du nouveau code de procédure civile :
+Les matières qui font l'objet du    code de procédure civile :
 
 Livre Ier (dispositions communes à toutes les juridictions) ;
 

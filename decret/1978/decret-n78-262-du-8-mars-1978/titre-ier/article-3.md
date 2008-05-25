@@ -6,7 +6,7 @@ Si les conventions sont indépendantes et donnent lieu à des droits distincts p
 
 L'acte dressé sur projet présenté par les parties donne droit aux mêmes émoluments que s'il est rédigé par le notaire lui-même.
 
-Sont considérés comme un seul acte la convention temporaire et la convention définitive prévues aux articles 1091 et 1097 du nouveau code de procédure civile.
+Sont considérés comme un seul acte la convention temporaire et la convention définitive prévues aux articles 1091 et 1097 du    code de procédure civile.
 
 L'émolument est réduit de moitié pour les actes conclus sous condition suspensive : il en est de même pour les actes imparfaits sur lesquels fait défaut la signature de l'une au moins des parties. Dès réalisation des conditions suspensives ou perfection de l'acte l'émolument est dû en entier sous déduction de la part d'émoluments perçus sur l'acte conditionnel ou imparfait.
 
@@ -16,7 +16,7 @@ Le bureau de ce conseil se prononce, après avoir entendu les observations des p
 
 La lettre de notification doit mentionner le délai du recours et les modalités de son exercice.
 
-Le recours est formé et instruit selon les dispositions des articles 715 à 718 du nouveau code de procédure civile.
+Le recours est formé et instruit selon les dispositions des articles 715 à 718 du    code de procédure civile.
 
 Si le bureau du conseil ne s'est pas prononcé dans le délai de deux mois prévu ci-dessus, la contestation est portée devant le premier président de la cour d'appel, qui statue dans les conditions de l'alinéa précédent.
 

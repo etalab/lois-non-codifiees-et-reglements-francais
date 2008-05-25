@@ -4,7 +4,7 @@ Les établissements et services du secteur public de la protection judiciaire de
 
 1° L'aide à la préparation des décisions de l'autorité judiciaire prises en application des législations relatives à l'enfance délinquante ou à l'assistance éducative par l'apport d'éléments d'information et d'analyse relatifs à la situation de mineurs susceptibles de faire l'objet desdites décisions.
 
-A ce titre, les établissements et services mettent en oeuvre les mesures d'investigation ordonnées par l'autorité judiciaire en application de l'ordonnance du 2 février 1945 relative à l'enfance délinquante et du nouveau code de procédure civile et concourent à la préparation des décisions de justice à caractère pénal conformément aux dispositions du code de procédure pénale ;
+A ce titre, les établissements et services mettent en oeuvre les mesures d'investigation ordonnées par l'autorité judiciaire en application de l'ordonnance du 2 février 1945 relative à l'enfance délinquante et du    code de procédure civile et concourent à la préparation des décisions de justice à caractère pénal conformément aux dispositions du code de procédure pénale ;
 
 2° La mise en oeuvre des décisions de l'autorité judiciaire prises en application des législations et réglementations relatives à l'enfance délinquante, à l'assistance éducative ou à la protection judiciaire des jeunes majeurs. A ce titre, les établissements et services assurent :
 

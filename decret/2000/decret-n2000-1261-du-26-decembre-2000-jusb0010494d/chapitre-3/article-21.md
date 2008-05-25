@@ -10,4 +10,4 @@ Lorsque la commission a été saisie dans les conditions prévues aux articles 1
 
 Dans tous les cas, le demandeur est avisé des voies et délais de recours.
 
-Si le demandeur est domicilié à l'étranger, les dispositions des articles 683 à 688 du nouveau code de procédure civile sont applicables.
+Si le demandeur est domicilié à l'étranger, les dispositions des articles 683 à 688 du    code de procédure civile sont applicables.

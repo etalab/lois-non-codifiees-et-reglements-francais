@@ -6,7 +6,7 @@ Le conseil régional en informe les représentants de l'Etat mentionnés à l'ar
 
 Le conseil régional fixe la durée de la médiation, qui ne peut excéder trois mois, renouvelable une fois à la demande du médiateur.
 
-Le médiateur est choisi parmi les membres élus du conseil national ou d'un autre conseil régional. Il ne peut être membre d'une chambre de discipline. Il satisfait aux conditions énoncées à l'article 131-5 du nouveau code de procédure civile.
+Le médiateur est choisi parmi les membres élus du conseil national ou d'un autre conseil régional. Il ne peut être membre d'une chambre de discipline. Il satisfait aux conditions énoncées à l'article 131-5 du    code de procédure civile.
 
 Le médiateur entend les personnes en cause et confronte leurs points de vue. Il peut, avec l'accord des parties, entendre les tiers qui y consentent. Il peut être mis fin à la médiation à tout moment sur demande d'une partie ou à l'initiative du médiateur.
 

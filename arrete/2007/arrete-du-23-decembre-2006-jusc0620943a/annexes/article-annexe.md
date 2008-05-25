@@ -30,29 +30,29 @@ Les sociétés commerciales.
 
 La réglementation du commerce :
 
-- ententes ;
+-ententes ;
 
-- concurrence déloyale ou illicite ;
+-concurrence déloyale ou illicite ;
 
-- refus de vendre.
+-refus de vendre.
 
 La propriété industrielle :
 
-- brevets (notions générales) ;
+-brevets (notions générales) ;
 
-- marques (notions générales) ;
+-marques (notions générales) ;
 
-- dessins et modèles (notions générales).
+-dessins et modèles (notions générales).
 
 Droit des entreprises en difficulté.
 
 Notions de droit des transports :
 
-- voiturier et commissionnaire, prescription de l'action pour avaries ;
+-voiturier et commissionnaire, prescription de l'action pour avaries ;
 
-- transport maritime, affrètement, ventes maritimes, connaissement, avaries communes ;
+-transport maritime, affrètement, ventes maritimes, connaissement, avaries communes ;
 
-- transport aérien, convention de Varsovie.
+-transport aérien, convention de Varsovie.
 
 Procédure civile
 
@@ -60,11 +60,11 @@ L'organisation judiciaire et la compétence.
 
 Notions sur les juridictions communautaires européennes.
 
-Les matières qui font l'objet du nouveau code de procédure civile :
+Les matières qui font l'objet du    code de procédure civile :
 
-- livre Ier (dispositions communes à toutes les juridictions) ;
+-livre Ier (dispositions communes à toutes les juridictions) ;
 
-- livre II, titre VI (dispositions particulières à la cour d'appel).
+-livre II, titre VI (dispositions particulières à la cour d'appel).
 
 Notions sur les procédures particulières aux juridictions autres que la cour d'appel (y compris les juridictions commerciales, sociales, pénales et administratives).
 
@@ -78,26 +78,26 @@ Déontologie professionnelle
 
 L'organisation de la profession d'avoué :
 
-- l'office ministériel ;
+-l'office ministériel ;
 
-- le mandat ad litem ;
+-le mandat ad litem ;
 
-- les textes statutaires.
+-les textes statutaires.
 
 Les règles déontologiques :
 
-- les rapports entre confrères ;
+-les rapports entre confrères ;
 
-- les rapports avec les magistrats ;
+-les rapports avec les magistrats ;
 
-- les rapports avec les avocats ;
+-les rapports avec les avocats ;
 
-- les rapports avec les clients.
+-les rapports avec les clients.
 
 Tarif, état de frais et vérification des dépens.
 
 La gestion d'une étude :
 
-- la comptabilité ;
+-la comptabilité ;
 
-- les obligations sociales et fiscales.
+-les obligations sociales et fiscales.

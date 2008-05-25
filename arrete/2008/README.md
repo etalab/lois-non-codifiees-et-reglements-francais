@@ -647,6 +647,7 @@
 - [Arrêté du 24 janvier 2008 (SJSP0800469A)](arrete-du-24-janvier-2008-sjsp0800469a)
 - [Arrêté du 24 janvier 2008 (SJSP0802212A)](arrete-du-24-janvier-2008-sjsp0802212a)
 - [Arrêté du 24 mai 1974](arrete-du-24-mai-1974)
+- [Arrêté du 25 août 1992 (JUSF9250044A)](arrete-du-25-aout-1992-jusf9250044a)
 - [Arrêté du 25 avril 2008 (DEFD0808684A)](arrete-du-25-avril-2008-defd0808684a)
 - [Arrêté du 25 avril 2008 (DEVP0810567A)](arrete-du-25-avril-2008-devp0810567a)
 - [Arrêté du 25 avril 2008 (DEVP0810577A)](arrete-du-25-avril-2008-devp0810577a)

@@ -565,6 +565,7 @@
 - [Décret n°2003-925 du 26 septembre 2003 (DEFM0302085D)](decret-n2003-925-du-26-septembre-2003-defm0302085d)
 - [Décret n°93-627 du 26 mars 1993 (INDA9300272D)](decret-n93-627-du-26-mars-1993-inda9300272d)
 - [Décret n°2003-470 du 26 mai 2003 (MAEJ0330031D)](decret-n2003-470-du-26-mai-2003-maej0330031d)
+- [Décret n°2002-1219 du 27 septembre 2002 (DOMA0200033D)](decret-n2002-1219-du-27-septembre-2002-doma0200033d)
 - [Décret n°2003-1024 du 27 octobre 2003 (FPPA0310018D)](decret-n2003-1024-du-27-octobre-2003-fppa0310018d)
 - [Décret n°2003-1154 du 27 novembre 2003 (AGRA0302075D)](decret-n2003-1154-du-27-novembre-2003-agra0302075d)
 - [Décret n°2003-156 du 27 février 2003 (INTA0300039D)](decret-n2003-156-du-27-fevrier-2003-inta0300039d)

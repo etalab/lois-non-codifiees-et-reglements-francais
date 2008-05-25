@@ -1,0 +1,3 @@
+# TITRE II : DISPOSITIONS RELATIVES À LA MISE EN ÉTAT ET À L'AUDIENCE.
+
+- [Article 22](article-22.md)

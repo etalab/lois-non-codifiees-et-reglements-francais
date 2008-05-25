@@ -8,4 +8,4 @@ Dans les cas où l'existence de l'obligation n'est pas sérieusement contestable
 
 La demande en référé est formée, au choix du demandeur, soit par acte d'huissier de justice, soit dans les conditions prévues à l'article 7. Dans ce dernier cas, l'article 9 est applicable.
 
-Les articles 484 et 486 à 492 du nouveau code de procédure civile, ainsi que les articles 13 et 17 du présent décret, à l'exception du délai d'un mois prévu au premier alinéa de l'article 17, sont applicables à l'ordonnance de référé du tribunal de première instance.
+Les articles 484 et 486 à 492 du    code de procédure civile, ainsi que les articles 13 et 17 du présent décret, à l'exception du délai d'un mois prévu au premier alinéa de l'article 17, sont applicables à l'ordonnance de référé du tribunal de première instance.

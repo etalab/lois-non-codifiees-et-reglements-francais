@@ -52,6 +52,7 @@
 - [Décret n°2002-49 du 10 janvier 2002 (PRMX0100184D)](decret-n2002-49-du-10-janvier-2002-prmx0100184d)
 - [Décret n°2002-50 du 10 janvier 2002 (PRMG0270028D)](decret-n2002-50-du-10-janvier-2002-prmg0270028d)
 - [Décret n°2002-53 du 10 janvier 2002 (MJSX0100159D)](decret-n2002-53-du-10-janvier-2002-mjsx0100159d)
+- [Décret n°2002-1168 du 11 septembre 2002 (JUSB0210380D)](decret-n2002-1168-du-11-septembre-2002-jusb0210380d)
 - [Décret n°2002-331 du 11 mars 2002 (MESS0220810D)](decret-n2002-331-du-11-mars-2002-mess0220810d)
 - [Décret n°2002-994 du 11 juillet 2002 (DEFD0201703D)](decret-n2002-994-du-11-juillet-2002-defd0201703d)
 - [Décret n°90-601 du 11 juillet 1990 (MCCB9000404D)](decret-n90-601-du-11-juillet-1990-mccb9000404d)

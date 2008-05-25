@@ -1,6 +1,6 @@
 # Article 3
 
-I. - Sont abrogés :
+I.-Sont abrogés :
 
 1° Le troisième alinéa de l'article R. 212-1, les deuxième et troisième alinéas de l'article R. 311-7, les articles R. 411-1 à R. 414-21, l'article R. 741-6 en tant qu'il concerne les juges et les greffiers des tribunaux de commerce, les articles R. 821-1 à R. 822-19, R. 913-1 à R. 913-5, R. 921-5-1 à R. 921-10, R. 921-14, R. 932-11 à R. 932-25, R. 934-1 et R. 943-2-1, les deuxième et troisième alinéas de l'article R. 943-4 et l'article R. 952-6 du code de l'organisation judiciaire ;
 
@@ -114,7 +114,7 @@ I. - Sont abrogés :
 
 56° Le décret n° 96-650 du 19 juillet 1996 relatif aux centres de formalités des entreprises ;
 
-57° Le décret n° 96-740 du 14 août 1996 instituant une procédure de distribution des deniers en dehors de toute procédure d'exécution et modifiant le code de l'organisation judiciaire et le nouveau code de procédure civile ;
+57° Le décret n° 96-740 du 14 août 1996 instituant une procédure de distribution des deniers en dehors de toute procédure d'exécution et modifiant le code de l'organisation judiciaire et le    code de procédure civile ;
 
 58° Le décret n° 96-1097 du 16 décembre 1996 pris pour l'application du titre III, chapitre Ier, de la loi n° 96-603 du 5 juillet 1996 et relatif aux ventes en liquidation, ventes au déballage, ventes en soldes et ventes en magasins d'usines ;
 
@@ -178,7 +178,7 @@ I. - Sont abrogés :
 
 88° Le décret n° 2007-153 du 5 février 2007 pris pour l'application de l'article L. 626-6 du code de commerce.
 
-II. - Sont en outre abrogés sous les réserves suivantes :
+II.-Sont en outre abrogés sous les réserves suivantes :
 
 1° Le décret n° 67-236 du 23 mars 1967 sur les sociétés commerciales ; toutefois son article 225 reste applicable, dans sa rédaction antérieure à l'entrée en vigueur du décret n° 2006-1566 du 11 décembre 2006 modifiant le décret du 23 mars 1967, jusqu'au 1er juillet 2007 ; jusqu'à cette date, le renvoi par l'article 225 à l'article 136 du même décret s'entend de la rédaction de cet article antérieure à l'entrée en vigueur du décret n° 2006-1566 du 11 décembre 2006 ;
 
@@ -188,4 +188,4 @@ II. - Sont en outre abrogés sous les réserves suivantes :
 
 4° Le décret n° 2005-1412 du 16 novembre 2005 portant approbation du code de déontologie de la profession de commissaire aux comptes ; toutefois, les dispositions du deuxième alinéa de son article 2-2 restent applicables jusqu'au 1er décembre 2007.
 
-III. - Le décret n° 84-406 du 30 mai 1984 relatif au registre du commerce et des sociétés est abrogé, à l'exception de ses articles 35 à 36-1 et 37 en ce qu'il concerne les articles 35, 36 et 36-1, des huitième au vingtième alinéas de l'article 71 et de l'article 81 ; en outre, son article 42 reste applicable dans sa rédaction antérieure au présent décret aux procédures en cours ouvertes sur le fondement de la loi n° 67-563 du 13 juillet 1967 sur le règlement judiciaire, la liquidation des biens, la faillite personnelle et les banqueroutes.
+III.-Le décret n° 84-406 du 30 mai 1984 relatif au registre du commerce et des sociétés est abrogé, à l'exception de ses articles 35 à 36-1 et 37 en ce qu'il concerne les articles 35, 36 et 36-1, des huitième au vingtième alinéas de l'article 71 et de l'article 81 ; en outre, son article 42 reste applicable dans sa rédaction antérieure au présent décret aux procédures en cours ouvertes sur le fondement de la loi n° 67-563 du 13 juillet 1967 sur le règlement judiciaire, la liquidation des biens, la faillite personnelle et les banqueroutes.
