@@ -39,8 +39,9 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td>
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td>
 <p>Fort-de-France. </p>
@@ -62,12 +63,14 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td>
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td>
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td>
 <p>Emploi d'expertise dans les enquêtes complexes de concurrence. </p>
@@ -75,8 +78,9 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td>
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td>
 <p>Mont-de-Marsan. </p>
@@ -87,8 +91,9 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td>
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td>
 <p>Pau. </p>
@@ -99,8 +104,9 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td>
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td>
 <p>Pau (Bayonne). </p>
@@ -111,8 +117,9 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td>
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td>
 <p>Périgueux. </p>
@@ -134,21 +141,29 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td>
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td>
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td>
 <p>Emploi d'expertise dans la réalisation des "contrôles de la première mise sur le marché". </p>
 </td>
 </tr>
 <tr>
+<td/>
+<td/>
+<td>Emploi d'expertise dans la réalisation des missions relatives à la sécurité et la protection des consommateurs.  </td>
+</tr>
+<tr>
 <td>
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td>
 <p>Moulins. </p>
@@ -176,22 +191,19 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 <p>Dijon. </p>
 </td>
 <td>
-<p>Emploi d'expertise dans la réalisation des missions afférentes à l'équipement commercial.<br/>
-</p>
+<p>Emploi d'expertise dans la réalisation des missions afférentes à l'équipement commercial. (Supprimé à compter du 25 mai 2008)</p>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<pre/>
-<br/>
-</td>
-<td>
-<br/>
-</td>
-<td>
-<p>Emploi de responsable de la cellule d'animation régionale. </p>
-</td>
+<td/>
+<td/>
+<td> Emploi de responsable de la cellule d'animation régionale. </td>
+</tr>
+<tr>
+<td/>
+<td>Nevers </td>
+<td>Emploi d'expertise dans la réalisation des "contrôles de la première mise sur le marché"</td>
 </tr>
 <tr>
 <td>
@@ -206,8 +218,9 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td>
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td>
 <p>Rennes. </p>
@@ -219,16 +232,19 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 <tr>
 <td/>
 <td/>
-<td>Emploi de responsable du contentieux. </td>
+<td>Emploi de responsable du contentieux (supprimé à compter du 25 mai 2008) <br/>
+</td>
 </tr>
 <tr>
 <td>
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td>
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td>
 <p>Emploi d'expertise dans les enquêtes complexes de concurrence. </p>
@@ -236,8 +252,9 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td>
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td>
 <p>Saint-Brieuc. </p>
@@ -247,15 +264,9 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </td>
 </tr>
 <tr>
-<td>
-<pre/>
-<br/>
-</td>
-<td>
-<p>Vannes. </p>
-</td>
-<td>
-<p>Responsable de l'animation d'un réseau spécialisé au niveau national. </p>
+<td/>
+<td> Vannes.</td>
+<td> Responsable de l'animation d'un réseau spécialisé au niveau national. (Supprimé à compter du 25 mai 2008)<br/>
 </td>
 </tr>
 <tr>
@@ -289,12 +300,14 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td>
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td>
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td>
 <p>Emploi d'expertise dans les enquêtes complexes de concurrence. </p>
@@ -324,8 +337,9 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td>
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td>
 <p>Besançon. </p>
@@ -358,12 +372,14 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td>
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td>
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td>
 <p>Emploi de responsable de la cellule d'animation régionale. </p>
@@ -371,12 +387,14 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td>
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td>
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td>
 <p>Emploi de responsable de la gestion régionale. </p>
@@ -384,12 +402,14 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td>
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td>
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td>
 <p>Emploi d'expertise dans la réalisation des missions relatives à la sécurité et la protection des consommateurs. </p>
@@ -397,12 +417,14 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td>
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td>
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td>
 <p>Emploi d'expertise dans l'exécution des enquêtes de pratiques restrictives de concurrence. </p>
@@ -410,12 +432,14 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td>
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td>
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td>
 <p>Emploi d'expertise dans la réalisation des missions relatives à la sécurité et la protection des consommateurs. </p>
@@ -423,12 +447,14 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td>
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td>
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td>
 <p>Emploi d'expertise dans les enquêtes complexes de concurrence. </p>
@@ -436,12 +462,14 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td>
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td>
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td>
 <p>Emploi d'expertise dans la réalisation des missions relatives à la sécurité et la protection des consommateurs. </p>
@@ -449,8 +477,9 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td>
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td>
 <p>Melun. </p>
@@ -461,12 +490,14 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td>
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td>
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td>
 <p>Emploi d'expertise dans la réalisation des "contrôles de la première mise sur le marché ". </p>
@@ -474,12 +505,14 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td>
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td>
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td>
 <p>Emploi d'expertise dans l'exécution des enquêtes de pratiques restrictives de concurrence. </p>
@@ -487,8 +520,9 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td>
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td>
 <p>Versailles. </p>
@@ -499,8 +533,9 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td rowspan="2">
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td rowspan="2">
 <p>Evry. </p>
@@ -526,8 +561,9 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td align="left" valign="middle">
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td align="left" valign="middle">
 <p align="left">Montpellier. </p>
@@ -538,12 +574,14 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td align="left" valign="middle">
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td align="left" valign="middle">
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td align="left" valign="middle">
 <p align="justify">Emploi de responsable du contentieux. </p>
@@ -551,12 +589,14 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td align="left" valign="middle">
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td align="left" valign="middle">
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td align="left" valign="middle">
 <p align="justify">Emploi de responsable de la cellule d'animation régionale. </p>
@@ -564,8 +604,9 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td align="left" valign="middle">
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td align="left" valign="middle">
 <p align="left">Perpignan. </p>
@@ -576,12 +617,14 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td align="left" valign="middle">
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td align="left" valign="middle">
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td align="left" valign="middle">
 <p align="justify">Emploi d'expertise dans la réalisation des "contrôles de la première mise sur le marché ". </p>
@@ -600,13 +643,20 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td align="left" valign="middle">
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td align="left" valign="middle">
 <p align="left">Limoges </p>
 </td>
 <td align="left" valign="middle">Emploi d'expertise dans les enquêtes complexes de concurrence.</td>
+</tr>
+<tr>
+<td/>
+<td/>
+<td>Emploi de responsable du contentieux.<br/>
+</td>
 </tr>
 <tr>
 <td align="left" valign="middle">
@@ -621,8 +671,9 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td align="left" valign="middle">
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td align="left" valign="middle">
 <p align="left">Metz. </p>
@@ -633,12 +684,14 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td align="left" valign="middle">
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td align="left" valign="middle">
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td align="left" valign="middle">
 <p align="justify">Emploi de responsable du contentieux. </p>
@@ -657,8 +710,9 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td align="left" valign="middle">
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td align="left" valign="middle">
 <p align="left">Foix. </p>
@@ -669,8 +723,9 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td align="left" valign="middle">
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td align="left" valign="middle">
 <p align="left">Rodez. </p>
@@ -681,8 +736,9 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td align="left" valign="middle">
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td align="left" valign="middle">
 <p align="left">Tarbes. </p>
@@ -693,8 +749,9 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td align="left" valign="middle">
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td align="left" valign="middle">
 <p align="left">Toulouse. </p>
@@ -706,16 +763,19 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 <tr>
 <td/>
 <td/>
-<td>Emploi d'expertise dans l'exécution des enquêtes de pratiques restrictives de concurrence. </td>
+<td>Emploi d'expertise dans l'exécution des enquêtes de pratiques restrictives de concurrence. (Supprimé à compter du 25 mai 2008) <br/>
+</td>
 </tr>
 <tr>
 <td align="left" valign="middle">
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td align="left" valign="middle">
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td align="left" valign="middle">
 <p align="justify">Emploi de responsable de la cellule d'animation régionale. </p>
@@ -723,12 +783,14 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td align="left" valign="middle">
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td align="left" valign="middle">
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td align="left" valign="middle">
 <p align="justify">Emploi d'expertise dans les enquêtes complexes de concurrence. </p>
@@ -747,8 +809,9 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td align="left" valign="middle">
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td align="left" valign="middle">
 <p align="left">Arras (Boulogne). </p>
@@ -759,8 +822,9 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td align="left" valign="middle">
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td align="left" valign="middle">
 <p align="left">Lille. </p>
@@ -772,8 +836,9 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 <tr>
 <td align="left" valign="middle"/>
 <td align="left" valign="middle">
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td align="left" valign="middle">
 <p align="justify">Emploi d'expertise dans les enquêtes complexes de concurrence. </p>
@@ -792,12 +857,14 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td align="left" valign="middle">
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td align="left" valign="middle">
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td align="left" valign="middle">
 <p align="justify">Emploi d'expertise dans la réalisation des missions relatives à la sécurité et la protection des consommateurs. </p>
@@ -805,8 +872,9 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td align="left" valign="middle">
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td align="left" valign="middle">
 <p align="left">Gap. </p>
@@ -817,8 +885,9 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td align="left" valign="middle">
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td align="left" valign="middle">
 <p align="left">Marseille. </p>
@@ -829,12 +898,14 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td align="left" valign="middle">
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td align="left" valign="middle">
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td align="left" valign="middle">
 <p align="justify">Emploi d'expertise dans les enquêtes complexes de concurrence. </p>
@@ -842,12 +913,14 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td align="left" valign="middle">
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td align="left" valign="middle">
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td align="left" valign="middle">
 <p align="justify">Emploi d'expertise dans la réalisation des missions relatives à la sécurité et la protection des consommateurs. </p>
@@ -855,12 +928,14 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td align="left" valign="middle">
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td align="left" valign="middle">
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td align="left" valign="middle">
 <p align="justify">Emploi de responsable de la cellule d'animation régionale. </p>
@@ -868,8 +943,9 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td align="left" valign="middle">
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td align="left" valign="middle">
 <p align="left">Nice. </p>
@@ -880,8 +956,9 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td align="left" valign="middle">
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td align="left" valign="middle">
 <p align="left">Toulon. </p>
@@ -903,8 +980,9 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td align="left" valign="middle">
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td align="left" valign="middle">
 <p align="left">La Roche-sur-Yon. </p>
@@ -915,8 +993,9 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td align="left" valign="middle">
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td align="left" valign="middle">
 <p align="left">Laval. </p>
@@ -927,8 +1006,9 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td align="left" valign="middle">
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td align="left" valign="middle">
 <p align="left">Nantes. </p>
@@ -939,12 +1019,14 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td align="left" valign="middle">
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td align="left" valign="middle">
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td align="left" valign="middle">
 <p align="justify">Emploi d'expertise dans l'exécution des enquêtes de pratiques restrictives de concurrence. </p>
@@ -974,8 +1056,9 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td align="left" valign="middle">
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td align="left" valign="middle">
 <p align="left">Poitiers. </p>
@@ -986,12 +1069,14 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td align="left" valign="middle">
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td align="left" valign="middle">
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td align="left" valign="middle">
 <p align="justify">Emploi d'expertise dans les enquêtes complexes de concurrence. </p>
@@ -1021,12 +1106,14 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td align="left" valign="middle">
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td align="left" valign="middle">
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td align="left" valign="middle">
 <p align="justify">Emploi d'expertise dans la réalisation des missions relatives à la sécurité et la protection des consommateurs. </p>
@@ -1034,8 +1121,9 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td align="left" valign="middle">
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td align="left" valign="middle">
 <p align="left">Chambéry. </p>
@@ -1046,8 +1134,9 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td align="left" valign="middle">
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td align="left" valign="middle">
 <p align="left">Grenoble. </p>
@@ -1058,12 +1147,14 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td align="left" valign="middle">
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td align="left" valign="middle">
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td align="left" valign="middle">
 <p align="justify">Emploi d'expertise dans la réalisation des "contrôles de la première mise sur le marché ". </p>
@@ -1071,8 +1162,9 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td align="left" valign="middle">
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td align="left" valign="middle">
 <p align="left">Lyon. </p>
@@ -1083,12 +1175,14 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td align="left" valign="middle">
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td align="left" valign="middle">
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td align="left" valign="middle">
 <p align="justify">Emploi d'expertise dans l'exécution des enquêtes de pratiques restrictives de concurrence. </p>
@@ -1096,8 +1190,9 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td align="left" valign="middle">
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td align="left" valign="middle">
 <p align="left">Privas. </p>
@@ -1108,8 +1203,9 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td align="left" valign="middle">
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td align="left" valign="middle">
 <p align="left">Saint-Etienne. </p>
@@ -1120,8 +1216,9 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td align="left" valign="middle">
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td align="left" valign="middle">
 <p align="left">Valence. </p>
@@ -1143,8 +1240,9 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td align="left" valign="middle">
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td align="left" valign="middle">
 <p align="left">CI 69. </p>
@@ -1166,8 +1264,9 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td align="left" valign="middle">
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td align="left" valign="middle">
 <p align="left">DNERF. </p>
@@ -1189,12 +1288,14 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td align="left" valign="middle">
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td align="left" valign="middle">
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td align="left" valign="middle">
 <p align="justify">AC-Emploi d'expertise en matière de formation. </p>
@@ -1246,8 +1347,9 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td align="left" valign="middle">
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td align="left" valign="middle">
 <p align="left">AC B1. </p>
@@ -1258,8 +1360,9 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td align="left" valign="middle">
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td align="left" valign="middle">
 <p align="left">AC C3. </p>
@@ -1270,8 +1373,9 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td align="left" valign="middle">
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td align="left" valign="middle">
 <p align="left">AC D4. </p>
@@ -1281,9 +1385,17 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </td>
 </tr>
 <tr>
+<td/>
+<td>AC E2.<br/>
+</td>
+<td>AC - Emploi d'expertise en matière de sécurité du consommateur.<br/>
+</td>
+</tr>
+<tr>
 <td align="left" valign="middle">
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td align="left" valign="middle">
 <p align="left">AC E4. </p>
@@ -1294,8 +1406,9 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td align="left" valign="middle">
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td align="left" valign="middle">
 <p align="left">AC E4. </p>
@@ -1306,8 +1419,9 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td align="left" valign="middle">
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td align="left" valign="middle">
 <p align="left">AC F2. </p>
@@ -1318,8 +1432,9 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td align="left" valign="middle">
-<pre/>
+<pre>
 <br/>
+</pre>
 </td>
 <td align="left" valign="middle">
 <p align="left">AC G3. </p>
