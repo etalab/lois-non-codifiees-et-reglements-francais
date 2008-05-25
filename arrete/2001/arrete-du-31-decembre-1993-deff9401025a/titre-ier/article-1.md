@@ -24,4 +24,6 @@ j) Ventes de denrées et de repas ;
 
 k) Récupération de TVA ;
 
-l) Taxe d'apprentissage.
+l) Taxe d'apprentissage ;
+
+m) Produits de la vente de documents, ouvrages ou produits dérivés.
