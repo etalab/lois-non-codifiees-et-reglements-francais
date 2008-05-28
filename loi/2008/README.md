@@ -10,5 +10,8 @@
 - [LOI n° 2008-337 du 15 avril 2008 (SJSX0755912L)](loi-n-2008-337-du-15-avril-2008-sjsx0755912l)
 - [LOI n° 2008-351 du 16 avril 2008 (MTSX0807748L)](loi-n-2008-351-du-16-avril-2008-mtsx0807748l)
 - [LOI n° 2008-352 du 16 avril 2008 (IOCX0802962L)](loi-n-2008-352-du-16-avril-2008-iocx0802962l)
+- [LOI n° 2008-490 du 26 mai 2008 (ECEX0772883L)](loi-n-2008-490-du-26-mai-2008-ecex0772883l)
+- [LOI n° 2008-492 du 26 mai 2008 (DEFX0600007L)](loi-n-2008-492-du-26-mai-2008-defx0600007l)
+- [LOI n° 2008-493 du 26 mai 2008 (DEFX0755030L)](loi-n-2008-493-du-26-mai-2008-defx0755030l)
 - [LOI n° 2008-67 du 21 janvier 2008 (MTSX0700051L)](loi-n-2008-67-du-21-janvier-2008-mtsx0700051l)
 - [LOI n° 2008-89 du 30 janvier 2008 (MTSX0760738L)](loi-n-2008-89-du-30-janvier-2008-mtsx0760738l)
