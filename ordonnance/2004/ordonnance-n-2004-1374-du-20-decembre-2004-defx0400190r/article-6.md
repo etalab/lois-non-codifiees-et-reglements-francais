@@ -18,7 +18,7 @@ L'abrogation des dispositions mentionnées à l'article 5 ne prendra effet qu'à
 
 8° Le premier alinéa de l'article 27 du décret du 18 avril 1939 fixant le régime des matériels de guerre, armes et munitions ;
 
-9° Les articles 1er à 6 du décret-loi du 29 juillet 1939 portant création du bataillon des marins-pompiers de la ville de Marseille ;
+9° (alinéa abrogé)
 
 10° Les articles 1er à 4 et 6 à 9 de la loi n° 46-895 du 3 mai 1946 portant création d'un office national d'études et de recherches aérospatiales ;
 
@@ -34,6 +34,6 @@ L'abrogation des dispositions mentionnées à l'article 5 ne prendra effet qu'à
 
 16° L'article 1er de la loi n° 70-3 du 2 janvier 1970 sur l'intégration de la gendarmerie maritime dans la gendarmerie nationale ;
 
-17° Le premier alinéa de l'article 10 de la loi n° 80-572 du 25 juillet 1980 sur la protection et le contrôle des matières nucléaires ;
+17° (alinéa abrogé)
 
 18° Les articles 9 et 10 de la loi n° 98-564 du 8 juillet 1998 tendant à l'élimination des mines antipersonnel.
