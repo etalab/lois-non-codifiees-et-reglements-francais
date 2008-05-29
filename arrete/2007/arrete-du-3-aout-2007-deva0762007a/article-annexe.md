@@ -92,4 +92,12 @@ Jusqu'au 30 septembre 2012 :
 
 - Paris-Cancún (Mexique)
 
-- Paris-Mexico (Mexique)
+- Paris-Mexico (Mexique).
+
+Jusqu'au 31 mars  2013 :
+
+Paris―Halifax (Canada) ;
+
+Paris―Québec  (Canada) ;
+
+Paris―Toronto (Canada).
