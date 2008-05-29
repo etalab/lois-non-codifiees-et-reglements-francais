@@ -2,12 +2,74 @@
 
 **PROGRAMME DE L'EXAMEN PROFESSIONNEL POUR L'ACCES AU CORPS DES ASSISTANTS D'ADMINISTRATION DE L'AVIATION CIVILE**
 
-I. - Analyse de texte
+I. - Séries de questions à choix multiples
 
-Cette épreuve consiste à dégager sans aucune appréciation critique les idées essentielles exprimées et à montrer l'enchaînement logique de la pensée de l'auteur. Il ne s'agit donc ni d'une dissertation philosophique, ni d'un résumé, ni d'une explication de texte.
+A. - Série de 10 questions maximum relatives à l'organisation
 
-Le texte, long de deux à quatre pages dactylographiées environ, portera sur un sujet d'intérêt administratif ; il devra donner lieu à des questions permettant de s'assurer de sa bonne compréhension par le candidat et permettra de mesurer l'aptitude de celui-ci à rédiger.
+et aux missions de la DGAC ainsi qu'à celles de Météo-France
 
-II. - Entretien avec le jury
+Organisation actuelle de la direction générale de l'aviation civile.
 
-Au cours d'un exposé de dix minutes, le candidat ou la candidate présente son parcours professionnel en faisant ressortir les aspects les plus marquants et en indiquant ce qu'il ou elle attend d'une promotion dans le corps des assistants d'administration. Cet exposé est suivi d'un entretien avec le jury, de dix minutes, ayant pour objet de faire préciser certains points de ce parcours ou de ces attentes et d'évaluer l'aptitude de l'intéressé(e) à exercer les fonctions d'assistant.
+Missions de l'administration centrale.
+
+Les personnels administratifs et techniques de la DGAC.
+
+Organisation interne de l'établissement public Météo-France.
+
+Les personnels de l'établissement Météo-France.
+
+B. - Série de 10 questions maximum sur la gestion des ressources humaines
+
+Le recrutement des fonctionnaires : conditions générales d'accès aux emplois publics, les procédures de recrutement.
+
+Les droits et obligations des fonctionnaires.
+
+La gestion prévisionnelle des emplois et des compétences : définition, objectifs et intérêts.
+
+C. - Série de 10 questions maximum sur les finances publiques
+
+Objectifs généraux de la loi organique relative aux lois de finances.
+
+La nouvelle architecture du budget de l'Etat.
+
+Rôle des responsables de programmes.
+
+Les budgets de la DGAC.
+
+Ordonnateurs et comptables.
+
+Régies d'avance et de recettes.
+
+D. - Série de 10 questions maximum sur la logistique et les marchés publics
+
+- Logistique des services :
+
+- méthodes de gestion de stocks ;
+
+- entretien des bâtiments ;
+
+- circuit d'achat dans un service.
+
+Réglementation et procédure des marchés publics :
+
+- les différents types d'appel d'offres ;
+
+- les différents types de marchés ;
+
+- la publicité ;
+
+- l'information des candidats aux marchés publics.
+
+E. - Les institutions administratives
+
+Les autorités centrales (le Président de la République, le Premier ministre, le ministre), départementales (pouvoirs du préfet et du conseil général) et communales (composition et pouvoirs du conseil municipal).
+
+Nota. - Les questions sont sous forme de questionnaires à choix multiples, sauf dans deux de ces séries où une question demandera un court développement.
+
+II. - Reconnaissance des acquis et de l'expérience professionnelle
+
+L'épreuve de reconnaissance des acquis et de l'expérience professionnelle consiste en la présentation par le candidat des acquis de son expérience professionnelle en relation avec les fonctions d'assistant d'administration de l'aviation civile. Pour cela, le candidat ou la candidate établit un dossier comportant un document issu de son activité récente. Ce dossier, conforme au modèle prévu par arrêté, est visé par le supérieur hiérarchique.
+
+Après examen du dossier, le jury auditionne le candidat ou la candidate sur la base du dossier constitué.
+
+Cette conversation avec le jury porte sur des questions en rapport avec l'expérience recherchée dans l'exercice des fonctions d'assistant d'administration de l'aviation civile.
