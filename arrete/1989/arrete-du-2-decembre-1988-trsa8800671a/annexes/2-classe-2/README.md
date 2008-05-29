@@ -1,5 +1,4 @@
 # 2. CLASSE 2
 
-- [2.3. Aptitude oto-rhino-laryngologique](2-3-aptitude-oto-rhino-laryngologique)
 - [Article ANNEXE](article-annexe.md)
 - [2.1. Aptitude physique générale et mentale](2-1-aptitude-physique-generale-et)

@@ -573,7 +573,6 @@
 - [Arrêté du 24 décembre 2004 (AGRA0402573A)](arrete-du-24-decembre-2004-agra0402573a)
 - [Arrêté du 24 février 2005 (JUSK0440036A)](arrete-du-24-fevrier-2005-jusk0440036a)
 - [Arrêté du 24 février 2005 (SANH0520681A)](arrete-du-24-fevrier-2005-sanh0520681a)
-- [Arrêté du 24 février 2005 (SOCF0510316A)](arrete-du-24-fevrier-2005-socf0510316a)
 - [Arrêté du 24 février 2005 (SOCF0510317A)](arrete-du-24-fevrier-2005-socf0510317a)
 - [Arrêté du 24 janvier 2005 (FPPA0400150A)](arrete-du-24-janvier-2005-fppa0400150a)
 - [Arrêté du 24 janvier 2005 (MENF0500035A)](arrete-du-24-janvier-2005-menf0500035a)
