@@ -428,6 +428,8 @@
 - [Décret n°2008-282 du 26 mars 2008 (PRMX0807627D)](decret-n2008-282-du-26-mars-2008-prmx0807627d)
 - [Décret n°2008-284 du 26 mars 2008 (ECET0805254D)](decret-n2008-284-du-26-mars-2008-ecet0805254d)
 - [Décret n°2008-494 du 26 mai 2008 (IOCA0810892D)](decret-n2008-494-du-26-mai-2008-ioca0810892d)
+- [Décret n°2008-497 du 26 mai 2008 (ECET0806971D)](decret-n2008-497-du-26-mai-2008-ecet0806971d)
+- [Décret n°2008-498 du 26 mai 2008 (AGRP0812356D)](decret-n2008-498-du-26-mai-2008-agrp0812356d)
 - [Décret n°2008-181 du 27 février 2008 (DEVN0801081D)](decret-n2008-181-du-27-fevrier-2008-devn0801081d)
 - [Décret n°2008-188 du 27 février 2008 (PRMX0805210D)](decret-n2008-188-du-27-fevrier-2008-prmx0805210d)
 - [Décret n°2008-189 du 27 février 2008 (DEVN0772217D)](decret-n2008-189-du-27-fevrier-2008-devn0772217d)
