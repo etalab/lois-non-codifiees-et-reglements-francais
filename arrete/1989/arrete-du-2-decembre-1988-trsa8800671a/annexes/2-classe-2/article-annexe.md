@@ -8,13 +8,13 @@ Le candidat doit présenter :
 
 2. Une efficacité visuelle définie par :
 
-a) Une acuité visuelle de loin (mesurée à l'aide d'une série d'optotypes de Landolt ou d'optotypes similaires examinés à 5 mètres sous une brillance de 10 nits) qui doit être d'au moins 1/10 sans correction, corrigée à 7/10 pour chacun des yeux.
+a) Une acuité visuelle (mesurée à l'aide d'une série d'optotypes de Landolt ou d'optotypes similaires examinés à 5 mètres sous une brillance de 10 nits) qui doit être d'au moins 7/10 pour chacun des deux yeux, avec l'aide de verres correcteurs si nécessaire en cas d'amétropie.
 
-En cas d'amétropie, la correction optique doit se situer entre - 4 et + 3,50 dioptries pour le méridien le plus réfringent.
+En cas d'amétropie, la correction optique doit se situer entre - 5 et + 5 dioptries pour le méridien le plus réfringent.
 
-Le port de lentilles cornéennes est admis si leur adaptation et leur tolérance sont satisfaisantes.
+Le port de lentilles cornéennes est admis pourvu qu'elles soient monofocales et non teintées, bien tolérées par le candidat et qu'une paire de lunettes correctrices appropriées soit à sa portée pendant l'exercice des privilèges de la licence.
 
-Tout sujet présentant une amétropie nécessitant un moyen de correction optique doit l'utiliser en vol et avoir à sa portée une paire de lunettes supplémentaire ;
+Tout sujet présentant une amétropie nécessitant un moyen de correction optique doit l'utiliser en vol et avoir à sa portée une paire de lunettes en supplément.
 
 b) Une acuité visuelle satisfaisante en vision intermédiaire (de 60 centimètres à 1 mètre) et en vision rapprochée (de 30 à 40 centimètres), avec le secours éventuel de verres correcteurs ;
 

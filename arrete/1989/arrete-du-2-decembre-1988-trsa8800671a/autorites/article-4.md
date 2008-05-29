@@ -1,15 +1,3 @@
 # Article 4
 
-Ces règles comportent quatre tempéraments cumulables concernant :
-
-1° Les navigants résidant en permanence dans un département, un territoire ou une collectivité territoriale d'outre-mer : l'examen peut être réalisé par un organisme médical agréé (commission de médecins, centre ou service médical) situé dans l'un de ces lieux ;
-
-2° Les navigants résidant en permanence à l'étranger : l'examen pour le renouvellement de licence peut être réalisé par un organisme agréé situé dans l'Etat tiers ;
-
-3° Les navigants résidant temporairement en un lieu éloigné d'une autorité médicale agréée : l'examen pour le renouvellement de licence peut être réalisé par un médecin qualifié en médecine aéronautique ou, à défaut, ayant simplement un titre légal. Cette dérogation permet un renouvellement non reconductible d'une durée maximale :
-
-- de six mois pour les titulaires d'une licence de navigant professionnel ;
-
-- d'un an pour les navigants non professionnels ;
-
-4° Les navigants non professionnels : l'examen pour la délivrance ou le renouvellement d'une licence de niveau O.A.C.I. peut être réalisé par une autorité médicale agréée par les autorités compétentes d'un Etat avec lequel a été conclue une convention appropriée.
+Un certificat médical de classe 2 délivré par un Etat membre de la Communauté européenne, un Etat partie à l'accord sur l'Espace économique européen ou par la Confédération suisse et, comme prévu par l'article L. 410-6 du code de l'aviation civile, dans des conditions jugées conformes par le ministre chargé de l'aviation civile aux règles aéronautiques communes pour la délivrance des licences de membre d'équipage de conduite, dites JAR-FCL, troisième partie médicale, élaborées par les autorités conjointes de l'aviation civile (JAA), est reconnu valable et peut être associé à une licence de personnel navigant technique non professionnel de l'aéronautique civile.

@@ -74,7 +74,7 @@ L'examen du candidat vise à rechercher tout facteur de risque cardiovasculaire 
 
 M. - A cet effet, le médecin s'entoure des données des examens clinique et radiologique et, éventuellement, des autres explorations non invasives.
 
-M. - S'il le juge nécessaire, le médecin procède à un électrocardiogramme. Certaines anomalies électrocardiographiques mineures de l'excitabilité, de la conduction et de la repolarisation, certaines anomalies échocardiographiques valvulaires ou musculaires peuvent être compatibles avec le vol.
+M. - Lors de l'examen d'admission, si le candidat est âgé de plus de 40 ans ou s'il le juge nécessaire, et à chaque examen de renouvellement pour les candidats âgés de plus de 50 ans, le médecin procède à un électrocardiogramme standard de repos. Certaines anomalies électrocardiographiques mineures de l'excitabilité, de la conduction et de la repolarisation, certaines anomalies échocardiographiques valvulaires ou musculaires peuvent être compatibles avec le vol.
 
 L'insuffisance coronaire susceptible d'entraîner une incapacité en vol est une cause d'inaptitude.
 
