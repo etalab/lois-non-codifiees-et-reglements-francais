@@ -1,3 +1,3 @@
 # Article 9
 
-Les sous-directeurs de la ville de Paris en fonctions lors de l'entrée en vigueur de la loi susvisée du 31 décembre 1975 et nommés à cette date sous-directeurs de la commune de Paris sont placés à l'échelon de sous-directeur de la commune de Paris, comportant un indice égal à celui qu'ils détenaient dans leur emploi de sous-directeur de la ville de Paris, et conservent leur ancienneté dans cet échelon.
+Les fonctionnaires nommés dans un emploi de sous-directeur de la commune de Paris antérieurement à la date de publication du décret n° 2008-499 du 27 mai 2008 pourront, à l'issue de leur détachement actuel, être nommés à cet emploi pour une durée de trois ans, selon les modalités et conditions fixées au troisième alinéa de l'article 3 du présent décret.
