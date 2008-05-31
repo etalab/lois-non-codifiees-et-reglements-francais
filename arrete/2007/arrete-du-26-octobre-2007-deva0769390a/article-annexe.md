@@ -41,3 +41,9 @@ De 23 heures à 6 h 59 (heure locale) :
 - 22 mouvements par tranche de soixante minutes glissantes par pas de dix minutes ;
 
 - 6 mouvements par tranche de dix minutes.
+
+4. Postes de stationnement
+
+Pour toute rotation (arrivée puis départ) d'aéronef dont le temps d'escale est supérieur à quatre heures, le coordonnateur attribue les créneaux horaires correspondants en fonction de la disponibilité des postes de stationnement utilisables par le type d'aéronef concerné.
+
+Les aéronefs basés sur l'aéroport de Nice-Côte d'Azur ne sont pas soumis à ces restrictions.
