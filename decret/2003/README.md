@@ -389,6 +389,7 @@
 - [Décret n°2003-797 du 21 août 2003 (DEFP0301497D)](decret-n2003-797-du-21-aout-2003-defp0301497d)
 - [Décret n°2003-807 du 21 août 2003 (MAEA0320275D)](decret-n2003-807-du-21-aout-2003-maea0320275d)
 - [Décret n°2004-78 du 21 janvier 2004 (SANS0424638D)](decret-n2004-78-du-21-janvier-2004-sans0424638d)
+- [Décret n°87-347 du 21 mai 1987 (MENL8700230D)](decret-n87-347-du-21-mai-1987-menl8700230d)
 - [Décret n°2003-460 du 21 mai 2003 (FPPA0310013D)](decret-n2003-460-du-21-mai-2003-fppa0310013d)
 - [Décret n°2003-461 du 21 mai 2003 (SANX0200142D)](decret-n2003-461-du-21-mai-2003-sanx0200142d)
 - [Décret n°2003-462 du 21 mai 2003 (SANP0321523D)](decret-n2003-462-du-21-mai-2003-sanp0321523d)
