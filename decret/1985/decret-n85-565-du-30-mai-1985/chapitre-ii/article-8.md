@@ -4,8 +4,8 @@ Sont électeurs pour la désignation des représentants du personnel les agents 
 
 Ces agents doivent en outre remplir les conditions suivantes :
 
-a) Lorsqu'ils ont la qualité de fonctionnaire titulaire, être en position d'activité, de congé parental, de congé de présence parentale ou être accueillis en détachement ou par voie de mise à disposition ;
+a) Lorsqu'ils ont la qualité de fonctionnaire titulaire, être en position d'activité ou de congé parental ou être accueillis en détachement ou par voie de mise à disposition ;
 
-b) Lorsqu'ils n'ont pas la qualité de fonctionnaire titulaire, être en activité, en congé rémunéré, en congé parental ou en congé de présence parentale ;
+b) Lorsqu'ils n'ont pas la qualité de fonctionnaire titulaire, être en activité, en congé rémunéré, en congé parental ou en congé de présence parentale, ou être accueillis par voie de mise à disposition ;
 
 Les agents mis à disposition des organisations syndicales sont électeurs dans leur collectivité ou établissement d'origine.
