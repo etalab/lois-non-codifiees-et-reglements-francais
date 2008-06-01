@@ -10,7 +10,7 @@
 <p>de l'arrêté préfectoral n° 3647 du 17 décembre 2002 portant statut des personnels contractuels de la collectivité départementale de Mayotte </p>
 </td>
 <td align="left" valign="middle">
-<p align="center">LES FONCTIONS CORRESPONDANT </p>
+<p align="center">FONCTIONS CORRESPONDANT </p>
 <p>à celles dévolues au cadre d'emplois d'accueil </p>
 </td>
 <td align="left" valign="middle">
@@ -23,15 +23,16 @@
 <p align="justify">Agents contractuels recrutés sur le fondement de contrats individuels du niveau de la catégorie A et au moins situés dans la grille des contractuels Bac + 3 </p>
 </td>
 <td align="left" valign="middle">
+<p align="justify">Fonctions de direction dans les services mentionnés à l'article 2 du décret n° 87-1097 du 30 décembre 1987 portant statut particulier du cadre d'emplois des administrateurs territoriaux. </p>
 <p align="justify">Fonctions d'encadrement du niveau de la catégorie A, d'expertise de haut niveau à caractère scientifique et technique </p>
 </td>
 <td align="left" valign="middle">
+<p align="justify">Administrateur territorial </p>
 <p align="justify">Ingénieur </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="middle">
-<br/>
 <br/>
 </td>
 <td align="left" valign="middle">
@@ -85,15 +86,11 @@
 <td>Infirmier de classe normale</td>
 </tr>
 <tr>
-<td align="left" rowspan="3" valign="middle">
-<p align="justify">Agents contractuels recrutés sur le fondement de contrats individuels au moins du niveau de la catégorie C et au moins situés :</p>
+<td align="left" valign="middle">
+<p align="justify">Agents contractuels recrutés sur le fondement de contrats individuels au moins du niveau de la catégorie C et situés :</p>
 <p>-au moins au 5e échelon de la grille des contractuels Bac ;</p>
 <p>-au 6 <sup>e</sup>, 7e, 8e, 9e, 10e ou 11e<sup/>échelon de la grille des contractuels BEP ;</p>
 <p>-au 8e, 9e, 10e, 11e, 12e ou 13e<sup/>échelon de la grille des contractuels CAP. </p>
-<br/>
-<br/>
-<br/>
-<br/>
 </td>
 <td align="left" valign="middle">
 <p align="justify">Fonctions de direction d'équipes, d'adjoint d'agent de catégorie A, d'expertise particulière </p>
@@ -105,6 +102,9 @@
 </tr>
 <tr>
 <td align="left" valign="middle">
+<br/>
+</td>
+<td align="left" valign="middle">
 <p align="justify">Fonctions d'encadrement d'un groupe d'agents d'exécution </p>
 </td>
 <td align="left" valign="middle">
@@ -115,16 +115,19 @@
 </tr>
 <tr>
 <td align="left" valign="middle">
+<br/>
+</td>
+<td align="left" valign="middle">
 <p align="justify">Fonctions d'exécution </p>
 </td>
 <td align="left" valign="middle">
 <p align="justify">Adjoint administratif territorial de 2e classe.</p>
 <p align="justify">Adjoint technique territorial de 2e classe</p>
-<p align="justify">Agent territorial du patrimoine de 2e classe.</p>
+<p align="justify">Adjoint territorial du patrimoine de 2e classe.</p>
 <p align="justify">Aide-opérateur des activités physiques et sportives</p>
 <p align="justify">Agent social territorial de 2e classe</p>
 <p align="justify">Auxiliaire de soins territorial de 1re classe</p>
-<p align="justify">Auxiliaire de puériculture territorial de 1re classe</p>
+<p align="justify">Auxiliaire de puériculture territorial de 2e classe</p>
 <p align="justify">Adjoint territorial d'animation de 2e classe</p>
 <p align="justify">Agent territorial spécialisé de 1re classe des écoles maternelles.</p>
 </td>
