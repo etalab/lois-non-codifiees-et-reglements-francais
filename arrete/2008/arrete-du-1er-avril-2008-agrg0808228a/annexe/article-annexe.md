@@ -20,7 +20,11 @@ Zone de protection :
 
 - département de l'Allier ;
 
-- département des Hautes-Alpes : cantons de Grave, du Monêtier-les-Bains, de Saint-Firmin ;
+- département des Alpes-de-Haute-Provence ;
+
+- département des Hautes-Alpes ;
+
+- département des Alpes-Maritimes ;
 
 - département de l'Ardèche : arrondissements de Tournon-sur-Rhône, de Privas et cantons de Burzet, de Coucouron, de Largentière, de Montpezat-sous-Bauzon, de Saint-Etienne-de-Lugdarès, de Thueyts, de Vallon-Pont-d'Arc ;
 
@@ -30,11 +34,13 @@ Zone de protection :
 
 - département de l'Aveyron ;
 
+- département des Bouches-du-Rhône ;
+
 - département du Calvados ;
 
 - département du Cantal ;
 
-- département de la Charente : arrondissements d'Angoulême, de Coutolens et cantons de Jarnac, de Châteauneuf-sur-Charente ;
+- département de la Charente : arrondissements d'Angoulême, de Confolens et cantons de Jarnac, de Châteauneuf-sur-Charente et de Rouillac ;
 
 - département de la Charente-Maritime : arrondissement de La Rochelle et cantons d'Aigrefeuille-d'Aunis, d'Aulnay, de Loulay, de Matha, de Saint-Jean-d'Angély, de Surgères ;
 
@@ -52,7 +58,7 @@ Zone de protection :
 
 - département du Doubs ;
 
-- département de la Drôme : arrondissements de Valence, de Die et cantons de Dieulefit, de Grignan, de Marsanne, de Nyons, de Pierrelatte, de Rémuzat, de Montélimar, de Montélimar (2e canton) ;
+- département de la Drôme ;
 
 - département de l'Eure ;
 
@@ -146,9 +152,13 @@ Zone de protection :
 
 - département de la Somme ;
 
-- département du Tarn : arrondissement d'Albi, et cantons de Brassac, de Cuq-Toulza, de Dourgne, de Graulhet, de Labruguière, de Lautrec, de Lavaur, de Mazamet - Nord-Est, de Mazamet - Sud-Ouest, de Mazamet, de Montredon-Labessonnié, de Puylaurens, de Roquecourbe, de Saint-Paul-Cap-de-Joux, de Vabre, de Vielmur-sur-Agout, de Castres-Ouest, de Castres-Nord, de Castres ;
+- département du Tarn : arrondissement d'Albi et cantons de Brassac, de Cuq-Toulza, de Dourgne, de Graulhet, de Labruguière, de Lautrec, de Lavaur, de Mazamet-Nord-Est, de Mazamet-Sud-Ouest, de Mazamet, de Montredon-Labessonnié, de Puylaurens, de Roquecourbe, de Saint-Paul-Cap-de-Joux, de Vabre, de Vielmur-sur-Agout, de Castres-Ouest, de Castres-Nord, de Castres ;
 
 - département de Tarn-et-Garonne ;
+
+- département du Var ;
+
+- département de Vaucluse :
 
 - département de la Vendée ;
 
@@ -170,7 +180,7 @@ Zone de protection :
 
 - département du Val-de-Marne ;
 
-- département du Val-d'Oise.
+- département du Val-d'Oise. »
 
 **Zone C. ― Zone d'outre-mer**
 
