@@ -10,6 +10,6 @@ Au sens de l'article R. 323-25 :
 
 - un "opérateur qualifié" est un industriel de la profession du carrossage des véhicules répondant aux conditions fixées à l'article 4 du présent arrêté et en conséquence qualifié pour signer et délivrer des procès-verbaux de contrôle de conformité initial pour les véhicules carrossés sous sa responsabilité.
 
-Le contrôle de conformité initial doit être effectué après achèvement de la dernière étape du carrossage et préalablement à l'immatriculation. Toutefois, si le contrôle de conformité initial est réalisé par le service chargé des réceptions, il peut être réalisé au plus tard dans les deux mois après la date de première mise en circulation figurant sur le certificat d'immatriculation.
+Le contrôle de conformité initial doit être effectué après achèvement de la dernière étape du carrossage et préalablement à l'immatriculation.
 
 Ces dispositions s'appliquent sans préjudice de celles liées à des réglementations spécifiques impliquant des contrôles particuliers à l'occasion de la première mise en circulation des véhicules.
