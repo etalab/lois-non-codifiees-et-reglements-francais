@@ -780,7 +780,6 @@
 - [Arrêté du 27 février 2008 (DEFD0807121A)](arrete-du-27-fevrier-2008-defd0807121a)
 - [Arrêté du 27 février 2008 (ECEL0771950A)](arrete-du-27-fevrier-2008-ecel0771950a)
 - [Arrêté du 27 février 2008 (ECEU0800557A)](arrete-du-27-fevrier-2008-eceu0800557a)
-- [Arrêté du 27 février 2008 (MAEA0804203A)](arrete-du-27-fevrier-2008-maea0804203a)
 - [Arrêté du 27 février 2008 (MCCB0804871A)](arrete-du-27-fevrier-2008-mccb0804871a)
 - [Arrêté du 27 février 2008 (SJSS0805238A)](arrete-du-27-fevrier-2008-sjss0805238a)
 - [Arrêté du 27 mars 2008 (AGRP0807560A)](arrete-du-27-mars-2008-agrp0807560a)
