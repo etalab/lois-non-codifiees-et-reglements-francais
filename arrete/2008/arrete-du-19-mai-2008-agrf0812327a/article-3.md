@@ -1,0 +1,5 @@
+# Article 3
+
+Pour les départements métropolitains, Corse comprise, les modalités pratiques de recouvrement et de reversement de la contribution aux fonds d'assurance formation sont définies par conventions de gestion passées, d'une part, entre la caisse centrale de mutualité sociale agricole (CCMSA) et le fonds d'assurance formation des exploitants agricoles (VIVEA) et, d'autre part, entre la CCMSA et le fonds d'assurance formation de la pêche et des cultures marines (FAF-PCM).
+
+Pour les départements d'outre-mer, les modalités pratiques de recouvrement et de reversement de la contribution aux fonds d'assurance formation sont définies par conventions de gestion passées, d'une part, entre la CCMSA, chacune des caisses générales de sécurité sociale (dès lors qu'elle compte parmi ses adhérents un contributeur concerné) et le fonds d'assurance formation des exploitants agricoles (VIVEA) et, d'autre part, entre la CCMSA, chacune des caisses générales de sécurité sociale (dès lors qu'elle compte parmi ses adhérents un contributeur concerné) et le fonds d'assurance formation de la pêche et des cultures marines (FAF-PCM).
