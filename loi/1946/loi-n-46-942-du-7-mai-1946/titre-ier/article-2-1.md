@@ -1,13 +1,15 @@
 # Article 2-1
 
-Par dérogation au premier alinéa de l'article 2, les professionnels ressortissants d'un Etat membre de la Communauté européenne, établis dans un Etat membre autre que la France et exerçant légalement la profession de géomètre-expert dans ledit Etat, peuvent, sans être inscrits à l'ordre, effectuer les travaux prévus au 1° de l'article 1er, sous le régime de la libre prestation de services définie par le chapitre 3 du titre III du traité de Rome, sous réserve :
+Par dérogation au premier alinéa de l'article 2, les professionnels ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen peuvent, sans être inscrits à l'ordre, effectuer de façon temporaire et occasionnelle sur le territoire national les travaux prévus au 1° de l'article 1er, sous réserve :
 
-1° D'avoir été reconnus qualifiés dans les conditions fixées au b du 4° de l'article 3 et d'être âgés de vingt-cinq ans révolus ;
+1° D'être légalement établis dans un de ces Etats pour y exercer la profession de géomètre expert ;
 
-2° De justifier, préalablement à toute prestation de services sur le territoire national, qu'ils satisfont aux conditions du 2° de l'article 3 et à l'obligation d'assurance prévue à l'article 9-1.
+2° Lorsque ni la profession de géomètre expert ni la formation y conduisant ne sont réglementées dans l'Etat d'établissement, d'avoir exercé cette profession pendant au moins deux ans au cours des dix années qui précèdent la prestation dans cet Etat ;
 
-L'exécution des travaux est subordonnée à une déclaration préalable dont les modalités sont fixées par décret en Conseil d'Etat. La déclaration est adressée au conseil régional de l'ordre dans le ressort duquel chaque prestation doit être réalisée.
+3° D'être assurés conformément à l'article 9-1 et d'en faire la déclaration dans les conditions définies par décret en Conseil d'Etat ;
 
-La libre prestation de services est effectuée sous la surveillance et le contrôle disciplinaire du conseil régional de l'ordre.
+4° De satisfaire à des obligations déclaratives, avant la réalisation de la première prestation en France, dans des conditions définies par décret en Conseil d'Etat.
 
-Les dispositions du présent article sont applicables aux ressortissants des Etats parties à l'accord sur l'Espace économique européen établis sur le territoire d'un de ces Etats ou d'un Etat membre de la Communauté européenne autre que la France.
+La prestation est effectuée sous le titre professionnel porté dans l'Etat d'établissement ou sous le titre de formation du prestataire.
+
+Le professionnel est tenu au respect de règles de conduite déterminées par décret en Conseil d'Etat, et notamment au secret professionnel et à l'obligation d'assurance, dans les conditions de l'article 6. Il est soumis, pour l'application de ces règles, au contrôle disciplinaire du conseil régional de l'ordre dans la circonscription duquel la prestation est réalisée.

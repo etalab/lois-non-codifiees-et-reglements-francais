@@ -1,6 +1,6 @@
 # Article 6
 
-Les géomètres-experts, les sociétés de géomètres-experts, les géomètres-experts stagiaires et les professionnels ressortissants de la Communauté européenne ou ressortissants d'un autre Etat partie à l'accord sur l'Espace économique européen exerçant sous le régime de la libre prestation de services doivent respecter, outre les règles édictées par la présente loi, celles contenues dans le code des devoirs professionnels et dans le règlement de la profession de géomètres-expert établis par décret en Conseil d'Etat après avis du Conseil supérieur de l'ordre.
+Les géomètres-experts, les sociétés de géomètres-experts, les géomètres-experts stagiaires doivent respecter, outre les règles édictées par la présente loi, celles contenues dans le code des devoirs professionnels et dans le règlement de la profession de géomètres-expert établis par décret en Conseil d'Etat après avis du Conseil supérieur de l'ordre.
 
 Ils sont tenus au secret professionnel sous les peines fixées aux articles 226-13 et 226-14 du code pénal.
 

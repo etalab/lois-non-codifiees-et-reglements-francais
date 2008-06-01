@@ -4,11 +4,13 @@ Avant son immatriculation au répertoire des métiers ou, pour les départements
 
 Toutefois, le futur chef d'entreprise peut être dispensé de suivre le stage prévu à l'alinéa précédent :
 
-- si une raison de force majeure l'en empêche, auquel cas il doit s'acquitter de son obligation dans un délai d'un an à compter de son immatriculation ou de son inscription ;
+-si une raison de force majeure l'en empêche, auquel cas il doit s'acquitter de son obligation dans un délai d'un an à compter de son immatriculation ou de son inscription ;
 
-- s'il a bénéficié d'une formation à la gestion d'un niveau au moins égal à celui du stage ;
+-s'il a bénéficié d'une formation à la gestion d'un niveau au moins égal à celui du stage ;
 
-- s'il a exercé, pendant au moins trois ans, une activité professionnelle requérant un niveau de connaissance au moins équivalent à celui fourni par le stage.
+-s'il a exercé, pendant au moins trois ans, une activité professionnelle requérant un niveau de connaissance au moins équivalent à celui fourni par le stage.
+
+Pour s'établir en France, un professionnel qualifié ressortissant d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen est dispensé de suivre le stage prévu au premier alinéa. Un décret en Conseil d'Etat définit les conditions dans lesquelles, si l'examen des qualifications professionnelles attestées par le professionnel fait apparaître des différences substantielles au regard des qualifications requises pour la direction d'une entreprise artisanale, l'autorité compétente peut exiger que le demandeur se soumette à une épreuve d'aptitude ou un stage d'adaptation, à son choix.
 
 Lorsque le futur chef d'entreprise est dispensé de participer au stage, celui-ci reste ouvert à son conjoint et à ses auxiliaires familiaux.
 

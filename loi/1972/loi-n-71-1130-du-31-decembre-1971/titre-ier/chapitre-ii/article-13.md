@@ -10,7 +10,7 @@ Le centre régional de formation professionnelle est chargé, dans le respect de
 
 1° D'organiser la préparation au certificat d'aptitude à la profession d'avocat ;
 
-2° De statuer sur les demandes de dispense d'une partie de la formation professionnelle en fonction des diplômes universitaires obtenus par les intéressés, sous réserve des dispositions réglementaires prises pour l'application de la directive 89/48/CEE du Conseil des Communautés européennes du 21 décembre 1988 précitée ;
+2° De statuer sur les demandes de dispense d'une partie de la formation professionnelle en fonction des diplômes universitaires obtenus par les intéressés, sous réserve des dispositions réglementaires prises pour l'application de la directive 2005 / 36 / CE du 7 septembre 2005 précitée ;
 
 3° D'assurer la formation générale de base des avocats et, le cas échéant, en liaison avec les universités, les organismes d'enseignement ou de formation professionnelle publics ou privés ou les juridictions, leur formation complémentaire ;
 
