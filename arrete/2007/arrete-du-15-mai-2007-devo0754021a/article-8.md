@@ -14,9 +14,9 @@ Un représentant du tourisme ou un représentant des activités nautiques désig
 
 Quinze représentants de l'industrie désignés par un collège formé par :
 
-- les présidents des chambres régionales de commerce et d'industrie d'Alsace, de Champagne-Ardenne et de Lorraine ;
+-les présidents des chambres régionales de commerce et d'industrie d'Alsace, de Champagne-Ardenne et de Lorraine ;
 
-- les présidents du MEDEF régional (Mouvement des entreprises de France) d'Alsace, de Champagne-Ardenne, de Lorraine et le président de COOP de France.
+-les présidents du MEDEF régional (Mouvement des entreprises de France) d'Alsace, de Champagne-Ardenne, de Lorraine et le président de COOP de France.
 
 Deux représentants des producteurs d'électricité désignés par l'Union française de l'électricité ;
 
@@ -28,4 +28,4 @@ Trois représentants des associations agréées de protection de la nature dési
 
 Le préfet coordonnateur de bassin invite chaque collège, association ou organisme ci-dessus mentionné à lui faire connaître le nom ou les noms des représentants qu'il a désignés.
 
-La représentation des personnes qualifiées est assurée par trois représentants et celles des milieux socio-professionnels par trois représentants, désignés suivant les modalités prévues au II de l'article R. 213-19 du code de l'environnement.
+La représentation des personnes qualifiées est assurée par deux représentants et celles des milieux socio-professionnels par trois représentants, désignés suivant les modalités prévues au II de l'article R. 213-19 du code de l'environnement.
