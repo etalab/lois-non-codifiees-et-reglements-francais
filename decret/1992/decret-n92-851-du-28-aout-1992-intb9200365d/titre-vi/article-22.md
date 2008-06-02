@@ -1,6 +1,6 @@
 # Article 22
 
-Sans préjudice de l'application des dispositions du décret du 9 octobre 1985 précitée, les membres du cadre d'emplois des médecins territoriaux peuvent, s'ils justifient de six ans de services effectifs dans ce cadre d'emplois, demander à suivre une formation pendant une ou plusieurs périodes d'une durée totale d'un an sur l'ensemble de leur carrière.
+Sans préjudice de l'application des dispositions du décret n° 2007-1845 du 26 décembre 2007 relatif à la formation professionnelle tout au long de la vie des agents de la fonction publique territoriale, les membres du cadre d'emplois des médecins territoriaux peuvent, s'ils justifient de six ans de services effectifs dans ce cadre d'emplois, demander à suivre une formation pendant une ou plusieurs périodes d'une durée totale d'un an sur l'ensemble de leur carrière.
 
 L'autorité territoriale se prononce sur leur demande, au vu des projets présentés par les candidats.
 

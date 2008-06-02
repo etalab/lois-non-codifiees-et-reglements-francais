@@ -20,4 +20,4 @@ Ils peuvent également exercer des fonctions de gardiennage, de surveillance ou 
 
 Ils peuvent également exercer leurs fonctions dans les laboratoires d'analyses médicales, chimiques ou bactériologiques.
 
-Lorsqu'ils sont titulaires d'un grade d'avancement, les adjoints techniques territoriaux peuvent assurer la conduite de poids lourds et de véhicules de transport en commun nécessitant une formation professionnelle.
+Lorsqu'ils sont titulaires d'un grade d'avancement, les adjoints techniques territoriaux peuvent assurer la conduite de poids lourds et de véhicules de transport en commun.
