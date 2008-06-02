@@ -1,0 +1,3 @@
+# Article 46
+
+Les dispositions du présent décret entrent en vigueur le 1er juillet 2008, à l'exception de celles figurant aux 2° de l'article 3, 7° de l'article 4, 7° de l'article 5, 6° de l'article 9, 7° de l'article 10, 6° à 8° de l'article 12, 5° et 6° de l'article 13, 5° à 7° de l'article 14, 5° de l'article 15, 5° et 6° de l'article 17, 1° de l'article 18, 8° et 9° de l'article 19, 5° de l'article 22, 5° et 6° de l'article 24, 5° et 6° de l'article 25, 5° et 6° de l'article 26, 8°, 9° et 11° de l'article 27, 7° et 9° de l'article 28, 7° et 8° de l'article 29, 5° et 6° de l'article 30, 8° et 10° de l'article 31, 7° et 8° de l'article 32, 7° et 8° de l'article 33, à l'article 34 et aux 1°, 3° et 7° de l'article 42 et 2° de l'article 45.
