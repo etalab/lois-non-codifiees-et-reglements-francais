@@ -8,8 +8,8 @@ Directement subordonnée au directeur général de la gendarmerie nationale, l'i
 
 - d'effectuer des missions d'audit, d'étude, d'enquête ou d'information concernant l'organisation de la gendarmerie nationale, son service, ses personnels d'active ou de réserve, son infrastructure et ses moyens ;
 
-- de coordonner l'action des commissaires résidents dans le domaine de la surveillance administrative et technique ;
-
 - de contrôler la mise en oeuvre de la réglementation relative à l'hygiène, à la sécurité, aux conditions de travail et à l'environnement ;
 
 - d'attributions générales d'inspection en matière de préparation de la mobilisation pour l'ensemble des formations de la gendarmerie nationale, de préparation militaire, de politique de formation, d'emploi, d'équipement et de gestion du personnel de réserve de la gendarmerie nationale.
+
+En outre, elle peut participer, conjointement avec d'autres services d'inspection, à des missions interministérielles.

@@ -1,3 +1,3 @@
 # Article 9
 
-L'organisation en bureaux des sous-directions est fixée par arrêté du ministre chargé des armées.
+L'organisation de la direction générale de la gendarmerie nationale en sous-directions et en bureaux est fixée par arrêté du ministre de la défense.

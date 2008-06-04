@@ -8,4 +8,4 @@ Les organismes extérieurs directement subordonnés au directeur général de la
 
 - les commissariats résidents, chargés de l'ordonnancement des dépenses, ainsi que de la surveillance administrative et technique des formations de la gendarmerie.
 
-Les organismes extérieurs relevant des commandants de région de gendarmerie sur le territoire de laquelle ils se situent comprennent les centres administratifs territoriaux de la gendarmerie chargés du soutien administratif et financier des formations de gendarmerie.
+L'activité des organismes extérieurs est animée et coordonnée par le service des soutiens et des finances.

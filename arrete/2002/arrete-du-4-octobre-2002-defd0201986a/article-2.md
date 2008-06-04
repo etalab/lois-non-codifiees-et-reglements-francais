@@ -8,4 +8,4 @@ Il est assisté de deux officiers généraux, inspecteurs adjoints :
 
 - l'inspecteur technique de la gendarmerie nationale.
 
-En outre, l'inspecteur de la gendarmerie nationale dispose d'un bureau audit.
+En outre, l'inspecteur de la gendarmerie nationale dispose d'un chef d'état-major.
