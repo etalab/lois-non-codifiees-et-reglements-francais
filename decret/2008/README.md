@@ -27,6 +27,7 @@
 - [Décret n°2008-308 du 2 avril 2008 (ESRX0773477D)](decret-n2008-308-du-2-avril-2008-esrx0773477d)
 - [Décret n°2008-4 du 2 janvier 2008 (DEVN0771263D)](decret-n2008-4-du-2-janvier-2008-devn0771263d)
 - [Décret n°2008-5 du 2 janvier 2008 (DEVP0753022D)](decret-n2008-5-du-2-janvier-2008-devp0753022d)
+- [Décret n°2008-517 du 2 juin 2008 (SJSH0812600D)](decret-n2008-517-du-2-juin-2008-sjsh0812600d)
 - [Décret n°2008-6 du 2 janvier 2008 (IOCN0767278D)](decret-n2008-6-du-2-janvier-2008-iocn0767278d)
 - [Décret n°2008-8 du 2 janvier 2008 (DEFD0765815D)](decret-n2008-8-du-2-janvier-2008-defd0765815d)
 - [Décret n°2008-9 du 2 janvier 2008 (MCCB0756281D)](decret-n2008-9-du-2-janvier-2008-mccb0756281d)
