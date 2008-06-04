@@ -20,4 +20,6 @@ Peuvent seuls être destinataires de ces informations, dans les limites fixées 
 
 9° Les personnels des entreprises d'assurances garantissant les dommages subis par des tiers résultant d'atteintes aux personnes ou aux biens dans la réalisation desquels un véhicule terrestre à moteur, ainsi que ses remorques ou semi-remorques, est impliqué et les organismes assimilés à ces entreprises dès lors que ces informations ont pour seul but d'identifier les biens et les personnes impliqués dans un accident de la circulation à condition qu'au moins un des véhicules soit assuré par le demandeur ou que ce dernier ait en charge l'indemnisation d'une des victimes ;
 
-10° Les autorités compétentes des territoires et collectivités territoriales d'outre-mer pour l'exercice de leurs attributions en matière de circulation des véhicules.
+10° Les autorités compétentes des territoires et collectivités territoriales d'outre-mer pour l'exercice de leurs attributions en matière de circulation des véhicules ;
+
+11° Les autorités étrangères avec lesquelles existe un accord d'échange d'informations relatives à l'identification du titulaire du certificat d'immatriculation.
