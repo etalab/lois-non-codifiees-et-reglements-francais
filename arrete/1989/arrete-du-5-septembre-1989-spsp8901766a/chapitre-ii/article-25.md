@@ -10,14 +10,10 @@ Le travail réalisé par les candidats est transmis par ceux-ci à la direction 
 
 Sont déclarés admis aux épreuves du diplôme d'Etat de masseur-kinésithérapeute définies à l'article 22 les bénéficiaires d'une dispense totale de scolarité ayant obtenu au moins 50 points sur un total de 100, qui se décompose comme suit :
 
-1. Notes aux deux épreuves de mise en situation professionnelle :
+1. Note à l'épreuve de mise en situation professionnelle 60
 
-1re épreuve : 40 ;
+2. Note à la soutenance du travail écrit 40
 
-2e épreuve : 40.
+Total général 100
 
-2. Note à la soutenance du travail écrit : 20.
-
-Total général : 100.
-
-Toute note inférieure à quinze points à une mise en situation professionnelle est éliminatoire.
+Toute note inférieure à 21 points à l'épreuve de mise en situation professionnelle est éliminatoire.
