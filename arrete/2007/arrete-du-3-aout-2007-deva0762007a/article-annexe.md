@@ -86,7 +86,9 @@ Paris-Puerto Plata (République dominicaine) ;
 
 Paris-Samana (République dominicaine) ;
 
-Paris-Dakar (Sénégal).
+Paris-Dakar (Sénégal) ;
+
+Paris―Tel-Aviv (Israël).
 
 Jusqu'au 30 septembre 2012 :
 
@@ -101,3 +103,9 @@ Paris―Halifax (Canada) ;
 Paris―Québec  (Canada) ;
 
 Paris―Toronto (Canada).
+
+Jusqu'au 31 mai 2013 :
+
+― Paris―Al Ain (Emirats arabes unis)  (fret uniquement) ;
+
+― Paris―Rabat (Maroc)
