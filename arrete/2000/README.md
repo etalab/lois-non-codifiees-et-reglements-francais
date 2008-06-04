@@ -32,6 +32,7 @@
 - [Arrêté du 8 décembre 2000 (ATEN0090424A)](arrete-du-8-decembre-2000-aten0090424a)
 - [Arrêté du 8 décembre 2000 (EQUS0001818A)](arrete-du-8-decembre-2000-equs0001818a)
 - [Arrêté du 8 novembre 2000 (JUSB0010336A)](arrete-du-8-novembre-2000-jusb0010336a)
+- [Arrêté du 9 décembre 1999 (MESS9923741A)](arrete-du-9-decembre-1999-mess9923741a)
 - [Arrêté du 9 juin 2000 (AGRG0001080A)](arrete-du-9-juin-2000-agrg0001080a)
 - [Arrêté du 9 juin 2000 (ECOP0000348A)](arrete-du-9-juin-2000-ecop0000348a)
 - [Arrêté du 10 juillet 2000 (ECOP0000418A)](arrete-du-10-juillet-2000-ecop0000418a)
