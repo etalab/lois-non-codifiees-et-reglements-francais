@@ -14,5 +14,6 @@
 - [LOI n° 2008-492 du 26 mai 2008 (DEFX0600007L)](loi-n-2008-492-du-26-mai-2008-defx0600007l)
 - [LOI n° 2008-493 du 26 mai 2008 (DEFX0755030L)](loi-n-2008-493-du-26-mai-2008-defx0755030l)
 - [LOI n° 2008-496 du 27 mai 2008 (MTSX0769280L)](loi-n-2008-496-du-27-mai-2008-mtsx0769280l)
+- [LOI n° 2008-518 du 3 juin 2008 (ESRX0700048L)](loi-n-2008-518-du-3-juin-2008-esrx0700048l)
 - [LOI n° 2008-67 du 21 janvier 2008 (MTSX0700051L)](loi-n-2008-67-du-21-janvier-2008-mtsx0700051l)
 - [LOI n° 2008-89 du 30 janvier 2008 (MTSX0760738L)](loi-n-2008-89-du-30-janvier-2008-mtsx0760738l)

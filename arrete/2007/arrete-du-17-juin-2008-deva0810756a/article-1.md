@@ -70,8 +70,6 @@ Rennes - Saint-Jacques.
 
 Groupe E :
 
-Avignon-Caumont.
-
 Beauvais-Tillé.
 
 Cayenne-Rochambeau.
@@ -113,6 +111,8 @@ Tarbes-Lourdes - Pyrénées.
 Groupe F :
 
 Aix-Les Milles.
+
+Avignon-Caumont.
 
 Cannes-Mandelieu.
 
