@@ -2,15 +2,15 @@
 
 Permis de pêche spéciaux pour la mer Méditerranée.
 
-1. En mer Méditerranée, le « PPS thon rouge » se décline en :
+1. En mer Méditerranée, le "PPS thon rouge" se décline en :
 
-― un PPS pour la pêche du thon rouge à la senne de surface en Méditerranée pour des navires de plus de 24 mètres de longueur hors tout ou de 24 mètres de longueur hors tout ;
+- un PPS pour la pêche du thon rouge à la senne de surface en Méditerranée pour des navires de plus de 24 mètres de longueur hors tout ou de 24 mètres de longueur hors tout ;
 
-― un PPS pour la pêche du thon rouge à la senne de surface en Méditerranée pour des navires de moins de 24 mètres de longueur hors tout (strictement) ;
+- un PPS pour la pêche du thon rouge à la senne de surface en Méditerranée pour des navires de moins de 24 mètres de longueur hors tout (strictement) ;
 
-― un PPS pour la pêche du thon rouge à la canne en Méditerranée ;
+- un PPS pour la pêche du thon rouge à la canne en Méditerranée pour des navires de moins de 18 mètres de longueur hors tout ;
 
-― un PPS pour la pêche du thon rouge à la ligne ou à la palangre par des navires de moins de 24 mètres de longueur hors tout (strictement).
+- un PPS pour la pêche du thon rouge à la ligne ou à la palangre en Méditerranée pour des navires de moins de 18 mètres de longueur hors tout.
 
 2. Pour les navires auxquels est délivré un permis de pêche spécial prévu au premier paragraphe du présent article, la capture, la détention à bord, le transbordement, le transfert, le débarquement, le transport, le stockage, la vente de thon rouge dans l'océan Atlantique ou dans un port situé sur le littoral Atlantique sont interdits.
 
