@@ -8,4 +8,4 @@ La limite d'âge supérieure prévue à l'article 5 est reculée :
 
 Les conditions à remplir pour bénéficier d'un recul de limite d'âge sont appréciées au 1er janvier de l'année du concours. Une même période ne peut permettre le recul de la limite d'âge qu'à un seul titre.
 
-L'application du présent article ne peut avoir pour effet de permettre à un infirmier de se présenter au concours s'il a plus de quarante ans au 1er janvier de l'année du concours.
+L'application du présent article ne peut avoir pour effet de permettre à un infirmier de se présenter au concours s'il a plus de quarante-cinq ans au 1er janvier de l'année du concours.
