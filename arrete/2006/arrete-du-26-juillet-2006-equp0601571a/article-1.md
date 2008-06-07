@@ -38,13 +38,13 @@ Le président de la première section du Conseil général des ponts et chaussé
 
 L'inspecteur général des services des affaires maritimes.
 
-La chef du service des affaires financières et du contrôle de gestion de la direction générale de l'administration.
+La chef de service de l'information et de la communication du secrétariat général.
 
 Le secrétaire général de la direction générale de l'aviation civile.
 
 La directrice des affaires juridiques, informatiques et logistiques.
 
-La directrice adjointe de la nature et des paysages.
+La sous-directrice des affaires financières du service des effectifs et du budget de la direction générale du personnel et de l'administration.
 
 Un membre du conseil général des ponts et chaussées.
 
