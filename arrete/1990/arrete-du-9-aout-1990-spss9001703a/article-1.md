@@ -1,13 +1,19 @@
 # Article 1
 
-Le jury commun aux deux concours d'entrée au Centre national d'études supérieures de sécurité sociale comprend douze membres [*organisation*] dont :
+Le jury commun aux deux concours d'entrée à l'Ecole nationale supérieure de sécurité sociale comprend douze membres :
 
-Trois membres ou anciens membres de l'enseignement supérieur ;
+- trois membres ou anciens membres de l'enseignement supérieur ;
 
-Trois fonctionnaires ou anciens fonctionnaires ;
+- trois fonctionnaires ou anciens fonctionnaires ;
 
-Six agents de direction ou agents comptables des organismes des divers régimes de sécurité sociale.
+- six agents de direction ou agents comptables des organismes de sécurité sociale.
 
 Le jury peut s'adjoindre des examinateurs spécialisés pour certaines matières.
 
-Des correcteurs peuvent être désignés pour participer avec les membres du jury à la correction des trois épreuves obligatoires d'admissibilité. Ils délibèrent avec le jury avec voix consultative pour l'attribution de notes des épreuves qu'ils ont corrigées.
+Il comprend également six membres suppléants répartis ainsi qu'il suit :
+
+- deux suppléants membres ou anciens membres de l'enseignement supérieur ;
+
+- deux suppléants fonctionnaires ou anciens fonctionnaires ;
+
+- deux suppléants agents de direction ou agents comptables des organismes de sécurité sociale.

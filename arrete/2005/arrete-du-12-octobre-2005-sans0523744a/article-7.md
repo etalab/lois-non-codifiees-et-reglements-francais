@@ -2,7 +2,7 @@
 
 La composition du jury chargé d'établir la liste des candidats reçus aux épreuves du certificat d'études spécialisées de comptabilité et d'analyse financière des organismes de sécurité sociale est la suivante :
 
-- un membre de l'inspection générale des affaires sociales, président ;
+- un membre d'un grand corps de l'Etat ou un directeur régional des affaires sanitaires et sociales, actif ou retraité, président ;
 
 - un directeur régional des affaires sanitaires et sociales (ou adjoint) ;
 

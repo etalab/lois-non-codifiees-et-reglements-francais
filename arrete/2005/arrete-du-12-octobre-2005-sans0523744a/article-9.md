@@ -1,3 +1,3 @@
 # Article 9
 
-L'arrêté du 27 juin 1996 modifié relatif au certificat d'études spécialisées de comptabilité et d'analyse financière des organismes de sécurité sociale est abrogé.
+Les dispositifs du présent arrêté sont applicables à compter du cycle de formation qui succédera à celui en cours à la date de publication dudit arrêté.

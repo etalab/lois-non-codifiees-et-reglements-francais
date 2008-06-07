@@ -1,10 +1,12 @@
 # Article 8
 
-Le règlement intérieur définit notamment :
+Les candidats sont tenus de se conformer au règlement intérieur du cycle de formation qui est établi par le directeur de l'EN3S et précise :
 
 - la composition de la commission d'entrée en formation ;
 
 - les épreuves d'entrée en formation ;
+
+- les conditions de dispenses d'épreuves à l'entrée en formation ;
 
 - le contenu des enseignements ;
 
@@ -12,6 +14,12 @@ Le règlement intérieur définit notamment :
 
 - les modules de formation ;
 
-- les modalités de l'examen final.
+- les dispenses d'assiduité ;
 
-Le règlement intérieur est établi par le directeur de l'Ecole nationale supérieure de sécurité sociale, dans l'objectif de garantir le niveau de la formation dispensée, dans le respect des textes en vigueur, sur avis conforme de la commission pédagogique et sur avis conforme du conseil d'administration.
+- les modalités du stage et du rapport ;
+
+- les modalités des épreuves (contrôle continu et examen final) ;
+
+- la composition du jury d'admission ;
+
+- les modalités de redoublement.
