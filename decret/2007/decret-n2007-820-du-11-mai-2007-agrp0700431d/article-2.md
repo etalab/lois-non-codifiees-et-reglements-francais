@@ -10,7 +10,7 @@ Les cantons du département des Deux-Sèvres, à l'exclusion des cantons suivant
 
 a) Pour la production de vins blancs : sauvignon blanc, sauvignon gris, chardonnay, chenin, grolleau gris, pinot blanc, pinot gris, melon (uniquement en bicépage ou en assemblage pour ce dernier) ;
 
-b) Pour la production de vins rouges et rosés ou gris : cabernet franc, cabernet sauvignon, gamay noir, grolleau noir, grolleau gris, pinot noir, merlot, pineau d'aunis.
+b) Pour la production de vins rouges et rosés ou gris : cabernet franc, cabernet sauvignon, gamay noir, grolleau noir, grolleau gris, pinot noir, merlot, pineau d'aunis, cot N.
 
 La mention " gris " désigne un vin rosé de teinte très peu soutenue, obtenu par égouttage ou pressurage direct et issu des cépages mentionnés ci-dessus.
 
