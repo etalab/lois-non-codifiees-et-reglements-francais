@@ -1,0 +1,9 @@
+# Article 7
+
+Les fonctionnaires, magistrats, militaires et agents contractuels bénéficiaires de la garantie en 2008 et faisant valoir leurs droits à la retraite avant 2011 bénéficient de la garantie individuelle du pouvoir d'achat :
+
+― en 2009 pour ceux faisant valoir leurs droits à la retraite en 2009 au titre de la période de référence allant du 31 décembre 2004 au 31 décembre 2008 ;
+
+― en 2010 pour ceux faisant valoir leurs droits à la retraite en 2010 au titre de la période de référence allant du 31 décembre 2005 au 31 décembre 2009 dans les conditions prévues par le présent décret.
+
+Le montant de la garantie allouée au titre du présent article n'est toutefois pas cumulable avec le montant de la garantie attribuée au titre de l'article 6 ci-dessus.
