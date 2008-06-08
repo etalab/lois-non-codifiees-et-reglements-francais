@@ -6,7 +6,7 @@ Siègent au comité technique paritaire ministériel présidé par le ministre d
 
 Le vice-président du Conseil général des ponts et chaussées.
 
-Le secrétaire général.
+Le sous-directeur des personnels techniques, d'exploitation et contractuels de la direction générale du personnel et de l'administration.
 
 Le haut fonctionnaire de défense.
 
