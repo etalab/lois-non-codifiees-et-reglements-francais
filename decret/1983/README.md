@@ -65,7 +65,6 @@
 - [Décret n°83-1073 du 13 décembre 1983](decret-n83-1073-du-13-decembre-1983)
 - [Décret n°83-17 du 13 janvier 1983](decret-n83-17-du-13-janvier-1983)
 - [Décret n°83-297 du 13 avril 1983](decret-n83-297-du-13-avril-1983)
-- [Décret n°83-306 du 13 avril 1983](decret-n83-306-du-13-avril-1983)
 - [Décret n°83-816 du 13 septembre 1983](decret-n83-816-du-13-septembre-1983)
 - [Décret n°83-817 du 13 septembre 1983](decret-n83-817-du-13-septembre-1983)
 - [Décret n°83-916 du 13 octobre 1983](decret-n83-916-du-13-octobre-1983)
