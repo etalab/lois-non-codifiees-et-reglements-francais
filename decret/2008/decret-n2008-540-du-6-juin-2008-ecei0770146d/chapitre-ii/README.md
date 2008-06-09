@@ -1,0 +1,5 @@
+# CHAPITRE II : DISSOLUTION DU COMITE INTERPROFESSIONNEL  DE DEVELOPPEMENT DES INDUSTRIES DU CUIR
+
+- [Article 9](article-9.md)
+- [Article 10](article-10.md)
+- [Article 11](article-11.md)
