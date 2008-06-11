@@ -12,6 +12,10 @@ Pour les épreuves des groupes A/L et B/L de la section des lettres, les candida
 
 1.4. Pour les épreuves de géographie, l'usage de l'atlas est interdit, un fond de carte est éventuellement joint au sujet.
 
+1.5. Pour l'épreuve commune d'admissibilité de commentaire et traduction en langues vivantes étrangères, l'usage d'un dictionnaire unilingue est autorisé. Pour le japonais, deux dictionnaires unilingues sont autorisés, dont un en langue japonaise de caractère chinois.
+
+Les dictionnaires autorisés sont précisés dans l'arrêté annuel fixant le programme du concours.
+
 2. Epreuves orales et pratiques d'admission :
 
 2.1. Selon la nature des compositions proposées par le jury, des documents, textes, dossiers, données chronologiques ou statistiques, représentations cartographiques ou graphiques peuvent être mis à la disposition des candidats de chacun des deux groupes.
