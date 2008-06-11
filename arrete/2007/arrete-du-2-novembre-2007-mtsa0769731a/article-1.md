@@ -66,4 +66,8 @@ Dans le département de la Mayenne.
 
 Dans le département de la Seine-Saint-Denis : le territoire des communes d'Aulnay-sous-Bois, Le Blanc-Mesnil, Clichy-sous-Bois, Livry-Gargan, Montfermeil, Sevran.
 
+Dans le département des Bouches-du-Rhône : sur l'ensemble du territoire marseillais.
+
+Dans le département du Rhône : sur les territoires des commissions locales d'insertion de Tarare (n° 5), de Givors (n° 13) et de Villefranche-sur-Saône (n° 15).
+
 II.-Les territoires du département d'Ille-et-Vilaine, du département de la Charente-Maritime qui sont mentionnés dans le présent article sont autorisés à modifier le rythme de liquidation de l'allocation de revenu de solidarité active et de l'allocation de parent isolé dans les conditions fixées dans le II de l'article 3 du décret n° 2007-1433 du 5 octobre 2007 relatif à l'expérimentation du revenu de solidarité active mise en oeuvre en faveur des bénéficiaires de l'allocation de parent isolé et du revenu minimum d'insertion.

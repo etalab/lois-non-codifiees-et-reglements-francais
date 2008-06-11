@@ -8,12 +8,6 @@ La direction régionale des affaires sanitaires et sociales désigne un établis
 
 Le travail réalisé par les candidats est transmis par ceux-ci à la direction régionale des affaires sanitaires et sociales de leur domicile, à charge pour elle de l'adresser aux membres du jury, prévu à l'article 27, quinze jours au moins avant la date de l'épreuve de soutenance.
 
-Sont déclarés admis aux épreuves du diplôme d'Etat de masseur-kinésithérapeute définies à l'article 22 les bénéficiaires d'une dispense totale de scolarité ayant obtenu au moins 50 points sur un total de 100, qui se décompose comme suit :
+Sont déclarés admis aux épreuves du diplôme d'Etat de masseur-kinésithérapeute définies à l'article 22 les bénéficiaires d'une dispense totale de scolarité ayant obtenu au moins 50 points sur un total de 100, à la soutenance du travail écrit.
 
-1. Note à l'épreuve de mise en situation professionnelle 60
-
-2. Note à la soutenance du travail écrit 40
-
-Total général 100
-
-Toute note inférieure à 21 points à l'épreuve de mise en situation professionnelle est éliminatoire.
+Toute note inférieure à trente-cinq points à la soutenance de travail écrit est éliminatoire.
