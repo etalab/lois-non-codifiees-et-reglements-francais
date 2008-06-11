@@ -38,13 +38,13 @@ III. - Epreuves orales et pratiques d'admission
 
 Option biologie
 
-1. Interrogation de biologie (coefficient 24).
+1. Interrogation de biologie (coefficient 25).
 
-2. Interrogation de chimie (coefficient 20).
+2. Interrogation de chimie (coefficient 16).
 
-3. Interrogation de sciences de la Terre (coefficient10).
+3. Interrogation de sciences de la Terre (coefficient 12).
 
-4. Interrogation de physique (coefficient 15).
+4. Interrogation de physique (coefficient 16).
 
 5. Travaux d'initiative personnelle encadrés (coefficient 15).
 
@@ -56,11 +56,11 @@ Option géologie
 
 1. Interrogation de biologie (coefficient 17).
 
-2. Interrogation de chimie (coefficient 14).
+2. Interrogation de chimie (coefficient 16).
 
-3. Interrogation de sciences de la Terre (coefficient19).
+3. Interrogation de sciences de la Terre (coefficient 20).
 
-4. Interrogation de physique (coefficient 19).
+4. Interrogation de physique (coefficient 16).
 
 5. Travaux d'initiative personnelle encadrés (coefficient 15).
 

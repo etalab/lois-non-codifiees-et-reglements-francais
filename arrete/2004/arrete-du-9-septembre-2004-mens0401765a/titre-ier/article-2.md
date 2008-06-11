@@ -19,3 +19,5 @@ Le groupe physique-chimie (PC) ;
 Le groupe biologie-chimie-physique-sciences de la Terre (BCPST).
 
 Les candidats titulaires d'un diplôme ou de crédits sanctionnant quatre années d'études universitaires ne peuvent pas se présenter au premier concours.
+
+Tous ces concours sont organisés dans le cadre de banques d'épreuves.
