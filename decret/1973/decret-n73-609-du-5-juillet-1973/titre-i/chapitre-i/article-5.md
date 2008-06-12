@@ -4,4 +4,6 @@ La durée de pratique professionnelle prévue à l'article précédent est fixé
 
 Le procureur général près la cour d'appel peut, après avis du bureau du Conseil supérieur du notariat, décider qu'il y a lieu de faire subir à l'intéressé un examen de contrôle des connaissances techniques.
 
-Le programme et les modalités de cet examen sont arrêtés par le garde des sceaux, ministre de la justice, qui consulte préalablement le bureau du Conseil supérieur du notariat.
+Le programme et les modalités de cet examen sont arrêtés par le garde des sceaux, ministre de la justice, qui consulte préalablement le bureau du Conseil supérieur du notariat et le Centre national de l'enseignement professionnel notarial.
+
+Nul ne peut se présenter plus de trois fois à l'examen de contrôle des connaissances techniques.

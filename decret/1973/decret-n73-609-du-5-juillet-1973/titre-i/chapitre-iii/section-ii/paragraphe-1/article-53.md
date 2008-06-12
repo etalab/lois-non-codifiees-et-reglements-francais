@@ -7,3 +7,5 @@ Les épreuves écrites sont organisées de manière à assurer l'anonymat des ca
 Le jury choisit les sujets des épreuves.
 
 L'organisation matérielle de l'examen est confiée au Centre national d'enseignement professionnel notarial.
+
+Le programme et les modalités de cet examen sont arrêtés par le garde des sceaux, ministre de la justice, après consultation du bureau du Conseil supérieur du notariat et du Centre national de l'enseignement professionnel notarial.
