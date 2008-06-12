@@ -427,7 +427,6 @@
 - [Arrêté du 14 septembre 1998 (MESH9823167A)](arrete-du-14-septembre-1998-mesh9823167a)
 - [Arrêté du 14 mai 1998 (DEFI9853006A)](arrete-du-14-mai-1998-defi9853006a)
 - [Arrêté du 14 mai 1998 (ECOD9870016A)](arrete-du-14-mai-1998-ecod9870016a)
-- [Arrêté du 14 mai 1998 (MENC9801193A)](arrete-du-14-mai-1998-menc9801193a)
 - [Arrêté du 14 mai 1998 (MENS9801252A)](arrete-du-14-mai-1998-mens9801252a)
 - [Arrêté du 14 mai 1998 (MESH9821787A)](arrete-du-14-mai-1998-mesh9821787a)
 - [Arrêté du 15 avril 1998 (EQUT9800175A)](arrete-du-15-avril-1998-equt9800175a)
