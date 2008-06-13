@@ -4,4 +4,6 @@ La décision d'aptitude médicale mentionnée à l'article 1er ne peut être ass
 
 a) Licence de pilote professionnel avion (CPL/A) ;
 
-b) Qualifications de classe, à l'exception des qualifications de classe avions multimoteurs.
+b) Qualifications de classe, à l'exception des qualifications de classe avions multimoteurs ;
+
+c) Qualification de vol aux instruments avion (IR [A]) monomoteur.
