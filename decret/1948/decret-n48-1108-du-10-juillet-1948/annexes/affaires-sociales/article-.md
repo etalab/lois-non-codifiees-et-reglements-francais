@@ -7,7 +7,7 @@
 <p align="center">GRADES ET EMPLOIS</p>
 </td>
 <td width="113">
-<p align="center">CLASSEMENT<br/>hiérarchique</p>
+<p align="center">CLASSEMENT hiérarchique</p>
 </td>
 <td width="151">
 <p align="center">OBSERVATIONS</p>
@@ -36,9 +36,16 @@
 <p>Conseiller d'administration (emploi)</p>
 </td>
 <td valign="top" width="113">
-<p align="center">759 - 1015</p>
+<p align="center">750 - 1015</p>
 </td>
 <td valign="top" width="151"/>
+</tr>
+<tr>
+<td/>
+<td>
+<p align="center">HEA</p>
+</td>
+<td>Echelon spécial</td>
 </tr>
 <tr>
 <td valign="top" width="378">
@@ -54,9 +61,7 @@
 <td>
 <p align="center">(612)</p>
 </td>
-<td>
-<p align="left">Echelon exceptionnel</p>
-</td>
+<td>Echelon exceptionnel</td>
 </tr>
 <tr>
 <td valign="top" width="378">
@@ -287,7 +292,7 @@
 <tr>
 <td/>
 <td>
-<p align="center">(550 - 598) (1)</p>
+<p align="left">(550 - 598) (1)</p>
 </td>
 <td>
 <p align="left">(1) Echelons provisoires </p>
@@ -615,7 +620,9 @@
 <td>
 <p align="center">(701)</p>
 </td>
-<td>Hors classe</td>
+<td>
+<p align="left">Hors classe</p>
+</td>
 </tr>
 <tr>
 <td valign="top" width="378">
@@ -1306,7 +1313,7 @@
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Secrétaire général (emploi)</p>
+<p align="left">Secrétaire général (emploi)</p>
 </td>
 <td valign="top" width="113">
 <p align="center">642 - 985</p>

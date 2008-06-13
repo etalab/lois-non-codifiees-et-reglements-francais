@@ -30,6 +30,6 @@ Paris-Monastir ;
 
 Paris-Tozeur.
 
-Jusqu'au 15 mai 2008 :
+Jusqu'au 15 juillet 2008 :
 
-Maroc : Paris-Marrakech.
+Maroc Paris-Marrakech.
