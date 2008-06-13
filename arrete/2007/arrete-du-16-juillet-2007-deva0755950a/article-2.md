@@ -6,8 +6,8 @@ Conditions de délivrance de la qualification AFIS.
 
 a) Etre âgé d'au moins 18 ans ;
 
-b) Apporter la preuve qu'il a suivi une formation théorique et pratique conformément aux articles 5 et 6 du présent arrêté ;
+b) Apporter la preuve qu'il a suivi une formation théorique et pratique conformément aux articles 6 et 7 du présent arrêté ;
 
-c) Avoir réussi les évaluations théoriques et pratiques conformément aux articles 7 et 8 du présent arrêté.
+c) Avoir réussi les évaluations théoriques et pratiques conformément aux articles 8 et 9 du présent arrêté.
 
 2.2. La demande de délivrance de la qualification AFIS est déposée par le candidat auprès de la direction de l'aviation civile territorialement compétente.
