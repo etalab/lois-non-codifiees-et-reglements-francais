@@ -1,10 +1,10 @@
 # Article Annexe II
 
-Les essais définis ci-dessous sont effectués conformément aux normes NF S 31-009 ou NF S 31-109 lors de la vérification primitive, de la vérification périodique ou de la vérification après réparation ou modification.
+Les essais définis ci-dessous sont effectués conformément à la norme NF S 61672-3 lors de la vérification primitive, de la vérification périodique ou de la vérification après réparation ou modification.
 
 Des instructions d'application ou la décision d'approbation de modèle préciseront en tant que de besoin les modalités d'exécution de chacune des phases du contrôle. Elles pourront spécifier des essais différents de ceux définis dans la liste ci-dessous.
 
-I. - Essais à effectuer sur les sonomètres classiques et sur les sonomètres intégrateurs :
+I.-Essais à effectuer sur les sonomètres conventionnels et sur les sonomètres intégrateurs :
 
 1. Vérification de l'exactitude et de la stabilité du calibreur (niveau de pression acoustique et fréquence) ;
 
@@ -24,13 +24,13 @@ I. - Essais à effectuer sur les sonomètres classiques et sur les sonomètres i
 
 9. Essais complémentaires, lorsque ceux-ci sont spécifiés par la décision d'approbation de modèle.
 
-II. - Essais spécifiques aux sonomètres classiques :
+II.-Essais spécifiques aux sonomètres conventionnels :
 
 1. Vérification de la détection quadratique ;
 
 2. Vérification des caractéristiques des pondérations temporelles.
 
-III. - Essais spécifiques aux sonomètres intégrateurs :
+III.-Essais spécifiques aux sonomètres intégrateurs :
 
 1. Vérification du moyennage temporel ;
 

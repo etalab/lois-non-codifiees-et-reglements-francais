@@ -26,11 +26,11 @@ Les éléments amovibles doivent être identifiés lorsque la production de sér
 
 3. Caractéristiques du dispositif de traitement du signal.
 
-Les instruments qui possèdent uniquement la fonction sonomètre classique doivent posséder les deux caractéristiques temporelles S et F ainsi que la pondération fréquentielle A telles qu'elles sont définies par la norme NF S 31-009.
+Les instruments qui possèdent uniquement la fonction sonomètre classique doivent posséder les deux caractéristiques temporelles S et F ainsi que la pondération fréquentielle A telles qu'elles sont définies par la norme NF EN 61672-1.
 
 4. Influence de l'environnement sur le sonomètre seul (calibreur non compris).
 
-Le sonomètre doit être considéré comme destiné à un usage général et doit donc satisfaire aux spécifications du paragraphe 8 de la norme NF S 31-009. Les corrections visées au paragraphe 8.5 de ladite norme doivent être mentionnées, notamment dans la notice d'utilisation.
+Le sonomètre doit être considéré comme destiné à un usage général et doit donc satisfaire aux spécifications des paragraphes 5. 18 et 6 de la norme NF EN 61672-1.
 
 Sous réserve de restrictions d'emploi figurant clairement sur l'instrument, la notice d'utilisation et les documents publicitaires le concernant, cette spécification peut ne pas s'appliquer aux parties du sonomètre exécutant un traitement exclusivement numérique des données délivrées par un dispositif mesureur de niveau de pression acoustique. La longueur maximale de la liaison entre ces parties et le microphone doit alors être clairement mentionnée dans la notice d'utilisation et les documents publicitaires.
 
@@ -118,4 +118,4 @@ Les indications contenues dans le carnet métrologique ne peuvent être modifié
 
 8. Influence d'accessoires.
 
-Le sonomètre avec chacun de ses accessoires doit respecter les tolérances spécifiées par les normes NF S 31-009 ou NF S 31-109 (éventuellement après corrections ou compte tenu de restrictions d'emploi spécifiées par le constructeur) lorsque l'instrument est placé dans un champ acoustique constitué d'ondes planes progressives arrivant sur le microphone dans la direction de référence, à la fréquence et au niveau de référence, le signal étant sinusoïdal à faible taux de distorsion.
+Le sonomètre avec chacun de ses accessoires doit respecter les tolérances spécifiées par la norme NF EN 61672-1 (éventuellement après corrections ou compte tenu de restrictions d'emploi spécifiées par le constructeur) lorsque l'instrument est placé dans un champ acoustique constitué d'ondes planes progressives arrivant sur le microphone dans la direction de référence, à la fréquence et au niveau de référence, le signal étant sinusoïdal à faible taux de distorsion.

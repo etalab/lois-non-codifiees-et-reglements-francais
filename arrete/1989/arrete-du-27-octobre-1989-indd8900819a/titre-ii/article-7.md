@@ -1,6 +1,6 @@
 # Article 7
 
-Le cas échéant, les filtres utilisables avec les sonomètres ou incorporés aux sonomètres peuvent faire l'objet de la procédure d'approbation de modèle s'ils sont conformes à la norme NF C 97-010 Filtres de bandes d'octave, de demi-octave et de tiers d'octave destinés à l'analyse des bruits et des vibrations.
+Le cas échéant, les filtres utilisables avec les sonomètres ou incorporés aux sonomètres peuvent faire l'objet de la procédure d'approbation de modèle s'ils sont conformes à la norme NF EN 61260.
 
 Dans la négative, et dans le cas où il est fait état de tels dispositifs dans des documents rédigés à des fins publicitaires ou dans les documents remis aux acheteurs, une mention figurant sur ces documents doit attirer l'attention sur le fait que ces dispositifs ne sont pas approuvés.
 
