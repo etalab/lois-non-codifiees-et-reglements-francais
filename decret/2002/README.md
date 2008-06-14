@@ -157,7 +157,6 @@
 - [Décret n°2003-799 du 25 août 2003 (EQUP0300202D)](decret-n2003-799-du-25-aout-2003-equp0300202d)
 - [Décret n°2002-410 du 26 mars 2002 (MESA0124284D)](decret-n2002-410-du-26-mars-2002-mesa0124284d)
 - [Décret n°2002-611 du 26 avril 2002 (ECOP0200248D)](decret-n2002-611-du-26-avril-2002-ecop0200248d)
-- [Décret n°2002-633 du 26 avril 2002 (PRMX0200017D)](decret-n2002-633-du-26-avril-2002-prmx0200017d)
 - [Décret n°54-538 du 26 mai 1954](decret-n54-538-du-26-mai-1954)
 - [Décret n°55-733 du 26 mai 1955](decret-n55-733-du-26-mai-1955)
 - [Décret n°2001-1332 du 28 décembre 2001 (MCCT0100750D)](decret-n2001-1332-du-28-decembre-2001-mcct0100750d)
