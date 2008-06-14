@@ -1,5 +1,9 @@
 # Article 19
 
-Les agents qui justifiaient, avant leur nomination dans ce corps en qualité de stagiaire, de services accomplis dans une administration, un organisme ou un établissement d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen au sens de l'article 4 du décret du 24 octobre 2002 susvisé sont classés dans le grade d'attaché, lors de leur titularisation, en application des dispositions du titre II du même décret.
+Lorsqu'ils ne peuvent être pris en compte, lors de la titularisation, en application des dispositions des articles L. 4139-1 et L. 4139-2 du code de la défense, les services accomplis en qualité de militaire, autres que ceux accomplis en qualité d'appelé, sont pris en compte lors de la nomination, à raison :
 
-Dans un délai maximal de six mois à compter de la notification de la décision prononçant leur classement dans les conditions définies à l'alinéa précédent, ils peuvent demander à bénéficier de la bonification prévue au II de l'article 18, plutôt que de l'application des dispositions précitées du décret du 24 octobre 2002 susvisé.
+1° De la moitié de leur durée s'ils ont été effectués en qualité d'officier ;
+
+2° Des six seizièmes de leur durée pour la fraction comprise entre sept ans et seize ans et des neuf seizièmes pour la fraction excédant seize ans s'ils ont été effectués en qualité de sous-officier ou d'officier marinier ;
+
+3° Des six seizièmes de leur durée excédant dix ans s'ils ont été effectués en qualité de militaire du rang.

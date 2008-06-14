@@ -1,13 +1,9 @@
 # Article 14
 
-I. - Les fonctionnaires appartenant à un corps ou à un cadre d'emplois de catégorie B ou de même niveau sont classés dans le grade d'attaché à un échelon déterminé sur la base des durées moyennes fixées à l'article 21 pour chaque avancement d'échelon, en prenant en compte l'ancienneté de la carrière nécessaire pour accéder au grade et à l'échelon que ces fonctionnaires ont atteints, à la date de leur nomination en qualité de stagiaire, dans le corps ou cadre d'emplois d'origine, calculée dans les conditions suivantes et augmentée, le cas échéant, de l'ancienneté acquise dans l'échelon détenu dans le grade d'origine.
+Les attachés appartenant déjà, avant leur nomination, à un corps ou à un cadre d'emplois de catégorie A ou de même niveau sont classés dans le présent corps à l'échelon comportant un indice égal ou, à défaut, immédiatement supérieur à celui qu'ils détenaient dans leurs corps et grade d'origine.
 
-Cette ancienneté de carrière est calculée sur la base :
+Dans la limite de l'ancienneté moyenne fixée à l'article 21 pour une promotion à l'échelon supérieur, ils conservent l'ancienneté d'échelon acquise dans leur grade d'origine lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle qui aurait résulté d'un avancement d'échelon dans leur ancienne situation.
 
-1° D'une part, de la durée statutaire moyenne du temps passé dans les échelons du grade d'origine ;
+Les fonctionnaires nommés alors qu'ils ont atteint le dernier échelon de leur grade d'origine conservent leur ancienneté d'échelon dans les mêmes limites lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle qui a résulté de leur promotion à ce dernier échelon.
 
-2° D'autre part, pour les fonctionnaires titulaires d'un grade d'avancement, de l'ancienneté qu'il est nécessaire de détenir au minimum dans le ou les grades inférieurs pour accéder au grade d'origine détenu, en tenant compte de la durée statutaire moyenne fixée pour chaque avancement d'échelon. Toutefois, cette ancienneté ne peut être inférieure à celle qui aurait été retenue pour ce fonctionnaire dans le grade inférieur s'il n'avait pas obtenu de promotion de grade.
-
-L'ancienneté ainsi déterminée n'est pas retenue en ce qui concerne les quatre premières années, elle est prise en compte à raison des deux tiers pour la fraction comprise entre quatre ans et dix ans et des trois quarts pour l'ancienneté excédant dix ans.
-
-II. - Si l'application de cette modalité de classement leur est plus favorable, les fonctionnaires appartenant à un corps ou cadre d'emploi de catégorie B doté d'un indice terminal au moins égal à l'indice brut 638 sont classés dans le grade d'attaché en application des dispositions de l'article 13.
+Toutefois, les agents qui, avant leur nomination, appartenaient à un autre corps ou cadre d'emplois de catégorie A ou de même niveau doté d'un indice brut terminal inférieur à 801 et qui, avant leur nomination dans ce corps ou cadre d'emplois, appartenaient à un corps ou cadre d'emplois de catégorie B ou de même niveau doté d'un indice brut terminal au moins égal à 638, peuvent demander à être classés selon les règles prévues à l'article 15 en tenant compte de la situation qui serait la leur s'ils n'avaient cessé d'appartenir à ce corps ou cadre d'emplois de catégorie B.

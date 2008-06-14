@@ -11,3 +11,5 @@ Au titre d'une même année, peuvent être ouverts :
 3° Un troisième concours, réservé aux candidats qui, au 1er janvier de l'année au titre de laquelle est organisé le concours, justifient de l'exercice durant cinq années au total, d'une ou plusieurs activités professionnelles, d'un ou plusieurs mandats de membre d'une assemblée élue d'une collectivité territoriale ou d'une ou de plusieurs activités accomplies en qualité de responsable d'une association dans les conditions prévues à l'article 36 de la loi du 26 janvier 1984 susvisée.
 
 Les périodes au cours desquelles l'exercice de plusieurs activités et mandats aura été simultané ne sont prises en compte qu'à un seul titre.
+
+Les activités professionnelles mentionnées ci-dessus sont celles qui sont énumérées dans l'arrêté du maire de Paris pris en application de l'article 18.

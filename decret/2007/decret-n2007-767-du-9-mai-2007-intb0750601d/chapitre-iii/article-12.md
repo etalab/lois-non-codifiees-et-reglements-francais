@@ -1,7 +1,7 @@
 # Article 12
 
-Un même agent ne peut bénéficier cumulativement des dispositions des articles 16 et 18, ni des dispositions d'un de ces articles cumulativement à celles des articles 13, 14 ou 15.
+Les attachés d'administrations parisiennes qui justifient de services antérieurs sont classés, en application des articles 13 à 19, à un échelon déterminé sur la base des durées moyennes fixées à l'article 21 pour chaque avancement d'échelon. Le classement est prononcé à la date de nomination dans le corps.
 
-Les attachés d'administration qui, compte tenu de leur parcours professionnel antérieur, relèvent des dispositions de plusieurs des articles mentionnés à l'alinéa précédent sont classés, lors de leur titularisation, en application des dispositions de l'article correspondant à leur dernière situation.
+II. - La situation et les périodes d'activité antérieures prises en compte en application des articles 14 à 19 pour le classement dans le corps sont appréciées à la date à laquelle intervient ce classement.
 
-Ces agents peuvent toutefois, dans un délai maximal de six mois à compter de la notification de la décision prononçant leur classement dans les conditions prévues à l'alinéa précédent, demander que leur soient appliquées les dispositions d'un autre de ces articles, qui leur sont plus favorables.
+III. - Les dispositions du présent décret ne peuvent avoir pour effet de classer un agent dans un échelon relevant d'un grade d'avancement.

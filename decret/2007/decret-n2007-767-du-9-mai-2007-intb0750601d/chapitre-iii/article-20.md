@@ -1,3 +1,3 @@
 # Article 20
 
-Les agents qui avaient auparavant la qualité d'agent d'une organisation internationale intergouvernementale sont classés, lors de leur titularisation, à un échelon du grade d'attaché déterminé selon les modalités prévues à l'article 16. Les dispositions de l'article 17 leur sont applicables sans que le traitement conservé puisse excéder la limite fixée au 2° de cet article.
+La durée effective de service national accompli en tant qu'appelé est prise en compte pour sa totalité pour s'ajouter à l'ancienneté retenue pour le classement en application des articles 17 à 19.

@@ -1,9 +1,11 @@
 # Article 17
 
-Lorsque les agents sont classés en application des articles 13 à 16 à un échelon du grade d'attaché doté d'un traitement inférieur à celui qu'ils percevaient avant leur nomination dans ce grade, ils conservent à titre personnel le bénéfice de leur traitement antérieur, jusqu'au jour où ils bénéficient en qualité d'attaché d'administration d'un traitement au moins égal. Toutefois, le traitement ainsi maintenu ne peut excéder la limite :
+I. - Les agents qui justifient de services d'agent public non titulaire, de services d'ancien fonctionnaire civil ou de services en tant qu'agent d'une organisation internationale intergouvernementale sont classés à un échelon déterminé en prenant en compte une fraction de leur ancienneté de services publics civils dans les conditions suivantes :
 
-1° Du traitement indiciaire afférent au dernier échelon du grade d'attaché principal pour les agents mentionnés aux articles 13 à 15 ;
+1° Les services accomplis dans des fonctions du niveau de la catégorie A sont retenus à raison de la moitié de leur durée jusqu'à douze ans et des trois quarts de cette durée au-delà de douze ans ;
 
-2° De celui afférent au dernier échelon du grade d'attaché pour les agents mentionnés à l'article 16. En outre, la rémunération ainsi obtenue ne peut être supérieure à la rémunération globale annuelle perçue en qualité d'agent non titulaire.
+2° Les services accomplis dans des fonctions du niveau de la catégorie B ne sont pas retenus en ce qui concerne les sept premières années ; ils sont pris en compte à raison des six seizièmes pour la fraction comprise entre sept ans et seize ans et des neuf seizièmes pour l'ancienneté excédant seize ans ;
 
-La rémunération prise en compte est celle qui a été perçue au titre du dernier emploi occupé avant la nomination sous réserve que l'agent justifie d'au moins six mois de services effectifs dans cet emploi au cours des douze mois précédant cette nomination.
+3° Les services accomplis dans des fonctions du niveau de la catégorie C sont retenus à raison des six seizièmes de leur durée excédant dix ans.
+
+II. - Les agents mentionnés au I qui ont occupé des fonctions de différents niveaux peuvent demander que la totalité de leur ancienneté de services publics civils soit prise en compte, dans les conditions fixées au I, comme si elle avait été accomplie dans les fonctions du niveau le moins élevé.

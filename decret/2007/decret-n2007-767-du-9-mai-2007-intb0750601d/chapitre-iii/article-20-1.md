@@ -1,0 +1,9 @@
+# Article 20-1
+
+I. - Lorsque des attachés sont classés, en application des articles 14 à 16 d'un échelon doté d'un traitement inférieur à celui qu'ils percevaient avant leur nomination, ils conservent à titre personnel le bénéfice de leur traitement antérieur jusqu'au jour où ils bénéficient dans leur nouveau grade d'un traitement au moins égal. Toutefois, le traitement ainsi maintenu ne peut excéder la limite du traitement indiciaire afférent au dernier échelon du corps d'attachés d'administrations parisiennes.
+
+II. - Les agents qui avaient, avant leur nomination, la qualité d'agent non titulaire de droit public et qui sont classés en application de l'article 17 à un échelon doté d'un traitement dont le montant est inférieur à celui de la rémunération qu'ils percevaient avant leur nomination conservent à titre personnel le bénéfice d'un traitement correspondant à l'indice majoré le plus proche de celui qui leur permet d'obtenir un traitement mensuel brut égal à 75 % de leur rémunération mensuelle antérieure, jusqu'au jour où ils bénéficient, dans le corps des attachés d'administrations parisiennes, d'un traitement au moins égal au montant ainsi déterminé.
+
+La rémunération prise en compte est la moyenne des six meilleures rémunérations mensuelles perçues par l'agent dans son dernier emploi, au cours de la période de douze mois précédant la nomination dans le corps des attachés d'administrations parisiennes. Elle ne comprend aucun élément de rémunération accessoire lié à la situation familiale, au lieu de travail ou aux frais de transport. En outre, lorsque l'agent non titulaire exerçait ses fonctions à l'étranger, elle ne comprend aucune majoration liée à l'exercice de ces fonctions à l'étranger.
+
+Le traitement ainsi maintenu ne peut excéder celui afférent au dernier échelon du premier grade du corps d'attachés d'administrations parisiennes.
