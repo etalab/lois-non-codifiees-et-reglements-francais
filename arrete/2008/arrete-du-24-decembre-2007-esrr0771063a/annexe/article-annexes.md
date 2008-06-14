@@ -28,6 +28,8 @@ ONERA : Office national d'études et de recherches aérospatiales.
 
 **2. Au titre des établissements publics administratifs**
 
+ABES : Agence bibliographique de l'enseignement supérieur ;
+
 Académie des technologies.
 
 Agence de la biomédecine.
@@ -42,9 +44,13 @@ AFSSA : Agence française de sécurité sanitaire des aliments.
 
 BNF : Bibliothèque nationale de France.
 
+BNUS : Bibliothèque nationale et universitaire de Strasbourg ;
+
 CEE : Centre d'étude de l'emploi.
 
 Centre international d'études supérieures en sciences agronomiques (Montpellier Sup Agro).
+
+CINES : Centre informatique national de l'enseignement supérieur ;
 
 CNDP : Centre national de la documentation pédagogique.
 
@@ -53,6 +59,8 @@ CNED : Centre national d'enseignement à distance.
 Centre national des arts plastiques.
 
 CEREQ : Centre d'études et de recherches sur les qualifications.
+
+CTLES : Centre technique du livre de l'enseignement supérieur ;
 
 Etablissement français du sang.
 
@@ -71,6 +79,8 @@ Institut des hautes études pour la science et la technologie.
 INJEP : Institut national de la jeunesse et de l'éducation populaire.
 
 Institut national de recherches archéologiques préventives.
+
+INSTN : Institut national des sciences et techniques nucléaires.
 
 Météo-France.
 
@@ -204,6 +214,8 @@ Fondation Tuck pour la formation et la recherche internationale dans le domaine 
 
 Institut Curie.
 
+Institut d'études avancées de Nantes.
+
 Institut des hautes études scientifiques (IHES).
 
 Institut d'optique théorique et appliquée.
@@ -219,6 +231,8 @@ Maison des sciences de l'homme.
 **4. Au titre des organismes à caractère international**
 
 CERN : Organisation européenne pour la recherche nucléaire.
+
+CIHEAM : Centre international de hautes études agronomiques méditerranéennes.
 
 CIRC : Centre international de recherche contre le cancer.
 
@@ -247,3 +261,7 @@ n° 2 du 03/01/2008 texte numéro 23
 Vous pouvez consulter le tableau dans le JO
 
 n° 2 du 03/01/2008 texte numéro 23
+
+Vous pouvez consulter le tableau dans le JO
+
+n° 137 du 13/06/2008 texte numéro 31

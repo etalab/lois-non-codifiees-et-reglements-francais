@@ -21,3 +21,5 @@ II. ― Les établissements publics à caractère scientifique, culturel et prof
 ― les établissements d'enseignement supérieur spécialisés créés en application des articles L. 751-1 et suivants du code de l'éducation ;
 
 ― les établissements habilités à délivrer le titre d'ingénieur en application de l'article L. 642-1 du code de l'éducation et les écoles de commerce et de gestion reconnues par l'Etat et dont le diplôme est visé par l'Etat.
+
+III. - Les centres hospitaliers universitaires mentionnés au troisième alinéa de l'article L. 6141-2 du code de la santé publique.
